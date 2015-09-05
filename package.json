@@ -1,0 +1,20 @@
+{
+  "name": "chanhi2000.github.io",
+  "version": "0.0.1",
+  "description": "my personal blog",
+  "main": "index.js",
+  "authors": {
+    "name": "Chan Hee Lee",
+    "email": "chanhi2000@gmail.com"
+  },
+  "repository": "https://github.com/chanhi2000/chanhi2000.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.5.3"
+  }
+}
