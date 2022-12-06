@@ -1,10 +1,11 @@
-const { description } = require('../../package')
+const { description } = require('../../package');
+const { getDocsNavBar } = require('./utils');
 
 module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Devlog by Chan',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -26,39 +27,35 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
-  theme: '@vuepress/blog',
+  theme: '@vuepress/theme-default',
   themeConfig: {
-    repo: '',
+    lang: 'ko-KR',
+    repo: 'chanhi2000/devlog',
+    repoLabel: 'Contribute!',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    sidebar: {
+      '/tips/': getDocsNavBar('tips'),
+      '/config/': getDocsNavBar('config'),
+    },
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Tips',
+        link: '/tips/',
       },
       {
         text: 'Config',
         link: '/config/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Github',
+        link: 'https://github.com/chanhi2000'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+    displayAllHeaders: true,
+    smoothScroll: true,
   },
 
   /**
@@ -67,5 +64,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    'vuepress-plugin-mermaidjs',
   ]
 }
