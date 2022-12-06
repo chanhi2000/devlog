@@ -2,7 +2,7 @@
 
 > Vuepress-based Chan's Personal Devlog
 
-![GitHub package.json version (subfolder of monorepo)][sheild-proj-v]
+![shield-proj-v][shield-proj-v]
 
 ## What's included?
 
