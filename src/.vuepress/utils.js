@@ -22,8 +22,9 @@ function getDocsNavBar(item) {
           }, {
             title: 'Kotlin',
             children: [
-              'lang-kotlin/1',
-              'lang-kotlin/2',
+              'lang-kotlin/',
+              'lang-kotlin/tips',
+              'lang-kotlin/references',
             ]
           }, {
             title: 'Java',
@@ -38,10 +39,10 @@ function getDocsNavBar(item) {
               'lang-swift/2',
             ]
           }, {
-            title: 'Shell',
+            title: 'Bash',
             children: [
-              'lang-shell/1',
-              'lang-shell/2',
+              'lang-bash/',
+              'lang-bash/fundamental',
             ]
           }, {
             title: 'Windows Batch Script',
@@ -75,7 +76,8 @@ function getDocsNavBar(item) {
           {
             title: 'Git',
             children: [
-              'devops-git/1',
+              'devops-git/',
+              'devops-git/troubleshooting',
             ]
           }, {
             title: 'Linux',
@@ -107,7 +109,8 @@ function getDocsNavBar(item) {
           {
             title: 'Mermaid.js',
             children: [
-              'js-mermaid/1',
+              'js-mermaid/',
+              'js-mermaid/example',
             ]
           }, {
             title: 'Node.js',
@@ -124,7 +127,7 @@ function getDocsNavBar(item) {
           {
             title: 'Markdown',
             children: [
-              'markdown/1'
+              'lang-markdown/',
             ]
           }, { 
             title: 'Intellij Idea Ultimate',

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Github
-description: Github
+title: Mermaid.js
+description: Mermaid.js
 ---
 
 # {{ $frontmatter.title }} 관련

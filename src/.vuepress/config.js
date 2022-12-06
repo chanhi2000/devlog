@@ -42,7 +42,7 @@ module.exports = {
     },
     nav: [
       {
-        text: 'Info Banks',
+        text: '📖Info Banks',
         link: '/info-banks/',
       },
       {
@@ -50,12 +50,17 @@ module.exports = {
         link: '/config/'
       },
       {
-        text: 'Github',
+        text: '💻Github',
         link: 'https://github.com/chanhi2000'
       }
     ],
     displayAllHeaders: true,
     smoothScroll: true,
+  },
+  
+  markdown: {
+    lineNumbers: true,
+    toc: { includeLevel: [1, 2] },
   },
 
   /**
@@ -64,6 +69,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    'vuepress-plugin-mermaidjs',
+    '@renovamen/vuepress-plugin-mermaid',
   ]
 }

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Github
-description: Github
+title: Kotlin
+description: Kotlin
 ---
 
 # {{ $frontmatter.title }} 관련

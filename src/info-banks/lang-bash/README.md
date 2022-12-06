@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Github
-description: Github
+title: Bash
+description: Bash
 ---
 
 # {{ $frontmatter.title }} 관련
