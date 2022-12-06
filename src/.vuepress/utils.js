@@ -3,7 +3,7 @@ function getDocsNavBar(item) {
     switch (item) {
       case 'config':
         break;
-      case 'tips':
+      case 'info-banks':
         return [
           '',
           //region: lang
@@ -131,6 +131,24 @@ function getDocsNavBar(item) {
             children: [
               'ide-intellij-idea-ue/1.md',
             ]
+          }, {
+            title: 'Github',
+            children: [
+              'site-github/',
+              'site-github/news',
+              'site-github/library',
+              'site-github/awesome-list',
+              'site-github/tutorial',
+              'site-github/portfolio',
+            ]
+          }, {
+            title: 'Other Site(s)',
+            children: [
+              'site-others/',
+              'site-others/popular',
+              'site-others/api-and-res',
+              'site-others/devlog',
+            ],
           },
         ];
       case '5.0':

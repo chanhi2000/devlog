@@ -37,13 +37,13 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     sidebar: {
-      '/tips/': getDocsNavBar('tips'),
+      '/info-banks/': getDocsNavBar('info-banks'),
       '/config/': getDocsNavBar('config'),
     },
     nav: [
       {
-        text: 'Tips',
-        link: '/tips/',
+        text: 'Info Banks',
+        link: '/info-banks/',
       },
       {
         text: 'Config',
