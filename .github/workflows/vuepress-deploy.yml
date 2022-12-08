@@ -4,7 +4,6 @@ on:
   push:
     tags:
       - v*
-author: chanhi2000
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -13,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: checkout main branch
+      - name: checkout project's main branch
         uses: actions/checkout@main
 
       - name: vuepress-deploy
@@ -22,7 +21,7 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: chanhi2000/chanhi2000.github.io
           TARGET_BRANCH: master
-          BUILD_SCRIPT: npm && npm run build
+          BUILD_SCRIPT: yarn && yarn build
           BUILD_DIR: src/.vuepress/dist
           CNAME: https://chanhi2000.github.io
 
