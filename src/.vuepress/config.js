@@ -38,7 +38,7 @@ module.exports = {
     lastUpdated: false,
     sidebar: {
       '/info-banks/': getDocsNavBar('info-banks'),
-      '/config/': getDocsNavBar('config'),
+      '/todo/': getDocsNavBar('todo'),
     },
     nav: [
       {
@@ -46,12 +46,8 @@ module.exports = {
         link: '/info-banks/',
       },
       {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: '💻Github',
-        link: 'https://github.com/chanhi2000'
+        text: '✅Todo',
+        link: '/todo/'
       }
     ],
     displayAllHeaders: true,

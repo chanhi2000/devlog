@@ -1,8 +1,10 @@
 
 function getDocsNavBar(item) {
     switch (item) {
-      case 'config':
-        break;
+      case 'todo':
+        return [
+          '',
+        ]
       case 'info-banks':
         return [
           '',

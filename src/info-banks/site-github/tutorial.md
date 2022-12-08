@@ -19,8 +19,23 @@ description: Github > Tutorial
 - [akullpp/awesome-java][akullpp/awesome-java]: A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [preslavmihaylov/booknotes][preslavmihaylov/booknotes]: A collection of my book notes on various computer science books
 
+
+## Kotlin
+- [Kotlin/KEEP][Kotlin/KEEP]: Kotlin Evolution and Enhancement Process
+- [tarek360/Kotlin-JavaScript-Lottie-Example][tarek360/Kotlin-JavaScript-Lottie-Example]: Example shows calling a JavaScript library from Kotlin as a dynamic type and static type
+- [PaperMC/paperweight-examples][PaperMC/paperweight-examples]: 
+
+
 ## Android
 - [SmartToolFactory/Jetpack-Compose-Tutorials][SmartToolFactory/Jetpack-Compose-Tutorials]
+- [parasv49/Android-Internal-Notification][parasv49/Android-Internal-Notification]: Android Internal Notification
+- [https://gist.github.com/vilmarbfilho/1f162d09899523198a8ffd424b47ccd1][vilmarbfilho/1f162d09899523198a8ffd424b47ccd1]: library_buildconfig
+
+
+## Swift
+- [pointfreeco/episode-code-samples][pointfreeco/episode-code-samples]: 💾 Point-Free episode code.
+    - [🌐Official Site](https://www.pointfree.co)
+
 
 ## Javascript
 - [airbnb/javascript][airbnb/javascript]: JavaScript Style Guide
@@ -32,6 +47,8 @@ description: Github > Tutorial
 - [leegeunhyeok/paper][leegeunhyeok/paper]: 🎉 SNS 앱 예제로 배우는 프로그레시브 웹 앱 실습코드
     - [🌐Official Site](http://www.yes24.com/Product/Goods/91360603)
 - [techreagan/vue-nodejs-youtube-clone][techreagan/vue-nodejs-youtube-clone]: This is the frontend (VueJS) of the Youtube clone called VueTube.
+- [ryanmcdermott/clean-code-javascript][ryanmcdermott/clean-code-javascript]: 🛁 Clean Code concepts adapted for JavaScript
+- [bradtraversy/vanillawebprojects][bradtraversy/vanillawebprojects]: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 
 
 ## Python
@@ -98,8 +115,16 @@ description: Github > Tutorial
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
 [preslavmihaylov/booknotes]: https://github.com/preslavmihaylov/booknotes
+<!-- Kotlin -->
+[Kotlin/KEEP]: https://github.com/Kotlin/KEEP
+[tarek360/Kotlin-JavaScript-Lottie-Example]: https://github.com/tarek360/Kotlin-JavaScript-Lottie-Example
+[PaperMC/paperweight-examples]: https://github.com/PaperMC/paperweight-examples
 <!--Android-->
 [SmartToolFactory/Jetpack-Compose-Tutorials]: https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials
+[parasv49/Android-Internal-Notification]: https://github.com/parasv49/Android-Internal-Notification
+[vilmarbfilho/1f162d09899523198a8ffd424b47ccd1]: https://gist.github.com/vilmarbfilho/1f162d09899523198a8ffd424b47ccd1
+<!-- Swift -->
+[pointfreeco/episode-code-samples]: https://github.com/pointfreeco/episode-code-samples
 <!-- Javascript -->
 [airbnb/javascript]: https://github.com/airbnb/javascript
 [goldbergyoni/nodebestpractices]: https://github.com/goldbergyoni/nodebestpractices
@@ -108,6 +133,8 @@ description: Github > Tutorial
 [bradtraversy/50projects50days]: https://github.com/bradtraversy/50projects50days
 [leegeunhyeok/paper]: https://github.com/leegeunhyeok/paper
 [techreagan/vue-nodejs-youtube-clone]: https://github.com/techreagan/vue-nodejs-youtube-clone
+[ryanmcdermott/clean-code-javascript]: https://github.com/ryanmcdermott/clean-code-javascript
+[bradtraversy/vanillawebprojects]: https://github.com/bradtraversy/vanillawebprojects
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses

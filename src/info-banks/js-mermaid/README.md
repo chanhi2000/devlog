@@ -2,6 +2,10 @@
 lang: ko-KR
 title: Mermaid.js
 description: Mermaid.js
+tags:
+  - js
+  - mermaid
+  - mermaidjs
 ---
 
 # {{ $frontmatter.title }} 관련
