@@ -32,7 +32,7 @@ Future task2        :         desA5, after desA3, 5d
 
 ### A. 2022년 자료준비 
 #### A1. 북마크 기록
-- [ ] 크롬 브라우저에 동기화 되어 있는 북마크 중, 개발관련 내용은 전부 여기로 이동
+- [x] 크롬 브라우저에 동기화 되어 있는 북마크 중, 개발관련 내용은 전부 여기로 이동
 
 #### A2. github profile 변경
 - [ ] I'm currently working on 문구 바꾸기

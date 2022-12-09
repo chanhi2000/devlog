@@ -46,6 +46,9 @@ tags:
 - [PaperMC/Starlight][PaperMC/Starlight]: Rewrites the light engine to fix lighting performance and lighting errors
 - [sniffy/sniffy][sniffy/sniffy]: Sniffy - interactive profiler, testing and chaos engineering tool for Java
     - [🌐Official Site](https://www.sniffy.io)
+- [Netflix/conductor][Netflix/conductor]: Conductor is a microservices orchestration engine.
+    - [🌐Official Site](https://conductor.netflix.com)
+- [alibaba/fastjson2][alibaba/fastjson2]: 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 
 
 ## Kotlin
@@ -83,7 +86,7 @@ tags:
 - [facebook/fresco][facebook/fresco]: An Android library for managing images and the memory they use.
     - [🌐Official Site](https://frescolib.org)
 - [hootsuite/nachos][hootsuite/nachos]: Material Chips for Android
-
+- [android/architecture-templates][android/architecture-templates]
 
 
 ## Swift
@@ -101,11 +104,17 @@ tags:
 - [gao-sun/eul][gao-sun/eul]: 🖥️ macOS status monitoring app written in SwiftUI.
 - [apple/swift-async-algorithms][apple/swift-async-algorithms]: Async Algorithms for Swift
 - [Lakr233/Rayon][Lakr233/Rayon]: yet another SSH machine manager
+- [gureum/gureum][gureum/gureum]: 더 편리한 macOS 한글 입력기
+    - [🌐Official Site](http://gureum.io)
 
 
 ## Multiplatform
 - [google/filament][google/filament]: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
     - [🌐Official Site](https://google.github.io/filament)
+- [Tencent/Hippy][Tencent/Hippy]: Hippy is designed to easily build cross-platform dynamic apps. 👏
+    - [🌐Official Site](https://hippyjs.org)
+- [Shopify/react-native-skia][Shopify/react-native-skia]: High-performance React Native Graphics using Skia
+    - [🌐Official Site](https://shopify.github.io/react-native-skia)
 
 
 ## Javascript
@@ -139,7 +148,34 @@ tags:
     - [🌐Official Site](https://www.tldraw.com) 
 - [thunlp/WantWords][thunlp/WantWords]: An open-source online reverse dictionary.
     - [🌐Official Site](https://wantwords.net)
-
+- [microsoft/vscode][microsoft/vscode]: Visual Studio Code
+    - [🌐Official Site](https://code.visualstudio.com)
+- [DustinBrett/daedalOS][DustinBrett/daedalOS]: Desktop environment in the browser.
+    - [🌐Official Site](https://dustinbrett.com)
+- [UnblockNeteaseMusic/server][UnblockNeteaseMusic/server]: Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+- [solana-labs/solana-pay][solana-labs/solana-pay]: A new standard for decentralized payments.
+    - [🌐Official Site](https://solanapay.com)
+- [trpc/trpc][trpc/trpc]: 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+    - [🌐Official Site](https://trpc.io)
+- [flashbots/simple-arbitrage][flashbots/simple-arbitrage]: Example arbitrage bot using Flashbots
+- [roots/bud][roots/bud]: ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
+    - [🌐Official Site](https://bud.js.org)
+- [remix-run/remix][remix-run/remix]: Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+    - [🌐Official Site](https://remix.run)
+- [iptv-org/iptv][iptv-org/iptv]: Collection of publicly available IPTV channels from all over the world
+- [nolanlawson/fuite][nolanlawson/fuite]: A tool for finding memory leaks in web apps
+- [medusajs/medusa][medusajs/medusa]: The open-source Shopify alternative ⚡️
+    - [🌐Official Site](https://medusajs.com)
+- [AsyncBanana/microdiff][AsyncBanana/microdiff]: A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
+- [laurent22/joplin][laurent22/joplin]: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+    - [🌐Official Site](https://joplinapp.org)
+- [marktext/marktext][marktext/marktext]: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+    - [🌐Official Site](https://marktext.app)
+- [facebook/flipper][facebook/flipper]: A desktop debugging platform for mobile developers.
+    - [🌐Official Site](https://fbflipper.com)
+- [facebook/jest][facebook/jest]: Delightful JavaScript Testing.
+    - [🌐Official Site](https://jestjs.io)
+    
 
 ## Python
 - [OpenBapul/hml-equation-parser][OpenBapul/hml-equation-parser]
@@ -157,15 +193,24 @@ tags:
 ## Go
 - [Arriven/db1000n][Arriven/db1000n]: Death by 1000 needles
 - [charmbracelet/vhs][charmbracelet/vhs]: Your CLI home video recorder 📼
-
+- [gorilla/mux][gorilla/mux]: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+    - [🌐Official Site](http://www.gorillatoolkit.org/pkg/mux)
 
 ## Rust
 - [tauri-apps/tauri][tauri-apps/tauri]: Build smaller, faster, and more secure desktop applications with a web frontend.
     - [🌐Official Site](https://tauri.app)
+- [helix-editor/helix][helix-editor/helix]: A post-modern modal text editor.
+    - [🌐Official Site](https://helix-editor.com)
+
 
 ## C#
 - [scottplot/scottplot][scottplot/scottplot]: Interactive Plotting Library for .NET
     - [🌐Official Site](https://scottplot.net)
+- [microsoft/PowerToys][microsoft/PowerToys]: Windows system utilities to maximize productivity 
+- [valinet/ExplorerPatcher][valinet/ExplorerPatcher]: This project aims to enhance the working environment on Windows
+- [microsoft/calculator][microsoft/calculator]: Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [coofcookie/Windows11Upgrade][coofcookie/Windows11Upgrade]: Windows 11 Upgrade tool that bypasses Microsoft´s requirements
+
 
 ## PHP
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
@@ -177,7 +222,13 @@ tags:
     - [🌐Official Site](https://tldr.sh)
 - [LunarVim/Neovim-from-scratch][LunarVim/Neovim-from-scratch]: 📚 A Neovim config designed from scratch to be understandable
     - [🌐Official Site](https://www.chrisatmachine.com)
-
+- [LunarVim/LunarVim][LunarVim/LunarVim]: 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+    - [🌐Official Site](https://www.lunarvim.org)
+- [WSA-Community/WSAGAScript][WSA-Community/WSAGAScript]: Scripts to install Google Apps into a WSA image. Plus optional root
+- [altercation/solarized][altercation/solarized]: precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
+    - [🌐Official Site](http://ethanschoonover.com/solarized)
+- [ohmyzsh/ohmyzsh][ohmyzsh/ohmyzsh]: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.    
+    - [🌐Official Site](https://ohmyz.sh)
 
 ## CSS/Images
 - [badges/shields][badges/shields]: Concise, consistent, and legible badges in SVG and raster format
@@ -217,6 +268,8 @@ tags:
 [PaperMC/DataConverter]: https://github.com/PaperMC/DataConverter
 [PaperMC/Starlight]: https://github.com/PaperMC/Starlight
 [sniffy/sniffy]: https://github.com/sniffy/sniffy
+[Netflix/conductor]: https://github.com/Netflix/conductor
+[alibaba/fastjson2]: https://github.com/alibaba/fastjson2
 <!-- Kotlin -->
 [Kotlin/dokka]: https://github.com/Kotlin/dokka
 [PaperMC/Paper]: https://github.com/PaperMC/Paper
@@ -242,6 +295,7 @@ tags:
 [coil-kt/coil]: https://github.com/coil-kt
 [facebook/fresco]: https://github.com/facebook/fresco
 [hootsuite/nachos]: https://github.com/hootsuite/nachos
+[android/architecture-templates]: https://github.com/android/architecture-templates/tree/base
 <!-- Swift -->
 [CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
 [tuist/tuist]: https://github.com/tuist/tuist
@@ -252,8 +306,12 @@ tags:
 [gao-sun/eul]: https://github.com/gao-sun/eul
 [apple/swift-async-algorithms]: https://github.com/apple/swift-async-algorithms
 [Lakr233/Rayon]: https://github.com/Lakr233/Rayon
+[gureum/gureum]: https://github.com/gureum/gureum
 <!-- Multiplatform -->
 [google/filament]: https://github.com/google/filament
+[Tencent/Hippy]: https://github.com/Tencent/Hippy 
+[microsoft/vscode]: https://github.com/microsoft/vscode
+[Shopify/react-native-skia]: https://github.com/Shopify/react-native-skia
 <!-- Javascript -->
 [hahnlee/hwp.js]: https://github.com/hahnlee/hwp.js
 [SadeghHayeri/GreenTunnel]: https://github.com/SadeghHayeri/GreenTunnel
@@ -274,6 +332,21 @@ tags:
 [select2/select2]: https://github.com/select2/select2
 [tldraw/tldraw]: https://github.com/tldraw/tldraw
 [thunlp/WantWords]: https://github.com/thunlp/WantWords
+[DustinBrett/daedalOS]: https://github.com/DustinBrett/daedalOS
+[UnblockNeteaseMusic/server]: https://github.com/UnblockNeteaseMusic/server
+[solana-labs/solana-pay]: https://github.com/solana-labs/solana-pay
+[trpc/trpc]: https://github.com/trpc/trpc
+[flashbots/simple-arbitrage]: https://github.com/flashbots/simple-arbitrage
+[roots/bud]: https://github.com/roots/bud
+[remix-run/remix]: https://github.com/remix-run/remix
+[iptv-org/iptv]: https://github.com/iptv-org/iptv
+[nolanlawson/fuite]: https://github.com/nolanlawson/fuite
+[medusajs/medusa]: https://github.com/medusajs/medusa
+[AsyncBanana/microdiff]: https://github.com/AsyncBanana/microdiff
+[laurent22/joplin]: https://github.com/laurent22/joplin
+[marktext/marktext]: https://github.com/marktext/marktext
+[facebook/flipper]: https://github.com/facebook/flipper
+[facebook/jest]: https://github.com/facebook/jest
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -284,15 +357,25 @@ tags:
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
+[gorilla/mux]: https://github.com/gorilla/mux
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
+[helix-editor/helix]: https://github.com/helix-editor/helix
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
+[microsoft/PowerToys]: https://github.com/microsoft/PowerToys
+[valinet/ExplorerPatcher]: https://github.com/valinet/ExplorerPatcher
+[microsoft/calculator]: https://github.com/microsoft/calculator
+[coofcookie/Windows11Upgrade]: https://github.com/coofcookie/Windows11Upgrade
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
+[LunarVim/LunarVim]: https://github.com/LunarVim/LunarVim
+[WSA-Community/WSAGAScript]: https://github.com/WSA-Community/WSAGAScript
+[altercation/solarized]: https://github.com/altercation/solarized
+[ohmyzsh/ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
 <!-- CSS/Images -->
 [badges/shields]: https://github.com/badges/shields
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md

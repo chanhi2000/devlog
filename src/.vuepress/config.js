@@ -56,7 +56,10 @@ module.exports = {
   
   markdown: {
     lineNumbers: true,
-    toc: { includeLevel: [1, 2] },
+    extendMarkdown: md => {
+      md.use(require('markdown-it-task-lists'))
+    },
+    toc: { includeLevel: [1, 2, 3] },
   },
 
   /**

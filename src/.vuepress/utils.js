@@ -94,15 +94,22 @@ function getDocsNavBar(item) {
               'devops-windows/2',
             ]
           },{
-            title: 'Docker',
+            title: '🖥️macOS',
             children: [
-              'devops-docker/1',
+              'devops-macos/',
+              'devops-macos/setup',
+              'devops-macos/useful-commands',
+            ]
+          }, {
+            title: '🐋Docker',
+            children: [
+              'devops-docker/',
               'devops-docker/2',
             ]
           }, {
-            title: 'Jenkins',
+            title: '🤵🏻Jenkins',
             children: [
-              'devops-jenkins/1',
+              'devops-jenkins/',
               'devops-jenkins/2',
             ]
           }, 

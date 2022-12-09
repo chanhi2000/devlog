@@ -49,6 +49,8 @@ description: Github > Tutorial
 - [techreagan/vue-nodejs-youtube-clone][techreagan/vue-nodejs-youtube-clone]: This is the frontend (VueJS) of the Youtube clone called VueTube.
 - [ryanmcdermott/clean-code-javascript][ryanmcdermott/clean-code-javascript]: 🛁 Clean Code concepts adapted for JavaScript
 - [bradtraversy/vanillawebprojects][bradtraversy/vanillawebprojects]: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [Th3Wall/Fakeflix][Th3Wall/Fakeflix]: Not the usual clone that you can find on the web.
+    - [🌐Official Site](https://fakeflix.th3wall.codes)
 
 
 ## Python
@@ -68,6 +70,7 @@ description: Github > Tutorial
 
 ## Go
 - [inancgumus/learngo][inancgumus/learngo]: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+- [marcel-dempers/docker-development-youtube-series][marcel-dempers/docker-development-youtube-series]: A Collection of tools, hands-on walkthroughs with source code.
 
 
 ## Rust
@@ -94,6 +97,9 @@ description: Github > Tutorial
 - [bobbyiliev/introduction-to-bash-scripting][bobbyiliev/introduction-to-bash-scripting]: Free Introduction to Bash Scripting eBook
     - [🌐Official Site](https://ebook.bobby.sh)
 - [jlevy/the-art-of-command-line][jlevy/the-art-of-command-line]: Master the command line, in one page
+
+## Pwsh
+- [Purp1eW0lf/Blue-Team-Notes][Purp1eW0lf/Blue-Team-Notes]: You didn't think I'd go and leave the blue team out, right?
 
 
 ## Misc.
@@ -135,6 +141,7 @@ description: Github > Tutorial
 [techreagan/vue-nodejs-youtube-clone]: https://github.com/techreagan/vue-nodejs-youtube-clone
 [ryanmcdermott/clean-code-javascript]: https://github.com/ryanmcdermott/clean-code-javascript
 [bradtraversy/vanillawebprojects]: https://github.com/bradtraversy/vanillawebprojects
+[Th3Wall/Fakeflix]: https://github.com/Th3Wall/Fakeflix
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
@@ -146,6 +153,7 @@ description: Github > Tutorial
 
 <!-- Go -->
 [inancgumus/learngo]: https://github.com/inancgumus/learngo
+[marcel-dempers/docker-development-youtube-series]: https://github.com/marcel-dempers/docker-development-youtube-series
 <!-- Rust -->
 [sunface/rust-by-practice]: https://github.com/sunface/rust-by-practice
 <!-- DevOps -->
@@ -159,6 +167,8 @@ description: Github > Tutorial
 <!-- Bash -->
 [bobbyiliev/introduction-to-bash-scripting]: https://github.com/bobbyiliev/introduction-to-bash-scripting
 [jlevy/the-art-of-command-line]: https://github.com/jlevy/the-art-of-command-line
+<!-- Pwsh -->
+[Purp1eW0lf/Blue-Team-Notes]: https://github.com/Purp1eW0lf/Blue-Team-Notes
 <!-- Misc. -->
 [gothinkster/realworld]: https://github.com/gothinkster/realworld
 [codecrafters-io/build-your-own-x]: https://github.com/codecrafters-io/build-your-own-x

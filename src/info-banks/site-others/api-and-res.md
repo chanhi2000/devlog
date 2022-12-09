@@ -18,7 +18,8 @@ tags:
 - [regexper][regexper]: You thought you only had two problems…
 - [regexr][regexr]: RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [overapi][overapi]: Collecting All Cheat Sheets
-
+- [emailjs][emailjs]: EmailJS Documentation
+- [htaccess][htaccess]: Test your htaccess rewrite rules
 
 ## Resources
 - [Awesome Cheatsheets][awesome-cheatsheets]: Awesome cheatsheets for popular programming languages, frameworks and development tools.
@@ -33,6 +34,16 @@ tags:
 - [Cracking Vue.js][cracking-vuejs]: 이 사이트는 Vue.js로 웹 서비스를 개발할 때 필요한 지식을 모아놓은 사이트입니다.
 - [git - 간편 안내서][git-guide-ko]: git을 시작하기 위한 간편 안내서.
 - [tldraw][tldraw]: A tiny little drawing app.
+- [webflow-css3-playground][webflow-css3-playground]: The site you want — without the dev time
+- [codingame][codingame]: The new way to improve your programming skills while having fun and getting noticed
+- [vim-adventures][vim-adventures]: Learn Vim while playing games
+- [rg-adguard][rg-adguard]: Online link generator for Microsoft Store.
+- [eloquentjavascript][eloquentjavascript]: This is a book about JavaScript, programming, and the wonders of the digital.
+- [byte-of-vim][byte-of-vim]: A Byte of Vim v0.51
+
+## Community
+
+- [hamonikr][hamonikr]: 리눅스 커뮤니티 하모니카
 
 
 <!-- APIs -->
@@ -43,6 +54,9 @@ tags:
 [regexper]: https://regexper.com
 [regexr]: https://regexr.com
 [overapi]: https://overapi.com
+[emailjs]: https://www.emailjs.com/docs
+[htaccess]: https://htaccess.madewithlove.com
+
 <!-- Resources -->
 [awesome-cheatsheets]: https://lecoupa.github.io/awesome-cheatsheets/
 [Popular-Color-Palettes]: https://www.color-hex.com/color-palettes/popular.php
@@ -55,3 +69,11 @@ tags:
 [cracking-vuejs]: https://joshua1988.github.io/vue-camp/textbook.html
 [git-guide-ko]: https://rogerdudler.github.io/git-guide/index.ko.html
 [tldraw]: https://www.tldraw.com
+[webflow-css3-playground]: http://playground.webflow.com
+[codingame]: https://www.codingame.com/start
+[vim-adventures]: https://vim-adventures.com
+[rg-adguard]: https://store.rg-adguard.net
+[eloquentjavascript]: https://eloquentjavascript.net
+[byte-of-vim]: https://vim.swaroopch.com/byte-of-vim.pdf
+<!-- Community -->
+[hamonikr]: https://hamonikr.org
