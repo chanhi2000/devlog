@@ -1,12 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Kotlin
-meta: 
-  - name: description
-    content: hello
-  - name: keywords
-    content: super duper SEO
+description: Java
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -15,7 +10,7 @@ meta:
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-![shield-kotlin][shield-kotlin]
+![shield-java][shield-java]
 ![shield-android][shield-android]
 ![shield-spring][shield-spring]
 ![shield-spring-boot][shield-spring-boot]
@@ -26,7 +21,7 @@ meta:
 
 {{ $frontmatter.description }} 관련 정리내용
 
-[shield-kotlin]: https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square
+[shield-java]: https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square
 [shield-android]: https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square
 [shield-spring]: https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat-square
 [shield-spring-boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Springboot&logoColor=white&style=flat-square

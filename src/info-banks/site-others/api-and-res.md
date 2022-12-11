@@ -10,6 +10,7 @@ tags:
 
 # APIs & Resources 관련
 
+---
 ## APIs
 - [gitignore][gitignore]: Create useful .gitignore files for your project
 - [Smalldev Tools][small-devtools]
@@ -21,6 +22,7 @@ tags:
 - [emailjs][emailjs]: EmailJS Documentation
 - [htaccess][htaccess]: Test your htaccess rewrite rules
 
+---
 ## Resources
 - [Awesome Cheatsheets][awesome-cheatsheets]: Awesome cheatsheets for popular programming languages, frameworks and development tools.
  They include everything you should know in one single file. 👩‍💻👨‍💻
@@ -41,8 +43,8 @@ tags:
 - [eloquentjavascript][eloquentjavascript]: This is a book about JavaScript, programming, and the wonders of the digital.
 - [byte-of-vim][byte-of-vim]: A Byte of Vim v0.51
 
+---
 ## Community
-
 - [hamonikr][hamonikr]: 리눅스 커뮤니티 하모니카
 
 

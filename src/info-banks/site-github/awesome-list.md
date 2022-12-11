@@ -34,6 +34,9 @@ tags:
 - [decalage2/awesome-security-hardening][decalage2/awesome-security-hardening]: A collection of awesome security hardening guides, tools and other resources
 - [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]: 
 - [hsavit1/Awesome-Swift-Education][hsavit1/Awesome-Swift-Education]: 🔥 Learn some Swift
+- [doocs/leetcode][doocs/leetcode]: 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+    - [🌐Official Site](https://doocs.github.io/leetcode)
+
 
 ## Free Books
 - [dariubs/GoBooks][dariubs/GoBooks]
@@ -66,6 +69,7 @@ tags:
 [decalage2/awesome-security-hardening]: https://github.com/decalage2/awesome-security-hardening
 [f/awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
 [hsavit1/Awesome-Swift-Education]: https://github.com/hsavit1/Awesome-Swift-Education
+[doocs/leetcode]: https://github.com/doocs/leetcode
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

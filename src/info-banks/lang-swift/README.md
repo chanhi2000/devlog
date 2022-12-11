@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🖥️macOS
+description: Swift
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -10,12 +10,10 @@ description: 🖥️macOS
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-![shield-bash][shield-bash]
-![shield-starship][shield-starship]
+![shield-swift][shield-swift]
 ![shield-xcode][shield-xcode]
 
 {{ $frontmatter.description }} 관련 정리내용
 
-[shield-bash]: https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square
-[shield-starship]: https://img.shields.io/badge/Starship-DD0B78?logo=starship&logoColor=white&style=flat-square
+[shield-swift]: https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square
 [shield-xcode]: https://img.shields.io/badge/XCode-147EFB?logo=xcode&logoColor=white&style=flat-square

@@ -1,12 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Kotlin
-meta: 
-  - name: description
-    content: hello
-  - name: keywords
-    content: super duper SEO
+description: Intellij Idea UE
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -22,7 +17,6 @@ meta:
 ![shield-spring-security][shield-spring-security]
 ![shield-intellij-idea][shield-intellij-idea]
 ![shield-android-studio][shield-android-studio]
-![shield-eclipse][shield-eclipse]
 
 {{ $frontmatter.description }} 관련 정리내용
 

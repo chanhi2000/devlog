@@ -12,13 +12,13 @@ function getDocsNavBar(item) {
           {
             title: 'Gradle',
             children: [
-              'lang-gradle/1',
+              'lang-gradle/',
               'lang-gradle/2',
             ]
           }, {
             title: 'Maven',
             children: [
-              'lang-maven/1',
+              'lang-maven/',
               'lang-maven/2',
             ]
           }, {
@@ -31,13 +31,13 @@ function getDocsNavBar(item) {
           }, {
             title: 'Java',
             children: [
-              'lang-java/1',
+              'lang-java/',
               'lang-java/2',
             ]
           }, {
             title: 'Swift',
             children: [
-              'lang-swift/1',
+              'lang-swift/',
               'lang-swift/2',
             ]
           }, {
@@ -47,15 +47,15 @@ function getDocsNavBar(item) {
               'lang-bash/fundamental',
             ]
           }, {
-            title: 'Windows Batch Script',
+            title: 'Windows Batchfile',
             children: [
-              'lang-winbat/1',
+              'lang-winbat/',
               'lang-winbat/2',
             ]
           }, {
             title: 'Windows Powershell',
             children: [
-              'lang-pwsh/1',
+              'lang-pwsh/',
               'lang-pwsh/2'
             ]
           },
@@ -64,15 +64,20 @@ function getDocsNavBar(item) {
           {
             title: 'Cubrid',
             children: [
-              'db-cubrid/1',
+              'db-cubrid/',
               'db-cubrid/2',
             ]
           }, {
             title: 'MySQL',
             children: [
-              'db-mysql/1'
+              'db-mysql/'
             ]
-          }, 
+          }, {
+            title: 'Tibero',
+            children: [
+              'db-tibero/'
+            ]
+          },
           //endregion
           //region: devops
           {
@@ -84,13 +89,13 @@ function getDocsNavBar(item) {
           }, {
             title: 'Linux',
             children: [
-              'devops-linux/1',
+              'devops-linux/',
               'devops-linux/2',
             ]
           }, {
             title: 'Windows',
             children: [
-              'devops-windows/1',
+              'devops-windows/',
               'devops-windows/2',
             ]
           },{
@@ -104,7 +109,7 @@ function getDocsNavBar(item) {
             title: '🐋Docker',
             children: [
               'devops-docker/',
-              'devops-docker/2',
+              'devops-docker/docker-compose',
             ]
           }, {
             title: '🤵🏻Jenkins',
@@ -124,12 +129,13 @@ function getDocsNavBar(item) {
           }, {
             title: 'Node.js',
             children: [
-              'js-node/1'
+              'js-node/',
+              'js-node/dependencies',
             ]
           }, {
             title: 'Cordova',
             children: [
-              'js-cordova/1'
+              'js-cordova/',
             ]
           }, 
           //endregion
@@ -141,8 +147,15 @@ function getDocsNavBar(item) {
           }, { 
             title: 'Intellij Idea Ultimate',
             children: [
-              'ide-intellij-idea-ue/1.md',
+              'ide-intellij-idea-ue/',
+              'ide-intellij-idea-ue/plugins',
             ]
+          }, {
+            title: 'Visual Studio Code',
+            children: [
+              'ide-vscode/',
+              'ide-vscode/plugins'
+            ], 
           }, {
             title: 'Github',
             children: [

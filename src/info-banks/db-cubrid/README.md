@@ -1,11 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Mermaid.js
-tags:
-  - js
-  - mermaid
-  - mermaidjs
+description: Cubrid
 ---
 
 # {{ $frontmatter.description }} 관련

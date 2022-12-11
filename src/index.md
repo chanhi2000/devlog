@@ -42,11 +42,15 @@ MIT Licensed | Copyright © 2022-present [Chan Hee Lee](https://github.com/chanh
   <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-FC6D26?logo=gitlab&logoColor=white&style=flat-square" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square" />
   <!-- <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?logo=Xcode&logoColor=white&style=flat-square" /> -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <a href="/info-banks/lang-java">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
+  </a>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat-square" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Springboot&logoColor=white&style=flat-square" />
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=Springsecurity&logoColor=white&style=flat-square" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" />
+  <a href="/info-banks/lang-kotlin">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" />
+  </a>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%20Sharp-239120?logo=C%20Sharp&logoColor=white&style=flat-square" />
   <img alt=".Net Core" src="https://img.shields.io/badge/.Net%20Core-5C2D91?logo=.net&logoColor=white&style=flat-square" />
   <img alt="css3" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=flat-square" />

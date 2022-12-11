@@ -108,6 +108,7 @@ tags:
     - [🌐Official Site](http://gureum.io)
 
 
+---
 ## Multiplatform
 - [google/filament][google/filament]: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
     - [🌐Official Site](https://google.github.io/filament)
@@ -117,6 +118,7 @@ tags:
     - [🌐Official Site](https://shopify.github.io/react-native-skia)
 
 
+---
 ## Javascript
 - [SadeghHayeri/GreenTunnel][SadeghHayeri/GreenTunnel]: GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [hahnlee/hwp.js][hahnlee/hwp.js]: Open source hwp viewer and parser library powered by web technology
@@ -175,8 +177,11 @@ tags:
     - [🌐Official Site](https://fbflipper.com)
 - [facebook/jest][facebook/jest]: Delightful JavaScript Testing.
     - [🌐Official Site](https://jestjs.io)
-    
+- [pulsar-edit/pulsar][pulsar-edit/pulsar]: A Community-led Hyper-Hackable Text Editor
+    - [🌐Official Site](https://pulsar-edit.dev)
 
+
+---
 ## Python
 - [OpenBapul/hml-equation-parser][OpenBapul/hml-equation-parser]
     - [🌐Official Site](https://pypi.python.org/pypi/hml_equation_parser)
@@ -190,19 +195,28 @@ tags:
 - [mkdocs/mkdocs][mkdocs/mkdocs]: Project documentation with Markdown.
     - [🌐Official Site](https://www.mkdocs.org)
 
+
+---
 ## Go
 - [Arriven/db1000n][Arriven/db1000n]: Death by 1000 needles
 - [charmbracelet/vhs][charmbracelet/vhs]: Your CLI home video recorder 📼
 - [gorilla/mux][gorilla/mux]: A powerful HTTP router and URL matcher for building Go web servers with 🦍
     - [🌐Official Site](http://www.gorillatoolkit.org/pkg/mux)
 
+
+---
 ## Rust
 - [tauri-apps/tauri][tauri-apps/tauri]: Build smaller, faster, and more secure desktop applications with a web frontend.
     - [🌐Official Site](https://tauri.app)
 - [helix-editor/helix][helix-editor/helix]: A post-modern modal text editor.
     - [🌐Official Site](https://helix-editor.com)
+- [surrealdb/surrealdb][surrealdb/surrealdb]: A scalable, distributed, collaborative, document-graph database, for the realtime web
+    - [🌐Official Site](https://surrealdb.com)
+- [paradigmxyz/reth][paradigmxyz/reth]: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+- [pichenettes/eurorack][pichenettes/eurorack]: Eurorack modules
 
 
+---
 ## C#
 - [scottplot/scottplot][scottplot/scottplot]: Interactive Plotting Library for .NET
     - [🌐Official Site](https://scottplot.net)
@@ -212,11 +226,20 @@ tags:
 - [coofcookie/Windows11Upgrade][coofcookie/Windows11Upgrade]: Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 
 
+---
 ## PHP
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
     - [🌐Official Site](https://www.monicahq.com)
 
-    
+
+---
+## C & C++
+- [exaloop/codon][exaloop/codon]: A high-performance, zero-overhead, extensible Python compiler using LLVM
+    - [🌐Official Site](https://docs.exaloop.io/codon)
+## [https://github.com/bytedance/sonic-cpp][https://github.com/bytedance/sonic-cpp]: 
+
+
+---
 ## Bash
 - [tldr-pages/tldr][tldr-pages/tldr]: 📚 Collaborative cheatsheets for console commands
     - [🌐Official Site](https://tldr.sh)
@@ -230,6 +253,8 @@ tags:
 - [ohmyzsh/ohmyzsh][ohmyzsh/ohmyzsh]: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.    
     - [🌐Official Site](https://ohmyz.sh)
 
+
+---
 ## CSS/Images
 - [badges/shields][badges/shields]: Concise, consistent, and legible badges in SVG and raster format
     - [🌐Official Site](https://shields.io)
@@ -247,8 +272,7 @@ tags:
 - [tailwindlabs/heroicons][tailwindlabs/heroicons]: A set of free MIT-licensed high-quality SVG icons for UI development.
     - [🌐Official Site](https://heroicons.com)
 - [upptime/upptime][upptime/upptime]: ⬆️ Free uptime monitor and status page powered by GitHub
-    - [🌐Official Site](https://upptime.js.org)    
-- [louislam/uptime-kuma][louislam/uptime-kuma]: A fancy self-hosted monitoring tool
+    - [🌐Official Site](https://upptime.louislam/uptime-kuma]: A fancy self-hosted monitoring tool
     - [🌐Official Site](https://uptime.kuma.pet)
 - [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native. 
     - [🌐Official Site](http://airbnb.io/lottie)
@@ -347,6 +371,7 @@ tags:
 [marktext/marktext]: https://github.com/marktext/marktext
 [facebook/flipper]: https://github.com/facebook/flipper
 [facebook/jest]: https://github.com/facebook/jest
+[pulsar-edit/pulsar]: https://github.com/pulsar-edit/pulsar
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -361,6 +386,9 @@ tags:
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
+[surrealdb/surrealdb]: https://github.com/surrealdb/surrealdb
+[paradigmxyz/reth]: https://github.com/paradigmxyz/reth
+[pichenettes/eurorack]: https://github.com/pichenettes/eurorack
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -369,6 +397,8 @@ tags:
 [coofcookie/Windows11Upgrade]: https://github.com/coofcookie/Windows11Upgrade
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
+<!-- C++ -->
+[exaloop/codon]: https://github.com/exaloop/codon
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
