@@ -14,11 +14,13 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-last-updated": "^1.9.7",
     "@vuepress/theme-blog": "^2.3.3",
     "vuepress": "^1.5.3"
   },
   "dependencies": {
     "@renovamen/vuepress-plugin-mermaid": "^0.3.0",
-    "markdown-it-task-lists": "^2.1.1"
+    "markdown-it-task-lists": "^2.1.1",
+    "moment": "^2.29.4"
   }
 }

@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Useful Commands
+title: 🖥️macOS > Useful Commands
 description: 🖥️macOS > Useful Commands
   - sh
   - bash

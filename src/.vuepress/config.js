@@ -30,15 +30,14 @@ module.exports = {
   theme: '@vuepress/theme-default',
   themeConfig: {
     lang: 'ko-KR',
-    repo: 'chanhi2000/devlog',
-    repoLabel: 'Contribute!',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: '최근변경일',
     sidebar: {
       '/info-banks/': getDocsNavBar('info-banks'),
       '/todo/': getDocsNavBar('todo'),
+      '/site/': getDocsNavBar('site'),
     },
     nav: [
       {
@@ -47,7 +46,24 @@ module.exports = {
       },
       {
         text: '✅Todo',
-        link: '/todo/'
+        link: '/todo/',
+      }, {
+        text: '🌐Site',
+        link: '/site/',
+      }, {
+        text: '📍Misc.',
+        items: [
+          {
+            text: '🕶️Github',
+            link: 'https://github.com/chanhi2000',
+          }, {
+            text: '🅽Notion',
+            link: 'https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd',
+          },{
+            text: "📢Tell Me What's Wrong",
+            link: "https://github.com/chanhi2000/devlog/issues",
+          }
+        ]
       }
     ],
     displayAllHeaders: true,
@@ -66,7 +82,22 @@ module.exports = {
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
-    '@vuepress/plugin-back-to-top',
+    "@vuepress/back-to-top",
+    ["@vuepress/plugin-last-updated",
+      {
+        transformer: (timestamp, lang) => {
+          // Don't forget to install moment yourself
+          const moment = require('moment')
+          moment.locale(lang)
+          return moment(timestamp).fromNow()
+        },
+      }, {
+        dateOptions: {
+          hour12: false
+        }
+      }
+  ],
+    // "@vuepress/plugin-last-updated",
     '@vuepress/plugin-medium-zoom',
     '@renovamen/vuepress-plugin-mermaid',
   ]

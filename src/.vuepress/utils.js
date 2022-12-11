@@ -1,6 +1,34 @@
 
 function getDocsNavBar(item) {
     switch (item) {
+      case 'site':
+        return [
+          '',
+          {
+            title: 'Github',
+            children: [
+              'github/',
+              'github/awesome-list',
+              'github/library',
+              'github/news',
+              'github/tutorial',
+              'github/portfolio',
+            ]
+          }, {
+            title: 'Public API',
+            children: [
+              'api/',
+              'api/list',
+              'api/popular',
+            ],
+          }, {
+            title: 'Devlog',
+            children: [
+              'devlog/',
+              'devlog/list',
+            ]
+          }
+        ]
       case 'todo':
         return [
           '',
@@ -32,7 +60,7 @@ function getDocsNavBar(item) {
             title: 'Java',
             children: [
               'lang-java/',
-              'lang-java/2',
+              'lang-java/webservice',
             ]
           }, {
             title: 'Swift',
@@ -44,19 +72,19 @@ function getDocsNavBar(item) {
             title: 'Bash',
             children: [
               'lang-bash/',
-              'lang-bash/fundamental',
+              'lang-bash/basics',
             ]
           }, {
-            title: 'Windows Batchfile',
+            title: 'Windows Command',
             children: [
               'lang-winbat/',
-              'lang-winbat/2',
+              'lang-winbat/basics',
             ]
           }, {
             title: 'Windows Powershell',
             children: [
               'lang-pwsh/',
-              'lang-pwsh/2'
+              'lang-pwsh/basics'
             ]
           },
           //endregion
@@ -93,17 +121,14 @@ function getDocsNavBar(item) {
               'devops-linux/2',
             ]
           }, {
-            title: 'Windows',
+            title: '🎈OS',
             children: [
-              'devops-windows/',
-              'devops-windows/2',
-            ]
-          },{
-            title: '🖥️macOS',
-            children: [
-              'devops-macos/',
-              'devops-macos/setup',
-              'devops-macos/useful-commands',
+              'devops-os/',
+              'devops-os/macos-env-setup',
+              'devops-os/macos-useful-commands',
+              'devops-os/win-env-setup',
+              'devops-os/win-useful-tips',
+              'devops-os/debian-env-setup',
             ]
           }, {
             title: '🐋Docker',
@@ -131,6 +156,7 @@ function getDocsNavBar(item) {
             children: [
               'js-node/',
               'js-node/dependencies',
+              'js-node/sandbox'
             ]
           }, {
             title: 'Cordova',
@@ -156,25 +182,7 @@ function getDocsNavBar(item) {
               'ide-vscode/',
               'ide-vscode/plugins'
             ], 
-          }, {
-            title: 'Github',
-            children: [
-              'site-github/',
-              'site-github/news',
-              'site-github/library',
-              'site-github/awesome-list',
-              'site-github/tutorial',
-              'site-github/portfolio',
-            ]
-          }, {
-            title: 'Other Site(s)',
-            children: [
-              'site-others/',
-              'site-others/popular',
-              'site-others/api-and-res',
-              'site-others/devlog',
-            ],
-          },
+          }, 
         ];
       case '5.0':
       case '5.1':

@@ -1,0 +1,62 @@
+---
+lang: ko-KR
+title: WebService
+description: WebService
+---
+
+# {{ $frontmatter.description }} 관련
+
+[[toc]]
+
+---
+## WebService Client
+
+### Apache Axis2
+
+리눅스 환경에서는
+
+```sh
+. ./wsdl2java.sh -u -t -ss -sd -g -b \
+    -o ./BmsSifDctToProcessMobService \
+    -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
+```
+
+윈도우 환경에서 Cmd
+
+```bat
+wsdl2java.bat -u -t -ss -sd -g -b ^
+    -o .\BmsSifDctToProcessMobService ^
+    -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
+```
+
+윈도우 환경에서 Pwsh
+
+```ps1
+
+```
+
+### Apache CXF
+
+리눅스 환경에서는
+
+```sh
+. ./wsdl2java.sh -u -t -ss -sd -g -b \
+    -o ./BmsSifDctToProcessMobService \
+    -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
+```
+
+윈도우 환경에서 Cmd
+
+```bat
+wsdl2java.bat -u -t -ss -sd -g -b ^
+    -o .\BmsSifDctToProcessMobService ^
+    -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
+```
+
+윈도우 환경에서 Pwsh
+
+```ps1
+
+```
+
+---

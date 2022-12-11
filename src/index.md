@@ -64,7 +64,7 @@ MIT Licensed | Copyright © 2022-present [Chan Hee Lee](https://github.com/chanh
   <img alt="Apache Cordova" src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?logo=Apache%20Cordova&logoColor=white&style=flat-square" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=flat-square" />
   <img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-EE3322?logo=CocoaPods&logoColor=white&style=flat-square" />
-  <img alt="gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat-square" />
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat-square" />
   <img alt="Subversion" src="https://img.shields.io/badge/Subversion-809CC9?logo=Subversion&logoColor=white&style=flat-square" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=flat-square" />

@@ -36,6 +36,8 @@ tags:
 - [hsavit1/Awesome-Swift-Education][hsavit1/Awesome-Swift-Education]: 🔥 Learn some Swift
 - [doocs/leetcode][doocs/leetcode]: 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
     - [🌐Official Site](https://doocs.github.io/leetcode)
+- [vuepress/awesome-vuepress][vuepress/awesome-vuepress]: 🎉 A curated list of awesome things related to VuePress
+
 
 
 ## Free Books
@@ -70,6 +72,7 @@ tags:
 [f/awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
 [hsavit1/Awesome-Swift-Education]: https://github.com/hsavit1/Awesome-Swift-Education
 [doocs/leetcode]: https://github.com/doocs/leetcode
+[vuepress/awesome-vuepress]: https://github.com/vuepress/awesome-vuepress
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

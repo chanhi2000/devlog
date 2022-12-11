@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Other Site(s)
+description: Devlog
 ---
 
 # {{ $frontmatter.description }} 관련

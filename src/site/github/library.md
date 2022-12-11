@@ -23,6 +23,7 @@ tags:
 
 [[toc]]
 
+---
 ## Java
 - [PowerJob/PowerJob][PowerJob/PowerJob]: Enterprise job scheduling middleware with distributed computing ability.
     - [🌐Official Site](http://www.powerjob.tech)
@@ -49,8 +50,11 @@ tags:
 - [Netflix/conductor][Netflix/conductor]: Conductor is a microservices orchestration engine.
     - [🌐Official Site](https://conductor.netflix.com)
 - [alibaba/fastjson2][alibaba/fastjson2]: 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
+- [Grasscutters/Grasscutter][Grasscutters/Grasscutter]: A server software reimplementation for a certain anime game.
+    - [🌐Official Site](https://grasscutter.io)
 
 
+---
 ## Kotlin
 - [Kotlin/dokka][Kotlin/dokka]: Documentation Engine for Kotlin
 - [PaperMC/Paper][PaperMC/Paper]: High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
@@ -59,8 +63,11 @@ tags:
     - [🌐Official Site](https://hexagonkt.com)
 - [microsoft/thrifty][microsoft/thrifty]: Thrift for Android that saves you methods
 - [sniffy/influxdb-tools][sniffy/influxdb-tools]
+- [revanced/revanced-patches][revanced/revanced-patches]: 🧩 Patches for ReVanced
+    - [🌐Official Site](https://revanced.app)
 
 
+---
 ## Android
 - [anggrayudi/SimpleStorage][anggrayudi/SimpleStorage]: 💾 Simplify Android Storage Access Framework for file management across API levels
 - [PRNDcompany/PersistBottomSheetFragment][PRNDcompany/PersistBottomSheetFragment]
@@ -87,8 +94,11 @@ tags:
     - [🌐Official Site](https://frescolib.org)
 - [hootsuite/nachos][hootsuite/nachos]: Material Chips for Android
 - [android/architecture-templates][android/architecture-templates]
+- [tiann/KernelSU][tiann/KernelSU]: A Kernel based root solution for Android GKI
 
 
+
+---
 ## Swift
 - [CodeEditApp/CodeEdit][CodeEditApp/CodeEdit]: CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
     - [🌐Official Site](https://codeedit.app)
@@ -179,6 +189,39 @@ tags:
     - [🌐Official Site](https://jestjs.io)
 - [pulsar-edit/pulsar][pulsar-edit/pulsar]: A Community-led Hyper-Hackable Text Editor
     - [🌐Official Site](https://pulsar-edit.dev)
+- [DulLabs/bhai-lang][DulLabs/bhai-lang]: A toy programming language written in Typescript
+    - [🌐Official Site](https://bhailang.js.org)
+- [mathjax/MathJax][mathjax/MathJax]: Beautiful and accessible math in all browsers
+    - [🌐Official Site](http://www.mathjax.org)
+- [vuetifyjs/vuetify][vuetifyjs/vuetify]: 🐉 Vue Component Framework
+    - [🌐Official Site](https://vuetifyjs.com)
+    - [📚Documentation](https://vuetifyjs.com/en/introduction/why-vuetify)
+- [automerge/automerge][automerge/automerge]: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+    - [🌐Official Site](http://automerge.org)
+- [windowjs/windowjs][windowjs/windowjs]: Window.js is an open-source Javascript runtime for desktop graphics programming.
+    - [🌐Official Site](https://windowjs.org)
+    - [📚Documentation](https://windowjs.org/doc)
+- [moment/moment][moment/moment]: Parse, validate, manipulate, and display dates in javascript.
+    - [🌐Official Site](http://momentjs.com)
+    - [📚Documentation](https://momentjs.com/docs)
+- [ciderapp/Cider][ciderapp/Cider]: A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+    - [🌐Official Site](https://cider.sh)
+    - [📚Documentation](https://docs.cider.sh)
+- [actualbudget/actual-server][actualbudget/actual-server]: Actual's Server
+- [actualbudget/actual][actualbudget/actual]: A local-first personal finance system
+    - [🌐Official Site](https://actualbudget.github.io/docs)
+- [hgoebl/mobile-detect.js][hgoebl/mobile-detect.js]: Device detection (phone, tablet, desktop, mobile grade, os, versions) 
+    - [🌐Official Site](http://hgoebl.github.io/mobile-detect.js)
+    - [📚Documentation](https://hgoebl.github.io/mobile-detect.js/doc/MobileDetect.html)
+- [semantic-org/semantic-ui][semantic-org/semantic-ui]: Semantic is a UI component framework based around useful principles from natural language.
+   - [🌐Official Site](http://www.semantic-ui.com)
+   - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
+- [hoppscotch/hoppscotch][hoppscotch/hoppscotch]: 👽 Open source API development ecosystem - https://hoppscotch.io
+   - [🌐Official Site](https://hoppscotch.io)
+- [utterance/utterances][utterance/utterances]: 🔮 A lightweight comments widget built on GitHub issues
+   - [🌐Official Site](https://utteranc.es)
+- [shinework/photoshot][shinework/photoshot]
+   - [🌐Official Site](https://photoshot.app)
 
 
 ---
@@ -194,6 +237,7 @@ tags:
     - [🌐Official Site](https://kivy.org)
 - [mkdocs/mkdocs][mkdocs/mkdocs]: Project documentation with Markdown.
     - [🌐Official Site](https://www.mkdocs.org)
+- [hwchase17/langchain][hwchase17/langchain]: ⚡ Building applications with LLMs through composability ⚡
 
 
 ---
@@ -214,6 +258,8 @@ tags:
     - [🌐Official Site](https://surrealdb.com)
 - [paradigmxyz/reth][paradigmxyz/reth]: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [pichenettes/eurorack][pichenettes/eurorack]: Eurorack modules
+- [tw93/Pake][tw93/Pake]: 🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
 
 
 ---
@@ -236,7 +282,12 @@ tags:
 ## C & C++
 - [exaloop/codon][exaloop/codon]: A high-performance, zero-overhead, extensible Python compiler using LLVM
     - [🌐Official Site](https://docs.exaloop.io/codon)
-## [https://github.com/bytedance/sonic-cpp][https://github.com/bytedance/sonic-cpp]: 
+- [bytedance/sonic-cpp][bytedance/sonic-cpp]: A fast JSON serializing & deserializing library, accelerated by SIMD.
+- [assimp/assimp][assimp/assimp]: The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
+    - [🌐Official Site](https://www.assimp.org)
+    - [📚Documentation](https://assimp-docs.readthedocs.io/en)
+- [ange-yaghi/engine-sim][ange-yaghi/engine-sim]: Combustion engine simulator that generates realistic audio.
+    - [🌐Official Site](http://engine-sim.parts)
 
 
 ---
@@ -294,6 +345,7 @@ tags:
 [sniffy/sniffy]: https://github.com/sniffy/sniffy
 [Netflix/conductor]: https://github.com/Netflix/conductor
 [alibaba/fastjson2]: https://github.com/alibaba/fastjson2
+[Grasscutters/Grasscutter]: https://github.com/Grasscutters/Grasscutter
 <!-- Kotlin -->
 [Kotlin/dokka]: https://github.com/Kotlin/dokka
 [PaperMC/Paper]: https://github.com/PaperMC/Paper
@@ -301,6 +353,7 @@ tags:
 [hexagonkt/hexagon]: https://github.com/hexagonkt/hexagon
 [microsoft/thrifty]: https://github.com/microsoft/thrifty
 [sniffy/influxdb-tools]: https://github.com/sniffy/influxdb-tools
+[revanced/revanced-patches]: https://github.com/revanced/revanced-patches
 <!-- Android -->
 [anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
 [PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment
@@ -320,6 +373,7 @@ tags:
 [facebook/fresco]: https://github.com/facebook/fresco
 [hootsuite/nachos]: https://github.com/hootsuite/nachos
 [android/architecture-templates]: https://github.com/android/architecture-templates/tree/base
+[tiann/KernelSU]: https://github.com/tiann/KernelSU
 <!-- Swift -->
 [CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
 [tuist/tuist]: https://github.com/tuist/tuist
@@ -372,6 +426,20 @@ tags:
 [facebook/flipper]: https://github.com/facebook/flipper
 [facebook/jest]: https://github.com/facebook/jest
 [pulsar-edit/pulsar]: https://github.com/pulsar-edit/pulsar
+[DulLabs/bhai-lang]: https://github.com/DulLabs/bhai-lang
+[mathjax/MathJax]: https://github.com/mathjax/MathJax
+[vuetifyjs/vuetify]: https://github.com/vuetifyjs/vuetify
+[automerge/automerge]: https://github.com/automerge/automerge
+[windowjs/windowjs]: https://github.com/windowjs/windowjs
+[moment/moment]: https://github.com/moment/moment
+[ciderapp/Cider]: https://github.com/ciderapp/Cider
+[actualbudget/actual-server]: https://github.com/actualbudget/actual-server
+[actualbudget/actual]: https://github.com/actualbudget/actual
+[hgoebl/mobile-detect.js]: https://github.com/hgoebl/mobile-detect.js
+[semantic-org/semantic-ui]: https://github.com/semantic-org/semantic-ui
+[hoppscotch/hoppscotch]: https://github.com/hoppscotch/hoppscotch
+[utterance/utterances]: https://github.com/utterance/utterances
+[shinework/photoshot]: https://github.com/shinework/photoshot
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -379,6 +447,7 @@ tags:
 [3b1b/manim]: https://github.com/3b1b/manim
 [kivy/kivy]: https://github.com/kivy/kivy
 [mkdocs/mkdocs]: https://github.com/mkdocs/mkdocs
+[hwchase17/langchain]: https://github.com/hwchase17/langchain
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -389,6 +458,7 @@ tags:
 [surrealdb/surrealdb]: https://github.com/surrealdb/surrealdb
 [paradigmxyz/reth]: https://github.com/paradigmxyz/reth
 [pichenettes/eurorack]: https://github.com/pichenettes/eurorack
+[tw93/Pake]: https://github.com/tw93/Pake
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -397,8 +467,11 @@ tags:
 [coofcookie/Windows11Upgrade]: https://github.com/coofcookie/Windows11Upgrade
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
-<!-- C++ -->
+<!-- C & C++ -->
 [exaloop/codon]: https://github.com/exaloop/codon
+[bytedance/sonic-cpp]: https://github.com/bytedance/sonic-cpp
+[assimp/assimp]: https://github.com/assimp/assimp
+[ange-yaghi/engine-sim]: https://github.com/ange-yaghi/engine-sim
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch

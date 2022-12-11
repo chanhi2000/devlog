@@ -1,11 +1,25 @@
 ---
 lang: ko-KR
-title: Fundamental
-description: Fundamental
+title: Basics
+description: Basics
 ---
 
-# Fundamental 관련
+# {{ $frontmatter.description }} 관련
 
+[[toc]]
+
+---
+## Multiline 입력
+
+`\` 을 붙여 커맨드 입력
+
+```sh
+wsdl2java.sh -u -t -ss -sd -g -b \
+    -o ./BmsSifDctToProcessMobService \
+    -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
+```
+
+---
 ## aliases
 
 엘리아스 지정

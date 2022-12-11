@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Linux
+description: Public APIs
 ---
 
 # {{ $frontmatter.description }} 관련

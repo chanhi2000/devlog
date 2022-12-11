@@ -1,19 +1,22 @@
 ---
 lang: ko-KR
-title: APIs & Resources
+title: List
 description: APIs & Resources
 tags:
     - image
     - color
     - git
+    - bootstrap
 ---
 
 # APIs & Resources 관련
 
 ---
 ## APIs
+- [github-opensource-guide][github-opensource-guide]: Open source software is made by people just like you. Learn how to launch and grow your project.
 - [gitignore][gitignore]: Create useful .gitignore files for your project
 - [Smalldev Tools][small-devtools]
+- [mobbin][mobbin]: Browse iOS apps
 - [heroicons][heroicons]: Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Bootstrap Icons][Bootstrap-Icons]: Official open source SVG icon library for Bootstrap.
 - [regexper][regexper]: You thought you only had two problems…
@@ -21,6 +24,27 @@ tags:
 - [overapi][overapi]: Collecting All Cheat Sheets
 - [emailjs][emailjs]: EmailJS Documentation
 - [htaccess][htaccess]: Test your htaccess rewrite rules
+- [testing-library][testing-library]: The home for all testing-library projects
+- [kickbox][kickbox]: Free, Open API for Detecting Disposable Email Addresses
+- [course-api][course-api]: Course API's
+- [verifier][verifier]: Ensure Customers are Real...
+- [30secondsofcode][30secondsofcode]: 30 Seconds of Code
+
+### 대한민국
+- [data-kr][data-kr]: 공공데이터포털
+- [data-seoul][data-seoul]: 서울 열린데이터 광장
+- [data-kkd][data-kkd]: 경기데이터드림
+- [careerkr][careerkr]: 진로정보망 커리어넷
+- [neis][neis]: 나이스 교육정보 개방 포털
+- [hrfco][hrfco]: 한강홍수통제소
+- [iernet][iernet]: 국가환경방사선자동감시망
+- [fms][fms]: FMS (Facilty Management System) 표준연계시스템
+- [nmsc][nmsc]: 국가기상위성센터
+- [epost][epost]: 국내/국제 우편요금 조회
+- [juso][juso]: 도로명주소
+- [smap][smap]: 스마트서울맵
+- [kwater][kwater]: K-Water
+
 
 ---
 ## Resources
@@ -46,10 +70,17 @@ tags:
 ---
 ## Community
 - [hamonikr][hamonikr]: 리눅스 커뮤니티 하모니카
+- [clien][clien]: 클리앙
+
+---
+## Cool Project(s)
+- [https://dustinbrett.com/][https://dustinbrett.com/]
 
 
 <!-- APIs -->
+[github-opensource-guide]: https://opensource.guide
 [gitignore]: https://www.toptal.com/developers/gitignore
+[mobbin]: https://mobbin.com/browse/ios/apps
 [small-devtools]: https://smalldev.tools
 [Bootstrap-Icons]: https://icons.getbootstrap.com
 [heroicons]: https://heroicons.com
@@ -58,7 +89,25 @@ tags:
 [overapi]: https://overapi.com
 [emailjs]: https://www.emailjs.com/docs
 [htaccess]: https://htaccess.madewithlove.com
-
+[testing-library]: https://github.com/testing-library
+[kickbox]: https://open.kickbox.com
+[course-api]: https://course-api.com
+[verifier]: https://verifier.meetchopra.com
+[30secondsofcode]: https://www.30secondsofcode.org/
+<!-- APIs > 한국 -->
+[data-kr]: https://www.data.go.kr
+[data-seoul]: https://data.seoul.go.kr/dataList/datasetList.do
+[data-kkd]: https://data.gg.go.kr
+[careerkr]: https://www.career.go.kr
+[neis]: https://open.neis.go.kr
+[hrfco]: http://hrfco.go.kr
+[iernet]: https://iernet.kins.re.kr
+[fms]: http://59.7.251.146:8080/com/mainForm.do
+[nmsc]: https://nmsc.kma.go.kr/homepage/html/satellite/viewer/selectSatViewer.do?dataType=operSat
+[epost]: https://service.epost.go.kr/comm/search/cmsc01004.jsp
+[juso]: https://www.juso.go.kr/openIndexPage.do
+[smap]: http://115.84.164.24/smgis2
+[kwater]: https://www.kwater.or.kr
 <!-- Resources -->
 [awesome-cheatsheets]: https://lecoupa.github.io/awesome-cheatsheets/
 [Popular-Color-Palettes]: https://www.color-hex.com/color-palettes/popular.php
@@ -79,3 +128,4 @@ tags:
 [byte-of-vim]: https://vim.swaroopch.com/byte-of-vim.pdf
 <!-- Community -->
 [hamonikr]: https://hamonikr.org
+[clien]: https://www.clien.net/service/

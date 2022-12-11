@@ -1,0 +1,20 @@
+---
+lang: ko-KR
+title: Basics
+description: Basics
+---
+
+# {{ $frontmatter.description }} 관련
+
+[[toc]]
+
+---
+## Multiline 입력
+
+'\`' 을 붙여 커맨드 입력
+
+```bat
+wsdl2java.bat -u -t -ss -sd -g -b `
+    -o .\BmsSifDctToProcessMobService `
+    -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
+```
