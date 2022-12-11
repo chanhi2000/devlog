@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+---
+## [v0.0.7: 2022-12-11][v0.0.7]
+
+### Added 내용채워넣기
+
+- site-github, site-others
+- badge로 intro 페이지 표현
+
+---
 ## [v0.0.6: 2022-12-09][v0.0.6]
 
 내용채워넣기
@@ -64,6 +73,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.0.7]: https://github.com/chanhi2000/devlog/compare/v0.0.6...v0.0.7
 [v0.0.6]: https://github.com/chanhi2000/devlog/compare/v0.0.5...v0.0.6
 [v0.0.5]: https://github.com/chanhi2000/devlog/compare/v0.0.4...v0.0.5
 [v0.0.4]: https://github.com/chanhi2000/devlog/compare/v0.0.3...v0.0.4
