@@ -95,7 +95,7 @@ tags:
 - [hootsuite/nachos][hootsuite/nachos]: Material Chips for Android
 - [android/architecture-templates][android/architecture-templates]
 - [tiann/KernelSU][tiann/KernelSU]: A Kernel based root solution for Android GKI
-
+- [lsrom/webview-tester][lsrom/webview-tester]: Test your web app in Android web view with visible console logs.
 
 
 ---
@@ -303,6 +303,8 @@ tags:
     - [🌐Official Site](http://ethanschoonover.com/solarized)
 - [ohmyzsh/ohmyzsh][ohmyzsh/ohmyzsh]: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.    
     - [🌐Official Site](https://ohmyz.sh)
+- [FreedomBen/basic-ocp-demo][FreedomBen/basic-ocp-demo]: Sample app that can be easily deployed to OpenShift either as a training exercise or demonstration.
+
 
 
 ---
@@ -374,6 +376,7 @@ tags:
 [hootsuite/nachos]: https://github.com/hootsuite/nachos
 [android/architecture-templates]: https://github.com/android/architecture-templates/tree/base
 [tiann/KernelSU]: https://github.com/tiann/KernelSU
+[lsrom/webview-tester]: https://github.com/lsrom/webview-tester
 <!-- Swift -->
 [CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
 [tuist/tuist]: https://github.com/tuist/tuist
@@ -479,6 +482,7 @@ tags:
 [WSA-Community/WSAGAScript]: https://github.com/WSA-Community/WSAGAScript
 [altercation/solarized]: https://github.com/altercation/solarized
 [ohmyzsh/ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
+[FreedomBen/basic-ocp-demo]: https://github.com/FreedomBen/basic-ocp-demo
 <!-- CSS/Images -->
 [badges/shields]: https://github.com/badges/shields
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md

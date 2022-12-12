@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: MySQL
+description: Nexus Repository
 ---
 
 # {{ $frontmatter.description }} 관련

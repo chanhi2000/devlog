@@ -49,7 +49,7 @@ description: Devlog's List
 - [How to avoid empty class in Vue with null](https://medium.com/js-dojo/how-to-avoid-empty-class-in-vue-with-null-74d5366507b)
 - [Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
 - [3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
-
+- [Introduction to `oc` — the OpenShift Command Line Power Tool](https://freedomben.medium.com/introduction-to-oc-the-openshift-command-line-power-tool-cdcd399b4048)
 
 ---
 ## Dev.to
@@ -75,6 +75,7 @@ description: Devlog's List
 - [Noticon 프로젝트 리뷰](https://velog.io/@tmmoond8/Noticon-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
 - [JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
 - [\[TIL\] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+- [Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
 
 
 ---
@@ -131,3 +132,5 @@ description: Devlog's List
 - [How to send push notifications to a browser in ASP.NET Core](https://blog.elmah.io/how-to-send-push-notifications-to-a-browser-in-asp-net-core)
 - [\[IE\] 지금 보고 있는 웹 페이지에서 탭을 닫으려고 합니다. 메시지 안 뜨도록 할 때](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=s0215hc&logNo=221013229975)
 - [`package-lock.json` 은 git ignore 처리해야할까?](https://blog.naver.com/gingsero/222140320340)
+- [Openshift Cheatsheet for DevOps](http://www.mastertheboss.com/soa-cloud/openshift/openshift-cheatsheet)
+- [SOAP 통신 OPEN API로 개발해보기](https://dahye-jeong.gitbook.io/til/java+/2021-01-09-java-soapapi)

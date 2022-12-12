@@ -6,6 +6,10 @@ description: 👓Windows > Environment Setup
   - pwsh
   - oh-my-pwsh
   - chocolatey
+  - windows-terminal
+  - cmd
+  - powershell
+  - ps1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +50,8 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode `
     dbeaver googlechrome fiddler windirstat 7zip `
     procexp scrcpy nvm docker-desktop temurin11 temurin8 `
-    intellijidea revo-uninstaller glogg autoruns
+    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal
+    
 ```
 
 or Windows Cmd
@@ -56,7 +61,7 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode ^
     dbeaver googlechrome fiddler windirstat 7zip ^
     procexp scrcpy nvm docker-desktop temurin11 temurin8 ^
-    intellijidea revo-uninstaller glogg autoruns
+    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal
 ```
 
 

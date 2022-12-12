@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Visual Studio Code
+description: IDE (Integrated Development Environment)
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -10,6 +10,8 @@ description: Visual Studio Code
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+![shield-intellij-idea][shield-intellij-idea]
+![shield-android-studio][shield-android-studio]
 ![shield-vscode][shield-vscode]
 ![shield-npm][shield-npm]
 ![shield-yarn][shield-yarn]
@@ -28,6 +30,8 @@ description: Visual Studio Code
 
 {{ $frontmatter.description }} 관련 정리내용
 
+[shield-intellij-idea]: https://img.shields.io/badge/Intellij%20Idea-000000?logo=intellijidea&logoColor=white&style=flat-square
+[shield-android-studio]: https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square
 [shield-vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square
 [shield-npm]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square
 [shield-yarn]: https://img.shields.io/badge/yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square

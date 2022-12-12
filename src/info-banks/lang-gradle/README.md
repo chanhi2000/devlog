@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Gradle
+description: 🐘Gradle
 ---
 
 # {{ $frontmatter.description }} 관련

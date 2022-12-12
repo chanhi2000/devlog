@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Cubrid
+description: 🔎SQL
 ---
 
 # {{ $frontmatter.description }} 관련

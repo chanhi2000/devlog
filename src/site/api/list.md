@@ -29,6 +29,7 @@ tags:
 - [course-api][course-api]: Course API's
 - [verifier][verifier]: Ensure Customers are Real...
 - [30secondsofcode][30secondsofcode]: 30 Seconds of Code
+- [mankier][mankier]: Linux Man Page
 
 ### 대한민국
 - [data-kr][data-kr]: 공공데이터포털
@@ -93,7 +94,8 @@ tags:
 [kickbox]: https://open.kickbox.com
 [course-api]: https://course-api.com
 [verifier]: https://verifier.meetchopra.com
-[30secondsofcode]: https://www.30secondsofcode.org/
+[30secondsofcode]: https://www.30secondsofcode.org
+[mankier]: https://www.mankier.com
 <!-- APIs > 한국 -->
 [data-kr]: https://www.data.go.kr
 [data-seoul]: https://data.seoul.go.kr/dataList/datasetList.do

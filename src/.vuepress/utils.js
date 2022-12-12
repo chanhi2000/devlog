@@ -38,10 +38,10 @@ function getDocsNavBar(item) {
           '',
           //region: lang
           {
-            title: 'Gradle',
+            title: '🐘Gradle',
             children: [
               'lang-gradle/',
-              'lang-gradle/2',
+              'lang-gradle/useful-snippets',
             ]
           }, {
             title: 'Maven',
@@ -88,25 +88,6 @@ function getDocsNavBar(item) {
             ]
           },
           //endregion
-          //region: DB
-          {
-            title: 'Cubrid',
-            children: [
-              'db-cubrid/',
-              'db-cubrid/2',
-            ]
-          }, {
-            title: 'MySQL',
-            children: [
-              'db-mysql/'
-            ]
-          }, {
-            title: 'Tibero',
-            children: [
-              'db-tibero/'
-            ]
-          },
-          //endregion
           //region: devops
           {
             title: 'Git',
@@ -136,7 +117,21 @@ function getDocsNavBar(item) {
               'devops-jenkins/',
               'devops-jenkins/2',
             ]
-          }, 
+          }, {
+            title: 'Nexus Repository',
+            children: [
+              'devops-nexus/',
+              'devops-nexus/useful-tips',
+            ]
+          }, { 
+            title: 'IDE & Text Editor',
+            children: [
+              'devops-ide/',
+              'devops-ide/idea-plugins',
+              'devops-ide/idea-troubleshooting',
+              'devops-ide/vscode-plugins',
+            ]
+          },
           //endregion
           //region: js
           {
@@ -159,23 +154,24 @@ function getDocsNavBar(item) {
             ]
           }, 
           //endregion
+          //region: DB
+          {
+            title: '🔎SQL',
+            children: [
+              'sql/',
+              'sql/cubrid',
+              'sql/mysql',
+              'sql/tibero',
+            ]
+          },
+          //endregion
           {
             title: 'Markdown',
             children: [
               'lang-markdown/',
+              'lang-markdown/mermaid',
+              'lang-markdown/template',
             ]
-          }, { 
-            title: 'Intellij Idea Ultimate',
-            children: [
-              'ide-intellij-idea-ue/',
-              'ide-intellij-idea-ue/plugins',
-            ]
-          }, {
-            title: 'Visual Studio Code',
-            children: [
-              'ide-vscode/',
-              'ide-vscode/plugins'
-            ], 
           }, 
         ];
       case '5.0':

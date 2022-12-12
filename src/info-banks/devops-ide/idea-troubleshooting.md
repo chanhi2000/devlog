@@ -1,0 +1,20 @@
+---
+lang: ko-KR
+title: Troubleshooting
+description: Troubleshooting
+---
+
+# {{ $frontmatter.description }} 관련
+
+[[toc]]
+## feat. Bind Exception Address already in use
+
+cmd 실행 
+
+```sh
+netsh int ipv4 set dynamicport tcp start=49152 num=16383
+netsh int ipv4 set dynamicport udp start=49152 num=16383
+
+net stop winnat
+net start winnat
+````
