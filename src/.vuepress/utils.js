@@ -115,12 +115,6 @@ function getDocsNavBar(item) {
               'devops-git/troubleshooting',
             ]
           }, {
-            title: 'Linux',
-            children: [
-              'devops-linux/',
-              'devops-linux/2',
-            ]
-          }, {
             title: '🎈OS',
             children: [
               'devops-os/',
