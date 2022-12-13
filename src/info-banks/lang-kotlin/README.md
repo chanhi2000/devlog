@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Kotlin
+description: 🅺Kotlin
 meta: 
   - name: description
     content: hello
@@ -15,6 +15,7 @@ meta:
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+![shield-jetbrains][shield-jetbrains]
 ![shield-kotlin][shield-kotlin]
 ![shield-android][shield-android]
 ![shield-spring][shield-spring]
@@ -26,6 +27,7 @@ meta:
 
 {{ $frontmatter.description }} 관련 정리내용
 
+[shield-jetbrains]: https://img.shields.io/badge/Jetbrains-000000?logo=jetbrains&logoColor=white&style=flat-square
 [shield-kotlin]: https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square
 [shield-android]: https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square
 [shield-spring]: https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat-square

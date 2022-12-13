@@ -1,7 +1,7 @@
 
 function getDocsNavBar(item) {
     switch (item) {
-      case 'site':
+      case 'explore':
         return [
           '',
           {
@@ -29,62 +29,59 @@ function getDocsNavBar(item) {
             ]
           }
         ]
-      case 'todo':
+      case 'catalogs':
         return [
           '',
+          {
+            title: '🏰Portfolio',
+            children: [
+              'portfolio/',
+            ],
+          }
         ]
       case 'info-banks':
         return [
           '',
           //region: lang
           {
+            title: '💫CLI',
+            children: [
+              'cli/',
+              'cli/bash-basics',
+              'cli/bat-basics',
+              'cli/pwsh-basics',
+            ]
+          }, {
             title: '🐘Gradle',
             children: [
               'lang-gradle/',
               'lang-gradle/useful-snippets',
             ]
           }, {
-            title: 'Maven',
+            title: '🪶Maven',
             children: [
               'lang-maven/',
-              'lang-maven/2',
+              'lang-maven/useful-snippets',
             ]
           }, {
-            title: 'Kotlin',
+            title: '🅺Kotlin',
             children: [
               'lang-kotlin/',
               'lang-kotlin/tips',
               'lang-kotlin/references',
             ]
           }, {
-            title: 'Java',
+            title: '☕️Java',
             children: [
               'lang-java/',
+              'lang-java/was',
               'lang-java/webservice',
             ]
           }, {
-            title: 'Swift',
+            title: '🕊️Swift',
             children: [
               'lang-swift/',
-              'lang-swift/2',
-            ]
-          }, {
-            title: 'Bash',
-            children: [
-              'lang-bash/',
-              'lang-bash/basics',
-            ]
-          }, {
-            title: 'Windows Command',
-            children: [
-              'lang-winbat/',
-              'lang-winbat/basics',
-            ]
-          }, {
-            title: 'Windows Powershell',
-            children: [
-              'lang-pwsh/',
-              'lang-pwsh/basics'
+              'lang-swift/tips',
             ]
           },
           //endregion
@@ -124,7 +121,7 @@ function getDocsNavBar(item) {
               'devops-nexus/useful-tips',
             ]
           }, { 
-            title: 'IDE & Text Editor',
+            title: '🎩IDE & Text Editor',
             children: [
               'devops-ide/',
               'devops-ide/idea-plugins',

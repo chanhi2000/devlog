@@ -52,10 +52,17 @@ tags:
 - [alibaba/fastjson2][alibaba/fastjson2]: 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [Grasscutters/Grasscutter][Grasscutters/Grasscutter]: A server software reimplementation for a certain anime game.
     - [🌐Official Site](https://grasscutter.io)
+- [mbechler/marshalsec][mbechler/marshalsec]: Java Unmarshaller Security - Turning your data into code execution
+- [whwlsfb/Log4j2Scan][whwlsfb/Log4j2Scan]: Log4j2 RCE Passive Scanner plugin for BurpSuite
+- [PlexPt/chatgpt-java][PlexPt/chatgpt-java]: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.
+
 
 
 ---
 ## Kotlin
+- [ktorio/ktor][ktorio/ktor]: Framework for quickly creating connected applications in Kotlin with minimal effort
+    - [🌐Official Site](https://ktor.io)
+    - [🚀Starter](https://start.ktor.io)
 - [Kotlin/dokka][Kotlin/dokka]: Documentation Engine for Kotlin
 - [PaperMC/Paper][PaperMC/Paper]: High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [PaperMC/Paperclip][PaperMC/Paperclip]: Bootstrap utility and launcher for the Paper Minecraft server
@@ -65,6 +72,12 @@ tags:
 - [sniffy/influxdb-tools][sniffy/influxdb-tools]
 - [revanced/revanced-patches][revanced/revanced-patches]: 🧩 Patches for ReVanced
     - [🌐Official Site](https://revanced.app)
+- [cashapp/turbine][cashapp/turbine]: A small testing library for kotlinx.coroutines Flow
+    - [🌐Official Site](https://cashapp.github.io/turbine/docs/0.x)
+- [pinterest/ktlint][pinterest/ktlint]: An anti-bikeshedding Kotlin linter with built-in formatter
+    - [🌐Official Site](https://pinterest.github.io/ktlint)
+- [ThinkingLogic/kotlin-builder-annotation][ThinkingLogic/kotlin-builder-annotation]: A minimal viable replacement for the Lombok @builder plugin for Kotlin code
+
 
 
 ---
@@ -96,6 +109,24 @@ tags:
 - [android/architecture-templates][android/architecture-templates]
 - [tiann/KernelSU][tiann/KernelSU]: A Kernel based root solution for Android GKI
 - [lsrom/webview-tester][lsrom/webview-tester]: Test your web app in Android web view with visible console logs.
+- [TeamVanced/VancedMicroG][TeamVanced/VancedMicroG]: MicroG tweaked to work for applications such as Vanced.
+- [android/nowinandroid][android/nowinandroid]: A fully functional Android app built entirely with Kotlin and Jetpack Compose
+    - [🌐Official Site](https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid)
+- [libre-tube/LibreTube][libre-tube/LibreTube]: An alternative YouTube front end, for Android.
+    - [🌐Official Site](https://libre-tube.github.io)
+- [tranleduy2000/ncalc][tranleduy2000/ncalc]: Power calculator for Android. Solve some problem algebra and calculus.
+    - [🌐Official Site](https://play.google.com/store/apps/details?id=com.duy.calculator.free)
+- [RocketChat/Rocket.Chat][RocketChat/Rocket.Chat]: The communications platform that puts data protection first.
+    - [🌐Official Site](https://rocket.chat)
+- [Kr328/ClashForAndroid][Kr328/ClashForAndroid]: A rule-based tunnel for Android.
+    - [🌐Official Site](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
+- [Automattic/pocket-casts-android][Automattic/pocket-casts-android]: Pocket Casts Android 🎧
+    - [🌐Official Site](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
+- [mastodon/mastodon-android][mastodon/mastodon-android]: Official Android app for Mastodon
+    - [🌐Official Site](https://app.joinmastodon.org/android)
+    - [🌐Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
+- [skydoves/chatgpt-android][skydoves/chatgpt-android]: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+
 
 
 ---
@@ -222,6 +253,8 @@ tags:
    - [🌐Official Site](https://utteranc.es)
 - [shinework/photoshot][shinework/photoshot]
    - [🌐Official Site](https://photoshot.app)
+- [lensterxyz/lenster][lensterxyz/lenster]: Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
+   - [🌐Official Site](https://lenster.xyz)
 
 
 ---
@@ -238,6 +271,7 @@ tags:
 - [mkdocs/mkdocs][mkdocs/mkdocs]: Project documentation with Markdown.
     - [🌐Official Site](https://www.mkdocs.org)
 - [hwchase17/langchain][hwchase17/langchain]: ⚡ Building applications with LLMs through composability ⚡
+- [kingoflolz/mesh-transformer-jax][kingoflolz/mesh-transformer-jax]: Model parallel transformers in JAX and Haiku
 
 
 ---
@@ -246,6 +280,10 @@ tags:
 - [charmbracelet/vhs][charmbracelet/vhs]: Your CLI home video recorder 📼
 - [gorilla/mux][gorilla/mux]: A powerful HTTP router and URL matcher for building Go web servers with 🦍
     - [🌐Official Site](http://www.gorillatoolkit.org/pkg/mux)
+- [schollz/croc][schollz/croc]: Easily and securely send things from one computer to another 🐊 📦
+    - [🌐Official Site](https://schollz.com/software/croc6)
+- [eatmoreapple/openwechat][eatmoreapple/openwechat]: golang版微信SDK
+- [awslabs/eks-node-viewerawslabs/eks-node-viewer]: EKS Node Viewer
 
 
 ---
@@ -259,7 +297,9 @@ tags:
 - [paradigmxyz/reth][paradigmxyz/reth]: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [pichenettes/eurorack][pichenettes/eurorack]: Eurorack modules
 - [tw93/Pake][tw93/Pake]: 🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-
+- [0x192/universal-android-debloater][0x192/universal-android-debloater]: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+- [spacedriveapp/spacedrive][spacedriveapp/spacedrive]: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+    - [🌐Official Site](https://spacedrive.com)
 
 
 ---
@@ -288,7 +328,7 @@ tags:
     - [📚Documentation](https://assimp-docs.readthedocs.io/en)
 - [ange-yaghi/engine-sim][ange-yaghi/engine-sim]: Combustion engine simulator that generates realistic audio.
     - [🌐Official Site](http://engine-sim.parts)
-
+- [google/android-emulator-hypervisor-driver][google/android-emulator-hypervisor-driver]: 
 
 ---
 ## Bash
@@ -304,7 +344,7 @@ tags:
 - [ohmyzsh/ohmyzsh][ohmyzsh/ohmyzsh]: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.    
     - [🌐Official Site](https://ohmyz.sh)
 - [FreedomBen/basic-ocp-demo][FreedomBen/basic-ocp-demo]: Sample app that can be easily deployed to OpenShift either as a training exercise or demonstration.
-
+- [Bugswriter/notflix][Bugswriter/notflix]: Notflix is a shell script to search and stream torrent.
 
 
 ---
@@ -348,7 +388,11 @@ tags:
 [Netflix/conductor]: https://github.com/Netflix/conductor
 [alibaba/fastjson2]: https://github.com/alibaba/fastjson2
 [Grasscutters/Grasscutter]: https://github.com/Grasscutters/Grasscutter
+[mbechler/marshalsec]: https://github.com/mbechler/marshalsec
+[whwlsfb/Log4j2Scan]: https://github.com/whwlsfb/Log4j2Scan
+[PlexPt/chatgpt-java]: https://github.com/PlexPt/chatgpt-java
 <!-- Kotlin -->
+[ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka
 [PaperMC/Paper]: https://github.com/PaperMC/Paper
 [PaperMC/Paperclip]: https://github.com/PaperMC/Paperclip
@@ -356,6 +400,9 @@ tags:
 [microsoft/thrifty]: https://github.com/microsoft/thrifty
 [sniffy/influxdb-tools]: https://github.com/sniffy/influxdb-tools
 [revanced/revanced-patches]: https://github.com/revanced/revanced-patches
+[cashapp/turbine]: https://github.com/cashapp/turbine
+[pinterest/ktlint]: https://github.com/pinterest/ktlint
+[ThinkingLogic/kotlin-builder-annotation]: https://github.com/ThinkingLogic/kotlin-builder-annotation
 <!-- Android -->
 [anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
 [PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment
@@ -377,6 +424,15 @@ tags:
 [android/architecture-templates]: https://github.com/android/architecture-templates/tree/base
 [tiann/KernelSU]: https://github.com/tiann/KernelSU
 [lsrom/webview-tester]: https://github.com/lsrom/webview-tester
+[TeamVanced/VancedMicroG]: https://github.com/TeamVanced/VancedMicroG
+[android/nowinandroid]: https://github.com/android/nowinandroid
+[libre-tube/LibreTube]: https://github.com/libre-tube/LibreTube
+[tranleduy2000/ncalc]: https://github.com/tranleduy2000/ncalc
+[RocketChat/Rocket.Chat]: https://github.com/RocketChat/Rocket.Chat
+[Kr328/ClashForAndroid]: https://github.com/Kr328/ClashForAndroid
+[Automattic/pocket-casts-android]: https://github.com/Automattic/pocket-casts-android
+[mastodon/mastodon-android]: https://github.com/mastodon/mastodon-android
+[skydoves/chatgpt-android]: https://github.com/skydoves/chatgpt-android
 <!-- Swift -->
 [CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
 [tuist/tuist]: https://github.com/tuist/tuist
@@ -443,6 +499,7 @@ tags:
 [hoppscotch/hoppscotch]: https://github.com/hoppscotch/hoppscotch
 [utterance/utterances]: https://github.com/utterance/utterances
 [shinework/photoshot]: https://github.com/shinework/photoshot
+[lensterxyz/lenster]: https://github.com/lensterxyz/lenster
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -451,10 +508,14 @@ tags:
 [kivy/kivy]: https://github.com/kivy/kivy
 [mkdocs/mkdocs]: https://github.com/mkdocs/mkdocs
 [hwchase17/langchain]: https://github.com/hwchase17/langchain
+[kingoflolz/mesh-transformer-jax]: https://github.com/kingoflolz/mesh-transformer-jax
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
 [gorilla/mux]: https://github.com/gorilla/mux
+[schollz/croc]: https://github.com/schollz/croc
+[eatmoreapple/openwechat]: https://github.com/eatmoreapple/openwechat
+[awslabs/eks-node-viewer]: https://github.com/awslabs/eks-node-viewer
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -462,6 +523,8 @@ tags:
 [paradigmxyz/reth]: https://github.com/paradigmxyz/reth
 [pichenettes/eurorack]: https://github.com/pichenettes/eurorack
 [tw93/Pake]: https://github.com/tw93/Pake
+[0x192/universal-android-debloater]: https://github.com/0x192/universal-android-debloater
+[spacedriveapp/spacedrive]: https://github.com/spacedriveapp/spacedrive
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -475,6 +538,7 @@ tags:
 [bytedance/sonic-cpp]: https://github.com/bytedance/sonic-cpp
 [assimp/assimp]: https://github.com/assimp/assimp
 [ange-yaghi/engine-sim]: https://github.com/ange-yaghi/engine-sim
+[google/android-emulator-hypervisor-driver]: https://github.com/google/android-emulator-hypervisor-driver
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
@@ -483,6 +547,7 @@ tags:
 [altercation/solarized]: https://github.com/altercation/solarized
 [ohmyzsh/ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
 [FreedomBen/basic-ocp-demo]: https://github.com/FreedomBen/basic-ocp-demo
+[Bugswriter/notflix]: https://github.com/Bugswriter/notflix
 <!-- CSS/Images -->
 [badges/shields]: https://github.com/badges/shields
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md

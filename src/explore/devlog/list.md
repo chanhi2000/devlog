@@ -76,7 +76,7 @@ description: Devlog's List
 - [JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
 - [\[TIL\] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
-
+- [\[Kotlin\] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 
 ---
 ## Zum 
@@ -90,7 +90,8 @@ description: Devlog's List
 - [안드로이드 SDK 번호와 버전 정리](https://kwon8999.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-SDK-%EB%B2%88%ED%98%B8%EC%99%80-%EB%B2%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
 - [\[안드로이드/Android\] WebView 세팅 속성](https://superwony.tistory.com/17)
 - [\[javascript\] `Selection`과 `Range`를 통해 내맘대로 커서 조작하기 - Selection편](https://gdtbgl93.tistory.com/175)
-
+- [\[Android\] SSL 인증서 적용해보기](https://xmobile.tistory.com/entry/Android-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
+- [\[Android\]\[WebView\] 안드로이드 웹뷰 사용한 앱 디버깅 하는 방법! (Feat. 크롬 버전 - Chromium)](https://maivve.tistory.com/159)
 
 ---
 ## morioh
@@ -134,3 +135,6 @@ description: Devlog's List
 - [`package-lock.json` 은 git ignore 처리해야할까?](https://blog.naver.com/gingsero/222140320340)
 - [Openshift Cheatsheet for DevOps](http://www.mastertheboss.com/soa-cloud/openshift/openshift-cheatsheet)
 - [SOAP 통신 OPEN API로 개발해보기](https://dahye-jeong.gitbook.io/til/java+/2021-01-09-java-soapapi)
+- [SingleLiveEvent와 Event 정리](https://jungwoon.github.io/android/livedata/2020/11/25/SingleLiveEvent.html)
+- [CUBRID GRANT....](https://www.cubrid.com/blog/3822938)
+- [Kotlin 코드를 문서화하자. (for Android)](https://archived.realignist.me/code/2016/06/24/kotlin-documentation.html)

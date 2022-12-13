@@ -10,4 +10,8 @@ description: 🐘Gradle
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+![shield-gradle][shield-gradle]
+
 {{ $frontmatter.description }} 관련 정리내용
+
+[shield-gradle]: https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat-square

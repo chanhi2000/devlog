@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Basics
-description: Basics
+title: Bash > Basics
+description: Bash > Basics
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Basics
-description: Basics
+title: Powershell > Basics
+description: Powershell > Basics
 ---
 
 # {{ $frontmatter.description }} 관련

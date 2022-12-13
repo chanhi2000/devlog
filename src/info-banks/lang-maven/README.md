@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Maven
+description: 🪶Maven
 ---
 
 # {{ $frontmatter.description }} 관련

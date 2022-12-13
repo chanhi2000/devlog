@@ -21,6 +21,7 @@ description: 🐋docker
 ![shield-openshift][shield-openshift]
 ![shield-mysql][shield-mysql]
 ![shield-postgresql][shield-postgresql]
+![shield-oracle][shield-oracle]
 
 {{ $frontmatter.description }} 관련 정리내용
 
@@ -35,3 +36,4 @@ description: 🐋docker
 [shield-openshift]: https://img.shields.io/badge/RedHat%20Openshift-EE0000?logo=redhatopenshift&logoColor=white&style=flat-square
 [shield-mysql]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square
 [shield-postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square
+[shield-oracle]: https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square

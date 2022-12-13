@@ -1,14 +1,11 @@
 ---
 lang: ko-KR
-title: 🔎SQL > Cubrid
-description: 🔎SQL > Cubrid
+title: WAS
+description: WAS
 ---
 
 # {{ $frontmatter.description }} 관련
 
 [[toc]]
 
----
-##
-
-
+## Tomcat

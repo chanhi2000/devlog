@@ -38,14 +38,21 @@ tags:
     - [🌐Official Site](https://doocs.github.io/leetcode)
 - [vuepress/awesome-vuepress][vuepress/awesome-vuepress]: 🎉 A curated list of awesome things related to VuePress
 - [trinib/Linux-Bash-Commands][trinib/Linux-Bash-Commands]: :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
+- [macrozheng/springcloud-learning][macrozheng/springcloud-learning]: 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
+    - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
+- [shubhamgrg04/awesome-diagramming][shubhamgrg04/awesome-diagramming]: A curated collection of diagramming tools used by leading software engineering teams
 
 
+
+---
 ## Free Books
 - [dariubs/GoBooks][dariubs/GoBooks]
 - [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]: 📚 Freely available programming books
     - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
 - [gurugio/book_assembly_8086_ko][gurugio/book_assembly_8086_ko]
 
+
+---
 ## Roadmap
 - [kamranahmedse/developer-roadmap][kamranahmedse/developer-roadmap]
     - [🌐Official Site](https://roadmap.sh/)
@@ -74,6 +81,8 @@ tags:
 [doocs/leetcode]: https://github.com/doocs/leetcode
 [vuepress/awesome-vuepress]: https://github.com/vuepress/awesome-vuepress
 [trinib/Linux-Bash-Commands]: https://github.com/trinib/Linux-Bash-Commands
+[macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
+[shubhamgrg04/awesome-diagramming]: https://github.com/shubhamgrg04/awesome-diagramming
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

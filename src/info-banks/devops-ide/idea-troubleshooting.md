@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Troubleshooting
-description: Troubleshooting
+title: Intellij Idea > Troubleshooting
+description: Intellij Idea > Troubleshooting
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -10,6 +10,7 @@ description: IDE (Integrated Development Environment)
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+![shield-jetbrains][shield-jetbrains]
 ![shield-intellij-idea][shield-intellij-idea]
 ![shield-android-studio][shield-android-studio]
 ![shield-vscode][shield-vscode]
@@ -30,6 +31,7 @@ description: IDE (Integrated Development Environment)
 
 {{ $frontmatter.description }} 관련 정리내용
 
+[shield-jetbrains]: https://img.shields.io/badge/Jetbrains-000000?logo=jetbrains&logoColor=white&style=flat-square
 [shield-intellij-idea]: https://img.shields.io/badge/Intellij%20Idea-000000?logo=intellijidea&logoColor=white&style=flat-square
 [shield-android-studio]: https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square
 [shield-vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square

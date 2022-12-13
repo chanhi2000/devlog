@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Swift
+description: 🕊️Swift
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,8 +12,10 @@ description: Swift
 
 ![shield-swift][shield-swift]
 ![shield-xcode][shield-xcode]
+![shield-cocoapods][shield-cocoapods]
 
 {{ $frontmatter.description }} 관련 정리내용
 
 [shield-swift]: https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square
 [shield-xcode]: https://img.shields.io/badge/XCode-147EFB?logo=xcode&logoColor=white&style=flat-square
+[shield-cocoapods]: https://img.shields.io/badge/CocoaPods-EE3322?logo=CocoaPods&logoColor=white&style=flat-square

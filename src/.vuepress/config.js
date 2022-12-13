@@ -36,8 +36,8 @@ module.exports = {
     lastUpdated: '최근변경일',
     sidebar: {
       '/info-banks/': getDocsNavBar('info-banks'),
-      '/todo/': getDocsNavBar('todo'),
-      '/site/': getDocsNavBar('site'),
+      '/catalogs/': getDocsNavBar('catalogs'),
+      '/explore/': getDocsNavBar('explore'),
     },
     nav: [
       {
@@ -45,11 +45,11 @@ module.exports = {
         link: '/info-banks/',
       },
       {
-        text: '✅Todo',
-        link: '/todo/',
+        text: '🗂️Catalogs',
+        link: '/catalogs/',
       }, {
-        text: '🌐Site',
-        link: '/site/',
+        text: '🌐Explore',
+        link: '/explore/',
       }, {
         text: '📍Misc.',
         items: [

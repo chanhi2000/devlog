@@ -75,7 +75,7 @@ tags:
 
 ---
 ## Cool Project(s)
-- [https://dustinbrett.com/][https://dustinbrett.com/]
+- [dustinbrett][dustinbrett]: daedalOS
 
 
 <!-- APIs -->
@@ -131,3 +131,5 @@ tags:
 <!-- Community -->
 [hamonikr]: https://hamonikr.org
 [clien]: https://www.clien.net/service/
+<!-- Cool Project(s) -->
+[dustinbrett]: https://dustinbrett.com/

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Java
+description: ☕️Java
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,6 +18,7 @@ description: Java
 ![shield-intellij-idea][shield-intellij-idea]
 ![shield-android-studio][shield-android-studio]
 ![shield-eclipse][shield-eclipse]
+![shield-apache-tomcat][shield-apache-tomcat]
 
 {{ $frontmatter.description }} 관련 정리내용
 
@@ -29,3 +30,4 @@ description: Java
 [shield-intellij-idea]: https://img.shields.io/badge/Intellij%20Idea-000000?logo=intellijidea&logoColor=white&style=flat-square
 [shield-android-studio]: https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square
 [shield-eclipse]: https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white&style=flat-square 
+[shield-apache-tomcat]: https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=white&style=flat-square 

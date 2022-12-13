@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Basics
-description: Basics
+title: Bat > Basics
+description: Bat > Basics
 ---
 
 # {{ $frontmatter.description }} 관련
