@@ -13,7 +13,7 @@ description: Devlog's List
 ---
 ## NHN
 - [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX](https://meetup.toast.com/posts/311)
-
+- [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
 
 ---
 ## Naver D2
@@ -51,6 +51,7 @@ description: Devlog's List
 - [3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
 - [Introduction to `oc` — the OpenShift Command Line Power Tool](https://freedomben.medium.com/introduction-to-oc-the-openshift-command-line-power-tool-cdcd399b4048)
 
+
 ---
 ## Dev.to
 - [My notes about conducting a massive refactor in a Vue.js website](https://dev.to/marianapicolo/my-notes-about-conducting-a-massive-refactor-in-a-vue-js-website-bo7)
@@ -62,6 +63,8 @@ description: Devlog's List
 - [Build your React App Faster!](https://dev.to/amanjagdev/build-your-react-app-faster-2bec)
 - [JavaScript: How to Remove Duplicate Values from Arrays](https://dev.to/will_devs/javascript-how-to-remove-duplicate-values-from-arrays-lf0)
 - [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
+- [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
+- [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
 
 
 ---
@@ -77,6 +80,9 @@ description: Devlog's List
 - [\[TIL\] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
 - [\[Kotlin\] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
+- [패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
+- [Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
+- [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ---
 ## Zum 
@@ -92,6 +98,8 @@ description: Devlog's List
 - [\[javascript\] `Selection`과 `Range`를 통해 내맘대로 커서 조작하기 - Selection편](https://gdtbgl93.tistory.com/175)
 - [\[Android\] SSL 인증서 적용해보기](https://xmobile.tistory.com/entry/Android-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [\[Android\]\[WebView\] 안드로이드 웹뷰 사용한 앱 디버깅 하는 방법! (Feat. 크롬 버전 - Chromium)](https://maivve.tistory.com/159)
+- [\[안드로이드/Android\]6.0 마시멜로우 권한체크하고 최적화하기](http://gun0912.tistory.com/55)
+
 
 ---
 ## morioh
@@ -138,3 +146,9 @@ description: Devlog's List
 - [SingleLiveEvent와 Event 정리](https://jungwoon.github.io/android/livedata/2020/11/25/SingleLiveEvent.html)
 - [CUBRID GRANT....](https://www.cubrid.com/blog/3822938)
 - [Kotlin 코드를 문서화하자. (for Android)](https://archived.realignist.me/code/2016/06/24/kotlin-documentation.html)
+- [코딩 수학 - sympy 다항식](http://campus.uos.ac.kr/chemc/coding_math/coding_math__2.html)
+- [\[자바스터디\]Java 초심 프로젝트 1일차(About Java)](https://blog.naver.com/koreannick/220587772504)
+- [Make Helm chart repo](https://www.jacobbaek.com/962)
+- [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html)
+- [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기](https://www.popit.kr/golang%ec%97%90%ec%84%9c-%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%bb%a8%ec%8a%88%eb%a8%b8-%ea%b7%b8%eb%a3%b9%ea%b3%bc-%ec%9e%ac%ec%8b%9c%eb%8f%84%eb%a1%9c-%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80/)
+- [JVM](https://jeongjin984.github.io/posts/JVM/)

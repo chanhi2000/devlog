@@ -11,7 +11,9 @@ description: 🐘Gradle
 :::
 
 ![shield-gradle][shield-gradle]
+![shield-groovy][shield-groovy]
 
 {{ $frontmatter.description }} 관련 정리내용
 
 [shield-gradle]: https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat-square
+[shield-groovy]: https://img.shields.io/badge/Apache%20Groovy-4298B8?logo=apachegroovy&logoColor=white&style=flat-square

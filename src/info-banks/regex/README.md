@@ -1,11 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Mermaid.js
-tags:
-  - js
-  - mermaid
-  - mermaidjs
+description: Regex
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -13,5 +9,3 @@ tags:
 ::: tip NOTE
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
-
-{{ $frontmatter.description }} 관련 정리내용

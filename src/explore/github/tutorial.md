@@ -12,7 +12,11 @@ description: Github > Tutorial
 - [mtdvio/every-programmer-should-know][mtdvio/every-programmer-should-know]
 - [github/opensource.guide][github/opensource.guide]: 📚 Community guides for open source creators
     - [🌐Official Site](https://opensource.guide)
+- [PKUFlyingPig/cs-self-learning][PKUFlyingPig/cs-self-learning]: 计算机自学指南
+    - [🌐Official Site](https://csdiy.wiki)
 
+
+---
 ## Java
 - [macrozheng/springcloud-learning][macrozheng/springcloud-learning]: 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
     - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
@@ -20,23 +24,27 @@ description: Github > Tutorial
 - [preslavmihaylov/booknotes][preslavmihaylov/booknotes]: A collection of my book notes on various computer science books
 
 
+---
 ## Kotlin
 - [Kotlin/KEEP][Kotlin/KEEP]: Kotlin Evolution and Enhancement Process
 - [tarek360/Kotlin-JavaScript-Lottie-Example][tarek360/Kotlin-JavaScript-Lottie-Example]: Example shows calling a JavaScript library from Kotlin as a dynamic type and static type
 - [PaperMC/paperweight-examples][PaperMC/paperweight-examples]: 
 
 
+---
 ## Android
 - [SmartToolFactory/Jetpack-Compose-Tutorials][SmartToolFactory/Jetpack-Compose-Tutorials]
 - [parasv49/Android-Internal-Notification][parasv49/Android-Internal-Notification]: Android Internal Notification
 - [https://gist.github.com/vilmarbfilho/1f162d09899523198a8ffd424b47ccd1][vilmarbfilho/1f162d09899523198a8ffd424b47ccd1]: library_buildconfig
 
 
+---
 ## Swift
 - [pointfreeco/episode-code-samples][pointfreeco/episode-code-samples]: 💾 Point-Free episode code.
     - [🌐Official Site](https://www.pointfree.co)
 
 
+---
 ## Javascript
 - [airbnb/javascript][airbnb/javascript]: JavaScript Style Guide
 - [goldbergyoni/nodebestpractices][goldbergyoni/nodebestpractices]: ✅ The Node.js best practices list (November 2022)
@@ -53,31 +61,40 @@ description: Github > Tutorial
     - [🌐Official Site](https://fakeflix.th3wall.codes)
 
 
+---
 ## Python
 - [gto76/python-cheatsheet][gto76/python-cheatsheet]: Comprehensive Python Cheatsheet
     - [🌐Official Site](https://gto76.github.io/python-cheatsheet)
 - [jackfrued/Python-Core-50-Courses][jackfrued/Python-Core-50-Courses]: Python语言基础50课
 - [Asabeneh/30-Days-Of-Python][Asabeneh/30-Days-Of-Python]: About 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [Pierian-Data/Complete-Python-3-Bootcamp][Pierian-Data/Complete-Python-3-Bootcamp]: Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [vopani/jaxton][vopani/jaxton]: 100 exercises to learn JAX
+- [Jdsleppy/django-orm-cheatsheet][Jdsleppy/django-orm-cheatsheet]: A cheatsheet for the Django ORM
 
 
+
+
+---
 ## Flutter
 - [vandadnp/flutter-tips-and-tricks][vandadnp/flutter-tips-and-tricks]: A Collection of Flutter and Dart Tips and Tricks
     - [🌐Official Site](https://linktr.ee/vandadnp)
 
+---
 ## C#
 
 
+---
 ## Go
 - [inancgumus/learngo][inancgumus/learngo]: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [marcel-dempers/docker-development-youtube-series][marcel-dempers/docker-development-youtube-series]: A Collection of tools, hands-on walkthroughs with source code.
 
 
+---
 ## Rust
 - [sunface/rust-by-practice][sunface/rust-by-practice]
     - [🌐Official Site](https://practice.rs)
 
-
+---
 ## DevOps
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [MichaelCade/90DaysOfDevOps][MichaelCade/90DaysOfDevOps]: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
@@ -85,6 +102,7 @@ description: Github > Tutorial
    - [🌐Official Site](https://free-for.dev)
 
 
+---
 ## Machine Learning
 - [DataTalksClub/mlops-zoomcamp][DataTalksClub/mlops-zoomcamp]: Free MLOps course from DataTalks.Club
 - [curiousily/Getting-Things-Done-with-Pytorch][curiousily/Getting-Things-Done-with-Pytorch]: Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with …   
@@ -93,11 +111,13 @@ description: Github > Tutorial
     - [🌐Official Site](https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying)
 
 
+---
 ## Bash
 - [bobbyiliev/introduction-to-bash-scripting][bobbyiliev/introduction-to-bash-scripting]: Free Introduction to Bash Scripting eBook
     - [🌐Official Site](https://ebook.bobby.sh)
 - [jlevy/the-art-of-command-line][jlevy/the-art-of-command-line]: Master the command line, in one page
 
+---
 ## Pwsh
 - [Purp1eW0lf/Blue-Team-Notes][Purp1eW0lf/Blue-Team-Notes]: You didn't think I'd go and leave the blue team out, right?
 
@@ -117,6 +137,7 @@ description: Github > Tutorial
 <!-- CompSci / Programming Basics -->
 [mtdvio/every-programmer-should-know]: https://github.com/mtdvio/every-programmer-should-know
 [github/opensource.guide]: https://github.com/github/opensource.guide
+[PKUFlyingPig/cs-self-learning]: https://github.com/PKUFlyingPig/cs-self-learning
 <!--Java-->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -147,6 +168,8 @@ description: Github > Tutorial
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
 [Asabeneh/30-Days-Of-Python]: https://github.com/Asabeneh/30-Days-Of-Python
 [Pierian-Data/Complete-Python-3-Bootcamp]: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+[vopani/jaxton]: https://github.com/vopani/jaxton
+[Jdsleppy/django-orm-cheatsheet]: https://github.com/Jdsleppy/django-orm-cheatsheet
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->

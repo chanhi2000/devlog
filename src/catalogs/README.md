@@ -40,6 +40,6 @@ Future task2                 :         desA6, after desA3, 5d
 - [ ] shields 목록 갱신
 
 #### A3. 22년안에 처리해야 할 기타 작업
-- [ ] vuepress markdown syntax highlighting 처리 (`bat`)
-
+- [x] vuepress markdown syntax highlighting 처리 (`bat`)
+- [ ] [vuepressbook](https://vuepressbook.com/introduction.html) 읽어보기
 

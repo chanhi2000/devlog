@@ -37,7 +37,7 @@ First, ensure that you are using an __administrative__ shell
 ### B2. 👨‍🏫Guide
 Copy and Paste the following to the Powershell Prompt 
 
-```ps1
+```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
@@ -45,7 +45,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Copy and Paste the following to the Powershell Prompt
 
-```ps1
+```powershell
 choco install -y everything everythingtoolbar notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode `
     dbeaver googlechrome fiddler windirstat 7zip `
@@ -56,7 +56,7 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir `
 
 or Windows Cmd
 
-```bat
+```batch
 choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode ^
     dbeaver googlechrome fiddler windirstat 7zip ^
@@ -82,7 +82,7 @@ First, ensure that you are using an __administrative__ shell
 ### C2. 👨‍🏫Guide
 Copy and Paste the following to the Powershell Prompt 
 
-```ps1
+```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 ```
@@ -91,14 +91,14 @@ irm get.scoop.sh | iex
 
 Copy and Paste the following to the Powershell Prompt
 
-```ps1
+```powershell
 scoop install 7zip neofetch oh-my-posh terminal-icons watchman `
     git
 ```
 
 or Windows Cmd
 
-```bat
+```batch
 scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
     git 
 ```

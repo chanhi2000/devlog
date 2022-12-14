@@ -48,7 +48,7 @@ function getDocsNavBar(item) {
             children: [
               'cli/',
               'cli/bash-basics',
-              'cli/bat-basics',
+              'cli/batch-basics',
               'cli/pwsh-basics',
             ]
           }, {
@@ -58,7 +58,7 @@ function getDocsNavBar(item) {
               'lang-gradle/useful-snippets',
             ]
           }, {
-            title: '🪶Maven',
+            title: '🐦Maven',
             children: [
               'lang-maven/',
               'lang-maven/useful-snippets',
@@ -74,6 +74,7 @@ function getDocsNavBar(item) {
             title: '☕️Java',
             children: [
               'lang-java/',
+              'lang-java/basics',
               'lang-java/was',
               'lang-java/webservice',
             ]
@@ -87,13 +88,13 @@ function getDocsNavBar(item) {
           //endregion
           //region: devops
           {
-            title: 'Git',
+            title: '🛠️Git',
             children: [
               'devops-git/',
               'devops-git/troubleshooting',
             ]
           }, {
-            title: '🎈OS',
+            title: '🧠OS',
             children: [
               'devops-os/',
               'devops-os/macos-env-setup',
@@ -115,7 +116,7 @@ function getDocsNavBar(item) {
               'devops-jenkins/2',
             ]
           }, {
-            title: 'Nexus Repository',
+            title: '🫙Nexus Repository',
             children: [
               'devops-nexus/',
               'devops-nexus/useful-tips',
@@ -132,22 +133,13 @@ function getDocsNavBar(item) {
           //endregion
           //region: js
           {
-            title: 'Mermaid.js',
+            title: '⚡️Javascript',
             children: [
-              'js-mermaid/',
-              'js-mermaid/example',
-            ]
-          }, {
-            title: 'Node.js',
-            children: [
-              'js-node/',
-              'js-node/dependencies',
-              'js-node/sandbox'
-            ]
-          }, {
-            title: 'Cordova',
-            children: [
-              'js-cordova/',
+              'lang-js/',
+              'lang-js/node-dependencies',
+              'lang-js/node-sandbox',
+              'lang-js/node-cordova',
+              'lang-js/mermaid-example',
             ]
           }, 
           //endregion
@@ -160,9 +152,15 @@ function getDocsNavBar(item) {
               'sql/mysql',
               'sql/tibero',
             ]
-          },
+          }, 
           //endregion
           {
+            title: 'Regex',
+            children: [
+              'regex/',
+              'regex/useful-snippets',
+            ],
+          }, {
             title: 'Markdown',
             children: [
               'lang-markdown/',

@@ -30,6 +30,9 @@ tags:
 - [verifier][verifier]: Ensure Customers are Real...
 - [30secondsofcode][30secondsofcode]: 30 Seconds of Code
 - [mankier][mankier]: Linux Man Page
+- [pypi][pypi]: Find, install and publish Python packages with the Python Package Index
+- [foojay][foojay]: Friends of OpenJDK
+
 
 ### 대한민국
 - [data-kr][data-kr]: 공공데이터포털
@@ -45,7 +48,10 @@ tags:
 - [juso][juso]: 도로명주소
 - [smap][smap]: 스마트서울맵
 - [kwater][kwater]: K-Water
-
+- [citywaste][citywaste]: 음식물 쓰레기 관리시스템
+- [tocycle][tocycle]: 토석정보공유시스템
+- [arisu]: 서울특별시 상수도사업본부
+    - [📱for Mobile](https://m.arisu.seoul.go.kr)
 
 ---
 ## Resources
@@ -67,6 +73,8 @@ tags:
 - [rg-adguard][rg-adguard]: Online link generator for Microsoft Store.
 - [eloquentjavascript][eloquentjavascript]: This is a book about JavaScript, programming, and the wonders of the digital.
 - [byte-of-vim][byte-of-vim]: A Byte of Vim v0.51
+- [inventwithpython][inventwithpython]: Hacking Secret Ciphers with Python
+- [kakaobrain][kakaobrain]: 카카오브레인
 
 ---
 ## Community
@@ -96,6 +104,8 @@ tags:
 [verifier]: https://verifier.meetchopra.com
 [30secondsofcode]: https://www.30secondsofcode.org
 [mankier]: https://www.mankier.com
+[pypi]: https://pypi.org
+[foojay]: https://foojay.io
 <!-- APIs > 한국 -->
 [data-kr]: https://www.data.go.kr
 [data-seoul]: https://data.seoul.go.kr/dataList/datasetList.do
@@ -110,6 +120,9 @@ tags:
 [juso]: https://www.juso.go.kr/openIndexPage.do
 [smap]: http://115.84.164.24/smgis2
 [kwater]: https://www.kwater.or.kr
+[citywaste]: https://www.citywaste.or.kr
+[tocycle]: https://www.tocycle.com
+[arisu]: https://arisu.seoul.go.kr
 <!-- Resources -->
 [awesome-cheatsheets]: https://lecoupa.github.io/awesome-cheatsheets/
 [Popular-Color-Palettes]: https://www.color-hex.com/color-palettes/popular.php
@@ -128,6 +141,8 @@ tags:
 [rg-adguard]: https://store.rg-adguard.net
 [eloquentjavascript]: https://eloquentjavascript.net
 [byte-of-vim]: https://vim.swaroopch.com/byte-of-vim.pdf
+[inventwithpython]: https://inventwithpython.com/hacking/chapters
+[kakaobrain]: https://kakaobrain.com
 <!-- Community -->
 [hamonikr]: https://hamonikr.org
 [clien]: https://www.clien.net/service/

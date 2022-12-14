@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Sandbox
-description: Sandbox
+title: Node.js > Sandbox
+description: Node.js > Sandbox
 ---
 
 # {{ $frontmatter.description }} 관련

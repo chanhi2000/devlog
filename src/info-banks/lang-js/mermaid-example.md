@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Example(s)
+title: Mermaid.js > Example(s)
 description: Mermaid.js > Example(s)
 tags:
   - js

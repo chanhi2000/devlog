@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Bat > Basics
-description: Bat > Basics
+title: Batch > Basics
+description: Batch > Basics
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -13,7 +13,7 @@ description: Bat > Basics
 
 `^`을 붙여 커맨드 입력
 
-```bat
+```batch
 wsdl2java.bat -u -t -ss -sd -g -b ^
     -o .\BmsSifDctToProcessMobService ^
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
@@ -24,6 +24,6 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 
 `DOSKEY <지정할 명령어>=<자주 입력하는 명령어>`
 
-```bat
+```batch
 DOSKEY scrcpyDefault=scrcpy -m 1024 --always-on-top
 ```

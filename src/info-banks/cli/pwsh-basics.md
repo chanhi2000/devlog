@@ -13,7 +13,7 @@ description: Powershell > Basics
 
 '\`' 을 붙여 커맨드 입력
 
-```bat
+```batch
 wsdl2java.bat -u -t -ss -sd -g -b `
     -o .\BmsSifDctToProcessMobService `
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl

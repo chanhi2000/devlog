@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Nexus Repository
+description: 🫙Nexus Repository
 ---
 
 # {{ $frontmatter.description }} 관련

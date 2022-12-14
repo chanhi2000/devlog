@@ -23,7 +23,7 @@ description: WebService
 
 윈도우 환경에서 Cmd
 
-```bat
+```batch
 wsdl2java.bat -u -t -ss -sd -g -b ^
     -o .\BmsSifDctToProcessMobService ^
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
@@ -31,7 +31,7 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 
 윈도우 환경에서 Pwsh
 
-```ps1
+```powershell
 
 ```
 
@@ -47,7 +47,7 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 
 윈도우 환경에서 Cmd
 
-```bat
+```batch
 wsdl2java.bat -u -t -ss -sd -g -b ^
     -o .\BmsSifDctToProcessMobService ^
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
@@ -55,7 +55,7 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 
 윈도우 환경에서 Pwsh
 
-```ps1
+```powershell
 
 ```
 

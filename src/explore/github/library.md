@@ -55,7 +55,8 @@ tags:
 - [mbechler/marshalsec][mbechler/marshalsec]: Java Unmarshaller Security - Turning your data into code execution
 - [whwlsfb/Log4j2Scan][whwlsfb/Log4j2Scan]: Log4j2 RCE Passive Scanner plugin for BurpSuite
 - [PlexPt/chatgpt-java][PlexPt/chatgpt-java]: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.
-
+- [flyway/flyway][flyway/flyway]: Flyway by Redgate • Database Migrations Made Easy.
+    - [🌐Official Site](https://flywaydb.org)
 
 
 ---
@@ -77,7 +78,8 @@ tags:
 - [pinterest/ktlint][pinterest/ktlint]: An anti-bikeshedding Kotlin linter with built-in formatter
     - [🌐Official Site](https://pinterest.github.io/ktlint)
 - [ThinkingLogic/kotlin-builder-annotation][ThinkingLogic/kotlin-builder-annotation]: A minimal viable replacement for the Lombok @builder plugin for Kotlin code
-
+- [netflix/dgs-framework][netflix/dgs-framework]: GraphQL for Java with Spring Boot made easy.
+    - [🌐Official Site](https://netflix.github.io/dgs)
 
 
 ---
@@ -245,16 +247,29 @@ tags:
     - [🌐Official Site](http://hgoebl.github.io/mobile-detect.js)
     - [📚Documentation](https://hgoebl.github.io/mobile-detect.js/doc/MobileDetect.html)
 - [semantic-org/semantic-ui][semantic-org/semantic-ui]: Semantic is a UI component framework based around useful principles from natural language.
-   - [🌐Official Site](http://www.semantic-ui.com)
-   - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
+    - [🌐Official Site](http://www.semantic-ui.com)
+    - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
 - [hoppscotch/hoppscotch][hoppscotch/hoppscotch]: 👽 Open source API development ecosystem - https://hoppscotch.io
-   - [🌐Official Site](https://hoppscotch.io)
+    - [🌐Official Site](https://hoppscotch.io)
 - [utterance/utterances][utterance/utterances]: 🔮 A lightweight comments widget built on GitHub issues
-   - [🌐Official Site](https://utteranc.es)
+    - [🌐Official Site](https://utteranc.es)
 - [shinework/photoshot][shinework/photoshot]
-   - [🌐Official Site](https://photoshot.app)
+    - [🌐Official Site](https://photoshot.app)
 - [lensterxyz/lenster][lensterxyz/lenster]: Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
-   - [🌐Official Site](https://lenster.xyz)
+    - [🌐Official Site](https://lenster.xyz)
+- [directus/directus][directus/directus]: The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+    - [🌐Official Site](https://directus.io)
+- [home-assistant/frontend][home-assistant/frontend]: 🍭 Frontend for Home Assistant
+    - [🌐Official Site](https://demo.home-assistant.io)
+- [wesbos/pommade][wesbos/pommade]: A menu bar app to check your hair
+- [awslabs/aws-icons-for-plantuml][awslabs/aws-icons-for-plantuml]: PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
+- [PrismJS/prism][PrismJS/prism]: Lightweight, robust, elegant syntax highlighting.
+    - [🌐Official Site](https://prismjs.com)
+- [hmartiro/riffusion-app][hmartiro/riffusion-app]: Stable diffusion for real-time music generation
+    - [🌐Official Site](http://riffusion.com)
+- [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the <canvas> tag
+    - [🌐Official Site](https://www.chartjs.org)
+
 
 
 ---
@@ -272,6 +287,24 @@ tags:
     - [🌐Official Site](https://www.mkdocs.org)
 - [hwchase17/langchain][hwchase17/langchain]: ⚡ Building applications with LLMs through composability ⚡
 - [kingoflolz/mesh-transformer-jax][kingoflolz/mesh-transformer-jax]: Model parallel transformers in JAX and Haiku
+- [facebookresearch/fairseq][facebookresearch/fairseq]: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [zas023/JdBuyer][zas023/JdBuyer]: 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
+- [mete0r/pyhwp][mete0r/pyhwp]: .hwp file format v5 parser in python
+    - [🌐Official Site](http://pythonhosted.org/pyhwp)
+- [pypa/pipfile][pypa/pipfile]: Pipfile: the replacement for requirements.txt
+- [sympy/sympy][sympy/sympy]: A computer algebra system written in pure Python
+    - [🌐Official Site](https://sympy.org)
+- [PaddlePaddle/PaddleSeg][PaddlePaddle/PaddleSeg]: Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.
+    - [🌐Official Site](https://arxiv.org/abs/2101.06175)
+- [mingrammer/diagrams][mingrammer/diagrams]: 🎨 Diagram as Code for prototyping cloud system architectures
+    - [🌐Official Site](https://diagrams.mingrammer.com)
+- [hmartiro/riffusion-inference][hmartiro/riffusion-inference]: Stable diffusion for real-time music generation
+    - [🌐Official Site](http://riffusion.com)
+- [carson-katri/dream-textures][carson-katri/dream-textures]: Stable Diffusion built-in to the Blender shader editor
+- [mui/material-ui][mui/material-ui]: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+    - [🌐Official Site](https://mui.com/core)
+- [Jxck-S/plane-notify][Jxck-S/plane-notify]: Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet
+
 
 
 ---
@@ -284,6 +317,9 @@ tags:
     - [🌐Official Site](https://schollz.com/software/croc6)
 - [eatmoreapple/openwechat][eatmoreapple/openwechat]: golang版微信SDK
 - [awslabs/eks-node-viewerawslabs/eks-node-viewer]: EKS Node Viewer
+- [dolthub/dolt][dolthub/dolt]: Dolt – Git for Data
+- [aler9/rtsp-simple-server][aler9/rtsp-simple-server]: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
+
 
 
 ---
@@ -300,6 +336,10 @@ tags:
 - [0x192/universal-android-debloater][0x192/universal-android-debloater]: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [spacedriveapp/spacedrive][spacedriveapp/spacedrive]: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
     - [🌐Official Site](https://spacedrive.com)
+- [pola-rs/polars][pola-rs/polars]: Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
+    - [🌐Official Site](https://pola.rs)
+- [m1guelpf/plz-cli][m1guelpf/plz-cli]: Copilot for your terminal
+
 
 
 ---
@@ -329,6 +369,18 @@ tags:
 - [ange-yaghi/engine-sim][ange-yaghi/engine-sim]: Combustion engine simulator that generates realistic audio.
     - [🌐Official Site](http://engine-sim.parts)
 - [google/android-emulator-hypervisor-driver][google/android-emulator-hypervisor-driver]: 
+- [nalgeon/sqlean][nalgeon/sqlean]: The ultimate set of SQLite extensions
+- [nlohmann/json][nlohmann/json]: JSON for Modern C++
+    - [🌐Official Site](https://json.nlohmann.me)
+- [alibaba/havenask][alibaba/havenask]
+- [musescore/MuseScoremusescore/MuseScore]: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+    - [🌐Official Site](https://musescore.org)
+
+
+---
+## Lua
+- [ThePrimeagen/init.lua][ThePrimeagen/init.lua]: 
+
 
 ---
 ## Bash
@@ -345,6 +397,21 @@ tags:
     - [🌐Official Site](https://ohmyz.sh)
 - [FreedomBen/basic-ocp-demo][FreedomBen/basic-ocp-demo]: Sample app that can be easily deployed to OpenShift either as a training exercise or demonstration.
 - [Bugswriter/notflix][Bugswriter/notflix]: Notflix is a shell script to search and stream torrent.
+- [palera1n/palera1n][palera1n/palera1n]: iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
+- [ax/apk.sh][ax/apk.sh]: apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+
+
+
+---
+## Powershell
+- [MicrosoftDocs/azure-docs][MicrosoftDocs/azure-docs]: Open source documentation of Microsoft Azure
+    - [🌐Official Site](https://docs.microsoft.com/azure)
+- [Azure/azure-quickstart-templates][Azure/azure-quickstart-templates]: Azure Quickstart Templates
+    - [🌐Official Site](https://aka.ms/azqst)     
+
+---
+## TeX
+- [posquit0/Awesome-CV][posquit0/Awesome-CV]: 📄 Awesome CV is LaTeX template for your outstanding job application
 
 
 ---
@@ -391,6 +458,7 @@ tags:
 [mbechler/marshalsec]: https://github.com/mbechler/marshalsec
 [whwlsfb/Log4j2Scan]: https://github.com/whwlsfb/Log4j2Scan
 [PlexPt/chatgpt-java]: https://github.com/PlexPt/chatgpt-java
+[flyway/flyway]: https://github.com/flyway/flyway
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka
@@ -403,6 +471,7 @@ tags:
 [cashapp/turbine]: https://github.com/cashapp/turbine
 [pinterest/ktlint]: https://github.com/pinterest/ktlint
 [ThinkingLogic/kotlin-builder-annotation]: https://github.com/ThinkingLogic/kotlin-builder-annotation
+[netflix/dgs-framework]: https://github.com/netflix/dgs-framework
 <!-- Android -->
 [anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
 [PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment
@@ -500,6 +569,13 @@ tags:
 [utterance/utterances]: https://github.com/utterance/utterances
 [shinework/photoshot]: https://github.com/shinework/photoshot
 [lensterxyz/lenster]: https://github.com/lensterxyz/lenster
+[directus/directus]: https://github.com/directus/directus
+[home-assistant/frontend]: https://github.com/home-assistant/frontend
+[wesbos/pommade]: https://github.com/wesbos/pommade
+[awslabs/aws-icons-for-plantuml]: https://github.com/awslabs/aws-icons-for-plantuml
+[PrismJS/prism]: https://github.com/PrismJS/prism
+[hmartiro/riffusion-app]: https://github.com/hmartiro/riffusion-app
+[carson-katri/dream-textures]: https://github.com/carson-katri/dream-textures
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -509,6 +585,17 @@ tags:
 [mkdocs/mkdocs]: https://github.com/mkdocs/mkdocs
 [hwchase17/langchain]: https://github.com/hwchase17/langchain
 [kingoflolz/mesh-transformer-jax]: https://github.com/kingoflolz/mesh-transformer-jax
+[facebookresearch/fairseq]: https://github.com/facebookresearch/fairseq
+[zas023/JdBuyer]: https://github.com/zas023/JdBuyer
+[mete0r/pyhwp]: https://github.com/mete0r/pyhwp
+[pypa/pipfile]: https://github.com/pypa/pipfile
+[sympy/sympy]: https://github.com/sympy/sympy
+[PaddlePaddle/PaddleSeg]: https://github.com/PaddlePaddle/PaddleSeg
+[mingrammer/diagrams]: https://github.com/mingrammer/diagrams
+[hmartiro/riffusion-inference]: https://github.com/hmartiro/riffusion-inference
+[mui/material-ui]: https://github.com/mui/material-ui
+[Jxck-S/plane-notify]: https://github.com/Jxck-S/plane-notify
+[chartjs/Chart.js]: https://github.com/chartjs/Chart.js
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -516,6 +603,8 @@ tags:
 [schollz/croc]: https://github.com/schollz/croc
 [eatmoreapple/openwechat]: https://github.com/eatmoreapple/openwechat
 [awslabs/eks-node-viewer]: https://github.com/awslabs/eks-node-viewer
+[dolthub/dolt]: https://github.com/dolthub/dolt
+[aler9/rtsp-simple-server]: https://github.com/aler9/rtsp-simple-server
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -525,6 +614,8 @@ tags:
 [tw93/Pake]: https://github.com/tw93/Pake
 [0x192/universal-android-debloater]: https://github.com/0x192/universal-android-debloater
 [spacedriveapp/spacedrive]: https://github.com/spacedriveapp/spacedrive
+[pola-rs/polars]: https://github.com/pola-rs/polars
+[m1guelpf/plz-cli]: https://github.com/m1guelpf/plz-cli
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -539,6 +630,12 @@ tags:
 [assimp/assimp]: https://github.com/assimp/assimp
 [ange-yaghi/engine-sim]: https://github.com/ange-yaghi/engine-sim
 [google/android-emulator-hypervisor-driver]: https://github.com/google/android-emulator-hypervisor-driver
+[nalgeon/sqlean]: https://github.com/nalgeon/sqlean
+[nlohmann/json]: https://github.com/nlohmann/json
+[alibaba/havenask]: https://github.com/alibaba/havenask
+[musescore/MuseScore]: https://github.com/musescore/MuseScore
+<!-- Lua -->
+[ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
@@ -548,6 +645,13 @@ tags:
 [ohmyzsh/ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
 [FreedomBen/basic-ocp-demo]: https://github.com/FreedomBen/basic-ocp-demo
 [Bugswriter/notflix]: https://github.com/Bugswriter/notflix
+[palera1n/palera1n]: https://github.com/palera1n/palera1n
+[ax/apk.sh]: https://github.com/ax/apk.sh
+<!-- Powershell -->
+[MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
+[Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
+<!-- TeX -->
+[posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 <!-- CSS/Images -->
 [badges/shields]: https://github.com/badges/shields
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md

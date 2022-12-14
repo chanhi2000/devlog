@@ -41,6 +41,12 @@ tags:
 - [macrozheng/springcloud-learning][macrozheng/springcloud-learning]: 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
     - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
 - [shubhamgrg04/awesome-diagramming][shubhamgrg04/awesome-diagramming]: A curated collection of diagramming tools used by leading software engineering teams
+- [sesang06/awesome-alternative-military-service][sesang06/awesome-alternative-military-service]: 정보처리 산업기능요원을 위한 쓸만한 정보들
+- [ila/TUM][ila/TUM]: Notes, material and various stuff collected while attended TUM Master's Degree
+- [krahets/hello-algo][krahets/hello-algo]: 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书
+    - [🌐Official Site](https://hello-algo.com)
+- [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
 
 
 
@@ -83,6 +89,10 @@ tags:
 [trinib/Linux-Bash-Commands]: https://github.com/trinib/Linux-Bash-Commands
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [shubhamgrg04/awesome-diagramming]: https://github.com/shubhamgrg04/awesome-diagramming
+[sesang06/awesome-alternative-military-service]: https://github.com/sesang06/awesome-alternative-military-service
+[ila/TUM]: https://github.com/ila/TUM
+[krahets/hello-algo]: https://github.com/krahets/hello-algo
+[bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

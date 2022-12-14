@@ -9,8 +9,12 @@ description: 💻Ubuntu > Environment Setup
   - ohmyzsh
   - homebrew
   - starship
+  - ubuntu
 ---
 
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
+
+---
+## 
