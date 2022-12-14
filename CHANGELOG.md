@@ -4,14 +4,29 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+
 ---
-## [v0.0.8: 2022-12-13][v0.0.9]
+## [v0.0.10: 2022-12-13][v0.0.10]
 
 내용채워넣기
 
 ### Added
 - `site-github`, `site-others`
 - `markdown` 항목 추가
+
+### Modified
+- Nav 타이틀 변경
+- `cli`로 그룹지어 정리
+
+---
+## [v0.0.9: 2022-12-13][v0.0.9]
+
+내용채워넣기
+
+### Added
+- `site-github`, `site-others`
+- `markdown` 항목 추가
+
 ### Modified
 - devops-ide로 그룹지어 정리
 - devops-os로 그룹지어 정리
@@ -103,7 +118,8 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
-[v0.0.9]: https://github.com/chanhi2000/devlog/compare/v0.0.9...v0.0.9
+[v0.0.10]: https://github.com/chanhi2000/devlog/compare/v0.0.9...v0.0.10
+[v0.0.9]: https://github.com/chanhi2000/devlog/compare/v0.0.8...v0.0.9
 [v0.0.8]: https://github.com/chanhi2000/devlog/compare/v0.0.7...v0.0.8
 [v0.0.7]: https://github.com/chanhi2000/devlog/compare/v0.0.6...v0.0.7
 [v0.0.6]: https://github.com/chanhi2000/devlog/compare/v0.0.5...v0.0.6
