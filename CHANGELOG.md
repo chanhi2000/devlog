@@ -6,6 +6,19 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 
 ---
+## [v0.0.11: 2022-12-19][v0.0.11]
+
+내용채워넣기
+
+### Added
+- `github/*`
+- `lang-java/basic` 항목 추가
+
+### Modified
+- `batch` 스크립트 syntax highlighting 정상화
+
+
+---
 ## [v0.0.10: 2022-12-13][v0.0.10]
 
 내용채워넣기
