@@ -104,6 +104,29 @@ war {
 gradlew <war으로 묶어 줄 모듈>:war
 ```
 
+## `java` Plugin 
+
+| title | description |
+| ---: | :---------- |
+| 목적 | Java로 컴파일 시 구성해야 할 항목 정의 |
+| 적업대상 `gradle` 파일 | `./<모듈>/build.gradle` |
+
+```gradle
+compileJava {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+    options.incremental = true
+    options.failOnError = false
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+    options.compileArgs << "-Xlint:deprecation" << "-Xlint:unchecked"
+}
+```
+
+
+
 ---
 ## Android 관련
 

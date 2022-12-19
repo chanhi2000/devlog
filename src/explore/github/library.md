@@ -269,7 +269,9 @@ tags:
     - [🌐Official Site](http://riffusion.com)
 - [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the <canvas> tag
     - [🌐Official Site](https://www.chartjs.org)
-
+- [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
+    - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
+- [CorwinDev/Discord-Bot][CorwinDev/Discord-Bot]: Discord Bot with over 400 commands and made for large servers
 
 
 ---
@@ -350,6 +352,13 @@ tags:
 - [valinet/ExplorerPatcher][valinet/ExplorerPatcher]: This project aims to enhance the working environment on Windows
 - [microsoft/calculator][microsoft/calculator]: Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [coofcookie/Windows11Upgrade][coofcookie/Windows11Upgrade]: Windows 11 Upgrade tool that bypasses Microsoft´s requirements
+- [google/forma][google/forma]: An efficient vector-graphics renderer
+
+
+
+---
+## Dart
+- [vishalxl/nostr_console][vishalxl/nostr_console]: Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
 
 
 ---
@@ -379,7 +388,13 @@ tags:
 
 ---
 ## Lua
-- [ThePrimeagen/init.lua][ThePrimeagen/init.lua]: 
+- [ThePrimeagen/init.lua][ThePrimeagen/init.lua]
+- [neovim/neovim][neovim/neovim]: Vim-fork focused on extensibility and usability
+    - [🌐Official Site](https://neovim.io)
+- [wbthomason/packer.nvim][wbthomason/packer.nvim]: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [williamboman/mason.nvim][williamboman/mason.nvim]: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+
+
 
 
 ---
@@ -576,6 +591,8 @@ tags:
 [PrismJS/prism]: https://github.com/PrismJS/prism
 [hmartiro/riffusion-app]: https://github.com/hmartiro/riffusion-app
 [carson-katri/dream-textures]: https://github.com/carson-katri/dream-textures
+[xiaoxian521/vue-pure-admin]: https://github.com/xiaoxian521/vue-pure-admin
+[CorwinDev/Discord-Bot]: https://github.com/CorwinDev/Discord-Bot
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -616,12 +633,15 @@ tags:
 [spacedriveapp/spacedrive]: https://github.com/spacedriveapp/spacedrive
 [pola-rs/polars]: https://github.com/pola-rs/polars
 [m1guelpf/plz-cli]: https://github.com/m1guelpf/plz-cli
+[google/forma]: https://github.com/google/forma
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
 [valinet/ExplorerPatcher]: https://github.com/valinet/ExplorerPatcher
 [microsoft/calculator]: https://github.com/microsoft/calculator
 [coofcookie/Windows11Upgrade]: https://github.com/coofcookie/Windows11Upgrade
+<!-- Dart -->
+[vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
 <!-- C & C++ -->
@@ -636,6 +656,9 @@ tags:
 [musescore/MuseScore]: https://github.com/musescore/MuseScore
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
+[neovim/neovim]: https://github.com/neovim/neovim
+[wbthomason/packer.nvim]: https://github.com/wbthomason/packer.nvim
+[williamboman/mason.nvim]: https://github.com/williamboman/mason.nvim
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch

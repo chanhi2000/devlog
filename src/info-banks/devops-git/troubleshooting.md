@@ -4,19 +4,23 @@ title: Troubleshooting
 description: Git > Troubleshooting
 ---
 
-# Git > Troubleshooting 관련
+# {{ $frontmatter.description }} 관련
 
+[[toc]]
+
+
+---
 ## 🪲Push 오류
 
 ```sh
 Git push: Missing or invalid credentials. fatal: Authentication failed for 'https://github.com/username/repo.git'
 ```
 
-The problem comes from the authentication handler of vscode.
+😥The problem comes from the authentication handler of vscode.
 
 To solve the problem:
 
-- Open vscode File > Preferences > Settings
+- Open vscode `File` > `Preferences` > `Settings`
 - Search for <em>git.terminalAuthentication</em>
 - Uncheck the option
 
@@ -46,3 +50,16 @@ insert the following line into it:
 git.terminalAuthentication: false,
 ```
 :::
+
+
+---
+## remote: HTTP Basic: Access denied
+
+- 😥원격저장소와 통신하는 커맨드를 실행 할 때 발생
+- 💊아래 커맨드를 실행하여 기존 credential정보 제거 및 초기화
+
+```sh
+git config --local --unset credential.helper
+git config --global --unset credential.helper
+git config --system --unset credential.helper
+```

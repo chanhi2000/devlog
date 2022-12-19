@@ -48,6 +48,7 @@ function getDocsNavBar(item) {
             children: [
               'cli/',
               'cli/bash-basics',
+              'cli/bash-troubleshooting',
               'cli/batch-basics',
               'cli/pwsh-basics',
             ]
@@ -116,7 +117,7 @@ function getDocsNavBar(item) {
               'devops-jenkins/2',
             ]
           }, {
-            title: '🫙Nexus Repository',
+            title: '📚Nexus Repository',
             children: [
               'devops-nexus/',
               'devops-nexus/useful-tips',
@@ -128,6 +129,9 @@ function getDocsNavBar(item) {
               'devops-ide/idea-plugins',
               'devops-ide/idea-troubleshooting',
               'devops-ide/vscode-plugins',
+              'devops-ide/dbeaver-hotkey',
+              'devops-ide/dbeaver-jdbc',              
+              'devops-ide/dbeaver-qtmplt',
             ]
           },
           //endregion

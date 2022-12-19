@@ -15,7 +15,7 @@ description: Basics
 public final class FooBar {
     private static final FooBar INSTANCE = null;
     private FooBar() {}
-    public static FooBar getInstance() {
+    public static synchronized FooBar getInstance() {
         if (INSTANCE == null)
             INSTANCE = new FooBar();
         return INSTANCE;
@@ -25,23 +25,37 @@ public final class FooBar {
 ```
 
 -- 
-## Enum Class 구조
+## 자주쓰는 Enum Pattern
 
 > Lombok을 사용하여 코드를 간결하게 작성
 
 ```java
-@Getter
-public enum RegularAction {
-    A(1, "1"),
-    B(2, "2"),
-    C(3, "3");
-    private int i;
-    private String s;
-    RegularAction(int i, String s) {
-        this.i = i;
-        this.s = s;
-    }
+package com.example.markiiimark;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
+@Getter
+@AllArgsConstructor
+public enum FooBar {
+    A("a", "1", 1),
+    B("b", "2", 2),
+    C("c", "3", 3);
+    private String code;
+    private String a;
+    private int b;
+    
+    private static Map<String, FooBar> findMap = new ConcurrentHashMap<>();
+    static {
+        for (Foobar item: values())
+            findMap.put(item.getCode(), item);
+    }
+    public static Foobar findByCode(int i) { return findMap.get(i); }
+
+    // ...[생략]... 이 부분 부터는 알아서 응용 코드 적용
 }
 ```
 

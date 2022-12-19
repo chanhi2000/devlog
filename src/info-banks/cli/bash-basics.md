@@ -51,6 +51,7 @@ export CDPATH
 
 `cd` 입력 후 자주 찾는 디렉토리를 알려준다.
 
+---
 ## Perform calculations
 
 숫자계산

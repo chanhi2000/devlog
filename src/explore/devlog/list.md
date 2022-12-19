@@ -6,6 +6,10 @@ description: Devlog's List
 
 # {{ $frontmatter.description }} 관련
 
+## Favorite(s)
+- [💾 Knowledge Repository](https://atoz-develop.tistory.com)
+
+
 ---
 ## Notion
 - [React Native 2020](https://www.notion.so/React-Native-2020-444084ec7aa44a509df33f8a3ae2edb3)
@@ -152,3 +156,4 @@ description: Devlog's List
 - [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html)
 - [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기](https://www.popit.kr/golang%ec%97%90%ec%84%9c-%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%bb%a8%ec%8a%88%eb%a8%b8-%ea%b7%b8%eb%a3%b9%ea%b3%bc-%ec%9e%ac%ec%8b%9c%eb%8f%84%eb%a1%9c-%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80/)
 - [JVM](https://jeongjin984.github.io/posts/JVM/)
+- [\[Git\] Git Rebase란? (feat. git-flow 히스토리를 더 이쁘게 만들기)](https://seosh817.tistory.com/240)
