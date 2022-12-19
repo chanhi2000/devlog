@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Intro
 description: 🗂️Catalogs
+tags: ["schedule", "gantt", "markdown", "mermaidjs", "todo"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -14,6 +15,7 @@ description: 🗂️Catalogs
 
 [[toc]]
 
+---
 ## 🗓️2023년 목표 정의
 
 ```mermaidjs
@@ -43,3 +45,4 @@ Future task2                 :         desA6, after desA3, 5d
 - [x] vuepress markdown syntax highlighting 처리 (`bat`)
 - [ ] [vuepressbook](https://vuepressbook.com/introduction.html) 읽어보기
 
+<TagLinks />

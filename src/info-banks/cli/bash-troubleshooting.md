@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Bash > Troubleshooting
 description: Bash > Troubleshooting
+tags: ["bash", "linux", "macos", "terminal", "sed"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -19,3 +20,5 @@ description: Bash > Troubleshooting
 ```sh
 sed -i -e 's/\r$//' <스크립트.sh>
 ```
+
+<TagLinks />

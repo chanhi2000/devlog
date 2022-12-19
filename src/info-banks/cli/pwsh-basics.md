@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Powershell > Basics
 description: Powershell > Basics
+tags: ["powershell", "windows", "windows-terminal", "multiline"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +19,5 @@ wsdl2java.bat -u -t -ss -sd -g -b `
     -o .\BmsSifDctToProcessMobService `
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
 ```
+
+<TagLinks />

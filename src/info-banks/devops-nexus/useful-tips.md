@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Useful Tips
 description: Useful Tips
+tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -43,3 +44,4 @@ curl -v -u admin:admin123 "http://10.60.175.90:9880/nexus/service/local/artifact
     -F file=@kotlin-util-klib-metadata-1.7.20.jar
 ```
 
+<TagLinks />

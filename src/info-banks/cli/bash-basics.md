@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Bash > Basics
 description: Bash > Basics
+tags: ["bash", "linux", "macos", "terminal", "alias", "tail", "multiline"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -59,3 +60,5 @@ export CDPATH
 ```sh
 echo $((16/2))
 ```
+
+<TagLinks />

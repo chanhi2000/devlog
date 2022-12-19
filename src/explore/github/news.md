@@ -2,12 +2,14 @@
 lang: ko-KR
 title: News
 description: Github > News
+tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 ---
 
-# News 관련
+# {{ $frontmatter.description }} 관련
 
 [[toc]]
 
+---
 ## 일반
 
 ### Korea
@@ -22,7 +24,7 @@ description: Github > News
      - [🌐Official Site](http://paperswelove.org)
 - [ascoders/weekly][ascoders/weekly]: 前端精读周刊。帮你理解最前沿、实用的技术。
 
-
+---
 ## Hiring 관련
 
 ### Korea
@@ -38,6 +40,7 @@ Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-
 - [yangshun/tech-interview-handbook][yangshun/tech-interview-handbook]: 💯 Curated coding interview preparation materials for busy software engineers
     - [Official Site](https://www.techinterviewhandbook.org)
 
+<TagLinks />
 
 [naver/fe-news]: https://github.com/naver/fe-news
 [sjjeong/android-tech-spec-in-korea-company]: https://github.com/sjjeong/android-tech-spec-in-korea-company

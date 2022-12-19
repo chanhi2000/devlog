@@ -2,6 +2,7 @@
 lang: ko-KR
 title: 🔎SQL > Cubrid
 description: 🔎SQL > Cubrid
+tags: ["sql", "cubrid", "ddl", "dml", "sql-privilege"]
 ---
 
 # {{ $frontmatter.description }} 관련

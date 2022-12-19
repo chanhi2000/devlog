@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Intro
 description: 🏰Portfolio
+tags: ["notion", "portfolio", "site", "project"]
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2,6 +2,7 @@
 lang: ko-KR
 title: DBeaver > Query Template
 description: DBeaver > Query Template
+tags: ["dbeaver", "dbeaver-ce", "ide", "template", "query-template", "query"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +19,5 @@ description: DBeaver > Query Template
 | name | context | description |
 | `swhere` | SQL | `select * from ${table} where 1=1 and ${column}=${value};` |
 | `sob` | SQL | `select * from ${table} where 1=1 order by ${column}` |
+
+<TagLinks />

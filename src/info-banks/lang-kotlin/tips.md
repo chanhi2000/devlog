@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Tips
 description: Kotlin > Tips
+tags: ["kotlin", "companion-object", "logger", "slf4j", "log4j", "lombok"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -164,6 +165,8 @@ inline fun <reified T> T.logger(): Logger {
     return LoggerFactory.getLogger(T::class.java)
 }
 ```
+
+<TagLinks />
 
 
 

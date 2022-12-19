@@ -2,6 +2,7 @@
 lang: ko-KR
 title: WebService
 description: WebService
+tags: ["java", "jdk", "webservice", "ws", "apache", "apache-cxf", "apache-axis", "apache-axis2", "wsdl2java"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -59,4 +60,4 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 
 ```
 
----
+<TagLinks />

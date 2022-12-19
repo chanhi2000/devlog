@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Troubleshooting
 description: Git > Troubleshooting
+tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credentials", "bash"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -53,7 +54,11 @@ git.terminalAuthentication: false,
 
 
 ---
-## remote: HTTP Basic: Access denied
+## 🪲저장소 접근오류
+
+```sh
+remote: HTTP Basic: Access denied
+```
 
 - 😥원격저장소와 통신하는 커맨드를 실행 할 때 발생
 - 💊아래 커맨드를 실행하여 기존 credential정보 제거 및 초기화
@@ -63,3 +68,5 @@ git config --local --unset credential.helper
 git config --global --unset credential.helper
 git config --system --unset credential.helper
 ```
+
+<TagLinks />

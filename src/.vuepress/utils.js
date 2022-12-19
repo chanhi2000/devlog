@@ -92,6 +92,7 @@ function getDocsNavBar(item) {
             title: '🛠️Git',
             children: [
               'devops-git/',
+              'devops-git/basics',
               'devops-git/troubleshooting',
             ]
           }, {

@@ -2,10 +2,14 @@
 lang: ko-KR
 title: List
 description: Devlog's List
+tags: ["favorite", "devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws"]
 ---
 
 # {{ $frontmatter.description }} 관련
 
+[[toc]]
+
+---
 ## Favorite(s)
 - [💾 Knowledge Repository](https://atoz-develop.tistory.com)
 
@@ -157,3 +161,5 @@ description: Devlog's List
 - [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기](https://www.popit.kr/golang%ec%97%90%ec%84%9c-%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%bb%a8%ec%8a%88%eb%a8%b8-%ea%b7%b8%eb%a3%b9%ea%b3%bc-%ec%9e%ac%ec%8b%9c%eb%8f%84%eb%a1%9c-%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80/)
 - [JVM](https://jeongjin984.github.io/posts/JVM/)
 - [\[Git\] Git Rebase란? (feat. git-flow 히스토리를 더 이쁘게 만들기)](https://seosh817.tistory.com/240)
+
+<TagLinks />

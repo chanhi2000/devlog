@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Useful Snippets
 description: Useful Snippets
+tags: ["gradle", "groovy", "android", "android-studio", "idea", "intellij-idea", "intellij", "war", "apk", "signed-config", "plugin-war", "plugin-java", "plugin-android", "executable-jar", "jar"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -168,10 +169,10 @@ buildscript {
 
 // ...[생략]...
 plugins {
-    id('com.android.application')
-    id('kotlin-android')
+    id("com.android.applications")
+    id("kotlin-android")
     // ...[생략]...
-    id('com.google.gms.google-services')
+    id("com.google.gms.google-services")
 }
 
 def keystorePropertiesFile = rootProject.file("keystore.properties")
@@ -219,3 +220,5 @@ android {
     }
 }
 ```
+
+<TagLinks />

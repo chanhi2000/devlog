@@ -41,6 +41,10 @@ module.exports = {
     },
     nav: [
       {
+        text: '🔖Tags',
+        link: '/tags/'
+      },
+      {
         text: '📖Info Banks',
         link: '/info-banks/',
       },

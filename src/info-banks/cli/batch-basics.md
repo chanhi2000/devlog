@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Batch > Basics
 description: Batch > Basics
+tags: ["batch", "bat", "windows", "windows-terminal", "multiline", "DOSKEY"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -27,3 +28,5 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 ```batch
 DOSKEY scrcpyDefault=scrcpy -m 1024 --always-on-top
 ```
+
+<TagLinks />

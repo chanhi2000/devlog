@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Git > Basics
 description: Git > Basics
+tags: ["git", "git-cli", "bash", "terminal", "windows-terminal", "tortoisegit", "git-remote", "git-branch", "git-fetch", "git-pull", "git-push", "git-checkout", "git-reset", "git-merge", "git-rebase", "git-status", "git-add", "git-commit", "git-log", "git-stash"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -24,7 +25,7 @@ description: Git > Basics
 | `git pull <저장소 별칭> <브랜치 명>` | ⏬(지정한 브랜치로) push 된 commit 목록 가져오기 (원격 > 로컬) |
 | `git push <저장소 별칭> <브랜치 명>` | ⏫(지정한 브랜치에서) 로컬에서 작업한 commit 목록 push 하기 |
 
-## 브랜치 (branch) 관리
+### 브랜치 (branch) 관리
 
 | 명령어 | 설명 |
 | :--- | :--- |
@@ -38,7 +39,7 @@ description: Git > Basics
 | `git merge <브랜치 명>` | HEAD가 바라보는 브랜치에서 대상 브랜치와 병합 |
 | `git rebase <브랜치 명>` | 대상 브랜치의 최신 commit점으로 base 재배치 병합 |
 
-## Commit 관리
+### Commit 관리
 
 | 명령어 | 설명 |
 | :--- | :--- |
@@ -58,7 +59,7 @@ description: Git > Basics
 | `git am <*.patch 파일>` | 📌로컬에 해당patch 커밋으로 등록 |
 
 
-## Submodule 관리
+### Submodule 관리
 
 | 명령어 | 설명 |
 | :--- | :--- |
@@ -74,3 +75,5 @@ description: Git > Basics
 | 명령어 | 설명 |
 | :--- | :--- |
 | `TortoiseGitPRoc /command:log /path:"<작업경로>"` | `git log` 화면 열기 |
+
+<TagLinks />

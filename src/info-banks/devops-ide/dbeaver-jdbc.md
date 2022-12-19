@@ -2,6 +2,7 @@
 lang: ko-KR
 title: DBeaver > JDBC 
 description: DBeaver > JDBC
+tags: ["dbeaver", "dbeaver-ce", "ide", "jdbc", "db-tibero", "db-cubrid", "cubrid", "tibero"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -30,4 +31,6 @@ description: DBeaver > JDBC
 | Class Name | `cubrid.jdbc.driver.CUBRIDDriver` |
 | URL Template | `jdbc:CUBRID:thin:{host}:{port}:{database}:::?charset=UTF-8` |
 | Default Port | 33000 |
+
+<TagLinks />
 

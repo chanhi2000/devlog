@@ -2,13 +2,7 @@
 lang: ko-KR
 title: 🖥️macOS > Environment Setup
 description: 🖥️macOS > Environment Setup
-  - sh
-  - bash
-  - zsh
-  - oh-my-zsh
-  - ohmyzsh
-  - homebrew
-  - starship
+tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "homebrew", "pacman", "starship", "dracula", "dracula-theme", "draculatheme", "jdk", "jdk11", "temurin", "temurin11", "docker", "neofetch"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -192,3 +186,5 @@ If you are using `Package Control`, you can easily install Dracula Theme via the
 [jetbrains-01]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-plugin-install.png
 [jetbrains-02]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-appearance.png
 [jetbrains-03]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-scheme.png
+
+<TagLinks />

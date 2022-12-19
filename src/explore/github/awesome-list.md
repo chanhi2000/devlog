@@ -2,17 +2,14 @@
 lang: ko-KR
 title: Awesome List
 description: Github > Awesome List
-tags:
-    - awesome-list
-    - github
-    - roadmap
-    - ebook
+tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner", "guide"]
 ---
 
-# Awesome List 관련
+# {{ $frontmatter.description }} 관련
 
 [[toc]]
 
+---
 ## General
 - [ClintJang/awesome-swift-korean-lecture][ClintJang/awesome-swift-korean-lecture]: 훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)
 - [matteocrippa/awesome-swift][matteocrippa/awesome-swift]: A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
@@ -65,6 +62,8 @@ tags:
 - [skydoves/android-developer-roadmap][skydoves/android-developer-roadmap]
 - [MoienTajik/AspNetCore-Developer-Roadmap][MoienTajik/AspNetCore-Developer-Roadmap]: Roadmap to becoming an ASP.NET Core developer in 2022
 
+
+<TagLinks />
 
 <!-- General -->
 [ClintJang/awesome-swift-korean-lecture]: https://github.com/ClintJang/awesome-swift-korean-lecture

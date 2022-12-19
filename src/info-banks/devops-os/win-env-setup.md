@@ -2,14 +2,7 @@
 lang: ko-KR
 title: 👓Windows > Environment Setup
 description: 👓Windows > Environment Setup
-  - bat
-  - pwsh
-  - oh-my-pwsh
-  - chocolatey
-  - windows-terminal
-  - cmd
-  - powershell
-  - ps1
+tags: ["bat", "pwsh", "win-run", "oh-my-pwsh", "chocolatey", "windows-terminal", "cmd", "powershell", "ps1", "scoop", "pacman", "jdk", "jdk7", "temurin", "temurin11", "docker", "neofetch"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -49,7 +42,7 @@ Copy and Paste the following to the Powershell Prompt
 choco install -y everything everythingtoolbar notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode `
     dbeaver googlechrome fiddler windirstat 7zip `
-    procexp scrcpy nvm docker-desktop temurin11 temurin8 `
+    procexp scrcpy nvm docker-desktop temurin11 temurin11 `
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal
     
 ```
@@ -60,7 +53,7 @@ or Windows Cmd
 choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode ^
     dbeaver googlechrome fiddler windirstat 7zip ^
-    procexp scrcpy nvm docker-desktop temurin11 temurin8 ^
+    procexp scrcpy nvm docker-desktop temurin11 temurin11 ^
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal
 ```
 
@@ -122,3 +115,5 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
     - Key: `AutoRun`
     - Value: `%USERPROFILE%\alias.cmd`
 - 시스템 재시작
+
+<TagLinks />

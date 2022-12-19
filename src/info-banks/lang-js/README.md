@@ -2,10 +2,7 @@
 lang: ko-KR
 title: Intro
 description: ⚡️Javascript
-tags:
-  - js
-  - mermaid
-  - mermaidjs
+tags: ["js" , "mermaid" , "mermaidjs"]
 ---
 
 # {{ $frontmatter.description }} 관련

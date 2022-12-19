@@ -2,11 +2,7 @@
 lang: ko-KR
 title: Mermaid.js > Example(s)
 description: Mermaid.js > Example(s)
-tags:
-  - js
-  - mermaid
-  - mermaidjs
-  - example
+tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js" "example"]
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,7 +1,8 @@
 ---
 lang: ko-KR
 title: Visual Studio Code > Plugins
-description: Visual Studio Code > Plugins  
+description: Visual Studio Code > Plugins 
+tags: ["vscode", "visual-studio-code", "ide", "plugin", "vscode-plugin"] 
 ---
 
 # {{ $frontmatter.description }} 관련

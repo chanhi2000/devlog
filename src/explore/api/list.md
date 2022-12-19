@@ -1,15 +1,13 @@
 ---
 lang: ko-KR
-title: List
+title: APIs & Resources
 description: APIs & Resources
-tags:
-    - image
-    - color
-    - git
-    - bootstrap
+tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gitignore", "hyperlink"]
 ---
 
-# APIs & Resources 관련
+# {{ $frontmatter.description }} 관련
+
+[[toc]]
 
 ---
 ## APIs
@@ -84,6 +82,8 @@ tags:
 ---
 ## Cool Project(s)
 - [dustinbrett][dustinbrett]: daedalOS
+
+<TagLinks />
 
 
 <!-- APIs -->

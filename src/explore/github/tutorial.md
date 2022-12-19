@@ -2,12 +2,14 @@
 lang: ko-KR
 title: Tutorial
 description: Github > Tutorial
+tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "android", "swift", "javascript"]
 ---
 
-# Tutorial 관련
+# {{ $frontmatter.description }} 관련
 
 [[toc]]
 
+---
 ## CompSci / Programming Basics
 - [mtdvio/every-programmer-should-know][mtdvio/every-programmer-should-know]
 - [github/opensource.guide][github/opensource.guide]: 📚 Community guides for open source creators

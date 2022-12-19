@@ -2,24 +2,10 @@
 lang: ko-KR
 title: Library
 description: Github > Library
-tags:
-    - git
-    - github
-    - java
-    - kotlin
-    - android
-    - swift
-    - multiplatform
-    - javascript
-    - nodejs
-    - python
-    - go
-    - csharp
-    - php
-    - bash
+tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatform" , "javascript" , "nodejs" , "python" , "go" , "csharp" , "php" , "bash"]
 ---
 
-# Library 관련
+# {{ $frontmatter.description }} 관련
 
 [[toc]]
 
@@ -452,6 +438,7 @@ tags:
 - [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native. 
     - [🌐Official Site](http://airbnb.io/lottie)
 
+<TagLinks />
 
 <!-- Java -->
 [PowerJob/PowerJob]: https://github.com/PowerJob/PowerJob

@@ -2,6 +2,7 @@
 lang: ko-KR
 title: DBeaver > Hotkey 
 description: DBeaver > Hotkey
+tags: ["dbeaver", "dbeaver-ce", "hotkey", "ide"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +18,5 @@ description: DBeaver > Hotkey
 | <kbd>ctrl</kbd> + <kbd>9</kbd> | DB 선택 후 연결 |
 | <kbd>ctrl</kbd> + <kbd>F3</kbd> | 새 스크립트 생성 |
 | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>space</kbd> | 쿼리 탬플릿 창 생성 |
+
+<TagLinks />

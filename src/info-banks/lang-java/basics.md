@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Basics
 description: Basics
+tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs", "lombok"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -88,3 +89,5 @@ public class FooGaze {
     }
 }
 ```
+
+<TagLinks />
