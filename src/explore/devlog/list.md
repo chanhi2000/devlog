@@ -2,17 +2,12 @@
 lang: ko-KR
 title: List
 description: Devlog's List
-tags: ["favorite", "devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws"]
+tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws", "git-flow"]
 ---
 
 # {{ $frontmatter.description }} 관련
 
 [[toc]]
-
----
-## Favorite(s)
-- [💾 Knowledge Repository](https://atoz-develop.tistory.com)
-
 
 ---
 ## Notion
@@ -58,6 +53,8 @@ tags: ["favorite", "devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "
 - [Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
 - [3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
 - [Introduction to `oc` — the OpenShift Command Line Power Tool](https://freedomben.medium.com/introduction-to-oc-the-openshift-command-line-power-tool-cdcd399b4048)
+- [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
+
 
 
 ---
@@ -122,12 +119,28 @@ tags: ["favorite", "devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "
 
 
 ---
+## Stackoverflow
+- [I want to get application crash info in Android programmatically without using 3rd party apps or jars like bugsense etc](https://stackoverflow.com/questions/27779289/i-want-to-get-application-crash-info-in-android-programmatically-without-using-3)
+- [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)
+- [Bottom app bar problem with placing icons](https://stackoverflow.com/questions/54767397/bottom-app-bar-problem-with-placing-icons)
+- [What is this date format? 2011-08-12T20:17:46.384Z](https://stackoverflow.com/questions/8405087/what-is-this-date-format-2011-08-12t201746-384z)
+- [move Android fragment to a different container Can't change container ID of fragment](https://stackoverflow.com/questions/13601811/move-android-fragment-to-a-different-container-cant-change-container-id-of-frag)
+- [How to display HTML in TextView?](https://stackoverflow.com/questions/2116162/how-to-display-html-in-textview)
+- [android Bottom app bar is not taking full width even after setting width to match parent](https://stackoverflow.com/questions/66808871/android-bottom-app-bar-is-not-taking-full-width-even-after-setting-width-to-matc)
+- [Test expected exceptions in Kotlin](https://stackoverflow.com/questions/30331806/test-expected-exceptions-in-kotlin/34556914)
+- [ConnectivityManager getNetworkInfo(int) deprecated](https://stackoverflow.com/questions/32547006/connectivitymanager-getnetworkinfoint-deprecated/54641263)
+- [WebView wrap_content doesn't occupy entire view size](https://stackoverflow.com/questions/57699107/webview-wrap-content-doesnt-occupy-entire-view-size)
+- [android - setting LayoutParams programmatically](https://stackoverflow.com/questions/9678785/android-setting-layoutparams-programmatically)
+- [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
+
+
+---
 ## Other
 - [인터넷 익스플로러에서 자동으로 엣지로 전환하는 방법(Redirect from IE to Edge)](https://webruden.tistory.com/794)
 - [JavaScript Tips](https://markodenic.com/javascript-tips)
 - [Baeldung | Working with Microsoft Excel in Java](https://www.baeldung.com/java-microsoft-excel)
 - [안드로이드의 다양한 Notification 종류와 구현 방법](https://codechacha.com/ko/notifications-in-android)
-- [I want to get application crash info in Android programmatically without using 3rd party apps or jars like bugsense etc](https://stackoverflow.com/questions/27779289/i-want-to-get-application-crash-info-in-android-programmatically-without-using-3)
+
 - [안드로이드에서 카카오 우편번호 검색 구현하기](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
 - [android kotlin - Get screen size from context](https://www.android--code.com/2020/08/android-kotlin-get-screen-size-from.html)
 - [Vue 2 Query Builder with Cube](https://cube.dev/blog/vue-query-builder-with-cubejs)
@@ -161,5 +174,17 @@ tags: ["favorite", "devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "
 - [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기](https://www.popit.kr/golang%ec%97%90%ec%84%9c-%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%bb%a8%ec%8a%88%eb%a8%b8-%ea%b7%b8%eb%a3%b9%ea%b3%bc-%ec%9e%ac%ec%8b%9c%eb%8f%84%eb%a1%9c-%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80/)
 - [JVM](https://jeongjin984.github.io/posts/JVM/)
 - [\[Git\] Git Rebase란? (feat. git-flow 히스토리를 더 이쁘게 만들기)](https://seosh817.tistory.com/240)
+- [ExoPlayer 정리](https://jungwoon.github.io/android/library/2020/11/06/ExoPlayer.html)
+- [\[안드로이드\] 오류: Lint found fatal errors while assembling a release target. 해결 방법](https://jhshjs.tistory.com/13)
+- [\[Kotlin\] SQLite  +  Singleton Pattern](https://jwsoft91.tistory.com/78)
+- [안드로이드 커스텀뷰, 커스텀 뷰그룹 만들기](https://jungwoon.github.io/android/2021/08/31/Custom-View.html)
+- [\[Android\] Webview에서 새로운 창을 열때](https://mikelim.mintocean.com/entry/Android-Webview%EC%97%90%EC%84%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%B0%BD%EC%9D%84-%EC%97%B4%EB%95%8C)
+- [Scoped Storage Stories: SAF Basics](https://commonsware.com/blog/2019/10/19/scoped-storage-stories-saf-basics.html)
+- [Kotlin recipes for Android (I): `OnGlobalLayoutListener`](https://antonioleiva.com/kotlin-ongloballayoutlistener)
+- [개발 :: Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종류, 단축 명령어 Alias(별칭) 설정, 터미널 커맨드라인)](https://blog.naver.com/jdusans/222043705693)
+- [How to perform a Git clean up of branches and commits example](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-clean-up-Git-branches-and-commits)
+- [\[번역\] 더 나은 git 커밋 메시지 작성 패턴](https://devh.kr/2020/Patterns-for-writing-better-git-commit-messages/?fbclid=IwAR1SDquuIVDDT7awG4fKHxzNv3N6MdWeWVKbrcx7j_85q2_pCsqwhXaZmpU)
+- [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
+
 
 <TagLinks />

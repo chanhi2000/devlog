@@ -16,6 +16,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
     - [🌐Official Site](https://opensource.guide)
 - [PKUFlyingPig/cs-self-learning][PKUFlyingPig/cs-self-learning]: 计算机自学指南
     - [🌐Official Site](https://csdiy.wiki)
+- [RomuloOliveira/commit-messages-guide][RomuloOliveira/commit-messages-guide]: A guide to understand the importance of commit messages and how to write them well
+
 
 
 ---
@@ -140,7 +142,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [mtdvio/every-programmer-should-know]: https://github.com/mtdvio/every-programmer-should-know
 [github/opensource.guide]: https://github.com/github/opensource.guide
 [PKUFlyingPig/cs-self-learning]: https://github.com/PKUFlyingPig/cs-self-learning
-<!--Java-->
+[RomuloOliveira/commit-messages-guide]: https://github.com/RomuloOliveira/commit-messages-guide
+<!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
 [preslavmihaylov/booknotes]: https://github.com/preslavmihaylov/booknotes

@@ -48,7 +48,9 @@ Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-
 [GitHubDaily/GitHubDaily]: https://github.com/GitHubDaily/GitHubDaily
 [papers-we-love/papers-we-love]: https://github.com/papers-we-love/papers-we-love
 [ascoders/weekly]: https://github.com/ascoders/weekly
+<!-- Hiring > Korea -->
 [jojoldu/junior-recruit-scheduler]: https://github.com/jojoldu/junior-recruit-scheduler
+<!-- Hiring > Overseas -->
 [poteto/hiring-without-whiteboards]: https://github.com/poteto/hiring-without-whiteboards
-[Ebazhanov/linkedin-skill-assessments-quizzes]: Ebazhanov/linkedin-skill-assessments-quizzes
+[Ebazhanov/linkedin-skill-assessments-quizzes]: https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
 [yangshun/tech-interview-handbook]: https://github.com/yangshun/tech-interview-handbook

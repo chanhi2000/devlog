@@ -22,10 +22,16 @@ function getDocsNavBar(item) {
               'api/popular',
             ],
           }, {
-            title: 'Devlog',
+            title: '✏️Devlog',
             children: [
               'devlog/',
               'devlog/list',
+            ]
+          }, {
+            title: '🦺Career',
+            children: [
+              'career/',
+              'career/hiring',
             ]
           }
         ]

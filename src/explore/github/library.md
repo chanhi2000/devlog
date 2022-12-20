@@ -33,7 +33,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [PaperMC/Starlight][PaperMC/Starlight]: Rewrites the light engine to fix lighting performance and lighting errors
 - [sniffy/sniffy][sniffy/sniffy]: Sniffy - interactive profiler, testing and chaos engineering tool for Java
     - [🌐Official Site](https://www.sniffy.io)
-- [Netflix/conductor][Netflix/conductor]: Conductor is a microservices orchestration engine.
+- [Netflix/conductor][Netflix/conductor]: Conductor is a microservices orchestration engine.s
     - [🌐Official Site](https://conductor.netflix.com)
 - [alibaba/fastjson2][alibaba/fastjson2]: 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [Grasscutters/Grasscutter][Grasscutters/Grasscutter]: A server software reimplementation for a certain anime game.
@@ -43,6 +43,17 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [PlexPt/chatgpt-java][PlexPt/chatgpt-java]: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.
 - [flyway/flyway][flyway/flyway]: Flyway by Redgate • Database Migrations Made Easy.
     - [🌐Official Site](https://flywaydb.org)
+- [open-pdf-sign/open-pdf-sign][open-pdf-sign/open-pdf-sign]: Digitally sign PDF files from your commandline
+    - [🌐Official Site](https://openpdfsign.org)
+- [theonedev/onedev][theonedev/onedev]: Self-hosted Git Server with CI/CD and Kanban
+    - [🌐Official Site](https://code.onedev.io/onedev/server)
+    - [📚Documentation](https://docs.onedev.io)
+- [strongbox/strongbox][strongbox/strongbox]: Strongbox is an artifact repository manager.
+    - [🌐Official Site](https://strongbox.github.io)
+- [JabRef/jabref][JabRef/jabref]: Graphical Java application for managing BibTeX and biblatex (.bib) databases
+    - [🌐Official Site](https://devdocs.jabref.org)
+- [classycodeoss/nfc-sockets][classycodeoss/nfc-sockets]: Sockets over NFC
+    - [🌐Official Site](https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf)
 
 
 ---
@@ -66,6 +77,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [ThinkingLogic/kotlin-builder-annotation][ThinkingLogic/kotlin-builder-annotation]: A minimal viable replacement for the Lombok @builder plugin for Kotlin code
 - [netflix/dgs-framework][netflix/dgs-framework]: GraphQL for Java with Spring Boot made easy.
     - [🌐Official Site](https://netflix.github.io/dgs)
+
+
+    
 
 
 ---
@@ -114,6 +128,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://app.joinmastodon.org/android)
     - [🌐Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
 - [skydoves/chatgpt-android][skydoves/chatgpt-android]: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [recloudstream/cloudstream][recloudstream/cloudstream]: Android app for streaming and downloading Movies, TV-Series and Anime.
 
 
 
@@ -258,6 +273,11 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
     - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
 - [CorwinDev/Discord-Bot][CorwinDev/Discord-Bot]: Discord Bot with over 400 commands and made for large servers
+- [Infisical/infisical][Infisical/infisical]: ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+    - [🌐Official Site](https://infisical.com)
+- [dariusk/twitter-archiver][dariusk/twitter-archiver]: Make your own simple, public, searchable Twitter archive
+- [alan2207/bulletproof-react][alan2207/bulletproof-react]: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+
 
 
 ---
@@ -327,6 +347,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [pola-rs/polars][pola-rs/polars]: Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
     - [🌐Official Site](https://pola.rs)
 - [m1guelpf/plz-cli][m1guelpf/plz-cli]: Copilot for your terminal
+- [Spotifyd/spotifyd][Spotifyd/spotifyd]: A spotify daemon
 
 
 
@@ -370,6 +391,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [alibaba/havenask][alibaba/havenask]
 - [musescore/MuseScoremusescore/MuseScore]: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
     - [🌐Official Site](https://musescore.org)
+- [facebook/zstd][facebook/zstd]: Zstandard - Fast real-time compression algorithm
+    - [🌐Official Site](http://www.zstd.net)
 
 
 ---
@@ -461,6 +484,11 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [whwlsfb/Log4j2Scan]: https://github.com/whwlsfb/Log4j2Scan
 [PlexPt/chatgpt-java]: https://github.com/PlexPt/chatgpt-java
 [flyway/flyway]: https://github.com/flyway/flyway
+[open-pdf-sign/open-pdf-sign]: https://github.com/open-pdf-sign/open-pdf-sign
+[theonedev/onedev]: https://github.com/theonedev/onedev
+[strongbox/strongbox]: https://github.com/strongbox/strongbox
+[JabRef/jabref]: https://github.com/JabRef/jabref
+[classycodeoss/nfc-sockets]: https://github.com/classycodeoss/nfc-sockets
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka
@@ -474,7 +502,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [pinterest/ktlint]: https://github.com/pinterest/ktlint
 [ThinkingLogic/kotlin-builder-annotation]: https://github.com/ThinkingLogic/kotlin-builder-annotation
 [netflix/dgs-framework]: https://github.com/netflix/dgs-framework
-<!-- Android -->
+
 [anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
 [PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment
 [Memrise/plaid]: https://github.com/Memrise/plaid
@@ -504,6 +532,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [Automattic/pocket-casts-android]: https://github.com/Automattic/pocket-casts-android
 [mastodon/mastodon-android]: https://github.com/mastodon/mastodon-android
 [skydoves/chatgpt-android]: https://github.com/skydoves/chatgpt-android
+[recloudstream/cloudstream]: https://github.com/recloudstream/cloudstream
 <!-- Swift -->
 [CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
 [tuist/tuist]: https://github.com/tuist/tuist
@@ -580,6 +609,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [carson-katri/dream-textures]: https://github.com/carson-katri/dream-textures
 [xiaoxian521/vue-pure-admin]: https://github.com/xiaoxian521/vue-pure-admin
 [CorwinDev/Discord-Bot]: https://github.com/CorwinDev/Discord-Bot
+[Infisical/infisical]: https://github.com/Infisical/infisical
+[dariusk/twitter-archiver]: https://github.com/dariusk/twitter-archiver
+[alan2207/bulletproof-react]: https://github.com/alan2207/bulletproof-react
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -621,6 +653,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [pola-rs/polars]: https://github.com/pola-rs/polars
 [m1guelpf/plz-cli]: https://github.com/m1guelpf/plz-cli
 [google/forma]: https://github.com/google/forma
+[Spotifyd/spotifyd]: https://github.com/Spotifyd/spotifyd
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -641,6 +674,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [nlohmann/json]: https://github.com/nlohmann/json
 [alibaba/havenask]: https://github.com/alibaba/havenask
 [musescore/MuseScore]: https://github.com/musescore/MuseScore
+[facebook/zstd]: https://github.com/facebook/zstd
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim

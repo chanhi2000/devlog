@@ -30,6 +30,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [mankier][mankier]: Linux Man Page
 - [pypi][pypi]: Find, install and publish Python packages with the Python Package Index
 - [foojay][foojay]: Friends of OpenJDK
+- [opensourcelibs][opensourcelibs]: a massive collection of the world's best open source software
 
 
 ### 대한민국
@@ -50,6 +51,8 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [tocycle][tocycle]: 토석정보공유시스템
 - [arisu]: 서울특별시 상수도사업본부
     - [📱for Mobile](https://m.arisu.seoul.go.kr)
+- [nsdi][nsdi]: 국가공간정보포털
+
 
 ---
 ## Resources
@@ -73,6 +76,11 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [byte-of-vim][byte-of-vim]: A Byte of Vim v0.51
 - [inventwithpython][inventwithpython]: Hacking Secret Ciphers with Python
 - [kakaobrain][kakaobrain]: 카카오브레인
+- [fonts-material-icons][fonts-material-icons]: Google Fonts (Material Icons)
+- [thenounproject][thenounproject]: Icons and Photos For Everything
+- [fonts-earlyaccess][fonts-earlyaccess]: Google Fonts (Early Access)
+- [youtube-documentation][youtube-documentation]: 
+- [jshint][jshint]: JSHint
 
 ---
 ## Community
@@ -106,6 +114,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [mankier]: https://www.mankier.com
 [pypi]: https://pypi.org
 [foojay]: https://foojay.io
+[opensourcelibs]: https://opensourcelibs.com
 <!-- APIs > 한국 -->
 [data-kr]: https://www.data.go.kr
 [data-seoul]: https://data.seoul.go.kr/dataList/datasetList.do
@@ -123,6 +132,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [citywaste]: https://www.citywaste.or.kr
 [tocycle]: https://www.tocycle.com
 [arisu]: https://arisu.seoul.go.kr
+[nsdi]: http://www.nsdi.go.kr/lxportal
 <!-- Resources -->
 [awesome-cheatsheets]: https://lecoupa.github.io/awesome-cheatsheets/
 [Popular-Color-Palettes]: https://www.color-hex.com/color-palettes/popular.php
@@ -143,6 +153,11 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [byte-of-vim]: https://vim.swaroopch.com/byte-of-vim.pdf
 [inventwithpython]: https://inventwithpython.com/hacking/chapters
 [kakaobrain]: https://kakaobrain.com
+[fonts-material-icons]: https://fonts.google.com/icons?selected=Material+Icons
+[thenounproject]: https://thenounproject.com
+[fonts-earlyaccess]: https://fonts.google.com/earlyaccess
+[youtube-documentation]: https://developers.google.com/youtube/documentation
+[jshint]: https://jshint.com
 <!-- Community -->
 [hamonikr]: https://hamonikr.org
 [clien]: https://www.clien.net/service/
