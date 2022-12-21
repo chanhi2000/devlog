@@ -28,6 +28,8 @@ description: IDE (Integrated Development Environment)
 ![shield-vue-js][shield-vue-js]
 ![shield-vuetify][shield-vuetify]
 ![shield-svelte][shield-svelte]
+![shield-vim][shield-vim]
+![shield-neovim][shield-neovim]
 
 {{ $frontmatter.description }} 관련 정리내용
 
@@ -49,3 +51,5 @@ description: IDE (Integrated Development Environment)
 [shield-vue-js]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square 
 [shield-vuetify]: https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white&style=flat-square 
 [shield-svelte]: https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=flat-square 
+[shield-vim]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square 
+[shield-neovim]: https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=flat-square

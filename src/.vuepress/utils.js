@@ -136,6 +136,7 @@ function getDocsNavBar(item) {
               'devops-ide/idea-plugins',
               'devops-ide/idea-troubleshooting',
               'devops-ide/vscode-plugins',
+              'devops-ide/vim-useful-tips',
               'devops-ide/dbeaver-hotkey',
               'devops-ide/dbeaver-jdbc',              
               'devops-ide/dbeaver-qtmplt',

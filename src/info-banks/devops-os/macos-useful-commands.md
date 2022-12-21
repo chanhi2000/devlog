@@ -9,4 +9,8 @@ tags: ["sh", "bash", "zsh"]
 
 [[toc]]
 
+---
+## Useful Commands
+
+
 <TagLinks />
