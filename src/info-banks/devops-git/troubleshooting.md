@@ -11,9 +11,22 @@ tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credenti
 
 
 ---
+## Github으로 Push 오류
+
+```
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+```
+
+- 😥Password로 인증처리를 할 수 없도록 되어 있음
+- 💊[\[Mac\] GitHub push token 오류 해결](https://hyeo-noo.tistory.com/184)
+
+
+
+---
 ## 🪲Push 오류
 
-```sh
+```
 Git push: Missing or invalid credentials. fatal: Authentication failed for 'https://github.com/username/repo.git'
 ```
 
@@ -56,14 +69,14 @@ git.terminalAuthentication: false,
 ---
 ## 🪲저장소 접근오류
 
-```sh
+```shell
 remote: HTTP Basic: Access denied
 ```
 
 - 😥원격저장소와 통신하는 커맨드를 실행 할 때 발생
 - 💊아래 커맨드를 실행하여 기존 credential정보 제거 및 초기화
 
-```sh
+```shell
 git config --local --unset credential.helper
 git config --global --unset credential.helper
 git config --system --unset credential.helper

@@ -14,3 +14,4 @@ tags: ["favorite", "devlog", "github", "tistory"]
 - [Antonio Leiva](https://antonioleiva.com)
 - [💾 Knowledge Repository](https://atoz-develop.tistory.com)
 - [Jungwoon Blog](https://jungwoon.github.io)
+- [Luis Ramos](https://luisramos.dev)

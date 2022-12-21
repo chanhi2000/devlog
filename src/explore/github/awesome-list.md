@@ -45,8 +45,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 
-
-
 ---
 ## Free Books
 - [dariubs/GoBooks][dariubs/GoBooks]

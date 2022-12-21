@@ -16,7 +16,7 @@ tags: ["java", "jdk", "webservice", "ws", "apache", "apache-cxf", "apache-axis",
 
 리눅스 환경에서는
 
-```sh
+```shell
 . ./wsdl2java.sh -u -t -ss -sd -g -b \
     -o ./BmsSifDctToProcessMobService \
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
@@ -40,7 +40,7 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 
 리눅스 환경에서는
 
-```sh
+```shell
 . ./wsdl2java.sh -u -t -ss -sd -g -b \
     -o ./BmsSifDctToProcessMobService \
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl

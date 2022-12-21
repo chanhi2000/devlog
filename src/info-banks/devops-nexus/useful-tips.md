@@ -15,7 +15,7 @@ tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
 ### ⤵️Download
 From Maven Central
 
-```sh
+```shell
 curl -H "Accept: application/zip" \
     "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-test/1.2.0/kotlin-test-1.2.0.jar" \
     -o kotlin-test-1.2.0.jar
@@ -30,7 +30,7 @@ curl -H "Accept: application/zip" ^
 ### ⤴️Upload
 to Local Nexus Repository
 
-```sh
+```shell
 curl -v -u admin:admin123 "http://10.60.175.90:9880/nexus/service/local/artifact/maven/content" \
     -F r=thirdparty -F hasPom=false -F e=jar -F p=jar \
     -F g=org.jetbrains.kotlin -F a=kotlin-util-klib-metadata -F v=1.7.20 \

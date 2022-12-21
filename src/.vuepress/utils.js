@@ -15,7 +15,19 @@ function getDocsNavBar(item) {
               'github/portfolio',
             ]
           }, {
-            title: 'Public API',
+            title: '📺Youtube',
+            children: [
+              'youtube/',
+              'youtube/watch-later',
+            ]
+          }, {
+            title: '🎓Tutorial',
+            children: [
+              'tutorial/',
+              'tutorial/list',
+            ]
+          }, {
+            title: '🧭Public API',
             children: [
               'api/',
               'api/list',
@@ -115,13 +127,14 @@ function getDocsNavBar(item) {
             title: '🐋Docker',
             children: [
               'devops-docker/',
+              'devops-docker/basics',
               'devops-docker/docker-compose',
             ]
           }, {
             title: '🤵🏻Jenkins',
             children: [
               'devops-jenkins/',
-              'devops-jenkins/2',
+              'devops-jenkins/template',
             ]
           }, {
             title: '📚Nexus Repository',

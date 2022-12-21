@@ -55,7 +55,7 @@ tasks.compileJava.dependsOn clean
 
 실행 시
 
-```sh
+```shell
 gradlew <모듈명>:fatJar
 ```
 
@@ -101,7 +101,7 @@ war {
 
 실행 시
 
-```sh
+```shell
 gradlew <war으로 묶어 줄 모듈>:war
 ```
 
@@ -197,7 +197,7 @@ android {
 
 실행 시
 
-```sh
+```shell
 gradlew assembleRelease -b ./<최종 Android모듈>/build.gradle --stacktrace
 ```
 

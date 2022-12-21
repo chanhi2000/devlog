@@ -14,7 +14,7 @@ tags: ["bash", "linux", "macos", "terminal", "alias", "tail", "multiline"]
 
 `\` 을 붙여 커맨드 입력
 
-```sh
+```shell
 wsdl2java.sh -u -t -ss -sd -g -b \
     -o ./BmsSifDctToProcessMobService \
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
@@ -25,7 +25,7 @@ wsdl2java.sh -u -t -ss -sd -g -b \
 
 엘리아스 지정
 
-```sh
+```shell
 alias ls=’ls -l’
 ```
 
@@ -33,19 +33,19 @@ alias ls=’ls -l’
 
 커멘드 뒤에 `&` 추가
 
-```sh
+```shell
 tail -f /var/log/messages &
 ```
 결과창에 `[1] 614`이 나온다면
 
-```sh
+```shell
 fg 1
 ```
 를 입력하여 다시 foreground로 복귀
 
 ## Quickly jump to frequently-used directories
 
-```sh
+```shell
 CDPATH=’.:~:/usr/local/apache/htdocs:/disk1/backups’
 export CDPATH
 ```
@@ -57,7 +57,7 @@ export CDPATH
 
 숫자계산
 
-```sh
+```shell
 echo $((16/2))
 ```
 

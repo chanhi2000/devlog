@@ -2,7 +2,7 @@
 lang: ko-KR
 title: List
 description: Devlog's List
-tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws", "git-flow"]
+tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws", "git-flow", "chrome-extensions"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -54,7 +54,9 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
 - [Introduction to `oc` — the OpenShift Command Line Power Tool](https://freedomben.medium.com/introduction-to-oc-the-openshift-command-line-power-tool-cdcd399b4048)
 - [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
-
+- [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
+- [Android: CircleImageView Simplified](https://medium.com/swlh/android-circleimageview-simplified-dac935364393)
+- [Android PDF Viewer, Created Library](https://medium.com/@ruddns8213/android-pdf-viewer-created-library-66f169aeb312)
 
 
 ---
@@ -70,6 +72,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
 - [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
+- [Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)
+- [Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
 
 
 ---
@@ -88,6 +92,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
 - [Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
 - [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
 
 ---
 ## Zum 
@@ -132,6 +137,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [WebView wrap_content doesn't occupy entire view size](https://stackoverflow.com/questions/57699107/webview-wrap-content-doesnt-occupy-entire-view-size)
 - [android - setting LayoutParams programmatically](https://stackoverflow.com/questions/9678785/android-setting-layoutparams-programmatically)
 - [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
+- [display view on top of action bar](https://stackoverflow.com/questions/15279647/display-view-on-top-of-action-bar)
 
 
 ---
@@ -185,6 +191,15 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [How to perform a Git clean up of branches and commits example](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-clean-up-Git-branches-and-commits)
 - [\[번역\] 더 나은 git 커밋 메시지 작성 패턴](https://devh.kr/2020/Patterns-for-writing-better-git-commit-messages/?fbclid=IwAR1SDquuIVDDT7awG4fKHxzNv3N6MdWeWVKbrcx7j_85q2_pCsqwhXaZmpU)
 - [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
-
+- [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
+- [5 New Kubeflow 1.3 Features that Machine Learning Engineers Will Love](https://thenewstack.io/5-new-kubeflow-1-3-features-that-machine-learning-engineers-will-love)
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
+- [Deploy on AWS using Bitbucket Pipelines OpenID Connect](https://support.atlassian.com/bitbucket-cloud/docs/deploy-on-aws-using-bitbucket-pipelines-openid-connect)
+- [Migrate from SQLite to Room](https://developer.android.com/training/data-storage/room/sqlite-room-migration)
+- [Marrying KMM and Swift with Sourcery](https://luisramos.dev/marrying-kmm-and-swift-with-sourcery)
+- [Kotlin Adventures With XTDB](https://www.juxt.pro/blog/crux-kotlin)
+- [Supporting Both CocoaPods & The Swift Package Manager](https://quickbirdstudios.com/blog/swift-package-manager-cocoapods-support)
+- [Kubernetes Explained Simply: Containers, Pods and Images](https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images)
+- [DEX with Over 65K Methods problem and how to use MultiDex in Android](https://akexorcist.dev/dex-with-over-65k-and-multidex-on-android-en)
 
 <TagLinks />

@@ -277,6 +277,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://infisical.com)
 - [dariusk/twitter-archiver][dariusk/twitter-archiver]: Make your own simple, public, searchable Twitter archive
 - [alan2207/bulletproof-react][alan2207/bulletproof-react]: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [openaudioserver/open-audio-server][openaudioserver/open-audio-server]: A self-hosted and free music server compatible with web browsers and smartphone apps
+
 
 
 
@@ -327,6 +329,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [awslabs/eks-node-viewerawslabs/eks-node-viewer]: EKS Node Viewer
 - [dolthub/dolt][dolthub/dolt]: Dolt – Git for Data
 - [aler9/rtsp-simple-server][aler9/rtsp-simple-server]: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [miniscruff/changie][miniscruff/changie]: Automated changelog tool for preparing releases with lots of customization options
+    - [🌐Official Site](https://changie.dev)
 
 
 
@@ -348,8 +352,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://pola.rs)
 - [m1guelpf/plz-cli][m1guelpf/plz-cli]: Copilot for your terminal
 - [Spotifyd/spotifyd][Spotifyd/spotifyd]: A spotify daemon
-
-
+- [o2sh/onefetch][o2sh/onefetch]: Command-line Git information tool
+    - [🌐Official Site](https://onefetch.dev)
+ 
 
 ---
 ## C#
@@ -393,6 +398,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://musescore.org)
 - [facebook/zstd][facebook/zstd]: Zstandard - Fast real-time compression algorithm
     - [🌐Official Site](http://www.zstd.net)
+- [icinga/icinga2][icinga/icinga2]: The core of our monitoring platform with a powerful configuration language and REST API.
+    - [🌐Official Site](https://icinga.com/docs/icinga2/latest)
+
 
 
 ---
@@ -612,6 +620,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [Infisical/infisical]: https://github.com/Infisical/infisical
 [dariusk/twitter-archiver]: https://github.com/dariusk/twitter-archiver
 [alan2207/bulletproof-react]: https://github.com/alan2207/bulletproof-react
+[openaudioserver/open-audio-server]: https://github.com/openaudioserver/open-audio-server
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -641,6 +650,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [awslabs/eks-node-viewer]: https://github.com/awslabs/eks-node-viewer
 [dolthub/dolt]: https://github.com/dolthub/dolt
 [aler9/rtsp-simple-server]: https://github.com/aler9/rtsp-simple-server
+[miniscruff/changie]: https://github.com/miniscruff/changie
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -654,6 +664,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [m1guelpf/plz-cli]: https://github.com/m1guelpf/plz-cli
 [google/forma]: https://github.com/google/forma
 [Spotifyd/spotifyd]: https://github.com/Spotifyd/spotifyd
+[o2sh/onefetch]: https://github.com/o2sh/onefetch
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -675,6 +686,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [alibaba/havenask]: https://github.com/alibaba/havenask
 [musescore/MuseScore]: https://github.com/musescore/MuseScore
 [facebook/zstd]: https://github.com/facebook/zstd
+[icinga/icinga2]: https://github.com/icinga/icinga2
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim

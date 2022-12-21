@@ -16,7 +16,7 @@
 
 run the following command
 
-```sh
+```shell
 npm run dev
 ```
 
@@ -24,7 +24,7 @@ npm run dev
 
 run the following command
 
-```sh
+```shell
 npm run build
 ```
 

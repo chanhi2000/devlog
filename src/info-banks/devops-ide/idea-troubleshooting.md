@@ -12,14 +12,14 @@ tags: ["idea", "intellij-idea", "intellij", "jetbrains", "android-studio", "ide"
 ---
 ## feat. Bind Exception Address already in use
 
-cmd 실행 
+- 💊cmd 실행 
 
-```sh
+```batch
 netsh int ipv4 set dynamicport tcp start=49152 num=16383
 netsh int ipv4 set dynamicport udp start=49152 num=16383
 
 net stop winnat
 net start winnat
-````
+```
 
 <TagLinks />

@@ -18,14 +18,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "homebrew", "pacman", "stars
 ### A2. 👨‍🏫Guide
 Copy and Paste the following to the Terminal Prompt
 
-```sh
+```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 ### A3. 🛠️Configure
 
 Copy and Paste the following to the Terminal Prompt
 
-```sh
+```shell
 # Install taps
 brew tap homebrew/cask-versions
 brew tap homebrew/cask-fonts
@@ -72,7 +72,7 @@ Install the following(s)
 ### C2. 👨‍🏫Guide
 Copy and Paste the following to the Terminal Prompt
 
-```sh
+```shell
 # Install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)";
 ## zsh-autosuggestion plugin
@@ -89,7 +89,7 @@ mkdir -p ~/.config && touch ~/.config/starship.toml;
 
 #### C3-i. `~/.zshrc`
 
-```sh
+```shell
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/nvm:$PATH
 
@@ -237,7 +237,7 @@ discharging_symbol = "💦"
 
 ### 🛠️Configure
 
-```sh
+```shell
 ### Disable Animation ###
 ## Disable animations when opening and closing windows.
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false;
@@ -318,7 +318,8 @@ killall SystemUIServer;
 </a>
 
 Copy and Paste the following to the Terminal Prompt
-```sh
+
+```shell
 git clone https://github.com/dracula/terminal-app.git
 ```
 - _Terminal_ > _Settings_ Tab
@@ -334,13 +335,13 @@ git clone https://github.com/dracula/terminal-app.git
 </a>
 
 Copy and Paste the following to the Terminal Prompt
-```sh
+```shell
 git clone https://github.com/dracula/zsh.git
 ```
 
 And creating a symbolic link to `oh-my-zsh`'s theme folder:
 
-```sh
+```shell
 ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
 ```
 
