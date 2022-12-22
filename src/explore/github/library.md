@@ -284,6 +284,18 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [openaudioserver/open-audio-server][openaudioserver/open-audio-server]: A self-hosted and free music server compatible with web browsers and smartphone apps
 - [jnsmalm/pixi3d][jnsmalm/pixi3d]: The 3D renderer for PixiJS. Seamless integration with 2D applications.
     - [🌐Official Site](https://pixi3d.org)
+- [llacloud/illa-builder][llacloud/illa-builder]: An open-source low-code Platform for Developers.
+    - [🌐Official Site](https://illacloud.com)
+- [TanStack/router][TanStack/router]: 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
+    - [🌐Official Site](https://tanstack.com/router)
+- [melonjs/melonJS][melonjs/melonJS]: a fresh & lightweight javascript game engine
+    - [🌐Official Site](https://melonjs.org)
+- [yaroslav-n/tweetGPT][yaroslav-n/tweetGPT]: TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+- [nocobase/nocobase][nocobase/nocobase]: NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+    - [🌐Official Site](https://www.nocobase.com)
+- [open-telemetry/opentelemetry-js][open-telemetry/opentelemetry-js]: OpenTelemetry JavaScript Client
+    - [🌐Official Site](https://opentelemetry.io)
+
 
 
 ---
@@ -326,6 +338,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://models.aminer.cn/codegeex)
 - [spantaleev/matrix-docker-ansible-deploy][spantaleev/matrix-docker-ansible-deploy]: 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [m-bain/whisperX][m-bain/whisperX]: WhisperX: Timestamp-Accurate Automatic Speech Recognition.
+- [openai/point-e][openai/point-e]: Point cloud diffusion for 3D model synthesis
 
 
 ---
@@ -352,8 +365,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://www.vaultproject.io)
 - [answerdev/answer][answerdev/answer]: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
     - [🌐Official Site](https://answer.dev)
-
-
+- [alpkeskin/mosint][alpkeskin/mosint]: An automated e-mail OSINT tool
 
 
 ---
@@ -437,6 +449,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [wbthomason/packer.nvim][wbthomason/packer.nvim]: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [williamboman/mason.nvim][williamboman/mason.nvim]: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [nvim-lua/kickstart.nvimnvim-lua/kickstart.nvim]: A launch point for your personal nvim configuration
+- [folke/lazy.nvim][folke/lazy.nvim]: 💤 A modern plugin manager for Neovim
 
 
 
@@ -653,6 +666,12 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [alan2207/bulletproof-react]: https://github.com/alan2207/bulletproof-react
 [openaudioserver/open-audio-server]: https://github.com/openaudioserver/open-audio-server
 [jnsmalm/pixi3d]: https://github.com/jnsmalm/pixi3d
+[llacloud/illa-builder]: https://github.com/illacloud/illa-builder
+[TanStack/router]: https://github.com/TanStack/router
+[melonjs/melonJS]: https://github.com/melonjs/melonJS
+[yaroslav-n/tweetGPT]: https://github.com/yaroslav-n/tweetGPT
+[nocobase/nocobase]: https://github.com/nocobase/nocobase
+[open-telemetry/opentelemetry-js]: https://github.com/open-telemetry/opentelemetry-js
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -678,6 +697,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [THUDM/CodeGeeX]: https://github.com/THUDM/CodeGeeX
 [spantaleev/matrix-docker-ansible-deploy]: https://github.com/spantaleev/matrix-docker-ansible-deploy
 [m-bain/whisperX]: https://github.com/m-bain/whisperX
+[openai/point-e]: https://github.com/openai/point-e
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -693,6 +713,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [sundowndev/phoneinfoga]: https://github.com/sundowndev/phoneinfoga
 [hashicorp/vault]: https://github.com/hashicorp/vault
 [answerdev/answer]: https://github.com/answerdev/answer
+[alpkeskin/mosint]: https://github.com/alpkeskin/mosint
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -737,6 +758,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [wbthomason/packer.nvim]: https://github.com/wbthomason/packer.nvim
 [williamboman/mason.nvim]: https://github.com/williamboman/mason.nvim
 [nvim-lua/kickstart.nvim]: https://github.com/nvim-lua/kickstart.nvim
+[folke/lazy.nvim]: https://github.com/folke/lazy.nvim
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch

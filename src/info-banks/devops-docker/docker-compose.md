@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Docker Compose
 description: Docker Compose
+tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -105,3 +106,6 @@ services:
 
 [shield-gitea]: https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=flat-square
 [shield-jenkins]: https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square
+
+
+<TagLinks />

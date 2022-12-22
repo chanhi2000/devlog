@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Useful Tips
-description: Useful Tips
+title: 💡Tips
+description: 💡Tips
 tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
 ---
 

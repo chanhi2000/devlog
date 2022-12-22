@@ -138,6 +138,10 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [coding-horror/basic-computer-games][coding-horror/basic-computer-games]: An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. 
     - [🌐Official Site](https://coding-horror.github.io/basic-computer-games)
 - [cheatsnake/backend-cheats][cheatsnake/backend-cheats]: 🔰 Шпаргалка по бэкенду с картинками и не только / Backend cheatsheet with pictures and more
+- [jassics/security-study-plan][jassics/security-study-plan]: Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+- [Tikam02/DevOps-Guide][Tikam02/DevOps-Guide]: DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+
+
 
 <!-- CompSci / Programming Basics -->
 [mtdvio/every-programmer-should-know]: https://github.com/mtdvio/every-programmer-should-know
@@ -205,3 +209,5 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [kallaway/100-days-of-code]: https://github.com/kallaway/100-days-of-code
 [coding-horror/basic-computer-games]: https://github.com/coding-horror/basic-computer-games
 [cheatsnake/backend-cheats]: https://github.com/cheatsnake/backend-cheats
+[jassics/security-study-plan]: https://github.com/jassics/security-study-plan
+[Tikam02/DevOps-Guide]: https://github.com/Tikam02/DevOps-Guide

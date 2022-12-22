@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Vim > Useful Tips
-description: Vim > Useful Tips
+title: Vim > 💡Tips
+description: Vim > 💡Tips
 tags: ["vim", "cli", "vi", "text-editor"]
 ---
 

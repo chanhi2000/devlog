@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Intellij Idea > Troubleshooting
-description: Intellij Idea > Troubleshooting
+title: Intellij Idea > 🩺Troubleshooting
+description: Intellij Idea > 🩺Troubleshooting
 tags: ["idea", "intellij-idea", "intellij", "jetbrains", "android-studio", "ide", "troubleshooting"]
 ---
 

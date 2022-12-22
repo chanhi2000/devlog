@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: Template
-description: Template
+title: ⚡Template
+description: ⚡Template
+tags: ["markdown", "bash", "cli", "md"]
 ---
 
-# {{ $frontmatter.title }} 관련
+# {{ $frontmatter.description }} 관련
 
 [[toc]]
 

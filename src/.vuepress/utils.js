@@ -55,6 +55,11 @@ function getDocsNavBar(item) {
             children: [
               'portfolio/',
             ],
+          }, {
+            title: 'TIL',
+            children: [
+              'til/',
+            ],
           }
         ]
       case 'info-banks':
@@ -130,6 +135,7 @@ function getDocsNavBar(item) {
               'devops-docker/',
               'devops-docker/basics',
               'devops-docker/docker-compose',
+              'devops-docker/favorite-containers',
             ]
           }, {
             title: '🤵🏻Jenkins',
@@ -141,7 +147,7 @@ function getDocsNavBar(item) {
             title: '📚Nexus Repository',
             children: [
               'devops-nexus/',
-              'devops-nexus/useful-tips',
+              'devops-nexus/tips',
             ]
           }, { 
             title: '🎩IDE & Text Editor',
@@ -150,7 +156,7 @@ function getDocsNavBar(item) {
               'devops-ide/idea-plugins',
               'devops-ide/idea-troubleshooting',
               'devops-ide/vscode-plugins',
-              'devops-ide/vim-useful-tips',
+              'devops-ide/vim-tips',
               'devops-ide/dbeaver-hotkey',
               'devops-ide/dbeaver-jdbc',              
               'devops-ide/dbeaver-qtmplt',
@@ -184,7 +190,7 @@ function getDocsNavBar(item) {
             title: 'Regex',
             children: [
               'regex/',
-              'regex/useful-snippets',
+              'regex/tips',
             ],
           }, {
             title: 'Markdown',

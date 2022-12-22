@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Tips
-description: Swift > Tips
+title: 💡Tips
+description: 💡Tips
 tips: ["swift", "swift3", "swift4", "swift-ui", "swiftui", "tips", "xcode", "macos", "ios"]
 ---
 

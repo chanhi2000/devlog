@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Basics
-description: Docker > Basics
+title: 🐣Basics
+description: 🐣Basics
 tags: ["sh", "bash", "cli", "docker", "docker-desktop", "docker-hub", "docker-image", "docker-container", "vm", "basics"]
 ---
 

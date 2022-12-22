@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Troubleshooting
-description: Git > Troubleshooting
+title: 🩺Troubleshooting
+description: 🩺Troubleshooting
 tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credentials", "bash"]
 ---
 
@@ -24,7 +24,7 @@ remote: Please see https://docs.github.com/en/get-started/getting-started-with-g
 
 
 ---
-## 🪲Push 오류
+## 💀Push 오류
 
 ```
 Git push: Missing or invalid credentials. fatal: Authentication failed for 'https://github.com/username/repo.git'
@@ -67,7 +67,7 @@ git.terminalAuthentication: false,
 
 
 ---
-## 🪲저장소 접근오류
+## 💀저장소 접근오류
 
 ```shell
 remote: HTTP Basic: Access denied

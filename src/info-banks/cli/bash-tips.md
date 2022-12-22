@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Bash > Tips
-description: Bash > Tips
+title: Bash > 💡Tips
+description: Bash > 💡Tips
 tags: ["bash", "linux", "macos", "terminal", "date"]
 ---
 
@@ -10,7 +10,7 @@ tags: ["bash", "linux", "macos", "terminal", "date"]
 [[toc]]
 
 ---
-## 💡Tips
+## 목록
 
 | 명령어 | 설명 |
 | :--- | :--- |

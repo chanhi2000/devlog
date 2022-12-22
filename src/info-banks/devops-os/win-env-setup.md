@@ -96,18 +96,17 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
     git 
 ```
 
-
 ---
-## Alias 지정 관련
+## D. Alias 지정 관련
 
-### 🧰Prerequesite(s)
+### D1. 🧰Prerequesite(s)
 - `alias.cmd`파일을 만들어 관련 Alias 지정
 
 ::: tip NOTE
 [🌐chanhi2000/chan-alias](https://github.com/chanhi2000/chan-alias) 참조
 :::
 
-### 👨‍🏫Guide
+### D2. 👨‍🏫Guide
 
 - <kbd>win</kbd> + <kbd>r</kbd> 누른 후 `regedit` 실행
 - `HKEY_CURRENT_USER\Software\Microsoft\Command Processor` 경로로 이동
@@ -115,5 +114,47 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
     - Key: `AutoRun`
     - Value: `%USERPROFILE%\alias.cmd`
 - 시스템 재시작
+
+### D2-i. `Microsoft.PowerShell_profile.ps1`
+
+`$profile` 파일 내용
+
+```powershell
+# Commands
+Set-Alias sublime sublime_text
+function alias()
+{
+    notepad $profile
+}
+
+# ADB 및 안드로이드 관련
+function scrcpyDefault()
+{
+    scrcpy -m 1024 --always-on-top
+}
+function scrcpyRec() 
+{
+    scrcpy -m 1024 --always-on-top --show-touches
+}
+function killTestbed() 
+{
+    adb shell am force-stop kr.go.mobile.testbed.iff
+}
+
+# 개발환경 구성
+function openWspHomeAndroidWeb1()
+{
+    code $env:WspHomeAndroidWeb1
+}
+function openWspHomeAndroidWeb2() 
+{
+    code $env:WspHomeAndroidWeb2
+}
+
+$env:PATH += ";$env:UserProfile\scoop\apps\oh-my-posh\current\bin"
+oh-my-posh --init --shell pwsh --config "$env:UserProfile\scoop\apps\oh-my-posh\current\themes\agnoster.omp.json" | Invoke-Expression
+Import-Module Terminal-Icons
+neofetch
+```
 
 <TagLinks />
