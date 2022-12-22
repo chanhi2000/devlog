@@ -66,6 +66,7 @@ function getDocsNavBar(item) {
             children: [
               'cli/',
               'cli/bash-basics',
+              'cli/bash-tips',
               'cli/bash-troubleshooting',
               'cli/batch-basics',
               'cli/pwsh-basics',

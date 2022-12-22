@@ -201,5 +201,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Supporting Both CocoaPods & The Swift Package Manager](https://quickbirdstudios.com/blog/swift-package-manager-cocoapods-support)
 - [Kubernetes Explained Simply: Containers, Pods and Images](https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images)
 - [DEX with Over 65K Methods problem and how to use MultiDex in Android](https://akexorcist.dev/dex-with-over-65k-and-multidex-on-android-en)
+- [🔐 Portable Secret](https://mprimi.github.io/portable-secret)
+
 
 <TagLinks />

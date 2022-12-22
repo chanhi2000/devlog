@@ -12,7 +12,12 @@ tags: ["java", "jdk", "was", "web-app-server", "backend", "java", "tomcat", "jbo
 ---
 ## Tomcat
 
+### JNDI 설정
+
 ---
 ## JBoss
+
+### JNDI 설정
+
 
 <TagLinks />

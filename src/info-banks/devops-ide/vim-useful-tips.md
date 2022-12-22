@@ -10,7 +10,7 @@ tags: ["vim", "cli", "vi", "text-editor"]
 [[toc]]
 
 ---
-## Tips
+## 💡Tips
 
 | 명령어 | 설명 |
 | :--- | :--- |

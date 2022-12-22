@@ -54,6 +54,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://devdocs.jabref.org)
 - [classycodeoss/nfc-sockets][classycodeoss/nfc-sockets]: Sockets over NFC
     - [🌐Official Site](https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf)
+- [bazelbuild/bazel][bazelbuild/bazel]: a fast, scalable, multi-language and extensible build system
+    - [🌐Official Site](https://bazel.build)
+
+
 
 
 ---
@@ -278,8 +282,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [dariusk/twitter-archiver][dariusk/twitter-archiver]: Make your own simple, public, searchable Twitter archive
 - [alan2207/bulletproof-react][alan2207/bulletproof-react]: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [openaudioserver/open-audio-server][openaudioserver/open-audio-server]: A self-hosted and free music server compatible with web browsers and smartphone apps
-
-
+- [jnsmalm/pixi3d][jnsmalm/pixi3d]: The 3D renderer for PixiJS. Seamless integration with 2D applications.
+    - [🌐Official Site](https://pixi3d.org)
 
 
 ---
@@ -314,7 +318,14 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [mui/material-ui][mui/material-ui]: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
     - [🌐Official Site](https://mui.com/core)
 - [Jxck-S/plane-notify][Jxck-S/plane-notify]: Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet
-
+- [sczhou/CodeFormer][sczhou/CodeFormer]: \[NeurIPS 2022\] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+- [acantril/learn-cantrill-io-labs][acantril/learn-cantrill-io-labs]: Standard and Advanced Demos for learn.cantrill.io courses
+- [ranaroussi/yfinance][ranaroussi/yfinance]: Download market data from Yahoo! Finance's API
+    - [🌐Official Site](https://aroussi.com/post/python-yahoo-finance)
+- [THUDM/CodeGeeX][THUDM/CodeGeeX]: CodeGeeX: An Open Multilingual Code Generation Model
+    - [🌐Official Site](https://models.aminer.cn/codegeex)
+- [spantaleev/matrix-docker-ansible-deploy][spantaleev/matrix-docker-ansible-deploy]: 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+- [m-bain/whisperX][m-bain/whisperX]: WhisperX: Timestamp-Accurate Automatic Speech Recognition.
 
 
 ---
@@ -331,6 +342,17 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [aler9/rtsp-simple-server][aler9/rtsp-simple-server]: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [miniscruff/changie][miniscruff/changie]: Automated changelog tool for preparing releases with lots of customization options
     - [🌐Official Site](https://changie.dev)
+- [pocketbase/pocketbase][pocketbase/pocketbase]: Open Source realtime backend in 1 file
+    - [🌐Official Site](https://pocketbase.io)
+- [terrastruct/d2][terrastruct/d2]: D2 is a modern diagram scripting language that turns text to diagrams.
+    - [🌐Official Site](https://d2lang.com)
+- [sundowndev/phoneinfoga][sundowndev/phoneinfoga]: Information gathering framework for phone numbers
+    - [🌐Official Site](https://sundowndev.github.io/phoneinfoga)
+- [hashicorp/vault][hashicorp/vault]: A tool for secrets management, encryption as a service, and privileged access management
+    - [🌐Official Site](https://www.vaultproject.io)
+- [answerdev/answer][answerdev/answer]: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
+    - [🌐Official Site](https://answer.dev)
+
 
 
 
@@ -400,6 +422,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](http://www.zstd.net)
 - [icinga/icinga2][icinga/icinga2]: The core of our monitoring platform with a powerful configuration language and REST API.
     - [🌐Official Site](https://icinga.com/docs/icinga2/latest)
+- [project-chip/connectedhomeip][project-chip/connectedhomeip]: Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
+    - [🌐Official Site](https://buildwithmatter.com)
+- [microsoft/checkedc][microsoft/checkedc]: Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, a…
+    - [🌐Official Site](https://www.microsoft.com/en-us/research/project/checked-c)
 
 
 
@@ -410,6 +436,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://neovim.io)
 - [wbthomason/packer.nvim][wbthomason/packer.nvim]: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [williamboman/mason.nvim][williamboman/mason.nvim]: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [nvim-lua/kickstart.nvimnvim-lua/kickstart.nvim]: A launch point for your personal nvim configuration
 
 
 
@@ -440,6 +467,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://docs.microsoft.com/azure)
 - [Azure/azure-quickstart-templates][Azure/azure-quickstart-templates]: Azure Quickstart Templates
     - [🌐Official Site](https://aka.ms/azqst)     
+- [H4de5-7/powershell-obfuscation][H4de5-7/powershell-obfuscation]: powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
+
 
 ---
 ## TeX
@@ -497,6 +526,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [strongbox/strongbox]: https://github.com/strongbox/strongbox
 [JabRef/jabref]: https://github.com/JabRef/jabref
 [classycodeoss/nfc-sockets]: https://github.com/classycodeoss/nfc-sockets
+[bazelbuild/bazel]: https://github.com/bazelbuild/bazel
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka
@@ -614,6 +644,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [awslabs/aws-icons-for-plantuml]: https://github.com/awslabs/aws-icons-for-plantuml
 [PrismJS/prism]: https://github.com/PrismJS/prism
 [hmartiro/riffusion-app]: https://github.com/hmartiro/riffusion-app
+[chartjs/Chart.js]: https://github.com/chartjs/Chart.js
 [carson-katri/dream-textures]: https://github.com/carson-katri/dream-textures
 [xiaoxian521/vue-pure-admin]: https://github.com/xiaoxian521/vue-pure-admin
 [CorwinDev/Discord-Bot]: https://github.com/CorwinDev/Discord-Bot
@@ -621,6 +652,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [dariusk/twitter-archiver]: https://github.com/dariusk/twitter-archiver
 [alan2207/bulletproof-react]: https://github.com/alan2207/bulletproof-react
 [openaudioserver/open-audio-server]: https://github.com/openaudioserver/open-audio-server
+[jnsmalm/pixi3d]: https://github.com/jnsmalm/pixi3d
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -640,7 +672,12 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [hmartiro/riffusion-inference]: https://github.com/hmartiro/riffusion-inference
 [mui/material-ui]: https://github.com/mui/material-ui
 [Jxck-S/plane-notify]: https://github.com/Jxck-S/plane-notify
-[chartjs/Chart.js]: https://github.com/chartjs/Chart.js
+[sczhou/CodeFormer]: https://github.com/sczhou/CodeFormer
+[acantril/learn-cantrill-io-labs]: https://github.com/acantril/learn-cantrill-io-labs
+[ranaroussi/yfinance]: https://github.com/ranaroussi/yfinance
+[THUDM/CodeGeeX]: https://github.com/THUDM/CodeGeeX
+[spantaleev/matrix-docker-ansible-deploy]: https://github.com/spantaleev/matrix-docker-ansible-deploy
+[m-bain/whisperX]: https://github.com/m-bain/whisperX
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -651,6 +688,11 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [dolthub/dolt]: https://github.com/dolthub/dolt
 [aler9/rtsp-simple-server]: https://github.com/aler9/rtsp-simple-server
 [miniscruff/changie]: https://github.com/miniscruff/changie
+[pocketbase/pocketbase]: https://github.com/pocketbase/pocketbase
+[terrastruct/d2]: https://github.com/terrastruct/d2
+[sundowndev/phoneinfoga]: https://github.com/sundowndev/phoneinfoga
+[hashicorp/vault]: https://github.com/hashicorp/vault
+[answerdev/answer]: https://github.com/answerdev/answer
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -687,11 +729,14 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [musescore/MuseScore]: https://github.com/musescore/MuseScore
 [facebook/zstd]: https://github.com/facebook/zstd
 [icinga/icinga2]: https://github.com/icinga/icinga2
+[project-chip/connectedhomeip]: https://github.com/project-chip/connectedhomeip
+[microsoft/checkedc]: https://github.com/microsoft/checkedc
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
 [wbthomason/packer.nvim]: https://github.com/wbthomason/packer.nvim
 [williamboman/mason.nvim]: https://github.com/williamboman/mason.nvim
+[nvim-lua/kickstart.nvim]: https://github.com/nvim-lua/kickstart.nvim
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
@@ -706,6 +751,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
+[H4de5-7/powershell-obfuscation]: https://github.com/H4de5-7/powershell-obfuscation
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 <!-- CSS/Images -->

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🐋docker
+description: 🐋Docker
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -43,6 +43,10 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [krahets/hello-algo][krahets/hello-algo]: 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书
     - [🌐Official Site](https://hello-algo.com)
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [visenger/awesome-mlops][visenger/awesome-mlops]: A curated list of references for MLOps
+    - [🌐Official Site](https://ml-ops.org)
+
+
 
 
 ---
@@ -90,6 +94,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [ila/TUM]: https://github.com/ila/TUM
 [krahets/hello-algo]: https://github.com/krahets/hello-algo
 [bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
+[visenger/awesome-mlops]: https://github.com/visenger/awesome-mlops
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

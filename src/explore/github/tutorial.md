@@ -74,7 +74,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [Pierian-Data/Complete-Python-3-Bootcamp][Pierian-Data/Complete-Python-3-Bootcamp]: Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [vopani/jaxton][vopani/jaxton]: 100 exercises to learn JAX
 - [Jdsleppy/django-orm-cheatsheet][Jdsleppy/django-orm-cheatsheet]: A cheatsheet for the Django ORM
-
+- [mrdbourke/pytorch-deep-learning][mrdbourke/pytorch-deep-learning]: Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+    - [🌐Official Site](https://learnpytorch.io)
 
 
 
@@ -175,6 +176,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [Pierian-Data/Complete-Python-3-Bootcamp]: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 [vopani/jaxton]: https://github.com/vopani/jaxton
 [Jdsleppy/django-orm-cheatsheet]: https://github.com/Jdsleppy/django-orm-cheatsheet
+[mrdbourke/pytorch-deep-learning]: https://github.com/mrdbourke/pytorch-deep-learning
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->

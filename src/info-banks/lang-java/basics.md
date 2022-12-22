@@ -90,4 +90,32 @@ public class FooGaze {
 }
 ```
 
+---
+## Properties 파일객체 구성
+
+### Regular Framework
+
+- 파일: `src/main/resources/props/globals.properties`
+
+```java
+package com.example.markiiimark;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+
+public class FooBar {
+    private Properties config = null;
+    // ...[생략]...
+    public void loadProperties() {
+        try(InputStream io = Thread.currentThread().getContextClassLoader().getResourceAsStream("props/globals.properties")) {
+            this.config = new Properties();
+            this.config.load(io);
+        } catch(IOException e) {
+            // ...[생략]...
+        }
+    }
+}
+```
+
 <TagLinks />
