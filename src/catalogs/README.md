@@ -38,11 +38,12 @@ Future task2                 :         desA6, after desA3, 5d
 - [x] 크롬 브라우저에 동기화 되어 있는 북마크 중, 개발관련 내용은 전부 여기로 이동
 
 #### A2. github profile 변경
-- [ ] I'm currently working on 문구 바꾸기
-- [ ] shields 목록 갱신
+- [x] I'm currently working on 문구 바꾸기
+- [x] shields 목록 갱신
 
 #### A3. 22년안에 처리해야 할 기타 작업
 - [x] vuepress markdown syntax highlighting 처리 (`bat`)
 - [ ] [vuepressbook](https://vuepressbook.com/introduction.html) 읽어보기
+- [ ] [YouTube > Watch Later 목록 정리]()
 
 <TagLinks />

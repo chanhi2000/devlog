@@ -19,6 +19,8 @@ function getDocsNavBar(item) {
             children: [
               'youtube/',
               'youtube/watch-later',
+              'youtube/watch-later-tutorial',
+              'youtube/watch-later-keynote',
             ]
           }, {
             title: '🎓Tutorial',
@@ -56,7 +58,7 @@ function getDocsNavBar(item) {
               'portfolio/',
             ],
           }, {
-            title: 'TIL',
+            title: '🎓TIL',
             children: [
               'til/',
             ],
@@ -81,6 +83,7 @@ function getDocsNavBar(item) {
             children: [
               'lang-gradle/',
               'lang-gradle/useful-snippets',
+              'lang-gradle/useful-snippets-android',
             ]
           }, {
             title: '🐦Maven',

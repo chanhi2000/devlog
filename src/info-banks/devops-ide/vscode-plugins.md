@@ -26,6 +26,9 @@ tags: ["vscode", "visual-studio-code", "ide", "plugin", "vscode-plugin", "cli", 
 | <a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"><img width="100px" height="auto" alt="ico-extension-pack-for-java" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-java-pack/0.25.2022112900/1669693061484/Microsoft.VisualStudio.Services.Icons.Default"/></a> | [Extension Pack for Java][link-extension-pack-for-java] <br/> `vscjava.vscode-java-pack` | Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more |
 | <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"><img width="100px" height="auto" alt="ico-gitlens" src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2022.12.2010/1671549214618/Microsoft.VisualStudio.Services.Icons.Default"/></a> | [GitLens - Git supercharged][link-gitlens] <br/> `eamodio.gitlens` | Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more |
 | <a href="https://marketplace.visualstudio.com/items?itemName=teamhub.teamhub"><img width="100px" height="auto" alt="ico-gitlive" src="https://teamhub.gallerycdn.vsassets.io/extensions/teamhub/teamhub/16.1.3/1671538872416/Microsoft.VisualStudio.Services.Icons.Default"/></a> | [GitLive][link-gitlive] <br/> `teamhub.teamhub` | Development teams merge faster with GitLive |
+| <a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"><img width="100px" height="auto" alt="ico-gradle-for-java" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-gradle/3.12.2022120100/1669853373193/Microsoft.VisualStudio.Services.Icons.Default"/></a> | [Gradle for Java][link-gradle-for-java] <br/> `vscjava.vscode-gradle` | Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code |
+
+
 | <a href="https://marketplace.visualstudio.com/items?itemName=naco-siren.gradle-language"><img width="100px" height="auto" alt="ico-gradle-language-support" src="https://naco-siren.gallerycdn.vsassets.io/extensions/naco-siren/gradle-language/0.2.3/1516735427824/Microsoft.VisualStudio.Services.Icons.Default"/></a> | [Gradle Language Support][link-gradle-language-support] <br/> `naco-siren.gradle-language` | Add Gradle language support for Visual Studio Code |
 | <a href="https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode"><img width="100px" height="auto" alt="ico-intellicode" src="https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.29/1666210748584/Microsoft.VisualStudio.Services.Icons.Default"/></a> | [IntelliCode][link-intellicode] <br/> `visualstudioexptteam.vscodeintellicode` | AI-assisted development |
 | <a href="https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.intellicode-api-usage-examples"><img width="100px" height="auto" alt="ico-intellicode-api-usage-examples" src="https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/intellicode-api-usage-examples/0.2.6/1666209409795/Microsoft.VisualStudio.Services.Icons.Default"/></a> | [IntelliCode API Usage Examples][link-intellicode-api-usage-examples] <br/> `visualstudioexptteam.intellicode-api-usage-examples` | See relevant code examples from GitHub for over 100K different APIs right in your editor. |
@@ -68,6 +71,7 @@ code --install-extension dsznajder.es7-react-js-snippets; #ES7+ React/Redux/Reac
 code --install-extension vscjava.vscode-java-pack; #Extension Pack for Java
 code --install-extension eamodio.gitlens; #GitLens - Git supercharged
 code --install-extension teamhub.teamhub; #GitLive
+code --install-extension vscjava.vscode-gradle; #Gradle for Java
 code --install-extension naco-siren.gradle-language; #Gradle Language Support
 code --install-extension visualstudioexptteam.vscodeintellicode; #IntelliCode
 code --install-extension visualstudioexptteam.intellicode-api-usage-examples; #IntelliCode API Usage Examples
@@ -109,6 +113,7 @@ code --install-extension dsznajder.es7-react-js-snippets && REM ES7+ React/Redux
 code --install-extension vscjava.vscode-java-pack && REM Extension Pack for Java
 code --install-extension eamodio.gitlens && REM GitLens - Git supercharged
 code --install-extension teamhub.teamhub && REM GitLive
+code --install-extension vscjava.vscode-gradle && REM Gradle for Java
 code --install-extension naco-siren.gradle-language && REM Gradle Language Support
 code --install-extension visualstudioexptteam.vscodeintellicode && REM IntelliCode
 code --install-extension visualstudioexptteam.intellicode-api-usage-examples && REM IntelliCode API Usage Examples
@@ -152,6 +157,7 @@ code --install-extension wallabyjs.quokka-vscode && REM  Quokka.js
 [link-extension-pack-for-java]: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 [link-gitlens]: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 [link-gitlive]: https://marketplace.visualstudio.com/items?itemName=teamhub.teamhub
+[link-gradle-for-java]: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle
 [link-gradle-language-support]: https://marketplace.visualstudio.com/items?itemName=naco-siren.gradle-language
 [link-intellicode]: https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
 [link-intellicode-api-usage-examples]: https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.intellicode-api-usage-examples

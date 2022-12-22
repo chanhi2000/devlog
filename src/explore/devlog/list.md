@@ -57,7 +57,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
 - [Android: CircleImageView Simplified](https://medium.com/swlh/android-circleimageview-simplified-dac935364393)
 - [Android PDF Viewer, Created Library](https://medium.com/@ruddns8213/android-pdf-viewer-created-library-66f169aeb312)
-
+- [Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
 
 ---
 ## Dev.to
@@ -202,6 +202,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Kubernetes Explained Simply: Containers, Pods and Images](https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images)
 - [DEX with Over 65K Methods problem and how to use MultiDex in Android](https://akexorcist.dev/dex-with-over-65k-and-multidex-on-android-en)
 - [🔐 Portable Secret](https://mprimi.github.io/portable-secret)
-
+- [Posts about React](https://flaviocopes.com/tags/react)
+- [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2)
 
 <TagLinks />

@@ -295,7 +295,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://www.nocobase.com)
 - [open-telemetry/opentelemetry-js][open-telemetry/opentelemetry-js]: OpenTelemetry JavaScript Client
     - [🌐Official Site](https://opentelemetry.io)
-
+- [harbor-school/lighthouse][harbor-school/lighthouse]: Lighthouse is a continuous design system for integrating design with development workflows.
+- [🌐Official Site](https://lighthouse.harbor.school)
 
 
 ---
@@ -339,6 +340,15 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [spantaleev/matrix-docker-ansible-deploy][spantaleev/matrix-docker-ansible-deploy]: 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [m-bain/whisperX][m-bain/whisperX]: WhisperX: Timestamp-Accurate Automatic Speech Recognition.
 - [openai/point-e][openai/point-e]: Point cloud diffusion for 3D model synthesis
+- [kovidgoyal/kitty][kovidgoyal/kitty]: Cross-platform, fast, feature-rich, GPU based terminal
+    - [🌐Official Site](https://sw.kovidgoyal.net/kitty)
+- [microsoft/X-Decoder][microsoft/X-Decoder]: Official Implementation of X-Decoder for generalized decoding for pixel, image and language
+    - [🌐Official Site](https://x-decoder-vl.github.io)
+- [prowler-cloud/prowler][prowler-cloud/prowler]: Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
+    - [🌐Official Site](https://www.prowler.pro) 
+- [facebookresearch/metaseq][facebookresearch/metaseq]: Repo for external large-scale work
+- [adobe-research/custom-diffusion][adobe-research/custom-diffusion]: Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion
+    - [🌐Official Site](https://www.cs.cmu.edu/~custom-diffusion)
 
 
 ---
@@ -366,6 +376,23 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [answerdev/answer][answerdev/answer]: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
     - [🌐Official Site](https://answer.dev)
 - [alpkeskin/mosint][alpkeskin/mosint]: An automated e-mail OSINT tool
+- [YaoApp/yao][YaoApp/yao]: 🚀 A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+    - [🌐Official Site](https://yaoapps.com)
+- [samber/lo][samber/lo]: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+    - [🌐Official Site](https://pkg.go.dev/github.com/samber/lo)
+- [gin-gonic/gin][gin-gonic/gin]: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+    - [🌐Official Site](https://gin-gonic.com)
+- [liamg/traitor][liamg/traitor]: ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+- [google/log4jscanner][google/log4jscanner]: A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
+- [gofiber/fiber][gofiber/fiber]: ⚡️ Express inspired web framework written in Go
+    - [🌐Official Site](https://gofiber.io)
+- [stashapp/stash][stashapp/stash]: An organizer for your porn, written in Go
+    - [🌐Official Site](https://stashapp.cc)
+- [google/go-containerregistry][google/go-containerregistry]: Go library and CLIs for working with container registries
+- [ddosify/ddosify][ddosify/ddosify]: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud
+    - [🌐Official Site](https://ddosify.com)
+- [thangchung/go-coffeeshop][thangchung/go-coffeeshop]: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
+- [Dreamacro/clash][Dreamacro/clash]: A rule-based tunnel in Go.
 
 
 ---
@@ -399,7 +426,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [microsoft/calculator][microsoft/calculator]: Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [coofcookie/Windows11Upgrade][coofcookie/Windows11Upgrade]: Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [google/forma][google/forma]: An efficient vector-graphics renderer
-
+- [dotnet/maui][dotnet/maui]: .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+    - [🌐Official Site](https://dot.net/maui)
 
 
 ---
@@ -438,6 +466,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://buildwithmatter.com)
 - [microsoft/checkedc][microsoft/checkedc]: Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, a…
     - [🌐Official Site](https://www.microsoft.com/en-us/research/project/checked-c)
+- [CVCUDA/CV-CUDA][CVCUDA/CV-CUDA]: CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.
+    - [🌐Official Site](https://cvcuda.github.io)
 
 
 
@@ -471,6 +501,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [Bugswriter/notflix][Bugswriter/notflix]: Notflix is a shell script to search and stream torrent.
 - [palera1n/palera1n][palera1n/palera1n]: iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [ax/apk.sh][ax/apk.sh]: apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [rails/docked][rails/docked]: Running Rails from Docker for easy start to development
+
 
 
 
@@ -481,6 +513,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [Azure/azure-quickstart-templates][Azure/azure-quickstart-templates]: Azure Quickstart Templates
     - [🌐Official Site](https://aka.ms/azqst)     
 - [H4de5-7/powershell-obfuscation][H4de5-7/powershell-obfuscation]: powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
+
 
 
 ---
@@ -672,6 +705,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [yaroslav-n/tweetGPT]: https://github.com/yaroslav-n/tweetGPT
 [nocobase/nocobase]: https://github.com/nocobase/nocobase
 [open-telemetry/opentelemetry-js]: https://github.com/open-telemetry/opentelemetry-js
+[harbor-school/lighthouse]: https://github.com/harbor-school/lighthouse
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -698,6 +732,11 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [spantaleev/matrix-docker-ansible-deploy]: https://github.com/spantaleev/matrix-docker-ansible-deploy
 [m-bain/whisperX]: https://github.com/m-bain/whisperX
 [openai/point-e]: https://github.com/openai/point-e
+[kovidgoyal/kitty]: https://github.com/kovidgoyal/kitty
+[microsoft/X-Decoder]: https://github.com/microsoft/X-Decoder
+[prowler-cloud/prowler]: https://github.com/prowler-cloud/prowler
+[facebookresearch/metaseq]: https://github.com/facebookresearch/metaseq
+[adobe-research/custom-diffusion]: https://github.com/adobe-research/custom-diffusion
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -714,6 +753,17 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [hashicorp/vault]: https://github.com/hashicorp/vault
 [answerdev/answer]: https://github.com/answerdev/answer
 [alpkeskin/mosint]: https://github.com/alpkeskin/mosint
+[YaoApp/yao]: https://github.com/YaoApp/yao
+[samber/lo]: https://github.com/samber/lo
+[gin-gonic/gin]: https://github.com/gin-gonic/gin
+[liamg/traitor]: https://github.com/liamg/traitor
+[google/log4jscanner]: https://github.com/google/log4jscanner
+[gofiber/fiber]: https://github.com/gofiber/fiber
+[stashapp/stash]: https://github.com/stashapp/stash
+[google/go-containerregistry]: https://github.com/google/go-containerregistry
+[ddosify/ddosify]: https://github.com/ddosify/ddosify
+[thangchung/go-coffeeshop]: https://github.com/thangchung/go-coffeeshop
+[Dreamacro/clash]: https://github.com/Dreamacro/clash
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -734,6 +784,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [valinet/ExplorerPatcher]: https://github.com/valinet/ExplorerPatcher
 [microsoft/calculator]: https://github.com/microsoft/calculator
 [coofcookie/Windows11Upgrade]: https://github.com/coofcookie/Windows11Upgrade
+[dotnet/maui]: https://github.com/dotnet/maui
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
@@ -752,6 +803,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [icinga/icinga2]: https://github.com/icinga/icinga2
 [project-chip/connectedhomeip]: https://github.com/project-chip/connectedhomeip
 [microsoft/checkedc]: https://github.com/microsoft/checkedc
+[CVCUDA/CV-CUDA]: https://github.com/CVCUDA/CV-CUDA
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -770,6 +822,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [Bugswriter/notflix]: https://github.com/Bugswriter/notflix
 [palera1n/palera1n]: https://github.com/palera1n/palera1n
 [ax/apk.sh]: https://github.com/ax/apk.sh
+[rails/docked]: https://github.com/rails/docked
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates

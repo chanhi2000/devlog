@@ -63,6 +63,10 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [bradtraversy/vanillawebprojects][bradtraversy/vanillawebprojects]: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [Th3Wall/Fakeflix][Th3Wall/Fakeflix]: Not the usual clone that you can find on the web.
     - [🌐Official Site](https://fakeflix.th3wall.codes)
+- [microsoft/Web-Dev-For-Beginners][microsoft/Web-Dev-For-Beginners]: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+    - [🌐Official Site](https://microsoft.github.io/Web-Dev-For-Beginners)
+- [kentcdodds/react-fundamentals][kentcdodds/react-fundamentals]: Material for my React Fundamentals Workshop
+    - [🌐Official Site](https://epicreact.dev/fundamentals)
 
 
 ---
@@ -76,6 +80,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [Jdsleppy/django-orm-cheatsheet][Jdsleppy/django-orm-cheatsheet]: A cheatsheet for the Django ORM
 - [mrdbourke/pytorch-deep-learning][mrdbourke/pytorch-deep-learning]: Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
     - [🌐Official Site](https://learnpytorch.io)
+- [mouredev/Hello-Python][mouredev/Hello-Python]: Python desde cero
+- [donnemartin/system-design-primer][donnemartin/system-design-primer]: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [huggingface/diffusion-models-class][huggingface/diffusion-models-class]: Materials for the Hugging Face Diffusion Models Course
 
 
 
@@ -98,7 +105,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 ## Rust
 - [sunface/rust-by-practice][sunface/rust-by-practice]
     - [🌐Official Site](https://practice.rs)
-
+- [google/comprehensive-rust][google/comprehensive-rust]
+    - [🌐Official Site](https://google.github.io/comprehensive-rust)
 ---
 ## DevOps
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -123,9 +131,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [jlevy/the-art-of-command-line][jlevy/the-art-of-command-line]: Master the command line, in one page
 
 ---
-## Pwsh
+## Powershell
 - [Purp1eW0lf/Blue-Team-Notes][Purp1eW0lf/Blue-Team-Notes]: You didn't think I'd go and leave the blue team out, right?
-
+- [TapXWorld/osep_tools][TapXWorld/osep_tools]: some command tools for OSEP exam
 
 ## Misc.
 - [gothinkster/realworld][gothinkster/realworld]: About
@@ -173,6 +181,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [ryanmcdermott/clean-code-javascript]: https://github.com/ryanmcdermott/clean-code-javascript
 [bradtraversy/vanillawebprojects]: https://github.com/bradtraversy/vanillawebprojects
 [Th3Wall/Fakeflix]: https://github.com/Th3Wall/Fakeflix
+[microsoft/Web-Dev-For-Beginners]: https://github.com/microsoft/Web-Dev-For-Beginners
+[kentcdodds/react-fundamentals]: https://github.com/kentcdodds/react-fundamentals
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
@@ -181,6 +191,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [vopani/jaxton]: https://github.com/vopani/jaxton
 [Jdsleppy/django-orm-cheatsheet]: https://github.com/Jdsleppy/django-orm-cheatsheet
 [mrdbourke/pytorch-deep-learning]: https://github.com/mrdbourke/pytorch-deep-learning
+[mouredev/Hello-Python]: https://github.com/mouredev/Hello-Python
+[donnemartin/system-design-primer]: https://github.com/donnemartin/system-design-primer
+[huggingface/diffusion-models-class]: https://github.com/huggingface/diffusion-models-class
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->
@@ -190,6 +203,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [marcel-dempers/docker-development-youtube-series]: https://github.com/marcel-dempers/docker-development-youtube-series
 <!-- Rust -->
 [sunface/rust-by-practice]: https://github.com/sunface/rust-by-practice
+[google/comprehensive-rust]: https://github.com/google/comprehensive-rust
 <!-- DevOps -->
 [bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 [MichaelCade/90DaysOfDevOps]: https://github.com/MichaelCade/90DaysOfDevOps
@@ -201,8 +215,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 <!-- Bash -->
 [bobbyiliev/introduction-to-bash-scripting]: https://github.com/bobbyiliev/introduction-to-bash-scripting
 [jlevy/the-art-of-command-line]: https://github.com/jlevy/the-art-of-command-line
-<!-- Pwsh -->
+<!-- Powershell -->
 [Purp1eW0lf/Blue-Team-Notes]: https://github.com/Purp1eW0lf/Blue-Team-Notes
+[TapXWorld/osep_tools]: https://github.com/TapXWorld/osep_tools
 <!-- Misc. -->
 [gothinkster/realworld]: https://github.com/gothinkster/realworld
 [codecrafters-io/build-your-own-x]: https://github.com/codecrafters-io/build-your-own-x
