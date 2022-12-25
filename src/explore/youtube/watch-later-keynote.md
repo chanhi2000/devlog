@@ -131,6 +131,9 @@ wcNRgOxw4Ak
 Interactive Visualizations in JupyterLab and PixiJS \|\| Jeremy Tuloup
 B5_7ps-JdxY
 
+How to Build a Netflix Clone with GraphQL, React, and DataStax Astra
+https://www.youtube.com/watch?v=pA5BMSFBO9c&list=WL&index=1013
+
 :::
 
 <!-- Coding Tech -->
@@ -159,6 +162,10 @@ B5_7ps-JdxY
 | ❌ | <a href="https://www.youtube.com/watch?v=exgO1LFl9x8"><img width="140px" height="auto" alt="thumb-exgO1LFl9x8" src="https://i.ytimg.com/vi/exgO1LFl9x8/hqdefault.jpg"/></a> | [파이썬 코딩 무료 강의 \(활용편4\) - 업무자동화\(RPA\), 이제는 일하는 척\(?\)만 하세요](https://www.youtube.com/watch?v=exgO1LFl9x8) <br/><br/> _[TalkIT][yu-talk-it]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=f2IFyWomXJQ"><img width="140px" height="auto" alt="thumb-f2IFyWomXJQ" src="https://i.ytimg.com/vi/f2IFyWomXJQ/hqdefault.jpg"/></a> | [재택근무 컴플라이언스 대응을 위한 단말과 접근통제 보안 전략](https://www.youtube.com/watch?v=f2IFyWomXJQ) <br/><br/> _[TalkIT][yu-talk-it]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=j_pdvd-slSQ"><img width="140px" height="auto" alt="thumb-j_pdvd-slSQ" src="https://i.ytimg.com/vi/j_pdvd-slSQ/hqdefault.jpg"/></a> | [코로나와 함께하는 클라우드 시대를 위한 데이터 보호](https://www.youtube.com/watch?v=j_pdvd-slSQ) <br/><br/> _[TalkIT][yu-talk-it]_ |
+
+마이크로소프트 애저 클라우드 추천서비스, VDI, GitHub, SAP [챕터9, 토크아이티 Video Book#5, 퍼블릭클라우드]
+PIi7C4tMEDU
+
 
 :::
 

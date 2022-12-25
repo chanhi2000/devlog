@@ -26,6 +26,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 ---
 ## 우아한형제들
 - [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
+- [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
 
 
 ---
@@ -74,6 +75,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
 - [Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)
 - [Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
+- [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 
 
 ---
@@ -204,5 +206,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [🔐 Portable Secret](https://mprimi.github.io/portable-secret)
 - [Posts about React](https://flaviocopes.com/tags/react)
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2)
+- [Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c)
+- [정규표현식 완전정복](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
+
 
 <TagLinks />

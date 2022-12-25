@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Library
 description: Github > Library
-tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatform" , "javascript" , "nodejs" , "python" , "go" , "csharp" , "php" , "bash"]
+tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatform" , "javascript" , "nodejs" , "python" , "go" , "csharp" , "php", "dart", "bash"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -58,6 +58,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf)
 - [bazelbuild/bazel][bazelbuild/bazel]: a fast, scalable, multi-language and extensible build system
   - [🌐Official Site](https://bazel.build)
+- [wiremock/wiremock][wiremock/wiremock]: A tool for mocking HTTP services
+  - [🌐Official Site](http://wiremock.org)
+
 
 ---
 
@@ -327,6 +330,15 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](http://typeorm.io)
 - [Nutlope/roomGPT][Nutlope/roomGPT]: Upload a photo of your room to generate your dream room with AI.
   - [🌐Official Site](https://www.roomgpt.io)
+- [towfiqi/serpbear][towfiqi/serpbear]: Search Engine Position Rank Tracking App
+  - [🌐Official Site](https://docs.serpbear.com)
+- [bvaughn/react-resizable-panels][bvaughn/react-resizable-panels]
+  - [🌐Official Site](https://react-resizable-panels.vercel.app)
+- [TanStack/query][TanStack/query]: 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+  - [🌐Official Site](https://tanstack.com/query)
+- [chakra-ui/chakra-ui][chakra-ui/chakra-ui]: ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+  - [🌐Official Site](https://chakra-ui.com)
+
 
 ---
 
@@ -514,6 +526,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [pop-os/cosmic-text][pop-os/cosmic-text]: Pure Rust multi-line text handling
   - [🌐Official Site](https://pop-os.github.io/cosmic-text/cosmic_text)
 - [praetorian-inc/noseyparker][praetorian-inc/noseyparker]: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
+- [dani-garcia/vaultwarden][dani-garcia/vaultwarden]: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
 
 ---
 
@@ -532,6 +546,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://bitwarden.com)
 - [PRQL/prql][PRQL/prql]: PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
   - [🌐Official Site](https://prql-lang.org)
+- [unoplatform/uno][unoplatform/uno]: Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+  - [🌐Official Site](https://platform.uno)
 
 ---
 
@@ -545,6 +561,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
   - [🌐Official Site](https://www.monicahq.com)
+- [laravel/breeze][laravel/breeze]: Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
+  - [🌐Official Site](https://laravel.com/docs/starter-kits#laravel-breeze)
 - [openai-php/laravel][openai-php/laravel]: ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [ockeghem/badtodo][ockeghem/badtodo]: 
 
@@ -587,6 +605,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [FFmpeg/FFmpeg][FFmpeg/FFmpeg]: Mirror of https://git.ffmpeg.org/ffmpeg.git
   - [🌐Official Site](https://ffmpeg.org)
 - [tenderlove/initial-v][tenderlove/initial-v]: It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
+- [Immediate-Mode-UI/Nuklear][Immediate-Mode-UI/Nuklear]: A single-header ANSI C immediate mode cross-platform GUI library
+  - [🌐Official Site](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
+- [jerryscript-project/jerryscript][jerryscript-project/jerryscript]: Ultra-lightweight JavaScript engine for the Internet of Things.
+  - [🌐Official Site](https://jerryscript.net)
 
 
 ---
@@ -621,6 +643,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [palera1n/palera1n][palera1n/palera1n]: iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [ax/apk.sh][ax/apk.sh]: apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [rails/docked][rails/docked]: Running Rails from Docker for easy start to development
+- [dreamncn/ParallelsDesktopCrack][dreamncn/ParallelsDesktopCrack]: Crack for Parallels Desktop 18.1.1 53328
+
 
 ---
 
@@ -707,6 +731,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [JabRef/jabref]: https://github.com/JabRef/jabref
 [classycodeoss/nfc-sockets]: https://github.com/classycodeoss/nfc-sockets
 [bazelbuild/bazel]: https://github.com/bazelbuild/bazel
+[wiremock/wiremock]: https://github.com/wiremock/wiremock
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka
@@ -856,6 +881,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [coollabsio/coolify]: https://github.com/coollabsio/coolify
 [typeorm/typeorm]: https://github.com/typeorm/typeorm
 [Nutlope/roomGPT]: https://github.com/Nutlope/roomGPT
+[towfiqi/serpbear]: https://github.com/towfiqi/serpbear
+[bvaughn/react-resizable-panels]: https://github.com/bvaughn/react-resizable-panels
+[TanStack/query]: https://github.com/TanStack/query
+[chakra-ui/chakra-ui]: https://github.com/chakra-ui/chakra-ui
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -968,6 +997,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [linebender/xilem]: https://github.com/linebender/xilem
 [pop-os/cosmic-text]: https://github.com/pop-os/cosmic-text
 [praetorian-inc/noseyparker]: https://github.com/praetorian-inc/noseyparker
+[dani-garcia/vaultwarden]: https://github.com/dani-garcia/vaultwarden
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -977,12 +1007,14 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [dotnet/maui]: https://github.com/dotnet/maui
 [bitwarden/server]: https://github.com/bitwarden/server
 [PRQL/prql]: https://github.com/PRQL/prql
+[unoplatform/uno]: https://github.com/unoplatform/uno
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
 [openai-php/laravel]: https://github.com/openai-php/laravel
 [ockeghem/badtodo]: https://github.com/ockeghem/badtodo
+[laravel/breeze]: https://github.com/laravel/breeze
 <!-- C & C++ -->
 [exaloop/codon]: https://github.com/exaloop/codon
 [bytedance/sonic-cpp]: https://github.com/bytedance/sonic-cpp
@@ -1005,6 +1037,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [ocornut/imgui]: https://github.com/ocornut/imgui
 [FFmpeg/FFmpeg]: https://github.com/FFmpeg/FFmpeg
 [tenderlove/initial-v]: https://github.com/tenderlove/initial-v
+[Immediate-Mode-UI/Nuklear]: https://github.com/Immediate-Mode-UI/Nuklear
+[jerryscript-project/jerryscript]: https://github.com/jerryscript-project/jerryscript
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -1024,6 +1058,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [palera1n/palera1n]: https://github.com/palera1n/palera1n
 [ax/apk.sh]: https://github.com/ax/apk.sh
 [rails/docked]: https://github.com/rails/docked
+[dreamncn/ParallelsDesktopCrack]: https://github.com/dreamncn/ParallelsDesktopCrack
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates

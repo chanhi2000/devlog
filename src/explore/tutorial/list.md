@@ -9,9 +9,16 @@ tags: ["tutorial", "kodeco", "android", "kotlin", "jetpack-compose"]
 
 [[toc]]
 
+---
+
+## DigitalOcean
+
+- [Community Home](https://www.digitalocean.com/community)
 
 ---
+
 ## Kodeco
+
 - ![img-35461793][img-35461793] 
   - [Nearby Connections for Android: Getting Started](https://www.kodeco.com/35461793-nearby-connections-for-android-getting-started)
 - ![img-34720426][img-34720426]
@@ -56,8 +63,15 @@ tags: ["tutorial", "kodeco", "android", "kotlin", "jetpack-compose"]
   - [Google I/O 2022 Recap: Top 5 Takeaways for Android Devs](https://www.kodeco.com/34078194-google-i-o-2022-recap-top-5-takeaways-for-android-devs)
 - [SQLDelight in Android: Getting Started](https://www.kodeco.com/21631179-sqldelight-in-android-getting-started)
 
-<TagLinks />
+---
 
+## React.js
+
+- [React Tutorial: The easiest way to learn React.](https://react-tutorial.app)
+- [React30](https://react30.com)
+- [Goalkicker: ReactJS](https://goalkicker.com/ReactJSBook)
+
+<TagLinks />
 
 [img-35461793]: https://files.koenig.kodeco.com/uploads/2022/12/nearby_connections_android_featured_banner@1.5x.png
 [img-34720426]: https://files.koenig.kodeco.com/uploads/2023/11/maps_compose_feature@1.5x.png

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Hiring > Resource
-description: Hiring > Resource
+title: Career > Resource
+description: Career > Resource
 tags: ["career", "hiring", "resource", "salary", "interview", "computer-science", "면접", "questions", "tech"]
 ---
 
@@ -28,6 +28,9 @@ tags: ["career", "hiring", "resource", "salary", "interview", "computer-science"
 ## Tools
 
 - [salary-calculator][salary-calculator]: 연봉계산기
+
+
+<TagLinks />
 
 <!-- Opinion -->
 [blog.shiren.dev/2020-11-23]: https://blog.shiren.dev/2020-11-23

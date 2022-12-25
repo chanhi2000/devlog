@@ -121,6 +121,7 @@ tags: ["education", "youtube", "programming", "ios", "xcode"]
 | ❌ | <a href="https://www.youtube.com/watch?v=OpxFAzgmlK4"><img width="140px" height="auto" alt="thumb-OpxFAzgmlK4" src="https://i.ytimg.com/vi/OpxFAzgmlK4/hqdefault.jpg"/></a> | [How to Create Widgets For iOS 14 Using SwiftUI 2.0 - SwiftUI WidgetKit - WWDC 2020 SwiftUI Tutorials](https://www.youtube.com/watch?v=OpxFAzgmlK4) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=mRk0F1Ii718"><img width="140px" height="auto" alt="thumb-mRk0F1Ii718" src="https://i.ytimg.com/vi/mRk0F1Ii718/hqdefault.jpg"/></a> | [SwiftUI MVVM Design Pattern - SwiftUI Tutorials](https://www.youtube.com/watch?v=mRk0F1Ii718) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=iIofrIyhuaE"><img width="140px" height="auto" alt="thumb-iIofrIyhuaE" src="https://i.ytimg.com/vi/iIofrIyhuaE/hqdefault.jpg"/></a> | [Instagram UI Re-Design Using SwiftUI - SwiftUI Complex UI's - SwiftUI Tutorials](https://www.youtube.com/watch?v=iIofrIyhuaE) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
+
 :::
 
 <!-- Kavsoft -->

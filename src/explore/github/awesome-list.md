@@ -63,6 +63,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://ddotta.github.io/awesome-polars)
 - [lukasz-madon/awesome-remote-job][lukasz-madon/awesome-remote-job]: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]
+- [ErikCH/DevYouTubeList][ErikCH/DevYouTubeList]: List of Development YouTube Channels
+
 
 ---
 
@@ -129,6 +131,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [ddotta/awesome-polars]: https://github.com/ddotta/awesome-polars
 [lukasz-madon/awesome-remote-job]: https://github.com/lukasz-madon/awesome-remote-job
 [f/awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
+[ErikCH/DevYouTubeList]: https://github.com/ErikCH/DevYouTubeList
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

@@ -51,7 +51,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 ## Swift
 - [pointfreeco/episode-code-samples][pointfreeco/episode-code-samples]: 💾 Point-Free episode code.
     - [🌐Official Site](https://www.pointfree.co)
-
+- [twostraws/HackingWithSwift][twostraws/HackingWithSwift]: The project source code for hackingwithswift.com
 
 ---
 ## Javascript
@@ -72,6 +72,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
     - [🌐Official Site](https://microsoft.github.io/Web-Dev-For-Beginners)
 - [kentcdodds/react-fundamentals][kentcdodds/react-fundamentals]: Material for my React Fundamentals Workshop
     - [🌐Official Site](https://epicreact.dev/fundamentals)
+- [judygab/web-dev-projects][judygab/web-dev-projects]: Projects repo for tutorials for my YouTube Channel
+
 
 
 ---
@@ -111,21 +113,27 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 
 ---
+
 ## Rust
+
 - [sunface/rust-by-practice][sunface/rust-by-practice]
-    - [🌐Official Site](https://practice.rs)
+  - [🌐Official Site](https://practice.rs)
 - [google/comprehensive-rust][google/comprehensive-rust]
-    - [🌐Official Site](https://google.github.io/comprehensive-rust)
+  - [🌐Official Site](https://google.github.io/comprehensive-rust)
 - [skyzh/mini-lsm][skyzh/mini-lsm]: A tutorial of building an LSM-Tree storage engine in a week! (WIP)
-    - [🌐Official Site](https://skyzh.github.io/mini-lsm)
+  - [🌐Official Site](https://skyzh.github.io/mini-lsm)
 
 ---
 ## C & C++
 - [BrunoLevy/learn-fpga][BrunoLevy/learn-fpga]: Learning FPGA, yosys, nextpnr, and RISC-V
+- [rust-lang/book][rust-lang/book]: The Rust Programming Language
+  - [🌐Official Site](https://doc.rust-lang.org/book)
 
 
 ---
+
 ## DevOps
+
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [MichaelCade/90DaysOfDevOps][MichaelCade/90DaysOfDevOps]: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [ripienaar/free-for-devs][ripienaar/free-for-dev]: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -142,10 +150,16 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 
 ---
+## C & C++
+- [below/HelloSilicon][below/HelloSilicon]: An introduction to ARM64 assembly on Apple Silicon Macs
+
+
+---
 ## Bash
 - [bobbyiliev/introduction-to-bash-scripting][bobbyiliev/introduction-to-bash-scripting]: Free Introduction to Bash Scripting eBook
     - [🌐Official Site](https://ebook.bobby.sh)
 - [jlevy/the-art-of-command-line][jlevy/the-art-of-command-line]: Master the command line, in one page
+
 
 ---
 ## Powershell
@@ -165,6 +179,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [cheatsnake/backend-cheats][cheatsnake/backend-cheats]: 🔰 Шпаргалка по бэкенду с картинками и не только / Backend cheatsheet with pictures and more
 - [jassics/security-study-plan][jassics/security-study-plan]: Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 - [Tikam02/DevOps-Guide][Tikam02/DevOps-Guide]: DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+- [pkivolowitz/asm_book][pkivolowitz/asm_book]: A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.
+
 
 
 
@@ -191,6 +207,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [vilmarbfilho/1f162d09899523198a8ffd424b47ccd1]: https://gist.github.com/vilmarbfilho/1f162d09899523198a8ffd424b47ccd1
 <!-- Swift -->
 [pointfreeco/episode-code-samples]: https://github.com/pointfreeco/episode-code-samples
+[twostraws/HackingWithSwift]: https://github.com/twostraws/HackingWithSwift
 <!-- Javascript -->
 [airbnb/javascript]: https://github.com/airbnb/javascript
 [goldbergyoni/nodebestpractices]: https://github.com/goldbergyoni/nodebestpractices
@@ -204,6 +221,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [Th3Wall/Fakeflix]: https://github.com/Th3Wall/Fakeflix
 [microsoft/Web-Dev-For-Beginners]: https://github.com/microsoft/Web-Dev-For-Beginners
 [kentcdodds/react-fundamentals]: https://github.com/kentcdodds/react-fundamentals
+[judygab/web-dev-projects]: https://github.com/judygab/web-dev-projects
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
@@ -226,6 +244,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [sunface/rust-by-practice]: https://github.com/sunface/rust-by-practice
 [google/comprehensive-rust]: https://github.com/google/comprehensive-rust
 [skyzh/mini-lsm]: https://github.com/skyzh/mini-lsm
+[rust-lang/book]: https://github.com/rust-lang/book
 <!-- C & C++ -->
 [BrunoLevy/learn-fpga]: https://github.com/BrunoLevy/learn-fpga
 <!-- DevOps -->
@@ -236,6 +255,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [DataTalksClub/mlops-zoomcamp]: https://github.com/DataTalksClub/mlops-zoomcamp
 [curiousily/Getting-Things-Done-with-Pytorch]: https://github.com/curiousily/Getting-Things-Done-with-Pytorch
 [graykode/nlp-tutorial]: https://github.com/graykode/nlp-tutorial
+<!-- C & C++ -->
+[below/HelloSilicon]: https://github.com/below/HelloSilicon
 <!-- Bash -->
 [bobbyiliev/introduction-to-bash-scripting]: https://github.com/bobbyiliev/introduction-to-bash-scripting
 [jlevy/the-art-of-command-line]: https://github.com/jlevy/the-art-of-command-line
@@ -250,3 +271,4 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [cheatsnake/backend-cheats]: https://github.com/cheatsnake/backend-cheats
 [jassics/security-study-plan]: https://github.com/jassics/security-study-plan
 [Tikam02/DevOps-Guide]: https://github.com/Tikam02/DevOps-Guide
+[pkivolowitz/asm_book]: https://github.com/pkivolowitz/asm_book

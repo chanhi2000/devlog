@@ -53,6 +53,8 @@ function getDocsNavBar(item) {
             children: [
               'career/',
               'career/hiring',
+              'career/resource',
+              'career/exam',
             ]
           }
         ]
@@ -143,6 +145,7 @@ function getDocsNavBar(item) {
             title: '👽oVirt',
             children: [
               'devops-ovirt/',
+              'devops-ovirt/cli',
               'devops-ovirt/resources',
             ]
           }, {
