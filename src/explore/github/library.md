@@ -154,6 +154,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [Lakr233/Rayon][Lakr233/Rayon]: yet another SSH machine manager
 - [gureum/gureum][gureum/gureum]: 더 편리한 macOS 한글 입력기
     - [🌐Official Site](http://gureum.io)
+- [zhuowei/WDBFontOverwrite][zhuowei/WDBFontOverwrite]: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
+    - [🌐Official Site](https://notnow.dev/zhuowei)
 
 
 ---
@@ -296,7 +298,21 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [open-telemetry/opentelemetry-js][open-telemetry/opentelemetry-js]: OpenTelemetry JavaScript Client
     - [🌐Official Site](https://opentelemetry.io)
 - [harbor-school/lighthouse][harbor-school/lighthouse]: Lighthouse is a continuous design system for integrating design with development workflows.
-- [🌐Official Site](https://lighthouse.harbor.school)
+    - [🌐Official Site](https://lighthouse.harbor.school)
+- [AmruthPillai/Reactive-Resume][AmruthPillai/Reactive-Resume]: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+    - [🌐Official Site](https://rxresu.me)
+- [microfeed/microfeed][microfeed/microfeed]: a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+    - [🌐Official Site](https://www.microfeed.org)
+- [excalidraw/excalidraw][excalidraw/excalidraw]: Virtual whiteboard for sketching hand-drawn like diagrams
+    - [🌐Official Site](https://excalidraw.com)
+- [TheOfficialFloW/HENlo][TheOfficialFloW/HENlo]: WebKit+Kernel exploit chain for all PS Vita firmwares
+- [novuhq/novu][novuhq/novu]: The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+    - [🌐Official Site](https://novu.co)
+- [timqian/chinese-independent-blogs][timqian/chinese-independent-blogs]: 中文独立博客列表
+    - [🌐Official Site](https://feeds.pub/cn-indie)
+- [zlib-searcher/zlib-searcher][zlib-searcher/zlib-searcher]: search zlib/libgen index to get ipfs_cid.
+
+
 
 
 ---
@@ -349,6 +365,12 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [facebookresearch/metaseq][facebookresearch/metaseq]: Repo for external large-scale work
 - [adobe-research/custom-diffusion][adobe-research/custom-diffusion]: Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion
     - [🌐Official Site](https://www.cs.cmu.edu/~custom-diffusion)
+- [LAION-AI/Open-Assistant][LAION-AI/Open-Assistant]: Open Assistant is a project meant to give everyone access to a great chat based large language model.
+- [malkemit/namizun][malkemit/namizun]: Asymmetric upload and download
+    - [🌐Official Site](https://t.me/ExplainLikeIam5)
+- [karpathy/nanoGPT][karpathy/nanoGPT]: The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [neonbjb/tortoise-tts][neonbjb/tortoise-tts]: A multi-voice TTS system trained with an emphasis on quality
+- [jerryjliu/gpt_index][jerryjliu/gpt_index]: An index created by GPT to organize external information and answer queries!
 
 
 ---
@@ -393,6 +415,12 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://ddosify.com)
 - [thangchung/go-coffeeshop][thangchung/go-coffeeshop]: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [Dreamacro/clash][Dreamacro/clash]: A rule-based tunnel in Go.
+- [zinclabs/zinc][zinclabs/zinc]: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+    - [🌐Official Site](https://zincsearch.com)
+- [google/osv-scanner][google/osv-scanner]: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [alist-org/alist][alist-org/alist]: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+    - [🌐Official Site](https://alist.nn.ci)
+
 
 
 ---
@@ -415,7 +443,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [Spotifyd/spotifyd][Spotifyd/spotifyd]: A spotify daemon
 - [o2sh/onefetch][o2sh/onefetch]: Command-line Git information tool
     - [🌐Official Site](https://onefetch.dev)
- 
+- [lencx/ChatGPT][lencx/ChatGPT]: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
+
 
 ---
 ## C#
@@ -428,6 +457,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [google/forma][google/forma]: An efficient vector-graphics renderer
 - [dotnet/maui][dotnet/maui]: .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
     - [🌐Official Site](https://dot.net/maui)
+- [bitwarden/server][bitwarden/server]: The core infrastructure backend (API, database, Docker, etc).
+    - [🌐Official Site](https://bitwarden.com)
+- [PRQL/prql][PRQL/prql]: PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+    - [🌐Official Site](https://prql-lang.org)
 
 
 ---
@@ -439,6 +472,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 ## PHP
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
     - [🌐Official Site](https://www.monicahq.com)
+- [openai-php/laravelopenai-php/laravel]: ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 
 
 ---
@@ -468,6 +502,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
     - [🌐Official Site](https://www.microsoft.com/en-us/research/project/checked-c)
 - [CVCUDA/CV-CUDA][CVCUDA/CV-CUDA]: CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.
     - [🌐Official Site](https://cvcuda.github.io)
+- [rui314/mold][rui314/mold]: mold: A Modern Linker 🦠
+- [facebook/folly][facebook/folly]: An open-source C++ library developed and used at Facebook.
+    - [🌐Official Site](https://groups.google.com/forum/?fromgroups#!forum/facebook-folly)
+- [ciniml/WireGuard-ESP32-Arduino][ciniml/WireGuard-ESP32-Arduino]: WireGuard implementation for ESP32 Arduino
+- [DarkFlippers/unleashed-firmwareDarkFlippers/unleashed-firmware]: Flipper Zero Unleashed Firmware
+    - [🌐Official Site](https://t.me/flipperzero_unofficial)
+- [ocornut/imgui][ocornut/imgui]: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 
 
@@ -513,7 +554,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [Azure/azure-quickstart-templates][Azure/azure-quickstart-templates]: Azure Quickstart Templates
     - [🌐Official Site](https://aka.ms/azqst)     
 - [H4de5-7/powershell-obfuscation][H4de5-7/powershell-obfuscation]: powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
-
+- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.
+    - [🌐Official Site](https://atlasos.net)
 
 
 ---
@@ -628,6 +670,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [apple/swift-async-algorithms]: https://github.com/apple/swift-async-algorithms
 [Lakr233/Rayon]: https://github.com/Lakr233/Rayon
 [gureum/gureum]: https://github.com/gureum/gureum
+[zhuowei/WDBFontOverwrite]: https://github.com/zhuowei/WDBFontOverwrite
 <!-- Multiplatform -->
 [google/filament]: https://github.com/google/filament
 [Tencent/Hippy]: https://github.com/Tencent/Hippy 
@@ -706,6 +749,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [nocobase/nocobase]: https://github.com/nocobase/nocobase
 [open-telemetry/opentelemetry-js]: https://github.com/open-telemetry/opentelemetry-js
 [harbor-school/lighthouse]: https://github.com/harbor-school/lighthouse
+[AmruthPillai/Reactive-Resume]: https://github.com/AmruthPillai/Reactive-Resume
+[microfeed/microfeed]: https://github.com/microfeed/microfeed
+[excalidraw/excalidraw]: https://github.com/excalidraw/excalidraw
+[TheOfficialFloW/HENlo]: https://github.com/TheOfficialFloW/HENlo
+[novuhq/novu]: https://github.com/novuhq/novu
+[timqian/chinese-independent-blogs]: https://github.com/timqian/chinese-independent-blogs
+[zlib-searcher/zlib-searcher]: https://github.com/zlib-searcher/zlib-searcher
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -737,6 +787,11 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [prowler-cloud/prowler]: https://github.com/prowler-cloud/prowler
 [facebookresearch/metaseq]: https://github.com/facebookresearch/metaseq
 [adobe-research/custom-diffusion]: https://github.com/adobe-research/custom-diffusion
+[LAION-AI/Open-Assistant]: https://github.com/LAION-AI/Open-Assistant
+[malkemit/namizun]: https://github.com/malkemit/namizun
+[karpathy/nanoGPT]: https://github.com/karpathy/nanoGPT
+[neonbjb/tortoise-tts]: https://github.com/neonbjb/tortoise-tts
+[jerryjliu/gpt_index]: https://github.com/jerryjliu/gpt_index
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -764,6 +819,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [ddosify/ddosify]: https://github.com/ddosify/ddosify
 [thangchung/go-coffeeshop]: https://github.com/thangchung/go-coffeeshop
 [Dreamacro/clash]: https://github.com/Dreamacro/clash
+[zinclabs/zinc]: https://github.com/zinclabs/zinc
+[google/osv-scanner]: https://github.com/google/osv-scanner
+[alist-org/alist]: https://github.com/alist-org/alist
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -778,6 +836,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [google/forma]: https://github.com/google/forma
 [Spotifyd/spotifyd]: https://github.com/Spotifyd/spotifyd
 [o2sh/onefetch]: https://github.com/o2sh/onefetch
+[lencx/ChatGPT]: https://github.com/lencx/ChatGPT
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -785,10 +844,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [microsoft/calculator]: https://github.com/microsoft/calculator
 [coofcookie/Windows11Upgrade]: https://github.com/coofcookie/Windows11Upgrade
 [dotnet/maui]: https://github.com/dotnet/maui
+[bitwarden/server]: https://github.com/bitwarden/server
+[PRQL/prql]: https://github.com/PRQL/prql
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
+[openai-php/laravel]: https://github.com/openai-php/laravel
 <!-- C & C++ -->
 [exaloop/codon]: https://github.com/exaloop/codon
 [bytedance/sonic-cpp]: https://github.com/bytedance/sonic-cpp
@@ -804,6 +866,11 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [project-chip/connectedhomeip]: https://github.com/project-chip/connectedhomeip
 [microsoft/checkedc]: https://github.com/microsoft/checkedc
 [CVCUDA/CV-CUDA]: https://github.com/CVCUDA/CV-CUDA
+[rui314/mold]: https://github.com/rui314/mold
+[facebook/folly]: https://github.com/facebook/folly
+[ciniml/WireGuard-ESP32-Arduino]: https://github.com/ciniml/WireGuard-ESP32-Arduino
+[DarkFlippers/unleashed-firmware]:  https://github.com/DarkFlippers/unleashed-firmware
+[ocornut/imgui]: https://github.com/ocornut/imgui
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -827,6 +894,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
 [H4de5-7/powershell-obfuscation]: https://github.com/H4de5-7/powershell-obfuscation
+[Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 <!-- CSS/Images -->

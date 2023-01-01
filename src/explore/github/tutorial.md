@@ -17,6 +17,11 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [PKUFlyingPig/cs-self-learning][PKUFlyingPig/cs-self-learning]: 计算机自学指南
     - [🌐Official Site](https://csdiy.wiki)
 - [RomuloOliveira/commit-messages-guide][RomuloOliveira/commit-messages-guide]: A guide to understand the importance of commit messages and how to write them well
+- [practical-tutorials/project-based-learning][practical-tutorials/project-based-learning]: Curated list of project-based tutorials
+- [Developer-Y/cs-video-courses][Developer-Y/cs-video-courses]: List of Computer Science courses with video lectures.
+- [dair-ai/Prompt-Engineering-Guide][dair-ai/Prompt-Engineering-Guide]: 🐙 Guide and resources for prompt engineering
+- [freeCodeCamp/freeCodeCamp][freeCodeCamp/freeCodeCamp]: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+    - [🌐Official Site](https://contribute.freecodecamp.org)
 
 
 
@@ -107,6 +112,15 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
     - [🌐Official Site](https://practice.rs)
 - [google/comprehensive-rust][google/comprehensive-rust]
     - [🌐Official Site](https://google.github.io/comprehensive-rust)
+- [skyzh/mini-lsm][skyzh/mini-lsm]: A tutorial of building an LSM-Tree storage engine in a week! (WIP)
+    - [🌐Official Site](https://skyzh.github.io/mini-lsm)
+
+
+---
+## C & C++
+- [BrunoLevy/learn-fpga][BrunoLevy/learn-fpga]: Learning FPGA, yosys, nextpnr, and RISC-V
+
+
 ---
 ## DevOps
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -156,6 +170,10 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [github/opensource.guide]: https://github.com/github/opensource.guide
 [PKUFlyingPig/cs-self-learning]: https://github.com/PKUFlyingPig/cs-self-learning
 [RomuloOliveira/commit-messages-guide]: https://github.com/RomuloOliveira/commit-messages-guide
+[practical-tutorials/project-based-learning]: https://github.com/practical-tutorials/project-based-learning
+[Developer-Y/cs-video-courses]: https://github.com/Developer-Y/cs-video-courses
+[dair-ai/Prompt-Engineering-Guide]: https://github.com/dair-ai/Prompt-Engineering-Guide
+[freeCodeCamp/freeCodeCamp]: https://github.com/freeCodeCamp/freeCodeCamp
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -204,6 +222,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 <!-- Rust -->
 [sunface/rust-by-practice]: https://github.com/sunface/rust-by-practice
 [google/comprehensive-rust]: https://github.com/google/comprehensive-rust
+[skyzh/mini-lsm]: https://github.com/skyzh/mini-lsm
+<!-- C & C++ -->
+[BrunoLevy/learn-fpga]: https://github.com/BrunoLevy/learn-fpga
 <!-- DevOps -->
 [bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 [MichaelCade/90DaysOfDevOps]: https://github.com/MichaelCade/90DaysOfDevOps

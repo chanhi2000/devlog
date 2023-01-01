@@ -45,7 +45,11 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [visenger/awesome-mlops][visenger/awesome-mlops]: A curated list of references for MLOps
     - [🌐Official Site](https://ml-ops.org)
-
+- [labmlai/annotated_deep_learning_paper_implementations][labmlai/annotated_deep_learning_paper_implementations]: 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+    - [🌐Official Site](https://nn.labml.ai)
+- [gabiduarte/awesome-techleads][gabiduarte/awesome-techleads]: Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português
+- [A-poc/RedTeam-Tools][A-poc/RedTeam-Tools]: Tools and Techniques for Red Team / Penetration Testing
+- [imDazui/Tvlist-awesome-m3u-m3u8][imDazui/Tvlist-awesome-m3u-m3u8]: 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
 
 
@@ -55,7 +59,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]: 📚 Freely available programming books
     - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
 - [gurugio/book_assembly_8086_ko][gurugio/book_assembly_8086_ko]
-
+- [hehonghui/awesome-english-ebooks][hehonghui/awesome-english-ebooks]: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
 ---
 ## Roadmap
@@ -95,10 +99,15 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [krahets/hello-algo]: https://github.com/krahets/hello-algo
 [bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 [visenger/awesome-mlops]: https://github.com/visenger/awesome-mlops
+[labmlai/annotated_deep_learning_paper_implementations]: https://github.com/labmlai/annotated_deep_learning_paper_implementations
+[gabiduarte/awesome-techleads]: https://github.com/gabiduarte/awesome-techleads
+[A-poc/RedTeam-Tools]: https://github.com/A-poc/RedTeam-Tools
+[imDazui/Tvlist-awesome-m3u-m3u8]: https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books
 [gurugio/book_assembly_8086_ko]: https://github.com/gurugio/book_assembly_8086_ko
+[hehonghui/awesome-english-ebooks]: https://github.com/hehonghui/awesome-english-ebooks
 <!-- Roadmap -->
 [kamranahmedse/developer-roadmap]: https://github.com/kamranahmedse/developer-roadmap
 [skydoves/android-developer-roadmap]: https://github.com/skydoves/android-developer-roadmap
