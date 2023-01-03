@@ -35,7 +35,7 @@ module.exports = {
     editLinkText: '',
     lastUpdated: '최근변경일',
     sidebar: {
-      '/info-banks/': getDocsNavBar('info-banks'),
+      '/g4e/': getDocsNavBar('g4e'),
       '/catalogs/': getDocsNavBar('catalogs'),
       '/explore/': getDocsNavBar('explore'),
     },
@@ -45,8 +45,8 @@ module.exports = {
         link: '/tags/'
       },
       {
-        text: '📖Info Banks',
-        link: '/info-banks/',
+        text: '📖G4E',
+        link: '/g4e/',
       },
       {
         text: '🗂️Catalogs',

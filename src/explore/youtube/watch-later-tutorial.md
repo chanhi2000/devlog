@@ -16,7 +16,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [FreeCodeCamp.org][yu-freecodecamp]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=EExSSotojVI"><img width="140px" height="auto" alt="thumb-EExSSotojVI" src="https://i.ytimg.com/vi/EExSSotojVI/hqdefault.jpg"/></a> | [Learn Kotlin Programming – Full Course for Beginners](https://www.youtube.com/watch?v=EExSSotojVI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
@@ -52,7 +51,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [Kavsoft][yu-kavsoft]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=a42x0Y7p5UA"><img width="140px" height="auto" alt="thumb-a42x0Y7p5UA" src="https://i.ytimg.com/vi/a42x0Y7p5UA/hqdefault.jpg"/></a> | [Lock Screen Dock on iPhone \| Creating a Live Activity \| ActivityKit \| WidgetKit \| iOS 16 \| SwiftUI](https://www.youtube.com/watch?v=a42x0Y7p5UA) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
@@ -86,7 +84,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [Philipp Lackner][yu-PhilippLackner]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=xRfE2n37pMM"><img width="140px" height="auto" alt="thumb-xRfE2n37pMM" src="https://i.ytimg.com/vi/xRfE2n37pMM/hqdefault.jpg"/></a> | [THIS Is How You Properly Debug Your Jetpack Compose UI - Android Studio Tutorial](https://www.youtube.com/watch?v=xRfE2n37pMM) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
@@ -111,7 +108,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [Stevdza-San][yu-Stevdza-San]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=oWs57Ox_8S4"><img width="140px" height="auto" alt="thumb-oWs57Ox_8S4" src="https://i.ytimg.com/vi/oWs57Ox_8S4/hqdefault.jpg"/></a> | [New Photo Picker on Android 13/API Level 33 - Backwards Compatible](https://www.youtube.com/watch?v=oWs57Ox_8S4) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
@@ -129,20 +125,14 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [ThePrimeagen][yu-theprimeagen]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=ip51Y5v3WLk"><img width="140px" height="auto" alt="thumb-ip51Y5v3WLk" src="https://i.ytimg.com/vi/ip51Y5v3WLk/hqdefault.jpg"/></a> | [How I Made JavaScript BLAZINGLY FAST](https://www.youtube.com/watch?v=ip51Y5v3WLk) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ZNFdkTIzdXM"><img width="140px" height="auto" alt="thumb-ZNFdkTIzdXM" src="https://i.ytimg.com/vi/ZNFdkTIzdXM/hqdefault.jpg"/></a> | [Rust for JS devs : Borrow Checker](https://www.youtube.com/watch?v=ZNFdkTIzdXM) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Sqp5VSqbQOY"><img width="140px" height="auto" alt="thumb-Sqp5VSqbQOY" src="https://i.ytimg.com/vi/Sqp5VSqbQOY/hqdefault.jpg"/></a> | [Astro IS SO GOOD](https://www.youtube.com/watch?v=Sqp5VSqbQOY) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=KfENDDEpCsI"><img width="140px" height="auto" alt="thumb-KfENDDEpCsI" src="https://i.ytimg.com/vi/KfENDDEpCsI/hqdefault.jpg"/></a> | [Vim As Your Editor - Vertical Movements](https://www.youtube.com/watch?v=KfENDDEpCsI) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-
-Vim As You Editor - Advanced Motions P1
-qZO9A5F6BZs
-
-My Developer Workflow - How I use i3, tmux, and vim
-bdumjiHabhQ
-
+| ❌ | <a href="https://www.youtube.com/watch?v=qZO9A5F6BZs"><img width="140px" height="auto" alt="thumb-qZO9A5F6BZs" src="https://i.ytimg.com/vi/qZO9A5F6BZs/hqdefault.jpg"/></a> | [Vim As You Editor - Advanced Motions P1](https://www.youtube.com/watch?v=qZO9A5F6BZs) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bdumjiHabhQ"><img width="140px" height="auto" alt="thumb-bdumjiHabhQ" src="https://i.ytimg.com/vi/bdumjiHabhQ/hqdefault.jpg"/></a> | [My Developer Workflow - How I use i3, tmux, and vim](https://www.youtube.com/watch?v=bdumjiHabhQ) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 
 :::
 
@@ -161,16 +151,9 @@ bdumjiHabhQ
 | ❌ | <a href="https://www.youtube.com/watch?v=Eb4GH_Fw3sg"><img width="140px" height="auto" alt="thumb-Eb4GH_Fw3sg" src="https://i.ytimg.com/vi/Eb4GH_Fw3sg/hqdefault.jpg"/></a> | [🔴 Let's build a Web 3 Messenger Dapp with NEXT.JS! (ReactJS, Moralis, Tailwind CSS, MetaMask)](https://www.youtube.com/watch?v=T2jKJF4BZOY) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=oYLiqD1eqtY"><img width="140px" height="auto" alt="thumb-oYLiqD1eqtY" src="https://i.ytimg.com/vi/oYLiqD1eqtY/hqdefault.jpg"/></a> | [🔴The EBAY 5-Day Challenge \| Day 2 - UI & Auth (Next.js 13, TypeScript, React.js, Tailwind, Thirdweb)](https://www.youtube.com/watch?v=oYLiqD1eqtY) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=8ZFpqhJCjOQ"><img width="140px" height="auto" alt="thumb-8ZFpqhJCjOQ" src="https://i.ytimg.com/vi/8ZFpqhJCjOQ/hqdefault.jpg"/></a> | [🔴 EBAY 5-Day Challenge \| Day 4 - Payments & Bidding (Next.js 13, TypeScript, Thirdweb)](https://www.youtube.com/watch?v=8ZFpqhJCjOQ) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
-
-🔴 Let's build a Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React) | 2023
-https://www.youtube.com/watch?v=urgi2iz9P6U&list=WL&index=375
-
-🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)
-https://www.youtube.com/watch?v=taPz40VmyzQ&list=WL&index=379
-
-React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More) [2022]
-https://www.youtube.com/watch?v=AkEnidfZnCU&list=WL&index=380
-
+| ❌ | <a href="https://www.youtube.com/watch?v=urgi2iz9P6U"><img width="140px" height="auto" alt="thumb-urgi2iz9P6U" src="https://i.ytimg.com/vi/urgi2iz9P6U/hqdefault.jpg"/></a> | [🔴 Let's build a Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React) \| 2023](https://www.youtube.com/watch?v=urgi2iz9P6U) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=taPz40VmyzQ"><img width="140px" height="auto" alt="thumb-taPz40VmyzQ" src="https://i.ytimg.com/vi/taPz40VmyzQ/hqdefault.jpg"/></a> | [🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)](https://www.youtube.com/watch?v=taPz40VmyzQ) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AkEnidfZnCU"><img width="140px" height="auto" alt="thumb-AkEnidfZnCU" src="https://i.ytimg.com/vi/AkEnidfZnCU/hqdefault.jpg"/></a> | [React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More) \[2022\]](https://www.youtube.com/watch?v=AkEnidfZnCU) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
 
 :::
 
@@ -180,17 +163,12 @@ https://www.youtube.com/watch?v=AkEnidfZnCU&list=WL&index=380
 [Clever Programmer][yu-CleverProgrammer]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=xR29afPvdxQ"><img width="140px" height="auto" alt="thumb-xR29afPvdxQ" src="https://i.ytimg.com/vi/xR29afPvdxQ/hqdefault.jpg"/></a> | [Build Uniswap 3.0 App with Infura & NextJS (Full Swap Functionality)](https://www.youtube.com/watch?v=xR29afPvdxQ) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=2gY2frjARBA"><img width="140px" height="auto" alt="thumb-2gY2frjARBA" src="https://i.ytimg.com/vi/2gY2frjARBA/hqdefault.jpg"/></a> | [Build a Lottery with Solidity (Infura) & Next.js](https://www.youtube.com/watch?v=2gY2frjARBA) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
-
-Build Reddit App with NextJS
-https://www.youtube.com/watch?v=W8IK3MeJ5H0&list=WL&index=400
-
-🔴 Build Medium App with Next.js and Firebase
-https://www.youtube.com/watch?v=xnshvkVrsw8&list=WL&index=473
+| ❌ | <a href="https://www.youtube.com/watch?v=W8IK3MeJ5H0"><img width="140px" height="auto" alt="thumb-W8IK3MeJ5H0" src="https://i.ytimg.com/vi/W8IK3MeJ5H0/hqdefault.jpg"/></a> | [Build Reddit App with NextJS](https://www.youtube.com/watch?v=W8IK3MeJ5H0) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=xnshvkVrsw8"><img width="140px" height="auto" alt="thumb-xnshvkVrsw8" src="https://i.ytimg.com/vi/xnshvkVrsw8/hqdefault.jpg"/></a> | [🔴 Build Medium App with Next.js and Firebase](https://www.youtube.com/watch?v=xnshvkVrsw8) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
 
 :::
 
@@ -201,11 +179,11 @@ https://www.youtube.com/watch?v=xnshvkVrsw8&list=WL&index=473
 [Amigoscode][yu-amigoscode]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=9SGDpanrc8U"><img width="140px" height="auto" alt="thumb-9SGDpanrc8U" src="https://i.ytimg.com/vi/9SGDpanrc8U/hqdefault.jpg"/></a> | [Spring Boot Tutorial \| Full Course \[2022\] \[NEW\]](https://www.youtube.com/watch?v=9SGDpanrc8U) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=-mwpoE0x0JQ"><img width="140px" height="auto" alt="thumb--mwpoE0x0JQ" src="https://i.ytimg.com/vi/-mwpoE0x0JQ/hqdefault.jpg"/></a> | [Spring Boot - Learn Spring Boot 3 (2 Hours)](https://www.youtube.com/watch?v=-mwpoE0x0JQ) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
+
 :::
 
 
@@ -215,7 +193,6 @@ https://www.youtube.com/watch?v=xnshvkVrsw8&list=WL&index=473
 [Java Techie][yu-Javatechie]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=ceSqN3CWd14"><img width="140px" height="auto" alt="thumb-ceSqN3CWd14" src="https://i.ytimg.com/vi/ceSqN3CWd14/hqdefault.jpg"/></a> | [Creating SOAP Web Service with Spring Boot \| java Techie](https://www.youtube.com/watch?v=ceSqN3CWd14) <br/><br/> _[Java Techie][yu-Javatechie]_ |
@@ -225,17 +202,9 @@ https://www.youtube.com/watch?v=xnshvkVrsw8&list=WL&index=473
 | ❌ | <a href="https://www.youtube.com/watch?v=K48J7Ogxazc"><img width="140px" height="auto" alt="thumb-K48J7Ogxazc" src="https://i.ytimg.com/vi/K48J7Ogxazc/hqdefault.jpg"/></a> | [Spring Boot \| Dynamic Inserts & Updates With Spring Data JPA \| JavaTechie](https://www.youtube.com/watch?v=K48J7Ogxazc) <br/><br/> _[Java Techie][yu-Javatechie]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=P5sAaFY3O2w"><img width="140px" height="auto" alt="thumb-P5sAaFY3O2w" src="https://i.ytimg.com/vi/P5sAaFY3O2w/hqdefault.jpg"/></a> | [Spring Boot - Creating Custom Annotation For Validation \| InterviewQA \| JavaTechie](https://www.youtube.com/watch?v=P5sAaFY3O2w) <br/><br/> _[Java Techie][yu-Javatechie]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=VO20SgiTTOU"><img width="140px" height="auto" alt="thumb-VO20SgiTTOU" src="https://i.ytimg.com/vi/VO20SgiTTOU/hqdefault.jpg"/></a> | [Spring Boot With Splunk Integration \| Realtime logs analysis using Splunk \| HEC \| JavaTechie](https://www.youtube.com/watch?v=VO20SgiTTOU) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-
-
-Spring Boot File Upload and Download REST API | Spring Data JPA | JavaTechie
-https://www.youtube.com/watch?v=XUL60-Ke-L8&list=WL&index=407
-
-Apache Camel + Spring Boot REST API | Example | Java Techie
-https://www.youtube.com/watch?v=wFpAw0bpzns&list=WL&index=105
-
-CI CD Pipeline Using Jenkins | Deploy Docker Image to Kubernetes using Jenkins | JavaTechie
-https://www.youtube.com/watch?v=vBoOXP6BkDI&list=WL&index=495
-
+| ❌ | <a href="https://www.youtube.com/watch?v=XUL60-Ke-L8"><img width="140px" height="auto" alt="thumb-XUL60-Ke-L8" src="https://i.ytimg.com/vi/XUL60-Ke-L8/hqdefault.jpg"/></a> | [Spring Boot File Upload and Download REST API \| Spring Data JPA \| JavaTechie](https://www.youtube.com/watch?v=XUL60-Ke-L8) <br/><br/> _[Java Techie][yu-Javatechie]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wFpAw0bpzns"><img width="140px" height="auto" alt="thumb-wFpAw0bpzns" src="https://i.ytimg.com/vi/wFpAw0bpzns/hqdefault.jpg"/></a> | [Apache Camel + Spring Boot REST API \| Example \| Java Techie](https://www.youtube.com/watch?v=wFpAw0bpzns) <br/><br/> _[Java Techie][yu-Javatechie]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vBoOXP6BkDI"><img width="140px" height="auto" alt="thumb-vBoOXP6BkDI" src="https://i.ytimg.com/vi/vBoOXP6BkDI/hqdefault.jpg"/></a> | [Spring Boot With Splunk Integration \| Realtime logs analysis using Splunk \| HEC \| JavaTechie](https://www.youtube.com/watch?v=vBoOXP6BkDI) <br/><br/> _[Java Techie][yu-Javatechie]_ |
 
 ::::
 
@@ -245,14 +214,11 @@ https://www.youtube.com/watch?v=vBoOXP6BkDI&list=WL&index=495
 [That DevOps Guy][yu-MarcelDempers]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=u0qtgUMLua0"><img width="140px" height="auto" alt="thumb-u0qtgUMLua0" src="https://i.ytimg.com/vi/u0qtgUMLua0/hqdefault.jpg"/></a> | [Storing Secrets in GIT \| GitOps \| Kubernetes](https://www.youtube.com/watch?v=u0qtgUMLua0) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=1zcXudjSVUs"><img width="140px" height="auto" alt="thumb-1zcXudjSVUs" src="https://i.ytimg.com/vi/1zcXudjSVUs/hqdefault.jpg"/></a> | [Understanding KUBECTL - Learning Kubernetes](https://www.youtube.com/watch?v=1zcXudjSVUs) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-
-Introduction to Service monitors for beginners | Kubernetes monitoring
-https://www.youtube.com/watch?v=_NtRkBipepg&list=WL&index=413
+| ❌ | <a href="https://www.youtube.com/watch?v=_NtRkBipepg"><img width="140px" height="auto" alt="thumb-_NtRkBipepg" src="https://i.ytimg.com/vi/_NtRkBipepg/hqdefault.jpg"/></a> | [Introduction to Service monitors for beginners | Kubernetes monitoring](https://www.youtube.com/watch?v=_NtRkBipepg) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
 
 :::
 
@@ -303,31 +269,16 @@ https://www.youtube.com/watch?v=_NtRkBipepg&list=WL&index=413
 [Simplilearn][yu-simplilearn]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=4JDYP5XiHdI"><img width="140px" height="auto" alt="thumb-4JDYP5XiHdI" src="https://i.ytimg.com/vi/4JDYP5XiHdI/hqdefault.jpg"/></a> | [🔥Advanced Excel Full Course 2022 \| Advanced Excel Functions \| MS Excel 19 Training \| Simplilearn](https://www.youtube.com/watch?v=4JDYP5XiHdI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-
-🔥Cyber Security Full Course 2022 \| Cyber Security Course Training For Beginners 2022 \| Simplilearn
-kAw1l1bqhLM
-
-🔥AWS Full Course 2022 \| AWS Tutorial For Beginners 2022 \| AWS Training For Beginners \| Simplilearn
-mPkb0y8OY2k
-
-🔥Excel Full Course 2022 \| Excel Tutorial For Beginners \| Essential Excel Skills \| Simplilearn
-idJU-PxejWM
-
-🔥What is AZURE? \| AZURE Tutorial For Beginners \| Microsoft AZURE Full Course \| 2022 \| Simplilearn
-6d5XVN8OrLE
-
-🔥Python Projects That Will Get You Hired as a Python Developer \| Python Projects 2022 \| Simplilearn
-TfHjkrzhvQc
-
-C# Assembly Tutorial \| What Is Assembly in C# \| Assembly in C# Explained \| C# Tutorial \|Simplilearn
-z6EpJFMDpK8
-
-🔥Web Development Full Course \| HTML And CSS Full Course \| HTML Tutorial \| CSS Tutorial \| Simplilearn
-Od1mocpoM90
+| ❌ | <a href="https://www.youtube.com/watch?v=kAw1l1bqhLM"><img width="140px" height="auto" alt="thumb-kAw1l1bqhLM" src="https://i.ytimg.com/vi/kAw1l1bqhLM/hqdefault.jpg"/></a> | [🔥Cyber Security Full Course 2022 \| Cyber Security Course Training For Beginners 2022 \| Simplilearn](https://www.youtube.com/watch?v=kAw1l1bqhLM) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=mPkb0y8OY2k"><img width="140px" height="auto" alt="thumb-mPkb0y8OY2k" src="https://i.ytimg.com/vi/mPkb0y8OY2k/hqdefault.jpg"/></a> | [🔥AWS Full Course 2022 \| AWS Tutorial For Beginners 2022 \| AWS Training For Beginners \| Simplilearn](https://www.youtube.com/watch?v=mPkb0y8OY2k) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=idJU-PxejWM"><img width="140px" height="auto" alt="thumb-idJU-PxejWM" src="https://i.ytimg.com/vi/idJU-PxejWM/hqdefault.jpg"/></a> | [🔥Excel Full Course 2022 \| Excel Tutorial For Beginners \| Essential Excel Skills \| Simplilearn](https://www.youtube.com/watch?v=idJU-PxejWM) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=6d5XVN8OrLE"><img width="140px" height="auto" alt="thumb-6d5XVN8OrLE" src="https://i.ytimg.com/vi/6d5XVN8OrLE/hqdefault.jpg"/></a> | [🔥What is AZURE? \| AZURE Tutorial For Beginners \| Microsoft AZURE Full Course \| 2022 \| Simplilearn](https://www.youtube.com/watch?v=6d5XVN8OrLE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=TfHjkrzhvQc"><img width="140px" height="auto" alt="thumb-TfHjkrzhvQc" src="https://i.ytimg.com/vi/TfHjkrzhvQc/hqdefault.jpg"/></a> | [🔥Python Projects That Will Get You Hired as a Python Developer \| Python Projects 2022 \| Simplilearn](https://www.youtube.com/watch?v=TfHjkrzhvQc) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=z6EpJFMDpK8"><img width="140px" height="auto" alt="thumb-z6EpJFMDpK8" src="https://i.ytimg.com/vi/z6EpJFMDpK8/hqdefault.jpg"/></a> | [C# Assembly Tutorial \| What Is Assembly in C# \| Assembly in C# Explained \| C# Tutorial \| Simplilearn](https://www.youtube.com/watch?v=z6EpJFMDpK8) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Od1mocpoM90"><img width="140px" height="auto" alt="thumb-Od1mocpoM90" src="https://i.ytimg.com/vi/Od1mocpoM90/hqdefault.jpg"/></a> | [🔥Web Development Full Course \| HTML And CSS Full Course \| HTML Tutorial \| CSS Tutorial \| Simplilearn](https://www.youtube.com/watch?v=Od1mocpoM90) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
 
 :::
 
@@ -340,39 +291,17 @@ Od1mocpoM90
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
-
-notJust Hack - Kickstart!
-sQx38wrzvuk
-
-Let's build a Books App with React Native (tutorial for beginners) 🔴
--qAhg4EDIwQ
-
-Let's build Ping-Pong in React Native (Dynamic Island) 🔴
-m4NIOzDxHxE
-
-Gesture Handler tutorial in React Native
-fWHiSuz-V68
-
-Let's build WhatsApp with React Native and AWS Amplify \[p4\] 🔴
-pqQGU-JsD7k
-
-FlatList Animations in React Native with Reanimated 2
-JcVt63qAt4o
-
-Let's build WhatsApp with React Native and AWS Amplify \[p2\] 🔴
-8psijC5ezkc
-
-Let's build iOS 16 in React Native 🤔
-H9qTNjWV2ls
-
-Animated Login Form in React Native (#2 Animations)
-onGpjt4mQdE
-
-Building a Startup with React Native and AWS Amplify (part 3)
-NzZvrlFBuig
-
-Let's code the notJust.dev blog platform with NextJS
-AJBOV5btvaU
+| ❌ | <a href="https://www.youtube.com/watch?v=sQx38wrzvuk"><img width="140px" height="auto" alt="thumb-sQx38wrzvuk" src="https://i.ytimg.com/vi/sQx38wrzvuk/hqdefault.jpg"/></a> | [notJust Hack - Kickstart!](https://www.youtube.com/watch?v=sQx38wrzvuk) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=-qAhg4EDIwQ"><img width="140px" height="auto" alt="thumb--qAhg4EDIwQ" src="https://i.ytimg.com/vi/-qAhg4EDIwQ/hqdefault.jpg"/></a> | [Let's build a Books App with React Native (tutorial for beginners) 🔴](https://www.youtube.com/watch?v=-qAhg4EDIwQ) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=m4NIOzDxHxE"><img width="140px" height="auto" alt="thumb-m4NIOzDxHxE" src="https://i.ytimg.com/vi/m4NIOzDxHxE/hqdefault.jpg"/></a> | [Let's build Ping-Pong in React Native (Dynamic Island) 🔴](https://www.youtube.com/watch?v=m4NIOzDxHxE) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fWHiSuz-V68"><img width="140px" height="auto" alt="thumb-fWHiSuz-V68" src="https://i.ytimg.com/vi/fWHiSuz-V68/hqdefault.jpg"/></a> | [Gesture Handler tutorial in React Native](https://www.youtube.com/watch?v=fWHiSuz-V68) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=pqQGU-JsD7k"><img width="140px" height="auto" alt="thumb-pqQGU-JsD7k" src="https://i.ytimg.com/vi/pqQGU-JsD7k/hqdefault.jpg"/></a> | [Let's build WhatsApp with React Native and AWS Amplify \[p4\] 🔴](https://www.youtube.com/watch?v=pqQGU-JsD7k) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=JcVt63qAt4o"><img width="140px" height="auto" alt="thumb-JcVt63qAt4o" src="https://i.ytimg.com/vi/JcVt63qAt4o/hqdefault.jpg"/></a> | [FlatList Animations in React Native with Reanimated 2](https://www.youtube.com/watch?v=JcVt63qAt4o) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=8psijC5ezkc"><img width="140px" height="auto" alt="thumb-8psijC5ezkc" src="https://i.ytimg.com/vi/8psijC5ezkc/hqdefault.jpg"/></a> | [Let's build WhatsApp with React Native and AWS Amplify \[p2\] 🔴](https://www.youtube.com/watch?v=8psijC5ezkc) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=H9qTNjWV2ls"><img width="140px" height="auto" alt="thumb-H9qTNjWV2ls" src="https://i.ytimg.com/vi/H9qTNjWV2ls/hqdefault.jpg"/></a> | [Let's build iOS 16 in React Native 🤔](https://www.youtube.com/watch?v=H9qTNjWV2ls) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=onGpjt4mQdE"><img width="140px" height="auto" alt="thumb-onGpjt4mQdE" src="https://i.ytimg.com/vi/onGpjt4mQdE/hqdefault.jpg"/></a> | [Animated Login Form in React Native (#2 Animations)](https://www.youtube.com/watch?v=onGpjt4mQdE) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=NzZvrlFBuig"><img width="140px" height="auto" alt="thumb-NzZvrlFBuig" src="https://i.ytimg.com/vi/NzZvrlFBuig/hqdefault.jpg"/></a> | [Building a Startup with React Native and AWS Amplify (part 3)](https://www.youtube.com/watch?v=NzZvrlFBuig) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AJBOV5btvaU"><img width="140px" height="auto" alt="thumb-AJBOV5btvaU" src="https://i.ytimg.com/vi/AJBOV5btvaU/hqdefault.jpg"/></a> | [Let's code the notJust.dev blog platform with NextJS](https://www.youtube.com/watch?v=AJBOV5btvaU) <br/><br/> _[notJust.dev][yu-not-just-dev]_ |
 
 :::
 
@@ -384,16 +313,10 @@ AJBOV5btvaU
 [Derek Banas][yu-derek-banas]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
-
-C# Full Course : C# Tutorial for Beginners
-M5ugY7fWydE
-
-Rust Tutorial Full Course
-ygL_xcavzQ4
-
+| ❌ | <a href="https://www.youtube.com/watch?v=M5ugY7fWydE"><img width="140px" height="auto" alt="thumb-M5ugY7fWydE" src="https://i.ytimg.com/vi/M5ugY7fWydE/hqdefault.jpg"/></a> | [C# Full Course : C# Tutorial for Beginners](https://www.youtube.com/watch?v=M5ugY7fWydE) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ygL_xcavzQ4"><img width="140px" height="auto" alt="thumb-ygL_xcavzQ4" src="https://i.ytimg.com/vi/ygL_xcavzQ4/hqdefault.jpg"/></a> | [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
 
 :::
 
@@ -407,19 +330,10 @@ ygL_xcavzQ4
 
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
-
-Why I use grid over flexbox for this common layout
-ctHE8EXEoj8
-
-The thing people get wrong about flex-basis
-jx4FtPlDXJg
-
-The secret to mastering CSS layouts
-vHuSz4fRM88
-
-Can you beat me at a CSS Battle?
-A0J-hB3kSQ4
-
+| ❌ | <a href="https://www.youtube.com/watch?v=ctHE8EXEoj8"><img width="140px" height="auto" alt="thumb-ctHE8EXEoj8" src="https://i.ytimg.com/vi/ctHE8EXEoj8/hqdefault.jpg"/></a> | [Why I use grid over flexbox for this common layout](https://www.youtube.com/watch?v=ctHE8EXEoj8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=jx4FtPlDXJg"><img width="140px" height="auto" alt="thumb-jx4FtPlDXJg" src="https://i.ytimg.com/vi/jx4FtPlDXJg/hqdefault.jpg"/></a> | [The thing people get wrong about flex-basis](https://www.youtube.com/watch?v=jx4FtPlDXJg) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vHuSz4fRM88"><img width="140px" height="auto" alt="thumb-vHuSz4fRM88" src="https://i.ytimg.com/vi/vHuSz4fRM88/hqdefault.jpg"/></a> | [The secret to mastering CSS layouts](https://www.youtube.com/watch?v=vHuSz4fRM88) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=A0J-hB3kSQ4"><img width="140px" height="auto" alt="thumb-A0J-hB3kSQ4" src="https://i.ytimg.com/vi/A0J-hB3kSQ4/hqdefault.jpg"/></a> | [Can you beat me at a CSS Battle?](https://www.youtube.com/watch?v=A0J-hB3kSQ4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
 
 :::
 ---
@@ -428,17 +342,12 @@ A0J-hB3kSQ4
 [DEvS][yu-DEvS]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=pClOy5lA7rU"><img width="140px" height="auto" alt="thumb-pClOy5lA7rU" src="https://i.ytimg.com/vi/pClOy5lA7rU/hqdefault.jpg"/></a> | [`fullPage.js` 기초 사용법 (풀페이지 fullpage js)](https://www.youtube.com/watch?v=pClOy5lA7rU) <br/><br/> _[DEvS][yu-DEvS]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ohCBS5DXr8s"><img width="140px" height="auto" alt="thumb-ohCBS5DXr8s" src="https://i.ytimg.com/vi/ohCBS5DXr8s/hqdefault.jpg"/></a> | [자바스크립트: DOM 이벤트 흐름 \| JavaScript: DOM Event Flow \| 캡쳐링, 버블링, target, currentTarget, stopPropagation..](https://www.youtube.com/watch?v=ohCBS5DXr8s) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-
-Sass (SCSS): Nesting (네스팅)과 CSS의 BEM 구조
-https://www.youtube.com/watch?v=DiPa943Wa7Q&list=WL&index=462
-
-Sass (SCSS): Nesting (네스팅) 추가 내용
-https://www.youtube.com/watch?v=c5F1QSN7LRo&list=WL&index=468
+| ❌ | <a href="https://www.youtube.com/watch?v=ohCBS5DXr8s"><img width="140px" height="auto" alt="thumb-ohCBS5DXr8s" src="https://i.ytimg.com/vi/ohCBS5DXr8s/hqdefault.jpg"/></a> | [자바스크립트: DOM 이벤트 흐름 \| JavaScript: DOM Event Flow \| 캡쳐링, 버블링, target, currentTarget, stopPropagation..](https://www.youtube.com/watch?v=ohCBS5DXr8s) <br/><br/> _[DEvS][yu-DEvS]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DiPa943Wa7Q"><img width="140px" height="auto" alt="thumb-DiPa943Wa7Q" src="https://i.ytimg.com/vi/DiPa943Wa7Q/hqdefault.jpg"/></a> | [Sass (SCSS): Nesting (네스팅)과 CSS의 BEM 구조](https://www.youtube.com/watch?v=DiPa943Wa7Q) <br/><br/> _[DEvS][yu-DEvS]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=c5F1QSN7LRo"><img width="140px" height="auto" alt="thumb-c5F1QSN7LRo" src="https://i.ytimg.com/vi/c5F1QSN7LRo/hqdefault.jpg"/></a> | [Sass (SCSS): Nesting (네스팅) 추가 내용](https://www.youtube.com/watch?v=c5F1QSN7LRo) <br/><br/> _[DEvS][yu-DEvS]_ |
 
 :::
 

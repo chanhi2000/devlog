@@ -16,7 +16,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [Chris Titus Tech][yu-chris-titus-tech]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=HKB8RUWZIQA"><img width="140px" height="auto" alt="thumb-HKB8RUWZIQA" src="https://i.ytimg.com/vi/HKB8RUWZIQA/hqdefault.jpg"/></a> | [5 Terminal Commands](https://www.youtube.com/watch?v=HKB8RUWZIQA) <br/><br/> _[Chris Titus Tech][yu-chris-titus-tech]_ |
@@ -42,7 +41,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [Snazzy Labs][yu-snazzy-lab]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=pQWGFKhBQwU"><img width="140px" height="auto" alt="thumb-pQWGFKhBQwU" src="https://i.ytimg.com/vi/pQWGFKhBQwU/hqdefault.jpg"/></a> | [We made the Mac mini ACTUALLY mini!](https://www.youtube.com/watch?v=pQWGFKhBQwU) <br/><br/> _[Snazzy Labs][yu-snazzy-lab]_ |
@@ -79,49 +77,20 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=I8xlt4Tcm2E"><img width="140px" height="auto" alt="thumb-I8xlt4Tcm2E" src="https://i.ytimg.com/vi/I8xlt4Tcm2E/hqdefault.jpg"/></a> | [OpenAI AI ChatGPT 활용했던 사례, 시큐어코딩에도 잘 활용될 거 같아!!](https://www.youtube.com/watch?v=I8xlt4Tcm2E) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=27uka1NxZU8"><img width="140px" height="auto" alt="thumb-27uka1NxZU8" src="https://i.ytimg.com/vi/27uka1NxZU8/hqdefault.jpg"/></a> | [칼리리눅스의 도구 설명과 활용 이유!! SK쉴더스 루키 과정 라이브 중](https://www.youtube.com/watch?v=27uka1NxZU8) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
-
-
-생방 - 여러분들은 회사를 고를 때 어떤 기준을 제일 많이 보나?!!
-2CiKVvpDWFg
-
-QA. 모의해킹 업무를 지원했는데 인프라 진단까지 해야 하나요???
-imn3Y0Oc5gQ
-
-생방 - 어떻게 교육영상을 만들게 되었을까? 금융보안을 하다 어떻게 사업을?
-WChR40zYFV4
-
-칼리리눅스 2023버전 iSO 이미지 파일로 설치 및 한글 설정
-BoHi1x9krb8
-
-OSINT를 이용하여 해킹된 사이트 확인 #CriminalIP #에이아이스페라
-gir12ImKTP4
-
-CriminalIP 검색 - nginx 설정 노출 보안 위협 사례!!! #에이아이스페라
-YOWiFos7Isc
-
-Criminal IP 활용한 피싱사이트 검색 #에이아이스페라
-1Y25deAtF7c
-
-중소기업, 대기업, 금융권, 사업총괄 등 모의해킹 경험 공유!
-uDGs06IJj8g
-
-도커 컨테이너 취약점 스캐너 trivy 활용 사례
-xWNcZpms64M
-
-ChatGPT를 이용하여 AWS 클라우드 서비스 공부를 해보자!!
-_-_XcvYQHg8
-
-CriminalIP 서버 상태 정보 오류로 인한 버전 정보 노출 사례 #에이아이스페라
-5arKaWWNmuk
-
-(보안동향) 코인 채굴에 쓰인 정부 시스템.. 4년동안 몰랐다? 오픈 포트 보안 모니터링의 중요성
-iwxUqrxs5BM
-
-파이썬 스케줄 기능 살펴보기 - 정해진 시간에 작업
-i7U6wRuGZYg
-
-파이썬 웹 크롤링 네이버 외국인소진율 가져오기, BeautifulSoup Select
-VNXSIPbfnqU
+| ❌ | <a href="https://www.youtube.com/watch?v=2CiKVvpDWFg"><img width="140px" height="auto" alt="thumb-2CiKVvpDWFg" src="https://i.ytimg.com/vi/2CiKVvpDWFg/hqdefault.jpg"/></a> | [생방 - 여러분들은 회사를 고를 때 어떤 기준을 제일 많이 보나?!!](https://www.youtube.com/watch?v=2CiKVvpDWFg) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=imn3Y0Oc5gQ"><img width="140px" height="auto" alt="thumb-imn3Y0Oc5gQ" src="https://i.ytimg.com/vi/imn3Y0Oc5gQ/hqdefault.jpg"/></a> | [QA. 모의해킹 업무를 지원했는데 인프라 진단까지 해야 하나요???](https://www.youtube.com/watch?v=imn3Y0Oc5gQ) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WChR40zYFV4"><img width="140px" height="auto" alt="thumb-WChR40zYFV4" src="https://i.ytimg.com/vi/WChR40zYFV4/hqdefault.jpg"/></a> | [생방 - 어떻게 교육영상을 만들게 되었을까? 금융보안을 하다 어떻게 사업을?](https://www.youtube.com/watch?v=WChR40zYFV4) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=BoHi1x9krb8"><img width="140px" height="auto" alt="thumb-BoHi1x9krb8" src="https://i.ytimg.com/vi/BoHi1x9krb8/hqdefault.jpg"/></a> | [칼리리눅스 2023버전 iSO 이미지 파일로 설치 및 한글 설정](https://www.youtube.com/watch?v=BoHi1x9krb8) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=gir12ImKTP4"><img width="140px" height="auto" alt="thumb-gir12ImKTP4" src="https://i.ytimg.com/vi/gir12ImKTP4/hqdefault.jpg"/></a> | [OSINT를 이용하여 해킹된 사이트 확인 #CriminalIP #에이아이스페라](https://www.youtube.com/watch?v=gir12ImKTP4) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=YOWiFos7Isc"><img width="140px" height="auto" alt="thumb-YOWiFos7Isc" src="https://i.ytimg.com/vi/YOWiFos7Isc/hqdefault.jpg"/></a> | [CriminalIP 검색 - nginx 설정 노출 보안 위협 사례!!! #에이아이스페라](https://www.youtube.com/watch?v=YOWiFos7Isc) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1Y25deAtF7c"><img width="140px" height="auto" alt="thumb-1Y25deAtF7c" src="https://i.ytimg.com/vi/1Y25deAtF7c/hqdefault.jpg"/></a> | [Criminal IP 활용한 피싱사이트 검색 #에이아이스페라](https://www.youtube.com/watch?v=1Y25deAtF7c) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=uDGs06IJj8g"><img width="140px" height="auto" alt="thumb-uDGs06IJj8g" src="https://i.ytimg.com/vi/uDGs06IJj8g/hqdefault.jpg"/></a> | [중소기업, 대기업, 금융권, 사업총괄 등 모의해킹 경험 공유!](https://www.youtube.com/watch?v=uDGs06IJj8g) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=xWNcZpms64M"><img width="140px" height="auto" alt="thumb-xWNcZpms64M" src="https://i.ytimg.com/vi/xWNcZpms64M/hqdefault.jpg"/></a> | [도커 컨테이너 취약점 스캐너 trivy 활용 사례](https://www.youtube.com/watch?v=xWNcZpms64M) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_-_XcvYQHg8"><img width="140px" height="auto" alt="thumb-_-_XcvYQHg8" src="https://i.ytimg.com/vi/_-_XcvYQHg8/hqdefault.jpg"/></a> | [ChatGPT를 이용하여 AWS 클라우드 서비스 공부를 해보자!!](https://www.youtube.com/watch?v=_-_XcvYQHg8) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5arKaWWNmuk"><img width="140px" height="auto" alt="thumb-5arKaWWNmuk" src="https://i.ytimg.com/vi/5arKaWWNmuk/hqdefault.jpg"/></a> | [CriminalIP 서버 상태 정보 오류로 인한 버전 정보 노출 사례 #에이아이스페라](https://www.youtube.com/watch?v=5arKaWWNmuk) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=iwxUqrxs5BM"><img width="140px" height="auto" alt="thumb-iwxUqrxs5BM" src="https://i.ytimg.com/vi/iwxUqrxs5BM/hqdefault.jpg"/></a> | [(보안동향) 코인 채굴에 쓰인 정부 시스템.. 4년동안 몰랐다? 오픈 포트 보안 모니터링의 중요성](https://www.youtube.com/watch?v=iwxUqrxs5BM) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=i7U6wRuGZYg"><img width="140px" height="auto" alt="thumb-i7U6wRuGZYg" src="https://i.ytimg.com/vi/i7U6wRuGZYg/hqdefault.jpg"/></a> | [파이썬 스케줄 기능 살펴보기 - 정해진 시간에 작업](https://www.youtube.com/watch?v=i7U6wRuGZYg) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=VNXSIPbfnqU"><img width="140px" height="auto" alt="thumb-VNXSIPbfnqU" src="https://i.ytimg.com/vi/VNXSIPbfnqU/hqdefault.jpg"/></a> | [파이썬 웹 크롤링 네이버 외국인소진율 가져오기, BeautifulSoup Select](https://www.youtube.com/watch?v=VNXSIPbfnqU) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
 
 
 :::

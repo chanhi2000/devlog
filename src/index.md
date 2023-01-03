@@ -2,8 +2,8 @@
 home: true
 heroImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
 tagline: Welcome my fellow programmers!
-actionText: Check 📖Info Banks
-actionLink: /info-banks/
+actionText: Check 📖Guide 4 Everything
+actionLink: /g4e/
 # features:
 #- title: anecdotal
 #  details: 개발에서 직접 경험하고 해결한 내용 공유

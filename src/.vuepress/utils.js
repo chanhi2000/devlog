@@ -64,7 +64,7 @@ function getDocsNavBar(item) {
             ],
           }
         ]
-      case 'info-banks':
+      case 'g4e':
         return [
           '',
           //region: lang
