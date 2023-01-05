@@ -10,7 +10,9 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [[toc]]
 
 ---
+
 ## APIs
+
 - [github-opensource-guide][github-opensource-guide]: Open source software is made by people just like you. Learn how to launch and grow your project.
 - [gitignore][gitignore]: Create useful .gitignore files for your project
 - [Smalldev Tools][small-devtools]
@@ -34,6 +36,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 
 
 ### 대한민국
+
 - [data-kr][data-kr]: 공공데이터포털
 - [data-seoul][data-seoul]: 서울 열린데이터 광장
 - [data-kkd][data-kkd]: 경기데이터드림
@@ -53,9 +56,10 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
     - [📱for Mobile](https://m.arisu.seoul.go.kr)
 - [nsdi][nsdi]: 국가공간정보포털
 
-
 ---
+
 ## Resources
+
 - [Awesome Cheatsheets][awesome-cheatsheets]: Awesome cheatsheets for popular programming languages, frameworks and development tools.
  They include everything you should know in one single file. 👩‍💻👨‍💻
 - [Popular Color Palettes][Popular-Color-Palettes]: Most popular color palettes.
@@ -83,12 +87,16 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [jshint][jshint]: JSHint
 
 ---
+
 ## Community
+
 - [hamonikr][hamonikr]: 리눅스 커뮤니티 하모니카
 - [clien][clien]: 클리앙
 
 ---
+
 ## Cool Project(s)
+
 - [dustinbrett][dustinbrett]: daedalOS
 
 <TagLinks />

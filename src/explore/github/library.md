@@ -10,581 +10,605 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [[toc]]
 
 ---
+
 ## Java
+
 - [PowerJob/PowerJob][PowerJob/PowerJob]: Enterprise job scheduling middleware with distributed computing ability.
-    - [🌐Official Site](http://www.powerjob.tech)
+  - [🌐Official Site](http://www.powerjob.tech)
 - [apache/iotdb][apache/iotdb]: Apache IoTDB
-    - [🌐Official Site](https://iotdb.apache.org)
+  - [🌐Official Site](https://iotdb.apache.org)
 - [apache/incubator-seatunnel][apache/incubator-seatunnel]: SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
-    - [🌐Official Site](https://seatunnel.apache.org)
+  - [🌐Official Site](https://seatunnel.apache.org)
 - [alibaba/arthas][alibaba/arthas]: Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-    - [🌐Official Site](https://arthas.aliyun.com) 
+  - [🌐Official Site](https://arthas.aliyun.com) 
 - [accforaus/libhwp][accforaus/libhwp]: 🇰🇷 한글과 컴퓨터의 한글 문서 파일 구조 5.0 (hwp) 라이브러리
 - [checkstyle/checkstyle][checkstyle/checkstyle]: Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-    - [🌐Official Site](https://checkstyle.org) 
+  - [🌐Official Site](https://checkstyle.org) 
 - [jython/jython][jython/jython]: Python for the Java Platform
-    - [🌐Official Site](https://www.jython.org) 
+  - [🌐Official Site](https://www.jython.org) 
 - [axkr/symja_android_library][axkr/symja_android_library]: ☕ Symja - computer algebra language & symbolic math library. A collection of popular algorithms implemented in pure Java. Inspired by Wolfram Language built-in functions.
-    - [🌐Official Site](https://matheclipse.org)
+  - [🌐Official Site](https://matheclipse.org)
 - [shannah/jdeploy][shannah/jdeploy]: Developer friendly desktop deployment tool
-    - [🌐Official Site](https://www.jdeploy.com)
+  - [🌐Official Site](https://www.jdeploy.com)
 - [PaperMC/Debuggery][PaperMC/Debuggery]: A small plugin designed to expose API values at runtime.
 - [PaperMC/DataConverter][PaperMC/DataConverter]: Rewrite of the dataconverter system for performance.
 - [PaperMC/Starlight][PaperMC/Starlight]: Rewrites the light engine to fix lighting performance and lighting errors
 - [sniffy/sniffy][sniffy/sniffy]: Sniffy - interactive profiler, testing and chaos engineering tool for Java
-    - [🌐Official Site](https://www.sniffy.io)
+  - [🌐Official Site](https://www.sniffy.io)
 - [Netflix/conductor][Netflix/conductor]: Conductor is a microservices orchestration engine.s
-    - [🌐Official Site](https://conductor.netflix.com)
+  - [🌐Official Site](https://conductor.netflix.com)
 - [alibaba/fastjson2][alibaba/fastjson2]: 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [Grasscutters/Grasscutter][Grasscutters/Grasscutter]: A server software reimplementation for a certain anime game.
-    - [🌐Official Site](https://grasscutter.io)
+  - [🌐Official Site](https://grasscutter.io)
 - [mbechler/marshalsec][mbechler/marshalsec]: Java Unmarshaller Security - Turning your data into code execution
 - [whwlsfb/Log4j2Scan][whwlsfb/Log4j2Scan]: Log4j2 RCE Passive Scanner plugin for BurpSuite
 - [PlexPt/chatgpt-java][PlexPt/chatgpt-java]: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.
 - [flyway/flyway][flyway/flyway]: Flyway by Redgate • Database Migrations Made Easy.
-    - [🌐Official Site](https://flywaydb.org)
+  - [🌐Official Site](https://flywaydb.org)
 - [open-pdf-sign/open-pdf-sign][open-pdf-sign/open-pdf-sign]: Digitally sign PDF files from your commandline
-    - [🌐Official Site](https://openpdfsign.org)
+  - [🌐Official Site](https://openpdfsign.org)
 - [theonedev/onedev][theonedev/onedev]: Self-hosted Git Server with CI/CD and Kanban
-    - [🌐Official Site](https://code.onedev.io/onedev/server)
-    - [📚Documentation](https://docs.onedev.io)
+  - [🌐Official Site](https://code.onedev.io/onedev/server)
+  - [📚Documentation](https://docs.onedev.io)
 - [strongbox/strongbox][strongbox/strongbox]: Strongbox is an artifact repository manager.
-    - [🌐Official Site](https://strongbox.github.io)
+  - [🌐Official Site](https://strongbox.github.io)
 - [JabRef/jabref][JabRef/jabref]: Graphical Java application for managing BibTeX and biblatex (.bib) databases
-    - [🌐Official Site](https://devdocs.jabref.org)
+  - [🌐Official Site](https://devdocs.jabref.org)
 - [classycodeoss/nfc-sockets][classycodeoss/nfc-sockets]: Sockets over NFC
-    - [🌐Official Site](https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf)
+  - [🌐Official Site](https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf)
 - [bazelbuild/bazel][bazelbuild/bazel]: a fast, scalable, multi-language and extensible build system
-    - [🌐Official Site](https://bazel.build)
-
-
-
+  - [🌐Official Site](https://bazel.build)
 
 ---
+
 ## Kotlin
+
 - [ktorio/ktor][ktorio/ktor]: Framework for quickly creating connected applications in Kotlin with minimal effort
-    - [🌐Official Site](https://ktor.io)
-    - [🚀Starter](https://start.ktor.io)
+  - [🌐Official Site](https://ktor.io)
+  - [🚀Starter](https://start.ktor.io)
 - [Kotlin/dokka][Kotlin/dokka]: Documentation Engine for Kotlin
 - [PaperMC/Paper][PaperMC/Paper]: High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [PaperMC/Paperclip][PaperMC/Paperclip]: Bootstrap utility and launcher for the Paper Minecraft server
 - [hexagonkt/hexagon][hexagonkt/hexagon]: Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.
-    - [🌐Official Site](https://hexagonkt.com)
+  - [🌐Official Site](https://hexagonkt.com)
 - [microsoft/thrifty][microsoft/thrifty]: Thrift for Android that saves you methods
 - [sniffy/influxdb-tools][sniffy/influxdb-tools]
 - [revanced/revanced-patches][revanced/revanced-patches]: 🧩 Patches for ReVanced
-    - [🌐Official Site](https://revanced.app)
+  - [🌐Official Site](https://revanced.app)
 - [cashapp/turbine][cashapp/turbine]: A small testing library for kotlinx.coroutines Flow
-    - [🌐Official Site](https://cashapp.github.io/turbine/docs/0.x)
+  - [🌐Official Site](https://cashapp.github.io/turbine/docs/0.x)
 - [pinterest/ktlint][pinterest/ktlint]: An anti-bikeshedding Kotlin linter with built-in formatter
-    - [🌐Official Site](https://pinterest.github.io/ktlint)
+  - [🌐Official Site](https://pinterest.github.io/ktlint)
 - [ThinkingLogic/kotlin-builder-annotation][ThinkingLogic/kotlin-builder-annotation]: A minimal viable replacement for the Lombok @builder plugin for Kotlin code
 - [netflix/dgs-framework][netflix/dgs-framework]: GraphQL for Java with Spring Boot made easy.
-    - [🌐Official Site](https://netflix.github.io/dgs)
-
-
-    
-
+  - [🌐Official Site](https://netflix.github.io/dgs)
 
 ---
+
 ## Android
+
 - [anggrayudi/SimpleStorage][anggrayudi/SimpleStorage]: 💾 Simplify Android Storage Access Framework for file management across API levels
 - [PRNDcompany/PersistBottomSheetFragment][PRNDcompany/PersistBottomSheetFragment]
 - [Memrise/plaid][Memrise/plaid]: An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [google/flexbox-layout][google/flexbox-layout]: Flexbox for Android
 - [airbnb/epoxy][airbnb/epoxy]: Epoxy is an Android library for building complex screens in a RecyclerView
-    - [🌐Official Site](https://goo.gl/eIK82p)
+  - [🌐Official Site](https://goo.gl/eIK82p)
 - [TeamNewPipe/NewPipe][TeamNewPipe/NewPipe]: A libre lightweight streaming front-end for Android.
-    - [🌐Official Site](https://newpipe.net)
+  - [🌐Official Site](https://newpipe.net)
 - [tachiyomiorg/tachiyomi][tachiyomiorg/tachiyomi]: Free and open source manga reader for Android. 
-    - [🌐Official Site](https://tachiyomi.org)
+  - [🌐Official Site](https://tachiyomi.org)
 - [skylot/jadx][skylot/jadx]: Dex to Java decompiler 
 - [facebook/shimmer-android][facebook/shimmer-android]: An easy, flexible way to add a shimmering effect to any view in an Android app.
-    - [🌐Official Site](http://facebook.github.io/shimmer-android)
+  - [🌐Official Site](http://facebook.github.io/shimmer-android)
 - [judemanutd/KaTeXView][judemanutd/KaTeXView]: KaTeX View for android
 - [MasayukiSuda/Mp4Composer-android][MasayukiSuda/Mp4Composer-android]: This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
 - [karma9874/AndroRAT][karma9874/AndroRAT]: A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
 - [DrKLO/Telegram][DrKLO/Telegram]: Telegram for Android source
 - [google/perfetto][google/perfetto]: Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto)
-    - [🌐Official Site](https://www.perfetto.dev)
+  - [🌐Official Site](https://www.perfetto.dev)
 - [coil-kt/coil][coil-kt/coil]: Image loading for Android backed by Kotlin Coroutines.
-    - [🌐Official Site](https://coil-kt.github.io/coil)
+  - [🌐Official Site](https://coil-kt.github.io/coil)
 - [facebook/fresco][facebook/fresco]: An Android library for managing images and the memory they use.
-    - [🌐Official Site](https://frescolib.org)
+  - [🌐Official Site](https://frescolib.org)
 - [hootsuite/nachos][hootsuite/nachos]: Material Chips for Android
 - [android/architecture-templates][android/architecture-templates]
 - [tiann/KernelSU][tiann/KernelSU]: A Kernel based root solution for Android GKI
 - [lsrom/webview-tester][lsrom/webview-tester]: Test your web app in Android web view with visible console logs.
 - [TeamVanced/VancedMicroG][TeamVanced/VancedMicroG]: MicroG tweaked to work for applications such as Vanced.
 - [android/nowinandroid][android/nowinandroid]: A fully functional Android app built entirely with Kotlin and Jetpack Compose
-    - [🌐Official Site](https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid)
+  - [🌐Official Site](https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid)
 - [libre-tube/LibreTube][libre-tube/LibreTube]: An alternative YouTube front end, for Android.
-    - [🌐Official Site](https://libre-tube.github.io)
+  - [🌐Official Site](https://libre-tube.github.io)
 - [tranleduy2000/ncalc][tranleduy2000/ncalc]: Power calculator for Android. Solve some problem algebra and calculus.
-    - [🌐Official Site](https://play.google.com/store/apps/details?id=com.duy.calculator.free)
+  - [🌐Official Site](https://play.google.com/store/apps/details?id=com.duy.calculator.free)
 - [RocketChat/Rocket.Chat][RocketChat/Rocket.Chat]: The communications platform that puts data protection first.
-    - [🌐Official Site](https://rocket.chat)
+  - [🌐Official Site](https://rocket.chat)
 - [Kr328/ClashForAndroid][Kr328/ClashForAndroid]: A rule-based tunnel for Android.
-    - [🌐Official Site](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
+  - [🌐Official Site](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 - [Automattic/pocket-casts-android][Automattic/pocket-casts-android]: Pocket Casts Android 🎧
-    - [🌐Official Site](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
+  - [🌐Official Site](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
 - [mastodon/mastodon-android][mastodon/mastodon-android]: Official Android app for Mastodon
-    - [🌐Official Site](https://app.joinmastodon.org/android)
-    - [🌐Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
+  - [🌐Official Site](https://app.joinmastodon.org/android)
+  - [🌐Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
 - [skydoves/chatgpt-android][skydoves/chatgpt-android]: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [recloudstream/cloudstream][recloudstream/cloudstream]: Android app for streaming and downloading Movies, TV-Series and Anime.
 
-
-
 ---
 ## Swift
+
 - [CodeEditApp/CodeEdit][CodeEditApp/CodeEdit]: CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-    - [🌐Official Site](https://codeedit.app)
+  - [🌐Official Site](https://codeedit.app)
 - [tuist/tuist][tuist/tuist]: 🚀 Create, maintain, and interact with Xcode projects at scale
-    - [🌐Official Site](https://tuist.io)
+  - [🌐Official Site](https://tuist.io)
 - [microsoft/fluentui-apple][microsoft/fluentui-apple]: UIKit and AppKit controls for building native Microsoft experiences
-    - [🌐Official Site](https://www.microsoft.com/design/fluent)
+  - [🌐Official Site](https://www.microsoft.com/design/fluent)
 - [pointfreeco/swift-composable-architecture][pointfreeco/swift-composable-architecture]
-    - [🌐Official Site](https://www.pointfree.co/collections/composable-architecture)
+  - [🌐Official Site](https://www.pointfree.co/collections/composable-architecture)
 - [PerfectlySoft/Perfect][PerfectlySoft/Perfect]: Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)   
-    - [🌐Official Site](https://www.perfect.org)
+  - [🌐Official Site](https://www.perfect.org)
 - [wigl/iSimulator][wigl/iSimulator]: iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 - [gao-sun/eul][gao-sun/eul]: 🖥️ macOS status monitoring app written in SwiftUI.
 - [apple/swift-async-algorithms][apple/swift-async-algorithms]: Async Algorithms for Swift
 - [Lakr233/Rayon][Lakr233/Rayon]: yet another SSH machine manager
 - [gureum/gureum][gureum/gureum]: 더 편리한 macOS 한글 입력기
-    - [🌐Official Site](http://gureum.io)
+  - [🌐Official Site](http://gureum.io)
 - [zhuowei/WDBFontOverwrite][zhuowei/WDBFontOverwrite]: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
-    - [🌐Official Site](https://notnow.dev/zhuowei)
-
+  - [🌐Official Site](https://notnow.dev/zhuowei)
 
 ---
+
 ## Multiplatform
-- [google/filament][google/filament]: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
-    - [🌐Official Site](https://google.github.io/filament)
-- [Tencent/Hippy][Tencent/Hippy]: Hippy is designed to easily build cross-platform dynamic apps. 👏
-    - [🌐Official Site](https://hippyjs.org)
-- [Shopify/react-native-skia][Shopify/react-native-skia]: High-performance React Native Graphics using Skia
-    - [🌐Official Site](https://shopify.github.io/react-native-skia)
 
+- [google/filament][google/filament]: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+  - [🌐Official Site](https://google.github.io/filament)
+- [Tencent/Hippy][Tencent/Hippy]: Hippy is designed to easily build cross-platform dynamic apps. 👏
+  - [🌐Official Site](https://hippyjs.org)
+- [Shopify/react-native-skia][Shopify/react-native-skia]: High-performance React Native Graphics using Skia
+  - [🌐Official Site](https://shopify.github.io/react-native-skia)
 
 ---
+
 ## Javascript
 - [SadeghHayeri/GreenTunnel][SadeghHayeri/GreenTunnel]: GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [hahnlee/hwp.js][hahnlee/hwp.js]: Open source hwp viewer and parser library powered by web technology
-    - [🌐Official Site](https://hanlee.io/hwp.js)
-- [my-school-info/neis-api][my-school-info/neis-api]: Node.js 나이스 오픈 API 라이브러리 (Typescript 지원)    
+  - [🌐Official Site](https://hanlee.io/hwp.js)
+- [my-school-info/neis-api][my-school-info/neis-api]: Node.js 나이스 오픈 API 라이브러리 (Typescript 지원)  
 - [strapi/strapi][strapi/strapi]: 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-    - [🌐Official Site](https://strapi.io)
+  - [🌐Official Site](https://strapi.io)
 - [withastro/astro][withastro/astro]: Build faster websites with Astro's next-gen island architecture 🏝✨
-    - [🌐Official Site](https://astro.build)
+  - [🌐Official Site](https://astro.build)
 - [odoo/odoo][odoo/odoo]: Odoo. Open Source Apps To Grow Your Business.
-    - [🌐Official Site](https://www.odoo.com)
+  - [🌐Official Site](https://www.odoo.com)
 - [tarutin/hovrly][tarutin/hovrly]: Hovrly — best partner for disctributed teams
-    - [🌐Official Site](https://hovrly.com)
+  - [🌐Official Site](https://hovrly.com)
 - [kelektiv/node-cron][kelektiv/node-cron]: Cron for NodeJS.
 - [alibaba/ice][alibaba/ice]: 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
-    - [🌐Official Site](https://ice.work)
+  - [🌐Official Site](https://ice.work)
 - [lusaxweb/vuesax-next][lusaxweb/vuesax-next]: Vuesax v4: framework components for Vuejs
-    - [🌐Official Site](https://vuesax.com)
+  - [🌐Official Site](https://vuesax.com)
 - [Cveinnt/LiveTerm][Cveinnt/LiveTerm]: 💻 Build terminal styled websites in minutes!
-    - [🌐Official Site](https://liveterm.vercel.app)
+  - [🌐Official Site](https://liveterm.vercel.app)
 - [BabylonJS/Babylon.js][BabylonJS/Babylon.js]: Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-    - [🌐Official Site](http://www.babylonjs.com)
+  - [🌐Official Site](http://www.babylonjs.com)
 - [nkallen/plasticity][nkallen/plasticity]
 - [jaredh159/tailwind-react-native-classnames][jaredh159/tailwind-react-native-classnames]: simple, expressive API for tailwindcss + react-native
 - [jamealg/KT-companion][jamealg/KT-companion]: A hiking and backpacking trail companion progressive web app
 - [select2/select2][select2/select2]: Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-    - [🌐Official Site](https://select2.org)
+  - [🌐Official Site](https://select2.org)
 - [tldraw/tldraw][tldraw/tldraw]: A tiny little drawing app.
-    - [🌐Official Site](https://www.tldraw.com) 
+  - [🌐Official Site](https://www.tldraw.com) 
 - [thunlp/WantWords][thunlp/WantWords]: An open-source online reverse dictionary.
-    - [🌐Official Site](https://wantwords.net)
+  - [🌐Official Site](https://wantwords.net)
 - [microsoft/vscode][microsoft/vscode]: Visual Studio Code
-    - [🌐Official Site](https://code.visualstudio.com)
+  - [🌐Official Site](https://code.visualstudio.com)
 - [DustinBrett/daedalOS][DustinBrett/daedalOS]: Desktop environment in the browser.
-    - [🌐Official Site](https://dustinbrett.com)
+  - [🌐Official Site](https://dustinbrett.com)
 - [UnblockNeteaseMusic/server][UnblockNeteaseMusic/server]: Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [solana-labs/solana-pay][solana-labs/solana-pay]: A new standard for decentralized payments.
-    - [🌐Official Site](https://solanapay.com)
+  - [🌐Official Site](https://solanapay.com)
 - [trpc/trpc][trpc/trpc]: 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-    - [🌐Official Site](https://trpc.io)
+  - [🌐Official Site](https://trpc.io)
 - [flashbots/simple-arbitrage][flashbots/simple-arbitrage]: Example arbitrage bot using Flashbots
 - [roots/bud][roots/bud]: ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
-    - [🌐Official Site](https://bud.js.org)
+  - [🌐Official Site](https://bud.js.org)
 - [remix-run/remix][remix-run/remix]: Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-    - [🌐Official Site](https://remix.run)
+  - [🌐Official Site](https://remix.run)
 - [iptv-org/iptv][iptv-org/iptv]: Collection of publicly available IPTV channels from all over the world
 - [nolanlawson/fuite][nolanlawson/fuite]: A tool for finding memory leaks in web apps
 - [medusajs/medusa][medusajs/medusa]: The open-source Shopify alternative ⚡️
-    - [🌐Official Site](https://medusajs.com)
+  - [🌐Official Site](https://medusajs.com)
 - [AsyncBanana/microdiff][AsyncBanana/microdiff]: A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [laurent22/joplin][laurent22/joplin]: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-    - [🌐Official Site](https://joplinapp.org)
+  - [🌐Official Site](https://joplinapp.org)
 - [marktext/marktext][marktext/marktext]: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-    - [🌐Official Site](https://marktext.app)
+  - [🌐Official Site](https://marktext.app)
 - [facebook/flipper][facebook/flipper]: A desktop debugging platform for mobile developers.
-    - [🌐Official Site](https://fbflipper.com)
+  - [🌐Official Site](https://fbflipper.com)
 - [facebook/jest][facebook/jest]: Delightful JavaScript Testing.
-    - [🌐Official Site](https://jestjs.io)
+  - [🌐Official Site](https://jestjs.io)
 - [pulsar-edit/pulsar][pulsar-edit/pulsar]: A Community-led Hyper-Hackable Text Editor
-    - [🌐Official Site](https://pulsar-edit.dev)
+  - [🌐Official Site](https://pulsar-edit.dev)
 - [DulLabs/bhai-lang][DulLabs/bhai-lang]: A toy programming language written in Typescript
-    - [🌐Official Site](https://bhailang.js.org)
+  - [🌐Official Site](https://bhailang.js.org)
 - [mathjax/MathJax][mathjax/MathJax]: Beautiful and accessible math in all browsers
-    - [🌐Official Site](http://www.mathjax.org)
+  - [🌐Official Site](http://www.mathjax.org)
 - [vuetifyjs/vuetify][vuetifyjs/vuetify]: 🐉 Vue Component Framework
-    - [🌐Official Site](https://vuetifyjs.com)
-    - [📚Documentation](https://vuetifyjs.com/en/introduction/why-vuetify)
+  - [🌐Official Site](https://vuetifyjs.com)
+  - [📚Documentation](https://vuetifyjs.com/en/introduction/why-vuetify)
 - [automerge/automerge][automerge/automerge]: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-    - [🌐Official Site](http://automerge.org)
+  - [🌐Official Site](http://automerge.org)
 - [windowjs/windowjs][windowjs/windowjs]: Window.js is an open-source Javascript runtime for desktop graphics programming.
-    - [🌐Official Site](https://windowjs.org)
-    - [📚Documentation](https://windowjs.org/doc)
+  - [🌐Official Site](https://windowjs.org)
+  - [📚Documentation](https://windowjs.org/doc)
 - [moment/moment][moment/moment]: Parse, validate, manipulate, and display dates in javascript.
-    - [🌐Official Site](http://momentjs.com)
-    - [📚Documentation](https://momentjs.com/docs)
+  - [🌐Official Site](http://momentjs.com)
+  - [📚Documentation](https://momentjs.com/docs)
 - [ciderapp/Cider][ciderapp/Cider]: A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
-    - [🌐Official Site](https://cider.sh)
-    - [📚Documentation](https://docs.cider.sh)
+  - [🌐Official Site](https://cider.sh)
+  - [📚Documentation](https://docs.cider.sh)
 - [actualbudget/actual-server][actualbudget/actual-server]: Actual's Server
 - [actualbudget/actual][actualbudget/actual]: A local-first personal finance system
-    - [🌐Official Site](https://actualbudget.github.io/docs)
+  - [🌐Official Site](https://actualbudget.github.io/docs)
 - [hgoebl/mobile-detect.js][hgoebl/mobile-detect.js]: Device detection (phone, tablet, desktop, mobile grade, os, versions) 
-    - [🌐Official Site](http://hgoebl.github.io/mobile-detect.js)
-    - [📚Documentation](https://hgoebl.github.io/mobile-detect.js/doc/MobileDetect.html)
+  - [🌐Official Site](http://hgoebl.github.io/mobile-detect.js)
+  - [📚Documentation](https://hgoebl.github.io/mobile-detect.js/doc/MobileDetect.html)
 - [semantic-org/semantic-ui][semantic-org/semantic-ui]: Semantic is a UI component framework based around useful principles from natural language.
-    - [🌐Official Site](http://www.semantic-ui.com)
-    - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
+  - [🌐Official Site](http://www.semantic-ui.com)
+  - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
 - [hoppscotch/hoppscotch][hoppscotch/hoppscotch]: 👽 Open source API development ecosystem - https://hoppscotch.io
-    - [🌐Official Site](https://hoppscotch.io)
+  - [🌐Official Site](https://hoppscotch.io)
 - [utterance/utterances][utterance/utterances]: 🔮 A lightweight comments widget built on GitHub issues
-    - [🌐Official Site](https://utteranc.es)
+  - [🌐Official Site](https://utteranc.es)
 - [shinework/photoshot][shinework/photoshot]
-    - [🌐Official Site](https://photoshot.app)
+  - [🌐Official Site](https://photoshot.app)
 - [lensterxyz/lenster][lensterxyz/lenster]: Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
-    - [🌐Official Site](https://lenster.xyz)
+  - [🌐Official Site](https://lenster.xyz)
 - [directus/directus][directus/directus]: The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-    - [🌐Official Site](https://directus.io)
+  - [🌐Official Site](https://directus.io)
 - [home-assistant/frontend][home-assistant/frontend]: 🍭 Frontend for Home Assistant
-    - [🌐Official Site](https://demo.home-assistant.io)
+  - [🌐Official Site](https://demo.home-assistant.io)
 - [wesbos/pommade][wesbos/pommade]: A menu bar app to check your hair
 - [awslabs/aws-icons-for-plantuml][awslabs/aws-icons-for-plantuml]: PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
 - [PrismJS/prism][PrismJS/prism]: Lightweight, robust, elegant syntax highlighting.
-    - [🌐Official Site](https://prismjs.com)
+  - [🌐Official Site](https://prismjs.com)
 - [hmartiro/riffusion-app][hmartiro/riffusion-app]: Stable diffusion for real-time music generation
-    - [🌐Official Site](http://riffusion.com)
+  - [🌐Official Site](http://riffusion.com)
 - [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the <canvas> tag
-    - [🌐Official Site](https://www.chartjs.org)
+  - [🌐Official Site](https://www.chartjs.org)
 - [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
-    - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
+  - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
 - [CorwinDev/Discord-Bot][CorwinDev/Discord-Bot]: Discord Bot with over 400 commands and made for large servers
 - [Infisical/infisical][Infisical/infisical]: ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
-    - [🌐Official Site](https://infisical.com)
+  - [🌐Official Site](https://infisical.com)
 - [dariusk/twitter-archiver][dariusk/twitter-archiver]: Make your own simple, public, searchable Twitter archive
 - [alan2207/bulletproof-react][alan2207/bulletproof-react]: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [openaudioserver/open-audio-server][openaudioserver/open-audio-server]: A self-hosted and free music server compatible with web browsers and smartphone apps
 - [jnsmalm/pixi3d][jnsmalm/pixi3d]: The 3D renderer for PixiJS. Seamless integration with 2D applications.
-    - [🌐Official Site](https://pixi3d.org)
+  - [🌐Official Site](https://pixi3d.org)
 - [llacloud/illa-builder][llacloud/illa-builder]: An open-source low-code Platform for Developers.
-    - [🌐Official Site](https://illacloud.com)
+  - [🌐Official Site](https://illacloud.com)
 - [TanStack/router][TanStack/router]: 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
-    - [🌐Official Site](https://tanstack.com/router)
+  - [🌐Official Site](https://tanstack.com/router)
 - [melonjs/melonJS][melonjs/melonJS]: a fresh & lightweight javascript game engine
-    - [🌐Official Site](https://melonjs.org)
+  - [🌐Official Site](https://melonjs.org)
 - [yaroslav-n/tweetGPT][yaroslav-n/tweetGPT]: TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 - [nocobase/nocobase][nocobase/nocobase]: NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
-    - [🌐Official Site](https://www.nocobase.com)
+  - [🌐Official Site](https://www.nocobase.com)
 - [open-telemetry/opentelemetry-js][open-telemetry/opentelemetry-js]: OpenTelemetry JavaScript Client
-    - [🌐Official Site](https://opentelemetry.io)
+  - [🌐Official Site](https://opentelemetry.io)
 - [harbor-school/lighthouse][harbor-school/lighthouse]: Lighthouse is a continuous design system for integrating design with development workflows.
-    - [🌐Official Site](https://lighthouse.harbor.school)
+  - [🌐Official Site](https://lighthouse.harbor.school)
 - [AmruthPillai/Reactive-Resume][AmruthPillai/Reactive-Resume]: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-    - [🌐Official Site](https://rxresu.me)
+  - [🌐Official Site](https://rxresu.me)
 - [microfeed/microfeed][microfeed/microfeed]: a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
-    - [🌐Official Site](https://www.microfeed.org)
+  - [🌐Official Site](https://www.microfeed.org)
 - [excalidraw/excalidraw][excalidraw/excalidraw]: Virtual whiteboard for sketching hand-drawn like diagrams
-    - [🌐Official Site](https://excalidraw.com)
+  - [🌐Official Site](https://excalidraw.com)
 - [TheOfficialFloW/HENlo][TheOfficialFloW/HENlo]: WebKit+Kernel exploit chain for all PS Vita firmwares
 - [novuhq/novu][novuhq/novu]: The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
-    - [🌐Official Site](https://novu.co)
+  - [🌐Official Site](https://novu.co)
 - [timqian/chinese-independent-blogs][timqian/chinese-independent-blogs]: 中文独立博客列表
-    - [🌐Official Site](https://feeds.pub/cn-indie)
+  - [🌐Official Site](https://feeds.pub/cn-indie)
 - [zlib-searcher/zlib-searcher][zlib-searcher/zlib-searcher]: search zlib/libgen index to get ipfs_cid.
-
-
-
+- [lensapp/lens][lensapp/lens]: Lens - The way the world runs Kubernetes
+  - [🌐Official Site](https://k8slens.dev)
+- [MuhammedKalkan/OpenLens][MuhammedKalkan/OpenLens]: OpenLens Binary Build Repository
+- [appsmithorg/appsmith][appsmithorg/appsmith]: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+  - [🌐Official Site](https://www.appsmith.com)
+- [gluon-framework/gluon][gluon-framework/gluon]: A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
+  - [🌐Official Site](https://gluonjs.org)
 
 ---
+
 ## Python
+
 - [OpenBapul/hml-equation-parser][OpenBapul/hml-equation-parser]
-    - [🌐Official Site](https://pypi.python.org/pypi/hml_equation_parser)
+  - [🌐Official Site](https://pypi.python.org/pypi/hml_equation_parser)
 - [public-apis/public-apis][public-apis/public-apis]: A collective list of free APIs
-    - [🌐Official Site](http://public-apis.org)
+  - [🌐Official Site](http://public-apis.org)
 - [microsoft/unilm][microsoft/unilm]: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-    - [🌐Official Site](https://aka.ms/nlpagi)
+  - [🌐Official Site](https://aka.ms/nlpagi)
 - [3b1b/manim][3b1b/manim]: Animation engine for explanatory math videos
 - [kivy/kivy][kivy/kivy]: Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-    - [🌐Official Site](https://kivy.org)
+  - [🌐Official Site](https://kivy.org)
 - [mkdocs/mkdocs][mkdocs/mkdocs]: Project documentation with Markdown.
-    - [🌐Official Site](https://www.mkdocs.org)
+  - [🌐Official Site](https://www.mkdocs.org)
 - [hwchase17/langchain][hwchase17/langchain]: ⚡ Building applications with LLMs through composability ⚡
 - [kingoflolz/mesh-transformer-jax][kingoflolz/mesh-transformer-jax]: Model parallel transformers in JAX and Haiku
 - [facebookresearch/fairseq][facebookresearch/fairseq]: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [zas023/JdBuyer][zas023/JdBuyer]: 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
 - [mete0r/pyhwp][mete0r/pyhwp]: .hwp file format v5 parser in python
-    - [🌐Official Site](http://pythonhosted.org/pyhwp)
+  - [🌐Official Site](http://pythonhosted.org/pyhwp)
 - [pypa/pipfile][pypa/pipfile]: Pipfile: the replacement for requirements.txt
 - [sympy/sympy][sympy/sympy]: A computer algebra system written in pure Python
-    - [🌐Official Site](https://sympy.org)
+  - [🌐Official Site](https://sympy.org)
 - [PaddlePaddle/PaddleSeg][PaddlePaddle/PaddleSeg]: Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.
-    - [🌐Official Site](https://arxiv.org/abs/2101.06175)
+  - [🌐Official Site](https://arxiv.org/abs/2101.06175)
 - [mingrammer/diagrams][mingrammer/diagrams]: 🎨 Diagram as Code for prototyping cloud system architectures
-    - [🌐Official Site](https://diagrams.mingrammer.com)
+  - [🌐Official Site](https://diagrams.mingrammer.com)
 - [hmartiro/riffusion-inference][hmartiro/riffusion-inference]: Stable diffusion for real-time music generation
-    - [🌐Official Site](http://riffusion.com)
+  - [🌐Official Site](http://riffusion.com)
 - [carson-katri/dream-textures][carson-katri/dream-textures]: Stable Diffusion built-in to the Blender shader editor
 - [mui/material-ui][mui/material-ui]: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-    - [🌐Official Site](https://mui.com/core)
+  - [🌐Official Site](https://mui.com/core)
 - [Jxck-S/plane-notify][Jxck-S/plane-notify]: Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet
 - [sczhou/CodeFormer][sczhou/CodeFormer]: \[NeurIPS 2022\] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [acantril/learn-cantrill-io-labs][acantril/learn-cantrill-io-labs]: Standard and Advanced Demos for learn.cantrill.io courses
 - [ranaroussi/yfinance][ranaroussi/yfinance]: Download market data from Yahoo! Finance's API
-    - [🌐Official Site](https://aroussi.com/post/python-yahoo-finance)
+  - [🌐Official Site](https://aroussi.com/post/python-yahoo-finance)
 - [THUDM/CodeGeeX][THUDM/CodeGeeX]: CodeGeeX: An Open Multilingual Code Generation Model
-    - [🌐Official Site](https://models.aminer.cn/codegeex)
+  - [🌐Official Site](https://models.aminer.cn/codegeex)
 - [spantaleev/matrix-docker-ansible-deploy][spantaleev/matrix-docker-ansible-deploy]: 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [m-bain/whisperX][m-bain/whisperX]: WhisperX: Timestamp-Accurate Automatic Speech Recognition.
 - [openai/point-e][openai/point-e]: Point cloud diffusion for 3D model synthesis
 - [kovidgoyal/kitty][kovidgoyal/kitty]: Cross-platform, fast, feature-rich, GPU based terminal
-    - [🌐Official Site](https://sw.kovidgoyal.net/kitty)
+  - [🌐Official Site](https://sw.kovidgoyal.net/kitty)
 - [microsoft/X-Decoder][microsoft/X-Decoder]: Official Implementation of X-Decoder for generalized decoding for pixel, image and language
-    - [🌐Official Site](https://x-decoder-vl.github.io)
+  - [🌐Official Site](https://x-decoder-vl.github.io)
 - [prowler-cloud/prowler][prowler-cloud/prowler]: Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
-    - [🌐Official Site](https://www.prowler.pro) 
+  - [🌐Official Site](https://www.prowler.pro) 
 - [facebookresearch/metaseq][facebookresearch/metaseq]: Repo for external large-scale work
 - [adobe-research/custom-diffusion][adobe-research/custom-diffusion]: Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion
-    - [🌐Official Site](https://www.cs.cmu.edu/~custom-diffusion)
+  - [🌐Official Site](https://www.cs.cmu.edu/~custom-diffusion)
 - [LAION-AI/Open-Assistant][LAION-AI/Open-Assistant]: Open Assistant is a project meant to give everyone access to a great chat based large language model.
 - [malkemit/namizun][malkemit/namizun]: Asymmetric upload and download
-    - [🌐Official Site](https://t.me/ExplainLikeIam5)
+  - [🌐Official Site](https://t.me/ExplainLikeIam5)
 - [karpathy/nanoGPT][karpathy/nanoGPT]: The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [neonbjb/tortoise-tts][neonbjb/tortoise-tts]: A multi-voice TTS system trained with an emphasis on quality
 - [jerryjliu/gpt_index][jerryjliu/gpt_index]: An index created by GPT to organize external information and answer queries!
-
+- [Z4nzu/hackingtool][Z4nzu/hackingtool]: ALL IN ONE Hacking Tool For Hackers
+  - [🌐Official Site](https://forms.gle/ntuAX8BGRR5yAb9ZA)
+- [microsoft/pyright][microsoft/pyright]: Static type checker for Python
+- [ThioJoe/Auto-Synced-Translated-Dubs][ThioJoe/Auto-Synced-Translated-Dubs]: Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
+- [tobymao/sqlglot][tobymao/sqlglot]: Python SQL Parser and Transpiler
+- [bigscience-workshop/petals][bigscience-workshop/petals]: 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+  - [🌐Official Site](https://petals.ml)
+- [ray-project/ray][ray-project/ray]: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+  - [🌐Official Site](https://ray.io)
+- [Azure/azure-sdk-for-python][Azure/azure-sdk-for-python]: This repository is for active development of the Azure SDK for Python.
+  - [📚Documentation](https://docs.microsoft.com/python/azure)
+  - [📚Documentation](https://azure.github.io/azure-sdk-for-python)
 
 ---
+
 ## Go
+
 - [Arriven/db1000n][Arriven/db1000n]: Death by 1000 needles
 - [charmbracelet/vhs][charmbracelet/vhs]: Your CLI home video recorder 📼
 - [gorilla/mux][gorilla/mux]: A powerful HTTP router and URL matcher for building Go web servers with 🦍
-    - [🌐Official Site](http://www.gorillatoolkit.org/pkg/mux)
+  - [🌐Official Site](http://www.gorillatoolkit.org/pkg/mux)
 - [schollz/croc][schollz/croc]: Easily and securely send things from one computer to another 🐊 📦
-    - [🌐Official Site](https://schollz.com/software/croc6)
+  - [🌐Official Site](https://schollz.com/software/croc6)
 - [eatmoreapple/openwechat][eatmoreapple/openwechat]: golang版微信SDK
 - [awslabs/eks-node-viewerawslabs/eks-node-viewer]: EKS Node Viewer
 - [dolthub/dolt][dolthub/dolt]: Dolt – Git for Data
 - [aler9/rtsp-simple-server][aler9/rtsp-simple-server]: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [miniscruff/changie][miniscruff/changie]: Automated changelog tool for preparing releases with lots of customization options
-    - [🌐Official Site](https://changie.dev)
+  - [🌐Official Site](https://changie.dev)
 - [pocketbase/pocketbase][pocketbase/pocketbase]: Open Source realtime backend in 1 file
-    - [🌐Official Site](https://pocketbase.io)
+  - [🌐Official Site](https://pocketbase.io)
 - [terrastruct/d2][terrastruct/d2]: D2 is a modern diagram scripting language that turns text to diagrams.
-    - [🌐Official Site](https://d2lang.com)
+  - [🌐Official Site](https://d2lang.com)
 - [sundowndev/phoneinfoga][sundowndev/phoneinfoga]: Information gathering framework for phone numbers
-    - [🌐Official Site](https://sundowndev.github.io/phoneinfoga)
+  - [🌐Official Site](https://sundowndev.github.io/phoneinfoga)
 - [hashicorp/vault][hashicorp/vault]: A tool for secrets management, encryption as a service, and privileged access management
-    - [🌐Official Site](https://www.vaultproject.io)
+  - [🌐Official Site](https://www.vaultproject.io)
 - [answerdev/answer][answerdev/answer]: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
-    - [🌐Official Site](https://answer.dev)
+  - [🌐Official Site](https://answer.dev)
 - [alpkeskin/mosint][alpkeskin/mosint]: An automated e-mail OSINT tool
 - [YaoApp/yao][YaoApp/yao]: 🚀 A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-    - [🌐Official Site](https://yaoapps.com)
+  - [🌐Official Site](https://yaoapps.com)
 - [samber/lo][samber/lo]: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-    - [🌐Official Site](https://pkg.go.dev/github.com/samber/lo)
+  - [🌐Official Site](https://pkg.go.dev/github.com/samber/lo)
 - [gin-gonic/gin][gin-gonic/gin]: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-    - [🌐Official Site](https://gin-gonic.com)
+  - [🌐Official Site](https://gin-gonic.com)
 - [liamg/traitor][liamg/traitor]: ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [google/log4jscanner][google/log4jscanner]: A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [gofiber/fiber][gofiber/fiber]: ⚡️ Express inspired web framework written in Go
-    - [🌐Official Site](https://gofiber.io)
+  - [🌐Official Site](https://gofiber.io)
 - [stashapp/stash][stashapp/stash]: An organizer for your porn, written in Go
-    - [🌐Official Site](https://stashapp.cc)
+  - [🌐Official Site](https://stashapp.cc)
 - [google/go-containerregistry][google/go-containerregistry]: Go library and CLIs for working with container registries
 - [ddosify/ddosify][ddosify/ddosify]: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud
-    - [🌐Official Site](https://ddosify.com)
+  - [🌐Official Site](https://ddosify.com)
 - [thangchung/go-coffeeshop][thangchung/go-coffeeshop]: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [Dreamacro/clash][Dreamacro/clash]: A rule-based tunnel in Go.
 - [zinclabs/zinc][zinclabs/zinc]: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-    - [🌐Official Site](https://zincsearch.com)
+  - [🌐Official Site](https://zincsearch.com)
 - [google/osv-scanner][google/osv-scanner]: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [alist-org/alist][alist-org/alist]: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-    - [🌐Official Site](https://alist.nn.ci)
-
-
+  - [🌐Official Site](https://alist.nn.ci)
+- [adhocteam/pushup][adhocteam/pushup]: Pushup is for making modern, page-oriented web apps in Go
+  - [🌐Official Site](https://pushup.adhoc.dev)
 
 ---
+
 ## Rust
+
 - [tauri-apps/tauri][tauri-apps/tauri]: Build smaller, faster, and more secure desktop applications with a web frontend.
-    - [🌐Official Site](https://tauri.app)
+  - [🌐Official Site](https://tauri.app)
 - [helix-editor/helix][helix-editor/helix]: A post-modern modal text editor.
-    - [🌐Official Site](https://helix-editor.com)
+  - [🌐Official Site](https://helix-editor.com)
 - [surrealdb/surrealdb][surrealdb/surrealdb]: A scalable, distributed, collaborative, document-graph database, for the realtime web
-    - [🌐Official Site](https://surrealdb.com)
+  - [🌐Official Site](https://surrealdb.com)
 - [paradigmxyz/reth][paradigmxyz/reth]: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [pichenettes/eurorack][pichenettes/eurorack]: Eurorack modules
 - [tw93/Pake][tw93/Pake]: 🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [0x192/universal-android-debloater][0x192/universal-android-debloater]: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [spacedriveapp/spacedrive][spacedriveapp/spacedrive]: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-    - [🌐Official Site](https://spacedrive.com)
+  - [🌐Official Site](https://spacedrive.com)
 - [pola-rs/polars][pola-rs/polars]: Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
-    - [🌐Official Site](https://pola.rs)
+  - [🌐Official Site](https://pola.rs)
 - [m1guelpf/plz-cli][m1guelpf/plz-cli]: Copilot for your terminal
 - [Spotifyd/spotifyd][Spotifyd/spotifyd]: A spotify daemon
 - [o2sh/onefetch][o2sh/onefetch]: Command-line Git information tool
-    - [🌐Official Site](https://onefetch.dev)
+  - [🌐Official Site](https://onefetch.dev)
 - [lencx/ChatGPT][lencx/ChatGPT]: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 
-
 ---
-## C#
+
+## C\#
+
 - [scottplot/scottplot][scottplot/scottplot]: Interactive Plotting Library for .NET
-    - [🌐Official Site](https://scottplot.net)
+  - [🌐Official Site](https://scottplot.net)
 - [microsoft/PowerToys][microsoft/PowerToys]: Windows system utilities to maximize productivity 
 - [valinet/ExplorerPatcher][valinet/ExplorerPatcher]: This project aims to enhance the working environment on Windows
 - [microsoft/calculator][microsoft/calculator]: Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [coofcookie/Windows11Upgrade][coofcookie/Windows11Upgrade]: Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [google/forma][google/forma]: An efficient vector-graphics renderer
 - [dotnet/maui][dotnet/maui]: .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-    - [🌐Official Site](https://dot.net/maui)
+  - [🌐Official Site](https://dot.net/maui)
 - [bitwarden/server][bitwarden/server]: The core infrastructure backend (API, database, Docker, etc).
-    - [🌐Official Site](https://bitwarden.com)
+  - [🌐Official Site](https://bitwarden.com)
 - [PRQL/prql][PRQL/prql]: PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-    - [🌐Official Site](https://prql-lang.org)
-
+  - [🌐Official Site](https://prql-lang.org)
 
 ---
+
 ## Dart
+
 - [vishalxl/nostr_console][vishalxl/nostr_console]: Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
 
-
 ---
+
 ## PHP
+
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
-    - [🌐Official Site](https://www.monicahq.com)
+  - [🌐Official Site](https://www.monicahq.com)
 - [openai-php/laravelopenai-php/laravel]: ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 
-
 ---
+
 ## C & C++
+
 - [exaloop/codon][exaloop/codon]: A high-performance, zero-overhead, extensible Python compiler using LLVM
-    - [🌐Official Site](https://docs.exaloop.io/codon)
+  - [🌐Official Site](https://docs.exaloop.io/codon)
 - [bytedance/sonic-cpp][bytedance/sonic-cpp]: A fast JSON serializing & deserializing library, accelerated by SIMD.
 - [assimp/assimp][assimp/assimp]: The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
-    - [🌐Official Site](https://www.assimp.org)
-    - [📚Documentation](https://assimp-docs.readthedocs.io/en)
+  - [🌐Official Site](https://www.assimp.org)
+  - [📚Documentation](https://assimp-docs.readthedocs.io/en)
 - [ange-yaghi/engine-sim][ange-yaghi/engine-sim]: Combustion engine simulator that generates realistic audio.
-    - [🌐Official Site](http://engine-sim.parts)
+  - [🌐Official Site](http://engine-sim.parts)
 - [google/android-emulator-hypervisor-driver][google/android-emulator-hypervisor-driver]: 
 - [nalgeon/sqlean][nalgeon/sqlean]: The ultimate set of SQLite extensions
 - [nlohmann/json][nlohmann/json]: JSON for Modern C++
-    - [🌐Official Site](https://json.nlohmann.me)
+  - [🌐Official Site](https://json.nlohmann.me)
 - [alibaba/havenask][alibaba/havenask]
 - [musescore/MuseScoremusescore/MuseScore]: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-    - [🌐Official Site](https://musescore.org)
+  - [🌐Official Site](https://musescore.org)
 - [facebook/zstd][facebook/zstd]: Zstandard - Fast real-time compression algorithm
-    - [🌐Official Site](http://www.zstd.net)
+  - [🌐Official Site](http://www.zstd.net)
 - [icinga/icinga2][icinga/icinga2]: The core of our monitoring platform with a powerful configuration language and REST API.
-    - [🌐Official Site](https://icinga.com/docs/icinga2/latest)
+  - [🌐Official Site](https://icinga.com/docs/icinga2/latest)
 - [project-chip/connectedhomeip][project-chip/connectedhomeip]: Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
-    - [🌐Official Site](https://buildwithmatter.com)
+  - [🌐Official Site](https://buildwithmatter.com)
 - [microsoft/checkedc][microsoft/checkedc]: Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, a…
-    - [🌐Official Site](https://www.microsoft.com/en-us/research/project/checked-c)
+  - [🌐Official Site](https://www.microsoft.com/en-us/research/project/checked-c)
 - [CVCUDA/CV-CUDA][CVCUDA/CV-CUDA]: CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.
-    - [🌐Official Site](https://cvcuda.github.io)
+  - [🌐Official Site](https://cvcuda.github.io)
 - [rui314/mold][rui314/mold]: mold: A Modern Linker 🦠
 - [facebook/folly][facebook/folly]: An open-source C++ library developed and used at Facebook.
-    - [🌐Official Site](https://groups.google.com/forum/?fromgroups#!forum/facebook-folly)
+  - [🌐Official Site](https://groups.google.com/forum/?fromgroups#!forum/facebook-folly)
 - [ciniml/WireGuard-ESP32-Arduino][ciniml/WireGuard-ESP32-Arduino]: WireGuard implementation for ESP32 Arduino
 - [DarkFlippers/unleashed-firmwareDarkFlippers/unleashed-firmware]: Flipper Zero Unleashed Firmware
-    - [🌐Official Site](https://t.me/flipperzero_unofficial)
+  - [🌐Official Site](https://t.me/flipperzero_unofficial)
 - [ocornut/imgui][ocornut/imgui]: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
-
-
 ---
+
 ## Lua
+
 - [ThePrimeagen/init.lua][ThePrimeagen/init.lua]
 - [neovim/neovim][neovim/neovim]: Vim-fork focused on extensibility and usability
-    - [🌐Official Site](https://neovim.io)
+  - [🌐Official Site](https://neovim.io)
 - [wbthomason/packer.nvim][wbthomason/packer.nvim]: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [williamboman/mason.nvim][williamboman/mason.nvim]: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [nvim-lua/kickstart.nvimnvim-lua/kickstart.nvim]: A launch point for your personal nvim configuration
 - [folke/lazy.nvim][folke/lazy.nvim]: 💤 A modern plugin manager for Neovim
 
-
-
-
 ---
+
 ## Bash
+
 - [tldr-pages/tldr][tldr-pages/tldr]: 📚 Collaborative cheatsheets for console commands
-    - [🌐Official Site](https://tldr.sh)
+  - [🌐Official Site](https://tldr.sh)
 - [LunarVim/Neovim-from-scratch][LunarVim/Neovim-from-scratch]: 📚 A Neovim config designed from scratch to be understandable
-    - [🌐Official Site](https://www.chrisatmachine.com)
+  - [🌐Official Site](https://www.chrisatmachine.com)
 - [LunarVim/LunarVim][LunarVim/LunarVim]: 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-    - [🌐Official Site](https://www.lunarvim.org)
+  - [🌐Official Site](https://www.lunarvim.org)
 - [WSA-Community/WSAGAScript][WSA-Community/WSAGAScript]: Scripts to install Google Apps into a WSA image. Plus optional root
 - [altercation/solarized][altercation/solarized]: precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
-    - [🌐Official Site](http://ethanschoonover.com/solarized)
-- [ohmyzsh/ohmyzsh][ohmyzsh/ohmyzsh]: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.    
-    - [🌐Official Site](https://ohmyz.sh)
+  - [🌐Official Site](http://ethanschoonover.com/solarized)
+- [ohmyzsh/ohmyzsh][ohmyzsh/ohmyzsh]: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  
+  - [🌐Official Site](https://ohmyz.sh)
 - [FreedomBen/basic-ocp-demo][FreedomBen/basic-ocp-demo]: Sample app that can be easily deployed to OpenShift either as a training exercise or demonstration.
 - [Bugswriter/notflix][Bugswriter/notflix]: Notflix is a shell script to search and stream torrent.
 - [palera1n/palera1n][palera1n/palera1n]: iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [ax/apk.sh][ax/apk.sh]: apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [rails/docked][rails/docked]: Running Rails from Docker for easy start to development
 
-
-
-
 ---
+
 ## Powershell
+
 - [MicrosoftDocs/azure-docs][MicrosoftDocs/azure-docs]: Open source documentation of Microsoft Azure
-    - [🌐Official Site](https://docs.microsoft.com/azure)
+  - [🌐Official Site](https://docs.microsoft.com/azure)
 - [Azure/azure-quickstart-templates][Azure/azure-quickstart-templates]: Azure Quickstart Templates
-    - [🌐Official Site](https://aka.ms/azqst)     
+  - [🌐Official Site](https://aka.ms/azqst)   
 - [H4de5-7/powershell-obfuscation][H4de5-7/powershell-obfuscation]: powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
 - [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.
-    - [🌐Official Site](https://atlasos.net)
-
+  - [🌐Official Site](https://atlasos.net)
 
 ---
+
 ## TeX
+
 - [posquit0/Awesome-CV][posquit0/Awesome-CV]: 📄 Awesome CV is LaTeX template for your outstanding job application
 
-
 ---
+
 ## CSS/Images
+
 - [badges/shields][badges/shields]: Concise, consistent, and legible badges in SVG and raster format
-    - [🌐Official Site](https://shields.io)
+  - [🌐Official Site](https://shields.io)
 - [simple-icons/simple-icons][simple-icons/simple-icons]: SVG icons for popular brands
-    - [🌐Official Site](https://simpleicons.org)
+  - [🌐Official Site](https://simpleicons.org)
 - [FortAwesome/Font-Awesome][FortAwesome/Font-Awesome]: The iconic SVG, font, and CSS toolkit
-    - [🌐Official Site](https://fontawesome.com)
+  - [🌐Official Site](https://fontawesome.com)
 - [twbs/icons][twbs/icons]: Official open source SVG icon library for Bootstrap.
-    - [🌐Official Site](https://icons.getbootstrap.com)
+  - [🌐Official Site](https://icons.getbootstrap.com)
 - [google/material-design-icons][google/material-design-icons]: Material Design icons by Google
-    - [🌐Official Site](http://google.github.io/material-design-icons)
+  - [🌐Official Site](http://google.github.io/material-design-icons)
 - [Ileriayo/markdown-badges][Ileriayo/markdown-badges]: Badges for your personal developer branding, profile, and projects.
-    - [🌐Official Site](https://ileriayo.github.io/markdown-badges)
+  - [🌐Official Site](https://ileriayo.github.io/markdown-badges)
 - [n3r4zzurr0/svg-spinners][n3r4zzurr0/svg-spinners]: A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
 - [tailwindlabs/heroicons][tailwindlabs/heroicons]: A set of free MIT-licensed high-quality SVG icons for UI development.
-    - [🌐Official Site](https://heroicons.com)
+  - [🌐Official Site](https://heroicons.com)
 - [upptime/upptime][upptime/upptime]: ⬆️ Free uptime monitor and status page powered by GitHub
-    - [🌐Official Site](https://upptime.louislam/uptime-kuma]: A fancy self-hosted monitoring tool
-    - [🌐Official Site](https://uptime.kuma.pet)
+  - [🌐Official Site](https://upptime.louislam/uptime-kuma]: A fancy self-hosted monitoring tool
+  - [🌐Official Site](https://uptime.kuma.pet)
 - [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native. 
-    - [🌐Official Site](http://airbnb.io/lottie)
+  - [🌐Official Site](http://airbnb.io/lottie)
 
 <TagLinks />
 
@@ -756,6 +780,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [novuhq/novu]: https://github.com/novuhq/novu
 [timqian/chinese-independent-blogs]: https://github.com/timqian/chinese-independent-blogs
 [zlib-searcher/zlib-searcher]: https://github.com/zlib-searcher/zlib-searcher
+[lensapp/lens]: https://github.com/lensapp/lens
+[MuhammedKalkan/OpenLens]: https://github.com/MuhammedKalkan/OpenLens
+[appsmithorg/appsmith]: https://github.com/appsmithorg/appsmith
+[gluon-framework/gluon]: https://github.com/gluon-framework/gluon
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -792,6 +820,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [karpathy/nanoGPT]: https://github.com/karpathy/nanoGPT
 [neonbjb/tortoise-tts]: https://github.com/neonbjb/tortoise-tts
 [jerryjliu/gpt_index]: https://github.com/jerryjliu/gpt_index
+[Z4nzu/hackingtool]: https://github.com/Z4nzu/hackingtool
+[microsoft/pyright]: https://github.com/microsoft/pyright
+[ThioJoe/Auto-Synced-Translated-Dubs]: https://github.com/ThioJoe/Auto-Synced-Translated-Dubs
+[tobymao/sqlglot]: https://github.com/tobymao/sqlglot
+[bigscience-workshop/petals]: https://github.com/bigscience-workshop/petals
+[ray-project/ray]: https://github.com/ray-project/ray
+[Azure/azure-sdk-for-python]: https://github.com/Azure/azure-sdk-for-python
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -822,6 +857,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [zinclabs/zinc]: https://github.com/zinclabs/zinc
 [google/osv-scanner]: https://github.com/google/osv-scanner
 [alist-org/alist]: https://github.com/alist-org/alist
+[adhocteam/pushup]: https://github.com/adhocteam/pushup
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix

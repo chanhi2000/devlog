@@ -19,37 +19,47 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [MunGell/awesome-for-beginners][MunGell/awesome-for-beginners]: A list of awesome beginners-friendly projects.
 - [Bogdanp/awesome-advent-of-code][Bogdanp/awesome-advent-of-code]: A collection of awesome resources related to the yearly Advent of Code challenge.
 - [bear2u/awesome-rxjava][bear2u/awesome-rxjava]: RxJava 개발자 오픈 채팅방
-    - [🌐Official Site](https://open.kakao.com/o/gG98jsA)
+  - [🌐Official Site](https://open.kakao.com/o/gG98jsA)
 - [jkup/awesome-personal-blogs][jkup/awesome-personal-blogs]: A delightful list of personal tech blogs
 - [awesome-selfhosted/awesome-selfhosted][awesome-selfhosted/awesome-selfhosted]: A list of Free Software network services and web applications which can be hosted on your own servers
-    - [🌐Official Site](https://reddit.com/r/selfhosted)
+  - [🌐Official Site](https://reddit.com/r/selfhosted)
 - [meysamhadeli/awesome-dotnet-tips][meysamhadeli/awesome-dotnet-tips]: A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [getActivity/AndroidGithubBoss][getActivity/AndroidGithubBoss]: Github Android 国内个人技术排行榜
 - [stefanbuck/awesome-browser-extensions-for-github][stefanbuck/awesome-browser-extensions-for-github]: A collection of awesome browser extensions for GitHub.
-    - [🌐Official Site](https://stefanbuck.com/awesome-browser-extensions-for-github)
+  - [🌐Official Site](https://stefanbuck.com/awesome-browser-extensions-for-github)
 - [Igglybuff/awesome-piracy][Igglybuff/awesome-piracy]: A curated list of awesome warez and piracy links
 - [decalage2/awesome-security-hardening][decalage2/awesome-security-hardening]: A collection of awesome security hardening guides, tools and other resources
 - [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]: 
 - [hsavit1/Awesome-Swift-Education][hsavit1/Awesome-Swift-Education]: 🔥 Learn some Swift
 - [doocs/leetcode][doocs/leetcode]: 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-    - [🌐Official Site](https://doocs.github.io/leetcode)
+  - [🌐Official Site](https://doocs.github.io/leetcode)
 - [vuepress/awesome-vuepress][vuepress/awesome-vuepress]: 🎉 A curated list of awesome things related to VuePress
 - [trinib/Linux-Bash-Commands][trinib/Linux-Bash-Commands]: :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [macrozheng/springcloud-learning][macrozheng/springcloud-learning]: 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
-    - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
+  - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
 - [shubhamgrg04/awesome-diagramming][shubhamgrg04/awesome-diagramming]: A curated collection of diagramming tools used by leading software engineering teams
 - [sesang06/awesome-alternative-military-service][sesang06/awesome-alternative-military-service]: 정보처리 산업기능요원을 위한 쓸만한 정보들
 - [ila/TUM][ila/TUM]: Notes, material and various stuff collected while attended TUM Master's Degree
 - [krahets/hello-algo][krahets/hello-algo]: 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书
-    - [🌐Official Site](https://hello-algo.com)
+  - [🌐Official Site](https://hello-algo.com)
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [visenger/awesome-mlops][visenger/awesome-mlops]: A curated list of references for MLOps
-    - [🌐Official Site](https://ml-ops.org)
+  - [🌐Official Site](https://ml-ops.org)
 - [labmlai/annotated_deep_learning_paper_implementations][labmlai/annotated_deep_learning_paper_implementations]: 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-    - [🌐Official Site](https://nn.labml.ai)
+  - [🌐Official Site](https://nn.labml.ai)
 - [gabiduarte/awesome-techleads][gabiduarte/awesome-techleads]: Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português
 - [A-poc/RedTeam-Tools][A-poc/RedTeam-Tools]: Tools and Techniques for Red Team / Penetration Testing
 - [imDazui/Tvlist-awesome-m3u-m3u8][imDazui/Tvlist-awesome-m3u-m3u8]: 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+- [vinta/awesome-python][vinta/awesome-python]: A curated list of awesome Python frameworks, libraries, software and resources
+  - [🌐Official Site](https://awesome-python.com)
+- [sadanandpai/frontend-learning-kit][sadanandpai/frontend-learning-kit]: Frontend tech guide and curated collection of frontend materials
+- [mouredev/retos-programacion-2023][mouredev/retos-programacion-2023]: Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.
+  - [🌐Official Site](https://retosdeprogramacion.com/semanales2023)
+- [jahidulislamzim/JavaScriptCodingChallenges][jahidulislamzim/JavaScriptCodingChallenges]: Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.
+  - [🌐Official Site](https://jahidulislamzim.netlify.app)
+- [DataTalksClub/data-engineering-zoomcamp][DataTalksClub/data-engineering-zoomcamp]: Free Data Engineering course!
+
+
 
 
 
@@ -57,16 +67,21 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 ## Free Books
 - [dariubs/GoBooks][dariubs/GoBooks]
 - [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]: 📚 Freely available programming books
-    - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
+  - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
 - [gurugio/book_assembly_8086_ko][gurugio/book_assembly_8086_ko]
 - [hehonghui/awesome-english-ebooks][hehonghui/awesome-english-ebooks]: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+
+
 
 ---
 ## Roadmap
 - [kamranahmedse/developer-roadmap][kamranahmedse/developer-roadmap]
-    - [🌐Official Site](https://roadmap.sh/)
+  - [🌐Official Site](https://roadmap.sh)
 - [skydoves/android-developer-roadmap][skydoves/android-developer-roadmap]
 - [MoienTajik/AspNetCore-Developer-Roadmap][MoienTajik/AspNetCore-Developer-Roadmap]: Roadmap to becoming an ASP.NET Core developer in 2022
+- [easychen/stack-roadmap][easychen/stack-roadmap]: 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
+  - [🌐Official Site](http://road.ftqq.com)
+- [rmcelreath/stat_rethinking_2023][rmcelreath/stat_rethinking_2023]: Statistical Rethinking Course for Jan-Mar 2023
 
 
 <TagLinks />
@@ -103,6 +118,11 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [gabiduarte/awesome-techleads]: https://github.com/gabiduarte/awesome-techleads
 [A-poc/RedTeam-Tools]: https://github.com/A-poc/RedTeam-Tools
 [imDazui/Tvlist-awesome-m3u-m3u8]: https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+[vinta/awesome-python]: https://github.com/vinta/awesome-python
+[sadanandpai/frontend-learning-kit]: https://github.com/sadanandpai/frontend-learning-kit
+[mouredev/retos-programacion-2023]: https://github.com/mouredev/retos-programacion-2023
+[jahidulislamzim/JavaScriptCodingChallenges]: https://github.com/jahidulislamzim/JavaScriptCodingChallenges
+[DataTalksClub/data-engineering-zoomcamp]: https://github.com/DataTalksClub/data-engineering-zoomcamp
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books
@@ -112,3 +132,5 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [kamranahmedse/developer-roadmap]: https://github.com/kamranahmedse/developer-roadmap
 [skydoves/android-developer-roadmap]: https://github.com/skydoves/android-developer-roadmap
 [MoienTajik/AspNetCore-Developer-Roadmap]: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+[easychen/stack-roadmap]: https://github.com/easychen/stack-roadmap
+[rmcelreath/stat_rethinking_2023]: https://github.com/rmcelreath/stat_rethinking_2023

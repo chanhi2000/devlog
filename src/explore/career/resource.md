@@ -10,17 +10,21 @@ tags: ["career", "hiring", "resource", "salary", "interview", "computer-science"
 [[toc]]
 
 ---
+
 ## Opinion
+
 - [blog.shiren.dev/2020-11-23][blog.shiren.dev/2020-11-23]: 누구나 원하는 개발자되기
 - [velog-@hygoogi][velog-@hygoogi]: 기술 면접 질문 모음
 
-
 ---
+
 ## To-Go
+
 - [heding][heding]: 더라이징스타헤딩
 
 
 ---
+
 ## Tools
 
 - [salary-calculator][salary-calculator]: 연봉계산기

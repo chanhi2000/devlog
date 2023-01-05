@@ -10,6 +10,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [[toc]]
 
 ---
+
 ## Coding Tech
 
 [Coding Tech][yu-coding-tech]
@@ -24,6 +25,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 :::
 
 ---
+
 ## TalkIT
 
 [TalkIT][yu-talk-it]
@@ -93,5 +95,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [yu-coding-tech]: https://www.youtube.com/@CodingTech
 [yu-bejs]: https://www.youtube.com/@BeJScommunity
 [yu-talk-it]: https://www.youtube.com/@Talkitonair
+[yu-kotlin-by-jetbrains]: https://www.youtube.com/@Kotlin
+[yu-intellij-idea-by-jetbrains]: https://www.youtube.com/@intellijidea
 [yu-gradle]: https://www.youtube.com/@GradleInc
 [yu-code-on-the-beach]: https://www.youtube.com/@codeonthebeach

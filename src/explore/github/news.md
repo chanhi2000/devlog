@@ -10,6 +10,7 @@ tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 [[toc]]
 
 ---
+
 ## 일반
 
 ### Korea
@@ -19,12 +20,14 @@ tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 - [sjjeong/ios-tech-spec-in-korea-company][sjjeong/ios-tech-spec-in-korea-company]: 한국에서 iOS앱을 개발하는 회사의 iOS 기술 스펙을 아카이브합니다
 
 ### Overseas
+
 - [GitHubDaily/GitHubDaily][GitHubDaily/GitHubDaily]: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [papers-we-love/papers-we-love][papers-we-love/papers-we-love]: Papers from the computer science community to read and discuss.
-     - [🌐Official Site](http://paperswelove.org)
+  - [🌐Official Site](http://paperswelove.org)
 - [ascoders/weekly][ascoders/weekly]: 前端精读周刊。帮你理解最前沿、实用的技术。
 
 ---
+
 ## Hiring 관련
 
 ### Korea
@@ -36,9 +39,9 @@ tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 - [poteto/hiring-without-whiteboards][poteto/hiring-without-whiteboards]
 - [Ebazhanov/linkedin-skill-assessments-quizzes][Ebazhanov/linkedin-skill-assessments-quizzes]: About
 Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
-    - [Official Site](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes)
+  - [Official Site](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes)
 - [yangshun/tech-interview-handbook][yangshun/tech-interview-handbook]: 💯 Curated coding interview preparation materials for busy software engineers
-    - [Official Site](https://www.techinterviewhandbook.org)
+  - [Official Site](https://www.techinterviewhandbook.org)
 
 <TagLinks />
 
