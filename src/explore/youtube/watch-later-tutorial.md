@@ -143,7 +143,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [Sonny Sangha][yu-SonnySangha]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=0uN7O-H9gds"><img width="140px" height="auto" alt="thumb-0uN7O-H9gds" src="https://i.ytimg.com/vi/0uN7O-H9gds/hqdefault.jpg"/></a> | [Let’s build a Solana NFT Gated website in 30 Minutes (Next.js, Thirdweb, Tailwind CSS)](https://www.youtube.com/watch?v=0uN7O-H9gds) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
@@ -327,7 +326,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [Kevin Powell][yu-kevin-powell]
 
 ::: details 목록
-
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=ctHE8EXEoj8"><img width="140px" height="auto" alt="thumb-ctHE8EXEoj8" src="https://i.ytimg.com/vi/ctHE8EXEoj8/hqdefault.jpg"/></a> | [Why I use grid over flexbox for this common layout](https://www.youtube.com/watch?v=ctHE8EXEoj8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
@@ -350,6 +348,46 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=c5F1QSN7LRo"><img width="140px" height="auto" alt="thumb-c5F1QSN7LRo" src="https://i.ytimg.com/vi/c5F1QSN7LRo/hqdefault.jpg"/></a> | [Sass (SCSS): Nesting (네스팅) 추가 내용](https://www.youtube.com/watch?v=c5F1QSN7LRo) <br/><br/> _[DEvS][yu-DEvS]_ |
 
 :::
+
+---
+
+## FENRIR
+
+[FENRIR][yu-fenrir]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+\[해킹\]xerosploit 으로 도스 공격해보기(dos)\[해킹\]xerosploit 으로 도스 공격해보기(dos)
+7_MYowocn4s
+
+\[해킹\]중간자공격!! 피해자가 다운로드 하는파일을 악성코드로 바꿔치기
+1sFJ_qq5I_o
+
+\[해킹\]라우터 로그인 아이디패스워드 해킹하기(ettercap)
+k-2Nm_TDCSA
+
+\[해킹\]중간자공격 으로 E메일 계정 해킹 하기
+QiMzFgTL0Go
+
+\[인스톨\]자동으로 취약점을 찾아내는 nessus 1편(설치 방법)
+gFK6N59-kOs
+
+\[해킹\]자동으로 취약점을 찾아내는 nessus 2편(사용 방법)
+QqtQ9NVETkk
+
+\[해킹\]망가진 베일(Veil-Evasion)을 고쳐봅시다...(Pyinstaller fix)
+rr3520OXo7g
+
+\[해킹\]MyJsRat으로 자바스크립트 백도어 만들기
+mugWbbPql7w
+
+\[인스톨\]mitmf 설치 방법 그리고 망가진 mitmf 고치는 방법 :)
+XyHD94w7HMY
+
+:::
+
 
 
 --- 
@@ -379,6 +417,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 [yu-simplilearn]: https://www.youtube.com/@SimplilearnOfficial
 [yu-not-just-dev]: https://www.youtube.com/@notjustdev
 [yu-DEvS]: https://www.youtube.com/@jimmykimu
+[yu-fenrir]: https://www.youtube.com/@KERBEROSJOO
 [yu-kevin-powell]: https://www.youtube.com/watch?v=u0HTvSXNJmE&list=WL&index=41
 [yu-derek-banas]: https://www.youtube.com/@derekbanas
 [yu-omer-java]: https://www.youtube.com/@omerjava

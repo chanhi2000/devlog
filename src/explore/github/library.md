@@ -317,6 +317,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://www.appsmith.com)
 - [gluon-framework/gluon][gluon-framework/gluon]: A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
   - [🌐Official Site](https://gluonjs.org)
+- [desktop/desktop][desktop/desktop]: Focus on what matters instead of fighting with Git.
+    - [🌐Official Site](https://desktop.github.com)
 
 ---
 
@@ -441,6 +443,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [adhocteam/pushup][adhocteam/pushup]: Pushup is for making modern, page-oriented web apps in Go
   - [🌐Official Site](https://pushup.adhoc.dev)
 
+
 ---
 
 ## Rust
@@ -464,6 +467,34 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [o2sh/onefetch][o2sh/onefetch]: Command-line Git information tool
   - [🌐Official Site](https://onefetch.dev)
 - [lencx/ChatGPT][lencx/ChatGPT]: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lapce/lapce][lapce/lapce]: Lightning-fast and Powerful Code Editor written in Rust
+  - [🌐Official Site](http://lapce.dev)
+- [RustPython/RustPython][RustPython/RustPython]: A Python Interpreter written in Rust
+  - [🌐Official Site](https://rustpython.github.io)
+- [naaive/orange][naaive/orange]: Cross-platform local file search engine.
+  - [🌐Official Site](https://0-range.github.io)
+- [apache/arrow-datafusion][apache/arrow-datafusion]: Apache Arrow DataFusion SQL Query Engine
+  - [🌐Official Site](https://arrow.apache.org/datafusion)
+- [rustdesk/rustdesk][rustdesk/rustdesk]: Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+  - [🌐Official Site](https://rustdesk.com)
+- [SergioBenitez/Rocket][SergioBenitez/Rocket]: A web framework for Rust.
+  - [🌐Official Site](https://rocket.rs)
+- [meilisearch/meilisearch][meilisearch/meilisearch]: A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+  - [🌐Official Site](https://www.meilisearch.com)
+- [EAimTY/tuic][EAimTY/tuic]: Delicately-TUICed high-performance proxy built on top of the QUIC protocol
+- [aptos-labs/aptos-core][aptos-labs/aptos-core]: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  - [🌐Official Site](https://aptoslabs.com)
+- [tokio-rs/axum][tokio-rs/axum]: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [bevyengine/bevy][bevyengine/bevy]: A refreshingly simple data-driven game engine built in Rust
+  - [🌐Official Site](https://bevyengine.org)
+- [AleoHQ/snarkOS][AleoHQ/snarkOS]: A Decentralized Operating System for ZK Applications
+  - [🌐Official Site](http://snarkos.org)
+- [facebook/sapling][facebook/sapling]: A Scalable, User-Friendly Source Control System.
+  - [🌐Official Site](https://sapling-scm.com)
+- [MirrorX-Desktop/MirrorX][MirrorX-Desktop/MirrorX]: Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
+  - [🌐Official Site](https://mirrorx.app)
+- [linebender/xilem][linebender/xilem]: An experimental Rust native UI framework
+
 
 ---
 
@@ -584,6 +615,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 ## TeX
 
 - [posquit0/Awesome-CV][posquit0/Awesome-CV]: 📄 Awesome CV is LaTeX template for your outstanding job application
+
+---
+
+## DevOps
+
+- [vulhub/vulhub][vulhub/vulhub]: Pre-Built Vulnerable Environments Based on Docker-Compose
+  - [🌐Official Site](https://vulhub.org)
 
 ---
 
@@ -784,6 +822,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [MuhammedKalkan/OpenLens]: https://github.com/MuhammedKalkan/OpenLens
 [appsmithorg/appsmith]: https://github.com/appsmithorg/appsmith
 [gluon-framework/gluon]: https://github.com/gluon-framework/gluon
+[desktop/desktop]: https://github.com/desktop/desktop
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -873,6 +912,21 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [Spotifyd/spotifyd]: https://github.com/Spotifyd/spotifyd
 [o2sh/onefetch]: https://github.com/o2sh/onefetch
 [lencx/ChatGPT]: https://github.com/lencx/ChatGPT
+[lapce/lapce]: https://github.com/lapce/lapce
+[RustPython/RustPython]: https://github.com/RustPython/RustPython
+[naaive/orange]: https://github.com/naaive/orange
+[apache/arrow-datafusion]: https://github.com/apache/arrow-datafusion
+[rustdesk/rustdesk]: https://github.com/rustdesk/rustdesk
+[SergioBenitez/Rocket]: https://github.com/SergioBenitez/Rocket
+[meilisearch/meilisearch]: https://github.com/meilisearch/meilisearch
+[EAimTY/tuic]: https://github.com/EAimTY/tuic
+[aptos-labs/aptos-core]: https://github.com/aptos-labs/aptos-core
+[tokio-rs/axum]: https://github.com/tokio-rs/axum
+[bevyengine/bevy]: https://github.com/bevyengine/bevy
+[AleoHQ/snarkOS]: https://github.com/AleoHQ/snarkOS
+[facebook/sapling]: https://github.com/facebook/sapling
+[MirrorX-Desktop/MirrorX]: https://github.com/MirrorX-Desktop/MirrorX
+[linebender/xilem]: https://github.com/linebender/xilem
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -933,6 +987,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
+<!-- DevOps -->
+[vulhub/vulhub]: https://github.com/vulhub/vulhub
 <!-- CSS/Images -->
 [badges/shields]: https://github.com/badges/shields
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md

@@ -21,6 +21,9 @@ function getDocsNavBar(item) {
               'youtube/watch-later',
               'youtube/watch-later-tutorial',
               'youtube/watch-later-keynote',
+              'youtube/edu-linux',
+              'youtube/edu-java',
+              'youtube/edu-c+cpp',
             ]
           }, {
             title: '🎓Tutorial',
