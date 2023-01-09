@@ -1,0 +1,276 @@
+---
+lang: ko-KR
+title: Education (Linux)
+description: 📺Youtube > Education (Linux)
+tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubuntu"]
+---
+
+# {{ $frontmatter.description }} 관련
+
+[[toc]]
+
+---
+
+## Linux Leech
+
+
+
+::: details BASH Shell tutorials for beginners
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=sqYUYHn-HKg"><img width="140px" height="auto" alt="thumb-sqYUYHn-HKg" src="https://i.ytimg.com/vi/sqYUYHn-HKg/hqdefault.jpg"/></a> | [BASH Shell commands `pwd` ( commands for linux )](https://www.youtube.com/watch?v=sqYUYHn-HKg) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rWJrWWOpTkE"><img width="140px" height="auto" alt="thumb-rWJrWWOpTkE" src="https://i.ytimg.com/vi/rWJrWWOpTkE/hqdefault.jpg"/></a> | [BASH Shell command `ls` ( commands for linux )](https://www.youtube.com/watch?v=rWJrWWOpTkE) <br/><br/> _[프리렉][yu-freeleckor]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=L8fD7KS9fGA"><img width="140px" height="auto" alt="thumb-L8fD7KS9fGA" src="https://i.ytimg.com/vi/L8fD7KS9fGA/hqdefault.jpg"/></a> | [BASH Shell commands `cd` ( commands for linux )](https://www.youtube.com/watch?v=L8fD7KS9fGA) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=SDuNvlmTQS8"><img width="140px" height="auto" alt="thumb-SDuNvlmTQS8" src="https://i.ytimg.com/vi/SDuNvlmTQS8/hqdefault.jpg"/></a> | [BASH Shell commands `cat` ( commands for linux )](https://www.youtube.com/watch?v=SDuNvlmTQS8) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=dXxBJ94D_0g"><img width="140px" height="auto" alt="thumb-dXxBJ94D_0g" src="https://i.ytimg.com/vi/dXxBJ94D_0g/hqdefault.jpg"/></a> | [BASH Shell commands `redirection` ( commands for linux )](https://www.youtube.com/watch?v=dXxBJ94D_0g) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1v6bAz3Spg4"><img width="140px" height="auto" alt="thumb-1v6bAz3Spg4" src="https://i.ytimg.com/vi/1v6bAz3Spg4/hqdefault.jpg"/></a> | [BASH Shell commands `mkdir` ( commands for linux )](https://www.youtube.com/watch?v=1v6bAz3Spg4) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=BRkhwBexCuM"><img width="140px" height="auto" alt="thumb-BRkhwBexCuM" src="https://i.ytimg.com/vi/BRkhwBexCuM/hqdefault.jpg"/></a> | [BASH Shell commands `rm` and `rmdir` ( commands for linux )](https://www.youtube.com/watch?v=BRkhwBexCuM) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5YgIflLST4Q"><img width="140px" height="auto" alt="thumb-5YgIflLST4Q" src="https://i.ytimg.com/vi/5YgIflLST4Q/hqdefault.jpg"/></a> | [BASH Shell commands `redirection` ( commands for linux )](https://www.youtube.com/watch?v=5YgIflLST4Q) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5YgIflLST4Q"><img width="140px" height="auto" alt="thumb-5YgIflLST4Q" src="https://i.ytimg.com/vi/5YgIflLST4Q/hqdefault.jpg"/></a> | [BASH Shell commands `cp` ( commands for linux )](https://www.youtube.com/watch?v=5YgIflLST4Q) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Uox5X8O2Pdk"><img width="140px" height="auto" alt="thumb-Uox5X8O2Pdk" src="https://i.ytimg.com/vi/Uox5X8O2Pdk/hqdefault.jpg"/></a> | [BASH Shell commands `mv` ( commands for linux )](https://www.youtube.com/watch?v=Uox5X8O2Pdk) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZQTt0LEoj3k"><img width="140px" height="auto" alt="thumb-ZQTt0LEoj3k" src="https://i.ytimg.com/vi/ZQTt0LEoj3k/hqdefault.jpg"/></a> | [BASH Shell commands `less` ( commands for linux )](https://www.youtube.com/watch?v=ZQTt0LEoj3k) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=E-SPhtL-jTM"><img width="140px" height="auto" alt="thumb-E-SPhtL-jTM" src="https://i.ytimg.com/vi/E-SPhtL-jTM/hqdefault.jpg"/></a> | [BASH Shell commands `file` ( commands for linux )](https://www.youtube.com/watch?v=E-SPhtL-jTM) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=lV3npHBt1xA"><img width="140px" height="auto" alt="thumb-lV3npHBt1xA" src="https://i.ytimg.com/vi/lV3npHBt1xA/hqdefault.jpg"/></a> | [BASH Shell commands dealing with spaces commands for linux](https://www.youtube.com/watch?v=lV3npHBt1xA) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=FqrYjWN0TZ0"><img width="140px" height="auto" alt="thumb-FqrYjWN0TZ0" src="https://i.ytimg.com/vi/FqrYjWN0TZ0/hqdefault.jpg"/></a> | [BASH Shell commands wildcards ( commands for Linux )](https://www.youtube.com/watch?v=FqrYjWN0TZ0) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=QrkH-xwh1fI"><img width="140px" height="auto" alt="thumb-QrkH-xwh1fI" src="https://i.ytimg.com/vi/QrkH-xwh1fI/hqdefault.jpg"/></a> | [BASH Shell commands wildcard character classes ( commands for linux )](https://www.youtube.com/watch?v=QrkH-xwh1fI) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AB8FaKP-KnA"><img width="140px" height="auto" alt="thumb-AB8FaKP-KnA" src="https://i.ytimg.com/vi/AB8FaKP-KnA/hqdefault.jpg"/></a> | [BASH Shell commands `head` ( commands for linux )](https://www.youtube.com/watch?v=AB8FaKP-KnA) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=9gSPo-9mLOs"><img width="140px" height="auto" alt="thumb-9gSPo-9mLOs" src="https://i.ytimg.com/vi/9gSPo-9mLOs/hqdefault.jpg"/></a> | [BASH shell commands pipes (commands for Linux)](https://www.youtube.com/watch?v=9gSPo-9mLOs) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=zxa94LLhLJI"><img width="140px" height="auto" alt="thumb-zxa94LLhLJI" src="https://i.ytimg.com/vi/zxa94LLhLJI/hqdefault.jpg"/></a> | [BASH Shell commands `sort` ( commands for linux )](https://www.youtube.com/watch?v=zxa94LLhLJI) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=VRrd9ErU13w"><img width="140px" height="auto" alt="thumb-VRrd9ErU13w" src="https://i.ytimg.com/vi/VRrd9ErU13w/hqdefault.jpg"/></a> | [Uniq utility (commands for linux)](https://www.youtube.com/watch?v=VRrd9ErU13w) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=zat6vY48sro"><img width="140px" height="auto" alt="thumb-zat6vY48sro" src="https://i.ytimg.com/vi/zat6vY48sro/hqdefault.jpg"/></a> | [Tail utility. Commands for linux](https://www.youtube.com/watch?v=zat6vY48sro) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=VjAbnVpklww"><img width="140px" height="auto" alt="thumb-VjAbnVpklww" src="https://i.ytimg.com/vi/VjAbnVpklww/hqdefault.jpg"/></a> | [Share files from your terminal in linux using `woof`](https://www.youtube.com/watch?v=VjAbnVpklww) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=SeGGfw3Vo7w"><img width="140px" height="auto" alt="thumb-SeGGfw3Vo7w" src="https://i.ytimg.com/vi/SeGGfw3Vo7w/hqdefault.jpg"/></a> | [How to use your trash can from the command line](https://www.youtube.com/watch?v=SeGGfw3Vo7w) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=OOhrUcm0Chc"><img width="140px" height="auto" alt="thumb-OOhrUcm0Chc" src="https://i.ytimg.com/vi/OOhrUcm0Chc/hqdefault.jpg"/></a> | [Linux file permissions explained. symbolic permissions and `chmod` - part 1](https://www.youtube.com/watch?v=OOhrUcm0Chc) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=481qUGt8pe4"><img width="140px" height="auto" alt="thumb-481qUGt8pe4" src="https://i.ytimg.com/vi/481qUGt8pe4/hqdefault.jpg"/></a> | [Linux permissions explained - part 2 directory permissions](https://www.youtube.com/watch?v=481qUGt8pe4) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=nd2OJEFMdho"><img width="140px" height="auto" alt="thumb-nd2OJEFMdho" src="https://i.ytimg.com/vi/nd2OJEFMdho/hqdefault.jpg"/></a> | [Linux permissions explained part 3 - octal and numerical permissions](https://www.youtube.com/watch?v=nd2OJEFMdho) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=VOOeXV4HYSA"><img width="140px" height="auto" alt="thumb-VOOeXV4HYSA" src="https://i.ytimg.com/vi/VOOeXV4HYSA/hqdefault.jpg"/></a> | [Backticks Command Substitution in Linux](https://www.youtube.com/watch?v=VOOeXV4HYSA) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=T6C8sPB3pek"><img width="140px" height="auto" alt="thumb-T6C8sPB3pek" src="https://i.ytimg.com/vi/T6C8sPB3pek/hqdefault.jpg"/></a> | [Nesting Backticks Linux Command Substitution](https://www.youtube.com/watch?v=T6C8sPB3pek) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hMGHqDz6fPc"><img width="140px" height="auto" alt="thumb-hMGHqDz6fPc" src="https://i.ytimg.com/vi/hMGHqDz6fPc/hqdefault.jpg"/></a> | [Linux command substitution and nested substitution](https://www.youtube.com/watch?v=hMGHqDz6fPc) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=J8nGqkUJMxU"><img width="140px" height="auto" alt="thumb-J8nGqkUJMxU" src="https://i.ytimg.com/vi/J8nGqkUJMxU/hqdefault.jpg"/></a> | [How to use aliases in BASH](https://www.youtube.com/watch?v=J8nGqkUJMxU) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=UBzFWyUF77s"><img width="140px" height="auto" alt="thumb-UBzFWyUF77s" src="https://i.ytimg.com/vi/UBzFWyUF77s/hqdefault.jpg"/></a> | [How to save your BASH aliases](https://www.youtube.com/watch?v=UBzFWyUF77s) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=YU4pP3cKl7w"><img width="140px" height="auto" alt="thumb-YU4pP3cKl7w" src="https://i.ytimg.com/vi/YU4pP3cKl7w/hqdefault.jpg"/></a> | [How to Redirect Terminal Output to Another Terminal](https://www.youtube.com/watch?v=YU4pP3cKl7w) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ljgvo2jM234"><img width="140px" height="auto" alt="thumb-ljgvo2jM234" src="https://i.ytimg.com/vi/ljgvo2jM234/hqdefault.jpg"/></a> | [CRON - task scheduling in linux](https://www.youtube.com/watch?v=ljgvo2jM234) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WqDUCfU-e-A"><img width="140px" height="auto" alt="thumb-WqDUCfU-e-A" src="https://i.ytimg.com/vi/WqDUCfU-e-A/hqdefault.jpg"/></a> | [How to update BIOS using Linux](https://www.youtube.com/watch?v=WqDUCfU-e-A) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=I4xVn6Io5Nw"><img width="140px" height="auto" alt="thumb-I4xVn6Io5Nw" src="https://i.ytimg.com/vi/I4xVn6Io5Nw/hqdefault.jpg"/></a> | [How to use GNU SCREEN - the Terminal Multiplexer - linux](https://www.youtube.com/watch?v=I4xVn6Io5Nw) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3S3I9lT6eKE"><img width="140px" height="auto" alt="thumb-3S3I9lT6eKE" src="https://i.ytimg.com/vi/3S3I9lT6eKE/hqdefault.jpg"/></a> | [How to keep processes running over SSH without being connected - using GNU screen](https://www.youtube.com/watch?v=3S3I9lT6eKE) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XVH5uyTt78M"><img width="140px" height="auto" alt="thumb-XVH5uyTt78M" src="https://i.ytimg.com/vi/XVH5uyTt78M/hqdefault.jpg"/></a> | [How to Close CRASHED or FROZEN APPS - linux](https://www.youtube.com/watch?v=XVH5uyTt78M) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=E_wqHbtpiQw"><img width="140px" height="auto" alt="thumb-E_wqHbtpiQw" src="https://i.ytimg.com/vi/E_wqHbtpiQw/hqdefault.jpg"/></a> | [Use a Mouse with GNU Screen Terminal Multiplexer - Commands for Linux](https://www.youtube.com/watch?v=E_wqHbtpiQw) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Lm1sYHs3-bo"><img width="140px" height="auto" alt="thumb-Lm1sYHs3-bo" src="https://i.ytimg.com/vi/Lm1sYHs3-bo/hqdefault.jpg"/></a> | [How to detach from gnu linux screen](https://www.youtube.com/watch?v=Lm1sYHs3-bo) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=kxpf-mJudO4"><img width="140px" height="auto" alt="thumb-kxpf-mJudO4" src="https://i.ytimg.com/vi/kxpf-mJudO4/hqdefault.jpg"/></a> | [How to Empty Trash that Won't Delete - linux](https://www.youtube.com/watch?v=kxpf-mJudO4) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=oUoGAxWrvng"><img width="140px" height="auto" alt="thumb-oUoGAxWrvng" src="https://i.ytimg.com/vi/oUoGAxWrvng/hqdefault.jpg"/></a> | [How to Take Screenshots Linux - gnome-screenshot](https://www.youtube.com/watch?v=oUoGAxWrvng) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bTbDxaGo4tA"><img width="140px" height="auto" alt="thumb-bTbDxaGo4tA" src="https://i.ytimg.com/vi/bTbDxaGo4tA/hqdefault.jpg"/></a> | [How to Split Screen your Terminal using GNU Screen](https://www.youtube.com/watch?v=bTbDxaGo4tA) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
+
+:::
+
+---
+## 스무디tv
+
+[스무디tv][yu-tmanelshrghk]
+
+::: details 리눅스 / Kali Linux
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=YlHzNfxLFuI"><img width="140px" height="auto" alt="thumb-YlHzNfxLFuI" src="https://i.ytimg.com/vi/YlHzNfxLFuI/hqdefault.jpg"/></a> | [\[스무디\] 리눅스란? 리눅스 종류.](https://www.youtube.com/watch?v=YlHzNfxLFuI) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=e-6drBDnTxA"><img width="140px" height="auto" alt="thumb-e-6drBDnTxA" src="https://i.ytimg.com/vi/e-6drBDnTxA/hqdefault.jpg"/></a> | [\[스무디\] 칼리리눅스 2.0 vmware에서 실행](https://www.youtube.com/watch?v=e-6drBDnTxA) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ub8W6AB54ag"><img width="140px" height="auto" alt="thumb-ub8W6AB54ag" src="https://i.ytimg.com/vi/ub8W6AB54ag/hqdefault.jpg"/></a> | [\[스무디\] 칼리리눅스 부팅 USB 만들기](https://www.youtube.com/watch?v=ub8W6AB54ag) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WUO-zY_SGj8"><img width="140px" height="auto" alt="thumb-WUO-zY_SGj8" src="https://i.ytimg.com/vi/WUO-zY_SGj8/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 멀티부팅 설치](https://www.youtube.com/watch?v=WUO-zY_SGj8) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3WdpHN3T_LE"><img width="140px" height="auto" alt="thumb-3WdpHN3T_LE" src="https://i.ytimg.com/vi/3WdpHN3T_LE/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 터미널에서 기본 명령어1](https://www.youtube.com/watch?v=3WdpHN3T_LE) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bOIboAsdgAw"><img width="140px" height="auto" alt="thumb-bOIboAsdgAw" src="https://i.ytimg.com/vi/bOIboAsdgAw/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 기본명령어2, 디렉토리구조](https://www.youtube.com/watch?v=bOIboAsdgAw) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=LKf2ZKfbJTc"><img width="140px" height="auto" alt="thumb-LKf2ZKfbJTc" src="https://i.ytimg.com/vi/LKf2ZKfbJTc/hqdefault.jpg"/></a> | [\[스무디\] 해커스쿨 ftz를 통해 리눅스 배우기 2](https://www.youtube.com/watch?v=LKf2ZKfbJTc) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=YMnPgBWyAcQ"><img width="140px" height="auto" alt="thumb-YMnPgBWyAcQ" src="https://i.ytimg.com/vi/YMnPgBWyAcQ/hqdefault.jpg"/></a> | [\[스무디\] 해커스쿨 ftz를 통해 리눅스 배우기 3](https://www.youtube.com/watch?v=YMnPgBWyAcQ) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=MMo7tHuRyaM"><img width="140px" height="auto" alt="thumb-MMo7tHuRyaM" src="https://i.ytimg.com/vi/MMo7tHuRyaM/hqdefault.jpg"/></a> | [\[스무디\] 해커스쿨 ftz를 통해 리눅스 배우기 5](https://www.youtube.com/watch?v=MMo7tHuRyaM) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EOzwB4W_GjI"><img width="140px" height="auto" alt="thumb-EOzwB4W_GjI" src="https://i.ytimg.com/vi/EOzwB4W_GjI/hqdefault.jpg"/></a> | [\[스무디\] 해커스쿨 ftz를 통해 리눅스 배우기 7](https://www.youtube.com/watch?v=EOzwB4W_GjI) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=mswEvrwa5BE"><img width="140px" height="auto" alt="thumb-mswEvrwa5BE" src="https://i.ytimg.com/vi/mswEvrwa5BE/hqdefault.jpg"/></a> | [\[스무디\] 해커스쿨 ftz를 통해 리눅스 배우기 8](https://www.youtube.com/watch?v=mswEvrwa5BE) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=44rGpE82Juw"><img width="140px" height="auto" alt="thumb-44rGpE82Juw" src="https://i.ytimg.com/vi/44rGpE82Juw/hqdefault.jpg"/></a> | [\[스무디\] 해커스쿨 ftz를 통해 리눅스 배우기 9](https://www.youtube.com/watch?v=44rGpE82Juw) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=CICY8T-bBwM"><img width="140px" height="auto" alt="thumb-CICY8T-bBwM" src="https://i.ytimg.com/vi/CICY8T-bBwM/hqdefault.jpg"/></a> | [\[스무디\] 해커스쿨 ftz를 통해 리눅스 배우기 10](https://www.youtube.com/watch?v=CICY8T-bBwM) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=eLI8fuD0k4M"><img width="140px" height="auto" alt="thumb-eLI8fuD0k4M" src="https://i.ytimg.com/vi/eLI8fuD0k4M/hqdefault.jpg"/></a> | [\[스무디\] 우분투 리눅스 vmware에 설치](https://www.youtube.com/watch?v=eLI8fuD0k4M) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=U9SQbbq8Kso"><img width="140px" height="auto" alt="thumb-U9SQbbq8Kso" src="https://i.ytimg.com/vi/U9SQbbq8Kso/hqdefault.jpg"/></a> | [\[스무디\] 우분투 리눅스 둘러보기, 프로그램 설치, 제거](https://www.youtube.com/watch?v=U9SQbbq8Kso) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2fOSj9eOHQY"><img width="140px" height="auto" alt="thumb-2fOSj9eOHQY" src="https://i.ytimg.com/vi/2fOSj9eOHQY/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 `chmod`, 파일 권한](https://www.youtube.com/watch?v=2fOSj9eOHQY) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=J3QnIVCyHwQ"><img width="140px" height="auto" alt="thumb-J3QnIVCyHwQ" src="https://i.ytimg.com/vi/J3QnIVCyHwQ/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 `inode`, 링크](https://www.youtube.com/watch?v=J3QnIVCyHwQ) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=yD7ZF12Y4bk"><img width="140px" height="auto" alt="thumb-yD7ZF12Y4bk" src="https://i.ytimg.com/vi/yD7ZF12Y4bk/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 하드링크 심볼릭링크(소프트링크) 다른점](https://www.youtube.com/watch?v=yD7ZF12Y4bk) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WaOq94DttHE"><img width="140px" height="auto" alt="thumb-WaOq94DttHE" src="https://i.ytimg.com/vi/WaOq94DttHE/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 user, group. 추가 제거 변경과 권한.](https://www.youtube.com/watch?v=WaOq94DttHE) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WCX2Z_XcRsg"><img width="140px" height="auto" alt="thumb-WCX2Z_XcRsg" src="https://i.ytimg.com/vi/WCX2Z_XcRsg/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 `vi`, `vim` 편집기](https://www.youtube.com/watch?v=WCX2Z_XcRsg) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Os11BSYkoEI"><img width="140px" height="auto" alt="thumb-Os11BSYkoEI" src="https://i.ytimg.com/vi/Os11BSYkoEI/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 쉘](https://www.youtube.com/watch?v=Os11BSYkoEI) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fvj8Q0XMq-w"><img width="140px" height="auto" alt="thumb-fvj8Q0XMq-w" src="https://i.ytimg.com/vi/fvj8Q0XMq-w/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 프로세스와 관련 명령어](https://www.youtube.com/watch?v=fvj8Q0XMq-w) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=cZktVpkXx2c"><img width="140px" height="auto" alt="thumb-cZktVpkXx2c" src="https://i.ytimg.com/vi/cZktVpkXx2c/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 장치파일](https://www.youtube.com/watch?v=cZktVpkXx2c) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hBJPI2bXzrQ"><img width="140px" height="auto" alt="thumb-hBJPI2bXzrQ" src="https://i.ytimg.com/vi/hBJPI2bXzrQ/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 리다이렉션과 파이프라인](https://www.youtube.com/watch?v=hBJPI2bXzrQ) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=VmbHF4rpc9M"><img width="140px" height="auto" alt="thumb-VmbHF4rpc9M" src="https://i.ytimg.com/vi/VmbHF4rpc9M/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 명령어 `less` `tail` `grep`](https://www.youtube.com/watch?v=VmbHF4rpc9M) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hs4T5JbfLBU"><img width="140px" height="auto" alt="thumb-hs4T5JbfLBU" src="https://i.ytimg.com/vi/hs4T5JbfLBU/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 저장장치 `mount`](https://www.youtube.com/watch?v=hs4T5JbfLBU) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=iqF7lx3mBr8"><img width="140px" height="auto" alt="thumb-iqF7lx3mBr8" src="https://i.ytimg.com/vi/iqF7lx3mBr8/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 데비안계열 패키지 명령어](https://www.youtube.com/watch?v=iqF7lx3mBr8) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=oQZghVpcQcM"><img width="140px" height="auto" alt="thumb-oQZghVpcQcM" src="https://i.ytimg.com/vi/oQZghVpcQcM/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 네트워크 명령어](https://www.youtube.com/watch?v=oQZghVpcQcM) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=OcJmtRqizPs"><img width="140px" height="auto" alt="thumb-OcJmtRqizPs" src="https://i.ytimg.com/vi/OcJmtRqizPs/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 컴퓨터 상태를 보는 명령어들](https://www.youtube.com/watch?v=OcJmtRqizPs) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DaPqcGWZi1g"><img width="140px" height="auto" alt="thumb-DaPqcGWZi1g" src="https://i.ytimg.com/vi/DaPqcGWZi1g/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 파티션 만들고 포맷](https://www.youtube.com/watch?v=DaPqcGWZi1g) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DnYpV04t_GY"><img width="140px" height="auto" alt="thumb-DnYpV04t_GY" src="https://i.ytimg.com/vi/DnYpV04t_GY/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 무선랜 명령어](https://www.youtube.com/watch?v=DnYpV04t_GY) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=USvAujhuW9c"><img width="140px" height="auto" alt="thumb-USvAujhuW9c" src="https://i.ytimg.com/vi/USvAujhuW9c/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 환경변수](https://www.youtube.com/watch?v=USvAujhuW9c) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Bivz_ANPOO4"><img width="140px" height="auto" alt="thumb-Bivz_ANPOO4" src="https://i.ytimg.com/vi/Bivz_ANPOO4/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 한국어 설정](https://www.youtube.com/watch?v=Bivz_ANPOO4) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2MNdA5ZqXKc"><img width="140px" height="auto" alt="thumb-2MNdA5ZqXKc" src="https://i.ytimg.com/vi/2MNdA5ZqXKc/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 C언어 컴파일, file명령어](https://www.youtube.com/watch?v=2MNdA5ZqXKc) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Ur60vWSd-5A"><img width="140px" height="auto" alt="thumb-Ur60vWSd-5A" src="https://i.ytimg.com/vi/Ur60vWSd-5A/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 `sticky` `sgid` `suid`](https://www.youtube.com/watch?v=Ur60vWSd-5A) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=d280cn0rnOM"><img width="140px" height="auto" alt="thumb-d280cn0rnOM" src="https://i.ytimg.com/vi/d280cn0rnOM/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 복합 명령](https://www.youtube.com/watch?v=d280cn0rnOM) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=qNreh2W5yEA"><img width="140px" height="auto" alt="thumb-qNreh2W5yEA" src="https://i.ytimg.com/vi/qNreh2W5yEA/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 시간](https://www.youtube.com/watch?v=qNreh2W5yEA) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=HzMHLyDVvIw"><img width="140px" height="auto" alt="thumb-HzMHLyDVvIw" src="https://i.ytimg.com/vi/HzMHLyDVvIw/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 쉘스크립트 기본, `if`, `while`](https://www.youtube.com/watch?v=HzMHLyDVvIw) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=HfJQazDR73U"><img width="140px" height="auto" alt="thumb-HfJQazDR73U" src="https://i.ytimg.com/vi/HfJQazDR73U/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `expr` 그리고 `$()` 과 ` ` 와 `*` 그리고 이스케이프 시퀀스](https://www.youtube.com/watch?v=HfJQazDR73U) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Q4TrhKqerW0"><img width="140px" height="auto" alt="thumb-Q4TrhKqerW0" src="https://i.ytimg.com/vi/Q4TrhKqerW0/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - test명령의 조건, `elif`, `for`, `until`, `select`, `break`, `continue`, `:`](https://www.youtube.com/watch?v=Q4TrhKqerW0) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XbPWkdk1T5w"><img width="140px" height="auto" alt="thumb-XbPWkdk1T5w" src="https://i.ytimg.com/vi/XbPWkdk1T5w/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `.`, `eval`, `exec`, `exit`, `printf`, `return`, 인자, `set`, `shift`, `unset`](https://www.youtube.com/watch?v=XbPWkdk1T5w) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=cuDZCdShZu4"><img width="140px" height="auto" alt="thumb-cuDZCdShZu4" src="https://i.ytimg.com/vi/cuDZCdShZu4/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 서비스 (데몬)](https://www.youtube.com/watch?v=cuDZCdShZu4) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=dz5ItOMATx4"><img width="140px" height="auto" alt="thumb-dz5ItOMATx4" src="https://i.ytimg.com/vi/dz5ItOMATx4/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `dd`, `hexdump`](https://www.youtube.com/watch?v=dz5ItOMATx4) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=FJs0i-NOg28"><img width="140px" height="auto" alt="thumb-FJs0i-NOg28" src="https://i.ytimg.com/vi/FJs0i-NOg28/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `MBR`](https://www.youtube.com/watch?v=FJs0i-NOg28) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Y604M-QUUes"><img width="140px" height="auto" alt="thumb-Y604M-QUUes" src="https://i.ytimg.com/vi/Y604M-QUUes/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 전원버튼부터 BIOS 까지](https://www.youtube.com/watch?v=Y604M-QUUes) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=M4W1PJkrbH8"><img width="140px" height="auto" alt="thumb-M4W1PJkrbH8" src="https://i.ytimg.com/vi/M4W1PJkrbH8/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 부트로더 GRUB2](https://www.youtube.com/watch?v=M4W1PJkrbH8) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hbQ3oSIt7VA"><img width="140px" height="auto" alt="thumb-hbQ3oSIt7VA" src="https://i.ytimg.com/vi/hbQ3oSIt7VA/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 부트로더와 커널](https://www.youtube.com/watch?v=hbQ3oSIt7VA) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=G9ocJKFw3G4"><img width="140px" height="auto" alt="thumb-G9ocJKFw3G4" src="https://i.ytimg.com/vi/G9ocJKFw3G4/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 오픈소스 GURB 빌드](https://www.youtube.com/watch?v=G9ocJKFw3G4) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=KjTzCUbkVyE"><img width="140px" height="auto" alt="thumb-KjTzCUbkVyE" src="https://i.ytimg.com/vi/KjTzCUbkVyE/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `Makefile` 기초](https://www.youtube.com/watch?v=KjTzCUbkVyE) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=lWLGdtZ44iU"><img width="140px" height="auto" alt="thumb-lWLGdtZ44iU" src="https://i.ytimg.com/vi/lWLGdtZ44iU/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `Makefile` 변수](https://www.youtube.com/watch?v=lWLGdtZ44iU) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZGGZ48JUTkE"><img width="140px" height="auto" alt="thumb-ZGGZ48JUTkE" src="https://i.ytimg.com/vi/ZGGZ48JUTkE/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `Makefile` 생성규칙](https://www.youtube.com/watch?v=ZGGZ48JUTkE) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=SVXT0TgpeWY"><img width="140px" height="auto" alt="thumb-SVXT0TgpeWY" src="https://i.ytimg.com/vi/SVXT0TgpeWY/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `Makefile` 재귀 `make`](https://www.youtube.com/watch?v=SVXT0TgpeWY) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3oEpmKumSz0"><img width="140px" height="auto" alt="thumb-3oEpmKumSz0" src="https://i.ytimg.com/vi/3oEpmKumSz0/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `autotools` 구조](https://www.youtube.com/watch?v=3oEpmKumSz0) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=lEGP_warAQk"><img width="140px" height="auto" alt="thumb-lEGP_warAQk" src="https://i.ytimg.com/vi/lEGP_warAQk/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - `autotools로` `configure`만들기](https://www.youtube.com/watch?v=lEGP_warAQk) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=aROUgUu7-08"><img width="140px" height="auto" alt="thumb-aROUgUu7-08" src="https://i.ytimg.com/vi/aROUgUu7-08/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 커널 소스 다운로드, `menuconfig`, `make`](https://www.youtube.com/watch?v=aROUgUu7-08) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=QhCYvy8pZs8"><img width="140px" height="auto" alt="thumb-QhCYvy8pZs8" src="https://i.ytimg.com/vi/QhCYvy8pZs8/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 가상컴퓨터에서 커널build중 저장공간이 부족할 때](https://www.youtube.com/watch?v=QhCYvy8pZs8) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Cd3H8X8anAc"><img width="140px" height="auto" alt="thumb-Cd3H8X8anAc" src="https://i.ytimg.com/vi/Cd3H8X8anAc/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 커널 `modules_install`, `install`](https://www.youtube.com/watch?v=Cd3H8X8anAc) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=8gOlLoEY7sE"><img width="140px" height="auto" alt="thumb-8gOlLoEY7sE" src="https://i.ytimg.com/vi/8gOlLoEY7sE/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 모듈, 장치 `lsmod`, `insmod`, `rmmod`, `modprobe`, `lspci`, `lsusb`](https://www.youtube.com/watch?v=8gOlLoEY7sE) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ozcAtXTnS24"><img width="140px" height="auto" alt="thumb-ozcAtXTnS24" src="https://i.ytimg.com/vi/ozcAtXTnS24/hqdefault.jpg"/></a> | [\[스무디\] 리눅스 - 커널 설정 1](https://www.youtube.com/watch?v=ozcAtXTnS24) <br/><br/> _[스무디tv][yu-tmanelshrghk]_ |
+
+:::
+
+---
+
+## 한빛미디어
+
+[한빛미디어][yu-HanbitMedia93]
+
+::: details 이것이 리눅스다
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=-pPoC47TQxw"><img width="140px" height="auto" alt="thumb--pPoC47TQxw" src="https://i.ytimg.com/vi/-pPoC47TQxw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 1장. 가상머신 소개와 VMware 설치](https://www.youtube.com/watch?v=-pPoC47TQxw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Q80WAHJmzR4"><img width="140px" height="auto" alt="thumb-Q80WAHJmzR4" src="https://i.ytimg.com/vi/Q80WAHJmzR4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 1장. VMware 특징과 네트워크 환경 설정](https://www.youtube.com/watch?v=Q80WAHJmzR4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Jfwazih9BPk"><img width="140px" height="auto" alt="thumb-Jfwazih9BPk" src="https://i.ytimg.com/vi/Jfwazih9BPk/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 2장. CentOS 리눅스 소개](https://www.youtube.com/watch?v=Jfwazih9BPk) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DThbHOqczVo"><img width="140px" height="auto" alt="thumb-DThbHOqczVo" src="https://i.ytimg.com/vi/DThbHOqczVo/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. CentOS 7 설치 1 - Server](https://www.youtube.com/watch?v=DThbHOqczVo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WzXE-8rh6Iw"><img width="140px" height="auto" alt="thumb-WzXE-8rh6Iw" src="https://i.ytimg.com/vi/WzXE-8rh6Iw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. CentOS 7 설치 2 - Client, Server(B)](https://www.youtube.com/watch?v=WzXE-8rh6Iw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=SrI0VxTU2U"><img width="140px" height="auto" alt="thumb-SrI0VxTU2U" src="https://i.ytimg.com/vi/SrI0VxTU2U/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. 설치 후 추가 설정 - Server](https://www.youtube.com/watch?v=SrI0VxTU2U) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WsZd5D9pwg"><img width="140px" height="auto" alt="thumb-WsZd5D9pwg" src="https://i.ytimg.com/vi/WsZd5D9pwg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. 설치 후 추가 설정 - Client, Server(B)](https://www.youtube.com/watch?v=WsZd5D9pwg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ubMYZ72NjA"><img width="140px" height="auto" alt="thumb-ubMYZ72NjA" src="https://i.ytimg.com/vi/ubMYZ72NjA/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. Windows Client 설치](https://www.youtube.com/watch?v=ubMYZ72NjA) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ipyfymCEv4"><img width="140px" height="auto" alt="thumb-ipyfymCEv4" src="https://i.ytimg.com/vi/ipyfymCEv4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 시작과종료, 가상콘솔, 런레벨, 자동완성](https://www.youtube.com/watch?v=ipyfymCEv4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=kge08MH0-E"><img width="140px" height="auto" alt="thumb-kge08MH0-E" src="https://i.ytimg.com/vi/kge08MH0-E/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. vi 에디터, CD/DVD 마운트](https://www.youtube.com/watch?v=kge08MH0-E) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=kpmcTRGmt4"><img width="140px" height="auto" alt="thumb-kpmcTRGmt4" src="https://i.ytimg.com/vi/kpmcTRGmt4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 리눅스 기본 명령어](https://www.youtube.com/watch?v=kpmcTRGmt4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_s7bOawg_k"><img width="140px" height="auto" alt="thumb-_s7bOawg_k" src="https://i.ytimg.com/vi/_s7bOawg_k/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 사용자 및 그룹 관리](https://www.youtube.com/watch?v=_s7bOawg_k) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=abhPziS2vg"><img width="140px" height="auto" alt="thumb-abhPziS2vg" src="https://i.ytimg.com/vi/abhPziS2vg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파일의 소유권/허가권, 링크](https://www.youtube.com/watch?v=abhPziS2vg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WmX-SvyZp4"><img width="140px" height="auto" alt="thumb-WmX-SvyZp4" src="https://i.ytimg.com/vi/WmX-SvyZp4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. RPM 사용법, YUM 기본 사용법](https://www.youtube.com/watch?v=WmX-SvyZp4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=NdZ51F_2YM"><img width="140px" height="auto" alt="thumb-NdZ51F_2YM" src="https://i.ytimg.com/vi/NdZ51F_2YM/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. YUM 고급 사용법](https://www.youtube.com/watch?v=NdZ51F_2YM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AYtHREIo2Y"><img width="140px" height="auto" alt="thumb-AYtHREIo2Y" src="https://i.ytimg.com/vi/AYtHREIo2Y/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파일 압축과 묶기, CRON과 AT](https://www.youtube.com/watch?v=AYtHREIo2Y) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=sJve4r1FDU"><img width="140px" height="auto" alt="thumb-sJve4r1FDU" src="https://i.ytimg.com/vi/sJve4r1FDU/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 네트워크 관련 개념과 명령어, SELinux](https://www.youtube.com/watch?v=sJve4r1FDU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AqvpX_aC2M"><img width="140px" height="auto" alt="thumb-AqvpX_aC2M" src="https://i.ytimg.com/vi/AqvpX_aC2M/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파이프/필터 , 프로세스, 서비스/소켓](https://www.youtube.com/watch?v=AqvpX_aC2M) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=G0p46R4ZIc"><img width="140px" height="auto" alt="thumb-G0p46R4ZIc" src="https://i.ytimg.com/vi/G0p46R4ZIc/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 응급복구, GRUB, 커널 컴파일](https://www.youtube.com/watch?v=G0p46R4ZIc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DfFPqlmwC4"><img width="140px" height="auto" alt="thumb-DfFPqlmwC4" src="https://i.ytimg.com/vi/DfFPqlmwC4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 5장. X 윈도 테마, GRUB 배경 화면](https://www.youtube.com/watch?v=DfFPqlmwC4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+
+\[이것이 리눅스다\] 5장. 노틸러스 , FireFox 업그레이드 , 기타 X윈도 유틸리티
+H1zahccVfw
+
+\[이것이 리눅스다\] 5장. 리눅스에 Windows 설치 , KDE 데스크톱 설치
+w6ka4mFRio
+
+\[이것이 리눅스다\] 6장. IDE/SCSI 장치 구성, 하드디스크 1개 추가
+nWewRUhAoU
+
+\[이것이 리눅스다\] 6장. RAID 개념과 종류
+22vhAZiOxM
+
+\[이것이 리눅스다\] 6장. 디스크 9개 장착, LinearRAID 구현
+v9BRkRgoXg
+
+\[이것이 리눅스다\] 6장. RAID 0, RAID 1, RAID 5 구현
+F-mqDY6oRw
+
+\[이것이 리눅스다\] 6장. RAID 0,1,5 의 고장과 원상 복구
+3v8fsd9Qus
+
+\[이것이 리눅스다\] 6장. RAID 6, RAID 1+0 구현과 문제 발생
+LdMRdsebhk
+
+\[이것이 리눅스다\] 6장. LVM 개념과 구현, RAID에 CentOS 설치
+QrMnWyPc8s
+
+\[이것이 리눅스다\] 6장. 사용자별 공간 할당(쿼터)
+yOXwpkZp50
+
+\[이것이 리눅스다\] 7장. 셸 스크립트 프로그래밍
+oKQRQEzqkA
+
+\[이것이 리눅스다\] 8장. 텔넷 서버
+_FrX-NGvCw
+
+\[이것이 리눅스다\] 8장. SSH 서버, VNC 서버
+EyyO5w9JL4
+
+\[이것이 리눅스다\] 9장. 네임서버 개념, IP주소 획득 흐름
+iBaoLEG-LU
+
+\[이것이 리눅스다\] 9장. 도메인 이름 체계 개념, 캐싱 전용 네임서버 구축
+fiXNUxN-RM
+
+\[이것이 리눅스다\] 9장. 마스터 네임서버 구축, 라운드 로빈 방식 네임서버
+wFIPMzbEM0
+
+\[이것이 리눅스다\] 10장. 메일서버 개념, 메일서버를 위한 네임서버 구현
+IsbKvcWlfg
+
+\[이것이 리눅스다\] 10장. 센드메일 서버의 구현
+nJtYiodaxI
+
+\[이것이 리눅스다\] 10장. 웹 메일(다람쥐 메일) 설치
+nnY2VI47w0
+
+\[이것이 리눅스다\] 11장. 데이터베이스 서버 개념, 필수 SQL 구문
+jLxch0WWRM
+
+\[이것이 리눅스다\] 11장. MariaDB 설치/운영 , Windows에서 접속
+fpbCknpISo
+
+\[이것이 리눅스다\] 11장. 쇼핑몰 데이터베이스 구축
+AmAc-4rL3U
+
+\[이것이 리눅스다\] 11장. Oracle 설치, Oracle에서 쇼핑몰 DB 구축
+Zjv7jXVSik
+
+\[이것이 리눅스다\] 11장. Visual Studio와 MariaDB의 연동
+h9mJtAFOec
+
+\[이것이 리눅스다\] 12장. APM 개념과 설치, XE 설치와 운영
+napLmTg-kI
+
+\[이것이 리눅스다\] 12장. 웹하드 설치와 운영
+GyqKcYovsw
+
+\[이것이 리눅스다\] 12장. 클라우드 서비스 구축
+q8Fgtw10jU
+
+\[이것이 리눅스다\] 12장. 웹서버 설정파일, APM 컴파일 설치
+RU51MudOSg
+
+\[이것이 리눅스다\] 13장. FTP 서버 설치와 운영
+tEecglCr-Y
+
+\[이것이 리눅스다\] 14장. NFS 서버 설치와 운영
+FUkx-sfTGs
+
+\[이것이 리눅스다\] 15장. Samba 서버 설치와 운영
+S8bV5dkC-I
+
+\[이것이 리눅스다\] 16장. DHCP 서버 설치와 운영
+tbL8Z14Jn0
+
+\[이것이 리눅스다\] 17장. 프록시 서버 설치와 운영
+yy5b9fbtCw
+
+\[이것이 리눅스다\] 18장. 방화벽 컴퓨터를 만들자
+G_RDMSraIE
+
+\[이것이 리눅스다\] 19장. PXE 서버, 킥스타트
+k2iJw6kSu0
+
+:::
+
+<TagLinks />
+
+[yu-linux-leech]: https://www.youtube.com/@linuxleech
+[yu-tmanelshrghk]: https://www.youtube.com/@tmanelshrghk
+[yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93

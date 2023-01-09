@@ -38,12 +38,13 @@ brew install amazon-ecs-cli awscli bison \
     xz zsh
 
 # Install cask(s)
-brew install --cask airflow appcleaner cheatsheet \
+brew install --cask airflow alt-tab appcleaner cheatsheet  \
     dbeaver-community docker eul flipper font-jetbrains-mono \
     google-chrome grandperspective iina intellij-idea-ce notion \
     opencore-patcher oversight pennywise raycast resilio-sync \
     sf-symbols shottr spectacle sublime-merge sublime-text \
-    taskexplorer temurin11 transmission visual-studio-code vlc
+    the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
+    vlc wireshark
 ```
 
 ---

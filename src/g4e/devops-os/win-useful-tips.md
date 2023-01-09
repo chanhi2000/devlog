@@ -81,6 +81,22 @@ netsh interface tcp set global autotuninglevel=normal
 | `normal` | 대부분의 시나리오에 적합하게 수신 창이 커지도록 합니다. |
 | `experimental` | 극히 일부 시나리오에만 적합하게 수신 창이 커지도록 합니다. |
 
+--
+## `powercfg.cpl`
+
+### 전원옵션 > 최대성능 활성화
+
+어드민 권한으로 Command Prompt실행
+
+```batch
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+```
+
+#### 결과
+
+```
+전원 구성표 GUID: 15fc3227-d628-4ea6-8cbc-9e9fbdf1469b  (최고의 성능)
+```
 
 ---
 ## `gpedit.msc`
@@ -148,8 +164,6 @@ RENAME <구 이름> <바꿀 이름> && REM 폴더명 변경
 
 - `regedit` 실행 후 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\<찾은 SID값>` 경로이동
 - `ProfileImagePath` 값을 바꾼 이름으로 지정
-
-
 
 
  <TagLinks />
