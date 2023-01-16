@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
+## [v0.0.22: 2023-01-16][v0.0.22]
+
+- 내용 채워넣기
+
+
+---
 ## [v0.0.21: 2023-01-05][v0.0.21]
 
 - 내용 채워넣기
@@ -202,6 +208,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.0.22]: https://github.com/chanhi2000/devlog/compare/v0.0.21...v0.0.22
 [v0.0.21]: https://github.com/chanhi2000/devlog/compare/v0.0.20...v0.0.21
 [v0.0.20]: https://github.com/chanhi2000/devlog/compare/v0.0.19...v0.0.20
 [v0.0.19]: https://github.com/chanhi2000/devlog/compare/v0.0.18...v0.0.19
