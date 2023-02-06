@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
-title: Education (Linux)
-description: 📺Youtube > Education (Linux)
-tags: ["education", "youtube", "programming", "os", "linux"]
+title: Education (Java)
+description: 📺Youtube > Education (Java)
+tags: ["education", "youtube", "programming", "jdk", "java"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -10,12 +10,11 @@ tags: ["education", "youtube", "programming", "os", "linux"]
 [[toc]]
 
 ---
-
 ## 프리렉
 
 [프리렉][yu-freeleckor] 
 
-::: details 이것이 리눅스다
+::: details 자바 웹 개발 워크북
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=kUNDBmUfaNw"><img width="140px" height="auto" alt="thumb-kUNDBmUfaNw" src="https://i.ytimg.com/vi/kUNDBmUfaNw/hqdefault.jpg"/></a> | [\[자바 웹 개발 워크북\] #01 0장 - 강의 소개와 실습 준비](https://www.youtube.com/watch?v=kUNDBmUfaNw) <br/><br/> _[프리렉][yu-freeleckor]_ |
@@ -65,6 +64,35 @@ tags: ["education", "youtube", "programming", "os", "linux"]
 
 :::
 
+---
+## Java Guides
+
+[Java Guides][yu-java-guides] 
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication
+hxZuLn_DHoM
+
+:::
+
+---
+## Ram N Java
+
+[Ram N Java][yu-ram-n-java]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+ByteArrayOutputStream in Java \| Java ByteArrayOutputStream Examples \| Java IO \| Java Tutorial
+hycA8lxjIHI
+
+:::
 <TagLinks />
 
 [yu-freeleckor]: https://www.youtube.com/@FREELECKOR
+[yu-java-guides]: https://www.youtube.com/@JavaGuides
+[yu-ram-n-java]: https://www.youtube.com/@RamNJava

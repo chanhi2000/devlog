@@ -13,8 +13,6 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 ## Linux Leech
 
-
-
 ::: details BASH Shell tutorials for beginners
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
@@ -146,126 +144,57 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 | ❌ | <a href="https://www.youtube.com/watch?v=Jfwazih9BPk"><img width="140px" height="auto" alt="thumb-Jfwazih9BPk" src="https://i.ytimg.com/vi/Jfwazih9BPk/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 2장. CentOS 리눅스 소개](https://www.youtube.com/watch?v=Jfwazih9BPk) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=DThbHOqczVo"><img width="140px" height="auto" alt="thumb-DThbHOqczVo" src="https://i.ytimg.com/vi/DThbHOqczVo/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. CentOS 7 설치 1 - Server](https://www.youtube.com/watch?v=DThbHOqczVo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=WzXE-8rh6Iw"><img width="140px" height="auto" alt="thumb-WzXE-8rh6Iw" src="https://i.ytimg.com/vi/WzXE-8rh6Iw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. CentOS 7 설치 2 - Client, Server(B)](https://www.youtube.com/watch?v=WzXE-8rh6Iw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=SrI0VxTU2U"><img width="140px" height="auto" alt="thumb-SrI0VxTU2U" src="https://i.ytimg.com/vi/SrI0VxTU2U/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. 설치 후 추가 설정 - Server](https://www.youtube.com/watch?v=SrI0VxTU2U) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WsZd5D9pwg"><img width="140px" height="auto" alt="thumb-WsZd5D9pwg" src="https://i.ytimg.com/vi/WsZd5D9pwg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. 설치 후 추가 설정 - Client, Server(B)](https://www.youtube.com/watch?v=WsZd5D9pwg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ubMYZ72NjA"><img width="140px" height="auto" alt="thumb-ubMYZ72NjA" src="https://i.ytimg.com/vi/ubMYZ72NjA/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. Windows Client 설치](https://www.youtube.com/watch?v=ubMYZ72NjA) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ipyfymCEv4"><img width="140px" height="auto" alt="thumb-ipyfymCEv4" src="https://i.ytimg.com/vi/ipyfymCEv4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 시작과종료, 가상콘솔, 런레벨, 자동완성](https://www.youtube.com/watch?v=ipyfymCEv4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kge08MH0-E"><img width="140px" height="auto" alt="thumb-kge08MH0-E" src="https://i.ytimg.com/vi/kge08MH0-E/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. vi 에디터, CD/DVD 마운트](https://www.youtube.com/watch?v=kge08MH0-E) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kpmcTRGmt4"><img width="140px" height="auto" alt="thumb-kpmcTRGmt4" src="https://i.ytimg.com/vi/kpmcTRGmt4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 리눅스 기본 명령어](https://www.youtube.com/watch?v=kpmcTRGmt4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_s7bOawg_k"><img width="140px" height="auto" alt="thumb-_s7bOawg_k" src="https://i.ytimg.com/vi/_s7bOawg_k/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 사용자 및 그룹 관리](https://www.youtube.com/watch?v=_s7bOawg_k) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=abhPziS2vg"><img width="140px" height="auto" alt="thumb-abhPziS2vg" src="https://i.ytimg.com/vi/abhPziS2vg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파일의 소유권/허가권, 링크](https://www.youtube.com/watch?v=abhPziS2vg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WmX-SvyZp4"><img width="140px" height="auto" alt="thumb-WmX-SvyZp4" src="https://i.ytimg.com/vi/WmX-SvyZp4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. RPM 사용법, YUM 기본 사용법](https://www.youtube.com/watch?v=WmX-SvyZp4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NdZ51F_2YM"><img width="140px" height="auto" alt="thumb-NdZ51F_2YM" src="https://i.ytimg.com/vi/NdZ51F_2YM/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. YUM 고급 사용법](https://www.youtube.com/watch?v=NdZ51F_2YM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AYtHREIo2Y"><img width="140px" height="auto" alt="thumb-AYtHREIo2Y" src="https://i.ytimg.com/vi/AYtHREIo2Y/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파일 압축과 묶기, CRON과 AT](https://www.youtube.com/watch?v=AYtHREIo2Y) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sJve4r1FDU"><img width="140px" height="auto" alt="thumb-sJve4r1FDU" src="https://i.ytimg.com/vi/sJve4r1FDU/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 네트워크 관련 개념과 명령어, SELinux](https://www.youtube.com/watch?v=sJve4r1FDU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AqvpX_aC2M"><img width="140px" height="auto" alt="thumb-AqvpX_aC2M" src="https://i.ytimg.com/vi/AqvpX_aC2M/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파이프/필터 , 프로세스, 서비스/소켓](https://www.youtube.com/watch?v=AqvpX_aC2M) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=G0p46R4ZIc"><img width="140px" height="auto" alt="thumb-G0p46R4ZIc" src="https://i.ytimg.com/vi/G0p46R4ZIc/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 응급복구, GRUB, 커널 컴파일](https://www.youtube.com/watch?v=G0p46R4ZIc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DfFPqlmwC4"><img width="140px" height="auto" alt="thumb-DfFPqlmwC4" src="https://i.ytimg.com/vi/DfFPqlmwC4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 5장. X 윈도 테마, GRUB 배경 화면](https://www.youtube.com/watch?v=DfFPqlmwC4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-
-\[이것이 리눅스다\] 5장. 노틸러스 , FireFox 업그레이드 , 기타 X윈도 유틸리티
-H1zahccVfw
-
-\[이것이 리눅스다\] 5장. 리눅스에 Windows 설치 , KDE 데스크톱 설치
-w6ka4mFRio
-
-\[이것이 리눅스다\] 6장. IDE/SCSI 장치 구성, 하드디스크 1개 추가
-nWewRUhAoU
-
-\[이것이 리눅스다\] 6장. RAID 개념과 종류
-22vhAZiOxM
-
-\[이것이 리눅스다\] 6장. 디스크 9개 장착, LinearRAID 구현
-v9BRkRgoXg
-
-\[이것이 리눅스다\] 6장. RAID 0, RAID 1, RAID 5 구현
-F-mqDY6oRw
-
-\[이것이 리눅스다\] 6장. RAID 0,1,5 의 고장과 원상 복구
-3v8fsd9Qus
-
-\[이것이 리눅스다\] 6장. RAID 6, RAID 1+0 구현과 문제 발생
-LdMRdsebhk
-
-\[이것이 리눅스다\] 6장. LVM 개념과 구현, RAID에 CentOS 설치
-QrMnWyPc8s
-
-\[이것이 리눅스다\] 6장. 사용자별 공간 할당(쿼터)
-yOXwpkZp50
-
-\[이것이 리눅스다\] 7장. 셸 스크립트 프로그래밍
-oKQRQEzqkA
-
-\[이것이 리눅스다\] 8장. 텔넷 서버
-_FrX-NGvCw
-
-\[이것이 리눅스다\] 8장. SSH 서버, VNC 서버
-EyyO5w9JL4
-
-\[이것이 리눅스다\] 9장. 네임서버 개념, IP주소 획득 흐름
-iBaoLEG-LU
-
-\[이것이 리눅스다\] 9장. 도메인 이름 체계 개념, 캐싱 전용 네임서버 구축
-fiXNUxN-RM
-
-\[이것이 리눅스다\] 9장. 마스터 네임서버 구축, 라운드 로빈 방식 네임서버
-wFIPMzbEM0
-
-\[이것이 리눅스다\] 10장. 메일서버 개념, 메일서버를 위한 네임서버 구현
-IsbKvcWlfg
-
-\[이것이 리눅스다\] 10장. 센드메일 서버의 구현
-nJtYiodaxI
-
-\[이것이 리눅스다\] 10장. 웹 메일(다람쥐 메일) 설치
-nnY2VI47w0
-
-\[이것이 리눅스다\] 11장. 데이터베이스 서버 개념, 필수 SQL 구문
-jLxch0WWRM
-
-\[이것이 리눅스다\] 11장. MariaDB 설치/운영 , Windows에서 접속
-fpbCknpISo
-
-\[이것이 리눅스다\] 11장. 쇼핑몰 데이터베이스 구축
-AmAc-4rL3U
-
-\[이것이 리눅스다\] 11장. Oracle 설치, Oracle에서 쇼핑몰 DB 구축
-Zjv7jXVSik
-
-\[이것이 리눅스다\] 11장. Visual Studio와 MariaDB의 연동
-h9mJtAFOec
-
-\[이것이 리눅스다\] 12장. APM 개념과 설치, XE 설치와 운영
-napLmTg-kI
-
-\[이것이 리눅스다\] 12장. 웹하드 설치와 운영
-GyqKcYovsw
-
-\[이것이 리눅스다\] 12장. 클라우드 서비스 구축
-q8Fgtw10jU
-
-\[이것이 리눅스다\] 12장. 웹서버 설정파일, APM 컴파일 설치
-RU51MudOSg
-
-\[이것이 리눅스다\] 13장. FTP 서버 설치와 운영
-tEecglCr-Y
-
-\[이것이 리눅스다\] 14장. NFS 서버 설치와 운영
-FUkx-sfTGs
-
-\[이것이 리눅스다\] 15장. Samba 서버 설치와 운영
-S8bV5dkC-I
-
-\[이것이 리눅스다\] 16장. DHCP 서버 설치와 운영
-tbL8Z14Jn0
-
-\[이것이 리눅스다\] 17장. 프록시 서버 설치와 운영
-yy5b9fbtCw
-
-\[이것이 리눅스다\] 18장. 방화벽 컴퓨터를 만들자
-G_RDMSraIE
-
-\[이것이 리눅스다\] 19장. PXE 서버, 킥스타트
-k2iJw6kSu0
+| ❌ | <a href="https://www.youtube.com/watch?v=9SrI0VxTU2U"><img width="140px" height="auto" alt="thumb-9SrI0VxTU2U" src="https://i.ytimg.com/vi/9SrI0VxTU2U/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. 설치 후 추가 설정 - Server](https://www.youtube.com/watch?v=9SrI0VxTU2U) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=JWsZd5D9pwg"><img width="140px" height="auto" alt="thumb-JWsZd5D9pwg" src="https://i.ytimg.com/vi/JWsZd5D9pwg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. 설치 후 추가 설정 - Client, Server(B)](https://www.youtube.com/watch?v=JWsZd5D9pwg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=mubMYZ72NjA"><img width="140px" height="auto" alt="thumb-mubMYZ72NjA" src="https://i.ytimg.com/vi/mubMYZ72NjA/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 3장. Windows Client 설치](https://www.youtube.com/watch?v=mubMYZ72NjA) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5ipyfymCEv4"><img width="140px" height="auto" alt="thumb-5ipyfymCEv4" src="https://i.ytimg.com/vi/5ipyfymCEv4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 시작과종료, 가상콘솔, 런레벨, 자동완성](https://www.youtube.com/watch?v=5ipyfymCEv4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4kge08MH0-E"><img width="140px" height="auto" alt="thumb-4kge08MH0-E" src="https://i.ytimg.com/vi/4kge08MH0-E/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. vi 에디터, CD/DVD 마운트](https://www.youtube.com/watch?v=4kge08MH0-E) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DkpmcTRGmt4"><img width="140px" height="auto" alt="thumb-DkpmcTRGmt4" src="https://i.ytimg.com/vi/DkpmcTRGmt4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 리눅스 기본 명령어](https://www.youtube.com/watch?v=DkpmcTRGmt4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=G_s7bOawg_k"><img width="140px" height="auto" alt="thumb-G_s7bOawg_k" src="https://i.ytimg.com/vi/G_s7bOawg_k/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 사용자 및 그룹 관리](https://www.youtube.com/watch?v=G_s7bOawg_k) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=FabhPziS2vg"><img width="140px" height="auto" alt="thumb-FabhPziS2vg" src="https://i.ytimg.com/vi/FabhPziS2vg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파일의 소유권/허가권, 링크](https://www.youtube.com/watch?v=FabhPziS2vg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=GWmX-SvyZp4"><img width="140px" height="auto" alt="thumb-GWmX-SvyZp4" src="https://i.ytimg.com/vi/GWmX-SvyZp4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. RPM 사용법, YUM 기본 사용법](https://www.youtube.com/watch?v=GWmX-SvyZp4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=NNdZ51F_2YM"><img width="140px" height="auto" alt="thumb-NNdZ51F_2YM" src="https://i.ytimg.com/vi/NNdZ51F_2YM/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. YUM 고급 사용법](https://www.youtube.com/watch?v=NNdZ51F_2YM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AAYtHREIo2Y"><img width="140px" height="auto" alt="thumb-AAYtHREIo2Y" src="https://i.ytimg.com/vi/AAYtHREIo2Y/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파일 압축과 묶기, CRON과 AT](https://www.youtube.com/watch?v=AAYtHREIo2Y) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=qsJve4r1FDU"><img width="140px" height="auto" alt="thumb-qsJve4r1FDU" src="https://i.ytimg.com/vi/qsJve4r1FDU/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 네트워크 관련 개념과 명령어, SELinux](https://www.youtube.com/watch?v=qsJve4r1FDU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XAqvpX_aC2M"><img width="140px" height="auto" alt="thumb-XAqvpX_aC2M" src="https://i.ytimg.com/vi/XAqvpX_aC2M/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 파이프/필터 , 프로세스, 서비스/소켓](https://www.youtube.com/watch?v=XAqvpX_aC2M) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3G0p46R4ZIc"><img width="140px" height="auto" alt="thumb-3G0p46R4ZIc" src="https://i.ytimg.com/vi/3G0p46R4ZIc/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 4장. 응급복구, GRUB, 커널 컴파일](https://www.youtube.com/watch?v=3G0p46R4ZIc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=G2O3XajRP9o"><img width="140px" height="auto" alt="thumb-G2O3XajRP9o" src="https://i.ytimg.com/vi/G2O3XajRP9o/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 5장. X 윈도 테마, GRUB 배경 화면](https://www.youtube.com/watch?v=G2O3XajRP9o) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XH1zahccVfw"><img width="140px" height="auto" alt="thumb-XH1zahccVfw" src="https://i.ytimg.com/vi/XH1zahccVfw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 5장. 노틸러스 , FireFox 업그레이드 , 기타 X윈도 유틸리티](https://www.youtube.com/watch?v=XH1zahccVfw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XH1zahccVfw"><img width="140px" height="auto" alt="thumb-XH1zahccVfw" src="https://i.ytimg.com/vi/XH1zahccVfw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 5장. 노틸러스 , FireFox 업그레이드 , 기타 X윈도 유틸리티](https://www.youtube.com/watch?v=XH1zahccVfw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=dw6ka4mFRio"><img width="140px" height="auto" alt="thumb-dw6ka4mFRio" src="https://i.ytimg.com/vi/dw6ka4mFRio/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 5장. 리눅스에 Windows 설치 , KDE 데스크톱 설치](https://www.youtube.com/watch?v=dw6ka4mFRio) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=GnWewRUhAoU"><img width="140px" height="auto" alt="thumb-GnWewRUhAoU" src="https://i.ytimg.com/vi/GnWewRUhAoU/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. IDE/SCSI 장치 구성, 하드디스크 1개 추가](https://www.youtube.com/watch?v=GnWewRUhAoU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=d22vhAZiOxM"><img width="140px" height="auto" alt="thumb-d22vhAZiOxM" src="https://i.ytimg.com/vi/d22vhAZiOxM/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. RAID 개념과 종류](https://www.youtube.com/watch?v=d22vhAZiOxM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Yv9BRkRgoXg"><img width="140px" height="auto" alt="thumb-Yv9BRkRgoXg" src="https://i.ytimg.com/vi/Yv9BRkRgoXg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. 디스크 9개 장착, LinearRAID 구현](https://www.youtube.com/watch?v=Yv9BRkRgoXg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=SF-mqDY6oRw"><img width="140px" height="auto" alt="thumb-SF-mqDY6oRw" src="https://i.ytimg.com/vi/SF-mqDY6oRw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. RAID 0, RAID 1, RAID 5 구현](https://www.youtube.com/watch?v=SF-mqDY6oRw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=e3v8fsd9Qus"><img width="140px" height="auto" alt="thumb-e3v8fsd9Qus" src="https://i.ytimg.com/vi/e3v8fsd9Qus/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. RAID 0,1,5 의 고장과 원상 복구](https://www.youtube.com/watch?v=e3v8fsd9Qus) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ILdMRdsebhk"><img width="140px" height="auto" alt="thumb-ILdMRdsebhk" src="https://i.ytimg.com/vi/ILdMRdsebhk/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. RAID 6, RAID 1+0 구현과 문제 발생](https://www.youtube.com/watch?v=ILdMRdsebhk) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=OQrMnWyPc8s"><img width="140px" height="auto" alt="thumb-OQrMnWyPc8s" src="https://i.ytimg.com/vi/OQrMnWyPc8s/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. LVM 개념과 구현, RAID에 CentOS 설치](https://www.youtube.com/watch?v=OQrMnWyPc8s) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WyOXwpkZp50"><img width="140px" height="auto" alt="thumb-WyOXwpkZp50" src="https://i.ytimg.com/vi/WyOXwpkZp50/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 6장. 사용자별 공간 할당(쿼터)](https://www.youtube.com/watch?v=WyOXwpkZp50) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=soKQRQEzqkA"><img width="140px" height="auto" alt="thumb-soKQRQEzqkA" src="https://i.ytimg.com/vi/soKQRQEzqkA/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 7장. 셸 스크립트 프로그래밍](https://www.youtube.com/watch?v=soKQRQEzqkA) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=v_FrX-NGvCw"><img width="140px" height="auto" alt="thumb-v_FrX-NGvCw" src="https://i.ytimg.com/vi/v_FrX-NGvCw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 8장. 텔넷 서버](https://www.youtube.com/watch?v=v_FrX-NGvCw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5EyyO5w9JL4"><img width="140px" height="auto" alt="thumb-5EyyO5w9JL4" src="https://i.ytimg.com/vi/5EyyO5w9JL4/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 8장. SSH 서버, VNC 서버](https://www.youtube.com/watch?v=5EyyO5w9JL4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AiBaoLEG-LU"><img width="140px" height="auto" alt="thumb-AiBaoLEG-LU" src="https://i.ytimg.com/vi/AiBaoLEG-LU/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 9장. 네임서버 개념, IP주소 획득 흐름](https://www.youtube.com/watch?v=AiBaoLEG-LU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=zfiXNUxN-RM"><img width="140px" height="auto" alt="thumb-zfiXNUxN-RM" src="https://i.ytimg.com/vi/zfiXNUxN-RM/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 9장. 도메인 이름 체계 개념, 캐싱 전용 네임서버 구축](https://www.youtube.com/watch?v=zfiXNUxN-RM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=iwFIPMzbEM0"><img width="140px" height="auto" alt="thumb-iwFIPMzbEM0" src="https://i.ytimg.com/vi/iwFIPMzbEM0/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 9장. 마스터 네임서버 구축, 라운드 로빈 방식 네임서버](https://www.youtube.com/watch?v=iwFIPMzbEM0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=IIsbKvcWlfg"><img width="140px" height="auto" alt="thumb-IIsbKvcWlfg" src="https://i.ytimg.com/vi/IIsbKvcWlfg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 10장. 메일서버 개념, 메일서버를 위한 네임서버 구현](https://www.youtube.com/watch?v=IIsbKvcWlfg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fnJtYiodaxI"><img width="140px" height="auto" alt="thumb-fnJtYiodaxI" src="https://i.ytimg.com/vi/fnJtYiodaxI/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 10장. 센드메일 서버의 구현](https://www.youtube.com/watch?v=fnJtYiodaxI) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=CnnY2VI47w0"><img width="140px" height="auto" alt="thumb-CnnY2VI47w0" src="https://i.ytimg.com/vi/CnnY2VI47w0/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 10장. 웹 메일(다람쥐 메일) 설치](https://www.youtube.com/watch?v=CnnY2VI47w0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fjLxch0WWRM"><img width="140px" height="auto" alt="thumb-fjLxch0WWRM" src="https://i.ytimg.com/vi/fjLxch0WWRM/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 11장. 데이터베이스 서버 개념, 필수 SQL 구문](https://www.youtube.com/watch?v=fjLxch0WWRM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hfpbCknpISo"><img width="140px" height="auto" alt="thumb-hfpbCknpISo" src="https://i.ytimg.com/vi/hfpbCknpISo/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 11장. MariaDB 설치/운영 , Windows에서 접속](https://www.youtube.com/watch?v=hfpbCknpISo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=uAmAc-4rL3U"><img width="140px" height="auto" alt="thumb-uAmAc-4rL3U" src="https://i.ytimg.com/vi/uAmAc-4rL3U/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 11장. 쇼핑몰 데이터베이스 구축](https://www.youtube.com/watch?v=uAmAc-4rL3U) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rZjv7jXVSik"><img width="140px" height="auto" alt="thumb-rZjv7jXVSik" src="https://i.ytimg.com/vi/rZjv7jXVSik/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 11장. Oracle 설치, Oracle에서 쇼핑몰 DB 구축](https://www.youtube.com/watch?v=rZjv7jXVSik) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Mh9mJtAFOec"><img width="140px" height="auto" alt="thumb-Mh9mJtAFOec" src="https://i.ytimg.com/vi/Mh9mJtAFOec/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 11장. Visual Studio와 MariaDB의 연동](https://www.youtube.com/watch?v=Mh9mJtAFOec) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=BnapLmTg-kI"><img width="140px" height="auto" alt="thumb-BnapLmTg-kI" src="https://i.ytimg.com/vi/BnapLmTg-kI/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 12장. APM 개념과 설치, XE 설치와 운영](https://www.youtube.com/watch?v=BnapLmTg-kI) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=IGyqKcYovsw"><img width="140px" height="auto" alt="thumb-IGyqKcYovsw" src="https://i.ytimg.com/vi/IGyqKcYovsw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 12장. 웹하드 설치와 운영](https://www.youtube.com/watch?v=IGyqKcYovsw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=yq8Fgtw10jU"><img width="140px" height="auto" alt="thumb-yq8Fgtw10jU" src="https://i.ytimg.com/vi/yq8Fgtw10jU/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 12장. 클라우드 서비스 구축](https://www.youtube.com/watch?v=yq8Fgtw10jU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=jRU51MudOSg"><img width="140px" height="auto" alt="thumb-jRU51MudOSg" src="https://i.ytimg.com/vi/jRU51MudOSg/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 12장. 웹서버 설정파일, APM 컴파일 설치](https://www.youtube.com/watch?v=jRU51MudOSg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WtEecglCr-Y"><img width="140px" height="auto" alt="thumb-WtEecglCr-Y" src="https://i.ytimg.com/vi/WtEecglCr-Y/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 13장. FTP 서버 설치와 운영](https://www.youtube.com/watch?v=WtEecglCr-Y) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wFUkx-sfTGs"><img width="140px" height="auto" alt="thumb-wFUkx-sfTGs" src="https://i.ytimg.com/vi/wFUkx-sfTGs/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 14장. NFS 서버 설치와 운영](https://www.youtube.com/watch?v=wFUkx-sfTGs) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=iS8bV5dkC-I"><img width="140px" height="auto" alt="thumb-iS8bV5dkC-I" src="https://i.ytimg.com/vi/iS8bV5dkC-I/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 15장. Samba 서버 설치와 운영](https://www.youtube.com/watch?v=iS8bV5dkC-I) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=BtbL8Z14Jn0"><img width="140px" height="auto" alt="thumb-BtbL8Z14Jn0" src="https://i.ytimg.com/vi/BtbL8Z14Jn0/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 16장. DHCP 서버 설치와 운영](https://www.youtube.com/watch?v=BtbL8Z14Jn0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Tyy5b9fbtCw"><img width="140px" height="auto" alt="thumb-Tyy5b9fbtCw" src="https://i.ytimg.com/vi/Tyy5b9fbtCw/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 17장. 프록시 서버 설치와 운영](https://www.youtube.com/watch?v=Tyy5b9fbtCw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vG_RDMSraIE"><img width="140px" height="auto" alt="thumb-vG_RDMSraIE" src="https://i.ytimg.com/vi/vG_RDMSraIE/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 18장. 방화벽 컴퓨터를 만들자](https://www.youtube.com/watch?v=vG_RDMSraIE) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_k2iJw6kSu0"><img width="140px" height="auto" alt="thumb-_k2iJw6kSu0" src="https://i.ytimg.com/vi/_k2iJw6kSu0/hqdefault.jpg"/></a> | [\[이것이 리눅스다\] 19장. PXE 서버, 킥스타트](https://www.youtube.com/watch?v=_k2iJw6kSu0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
 
 :::
 

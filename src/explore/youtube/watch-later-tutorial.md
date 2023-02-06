@@ -43,40 +43,22 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=bC7o8P_Ste4"><img width="140px" height="auto" alt="thumb-bC7o8P_Ste4" src="https://i.ytimg.com/vi/bC7o8P_Ste4/hqdefault.jpg"/></a> | [Greedy Algorithms Tutorial – Solve Coding Challenges](https://www.youtube.com/watch?v=bC7o8P_Ste4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=cT_ZYrS3tKc"><img width="140px" height="auto" alt="thumb-cT_ZYrS3tKc" src="https://i.ytimg.com/vi/cT_ZYrS3tKc/hqdefault.jpg"/></a> | [Build a Shopping Cart with JavaScript – Project Tutorial](https://www.youtube.com/watch?v=cT_ZYrS3tKc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 
+Microservice Architecture and System Design with Python &amp; Kubernetes – Full Course
+hmkF77F9TLw
+
+System Design for Beginners Course
+m8Icp_Cid5o
+
+Learn Kotlin Programming – Full Course for Beginners
+EExSSotojVI
+
+Kubernetes Course - Full Beginners Tutorial \(Containerize Your Apps!\)
+d6WC5n9G_sM
+
+Python for Web Development – Crash Course \[API, SQL Databases, Virtual Environment, Flask, Django\]
+WNvxR8RFzBg
+
 ::: 
-
----
-## Kavsoft
-
-[Kavsoft][yu-kavsoft]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=a42x0Y7p5UA"><img width="140px" height="auto" alt="thumb-a42x0Y7p5UA" src="https://i.ytimg.com/vi/a42x0Y7p5UA/hqdefault.jpg"/></a> | [Lock Screen Dock on iPhone \| Creating a Live Activity \| ActivityKit \| WidgetKit \| iOS 16 \| SwiftUI](https://www.youtube.com/watch?v=a42x0Y7p5UA) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EDaW9QybJf8"><img width="140px" height="auto" alt="thumb-EDaW9QybJf8" src="https://i.ytimg.com/vi/EDaW9QybJf8/hqdefault.jpg"/></a> | [Flight App UI \| 3D Animation \| Pulse Rings \| Sequence + Delay Animation \| SwiftUI \| Part 2](https://www.youtube.com/watch?v=EDaW9QybJf8) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fkK_VzRoN6A"><img width="140px" height="auto" alt="thumb-fkK_VzRoN6A" src="https://i.ytimg.com/vi/fkK_VzRoN6A/hqdefault.jpg"/></a> | [SwiftUI 3D Animated Carousel - Animation Challenge - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=fkK_VzRoN6A) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YNxjQWYYwCU"><img width="140px" height="auto" alt="thumb-YNxjQWYYwCU" src="https://i.ytimg.com/vi/YNxjQWYYwCU/hqdefault.jpg"/></a> | [SwiftUI App Intro Animation's - Walkthrough Page Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=YNxjQWYYwCU) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8sgjvgBasYM"><img width="140px" height="auto" alt="thumb-8sgjvgBasYM" src="https://i.ytimg.com/vi/8sgjvgBasYM/hqdefault.jpg"/></a> | [SwiftUI 4.0 Animation Challenge - Hero Animation - macOS - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=8sgjvgBasYM) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-pAQcPolruw"><img width="140px" height="auto" alt="thumb--pAQcPolruw" src="https://i.ytimg.com/vi/-pAQcPolruw/hqdefault.jpg"/></a> | [SwiftUI Social Media App - Firebase - Part 1 - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=-pAQcPolruw) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=E5LdH1MFrqQ"><img width="140px" height="auto" alt="thumb-E5LdH1MFrqQ" src="https://i.ytimg.com/vi/E5LdH1MFrqQ/hqdefault.jpg"/></a> | [Auto OTP TextField \| Compatible for iOS 15 & 16 \| Custom TextField \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=E5LdH1MFrqQ) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-d_KfSQS9KY"><img width="140px" height="auto" alt="thumb--d_KfSQS9KY" src="https://i.ytimg.com/vi/-d_KfSQS9KY/hqdefault.jpg"/></a> | [Flight App UI Animation's \| SwiftUI Challenge \| Part 1 \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=-d_KfSQS9KY) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tjiWNdZG-aU"><img width="140px" height="auto" alt="thumb-tjiWNdZG-aU" src="https://i.ytimg.com/vi/tjiWNdZG-aU/hqdefault.jpg"/></a> | [Flight App UI Animation's \| SwiftUI Challenge \| Part 1 \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=tjiWNdZG-aU) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VCknFsmQR2Y"><img width="140px" height="auto" alt="thumb-VCknFsmQR2Y" src="https://i.ytimg.com/vi/VCknFsmQR2Y/hqdefault.jpg"/></a> | [SwiftUI Animated Sticky Header \| Resizable Header \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=VCknFsmQR2Y) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RhZwQj9D80c"><img width="140px" height="auto" alt="thumb-RhZwQj9D80c" src="https://i.ytimg.com/vi/RhZwQj9D80c/hqdefault.jpg"/></a> | [Dynamic Island - In-App Custom Notification's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=RhZwQj9D80c) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=b6faMVHAFPw"><img width="140px" height="auto" alt="thumb-b6faMVHAFPw" src="https://i.ytimg.com/vi/b6faMVHAFPw/hqdefault.jpg"/></a> | [SwiftUI Responsive UI Design - Adaptive Design - MVVM - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=b6faMVHAFPw) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NubKNnuMFio"><img width="140px" height="auto" alt="thumb-NubKNnuMFio" src="https://i.ytimg.com/vi/NubKNnuMFio/hqdefault.jpg"/></a> | [Login Page UI + Apple Sign in - Google Sign in - Firebase Phone Auth - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=NubKNnuMFio) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xyv_J977B1E"><img width="140px" height="auto" alt="thumb-xyv_J977B1E" src="https://i.ytimg.com/vi/xyv_J977B1E/hqdefault.jpg"/></a> | [Grid Magnification Effect - Animation Challenge - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=xyv_J977B1E) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=e_2VCTr6uBk"><img width="140px" height="auto" alt="thumb-e_2VCTr6uBk" src="https://i.ytimg.com/vi/e_2VCTr6uBk/hqdefault.jpg"/></a> | [5 Underrated SwiftUI Modifiers (iOS 16) - Xcode 14](https://www.youtube.com/watch?v=e_2VCTr6uBk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zmte3GQnr6c"><img width="140px" height="auto" alt="thumb-zmte3GQnr6c" src="https://i.ytimg.com/vi/zmte3GQnr6c/hqdefault.jpg"/></a> | [SwiftUI Book App Animation's - 3D Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=zmte3GQnr6c) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Xs0mFZZd_Jw"><img width="140px" height="auto" alt="thumb-Xs0mFZZd_Jw" src="https://i.ytimg.com/vi/Xs0mFZZd_Jw/hqdefault.jpg"/></a> | [Micro-Interactions - Animated Tab Icons - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=Xs0mFZZd_Jw) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6gAqdamj6tg"><img width="140px" height="auto" alt="thumb-6gAqdamj6tg" src="https://i.ytimg.com/vi/6gAqdamj6tg/hqdefault.jpg"/></a> | [SwiftUI Animated Carousel - Xcode 14 - SwiftUI Tutorials \| Animation Challenge](https://www.youtube.com/watch?v=6gAqdamj6tg) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ho7ggcU6ps4"><img width="140px" height="auto" alt="thumb-ho7ggcU6ps4" src="https://i.ytimg.com/vi/ho7ggcU6ps4/hqdefault.jpg"/></a> | [SwiftUI Animation Challenge - Matched Geometry Effect + Masking + Lottie + Transitions - Xcode 14](https://www.youtube.com/watch?v=ho7ggcU6ps4) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ChTGbmR2NeM"><img width="140px" height="auto" alt="thumb-ChTGbmR2NeM" src="https://i.ytimg.com/vi/ChTGbmR2NeM/hqdefault.jpg"/></a> | [How to Build an MVP for Your App – Full Course on Minimum Viable Product Development](https://www.youtube.com/watch?v=ChTGbmR2NeM) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xS-fGYDD0qk"><img width="140px" height="auto" alt="thumb-xS-fGYDD0qk" src="https://i.ytimg.com/vi/xS-fGYDD0qk/hqdefault.jpg"/></a> | [SwiftUI 4.0 - New Swift Charts API - Customisation, Animations ](https://www.youtube.com/watch?v=xS-fGYDD0qk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ALzrixd_hd8"><img width="140px" height="auto" alt="thumb-ALzrixd_hd8" src="https://i.ytimg.com/vi/ALzrixd_hd8/hqdefault.jpg"/></a> | [SwiftUI Responsive UI Design - Adaptive Design - MVVM - Xcode 13 - SwiftUI Tutorials](https://www.youtube.com/watch?v=ALzrixd_hd8) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-
-::::
 
 ---
 ## Philipp Lackner
@@ -100,6 +82,12 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=VWlwkqmTLHc"><img width="140px" height="auto" alt="thumb-VWlwkqmTLHc" src="https://i.ytimg.com/vi/VWlwkqmTLHc/hqdefault.jpg"/></a> | [In-Depth Guide to Coroutine Cancellation & Exception Handling - Android Studio Tutorial](https://www.youtube.com/watch?v=VWlwkqmTLHc) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=eAbKK7JNxCE"><img width="140px" height="auto" alt="thumb-eAbKK7JNxCE" src="https://i.ytimg.com/vi/eAbKK7JNxCE/hqdefault.jpg"/></a> | [How to Build an MVI Clean Code Weather App in Android Studio (Jetpack Compose)](https://www.youtube.com/watch?v=eAbKK7JNxCE) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
 
+The Top 3 Clean Architecture Mistakes in Android
+O7rPeWnCvhc
+
+THIS Is How You Schedule Alarms on Android with AlarmManager
+mWb_hEBLIqA
+
 :::
 
 
@@ -117,6 +105,13 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=QqcMKQgfzec"><img width="140px" height="auto" alt="thumb-QqcMKQgfzec" src="https://i.ytimg.com/vi/QqcMKQgfzec/hqdefault.jpg"/></a> | [Color Picker Component for Jetpack Compose | Android Studio Tutorial](https://www.youtube.com/watch?v=QqcMKQgfzec) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=AMrYKkCd2Ck"><img width="140px" height="auto" alt="thumb-AMrYKkCd2Ck" src="https://i.ytimg.com/vi/AMrYKkCd2Ck/hqdefault.jpg"/></a> | [Android and Web App Development using the Backendless Platform | Online Course](https://www.youtube.com/watch?v=AMrYKkCd2Ck) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
 
+Everything You Need to Know about `derivedStateOf()`
+yJheLbxYd10
+
+Implement Material 3 Date/Time Pickers with Jetpack Compose! - Android Studio Tutorial
+uAw87DdUnxg
+
+
 :::
 
 ---
@@ -133,6 +128,12 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=KfENDDEpCsI"><img width="140px" height="auto" alt="thumb-KfENDDEpCsI" src="https://i.ytimg.com/vi/KfENDDEpCsI/hqdefault.jpg"/></a> | [Vim As Your Editor - Vertical Movements](https://www.youtube.com/watch?v=KfENDDEpCsI) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=qZO9A5F6BZs"><img width="140px" height="auto" alt="thumb-qZO9A5F6BZs" src="https://i.ytimg.com/vi/qZO9A5F6BZs/hqdefault.jpg"/></a> | [Vim As You Editor - Advanced Motions P1](https://www.youtube.com/watch?v=qZO9A5F6BZs) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=bdumjiHabhQ"><img width="140px" height="auto" alt="thumb-bdumjiHabhQ" src="https://i.ytimg.com/vi/bdumjiHabhQ/hqdefault.jpg"/></a> | [My Developer Workflow - How I use i3, tmux, and vim](https://www.youtube.com/watch?v=bdumjiHabhQ) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
+
+1,606,240% FASTER algorithm
+U16RnpV48KQ
+
+You only Git Merge?!? feat Theo : DevHour #1
+7gEbHsHXdn0
 
 :::
 
@@ -182,6 +183,9 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=9SGDpanrc8U"><img width="140px" height="auto" alt="thumb-9SGDpanrc8U" src="https://i.ytimg.com/vi/9SGDpanrc8U/hqdefault.jpg"/></a> | [Spring Boot Tutorial \| Full Course \[2022\] \[NEW\]](https://www.youtube.com/watch?v=9SGDpanrc8U) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=-mwpoE0x0JQ"><img width="140px" height="auto" alt="thumb--mwpoE0x0JQ" src="https://i.ytimg.com/vi/-mwpoE0x0JQ/hqdefault.jpg"/></a> | [Spring Boot - Learn Spring Boot 3 (2 Hours)](https://www.youtube.com/watch?v=-mwpoE0x0JQ) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
+
+Oh Boy Look At These API Endpoints. Seriously
+WxZdK7YN8Fw
 
 :::
 
@@ -279,6 +283,13 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=z6EpJFMDpK8"><img width="140px" height="auto" alt="thumb-z6EpJFMDpK8" src="https://i.ytimg.com/vi/z6EpJFMDpK8/hqdefault.jpg"/></a> | [C# Assembly Tutorial \| What Is Assembly in C# \| Assembly in C# Explained \| C# Tutorial \| Simplilearn](https://www.youtube.com/watch?v=z6EpJFMDpK8) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Od1mocpoM90"><img width="140px" height="auto" alt="thumb-Od1mocpoM90" src="https://i.ytimg.com/vi/Od1mocpoM90/hqdefault.jpg"/></a> | [🔥Web Development Full Course \| HTML And CSS Full Course \| HTML Tutorial \| CSS Tutorial \| Simplilearn](https://www.youtube.com/watch?v=Od1mocpoM90) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
 
+
+Advanced Excel Full Course 2023 \| Excel Tutorial For Beginners \| Excel Training \| Simplilearn
+8Ob8Hre_SnI
+
+🔥Career Information Session: Launching a Cybersecurity Career With Caltech CTME \| Simplilearn
+fpT-xEaJXug
+
 :::
 
 
@@ -333,7 +344,12 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=vHuSz4fRM88"><img width="140px" height="auto" alt="thumb-vHuSz4fRM88" src="https://i.ytimg.com/vi/vHuSz4fRM88/hqdefault.jpg"/></a> | [The secret to mastering CSS layouts](https://www.youtube.com/watch?v=vHuSz4fRM88) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=A0J-hB3kSQ4"><img width="140px" height="auto" alt="thumb-A0J-hB3kSQ4" src="https://i.ytimg.com/vi/A0J-hB3kSQ4/hqdefault.jpg"/></a> | [Can you beat me at a CSS Battle?](https://www.youtube.com/watch?v=A0J-hB3kSQ4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
 
+
+The problem with percentages in CSS
+I4gUvhG7uFU
+
 :::
+
 ---
 ## DEvS
 
@@ -399,11 +415,9 @@ XyHD94w7HMY
 | ❌ | <a href="https://www.youtube.com/watch?v=zcKWv8ZY0Jc"><img width="140px" height="auto" alt="thumb-zcKWv8ZY0Jc" src="https://i.ytimg.com/vi/zcKWv8ZY0Jc/hqdefault.jpg"/></a> | [1) Spring RestApi With MySQL - Employee App](https://www.youtube.com/watch?v=zcKWv8ZY0Jc) <br/><br/> _[omer java][yu-omer-java]_ |
 
 
-
 <TagLinks />
 
 [yu-freecodecamp]: https://www.youtube.com/@freecodecamp
-[yu-kavsoft]: https://www.youtube.com/@Kavsoft
 [yu-PhilippLackner]: https://www.youtube.com/@PhilippLackner
 [yu-Stevdza-San]: https://www.youtube.com/@StevdzaSan
 [yu-theprimeagen]: https://www.youtube.com/@ThePrimeagen

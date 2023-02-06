@@ -21,8 +21,11 @@ function getDocsNavBar(item) {
               'youtube/watch-later',
               'youtube/watch-later-tutorial',
               'youtube/watch-later-keynote',
+              'youtube/edu-compsci',
               'youtube/edu-linux',
               'youtube/edu-java',
+              'youtube/edu-ios',
+              'youtube/edu-python',
               'youtube/edu-c+cpp',
             ]
           }, {
