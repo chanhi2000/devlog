@@ -11,6 +11,54 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
+## NHN Cloud
+
+[NHN Cloud][yu-nhn-cloud]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+\[NHN FORWARD 22\] 분산 시스템에서 데이터를 전달하는 효율적인 방법
+uk5fRLUsBfk
+
+\[NHN FORWARD 22\] 실전 Vault 도입기
+hwJet__03AA
+
+\[NHN FORWARD 22\] 괴물 같이 변한 Dooray! 웹앱 정리하기
+PxQK9LsCrWA
+
+\[NHN FORWARD 22\] API 우선 접근 방식과 OpenAPI Specification
+28Tz7gos5DQ
+
+\[NHN FORWARD 22\] K8s 도입하면서 겪은 일들
+JBGsqsoGxEo
+
+\[NHN FORWARD 22\] Spring Cloud 기반 MSA 환경을 쿠버네티스로 전환하기
+otss__0kf-g
+
+\[NHN FORWARD 22\] OpenTelemetry를 활용한 모니터링
+EZmUxMtx5Fc
+
+\[NHN FORWARD 22\] 델타 인코딩 적용을 통한 Dooray! 드라이브 업로드 다운로드 성능 향상기
+iDsIccISD8o
+
+\[NHN FORWARD 22\] 빠른 정보 제공을 위한 통계 시스템 개선기
+kZnWWq_HzdM
+
+\[NHN FORWARD 22\] 밑바닥부터 만들어 보는 UI 프레임워크
+VREoOWBOUW8
+
+\[NHN FORWARD 22\] Jenkins에서 Jenkins로의 여정
+8sKTvf1c2zQ
+
+\[NHN FORWARD 22\] 오픈소스 KeyCloak을 활용한 인증 서버 구축기
+dFPGO5jDHPY
+
+:::
+
+---
+
 ## Coding Tech
 
 [Coding Tech][yu-coding-tech]
@@ -21,6 +69,9 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 | ❌ | <a href="https://www.youtube.com/watch?v=B0MfK-rBK90"><img width="140px" height="auto" alt="thumb-B0MfK-rBK90" src="https://i.ytimg.com/vi/B0MfK-rBK90/hqdefault.jpg"/></a> | [Lyra: Disrupting full Text Search industry with JavaScript](https://www.youtube.com/watch?v=B0MfK-rBK90) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=1Nc_-8gk_mk"><img width="140px" height="auto" alt="thumb-1Nc_-8gk_mk" src="https://i.ytimg.com/vi/1Nc_-8gk_mk/hqdefault.jpg"/></a> | [Hilla: The Modern Web Framework for Java](https://www.youtube.com/watch?v=1Nc_-8gk_mk) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=pLKE2DvPxDo"><img width="140px" height="auto" alt="thumb-pLKE2DvPxDo" src="https://i.ytimg.com/vi/pLKE2DvPxDo/hqdefault.jpg"/></a> | [How to add 3D Models to Website using React Three Fiber](https://www.youtube.com/watch?v=pLKE2DvPxDo) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
+
+Node on Mobile
+YlO1Ul7cPlU
 
 :::
 
@@ -40,9 +91,62 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  \[토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩\]
 OZCXTBr7V44
 
+클라우드가 도와주는웹 UX 기획,디자인 고민: 이미지처리 자동화, 웹사용자 경험 개선 \[토크아이티 세미남219, 아카마이 Image 
+ikwIYS_olK8
+
 :::
 
 ---
+
+## 코드스쿼드
+
+[코드스쿼드][yu-user-nf9gd7uz9s]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+402H \(워크숍\) 그래서 테스트코드는 어떻게 작성하고 있나요? - 윤중현
+QEatbenQC7E
+
+
+402F 당근마켓 iOS 개발문화 \(티타임\)
+K_elCcD27IA
+
+
+401F Modular Architecture with Tuist - 김우성
+kfuOcu0q0Ls
+
+
+402D 우당탕탕! SafariExtension에서 XcodeExtension까지 - 이다혜
+XDaaN9MLPvQ
+
+
+402C \(워크숍\) SwiftUI와 TCA로 GithubSearch 앱 만들기 - 허규영, 김대영
+2DO420E9lvs
+
+401E PencilKit과 Point in polygon 알고리즘을 활용한 올가미 툴 개발기 - 이해석
+PU8FkRTMc2M
+
+:::
+
+
+---
+## Github
+
+[Github][yu-github]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Make your command line glamorous with Charm - Open Source Friday
+UT74eayrS7A
+
+:::
+
+---
+
 ## 티맥스
 
 [티맥스][yu-tmax]
@@ -95,6 +199,28 @@ OZCXTBr7V44
 :::
 
 ---
+
+## Java
+
+[Java][yu-java]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+
+How do you the sum the elements of an array? - Cracking the Java Coding Interview
+hkpNt37nauw
+
+Java Asynchronous Programming Full Tutorial with Loom and Structured Concurrency - JEP Café #13
+2nOj8MKHvmw
+
+Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond
+jb7m9dL1iSI
+
+:::
+
+---
 ## Docker
 
 [Docker][yu-docker]
@@ -112,6 +238,30 @@ How to Create a Great Local Python Development Environment with Docker
 Best Practices for Production-ready .NET Docker Images
 hUSbU3K5tgQ
 
+How to Use the Apache httpd Docker Official Image
+WLBB1CZ9vo0
+
+:::
+
+---
+
+## dotnet
+
+[dotnet][yu-dotnet]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=jaPk6Nt33KM"><img width="140px" height="auto" alt="thumb-jaPk6Nt33KM" src="https://i.ytimg.com/vi/jaPk6Nt33KM/hqdefault.jpg"/></a> | [Languages &amp; Runtime Community Standup - Dive into C# internals](https://www.youtube.com/watch?v=jaPk6Nt33KM) <br/><br/> _[dotnet][yu-dotnet]_ |
+
+On .NET Live - Building web apps using MVVM
+0cqtHWfgS5E
+
+OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane
+xyus7zlmgdc
+
+Learn C# with CSharpFritz - Introduction to .NET MAUI
+FhBgj9yORy4
 
 :::
 
@@ -133,8 +283,28 @@ Distributed Tracing Integration with OpenTelemetry and Knative - Daniel Oh &amp;
 What Anime Taught Me About K8s &amp; Tech Careers - Annie Talvasto, Camunda
 dlVI0MeFJAo
 
+CIS Kubernetes Benchmarks with Kubescape
+35ue_FZAerU
+
+Running distributed load tests with the Grafana k6-operator
+OqeVrDnRFiU
+
 :::
 
+---
+
+## Snyk
+
+[Snyk][yu-snyk]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Understanding NPM Dependency Confusions - What You Need to Know
+uJ_hOA9IQw0
+
+:::
 
 ---
 ## NGINX 
@@ -148,6 +318,13 @@ dlVI0MeFJAo
 Introduction to Language Modules in NGINX Unit
 hzBwITaPMuM
 
+Explore the Config API and Unit Components
+eEwjaiixSeQ
+
+A Guide to Adopting Kubernetes
+voEn_eprn_U
+
+| ❌ | <a href="https://www.youtube.com/watch?v=w8WqE0LgQBU"><img width="140px" height="auto" alt="thumb-w8WqE0LgQBU" src="https://i.ytimg.com/vi/w8WqE0LgQBU/hqdefault.jpg"/></a> | [A Deeper Dive into WebAssembly, the New Executable Format for the Web](https://www.youtube.com/watch?v=w8WqE0LgQBU) <br/><br/> _[NGINX][yu-nginx]_ |
 :::
 
 
@@ -189,6 +366,21 @@ Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021
 :::
 
 ---
+
+## Microsoft Developer
+
+[Microsoft Developer][yu-microsoft-developer]@MicrosoftDeveloper
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation
+7ZeZD-iJFQw
+
+:::
+
+---
 ## Red Hat Korea
 
 [Red Hat Korea][yu-redhatkorea2558]
@@ -196,6 +388,15 @@ Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
+
+\[📔Brown Bag 세션 #19\] K8S API Server를 이용한 Pod Monitoring
+VhQR8xNOPCQ
+
+\[📔Brown Bag 세션 #20\] OpenShift Pipelines 설치 및 사용 방법
+1B35V_dKQK0
+
+\[📔Brown Bag 세션 #21\] Realtime Linux란?
+HPRJDFAKp_0
 
 \[📔Brown Bag 세션 #22\] Edge란 무엇일까요?
 Ywjs4Fo9nL4
@@ -233,6 +434,65 @@ g7BX0rgn4_E
 :::
 
 ---
+
+## Hacktivity - IT Security Festival
+
+[Hacktivity - IT Security Festival][yu-hacktivity]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+#Hacktivity2022 // How an Android Application can Drain Your Wallet? by Dimitrios Valsamaras
+tOUOzHOFNMs
+
+:::
+
+---
+
+## GOTO Conferences
+
+[GOTO Conferences][yu-goto]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Building Your Own Compiler The Slightly Easier Way With LLVM • Erik Corry • YOW! 2016
+_XbOTRunqHk
+
+:::
+
+---
+## Amazon Web Services Korea
+
+[Amazon Web Services Korea][yu-AWSKorea]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+AWS re:Invent 2022 - 엔터프라이즈 클라우드 여정 모범 사례 - 한진 및 LG CNS \(GEO101\)
+S3jHtOHdGm4
+
+:::
+
+---
+
+## VMware Cloud Native Apps
+
+[VMware Cloud Native Apps][yu-vmwarecloudnativeapps816]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Getting Started Tutorials: ytt Part 2
+brOoKhVxedE
+
+:::
+
+---
 ## Misc.
 
 | W / NW | Thumbnail | Account / Title |
@@ -243,17 +503,28 @@ g7BX0rgn4_E
 
 <TagLinks />
 
+[yu-nhn-cloud]: https://www.youtube.com/@NHNCloud
 [yu-coding-tech]: https://www.youtube.com/@CodingTech
 [yu-bejs]: https://www.youtube.com/@BeJScommunity
 [yu-talk-it]: https://www.youtube.com/@Talkitonair
+[yu-user-nf9gd7uz9s]: https://www.youtube.com/@user-nf9gd7uz9s
+[yu-github]: https://www.youtube.com/@Github
 [yu-tmax]: https://www.youtube.com/@tmax
 [yu-kotlin-by-jetbrains]: https://www.youtube.com/@Kotlin
 [yu-intellij-idea-by-jetbrains]: https://www.youtube.com/@intellijidea
 [yu-asyncswiftkorea8910]: https://www.youtube.com/@asyncswiftkorea8910
 [yu-py-con-kr-tube]: https://www.youtube.com/@PyConKRtube
 [yu-gradle]: https://www.youtube.com/@GradleInc
+[yu-java]: https://www.youtube.com/@java
 [yu-docker]: https://www.youtube.com/@DockerIo
+[yu-dotnet]: https://www.youtube.com/@dotnet
 [yu-cncf]: https://www.youtube.com/@cncf
+[yu-snyk]: https://www.youtube.com/@Snyksec
 [yu-nginx]: https://www.youtube.com/@nginx_official
 [yu-code-on-the-beach]: https://www.youtube.com/@codeonthebeach
+[yu-microsoft-developer]: https://www.youtube.com/@MicrosoftDeveloper
 [yu-redhatkorea2558]: https://www.youtube.com/@redhatkorea2558
+[yu-hacktivity]: https://www.youtube.com/@hacktivityconf
+[yu-goto]: https://www.youtube.com/@GOTO-
+[yu-AWSKorea]: https://www.youtube.com/@AWSKorea
+[yu-vmwarecloudnativeapps816]: https://www.youtube.com/@@vmwarecloudnativeapps816

@@ -66,7 +66,63 @@ _TqEG3bAaeg
 SwiftUI 4.0 - Task Management App UI - Complex UI - MVVM - Xcode 14 - SwiftUI Tutorials
 aTSjMpgkXkY
 
-::::
+Photo Editor / Image Cropping Tool Using SwiftUI \| Gestures \| Xcode 14 \| SwiftUI Tutorials
+1Fz86eQjxus
+
+:::
+
+---
+## Sean Allen
+
+[Sean Allen][yu-seanallen]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=RmaCJyvSyUE"><img width="140px" height="auto" alt="thumb-RmaCJyvSyUE" src="https://i.ytimg.com/vi/RmaCJyvSyUE/hqdefault.jpg"/></a> | [Will ChatGPT Destroy iOS Developer Jobs? A Demonstration](https://www.youtube.com/watch?v=RmaCJyvSyUE) <br/><br/> _[Sean Allen][yu-seanallen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4utsyqhnS4g"><img width="140px" height="auto" alt="thumb-4utsyqhnS4g" src="https://i.ytimg.com/vi/4utsyqhnS4g/hqdefault.jpg"/></a> | [SwiftUI Bar Chart with Customizations \| Swift Charts](https://www.youtube.com/watch?v=4utsyqhnS4g) <br/><br/> _[Sean Allen][yu-seanallen]_ |
+
+:::
+
+---
+
+## Kilo Loco
+
+[Kilo Loco][yu-kilo-loco]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Navigation Basics for SwiftUI on macOS
+8buuKon6ZdQ
+
+:::
+
+
+---
+
+## CodeWithChris
+
+[CodeWithChris][yu-code-w-chris]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=r-wkDztkB0E"><img width="140px" height="auto" alt="thumb-r-wkDztkB0E" src="https://i.ytimg.com/vi/r-wkDztkB0E/hqdefault.jpg"/></a> | [Swift Functions - Lesson 6 \(2023 / Xcode 14 / SwiftUI\)](https://www.youtube.com/watch?v=r-wkDztkB0E) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
+
+How to Build a User Interface in Xcode - Lesson 3 \(2023 / Xcode 14 / SwiftUI\)
+PCvopT3Wnek
+
+How to Use Custom Fonts in SwiftUI
+4PI04Yj3Ngs
+
+:::
+
+<TagLinks/>
 
 [yu-ios-academy]: https://www.youtube.com/@iOSAcademy
 [yu-kavsoft]: https://www.youtube.com/@Kavsoft
+[yu-seanallen]: https://www.youtube.com/@seanallen
+[yu-kilo-loco]: https://www.youtube.com/@Kilo_Loco
+[yu-code-w-chris]: https://www.youtube.com/@CodeWithChris

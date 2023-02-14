@@ -26,8 +26,30 @@ tMLsR0_2yIE
 Professional Command-Line Tools with Click-Shell
 glhdVc0gcAg
 
+Dive Into The Details: Disassembling Python Code
+2Z1RJDVM0rc
+
+Professional Dependency Management with Pipfiles
+74pSNpgHFGo
+
+:::
+
+---
+
+## The PyCoach 
+
+[The PyCoach][yu-the-py-coach]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Automate Excel with ChatGPT \(and Python\)
+A4gYAKry7P0
+
 :::
 
 <TagLinks />
 
 [yu-neural-nine]: https://www.youtube.com/@NeuralNine
+[yu-the-py-coach]: https://www.youtube.com/@ThePyCoach

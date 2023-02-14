@@ -91,8 +91,37 @@ ByteArrayOutputStream in Java \| Java ByteArrayOutputStream Examples \| Java IO 
 hycA8lxjIHI
 
 :::
+
+---
+
+## 웹짱이영환쌤
+
+[웹짱이영환쌤][yu-user-jn1ly6wf9q]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Webjjang JAVA ver.2022.11 17-08 JDBC 응용 - Qna - DB Driver 로딩과 조인 적용\(웹짱과 함께하는 자바2211\)
+S1GOHP1cRsw
+
+Webjjang JAVA ver.2022.11 17-09 JDBC 응용 - Qna - 글보기의 DAO\(웹짱과 함께하는 자바2211\)
+gi5eZS9ft64
+
+Webjjang JAVA ver.2022.11 17-10 JDBC 응용 - Qna - 조회수 1증가와 보기 데이터 출력\(웹짱과 함께하는 자바2211\)
+k7Q0KZpJmP0
+
+Webjjang JAVA ver.2022.11 17-11 JDBC 응용 - Qna - 질문하기\(웹짱과 함께하는 자바2211\)
+rFwh0v61PsU
+
+Webjjang JAVA ver.2022.11 17-12 JDBC 응용 - Qna - 답변하기\(웹짱과 함께하는 자바2211\)
+Usqz87PMv8o
+
+:::
+
 <TagLinks />
 
 [yu-freeleckor]: https://www.youtube.com/@FREELECKOR
 [yu-java-guides]: https://www.youtube.com/@JavaGuides
 [yu-ram-n-java]: https://www.youtube.com/@RamNJava
+[yu-user-jn1ly6wf9q]: https://www.youtube.com/@user-jn1ly6wf9q

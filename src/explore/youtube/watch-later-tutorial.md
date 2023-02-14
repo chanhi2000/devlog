@@ -58,6 +58,27 @@ d6WC5n9G_sM
 Python for Web Development – Crash Course \[API, SQL Databases, Virtual Environment, Flask, Django\]
 WNvxR8RFzBg
 
+Music Production with FL Studio – Full Tutorial for Beginners
+BUjdnxgBgzM
+
+React with .NET Web API – Basic App Tutorial
+4RKuyp_bOhY
+
+Algorithms and Data Structures Tutorial - Full Course for Beginners
+8hly31xKli0
+
+Harvard CS50 – Full Computer Science University Course
+8mAITcNt710
+
+DevOps Engineering Course for Beginners
+j5Zsa_eOXeY
+
+Vim Tutorial for Beginners
+RZ4p-saaQkc
+
+Next.js React Framework Course – Build and Deploy a Full Stack App From scratch
+KjY94sAKLlw
+
 ::: 
 
 ---
@@ -88,6 +109,15 @@ O7rPeWnCvhc
 THIS Is How You Schedule Alarms on Android with AlarmManager
 mWb_hEBLIqA
 
+How to Execute Code When the Android Device Is Booting Up
+UiQWb3T2G-U
+
+How to Create a Magic Text That Always Fits Its Container - Jetpack Compose Tutorial
+ntlyrFw0F9U
+
+Let's Migrate an XML Project to Jetpack Compose!
+qYzhqFdUEQg
+
 :::
 
 
@@ -110,6 +140,28 @@ yJheLbxYd10
 
 Implement Material 3 Date/Time Pickers with Jetpack Compose! - Android Studio Tutorial
 uAw87DdUnxg
+
+Return a value from a Kotlin Coroutine Scope - Explained
+pqQkl9BInAw
+
+:::
+
+## CodingWithMitch
+
+[CodingWithMitch][yu-coding-w-mitch]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+Powerful Android Apps CLEAN Refactor
+EvYLJza-i74
+
+Android Google Maps with Jetpack Compose 2023
+hhSTYK7I78c
+
+Serve an XML or Compose UI at RUNTIME
+CWSeZqM_-6I
 
 
 :::
@@ -134,6 +186,12 @@ U16RnpV48KQ
 
 You only Git Merge?!? feat Theo : DevHour #1
 7gEbHsHXdn0
+
+Best Vim Motion in 20 Seconds
+uxMfvWPUThE
+
+React Is This Fast???
+461735zrjzY
 
 :::
 
@@ -170,6 +228,12 @@ You only Git Merge?!? feat Theo : DevHour #1
 | ❌ | <a href="https://www.youtube.com/watch?v=W8IK3MeJ5H0"><img width="140px" height="auto" alt="thumb-W8IK3MeJ5H0" src="https://i.ytimg.com/vi/W8IK3MeJ5H0/hqdefault.jpg"/></a> | [Build Reddit App with NextJS](https://www.youtube.com/watch?v=W8IK3MeJ5H0) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=xnshvkVrsw8"><img width="140px" height="auto" alt="thumb-xnshvkVrsw8" src="https://i.ytimg.com/vi/xnshvkVrsw8/hqdefault.jpg"/></a> | [🔴 Build Medium App with Next.js and Firebase](https://www.youtube.com/watch?v=xnshvkVrsw8) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
 
+Build WhatsApp Blog Web3 App with NextJS
+47JfV25M9UY 
+
+Build Instagram Web3 App with Infura &amp; NextJS
+cZUgS19WM1g
+
 :::
 
 
@@ -186,6 +250,9 @@ You only Git Merge?!? feat Theo : DevHour #1
 
 Oh Boy Look At These API Endpoints. Seriously
 WxZdK7YN8Fw
+
+Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation \[NEW\] \[2023\]
+KxqlJblhzfI
 
 :::
 
@@ -247,6 +314,9 @@ WxZdK7YN8Fw
 | ❌ | <a href="https://www.youtube.com/watch?v=CoVEjA9E_Mo"><img width="140px" height="auto" alt="thumb-CoVEjA9E_Mo" src="https://i.ytimg.com/vi/CoVEjA9E_Mo/hqdefault.jpg"/></a> | [Spring Boot Dirties Context](https://www.youtube.com/watch?v=CoVEjA9E_Mo) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=4BWJgK4CJDI"><img width="140px" height="auto" alt="thumb-4BWJgK4CJDI" src="https://i.ytimg.com/vi/4BWJgK4CJDI/hqdefault.jpg"/></a> | [Spring Boot JPA OneToOne Standard](https://www.youtube.com/watch?v=4BWJgK4CJDI) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
 
+Jpa And Optional
+s_QbfTL3RRI
+
 ::::
 
 ---
@@ -289,6 +359,9 @@ Advanced Excel Full Course 2023 \| Excel Tutorial For Beginners \| Excel Trainin
 
 🔥Career Information Session: Launching a Cybersecurity Career With Caltech CTME \| Simplilearn
 fpT-xEaJXug
+
+🔴 Build A Whatsapp Clone With React JS? \| WhatsApp Clone Using React JS \| Simplilearn
+e9RY66E8LeQ
 
 :::
 
@@ -348,6 +421,14 @@ fpT-xEaJXug
 The problem with percentages in CSS
 I4gUvhG7uFU
 
+The `console.log()` of css
+ii-lSK2_Nu4
+
+How is this possible with only HTML &amp; CSS? \| Reacting to CSS-only art
+sI9p5EswxdQ
+
+4 ways to deal with overflowing text
+6Nv0weHy7t0
 :::
 
 ---
@@ -420,6 +501,7 @@ XyHD94w7HMY
 [yu-freecodecamp]: https://www.youtube.com/@freecodecamp
 [yu-PhilippLackner]: https://www.youtube.com/@PhilippLackner
 [yu-Stevdza-San]: https://www.youtube.com/@StevdzaSan
+[yu-coding-w-mitch]: https://www.youtube.com/@codingwithmitch
 [yu-theprimeagen]: https://www.youtube.com/@ThePrimeagen
 [yu-SonnySangha]: https://www.youtube.com/@SonnySangha
 [yu-CleverProgrammer]:https://www.youtube.com/@CleverProgrammer
