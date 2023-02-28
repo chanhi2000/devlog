@@ -198,8 +198,41 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 :::
 
+---
+
+## Software Tool Time
+
+[Software Tool Time][yu-software-tool-time]
+
+::: details
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+
+\[SWTT\] Bash 기초편 01 - linux utility 명령과 차이, 기호와 문법
+6cj3oy0RunE
+
+\[SWTT\] Bash 기초편 03 - Expansion and Globbing
+Y5-1vJwqpN8
+
+\[SWTT\] Bash 기초편 05 - Redirection
+kbkZ1g9MXxs
+
+
+\[SWTT\] Bash 기초편 06 - Condition and Loop
+ZAkgvKHoE40
+
+
+\[SWTT\] Bash 기초편 07 - Array, Dictionary, History
+bsWR8mKXXvs
+
+
+\[SWTT\] Bash 기초편 08 - 환경설정과 기타 명령
+67ffzvK-swk
+
+:::
 <TagLinks />
 
 [yu-linux-leech]: https://www.youtube.com/@linuxleech
 [yu-tmanelshrghk]: https://www.youtube.com/@tmanelshrghk
 [yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93
+[yu-software-tool-time]: https://www.youtube.com/@SoftwareToolTime

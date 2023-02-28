@@ -76,6 +76,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ---
 ## Python
+
 - [gto76/python-cheatsheet][gto76/python-cheatsheet]: Comprehensive Python Cheatsheet
     - [🌐Official Site](https://gto76.github.io/python-cheatsheet)
 - [jackfrued/Python-Core-50-Courses][jackfrued/Python-Core-50-Courses]: Python语言基础50课
@@ -93,15 +94,18 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ---
 ## Flutter
+
 - [vandadnp/flutter-tips-and-tricks][vandadnp/flutter-tips-and-tricks]: A Collection of Flutter and Dart Tips and Tricks
     - [🌐Official Site](https://linktr.ee/vandadnp)
 
 ---
 ## C#
 
+- [microsoft/hack-together][microsoft/hack-together]: Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.
 
 ---
 ## Go
+
 - [inancgumus/learngo][inancgumus/learngo]: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [marcel-dempers/docker-development-youtube-series][marcel-dempers/docker-development-youtube-series]: A Collection of tools, hands-on walkthroughs with source code.
 
@@ -114,7 +118,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
     - [🌐Official Site](https://google.github.io/comprehensive-rust)
 - [skyzh/mini-lsm][skyzh/mini-lsm]: A tutorial of building an LSM-Tree storage engine in a week! (WIP)
     - [🌐Official Site](https://skyzh.github.io/mini-lsm)
-
 
 ---
 ## C & C++
@@ -215,7 +218,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->
-
+[microsoft/hack-together]: https://github.com/microsoft/hack-together
 <!-- Go -->
 [inancgumus/learngo]: https://github.com/inancgumus/learngo
 [marcel-dempers/docker-development-youtube-series]: https://github.com/marcel-dempers/docker-development-youtube-series

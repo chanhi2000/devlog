@@ -139,6 +139,12 @@ function getDocsNavBar(item) {
               'devops-os/debian-env-setup',
             ]
           }, {
+            title: '👽oVirt',
+            children: [
+              'devops-ovirt/',
+              'devops-ovirt/resources',
+            ]
+          }, {
             title: '🐋Docker',
             children: [
               'devops-docker/',

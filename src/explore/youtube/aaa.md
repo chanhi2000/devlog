@@ -1,1879 +1,14 @@
-| ❌ | <a href="https://www.youtube.com/watch?v=rr9cI4u1_88"><img width="140px" height="auto" alt="thumb-rr9cI4u1_88" src="https://i.ytimg.com/vi/rr9cI4u1_88/hqdefault.jpg"/></a> | [A practical guide on Docker with projects \| Docker Course](https://www.youtube.com/watch?v=rr9cI4u1_88) <br/><br/> _[Hitesh Choudhary][yu-hitesh-choudhary]_ |
 
-[yu-ZAINKEEPSCODE]: https://www.youtube.com/@ZAINKEEPSCODE
-[yu-materialdesign]@materialdesign
-[yu-bienadam]@bienadam
-[yu-thin-matrix]@ThinMatrix
-[yu-swiftui2]@swiftui2
-[yu-skillthrive]@Skillthrive
-[yu-kevin-stratvert]@KevinStratvert
-[yu-techedcs]@techedcs
-
-
-
-The BEST way to reset your database for testing in .NET
-E4TeWBFzcCw
-[Nick Chapsas][yu-nickchapsas]
-
-Animating Clip-path using CSS and Vanilla Javascript
-3rXD3jmpq9g
-[Online Tutorials][yu-oneline-tutorials]
-
-JUnit Annotations and Asserts Overview
-HO6m8JpA0ro
-[Brandan Jones][yu-discospiff]
-
-This is the PRO way to code a JavaScript Modal
-kJPkCGtv3vY
-[codebubb][yu-codebubb]
-
-AWS SysOps Full Course \| AWS Sysops Administrator Training \| AWS  SysOps Tutorial \| Intellipaat
-zdSB848J0cU
-[Intellipaat][yu-intellipaat]
-
-Building apps with Relay, Figma, and Jetpack Compose
-NOfW1-ijKe4
-[Material Design][yu-materialdesign]
-
-
-Run containers without managing any servers
-zwNw-42vVsI
-[Oracle Learning][yu-oracle-learning]
-
-Programming Particle Effects in my Game Engine
-j_H3QHdov-A
-[ThinMatrix][yu-thin-matrix]
-
-SwiftUI WebKit: How to create a YouTube video App + saving it in CoreData.
-4EPGGzeu5Ic
-[App Designer2][yu-swiftui2]
-
-Using Gmail More Effectively
-_6RqQe8sncY
-[Sebastian Daschner][yu-sebastian-daschner]
-
-Past, Present and Future: Serverside Java on Premise and in the Clouds #java #serverless #airhacks
-mUj_2C8dcQY
-[Adam Bien][yu-bienadam]
-
-How to use Notion - Beginner Tutorial
-hbxQw4LQwws
-[Kevin Stratvert][yu-kevin-stratvert]
-
-
-윈도우 스티커 메모 스마트폰과 연동해서 사용하는 방법! 윈도우 10&amp;11, 아이폰&amp;안드로이드
-U8F2G_na-yY
-[통구니TV][yu-tongguni]
-
-
-CSS Infinite Scroll Tags: CSS Marquee Animation Tutorial
-9qpffyA8Vis
-[Skillthrive][yu-skillthrive]
-
-
-Angular 14 To Do List App in 30 Minutes
-kzl4IKAC8O4
-[CodAffection][yu-cod-accection]
-
-
-Do NOT Use Docker Compose! Develop In Kubernetes \(With Okteto\)
-RTo9Pvo_yiY
-/@DevOpsToolkit          DevOps Toolkit
-
-
-Command Line Tools ALL Developers Should Know
-DIny00tOBdU
-[ForrestKnight][yu-fknight]
-
-
-Deploy to Production - Node, Postgres, Redis, React - with Render
-hGYNW8-_c3U
-[Kevin Wade][yu-kevin-wade]
-
-kTor Android Client Tutorial - Performing Simple GET Request
-a7RvjJMAD3w
-[Simplified Coding][yu-simplified-coding]
-
-FREE Frontend/Backend Development Course by Meta!
-Af0Ngo0V9ZA
-[TECH_ED][yu-techedcs]
-
-11 Expense Tracker - Building the iOS App \| SwiftUI \| Building in Public Livestream \| Mikaela Caron
-SW2UbAAMR0c
-[Mikaela Caron][yu-mikaela-caron]
-
-
-
-/@ChiliTomatoNoodle          ChiliTomatoNoodle
-/@CMDevChannel           CMDev
-/@SeleniumExpress            Selenium Express
-/@Eevnos             Eevnos
-[developedbyed][yu-developedbyed]
-/@CoderOne           CoderOne
-/@FloWritesCode          Flo writes Code
-[Nick Chapsas][yu-nickchapsas]
-/@nginx_official             NGINX
-/@Tutorialedge           TutorialEdge
-/@Thetips4you            Thetips4you
-/@cbtnuggets             CBT Nuggets
-/@BroCodez           Bro Code
-[Let's Get Rusty][yu-letsgetrusty]
-/@chandoo_           Chandoo
-[Intellipaat][yu-intellipaat]
-/@rocketseat             Rocketseat
-/@DicasdoMateus          Dicas do Mateus
-/@swiftuitutorial1           SwiftUI Tutorial#1
-[Cornell AppDev][yu-cornell-appdev]
-[JavaScript Mastery][yu-javascript-mastery]
-[조코딩 JoCoding][yu-jocoding]
-[Britec09][yu-britec-09]
-/@_JohnHammond           John Hammond
-/@DanVega            Dan Vega
-[Hitesh Choudhary][yu-hitesh-choudhary]
-/@seanallen          Sean Allen
-/@CodingArtist           Coding Artist
-/@notjustdev             notJust․dev
-/@Mukeshotwani           Mukesh otwani
-/@windowandroid          윈드로이드 by 쓰리뷰
-/@googlecloudtech            Google Cloud Tech
-/@MikesTechCorner            Mike Møller Nielsen
-[씨디맨][yu-cdmanii]
-/@inflearn9845           인프런 inflearn
-/@inflearn9845           인프런 inflearn
-/@DanielPersson          Daniel Persson
-[Nick Chapsas][yu-nickchapsas]
-[Eddie Jaoude][yu-eddiejaoude]
-/@TechGumbo          TechGumbo
-/@loianegroner           Loiane Groner
-/@MasterCodingTeam           Master Coding
-/@SeleniumExpress            Selenium Express
-/@codingangma            코딩앙마
-/@sdetpavan          SDET- QA Automation Techie
-/@LamaDev            Lama Dev
-/@MicrosoftDeveloper             Microsoft Developer
-/@todaycode          오늘코드todaycode
-/@nadocoding             나도코딩
-/@1under             1분미만
-/@MoreSecurity           삼평동연구소
-/@SeniorCoding           @시코 - 시니어코딩
-[Mikaela Caron][yu-mikaela-caron]
-/@Thetips4you            Thetips4you
-[GitLab Unfiltered][yu-gitLab-unfiltered]
-/@Telusko            Telusko
-[developedbyed][yu-developedbyed]
-/@AniaKubow          Code with Ania Kubów
-/@MariePoulin            Marie Poulin
-/@SergioBecerril             Sergio Becerril
-/@EssentialDeveloper             Essential Developer
 [DB Tech][yu-db-tech]
-/@GoCloudArchitects          Go Cloud Architects
-/@visualstudio           Microsoft Visual Studio
-/@veamcamp           빔캠프 CSS
-/@SpringIOConference             Spring I/O
-/@NickJanetakis          Nick Janetakis
-/@NeuralNine             NeuralNine
-/@DipeshMalvia           Dipesh Malvia
-/@java           Java
-/@MongoDB            MongoDB
-/@AZisk          Alex Ziskind
-[Intellipaat][yu-intellipaat]
-/@AnsonAlexander             Anson Alexander
-/@VeronicaExplains           Veronica Explains
-/@seoulian           서울리안 SEOULiAN
-/@GiuseppeScaramuzzino           Giuseppe Scaramuzzino
-/@theandroidprogrammer           The Android Programmer
-/@garnattione            garnatti one
-[Britec09][yu-britec-09]
-[CodingNepal][yu-coding-nepal]
-/@JamesQQuick            James Q Quick
-[Britec09][yu-britec-09]
-/@DanVega            Dan Vega
-[Christian Lempa][yu-christian-lempa]
-[Intellipaat][yu-intellipaat]
-/@DanielPersson          Daniel Persson
-/@DennisIvy          Dennis Ivy
-/@appstuff5778           AppStuff
-/@SoftwareToolTime           Software Tool Time
-/@SoftwareToolTime           Software Tool Time
-/@SoftwareToolTime           Software Tool Time
-/@SoftwareToolTime           Software Tool Time
-/@SoftwareToolTime           Software Tool Time
-/@kotlinappdev6411           Kotlin App Dev
-/@SoftwareToolTime           Software Tool Time
-/@ThisDoesNotCompute             This Does Not Compute
-/@MicrosoftDeveloper             Microsoft Developer
-/@LambdaTest             LambdaTest
-/@Redisinc           Redis
-/@codingapple            코딩애플
-/@brianmmdev             Brian Morrison
-/@aaeideapro1192             AAE IdeaPro
-[Novaspirit Tech][yu-novaspirit-tech]
-/@FaztTech           Fazt
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@thegreat-programmers           개발자의품격
-/@SeniorCoding           @시코 - 시니어코딩
-/@martinlasek            Martin Lasek
-/@KIMTOOFLEX             Kim Too
-/@NickJanetakis          Nick Janetakis
-/@DaveGrayTeachesCode            Dave Gray
-[DB Tech][yu-db-tech]
-/@ZeroChoTV          ZeroCho TV
-/@StewartLynch           Stewart Lynch
-/@davidbombal            David Bombal
-/@AWSKorea           Amazon Web Services Korea
-/@LoiLiangYang           Loi Liang Yang
-/@aaeideapro1192             AAE IdeaPro
-/@Thetips4you            Thetips4you
-/@MichaelCade1           Michael Cade
-/@CodeWithChris          CodeWithChris
-[azamsharp][yu-azamsharp]
-/@OtherLevels            Other Level’s
-/@dotnet             dotnet
-/@FrankLiuSoftware           Frank Liu
-/@NETVN82            NETVN
-[통구니TV][yu-tongguni]
-/@LamaDev            Lama Dev
-/@metacoding             메타코딩
-/@MariePoulin            Marie Poulin
-/@AndroidBroadcast           Android Broadcast. Все об Андроид разработке
-/@swifttutorials4691             Swift Tutorials
-[Execute Automation][yu-execute-automation]
-/@linedevlog             라인개발실록
-/@NETVN82            NETVN
-/@NetworkChuck           NetworkChuck
-/@CloudLearning          Cloud Learning
-/@devaslife          devaslife
-/@WebDevSimplified           Web Dev Simplified
-/@zachgoll           Zach Gollwitzer
-/@zachgoll           Zach Gollwitzer
-/@redhatkorea2558            Red Hat Korea
-[Learn Linux TV][yu-learn-linux-tv]
-/@DailyCodeBuffer            Daily Code Buffer
-/@metacoding             메타코딩
-[Britec09][yu-britec-09]
-/@codingapple            코딩애플
-/@SeniorCoding           @시코 - 시니어코딩
-/@worlddev           저세상개발자
-/@tutorialsEU            tutorialsEU
-/@DotNetHow          Ervis Trupja
-/@metacoding             메타코딩
-/@LucasMoy           Lucas Moy
-/@edurekaIN          edureka!
-/@metacoding             메타코딩
-/@nomadcoders            노마드 코더 Nomad Coders
-/@seanallen          Sean Allen
-[azamsharp][yu-azamsharp]
-/@citrix             Citrix
-/@NeuralNine             NeuralNine
-/@metacoding             메타코딩
-/@DaveGrayTeachesCode            Dave Gray
-/@Fireship           Fireship
-/@TechLabsOfficial           Tech Labs
-/@metacoding             메타코딩
-/@IB9696             IB 96
-/@LamaDev            Lama Dev
-/@simplecooking777           자취요리신 simple cooking
-/@NDC            NDC Conferences
-/@metacoding             메타코딩
-[Easy Tutorials][yu-easy-tutorials]
-[DB Tech][yu-db-tech]
-/@SpringIOConference             Spring I/O
-[SSTec Tutorials][yu-sstectutorials]
-/@DoctorCode9            doctor code
-/@laithacademy           Laith Academy
-/@RJCodeAdvanceEN            RJ Code Advance EN
-/@opensourceconsulting-7382          Open Source Consulting - 오픈소스컨설팅
-/@coohde             생활코딩
-[Hitesh Choudhary][yu-hitesh-choudhary]
-[Hitesh Choudhary][yu-hitesh-choudhary]
-/@DockerIo           Docker
-/@codingapple            코딩애플
-/@NeuralNine             NeuralNine
-/@SeniorCoding           @시코 - 시니어코딩
-/@gongysd            공여사들
-/@MentalOutlaw           Mental Outlaw
-/@user-fp8lc6ju1n            황금설명서
-/@CodeWisTechnologies            CodeWis Technologies
-/@learningtube7602           Learning Tube
-/@FedericoTerzi          Federico Terzi
-/@codingapple            코딩애플
-/@dream-coding           드림코딩
-/@CMDevChannel           CMDev
-/@DevOpsToolkit          DevOps Toolkit
-/@CodeWithChris          CodeWithChris
-/@LukeSmithxyz           Luke Smith
-[Sebastian Daschner][yu-sebastian-daschner]
-/@KaizenCodes            Kaizen Codes
-/@easyspub           easyspub
-/@easyspub           easyspub
-/@NickJanetakis          Nick Janetakis
-/@44BITSTV           44BITS
-[SSTec Tutorials][yu-sstectutorials]
-/@zhijunsheng            拇指
-/@DistroTube             DistroTube
-/@PeladoNerd             Pelado Nerd
-/@EssentialDeveloper             Essential Developer
-[azamsharp][yu-azamsharp]
-/@DockerIo           Docker
-/@AWSKorea           Amazon Web Services Korea
-/@StevdzaSan             Stevdza-San
-/@CodewithSloba          Code with Sloba
-/@DevOps4solutions           DevOps4solutions
-/@BeABetterDev           Be A Better Dev
-/@ProgrammingKnowledge           ProgrammingKnowledge
-[PedroTech][yu-pedro-tech]
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@dev_jeongdaeri             개발하는 정대리
-/@DesignCodeTeam             DesignCode
+[LinkedIn Learning][yu-linkedinlearning]
+[모바일랩][yu-neonchang]
+[모바일랩][yu-neonchang]
 /@freecodecamp           freeCodeCamp.org
-/@TheCodeholic           The Codeholic
-/@freecodecamp           freeCodeCamp.org
-/@DevOpsToolkit          DevOps Toolkit
-/@thegreat-programmers           개발자의품격
-/@WebDevSimplified           Web Dev Simplified
-/@JonGjengset            Jon Gjengset
-/@devaslife          devaslife
-/@user-rq9wv7zn7c            테오의 프론트엔드
-/@AWSKorea           Amazon Web Services Korea
-[GitLab Unfiltered][yu-gitLab-unfiltered]
-/@nullnull_not_eq_null           널널한 개발자 TV
-/@SergeyKargopolov           Sergey Kargopolov
-/@mouredev           MoureDev by Brais Moure
-[Oracle Learning][yu-oracle-learning]
-/@DistroTube             DistroTube
-/@dongbinna          동빈나
-/@JavaHomeCloud          Java Home Cloud
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@SingletonSean          SingletonSean
-/@codingapple            코딩애플
-/@cncf           CNCF [Cloud Native Computing Foundation]
-/@user-uc2wv8zw3h            전자정부 표준프레임워크 센터
-/@user-uc2wv8zw3h            전자정부 표준프레임워크 센터
-/@user-uc2wv8zw3h            전자정부 표준프레임워크 센터
-/@OJTube             [오제이 튜브]OJ Tube
-/@vBrownBag          vBrownBag
-/@chandoo_           Chandoo
-/@EssentialDeveloper             Essential Developer
-/@yalco-coding           얄팍한 코딩사전
-/@SoftwareToolTime           Software Tool Time
-/@SoftwareToolTime           Software Tool Time
-[PedroTech][yu-pedro-tech]
-/@OktaDev            OktaDev
-/@muhanbattery           무한배터리
-/@Gitkraken          GitKraken
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@Gitlab             GitLab
-/@nomadcoders            노마드 코더 Nomad Coders
-/@rocketseat             Rocketseat
-/@Tricknology            Tricknology
-/@yishn          yishn
-/@SergeyKargopolov           Sergey Kargopolov
-/@SwiftfulThinking           Swiftful Thinking
-/@binarythistle          Les Jackson
-/@CodeWithChris          CodeWithChris
-/@WebDevSimplified           Web Dev Simplified
-/@GeeksforGeeksVideos            GeeksforGeeks
-/@KenuHeo            Kenu Heo
-/@Sketch2React           Sketch2React
-/@DaveGrayTeachesCode            Dave Gray
-/@cncf           CNCF [Cloud Native Computing Foundation]
-/@edurekaIN          edureka!
-[TechWorld with Nana][yu-tech-world-w-nana]
-[Envato Tuts+][yu-envatotuts]
-/@JamesMontemagno            James Montemagno
-/@SwiftfulThinking           Swiftful Thinking
-/@CalerEdwards           Caler Edwards
-/@DroidconItaly          Android Heroes
-/@LevelUpTuts            LevelUpTuts
-/@DroidconItaly          Android Heroes
-/@DroidconItaly          Android Heroes
-/@DroidconItaly          Android Heroes
-/@DroidconItaly          Android Heroes
-/@DroidconItaly          Android Heroes
-/@DroidconItaly          Android Heroes
-/@Gitkraken          GitKraken
-/@OJTube             [오제이 튜브]OJ Tube
-/@hnasr          Hussein Nasser
-/@EssentialDeveloper             Essential Developer
-/@RaghavPal          Automation Step by Step
-[azamsharp][yu-azamsharp]
-/@NETVN82            NETVN
-[Christian Lempa][yu-christian-lempa]
-/@MichaelMJD             Michael MJD
-[Landmark Labs][yu-landmarklabs]
-[Java Guides][yu-java-guides]
-/@NAVERCLOUDPLATFORM             NAVER Cloud Platform : 네이버 클라우드 플랫폼
-/@NAVERCLOUDPLATFORM             NAVER Cloud Platform : 네이버 클라우드 플랫폼
-[JavaScript Mastery][yu-javascript-mastery]
-/@csezsw             ezsw
-/@csezsw             ezsw
-[Java Guides][yu-java-guides]
-/@mediacccde             media.ccc.de
-/@metacoding             메타코딩
-/@StewartLynch           Stewart Lynch
-/@tmax           티맥스
-/@tmax           티맥스
-/@WanjohiKibui           Wanjohi Kibui
-/@SwiftBook          SwiftBook
-/@CoderOne           CoderOne
-/@CoderOne           CoderOne
-[Christian Lempa][yu-christian-lempa]
-/@Kavsoft            Kavsoft
-[PedroTech][yu-pedro-tech]
-/@codingapple            코딩애플
-/@PhilippLackner             Philipp Lackner
-/@SwiftfulThinking           Swiftful Thinking
-/@javaforengineersYT             Java for Engineers
-/@academind          Academind
-/@CleverProgrammer           Clever Programmer
-/@codingthesmartway          CodingTheSmartWay.com
-/@laithacademy           Laith Academy
-[Landmark Labs][yu-landmarklabs]
-/@b-log3651          베이로그 B-Log
-/@be9952             BE로마
-/@NETVN82            NETVN
-[codebubb][yu-codebubb]
-[Learn Linux TV][yu-learn-linux-tv]
-/@swiftwithyash          Swift with Yash
-/@VMwareTanzu            VMware Tanzu
-/@veryacademy            Very Academy
-/@HackerSploit           HackerSploit
-/@MollyRocket            Molly Rocket
-/@redhatkorea2558            Red Hat Korea
-/@gongysd            공여사들
-/@HackerSploit           HackerSploit
-/@selfdeveloper4687          이대니 Self Developer
-/@headwayio          Headway
-/@LamaDev            Lama Dev
-/@MariePoulin            Marie Poulin
-/@LamaDev            Lama Dev
-/@LamaDev            Lama Dev
-/@MariePoulin            Marie Poulin
-/@CoderOne           CoderOne
-[Landmark Labs][yu-landmarklabs]
-/@PaulProgramming            Paul Programming
-/@mCoding            mCoding
-/@JeffSu             Jeff Su
-/@googlecloudtech            Google Cloud Tech
-/@JeffSu             Jeff Su
-/@SusanthSutheesh            Susanth Sutheesh
-/@softwarecraftsmanshipluxem8137             Software Craftsmanship Luxembourg
-/@DaveGrayTeachesCode            Dave Gray
-/@creativeclue2772           Creative Clue
-/@Nerdslesson            Nerd's lesson
-/@codedamn           codedamn
-/@codingthesmartway          CodingTheSmartWay.com
-/@DaveGrayTeachesCode            Dave Gray
-/@Thetips4you            Thetips4you
-/@raaviblog105           Raaviblog
-/@huakunshen3670             Huakun Shen
-/@Talkitonair            TalkIT
-/@naveenautomationlabs           Naveen AutomationLabs
-/@SwiftfulThinking           Swiftful Thinking
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@veryacademy            Very Academy
-/@NetworkChuck           NetworkChuck
-/@Endermanch             Enderman
-/@SwiftfulThinking           Swiftful Thinking
-/@securerandom5420           SecureRandom
-/@CodingEntrepreneurs            CodingEntrepreneurs
-/@TheCodingPapa          The Coding Papa 더코딩파파
-/@Sketch2React           Sketch2React
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@WesDoyle           Wes Doyle
-/@KenuHeo            Kenu Heo
-[azamsharp][yu-azamsharp]
-/@veryacademy            Very Academy
-/@SwiftfulThinking           Swiftful Thinking
-/@StewartLynch           Stewart Lynch
-/@DesignCodeTeam             DesignCode
-/@DevOpsToolkit          DevOps Toolkit
-/@DotNetCoreCentral          DotNet Core Central
-/@CoderOne           CoderOne
-/@Tricknology            Tricknology
-/@haipp9931          Haipp
-/@TechnoTim          Techno Tim
-/@GiuseppeScaramuzzino           Giuseppe Scaramuzzino
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@mediacccde             media.ccc.de
-/@Java.Brains            Java Brains
-/@swiftkatcodefactory            Swift Kat Code Factory
-/@StewartLynch           Stewart Lynch
-[azamsharp][yu-azamsharp]
-[azamsharp][yu-azamsharp]
-[azamsharp][yu-azamsharp]
-/@TechWithTim            Tech With Tim
-/@LearnitTraining            Learnit Training
-/@LevelUpTuts            LevelUpTuts
-/@gis            Основы программирования для географов
-/@Ezweb          Rock's Easyweb
-/@notjustdev             notJust․dev
-/@Javatechie             Java Techie
-/@Javatechie             Java Techie
-/@KenuHeo            Kenu Heo
-[PedroTech][yu-pedro-tech]
-/@freecodecamp           freeCodeCamp.org
-[azamsharp][yu-azamsharp]
-[azamsharp][yu-azamsharp]
-/@Runaway_son            집나간아들 Runaway Son
-/@Kavsoft            Kavsoft
-/@Kavsoft            Kavsoft
-/@NesHacker          NesHacker
-[DB Tech][yu-db-tech]
-/@HoneyHomeTip           집구석구석꿀팁, 집꿀 Honey Home Tip
-/@HoussemDellai          Houssem Dellai
-/@PhilippLackner             Philipp Lackner
-[Brandan Jones][yu-discospiff]
-/@_JohnHammond           John Hammond
-/@freecodecamp           freeCodeCamp.org
-[Mikaela Caron][yu-mikaela-caron]
-/@Kavsoft            Kavsoft
-/@CoderOne           CoderOne
-/@LambdaTest             LambdaTest
-/@CodeXdev           CodeX
-/@DesignCodeTeam             DesignCode
-/@CodeWithChris          CodeWithChris
-/@ResoCoder          Reso Coder
-/@DailyCodeBuffer            Daily Code Buffer
-/@gotbletu           gotbletu
-/@AnalyticsUniversity            Analytics University
-/@user-pp5hq7vz4j            락플레이스
-/@user-ee8ow6tk5p            양희선
-[Coder Coder][yu-coder-coder]
-/@KIMTOOFLEX             Kim Too
-/@Sketch2React           Sketch2React
-/@CleverProgrammer           Clever Programmer
-/@notjustdev             notJust․dev
-[Sebastian Daschner][yu-sebastian-daschner]
-/@techwiser          TechWiser
-/@TheCodingPapa          The Coding Papa 더코딩파파
-/@devaslife          devaslife
-/@joonion            주니온TV 아무거나연구소
-/@NETVN82            NETVN
-/@DistroTube             DistroTube
-/@44BITSTV           44BITS
-/@SeniorCoding           @시코 - 시니어코딩
-/@Ezweb          Rock's Easyweb
-/@ProgramWithErik            Program With Erik
-/@theurbanpenguin            theurbanpenguin
-/@SonnySangha            Sonny Sangha
-/@MasterNKS          남궁성의 정석코딩
-/@ChrisTitusTech             Chris Titus Tech
-/@Tantandev          Tantan
-/@EssentialDeveloper             Essential Developer
-/@DaveGrayTeachesCode            Dave Gray
-[Brandan Jones][yu-discospiff]
-/@nomadcoders            노마드 코더 Nomad Coders
-/@NETVN82            NETVN
-/@Redisinc           Redis
-/@OJTube             [오제이 튜브]OJ Tube
-/@nullnull_not_eq_null           널널한 개발자 TV
-/@StewartLynch           Stewart Lynch
-/@devaslife          devaslife
-/@java0405           김기태의 JAVA를 자바
-/@Codevolution           Codevolution
-/@PhilippLackner             Philipp Lackner
-/@GiuseppeScaramuzzino           Giuseppe Scaramuzzino
-/@RJCodeAdvanceEN            RJ Code Advance EN
-[TECH_ED][yu-techedcs]
-[ForrestKnight][yu-fknight]
-/@TechLabsOfficial           Tech Labs
-[Kris Occhipinti][yu-digital-metal]
-/@minicgil4036           미닉길 Minic GIL
-/@ETAPRIME           ETA PRIME
-/@notjustdev             notJust․dev
-/@citrix             Citrix
-/@DaveGrayTeachesCode            Dave Gray
-[SSTec Tutorials][yu-sstectutorials]
-/@DistroTube             DistroTube
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@NeuralNine             NeuralNine
-/@Thetips4you            Thetips4you
-[Sebastian Daschner][yu-sebastian-daschner]
-[DataStax Developers][yu-data-stax-devs]
-/@VMwareTanzu            VMware Tanzu
-/@TylerPotts             Tyler Potts
-/@nullnull_not_eq_null           널널한 개발자 TV
-/@nullnull_not_eq_null           널널한 개발자 TV
-/@TaoMStudio             Tao M Studio
-/@StewartLynch           Stewart Lynch
-[Novaspirit Tech][yu-novaspirit-tech]
-/@OktaDev            OktaDev
-/@JamesQQuick            James Q Quick
-/@devjaypark             박재호
-/@tech_with_moss             Tech and Beyond With Moss
-/@BrodieRobertson            Brodie Robertson
-/@keesun.b           백기선
-/@java0405           김기태의 JAVA를 자바
-/@KxCoding           KxCoding
-/@StevdzaSan             Stevdza-San
-/@codingapple            코딩애플
-/@CodingTech             Coding Tech
-/@_JohnHammond           John Hammond
-/@CodeBucks          CodeBucks
-/@Peace.O.K          피스오케이Peace O.K.
-/@PhilippLackner             Philipp Lackner
-/@Thetips4you            Thetips4you
-/@brianmmdev             Brian Morrison
-/@JamesQQuick            James Q Quick
-/@EricParker             Eric Parker
-/@NetworkChuck           NetworkChuck
-/@Gael9A             Gambler
-/@swiftarcade7632            Swift Arcade
-/@DailyCodeBuffer            Daily Code Buffer
-/@LearnWebCode           LearnWebCode
-/@codingapple            코딩애플
-/@NobelTech          Nobel Tech
-/@MentalOutlaw           Mental Outlaw
-/@StevdzaSan             Stevdza-San
-/@coohde             생활코딩
-/@DevOpsToolkit          DevOps Toolkit
-/@InsiderTech            Insider Tech
-/@user-zx1rk8qx6q            실용주의 프로그래머
-/@StewartLynch           Stewart Lynch
-/@SeniorCoding           @시코 - 시니어코딩
-/@NeuralNine             NeuralNine
-/@GenuineCoder           Genuine Coder
-/@Talkitonair            TalkIT
-/@DailyCodeBuffer            Daily Code Buffer
-/@JamesQQuick            James Q Quick
-/@Panjno             Panjno
-/@CodingTech             Coding Tech
-[통구니TV][yu-tongguni]
-/@KevinPowell            Kevin Powell
-/@Ezweb          Rock's Easyweb
-/@user-lt1yu1fb4z            오라클자바커뮤니티
-/@AnthonyDesignCode          AnthonyDesignCode
-/@AdamMc331          Adam McNeilly
-/@PradhumanPatel             Pradhuman Patel
-/@WebDevSimplified           Web Dev Simplified
-/@WebDevSimplified           Web Dev Simplified
-/@UnsureProgrammer           Unsure Programmer
-/@roulzhq            ROULZ
-/@Aleksey_Konovalov          Aleksey Konovalov
-/@PhilippLackner             Philipp Lackner
-/@kunlee             AROMA ART kunlee
-/@CodingArtist           Coding Artist
-/@ChrisTitusTech             Chris Titus Tech
-/@CleverProgrammer           Clever Programmer
-/@Tricknology            Tricknology
-/@dev_man            개발하는남자
-/@elibroftw          elibro
-/@JavaCampus             JavaCampus
-/@JavaCampus             JavaCampus
-/@PradhumanPatel             Pradhuman Patel
-/@codetothemoon          Code to the Moon
-/@PhilippLackner             Philipp Lackner
-/@StewartLynch           Stewart Lynch
-/@ETAPRIME           ETA PRIME
-/@googlecloudtech            Google Cloud Tech
-/@intellijidea           IntelliJ IDEA by JetBrains
-/@NorfolkDevelopers          NorfolkDevelopers
-/@infybuzz           Infybuzz
-/@NeuralNine             NeuralNine
-/@DailyTuition           Daily Tuition
-/@CodeWithChris          CodeWithChris
-/@chiragkachhadiya           Chirag Kachhadiya
-/@LevelUpTuts            LevelUpTuts
-/@DaveGrayTeachesCode            Dave Gray
-/@nadocoding             나도코딩
-/@edutechional           edutechional
-[Brandan Jones][yu-discospiff]
-/@stagyu             HR Yu
-/@nomadcoders            노마드 코더 Nomad Coders
-[조코딩 JoCoding][yu-jocoding]
-/@codingapple            코딩애플
-/@nomadcoders            노마드 코더 Nomad Coders
-/@NeuralNine             NeuralNine
-/@tutorialsEU            tutorialsEU
-/@NeuralNine             NeuralNine
-/@NeuralNine             NeuralNine
-/@user-gn2mw4lm4m            데브리
-/@Codevolution           Codevolution
-/@academind          Academind
-[Java Guides][yu-java-guides]
-/@brianmmdev             Brian Morrison
-/@RaghavPal          Automation Step by Step
-[Kevin Wade][yu-kevin-wade]
-/@DanielPersson          Daniel Persson
-/@PhilippLackner             Philipp Lackner
-/@TylerPotts             Tyler Potts
-/@Kilo_Loco          Kilo Loco
-/@user-lt1yu1fb4z            오라클자바커뮤니티
-/@aaeideapro1192             AAE IdeaPro
-/@tutoriaLinux           tutoriaLinux
-/@user-lt1yu1fb4z            오라클자바커뮤니티
-/@StewartLynch           Stewart Lynch
-/@DesignCodeTeam             DesignCode
-/@DoctorCode9            doctor code
-[azamsharp][yu-azamsharp]
-/@opensourceconsulting-7382          Open Source Consulting - 오픈소스컨설팅
-/@naveenautomationlabs           Naveen AutomationLabs
-/@amigoscode             Amigoscode
-/@DesignCodeTeam             DesignCode
-/@DevOpsToolkit          DevOps Toolkit
-/@KxCoding           KxCoding
-/@KxCoding           KxCoding
-/@StevdzaSan             Stevdza-San
-/@NickJanetakis          Nick Janetakis
-/@user-lt1yu1fb4z            오라클자바커뮤니티
-/@iOSAcademy             iOS Academy
-/@AniaKubow          Code with Ania Kubów
-/@PhilippLackner             Philipp Lackner
-/@notjustdev             notJust․dev
-/@gardiner_bryant            Gardiner Bryant
-/@rocketseat             Rocketseat
-/@DesignCodeTeam             DesignCode
-/@naveenautomationlabs           Naveen AutomationLabs
-/@CodingTech             Coding Tech
-/@StevdzaSan             Stevdza-San
-/@WebDevSimplified           Web Dev Simplified
-/@SimplilearnOfficial            Simplilearn
-/@NickJanetakis          Nick Janetakis
-/@QA1            Software and Testing Training
-/@sdetpavan          SDET- QA Automation Techie
-/@sdetpavan          SDET- QA Automation Techie
-/@todaycode          오늘코드todaycode
-/@devaslife          devaslife
-/@indianappguy           Sanskar Tiwari
-/@sdetpavan          SDET- QA Automation Techie
-/@tutorialsEU            tutorialsEU
-/@user-wl8dq7rl8q            해선트레이더
-/@quidsup            quidsup
-[JavaScript Mastery][yu-javascript-mastery]
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@LetsBuildThatApp           Lets Build That App
-/@Mukeshotwani           Mukesh otwani
-/@swifttutorials4691             Swift Tutorials
-/@Ezweb          Rock's Easyweb
-/@PhilippLackner             Philipp Lackner
-/@HoussemDellai          Houssem Dellai
-[azamsharp][yu-azamsharp]
-/@LetsBuildThatApp           Lets Build That App
-/@Coodos             Coodos
-/@Tricknology            Tricknology
-/@devaslife          devaslife
-/@codebreakthrough           Caleb Curry
-/@dotnet             dotnet
-/@AnthonyDesignCode          AnthonyDesignCode
-[Nick Chapsas][yu-nickchapsas]
-/@Thetips4you            Thetips4you
-/@codedamn           codedamn
-[Execute Automation][yu-execute-automation]
-/@dev_man            개발하는남자
-/@bienadam           Adam Bien
-/@StewartLynch           Stewart Lynch
-/@swiftui2           App Designer2
-/@Talkitonair            TalkIT
-/@HackerSploit           HackerSploit
-/@SourceCodePHOnce           Source Code PH
-[통구니TV][yu-tongguni]
-/@KIMTOOFLEX             Kim Too
-/@ProgramWithErik            Program With Erik
-/@KIMTOOFLEX             Kim Too
-/@NeuralNine             NeuralNine
-/@amigoscode             Amigoscode
-/@rocketseat             Rocketseat
-/@CleverProgrammer           Clever Programmer
-/@AndroidCoding          Android Coding
-/@AndroidCoding          Android Coding
-[Cornell AppDev][yu-cornell-appdev]
-[Cornell AppDev][yu-cornell-appdev]
-/@dev_man            개발하는남자
-/@NickJanetakis          Nick Janetakis
-/@vertex42           Vertex42
-/@CodeRadiance           Code Radiance
-/@DennisIvy          Dennis Ivy
-/@devjaypark             박재호
-/@devaslife          devaslife
-/@PhilippLackner             Philipp Lackner
-/@codingapple            코딩애플
-/@codingapple            코딩애플
-/@AdamMc331          Adam McNeilly
-/@twostraws          Paul Hudson
-/@user-gs2vd1eu7r            고웅도
-/@eflinux            EF - Linux Made Simple
-/@javaforengineersYT             Java for Engineers
-/@StevdzaSan             Stevdza-San
-/@StevdzaSan             Stevdza-San
-/@StevdzaSan             Stevdza-San
-/@StevdzaSan             Stevdza-San
-/@PhilippLackner             Philipp Lackner
-/@MicrosoftDeveloper             Microsoft Developer
-/@wiseAss            Ryan Michael Kay
-/@GainJavaKnowledge          Gain Java Knowledge
-/@Mukeshotwani           Mukesh otwani
-/@Coodos             Coodos
-/@OktaDev            OktaDev
-/@JamesQQuick            James Q Quick
-/@CleverProgrammer           Clever Programmer
-[Execute Automation][yu-execute-automation]
-[Java Guides][yu-java-guides]
-/@CodingTech             Coding Tech
-/@RahulRathore41             Rahul Rathore
-/@Thetips4you            Thetips4you
-/@official_GS25          이리오너라
-/@shanezzarwritingapps7980           ShanezzarWritingApps
-/@NickJanetakis          Nick Janetakis
-/@ETAPRIME           ETA PRIME
-/@TheCodingLab           The Coding Lab
-[azamsharp][yu-azamsharp]
-[Java Guides][yu-java-guides]
-/@StewartLynch           Stewart Lynch
-/@ETAPRIME           ETA PRIME
-/@vBrownBag          vBrownBag
-/@jj362choi          옥탑방개발자
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@appstuff5778           AppStuff
-/@interviewingio             interviewing.io
-/@StevdzaSan             Stevdza-San
-/@mhadaily           Majid Hajian
-/@LetsBuildThatApp           Lets Build That App
-/@TylerPotts             Tyler Potts
-/@fgary          Gary Tokman
-/@swiftuitutorial1           SwiftUI Tutorial#1
-/@vodQA          vodQA - a forum for software testing enthusiasts
-/@DockerIo           Docker
-/@DockerIo           Docker
-/@DockerIo           Docker
-/@DockerIo           Docker
-/@PhilippLackner             Philipp Lackner
-/@CleverProgrammer           Clever Programmer
-[JavaScript Mastery][yu-javascript-mastery]
-/@BrodieRobertson            Brodie Robertson
-/@PhilippLackner             Philipp Lackner
-/@RahulRathore41             Rahul Rathore
-[azamsharp][yu-azamsharp]
-/@LearningWorldz             LearningWorldz
-[Sebastian Daschner][yu-sebastian-daschner]
-[Sebastian Daschner][yu-sebastian-daschner]
-/@AniaKubow          Code with Ania Kubów
-/@wiseAss            Ryan Michael Kay
-/@tadaspetra             Tadas Petra
-/@codewithbro6907            CodewithBro
-[Sebastian Daschner][yu-sebastian-daschner]
-/@tadaspetra             Tadas Petra
-/@PhilippLackner             Philipp Lackner
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@ChrisTitusTech             Chris Titus Tech
-/@brianmmdev             Brian Morrison
-/@PhilippLackner             Philipp Lackner
-/@MakeAppswithDanny          Make Apps with Danny
-/@PhilippLackner             Philipp Lackner
-/@selfhosted             Noted
-/@Kilo_Loco          Kilo Loco
-/@PhilippLackner             Philipp Lackner
-/@swiftkatcodefactory            Swift Kat Code Factory
-/@video_class            비됴클래스
-/@Devefy             Devefy
-/@ProgrammingKnowledge           ProgrammingKnowledge
-[Kevin Wade][yu-kevin-wade]
-/@SimplilearnOfficial            Simplilearn
-/@selfhosted             Noted
-[azamsharp][yu-azamsharp]
-/@appstuff5778           AppStuff
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@metacoding             메타코딩
-/@metacoding             메타코딩
-/@metacoding             메타코딩
-/@StevdzaSan             Stevdza-San
-/@Talkitonair            TalkIT
-/@XojoInc            Xojo
-[Java Guides][yu-java-guides]
-[Kevin Wade][yu-kevin-wade]
-/@gorandev           Goran Vasić
-/@laithacademy           Laith Academy
-/@GrandmaCan             GrandmaCan -我阿嬤都會
-/@BuildAppsWithPaulo             Build Apps With Paulo
-/@codeSTACKr             codeSTACKr
-/@mCoding            mCoding
-/@codingwithmitch            CodingWithMitch
-/@gorandev           Goran Vasić
-/@BerryTV            Berry TV
-/@WebDevSimplified           Web Dev Simplified
-/@GiuseppeScaramuzzino           Giuseppe Scaramuzzino
-[TECH_ED][yu-techedcs]
-/@LetCreateAnApp             Let Create An App
-/@mouredev           MoureDev by Brais Moure
-/@SwiftBook          SwiftBook
-/@HelloCodepur           Codepur
-/@RaghavPal          Automation Step by Step
-/@nadocoding             나도코딩
-/@SiliconBrighton            Silicon Brighton
-/@bigdata_leecho             강서대학교 빅데이터경영학과 이상철 교수
-/@MikesTechCorner            Mike Møller Nielsen
-/@NobelTech          Nobel Tech
-[Nick Chapsas][yu-nickchapsas]
-[JavaScript Mastery][yu-javascript-mastery]
-/@JetBrainsTV            JetBrainsTV
-/@nomadcoders            노마드 코더 Nomad Coders
-/@PhilippLackner             Philipp Lackner
-[azamsharp][yu-azamsharp]
-/@SonnySangha            Sonny Sangha
-/@JavaHomeCloud          Java Home Cloud
-/@NeuralNine             NeuralNine
-/@CleverProgrammer           Clever Programmer
-/@KevinPowell            Kevin Powell
-/@lansunstudio           IAN STUDIO {랜선 스튜디오}
-/@MicrosoftDeveloper             Microsoft Developer
-/@DanVega            Dan Vega
-/@PhilippLackner             Philipp Lackner
-/@dream-coding           드림코딩
-/@NetworkChuck           NetworkChuck
-/@GoCloudArchitects          Go Cloud Architects
-/@LelandRichardsonDev            Leland Richardson
-[azamsharp][yu-azamsharp]
-/@HackerSploit           HackerSploit
-/@NetflixEngineering             Netflix Engineering
-/@amazonwebservices          Amazon Web Services
-/@amazonwebservices          Amazon Web Services
-/@AnyoneCanCode          Anyone Can Code
-/@swiftuitutorial1           SwiftUI Tutorial#1
-/@NetflixEngineering             Netflix Engineering
-/@Tricknology            Tricknology
-[Kris Occhipinti][yu-digital-metal]
-[통구니TV][yu-tongguni]
-/@aaeideapro1192             AAE IdeaPro
-/@Ezweb          Rock's Easyweb
-/@AdamMc331          Adam McNeilly
-/@AdamMc331          Adam McNeilly
-/@DicasdoMateus          Dicas do Mateus
-/@SeoulWorkshop          Seoul Workshop
-/@MongoDB            MongoDB
-/@MongoDB            MongoDB
-/@MongoDB            MongoDB
-/@MorgonautHackintosh            Morgonaut Hack!ntosh
-/@amazonwebservices          Amazon Web Services
-/@m.ncoder9825           M.N Coder
-[Simplified Coding][yu-simplified-coding]
-/@destoffe           Destoffe
-/@wiseAss            Ryan Michael Kay
-/@wiseAss            Ryan Michael Kay
-[Kris Occhipinti][yu-digital-metal]
-/@metacoding             메타코딩
-/@blondiebytes           blondiebytes
-/@DigitalOcean           DigitalOcean
-/@DennisIvy          Dennis Ivy
-/@SeniorCoding           @시코 - 시니어코딩
-/@user-ht1es4sm7v            알지오 평생교육원
-/@CoderOne           CoderOne
-/@WebDevSimplified           Web Dev Simplified
-/@SonnySangha            Sonny Sangha
-/@DockerIo           Docker
-/@seefromfar143          Ankit Malhotra
-[통구니TV][yu-tongguni]
-/@leighhalliday          Leigh Halliday
-/@CodingTech             Coding Tech
-/@amazonwebservices          Amazon Web Services
-[azamsharp][yu-azamsharp]
-/@tookootek          tookootek
-/@user-ej5rc3gi3p            이백행
-/@user-ht1es4sm7v            알지오 평생교육원
-/@NetNinja           The Net Ninja
-/@NetNinja           The Net Ninja
-/@rsaorg             RSA
-/@VickingDev             VickingDev
-/@CodingwithT            Coding With Tea
-/@CodingGarden           Coding Garden
-/@TylerPotts             Tyler Potts
-/@codingwithmitch            CodingWithMitch
-/@tutorialsEU            tutorialsEU
-/@dev_jeongdaeri             개발하는 정대리
-/@AWSKorea           Amazon Web Services Korea
-/@AWSKorea           Amazon Web Services Korea
-/@AWSKorea           Amazon Web Services Korea
-/@AWSKorea           Amazon Web Services Korea
-/@AWSKorea           Amazon Web Services Korea
-/@HowTomakeitdone            HowTo
-/@user-ht1es4sm7v            알지오 평생교육원
-/@user-ht1es4sm7v            알지오 평생교육원
-[azamsharp][yu-azamsharp]
-[azamsharp][yu-azamsharp]
-/@amazonwebservices          Amazon Web Services
-/@Aleksey_Konovalov          Aleksey Konovalov
-/@genericapps            Generic Apps
-/@NetNinja           The Net Ninja
-/@HassanHabib            Hassan Habib
-/@NAVERCLOUDPLATFORM             NAVER Cloud Platform : 네이버 클라우드 플랫폼
-/@makc           MAKC
-/@PRABEESHRK             PRABEESH R K
-/@eddydn71           EDMT Dev
-/@android-iOS-tutorial           Let's Finish this APP - Kotlin and Swift Tutorials
-/@HelloCodepur           Codepur
-/@ssaurel            Sylvain Saurel
-/@StevdzaSan             Stevdza-San
-/@StevdzaSan             Stevdza-San
-/@_JohnHammond           John Hammond
-/@AdamMc331          Adam McNeilly
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@SystemCrafters             System Crafters
-/@TechAltar          TechAltar
-/@Welfaremarble          복지마블TV [Welfare Marble]
-/@tutorialsEU            tutorialsEU
-/@tutorialsEU            tutorialsEU
-/@mafiacodes             Mafia Codes
-/@qwikappstutorials          QwikApps Tutorials
-/@PhilippLackner             Philipp Lackner
-/@soja0524           Code with Joyce
-/@codinginflow           Coding in Flow
-/@codinginflow           Coding in Flow
-/@codinginflow           Coding in Flow
-/@StevdzaSan             Stevdza-San
-/@StevdzaSan             Stevdza-San
-/@StevdzaSan             Stevdza-San
-/@StevdzaSan             Stevdza-San
-/@TylerPotts             Tyler Potts
-[Hitesh Choudhary][yu-hitesh-choudhary]
-/@OJTube             [오제이 튜브]OJ Tube
-/@WebDevSimplified           Web Dev Simplified
-/@WebDevSimplified           Web Dev Simplified
-/@Fireship           Fireship
-/@CodingwithT            Coding With Tea
-/@PhilippLackner             Philipp Lackner
-/@SiamAlamOfficial           Siam Alam
-/@StewartLynch           Stewart Lynch
-/@PhilippLackner             Philipp Lackner
-/@seoulian           서울리안 SEOULiAN
-/@DistroTube             DistroTube
-/@handstandtech          Handstand Technologies
-/@dotnet             dotnet
-/@Hwangbujang            공구왕황부장
-/@CodeBeauty             CodeBeauty
-/@ServerAcademy          Server Academy
-/@Nerdslesson            Nerd's lesson
-/@Fireship           Fireship
-/@naveenautomationlabs           Naveen AutomationLabs
-/@claydesk           ClayDesk E-Learning
-/@joonion            주니온TV 아무거나연구소
-/@NETVN82            NETVN
-/@MonsterlessonsAcademy          Monsterlessons Academy
-/@wcandillon             William Candillon
-/@amazonwebservices          Amazon Web Services
-/@amazonwebservices          Amazon Web Services
-/@amazonwebservices          Amazon Web Services
-/@amazonwebservices          Amazon Web Services
-/@amazonwebservices          Amazon Web Services
-/@amazonwebservices          Amazon Web Services
-/@LetsBuildThatApp           Lets Build That App
-/@amazonwebservices          Amazon Web Services
-/@JSlaArchives           js.la
-/@StevdzaSan             Stevdza-San
-/@NobelTech          Nobel Tech
-[통구니TV][yu-tongguni]
-/@CuriousDrive           Curious Drive
-/@MicrosoftDeveloper             Microsoft Developer
-/@HelloCodepur           Codepur
-/@amazonwebservices          Amazon Web Services
-/@MongoDB            MongoDB
-/@SimplilearnOfficial            Simplilearn
-/@CleverProgrammer           Clever Programmer
-[통구니TV][yu-tongguni]
-/@AnthonyDesignCode          AnthonyDesignCode
-/@MikesTechCorner            Mike Møller Nielsen
-/@PhilippLackner             Philipp Lackner
-/@freecodecamp           freeCodeCamp.org
-/@PhilippLackner             Philipp Lackner
-/@WebDevSimplified           Web Dev Simplified
-/@CodingTech             Coding Tech
-/@bienadam           Adam Bien
-/@CoderOne           CoderOne
-/@selfhosted             Noted
-/@amazonwebservices          Amazon Web Services
-/@amazonwebservices          Amazon Web Services
-/@Talkitonair            TalkIT
-/@freecodecamp           freeCodeCamp.org
-/@leighhalliday          Leigh Halliday
-/@codingapple            코딩애플
-/@freecodecamp           freeCodeCamp.org
-[JavaScript Mastery][yu-javascript-mastery]
-/@Tricknology            Tricknology
-/@LearnProgrammingTogether           Learn Programming Together
-[통구니TV][yu-tongguni]
-/@EugeneIOSDev           Eugene Berezin
-/@seanallen          Sean Allen
-/@thegreat-programmers           개발자의품격
-/@EngineerMan            Engineer Man
-/@AssortRockGameAcademy          어소트락 게임아카데미
-/@YMKTube            Nomad Kwon
-/@LAWRENCESYSTEMS            Lawrence Systems
-/@AWSKorea           Amazon Web Services Korea
-/@Kotlin             Kotlin by JetBrains
-/@ContinuousDelivery             Continuous Delivery
-/@academind          Academind
-/@awesomekling           Andreas Kling
-/@PhilippLackner             Philipp Lackner
-/@awesomekling           Andreas Kling
-/@codingwithusman7           Coding With Usman
-[Nick Chapsas][yu-nickchapsas]
-/@TechLabsOfficial           Tech Labs
-/@nginx_official             NGINX
-/@nginx_official             NGINX
-/@PhilippLackner             Philipp Lackner
-/@PhilippLackner             Philipp Lackner
-/@PhilippLackner             Philipp Lackner
-/@Mauricetpayne          MoToots
-/@DevOpsToolkit          DevOps Toolkit
-/@PhilippLackner             Philipp Lackner
-/@freecodecamp           freeCodeCamp.org
-/@DevOpsToolkit          DevOps Toolkit
-/@vodQA          vodQA - a forum for software testing enthusiasts
-/@IDGTECHtalk            IDG TECHtalk
-/@gis            Основы программирования для географов
-/@freecodecamp           freeCodeCamp.org
-/@GaryExplains           Gary Explains
-/@Thetips4you            Thetips4you
-/@NickJanetakis          Nick Janetakis
-/@ProgramWithErik            Program With Erik
-/@iApplePro          iApplePro
-/@DistroTube             DistroTube
-/@ayshh          아영이네 행복주택
-/@amigoscode             Amigoscode
-/@DevOpsToolkit          DevOps Toolkit
-/@LoiLiangYang           Loi Liang Yang
-/@freecodecamp           freeCodeCamp.org
-/@AdamMc331          Adam McNeilly
-/@pluralsight            Pluralsight
-/@CleverProgrammer           Clever Programmer
-/@AndroidDevelopers          Android Developers
-/@Thetips4you            Thetips4you
-/@CodingArtist           Coding Artist
-/@Tricknology            Tricknology
-/@linkedinlearning           LinkedIn Learning
-[JavaScript Mastery][yu-javascript-mastery]
-/@CleverProgrammer           Clever Programmer
-/@CleverProgrammer           Clever Programmer
-/@user-nq5st4fy5n            맥스큐TV
-/@CleverProgrammer           Clever Programmer
-/@alexandrugutan7587             Alexandru Gutan
-/@keesun.b           백기선
-/@gdgosijek5328          GDG Osijek
-/@tookootek          tookootek
-/@gamefromscratch            Gamefromscratch
-/@TechPrimers            Tech Primers
-/@codingwithmitch            CodingWithMitch
-/@NDC            NDC Conferences
-/@KotlinHyderabad            Kotlin Hyderabad
-/@CleverProgrammer           Clever Programmer
-/@ETAPRIME           ETA PRIME
-/@tmax           티맥스
-/@AdamMc331          Adam McNeilly
-/@Kilo_Loco          Kilo Loco
-/@NobelTech          Nobel Tech
-/@JavaHomeCloud          Java Home Cloud
-/@OktaDev            OktaDev
-/@TechLabsOfficial           Tech Labs
-/@DevOpsToolkit          DevOps Toolkit
-/@codingwithmitch            CodingWithMitch
-/@codeutility6860            Code Utility
-/@academind          Academind
-/@Kotlin             Kotlin by JetBrains
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@csezsw             ezsw
-/@NDC            NDC Conferences
-/@DotNetCoreCentral          DotNet Core Central
-/@HassanHabib            Hassan Habib
-/@HowTomakeitdone            HowTo
-/@SoftwareToolTime           Software Tool Time
-/@Javatechie             Java Techie
-/@MikesTechCorner            Mike Møller Nielsen
-/@davidbombal            David Bombal
-/@csezsw             ezsw
-/@JNationConf            JNation
-/@WebDevSimplified           Web Dev Simplified
-/@SimplilearnOfficial            Simplilearn
-[azamsharp][yu-azamsharp]
-/@gis            Основы программирования для географов
-/@freecodecamp           freeCodeCamp.org
-/@JetBrainsTV            JetBrainsTV
+[Code Pro][yu-code-pro]
+[DevOps Toolkit][yu-devops-toolkit]
+[Brian Morrison][yu-brianmmdev]
 /@MarcelDempers          That DevOps Guy
-/@MarcelDempers          That DevOps Guy
-/@VincentLabStudio           Vincent Lab
-[Execute Automation][yu-execute-automation]
-/@SimplilearnOfficial            Simplilearn
-/@GradleInc          Gradle
-/@SonnySangha            Sonny Sangha
-/@freecodecamp           freeCodeCamp.org
-/@binarythistle          Les Jackson
-/@CodeWithChris          CodeWithChris
-/@codingwithmitch            CodingWithMitch
-/@Mukeshotwani           Mukesh otwani
-/@TomBaranowicz          Tom Baranowicz
-/@freecodecamp           freeCodeCamp.org
-/@DavidChoiProgrammer            David Choi
-/@user-jn1ly6wf9q            웹짱이영환쌤
-/@c
-/@HackerOneTV            HackerOne
-/@EssentialDeveloper             Essential Developer
-/@Pentacode          Pentacode
-/@Fireship           Fireship
-[@CodingArtist           Coding Artist][yu-Fireship]@Fireship
-/@freecodecamp           freeCodeCamp.org
-[Britec09][yu-britec-09]
-/@GitHub             GitHub
-/@amigoscode             Amigoscode
-/@UtahRust           Utah Rust
-/@Bisqwit            Bisqwit
-/@StewartLynch           Stewart Lynch
-/@CleverProgrammer           Clever Programmer
-/@thegreat-programmers           개발자의품격
-/@user-ej5rc3gi3p            이백행
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@user-ej5rc3gi3p            이백행
-/@Aleksey_Konovalov          Aleksey Konovalov
-/@Redteamsecure          RedTeam Security
-/@bienadam           Adam Bien
-/@Doriandotslash             DorianDotSlash
-/@ippsec             IppSec
-/@JavaInUse          JavaInUse
-/@freecodecamp           freeCodeCamp.org
-/@sangmessi727           Sangmessi
-/@sangmessi727           Sangmessi
-/@sangmessi727           Sangmessi
-/@eddiezane          Eddie Zaneski
-/@StevdzaSan             Stevdza-San
-/@TechGumbo          TechGumbo
-/@seanallen          Sean Allen
-[Novaspirit Tech][yu-novaspirit-tech]
-/@HassanHabib            Hassan Habib
-/@MarcelDempers          That DevOps Guy
-/@codegeek9098           Code Geek
-[CodingNepal][yu-coding-nepal]
-/@zachgoll           Zach Gollwitzer
-/@TheCodingPapa          The Coding Papa 더코딩파파
-[Nick Chapsas][yu-nickchapsas]
-/@Tricknology            Tricknology
-/@tv-1258            공태현TV-팩트골프
-/@Fireship           Fireship
-/@MarcelDempers          That DevOps Guy
-/@MarcelDempers          That DevOps Guy
-/@freecodecamp           freeCodeCamp.org
-/@UiBrainsTechnologies           UiBrains Technologies
-/@SimplilearnOfficial            Simplilearn
-/@AniaKubow          Code with Ania Kubów
-[Cornell AppDev][yu-cornell-appdev]
-/@NorfolkDevelopers          NorfolkDevelopers
-/@user-ej5rc3gi3p            이백행
-/@SeniorCoding           @시코 - 시니어코딩
-/@MarcelDempers          That DevOps Guy
-/@MVPJava            MVP Java
-/@user-ej5rc3gi3p            이백행
-/@MicrosoftDeveloper             Microsoft Developer
-/@Thetips4you            Thetips4you
-[씨디맨][yu-cdmanii]
-[codebubb][yu-codebubb]
-/@CleverProgrammer           Clever Programmer
-/@zachgoll           Zach Gollwitzer
-/@SimplilearnOfficial            Simplilearn
-/@seanallen          Sean Allen
-/@vodQA          vodQA - a forum for software testing enthusiasts
-/@Chyrosran22            Chyrosran22
-/@Codurance          Codurance
-/@MultiValue1            MultiValue
-/@eddydn71           EDMT Dev
-/@user-ej5rc3gi3p            이백행
-/@StevdzaSan             Stevdza-San
-/@AniaKubow          Code with Ania Kubów
-/@Codevolution           Codevolution
-/@DistroTube             DistroTube
-/@intellijidea           IntelliJ IDEA by JetBrains
-/@CodingTech             Coding Tech
-/@PhilippLackner             Philipp Lackner
-/@CodingTech             Coding Tech
-[azamsharp][yu-azamsharp]
-/@SeleniumExpress            Selenium Express
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@user-ej5rc3gi3p            이백행
-/@SourceCodePHOnce           Source Code PH
-/@KenuHeo            Kenu Heo
-/@RamNJava           Ram N Java
-/@SpaceRexWill           SpaceRex
-/@CodingTech             Coding Tech
-/@NDC            NDC Conferences
-/@StewartLynch           Stewart Lynch
-/@MonsterlessonsAcademy          Monsterlessons Academy
-/@WebDevSimplified           Web Dev Simplified
-/@davidbombal            David Bombal
-/@leighhalliday          Leigh Halliday
-/@PhilipStarritt             Philip Starritt
-/@macrumors          MacRumors
-/@edurekaIN          edureka!
-/@SeniorSoftwareVlogger          Senior Software Vlogger
-/@CodingTech             Coding Tech
-/@DesignCodeTeam             DesignCode
-/@user-ej5rc3gi3p            이백행
-/@StevdzaSan             Stevdza-San
-/@ThePrimeagen           ThePrimeagen
-/@WizcenterSeoul             SEOUL G-캠프
-/@SimplilearnOfficial            Simplilearn
-/@amigoscode             Amigoscode
-/@SeniorCoding           @시코 - 시니어코딩
-/@the_full_stack_junkie          The Full Stack Junkie
-/@SonnySangha            Sonny Sangha
-/@codingapple            코딩애플
-/@TechLabsOfficial           Tech Labs
-/@FunOfHeuristic             Fun Of Heuristic
-/@bawad          Ben Awad
-/@howl_coding            하울의 코딩 채널
-[azamsharp][yu-azamsharp]
-/@leighhalliday          Leigh Halliday
-/@CodingLabYT            CodingLab
-/@amigoscode             Amigoscode
-/@freecodecamp           freeCodeCamp.org
-/@codingapple            코딩애플
-/@CodingTech             Coding Tech
-/@murtazasworkshop           Murtaza's Workshop - Robotics and AI
-/@Fireship           Fireship
-/@freecodecamp           freeCodeCamp.org
-/@freecodecamp           freeCodeCamp.org
-/@KevinPowell            Kevin Powell
-/@freecodecamp           freeCodeCamp.org
-/@TheFlutterWay          The Flutter Way
-[Online Tutorials][yu-oneline-tutorials]
-/@StewartLynch           Stewart Lynch
-/@user-ej5rc3gi3p            이백행
-/@user-sg2tt4sk4o            개발 레시피
-/@CodingTech             Coding Tech
-/@KenuHeo            Kenu Heo
-/@KenuHeo            Kenu Heo
-/@pluralsight            Pluralsight
-/@KenuHeo            Kenu Heo
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@AdrianTwarog           Adrian Twarog
-/@PhilippLackner             Philipp Lackner
-/@thegreat-programmers           개발자의품격
-/@codingapple            코딩애플
-/@leerob             Lee Robinson
-/@Fireship           Fireship
-/@csezsw             ezsw
-/@codingapple            코딩애플
-/@codingapple            코딩애플
-/@codingapple            코딩애플
-/@AnthonyDesignCode          AnthonyDesignCode
-/@Thetips4you            Thetips4you
-/@murtazasworkshop           Murtaza's Workshop - Robotics and AI
-/@freecodecamp           freeCodeCamp.org
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@AverageLinuxUser           Average Linux User
-/@KenuHeo            Kenu Heo
-/@FacebookOpenSource             Meta Open Source
-/@CodeBoost          Code Boost
-/@Fireship           Fireship
-/@raccoony_          라꾸니의 담기Raccoony's DAMGI
-/@yesunglabor            노무법인 예성
-/@teamjupeter9451            Team Jupeter
-/@QiroLab            QiroLab
-/@NAVERCLOUDPLATFORM             NAVER Cloud Platform : 네이버 클라우드 플랫폼
-/@freecodecamp           freeCodeCamp.org
-/@sdetpavan          SDET- QA Automation Techie
-/@Kilo_Loco          Kilo Loco
-/@user-ej5rc3gi3p            이백행
-/@KenuHeo            Kenu Heo
-/@NeuralNine             NeuralNine
-/@NetworkChuck           NetworkChuck
-/@infoq          InfoQ
-/@infoq          InfoQ
-/@KenuHeo            Kenu Heo
-/@PaulColton             Paul Colton
-/@billhuang8159          Bill Huang
-/@WebTechTalks           Web Tech Talks
-/@StevdzaSan             Stevdza-San
-/@NobelTech          Nobel Tech
-/@HackerSploit           HackerSploit
-/@HackerSploit           HackerSploit
-/@KenuHeo            Kenu Heo
-[Hitesh Choudhary][yu-hitesh-choudhary]
-/@hnasr          Hussein Nasser
-/@ProgramWithErik            Program With Erik
-/@IAmTimCorey            IAmTimCorey
-/@VoxxedDaysLuxembourg           Voxxed Days Luxembourg
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@SurvivingArchitecture          Surviving Architecture
-/@javascriptisrael           JavaScript Israel
-/@notjustdev             notJust․dev
-/@fullstacktalks             Full Stack Talks
-/@InsiderTech            Insider Tech
-/@CleverProgrammer           Clever Programmer
-[Envato Tuts+][yu-envatotuts]
-/@KenuHeo            Kenu Heo
-/@alexandrugutan7587             Alexandru Gutan
-/@davidbombal            David Bombal
-/@AniaKubow          Code with Ania Kubów
-/@seanallen          Sean Allen
-/@user-ku2nm2bp1t            산타홍
-/@KenuHeo            Kenu Heo
-/@KevinPowell            Kevin Powell
-/@Kilo_Loco          Kilo Loco
-[Simplified Coding][yu-simplified-coding]
-/@dotnet             dotnet
-/@yalco-coding           얄팍한 코딩사전
-/@NullByteWHT            Null Byte
-/@swiftui2           App Designer2
-/@CodeEurope             Code Europe
-/@Javatechie             Java Techie
-/@CodingTech             Coding Tech
-/@KenuHeo            Kenu Heo
-/@namoosori          나무소리
-/@swiftuitutorial1           SwiftUI Tutorial#1
-/@KenuHeo            Kenu Heo
-/@amigoscode             Amigoscode
-/@WebDevSimplified           Web Dev Simplified
-/@woowatech          우아한테크
-/@KenuHeo            Kenu Heo
-/@FrankLiuSoftware           Frank Liu
-/@DroidconItaly          Android Heroes
-/@bawad          Ben Awad
-/@Thetips4you            Thetips4you
-[DB Tech][yu-db-tech]
-/@DockerIo           Docker
-/@Thetips4you            Thetips4you
-/@CodingAddict           Coding Addict
-/@freecodecamp           freeCodeCamp.org
-/@AniaKubow          Code with Ania Kubów
-[azamsharp][yu-azamsharp]
-/@AndroidDevelopers          Android Developers
-/@QAAutomated            QA-Automated
-/@WebDevSimplified           Web Dev Simplified
-[통구니TV][yu-tongguni]
-/@dev_man            개발하는남자
-/@dalbame            달밤에체조
-/@ProgrammingKnowledge           ProgrammingKnowledge
-[DB Tech][yu-db-tech]
-/@user-ej5rc3gi3p            이백행
-/@KenuHeo            Kenu Heo
-/@ProgramWithErik            Program With Erik
-/@icttrainer6889             ICT Trainer
-/@user-ej5rc3gi3p            이백행
-[통구니TV][yu-tongguni]
-[DataStax Developers][yu-data-stax-devs]
-/@archdevel          체험판의컴퓨터채널-판매,수리,조립
-/@JamesQQuick            James Q Quick
-/@KenuHeo            Kenu Heo
-/@Javatechie             Java Techie
-[통구니TV][yu-tongguni]
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@KenuHeo            Kenu Heo
-/@EmbarcaderoTech            Embarcadero Technologies
-/@SpringSourceDev            SpringDeveloper
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@AverageLinuxUser           Average Linux User
-/@CleverProgrammer           Clever Programmer
-/@notjustdev             notJust․dev
-/@KenuHeo            Kenu Heo
-/@SpringSourceDev            SpringDeveloper
-/@SpringSourceDev            SpringDeveloper
-/@KenuHeo            Kenu Heo
-/@SpringSourceDev            SpringDeveloper
-/@freecodecamp           freeCodeCamp.org
-/@gotbletu           gotbletu
-/@Kavsoft            Kavsoft
-/@CleverProgrammer           Clever Programmer
-/@HackerOneTV            HackerOne
-/@SwitchedtoLinux            Switched to Linux
-/@freecodecamp           freeCodeCamp.org
-/@KenuHeo            Kenu Heo
-/@Codevolution           Codevolution
-/@cbtnuggets             CBT Nuggets
-/@GreenLearner           Green Learner
-/@NickJanetakis          Nick Janetakis
-/@JamesQQuick            James Q Quick
-/@CodingTech             Coding Tech
-/@dotnet             dotnet
-/@user-ej5rc3gi3p            이백행
-/@TechNolli          TechNolli
-/@CleverProgrammer           Clever Programmer
-/@brianmmdev             Brian Morrison
-/@DanVega            Dan Vega
-/@nginx_official             NGINX
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@RamNJava           Ram N Java
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@NetNinja           The Net Ninja
-/@Webstoryboy            Webstoryboy
-/@KenuHeo            Kenu Heo
-/@RahulRathore41             Rahul Rathore
-/@dotnet             dotnet
-/@dotnet             dotnet
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@HOLIXKr            홀릭스 - HOLIX Kr
-/@dev_man            개발하는남자
-/@KenuHeo            Kenu Heo
-/@ZeroChoTV          ZeroCho TV
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@Kavsoft            Kavsoft
-/@user-oe9kg1pj3z            맥선생
-/@VMwareTanzu            VMware Tanzu
-/@NETVN82            NETVN
-/@CleverProgrammer           Clever Programmer
-/@KenuHeo            Kenu Heo
-/@amigoscode             Amigoscode
-/@surendranvelath4355            Surendran Velath
-/@TechnoTim          Techno Tim
-/@TechnoTim          Techno Tim
-[Britec09][yu-britec-09]
-/@brianmmdev             Brian Morrison
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@KenuHeo            Kenu Heo
-/@Kavsoft            Kavsoft
-/@TechHut            TechHut
-/@KenuHeo            Kenu Heo
-/@dev_man            개발하는남자
-/@OneMarcFifty           OneMarcFifty
-/@TechnoTim          Techno Tim
-[Online Tutorials][yu-oneline-tutorials]
-/@CodingArtist           Coding Artist
-[Novaspirit Tech][yu-novaspirit-tech]
-[Britec09][yu-britec-09]
-/@WebDevSimplified           Web Dev Simplified
-/@EssentialDeveloper             Essential Developer
-/@TechnoTim          Techno Tim
-/@gotbletu           gotbletu
-/@freecodecamp           freeCodeCamp.org
-/@BeyondOnesAndZeros             BeyondOnesAndZeros
-/@KenuHeo            Kenu Heo
-/@LearnOpenCV            LearnOpenCV
-/@sdetpavan          SDET- QA Automation Techie
-[CodingNepal][yu-coding-nepal]
-[Nick Chapsas][yu-nickchapsas]
-/@IAmTimCorey            IAmTimCorey
-/@KenuHeo            Kenu Heo
-/@StewartLynch           Stewart Lynch
-/@Aleksey_Konovalov          Aleksey Konovalov
-/@codefactory_official           코드팩토리
-/@KenuHeo            Kenu Heo
-/@KenuHeo            Kenu Heo
-/@sapiens_studio             사피엔스 스튜디오
-/@Kavsoft            Kavsoft
-/@SivaReddyJavaTechie            Siva Reddy
-/@VicodeMedia            Vicode Media
-/@ProgrammingKnowledge           ProgrammingKnowledge
-[Java Guides][yu-java-guides]
-/@KenuHeo            Kenu Heo
-/@KenuHeo            Kenu Heo
-/@brianmmdev             Brian Morrison
-/@OktaDev            OktaDev
-/@CleverProgrammer           Clever Programmer
-/@Kavsoft            Kavsoft
-/@DigitalOcean           DigitalOcean
-/@AdrianTwarog           Adrian Twarog
-/@AdrianTwarog           Adrian Twarog
-/@thegreat-programmers           개발자의품격
-/@JustinJackson          Justin Jackson
-/@NETVN82            NETVN
-/@WebDevMatics           WebDevMatics
-/@user-ej5rc3gi3p            이백행
-/@Tricknology            Tricknology
-/@KenuHeo            Kenu Heo
-/@WebDevMatics           WebDevMatics
-/@freecodecamp           freeCodeCamp.org
-/@MentalOutlaw           Mental Outlaw
-/@KenuHeo            Kenu Heo
-/@KenuHeo            Kenu Heo
-/@CodingTech             Coding Tech
-/@SimplilearnOfficial            Simplilearn
-/@user-ej5rc3gi3p            이백행
-/@user-ej5rc3gi3p            이백행
-/@codedamn           codedamn
-/@infybuzz           Infybuzz
-/@naveenautomationlabs           Naveen AutomationLabs
-/@KevinStratvert             Kevin Stratvert
-/@SimplilearnOfficial            Simplilearn
-/@KenuHeo            Kenu Heo
-/@Kavsoft            Kavsoft
-/@KenuHeo            Kenu Heo
-/@HappyCoders            HappyCoders
-/@HappyCoders            HappyCoders
-/@naveenautomationlabs           Naveen AutomationLabs
-/@amigoscode             Amigoscode
-/@KenuHeo            Kenu Heo
-/@ZeroToMastery          Zero To Mastery
-/@thegreat-programmers           개발자의품격
-/@binarythistle          Les Jackson
-/@btbs1610           BTBS
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@TheCodingLab           The Coding Lab
-/@IAmTimCorey            IAmTimCorey
-/@dream-coding           드림코딩
-/@SonnySangha            Sonny Sangha
-/@codingwithmitch            CodingWithMitch
-/@CleverProgrammer           Clever Programmer
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@ValaxyTechnologies             Valaxy Technologies
-/@tookootek          tookootek
-[TechWorld with Nana][yu-tech-world-w-nana]
-/@user-ej5rc3gi3p            이백행
-/@Codevolution           Codevolution
-/@KenuHeo            Kenu Heo
-/@CUBETEAM_Project           CUBE-TEAM
-/@RedStapler_channel             Red Stapler
-/@KodeKloud          KodeKloud
-/@KenuHeo            Kenu Heo
-/@iOSConfSG          iOS Conf SG
-/@iOSConfSG          iOS Conf SG
-/@TechWithTim            Tech With Tim
-/@Kavsoft            Kavsoft
-/@user-ss5no9xw6e            이수안컴퓨터연구소
-/@DistroTube             DistroTube
-/@KenuHeo            Kenu Heo
-/@KodecoDev          Kodeco
-/@ChiliTomatoNoodle          ChiliTomatoNoodle
-/@ChiliTomatoNoodle          ChiliTomatoNoodle
-/@metacoding             메타코딩
-/@NaNyunJae          남중구의 IT강의
-/@KenuHeo            Kenu Heo
-/@StewartLynch           Stewart Lynch
-/@StewartLynch           Stewart Lynch
-/@Kilo_Loco          Kilo Loco
-[JavaScript Mastery][yu-javascript-mastery]
-[ForrestKnight][yu-fknight]
-/@KenuHeo            Kenu Heo
-/@Kavsoft            Kavsoft
-/@alecaddd           Alessandro Castellani
-/@CodingAddict           Coding Addict
-/@EugeneIOSDev           Eugene Berezin
-/@SeleniumExpress            Selenium Express
-/@AxonIQ             AxonIQ
-/@KenuHeo            Kenu Heo
-/@censiCLICK             censiCLICK
-/@AnyoneCanCode          Anyone Can Code
-/@user-ej5rc3gi3p            이백행
-/@devjaypark             박재호
-/@EzeeLinux          Joe Collins
-/@VicodeMedia            Vicode Media
-[MattKC][yu-matt-kc]
-[TechWorld with Nana][yu-tech-world-w-nana]
-[azamsharp][yu-azamsharp]
-[Execute Automation][yu-execute-automation]
-[Intellipaat][yu-intellipaat]
-/@Talkitonair            TalkIT
-/@user-jn1ly6wf9q            웹짱이영환쌤
-/@Codevolution           Codevolution
-[CodingNepal][yu-coding-nepal]
-/@in28minutes            in28minutes - Cloud Made Easy
-/@TechLabsOfficial           Tech Labs
-/@KenuHeo            Kenu Heo
-/@Kilo_Loco          Kilo Loco
-/@Kavsoft            Kavsoft
-[Britec09][yu-britec-09]
-/@VMwareTanzu            VMware Tanzu
-/@DockerIo           Docker
-/@briandesign            Brian Design
-/@brianmmdev             Brian Morrison
-/@thenewboston           thenewboston
-/@MitchellHudson             Mitchell Hudson
-/@pcsecuritychannel          The PC Security Channel
-/@user-ej5rc3gi3p            이백행
-/@KenuHeo            Kenu Heo
-/@iOSConfSG          iOS Conf SG
-/@iOSConfSG          iOS Conf SG
-/@howl_coding            하울의 코딩 채널
-/@vaadinofficial             vaadinofficial
-/@KenuHeo            Kenu Heo
-/@twostraws          Paul Hudson
-/@DotNetHow          Ervis Trupja
-/@Kilo_Loco          Kilo Loco
-/@rewatechnology2008             REWA Technology
-/@DesignCourse           DesignCourse
-/@seanallen          Sean Allen
-/@theandroidprogrammer           The Android Programmer
-/@WebKitCoding           WebKitCoding
-/@metacoding             메타코딩
-/@metacoding             메타코딩
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@dotnet             dotnet
-/@thenewboston           thenewboston
-[DB Tech][yu-db-tech]
-/@TCMSecurityAcademy             The Cyber Mentor
-/@theandroidprogrammer           The Android Programmer
-/@RawCoding          Raw Coding
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@in28minutes            in28minutes - Cloud Made Easy
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@user-ej5rc3gi3p            이백행
-/@DailyCodeBuffer            Daily Code Buffer
-/@keesun.b           백기선
-/@Mukeshotwani           Mukesh otwani
-/@aaeideapro1192             AAE IdeaPro
-/@thenewboston           thenewboston
-/@user-ej5rc3gi3p            이백행
-/@hnasr          Hussein Nasser
-/@LearnitTraining            Learnit Training
-/@EugeneIOSDev           Eugene Berezin
-/@Kavsoft            Kavsoft
-/@ProgrammerZamanNow             Programmer Zaman Now
-/@arahansame9320             arahansa me
-/@thenewboston           thenewboston
-/@KenuHeo            Kenu Heo
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@leighhalliday          Leigh Halliday
-/@KenuHeo            Kenu Heo
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@user-lg2pf8mp7l            길벗 IT 전문서(업로드 중단, 구계정)
-/@dev_man            개발하는남자
-/@CodeWithSteve          Code With Steve
-/@KenuHeo            Kenu Heo
-[Execute Automation][yu-execute-automation]
-/@ZackBarett             Zack Barett
-/@KenuHeo            Kenu Heo
-/@dannytwlc3666          Danny TWLC
-/@Kavsoft            Kavsoft
-[Execute Automation][yu-execute-automation]
-/@user-ej5rc3gi3p            이백행
-/@bostonreact9402            Boston React
-/@DailyCodeBuffer            Daily Code Buffer
-/@freecodecamp           freeCodeCamp.org
-/@puneethkumarnarasimhaiah5092           Puneeth Kumar Narasimhaiah
-/@RamonFerreira          Ramon Ferreira
-/@jacking75          최흥배
-/@jacking75          최흥배
-/@jacking75          최흥배
-/@SeniorCoding           @시코 - 시니어코딩
-/@joonion            주니온TV 아무거나연구소
-/@tech_with_moss             Tech and Beyond With Moss
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@metacoding             메타코딩
-/@DennisIvy          Dennis Ivy
-/@metacoding             메타코딩
-/@metacoding             메타코딩
-/@TheCodingPapa          The Coding Papa 더코딩파파
-/@freecodecamp           freeCodeCamp.org
-/@KenuHeo            Kenu Heo
-/@freecodecamp           freeCodeCamp.org
-/@JetBrainsTV            JetBrainsTV
-/@Kavsoft            Kavsoft
-/@SKplanetTacademy           SKplanet Tacademy
-/@Techtter           Techtter
-/@hnasr          Hussein Nasser
-/@DennisIvy          Dennis Ivy
-/@KenuHeo            Kenu Heo
-/@brianmmdev             Brian Morrison
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@namoosori          나무소리
-/@dongbinna          동빈나
-/@codingwithmitch            CodingWithMitch
-/@indianappguy           Sanskar Tiwari
-/@ahastudio          코딩의 신 아샬
-/@TechPrimers            Tech Primers
-/@nullistp4065           Null ISTP
-/@woowatech          우아한테크
-/@nginx_official             NGINX
-/@iApplePro          iApplePro
-/@KenuHeo            Kenu Heo
-/@codingwithmitch            CodingWithMitch
-/@veamcamp           빔캠프 CSS
-/@LetsBuildThatApp           Lets Build That App
-/@zachgoll           Zach Gollwitzer
-/@dotnet             dotnet
-[TECH_ED][yu-techedcs]
-/@SeleniumExpress            Selenium Express
-/@Kavsoft            Kavsoft
-/@K0P            Khalili Oriented Programming
-/@KenuHeo            Kenu Heo
-/@user-sg2tt4sk4o            개발 레시피
-/@metacoding             메타코딩
-/@SeleniumExpress            Selenium Express
-/@codingwithusman7           Coding With Usman
-/@CognitiveSurge             Karl Hadwen
-/@KenuHeo            Kenu Heo
-/@redgate            Redgate Videos
-/@KenuHeo            Kenu Heo
-/@codingwithmitch            CodingWithMitch
-/@awesomekling           Andreas Kling
-/@dotnet             dotnet
-/@MinjunKim          Minjun Kim
-/@ProgrammingKnowledge           ProgrammingKnowledge
-[Simplified Coding][yu-simplified-coding]
-/@coohde             생활코딩
-/@dev_man            개발하는남자
-[TECH_ED][yu-techedcs]
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
-[CodingNepal][yu-coding-nepal]
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@MinjunKim          Minjun Kim
-/@leerob             Lee Robinson
-/@KenuHeo            Kenu Heo
-/@Kavsoft            Kavsoft
-/@KenuHeo            Kenu Heo
-/@NAVERCLOUDPLATFORM             NAVER Cloud Platform : 네이버 클라우드 플랫폼
-/@namoosori          나무소리
-/@Codevolution           Codevolution
-/@TylerPotts             Tyler Potts
-/@TylerPotts             Tyler Potts
-/@coohde             생활코딩
-/@StewartLynch           Stewart Lynch
-/@Kavsoft            Kavsoft
-/@ZeroChoTV          ZeroCho TV
-/@CodeRadiance           Code Radiance
-/@szLynAs            LynAs Sazzad
-/@JavaHomeCloud          Java Home Cloud
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@joonion            주니온TV 아무거나연구소
-/@dev_man            개발하는남자
-/@TylerPotts             Tyler Potts
-/@ChrisTitusTech             Chris Titus Tech
-[TECH_ED][yu-techedcs]
-/@KenuHeo            Kenu Heo
-/@codingwithmitch            CodingWithMitch
-/@briandesign            Brian Design
-/@ElectronicArmory           Electronic Armory
-/@MentalOutlaw           Mental Outlaw
-/@gongysd            공여사들
-/@KevinPowell            Kevin Powell
-/@codedamn           codedamn
-/@twostraws          Paul Hudson
-/@amigoscode             Amigoscode
-/@cmiscm             Interactive Developer
-/@Kavsoft            Kavsoft
-/@codefactory_official           코드팩토리
-/@coohde             생활코딩
-/@BeyondOnesAndZeros             BeyondOnesAndZeros
-/@Kavsoft            Kavsoft
-/@DavidChoiProgrammer            David Choi
-/@twostraws          Paul Hudson
-/@K
-[Material Design][yu-materialdesign]
-/@Kavsoft            Kavsoft
-/@Algolia            Algolia
-[Build That App][yu-LetsBuildThatApp]@LetsBuildThatApp
-/@BeyondOnesAndZeros             BeyondOnesAndZeros
-/@BeyondOnesAndZeros             BeyondOnesAndZeros
-/@freecodecamp           freeCodeCamp.org
-/@TheModernCoder             The Modern Coder
-/@freecodecamp           freeCodeCamp.org
-/@codingwithjustin7995           Justin Brooks
-/@codingwithmitch            CodingWithMitch
-[조코딩 JoCoding][yu-jocoding]
-/@fereratlus8705             Ferer Atlus
-/@ScuappysDroneVideos1           Scuappy's Videos
-/@Kilo_Loco          Kilo Loco
-/@fereratlus8705             Ferer Atlus
-/@fereratlus8705             Ferer Atlus
-/@CraftComputing             Craft Computing
-/@freecodecamp           freeCodeCamp.org
-/@FireEyeKorea           FireEye Korea
-/@PhilippLackner             Philipp Lackner
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@Aleksey_Konovalov          Aleksey Konovalov
-/@Javatechie             Java Techie
-/@FaztTech           Fazt
-/@TechLabsOfficial           Tech Labs
-/@LeilaGharani           Leila Gharani
-/@TylerPotts             Tyler Potts
-/@boanproject            보안프로젝트[boanproject]
-/@LetsBuildThatApp           Lets Build That App
-/@kristijankralj1            Kristijan Kralj
-[DataStax Developers][yu-data-stax-devs]
-[DB Tech][yu-db-tech]
-/@linkedinlearning           LinkedIn Learning
-/@neonchang          모바일랩
-/@neonchang          모바일랩
-/@freecodecamp           freeCodeCamp.org
-/@CodePro            Code Pro
-/@DevOpsToolkit          DevOps Toolkit
-/@brianmmdev             Brian Morrison
-/@brianmmdev             Brian Morrison
-/@MarcelDempers          That DevOps Guy
-/@brianmmdev             Brian Morrison
+[Brian Morrison][yu-brianmmdev]
 /@AppleProgramming           AppleProgramming
 [DB Tech][yu-db-tech]
 /@Kavsoft            Kavsoft
@@ -1881,35 +16,35 @@ SW2UbAAMR0c
 /@bizchoi            최대표TV
 /@hkglobalmarket             한경 글로벌마켓
 /@hunkims            Sung Kim
-/@AniaKubow          Code with Ania Kubów
+[Code with Ania Kubów][yu-ania-kubow]
 /@AWSKorea           Amazon Web Services Korea
 /@SpringIOConference             Spring I/O
-/@LeilaGharani           Leila Gharani
+[Leila Gharani][yu-leila-gharani]
 /@calmdownman_official           침착맨
 /@aschmelyun             Andrew Schmelyun
 /@AleksPopovic           Aleks Popovic
-/@BrodieRobertson            Brodie Robertson
-/@JonGjengset            Jon Gjengset
+[Brodie Robertson][yu-brodie-robertson]
+[Jon Gjengset][yu-jon-gjengset]
 /@Kavsoft            Kavsoft
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 [Naresh i Technologies][yu-naresh-it]
 [Learn Linux TV][yu-learn-linux-tv]
 /@codingwithmitch            CodingWithMitch
 /@nginx_official             NGINX
-/@EssentialDeveloper             Essential Developer
+[Essential Developer][yu-essential-developer]
 [Naresh i Technologies][yu-naresh-it]
 /@Kilo_Loco          Kilo Loco
 /@highavailabilitydisasterre2273             High Availability Disaster Recovery Virtual Group
 /@AleksPopovic           Aleks Popovic
-/@NetNinja           The Net Ninja
+[The Net Ninja][yu-net-ninja]
 /@Skillthrive            Skillthrive
-/@HelloCodepur           Codepur
+[Codepur][yu-codepur]
 /@jimmykimu          DEvS
 /@Bitfumes           Bitfumes
 /@cncf           CNCF [Cloud Native Computing Foundation]
 /@TheoriTV           티오리티비 TheoriTV
 /@user-nf9gd7uz9s            코드스쿼드
-/@FaztTech           Fazt
+[Fazt][yu-fazt]
 /@MakeSchoolCS           Make School
 /@user-nf9gd7uz9s            코드스쿼드
 /@MikesTechCorner            Mike Møller Nielsen
@@ -1919,117 +54,117 @@ SW2UbAAMR0c
 [Intellipaat][yu-intellipaat]
 /@oracle-base            ORACLE-BASE.com
 /@freecodecamp           freeCodeCamp.org
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@BrandonYen             Brandon Yen
-/@brianmmdev             Brian Morrison
-/@teamjupeter9451            Team Jupeter
-/@todaycode          오늘코드todaycode
-/@NETVN82            NETVN
+[Brian Morrison][yu-brianmmdev]
+[Team Jupeter][yu-team-jupeter]
+[오늘코드todaycode][yu-todaycode]
+[NETVN][yu-netvn]
 /@boanproject            보안프로젝트[boanproject]
-/@codefactory_official           코드팩토리
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@SeoulWorkshop          Seoul Workshop
-/@TomBaranowicz          Tom Baranowicz
-/@ZeroChoTV          ZeroCho TV
+[codefactory_official         ][yu-qiro-@lab]codefactory_official         /[코드팩토리][yu-code-factory]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[Seoul Workshop][yu-seoul-workshop]
+[Tom Baranowicz][yu-tom-baranowicz]
+[ZeroCho TV][yu-zero-cho-tv]
 /@AppleProgramming           AppleProgramming
-/@teamjupeter9451            Team Jupeter
-/@teamjupeter9451            Team Jupeter
-/@nadocoding             나도코딩
+[Team Jupeter][yu-team-jupeter]
+[Team Jupeter][yu-team-jupeter]
+[나도코딩][yu-nadocoding]
 /@Talkitonair            TalkIT
-/@AdamWathan             Adam Wathan
-/@SeniorCoding           @시코 - 시니어코딩
+[W][yu-qiro-lab]W/@@AdamWathan             Adam athan
+[senior-][yu-qiro-lab]senior-[@시코 - 시니어코딩@][yu-coding]
 /@kossiecoder            코지 코더 Kossie Coder
 /@boanproject            보안프로젝트[boanproject]
-/@NETVN82            NETVN
-/@SeoulWorkshop          Seoul Workshop
+[NETVN][yu-netvn]
+[Seoul Workshop][yu-seoul-workshop]
 /@StevdzaSan             Stevdza-San
-/@todaycode          오늘코드todaycode
-/@codefactory_official           코드팩토리
-/@WebDevSimplified           Web Dev Simplified
+[오늘코드todaycode][yu-todaycode]
+[코드팩토리][yu-code-factory]
+[Web Dev Simplified][yu-web-dev-simplified]
 /@boanproject            보안프로젝트[boanproject]
 /@freecodecamp           freeCodeCamp.org
 /@MicrosoftDeveloper             Microsoft Developer
 /@XilinxInc          AMD Xilinx
-/@briandesign            Brian Design
+[Brian Design][yu-briandesign]
 /@yagom          yagom
 /@DotNetCoreCentral          DotNet Core Central
 /@CleverProgrammer           Clever Programmer
-/@codinginflow           Coding in Flow
-/@todaycode          오늘코드todaycode
+[Coding in Flow][yu-codinginflow]
+[오늘코드todaycode][yu-todaycode]
 /@developerfilip             Developer Filip
-/@BroCodez           Bro Code
-/@bawad          Ben Awad
+[Bro Code][yu-bro-codez]
+[Ben Awad][yu-bawad]
 /@boanproject            보안프로젝트[boanproject]
 /@SimplilearnOfficial            Simplilearn
 [JavaScript Mastery][yu-javascript-mastery]
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 [Britec09][yu-britec-09]
 /@freecodecamp           freeCodeCamp.org
 /@CodingTech             Coding Tech
-/@RahulRathore41             Rahul Rathore
-/@naveenautomationlabs           Naveen AutomationLabs
-/@HassanHabib            Hassan Habib
+[Rahul Rathore][yu-rahul-rathore41]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Hassan Habib][yu-hassan-habib]
 /@freecodecamp           freeCodeCamp.org
 /@won2know           원노의 원투노
 /@user-st5nc9ie7x            슬기로운코딩생활
-/@SeniorCoding           @시코 - 시니어코딩
+[@시코 - 시니어코딩][yu-senior-coding]
 /@juliocasal             Julio Casal
-/@MichaelMJD             Michael MJD
-/@devjaypark             박재호
+[Michael MJD][yu-michael-mjd]
+[박재호][yu-devjaypark]
 /@jamesquigley1713           James Quigley
 /@jamesquigley1713           James Quigley
 /@boanproject            보안프로젝트[boanproject]
 /@woosungjjangtv             우성짱TV
 /@woosungjjangtv             우성짱TV
-/@user-zx1rk8qx6q            실용주의 프로그래머
-/@HassanHabib            Hassan Habib
+[실용주의 프로그래머][yu-user-zx1rk8qx6q]
+[Hassan Habib][yu-hassan-habib]
 /@Kavsoft            Kavsoft
-/@FaztTech           Fazt
+[Fazt][yu-fazt]
 [Intellipaat][yu-intellipaat]
-/@KevinStratvert             Kevin Stratvert
-/@ProgramWithErik            Program With Erik
+[Kevin Stratvert][yu-kevin-stratvert]
+[Program With Erik][yu-program-w-erik]
 /@SimplilearnOfficial            Simplilearn
-/@codinginflow           Coding in Flow
-/@TheCodeholic           The Codeholic
+[Coding in Flow][yu-codinginflow]
+[The Codeholic][yu-the-codeholic]
 /@linuxhint          linuxhint
-/@jj362choi          옥탑방개발자
-/@jj362choi          옥탑방개발자
+[옥탑방개발자][yu-jj362choi]
+[옥탑방개발자][yu-jj362choi]
 /@boanproject            보안프로젝트[boanproject]
-/@arahansame9320             arahansa me
+[arahansa me][yu-arahansa-me]
 [한빛미디어][yu-HanbitMedia93]
 /@user-nf9gd7uz9s            코드스쿼드
 /@user-nf9gd7uz9s            코드스쿼드
 /@dotnet             dotnet
 /@freecodecamp           freeCodeCamp.org
-/@RaghavPal          Automation Step by Step
+[Automation Step by Step][yu-raghav-pal]
 /@boanproject            보안프로젝트[boanproject]
-/@HOLIXKr            홀릭스 - HOLIX Kr
+[홀릭스 - HOLIX Kr][yu-holix-kr]
 /@fosdemtalks            FOSDEM
-/@PhilipStarritt             Philip Starritt
+[Philip Starritt][yu-philip-starritt]
 /@hswolff            Harry Wolff
 [CodAffection][yu-cod-accection]
-/@SeniorCoding           @시코 - 시니어코딩
+[@시코 - 시니어코딩][yu-senior-coding]
 /@boanproject            보안프로젝트[boanproject]
 /@feconfkorea            FEConf Korea
 /@gunnycoding            코딩하는거니
-/@codebreakthrough           Caleb Curry
+[b Curry][yu-codebreakthrough]
 /@boanproject            보안프로젝트[boanproject]
 /@boanproject            보안프로젝트[boanproject]
 /@cybercdh           cybercdh
-/@cmiscm             Interactive Developer
+[Interactive Developer][yu-cmiscm]
 /@CleverProgrammer           Clever Programmer
 /@dotnet             dotnet
-/@gotbletu           gotbletu
-/@VMwareTanzu            VMware Tanzu
+[gotbletu][yu-gotbletu]
+[VMware Tanzu][yu-vmware-tanzu]
 /@Hallden_           Hallden
-/@boanproject            보안프로젝트[boanproject]
-/@CodingTech             Coding Tech
+/@boanproject            보안프로젝트[boanproject]: https://www.youtube.com/@CodingTech
+[Coding Tech][yu-analytics-university]
 /@freecodecamp           freeCodeCamp.org
-/@TechGumbo          TechGumbo
-/@sdetpavan          SDET- QA Automation Techie
+[TechGumbo][yu-tech-gumbo]
+[SDET- QA Automation Techie][yu-sdetpavan]
 [TechWorld with Nana][yu-tech-world-w-nana]
 /@systemv1968            System V
-/@MentalOutlaw           Mental Outlaw
+[Mental Outlaw][yu-mental-outlaw]
 /@dotslashrun            dotslashrun
 /@gdgjohannesburg8669            GDG Johannesburg
 /@fosdemtalks            FOSDEM
@@ -2045,47 +180,47 @@ SW2UbAAMR0c
 /@feconfkorea            FEConf Korea
 /@TonyAlicea             Tony Alicea
 /@freecodecamp           freeCodeCamp.org
-/@SourceCodePHOnce           Source Code PH
+[Source Code PH][yu-source-code-pm]
 /@SwiftHeroes            Swift Heroes
-/@wcandillon             William Candillon
-/@QiroLab            QiroLab
-/@NetNinja           The Net Ninja
-/@SeleniumExpress            Selenium Express
-/@bienadam           Adam Bien
-/@cmiscm             Interactive Developer
+[William Candillon][yu-wcandillon]
+[QiroLab][yu-qiro-lab]
+[The Net Ninja][yu-net-ninja]
+[Selenium Express][yu-selenium-express]
+[Adam Bien][yu-bienadam]
+[Interactive Developer][yu-cmiscm]
 /@feconfkorea            FEConf Korea
 /@Redisinc           Redis
-/@Panjno             Panjno
+[Panjno][yu-panjno]
 /@foxlearn           Fox Learn
-/@AnthonyDesignCode          AnthonyDesignCode
-/@coohde             생활코딩
-/@coohde             생활코딩
-/@AnthonyDesignCode          AnthonyDesignCode
-/@academind          Academind
-/@BrodieRobertson            Brodie Robertson
-/@DailyCodeBuffer            Daily Code Buffer
+[DesignCode][yu-design-code]
+[생활코딩][yu-coohde]
+[생활코딩][yu-coohde]
+[DesignCode][yu-design-code]
+[Academind][yu-academind]
+[Brodie Robertson][yu-brodie-robertson]
+[Daily Code Buffer][yu-daily-code-buffer]
 /@Kavsoft            Kavsoft
-/@AnyoneCanCode          Anyone Can Code
-/@martinlasek            Martin Lasek
+[Anyone Can Code][yu-anyone-can-code]
+[Martin Lasek][yu-martinlasek]
 /@CleverProgrammer           Clever Programmer
 [Learn Linux TV][yu-learn-linux-tv]
-/@twostraws          Paul Hudson
-/@codingwithjustin7995           Justin Brooks
+[Paul Hudson][yu-twostraws]
+[Justin Brooks][yu-codingwithjustin7995]
 /@freecodecamp           freeCodeCamp.org
 /@seanallen          Sean Allen
 /@snazzy             Snazzy Labs
 /@djismgaming2116            djismGAMING
-/@SystemCrafters             System Crafters
+[System Crafters][yu-system-crafters]
 /@freecodecamp           freeCodeCamp.org
 /@cncf           CNCF [Cloud Native Computing Foundation]
-/@TheCodeholic           The Codeholic
-[TechWorld with Nana][yu-tech-world-w-nana]
+[The Codeholic][yu-the-codeholic]
+[TechWorld with Nana][yu-tech-world-nana]
 /@freecodecamp           freeCodeCamp.org
 /@user-cj9zo7hb4p            취준생일기
 /@AwsRh          Aws Rh
 /@freecodecamp           freeCodeCamp.org
-/@selfhosted             Noted
-/@DicasdoMateus          Dicas do Mateus
+[Noted][yu-selfhosted]
+[Dicas do Mateus][yu-dicas-do-mateus]
 /@dotnet             dotnet
 /@CleverProgrammer           Clever Programmer
 /@fosdemtalks            FOSDEM
@@ -2093,37 +228,37 @@ SW2UbAAMR0c
 /@startupkaist5779           Startup KAIST
 /@boanproject            보안프로젝트[boanproject]
 /@freddingo33            Curtis Gross
-/@codeSTACKr             codeSTACKr
+[codeSTACKr][yu-code-stackr]
 [developedbyed][yu-developedbyed]
 /@freecodecamp           freeCodeCamp.org
 /@boanproject            보안프로젝트[boanproject]
-/@garnattione            garnatti one
-/@SeleniumExpress            Selenium Express
+[garnatti one][yu-garnattione]
+[Selenium Express][yu-selenium-express]
 /@freecodecamp           freeCodeCamp.org
-/@WesDoyle           Wes Doyle
+[Wes Doyle][yu-wes-doyle]
 [Execute Automation][yu-execute-automation]
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
 /@ChrisTutorialsYT           Chris' Tutorials
 /@Kavsoft            Kavsoft
 /@GitHub             GitHub
 /@ProgrammingwithMasoud          React with Masoud
-/@martinlasek            Martin Lasek
-/@AnyoneCanCode          Anyone Can Code
+[Martin Lasek][yu-martinlasek]
+[Anyone Can Code][yu-anyone-can-code]
 /@GitHub             GitHub
-/@DailyCodeBuffer            Daily Code Buffer
+[Daily Code Buffer][yu-daily-code-buffer]
 /@oracle-base            ORACLE-BASE.com
 [Online Tutorials][yu-oneline-tutorials]
 /@SimplilearnOfficial            Simplilearn
-/@PhilipStarritt             Philip Starritt
+[Philip Starritt][yu-philip-starritt]
 /@shanselman             Scott Hanselman
-/@AdrianTwarog           Adrian Twarog
+[Adrian Twarog][yu-adrian-twarog]
 [Intellipaat][yu-intellipaat]
 /@shakilkhanprogrammer           Shakil Khan Programmer
-/@bawad          Ben Awad
+[Ben Awad][yu-bawad]
 /@freecodecamp           freeCodeCamp.org
 /@foxlearn           Fox Learn
 /@NDC            NDC Conferences
-/@NorfolkDevelopers          NorfolkDevelopers
+[NorfolkDevelopers][yu-norfolk-developers]
 /@NDC            NDC Conferences
 /@NDC            NDC Conferences
 /@boanproject            보안프로젝트[boanproject]
@@ -2131,66 +266,67 @@ SW2UbAAMR0c
 /@boanproject            보안프로젝트[boanproject]
 /@Talkitonair            TalkIT
 /@tharo382           Tharo
-/@FaztTech           Fazt
+[Fazt][yu-fazt]
 /@1BestCsharpblog            1BestCsharp blog
 /@StevdzaSan             Stevdza-San
-/@redgate            Redgate Videos
-/@DanVega            Dan Vega
-/@DesignCourse           DesignCourse
+[Redgate Videos][yu-redgate]
+[Dan Vega][yu-dan-vega]
+[DesignCourse][yu-design-course]
 /@ui5cn          UI5 Community Network
 /@JetBrainsTV            JetBrainsTV
-/@TylerPotts             Tyler Potts
+[Tyler Potts][yu-tyler-potts]
 /@SpringSourceDev            SpringDeveloper
-/@PhilipStarritt             Philip Starritt
+[Philip Starritt][yu-philip-starritt]
 /@KevinShroff            Kevin Shroff
 [Execute Automation][yu-execute-automation]
 /@seleniumconf           Selenium Conference
 /@extudy             두목넷 익스터디
 /@user-bf6fs6jy1p            은공지능 공작소
 /@doumcode           도움코드 쉬운예 DoumCode 데이터홍교수
-/@todaycode          오늘코드todaycode
+[오늘코드todaycode][yu-todaycode]
 /@KevinShroff            Kevin Shroff
 /@ArtofEngineer          Art of Engineer
 /@odiy3105           ODIY 한국과학창의재단
 /@testhivemanchester5873             Test Hive Manchester
 /@Kilo_Loco          Kilo Loco
 /@MATLAB             MATLAB
-/@vodQA          vodQA - a forum for software testing enthusiasts
+[vodQA - a forum for software testing enthusiasts][yu-vod-qa]
 /@amigoscode             Amigoscode
 /@DockerIo           Docker
-/@HassanHabib            Hassan Habib
+[Hassan Habib][yu-hassan-habib]
 /@Kilo_Loco          Kilo Loco
-/@Cocoacasts             Cocoacasts
+/@Cocoacasts       artist]][yu-oding]: https://www.youtube.com/@oding
+      Cocoacasts
 [CodingNepal][yu-coding-nepal]
-/@SergeyKargopolov           Sergey Kargopolov
-/@CodingArtist           Coding Artist
+[Sergey Kargopolov][yu-sergey-kargopolov]
+[Artist][yu-coding-artist]][yu-oding]: https://www.youtube.com/@oding
 [Online Tutorials][yu-oneline-tutorials]
-/@DesignCourse           DesignCourse
-/@Mukeshotwani           Mukesh otwani
-/@gotbletu           gotbletu
-/@PRABEESHRK             PRABEESH R K
-/@HackerSploit           HackerSploit
+[DesignCourse][yu-design-course]
+[Mukesh otwani][yu-mukesh-otwani]
+[gotbletu][yu-gotbletu]
+[PRABEESH R K][yu-prabeesh-r-k]
+[HackerSploit][yu-HackerSploit]
 /@seleniumconf           Selenium Conference
-/@seleniumconf           Selenium Conference
+[Selenium Conference][yu-analytics-university]: https://www.youtube.com/@seleniumconf
 /@seleniumconf           Selenium Conference
 /@OfficialPackt          Packt 
-/@CodingEntrepreneurs            CodingEntrepreneurs
+[CodingEntrepreneurs][yu-coding-entrepreneurs]
 /@DockerIo           Docker
-/@nomadcoders            노마드 코더 Nomad Coders
-/@SKplanetTacademy           SKplanet Tacademy
+[노마드 코더 Nomad Coders][yu-nomadcoders]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@seulki             슬기로운 슬기
 /@SpringSourceDev            SpringDeveloper
-/@iApplePro          iApplePro
-/@SKplanetTacademy           SKplanet Tacademy
+[iApplePro][yu-i-apple-pro]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 [DataStax Developers][yu-data-stax-devs]
 [DataStax Developers][yu-data-stax-devs]
 /@codingwithmitch            CodingWithMitch
-/@WesDoyle           Wes Doyle
+[Wes Doyle][yu-wes-doyle]
 /@redhatkorea2558            Red Hat Korea
 /@KtrKathir          KtrKathir
-/@NorfolkDevelopers          NorfolkDevelopers
-/@veamcamp           빔캠프 CSS
-/@TylerPotts             Tyler Potts
+[NorfolkDevelopers][yu-norfolk-developers]
+[빔캠프 CSS][yu-veamcamp]
+[Tyler Potts][yu-tyler-potts]
 /@seanallen          Sean Allen
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
@@ -2198,16 +334,16 @@ SW2UbAAMR0c
 /@seibertmedia           SEIBERTMEDIA
 /@aschmelyun             Andrew Schmelyun
 /@TechsavvyProductions           TechsavvyProductions
-/@SKplanetTacademy           SKplanet Tacademy
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@Kilo_Loco          Kilo Loco
-/@NetNinja           The Net Ninja
+[The Net Ninja][yu-net-ninja]
 /@freeautomationlearning7151             Free Automation Learning
 [Execute Automation][yu-execute-automation]
-/@SeleniumExpress            Selenium Express
+[Selenium Express][yu-selenium-express]
 /@EltonStoneman          Elton Stoneman
 /@Pusher_realtime            Pusher
-/@WebDevMatics           WebDevMatics
-/@DailyCodeBuffer            Daily Code Buffer
+[WebDevMatics][yu-web-dev-matics]
+[Daily Code Buffer][yu-daily-code-buffer]
 /@AzurenaPratica             Azure na Prática
 /@boanproject            보안프로젝트[boanproject]
 /@user-uv5hp3lh4k            파이.D
@@ -2222,9 +358,9 @@ SW2UbAAMR0c
 /@aschmelyun             Andrew Schmelyun
 /@TruthSeekersio             TruthSeekers
 /@bobbyiliev_            Bobby Iliev
-/@SKplanetTacademy           SKplanet Tacademy
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@DockerIo           Docker
-/@SKplanetTacademy           SKplanet Tacademy
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@KodySimpson            Kody Simpson
 /@freecodecamp           freeCodeCamp.org
 /@PyConKRtube            PyCon Korea
@@ -2233,9 +369,9 @@ SW2UbAAMR0c
 /@CppCon             CppCon
 /@StevdzaSan             Stevdza-San
 /@dotnet             dotnet
-/@davidbombal            David Bombal
+[David Bombal][yu-david-bombal]
 /@Kavsoft            Kavsoft
-/@codebreakthrough           Caleb Curry
+[b Curry][yu-codebreakthrough]
 /@CleverProgrammer           Clever Programmer
 /@mr.jeffastor9617           Mr. Jeff Astor
 [DataStax Developers][yu-data-stax-devs]
@@ -2245,18 +381,18 @@ SW2UbAAMR0c
 /@kubetm8737             kubetm
 [DataStax Developers][yu-data-stax-devs]
 /@boanproject            보안프로젝트[boanproject]
-/@coohde             생활코딩
+[생활코딩][yu-coohde]
 /@boanproject            보안프로젝트[boanproject]
 /@oracle-base            ORACLE-BASE.com
 [DataStax Developers][yu-data-stax-devs]
 /@Eduonix            Eduonix Learning Solutions
-/@ZeroChoTV          ZeroCho TV
-/@GainJavaKnowledge          Gain Java Knowledge
+[ZeroCho TV][yu-zero-cho-tv]
+[Gain Java Knowledge][yu-gain-java-knowledge]
 /@fosdemtalks            FOSDEM
 /@freecodecamp           freeCodeCamp.org
 /@MikesTechCorner            Mike Møller Nielsen
 /@Kilo_Loco          Kilo Loco
-/@awesomekling           Andreas Kling
+[Andreas Kling][yu-awesomekling]
 /@SpaceinvaderOne            Spaceinvader One
 [JavaScript Mastery][yu-javascript-mastery]
 /@CleverProgrammer           Clever Programmer
@@ -2264,149 +400,149 @@ SW2UbAAMR0c
 /@derekbanas             Derek Banas
 /@javidx9            javidx9
 /@AWSKorea           Amazon Web Services Korea
-/@DailyTuition           Daily Tuition
+[Daily Tuition][yu-daily-tuition]
 /@ThePolyglotDeveloper           The Polyglot Developer
-/@briandesign            Brian Design
+[Brian Design][yu-briandesign]
 /@danscourses            danscourses
-/@swiftkatcodefactory            Swift Kat Code Factory
-/@HassanHabib            Hassan Habib
-/@SeleniumExpress            Selenium Express
+[Swift Kat Code Factory][yu-swiftkatcodefactory]
+[Hassan Habib][yu-hassan-habib]
+[Selenium Express][yu-selenium-express]
 /@SimplilearnOfficial            Simplilearn
 /@iVish          iVish
-/@CodeXdev           CodeX
+[CodeX][yu-code-x]
 /@Eduonix            Eduonix Learning Solutions
-/@UiBrainsTechnologies           UiBrains Technologies
+[UiBrains Technologies][yu-ui-brains-technologies]
 /@codeWithAndrei             CodingWithAndrei
 /@VoidRealms             VoidRealms
 /@ThatProject            That Project
-/@LearnitTraining            Learnit Training
-/@swiftkatcodefactory            Swift Kat Code Factory
-/@DailyCodeBuffer            Daily Code Buffer
+[Learnit Training][yu-learnit-training]
+[Swift Kat Code Factory][yu-swiftkatcodefactory]
+[Daily Code Buffer][yu-daily-code-buffer]
 /@MikesTechCorner            Mike Møller Nielsen
-/@codingthesmartway          CodingTheSmartWay.com
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
 [Simplified Coding][yu-simplified-coding]
 [Execute Automation][yu-execute-automation]
 /@devopskorea4426            DevOps Korea
 /@CleverProgrammer           Clever Programmer
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
 /@freecodecamp           freeCodeCamp.org
 [DataStax Developers][yu-data-stax-devs]
 /@quentinsf          Quentin Stafford-Fraser
 [Brandan Jones][yu-discospiff]
-/@SeoulWorkshop          Seoul Workshop
-/@CognitiveSurge             Karl Hadwen
+[Seoul Workshop][yu-seoul-workshop]
+[Karl Hadwen][yu-cognitive-surge]
 /@amigoscode             Amigoscode
 /@TravisMedia            Travis Media
 /@intellijidea           IntelliJ IDEA by JetBrains
 /@CodingwithBasir            Coding with Basir
-/@davidbombal            David Bombal
+[David Bombal][yu-david-bombal]
 /@iVish          iVish
 /@VoidRealms             VoidRealms
-/@mouredev           MoureDev by Brais Moure
+[MoureDev by Brais Moure][yu-mouredev]
 /@visualstudio           Microsoft Visual Studio
-/@SeoulWorkshop          Seoul Workshop
-/@SeoulWorkshop          Seoul Workshop
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@Thetips4you            Thetips4you
-/@swiftkatcodefactory            Swift Kat Code Factory
+[Seoul Workshop][yu-seoul-workshop]
+[Seoul Workshop][yu-seoul-workshop]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[Thetips4you][yu-thetips4you]
+[Swift Kat Code Factory][yu-swiftkatcodefactory]
 /@DerickBailey           River Lynn Bailey
 /@Takacsmark             takacsmark
 /@Takacsmark             takacsmark
-/@SKplanetTacademy           SKplanet Tacademy
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@EltonStoneman          Elton Stoneman
-/@SeoulWorkshop          Seoul Workshop
-/@SeoulWorkshop          Seoul Workshop
+[Seoul Workshop][yu-seoul-workshop]
+[Seoul Workshop][yu-seoul-workshop]
 /@user-st5nc9ie7x            슬기로운코딩생활
 /@SimplilearnOfficial            Simplilearn
 /@nginx_official             NGINX
 [씨디맨][yu-cdmanii]
 /@TheEarthIsSquare           The Earth Is Square
 /@boanproject            보안프로젝트[boanproject]
-/@SpaceRexWill           SpaceRex
-/@murtazasworkshop           Murtaza's Workshop - Robotics and AI
-/@CMDevChannel           CMDev
-/@leighhalliday          Leigh Halliday
+[SpaceRex][yu-space-rex]
+[Murtaza's Workshop - Robotics and AI][yu-murtazas-workshop]
+[CMDev][yu-cm-dev]
+[Leigh Halliday][yu-leigh-halliday]
 /@freecodecamp           freeCodeCamp.org
-/@DesignCourse           DesignCourse
+[DesignCourse][yu-design-course]
 /@springcampkr           springcamp.io
-/@Aleksey_Konovalov          Aleksey Konovalov
+[Aleksey Konovalov][yu-aleksey-konovalov]
 /@DotNetCoreCentral          DotNet Core Central
 /@CleverProgrammer           Clever Programmer
-/@VicodeMedia            Vicode Media
+[Vicode Media][yu-vicode-media]
 /@MyCS1          My CS
 /@SKplanetRD             SKplanetRD
-/@keesun.b           백기선
-/@naveenautomationlabs           Naveen AutomationLabs
+[백기선][yu-keesun.b]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@SimplilearnOfficial            Simplilearn
 [OldTechBloke][yu-old-tech-bloke]
-/@leighhalliday          Leigh Halliday
+[Leigh Halliday][yu-leigh-halliday]
 /@CleverProgrammer           Clever Programmer
-/@codedamn           codedamn
+[codedamn][yu-codedamn]
 /@TheNoviceLearner           The Novice Learner
-/@HackerSploit           HackerSploit
-/@nadocoding             나도코딩
+[HackerSploit][yu-HackerSploit]
+[나도코딩][yu-nadocoding]
 /@IBMKorea1          IBM Korea
 /@xpressengine7822           XpressEngine
 /@iVish          iVish
 /@SKTelecomTdevelopers           SK open API
 /@AWSKorea           Amazon Web Services Korea
-/@44BITSTV           44BITS
+[44BITS][yu-44bits]
 /@mraible            Matt Raible
 /@DouglasSchmidt             Douglas Schmidt
 /@freecodecamp           freeCodeCamp.org
-/@leighhalliday          Leigh Halliday
-/@leighhalliday          Leigh Halliday
-/@44BITSTV           44BITS
-/@VicodeMedia            Vicode Media
-/@GainJavaKnowledge          Gain Java Knowledge
-/@gis            Основы программирования для географов
+[Leigh Halliday][yu-leigh-halliday]
+[Leigh Halliday][yu-leigh-halliday]
+[44BITS][yu-44bits]
+[Vicode Media][yu-vicode-media]
+[Gain Java Knowledge][yu-gain-java-knowledge]
+[Основы программирования для географов][yu-gis]
 /@ProgrammingwithMasoud          React with Masoud
-/@gis            Основы программирования для географов
-/@WanjohiKibui           Wanjohi Kibui
+[Основы программирования для географов][yu-gis]
+[Wanjohi Kibui][yu-wanjohi-kubui]
 /@KtrKathir          KtrKathir
 /@freecodecamp           freeCodeCamp.org
-/@SiamAlamOfficial           Siam Alam
+[Siam Alam][yu-siam-alam]
 [Simplified Coding][yu-simplified-coding]
 /@derekbanas             Derek Banas
 /@visualstudio           Microsoft Visual Studio
-/@user-lt1yu1fb4z            오라클자바커뮤니티
-/@WebDevMatics           WebDevMatics
-/@user-lt1yu1fb4z            오라클자바커뮤니티
+[오라클자바커뮤니티][yu-user-lt1yu1fb4z]
+[WebDevMatics][yu-web-dev-matics]
+[오라클자바커뮤니티][yu-user-lt1yu1fb4z]
 /@nginx_official             NGINX
 /@DataCouncil            Data Council
 /@CleverProgrammer           Clever Programmer
-/@44BITSTV           44BITS
-/@RamNJava           Ram N Java
+[44BITS][yu-44bits]
+[Ram N Java][yu-ram-n-java]
 /@Kavsoft            Kavsoft
-/@quidsup            quidsup
+[quidsup][yu-quidsup]
 /@iVish          iVish
-/@interviewingio             interviewing.io
-/@RaghavPal          Automation Step by Step
+[interviewing.io][yu-interviewingio]
+[Automation Step by Step][yu-raghav-pal]
 /@WhizdomTrainings01             Ashish Thakur
 /@iVish          iVish
 [Nick Chapsas][yu-nickchapsas]
 [Learn Linux TV][yu-learn-linux-tv]
 /@theswiftdevelopers1301             The Swift Developers
-/@DesignCourse           DesignCourse
+[DesignCourse][yu-design-course]
 /@LetsBuildThatApp           Lets Build That App
-/@BrodieRobertson            Brodie Robertson
-/@WebDevSimplified           Web Dev Simplified
+[Brodie Robertson][yu-brodie-robertson]
+[Web Dev Simplified][yu-web-dev-simplified]
 /@vertex42           Vertex42
 /@cncf           CNCF [Cloud Native Computing Foundation]
 /@DouglasSchmidt             Douglas Schmidt
 /@learnwithjason             Learn With Jason
 /@Kavsoft            Kavsoft
-/@DanielPersson          Daniel Persson
+[Daniel Persson][yu-daniel-persson]
 /@CleverProgrammer           Clever Programmer
 /@visualstudio           Microsoft Visual Studio
 /@donga-flyingbbh            떴다떴다변비행
 [Intellipaat][yu-intellipaat]
 /@WhizdomTrainings01             Ashish Thakur
-/@TechGumbo          TechGumbo
-/@DesignCourse           DesignCourse
-/@hnasr          Hussein Nasser
+[TechGumbo][yu-tech-gumbo]
+[DesignCourse][yu-design-course]
+[Hussein Nasser][yu-hnasr]
 [씨디맨][yu-cdmanii]
-/@KevinStratvert             Kevin Stratvert
+[Kevin Stratvert][yu-kevin-stratvert]
 /@vaadinofficial             vaadinofficial
 /@theswiftdevelopers1301             The Swift Developers
 /@DelaroyStudios             Delaroy Studios
@@ -2416,60 +552,60 @@ SW2UbAAMR0c
 /@SSWTV          SSW TV | Videos for developers, by developers
 /@lodongbokeo            로동복어
 /@codeWithAndrei             CodingWithAndrei
-/@swiftkatcodefactory            Swift Kat Code Factory
+[Swift Kat Code Factory][yu-swiftkatcodefactory]
 /@kossiecoder            코지 코더 Kossie Coder
 [Naresh i Technologies][yu-naresh-it]
 /@KtrKathir          KtrKathir
 /@SimplilearnOfficial            Simplilearn
 [Naresh i Technologies][yu-naresh-it]
-/@IAmTimCorey            IAmTimCorey
-/@ProgramWithErik            Program With Erik
-/@yalco-coding           얄팍한 코딩사전
+[IAmTimCorey][yu-i-am-tim-corey]
+[Program With Erik][yu-program-w-erik]
+[얄팍한 코딩사전][yu-yalco-coding]
 /@davidrupprecht7694             David Rupprecht
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@WhizdomTrainings01             Ashish Thakur
 /@WhizdomTrainings01             Ashish Thakur
-/@DailyCodeBuffer            Daily Code Buffer
+[Daily Code Buffer][yu-daily-code-buffer]
 [Intellipaat][yu-intellipaat]
 [Naresh i Technologies][yu-naresh-it]
-/@BrodieRobertson            Brodie Robertson
+[Brodie Robertson][yu-brodie-robertson]
 /@TVACStudio             Akshay Jhajhra
 /@Kavsoft            Kavsoft
-/@codingwithusman7           Coding With Usman
-/@RahulRathore41             Rahul Rathore
+[Coding With Usman][yu-codingwithusman7]
+[Rahul Rathore][yu-rahul-rathore41]
 /@ThePolyglotDeveloper           The Polyglot Developer
 /@Firebase           Firebase
 /@ThePolyglotDeveloper           The Polyglot Developer
 /@AAmini             Alexander Amini
-/@codeSTACKr             codeSTACKr
+[codeSTACKr][yu-code-stackr]
 /@TheMorpheusTutorials           The Morpheus Tutorials
 [Java Guides][yu-java-guides]
 /@stencia8236            Stencia
-/@user-lt1yu1fb4z            오라클자바커뮤니티
-/@OktaDev            OktaDev
-/@edurekaIN          edureka!
+[오라클자바커뮤니티][yu-user-lt1yu1fb4z]
+[OktaDev][yu-okta-dev]
+[edureka!][yu-edureka]
 /@CleverProgrammer           Clever Programmer
 /@CleverProgrammer           Clever Programmer
-/@user-lt1yu1fb4z            오라클자바커뮤니티
+[오라클자바커뮤니티][yu-user-lt1yu1fb4z]
 /@dnfvideo           .NET Interview Preparation videos
 /@AngelSix           AngelSix
 /@MyCS1          My CS
-/@LoiLiangYang           Loi Liang Yang
-/@GreenLearner           Green Learner
-/@SeleniumExpress            Selenium Express
-/@GreenLearner           Green Learner
+[Loi Liang Yang][yu-loi-liang-yang]
+[Green Learner][yu-green-learner]
+[Selenium Express][yu-selenium-express]
+[Green Learner][yu-green-learner]
 /@freecodecamp           freeCodeCamp.org
 /@CodeWithChris          CodeWithChris
-/@bawad          Ben Awad
+[Ben Awad][yu-bawad]
 /@freecodecamp           freeCodeCamp.org
-/@IB9696             IB 96
-/@NetNinja           The Net Ninja
+[IB 96][yu-IB9696]
+[The Net Ninja][yu-net-ninja]
 /@PatrickGod             Patrick God
 /@TVACStudio             Akshay Jhajhra
-/@binarythistle          Les Jackson
+[Les Jackson][yu-binarythistle]
 /@TheNoviceLearner           The Novice Learner
 /@dipeshiem          Dipesh Garg
-/@GreenLearner           Green Learner
+[Green Learner][yu-green-learner]
 /@KtrKathir          KtrKathir
 /@CodeWithChris          CodeWithChris
 /@SpringSourceDev            SpringDeveloper
@@ -2477,156 +613,156 @@ SW2UbAAMR0c
 /@programmingwithmosh            Programming with Mosh
 /@DockerIo           Docker
 /@freecodecamp           freeCodeCamp.org
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
 /@CleverProgrammer           Clever Programmer
 [CodingNepal][yu-coding-nepal]
-/@IAmTimCorey            IAmTimCorey
+[IAmTimCorey][yu-i-am-tim-corey]
 /@KeepToo            KeepToo
 /@gergoooooooooooooooo           Greg Kalapos
 /@freecodecamp           freeCodeCamp.org
-/@WebDevSimplified           Web Dev Simplified
-/@IAmTimCorey            IAmTimCorey
-/@IAmTimCorey            IAmTimCorey
-/@HassanHabib            Hassan Habib
-/@ProgramWithErik            Program With Erik
+[Web Dev Simplified][yu-web-dev-simplified]
+[IAmTimCorey][yu-i-am-tim-corey]
+[IAmTimCorey][yu-i-am-tim-corey]
+[Hassan Habib][yu-hassan-habib]
+[Program With Erik][yu-program-w-erik]
 /@CleverProgrammer           Clever Programmer
 /@ComputerSciencecompsci112358           Computer Science
 /@CleverProgrammer           Clever Programmer
-/@DailyCodeBuffer            Daily Code Buffer
-/@IAmTimCorey            IAmTimCorey
-/@ZeroChoTV          ZeroCho TV
+[Daily Code Buffer][yu-daily-code-buffer]
+[IAmTimCorey][yu-i-am-tim-corey]
+[ZeroCho TV][yu-zero-cho-tv]
 /@derekbanas             Derek Banas
 /@freecodecamp           freeCodeCamp.org
-/@Fireship           Fireship
-/@GaryExplains           Gary Explains
-/@TheCodeholic           The Codeholic
-/@IAmTimCorey            IAmTimCorey
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[Fireship][yu-fireship]
+[Gary Explains][yu-gary-explains]
+[The Codeholic][yu-the-codeholic]
+[IAmTimCorey][yu-i-am-tim-corey]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@MikesTechCorner            Mike Møller Nielsen
 /@CodeWithChris          CodeWithChris
-/@ResoCoder          Reso Coder
+[Reso Coder][yu-reso-coder]
 /@zSecurity          zSecurity
-/@codeSTACKr             codeSTACKr
+[codeSTACKr][yu-code-stackr]
 /@DotNetCoreCentral          DotNet Core Central
-/@DailyCodeBuffer            Daily Code Buffer
+[Daily Code Buffer][yu-daily-code-buffer]
 /@janeshkodikara             Janesh Kodikara
 /@janeshkodikara             Janesh Kodikara
 /@ExcelForFreelancers            Excel For Freelancers
 /@CleverProgrammer           Clever Programmer
-/@binarythistle          Les Jackson
-/@TheCodeholic           The Codeholic
-/@Thetips4you            Thetips4you
-/@IAmTimCorey            IAmTimCorey
-/@IAmTimCorey            IAmTimCorey
-/@binarythistle          Les Jackson
-/@binarythistle          Les Jackson
-/@Fireship           Fireship
-/@DailyCodeBuffer            Daily Code Buffer
+[Les Jackson][yu-binarythistle]
+[The Codeholic][yu-the-codeholic]
+[Thetips4you][yu-thetips4you]
+[IAmTimCorey][yu-i-am-tim-corey]
+[IAmTimCorey][yu-i-am-tim-corey]
+[Les Jackson][yu-binarythistle]
+[Les Jackson][yu-binarythistle]
+[Fireship][yu-fireship]
+[Daily Code Buffer][yu-daily-code-buffer]
 [Naresh i Technologies][yu-naresh-it]
 /@hackaday           HACKADAY
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
-/@TechWithTim            Tech With Tim
-/@DailyCodeBuffer            Daily Code Buffer
-/@SourceCodePHOnce           Source Code PH
-/@DailyCodeBuffer            Daily Code Buffer
-/@DailyCodeBuffer            Daily Code Buffer
-/@DailyCodeBuffer            Daily Code Buffer
-/@DailyCodeBuffer            Daily Code Buffer
+[Tech With Tim][yu-tech-w-tim]
+[Daily Code Buffer][yu-daily-code-buffer]
+[Source Code PH][yu-source-code-pm]
+[Daily Code Buffer][yu-daily-code-buffer]
+[Daily Code Buffer][yu-daily-code-buffer]
+[Daily Code Buffer][yu-daily-code-buffer]
+[Daily Code Buffer][yu-daily-code-buffer]
 /@softwaretestwarriors1925           SoftwarE tesT warriorS
-/@infybuzz           Infybuzz
+[Infybuzz][yu-infybuzz]
 /@microserviceslab5515           Microservices Lab
-/@user-lt1yu1fb4z            오라클자바커뮤니티
+[오라클자바커뮤니티][yu-user-lt1yu1fb4z]
 /@softwaretestwarriors1925           SoftwarE tesT warriorS
-/@CodingGarden           Coding Garden
-/@CodingGarden           Coding Garden
-/@TomBaranowicz          Tom Baranowicz
-/@CodingGarden           Coding Garden
-/@davidbombal            David Bombal
-/@indianappguy           Sanskar Tiwari
+[Coding Garden][yu-coding-garden]
+[Coding Garden][yu-coding-garden]
+[Tom Baranowicz][yu-tom-baranowicz]
+[Coding Garden][yu-coding-garden]
+[David Bombal][yu-david-bombal]
+[Sanskar Tiwari][yu-indianappguy]
 /@CleverProgrammer           Clever Programmer
-/@CodingGarden           Coding Garden
-/@wcandillon             William Candillon
-/@binarythistle          Les Jackson
-/@CodingGarden           Coding Garden
+[Coding Garden][yu-coding-garden]
+[William Candillon][yu-wcandillon]
+[Les Jackson][yu-binarythistle]
+[Coding Garden][yu-coding-garden]
 /@freecodecamp           freeCodeCamp.org
-/@wcandillon             William Candillon
+[William Candillon][yu-wcandillon]
 /@shanselman             Scott Hanselman
-/@CodingGarden           Coding Garden
-/@Fireship           Fireship
-/@TechWithTim            Tech With Tim
-/@academind          Academind
-/@naveenautomationlabs           Naveen AutomationLabs
+[Coding Garden][yu-coding-garden]
+[Fireship][yu-fireship]
+[Tech With Tim][yu-tech-w-tim]
+[Academind][yu-academind]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@AndroidDevelopers          Android Developers
-/@DistroTube             DistroTube
-/@davidbombal            David Bombal
-/@CodingGarden           Coding Garden
-/@IAmTimCorey            IAmTimCorey
+[DistroTube][yu-distro-tube]
+[David Bombal][yu-david-bombal]
+[Coding Garden][yu-coding-garden]
+[IAmTimCorey][yu-i-am-tim-corey]
 /@shanselman             Scott Hanselman
-/@IAmTimCorey            IAmTimCorey
-/@Javatechie             Java Techie
-/@Aleksey_Konovalov          Aleksey Konovalov
-/@davidbombal            David Bombal
+[IAmTimCorey][yu-i-am-tim-corey]
+[Java Techie][yu-java-techie]
+[Aleksey Konovalov][yu-aleksey-konovalov]
+[David Bombal][yu-david-bombal]
 /@KevinPowell            Kevin Powell
-/@TechWithTim            Tech With Tim
+[Tech With Tim][yu-tech-w-tim]
 /@shanselman             Scott Hanselman
-/@TomBaranowicz          Tom Baranowicz
+[Tom Baranowicz][yu-tom-baranowicz]
 /@bgsreview          방구석 리뷰룸
-/@TomBaranowicz          Tom Baranowicz
+[Tom Baranowicz][yu-tom-baranowicz]
 /@LetsBuildThatApp           Lets Build That App
 /@LetsBuildThatApp           Lets Build That App
 /@freecodecamp           freeCodeCamp.org
 /@SimplilearnOfficial            Simplilearn
 /@intellijidea           IntelliJ IDEA by JetBrains
-/@aaeideapro1192             AAE IdeaPro
-/@SeoulWorkshop          Seoul Workshop
+[AAE IdeaPro][yu-aaeideapro1192]
+[Seoul Workshop][yu-seoul-workshop]
 /@LearnEDU           LearnEDU
 /@codingwithmitch            CodingWithMitch
 /@MikesTechCorner            Mike Møller Nielsen
 /@mobiletechreview           MobileTechReview
-/@swiftkatcodefactory            Swift Kat Code Factory
-/@TechNolli          TechNolli
+[Swift Kat Code Factory][yu-swiftkatcodefactory]
+[TechNolli][yu-tech-nolli]
 /@ItsMyNaturalColour             ItsMyNaturalColour
-/@DanielPersson          Daniel Persson
-/@HackerSploit           HackerSploit
+[Daniel Persson][yu-daniel-persson]
+[HackerSploit][yu-HackerSploit]
 [Intellipaat][yu-intellipaat]
 /@user-yy7ix2ie5u            我和我的黑蘋果
-/@codeSTACKr             codeSTACKr
-/@theurbanpenguin            theurbanpenguin
-/@Aleksey_Konovalov          Aleksey Konovalov
-/@MentalOutlaw           Mental Outlaw
+[codeSTACKr][yu-code-stackr]
+[theurbanpenguin][yu-theurbanpenguin]
+[Aleksey Konovalov][yu-aleksey-konovalov]
+[Mental Outlaw][yu-mental-outlaw]
 /@codingwithmitch            CodingWithMitch
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
 /@CodeWithChris          CodeWithChris
 /@freecodecamp           freeCodeCamp.org
-/@TylerPotts             Tyler Potts
-/@wcandillon             William Candillon
+[Tyler Potts][yu-tyler-potts]
+[William Candillon][yu-wcandillon]
 /@Sweetdev           Sweetdev
-/@infybuzz           Infybuzz
+[Infybuzz][yu-infybuzz]
 /@CodingTech             Coding Tech
 /@WindowsCentral             Windows Central
-/@naveenautomationlabs           Naveen AutomationLabs
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@nascompares            NASCompares
-/@TechLabsOfficial           Tech Labs
+[Tech Labs][yu-tech-labs]
 /@AwsRh          Aws Rh
 [ThinMatrix][yu-thin-matrix]
-/@MentalOutlaw           Mental Outlaw
+[Mental Outlaw][yu-mental-outlaw]
 /@MikesTechCorner            Mike Møller Nielsen
-/@DistroTube             DistroTube
-/@hnasr          Hussein Nasser
+[DistroTube][yu-distro-tube]
+[Hussein Nasser][yu-hnasr]
 /@CleverProgrammer           Clever Programmer
 /@KevinPowell            Kevin Powell
 /@SimplilearnOfficial            Simplilearn
 /@intellijidea           IntelliJ IDEA by JetBrains
-/@CodingArtist           Coding Artist
+[Coding Artist][yu-coding-artist]
 /@freecodecamp           freeCodeCamp.org
 /@AndroidDevelopers          Android Developers
 /@codingwithmitch            CodingWithMitch
 /@Adamant_IT             Adamant IT
-/@TechLabsOfficial           Tech Labs
-/@TechLabsOfficial           Tech Labs
+[Tech Labs][yu-tech-labs]
+[Tech Labs][yu-tech-labs]
 /@codingwithmitch            CodingWithMitch
 /@codingwithmitch            CodingWithMitch
 /@codingwithmitch            CodingWithMitch
@@ -2637,23 +773,23 @@ SW2UbAAMR0c
 /@SimplilearnOfficial            Simplilearn
 /@-559           언제나 휴일- 프로그래머
 [networknutsdotnet][yu-networknutsdotnet]
-/@academind          Academind
+[Academind][yu-academind]
 /@StevdzaSan             Stevdza-San
 /@SimplilearnOfficial            Simplilearn
 [Envato Tuts+][yu-envatotuts]
 [Online Tutorials][yu-oneline-tutorials]
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
 /@ChromeDevs             Google Chrome Developers
 /@Firebase           Firebase
 /@ChrisTitusTech             Chris Titus Tech
-/@codebreakthrough           Caleb Curry
-/@Sketch2React           Sketch2React
-/@TechGumbo          TechGumbo
-/@veamcamp           빔캠프 CSS
+[b Curry][yu-codebreakthrough]
+[Sketch2React][yu-sketch-2-react]
+[TechGumbo][yu-tech-gumbo]
+[빔캠프 CSS][yu-veamcamp]
 /@kossiecoder            코지 코더 Kossie Coder
-/@Javatechie             Java Techie
+[Java Techie][yu-java-techie]
 /@freecodecamp           freeCodeCamp.org
-/@codingthesmartway          CodingTheSmartWay.com
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
 /@JessaJones             iPad Rehab
 /@-559           언제나 휴일- 프로그래머
 /@freecodecamp           freeCodeCamp.org
@@ -2666,257 +802,257 @@ SW2UbAAMR0c
 /@learncodeacademy           LearnCode.academy
 /@derekbanas             Derek Banas
 /@ChrisTitusTech             Chris Titus Tech
-/@davidbombal            David Bombal
+[David Bombal][yu-david-bombal]
 /@freecodecamp           freeCodeCamp.org
 /@theguystech2813            The Guys Tech
-/@RaghavPal          Automation Step by Step
-/@pcsecuritychannel          The PC Security Channel
-/@IAmTimCorey            IAmTimCorey
+[Automation Step by Step][yu-raghav-pal]
+[The PC Security Channel][yu-the-pc-security-channel]
+[IAmTimCorey][yu-i-am-tim-corey]
 /@MyCS1          My CS
 /@cybercdh           cybercdh
-/@DanielPersson          Daniel Persson
-/@JavaHomeCloud          Java Home Cloud
+[Daniel Persson][yu-daniel-persson]
+[Java Home Cloud][yu-java-home-cloud]
 /@tmwilliamlin168            William Lin
-/@TechPrimers            Tech Primers
-/@WesDoyle           Wes Doyle
+[Tech Primers][yu-tech-primers]
+[Wes Doyle][yu-wes-doyle]
 [Britec09][yu-britec-09]
 /@SimplilearnOfficial            Simplilearn
 [Intellipaat][yu-intellipaat]
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
 /@SimplilearnOfficial            Simplilearn
 /@Kilo_Loco          Kilo Loco
 /@ChrisTitusTech             Chris Titus Tech
 /@EdjeElectronics            Edje Electronics
 /@TheLinuxEXP            The Linux Experiment
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 /@dbagenesis             DBA Genesis
 /@Kavsoft            Kavsoft
 /@contextfree            Context Free
 /@linuxhint          linuxhint
 /@-559           언제나 휴일- 프로그래머
-/@codedamn           codedamn
-/@codedamn           codedamn
-/@codedamn           codedamn
+[codedamn][yu-codedamn]
+[codedamn][yu-codedamn]
+[codedamn][yu-codedamn]
 /@noobtoprofessional             Chris Hawkes
 /@1BestCsharpblog            1BestCsharp blog
-/@veamcamp           빔캠프 CSS
+[빔캠프 CSS][yu-veamcamp]
 /@DouglasSchmidt             Douglas Schmidt
 [Novaspirit Tech][yu-novaspirit-tech]
-/@nadocoding             나도코딩
-/@DistroTube             DistroTube
-/@DistroTube             DistroTube
-/@naveenautomationlabs           Naveen AutomationLabs
+[나도코딩][yu-nadocoding]
+[DistroTube][yu-distro-tube]
+[DistroTube][yu-distro-tube]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@ConfianceLabs          Confiance Labs
-/@MollyRocket            Molly Rocket
-/@keesun.b           백기선
-/@davidbombal            David Bombal
-/@codeSTACKr             codeSTACKr
-/@SeoulWorkshop          Seoul Workshop
+[Molly Rocket][yu-molly-rocket]
+[백기선][yu-keesun.b]
+[David Bombal][yu-david-bombal]
+[codeSTACKr][yu-code-stackr]
+[Seoul Workshop][yu-seoul-workshop]
 /@ChrisTitusTech             Chris Titus Tech
 /@QAShahin           QAShahin
-/@naveenautomationlabs           Naveen AutomationLabs
-/@swifttutorials4691             Swift Tutorials
-/@naveenautomationlabs           Naveen AutomationLabs
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Swift Tutorials][yu-swifttutorials4691]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@learncodeacademy           LearnCode.academy
 [Britec09][yu-britec-09]
-/@IAmTimCorey            IAmTimCorey
+[IAmTimCorey][yu-i-am-tim-corey]
 /@seanallen          Sean Allen
-/@MentalOutlaw           Mental Outlaw
-/@MentalOutlaw           Mental Outlaw
-/@MentalOutlaw           Mental Outlaw
-/@MentalOutlaw           Mental Outlaw
+[Mental Outlaw][yu-mental-outlaw]
+[Mental Outlaw][yu-mental-outlaw]
+[Mental Outlaw][yu-mental-outlaw]
+[Mental Outlaw][yu-mental-outlaw]
 /@Cordablockchain            Corda
 [Britec09][yu-britec-09]
 /@xebiafunctional            Xebia Functional (formerly 47 Degrees)
 /@freecodecamp           freeCodeCamp.org
-/@SeoulWorkshop          Seoul Workshop
+[Seoul Workshop][yu-seoul-workshop]
 /@alexlorenlee           Alex Lee
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@AdamWathan             Adam Wathan
-/@swiftuitutorial1           SwiftUI Tutorial#1
+[SwiftUI Tutorial#1][yu-swiftuitutorial1]
 /@visualstudio           Microsoft Visual Studio
 /@MyCS1          My CS
-/@CodingGarden           Coding Garden
+[Coding Garden][yu-coding-garden]
 /@MyCS1          My CS
 /@Techtablets            TechTablets
 /@Pusher_realtime            Pusher
-/@SeleniumExpress            Selenium Express
+[Selenium Express][yu-selenium-express]
 /@Kavsoft            Kavsoft
 /@DroidconParis          Android Makers
 /@shanselman             Scott Hanselman
-/@CodeWithSteve          Code With Steve
+[Code With Steve][yu-code-w-steve]
 /@Kavsoft            Kavsoft
-/@CodeWithSteve          Code With Steve
-/@RaghavPal          Automation Step by Step
-/@SeoulWorkshop          Seoul Workshop
-/@SeoulWorkshop          Seoul Workshop
+[Code With Steve][yu-code-w-steve]
+[Automation Step by Step][yu-raghav-pal]
+[Seoul Workshop][yu-seoul-workshop]
+[Seoul Workshop][yu-seoul-workshop]
 [Oracle Learning][yu-oracle-learning]
-/@GaryExplains           Gary Explains
+[Gary Explains][yu-gary-explains]
 [Novaspirit Tech][yu-novaspirit-tech]
 /@AnimationCoding            Animation Coding
-/@ZeroToMastery          Zero To Mastery
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@aaeideapro1192             AAE IdeaPro
+[Zero To Mastery][yu-zero-to-mastery]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[AAE IdeaPro][yu-aaeideapro1192]
 /@AndroidDevelopers          Android Developers
-/@infoq          InfoQ
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[InfoQ][yu-info-q]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@dotnet             dotnet
 /@freecodecamp           freeCodeCamp.org
-/@RaghavPal          Automation Step by Step
+[Automation Step by Step][yu-raghav-pal]
 /@DotVVM             DotVVM
 /@StevdzaSan             Stevdza-San
 [Madia Designer][yu-UXUIDesign]
-/@RawCoding          Raw Coding
+[Raw Coding][yu-raw-coding]
 /@lucid_software             Lucid Software
 /@SoftwareTestingMaterial            Software Testing Material
 /@learncodeacademy           LearnCode.academy
-/@Pentacode          Pentacode
+[Pentacode][yu-pentacode]
 /@NDC            NDC Conferences
 /@freecodecamp           freeCodeCamp.org
-/@zachgoll           Zach Gollwitzer
-/@NetNinja           The Net Ninja
+[Zach Gollwitzer][yu-zachgoll]
+[The Net Ninja][yu-net-ninja]
 /@visualstudio           Microsoft Visual Studio
-/@RJCodeAdvanceEN            RJ Code Advance EN
+[RJ Code Advance EN][yu-rj-code-advance-en]
 /@cpponsea2834           cpponsea
 [Britec09][yu-britec-09]
-/@TechWithTim            Tech With Tim
-/@binarythistle          Les Jackson
+[Tech With Tim][yu-tech-w-tim]
+[Les Jackson][yu-binarythistle]
 /@DarkCodeOnline             DarkCode
 /@freecodecamp           freeCodeCamp.org
 /@bigmtnstudio           Mark Moeykens
 /@stanford           Stanford
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
-/@NickJanetakis          Nick Janetakis
+[Nick Janetakis][yu-nick-janetakis]
 /@drehimself             Andre Madarang
-/@tutoriaLinux           tutoriaLinux
-/@RaghavPal          Automation Step by Step
+[tutoriaLinux][yu-tutoriaLinux]
+[Automation Step by Step][yu-raghav-pal]
 [한빛미디어][yu-HanbitMedia93]
 [한빛미디어][yu-HanbitMedia93]
 /@amigoscode             Amigoscode
-/@binarythistle          Les Jackson
-/@binarythistle          Les Jackson
-/@binarythistle          Les Jackson
-/@TechPrimers            Tech Primers
-/@garnattione            garnatti one
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@theandroidprogrammer           The Android Programmer
-/@sdetpavan          SDET- QA Automation Techie
+[Les Jackson][yu-binarythistle]
+[Les Jackson][yu-binarythistle]
+[Les Jackson][yu-binarythistle]
+[Tech Primers][yu-tech-primers]
+[garnatti one][yu-garnattione]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[The Android Programmer][yu-theandroidprogrammer]
+[SDET- QA Automation Techie][yu-sdetpavan]
 /@moiser_lab             셀픽스 Selfix
 [Intellipaat][yu-intellipaat]
 /@seanallen          Sean Allen
 /@drehimself             Andre Madarang
-/@ETAPRIME           ETA PRIME
-/@MichaelMJD             Michael MJD
-/@GaryExplains           Gary Explains
+[ETA PRIME][yu-eta-prime]
+[Michael MJD][yu-michael-mjd]
+[Gary Explains][yu-gary-explains]
 [Online Tutorials][yu-oneline-tutorials]
-/@WesDoyle           Wes Doyle
+[Wes Doyle][yu-wes-doyle]
 /@freecodecamp           freeCodeCamp.org
 /@MicrosoftDeveloper             Microsoft Developer
 /@MicrosoftDeveloper             Microsoft Developer
-/@naveenautomationlabs           Naveen AutomationLabs
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 [Britec09][yu-britec-09]
 /@xebiafunctional            Xebia Functional (formerly 47 Degrees)
-/@JonGjengset            Jon Gjengset
+[Jon Gjengset][yu-jon-gjengset]
 /@PhilsLab           Phil’s Lab
 [Britec09][yu-britec-09]
-/@sdetpavan          SDET- QA Automation Techie
+[SDET- QA Automation Techie][yu-sdetpavan]
 /@freecodecamp           freeCodeCamp.org
-/@LukeSmithxyz           Luke Smith
+[Luke Smith][yu-luke-smith]
 /@WhizdomTrainings01             Ashish Thakur
-/@LetCreateAnApp             Let Create An App
-/@pcsecuritychannel          The PC Security Channel
-/@DistroTube             DistroTube
+[Let Create An App][yu-let-create-an-app]/@pcsecuritychannel          The [The PC Security Channel][yu-the-pc-security-channel]
+[DistroTube][yu-distro-tube]
 [Britec09][yu-britec-09]
 /@freecodecamp           freeCodeCamp.org
 /@linuxhint          linuxhint
 /@DockerIo           Docker
 /@JetBrainsTV            JetBrainsTV
 /@WhizdomTrainings01             Ashish Thakur
-/@CodingAddict           Coding Addict
+[Coding Addict][yu-coding-addict]
 /@codecourse             Codecourse
 /@TraversyMedia          Traversy Media
-/@codedamn           codedamn
+[codedamn][yu-codedamn]
 /@freecodecamp           freeCodeCamp.org
 /@ShanesCows             Shane Young
 [Britec09][yu-britec-09]
-/@Mukeshotwani           Mukesh otwani
+[Mukesh otwani][yu-mukesh-otwani]
 /@brientravis6591            Brien Travis
 /@JeffGeerling           Jeff Geerling
 [Intellipaat][yu-intellipaat]
-/@HowtoFixYourComputer           How to Fix Your Computer
+[HowTo][yu-how-to-make-it-done]
 /@RobustPerception           Robust Perception
 /@stacksmashing          stacksmashing
-/@DanVega            Dan Vega
-/@Mukeshotwani           Mukesh otwani
-/@SKplanetTacademy           SKplanet Tacademy
+[Dan Vega][yu-dan-vega]
+[Mukesh otwani][yu-mukesh-otwani]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@NearForm           NearForm
 /@DouglasSchmidt             Douglas Schmidt
 /@DockerIo           Docker
-/@KodeKloud          KodeKloud
+[KodeKloud][yu-kode-kloud]
 /@ThioJoe            ThioJoe
 /@Touchlab           Touchlab
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@freecodecamp           freeCodeCamp.org
-/@TCMSecurityAcademy             The Cyber Mentor
+[The Cyber Mentor][yu-the-cyber-mentor]
 /@freecodecamp           freeCodeCamp.org
-/@sdetpavan          SDET- QA Automation Techie
+[SDET- QA Automation Techie][yu-sdetpavan]
 /@1BestCsharpblog            1BestCsharp blog
-/@IAmTimCorey            IAmTimCorey
+[IAmTimCorey][yu-i-am-tim-corey]
 [Online Tutorials][yu-oneline-tutorials]
-/@Fireship           Fireship
-/@BuildAppsWithPaulo             Build Apps With Paulo
-/@sdetpavan          SDET- QA Automation Techie
+[Fireship][yu-fireship]
+[Build Apps With Paulo][yu-build-apps-w-paulo]
+[SDET- QA Automation Techie][yu-sdetpavan]
 /@KentCDodds-vids            Kent C. Dodds
 /@makc           MAKC
 /@Gatsbyjs           Gatsby
-/@Javatechie             Java Techie
+[Java Techie][yu-java-techie]
 /@MissingSemester            Missing Semester
 /@freecodecamp           freeCodeCamp.org
-/@chandoo_           Chandoo
+[Chandoo][yu-chandoo_]
 /@ColtSteeleCode             Colt Steele
 /@onlinementor1013           Online Mentor
 /@DouglasSchmidt             Douglas Schmidt
-/@KodecoDev          Kodeco
-/@CodingAddict           Coding Addict
-/@RaghavPal          Automation Step by Step
+[Kodeco][yu-kodeco]
+[Coding Addict][yu-coding-addict]
+[Automation Step by Step][yu-raghav-pal]
 /@OfficialPackt          Packt 
-/@BuildAppsWithPaulo             Build Apps With Paulo
-/@LoiLiangYang           Loi Liang Yang
+[Build Apps With Paulo][yu-build-apps-w-paulo]
+[Loi Liang Yang][yu-loi-liang-yang]
 /@freecodecamp           freeCodeCamp.org
-/@gotbletu           gotbletu
-/@infybuzz           Infybuzz
-/@infybuzz           Infybuzz
-/@infybuzz           Infybuzz
-/@DanielPersson          Daniel Persson
+[gotbletu][yu-gotbletu]
+[Infybuzz][yu-infybuzz]
+[Infybuzz][yu-infybuzz]
+[Infybuzz][yu-infybuzz]
+[Perssonyu-daniel-persson]][yu-analytics-university]: https://www.youtube.com/@][
 /@DefogTech          Defog Tech
-/@infybuzz           Infybuzz
-/@awesomekling           Andreas Kling
-/@LoiLiangYang           Loi Liang Yang
-/@Thetips4you            Thetips4you
+[Infybuzz][yu-infybuzz]
+[Andreas Kling][yu-awesomekling]
+[Loi Liang Yang][yu-loi-liang-yang]
+[Thetips4you][yu-thetips4you]
 /@-559           언제나 휴일- 프로그래머
 /@EltonStoneman          Elton Stoneman
 /@Kilo_Loco          Kilo Loco
 /@guru99com          Guru99
 /@DouglasSchmidt             Douglas Schmidt
-/@user-wo1ft8xx3y            연지
-/@infybuzz           Infybuzz
-/@SergeyKargopolov           Sergey Kargopolov
-/@Cordablockchain            Corda
-/@DanielPersson          Daniel Persson
+/@user-wo1ft8xx3y          @Cordablockchain
+  연지
+[Infybuzz][yu-infybuzz]
+[Sergey Kargopolov][yu-sergey-kargopolov]
+[Corda][yu-Cordablockchain]: https://www.youtube.com/@Cordablockchain
+[Daniel Persson][yu-daniel-persson]
 /@jeffrey_codes          Jeffrey Codes Javascript
 /@DouglasSchmidt             Douglas Schmidt
 /@codingwithmitch            CodingWithMitch
-/@IAmTimCorey            IAmTimCorey
-/@TheCodeholic           The Codeholic
-/@Mukeshotwani           Mukesh otwani
+[IAmTimCorey][yu-i-am-tim-corey]
+[The Codeholic][yu-the-codeholic]
+[Mukesh otwani][yu-mukesh-otwani]
 /@-559           언제나 휴일- 프로그래머
-/@AnalyticsUniversity            Analytics University
+[Analytics University][yu-analytics-university]
 /@onlinementor1013           Online Mentor
 /@profbillbyrne          profbillbyrne
 /@freecodecamp           freeCodeCamp.org
-/@TechPrimers            Tech Primers
-/@TechWithTim            Tech With Tim
+[Tech Primers][yu-tech-primers]
+[Tech With Tim][yu-tech-w-tim]
 /@shanselman             Scott Hanselman
 /@noobtoprofessional             Chris Hawkes
 [OldTechBloke][yu-old-tech-bloke]
@@ -2924,28 +1060,28 @@ SW2UbAAMR0c
 /@EsriEvents             Esri Events
 /@EsriEvents             Esri Events
 /@EsriEvents             Esri Events
-/@VicodeMedia            Vicode Media
-/@VicodeMedia            Vicode Media
-/@WebDevSimplified           Web Dev Simplified
+[Vicode Media][yu-vicode-media]
+[Vicode Media][yu-vicode-media]
+[Web Dev Simplified][yu-web-dev-simplified]
 /@kossiecoder            코지 코더 Kossie Coder
 /@makc           MAKC
 /@XojoInc            Xojo
-/@GaryExplains           Gary Explains
+[Gary Explains][yu-gary-explains]
 <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name" is-empty="" ellipsis-truncate="" ellipsis-truncate-styling=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
 /@DouglasSchmidt             Douglas Schmidt
-/@WesDoyle           Wes Doyle
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[Wes Doyle][yu-wes-doyle]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@MidwareCloud           Midware Cloud
 [Britec09][yu-britec-09]
-/@BuildAppsWithPaulo             Build Apps With Paulo
-/@Mukeshotwani           Mukesh otwani
+[Build Apps With Paulo][yu-build-apps-w-paulo]
+[Mukesh otwani][yu-mukesh-otwani]
 [Brandan Jones][yu-discospiff]
 [Intellipaat][yu-intellipaat]
-/@CodeRadiance           Code Radiance
+[Code Radiance][yu-code-radiance]
 /@SpringSourceDev            SpringDeveloper
 /@onlinementor1013           Online Mentor
 /@drehimself             Andre Madarang
-/@gongysd            공여사들
+[공여사들][yu-gongysd]
 /@SpaceinvaderOne            Spaceinvader One
 [Brandan Jones][yu-discospiff]
 /@KevinPowell            Kevin Powell
@@ -2953,53 +1089,54 @@ SW2UbAAMR0c
 [Intellipaat][yu-intellipaat]
 /@dnfvideo           .NET Interview Preparation videos
 [Easy Tutorials][yu-easy-tutorials]
-/@Mukeshotwani           Mukesh otwani
-/@veamcamp           빔캠프 CSS
+[Mukesh otwani][yu-mukesh-otwani]
+[빔캠프 CSS][yu-veamcamp]
 /@DouglasSchmidt             Douglas Schmidt
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@XojoInc            Xojo
 [developedbyed][yu-developedbyed]
-/@IAmTimCorey            IAmTimCorey
-/@GenuineCoder           Genuine Coder
-/@GenuineCoder           Genuine Coder
-/@GenuineCoder           Genuine Coder
-/@GenuineCoder           Genuine Coder
+[IAmTimCorey][yu-i-am-tim-corey]
+[Genuine Coder][yu-genuine-coder]
+[Genuine Coder][yu-genuine-coder]
+[Genuine Coder][yu-genuine-coder]
+[Genuine Coder][yu-genuine-coder]
 /@JamesOliver            James Oliver
-/@pcsecuritychannel          The PC Security Channel
-/@bienadam           Adam Bien
-/@ProgramWithErik            Program With Erik
+[The PC Security Channel][yu-the-pc-security-channel]
+[Adam Bien][yu-bienadam]
+[Program With Erik][yu-program-w-erik]
 [CodAffection][yu-cod-accection]
 /@MyCS1          My CS
-/@Mukeshotwani           Mukesh otwani
-/@MichaelMJD             Michael MJD
+[Mukesh otwani][yu-mukesh-otwani]
+[Michael MJD][yu-michael-mjd]
 /@LiveOverflow           LiveOverflow
 [Rebeloper - Rebel Developer][yu-rebeloper]
 /@TheEasyoung            Minsuk Heo 허민석
-/@LoiLiangYang           Loi Liang Yang
-/@naveenautomationlabs           Naveen AutomationLabs
-/@RamNJava           Ram N Java
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@CodingArtist           Coding Artist
-/@seanallen          Sean Allen
+[Loi Liang Yang][yu-loi-liang-yang]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Ram N Java][yu-ram-n-java]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[Coding Artist][yu-coding-artist]
+/@seanallen mlgym7474]: https://www.youtube.com/@mlgym7474
+         Sean Allen
 /@rabisankarpodder7839           Rabi Sankar Podder
-/@SergeyKargopolov           Sergey Kargopolov
-/@mlgym7474          ML Gym
-/@TaoMStudio             Tao M Studio
-/@veamcamp           빔캠프 CSS
+[Sergey Kargopolov][yu-sergey-kargopolov]
+[ML Gym][yu-mlgym7474]: https://www.youtube.com/@mlgym7474
+[Tao M Studio][yu-tao-m-studio]
+[빔캠프 CSS][yu-veamcamp]
 /@DouglasSchmidt             Douglas Schmidt
-/@todaycode          오늘코드todaycode
-/@codedamn           codedamn
+[오늘코드todaycode][yu-todaycode]
+[codedamn][yu-codedamn]
 /@BudgetNerd             Budget Nerd
 [JavaScript Mastery][yu-javascript-mastery]
 [JavaScript Mastery][yu-javascript-mastery]
 /@XojoInc            Xojo
 /@linuxhint          linuxhint
-/@bawad          Ben Awad
-/@bawad          Ben Awad
-/@bawad          Ben Awad
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
-/@hnasr          Hussein Nasser
-/@codebreakthrough           Caleb Curry
+[Ben Awad][yu-bawad]
+[Ben Awad][yu-bawad]
+[Ben Awad][yu-bawad]
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
+[Hussein Nasser][yu-hnasr]
+[b Curry][yu-codebreakthrough]
 /@arm            Arm®
 [Brandan Jones][yu-discospiff]
 /@-559           언제나 휴일- 프로그래머
@@ -3010,22 +1147,22 @@ SW2UbAAMR0c
 /@RobertBaruch           Robert Baruch
 /@DouglasSchmidt             Douglas Schmidt
 /@SpringSourceDev            SpringDeveloper
-/@NetworkChuck           NetworkChuck
+[NetworkChuck][yu-network-chuck]
 /@WesBos             Wes Bos
 /@TraversyMedia          Traversy Media
 /@easytoswift7018            EasytoSwift
 /@amigoscode             Amigoscode
 /@STRVSanFrancisco           STRV
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
-/@naveenautomationlabs           Naveen AutomationLabs
-/@DesignCourse           DesignCourse
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[DesignCourse][yu-design-course]
 /@drehimself             Andre Madarang
 /@vaadinofficial             vaadinofficial
 /@-559           언제나 휴일- 프로그래머
 /@jblow888           Jonathan Blow
 /@WhizdomTrainings01             Ashish Thakur
 /@WhizdomTrainings01             Ashish Thakur
-/@codedamn           codedamn
+[codedamn][yu-codedamn]
 /@CodingTech             Coding Tech
 /@BusinessAndTech            Craig Piercy
 /@contextfree            Context Free
@@ -3033,47 +1170,47 @@ SW2UbAAMR0c
 /@MicrosoftDeveloper             Microsoft Developer
 [Easy Tutorials][yu-easy-tutorials]
 /@drehimself             Andre Madarang
-/@bawad          Ben Awad
-/@AverageLinuxUser           Average Linux User
-/@Fireship           Fireship
-/@DesignCourse           DesignCourse
-/@rewatechnology2008             REWA Technology
+[Ben Awad][yu-bawad]
+[Average Linux User][yu-average-linux-user]
+[Fireship][yu-fireship]
+[DesignCourse][yu-design-course]
+[REWA Technology][yu-rewa-technology]
 [Easy Tutorials][yu-easy-tutorials]
-/@academind          Academind
+[Academind][yu-academind]
 /@arcgis5980             ArcGIS
-/@LevelUpTuts            LevelUpTuts
+[LevelUpTuts][yu-level-up-tuts]
 /@snazzy             Snazzy Labs
-/@Thetips4you            Thetips4you
+[Thetips4you][yu-thetips4you]
 /@arm            Arm®
 /@NDC            NDC Conferences
-/@DistroTube             DistroTube
+[DistroTube][yu-distro-tube]
 /@xamaringuy1951             Xamarin Guy
 /@techteachersandstudents            Technology for Teachers and Students
 /@KentCDodds-vids            Kent C. Dodds
-/@RaghavPal          Automation Step by Step
-/@StewartLynch           Stewart Lynch
+[Automation Step by Step][yu-raghav-pal]
+[Stewart Lynch][yu-stewart-lynch]
 /@EduardoRosasOsorno             Eduardo Rosas
 /@Snytkine           Dmitri Snytkine
 [마스터봇][yu-masterbot]
 /@codeWithAndrei             CodingWithAndrei
-/@Thetips4you            Thetips4you
+[Thetips4you][yu-thetips4you]
 /@WhizdomTrainings01             Ashish Thakur
 /@WhizdomTrainings01             Ashish Thakur
 /@PowerPointMaster           PowerPoint Master
 /@SeleTraining           Sele Training
-/@StewartLynch           Stewart Lynch
-/@SeoulWorkshop          Seoul Workshop
+[Stewart Lynch][yu-stewart-lynch]
+[Seoul Workshop][yu-seoul-workshop]
 /@codingwithmitch            CodingWithMitch
-/@JonGjengset            Jon Gjengset
+[Jon Gjengset][yu-jon-gjengset]
 /@MicrosoftDeveloper             Microsoft Developer
 /@EduardoRosasOsorno             Eduardo Rosas
-/@SeoulWorkshop          Seoul Workshop
-/@DanielPersson          Daniel Persson
+[Seoul Workshop][yu-seoul-workshop]
+[Daniel Persson][yu-daniel-persson]
 [Online Tutorials][yu-oneline-tutorials]
 /@aptkode            aptkode
 /@codingwithmitch            CodingWithMitch
-/@ProgramWithErik            Program With Erik
-/@TechGumbo          TechGumbo
+[Program With Erik][yu-program-w-erik]
+[TechGumbo][yu-tech-gumbo]
 /@bgsreview          방구석 리뷰룸
 /@freecodecamp           freeCodeCamp.org
 /@CodingTech             Coding Tech
@@ -3083,18 +1220,19 @@ SW2UbAAMR0c
 /@KentCDodds-vids            Kent C. Dodds
 /@amigoscode             Amigoscode
 /@KentCDodds-vids            Kent C. Dodds
-/@VicodeMedia            Vicode Media
-/@TheModernCoder             The Modern Coder
+[Vicode Media][yu-vicode-media]
+[The Modern Coder][yu-the-modern-coder]
 /@MicrosoftDeveloper             Microsoft Developer
 /@DawidDoesTechStuff             Dawid Does Tech Stuff
-/@chandoo_           Chandoo
-/@hnasr          Hussein Nasser
-/@infoq          InfoQ
-/@LukeSmithxyz           Luke Smith
+[Chandoo][yu-chandoo_]
+[Hussein Nasser][yu-hnasr]
+
+[InfoQ][yu-info-q]
+[Luke Smith][yu-luke-smith]
 /@AnimationCoding            Animation Coding
-/@dongbinna          동빈나
-/@gongysd            공여사들
-/@-559           언제나 휴일- 프로그래머
+[동빈나][yu-dongbinna]
+[공여사들][yu-gongysd]
+[언제나 휴일- 프로그래머][yu-java-home-cloud]: https://www.youtube.com/@-559
 /@ritvikmath             ritvikmath
 /@KentCDodds-vids            Kent C. Dodds
 /@CodingPhase            CodingPhase
@@ -3103,122 +1241,122 @@ SW2UbAAMR0c
 /@BattleNonSense             Battle(non)sense
 /@collinsinfosec             Grant Collins
 /@iVish          iVish
-/@SeoulWorkshop          Seoul Workshop
+[Seoul Workshop][yu-seoul-workshop]
 /@onlinementor1013           Online Mentor
 /@Tronicsfix             TronicsFix
-/@StewartLynch           Stewart Lynch
+[Stewart Lynch][yu-stewart-lynch]
 /@ProgrammingwithMasoud          React with Masoud
-/@naveenautomationlabs           Naveen AutomationLabs
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@iVish          iVish
-/@StewartLynch           Stewart Lynch
+[Stewart Lynch][yu-stewart-lynch]
 /@ShanesCows             Shane Young
 /@freecodecamp           freeCodeCamp.org
 /@TheLinuxEXP            The Linux Experiment
-/@naveenautomationlabs           Naveen AutomationLabs
-/@JonGjengset            Jon Gjengset
-/@hnasr          Hussein Nasser
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Jon Gjengset][yu-jon-gjengset]
+[Hussein Nasser][yu-hnasr]
 /@jinujawad          jinu jawad m
-/@codedamn           codedamn
-/@TechGumbo          TechGumbo
+[codedamn][yu-codedamn]
+[TechGumbo][yu-tech-gumbo]
 /@WesBos             Wes Bos
 /@CopperSpice            CopperSpice
 /@codecourse             Codecourse
-/@DesignCourse           DesignCourse
-/@Codevolution           Codevolution
-/@DanVega            Dan Vega
+[DesignCourse][yu-design-course]
+[Codevolution][yu-codevolution]
+[Dan Vega][yu-dan-vega]
 [CodAffection][yu-cod-accection]
-/@Mukeshotwani           Mukesh otwani
+[Mukesh otwani][yu-mukesh-otwani]
 /@vmwarecloudnativeapps816           VMware Cloud Native Apps
 /@macmost            macmostvideo
-/@DailyTuition           Daily Tuition
-/@Thetips4you            Thetips4you
+[Daily Tuition][yu-daily-tuition]
+[Thetips4you][yu-thetips4you]
 /@ThioJoe            ThioJoe
 /@kossiecoder            코지 코더 Kossie Coder
 /@ProgrammingwithMasoud          React with Masoud
 /@aptkode            aptkode
 /@aptkode            aptkode
 /@aptkode            aptkode
-/@codingthesmartway          CodingTheSmartWay.com
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
 /@Eigensteve             Steve Brunton
-/@awesomekling           Andreas Kling
-/@gongysd            공여사들
+[Andreas Kling][yu-awesomekling]
+[공여사들][yu-gongysd]
 /@hknudesign             hknudesign
 /@vmwarecloudnativeapps816           VMware Cloud Native Apps
 /@user-mb4fy2sb4m            창원개미TV
-/@naveenautomationlabs           Naveen AutomationLabs
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@TheCherno          The Cherno
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
-/@EssentialDeveloper             Essential Developer
-/@naveenautomationlabs           Naveen AutomationLabs
+[Essential Developer][yu-essential-developer]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 [Learn Linux TV][yu-learn-linux-tv]
 [Online Tutorials][yu-oneline-tutorials]
-/@naveenautomationlabs           Naveen AutomationLabs
-/@DesignCourse           DesignCourse
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[DesignCourse][yu-design-course]
 [Kris Occhipinti][yu-digital-metal]
-/@naveenautomationlabs           Naveen AutomationLabs
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@WesBos             Wes Bos
 /@MicrosoftPowerBI           Microsoft Power BI
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
 /@WhizdomTrainings01             Ashish Thakur
-/@bienadam           Adam Bien
+[Adam Bien][yu-bienadam]
 /@EngineersSG            Engineers.SG
-/@DanVega            Dan Vega
+[Dan Vega][yu-dan-vega]
 /@EposVox            EposVox
-/@hnasr          Hussein Nasser
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
+[Hussein Nasser][yu-hnasr]
 /@NDC            NDC Conferences
-/@TechPrimers            Tech Primers
-/@LoiLiangYang           Loi Liang Yang
+[Tech Primers][yu-tech-primers]
+[Loi Liang Yang][yu-loi-liang-yang]
 /@drehimself             Andre Madarang
 [Brandan Jones][yu-discospiff]
-/@naveenautomationlabs           Naveen AutomationLabs
-/@naveenautomationlabs           Naveen AutomationLabs
-/@naveenautomationlabs           Naveen AutomationLabs
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@ColtSteeleCode             Colt Steele
 [developedbyed][yu-developedbyed]
-/@hnasr          Hussein Nasser
-/@bawad          Ben Awad
+[Hussein Nasser][yu-hnasr]
+[Ben Awad][yu-bawad]
 /@jeffrey_codes          Jeffrey Codes Javascript
 [Learn Linux TV][yu-learn-linux-tv]
 [Online Tutorials][yu-oneline-tutorials]
 /@stacksmashing          stacksmashing
-/@CodingGarden           Coding Garden
+[Coding Garden][yu-coding-garden]
 /@stacksmashing          stacksmashing
 /@NDC            NDC Conferences
 /@Pusher_realtime            Pusher
-/@RedStapler_channel             Red Stapler
-/@Javatechie             Java Techie
+[Red Stapler][yu-red-stapler]
+[Java Techie][yu-java-techie]
 [ThinMatrix][yu-thin-matrix]
-/@LevelUpTuts            LevelUpTuts
+[LevelUpTuts][yu-level-up-tuts]
 /@BryanLunduke           Bryan Lunduke
 [Kris Occhipinti][yu-digital-metal]
 /@CodingTech             Coding Tech
 /@rabisankarpodder7839           Rabi Sankar Podder
-/@TheCodeholic           The Codeholic
-/@IAmTimCorey            IAmTimCorey
-/@TheCodeholic           The Codeholic
+[The Codeholic][yu-the-codeholic]
+[IAmTimCorey][yu-i-am-tim-corey]
+[The Codeholic][yu-the-codeholic]
 /@NDC            NDC Conferences
 /@WhizdomTrainings01             Ashish Thakur
-/@codebreakthrough           Caleb Curry
+[b Curry][yu-codebreakthrough]
 [Easy Tutorials][yu-easy-tutorials]
 /@freecodecamp           freeCodeCamp.org
 /@excelisfun             ExcelIsFun
 /@iVish          iVish
 [ForrestKnight][yu-fknight]
 /@iVish          iVish
-/@awesomekling           Andreas Kling
-/@nadocoding             나도코딩
-/@awesomekling           Andreas Kling
-/@neonchang          모바일랩
+[Andreas Kling][yu-awesomekling]
+[나도코딩][yu-nadocoding]
+[Andreas Kling][yu-awesomekling]
+[모바일랩][yu-neonchang]
 /@NDC            NDC Conferences
 /@TVACStudio             Akshay Jhajhra
 /@DARPAtv            DARPAtv
 /@NDC            NDC Conferences
 /@TheYoctoProject            Yocto Project
-/@KIMTOOFLEX             Kim Too
+[Kim Too][yu-KIMTOOFLEX]
 /@AwsRh          Aws Rh
 [Learn Linux TV][yu-learn-linux-tv]
 /@freecodecamp           freeCodeCamp.org
@@ -3227,34 +1365,34 @@ SW2UbAAMR0c
 /@extudy             두목넷 익스터디
 /@NDC            NDC Conferences
 /@hackaday           HACKADAY
-/@VicodeMedia            Vicode Media
+[Vicode Media][yu-vicode-media]
 /@tharo382           Tharo
-/@AxonIQ             AxonIQ
+[AxonIQ][yu-axon-iq]
 /@Tsoding            Tsoding
-/@StewartLynch           Stewart Lynch
-/@swiftui2           App Designer2
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[Stewart Lynch][yu-stewart-lynch]
+[App Designer2][yu-swiftui2]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@PieterAbbeel           Pieter Abbeel
-/@DanielPersson          Daniel Persson
-/@EngineerMan            Engineer Man
+[Daniel Persson][yu-daniel-persson]
+[Engineer Man][yu-engineer-man]
 /@freecodecamp           freeCodeCamp.org
 /@tomweiland             Tom Weiland
-/@CodingGarden           Coding Garden
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
+[Coding Garden][yu-coding-garden]
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
 /@CodingTech             Coding Tech
 /@ChromeDevs             Google Chrome Developers
-/@AxonIQ             AxonIQ
+[AxonIQ][yu-axon-iq]
 [Rebeloper - Rebel Developer][yu-rebeloper]
 /@Pusher_realtime            Pusher
 /@NDC            NDC Conferences
 /@NDC            NDC Conferences
-/@SeleniumExpress            Selenium Express
+[Selenium Express][yu-selenium-express]
 /@derekbanas             Derek Banas
 /@shanselman             Scott Hanselman
 /@lukemiani          Luke Miani
 /@AnimationCoding            Animation Coding
-/@codeSTACKr             codeSTACKr
-/@hnasr          Hussein Nasser
+[codeSTACKr][yu-code-stackr]
+[Hussein Nasser][yu-hnasr]
 /@ChrisTitusTech             Chris Titus Tech
 /@Pusher_realtime            Pusher
 /@iMAT           iMAT
@@ -3268,24 +1406,24 @@ SW2UbAAMR0c
 /@KUKITV             쿠키건강TV / KUKI HEALTH TV
 /@NDC            NDC Conferences
 /@NDC            NDC Conferences
-/@CodeRadiance           Code Radiance
+[Code Radiance][yu-code-radiance]
 <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name" is-empty="" ellipsis-truncate="" ellipsis-truncate-styling=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-/@TheCodingPapa          The Coding Papa 더코딩파파
-/@LevelUpTuts            LevelUpTuts
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[The Coding Papa 더코딩파파][yu-the-coding-papa]
+[LevelUpTuts][yu-level-up-tuts]
+[ProgrammingKnowledge][yu-programming-knowledge]
 [Easy Tutorials][yu-easy-tutorials]
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
 /@dbagenesis             DBA Genesis
 [Britec09][yu-britec-09]
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 [Brandan Jones][yu-discospiff]
 /@user-mb4fy2sb4m            창원개미TV
 /@democracyatwrk             Democracy At Work
 /@TheOrganicChemistryTutor           The Organic Chemistry Tutor
 [Brandan Jones][yu-discospiff]
-/@codingthesmartway          CodingTheSmartWay.com
-/@LoiLiangYang           Loi Liang Yang
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
+[Loi Liang Yang][yu-loi-liang-yang]
 /@freecodecamp           freeCodeCamp.org
 /@amigoscode             Amigoscode
 /@alexlorenlee           Alex Lee
@@ -3293,117 +1431,117 @@ SW2UbAAMR0c
 /@WhizdomTrainings01             Ashish Thakur
 /@WhizdomTrainings01             Ashish Thakur
 /@WhizdomTrainings01             Ashish Thakur
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@WhizdomTrainings01             Ashish Thakur
 /@WhizdomTrainings01             Ashish Thakur
-/@LeilaGharani           Leila Gharani
+[Leila Gharani][yu-leila-gharani]
 /@WhizdomTrainings01             Ashish Thakur
 /@WhizdomTrainings01             Ashish Thakur
-/@iApplePro          iApplePro
+[iApplePro][yu-i-apple-pro]
 [Intellipaat][yu-intellipaat]
 [Britec09][yu-britec-09]
 /@electronicsrepairschool            Electronics Repair School
-/@WebDevSimplified           Web Dev Simplified
-/@TylerPotts             Tyler Potts
+[Web Dev Simplified][yu-web-dev-simplified]
+[Tyler Potts][yu-tyler-potts]
 /@stmicroelectronics             STMicroelectronics
-/@codeSTACKr             codeSTACKr
+[codeSTACKr][yu-code-stackr]
 <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name" is-empty="" ellipsis-truncate="" ellipsis-truncate-styling=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
 /@CodeFrog           CodeFrog
 /@iOSConfSG          iOS Conf SG
 /@iOSConfSG          iOS Conf SG
 /@WesBos             Wes Bos
-/@CalerEdwards           Caler Edwards
+[Caler Edwards][yu-caler-edwards]
 /@iVish          iVish
-/@LAWRENCESYSTEMS            Lawrence Systems
-/@TylerPotts             Tyler Potts
-/@TylerPotts             Tyler Potts
-/@ChiliTomatoNoodle          ChiliTomatoNoodle
+[Lawrence Systems][yu-lawrence-systems]
+[Tyler Potts][yu-tyler-potts]
+[Tyler Potts][yu-tyler-potts]
+[ChiliTomatoNoodle][yu-chili-tomato-noodle]
 /@Dailytekk          DailyTekk
-/@TylerPotts             Tyler Potts
-/@seoulian           서울리안 SEOULiAN
-/@TheCodingPapa          The Coding Papa 더코딩파파
-/@DanielPersson          Daniel Persson
-/@CodingGarden           Coding Garden
-/@Java.Brains            Java Brains
-/@TheCodingPapa          The Coding Papa 더코딩파파
-/@TheCodingPapa          The Coding Papa 더코딩파파
-/@codinginflow           Coding in Flow
+[Tyler Potts][yu-tyler-potts]
+[서울리안 SEOULiAN][yu-seoulian]
+[The Coding Papa 더코딩파파][yu-the-coding-papa]
+[Daniel Persson][yu-daniel-persson]
+[Coding Garden][yu-coding-garden]
+[Java Brains][yu-java-brains]
+[The Coding Papa 더코딩파파][yu-the-coding-papa]
+[The Coding Papa 더코딩파파][yu-the-coding-papa]
+[Coding in Flow][yu-codinginflow]
 [Britec09][yu-britec-09]
 /@ABSoftTrainingsLtd             ABSoft Trainings
-/@TylerPotts             Tyler Potts
+[Tyler Potts][yu-tyler-potts]
 /@SyncfusionInc          Syncfusion, Inc
-/@TylerPotts             Tyler Potts
+[Tyler Potts][yu-tyler-potts]
 /@drehimself             Andre Madarang
-/@codingthesmartway          CodingTheSmartWay.com
-/@codingthesmartway          CodingTheSmartWay.com
-/@codingthesmartway          CodingTheSmartWay.com
-/@codingthesmartway          CodingTheSmartWay.com
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
 /@reactuikit             React-Native by Wilhelm (React-UI-Kit)
-/@academind          Academind
+[Academind][yu-academind]
 /@KentCDodds-vids            Kent C. Dodds
 /@hswolff            Harry Wolff
 /@DouglasSchmidt             Douglas Schmidt
 /@developerschool            developer.school
 /@Webcrunch          Web-Crunch
 /@Socratica          Socratica
-/@Mukeshotwani           Mukesh otwani
+[Mukesh otwani][yu-mukesh-otwani]
 /@WatchandLearnTutorials             Watch and Learn
 /@OnlinewebustaadCom             Online web ustaad
 /@Sweetdev           Sweetdev
 /@edwardwardell-yerburgh378          Edward Wardell-Yerburgh
-/@CodeRadiance           Code Radiance
+[Code Radiance][yu-code-radiance]
 /@codingwithmitch            CodingWithMitch
 /@GRIBSOFT           GRIBSOFT
-/@mediacccde             media.ccc.de
-/@mediacccde             media.ccc.de
+[media.ccc.de][yu-mediacccde]
+[media.ccc.de][yu-mediacccde]
 /@WhizdomTrainings01             Ashish Thakur
 /@learnwithjason             Learn With Jason
-/@edurekaIN          edureka!
-/@naveenautomationlabs           Naveen AutomationLabs
+[edureka!][yu-edureka]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@helpingtesters533          HelpingTesters
-/@LearnProgrammingTogether           Learn Programming Together
-/@LearnProgrammingTogether           Learn Programming Together
-/@naveenautomationlabs           Naveen AutomationLabs
-/@TylerPotts             Tyler Potts
-/@naveenautomationlabs           Naveen AutomationLabs
-/@naveenautomationlabs           Naveen AutomationLabs
-/@naveenautomationlabs           Naveen AutomationLabs
+[Learn Programming Together][yu-learn-programming-together]
+[Learn Programming Together][yu-learn-programming-together]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Tyler Potts][yu-tyler-potts]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
+[Naveen AutomationLabs][yu-naveenautomationlabs]
 /@freecodecamp           freeCodeCamp.org
-/@CodeRadiance           Code Radiance
+[Code Radiance][yu-code-radiance]
 /@TheYoctoProject            Yocto Project
-/@codeSTACKr             codeSTACKr
+[codeSTACKr][yu-code-stackr]
 /@ScreenCastsDev             ScreenCasts
 /@VueMastery             Vue Mastery
-/@TylerPotts             Tyler Potts
-/@academind          Academind
+[Tyler Potts][yu-tyler-potts]
+[Academind][yu-academind]
 /@CodingTech             Coding Tech
-/@bawad          Ben Awad
+[Ben Awad][yu-bawad]
 /@ShanesCows             Shane Young
-/@DistroTube             DistroTube
+[DistroTube][yu-distro-tube]
 /@HughJeffreys           Hugh Jeffreys
 [Execute Automation][yu-execute-automation]
 /@dotconferences             dotconferences
-/@KaizenCodes            Kaizen Codes
-/@ProgramWithErik            Program With Erik
+[Kaizen Codes][yu-kaizen-codes]
+[Program With Erik][yu-program-w-erik]
 /@Webnoob            Webnoob
-/@DanielPersson          Daniel Persson
-/@KaizenCodes            Kaizen Codes
-/@CodingGarden           Coding Garden
-/@TylerPotts             Tyler Potts
-/@TylerPotts             Tyler Potts
+[Daniel Persson][yu-daniel-persson]
+[Kaizen Codes][yu-kaizen-codes]
+[Coding Garden][yu-coding-garden]
+[Tyler Potts][yu-tyler-potts]
+[Tyler Potts][yu-tyler-potts]
 /@ThoughtbotVideo            thoughtbot
 /@drehimself             Andre Madarang
 /@AdamWathan             Adam Wathan
 /@Bitfumes           Bitfumes
-/@iApplePro          iApplePro
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@theurbanpenguin            theurbanpenguin
-/@RamNJava           Ram N Java
+[iApplePro][yu-i-apple-pro]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[theurbanpenguin][yu-theurbanpenguin]
+[Ram N Java][yu-ram-n-java]
 /@hacktivityconf             Hacktivity - IT Security Festival
-/@DesignCourse           DesignCourse
-/@eddydn71           EDMT Dev
-/@LearnitTraining            Learnit Training
-/@edurekaIN          edureka!
+[DesignCourse][yu-design-course]
+[EDMT Dev][yu-eddydn71]
+[Learnit Training][yu-learnit-training]
+[edureka!][yu-edureka]
 /@KevinPowell            Kevin Powell
 /@QAShahin           QAShahin
 /@QAShahin           QAShahin
@@ -3413,17 +1551,17 @@ SW2UbAAMR0c
 /@EltonStoneman          Elton Stoneman
 /@EltonStoneman          Elton Stoneman
 /@KevinPowell            Kevin Powell
-/@RaghavPal          Automation Step by Step
-/@WebDevSimplified           Web Dev Simplified
-/@IAmTimCorey            IAmTimCorey
+[Automation Step by Step][yu-raghav-pal]
+[Web Dev Simplified][yu-web-dev-simplified]
+[IAmTimCorey][yu-i-am-tim-corey]
 /@drehimself             Andre Madarang
 /@andrewjosephmead1          Andrew Mead
-/@edurekaIN          edureka!
+[edureka!][yu-edureka]
 /@SyncfusionInc          Syncfusion, Inc
 /@VueConfToronto             VueConf Toronto
-/@DanVega            Dan Vega
+[Dan Vega][yu-dan-vega]
 /@AdamWathan             Adam Wathan
-/@LeilaGharani           Leila Gharani
+[Leila Gharani][yu-leila-gharani]
 /@WhizdomTrainings01             Ashish Thakur
 /@learnbybhanu           learnby bhanu
 /@learnbybhanu           learnby bhanu
@@ -3431,19 +1569,19 @@ SW2UbAAMR0c
 /@mycodeschool           mycodeschool
 [developedbyed][yu-developedbyed]
 /@MyOnlineTrainingHub            MyOnlineTrainingHub
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@TVACStudio             Akshay Jhajhra
-/@Mukeshotwani           Mukesh otwani
+[Mukesh otwani][yu-mukesh-otwani]
 /@flutterdev             Flutter
-/@Mukeshotwani           Mukesh otwani
-/@Mukeshotwani           Mukesh otwani
+[Mukesh otwani][yu-mukesh-otwani]
+[Mukesh otwani][yu-mukesh-otwani]
 /@PKAnExcelExpert            PK: An Excel Expert
 /@dotconferences             dotconferences
-/@Mukeshotwani           Mukesh otwani
+[Mukesh otwani][yu-mukesh-otwani]
 /@CodingTech             Coding Tech
-/@Mukeshotwani           Mukesh otwani
+[Mukesh otwani][yu-mukesh-otwani]
 /@PaulSolt           Paul Solt
-/@swiftui2           App Designer2
+[App Designer2][yu-swiftui2]
 [ThinMatrix][yu-thin-matrix]
 /@3protv             삼프로TV_경제의신과함께
 <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name" is-empty="" ellipsis-truncate="" ellipsis-truncate-styling=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
@@ -3454,77 +1592,76 @@ SW2UbAAMR0c
 /@CleverProgrammer           Clever Programmer
 /@KevinPowell            Kevin Powell
 [Online Tutorials][yu-oneline-tutorials]
-/@todaycode          오늘코드todaycode
+[오늘코드todaycode][yu-todaycode]
 /@SpeedTutor             SpeedTutor
-/@EugeneIOSDev           Eugene Berezin
-/@RahulRathore41             Rahul Rathore
-/@LoiLiangYang           Loi Liang Yang
+[Eugene Berezin][yu-eugene-berezin]
+[Rahul Rathore][yu-rahul-rathore41]
+[Loi Liang Yang][yu-loi-liang-yang]
 /@LetsBuildThatApp           Lets Build That App
 [Online Tutorials][yu-oneline-tutorials]
 /@AdamWathan             Adam Wathan
 /@ThioJoe            ThioJoe
 /@freecodecamp           freeCodeCamp.org
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@freecodecamp           freeCodeCamp.org
-/@sdetpavan          SDET- QA Automation Techie
-/@sdetpavan          SDET- QA Automation Techie
-/@DroidconItaly          Android Heroes
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[SDET- QA Automation Techie][yu-sdetpavan]
+[SDET- QA Automation Techie][yu-sdetpavan]
+[Android Heroes][yu-android-heroes]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@LetsBuildThatApp           Lets Build That App
 /@abdulazizahwan             Abdul Aziz Ahwan
-/@HackerSploit           HackerSploit
-/@todaycode          오늘코드todaycode
+[HackerSploit][yu-HackerSploit]
+[오늘코드todaycode][yu-todaycode]
 /@DEFCONConference           DEFCONConference
 /@CodingTech             Coding Tech
-/@bawad          Ben Awad
+[Ben Awad][yu-bawad]
 /@udemy          Udemy
-/@codebreakthrough           Caleb Curry
+[b Curry][yu-codebreakthrough]
 /@TraversyMedia          Traversy Media
 /@codeWithAndrei             CodingWithAndrei
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
 /@davidford6890          David Ford
-/@WebDevSimplified           Web Dev Simplified
+[Web Dev Simplified][yu-web-dev-simplified]
 /@qiskit             Qiskit
-/@interviewingio             interviewing.io
+[interviewing.io][yu-interviewingio]
 /@CodingTech             Coding Tech
 /@qiskit             Qiskit
 /@RelearnMath            RTeach
 /@thiagoleite9489            Thiago Leite
 /@DanielMalone           DJ Malone
 /@DanielMalone           DJ Malone
-/@edurekaIN          edureka!
-/@RamNJava           Ram N Java
+[edureka!][yu-edureka]
+[Ram N Java][yu-ram-n-java]
 /@ChrisTitusTech             Chris Titus Tech
 /@JetBrainsTV            JetBrainsTV
-/@iApplePro          iApplePro
+[iApplePro][yu-i-apple-pro]
 /@JetBrainsTV            JetBrainsTV
-/@ResoCoder          Reso Coder
+[Reso Coder][yu-reso-coder]
 [Intellipaat][yu-intellipaat]
-/@swiftui2           App Designer2
+[App Designer2][yu-swiftui2]
 [Intellipaat][yu-intellipaat]
 /@sahajsarup             Geek Till It Hertz
-/@codedamn           codedamn
+[codedamn][yu-codedamn]
 /@ThioJoe            ThioJoe
-/@LoiLiangYang           Loi Liang Yang
+[Loi Liang Yang][yu-loi-liang-yang]
 /@MrEdvinsyse            Edvin Syse
-/@LetCreateAnApp             Let Create An App
-/@LearnShareAnythingAnyone           Learn Share Anything Anyone
+[Let Create An App][yu-let-create-an-app]/@LearnShareAnythingAnyone           Learn Share Anything Anyone
 /@codingwithmitch            CodingWithMitch
 /@Computergaga           Computergaga
 /@JetBrainsTV            JetBrainsTV
 /@codingwithmitch            CodingWithMitch
-/@QAAutomated            QA-Automated
-/@edurekaIN          edureka!
-/@ProgramWithErik            Program With Erik
+[QA-Automated][yu-qa-automated]
+[edureka!][yu-edureka]
+[Program With Erik][yu-program-w-erik]
 [Intellipaat][yu-intellipaat]
 /@hddrecoveryservices            HDD Recovery Services
-/@gotbletu           gotbletu
+[gotbletu][yu-gotbletu]
 /@puteri1004             DRONEWORLD드론월드
-/@codebreakthrough           Caleb Curry
-/@HelloCodepur           Codepur
-/@NullByteWHT            Null Byte
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@EugeneIOSDev           Eugene Berezin
+[b Curry][yu-codebreakthrough]
+[Codepur][yu-codepur]
+[Null Byte][yu-null-byte]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[Eugene Berezin][yu-eugene-berezin]
 /@Errichto           Errichto
 /@JetBrainsTV            JetBrainsTV
 /@codingwithmitch            CodingWithMitch
@@ -3534,7 +1671,7 @@ SW2UbAAMR0c
 /@vishalkamboj8955           Vishal Kamboj
 /@vishalkamboj8955           Vishal Kamboj
 /@vishalkamboj8955           Vishal Kamboj
-/@eddydn71           EDMT Dev
+[EDMT Dev][yu-eddydn71]
 /@codingwithmitch            CodingWithMitch
 /@jinujawad          jinu jawad m
 /@JetBrainsTV            JetBrainsTV
@@ -3547,59 +1684,59 @@ SW2UbAAMR0c
 /@codingwithmitch            CodingWithMitch
 /@kubucation             kubucation
 /@codingwithmitch            CodingWithMitch
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
 /@codingwithmitch            CodingWithMitch
 /@user-rh1qt9zn7h            윤인성
-/@academind          Academind
+[Academind][yu-academind]
 /@codingwithmitch            CodingWithMitch
-/@Javatechie             Java Techie
+[Java Techie][yu-java-techie]
 /@JetBrainsTV            JetBrainsTV
 /@CodingTutorials360             Dylan Israel
 [Britec09][yu-britec-09]
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@freecodecamp           freeCodeCamp.org
 /@sarimLife          Sarim Khan
 /@sarimLife          Sarim Khan
 [Britec09][yu-britec-09]
-/@ZeroChoTV          ZeroCho TV
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[ZeroCho TV][yu-zero-cho-tv]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@NDC            NDC Conferences
 /@codingwithmitch            CodingWithMitch
-/@ProgramWithErik            Program With Erik
-/@KodecoDev          Kodeco
-/@DesignCourse           DesignCourse
+[Program With Erik][yu-program-w-erik]
+[Kodeco][yu-kodeco]
+[DesignCourse][yu-design-course]
 /@jeffrey_codes          Jeffrey Codes Javascript
-/@twostraws          Paul Hudson
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[Paul Hudson][yu-twostraws]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@codingwithmitch            CodingWithMitch
 /@codingwithmitch            CodingWithMitch
 /@codingwithmitch            CodingWithMitch
-/@ProgramWithErik            Program With Erik
-/@theurbanpenguin            theurbanpenguin
+[Program With Erik][yu-program-w-erik]
+[theurbanpenguin][yu-theurbanpenguin]
 /@intellijidea           IntelliJ IDEA by JetBrains
 /@EngineersSG            Engineers.SG
 /@ExternCode             Extern Code
-/@ResoCoder          Reso Coder
-/@MitchellHudson             Mitchell Hudson
-/@MitchellHudson             Mitchell Hudson
-/@MitchellHudson             Mitchell Hudson
-/@MitchellHudson             Mitchell Hudson
-/@MitchellHudson             Mitchell Hudson
-/@MitchellHudson             Mitchell Hudson
+[Reso Coder][yu-reso-coder]
+[Mitchell Hudson][yu-mitchell-hudson]
+[Mitchell Hudson][yu-mitchell-hudson]
+[Mitchell Hudson][yu-mitchell-hudson]
+[Mitchell Hudson][yu-mitchell-hudson]
+[Mitchell Hudson][yu-mitchell-hudson]
+[Mitchell Hudson][yu-mitchell-hudson]
 /@thenishkhandk          ThenisH
 /@CodingTech             Coding Tech
 /@LogosByNick            Logos By Nick
 /@SuperPertinax          SuperPertinax
 /@freecodecamp           freeCodeCamp.org
 /@CodingTech             Coding Tech
-/@Fireship           Fireship
-/@TCMSecurityAcademy             The Cyber Mentor
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[Fireship][yu-fireship]
+[The Cyber Mentor][yu-the-cyber-mentor]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@DavidWhitneycouk           David Whitney
 /@Eduonix            Eduonix Learning Solutions
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@pnk            Paris Nakita Kejser
-/@DesignCourse           DesignCourse
+[DesignCourse][yu-design-course]
 /@virtualJUG             v JUG
 /@virtualJUG             v JUG
 [Kris Occhipinti][yu-digital-metal]
@@ -3609,8 +1746,8 @@ SW2UbAAMR0c
 /@CodingTech             Coding Tech
 /@jeffrey_codes          Jeffrey Codes Javascript
 /@jeffrey_codes          Jeffrey Codes Javascript
-/@Javatechie             Java Techie
-/@RaghavPal          Automation Step by Step
+[Java Techie][yu-java-techie]
+[Automation Step by Step][yu-raghav-pal]
 /@KeepToo            KeepToo
 /@jeffrey_codes          Jeffrey Codes Javascript
 /@iVish          iVish
@@ -3620,14 +1757,14 @@ SW2UbAAMR0c
 /@KlasKarlsson           Klas Karlsson
 /@landscapestory             푼시의 조경이야기
 /@CodingTech             Coding Tech
-/@MitchellHudson             Mitchell Hudson
+[Mitchell Hudson][yu-mitchell-hudson]
 [Intellipaat][yu-intellipaat]
-/@JavaHomeCloud          Java Home Cloud
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
+[Java Home Cloud][yu-java-home-cloud]
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
 /@stmicroelectronics             STMicroelectronics
 [Rebeloper - Rebel Developer][yu-rebeloper]
-/@LeilaGharani           Leila Gharani
+[Leila Gharani][yu-leila-gharani]
 [Hitesh Choudhary][yu-hitesh-choudhary]
 [Novaspirit Tech][yu-novaspirit-tech]
 [Novaspirit Tech][yu-novaspirit-tech]
@@ -3635,22 +1772,22 @@ SW2UbAAMR0c
 /@CodingTech             Coding Tech
 [Oracle Learning][yu-oracle-learning]
 /@JetBrainsTV            JetBrainsTV
-/@HackerSploit           HackerSploit
-/@HackerSploit           HackerSploit
+[HackerSploit][yu-HackerSploit]
+[HackerSploit][yu-HackerSploit]
 /@SebastianHenry             The Swift Guy
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@TraversyMedia          Traversy Media
 /@SwitchedtoLinux            Switched to Linux
-/@leighhalliday          Leigh Halliday
+[Leigh Halliday][yu-leigh-halliday]
 /@AndroidDevelopers          Android Developers
-/@szLynAs            LynAs Sazzad
+[LynAs Sazzad][yu-sz-lyn-as]
 [Simplified Coding][yu-simplified-coding]
 /@ChrisTitusTech             Chris Titus Tech
 /@ApolloGraphQL          Apollo GraphQL
 /@Gatsbyjs           Gatsby
 /@jeffrey_codes          Jeffrey Codes Javascript
-/@HackerSploit           HackerSploit
-/@DesignCourse           DesignCourse
+[HackerSploit][yu-HackerSploit]
+[DesignCourse][yu-design-course]
 /@NDC            NDC Conferences
 /@NDC            NDC Conferences
 /@ExternCode             Extern Code
@@ -3658,73 +1795,73 @@ SW2UbAAMR0c
 /@JetBrainsTV            JetBrainsTV
 /@ExternCode             Extern Code
 [Intellipaat][yu-intellipaat]
-/@WebDevSimplified           Web Dev Simplified
-/@eddydn71           EDMT Dev
+[Web Dev Simplified][yu-web-dev-simplified]
+[EDMT Dev][yu-eddydn71]
 /@CodeWithChris          CodeWithChris
-/@ResoCoder          Reso Coder
+[Reso Coder][yu-reso-coder]
 /@SpaceinvaderOne            Spaceinvader One
 /@andrewjosephmead1          Andrew Mead
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@intellijidea           IntelliJ IDEA by JetBrains
-/@IAmTimCorey            IAmTimCorey
-/@DailyTuition           Daily Tuition
+[IAmTimCorey][yu-i-am-tim-corey]
+[Daily Tuition][yu-daily-tuition]
 /@unity          Unity
 [Simplified Coding][yu-simplified-coding]
 /@jblow888           Jonathan Blow
 /@sahajsarup             Geek Till It Hertz
 /@NDC            NDC Conferences
 /@NDC            NDC Conferences
-/@hnasr          Hussein Nasser
+[Hussein Nasser][yu-hnasr]
 /@NDC            NDC Conferences
 [Novaspirit Tech][yu-novaspirit-tech]
 /@TraversyMedia          Traversy Media
 /@LetsBuildThatApp           Lets Build That App
-/@bawad          Ben Awad
-/@Javatechie             Java Techie
-/@szLynAs            LynAs Sazzad
+[Ben Awad][yu-bawad]
+[Java Techie][yu-java-techie]
+[LynAs Sazzad][yu-sz-lyn-as]
 /@freecodecamp           freeCodeCamp.org
-/@DailyTuition           Daily Tuition
-/@swifttutorials4691             Swift Tutorials
+[Daily Tuition][yu-daily-tuition]
+[Swift Tutorials][yu-swifttutorials4691]
 /@jinujawad          jinu jawad m
 /@derekbanas             Derek Banas
 /@HackerXeros            Xeros
-/@Javatechie             Java Techie
+[Java Techie][yu-java-techie]
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
 /@DarkCodeOnline             DarkCode
 /@derekbanas             Derek Banas
 /@SpringSourceDev            SpringDeveloper
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
 /@SpringSourceDev            SpringDeveloper
 /@ChrisTitusTech             Chris Titus Tech
 /@CodingTech             Coding Tech
 /@ScottSmithDev          Scott Smith
 /@ScottSmithDev          Scott Smith
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
-/@nomadcoders            노마드 코더 Nomad Coders
+[노마드 코더 Nomad Coders][yu-nomadcoders]
 [developedbyed][yu-developedbyed]
 /@SpringSourceDev            SpringDeveloper
 /@LetsBuildThatApp           Lets Build That App
-/@Telusko            Telusko
+[Telusko][yu-telusko]
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
 /@JetBrainsTV            JetBrainsTV
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@SpringSourceDev            SpringDeveloper
 [Intellipaat][yu-intellipaat]
-/@LeilaGharani           Leila Gharani
-/@EssentialDeveloper             Essential Developer
+[Leila Gharani][yu-leila-gharani]
+[Essential Developer][yu-essential-developer]
 /@CodingTutorials360             Dylan Israel
 /@CodingTutorials360             Dylan Israel
-/@CodingArtist           Coding Artist
+[Coding Artist][yu-coding-artist]
 /@Eduonix            Eduonix Learning Solutions
-/@DailyTuition           Daily Tuition
-/@twostraws          Paul Hudson
+[Daily Tuition][yu-daily-tuition]
+[Paul Hudson][yu-twostraws]
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
@@ -3732,7 +1869,7 @@ SW2UbAAMR0c
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
 /@SpringSourceDev            SpringDeveloper
-/@_JohnHammond           John Hammond
+[John Hammond][yu-_JohnHammond]
 /@codeWithAndrei             CodingWithAndrei
 /@codeWithAndrei             CodingWithAndrei
 /@codeWithAndrei             CodingWithAndrei
@@ -3744,109 +1881,109 @@ SW2UbAAMR0c
 /@DouglasSchmidt             Douglas Schmidt
 [Kris Occhipinti][yu-digital-metal]
 /@jeffrey_codes          Jeffrey Codes Javascript
-/@awesomekling           Andreas Kling
+[Andreas Kling][yu-awesomekling]
 /@CodingTech             Coding Tech
 [Intellipaat][yu-intellipaat]
 /@ExternCode             Extern Code
-/@WebDevSimplified           Web Dev Simplified
+[Web Dev Simplified][yu-web-dev-simplified]
 /@CodeWithChris          CodeWithChris
-/@eddydn71           EDMT Dev
+[EDMT Dev][yu-eddydn71]
 /@DouglasSchmidt             Douglas Schmidt
 /@SpringSourceDev            SpringDeveloper
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@RahulRathore41             Rahul Rathore
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[Rahul Rathore][yu-rahul-rathore41]
 /@oracledevs             Oracle Developers
 /@ChromeDevs             Google Chrome Developers
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@TechPrimers            Tech Primers
-/@infoq          InfoQ
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[Tech Primers][yu-tech-primers]
+[InfoQ][yu-info-q]
 /@RibaLinux          Riba Linux
 [Kris Occhipinti][yu-digital-metal]
-/@swiftui2           App Designer2
-/@twostraws          Paul Hudson
-/@Javatechie             Java Techie
-/@Javatechie             Java Techie
-/@Javatechie             Java Techie
-/@SeleniumExpress            Selenium Express
-/@codebreakthrough           Caleb Curry
+[App Designer2][yu-swiftui2]
+[Paul Hudson][yu-twostraws]
+[Java Techie][yu-java-techie]
+[Java Techie][yu-java-techie]
+[Java Techie][yu-java-techie]
+[Selenium Express][yu-selenium-express]
+[b Curry][yu-codebreakthrough]
 /@LetsBuildThatApp           Lets Build That App
 /@LetsBuildThatApp           Lets Build That App
 /@codingwithmitch            CodingWithMitch
 /@Hallden_           Hallden
 /@codingwithmitch            CodingWithMitch
-/@DailyTuition           Daily Tuition
-/@Javatechie             Java Techie
-/@Javatechie             Java Techie
-/@RaghavPal          Automation Step by Step
+[Daily Tuition][yu-daily-tuition]
+[Java Techie][yu-java-techie]
+[Java Techie][yu-java-techie]
+[Automation Step by Step][yu-raghav-pal]
 /@codingwithmitch            CodingWithMitch
 /@clem           Clément Mihailescu
-/@DistroTube             DistroTube
+[DistroTube][yu-distro-tube]
 /@NDC            NDC Conferences
-/@garnattione            garnatti one
-/@Codevolution           Codevolution
-/@Codevolution           Codevolution
+[garnatti one][yu-garnattione]
+[Codevolution][yu-codevolution]
+[Codevolution][yu-codevolution]
 /@OfficialPackt          Packt 
 [Rebeloper - Rebel Developer][yu-rebeloper]
-/@bawad          Ben Awad
+[Ben Awad][yu-bawad]
 [Rebeloper - Rebel Developer][yu-rebeloper]
-/@Java.Brains            Java Brains
-/@bawad          Ben Awad
+[Java Brains][yu-java-brains]
+[Ben Awad][yu-bawad]
 /@vedsar1            Alok Upadhyay
 /@vedsar1            Alok Upadhyay
 /@fotoworkshop_stuttgart             fotoworkshop-stuttgart.de
 /@freecodecamp           freeCodeCamp.org
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 /@NDC            NDC Conferences
 /@Hallden_           Hallden
-/@SeleniumExpress            Selenium Express
+[Selenium Express][yu-selenium-express]
 /@BullsLab           뻘짓연구소
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
-/@RedStapler_channel             Red Stapler
-/@DailyTuition           Daily Tuition
-/@KodecoDev          Kodeco
-/@EzeeLinux          Joe Collins
+[Red Stapler][yu-red-stapler]
+[Daily Tuition][yu-daily-tuition]
+[Kodeco][yu-kodeco]
+[Joe Collins][yu-ezee-linux]
 /@CodingTech             Coding Tech
-/@Java.Brains            Java Brains
-/@bawad          Ben Awad
-/@garnattione            garnatti one
-/@garnattione            garnatti one
-/@DesignCourse           DesignCourse
+[Java Brains][yu-java-brains]
+[Ben Awad][yu-bawad]
+[garnatti one][yu-garnattione]
+[garnatti one][yu-garnattione]
+[DesignCourse][yu-design-course]
 /@jeffrey_codes          Jeffrey Codes Javascript
-/@RedStapler_channel             Red Stapler
+[Red Stapler][yu-red-stapler]
 /@CodingTech             Coding Tech
 /@jeffrey_codes          Jeffrey Codes Javascript
 /@element14presents          element14 presents
 /@codingwithmitch            CodingWithMitch
-/@ResoCoder          Reso Coder
-/@Java.Brains            Java Brains
+[Reso Coder][yu-reso-coder]
+[Java Brains][yu-java-brains]
 /@freecodecamp           freeCodeCamp.org
 /@TheCherno          The Cherno
-/@TCMSecurityAcademy             The Cyber Mentor
+[The Cyber Mentor][yu-the-cyber-mentor]
 /@Rebellionrider             Manish Sharma
 /@joeparysacademy5810            Joe Parys Academy
 /@antoniolg28            Antonio Leiva - Android &amp; Kotlin Development
 /@antoniolg28            Antonio Leiva - Android &amp; Kotlin Development
-/@wiseAss            Ryan Michael Kay
-/@WebDevSimplified           Web Dev Simplified
+[Ryan Michael Kay][yu-wise-ass]
+[Web Dev Simplified][yu-web-dev-simplified]
 /@tareksabry5231             Tarek Sabry
 /@codingwithmitch            CodingWithMitch
 /@CodingTech             Coding Tech
-/@ResoCoder          Reso Coder
-/@DesignCourse           DesignCourse
+[Reso Coder][yu-reso-coder]
+[DesignCourse][yu-design-course]
 /@OptimumTech            Optimum Tech
 /@excelisfun             ExcelIsFun
 [Kris Occhipinti][yu-digital-metal]
-/@CodingArtist           Coding Artist
-/@TCMSecurityAcademy             The Cyber Mentor
-/@CodingArtist           Coding Artist
-/@Oppadu             오빠두엑셀 l 엑셀 강의 대표채널
+[Coding Artist][yu-coding-artist]
+[The Cyber Mentor][yu-the-cyber-mentor]
+[Coding Artist][yu-coding-artist]
+[오빠두엑셀 l 엑셀 강의 대표채널][yu-oppadu]
 /@BrianAdvent            Brian Advent
 [Kris Occhipinti][yu-digital-metal]
 /@excelisfun             ExcelIsFun
@@ -3858,28 +1995,28 @@ SW2UbAAMR0c
 /@GeeksLesson            Geek's Lesson
 /@user-fm4nl5vr1v            K T
 /@user-fm4nl5vr1v            K T
-/@codedamn           codedamn
+[codedamn][yu-codedamn]
 /@riggaroo           Rebecca Franks
 /@riggaroo           Rebecca Franks
 /@riggaroo           Rebecca Franks
-/@SivaReddyJavaTechie            Siva Reddy
+[Siva Reddy][yu-siva-reddy]
 /@Firebase           Firebase
-/@bawad          Ben Awad
+[Ben Awad][yu-bawad]
 /@previsions             김도헌 대림대교수 Previsions
-/@DesignCourse           DesignCourse
-/@howl_coding            하울의 코딩 채널
-/@Java.Brains            Java Brains
-/@Fireship           Fireship
+[DesignCourse][yu-design-course]
+[하울의 코딩 채널][yu-howl-coding]
+[Java Brains][yu-java-brains]
+[Fireship][yu-fireship]
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
-/@DesignCourse           DesignCourse
+[DesignCourse][yu-design-course]
 /@ThioJoe            ThioJoe
 /@DataCouncil            Data Council
 /@ui5cn          UI5 Community Network
-/@DesignCourse           DesignCourse
+[DesignCourse][yu-design-course]
 /@iforce2d           iforce2d
-/@eddydn71           EDMT Dev
-/@ProgrammingKnowledge           ProgrammingKnowledge
+[EDMT Dev][yu-eddydn71]
+[ProgrammingKnowledge][yu-programming-knowledge]
 /@CodingTutorials360             Dylan Israel
 /@freecodecamp           freeCodeCamp.org
 /@CodingTech             Coding Tech
@@ -3887,20 +2024,20 @@ SW2UbAAMR0c
 /@CodingTech             Coding Tech
 /@codingwithmitch            CodingWithMitch
 /@TheCodingTrain             The Coding Train
-/@Doriandotslash             DorianDotSlash
+[DorianDotSlash][yu-dorian-dot-slash]
 /@codingwithmitch            CodingWithMitch
 [Rebeloper - Rebel Developer][yu-rebeloper]
-/@DesignCourse           DesignCourse
+[DesignCourse][yu-design-course]
 /@LetsBuildThatApp           Lets Build That App
-/@EzeeLinux          Joe Collins
-/@Fireship           Fireship
+[Joe Collins][yu-ezee-linux]
+[Fireship][yu-fireship]
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
-/@DesignCourse           DesignCourse
-/@TCMSecurityAcademy             The Cyber Mentor
+[DesignCourse][yu-design-course]
+[The Cyber Mentor][yu-the-cyber-mentor]
 /@KeepToo            KeepToo
 /@Viziblee           Viziblee
-/@HackerSploit           HackerSploit
+[HackerSploit][yu-HackerSploit]
 [Britec09][yu-britec-09]
 [Britec09][yu-britec-09]
 /@CodingTech             Coding Tech
@@ -3913,7 +2050,7 @@ SW2UbAAMR0c
 [Simplified Coding][yu-simplified-coding]
 /@derekbanas             Derek Banas
 /@codingwithmitch            CodingWithMitch
-/@martinlasek            Martin Lasek
+[Martin Lasek][yu-martinlasek]
 /@NDC            NDC Conferences
 /@excelisfun             ExcelIsFun
 /@CodingTech             Coding Tech
@@ -3922,15 +2059,15 @@ SW2UbAAMR0c
 /@ChrisTitusTech             Chris Titus Tech
 /@SpringSourceDev            SpringDeveloper
 /@LiveOverflow           LiveOverflow
-/@thenewboston           thenewboston
+[thenewboston][yu-thenewboston]
 [developedbyed][yu-developedbyed]
 /@maxcodes           maxcodes
 /@CodingTech             Coding Tech
-/@RamNJava           Ram N Java
+[Ram N Java][yu-ram-n-java]
 /@NDC            NDC Conferences
 /@NDC            NDC Conferences
 /@ChrisTitusTech             Chris Titus Tech
-/@MinjunKim          Minjun Kim
+[Minjun Kim][yu-minjun-kim]
 /@jamo_JonPark           자영업의 모든것
 /@electronicsrepairschool            Electronics Repair School
 /@freecodecamp           freeCodeCamp.org
@@ -3943,35 +2080,34 @@ SW2UbAAMR0c
 /@NDC            NDC Conferences
 /@KevinShroff            Kevin Shroff
 [Simplified Coding][yu-simplified-coding]
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 [Rebeloper - Rebel Developer][yu-rebeloper]
-/@JustinJackson          Justin Jackson
-/@codebreakthrough           Caleb Curry
-/@codebreakthrough           Caleb Curry
-/@codebreakthrough           Caleb Curry
+[Justin Jackson][yu-justin-jackson]
+[b Curry][yu-codebreakthrough]
+[b Curry][yu-codebreakthrough]
+[b Curry][yu-codebreakthrough]
 /@SpringSourceDev            SpringDeveloper
-/@ProgramWithErik            Program With Erik
+[Program With Erik][yu-program-w-erik]
 /@Eduonix            Eduonix Learning Solutions
 /@freecodecamp           freeCodeCamp.org
 /@intellijidea           IntelliJ IDEA by JetBrains
 /@Kilo_Loco          Kilo Loco
-/@EugeneIOSDev           Eugene Berezin
+[Eugene Berezin][yu-eugene-berezin]
 /@BrianAdvent            Brian Advent
 /@CodeWithChris          CodeWithChris
 /@CodingTech             Coding Tech
-/@academind          Academind
+[Academind][yu-academind]
 /@DarkCodeOnline             DarkCode
 /@ChrisTitusTech             Chris Titus Tech
 /@amigoscode             Amigoscode
-/@LetCreateAnApp             Let Create An App
-/@MickMake           MickMake
+[Let Create An App][yu-let-create-an-app]/@MickMake           MickMake
 /@freecodecamp           freeCodeCamp.org
 [Rebeloper - Rebel Developer][yu-rebeloper]
 /@DefogTech          Defog Tech
-/@twostraws          Paul Hudson
-/@MorgonautHackintosh            Morgonaut Hack!ntosh
+[Paul Hudson][yu-twostraws]
+[Morgonaut Hack!ntosh][yu-morgonaut-hack!ntosh]
 /@freecodecamp           freeCodeCamp.org
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 [Rebeloper - Rebel Developer][yu-rebeloper]
 /@CodeJava           Code Java
 /@maxcodes           maxcodes
@@ -3979,32 +2115,32 @@ SW2UbAAMR0c
 /@CodingTech             Coding Tech
 /@varuncbv           LETS-START-CODING By Varun cbv
 /@DefogTech          Defog Tech
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 /@JerryBanfield          Jerry Banfield
 [Rebeloper - Rebel Developer][yu-rebeloper]
 /@HongLab            홍정모
 /@amigoscode             Amigoscode
 /@vaadinofficial             vaadinofficial
-/@RamNJava           Ram N Java
-/@Telusko            Telusko
-/@Telusko            Telusko
+[Ram N Java][yu-ram-n-java]
+[Telusko][yu-telusko]
+[Telusko][yu-telusko]
 /@Kilo_Loco          Kilo Loco
-/@Telusko            Telusko
+[Telusko][yu-telusko]
 /@amigoscode             Amigoscode
 [Simplified Coding][yu-simplified-coding]
-/@twostraws          Paul Hudson
-/@martinlasek            Martin Lasek
-/@RaghavPal          Automation Step by Step
+[Paul Hudson][yu-twostraws]
+[Martin Lasek][yu-martinlasek]
+[Automation Step by Step][yu-raghav-pal]
 /@CodingTech             Coding Tech
 /@Kilo_Loco          Kilo Loco
-/@Telusko            Telusko
+[Telusko][yu-telusko]
 /@maxcodes           maxcodes
 [ForrestKnight][yu-fknight]
 /@LetsBuildThatApp           Lets Build That App
 /@MicrosoftResearch          Microsoft Research
 /@amigoscode             Amigoscode
 [Rebeloper - Rebel Developer][yu-rebeloper]
-/@Telusko            Telusko
+[Telusko][yu-telusko]
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
@@ -4032,24 +2168,24 @@ SW2UbAAMR0c
 /@Acadgild           ACADGILD
 [Kris Occhipinti][yu-digital-metal]
 [Kris Occhipinti][yu-digital-metal]
-/@codedamn           codedamn
-/@coohde             생활코딩
-/@coohde             생활코딩
-/@coohde             생활코딩
-/@coohde             생활코딩
+[codedamn][yu-codedamn]
+[생활코딩][yu-coohde]
+[생활코딩][yu-coohde]
+[생활코딩][yu-coohde]
+[생활코딩][yu-coohde]
 [Kris Occhipinti][yu-digital-metal]
 /@RomanianCoder          Dan Geabunea (Romanian Coder)
 [Kris Occhipinti][yu-digital-metal]
-/@RedStapler_channel             Red Stapler
-/@codedamn           codedamn
+[Red Stapler][yu-red-stapler]
+[codedamn][yu-codedamn]
 /@JerryBanfield          Jerry Banfield
-/@edurekaIN          edureka!
+[edureka!][yu-edureka]
 /@JayKapoor24            Jay Kapoor
 /@dosdude1           dosdude1
 /@SpringSourceDev            SpringDeveloper
 /@freecodecamp           freeCodeCamp.org
 /@TechthoughtsInfo2          TechThoughts
-/@PaulProgramming            Paul Programming
+[Paul Programming][yu-paul-programming]
 [Brandan Jones][yu-discospiff]
 /@freecodecamp           freeCodeCamp.org
 /@TechthoughtsInfo2          TechThoughts
@@ -4057,28 +2193,28 @@ SW2UbAAMR0c
 /@EverythingApplePro             EverythingApplePro E A P
 /@AVMEVideos             AVME Videos
 /@freecodecamp           freeCodeCamp.org
-/@twostraws          Paul Hudson
-/@martinlasek            Martin Lasek
+[Paul Hudson][yu-twostraws]
+[Martin Lasek][yu-martinlasek]
 /@DevonCrawford          Devon Crawford
 [Simplified Coding][yu-simplified-coding]
 /@NovecelYour1Lcdrepairsolution          Novecel Your #1 Lcd repair solution
-/@martinlasek            Martin Lasek
+[Martin Lasek][yu-martinlasek]
 /@EposVox            EposVox
 [developedbyed][yu-developedbyed]
 /@Mac1PC             Tech Services
 /@user-he3td5oj4p            햇살가득 전원주택
-/@NETVN82            NETVN
+[NETVN][yu-netvn]
 /@derekbanas             Derek Banas
-/@RamNJava           Ram N Java
-/@RamNJava           Ram N Java
-/@dongbinna          동빈나
-[Rebeloper - Rebel Developer][yu-rebeloper]
-/@TechPrimers            Tech Primers
+[Ram N Java][yu-ram-n-java]
+[Ram N Java][yu-ram-n-java]
+[동빈나][yu-dongbinna]
+[Rebel Developer][yu-rebeloper]][yu-java-home-cloud]Rebeloper -
+[Tech Primers][yu-tech-primers]
 /@SpringSourceDev            SpringDeveloper
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 [developedbyed][yu-developedbyed]
 /@freecodecamp           freeCodeCamp.org
-/@EngineerMan            Engineer Man
+[Engineer Man][yu-engineer-man]
 [developedbyed][yu-developedbyed]
 /@DarkCodeOnline             DarkCode
 /@user-jb1yn4ve5p            김노무사TV
@@ -4095,41 +2231,41 @@ SW2UbAAMR0c
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
-/@RedStapler_channel             Red Stapler
-/@MinjunKim          Minjun Kim
+[Red Stapler][yu-red-stapler]
+[Minjun Kim][yu-minjun-kim]
 /@TechnicalNavigator             Technical Navigator
 /@IntertechTraining          Intertech
 /@abdulazizahwan             Abdul Aziz Ahwan
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 /@javajigi           박재성
 /@JTV201807          J TV
-/@RahulRathore41             Rahul Rathore
+[Rahul Rathore][yu-rahul-rathore41]
 /@derekbanas             Derek Banas
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 /@MicrosoftIgnite            Microsoft Ignite
 /@CODEMOBILEUK           CODEMOBILE
 /@rydcom             려독
-/@Fireship           Fireship
+[Fireship][yu-fireship]
 /@IonicFramework             Ionic
 /@NDC            NDC Conferences
 /@shadsluiter            Programming w/ Professor Sluiter
 /@derekbanas             Derek Banas
-/@EngineerMan            Engineer Man
+[Engineer Man][yu-engineer-man]
 /@EngineersSG            Engineers.SG
 /@freecodecamp           freeCodeCamp.org
-/@MinjunKim          Minjun Kim
+[Minjun Kim][yu-minjun-kim]
 /@RomanianCoder          Dan Geabunea (Romanian Coder)
 /@IntelFPGA          Intel FPGA
-/@RamNJava           Ram N Java
-/@archdevel          체험판의컴퓨터채널-판매,수리,조립
+[Ram N Java][yu-ram-n-java]
+[체험판의컴퓨터채널-판매,수리,조립][yu-archdevel]
 /@Eduonix            Eduonix Learning Solutions
 /@seanallen          Sean Allen
-/@KIMTOOFLEX             Kim Too
+[Kim Too][yu-KIMTOOFLEX]
 /@BrianAdvent            Brian Advent
 /@JTV201807          J TV
-/@SeoulWorkshop          Seoul Workshop
-/@SeoulWorkshop          Seoul Workshop
-/@Fireship           Fireship
+[Seoul Workshop][yu-seoul-workshop]
+[Seoul Workshop][yu-seoul-workshop]
+[Fireship][yu-fireship]
 /@ITsystem           ITSystem
 /@AwsRh          Aws Rh
 /@Renewedcart            Cat Technologies
@@ -4140,7 +2276,7 @@ SW2UbAAMR0c
 /@NDC            NDC Conferences
 /@TraversyMedia          Traversy Media
 [Brandan Jones][yu-discospiff]
-/@DistroTube             DistroTube
+[DistroTube][yu-distro-tube]
 /@mitocw             MIT OpenCourseWare
 /@javajigi           박재성
 /@javajigi           박재성
@@ -4152,84 +2288,84 @@ SW2UbAAMR0c
 /@javajigi           박재성
 /@javajigi           박재성
 /@marketplaceAPM             Marketplace APM
-/@SeoulWorkshop          Seoul Workshop
+[Seoul Workshop][yu-seoul-workshop]
 /@EngineersSG            Engineers.SG
 /@AwsRh          Aws Rh
 /@BrianAdvent            Brian Advent
 /@mutexembedded2206          Mutex Embedded
 /@TheEasyoung            Minsuk Heo 허민석
-/@DistroTube             DistroTube
-/@rewatechnology2008             REWA Technology
+[DistroTube][yu-distro-tube]
+[REWA Technology][yu-rewa-technology]
 /@freecodecamp           freeCodeCamp.org
 /@MakeUseOf          MakeUseOf
 /@RomanianCoder          Dan Geabunea (Romanian Coder)
-/@DistroTube             DistroTube
+[DistroTube][yu-distro-tube]
 /@Letsboot           letsboot.com
-/@in28minutes            in28minutes - Cloud Made Easy
+[in28minutes - Cloud Made Easy][yu-in28minutes]
 /@osjin0             SE JIN - IT LAB
-/@IAmTimCorey            IAmTimCorey
-/@keesun.b           백기선
+[IAmTimCorey][yu-i-am-tim-corey]
+[백기선][yu-keesun.b]
 /@CodingTutorials360             Dylan Israel
 /@Myonlineedudotcom          MyOnlineEdu.com
 /@Myonlineedudotcom          MyOnlineEdu.com
-/@keesun.b           백기선
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@HowTomakeitdone            HowTo
-/@MinjunKim          Minjun Kim
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
+[백기선][yu-keesun.b]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[HowTo][yu-how-to-make-it-done]
+[Minjun Kim][yu-minjun-kim]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@TimErmilov             Tim Ermilov
 /@bigmtnstudio           Mark Moeykens
 /@RomanianCoder          Dan Geabunea (Romanian Coder)
-/@in28minutes            in28minutes - Cloud Made Easy
-/@RamNJava           Ram N Java
-/@HackerSploit           HackerSploit
+[in28minutes - Cloud Made Easy][yu-in28minutes]
+[Ram N Java][yu-ram-n-java]
+[HackerSploit][yu-HackerSploit]
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
 /@OfficialPackt          Packt 
-/@RedStapler_channel             Red Stapler
-/@MinjunKim          Minjun Kim
+[Red Stapler][yu-red-stapler]
+[Minjun Kim][yu-minjun-kim]
 /@TechnicalNavigator             Technical Navigator
 /@IntertechTraining          Intertech
 /@abdulazizahwan             Abdul Aziz Ahwan
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 /@javajigi           박재성
 /@JTV201807          J TV
-/@RahulRathore41             Rahul Rathore
+[Rahul Rathore][yu-rahul-rathore41]
 /@derekbanas             Derek Banas
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 /@MicrosoftIgnite            Microsoft Ignite
 /@CODEMOBILEUK           CODEMOBILE
 /@rydcom             려독
-/@Fireship           Fireship
+[Fireship][yu-fireship]
 /@IonicFramework             Ionic
 /@NDC            NDC Conferences
 /@shadsluiter            Programming w/ Professor Sluiter
 /@derekbanas             Derek Banas
-/@EngineerMan            Engineer Man
+[Engineer Man][yu-engineer-man]
 /@EngineersSG            Engineers.SG
 /@freecodecamp           freeCodeCamp.org
-/@MinjunKim          Minjun Kim
+[Minjun Kim][yu-minjun-kim]
 /@RomanianCoder          Dan Geabunea (Romanian Coder)
 /@IntelFPGA          Intel FPGA
-/@RamNJava           Ram N Java
-/@archdevel          체험판의컴퓨터채널-판매,수리,조립
+[Ram N Java][yu-ram-n-java]
+[체험판의컴퓨터채널-판매,수리,조립][yu-archdevel]
 /@Eduonix            Eduonix Learning Solutions
 /@seanallen          Sean Allen
-/@KIMTOOFLEX             Kim Too
+[Kim Too][yu-KIMTOOFLEX]
 /@BrianAdvent            Brian Advent
 /@JTV201807          J TV
-/@SeoulWorkshop          Seoul Workshop
-/@SeoulWorkshop          Seoul Workshop
-/@Fireship           Fireship
+[Seoul Workshop][yu-seoul-workshop]
+[Seoul Workshop][yu-seoul-workshop]
+[Fireship][yu-fireship]
 /@ITsystem           ITSystem
 /@AwsRh          Aws Rh
 /@Renewedcart            Cat Technologies
@@ -4240,7 +2376,7 @@ SW2UbAAMR0c
 /@NDC            NDC Conferences
 /@TraversyMedia          Traversy Media
 [Brandan Jones][yu-discospiff]
-/@DistroTube             DistroTube
+[DistroTube][yu-distro-tube]
 /@mitocw             MIT OpenCourseWare
 /@javajigi           박재성
 /@javajigi           박재성
@@ -4252,109 +2388,109 @@ SW2UbAAMR0c
 /@javajigi           박재성
 /@javajigi           박재성
 /@marketplaceAPM             Marketplace APM
-/@SeoulWorkshop          Seoul Workshop
+[Seoul Workshop][yu-seoul-workshop]
 /@EngineersSG            Engineers.SG
 /@AwsRh          Aws Rh
 /@BrianAdvent            Brian Advent
 /@mutexembedded2206          Mutex Embedded
 /@TheEasyoung            Minsuk Heo 허민석
-/@DistroTube             DistroTube
-/@rewatechnology2008             REWA Technology
+[DistroTube][yu-distro-tube]
+[REWA Technology][yu-rewa-technology]
 /@freecodecamp           freeCodeCamp.org
 /@MakeUseOf          MakeUseOf
 /@RomanianCoder          Dan Geabunea (Romanian Coder)
-/@DistroTube             DistroTube
+[DistroTube][yu-distro-tube]
 /@Letsboot           letsboot.com
-/@in28minutes            in28minutes - Cloud Made Easy
+[in28minutes - Cloud Made Easy][yu-in28minutes]
 /@osjin0             SE JIN - IT LAB
-/@IAmTimCorey            IAmTimCorey
-/@keesun.b           백기선
+[IAmTimCorey][yu-i-am-tim-corey]
+[백기선][yu-keesun.b]
 /@CodingTutorials360             Dylan Israel
 /@Myonlineedudotcom          MyOnlineEdu.com
 /@Myonlineedudotcom          MyOnlineEdu.com
-/@keesun.b           백기선
-/@ProgrammingKnowledge           ProgrammingKnowledge
-/@HowTomakeitdone            HowTo
-/@MinjunKim          Minjun Kim
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
-/@SKplanetTacademy           SKplanet Tacademy
+[백기선][yu-keesun.b]
+[ProgrammingKnowledge][yu-programming-knowledge]
+[HowTo][yu-how-to-make-it-done]
+[Minjun Kim][yu-minjun-kim]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@TimErmilov             Tim Ermilov
 /@bigmtnstudio           Mark Moeykens
 /@RomanianCoder          Dan Geabunea (Romanian Coder)
-/@in28minutes            in28minutes - Cloud Made Easy
-/@RamNJava           Ram N Java
-/@HackerSploit           HackerSploit
-/@KodecoDev          Kodeco
-/@martinlasek            Martin Lasek
+[in28minutes - Cloud Made Easy][yu-in28minutes]
+[Ram N Java][yu-ram-n-java]
+[HackerSploit][yu-HackerSploit]
+[Kodeco][yu-kodeco]
+[Martin Lasek][yu-martinlasek]
 /@DucTranFan             David Tran
 /@codingwithmitch            CodingWithMitch
-/@keesun.b           백기선
-/@SKplanetTacademy           SKplanet Tacademy
+[백기선][yu-keesun.b]
+[SKplanet Tacademy][yu-sk-planet-tacademy]
 /@codingwithmitch            CodingWithMitch
-/@WizcenterSeoul             SEOUL G-캠프
+[SEOUL G-캠프][yu-wizcenter-seoul]
 /@sajivsaiful            Sajiv Saiful
 /@OracleKorea            Oracle Korea
-/@keesun.b           백기선
-/@KodecoDev          Kodeco
-/@user-uc2wv8zw3h            전자정부 표준프레임워크 센터
-/@KodecoDev          Kodeco
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@appstuff5778           AppStuff
-/@KodecoDev          Kodeco
+[백기선][yu-keesun.b]
+[Kodeco][yu-kodeco]
+[전자정부 표준프레임워크 센터][yu-user-uc2wv8zw3h]
+[Kodeco][yu-kodeco]
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[AppStuff][yu-appstuff5778]
+[Kodeco][yu-kodeco]
 /@AmilaJayawardhana          Amila Jayawardhana
 /@SumeetMaharjan             Sumeet Maharjan
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 /@GISdonwell             GISdonwell
 /@DDuan          Daniel Duan
-/@keesun.b           백기선
+[백기선][yu-keesun.b]
 /@Kilo_Loco          Kilo Loco
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 /@CodingTech             Coding Tech
 /@user-mq5ph1ct8y            스타카토
-/@KodecoDev          Kodeco
+[Kodeco][yu-kodeco]
 /@patrickwashingtondc            Patrick WashingtonDC
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
 /@PetDanderTutorials             PetDander Tutorials
-/@dongbinna          동빈나
-/@martinlasek            Martin Lasek
+[동빈나][yu-dongbinna]
+[][yu-martinlasek]][yu-java-home-cloud]Martin Lasek
 /@PetDanderTutorials             PetDander Tutorials
 /@MidwareCloud           Midware Cloud
 /@patrickwashingtondc            Patrick WashingtonDC
-/@twostraws          Paul Hudson
+[Paul Hudson][yu-twostraws]
 /@MidwareCloud           Midware Cloud
 /@MidwareCloud           Midware Cloud
-/@twostraws          Paul Hudson
-/@twostraws          Paul Hudson
-/@IAmTimCorey            IAmTimCorey
-/@IAmTimCorey            IAmTimCorey
+[Paul Hudson][yu-twostraws]
+[Paul Hudson][yu-twostraws]
+[IAmTimCorey][yu-i-am-tim-corey]
+[IAmTimCorey][yu-i-am-tim-corey]
 /@electronicsrepairschool            Electronics Repair School
 /@iTouch-repair          iTouch
-/@EssentialDeveloper             Essential Developer
+[Essential Developer][yu-essential-developer]
 /@rwbnetsec          rwbnetsec
 /@Kilo_Loco          Kilo Loco
 /@BrianAdvent            Brian Advent
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 /@auc_anz            AUC_ANZ
 /@KUKITV             쿠키건강TV / KUKI HEALTH TV
 /@JetBrainsTV            JetBrainsTV
 /@JetBrainsTV            JetBrainsTV
 /@JetBrainsTV            JetBrainsTV
-/@codinginflow           Coding in Flow
-/@ResoCoder          Reso Coder
-/@Fireship           Fireship
-/@ResoCoder          Reso Coder
-/@ResoCoder          Reso Coder
-/@ResoCoder          Reso Coder
+[Coding in Flow][yu-codinginflow]
+[Reso Coder][yu-reso-coder]
+[Fireship][yu-fireship]
+[Reso Coder][yu-reso-coder]
+[Reso Coder][yu-reso-coder]
+[Reso Coder][yu-reso-coder]
 /@CodingTech             Coding Tech
 /@BerryTV            Berry TV
 /@yafit_videos           야핏 YAFIT
@@ -4376,22 +2512,22 @@ SW2UbAAMR0c
 [Intellipaat][yu-intellipaat]
 /@EverydayChinese            Everyday Chinese
 /@stmicroelectronics             STMicroelectronics
-/@tutoriaLinux           tutoriaLinux
-/@tutoriaLinux           tutoriaLinux
+[tutoriaLinux][yu-tutoriaLinux]
+[tutoriaLinux][yu-tutoriaLinux]
 /@freecodecamp           freeCodeCamp.org
-/@theurbanpenguin            theurbanpenguin
+[theurbanpenguin][yu-theurbanpenguin]
 /@JosephDelgadillo           Joseph Delgadillo
-/@EzeeLinux          Joe Collins
-/@EzeeLinux          Joe Collins
+[Joe Collins][yu-ezee-linux]
+[Joe Collins][yu-ezee-linux]
 /@LetsBuildThatApp           Lets Build That App
 /@RinconingenierilEsp            Rincón Ingenieril
 /@LetsBuildThatApp           Lets Build That App
 /@codejong           코드종
 /@EventHandler           Event Handler
-/@tutoriaLinux           tutoriaLinux
+[tutoriaLinux][yu-tutoriaLinux]
 /@freecodecamp           freeCodeCamp.org
 /@freecodecamp           freeCodeCamp.org
-/@academind          Academind
+[Academind][yu-academind]
 [CodAffection][yu-cod-accection]
 [CodAffection][yu-cod-accection]
 /@CodingTech             Coding Tech
@@ -4399,7 +2535,7 @@ SW2UbAAMR0c
 /@AndroidAuthority           Android Authority
 /@freecodecamp           freeCodeCamp.org
 /@CodingTech             Coding Tech
-/@tutoriaLinux           tutoriaLinux
+[tutoriaLinux][yu-tutoriaLinux]
 /@freecodecamp           freeCodeCamp.org
 /@fosdemtalks            FOSDEM
 /@CodingTech             Coding Tech
@@ -4408,23 +2544,23 @@ SW2UbAAMR0c
 /@Coderjourney           CoderJourney
 /@freecodecamp           freeCodeCamp.org
 /@BudgetNerd             Budget Nerd
-/@academind          Academind
+[Academind][yu-academind]
 /@DelaroyStudios             Delaroy Studios
 /@KeepToo            KeepToo
 /@KeepToo            KeepToo
 /@DelaroyStudios             Delaroy Studios
 /@KeepToo            KeepToo
-/@PhilipStarritt             Philip Starritt
+[Philip Starritt][yu-philip-starritt]
 /@GeeksTutorial          Geeks Tutorial
 /@KeepToo            KeepToo
 /@KeepToo            KeepToo
 /@KeepToo            KeepToo
-/@TechPrimers            Tech Primers
-/@TechPrimers            Tech Primers
-/@swifttutorials4691             Swift Tutorials
-/@swifttutorials4691             Swift Tutorials
+[Tech Primers][yu-tech-primers]
+[Tech Primers][yu-tech-primers]
+[Swift Tutorials][yu-swifttutorials4691]
+[Swift Tutorials][yu-swifttutorials4691]
 /@JessaJones             iPad Rehab
-/@swifttutorials4691             Swift Tutorials
+[Swift Tutorials][yu-swifttutorials4691]
 /@LetsBuildThatApp           Lets Build That App
 /@DelaroyStudios             Delaroy Studios
 [CodAffection][yu-cod-accection]
@@ -4437,17 +2573,16 @@ SW2UbAAMR0c
 /@LetsBuildThatApp           Lets Build That App
 /@CodeWithChris          CodeWithChris
 /@Kilo_Loco          Kilo Loco
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 /@LetsBuildThatApp           Lets Build That App
-/@eddydn71           EDMT Dev
+[EDMT Dev][yu-eddydn71]
 [Simplified Coding][yu-simplified-coding]
-/@TechPrimers            Tech Primers
+[Tech Primers][yu-tech-primers]
 /@SwiftProgrammingTutorials          Learn to Code with Karoly Nyisztor
 /@theBankofKoreakr           한국은행
-/@LetCreateAnApp             Let Create An App
-/@CodePro            Code Pro
-/@eddydn71           EDMT Dev
-/@eddydn71           EDMT Dev
+[Code Pro][yu-code-pro]
+[EDMT Dev][yu-eddydn71]
+[EDMT Dev][yu-eddydn71]
 /@bigmtnstudio           Mark Moeykens
 /@BrianAdvent            Brian Advent
 /@QualityControlMusics           Quality Control Music
@@ -4457,12 +2592,12 @@ SW2UbAAMR0c
 /@user-ls2vk8ic9v            o o
 /@Touchlab           Touchlab
 /@DevLanding             Dev Landing
-/@szLynAs            LynAs Sazzad
-/@ResoCoder          Reso Coder
+[LynAs Sazzad][yu-sz-lyn-as]
+[Reso Coder][yu-reso-coder]
 /@A2ZGeek            A2Z Geek
 /@DevLanding             Dev Landing
 /@vaadinofficial             vaadinofficial
-/@codinginflow           Coding in Flow
+[Coding in Flow][yu-codinginflow]
 /@DevelopIntelligence            DevelopIntelligence
 /@DelaroyStudios             Delaroy Studios
 /@DelaroyStudios             Delaroy Studios
@@ -4472,18 +2607,18 @@ SW2UbAAMR0c
 /@DelaroyStudios             Delaroy Studios
 /@DelaroyStudios             Delaroy Studios
 /@DelaroyStudios             Delaroy Studios
-/@tutoriaLinux           tutoriaLinux
+[tutoriaLinux][yu-tutoriaLinux]
 /@DelaroyStudios             Delaroy Studios
 /@lexfridman             Lex Fridman
 /@EngineersSG            Engineers.SG
-/@KodecoDev          Kodeco
-/@codinginflow           Coding in Flow
-/@eddydn71           EDMT Dev
+[Kodeco][yu-kodeco]
+[Coding in Flow][yu-codinginflow]
+[EDMT Dev][yu-eddydn71]
 /@RibaLinux          Riba Linux
 /@Free-german-lessons-online             freeGermanlessons
 [Hitesh Choudhary][yu-hitesh-choudhary]
-/@DesignCourse           DesignCourse
-/@KodecoDev          Kodeco
+[DesignCourse][yu-design-course]
+[Kodeco][yu-kodeco]
 /@juglodz            Jug Łódź
 /@virtualJUG             v JUG
 /@virtualJUG             v JUG
@@ -4494,7 +2629,7 @@ SW2UbAAMR0c
 /@snazzy             Snazzy Labs
 /@Illacertus             illacertus
 /@macmyapples            macmyapples
-/@EssentialDeveloper             Essential Developer
+[Essential Developer][yu-essential-developer]
 /@JeffreyApp             Jeffrey Huang
 /@TwoMinutePapers            Two Minute Papers
 /@TallPaulTech           Tall Paul Tech

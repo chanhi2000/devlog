@@ -11,6 +11,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 
 ---
 ## General
+
 - [ClintJang/awesome-swift-korean-lecture][ClintJang/awesome-swift-korean-lecture]: 훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)
 - [matteocrippa/awesome-swift][matteocrippa/awesome-swift]: A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [dkhamsing/open-source-ios-apps][dkhamsing/open-source-ios-apps]: 📱 Collaborative List of Open-Source iOS Apps
@@ -58,13 +59,15 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [jahidulislamzim/JavaScriptCodingChallenges][jahidulislamzim/JavaScriptCodingChallenges]: Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.
   - [🌐Official Site](https://jahidulislamzim.netlify.app)
 - [DataTalksClub/data-engineering-zoomcamp][DataTalksClub/data-engineering-zoomcamp]: Free Data Engineering course!
-
-
-
-
+- [ddotta/awesome-polars][ddotta/awesome-polars]: A curated list of Polars talks, tools, examples & articles. Contributions welcome !
+  - [🌐Official Site](https://ddotta.github.io/awesome-polars)
+- [lukasz-madon/awesome-remote-job][lukasz-madon/awesome-remote-job]: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]
 
 ---
+
 ## Free Books
+
 - [dariubs/GoBooks][dariubs/GoBooks]
 - [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]: 📚 Freely available programming books
   - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
@@ -123,6 +126,9 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [mouredev/retos-programacion-2023]: https://github.com/mouredev/retos-programacion-2023
 [jahidulislamzim/JavaScriptCodingChallenges]: https://github.com/jahidulislamzim/JavaScriptCodingChallenges
 [DataTalksClub/data-engineering-zoomcamp]: https://github.com/DataTalksClub/data-engineering-zoomcamp
+[ddotta/awesome-polars]: https://github.com/ddotta/awesome-polars
+[lukasz-madon/awesome-remote-job]: https://github.com/lukasz-madon/awesome-remote-job
+[f/awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

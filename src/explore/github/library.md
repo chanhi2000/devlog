@@ -134,6 +134,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [recloudstream/cloudstream][recloudstream/cloudstream]: Android app for streaming and downloading Movies, TV-Series and Anime.
 
 ---
+
 ## Swift
 
 - [CodeEditApp/CodeEdit][CodeEditApp/CodeEdit]: CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -169,6 +170,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 ---
 
 ## Javascript
+
 - [SadeghHayeri/GreenTunnel][SadeghHayeri/GreenTunnel]: GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [hahnlee/hwp.js][hahnlee/hwp.js]: Open source hwp viewer and parser library powered by web technology
   - [🌐Official Site](https://hanlee.io/hwp.js)
@@ -318,7 +320,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [gluon-framework/gluon][gluon-framework/gluon]: A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
   - [🌐Official Site](https://gluonjs.org)
 - [desktop/desktop][desktop/desktop]: Focus on what matters instead of fighting with Git.
-    - [🌐Official Site](https://desktop.github.com)
+  - [🌐Official Site](https://desktop.github.com)
+- [coollabsio/coolify][coollabsio/coolify]: An open-source & self-hostable Heroku / Netlify alternative.
+  - [🌐Official Site](https://coolify.io)
+- [typeorm/typeorm][typeorm/typeorm]: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+  - [🌐Official Site](http://typeorm.io)
+- [Nutlope/roomGPT][Nutlope/roomGPT]: Upload a photo of your room to generate your dream room with AI.
+  - [🌐Official Site](https://www.roomgpt.io)
 
 ---
 
@@ -390,6 +398,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [Azure/azure-sdk-for-python][Azure/azure-sdk-for-python]: This repository is for active development of the Azure SDK for Python.
   - [📚Documentation](https://docs.microsoft.com/python/azure)
   - [📚Documentation](https://azure.github.io/azure-sdk-for-python)
+- [AnTi-anti/damai_ticket][AnTi-anti/damai_ticket]: 大麦网抢票脚本
+- [openai/openai-python][openai/openai-python]: The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+- [nebuly-ai/nebullvm][nebuly-ai/nebullvm]: Plug and play modules to optimize the performances of your AI systems 🚀
+  - [🌐Official Site](https://www.nebuly.com)
+- [openai/openai-cookbook][openai/openai-cookbook]: Examples and guides for using the OpenAI API
+- [centerofci/mathesar][centerofci/mathesar]: Web application providing an intuitive user experience to databases.
+  - [🌐Official Site](https://mathesar.org)
 
 ---
 
@@ -442,6 +457,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://alist.nn.ci)
 - [adhocteam/pushup][adhocteam/pushup]: Pushup is for making modern, page-oriented web apps in Go
   - [🌐Official Site](https://pushup.adhoc.dev)
+- [grafana/mimir][grafana/mimir]: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  - [🌐Official Site](https://grafana.com/oss/mimir)
 
 
 ---
@@ -494,11 +511,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [MirrorX-Desktop/MirrorX][MirrorX-Desktop/MirrorX]: Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
   - [🌐Official Site](https://mirrorx.app)
 - [linebender/xilem][linebender/xilem]: An experimental Rust native UI framework
-
+- [pop-os/cosmic-text][pop-os/cosmic-text]: Pure Rust multi-line text handling
+  - [🌐Official Site](https://pop-os.github.io/cosmic-text/cosmic_text)
+- [praetorian-inc/noseyparker][praetorian-inc/noseyparker]: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 
 ---
 
-## C\#
+## C#
 
 - [scottplot/scottplot][scottplot/scottplot]: Interactive Plotting Library for .NET
   - [🌐Official Site](https://scottplot.net)
@@ -526,7 +545,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
   - [🌐Official Site](https://www.monicahq.com)
-- [openai-php/laravelopenai-php/laravel]: ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
+- [openai-php/laravel][openai-php/laravel]: ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
+- [ockeghem/badtodo][ockeghem/badtodo]: 
 
 ---
 
@@ -564,6 +584,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [DarkFlippers/unleashed-firmwareDarkFlippers/unleashed-firmware]: Flipper Zero Unleashed Firmware
   - [🌐Official Site](https://t.me/flipperzero_unofficial)
 - [ocornut/imgui][ocornut/imgui]: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [FFmpeg/FFmpeg][FFmpeg/FFmpeg]: Mirror of https://git.ffmpeg.org/ffmpeg.git
+  - [🌐Official Site](https://ffmpeg.org)
+- [tenderlove/initial-v][tenderlove/initial-v]: It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
+
 
 ---
 
@@ -618,6 +642,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 
 ---
 
+## V
+
+- [vlang/v][vlang/v]: Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation.
+  - [🌐Official Site](https://vlang.io)
+
+---
+
 ## DevOps
 
 - [vulhub/vulhub][vulhub/vulhub]: Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -643,7 +674,6 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [tailwindlabs/heroicons][tailwindlabs/heroicons]: A set of free MIT-licensed high-quality SVG icons for UI development.
   - [🌐Official Site](https://heroicons.com)
 - [upptime/upptime][upptime/upptime]: ⬆️ Free uptime monitor and status page powered by GitHub
-  - [🌐Official Site](https://upptime.louislam/uptime-kuma]: A fancy self-hosted monitoring tool
   - [🌐Official Site](https://uptime.kuma.pet)
 - [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native. 
   - [🌐Official Site](http://airbnb.io/lottie)
@@ -823,6 +853,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [appsmithorg/appsmith]: https://github.com/appsmithorg/appsmith
 [gluon-framework/gluon]: https://github.com/gluon-framework/gluon
 [desktop/desktop]: https://github.com/desktop/desktop
+[coollabsio/coolify]: https://github.com/coollabsio/coolify
+[typeorm/typeorm]: https://github.com/typeorm/typeorm
+[Nutlope/roomGPT]: https://github.com/Nutlope/roomGPT
 <!-- Python -->
 [microsoft/unilm]: https://github.com/microsoft/unilm
 [OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
@@ -866,6 +899,11 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [bigscience-workshop/petals]: https://github.com/bigscience-workshop/petals
 [ray-project/ray]: https://github.com/ray-project/ray
 [Azure/azure-sdk-for-python]: https://github.com/Azure/azure-sdk-for-python
+[AnTi-anti/damai_ticket]: https://github.com/AnTi-anti/damai_ticket
+[openai/openai-python]: https://github.com/openai/openai-python
+[nebuly-ai/nebullvm]: https://github.com/nebuly-ai/nebullvm
+[openai/openai-cookbook]: https://github.com/openai/openai-cookbook
+[centerofci/mathesar]: https://github.com/centerofci/mathesar
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -897,6 +935,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [google/osv-scanner]: https://github.com/google/osv-scanner
 [alist-org/alist]: https://github.com/alist-org/alist
 [adhocteam/pushup]: https://github.com/adhocteam/pushup
+[grafana/mimir]: https://github.com/grafana/mimir
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -927,6 +966,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [facebook/sapling]: https://github.com/facebook/sapling
 [MirrorX-Desktop/MirrorX]: https://github.com/MirrorX-Desktop/MirrorX
 [linebender/xilem]: https://github.com/linebender/xilem
+[pop-os/cosmic-text]: https://github.com/pop-os/cosmic-text
+[praetorian-inc/noseyparker]: https://github.com/praetorian-inc/noseyparker
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -941,6 +982,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
 [openai-php/laravel]: https://github.com/openai-php/laravel
+[ockeghem/badtodo]: https://github.com/ockeghem/badtodo
 <!-- C & C++ -->
 [exaloop/codon]: https://github.com/exaloop/codon
 [bytedance/sonic-cpp]: https://github.com/bytedance/sonic-cpp
@@ -961,6 +1003,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [ciniml/WireGuard-ESP32-Arduino]: https://github.com/ciniml/WireGuard-ESP32-Arduino
 [DarkFlippers/unleashed-firmware]:  https://github.com/DarkFlippers/unleashed-firmware
 [ocornut/imgui]: https://github.com/ocornut/imgui
+[FFmpeg/FFmpeg]: https://github.com/FFmpeg/FFmpeg
+[tenderlove/initial-v]: https://github.com/tenderlove/initial-v
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -987,6 +1031,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
+<!-- V -->
+[vlang/v]: https://github.com/vlang/v
 <!-- DevOps -->
 [vulhub/vulhub]: https://github.com/vulhub/vulhub
 <!-- CSS/Images -->
