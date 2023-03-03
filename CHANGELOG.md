@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
+
+## [v0.0.25: 2023-03-03][v0.0.25]
+
+- 내용 채워넣기
+
+---
 ## [v0.0.24: 2023-02-14][v0.0.24]
 
 - 내용 채워넣기
