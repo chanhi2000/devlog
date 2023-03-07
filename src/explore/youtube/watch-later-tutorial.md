@@ -88,173 +88,107 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "kavsoft", "swift", "
 | ❌ | <a href="https://www.youtube.com/watch?v=1hPgQWbWmEk"><img width="140px" height="auto" alt="thumb-1hPgQWbWmEk" src="https://i.ytimg.com/vi/1hPgQWbWmEk/hqdefault.jpg"/></a> | [Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course](https://www.youtube.com/watch?v=1hPgQWbWmEk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=0iB5IPoTDts"><img width="140px" height="auto" alt="thumb-0iB5IPoTDts" src="https://i.ytimg.com/vi/0iB5IPoTDts/hqdefault.jpg"/></a> | [Python Microservices Web App \(with React, Django, Flask\) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=oBt53YbR9Kk"><img width="140px" height="auto" alt="thumb-oBt53YbR9Kk" src="https://i.ytimg.com/vi/oBt53YbR9Kk/hqdefault.jpg"/></a> | [Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=8ext9G7xspg"><img width="140px" height="auto" alt="thumb-8ext9G7xspg" src="https://i.ytimg.com/vi/8ext9G7xspg/hqdefault.jpg"/></a> | [12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Qn5DDQn0fx0"><img width="140px" height="auto" alt="thumb-Qn5DDQn0fx0" src="https://i.ytimg.com/vi/Qn5DDQn0fx0/hqdefault.jpg"/></a> | [Training Deep Neural Networks on a GPU \| Deep Learning with PyTorch: Zero to GANs \| Part 3 of 6](https://www.youtube.com/watch?v=Qn5DDQn0fx0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Z63TxAJotgQ"><img width="140px" height="auto" alt="thumb-Z63TxAJotgQ" src="https://i.ytimg.com/vi/Z63TxAJotgQ/hqdefault.jpg"/></a> | [How to Find Freelance Jobs](https://www.youtube.com/watch?v=Z63TxAJotgQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=uuuzvOEC0zw"><img width="140px" height="auto" alt="thumb-uuuzvOEC0zw" src="https://i.ytimg.com/vi/uuuzvOEC0zw/hqdefault.jpg"/></a> | [PyTorch Images and Logistic Regression \| Deep Learning with PyTorch: Zero to GANs \| Part 2 of 6](https://www.youtube.com/watch?v=uuuzvOEC0zw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=F5mRW0jo-U4"><img width="140px" height="auto" alt="thumb-F5mRW0jo-U4" src="https://i.ytimg.com/vi/F5mRW0jo-U4/hqdefault.jpg"/></a> | [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=BfEjDD8mWYg"><img width="140px" height="auto" alt="thumb-BfEjDD8mWYg" src="https://i.ytimg.com/vi/BfEjDD8mWYg/hqdefault.jpg"/></a> | [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=UTQp6mvhb0Y"><img width="140px" height="auto" alt="thumb-UTQp6mvhb0Y" src="https://i.ytimg.com/vi/UTQp6mvhb0Y/hqdefault.jpg"/></a> | [Visual Studio Code Full Course - VS Code for Beginners](https://www.youtube.com/watch?v=UTQp6mvhb0Y) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=oXlwWbU8l2o"><img width="140px" height="auto" alt="thumb-oXlwWbU8l2o" src="https://i.ytimg.com/vi/oXlwWbU8l2o/hqdefault.jpg"/></a> | [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Bo0guUbL5uo"><img width="140px" height="auto" alt="thumb-Bo0guUbL5uo" src="https://i.ytimg.com/vi/Bo0guUbL5uo/hqdefault.jpg"/></a> | [Symfony PHP Framework Tutorial - Full Course](https://www.youtube.com/watch?v=Bo0guUbL5uo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Vl0H-qTclOg"><img width="140px" height="auto" alt="thumb-Vl0H-qTclOg" src="https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault.jpg"/></a> | [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo"><img width="140px" height="auto" alt="thumb-a_7Z7C_JCyo" src="https://i.ytimg.com/vi/a_7Z7C_JCyo/hqdefault.jpg"/></a> | [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fi2WkznwWbc"><img width="140px" height="auto" alt="thumb-fi2WkznwWbc" src="https://i.ytimg.com/vi/fi2WkznwWbc/hqdefault.jpg"/></a> | [Flutter App with Firebase Authentication and Firestore Tutorial - Crypto Wallet](https://www.youtube.com/watch?v=fi2WkznwWbc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=732DROaJMQc"><img width="140px" height="auto" alt="thumb-732DROaJMQc" src="https://i.ytimg.com/vi/732DROaJMQc/hqdefault.jpg"/></a> | [Refactoring Messy to Testable Code in .NET \(Part 5 - Magic Strings\)](https://www.youtube.com/watch?v=732DROaJMQc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=312RhjfetP8"><img width="140px" height="auto" alt="thumb-312RhjfetP8" src="https://i.ytimg.com/vi/312RhjfetP8/hqdefault.jpg"/></a> | [SQLite Database for Android - Full Course](https://www.youtube.com/watch?v=312RhjfetP8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=6ERdu4k62wI"><img width="140px" height="auto" alt="thumb-6ERdu4k62wI" src="https://i.ytimg.com/vi/6ERdu4k62wI/hqdefault.jpg"/></a> | [Use PHP to Create an MVC Framework - Full Course](https://www.youtube.com/watch?v=6ERdu4k62wI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=0oyCUWLL_fU"><img width="140px" height="auto" alt="thumb-0oyCUWLL_fU" src="https://i.ytimg.com/vi/0oyCUWLL_fU/hqdefault.jpg"/></a> | [Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard](https://www.youtube.com/watch?v=0oyCUWLL_fU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=n1mdAPFq2Os"><img width="140px" height="auto" alt="thumb-n1mdAPFq2Os" src="https://i.ytimg.com/vi/n1mdAPFq2Os/hqdefault.jpg"/></a> | [React / GraphQL Course - Build a social media app \(MERNG Stack\)](https://www.youtube.com/watch?v=n1mdAPFq2Os) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=xVA-gUk8-aM"><img width="140px" height="auto" alt="thumb-xVA-gUk8-aM" src="https://i.ytimg.com/vi/xVA-gUk8-aM/hqdefault.jpg"/></a> | [Reviewing Your Website Designs Live - with Gary Simon](https://www.youtube.com/watch?v=xVA-gUk8-aM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=yzeVMecydCE"><img width="140px" height="auto" alt="thumb-yzeVMecydCE" src="https://i.ytimg.com/vi/yzeVMecydCE/hqdefault.jpg"/></a> | [Complete Guide to Open Source - How to Contribute](https://www.youtube.com/watch?v=yzeVMecydCE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4UZrsTqkcW4"><img width="140px" height="auto" alt="thumb-4UZrsTqkcW4" src="https://i.ytimg.com/vi/4UZrsTqkcW4/hqdefault.jpg"/></a> | [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3hLmDS179YE"><img width="140px" height="auto" alt="thumb-3hLmDS179YE" src="https://i.ytimg.com/vi/3hLmDS179YE/hqdefault.jpg"/></a> | [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=aiTTClKJbnw"><img width="140px" height="auto" alt="thumb-aiTTClKJbnw" src="https://i.ytimg.com/vi/aiTTClKJbnw/hqdefault.jpg"/></a> | [Flutter Tutorial - Building a Production App From Scratch](https://www.youtube.com/watch?v=aiTTClKJbnw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=pN92rnO_n5U"><img width="140px" height="auto" alt="thumb-pN92rnO_n5U" src="https://i.ytimg.com/vi/pN92rnO_n5U/hqdefault.jpg"/></a> | [How to Design a Website – A UX Wireframe Tutorial](https://www.youtube.com/watch?v=pN92rnO_n5U) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4G_BzLxa9Nw"><img width="140px" height="auto" alt="thumb-4G_BzLxa9Nw" src="https://i.ytimg.com/vi/4G_BzLxa9Nw/hqdefault.jpg"/></a> | [Blazor Course - Use ASP.NET Core to Build Full-Stack C# Web Apps](https://www.youtube.com/watch?v=4G_BzLxa9Nw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2_lswM1S264"><img width="140px" height="auto" alt="thumb-2_lswM1S264" src="https://i.ytimg.com/vi/2_lswM1S264/hqdefault.jpg"/></a> | [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Pi46L7UYP8I"><img width="140px" height="auto" alt="thumb-Pi46L7UYP8I" src="https://i.ytimg.com/vi/Pi46L7UYP8I/hqdefault.jpg"/></a> | [ASP.NET Core MVC Course \(.NET 5\)](https://www.youtube.com/watch?v=Pi46L7UYP8I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=J01rYl9T3BU"><img width="140px" height="auto" alt="thumb-J01rYl9T3BU" src="https://i.ytimg.com/vi/J01rYl9T3BU/hqdefault.jpg"/></a> | [PERN Stack Course - Build a Yelp clone \(Postgres, Express, React, Node.js\)](https://www.youtube.com/watch?v=J01rYl9T3BU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ztHopE5Wnpc"><img width="140px" height="auto" alt="thumb-ztHopE5Wnpc" src="https://i.ytimg.com/vi/ztHopE5Wnpc/hqdefault.jpg"/></a> | [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=FGdiSJakIS4"><img width="140px" height="auto" alt="thumb-FGdiSJakIS4" src="https://i.ytimg.com/vi/FGdiSJakIS4/hqdefault.jpg"/></a> | [Network Programming with Python Course \(build a port scanner, mailing client, chat room, DDOS\)](https://www.youtube.com/watch?v=FGdiSJakIS4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=GhQdlIFylQ8"><img width="140px" height="auto" alt="thumb-GhQdlIFylQ8" src="https://i.ytimg.com/vi/GhQdlIFylQ8/hqdefault.jpg"/></a> | [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=btadke62pgQ"><img width="140px" height="auto" alt="thumb-btadke62pgQ" src="https://i.ytimg.com/vi/btadke62pgQ/hqdefault.jpg"/></a> | [Live Coding Project: Create an Hour Tracking App using Vue.js \(Part 2\) - with Gwen Faraday](https://www.youtube.com/watch?v=btadke62pgQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tPYj3fFJGjk"><img width="140px" height="auto" alt="thumb-tPYj3fFJGjk" src="https://i.ytimg.com/vi/tPYj3fFJGjk/hqdefault.jpg"/></a> | [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=JgwI22y_eFA"><img width="140px" height="auto" alt="thumb-JgwI22y_eFA" src="https://i.ytimg.com/vi/JgwI22y_eFA/hqdefault.jpg"/></a> | [Build an Online Store Using AWS, React, and Stripe](https://www.youtube.com/watch?v=JgwI22y_eFA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5VUjP1wMqoE"><img width="140px" height="auto" alt="thumb-5VUjP1wMqoE" src="https://i.ytimg.com/vi/5VUjP1wMqoE/hqdefault.jpg"/></a> | [Spring Boot Java Tutorial - REST API using PostgreSQL and JWT](https://www.youtube.com/watch?v=5VUjP1wMqoE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4UuMrebbwIo"><img width="140px" height="auto" alt="thumb-4UuMrebbwIo" src="https://i.ytimg.com/vi/4UuMrebbwIo/hqdefault.jpg"/></a> | [Python For Loops, Functions, and Random - Python Basics with Sam](https://www.youtube.com/watch?v=4UuMrebbwIo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=F2JCjVSZlG0"><img width="140px" height="auto" alt="thumb-F2JCjVSZlG0" src="https://i.ytimg.com/vi/F2JCjVSZlG0/hqdefault.jpg"/></a> | [React / Typescript Tutorial - Build a Quiz App](https://www.youtube.com/watch?v=F2JCjVSZlG0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=0b5T7wYDV5o"><img width="140px" height="auto" alt="thumb-0b5T7wYDV5o" src="https://i.ytimg.com/vi/0b5T7wYDV5o/hqdefault.jpg"/></a> | [Live Coding Project: Create a Drum Machine using Vue.js - with Gwen Faraday](https://www.youtube.com/watch?v=0b5T7wYDV5o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=qH9mWpYMtYU"><img width="140px" height="auto" alt="thumb-qH9mWpYMtYU" src="https://i.ytimg.com/vi/qH9mWpYMtYU/hqdefault.jpg"/></a> | [Build a Java Desktop Application - Full Course \(Sudoku\)](https://www.youtube.com/watch?v=qH9mWpYMtYU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=TQUy8ENesGY"><img width="140px" height="auto" alt="thumb-TQUy8ENesGY" src="https://i.ytimg.com/vi/TQUy8ENesGY/hqdefault.jpg"/></a> | [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=qFJeN9V1ZsI"><img width="140px" height="auto" alt="thumb-qFJeN9V1ZsI" src="https://i.ytimg.com/vi/qFJeN9V1ZsI/hqdefault.jpg"/></a> | [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Wvf0mBNGjXY"><img width="140px" height="auto" alt="thumb-Wvf0mBNGjXY" src="https://i.ytimg.com/vi/Wvf0mBNGjXY/hqdefault.jpg"/></a> | [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4"><img width="140px" height="auto" alt="thumb-3PHXvlpOkf4" src="https://i.ytimg.com/vi/3PHXvlpOkf4/hqdefault.jpg"/></a> | [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wEVjaXK4sYQ"><img width="140px" height="auto" alt="thumb-wEVjaXK4sYQ" src="https://i.ytimg.com/vi/wEVjaXK4sYQ/hqdefault.jpg"/></a> | [Learn React Native Gestures and Animations - Tutorial](https://www.youtube.com/watch?v=wEVjaXK4sYQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=U_EhnbpWhUQ"><img width="140px" height="auto" alt="thumb-U_EhnbpWhUQ" src="https://i.ytimg.com/vi/U_EhnbpWhUQ/hqdefault.jpg"/></a> | [License To Pentest: Ethical Hacking Course For Beginners](https://www.youtube.com/watch?v=U_EhnbpWhUQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ujbE0mzX-CU"><img width="140px" height="auto" alt="thumb-ujbE0mzX-CU" src="https://i.ytimg.com/vi/ujbE0mzX-CU/hqdefault.jpg"/></a> | [Learn the Svelte JavaScript Framework - Full Course](https://www.youtube.com/watch?v=ujbE0mzX-CU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=RGOj5yH7evk"><img width="140px" height="auto" alt="thumb-RGOj5yH7evk" src="https://i.ytimg.com/vi/RGOj5yH7evk/hqdefault.jpg"/></a> | [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fis26HvvDII"><img width="140px" height="auto" alt="thumb-fis26HvvDII" src="https://i.ytimg.com/vi/fis26HvvDII/hqdefault.jpg"/></a> | [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=X4eRbHgRawI"><img width="140px" height="auto" alt="thumb-X4eRbHgRawI" src="https://i.ytimg.com/vi/X4eRbHgRawI/hqdefault.jpg"/></a> | [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DKlTBBuc32c"><img width="140px" height="auto" alt="thumb-DKlTBBuc32c" src="https://i.ytimg.com/vi/DKlTBBuc32c/hqdefault.jpg"/></a> | [Spring Boot and Angular Tutorial - Build a Reddit Clone \(Coding Project\)](https://www.youtube.com/watch?v=DKlTBBuc32c) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=nN05TQ8vew8"><img width="140px" height="auto" alt="thumb-nN05TQ8vew8" src="https://i.ytimg.com/vi/nN05TQ8vew8/hqdefault.jpg"/></a> | [Project Euler Challenges 5–12 - Coding Challenges with Florin](https://www.youtube.com/watch?v=nN05TQ8vew8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=byHcYRpMgI4"><img width="140px" height="auto" alt="thumb-byHcYRpMgI4" src="https://i.ytimg.com/vi/byHcYRpMgI4/hqdefault.jpg"/></a> | [SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3Xc3CA655Y4"><img width="140px" height="auto" alt="thumb-3Xc3CA655Y4" src="https://i.ytimg.com/vi/3Xc3CA655Y4/hqdefault.jpg"/></a> | [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WjUdCdfJSMs"><img width="140px" height="auto" alt="thumb-WjUdCdfJSMs" src="https://i.ytimg.com/vi/WjUdCdfJSMs/hqdefault.jpg"/></a> | [Project Euler Challenges 1–4 - Coding Challenges with Florin](https://www.youtube.com/watch?v=WjUdCdfJSMs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2X6CXFcsktM"><img width="140px" height="auto" alt="thumb-2X6CXFcsktM" src="https://i.ytimg.com/vi/2X6CXFcsktM/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native \(Part 8\) - Live Coding with Jesse](https://www.youtube.com/watch?v=2X6CXFcsktM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=lhNdUVh3qCc"><img width="140px" height="auto" alt="thumb-lhNdUVh3qCc" src="https://i.ytimg.com/vi/lhNdUVh3qCc/hqdefault.jpg"/></a> | [Learn JavaScript by Building 7 Games - Full Course](https://www.youtube.com/watch?v=lhNdUVh3qCc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EUn-uAXAAF8"><img width="140px" height="auto" alt="thumb-EUn-uAXAAF8" src="https://i.ytimg.com/vi/EUn-uAXAAF8/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native \(Part 5\) - Live Coding with Jesse](https://www.youtube.com/watch?v=EUn-uAXAAF8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AwgRyJP7LHY"><img width="140px" height="auto" alt="thumb-AwgRyJP7LHY" src="https://i.ytimg.com/vi/AwgRyJP7LHY/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native \(Part 3\) - Live Coding with Jesse](https://www.youtube.com/watch?v=AwgRyJP7LHY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rPSL1alFIjI"><img width="140px" height="auto" alt="thumb-rPSL1alFIjI" src="https://i.ytimg.com/vi/rPSL1alFIjI/hqdefault.jpg"/></a> | [Functional Programming in Java - Full Course](https://www.youtube.com/watch?v=rPSL1alFIjI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_xkSvufmjEs"><img width="140px" height="auto" alt="thumb-_xkSvufmjEs" src="https://i.ytimg.com/vi/_xkSvufmjEs/hqdefault.jpg"/></a> | [Build and deploy a portfolio website \[Full Tutorial Course\]](https://www.youtube.com/watch?v=_xkSvufmjEs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=iEKdtB53IXs"><img width="140px" height="auto" alt="thumb-iEKdtB53IXs" src="https://i.ytimg.com/vi/iEKdtB53IXs/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native - Live Coding with Jesse](https://www.youtube.com/watch?v=iEKdtB53IXs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=B2q5cRJvqI8"><img width="140px" height="auto" alt="thumb-B2q5cRJvqI8" src="https://i.ytimg.com/vi/B2q5cRJvqI8/hqdefault.jpg"/></a> | [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=C5cnZ-gZy2I"><img width="140px" height="auto" alt="thumb-C5cnZ-gZy2I" src="https://i.ytimg.com/vi/C5cnZ-gZy2I/hqdefault.jpg"/></a> | [Learn ASP.NET Core 3.1 - Full Course for Beginners \[Tutorial\]](https://www.youtube.com/watch?v=C5cnZ-gZy2I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=comQ1-x2a1Q"><img width="140px" height="auto" alt="thumb-comQ1-x2a1Q" src="https://i.ytimg.com/vi/comQ1-x2a1Q/hqdefault.jpg"/></a> | [Swift Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=comQ1-x2a1Q) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=U3VSJhaC4kc"><img width="140px" height="auto" alt="thumb-U3VSJhaC4kc" src="https://i.ytimg.com/vi/U3VSJhaC4kc/hqdefault.jpg"/></a> | [AWS for Startups - Deploying with AWS Tutorial](https://www.youtube.com/watch?v=U3VSJhaC4kc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DLX62G4lc44"><img width="140px" height="auto" alt="thumb-DLX62G4lc44" src="https://i.ytimg.com/vi/DLX62G4lc44/hqdefault.jpg"/></a> | [Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fqMOX6JJhGo"><img width="140px" height="auto" alt="thumb-fqMOX6JJhGo" src="https://i.ytimg.com/vi/fqMOX6JJhGo/hqdefault.jpg"/></a> | [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=LsNW4FPHuZE"><img width="140px" height="auto" alt="thumb-LsNW4FPHuZE" src="https://i.ytimg.com/vi/LsNW4FPHuZE/hqdefault.jpg"/></a> | [Learn Unreal Engine \(with C++\) - Full Course for Beginners](https://www.youtube.com/watch?v=LsNW4FPHuZE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=lauywdXKEXI"><img width="140px" height="auto" alt="thumb-lauywdXKEXI" src="https://i.ytimg.com/vi/lauywdXKEXI/hqdefault.jpg"/></a> | [Plan, Code, and Deploy a Startup in 2 Hours \[Full Stack JavaScript Tutorial\]](https://www.youtube.com/watch?v=lauywdXKEXI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Iz08OTTjR04"><img width="140px" height="auto" alt="thumb-Iz08OTTjR04" src="https://i.ytimg.com/vi/Iz08OTTjR04/hqdefault.jpg"/></a> | [Android Development Course - Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=srvUrASNj0s"><img width="140px" height="auto" alt="thumb-srvUrASNj0s" src="https://i.ytimg.com/vi/srvUrASNj0s/hqdefault.jpg"/></a> | [Introduction To Responsive Web Design - HTML &amp; CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vtPkZShrvXQ"><img width="140px" height="auto" alt="thumb-vtPkZShrvXQ" src="https://i.ytimg.com/vi/vtPkZShrvXQ/hqdefault.jpg"/></a> | [Spring Boot Tutorial for Beginners \(Java Framework\)](https://www.youtube.com/watch?v=vtPkZShrvXQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=LXJOvkVYQqA"><img width="140px" height="auto" alt="thumb-LXJOvkVYQqA" src="https://i.ytimg.com/vi/LXJOvkVYQqA/hqdefault.jpg"/></a> | [In-Depth React Tutorial: Build a Hotel Reservation Site \(with Contentful and Netlify\)](https://www.youtube.com/watch?v=LXJOvkVYQqA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3Kq1MIfTWCE"><img width="140px" height="auto" alt="thumb-3Kq1MIfTWCE" src="https://i.ytimg.com/vi/3Kq1MIfTWCE/hqdefault.jpg"/></a> | [Full Ethical Hacking Course - Network Penetration Testing for Beginners \(2019\)](https://www.youtube.com/watch?v=3Kq1MIfTWCE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4z3EMCc4bP4"><img width="140px" height="auto" alt="thumb-4z3EMCc4bP4" src="https://i.ytimg.com/vi/4z3EMCc4bP4/hqdefault.jpg"/></a> | [Learn GraphQL with Laravel and Vue.js - Full Tutorial](https://www.youtube.com/watch?v=4z3EMCc4bP4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ipwxYa-F1uY"><img width="140px" height="auto" alt="thumb-ipwxYa-F1uY" src="https://i.ytimg.com/vi/ipwxYa-F1uY/hqdefault.jpg"/></a> | [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=I250xdtUvy8"><img width="140px" height="auto" alt="thumb-I250xdtUvy8" src="https://i.ytimg.com/vi/I250xdtUvy8/hqdefault.jpg"/></a> | [Intermediate React and Firebase Tutorial - Build an Evernote Clone](https://www.youtube.com/watch?v=I250xdtUvy8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=coQ5dg8wM2o"><img width="140px" height="auto" alt="thumb-coQ5dg8wM2o" src="https://i.ytimg.com/vi/coQ5dg8wM2o/hqdefault.jpg"/></a> | [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=lZAoFs75_cs"><img width="140px" height="auto" alt="thumb-lZAoFs75_cs" src="https://i.ytimg.com/vi/lZAoFs75_cs/hqdefault.jpg"/></a> | [Linux for Ethical Hackers \(Kali Linux Tutorial\)](https://www.youtube.com/watch?v=lZAoFs75_cs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_8V5o2UHG0E"><img width="140px" height="auto" alt="thumb-_8V5o2UHG0E" src="https://i.ytimg.com/vi/_8V5o2UHG0E/hqdefault.jpg"/></a> | [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=m_u6P5k0vP0"><img width="140px" height="auto" alt="thumb-m_u6P5k0vP0" src="https://i.ytimg.com/vi/m_u6P5k0vP0/hqdefault.jpg"/></a> | [Full Stack React &amp; Firebase Tutorial - Build a social media app](https://www.youtube.com/watch?v=m_u6P5k0vP0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=YS4e4q9oBaU"><img width="140px" height="auto" alt="thumb-YS4e4q9oBaU" src="https://i.ytimg.com/vi/YS4e4q9oBaU/hqdefault.jpg"/></a> | [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ImtZ5yENzgE"><img width="140px" height="auto" alt="thumb-ImtZ5yENzgE" src="https://i.ytimg.com/vi/ImtZ5yENzgE/hqdefault.jpg"/></a> | [Laravel PHP Framework Tutorial - Full Course for Beginners \(2019\)](https://www.youtube.com/watch?v=ImtZ5yENzgE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tvfeBLMA_Q4"><img width="140px" height="auto" alt="thumb-tvfeBLMA_Q4" src="https://i.ytimg.com/vi/tvfeBLMA_Q4/hqdefault.jpg"/></a> | [APIs in React Tutorial - Recipe App using React Router](https://www.youtube.com/watch?v=tvfeBLMA_Q4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZfQFUJhPqMM"><img width="140px" height="auto" alt="thumb-ZfQFUJhPqMM" src="https://i.ytimg.com/vi/ZfQFUJhPqMM/hqdefault.jpg"/></a> | [Learn Regular Expressions \(Regex\) - Crash Course for Beginners](https://www.youtube.com/watch?v=ZfQFUJhPqMM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wfWxdh-_k_4"><img width="140px" height="auto" alt="thumb-wfWxdh-_k_4" src="https://i.ytimg.com/vi/wfWxdh-_k_4/hqdefault.jpg"/></a> | [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=qw--VYLpxG4"><img width="140px" height="auto" alt="thumb-qw--VYLpxG4" src="https://i.ytimg.com/vi/qw--VYLpxG4/hqdefault.jpg"/></a> | [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4deVCNJq3qc"><img width="140px" height="auto" alt="thumb-4deVCNJq3qc" src="https://i.ytimg.com/vi/4deVCNJq3qc/hqdefault.jpg"/></a> | [Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=pexVpeGjoC8"><img width="140px" height="auto" alt="thumb-pexVpeGjoC8" src="https://i.ytimg.com/vi/pexVpeGjoC8/hqdefault.jpg"/></a> | [React Native Web Game Styles  \(P7D6\) - Live Coding with Jesse](https://www.youtube.com/watch?v=pexVpeGjoC8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4yqu8YF29cU"><img width="140px" height="auto" alt="thumb-4yqu8YF29cU" src="https://i.ytimg.com/vi/4yqu8YF29cU/hqdefault.jpg"/></a> | [MongoDB Full Tutorial w/ Node.js, Express, &amp; Mongoose](https://www.youtube.com/watch?v=4yqu8YF29cU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=QsmXlGCtjUk"><img width="140px" height="auto" alt="thumb-QsmXlGCtjUk" src="https://i.ytimg.com/vi/QsmXlGCtjUk/hqdefault.jpg"/></a> | [ASP.NET Core 2.0 Gallery App with Azure - Tutorial](https://www.youtube.com/watch?v=QsmXlGCtjUk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=KJgsSFOSQv0"><img width="140px" height="auto" alt="thumb-KJgsSFOSQv0" src="https://i.ytimg.com/vi/KJgsSFOSQv0/hqdefault.jpg"/></a> | [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=grEKMHGYyns"><img width="140px" height="auto" alt="thumb-grEKMHGYyns" src="https://i.ytimg.com/vi/grEKMHGYyns/hqdefault.jpg"/></a> | [Learn Java 8 - Full Tutorial for Beginners](https://www.youtube.com/watch?v=grEKMHGYyns) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rfscVS0vtbw"><img width="140px" height="auto" alt="thumb-rfscVS0vtbw" src="https://i.ytimg.com/vi/rfscVS0vtbw/hqdefault.jpg"/></a> | [Learn Python - Full Course for Beginners \[Tutorial\]](https://www.youtube.com/watch?v=rfscVS0vtbw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=m1_ih43p24s"><img width="140px" height="auto" alt="thumb-m1_ih43p24s" src="https://i.ytimg.com/vi/m1_ih43p24s/hqdefault.jpg"/></a> | [Build a Calculator with Vue.js](https://www.youtube.com/watch?v=m1_ih43p24s) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3LWgbjVWLug"><img width="140px" height="auto" alt="thumb-3LWgbjVWLug" src="https://i.ytimg.com/vi/3LWgbjVWLug/hqdefault.jpg"/></a> | [WebAssembly and the Death of JavaScript](https://www.youtube.com/watch?v=3LWgbjVWLug) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY"><img width="140px" height="auto" alt="thumb-HXV3zeQKqGY" src="https://i.ytimg.com/vi/HXV3zeQKqGY/hqdefault.jpg"/></a> | [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=RdRMNT-98Oo"><img width="140px" height="auto" alt="thumb-RdRMNT-98Oo" src="https://i.ytimg.com/vi/RdRMNT-98Oo/hqdefault.jpg"/></a> | [Why You Don't Need jQuery Anymore](https://www.youtube.com/watch?v=RdRMNT-98Oo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 
 :::
 
 <!-- FreeCodeCamp -->
-
----
-## Philipp Lackner
-
-[Philipp Lackner][yu-PhilippLackner]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=xRfE2n37pMM"><img width="140px" height="auto" alt="thumb-xRfE2n37pMM" src="https://i.ytimg.com/vi/xRfE2n37pMM/hqdefault.jpg"/></a> | [THIS Is How You Properly Debug Your Jetpack Compose UI - Android Studio Tutorial](https://www.youtube.com/watch?v=xRfE2n37pMM) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=byOmrmXG4yQ"><img width="140px" height="auto" alt="thumb-byOmrmXG4yQ" src="https://i.ytimg.com/vi/byOmrmXG4yQ/hqdefault.jpg"/></a> | [Convert Figma Designs to Jetpack Compose Code With This FREE Plugin 😱](https://www.youtube.com/watch?v=byOmrmXG4yQ) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xLtF89qMFEI"><img width="140px" height="auto" alt="thumb-xLtF89qMFEI" src="https://i.ytimg.com/vi/xLtF89qMFEI/hqdefault.jpg"/></a> | [How to Migrate Gradle Groovy to Gradle Kotlin DSL in Android Studio](https://www.youtube.com/watch?v=xLtF89qMFEI) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lHdhqk8Bft0"><img width="140px" height="auto" alt="thumb-lHdhqk8Bft0" src="https://i.ytimg.com/vi/lHdhqk8Bft0/hqdefault.jpg"/></a> | [How to Swipe & Refresh Your List in Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=lHdhqk8Bft0) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=dGu9m4LhYNM"><img width="140px" height="auto" alt="thumb-dGu9m4LhYNM" src="https://i.ytimg.com/vi/dGu9m4LhYNM/hqdefault.jpg"/></a> | [TOP 3 Mistakes With Jetpack Compose (Avoid at All Cost 😱)](https://www.youtube.com/watch?v=dGu9m4LhYNM) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BhyavkT2UO4"><img width="140px" height="auto" alt="thumb-BhyavkT2UO4" src="https://i.ytimg.com/vi/BhyavkT2UO4/hqdefault.jpg"/></a> | [How to Implement Date & Time Picker Dialogs in Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=BhyavkT2UO4) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7Wl-G8aXxDA"><img width="140px" height="auto" alt="thumb-7Wl-G8aXxDA" src="https://i.ytimg.com/vi/7Wl-G8aXxDA/hqdefault.jpg"/></a> | [Creating Your First Hello World KMM App (Kotlin Multiplatform Mobile) - KMM for Beginners](https://www.youtube.com/watch?v=7Wl-G8aXxDA) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TzV0oCRDNfM"><img width="140px" height="auto" alt="thumb-TzV0oCRDNfM" src="https://i.ytimg.com/vi/TzV0oCRDNfM/hqdefault.jpg"/></a> | [How to Observe Internet Connectivity in Android - Android Studio Tutorial](https://www.youtube.com/watch?v=TzV0oCRDNfM) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LP623htmWcI"><img width="140px" height="auto" alt="thumb-LP623htmWcI" src="https://i.ytimg.com/vi/LP623htmWcI/hqdefault.jpg"/></a> | [Local Notifications in Android - The Full Guide (Android Studio Tutorial)](https://www.youtube.com/watch?v=LP623htmWcI) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MfJB-JhRAoQ"><img width="140px" height="auto" alt="thumb-MfJB-JhRAoQ" src="https://i.ytimg.com/vi/MfJB-JhRAoQ/hqdefault.jpg"/></a> | [Full Guide to Delegation in Kotlin - Android Studio Tutorial](https://www.youtube.com/watch?v=MfJB-JhRAoQ) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cDane_13zQs"><img width="140px" height="auto" alt="thumb-cDane_13zQs" src="https://i.ytimg.com/vi/cDane_13zQs/hqdefault.jpg"/></a> | [My CI/CD Course is LIVE!](https://www.youtube.com/watch?v=cDane_13zQs) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VWlwkqmTLHc"><img width="140px" height="auto" alt="thumb-VWlwkqmTLHc" src="https://i.ytimg.com/vi/VWlwkqmTLHc/hqdefault.jpg"/></a> | [In-Depth Guide to Coroutine Cancellation & Exception Handling - Android Studio Tutorial](https://www.youtube.com/watch?v=VWlwkqmTLHc) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=eAbKK7JNxCE"><img width="140px" height="auto" alt="thumb-eAbKK7JNxCE" src="https://i.ytimg.com/vi/eAbKK7JNxCE/hqdefault.jpg"/></a> | [How to Build an MVI Clean Code Weather App in Android Studio (Jetpack Compose)](https://www.youtube.com/watch?v=eAbKK7JNxCE) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=O7rPeWnCvhc"><img width="140px" height="auto" alt="thumb-O7rPeWnCvhc" src="https://i.ytimg.com/vi/O7rPeWnCvhc/hqdefault.jpg"/></a> | [The Top 3 Clean Architecture Mistakes in Android](https://www.youtube.com/watch?v=O7rPeWnCvhc) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mWb_hEBLIqA"><img width="140px" height="auto" alt="thumb-mWb_hEBLIqA" src="https://i.ytimg.com/vi/mWb_hEBLIqA/hqdefault.jpg"/></a> | [THIS Is How You Schedule Alarms on Android with AlarmManager](https://www.youtube.com/watch?v=mWb_hEBLIqA) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UiQWb3T2G-U"><img width="140px" height="auto" alt="thumb-UiQWb3T2G-U" src="https://i.ytimg.com/vi/UiQWb3T2G-U/hqdefault.jpg"/></a> | [How to Execute Code When the Android Device Is Booting Up](https://www.youtube.com/watch?v=UiQWb3T2G-U) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ntlyrFw0F9U"><img width="140px" height="auto" alt="thumb-ntlyrFw0F9U" src="https://i.ytimg.com/vi/ntlyrFw0F9U/hqdefault.jpg"/></a> | [How to Create a Magic Text That Always Fits Its Container - Jetpack Compose Tutorial](https://www.youtube.com/watch?v=ntlyrFw0F9U) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qYzhqFdUEQg"><img width="140px" height="auto" alt="thumb-qYzhqFdUEQg" src="https://i.ytimg.com/vi/qYzhqFdUEQg/hqdefault.jpg"/></a> | [Let's Migrate an XML Project to Jetpack Compose!](https://www.youtube.com/watch?v=qYzhqFdUEQg) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BYGMO5OirbI"><img width="140px" height="auto" alt="thumb-BYGMO5OirbI" src="https://i.ytimg.com/vi/BYGMO5OirbI/hqdefault.jpg"/></a> | [Compose Live Edit?! 😍 - Philipp's Android News Google IO Special](https://www.youtube.com/watch?v=BYGMO5OirbI) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zu8lQSVw4vk"><img width="140px" height="auto" alt="thumb-zu8lQSVw4vk" src="https://i.ytimg.com/vi/zu8lQSVw4vk/hqdefault.jpg"/></a> | [How to Validate Forms with Clean Architecture \(You're Doing it Wrong\)](https://www.youtube.com/watch?v=zu8lQSVw4vk) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uLs2FxFSWU4"><img width="140px" height="auto" alt="thumb-uLs2FxFSWU4" src="https://i.ytimg.com/vi/uLs2FxFSWU4/hqdefault.jpg"/></a> | [How to Build a Clean Architecture Stock Market App 📈 \(Jetpack Compose, Caching, SOLID\)](https://www.youtube.com/watch?v=uLs2FxFSWU4) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=D6Eus3f6U9I"><img width="140px" height="auto" alt="thumb-D6Eus3f6U9I" src="https://i.ytimg.com/vi/D6Eus3f6U9I/hqdefault.jpg"/></a> | [How to Implement Pagination With Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=D6Eus3f6U9I) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gxWcfz3V2QE"><img width="140px" height="auto" alt="thumb-gxWcfz3V2QE" src="https://i.ytimg.com/vi/gxWcfz3V2QE/hqdefault.jpg"/></a> | [Full Guide to Jetpack Compose Effect Handlers](https://www.youtube.com/watch?v=gxWcfz3V2QE) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Iw4qFryus4Q"><img width="140px" height="auto" alt="thumb-Iw4qFryus4Q" src="https://i.ytimg.com/vi/Iw4qFryus4Q/hqdefault.jpg"/></a> | [How to Make a Stop Watch With Compose Desktop](https://www.youtube.com/watch?v=Iw4qFryus4Q) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=S61mXlMQkLY"><img width="140px" height="auto" alt="thumb-S61mXlMQkLY" src="https://i.ytimg.com/vi/S61mXlMQkLY/hqdefault.jpg"/></a> | [Clean Theming in Compose \(You're Doing It Wrong!\)](https://www.youtube.com/watch?v=S61mXlMQkLY) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rk6aKkWqqcI"><img width="140px" height="auto" alt="thumb-rk6aKkWqqcI" src="https://i.ytimg.com/vi/rk6aKkWqqcI/hqdefault.jpg"/></a> | [Unit Testing Flows - The Ultimate Guide to Kotlin Flows \(Part 4\)](https://www.youtube.com/watch?v=rk6aKkWqqcI) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IlIuBwXhb3Y"><img width="140px" height="auto" alt="thumb-IlIuBwXhb3Y" src="https://i.ytimg.com/vi/IlIuBwXhb3Y/hqdefault.jpg"/></a> | [How to Make a Chat App With Ktor - Building the Android App - Part 2](https://www.youtube.com/watch?v=IlIuBwXhb3Y) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pvNcJXprrKM"><img width="140px" height="auto" alt="thumb-pvNcJXprrKM" src="https://i.ytimg.com/vi/pvNcJXprrKM/hqdefault.jpg"/></a> | [How to Implement a Multi-Select LazyColumn in Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=pvNcJXprrKM) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ND56_94wxJY"><img width="140px" height="auto" alt="thumb-ND56_94wxJY" src="https://i.ytimg.com/vi/ND56_94wxJY/hqdefault.jpg"/></a> | [How to Send Push Notifications With OneSignal &amp; Ktor](https://www.youtube.com/watch?v=ND56_94wxJY) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=D09Y9wjkXfI"><img width="140px" height="auto" alt="thumb-D09Y9wjkXfI" src="https://i.ytimg.com/vi/D09Y9wjkXfI/hqdefault.jpg"/></a> | [Custom UI Component with Jetpack Compose &amp; Canvas \| Part #4 - Final Touch](https://www.youtube.com/watch?v=D09Y9wjkXfI) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8YPXv7xKh2w"><img width="140px" height="auto" alt="thumb-8YPXv7xKh2w" src="https://i.ytimg.com/vi/8YPXv7xKh2w/hqdefault.jpg"/></a> | [How to Make a Clean Architecture Note App \(MVVM / CRUD / Jetpack Compose\) - Android Studio Tutorial](https://www.youtube.com/watch?v=8YPXv7xKh2w) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=buZy3dtkr9o"><img width="140px" height="auto" alt="thumb-buZy3dtkr9o" src="https://i.ytimg.com/vi/buZy3dtkr9o/hqdefault.jpg"/></a> | [Save 1h a Week With These Android Studio Shortcuts](https://www.youtube.com/watch?v=buZy3dtkr9o) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qzzkui-Z6CM"><img width="140px" height="auto" alt="thumb-qzzkui-Z6CM" src="https://i.ytimg.com/vi/qzzkui-Z6CM/hqdefault.jpg"/></a> | [How to Make Your Code Clean With Kotlin Sealed Classes](https://www.youtube.com/watch?v=qzzkui-Z6CM) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cCIPYW_N12o"><img width="140px" height="auto" alt="thumb-cCIPYW_N12o" src="https://i.ytimg.com/vi/cCIPYW_N12o/hqdefault.jpg"/></a> | [Canvas Basics in Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=cCIPYW_N12o) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EF33KmyprEQ"><img width="140px" height="auto" alt="thumb-EF33KmyprEQ" src="https://i.ytimg.com/vi/EF33KmyprEQ/hqdefault.jpg"/></a> | [How to Make a Clean Architecture Cryptocurrency App \(MVVM, Use Cases, Compose\) - Android Studio](https://www.youtube.com/watch?v=EF33KmyprEQ) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aIGY1tWekGw"><img width="140px" height="auto" alt="thumb-aIGY1tWekGw" src="https://i.ytimg.com/vi/aIGY1tWekGw/hqdefault.jpg"/></a> | [Clean Architecture Social Network With Jetpack Compose - Twitch Recording](https://www.youtube.com/watch?v=aIGY1tWekGw) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=p-hTPeOIYsI"><img width="140px" height="auto" alt="thumb-p-hTPeOIYsI" src="https://i.ytimg.com/vi/p-hTPeOIYsI/hqdefault.jpg"/></a> | [MVVM Chat App with Stream - Introduction &amp; Login screen - Part 1](https://www.youtube.com/watch?v=p-hTPeOIYsI) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bgpyuuzMlo0"><img width="140px" height="auto" alt="thumb-bgpyuuzMlo0" src="https://i.ytimg.com/vi/bgpyuuzMlo0/hqdefault.jpg"/></a> | [Shrink, Optimize and Secure Your App With R8 &amp; ProGuard - Full Guide](https://www.youtube.com/watch?v=bgpyuuzMlo0) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Qk2mIpE_riY"><img width="140px" height="auto" alt="thumb-Qk2mIpE_riY" src="https://i.ytimg.com/vi/Qk2mIpE_riY/hqdefault.jpg"/></a> | [LiveData deprecated? - Full Guide to StateFlow](https://www.youtube.com/watch?v=Qk2mIpE_riY) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Kw4_i4l5y4s"><img width="140px" height="auto" alt="thumb-Kw4_i4l5y4s" src="https://i.ytimg.com/vi/Kw4_i4l5y4s/hqdefault.jpg"/></a> | [Instagram Profile UI in Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=Kw4_i4l5y4s) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WdQUDHOwlgE"><img width="140px" height="auto" alt="thumb-WdQUDHOwlgE" src="https://i.ytimg.com/vi/WdQUDHOwlgE/hqdefault.jpg"/></a> | [How to Make a 3D Animated Drop Down in Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=WdQUDHOwlgE) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2mKhmMrt2Ok"><img width="140px" height="auto" alt="thumb-2mKhmMrt2Ok" src="https://i.ytimg.com/vi/2mKhmMrt2Ok/hqdefault.jpg"/></a> | [How to Make a Timer in Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=2mKhmMrt2Ok) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=C-DYZopXH68"><img width="140px" height="auto" alt="thumb-C-DYZopXH68" src="https://i.ytimg.com/vi/C-DYZopXH68/hqdefault.jpg"/></a> | [Doodlekong With Programming YouTubers - only with tech words!](https://www.youtube.com/watch?v=C-DYZopXH68) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EeLz1DPMsW8"><img width="140px" height="auto" alt="thumb-EeLz1DPMsW8" src="https://i.ytimg.com/vi/EeLz1DPMsW8/hqdefault.jpg"/></a> | [How to Use Internal Storage \(Save, Load, Delete\) - Android Studio Tutorial](https://www.youtube.com/watch?v=EeLz1DPMsW8) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=dEASm7nv7DA"><img width="140px" height="auto" alt="thumb-dEASm7nv7DA" src="https://i.ytimg.com/vi/dEASm7nv7DA/hqdefault.jpg"/></a> | [Saving Files in External / Scoped Storage \(API 30+\) - Android Studio Tutorial](https://www.youtube.com/watch?v=dEASm7nv7DA) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xGbr9LOSbC0"><img width="140px" height="auto" alt="thumb-xGbr9LOSbC0" src="https://i.ytimg.com/vi/xGbr9LOSbC0/hqdefault.jpg"/></a> | [Testing Room Databases - Testing on Android - Part 6](https://www.youtube.com/watch?v=xGbr9LOSbC0) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UR-lrDimmPI"><img width="140px" height="auto" alt="thumb-UR-lrDimmPI" src="https://i.ytimg.com/vi/UR-lrDimmPI/hqdefault.jpg"/></a> | [Pokémon Detail Screen \(3\) - MVVM Pokédex App With Jetpack Compose - Part 9](https://www.youtube.com/watch?v=UR-lrDimmPI) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=trVmP1rw0uw"><img width="140px" height="auto" alt="thumb-trVmP1rw0uw" src="https://i.ytimg.com/vi/trVmP1rw0uw/hqdefault.jpg"/></a> | [Simple Animations - Android Jetpack Compose - Part 11](https://www.youtube.com/watch?v=trVmP1rw0uw) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cDabx3SjuOY"><img width="140px" height="auto" alt="thumb-cDabx3SjuOY" src="https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg"/></a> | [Creating Your First Jetpack Compose App - Android Jetpack Compose - Part 1](https://www.youtube.com/watch?v=cDabx3SjuOY) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XqkFTG10sRk"><img width="140px" height="auto" alt="thumb-XqkFTG10sRk" src="https://i.ytimg.com/vi/XqkFTG10sRk/hqdefault.jpg"/></a> | [Project Overview &amp; Architecture - MVVM Running App \(WITH DAGGER-HILT!\) - Part 1](https://www.youtube.com/watch?v=XqkFTG10sRk) <br/><br/> _[Philipp Lackner][yu-PhilippLackner]_ |
-
-:::
-
-<!-- Philipp Lackner -->
-
----
-
-## Stevdza-San
-
-[Stevdza-San][yu-Stevdza-San]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=oWs57Ox_8S4"><img width="140px" height="auto" alt="thumb-oWs57Ox_8S4" src="https://i.ytimg.com/vi/oWs57Ox_8S4/hqdefault.jpg"/></a> | [New Photo Picker on Android 13/API Level 33 - Backwards Compatible](https://www.youtube.com/watch?v=oWs57Ox_8S4) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JflJjPxhFQo"><img width="140px" height="auto" alt="thumb-JflJjPxhFQo" src="https://i.ytimg.com/vi/JflJjPxhFQo/hqdefault.jpg"/></a> | [SwiftUI App Intro Animation's - Walkthrough Page Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=JflJjPxhFQo) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=abthd7DOfdw"><img width="140px" height="auto" alt="thumb-abthd7DOfdw" src="https://i.ytimg.com/vi/abthd7DOfdw/hqdefault.jpg"/></a> | [New Splash API for Android in 60 seconds](https://www.youtube.com/watch?v=abthd7DOfdw) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=h_JYW2hdI8U"><img width="140px" height="auto" alt="thumb-h_JYW2hdI8U" src="https://i.ytimg.com/vi/h_JYW2hdI8U/hqdefault.jpg"/></a> | [Everything you need to Know about Material Design 3](https://www.youtube.com/watch?v=h_JYW2hdI8U) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QqcMKQgfzec"><img width="140px" height="auto" alt="thumb-QqcMKQgfzec" src="https://i.ytimg.com/vi/QqcMKQgfzec/hqdefault.jpg"/></a> | [Color Picker Component for Jetpack Compose | Android Studio Tutorial](https://www.youtube.com/watch?v=QqcMKQgfzec) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AMrYKkCd2Ck"><img width="140px" height="auto" alt="thumb-AMrYKkCd2Ck" src="https://i.ytimg.com/vi/AMrYKkCd2Ck/hqdefault.jpg"/></a> | [Android and Web App Development using the Backendless Platform | Online Course](https://www.youtube.com/watch?v=AMrYKkCd2Ck) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yJheLbxYd10"><img width="140px" height="auto" alt="thumb-yJheLbxYd10" src="https://i.ytimg.com/vi/yJheLbxYd10/hqdefault.jpg"/></a> | [Everything You Need to Know about `derivedStateOf()`](https://www.youtube.com/watch?v=yJheLbxYd10) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uAw87DdUnxg"><img width="140px" height="auto" alt="thumb-uAw87DdUnxg" src="https://i.ytimg.com/vi/uAw87DdUnxg/hqdefault.jpg"/></a> | [Implement Material 3 Date/Time Pickers with Jetpack Compose! - Android Studio Tutorial](https://www.youtube.com/watch?v=uAw87DdUnxg) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pqQkl9BInAw"><img width="140px" height="auto" alt="thumb-pqQkl9BInAw" src="https://i.ytimg.com/vi/pqQkl9BInAw/hqdefault.jpg"/></a> | [Return a value from a Kotlin Coroutine Scope - Explained](https://www.youtube.com/watch?v=pqQkl9BInAw) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JOgkUOOoWcs"><img width="140px" height="auto" alt="thumb-JOgkUOOoWcs" src="https://i.ytimg.com/vi/JOgkUOOoWcs/hqdefault.jpg"/></a> | [Let's Build a Web Browser with Jetpack Compose \| Android Studio Tutorial](https://www.youtube.com/watch?v=JOgkUOOoWcs) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UbuwxvwAB8Y"><img width="140px" height="auto" alt="thumb-UbuwxvwAB8Y" src="https://i.ytimg.com/vi/UbuwxvwAB8Y/hqdefault.jpg"/></a> | [Drawing on the Canvas with Jetpack Compose! 🎨](https://www.youtube.com/watch?v=UbuwxvwAB8Y) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ox9CLYai9yU"><img width="140px" height="auto" alt="thumb-ox9CLYai9yU" src="https://i.ytimg.com/vi/ox9CLYai9yU/hqdefault.jpg"/></a> | [Animated Selectable Item with Jetpack Compose \| Android Studio Tutorial](https://www.youtube.com/watch?v=ox9CLYai9yU) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=K099Vg6_t1o"><img width="140px" height="auto" alt="thumb-K099Vg6_t1o" src="https://i.ytimg.com/vi/K099Vg6_t1o/hqdefault.jpg"/></a> | [Change System Bar Colors in your App \| Android Studio Tutorial](https://www.youtube.com/watch?v=K099Vg6_t1o) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Z4W4aqXpE1w"><img width="140px" height="auto" alt="thumb-Z4W4aqXpE1w" src="https://i.ytimg.com/vi/Z4W4aqXpE1w/hqdefault.jpg"/></a> | [Build Modern Android App with REST API and Ktor Server \| Online Course](https://www.youtube.com/watch?v=Z4W4aqXpE1w) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=umCX1-Tq25k"><img width="140px" height="auto" alt="thumb-umCX1-Tq25k" src="https://i.ytimg.com/vi/umCX1-Tq25k/hqdefault.jpg"/></a> | [Expandable Floating Action Button - Android Studio Tutorial](https://www.youtube.com/watch?v=umCX1-Tq25k) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vmJFXmefBsM"><img width="140px" height="auto" alt="thumb-vmJFXmefBsM" src="https://i.ytimg.com/vi/vmJFXmefBsM/hqdefault.jpg"/></a> | [View Binding with RecyclerView Adapter - Android Studio Tutorial](https://www.youtube.com/watch?v=vmJFXmefBsM) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=glyqjzkc4fk"><img width="140px" height="auto" alt="thumb-glyqjzkc4fk" src="https://i.ytimg.com/vi/glyqjzkc4fk/hqdefault.jpg"/></a> | [Navigation Basics in Jetpack Compose](https://www.youtube.com/watch?v=glyqjzkc4fk) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=doGsRC2J1Fc"><img width="140px" height="auto" alt="thumb-doGsRC2J1Fc" src="https://i.ytimg.com/vi/doGsRC2J1Fc/hqdefault.jpg"/></a> | [Send Arguments between Screens \| Navigation in Jetpack Compose](https://www.youtube.com/watch?v=doGsRC2J1Fc) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=COZ3j8Dwlog"><img width="140px" height="auto" alt="thumb-COZ3j8Dwlog" src="https://i.ytimg.com/vi/COZ3j8Dwlog/hqdefault.jpg"/></a> | [ViewPager2 with Navigation Component - Onboarding Screens \| Android Studio Tutorial](https://www.youtube.com/watch?v=COZ3j8Dwlog) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Y6blcaWh23w"><img width="140px" height="auto" alt="thumb-Y6blcaWh23w" src="https://i.ytimg.com/vi/Y6blcaWh23w/hqdefault.jpg"/></a> | [Embedded Android Emulator \| Android Studio Tutorial](https://www.youtube.com/watch?v=Y6blcaWh23w) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TMaIMctI7oo"><img width="140px" height="auto" alt="thumb-TMaIMctI7oo" src="https://i.ytimg.com/vi/TMaIMctI7oo/hqdefault.jpg"/></a> | [Expandable Card with Animation - Jetpack Compose](https://www.youtube.com/watch?v=TMaIMctI7oo) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=B9YBvqw7CTU"><img width="140px" height="auto" alt="thumb-B9YBvqw7CTU" src="https://i.ytimg.com/vi/B9YBvqw7CTU/hqdefault.jpg"/></a> | [AutoCompleteTextView - Android Studio Tutorial](https://www.youtube.com/watch?v=B9YBvqw7CTU) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5rb4LdnuPtk"><img width="140px" height="auto" alt="thumb-5rb4LdnuPtk" src="https://i.ytimg.com/vi/5rb4LdnuPtk/hqdefault.jpg"/></a> | [Password Strength Calculator \| Android Studio Tutorial](https://www.youtube.com/watch?v=5rb4LdnuPtk) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ROkKPgXpd1Y"><img width="140px" height="auto" alt="thumb-ROkKPgXpd1Y" src="https://i.ytimg.com/vi/ROkKPgXpd1Y/hqdefault.jpg"/></a> | [Motion Layout in Action \| Android Studio Tutorial](https://www.youtube.com/watch?v=ROkKPgXpd1Y) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mD2y8lJN9J4"><img width="140px" height="auto" alt="thumb-mD2y8lJN9J4" src="https://i.ytimg.com/vi/mD2y8lJN9J4/hqdefault.jpg"/></a> | [Database Inspector - Live Database Tool \| Android Studio Tutorial](https://www.youtube.com/watch?v=mD2y8lJN9J4) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NRB2j6To0SI"><img width="140px" height="auto" alt="thumb-NRB2j6To0SI" src="https://i.ytimg.com/vi/NRB2j6To0SI/hqdefault.jpg"/></a> | [Text Selection - Jetpack Compose](https://www.youtube.com/watch?v=NRB2j6To0SI) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VeHPA0zvaZ8"><img width="140px" height="auto" alt="thumb-VeHPA0zvaZ8" src="https://i.ytimg.com/vi/VeHPA0zvaZ8/hqdefault.jpg"/></a> | [Get the Last Known Location - Fused Location Provider API \| Android Studio Tutorial](https://www.youtube.com/watch?v=VeHPA0zvaZ8) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=51fX94dU7Og"><img width="140px" height="auto" alt="thumb-51fX94dU7Og" src="https://i.ytimg.com/vi/51fX94dU7Og/hqdefault.jpg"/></a> | [Easy Permissions - Handle Runtime Permissions with Ease \| Android Studio Tutorial](https://www.youtube.com/watch?v=51fX94dU7Og) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GKOrG-bvPWo"><img width="140px" height="auto" alt="thumb-GKOrG-bvPWo" src="https://i.ytimg.com/vi/GKOrG-bvPWo/hqdefault.jpg"/></a> | [Build a Chat App using Stream Chat SDK for Android \| Part #3](https://www.youtube.com/watch?v=GKOrG-bvPWo) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OrkEONJa-BI"><img width="140px" height="auto" alt="thumb-OrkEONJa-BI" src="https://i.ytimg.com/vi/OrkEONJa-BI/hqdefault.jpg"/></a> | [View Binding Delegate \| Android Studio Tutorial](https://www.youtube.com/watch?v=OrkEONJa-BI) <br/><br/> _[Stevdza-San][yu-Stevdza-San]_ |
-
-:::
-
-<!-- Stevdza-San -->
-
----
-
-## CodingWithMitch
-
-[CodingWithMitch][yu-coding-w-mitch]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-
-Powerful Android Apps CLEAN Refactor
-EvYLJza-i74
-
-Android Google Maps with Jetpack Compose 2023
-hhSTYK7I78c
-
-Serve an XML or Compose UI at RUNTIME
-CWSeZqM_-6I
-
-Compose Navigation Animations \(NEW\)
-6JRYm39bpaA
-
-SEQUENTIAL Background Tasks with Kotlin Coroutines \(async and await\)
-AFKd3tN_p_c
-
-Google Maps is Tricky with Jetpack Compose \(VLOG\)
-J8OqN-JqWlQ
-
-RecyclerView and CardView for Jetpack Compose \(LazyColumn and Card\)
-hnNIX6dUPC8
-
-Is Kotlin Multiplatform Mobile Ready for Production?
-L8Xq15NTuCc
-
-Monitoring a Network Connection in Realtime with LiveData
-To9aHYD5OVk
-
-Unidirectional Data Flow and State Events \(A Taste of MVI\)
-itXnRFx4pHI
-
-Managing Snackbar's with Scaffold \(Jetpack Compose\)
-2FOShgaQk-I
-
-Next course will be MVVM Recipe App \(food2fork.ca\) with Jetpack Compose \(VLOG\)
-FT6k9SuYHKQ
-
-Animations Introduction \(Jetpack Compose\)
-zEnZYl39p8M
-
-Asynchronously Load Images with Jetpack Compose
-ktOWiLx83bQ
-
-:::
-
-<!-- CodingWithMitch -->
 
 ---
 
@@ -271,21 +205,11 @@ ktOWiLx83bQ
 | ❌ | <a href="https://www.youtube.com/watch?v=KfENDDEpCsI"><img width="140px" height="auto" alt="thumb-KfENDDEpCsI" src="https://i.ytimg.com/vi/KfENDDEpCsI/hqdefault.jpg"/></a> | [Vim As Your Editor - Vertical Movements](https://www.youtube.com/watch?v=KfENDDEpCsI) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=qZO9A5F6BZs"><img width="140px" height="auto" alt="thumb-qZO9A5F6BZs" src="https://i.ytimg.com/vi/qZO9A5F6BZs/hqdefault.jpg"/></a> | [Vim As You Editor - Advanced Motions P1](https://www.youtube.com/watch?v=qZO9A5F6BZs) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=bdumjiHabhQ"><img width="140px" height="auto" alt="thumb-bdumjiHabhQ" src="https://i.ytimg.com/vi/bdumjiHabhQ/hqdefault.jpg"/></a> | [My Developer Workflow - How I use i3, tmux, and vim](https://www.youtube.com/watch?v=bdumjiHabhQ) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-
-1,606,240% FASTER algorithm
-U16RnpV48KQ
-
-You only Git Merge?!? feat Theo : DevHour #1
-7gEbHsHXdn0
-
-Best Vim Motion in 20 Seconds
-uxMfvWPUThE
-
-React Is This Fast???
-461735zrjzY
-
-Git's Best And Most Unknown Feature
-2uEqYw-N8uE
+| ❌ | <a href="https://www.youtube.com/watch?v=U16RnpV48KQ"><img width="140px" height="auto" alt="thumb-U16RnpV48KQ" src="https://i.ytimg.com/vi/U16RnpV48KQ/hqdefault.jpg"/></a> | [1,606,240% FASTER algorithm](https://www.youtube.com/watch?v=U16RnpV48KQ) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=7gEbHsHXdn0"><img width="140px" height="auto" alt="thumb-7gEbHsHXdn0" src="https://i.ytimg.com/vi/7gEbHsHXdn0/hqdefault.jpg"/></a> | [You only Git Merge?!? feat Theo : DevHour #1](https://www.youtube.com/watch?v=7gEbHsHXdn0) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=uxMfvWPUThE"><img width="140px" height="auto" alt="thumb-uxMfvWPUThE" src="https://i.ytimg.com/vi/uxMfvWPUThE/hqdefault.jpg"/></a> | [Best Vim Motion in 20 Seconds](https://www.youtube.com/watch?v=uxMfvWPUThE) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=461735zrjzY"><img width="140px" height="auto" alt="thumb-461735zrjzY" src="https://i.ytimg.com/vi/461735zrjzY/hqdefault.jpg"/></a> | [React Is This Fast???](https://www.youtube.com/watch?v=461735zrjzY) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2uEqYw-N8uE"><img width="140px" height="auto" alt="thumb-2uEqYw-N8uE" src="https://i.ytimg.com/vi/2uEqYw-N8uE/hqdefault.jpg"/></a> | [Git's Best And Most Unknown Feature](https://www.youtube.com/watch?v=2uEqYw-N8uE) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 
 :::
 
@@ -306,21 +230,11 @@ Git's Best And Most Unknown Feature
 | ❌ | <a href="https://www.youtube.com/watch?v=urgi2iz9P6U"><img width="140px" height="auto" alt="thumb-urgi2iz9P6U" src="https://i.ytimg.com/vi/urgi2iz9P6U/hqdefault.jpg"/></a> | [🔴 Let's build a Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React) \| 2023](https://www.youtube.com/watch?v=urgi2iz9P6U) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=taPz40VmyzQ"><img width="140px" height="auto" alt="thumb-taPz40VmyzQ" src="https://i.ytimg.com/vi/taPz40VmyzQ/hqdefault.jpg"/></a> | [🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)](https://www.youtube.com/watch?v=taPz40VmyzQ) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=AkEnidfZnCU"><img width="140px" height="auto" alt="thumb-AkEnidfZnCU" src="https://i.ytimg.com/vi/AkEnidfZnCU/hqdefault.jpg"/></a> | [React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More) \[2022\]](https://www.youtube.com/watch?v=AkEnidfZnCU) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
-
-🔴 Let's build Hulu 2.0 with REACT.JS! \(Next.js, Tailwind CSS, Responsive\)
-MqDlsjc8GLo
-
-🔴 Let's build Uber 2.0 with REACT NATIVE! \(Navigation, Redux, Tailwind CSS &amp; Google Autocomplete\)
-bvn_HYpix6s
-
-🔴 Let's build Google Docs with REACT.JS! \(Next.js, Rich Text Editor, Tailwind CSS &amp; Firebase\)
-1ZdFJ0701QI
-
-🔴 Let's build SIGNAL with REACT NATIVE! \(Navigation, Expo &amp; Firebase\)
-MJzmZ9qmdaE
-
-🔴 NETFLIX REACT.JS Challenge \| Day 2 \(Complete Frontend &amp; API\)
-1TCw9wO1neA
+| ❌ | <a href="https://www.youtube.com/watch?v=MqDlsjc8GLo"><img width="140px" height="auto" alt="thumb-MqDlsjc8GLo" src="https://i.ytimg.com/vi/MqDlsjc8GLo/hqdefault.jpg"/></a> | [🔴 Let's build Hulu 2.0 with REACT.JS! \(Next.js, Tailwind CSS, Responsive\)](https://www.youtube.com/watch?v=MqDlsjc8GLo) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bvn_HYpix6s"><img width="140px" height="auto" alt="thumb-bvn_HYpix6s" src="https://i.ytimg.com/vi/bvn_HYpix6s/hqdefault.jpg"/></a> | [🔴 Let's build Uber 2.0 with REACT NATIVE! \(Navigation, Redux, Tailwind CSS &amp; Google Autocomplete\)](https://www.youtube.com/watch?v=bvn_HYpix6s) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1ZdFJ0701QI"><img width="140px" height="auto" alt="thumb-1ZdFJ0701QI" src="https://i.ytimg.com/vi/1ZdFJ0701QI/hqdefault.jpg"/></a> | [🔴 Let's build Google Docs with REACT.JS! \(Next.js, Rich Text Editor, Tailwind CSS &amp; Firebase\)](https://www.youtube.com/watch?v=1ZdFJ0701QI) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=MJzmZ9qmdaE"><img width="140px" height="auto" alt="thumb-MJzmZ9qmdaE" src="https://i.ytimg.com/vi/MJzmZ9qmdaE/hqdefault.jpg"/></a> | [🔴 Let's build SIGNAL with REACT NATIVE! \(Navigation, Expo &amp; Firebase\)](https://www.youtube.com/watch?v=MJzmZ9qmdaE) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1TCw9wO1neA"><img width="140px" height="auto" alt="thumb-1TCw9wO1neA" src="https://i.ytimg.com/vi/1TCw9wO1neA/hqdefault.jpg"/></a> | [🔴 NETFLIX REACT.JS Challenge \| Day 2 \(Complete Frontend &amp; API\)](https://www.youtube.com/watch?v=1TCw9wO1neA) <br/><br/> _[Sonny Sangha][yu-SonnySangha]_ |
 
 :::
 
@@ -361,84 +275,34 @@ MJzmZ9qmdaE
 | ❌ | <a href="https://www.youtube.com/watch?v=wV734HJbrpc"><img width="140px" height="auto" alt="thumb-wV734HJbrpc" src="https://i.ytimg.com/vi/wV734HJbrpc/hqdefault.jpg"/></a> | [🔴 Building the Pinterest Clone ReactJS Part 1 of 3 \| For Beginners](https://www.youtube.com/watch?v=wV734HJbrpc) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=NlGXFRpP5So"><img width="140px" height="auto" alt="thumb-NlGXFRpP5So" src="https://i.ytimg.com/vi/NlGXFRpP5So/hqdefault.jpg"/></a> | [🔴 Getting Started with Online Payments: Building a PayPal Checkout with ReactJS \(For Beginners\)](https://www.youtube.com/watch?v=NlGXFRpP5So) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ljuCH6_jrYE"><img width="140px" height="auto" alt="thumb-ljuCH6_jrYE" src="https://i.ytimg.com/vi/ljuCH6_jrYE/hqdefault.jpg"/></a> | [🔴 Building Google Drive with ReactJS &amp; Firebase \(For Beginners\)](https://www.youtube.com/watch?v=ljuCH6_jrYE) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=TxggrQ0nHjY"><img width="140px" height="auto" alt="thumb-TxggrQ0nHjY" src="https://i.ytimg.com/vi/TxggrQ0nHjY/hqdefault.jpg"/></a> | [🔴 Let's Build a Robinhood Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=TxggrQ0nHjY) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=KB7JEnfc7Dc"><img width="140px" height="auto" alt="thumb-KB7JEnfc7Dc" src="https://i.ytimg.com/vi/KB7JEnfc7Dc/hqdefault.jpg"/></a> | [🔴Full Stack React and Firebase Tutorial - Build a Facebook Messenger Clone](https://www.youtube.com/watch?v=KB7JEnfc7Dc) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=gLNIVdtaW3A"><img width="140px" height="auto" alt="thumb-gLNIVdtaW3A" src="https://i.ytimg.com/vi/gLNIVdtaW3A/hqdefault.jpg"/></a> | [🔴 Let’s Build Twitch Clone for Beginners with React](https://www.youtube.com/watch?v=gLNIVdtaW3A) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hggGvwA_tcc"><img width="140px" height="auto" alt="thumb-hggGvwA_tcc" src="https://i.ytimg.com/vi/hggGvwA_tcc/hqdefault.jpg"/></a> | [🔴 Let's build an app with REACT NATIVE! \(Qazi &amp; Sonny\)](https://www.youtube.com/watch?v=hggGvwA_tcc) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=-cMqr9HpZ-Y"><img width="140px" height="auto" alt="thumb--cMqr9HpZ-Y" src="https://i.ytimg.com/vi/-cMqr9HpZ-Y/hqdefault.jpg"/></a> | [React JS Tutorial for Beginners - Full Course in 12 Hours \[2021\]](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=S3ImBQOmt3Y"><img width="140px" height="auto" alt="thumb-S3ImBQOmt3Y" src="https://i.ytimg.com/vi/S3ImBQOmt3Y/hqdefault.jpg"/></a> | [🔴 Build a Facebook MERN Clone Backend for Beginners \(Focusing on Backend &amp; API Connection\)](https://www.youtube.com/watch?v=S3ImBQOmt3Y) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=kD1YokHMCHs"><img width="140px" height="auto" alt="thumb-kD1YokHMCHs" src="https://i.ytimg.com/vi/kD1YokHMCHs/hqdefault.jpg"/></a> | [🔴  Build a Facebook MERN Clone for Beginners \(REACT.JS\)](https://www.youtube.com/watch?v=kD1YokHMCHs) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=0i8zcnNLk20"><img width="140px" height="auto" alt="thumb-0i8zcnNLk20" src="https://i.ytimg.com/vi/0i8zcnNLk20/hqdefault.jpg"/></a> | [🔴 Profit with JavaScript price increases in 1 hour 🚀](https://www.youtube.com/watch?v=0i8zcnNLk20) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=COiyxEbZBiw"><img width="140px" height="auto" alt="thumb-COiyxEbZBiw" src="https://i.ytimg.com/vi/COiyxEbZBiw/hqdefault.jpg"/></a> | [🔴The Resume That Got Me Into Google and Microsoft \(software engineer resume tips\)](https://www.youtube.com/watch?v=COiyxEbZBiw) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=B6ay3jAZN5o"><img width="140px" height="auto" alt="thumb-B6ay3jAZN5o" src="https://i.ytimg.com/vi/B6ay3jAZN5o/hqdefault.jpg"/></a> | [🔴Build Amazon Clone w/ Full E-Commerce + Stripe using React JS for Beginners \(Challenge Day 3\)](https://www.youtube.com/watch?v=B6ay3jAZN5o) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=gzdQDxzW2Tw"><img width="140px" height="auto" alt="thumb-gzdQDxzW2Tw" src="https://i.ytimg.com/vi/gzdQDxzW2Tw/hqdefault.jpg"/></a> | [🔴 Build a Whatsapp Clone with MERN Stack \(MongoDB, Express, React, Node JS\)](https://www.youtube.com/watch?v=gzdQDxzW2Tw) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=du_FuBTrclo"><img width="140px" height="auto" alt="thumb-du_FuBTrclo" src="https://i.ytimg.com/vi/du_FuBTrclo/hqdefault.jpg"/></a> | [🔴  Let's Build a Hulu Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=du_FuBTrclo) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=w4JYe-oY4HI"><img width="140px" height="auto" alt="thumb-w4JYe-oY4HI" src="https://i.ytimg.com/vi/w4JYe-oY4HI/hqdefault.jpg"/></a> | [🔴  Code 10x Faster With This CRAZY New AI Tool \(GPT-3\)](https://www.youtube.com/watch?v=w4JYe-oY4HI) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=cF3pIMJUZxM"><img width="140px" height="auto" alt="thumb-cF3pIMJUZxM" src="https://i.ytimg.com/vi/cF3pIMJUZxM/hqdefault.jpg"/></a> | [🔴 Build a COVID-19 Tracker with REACT JS for Beginners \(React Hooks and Material UI\)](https://www.youtube.com/watch?v=cF3pIMJUZxM) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=NT299zIk2JY"><img width="140px" height="auto" alt="thumb-NT299zIk2JY" src="https://i.ytimg.com/vi/NT299zIk2JY/hqdefault.jpg"/></a> | [🔴 Let's Build a YouTube Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=NT299zIk2JY) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=GePLvNgWROg"><img width="140px" height="auto" alt="thumb-GePLvNgWROg" src="https://i.ytimg.com/vi/GePLvNgWROg/hqdefault.jpg"/></a> | [🔴 Let's Build a Tik Tok Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=GePLvNgWROg) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DQfeB_FKKkc"><img width="140px" height="auto" alt="thumb-DQfeB_FKKkc" src="https://i.ytimg.com/vi/DQfeB_FKKkc/hqdefault.jpg"/></a> | [🔴 Let's Build a TINDER Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=DQfeB_FKKkc) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=eiXdfA__N-M"><img width="140px" height="auto" alt="thumb-eiXdfA__N-M" src="https://i.ytimg.com/vi/eiXdfA__N-M/hqdefault.jpg"/></a> | [🔴 Quarantine JavaScript - 10 Things to Master to Get a Job](https://www.youtube.com/watch?v=eiXdfA__N-M) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=n8NyJxy27uk"><img width="140px" height="auto" alt="thumb-n8NyJxy27uk" src="https://i.ytimg.com/vi/n8NyJxy27uk/hqdefault.jpg"/></a> | [🔴 How to Make Money Coding with REACT JS](https://www.youtube.com/watch?v=n8NyJxy27uk) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=JT80XhYJdBw"><img width="140px" height="auto" alt="thumb-JT80XhYJdBw" src="https://i.ytimg.com/vi/JT80XhYJdBw/hqdefault.jpg"/></a> | [Python Django Tutorial 2020 - Full Course for Beginners](https://www.youtube.com/watch?v=JT80XhYJdBw) <br/><br/> _[Clever Programmer][yu-CleverProgrammer]_ |
 
 :::
 
+<!-- Clever Programmer -->
+
 
 ---
-## Amigoscode
-
-[Amigoscode][yu-amigoscode]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=9SGDpanrc8U"><img width="140px" height="auto" alt="thumb-9SGDpanrc8U" src="https://i.ytimg.com/vi/9SGDpanrc8U/hqdefault.jpg"/></a> | [Spring Boot Tutorial \| Full Course \[2022\] \[NEW\]](https://www.youtube.com/watch?v=9SGDpanrc8U) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-mwpoE0x0JQ"><img width="140px" height="auto" alt="thumb--mwpoE0x0JQ" src="https://i.ytimg.com/vi/-mwpoE0x0JQ/hqdefault.jpg"/></a> | [Spring Boot - Learn Spring Boot 3 (2 Hours)](https://www.youtube.com/watch?v=-mwpoE0x0JQ) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
-
-Oh Boy Look At These API Endpoints. Seriously
-WxZdK7YN8Fw
-
-Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation \[NEW\] \[2023\]
-KxqlJblhzfI
-
-Microservices using Spring Boot and Spring Cloud - HTTP Communication #2
-QWOgkI4DuE8
-
-FastAPI Tutorial - Building RESTful APIs with Python
-GN6ICac3OXY
-
-MongoDB Tutorial For Beginners \| Full Course
-Www6cTUymCY
-
-Spring Boot Tutorial - Spring Boot Actuator
-LQlypTjmgZM
-
-Software Testing Tutorial - Learn Unit Testing and Integration Testing
-Geq60OVyBPg
-
-Kubernetes Tutorial For Beginners - Learn Kubernetes
-yznvWW_L7AA
-
-Spring Boot Tutorial - Full Stack Web Development with React \[Course Overview\]
-xZq8wETULoM
-
-Java Tutorial - Complete User Login and Registration Backend + Email Verification
-QwQuro7ekvc
-
-Spring Boot Full Stack with Angular \| Full Course \[2021\] \[NEW\]
-Gx4iBLKLVHk
-
-Spring Boot Tutorial \| Spring Data JPA \| 2021
-8SGI_XS5OPw
-
-:::
-
-<!-- Amigoscode -->
-
----
-## Java Techie
-
-[Java Techie][yu-Javatechie]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=ceSqN3CWd14"><img width="140px" height="auto" alt="thumb-ceSqN3CWd14" src="https://i.ytimg.com/vi/ceSqN3CWd14/hqdefault.jpg"/></a> | [Creating SOAP Web Service with Spring Boot \| java Techie](https://www.youtube.com/watch?v=ceSqN3CWd14) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-6_9NxB9aVM"><img width="140px" height="auto" alt="thumb--6_9NxB9aVM" src="https://i.ytimg.com/vi/-6_9NxB9aVM/hqdefault.jpg"/></a> | [Restful Webservices using Spring with Hibernate \| Java Techie](https://www.youtube.com/watch?v=-6_9NxB9aVM) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WJg3NUwq6zU"><img width="140px" height="auto" alt="thumb-WJg3NUwq6zU" src="https://i.ytimg.com/vi/WJg3NUwq6zU/hqdefault.jpg"/></a> | [Consume Soap Webservices using WebServiceTemplate \| Spring Boot \| Java Techie](https://www.youtube.com/watch?v=WJg3NUwq6zU) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NaEk2zAmDE8"><img width="140px" height="auto" alt="thumb-NaEk2zAmDE8" src="https://i.ytimg.com/vi/NaEk2zAmDE8/hqdefault.jpg"/></a> | [Spring Boot Best Practices For Developers 👨‍💻 \| Productivity \| JavaTechie](https://www.youtube.com/watch?v=NaEk2zAmDE8) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=K48J7Ogxazc"><img width="140px" height="auto" alt="thumb-K48J7Ogxazc" src="https://i.ytimg.com/vi/K48J7Ogxazc/hqdefault.jpg"/></a> | [Spring Boot \| Dynamic Inserts & Updates With Spring Data JPA \| JavaTechie](https://www.youtube.com/watch?v=K48J7Ogxazc) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=P5sAaFY3O2w"><img width="140px" height="auto" alt="thumb-P5sAaFY3O2w" src="https://i.ytimg.com/vi/P5sAaFY3O2w/hqdefault.jpg"/></a> | [Spring Boot - Creating Custom Annotation For Validation \| InterviewQA \| JavaTechie](https://www.youtube.com/watch?v=P5sAaFY3O2w) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VO20SgiTTOU"><img width="140px" height="auto" alt="thumb-VO20SgiTTOU" src="https://i.ytimg.com/vi/VO20SgiTTOU/hqdefault.jpg"/></a> | [Spring Boot With Splunk Integration \| Realtime logs analysis using Splunk \| HEC \| JavaTechie](https://www.youtube.com/watch?v=VO20SgiTTOU) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XUL60-Ke-L8"><img width="140px" height="auto" alt="thumb-XUL60-Ke-L8" src="https://i.ytimg.com/vi/XUL60-Ke-L8/hqdefault.jpg"/></a> | [Spring Boot File Upload and Download REST API \| Spring Data JPA \| JavaTechie](https://www.youtube.com/watch?v=XUL60-Ke-L8) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wFpAw0bpzns"><img width="140px" height="auto" alt="thumb-wFpAw0bpzns" src="https://i.ytimg.com/vi/wFpAw0bpzns/hqdefault.jpg"/></a> | [Apache Camel + Spring Boot REST API \| Example \| Java Techie](https://www.youtube.com/watch?v=wFpAw0bpzns) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vBoOXP6BkDI"><img width="140px" height="auto" alt="thumb-vBoOXP6BkDI" src="https://i.ytimg.com/vi/vBoOXP6BkDI/hqdefault.jpg"/></a> | [Spring Boot With Splunk Integration \| Realtime logs analysis using Splunk \| HEC \| JavaTechie](https://www.youtube.com/watch?v=vBoOXP6BkDI) <br/><br/> _[Java Techie][yu-Javatechie]_ |
-
-::::
-
----
-## That DevOps Guys
+## That DevOps Guy
 
 [That DevOps Guy][yu-MarcelDempers]
 
@@ -448,87 +312,16 @@ Spring Boot Tutorial \| Spring Data JPA \| 2021
 | ❌ | <a href="https://www.youtube.com/watch?v=u0qtgUMLua0"><img width="140px" height="auto" alt="thumb-u0qtgUMLua0" src="https://i.ytimg.com/vi/u0qtgUMLua0/hqdefault.jpg"/></a> | [Storing Secrets in GIT \| GitOps \| Kubernetes](https://www.youtube.com/watch?v=u0qtgUMLua0) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=1zcXudjSVUs"><img width="140px" height="auto" alt="thumb-1zcXudjSVUs" src="https://i.ytimg.com/vi/1zcXudjSVUs/hqdefault.jpg"/></a> | [Understanding KUBECTL - Learning Kubernetes](https://www.youtube.com/watch?v=1zcXudjSVUs) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=_NtRkBipepg"><img width="140px" height="auto" alt="thumb-_NtRkBipepg" src="https://i.ytimg.com/vi/_NtRkBipepg/hqdefault.jpg"/></a> | [Introduction to Service monitors for beginners | Kubernetes monitoring](https://www.youtube.com/watch?v=_NtRkBipepg) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-
-Getting Started with EKS and Terraform
-Qy2A_yJH5-o
-
-Introduction to Linkerd for beginners \| a Service Mesh
-Hc-XFPHDDk4
-
-RabbitMQ : Message Queues for beginners
-hfUIWe1tK8E
-
-Making Kubernetes disappear with Shipa
-PW44JaAlI_8
-
-How to build a Kubernetes Webhook \| Admission controllers
-1mNYSn2KMZk
+| ❌ | <a href="https://www.youtube.com/watch?v=Qy2A_yJH5-o"><img width="140px" height="auto" alt="thumb-Qy2A_yJH5-o" src="https://i.ytimg.com/vi/Qy2A_yJH5-o/hqdefault.jpg"/></a> | [Getting Started with EKS and Terraform](https://www.youtube.com/watch?v=Qy2A_yJH5-o) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Hc-XFPHDDk4"><img width="140px" height="auto" alt="thumb-Hc-XFPHDDk4" src="https://i.ytimg.com/vi/Hc-XFPHDDk4/hqdefault.jpg"/></a> | [Introduction to Linkerd for beginners \| a Service Mesh](https://www.youtube.com/watch?v=Hc-XFPHDDk4) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hfUIWe1tK8E"><img width="140px" height="auto" alt="thumb-hfUIWe1tK8E" src="https://i.ytimg.com/vi/hfUIWe1tK8E/hqdefault.jpg"/></a> | [RabbitMQ : Message Queues for beginners](https://www.youtube.com/watch?v=hfUIWe1tK8E) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=PW44JaAlI_8"><img width="140px" height="auto" alt="thumb-PW44JaAlI_8" src="https://i.ytimg.com/vi/PW44JaAlI_8/hqdefault.jpg"/></a> | [Making Kubernetes disappear with Shipa](https://www.youtube.com/watch?v=PW44JaAlI_8) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1mNYSn2KMZk"><img width="140px" height="auto" alt="thumb-1mNYSn2KMZk" src="https://i.ytimg.com/vi/1mNYSn2KMZk/hqdefault.jpg"/></a> | [How to build a Kubernetes Webhook \| Admission controllers](https://www.youtube.com/watch?v=1mNYSn2KMZk) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=6kmHvXdAzIM"><img width="140px" height="auto" alt="thumb-6kmHvXdAzIM" src="https://i.ytimg.com/vi/6kmHvXdAzIM/hqdefault.jpg"/></a> | [Fluentd on Kubernetes: Log collection explained](https://www.youtube.com/watch?v=6kmHvXdAzIM) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
 
 :::
 
-
----
-## Mike Møller Nielsen
-
-[Mike Møller Nielsen][yu-mike-møller-nielsen]
-
-
-::: details 목록
-
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=7IoWwwcXMAU"><img width="140px" height="auto" alt="thumb-7IoWwwcXMAU" src="https://i.ytimg.com/vi/7IoWwwcXMAU/hqdefault.jpg"/></a> | [Jpa Manytomany Debugging](https://www.youtube.com/watch?v=7IoWwwcXMAU) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5lGVTU2bf1U"><img width="140px" height="auto" alt="thumb-5lGVTU2bf1U" src="https://i.ytimg.com/vi/5lGVTU2bf1U/hqdefault.jpg"/></a> | [Http Status Code 418](https://www.youtube.com/watch?v=5lGVTU2bf1U) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=s6MxctqfBWg"><img width="140px" height="auto" alt="thumb-s6MxctqfBWg" src="https://i.ytimg.com/vi/s6MxctqfBWg/hqdefault.jpg"/></a> | [Spring Boot 3 Http Interfaces](https://www.youtube.com/watch?v=s6MxctqfBWg) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HGuDWBuF4zA"><img width="140px" height="auto" alt="thumb-HGuDWBuF4zA" src="https://i.ytimg.com/vi/HGuDWBuF4zA/hqdefault.jpg"/></a> | [Cucumber DataTable](https://www.youtube.com/watch?v=HGuDWBuF4zA) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hDrkhQfH6Og"><img width="140px" height="auto" alt="thumb-hDrkhQfH6Og" src="https://i.ytimg.com/vi/hDrkhQfH6Og/hqdefault.jpg"/></a> | [K8 Best Practise Lint](https://www.youtube.com/watch?v=hDrkhQfH6Og) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YFLzB9xN83g"><img width="140px" height="auto" alt="thumb-YFLzB9xN83g" src="https://i.ytimg.com/vi/YFLzB9xN83g/hqdefault.jpg"/></a> | [Testcontainer Kafka](https://www.youtube.com/watch?v=YFLzB9xN83g) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mkdVgx0ylpU"><img width="140px" height="auto" alt="thumb-mkdVgx0ylpU" src="https://i.ytimg.com/vi/mkdVgx0ylpU/hqdefault.jpg"/></a> | [Spring Security 2022 Basic Auth](https://www.youtube.com/watch?v=mkdVgx0ylpU) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fl9pv_lZVmA"><img width="140px" height="auto" alt="thumb-fl9pv_lZVmA" src="https://i.ytimg.com/vi/fl9pv_lZVmA/hqdefault.jpg"/></a> | [Cucumber Test With Maven and Spring Boot](https://www.youtube.com/watch?v=fl9pv_lZVmA) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CoVEjA9E_Mo"><img width="140px" height="auto" alt="thumb-CoVEjA9E_Mo" src="https://i.ytimg.com/vi/CoVEjA9E_Mo/hqdefault.jpg"/></a> | [Spring Boot Dirties Context](https://www.youtube.com/watch?v=CoVEjA9E_Mo) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4BWJgK4CJDI"><img width="140px" height="auto" alt="thumb-4BWJgK4CJDI" src="https://i.ytimg.com/vi/4BWJgK4CJDI/hqdefault.jpg"/></a> | [Spring Boot JPA OneToOne Standard](https://www.youtube.com/watch?v=4BWJgK4CJDI) <br/><br/> _[Mike Møller Nielsen][yu-mike-møller-nielsen]_ |
-
-Jpa And Optional
-s_QbfTL3RRI
-
-JPA OneToMany JoinTable
-4xoZ0rsUwbc
-
-Kubernetes   Minikube And Kubectl
-F5rJgNh46Xk
-
-Scala   Spring Boot   Wsl   Intellij
-jQf3x3BFhDU
-
-Git Remove large files with BFG Repo Cleaner
-n6mzVlcdgos
-
-::::
-
----
-## 김기태의 JAVA를 자바
-
-[김기태의 JAVA를 자바][yu-java0405]
-::: details 목록
-
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=UxUF_9peVpA"><img width="140px" height="auto" alt="thumb-UxUF_9peVpA" src="https://i.ytimg.com/vi/UxUF_9peVpA/hqdefault.jpg"/></a> | [(2022년 2학기)스프링 부트 쇼핑몰 프로젝트15](https://www.youtube.com/watch?v=UxUF_9peVpA) <br/><br/> _[김기태의 JAVA를 자바][yu-java0405]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bDERi0U8dXA"><img width="140px" height="auto" alt="thumb-bDERi0U8dXA" src="https://i.ytimg.com/vi/bDERi0U8dXA/hqdefault.jpg"/></a> | [(2022년 2학기)스프링 부트 쇼핑몰 프로젝트16](https://www.youtube.com/watch?v=bDERi0U8dXA) <br/><br/> _[김기태의 JAVA를 자바][yu-java0405]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DzZc4EQVCeE"><img width="140px" height="auto" alt="thumb-DzZc4EQVCeE" src="https://i.ytimg.com/vi/DzZc4EQVCeE/hqdefault.jpg"/></a> | [(2022년 2학기)스프링 부트 쇼핑몰 프로젝트17](https://www.youtube.com/watch?v=DzZc4EQVCeE) <br/><br/> _[김기태의 JAVA를 자바][yu-java0405]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IbRKT1D5yV4"><img width="140px" height="auto" alt="thumb-IbRKT1D5yV4" src="https://i.ytimg.com/vi/IbRKT1D5yV4/hqdefault.jpg"/></a> | [(2022년 2학기)스프링 부트 쇼핑몰 프로젝트20](https://www.youtube.com/watch?v=IbRKT1D5yV4) <br/><br/> _[김기태의 JAVA를 자바][yu-java0405]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GP1sdX81MFc"><img width="140px" height="auto" alt="thumb-GP1sdX81MFc" src="https://i.ytimg.com/vi/GP1sdX81MFc/hqdefault.jpg"/></a> | [(2022년 2학기)스프링 부트 쇼핑몰 프로젝트22](https://www.youtube.com/watch?v=GP1sdX81MFc) <br/><br/> _[김기태의 JAVA를 자바][yu-java0405]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=njCsrBdZqv8"><img width="140px" height="auto" alt="thumb-njCsrBdZqv8" src="https://i.ytimg.com/vi/njCsrBdZqv8/hqdefault.jpg"/></a> | [(2022년 2학기)스프링 부트 쇼핑몰 프로젝트28](https://www.youtube.com/watch?v=njCsrBdZqv8) <br/><br/> _[김기태의 JAVA를 자바][yu-java0405]_ |
-
-Swing 6주차 4
-C32n7Do3BdU
-
-Swing 7주차 3
-P6wOCuoBuO4
-
-
-
-:::
+<!-- That DevOps Guy -->
 
 ---
 ## Simplilearn
@@ -546,48 +339,38 @@ P6wOCuoBuO4
 | ❌ | <a href="https://www.youtube.com/watch?v=TfHjkrzhvQc"><img width="140px" height="auto" alt="thumb-TfHjkrzhvQc" src="https://i.ytimg.com/vi/TfHjkrzhvQc/hqdefault.jpg"/></a> | [🔥Python Projects That Will Get You Hired as a Python Developer \| Python Projects 2022 \| Simplilearn](https://www.youtube.com/watch?v=TfHjkrzhvQc) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=z6EpJFMDpK8"><img width="140px" height="auto" alt="thumb-z6EpJFMDpK8" src="https://i.ytimg.com/vi/z6EpJFMDpK8/hqdefault.jpg"/></a> | [C# Assembly Tutorial \| What Is Assembly in C# \| Assembly in C# Explained \| C# Tutorial \| Simplilearn](https://www.youtube.com/watch?v=z6EpJFMDpK8) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Od1mocpoM90"><img width="140px" height="auto" alt="thumb-Od1mocpoM90" src="https://i.ytimg.com/vi/Od1mocpoM90/hqdefault.jpg"/></a> | [🔥Web Development Full Course \| HTML And CSS Full Course \| HTML Tutorial \| CSS Tutorial \| Simplilearn](https://www.youtube.com/watch?v=Od1mocpoM90) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-
-
-Advanced Excel Full Course 2023 \| Excel Tutorial For Beginners \| Excel Training \| Simplilearn
-8Ob8Hre_SnI
-
-🔥Career Information Session: Launching a Cybersecurity Career With Caltech CTME \| Simplilearn
-fpT-xEaJXug
-
-🔴 Build A Whatsapp Clone With React JS? \| WhatsApp Clone Using React JS \| Simplilearn
-e9RY66E8LeQ
-
-C# Delegates Explained \| C# Delegates And Events Tutorial \| C# Delegates Example \| Simplilearn
-vOlLd2SsKM4
-
-Kruskals Algorithm \| Kruskals Algorithm For Minimum Spanning Trees \| Data Structures \| Simplilearn
-XP9dOgM4ctQ
-
-NodeJS And MongoDB Full Course \| Node.js And MongoDB Tutorial For Beginners \| Simplilearn
-vHSLE0Vrv50
-
-UiPath Excel Automation Tutorial \| Excel Automation Using UiPath \| UiPath Tutorial \| Simplilearn
-2DtHyB0REQA
-
-Excel Gantt Chart Tutorial \| How To Make Gantt Chart In Excel \| Excel Tutorial \| Simplilearn
-ih2zpAwuPNI
-
-React JS Full Course \| React.js Full Tutorial \| Learn React.js \| ReactJS Training \| Simplilearn
-jC3r8x3og8w
-
-Azure Training \| Microsoft Azure Full Course \| Azure Tutorial For Beginners \| Simplilearn
-MbHa_62olY4
-
-Azure Full Course \| Azure Tutorial For Beginners \| Microsoft Azure Training \| Simplilearn
-OCvMUPMa_9o
-
-Spring Full Course - Learn Spring Framework In 3 Hours \| Spring Framework Tutorial \| Simplilearn
-j3byTqx7KDE
+| ❌ | <a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI"><img width="140px" height="auto" alt="thumb-8Ob8Hre_SnI" src="https://i.ytimg.com/vi/8Ob8Hre_SnI/hqdefault.jpg"/></a> | [Advanced Excel Full Course 2023 \| Excel Tutorial For Beginners \| Excel Training \| Simplilearn](https://www.youtube.com/watch?v=8Ob8Hre_SnI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fpT-xEaJXug"><img width="140px" height="auto" alt="thumb-fpT-xEaJXug" src="https://i.ytimg.com/vi/fpT-xEaJXug/hqdefault.jpg"/></a> | [🔥Career Information Session: Launching a Cybersecurity Career With Caltech CTME \| Simplilearn](https://www.youtube.com/watch?v=fpT-xEaJXug) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=e9RY66E8LeQ"><img width="140px" height="auto" alt="thumb-e9RY66E8LeQ" src="https://i.ytimg.com/vi/e9RY66E8LeQ/hqdefault.jpg"/></a> | [🔴 Build A Whatsapp Clone With React JS? \| WhatsApp Clone Using React JS \| Simplilearn](https://www.youtube.com/watch?v=e9RY66E8LeQ) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vOlLd2SsKM4"><img width="140px" height="auto" alt="thumb-vOlLd2SsKM4" src="https://i.ytimg.com/vi/vOlLd2SsKM4/hqdefault.jpg"/></a> | [C# Delegates Explained \| C# Delegates And Events Tutorial \| C# Delegates Example \| Simplilearn](https://www.youtube.com/watch?v=vOlLd2SsKM4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XP9dOgM4ctQ"><img width="140px" height="auto" alt="thumb-XP9dOgM4ctQ" src="https://i.ytimg.com/vi/XP9dOgM4ctQ/hqdefault.jpg"/></a> | [Kruskals Algorithm \| Kruskals Algorithm For Minimum Spanning Trees \| Data Structures \| Simplilearn](https://www.youtube.com/watch?v=XP9dOgM4ctQ) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vHSLE0Vrv50"><img width="140px" height="auto" alt="thumb-vHSLE0Vrv50" src="https://i.ytimg.com/vi/vHSLE0Vrv50/hqdefault.jpg"/></a> | [NodeJS And MongoDB Full Course \| Node.js And MongoDB Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=vHSLE0Vrv50) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2DtHyB0REQA"><img width="140px" height="auto" alt="thumb-2DtHyB0REQA" src="https://i.ytimg.com/vi/2DtHyB0REQA/hqdefault.jpg"/></a> | [UiPath Excel Automation Tutorial \| Excel Automation Using UiPath \| UiPath Tutorial \| Simplilearn](https://www.youtube.com/watch?v=2DtHyB0REQA) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ih2zpAwuPNI"><img width="140px" height="auto" alt="thumb-ih2zpAwuPNI" src="https://i.ytimg.com/vi/ih2zpAwuPNI/hqdefault.jpg"/></a> | [Excel Gantt Chart Tutorial \| How To Make Gantt Chart In Excel \| Excel Tutorial \| Simplilearn](https://www.youtube.com/watch?v=ih2zpAwuPNI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=jC3r8x3og8w"><img width="140px" height="auto" alt="thumb-jC3r8x3og8w" src="https://i.ytimg.com/vi/jC3r8x3og8w/hqdefault.jpg"/></a> | [React JS Full Course \| React.js Full Tutorial \| Learn React.js \| ReactJS Training \| Simplilearn](https://www.youtube.com/watch?v=jC3r8x3og8w) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=MbHa_62olY4"><img width="140px" height="auto" alt="thumb-MbHa_62olY4" src="https://i.ytimg.com/vi/MbHa_62olY4/hqdefault.jpg"/></a> | [Azure Training \| Microsoft Azure Full Course \| Azure Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=MbHa_62olY4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=OCvMUPMa_9o"><img width="140px" height="auto" alt="thumb-OCvMUPMa_9o" src="https://i.ytimg.com/vi/OCvMUPMa_9o/hqdefault.jpg"/></a> | [Azure Full Course \| Azure Tutorial For Beginners \| Microsoft Azure Training \| Simplilearn](https://www.youtube.com/watch?v=OCvMUPMa_9o) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=j3byTqx7KDE"><img width="140px" height="auto" alt="thumb-j3byTqx7KDE" src="https://i.ytimg.com/vi/j3byTqx7KDE/hqdefault.jpg"/></a> | [Spring Full Course - Learn Spring Framework In 3 Hours \| Spring Framework Tutorial \| Simplilearn](https://www.youtube.com/watch?v=j3byTqx7KDE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=X1VVdOHi8hk"><img width="140px" height="auto" alt="thumb-X1VVdOHi8hk" src="https://i.ytimg.com/vi/X1VVdOHi8hk/hqdefault.jpg"/></a> | [What is Apache Spark? \| Introduction to Apache Spark \| Apache Spark Certification \| Simplilearn](https://www.youtube.com/watch?v=X1VVdOHi8hk) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5KtRF4NuUWE"><img width="140px" height="auto" alt="thumb-5KtRF4NuUWE" src="https://i.ytimg.com/vi/5KtRF4NuUWE/hqdefault.jpg"/></a> | [DevOps Full Course \| Learn DevOps In 10 Hours \| DevOps Tutorial For Beginners \| DevOps \| Simplilearn](https://www.youtube.com/watch?v=5KtRF4NuUWE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=e6ntvZDErQ4"><img width="140px" height="auto" alt="thumb-e6ntvZDErQ4" src="https://i.ytimg.com/vi/e6ntvZDErQ4/hqdefault.jpg"/></a> | [Google Analytics Full Course  \[2023\] \| Google Analytics Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=e6ntvZDErQ4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EJwpULmBew8"><img width="140px" height="auto" alt="thumb-EJwpULmBew8" src="https://i.ytimg.com/vi/EJwpULmBew8/hqdefault.jpg"/></a> | [How To Get Traffic To Your Website \| Fastest Ways To Get Traffic To Your Website In 2020\|Simplilearn](https://www.youtube.com/watch?v=EJwpULmBew8) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=FX322RVNGj4"><img width="140px" height="auto" alt="thumb-FX322RVNGj4" src="https://i.ytimg.com/vi/FX322RVNGj4/hqdefault.jpg"/></a> | [Jenkins Full Course \| Jenkins Tutorial For Beginners \| Jenkins Tutorial \| Simplilearn](https://www.youtube.com/watch?v=FX322RVNGj4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Q3AZ28PntSI"><img width="140px" height="auto" alt="thumb-Q3AZ28PntSI" src="https://i.ytimg.com/vi/Q3AZ28PntSI/hqdefault.jpg"/></a> | [Selenium Webdriver Tutorial \| Selenium Tutorial For Beginners \| Selenium Training \| Simplilearn](https://www.youtube.com/watch?v=Q3AZ28PntSI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=mk2FBuTMwDc"><img width="140px" height="auto" alt="thumb-mk2FBuTMwDc" src="https://i.ytimg.com/vi/mk2FBuTMwDc/hqdefault.jpg"/></a> | [CI/CD Pipeline Using Jenkins \| Continuous Integration &amp; Continuous Deployment \| DevOps \| Simplilearn](https://www.youtube.com/watch?v=mk2FBuTMwDc) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=iYMtc8c945U"><img width="140px" height="auto" alt="thumb-iYMtc8c945U" src="https://i.ytimg.com/vi/iYMtc8c945U/hqdefault.jpg"/></a> | [Node.js MongoDB Tutorial \| NodeJS With MongoDB Tutorial For Beginners \| NodeJS Tutorial \|Simplilearn](https://www.youtube.com/watch?v=iYMtc8c945U) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=-5tA3hZTVfA"><img width="140px" height="auto" alt="thumb--5tA3hZTVfA" src="https://i.ytimg.com/vi/-5tA3hZTVfA/hqdefault.jpg"/></a> | [Maven And Jenkins Integration \| How To Integrate Maven With Jenkins \| Jenkins Pipeline \| Simplilearn](https://www.youtube.com/watch?v=-5tA3hZTVfA) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3OrEsC-QjUA"><img width="140px" height="auto" alt="thumb-3OrEsC-QjUA" src="https://i.ytimg.com/vi/3OrEsC-QjUA/hqdefault.jpg"/></a> | [Java JDBC tutorial \| Java Database Connectivity \| Java Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=3OrEsC-QjUA) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4EOaAkY4pNE"><img width="140px" height="auto" alt="thumb-4EOaAkY4pNE" src="https://i.ytimg.com/vi/4EOaAkY4pNE/hqdefault.jpg"/></a> | [AWS Autoscaling \| AWS Autoscaling And Load Balancing \| AWS Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=4EOaAkY4pNE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=-GsvomI4CCQ"><img width="140px" height="auto" alt="thumb--GsvomI4CCQ" src="https://i.ytimg.com/vi/-GsvomI4CCQ/hqdefault.jpg"/></a> | [Jenkins Pipeline Tutorial \| CI CD Pipeline using Jenkins \| Jenkins Tutorial \| Simplilearn](https://www.youtube.com/watch?v=-GsvomI4CCQ) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Jdkrj2lDAEY"><img width="140px" height="auto" alt="thumb-Jdkrj2lDAEY" src="https://i.ytimg.com/vi/Jdkrj2lDAEY/hqdefault.jpg"/></a> | [Selenium Tutorial For Beginners \| Selenium Full Course \| Selenium Webdriver Tutorial \| Simplilearn](https://www.youtube.com/watch?v=Jdkrj2lDAEY) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
 
 :::
 
+<!-- Simplilearn -->
 
 ---
+
 ## notJust.dev
 
 [notJust.dev][yu-notjustdev]
@@ -611,7 +394,7 @@ j3byTqx7KDE
 
 :::
 
-
+<!-- notJust.dev -->
 
 ---
 ## Derek Banas
@@ -623,9 +406,23 @@ j3byTqx7KDE
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=M5ugY7fWydE"><img width="140px" height="auto" alt="thumb-M5ugY7fWydE" src="https://i.ytimg.com/vi/M5ugY7fWydE/hqdefault.jpg"/></a> | [C# Full Course : C# Tutorial for Beginners](https://www.youtube.com/watch?v=M5ugY7fWydE) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ygL_xcavzQ4"><img width="140px" height="auto" alt="thumb-ygL_xcavzQ4" src="https://i.ytimg.com/vi/ygL_xcavzQ4/hqdefault.jpg"/></a> | [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3FkWddODLno"><img width="140px" height="auto" alt="thumb-3FkWddODLno" src="https://i.ytimg.com/vi/3FkWddODLno/hqdefault.jpg"/></a> | [Visual Basic Tutorial 2017](https://www.youtube.com/watch?v=3FkWddODLno) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=GGL6U0k8WYA"><img width="140px" height="auto" alt="thumb-GGL6U0k8WYA" src="https://i.ytimg.com/vi/GGL6U0k8WYA/hqdefault.jpg"/></a> | [Plotly Tutorial 2023](https://www.youtube.com/watch?v=GGL6U0k8WYA) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=8Y0qQEh7dJg"><img width="140px" height="auto" alt="thumb-8Y0qQEh7dJg" src="https://i.ytimg.com/vi/8Y0qQEh7dJg/hqdefault.jpg"/></a> | [NumPy Tutorial : Numpy Full Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=txGRU7OrTZo"><img width="140px" height="auto" alt="thumb-txGRU7OrTZo" src="https://i.ytimg.com/vi/txGRU7OrTZo/hqdefault.jpg"/></a> | [Qt Tutorial 2 : C++ Calculator](https://www.youtube.com/watch?v=txGRU7OrTZo) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=URtsnESYcPk"><img width="140px" height="auto" alt="thumb-URtsnESYcPk" src="https://i.ytimg.com/vi/URtsnESYcPk/hqdefault.jpg"/></a> | [iOS Development 2021 : Make an App in One Video](https://www.youtube.com/watch?v=URtsnESYcPk) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=NihZYkNpslE"><img width="140px" height="auto" alt="thumb-NihZYkNpslE" src="https://i.ytimg.com/vi/NihZYkNpslE/hqdefault.jpg"/></a> | [PHP Tutorial : PHP Full Course](https://www.youtube.com/watch?v=NihZYkNpslE) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=6y0bp-mnYU0"><img width="140px" height="auto" alt="thumb-6y0bp-mnYU0" src="https://i.ytimg.com/vi/6y0bp-mnYU0/hqdefault.jpg"/></a> | [C++ Tutorial : C++ Full Course](https://www.youtube.com/watch?v=6y0bp-mnYU0) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XqIk2PwP0To"><img width="140px" height="auto" alt="thumb-XqIk2PwP0To" src="https://i.ytimg.com/vi/XqIk2PwP0To/hqdefault.jpg"/></a> | [SQL Tutorial : SQL Full Course](https://www.youtube.com/watch?v=XqIk2PwP0To) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2DSx_QPTo3U"><img width="140px" height="auto" alt="thumb-2DSx_QPTo3U" src="https://i.ytimg.com/vi/2DSx_QPTo3U/hqdefault.jpg"/></a> | [JavaScript Tutorial 12 Doomsday Algorithm](https://www.youtube.com/watch?v=2DSx_QPTo3U) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=IyDVvGmzTlo"><img width="140px" height="auto" alt="thumb-IyDVvGmzTlo" src="https://i.ytimg.com/vi/IyDVvGmzTlo/hqdefault.jpg"/></a> | [JavaScript Tutorial &amp; Real JavaScript Projects](https://www.youtube.com/watch?v=IyDVvGmzTlo) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1MCW8pjYL3o"><img width="140px" height="auto" alt="thumb-1MCW8pjYL3o" src="https://i.ytimg.com/vi/1MCW8pjYL3o/hqdefault.jpg"/></a> | [React Setup MacOS](https://www.youtube.com/watch?v=1MCW8pjYL3o) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rk2zcyzeK3U"><img width="140px" height="auto" alt="thumb-rk2zcyzeK3U" src="https://i.ytimg.com/vi/rk2zcyzeK3U/hqdefault.jpg"/></a> | [Java JPA Maven Hibernate Tutorial](https://www.youtube.com/watch?v=rk2zcyzeK3U) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
 
 :::
 
+
+<!-- Derek Banas -->
 
 ---
 ## Kevin Powell
@@ -639,33 +436,26 @@ j3byTqx7KDE
 | ❌ | <a href="https://www.youtube.com/watch?v=jx4FtPlDXJg"><img width="140px" height="auto" alt="thumb-jx4FtPlDXJg" src="https://i.ytimg.com/vi/jx4FtPlDXJg/hqdefault.jpg"/></a> | [The thing people get wrong about flex-basis](https://www.youtube.com/watch?v=jx4FtPlDXJg) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=vHuSz4fRM88"><img width="140px" height="auto" alt="thumb-vHuSz4fRM88" src="https://i.ytimg.com/vi/vHuSz4fRM88/hqdefault.jpg"/></a> | [The secret to mastering CSS layouts](https://www.youtube.com/watch?v=vHuSz4fRM88) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=A0J-hB3kSQ4"><img width="140px" height="auto" alt="thumb-A0J-hB3kSQ4" src="https://i.ytimg.com/vi/A0J-hB3kSQ4/hqdefault.jpg"/></a> | [Can you beat me at a CSS Battle?](https://www.youtube.com/watch?v=A0J-hB3kSQ4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=I4gUvhG7uFU"><img width="140px" height="auto" alt="thumb-I4gUvhG7uFU" src="https://i.ytimg.com/vi/I4gUvhG7uFU/hqdefault.jpg"/></a> | [The problem with percentages in CSS](https://www.youtube.com/watch?v=I4gUvhG7uFU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ii-lSK2_Nu4"><img width="140px" height="auto" alt="thumb-ii-lSK2_Nu4" src="https://i.ytimg.com/vi/ii-lSK2_Nu4/hqdefault.jpg"/></a> | [The `console.log()` of css](https://www.youtube.com/watch?v=ii-lSK2_Nu4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=sI9p5EswxdQ"><img width="140px" height="auto" alt="thumb-sI9p5EswxdQ" src="https://i.ytimg.com/vi/sI9p5EswxdQ/hqdefault.jpg"/></a> | [How is this possible with only HTML &amp; CSS? \| Reacting to CSS-only art](https://www.youtube.com/watch?v=sI9p5EswxdQ) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=6Nv0weHy7t0"><img width="140px" height="auto" alt="thumb-6Nv0weHy7t0" src="https://i.ytimg.com/vi/6Nv0weHy7t0/hqdefault.jpg"/></a> | [4 ways to deal with overflowing text](https://www.youtube.com/watch?v=6Nv0weHy7t0) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rg7Fvvl3taU"><img width="140px" height="auto" alt="thumb-rg7Fvvl3taU" src="https://i.ytimg.com/vi/rg7Fvvl3taU/hqdefault.jpg"/></a> | [Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=CG__N4SS1Fc"><img width="140px" height="auto" alt="thumb-CG__N4SS1Fc" src="https://i.ytimg.com/vi/CG__N4SS1Fc/hqdefault.jpg"/></a> | [Front-end dev reacts to amazing CSS-only Codepens](https://www.youtube.com/watch?v=CG__N4SS1Fc) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2B5rbsOoIUE"><img width="140px" height="auto" alt="thumb-2B5rbsOoIUE" src="https://i.ytimg.com/vi/2B5rbsOoIUE/hqdefault.jpg"/></a> | [Front-end dev reacts to mind-blowing Codepens](https://www.youtube.com/watch?v=2B5rbsOoIUE) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vncch9-1kPE"><img width="140px" height="auto" alt="thumb-vncch9-1kPE" src="https://i.ytimg.com/vi/vncch9-1kPE/hqdefault.jpg"/></a> | [You can use Emmet with CSS!](https://www.youtube.com/watch?v=vncch9-1kPE) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vQAvjof1oe4"><img width="140px" height="auto" alt="thumb-vQAvjof1oe4" src="https://i.ytimg.com/vi/vQAvjof1oe4/hqdefault.jpg"/></a> | [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=PMGCOVfK-8s"><img width="140px" height="auto" alt="thumb-PMGCOVfK-8s" src="https://i.ytimg.com/vi/PMGCOVfK-8s/hqdefault.jpg"/></a> | [Create a pulsing animation with CSS](https://www.youtube.com/watch?v=PMGCOVfK-8s) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bB14uo0Tu5A"><img width="140px" height="auto" alt="thumb-bB14uo0Tu5A" src="https://i.ytimg.com/vi/bB14uo0Tu5A/hqdefault.jpg"/></a> | [Custom select menu - CSS only](https://www.youtube.com/watch?v=bB14uo0Tu5A) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=dgbFtMBOMlA"><img width="140px" height="auto" alt="thumb-dgbFtMBOMlA" src="https://i.ytimg.com/vi/dgbFtMBOMlA/hqdefault.jpg"/></a> | [The `ch` unit is the most underappreciated CSS unit](https://www.youtube.com/watch?v=dgbFtMBOMlA) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=U9VF-4euyRo"><img width="140px" height="auto" alt="thumb-U9VF-4euyRo" src="https://i.ytimg.com/vi/U9VF-4euyRo/hqdefault.jpg"/></a> | [`min()`, `max()`, and `clamp()` are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_kF3k0vDMNA"><img width="140px" height="auto" alt="thumb-_kF3k0vDMNA" src="https://i.ytimg.com/vi/_kF3k0vDMNA/hqdefault.jpg"/></a> | [Turning a design from desktop only to mobile friendly](https://www.youtube.com/watch?v=_kF3k0vDMNA) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=9tEixRJ3GeI"><img width="140px" height="auto" alt="thumb-9tEixRJ3GeI" src="https://i.ytimg.com/vi/9tEixRJ3GeI/hqdefault.jpg"/></a> | [Dealing with Cross Browser Compatibility](https://www.youtube.com/watch?v=9tEixRJ3GeI) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wPI8CEoheSk"><img width="140px" height="auto" alt="thumb-wPI8CEoheSk" src="https://i.ytimg.com/vi/wPI8CEoheSk/hqdefault.jpg"/></a> | [Using Feature Queries to use new CSS responsibly \(and when you don't need them\)](https://www.youtube.com/watch?v=wPI8CEoheSk) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wPI8CEoheSk"><img width="140px" height="auto" alt="thumb-wPI8CEoheSk" src="https://i.ytimg.com/vi/wPI8CEoheSk/hqdefault.jpg"></a> | [Using Feature Queries to use new CSS responsibly \(and when you don't need them\)](https://www.youtube.com/watch?v=wPI8CEoheSk) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
 
-The problem with percentages in CSS
-I4gUvhG7uFU
-
-The `console.log()` of css
-ii-lSK2_Nu4
-
-How is this possible with only HTML &amp; CSS? \| Reacting to CSS-only art
-sI9p5EswxdQ
-
-4 ways to deal with overflowing text
-6Nv0weHy7t0
-
-Learn CSS Grid the easy way
-rg7Fvvl3taU
-
-Front-end dev reacts to amazing CSS-only Codepens
-CG__N4SS1Fc
-
-Front-end dev reacts to mind-blowing Codepens
-2B5rbsOoIUE
-
-You can use Emmet with CSS!
-vncch9-1kPE
-
-Flexbox design patterns you can use in your projects
-vQAvjof1oe4
+Smooth scrolling with one line of CSS
+MNNr7TU7XcU
 
 :::
 
@@ -695,39 +485,22 @@ vQAvjof1oe4
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=7_MYowocn4s"><img width="140px" height="auto" alt="thumb-7_MYowocn4s" src="https://i.ytimg.com/vi/7_MYowocn4s/hqdefault.jpg"/></a> | [\[해킹\]xerosploit 으로 도스 공격해보기(dos)\[해킹\]xerosploit 으로 도스 공격해보기(dos)](https://www.youtube.com/watch?v=7_MYowocn4s) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1sFJ_qq5I_o"><img width="140px" height="auto" alt="thumb-1sFJ_qq5I_o" src="https://i.ytimg.com/vi/1sFJ_qq5I_o/hqdefault.jpg"/></a> | [\[해킹\]중간자공격!! 피해자가 다운로드 하는파일을 악성코드로 바꿔치기](https://www.youtube.com/watch?v=1sFJ_qq5I_o) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=k-2Nm_TDCSA"><img width="140px" height="auto" alt="thumb-k-2Nm_TDCSA" src="https://i.ytimg.com/vi/k-2Nm_TDCSA/hqdefault.jpg"/></a> | [\[해킹\]라우터 로그인 아이디패스워드 해킹하기(ettercap)](https://www.youtube.com/watch?v=k-2Nm_TDCSA) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=QiMzFgTL0Go"><img width="140px" height="auto" alt="thumb-QiMzFgTL0Go" src="https://i.ytimg.com/vi/QiMzFgTL0Go/hqdefault.jpg"/></a> | [\[해킹\]중간자공격 으로 E메일 계정 해킹 하기](https://www.youtube.com/watch?v=QiMzFgTL0Go) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=gFK6N59-kOs"><img width="140px" height="auto" alt="thumb-gFK6N59-kOs" src="https://i.ytimg.com/vi/gFK6N59-kOs/hqdefault.jpg"/></a> | [\[인스톨\]자동으로 취약점을 찾아내는 nessus 1편(설치 방법)](https://www.youtube.com/watch?v=gFK6N59-kOs) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=QqtQ9NVETkk"><img width="140px" height="auto" alt="thumb-QqtQ9NVETkk" src="https://i.ytimg.com/vi/QqtQ9NVETkk/hqdefault.jpg"/></a> | [\[해킹\]자동으로 취약점을 찾아내는 nessus 2편(사용 방법)](https://www.youtube.com/watch?v=QqtQ9NVETkk) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rr3520OXo7g"><img width="140px" height="auto" alt="thumb-rr3520OXo7g" src="https://i.ytimg.com/vi/rr3520OXo7g/hqdefault.jpg"/></a> | [\[해킹\]망가진 베일(Veil-Evasion)을 고쳐봅시다...(Pyinstaller fix)](https://www.youtube.com/watch?v=rr3520OXo7g) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=mugWbbPql7w"><img width="140px" height="auto" alt="thumb-mugWbbPql7w" src="https://i.ytimg.com/vi/mugWbbPql7w/hqdefault.jpg"/></a> | [\[해킹\]MyJsRat으로 자바스크립트 백도어 만들기](https://www.youtube.com/watch?v=mugWbbPql7w) <br/><br/> _[FENRIR][yu-fenrir]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XyHD94w7HMY"><img width="140px" height="auto" alt="thumb-XyHD94w7HMY" src="https://i.ytimg.com/vi/XyHD94w7HMY/hqdefault.jpg"/></a> | [\[인스톨\]mitmf 설치 방법 그리고 망가진 mitmf 고치는 방법 :)](https://www.youtube.com/watch?v=XyHD94w7HMY) <br/><br/> _[FENRIR][yu-fenrir]_ |
 
-\[해킹\]xerosploit 으로 도스 공격해보기(dos)\[해킹\]xerosploit 으로 도스 공격해보기(dos)
-7_MYowocn4s
-
-\[해킹\]중간자공격!! 피해자가 다운로드 하는파일을 악성코드로 바꿔치기
-1sFJ_qq5I_o
-
-\[해킹\]라우터 로그인 아이디패스워드 해킹하기(ettercap)
-k-2Nm_TDCSA
-
-\[해킹\]중간자공격 으로 E메일 계정 해킹 하기
-QiMzFgTL0Go
-
-\[인스톨\]자동으로 취약점을 찾아내는 nessus 1편(설치 방법)
-gFK6N59-kOs
-
-\[해킹\]자동으로 취약점을 찾아내는 nessus 2편(사용 방법)
-QqtQ9NVETkk
-
-\[해킹\]망가진 베일(Veil-Evasion)을 고쳐봅시다...(Pyinstaller fix)
-rr3520OXo7g
-
-\[해킹\]MyJsRat으로 자바스크립트 백도어 만들기
-mugWbbPql7w
-
-\[인스톨\]mitmf 설치 방법 그리고 망가진 mitmf 고치는 방법 :)
-XyHD94w7HMY
 
 :::
 
 ## 인프런 inflearn
 
-[인프런 inflearn][yu-inflearn]@inflearn9845
+[인프런 inflearn][yu-inflearn]
 
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
@@ -735,7 +508,6 @@ XyHD94w7HMY
 
 Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 \| 인프콘 2022
 K1lKgxeXDrs
-           인프런 inflearn
 
 승리하는 제안서 강의소개│인프런 \| 미리보기 \| 제안서 PM
 iEGDEdivaGA
@@ -755,17 +527,10 @@ iEGDEdivaGA
 <TagLinks />
 
 [yu-freecodecamp]: https://www.youtube.com/@freecodecamp
-[yu-PhilippLackner]: https://www.youtube.com/@PhilippLackner
-[yu-Stevdza-San]: https://www.youtube.com/@StevdzaSan
-[yu-coding-w-mitch]: https://www.youtube.com/@codingwithmitch
 [yu-theprimeagen]: https://www.youtube.com/@ThePrimeagen
 [yu-SonnySangha]: https://www.youtube.com/@SonnySangha
 [yu-CleverProgrammer]:https://www.youtube.com/@CleverProgrammer
-[yu-amigoscode]: https://www.youtube.com/@amigoscode
-[yu-Javatechie]: https://www.youtube.com/@Javatechie
 [yu-MarcelDempers]: https://www.youtube.com/@MarcelDempers
-[yu-mike-møller-nielsen]: https://www.youtube.com/@MikesTechCorner
-[yu-java0405]: https://www.youtube.com/@java0405
 [yu-simplilearn]: https://www.youtube.com/@SimplilearnOfficial
 [yu-notjustdev]: https://www.youtube.com/@notjustdev
 [yu-DEvS]: https://www.youtube.com/@jimmykimu
