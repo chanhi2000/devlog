@@ -34,7 +34,15 @@ tags: ["education", "youtube", "programming", "ios", "xcode"]
 | ❌ | <a href="https://www.youtube.com/watch?v=0NYABXvoyRA"><img width="140px" height="auto" alt="thumb-0NYABXvoyRA" src="https://i.ytimg.com/vi/0NYABXvoyRA/hqdefault.jpg"/></a> | [NEW COURSE: Test Driven Development in iOS Using Swift](https://www.youtube.com/watch?v=0NYABXvoyRA) <br/><br/> _[azamsharp][yu-azamsharp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=4Rxuc4BcW8o"><img width="140px" height="auto" alt="thumb-4Rxuc4BcW8o" src="https://i.ytimg.com/vi/4Rxuc4BcW8o/hqdefault.jpg"/></a> | [Creating and Publishing Swift Packages \(Swift Package Manager\)](https://www.youtube.com/watch?v=4Rxuc4BcW8o) <br/><br/> _[azamsharp][yu-azamsharp]_ |
 
+Building Chat Bubbles in SwiftUI
+qOMWbUZk5lY
+
+Building a ChatGPT macOS Toolbar App Using SwiftUI
+v6SMV_TUOJk
+
 :::
+
+<!-- azamsharp -->
 
 ---
 ## iOS Academy
@@ -48,9 +56,16 @@ tags: ["education", "youtube", "programming", "ios", "xcode"]
 | ❌ | <a href="https://www.youtube.com/watch?v=cL7do29XChM"><img width="140px" height="auto" alt="thumb-cL7do29XChM" src="https://i.ytimg.com/vi/cL7do29XChM/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 20 \(Rick &amp; Morty \| 2023\) – Fetch Episodes](https://www.youtube.com/watch?v=cL7do29XChM) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=MuhUzpf2zhI"><img width="140px" height="auto" alt="thumb-MuhUzpf2zhI" src="https://i.ytimg.com/vi/MuhUzpf2zhI/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 19 \(Rick &amp; Morty \| 2023\) – Character Info ViewModel](https://www.youtube.com/watch?v=MuhUzpf2zhI) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=5LKbL-I-CYY"><img width="140px" height="auto" alt="thumb-5LKbL-I-CYY" src="https://i.ytimg.com/vi/5LKbL-I-CYY/hqdefault.jpg"/></a> | [Swift: Actors Introduction \(2023, Xcode 13\) - iOS](https://www.youtube.com/watch?v=5LKbL-I-CYY) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tqVB0qgS2o4"><img width="140px" height="auto" alt="thumb-tqVB0qgS2o4" src="https://i.ytimg.com/vi/tqVB0qgS2o4/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 51 (Rick &amp; Morty \| 2023) – Location Pagination](https://www.youtube.com/watch?v=tqVB0qgS2o4) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Y6njyj-9kns"><img width="140px" height="auto" alt="thumb-Y6njyj-9kns" src="https://i.ytimg.com/vi/Y6njyj-9kns/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 52 (Rick &amp; Morty \| 2023) – Location Pagination Update + Devices](https://www.youtube.com/watch?v=Y6njyj-9kns) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=O4KZk5Bj_Sk"><img width="140px" height="auto" alt="thumb-O4KZk5Bj_Sk" src="https://i.ytimg.com/vi/O4KZk5Bj_Sk/hqdefault.jpg"/></a> | [StaticString Type in Swift Explained (2023) - iOS Tip](https://www.youtube.com/watch?v=O4KZk5Bj_Sk) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XR-fH4sorGY"><img width="140px" height="auto" alt="thumb-XR-fH4sorGY" src="https://i.ytimg.com/vi/XR-fH4sorGY/hqdefault.jpg"/></a> | [Better Optionals Usage – Swift Tip (iOS) – 2023](https://www.youtube.com/watch?v=XR-fH4sorGY) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EZ5iqtjXGBE"><img width="140px" height="auto" alt="thumb-EZ5iqtjXGBE" src="https://i.ytimg.com/vi/EZ5iqtjXGBE/hqdefault.jpg"/></a> | [Factory Design Pattern in Swift &amp; iOS (2023)](https://www.youtube.com/watch?v=EZ5iqtjXGBE) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
 
 
 :::
+
+<!-- iOS Academy -->
 
 ---
 ## Kavsoft
@@ -121,6 +136,11 @@ tags: ["education", "youtube", "programming", "ios", "xcode"]
 | ❌ | <a href="https://www.youtube.com/watch?v=OpxFAzgmlK4"><img width="140px" height="auto" alt="thumb-OpxFAzgmlK4" src="https://i.ytimg.com/vi/OpxFAzgmlK4/hqdefault.jpg"/></a> | [How to Create Widgets For iOS 14 Using SwiftUI 2.0 - SwiftUI WidgetKit - WWDC 2020 SwiftUI Tutorials](https://www.youtube.com/watch?v=OpxFAzgmlK4) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=mRk0F1Ii718"><img width="140px" height="auto" alt="thumb-mRk0F1Ii718" src="https://i.ytimg.com/vi/mRk0F1Ii718/hqdefault.jpg"/></a> | [SwiftUI MVVM Design Pattern - SwiftUI Tutorials](https://www.youtube.com/watch?v=mRk0F1Ii718) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=iIofrIyhuaE"><img width="140px" height="auto" alt="thumb-iIofrIyhuaE" src="https://i.ytimg.com/vi/iIofrIyhuaE/hqdefault.jpg"/></a> | [Instagram UI Re-Design Using SwiftUI - SwiftUI Complex UI's - SwiftUI Tutorials](https://www.youtube.com/watch?v=iIofrIyhuaE) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_KohThDWl5Y"><img width="140px" height="auto" alt="thumb-_KohThDWl5Y" src="https://i.ytimg.com/vi/_KohThDWl5Y/hqdefault.jpg"/></a> | [SwiftUI Bottom Sheet Animation like Apple Music App - Matched Geometry - Complex UI - Xcode 14](https://www.youtube.com/watch?v=_KohThDWl5Y) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=W-uSGXhuFHY"><img width="140px" height="auto" alt="thumb-W-uSGXhuFHY" src="https://i.ytimg.com/vi/W-uSGXhuFHY/hqdefault.jpg"/></a> | [SwiftUI Auto Scrolling Tab Indicators - Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=W-uSGXhuFHY) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4zyuGXTyZ80"><img width="140px" height="auto" alt="thumb-4zyuGXTyZ80" src="https://i.ytimg.com/vi/4zyuGXTyZ80/hqdefault.jpg"/></a> | [Animated Custom Tab Bar - PlayStation App's Tabbar Using SwiftUI - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=4zyuGXTyZ80) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZiDVbDlHDF0"><img width="140px" height="auto" alt="thumb-ZiDVbDlHDF0" src="https://i.ytimg.com/vi/ZiDVbDlHDF0/hqdefault.jpg"/></a> | [SwiftUI Snap Interval Carousel - Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=ZiDVbDlHDF0) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_TqEG3bAaeg"><img width="140px" height="auto" alt="thumb-_TqEG3bAaeg" src="https://i.ytimg.com/vi/_TqEG3bAaeg/hqdefault.jpg"/></a> | [SwiftUI: Drop Down Picker - Micro Interactions - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=_TqEG3bAaeg) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 
 :::
 
@@ -294,6 +314,27 @@ tags: ["education", "youtube", "programming", "ios", "xcode"]
 :::
 
 <!-- Brian Advent -->
+
+---
+
+## Swift Tutorials
+
+[Swift Tutorials][yu-swifttutorials4691]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=SuJ4cEOwqV8"><img width="140px" height="auto" alt="thumb-SuJ4cEOwqV8" src="https://i.ytimg.com/vi/SuJ4cEOwqV8/hqdefault.jpg"/></a> | [Swift Tutorial - Count number of line UILabel in iOS SDK using swift](https://www.youtube.com/watch?v=SuJ4cEOwqV8) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Tjg5X30XhMw"><img width="140px" height="auto" alt="thumb-Tjg5X30XhMw" src="https://i.ytimg.com/vi/Tjg5X30XhMw/hqdefault.jpg"/></a> | [Swift Tutorials: Integrate push notifications to iOS app using Firebase messaging \(Step via step\)](https://www.youtube.com/watch?v=Tjg5X30XhMw) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=NJpwx9i042E"><img width="140px" height="auto" alt="thumb-NJpwx9i042E" src="https://i.ytimg.com/vi/NJpwx9i042E/hqdefault.jpg"></a> | [Swift Tutorials: How to fix warning deprecated UIWebView API usage in Xcode for iOS app](https://www.youtube.com/watch?v=NJpwx9i042E) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=uEJzc81oCk4"><img width="140px" height="auto" alt="thumb-uEJzc81oCk4" src="https://i.ytimg.com/vi/uEJzc81oCk4/hqdefault.jpg"/></a> | [Swift Tutorials: Detect change in internet connection using Network framework](https://www.youtube.com/watch?v=uEJzc81oCk4) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3Dk0JNQQkO0"><img width="140px" height="auto" alt="thumb-3Dk0JNQQkO0" src="https://i.ytimg.com/vi/3Dk0JNQQkO0/hqdefault.jpg"></a> | [How to make UIButton circular in swift 4](https://www.youtube.com/watch?v=3Dk0JNQQkO0) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Ps8bmxYdIVI"><img width="140px" height="auto" alt="thumb-Ps8bmxYdIVI" src="https://i.ytimg.com/vi/Ps8bmxYdIVI/hqdefault.jpg"></a> | [How to create drop down menu in ios using swift 4 + Xcode 9.2](https://www.youtube.com/watch?v=Ps8bmxYdIVI) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=S6q5d3RvVY8"><img width="140px" height="auto" alt="thumb-S6q5d3RvVY8" src="https://i.ytimg.com/vi/S6q5d3RvVY8/hqdefault.jpg"></a> | [Create CheckBox in swift 4 using Xcode 9 0 onwards](https://www.youtube.com/watch?v=S6q5d3RvVY8) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+
+:::
+
+<!-- Swift Tutorials -->
 
 ---
 ## Lets Build That App

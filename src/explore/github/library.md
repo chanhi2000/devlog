@@ -2,139 +2,12 @@
 lang: ko-KR
 title: Library
 description: Github > Library
-tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatform" , "javascript" , "nodejs" , "python" , "go" , "csharp" , "php", "dart", "bash"]
+tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , "go" , "csharp" , "php" , "bash"]
 ---
 
 # {{ $frontmatter.description }} 관련
 
 [[toc]]
-
----
-
-## Java
-
-- [PowerJob/PowerJob][PowerJob/PowerJob]: Enterprise job scheduling middleware with distributed computing ability.
-  - [🌐Official Site](http://www.powerjob.tech)
-- [apache/iotdb][apache/iotdb]: Apache IoTDB
-  - [🌐Official Site](https://iotdb.apache.org)
-- [apache/incubator-seatunnel][apache/incubator-seatunnel]: SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
-  - [🌐Official Site](https://seatunnel.apache.org)
-- [alibaba/arthas][alibaba/arthas]: Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-  - [🌐Official Site](https://arthas.aliyun.com) 
-- [accforaus/libhwp][accforaus/libhwp]: 🇰🇷 한글과 컴퓨터의 한글 문서 파일 구조 5.0 (hwp) 라이브러리
-- [checkstyle/checkstyle][checkstyle/checkstyle]: Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-  - [🌐Official Site](https://checkstyle.org) 
-- [jython/jython][jython/jython]: Python for the Java Platform
-  - [🌐Official Site](https://www.jython.org) 
-- [axkr/symja_android_library][axkr/symja_android_library]: ☕ Symja - computer algebra language & symbolic math library. A collection of popular algorithms implemented in pure Java. Inspired by Wolfram Language built-in functions.
-  - [🌐Official Site](https://matheclipse.org)
-- [shannah/jdeploy][shannah/jdeploy]: Developer friendly desktop deployment tool
-  - [🌐Official Site](https://www.jdeploy.com)
-- [PaperMC/Debuggery][PaperMC/Debuggery]: A small plugin designed to expose API values at runtime.
-- [PaperMC/DataConverter][PaperMC/DataConverter]: Rewrite of the dataconverter system for performance.
-- [PaperMC/Starlight][PaperMC/Starlight]: Rewrites the light engine to fix lighting performance and lighting errors
-- [sniffy/sniffy][sniffy/sniffy]: Sniffy - interactive profiler, testing and chaos engineering tool for Java
-  - [🌐Official Site](https://www.sniffy.io)
-- [Netflix/conductor][Netflix/conductor]: Conductor is a microservices orchestration engine.s
-  - [🌐Official Site](https://conductor.netflix.com)
-- [alibaba/fastjson2][alibaba/fastjson2]: 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
-- [Grasscutters/Grasscutter][Grasscutters/Grasscutter]: A server software reimplementation for a certain anime game.
-  - [🌐Official Site](https://grasscutter.io)
-- [mbechler/marshalsec][mbechler/marshalsec]: Java Unmarshaller Security - Turning your data into code execution
-- [whwlsfb/Log4j2Scan][whwlsfb/Log4j2Scan]: Log4j2 RCE Passive Scanner plugin for BurpSuite
-- [PlexPt/chatgpt-java][PlexPt/chatgpt-java]: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.
-- [flyway/flyway][flyway/flyway]: Flyway by Redgate • Database Migrations Made Easy.
-  - [🌐Official Site](https://flywaydb.org)
-- [open-pdf-sign/open-pdf-sign][open-pdf-sign/open-pdf-sign]: Digitally sign PDF files from your commandline
-  - [🌐Official Site](https://openpdfsign.org)
-- [theonedev/onedev][theonedev/onedev]: Self-hosted Git Server with CI/CD and Kanban
-  - [🌐Official Site](https://code.onedev.io/onedev/server)
-  - [📚Documentation](https://docs.onedev.io)
-- [strongbox/strongbox][strongbox/strongbox]: Strongbox is an artifact repository manager.
-  - [🌐Official Site](https://strongbox.github.io)
-- [JabRef/jabref][JabRef/jabref]: Graphical Java application for managing BibTeX and biblatex (.bib) databases
-  - [🌐Official Site](https://devdocs.jabref.org)
-- [classycodeoss/nfc-sockets][classycodeoss/nfc-sockets]: Sockets over NFC
-  - [🌐Official Site](https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf)
-- [bazelbuild/bazel][bazelbuild/bazel]: a fast, scalable, multi-language and extensible build system
-  - [🌐Official Site](https://bazel.build)
-- [wiremock/wiremock][wiremock/wiremock]: A tool for mocking HTTP services
-  - [🌐Official Site](http://wiremock.org)
-
-
----
-
-## Kotlin
-
-- [ktorio/ktor][ktorio/ktor]: Framework for quickly creating connected applications in Kotlin with minimal effort
-  - [🌐Official Site](https://ktor.io)
-  - [🚀Starter](https://start.ktor.io)
-- [Kotlin/dokka][Kotlin/dokka]: Documentation Engine for Kotlin
-- [PaperMC/Paper][PaperMC/Paper]: High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-- [PaperMC/Paperclip][PaperMC/Paperclip]: Bootstrap utility and launcher for the Paper Minecraft server
-- [hexagonkt/hexagon][hexagonkt/hexagon]: Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.
-  - [🌐Official Site](https://hexagonkt.com)
-- [microsoft/thrifty][microsoft/thrifty]: Thrift for Android that saves you methods
-- [sniffy/influxdb-tools][sniffy/influxdb-tools]
-- [revanced/revanced-patches][revanced/revanced-patches]: 🧩 Patches for ReVanced
-  - [🌐Official Site](https://revanced.app)
-- [cashapp/turbine][cashapp/turbine]: A small testing library for kotlinx.coroutines Flow
-  - [🌐Official Site](https://cashapp.github.io/turbine/docs/0.x)
-- [pinterest/ktlint][pinterest/ktlint]: An anti-bikeshedding Kotlin linter with built-in formatter
-  - [🌐Official Site](https://pinterest.github.io/ktlint)
-- [ThinkingLogic/kotlin-builder-annotation][ThinkingLogic/kotlin-builder-annotation]: A minimal viable replacement for the Lombok @builder plugin for Kotlin code
-- [netflix/dgs-framework][netflix/dgs-framework]: GraphQL for Java with Spring Boot made easy.
-  - [🌐Official Site](https://netflix.github.io/dgs)
-
----
-
-## Android
-
-- [anggrayudi/SimpleStorage][anggrayudi/SimpleStorage]: 💾 Simplify Android Storage Access Framework for file management across API levels
-- [PRNDcompany/PersistBottomSheetFragment][PRNDcompany/PersistBottomSheetFragment]
-- [Memrise/plaid][Memrise/plaid]: An Android app which provides design news & inspiration as well as being an example of implementing material design.
-- [google/flexbox-layout][google/flexbox-layout]: Flexbox for Android
-- [airbnb/epoxy][airbnb/epoxy]: Epoxy is an Android library for building complex screens in a RecyclerView
-  - [🌐Official Site](https://goo.gl/eIK82p)
-- [TeamNewPipe/NewPipe][TeamNewPipe/NewPipe]: A libre lightweight streaming front-end for Android.
-  - [🌐Official Site](https://newpipe.net)
-- [tachiyomiorg/tachiyomi][tachiyomiorg/tachiyomi]: Free and open source manga reader for Android. 
-  - [🌐Official Site](https://tachiyomi.org)
-- [skylot/jadx][skylot/jadx]: Dex to Java decompiler 
-- [facebook/shimmer-android][facebook/shimmer-android]: An easy, flexible way to add a shimmering effect to any view in an Android app.
-  - [🌐Official Site](http://facebook.github.io/shimmer-android)
-- [judemanutd/KaTeXView][judemanutd/KaTeXView]: KaTeX View for android
-- [MasayukiSuda/Mp4Composer-android][MasayukiSuda/Mp4Composer-android]: This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
-- [karma9874/AndroRAT][karma9874/AndroRAT]: A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
-- [DrKLO/Telegram][DrKLO/Telegram]: Telegram for Android source
-- [google/perfetto][google/perfetto]: Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto)
-  - [🌐Official Site](https://www.perfetto.dev)
-- [coil-kt/coil][coil-kt/coil]: Image loading for Android backed by Kotlin Coroutines.
-  - [🌐Official Site](https://coil-kt.github.io/coil)
-- [facebook/fresco][facebook/fresco]: An Android library for managing images and the memory they use.
-  - [🌐Official Site](https://frescolib.org)
-- [hootsuite/nachos][hootsuite/nachos]: Material Chips for Android
-- [android/architecture-templates][android/architecture-templates]
-- [tiann/KernelSU][tiann/KernelSU]: A Kernel based root solution for Android GKI
-- [lsrom/webview-tester][lsrom/webview-tester]: Test your web app in Android web view with visible console logs.
-- [TeamVanced/VancedMicroG][TeamVanced/VancedMicroG]: MicroG tweaked to work for applications such as Vanced.
-- [android/nowinandroid][android/nowinandroid]: A fully functional Android app built entirely with Kotlin and Jetpack Compose
-  - [🌐Official Site](https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid)
-- [libre-tube/LibreTube][libre-tube/LibreTube]: An alternative YouTube front end, for Android.
-  - [🌐Official Site](https://libre-tube.github.io)
-- [tranleduy2000/ncalc][tranleduy2000/ncalc]: Power calculator for Android. Solve some problem algebra and calculus.
-  - [🌐Official Site](https://play.google.com/store/apps/details?id=com.duy.calculator.free)
-- [RocketChat/Rocket.Chat][RocketChat/Rocket.Chat]: The communications platform that puts data protection first.
-  - [🌐Official Site](https://rocket.chat)
-- [Kr328/ClashForAndroid][Kr328/ClashForAndroid]: A rule-based tunnel for Android.
-  - [🌐Official Site](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
-- [Automattic/pocket-casts-android][Automattic/pocket-casts-android]: Pocket Casts Android 🎧
-  - [🌐Official Site](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
-- [mastodon/mastodon-android][mastodon/mastodon-android]: Official Android app for Mastodon
-  - [🌐Official Site](https://app.joinmastodon.org/android)
-  - [🌐Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
-- [skydoves/chatgpt-android][skydoves/chatgpt-android]: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
-- [recloudstream/cloudstream][recloudstream/cloudstream]: Android app for streaming and downloading Movies, TV-Series and Anime.
 
 ---
 
@@ -169,254 +42,6 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://hippyjs.org)
 - [Shopify/react-native-skia][Shopify/react-native-skia]: High-performance React Native Graphics using Skia
   - [🌐Official Site](https://shopify.github.io/react-native-skia)
-
----
-
-## Javascript
-
-- [SadeghHayeri/GreenTunnel][SadeghHayeri/GreenTunnel]: GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
-- [hahnlee/hwp.js][hahnlee/hwp.js]: Open source hwp viewer and parser library powered by web technology
-  - [🌐Official Site](https://hanlee.io/hwp.js)
-- [my-school-info/neis-api][my-school-info/neis-api]: Node.js 나이스 오픈 API 라이브러리 (Typescript 지원)  
-- [strapi/strapi][strapi/strapi]: 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-  - [🌐Official Site](https://strapi.io)
-- [withastro/astro][withastro/astro]: Build faster websites with Astro's next-gen island architecture 🏝✨
-  - [🌐Official Site](https://astro.build)
-- [odoo/odoo][odoo/odoo]: Odoo. Open Source Apps To Grow Your Business.
-  - [🌐Official Site](https://www.odoo.com)
-- [tarutin/hovrly][tarutin/hovrly]: Hovrly — best partner for disctributed teams
-  - [🌐Official Site](https://hovrly.com)
-- [kelektiv/node-cron][kelektiv/node-cron]: Cron for NodeJS.
-- [alibaba/ice][alibaba/ice]: 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
-  - [🌐Official Site](https://ice.work)
-- [lusaxweb/vuesax-next][lusaxweb/vuesax-next]: Vuesax v4: framework components for Vuejs
-  - [🌐Official Site](https://vuesax.com)
-- [Cveinnt/LiveTerm][Cveinnt/LiveTerm]: 💻 Build terminal styled websites in minutes!
-  - [🌐Official Site](https://liveterm.vercel.app)
-- [BabylonJS/Babylon.js][BabylonJS/Babylon.js]: Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-  - [🌐Official Site](http://www.babylonjs.com)
-- [nkallen/plasticity][nkallen/plasticity]
-- [jaredh159/tailwind-react-native-classnames][jaredh159/tailwind-react-native-classnames]: simple, expressive API for tailwindcss + react-native
-- [jamealg/KT-companion][jamealg/KT-companion]: A hiking and backpacking trail companion progressive web app
-- [select2/select2][select2/select2]: Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-  - [🌐Official Site](https://select2.org)
-- [tldraw/tldraw][tldraw/tldraw]: A tiny little drawing app.
-  - [🌐Official Site](https://www.tldraw.com) 
-- [thunlp/WantWords][thunlp/WantWords]: An open-source online reverse dictionary.
-  - [🌐Official Site](https://wantwords.net)
-- [microsoft/vscode][microsoft/vscode]: Visual Studio Code
-  - [🌐Official Site](https://code.visualstudio.com)
-- [DustinBrett/daedalOS][DustinBrett/daedalOS]: Desktop environment in the browser.
-  - [🌐Official Site](https://dustinbrett.com)
-- [UnblockNeteaseMusic/server][UnblockNeteaseMusic/server]: Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
-- [solana-labs/solana-pay][solana-labs/solana-pay]: A new standard for decentralized payments.
-  - [🌐Official Site](https://solanapay.com)
-- [trpc/trpc][trpc/trpc]: 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-  - [🌐Official Site](https://trpc.io)
-- [flashbots/simple-arbitrage][flashbots/simple-arbitrage]: Example arbitrage bot using Flashbots
-- [roots/bud][roots/bud]: ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
-  - [🌐Official Site](https://bud.js.org)
-- [remix-run/remix][remix-run/remix]: Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-  - [🌐Official Site](https://remix.run)
-- [iptv-org/iptv][iptv-org/iptv]: Collection of publicly available IPTV channels from all over the world
-- [nolanlawson/fuite][nolanlawson/fuite]: A tool for finding memory leaks in web apps
-- [medusajs/medusa][medusajs/medusa]: The open-source Shopify alternative ⚡️
-  - [🌐Official Site](https://medusajs.com)
-- [AsyncBanana/microdiff][AsyncBanana/microdiff]: A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
-- [laurent22/joplin][laurent22/joplin]: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-  - [🌐Official Site](https://joplinapp.org)
-- [marktext/marktext][marktext/marktext]: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-  - [🌐Official Site](https://marktext.app)
-- [facebook/flipper][facebook/flipper]: A desktop debugging platform for mobile developers.
-  - [🌐Official Site](https://fbflipper.com)
-- [facebook/jest][facebook/jest]: Delightful JavaScript Testing.
-  - [🌐Official Site](https://jestjs.io)
-- [pulsar-edit/pulsar][pulsar-edit/pulsar]: A Community-led Hyper-Hackable Text Editor
-  - [🌐Official Site](https://pulsar-edit.dev)
-- [DulLabs/bhai-lang][DulLabs/bhai-lang]: A toy programming language written in Typescript
-  - [🌐Official Site](https://bhailang.js.org)
-- [mathjax/MathJax][mathjax/MathJax]: Beautiful and accessible math in all browsers
-  - [🌐Official Site](http://www.mathjax.org)
-- [vuetifyjs/vuetify][vuetifyjs/vuetify]: 🐉 Vue Component Framework
-  - [🌐Official Site](https://vuetifyjs.com)
-  - [📚Documentation](https://vuetifyjs.com/en/introduction/why-vuetify)
-- [automerge/automerge][automerge/automerge]: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-  - [🌐Official Site](http://automerge.org)
-- [windowjs/windowjs][windowjs/windowjs]: Window.js is an open-source Javascript runtime for desktop graphics programming.
-  - [🌐Official Site](https://windowjs.org)
-  - [📚Documentation](https://windowjs.org/doc)
-- [moment/moment][moment/moment]: Parse, validate, manipulate, and display dates in javascript.
-  - [🌐Official Site](http://momentjs.com)
-  - [📚Documentation](https://momentjs.com/docs)
-- [ciderapp/Cider][ciderapp/Cider]: A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
-  - [🌐Official Site](https://cider.sh)
-  - [📚Documentation](https://docs.cider.sh)
-- [actualbudget/actual-server][actualbudget/actual-server]: Actual's Server
-- [actualbudget/actual][actualbudget/actual]: A local-first personal finance system
-  - [🌐Official Site](https://actualbudget.github.io/docs)
-- [hgoebl/mobile-detect.js][hgoebl/mobile-detect.js]: Device detection (phone, tablet, desktop, mobile grade, os, versions) 
-  - [🌐Official Site](http://hgoebl.github.io/mobile-detect.js)
-  - [📚Documentation](https://hgoebl.github.io/mobile-detect.js/doc/MobileDetect.html)
-- [semantic-org/semantic-ui][semantic-org/semantic-ui]: Semantic is a UI component framework based around useful principles from natural language.
-  - [🌐Official Site](http://www.semantic-ui.com)
-  - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
-- [hoppscotch/hoppscotch][hoppscotch/hoppscotch]: 👽 Open source API development ecosystem - https://hoppscotch.io
-  - [🌐Official Site](https://hoppscotch.io)
-- [utterance/utterances][utterance/utterances]: 🔮 A lightweight comments widget built on GitHub issues
-  - [🌐Official Site](https://utteranc.es)
-- [shinework/photoshot][shinework/photoshot]
-  - [🌐Official Site](https://photoshot.app)
-- [lensterxyz/lenster][lensterxyz/lenster]: Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
-  - [🌐Official Site](https://lenster.xyz)
-- [directus/directus][directus/directus]: The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-  - [🌐Official Site](https://directus.io)
-- [home-assistant/frontend][home-assistant/frontend]: 🍭 Frontend for Home Assistant
-  - [🌐Official Site](https://demo.home-assistant.io)
-- [wesbos/pommade][wesbos/pommade]: A menu bar app to check your hair
-- [awslabs/aws-icons-for-plantuml][awslabs/aws-icons-for-plantuml]: PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
-- [PrismJS/prism][PrismJS/prism]: Lightweight, robust, elegant syntax highlighting.
-  - [🌐Official Site](https://prismjs.com)
-- [hmartiro/riffusion-app][hmartiro/riffusion-app]: Stable diffusion for real-time music generation
-  - [🌐Official Site](http://riffusion.com)
-- [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the <canvas> tag
-  - [🌐Official Site](https://www.chartjs.org)
-- [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
-  - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
-- [CorwinDev/Discord-Bot][CorwinDev/Discord-Bot]: Discord Bot with over 400 commands and made for large servers
-- [Infisical/infisical][Infisical/infisical]: ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
-  - [🌐Official Site](https://infisical.com)
-- [dariusk/twitter-archiver][dariusk/twitter-archiver]: Make your own simple, public, searchable Twitter archive
-- [alan2207/bulletproof-react][alan2207/bulletproof-react]: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-- [openaudioserver/open-audio-server][openaudioserver/open-audio-server]: A self-hosted and free music server compatible with web browsers and smartphone apps
-- [jnsmalm/pixi3d][jnsmalm/pixi3d]: The 3D renderer for PixiJS. Seamless integration with 2D applications.
-  - [🌐Official Site](https://pixi3d.org)
-- [llacloud/illa-builder][llacloud/illa-builder]: An open-source low-code Platform for Developers.
-  - [🌐Official Site](https://illacloud.com)
-- [TanStack/router][TanStack/router]: 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
-  - [🌐Official Site](https://tanstack.com/router)
-- [melonjs/melonJS][melonjs/melonJS]: a fresh & lightweight javascript game engine
-  - [🌐Official Site](https://melonjs.org)
-- [yaroslav-n/tweetGPT][yaroslav-n/tweetGPT]: TweetGPT is a chrome extension that generates tweets and replies using chatGPT
-- [nocobase/nocobase][nocobase/nocobase]: NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
-  - [🌐Official Site](https://www.nocobase.com)
-- [open-telemetry/opentelemetry-js][open-telemetry/opentelemetry-js]: OpenTelemetry JavaScript Client
-  - [🌐Official Site](https://opentelemetry.io)
-- [harbor-school/lighthouse][harbor-school/lighthouse]: Lighthouse is a continuous design system for integrating design with development workflows.
-  - [🌐Official Site](https://lighthouse.harbor.school)
-- [AmruthPillai/Reactive-Resume][AmruthPillai/Reactive-Resume]: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-  - [🌐Official Site](https://rxresu.me)
-- [microfeed/microfeed][microfeed/microfeed]: a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
-  - [🌐Official Site](https://www.microfeed.org)
-- [excalidraw/excalidraw][excalidraw/excalidraw]: Virtual whiteboard for sketching hand-drawn like diagrams
-  - [🌐Official Site](https://excalidraw.com)
-- [TheOfficialFloW/HENlo][TheOfficialFloW/HENlo]: WebKit+Kernel exploit chain for all PS Vita firmwares
-- [novuhq/novu][novuhq/novu]: The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
-  - [🌐Official Site](https://novu.co)
-- [timqian/chinese-independent-blogs][timqian/chinese-independent-blogs]: 中文独立博客列表
-  - [🌐Official Site](https://feeds.pub/cn-indie)
-- [zlib-searcher/zlib-searcher][zlib-searcher/zlib-searcher]: search zlib/libgen index to get ipfs_cid.
-- [lensapp/lens][lensapp/lens]: Lens - The way the world runs Kubernetes
-  - [🌐Official Site](https://k8slens.dev)
-- [MuhammedKalkan/OpenLens][MuhammedKalkan/OpenLens]: OpenLens Binary Build Repository
-- [appsmithorg/appsmith][appsmithorg/appsmith]: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-  - [🌐Official Site](https://www.appsmith.com)
-- [gluon-framework/gluon][gluon-framework/gluon]: A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
-  - [🌐Official Site](https://gluonjs.org)
-- [desktop/desktop][desktop/desktop]: Focus on what matters instead of fighting with Git.
-  - [🌐Official Site](https://desktop.github.com)
-- [coollabsio/coolify][coollabsio/coolify]: An open-source & self-hostable Heroku / Netlify alternative.
-  - [🌐Official Site](https://coolify.io)
-- [typeorm/typeorm][typeorm/typeorm]: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-  - [🌐Official Site](http://typeorm.io)
-- [Nutlope/roomGPT][Nutlope/roomGPT]: Upload a photo of your room to generate your dream room with AI.
-  - [🌐Official Site](https://www.roomgpt.io)
-- [towfiqi/serpbear][towfiqi/serpbear]: Search Engine Position Rank Tracking App
-  - [🌐Official Site](https://docs.serpbear.com)
-- [bvaughn/react-resizable-panels][bvaughn/react-resizable-panels]
-  - [🌐Official Site](https://react-resizable-panels.vercel.app)
-- [TanStack/query][TanStack/query]: 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
-  - [🌐Official Site](https://tanstack.com/query)
-- [chakra-ui/chakra-ui][chakra-ui/chakra-ui]: ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-  - [🌐Official Site](https://chakra-ui.com)
-
-
----
-
-## Python
-
-- [OpenBapul/hml-equation-parser][OpenBapul/hml-equation-parser]
-  - [🌐Official Site](https://pypi.python.org/pypi/hml_equation_parser)
-- [public-apis/public-apis][public-apis/public-apis]: A collective list of free APIs
-  - [🌐Official Site](http://public-apis.org)
-- [microsoft/unilm][microsoft/unilm]: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-  - [🌐Official Site](https://aka.ms/nlpagi)
-- [3b1b/manim][3b1b/manim]: Animation engine for explanatory math videos
-- [kivy/kivy][kivy/kivy]: Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-  - [🌐Official Site](https://kivy.org)
-- [mkdocs/mkdocs][mkdocs/mkdocs]: Project documentation with Markdown.
-  - [🌐Official Site](https://www.mkdocs.org)
-- [hwchase17/langchain][hwchase17/langchain]: ⚡ Building applications with LLMs through composability ⚡
-- [kingoflolz/mesh-transformer-jax][kingoflolz/mesh-transformer-jax]: Model parallel transformers in JAX and Haiku
-- [facebookresearch/fairseq][facebookresearch/fairseq]: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [zas023/JdBuyer][zas023/JdBuyer]: 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
-- [mete0r/pyhwp][mete0r/pyhwp]: .hwp file format v5 parser in python
-  - [🌐Official Site](http://pythonhosted.org/pyhwp)
-- [pypa/pipfile][pypa/pipfile]: Pipfile: the replacement for requirements.txt
-- [sympy/sympy][sympy/sympy]: A computer algebra system written in pure Python
-  - [🌐Official Site](https://sympy.org)
-- [PaddlePaddle/PaddleSeg][PaddlePaddle/PaddleSeg]: Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.
-  - [🌐Official Site](https://arxiv.org/abs/2101.06175)
-- [mingrammer/diagrams][mingrammer/diagrams]: 🎨 Diagram as Code for prototyping cloud system architectures
-  - [🌐Official Site](https://diagrams.mingrammer.com)
-- [hmartiro/riffusion-inference][hmartiro/riffusion-inference]: Stable diffusion for real-time music generation
-  - [🌐Official Site](http://riffusion.com)
-- [carson-katri/dream-textures][carson-katri/dream-textures]: Stable Diffusion built-in to the Blender shader editor
-- [mui/material-ui][mui/material-ui]: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-  - [🌐Official Site](https://mui.com/core)
-- [Jxck-S/plane-notify][Jxck-S/plane-notify]: Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet
-- [sczhou/CodeFormer][sczhou/CodeFormer]: \[NeurIPS 2022\] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-- [acantril/learn-cantrill-io-labs][acantril/learn-cantrill-io-labs]: Standard and Advanced Demos for learn.cantrill.io courses
-- [ranaroussi/yfinance][ranaroussi/yfinance]: Download market data from Yahoo! Finance's API
-  - [🌐Official Site](https://aroussi.com/post/python-yahoo-finance)
-- [THUDM/CodeGeeX][THUDM/CodeGeeX]: CodeGeeX: An Open Multilingual Code Generation Model
-  - [🌐Official Site](https://models.aminer.cn/codegeex)
-- [spantaleev/matrix-docker-ansible-deploy][spantaleev/matrix-docker-ansible-deploy]: 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-- [m-bain/whisperX][m-bain/whisperX]: WhisperX: Timestamp-Accurate Automatic Speech Recognition.
-- [openai/point-e][openai/point-e]: Point cloud diffusion for 3D model synthesis
-- [kovidgoyal/kitty][kovidgoyal/kitty]: Cross-platform, fast, feature-rich, GPU based terminal
-  - [🌐Official Site](https://sw.kovidgoyal.net/kitty)
-- [microsoft/X-Decoder][microsoft/X-Decoder]: Official Implementation of X-Decoder for generalized decoding for pixel, image and language
-  - [🌐Official Site](https://x-decoder-vl.github.io)
-- [prowler-cloud/prowler][prowler-cloud/prowler]: Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
-  - [🌐Official Site](https://www.prowler.pro) 
-- [facebookresearch/metaseq][facebookresearch/metaseq]: Repo for external large-scale work
-- [adobe-research/custom-diffusion][adobe-research/custom-diffusion]: Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion
-  - [🌐Official Site](https://www.cs.cmu.edu/~custom-diffusion)
-- [LAION-AI/Open-Assistant][LAION-AI/Open-Assistant]: Open Assistant is a project meant to give everyone access to a great chat based large language model.
-- [malkemit/namizun][malkemit/namizun]: Asymmetric upload and download
-  - [🌐Official Site](https://t.me/ExplainLikeIam5)
-- [karpathy/nanoGPT][karpathy/nanoGPT]: The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [neonbjb/tortoise-tts][neonbjb/tortoise-tts]: A multi-voice TTS system trained with an emphasis on quality
-- [jerryjliu/gpt_index][jerryjliu/gpt_index]: An index created by GPT to organize external information and answer queries!
-- [Z4nzu/hackingtool][Z4nzu/hackingtool]: ALL IN ONE Hacking Tool For Hackers
-  - [🌐Official Site](https://forms.gle/ntuAX8BGRR5yAb9ZA)
-- [microsoft/pyright][microsoft/pyright]: Static type checker for Python
-- [ThioJoe/Auto-Synced-Translated-Dubs][ThioJoe/Auto-Synced-Translated-Dubs]: Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
-- [tobymao/sqlglot][tobymao/sqlglot]: Python SQL Parser and Transpiler
-- [bigscience-workshop/petals][bigscience-workshop/petals]: 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-  - [🌐Official Site](https://petals.ml)
-- [ray-project/ray][ray-project/ray]: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
-  - [🌐Official Site](https://ray.io)
-- [Azure/azure-sdk-for-python][Azure/azure-sdk-for-python]: This repository is for active development of the Azure SDK for Python.
-  - [📚Documentation](https://docs.microsoft.com/python/azure)
-  - [📚Documentation](https://azure.github.io/azure-sdk-for-python)
-- [AnTi-anti/damai_ticket][AnTi-anti/damai_ticket]: 大麦网抢票脚本
-- [openai/openai-python][openai/openai-python]: The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
-- [nebuly-ai/nebullvm][nebuly-ai/nebullvm]: Plug and play modules to optimize the performances of your AI systems 🚀
-  - [🌐Official Site](https://www.nebuly.com)
-- [openai/openai-cookbook][openai/openai-cookbook]: Examples and guides for using the OpenAI API
-- [centerofci/mathesar][centerofci/mathesar]: Web application providing an intuitive user experience to databases.
-  - [🌐Official Site](https://mathesar.org)
 
 ---
 
@@ -471,6 +96,12 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://pushup.adhoc.dev)
 - [grafana/mimir][grafana/mimir]: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
   - [🌐Official Site](https://grafana.com/oss/mimir)
+- [ccfos/nightingale][ccfos/nightingale]: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  - [🌐Official Site](https://flashcat.cloud/docs)
+- [pgrok/pgrok][pgrok/pgrok]: Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
+- [1Panel-dev/1Panel][1Panel-dev/1Panel]: 现代化、开源的 Linux 服务器运维管理面板。
+  - [🌐Official Site](https://1panel.cn)
+
 
 
 ---
@@ -527,7 +158,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://pop-os.github.io/cosmic-text/cosmic_text)
 - [praetorian-inc/noseyparker][praetorian-inc/noseyparker]: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [dani-garcia/vaultwarden][dani-garcia/vaultwarden]: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-
+- [orhun/halp][orhun/halp]: A CLI tool to get help with CLI tools 🐙
+  - [🌐Official Site](https://halp.cli.rs)
+- [setzer22/llama-rs][setzer22/llama-rs]: Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 
 ---
 
@@ -548,6 +181,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://prql-lang.org)
 - [unoplatform/uno][unoplatform/uno]: Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
   - [🌐Official Site](https://platform.uno)
+- [Const-me/Whisper][Const-me/Whisper]: High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+- [microsoft/semantic-kernel][microsoft/semantic-kernel]: Integrate cutting-edge LLM technology quickly and easily into your apps
+  - [🌐Official Site](https://aka.ms/semantic-kernel)
 
 ---
 
@@ -609,7 +245,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
 - [jerryscript-project/jerryscript][jerryscript-project/jerryscript]: Ultra-lightweight JavaScript engine for the Internet of Things.
   - [🌐Official Site](https://jerryscript.net)
-
+- [ggerganov/llama.cpp][ggerganov/llama.cpp]: Port of Facebook's LLaMA model in C/C++
+- [ggerganov/whisper.cpp][ggerganov/whisper.cpp]: Port of OpenAI's Whisper model in C/C++
+- [ggerganov/ggml][ggerganov/ggml]: Tensor library for machine learning
 
 ---
 
@@ -622,6 +260,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [williamboman/mason.nvim][williamboman/mason.nvim]: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [nvim-lua/kickstart.nvimnvim-lua/kickstart.nvim]: A launch point for your personal nvim configuration
 - [folke/lazy.nvim][folke/lazy.nvim]: 💤 A modern plugin manager for Neovim
+- [AstroNvim/AstroNvim][AstroNvim/AstroNvim]: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+  - [🌐Official Site](https://astronvim.com)
 
 ---
 
@@ -644,7 +284,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 - [ax/apk.sh][ax/apk.sh]: apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [rails/docked][rails/docked]: Running Rails from Docker for easy start to development
 - [dreamncn/ParallelsDesktopCrack][dreamncn/ParallelsDesktopCrack]: Crack for Parallels Desktop 18.1.1 53328
-
+- [base-org/node][base-org/node]: Everything required to run your own Base node
 
 ---
 
@@ -659,6 +299,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
   - [🌐Official Site](https://atlasos.net)
 
 ---
+
+## Batchfile
+
+- [massgravel/Microsoft-Activation-Scripts][massgravel/Microsoft-Activation-Scripts]: 
 
 ## TeX
 
@@ -704,78 +348,6 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 
 <TagLinks />
 
-<!-- Java -->
-[PowerJob/PowerJob]: https://github.com/PowerJob/PowerJob
-[apache/iotdb]: https://github.com/apache/iotdb
-[apache/incubator-seatunnel]: https://github.com/apache/incubator-seatunnel
-[alibaba/arthas]: https://github.com/alibaba/arthas
-[accforaus/libhwp]: https://github.com/accforaus/libhwp
-[checkstyle/checkstyle]: https://github.com/checkstyle/checkstyle
-[jython/jython]: https://github.com/jython/jython
-[axkr/symja_android_library]: https://github.com/axkr/symja_android_library
-[shannah/jdeploy]: https://github.com/shannah/jdeploy
-[PaperMC/Debuggery]: https://github.com/PaperMC/Debuggery
-[PaperMC/DataConverter]: https://github.com/PaperMC/DataConverter
-[PaperMC/Starlight]: https://github.com/PaperMC/Starlight
-[sniffy/sniffy]: https://github.com/sniffy/sniffy
-[Netflix/conductor]: https://github.com/Netflix/conductor
-[alibaba/fastjson2]: https://github.com/alibaba/fastjson2
-[Grasscutters/Grasscutter]: https://github.com/Grasscutters/Grasscutter
-[mbechler/marshalsec]: https://github.com/mbechler/marshalsec
-[whwlsfb/Log4j2Scan]: https://github.com/whwlsfb/Log4j2Scan
-[PlexPt/chatgpt-java]: https://github.com/PlexPt/chatgpt-java
-[flyway/flyway]: https://github.com/flyway/flyway
-[open-pdf-sign/open-pdf-sign]: https://github.com/open-pdf-sign/open-pdf-sign
-[theonedev/onedev]: https://github.com/theonedev/onedev
-[strongbox/strongbox]: https://github.com/strongbox/strongbox
-[JabRef/jabref]: https://github.com/JabRef/jabref
-[classycodeoss/nfc-sockets]: https://github.com/classycodeoss/nfc-sockets
-[bazelbuild/bazel]: https://github.com/bazelbuild/bazel
-[wiremock/wiremock]: https://github.com/wiremock/wiremock
-<!-- Kotlin -->
-[ktorio/ktor]: https://github.com/ktorio/ktor
-[Kotlin/dokka]: https://github.com/Kotlin/dokka
-[PaperMC/Paper]: https://github.com/PaperMC/Paper
-[PaperMC/Paperclip]: https://github.com/PaperMC/Paperclip
-[hexagonkt/hexagon]: https://github.com/hexagonkt/hexagon
-[microsoft/thrifty]: https://github.com/microsoft/thrifty
-[sniffy/influxdb-tools]: https://github.com/sniffy/influxdb-tools
-[revanced/revanced-patches]: https://github.com/revanced/revanced-patches
-[cashapp/turbine]: https://github.com/cashapp/turbine
-[pinterest/ktlint]: https://github.com/pinterest/ktlint
-[ThinkingLogic/kotlin-builder-annotation]: https://github.com/ThinkingLogic/kotlin-builder-annotation
-[netflix/dgs-framework]: https://github.com/netflix/dgs-framework
-
-[anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
-[PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment
-[Memrise/plaid]: https://github.com/Memrise/plaid
-[google/flexbox-layout]: https://github.com/google/flexbox-layout
-[airbnb/epoxy]: https://github.com/airbnb/epoxy
-[TeamNewPipe/NewPipe]: https://github.com/TeamNewPipe/NewPipe
-[tachiyomiorg/tachiyomi]: https://github.com/tachiyomiorg/tachiyomi
-[skylot/jadx]: https://github.com/skylot/jadx
-[facebook/shimmer-android]: https://github.com/facebook/shimmer-android
-[judemanutd/KaTeXView]: https://github.com/judemanutd/KaTeXView
-[MasayukiSuda/Mp4Composer-android]: https://github.com/MasayukiSuda/Mp4Composer-android
-[karma9874/AndroRAT]: https://github.com/karma9874/AndroRAT
-[DrKLO/Telegram]: https://github.com/DrKLO/Telegram
-[google/perfetto]: https://github.com/google/perfetto
-[coil-kt/coil]: https://github.com/coil-kt
-[facebook/fresco]: https://github.com/facebook/fresco
-[hootsuite/nachos]: https://github.com/hootsuite/nachos
-[android/architecture-templates]: https://github.com/android/architecture-templates/tree/base
-[tiann/KernelSU]: https://github.com/tiann/KernelSU
-[lsrom/webview-tester]: https://github.com/lsrom/webview-tester
-[TeamVanced/VancedMicroG]: https://github.com/TeamVanced/VancedMicroG
-[android/nowinandroid]: https://github.com/android/nowinandroid
-[libre-tube/LibreTube]: https://github.com/libre-tube/LibreTube
-[tranleduy2000/ncalc]: https://github.com/tranleduy2000/ncalc
-[RocketChat/Rocket.Chat]: https://github.com/RocketChat/Rocket.Chat
-[Kr328/ClashForAndroid]: https://github.com/Kr328/ClashForAndroid
-[Automattic/pocket-casts-android]: https://github.com/Automattic/pocket-casts-android
-[mastodon/mastodon-android]: https://github.com/mastodon/mastodon-android
-[skydoves/chatgpt-android]: https://github.com/skydoves/chatgpt-android
-[recloudstream/cloudstream]: https://github.com/recloudstream/cloudstream
 <!-- Swift -->
 [CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
 [tuist/tuist]: https://github.com/tuist/tuist
@@ -793,146 +365,6 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [Tencent/Hippy]: https://github.com/Tencent/Hippy 
 [microsoft/vscode]: https://github.com/microsoft/vscode
 [Shopify/react-native-skia]: https://github.com/Shopify/react-native-skia
-<!-- Javascript -->
-[hahnlee/hwp.js]: https://github.com/hahnlee/hwp.js
-[SadeghHayeri/GreenTunnel]: https://github.com/SadeghHayeri/GreenTunnel
-[my-school-info/neis-api]: https://github.com/my-school-info/neis-api
-[strapi/strapi]: https://github.com/strapi/strapi
-[withastro/astro]: https://github.com/withastro/astro
-[odoo/odoo]: https://github.com/odoo/odoo
-[tarutin/hovrly]: https://github.com/tarutin/hovrly
-[kelektiv/node-cron]: https://github.com/kelektiv/node-cron
-[alibaba/ice]: https://github.com/alibaba/ice
-[lusaxweb/vuesax-next]: https://github.com/lusaxweb/vuesax-next
-[Cveinnt/LiveTerm]: https://github.com/Cveinnt/LiveTerm
-[BabylonJS/Babylon.js]: https://github.com/BabylonJS/Babylon.js
-[nkallen/plasticity]: https://github.com/nkallen/plasticitys
-[jaredh159/tailwind-react-native-classnames]: https://github.com/jaredh159/tailwind-react-native-classnames
-[louislam/uptime-kuma]: https://github.com/louislam/uptime-kuma
-[jamealg/KT-companion]: https://github.com/jamealg/KT-companion
-[select2/select2]: https://github.com/select2/select2
-[tldraw/tldraw]: https://github.com/tldraw/tldraw
-[thunlp/WantWords]: https://github.com/thunlp/WantWords
-[DustinBrett/daedalOS]: https://github.com/DustinBrett/daedalOS
-[UnblockNeteaseMusic/server]: https://github.com/UnblockNeteaseMusic/server
-[solana-labs/solana-pay]: https://github.com/solana-labs/solana-pay
-[trpc/trpc]: https://github.com/trpc/trpc
-[flashbots/simple-arbitrage]: https://github.com/flashbots/simple-arbitrage
-[roots/bud]: https://github.com/roots/bud
-[remix-run/remix]: https://github.com/remix-run/remix
-[iptv-org/iptv]: https://github.com/iptv-org/iptv
-[nolanlawson/fuite]: https://github.com/nolanlawson/fuite
-[medusajs/medusa]: https://github.com/medusajs/medusa
-[AsyncBanana/microdiff]: https://github.com/AsyncBanana/microdiff
-[laurent22/joplin]: https://github.com/laurent22/joplin
-[marktext/marktext]: https://github.com/marktext/marktext
-[facebook/flipper]: https://github.com/facebook/flipper
-[facebook/jest]: https://github.com/facebook/jest
-[pulsar-edit/pulsar]: https://github.com/pulsar-edit/pulsar
-[DulLabs/bhai-lang]: https://github.com/DulLabs/bhai-lang
-[mathjax/MathJax]: https://github.com/mathjax/MathJax
-[vuetifyjs/vuetify]: https://github.com/vuetifyjs/vuetify
-[automerge/automerge]: https://github.com/automerge/automerge
-[windowjs/windowjs]: https://github.com/windowjs/windowjs
-[moment/moment]: https://github.com/moment/moment
-[ciderapp/Cider]: https://github.com/ciderapp/Cider
-[actualbudget/actual-server]: https://github.com/actualbudget/actual-server
-[actualbudget/actual]: https://github.com/actualbudget/actual
-[hgoebl/mobile-detect.js]: https://github.com/hgoebl/mobile-detect.js
-[semantic-org/semantic-ui]: https://github.com/semantic-org/semantic-ui
-[hoppscotch/hoppscotch]: https://github.com/hoppscotch/hoppscotch
-[utterance/utterances]: https://github.com/utterance/utterances
-[shinework/photoshot]: https://github.com/shinework/photoshot
-[lensterxyz/lenster]: https://github.com/lensterxyz/lenster
-[directus/directus]: https://github.com/directus/directus
-[home-assistant/frontend]: https://github.com/home-assistant/frontend
-[wesbos/pommade]: https://github.com/wesbos/pommade
-[awslabs/aws-icons-for-plantuml]: https://github.com/awslabs/aws-icons-for-plantuml
-[PrismJS/prism]: https://github.com/PrismJS/prism
-[hmartiro/riffusion-app]: https://github.com/hmartiro/riffusion-app
-[chartjs/Chart.js]: https://github.com/chartjs/Chart.js
-[carson-katri/dream-textures]: https://github.com/carson-katri/dream-textures
-[xiaoxian521/vue-pure-admin]: https://github.com/xiaoxian521/vue-pure-admin
-[CorwinDev/Discord-Bot]: https://github.com/CorwinDev/Discord-Bot
-[Infisical/infisical]: https://github.com/Infisical/infisical
-[dariusk/twitter-archiver]: https://github.com/dariusk/twitter-archiver
-[alan2207/bulletproof-react]: https://github.com/alan2207/bulletproof-react
-[openaudioserver/open-audio-server]: https://github.com/openaudioserver/open-audio-server
-[jnsmalm/pixi3d]: https://github.com/jnsmalm/pixi3d
-[llacloud/illa-builder]: https://github.com/illacloud/illa-builder
-[TanStack/router]: https://github.com/TanStack/router
-[melonjs/melonJS]: https://github.com/melonjs/melonJS
-[yaroslav-n/tweetGPT]: https://github.com/yaroslav-n/tweetGPT
-[nocobase/nocobase]: https://github.com/nocobase/nocobase
-[open-telemetry/opentelemetry-js]: https://github.com/open-telemetry/opentelemetry-js
-[harbor-school/lighthouse]: https://github.com/harbor-school/lighthouse
-[AmruthPillai/Reactive-Resume]: https://github.com/AmruthPillai/Reactive-Resume
-[microfeed/microfeed]: https://github.com/microfeed/microfeed
-[excalidraw/excalidraw]: https://github.com/excalidraw/excalidraw
-[TheOfficialFloW/HENlo]: https://github.com/TheOfficialFloW/HENlo
-[novuhq/novu]: https://github.com/novuhq/novu
-[timqian/chinese-independent-blogs]: https://github.com/timqian/chinese-independent-blogs
-[zlib-searcher/zlib-searcher]: https://github.com/zlib-searcher/zlib-searcher
-[lensapp/lens]: https://github.com/lensapp/lens
-[MuhammedKalkan/OpenLens]: https://github.com/MuhammedKalkan/OpenLens
-[appsmithorg/appsmith]: https://github.com/appsmithorg/appsmith
-[gluon-framework/gluon]: https://github.com/gluon-framework/gluon
-[desktop/desktop]: https://github.com/desktop/desktop
-[coollabsio/coolify]: https://github.com/coollabsio/coolify
-[typeorm/typeorm]: https://github.com/typeorm/typeorm
-[Nutlope/roomGPT]: https://github.com/Nutlope/roomGPT
-[towfiqi/serpbear]: https://github.com/towfiqi/serpbear
-[bvaughn/react-resizable-panels]: https://github.com/bvaughn/react-resizable-panels
-[TanStack/query]: https://github.com/TanStack/query
-[chakra-ui/chakra-ui]: https://github.com/chakra-ui/chakra-ui
-<!-- Python -->
-[microsoft/unilm]: https://github.com/microsoft/unilm
-[OpenBapul/hml-equation-parser]: https://github.com/OpenBapul/hml-equation-parser
-[public-apis/public-apis]: https://github.com/public-apis/public-apis
-[3b1b/manim]: https://github.com/3b1b/manim
-[kivy/kivy]: https://github.com/kivy/kivy
-[mkdocs/mkdocs]: https://github.com/mkdocs/mkdocs
-[hwchase17/langchain]: https://github.com/hwchase17/langchain
-[kingoflolz/mesh-transformer-jax]: https://github.com/kingoflolz/mesh-transformer-jax
-[facebookresearch/fairseq]: https://github.com/facebookresearch/fairseq
-[zas023/JdBuyer]: https://github.com/zas023/JdBuyer
-[mete0r/pyhwp]: https://github.com/mete0r/pyhwp
-[pypa/pipfile]: https://github.com/pypa/pipfile
-[sympy/sympy]: https://github.com/sympy/sympy
-[PaddlePaddle/PaddleSeg]: https://github.com/PaddlePaddle/PaddleSeg
-[mingrammer/diagrams]: https://github.com/mingrammer/diagrams
-[hmartiro/riffusion-inference]: https://github.com/hmartiro/riffusion-inference
-[mui/material-ui]: https://github.com/mui/material-ui
-[Jxck-S/plane-notify]: https://github.com/Jxck-S/plane-notify
-[sczhou/CodeFormer]: https://github.com/sczhou/CodeFormer
-[acantril/learn-cantrill-io-labs]: https://github.com/acantril/learn-cantrill-io-labs
-[ranaroussi/yfinance]: https://github.com/ranaroussi/yfinance
-[THUDM/CodeGeeX]: https://github.com/THUDM/CodeGeeX
-[spantaleev/matrix-docker-ansible-deploy]: https://github.com/spantaleev/matrix-docker-ansible-deploy
-[m-bain/whisperX]: https://github.com/m-bain/whisperX
-[openai/point-e]: https://github.com/openai/point-e
-[kovidgoyal/kitty]: https://github.com/kovidgoyal/kitty
-[microsoft/X-Decoder]: https://github.com/microsoft/X-Decoder
-[prowler-cloud/prowler]: https://github.com/prowler-cloud/prowler
-[facebookresearch/metaseq]: https://github.com/facebookresearch/metaseq
-[adobe-research/custom-diffusion]: https://github.com/adobe-research/custom-diffusion
-[LAION-AI/Open-Assistant]: https://github.com/LAION-AI/Open-Assistant
-[malkemit/namizun]: https://github.com/malkemit/namizun
-[karpathy/nanoGPT]: https://github.com/karpathy/nanoGPT
-[neonbjb/tortoise-tts]: https://github.com/neonbjb/tortoise-tts
-[jerryjliu/gpt_index]: https://github.com/jerryjliu/gpt_index
-[Z4nzu/hackingtool]: https://github.com/Z4nzu/hackingtool
-[microsoft/pyright]: https://github.com/microsoft/pyright
-[ThioJoe/Auto-Synced-Translated-Dubs]: https://github.com/ThioJoe/Auto-Synced-Translated-Dubs
-[tobymao/sqlglot]: https://github.com/tobymao/sqlglot
-[bigscience-workshop/petals]: https://github.com/bigscience-workshop/petals
-[ray-project/ray]: https://github.com/ray-project/ray
-[Azure/azure-sdk-for-python]: https://github.com/Azure/azure-sdk-for-python
-[AnTi-anti/damai_ticket]: https://github.com/AnTi-anti/damai_ticket
-[openai/openai-python]: https://github.com/openai/openai-python
-[nebuly-ai/nebullvm]: https://github.com/nebuly-ai/nebullvm
-[openai/openai-cookbook]: https://github.com/openai/openai-cookbook
-[centerofci/mathesar]: https://github.com/centerofci/mathesar
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -965,6 +397,9 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [alist-org/alist]: https://github.com/alist-org/alist
 [adhocteam/pushup]: https://github.com/adhocteam/pushup
 [grafana/mimir]: https://github.com/grafana/mimir
+[ccfos/nightingale]: https://github.com/ccfos/nightingale
+[pgrok/pgrok]: https://github.com/pgrok/pgrok
+[1Panel-dev/1Panel]: https://github.com/1Panel-dev/1Panel
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -998,6 +433,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [pop-os/cosmic-text]: https://github.com/pop-os/cosmic-text
 [praetorian-inc/noseyparker]: https://github.com/praetorian-inc/noseyparker
 [dani-garcia/vaultwarden]: https://github.com/dani-garcia/vaultwarden
+[orhun/halp]: https://github.com/orhun/halp
+[setzer22/llama-rs]: https://github.com/setzer22/llama-rs
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -1008,6 +445,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [bitwarden/server]: https://github.com/bitwarden/server
 [PRQL/prql]: https://github.com/PRQL/prql
 [unoplatform/uno]: https://github.com/unoplatform/uno
+[Const-me/Whisper]: https://github.com/Const-me/Whisper
+[microsoft/semantic-kernel]: https://github.com/microsoft/semantic-kernel
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
@@ -1039,6 +478,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [tenderlove/initial-v]: https://github.com/tenderlove/initial-v
 [Immediate-Mode-UI/Nuklear]: https://github.com/Immediate-Mode-UI/Nuklear
 [jerryscript-project/jerryscript]: https://github.com/jerryscript-project/jerryscript
+[ggerganov/llama.cpp]: https://github.com/ggerganov/llama.cpp
+[ggerganov/whisper.cpp]: https://github.com/ggerganov/whisper.cpp
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -1046,6 +487,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [williamboman/mason.nvim]: https://github.com/williamboman/mason.nvim
 [nvim-lua/kickstart.nvim]: https://github.com/nvim-lua/kickstart.nvim
 [folke/lazy.nvim]: https://github.com/folke/lazy.nvim
+[AstroNvim/AstroNvim]: https://github.com/AstroNvim/AstroNvim
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
@@ -1059,11 +501,14 @@ tags: ["git" , "github" , "java" , "kotlin" , "android" , "swift" , "multiplatfo
 [ax/apk.sh]: https://github.com/ax/apk.sh
 [rails/docked]: https://github.com/rails/docked
 [dreamncn/ParallelsDesktopCrack]: https://github.com/dreamncn/ParallelsDesktopCrack
+[base-org/node]: https://github.com/base-org/node
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
 [H4de5-7/powershell-obfuscation]: https://github.com/H4de5-7/powershell-obfuscation
 [Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
+<!-- Batchfile -->
+[massgravel/Microsoft-Activation-Scripts]: https://github.com/massgravel/Microsoft-Activation-Scripts
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 <!-- V -->

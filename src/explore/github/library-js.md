@@ -1,0 +1,316 @@
+---
+lang: ko-KR
+title: Library
+description: Github > Library
+tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
+---
+
+# {{ $frontmatter.description }} 관련
+
+[[toc]]
+
+---
+
+## Javascript
+
+- [SadeghHayeri/GreenTunnel][SadeghHayeri/GreenTunnel]: GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
+- [hahnlee/hwp.js][hahnlee/hwp.js]: Open source hwp viewer and parser library powered by web technology
+  - [🌐Official Site](https://hanlee.io/hwp.js)
+- [my-school-info/neis-api][my-school-info/neis-api]: Node.js 나이스 오픈 API 라이브러리 (Typescript 지원)  
+- [strapi/strapi][strapi/strapi]: 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+  - [🌐Official Site](https://strapi.io)
+- [withastro/astro][withastro/astro]: Build faster websites with Astro's next-gen island architecture 🏝✨
+  - [🌐Official Site](https://astro.build)
+- [odoo/odoo][odoo/odoo]: Odoo. Open Source Apps To Grow Your Business.
+  - [🌐Official Site](https://www.odoo.com)
+- [tarutin/hovrly][tarutin/hovrly]: Hovrly — best partner for disctributed teams
+  - [🌐Official Site](https://hovrly.com)
+- [kelektiv/node-cron][kelektiv/node-cron]: Cron for NodeJS.
+- [alibaba/ice][alibaba/ice]: 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+  - [🌐Official Site](https://ice.work)
+- [lusaxweb/vuesax-next][lusaxweb/vuesax-next]: Vuesax v4: framework components for Vuejs
+  - [🌐Official Site](https://vuesax.com)
+- [Cveinnt/LiveTerm][Cveinnt/LiveTerm]: 💻 Build terminal styled websites in minutes!
+  - [🌐Official Site](https://liveterm.vercel.app)
+- [BabylonJS/Babylon.js][BabylonJS/Babylon.js]: Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+  - [🌐Official Site](http://www.babylonjs.com)
+- [nkallen/plasticity][nkallen/plasticity]
+- [jaredh159/tailwind-react-native-classnames][jaredh159/tailwind-react-native-classnames]: simple, expressive API for tailwindcss + react-native
+- [jamealg/KT-companion][jamealg/KT-companion]: A hiking and backpacking trail companion progressive web app
+- [select2/select2][select2/select2]: Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+  - [🌐Official Site](https://select2.org)
+- [tldraw/tldraw][tldraw/tldraw]: A tiny little drawing app.
+  - [🌐Official Site](https://www.tldraw.com) 
+- [thunlp/WantWords][thunlp/WantWords]: An open-source online reverse dictionary.
+  - [🌐Official Site](https://wantwords.net)
+- [microsoft/vscode][microsoft/vscode]: Visual Studio Code
+  - [🌐Official Site](https://code.visualstudio.com)
+- [DustinBrett/daedalOS][DustinBrett/daedalOS]: Desktop environment in the browser.
+  - [🌐Official Site](https://dustinbrett.com)
+- [UnblockNeteaseMusic/server][UnblockNeteaseMusic/server]: Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+- [solana-labs/solana-pay][solana-labs/solana-pay]: A new standard for decentralized payments.
+  - [🌐Official Site](https://solanapay.com)
+- [trpc/trpc][trpc/trpc]: 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+  - [🌐Official Site](https://trpc.io)
+- [flashbots/simple-arbitrage][flashbots/simple-arbitrage]: Example arbitrage bot using Flashbots
+- [roots/bud][roots/bud]: ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
+  - [🌐Official Site](https://bud.js.org)
+- [remix-run/remix][remix-run/remix]: Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+  - [🌐Official Site](https://remix.run)
+- [iptv-org/iptv][iptv-org/iptv]: Collection of publicly available IPTV channels from all over the world
+- [nolanlawson/fuite][nolanlawson/fuite]: A tool for finding memory leaks in web apps
+- [medusajs/medusa][medusajs/medusa]: The open-source Shopify alternative ⚡️
+  - [🌐Official Site](https://medusajs.com)
+- [AsyncBanana/microdiff][AsyncBanana/microdiff]: A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
+- [laurent22/joplin][laurent22/joplin]: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+  - [🌐Official Site](https://joplinapp.org)
+- [marktext/marktext][marktext/marktext]: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+  - [🌐Official Site](https://marktext.app)
+- [facebook/flipper][facebook/flipper]: A desktop debugging platform for mobile developers.
+  - [🌐Official Site](https://fbflipper.com)
+- [facebook/jest][facebook/jest]: Delightful JavaScript Testing.
+  - [🌐Official Site](https://jestjs.io)
+- [pulsar-edit/pulsar][pulsar-edit/pulsar]: A Community-led Hyper-Hackable Text Editor
+  - [🌐Official Site](https://pulsar-edit.dev)
+- [DulLabs/bhai-lang][DulLabs/bhai-lang]: A toy programming language written in Typescript
+  - [🌐Official Site](https://bhailang.js.org)
+- [mathjax/MathJax][mathjax/MathJax]: Beautiful and accessible math in all browsers
+  - [🌐Official Site](http://www.mathjax.org)
+- [vuetifyjs/vuetify][vuetifyjs/vuetify]: 🐉 Vue Component Framework
+  - [🌐Official Site](https://vuetifyjs.com)
+  - [📚Documentation](https://vuetifyjs.com/en/introduction/why-vuetify)
+- [automerge/automerge][automerge/automerge]: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+  - [🌐Official Site](http://automerge.org)
+- [windowjs/windowjs][windowjs/windowjs]: Window.js is an open-source Javascript runtime for desktop graphics programming.
+  - [🌐Official Site](https://windowjs.org)
+  - [📚Documentation](https://windowjs.org/doc)
+- [moment/moment][moment/moment]: Parse, validate, manipulate, and display dates in javascript.
+  - [🌐Official Site](http://momentjs.com)
+  - [📚Documentation](https://momentjs.com/docs)
+- [ciderapp/Cider][ciderapp/Cider]: A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+  - [🌐Official Site](https://cider.sh)
+  - [📚Documentation](https://docs.cider.sh)
+- [actualbudget/actual-server][actualbudget/actual-server]: Actual's Server
+- [actualbudget/actual][actualbudget/actual]: A local-first personal finance system
+  - [🌐Official Site](https://actualbudget.github.io/docs)
+- [hgoebl/mobile-detect.js][hgoebl/mobile-detect.js]: Device detection (phone, tablet, desktop, mobile grade, os, versions) 
+  - [🌐Official Site](http://hgoebl.github.io/mobile-detect.js)
+  - [📚Documentation](https://hgoebl.github.io/mobile-detect.js/doc/MobileDetect.html)
+- [semantic-org/semantic-ui][semantic-org/semantic-ui]: Semantic is a UI component framework based around useful principles from natural language.
+  - [🌐Official Site](http://www.semantic-ui.com)
+  - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
+- [hoppscotch/hoppscotch][hoppscotch/hoppscotch]: 👽 Open source API development ecosystem - https://hoppscotch.io
+  - [🌐Official Site](https://hoppscotch.io)
+- [utterance/utterances][utterance/utterances]: 🔮 A lightweight comments widget built on GitHub issues
+  - [🌐Official Site](https://utteranc.es)
+- [shinework/photoshot][shinework/photoshot]
+  - [🌐Official Site](https://photoshot.app)
+- [lensterxyz/lenster][lensterxyz/lenster]: Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
+  - [🌐Official Site](https://lenster.xyz)
+- [directus/directus][directus/directus]: The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+  - [🌐Official Site](https://directus.io)
+- [home-assistant/frontend][home-assistant/frontend]: 🍭 Frontend for Home Assistant
+  - [🌐Official Site](https://demo.home-assistant.io)
+- [wesbos/pommade][wesbos/pommade]: A menu bar app to check your hair
+- [awslabs/aws-icons-for-plantuml][awslabs/aws-icons-for-plantuml]: PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
+- [PrismJS/prism][PrismJS/prism]: Lightweight, robust, elegant syntax highlighting.
+  - [🌐Official Site](https://prismjs.com)
+- [hmartiro/riffusion-app][hmartiro/riffusion-app]: Stable diffusion for real-time music generation
+  - [🌐Official Site](http://riffusion.com)
+- [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the <canvas> tag
+  - [🌐Official Site](https://www.chartjs.org)
+- [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
+  - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
+- [CorwinDev/Discord-Bot][CorwinDev/Discord-Bot]: Discord Bot with over 400 commands and made for large servers
+- [Infisical/infisical][Infisical/infisical]: ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+  - [🌐Official Site](https://infisical.com)
+- [dariusk/twitter-archiver][dariusk/twitter-archiver]: Make your own simple, public, searchable Twitter archive
+- [alan2207/bulletproof-react][alan2207/bulletproof-react]: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [openaudioserver/open-audio-server][openaudioserver/open-audio-server]: A self-hosted and free music server compatible with web browsers and smartphone apps
+- [jnsmalm/pixi3d][jnsmalm/pixi3d]: The 3D renderer for PixiJS. Seamless integration with 2D applications.
+  - [🌐Official Site](https://pixi3d.org)
+- [llacloud/illa-builder][llacloud/illa-builder]: An open-source low-code Platform for Developers.
+  - [🌐Official Site](https://illacloud.com)
+- [TanStack/router][TanStack/router]: 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
+  - [🌐Official Site](https://tanstack.com/router)
+- [melonjs/melonJS][melonjs/melonJS]: a fresh & lightweight javascript game engine
+  - [🌐Official Site](https://melonjs.org)
+- [yaroslav-n/tweetGPT][yaroslav-n/tweetGPT]: TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+- [nocobase/nocobase][nocobase/nocobase]: NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+  - [🌐Official Site](https://www.nocobase.com)
+- [open-telemetry/opentelemetry-js][open-telemetry/opentelemetry-js]: OpenTelemetry JavaScript Client
+  - [🌐Official Site](https://opentelemetry.io)
+- [harbor-school/lighthouse][harbor-school/lighthouse]: Lighthouse is a continuous design system for integrating design with development workflows.
+  - [🌐Official Site](https://lighthouse.harbor.school)
+- [AmruthPillai/Reactive-Resume][AmruthPillai/Reactive-Resume]: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+  - [🌐Official Site](https://rxresu.me)
+- [microfeed/microfeed][microfeed/microfeed]: a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+  - [🌐Official Site](https://www.microfeed.org)
+- [excalidraw/excalidraw][excalidraw/excalidraw]: Virtual whiteboard for sketching hand-drawn like diagrams
+  - [🌐Official Site](https://excalidraw.com)
+- [TheOfficialFloW/HENlo][TheOfficialFloW/HENlo]: WebKit+Kernel exploit chain for all PS Vita firmwares
+- [novuhq/novu][novuhq/novu]: The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+  - [🌐Official Site](https://novu.co)
+- [timqian/chinese-independent-blogs][timqian/chinese-independent-blogs]: 中文独立博客列表
+  - [🌐Official Site](https://feeds.pub/cn-indie)
+- [zlib-searcher/zlib-searcher][zlib-searcher/zlib-searcher]: search zlib/libgen index to get ipfs_cid.
+- [lensapp/lens][lensapp/lens]: Lens - The way the world runs Kubernetes
+  - [🌐Official Site](https://k8slens.dev)
+- [MuhammedKalkan/OpenLens][MuhammedKalkan/OpenLens]: OpenLens Binary Build Repository
+- [appsmithorg/appsmith][appsmithorg/appsmith]: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+  - [🌐Official Site](https://www.appsmith.com)
+- [gluon-framework/gluon][gluon-framework/gluon]: A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
+  - [🌐Official Site](https://gluonjs.org)
+- [desktop/desktop][desktop/desktop]: Focus on what matters instead of fighting with Git.
+  - [🌐Official Site](https://desktop.github.com)
+- [coollabsio/coolify][coollabsio/coolify]: An open-source & self-hostable Heroku / Netlify alternative.
+  - [🌐Official Site](https://coolify.io)
+- [typeorm/typeorm][typeorm/typeorm]: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+  - [🌐Official Site](http://typeorm.io)
+- [Nutlope/roomGPT][Nutlope/roomGPT]: Upload a photo of your room to generate your dream room with AI.
+  - [🌐Official Site](https://www.roomgpt.io)
+- [midudev/openui.com][midudev/openui.com]: Generador de componentes de UI con IA
+- [Postcatlab/postcat][Postcatlab/postcat]: Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
+  - [🌐Official Site](https://www.postcat.com)
+- [Bin-Huang/chatbox][Bin-Huang/chatbox]: a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
+- [whoiskatrin/sql-translator][whoiskatrin/sql-translator]: SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
+  - [🌐Official Site](https://www.sqltranslate.app)
+- [chathub-dev/chathub][chathub-dev/chathub]: All-in-one chatbot client
+  - [🌐Official Site](https://chathub.gg)
+- [tangly1024/NotionNext][tangly1024/NotionNext]: 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
+  - [🌐Official Site](https://tangly1024.com)
+- [ayaka14732/ChatGPTAPIFree][ayaka14732/ChatGPTAPIFree]: A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
+- [cocktailpeanut/dalai][cocktailpeanut/dalai]: The simplest way to run LLaMA on your local machine
+  - [🌐Official Site](https://cocktailpeanut.github.io/dalai)
+- [upscayl/upscayl][upscayl/upscayl]: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+  - [🌐Official Site](https://upscayl.github.io)
+- [gencay/vscode-chatgpt][gencay/vscode-chatgpt]: Your best AI pair programmer - open source only
+- [xenova/transformers.js][xenova/transformers.js]: Run 🤗 Transformers in your browser!
+  - [🌐Official Site](https://xenova.github.io/transformers.js)
+- [josStorer/chatGPTBox][josStorer/chatGPTBox]: Integrating ChatGPT into your browser deeply, everything you need is here
+
+
+
+
+
+## Typescript
+
+- [cogentapps/chat-with-gpt][cogentapps/chat-with-gpt]: An open-source ChatGPT app with a voice
+  - [🌐Official Site](https://chatwithgpt.netlify.app)
+- [futantan/OpenGpt][futantan/OpenGpt]: Create your own ChatGPT App in seconds.
+  - [🌐Official Site](https://open-gpt.app)
+- [mckaywrigley/chatbot-ui][mckaywrigley/chatbot-ui]: A ChatGPT clone for running locally in your browser.
+  - [🌐Official Site](https://www.chatbotui.com)
+- [logspace-ai/langflow][logspace-ai/langflow]: ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+  - [🌐Official Site](http://www.logspace.ai)
+
+
+
+
+<TagLinks />
+
+<!-- Javascript -->
+[hahnlee/hwp.js]: https://github.com/hahnlee/hwp.js
+[SadeghHayeri/GreenTunnel]: https://github.com/SadeghHayeri/GreenTunnel
+[my-school-info/neis-api]: https://github.com/my-school-info/neis-api
+[strapi/strapi]: https://github.com/strapi/strapi
+[withastro/astro]: https://github.com/withastro/astro
+[odoo/odoo]: https://github.com/odoo/odoo
+[tarutin/hovrly]: https://github.com/tarutin/hovrly
+[kelektiv/node-cron]: https://github.com/kelektiv/node-cron
+[alibaba/ice]: https://github.com/alibaba/ice
+[lusaxweb/vuesax-next]: https://github.com/lusaxweb/vuesax-next
+[Cveinnt/LiveTerm]: https://github.com/Cveinnt/LiveTerm
+[BabylonJS/Babylon.js]: https://github.com/BabylonJS/Babylon.js
+[nkallen/plasticity]: https://github.com/nkallen/plasticitys
+[jaredh159/tailwind-react-native-classnames]: https://github.com/jaredh159/tailwind-react-native-classnames
+[louislam/uptime-kuma]: https://github.com/louislam/uptime-kuma
+[jamealg/KT-companion]: https://github.com/jamealg/KT-companion
+[select2/select2]: https://github.com/select2/select2
+[tldraw/tldraw]: https://github.com/tldraw/tldraw
+[thunlp/WantWords]: https://github.com/thunlp/WantWords
+[DustinBrett/daedalOS]: https://github.com/DustinBrett/daedalOS
+[UnblockNeteaseMusic/server]: https://github.com/UnblockNeteaseMusic/server
+[solana-labs/solana-pay]: https://github.com/solana-labs/solana-pay
+[trpc/trpc]: https://github.com/trpc/trpc
+[flashbots/simple-arbitrage]: https://github.com/flashbots/simple-arbitrage
+[roots/bud]: https://github.com/roots/bud
+[remix-run/remix]: https://github.com/remix-run/remix
+[iptv-org/iptv]: https://github.com/iptv-org/iptv
+[nolanlawson/fuite]: https://github.com/nolanlawson/fuite
+[medusajs/medusa]: https://github.com/medusajs/medusa
+[AsyncBanana/microdiff]: https://github.com/AsyncBanana/microdiff
+[laurent22/joplin]: https://github.com/laurent22/joplin
+[marktext/marktext]: https://github.com/marktext/marktext
+[facebook/flipper]: https://github.com/facebook/flipper
+[facebook/jest]: https://github.com/facebook/jest
+[pulsar-edit/pulsar]: https://github.com/pulsar-edit/pulsar
+[DulLabs/bhai-lang]: https://github.com/DulLabs/bhai-lang
+[mathjax/MathJax]: https://github.com/mathjax/MathJax
+[vuetifyjs/vuetify]: https://github.com/vuetifyjs/vuetify
+[automerge/automerge]: https://github.com/automerge/automerge
+[windowjs/windowjs]: https://github.com/windowjs/windowjs
+[moment/moment]: https://github.com/moment/moment
+[ciderapp/Cider]: https://github.com/ciderapp/Cider
+[actualbudget/actual-server]: https://github.com/actualbudget/actual-server
+[actualbudget/actual]: https://github.com/actualbudget/actual
+[hgoebl/mobile-detect.js]: https://github.com/hgoebl/mobile-detect.js
+[semantic-org/semantic-ui]: https://github.com/semantic-org/semantic-ui
+[hoppscotch/hoppscotch]: https://github.com/hoppscotch/hoppscotch
+[utterance/utterances]: https://github.com/utterance/utterances
+[shinework/photoshot]: https://github.com/shinework/photoshot
+[lensterxyz/lenster]: https://github.com/lensterxyz/lenster
+[directus/directus]: https://github.com/directus/directus
+[home-assistant/frontend]: https://github.com/home-assistant/frontend
+[wesbos/pommade]: https://github.com/wesbos/pommade
+[awslabs/aws-icons-for-plantuml]: https://github.com/awslabs/aws-icons-for-plantuml
+[PrismJS/prism]: https://github.com/PrismJS/prism
+[hmartiro/riffusion-app]: https://github.com/hmartiro/riffusion-app
+[chartjs/Chart.js]: https://github.com/chartjs/Chart.js
+[carson-katri/dream-textures]: https://github.com/carson-katri/dream-textures
+[xiaoxian521/vue-pure-admin]: https://github.com/xiaoxian521/vue-pure-admin
+[CorwinDev/Discord-Bot]: https://github.com/CorwinDev/Discord-Bot
+[Infisical/infisical]: https://github.com/Infisical/infisical
+[dariusk/twitter-archiver]: https://github.com/dariusk/twitter-archiver
+[alan2207/bulletproof-react]: https://github.com/alan2207/bulletproof-react
+[openaudioserver/open-audio-server]: https://github.com/openaudioserver/open-audio-server
+[jnsmalm/pixi3d]: https://github.com/jnsmalm/pixi3d
+[llacloud/illa-builder]: https://github.com/illacloud/illa-builder
+[TanStack/router]: https://github.com/TanStack/router
+[melonjs/melonJS]: https://github.com/melonjs/melonJS
+[yaroslav-n/tweetGPT]: https://github.com/yaroslav-n/tweetGPT
+[nocobase/nocobase]: https://github.com/nocobase/nocobase
+[open-telemetry/opentelemetry-js]: https://github.com/open-telemetry/opentelemetry-js
+[harbor-school/lighthouse]: https://github.com/harbor-school/lighthouse
+[AmruthPillai/Reactive-Resume]: https://github.com/AmruthPillai/Reactive-Resume
+[microfeed/microfeed]: https://github.com/microfeed/microfeed
+[excalidraw/excalidraw]: https://github.com/excalidraw/excalidraw
+[TheOfficialFloW/HENlo]: https://github.com/TheOfficialFloW/HENlo
+[novuhq/novu]: https://github.com/novuhq/novu
+[timqian/chinese-independent-blogs]: https://github.com/timqian/chinese-independent-blogs
+[zlib-searcher/zlib-searcher]: https://github.com/zlib-searcher/zlib-searcher
+[lensapp/lens]: https://github.com/lensapp/lens
+[MuhammedKalkan/OpenLens]: https://github.com/MuhammedKalkan/OpenLens
+[appsmithorg/appsmith]: https://github.com/appsmithorg/appsmith
+[gluon-framework/gluon]: https://github.com/gluon-framework/gluon
+[desktop/desktop]: https://github.com/desktop/desktop
+[coollabsio/coolify]: https://github.com/coollabsio/coolify
+[typeorm/typeorm]: https://github.com/typeorm/typeorm
+[Nutlope/roomGPT]: https://github.com/Nutlope/roomGPT
+[midudev/openui.com]: https://github.com/midudev/openui.com
+[Postcatlab/postcat]: https://github.com/Postcatlab/postcat
+[Bin-Huang/chatbox]: https://github.com/Bin-Huang/chatbox
+[whoiskatrin/sql-translator]: https://github.com/whoiskatrin/sql-translator
+[chathub-dev/chathub]: https://github.com/chathub-dev/chathub
+[tangly1024/NotionNext]: https://github.com/tangly1024/NotionNext
+[ayaka14732/ChatGPTAPIFree]: https://github.com/ayaka14732/ChatGPTAPIFree
+[cocktailpeanut/dalai]: https://github.com/cocktailpeanut/dalai
+[upscayl/upscayl]: https://github.com/upscayl/upscayl
+[gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
+[xenova/transformers.js]: https://github.com/xenova/transformers.js
+[josStorer/chatGPTBox]: https://github.com/josStorer/chatGPTBox
+<!-- Typescript -->
+[cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
+[futantan/OpenGpt]: https://github.com/futantan/OpenGpt
+[mckaywrigley/chatbot-ui]: https://github.com/mckaywrigley/chatbot-ui
+[logspace-ai/langflow]: https://github.com/logspace-ai/langflow

@@ -46,4 +46,12 @@ tags: ["bash", "sh"]
 
 - https://www.youtube.com/watch?v=Pl_Zn0P5C6k
 
+### Others
+
+- https://yjwang.tistory.com/161
+- https://quay.io/repository/ovirt/buildcontainer?tab=info
+- https://github.com/oVirt/ovirt-web-ui/blob/master/DEVELOPERS.md
+- https://www.ovirt.org/develop/developer-guide/debugfrontend.html
+- https://anthonyspiteri.net/ovirt-kvm-homelab-2/
+
 <TagLinks />

@@ -47,6 +47,9 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 | ❌ | <a href="https://www.youtube.com/watch?v=8sKTvf1c2zQ"><img width="140px" height="auto" alt="thumb-8sKTvf1c2zQ" src="https://i.ytimg.com/vi/8sKTvf1c2zQ/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] Jenkins에서 Jenkins로의 여정](https://www.youtube.com/watch?v=8sKTvf1c2zQ) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=dFPGO5jDHPY"><img width="140px" height="auto" alt="thumb-dFPGO5jDHPY" src="https://i.ytimg.com/vi/dFPGO5jDHPY/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 오픈소스 KeyCloak을 활용한 인증 서버 구축기](https://www.youtube.com/watch?v=dFPGO5jDHPY) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
 
+👩‍💻 개발자를 위한 데이터베이스 관리 방법, NHN Cloud On 웨비나에서 만나보세요!
+LHs2A1dN4mw
+
 :::
 
 ---
@@ -166,6 +169,20 @@ https://www.youtube.com/watch?v=pA5BMSFBO9c&list=WL&index=1013
 마이크로소프트 애저 클라우드 추천서비스, VDI, GitHub, SAP [챕터9, 토크아이티 Video Book#5, 퍼블릭클라우드]
 PIi7C4tMEDU
 
+Nutanix가 제시하는 VMware가상화 사용자 고민 해결 [토크아이티 프리미엄 웨비나]
+TuK05lUol9Y
+
+[AWS 실전 노하우 #.4]AWS의 CI/CD 서비스 소개 및 활용
+An4DJn9SSyo
+
+Hadoop기반 빅데이터 분석의 태생적 한계들 [토크아이티 세미남234, 시앤지원]
+KJ-5YtFxKDc
+
+데이터 분석 플랫폼 빠르고, 쉽고, 똑똑하게 사용하기 feat. VMware 그린플럼 구축사례 분석 [토크아이티 프리미엄웨비나, 시앤지원]
+nkhZph2EJmg
+
+어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  [토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩]
+OZCXTBr7V44
 
 :::
 
@@ -180,22 +197,20 @@ PIi7C4tMEDU
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=FE1rggwUFWw"><img width="140px" height="auto" alt="thumb-FE1rggwUFWw" src="https://i.ytimg.com/vi/FE1rggwUFWw/hqdefault.jpg"/></a> | [iOS - 동시성 프로그래밍 2/3](https://www.youtube.com/watch?v=FE1rggwUFWw) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ihtXSxm7FSE"><img width="140px" height="auto" alt="thumb-ihtXSxm7FSE" src="https://i.ytimg.com/vi/ihtXSxm7FSE/hqdefault.jpg"/></a> | [iOS - 동시성 프로그래밍 1/3](https://www.youtube.com/watch?v=ihtXSxm7FSE) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
 
 402H \(워크숍\) 그래서 테스트코드는 어떻게 작성하고 있나요? - 윤중현
 QEatbenQC7E
 
-
 402F 당근마켓 iOS 개발문화 \(티타임\)
 K_elCcD27IA
-
 
 401F Modular Architecture with Tuist - 김우성
 kfuOcu0q0Ls
 
-
 402D 우당탕탕! SafariExtension에서 XcodeExtension까지 - 이다혜
 XDaaN9MLPvQ
-
 
 402C \(워크숍\) SwiftUI와 TCA로 GithubSearch 앱 만들기 - 허규영, 김대영
 2DO420E9lvs
@@ -211,6 +226,8 @@ MMyfZ3pX2TA
 
 :::
 
+<!-- 코드스쿼드 -->
+
 
 ---
 ## Github
@@ -224,6 +241,10 @@ MMyfZ3pX2TA
 | ❌ | <a href="https://www.youtube.com/watch?v=QUBPomLp6Iw"><img width="140px" height="auto" alt="thumb-QUBPomLp6Iw" src="https://i.ytimg.com/vi/QUBPomLp6Iw/hqdefault.jpg"/></a> | [Automate Anything with Script Kit - Open Source Friday](https://www.youtube.com/watch?v=QUBPomLp6Iw) <br/><br/> _[GitHub][yu-github]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=FwgxksxXj58"><img width="140px" height="auto" alt="thumb-FwgxksxXj58" src="https://i.ytimg.com/vi/FwgxksxXj58/hqdefault.jpg"/></a> | [Workflows for Data Scientists and Machine Learning #MLOps](https://www.youtube.com/watch?v=FwgxksxXj58) <br/><br/> _[GitHub][yu-github]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=sQoK6dKAqec"><img width="140px" height="auto" alt="thumb-sQoK6dKAqec" src="https://i.ytimg.com/vi/sQoK6dKAqec/hqdefault.jpg"/></a> | [Command-line utility for building React apps quickly - `create-react-app`](https://www.youtube.com/watch?v=sQoK6dKAqec) <br/><br/> _[GitHub][yu-github]_ |
+
+Automate your CI/CD workflows with GitHub Actions
+qy_HaIaNbkE
+  
 
 :::
 
@@ -305,6 +326,9 @@ NXfXc95-an4
 
 The Three Laws of TDD \(Featuring Kotlin\)
 qkblc5WRn-U
+
+Bootiful Spring Boot 3
+Y2gZz8-yK7Y
 
 :::
 
@@ -454,7 +478,12 @@ TW9k-u_EVlc
 Getting Started with the Gradle Kotlin DSL
 KN-_q3ss4l0
 
+Converting Gradle build files to Kotlin with IntelliJ IDEA
+HrBKDmmKkaU
+
 :::
+
+<!-- Gradle -->
 
 ---
 
@@ -479,6 +508,8 @@ Loom in the Java Ecosystem - Inside Java Newscast #34
 I9hQvJO39uM
 
 :::
+
+<!-- Java -->
 
 ---
 
@@ -698,6 +729,7 @@ BcVdZJqfGxM
 
 
 ---
+
 ## Docker
 
 [Docker][yu-docker]
@@ -736,6 +768,9 @@ The Future of Compose, Hosted by Bret Fisher
 
 Cgroups, namespaces, and beyond: what are containers made from?
 sK5i-N34im8
+
+Best Practices for Production-ready .NET Docker Images
+hUSbU3K5tgQ
 
 :::
 
@@ -835,6 +870,13 @@ TeHVd3UlfY8
 
 Blazor for Web Form and C# Developers
 gmopA3LEEeE
+
+\[Korean\] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET
+0tQNsHc-410
+
+Languages &amp; Runtime Community Standup - Dive into C# internals
+jaPk6Nt33KM
+  
 
 :::
 
@@ -1165,6 +1207,9 @@ Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021
 
 \[2018. 05\] 파이썬 개발환경 구성하기 거의 끝판왕   Docker Compose - 김승호
 oQ50eqDH91A
+
+Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021
+b6vHjT1t0ug
 
 :::
 
@@ -1691,7 +1736,16 @@ JZPxHW9pjsA
 Automating updates to your product listings in AWS Marketplace with Catalog API
 7KpUJ6Wcqrg
 
+RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services
+JXC4qYYQD8E
+  
+Keeping the SAP Core Clean with ROSA | Amazon Web Services
+ZX_eeKwslhk
+  
 :::
+
+<!-- Amazon Web Services -->
+
 
 ---
 ## Amazon Web Services Korea

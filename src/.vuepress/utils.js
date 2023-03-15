@@ -9,6 +9,8 @@ function getDocsNavBar(item) {
             children: [
               'github/',
               'github/awesome-list',
+              'github/library-java',
+              'github/library-python',
               'github/library',
               'github/news',
               'github/tutorial',
@@ -22,7 +24,7 @@ function getDocsNavBar(item) {
               'youtube/watch-later-tutorial',
               'youtube/watch-later-keynote',
               'youtube/edu-compsci',
-              'youtube/edu-linux',
+              'youtube/edu-devops',
               'youtube/edu-js',
               'youtube/edu-java',
               'youtube/edu-ios',
@@ -104,6 +106,7 @@ function getDocsNavBar(item) {
             title: '🅺Kotlin',
             children: [
               'lang-kotlin/',
+              'lang-kotlin/basics',
               'lang-kotlin/tips',
               'lang-kotlin/references',
             ]

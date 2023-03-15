@@ -64,7 +64,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [lukasz-madon/awesome-remote-job][lukasz-madon/awesome-remote-job]: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]
 - [ErikCH/DevYouTubeList][ErikCH/DevYouTubeList]: List of Development YouTube Channels
-
+- [jtmuller5/The-HustleGPT-Challenge][jtmuller5/The-HustleGPT-Challenge]: Building Startups with an AI Co-Founder
+  - [🌐Official Site](https://chatcodetutor.gumroad.com/l/abqwfw?_gl=1*2q8f4n*_ga*NDIwMjk5MDQ0LjE2NzU2MjM0ODc.*_ga_6LJN6D94N6*MTY3OTE2NDQ2MS40NC4xLjE2NzkxNjU1NzcuMC4wLjA.)
 
 ---
 
@@ -132,6 +133,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [lukasz-madon/awesome-remote-job]: https://github.com/lukasz-madon/awesome-remote-job
 [f/awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
 [ErikCH/DevYouTubeList]: https://github.com/ErikCH/DevYouTubeList
+[jtmuller5/The-HustleGPT-Challenge]: https://github.com/jtmuller5/The-HustleGPT-Challenge
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

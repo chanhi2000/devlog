@@ -87,11 +87,14 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [vopani/jaxton][vopani/jaxton]: 100 exercises to learn JAX
 - [Jdsleppy/django-orm-cheatsheet][Jdsleppy/django-orm-cheatsheet]: A cheatsheet for the Django ORM
 - [mrdbourke/pytorch-deep-learning][mrdbourke/pytorch-deep-learning]: Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
-    - [🌐Official Site](https://learnpytorch.io)
+  - [🌐Official Site](https://learnpytorch.io)
 - [mouredev/Hello-Python][mouredev/Hello-Python]: Python desde cero
 - [donnemartin/system-design-primer][donnemartin/system-design-primer]: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [huggingface/diffusion-models-class][huggingface/diffusion-models-class]: Materials for the Hugging Face Diffusion Models Course
-
+- [Azure-Samples/azure-search-openai-demo][Azure-Samples/azure-search-openai-demo]: Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content
+  - [🌐Official Site](https://azure.microsoft.com/products/search)
+- [TheAlgorithms/Python][TheAlgorithms/Python]: All Algorithms implemented in Python
+  - [🌐Official Site](https://the-algorithms.com)
 
 
 ---
@@ -233,6 +236,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [mouredev/Hello-Python]: https://github.com/mouredev/Hello-Python
 [donnemartin/system-design-primer]: https://github.com/donnemartin/system-design-primer
 [huggingface/diffusion-models-class]: https://github.com/huggingface/diffusion-models-class
+[Azure-Samples/azure-search-openai-demo]: https://github.com/Azure-Samples/azure-search-openai-demo
+[TheAlgorithms/Python]: https://github.com/TheAlgorithms/Python
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->

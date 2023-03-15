@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Education (Linux)
-description: 📺Youtube > Education (Linux)
+title: Education (DevOps)
+description: 📺Youtube > Education (DevOps)
 tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubuntu"]
 ---
 
@@ -11,13 +11,111 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 ---
 
+## That DevOps Guy
+
+[That DevOps Guy][yu-marcel-dempers]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=u0qtgUMLua0"><img width="140px" height="auto" alt="thumb-u0qtgUMLua0" src="https://i.ytimg.com/vi/u0qtgUMLua0/hqdefault.jpg"/></a> | [Storing Secrets in GIT \| GitOps \| Kubernetes](https://www.youtube.com/watch?v=u0qtgUMLua0) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1zcXudjSVUs"><img width="140px" height="auto" alt="thumb-1zcXudjSVUs" src="https://i.ytimg.com/vi/1zcXudjSVUs/hqdefault.jpg"/></a> | [Understanding KUBECTL - Learning Kubernetes](https://www.youtube.com/watch?v=1zcXudjSVUs) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_NtRkBipepg"><img width="140px" height="auto" alt="thumb-_NtRkBipepg" src="https://i.ytimg.com/vi/_NtRkBipepg/hqdefault.jpg"/></a> | [Introduction to Service monitors for beginners | Kubernetes monitoring](https://www.youtube.com/watch?v=_NtRkBipepg) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Qy2A_yJH5-o"><img width="140px" height="auto" alt="thumb-Qy2A_yJH5-o" src="https://i.ytimg.com/vi/Qy2A_yJH5-o/hqdefault.jpg"/></a> | [Getting Started with EKS and Terraform](https://www.youtube.com/watch?v=Qy2A_yJH5-o) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Hc-XFPHDDk4"><img width="140px" height="auto" alt="thumb-Hc-XFPHDDk4" src="https://i.ytimg.com/vi/Hc-XFPHDDk4/hqdefault.jpg"/></a> | [Introduction to Linkerd for beginners \| a Service Mesh](https://www.youtube.com/watch?v=Hc-XFPHDDk4) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hfUIWe1tK8E"><img width="140px" height="auto" alt="thumb-hfUIWe1tK8E" src="https://i.ytimg.com/vi/hfUIWe1tK8E/hqdefault.jpg"/></a> | [RabbitMQ : Message Queues for beginners](https://www.youtube.com/watch?v=hfUIWe1tK8E) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=PW44JaAlI_8"><img width="140px" height="auto" alt="thumb-PW44JaAlI_8" src="https://i.ytimg.com/vi/PW44JaAlI_8/hqdefault.jpg"/></a> | [Making Kubernetes disappear with Shipa](https://www.youtube.com/watch?v=PW44JaAlI_8) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1mNYSn2KMZk"><img width="140px" height="auto" alt="thumb-1mNYSn2KMZk" src="https://i.ytimg.com/vi/1mNYSn2KMZk/hqdefault.jpg"/></a> | [How to build a Kubernetes Webhook \| Admission controllers](https://www.youtube.com/watch?v=1mNYSn2KMZk) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=6kmHvXdAzIM"><img width="140px" height="auto" alt="thumb-6kmHvXdAzIM" src="https://i.ytimg.com/vi/6kmHvXdAzIM/hqdefault.jpg"/></a> | [Fluentd on Kubernetes: Log collection explained](https://www.youtube.com/watch?v=6kmHvXdAzIM) <br/><br/> _[That DevOps Guy][yu-marcel-dempers]_ |
+
+How to use  NGINX Ingress with Kubernetes in 2023
+72zYxSxifpM
+
+2min TECH TIP:  3 MUST HAVE tools for Kubernetes! | Dev Ops
+F7kswYPcTJ4
+
+
+:::
+
+<!-- That DevOps Guy -->
+
+---
+
+## NETVN
+
+[NETVN][yu-netvn]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=1dXVIrFVITk"><img width="140px" height="auto" alt="thumb-1dXVIrFVITk" src="https://i.ytimg.com/vi/1dXVIrFVITk/hqdefault.jpg"/></a> | [Turn old iPhone into Windows XP PC](https://www.youtube.com/watch?v=1dXVIrFVITk) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4ZYbg0Hldjc"><img width="140px" height="auto" alt="thumb-4ZYbg0Hldjc" src="https://i.ytimg.com/vi/4ZYbg0Hldjc/hqdefault.jpg"/></a> | [CMD : Boot into Safe Mode](https://www.youtube.com/watch?v=4ZYbg0Hldjc) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=v1C21TJFcYM"><img width="140px" height="auto" alt="thumb-v1C21TJFcYM" src="https://i.ytimg.com/vi/v1C21TJFcYM/hqdefault.jpg"/></a> | [CMD : Enter UEFI / BIOS with only 1 command](https://www.youtube.com/watch?v=v1C21TJFcYM) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=DQsDWDnYgu0"><img width="140px" height="auto" alt="thumb-DQsDWDnYgu0" src="https://i.ytimg.com/vi/DQsDWDnYgu0/hqdefault.jpg"/></a> | [CMD : Show &amp; Export all Wi-Fi passwords to File](https://www.youtube.com/watch?v=DQsDWDnYgu0) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=k1szHpFXukI"><img width="140px" height="auto" alt="thumb-k1szHpFXukI" src="https://i.ytimg.com/vi/k1szHpFXukI/hqdefault.jpg"/></a> | [How to Monitor Your Windows Server Using MRTG](https://www.youtube.com/watch?v=k1szHpFXukI) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=aAcsNXVQ7To"><img width="140px" height="auto" alt="thumb-aAcsNXVQ7To" src="https://i.ytimg.com/vi/aAcsNXVQ7To/hqdefault.jpg"/></a> | [Create your own network traffic monitoring tool on Windows](https://www.youtube.com/watch?v=aAcsNXVQ7To) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=29PlocbDz5g"><img width="140px" height="auto" alt="thumb-29PlocbDz5g" src="https://i.ytimg.com/vi/29PlocbDz5g/hqdefault.jpg"/></a> | [Connect to Wi-Fi network with Camera](https://www.youtube.com/watch?v=29PlocbDz5g) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=FDQJT0zCpLU"><img width="140px" height="auto" alt="thumb-FDQJT0zCpLU" src="https://i.ytimg.com/vi/FDQJT0zCpLU/hqdefault.jpg"/></a> | [Ping from Text file and Save Log file](https://www.youtube.com/watch?v=FDQJT0zCpLU) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Hk_P_v-ULpM"><img width="140px" height="auto" alt="thumb-Hk_P_v-ULpM" src="https://i.ytimg.com/vi/Hk_P_v-ULpM/hqdefault.jpg"/></a> | [Commands to Speed up File transfers on Windows PC](https://www.youtube.com/watch?v=Hk_P_v-ULpM) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=dKtuES4eOOs"><img width="140px" height="auto" alt="thumb-dKtuES4eOOs" src="https://i.ytimg.com/vi/dKtuES4eOOs/hqdefault.jpg"/></a> | [CMD : How to backup data like paid software](https://www.youtube.com/watch?v=dKtuES4eOOs) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=mEm0qEv9ukI"><img width="140px" height="auto" alt="thumb-mEm0qEv9ukI" src="https://i.ytimg.com/vi/mEm0qEv9ukI/hqdefault.jpg"/></a> | [How to install iPhone Notes on Windows PC](https://www.youtube.com/watch?v=mEm0qEv9ukI) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WKnu7tTMlEM"><img width="140px" height="auto" alt="thumb-WKnu7tTMlEM" src="https://i.ytimg.com/vi/WKnu7tTMlEM/hqdefault.jpg"/></a> | [How to combine 03 PCs into 01 Network Storage system \| PetaSAN](https://www.youtube.com/watch?v=WKnu7tTMlEM) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=dzUnSOHJB3A"><img width="140px" height="auto" alt="thumb-dzUnSOHJB3A" src="https://i.ytimg.com/vi/dzUnSOHJB3A/hqdefault.jpg"/></a> | [How to install Zabbix on Windows with Docker Desktop](https://www.youtube.com/watch?v=dzUnSOHJB3A) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=I7L6_E4YTRA"><img width="140px" height="auto" alt="thumb-I7L6_E4YTRA" src="https://i.ytimg.com/vi/I7L6_E4YTRA/hqdefault.jpg"/></a> | [How to create your own Wiki page](https://www.youtube.com/watch?v=I7L6_E4YTRA) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=u3yO0OPUXbI"><img width="140px" height="auto" alt="thumb-u3yO0OPUXbI" src="https://i.ytimg.com/vi/u3yO0OPUXbI/hqdefault.jpg"/></a> | [Free Control 2 PC with only 1 Keyboard &amp; Mouse \| Microsoft app](https://www.youtube.com/watch?v=u3yO0OPUXbI) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_Xkpy0-Qy5w"><img width="140px" height="auto" alt="thumb-_Xkpy0-Qy5w" src="https://i.ytimg.com/vi/_Xkpy0-Qy5w/hqdefault.jpg"/></a> | [View CPU temperature on Taskbar in Windows](https://www.youtube.com/watch?v=_Xkpy0-Qy5w) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EIUBzBh4k_Y"><img width="140px" height="auto" alt="thumb-EIUBzBh4k_Y" src="https://i.ytimg.com/vi/EIUBzBh4k_Y/hqdefault.jpg"/></a> | [How to build your own cloud on Windows for free \| NETVN](https://www.youtube.com/watch?v=EIUBzBh4k_Y) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=6rER1_P5uvo"><img width="140px" height="auto" alt="thumb-6rER1_P5uvo" src="https://i.ytimg.com/vi/6rER1_P5uvo/hqdefault.jpg"/></a> | [CMD : How to Find Your Public IP Addresses with 1 command \| NETVN](https://www.youtube.com/watch?v=6rER1_P5uvo) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=h_NKy2-FRwE"><img width="140px" height="auto" alt="thumb-h_NKy2-FRwE" src="https://i.ytimg.com/vi/h_NKy2-FRwE/hqdefault.jpg"></a> | [CMD : Show Wi-Fi Password \| Windows 10 / 11 \| NETVN](https://www.youtube.com/watch?v=h_NKy2-FRwE) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=r-Ydlplo7r0"><img width="140px" height="auto" alt="thumb-r-Ydlplo7r0" src="https://i.ytimg.com/vi/r-Ydlplo7r0/hqdefault.jpg"/></a> | [CMD : Score your computer with just 1 command](https://www.youtube.com/watch?v=r-Ydlplo7r0) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=FaADlaOmZME"><img width="140px" height="auto" alt="thumb-FaADlaOmZME" src="https://i.ytimg.com/vi/FaADlaOmZME/hqdefault.jpg"/></a> | [CMD :  Speed Test RAM on Windows 11/10](https://www.youtube.com/watch?v=FaADlaOmZME) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1SIwHkcVXNM"><img width="140px" height="auto" alt="thumb-1SIwHkcVXNM" src="https://i.ytimg.com/vi/1SIwHkcVXNM/hqdefault.jpg"/></a> | [How to Speed Test SSD/HDD with only 1 command](https://www.youtube.com/watch?v=1SIwHkcVXNM) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=thXyCuEG7_o"><img width="140px" height="auto" alt="thumb-thXyCuEG7_o" src="https://i.ytimg.com/vi/thXyCuEG7_o/hqdefault.jpg"/></a> | [How to Copy without Formula in Excel](https://www.youtube.com/watch?v=thXyCuEG7_o) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=a54sqzcDrUU"><img width="140px" height="auto" alt="thumb-a54sqzcDrUU" src="https://i.ytimg.com/vi/a54sqzcDrUU/hqdefault.jpg"/></a> | [Convert MBR to GPT without loss DATA | Windows 11/10](https://www.youtube.com/watch?v=a54sqzcDrUU) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rZu5TSAKDrU"><img width="140px" height="auto" alt="thumb-rZu5TSAKDrU" src="https://i.ytimg.com/vi/rZu5TSAKDrU/hqdefault.jpg"/></a> | [How to install Windows 11 on Legacy BIOS](https://www.youtube.com/watch?v=rZu5TSAKDrU) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=H3bg_TNoqtc"><img width="140px" height="auto" alt="thumb-H3bg_TNoqtc" src="https://i.ytimg.com/vi/H3bg_TNoqtc/hqdefault.jpg"/></a> | [Challenge to create Windows 11 installer using command](https://www.youtube.com/watch?v=H3bg_TNoqtc) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=7ud7DCICv3o"><img width="140px" height="auto" alt="thumb-7ud7DCICv3o" src="https://i.ytimg.com/vi/7ud7DCICv3o/hqdefault.jpg"/></a> | [How to Fix " VCRUNTIME140_1.dll was not found"](https://www.youtube.com/watch?v=7ud7DCICv3o) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=sQdGauaLzSU"><img width="140px" height="auto" alt="thumb-sQdGauaLzSU" src="https://i.ytimg.com/vi/sQdGauaLzSU/hqdefault.jpg"/></a> | [Giving you a copy trick on Windows 11/10](https://www.youtube.com/watch?v=sQdGauaLzSU) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=HZMzuHwoC8M"><img width="140px" height="auto" alt="thumb-HZMzuHwoC8M" src="https://i.ytimg.com/vi/HZMzuHwoC8M/hqdefault.jpg"/></a> | [How to Fix " No internet, secured " in Windows 11](https://www.youtube.com/watch?v=HZMzuHwoC8M) <br/><br/> _[NETVN][yu-netvn]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4ZYbg0Hldjc"><img width="140px" height="auto" alt="thumb-4ZYbg0Hldjc" src="https://i.ytimg.com/vi/4ZYbg0Hldjc/hqdefault.jpg"/></a> | [CMD : Boot into Safe Mode](https://www.youtube.com/watch?v=4ZYbg0Hldjc) <br/><br/> _[NETVN][yu-netvn]_ |
+
+:::
+
+<!-- NETVN -->
+
+---
+
+## Learn Linux TV
+
+[Learn Linux TV][yu-learn-linux-tv]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=aSWVwdr2_n8"><img width="140px" height="auto" alt="thumb-aSWVwdr2_n8" src="https://i.ytimg.com/vi/aSWVwdr2_n8/hqdefault.jpg"/></a> | [Linux Crash Course - The "`watch`" Command](https://www.youtube.com/watch?v=aSWVwdr2_n8) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=sBrAVQumqjs"><img width="140px" height="auto" alt="thumb-sBrAVQumqjs" src="https://i.ytimg.com/vi/sBrAVQumqjs/hqdefault.jpg"/></a> | [5 Must Have Tweaks to Secure OpenSSH](https://www.youtube.com/watch?v=sBrAVQumqjs) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZWC_1nISLKE"><img width="140px" height="auto" alt="thumb-ZWC_1nISLKE" src="https://i.ytimg.com/vi/ZWC_1nISLKE/hqdefault.jpg"/></a> | [Why you should build your Portfolio in Github to gain a Linux Job](https://www.youtube.com/watch?v=ZWC_1nISLKE) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bVB24I7B0JQ"><img width="140px" height="auto" alt="thumb-bVB24I7B0JQ" src="https://i.ytimg.com/vi/bVB24I7B0JQ/hqdefault.jpg"/></a> | [Building your own Git Server with Gitea on AlmaLinux](https://www.youtube.com/watch?v=bVB24I7B0JQ) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=gIDywsGBqf4"><img width="140px" height="auto" alt="thumb-gIDywsGBqf4" src="https://i.ytimg.com/vi/gIDywsGBqf4/hqdefault.jpg"/></a> | [Using Ansible to automate your Laptop and Desktop configs!](https://www.youtube.com/watch?v=gIDywsGBqf4) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WW7yazr-xAM"><img width="140px" height="auto" alt="thumb-WW7yazr-xAM" src="https://i.ytimg.com/vi/WW7yazr-xAM/hqdefault.jpg"/></a> | [Awesome Linux Tools: cheat.sh](https://www.youtube.com/watch?v=WW7yazr-xAM) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=s8F_YWGHeDM"><img width="140px" height="auto" alt="thumb-s8F_YWGHeDM" src="https://i.ytimg.com/vi/s8F_YWGHeDM/hqdefault.jpg"/></a> | [Getting started with Ansible 16 \(Series Finale\) - Templates](https://www.youtube.com/watch?v=s8F_YWGHeDM) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=0Yy65JKVSfM"><img width="140px" height="auto" alt="thumb-0Yy65JKVSfM" src="https://i.ytimg.com/vi/0Yy65JKVSfM/hqdefault.jpg"/></a> | [Learn CentOS 22 - Hosting a Simple Web Page with Apache](https://www.youtube.com/watch?v=0Yy65JKVSfM) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wvpYikch9x4"><img width="140px" height="auto" alt="thumb-wvpYikch9x4" src="https://i.ytimg.com/vi/wvpYikch9x4/hqdefault.jpg"></a> | [Learn CentOS Part 6 - Running Commands with root Privileges](https://www.youtube.com/watch?v=wvpYikch9x4) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_acLAdlRy_I"><img width="140px" height="auto" alt="thumb-_acLAdlRy_I" src="https://i.ytimg.com/vi/_acLAdlRy_I/hqdefault.jpg"></a> | [Learn CentOS Part 3 - Exploring the Linux Filesystem](https://www.youtube.com/watch?v=_acLAdlRy_I) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wwpRtC5nywM"><img width="140px" height="auto" alt="thumb-wwpRtC5nywM" src="https://i.ytimg.com/vi/wwpRtC5nywM/hqdefault.jpg"></a> | [Another Look at My Homelab \(More Detail\)](https://www.youtube.com/watch?v=wwpRtC5nywM) <br/><br/> _[Learn Linux TV][yu-learn-linux-tv]_ |
+:::
+
+<!-- Learn Linux TV -->
+
+---
+
 ## Linux Leech
 
 ::: details BASH Shell tutorials for beginners
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
 | ❌ | <a href="https://www.youtube.com/watch?v=sqYUYHn-HKg"><img width="140px" height="auto" alt="thumb-sqYUYHn-HKg" src="https://i.ytimg.com/vi/sqYUYHn-HKg/hqdefault.jpg"/></a> | [BASH Shell commands `pwd` ( commands for linux )](https://www.youtube.com/watch?v=sqYUYHn-HKg) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rWJrWWOpTkE"><img width="140px" height="auto" alt="thumb-rWJrWWOpTkE" src="https://i.ytimg.com/vi/rWJrWWOpTkE/hqdefault.jpg"/></a> | [BASH Shell command `ls` ( commands for linux )](https://www.youtube.com/watch?v=rWJrWWOpTkE) <br/><br/> _[프리렉][yu-freeleckor]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rWJrWWOpTkE"><img width="140px" height="auto" alt="thumb-rWJrWWOpTkE" src="https://i.ytimg.com/vi/rWJrWWOpTkE/hqdefault.jpg"/></a> | [BASH Shell command `ls` ( commands for linux )](https://www.youtube.com/watch?v=rWJrWWOpTkE) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=L8fD7KS9fGA"><img width="140px" height="auto" alt="thumb-L8fD7KS9fGA" src="https://i.ytimg.com/vi/L8fD7KS9fGA/hqdefault.jpg"/></a> | [BASH Shell commands `cd` ( commands for linux )](https://www.youtube.com/watch?v=L8fD7KS9fGA) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=SDuNvlmTQS8"><img width="140px" height="auto" alt="thumb-SDuNvlmTQS8" src="https://i.ytimg.com/vi/SDuNvlmTQS8/hqdefault.jpg"/></a> | [BASH Shell commands `cat` ( commands for linux )](https://www.youtube.com/watch?v=SDuNvlmTQS8) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=dXxBJ94D_0g"><img width="140px" height="auto" alt="thumb-dXxBJ94D_0g" src="https://i.ytimg.com/vi/dXxBJ94D_0g/hqdefault.jpg"/></a> | [BASH Shell commands `redirection` ( commands for linux )](https://www.youtube.com/watch?v=dXxBJ94D_0g) <br/><br/> _[Linux Leech][yu-linux-leech]_ |
@@ -198,6 +296,17 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 :::
 
+::: details 리눅스 기초 강의
+
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=0NYyE-4_wMU"><img width="140px" height="auto" alt="thumb-0NYyE-4_wMU" src="https://i.ytimg.com/vi/0NYyE-4_wMU/hqdefault.jpg"/></a> | [\[리눅스 기초 강의\] 6강. 3.1 Server 가상머신에 Rocky Linux 설치하기](https://www.youtube.com/watch?v=0NYyE-4_wMU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=4ncFesXz4ug"><img width="140px" height="auto" alt="thumb-4ncFesXz4ug" src="https://i.ytimg.com/vi/4ncFesXz4ug/hqdefault.jpg"/></a> | [\[리눅스 기초 강의\] 9강. 3.1.3 Rocky Linux를 텍스트 모드로 Server(B) 가상머신에 설치하기](https://www.youtube.com/watch?v=4ncFesXz4ug) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vmFyZVgbyEs"><img width="140px" height="auto" alt="thumb-vmFyZVgbyEs" src="https://i.ytimg.com/vi/vmFyZVgbyEs/hqdefault.jpg"/></a> | [\[리눅스 기초 강의\] 10강. 3.1.3 Client 가상머신에 Rocky Linux 설치하기](https://www.youtube.com/watch?v=vmFyZVgbyEs) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=m6ZmLOujrS8"><img width="140px" height="auto" alt="thumb-m6ZmLOujrS8" src="https://i.ytimg.com/vi/m6ZmLOujrS8/hqdefault.jpg"/></a> | [\[리눅스 기초 강의\] 11강. 3.2 WinClient 가상머신에 Windows 설치하기](https://www.youtube.com/watch?v=m6ZmLOujrS8) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+
+:::
+
 ---
 
 ## Software Tool Time
@@ -207,31 +316,19 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 ::: details
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
-
-\[SWTT\] Bash 기초편 01 - linux utility 명령과 차이, 기호와 문법
-6cj3oy0RunE
-
-\[SWTT\] Bash 기초편 03 - Expansion and Globbing
-Y5-1vJwqpN8
-
-\[SWTT\] Bash 기초편 05 - Redirection
-kbkZ1g9MXxs
-
-
-\[SWTT\] Bash 기초편 06 - Condition and Loop
-ZAkgvKHoE40
-
-
-\[SWTT\] Bash 기초편 07 - Array, Dictionary, History
-bsWR8mKXXvs
-
-
-\[SWTT\] Bash 기초편 08 - 환경설정과 기타 명령
-67ffzvK-swk
+| ❌ | <a href="https://www.youtube.com/watch?v=6cj3oy0RunE"><img width="140px" height="auto" alt="thumb-6cj3oy0RunE" src="https://i.ytimg.com/vi/6cj3oy0RunE/hqdefault.jpg"/></a> | [\[SWTT\] Bash 기초편 01 - linux utility 명령과 차이, 기호와 문법](https://www.youtube.com/watch?v=6cj3oy0RunE) <br/><br/> _[Software Tool Time][yu-software-tool-time]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Y5-1vJwqpN8"><img width="140px" height="auto" alt="thumb-Y5-1vJwqpN8" src="https://i.ytimg.com/vi/Y5-1vJwqpN8/hqdefault.jpg"/></a> | [\[SWTT\] Bash 기초편 03 - Expansion and Globbing](https://www.youtube.com/watch?v=Y5-1vJwqpN8) <br/><br/> _[Software Tool Time][yu-software-tool-time]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=kbkZ1g9MXxs"><img width="140px" height="auto" alt="thumb-kbkZ1g9MXxs" src="https://i.ytimg.com/vi/kbkZ1g9MXxs/hqdefault.jpg"/></a> | [\[SWTT\] Bash 기초편 05 - Redirection](https://www.youtube.com/watch?v=kbkZ1g9MXxs) <br/><br/> _[Software Tool Time][yu-software-tool-time]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZAkgvKHoE40"><img width="140px" height="auto" alt="thumb-ZAkgvKHoE40" src="https://i.ytimg.com/vi/ZAkgvKHoE40/hqdefault.jpg"/></a> | [\[SWTT\] Bash 기초편 06 - Condition and Loop](https://www.youtube.com/watch?v=ZAkgvKHoE40) <br/><br/> _[Software Tool Time][yu-software-tool-time]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bsWR8mKXXvs"><img width="140px" height="auto" alt="thumb-bsWR8mKXXvs" src="https://i.ytimg.com/vi/bsWR8mKXXvs/hqdefault.jpg"/></a> | [\[SWTT\] Bash 기초편 07 - Array, Dictionary, History](https://www.youtube.com/watch?v=bsWR8mKXXvs) <br/><br/> _[Software Tool Time][yu-software-tool-time]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=67ffzvK-swk"><img width="140px" height="auto" alt="thumb-67ffzvK-swk" src="https://i.ytimg.com/vi/67ffzvK-swk/hqdefault.jpg"/></a> | [\[SWTT\] Bash 기초편 08 - 환경설정과 기타 명령](https://www.youtube.com/watch?v=67ffzvK-swk) <br/><br/> _[Software Tool Time][yu-software-tool-time]_ |
 
 :::
+
 <TagLinks />
 
+[yu-marcel-dempers]: https://www.youtube.com/@MarcelDempers
+[yu-netvn]: https://www.youtube.com/@NETVN82
 [yu-linux-leech]: https://www.youtube.com/@linuxleech
 [yu-tmanelshrghk]: https://www.youtube.com/@tmanelshrghk
 [yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93

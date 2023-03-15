@@ -25,7 +25,8 @@ public final class FooBar {
 }
 ```
 
--- 
+---
+
 ## 자주쓰는 Enum Pattern
 
 > Lombok을 사용하여 코드를 간결하게 작성

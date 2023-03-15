@@ -10,6 +10,16 @@ tags: ["bat" ,"pwsh", "regedit"]
 [[toc]]
 
 ---
+
+## God Mode 활성화
+
+폴더명을 다음과 같이 변경
+
+```
+God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
+
+---
 ## 기본 명령어
 
 | 명령어 | 설명 |
@@ -81,7 +91,7 @@ netsh interface tcp set global autotuninglevel=normal
 | `normal` | 대부분의 시나리오에 적합하게 수신 창이 커지도록 합니다. |
 | `experimental` | 극히 일부 시나리오에만 적합하게 수신 창이 커지도록 합니다. |
 
---
+---
 ## `powercfg.cpl`
 
 ### 전원옵션 > 최대성능 활성화

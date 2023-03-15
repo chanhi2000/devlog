@@ -36,6 +36,15 @@ tags: ["education", "youtube", "programming", "python", "py"]
 | ❌ | <a href="https://www.youtube.com/watch?v=6gNpSuE01qE"><img width="140px" height="auto" alt="thumb-6gNpSuE01qE" src="https://i.ytimg.com/vi/6gNpSuE01qE/hqdefault.jpg"/></a> | [Android App Development in Python With Kivy](https://www.youtube.com/watch?v=6gNpSuE01qE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=P2jVybFyh3A"><img width="140px" height="auto" alt="thumb-P2jVybFyh3A" src="https://i.ytimg.com/vi/P2jVybFyh3A/hqdefault.jpg"/></a> | [C++ Full Beginner Crash Course](https://www.youtube.com/watch?v=P2jVybFyh3A) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 
+Pynecone: The Python-Only Web Framework
+ur4fCNMPp0I
+
+Professional Project &amp; Dependency Management in Python
+Qks3eqlImy8
+
+Professional Expense Tracker in Python
+tMLsR0_2yIE
+
 :::
 
 ---

@@ -20,4 +20,24 @@ wsdl2java.bat -u -t -ss -sd -g -b `
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
 ```
 
+---
+
+## Change Last Modified Date
+
+[링크참고](https://superuser.com/questions/924365/changing-last-modified-date-or-time-via-powershell)
+
+### File
+
+```pwsh
+$file = Get-Item C:\Path\TO\File.txt
+$file.LastWriteTime = ('DD/MM/YYYY HH:MI:SS')
+```
+
+### Folder
+
+```pwsh
+$file = Get-Item C:\Path\TO\File.txt
+$file.LastWriteTime = ('DD/MM/YYYY HH:MI:SS')
+```
+
 <TagLinks />
