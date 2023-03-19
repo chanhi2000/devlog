@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Bash > 🐣Basics
-description: Bash > 🐣Basics
+title: 🐣Basics
+description: 👑Bash > 🐣Basics
 tags: ["bash", "linux", "macos", "terminal", "alias", "tail", "multiline"]
 ---
 

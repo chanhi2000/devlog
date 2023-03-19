@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Tips
-description: Kotlin > Tips
+title: 💡Tips
+description: 🅺Kotlin > 💡Tips
 tags: ["kotlin", "companion-object", "logger", "slf4j", "log4j", "lombok"]
 ---
 

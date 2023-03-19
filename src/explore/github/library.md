@@ -2,39 +2,12 @@
 lang: ko-KR
 title: Library
 description: Github > Library
-tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , "go" , "csharp" , "php" , "bash"]
+tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "csharp" , "php" , "bash"]
 ---
 
 # {{ $frontmatter.description }} 관련
 
 [[toc]]
-
----
-
-## Swift
-
-- [CodeEditApp/CodeEdit][CodeEditApp/CodeEdit]: CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-  - [🌐Official Site](https://codeedit.app)
-- [tuist/tuist][tuist/tuist]: 🚀 Create, maintain, and interact with Xcode projects at scale
-  - [🌐Official Site](https://tuist.io)
-- [microsoft/fluentui-apple][microsoft/fluentui-apple]: UIKit and AppKit controls for building native Microsoft experiences
-  - [🌐Official Site](https://www.microsoft.com/design/fluent)
-- [pointfreeco/swift-composable-architecture][pointfreeco/swift-composable-architecture]
-  - [🌐Official Site](https://www.pointfree.co/collections/composable-architecture)
-- [PerfectlySoft/Perfect][PerfectlySoft/Perfect]: Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)   
-  - [🌐Official Site](https://www.perfect.org)
-- [wigl/iSimulator][wigl/iSimulator]: iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
-- [gao-sun/eul][gao-sun/eul]: 🖥️ macOS status monitoring app written in SwiftUI.
-- [apple/swift-async-algorithms][apple/swift-async-algorithms]: Async Algorithms for Swift
-- [Lakr233/Rayon][Lakr233/Rayon]: yet another SSH machine manager
-- [gureum/gureum][gureum/gureum]: 더 편리한 macOS 한글 입력기
-  - [🌐Official Site](http://gureum.io)
-- [zhuowei/WDBFontOverwrite][zhuowei/WDBFontOverwrite]: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
-  - [🌐Official Site](https://notnow.dev/zhuowei)
-- [apple/VideoFlashingReduction][apple/VideoFlashingReduction]: Detection of Flashing Lights in Video Content
-- [godly-devotion/MochiDiffusion][godly-devotion/MochiDiffusion]: Run Stable Diffusion on Mac natively
-- [leetcode-mafia/cheetah][leetcode-mafia/cheetah]: Whisper & GPT-based app for passing remote SWE interviews
-
 
 ---
 
@@ -46,6 +19,10 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://hippyjs.org)
 - [Shopify/react-native-skia][Shopify/react-native-skia]: High-performance React Native Graphics using Skia
   - [🌐Official Site](https://shopify.github.io/react-native-skia)
+- [JetBrains/compose-multiplatform][JetBrains/compose-multiplatform]: Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+  - [🌐Official Site](https://jetbrains.com/lp/compose)
+
+
 
 ---
 
@@ -110,81 +87,23 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [pojntfx/go-nbd][pojntfx/go-nbd]: Pure Go NBD server and client library.
 - [iDvel/rime-ice][iDvel/rime-ice]: Rime 配置：雾凇拼音 | 长期维护的简体词库
   - [🌐Official Site](https://dvel.me/posts/rime-ice)
-
-
----
-
-## Rust
-
-- [tauri-apps/tauri][tauri-apps/tauri]: Build smaller, faster, and more secure desktop applications with a web frontend.
-  - [🌐Official Site](https://tauri.app)
-- [helix-editor/helix][helix-editor/helix]: A post-modern modal text editor.
-  - [🌐Official Site](https://helix-editor.com)
-- [surrealdb/surrealdb][surrealdb/surrealdb]: A scalable, distributed, collaborative, document-graph database, for the realtime web
-  - [🌐Official Site](https://surrealdb.com)
-- [paradigmxyz/reth][paradigmxyz/reth]: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-- [pichenettes/eurorack][pichenettes/eurorack]: Eurorack modules
-- [tw93/Pake][tw93/Pake]: 🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-- [0x192/universal-android-debloater][0x192/universal-android-debloater]: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [spacedriveapp/spacedrive][spacedriveapp/spacedrive]: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-  - [🌐Official Site](https://spacedrive.com)
-- [pola-rs/polars][pola-rs/polars]: Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
-  - [🌐Official Site](https://pola.rs)
-- [m1guelpf/plz-cli][m1guelpf/plz-cli]: Copilot for your terminal
-- [Spotifyd/spotifyd][Spotifyd/spotifyd]: A spotify daemon
-- [o2sh/onefetch][o2sh/onefetch]: Command-line Git information tool
-  - [🌐Official Site](https://onefetch.dev)
-- [lencx/ChatGPT][lencx/ChatGPT]: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [lapce/lapce][lapce/lapce]: Lightning-fast and Powerful Code Editor written in Rust
-  - [🌐Official Site](http://lapce.dev)
-- [RustPython/RustPython][RustPython/RustPython]: A Python Interpreter written in Rust
-  - [🌐Official Site](https://rustpython.github.io)
-- [naaive/orange][naaive/orange]: Cross-platform local file search engine.
-  - [🌐Official Site](https://0-range.github.io)
-- [apache/arrow-datafusion][apache/arrow-datafusion]: Apache Arrow DataFusion SQL Query Engine
-  - [🌐Official Site](https://arrow.apache.org/datafusion)
-- [rustdesk/rustdesk][rustdesk/rustdesk]: Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-  - [🌐Official Site](https://rustdesk.com)
-- [SergioBenitez/Rocket][SergioBenitez/Rocket]: A web framework for Rust.
-  - [🌐Official Site](https://rocket.rs)
-- [meilisearch/meilisearch][meilisearch/meilisearch]: A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
-  - [🌐Official Site](https://www.meilisearch.com)
-- [EAimTY/tuic][EAimTY/tuic]: Delicately-TUICed high-performance proxy built on top of the QUIC protocol
-- [aptos-labs/aptos-core][aptos-labs/aptos-core]: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-  - [🌐Official Site](https://aptoslabs.com)
-- [tokio-rs/axum][tokio-rs/axum]: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [bevyengine/bevy][bevyengine/bevy]: A refreshingly simple data-driven game engine built in Rust
-  - [🌐Official Site](https://bevyengine.org)
-- [AleoHQ/snarkOS][AleoHQ/snarkOS]: A Decentralized Operating System for ZK Applications
-  - [🌐Official Site](http://snarkos.org)
-- [facebook/sapling][facebook/sapling]: A Scalable, User-Friendly Source Control System.
-  - [🌐Official Site](https://sapling-scm.com)
-- [MirrorX-Desktop/MirrorX][MirrorX-Desktop/MirrorX]: Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
-  - [🌐Official Site](https://mirrorx.app)
-- [linebender/xilem][linebender/xilem]: An experimental Rust native UI framework
-- [pop-os/cosmic-text][pop-os/cosmic-text]: Pure Rust multi-line text handling
-  - [🌐Official Site](https://pop-os.github.io/cosmic-text/cosmic_text)
-- [praetorian-inc/noseyparker][praetorian-inc/noseyparker]: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
-- [dani-garcia/vaultwarden][dani-garcia/vaultwarden]: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [orhun/halp][orhun/halp]: A CLI tool to get help with CLI tools 🐙  
-  - [🌐Official Site](https://halp.cli.rs)
-- [setzer22/llama-rs][setzer22/llama-rs]: Run LLaMA inference on CPU, with Rust 🦀🚀🦙
-- [typst/typst][typst/typst]: A new markup-based typesetting system that is powerful and easy to learn.
-  - [🌐Official Site](https://typst.app)
-- [matter-labs/zksync-era][matter-labs/zksync-era]: zkSync era
-- [ruffle-rs/ruffle][ruffle-rs/ruffle]: A Flash Player emulator written in Rust
-  - [🌐Official Site](https://ruffle.rs)
-- [apache/incubator-opendal][apache/incubator-opendal]: Apache OpenDAL: Access data freely, painlessly, and efficiently.
-  - [🌐Official Site](https://opendal.apache.org)
-- [m1guelpf/browser-agent][m1guelpf/browser-agent]: A browser AI agent, using GPT-4
-  - [🌐Official Site](https://docs.rs/browser-agent)
-- [twitter/rezolus][twitter/rezolus]: Systems performance telemetry
-- [facebook/buck2][facebook/buck2]: Build system, successor to Buck
-  - [🌐Official Site](https://buck2.build)
-- [ArroyoSystems/arroyo][ArroyoSystems/arroyo]: Arroyo is a distributed stream processing engine written in Rust
-  - [🌐Official Site](https://arroyo.dev)
-
-
+- [anchore/grype][anchore/grype]: A vulnerability scanner for container images and filesystems
+- [anchore/syft][anchore/syft]: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [v2fly/v2ray-core][v2fly/v2ray-core]: A platform for building proxies to bypass network restrictions.
+  - [🌐Official Site](https://v2fly.org)
+- [datastack-net/dockerized][datastack-net/dockerized]: Run popular commandline tools within docker
+- [aws/karpenter][aws/karpenter]: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  - [🌐Official Site](https://karpenter.sh)
+- [cilium/cilium][cilium/cilium]:eBPF-based Networking, Security, and Observability
+  - [🌐Official Site](https://cilium.io)
+- [kubesphere/kubesphere][kubesphere/kubesphere]: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  - [🌐Official Site](https://kubesphere.io)
+- [ConnectAI-E/Feishu-OpenAI][ConnectAI-E/Feishu-OpenAI]: 🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+- [FerretDB/FerretDB][FerretDB/FerretDB]: A truly Open Source MongoDB alternative
+  - [🌐Official Site](https://www.ferretdb.io)
+- [prometheus/prometheus][prometheus/prometheus]: The Prometheus monitoring system and time series database.
+  - [🌐Official Site](https://prometheus.io)
+- [devfullcycle/fclx][devfullcycle/fclx]
 
 ---
 
@@ -195,6 +114,12 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 - [twitter/finagle][twitter/finagle]: A fault tolerant, protocol-agnostic RPC system
   - [🌐Official Site](https://twitter.github.io/finagle)
+- [ellie/atuin][ellie/atuin]: 🐢 Magical shell history
+- [cantino/mcfly][cantino/mcfly]: Fly through your shell history. Great Scott!
+- [alacritty/alacritty][alacritty/alacritty]: A cross-platform, OpenGL terminal emulator. 
+  - [🌐Official Site](https://alacritty.org)
+- [AleoHQ/snarkOS][AleoHQ/snarkOS]: A Decentralized Operating System for ZK Applications
+  - [🌐Official Site](http://snarkos.org)
 
 ---
 
@@ -223,8 +148,9 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://files.community)
 - [keijiro/UnityMLStableDiffusion][keijiro/UnityMLStableDiffusion]: Core ML Stable Diffusion on Unity
 - [DeSinc/SallyBot][DeSinc/SallyBot]: AI Chatbot coded in Discord.net C#
-
-
+- [optikey/optikey][optikey/optikey]: OptiKey - Full computer control and speech with your eyes
+  - [🌐Official Site](http://www.optikey.org)
+- [mivano/azure-cost-cli][mivano/azure-cost-cli]: CLI tool to perform cost analysis on your Azure subscription
 
 <!-- C# -->
 
@@ -324,6 +250,18 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://light-city.club/sc)
 - [davidgiven/wordgrinder][davidgiven/wordgrinder]: A word processor which gets the hell out of your way and lets you get some work done.
   - [🌐Official Site](http://cowlark.com/wordgrinder)
+- [hyprwm/Hyprland][hyprwm/Hyprland]
+- [falcosecurity/falco][falcosecurity/falco]: Cloud Native Runtime Security
+  - [🌐Official Site](https://falco.org)
+- [NixOS/nix][NixOS/nix]: Nix, the purely functional package manager
+  - [🌐Official Site](https://nixos.org)
+- [NVIDIAGameWorks/dxvk-remix][NVIDIAGameWorks/dxvk-remix]
+- [xiaorouji/openwrt-passwall][xiaorouji/openwrt-passwall]: A commonly used proxy toolchain for Openwrt LuCI Application.
+- [little-brother/sqlite-gui][little-brother/sqlite-gui]: Lightweight SQLite editor for Windows
+- [rvs/planD][rvs/planD]: Plan9 from Containerspace
+- [nomic-ai/gpt4all-chat][nomic-ai/gpt4all-chat]: gpt4all-j chat
+- [aolserver/aolserver][aolserver/aolserver]: AOLserver is America Online's Open-Source web server. AOLserver is the backbone of the largest and busiest production environments in the world. AOLserver is a multithreaded, Tcl-enabled web server used for large scale, dynamic web sites.
+  - [🌐Official Site](http://aolserver.com)
 
 
 
@@ -374,7 +312,10 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [rails/docked][rails/docked]: Running Rails from Docker for easy start to development
 - [dreamncn/ParallelsDesktopCrack][dreamncn/ParallelsDesktopCrack]: Crack for Parallels Desktop 18.1.1 53328
 - [base-org/node][base-org/node]: Everything required to run your own Base node
-- [vcheckzen/KeepAliveE5][vcheckzen/KeepAliveE5]: 
+- [vcheckzen/KeepAliveE5][vcheckzen/KeepAliveE5]
+- [Murderlon/dotfiles][Murderlon/dotfiles]: ⚙️ Automated dotfiles setup for Fish, Neovim, Tmux, Git, Homebrew packages, and macOS settings.
+- [fbelavenuto/arpl][fbelavenuto/arpl]: Automated Redpill Loader
+- [maplecool/easytrojan][maplecool/easytrojan]: 世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器
 
 ---
 
@@ -387,6 +328,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [H4de5-7/powershell-obfuscation][H4de5-7/powershell-obfuscation]: powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
 - [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.
   - [🌐Official Site](https://atlasos.net)
+- [DarkCoderSc/PowerRemoteDesktop][DarkCoderSc/PowerRemoteDesktop]: Remote Desktop entirely coded in PowerShell.
 
 ---
 
@@ -397,6 +339,10 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 ## TeX
 
 - [posquit0/Awesome-CV][posquit0/Awesome-CV]: 📄 Awesome CV is LaTeX template for your outstanding job application
+- [paulgp/applied-methods-phd][paulgp/applied-methods-phd]: Repo for Yale Applied Empirical Methods PHD Course
+- [synercys/annotated_latex_equations][synercys/annotated_latex_equations]: Examples of how to create colorful, annotated equations in Latex using Tikz.
+
+
 
 ---
 
@@ -414,10 +360,20 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 
 ---
 
+## Solidity
+
+- [SunWeb3Sec/DeFiHackLabs][SunWeb3Sec/DeFiHackLabs]: Reproduce DeFi hacked incidents using Foundry.
+
+---
+
 ## DevOps
 
 - [vulhub/vulhub][vulhub/vulhub]: Pre-Built Vulnerable Environments Based on Docker-Compose
   - [🌐Official Site](https://vulhub.org)
+- [sickcodes/Docker-OSX][sickcodes/Docker-OSX]: Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+  - [🌐Official Site](https://hub.docker.com/r/sickcodes/docker-osx)
+- [hectorm/docker-qemu-win2000][hectorm/docker-qemu-win2000]: A Docker image for Windows 2000 Advanced Server with SP4.
+  - [🌐Official Site](https://hub.docker.com/r/hectorm/qemu-win2000)
 
 ---
 
@@ -445,25 +401,12 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 
 <TagLinks />
 
-<!-- Swift -->
-[CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
-[tuist/tuist]: https://github.com/tuist/tuist
-[microsoft/fluentui-apple]: https://github.com/microsoft/fluentui-apple
-[pointfreeco/swift-composable-architecture]: https://github.com/pointfreeco/swift-composable-architecture
-[PerfectlySoft/Perfect]: https://github.com/PerfectlySoft/Perfect
-[wigl/iSimulator]: https://github.com/wigl/iSimulator
-[gao-sun/eul]: https://github.com/gao-sun/eul
-[apple/swift-async-algorithms]: https://github.com/apple/swift-async-algorithms
-[Lakr233/Rayon]: https://github.com/Lakr233/Rayon
-[gureum/gureum]: https://github.com/gureum/gureum
-[zhuowei/WDBFontOverwrite]: https://github.com/zhuowei/WDBFontOverwrite
-[apple/VideoFlashingReduction]: https://github.com/apple/VideoFlashingReduction
-[godly-devotion/MochiDiffusion]: https://github.com/godly-devotion/MochiDiffusion
-[leetcode-mafia/cheetah]: https://github.com/leetcode-mafia/cheetah
+
 <!-- Multiplatform -->
 [google/filament]: https://github.com/google/filament
 [Tencent/Hippy]: https://github.com/Tencent/Hippy
 [Shopify/react-native-skia]: https://github.com/Shopify/react-native-skia
+[JetBrains/compose-multiplatform]: https://github.com/JetBrains/compose-multiplatform
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
@@ -503,53 +446,24 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [social4git/social4git]: https://github.com/social4git/social4git
 [pojntfx/go-nbd]: https://github.com/pojntfx/go-nbd
 [iDvel/rime-ice]: https://github.com/iDvel/rime-ice
-<!-- Rust -->
-[tauri-apps/tauri]: https://github.com/tauri-apps/tauri
-[helix-editor/helix]: https://github.com/helix-editor/helix
-[surrealdb/surrealdb]: https://github.com/surrealdb/surrealdb
-[paradigmxyz/reth]: https://github.com/paradigmxyz/reth
-[pichenettes/eurorack]: https://github.com/pichenettes/eurorack
-[tw93/Pake]: https://github.com/tw93/Pake
-[0x192/universal-android-debloater]: https://github.com/0x192/universal-android-debloater
-[spacedriveapp/spacedrive]: https://github.com/spacedriveapp/spacedrive
-[pola-rs/polars]: https://github.com/pola-rs/polars
-[m1guelpf/plz-cli]: https://github.com/m1guelpf/plz-cli
-[google/forma]: https://github.com/google/forma
-[Spotifyd/spotifyd]: https://github.com/Spotifyd/spotifyd
-[o2sh/onefetch]: https://github.com/o2sh/onefetch
-[lencx/ChatGPT]: https://github.com/lencx/ChatGPT
-[lapce/lapce]: https://github.com/lapce/lapce
-[RustPython/RustPython]: https://github.com/RustPython/RustPython
-[naaive/orange]: https://github.com/naaive/orange
-[apache/arrow-datafusion]: https://github.com/apache/arrow-datafusion
-[rustdesk/rustdesk]: https://github.com/rustdesk/rustdesk
-[SergioBenitez/Rocket]: https://github.com/SergioBenitez/Rocket
-[meilisearch/meilisearch]: https://github.com/meilisearch/meilisearch
-[EAimTY/tuic]: https://github.com/EAimTY/tuic
-[aptos-labs/aptos-core]: https://github.com/aptos-labs/aptos-core
-[tokio-rs/axum]: https://github.com/tokio-rs/axum
-[bevyengine/bevy]: https://github.com/bevyengine/bevy
-[AleoHQ/snarkOS]: https://github.com/AleoHQ/snarkOS
-[facebook/sapling]: https://github.com/facebook/sapling
-[MirrorX-Desktop/MirrorX]: https://github.com/MirrorX-Desktop/MirrorX
-[linebender/xilem]: https://github.com/linebender/xilem
-[pop-os/cosmic-text]: https://github.com/pop-os/cosmic-text
-[praetorian-inc/noseyparker]: https://github.com/praetorian-inc/noseyparker
-[dani-garcia/vaultwarden]: https://github.com/dani-garcia/vaultwarden
-[orhun/halp]: https://github.com/orhun/halp
-[setzer22/llama-rs]: https://github.com/setzer22/llama-rs
-[typst/typst]: https://github.com/typst/typst
-[matter-labs/zksync-era]: https://github.com/matter-labs/zksync-era
-[ruffle-rs/ruffle]: https://github.com/ruffle-rs/ruffle
-[apache/incubator-opendal]: https://github.com/apache/incubator-opendal
-[m1guelpf/browser-agent]: https://github.com/m1guelpf/browser-agent
-[twitter/rezolus]: https://github.com/twitter/rezolus
-[facebook/buck2]: https://github.com/facebook/buck2
-[ArroyoSystems/arroyo]: https://github.com/ArroyoSystems/arroyo
+[anchore/grype]: https://github.com/anchore/grype
+[anchore/syft]: https://github.com/anchore/syft
+[v2fly/v2ray-core]: https://github.com/v2fly/v2ray-core
+[datastack-net/dockerized]: https://github.com/datastack-net/dockerized
+[aws/karpenter]: https://github.com/aws/karpenter
+[cilium/cilium]: https://github.com/cilium/cilium
+[kubesphere/kubesphere]: https://github.com/kubesphere/kubesphere
+[ConnectAI-E/Feishu-OpenAI]: https://github.com/ConnectAI-E/Feishu-OpenAI
+[FerretDB/FerretDB]: https://github.com/FerretDB/FerretDB
+[prometheus/prometheus]: https://github.com/prometheus/prometheus
+[devfullcycle/fclx]: https://github.com/devfullcycle/fclx
 <!-- Scala -->
 [OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
 [twitter/the-algorithm]: https://github.com/twitter/the-algorithm
 [twitter/finagle]: https://github.com/twitter/finagle
+[ellie/atuin]: https://github.com/ellie/atuin
+[cantino/mcfly]: https://github.com/cantino/mcfly
+[alacritty/alacritty]: https://github.com/alacritty/alacritty
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -566,6 +480,8 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [files-community/Files]: https://github.com/files-community/Files
 [keijiro/UnityMLStableDiffusion]: https://github.com/keijiro/UnityMLStableDiffusion
 [DeSinc/SallyBot]: https://github.com/DeSinc/SallyBot
+[optikey/optikey]: https://github.com/optikey/optikey
+[mivano/azure-cost-cli]: https://github.com/mivano/azure-cost-cli
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
@@ -617,6 +533,15 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [eduard-permyakov/permafrost-engine]: https://github.com/eduard-permyakov/permafrost-engine
 [WerWolv/ImHex]: https://github.com/WerWolv/ImHex
 [Light-City/CPlusPlusThings]: https://github.com/Light-City/CPlusPlusThings
+[hyprwm/Hyprland]: https://github.com/hyprwm/Hyprland
+[falcosecurity/falco]: https://github.com/falcosecurity/falco
+[NixOS/nix]: https://github.com/NixOS/nix
+[NVIDIAGameWorks/dxvk-remix]: https://github.com/NVIDIAGameWorks/dxvk-remix
+[xiaorouji/openwrt-passwall]: https://github.com/xiaorouji/openwrt-passwall
+[little-brother/sqlite-gui]: https://github.com/little-brother/sqlite-gui
+[rvs/planD]: https://github.com/rvs/planD
+[nomic-ai/gpt4all-chat]: https://github.com/nomic-ai/gpt4all-chat
+[aolserver/aolserver]: https://github.com/aolserver/aolserver
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -645,6 +570,9 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [dreamncn/ParallelsDesktopCrack]: https://github.com/dreamncn/ParallelsDesktopCrack
 [base-org/node]: https://github.com/base-org/node
 [vcheckzen/KeepAliveE5]: https://github.com/vcheckzen/KeepAliveE5
+[Murderlon/dotfiles]: https://github.com/Murderlon/dotfiles
+[fbelavenuto/arpl]: https://github.com/fbelavenuto/arpl
+[maplecool/easytrojan]: https://github.com/maplecool/easytrojan
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
@@ -652,14 +580,21 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
 <!-- Batchfile -->
 [massgravel/Microsoft-Activation-Scripts]: https://github.com/massgravel/Microsoft-Activation-Scripts
+[DarkCoderSc/PowerRemoteDesktop]: https://github.com/DarkCoderSc/PowerRemoteDesktop
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
+[paulgp/applied-methods-phd]: https://github.com/paulgp/applied-methods-phd
+[synercys/annotated_latex_equations]: https://github.com/synercys/annotated_latex_equations
 <!-- V -->
 [vlang/v]: https://github.com/vlang/v
 <!-- Zig -->
 [ziglang/zig]: https://github.com/ziglang/zig
+<!-- Soliditiy -->
+[SunWeb3Sec/DeFiHackLabs]: https://github.com/SunWeb3Sec/DeFiHackLabs
 <!-- DevOps -->
 [vulhub/vulhub]: https://github.com/vulhub/vulhub
+[sickcodes/Docker-OSX]: https://github.com/sickcodes/Docker-OSX
+[hectorm/docker-qemu-win2000]: https://github.com/hectorm/docker-qemu-win2000
 <!-- CSS/Images -->
 [badges/shields]: https://github.com/badges/shields
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md

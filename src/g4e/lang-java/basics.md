@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: ☕️Java > Basics
-description: ☕️Java > Basics
+title: 🐣Basics
+description: ☕️Java > 🐣Basics
 tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs", "lombok", "log4j", "log4j2"]
 ---
 

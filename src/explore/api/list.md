@@ -33,6 +33,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [pypi][pypi]: Find, install and publish Python packages with the Python Package Index
 - [foojay][foojay]: Friends of OpenJDK
 - [opensourcelibs][opensourcelibs]: a massive collection of the world's best open source software
+- [golf-genius-api][golf-genius-api]: Golf Genius API
 
 
 ### 대한민국
@@ -56,6 +57,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
     - [📱for Mobile](https://m.arisu.seoul.go.kr)
 - [nsdi][nsdi]: 국가공간정보포털
 - [coupang][coupang]: 쿠팡
+- [kakao][kakao]: 카카오
 
 ---
 
@@ -86,6 +88,8 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [fonts-earlyaccess][fonts-earlyaccess]: Google Fonts (Early Access)
 - [youtube-documentation][youtube-documentation]: 
 - [jshint][jshint]: JSHint
+- [design/fluent][design/fluent]: Fluent Design System. Fluent is an open-source, cross-platform design system that gives designers and developers the frameworks they need to create engaging product experiences—accessibility, internationalization, and performance included.
+
 
 ---
 
@@ -124,6 +128,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [pypi]: https://pypi.org
 [foojay]: https://foojay.io
 [opensourcelibs]: https://opensourcelibs.com
+[golf-genius-api]: https://jsapi.apiary.io/apis/golfgeniusapiv2/reference/0/master-roster.html
 <!-- APIs > 한국 -->
 [data-kr]: https://www.data.go.kr
 [data-seoul]: https://data.seoul.go.kr/dataList/datasetList.do
@@ -143,6 +148,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [arisu]: https://arisu.seoul.go.kr
 [nsdi]: http://www.nsdi.go.kr/lxportal
 [coupang]: https://developers.coupangcorp.com/hc/ko
+[kakao]: https://developers.kakao.com/docs/latest/ko/index
 <!-- Resources -->
 [awesome-cheatsheets]: https://lecoupa.github.io/awesome-cheatsheets/
 [Popular-Color-Palettes]: https://www.color-hex.com/color-palettes/popular.php
@@ -168,6 +174,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [fonts-earlyaccess]: https://fonts.google.com/earlyaccess
 [youtube-documentation]: https://developers.google.com/youtube/documentation
 [jshint]: https://jshint.com
+[design/fluent]: https://www.microsoft.com/design/fluent
 <!-- Community -->
 [hamonikr]: https://hamonikr.org
 [clien]: https://www.clien.net/service/

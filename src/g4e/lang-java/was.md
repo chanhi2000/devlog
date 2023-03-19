@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: ☕️Java > WAS
-description: ☕️Java > WAS
+title: 📡WAS
+description: ☕️Java > 📡WAS
 tags: ["java", "jdk", "was", "web-app-server", "backend", "java", "tomcat", "jboss", "jndi"]
 ---
 

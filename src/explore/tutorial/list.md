@@ -19,7 +19,7 @@ tags: ["tutorial", "kodeco", "android", "kotlin", "jetpack-compose"]
 
 ## Kodeco
 
-- ![img-35461793][img-35461793] 
+- ![img-35461793][img-35461793]
   - [Nearby Connections for Android: Getting Started](https://www.kodeco.com/35461793-nearby-connections-for-android-getting-started)
 - ![img-34720426][img-34720426]
   - [Maps Compose Library Tutorial for Android: Getting Started](https://www.kodeco.com/34720426-maps-compose-library-tutorial-for-android-getting-started)

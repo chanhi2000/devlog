@@ -68,11 +68,16 @@ Install the following(s)
 ### B3. Use `mas` to install
 
 ```shell
-mas install 497799835 # xcode   
-mas install 1604176982 # One Thing
-mas install 885120167 # Particulars
-mas install 1452453066 # Hidden Bar
-mas install 595191960 # Copy Clip
+# 497799835: XCode
+# 1604176982: One Thing
+# 885120167: Particulars
+# 1452453066: Hidden Bar
+# Copy Clip: 595191960
+mas install 497799835 \
+    1604176982 \
+    885120167 \
+    1452453066 \
+    595191960
 ```
 
 ---

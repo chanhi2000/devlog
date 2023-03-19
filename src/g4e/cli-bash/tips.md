@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Bash > 💡Tips
-description: Bash > 💡Tips
+title: 💡Tips
+description: 👑Bash > 💡Tips
 tags: ["bash", "linux", "macos", "terminal", "date"]
 ---
 

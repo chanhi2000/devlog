@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: ☕️Java > 🤖Android
+title: 🤖Android
 description: ☕️Java > 🤖Android
 tags: ["java", "android", ]
 ---

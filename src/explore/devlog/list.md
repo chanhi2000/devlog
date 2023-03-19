@@ -36,6 +36,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
 - [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
 - [‘Gradle Kotlin DSL’ 이야기](https://techblog.woowahan.com/2625)
+- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)
+
 
 ---
 
@@ -73,6 +75,12 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ---
 
+## 강남언니
+
+- [Flyway 로 Java 에서 DB schema, seed 관리하기](https://blog.gangnamunni.com/post/introducing-flyway)
+
+---
+
 ## Medium
 
 - [Deploy web apps (+NGINX) to ECS with Docker](https://stefanofrancavilla.medium.com/deploy-web-apps-nginx-to-ecs-with-docker-580c6af827e8)
@@ -93,6 +101,10 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Android: CircleImageView Simplified](https://medium.com/swlh/android-circleimageview-simplified-dac935364393)
 - [Android PDF Viewer, Created Library](https://medium.com/@ruddns8213/android-pdf-viewer-created-library-66f169aeb312)
 - [Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
+- [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
+- [Run your Appium tests using Docker Android & Genymotion Cloud](https://medium.com/genymobile/run-your-appium-tests-using-docker-android-genymotion-cloud-e4817132ccd8)
+- [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
+
 
 ---
 
@@ -163,9 +175,19 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ---
 
+## Thdev
+
+- [Kotlin extensions use를 알아보고, 사용법을 알아보자.](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09)
+- [Kotlin extensions 정의를 알아보고, 활용 시 주의할 부분을 알아보자.](https://thdev.tech/kotlin/2020/10/27/kotlin_effective_08)
+- [Kotlin typealias와 inline class를 알아보고 적절한 사용법을 알아보자.](https://thdev.tech/kotlin/2020/10/13/kotlin_effective_06)
+
+
+---
+
 ## DZone
 
 - [Interactive Data Visualization in Ionic 5](https://dzone.com/articles/interactive-data-visualization-in-ionic-5)
+- [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
 
 
 ---
@@ -184,6 +206,11 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [android - setting LayoutParams programmatically](https://stackoverflow.com/questions/9678785/android-setting-layoutparams-programmatically)
 - [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
 - [display view on top of action bar](https://stackoverflow.com/questions/15279647/display-view-on-top-of-action-bar)
+
+---
+## Github
+
+- [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 
 
 ---
@@ -254,7 +281,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [개발 :: Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종류, 단축 명령어 Alias(별칭) 설정, 터미널 커맨드라인)](https://blog.naver.com/jdusans/222043705693)
 - [How to perform a Git clean up of branches and commits example](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-clean-up-Git-branches-and-commits)
 - [\[번역\] 더 나은 git 커밋 메시지 작성 패턴](https://devh.kr/2020/Patterns-for-writing-better-git-commit-messages/?fbclid=IwAR1SDquuIVDDT7awG4fKHxzNv3N6MdWeWVKbrcx7j_85q2_pCsqwhXaZmpU)
-- [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
 - [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
 - [5 New Kubeflow 1.3 Features that Machine Learning Engineers Will Love](https://thenewstack.io/5-new-kubeflow-1-3-features-that-machine-learning-engineers-will-love)
 - [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
@@ -271,6 +297,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c)
 - [정규표현식 완전정복](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
 - [Gradle Kotlin, Java Project의 기본 구성 살펴보고, Gradle Task로 컴파일, 패키징 하기](https://kotlinworld.com/315)
+- [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
+- [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works)
 
 ---
 
@@ -278,5 +306,15 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 - [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 - [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
+- [\[iOS\]\[SwiftPM\]\[Xcode 13.0\] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
+- [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
+- [기억보단 기록을 - 1. 페이징 성능 개선하기](https://jojoldu.tistory.com/528)
+- [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
+- [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
+- [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
+- [Handle Cookies with Retrofit/OkHttp](https://jiafei427.wordpress.com/2016/04/29/handle-cookies-with-retrofitokhttp)
+- [아마도 Effective 한 Kotlin](https://speakerdeck.com/taehwandev/amado-effective-han-kotlin)
+- [tuhrig - Testing `@ConfigurationProperties` in Spring Boot](https://tuhrig.de/testing-configurationproperties-in-spring-boot)
+
 
 <TagLinks />

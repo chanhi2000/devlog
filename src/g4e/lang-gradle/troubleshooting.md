@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🐘Gradle > Troubleshooting
-description: 🐘Gradle > Troubleshooting
+title: 🩺Troubleshooting
+description: 🐘Gradle > 🩺Troubleshooting
 tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "insecure-protocols", "https"]
 ---
 

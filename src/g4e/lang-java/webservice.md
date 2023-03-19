@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: ☕️Java > WebService
+title: WebService
 description: ☕️Java > WebService
 tags: ["java", "jdk", "webservice", "ws", "apache", "apache-cxf", "apache-axis", "apache-axis2", "wsdl2java"]
 ---

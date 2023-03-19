@@ -57,5 +57,8 @@ tags: ["bash", "sh"]
 - https://blog.naver.com/PostView.nhn?blogId=ilikebigmac&logNo=222013980565
 - https://rhv.bradmin.org/ovirt-engine/docs/Data_Warehouse_Guide/Allowing_Read_Only_Access_to_the_History_Database.html
 - http://ovirt.github.io/ovirt-engine-api-model/4.5/
+- https://www.redhat.com/en/blog/ovirt-dockerized-part-1
+- https://www.gluster.org/ovirt-docker
+
 
 <TagLinks />

@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Powershell > 🐣Basics
+title: 🐣Basics
 description: Powershell > 🐣Basics
 tags: ["powershell", "windows", "windows-terminal", "multiline"]
 ---

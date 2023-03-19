@@ -27,9 +27,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [hemansnation/God-Level-Data-Science-ML-Full-Stack][hemansnation/God-Level-Data-Science-ML-Full-Stack]: This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.
   - [🌐Official Site](https://www.himanshuramchandani.co)
 
-
-
-
 ---
 
 ## Java
@@ -38,6 +35,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
 - [akullpp/awesome-java][akullpp/awesome-java]: A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [preslavmihaylov/booknotes][preslavmihaylov/booknotes]: A collection of my book notes on various computer science books
+- [PRNDcompany/android-style-guide][PRNDcompany/android-style-guide]: 이 스타일 가이드는 PRND에서 개발되는 모든 안드로이드 프로젝트에 적용하기 위한 목적으로 작성되었습니다.
 
 ---
 
@@ -109,7 +107,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [Jdsleppy/django-orm-cheatsheet][Jdsleppy/django-orm-cheatsheet]: A cheatsheet for the Django ORM
 - [mrdbourke/pytorch-deep-learning][mrdbourke/pytorch-deep-learning]: Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
   - [🌐Official Site](https://learnpytorch.io)
-- [mouredev/Hello-Python][mouredev/Hello-Python]: Python desde cero
+- [mouredev/Hello-Python][mouredev/Hello-Python]: Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...
 - [donnemartin/system-design-primer][donnemartin/system-design-primer]: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [huggingface/diffusion-models-class][huggingface/diffusion-models-class]: Materials for the Hugging Face Diffusion Models Course
 - [Azure-Samples/azure-search-openai-demo][Azure-Samples/azure-search-openai-demo]: Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content
@@ -120,6 +118,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [SkalskiP/courses][SkalskiP/courses]: This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [jackfrued/Python-100-Days][jackfrued/Python-100-Days]: Python - 100天从新手到大师
 - [microsoft/DeepSpeedExamples][microsoft/DeepSpeedExamples]: Example models using DeepSpeed
+- [danielgross/LlamaAcademy][danielgross/LlamaAcademy]: A school for camelids
 
 ---
 
@@ -244,6 +243,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
 [preslavmihaylov/booknotes]: https://github.com/preslavmihaylov/booknotes
+[PRNDcompany/android-style-guide]: https://github.com/PRNDcompany/android-style-guide
 <!-- Kotlin -->
 [Kotlin/KEEP]: https://github.com/Kotlin/KEEP
 [tarek360/Kotlin-JavaScript-Lottie-Example]: https://github.com/tarek360/Kotlin-JavaScript-Lottie-Example
@@ -288,6 +288,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [SkalskiP/courses]: https://github.com/SkalskiP/courses
 [jackfrued/Python-100-Days]: https://github.com/jackfrued/Python-100-Days
 [microsoft/DeepSpeedExamples]: https://github.com/microsoft/DeepSpeedExamples
+[danielgross/LlamaAcademy]: https://github.com/danielgross/LlamaAcademy
 <!-- Jupyter Notebook -->
 [microsoft/ML-For-Beginners]: https://github.com/microsoft/ML-For-Beginners
 <!-- Flutter -->

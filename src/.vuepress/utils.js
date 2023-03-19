@@ -9,9 +9,12 @@ function getDocsNavBar(item) {
             children: [
               'github/',
               'github/awesome-list',
-              'github/library-java',
-              'github/library-python',
               'github/library',
+              'github/library-java',
+              'github/library-js',
+              'github/library-python',
+              'github/library-swift',
+              'github/library-rust',
               'github/news',
               'github/tutorial',
               'github/portfolio',
@@ -80,14 +83,20 @@ function getDocsNavBar(item) {
           '',
           //region: lang
           {
-            title: '💫CLI',
+            title: '👑Bash (Linux)',
             children: [
-              'cli/',
-              'cli/bash-basics',
-              'cli/bash-tips',
-              'cli/bash-troubleshooting',
-              'cli/batch-basics',
-              'cli/pwsh-basics',
+              'cli-bash/',
+              'cli-bash/basics',
+              'cli-bash/tips',
+              'cli-bash/troubleshooting',
+            ]
+          }, {
+            title: '🧢Batch & Pwsh (Windows)',
+            children: [
+              'cli-batch/',
+              'cli-batch/batch-basics',
+              'cli-batch/batch-tips',
+              'cli-batch/pwsh-basics',
             ]
           }, {
             title: '🐘Gradle',
@@ -116,8 +125,9 @@ function getDocsNavBar(item) {
             children: [
               'lang-java/',
               'lang-java/basics',
-              'lang-java/was',
               'lang-java/android',
+              'lang-java/spring',
+              'lang-java/was',
               'lang-java/webservice',
             ]
           }, {
@@ -127,6 +137,26 @@ function getDocsNavBar(item) {
               'lang-swift/tips',
             ]
           },
+          //endregion
+          //region: js
+          {
+            title: '⚡️Javascript',
+            children: [
+              'lang-js/',
+              'lang-js/node-dependencies',
+              'lang-js/node-sandbox',
+              'lang-js/node-cordova',
+              'lang-js/mermaid-example',
+            ]
+          }, 
+          //endregion
+          //region: js
+          {
+            title: '🐍Python',
+            children: [
+              'lang-python/',
+            ]
+          }, 
           //endregion
           //region: devops
           {
@@ -186,18 +216,6 @@ function getDocsNavBar(item) {
               'devops-ide/dbeaver-qtmplt',
             ]
           },
-          //endregion
-          //region: js
-          {
-            title: '⚡️Javascript',
-            children: [
-              'lang-js/',
-              'lang-js/node-dependencies',
-              'lang-js/node-sandbox',
-              'lang-js/node-cordova',
-              'lang-js/mermaid-example',
-            ]
-          }, 
           //endregion
           //region: DB
           {

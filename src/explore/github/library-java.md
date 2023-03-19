@@ -67,8 +67,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 - [twitter/GraphJet][twitter/GraphJet]: GraphJet is a real-time graph processing library.
 - [eGovFramework/egovframe-template-simple-backend][eGovFramework/egovframe-template-simple-backend]: 표준프레임워크 심플홈페이지 BackEnd
 - [aress31/burpgpt][aress31/burpgpt]: A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
-
-
+- [HumbleUI/Skija][HumbleUI/Skija]: Java bindings for Skia
+- [zeromq/jeromq][zeromq/jeromq]: Pure Java ZeroMQ
 
 ---
 
@@ -182,6 +182,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 [twitter/GraphJet]: https://github.com/twitter/GraphJet
 [eGovFramework/egovframe-template-simple-backend]: https://github.com/eGovFramework/egovframe-template-simple-backend
 [aress31/burpgpt]: https://github.com/aress31/burpgpt
+[HumbleUI/Skija]: https://github.com/HumbleUI/Skija
+[zeromq/jeromq]: https://github.com/zeromq/jeromq
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

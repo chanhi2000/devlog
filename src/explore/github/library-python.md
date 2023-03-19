@@ -102,7 +102,7 @@ tags: ["git" , "github" , "python" , "py"]
 - [huggingface/transformers][huggingface/transformers]: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
   - [🌐Official Site](https://huggingface.co/transformers)
 - [npiv/chatblade][npiv/chatblade]: A CLI Swiss Army Knife for ChatGPT
-- [34j/so-vits-svc-fork][34j/so-vits-svc-fork]: so-vits-svc fork with REALTIME support (voice changer) and greatly improved interface.
+- [34j/so-vits-svc-fork][34j/so-vits-svc-fork]: so-vits-svc fork with realtime support, improved interface and more features.
 - [home-assistant/core][home-assistant/core]: 🏡 Open source home automation that puts local control and privacy first.
   - [🌐Official Site](https://www.home-assistant.io)
 - [Stability-AI/stablediffusion][Stability-AI/stablediffusion]: High-Resolution Image Synthesis with Latent Diffusion Models
@@ -202,6 +202,39 @@ tags: ["git" , "github" , "python" , "py"]
 - [Sanster/lama-cleaner][Sanster/lama-cleaner]: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
   - [🌐Official Site](https://lama-cleaner-docs.vercel.app)
 - [everythingishacked/Semaphore][everythingishacked/Semaphore]: A full-body keyboard using gestures to type through computer vision
+- [MatrixTM/MHDDoS][MatrixTM/MHDDoS]: Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods
+- [LimerBoy/Impulse][LimerBoy/Impulse]: 💣 Impulse Denial-of-service ToolKit
+- [Neo23x0/log4shell-detector][Neo23x0/log4shell-detector]: Detector for Log4Shell exploitation attempts
+- [megadose/holehe][megadose/holehe]: holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [openai/consistency_models][openai/consistency_models]: Official repo for consistency models.
+- [daveshap/REMO_Framework][daveshap/REMO_Framework]: Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
+- [fudan-zvg/Semantic-Segment-Anything][fudan-zvg/Semantic-Segment-Anything]: Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).
+- [linyiLYi/street-fighter-ai][linyiLYi/street-fighter-ai]: This is an AI agent for Street Fighter II Champion Edition.
+- [PineappleExpress808/auto-evaluator][PineappleExpress808/auto-evaluator]
+- [mlc-ai/web-llm][mlc-ai/web-llm]: Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+  - [🌐Official Site](https://mlc.ai/web-llm)
+- [pengzhile/pandora][pengzhile/pandora]: 潘多拉，一个不只是命令行的ChatGPT。
+  - [🌐Official Site](https://chat.zhile.io)
+- [muellerberndt/micro-gpt][muellerberndt/micro-gpt]: A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
+- [facebookresearch/AnimatedDrawings][facebookresearch/AnimatedDrawings]: Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
+- [OpenBB-finance/OpenBBTerminal][OpenBB-finance/OpenBBTerminal]: Investment Research for Everyone, Anywhere.
+  - [🌐Official Site](https://openbb.co)
+- [jdagdelen/hyperDB][jdagdelen/hyperDB]: A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $35M cap.
+- [haotian-liu/LLaVA][haotian-liu/LLaVA]: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
+  - [🌐Official Site](https://llava.hliu.cc)
+- [Vision-CAIR/MiniGPT-4][Vision-CAIR/MiniGPT-4]: MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+  - [🌐Official Site](https://minigpt-4.github.io)
+- [facebookresearch/dinov2][facebookresearch/dinov2]: PyTorch code and models for the DINOv2 self-supervised learning method.
+- [houseofsecrets/SdPaint][houseofsecrets/SdPaint]: Stable Diffusion Painting
+- [togethercomputer/RedPajama-Data][togethercomputer/RedPajama-Data]: The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+- [zilliztech/GPTCache][zilliztech/GPTCache]: GPTCache is a library for creating semantic cache to store responses from LLM queries.
+  - [🌐Official Site](https://gptcache.readthedocs.io)
+- [ading2210/poe-api][ading2210/poe-api]: A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [kaqijiang/Auto-GPT-ZH][kaqijiang/Auto-GPT-ZH]: Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
+- [xtekky/gpt4free][xtekky/gpt4free]: decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+  - [🌐Official Site](https://gptcache.readthedocs.io)
+- [jostmey/msm][jostmey/msm]:  Improved statistical classifier for immune repertoires
+
 
 <!-- Python -->
 
@@ -226,7 +259,10 @@ tags: ["git" , "github" , "python" , "py"]
 - [jpmorganchase/python-training][jpmorganchase/python-training]: Python training for business analysts and traders
 - [prophesier/diff-svc][prophesier/diff-svc]: Singing Voice Conversion via diffusion model
 - [sdatkinson/neural-amp-modeler][sdatkinson/neural-amp-modeler]: Neural network emulator for guitar amplifiers.
-
+- [agiresearch/OpenAGI][agiresearch/OpenAGI]: OpenAGI: When LLM Meets Domain Experts
+- [kw2828/Dolly-2.0-Series][kw2828/Dolly-2.0-Series]: Resources for running, fine-tuning, and inferencing Dolly 2.0
+- [geekyutao/Inpaint-Anything][geekyutao/Inpaint-Anything]: Inpaint anything using Segment Anything and inpainting models.
+- [suno-ai/bark][suno-ai/bark]: 🔊 Text-prompted Generative Audio Model
 
 <!-- Jupyter Notebook -->
 
@@ -373,6 +409,31 @@ tags: ["git" , "github" , "python" , "py"]
 [ravenscroftj/turbopilot]: https://github.com/ravenscroftj/turbopilot
 [Sanster/lama-cleaner]: https://github.com/Sanster/lama-cleaner
 [everythingishacked/Semaphore]: https://github.com/everythingishacked/Semaphore
+[MatrixTM/MHDDoS]: https://github.com/MatrixTM/MHDDoS
+[LimerBoy/Impulse]: https://github.com/LimerBoy/Impulse
+[Neo23x0/log4shell-detector]: https://github.com/Neo23x0/log4shell-detector
+[megadose/holehe]: https://github.com/megadose/holehe
+[openai/consistency_models]: https://github.com/openai/consistency_models
+[daveshap/REMO_Framework]: https://github.com/daveshap/REMO_Framework
+[fudan-zvg/Semantic-Segment-Anything]: https://github.com/fudan-zvg/Semantic-Segment-Anything
+[linyiLYi/street-fighter-ai]: https://github.com/linyiLYi/street-fighter-ai
+[PineappleExpress808/auto-evaluator]: https://github.com/PineappleExpress808/auto-evaluator
+[mlc-ai/web-llm]: https://github.com/mlc-ai/web-llm
+[pengzhile/pandora]: https://github.com/pengzhile/pandora
+[muellerberndt/micro-gpt]: https://github.com/muellerberndt/micro-gpt
+[facebookresearch/AnimatedDrawings]: https://github.com/facebookresearch/AnimatedDrawings
+[OpenBB-finance/OpenBBTerminal]: https://github.com/OpenBB-finance/OpenBBTerminal
+[jdagdelen/hyperDB]: https://github.com/jdagdelen/hyperDB
+[haotian-liu/LLaVA]: https://github.com/haotian-liu/LLaVA
+[Vision-CAIR/MiniGPT-4]: https://github.com/Vision-CAIR/MiniGPT-4
+[facebookresearch/dinov2]: https://github.com/facebookresearch/dinov2
+[houseofsecrets/SdPaint]: https://github.com/houseofsecrets/SdPaint
+[togethercomputer/RedPajama-Data]: https://github.com/togethercomputer/RedPajama-Data
+[zilliztech/GPTCache]: https://github.com/zilliztech/GPTCache
+[ading2210/poe-api]: https://github.com/ading2210/poe-api
+[kaqijiang/Auto-GPT-ZH]: https://github.com/kaqijiang/Auto-GPT-ZH
+[xtekky/gpt4free]: https://github.com/xtekky/gpt4free
+[jostmey/msm]: https://github.com/jostmey/msm
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -391,3 +452,7 @@ tags: ["git" , "github" , "python" , "py"]
 [jpmorganchase/python-training]: https://github.com/jpmorganchase/python-training
 [prophesier/diff-svc]: https://github.com/prophesier/diff-svc
 [sdatkinson/neural-amp-modeler]: https://github.com/sdatkinson/neural-amp-modeler
+[agiresearch/OpenAGI]: https://github.com/agiresearch/OpenAGI
+[kw2828/Dolly-2.0-Series]: https://github.com/kw2828/Dolly-2.0-Series
+[geekyutao/Inpaint-Anything]: https://github.com/geekyutao/Inpaint-Anything
+[suno-ai/bark]: https://github.com/suno-ai/bark

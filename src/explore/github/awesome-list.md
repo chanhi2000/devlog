@@ -31,7 +31,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://stefanbuck.com/awesome-browser-extensions-for-github)
 - [Igglybuff/awesome-piracy][Igglybuff/awesome-piracy]: A curated list of awesome warez and piracy links
 - [decalage2/awesome-security-hardening][decalage2/awesome-security-hardening]: A collection of awesome security hardening guides, tools and other resources
-- [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]: 
+- [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]
 - [hsavit1/Awesome-Swift-Education][hsavit1/Awesome-Swift-Education]: 🔥 Learn some Swift
 - [doocs/leetcode][doocs/leetcode]: 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
   - [🌐Official Site](https://doocs.github.io/leetcode)
@@ -63,7 +63,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [ddotta/awesome-polars][ddotta/awesome-polars]: A curated list of Polars talks, tools, examples & articles. Contributions welcome !
   - [🌐Official Site](https://ddotta.github.io/awesome-polars)
 - [lukasz-madon/awesome-remote-job][lukasz-madon/awesome-remote-job]: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]
 - [ErikCH/DevYouTubeList][ErikCH/DevYouTubeList]: List of Development YouTube Channels
 - [jtmuller5/The-HustleGPT-Challenge][jtmuller5/The-HustleGPT-Challenge]: Building Startups with an AI Co-Founder
   - [🌐Official Site](https://chatcodetutor.gumroad.com/l/abqwfw?_gl=1*2q8f4n*_ga*NDIwMjk5MDQ0LjE2NzU2MjM0ODc.*_ga_6LJN6D94N6*MTY3OTE2NDQ2MS40NC4xLjE2NzkxNjU1NzcuMC4wLjA.)
@@ -83,6 +82,15 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [dair-ai/ML-Papers-of-the-Week][dair-ai/ML-Papers-of-the-Week]: 🔥Highlighting the top ML papers every week.
 - [eon01/awesome-chatgpt][eon01/awesome-chatgpt]: 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [underlines/awesome-marketing-datascience][underlines/awesome-marketing-datascience]: Collection of useful Datascience things across the web
+- [ibraheemdev/modern-unix][ibraheemdev/modern-unix]: A collection of modern/faster/saner alternatives to common unix commands.
+- [docker/awesome-compose][docker/awesome-compose]: Awesome Docker Compose samples
+  - [🌐Official Site](https://docs.docker.com/compose/)
+- [jessfraz/dockerfiles][jessfraz/dockerfiles]: Various Dockerfiles I use on the desktop and on servers.
+  - [🌐Official Site](https://blog.jessfraz.com/post/docker-containers-on-the-desktop)
+- [sottlmarek/DevSecOps][sottlmarek/DevSecOps]: Ultimate DevSecOps library
+- [analysis-tools-dev/static-analysis][analysis-tools-dev/static-analysis]: ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+  - [🌐Official Site](https://analysis-tools.dev)
+- [EwingYangs/awesome-open-gpt][EwingYangs/awesome-open-gpt]: Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 
 
 ---
@@ -151,7 +159,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [DataTalksClub/data-engineering-zoomcamp]: https://github.com/DataTalksClub/data-engineering-zoomcamp
 [ddotta/awesome-polars]: https://github.com/ddotta/awesome-polars
 [lukasz-madon/awesome-remote-job]: https://github.com/lukasz-madon/awesome-remote-job
-[f/awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
 [ErikCH/DevYouTubeList]: https://github.com/ErikCH/DevYouTubeList
 [jtmuller5/The-HustleGPT-Challenge]: https://github.com/jtmuller5/The-HustleGPT-Challenge
 [nichtdax/awesome-totally-open-chatgpt]: https://github.com/nichtdax/awesome-totally-open-chatgpt
@@ -167,6 +174,12 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [dair-ai/ML-Papers-of-the-Week]: https://github.com/dair-ai/ML-Papers-of-the-Week
 [eon01/awesome-chatgpt]: https://github.com/eon01/awesome-chatgpt
 [underlines/awesome-marketing-datascience]: https://github.com/underlines/awesome-marketing-datascience
+[ibraheemdev/modern-unix]: https://github.com/ibraheemdev/modern-unix
+[docker/awesome-compose]: https://github.com/docker/awesome-compose
+[jessfraz/dockerfiles]: https://github.com/jessfraz/dockerfiles
+[sottlmarek/DevSecOps]: https://github.com/sottlmarek/DevSecOps
+[analysis-tools-dev/static-analysis]: https://github.com/analysis-tools-dev/static-analysis
+[EwingYangs/awesome-open-gpt]: https://github.com/EwingYangs/awesome-open-gpt
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

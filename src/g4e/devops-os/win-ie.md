@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 👓Windows > Internet Explorer
-description: 👓Windows > Internet Explorer
+title: 🌍Internet Explorer
+description: 👓Windows > 🌍Internet Explorer
 tags: ["ie" ,"Internet Explorer", "win", "Windows", "Browser"]
 ---
 

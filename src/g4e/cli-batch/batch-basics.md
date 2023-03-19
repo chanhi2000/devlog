@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Batch > 🐣Basics
-description: Batch > 🐣Basics
+title: 🐣Basics
+description: 🧢Batch > 🐣Basics
 tags: ["batch", "bat", "windows", "windows-terminal", "multiline", "DOSKEY"]
 ---
 

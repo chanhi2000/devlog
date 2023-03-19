@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Library
-description: Github > Library
+title: Library (Javascript)
+description: Github > Library (Javascript)
 tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 ---
 
@@ -206,6 +206,16 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 - [eGovFramework/egovframe-template-simple-react][eGovFramework/egovframe-template-simple-react]: 표준프레임워크 심플홈페이지 FrontEnd
 - [discordjs/discord.js][discordjs/discord.js]: A powerful JavaScript library for interacting with the Discord API
   - [🌐Official Site](https://discord.js.org)
+- [digitalocean/nginxconfig.io][digitalocean/nginxconfig.io]: ⚙️ NGINX config generator on steroids 💉
+  - [🌐Official Site](https://do.co/nginxconfig)
+- [thecookingsenpai/autogpt-gui][thecookingsenpai/autogpt-gui]: A graphical user interface for AutoGPT
+- [dzoba/gptrpg][dzoba/gptrpg]: A demo of an GPT-based agent existing in an RPG-like environment
+- [iamadamdev/bypass-paywalls-chrome][iamadamdev/bypass-paywalls-chrome]: Bypass Paywalls web browser extension for Chrome and Firefox.
+- [kiwphi/pop-shoot][kiwphi/pop-shoot]: 🚀 Synthwave styled space shooter, inspired by the 80s arcades
+  - [🌐Official Site](https://kiwphi.github.io/pop-shoot)
+- [xcanwin/KeepChatGPT][xcanwin/KeepChatGPT]: 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
+
+
 
 ---
 
@@ -274,6 +284,26 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](http://www.freedomgpt.com)
 - [langchain-ai/langchain-template-supabase][langchain-ai/langchain-template-supabase]
 - [kevmo314/magic-copy][kevmo314/magic-copy]: Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
+- [zeromq/zeromq.js][zeromq/zeromq.js]: ⚡ Node.js bindings to the ØMQ library
+  - [🌐Official Site](http://zeromq.github.io/zeromq.js)
+- [reworkd/AgentGPT][reworkd/AgentGPT]: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+  - [🌐Official Site](https://agentgpt.reworkd.ai)
+- [HalseySpicy/Geeker-Admin][HalseySpicy/Geeker-Admin]: ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite4、Pinia、Element-Plus 开源的一套后台管理框架。
+  - [🌐Official Site](https://admin.spicyboy.cn)
+- [diego3g/rsxp-2023][diego3g/rsxp-2023]: Repositório contendo o código do app do RS/XP 2023
+- [eumemic/ai-legion][eumemic/ai-legion]: An LLM-powered autonomous agent platform
+- [zabirauf/AutoGPT.js][zabirauf/AutoGPT.js]: Auto-GPT on the browser
+  - [🌐Official Site](https://autogptjs.com)
+- [usememos/memos][usememos/memos]: A lightweight, self-hosted memo hub. Open Source and Free forever.
+  - [🌐Official Site](https://usememos.com)
+- [shadcn/ui][shadcn/ui]: Beautifully designed components built with Radix UI and Tailwind CSS.
+  - [🌐Official Site](https://ui.shadcn.com)
+- [yoavbls/pretty-ts-errors][yoavbls/pretty-ts-errors]: 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+  - [🌐Official Site](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+- [liou666/polyglot][liou666/polyglot]: 🤖️ 桌面端AI语言练习应用
+- [Trendyol/baklava][Trendyol/baklava]: Design System with Web Components
+  - [🌐Official Site](https://baklava.design)
+
 
 
 <TagLinks />
@@ -389,6 +419,12 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [nomic-ai/gpt4all-ui]: https://github.com/nomic-ai/gpt4all-ui
 [eGovFramework/egovframe-template-simple-react]: https://github.com/eGovFramework/egovframe-template-simple-react
 [discordjs/discord.js]: https://github.com/discordjs/discord.js
+[digitalocean/nginxconfig.io]: https://github.com/digitalocean/nginxconfig.io
+[thecookingsenpai/autogpt-gui]: https://github.com/thecookingsenpai/autogpt-gui
+[dzoba/gptrpg]: https://github.com/dzoba/gptrpg
+[iamadamdev/bypass-paywalls-chrome]: https://github.com/iamadamdev/bypass-paywalls-chrome
+[kiwphi/pop-shoot]: https://github.com/kiwphi/pop-shoot
+[xcanwin/KeepChatGPT]: https://github.com/xcanwin/KeepChatGPT
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -427,3 +463,14 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [ohmplatform/FreedomGPT]: https://github.com/ohmplatform/FreedomGPT
 [langchain-ai/langchain-template-supabase]: https://github.com/langchain-ai/langchain-template-supabase
 [kevmo314/magic-copy]: https://github.com/kevmo314/magic-copy
+[zeromq/zeromq.js]: https://github.com/zeromq/zeromq.js
+[reworkd/AgentGPT]: https://github.com/reworkd/AgentGPT
+[HalseySpicy/Geeker-Admin]: https://github.com/HalseySpicy/Geeker-Admin
+[diego3g/rsxp-2023]: https://github.com/diego3g/rsxp-2023
+[eumemic/ai-legion]: https://github.com/eumemic/ai-legion
+[zabirauf/AutoGPT.js]: https://github.com/zabirauf/AutoGPT.js
+[usememos/memos]: https://github.com/usememos/memos
+[shadcn/ui]: https://github.com/shadcn/ui
+[yoavbls/pretty-ts-errors]: https://github.com/yoavbls/pretty-ts-errors
+[liou666/polyglot]: https://github.com/liou666/polyglot
+[Trendyol/baklava]: https://github.com/Trendyol/baklava

@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: ☕️Java > 🤖Android > Troubleshooting
+title: 🤖Android > Troubleshooting
 description: ☕️Java > 🤖Android > Troubleshooting
 tags: ["java", "android", "troubleshooting"]
 ---

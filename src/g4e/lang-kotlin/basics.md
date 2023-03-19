@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Basics
-description: Kotlin > Basics
+title: 🐣Basics
+description: 🅺Kotlin > 🐣Basics
 tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs","kotlin", "companion-object"]
 ---
 
