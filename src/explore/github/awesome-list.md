@@ -66,6 +66,20 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [ErikCH/DevYouTubeList][ErikCH/DevYouTubeList]: List of Development YouTube Channels
 - [jtmuller5/The-HustleGPT-Challenge][jtmuller5/The-HustleGPT-Challenge]: Building Startups with an AI Co-Founder
   - [🌐Official Site](https://chatcodetutor.gumroad.com/l/abqwfw?_gl=1*2q8f4n*_ga*NDIwMjk5MDQ0LjE2NzU2MjM0ODc.*_ga_6LJN6D94N6*MTY3OTE2NDQ2MS40NC4xLjE2NzkxNjU1NzcuMC4wLjA.)
+- [nichtdax/awesome-totally-open-chatgpt][nichtdax/awesome-totally-open-chatgpt]: A list of totally open alternatives to ChatGPT
+- [PlexPt/awesome-chatgpt-prompts-zh][PlexPt/awesome-chatgpt-prompts-zh]: ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+  - [🌐Official Site](https://chatguide.plexpt.com)
+- [TheExplainthis/AI-Products-All-In-One][TheExplainthis/AI-Products-All-In-One]: 彙整了真正實用的 ChatGPT 與生成式 AI 工具
+  - [🌐Official Site](https://www.explainthis.io/zh-hant/ai-toolkit)
+- [terminalcommandnewsletter/everything-chatgpt][terminalcommandnewsletter/everything-chatgpt]: Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference][willwulfken/MidJourney-Styles-and-Keywords-Reference]: A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+- [dalinvip/Awesome-ChatGPT][dalinvip/Awesome-ChatGPT]: ChatGPT资料汇总学习，持续更新......
+- [jiep/offensive-ai-compilation][jiep/offensive-ai-compilation]: A curated list of useful resources that cover Offensive AI.
+  - [🌐Official Site](https://jiep.github.io/offensive-ai-compilation)
+- [fastfire/deepdarkCTI][fastfire/deepdarkCTI]: Collection of Cyber Threat Intelligence sources from the deep and dark web
+- [davinci1010/pinduoduo_backdoor][davinci1010/pinduoduo_backdoor]: 拼多多apk内嵌提权代码，及动态下发dex分析
+
+
 
 ---
 
@@ -134,6 +148,15 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [f/awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
 [ErikCH/DevYouTubeList]: https://github.com/ErikCH/DevYouTubeList
 [jtmuller5/The-HustleGPT-Challenge]: https://github.com/jtmuller5/The-HustleGPT-Challenge
+[nichtdax/awesome-totally-open-chatgpt]: https://github.com/nichtdax/awesome-totally-open-chatgpt
+[PlexPt/awesome-chatgpt-prompts-zh]: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+[TheExplainthis/AI-Products-All-In-One]: https://github.com/TheExplainthis/AI-Products-All-In-One
+[terminalcommandnewsletter/everything-chatgpt]: https://github.com/terminalcommandnewsletter/everything-chatgpt
+[willwulfken/MidJourney-Styles-and-Keywords-Reference]: https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+[dalinvip/Awesome-ChatGPT]: https://github.com/dalinvip/Awesome-ChatGPT
+[jiep/offensive-ai-compilation]: https://github.com/jiep/offensive-ai-compilation
+[fastfire/deepdarkCTI]: https://github.com/fastfire/deepdarkCTI
+[davinci1010/pinduoduo_backdoor]: https://github.com/davinci1010/pinduoduo_backdoor
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

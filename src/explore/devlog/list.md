@@ -10,36 +10,70 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 [[toc]]
 
 ---
+
 ## Notion
+
 - [React Native 2020](https://www.notion.so/React-Native-2020-444084ec7aa44a509df33f8a3ae2edb3)
 
+
 ---
+
 ## NHN
+
 - [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX](https://meetup.toast.com/posts/311)
 - [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
 
 ---
+
 ## Naver D2
+
 - [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
 
 
 ---
+
 ## 우아한형제들
+
 - [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
 - [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
 
 
 ---
+
 ## Toast
+
 - [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804)
 - [Async Cookie Store API 살펴보기](https://ui.toast.com/weekly-pick/ko_20201027)
 
 ---
-## Banksalad
-- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
 
+## Banksalad
+
+### 2022
+
+- [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 3편 - 스펙별 단위 테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-3)
+- [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 2편 - 화면 단위 통합 테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-2)
+- [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 1편 - 통합 UI테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-1)
+- [뱅크샐러드 안드로이드 앱에서 Koin 걷어내고 Hilt로 마이그레이션하기](https://blog.banksalad.com/tech/migrate-from-koin-to-hilt)
+
+### 2021
+
+- [팀과 함께 성장하는 Engineering Manager의 역할](https://blog.banksalad.com/tech/engineering-manager-role-growth)
+
+### 2020
+
+- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby)
+
+### 2018
+
+- [뱅크샐러드 at Apple Store](https://blog.banksalad.com/tech/banksalad-at-apple-store)
+
+### 2017
+
+- [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage)
 
 ---
+
 ## Medium
 - [Deploy web apps (+NGINX) to ECS with Docker](https://stefanofrancavilla.medium.com/deploy-web-apps-nginx-to-ecs-with-docker-580c6af827e8)
 - [네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
@@ -208,6 +242,12 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2)
 - [Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c)
 - [정규표현식 완전정복](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
+
+---
+
+## Github
+
+- [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 
 
 <TagLinks />

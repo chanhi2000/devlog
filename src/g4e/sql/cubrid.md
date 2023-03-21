@@ -39,6 +39,7 @@ GRANT ALL PRIVILEGES ON :테이블명 TO :사용자;
 ```
 
 ### A2. DDL 생성방법 조회
+
 ```sql
 SHOW CREATE TABLE :테이블명;
 ```
@@ -49,9 +50,9 @@ SHOW CREATE TABLE :테이블명;
 
 ```sql
 INSERT INTO :테이블명 (
-    :컬럼명1, :컬럼명2, ...
+    :컬럼명1, :컬럼명2 /* ...[이하생략] */
 ) VALUES (
-    :컬럼1의값, :컬럼2의값, ...
+    :컬럼1의값, :컬럼2의값 /* ...[이하생략] */
 ) ON DUPLICATE KEY UPDATE 
     :컬럼명1 = :컬럼1의값
     , :컬럼명2 = :컬럼2의값
@@ -59,7 +60,9 @@ INSERT INTO :테이블명 (
 ;
 ```
 
-## B. 명령어
+---
+
+## B. CLI
 
 ### B1. 전체 translist 확인
 
@@ -78,3 +81,5 @@ cubrid killtran \
     -p <접근 비밀번호> \
     -i <액티브번호> <테이블스페이스명>@<IP주소>
 ```
+
+<TagLinks />

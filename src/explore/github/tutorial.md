@@ -49,32 +49,38 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ---
 ## Swift
+
 - [pointfreeco/episode-code-samples][pointfreeco/episode-code-samples]: 💾 Point-Free episode code.
     - [🌐Official Site](https://www.pointfree.co)
 - [twostraws/HackingWithSwift][twostraws/HackingWithSwift]: The project source code for hackingwithswift.com
 
+<!-- Swift -->
+
 ---
 ## Javascript
+
 - [airbnb/javascript][airbnb/javascript]: JavaScript Style Guide
 - [goldbergyoni/nodebestpractices][goldbergyoni/nodebestpractices]: ✅ The Node.js best practices list (November 2022)
-    - [🌐Official Site](https://twitter.com/nodepractices)
+  - [🌐Official Site](https://twitter.com/nodepractices)
 - [trekhleb/javascript-algorithms][trekhleb/javascript-algorithms]: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Asabeneh/30-Days-Of-JavaScript][Asabeneh/30-Days-Of-JavaScript]: 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
 - [bradtraversy/50projects50days][bradtraversy/50projects50days]: 50+ mini web projects using HTML, CSS & JS
 - [leegeunhyeok/paper][leegeunhyeok/paper]: 🎉 SNS 앱 예제로 배우는 프로그레시브 웹 앱 실습코드
-    - [🌐Official Site](http://www.yes24.com/Product/Goods/91360603)
+  - [🌐Official Site](http://www.yes24.com/Product/Goods/91360603)
 - [techreagan/vue-nodejs-youtube-clone][techreagan/vue-nodejs-youtube-clone]: This is the frontend (VueJS) of the Youtube clone called VueTube.
 - [ryanmcdermott/clean-code-javascript][ryanmcdermott/clean-code-javascript]: 🛁 Clean Code concepts adapted for JavaScript
 - [bradtraversy/vanillawebprojects][bradtraversy/vanillawebprojects]: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [Th3Wall/Fakeflix][Th3Wall/Fakeflix]: Not the usual clone that you can find on the web.
-    - [🌐Official Site](https://fakeflix.th3wall.codes)
+  - [🌐Official Site](https://fakeflix.th3wall.codes)
 - [microsoft/Web-Dev-For-Beginners][microsoft/Web-Dev-For-Beginners]: 24 Lessons, 12 Weeks, Get Started as a Web Developer
-    - [🌐Official Site](https://microsoft.github.io/Web-Dev-For-Beginners)
+  - [🌐Official Site](https://microsoft.github.io/Web-Dev-For-Beginners)
 - [kentcdodds/react-fundamentals][kentcdodds/react-fundamentals]: Material for my React Fundamentals Workshop
-    - [🌐Official Site](https://epicreact.dev/fundamentals)
+  - [🌐Official Site](https://epicreact.dev/fundamentals)
 - [judygab/web-dev-projects][judygab/web-dev-projects]: Projects repo for tutorials for my YouTube Channel
+- [john-smilga/react-course-v3][john-smilga/react-course-v3]: The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)
+ - [🌐Official Site](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
-
+<!-- Javascript -->
 
 ---
 ## Python
@@ -95,7 +101,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://azure.microsoft.com/products/search)
 - [TheAlgorithms/Python][TheAlgorithms/Python]: All Algorithms implemented in Python
   - [🌐Official Site](https://the-algorithms.com)
-
+- [acantril/learn-cantrill-io-labs][acantril/learn-cantrill-io-labs]: Standard and Advanced Demos for learn.cantrill.io courses
 
 ---
 ## Flutter
@@ -114,7 +120,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [inancgumus/learngo][inancgumus/learngo]: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [marcel-dempers/docker-development-youtube-series][marcel-dempers/docker-development-youtube-series]: A Collection of tools, hands-on walkthroughs with source code.
 
-
 ---
 
 ## Rust
@@ -125,6 +130,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://google.github.io/comprehensive-rust)
 - [skyzh/mini-lsm][skyzh/mini-lsm]: A tutorial of building an LSM-Tree storage engine in a week! (WIP)
   - [🌐Official Site](https://skyzh.github.io/mini-lsm)
+- [rust-lang/rustlings][rust-lang/rustlings]: 🦀 Small exercises to get you used to reading and writing Rust code!
 
 ---
 ## C & C++
@@ -225,6 +231,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [microsoft/Web-Dev-For-Beginners]: https://github.com/microsoft/Web-Dev-For-Beginners
 [kentcdodds/react-fundamentals]: https://github.com/kentcdodds/react-fundamentals
 [judygab/web-dev-projects]: https://github.com/judygab/web-dev-projects
+[john-smilga/react-course-v3]: https://github.com/john-smilga/react-course-v3
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
@@ -238,6 +245,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [huggingface/diffusion-models-class]: https://github.com/huggingface/diffusion-models-class
 [Azure-Samples/azure-search-openai-demo]: https://github.com/Azure-Samples/azure-search-openai-demo
 [TheAlgorithms/Python]: https://github.com/TheAlgorithms/Python
+[acantril/learn-cantrill-io-labs]: https://github.com/acantril/learn-cantrill-io-labs
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->
@@ -250,6 +258,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [google/comprehensive-rust]: https://github.com/google/comprehensive-rust
 [skyzh/mini-lsm]: https://github.com/skyzh/mini-lsm
 [rust-lang/book]: https://github.com/rust-lang/book
+[rust-lang/rustlings]: https://github.com/rust-lang/rustlings
 <!-- C & C++ -->
 [BrunoLevy/learn-fpga]: https://github.com/BrunoLevy/learn-fpga
 <!-- DevOps -->

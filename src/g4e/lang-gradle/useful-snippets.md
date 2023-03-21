@@ -59,6 +59,26 @@ tasks.compileJava.dependsOn clean
 gradlew <모듈명>:fatJar
 ```
 
+---
+
+## `openBrowser` task
+
+| title | description |
+| ---: | :---------- |
+| 목적 | 웹브라우저로 페이지를 열기 위한 task |
+| 적업대상 `gradle` 파일 | `./<모듈>/build.gradle` |
+
+```gradle
+task openBrowser {
+    description = "open browser to the running application"
+    doLast {
+        String port = 8080
+        String contextName = "contextName"
+        String URL = "http://localhost:" + port + "/" + contextName + "/"
+        java.awt.Desktop.desktop.browse URL.toURI()
+    }   
+}
+```
 
 ---
 ## `war` Plugin

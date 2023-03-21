@@ -35,15 +35,9 @@ tags: ["education", "youtube", "programming", "python", "py"]
 | ❌ | <a href="https://www.youtube.com/watch?v=5i-Axn7KgDU"><img width="140px" height="auto" alt="thumb-5i-Axn7KgDU" src="https://i.ytimg.com/vi/5i-Axn7KgDU/hqdefault.jpg"/></a> | [Awesome PyCharm Setup - Full Guide](https://www.youtube.com/watch?v=5i-Axn7KgDU) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=6gNpSuE01qE"><img width="140px" height="auto" alt="thumb-6gNpSuE01qE" src="https://i.ytimg.com/vi/6gNpSuE01qE/hqdefault.jpg"/></a> | [Android App Development in Python With Kivy](https://www.youtube.com/watch?v=6gNpSuE01qE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=P2jVybFyh3A"><img width="140px" height="auto" alt="thumb-P2jVybFyh3A" src="https://i.ytimg.com/vi/P2jVybFyh3A/hqdefault.jpg"/></a> | [C++ Full Beginner Crash Course](https://www.youtube.com/watch?v=P2jVybFyh3A) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-
-Pynecone: The Python-Only Web Framework
-ur4fCNMPp0I
-
-Professional Project &amp; Dependency Management in Python
-Qks3eqlImy8
-
-Professional Expense Tracker in Python
-tMLsR0_2yIE
+| ❌ | <a href="https://www.youtube.com/watch?v=ur4fCNMPp0I"><img width="140px" height="auto" alt="thumb-ur4fCNMPp0I" src="https://i.ytimg.com/vi/ur4fCNMPp0I/hqdefault.jpg"/></a> | [Pynecone: The Python-Only Web Framework](https://www.youtube.com/watch?v=ur4fCNMPp0I) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Qks3eqlImy8"><img width="140px" height="auto" alt="thumb-Qks3eqlImy8" src="https://i.ytimg.com/vi/Qks3eqlImy8/hqdefault.jpg"/></a> | [Professional Project &amp; Dependency Management in Python](https://www.youtube.com/watch?v=Qks3eqlImy8) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tMLsR0_2yIE"><img width="140px" height="auto" alt="thumb-tMLsR0_2yIE" src="https://i.ytimg.com/vi/tMLsR0_2yIE/hqdefault.jpg"/></a> | [Professional Expense Tracker in Python](https://www.youtube.com/watch?v=tMLsR0_2yIE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 
 :::
 
@@ -56,9 +50,7 @@ tMLsR0_2yIE
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
-
-Automate Excel with ChatGPT \(and Python\)
-A4gYAKry7P0
+| ❌ | <a href="https://www.youtube.com/watch?v=A4gYAKry7P0"><img width="140px" height="auto" alt="thumb-A4gYAKry7P0" src="https://i.ytimg.com/vi/A4gYAKry7P0/hqdefault.jpg"/></a> | [Automate Excel with ChatGPT (and Python)](https://www.youtube.com/watch?v=A4gYAKry7P0) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 
 :::
 

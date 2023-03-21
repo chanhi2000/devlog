@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
-title: 🔎SQL > Tibero
-description: 🔎SQL > Tibero
-tags: ["sql", "tibero", "tibero6", "ddl", "dml", "sql-privilege"]
+title: 🔎SQL > Oracle SQL
+description: 🔎SQL > Oracle SQL
+tags: ["sql", "oracle", "pssql", "ddl", "dml", "sql-privilege"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,10 +12,6 @@ tags: ["sql", "tibero", "tibero6", "ddl", "dml", "sql-privilege"]
 ---
 
 ## A. 유용한 쿼리
-
-### A1. GRANT 처리
-
-#### A1-i. 조회
 
 ### A3. DML
 
@@ -33,10 +29,9 @@ WHEN NOT MATCHED THEN INSERT (
     :컬럼1의값, :컬럼2의값 /* ...[이하생략] */
 );
 ```
+
 ---
 
 ## B. CLI
-
-
 
 <TagLinks />

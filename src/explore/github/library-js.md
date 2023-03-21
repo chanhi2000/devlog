@@ -36,6 +36,8 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](http://www.babylonjs.com)
 - [nkallen/plasticity][nkallen/plasticity]
 - [jaredh159/tailwind-react-native-classnames][jaredh159/tailwind-react-native-classnames]: simple, expressive API for tailwindcss + react-native
+- [louislam/uptime-kuma][louislam/uptime-kuma]: A fancy self-hosted monitoring tool
+  - [🌐Official Site](https://uptime.kuma.pet)
 - [jamealg/KT-companion][jamealg/KT-companion]: A hiking and backpacking trail companion progressive web app
 - [select2/select2][select2/select2]: Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
   - [🌐Official Site](https://select2.org)
@@ -43,8 +45,6 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](https://www.tldraw.com) 
 - [thunlp/WantWords][thunlp/WantWords]: An open-source online reverse dictionary.
   - [🌐Official Site](https://wantwords.net)
-- [microsoft/vscode][microsoft/vscode]: Visual Studio Code
-  - [🌐Official Site](https://code.visualstudio.com)
 - [DustinBrett/daedalOS][DustinBrett/daedalOS]: Desktop environment in the browser.
   - [🌐Official Site](https://dustinbrett.com)
 - [UnblockNeteaseMusic/server][UnblockNeteaseMusic/server]: Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
@@ -146,8 +146,6 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](https://rxresu.me)
 - [microfeed/microfeed][microfeed/microfeed]: a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
   - [🌐Official Site](https://www.microfeed.org)
-- [excalidraw/excalidraw][excalidraw/excalidraw]: Virtual whiteboard for sketching hand-drawn like diagrams
-  - [🌐Official Site](https://excalidraw.com)
 - [TheOfficialFloW/HENlo][TheOfficialFloW/HENlo]: WebKit+Kernel exploit chain for all PS Vita firmwares
 - [novuhq/novu][novuhq/novu]: The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
   - [🌐Official Site](https://novu.co)
@@ -184,17 +182,29 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](https://cocktailpeanut.github.io/dalai)
 - [upscayl/upscayl][upscayl/upscayl]: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
   - [🌐Official Site](https://upscayl.github.io)
-- [gencay/vscode-chatgpt][gencay/vscode-chatgpt]: Your best AI pair programmer - open source only
 - [xenova/transformers.js][xenova/transformers.js]: Run 🤗 Transformers in your browser!
   - [🌐Official Site](https://xenova.github.io/transformers.js)
 - [josStorer/chatGPTBox][josStorer/chatGPTBox]: Integrating ChatGPT into your browser deeply, everything you need is here
+- [yuezk/chatgpt-mirror][yuezk/chatgpt-mirror]: A mirror of ChatGPT based on the gpt-3.5-turbo model.
+  - [🌐Official Site](https://fastgpt.app)
+- [traceloop/jest-opentelemetry][traceloop/jest-opentelemetry]: Easily run integration tests for your backends
+  - [🌐Official Site](https://www.traceloop.com)
+- [gorhill/uBlock][gorhill/uBlock]: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [MarsX-dev/floatui][MarsX-dev/floatui]: Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
+  - [🌐Official Site](https://floatui.com)
+- [matter-labs/zksync-web-era-docs][matter-labs/zksync-web-era-docs]: zkSync Era Documentation
+  - [🌐Official Site](https://era.zksync.io/docs/dev)
+- [dice2o/BingGPT][dice2o/BingGPT]: Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+- [requarks/wiki][requarks/wiki]: Wiki.js | A modern and powerful wiki app built on Node.js
+  - [🌐Official Site](https://js.wiki)
 
 
 
-
+---
 
 ## Typescript
 
+- [gencay/vscode-chatgpt][gencay/vscode-chatgpt]: Your best AI pair programmer - open source only
 - [cogentapps/chat-with-gpt][cogentapps/chat-with-gpt]: An open-source ChatGPT app with a voice
   - [🌐Official Site](https://chatwithgpt.netlify.app)
 - [futantan/OpenGpt][futantan/OpenGpt]: Create your own ChatGPT App in seconds.
@@ -203,8 +213,41 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](https://www.chatbotui.com)
 - [logspace-ai/langflow][logspace-ai/langflow]: ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
   - [🌐Official Site](http://www.logspace.ai)
-
-
+- [mayooear/gpt4-pdf-chatbot-langchain][mayooear/gpt4-pdf-chatbot-langchain]: GPT4 & LangChain Chatbot for large PDF docs
+  - [🌐Official Site](https://www.youtube.com/watch?v=ih9PBGVVOO4)
+- [ourongxing/chatgpt-vercel][ourongxing/chatgpt-vercel]: Powered by OpenAI API (gpt-3.5-turbo) and Vercel
+  - [🌐Official Site](https://www.aitoolgpt.com)
+- [gannonh/gpt3.5-turbo-pgvector][gannonh/gpt3.5-turbo-pgvector]: gannonh/gpt3.5-turbo-pgvector
+  - [🌐Official Site](https://astro-labs.app/docs)
+- [BloopAI/bloop][BloopAI/bloop]: bloop is a fast code search engine written in Rust.
+  - [🌐Official Site](https://bloop.ai)
+- [enricoros/nextjs-chatgpt-app][enricoros/nextjs-chatgpt-app]: 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
+  - [🌐Official Site](https://nextjs-chatgpt-app-enricoros.vercel.app)
+- [getcursor/cursor][getcursor/cursor]: An editor made for programming with AI 🤖
+  - [🌐Official Site](https://cursor.so)
+- [excalidraw/excalidraw][excalidraw/excalidraw]: Virtual whiteboard for sketching hand-drawn like diagrams
+  - [🌐Official Site](https://excalidraw.com)
+- [codebdy/rxdrag][codebdy/rxdrag]: Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
+  - [🌐Official Site](http://rxeditor.vercel.app)
+- [Yidadaa/ChatGPT-Next-Web][Yidadaa/ChatGPT-Next-Web]: 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
+  - [🌐Official Site](https://chat-gpt-next-web.vercel.app)
+- [vincanger/coverlettergpt][vincanger/coverlettergpt]: Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
+  - [🌐Official Site](https://coverlettergpt.xyz)
+- [motifland/markprompt][motifland/markprompt]: Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
+  - [🌐Official Site](https://markprompt.com)
+- [Chanzhaoyu/chatgpt-web][Chanzhaoyu/chatgpt-web]: 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
+- [TaxyAI/browser-extension][TaxyAI/browser-extension]: Automate your browser with GPT-4
+- [lxfater/Portal][lxfater/Portal]: Portal是一款跨平台工具，旨在将ChatGPT的能力整合到用户的工作流程中。
+- [di-sukharev/opencommit][di-sukharev/opencommit]: GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
+  - [🌐Official Site](https://www.npmjs.com/package/opencommit)
+- [immersive-translate/immersive-translate][immersive-translate/immersive-translate]: Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
+  - [🌐Official Site](https://immersive-translate.owenyoung.com)
+- [Mirrorful/mirrorful][Mirrorful/mirrorful]: Create the building blocks of your app
+  - [🌐Official Site](https://mirrorful.com)
+- [microsoft/vscode][microsoft/vscode]: Visual Studio Code
+  - [🌐Official Site](https://code.visualstudio.com)
+- [coral-xyz/backpack][coral-xyz/backpack]: 🎒 Next level crypto wallet
+  - [🌐Official Site](https://backpack.app)
 
 
 <TagLinks />
@@ -284,7 +327,6 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [harbor-school/lighthouse]: https://github.com/harbor-school/lighthouse
 [AmruthPillai/Reactive-Resume]: https://github.com/AmruthPillai/Reactive-Resume
 [microfeed/microfeed]: https://github.com/microfeed/microfeed
-[excalidraw/excalidraw]: https://github.com/excalidraw/excalidraw
 [TheOfficialFloW/HENlo]: https://github.com/TheOfficialFloW/HENlo
 [novuhq/novu]: https://github.com/novuhq/novu
 [timqian/chinese-independent-blogs]: https://github.com/timqian/chinese-independent-blogs
@@ -306,11 +348,37 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [ayaka14732/ChatGPTAPIFree]: https://github.com/ayaka14732/ChatGPTAPIFree
 [cocktailpeanut/dalai]: https://github.com/cocktailpeanut/dalai
 [upscayl/upscayl]: https://github.com/upscayl/upscayl
-[gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [xenova/transformers.js]: https://github.com/xenova/transformers.js
 [josStorer/chatGPTBox]: https://github.com/josStorer/chatGPTBox
+[yuezk/chatgpt-mirror]: https://github.com/yuezk/chatgpt-mirror
+[traceloop/jest-opentelemetry]: https://github.com/traceloop/jest-opentelemetry
+[gorhill/uBlock]: https://github.com/gorhill/uBlock'
+[MarsX-dev/floatui]: https://github.com/MarsX-dev/floatui
+[matter-labs/zksync-web-era-docs]: https://github.com/matter-labs/zksync-web-era-docs
+[dice2o/BingGPT]: https://github.com/dice2o/BingGPT
+[requarks/wiki]: https://github.com/requarks/wiki
 <!-- Typescript -->
+[gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
 [futantan/OpenGpt]: https://github.com/futantan/OpenGpt
 [mckaywrigley/chatbot-ui]: https://github.com/mckaywrigley/chatbot-ui
 [logspace-ai/langflow]: https://github.com/logspace-ai/langflow
+[mayooear/gpt4-pdf-chatbot-langchain]: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
+[ourongxing/chatgpt-vercel]: https://github.com/ourongxing/chatgpt-vercel
+[gannonh/gpt3.5-turbo-pgvector]: https://github.com/gannonh/gpt3.5-turbo-pgvector
+[BloopAI/bloop]: https://github.com/BloopAI/bloop
+[enricoros/nextjs-chatgpt-app]: https://github.com/enricoros/nextjs-chatgpt-app
+[getcursor/cursor]: https://github.com/getcursor/cursor
+[excalidraw/excalidraw]: https://github.com/excalidraw/excalidraw
+[codebdy/rxdrag]: https://github.com/codebdy/rxdrag
+[Yidadaa/ChatGPT-Next-Web]: https://github.com/Yidadaa/ChatGPT-Next-Web
+[vincanger/coverlettergpt]: https://github.com/vincanger/coverlettergpt
+[motifland/markprompt]: https://github.com/motifland/markprompt
+[Chanzhaoyu/chatgpt-web]: https://github.com/Chanzhaoyu/chatgpt-web
+[TaxyAI/browser-extension]: https://github.com/TaxyAI/browser-extension
+[lxfater/Portal]: https://github.com/lxfater/Portal
+[di-sukharev/opencommit]: https://github.com/di-sukharev/opencommit
+[immersive-translate/immersive-translate]: https://github.com/immersive-translate/immersive-translate
+[Mirrorful/mirrorful]: https://github.com/Mirrorful/mirrorful
+[microsoft/vscode]: https://github.com/microsoft/vscode
+[coral-xyz/backpack]: https://github.com/coral-xyz/backpack

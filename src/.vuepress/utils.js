@@ -202,8 +202,10 @@ function getDocsNavBar(item) {
             title: '🔎SQL',
             children: [
               'sql/',
-              'sql/cubrid',
+              'sql/postgresql',
               'sql/mysql',
+              'sql/cubrid',
+              'sql/oracle',
               'sql/tibero',
             ]
           }, 

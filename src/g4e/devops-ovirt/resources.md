@@ -53,5 +53,9 @@ tags: ["bash", "sh"]
 - https://github.com/oVirt/ovirt-web-ui/blob/master/DEVELOPERS.md
 - https://www.ovirt.org/develop/developer-guide/debugfrontend.html
 - https://anthonyspiteri.net/ovirt-kvm-homelab-2/
+- https://suee-b.tistory.com/entry/Ovirt
+- https://blog.naver.com/PostView.nhn?blogId=ilikebigmac&logNo=222013980565
+- https://rhv.bradmin.org/ovirt-engine/docs/Data_Warehouse_Guide/Allowing_Read_Only_Access_to_the_History_Database.html
+- http://ovirt.github.io/ovirt-engine-api-model/4.5/
 
 <TagLinks />

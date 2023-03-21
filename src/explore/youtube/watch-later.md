@@ -111,15 +111,9 @@ zGCv6aDDfP8
 | ❌ | <a href="https://www.youtube.com/watch?v=k2GWnDb5zoQ"><img width="140px" height="auto" alt="thumb-k2GWnDb5zoQ" src="https://i.ytimg.com/vi/k2GWnDb5zoQ/hqdefault.jpg"/></a> | [\(Ep.2-2\) Node.js를 쓰는 이유 \(웹서버 만들기\)](https://www.youtube.com/watch?v=k2GWnDb5zoQ) <br/><br/> _[코딩애플][yu-codingapple]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=FqnAFX9lQPQ"><img width="140px" height="auto" alt="thumb-FqnAFX9lQPQ" src="https://i.ytimg.com/vi/FqnAFX9lQPQ/hqdefault.jpg"/></a> | [React 기초 2강 : 리액트에선 HTML대신 JSX 써야함 \(JSX 사용법\)](https://www.youtube.com/watch?v=FqnAFX9lQPQ) <br/><br/> _[코딩애플][yu-codingapple]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=T4N9wjx7_E4"><img width="140px" height="auto" alt="thumb-T4N9wjx7_E4" src="https://i.ytimg.com/vi/T4N9wjx7_E4/hqdefault.jpg"/></a> | [Vue 3강 : v-for 반복문 보니까 HTML도 프로그래밍 언어네](https://www.youtube.com/watch?v=T4N9wjx7_E4) <br/><br/> _[코딩애플][yu-codingapple]_ |
-
-정규식이 쉬워지는 마법을 부려보겠다 뾰롱
-2P0oSNguGXI
-
-chatGPT는 엄준식 프로그래밍 언어도 잘할까?
-SdDs0ScOFSU
-
-바로 채용되는 웹개발자 포트폴리오 만들기
-yDhMmmHZONM
+| ❌ | <a href="https://www.youtube.com/watch?v=2P0oSNguGXI"><img width="140px" height="auto" alt="thumb-2P0oSNguGXI" src="https://i.ytimg.com/vi/2P0oSNguGXI/hqdefault.jpg"/></a> | [정규식이 쉬워지는 마법을 부려보겠다 뾰롱](https://www.youtube.com/watch?v=2P0oSNguGXI) <br/><br/> _[코딩애플][yu-codingapple]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=SdDs0ScOFSU"><img width="140px" height="auto" alt="thumb-SdDs0ScOFSU" src="https://i.ytimg.com/vi/SdDs0ScOFSU/hqdefault.jpg"/></a> | [chatGPT는 엄준식 프로그래밍 언어도 잘할까?](https://www.youtube.com/watch?v=SdDs0ScOFSU) <br/><br/> _[코딩애플][yu-codingapple]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=yDhMmmHZONM"><img width="140px" height="auto" alt="thumb-yDhMmmHZONM" src="https://i.ytimg.com/vi/yDhMmmHZONM/hqdefault.jpg"/></a> | [바로 채용되는 웹개발자 포트폴리오 만들기](https://www.youtube.com/watch?v=yDhMmmHZONM) <br/><br/> _[코딩애플][yu-codingapple]_ |
 
 :::
 
@@ -253,42 +247,18 @@ yDhMmmHZONM
 | ❌ | <a href="https://www.youtube.com/watch?v=eQQq7SwGM6E"><img width="140px" height="auto" alt="thumb-eQQq7SwGM6E" src="https://i.ytimg.com/vi/eQQq7SwGM6E/hqdefault.jpg"/></a> | [ChatGPT 크롬 브라우저 확장 프로그램 설치! 검색 효율이 높아짐](https://www.youtube.com/watch?v=eQQq7SwGM6E) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=OoHvwvpC6VU"><img width="140px" height="auto" alt="thumb-OoHvwvpC6VU" src="https://i.ytimg.com/vi/OoHvwvpC6VU/hqdefault.jpg"/></a> | [AWS AI 서비스 활용 - AmazonRekognition 으로 사진 분석](https://www.youtube.com/watch?v=OoHvwvpC6VU) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Co71WcVEPK0"><img width="140px" height="auto" alt="thumb-Co71WcVEPK0" src="https://i.ytimg.com/vi/Co71WcVEPK0/hqdefault.jpg"/></a> | [\(악성코드, 침해대응\) FLARE VM을 이용한 악성코드 분석 환경 구축하기](https://www.youtube.com/watch?v=Co71WcVEPK0) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
-
-ChatGPT를 이용하여 웹 로그파일 필터링 적용 뷰어 제작하기
-b7iympg0myU
-
-파이썬 프로그램 sqlite 데이터베이스 사용과 가짜 데이터 생성
-VJIia4jn4nY
-
-Criminal IP 파이썬 API를 이용하여 의심되는 도메인 정보들 가져오기
-_s5G0UaIhz8
-
-파이썬 docker 라이브러리를 이용한 컨테이너 정보 출력!
-llj5xDFTTkM
-
-파이썬 자동화 - 프리젠테이션 PPT 자동 생성 및 표 추가, 엑셀 정보 가져오기
-69OGeGqhn2c
-
-ChatGPT 활용한 RSS 피드 크롤링하기!! 파이썬 플라스크로 제작~  #chatgpt #python
-7SpMZNIhvIs
-
-파이썬을 이용한 웹 로그 분석 IP 추출과 시각화 with ChatGTP
-tPwVIxUhddM
-
-파이썬 Flask - 웹 로그 분석의 상위 IP 통계와 데이터 시각화
-IZ78wQ-fURM
-
-ChatGPT를 이용한 토익 문법 문제를 만들어볼까?!!
-fVIJUp5tzO8
-
-ChatGPT를 이용하여 파이썬 입문 공부 방법! 하루가 지겹지 않다!!
--DJIbq2epGc
-
-ChatGPT 플러스 터보로 평가문제 만드는 속도를 체크
-vK4uRjq6E_8
-
-FastAPI와 쇼단 API를 이용하여 웹페이지 결과 확인 #프론트엔드 #파이썬자동화
-Q_UhH8ep1yw
+| ❌ | <a href="https://www.youtube.com/watch?v=b7iympg0myU"><img width="140px" height="auto" alt="thumb-b7iympg0myU" src="https://i.ytimg.com/vi/b7iympg0myU/hqdefault.jpg"/></a> | [ChatGPT를 이용하여 웹 로그파일 필터링 적용 뷰어 제작하기](https://www.youtube.com/watch?v=b7iympg0myU) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=VJIia4jn4nY"><img width="140px" height="auto" alt="thumb-VJIia4jn4nY" src="https://i.ytimg.com/vi/VJIia4jn4nY/hqdefault.jpg"/></a> | [파이썬 프로그램 sqlite 데이터베이스 사용과 가짜 데이터 생성](https://www.youtube.com/watch?v=VJIia4jn4nY) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_s5G0UaIhz8"><img width="140px" height="auto" alt="thumb-_s5G0UaIhz8" src="https://i.ytimg.com/vi/_s5G0UaIhz8/hqdefault.jpg"/></a> | [Criminal IP 파이썬 API를 이용하여 의심되는 도메인 정보들 가져오기](https://www.youtube.com/watch?v=_s5G0UaIhz8) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=llj5xDFTTkM"><img width="140px" height="auto" alt="thumb-llj5xDFTTkM" src="https://i.ytimg.com/vi/llj5xDFTTkM/hqdefault.jpg"/></a> | [파이썬 docker 라이브러리를 이용한 컨테이너 정보 출력!](https://www.youtube.com/watch?v=llj5xDFTTkM) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=69OGeGqhn2c"><img width="140px" height="auto" alt="thumb-69OGeGqhn2c" src="https://i.ytimg.com/vi/69OGeGqhn2c/hqdefault.jpg"/></a> | [파이썬 자동화 - 프리젠테이션 PPT 자동 생성 및 표 추가, 엑셀 정보 가져오기](https://www.youtube.com/watch?v=69OGeGqhn2c) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=7SpMZNIhvIs"><img width="140px" height="auto" alt="thumb-7SpMZNIhvIs" src="https://i.ytimg.com/vi/7SpMZNIhvIs/hqdefault.jpg"/></a> | [ChatGPT 활용한 RSS 피드 크롤링하기!! 파이썬 플라스크로 제작~  #chatgpt #python](https://www.youtube.com/watch?v=7SpMZNIhvIs) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tPwVIxUhddM"><img width="140px" height="auto" alt="thumb-tPwVIxUhddM" src="https://i.ytimg.com/vi/tPwVIxUhddM/hqdefault.jpg"/></a> | [파이썬을 이용한 웹 로그 분석 IP 추출과 시각화 with ChatGTP](https://www.youtube.com/watch?v=tPwVIxUhddM) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=IZ78wQ-fURM"><img width="140px" height="auto" alt="thumb-IZ78wQ-fURM" src="https://i.ytimg.com/vi/IZ78wQ-fURM/hqdefault.jpg"/></a> | [파이썬 Flask - 웹 로그 분석의 상위 IP 통계와 데이터 시각화](https://www.youtube.com/watch?v=IZ78wQ-fURM) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=fVIJUp5tzO8"><img width="140px" height="auto" alt="thumb-fVIJUp5tzO8" src="https://i.ytimg.com/vi/fVIJUp5tzO8/hqdefault.jpg"/></a> | [ChatGPT를 이용한 토익 문법 문제를 만들어볼까?!!](https://www.youtube.com/watch?v=fVIJUp5tzO8) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=-DJIbq2epGc"><img width="140px" height="auto" alt="thumb--DJIbq2epGc" src="https://i.ytimg.com/vi/-DJIbq2epGc/hqdefault.jpg"/></a> | [ChatGPT를 이용하여 파이썬 입문 공부 방법! 하루가 지겹지 않다!!](https://www.youtube.com/watch?v=-DJIbq2epGc) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vK4uRjq6E_8"><img width="140px" height="auto" alt="thumb-vK4uRjq6E_8" src="https://i.ytimg.com/vi/vK4uRjq6E_8/hqdefault.jpg"/></a> | [ChatGPT 플러스 터보로 평가문제 만드는 속도를 체크](https://www.youtube.com/watch?v=vK4uRjq6E_8) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Q_UhH8ep1yw"><img width="140px" height="auto" alt="thumb-Q_UhH8ep1yw" src="https://i.ytimg.com/vi/Q_UhH8ep1yw/hqdefault.jpg"/></a> | [FastAPI와 쇼단 API를 이용하여 웹페이지 결과 확인 #프론트엔드 #파이썬자동화](https://www.youtube.com/watch?v=Q_UhH8ep1yw) <br/><br/> _[보안프로젝트][yu-boanproject]_ |
   
 :::
 

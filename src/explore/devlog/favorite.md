@@ -10,7 +10,9 @@ tags: ["favorite", "devlog", "github", "tistory"]
 [[toc]]
 
 ---
+
 ## 목록
+
 - [Antonio Leiva](https://antonioleiva.com)
 - [💾 Knowledge Repository](https://atoz-develop.tistory.com)
 - [Jungwoon Blog](https://jungwoon.github.io)
@@ -33,3 +35,4 @@ tags: ["favorite", "devlog", "github", "tistory"]
 - [Hacking with Swift](https://www.hackingwithswift.com)
 - [GeekNews](https://news.hada.io)
 - [Tall, Snarky Canadian](https://snarky.ca)
+- [서버포럼](https://svrforum.com)

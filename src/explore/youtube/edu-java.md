@@ -45,19 +45,10 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android", "spring"
 | ❌ | <a href="https://www.youtube.com/watch?v=ZA9WpK-lxXM"><img width="140px" height="auto" alt="thumb-ZA9WpK-lxXM" src="https://i.ytimg.com/vi/ZA9WpK-lxXM/hqdefault.jpg"/></a> | [Spring Boot: Connecting to AWS \(RDS\)](https://www.youtube.com/watch?v=ZA9WpK-lxXM) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Ke7Tr4RgRTs"><img width="140px" height="auto" alt="thumb-Ke7Tr4RgRTs" src="https://i.ytimg.com/vi/Ke7Tr4RgRTs/hqdefault.jpg"/></a> | [Spring Boot - Getting started with Spring Boot \(EASY\)](https://www.youtube.com/watch?v=Ke7Tr4RgRTs) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=r-6BwGW4Sr8"><img width="140px" height="auto" alt="thumb-r-6BwGW4Sr8" src="https://i.ytimg.com/vi/r-6BwGW4Sr8/hqdefault.jpg"/></a> | [Spring Boot Tutorial For Beginners](https://www.youtube.com/watch?v=r-6BwGW4Sr8) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
-
-How I built two of the most addictive GAMES ever with Java and ChatGPT 4
--bb3YjYh10w
-
-IT'S A SCAM - ATTENTION PLEASE 🚨
-hYMGMYoJCag
-
-Junior Developer Sent Me A PR For Review
--a9GtkLrXkw
-
-N Tier Architecture Tutorial - Software Design
-xJC7ItRoEbw
-
+| ❌ | <a href="https://www.youtube.com/watch?v=-bb3YjYh10w"><img width="140px" height="auto" alt="thumb--bb3YjYh10w" src="https://i.ytimg.com/vi/-bb3YjYh10w/hqdefault.jpg"/></a> | [How I built two of the most addictive GAMES ever with Java and ChatGPT 4](https://www.youtube.com/watch?v=-bb3YjYh10w) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hYMGMYoJCag"><img width="140px" height="auto" alt="thumb-hYMGMYoJCag" src="https://i.ytimg.com/vi/hYMGMYoJCag/hqdefault.jpg"/></a> | [IT'S A SCAM - ATTENTION PLEASE 🚨](https://www.youtube.com/watch?v=hYMGMYoJCag) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=-a9GtkLrXkw"><img width="140px" height="auto" alt="thumb--a9GtkLrXkw" src="https://i.ytimg.com/vi/-a9GtkLrXkw/hqdefault.jpg"/></a> | [Junior Developer Sent Me A PR For Review](https://www.youtube.com/watch?v=-a9GtkLrXkw) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=xJC7ItRoEbw"><img width="140px" height="auto" alt="thumb-xJC7ItRoEbw" src="https://i.ytimg.com/vi/xJC7ItRoEbw/hqdefault.jpg"/></a> | [N Tier Architecture Tutorial - Software Design](https://www.youtube.com/watch?v=xJC7ItRoEbw) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
 
 :::
 
@@ -108,9 +99,7 @@ xJC7ItRoEbw
 | ❌ | <a href="https://www.youtube.com/watch?v=5jDrBD4Y1MI"><img width="140px" height="auto" alt="thumb-5jDrBD4Y1MI" src="https://i.ytimg.com/vi/5jDrBD4Y1MI/hqdefault.jpg"></a> | [Spring Security Complete Tutorial with Realtime Example | Facebook Group Usecase | JavaTechie](https://www.youtube.com/watch?v=5jDrBD4Y1MI) <br/><br/> _[Java Techie][yu-java-techie]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=pIPji3_rYPY"><img width="140px" height="auto" alt="thumb-pIPji3_rYPY" src="https://i.ytimg.com/vi/pIPji3_rYPY/hqdefault.jpg"></a> | [Kubernetes Tutorial | Run & Deploy Spring Boot CRUD Application With MySQL on K8S | JavaTechie](https://www.youtube.com/watch?v=pIPji3_rYPY) <br/><br/> _[Java Techie][yu-java-techie]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=g0QCZSzEqCY"><img width="140px" height="auto" alt="thumb-g0QCZSzEqCY" src="https://i.ytimg.com/vi/g0QCZSzEqCY/hqdefault.jpg"></a> | [Deploy Spring Boot and MongoDB as Containers Using Docker Command & Docker-Compose | JavaTechie](https://www.youtube.com/watch?v=g0QCZSzEqCY) <br/><br/> _[Java Techie][yu-java-techie]_ |
-
-Microservices Security Using JWT | Spring Cloud  Gateway | JavaTechie
-MWvnmyLRUik
+| ❌ | <a href="https://www.youtube.com/watch?v=MWvnmyLRUik"><img width="140px" height="auto" alt="thumb-MWvnmyLRUik" src="https://i.ytimg.com/vi/MWvnmyLRUik/hqdefault.jpg"></a> | [Microservices Security Using JWT \| Spring Cloud  Gateway \| JavaTechie](https://www.youtube.com/watch?v=MWvnmyLRUik) <br/><br/> _[Java Techie][yu-java-techie]_ |
 
 :::
 
@@ -177,19 +166,10 @@ MWvnmyLRUik
 | ❌ | <a href="https://www.youtube.com/watch?v=t8-VQFESNRo"><img width="140px" height="auto" alt="thumb-t8-VQFESNRo" src="https://i.ytimg.com/vi/t8-VQFESNRo/hqdefault.jpg"/></a> | [Apache POI Write a Microsoft Excel Spreadsheet from a Java program](https://www.youtube.com/watch?v=t8-VQFESNRo) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=eymb2I-m5tE"><img width="140px" height="auto" alt="thumb-eymb2I-m5tE" src="https://i.ytimg.com/vi/eymb2I-m5tE/hqdefault.jpg"/></a> | [Spring Boot Heroku up and running](https://www.youtube.com/watch?v=eymb2I-m5tE) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=g5dNMIhFAmo"><img width="140px" height="auto" alt="thumb-g5dNMIhFAmo" src="https://i.ytimg.com/vi/g5dNMIhFAmo/hqdefault.jpg"/></a> | [Java Deep Clone an Object](https://www.youtube.com/watch?v=g5dNMIhFAmo) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
-
-Terraform Conflict
-OXDyO5BvrdE
-
-Jwt JSON Web Token Intro
-qe93HOU8jzI
-
-
-Docker Swarm
-wHtxsUBGdvc
-
-Spring Boot Cloud Foundry Up And Running
-YCCD3NzytDw
+| ❌ | <a href="https://www.youtube.com/watch?v=OXDyO5BvrdE"><img width="140px" height="auto" alt="thumb-OXDyO5BvrdE" src="https://i.ytimg.com/vi/OXDyO5BvrdE/hqdefault.jpg"/></a> | [Terraform Conflict](https://www.youtube.com/watch?v=OXDyO5BvrdE) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=qe93HOU8jzI"><img width="140px" height="auto" alt="thumb-qe93HOU8jzI" src="https://i.ytimg.com/vi/qe93HOU8jzI/hqdefault.jpg"/></a> | [Jwt JSON Web Token Intro](https://www.youtube.com/watch?v=qe93HOU8jzI) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wHtxsUBGdvc"><img width="140px" height="auto" alt="thumb-wHtxsUBGdvc" src="https://i.ytimg.com/vi/wHtxsUBGdvc/hqdefault.jpg"/></a> | [Docker Swarm](https://www.youtube.com/watch?v=wHtxsUBGdvc) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=YCCD3NzytDw"><img width="140px" height="auto" alt="thumb-YCCD3NzytDw" src="https://i.ytimg.com/vi/YCCD3NzytDw/hqdefault.jpg"/></a> | [Spring Boot Cloud Foundry Up And Running](https://www.youtube.com/watch?v=YCCD3NzytDw) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
 
 ::::
 

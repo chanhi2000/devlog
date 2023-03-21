@@ -28,14 +28,14 @@ wsdl2java.bat -u -t -ss -sd -g -b `
 
 ### File
 
-```pwsh
+```powershell
 $file = Get-Item C:\Path\TO\File.txt
 $file.LastWriteTime = ('DD/MM/YYYY HH:MI:SS')
 ```
 
 ### Folder
 
-```pwsh
+```powershell
 $file = Get-Item C:\Path\TO\File.txt
 $file.LastWriteTime = ('DD/MM/YYYY HH:MI:SS')
 ```

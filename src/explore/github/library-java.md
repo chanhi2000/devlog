@@ -59,6 +59,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 - [bazelbuild/bazel][bazelbuild/bazel]: a fast, scalable, multi-language and extensible build system
   - [🌐Official Site](https://bazel.build)
 - [davinci1012/pinduoduo_backdoor_unpacker][davinci1012/pinduoduo_backdoor_unpacker]: Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
+- [apache/incubator-paimon][apache/incubator-paimon]: Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
+  - [🌐Official Site](https://paimon.apache.org)
+- [HamburgChimps/apple-notes-liberator][HamburgChimps/apple-notes-liberator]: Free your Apple Notes data from Notes.app
+- [liyupi/yu-auto-reply][liyupi/yu-auto-reply]: AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
+- [Kamilahsantos/Java-week-LinuxTips][Kamilahsantos/Java-week-LinuxTips]: Repositório com o conteúdo da Java Week da LinuxTips
+
+
 
 ---
 
@@ -165,6 +172,10 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 [classycodeoss/nfc-sockets]: https://github.com/classycodeoss/nfc-sockets
 [bazelbuild/bazel]: https://github.com/bazelbuild/bazel
 [davinci1012/pinduoduo_backdoor_unpacker]: https://github.com/davinci1012/pinduoduo_backdoor_unpacker
+[apache/incubator-paimon]: https://github.com/apache/incubator-paimon
+[HamburgChimps/apple-notes-liberator]: https://github.com/HamburgChimps/apple-notes-liberator
+[liyupi/yu-auto-reply]: https://github.com/liyupi/yu-auto-reply
+[Kamilahsantos/Java-week-LinuxTips]: https://github.com/Kamilahsantos/Java-week-LinuxTips
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

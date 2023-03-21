@@ -33,9 +33,9 @@ brew tap homebrew/cask-fonts
 # Install formula
 brew install amazon-ecs-cli awscli bison \
     cocoapods ffmpeg fizz flac git \
-    neofetch nvm openssl pixman python \
-    scrcpy starship tmux watchman wget \
-    xz zsh
+    mas neofetch nvm openssl pixman \
+    python scrcpy starship tmux watchman \
+    wget xz zsh
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner cheatsheet  \
@@ -51,9 +51,12 @@ brew install --cask airflow alt-tab appcleaner cheatsheet  \
 ## B. Apps from App Store
 
 ### B1. 🧰Prerequesite(s)
+
 - `App Store`
+- `mas`
 
 ### B2. 👨‍🏫Guide
+
 Install the following(s)
 
 - [XCode](https://apps.apple.com/us/app/xcode/id497799835)
@@ -62,6 +65,15 @@ Install the following(s)
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066)
 - [Copy Clip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960)
 
+### B3. Use `mas` to install
+
+```shell
+mas install 497799835 # xcode   
+mas install 1604176982 # One Thing
+mas install 885120167 # Particulars
+mas install 1452453066 # Hidden Bar
+mas install 595191960 # Copy Clip
+```
 
 ---
 ## C. Oh-My-Zsh

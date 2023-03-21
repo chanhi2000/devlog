@@ -389,9 +389,7 @@ v6SMV_TUOJk
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
-
-Simple SwiftUI MVVM and Combine
-6ZIZ5jGovEY
+| ❌ | <a href="https://www.youtube.com/watch?v=6ZIZ5jGovEY"><img width="140px" height="auto" alt="thumb-6ZIZ5jGovEY" src="https://i.ytimg.com/vi/6ZIZ5jGovEY/hqdefault.jpg"/></a> | [Simple SwiftUI MVVM and Combine](https://www.youtube.com/watch?v=6ZIZ5jGovEY) <br/><br/> _[Paul Colton][yu-paul-colton]_ |
 
 :::
 

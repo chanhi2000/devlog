@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Basics
 description: Basics
-tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs", "lombok"]
+tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs", "lombok", "log4j", "log4j2"]
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -118,5 +118,25 @@ public class FooBar {
     }
 }
 ```
+
+---
+
+## Log4j (1,2)
+
+### Favorite Layout Pattern(s)
+
+1. `%d{yyyy-MM-dd HH:mm:ss} %-5p : $c.%M(%F:$L) %-80m %n`
+2. `%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n`
+3. `%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n`
+
+### Reference(s)
+
+- [velog.io - Log4j 2 제대로 사용하기 - 개념](https://velog.io/@bread_dd/Log4j-2-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EA%B0%9C%EB%85%90)
+- [벨포트 라이브러리 - log4j 2 `log4j2.properties` 설정 옵션](https://wfreud.tistory.com/264)
+- [HowToDoInJava - Log4j2 Properties File Example](https://howtodoinjava.com/log4j2/log4j2-properties-example)
+- [HowToDoInJava - Log4j2 RollingFileAppender Example](https://howtodoinjava.com/log4j2/log4j2-rollingfileappender-example/)
+- [LogicBig - SLF4J with Log4j2 example](https://www.logicbig.com/tutorials/misc/java-logging/slf4j-with-log4j2.html)
+- [HatenaBlog - log4j-properties Converter](https://oboe2uran.hatenablog.com/entry/2011/01/20/204832)
+
 
 <TagLinks />

@@ -31,6 +31,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](http://gureum.io)
 - [zhuowei/WDBFontOverwrite][zhuowei/WDBFontOverwrite]: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
   - [🌐Official Site](https://notnow.dev/zhuowei)
+- [apple/VideoFlashingReduction][apple/VideoFlashingReduction]: Detection of Flashing Lights in Video Content
 
 ---
 
@@ -101,7 +102,9 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [pgrok/pgrok][pgrok/pgrok]: Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
 - [1Panel-dev/1Panel][1Panel-dev/1Panel]: 现代化、开源的 Linux 服务器运维管理面板。
   - [🌐Official Site](https://1panel.cn)
-
+- [charmbracelet/soft-serve][charmbracelet/soft-serve]: A tasty, self-hostable Git server for the command line🍦
+- [social4git/social4git][social4git/social4git]: A decentralized social protocol based on git
+- [pojntfx/go-nbd][pojntfx/go-nbd]: Pure Go NBD server and client library.
 
 
 ---
@@ -158,9 +161,23 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://pop-os.github.io/cosmic-text/cosmic_text)
 - [praetorian-inc/noseyparker][praetorian-inc/noseyparker]: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [dani-garcia/vaultwarden][dani-garcia/vaultwarden]: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [orhun/halp][orhun/halp]: A CLI tool to get help with CLI tools 🐙
   - [🌐Official Site](https://halp.cli.rs)
 - [setzer22/llama-rs][setzer22/llama-rs]: Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [typst/typst][typst/typst]: A new markup-based typesetting system that is powerful and easy to learn.
+  - [🌐Official Site](https://typst.app)
+- [matter-labs/zksync-era][matter-labs/zksync-era]: zkSync era
+- [ruffle-rs/ruffle][ruffle-rs/ruffle]: A Flash Player emulator written in Rust
+  - [🌐Official Site](https://ruffle.rs)
+- [apache/incubator-opendal][apache/incubator-opendal]: Apache OpenDAL: Access data freely, painlessly, and efficiently.
+  - [🌐Official Site](https://opendal.apache.org)
+- [m1guelpf/browser-agent][m1guelpf/browser-agent]: A browser AI agent, using GPT-4
+  - [🌐Official Site](https://docs.rs/browser-agent)
+
+---
+
+## Scala
+
+- [OpenXiangShan/XiangShan][OpenXiangShan/XiangShan]: Open-source high-performance RISC-V processor
 
 ---
 
@@ -184,6 +201,12 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [Const-me/Whisper][Const-me/Whisper]: High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
 - [microsoft/semantic-kernel][microsoft/semantic-kernel]: Integrate cutting-edge LLM technology quickly and easily into your apps
   - [🌐Official Site](https://aka.ms/semantic-kernel)
+- [keijiro/AICommand][keijiro/AICommand]: ChatGPT integration with Unity Editor
+- [files-community/Files][files-community/Files]: Building the best file manager experience for Windows
+  - [🌐Official Site](https://files.community)
+- [keijiro/UnityMLStableDiffusion][keijiro/UnityMLStableDiffusion]: Core ML Stable Diffusion on Unity
+
+
 
 ---
 
@@ -201,6 +224,11 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://laravel.com/docs/starter-kits#laravel-breeze)
 - [openai-php/laravel][openai-php/laravel]: ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [ockeghem/badtodo][ockeghem/badtodo]: 
+- [D4RK-R4BB1T/Dark-Web-Archives][D4RK-R4BB1T/Dark-Web-Archives]: Archives of the criminal side of the internet
+- [snipe/snipe-it][snipe/snipe-it]: A free open source IT asset/license management system
+  - [🌐Official Site](https://snipeitapp.com)
+
+
 
 ---
 
@@ -248,8 +276,25 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [ggerganov/llama.cpp][ggerganov/llama.cpp]: Port of Facebook's LLaMA model in C/C++
 - [ggerganov/whisper.cpp][ggerganov/whisper.cpp]: Port of OpenAI's Whisper model in C/C++
 - [ggerganov/ggml][ggerganov/ggml]: Tensor library for machine learning
+- [PCSX2/pcsx2][PCSX2/pcsx2]: PCSX2 - The Playstation 2 Emulator
+  - [🌐Official Site](https://pcsx2.net)
+- [raysan5/raylib][raysan5/raylib]: A simple and easy-to-use library to enjoy videogames programming
+  - [🌐Official Site](http://www.raylib.com)
+- [flipperzero-firmware][flipperzero-firmware]: Flipper Zero firmware source code
+  - [🌐Official Site](https://flipperzero.one)
+- [ventoy/Ventoy][ventoy/Ventoy]: A new bootable USB solution.
+  - [🌐Official Site](https://www.ventoy.net)
+- [libAudioFlux/audioFlux][libAudioFlux/audioFlux]: A library for audio and music analysis, feature extraction.
+  - [🌐Official Site](https://audioflux.top)
+- [KTStephano/StratusGFX][KTStephano/StratusGFX]: Realtime 3D rendering engine
+  - [🌐Official Site](https://ktstephano.github.io/portfolio)
+- [facebookresearch/faiss][facebookresearch/faiss]: A library for efficient similarity search and clustering of dense vectors.
+  - [🌐Official Site](https://faiss.ai)
+
 
 ---
+
+<!-- C & C++ -->
 
 ## Lua
 
@@ -360,6 +405,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [Lakr233/Rayon]: https://github.com/Lakr233/Rayon
 [gureum/gureum]: https://github.com/gureum/gureum
 [zhuowei/WDBFontOverwrite]: https://github.com/zhuowei/WDBFontOverwrite
+[apple/VideoFlashingReduction]: https://github.com/apple/VideoFlashingReduction
 <!-- Multiplatform -->
 [google/filament]: https://github.com/google/filament
 [Tencent/Hippy]: https://github.com/Tencent/Hippy 
@@ -400,6 +446,9 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [ccfos/nightingale]: https://github.com/ccfos/nightingale
 [pgrok/pgrok]: https://github.com/pgrok/pgrok
 [1Panel-dev/1Panel]: https://github.com/1Panel-dev/1Panel
+[charmbracelet/soft-serve]: https://github.com/charmbracelet/soft-serve
+[social4git/social4git]: https://github.com/social4git/social4git
+[pojntfx/go-nbd]: https://github.com/pojntfx/go-nbd
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -435,6 +484,13 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [dani-garcia/vaultwarden]: https://github.com/dani-garcia/vaultwarden
 [orhun/halp]: https://github.com/orhun/halp
 [setzer22/llama-rs]: https://github.com/setzer22/llama-rs
+[typst/typst]: https://github.com/typst/typst
+[matter-labs/zksync-era]: https://github.com/matter-labs/zksync-era
+[ruffle-rs/ruffle]: https://github.com/ruffle-rs/ruffle
+[apache/incubator-opendal]: https://github.com/apache/incubator-opendal
+[m1guelpf/browser-agent]: https://github.com/m1guelpf/browser-agent
+<!-- Scala -->
+[OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -447,6 +503,9 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [unoplatform/uno]: https://github.com/unoplatform/uno
 [Const-me/Whisper]: https://github.com/Const-me/Whisper
 [microsoft/semantic-kernel]: https://github.com/microsoft/semantic-kernel
+[keijiro/AICommand]: https://github.com/keijiro/AICommand
+[files-community/Files]: https://github.com/files-community/Files
+[keijiro/UnityMLStableDiffusion]: https://github.com/keijiro/UnityMLStableDiffusion
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
@@ -454,6 +513,8 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [openai-php/laravel]: https://github.com/openai-php/laravel
 [ockeghem/badtodo]: https://github.com/ockeghem/badtodo
 [laravel/breeze]: https://github.com/laravel/breeze
+[D4RK-R4BB1T/Dark-Web-Archives]: https://github.com/D4RK-R4BB1T/Dark-Web-Archives
+[snipe/snipe-it]: https://github.com/snipe/snipe-it
 <!-- C & C++ -->
 [exaloop/codon]: https://github.com/exaloop/codon
 [bytedance/sonic-cpp]: https://github.com/bytedance/sonic-cpp
@@ -480,6 +541,13 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [jerryscript-project/jerryscript]: https://github.com/jerryscript-project/jerryscript
 [ggerganov/llama.cpp]: https://github.com/ggerganov/llama.cpp
 [ggerganov/whisper.cpp]: https://github.com/ggerganov/whisper.cpp
+[PCSX2/pcsx2]: https://github.com/PCSX2/pcsx2
+[raysan5/raylib]: https://github.com/raysan5/raylib
+[flipperzero-firmware]: https://github.com/flipperzero-firmware
+[ventoy/Ventoy]: https://github.com/ventoy/Ventoy
+[libAudioFlux/audioFlux]: https://github.com/libAudioFlux/audioFlux
+[KTStephano/StratusGFX]: https://github.com/KTStephano/StratusGFX
+[facebookresearch/faiss]: https://github.com/facebookresearch/faiss
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim

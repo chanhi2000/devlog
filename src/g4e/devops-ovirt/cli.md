@@ -58,7 +58,7 @@ dmidecode -t memory
 dmidecode -t processor
 ```
 
-##### ✅정상
+#### ✅정상
 
 ```
 !! Cluster is in GLOBAL MAINTENANCE mode !!
@@ -119,5 +119,13 @@ Extra metadata (valid at timestamp):
 
 !! Cluster is in GLOBAL MAINTENANCE mode !!
 ```
+
+---
+
+## 기타
+| 명령어 | 설명 |
+| :--- | :--- |
+| `virt-what` | 무엇으로 가상화 되어 있는지 알려줌 |
+| `dmidecode -s system-product-name` | (RHEL/CentOS/Fedora/Ubuntu Linux) DMI 유형 |
 
 <TagLinks />
