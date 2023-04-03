@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Useful Snippets > 👽Android
-description: Useful Snippets > 👽Android
+title: 🐘Gradle >  Useful Snippets > 🤖Android
+description: 🐘Gradle > Useful Snippets > 🤖Android
 tags: ["gradle", "groovy", "android", "android-studio", "idea", "intellij-idea", "intellij", "apk", "signed-config", "plugin-android"]
 ---
 
@@ -50,10 +50,9 @@ buildscript {
 ```
 
 ```gradle
-// ...[생략]...
 plugins {
-    id("com.android.applications")
-    id("kotlin-android")
+    id('com.android.applications')
+    id('kotlin-android')
     // ...[생략]...
     id("com.google.gms.google-services")
 }
@@ -104,3 +103,7 @@ android {
     }
 }
 ```
+
+---
+
+<TagLinks />

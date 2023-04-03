@@ -95,6 +95,7 @@ function getDocsNavBar(item) {
               'lang-gradle/',
               'lang-gradle/useful-snippets',
               'lang-gradle/useful-snippets-android',
+              'lang-gradle/troubleshooting'
             ]
           }, {
             title: '🐦Maven',
@@ -116,6 +117,7 @@ function getDocsNavBar(item) {
               'lang-java/',
               'lang-java/basics',
               'lang-java/was',
+              'lang-java/android',
               'lang-java/webservice',
             ]
           }, {
@@ -225,6 +227,18 @@ function getDocsNavBar(item) {
             ]
           }, 
         ];
+      case 'academics':
+          return [
+            '',
+            {
+              title: 'PHYS034',
+              children: [
+                'PHYS034/',
+                'PHYS034/week01/',
+                'PHYS034/week01/lecture',
+              ]
+            }
+          ]
       case '5.0':
       case '5.1':
       case '5.2':
@@ -259,7 +273,6 @@ function getDocsNavBar(item) {
           'license',
           'contributing',
         ];
-      case '7.x':
       case '6.x':
         return [
           'upgrade',

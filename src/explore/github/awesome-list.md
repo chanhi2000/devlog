@@ -10,6 +10,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [[toc]]
 
 ---
+
 ## General
 
 - [ClintJang/awesome-swift-korean-lecture][ClintJang/awesome-swift-korean-lecture]: 훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)
@@ -78,7 +79,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://jiep.github.io/offensive-ai-compilation)
 - [fastfire/deepdarkCTI][fastfire/deepdarkCTI]: Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [davinci1010/pinduoduo_backdoor][davinci1010/pinduoduo_backdoor]: 拼多多apk内嵌提权代码，及动态下发dex分析
-
+- [bradtraversy/design-resources-for-developers][bradtraversy/design-resources-for-developers]: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [dair-ai/ML-Papers-of-the-Week][dair-ai/ML-Papers-of-the-Week]: 🔥Highlighting the top ML papers every week.
 
 
 ---
@@ -94,7 +96,9 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 
 
 ---
+
 ## Roadmap
+
 - [kamranahmedse/developer-roadmap][kamranahmedse/developer-roadmap]
   - [🌐Official Site](https://roadmap.sh)
 - [skydoves/android-developer-roadmap][skydoves/android-developer-roadmap]
@@ -157,6 +161,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [jiep/offensive-ai-compilation]: https://github.com/jiep/offensive-ai-compilation
 [fastfire/deepdarkCTI]: https://github.com/fastfire/deepdarkCTI
 [davinci1010/pinduoduo_backdoor]: https://github.com/davinci1010/pinduoduo_backdoor
+[bradtraversy/design-resources-for-developers]: https://github.com/bradtraversy/design-resources-for-developers
+[dair-ai/ML-Papers-of-the-Week]: https://github.com/dair-ai/ML-Papers-of-the-Week
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

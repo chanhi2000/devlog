@@ -19,7 +19,8 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css' }]
   ],
 
   /**
@@ -38,6 +39,7 @@ module.exports = {
       '/g4e/': getDocsNavBar('g4e'),
       '/catalogs/': getDocsNavBar('catalogs'),
       '/explore/': getDocsNavBar('explore'),
+      '/academics/': getDocsNavBar('academics'),
     },
     nav: [
       {
@@ -55,6 +57,9 @@ module.exports = {
         text: '🌐Explore',
         link: '/explore/',
       }, {
+        text: '🎓Academics',
+        link: '/academics/',
+      },{
         text: '📍Misc.',
         items: [
           {
@@ -77,7 +82,9 @@ module.exports = {
   markdown: {
     lineNumbers: true,
     extendMarkdown: md => {
-      md.use(require('markdown-it-task-lists'))
+      md.set({ breaks: true })
+      md.use(require('markdown-it-task-lists'));
+      md.use(require('markdown-it-katexx'), {});
     },
     toc: { includeLevel: [1, 2, 3] },
   },
@@ -87,7 +94,8 @@ module.exports = {
    */
   plugins: [
     "@vuepress/back-to-top",
-    ["@vuepress/plugin-last-updated",
+    [
+      "@vuepress/plugin-last-updated",
       {
         transformer: (timestamp, lang) => {
           // Don't forget to install moment yourself

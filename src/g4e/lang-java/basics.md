@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Basics
-description: Basics
+title: ☕️Java > Basics
+description: ☕️Java > Basics
 tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs", "lombok", "log4j", "log4j2"]
 ---
 
@@ -138,5 +138,6 @@ public class FooBar {
 - [LogicBig - SLF4J with Log4j2 example](https://www.logicbig.com/tutorials/misc/java-logging/slf4j-with-log4j2.html)
 - [HatenaBlog - log4j-properties Converter](https://oboe2uran.hatenablog.com/entry/2011/01/20/204832)
 
+---
 
 <TagLinks />

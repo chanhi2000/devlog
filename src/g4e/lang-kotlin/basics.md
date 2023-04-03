@@ -28,7 +28,6 @@ class FooBar {
 
 ---
 
-
 ## 자주쓰는 Enum Pattern
 
 ```kotlin
@@ -47,6 +46,32 @@ enum class FooBar(
         }
         @JvmStatic
         fun findByCode(code: Int): FooBar? = findMap[code]
+    }
+}
+```
+
+---
+
+## 자주쓰는 Builder Pattern
+
+```kotlin
+data class FooBar(
+    val a: String = ""
+    val b: String = ""
+    val c: Boolean = false,
+    val d: Boolean = false,
+    val e: String = ""
+) {
+    class Builder {
+        private var bA: String = ""; fun a(block: () -> String) { bA = block() }
+        private var bB: String = ""; fun b(block: () -> String) { bB = block() }
+        private var bC: String = ""; fun c(block: () -> String) { bC = block() }
+        private var bD: String = ""; fun d(block: () -> String) { bD = block() }
+        private var bE: String = ""; fun e(block: () -> String) { bE = block() }
+        fun build(): FooBar = FooBar(bA, bB, bC, bD, bE)
+    }
+    companion object {
+        inline fun builder(block: Builder.() -> Unit): FooBar = Builder().apply(block).build()
     }
 }
 ```

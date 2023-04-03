@@ -16,3 +16,5 @@ tags: ["batch", "bat", "windows", "windows-terminal", "net"]
 | :--- | :--- |
 | `net user` | Windows 사용자 조회 |
 | `net user <LOGINID> <NEW_PASSWORD>` | Windows 사용자 비밀번호 변경 |
+
+<TagLinks />

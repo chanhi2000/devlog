@@ -73,4 +73,59 @@ SELECT now()
 SELECT DATE_FORMAT(now(), '%y-%m-%d')
 ```
 
+---
+
+## B. CLI
+
+### B1. DB 접근
+
+```sh
+mysql -h <HOST> -P <PORT_NUMBER> -u <USERNAME> -p
+```
+
+#### B1-a. 💀ERROR 2002 (HY000)
+
+```
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+```
+##### 원인
+
+`mysql.sock` 파일이 경로 및 심볼릭링크 정확하지 않아서 발생하는 오류
+보통 `mysql-server` 가 기동되지 않아 생기는 문제
+
+##### 해결법
+
+1. `mysql.sock` 위치 찾기
+
+```sh
+mysql_config --socket
+```
+
+2a. `my.cnf` 설정 된 socket경로를 심볼릭링크 설정
+
+```sh
+sudo ln -s /var/lib/mysql/mysql.sock /tmp/mysql.sock
+```
+
+2b. `/var/lib/mysql` 위치에 `mysql.sock` 파일이 없을 경우
+
+2b-i. `/etc/my.cnf` 파일이 설정한 값 중 `socket` 경로가 어디 있는지 보면 알 수 있다.
+
+```conf
+[mysqld]
+datadir=/var/lib/mysql
+socket=/var/lib/mysql/mysql.sock
+user=mysql
+... 
+```
+
+2b-ii. `mysqld` service 동작 확인
+
+```sh
+service mysqld status
+service mysqld start # 결과가 `mysql is stopped` 일 경우, 
+```
+ 
+
+
 <TagLinks />

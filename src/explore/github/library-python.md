@@ -150,7 +150,31 @@ tags: ["git" , "github" , "python" , "py"]
 - [ymcui/Chinese-LLaMA-Alpaca][ymcui/Chinese-LLaMA-Alpaca]: 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
 - [NafisiAslH/KnowledgeSharing][NafisiAslH/KnowledgeSharing]
 - [RosettaCommons/RFdiffusion][RosettaCommons/RFdiffusion]: Code for running RFdiffusion
-
+- [twitter/the-algorithm-ml][twitter/the-algorithm-ml]: Source code for Twitter's Recommendation Algorithm
+  - [🌐Official Site](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+- [lm-sys/FastChat][lm-sys/FastChat]: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [twitter/opensource-website][twitter/opensource-website]: Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+  - [🌐Official Site](https://opensource.twitter.dev)
+- [Torantulino/Auto-GPT][Torantulino/Auto-GPT]: An experimental open-source attempt to make GPT-4 fully autonomous.
+- [new-ai-company/ide][new-ai-company/ide]: $NAME is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+  - [🌐Official Site](https://ai-api-gray.vercel.app)
+- [briangu/klongpy][briangu/klongpy]: Vectorized port of Klong array language
+- [apple/ml-stable-diffusion][apple/ml-stable-diffusion]: Stable Diffusion with Core ML on Apple Silicon
+- [microsoft/JARVIS][microsoft/JARVIS]: JARVIS, a system to connect LLMs with ML community
+- [stochasticai/xturing][stochasticai/xturing]: Build and control your own LLMs
+  - [🌐Official Site](https://xturing.stochastic.ai)
+- [GammaTauAI/reflexion-human-eval][GammaTauAI/reflexion-human-eval]: An implementation of a Reflexion agent for SOTA Human-Eval Python results.
+- [THUDM/ChatGLM-6B][THUDM/ChatGLM-6B]: ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model
+- [yoheinakajima/babyagi][yoheinakajima/babyagi]
+- [e2b-dev/e2b][e2b-dev/e2b]: e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+  - [🌐Official Site](https://e2b.dev)
+- [emcf/engshell][emcf/engshell]: An English-language shell for any OS, powered by LLMs
+- [project-baize/baize-chatbot][project-baize/baize-chatbot]: Let ChatGPT teach your own chatbot in hours with a single GPU!
+  - [🌐Official Site](https://arxiv.org/abs/2304.01196)
+- [imClumsyPanda/langchain-ChatGLM][imClumsyPanda/langchain-ChatGLM]: langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM
+- [Torantulino/AI-Functions][Torantulino/AI-Functions]: AI-Powered Function Magic: Never code again with GPT models!
+- [TabbyML/tabby][TabbyML/tabby]: Self-hosted AI coding assistant
+  - [🌐Official Site](https://tabbyml.github.io/tabby)
 
 
 
@@ -170,6 +194,7 @@ tags: ["git" , "github" , "python" , "py"]
 - [traghav/auto-redteam][traghav/auto-redteam]: Redteaming LLMs using other LLMs
 - [yuanzhoulvpi2017/zero_nlp][yuanzhoulvpi2017/zero_nlp]: 中文nlp应用(数据、模型、训练、推理) chatglm6b
 - [PhoebusSi/Alpaca-CoT][PhoebusSi/Alpaca-CoT]: We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集,并在我们框架下集成进更多的LLM。）
+- [ai-forever/Kandinsky-2][ai-forever/Kandinsky-2]: Kandinsky 2 — multilingual text2image latent diffusion model
 
 
 
@@ -280,6 +305,24 @@ tags: ["git" , "github" , "python" , "py"]
 [ymcui/Chinese-LLaMA-Alpaca]: https://github.com/ymcui/Chinese-LLaMA-Alpaca
 [NafisiAslH/KnowledgeSharing]: https://github.com/NafisiAslH/KnowledgeSharing
 [RosettaCommons/RFdiffusion]: https://github.com/RosettaCommons/RFdiffusion
+[twitter/the-algorithm-ml]: https://github.com/twitter/the-algorithm-ml
+[lm-sys/FastChat]: https://github.com/lm-sys/FastChat
+[twitter/opensource-website]: https://github.com/twitter/opensource-website
+[Torantulino/Auto-GPT]: https://github.com/Torantulino/Auto-GPT
+[new-ai-company/ide]: https://github.com/new-ai-company/ide
+[briangu/klongpy]: https://github.com/briangu/klongpy
+[apple/ml-stable-diffusion]: https://github.com/apple/ml-stable-diffusion
+[microsoft/JARVIS]: https://github.com/microsoft/JARVIS
+[stochasticai/xturing]: https://github.com/stochasticai/xturing
+[GammaTauAI/reflexion-human-eval]: https://github.com/GammaTauAI/reflexion-human-eval
+[THUDM/ChatGLM-6B]: https://github.com/THUDM/ChatGLM-6B
+[yoheinakajima/babyagi]: https://github.com/yoheinakajima/babyagi
+[e2b-dev/e2b]: https://github.com/e2b-dev/e2b
+[emcf/engshell]: https://github.com/emcf/engshell
+[project-baize/baize-chatbot]: https://github.com/project-baize/baize-chatbot
+[imClumsyPanda/langchain-ChatGLM]: https://github.com/imClumsyPanda/langchain-ChatGLM
+[Torantulino/AI-Functions]: https://github.com/Torantulino/AI-Functions
+[TabbyML/tabby]: https://github.com/TabbyML/tabby
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -291,3 +334,4 @@ tags: ["git" , "github" , "python" , "py"]
 [traghav/auto-redteam]: https://github.com/traghav/auto-redteam
 [yuanzhoulvpi2017/zero_nlp]: https://github.com/yuanzhoulvpi2017/zero_nlp
 [PhoebusSi/Alpaca-CoT]: https://github.com/PhoebusSi/Alpaca-CoT
+[ai-forever/Kandinsky-2]: https://github.com/ai-forever/Kandinsky-2

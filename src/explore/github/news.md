@@ -11,15 +11,15 @@ tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 
 ---
 
-## 일반
+## General
 
-### Korea
+### General > Korea
 
 - [naver/fe-news][naver/fe-news]: FE 기술 소식 큐레이션 뉴스레터
 - [sjjeong/android-tech-spec-in-korea-company][sjjeong/android-tech-spec-in-korea-company]: 한국에서 안드로이드 앱을 개발하는 회사의 기술 스팩을 아카이브합니다.
 - [sjjeong/ios-tech-spec-in-korea-company][sjjeong/ios-tech-spec-in-korea-company]: 한국에서 iOS앱을 개발하는 회사의 iOS 기술 스펙을 아카이브합니다
 
-### Overseas
+### General > Overseas
 
 - [GitHubDaily/GitHubDaily][GitHubDaily/GitHubDaily]: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [papers-we-love/papers-we-love][papers-we-love/papers-we-love]: Papers from the computer science community to read and discuss.
@@ -28,13 +28,13 @@ tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 
 ---
 
-## Hiring 관련
+## Hiring
 
-### Korea
+### Hiring > Korea
 
 - [jojoldu/junior-recruit-scheduler][jojoldu/junior-recruit-scheduler]
 
-### Overseas
+### Hiring > Overseas
 
 - [poteto/hiring-without-whiteboards][poteto/hiring-without-whiteboards]
 - [Ebazhanov/linkedin-skill-assessments-quizzes][Ebazhanov/linkedin-skill-assessments-quizzes]: About

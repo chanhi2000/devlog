@@ -10,6 +10,17 @@ tags: ["bash", "linux", "macos", "terminal", "date"]
 [[toc]]
 
 ---
+
+## User Permission
+
+### Sudoer 등록
+
+```sh
+sudo adduser <newuser>
+usermod -aG sudo <newuser>
+```
+
+---
 ## H/W 정보
 
 | 명령어 | 설명 |

@@ -197,6 +197,11 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 - [dice2o/BingGPT][dice2o/BingGPT]: Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [requarks/wiki][requarks/wiki]: Wiki.js | A modern and powerful wiki app built on Node.js
   - [🌐Official Site](https://js.wiki)
+- [twitter/twemoji][twitter/twemoji]: Emoji for everyone.
+  - [🌐Official Site](https://twemoji.twitter.com)
+- [OptimalScale/LMFlow][OptimalScale/LMFlow]: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。
+  - [🌐Official Site](https://optimalscale.github.io/LMFlow)
+- [serverless-stack/sst][serverless-stack/sst]: 
 
 
 
@@ -248,6 +253,18 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](https://code.visualstudio.com)
 - [coral-xyz/backpack][coral-xyz/backpack]: 🎒 Next level crypto wallet
   - [🌐Official Site](https://backpack.app)
+- [mckaywrigley/ai-code-translator][mckaywrigley/ai-code-translator]: Use AI to translate code from one language to another.
+  - [🌐Official Site](https://ai-code-translator.vercel.app)
+- [hahahumble/speechgpt][hahahumble/speechgpt]: SpeechGPT is a web application that enables you to converse with ChatGPT.
+  - [🌐Official Site](https://speechgpt.app)
+- [Synaptrix/ChatGPT-Desktop][Synaptrix/ChatGPT-Desktop]: ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！
+- [moeakwak/chatgpt-web-share][moeakwak/chatgpt-web-share]: A web application that allows multiple users to share one ChatGPT account at the same time, developed using unofficial ChatGPT API & fastapi & vue3. Supports GPT-4! 共享 ChatGPT 账号给多用户同时使用，可用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。
+- [hocus-dev/hocus][hocus-dev/hocus]: 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
+  - [🌐Official Site](https://hocus.dev)
+- [nat/openplayground][nat/openplayground]: An LLM playground you can run on your laptop
+
+
+
 
 
 <TagLinks />
@@ -357,6 +374,9 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [matter-labs/zksync-web-era-docs]: https://github.com/matter-labs/zksync-web-era-docs
 [dice2o/BingGPT]: https://github.com/dice2o/BingGPT
 [requarks/wiki]: https://github.com/requarks/wiki
+[twitter/twemoji]: https://github.com/twitter/twemoji
+[OptimalScale/LMFlow]: https://github.com/OptimalScale/LMFlow
+[serverless-stack/sst]: https://github.com/serverless-stack/sst
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -382,3 +402,9 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [Mirrorful/mirrorful]: https://github.com/Mirrorful/mirrorful
 [microsoft/vscode]: https://github.com/microsoft/vscode
 [coral-xyz/backpack]: https://github.com/coral-xyz/backpack
+[mckaywrigley/ai-code-translator]: https://github.com/mckaywrigley/ai-code-translator
+[hahahumble/speechgpt]: https://github.com/hahahumble/speechgpt
+[Synaptrix/ChatGPT-Desktop]: https://github.com/Synaptrix/ChatGPT-Desktop
+[moeakwak/chatgpt-web-share]: https://github.com/moeakwak/chatgpt-web-share
+[hocus-dev/hocus]: https://github.com/hocus-dev/hocus
+[nat/openplayground]: https://github.com/nat/openplayground

@@ -36,7 +36,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 - [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
 - [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
-
+- [‘Gradle Kotlin DSL’ 이야기](https://techblog.woowahan.com/2625)
 
 ---
 
@@ -75,6 +75,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 ---
 
 ## Medium
+
 - [Deploy web apps (+NGINX) to ECS with Docker](https://stefanofrancavilla.medium.com/deploy-web-apps-nginx-to-ecs-with-docker-580c6af827e8)
 - [네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
 - [Xcode 프로젝트 관리를 위한 Tuist 알아보기](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
@@ -95,7 +96,9 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
 
 ---
+
 ## Dev.to
+
 - [My notes about conducting a massive refactor in a Vue.js website](https://dev.to/marianapicolo/my-notes-about-conducting-a-massive-refactor-in-a-vue-js-website-bo7)
 - [`useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
 - [Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
@@ -131,12 +134,16 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 
 ---
+
 ## Zum 
+
 - [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
 
 
 ---
+
 ## tistory
+
 - [\[Jetpack Compose\] 카운트 다운 타이머](https://programmar.tistory.com/50)
 - [\[Android\] Retrofit](https://sg-choi.tistory.com/517)
 - [안드로이드 SDK 번호와 버전 정리](https://kwon8999.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-SDK-%EB%B2%88%ED%98%B8%EC%99%80-%EB%B2%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
@@ -242,6 +249,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2)
 - [Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c)
 - [정규표현식 완전정복](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
+- [Gradle Kotlin, Java Project의 기본 구성 살펴보고, Gradle Task로 컴파일, 패키징 하기](https://kotlinworld.com/315)
 
 ---
 

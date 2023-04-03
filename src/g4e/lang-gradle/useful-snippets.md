@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Useful Snippets
-description: Useful Snippets
+title: 🐘Gradle > Useful Snippets
+description: 🐘Gradle > Useful Snippets
 tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "war", "plugin-war", "plugin-java", "executable-jar", "jar"]
 ---
 

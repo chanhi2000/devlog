@@ -32,6 +32,9 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [zhuowei/WDBFontOverwrite][zhuowei/WDBFontOverwrite]: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
   - [🌐Official Site](https://notnow.dev/zhuowei)
 - [apple/VideoFlashingReduction][apple/VideoFlashingReduction]: Detection of Flashing Lights in Video Content
+- [godly-devotion/MochiDiffusion][godly-devotion/MochiDiffusion]: Run Stable Diffusion on Mac natively
+- [leetcode-mafia/cheetah][leetcode-mafia/cheetah]: Whisper & GPT-based app for passing remote SWE interviews
+
 
 ---
 
@@ -55,7 +58,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [schollz/croc][schollz/croc]: Easily and securely send things from one computer to another 🐊 📦
   - [🌐Official Site](https://schollz.com/software/croc6)
 - [eatmoreapple/openwechat][eatmoreapple/openwechat]: golang版微信SDK
-- [awslabs/eks-node-viewerawslabs/eks-node-viewer]: EKS Node Viewer
+- [awslabs/eks-node-viewer][awslabs/eks-node-viewer]: EKS Node Viewer
 - [dolthub/dolt][dolthub/dolt]: Dolt – Git for Data
 - [aler9/rtsp-simple-server][aler9/rtsp-simple-server]: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [miniscruff/changie][miniscruff/changie]: Automated changelog tool for preparing releases with lots of customization options
@@ -105,6 +108,8 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [charmbracelet/soft-serve][charmbracelet/soft-serve]: A tasty, self-hostable Git server for the command line🍦
 - [social4git/social4git][social4git/social4git]: A decentralized social protocol based on git
 - [pojntfx/go-nbd][pojntfx/go-nbd]: Pure Go NBD server and client library.
+- [iDvel/rime-ice][iDvel/rime-ice]: Rime 配置：雾凇拼音 | 长期维护的简体词库
+  - [🌐Official Site](https://dvel.me/posts/rime-ice)
 
 
 ---
@@ -161,6 +166,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://pop-os.github.io/cosmic-text/cosmic_text)
 - [praetorian-inc/noseyparker][praetorian-inc/noseyparker]: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [dani-garcia/vaultwarden][dani-garcia/vaultwarden]: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [orhun/halp][orhun/halp]: A CLI tool to get help with CLI tools 🐙  
   - [🌐Official Site](https://halp.cli.rs)
 - [setzer22/llama-rs][setzer22/llama-rs]: Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 - [typst/typst][typst/typst]: A new markup-based typesetting system that is powerful and easy to learn.
@@ -172,12 +178,17 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://opendal.apache.org)
 - [m1guelpf/browser-agent][m1guelpf/browser-agent]: A browser AI agent, using GPT-4
   - [🌐Official Site](https://docs.rs/browser-agent)
+- [twitter/rezolus][twitter/rezolus]: Systems performance telemetry
 
 ---
 
 ## Scala
 
 - [OpenXiangShan/XiangShan][OpenXiangShan/XiangShan]: Open-source high-performance RISC-V processor
+- [twitter/the-algorithm][twitter/the-algorithm]: Source code for Twitter's Recommendation Algorithm
+  - [🌐Official Site](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+- [twitter/finagle][twitter/finagle]: A fault tolerant, protocol-agnostic RPC system
+  - [🌐Official Site](https://twitter.github.io/finagle)
 
 ---
 
@@ -205,8 +216,11 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [files-community/Files][files-community/Files]: Building the best file manager experience for Windows
   - [🌐Official Site](https://files.community)
 - [keijiro/UnityMLStableDiffusion][keijiro/UnityMLStableDiffusion]: Core ML Stable Diffusion on Unity
+- [DeSinc/SallyBot][DeSinc/SallyBot]: AI Chatbot coded in Discord.net C#
 
 
+
+<!-- C# -->
 
 ---
 
@@ -242,12 +256,12 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [📚Documentation](https://assimp-docs.readthedocs.io/en)
 - [ange-yaghi/engine-sim][ange-yaghi/engine-sim]: Combustion engine simulator that generates realistic audio.
   - [🌐Official Site](http://engine-sim.parts)
-- [google/android-emulator-hypervisor-driver][google/android-emulator-hypervisor-driver]: 
+- [google/android-emulator-hypervisor-driver][google/android-emulator-hypervisor-driver]
 - [nalgeon/sqlean][nalgeon/sqlean]: The ultimate set of SQLite extensions
 - [nlohmann/json][nlohmann/json]: JSON for Modern C++
   - [🌐Official Site](https://json.nlohmann.me)
 - [alibaba/havenask][alibaba/havenask]
-- [musescore/MuseScoremusescore/MuseScore]: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+- [musescore/MuseScore][musescore/MuseScore]: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
   - [🌐Official Site](https://musescore.org)
 - [facebook/zstd][facebook/zstd]: Zstandard - Fast real-time compression algorithm
   - [🌐Official Site](http://www.zstd.net)
@@ -263,7 +277,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [facebook/folly][facebook/folly]: An open-source C++ library developed and used at Facebook.
   - [🌐Official Site](https://groups.google.com/forum/?fromgroups#!forum/facebook-folly)
 - [ciniml/WireGuard-ESP32-Arduino][ciniml/WireGuard-ESP32-Arduino]: WireGuard implementation for ESP32 Arduino
-- [DarkFlippers/unleashed-firmwareDarkFlippers/unleashed-firmware]: Flipper Zero Unleashed Firmware
+- [DarkFlippers/unleashed-firmware][DarkFlippers/unleashed-firmware]: Flipper Zero Unleashed Firmware
   - [🌐Official Site](https://t.me/flipperzero_unofficial)
 - [ocornut/imgui][ocornut/imgui]: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [FFmpeg/FFmpeg][FFmpeg/FFmpeg]: Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -290,6 +304,15 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://ktstephano.github.io/portfolio)
 - [facebookresearch/faiss][facebookresearch/faiss]: A library for efficient similarity search and clustering of dense vectors.
   - [🌐Official Site](https://faiss.ai)
+- [curl/urler][curl/urler]: trurl is a command line tool for URL parsing and manipulation.
+- [topjohnwu/Magisk][topjohnwu/Magisk]: The Magic Mask for Android
+- [system76/firmware-open][system76/firmware-open]: System76 Open Firmware
+- [Facico/Chinese-Vicuna][Facico/Chinese-Vicuna]: Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
+  - [🌐Official Site](https://github.com/Facico/Chinese-Vicuna)
+- [finos/perspective][finos/perspective]: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+  - [🌐Official Site](https://perspective.finos.org)
+
+
 
 
 ---
@@ -307,6 +330,10 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [folke/lazy.nvim][folke/lazy.nvim]: 💤 A modern plugin manager for Neovim
 - [AstroNvim/AstroNvim][AstroNvim/AstroNvim]: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
   - [🌐Official Site](https://astronvim.com)
+- [PathOfBuildingCommunity/PathOfBuilding][PathOfBuildingCommunity/PathOfBuilding]: Offline build planner for Path of Exile.
+  - [🌐Official Site](https://pathofbuilding.community)
+
+
 
 ---
 
@@ -347,7 +374,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 
 ## Batchfile
 
-- [massgravel/Microsoft-Activation-Scripts][massgravel/Microsoft-Activation-Scripts]: 
+- [massgravel/Microsoft-Activation-Scripts][massgravel/Microsoft-Activation-Scripts]
 
 ## TeX
 
@@ -406,10 +433,11 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [gureum/gureum]: https://github.com/gureum/gureum
 [zhuowei/WDBFontOverwrite]: https://github.com/zhuowei/WDBFontOverwrite
 [apple/VideoFlashingReduction]: https://github.com/apple/VideoFlashingReduction
+[godly-devotion/MochiDiffusion]: https://github.com/godly-devotion/MochiDiffusion
+[leetcode-mafia/cheetah]: https://github.com/leetcode-mafia/cheetah
 <!-- Multiplatform -->
 [google/filament]: https://github.com/google/filament
-[Tencent/Hippy]: https://github.com/Tencent/Hippy 
-[microsoft/vscode]: https://github.com/microsoft/vscode
+[Tencent/Hippy]: https://github.com/Tencent/Hippy
 [Shopify/react-native-skia]: https://github.com/Shopify/react-native-skia
 <!-- Go -->
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
@@ -449,6 +477,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [charmbracelet/soft-serve]: https://github.com/charmbracelet/soft-serve
 [social4git/social4git]: https://github.com/social4git/social4git
 [pojntfx/go-nbd]: https://github.com/pojntfx/go-nbd
+[iDvel/rime-ice]: https://github.com/iDvel/rime-ice
 <!-- Rust -->
 [tauri-apps/tauri]: https://github.com/tauri-apps/tauri
 [helix-editor/helix]: https://github.com/helix-editor/helix
@@ -489,8 +518,11 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [ruffle-rs/ruffle]: https://github.com/ruffle-rs/ruffle
 [apache/incubator-opendal]: https://github.com/apache/incubator-opendal
 [m1guelpf/browser-agent]: https://github.com/m1guelpf/browser-agent
+[twitter/rezolus]: https://github.com/twitter/rezolus
 <!-- Scala -->
 [OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
+[twitter/the-algorithm]: https://github.com/twitter/the-algorithm
+[twitter/finagle]: https://github.com/twitter/finagle
 <!-- C# -->
 [scottplot/scottplot]: https://github.com/scottplot/scottplot
 [microsoft/PowerToys]: https://github.com/microsoft/PowerToys
@@ -506,6 +538,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [keijiro/AICommand]: https://github.com/keijiro/AICommand
 [files-community/Files]: https://github.com/files-community/Files
 [keijiro/UnityMLStableDiffusion]: https://github.com/keijiro/UnityMLStableDiffusion
+[DeSinc/SallyBot]: https://github.com/DeSinc/SallyBot
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
@@ -541,6 +574,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [jerryscript-project/jerryscript]: https://github.com/jerryscript-project/jerryscript
 [ggerganov/llama.cpp]: https://github.com/ggerganov/llama.cpp
 [ggerganov/whisper.cpp]: https://github.com/ggerganov/whisper.cpp
+[ggerganov/ggml]: https://github.com/ggerganov/ggml
 [PCSX2/pcsx2]: https://github.com/PCSX2/pcsx2
 [raysan5/raylib]: https://github.com/raysan5/raylib
 [flipperzero-firmware]: https://github.com/flipperzero-firmware
@@ -548,6 +582,11 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [libAudioFlux/audioFlux]: https://github.com/libAudioFlux/audioFlux
 [KTStephano/StratusGFX]: https://github.com/KTStephano/StratusGFX
 [facebookresearch/faiss]: https://github.com/facebookresearch/faiss
+[curl/urler]: https://github.com/curl/urler
+[topjohnwu/Magisk]: https://github.com/topjohnwu/Magisk
+[system76/firmware-open]: https://github.com/system76/firmware-open
+[Facico/Chinese-Vicuna]: https://github.com/Facico/Chinese-Vicuna
+[finos/perspective]: https://github.com/finos/perspective
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -556,6 +595,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [nvim-lua/kickstart.nvim]: https://github.com/nvim-lua/kickstart.nvim
 [folke/lazy.nvim]: https://github.com/folke/lazy.nvim
 [AstroNvim/AstroNvim]: https://github.com/AstroNvim/AstroNvim
+[PathOfBuildingCommunity/PathOfBuilding]: https://github.com/PathOfBuildingCommunity/PathOfBuilding
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch

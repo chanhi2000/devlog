@@ -10,53 +10,60 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [[toc]]
 
 ---
+
 ## CompSci / Programming Basics
+
 - [mtdvio/every-programmer-should-know][mtdvio/every-programmer-should-know]
 - [github/opensource.guide][github/opensource.guide]: 📚 Community guides for open source creators
-    - [🌐Official Site](https://opensource.guide)
+  - [🌐Official Site](https://opensource.guide)
 - [PKUFlyingPig/cs-self-learning][PKUFlyingPig/cs-self-learning]: 计算机自学指南
-    - [🌐Official Site](https://csdiy.wiki)
+  - [🌐Official Site](https://csdiy.wiki)
 - [RomuloOliveira/commit-messages-guide][RomuloOliveira/commit-messages-guide]: A guide to understand the importance of commit messages and how to write them well
 - [practical-tutorials/project-based-learning][practical-tutorials/project-based-learning]: Curated list of project-based tutorials
 - [Developer-Y/cs-video-courses][Developer-Y/cs-video-courses]: List of Computer Science courses with video lectures.
 - [dair-ai/Prompt-Engineering-Guide][dair-ai/Prompt-Engineering-Guide]: 🐙 Guide and resources for prompt engineering
 - [freeCodeCamp/freeCodeCamp][freeCodeCamp/freeCodeCamp]: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - [🌐Official Site](https://contribute.freecodecamp.org)
+  - [🌐Official Site](https://contribute.freecodecamp.org)
 
 
 
 ---
+
 ## Java
+
 - [macrozheng/springcloud-learning][macrozheng/springcloud-learning]: 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
-    - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
+  - [🌐Official Site](https://www.macrozheng.com/cloud/cloud_catalog.html)
 - [akullpp/awesome-java][akullpp/awesome-java]: A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [preslavmihaylov/booknotes][preslavmihaylov/booknotes]: A collection of my book notes on various computer science books
 
-
 ---
+
 ## Kotlin
+
 - [Kotlin/KEEP][Kotlin/KEEP]: Kotlin Evolution and Enhancement Process
 - [tarek360/Kotlin-JavaScript-Lottie-Example][tarek360/Kotlin-JavaScript-Lottie-Example]: Example shows calling a JavaScript library from Kotlin as a dynamic type and static type
-- [PaperMC/paperweight-examples][PaperMC/paperweight-examples]: 
-
+- [PaperMC/paperweight-examples][PaperMC/paperweight-examples]
 
 ---
+
 ## Android
+
 - [SmartToolFactory/Jetpack-Compose-Tutorials][SmartToolFactory/Jetpack-Compose-Tutorials]
 - [parasv49/Android-Internal-Notification][parasv49/Android-Internal-Notification]: Android Internal Notification
 - [https://gist.github.com/vilmarbfilho/1f162d09899523198a8ffd424b47ccd1][vilmarbfilho/1f162d09899523198a8ffd424b47ccd1]: library_buildconfig
 
-
 ---
+
 ## Swift
 
 - [pointfreeco/episode-code-samples][pointfreeco/episode-code-samples]: 💾 Point-Free episode code.
-    - [🌐Official Site](https://www.pointfree.co)
+  - [🌐Official Site](https://www.pointfree.co)
 - [twostraws/HackingWithSwift][twostraws/HackingWithSwift]: The project source code for hackingwithswift.com
 
 <!-- Swift -->
 
 ---
+
 ## Javascript
 
 - [airbnb/javascript][airbnb/javascript]: JavaScript Style Guide
@@ -78,15 +85,16 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://epicreact.dev/fundamentals)
 - [judygab/web-dev-projects][judygab/web-dev-projects]: Projects repo for tutorials for my YouTube Channel
 - [john-smilga/react-course-v3][john-smilga/react-course-v3]: The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)
- - [🌐Official Site](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+  - [🌐Official Site](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 <!-- Javascript -->
 
 ---
+
 ## Python
 
 - [gto76/python-cheatsheet][gto76/python-cheatsheet]: Comprehensive Python Cheatsheet
-    - [🌐Official Site](https://gto76.github.io/python-cheatsheet)
+  - [🌐Official Site](https://gto76.github.io/python-cheatsheet)
 - [jackfrued/Python-Core-50-Courses][jackfrued/Python-Core-50-Courses]: Python语言基础50课
 - [Asabeneh/30-Days-Of-Python][Asabeneh/30-Days-Of-Python]: About 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [Pierian-Data/Complete-Python-3-Bootcamp][Pierian-Data/Complete-Python-3-Bootcamp]: Course Files for Complete Python 3 Bootcamp Course on Udemy
@@ -102,12 +110,21 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [TheAlgorithms/Python][TheAlgorithms/Python]: All Algorithms implemented in Python
   - [🌐Official Site](https://the-algorithms.com)
 - [acantril/learn-cantrill-io-labs][acantril/learn-cantrill-io-labs]: Standard and Advanced Demos for learn.cantrill.io courses
+- [SkalskiP/courses][SkalskiP/courses]: This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 
 ---
+
+## Jupyter notebook
+
+- [microsoft/ML-For-Beginners][microsoft/ML-For-Beginners]: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+  - [🌐Official Site](https://microsoft.github.io/ML-For-Beginners)
+
+---
+
 ## Flutter
 
 - [vandadnp/flutter-tips-and-tricks][vandadnp/flutter-tips-and-tricks]: A Collection of Flutter and Dart Tips and Tricks
-    - [🌐Official Site](https://linktr.ee/vandadnp)
+  - [🌐Official Site](https://linktr.ee/vandadnp)
 
 ---
 ## C#
@@ -133,11 +150,12 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [rust-lang/rustlings][rust-lang/rustlings]: 🦀 Small exercises to get you used to reading and writing Rust code!
 
 ---
+
 ## C & C++
+
 - [BrunoLevy/learn-fpga][BrunoLevy/learn-fpga]: Learning FPGA, yosys, nextpnr, and RISC-V
 - [rust-lang/book][rust-lang/book]: The Rust Programming Language
   - [🌐Official Site](https://doc.rust-lang.org/book)
-
 
 ---
 
@@ -146,45 +164,55 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [MichaelCade/90DaysOfDevOps][MichaelCade/90DaysOfDevOps]: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [ripienaar/free-for-devs][ripienaar/free-for-dev]: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-   - [🌐Official Site](https://free-for.dev)
+  - [🌐Official Site](https://free-for.dev)
 
 
 ---
+
 ## Machine Learning
+
 - [DataTalksClub/mlops-zoomcamp][DataTalksClub/mlops-zoomcamp]: Free MLOps course from DataTalks.Club
 - [curiousily/Getting-Things-Done-with-Pytorch][curiousily/Getting-Things-Done-with-Pytorch]: Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with …   
-    - [🌐Official Site](https://www.curiousily.com)
+  - [🌐Official Site](https://www.curiousily.com)
 - [graykode/nlp-tutorial][graykode/nlp-tutorial]: Natural Language Processing Tutorial for Deep Learning Researchers
-    - [🌐Official Site](https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying)
-
+  - [🌐Official Site](https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying)
 
 ---
+
 ## C & C++
+
 - [below/HelloSilicon][below/HelloSilicon]: An introduction to ARM64 assembly on Apple Silicon Macs
 
-
 ---
+
 ## Bash
+
 - [bobbyiliev/introduction-to-bash-scripting][bobbyiliev/introduction-to-bash-scripting]: Free Introduction to Bash Scripting eBook
-    - [🌐Official Site](https://ebook.bobby.sh)
+  - [🌐Official Site](https://ebook.bobby.sh)
 - [jlevy/the-art-of-command-line][jlevy/the-art-of-command-line]: Master the command line, in one page
 
 
 ---
+
 ## Powershell
+
 - [Purp1eW0lf/Blue-Team-Notes][Purp1eW0lf/Blue-Team-Notes]: You didn't think I'd go and leave the blue team out, right?
 - [TapXWorld/osep_tools][TapXWorld/osep_tools]: some command tools for OSEP exam
 
-## Misc.
+
+---
+
+## Misc
+
 - [gothinkster/realworld][gothinkster/realworld]: About
 "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-    - [🌐Official Site](https://www.realworld.how)
+  - [🌐Official Site](https://www.realworld.how)
 - [codecrafters-io/build-your-own-x][codecrafters-io/build-your-own-x]: Master programming by recreating your favorite technologies from scratch.
-    - [🌐Official Site](https://codecrafters.io)
+  - [🌐Official Site](https://codecrafters.io)
 - [kallaway/100-days-of-code][kallaway/100-days-of-code]: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
-    - [🌐Official Site](http://www.100daysofcode.com)
+  - [🌐Official Site](http://www.100daysofcode.com)
 - [coding-horror/basic-computer-games][coding-horror/basic-computer-games]: An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. 
-    - [🌐Official Site](https://coding-horror.github.io/basic-computer-games)
+  - [🌐Official Site](https://coding-horror.github.io/basic-computer-games)
 - [cheatsnake/backend-cheats][cheatsnake/backend-cheats]: 🔰 Шпаргалка по бэкенду с картинками и не только / Backend cheatsheet with pictures and more
 - [jassics/security-study-plan][jassics/security-study-plan]: Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 - [Tikam02/DevOps-Guide][Tikam02/DevOps-Guide]: DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -246,6 +274,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [Azure-Samples/azure-search-openai-demo]: https://github.com/Azure-Samples/azure-search-openai-demo
 [TheAlgorithms/Python]: https://github.com/TheAlgorithms/Python
 [acantril/learn-cantrill-io-labs]: https://github.com/acantril/learn-cantrill-io-labs
+[SkalskiP/courses]: https://github.com/SkalskiP/courses
+<!-- Jupyter Notebook -->
+[microsoft/ML-For-Beginners]: https://github.com/microsoft/ML-For-Beginners
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->
