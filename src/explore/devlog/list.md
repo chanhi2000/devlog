@@ -29,7 +29,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 - [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
 
-
 ---
 
 ## 우아한형제들
@@ -116,7 +115,9 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 
 ---
+
 ## velog
+
 - [\[android\] Notification 등록시 Head Up Notification 뜨지 않는 현상](https://velog.io/@kkaemi/android-Notification-%EB%93%B1%EB%A1%9D%EC%8B%9C-Head-Up-Notification-%EB%9C%A8%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81)
 - [\[Android\] 불러온 Image Crop하기](https://velog.io/@jinny_0422/Android%EB%B6%88%EB%9F%AC%EC%98%A8ImageCrop%ED%95%98%EA%B8%B0)
 - [\[Android\] `productFlavors` 별로 `google-services.json` 설정하기](https://velog.io/@devyang97/Android-productFlavors-%EB%B3%84%EB%A1%9C-google-service.json-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
@@ -132,13 +133,11 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
 - [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
-
 ---
 
 ## Zum 
 
 - [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
-
 
 ---
 
@@ -155,18 +154,22 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 
 ---
+
 ## morioh
+
 - [VueJS audio visualization Components](https://morioh.com/p/32b4e58d0c27)
 - [A UI components library which is based on Carbon-Design and VueJS](https://morioh.com/p/bec715bd9fa8)
 - [A vue2 component to display tree chart](https://morioh.com/p/819531f4c7f3)
 
-
 ---
+
 ## DZone
+
 - [Interactive Data Visualization in Ionic 5](https://dzone.com/articles/interactive-data-visualization-in-ionic-5)
 
 
 ---
+
 ## Stackoverflow
 - [I want to get application crash info in Android programmatically without using 3rd party apps or jars like bugsense etc](https://stackoverflow.com/questions/27779289/i-want-to-get-application-crash-info-in-android-programmatically-without-using-3)
 - [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)
@@ -184,7 +187,25 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 
 ---
+
+## thdev.tech
+
+### [thdev.tech] 2023
+
+- [이력서를 위한 이력 관리는 어떻게 하는 것이 좋을까?](https://thdev.tech/resume/2023/02/12/Android-Resume)
+- [안드로이드 MVVM 따라 하기 - MVVM에서의 안티 패턴](https://thdev.tech/android/2023/01/27/Android-Follow-MVVM-03)
+- [안드로이드 Compose Scaffold, TopAppBar 활용한 개발](https://thdev.tech/android/2023/01/25/Android-Compose-Scaffold)
+
+### [thdev.tech] 2020
+
+- [Kotlin Delegation을 알아보고, Delegated Properties와 class에서의 Delegation을 알아본다.](https://thdev.tech/kotlin/2020/11/27/kotlin_delegation)
+- [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
+- [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
+
+---
+
 ## Other
+
 - [인터넷 익스플로러에서 자동으로 엣지로 전환하는 방법(Redirect from IE to Edge)](https://webruden.tistory.com/794)
 - [JavaScript Tips](https://markodenic.com/javascript-tips)
 - [Baeldung | Working with Microsoft Excel in Java](https://www.baeldung.com/java-microsoft-excel)
@@ -256,6 +277,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 ## Github
 
 - [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
-
+- [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
 
 <TagLinks />

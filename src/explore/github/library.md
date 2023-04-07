@@ -179,6 +179,12 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [m1guelpf/browser-agent][m1guelpf/browser-agent]: A browser AI agent, using GPT-4
   - [🌐Official Site](https://docs.rs/browser-agent)
 - [twitter/rezolus][twitter/rezolus]: Systems performance telemetry
+- [facebook/buck2][facebook/buck2]: Build system, successor to Buck
+  - [🌐Official Site](https://buck2.build)
+- [ArroyoSystems/arroyo][ArroyoSystems/arroyo]: Arroyo is a distributed stream processing engine written in Rust
+  - [🌐Official Site](https://arroyo.dev)
+
+
 
 ---
 
@@ -311,7 +317,13 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://github.com/Facico/Chinese-Vicuna)
 - [finos/perspective][finos/perspective]: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
   - [🌐Official Site](https://perspective.finos.org)
-
+- [eduard-permyakov/permafrost-engine][eduard-permyakov/permafrost-engine]: An OpenGL RTS game engine written in C
+- [WerWolv/ImHex][WerWolv/ImHex]: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+  - [🌐Official Site](https://imhex.werwolv.net)
+- [Light-City/CPlusPlusThings][Light-City/CPlusPlusThings]: C++那些事
+  - [🌐Official Site](https://light-city.club/sc)
+- [davidgiven/wordgrinder][davidgiven/wordgrinder]: A word processor which gets the hell out of your way and lets you get some work done.
+  - [🌐Official Site](http://cowlark.com/wordgrinder)
 
 
 
@@ -326,14 +338,19 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
   - [🌐Official Site](https://neovim.io)
 - [wbthomason/packer.nvim][wbthomason/packer.nvim]: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [williamboman/mason.nvim][williamboman/mason.nvim]: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-- [nvim-lua/kickstart.nvimnvim-lua/kickstart.nvim]: A launch point for your personal nvim configuration
+- [nvim-lua/kickstart.nvim][nvim-lua/kickstart.nvim]: A launch point for your personal nvim configuration
 - [folke/lazy.nvim][folke/lazy.nvim]: 💤 A modern plugin manager for Neovim
 - [AstroNvim/AstroNvim][AstroNvim/AstroNvim]: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
   - [🌐Official Site](https://astronvim.com)
 - [PathOfBuildingCommunity/PathOfBuilding][PathOfBuildingCommunity/PathOfBuilding]: Offline build planner for Path of Exile.
   - [🌐Official Site](https://pathofbuilding.community)
+- [bfeber/HLA-NoVR][bfeber/HLA-NoVR]: NO VR Script for Half-Life: Alyx
 
+---
 
+## Elixir
+
+- [AccessOwl/open_owl][AccessOwl/open_owl]: Download user lists including user permissions from various SaaS applications without the need for a public API
 
 ---
 
@@ -357,6 +374,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 - [rails/docked][rails/docked]: Running Rails from Docker for easy start to development
 - [dreamncn/ParallelsDesktopCrack][dreamncn/ParallelsDesktopCrack]: Crack for Parallels Desktop 18.1.1 53328
 - [base-org/node][base-org/node]: Everything required to run your own Base node
+- [vcheckzen/KeepAliveE5][vcheckzen/KeepAliveE5]: 
 
 ---
 
@@ -386,6 +404,13 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 
 - [vlang/v][vlang/v]: Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation.
   - [🌐Official Site](https://vlang.io)
+
+---
+
+## Zig
+
+- [ziglang/zig][ziglang/zig]: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+  - [🌐Official Site](https://ziglang.org)
 
 ---
 
@@ -519,6 +544,8 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [apache/incubator-opendal]: https://github.com/apache/incubator-opendal
 [m1guelpf/browser-agent]: https://github.com/m1guelpf/browser-agent
 [twitter/rezolus]: https://github.com/twitter/rezolus
+[facebook/buck2]: https://github.com/facebook/buck2
+[ArroyoSystems/arroyo]: https://github.com/ArroyoSystems/arroyo
 <!-- Scala -->
 [OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
 [twitter/the-algorithm]: https://github.com/twitter/the-algorithm
@@ -587,6 +614,9 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [system76/firmware-open]: https://github.com/system76/firmware-open
 [Facico/Chinese-Vicuna]: https://github.com/Facico/Chinese-Vicuna
 [finos/perspective]: https://github.com/finos/perspective
+[eduard-permyakov/permafrost-engine]: https://github.com/eduard-permyakov/permafrost-engine
+[WerWolv/ImHex]: https://github.com/WerWolv/ImHex
+[Light-City/CPlusPlusThings]: https://github.com/Light-City/CPlusPlusThings
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -596,6 +626,10 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [folke/lazy.nvim]: https://github.com/folke/lazy.nvim
 [AstroNvim/AstroNvim]: https://github.com/AstroNvim/AstroNvim
 [PathOfBuildingCommunity/PathOfBuilding]: https://github.com/PathOfBuildingCommunity/PathOfBuilding
+[davidgiven/wordgrinder]: https://github.com/davidgiven/wordgrinder
+[bfeber/HLA-NoVR]: https://github.com/bfeber/HLA-NoVR
+<!-- Elixir -->
+[AccessOwl/open_owl]: https://github.com/AccessOwl/open_owl
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
@@ -610,6 +644,7 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [rails/docked]: https://github.com/rails/docked
 [dreamncn/ParallelsDesktopCrack]: https://github.com/dreamncn/ParallelsDesktopCrack
 [base-org/node]: https://github.com/base-org/node
+[vcheckzen/KeepAliveE5]: https://github.com/vcheckzen/KeepAliveE5
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
@@ -621,6 +656,8 @@ tags: ["git" , "github" , "swift" , "multiplatform" , "javascript" , "nodejs" , 
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 <!-- V -->
 [vlang/v]: https://github.com/vlang/v
+<!-- Zig -->
+[ziglang/zig]: https://github.com/ziglang/zig
 <!-- DevOps -->
 [vulhub/vulhub]: https://github.com/vulhub/vulhub
 <!-- CSS/Images -->

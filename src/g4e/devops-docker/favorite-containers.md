@@ -27,5 +27,6 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 | [🌐](https://hub.docker.com/_/httpd) `httpd` | The Apache HTTP Server Project |
 | [🌐](https://hub.docker.com/_/tomcat) `tomcat` | Apache Tomcat is an open source implementation of the Java Servlet and JavaServer Pages technologies |
 | [🌐](https://hub.docker.com/_/gradle) `gradle` | Gradle is a build tool with a focus on build automation and support for multi-language development. |
+| [🌐](https://hub.docker.com/r/proteansec/frida) `proteansec/frida` | Docker image for frida dynamic instrumentation framework. |
 
 <TagLinks />

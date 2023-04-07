@@ -24,6 +24,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [dair-ai/Prompt-Engineering-Guide][dair-ai/Prompt-Engineering-Guide]: 🐙 Guide and resources for prompt engineering
 - [freeCodeCamp/freeCodeCamp][freeCodeCamp/freeCodeCamp]: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
   - [🌐Official Site](https://contribute.freecodecamp.org)
+- [hemansnation/God-Level-Data-Science-ML-Full-Stack][hemansnation/God-Level-Data-Science-ML-Full-Stack]: This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.
+  - [🌐Official Site](https://www.himanshuramchandani.co)
+
 
 
 
@@ -86,6 +89,10 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [judygab/web-dev-projects][judygab/web-dev-projects]: Projects repo for tutorials for my YouTube Channel
 - [john-smilga/react-course-v3][john-smilga/react-course-v3]: The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)
   - [🌐Official Site](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+- [sumn2u/learn-javascript][sumn2u/learn-javascript]: A book that teaches JavaScript
+  - [🌐Official Site](https://javascript.sumankunwar.com.np)
+
+
 
 <!-- Javascript -->
 
@@ -111,10 +118,12 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://the-algorithms.com)
 - [acantril/learn-cantrill-io-labs][acantril/learn-cantrill-io-labs]: Standard and Advanced Demos for learn.cantrill.io courses
 - [SkalskiP/courses][SkalskiP/courses]: This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
+- [jackfrued/Python-100-Days][jackfrued/Python-100-Days]: Python - 100天从新手到大师
+- [microsoft/DeepSpeedExamples][microsoft/DeepSpeedExamples]: Example models using DeepSpeed
 
 ---
 
-## Jupyter notebook
+## Jupyter Notebook
 
 - [microsoft/ML-For-Beginners][microsoft/ML-For-Beginners]: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
   - [🌐Official Site](https://microsoft.github.io/ML-For-Beginners)
@@ -230,6 +239,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [Developer-Y/cs-video-courses]: https://github.com/Developer-Y/cs-video-courses
 [dair-ai/Prompt-Engineering-Guide]: https://github.com/dair-ai/Prompt-Engineering-Guide
 [freeCodeCamp/freeCodeCamp]: https://github.com/freeCodeCamp/freeCodeCamp
+[hemansnation/God-Level-Data-Science-ML-Full-Stack]: https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -260,6 +270,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [kentcdodds/react-fundamentals]: https://github.com/kentcdodds/react-fundamentals
 [judygab/web-dev-projects]: https://github.com/judygab/web-dev-projects
 [john-smilga/react-course-v3]: https://github.com/john-smilga/react-course-v3
+[sumn2u/learn-javascript]: https://github.com/sumn2u/learn-javascript
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
@@ -275,6 +286,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [TheAlgorithms/Python]: https://github.com/TheAlgorithms/Python
 [acantril/learn-cantrill-io-labs]: https://github.com/acantril/learn-cantrill-io-labs
 [SkalskiP/courses]: https://github.com/SkalskiP/courses
+[jackfrued/Python-100-Days]: https://github.com/jackfrued/Python-100-Days
+[microsoft/DeepSpeedExamples]: https://github.com/microsoft/DeepSpeedExamples
 <!-- Jupyter Notebook -->
 [microsoft/ML-For-Beginners]: https://github.com/microsoft/ML-For-Beginners
 <!-- Flutter -->

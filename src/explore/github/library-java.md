@@ -65,7 +65,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 - [liyupi/yu-auto-reply][liyupi/yu-auto-reply]: AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
 - [Kamilahsantos/Java-week-LinuxTips][Kamilahsantos/Java-week-LinuxTips]: Repositório com o conteúdo da Java Week da LinuxTips
 - [twitter/GraphJet][twitter/GraphJet]: GraphJet is a real-time graph processing library.
-
+- [eGovFramework/egovframe-template-simple-backend][eGovFramework/egovframe-template-simple-backend]: 표준프레임워크 심플홈페이지 BackEnd
+- [aress31/burpgpt][aress31/burpgpt]: A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 
 
 
@@ -179,6 +180,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 [liyupi/yu-auto-reply]: https://github.com/liyupi/yu-auto-reply
 [Kamilahsantos/Java-week-LinuxTips]: https://github.com/Kamilahsantos/Java-week-LinuxTips
 [twitter/GraphJet]: https://github.com/twitter/GraphJet
+[eGovFramework/egovframe-template-simple-backend]: https://github.com/eGovFramework/egovframe-template-simple-backend
+[aress31/burpgpt]: https://github.com/aress31/burpgpt
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

@@ -201,9 +201,11 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](https://twemoji.twitter.com)
 - [OptimalScale/LMFlow][OptimalScale/LMFlow]: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。
   - [🌐Official Site](https://optimalscale.github.io/LMFlow)
-- [serverless-stack/sst][serverless-stack/sst]: 
-
-
+- [serverless-stack/sst][serverless-stack/sst] 
+- [nomic-ai/gpt4all-ui][nomic-ai/gpt4all-ui]: gpt4all chatbot ui
+- [eGovFramework/egovframe-template-simple-react][eGovFramework/egovframe-template-simple-react]: 표준프레임워크 심플홈페이지 FrontEnd
+- [discordjs/discord.js][discordjs/discord.js]: A powerful JavaScript library for interacting with the Discord API
+  - [🌐Official Site](https://discord.js.org)
 
 ---
 
@@ -262,9 +264,16 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 - [hocus-dev/hocus][hocus-dev/hocus]: 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
   - [🌐Official Site](https://hocus.dev)
 - [nat/openplayground][nat/openplayground]: An LLM playground you can run on your laptop
-
-
-
+- [BuilderIO/ai-shell][BuilderIO/ai-shell]: A CLI that converts natural language to shell commands.
+- [Moonvy/OpenPromptStudio][Moonvy/OpenPromptStudio]: 🥣 AIGC 提示词可视化编辑器
+  - [🌐Official Site](https://moonvy.com/apps/ops)
+- [guangzhengli/ChatFiles][guangzhengli/ChatFiles]: Have a conversation with files ｜与你的文件对话
+- [shadcn/taxonomy][shadcn/taxonomy]: An open source application built using the new router, server components and everything new in Next.js 13.
+  - [🌐Official Site](https://tx.shadcn.com)
+- [ohmplatform/FreedomGPT][ohmplatform/FreedomGPT]: This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
+  - [🌐Official Site](http://www.freedomgpt.com)
+- [langchain-ai/langchain-template-supabase][langchain-ai/langchain-template-supabase]
+- [kevmo314/magic-copy][kevmo314/magic-copy]: Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
 
 
 <TagLinks />
@@ -377,6 +386,9 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [twitter/twemoji]: https://github.com/twitter/twemoji
 [OptimalScale/LMFlow]: https://github.com/OptimalScale/LMFlow
 [serverless-stack/sst]: https://github.com/serverless-stack/sst
+[nomic-ai/gpt4all-ui]: https://github.com/nomic-ai/gpt4all-ui
+[eGovFramework/egovframe-template-simple-react]: https://github.com/eGovFramework/egovframe-template-simple-react
+[discordjs/discord.js]: https://github.com/discordjs/discord.js
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -408,3 +420,10 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [moeakwak/chatgpt-web-share]: https://github.com/moeakwak/chatgpt-web-share
 [hocus-dev/hocus]: https://github.com/hocus-dev/hocus
 [nat/openplayground]: https://github.com/nat/openplayground
+[BuilderIO/ai-shell]: https://github.com/BuilderIO/ai-shell
+[Moonvy/OpenPromptStudio]: https://github.com/Moonvy/OpenPromptStudio
+[guangzhengli/ChatFiles]: https://github.com/guangzhengli/ChatFiles
+[shadcn/taxonomy]: https://github.com/shadcn/taxonomy
+[ohmplatform/FreedomGPT]: https://github.com/ohmplatform/FreedomGPT
+[langchain-ai/langchain-template-supabase]: https://github.com/langchain-ai/langchain-template-supabase
+[kevmo314/magic-copy]: https://github.com/kevmo314/magic-copy

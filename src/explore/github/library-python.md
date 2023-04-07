@@ -175,8 +175,33 @@ tags: ["git" , "github" , "python" , "py"]
 - [Torantulino/AI-Functions][Torantulino/AI-Functions]: AI-Powered Function Magic: Never code again with GPT models!
 - [TabbyML/tabby][TabbyML/tabby]: Self-hosted AI coding assistant
   - [🌐Official Site](https://tabbyml.github.io/tabby)
-
-
+- [chroma-core/chroma][chroma-core/chroma]: the open source embedding database
+  - [🌐Official Site](https://www.trychroma.com)
+- [Akegarasu/ChatGLM-webui][Akegarasu/ChatGLM-webui]: A WebUI for ChatGLM-6B
+- [l15y/wenda][l15y/wenda]: 闻达：一个LLM调用平台。旨在通过使用为小模型外挂知识库查找的方式，在不能涌现的前提下实现近似于大模型的生成能力
+- [Winfredy/SadTalker][Winfredy/SadTalker]: （CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
+  - [🌐Official Site](https://sadtalker.github.io)
+- [VideoCrafter/VideoCrafter][VideoCrafter/VideoCrafter]: A Toolkit for Text-to-Video Generation and Editing
+  - [🌐Official Site](https://youtu.be/SJ_TOVjn5zs)
+- [ViperX7/Alpaca-Turbo][ViperX7/Alpaca-Turbo]: Web UI to run alpaca model locally
+- [Mikubill/sd-webui-controlnet][Mikubill/sd-webui-controlnet]: WebUI extension for ControlNet
+- [lvwerra/trl][lvwerra/trl]: Train transformer language models with reinforcement learning.
+  - [🌐Official Site](http://hf.co/docs/trl)
+- [abetlen/llama-cpp-python][abetlen/llama-cpp-python]: Python bindings for llama.cpp
+  - [🌐Official Site](https://abetlen.github.io/llama-cpp-python)
+- [BlinkDL/ChatRWKV][BlinkDL/ChatRWKV]: ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+- [baaivision/Painter][baaivision/Painter]: Painter & SegGPT Series: Vision Foundation Models from BAAI
+- [IDEA-Research/GroundingDINO][IDEA-Research/GroundingDINO]: The official implementation of "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+- [liujing04/Retrieval-based-Voice-Conversion-WebUI][liujing04/Retrieval-based-Voice-Conversion-WebUI]
+- [davidhi7/ddcci-plasmoid][davidhi7/ddcci-plasmoid]: KDE Plasma widget to adjust the brightness of multiple external monitors
+- [anuragxel/salt][anuragxel/salt]: Segment Anything Labelling Tool
+- [soulteary/docker-prompt-generator][soulteary/docker-prompt-generator]: Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
+  - [🌐Official Site](https://soulteary.com/2023/04/05/eighty-lines-of-code-to-implement-the-open-source-midjourney-and-stable-diffusion-spell-drawing-tool.html)
+- [sail-sg/EditAnything][sail-sg/EditAnything]: Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.
+- [ravenscroftj/turbopilot][ravenscroftj/turbopilot]: Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
+- [Sanster/lama-cleaner][Sanster/lama-cleaner]: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+  - [🌐Official Site](https://lama-cleaner-docs.vercel.app)
+- [everythingishacked/Semaphore][everythingishacked/Semaphore]: A full-body keyboard using gestures to type through computer vision
 
 <!-- Python -->
 
@@ -195,7 +220,12 @@ tags: ["git" , "github" , "python" , "py"]
 - [yuanzhoulvpi2017/zero_nlp][yuanzhoulvpi2017/zero_nlp]: 中文nlp应用(数据、模型、训练、推理) chatglm6b
 - [PhoebusSi/Alpaca-CoT][PhoebusSi/Alpaca-CoT]: We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集,并在我们框架下集成进更多的LLM。）
 - [ai-forever/Kandinsky-2][ai-forever/Kandinsky-2]: Kandinsky 2 — multilingual text2image latent diffusion model
-
+- [facebookresearch/segment-anything][facebookresearch/segment-anything]: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [IDEA-Research/Grounded-Segment-Anything][IDEA-Research/Grounded-Segment-Anything]: Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs
+- [Instruction-Tuning-with-GPT-4/GPT-4-LLM][Instruction-Tuning-with-GPT-4/GPT-4-LLM]
+- [jpmorganchase/python-training][jpmorganchase/python-training]: Python training for business analysts and traders
+- [prophesier/diff-svc][prophesier/diff-svc]: Singing Voice Conversion via diffusion model
+- [sdatkinson/neural-amp-modeler][sdatkinson/neural-amp-modeler]: Neural network emulator for guitar amplifiers.
 
 
 <!-- Jupyter Notebook -->
@@ -323,6 +353,26 @@ tags: ["git" , "github" , "python" , "py"]
 [imClumsyPanda/langchain-ChatGLM]: https://github.com/imClumsyPanda/langchain-ChatGLM
 [Torantulino/AI-Functions]: https://github.com/Torantulino/AI-Functions
 [TabbyML/tabby]: https://github.com/TabbyML/tabby
+[chroma-core/chroma]: https://github.com/chroma-core/chroma
+[Akegarasu/ChatGLM-webui]: https://github.com/Akegarasu/ChatGLM-webui
+[l15y/wenda]: https://github.com/l15y/wenda
+[Winfredy/SadTalker]: https://github.com/Winfredy/SadTalker
+[VideoCrafter/VideoCrafter]: https://github.com/VideoCrafter/VideoCrafter
+[ViperX7/Alpaca-Turbo]: https://github.com/ViperX7/Alpaca-Turbo
+[Mikubill/sd-webui-controlnet]: https://github.com/Mikubill/sd-webui-controlnet
+[lvwerra/trl]: https://github.com/lvwerra/trl
+[abetlen/llama-cpp-python]: https://github.com/abetlen/llama-cpp-python
+[BlinkDL/ChatRWKV]: https://github.com/BlinkDL/ChatRWKV
+[baaivision/Painter]: https://github.com/baaivision/Painter
+[IDEA-Research/GroundingDINO]: https://github.com/IDEA-Research/GroundingDINO
+[liujing04/Retrieval-based-Voice-Conversion-WebUI]: https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI
+[davidhi7/ddcci-plasmoid]: https://github.com/davidhi7/ddcci-plasmoid
+[anuragxel/salt]: https://github.com/anuragxel/salt
+[soulteary/docker-prompt-generator]: https://github.com/soulteary/docker-prompt-generator
+[sail-sg/EditAnything]: https://github.com/sail-sg/EditAnything
+[ravenscroftj/turbopilot]: https://github.com/ravenscroftj/turbopilot
+[Sanster/lama-cleaner]: https://github.com/Sanster/lama-cleaner
+[everythingishacked/Semaphore]: https://github.com/everythingishacked/Semaphore
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -335,3 +385,9 @@ tags: ["git" , "github" , "python" , "py"]
 [yuanzhoulvpi2017/zero_nlp]: https://github.com/yuanzhoulvpi2017/zero_nlp
 [PhoebusSi/Alpaca-CoT]: https://github.com/PhoebusSi/Alpaca-CoT
 [ai-forever/Kandinsky-2]: https://github.com/ai-forever/Kandinsky-2
+[facebookresearch/segment-anything]: https://github.com/facebookresearch/segment-anything
+[IDEA-Research/Grounded-Segment-Anything]: https://github.com/IDEA-Research/Grounded-Segment-Anything
+[Instruction-Tuning-with-GPT-4/GPT-4-LLM]: https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
+[jpmorganchase/python-training]: https://github.com/jpmorganchase/python-training
+[prophesier/diff-svc]: https://github.com/prophesier/diff-svc
+[sdatkinson/neural-amp-modeler]: https://github.com/sdatkinson/neural-amp-modeler
