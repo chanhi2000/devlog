@@ -1,14 +1,13 @@
 ---
 lang: ko-KR
 title: 🩺Troubleshooting
-description: 🩺Troubleshooting
+description: 🛠️Git > 🩺Troubleshooting
 tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credentials", "bash"]
 ---
 
 # {{ $frontmatter.description }} 관련
 
 [[toc]]
-
 
 ---
 ## Github으로 Push 오류

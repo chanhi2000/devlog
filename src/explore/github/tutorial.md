@@ -36,6 +36,10 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [akullpp/awesome-java][akullpp/awesome-java]: A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [preslavmihaylov/booknotes][preslavmihaylov/booknotes]: A collection of my book notes on various computer science books
 - [PRNDcompany/android-style-guide][PRNDcompany/android-style-guide]: 이 스타일 가이드는 PRND에서 개발되는 모든 안드로이드 프로젝트에 적용하기 위한 목적으로 작성되었습니다.
+- [codefarm0/Learning-Materials-By-Green-Learner][codefarm0/Learning-Materials-By-Green-Learner]: Topic wise details of all the courses published on youtube channel of Green Learner. Now it will be more easy to link the different videos of each course.
+  - [🌐Official Site](https://youtube.com/greenlearner)
+
+
 
 ---
 
@@ -90,9 +94,13 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [sumn2u/learn-javascript][sumn2u/learn-javascript]: A book that teaches JavaScript
   - [🌐Official Site](https://javascript.sumankunwar.com.np)
 
-
-
 <!-- Javascript -->
+
+## Typescript
+
+- [type-challenges/type-challenges][type-challenges/type-challenges]: Collection of TypeScript type challenges with online judge
+  - [🌐Official Site](https://tsch.js.org)
+
 
 ---
 
@@ -119,6 +127,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [jackfrued/Python-100-Days][jackfrued/Python-100-Days]: Python - 100天从新手到大师
 - [microsoft/DeepSpeedExamples][microsoft/DeepSpeedExamples]: Example models using DeepSpeed
 - [danielgross/LlamaAcademy][danielgross/LlamaAcademy]: A school for camelids
+
 
 ---
 
@@ -244,10 +253,13 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
 [preslavmihaylov/booknotes]: https://github.com/preslavmihaylov/booknotes
 [PRNDcompany/android-style-guide]: https://github.com/PRNDcompany/android-style-guide
+[codefarm0/Learning-Materials-By-Green-Learner]: https://github.com/codefarm0/Learning-Materials-By-Green-Learner
 <!-- Kotlin -->
 [Kotlin/KEEP]: https://github.com/Kotlin/KEEP
 [tarek360/Kotlin-JavaScript-Lottie-Example]: https://github.com/tarek360/Kotlin-JavaScript-Lottie-Example
 [PaperMC/paperweight-examples]: https://github.com/PaperMC/paperweight-examples
+<!-- Typescript -->
+[type-challenges/type-challenges]: https://github.com/type-challenges/type-challenges
 <!--Android-->
 [SmartToolFactory/Jetpack-Compose-Tutorials]: https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials
 [parasv49/Android-Internal-Notification]: https://github.com/parasv49/Android-Internal-Notification

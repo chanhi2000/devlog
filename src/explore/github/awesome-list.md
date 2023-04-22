@@ -91,7 +91,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [analysis-tools-dev/static-analysis][analysis-tools-dev/static-analysis]: ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
   - [🌐Official Site](https://analysis-tools.dev)
 - [EwingYangs/awesome-open-gpt][EwingYangs/awesome-open-gpt]: Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
-
+- [opendilab/awesome-RLHF][opendilab/awesome-RLHF]: A curated list of reinforcement learning with human feedback resources (continually updated)
 
 ---
 
@@ -180,6 +180,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [sottlmarek/DevSecOps]: https://github.com/sottlmarek/DevSecOps
 [analysis-tools-dev/static-analysis]: https://github.com/analysis-tools-dev/static-analysis
 [EwingYangs/awesome-open-gpt]: https://github.com/EwingYangs/awesome-open-gpt
+[opendilab/awesome-RLHF]: https://github.com/opendilab/awesome-RLHF
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

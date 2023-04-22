@@ -214,7 +214,8 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 - [kiwphi/pop-shoot][kiwphi/pop-shoot]: 🚀 Synthwave styled space shooter, inspired by the 80s arcades
   - [🌐Official Site](https://kiwphi.github.io/pop-shoot)
 - [xcanwin/KeepChatGPT][xcanwin/KeepChatGPT]: 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
-
+- [responsively-org/responsively-app][responsively-org/responsively-app]: A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+  - [🌐Official Site](https://responsively.app)
 
 
 ---
@@ -303,6 +304,15 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 - [liou666/polyglot][liou666/polyglot]: 🤖️ 桌面端AI语言练习应用
 - [Trendyol/baklava][Trendyol/baklava]: Design System with Web Components
   - [🌐Official Site](https://baklava.design)
+- [highlight/highlight][highlight/highlight]: highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
+  - [🌐Official Site](https://app.highlight.io)
+- [appium/appium][appium/appium]: Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+  - [🌐Official Site](http://appium.io)
+- [jhipster/generator-jhipster][jhipster/generator-jhipster]: JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+  - [🌐Official Site](https://www.jhipster.tech)
+
+
+
 
 
 
@@ -425,6 +435,7 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [iamadamdev/bypass-paywalls-chrome]: https://github.com/iamadamdev/bypass-paywalls-chrome
 [kiwphi/pop-shoot]: https://github.com/kiwphi/pop-shoot
 [xcanwin/KeepChatGPT]: https://github.com/xcanwin/KeepChatGPT
+[responsively-org/responsively-app]: https://github.com/responsively-org/responsively-app
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -474,3 +485,6 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [yoavbls/pretty-ts-errors]: https://github.com/yoavbls/pretty-ts-errors
 [liou666/polyglot]: https://github.com/liou666/polyglot
 [Trendyol/baklava]: https://github.com/Trendyol/baklava
+[highlight/highlight]: https://github.com/highlight/highlight
+[appium/appium]: https://github.com/appium/appium
+[jhipster/generator-jhipster]: https://github.com/jhipster/generator-jhipster

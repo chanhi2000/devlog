@@ -124,7 +124,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)
 - [Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
 - [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
-
+- [4 ways to deploy web apps in 2020](https://dev.to/alex_boykov/4-ways-to-deploy-web-apps-in-2020-4ch3)
+- [How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
 
 ---
 
@@ -144,6 +145,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
 - [Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
 - [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [Spring MVC on VSCode - Maven Project](https://dev.to/spaceofmiah/spring-mvc-on-vscode-maven-project-50g8#needful-vscode-extension)
 
 ---
 
@@ -175,19 +177,11 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ---
 
-## Thdev
-
-- [Kotlin extensions use를 알아보고, 사용법을 알아보자.](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09)
-- [Kotlin extensions 정의를 알아보고, 활용 시 주의할 부분을 알아보자.](https://thdev.tech/kotlin/2020/10/27/kotlin_effective_08)
-- [Kotlin typealias와 inline class를 알아보고 적절한 사용법을 알아보자.](https://thdev.tech/kotlin/2020/10/13/kotlin_effective_06)
-
-
----
-
 ## DZone
 
 - [Interactive Data Visualization in Ionic 5](https://dzone.com/articles/interactive-data-visualization-in-ionic-5)
 - [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
+- [Java Annotated Monthly – September 2020](https://dzone.com/articles/java-annotated-monthly-september-2020)
 
 
 ---
@@ -206,11 +200,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [android - setting LayoutParams programmatically](https://stackoverflow.com/questions/9678785/android-setting-layoutparams-programmatically)
 - [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
 - [display view on top of action bar](https://stackoverflow.com/questions/15279647/display-view-on-top-of-action-bar)
+- [Get RSRP from CellSignalStrengthLte for Android app API 17+](https://stackoverflow.com/questions/32531176/get-rsrp-from-cellsignalstrengthlte-for-android-app-api-17)
 
----
-## Github
-
-- [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 
 
 ---
@@ -235,7 +226,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 - [인터넷 익스플로러에서 자동으로 엣지로 전환하는 방법(Redirect from IE to Edge)](https://webruden.tistory.com/794)
 - [JavaScript Tips](https://markodenic.com/javascript-tips)
-- [Baeldung | Working with Microsoft Excel in Java](https://www.baeldung.com/java-microsoft-excel)
 - [안드로이드의 다양한 Notification 종류와 구현 방법](https://codechacha.com/ko/notifications-in-android)
 
 - [안드로이드에서 카카오 우편번호 검색 구현하기](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
@@ -299,8 +289,11 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Gradle Kotlin, Java Project의 기본 구성 살펴보고, Gradle Task로 컴파일, 패키징 하기](https://kotlinworld.com/315)
 - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
 - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works)
-
+- [[Jenkins] 젠킨스 설치 및 설정](https://roxxy.tistory.com/entry/Jenkins-%EC%A0%A0%ED%82%A8%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95)
+- [4-20-23: Windows on `btrfs`](https://www.lilysthings.org/blog/windows-on-btrfs)
+- [Determin If Your Linux Computer or Server is Hacked](https://hackingpassion.com/determine-if-your-linux-computer-or-server-is-hacked)
 ---
+
 
 ## Github
 

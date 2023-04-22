@@ -11,14 +11,5 @@ tags: ["java", "android", ]
 
 ---
 
-## 
-
----
-
-## 📚참고
-
-- [Task (2) - taskAffinity](https://parkho79.tistory.com/42)
-
----
 
 <TagLinks />

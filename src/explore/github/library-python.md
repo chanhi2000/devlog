@@ -234,6 +234,13 @@ tags: ["git" , "github" , "python" , "py"]
 - [xtekky/gpt4free][xtekky/gpt4free]: decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
   - [🌐Official Site](https://gptcache.readthedocs.io)
 - [jostmey/msm][jostmey/msm]:  Improved statistical classifier for immune repertoires
+- [pyscript/pyscript][pyscript/pyscript]: Home Page: https://pyscript.net Examples: https://pyscript.net/examples
+  - [🌐Official Site](https://github.com/pyscript/pyscript/discussions)
+- [OpenBMB/BMTools][OpenBMB/BMTools]: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
+- [h2oai/h2o-llmstudio][h2oai/h2o-llmstudio]: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
+  - [🌐Official Site](https://github.com/h2oai/h2o-llmstudio)
+- [ashawkey/stable-dreamfusion][ashawkey/stable-dreamfusion]: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [tsale/EDR-Telemetry][tsale/EDR-Telemetry]: This project aims to compare and evaluate the telemetry of various EDR products.
 
 
 <!-- Python -->
@@ -263,6 +270,8 @@ tags: ["git" , "github" , "python" , "py"]
 - [kw2828/Dolly-2.0-Series][kw2828/Dolly-2.0-Series]: Resources for running, fine-tuning, and inferencing Dolly 2.0
 - [geekyutao/Inpaint-Anything][geekyutao/Inpaint-Anything]: Inpaint anything using Segment Anything and inpainting models.
 - [suno-ai/bark][suno-ai/bark]: 🔊 Text-prompted Generative Audio Model
+- [Stability-AI/StableLM][Stability-AI/StableLM]: StableLM: Stability AI Language Models
+
 
 <!-- Jupyter Notebook -->
 
@@ -434,6 +443,11 @@ tags: ["git" , "github" , "python" , "py"]
 [kaqijiang/Auto-GPT-ZH]: https://github.com/kaqijiang/Auto-GPT-ZH
 [xtekky/gpt4free]: https://github.com/xtekky/gpt4free
 [jostmey/msm]: https://github.com/jostmey/msm
+[pyscript/pyscript]: https://github.com/pyscript/pyscript
+[OpenBMB/BMTools]: https://github.com/OpenBMB/BMTools
+[h2oai/h2o-llmstudio]: https://github.com/h2oai/h2o-llmstudio
+[ashawkey/stable-dreamfusion]: https://github.com/ashawkey/stable-dreamfusion
+[tsale/EDR-Telemetry]: https://github.com/tsale/EDR-Telemetry
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -456,3 +470,4 @@ tags: ["git" , "github" , "python" , "py"]
 [kw2828/Dolly-2.0-Series]: https://github.com/kw2828/Dolly-2.0-Series
 [geekyutao/Inpaint-Anything]: https://github.com/geekyutao/Inpaint-Anything
 [suno-ai/bark]: https://github.com/suno-ai/bark
+[Stability-AI/StableLM]: https://github.com/Stability-AI/StableLM

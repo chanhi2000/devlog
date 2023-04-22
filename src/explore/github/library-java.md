@@ -93,6 +93,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 - [ThinkingLogic/kotlin-builder-annotation][ThinkingLogic/kotlin-builder-annotation]: A minimal viable replacement for the Lombok @builder plugin for Kotlin code
 - [netflix/dgs-framework][netflix/dgs-framework]: GraphQL for Java with Spring Boot made easy.
   - [🌐Official Site](https://netflix.github.io/dgs)
+- [cuynu/ytvanced][cuynu/ytvanced]: YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)
+
 
 ---
 
@@ -143,6 +145,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
   - [🌐Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
 - [skydoves/chatgpt-android][skydoves/chatgpt-android]: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [recloudstream/cloudstream][recloudstream/cloudstream]: Android app for streaming and downloading Movies, TV-Series and Anime.
+- [lukeaschenbrenner/TxtNet-Browser][lukeaschenbrenner/TxtNet-Browser]: An app that lets you browse the web over SMS
 
 
 <TagLinks />
@@ -197,6 +200,7 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 [pinterest/ktlint]: https://github.com/pinterest/ktlint
 [ThinkingLogic/kotlin-builder-annotation]: https://github.com/ThinkingLogic/kotlin-builder-annotation
 [netflix/dgs-framework]: https://github.com/netflix/dgs-framework
+[cuynu/ytvanced]: https://github.com/cuynu/ytvanced
 <!-- Android -->
 [anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
 [PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment
@@ -228,3 +232,4 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 [mastodon/mastodon-android]: https://github.com/mastodon/mastodon-android
 [skydoves/chatgpt-android]: https://github.com/skydoves/chatgpt-android
 [recloudstream/cloudstream]: https://github.com/recloudstream/cloudstream
+[lukeaschenbrenner/TxtNet-Browser]: https://github.com/lukeaschenbrenner/TxtNet-Browser

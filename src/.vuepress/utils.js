@@ -104,7 +104,8 @@ function getDocsNavBar(item) {
               'lang-gradle/',
               'lang-gradle/useful-snippets',
               'lang-gradle/useful-snippets-android',
-              'lang-gradle/troubleshooting'
+              'lang-gradle/troubleshooting',
+              'lang-gradle/references'
             ]
           }, {
             title: '🐦Maven',
@@ -129,6 +130,7 @@ function getDocsNavBar(item) {
               'lang-java/spring',
               'lang-java/was',
               'lang-java/webservice',
+              'lang-java/references',
             ]
           }, {
             title: '🕊️Swift',
@@ -136,10 +138,7 @@ function getDocsNavBar(item) {
               'lang-swift/',
               'lang-swift/tips',
             ]
-          },
-          //endregion
-          //region: js
-          {
+          }, {
             title: '⚡️Javascript',
             children: [
               'lang-js/',
@@ -148,13 +147,23 @@ function getDocsNavBar(item) {
               'lang-js/node-cordova',
               'lang-js/mermaid-example',
             ]
-          }, 
-          //endregion
-          //region: js
-          {
+          }, {
             title: '🐍Python',
             children: [
               'lang-python/',
+              'lang-python/references',
+            ]
+          }, {
+            title: '🎨CSS',
+            children: [
+              'lang-css/',
+              'lang-css/references',
+            ]
+          }, {
+            title: '♯CSharp',
+            children: [
+              'lang-csharp/',
+              'lang-csharp/references',
             ]
           }, 
           //endregion
@@ -165,6 +174,7 @@ function getDocsNavBar(item) {
               'devops-git/',
               'devops-git/basics',
               'devops-git/troubleshooting',
+              'devops-git/references',
             ]
           }, {
             title: '🧠OS',

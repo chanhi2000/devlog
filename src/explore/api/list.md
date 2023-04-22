@@ -35,6 +35,19 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [opensourcelibs][opensourcelibs]: a massive collection of the world's best open source software
 - [golf-genius-api][golf-genius-api]: Golf Genius API
 
+--- 
+
+## Online Tools
+
+- [Naver QR Code](https://qr.naver.com)
+- [mybatis log parser](http://comne.kr/mybatis)
+- [Instant SQL Formatter](https://www.dpriver.com/pp/sqlformat.htm)
+- [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer)
+- [epsg.io - Transform coordinate](https://epsg.io/transform#s_srs=5186&t_srs=5187)
+- [Spatial Reference](https://spatialreference.org/ref/epsg)
+- [GPS Coordinates](https://gps-coordinates.org)
+- [Operator Lookup](https://www.joshwcomeau.com/operator-lookup)
+- [htaccess tester](https://htaccess.madewithlove.com)
 
 ### 대한민국
 
@@ -54,10 +67,14 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [citywaste][citywaste]: 음식물 쓰레기 관리시스템
 - [tocycle][tocycle]: 토석정보공유시스템
 - [arisu]: 서울특별시 상수도사업본부
-    - [📱for Mobile](https://m.arisu.seoul.go.kr)
+  - [📱for Mobile](https://m.arisu.seoul.go.kr)
 - [nsdi][nsdi]: 국가공간정보포털
 - [coupang][coupang]: 쿠팡
 - [kakao][kakao]: 카카오
+- [allcredit](https://www.allcredit.co.kr): 올크래딧
+- [국민안전방송 안전한tv](http://www.safetv.go.kr/web/main/main.do)
+- [한국디자인진흥원](https://www.designdb.com)
+
 
 ---
 
@@ -96,7 +113,8 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 ## Community
 
 - [hamonikr][hamonikr]: 리눅스 커뮤니티 하모니카
-- [clien][clien]: 클리앙
+- [클리앙](https://www.clien.net/service/)
+- [Qt 한국 개발자 커뮤니티](https://qt-dev.com)
 
 ---
 
@@ -177,6 +195,5 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [design/fluent]: https://www.microsoft.com/design/fluent
 <!-- Community -->
 [hamonikr]: https://hamonikr.org
-[clien]: https://www.clien.net/service/
 <!-- Cool Project(s) -->
 [dustinbrett]: https://dustinbrett.com/

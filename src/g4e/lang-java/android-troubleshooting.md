@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🤖Android > Troubleshooting
-description: ☕️Java > 🤖Android > Troubleshooting
+title: 🤖Android > 🩺Troubleshooting
+description: ☕️Java > 🤖Android > 🩺Troubleshooting
 tags: ["java", "android", "troubleshooting"]
 ---
 
@@ -11,10 +11,5 @@ tags: ["java", "android", "troubleshooting"]
 
 ---
 
-## 📚참고
-
-- [Task (2) - taskAffinity](https://parkho79.tistory.com/42)
-
----
 
 <TagLinks />

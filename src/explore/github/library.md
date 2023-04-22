@@ -151,6 +151,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [optikey/optikey][optikey/optikey]: OptiKey - Full computer control and speech with your eyes
   - [🌐Official Site](http://www.optikey.org)
 - [mivano/azure-cost-cli][mivano/azure-cost-cli]: CLI tool to perform cost analysis on your Azure subscription
+- [MassTransit/MassTransit][MassTransit/MassTransit]: Distributed Application Framework for .NET
+  - [🌐Official Site](https://masstransit.io)
+
+
 
 <!-- C# -->
 
@@ -316,6 +320,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [Murderlon/dotfiles][Murderlon/dotfiles]: ⚙️ Automated dotfiles setup for Fish, Neovim, Tmux, Git, Homebrew packages, and macOS settings.
 - [fbelavenuto/arpl][fbelavenuto/arpl]: Automated Redpill Loader
 - [maplecool/easytrojan][maplecool/easytrojan]: 世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器
+- [aleskxyz/reality-ezpz][aleskxyz/reality-ezpz]: Reality EZPZ
+- [Security-Onion-Solutions/securityonion][Security-Onion-Solutions/securityonion]: Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
+  - [🌐Official Site](https://securityonion.net)
+
+
 
 ---
 
@@ -482,6 +491,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [DeSinc/SallyBot]: https://github.com/DeSinc/SallyBot
 [optikey/optikey]: https://github.com/optikey/optikey
 [mivano/azure-cost-cli]: https://github.com/mivano/azure-cost-cli
+[MassTransit/MassTransit]: https://github.com/MassTransit/MassTransit
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
@@ -573,6 +583,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [Murderlon/dotfiles]: https://github.com/Murderlon/dotfiles
 [fbelavenuto/arpl]: https://github.com/fbelavenuto/arpl
 [maplecool/easytrojan]: https://github.com/maplecool/easytrojan
+[aleskxyz/reality-ezpz]: https://github.com/aleskxyz/reality-ezpz
+[Security-Onion-Solutions/securityonion]: https://github.com/Security-Onion-Solutions/securityonion
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates

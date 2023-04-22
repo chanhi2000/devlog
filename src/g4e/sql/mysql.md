@@ -125,7 +125,13 @@ user=mysql
 service mysqld status
 service mysqld start # 결과가 `mysql is stopped` 일 경우, 
 ```
- 
+
+---
+
+## 📚References
+
+- [MySQL SQL 독학 강의 전체 A to Z](https://stricky.tistory.com/333)
+
 
 
 <TagLinks />
