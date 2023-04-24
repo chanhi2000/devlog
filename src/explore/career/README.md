@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🦺Hiring
+description: Career
 ---
 
 # {{ $frontmatter.description }} 관련

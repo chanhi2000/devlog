@@ -5,7 +5,9 @@ description: Github > News
 tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

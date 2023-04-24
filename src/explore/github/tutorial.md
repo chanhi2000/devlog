@@ -5,7 +5,9 @@ description: Github > Tutorial
 tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "android", "swift", "javascript"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

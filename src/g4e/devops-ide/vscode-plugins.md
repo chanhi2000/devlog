@@ -5,7 +5,9 @@ description: Visual Studio Code > Plugins
 tags: ["vscode", "visual-studio-code", "ide", "plugin", "vscode-plugin", "cli", "linux"] 
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

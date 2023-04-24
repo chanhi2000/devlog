@@ -5,7 +5,9 @@ description: 💡Tips
 tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

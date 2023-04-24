@@ -20,6 +20,7 @@
     "vuepress": "^1.5.3"
   },
   "dependencies": {
+    "@centerforopenscience/markdown-it-video": "^1.0.0",
     "@renovamen/vuepress-plugin-mermaid": "^0.3.0",
     "markdown-it-task-lists": "^2.1.1",
     "moment": "^2.29.4"

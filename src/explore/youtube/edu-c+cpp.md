@@ -5,7 +5,9 @@ description: 📺Youtube > Education (C & C++)
 tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

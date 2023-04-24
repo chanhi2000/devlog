@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
-title: Career > Hiring
-description: Career > Hiring
+title: 🦺Hiring
+description: Career > 🦺Hiring
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

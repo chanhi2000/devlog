@@ -5,7 +5,9 @@ description: 🎓Tutorial > List
 tags: ["tutorial", "kodeco", "android", "kotlin", "jetpack-compose"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

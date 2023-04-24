@@ -5,7 +5,9 @@ description: DBeaver > JDBC
 tags: ["dbeaver", "dbeaver-ce", "ide", "jdbc", "db-tibero", "db-cubrid", "cubrid", "tibero"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

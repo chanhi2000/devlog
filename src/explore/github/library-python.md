@@ -1,11 +1,22 @@
 ---
 lang: ko-KR
-title: Library (Python)
-description: Github > Library (Python)
+title: Library (🐍Python)
+description: Github > Library (🐍Python)
 tags: ["git" , "github" , "python" , "py"]
+meta:
+  - name: Github > Library (🐍Python)
+    content: Javascript Libraries from Github
+  - property: og:title
+    content: Library (🐍Python)
+  - property: og:description
+    content: Github > Library (🐍Python)
+  - property: og:url
+    content: https://chanhi2000.github.io/explore/github/library-js.html
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -232,7 +243,7 @@ tags: ["git" , "github" , "python" , "py"]
 - [ading2210/poe-api][ading2210/poe-api]: A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [kaqijiang/Auto-GPT-ZH][kaqijiang/Auto-GPT-ZH]: Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
 - [xtekky/gpt4free][xtekky/gpt4free]: decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
-  - [🌐Official Site](https://gptcache.readthedocs.io)
+  - [🌐Official Site](https://chatbot.sex)
 - [jostmey/msm][jostmey/msm]:  Improved statistical classifier for immune repertoires
 - [pyscript/pyscript][pyscript/pyscript]: Home Page: https://pyscript.net Examples: https://pyscript.net/examples
   - [🌐Official Site](https://github.com/pyscript/pyscript/discussions)
@@ -241,6 +252,23 @@ tags: ["git" , "github" , "python" , "py"]
   - [🌐Official Site](https://github.com/h2oai/h2o-llmstudio)
 - [ashawkey/stable-dreamfusion][ashawkey/stable-dreamfusion]: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [tsale/EDR-Telemetry][tsale/EDR-Telemetry]: This project aims to compare and evaluate the telemetry of various EDR products.
+- [OpenLMLab/MOSS][OpenLMLab/MOSS]: An open-source tool-augmented conversational language model from Fudan University
+  - [🌐Official Site](https://txsun1997.github.io/blogs/moss.html)
+- [guillaumekln/faster-whisper][guillaumekln/faster-whisper]: Faster Whisper transcription with CTranslate2
+- [Significant-Gravitas/Auto-GPT-Plugin-Template][Significant-Gravitas/Auto-GPT-Plugin-Template]: A starting point for developing your own plug-in for Auto-GPT
+- [LawRefBook/Laws][LawRefBook/Laws]
+- [sanchit-gandhi/whisper-jax][sanchit-gandhi/whisper-jax]
+- [opengeos/segment-geospatial][opengeos/segment-geospatial]: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
+  - [🌐Official Site](https://samgeo.gishub.org)
+- [jina-ai/gptdeploy][jina-ai/gptdeploy]: One line to create them all
+- [peterw/Gumroad-Landing-Page-Generator][peterw/Gumroad-Landing-Page-Generator]
+- [OpenGVLab/Ask-Anything][OpenGVLab/Ask-Anything]: a simple yet interesting tool for chatting about video with chatGPT, miniGPT4 and StableLM
+  - [🌐Official Site](https://yinanhe.github.io/projects/chatvideo.html)
+- [minosvasilias/godot-dodo][minosvasilias/godot-dodo]: Finetuning large language models for GDScript generation.
+- [zhayujie/chatgpt-on-wechat][zhayujie/chatgpt-on-wechat]: Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API和itchat实现，能处理文本、语音和图片，访问操作系统和互联网。
+- [Josh-XT/Agent-LLM][Josh-XT/Agent-LLM]: An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.
+  - [🌐Official Site](https://agent-llm.com)
+
 
 
 <!-- Python -->
@@ -271,7 +299,7 @@ tags: ["git" , "github" , "python" , "py"]
 - [geekyutao/Inpaint-Anything][geekyutao/Inpaint-Anything]: Inpaint anything using Segment Anything and inpainting models.
 - [suno-ai/bark][suno-ai/bark]: 🔊 Text-prompted Generative Audio Model
 - [Stability-AI/StableLM][Stability-AI/StableLM]: StableLM: Stability AI Language Models
-
+- [datawhalechina/hugging-llm][datawhalechina/hugging-llm]: HuggingLLM, Hugging Future.
 
 <!-- Jupyter Notebook -->
 
@@ -448,6 +476,18 @@ tags: ["git" , "github" , "python" , "py"]
 [h2oai/h2o-llmstudio]: https://github.com/h2oai/h2o-llmstudio
 [ashawkey/stable-dreamfusion]: https://github.com/ashawkey/stable-dreamfusion
 [tsale/EDR-Telemetry]: https://github.com/tsale/EDR-Telemetry
+[OpenLMLab/MOSS]: https://github.com/OpenLMLab/MOSS
+[guillaumekln/faster-whisper]: https://github.com/guillaumekln/faster-whisper
+[Significant-Gravitas/Auto-GPT-Plugin-Template]: https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template
+[LawRefBook/Laws]: https://github.com/LawRefBook/Laws
+[sanchit-gandhi/whisper-jax]: https://github.com/sanchit-gandhi/whisper-jax
+[opengeos/segment-geospatial]: https://github.com/opengeos/segment-geospatial
+[jina-ai/gptdeploy]: https://github.com/jina-ai/gptdeploy
+[peterw/Gumroad-Landing-Page-Generator]: https://github.com/peterw/Gumroad-Landing-Page-Generator'
+[OpenGVLab/Ask-Anything]: https://github.com/OpenGVLab/Ask-Anything
+[minosvasilias/godot-dodo]: https://github.com/minosvasilias/godot-dodo
+[zhayujie/chatgpt-on-wechat]: https://github.com/zhayujie/chatgpt-on-wechat
+[Josh-XT/Agent-LLM]: https://github.com/Josh-XT/Agent-LLM
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -471,3 +511,4 @@ tags: ["git" , "github" , "python" , "py"]
 [geekyutao/Inpaint-Anything]: https://github.com/geekyutao/Inpaint-Anything
 [suno-ai/bark]: https://github.com/suno-ai/bark
 [Stability-AI/StableLM]: https://github.com/Stability-AI/StableLM
+[datawhalechina/hugging-llm]: https://github.com/datawhalechina/hugging-llm

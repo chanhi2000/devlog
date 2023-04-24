@@ -5,7 +5,9 @@ description: ☕️Java > 🐣Basics
 tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs", "lombok", "log4j", "log4j2"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

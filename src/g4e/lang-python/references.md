@@ -4,7 +4,9 @@ title: 📚References
 description: 🐍Python > 📚References
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -13,3 +15,5 @@ description: 🐍Python > 📚References
 ## Pentesting
 
 - [Pentesting Android Apps Using Frida](https://notsosecure.com/pentesting-android-apps-using-frida)
+
+<TagList />

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🤵🏻‍♂️jenkins
+description: 🤵🏻‍♂️Jenkins
 ---
 
 # {{ $frontmatter.title }} 관련

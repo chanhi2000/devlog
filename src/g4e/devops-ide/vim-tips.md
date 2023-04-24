@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: Vim > 💡Tips
+title: 💡Tips
 description: Vim > 💡Tips
 tags: ["vim", "cli", "vi", "text-editor"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

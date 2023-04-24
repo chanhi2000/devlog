@@ -5,7 +5,9 @@ description: Devlog > Favorite
 tags: ["favorite", "devlog", "github", "tistory"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -36,4 +38,5 @@ tags: ["favorite", "devlog", "github", "tistory"]
 - [GeekNews](https://news.hada.io)
 - [Tall, Snarky Canadian](https://snarky.ca)
 - [서버포럼](https://svrforum.com)
-- [thdev](https://thdev.tech)
+
+<TagLinks />

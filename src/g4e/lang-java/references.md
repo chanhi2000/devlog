@@ -5,7 +5,15 @@ description: ☕️Java > 📚References
 tags: ["java", "baeldung"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
+
+---
+
+## Youtube
+
+@[youtube](https://youtu.be/LtSmfGuHe3o)
 
 ---
 

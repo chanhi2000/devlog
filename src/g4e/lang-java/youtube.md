@@ -1,13 +1,24 @@
 ---
 lang: ko-KR
-title: Education (Java)
-description: 📺Youtube > Education (Java)
-tags: ["education", "youtube", "programming", "jdk", "java", "android", "spring"]
+title: 📺Youtube
+description: ☕️Java > 📺Youtube
+tags: ["java", "jdk", "youtube", "yt"]
+meta:
+  - property: og:title
+    content: 📺Youtube
+  - property: og:description
+    content: ☕️Java > 📺Youtube
+  - property: og:url
+    content: https://chanhi2000.github.io/g4e/lang-java/youtube.html
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
+
+---
 
 ---
 
@@ -421,6 +432,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android", "spring"
 <!-- Reso Coder -->
 
 <TagLinks />
+
 
 [yu-amigoscode]: https://www.youtube.com/@amigoscode
 [yu-Javatechie]: https://www.youtube.com/@Javatechie

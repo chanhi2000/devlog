@@ -5,7 +5,9 @@ description: 📺Youtube > Watch Later (Tutorial)
 tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

@@ -5,7 +5,9 @@ description: APIs & Resources
 tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gitignore", "hyperlink"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

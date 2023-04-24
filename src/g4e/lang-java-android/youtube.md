@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: Education (Android)
-description: 📺Youtube > Education (Android)
+title: 📺Youtube
+description: 🤖Android > 📺Youtube
 tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

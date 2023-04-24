@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: DBeaver > Query Template
+title: Query Template
 description: DBeaver > Query Template
 tags: ["dbeaver", "dbeaver-ce", "ide", "template", "query-template", "query"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

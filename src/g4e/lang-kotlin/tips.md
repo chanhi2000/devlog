@@ -7,9 +7,12 @@ tags: ["kotlin", "companion-object", "logger", "slf4j", "log4j", "lombok"]
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
 [[toc]]
 
 ---
+
 ## Slf4j loggers in 3 ways
 
 If you use [SLF4J](https://slf4j.org) (and possibly Logback) for logging, you are probably familiar with the following code:
@@ -25,13 +28,16 @@ We like short code, and we like DRY. So here are 3 other ways of getting a logge
 - Function definition is easy to understand, but usage requires the class name.
 - Gives the correct logger class name in companions.
 
-#### Code:
+#### Code
+
 ```kotlin
 inline fun <reified T> logger(): Logger {
     return LoggerFactory.getLogger(T::class.java)
 }
 ```
+
 ::: details Usage
+
 ```kotlin
 class LogWithFactoryFunction {
     val logger = logger<LogWithFactoryFunction>()
@@ -51,11 +57,13 @@ class LogWithCompanionFactoryFunction {
     }
 }
 ```
+
 :::
 
 Alternatively, you can help kotlin figure out T to avoid passing it in. However, this would cause `Companion` to show up again:
 
 ::: details Usage
+
 ```kotlin
 class LogWithFactoryFunction {
     val logger = logger(this)
@@ -67,6 +75,7 @@ class LogWithFactoryFunction {
 ```
 
 Or even shorter, creating it as an extension function:
+
 ```kotlin
 class LogWithFactoryFunction {
     val logger = logger()
@@ -76,20 +85,25 @@ class LogWithFactoryFunction {
     }
 }
 ```
+
 :::
 
 ### 2. Companion with inheritance
+
 - No visible `logger` property in your code; it's available through the companion object
 - Logger gets `$Companion` in the logger name
 - Interface version asks for a logger each time, causing slf4j to check its initialization state
 
-#### Code:
+#### Code
+
 ```kotlin
 abstract class Log {
     val logger: Logger = LoggerFactory.getLogger(this.javaClass)
 }
 ```
+
 or
+
 ```kotlin
 interface Log {
     fun logger() = LoggerFactory.getLogger(this.javaClass)
@@ -97,6 +111,7 @@ interface Log {
 ```
 
 ::: details Usage
+ 
 ```kotlin
 class LogWithCompanion {
     companion object : Log() {}
@@ -106,7 +121,9 @@ class LogWithCompanion {
     }
 }
 ```
+
 or
+
 ```kotlin
 class LogWithInterfaceCompanion {
     companion object : Log {}
@@ -116,9 +133,11 @@ class LogWithInterfaceCompanion {
     }
 }
 ```
+
 :::
 
 ### 3. Delegate property
+
 - Harder to understand delegate source code
 - Logger gets `$Companion` in the logger name if placed in a companion
 
@@ -167,12 +186,3 @@ inline fun <reified T> T.logger(): Logger {
 ```
 
 <TagLinks />
-
-
-
-
-
-
-
-
-

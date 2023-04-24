@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: 🔎SQL > MySQL
+title: MySQL
 description: 🔎SQL > MySQL
 tags: ["sql", "mysql", "mysql5", "ddl", "dml", "sql-privilege"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

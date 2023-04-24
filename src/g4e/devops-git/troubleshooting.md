@@ -5,7 +5,9 @@ description: 🛠️Git > 🩺Troubleshooting
 tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credentials", "bash"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

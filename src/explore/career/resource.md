@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: Career > Resource
+title: Resource
 description: Career > Resource
 tags: ["career", "hiring", "resource", "salary", "interview", "computer-science", "면접", "questions", "tech"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

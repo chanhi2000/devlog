@@ -5,7 +5,9 @@ description: Intellij Idea > 🩺Troubleshooting
 tags: ["idea", "intellij-idea", "intellij", "jetbrains", "android-studio", "ide", "troubleshooting"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

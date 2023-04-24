@@ -5,7 +5,9 @@ description: 🔎SQL > PostgreSQL
 tags: ["sql", "postgres", "postgresql", "ddl", "dml", "sql-privilege"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -39,5 +41,11 @@ INSERT INTO :테이블명 (
 ```sh
 systemctl reload rh-postgresql<버전>-postgresql
 ```
+
+---
+
+## C. References
+
+- [WNine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 
 <TagLinks />

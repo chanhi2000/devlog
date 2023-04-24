@@ -5,7 +5,9 @@ description: 🧢Batch > 🐣Basics
 tags: ["batch", "bat", "windows", "windows-terminal", "multiline", "DOSKEY"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

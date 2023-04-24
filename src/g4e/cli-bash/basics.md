@@ -5,11 +5,14 @@ description: 👑Bash > 🐣Basics
 tags: ["bash", "linux", "macos", "terminal", "alias", "tail", "multiline"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
 ---
+
 ## Multiline 입력
 
 `\` 을 붙여 커맨드 입력

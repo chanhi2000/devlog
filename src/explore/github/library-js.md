@@ -1,11 +1,22 @@
 ---
 lang: ko-KR
-title: Library (Javascript)
-description: Github > Library (Javascript)
+title: Library (⚡️Javascript)
+description: Github > Library (⚡️Javascript)
 tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
+meta:
+  - name: Github > Library (⚡️Javascript)
+    content: Javascript Libraries from Github
+  - property: og:title
+    content: Library (⚡️Javascript)
+  - property: og:description
+    content: Github > Library (⚡️Javascript)
+  - property: og:url
+    content: https://chanhi2000.github.io/explore/github/library-js.html
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -216,7 +227,13 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 - [xcanwin/KeepChatGPT][xcanwin/KeepChatGPT]: 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
 - [responsively-org/responsively-app][responsively-org/responsively-app]: A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
   - [🌐Official Site](https://responsively.app)
-
+- [0hq/WebGPT][0hq/WebGPT]: Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+  - [🌐Official Site](https://kmeans.org)
+- [xtekky/chatgpt-clone][xtekky/chatgpt-clone]: ChatGPT interface with better UI + running on free gpt api's
+  - [🌐Official Site](https://chatbot.sex)
+- [enten/eaglercraft-ashes][enten/eaglercraft-ashes]: Git bundles of Eaglercraft repositories for archival purposes
+- [saeedezzati/superpower-chatgpt][saeedezzati/superpower-chatgpt]: Superpower ChatGPT Chrome Extension
+- [TheRamU/Fay][TheRamU/Fay]: Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
 
 ---
 
@@ -310,9 +327,14 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
   - [🌐Official Site](http://appium.io)
 - [jhipster/generator-jhipster][jhipster/generator-jhipster]: JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
   - [🌐Official Site](https://www.jhipster.tech)
-
-
-
+- [lvwzhen/law-cn-ai][lvwzhen/law-cn-ai]: ⚖️ AI 法律助手
+  - [🌐Official Site](https://law-cn-ai.vercel.app)
+- [supabase-community/nextjs-openai-doc-search][supabase-community/nextjs-openai-doc-search]: Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+  - [🌐Official Site](https://supabase.com/blog/chatgpt-supabase-docs)
+- [quadratichq/quadratic][quadratichq/quadratic]: Quadratic | Data Science Spreadsheet with Python & SQL
+  - [🌐Official Site](https://quadratichq.com)
+- [tamagui/tamagui][tamagui/tamagui]: a better universal ui system
+  - [🌐Official Site](https://tamagui.dev)
 
 
 
@@ -436,6 +458,11 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [kiwphi/pop-shoot]: https://github.com/kiwphi/pop-shoot
 [xcanwin/KeepChatGPT]: https://github.com/xcanwin/KeepChatGPT
 [responsively-org/responsively-app]: https://github.com/responsively-org/responsively-app
+[0hq/WebGPT]: https://github.com/0hq/WebGPT
+[xtekky/chatgpt-clone]: https://github.com/xtekky/chatgpt-clone
+[enten/eaglercraft-ashes]: https://github.com/enten/eaglercraft-ashes
+[saeedezzati/superpower-chatgpt]: https://github.com/saeedezzati/superpower-chatgpt
+[TheRamU/Fay]: https://github.com/TheRamU/Fay
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -488,3 +515,7 @@ tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 [highlight/highlight]: https://github.com/highlight/highlight
 [appium/appium]: https://github.com/appium/appium
 [jhipster/generator-jhipster]: https://github.com/jhipster/generator-jhipster
+[lvwzhen/law-cn-ai]: https://github.com/lvwzhen/law-cn-ai
+[supabase-community/nextjs-openai-doc-search]: https://github.com/supabase-community/nextjs-openai-doc-search
+[quadratichq/quadratic]: https://github.com/quadratichq/quadratic
+[tamagui/tamagui]: https://github.com/tamagui/tamagui

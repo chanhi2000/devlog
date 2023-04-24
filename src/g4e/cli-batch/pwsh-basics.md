@@ -5,7 +5,9 @@ description: Powershell > 🐣Basics
 tags: ["powershell", "windows", "windows-terminal", "multiline"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

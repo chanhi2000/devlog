@@ -5,7 +5,9 @@ description: Github > Library (Rust)
 tags: ["git" , "github" , "rust" , "rst"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

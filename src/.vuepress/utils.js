@@ -29,9 +29,6 @@ function getDocsNavBar(item) {
               'youtube/edu-compsci',
               'youtube/edu-devops',
               'youtube/edu-js',
-              'youtube/edu-java',
-              'youtube/edu-ios',
-              'youtube/edu-python',
               'youtube/edu-c+cpp',
             ]
           }, {
@@ -126,17 +123,27 @@ function getDocsNavBar(item) {
             children: [
               'lang-java/',
               'lang-java/basics',
-              'lang-java/android',
               'lang-java/spring',
               'lang-java/was',
               'lang-java/webservice',
               'lang-java/references',
+              'lang-java/youtube',
+            ]
+          }, {
+            title: '🤖Android',
+            children: [
+              'lang-java-android/',
+              'lang-java-android/troubleshooting',
+              'lang-java-android/references',
+              'lang-java-android/youtube',
             ]
           }, {
             title: '🕊️Swift',
             children: [
               'lang-swift/',
               'lang-swift/tips',
+              'lang-swift/references', 
+              'lang-swift/youtube',
             ]
           }, {
             title: '⚡️Javascript',
@@ -152,12 +159,14 @@ function getDocsNavBar(item) {
             children: [
               'lang-python/',
               'lang-python/references',
+              'lang-python/youtube',
             ]
           }, {
             title: '🎨CSS',
             children: [
               'lang-css/',
               'lang-css/references',
+              'lang-css/youtube',
             ]
           }, {
             title: '♯CSharp',

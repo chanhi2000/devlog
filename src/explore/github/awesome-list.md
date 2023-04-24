@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: Awesome List
-description: Github > Awesome List
+title: 😎Awesome List
+description: Github > 😎Awesome List
 tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner", "guide"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -68,7 +70,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://chatcodetutor.gumroad.com/l/abqwfw?_gl=1*2q8f4n*_ga*NDIwMjk5MDQ0LjE2NzU2MjM0ODc.*_ga_6LJN6D94N6*MTY3OTE2NDQ2MS40NC4xLjE2NzkxNjU1NzcuMC4wLjA.)
 - [nichtdax/awesome-totally-open-chatgpt][nichtdax/awesome-totally-open-chatgpt]: A list of totally open alternatives to ChatGPT
 - [PlexPt/awesome-chatgpt-prompts-zh][PlexPt/awesome-chatgpt-prompts-zh]: ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-  - [🌐Official Site](https://chatguide.plexpt.com)
+  - [🌐Official Site](https://chat.plexpt.com)
 - [TheExplainthis/AI-Products-All-In-One][TheExplainthis/AI-Products-All-In-One]: 彙整了真正實用的 ChatGPT 與生成式 AI 工具
   - [🌐Official Site](https://www.explainthis.io/zh-hant/ai-toolkit)
 - [terminalcommandnewsletter/everything-chatgpt][terminalcommandnewsletter/everything-chatgpt]: Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.

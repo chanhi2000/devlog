@@ -52,13 +52,54 @@ module.exports = {
       },
       {
         text: '🗂️Catalogs',
+        items: [
+          {
+            text: '🏰Portfolio',
+            items: [
+              {
+                text: 'Intro',
+                link: '/catalogs/portfolio/',
+              },
+            ],
+          }, {
+            text: '🎓TIL',
+            items: [
+              {
+                text: 'Intro',
+                link: '/catalogs/til/',
+              }
+            ],
+          }
+        ],
         link: '/catalogs/',
       }, {
         text: '🌐Explore',
         link: '/explore/',
       }, {
         text: '🎓Academics',
-        link: '/academics/',
+        items: [
+          {
+            text: 'Intro',
+            link: '/academics/'
+          },
+          {
+            text: 'PHYS034',
+            items: [
+              {
+                text: 'Intro',
+                link: '/academics/PHYS034/'
+              },
+              {
+                text: 'Week 01',
+                link: '/academics/PHYS034/week01/' 
+              },
+              {
+                text: 'Week 01: Lecture',
+                link: '/academics/PHYS034/week01/lecture' 
+              },
+            ],
+          }
+        ],
       },{
         text: '📍Misc.',
         items: [
@@ -87,6 +128,9 @@ module.exports = {
       md.use(require('markdown-it-katexx'), {});
     },
     toc: { includeLevel: [1, 2, 3] },
+    plugins: {
+      '@centerforopenscience/markdown-it-video': {} // markdown에 @[youtube](유튜브URL) 형태로 박으면 동영상이 나온다
+    }
   },
 
   /**

@@ -5,7 +5,9 @@ description: 🧢Batch > 💡Tips
 tags: ["batch", "bat", "windows", "windows-terminal", "net"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: Education (Python)
-description: 📺Youtube > Education (Python)
+title: 📺Youtube
+description: 🐍Python > 📺Youtube
 tags: ["education", "youtube", "programming", "python", "py"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

@@ -5,7 +5,9 @@ description: 📺Youtube > Education (Computer Science)
 tags: ["education", "compsci", "computer-science", "programming", "operating-system", "os"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

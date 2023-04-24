@@ -5,7 +5,9 @@ description: 📺Youtube > Watch Later (Keynote)
 tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp-lackner", "theprimeagen"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

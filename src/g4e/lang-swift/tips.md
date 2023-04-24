@@ -1,13 +1,17 @@
 ---
 lang: ko-KR
 title: 💡Tips
-description: 💡Tips
+description: 🕊️Swift > 💡Tips
 tips: ["swift", "swift3", "swift4", "swift-ui", "swiftui", "tips", "xcode", "macos", "ios"]
 ---
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
 [[toc]]
+
+---
 
 ## SwiftUI
 

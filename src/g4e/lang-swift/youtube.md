@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: Education (iOS)
-description: 📺Youtube > Education (iOS)
-tags: ["education", "youtube", "programming", "ios", "xcode"]
+title: 📺Youtube
+description: 🕊️Swift > 📺Youtube
+tags: ["education", "youtube", "ios", "swift"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -33,12 +35,8 @@ tags: ["education", "youtube", "programming", "ios", "xcode"]
 | ❌ | <a href="https://www.youtube.com/watch?v=ZMe6Xq2gCGs"><img width="140px" height="auto" alt="thumb-ZMe6Xq2gCGs" src="https://i.ytimg.com/vi/ZMe6Xq2gCGs/hqdefault.jpg"/></a> | [Drawing Line Graph in SwiftUI](https://www.youtube.com/watch?v=ZMe6Xq2gCGs) <br/><br/> _[azamsharp][yu-azamsharp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=0NYABXvoyRA"><img width="140px" height="auto" alt="thumb-0NYABXvoyRA" src="https://i.ytimg.com/vi/0NYABXvoyRA/hqdefault.jpg"/></a> | [NEW COURSE: Test Driven Development in iOS Using Swift](https://www.youtube.com/watch?v=0NYABXvoyRA) <br/><br/> _[azamsharp][yu-azamsharp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=4Rxuc4BcW8o"><img width="140px" height="auto" alt="thumb-4Rxuc4BcW8o" src="https://i.ytimg.com/vi/4Rxuc4BcW8o/hqdefault.jpg"/></a> | [Creating and Publishing Swift Packages \(Swift Package Manager\)](https://www.youtube.com/watch?v=4Rxuc4BcW8o) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-
-Building Chat Bubbles in SwiftUI
-qOMWbUZk5lY
-
-Building a ChatGPT macOS Toolbar App Using SwiftUI
-v6SMV_TUOJk
+| ❌ | <a href="https://www.youtube.com/watch?v=qOMWbUZk5lY"><img width="140px" height="auto" alt="thumb-qOMWbUZk5lY" src="https://i.ytimg.com/vi/qOMWbUZk5lY/hqdefault.jpg"/></a> | [Building Chat Bubbles in SwiftUI](https://www.youtube.com/watch?v=qOMWbUZk5lY) <br/><br/> _[azamsharp][yu-azamsharp]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=v6SMV_TUOJk"><img width="140px" height="auto" alt="thumb-v6SMV_TUOJk" src="https://i.ytimg.com/vi/v6SMV_TUOJk/hqdefault.jpg"/></a> | [Building a ChatGPT macOS Toolbar App Using SwiftUI](https://www.youtube.com/watch?v=v6SMV_TUOJk) <br/><br/> _[azamsharp][yu-azamsharp]_ |
 
 :::
 
@@ -68,6 +66,7 @@ v6SMV_TUOJk
 <!-- iOS Academy -->
 
 ---
+
 ## Kavsoft
 
 [Kavsoft][yu-kavsoft]

@@ -5,7 +5,9 @@ description: 📺Youtube > Education (js)
 tags: ["education", "youtube", "programming", "js", "node"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

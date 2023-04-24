@@ -5,7 +5,9 @@ description: 📺Youtube > Education (DevOps)
 tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubuntu"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

@@ -5,7 +5,9 @@ description: 🅺Kotlin > 🐣Basics
 tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs","kotlin", "companion-object"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

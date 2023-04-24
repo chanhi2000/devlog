@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
 title: List
-description: Devlog's List
+description: List > Devlogs
 tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws", "git-flow", "chrome-extensions"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

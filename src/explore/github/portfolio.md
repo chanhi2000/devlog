@@ -5,7 +5,9 @@ description: Github > Portfolio
 tags: ["portfolio", "github", "hyperlink", "resume"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 ---
 

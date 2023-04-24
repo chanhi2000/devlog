@@ -7,6 +7,12 @@ tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js", "example"]
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
+[[toc]]
+
+---
+
 ## Flowchart 
 
 ### Badge <Badge text="beta" type="warning"/> <Badge text="default theme"/>

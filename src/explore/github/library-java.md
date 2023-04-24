@@ -1,11 +1,22 @@
 ---
 lang: ko-KR
-title: Library (Java)
-description: Github > Library (Java)
+title: Library (☕️Java)
+description: Github > Library (☕️Java)
 tags: ["git" , "github" , "java" , "kotlin" , "android"]
+meta:
+  - name: Github > Library (☕️Java)
+    content: Java and Kotlin Libraries from Github
+  - property: og:title
+    content: Library (☕️Java)
+  - property: og:description
+    content: Github > Library (☕️Java)
+  - property: og:url
+    content: https://chanhi2000.github.io/explore/github/library-java.html
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -69,6 +80,13 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 - [aress31/burpgpt][aress31/burpgpt]: A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [HumbleUI/Skija][HumbleUI/Skija]: Java bindings for Skia
 - [zeromq/jeromq][zeromq/jeromq]: Pure Java ZeroMQ
+- [macrozheng/mall][macrozheng/mall]: mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+  - [🌐Official Site](https://www.macrozheng.com/admin)
+- [dataease/dataease][dataease/dataease]: 人人可用的开源数据可视化分析工具。
+  - [🌐Official Site](https://dataease.io)
+
+
+
 
 ---
 
@@ -187,6 +205,8 @@ tags: ["git" , "github" , "java" , "kotlin" , "android"]
 [aress31/burpgpt]: https://github.com/aress31/burpgpt
 [HumbleUI/Skija]: https://github.com/HumbleUI/Skija
 [zeromq/jeromq]: https://github.com/zeromq/jeromq
+[macrozheng/mall]: https://github.com/macrozheng/mall
+[dataease/dataease]: https://github.com/dataease/dataease
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

@@ -4,7 +4,9 @@ title: 📚References
 description: ♯CSharp > 📚References
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

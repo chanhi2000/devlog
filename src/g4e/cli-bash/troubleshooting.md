@@ -5,11 +5,14 @@ description: 👑Bash > 🩺Troubleshooting
 tags: ["bash", "linux", "macos", "terminal", "sed"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
 ---
+
 ## 스크립트 실행오류
 
 ### `/bin/sh^M`: bad interpreter: 그런 파일이나 디렉터리가 없습니다.

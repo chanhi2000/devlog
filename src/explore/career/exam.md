@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: Career > Exam
-description: Career > Exam
+title: 👩‍💻Exam
+description: Career > 👩‍💻Exam
 tags: ["career", "exam", "resource", "cbt"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

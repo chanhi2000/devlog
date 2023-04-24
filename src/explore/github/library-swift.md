@@ -5,7 +5,9 @@ description: Github > Library (ObjC & Swift)
 tags: ["git" , "github" , "objc" , "swift"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

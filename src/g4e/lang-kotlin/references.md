@@ -5,7 +5,9 @@ description: 🅺Kotlin > 📚References
 tags: ["kotlin", "jdk", "jdk8", "links", "medium", "references"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

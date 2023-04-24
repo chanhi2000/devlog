@@ -5,7 +5,9 @@ description: DBeaver > Hotkey
 tags: ["dbeaver", "dbeaver-ce", "hotkey", "ide"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

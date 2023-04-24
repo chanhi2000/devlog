@@ -5,7 +5,9 @@ description: ☕️Java > 📡WAS
 tags: ["java", "jdk", "was", "web-app-server", "backend", "java", "tomcat", "jboss", "jndi"]
 ---
 
-# {{ $frontmatter.description }} 관련
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
