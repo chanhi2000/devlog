@@ -2,11 +2,6 @@
 lang: ko-KR
 title: Intro
 description: 🅺Kotlin
-meta: 
-  - name: description
-    content: hello
-  - name: keywords
-    content: super duper SEO
 ---
 
 # {{ $frontmatter.description }} 관련

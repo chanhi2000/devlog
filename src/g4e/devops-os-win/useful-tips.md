@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
-title: 👓Windows > Useful Tips
+title: Useful Tips
 description: 👓Windows > Useful Tips
 tags: ["bat" ,"pwsh", "regedit"]
 ---
 
 # {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -36,7 +38,6 @@ net start bits
 net start msiserver
 ```
 
-
 ---
 
 ## 윈도우 사용자 비밀번호 변경
@@ -48,14 +49,16 @@ net user <사용자ID> <변경 비밀번호>
 ```
 
 ---
+
 ## 윈도우 이미지를 복구
 
 ```batch
 dism /online /cleanup-image /restorehealth
 dism /online /cleanup-image /startcomponentcleanup
-``` 
+```
 
 ---
+
 ## auto-tuning network 기능 해제
 
 ```batch
@@ -78,41 +81,45 @@ netsh interface tcp set global autotuninglevel=normal
 
 ### 전원옵션 > 최대성능 활성화
 
-어드민 권한으로 Command Prompt실행
+어드민 권한으로 Command Prompt 실행
 
 ```batch
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
 
-#### 결과
+아래와 같은 결과 출력
 
 ```
 전원 구성표 GUID: 15fc3227-d628-4ea6-8cbc-9e9fbdf1469b  (최고의 성능)
 ```
 
 ---
+
 ## `gpedit.msc`
 
-###  Windows 간 공유폴더 네트워크 속도 향상 시키기
+### Windows 간 공유폴더 네트워크 속도 향상 시키기
+
 1. 컴퓨터 구성 > 관리 템플릿 > 네트워크 > QoS 패킷 스케줄러
 2. 우측 "예약 대역폭 제한" 클릭
 3. "사용" 으로 설정하고 대역폭 제한을 0 으로 설정
 4. 적용 하고 리부팅
- 
+
 ### 윈도우 디펜더 끄기
-1. 컴퓨터 구성 > 관리 템플릿 > Windows 구성 요소 > Windows Defender 바이러스 백신 > Windows 
+
+1. 컴퓨터 구성 > 관리 템플릿 > Windows 구성 요소 > Windows Defender 바이러스 백신 > Windows
 2. Defender 바이러스 백신 사용 안함 -> 사용 변경
 
 ---
-## 프로세스 종료
+
+## Kill Process
 
 ```batch
 taskkill /f /im Battle.net.exe
 taskkill /f /PID 1234
 ```
 
-
 ---
+
 ## `regedit`
 
 | location | `key`=`value` | description |
@@ -120,18 +127,19 @@ taskkill /f /PID 1234
 | `HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools` | `Disabled=0` |  IE에서 개발자 도구 메뉴가 비활성화 돼 있을 때 |
 | `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` | `949=*굴림체` | `cmd.exe` 창에서 사용할 폰트를 추가하는 방법 |
 | `\HKEY_USERS\.DEFAULT\Control Panel\Keyboard` | `InitialKeyboardIndicators=2147483650` | 넘버락 켜기 |
-| `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | 
-<ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | WebDAV 연결 |
+| `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | <ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | WebDAV 연결 |
 
 - https://www.clien.net/service/board/lecture/17815116
 
-
 ---
+
 ## How to Change a Windows 10 User Name
 
 - <kbd>Win</kbd> + <kbd>r</kbd> 입력 후 실행 창 생성
 - 입력란에 `control userpasswords2` 입력
 - _'이 컴퓨터 사용자'_ 목록에서 사용자명 변경 할 사용자 선택 후 `[속성]` 버튼 선택
+
+---
 
 ## 유저 폴더 명 변경
 
@@ -143,7 +151,11 @@ taskkill /f /PID 1234
 wmic useraccount list full
 ```
 
+아래와 같은 결과 출력
+
+```
 S-1-5-21-366331386-1496529093-1967116536-1002
+```
 
 ### 폴더명 변경
 

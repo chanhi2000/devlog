@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Node.js > Cordova
+title: Cordova
 description: Node.js > Cordova
 tags: ["js", "javascript", "nodejs", "node", "cordova", "hybrid"]
 ---

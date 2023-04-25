@@ -41,6 +41,21 @@ tags: ["education", "youtube", "programming", "python", "py"]
 | ❌ | <a href="https://www.youtube.com/watch?v=Qks3eqlImy8"><img width="140px" height="auto" alt="thumb-Qks3eqlImy8" src="https://i.ytimg.com/vi/Qks3eqlImy8/hqdefault.jpg"/></a> | [Professional Project &amp; Dependency Management in Python](https://www.youtube.com/watch?v=Qks3eqlImy8) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=tMLsR0_2yIE"><img width="140px" height="auto" alt="thumb-tMLsR0_2yIE" src="https://i.ytimg.com/vi/tMLsR0_2yIE/hqdefault.jpg"/></a> | [Professional Expense Tracker in Python](https://www.youtube.com/watch?v=tMLsR0_2yIE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 
+0MgV8TxMNIw
+Massively Speed-Up SQL Queries with Indexes
+
+W82jvmiaDtk
+Dockerize Python Applications with GUI
+
+YLa_KkehvGw
+Deep Reinforcement Learning with OpenAI Gym in Python
+
+8PARZE2aTOQ
+Encrypt SQLite Databases with SQLCipher
+
+3wC-SCdJK2c
+Google Sheets API Automation in Python
+
 :::
 
 ---

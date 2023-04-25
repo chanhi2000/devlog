@@ -77,6 +77,22 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 | ❌ | <a href="https://www.youtube.com/watch?v=O7rPeWnCvhc"><img width="140px" height="auto" alt="thumb-O7rPeWnCvhc" src="https://i.ytimg.com/vi/O7rPeWnCvhc/hqdefault.jpg"/></a> | [The Top 3 Clean Architecture Mistakes in Android](https://www.youtube.com/watch?v=O7rPeWnCvhc) <br/><br/> _[Philipp Lackner][yu-Philipp-Lackner]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=mWb_hEBLIqA"><img width="140px" height="auto" alt="thumb-mWb_hEBLIqA" src="https://i.ytimg.com/vi/mWb_hEBLIqA/hqdefault.jpg"/></a> | [THIS Is How You Schedule Alarms on Android with `AlarmManager`](https://www.youtube.com/watch?v=mWb_hEBLIqA) <br/><br/> _[Philipp Lackner][yu-Philipp-Lackner]_ |
 
+nzQ4HE0DMDg
+Transparent Status Bar In Android In Less Than a Minute
+
+4D79It7Jnzg
+THIS Compose-State Mistake Leads to Problems In Your Code
+
+0G_1XCRlpYM
+You're Collecting Your Flows Wrong In Compose | THIS Is Why
+
+irIGZj1YON8
+Building Your First Wear OS App with Jetpack Compose - Full Crash Course
+
+QCSJfMqQY9A
+How to Implement a Context Drop Down Menu In Jetpack Compose
+
+
 :::
 
 <!-- Philipp Lackner -->
@@ -127,6 +143,25 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 | ❌ | <a href="https://www.youtube.com/watch?v=nlPtfncjOWA"><img width="140px" height="auto" alt="thumb-nlPtfncjOWA" src="https://i.ytimg.com/vi/nlPtfncjOWA/hqdefault.jpg"/></a> | [Custom Buttons Design - Android Studio Tutorial](https://www.youtube.com/watch?v=nlPtfncjOWA) <br/><br/> _[Stevdza-San][yu-stevdza-san]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=d_Y5gcpgeoU"><img width="140px" height="auto" alt="thumb-d_Y5gcpgeoU" src="https://i.ytimg.com/vi/d_Y5gcpgeoU/hqdefault.jpg"/></a> | [Programming is getting Deprecated!? 😱 Crazy Conversation with Chat GPT](https://www.youtube.com/watch?v=d_Y5gcpgeoU) <br/><br/> _[Stevdza-San][yu-stevdza-san]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=yJheLbxYd10"><img width="140px" height="auto" alt="thumb-yJheLbxYd10" src="https://i.ytimg.com/vi/yJheLbxYd10/hqdefault.jpg"/></a> | [Everything You Need to Know about derivedStateOf()](https://www.youtube.com/watch?v=yJheLbxYd10) <br/><br/> _[Stevdza-San][yu-stevdza-san]_ |
+
+xlpd6Pf2aT8
+DO NOT Display a Notification Without This!
+
+stv2IdGDma4
+This is how you do it - Become your own Boss! 👊
+
+LyEV4c6l1yM
+Moving Animation with Marquee Effect and Jetpack Compose
+
+F5B-CxJTKlg
+Full Guide to Develop a Website with Kotlin and Jetpack Compose
+
+4uh-TWfs2dE
+Build a Website from Scratch with Kotlin and Jetpack Compose | Online Course
+
+ZJJx8tLX89A
+Everything you need to know about Dependency Injection
+
 
 :::
 
@@ -198,12 +233,122 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 | ❌ | <a href="https://www.youtube.com/watch?v=aQAIMY-HzL8"><img width="140px" height="auto" alt="thumb-aQAIMY-HzL8" src="https://i.ytimg.com/vi/aQAIMY-HzL8/hqdefault.jpg"/></a> | [Save data into SQLite database \[Beginner Android Studio Example\]](https://www.youtube.com/watch?v=aQAIMY-HzL8) <br/><br/> _[CodingWithMitch][yu-coding-w-mitch]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=z44CLCafepA"><img width="140px" height="auto" alt="thumb-z44CLCafepA" src="https://i.ytimg.com/vi/z44CLCafepA/hqdefault.jpg"/></a> | [Playing Video in a RecyclerView with ExoPlayer](https://www.youtube.com/watch?v=z44CLCafepA) <br/><br/> _[CodingWithMitch][yu-coding-w-mitch]_ |
 
+RCcA5f13ESo
+Android Performance with P.Y. (Author of Leak Canary)
+
 :::
 
 <!-- CodingWithMitch -->
+
+---
+
+## Simplified Coding
+
+[Simplified Coding][]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=Mq5PVEmkZlQ"><img width="140px" height="auto" alt="thumb-Mq5PVEmkZlQ" src="https://i.ytimg.com/vi/Mq5PVEmkZlQ/hqdefault.jpg"/></a> | [Assisted Injection in ViewModel using Hilt](https://www.youtube.com/watch?v=Mq5PVEmkZlQ) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=a7RvjJMAD3w"><img width="140px" height="auto" alt="thumb-a7RvjJMAD3w" src="https://i.ytimg.com/vi/a7RvjJMAD3w/hqdefault.jpg"/></a> | [kTor Android Client Tutorial - Performing Simple GET Request](https://www.youtube.com/watch?v=a7RvjJMAD3w) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=rWPqjr1ZmQU"><img width="140px" height="auto" alt="thumb-rWPqjr1ZmQU" src="https://i.ytimg.com/vi/rWPqjr1ZmQU/hqdefault.jpg"/></a> | [Kotlin Delegating Properties Tutorial with Example](https://www.youtube.com/watch?v=rWPqjr1ZmQU) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=78RHCvTQnE0"><img width="140px" height="auto" alt="thumb-78RHCvTQnE0" src="https://i.ytimg.com/vi/78RHCvTQnE0/hqdefault.jpg"/></a> | [Android Test Activity with Espresso](https://www.youtube.com/watch?v=78RHCvTQnE0) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=wwz2uPvbfLg"><img width="140px" height="auto" alt="thumb-wwz2uPvbfLg" src="https://i.ytimg.com/vi/wwz2uPvbfLg/hqdefault.jpg"/></a> | [Kotlin Delegation Tutorial with Example](https://www.youtube.com/watch?v=wwz2uPvbfLg) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=q_5xrPYRoAg"><img width="140px" height="auto" alt="thumb-q_5xrPYRoAg" src="https://i.ytimg.com/vi/q_5xrPYRoAg/hqdefault.jpg"/></a> | [\#12 Android Login/Signup with MVVM - User Logout](https://www.youtube.com/watch?v=q_5xrPYRoAg) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=pSDJu9iiNvE"><img width="140px" height="auto" alt="thumb-pSDJu9iiNvE" src="https://i.ytimg.com/vi/pSDJu9iiNvE/hqdefault.jpg"/></a> | [\#5 Android Login/Signup with MVVM - Base Fragment](https://www.youtube.com/watch?v=pSDJu9iiNvE) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EUgpvEno3vI"><img width="140px" height="auto" alt="thumb-EUgpvEno3vI" src="https://i.ytimg.com/vi/EUgpvEno3vI/hqdefault.jpg"></a> | [\#4 RecyclerView with MVVM - Data Binding](https://www.youtube.com/watch?v=EUgpvEno3vI) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3Uhorh2o1dg"><img width="140px" height="auto" alt="thumb-3Uhorh2o1dg" src="https://i.ytimg.com/vi/3Uhorh2o1dg/hqdefault.jpg"></a> | [\#3 RecyclerView with MVVM - ViewModel and Fragment](https://www.youtube.com/watch?v=3Uhorh2o1dg) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=I485b7LzYkM"><img width="140px" height="auto" alt="thumb-I485b7LzYkM" src="https://i.ytimg.com/vi/I485b7LzYkM/hqdefault.jpg"></a> | [#1 Firebase Database with Kotlin Tutorial - Saving Data](https://www.youtube.com/watch?v=I485b7LzYkM) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=CFTCyBNXaCI"><img width="140px" height="auto" alt="thumb-CFTCyBNXaCI" src="https://i.ytimg.com/vi/CFTCyBNXaCI/hqdefault.jpg"></a> | [\#17 Android MVVM Architecture Tutorial - RecyclerView with Groupie](https://www.youtube.com/watch?v=CFTCyBNXaCI) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=F8lL8TdLYLE"><img width="140px" height="auto" alt="thumb-F8lL8TdLYLE" src="https://i.ytimg.com/vi/F8lL8TdLYLE/hqdefault.jpg"></a> | [\#12 Android MVVM Architecture Tutorial - User Signup](https://www.youtube.com/watch?v=F8lL8TdLYLE) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=RkRX446RSPk"><img width="140px" height="auto" alt="thumb-RkRX446RSPk" src="https://i.ytimg.com/vi/RkRX446RSPk/hqdefault.jpg"></a> | [\#3 Android MVVM Architecture Tutorial - Using Data Binding](https://www.youtube.com/watch?v=RkRX446RSPk) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=A2n0It3C6eM"><img width="140px" height="auto" alt="thumb-A2n0It3C6eM" src="https://i.ytimg.com/vi/A2n0It3C6eM/hqdefault.jpg"></a> | [\#6 Android Room Tutorial - Getting Saved Data](https://www.youtube.com/watch?v=A2n0It3C6eM) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=JfM5klBXi_Q"><img width="140px" height="auto" alt="thumb-JfM5klBXi_Q" src="https://i.ytimg.com/vi/JfM5klBXi_Q/hqdefault.jpg"></a> | [\#7 Retrofit Android Tutorial - Create Operation](https://www.youtube.com/watch?v=JfM5klBXi_Q) <br/><br/> _[Simplified Coding][yu-simplified-coding]_ |
+
+UIQ4_1B420g
+\#3 ML-Kit's Vision API on Android - Barcode Scanning
+    
+ju4AYKMe3Sw
+\#2 ML-Kit's Vision API on Android - CameraX
+  
+sVfRVVc3NkQ
+\#1 ML-Kit's Vision API on Android - Introduction
+
+:::
+
+<!-- Simplified Coding -->
+
+---
+
+## Douglas Schmidt
+
+[Douglas Schmidt][]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=HG7Wd0TMF4o"><img width="140px" height="auto" alt="thumb-HG7Wd0TMF4o" src="https://i.ytimg.com/vi/HG7Wd0TMF4o/hqdefault.jpg"/></a> | [Common Java Streams Factory Methods](https://www.youtube.com/watch?v=HG7Wd0TMF4o) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=qBRNPTivuc0"><img width="140px" height="auto" alt="thumb-qBRNPTivuc0" src="https://i.ytimg.com/vi/qBRNPTivuc0/hqdefault.jpg"/></a> | [Walkthrough of Assignment 1B](https://www.youtube.com/watch?v=qBRNPTivuc0) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=jcrmnCLT9o4"><img width="140px" height="auto" alt="thumb-jcrmnCLT9o4" src="https://i.ytimg.com/vi/jcrmnCLT9o4/hqdefault.jpg"/></a> | [C++ STL Negators](https://www.youtube.com/watch?v=jcrmnCLT9o4) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=z8mEBFo2Tog"><img width="140px" height="auto" alt="thumb-z8mEBFo2Tog" src="https://i.ytimg.com/vi/z8mEBFo2Tog/hqdefault.jpg"></a> | [Common Java Streams Mistakes \(part 4\): Sharing Unsynchronized Mutable State in Java Parallel Streams](https://www.youtube.com/watch?v=z8mEBFo2Tog) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5x-_M0KlW-Y"><img width="140px" height="auto" alt="thumb-5x-_M0KlW-Y" src="https://i.ytimg.com/vi/5x-_M0KlW-Y/hqdefault.jpg"></a> | [Implementing a "Timed Memoizer" with Java ScheduledExecutorService, ConcurrentHashMap, &amp; AtomicLong](https://www.youtube.com/watch?v=5x-_M0KlW-Y) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=llUIaOYBNRI"><img width="140px" height="auto" alt="thumb-llUIaOYBNRI" src="https://i.ytimg.com/vi/llUIaOYBNRI/hqdefault.jpg"></a> | [Applying Advanced Completable Futures Features](https://www.youtube.com/watch?v=llUIaOYBNRI) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=v_TIweF3jpc"><img width="140px" height="auto" alt="thumb-v_TIweF3jpc" src="https://i.ytimg.com/vi/v_TIweF3jpc/hqdefault.jpg"></a> | [Creating and Processing a Large Composite Object with Project Reactor](https://www.youtube.com/watch?v=v_TIweF3jpc) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=oXL2PynsIqw"><img width="140px" height="auto" alt="thumb-oXL2PynsIqw" src="https://i.ytimg.com/vi/oXL2PynsIqw/hqdefault.jpg"></a> | [Evaluating the Performance and Productivity of Java Fork-Join Pool Programming Models.](https://www.youtube.com/watch?v=oXL2PynsIqw) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=JeFxk-Rm8Zc"><img width="140px" height="auto" alt="thumb-JeFxk-Rm8Zc" src="https://i.ytimg.com/vi/JeFxk-Rm8Zc/hqdefault.jpg"></a> | [Creating and Processing Large Composite Objects with Java Sequential and Parallel Streams](https://www.youtube.com/watch?v=JeFxk-Rm8Zc) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=VX0zVCOslZo"><img width="140px" height="auto" alt="thumb-VX0zVCOslZo" src="https://i.ytimg.com/vi/VX0zVCOslZo/hqdefault.jpg"></a> | [Microsoft Excel Tutorial - Multiple Criteria Statistical Functions in Excel](https://www.youtube.com/watch?v=VX0zVCOslZo) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=IgAQjlRhFWs"><img width="140px" height="auto" alt="thumb-IgAQjlRhFWs" src="https://i.ytimg.com/vi/IgAQjlRhFWs/hqdefault.jpg"></a> | [Web Crawler Via RxJava \(Compared with the Completable Futures Framework\)](https://www.youtube.com/watch?v=IgAQjlRhFWs) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=par5pEuq850"><img width="140px" height="auto" alt="thumb-par5pEuq850" src="https://i.ytimg.com/vi/par5pEuq850/hqdefault.jpg"></a> | [Web-crawling Image Counter with Java Completable Futures](https://www.youtube.com/watch?v=par5pEuq850) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1j13PxBe8zg"><img width="140px" height="auto" alt="thumb-1j13PxBe8zg" src="https://i.ytimg.com/vi/1j13PxBe8zg/hqdefault.jpg"></a> | [Java Semaphore: Mediating Access to Shared Resources](https://www.youtube.com/watch?v=1j13PxBe8zg) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EJaVFako7Ec"><img width="140px" height="auto" alt="thumb-EJaVFako7Ec" src="https://i.ytimg.com/vi/EJaVFako7Ec/hqdefault.jpg"></a> | [Java SearchWithParallelStreams Example: Evaluating Pros and Cons](https://www.youtube.com/watch?v=EJaVFako7Ec) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=PVDH6eQHAqc"><img width="140px" height="auto" alt="thumb-PVDH6eQHAqc" src="https://i.ytimg.com/vi/PVDH6eQHAqc/hqdefault.jpg"></a> | [Walkthrough of Assignment 2b Frequently Made Mistakes](https://www.youtube.com/watch?v=PVDH6eQHAqc) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WUpQ0V7D4bU"><img width="140px" height="auto" alt="thumb-WUpQ0V7D4bU" src="https://i.ytimg.com/vi/WUpQ0V7D4bU/hqdefault.jpg"></a> | [Using ChatGPT to Generate a Retrofit API Client Automatically](https://www.youtube.com/watch?v=WUpQ0V7D4bU) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=WmRqR1WNhqU"><img width="140px" height="auto" alt="thumb-WmRqR1WNhqU" src="https://i.ytimg.com/vi/WmRqR1WNhqU/hqdefault.jpg"></a> | [The QuoteServices App Case Study: Structure &amp; Functionality of Client Classes](https://www.youtube.com/watch?v=WmRqR1WNhqU) <br/><br/> _[Douglas Schmidt][yu-douglas-schmidt]_ |
+
+KJunLR5O2io
+Implementing the RSocket ZippyQuotes Case Study App Client
+
+AN-F9LaTcBU
+Walkthrough for Assignment 2C for Spring 2023
+
+fRN8N7XSlTc
+The LockManager App Case Study: Client Structure &amp; Functionality
+
+IsAS18LIqDY
+Overview of Spring WebFlux
+
+8nrnpEtIM-4
+Comparing &amp; Contrasting Spring WebMVC &amp; WebFlux
+
+4eB0gBtAGLU
+The LockManager App Case Study: Overview
+
+vdhH8WEWUNo
+The LockManager App Case Study: Server Structure &amp; Functionality
+
+zaaiXGzhxRQ
+The LockManager App Case Study: Implementing the Server Components
+
+TGSotYpdtcU
+The LockManager App Case Study: Client Structure &amp; Functionality
+
+ntlCi1s7yjk
+The LockManager App Case Study: Test Driver Implementation
+
+P-DgRlCddbE
+Implementing the AsyncTaskBarrier Framework Using Project Reactor (Part 1)
+
+HxG6gZ7qhSs
+Implementing the AsyncTaskBarrier Framework Using Project Reactor (Part 2)
+
+
+:::
+
+---
 
 <TagLinks />
 
 [yu-Philipp-Lackner]: https://www.youtube.com/@PhilippLackner
 [yu-stevdza-san]: https://www.youtube.com/@StevdzaSan
 [yu-coding-w-mitch]: https://www.youtube.com/@codingwithmitch
+[yu-simplified-coding]: https://www.youtube.com/@SimplifiedCoding

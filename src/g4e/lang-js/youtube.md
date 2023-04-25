@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Education (js)
-description: 📺Youtube > Education (js)
+title: 📺Youtube
+description: ⚡️Javascript > 📺Youtube
 tags: ["education", "youtube", "programming", "js", "node"]
 ---
 
@@ -157,7 +157,19 @@ tags: ["education", "youtube", "programming", "js", "node"]
 | ❌ | <a href="https://www.youtube.com/watch?v=-uzOuGlUfDQ"><img width="140px" height="auto" alt="thumb--uzOuGlUfDQ" src="https://i.ytimg.com/vi/-uzOuGlUfDQ/hqdefault.jpg"/></a> | [Responsive Vertical Timeline Design using only HTML &amp; CSS](https://www.youtube.com/watch?v=-uzOuGlUfDQ) <br/><br/> _[CodingNepal][yu-coding-nepal]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=QxMBHi_ZiT8"><img width="140px" height="auto" alt="thumb-QxMBHi_ZiT8" src="https://i.ytimg.com/vi/QxMBHi_ZiT8/hqdefault.jpg"/></a> | [Search Bar with Auto-complete Search Suggestions using HTML CSS &amp; JavaScript](https://www.youtube.com/watch?v=QxMBHi_ZiT8) <br/><br/> _[CodingNepal][yu-coding-nepal]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=V0O4pY2xX10"><img width="140px" height="auto" alt="thumb-V0O4pY2xX10" src="https://i.ytimg.com/vi/V0O4pY2xX10/hqdefault.jpg"/></a> | [Sidebar Menu using HTML &amp; CSS](https://www.youtube.com/watch?v=V0O4pY2xX10) <br/><br/> _[CodingNepal][yu-coding-nepal]_ |
-jpg"></a> | [Build A Gradient Color Generator in HTML CSS &amp; JavaScript \| Gradient Generator in JavaScript](https://www.youtube.com/watch?v=H5bpLzBeLww) <br/><br/> _[CodingNepal][yu-coding-nepal]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=H5bpLzBeLww"><img width="140px" height="auto" alt="thumb-H5bpLzBeLww" src="https://i.ytimg.com/vi/H5bpLzBeLww/hqdefault.jpg"/></a> | [Build A Gradient Color Generator in HTML CSS &amp; JavaScript \| Gradient Generator in JavaScript](https://www.youtube.com/watch?v=H5bpLzBeLww) <br/><br/> _[CodingNepal][yu-coding-nepal]_ |
+
+6QE8dXq9SOE
+Create A Draggable Card Slider in HTML CSS &amp; JavaScript | Infinite Image Slider in JavaScript
+
+UHAuPmPtwuQ
+Password Validation Check in HTML CSS &amp; JavaScript | Password Strength Check in JavaScript
+
+bnANtwr0fTU
+Create Functional Image Gallery in HTML CSS &amp; JavaScript | Pexels Clone HTML CSS &amp; JavaScript
+
+KADY-DkNrhk
+Check Internet Connection in HTML CSS &amp; JavaScript | Check Offline or Online Status in JavaScript
 
 :::
 

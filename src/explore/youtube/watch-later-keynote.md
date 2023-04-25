@@ -378,6 +378,15 @@ jb7m9dL1iSI
 Loom in the Java Ecosystem - Inside Java Newscast #34
 I9hQvJO39uM
 
+diUvR6gqHVY
+Helidon - Microservices on Modern Java
+
+7n3EXy4f7dE
+tting Rid Of Unnamed Variables
+
+nS72gSoieso
+Java First. Java Always. |&nbsp;DevLive Level Up Keynote
+
 :::
 
 <!-- Java -->
@@ -521,6 +530,61 @@ ewpJ9EUAz5s
 
 Spring Tips: RSocket Messaging in Spring Boot 2.2
 BxHqeq58xrE
+
+CEe5fAVFn08
+Automated Refactoring for Spring-Based Applications with Jonathan Schneider
+
+5dpLVvRpPPs
+The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker
+
+X0EyaiEv8Zc
+The Golden Path to SpringOne: Who Should Use Kubernetes? with Whitney Lee
+
+nVk1b9XqcSM
+Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices
+
+ANXpdMipAI0
+Spring Tools 4: Introducing the all-new Spring Boot version validations
+
+t7S-PAAXxIA
+Spring Tools 4: Introducing the all-new upgrade support for Spring Boot projects
+
+taOgTj2cI5w
+End-to-End Machine and Deep Learning with MLFlow and Spring
+
+tS61BMYdOPU
+From Spring Native to Spring Boot 3
+
+tPi-q8Yze-8
+Modern Persistence with Spring Data 3
+
+oCjWhGLEIrk
+AMA on Tanzu Application Platform
+
+lsrJu1Ul_fE
+Interface Clients in Spring
+
+l4ixnX22Oiw
+Spring Framework 6: Infrastructure Themes
+
+j2JRrsc1who
+Observability of Your Application
+
+g_pqBL8_eE0
+Azure Spring Apps: The Easy Way to Run Your Apps
+
+_doNO1DbAiw
+Configuring and Extending Spring Authorization Server
+
+LeoCh7VK9cg
+Demystifying Spring Internals
+
+IY784cDq1E8
+What’s on TAP? Refining Modern Spring Application Development
+
+AzSY0UlsrWQ
+Spring Cloud Stream Past, Present, and Future
+
 
 :::
 
@@ -973,6 +1037,58 @@ ZuIQurh_kDk
 
 Go + Microservices = Go Kit \[I\] - Peter Bourgon, Go Kit
 NX0sHF8ZZgw
+
+bj8SUKUg0BQ
+The Road to Winch - Saúl Cabrera, Shopify
+
+UcxJ6tVf2dY
+From Legacy to GitOps - Gonzalo Izquierdo, Hiberus Tecnologia &amp; Manuel Hernandez, Sysdig
+
+HK4_U4Y1WHU
+AI and Observability Role in an E-Government Ecosystem - Zoltan Mathe, IdomSoft Ltd.
+
+TCsJMEJ2Udg
+Observability &amp; Monitoring in Cloud Native Telco World – Tying... Dorian Lenzner &amp; Roman Szczepanski
+
+Tn-aVLFud8k
+Lightning Talk: Does Cloud Elasticity Pay off for HPC Workloads? - Joris Cramwinckel, Ortec Finance
+
+Wgdea40obu4
+Sponsored Keynote: Redefining the Architecture for Edge-Native Apps - Saad Malik &amp; Arun Gupta
+
+dggF1-bEC-s
+SLA Aware Batch Scheduling in Apache YuniKorn with Multi-Tenant Pre... Sunil Govindan &amp; Craig Condit
+
+g4o_7gaQCZY
+Sharpen That Edge! How a Service Mesh Enhances EdgeComputeOps - Marino Wijay &amp; Kevin Dorosh, Solo.io
+
+gdncARKCEOY
+Sponsored Keynote: Sharpen Your Edge Three Ways With Kubernetes - Marilyn Basanta, VMware
+
+hT7bGNKEZk4
+Can You Keep a Secret? Securely Interacting with Edge Devices i... Adithya Jayachandran &amp; Yu Jin Kim
+
+ife__pIh73s
+Closing Remarks, Program Committee Member - Lucina Stricko, Vulk Coop
+
+lazxzpmWhbQ
+Corralling the CNFs - W. Watson, Vulk Cooperative &amp; Mary Parsons, Dish Wireless
+
+mPmzFBcQ9rQ
+Lightning Talk: How Can We Renovate Legacy Telecom Infrastructure... Hiromu Asahina &amp; Yasfumi Ogawa
+
+mu4OAD4ifeM
+Lightning Talk: Keeping the Promise of Telco-Grade Resilience for CNFs - Uma Makkara, Harness
+
+rGAm_mpMSLI
+Lightning Talk: Kubernetes on Edge for People Who Don’t Do Kubernetes - Jay DesLauriers
+
+wnI0orAsJWI
+Panel: Looking Ahead to the Future with Project Sylva, Energy Efficiency &amp; Telco Cloud Platforms
+
+znjc6UFX700
+Kubescape roadmap
+
 
 :::
 

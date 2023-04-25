@@ -7,7 +7,11 @@ tags: ["ie" ,"Internet Explorer", "win", "Windows", "Browser"]
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
 [[toc]]
+
+---
 
 ## IE창 닫기 관련
 

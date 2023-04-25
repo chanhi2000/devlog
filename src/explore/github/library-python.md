@@ -262,12 +262,15 @@ meta:
   - [🌐Official Site](https://samgeo.gishub.org)
 - [jina-ai/gptdeploy][jina-ai/gptdeploy]: One line to create them all
 - [peterw/Gumroad-Landing-Page-Generator][peterw/Gumroad-Landing-Page-Generator]
-- [OpenGVLab/Ask-Anything][OpenGVLab/Ask-Anything]: a simple yet interesting tool for chatting about video with chatGPT, miniGPT4 and StableLM
+- [OpenGVLab/Ask-Anything][OpenGVLab/Ask-Anything]: ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
   - [🌐Official Site](https://yinanhe.github.io/projects/chatvideo.html)
 - [minosvasilias/godot-dodo][minosvasilias/godot-dodo]: Finetuning large language models for GDScript generation.
 - [zhayujie/chatgpt-on-wechat][zhayujie/chatgpt-on-wechat]: Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API和itchat实现，能处理文本、语音和图片，访问操作系统和互联网。
 - [Josh-XT/Agent-LLM][Josh-XT/Agent-LLM]: An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.
   - [🌐Official Site](https://agent-llm.com)
+- [bhaskatripathi/pdfGPT][bhaskatripathi/pdfGPT]: PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
+  - [🌐Official Site](https://huggingface.co/spaces/bhaskartripathi/pdfChatter)
+
 
 
 
@@ -300,6 +303,8 @@ meta:
 - [suno-ai/bark][suno-ai/bark]: 🔊 Text-prompted Generative Audio Model
 - [Stability-AI/StableLM][Stability-AI/StableLM]: StableLM: Stability AI Language Models
 - [datawhalechina/hugging-llm][datawhalechina/hugging-llm]: HuggingLLM, Hugging Future.
+- [lupantech/chameleon-llm][lupantech/chameleon-llm]: Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
+  - [🌐Official Site](https://chameleon-llm.github.io)
 
 <!-- Jupyter Notebook -->
 
@@ -488,6 +493,7 @@ meta:
 [minosvasilias/godot-dodo]: https://github.com/minosvasilias/godot-dodo
 [zhayujie/chatgpt-on-wechat]: https://github.com/zhayujie/chatgpt-on-wechat
 [Josh-XT/Agent-LLM]: https://github.com/Josh-XT/Agent-LLM
+[bhaskatripathi/pdfGPT]: https://github.com/bhaskatripathi/pdfGPT
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -512,3 +518,4 @@ meta:
 [suno-ai/bark]: https://github.com/suno-ai/bark
 [Stability-AI/StableLM]: https://github.com/Stability-AI/StableLM
 [datawhalechina/hugging-llm]: https://github.com/datawhalechina/hugging-llm
+[lupantech/chameleon-llm]:https://github.com/lupantech/chameleon-llm

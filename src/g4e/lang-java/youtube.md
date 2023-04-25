@@ -61,6 +61,16 @@ meta:
 | ❌ | <a href="https://www.youtube.com/watch?v=-a9GtkLrXkw"><img width="140px" height="auto" alt="thumb--a9GtkLrXkw" src="https://i.ytimg.com/vi/-a9GtkLrXkw/hqdefault.jpg"/></a> | [Junior Developer Sent Me A PR For Review](https://www.youtube.com/watch?v=-a9GtkLrXkw) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=xJC7ItRoEbw"><img width="140px" height="auto" alt="thumb-xJC7ItRoEbw" src="https://i.ytimg.com/vi/xJC7ItRoEbw/hqdefault.jpg"/></a> | [N Tier Architecture Tutorial - Software Design](https://www.youtube.com/watch?v=xJC7ItRoEbw) <br/><br/> _[Amigoscode][yu-amigoscode]_ |
 
+rjDUpxtUPAE
+10 Most Common Java Developer Mistakes
+
+CT8dbbe783s
+10 Spring and Spring Boot Common Mistakes You Need To STOP
+
+dCYv5wXGHWw
+this is why your code is slow...
+
+
 :::
 
 <!-- Amigoscode -->
@@ -181,6 +191,19 @@ meta:
 | ❌ | <a href="https://www.youtube.com/watch?v=qe93HOU8jzI"><img width="140px" height="auto" alt="thumb-qe93HOU8jzI" src="https://i.ytimg.com/vi/qe93HOU8jzI/hqdefault.jpg"/></a> | [Jwt JSON Web Token Intro](https://www.youtube.com/watch?v=qe93HOU8jzI) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=wHtxsUBGdvc"><img width="140px" height="auto" alt="thumb-wHtxsUBGdvc" src="https://i.ytimg.com/vi/wHtxsUBGdvc/hqdefault.jpg"/></a> | [Docker Swarm](https://www.youtube.com/watch?v=wHtxsUBGdvc) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=YCCD3NzytDw"><img width="140px" height="auto" alt="thumb-YCCD3NzytDw" src="https://i.ytimg.com/vi/YCCD3NzytDw/hqdefault.jpg"/></a> | [Spring Boot Cloud Foundry Up And Running](https://www.youtube.com/watch?v=YCCD3NzytDw) <br/><br/> _[Mike Møller Nielsen][yu-mike-moller-nielsen]_ |
+
+EfJo0CHOxUI
+Apache Beam From Pubsub To Firestore
+
+XBq7X3arbE8
+Spring Boot Request Parameter And Arrays
+
+54CqKvmt898
+Your Screen Is Large Enough
+
+ZGahDoPqLmE
+Terraform GCS Backend
+
 
 ::::
 
@@ -431,6 +454,39 @@ meta:
 
 <!-- Reso Coder -->
 
+---
+
+## Brandan Jones
+
+[Brandan Jones][yu-discospiff]
+
+::: details 목록
+| W / NW | Thumbnail | Account / Title |
+| :---: | :---: | :--- |
+| ❌ | <a href="https://www.youtube.com/watch?v=YJWK36r8aZw"><img width="140px" height="auto" alt="thumb-YJWK36r8aZw" src="https://i.ytimg.com/vi/YJWK36r8aZw/hqdefault.jpg"/></a> | [Animation and Explanation of Factory and Command Patterns](https://www.youtube.com/watch?v=YJWK36r8aZw) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=61r-nOqEchw"><img width="140px" height="auto" alt="thumb-61r-nOqEchw" src="https://i.ytimg.com/vi/61r-nOqEchw/hqdefault.jpg"/></a> | [Use Design Patterns and SOLID to program without if tests](https://www.youtube.com/watch?v=61r-nOqEchw) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=otQk8TSgtoE"><img width="140px" height="auto" alt="thumb-otQk8TSgtoE" src="https://i.ytimg.com/vi/otQk8TSgtoE/hqdefault.jpg"/></a> | [Interfaces and SOLID principles](https://www.youtube.com/watch?v=otQk8TSgtoE) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=HO6m8JpA0ro"><img width="140px" height="auto" alt="thumb-HO6m8JpA0ro" src="https://i.ytimg.com/vi/HO6m8JpA0ro/hqdefault.jpg"/></a> | [JUnit Annotations and Asserts Overview](https://www.youtube.com/watch?v=HO6m8JpA0ro) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XFhB-Tp9LOc"><img width="140px" height="auto" alt="thumb-XFhB-Tp9LOc" src="https://i.ytimg.com/vi/XFhB-Tp9LOc/hqdefault.jpg"/></a> | [Implement Room Database to store RESTFul JSON Data locally](https://www.youtube.com/watch?v=XFhB-Tp9LOc) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tLuHDcBBiz0"><img width="140px" height="auto" alt="thumb-tLuHDcBBiz0" src="https://i.ytimg.com/vi/tLuHDcBBiz0/hqdefault.jpg"/></a> | [Integrate Google Map with Jetpack Compose and LiveData](https://www.youtube.com/watch?v=tLuHDcBBiz0) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=nw35zroX3AQ"><img width="140px" height="auto" alt="thumb-nw35zroX3AQ" src="https://i.ytimg.com/vi/nw35zroX3AQ/hqdefault.jpg"/></a> | [Preview Light and Dark Mode in IDE in Jetpack Compose with @Preview](https://www.youtube.com/watch?v=nw35zroX3AQ) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Mv_yqVK_1ak"><img width="140px" height="auto" alt="thumb-Mv_yqVK_1ak" src="https://i.ytimg.com/vi/Mv_yqVK_1ak/hqdefault.jpg"/></a> | [Test Driven Design and BDD: Hands on example in IntelliJ IDEA](https://www.youtube.com/watch?v=Mv_yqVK_1ak) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=Ioin0sG3b9U"><img width="140px" height="auto" alt="thumb-Ioin0sG3b9U" src="https://i.ytimg.com/vi/Ioin0sG3b9U/hqdefault.jpg"></a> | [Implementing a Power Broadcast Receiver in Android Kotlin](https://www.youtube.com/watch?v=Ioin0sG3b9U) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=8SSHZ50NFJk"><img width="140px" height="auto" alt="thumb-8SSHZ50NFJk" src="https://i.ytimg.com/vi/8SSHZ50NFJk/hqdefault.jpg"></a> | [Sprint Overview: Maps, Broadcast Receiver, Notifications](https://www.youtube.com/watch?v=8SSHZ50NFJk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tVzV4UbD7gk"><img width="140px" height="auto" alt="thumb-tVzV4UbD7gk" src="https://i.ytimg.com/vi/tVzV4UbD7gk/hqdefault.jpg"></a> | [Implement Room Database with Live Data in Android Kotlin](https://www.youtube.com/watch?v=tVzV4UbD7gk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=CuP1elpCuEA"><img width="140px" height="auto" alt="thumb-CuP1elpCuEA" src="https://i.ytimg.com/vi/CuP1elpCuEA/hqdefault.jpg"></a> | [Cloud Firestore with MVVM in Android Q Kotlin: Overview and Example](https://www.youtube.com/watch?v=CuP1elpCuEA) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=J7_4WrImJPk"><img width="140px" height="auto" alt="thumb-J7_4WrImJPk" src="https://i.ytimg.com/vi/J7_4WrImJPk/hqdefault.jpg"></a> | [Use verify in MockK to validate function calls on mocked object](https://www.youtube.com/watch?v=J7_4WrImJPk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vO9TM9qF0iE"><img width="140px" height="auto" alt="thumb-vO9TM9qF0iE" src="https://i.ytimg.com/vi/vO9TM9qF0iE/hqdefault.jpg"></a> | [Use Retrofit to parse JSON in Live Data, Kotlin, Integration Test](https://www.youtube.com/watch?v=vO9TM9qF0iE) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=11iGyrvBhzc"><img width="140px" height="auto" alt="thumb-11iGyrvBhzc" src="https://i.ytimg.com/vi/11iGyrvBhzc/hqdefault.jpg"></a> | [Create a simple web service client with WSDL in Eclipse](https://www.youtube.com/watch?v=11iGyrvBhzc) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=8JJGGdMZPTk"><img width="140px" height="auto" alt="thumb-8JJGGdMZPTk" src="https://i.ytimg.com/vi/8JJGGdMZPTk/hqdefault.jpg"></a> | [Firebase Authentication with Email in Android: Example](https://www.youtube.com/watch?v=8JJGGdMZPTk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ILavD8sE-ZU"><img width="140px" height="auto" alt="thumb-ILavD8sE-ZU" src="https://i.ytimg.com/vi/ILavD8sE-ZU/hqdefault.jpg"></a> | [Recursion: Palindromes demonstrated in IntelliJ IDEA Debugger](https://www.youtube.com/watch?v=ILavD8sE-ZU) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
+
+T_lWpqOWaE0
+Set up Logging with Log4j2 in Java and IntelliJ IDEA
+
+:::
+
+
 <TagLinks />
 
 
@@ -446,3 +502,4 @@ meta:
 [yu-ram-n-java]: https://www.youtube.com/@RamNJava
 [yu-user-jn1ly6wf9q]: https://www.youtube.com/@user-jn1ly6wf9q
 [yu-reso-coder]: https://www.youtube.com/@ResoCoder
+[yu-discospiff]: https://www.youtube.com/@discospiff

@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: 👓Windows > Environment Setup
+title: Environment Setup
 description: 👓Windows > Environment Setup
 tags: ["bat", "pwsh", "win-run", "oh-my-pwsh", "chocolatey", "windows-terminal", "cmd", "powershell", "ps1", "scoop", "pacman", "jdk", "jdk7", "temurin", "temurin11", "docker", "neofetch"]
 ---
@@ -22,13 +22,11 @@ tags: ["bat", "pwsh", "win-run", "oh-my-pwsh", "chocolatey", "windows-terminal",
 First, ensure that you are using an __administrative__ shell
 :::
 
-- `pwsh`
-    - <kbd>win</kbd> + <kbd>r</kbd> 입력
-    - 창에 `powershell`입력 후 <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>enter</kbd> 눌러 실행 
-
-
 ### B2. 👨‍🏫Guide
-Copy and Paste the following to the Powershell Prompt 
+
+- <kbd>win</kbd> + <kbd>r</kbd> 입력
+- 창에 `powershell`입력 후 <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>enter</kbd> 눌러 실행
+- Copy and Paste the following to the Powershell Prompt
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
@@ -65,14 +63,11 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
 ::: warning 📝WARNING
 First, ensure that you are using an __administrative__ shell
 :::
-
-- `pwsh` (`v5.1` or later)
-    - <kbd>win</kbd> + <kbd>r</kbd> 입력
-    - 창에 `powershell`입력 후 <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>enter</kbd> 눌러 실행 
-
-
 ### C2. 👨‍🏫Guide
-Copy and Paste the following to the Powershell Prompt 
+
+- <kbd>win</kbd> + <kbd>r</kbd> 입력
+- 창에 `powershell`입력 후 <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>enter</kbd> 눌러 실행
+- Copy and Paste the following to the Powershell Prompt
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -99,7 +94,8 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
 ## D. Alias 지정 관련
 
 ### D1. 🧰Prerequesite(s)
-- `alias.cmd`파일을 만들어 관련 Alias 지정
+
+- `alias.cmd` 파일을 만들어 관련 Alias 지정
 
 ::: tip NOTE
 [🌐chanhi2000/chan-alias](https://github.com/chanhi2000/chan-alias) 참조

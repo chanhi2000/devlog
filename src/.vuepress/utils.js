@@ -32,12 +32,21 @@ function getDocsNavBar(item) {
               'youtube/edu-c+cpp',
             ]
           }, {
+            title: '🥁Crashcourse',
+            children: [
+              'crashcourse/',
+              'crashcourse/paul-hudson-100-days-of-swift',
+              'crashcourse/paul-hudson-100-days-of-swiftui',
+              'crashcourse/paul-hudson-swiftui-by-example',
+              'crashcourse/kodeco-kotlin-android',
+            ]
+          }, {
             title: '🎓Tutorial',
             children: [
               'tutorial/',
               'tutorial/list',
             ]
-          }, {
+          },{
             title: '🧭Public API',
             children: [
               'api/',
@@ -69,7 +78,7 @@ function getDocsNavBar(item) {
               'portfolio/',
             ],
           }, {
-            title: '🎓TIL',
+            title: '🎈TIL',
             children: [
               'til/',
             ],
@@ -150,9 +159,10 @@ function getDocsNavBar(item) {
             children: [
               'lang-js/',
               'lang-js/node-dependencies',
-              'lang-js/node-sandbox',
-              'lang-js/node-cordova',
+              'lang-js/cordova',
+              'lang-js/node-sandbox',              
               'lang-js/mermaid-example',
+              'lang-js/youtube',
             ]
           }, {
             title: '🐍Python',
@@ -167,6 +177,13 @@ function getDocsNavBar(item) {
               'lang-css/',
               'lang-css/references',
               'lang-css/youtube',
+            ]
+          }, {
+            title: '🦀Rust',
+            children: [
+              'lang-rust/',
+              'lang-rust/references',
+              'lang-rust/youtube',
             ]
           }, {
             title: '♯CSharp',
@@ -186,14 +203,21 @@ function getDocsNavBar(item) {
               'devops-git/references',
             ]
           }, {
-            title: '🧠OS',
+            title: '🧠Linux',
             children: [
               'devops-os/',
               'devops-os/macos-env-setup',
               'devops-os/macos-useful-commands',
-              'devops-os/win-env-setup',
-              'devops-os/win-useful-tips',
               'devops-os/debian-env-setup',
+            ]
+          }, {
+            title: '👓Windows',
+            children: [
+              'devops-os-win/',
+              'devops-os-win/env-setup',
+              'devops-os-win/ie',
+              'devops-os-win/useful-tips',
+              'devops-os-win/youtube',
             ]
           }, {
             title: '👽oVirt',

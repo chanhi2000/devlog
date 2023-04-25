@@ -62,7 +62,7 @@ module.exports = {
               },
             ],
           }, {
-            text: '🎓TIL',
+            text: '🎈TIL',
             items: [
               {
                 text: 'Intro',

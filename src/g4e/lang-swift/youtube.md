@@ -60,6 +60,23 @@ tags: ["education", "youtube", "ios", "swift"]
 | ❌ | <a href="https://www.youtube.com/watch?v=XR-fH4sorGY"><img width="140px" height="auto" alt="thumb-XR-fH4sorGY" src="https://i.ytimg.com/vi/XR-fH4sorGY/hqdefault.jpg"/></a> | [Better Optionals Usage – Swift Tip (iOS) – 2023](https://www.youtube.com/watch?v=XR-fH4sorGY) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=EZ5iqtjXGBE"><img width="140px" height="auto" alt="thumb-EZ5iqtjXGBE" src="https://i.ytimg.com/vi/EZ5iqtjXGBE/hqdefault.jpg"/></a> | [Factory Design Pattern in Swift &amp; iOS (2023)](https://www.youtube.com/watch?v=EZ5iqtjXGBE) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
 
+Z-wSODAyiwo
+iOS App Design – Forced App Themes (Swift)
+
+fTGA8cjbf5Y
+Build iOS App Full Course | Rick &amp; Morty App | 2023 | Swift
+
+gk3UBsrNUvI
+Build FULL iOS App in Swift: Part 56 (Rick &amp; Morty | 2023) – iPad &amp; Mac Layouts
+
+WIam7qc1Hxc
+XCConfig Files Explained (Xcode Build Settings) – 2023
+
+yaQDed7lngQ
+Improve Xcode Build Speed By 10x (iOS Tips)
+
+4DXVn38Jaho
+Build FULL iOS App in Swift: Part 53 (Rick &amp; Morty | 2023) – Location Search Pagination
 
 :::
 
@@ -140,6 +157,18 @@ tags: ["education", "youtube", "ios", "swift"]
 | ❌ | <a href="https://www.youtube.com/watch?v=4zyuGXTyZ80"><img width="140px" height="auto" alt="thumb-4zyuGXTyZ80" src="https://i.ytimg.com/vi/4zyuGXTyZ80/hqdefault.jpg"/></a> | [Animated Custom Tab Bar - PlayStation App's Tabbar Using SwiftUI - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=4zyuGXTyZ80) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ZiDVbDlHDF0"><img width="140px" height="auto" alt="thumb-ZiDVbDlHDF0" src="https://i.ytimg.com/vi/ZiDVbDlHDF0/hqdefault.jpg"/></a> | [SwiftUI Snap Interval Carousel - Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=ZiDVbDlHDF0) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=_TqEG3bAaeg"><img width="140px" height="auto" alt="thumb-_TqEG3bAaeg" src="https://i.ytimg.com/vi/_TqEG3bAaeg/hqdefault.jpg"/></a> | [SwiftUI: Drop Down Picker - Micro Interactions - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=_TqEG3bAaeg) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
+
+T7Ph17f9eeo
+SwiftUI Credit/Debit Card Input Form - FocusState - Move to Next TextField - SwiftUI Tutorials
+
+9Ztm5ePwY4k
+SwiftUI App Intro Animation's - Walkthrough Page Animation's - OnBoarding Screen's - Login Page UI
+
+Yg2wh9uJ9Fk
+SwiftUI Infinite Carousel - Infinite Page Tab View - SwiftUI Tutorials - Xcode 14
+
+eV9ybRJpuB8
+SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 
 :::
 

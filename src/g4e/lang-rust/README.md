@@ -1,8 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🎈TIL
-tags: ["til", "today-i-leanred"]
+description: 🦀Rust
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,4 +10,6 @@ tags: ["til", "today-i-leanred"]
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-{{ $frontmatter.description }} 관련 정리내용
+![shield-rust][shield-rust]
+
+[shield-rust]: https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square

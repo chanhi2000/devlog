@@ -86,6 +86,7 @@ tags: ["git" , "github" , "rust" , "rst"]
 - [copy/v86][copy/v86]: x86 virtualization in your browser, recompiling x86 to wasm on the fly
   - [🌐Official Site](https://copy.sh/v86)
 - [a16z/magi][a16z/magi]: A blazing fast OP Stack rollup client written in Rust
+- [mitsuhiko/rye][mitsuhiko/rye]: an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 
 <TagLinks />
 
@@ -134,3 +135,4 @@ tags: ["git" , "github" , "rust" , "rst"]
 [ArroyoSystems/arroyo]: https://github.com/ArroyoSystems/arroyo
 [copy/v86]: https://github.com/copy/v86
 [a16z/magi]: https://github.com/a16z/magi
+[mitsuhiko/rye]: https://github.com/mitsuhiko/rye

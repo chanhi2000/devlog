@@ -12,7 +12,7 @@ tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credenti
 [[toc]]
 
 ---
-## Github으로 Push 오류
+## 💀Github으로 Push 오류
 
 ```
 remote: Support for password authentication was removed on August 13, 2021.

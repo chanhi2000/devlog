@@ -267,6 +267,132 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 | ❌ | <a href="https://www.youtube.com/watch?v=m8Icp_Cid5o"><img width="140px" height="auto" alt="thumb-m8Icp_Cid5o" src="https://i.ytimg.com/vi/m8Icp_Cid5o/hqdefault.jpg"/></a> | [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=d6WC5n9G_sM"><img width="140px" height="auto" alt="thumb-d6WC5n9G_sM" src="https://i.ytimg.com/vi/d6WC5n9G_sM/hqdefault.jpg"/></a> | [Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)](https://www.youtube.com/watch?v=d6WC5n9G_sM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 
+nDGA3km5He4
+React Router 6 – Full Course
+
+VX4wl7qIcbA
+SQL Database App with Windows GUI – Project Tutorial
+
+qH9mWpYMtYU
+Build a Java Desktop Application - Full Course (Sudoku)
+
+tbqVqP5ilzQ
+JavaScript Interview Prep: Functions, Closures, Currying
+
+uRQH2CFvedY
+ChatGPT Course – Use The OpenAI API to Code 5 Projects
+
+S8lMTwSRoRg
+Godot Game Development – Crash Course for Beginners
+
+Ej_02ICOIgs
+Object Oriented Programming with Python - Full Course for Beginners
+
+vDDjtwQDw2k
+No Black Box Machine Learning Course – Learn Without Libraries
+
+HimR8Xtz17U
+Build a LinkedIn Clone with React and Firebase – Tutorial
+
+UFD4SP91tSM
+Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript
+
+tK9Oc6AEnR4
+Bash Scripting Tutorial for Beginners
+
+5l2qA3Pc83M
+Advanced C# – LINQ Tutorial
+
+obH0Po_RdWk
+React Native Course – Android and iOS App Development
+
+OcTPaUfay5I
+Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript
+
+2-crBg6wpp0
+Learn React 18 with Redux Toolkit – Full Tutorial for Beginners
+
+MsnQ5uepIaE
+Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)
+
+lFo3Yy8Ro7w
+Learn Minimal APIs in .NET 7
+
+D6Xj_W4leu8
+Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course
+
+BUjdnxgBgzM
+Music Production with FL Studio – Full Tutorial for Beginners
+
+ydOTMQC7np0
+LaTeX –&nbsp;Full Tutorial for Beginners
+
+1qw5ITr3k9E
+Software Engineering Job Interview – Full Mock Interview
+
+njLEDvoDjtk
+Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod
+
+GDGejH3SDNQ
+HTML &amp; Coding Introduction – Course for Beginners
+
+IyBhFma4H1A
+React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP
+
+kTp5xUtcalw
+Docker Containers and Kubernetes Fundamentals – Full Hands-On Course
+
+vufTSJbzKGU
+Python Reinforcement Learning using Gymnasium – Full Course
+
+6gLeplbqtqg
+Python Platformer Game Tutorial for Beginners
+
+VAeRhmpcWEQ
+Learn Vite – Frontend Build Tool Course
+
+t10QcFx7d5k
+Django Project – Code a CRM App Tutorial
+
+lFo3Yy8Ro7w
+Learn Minimal APIs in .NET 7
+
+D6Xj_W4leu8
+Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course
+
+BUjdnxgBgzM
+Music Production with FL Studio – Full Tutorial for Beginners
+
+ydOTMQC7np0
+LaTeX –&nbsp;Full Tutorial for Beginners
+
+1qw5ITr3k9E
+Software Engineering Job Interview – Full Mock Interview
+
+njLEDvoDjtk
+Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod
+
+GDGejH3SDNQ
+HTML &amp; Coding Introduction – Course for Beginners
+
+IyBhFma4H1A
+React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP
+
+kTp5xUtcalw
+Docker Containers and Kubernetes Fundamentals – Full Hands-On Course
+
+vufTSJbzKGU
+Python Reinforcement Learning using Gymnasium – Full Course
+
+6gLeplbqtqg
+Python Platformer Game Tutorial for Beginners
+
+VAeRhmpcWEQ
+Learn Vite – Frontend Build Tool Course
+
+t10QcFx7d5k
+Django Project – Code a CRM App Tutorial
+
 :::
 
 
@@ -376,6 +502,13 @@ uO6igFsa5y0
 React JS Full Course For Beginners 2022 | Learn ReactJS In 5 Hours | React JS Tutorial | Simplilearn
 ubnpGkSHZ-0
 
+🔥Become a DevOps Expert In 10 Hours | DevOps Tutorial For Beginners | DevOps | 2023 | Simplilearn
+8Cz5Fj9rnoI
+
+DevOps Testing Tutorial | DevOps Testing Tools For Beginners | DevOps Tutorial 2023 | Simplilearn
+-IvYJrVtU4Q
+
+
 :::
 
 <!-- Simplilearn -->
@@ -449,6 +582,48 @@ ubnpGkSHZ-0
 | ❌ | <a href="https://www.youtube.com/watch?v=wJjyZTPgwek"><img width="140px" height="auto" alt="thumb-wJjyZTPgwek" src="https://i.ytimg.com/vi/wJjyZTPgwek/hqdefault.jpg"></a> | [Linux Tutorial - Master The Command Line (2023)](https://www.youtube.com/watch?v=wJjyZTPgwek) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=F8LplPNfax8"><img width="140px" height="auto" alt="thumb-F8LplPNfax8" src="https://i.ytimg.com/vi/F8LplPNfax8/hqdefault.jpg"></a> | [Docker Tutorial](https://www.youtube.com/watch?v=F8LplPNfax8) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
 
+hTlU3byU-rI
+How To Install Matplotlib In PyCharm (2023)
+
+5_EA3rBCXmU
+How to Install Docker Desktop on Ubuntu 22.04 LTE Linux
+
+NJYcRcqPyOw
+Debugging C Program with Visual Studio Code (VSCode)
+
+6KQ_h0XBmxk
+How to Debug Your Python Code with the Python Debugger (pdb)
+
+DfVsXMkv8cA
+How To Install OpenCV in PyCharm (2023)
+
+yG9kmBQAtW4
+Set Up Python Virtual Environment In Visual Studio Code (VS Code) | VSCode activate venv (2023)
+
+4-_3obNgNKM
+How to Run C in Visual Studio Code on Windows 11 (2023)
+
+KUECJHlV1LE
+How to “Dockerize” Your Python Applications | How To Build And Run A Python App In Docker Container
+
+IZCwawKILsk
+Setup IntelliJ IDEA for JavaFX &amp; SceneBuilder and Create Your First JavaFX Application  (2023)
+
+c3dIEGXLgC4
+Maven - How to integrate Apache Tomcat in IntelliJ IDEA and deploy a WAR file
+
+Kawn6HK47Ag
+How to Check file integrity using Shell Scripts in Linux
+
+MKS6EaZxgLo
+How to Cloning GitHub repo using using Shell Scripts in Linux
+
+pd6FtTmVG6E
+How to Use Nmap Script Engine (NSE) Shell Scripts in Linux
+
+fowG6TmS3B8
+Nested Functions Shell Scripts In Linux
+
 :::
 
 <!-- ProgrammingKnowledge -->
@@ -479,46 +654,7 @@ ubnpGkSHZ-0
 
 :::
 
-
 <!-- Derek Banas -->
-
----
-## Kevin Powell
-
-[Kevin Powell][yu-kevin-powell]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=ctHE8EXEoj8"><img width="140px" height="auto" alt="thumb-ctHE8EXEoj8" src="https://i.ytimg.com/vi/ctHE8EXEoj8/hqdefault.jpg"/></a> | [Why I use grid over flexbox for this common layout](https://www.youtube.com/watch?v=ctHE8EXEoj8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jx4FtPlDXJg"><img width="140px" height="auto" alt="thumb-jx4FtPlDXJg" src="https://i.ytimg.com/vi/jx4FtPlDXJg/hqdefault.jpg"/></a> | [The thing people get wrong about flex-basis](https://www.youtube.com/watch?v=jx4FtPlDXJg) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vHuSz4fRM88"><img width="140px" height="auto" alt="thumb-vHuSz4fRM88" src="https://i.ytimg.com/vi/vHuSz4fRM88/hqdefault.jpg"/></a> | [The secret to mastering CSS layouts](https://www.youtube.com/watch?v=vHuSz4fRM88) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=A0J-hB3kSQ4"><img width="140px" height="auto" alt="thumb-A0J-hB3kSQ4" src="https://i.ytimg.com/vi/A0J-hB3kSQ4/hqdefault.jpg"/></a> | [Can you beat me at a CSS Battle?](https://www.youtube.com/watch?v=A0J-hB3kSQ4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=I4gUvhG7uFU"><img width="140px" height="auto" alt="thumb-I4gUvhG7uFU" src="https://i.ytimg.com/vi/I4gUvhG7uFU/hqdefault.jpg"/></a> | [The problem with percentages in CSS](https://www.youtube.com/watch?v=I4gUvhG7uFU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ii-lSK2_Nu4"><img width="140px" height="auto" alt="thumb-ii-lSK2_Nu4" src="https://i.ytimg.com/vi/ii-lSK2_Nu4/hqdefault.jpg"/></a> | [The `console.log()` of css](https://www.youtube.com/watch?v=ii-lSK2_Nu4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sI9p5EswxdQ"><img width="140px" height="auto" alt="thumb-sI9p5EswxdQ" src="https://i.ytimg.com/vi/sI9p5EswxdQ/hqdefault.jpg"/></a> | [How is this possible with only HTML &amp; CSS? \| Reacting to CSS-only art](https://www.youtube.com/watch?v=sI9p5EswxdQ) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6Nv0weHy7t0"><img width="140px" height="auto" alt="thumb-6Nv0weHy7t0" src="https://i.ytimg.com/vi/6Nv0weHy7t0/hqdefault.jpg"/></a> | [4 ways to deal with overflowing text](https://www.youtube.com/watch?v=6Nv0weHy7t0) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rg7Fvvl3taU"><img width="140px" height="auto" alt="thumb-rg7Fvvl3taU" src="https://i.ytimg.com/vi/rg7Fvvl3taU/hqdefault.jpg"/></a> | [Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CG__N4SS1Fc"><img width="140px" height="auto" alt="thumb-CG__N4SS1Fc" src="https://i.ytimg.com/vi/CG__N4SS1Fc/hqdefault.jpg"/></a> | [Front-end dev reacts to amazing CSS-only Codepens](https://www.youtube.com/watch?v=CG__N4SS1Fc) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2B5rbsOoIUE"><img width="140px" height="auto" alt="thumb-2B5rbsOoIUE" src="https://i.ytimg.com/vi/2B5rbsOoIUE/hqdefault.jpg"/></a> | [Front-end dev reacts to mind-blowing Codepens](https://www.youtube.com/watch?v=2B5rbsOoIUE) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vncch9-1kPE"><img width="140px" height="auto" alt="thumb-vncch9-1kPE" src="https://i.ytimg.com/vi/vncch9-1kPE/hqdefault.jpg"/></a> | [You can use Emmet with CSS!](https://www.youtube.com/watch?v=vncch9-1kPE) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vQAvjof1oe4"><img width="140px" height="auto" alt="thumb-vQAvjof1oe4" src="https://i.ytimg.com/vi/vQAvjof1oe4/hqdefault.jpg"/></a> | [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PMGCOVfK-8s"><img width="140px" height="auto" alt="thumb-PMGCOVfK-8s" src="https://i.ytimg.com/vi/PMGCOVfK-8s/hqdefault.jpg"/></a> | [Create a pulsing animation with CSS](https://www.youtube.com/watch?v=PMGCOVfK-8s) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bB14uo0Tu5A"><img width="140px" height="auto" alt="thumb-bB14uo0Tu5A" src="https://i.ytimg.com/vi/bB14uo0Tu5A/hqdefault.jpg"/></a> | [Custom select menu - CSS only](https://www.youtube.com/watch?v=bB14uo0Tu5A) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=dgbFtMBOMlA"><img width="140px" height="auto" alt="thumb-dgbFtMBOMlA" src="https://i.ytimg.com/vi/dgbFtMBOMlA/hqdefault.jpg"/></a> | [The `ch` unit is the most underappreciated CSS unit](https://www.youtube.com/watch?v=dgbFtMBOMlA) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U9VF-4euyRo"><img width="140px" height="auto" alt="thumb-U9VF-4euyRo" src="https://i.ytimg.com/vi/U9VF-4euyRo/hqdefault.jpg"/></a> | [`min()`, `max()`, and `clamp()` are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_kF3k0vDMNA"><img width="140px" height="auto" alt="thumb-_kF3k0vDMNA" src="https://i.ytimg.com/vi/_kF3k0vDMNA/hqdefault.jpg"/></a> | [Turning a design from desktop only to mobile friendly](https://www.youtube.com/watch?v=_kF3k0vDMNA) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9tEixRJ3GeI"><img width="140px" height="auto" alt="thumb-9tEixRJ3GeI" src="https://i.ytimg.com/vi/9tEixRJ3GeI/hqdefault.jpg"/></a> | [Dealing with Cross Browser Compatibility](https://www.youtube.com/watch?v=9tEixRJ3GeI) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wPI8CEoheSk"><img width="140px" height="auto" alt="thumb-wPI8CEoheSk" src="https://i.ytimg.com/vi/wPI8CEoheSk/hqdefault.jpg"/></a> | [Using Feature Queries to use new CSS responsibly \(and when you don't need them\)](https://www.youtube.com/watch?v=wPI8CEoheSk) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wPI8CEoheSk"><img width="140px" height="auto" alt="thumb-wPI8CEoheSk" src="https://i.ytimg.com/vi/wPI8CEoheSk/hqdefault.jpg"></a> | [Using Feature Queries to use new CSS responsibly \(and when you don't need them\)](https://www.youtube.com/watch?v=wPI8CEoheSk) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MNNr7TU7XcU"><img width="140px" height="auto" alt="thumb-MNNr7TU7XcU" src="https://i.ytimg.com/vi/MNNr7TU7XcU/hqdefault.jpg"></a> | [Smooth scrolling with one line of CSS](https://www.youtube.com/watch?v=MNNr7TU7XcU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KqFAs5d3Yl8"><img width="140px" height="auto" alt="thumb-KqFAs5d3Yl8" src="https://i.ytimg.com/vi/KqFAs5d3Yl8/hqdefault.jpg"></a> | [From Design to Code // HTML &amp; CSS from scratch // Frontend Mentor](https://www.youtube.com/watch?v=KqFAs5d3Yl8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=veEqYQlfNx8"><img width="140px" height="auto" alt="thumb-veEqYQlfNx8" src="https://i.ytimg.com/vi/veEqYQlfNx8/hqdefault.jpg"></a> | [The problems with viewport units](https://www.youtube.com/watch?v=veEqYQlfNx8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=I4gUvhG7uFU"><img width="140px" height="auto" alt="thumb-I4gUvhG7uFU" src="https://i.ytimg.com/vi/I4gUvhG7uFU/hqdefault.jpg"></a> | [The problem with percentages in CSS](https://www.youtube.com/watch?v=I4gUvhG7uFU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-
-:::
-
-<!-- Kevin Powell -->
 
 ---
 ## DEvS
@@ -619,7 +755,6 @@ e5lIMEm7UPg
 [yu-simplilearn]: https://www.youtube.com/@SimplilearnOfficial
 [yu-DEvS]: https://www.youtube.com/@jimmykimu
 [yu-fenrir]: https://www.youtube.com/@KERBEROSJOO
-[yu-kevin-powell]: https://www.youtube.com/watch?v=u0HTvSXNJmE&list=WL&index=41
 [yu-derek-banas]: https://www.youtube.com/@derekbanas
 [yu-omer-java]: https://www.youtube.com/@omerjava
 [yu-inflearn]: https://www.youtube.com/@inflearn9845

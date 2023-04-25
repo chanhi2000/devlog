@@ -106,6 +106,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [prometheus/prometheus][prometheus/prometheus]: The Prometheus monitoring system and time series database.
   - [🌐Official Site](https://prometheus.io)
 - [devfullcycle/fclx][devfullcycle/fclx]
+- [go-skynet/LocalAI][go-skynet/LocalAI]: 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
+- [berachain/polaris][berachain/polaris]: Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
+  - [🌐Official Site](https://polaris.berachain.dev)
+
+
 
 ---
 
@@ -156,6 +161,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://masstransit.io)
 - [2dust/v2rayN][2dust/v2rayN]: A GUI client for Windows, support Xray core and v2fly core and others
   - [🌐Official Site](https://1.2345345.xyz)
+- [btcpayserver/btcpayserver][btcpayserver/btcpayserver]: Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
+  - [🌐Official Site](https://btcpayserver.org)
+
+
 
 <!-- C# -->
 
@@ -353,6 +362,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [synercys/annotated_latex_equations][synercys/annotated_latex_equations]: Examples of how to create colorful, annotated equations in Latex using Tikz.
 
 
+---
+
+## Odin
+
+- [odin-lang/Odin][odin-lang/Odin]: Odin Programming Language
+  - [🌐Official Site](https://odin-lang.org)
+
 
 ---
 
@@ -467,6 +483,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [FerretDB/FerretDB]: https://github.com/FerretDB/FerretDB
 [prometheus/prometheus]: https://github.com/prometheus/prometheus
 [devfullcycle/fclx]: https://github.com/devfullcycle/fclx
+[go-skynet/LocalAI]: https://github.com/go-skynet/LocalAI
+[berachain/polaris]: https://github.com/berachain/polaris
 <!-- Scala -->
 [OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
 [twitter/the-algorithm]: https://github.com/twitter/the-algorithm
@@ -494,6 +512,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [mivano/azure-cost-cli]: https://github.com/mivano/azure-cost-cli
 [MassTransit/MassTransit]: https://github.com/MassTransit/MassTransit
 [2dust/v2rayN]: https://github.com/2dust/v2rayN
+[btcpayserver/btcpayserver]: https://github.com/btcpayserver/btcpayserver
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 <!-- PHP -->
@@ -601,6 +620,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 [paulgp/applied-methods-phd]: https://github.com/paulgp/applied-methods-phd
 [synercys/annotated_latex_equations]: https://github.com/synercys/annotated_latex_equations
+<!-- Odin -->
+[odin-lang/Odin]: https://github.com/odin-lang/Odin
 <!-- V -->
 [vlang/v]: https://github.com/vlang/v
 <!-- Zig -->
