@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Tutorial
-description: Github > Tutorial
+description: 🕶️Github > Tutorial
 tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "android", "swift", "javascript"]
 ---
 

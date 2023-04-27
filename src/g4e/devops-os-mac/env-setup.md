@@ -1,27 +1,33 @@
 ---
 lang: ko-KR
-title: 🖥️macOS > Environment Setup
-description: 🖥️macOS > Environment Setup
+title: 🧰Environment Setup
+description: 🖥️macOS > 🧰Environment Setup
 tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "homebrew", "pacman", "starship", "dracula", "dracula-theme", "draculatheme", "jdk", "jdk11", "temurin", "temurin11", "docker", "neofetch"]
 ---
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
 [[toc]]
 
 ---
+
 ## A. Homebrew
 
-### A1. 🧰Prerequesite(s)
+### A1. Prerequesite(s)
+
 - `terminal`
 
-### A2. 👨‍🏫Guide
+### A2. Guide
+
 Copy and Paste the following to the Terminal Prompt
 
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-### A3. 🛠️Configure
+
+### A3. Configure
 
 Copy and Paste the following to the Terminal Prompt
 
@@ -48,14 +54,15 @@ brew install --cask airflow alt-tab appcleaner cheatsheet  \
 ```
 
 ---
+
 ## B. Apps from App Store
 
-### B1. 🧰Prerequesite(s)
+### B1. Prerequesite(s)
 
 - `App Store`
 - `mas`
 
-### B2. 👨‍🏫Guide
+### B2. Guide
 
 Install the following(s)
 
@@ -81,13 +88,16 @@ mas install 497799835 \
 ```
 
 ---
+
 ## C. Oh-My-Zsh
 
-### C1. 🧰Prerequesite(s)
+### C1. Prerequesite(s)
+
 - `terminal`
 - `zsh`
 
-### C2. 👨‍🏫Guide
+### C2. Guide
+
 Copy and Paste the following to the Terminal Prompt
 
 ```shell
@@ -103,7 +113,7 @@ curl -sS https://starship.rs/install.sh | sh;
 mkdir -p ~/.config && touch ~/.config/starship.toml;
 ```
 
-### C3. 🛠️Configure
+### C3. Configure
 
 #### C3-i. `~/.zshrc`
 
@@ -248,12 +258,11 @@ style = "bold yellow"
 discharging_symbol = "💦"
 ```
 
-
-
 ---
+
 ## E. Last Setup
 
-### 🛠️Configure
+### Configure
 
 ```shell
 ### Disable Animation ###
@@ -323,82 +332,5 @@ killall dock;
 defaults write com.apple.screencapture location ~/../Shared/Screenshots;
 killall SystemUIServer;
 ```
-
-
-
----
-## F. Dracula Theme
-
-### F1. Terminal.app
-
-<a href="https://draculatheme.com/terminal">
-  <img width="30%" height="auto" alt="dracula-terminal-app" src="https://draculatheme.com/static/icons/used/pack-1/035-cauldron.svg" />
-</a>
-
-Copy and Paste the following to the Terminal Prompt
-
-```shell
-git clone https://github.com/dracula/terminal-app.git
-```
-- _Terminal_ > _Settings_ Tab
-- Click "_Gear_" icon
-- Click _Import..._
-- Select the `Dracula.terminal` file
-- Click Default
-
-### F2. zsh
-
-<a href="https://draculatheme.com/zsh">
-  <img width="30%" height="auto" alt="dracula-zsh" src="https://draculatheme.com/static/icons/used/pack-1/034-eye.svg" />
-</a>
-
-Copy and Paste the following to the Terminal Prompt
-```shell
-git clone https://github.com/dracula/zsh.git
-```
-
-And creating a symbolic link to `oh-my-zsh`'s theme folder:
-
-```shell
-ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
-```
-
-### F3. Visual Studio Code
-
-<a href="https://draculatheme.com/visual-studio-code">
-  <img width="30%" height="auto" alt="dracula-visual-studio-code" src="https://draculatheme.com/static/icons/used/pack-1/048-frankenstein.svg" />
-</a>
-
-1. Go to _View_ -> _Command Palette_ or press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-2. Then enter `Install Extension`
-3. Write `Dracula Official`
-4. Select it or press <kbd>Enter</kbd> to install
-
-### F4. Sublime Text
-
-<a href="https://draculatheme.com/sublime">
-  <img width="30%" height="auto" alt="dracula-sublime" src="https://draculatheme.com/static/icons/used/pack-1/044-spider-web.svg" />
-</a>
-
-If you are using `Package Control`, you can easily install Dracula Theme via the `Package Control: Install Package` menu item. The Dracula Theme package is listed as `Dracula Color Scheme` in the packages list.
-
-### F5. Jetbrains
-
-<a href="https://draculatheme.com/jetbrains">
-  <img width="30%" height="auto" alt="dracula-jetbrains" src="https://draculatheme.com/static/icons/used/pack-1/046-zombie.svg" />
-</a>
-
-#### F5-i. Setup
-
-| No. | Step | Image |
-| :---: | :---- | :---: |
-| 1 | Go to `Plugin Marketplace`, and search `Dracula`, click `Install`. | ![jetbrains-01][jetbrains-01] | 
-| 2 | Go to `Preferences` > `Appearance & Behavior` > `Appearance`, select `Dracula` from the dropdown menu. | ![jetbrains-02][jetbrains-02] |
-| 3 | Go to `Preferences` > `Editor` > `Color Scheme`, select `Dracula` from the dropdown menu. | ![jetbrains-03][jetbrains-03]
-
-
-[jetbrains-01]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-plugin-install.png
-[jetbrains-02]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-appearance.png
-[jetbrains-03]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-scheme.png
 
 <TagLinks />

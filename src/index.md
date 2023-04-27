@@ -16,6 +16,7 @@ actions:
 #  details: 명확하고 상세하게
 #- title: descriptive
 #  details: 이미지와 다이어그램을 많이 사용
+footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
 ---
 
 <div class="features">

@@ -184,7 +184,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Interactive Data Visualization in Ionic 5](https://dzone.com/articles/interactive-data-visualization-in-ionic-5)
 - [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
 - [Java Annotated Monthly – September 2020](https://dzone.com/articles/java-annotated-monthly-september-2020)
-
+- [Project Management Tools are Plan-First, Not Develop-First. 3 Solutions.](https://dzone.com/articles/jira-is-a-microcosm-of-whats-broken-in-software-de)
 
 ---
 
@@ -294,6 +294,9 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [[Jenkins] 젠킨스 설치 및 설정](https://roxxy.tistory.com/entry/Jenkins-%EC%A0%A0%ED%82%A8%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95)
 - [4-20-23: Windows on `btrfs`](https://www.lilysthings.org/blog/windows-on-btrfs)
 - [Determin If Your Linux Computer or Server is Hacked](https://hackingpassion.com/determine-if-your-linux-computer-or-server-is-hacked)
+- [늦깍이 공대생의 좌충우돌 이야기](https://elecs.tistory.com)
+- [꿈잡이 소굴](http://bedreams.tistory.com)
+
 ---
 
 

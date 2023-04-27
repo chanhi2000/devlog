@@ -1,11 +1,13 @@
 ---
 lang: ko-KR
 title: 💡Tips
-description: 💡Tips
+description: Regex > 💡Tips
 tags: ["regex", "regular-expression", "snippet", "tips"]
 ---
 
 # {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
 
 [[toc]]
 

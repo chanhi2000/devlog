@@ -11,6 +11,8 @@ tags: ["markdown", "bash", "cli", "md"]
 
 [[toc]]
 
+---
+
 ## Directory Tree
 
 ```bash

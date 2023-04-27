@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Portfolio
-description: Github > Portfolio
+description: 🕶️Github > Portfolio
 tags: ["portfolio", "github", "hyperlink", "resume"]
 ---
 

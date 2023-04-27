@@ -1,24 +1,29 @@
 import type { NavbarConfig } from '@vuepress/theme-default'
 
 export const navbarEn: NavbarConfig = [
+  /* 
   {
     text: '🔖Tags',
-    link: '/tags/'
+    link: '/tags/README.md'
   },
+  */
   {
     text: '📖G4E',
-    link: '/g4e/',
+    link: '/g4e/README.md',
   },
   {
     text: '🗂️Catalogs',
-    link: '/catalogs/',
+    link: '/catalogs/README.md',
     children: [
       {
+        text: '🏁My Roadmap',
+        link: '/catalogs/README.md'
+      }, {
         text: '🏰Portfolio',
         children: [
           {
             text: 'Intro',
-            link: '/catalogs/portfolio/',
+            link: '/catalogs/portfolio/README.md',
           },
         ],
       }, {
@@ -26,35 +31,35 @@ export const navbarEn: NavbarConfig = [
         children: [
           {
             text: 'Intro',
-            link: '/catalogs/til/',
+            link: '/catalogs/til/README.md',
           }
         ],
       }
     ],
   }, {
     text: '🌐Explore',
-    link: '/explore/',
+    link: '/explore/README.md',
   }, {
     text: '🎓Academics',
     children: [
       {
         text: 'Intro',
-        link: '/academics/'
+        link: '/academics/README.md'
       },
       {
         text: 'PHYS034',
         children: [
           {
             text: 'Intro',
-            link: '/academics/PHYS034/'
+            link: '/academics/PHYS034/README.md'
           },
           {
             text: 'Week 01',
-            link: '/academics/PHYS034/week01/' 
+            link: '/academics/PHYS034/week01/README.md' 
           },
           {
             text: 'Week 01: Lecture',
-            link: '/academics/PHYS034/week01/lecture' 
+            link: '/academics/PHYS034/week01/lecture.md' 
           },
         ],
       }

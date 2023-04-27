@@ -1,17 +1,17 @@
 ---
 lang: ko-KR
-title: Library (☕️Java)
-description: Github > Library (☕️Java)
+title: 🕶️Github
+description:  ☕️Java > 🕶️Github
 tags: ["git" , "github" , "java" , "kotlin" , "android"]
 meta:
-  - name: Github > Library (☕️Java)
+  - name: 🕶️Github
     content: Java and Kotlin Libraries from Github
   - property: og:title
-    content: Library (☕️Java)
+    content: 🕶️Github
   - property: og:description
-    content: Github > Library (☕️Java)
+    content: ☕️Java > 🕶️Github
   - property: og:url
-    content: https://chanhi2000.github.io/explore/github/library-java.html
+    content: https://chanhi2000.github.io/g4e/lang-java/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

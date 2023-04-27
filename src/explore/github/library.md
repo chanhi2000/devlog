@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Library
-description: Github > Library
+description: 🕶️Github > Library
 tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "csharp" , "php" , "bash"]
 ---
 
@@ -109,6 +109,12 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [go-skynet/LocalAI][go-skynet/LocalAI]: 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
 - [berachain/polaris][berachain/polaris]: Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
   - [🌐Official Site](https://polaris.berachain.dev)
+
+---
+
+## Ruby
+
+- [bullet-train-co/bullet_train][bullet-train-co/bullet_train]: The Open Source Ruby on Rails SaaS Template
 
 
 
@@ -278,6 +284,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](http://aolserver.com)
 - [axstin/rbxfpsunlocker][axstin/rbxfpsunlocker]: FPS Unlocker for Roblox
 - [haileys/doslinux][haileys/doslinux]: Run Linux programs on DOS
+- [aappleby/PicoRVD][aappleby/PicoRVD]: GDB-compatible RISC-V Debugger for CH32V003 that runs on a Raspberry Pi Pico
 
 ---
 
@@ -485,6 +492,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [devfullcycle/fclx]: https://github.com/devfullcycle/fclx
 [go-skynet/LocalAI]: https://github.com/go-skynet/LocalAI
 [berachain/polaris]: https://github.com/berachain/polaris
+<!-- Ruby -->
+[bullet-train-co/bullet_train]: https://github.com/bullet-train-co/bullet_train
 <!-- Scala -->
 [OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
 [twitter/the-algorithm]: https://github.com/twitter/the-algorithm
@@ -575,6 +584,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [aolserver/aolserver]: https://github.com/aolserver/aolserver
 [axstin/rbxfpsunlocker]: https://github.com/axstin/rbxfpsunlocker
 [haileys/doslinux]: https://github.com/haileys/doslinux
+[aappleby/PicoRVD]: aappleby/PicoRVD
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim

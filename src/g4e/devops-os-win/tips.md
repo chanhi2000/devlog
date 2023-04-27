@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Useful Tips
-description: 👓Windows > Useful Tips
+title: 💡Tips
+description: 👓Windows > 💡Tips
 tags: ["bat" ,"pwsh", "regedit"]
 ---
 
@@ -66,7 +66,8 @@ netsh interface tcp set global autotuninglevel=disabled
 netsh interface tcp set global autotuninglevel=normal 
 ```
 
-### auto-tuning level flag(s)
+::: info auto-tuning level flag(s) 
+
 
 | flag | description |
 | :---: | :--- | 
@@ -76,10 +77,13 @@ netsh interface tcp set global autotuninglevel=normal
 | `normal` | 대부분의 시나리오에 적합하게 수신 창이 커지도록 합니다. |
 | `experimental` | 극히 일부 시나리오에만 적합하게 수신 창이 커지도록 합니다. |
 
+:::
+
 ---
 ## `powercfg.cpl`
 
-### 전원옵션 > 최대성능 활성화
+
+::: info 전원옵션 > 최대성능 활성화
 
 어드민 권한으로 Command Prompt 실행
 
@@ -92,6 +96,8 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
 전원 구성표 GUID: 15fc3227-d628-4ea6-8cbc-9e9fbdf1469b  (최고의 성능)
 ```
+
+:::
 
 ---
 

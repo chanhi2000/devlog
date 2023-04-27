@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
-title: Library (⚡️Javascript)
-description: Github > Library (⚡️Javascript)
+title: 🕶️Github
+description: 🧶Node.js > 🕶️Github
 tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
 meta:
-  - name: Github > Library (⚡️Javascript)
+  - name: 🧶Node.js > 🕶️Github
     content: Javascript Libraries from Github
   - property: og:title
-    content: Library (⚡️Javascript)
+    content: 🕶️Github
   - property: og:description
-    content: Github > Library (⚡️Javascript)
+    content: 🧶Node.js > 🕶️Github
   - property: og:url
     content: https://chanhi2000.github.io/explore/github/library-js.html
 ---
@@ -239,6 +239,9 @@ meta:
   - [🌐Official Site](https://openzeppelin.com/contracts)
 - [Renovamen/oh-vue-icons][Renovamen/oh-vue-icons]: A Vue component for importing inline SVG icons from different popular icon packs easily.
   - [🌐Official Site](https://oh-vue-icons.js.org)
+- [GitSquared/edex-ui][GitSquared/edex-ui]: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [modal-labs/quillman][modal-labs/quillman]: A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
+  - [🌐Official Site](https://modal.com/docs/guide/llm-voice-chat)
 
 
 
@@ -346,6 +349,11 @@ meta:
   - [🌐Official Site](https://tabby.sh)
 - [mswjs/msw][mswjs/msw]: Seamless REST/GraphQL API mocking library for browser and Node.js.
   - [🌐Official Site](https://mswjs.io)
+- [whoiskatrin/chart-gpt][whoiskatrin/chart-gpt]: AI tool to build charts based on text input
+  - [🌐Official Site](https://www.chartgpt.dev)
+- [gmpetrov/databerry][gmpetrov/databerry]: The no-code platform for connecting custom data to large language models
+  - [🌐Official Site](https://databerry.ai)
+
 
 <TagLinks />
 
@@ -474,6 +482,8 @@ meta:
 [TheRamU/Fay]: https://github.com/TheRamU/Fay
 [OpenZeppelin/openzeppelin-contracts]: https://github.com/OpenZeppelin/openzeppelin-contracts
 [Renovamen/oh-vue-icons]: https://github.com/Renovamen/oh-vue-icons
+[GitSquared/edex-ui]: https://github.com/GitSquared/edex-ui
+[modal-labs/quillman]: https://github.com/modal-labs/quillman
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -532,3 +542,5 @@ meta:
 [tamagui/tamagui]: https://github.com/tamagui/tamagui
 [Eugeny/tabby]: https://github.com/Eugeny/tabby
 [mswjs/msw]: https://github.com/mswjs/msw
+[whoiskatrin/chart-gpt]: https://github.com/whoiskatrin/chart-gpt
+[gmpetrov/databerry]: https://github.com/gmpetrov/databerry

@@ -1,11 +1,7 @@
 ---
 lang: ko-KR 
 title: Lecture
-description: Lecture
-head:
-  - [link, { rel: stylesheet , href: https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.css, crossorigin: anonymous }]
-  - [script, { src: https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.js, crossorigin: anonymous }]
-  - [script, { src: https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/contrib/auto-render.min.js, crossorigin: anonymous, onload: renderMathInElement(document.body); }]    
+description: Week 01 > Lecture
 ---
 
 

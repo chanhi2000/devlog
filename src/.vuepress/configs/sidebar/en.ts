@@ -33,7 +33,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-gradle/useful-snippets.md',
         '/g4e/lang-gradle/useful-snippets-android.md',
         '/g4e/lang-gradle/troubleshooting.md',
-        '/g4e/lang-gradle/reference.mds'
+        '/g4e/lang-gradle/references.md'
       ]
     }, {
       text: '🐦Maven',
@@ -61,6 +61,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',
         '/g4e/lang-java/references.md',
+        '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
       ]
     }, {
@@ -79,6 +80,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-swift/README.md',
         '/g4e/lang-swift/tips.md',
         '/g4e/lang-swift/references.md',
+        '/g4e/lang-swift/github.md',
         '/g4e/lang-swift/youtube.md',
       ]
     }, {
@@ -97,6 +99,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-js-node/troubleshooting.md',
         '/g4e/lang-js-node/sandbox.md',
         '/g4e/lang-js-node/cordova.md',
+        '/g4e/lang-js-node/github.md',
       ]
     }, {
       text: '🐍Python',
@@ -104,6 +107,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-python/README.md',
         '/g4e/lang-python/references.md',
+        '/g4e/lang-python/github.md',
         '/g4e/lang-python/youtube.md',
       ]
     }, {
@@ -120,6 +124,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-rust/README.md',
         '/g4e/lang-rust/references.md',
+        '/g4e/lang-rust/github.md',
         '/g4e/lang-rust/youtube.md',
       ]
     }, {
@@ -146,10 +151,16 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/devops-os/README.md',
-        '/g4e/devops-os/macos-env-setup.md',
-        '/g4e/devops-os/macos-useful-commands.md',
-        '/g4e/devops-os/debian-env-setup.md',
+        '/g4e/devops-os/env-setup.md',
       ]
+    }, {
+      text: '🖥️macOS',
+      collapsible: true,
+      children: [
+        '/g4e/devops-os-mac/README.md',
+        '/g4e/devops-os-mac/env-setup.md',
+        '/g4e/devops-os-mac/tips.md',
+      ],
     }, {
       text: '👓Windows',
       collapsible: true,
@@ -157,7 +168,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-os-win/README.md',
         '/g4e/devops-os-win/env-setup.md',
         '/g4e/devops-os-win/ie.md',
-        '/g4e/devops-os-win/useful-tips.md',
+        '/g4e/devops-os-win/tips.md',
         '/g4e/devops-os-win/youtube.md',
       ]
     }, {
@@ -191,7 +202,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-nexus/README.md',
         '/g4e/devops-nexus/tips.md',
       ]
-    }, { 
+    }, {
+      text: '🧛‍♀️Dracula',
+      collapsible: true,
+      children: [
+        '/g4e/dracula/README.md',
+        '/g4e/dracula/env-setup.md',
+      ],
+    }, {
       text: '🎩IDE & Text Editor',
       collapsible: true,
       children: [
@@ -224,8 +242,8 @@ export const sidebarEn: SidebarConfig = {
       text: 'Regex',
       collapsible: true,
       children: [
-        '/g4e/regex/',
-        '/g4e/regex/tips',
+        '/g4e/regex/README.md',
+        '/g4e/regex/tips.md',
       ],
     }, {
       text: 'Markdown',
@@ -239,7 +257,7 @@ export const sidebarEn: SidebarConfig = {
   ],
   '/catalogs/': [
     {
-      text: 'Intro',
+      text: '🏁My Roadmap',
       children: [ '/catalogs/README.md' ],
     },
     {
@@ -262,17 +280,12 @@ export const sidebarEn: SidebarConfig = {
       children: [ '/explore/README.md' ],
     },
     {
-      text: 'Github',
+      text: '🕶️Github',
       collapsible: true,
       children: [
         '/explore/github/README.md',
         '/explore/github/awesome-list.md',
         '/explore/github/library.md',
-        '/explore/github/library-java.md',
-        '/explore/github/library-js.md',
-        '/explore/github/library-python.md',
-        '/explore/github/library-swift.md',
-        '/explore/github/library-rust.md',
         '/explore/github/news.md',
         '/explore/github/tutorial.md',
         '/explore/github/portfolio.md',
@@ -287,7 +300,6 @@ export const sidebarEn: SidebarConfig = {
         '/explore/youtube/watch-later-keynote.md',
         '/explore/youtube/edu-compsci.md',
         '/explore/youtube/edu-devops.md',
-        '/explore/youtube/edu-js.md',
         '/explore/youtube/edu-c+cpp.md',
       ]
     }, {
@@ -340,6 +352,7 @@ export const sidebarEn: SidebarConfig = {
     },
     {
       text: 'PHYS034',
+      collapsible: true,
       children: [
         '/academics/PHYS034/README.md',
         '/academics/PHYS034/week01/README.md',

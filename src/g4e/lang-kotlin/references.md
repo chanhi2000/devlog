@@ -13,7 +13,7 @@ tags: ["kotlin", "jdk", "jdk8", "links", "medium", "references"]
 
 ---
 
-## References
+## Devlogs
 
 - [Kotlin DSL: Gradle scripts in Android made easy](https://medium.com/android-dev-hacks/kotlin-dsl-gradle-scripts-in-android-made-easy-b8e2991e2ba)
 - [Gradle 스크립트 언어를 Groovy DSL에서 Kotlin DSL로 변경 하기](https://www.charlezz.com/?p=45140)

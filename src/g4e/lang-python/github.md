@@ -1,17 +1,17 @@
 ---
 lang: ko-KR
-title: Library (🐍Python)
-description: Github > Library (🐍Python)
+title: 🕶️Github
+description: 🐍Python > 🕶️Github
 tags: ["git" , "github" , "python" , "py"]
 meta:
-  - name: Github > Library (🐍Python)
+  - name: 🕶️Github
     content: Javascript Libraries from Github
   - property: og:title
-    content: Library (🐍Python)
+    content: 🕶️Github
   - property: og:description
-    content: Github > Library (🐍Python)
+    content: 🐍Python > 🕶️Github
   - property: og:url
-    content: https://chanhi2000.github.io/explore/github/library-js.html
+    content: https://chanhi2000.github.io/g4e/lang-python/github.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -270,9 +270,12 @@ meta:
   - [🌐Official Site](https://agent-llm.com)
 - [bhaskatripathi/pdfGPT][bhaskatripathi/pdfGPT]: PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
   - [🌐Official Site](https://huggingface.co/spaces/bhaskartripathi/pdfChatter)
-
-
-
+- [Snaacky/dndserver][Snaacky/dndserver]: Dark and Darker private server implementation written in Python
+- [GreyDGL/PentestGPT][GreyDGL/PentestGPT]: A GPT-empowered penetration testing tool
+- [BigBrotherTrade/trader][BigBrotherTrade/trader]: 交易模块
+- [farizrahman4u/loopgpt][farizrahman4u/loopgpt]: Modular Auto-GPT Framework <Badge type="info" vertical="center" text="gpt"/> <Badge type="info" vertical="center" text="gpt4"/> <Badge type="info" vertical="center" text="llms"/> <Badge type="info" vertical="center" text="chatgpt"/>
+- [deepdoctection/deepdoctection][deepdoctection/deepdoctection]: A Repo For Document AI <Badge type="info" vertical="middle" text="python"/> <Badge type="info" vertical="middle" text="nlp"/> <Badge type="info" vertical="middle" text="ocr"/> <Badge type="info" vertical="middle" text="tensorflow"/> <Badge type="info" vertical="middle" text="pytorch"/> <Badge type="info" vertical="middle" text="document-parser"/> <Badge type="info" vertical="middle" text="document-layout-analysis"/> <Badge type="info" vertical="middle" text="table-recognition"/> <Badge type="info" vertical="middle" text="table-detection"/> <Badge type="info" vertical="middle" text="document-understanding"/> <Badge type="info" vertical="middle" text="publaynet"/> <Badge type="info" vertical="middle" text="layoutlm"/> <Badge type="info" vertical="middle" text="document-ai"/> <Badge type="info" vertical="middle" text="document-image-analysis"/> <Badge type="info" vertical="middle" text="pubtabnet"/>
+- [deep-floyd/IF][deep-floyd/IF]: DeepFloyd IF by StabilityAI
 
 <!-- Python -->
 
@@ -305,6 +308,8 @@ meta:
 - [datawhalechina/hugging-llm][datawhalechina/hugging-llm]: HuggingLLM, Hugging Future.
 - [lupantech/chameleon-llm][lupantech/chameleon-llm]: Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
   - [🌐Official Site](https://chameleon-llm.github.io)
+- [roboflow/notebooks][roboflow/notebooks]: Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
+  - [🌐Official Site](https://roboflow.com/models)
 
 <!-- Jupyter Notebook -->
 
@@ -494,6 +499,12 @@ meta:
 [zhayujie/chatgpt-on-wechat]: https://github.com/zhayujie/chatgpt-on-wechat
 [Josh-XT/Agent-LLM]: https://github.com/Josh-XT/Agent-LLM
 [bhaskatripathi/pdfGPT]: https://github.com/bhaskatripathi/pdfGPT
+[Snaacky/dndserver]: https://github.com/Snaacky/dndserver
+[GreyDGL/PentestGPT]: https://github.com/GreyDGL/PentestGPT
+[BigBrotherTrade/trader]: https://github.com/BigBrotherTrade/trader
+[farizrahman4u/loopgpt]: https://github.com/farizrahman4u/loopgpt
+[deepdoctection/deepdoctection]: https://github.com/deepdoctection/deepdoctection
+[deep-floyd/IF]: https://github.com/deep-floyd/IF
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -518,4 +529,5 @@ meta:
 [suno-ai/bark]: https://github.com/suno-ai/bark
 [Stability-AI/StableLM]: https://github.com/Stability-AI/StableLM
 [datawhalechina/hugging-llm]: https://github.com/datawhalechina/hugging-llm
-[lupantech/chameleon-llm]:https://github.com/lupantech/chameleon-llm
+[lupantech/chameleon-llm]: https://github.com/lupantech/chameleon-llm
+[roboflow/notebooks]: https://github.com/roboflow/notebooks

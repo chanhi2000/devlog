@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Environment Setup
-description: 👓Windows > Environment Setup
+title: 🧰Environment Setup
+description: 👓Windows > 🧰Environment Setup
 tags: ["bat", "pwsh", "win-run", "oh-my-pwsh", "chocolatey", "windows-terminal", "cmd", "powershell", "ps1", "scoop", "pacman", "jdk", "jdk7", "temurin", "temurin11", "docker", "neofetch"]
 ---
 
@@ -10,19 +10,23 @@ tags: ["bat", "pwsh", "win-run", "oh-my-pwsh", "chocolatey", "windows-terminal",
 [[toc]]
 
 ---
+
 ## A. 설정
 
 
 ---
+
 ## B. Chocolatey
 
-### B1. 🧰Prerequesite(s)
+### B1. Prerequesite(s)
 
 ::: warning 📝WARNING
+
 First, ensure that you are using an __administrative__ shell
+
 :::
 
-### B2. 👨‍🏫Guide
+### B2. Guide
 
 - <kbd>win</kbd> + <kbd>r</kbd> 입력
 - 창에 `powershell`입력 후 <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>enter</kbd> 눌러 실행
@@ -32,7 +36,7 @@ First, ensure that you are using an __administrative__ shell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
-### B3. 🛠️Configure
+### B3. Configure
 
 Copy and Paste the following to the Powershell Prompt
 
@@ -54,15 +58,18 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal
 ```
 
-
 ---
+
 ## C. Scoop.sh
 
-### C1. 🧰Prerequesite(s)
+### C1. Prerequesite(s)
 
 ::: warning 📝WARNING
+
 First, ensure that you are using an __administrative__ shell
+
 :::
+
 ### C2. 👨‍🏫Guide
 
 - <kbd>win</kbd> + <kbd>r</kbd> 입력
@@ -74,7 +81,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 ```
 
-### C3. 🛠️Configure
+### C3. Configure
 
 Copy and Paste the following to the Powershell Prompt
 
@@ -91,9 +98,10 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
 ```
 
 ---
+
 ## D. Alias 지정 관련
 
-### D1. 🧰Prerequesite(s)
+### D1. Prerequesite(s)
 
 - `alias.cmd` 파일을 만들어 관련 Alias 지정
 
@@ -101,13 +109,13 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
 [🌐chanhi2000/chan-alias](https://github.com/chanhi2000/chan-alias) 참조
 :::
 
-### D2. 👨‍🏫Guide
+### D2. Guide
 
 - <kbd>win</kbd> + <kbd>r</kbd> 누른 후 `regedit` 실행
 - `HKEY_CURRENT_USER\Software\Microsoft\Command Processor` 경로로 이동
 - 창에 마우스 우클릭 후, 메뉴에서 `새로만들기` > `문자열 값` 선택 후 아래 값 입력
-    - Key: `AutoRun`
-    - Value: `%USERPROFILE%\alias.cmd`
+  - Key: `AutoRun`
+  - Value: `%USERPROFILE%\alias.cmd`
 - 시스템 재시작
 
 ### D2-i. `Microsoft.PowerShell_profile.ps1`

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Regex
+description: 🧛‍♀️Dracula
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -9,4 +9,3 @@ description: Regex
 ::: tip NOTE
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
-

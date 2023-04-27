@@ -1,25 +1,21 @@
 ---
 lang: ko-KR
-title: Intro
-description: 🗂️Catalogs
+title: 🏁My Roadmap
+description: 🗂️Catalogs > 🏁My Roadmap
 tags: ["schedule", "gantt", "markdown", "mermaidjs", "todo"]
 ---
 
 # {{ $frontmatter.title }} 관련
 
-::: tip NOTE
-{{ $frontmatter.title }} 관련 정리내용입니다.
-:::
-
-{{ $frontmatter.title }} 관련 정리내용
+> {{ $frontmatter.description }}
 
 [[toc]]
 
 ---
+
 ## 🗓️2023년 목표 정의
 
-```mermaidjs
-gantt
+```gantt
 dateFormat  YYYY-MM-DD
 title 2023년 목표 정의
 excludes weekdays 2023-01-10

@@ -116,7 +116,10 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 
 - [hamonikr][hamonikr]: 리눅스 커뮤니티 하모니카
 - [클리앙](https://www.clien.net/service/)
+  - [DuckDuckGo를 조금 더 활용하는 방법](https://www.clien.net/service/board/lecture/15302686)
 - [Qt 한국 개발자 커뮤니티](https://qt-dev.com)
+- [기백이의 맥가이버](http://www.macguyver.co.kr)
+
 
 ---
 

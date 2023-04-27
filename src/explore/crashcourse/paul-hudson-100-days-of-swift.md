@@ -18,9 +18,19 @@ meta:
 
 > {{ $frontmatter.description }}
 
-@[youtube](https://youtu.be/RB5nWzdl-b8)
+<YouTube id="RB5nWzdl-b8" />
 
 [[toc]]
+
+---
+
+```card
+title: HACKING WITH SWIFT
+desc: 🕊️100 Days of Swift
+link: https://www.hackingwithswift.com/100
+logo: https://www.hackingwithswift.com/favicon-96x96.png
+color: rgba(174, 10, 10, 0.2)
+```
 
 ---
 

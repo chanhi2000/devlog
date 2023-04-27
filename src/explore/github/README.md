@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Github
+description: 🕶️Github
 ---
 
 # {{ $frontmatter.description }} 관련

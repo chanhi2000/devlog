@@ -1,6 +1,7 @@
 {
-  "name": "chanhi2000.github.io",
   "version": "0.2.1",
+  "private": true,
+  "name": "chanhi2000.github.io",
   "description": "Devlog by Chan",
   "main": "index.js",
   "authors": {
@@ -10,28 +11,30 @@
   "repository": "https://github.com/chanhi2000/devlog",
   "scripts": {
     "dev": "vuepress dev src",
+    "clean-dev": "vuepress dev src --clean-cache",
     "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.61",
-    "@vuepress/plugin-active-header-links": "2.0.0-beta.61",
-    "@vuepress/plugin-back-to-top": "2.0.0-beta.61",
-    "@vuepress/plugin-container": "2.0.0-beta.61",
-    "@vuepress/plugin-git": "2.0.0-beta.61",
-    "@vuepress/plugin-medium-zoom": "2.0.0-beta.61",
-    "@vuepress/plugin-nprogress": "2.0.0-beta.61",
-    "@vuepress/plugin-prismjs": "2.0.0-beta.61",
-    "@vuepress/plugin-register-components": "2.0.0-beta.61",
-    "@vuepress/plugin-search": "2.0.0-beta.61",
+    "@vuepress/client": "^2.0.0-beta.61",
+    "@vuepress/core": "^2.0.0-beta.61",
+    "@vuepress/plugin-active-header-links": "^2.0.0-beta.61",
+    "@vuepress/plugin-container": "^2.0.0-beta.61",
+    "@vuepress/plugin-git": "^2.0.0-beta.61",
+    "@vuepress/plugin-medium-zoom": "^2.0.0-beta.61",
+    "@vuepress/plugin-nprogress": "^2.0.0-beta.61",
+    "@vuepress/plugin-prismjs": "^2.0.0-beta.61",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.61",
+    "@vuepress/plugin-search": "^2.0.0-beta.61",
     "@vuepress/plugin-toc": "2.0.0-beta.61",
-    "markdown-it-katexx": "^3.2.0",
-    "vuepress": "2.0.0-beta.61"
+    "@vuepress/shared": "^2.0.0-beta.61",
+    "@vuepress/utils": "^2.0.0-beta.61",
+    "vuepress": "^2.0.0-beta.61",
+    "vuepress-plugin-components": "^2.0.0-beta.206",
+    "vuepress-plugin-copyright2": "^2.0.0-beta.206",
+    "vuepress-plugin-md-enhance": "^2.0.0-beta.206"
   },
   "dependencies": {
-    "@centerforopenscience/markdown-it-video": "^1.0.0",
-    "markdown-it-task-lists": "^2.1.1",
-    "mermaid": "^9.4.3",
     "moment": "^2.29.4"
   }
 }

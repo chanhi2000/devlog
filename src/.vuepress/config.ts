@@ -2,7 +2,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { getDirname, path } from '@vuepress/utils'
 /* plugins V2 */
 import { tocPlugin } from '@vuepress/plugin-toc';
-import { backToTopPlugin } from '@vuepress/plugin-back-to-top';
+// import { backToTopPlugin } from '@vuepress/plugin-back-to-top';
 import { nprogressPlugin } from '@vuepress/plugin-nprogress';
 import { containerPlugin } from '@vuepress/plugin-container';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
@@ -12,11 +12,16 @@ import { searchPlugin } from '@vuepress/plugin-search';
 import { activeHeaderLinksPlugin } from '@vuepress/plugin-active-header-links';
 import { prismjsPlugin } from '@vuepress/plugin-prismjs';
 /* plugins 3rd-party */
+import { copyrightPlugin } from "vuepress-plugin-copyright2";
+import { componentsPlugin } from "vuepress-plugin-components";
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+// import { mermaidWrapperPlugin } from 'vuepress-plugin-mermaid-wrapper';
 // import { mermaidPlugin } from "@renovamen/vuepress-plugin-mermaid";
+// import { katexPlugin } from "@renovamen/vuepress-plugin-katex";
 /* markdownExtended plugins 3rd-party */
-import markdownItTaskListsPlugin from 'markdown-it-task-lists'; // markdown 체크리스트 
-import markdownITKatexxPlugin from 'markdown-it-katexx'; // markdown katex 변환 
-import markdownItVideoPlugin from '@centerforopenscience/markdown-it-video'; // markdown에 @[youtube](유튜브URL) 형태로 박으면 동영상이 나온다
+// import markdownItTaskListsPlugin from 'markdown-it-task-lists'; // markdown 체크리스트 
+// import markdownITKatexxPlugin from 'markdown-it-katexx'; // markdown katex 변환 
+// import markdownItVideoPlugin from '@centerforopenscience/markdown-it-video'; // markdown에 @[youtube](유튜브URL) 형태로 박으면 동영상이 나온다
 
 import {
   // head,
@@ -24,28 +29,14 @@ import {
   sidebarEn,
 } from './configs/index.js'
 
-const __dirname = getDirname(import.meta.url)
+const __dirname = getDirname(import.meta.url);
 const { description } = require('../../package');
 const isProd = process.env.NODE_ENV === 'production'
 
 export default {
   title: 'Devlog by Chan',
   description: description,
-  footer: 'MIT Licensed | Copyright © 2022-present Chan Hee Lee',
   
-  /**
-   * Extra tags to be injected to the page HTML `<head>`
-   *
-   * ref：https://v1.vuepress.vuejs.org/config/#head
-   */
-  /*
-  head: [
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css' }]
-  ],
-  */
-
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
@@ -54,7 +45,6 @@ export default {
   theme: defaultTheme({
     logo: 'https://avatars.githubusercontent.com/u/6296241?v=4',
     docsDir: '',
-    editLinkText: 'Edit this page on GitHub',
     lastUpdated: true,
     lastUpdatedText: '최근변경일',
     backToHome: '홈으로 이동',
@@ -70,30 +60,7 @@ export default {
       lineNumbers: true,
     },
   },
-
-  extendsMarkdown: (md) => {
-    md.set({ breaks: true })
-    md.use(markdownItTaskListsPlugin);
-    md.use(markdownITKatexxPlugin, {
-      displayMode: true,
-      /* 
-      macros: [
-        {left: '$$', right: '$$', display: true},
-        {left: '$', right: '$', display: true},
-        {left: "\\begin{equation}", right: "\\end{equation}", display: true},
-        {left: "\\begin{align}", right: "\\end{align}", display: true},
-        {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
-        {left: "\\begin{gather}", right: "\\end{gather}", display: true},
-        {left: '\\(', right: '\\)', display: false},
-        {left: '\\[', right: '\\]', display: true}
-      ],
-      */
-      throwOnError: false,
-      errorColor: '#cc0000',
-    });
-    md.use(markdownItVideoPlugin);
-  },
-
+  
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
@@ -101,7 +68,7 @@ export default {
     activeHeaderLinksPlugin({}),
     tocPlugin({}),
     nprogressPlugin(),
-    backToTopPlugin(),
+    // backToTopPlugin(),
     containerPlugin({
       type: 'tip',
       locales: {
@@ -130,6 +97,38 @@ export default {
     prismjsPlugin({
       preloadLanguages: ['mermaid', 'kotlin', 'java', 'md'],
     }),
-    // mermaidPlugin({}),
+    copyrightPlugin({
+      author: 'Chan Hee Lee',
+      license: 'MIT Licensed',
+    }),
+    componentsPlugin({
+      components: [ "YouTube", "FontIcon", "Badge" ,"Share"],
+      componentOptions: {
+        fontIcon: {
+          assets: "fontawesome",
+        }
+      },
+      rootComponents: {
+        backToTop: true,
+      }
+    }),
+    mdEnhancePlugin({
+      mark: true,
+      tasklist: true,
+      card: true,
+      mermaid: true,
+      katex: true,
+      footnote: true,
+      attrs: true,
+      container: true,
+      figure:true,
+      imgLazyload: true,
+      imgSize: true,
+      presentation: {
+        plugins: ["highlight", "math", "search", "notes", "zoom"],
+      },
+      sub: true,
+      sup: true,
+    }),
   ],
 }

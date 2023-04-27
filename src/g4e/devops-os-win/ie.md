@@ -15,7 +15,13 @@ tags: ["ie" ,"Internet Explorer", "win", "Windows", "Browser"]
 
 ## IE창 닫기 관련
 
-> _"The webpage you are viewing is trying to close the tab. Do you wish to close the tab"_
+::: warning 🤷‍♂️메세지
+
+```
+The webpage you are viewing is trying to close the tab. Do you wish to close the tab
+```
+
+:::
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217
 - https://www.gooper.com/ss/tnt_lang/4213
