@@ -8,7 +8,13 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
-## [v0.2.0: 2023-04-27][v0.2.0]
+## ❌[v0.2.1: 2023-04-27][v0.2.1]
+
+- 배포 문제 처리 2차
+
+---
+
+## ❌[v0.2.0: 2023-04-27][v0.2.0]
 
 - 내용 채워넣기
 - vuepress 2.x 전환
@@ -301,6 +307,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.2.1]: https://github.com/chanhi2000/devlog/compare/v0.2.0...v0.2.1
 [v0.2.0]: https://github.com/chanhi2000/devlog/compare/v0.1.4...v0.2.0
 [v0.1.4]: https://github.com/chanhi2000/devlog/compare/v0.1.3...v0.1.4
 [v0.1.3]: https://github.com/chanhi2000/devlog/compare/v0.1.2...v0.1.3
