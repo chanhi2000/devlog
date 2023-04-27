@@ -12,4 +12,4 @@ description: 🦀Rust > 📚References
 
 ---
 
-<TagsList />
+<TagLinks />

@@ -164,7 +164,7 @@ meta:
   - [Google I/O 2022 Recap: Top 5 Takeaways for Android Devs](https://www.kodeco.com/34078194-google-i-o-2022-recap-top-5-takeaways-for-android-devs)
 - [SQLDelight in Android: Getting Started](https://www.kodeco.com/21631179-sqldelight-in-android-getting-started)
 
-<TagsList />
+<TagLinks />
 
 [programming-in-kotlin-functions-custom-types]: https://www.kodeco.com/38300418-programming-in-kotlin-functions-custom-types
 [icon-programming-in-kotlin-functions-custom-types]: https://assets.robles.kodeco.com/videos/83eb7a017a0e152e2d04705d477a58da9444ee694938c329dc1093a9a2e0a42b/images/f7a4ae325a8baa1e4ca61f2a30ac9851/w240.png

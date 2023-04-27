@@ -259,7 +259,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 - [Day 100][day-100] – Final exam
 - [Epilogue][epilogue] – What now?
 
-<TagsList />
+<TagLinks />
 
 [ask-me]: https://twitter.com/twostraws
 [100-days-of-swift]: ./100-days-of-swift.md

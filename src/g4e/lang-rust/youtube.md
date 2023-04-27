@@ -13,4 +13,4 @@ tags: ["education", "youtube", "programming", "rust"]
 
 ---
 
-<TagsList />
+<TagLinks />

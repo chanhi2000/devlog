@@ -128,8 +128,9 @@ meta:
   - [🌐Official Site](https://prismjs.com)
 - [hmartiro/riffusion-app][hmartiro/riffusion-app]: Stable diffusion for real-time music generation
   - [🌐Official Site](http://riffusion.com)
-- [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the <canvas> tag
+- [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the `<canvas>` tag
   - [🌐Official Site](https://www.chartjs.org)
+- [carson-katri/dream-textures][carson-katri/dream-textures]: Stable Diffusion built-in to Blender
 - [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
   - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
 - [CorwinDev/Discord-Bot][CorwinDev/Discord-Bot]: Discord Bot with over 400 commands and made for large servers
@@ -345,8 +346,6 @@ meta:
   - [🌐Official Site](https://tabby.sh)
 - [mswjs/msw][mswjs/msw]: Seamless REST/GraphQL API mocking library for browser and Node.js.
   - [🌐Official Site](https://mswjs.io)
-
-  
 
 <TagLinks />
 

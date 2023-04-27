@@ -22,10 +22,6 @@ export default {
 </script>
 
 <style scoped>
-.tags {
-  margin: 30px 0;
-}
-a {
-  margin-right: 10px;
-}
+.tags { margin: 30px 0; }
+a { margin-right: 10px; }
 </style>
