@@ -236,6 +236,10 @@ meta:
 - [TheRamU/Fay][TheRamU/Fay]: Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
 - [OpenZeppelin/openzeppelin-contracts][OpenZeppelin/openzeppelin-contracts]: OpenZeppelin Contracts is a library for secure smart contract development.
   - [🌐Official Site](https://openzeppelin.com/contracts)
+- [Renovamen/oh-vue-icons][Renovamen/oh-vue-icons]: A Vue component for importing inline SVG icons from different popular icon packs easily.
+  - [🌐Official Site](https://oh-vue-icons.js.org)
+
+
 
 ---
 
@@ -339,6 +343,10 @@ meta:
   - [🌐Official Site](https://tamagui.dev)
 - [Eugeny/tabby][Eugeny/tabby]: A terminal for a more modern age
   - [🌐Official Site](https://tabby.sh)
+- [mswjs/msw][mswjs/msw]: Seamless REST/GraphQL API mocking library for browser and Node.js.
+  - [🌐Official Site](https://mswjs.io)
+
+  
 
 <TagLinks />
 
@@ -466,6 +474,7 @@ meta:
 [saeedezzati/superpower-chatgpt]: https://github.com/saeedezzati/superpower-chatgpt
 [TheRamU/Fay]: https://github.com/TheRamU/Fay
 [OpenZeppelin/openzeppelin-contracts]: https://github.com/OpenZeppelin/openzeppelin-contracts
+[Renovamen/oh-vue-icons]: https://github.com/Renovamen/oh-vue-icons
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -523,3 +532,4 @@ meta:
 [quadratichq/quadratic]: https://github.com/quadratichq/quadratic
 [tamagui/tamagui]: https://github.com/tamagui/tamagui
 [Eugeny/tabby]: https://github.com/Eugeny/tabby
+[mswjs/msw]: https://github.com/mswjs/msw

@@ -1,5 +1,5 @@
 <!-- .vuepress/components/TagLinks -->
-<template lang="html">
+<template>
   <div class="tags">
     <router-link
       v-for="tag in $page.frontmatter.tags"

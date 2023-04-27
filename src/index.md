@@ -2,8 +2,13 @@
 home: true
 heroImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
 tagline: Welcome my fellow programmers!
-actionText: Check 📖Guide 4 Everything
-actionLink: /g4e/
+actions:
+  - text: Check 📖Guide 4 Everything
+    link: /g4e/
+    type: primary
+#  - text: Introduction
+#    link: /guide/
+#    type: secondary
 # features:
 #- title: anecdotal
 #  details: 개발에서 직접 경험하고 해결한 내용 공유
@@ -12,25 +17,24 @@ actionLink: /g4e/
 #- title: descriptive
 #  details: 이미지와 다이어그램을 많이 사용
 ---
-::: slot footer
-MIT Licensed | Copyright © 2022-present [Chan Hee Lee](https://github.com/chanhi2000)
-:::
 
 <div class="features">
-  <a href="https://github.com/chanhi2000"><div class="feature">
-    <h2>
+  <div class="feature">
+    <a href="https://github.com/chanhi2000">
       <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
-      github.com/chanhi2000
-    </h2>
-    <p>Chan's Github Acct.</p>
-  </div></a>
-  <a href="https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd"><div class="feature">
-    <h2>
+      <br/>
+      <h2>github.com/chanhi2000</h2>
+      <p>Chan's Github Acct.</p>
+    </a>
+  </div>
+  <div class="feature">
+    <a href="https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd">
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat-square" />
-      notion.so/chanhi2000
-    </h2>
-    <p>Chan's Temporary Portfolio</p>
-  </div></a>
+      <br/>
+      <h2>notion.so/chanhi2000</h2>
+      <p>Chan's Temporary Portfolio</p>
+    </a>
+  </div>
   <div class="feature">
     <h2>🚧작업중</h2>
     <p>일과 같이 작업병행 중 ...</p>

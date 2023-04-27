@@ -43,7 +43,7 @@ The Secret Google Chrome Menus
 
 ---
 
-<TagList />
+<TagLinks />
 
 
 [yu-thio-joe]: https://www.youtube.com/@ThioJoe

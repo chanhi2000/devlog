@@ -1,4 +1,4 @@
-<template lang="html">
+<template>
     <div class="profile" @mouseover="upHere = true" @mouseleave="upHere = false">
     
       <img class="profile__image" src="https://avatars.githubusercontent.com/u/6296241?v=4" />
@@ -6,7 +6,7 @@
         <div class="profile__name">
           <span>이찬희 (MarkiiimarK)</span>
   
-          <div
+          <a
             class="profile__github"
             onClick="{window.open('https://github.com/chanhi2000/devlog')}"
           >
@@ -30,7 +30,7 @@
                 <path fill="currentColor" d="M0 0h20v20H0z"></path>
               </g>
             </svg>
-          </div>
+          </a>
   
           <a class="profile-mail">
             <svg
@@ -116,18 +116,18 @@
     font-size: 1.5rem;
     line-height: 1.5;
     font-weight: bold;
-    color: rgb(33, 37, 41);
+    color: var(--c-text-lighter);
     margin-right: 10px;
   }
   .profile__desc {
     font-size: 1rem;
     line-height: 1.5;
     margin-top: 0.25rem;
-    color: rgb(73, 80, 87);
+    color: var(--c-text-quote);
     letter-spacing: -0.004em;
   }
   a {
-    color: rgb(45, 61, 80);
+    color: var(--c-text-accent);
   }
   .profile__name {
     display: flex;
@@ -143,4 +143,7 @@
   .mail-box:hover {
     cursor: pointer;
   }
+  html.dark .profile__name span { color: var(--c-text-lighter); }
+  html.dark .profile__desc { color: var(--c-text-quote); }
+  html.dark a { color: var(--c-text-accent); }
   </style>

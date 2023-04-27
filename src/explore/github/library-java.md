@@ -84,9 +84,8 @@ meta:
   - [🌐Official Site](https://www.macrozheng.com/admin)
 - [dataease/dataease][dataease/dataease]: 人人可用的开源数据可视化分析工具。
   - [🌐Official Site](https://dataease.io)
-
-
-
+- [jbake-org/jbake][jbake-org/jbake]: Java based open source static site/blog generator for developers & designers.
+  - [🌐Official Site](http://jbake.org)
 
 ---
 
@@ -207,6 +206,7 @@ meta:
 [zeromq/jeromq]: https://github.com/zeromq/jeromq
 [macrozheng/mall]: https://github.com/macrozheng/mall
 [dataease/dataease]: https://github.com/dataease/dataease
+[jbake-org/jbake]: https://github.com/jbake-org/jbake
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

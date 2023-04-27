@@ -2,7 +2,12 @@
 lang: ko-KR 
 title: Lecture
 description: Lecture
+head:
+  - [link, { rel: stylesheet , href: https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.css, crossorigin: anonymous }]
+  - [script, { src: https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.js, crossorigin: anonymous }]
+  - [script, { src: https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/contrib/auto-render.min.js, crossorigin: anonymous, onload: renderMathInElement(document.body); }]    
 ---
+
 
 # {{ $frontmatter.description }}
 
@@ -56,8 +61,11 @@ $$
 
 $$
 \begin{align*}
-v'&=v-\mathbf{V},&&\begin{cases} v_1=v_1'+\mathbf{V}; \\
-v_2=v_2'-\mathbf{V};\end{cases}
+v'&=v-\mathbf{V},&&
+\begin{cases} 
+v_1=v_1'+\mathbf{V}; \\
+v_2=v_2'-\mathbf{V};
+\end{cases}
 \end{align*}
 $$
 
@@ -72,7 +80,9 @@ m_1v_1'+m_2v_2'&=(m_1+m_2)v_f'
 \end{align*}
 $$
 
-$$\underset{\text{conservation of momentum}}{\therefore{S'}: m_1v_1'+m_2v_2'=(m_1+m_2)v_f'}$$
+$$
+\underset{\text{conservation of momentum}}{\therefore{S'}: m_1v_1'+m_2v_2'=(m_1+m_2)v_f'}
+$$
 
 ---
 

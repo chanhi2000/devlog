@@ -16,4 +16,4 @@ description: 🐍Python > 📚References
 
 - [Pentesting Android Apps Using Frida](https://notsosecure.com/pentesting-android-apps-using-frida)
 
-<TagList />
+<TagLinks />

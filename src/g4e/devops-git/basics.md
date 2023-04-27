@@ -13,9 +13,9 @@ tags: ["git", "git-cli", "bash", "terminal", "windows-terminal", "tortoisegit", 
 
 ---
 
-## 기본 명령어
+## 기본 명령어 
 
-### 저장소 (repository) 관리
+### 저장소 (repository) 관리 <Badge type="tip" text="git-remote" vertical="middle" /><Badge type="tip" text="git-fetch" vertical="middle" /><Badge type="tip" text="git-pull" vertical="middle" /><Badge type="tip" text="git-push" vertical="middle" />
 
 | 명령어 | 설명 |
 | :--- | :--- |

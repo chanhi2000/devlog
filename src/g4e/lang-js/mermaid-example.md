@@ -17,7 +17,7 @@ tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js", "example"]
 
 ### Badge <Badge text="beta" type="warning"/> <Badge text="default theme"/>
 
-```mermaidjs
+```mermaid
 graph TD;
     A-->B;
     A-->C;
@@ -38,7 +38,7 @@ graph TD;
 
 ## Sequence
 
-```mermaidjs
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
@@ -53,6 +53,7 @@ sequenceDiagram
 ```
 
 ::: details Click here to view code
+
 ```js
 sequenceDiagram
     participant Alice
@@ -71,7 +72,7 @@ sequenceDiagram
 
 ## Gantt
 
-```mermaidjs
+```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -101,7 +102,7 @@ Future task2               :         des4, after des3, 5d
 
 ## Class
 
-```mermaidjs
+```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -136,3 +137,5 @@ Class01 : int gorilla
 Class08 <--> C2: Cool label
 ```
 :::
+
+<TagLinks />
