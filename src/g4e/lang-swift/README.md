@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Intro
 description: 🕊️Swift
+category: 🕊️Swift
 ---
 
 # {{ $frontmatter.description }} 관련

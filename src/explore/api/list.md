@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: APIs & Resources
-description: APIs & Resources
+title: Resources
+description: 🧭 API > Resources
 tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gitignore", "hyperlink"]
 ---
 

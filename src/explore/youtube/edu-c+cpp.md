@@ -18,40 +18,39 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 [널널한 개발자 TV][yu-user-kw8xd4qi8q]
 
 ::: details 이것이 C++이다
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=kq6b5zBkQ28"><img width="140px" height="auto" alt="thumb-kq6b5zBkQ28" src="https://i.ytimg.com/vi/kq6b5zBkQ28/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 첫 번째](https://www.youtube.com/watch?v=kq6b5zBkQ28) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9ZhnXzr9bEQ"><img width="140px" height="auto" alt="thumb-9ZhnXzr9bEQ" src="https://i.ytimg.com/vi/9ZhnXzr9bEQ/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 두 번째](https://www.youtube.com/watch?v=9ZhnXzr9bEQ) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tYns7XO9xU0"><img width="140px" height="auto" alt="thumb-tYns7XO9xU0" src="https://i.ytimg.com/vi/tYns7XO9xU0/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 세 번째](https://www.youtube.com/watch?v=tYns7XO9xU0) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=w9I65zz3pik"><img width="140px" height="auto" alt="thumb-w9I65zz3pik" src="https://i.ytimg.com/vi/w9I65zz3pik/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 네 번째](https://www.youtube.com/watch?v=w9I65zz3pik) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NsjDRSNrJR0"><img width="140px" height="auto" alt="thumb-NsjDRSNrJR0" src="https://i.ytimg.com/vi/NsjDRSNrJR0/hqdefault.jpg"/></a> | [제02장 C++함수와 네임스페이스 - 첫 번째](https://www.youtube.com/watch?v=NsjDRSNrJR0) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nIAWJxpMrLY"><img width="140px" height="auto" alt="thumb-nIAWJxpMrLY" src="https://i.ytimg.com/vi/nIAWJxpMrLY/hqdefault.jpg"/></a> | [제02장 C++함수와 네임스페이스 - 두 번째](https://www.youtube.com/watch?v=nIAWJxpMrLY) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=r6-p0NiufSU"><img width="140px" height="auto" alt="thumb-r6-p0NiufSU" src="https://i.ytimg.com/vi/r6-p0NiufSU/hqdefault.jpg"/></a> | [제02장 C++함수와 네임스페이스 - 세 번째](https://www.youtube.com/watch?v=r6-p0NiufSU) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Cnfa1d-DGss"><img width="140px" height="auto" alt="thumb-Cnfa1d-DGss" src="https://i.ytimg.com/vi/Cnfa1d-DGss/hqdefault.jpg"/></a> | [제03장 클래스 - 첫 번째](https://www.youtube.com/watch?v=Cnfa1d-DGss) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VmE5VlioZ_c"><img width="140px" height="auto" alt="thumb-VmE5VlioZ_c" src="https://i.ytimg.com/vi/VmE5VlioZ_c/hqdefault.jpg"/></a> | [제03장 클래스 - 두 번째](https://www.youtube.com/watch?v=VmE5VlioZ_c) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yxHTihABwlU"><img width="140px" height="auto" alt="thumb-yxHTihABwlU" src="https://i.ytimg.com/vi/yxHTihABwlU/hqdefault.jpg"/></a> | [제03장 클래스 - 세 번째](https://www.youtube.com/watch?v=yxHTihABwlU) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cz7LH28nomc"><img width="140px" height="auto" alt="thumb-cz7LH28nomc" src="https://i.ytimg.com/vi/cz7LH28nomc/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 - 첫 번째](https://www.youtube.com/watch?v=cz7LH28nomc) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VudlzutrOic"><img width="140px" height="auto" alt="thumb-VudlzutrOic" src="https://i.ytimg.com/vi/VudlzutrOic/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 - 두 번째](https://www.youtube.com/watch?v=VudlzutrOic) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=V0Ws_SOm9ns"><img width="140px" height="auto" alt="thumb-V0Ws_SOm9ns" src="https://i.ytimg.com/vi/V0Ws_SOm9ns/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 - 세 번째](https://www.youtube.com/watch?v=V0Ws_SOm9ns) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oxW1Zoy912c"><img width="140px" height="auto" alt="thumb-oxW1Zoy912c" src="https://i.ytimg.com/vi/oxW1Zoy912c/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 -  네 번째](https://www.youtube.com/watch?v=oxW1Zoy912c) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mMUGuuTkOmM"><img width="140px" height="auto" alt="thumb-mMUGuuTkOmM" src="https://i.ytimg.com/vi/mMUGuuTkOmM/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 -  다섯 번째](https://www.youtube.com/watch?v=mMUGuuTkOmM) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=q5k6rrifFSQ"><img width="140px" height="auto" alt="thumb-q5k6rrifFSQ" src="https://i.ytimg.com/vi/q5k6rrifFSQ/hqdefault.jpg"/></a> | [제05장 연산자 다중 정의 - 첫 번째](https://www.youtube.com/watch?v=q5k6rrifFSQ) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EVOaRJEHrdw"><img width="140px" height="auto" alt="thumb-EVOaRJEHrdw" src="https://i.ytimg.com/vi/EVOaRJEHrdw/hqdefault.jpg"/></a> | [제05장 연산자 다중 정의 - 두 번째](https://www.youtube.com/watch?v=EVOaRJEHrdw) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9w_CwGW_eSQ"><img width="140px" height="auto" alt="thumb-9w_CwGW_eSQ" src="https://i.ytimg.com/vi/9w_CwGW_eSQ/hqdefault.jpg"/></a> | [제05장 연산자 다중 정의 - 세 번째](https://www.youtube.com/watch?v=9w_CwGW_eSQ) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3rATqffBMhg"><img width="140px" height="auto" alt="thumb-3rATqffBMhg" src="https://i.ytimg.com/vi/3rATqffBMhg/hqdefault.jpg"/></a> | [제06장 상속 기본](https://www.youtube.com/watch?v=3rATqffBMhg) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nds94MTLABA"><img width="140px" height="auto" alt="thumb-nds94MTLABA" src="https://i.ytimg.com/vi/nds94MTLABA/hqdefault.jpg"/></a> | [제06장 상속 기본 - 두 번째](https://www.youtube.com/watch?v=nds94MTLABA) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jDGb1q8GmSQ"><img width="140px" height="auto" alt="thumb-jDGb1q8GmSQ" src="https://i.ytimg.com/vi/jDGb1q8GmSQ/hqdefault.jpg"/></a> | [제07장 상속 심화 - 첫 번째](https://www.youtube.com/watch?v=jDGb1q8GmSQ) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1W4CkEMajQs"><img width="140px" height="auto" alt="thumb-1W4CkEMajQs" src="https://i.ytimg.com/vi/1W4CkEMajQs/hqdefault.jpg"/></a> | [제07장 상속 심화 - 두 번째](https://www.youtube.com/watch?v=1W4CkEMajQs) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iVIqh37Up68"><img width="140px" height="auto" alt="thumb-iVIqh37Up68" src="https://i.ytimg.com/vi/iVIqh37Up68/hqdefault.jpg"/></a> | [제07장 상속 심화 - 세 번째](https://www.youtube.com/watch?v=iVIqh37Up68) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0Q970NLiJIk"><img width="140px" height="auto" alt="thumb-0Q970NLiJIk" src="https://i.ytimg.com/vi/0Q970NLiJIk/hqdefault.jpg"/></a> | [제07장 상속 심화 - 네 번째](https://www.youtube.com/watch?v=0Q970NLiJIk) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5WXmdllwAjU"><img width="140px" height="auto" alt="thumb-5WXmdllwAjU" src="https://i.ytimg.com/vi/5WXmdllwAjU/hqdefault.jpg"/></a> | [제07장 상속 심화 - 다섯 번째](https://www.youtube.com/watch?v=5WXmdllwAjU) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7BjS_Fldjaw"><img width="140px" height="auto" alt="thumb-7BjS_Fldjaw" src="https://i.ytimg.com/vi/7BjS_Fldjaw/hqdefault.jpg"/></a> | [제08장 수평적 관계와 집합 관계](https://www.youtube.com/watch?v=7BjS_Fldjaw) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TBQ9KG4aihc"><img width="140px" height="auto" alt="thumb-TBQ9KG4aihc" src="https://i.ytimg.com/vi/TBQ9KG4aihc/hqdefault.jpg"/></a> | [제09장 템플릿 - 첫 번째](https://www.youtube.com/watch?v=TBQ9KG4aihc) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=65d43pcWVtc"><img width="140px" height="auto" alt="thumb-65d43pcWVtc" src="https://i.ytimg.com/vi/65d43pcWVtc/hqdefault.jpg"/></a> | [제09장 템플릿 - 두 번째](https://www.youtube.com/watch?v=65d43pcWVtc) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=W5WNTGUJllo"><img width="140px" height="auto" alt="thumb-W5WNTGUJllo" src="https://i.ytimg.com/vi/W5WNTGUJllo/hqdefault.jpg"/></a> | [제09장 템플릿 - 세 번째](https://www.youtube.com/watch?v=W5WNTGUJllo) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6_Z96kCEYZs"><img width="140px" height="auto" alt="thumb-6_Z96kCEYZs" src="https://i.ytimg.com/vi/6_Z96kCEYZs/hqdefault.jpg"/></a> | [제10장 예외 처리](https://www.youtube.com/watch?v=6_Z96kCEYZs) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=k0-0rVFm3qQ"><img width="140px" height="auto" alt="thumb-k0-0rVFm3qQ" src="https://i.ytimg.com/vi/k0-0rVFm3qQ/hqdefault.jpg"/></a> | [제11장 객체지향 주소록](https://www.youtube.com/watch?v=k0-0rVFm3qQ) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GtEB3Toap8c"><img width="140px" height="auto" alt="thumb-GtEB3Toap8c" src="https://i.ytimg.com/vi/GtEB3Toap8c/hqdefault.jpg"/></a> | [제12장 못 다한 이야기와 앞으로 해야 할 것](https://www.youtube.com/watch?v=GtEB3Toap8c) <br/><br/> _[널널한 개발자 TV][yu-user-kw8xd4qi8q]_ |
+
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="kq6b5zBkQ28" title="제01장 C와는 다른 C++ - 첫 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="9ZhnXzr9bEQ" title="제01장 C와는 다른 C++ - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="tYns7XO9xU0" title="제01장 C와는 다른 C++ - 세 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="w9I65zz3pik" title="제01장 C와는 다른 C++ - 네 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="NsjDRSNrJR0" title="제02장 C++함수와 네임스페이스 - 첫 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="nIAWJxpMrLY" title="제02장 C++함수와 네임스페이스 - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="r6-p0NiufSU" title="제02장 C++함수와 네임스페이스 - 세 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="Cnfa1d-DGss" title="제03장 클래스 - 첫 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="VmE5VlioZ_c" title="제03장 클래스 - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="yxHTihABwlU" title="제03장 클래스 - 세 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="cz7LH28nomc" title="제04장 복사 생성자와 임시 객체 - 첫 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="VudlzutrOic" title="제04장 복사 생성자와 임시 객체 - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="V0Ws_SOm9ns" title="제04장 복사 생성자와 임시 객체 - 세 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="oxW1Zoy912c" title="제04장 복사 생성자와 임시 객체 -  네 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="mMUGuuTkOmM" title="제04장 복사 생성자와 임시 객체 -  다섯 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="q5k6rrifFSQ" title="제05장 연산자 다중 정의 - 첫 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="EVOaRJEHrdw" title="제05장 연산자 다중 정의 - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="9w_CwGW_eSQ" title="제05장 연산자 다중 정의 - 세 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="3rATqffBMhg" title="제06장 상속 기본"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="nds94MTLABA" title="제06장 상속 기본 - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="jDGb1q8GmSQ" title="제07장 상속 심화 - 첫 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="1W4CkEMajQs" title="제07장 상속 심화 - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="iVIqh37Up68" title="제07장 상속 심화 - 세 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="0Q970NLiJIk" title="제07장 상속 심화 - 네 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="5WXmdllwAjU" title="제07장 상속 심화 - 다섯 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="7BjS_Fldjaw" title="제08장 수평적 관계와 집합 관계"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="TBQ9KG4aihc" title="제09장 템플릿 - 첫 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="65d43pcWVtc" title="제09장 템플릿 - 두 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="W5WNTGUJllo" title="제09장 템플릿 - 세 번째"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="6_Z96kCEYZs" title="제10장 예외 처리"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="k0-0rVFm3qQ" title="제11장 객체지향 주소록"/>
+<YoutubeItem channelName="널널한 개발자 TV" channelId="user-kw8xd4qi8q" id="GtEB3Toap8c" title="제12장 못 다한 이야기와 앞으로 해야 할 것"/>
 
 :::
 
@@ -62,78 +61,77 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 [한빛미디어][yu-HanbitMedia93]
 
 ::: details 혼공C 새로워진 이것이 C언어다.
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=wWJ3koUPPG4"><img width="140px" height="auto" alt="thumb-wWJ3koUPPG4" src="https://i.ytimg.com/vi/wWJ3koUPPG4/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 1강. 01-1 프로그램과 C언어 / 01-2 컴파일러 사용법](https://www.youtube.com/watch?v=wWJ3koUPPG4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mBUCoQRaNJc"><img width="140px" height="auto" alt="thumb-mBUCoQRaNJc" src="https://i.ytimg.com/vi/mBUCoQRaNJc/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 2강. 02-1 C 프로그램의 기본 형태와 데이터 출력 방법](https://www.youtube.com/watch?v=mBUCoQRaNJc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sf3G4zZIKek"><img width="140px" height="auto" alt="thumb-sf3G4zZIKek" src="https://i.ytimg.com/vi/sf3G4zZIKek/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 3강. 02-2 상수와 데이터 표현 방법](https://www.youtube.com/watch?v=sf3G4zZIKek) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XwRmtMYZ_qo"><img width="140px" height="auto" alt="thumb-XwRmtMYZ_qo" src="https://i.ytimg.com/vi/XwRmtMYZ_qo/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 4강. 03-1 C언어 변수](https://www.youtube.com/watch?v=XwRmtMYZ_qo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=A0xvKifjwmU"><img width="140px" height="auto" alt="thumb-A0xvKifjwmU" src="https://i.ytimg.com/vi/A0xvKifjwmU/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 5강. 03-2 C언어 데이터 입력](https://www.youtube.com/watch?v=A0xvKifjwmU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QoE-MuAeqAQ"><img width="140px" height="auto" alt="thumb-QoE-MuAeqAQ" src="https://i.ytimg.com/vi/QoE-MuAeqAQ/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 6강. 04-1 C언어 산술, 관계, 논리 연산자](https://www.youtube.com/watch?v=QoE-MuAeqAQ) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jvYy3MzTzIA"><img width="140px" height="auto" alt="thumb-jvYy3MzTzIA" src="https://i.ytimg.com/vi/jvYy3MzTzIA/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 7강. 04-2 비트 연산자와 그 외의 멋진 연산자](https://www.youtube.com/watch?v=jvYy3MzTzIA) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ks0b-j2O_i8"><img width="140px" height="auto" alt="thumb-ks0b-j2O_i8" src="https://i.ytimg.com/vi/ks0b-j2O_i8/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 8강. 05-1 C언어 if문](https://www.youtube.com/watch?v=ks0b-j2O_i8) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=W3L692ZiYZI"><img width="140px" height="auto" alt="thumb-W3L692ZiYZI" src="https://i.ytimg.com/vi/W3L692ZiYZI/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 9강. 05-2 if문의 활용과 switch~case문](https://www.youtube.com/watch?v=W3L692ZiYZI) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LT9YKy_4sU0"><img width="140px" height="auto" alt="thumb-LT9YKy_4sU0" src="https://i.ytimg.com/vi/LT9YKy_4sU0/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 10강. 06-1 while, for, do~while](https://www.youtube.com/watch?v=LT9YKy_4sU0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lJFS6Bgk9WQ"><img width="140px" height="auto" alt="thumb-lJFS6Bgk9WQ" src="https://i.ytimg.com/vi/lJFS6Bgk9WQ/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 11강. 06-2 반복문 활용](https://www.youtube.com/watch?v=lJFS6Bgk9WQ) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=j6rR5E91uXo"><img width="140px" height="auto" alt="thumb-j6rR5E91uXo" src="https://i.ytimg.com/vi/j6rR5E91uXo/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 12강. 07-1 함수의 작성과 사용](https://www.youtube.com/watch?v=j6rR5E91uXo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PUFcMlLVWKE"><img width="140px" height="auto" alt="thumb-PUFcMlLVWKE" src="https://i.ytimg.com/vi/PUFcMlLVWKE/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 13강. 07-2 여러 가지 함수 유형](https://www.youtube.com/watch?v=PUFcMlLVWKE) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8Q7sTYoXSXs"><img width="140px" height="auto" alt="thumb-8Q7sTYoXSXs" src="https://i.ytimg.com/vi/8Q7sTYoXSXs/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 14강. 08-1 배열의 선언과 사용](https://www.youtube.com/watch?v=8Q7sTYoXSXs) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=50OrmH-WFNs"><img width="140px" height="auto" alt="thumb-50OrmH-WFNs" src="https://i.ytimg.com/vi/50OrmH-WFNs/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 15강. 08-2 문자를 저장하는 배열](https://www.youtube.com/watch?v=50OrmH-WFNs) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=dl0zEZM1k_k"><img width="140px" height="auto" alt="thumb-dl0zEZM1k_k" src="https://i.ytimg.com/vi/dl0zEZM1k_k/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 16강. 09-1 C언어 포인터의 기본 개념](https://www.youtube.com/watch?v=dl0zEZM1k_k) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gie6O_x8iAk"><img width="140px" height="auto" alt="thumb-gie6O_x8iAk" src="https://i.ytimg.com/vi/gie6O_x8iAk/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 17강. 09-2 C언어 포인터에 관한 궁금한 이야기](https://www.youtube.com/watch?v=gie6O_x8iAk) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IAsTsLPf5i4"><img width="140px" height="auto" alt="thumb-IAsTsLPf5i4" src="https://i.ytimg.com/vi/IAsTsLPf5i4/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 18강. 10-1 배열과 포인터의 관계](https://www.youtube.com/watch?v=IAsTsLPf5i4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=chDFjei5MMo"><img width="140px" height="auto" alt="thumb-chDFjei5MMo" src="https://i.ytimg.com/vi/chDFjei5MMo/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 19강. 10-2 배열을 처리하는 함수](https://www.youtube.com/watch?v=chDFjei5MMo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Yr4T8O9JuOE"><img width="140px" height="auto" alt="thumb-Yr4T8O9JuOE" src="https://i.ytimg.com/vi/Yr4T8O9JuOE/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 20강. 11-1 아스키 코드 값과 문자 입출력 함수](https://www.youtube.com/watch?v=Yr4T8O9JuOE) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U77SN6iBQdo"><img width="140px" height="auto" alt="thumb-U77SN6iBQdo" src="https://i.ytimg.com/vi/U77SN6iBQdo/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 21강. 11-2 버퍼를 사용하는 입력 함수](https://www.youtube.com/watch?v=U77SN6iBQdo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TklDNZBUzBE"><img width="140px" height="auto" alt="thumb-TklDNZBUzBE" src="https://i.ytimg.com/vi/TklDNZBUzBE/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 22강. 12-1 문자열과 포인터](https://www.youtube.com/watch?v=TklDNZBUzBE) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Er9M8I6J3e8"><img width="140px" height="auto" alt="thumb-Er9M8I6J3e8" src="https://i.ytimg.com/vi/Er9M8I6J3e8/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 23강. 12-2 문자열 연산 함수](https://www.youtube.com/watch?v=Er9M8I6J3e8) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aBBSDJwphe"><img width="140px" height="auto" alt="thumb-aBBSDJwphe" src="https://i.ytimg.com/vi/aBBSDJwphe/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 24강. 13-1 변수 사용 영역](https://www.youtube.com/watch?v=aBBSDJwphe) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kSxouD4vBos"><img width="140px" height="auto" alt="thumb-kSxouD4vBos" src="https://i.ytimg.com/vi/kSxouD4vBos/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 25강. 13-2 함수의 데이터 공유 방법](https://www.youtube.com/watch?v=kSxouD4vBos) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=a_0dHU4wjI4"><img width="140px" height="auto" alt="thumb-a_0dHU4wjI4" src="https://i.ytimg.com/vi/a_0dHU4wjI4/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 26강. 14-1 2차원 배열](https://www.youtube.com/watch?v=a_0dHU4wjI4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Wet7lcU3fb0"><img width="140px" height="auto" alt="thumb-Wet7lcU3fb0" src="https://i.ytimg.com/vi/Wet7lcU3fb0/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 27강. 14-2 포인터 배열](https://www.youtube.com/watch?v=Wet7lcU3fb0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HkxfPb1UbvI"><img width="140px" height="auto" alt="thumb-HkxfPb1UbvI" src="https://i.ytimg.com/vi/HkxfPb1UbvI/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 28강. 15-1 이중 포인터와 배열 포인터](https://www.youtube.com/watch?v=HkxfPb1UbvI) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=j9kKueGUUsQ"><img width="140px" height="auto" alt="thumb-j9kKueGUUsQ" src="https://i.ytimg.com/vi/j9kKueGUUsQ/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 29강. 15-2 함수 포인터와 void 포인터](https://www.youtube.com/watch?v=j9kKueGUUsQ) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3HDcLuwkf88"><img width="140px" height="auto" alt="thumb-3HDcLuwkf88" src="https://i.ytimg.com/vi/3HDcLuwkf88/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 30강. 16-1 동적 할당 함수](https://www.youtube.com/watch?v=3HDcLuwkf88) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EIyXNSNXJNw"><img width="140px" height="auto" alt="thumb-EIyXNSNXJNw" src="https://i.ytimg.com/vi/EIyXNSNXJNw/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 31강. 16-2 동적 할당 저장 공간의 활용](https://www.youtube.com/watch?v=EIyXNSNXJNw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Sh_1VbdP6xo"><img width="140px" height="auto" alt="thumb-Sh_1VbdP6xo" src="https://i.ytimg.com/vi/Sh_1VbdP6xo/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 32강. 17-1 구조체](https://www.youtube.com/watch?v=Sh_1VbdP6xo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Txw80p79vFw"><img width="140px" height="auto" alt="thumb-Txw80p79vFw" src="https://i.ytimg.com/vi/Txw80p79vFw/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 33강. 17-2 구조체 활용, 공용체, 열거형](https://www.youtube.com/watch?v=Txw80p79vFw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=toKvOushbEo"><img width="140px" height="auto" alt="thumb-toKvOushbEo" src="https://i.ytimg.com/vi/toKvOushbEo/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 34강. 18-1 파일 개방과 입출력](https://www.youtube.com/watch?v=toKvOushbEo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8477zpHEHQ4"><img width="140px" height="auto" alt="thumb-8477zpHEHQ4" src="https://i.ytimg.com/vi/8477zpHEHQ4/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 35강. 18-2 다양한 파일 입출력 함수](https://www.youtube.com/watch?v=8477zpHEHQ4) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PnMIKQIAqm8"><img width="140px" height="auto" alt="thumb-PnMIKQIAqm8" src="https://i.ytimg.com/vi/PnMIKQIAqm8/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 36강. 19-1 전처리 지시자(1)](https://www.youtube.com/watch?v=PnMIKQIAqm8) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OTJrBCCFVGM"><img width="140px" height="auto" alt="thumb-OTJrBCCFVGM" src="https://i.ytimg.com/vi/OTJrBCCFVGM/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 38강. 19-2 분할 컴파일](https://www.youtube.com/watch?v=OTJrBCCFVGM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cTh5-1-im6g"><img width="140px" height="auto" alt="thumb-cTh5-1-im6g" src="https://i.ytimg.com/vi/cTh5-1-im6g/hqdefault.jpg"/></a> | [\[혼공C_새로워진 이것이 C언어다\] 37강. 19-2 전처리 지시자(2)](https://www.youtube.com/watch?v=cTh5-1-im6g) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kq6b5zBkQ28"><img width="140px" height="auto" alt="thumb-kq6b5zBkQ28" src="https://i.ytimg.com/vi/kq6b5zBkQ28/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 첫 번째](https://www.youtube.com/watch?v=kq6b5zBkQ28) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mBUCoQRaNJc"><img width="140px" height="auto" alt="thumb-mBUCoQRaNJc" src="https://i.ytimg.com/vi/mBUCoQRaNJc/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 두 번째](https://www.youtube.com/watch?v=mBUCoQRaNJc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tYns7XO9xU0"><img width="140px" height="auto" alt="thumb-tYns7XO9xU0" src="https://i.ytimg.com/vi/tYns7XO9xU0/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 세 번째](https://www.youtube.com/watch?v=tYns7XO9xU0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=w9I65zz3pik"><img width="140px" height="auto" alt="thumb-w9I65zz3pik" src="https://i.ytimg.com/vi/w9I65zz3pik/hqdefault.jpg"/></a> | [제01장 C와는 다른 C++ - 네 번째](https://www.youtube.com/watch?v=w9I65zz3pik) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NsjDRSNrJR0"><img width="140px" height="auto" alt="thumb-NsjDRSNrJR0" src="https://i.ytimg.com/vi/NsjDRSNrJR0/hqdefault.jpg"/></a> | [제02장 C++함수와 네임스페이스 - 첫 번째](https://www.youtube.com/watch?v=NsjDRSNrJR0) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nIAWJxpMrLY"><img width="140px" height="auto" alt="thumb-nIAWJxpMrLY" src="https://i.ytimg.com/vi/nIAWJxpMrLY/hqdefault.jpg"/></a> | [제02장 C++함수와 네임스페이스 - 두 번째](https://www.youtube.com/watch?v=nIAWJxpMrLY) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=r6-p0NiufSU"><img width="140px" height="auto" alt="thumb-r6-p0NiufSU" src="https://i.ytimg.com/vi/r6-p0NiufSU/hqdefault.jpg"/></a> | [제02장 C++함수와 네임스페이스 - 세 번째](https://www.youtube.com/watch?v=r6-p0NiufSU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Cnfa1d-DGss"><img width="140px" height="auto" alt="thumb-Cnfa1d-DGss" src="https://i.ytimg.com/vi/Cnfa1d-DGss/hqdefault.jpg"/></a> | [제03장 클래스 - 첫 번째](https://www.youtube.com/watch?v=Cnfa1d-DGss) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VmE5VlioZ_c"><img width="140px" height="auto" alt="thumb-VmE5VlioZ_c" src="https://i.ytimg.com/vi/VmE5VlioZ_c/hqdefault.jpg"/></a> | [제03장 클래스 - 두 번째](https://www.youtube.com/watch?v=VmE5VlioZ_c) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yxHTihABwlU"><img width="140px" height="auto" alt="thumb-yxHTihABwlU" src="https://i.ytimg.com/vi/yxHTihABwlU/hqdefault.jpg"/></a> | [제03장 클래스 - 세 번째](https://www.youtube.com/watch?v=yxHTihABwlU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cz7LH28nomc"><img width="140px" height="auto" alt="thumb-cz7LH28nomc" src="https://i.ytimg.com/vi/cz7LH28nomc/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 - 첫 번째](https://www.youtube.com/watch?v=cz7LH28nomc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VudlzutrOic"><img width="140px" height="auto" alt="thumb-VudlzutrOic" src="https://i.ytimg.com/vi/VudlzutrOic/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 - 두 번째](https://www.youtube.com/watch?v=VudlzutrOic) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=V0Ws_SOm9ns"><img width="140px" height="auto" alt="thumb-V0Ws_SOm9ns" src="https://i.ytimg.com/vi/V0Ws_SOm9ns/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 - 세 번째](https://www.youtube.com/watch?v=V0Ws_SOm9ns) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oxW1Zoy912c"><img width="140px" height="auto" alt="thumb-oxW1Zoy912c" src="https://i.ytimg.com/vi/oxW1Zoy912c/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 -  네 번째](https://www.youtube.com/watch?v=oxW1Zoy912c) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mMUGuuTkOmM"><img width="140px" height="auto" alt="thumb-mMUGuuTkOmM" src="https://i.ytimg.com/vi/mMUGuuTkOmM/hqdefault.jpg"/></a> | [제04장 복사 생성자와 임시 객체 -  다섯 번째](https://www.youtube.com/watch?v=mMUGuuTkOmM) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=q5k6rrifFSQ"><img width="140px" height="auto" alt="thumb-q5k6rrifFSQ" src="https://i.ytimg.com/vi/q5k6rrifFSQ/hqdefault.jpg"/></a> | [제05장 연산자 다중 정의 - 첫 번째](https://www.youtube.com/watch?v=q5k6rrifFSQ) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EVOaRJEHrdw"><img width="140px" height="auto" alt="thumb-EVOaRJEHrdw" src="https://i.ytimg.com/vi/EVOaRJEHrdw/hqdefault.jpg"/></a> | [제05장 연산자 다중 정의 - 두 번째](https://www.youtube.com/watch?v=EVOaRJEHrdw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9w_CwGW_eSQ"><img width="140px" height="auto" alt="thumb-9w_CwGW_eSQ" src="https://i.ytimg.com/vi/9w_CwGW_eSQ/hqdefault.jpg"/></a> | [제05장 연산자 다중 정의 - 세 번째](https://www.youtube.com/watch?v=9w_CwGW_eSQ) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3rATqffBMhg"><img width="140px" height="auto" alt="thumb-3rATqffBMhg" src="https://i.ytimg.com/vi/3rATqffBMhg/hqdefault.jpg"/></a> | [제06장 상속 기본](https://www.youtube.com/watch?v=3rATqffBMhg) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nds94MTLABA"><img width="140px" height="auto" alt="thumb-nds94MTLABA" src="https://i.ytimg.com/vi/nds94MTLABA/hqdefault.jpg"/></a> | [제06장 상속 기본 - 두 번째](https://www.youtube.com/watch?v=nds94MTLABA) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1W4CkEMajQs"><img width="140px" height="auto" alt="thumb-1W4CkEMajQs" src="https://i.ytimg.com/vi/1W4CkEMajQs/hqdefault.jpg"/></a> | [제07장 상속 심화 - 두 번째](https://www.youtube.com/watch?v=1W4CkEMajQs) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jDGb1q8GmSQ"><img width="140px" height="auto" alt="thumb-jDGb1q8GmSQ" src="https://i.ytimg.com/vi/jDGb1q8GmSQ/hqdefault.jpg"/></a> | [제07장 상속 심화 - 첫 번째](https://www.youtube.com/watch?v=jDGb1q8GmSQ) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iVIqh37Up68"><img width="140px" height="auto" alt="thumb-iVIqh37Up68" src="https://i.ytimg.com/vi/iVIqh37Up68/hqdefault.jpg"/></a> | [제07장 상속 심화 - 세 번째](https://www.youtube.com/watch?v=iVIqh37Up68) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0Q970NLiJIk"><img width="140px" height="auto" alt="thumb-0Q970NLiJIk" src="https://i.ytimg.com/vi/0Q970NLiJIk/hqdefault.jpg"/></a> | [제07장 상속 심화 - 네 번째](https://www.youtube.com/watch?v=0Q970NLiJIk) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5WXmdllwAjU"><img width="140px" height="auto" alt="thumb-5WXmdllwAjU" src="https://i.ytimg.com/vi/5WXmdllwAjU/hqdefault.jpg"/></a> | [제07장 상속 심화 - 다섯 번째](https://www.youtube.com/watch?v=5WXmdllwAjU) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7BjS_Fldjaw"><img width="140px" height="auto" alt="thumb-7BjS_Fldjaw" src="https://i.ytimg.com/vi/7BjS_Fldjaw/hqdefault.jpg"/></a> | [제08장 수평적 관계와 집합 관계](https://www.youtube.com/watch?v=7BjS_Fldjaw) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TBQ9KG4aihc"><img width="140px" height="auto" alt="thumb-TBQ9KG4aihc" src="https://i.ytimg.com/vi/TBQ9KG4aihc/hqdefault.jpg"/></a> | [제09장 템플릿 - 첫 번째](https://www.youtube.com/watch?v=TBQ9KG4aihc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=65d43pcWVtc"><img width="140px" height="auto" alt="thumb-65d43pcWVtc" src="https://i.ytimg.com/vi/65d43pcWVtc/hqdefault.jpg"/></a> | [제09장 템플릿 - 두 번째](https://www.youtube.com/watch?v=65d43pcWVtc) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=W5WNTGUJllo"><img width="140px" height="auto" alt="thumb-W5WNTGUJllo" src="https://i.ytimg.com/vi/W5WNTGUJllo/hqdefault.jpg"/></a> | [제09장 템플릿 - 세 번째](https://www.youtube.com/watch?v=W5WNTGUJllo) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6_Z96kCEYZs"><img width="140px" height="auto" alt="thumb-6_Z96kCEYZs" src="https://i.ytimg.com/vi/6_Z96kCEYZs/hqdefault.jpg"/></a> | [제10장 예외 처리](https://www.youtube.com/watch?v=6_Z96kCEYZs) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GtEB3Toap8c"><img width="140px" height="auto" alt="thumb-GtEB3Toap8c" src="https://i.ytimg.com/vi/GtEB3Toap8c/hqdefault.jpg"/></a> | [제12장 못 다한 이야기와 앞으로 해야 할 것](https://www.youtube.com/watch?v=GtEB3Toap8c) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=k0-0rVFm3qQ"><img width="140px" height="auto" alt="thumb-k0-0rVFm3qQ" src="https://i.ytimg.com/vi/k0-0rVFm3qQ/hqdefault.jpg"/></a> | [제11장 객체지향 주소록](https://www.youtube.com/watch?v=k0-0rVFm3qQ) <br/><br/> _[한빛미디어][yu-HanbitMedia93]_ |
+
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="wWJ3koUPPG4" title="[혼공C_새로워진 이것이 C언어다] 1강. 01-1 프로그램과 C언어 / 01-2 컴파일러 사용법"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="mBUCoQRaNJc" title="[혼공C_새로워진 이것이 C언어다] 2강. 02-1 C 프로그램의 기본 형태와 데이터 출력 방법"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="sf3G4zZIKek" title="[혼공C_새로워진 이것이 C언어다] 3강. 02-2 상수와 데이터 표현 방법"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="XwRmtMYZ_qo" title="[혼공C_새로워진 이것이 C언어다] 4강. 03-1 C언어 변수"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="A0xvKifjwmU" title="[혼공C_새로워진 이것이 C언어다] 5강. 03-2 C언어 데이터 입력"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="QoE-MuAeqAQ" title="[혼공C_새로워진 이것이 C언어다] 6강. 04-1 C언어 산술, 관계, 논리 연산자"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="jvYy3MzTzIA" title="[혼공C_새로워진 이것이 C언어다] 7강. 04-2 비트 연산자와 그 외의 멋진 연산자"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="ks0b-j2O_i8" title="[혼공C_새로워진 이것이 C언어다] 8강. 05-1 C언어 if문"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="W3L692ZiYZI" title="[혼공C_새로워진 이것이 C언어다] 9강. 05-2 if문의 활용과 switch~case문"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="LT9YKy_4sU0" title="[혼공C_새로워진 이것이 C언어다] 10강. 06-1 while, for, do~while"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="lJFS6Bgk9WQ" title="[혼공C_새로워진 이것이 C언어다] 11강. 06-2 반복문 활용"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="j6rR5E91uXo" title="[혼공C_새로워진 이것이 C언어다] 12강. 07-1 함수의 작성과 사용"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="PUFcMlLVWKE" title="[혼공C_새로워진 이것이 C언어다] 13강. 07-2 여러 가지 함수 유형"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="8Q7sTYoXSXs" title="[혼공C_새로워진 이것이 C언어다] 14강. 08-1 배열의 선언과 사용"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="50OrmH-WFNs" title="[혼공C_새로워진 이것이 C언어다] 15강. 08-2 문자를 저장하는 배열"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="dl0zEZM1k_k" title="[혼공C_새로워진 이것이 C언어다] 16강. 09-1 C언어 포인터의 기본 개념"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="gie6O_x8iAk" title="[혼공C_새로워진 이것이 C언어다] 17강. 09-2 C언어 포인터에 관한 궁금한 이야기"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="IAsTsLPf5i4" title="[혼공C_새로워진 이것이 C언어다] 18강. 10-1 배열과 포인터의 관계"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="chDFjei5MMo" title="[혼공C_새로워진 이것이 C언어다] 19강. 10-2 배열을 처리하는 함수"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="Yr4T8O9JuOE" title="[혼공C_새로워진 이것이 C언어다] 20강. 11-1 아스키 코드 값과 문자 입출력 함수"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="U77SN6iBQdo" title="[혼공C_새로워진 이것이 C언어다] 21강. 11-2 버퍼를 사용하는 입력 함수"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="TklDNZBUzBE" title="[혼공C_새로워진 이것이 C언어다] 22강. 12-1 문자열과 포인터"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="Er9M8I6J3e8" title="[혼공C_새로워진 이것이 C언어다] 23강. 12-2 문자열 연산 함수"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="aBBSDJwpheU" title="[혼공C_새로워진 이것이 C언어다] 24강. 13-1 변수 사용 영역"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="kSxouD4vBos" title="[혼공C_새로워진 이것이 C언어다] 25강. 13-2 함수의 데이터 공유 방법"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="a_0dHU4wjI4" title="[혼공C_새로워진 이것이 C언어다] 26강. 14-1 2차원 배열"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="Wet7lcU3fb0" title="[혼공C_새로워진 이것이 C언어다] 27강. 14-2 포인터 배열"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="HkxfPb1UbvI" title="[혼공C_새로워진 이것이 C언어다] 28강. 15-1 이중 포인터와 배열 포인터"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="j9kKueGUUsQ" title="[혼공C_새로워진 이것이 C언어다] 29강. 15-2 함수 포인터와 void 포인터"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="3HDcLuwkf88" title="[혼공C_새로워진 이것이 C언어다] 30강. 16-1 동적 할당 함수"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="EIyXNSNXJNw" title="[혼공C_새로워진 이것이 C언어다] 31강. 16-2 동적 할당 저장 공간의 활용"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="Sh_1VbdP6xo" title="[혼공C_새로워진 이것이 C언어다] 32강. 17-1 구조체"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="Txw80p79vFw" title="[혼공C_새로워진 이것이 C언어다] 33강. 17-2 구조체 활용, 공용체, 열거형"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="toKvOushbEo" title="[혼공C_새로워진 이것이 C언어다] 34강. 18-1 파일 개방과 입출력"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="8477zpHEHQ4" title="[혼공C_새로워진 이것이 C언어다] 35강. 18-2 다양한 파일 입출력 함수"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="PnMIKQIAqm8" title="[혼공C_새로워진 이것이 C언어다] 36강. 19-1 전처리 지시자(1)"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="OTJrBCCFVGM" title="[혼공C_새로워진 이것이 C언어다] 38강. 19-2 분할 컴파일"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="cTh5-1-im6g" title="[혼공C_새로워진 이것이 C언어다] 37강. 19-2 전처리 지시자(2)"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="kq6b5zBkQ28" title="제01장 C와는 다른 C++ - 첫 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="mBUCoQRaNJc" title="제01장 C와는 다른 C++ - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="tYns7XO9xU0" title="제01장 C와는 다른 C++ - 세 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="w9I65zz3pik" title="제01장 C와는 다른 C++ - 네 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="NsjDRSNrJR0" title="제02장 C++함수와 네임스페이스 - 첫 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="nIAWJxpMrLY" title="제02장 C++함수와 네임스페이스 - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="r6-p0NiufSU" title="제02장 C++함수와 네임스페이스 - 세 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="Cnfa1d-DGss" title="제03장 클래스 - 첫 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="VmE5VlioZ_c" title="제03장 클래스 - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="yxHTihABwlU" title="제03장 클래스 - 세 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="cz7LH28nomc" title="제04장 복사 생성자와 임시 객체 - 첫 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="VudlzutrOic" title="제04장 복사 생성자와 임시 객체 - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="V0Ws_SOm9ns" title="제04장 복사 생성자와 임시 객체 - 세 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="oxW1Zoy912c" title="제04장 복사 생성자와 임시 객체 -  네 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="mMUGuuTkOmM" title="제04장 복사 생성자와 임시 객체 -  다섯 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="q5k6rrifFSQ" title="제05장 연산자 다중 정의 - 첫 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="EVOaRJEHrdw" title="제05장 연산자 다중 정의 - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="9w_CwGW_eSQ" title="제05장 연산자 다중 정의 - 세 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="3rATqffBMhg" title="제06장 상속 기본"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="nds94MTLABA" title="제06장 상속 기본 - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="1W4CkEMajQs" title="제07장 상속 심화 - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="jDGb1q8GmSQ" title="제07장 상속 심화 - 첫 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="iVIqh37Up68" title="제07장 상속 심화 - 세 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="0Q970NLiJIk" title="제07장 상속 심화 - 네 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="5WXmdllwAjU" title="제07장 상속 심화 - 다섯 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="7BjS_Fldjaw" title="제08장 수평적 관계와 집합 관계"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="TBQ9KG4aihc" title="제09장 템플릿 - 첫 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="65d43pcWVtc" title="제09장 템플릿 - 두 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="W5WNTGUJllo" title="제09장 템플릿 - 세 번째"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="6_Z96kCEYZs" title="제10장 예외 처리"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="GtEB3Toap8c" title="제12장 못 다한 이야기와 앞으로 해야 할 것"/> 
+<YoutubeItem channelId="HanbitMedia93" channelName="한빛미디어" id="k0-0rVFm3qQ" title="제11장 객체지향 주소록"/> 
 
 :::
 

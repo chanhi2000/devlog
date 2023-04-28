@@ -28,6 +28,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://contribute.freecodecamp.org)
 - [hemansnation/God-Level-Data-Science-ML-Full-Stack][hemansnation/God-Level-Data-Science-ML-Full-Stack]: This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.
   - [🌐Official Site](https://www.himanshuramchandani.co)
+- [jwasham/coding-interview-university][jwasham/coding-interview-university]: A complete computer science study plan to become a software engineer. <GithubTags tagItems="computer-science;algorithm;algorithms;interview;data-structures;software-engineering;coding-interviews;study-plan;interview-prep;interview-preparation;coding-interview;programming-interviews"/>
 
 ---
 
@@ -103,7 +104,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [type-challenges/type-challenges][type-challenges/type-challenges]: Collection of TypeScript type challenges with online judge
   - [🌐Official Site](https://tsch.js.org)
 
-
 ---
 
 ## Python
@@ -146,11 +146,13 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://linktr.ee/vandadnp)
 
 ---
+
 ## C#
 
 - [microsoft/hack-together][microsoft/hack-together]: Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.
 
 ---
+
 ## Go
 
 - [inancgumus/learngo][inancgumus/learngo]: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -167,14 +169,15 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [skyzh/mini-lsm][skyzh/mini-lsm]: A tutorial of building an LSM-Tree storage engine in a week! (WIP)
   - [🌐Official Site](https://skyzh.github.io/mini-lsm)
 - [rust-lang/rustlings][rust-lang/rustlings]: 🦀 Small exercises to get you used to reading and writing Rust code!
+- [rust-lang/book][rust-lang/book]: The Rust Programming Language
+  - [🌐Official Site](https://doc.rust-lang.org/book)
 
 ---
 
 ## C & C++
 
 - [BrunoLevy/learn-fpga][BrunoLevy/learn-fpga]: Learning FPGA, yosys, nextpnr, and RISC-V
-- [rust-lang/book][rust-lang/book]: The Rust Programming Language
-  - [🌐Official Site](https://doc.rust-lang.org/book)
+- [below/HelloSilicon][below/HelloSilicon]: An introduction to ARM64 assembly on Apple Silicon Macs
 
 ---
 
@@ -184,7 +187,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [MichaelCade/90DaysOfDevOps][MichaelCade/90DaysOfDevOps]: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [ripienaar/free-for-devs][ripienaar/free-for-dev]: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
   - [🌐Official Site](https://free-for.dev)
-
+- [kodekloudhub/linux-basics-course][kodekloudhub/linux-basics-course]
 
 ---
 
@@ -196,11 +199,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [graykode/nlp-tutorial][graykode/nlp-tutorial]: Natural Language Processing Tutorial for Deep Learning Researchers
   - [🌐Official Site](https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying)
 
----
-
-## C & C++
-
-- [below/HelloSilicon][below/HelloSilicon]: An introduction to ARM64 assembly on Apple Silicon Macs
 
 ---
 
@@ -239,7 +237,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 
 
-
 <!-- CompSci / Programming Basics -->
 [mtdvio/every-programmer-should-know]: https://github.com/mtdvio/every-programmer-should-know
 [github/opensource.guide]: https://github.com/github/opensource.guide
@@ -250,6 +247,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [dair-ai/Prompt-Engineering-Guide]: https://github.com/dair-ai/Prompt-Engineering-Guide
 [freeCodeCamp/freeCodeCamp]: https://github.com/freeCodeCamp/freeCodeCamp
 [hemansnation/God-Level-Data-Science-ML-Full-Stack]: https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
+[jwasham/coding-interview-university]: https://github.com/jwasham/coding-interview-university
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -320,17 +318,17 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [rust-lang/rustlings]: https://github.com/rust-lang/rustlings
 <!-- C & C++ -->
 [BrunoLevy/learn-fpga]: https://github.com/BrunoLevy/learn-fpga
+[below/HelloSilicon]: https://github.com/below/HelloSilicon
 <!-- DevOps -->
 [bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 [MichaelCade/90DaysOfDevOps]: https://github.com/MichaelCade/90DaysOfDevOps
 [ripienaar/free-for-dev]: https://github.com/ripienaar/free-for-dev
+[kodekloudhub/linux-basics-course]: https://github.com/kodekloudhub/linux-basics-course
 <!-- Machine Learning -->
 [DataTalksClub/mlops-zoomcamp]: https://github.com/DataTalksClub/mlops-zoomcamp
 [curiousily/Getting-Things-Done-with-Pytorch]: https://github.com/curiousily/Getting-Things-Done-with-Pytorch
 [graykode/nlp-tutorial]: https://github.com/graykode/nlp-tutorial
-<!-- C & C++ -->
-[below/HelloSilicon]: https://github.com/below/HelloSilicon
-<!-- Bash -->
+<<!-- Bash -->
 [bobbyiliev/introduction-to-bash-scripting]: https://github.com/bobbyiliev/introduction-to-bash-scripting
 [jlevy/the-art-of-command-line]: https://github.com/jlevy/the-art-of-command-line
 <!-- Powershell -->

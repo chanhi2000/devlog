@@ -2,6 +2,7 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🕊️Swift > 🕶️Github
+category: 🕊️Swift
 tags: ["git" , "github" , "objc" , "swift"]
 ---
 
@@ -21,15 +22,16 @@ tags: ["git" , "github" , "objc" , "swift"]
 
 - [CodeEditApp/CodeEdit][CodeEditApp/CodeEdit]: CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
   - [🌐Official Site](https://codeedit.app)
-- [tuist/tuist][tuist/tuist]: 🚀 Create, maintain, and interact with Xcode projects at scale
+- [CodeEditApp/CodeEditCLI]: A command-line-interface to open files/folders in CodeEdit.app
+- [tuist/tuist][tuist/tuist]: 🚀 Create, maintain, and interact with Xcode projects at scale <GithubTags tagItems="swift;productivity;ios;objective-c;xcode;scalability;hacktoberfest" />
   - [🌐Official Site](https://tuist.io)
-- [microsoft/fluentui-apple][microsoft/fluentui-apple]: UIKit and AppKit controls for building native Microsoft experiences
+- [microsoft/fluentui-apple][microsoft/fluentui-apple]: UIKit and AppKit controls for building native Microsoft experiences <GithubTags tagItems="microsoft;macos;ios;uikit;cocoa;appkit;fluentui-apple" />
   - [🌐Official Site](https://www.microsoft.com/design/fluent)
-- [pointfreeco/swift-composable-architecture][pointfreeco/swift-composable-architecture]
+- [pointfreeco/swift-composable-architecture][pointfreeco/swift-composable-architecture]: A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. <GithubTags tagItems="uikit;architecture;composition;modularity;unidirectional-data-flow;testability;swiftui"/>
   - [🌐Official Site](https://www.pointfree.co/collections/composable-architecture)
-- [PerfectlySoft/Perfect][PerfectlySoft/Perfect]: Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+- [PerfectlySoft/Perfect][PerfectlySoft/Perfect]: Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…) <GithubTags tagItems="swift;perfect;swift-framework;server-side-swift;web-application-framework;swift-perfect-community"/>
   - [🌐Official Site](https://www.perfect.org)
-- [wigl/iSimulator][wigl/iSimulator]: iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
+- [wigl/iSimulator][wigl/iSimulator]: iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. <GithubTags tagItems="app;simulator;xcode;simctl;simulator-controls;xcrun"/>
 - [gao-sun/eul][gao-sun/eul]: 🖥️ macOS status monitoring app written in SwiftUI.
 - [apple/swift-async-algorithms][apple/swift-async-algorithms]: Async Algorithms for Swift
 - [Lakr233/Rayon][Lakr233/Rayon]: yet another SSH machine manager
@@ -67,6 +69,7 @@ tags: ["git" , "github" , "objc" , "swift"]
 
 
 [CodeEditApp/CodeEdit]: https://github.com/CodeEditApp/CodeEdit
+[CodeEditApp/CodeEditCLI]: https://github.com/CodeEditApp/CodeEditCLI
 [tuist/tuist]: https://github.com/tuist/tuist
 [microsoft/fluentui-apple]: https://github.com/microsoft/fluentui-apple
 [pointfreeco/swift-composable-architecture]: https://github.com/pointfreeco/swift-composable-architecture

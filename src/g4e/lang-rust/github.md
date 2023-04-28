@@ -2,7 +2,8 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🦀Rust > 🕶️Github
-tags: ["git" , "github" , "rust" , "rst"]
+category: 🦀Rust
+tags: ["git" , "github" , "rust" , "rs"]
 meta:
   - name: 🕶️Github
     content: Javascript Libraries from Github
@@ -95,7 +96,9 @@ meta:
 - [copy/v86][copy/v86]: x86 virtualization in your browser, recompiling x86 to wasm on the fly
   - [🌐Official Site](https://copy.sh/v86)
 - [a16z/magi][a16z/magi]: A blazing fast OP Stack rollup client written in Rust
-- [mitsuhiko/rye][mitsuhiko/rye]: an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+- [mitsuhiko/rye][mitsuhiko/rye]: an experimental alternative to `poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…`
+- [memorysafety/sudo-rs][memorysafety/sudo-rs]: A memory safe implementation of sudo and su.
+
 
 <TagLinks />
 
@@ -145,3 +148,4 @@ meta:
 [copy/v86]: https://github.com/copy/v86
 [a16z/magi]: https://github.com/a16z/magi
 [mitsuhiko/rye]: https://github.com/mitsuhiko/rye
+[memorysafety/sudo-rs]: https://github.com/memorysafety/sudo-rs

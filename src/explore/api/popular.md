@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Popular
-description: Popular
+description: 🧭API > Popular
 tags: ["blog", "devlog", "hyperlink"]
 ---
 

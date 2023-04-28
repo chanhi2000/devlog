@@ -189,6 +189,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 ---
 
 ## Stackoverflow
+
 - [I want to get application crash info in Android programmatically without using 3rd party apps or jars like bugsense etc](https://stackoverflow.com/questions/27779289/i-want-to-get-application-crash-info-in-android-programmatically-without-using-3)
 - [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)
 - [Bottom app bar problem with placing icons](https://stackoverflow.com/questions/54767397/bottom-app-bar-problem-with-placing-icons)
@@ -203,8 +204,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
 - [display view on top of action bar](https://stackoverflow.com/questions/15279647/display-view-on-top-of-action-bar)
 - [Get RSRP from CellSignalStrengthLte for Android app API 17+](https://stackoverflow.com/questions/32531176/get-rsrp-from-cellsignalstrengthlte-for-android-app-api-17)
-
-
 
 ---
 
@@ -221,6 +220,22 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Kotlin Delegation을 알아보고, Delegated Properties와 class에서의 Delegation을 알아본다.](https://thdev.tech/kotlin/2020/11/27/kotlin_delegation)
 - [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
 - [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
+
+---
+
+## Github
+
+- [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
+- [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
+- [\[iOS\]\[SwiftPM\]\[Xcode 13.0\] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
+- [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
+- [기억보단 기록을 - 1. 페이징 성능 개선하기](https://jojoldu.tistory.com/528)
+- [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
+- [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
+- [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
+- [Handle Cookies with Retrofit/OkHttp](https://jiafei427.wordpress.com/2016/04/29/handle-cookies-with-retrofitokhttp)
+- [아마도 Effective 한 Kotlin](https://speakerdeck.com/taehwandev/amado-effective-han-kotlin)
+- [tuhrig - Testing `@ConfigurationProperties` in Spring Boot](https://tuhrig.de/testing-configurationproperties-in-spring-boot)
 
 ---
 
@@ -296,23 +311,10 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Determin If Your Linux Computer or Server is Hacked](https://hackingpassion.com/determine-if-your-linux-computer-or-server-is-hacked)
 - [늦깍이 공대생의 좌충우돌 이야기](https://elecs.tistory.com)
 - [꿈잡이 소굴](http://bedreams.tistory.com)
+- [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender)
 
 ---
 
-
-## Github
-
-- [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
-- [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
-- [\[iOS\]\[SwiftPM\]\[Xcode 13.0\] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
-- [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
-- [기억보단 기록을 - 1. 페이징 성능 개선하기](https://jojoldu.tistory.com/528)
-- [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
-- [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
-- [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
-- [Handle Cookies with Retrofit/OkHttp](https://jiafei427.wordpress.com/2016/04/29/handle-cookies-with-retrofitokhttp)
-- [아마도 Effective 한 Kotlin](https://speakerdeck.com/taehwandev/amado-effective-han-kotlin)
-- [tuhrig - Testing `@ConfigurationProperties` in Spring Boot](https://tuhrig.de/testing-configurationproperties-in-spring-boot)
 
 
 <TagLinks />

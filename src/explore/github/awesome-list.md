@@ -94,6 +94,11 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://analysis-tools.dev)
 - [EwingYangs/awesome-open-gpt][EwingYangs/awesome-open-gpt]: Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [opendilab/awesome-RLHF][opendilab/awesome-RLHF]: A curated list of reinforcement learning with human feedback resources (continually updated)
+- [ai-collection/ai-collection][ai-collection/ai-collection]: The Generative AI Landscape - A Collection of Awesome Generative AI Applications <GithubTags tagItems="awesome;ai;artificial-intelligence;generative-text;collections;generative-art;software-development;awesome-list;assistive-technology;assistant-chat-bots;generative-music;generative-testing;generative-design"/>
+  - [🌐Official Site](https://ai-collection.org)
+- [Mooler0410/LLMsPracticalGuide][Mooler0410/LLMsPracticalGuide]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) <GithubTags tagItems="nlp;natural-language-processing;survey;large-language-models"/>
+  - [🌐Official Site](https://arxiv.org/abs/2304.13712v2)
+- [vuejs/awesome-vue][vuejs/awesome-vue]: 🎉 A curated list of awesome things related to Vue.js
 
 ---
 
@@ -183,6 +188,9 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [analysis-tools-dev/static-analysis]: https://github.com/analysis-tools-dev/static-analysis
 [EwingYangs/awesome-open-gpt]: https://github.com/EwingYangs/awesome-open-gpt
 [opendilab/awesome-RLHF]: https://github.com/opendilab/awesome-RLHF
+[ai-collection/ai-collection]: https://github.com/ai-collection/ai-collection
+[Mooler0410/LLMsPracticalGuide]: https://github.com/Mooler0410/LLMsPracticalGuide
+[vuejs/awesome-vue]: https://github.com/vuejs/awesome-vue
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

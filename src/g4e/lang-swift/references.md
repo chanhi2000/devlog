@@ -2,6 +2,7 @@
 lang: ko-KR
 title: 📚References
 description: 🕊️Swift > 📚References
+category: 🕊️Swift
 tags: ["references", "swift"]
 ---
 

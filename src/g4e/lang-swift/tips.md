@@ -2,6 +2,7 @@
 lang: ko-KR
 title: 💡Tips
 description: 🕊️Swift > 💡Tips
+category: 🕊️Swift
 tips: ["swift", "swift3", "swift4", "swift-ui", "swiftui", "tips", "xcode", "macos", "ios"]
 ---
 

@@ -15,6 +15,8 @@ import { prismjsPlugin } from '@vuepress/plugin-prismjs';
 import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { componentsPlugin } from "vuepress-plugin-components";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+import anchorRightPlugin from 'vuepress-plugin-anchor-right';
+
 // import { mermaidWrapperPlugin } from 'vuepress-plugin-mermaid-wrapper';
 // import { mermaidPlugin } from "@renovamen/vuepress-plugin-mermaid";
 // import { katexPlugin } from "@renovamen/vuepress-plugin-katex";
@@ -130,5 +132,6 @@ export default {
       sub: true,
       sup: true,
     }),
+    anchorRightPlugin(),
   ],
 }

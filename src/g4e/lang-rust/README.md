@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Intro
 description: 🦀Rust
+category: 🦀Rust
 ---
 
 # {{ $frontmatter.description }} 관련

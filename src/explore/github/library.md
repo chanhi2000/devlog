@@ -109,6 +109,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [go-skynet/LocalAI][go-skynet/LocalAI]: 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
 - [berachain/polaris][berachain/polaris]: Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
   - [🌐Official Site](https://polaris.berachain.dev)
+- [k8sgpt-ai/k8sgpt][k8sgpt-ai/k8sgpt]: Giving Kubernetes SRE superpowers to everyone <Badge type="info" vertical="middle" text="kubernetes"/> <Badge type="info" vertical="middle" text="devops"/> <Badge type="info" vertical="middle" text="tooling"/> <Badge type="info" vertical="middle" text="openai"/> <Badge type="info" vertical="middle" text="sre"/>
+  - [🌐Official Site](http://k8sgpt.ai)
+- [moul/quicssh][moul/quicssh]: SSH over QUIC <Badge type="info" vertical="middle" text="cli"/> <Badge type="info" vertical="middle" text="ssh"/> <Badge type="info" vertical="middle" text="hack"/> <Badge type="info" vertical="middle" text="server"/> <Badge type="info" vertical="middle" text="daemon"/> <Badge type="info" vertical="middle" text="proxy"/> <Badge type="info" vertical="middle" text="quic"/>
+  - [🌐Official Site](http://k8sgpt.ai)
+
+
+
 
 ---
 
@@ -179,6 +186,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Dart
 
 - [vishalxl/nostr_console][vishalxl/nostr_console]: Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
+- [immich-app/immich][immich-app/immich]: Self-hosted photo and video backup solution directly from your mobile phone. <GithubTags tagItems="nodejs;photos;svelte;photo-gallery;mobile-app;self-hosted;videos;google-photos;flutter;backup-tool;nestjs;sveltekit;google-photos-alternative" />
+  - [🌐Official Site](https://immich.app)
+- [revanced/revanced-manager][revanced/revanced-manager]: 💊 Application to use ReVanced on Android <GithubTags tagItems="android;modding;manager;flutter;patching;flutter-apps;revanced" />
+  - [🌐Official Site](https://revanced.app)
+
+
+
 
 ---
 
@@ -229,7 +243,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [facebook/folly][facebook/folly]: An open-source C++ library developed and used at Facebook.
   - [🌐Official Site](https://groups.google.com/forum/?fromgroups#!forum/facebook-folly)
 - [ciniml/WireGuard-ESP32-Arduino][ciniml/WireGuard-ESP32-Arduino]: WireGuard implementation for ESP32 Arduino
-- [DarkFlippers/unleashed-firmware][DarkFlippers/unleashed-firmware]: Flipper Zero Unleashed Firmware
+- [DarkFlippers/unleashed-firmware][DarkFlippers/unleashed-firmware]: Flipper Zero Unleashed Firmware <GithubTags tagItems="flipper;firmware;jailbreak;unleashed;keeloq;flipper-plugins;rolling-codes;alternative-firmware;flipperzero;flipper-zero;darkflippers"/>
   - [🌐Official Site](https://t.me/flipperzero_unofficial)
 - [ocornut/imgui][ocornut/imgui]: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [FFmpeg/FFmpeg][FFmpeg/FFmpeg]: Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -285,6 +299,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [axstin/rbxfpsunlocker][axstin/rbxfpsunlocker]: FPS Unlocker for Roblox
 - [haileys/doslinux][haileys/doslinux]: Run Linux programs on DOS
 - [aappleby/PicoRVD][aappleby/PicoRVD]: GDB-compatible RISC-V Debugger for CH32V003 that runs on a Raspberry Pi Pico
+- [flipperdevices/flipperzero-firmware][flipperdevices/flipperzero-firmware]: Flipper Zero firmware source code <GithubTags tagItems="flipper;firmware;stm32;rfid;nfc;ble;infrared;onewire;armv7m;subghz;flipperzero"/>
+  - [🌐Official Site](https://flipperzero.one)
 
 ---
 
@@ -352,8 +368,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [Azure/azure-quickstart-templates][Azure/azure-quickstart-templates]: Azure Quickstart Templates
   - [🌐Official Site](https://aka.ms/azqst)   
 - [H4de5-7/powershell-obfuscation][H4de5-7/powershell-obfuscation]: powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
-- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.
-  - [🌐Official Site](https://atlasos.net)
 - [DarkCoderSc/PowerRemoteDesktop][DarkCoderSc/PowerRemoteDesktop]: Remote Desktop entirely coded in PowerShell.
 
 ---
@@ -361,6 +375,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Batchfile
 
 - [massgravel/Microsoft-Activation-Scripts][massgravel/Microsoft-Activation-Scripts]
+- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency. <Badge type="info" vertical="middle" text="windows"/> <Badge type="info" vertical="middle" text="open-source"/> <Badge type="info" vertical="middle" text="security"/> <Badge type="info" vertical="middle" text="performance"/> <Badge type="info" vertical="middle" text="privacy"/> <Badge type="info" vertical="middle" text="gaming"/> <Badge type="info" vertical="middle" text="fps"/> <Badge type="info" vertical="middle" text="latency"/> <Badge type="info" vertical="middle" text="tweaks"/> <Badge type="info" vertical="middle" text="atlas"/> <Badge type="info" vertical="middle" text="debloat"/>
+  - [🌐Official Site](https://atlasos.net)
+
+---
 
 ## TeX
 
@@ -492,6 +510,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [devfullcycle/fclx]: https://github.com/devfullcycle/fclx
 [go-skynet/LocalAI]: https://github.com/go-skynet/LocalAI
 [berachain/polaris]: https://github.com/berachain/polaris
+[k8sgpt-ai/k8sgpt]: https://github.com/k8sgpt-ai/k8sgpt
+[moul/quicssh]: https://github.com/moul/quicssh
 <!-- Ruby -->
 [bullet-train-co/bullet_train]: https://github.com/bullet-train-co/bullet_train
 <!-- Scala -->
@@ -524,6 +544,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [btcpayserver/btcpayserver]: https://github.com/btcpayserver/btcpayserver
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
+[immich-app/immich]: https://github.com/immich-app/immich
+[revanced/revanced-manager]: https://github.com/revanced/revanced-manager
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
 [openai-php/laravel]: https://github.com/openai-php/laravel
@@ -584,7 +606,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [aolserver/aolserver]: https://github.com/aolserver/aolserver
 [axstin/rbxfpsunlocker]: https://github.com/axstin/rbxfpsunlocker
 [haileys/doslinux]: https://github.com/haileys/doslinux
-[aappleby/PicoRVD]: aappleby/PicoRVD
+[aappleby/PicoRVD]: https://github.com/aappleby/PicoRVD
+[flipperdevices/flipperzero-firmware]: https://github.com/flipperdevices/flipperzero-firmware
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -622,10 +645,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
 [H4de5-7/powershell-obfuscation]: https://github.com/H4de5-7/powershell-obfuscation
-[Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
+[DarkCoderSc/PowerRemoteDesktop]: https://github.com/DarkCoderSc/PowerRemoteDesktop
 <!-- Batchfile -->
 [massgravel/Microsoft-Activation-Scripts]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[DarkCoderSc/PowerRemoteDesktop]: https://github.com/DarkCoderSc/PowerRemoteDesktop
+[Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 [paulgp/applied-methods-phd]: https://github.com/paulgp/applied-methods-phd

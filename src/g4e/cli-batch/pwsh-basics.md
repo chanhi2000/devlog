@@ -12,6 +12,16 @@ tags: ["powershell", "windows", "windows-terminal", "multiline"]
 [[toc]]
 
 ---
+
+## Timestamp 출력
+
+```powershell
+#Get the Timestamp
+$TimeStamp = Get-Date -F yyyy-MM-dd_HH-mm
+```
+
+---
+
 ## Multiline 입력
 
 '\`' 을 붙여 커맨드 입력
@@ -32,14 +42,44 @@ wsdl2java.bat -u -t -ss -sd -g -b `
 
 ```powershell
 $file = Get-Item C:\Path\TO\File.txt
-$file.LastWriteTime = ('DD/MM/YYYY HH:MI:SS')
+$file.LastWriteTime = ('YYYY/MM/DD HH:MI:SS')
 ```
 
 ### Folder
 
 ```powershell
 $file = Get-Item C:\Path\TO\File.txt
-$file.LastWriteTime = ('DD/MM/YYYY HH:MI:SS')
+$file.LastWriteTime = ('YYYY/MM/DD HH:MI:SS')
+```
+
+---
+
+## Rename File(s)
+
+[링크참고](https://www.sharepointdiary.com/2020/05/powershell-to-rename-file.html)
+
+### one
+
+```powershell
+Rename-Item -Path C:\Path\To\oldFile.txt -NewName C:\Path\To\oldFile.txt
+```
+
+### multiple
+
+```powershell
+Get-ChildItem -Path "C:\Path\To\oldFile" -Recurse -Include "*.txt" | Rename-Item -NewName { $_.Name -replace " ","-" }
+```
+
+### multiple w/ timestamp
+
+```powershell
+#Get the Timestamp
+$TimeStamp = Get-Date -F yyyy-MM-dd_HH-mm
+ 
+#Get all text files from a Folder and rename them by appending Timestamp
+Get-ChildItem -Path "C:\Temp" -Recurse -Include "*.txt" | ForEach-Object { 
+    Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$TimeStamp$($_.Extension)"
+}
 ```
 
 <TagLinks />

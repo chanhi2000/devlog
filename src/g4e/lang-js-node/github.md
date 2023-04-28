@@ -230,11 +230,11 @@ meta:
   - [🌐Official Site](https://responsively.app)
 - [0hq/WebGPT][0hq/WebGPT]: Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
   - [🌐Official Site](https://kmeans.org)
-- [xtekky/chatgpt-clone][xtekky/chatgpt-clone]: ChatGPT interface with better UI + running on free gpt api's
+- [xtekky/chatgpt-clone][xtekky/chatgpt-clone]: ChatGPT interface with better UI + running on free gpt api's <Badge type="info" vertical="middle" text="anguage"/> <Badge type="info" vertical="middle" text="ui"/> <Badge type="info" vertical="middle" text="interface"/> <Badge type="info" vertical="middle" text="site"/> <Badge type="info" vertical="middle" text="language-model"/> <Badge type="info" vertical="middle" text="gpt3"/> <Badge type="info" vertical="middle" text="gpt-4"/> <Badge type="info" vertical="middle" text="gpt4"/> <Badge type="info" vertical="middle" text="chatgpt"/> <Badge type="info" vertical="middle" text="chatgpt-api"/> <Badge type="info" vertical="middle" text="chatgpt-clone"/> <Badge type="info" vertical="middle" text="chatgpt-app"/> <Badge type="info" vertical="middle" text="gpt4-api"/> <Badge type="info" vertical="middle" text="gpt-4-api"/> <Badge type="info" vertical="middle" text="gpt4all"/> <Badge type="info" vertical="middle" text="gpt-interface"/>
   - [🌐Official Site](https://chatbot.sex)
 - [enten/eaglercraft-ashes][enten/eaglercraft-ashes]: Git bundles of Eaglercraft repositories for archival purposes
 - [saeedezzati/superpower-chatgpt][saeedezzati/superpower-chatgpt]: Superpower ChatGPT Chrome Extension
-- [TheRamU/Fay][TheRamU/Fay]: Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
+- [TheRamU/Fay][TheRamU/Fay]: Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！<Badge type="info" vertical="middle" text="python"/> <Badge type="info" vertical="middle" text="ai"/> <Badge type="info" vertical="middle" text="ue4"/> <Badge type="info" vertical="middle" text="douyi"/>
 - [OpenZeppelin/openzeppelin-contracts][OpenZeppelin/openzeppelin-contracts]: OpenZeppelin Contracts is a library for secure smart contract development.
   - [🌐Official Site](https://openzeppelin.com/contracts)
 - [Renovamen/oh-vue-icons][Renovamen/oh-vue-icons]: A Vue component for importing inline SVG icons from different popular icon packs easily.
@@ -242,10 +242,16 @@ meta:
 - [GitSquared/edex-ui][GitSquared/edex-ui]: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [modal-labs/quillman][modal-labs/quillman]: A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
   - [🌐Official Site](https://modal.com/docs/guide/llm-voice-chat)
+- [sadmann7/netflx-web][sadmann7/netflx-web]
+  - [🌐Official Site](https://netflx-web.vercel.app)
+- [Expensify/App][Expensify/App]: Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
+  - [🌐Official Site](https://new.expensify.com)
+- [Lissy93/dashy][Lissy93/dashy]: 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! <GithubTags tagItems="nodejs;docker;productivity;awesome;pwa;mit;dashboard;vue;organization;homepage;self-hosted;startpage;hacktoberfest;homelab;hacktoberfest2022"/>
+  - [🌐Official Site](https://dashy.to)
 
-
-
+<!-- Javascript -->
 ---
+
 
 ## Typescript
 
@@ -353,6 +359,9 @@ meta:
   - [🌐Official Site](https://www.chartgpt.dev)
 - [gmpetrov/databerry][gmpetrov/databerry]: The no-code platform for connecting custom data to large language models
   - [🌐Official Site](https://databerry.ai)
+- [calcom/cal.com][calcom/cal.com]: Scheduling infrastructure for absolutely everyone. <GithubTags tagItems="open-source;typescript;nextjs;postgresql;prisma;tailwindcss;trpc;next-auth;zod;turborepo;t3-stack"/>
+  - [🌐Official Site](https://cal.com)
+
 
 
 <TagLinks />
@@ -484,6 +493,9 @@ meta:
 [Renovamen/oh-vue-icons]: https://github.com/Renovamen/oh-vue-icons
 [GitSquared/edex-ui]: https://github.com/GitSquared/edex-ui
 [modal-labs/quillman]: https://github.com/modal-labs/quillman
+[sadmann7/netflx-web]: https://github.com/sadmann7/netflx-web
+[Expensify/App]: https://github.com/Expensify/App
+[Lissy93/dashy]: https://github.com/Lissy93/dashy
 <!-- Typescript -->
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
@@ -544,3 +556,4 @@ meta:
 [mswjs/msw]: https://github.com/mswjs/msw
 [whoiskatrin/chart-gpt]: https://github.com/whoiskatrin/chart-gpt
 [gmpetrov/databerry]: https://github.com/gmpetrov/databerry
+[calcom/cal.com]: https://github.com/calcom/cal.com

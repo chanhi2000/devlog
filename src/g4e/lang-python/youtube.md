@@ -71,7 +71,26 @@ Google Sheets API Automation in Python
 
 :::
 
+---
+
+## PyCon Korea
+
+[PyCon Korea][yu-py-con-kr-tube]
+
+::: details 목록
+
+<YoutubeItem channelName="PyCon Korea" channelId="PyConKRtube" id="uwSlm3T712w" title="파이썬을 활용한 숨고 MSA \[브레이브모바일\] 조민우 -  PyCon Korea 2021" />
+<YoutubeItem channelName="PyCon Korea" channelId="PyConKRtube" id="b6vHjT1t0ug" title="Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021" />
+<YoutubeItem channelName="PyCon Korea" channelId="PyConKRtube" id="5FvicDwklaA" title="Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021" />
+<YoutubeItem channelName="PyCon Korea" channelId="PyConKRtube" id="oQ50eqDH91A" title="\[2018. 05\] 파이썬 개발환경 구성하기 거의 끝판왕   Docker Compose - 김승호" />
+<YoutubeItem channelName="PyCon Korea" channelId="PyConKRtube" id="b6vHjT1t0ug" title="Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021" />
+
+:::
+
+<!-- PyCon Korea -->
+
 <TagLinks />
 
 [yu-neural-nine]: https://www.youtube.com/@NeuralNine
 [yu-the-py-coach]: https://www.youtube.com/@ThePyCoach
+[yu-py-con-kr-tube]: https://www.youtube.com/@PyConKRtube

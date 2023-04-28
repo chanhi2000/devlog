@@ -6,9 +6,9 @@ actions:
   - text: Check 📖Guide 4 Everything
     link: /g4e/
     type: primary
-#  - text: Introduction
-#    link: /guide/
-#    type: secondary
+  - text: Explore
+    link: /explore/
+    type: secondary
 # features:
 #- title: anecdotal
 #  details: 개발에서 직접 경험하고 해결한 내용 공유

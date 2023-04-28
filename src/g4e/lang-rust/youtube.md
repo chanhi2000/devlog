@@ -2,7 +2,8 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🦀Rust > 📺Youtube
-tags: ["education", "youtube", "programming", "rust"]
+category: 🦀Rust
+tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -114,7 +114,7 @@ meta:
   - [🌐Official Site](https://huggingface.co/transformers)
 - [npiv/chatblade][npiv/chatblade]: A CLI Swiss Army Knife for ChatGPT
 - [34j/so-vits-svc-fork][34j/so-vits-svc-fork]: so-vits-svc fork with realtime support, improved interface and more features.
-- [home-assistant/core][home-assistant/core]: 🏡 Open source home automation that puts local control and privacy first.
+- [home-assistant/core][home-assistant/core]: 🏡 Open source home automation that puts local control and privacy first. <GithubTags tagItems="python;home-automation;mqtt;raspberry-pi;iot;internet-of-things;asyncio;hacktoberfest"/>
   - [🌐Official Site](https://www.home-assistant.io)
 - [Stability-AI/stablediffusion][Stability-AI/stablediffusion]: High-Resolution Image Synthesis with Latent Diffusion Models
 - [modelscope/modelscope][modelscope/modelscope]: ModelScope: bring the notion of Model-as-a-Service to life.
@@ -271,11 +271,35 @@ meta:
 - [bhaskatripathi/pdfGPT][bhaskatripathi/pdfGPT]: PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
   - [🌐Official Site](https://huggingface.co/spaces/bhaskartripathi/pdfChatter)
 - [Snaacky/dndserver][Snaacky/dndserver]: Dark and Darker private server implementation written in Python
-- [GreyDGL/PentestGPT][GreyDGL/PentestGPT]: A GPT-empowered penetration testing tool
+- [GreyDGL/PentestGPT][GreyDGL/PentestGPT]: A GPT-empowered penetration testing tool <GithubTags tagItems="python;penetration-testing;large-language-models;llm"/>
 - [BigBrotherTrade/trader][BigBrotherTrade/trader]: 交易模块
-- [farizrahman4u/loopgpt][farizrahman4u/loopgpt]: Modular Auto-GPT Framework <Badge type="info" vertical="center" text="gpt"/> <Badge type="info" vertical="center" text="gpt4"/> <Badge type="info" vertical="center" text="llms"/> <Badge type="info" vertical="center" text="chatgpt"/>
-- [deepdoctection/deepdoctection][deepdoctection/deepdoctection]: A Repo For Document AI <Badge type="info" vertical="middle" text="python"/> <Badge type="info" vertical="middle" text="nlp"/> <Badge type="info" vertical="middle" text="ocr"/> <Badge type="info" vertical="middle" text="tensorflow"/> <Badge type="info" vertical="middle" text="pytorch"/> <Badge type="info" vertical="middle" text="document-parser"/> <Badge type="info" vertical="middle" text="document-layout-analysis"/> <Badge type="info" vertical="middle" text="table-recognition"/> <Badge type="info" vertical="middle" text="table-detection"/> <Badge type="info" vertical="middle" text="document-understanding"/> <Badge type="info" vertical="middle" text="publaynet"/> <Badge type="info" vertical="middle" text="layoutlm"/> <Badge type="info" vertical="middle" text="document-ai"/> <Badge type="info" vertical="middle" text="document-image-analysis"/> <Badge type="info" vertical="middle" text="pubtabnet"/>
+- [farizrahman4u/loopgpt][farizrahman4u/loopgpt]: Modular Auto-GPT Framework <GithubTags tagItems="gpt;gpt4;llms;chatgpt"/>
+- [deepdoctection/deepdoctection][deepdoctection/deepdoctection]: A Repo For Document AI <GithubTags tagItems="python;nlp;ocr;tensorflow;pytorch;document-parser;document-layout-analysis;table-recognition;table-detection;document-understanding;publaynet;layoutlm;document-ai;document-image-analysis;pubtabnet"/>
 - [deep-floyd/IF][deep-floyd/IF]: DeepFloyd IF by StabilityAI
+- [peterw/Chat-with-Github-Repo][peterw/Chat-with-Github-Repo]: This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
+- [aniskoubaa/rosgpt][aniskoubaa/rosgpt]
+- [open-mmlab/mmagic][open-mmlab/mmagic]: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox <GithubTags tagItems="computer-vision;deep-learning;image-processing;pytorch;image-editing;generative-adversarial-network;image-generation;super-resolution;diffusion;inpainting;matting;image-synthesis;text2image;video-super-resolution;video-interpolation;video-frame-interpolationllm"/>
+  - [🌐Official Site](https://mmagic.readthedocs.io/en/latest)
+- [freedmand/semantra][freedmand/semantra]: Multi-tool for semantic search <GithubTags tagItems="cli;machine-learning;semantic-search"/>
+  - [🌐Official Site](https://mmagic.readthedocs.io/en/latest)
+- [alaeddine-13/thinkgpt][alaeddine-13/thinkgpt]: Agent techniques to augment your LLM and push it beyong its limits
+- [gaomingqi/Track-Anything][gaomingqi/Track-Anything]: Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. <GithubTags tagItems="video-object-segmentation;video-object-tracking;segment-anything;track-anything;interactive-tracking;inpaint-anything"/>
+- [dynobo/normcap][dynobo/normcap]: OCR powered screen-capture tool to capture information instead of images <GithubTags tagItems="python;screenshot;ocr;tool;multiplatform;tesseroc" />
+  - [🌐Official Site](https://dynobo.github.io/normcap)
+- [AIGC-Audio/AudioGPT][AIGC-Audio/AudioGPT]: AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head <GithubTags tagItems="audio;music;speech;sound;gpt;talking-head"/>
+  - [🌐Official Site](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
+- [deforum-art/deforum-stable-diffusion][deforum-art/deforum-stable-diffusion]
+  - [🌐Official Site](https://deforum.github.io)
+- [nlpxucan/WizardLM][nlpxucan/WizardLM]: WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions
+- [farshadz1997/Microsoft-Rewards-bot][farshadz1997/Microsoft-Rewards-bot]: A simple bot that uses Selenium to farm Microsoft Rewards written in Python <GithubTags tagItems="python;bot;selenium;selenium-python;microsoft-rewards;rewards-bot;bing-rewards"/>
+- [coqui-ai/TTS][coqui-ai/TTS]: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production <GithubTags tagItems="python;text-to-speech;deep-learning;speech;pytorch;tts;speech-synthesis;vocoder;voice-synthesis;tacotron;voice-cloning;speaker-encodings;melgan;speaker-encoder;multi-speaker-tts;glow-tts;hifigan;tts-model"/>
+  - [🌐Official Site](http://coqui.ai)
+- [CVI-SZU/Linly][CVI-SZU/Linly]: Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集 <GithubTags tagItems="nlp;chatbot;chinese;chinese-nlp;llama;language-model;bert;zero-shot-learning;gpt-3;chatgpt" />
+- [lamini-ai/lamini][lamini-ai/lamini]
+- [mlc-ai/mlc-llm][mlc-ai/mlc-llm]: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. <GithubTags tagItems="language-model;tvm;llm;machine-learning-compilation"/>
+  - [🌐Official Site](https://mlc.ai/mlc-llm)
+
+
 
 <!-- Python -->
 
@@ -310,6 +334,9 @@ meta:
   - [🌐Official Site](https://chameleon-llm.github.io)
 - [roboflow/notebooks][roboflow/notebooks]: Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
   - [🌐Official Site](https://roboflow.com/models)
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API][IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API]: Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. <GithubTags tagItems="python;ai;reverse-engineering;openai;gpt-4;gpt4;chatgpt;chatgpt-api;chatgpt-free;gpt-4-api;autogpt;free-autogpt;autogpt-no-paid-api;democratize-ai;open-source-gpt;open-source-auto-gpt"/>
+
+
 
 <!-- Jupyter Notebook -->
 
@@ -505,6 +532,21 @@ meta:
 [farizrahman4u/loopgpt]: https://github.com/farizrahman4u/loopgpt
 [deepdoctection/deepdoctection]: https://github.com/deepdoctection/deepdoctection
 [deep-floyd/IF]: https://github.com/deep-floyd/IF
+[peterw/Chat-with-Github-Repo]: https://github.com/peterw/Chat-with-Github-Repo
+[aniskoubaa/rosgpt]: https://github.com/aniskoubaa/rosgpt
+[open-mmlab/mmagic]: https://github.com/open-mmlab/mmagic
+[freedmand/semantra]: https://github.com/freedmand/semantra
+[alaeddine-13/thinkgpt]: https://github.com/alaeddine-13/thinkgpt
+[gaomingqi/Track-Anything]: https://github.com/gaomingqi/Track-Anything
+[dynobo/normcap]: https://github.com/dynobo/normcap
+[AIGC-Audio/AudioGPT]: https://github.com/AIGC-Audio/AudioGPT
+[deforum-art/deforum-stable-diffusion]: https://github.com/deforum-art/deforum-stable-diffusion
+[nlpxucan/WizardLM]: https://github.com/nlpxucan/WizardLM
+[farshadz1997/Microsoft-Rewards-bot]: https://github.com/farshadz1997/Microsoft-Rewards-bot
+[coqui-ai/TTS]: https://github.com/coqui-ai/TTS
+[CVI-SZU/Linly]: https://github.com/CVI-SZU/Linly
+[lamini-ai/lamini]: https://github.com/lamini-ai/lamini
+[mlc-ai/mlc-llm]: https://github.com/mlc-ai/mlc-llm
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -531,3 +573,4 @@ meta:
 [datawhalechina/hugging-llm]: https://github.com/datawhalechina/hugging-llm
 [lupantech/chameleon-llm]: https://github.com/lupantech/chameleon-llm
 [roboflow/notebooks]: https://github.com/roboflow/notebooks
+[IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API]: https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API

@@ -2,6 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🕊️Swift > 📺Youtube
+category: 🕊️Swift
 tags: ["education", "youtube", "ios", "swift"]
 ---
 
@@ -18,25 +19,24 @@ tags: ["education", "youtube", "ios", "swift"]
 [azamsharp][yu-azamsharp]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=LqQKHjHqaeM"><img width="140px" height="auto" alt="thumb-LqQKHjHqaeM" src="https://i.ytimg.com/vi/LqQKHjHqaeM/hqdefault.jpg"/></a> | [Build a Complete Maps App in UIKit Programmatically](https://www.youtube.com/watch?v=LqQKHjHqaeM) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3J3TBVv738E"><img width="140px" height="auto" alt="thumb-3J3TBVv738E" src="https://i.ytimg.com/vi/3J3TBVv738E/hqdefault.jpg"/></a> | [TodoList Using SwiftUI &amp; CloudKit - Part 5 - Displaying Errors](https://www.youtube.com/watch?v=3J3TBVv738E) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=B6hG-l7EZ5k"><img width="140px" height="auto" alt="thumb-B6hG-l7EZ5k" src="https://i.ytimg.com/vi/B6hG-l7EZ5k/hqdefault.jpg"/></a> | [TodoList Using SwiftUI &amp; CloudKit - Part 4 - Deleting the Task](https://www.youtube.com/watch?v=B6hG-l7EZ5k) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CZT-N88TfTs"><img width="140px" height="auto" alt="thumb-CZT-N88TfTs" src="https://i.ytimg.com/vi/CZT-N88TfTs/hqdefault.jpg"/></a> | [Building a Budget App Using SwiftUI and Core Data Part 3](https://www.youtube.com/watch?v=CZT-N88TfTs) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fjHtsoNCHG4"><img width="140px" height="auto" alt="thumb-fjHtsoNCHG4" src="https://i.ytimg.com/vi/fjHtsoNCHG4/hqdefault.jpg"/></a> | [Showing Multiple Sheets in SwiftUI](https://www.youtube.com/watch?v=fjHtsoNCHG4) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LVx93PfGjdo"><img width="140px" height="auto" alt="thumb-LVx93PfGjdo" src="https://i.ytimg.com/vi/LVx93PfGjdo/hqdefault.jpg"/></a> | [STOP Using MVVM with SwiftUI](https://www.youtube.com/watch?v=LVx93PfGjdo) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lTHHMzGfLPg"><img width="140px" height="auto" alt="thumb-lTHHMzGfLPg" src="https://i.ytimg.com/vi/lTHHMzGfLPg/hqdefault.jpg"/></a> | [sing Realm Flexible Sync in SwiftUI App](https://www.youtube.com/watch?v=lTHHMzGfLPg) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MX-eGceCotQ"><img width="140px" height="auto" alt="thumb-MX-eGceCotQ" src="https://i.ytimg.com/vi/MX-eGceCotQ/hqdefault.jpg"/></a> | [Drawing Bar Charts in SwiftUI](https://www.youtube.com/watch?v=MX-eGceCotQ) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=csd7pyfEXgw"><img width="140px" height="auto" alt="thumb-csd7pyfEXgw" src="https://i.ytimg.com/vi/csd7pyfEXgw/hqdefault.jpg"/></a> | [Charts Framework in SwiftUI](https://www.youtube.com/watch?v=csd7pyfEXgw) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=u_nXbVzkJ1w"><img width="140px" height="auto" alt="thumb-u_nXbVzkJ1w" src="https://i.ytimg.com/vi/u_nXbVzkJ1w/hqdefault.jpg"/></a> | [Writing your First User Interface Test for SwiftUI App](https://www.youtube.com/watch?v=u_nXbVzkJ1w) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Dpa2tpf2Ty4"><img width="140px" height="auto" alt="thumb-Dpa2tpf2Ty4" src="https://i.ytimg.com/vi/Dpa2tpf2Ty4/hqdefault.jpg"/></a> | [Writing Your First Unit Test in iOS Using Swift](https://www.youtube.com/watch?v=Dpa2tpf2Ty4) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cA-oUgOfLxY"><img width="140px" height="auto" alt="thumb-cA-oUgOfLxY" src="https://i.ytimg.com/vi/cA-oUgOfLxY/hqdefault.jpg"/></a> | [Building macOS Menu Bar Stocks App Using SwiftUI](https://www.youtube.com/watch?v=cA-oUgOfLxY) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZMe6Xq2gCGs"><img width="140px" height="auto" alt="thumb-ZMe6Xq2gCGs" src="https://i.ytimg.com/vi/ZMe6Xq2gCGs/hqdefault.jpg"/></a> | [Drawing Line Graph in SwiftUI](https://www.youtube.com/watch?v=ZMe6Xq2gCGs) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0NYABXvoyRA"><img width="140px" height="auto" alt="thumb-0NYABXvoyRA" src="https://i.ytimg.com/vi/0NYABXvoyRA/hqdefault.jpg"/></a> | [NEW COURSE: Test Driven Development in iOS Using Swift](https://www.youtube.com/watch?v=0NYABXvoyRA) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4Rxuc4BcW8o"><img width="140px" height="auto" alt="thumb-4Rxuc4BcW8o" src="https://i.ytimg.com/vi/4Rxuc4BcW8o/hqdefault.jpg"/></a> | [Creating and Publishing Swift Packages \(Swift Package Manager\)](https://www.youtube.com/watch?v=4Rxuc4BcW8o) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qOMWbUZk5lY"><img width="140px" height="auto" alt="thumb-qOMWbUZk5lY" src="https://i.ytimg.com/vi/qOMWbUZk5lY/hqdefault.jpg"/></a> | [Building Chat Bubbles in SwiftUI](https://www.youtube.com/watch?v=qOMWbUZk5lY) <br/><br/> _[azamsharp][yu-azamsharp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=v6SMV_TUOJk"><img width="140px" height="auto" alt="thumb-v6SMV_TUOJk" src="https://i.ytimg.com/vi/v6SMV_TUOJk/hqdefault.jpg"/></a> | [Building a ChatGPT macOS Toolbar App Using SwiftUI](https://www.youtube.com/watch?v=v6SMV_TUOJk) <br/><br/> _[azamsharp][yu-azamsharp]_ |
+
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="LqQKHjHqaeM" title="Build a Complete Maps App in UIKit Programmatically" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="3J3TBVv738E" title="TodoList Using SwiftUI &amp; CloudKit - Part 5 - Displaying Errors" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="B6hG-l7EZ5k" title="TodoList Using SwiftUI &amp; CloudKit - Part 4 - Deleting the Task" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="CZT-N88TfTs" title="Building a Budget App Using SwiftUI and Core Data Part 3" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="fjHtsoNCHG4" title="Showing Multiple Sheets in SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="LVx93PfGjdo" title="STOP Using MVVM with SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="lTHHMzGfLPg" title="sing Realm Flexible Sync in SwiftUI App" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="MX-eGceCotQ" title="Drawing Bar Charts in SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="csd7pyfEXgw" title="Charts Framework in SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="u_nXbVzkJ1w" title="Writing your First User Interface Test for SwiftUI App" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="Dpa2tpf2Ty4" title="Writing Your First Unit Test in iOS Using Swift" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="cA-oUgOfLxY" title="Building macOS Menu Bar Stocks App Using SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="ZMe6Xq2gCGs" title="Drawing Line Graph in SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="0NYABXvoyRA" title="NEW COURSE: Test Driven Development in iOS Using Swift" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="4Rxuc4BcW8o" title="Creating and Publishing Swift Packages (Swift Package Manager)" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="qOMWbUZk5lY" title="Building Chat Bubbles in SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="v6SMV_TUOJk" title="Building a ChatGPT macOS Toolbar App Using SwiftUI" />
 
 :::
 
@@ -48,35 +48,22 @@ tags: ["education", "youtube", "ios", "swift"]
 [iOS Academy][yu-ios-academy]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=EZ5iqtjXGBE"><img width="140px" height="auto" alt="thumb-EZ5iqtjXGBE" src="https://i.ytimg.com/vi/EZ5iqtjXGBE/hqdefault.jpg"/></a> | [Factory Design Pattern in Swift &amp; iOS \(2023\)](https://www.youtube.com/watch?v=EZ5iqtjXGBE) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cL7do29XChM"><img width="140px" height="auto" alt="thumb-cL7do29XChM" src="https://i.ytimg.com/vi/cL7do29XChM/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 20 \(Rick &amp; Morty \| 2023\) – Fetch Episodes](https://www.youtube.com/watch?v=cL7do29XChM) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MuhUzpf2zhI"><img width="140px" height="auto" alt="thumb-MuhUzpf2zhI" src="https://i.ytimg.com/vi/MuhUzpf2zhI/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 19 \(Rick &amp; Morty \| 2023\) – Character Info ViewModel](https://www.youtube.com/watch?v=MuhUzpf2zhI) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5LKbL-I-CYY"><img width="140px" height="auto" alt="thumb-5LKbL-I-CYY" src="https://i.ytimg.com/vi/5LKbL-I-CYY/hqdefault.jpg"/></a> | [Swift: Actors Introduction \(2023, Xcode 13\) - iOS](https://www.youtube.com/watch?v=5LKbL-I-CYY) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tqVB0qgS2o4"><img width="140px" height="auto" alt="thumb-tqVB0qgS2o4" src="https://i.ytimg.com/vi/tqVB0qgS2o4/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 51 (Rick &amp; Morty \| 2023) – Location Pagination](https://www.youtube.com/watch?v=tqVB0qgS2o4) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Y6njyj-9kns"><img width="140px" height="auto" alt="thumb-Y6njyj-9kns" src="https://i.ytimg.com/vi/Y6njyj-9kns/hqdefault.jpg"/></a> | [Build FULL iOS App in Swift: Part 52 (Rick &amp; Morty \| 2023) – Location Pagination Update + Devices](https://www.youtube.com/watch?v=Y6njyj-9kns) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=O4KZk5Bj_Sk"><img width="140px" height="auto" alt="thumb-O4KZk5Bj_Sk" src="https://i.ytimg.com/vi/O4KZk5Bj_Sk/hqdefault.jpg"/></a> | [StaticString Type in Swift Explained (2023) - iOS Tip](https://www.youtube.com/watch?v=O4KZk5Bj_Sk) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XR-fH4sorGY"><img width="140px" height="auto" alt="thumb-XR-fH4sorGY" src="https://i.ytimg.com/vi/XR-fH4sorGY/hqdefault.jpg"/></a> | [Better Optionals Usage – Swift Tip (iOS) – 2023](https://www.youtube.com/watch?v=XR-fH4sorGY) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EZ5iqtjXGBE"><img width="140px" height="auto" alt="thumb-EZ5iqtjXGBE" src="https://i.ytimg.com/vi/EZ5iqtjXGBE/hqdefault.jpg"/></a> | [Factory Design Pattern in Swift &amp; iOS (2023)](https://www.youtube.com/watch?v=EZ5iqtjXGBE) <br/><br/> _[iOS Academy][yu-ios-academy]_ |
 
-Z-wSODAyiwo
-iOS App Design – Forced App Themes (Swift)
-
-fTGA8cjbf5Y
-Build iOS App Full Course | Rick &amp; Morty App | 2023 | Swift
-
-gk3UBsrNUvI
-Build FULL iOS App in Swift: Part 56 (Rick &amp; Morty | 2023) – iPad &amp; Mac Layouts
-
-WIam7qc1Hxc
-XCConfig Files Explained (Xcode Build Settings) – 2023
-
-yaQDed7lngQ
-Improve Xcode Build Speed By 10x (iOS Tips)
-
-4DXVn38Jaho
-Build FULL iOS App in Swift: Part 53 (Rick &amp; Morty | 2023) – Location Search Pagination
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="EZ5iqtjXGBE" title="Factory Design Pattern in Swift &amp; iOS (2023)" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="cL7do29XChM" title="Build FULL iOS App in Swift: Part 20 (Rick &amp; Morty | 2023) – Fetch Episodes" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="MuhUzpf2zhI" title="Build FULL iOS App in Swift: Part 19 (Rick &amp; Morty | 2023) – Character Info ViewModel" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="5LKbL-I-CYY" title="Swift: Actors Introduction (2023, Xcode 13) - iOS" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="tqVB0qgS2o4" title="Build FULL iOS App in Swift: Part 51 (Rick &amp; Morty | 2023) – Location Pagination" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="Y6njyj-9kns" title="Build FULL iOS App in Swift: Part 52 (Rick &amp; Morty | 2023) – Location Pagination Update + Devices" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="O4KZk5Bj_Sk" title="StaticString Type in Swift Explained (2023) - iOS Tip" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="XR-fH4sorGY" title="Better Optionals Usage – Swift Tip (iOS) – 2023" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="EZ5iqtjXGBE" title="Factory Design Pattern in Swift &amp; iOS (2023)" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="Z-wSODAyiwo" title="iOS App Design – Forced App Themes (Swift)" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="fTGA8cjbf5Y" title="Build iOS App Full Course | Rick &amp; Morty App | 2023 | Swift" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="gk3UBsrNUvI" title="Build FULL iOS App in Swift: Part 56 (Rick &amp; Morty | 2023) – iPad &amp; Mac Layouts" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="WIam7qc1Hxc" title="XCConfig Files Explained (Xcode Build Settings) – 2023" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="yaQDed7lngQ" title="Improve Xcode Build Speed By 10x (iOS Tips)" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="4DXVn38Jaho" title="Build FULL iOS App in Swift: Part 53 (Rick &amp; Morty | 2023) – Location Search Pagination" />
 
 :::
 
@@ -89,86 +76,77 @@ Build FULL iOS App in Swift: Part 53 (Rick &amp; Morty | 2023) – Location Sear
 [Kavsoft][yu-kavsoft]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=a42x0Y7p5UA"><img width="140px" height="auto" alt="thumb-a42x0Y7p5UA" src="https://i.ytimg.com/vi/a42x0Y7p5UA/hqdefault.jpg"/></a> | [Lock Screen Dock on iPhone \| Creating a Live Activity \| ActivityKit \| WidgetKit \| iOS 16 \| SwiftUI](https://www.youtube.com/watch?v=a42x0Y7p5UA) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EDaW9QybJf8"><img width="140px" height="auto" alt="thumb-EDaW9QybJf8" src="https://i.ytimg.com/vi/EDaW9QybJf8/hqdefault.jpg"/></a> | [Flight App UI \| 3D Animation \| Pulse Rings \| Sequence + Delay Animation \| SwiftUI \| Part 2](https://www.youtube.com/watch?v=EDaW9QybJf8) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fkK_VzRoN6A"><img width="140px" height="auto" alt="thumb-fkK_VzRoN6A" src="https://i.ytimg.com/vi/fkK_VzRoN6A/hqdefault.jpg"/></a> | [SwiftUI 3D Animated Carousel - Animation Challenge - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=fkK_VzRoN6A) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YNxjQWYYwCU"><img width="140px" height="auto" alt="thumb-YNxjQWYYwCU" src="https://i.ytimg.com/vi/YNxjQWYYwCU/hqdefault.jpg"/></a> | [SwiftUI App Intro Animation's - Walkthrough Page Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=YNxjQWYYwCU) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8sgjvgBasYM"><img width="140px" height="auto" alt="thumb-8sgjvgBasYM" src="https://i.ytimg.com/vi/8sgjvgBasYM/hqdefault.jpg"/></a> | [SwiftUI 4.0 Animation Challenge - Hero Animation - macOS - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=8sgjvgBasYM) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-pAQcPolruw"><img width="140px" height="auto" alt="thumb--pAQcPolruw" src="https://i.ytimg.com/vi/-pAQcPolruw/hqdefault.jpg"/></a> | [SwiftUI Social Media App - Firebase - Part 1 - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=-pAQcPolruw) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=E5LdH1MFrqQ"><img width="140px" height="auto" alt="thumb-E5LdH1MFrqQ" src="https://i.ytimg.com/vi/E5LdH1MFrqQ/hqdefault.jpg"/></a> | [Auto OTP TextField \| Compatible for iOS 15 & 16 \| Custom TextField \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=E5LdH1MFrqQ) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-d_KfSQS9KY"><img width="140px" height="auto" alt="thumb--d_KfSQS9KY" src="https://i.ytimg.com/vi/-d_KfSQS9KY/hqdefault.jpg"/></a> | [Flight App UI Animation's \| SwiftUI Challenge \| Part 1 \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=-d_KfSQS9KY) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tjiWNdZG-aU"><img width="140px" height="auto" alt="thumb-tjiWNdZG-aU" src="https://i.ytimg.com/vi/tjiWNdZG-aU/hqdefault.jpg"/></a> | [Flight App UI Animation's \| SwiftUI Challenge \| Part 1 \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=tjiWNdZG-aU) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VCknFsmQR2Y"><img width="140px" height="auto" alt="thumb-VCknFsmQR2Y" src="https://i.ytimg.com/vi/VCknFsmQR2Y/hqdefault.jpg"/></a> | [SwiftUI Animated Sticky Header \| Resizable Header \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=VCknFsmQR2Y) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RhZwQj9D80c"><img width="140px" height="auto" alt="thumb-RhZwQj9D80c" src="https://i.ytimg.com/vi/RhZwQj9D80c/hqdefault.jpg"/></a> | [Dynamic Island - In-App Custom Notification's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=RhZwQj9D80c) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=b6faMVHAFPw"><img width="140px" height="auto" alt="thumb-b6faMVHAFPw" src="https://i.ytimg.com/vi/b6faMVHAFPw/hqdefault.jpg"/></a> | [SwiftUI Responsive UI Design - Adaptive Design - MVVM - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=b6faMVHAFPw) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NubKNnuMFio"><img width="140px" height="auto" alt="thumb-NubKNnuMFio" src="https://i.ytimg.com/vi/NubKNnuMFio/hqdefault.jpg"/></a> | [Login Page UI + Apple Sign in - Google Sign in - Firebase Phone Auth - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=NubKNnuMFio) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xyv_J977B1E"><img width="140px" height="auto" alt="thumb-xyv_J977B1E" src="https://i.ytimg.com/vi/xyv_J977B1E/hqdefault.jpg"/></a> | [Grid Magnification Effect - Animation Challenge - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=xyv_J977B1E) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=e_2VCTr6uBk"><img width="140px" height="auto" alt="thumb-e_2VCTr6uBk" src="https://i.ytimg.com/vi/e_2VCTr6uBk/hqdefault.jpg"/></a> | [5 Underrated SwiftUI Modifiers (iOS 16) - Xcode 14](https://www.youtube.com/watch?v=e_2VCTr6uBk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zmte3GQnr6c"><img width="140px" height="auto" alt="thumb-zmte3GQnr6c" src="https://i.ytimg.com/vi/zmte3GQnr6c/hqdefault.jpg"/></a> | [SwiftUI Book App Animation's - 3D Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=zmte3GQnr6c) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Xs0mFZZd_Jw"><img width="140px" height="auto" alt="thumb-Xs0mFZZd_Jw" src="https://i.ytimg.com/vi/Xs0mFZZd_Jw/hqdefault.jpg"/></a> | [Micro-Interactions - Animated Tab Icons - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=Xs0mFZZd_Jw) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6gAqdamj6tg"><img width="140px" height="auto" alt="thumb-6gAqdamj6tg" src="https://i.ytimg.com/vi/6gAqdamj6tg/hqdefault.jpg"/></a> | [SwiftUI Animated Carousel - Xcode 14 - SwiftUI Tutorials \| Animation Challenge](https://www.youtube.com/watch?v=6gAqdamj6tg) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ho7ggcU6ps4"><img width="140px" height="auto" alt="thumb-ho7ggcU6ps4" src="https://i.ytimg.com/vi/ho7ggcU6ps4/hqdefault.jpg"/></a> | [SwiftUI Animation Challenge - Matched Geometry Effect + Masking + Lottie + Transitions - Xcode 14](https://www.youtube.com/watch?v=ho7ggcU6ps4) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ChTGbmR2NeM"><img width="140px" height="auto" alt="thumb-ChTGbmR2NeM" src="https://i.ytimg.com/vi/ChTGbmR2NeM/hqdefault.jpg"/></a> | [How to Build an MVP for Your App – Full Course on Minimum Viable Product Development](https://www.youtube.com/watch?v=ChTGbmR2NeM) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xS-fGYDD0qk"><img width="140px" height="auto" alt="thumb-xS-fGYDD0qk" src="https://i.ytimg.com/vi/xS-fGYDD0qk/hqdefault.jpg"/></a> | [SwiftUI 4.0 - New Swift Charts API - Customisation, Animations ](https://www.youtube.com/watch?v=xS-fGYDD0qk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ALzrixd_hd8"><img width="140px" height="auto" alt="thumb-ALzrixd_hd8" src="https://i.ytimg.com/vi/ALzrixd_hd8/hqdefault.jpg"/></a> | [SwiftUI Responsive UI Design - Adaptive Design - MVVM - Xcode 13 - SwiftUI Tutorials](https://www.youtube.com/watch?v=ALzrixd_hd8) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_TqEG3bAaeg"><img width="140px" height="auto" alt="thumb-_TqEG3bAaeg" src="https://i.ytimg.com/vi/_TqEG3bAaeg/hqdefault.jpg"/></a> | [SwiftUI: Drop Down Picker - Micro Interactions - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=_TqEG3bAaeg) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aTSjMpgkXkY"><img width="140px" height="auto" alt="thumb-aTSjMpgkXkY" src="https://i.ytimg.com/vi/aTSjMpgkXkY/hqdefault.jpg"/></a> | [SwiftUI 4.0 - Task Management App UI - Complex UI - MVVM - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=aTSjMpgkXkY) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1Fz86eQjxus"><img width="140px" height="auto" alt="thumb-1Fz86eQjxus" src="https://i.ytimg.com/vi/1Fz86eQjxus/hqdefault.jpg"/></a> | [Photo Editor / Image Cropping Tool Using SwiftUI \| Gestures \| Xcode 14 \| SwiftUI Tutorials](https://www.youtube.com/watch?v=1Fz86eQjxus) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5rD5GhYVBPg"><img width="140px" height="auto" alt="thumb-5rD5GhYVBPg" src="https://i.ytimg.com/vi/5rD5GhYVBPg/hqdefault.jpg"/></a> | [SwiftUI 3.0 Custom Pull To Refresh With Lottie Animation - Complex UI - Xcode 13 - SwiftUI Tutorials](https://www.youtube.com/watch?v=5rD5GhYVBPg) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DoITpssj-jk"><img width="140px" height="auto" alt="thumb-DoITpssj-jk" src="https://i.ytimg.com/vi/DoITpssj-jk/hqdefault.jpg"/></a> | [SwiftUI - Firebase Push Notifications Without Backend Servers - Xcode 13 - Firebase Cloud Messaging](https://www.youtube.com/watch?v=DoITpssj-jk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4UcShbcJUU0"><img width="140px" height="auto" alt="thumb-4UcShbcJUU0" src="https://i.ytimg.com/vi/4UcShbcJUU0/hqdefault.jpg"/></a> | [SwiftUI Tag View - Chips View - Tag List View - Custom Grid Stacks - Xcode 13 - SwiftUI Tutorials](https://www.youtube.com/watch?v=4UcShbcJUU0) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9v9lZyBHLjA"><img width="140px" height="auto" alt="thumb-9v9lZyBHLjA" src="https://i.ytimg.com/vi/9v9lZyBHLjA/hqdefault.jpg"/></a> | [SwiftUI Animated Custom Tab Bar - TabView - Custom Components - Xcode 13 - SwiftUI Tutorials](https://www.youtube.com/watch?v=9v9lZyBHLjA) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wxvtJuR_erU"><img width="140px" height="auto" alt="thumb-wxvtJuR_erU" src="https://i.ytimg.com/vi/wxvtJuR_erU/hqdefault.jpg"/></a> | [SwiftUI 2.0 Vertical Page Tab View/Carousel List - Over Sliding View - Custom SwiftUI Animations](https://www.youtube.com/watch?v=wxvtJuR_erU) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6bYMc2WUhwk"><img width="140px" height="auto" alt="thumb-6bYMc2WUhwk" src="https://i.ytimg.com/vi/6bYMc2WUhwk/hqdefault.jpg"/></a> | [SwiftUI 2.0 Login Page + Apple Sign In Integrated With Firebase - Apple Login - SwiftUI Tutorials](https://www.youtube.com/watch?v=6bYMc2WUhwk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pRjCjRxUnzM"><img width="140px" height="auto" alt="thumb-pRjCjRxUnzM" src="https://i.ytimg.com/vi/pRjCjRxUnzM/hqdefault.jpg"/></a> | [SwiftUI 2.0 Complex UI - Movie Booking App UI - Custom Views - SwiftUI Tutorials](https://www.youtube.com/watch?v=pRjCjRxUnzM) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XLlTs8zGVQI"><img width="140px" height="auto" alt="thumb-XLlTs8zGVQI" src="https://i.ytimg.com/vi/XLlTs8zGVQI/hqdefault.jpg"/></a> | [SwiftUI 2.0 Memo App With Core Data For WatchOS - CRUD Operations - Apple Watch Apps - SwiftUI](https://www.youtube.com/watch?v=XLlTs8zGVQI) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FIwEltBimrM"><img width="140px" height="auto" alt="thumb-FIwEltBimrM" src="https://i.ytimg.com/vi/FIwEltBimrM/hqdefault.jpg"/></a> | [SwiftUI 2.0 Animated Header - Swipe Up To Hide/Swipe Down Reveal Header - SwiftUI Tutorials](https://www.youtube.com/watch?v=FIwEltBimrM) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=62u7s1Z3aSo"><img width="140px" height="auto" alt="thumb-62u7s1Z3aSo" src="https://i.ytimg.com/vi/62u7s1Z3aSo/hqdefault.jpg"/></a> | [SwiftUI 2.0 Swipeable Instagram View Layout \| Story 👈 Feed 👉 DM \| Complex UI \| SwiftUI Tutorials👆](https://www.youtube.com/watch?v=62u7s1Z3aSo) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WziIwA8nLrA"><img width="140px" height="auto" alt="thumb-WziIwA8nLrA" src="https://i.ytimg.com/vi/WziIwA8nLrA/hqdefault.jpg"/></a> | [SwiftUI 2.0 Medium App Sticky Footer Animation - Complex UI - SwiftUI Tutorials](https://www.youtube.com/watch?v=WziIwA8nLrA) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WB9UT9SYfC4"><img width="140px" height="auto" alt="thumb-WB9UT9SYfC4" src="https://i.ytimg.com/vi/WB9UT9SYfC4/hqdefault.jpg"/></a> | [SwiftUI 2.0 Navigation Drawer With Saving Page State - Complex Animations - SwiftUI Tutorials](https://www.youtube.com/watch?v=WB9UT9SYfC4) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pgoqdJrd75k"><img width="140px" height="auto" alt="thumb-pgoqdJrd75k" src="https://i.ytimg.com/vi/pgoqdJrd75k/hqdefault.jpg"/></a> | [SwiftUI 2.0 Custom Timer App With Background Fetching - Custom Animations - SwiftUI Tutorials](https://www.youtube.com/watch?v=pgoqdJrd75k) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_Tj6xp1DOj0"><img width="140px" height="auto" alt="thumb-_Tj6xp1DOj0" src="https://i.ytimg.com/vi/_Tj6xp1DOj0/hqdefault.jpg"/></a> | [SwiftUI 2.0 Tag List View - SwiftUI Chips View - Custom Tag View - SwiftUI Tutorials](https://www.youtube.com/watch?v=_Tj6xp1DOj0) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=h25rGhYrl5I"><img width="140px" height="auto" alt="thumb-h25rGhYrl5I" src="https://i.ytimg.com/vi/h25rGhYrl5I/hqdefault.jpg"/></a> | [SwiftUI 2.0 Drag &amp; Drop - Reordering Grid View Items - Custom Picker - SwiftUI Tutorials](https://www.youtube.com/watch?v=h25rGhYrl5I) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0IWTF4c8z0U"><img width="140px" height="auto" alt="thumb-0IWTF4c8z0U" src="https://i.ytimg.com/vi/0IWTF4c8z0U/hqdefault.jpg"/></a> | [SwiftUI 2.0 YouTube Mini Player Transition - Complex Animations - Can It Be Done In SwiftUI?](https://www.youtube.com/watch?v=0IWTF4c8z0U) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ElexpjhTKzA"><img width="140px" height="auto" alt="thumb-ElexpjhTKzA" src="https://i.ytimg.com/vi/ElexpjhTKzA/hqdefault.jpg"/></a> | [SwiftUI 2.0 Building Shared Apps For Both iOS And macOS - Mac Catalyst - SwiftUI Tutorials](https://www.youtube.com/watch?v=ElexpjhTKzA) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lx6C6pcL-0M"><img width="140px" height="auto" alt="thumb-lx6C6pcL-0M" src="https://i.ytimg.com/vi/lx6C6pcL-0M/hqdefault.jpg"/></a> | [SwiftUI 2.0 Realm DB CRUD Operations - Alternative For Core Data - SwiftUI Tutorials](https://www.youtube.com/watch?v=lx6C6pcL-0M) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7HYIe5uHo78"><img width="140px" height="auto" alt="thumb-7HYIe5uHo78" src="https://i.ytimg.com/vi/7HYIe5uHo78/hqdefault.jpg"/></a> | [SwiftUI 2.0 Advance Map Kit Tutorials - Core Location - MVVM - Custom Search Bar - SwiftUI Tutorials](https://www.youtube.com/watch?v=7HYIe5uHo78) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KYokxl1inRs"><img width="140px" height="auto" alt="thumb-KYokxl1inRs" src="https://i.ytimg.com/vi/KYokxl1inRs/hqdefault.jpg"/></a> | [SwiftUI Animated Text Shimmer Effect - Custom Animations - SwiftUI Tutorials](https://www.youtube.com/watch?v=KYokxl1inRs) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=B_DzMJOVzMo"><img width="140px" height="auto" alt="thumb-B_DzMJOVzMo" src="https://i.ytimg.com/vi/B_DzMJOVzMo/hqdefault.jpg"/></a> | [SwiftUI 2.0 Custom Carousel Slider With Hero Animations - SwiftUI Tutorials](https://www.youtube.com/watch?v=B_DzMJOVzMo) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qqN7aAXo7mE"><img width="140px" height="auto" alt="thumb-qqN7aAXo7mE" src="https://i.ytimg.com/vi/qqN7aAXo7mE/hqdefault.jpg"/></a> | [SwiftUI 2.0 macOS Login Page UI - Mac App Development - SwiftUI Tutorials](https://www.youtube.com/watch?v=qqN7aAXo7mE) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=z0PqbaHHjfA"><img width="140px" height="auto" alt="thumb-z0PqbaHHjfA" src="https://i.ytimg.com/vi/z0PqbaHHjfA/hqdefault.jpg"/></a> | [SwiftUI Bill Split App UI - Custom Slider - Composing Complex UI - SwiftUI Tutorials](https://www.youtube.com/watch?v=z0PqbaHHjfA) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Knf1PZvcNnY"><img width="140px" height="auto" alt="thumb-Knf1PZvcNnY" src="https://i.ytimg.com/vi/Knf1PZvcNnY/hqdefault.jpg"/></a> | [SwiftUI 2.0 Facebook Desktop App UI - Complex App UI - Mac App Development - SwiftUI Tutorials](https://www.youtube.com/watch?v=Knf1PZvcNnY) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8hvaniprctk"><img width="140px" height="auto" alt="thumb-8hvaniprctk" src="https://i.ytimg.com/vi/8hvaniprctk/hqdefault.jpg"/></a> | [SwiftUI 2.0 Building Custom Camera - Custom Camera View - AVFoundation -  SwiftUI Tutorials](https://www.youtube.com/watch?v=8hvaniprctk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UODvp5CIYYM"><img width="140px" height="auto" alt="thumb-UODvp5CIYYM" src="https://i.ytimg.com/vi/UODvp5CIYYM/hqdefault.jpg"/></a> | [SwiftUI 2.0 Animated Splash Screen With Login Page UI - Lottie Animations - SwiftUI Tutorials](https://www.youtube.com/watch?v=UODvp5CIYYM) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=h7dWHr5gTzc"><img width="140px" height="auto" alt="thumb-h7dWHr5gTzc" src="https://i.ytimg.com/vi/h7dWHr5gTzc/hqdefault.jpg"/></a> | [SwiftUI Custom NavBar \| Resizable App Bar \| Custom Tabbed Picker \|  SwiftUI 2.0 Tutorials](https://www.youtube.com/watch?v=h7dWHr5gTzc) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0VFg-rmi_cY"><img width="140px" height="auto" alt="thumb-0VFg-rmi_cY" src="https://i.ytimg.com/vi/0VFg-rmi_cY/hqdefault.jpg"/></a> | [SwiftUI Currency Exchange App With JSON API - SwiftUI 2.0 Tutorials](https://www.youtube.com/watch?v=0VFg-rmi_cY) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=f7tqEOTrkoU"><img width="140px" height="auto" alt="thumb-f7tqEOTrkoU" src="https://i.ytimg.com/vi/f7tqEOTrkoU/hqdefault.jpg"/></a> | [SwiftUI OnBoarding Screen With Custom Slider - SwiftUI 2.0 Tutorials](https://www.youtube.com/watch?v=f7tqEOTrkoU) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3psB2i2Ondo"><img width="140px" height="auto" alt="thumb-3psB2i2Ondo" src="https://i.ytimg.com/vi/3psB2i2Ondo/hqdefault.jpg"/></a> | [SwiftUI 2.0 Custom Tab Bar - Preserving State When Ever Tab Changes In SwiftUI - SwiftUI 2.0](https://www.youtube.com/watch?v=3psB2i2Ondo) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4JPaSJlrE6k"><img width="140px" height="auto" alt="thumb-4JPaSJlrE6k" src="https://i.ytimg.com/vi/4JPaSJlrE6k/hqdefault.jpg"/></a> | [SwiftUI 2.0 Custom Navigation Menu - Custom Side Bar Menu - SwiftUI 2.0 Tutorials](https://www.youtube.com/watch?v=4JPaSJlrE6k) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_mWfRKyhMIk"><img width="140px" height="auto" alt="thumb-_mWfRKyhMIk" src="https://i.ytimg.com/vi/_mWfRKyhMIk/hqdefault.jpg"/></a> | [SwiftUI Stacked Carousel Slider - Custom Carousel List - SwiftUI 2.0 Tutorials](https://www.youtube.com/watch?v=_mWfRKyhMIk) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Vcz_v35VuvQ"><img width="140px" height="auto" alt="thumb-Vcz_v35VuvQ" src="https://i.ytimg.com/vi/Vcz_v35VuvQ/hqdefault.jpg"/></a> | [SwiftUI 2.0 Complex UI Tutorials - Custom Shapes - Messaging App UI - SwiftUI 2.0 Tutorials](https://www.youtube.com/watch?v=Vcz_v35VuvQ) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OpxFAzgmlK4"><img width="140px" height="auto" alt="thumb-OpxFAzgmlK4" src="https://i.ytimg.com/vi/OpxFAzgmlK4/hqdefault.jpg"/></a> | [How to Create Widgets For iOS 14 Using SwiftUI 2.0 - SwiftUI WidgetKit - WWDC 2020 SwiftUI Tutorials](https://www.youtube.com/watch?v=OpxFAzgmlK4) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mRk0F1Ii718"><img width="140px" height="auto" alt="thumb-mRk0F1Ii718" src="https://i.ytimg.com/vi/mRk0F1Ii718/hqdefault.jpg"/></a> | [SwiftUI MVVM Design Pattern - SwiftUI Tutorials](https://www.youtube.com/watch?v=mRk0F1Ii718) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iIofrIyhuaE"><img width="140px" height="auto" alt="thumb-iIofrIyhuaE" src="https://i.ytimg.com/vi/iIofrIyhuaE/hqdefault.jpg"/></a> | [Instagram UI Re-Design Using SwiftUI - SwiftUI Complex UI's - SwiftUI Tutorials](https://www.youtube.com/watch?v=iIofrIyhuaE) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_KohThDWl5Y"><img width="140px" height="auto" alt="thumb-_KohThDWl5Y" src="https://i.ytimg.com/vi/_KohThDWl5Y/hqdefault.jpg"/></a> | [SwiftUI Bottom Sheet Animation like Apple Music App - Matched Geometry - Complex UI - Xcode 14](https://www.youtube.com/watch?v=_KohThDWl5Y) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=W-uSGXhuFHY"><img width="140px" height="auto" alt="thumb-W-uSGXhuFHY" src="https://i.ytimg.com/vi/W-uSGXhuFHY/hqdefault.jpg"/></a> | [SwiftUI Auto Scrolling Tab Indicators - Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=W-uSGXhuFHY) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4zyuGXTyZ80"><img width="140px" height="auto" alt="thumb-4zyuGXTyZ80" src="https://i.ytimg.com/vi/4zyuGXTyZ80/hqdefault.jpg"/></a> | [Animated Custom Tab Bar - PlayStation App's Tabbar Using SwiftUI - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=4zyuGXTyZ80) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZiDVbDlHDF0"><img width="140px" height="auto" alt="thumb-ZiDVbDlHDF0" src="https://i.ytimg.com/vi/ZiDVbDlHDF0/hqdefault.jpg"/></a> | [SwiftUI Snap Interval Carousel - Animation's - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=ZiDVbDlHDF0) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_TqEG3bAaeg"><img width="140px" height="auto" alt="thumb-_TqEG3bAaeg" src="https://i.ytimg.com/vi/_TqEG3bAaeg/hqdefault.jpg"/></a> | [SwiftUI: Drop Down Picker - Micro Interactions - Xcode 14 - SwiftUI Tutorials](https://www.youtube.com/watch?v=_TqEG3bAaeg) <br/><br/> _[Kavsoft][yu-kavsoft]_ |
 
-T7Ph17f9eeo
-SwiftUI Credit/Debit Card Input Form - FocusState - Move to Next TextField - SwiftUI Tutorials
-
-9Ztm5ePwY4k
-SwiftUI App Intro Animation's - Walkthrough Page Animation's - OnBoarding Screen's - Login Page UI
-
-Yg2wh9uJ9Fk
-SwiftUI Infinite Carousel - Infinite Page Tab View - SwiftUI Tutorials - Xcode 14
-
-eV9ybRJpuB8
-SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="a42x0Y7p5UA" title="Lock Screen Dock on iPhone | Creating a Live Activity | ActivityKit | WidgetKit | iOS 16 | SwiftUI" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="EDaW9QybJf8" title="Flight App UI | 3D Animation | Pulse Rings | Sequence + Delay Animation | SwiftUI | Part 2" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="fkK_VzRoN6A" title="SwiftUI 3D Animated Carousel - Animation Challenge - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="YNxjQWYYwCU" title="SwiftUI App Intro Animation's - Walkthrough Page Animation's - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="8sgjvgBasYM" title="SwiftUI 4.0 Animation Challenge - Hero Animation - macOS - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="-pAQcPolruw" title="SwiftUI Social Media App - Firebase - Part 1 - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="E5LdH1MFrqQ" title="Auto OTP TextField | Compatible for iOS 15 & 16 | Custom TextField | Xcode 14 | SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="-d_KfSQS9KY" title="Flight App UI Animation's | SwiftUI Challenge | Part 1 | Xcode 14 | SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="tjiWNdZG-aU" title="Flight App UI Animation's | SwiftUI Challenge | Part 1 | Xcode 14 | SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="VCknFsmQR2Y" title="SwiftUI Animated Sticky Header | Resizable Header | Xcode 14 | SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="RhZwQj9D80c" title="Dynamic Island - In-App Custom Notification's - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="b6faMVHAFPw" title="SwiftUI Responsive UI Design - Adaptive Design - MVVM - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="NubKNnuMFio" title="Login Page UI + Apple Sign in - Google Sign in - Firebase Phone Auth - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="xyv_J977B1E" title="Grid Magnification Effect - Animation Challenge - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="e_2VCTr6uBk" title="5 Underrated SwiftUI Modifiers (iOS 16) - Xcode 14" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="zmte3GQnr6c" title="SwiftUI Book App Animation's - 3D Animation's - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="Xs0mFZZd_Jw" title="Micro-Interactions - Animated Tab Icons - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="6gAqdamj6tg" title="SwiftUI Animated Carousel - Xcode 14 - SwiftUI Tutorials | Animation Challenge" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="ho7ggcU6ps4" title="SwiftUI Animation Challenge - Matched Geometry Effect + Masking + Lottie + Transitions - Xcode 14" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="ChTGbmR2NeM" title="How to Build an MVP for Your App – Full Course on Minimum Viable Product Development" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="xS-fGYDD0qk" title="SwiftUI 4.0 - New Swift Charts API - Customisation, Animations " />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="ALzrixd_hd8" title="SwiftUI Responsive UI Design - Adaptive Design - MVVM - Xcode 13 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="_TqEG3bAaeg" title="SwiftUI: Drop Down Picker - Micro Interactions - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="aTSjMpgkXkY" title="SwiftUI 4.0 - Task Management App UI - Complex UI - MVVM - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="1Fz86eQjxus" title="Photo Editor / Image Cropping Tool Using SwiftUI | Gestures | Xcode 14 | SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="5rD5GhYVBPg" title="SwiftUI 3.0 Custom Pull To Refresh With Lottie Animation - Complex UI - Xcode 13 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="DoITpssj-jk" title="SwiftUI - Firebase Push Notifications Without Backend Servers - Xcode 13 - Firebase Cloud Messaging" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="4UcShbcJUU0" title="SwiftUI Tag View - Chips View - Tag List View - Custom Grid Stacks - Xcode 13 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="9v9lZyBHLjA" title="SwiftUI Animated Custom Tab Bar - TabView - Custom Components - Xcode 13 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="wxvtJuR_erU" title="SwiftUI 2.0 Vertical Page Tab View/Carousel List - Over Sliding View - Custom SwiftUI Animations" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="6bYMc2WUhwk" title="SwiftUI 2.0 Login Page + Apple Sign In Integrated With Firebase - Apple Login - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="pRjCjRxUnzM" title="SwiftUI 2.0 Complex UI - Movie Booking App UI - Custom Views - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="XLlTs8zGVQI" title="SwiftUI 2.0 Memo App With Core Data For WatchOS - CRUD Operations - Apple Watch Apps - SwiftUI" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="FIwEltBimrM" title="SwiftUI 2.0 Animated Header - Swipe Up To Hide/Swipe Down Reveal Header - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="62u7s1Z3aSo" title="SwiftUI 2.0 Swipeable Instagram View Layout | Story 👈 Feed 👉 DM | Complex UI | SwiftUI Tutorials👆" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="WziIwA8nLrA" title="SwiftUI 2.0 Medium App Sticky Footer Animation - Complex UI - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="WB9UT9SYfC4" title="SwiftUI 2.0 Navigation Drawer With Saving Page State - Complex Animations - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="pgoqdJrd75k" title="SwiftUI 2.0 Custom Timer App With Background Fetching - Custom Animations - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="_Tj6xp1DOj0" title="SwiftUI 2.0 Tag List View - SwiftUI Chips View - Custom Tag View - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="h25rGhYrl5I" title="SwiftUI 2.0 Drag &amp; Drop - Reordering Grid View Items - Custom Picker - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="0IWTF4c8z0U" title="SwiftUI 2.0 YouTube Mini Player Transition - Complex Animations - Can It Be Done In SwiftUI?" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="ElexpjhTKzA" title="SwiftUI 2.0 Building Shared Apps For Both iOS And macOS - Mac Catalyst - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="lx6C6pcL-0M" title="SwiftUI 2.0 Realm DB CRUD Operations - Alternative For Core Data - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="7HYIe5uHo78" title="SwiftUI 2.0 Advance Map Kit Tutorials - Core Location - MVVM - Custom Search Bar - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="KYokxl1inRs" title="SwiftUI Animated Text Shimmer Effect - Custom Animations - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="B_DzMJOVzMo" title="SwiftUI 2.0 Custom Carousel Slider With Hero Animations - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="qqN7aAXo7mE" title="SwiftUI 2.0 macOS Login Page UI - Mac App Development - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="z0PqbaHHjfA" title="SwiftUI Bill Split App UI - Custom Slider - Composing Complex UI - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="Knf1PZvcNnY" title="SwiftUI 2.0 Facebook Desktop App UI - Complex App UI - Mac App Development - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="8hvaniprctk" title="SwiftUI 2.0 Building Custom Camera - Custom Camera View - AVFoundation -  SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="UODvp5CIYYM" title="SwiftUI 2.0 Animated Splash Screen With Login Page UI - Lottie Animations - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="h7dWHr5gTzc" title="SwiftUI Custom NavBar | Resizable App Bar | Custom Tabbed Picker |  SwiftUI 2.0 Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="0VFg-rmi_cY" title="SwiftUI Currency Exchange App With JSON API - SwiftUI 2.0 Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="f7tqEOTrkoU" title="SwiftUI OnBoarding Screen With Custom Slider - SwiftUI 2.0 Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="3psB2i2Ondo" title="SwiftUI 2.0 Custom Tab Bar - Preserving State When Ever Tab Changes In SwiftUI - SwiftUI 2.0" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="4JPaSJlrE6k" title="SwiftUI 2.0 Custom Navigation Menu - Custom Side Bar Menu - SwiftUI 2.0 Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="_mWfRKyhMIk" title="SwiftUI Stacked Carousel Slider - Custom Carousel List - SwiftUI 2.0 Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="Vcz_v35VuvQ" title="SwiftUI 2.0 Complex UI Tutorials - Custom Shapes - Messaging App UI - SwiftUI 2.0 Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="OpxFAzgmlK4" title="How to Create Widgets For iOS 14 Using SwiftUI 2.0 - SwiftUI WidgetKit - WWDC 2020 SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="mRk0F1Ii718" title="SwiftUI MVVM Design Pattern - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="iIofrIyhuaE" title="Instagram UI Re-Design Using SwiftUI - SwiftUI Complex UI's - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="_KohThDWl5Y" title="SwiftUI Bottom Sheet Animation like Apple Music App - Matched Geometry - Complex UI - Xcode 14" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="W-uSGXhuFHY" title="SwiftUI Auto Scrolling Tab Indicators - Animation's - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="4zyuGXTyZ80" title="Animated Custom Tab Bar - PlayStation App's Tabbar Using SwiftUI - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="ZiDVbDlHDF0" title="SwiftUI Snap Interval Carousel - Animation's - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="_TqEG3bAaeg" title="SwiftUI: Drop Down Picker - Micro Interactions - Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="T7Ph17f9eeo" title="SwiftUI Credit/Debit Card Input Form - FocusState - Move to Next TextField - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="9Ztm5ePwY4k" title="SwiftUI App Intro Animation's - Walkthrough Page Animation's - OnBoarding Screen's - Login Page UI" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="Yg2wh9uJ9Fk" title="SwiftUI Infinite Carousel - Infinite Page Tab View - SwiftUI Tutorials - Xcode 14" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="eV9ybRJpuB8" title="SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14" />
 
 :::
 
@@ -179,46 +157,46 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [Paul Hudson][yu-twostraws]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=TcGnO5VSJlI"><img width="140px" height="auto" alt="thumb-TcGnO5VSJlI" src="https://i.ytimg.com/vi/TcGnO5VSJlI/hqdefault.jpg"/></a> | [SwiftUI Live: Building a complete project](https://www.youtube.com/watch?v=TcGnO5VSJlI) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=n5X_V81OYnQ"><img width="140px" height="auto" alt="thumb-n5X_V81OYnQ" src="https://i.ytimg.com/vi/n5X_V81OYnQ/hqdefault.jpg"/></a> | [Learn the Essentials of Swift in one hour](https://www.youtube.com/watch?v=n5X_V81OYnQ) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uC3X4FoielU"><img width="140px" height="auto" alt="thumb-uC3X4FoielU" src="https://i.ytimg.com/vi/uC3X4FoielU/hqdefault.jpg"/></a> | [5 Steps to Better SwiftUI Views](https://www.youtube.com/watch?v=uC3X4FoielU) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qk2y-TiLDZo"><img width="140px" height="auto" alt="thumb-qk2y-TiLDZo" src="https://i.ytimg.com/vi/qk2y-TiLDZo/hqdefault.jpg"/></a> | [SwiftUI vs UIKit – Comparison of building the same app in each framework](https://www.youtube.com/watch?v=qk2y-TiLDZo) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aP-SQXTtWhY"><img width="140px" height="auto" alt="thumb-aP-SQXTtWhY" src="https://i.ytimg.com/vi/aP-SQXTtWhY/hqdefault.jpg"/></a> | [Build your first iOS app with SwiftUI](https://www.youtube.com/watch?v=aP-SQXTtWhY) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qkcKTJhDyLs"><img width="140px" height="auto" alt="thumb-qkcKTJhDyLs" src="https://i.ytimg.com/vi/qkcKTJhDyLs/hqdefault.jpg"/></a> | [8 Common SwiftUI Mistakes – and how to fix them!](https://www.youtube.com/watch?v=qkcKTJhDyLs) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qNVApzV9V1Q"><img width="140px" height="auto" alt="thumb-qNVApzV9V1Q" src="https://i.ytimg.com/vi/qNVApzV9V1Q/hqdefault.jpg"/></a> | [Building Grids in SwiftUI 2.0 for iOS 14](https://www.youtube.com/watch?v=qNVApzV9V1Q) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bmc_bbmRS5w"><img width="140px" height="auto" alt="thumb-bmc_bbmRS5w" src="https://i.ytimg.com/vi/bmc_bbmRS5w/hqdefault.jpg"></a> | [\(OLD\) Communicating with a MapKit coordinator – Bucket List SwiftUI Tutorial 5/13](https://www.youtube.com/watch?v=bmc_bbmRS5w) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rXni7A4OUgU"><img width="140px" height="auto" alt="thumb-rXni7A4OUgU" src="https://i.ytimg.com/vi/rXni7A4OUgU/hqdefault.jpg"></a> | [\(OLD\) Creating NSManagedObject subclasses – Core Data SwiftUI Tutorial 2/7](https://www.youtube.com/watch?v=rXni7A4OUgU) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TtaW6VqyUxE"><img width="140px" height="auto" alt="thumb-TtaW6VqyUxE" src="https://i.ytimg.com/vi/TtaW6VqyUxE/hqdefault.jpg"></a> | [\(OLD\) Why does \.self work for ForEach? – Core Data SwiftUI Tutorial 1/7](https://www.youtube.com/watch?v=TtaW6VqyUxE) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HivXfybBqZQ"><img width="140px" height="auto" alt="thumb-HivXfybBqZQ" src="https://i.ytimg.com/vi/HivXfybBqZQ/hqdefault.jpg"></a> | [\(OLD\) Working with strings –&nbsp;Word Scramble SwiftUI Tutorial 3/6](https://www.youtube.com/watch?v=HivXfybBqZQ) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HU9XPTzj55k"><img width="140px" height="auto" alt="thumb-HU9XPTzj55k" src="https://i.ytimg.com/vi/HU9XPTzj55k/hqdefault.jpg"></a> | [\(OLD\) Loading resources from your app bundle –&nbsp;Word Scramble SwiftUI Tutorial 2/6](https://www.youtube.com/watch?v=HU9XPTzj55k) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-VkFj7EUxBk"><img width="140px" height="auto" alt="thumb--VkFj7EUxBk" src="https://i.ytimg.com/vi/-VkFj7EUxBk/hqdefault.jpg"></a> | [\(OLD\) Introducing List, your best friend –&nbsp;Word Scramble SwiftUI Tutorial 1/6](https://www.youtube.com/watch?v=-VkFj7EUxBk) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=SR7DtcT61tA"><img width="140px" height="auto" alt="thumb-SR7DtcT61tA" src="https://i.ytimg.com/vi/SR7DtcT61tA/hqdefault.jpg"></a> | [How to build a UICollectionView like the App Store](https://www.youtube.com/watch?v=SR7DtcT61tA) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U1s4bDmpanc"><img width="140px" height="auto" alt="thumb-U1s4bDmpanc" src="https://i.ytimg.com/vi/U1s4bDmpanc/hqdefault.jpg"></a> | [Two-way bindings in SwiftUI - SwiftUI Starter Project 10/14](https://www.youtube.com/watch?v=U1s4bDmpanc) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=dkQKHqCKbT8"><img width="140px" height="auto" alt="thumb-dkQKHqCKbT8" src="https://i.ytimg.com/vi/dkQKHqCKbT8/hqdefault.jpg"></a> | [Polishing designs with fonts and colors - SwiftUI Starter Project 4/14](https://www.youtube.com/watch?v=dkQKHqCKbT8) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wBIv4QRawY0"><img width="140px" height="auto" alt="thumb-wBIv4QRawY0" src="https://i.ytimg.com/vi/wBIv4QRawY0/hqdefault.jpg"></a> | [\(OLD\) Creating views in a loop –&nbsp;WeSplit SwiftUI Tutorial 6/10](https://www.youtube.com/watch?v=wBIv4QRawY0) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IG1os9XXNiI"><img width="140px" height="auto" alt="thumb-IG1os9XXNiI" src="https://i.ytimg.com/vi/IG1os9XXNiI/hqdefault.jpg"></a> | [\(OLD\) Binding state to user interface controls – WeSplit&nbsp;SwiftUI Tutorial  5/10](https://www.youtube.com/watch?v=IG1os9XXNiI) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=46vqD5OPdys"><img width="140px" height="auto" alt="thumb-46vqD5OPdys" src="https://i.ytimg.com/vi/46vqD5OPdys/hqdefault.jpg"></a> | [\(OLD\) Modifying program state –&nbsp;WeSplit SwiftUI Tutorial  4/10](https://www.youtube.com/watch?v=46vqD5OPdys) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qhf3N9La27c"><img width="140px" height="auto" alt="thumb-qhf3N9La27c" src="https://i.ytimg.com/vi/qhf3N9La27c/hqdefault.jpg"></a> | [\(OLD\) Adding a navigation bar –&nbsp;WeSplit SwiftUI Tutorial 3/10](https://www.youtube.com/watch?v=qhf3N9La27c) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BB3Gi4CGKrA"><img width="140px" height="auto" alt="thumb-BB3Gi4CGKrA" src="https://i.ytimg.com/vi/BB3Gi4CGKrA/hqdefault.jpg"></a> | [\(OLD\) Creating a form – WeSplit SwiftUI Tutorial 2/10](https://www.youtube.com/watch?v=BB3Gi4CGKrA) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uUMWEu2YJew"><img width="140px" height="auto" alt="thumb-uUMWEu2YJew" src="https://i.ytimg.com/vi/uUMWEu2YJew/hqdefault.jpg"></a> | [\(OLD\) Understanding the basic structure of a SwiftUI app –&nbsp; WeSplit SwiftUI Tutorial 1/10:](https://www.youtube.com/watch?v=uUMWEu2YJew) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YaMKOTWdT6U"><img width="140px" height="auto" alt="thumb-YaMKOTWdT6U" src="https://i.ytimg.com/vi/YaMKOTWdT6U/hqdefault.jpg"></a> | [Building a SwiftUI app for iOS and macOS –&nbsp;Swift on Sundays Tutorial, September 22nd 2019](https://www.youtube.com/watch?v=YaMKOTWdT6U) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=78xmHtEOy0E"><img width="140px" height="auto" alt="thumb-78xmHtEOy0E" src="https://i.ytimg.com/vi/78xmHtEOy0E/hqdefault.jpg"></a> | [A Tour of SwiftUI](https://www.youtube.com/watch?v=78xmHtEOy0E) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=stSB04C4iS4"><img width="140px" height="auto" alt="thumb-stSB04C4iS4" src="https://i.ytimg.com/vi/stSB04C4iS4/hqdefault.jpg"></a> | [SwiftUI Tutorial: What's the difference between @State, @ObjectBinding, and @EnvironmentObject?](https://www.youtube.com/watch?v=stSB04C4iS4) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VGJBLlfSN-Y"><img width="140px" height="auto" alt="thumb-VGJBLlfSN-Y" src="https://i.ytimg.com/vi/VGJBLlfSN-Y/hqdefault.jpg"></a> | [SwiftUI Tutorial: Build a dynamic list app with navigation and images – SwiftUI Complete Apps #1](https://www.youtube.com/watch?v=VGJBLlfSN-Y) <br/><br/> [Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CK9OwMyJQDY"><img width="140px" height="auto" alt="thumb-CK9OwMyJQDY" src="https://i.ytimg.com/vi/CK9OwMyJQDY/hqdefault.jpg"></a> | [Basics quick start: SKShapeNode – Swifty Ninja, part 2](https://www.youtube.com/watch?v=CK9OwMyJQDY) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QD_mVOeOaGA"><img width="140px" height="auto" alt="thumb-QD_mVOeOaGA" src="https://i.ytimg.com/vi/QD_mVOeOaGA/hqdefault.jpg"></a> | [Scheduling notifications: UNUserNotificationCenter – Local Notifications, part 2](https://www.youtube.com/watch?v=QD_mVOeOaGA) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pSgWwyj1gX4"><img width="140px" height="auto" alt="thumb-pSgWwyj1gX4" src="https://i.ytimg.com/vi/pSgWwyj1gX4/hqdefault.jpg"></a> | [Building a Vapor API with a matching iOS app –&nbsp;Swift on Sundays March 10th 2019](https://www.youtube.com/watch?v=pSgWwyj1gX4) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Nj6qvHyNMug"><img width="140px" height="auto" alt="thumb-Nj6qvHyNMug" src="https://i.ytimg.com/vi/Nj6qvHyNMug/hqdefault.jpg"></a> | [Monitoring page loads: UIToolbar and UIProgressView –&nbsp;Easy Browser, part 4](https://www.youtube.com/watch?v=Nj6qvHyNMug) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TJfh8wXbfEw"><img width="140px" height="auto" alt="thumb-TJfh8wXbfEw" src="https://i.ytimg.com/vi/TJfh8wXbfEw/hqdefault.jpg"></a> | [Building a SpriteKit game with physics, particles, and shaders –&nbsp;Swift on Sundays February 24th 2019](https://www.youtube.com/watch?v=TJfh8wXbfEw) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xNFenmV0qjM"><img width="140px" height="auto" alt="thumb-xNFenmV0qjM" src="https://i.ytimg.com/vi/xNFenmV0qjM/hqdefault.jpg"></a> | [Building a word search generator with PDF rendering –&nbsp;Swift on Sundays February 17th 2019](https://www.youtube.com/watch?v=xNFenmV0qjM) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CpvC7bojHTE"><img width="140px" height="auto" alt="thumb-CpvC7bojHTE" src="https://i.ytimg.com/vi/CpvC7bojHTE/hqdefault.jpg"></a> | [Building an iOS memory app – Swift on Sundays&nbsp;January 6th 2019](https://www.youtube.com/watch?v=CpvC7bojHTE) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7QPlF2UNowM"><img width="140px" height="auto" alt="thumb-7QPlF2UNowM" src="https://i.ytimg.com/vi/7QPlF2UNowM/hqdefault.jpg"></a> | [iOS 12 in 45 minutes, plus&nbsp;new APIs in Swift](https://www.youtube.com/watch?v=7QPlF2UNowM) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TSbzwqGzYC0"><img width="140px" height="auto" alt="thumb-TSbzwqGzYC0" src="https://i.ytimg.com/vi/TSbzwqGzYC0/hqdefault.jpg"></a> | [Building a mathematics game with unit testing –&nbsp;Swift on Sundays February 10th 2019](https://www.youtube.com/watch?v=TSbzwqGzYC0) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=08JnjnY5Lo0"><img width="140px" height="auto" alt="thumb-08JnjnY5Lo0" src="https://i.ytimg.com/vi/08JnjnY5Lo0/hqdefault.jpg"></a> | [Hacking with Swift Project 1 – Storm Viewer](https://www.youtube.com/watch?v=08JnjnY5Lo0) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6Eo5AoPIg7k"><img width="140px" height="auto" alt="thumb-6Eo5AoPIg7k" src="https://i.ytimg.com/vi/6Eo5AoPIg7k/hqdefault.jpg"></a> | [Xcode in 20 Seconds: Named colors](https://www.youtube.com/watch?v=6Eo5AoPIg7k) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ueByb0MBMQ4"><img width="140px" height="auto" alt="thumb-ueByb0MBMQ4" src="https://i.ytimg.com/vi/ueByb0MBMQ4/hqdefault.jpg"></a> | [Advanced Coordinators in iOS](https://www.youtube.com/watch?v=ueByb0MBMQ4) <br/><br/> _[Paul Hudson][yu-twostraws]_ |
+
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="TcGnO5VSJlI" title="SwiftUI Live: Building a complete project" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="n5X_V81OYnQ" title="Learn the Essentials of Swift in one hour" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="uC3X4FoielU" title="5 Steps to Better SwiftUI Views" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="qk2y-TiLDZo" title="SwiftUI vs UIKit – Comparison of building the same app in each framework" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="aP-SQXTtWhY" title="Build your first iOS app with SwiftUI" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="qkcKTJhDyLs" title="8 Common SwiftUI Mistakes – and how to fix them!" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="qNVApzV9V1Q" title="Building Grids in SwiftUI 2.0 for iOS 14" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="bmc_bbmRS5w" title="(OLD) Communicating with a MapKit coordinator – Bucket List SwiftUI Tutorial 5/13" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="rXni7A4OUgU" title="(OLD) Creating NSManagedObject subclasses – Core Data SwiftUI Tutorial 2/7" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="TtaW6VqyUxE" title="(OLD) Why does .self work for ForEach? – Core Data SwiftUI Tutorial 1/7" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="HivXfybBqZQ" title="(OLD) Working with strings –&nbsp;Word Scramble SwiftUI Tutorial 3/6" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="HU9XPTzj55k" title="(OLD) Loading resources from your app bundle –&nbsp;Word Scramble SwiftUI Tutorial 2/6" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="-VkFj7EUxBk" title="(OLD) Introducing List, your best friend –&nbsp;Word Scramble SwiftUI Tutorial 1/6" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="SR7DtcT61tA" title="How to build a UICollectionView like the App Store" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="U1s4bDmpanc" title="Two-way bindings in SwiftUI - SwiftUI Starter Project 10/14" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="dkQKHqCKbT8" title="Polishing designs with fonts and colors - SwiftUI Starter Project 4/14" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="wBIv4QRawY0" title="(OLD) Creating views in a loop –&nbsp;WeSplit SwiftUI Tutorial 6/10" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="IG1os9XXNiI" title="(OLD) Binding state to user interface controls – WeSplit&nbsp;SwiftUI Tutorial  5/10" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="46vqD5OPdys" title="(OLD) Modifying program state –&nbsp;WeSplit SwiftUI Tutorial  4/10" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="qhf3N9La27c" title="(OLD) Adding a navigation bar –&nbsp;WeSplit SwiftUI Tutorial 3/10" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="BB3Gi4CGKrA" title="(OLD) Creating a form – WeSplit SwiftUI Tutorial 2/10" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="uUMWEu2YJew" title="(OLD) Understanding the basic structure of a SwiftUI app –&nbsp; WeSplit SwiftUI Tutorial 1/10:" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="YaMKOTWdT6U" title="Building a SwiftUI app for iOS and macOS –&nbsp;Swift on Sundays Tutorial, September 22nd 2019" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="78xmHtEOy0E" title="A Tour of SwiftUI" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="stSB04C4iS4" title="SwiftUI Tutorial: What's the difference between @State, @ObjectBinding, and @EnvironmentObject?" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="VGJBLlfSN-Y" title="SwiftUI Tutorial: Build a dynamic list app with navigation and images – SwiftUI Complete Apps #1" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="CK9OwMyJQDY" title="Basics quick start: SKShapeNode – Swifty Ninja, part 2" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="QD_mVOeOaGA" title="Scheduling notifications: UNUserNotificationCenter – Local Notifications, part 2" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="pSgWwyj1gX4" title="Building a Vapor API with a matching iOS app –&nbsp;Swift on Sundays March 10th 2019" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="Nj6qvHyNMug" title="Monitoring page loads: UIToolbar and UIProgressView –&nbsp;Easy Browser, part 4" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="TJfh8wXbfEw" title="Building a SpriteKit game with physics, particles, and shaders –&nbsp;Swift on Sundays February 24th 2019" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="xNFenmV0qjM" title="Building a word search generator with PDF rendering –&nbsp;Swift on Sundays February 17th 2019" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="CpvC7bojHTE" title="Building an iOS memory app – Swift on Sundays&nbsp;January 6th 2019" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="7QPlF2UNowM" title="iOS 12 in 45 minutes, plus&nbsp;new APIs in Swift" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="TSbzwqGzYC0" title="Building a mathematics game with unit testing –&nbsp;Swift on Sundays February 10th 2019" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="08JnjnY5Lo0" title="Hacking with Swift Project 1 – Storm Viewer" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="6Eo5AoPIg7k" title="Xcode in 20 Seconds: Named colors" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="ueByb0MBMQ4" title="Advanced Coordinators in iOS" />
+
 :::
 
 ---
@@ -227,24 +205,22 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [Sean Allen][yu-seanallen]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=RmaCJyvSyUE"><img width="140px" height="auto" alt="thumb-RmaCJyvSyUE" src="https://i.ytimg.com/vi/RmaCJyvSyUE/hqdefault.jpg"/></a> | [Will ChatGPT Destroy iOS Developer Jobs? A Demonstration](https://www.youtube.com/watch?v=RmaCJyvSyUE) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4utsyqhnS4g"><img width="140px" height="auto" alt="thumb-4utsyqhnS4g" src="https://i.ytimg.com/vi/4utsyqhnS4g/hqdefault.jpg"/></a> | [SwiftUI Bar Chart with Customizations \| Swift Charts](https://www.youtube.com/watch?v=4utsyqhnS4g) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=40imnmzsmxk"><img width="140px" height="auto" alt="thumb-40imnmzsmxk" src="https://i.ytimg.com/vi/40imnmzsmxk/hqdefault.jpg"/></a> | [31 Xcode Tips &amp; Tricks - 2023 \| Xcode 14](https://www.youtube.com/watch?v=40imnmzsmxk) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=e7OuerHs8PU"><img width="140px" height="auto" alt="thumb-e7OuerHs8PU" src="https://i.ytimg.com/vi/e7OuerHs8PU/hqdefault.jpg"/></a> | [SwiftUI Profile Animation \| Matched Geometry Effect](https://www.youtube.com/watch?v=e7OuerHs8PU) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5PJL4xxEXJE"><img width="140px" height="auto" alt="thumb-5PJL4xxEXJE" src="https://i.ytimg.com/vi/5PJL4xxEXJE/hqdefault.jpg"/></a> | [SwiftUI - Swipe Actions on List \| iOS 15 &amp; Xcode 13](https://www.youtube.com/watch?v=5PJL4xxEXJE) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MCLiPW2ns2w"><img width="140px" height="auto" alt="thumb-MCLiPW2ns2w" src="https://i.ytimg.com/vi/MCLiPW2ns2w/hqdefault.jpg"/></a> | [SwiftUI Tic Tac Toe \| Multiple AI Difficulties \| MVVM \| Portfolio Project](https://www.youtube.com/watch?v=MCLiPW2ns2w) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-o2BwAsvoH4"><img width="140px" height="auto" alt="thumb--o2BwAsvoH4" src="https://i.ytimg.com/vi/-o2BwAsvoH4/hqdefault.jpg"/></a> | [Xcode - Visual Debugger - A Tool For Debugging UI](https://www.youtube.com/watch?v=-o2BwAsvoH4) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RFGEzkBa834"><img width="140px" height="auto" alt="thumb-RFGEzkBa834" src="https://i.ytimg.com/vi/RFGEzkBa834/hqdefault.jpg"/></a> | [Swift Access Control Explained](https://www.youtube.com/watch?v=RFGEzkBa834) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DLvdZtTAJrE"><img width="140px" height="auto" alt="thumb-DLvdZtTAJrE" src="https://i.ytimg.com/vi/DLvdZtTAJrE/hqdefault.jpg"/></a> | [TestFlight - How to Upload and Distribute Your App \| App Store 2021](https://www.youtube.com/watch?v=DLvdZtTAJrE) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hu90G_M0vaA"><img width="140px" height="auto" alt="thumb-hu90G_M0vaA" src="https://i.ytimg.com/vi/hu90G_M0vaA/hqdefault.jpg"/></a> | [Xcode - Quickly Document Your Code \| Swift](https://www.youtube.com/watch?v=hu90G_M0vaA) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5gAD9amWkQw"><img width="140px" height="auto" alt="thumb-5gAD9amWkQw" src="https://i.ytimg.com/vi/5gAD9amWkQw/hqdefault.jpg"/></a> | [Xcode - How to Simulate a Poor Network Connection \| Device &amp; Simulator](https://www.youtube.com/watch?v=5gAD9amWkQw) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wKdVqo7wTA8"><img width="140px" height="auto" alt="thumb-wKdVqo7wTA8" src="https://i.ytimg.com/vi/wKdVqo7wTA8/hqdefault.jpg"/></a> | [iOS Developer Portfolios \| Review &amp; Showcase](https://www.youtube.com/watch?v=wKdVqo7wTA8) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8aPjqLqUEKA"><img width="140px" height="auto" alt="thumb-8aPjqLqUEKA" src="https://i.ytimg.com/vi/8aPjqLqUEKA/hqdefault.jpg"/></a> | [Swift - Result Type - Cleaner Network Calls](https://www.youtube.com/watch?v=8aPjqLqUEKA) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QdnzU9jx9yw"><img width="140px" height="auto" alt="thumb-QdnzU9jx9yw" src="https://i.ytimg.com/vi/QdnzU9jx9yw/hqdefault.jpg"/></a> | [Beginners - Learn SwiftUI or UIKit?](https://www.youtube.com/watch?v=QdnzU9jx9yw) <br/><br/> _[Sean Allen][yu-seanallen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2yIXXwfcbWk"><img width="140px" height="auto" alt="thumb-2yIXXwfcbWk" src="https://i.ytimg.com/vi/2yIXXwfcbWk/hqdefault.jpg"/></a> | [iOS Dev Origin Story - Paul Hudson - Hacking with Swift](https://www.youtube.com/watch?v=2yIXXwfcbWk) <br/><br/> _[Sean Allen][yu-seanallen]_ |
 
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="RmaCJyvSyUE" title="Will ChatGPT Destroy iOS Developer Jobs? A Demonstration" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="4utsyqhnS4g" title="SwiftUI Bar Chart with Customizations | Swift Charts" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="40imnmzsmxk" title="31 Xcode Tips &amp; Tricks - 2023 | Xcode 14" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="e7OuerHs8PU" title="SwiftUI Profile Animation | Matched Geometry Effect" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="5PJL4xxEXJE" title="SwiftUI - Swipe Actions on List | iOS 15 &amp; Xcode 13" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="MCLiPW2ns2w" title="SwiftUI Tic Tac Toe | Multiple AI Difficulties | MVVM | Portfolio Project" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="-o2BwAsvoH4" title="Xcode - Visual Debugger - A Tool For Debugging UI" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="RFGEzkBa834" title="Swift Access Control Explained" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="DLvdZtTAJrE" title="TestFlight - How to Upload and Distribute Your App | App Store 2021" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="hu90G_M0vaA" title="Xcode - Quickly Document Your Code | Swift" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="5gAD9amWkQw" title="Xcode - How to Simulate a Poor Network Connection | Device &amp; Simulator" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="wKdVqo7wTA8" title="iOS Developer Portfolios | Review &amp; Showcase" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="8aPjqLqUEKA" title="Swift - Result Type - Cleaner Network Calls" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="QdnzU9jx9yw" title="Beginners - Learn SwiftUI or UIKit?" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="2yIXXwfcbWk" title="iOS Dev Origin Story - Paul Hudson - Hacking with Swift" />
 
 :::
 
@@ -257,33 +233,32 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [Kilo Loco][yu-kilo-loco]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=8buuKon6ZdQ"><img width="140px" height="auto" alt="thumb-8buuKon6ZdQ" src="https://i.ytimg.com/vi/8buuKon6ZdQ/hqdefault.jpg"/></a> | [Navigation Basics for SwiftUI on macOS](https://www.youtube.com/watch?v=8buuKon6ZdQ) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=71yVIi7BxpI"><img width="140px" height="auto" alt="thumb-71yVIi7BxpI" src="https://i.ytimg.com/vi/71yVIi7BxpI/hqdefault.jpg"/></a> | [Let's Make a Goal Setting App](https://www.youtube.com/watch?v=71yVIi7BxpI) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nVQubqKrqoc"><img width="140px" height="auto" alt="thumb-nVQubqKrqoc" src="https://i.ytimg.com/vi/nVQubqKrqoc/hqdefault.jpg"/></a> | [Up and Running with the AWS Swift SDK](https://www.youtube.com/watch?v=nVQubqKrqoc) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OgYfQNbl0ts"><img width="140px" height="auto" alt="thumb-OgYfQNbl0ts" src="https://i.ytimg.com/vi/OgYfQNbl0ts/hqdefault.jpg"/></a> | [Jetpack Compose Navigation and Passing Data \| NavHost](https://www.youtube.com/watch?v=OgYfQNbl0ts) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BMBZBjfnqy8"><img width="140px" height="auto" alt="thumb-BMBZBjfnqy8" src="https://i.ytimg.com/vi/BMBZBjfnqy8/hqdefault.jpg"/></a> | [Flutter: Create New Post on Social Media App](https://www.youtube.com/watch?v=BMBZBjfnqy8) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PalhJKv67_g"><img width="140px" height="auto" alt="thumb-PalhJKv67_g" src="https://i.ytimg.com/vi/PalhJKv67_g/hqdefault.jpg"/></a> | [Building Clubhouse: Reviewing App Structure w/ Archetapp](https://www.youtube.com/watch?v=PalhJKv67_g) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ye7Ii5WuDgY"><img width="140px" height="auto" alt="thumb-ye7Ii5WuDgY" src="https://i.ytimg.com/vi/ye7Ii5WuDgY/hqdefault.jpg"/></a> | [Download Remote Images in SwiftUI: A Robust Approach](https://www.youtube.com/watch?v=ye7Ii5WuDgY) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uZF5DiMshFY"><img width="140px" height="auto" alt="thumb-uZF5DiMshFY" src="https://i.ytimg.com/vi/uZF5DiMshFY/hqdefault.jpg"/></a> | [Build the GitHub Widget from Scratch](https://www.youtube.com/watch?v=uZF5DiMshFY) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QTImF5RrkwQ"><img width="140px" height="auto" alt="thumb-QTImF5RrkwQ" src="https://i.ytimg.com/vi/QTImF5RrkwQ/hqdefault.jpg"/></a> | [Build a Shopping Cart with SwiftUI and Combine](https://www.youtube.com/watch?v=QTImF5RrkwQ) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BsRkkjjiHWc"><img width="140px" height="auto" alt="thumb-BsRkkjjiHWc" src="https://i.ytimg.com/vi/BsRkkjjiHWc/hqdefault.jpg"/></a> | [Build 3 Apps in an Hour Challenge \| SwiftUI + AWS](https://www.youtube.com/watch?v=BsRkkjjiHWc) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=P-Zow2yVx4o"><img width="140px" height="auto" alt="thumb-P-Zow2yVx4o" src="https://i.ytimg.com/vi/P-Zow2yVx4o/hqdefault.jpg"/></a> | [Getting Started With Unit Testing \| XCTest \| Swift](https://www.youtube.com/watch?v=P-Zow2yVx4o) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gDEGd174K_Q"><img width="140px" height="auto" alt="thumb-gDEGd174K_Q" src="https://i.ytimg.com/vi/gDEGd174K_Q/hqdefault.jpg"/></a> | [Android Crash Course for iOS Developers \| Kotlin](https://www.youtube.com/watch?v=gDEGd174K_Q) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9cye8VMlbYE"><img width="140px" height="auto" alt="thumb-9cye8VMlbYE" src="https://i.ytimg.com/vi/9cye8VMlbYE/hqdefault.jpg"/></a> | [iOS Course Challenge in One Sitting](https://www.youtube.com/watch?v=9cye8VMlbYE) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=A5lUjgOaCZw"><img width="140px" height="auto" alt="thumb-A5lUjgOaCZw" src="https://i.ytimg.com/vi/A5lUjgOaCZw/hqdefault.jpg"/></a> | [Realtime Chat App with AWS DynamoDB \| AWS Amplify](https://www.youtube.com/watch?v=A5lUjgOaCZw) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WTw2b53voTM"><img width="140px" height="auto" alt="thumb-WTw2b53voTM" src="https://i.ytimg.com/vi/WTw2b53voTM/hqdefault.jpg"/></a> | [SwiftUI 2.0 Infinite Scroll](https://www.youtube.com/watch?v=WTw2b53voTM) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=n1mV6m4xBF8"><img width="140px" height="auto" alt="thumb-n1mV6m4xBF8" src="https://i.ytimg.com/vi/n1mV6m4xBF8/hqdefault.jpg"/></a> | [AWS Amplify DataStore with SwiftUI 2.0 \| Todo App](https://www.youtube.com/watch?v=n1mV6m4xBF8) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JqdS-oi96Gk"><img width="140px" height="auto" alt="thumb-JqdS-oi96Gk" src="https://i.ytimg.com/vi/JqdS-oi96Gk/hqdefault.jpg"/></a> | [Create A Blog Website Using Swift and Publish \| Swift 5, Xcode 11](https://www.youtube.com/watch?v=JqdS-oi96Gk) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=o6hUFEXkf9w"><img width="140px" height="auto" alt="thumb-o6hUFEXkf9w" src="https://i.ytimg.com/vi/o6hUFEXkf9w/hqdefault.jpg"/></a> | [Diffable Data Source \| Swift 5, Xcode 11](https://www.youtube.com/watch?v=o6hUFEXkf9w) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iINefSdnT9c"><img width="140px" height="auto" alt="thumb-iINefSdnT9c" src="https://i.ytimg.com/vi/iINefSdnT9c/hqdefault.jpg"/></a> | [Building Entire App - Viper, ReactiveCocoa, &amp; FireStore](https://www.youtube.com/watch?v=iINefSdnT9c) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vuygdr0EcGM"><img width="140px" height="auto" alt="thumb-vuygdr0EcGM" src="https://i.ytimg.com/vi/vuygdr0EcGM/hqdefault.jpg"/></a> | [Sign In With Apple \[UIKit\] \| Swift 5, Xcode 11](https://www.youtube.com/watch?v=vuygdr0EcGM) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ch_vKP9vlgk"><img width="140px" height="auto" alt="thumb-ch_vKP9vlgk" src="https://i.ytimg.com/vi/ch_vKP9vlgk/hqdefault.jpg"/></a> | [Using Both UIKit And SwiftUI In Your Project \| Swift 5, Xcode 11](https://www.youtube.com/watch?v=ch_vKP9vlgk) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AWPiup9fE2c"><img width="140px" height="auto" alt="thumb-AWPiup9fE2c" src="https://i.ytimg.com/vi/AWPiup9fE2c/hqdefault.jpg"/></a> | [Intro To SwiftUI: Simple State Management \| Swift 5, Xcode 11](https://www.youtube.com/watch?v=AWPiup9fE2c) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XYRykbU97yA"><img width="140px" height="auto" alt="thumb-XYRykbU97yA" src="https://i.ytimg.com/vi/XYRykbU97yA/hqdefault.jpg"/></a> | [Login To Your Database \| Swift 5, Xcode 10](https://www.youtube.com/watch?v=XYRykbU97yA) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=E_7ce0hyHm4"><img width="140px" height="auto" alt="thumb-E_7ce0hyHm4" src="https://i.ytimg.com/vi/E_7ce0hyHm4/hqdefault.jpg"/></a> | [TableView Forms \| Cocoa &amp; Coffee](https://www.youtube.com/watch?v=E_7ce0hyHm4) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1Y1mZUTvWuo"><img width="140px" height="auto" alt="thumb-1Y1mZUTvWuo" src="https://i.ytimg.com/vi/1Y1mZUTvWuo/hqdefault.jpg"/></a> | [UIAlertController: Alerts and Action Sheets \| Swift 4, Xcode 9](https://www.youtube.com/watch?v=1Y1mZUTvWuo) <br/><br/> _[Kilo Loco][yu-kilo-loco]_ |
+
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="8buuKon6ZdQ" title="Navigation Basics for SwiftUI on macOS" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="71yVIi7BxpI" title="Let's Make a Goal Setting App" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="nVQubqKrqoc" title="Up and Running with the AWS Swift SDK" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="OgYfQNbl0ts" title="Jetpack Compose Navigation and Passing Data | NavHost" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="BMBZBjfnqy8" title="Flutter: Create New Post on Social Media App" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="PalhJKv67_g" title="Building Clubhouse: Reviewing App Structure w/ Archetapp" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="ye7Ii5WuDgY" title="Download Remote Images in SwiftUI: A Robust Approach" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="uZF5DiMshFY" title="Build the GitHub Widget from Scratch" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="QTImF5RrkwQ" title="Build a Shopping Cart with SwiftUI and Combine" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="BsRkkjjiHWc" title="Build 3 Apps in an Hour Challenge | SwiftUI + AWS" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="P-Zow2yVx4o" title="Getting Started With Unit Testing | XCTest | Swift" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="gDEGd174K_Q" title="Android Crash Course for iOS Developers | Kotlin" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="9cye8VMlbYE" title="iOS Course Challenge in One Sitting" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="A5lUjgOaCZw" title="Realtime Chat App with AWS DynamoDB | AWS Amplify" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="WTw2b53voTM" title="SwiftUI 2.0 Infinite Scroll" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="n1mV6m4xBF8" title="AWS Amplify DataStore with SwiftUI 2.0 | Todo App" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="JqdS-oi96Gk" title="Create A Blog Website Using Swift and Publish | Swift 5, Xcode 11" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="o6hUFEXkf9w" title="Diffable Data Source | Swift 5, Xcode 11" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="iINefSdnT9c" title="Building Entire App - Viper, ReactiveCocoa, &amp; FireStore" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="vuygdr0EcGM" title="Sign In With Apple [UIKit] | Swift 5, Xcode 11" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="ch_vKP9vlgk" title="Using Both UIKit And SwiftUI In Your Project | Swift 5, Xcode 11" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="AWPiup9fE2c" title="Intro To SwiftUI: Simple State Management | Swift 5, Xcode 11" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="XYRykbU97yA" title="Login To Your Database | Swift 5, Xcode 10" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="E_7ce0hyHm4" title="TableView Forms | Cocoa &amp; Coffee" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="1Y1mZUTvWuo" title="`UIAlertController`: Alerts and Action Sheets | Swift 4, Xcode 9" />
 
 :::
 
@@ -297,25 +272,24 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [CodeWithChris][yu-code-w-chris]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=r-wkDztkB0E"><img width="140px" height="auto" alt="thumb-r-wkDztkB0E" src="https://i.ytimg.com/vi/r-wkDztkB0E/hqdefault.jpg"/></a> | [Swift Functions - Lesson 6 \(2023 / Xcode 14 / SwiftUI\)](https://www.youtube.com/watch?v=r-wkDztkB0E) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PCvopT3Wnek"><img width="140px" height="auto" alt="thumb-PCvopT3Wnek" src="https://i.ytimg.com/vi/PCvopT3Wnek/hqdefault.jpg"/></a> | [How to Build a User Interface in Xcode - Lesson 3 \(2023 / Xcode 14 / SwiftUI\)](https://www.youtube.com/watch?v=PCvopT3Wnek) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4PI04Yj3Ngs"><img width="140px" height="auto" alt="thumb-4PI04Yj3Ngs" src="https://i.ytimg.com/vi/4PI04Yj3Ngs/hqdefault.jpg"/></a> | [How to Use Custom Fonts in SwiftUI](https://www.youtube.com/watch?v=4PI04Yj3Ngs) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lamIxNozxv4"><img width="140px" height="auto" alt="thumb-lamIxNozxv4" src="https://i.ytimg.com/vi/lamIxNozxv4/hqdefault.jpg"/></a> | [Intro to ARKit 01: Project Setup &amp; ARView](https://www.youtube.com/watch?v=lamIxNozxv4) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5g74qnbisrc"><img width="140px" height="auto" alt="thumb-5g74qnbisrc" src="https://i.ytimg.com/vi/5g74qnbisrc/hqdefault.jpg"/></a> | [Building the WatchKit Target - The Dad Jokes Series \(Part 4\)](https://www.youtube.com/watch?v=5g74qnbisrc) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CVHdqFM6hms"><img width="140px" height="auto" alt="thumb-CVHdqFM6hms" src="https://i.ytimg.com/vi/CVHdqFM6hms/hqdefault.jpg"/></a> | [Window Management - Exploring macOS App \(Part 3\)](https://www.youtube.com/watch?v=CVHdqFM6hms) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=A627xU_94kE"><img width="140px" height="auto" alt="thumb-A627xU_94kE" src="https://i.ytimg.com/vi/A627xU_94kE/hqdefault.jpg"/></a> | [Mocking a Network Request \(Unit Testing Part 3\)](https://www.youtube.com/watch?v=A627xU_94kE) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=moAzs13sRIU"><img width="140px" height="auto" alt="thumb-moAzs13sRIU" src="https://i.ytimg.com/vi/moAzs13sRIU/hqdefault.jpg"/></a> | [Animating the Spotify UI](https://www.youtube.com/watch?v=moAzs13sRIU) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F2ojC6TNwws"><img width="140px" height="auto" alt="thumb-F2ojC6TNwws" src="https://i.ytimg.com/vi/F2ojC6TNwws/hqdefault.jpg"/></a> | [2021 SwiftUI Tutorial for Beginners \(3.5 hour Masterclass\)](https://www.youtube.com/watch?v=F2ojC6TNwws) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=O7u9nYWjvKk"><img width="140px" height="auto" alt="thumb-O7u9nYWjvKk" src="https://i.ytimg.com/vi/O7u9nYWjvKk/hqdefault.jpg"/></a> | [iOS Core Data QuickStart Tutorial 2020](https://www.youtube.com/watch?v=O7u9nYWjvKk) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=09TeUXjzpKs"><img width="140px" height="auto" alt="thumb-09TeUXjzpKs" src="https://i.ytimg.com/vi/09TeUXjzpKs/hqdefault.jpg"/></a> | [iOS Tutorial \(2020\): How To Make Your First App](https://www.youtube.com/watch?v=09TeUXjzpKs) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vKCdVAg5h40"><img width="140px" height="auto" alt="thumb-vKCdVAg5h40" src="https://i.ytimg.com/vi/vKCdVAg5h40/hqdefault.jpg"/></a> | [Full Stack iOS Notes App - Setting up Database and Web Server \(Lesson 1\)](https://www.youtube.com/watch?v=vKCdVAg5h40) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gWurhFqTsPU"><img width="140px" height="auto" alt="thumb-gWurhFqTsPU" src="https://i.ytimg.com/vi/gWurhFqTsPU/hqdefault.jpg"/></a> | [Core Data Tutorial - Lesson 3: CRUD - Create, Retrieve, Update, and Delete](https://www.youtube.com/watch?v=gWurhFqTsPU) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YPLs3xrDcm0"><img width="140px" height="auto" alt="thumb-YPLs3xrDcm0" src="https://i.ytimg.com/vi/YPLs3xrDcm0/hqdefault.jpg"/></a> | [How to Submit Your App to the App Store \(2020\)](https://www.youtube.com/watch?v=YPLs3xrDcm0) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7lATmhBIRsM"><img width="140px" height="auto" alt="thumb-7lATmhBIRsM" src="https://i.ytimg.com/vi/7lATmhBIRsM/hqdefault.jpg"/></a> | [How to Set Up the UIStepper in One Minute](https://www.youtube.com/watch?v=7lATmhBIRsM) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IIDiqgdn2yo"><img width="140px" height="auto" alt="thumb-IIDiqgdn2yo" src="https://i.ytimg.com/vi/IIDiqgdn2yo/hqdefault.jpg"/></a> | [SwiftUI Basics for Beginners \(2020\)](https://www.youtube.com/watch?v=IIDiqgdn2yo) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GDJQkyA9n50"><img width="140px" height="auto" alt="thumb-GDJQkyA9n50" src="https://i.ytimg.com/vi/GDJQkyA9n50/hqdefault.jpg"/></a> | [Xcode Tips - How to Find The Detailed Error Message For Your App Crash](https://www.youtube.com/watch?v=GDJQkyA9n50) <br/><br/> _[CodeWithChris][yu-code-w-chris]_ |
+
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="r-wkDztkB0E" title="Swift Functions - Lesson 6 (2023 / Xcode 14 / SwiftUI)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="PCvopT3Wnek" title="How to Build a User Interface in Xcode - Lesson 3 (2023 / Xcode 14 / SwiftUI)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="4PI04Yj3Ngs" title="How to Use Custom Fonts in SwiftUI" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="lamIxNozxv4" title="Intro to ARKit 01: Project Setup &amp; ARView" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="5g74qnbisrc" title="Building the WatchKit Target - The Dad Jokes Series (Part 4)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="CVHdqFM6hms" title="Window Management - Exploring macOS App (Part 3)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="A627xU_94kE" title="Mocking a Network Request (Unit Testing Part 3)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="moAzs13sRIU" title="Animating the Spotify UI" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="F2ojC6TNwws" title="2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="O7u9nYWjvKk" title="iOS Core Data QuickStart Tutorial 2020" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="09TeUXjzpKs" title="iOS Tutorial (2020): How To Make Your First App" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="vKCdVAg5h40" title="Full Stack iOS Notes App - Setting up Database and Web Server (Lesson 1)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="gWurhFqTsPU" title="Core Data Tutorial - Lesson 3: CRUD - Create, Retrieve, Update, and Delete" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="YPLs3xrDcm0" title="How to Submit Your App to the App Store (2020)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="7lATmhBIRsM" title="How to Set Up the UIStepper in One Minute" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="IIDiqgdn2yo" title="SwiftUI Basics for Beginners (2020)" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="GDJQkyA9n50" title="Xcode Tips - How to Find The Detailed Error Message For Your App Crash" />
 
 :::
 
@@ -328,16 +302,15 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [Brian Advent][yu-brian-advent]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=-BZdQmHV4MQ"><img width="140px" height="auto" alt="thumb--BZdQmHV4MQ" src="https://i.ytimg.com/vi/-BZdQmHV4MQ/hqdefault.jpg"></a> | [iOS 13 Swift Tutorial: SwiftUI and Core Data - Build a To-Do List App](https://www.youtube.com/watch?v=-BZdQmHV4MQ) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RysM_XPNMTw"><img width="140px" height="auto" alt="thumb-RysM_XPNMTw" src="https://i.ytimg.com/vi/RysM_XPNMTw/hqdefault.jpg"></a> | [iOS 13 Swift Tutorial: Combine Framework - A Practical Introduction with UIKit](https://www.youtube.com/watch?v=RysM_XPNMTw) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Xetrbmnszjc"><img width="140px" height="auto" alt="thumb-Xetrbmnszjc" src="https://i.ytimg.com/vi/Xetrbmnszjc/hqdefault.jpg"></a> | [iOS 13 Swift Tutorial: Build a Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Pfw7zWxchQc"><img width="140px" height="auto" alt="thumb-Pfw7zWxchQc" src="https://i.ytimg.com/vi/Pfw7zWxchQc/hqdefault.jpg"></a> | [iOS 13 Swift Tutorial: Simple SwiftUI Application](https://www.youtube.com/watch?v=Pfw7zWxchQc) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=G_4YfwJHcKI"><img width="140px" height="auto" alt="thumb-G_4YfwJHcKI" src="https://i.ytimg.com/vi/G_4YfwJHcKI/hqdefault.jpg"></a> | [Swift Tutorial: Create a Simple Web App with Vapor and Swift](https://www.youtube.com/watch?v=G_4YfwJHcKI) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=B7y_8vMg5Hw"><img width="140px" height="auto" alt="thumb-B7y_8vMg5Hw" src="https://i.ytimg.com/vi/B7y_8vMg5Hw/hqdefault.jpg"></a> | [Swift Vapor Tutorial: Deploy Your Web App to an Ubuntu Server with NGINX and Supervisor](https://www.youtube.com/watch?v=B7y_8vMg5Hw) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qaLiZgUK2T0"><img width="140px" height="auto" alt="thumb-qaLiZgUK2T0" src="https://i.ytimg.com/vi/qaLiZgUK2T0/hqdefault.jpg"></a> | [iOS Swift Tutorial: Create a custom control - Blurry Sidebar](https://www.youtube.com/watch?v=qaLiZgUK2T0) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CXvOS6hYADc"><img width="140px" height="auto" alt="thumb-CXvOS6hYADc" src="https://i.ytimg.com/vi/CXvOS6hYADc/hqdefault.jpg"></a> | [iOS Swift Tutorial: Blurry Pop Up Animation with UIVisualEffects \(iOS Blur Effect\)](https://www.youtube.com/watch?v=CXvOS6hYADc) <br/><br/> _[Brian Advent][yu-brian-advent]_ |
+
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="-BZdQmHV4MQ" title="iOS 13 Swift Tutorial: SwiftUI and Core Data - Build a To-Do List App" />
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="RysM_XPNMTw" title="iOS 13 Swift Tutorial: Combine Framework - A Practical Introduction with UIKit" />
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="Xetrbmnszjc" title="iOS 13 Swift Tutorial: Build a Complex UI with SwiftUI from Start to Finish" />
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="Pfw7zWxchQc" title="iOS 13 Swift Tutorial: Simple SwiftUI Application" />
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="G_4YfwJHcKI" title="Swift Tutorial: Create a Simple Web App with Vapor and Swift" />
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="B7y_8vMg5Hw" title="Swift Vapor Tutorial: Deploy Your Web App to an Ubuntu Server with NGINX and Supervisor" />
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="qaLiZgUK2T0" title="iOS Swift Tutorial: Create a custom control - Blurry Sidebar" />
+<YoutubeItem channelName="Brian Advent" channelId="BrianAdvent" id="CXvOS6hYADc" title="iOS Swift Tutorial: Blurry Pop Up Animation with UIVisualEffects (iOS Blur Effect)" />
 
 :::
 
@@ -350,15 +323,14 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [Swift Tutorials][yu-swifttutorials4691]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=SuJ4cEOwqV8"><img width="140px" height="auto" alt="thumb-SuJ4cEOwqV8" src="https://i.ytimg.com/vi/SuJ4cEOwqV8/hqdefault.jpg"/></a> | [Swift Tutorial - Count number of line UILabel in iOS SDK using swift](https://www.youtube.com/watch?v=SuJ4cEOwqV8) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Tjg5X30XhMw"><img width="140px" height="auto" alt="thumb-Tjg5X30XhMw" src="https://i.ytimg.com/vi/Tjg5X30XhMw/hqdefault.jpg"/></a> | [Swift Tutorials: Integrate push notifications to iOS app using Firebase messaging \(Step via step\)](https://www.youtube.com/watch?v=Tjg5X30XhMw) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NJpwx9i042E"><img width="140px" height="auto" alt="thumb-NJpwx9i042E" src="https://i.ytimg.com/vi/NJpwx9i042E/hqdefault.jpg"></a> | [Swift Tutorials: How to fix warning deprecated UIWebView API usage in Xcode for iOS app](https://www.youtube.com/watch?v=NJpwx9i042E) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uEJzc81oCk4"><img width="140px" height="auto" alt="thumb-uEJzc81oCk4" src="https://i.ytimg.com/vi/uEJzc81oCk4/hqdefault.jpg"/></a> | [Swift Tutorials: Detect change in internet connection using Network framework](https://www.youtube.com/watch?v=uEJzc81oCk4) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3Dk0JNQQkO0"><img width="140px" height="auto" alt="thumb-3Dk0JNQQkO0" src="https://i.ytimg.com/vi/3Dk0JNQQkO0/hqdefault.jpg"></a> | [How to make UIButton circular in swift 4](https://www.youtube.com/watch?v=3Dk0JNQQkO0) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ps8bmxYdIVI"><img width="140px" height="auto" alt="thumb-Ps8bmxYdIVI" src="https://i.ytimg.com/vi/Ps8bmxYdIVI/hqdefault.jpg"></a> | [How to create drop down menu in ios using swift 4 + Xcode 9.2](https://www.youtube.com/watch?v=Ps8bmxYdIVI) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=S6q5d3RvVY8"><img width="140px" height="auto" alt="thumb-S6q5d3RvVY8" src="https://i.ytimg.com/vi/S6q5d3RvVY8/hqdefault.jpg"></a> | [Create CheckBox in swift 4 using Xcode 9 0 onwards](https://www.youtube.com/watch?v=S6q5d3RvVY8) <br/><br/> _[Swift Tutorials][yu-swifttutorials4691]_ |
+
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="SuJ4cEOwqV8" title="Swift Tutorial - Count number of line UILabel in iOS SDK using swift" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="Tjg5X30XhMw" title="Swift Tutorials: Integrate push notifications to iOS app using Firebase messaging \(Step via step\)" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="NJpwx9i042E" title="Swift Tutorials: How to fix warning deprecated UIWebView API usage in Xcode for iOS app" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="uEJzc81oCk4" title="Swift Tutorials: Detect change in internet connection using Network framework" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="3Dk0JNQQkO0" title="How to make UIButton circular in swift 4" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="Ps8bmxYdIVI" title="How to create drop down menu in ios using swift 4 + Xcode 9.2" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="S6q5d3RvVY8" title="Create CheckBox in swift 4 using Xcode 9 0 onwards" />
 
 :::
 
@@ -370,39 +342,38 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [Lets Build That App][yu-lets-build-that-app]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=dzvNdJGq_Ec"><img width="140px" height="auto" alt="thumb-dzvNdJGq_Ec" src="https://i.ytimg.com/vi/dzvNdJGq_Ec/hqdefault.jpg"/></a> | [SwiftUI Firebase Chat 09: Navigation Link to Chat Log View](https://www.youtube.com/watch?v=dzvNdJGq_Ec) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pPsKTTd55xI"><img width="140px" height="auto" alt="thumb-pPsKTTd55xI" src="https://i.ytimg.com/vi/pPsKTTd55xI/hqdefault.jpg"/></a> | [SwiftUI Firebase Chat 05 - Creating Template Messages View](https://www.youtube.com/watch?v=pPsKTTd55xI) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bxCDL3kY8XA"><img width="140px" height="auto" alt="thumb-bxCDL3kY8XA" src="https://i.ytimg.com/vi/bxCDL3kY8XA/hqdefault.jpg"/></a> | [iOS 15 Async Await JSON Fetching AsncImage Main Actors](https://www.youtube.com/watch?v=bxCDL3kY8XA) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9lVLFlyaiq4"><img width="140px" height="auto" alt="thumb-9lVLFlyaiq4" src="https://i.ytimg.com/vi/9lVLFlyaiq4/hqdefault.jpg"/></a> | [SwiftUI How to create Custom Tab View with Tab Bar](https://www.youtube.com/watch?v=9lVLFlyaiq4) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=euGLqwOEpZE"><img width="140px" height="auto" alt="thumb-euGLqwOEpZE" src="https://i.ytimg.com/vi/euGLqwOEpZE/hqdefault.jpg"/></a> | [SwiftUI Movies Carousel Parallax Zoom Animation](https://www.youtube.com/watch?v=euGLqwOEpZE) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=K0IO4QvFxnM"><img width="140px" height="auto" alt="thumb-K0IO4QvFxnM" src="https://i.ytimg.com/vi/K0IO4QvFxnM/hqdefault.jpg"/></a> | [Mastering Generics: Is This The Most Advanced Swift Code You've Seen?](https://www.youtube.com/watch?v=K0IO4QvFxnM) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=n06RE9A_8Ks"><img width="140px" height="auto" alt="thumb-n06RE9A_8Ks" src="https://i.ytimg.com/vi/n06RE9A_8Ks/hqdefault.jpg"/></a> | [Swift: How to Migrate MVC to MVVM &amp; Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=eu-YaVvsbjQ"><img width="140px" height="auto" alt="thumb-eu-YaVvsbjQ" src="https://i.ytimg.com/vi/eu-YaVvsbjQ/hqdefault.jpg"/></a> | [SwiftUI Grids Columns with JSON ObservableObject and Async Image Loading](https://www.youtube.com/watch?v=eu-YaVvsbjQ) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6rJN_ECd1XM"><img width="140px" height="auto" alt="thumb-6rJN_ECd1XM" src="https://i.ytimg.com/vi/6rJN_ECd1XM/hqdefault.jpg"/></a> | [When to Semaphore vs Dispatch Group! Careful Multithreaded Shared Resource](https://www.youtube.com/watch?v=6rJN_ECd1XM) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=q0-DIJszYRo"><img width="140px" height="auto" alt="thumb-q0-DIJszYRo" src="https://i.ytimg.com/vi/q0-DIJszYRo/hqdefault.jpg"/></a> | [Weak and Unowned Self Closure Memory Leak Fixes](https://www.youtube.com/watch?v=q0-DIJszYRo) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ULEFrRSPXFE"><img width="140px" height="auto" alt="thumb-ULEFrRSPXFE" src="https://i.ytimg.com/vi/ULEFrRSPXFE/hqdefault.jpg"/></a> | [SwiftUI Calculator - Master Stacking \(Ep 1\)](https://www.youtube.com/watch?v=ULEFrRSPXFE) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=514A7yzznJE"><img width="140px" height="auto" alt="thumb-514A7yzznJE" src="https://i.ytimg.com/vi/514A7yzznJE/hqdefault.jpg"/></a> | [SwiftUI Fullscreen Modal Hack withAnimation](https://www.youtube.com/watch?v=514A7yzznJE) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wVeX68Iu43E"><img width="140px" height="auto" alt="thumb-wVeX68Iu43E" src="https://i.ytimg.com/vi/wVeX68Iu43E/hqdefault.jpg"/></a> | [Create a Search bar to Search from TableView Xcode 9.0 \(Swift 4.0\)](https://www.youtube.com/watch?v=wVeX68Iu43E) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1sn-io2OCtw"><img width="140px" height="auto" alt="thumb-1sn-io2OCtw" src="https://i.ytimg.com/vi/1sn-io2OCtw/hqdefault.jpg"/></a> | [UIKit Facebook: Preview Oriented Development with LBTATools \(Ep 1\)](https://www.youtube.com/watch?v=1sn-io2OCtw) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZxHndSGmWcE"><img width="140px" height="auto" alt="thumb-ZxHndSGmWcE" src="https://i.ytimg.com/vi/ZxHndSGmWcE/hqdefault.jpg"/></a> | [Xcode 11 Swift Package Manager: Installing Dependencies](https://www.youtube.com/watch?v=ZxHndSGmWcE) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1IlUBHvgY8Q"><img width="140px" height="auto" alt="thumb-1IlUBHvgY8Q" src="https://i.ytimg.com/vi/1IlUBHvgY8Q/hqdefault.jpg"/></a> | [SwiftUI MVVM Programming with ObservableObject `@Published` `@ObservedObject`](https://www.youtube.com/watch?v=1IlUBHvgY8Q) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5lSJzzI2fj8"><img width="140px" height="auto" alt="thumb-5lSJzzI2fj8" src="https://i.ytimg.com/vi/5lSJzzI2fj8/hqdefault.jpg"/></a> | [SwiftUI: Animated Bar Charts and Picker Segmented Style Binding](https://www.youtube.com/watch?v=5lSJzzI2fj8) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vVfremnOKXs"><img width="140px" height="auto" alt="thumb-vVfremnOKXs" src="https://i.ytimg.com/vi/vVfremnOKXs/hqdefault.jpg"/></a> | [Fullstack MyJournal - Home Posts CRUD in HTML EJS \(Ep 3\)](https://www.youtube.com/watch?v=vVfremnOKXs) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ihJGxFu2u9Q"><img width="140px" height="auto" alt="thumb-ihJGxFu2u9Q" src="https://i.ytimg.com/vi/ihJGxFu2u9Q/hqdefault.jpg"/></a> | [Kotlin Firebase Messenger 01: Brand New Series - Creating Register and Login UI](https://www.youtube.com/watch?v=ihJGxFu2u9Q) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yKWC3ov-ksg"><img width="140px" height="auto" alt="thumb-yKWC3ov-ksg" src="https://i.ytimg.com/vi/yKWC3ov-ksg/hqdefault.jpg"/></a> | [Swift 4.2 - Auto Layouts &amp; Constraints - Ticket Booking screen \(Xcode 10.1\)](https://www.youtube.com/watch?v=yKWC3ov-ksg) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DDuAt14e418"><img width="140px" height="auto" alt="thumb-DDuAt14e418" src="https://i.ytimg.com/vi/DDuAt14e418/hqdefault.jpg"/></a> | [Speeding Up UIKit Development with SwiftUI UIKit Integration UIViewControllerRepresentable](https://www.youtube.com/watch?v=DDuAt14e418) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=l7vkP6WW6Yk"><img width="140px" height="auto" alt="thumb-l7vkP6WW6Yk" src="https://i.ytimg.com/vi/l7vkP6WW6Yk/hqdefault.jpg"/></a> | [SwiftUI Reactive Intro: State Management and Bindings](https://www.youtube.com/watch?v=l7vkP6WW6Yk) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7QgPpvqTfeo"><img width="140px" height="auto" alt="thumb-7QgPpvqTfeo" src="https://i.ytimg.com/vi/7QgPpvqTfeo/hqdefault.jpg"/></a> | [SwiftUI: Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bz6GTYaIQXU"><img width="140px" height="auto" alt="thumb-bz6GTYaIQXU" src="https://i.ytimg.com/vi/bz6GTYaIQXU/hqdefault.jpg"/></a> | [SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VSvz62fGyYM"><img width="140px" height="auto" alt="thumb-VSvz62fGyYM" src="https://i.ytimg.com/vi/VSvz62fGyYM/hqdefault.jpg"/></a> | [How to Run SwiftUI on Mojave with Playgrounds and Sample Code](https://www.youtube.com/watch?v=VSvz62fGyYM) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=q421Ll4qOvc"><img width="140px" height="auto" alt="thumb-q421Ll4qOvc" src="https://i.ytimg.com/vi/q421Ll4qOvc/hqdefault.jpg"/></a> | [SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=B92vSN5K4Rc"><img width="140px" height="auto" alt="thumb-B92vSN5K4Rc" src="https://i.ytimg.com/vi/B92vSN5K4Rc/hqdefault.jpg"/></a> | [Swift Grouped Messages: Easy Auto Sizing Cells \(Ep 1\)](https://www.youtube.com/watch?v=B92vSN5K4Rc) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=P5opi9tIuro"><img width="140px" height="auto" alt="thumb-P5opi9tIuro" src="https://i.ytimg.com/vi/P5opi9tIuro/hqdefault.jpg"/></a> | [Swift Grouped Messages: UITableView Section Date Headers \(Ep 3\)](https://www.youtube.com/watch?v=P5opi9tIuro) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=SuRiwVF5bzs"><img width="140px" height="auto" alt="thumb-SuRiwVF5bzs" src="https://i.ytimg.com/vi/SuRiwVF5bzs/hqdefault.jpg"/></a> | [Kotlin Messenger 04: Super Fast Groupie RecyclerView and New Messages](https://www.youtube.com/watch?v=SuRiwVF5bzs) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=86dkYGeXMaU"><img width="140px" height="auto" alt="thumb-86dkYGeXMaU" src="https://i.ytimg.com/vi/86dkYGeXMaU/hqdefault.jpg"/></a> | [Kotlin Messenger 03: Upload to Firebase Storage and Save User to Database + CircleImageView](https://www.youtube.com/watch?v=86dkYGeXMaU) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RYyri2W3Tho"><img width="140px" height="auto" alt="thumb-RYyri2W3Tho" src="https://i.ytimg.com/vi/RYyri2W3Tho/hqdefault.jpg"/></a> | [Kotlin Messenger 02: Installing Firebase Auth and Register User + Rounded Corners UI](https://www.youtube.com/watch?v=RYyri2W3Tho) <br/><br/> _[Lets Build That App][yu-lets-build-that-app]_ |
+
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="dzvNdJGq_Ec" title="SwiftUI Firebase Chat 09: Navigation Link to Chat Log View" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="pPsKTTd55xI" title="SwiftUI Firebase Chat 05 - Creating Template Messages View" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="bxCDL3kY8XA" title="iOS 15 Async Await JSON Fetching AsncImage Main Actors" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="9lVLFlyaiq4" title="SwiftUI How to create Custom Tab View with Tab Bar" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="euGLqwOEpZE" title="SwiftUI Movies Carousel Parallax Zoom Animation" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="K0IO4QvFxnM" title="Mastering Generics: Is This The Most Advanced Swift Code You've Seen?" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="n06RE9A_8Ks" title="Swift: How to Migrate MVC to MVVM &amp; Intro Unit Testing" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="eu-YaVvsbjQ" title="SwiftUI Grids Columns with JSON ObservableObject and Async Image Loading" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="6rJN_ECd1XM" title="When to Semaphore vs Dispatch Group! Careful Multithreaded Shared Resource" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="q0-DIJszYRo" title="Weak and Unowned Self Closure Memory Leak Fixes" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="ULEFrRSPXFE" title="SwiftUI Calculator - Master Stacking (Ep 1)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="514A7yzznJE" title="SwiftUI Fullscreen Modal Hack withAnimation" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="wVeX68Iu43E" title="Create a Search bar to Search from TableView Xcode 9.0 (Swift 4.0)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="1sn-io2OCtw" title="UIKit Facebook: Preview Oriented Development with LBTATools (Ep 1)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="ZxHndSGmWcE" title="Xcode 11 Swift Package Manager: Installing Dependencies" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="1IlUBHvgY8Q" title="SwiftUI MVVM Programming with ObservableObject `@Published` `@ObservedObject`" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="5lSJzzI2fj8" title="SwiftUI: Animated Bar Charts and Picker Segmented Style Binding" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="vVfremnOKXs" title="Fullstack MyJournal - Home Posts CRUD in HTML EJS (Ep 3)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="ihJGxFu2u9Q" title="Kotlin Firebase Messenger 01: Brand New Series - Creating Register and Login UI" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="yKWC3ov-ksg" title="Swift 4.2 - Auto Layouts &amp; Constraints - Ticket Booking screen (Xcode 10.1)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="DDuAt14e418" title="Speeding Up UIKit Development with SwiftUI UIKit Integration UIViewControllerRepresentable" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="l7vkP6WW6Yk" title="SwiftUI Reactive Intro: State Management and Bindings" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="7QgPpvqTfeo" title="SwiftUI: Facebook Complex Layouts - Horizontal Scroll View" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="bz6GTYaIQXU" title="SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="VSvz62fGyYM" title="How to Run SwiftUI on Mojave with Playgrounds and Sample Code" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="q421Ll4qOvc" title="SwiftUI Sneak Preview Demo Project" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="B92vSN5K4Rc" title="Swift Grouped Messages: Easy Auto Sizing Cells (Ep 1)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="P5opi9tIuro" title="Swift Grouped Messages: UITableView Section Date Headers (Ep 3)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="SuRiwVF5bzs" title="Kotlin Messenger 04: Super Fast Groupie RecyclerView and New Messages" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="86dkYGeXMaU" title="Kotlin Messenger 03: Upload to Firebase Storage and Save User to Database + CircleImageView" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="RYyri2W3Tho" title="Kotlin Messenger 02: Installing Firebase Auth and Register User + Rounded Corners UI" />
 
 :::
 
@@ -415,12 +386,29 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [Paul Colton][yu-paul-colton]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=6ZIZ5jGovEY"><img width="140px" height="auto" alt="thumb-6ZIZ5jGovEY" src="https://i.ytimg.com/vi/6ZIZ5jGovEY/hqdefault.jpg"/></a> | [Simple SwiftUI MVVM and Combine](https://www.youtube.com/watch?v=6ZIZ5jGovEY) <br/><br/> _[Paul Colton][yu-paul-colton]_ |
+
+<YoutubeItem channelName="Paul Colton" channelId="PaulColton" id="6ZIZ5jGovEY" title="Simple SwiftUI MVVM and Combine" />
 
 :::
 
+<!-- Paul Colton -->
+
+---
+
+## Async Swift Korea
+
+[Async Swift Korea][yu-asyncswiftkorea8910]
+
+::: details 목록
+
+<YoutubeItem channelName="Async Swift Korea" channelId="asyncswiftkorea8910" id="oZz0Fsgg6XY" title="[SyncSwift 2022] 히그머니나! 알면 알수록 놀라운 HIG의 세계" />
+<YoutubeItem channelName="Async Swift Korea" channelId="asyncswiftkorea8910" id="7rvwGLhor-I" title="[SyncSwift 2022] Tuist... 한 번 써봤는데요?" />
+<YoutubeItem channelName="Async Swift Korea" channelId="asyncswiftkorea8910" id="K7mH_o1PBS0" title="[SyncSwift 2022] 나만 몰랐던, Xcode Breakpoint 야무지게 쓰는 법" />
+<YoutubeItem channelName="Async Swift Korea" channelId="asyncswiftkorea8910" id="3sfrqRaLuWk" title="[SyncSwift 2022] 프로토콜과 `some`, `any`에 대한 고찰" />
+<YoutubeItem channelName="Async Swift Korea" channelId="asyncswiftkorea8910" id="LYMOKMfMl0w" title="[SyncSwift 2022] Widget에서 활용하면 빛이나는 CoreData (feat. Lockscreen)" />
+<YoutubeItem channelName="Async Swift Korea" channelId="asyncswiftkorea8910" id="rq8KB21d7jQ" title="[SyncSwift 2022] MVI패턴과 어울리는 SwiftUI 화면 이동 라이브러리 만들기" />
+
+:::
 
 <TagLinks/>
 
@@ -434,3 +422,4 @@ SwiftUI Page Curl Swipe Animation - Swipe to Delete - Peel Effect - Xcode 14
 [yu-brian-advent]: https://www.youtube.com/@BrianAdvent
 [yu-lets-build-that-app]: https://www.youtube.com/@LetsBuildThatApp
 [yu-paul-colton]: https://www.youtube.com/@PaulColton
+[yu-asyncswiftkorea8910]: https://www.youtube.com/@asyncswiftkorea8910

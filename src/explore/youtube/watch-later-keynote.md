@@ -18,10 +18,9 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [우아한테크][yu-woowatech]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=z0EaPjF3pCQ"><img width="140px" height="auto" alt="thumb-z0EaPjF3pCQ" src="https://i.ytimg.com/vi/z0EaPjF3pCQ/hqdefault.jpg"/></a> | [\[2월 우아한테크세미나\] 우아한 스프링 부트](https://www.youtube.com/watch?v=z0EaPjF3pCQ) <br/><br/> _[우아한테크][yu-woowatech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bIeqAlmNRrA"><img width="140px" height="auto" alt="thumb-bIeqAlmNRrA" src="https://i.ytimg.com/vi/bIeqAlmNRrA/hqdefault.jpg"/></a> | [\[우아한테크세미나\] 190425 TDD 리팩토링 by 자바지기 박재성님](https://www.youtube.com/watch?v=bIeqAlmNRrA) <br/><br/> _[우아한테크][yu-woowatech]_ |
+
+<YoutubeItem channelName="우아한테크" channelId="woowatech" id="z0EaPjF3pCQ" title="[2월 우아한테크세미나] 우아한 스프링 부트" />
+<YoutubeItem channelName="우아한테크" channelId="woowatech" id="bIeqAlmNRrA" title="[우아한테크세미나] 190425 TDD 리팩토링 by 자바지기 박재성님" />
 
 :::
 
@@ -34,21 +33,20 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [NHN Cloud][yu-nhn-cloud]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=uk5fRLUsBfk"><img width="140px" height="auto" alt="thumb-uk5fRLUsBfk" src="https://i.ytimg.com/vi/uk5fRLUsBfk/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 분산 시스템에서 데이터를 전달하는 효율적인 방법](https://www.youtube.com/watch?v=uk5fRLUsBfk) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hwJet__03AA"><img width="140px" height="auto" alt="thumb-hwJet__03AA" src="https://i.ytimg.com/vi/hwJet__03AA/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 실전 Vault 도입기](https://www.youtube.com/watch?v=hwJet__03AA) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PxQK9LsCrWA"><img width="140px" height="auto" alt="thumb-PxQK9LsCrWA" src="https://i.ytimg.com/vi/PxQK9LsCrWA/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 괴물 같이 변한 Dooray! 웹앱 정리하기](https://www.youtube.com/watch?v=PxQK9LsCrWA) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=28Tz7gos5DQ"><img width="140px" height="auto" alt="thumb-28Tz7gos5DQ" src="https://i.ytimg.com/vi/28Tz7gos5DQ/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] API 우선 접근 방식과 OpenAPI Specification](https://www.youtube.com/watch?v=28Tz7gos5DQ) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JBGsqsoGxEo"><img width="140px" height="auto" alt="thumb-JBGsqsoGxEo" src="https://i.ytimg.com/vi/JBGsqsoGxEo/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] K8s 도입하면서 겪은 일들](https://www.youtube.com/watch?v=JBGsqsoGxEo) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=otss__0kf-g"><img width="140px" height="auto" alt="thumb-otss__0kf-g" src="https://i.ytimg.com/vi/otss__0kf-g/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] Spring Cloud 기반 MSA 환경을 쿠버네티스로 전환하기](https://www.youtube.com/watch?v=otss__0kf-g) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EZmUxMtx5Fc"><img width="140px" height="auto" alt="thumb-EZmUxMtx5Fc" src="https://i.ytimg.com/vi/EZmUxMtx5Fc/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] OpenTelemetry를 활용한 모니터링](https://www.youtube.com/watch?v=EZmUxMtx5Fc) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iDsIccISD8o"><img width="140px" height="auto" alt="thumb-iDsIccISD8o" src="https://i.ytimg.com/vi/iDsIccISD8o/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 델타 인코딩 적용을 통한 Dooray! 드라이브 업로드 다운로드 성능 향상기](https://www.youtube.com/watch?v=iDsIccISD8o) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kZnWWq_HzdM"><img width="140px" height="auto" alt="thumb-kZnWWq_HzdM" src="https://i.ytimg.com/vi/kZnWWq_HzdM/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 빠른 정보 제공을 위한 통계 시스템 개선기](https://www.youtube.com/watch?v=kZnWWq_HzdM) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VREoOWBOUW8"><img width="140px" height="auto" alt="thumb-VREoOWBOUW8" src="https://i.ytimg.com/vi/VREoOWBOUW8/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 밑바닥부터 만들어 보는 UI 프레임워크](https://www.youtube.com/watch?v=VREoOWBOUW8) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8sKTvf1c2zQ"><img width="140px" height="auto" alt="thumb-8sKTvf1c2zQ" src="https://i.ytimg.com/vi/8sKTvf1c2zQ/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] Jenkins에서 Jenkins로의 여정](https://www.youtube.com/watch?v=8sKTvf1c2zQ) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=dFPGO5jDHPY"><img width="140px" height="auto" alt="thumb-dFPGO5jDHPY" src="https://i.ytimg.com/vi/dFPGO5jDHPY/hqdefault.jpg"/></a> | [\[NHN FORWARD 22\] 오픈소스 KeyCloak을 활용한 인증 서버 구축기](https://www.youtube.com/watch?v=dFPGO5jDHPY) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LHs2A1dN4mw"><img width="140px" height="auto" alt="thumb-LHs2A1dN4mw" src="https://i.ytimg.com/vi/LHs2A1dN4mw/hqdefault.jpg"/></a> | [👩‍💻 개발자를 위한 데이터베이스 관리 방법, NHN Cloud On 웨비나에서 만나보세요!](https://www.youtube.com/watch?v=LHs2A1dN4mw) <br/><br/> _[NHN Cloud][yu-nhn-cloud]_ |
+
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="uk5fRLUsBfk" title="[NHN FORWARD 22] 분산 시스템에서 데이터를 전달하는 효율적인 방법" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="hwJet__03AA" title="[NHN FORWARD 22] 실전 Vault 도입기" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="PxQK9LsCrWA" title="[NHN FORWARD 22] 괴물 같이 변한 Dooray! 웹앱 정리하기" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="28Tz7gos5DQ" title="[NHN FORWARD 22] API 우선 접근 방식과 OpenAPI Specification" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="JBGsqsoGxEo" title="[NHN FORWARD 22] K8s 도입하면서 겪은 일들" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="otss__0kf-g" title="[NHN FORWARD 22] Spring Cloud 기반 MSA 환경을 쿠버네티스로 전환하기" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="EZmUxMtx5Fc" title="[NHN FORWARD 22] OpenTelemetry를 활용한 모니터링" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="iDsIccISD8o" title="[NHN FORWARD 22] 델타 인코딩 적용을 통한 Dooray! 드라이브 업로드 다운로드 성능 향상기" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="kZnWWq_HzdM" title="[NHN FORWARD 22] 빠른 정보 제공을 위한 통계 시스템 개선기" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="VREoOWBOUW8" title="[NHN FORWARD 22] 밑바닥부터 만들어 보는 UI 프레임워크" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="8sKTvf1c2zQ" title="[NHN FORWARD 22] Jenkins에서 Jenkins로의 여정" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="dFPGO5jDHPY" title="[NHN FORWARD 22] 오픈소스 KeyCloak을 활용한 인증 서버 구축기" />
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="LHs2A1dN4mw" title="👩‍💻 개발자를 위한 데이터베이스 관리 방법, NHN Cloud On 웨비나에서 만나보세요!" />
 
 :::
 
@@ -59,65 +57,64 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [Coding Tech][yu-coding-tech]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=B0MfK-rBK90"><img width="140px" height="auto" alt="thumb-B0MfK-rBK90" src="https://i.ytimg.com/vi/B0MfK-rBK90/hqdefault.jpg"/></a> | [Lyra: Disrupting full Text Search industry with JavaScript](https://www.youtube.com/watch?v=B0MfK-rBK90) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1Nc_-8gk_mk"><img width="140px" height="auto" alt="thumb-1Nc_-8gk_mk" src="https://i.ytimg.com/vi/1Nc_-8gk_mk/hqdefault.jpg"/></a> | [Hilla: The Modern Web Framework for Java](https://www.youtube.com/watch?v=1Nc_-8gk_mk) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pLKE2DvPxDo"><img width="140px" height="auto" alt="thumb-pLKE2DvPxDo" src="https://i.ytimg.com/vi/pLKE2DvPxDo/hqdefault.jpg"/></a> | [How to add 3D Models to Website using React Three Fiber](https://www.youtube.com/watch?v=pLKE2DvPxDo) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YlO1Ul7cPlU"><img width="140px" height="auto" alt="thumb-YlO1Ul7cPlU" src="https://i.ytimg.com/vi/YlO1Ul7cPlU/hqdefault.jpg"/></a> | [Node on Mobile](https://www.youtube.com/watch?v=YlO1Ul7cPlU) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ieXrNJXIi-o"><img width="140px" height="auto" alt="thumb-ieXrNJXIi-o" src="https://i.ytimg.com/vi/ieXrNJXIi-o/hqdefault.jpg"/></a> | [Building Cloud-native Apps with Rust: the Good, the Bad and the Ugly](https://www.youtube.com/watch?v=ieXrNJXIi-o) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QwaoOYkoqB0"><img width="140px" height="auto" alt="thumb-QwaoOYkoqB0" src="https://i.ytimg.com/vi/QwaoOYkoqB0/hqdefault.jpg"/></a> | [Functional Parsing in C++20](https://www.youtube.com/watch?v=QwaoOYkoqB0) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2dMJBGWODYY"><img width="140px" height="auto" alt="thumb-2dMJBGWODYY" src="https://i.ytimg.com/vi/2dMJBGWODYY/hqdefault.jpg"/></a> | [Cryptography in Swift](https://www.youtube.com/watch?v=2dMJBGWODYY) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Lym-bvv_2sI"><img width="140px" height="auto" alt="thumb-Lym-bvv_2sI" src="https://i.ytimg.com/vi/Lym-bvv_2sI/hqdefault.jpg"/></a> | [Build a Full Stack PWA App With Spring Boot \(Step By Step Tutorial\)](https://www.youtube.com/watch?v=Lym-bvv_2sI) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FeoxFeJbHK0"><img width="140px" height="auto" alt="thumb-FeoxFeJbHK0" src="https://i.ytimg.com/vi/FeoxFeJbHK0/hqdefault.jpg"/></a> | [WebAssembly Tutorial \(WebAssembly vs JavaScript\)](https://www.youtube.com/watch?v=FeoxFeJbHK0) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pGhWPDlF2sM"><img width="140px" height="auto" alt="thumb-pGhWPDlF2sM" src="https://i.ytimg.com/vi/pGhWPDlF2sM/hqdefault.jpg"/></a> | [A Fast Introduction to Fastify \(NodeJS Web Framework\)](https://www.youtube.com/watch?v=pGhWPDlF2sM) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rSiE2Bfj6T8"><img width="140px" height="auto" alt="thumb-rSiE2Bfj6T8" src="https://i.ytimg.com/vi/rSiE2Bfj6T8/hqdefault.jpg"/></a> | [Intro to React Hooks](https://www.youtube.com/watch?v=rSiE2Bfj6T8) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yhaBEBi2EK0"><img width="140px" height="auto" alt="thumb-yhaBEBi2EK0" src="https://i.ytimg.com/vi/yhaBEBi2EK0/hqdefault.jpg"/></a> | [VueJS Intermediate Workshop \(Learn VueJS Best Practices\)](https://www.youtube.com/watch?v=yhaBEBi2EK0) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YSEY9CbWpHU"><img width="140px" height="auto" alt="thumb-YSEY9CbWpHU" src="https://i.ytimg.com/vi/YSEY9CbWpHU/hqdefault.jpg"/></a> | [Build an Event Calendar App Using NodeJS, VueJS, and SQL Server \(Step by Step Tutorial\)](https://www.youtube.com/watch?v=YSEY9CbWpHU) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ynb78dyjz8o"><img width="140px" height="auto" alt="thumb-Ynb78dyjz8o" src="https://i.ytimg.com/vi/Ynb78dyjz8o/hqdefault.jpg"/></a> | [WebAssembly -- AssemblyScript](https://www.youtube.com/watch?v=Ynb78dyjz8o) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4fqzPW24cLM"><img width="140px" height="auto" alt="thumb-4fqzPW24cLM" src="https://i.ytimg.com/vi/4fqzPW24cLM/hqdefault.jpg"/></a> | [Full-Stack Serverless with TypeScript](https://www.youtube.com/watch?v=4fqzPW24cLM) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wwH48lshcoY"><img width="140px" height="auto" alt="thumb-wwH48lshcoY" src="https://i.ytimg.com/vi/wwH48lshcoY/hqdefault.jpg"/></a> | [Love Your Cache: Optimize for the Second Load](https://www.youtube.com/watch?v=wwH48lshcoY) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0dgmeTy7X3I"><img width="140px" height="auto" alt="thumb-0dgmeTy7X3I" src="https://i.ytimg.com/vi/0dgmeTy7X3I/hqdefault.jpg"/></a> | [Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hr65_ucoCCY"><img width="140px" height="auto" alt="thumb-hr65_ucoCCY" src="https://i.ytimg.com/vi/hr65_ucoCCY/hqdefault.jpg"/></a> | [Web Audio API: Making A Mosquito](https://www.youtube.com/watch?v=hr65_ucoCCY) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ubDPNITd_NY"><img width="140px" height="auto" alt="thumb-ubDPNITd_NY" src="https://i.ytimg.com/vi/ubDPNITd_NY/hqdefault.jpg"/></a> | [A Dev's Guide to CSS Grid](https://www.youtube.com/watch?v=ubDPNITd_NY) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZUd3DYPyHR4"><img width="140px" height="auto" alt="thumb-ZUd3DYPyHR4" src="https://i.ytimg.com/vi/ZUd3DYPyHR4/hqdefault.jpg"/></a> | [Modern CSS Tips and Tricks](https://www.youtube.com/watch?v=ZUd3DYPyHR4) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HFDqjpfoSZE"><img width="140px" height="auto" alt="thumb-HFDqjpfoSZE" src="https://i.ytimg.com/vi/HFDqjpfoSZE/hqdefault.jpg"/></a> | [Intro to Kotlin Multiplatform](https://www.youtube.com/watch?v=HFDqjpfoSZE) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Pyd9Wc5Gnd0"><img width="140px" height="auto" alt="thumb-Pyd9Wc5Gnd0" src="https://i.ytimg.com/vi/Pyd9Wc5Gnd0/hqdefault.jpg"/></a> | [Spring Boot with Docker and Kubernetes](https://www.youtube.com/watch?v=Pyd9Wc5Gnd0) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=e3cF-dvNaiM"><img width="140px" height="auto" alt="thumb-e3cF-dvNaiM" src="https://i.ytimg.com/vi/e3cF-dvNaiM/hqdefault.jpg"/></a> | [Introduction to gRPC](https://www.youtube.com/watch?v=e3cF-dvNaiM) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oneGCBiPK_Q"><img width="140px" height="auto" alt="thumb-oneGCBiPK_Q" src="https://i.ytimg.com/vi/oneGCBiPK_Q/hqdefault.jpg"/></a> | [Understanding TDD with Modern JavaScript](https://www.youtube.com/watch?v=oneGCBiPK_Q) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Z1mZ9wSi4Bo"><img width="140px" height="auto" alt="thumb-Z1mZ9wSi4Bo" src="https://i.ytimg.com/vi/Z1mZ9wSi4Bo/hqdefault.jpg"/></a> | [How Do JavaScript Frameworks Impact the Security of Applications?](https://www.youtube.com/watch?v=Z1mZ9wSi4Bo) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PLiar_Aj9gs"><img width="140px" height="auto" alt="thumb-PLiar_Aj9gs" src="https://i.ytimg.com/vi/PLiar_Aj9gs/hqdefault.jpg"/></a> | [Debugging NodeJS in Production with Diagnostic Reports](https://www.youtube.com/watch?v=PLiar_Aj9gs) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_oIDt3dRgro"><img width="140px" height="auto" alt="thumb-_oIDt3dRgro" src="https://i.ytimg.com/vi/_oIDt3dRgro/hqdefault.jpg"/></a> | [State of VueJS 2018 by the Creator of VueJS](https://www.youtube.com/watch?v=_oIDt3dRgro) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tC9og1H2604"><img width="140px" height="auto" alt="thumb-tC9og1H2604" src="https://i.ytimg.com/vi/tC9og1H2604/hqdefault.jpg"/></a> | [Faker Library in Java- Awesome Library To Generate Test Data for Automation](https://www.youtube.com/watch?v=tC9og1H2604) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kjOuOUVFbrQ"><img width="140px" height="auto" alt="thumb-kjOuOUVFbrQ" src="https://i.ytimg.com/vi/kjOuOUVFbrQ/hqdefault.jpg"/></a> | [Messenger Hacking: Remotely Compromising an iPhone through iMessage](https://www.youtube.com/watch?v=kjOuOUVFbrQ) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iyjM39a0MWE"><img width="140px" height="auto" alt="thumb-iyjM39a0MWE" src="https://i.ytimg.com/vi/iyjM39a0MWE/hqdefault.jpg"/></a> | [ElectronJS: Beginner To Pro](https://www.youtube.com/watch?v=iyjM39a0MWE) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZBe--JjrEL8"><img width="140px" height="auto" alt="thumb-ZBe--JjrEL8" src="https://i.ytimg.com/vi/ZBe--JjrEL8/hqdefault.jpg"/></a> | [Electron Desktop Apps With JavaScript](https://www.youtube.com/watch?v=ZBe--JjrEL8) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1gEoOuixsYs"><img width="140px" height="auto" alt="thumb-1gEoOuixsYs" src="https://i.ytimg.com/vi/1gEoOuixsYs/hqdefault.jpg"/></a> | [Faster Apps With JSON.parse](https://www.youtube.com/watch?v=1gEoOuixsYs) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=n_J13cA4Gj8"><img width="140px" height="auto" alt="thumb-n_J13cA4Gj8" src="https://i.ytimg.com/vi/n_J13cA4Gj8/hqdefault.jpg"/></a> | [Cypress.io – The State of the Art End to End Testing Tool](https://www.youtube.com/watch?v=n_J13cA4Gj8) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lS1RLNqflUQ"><img width="140px" height="auto" alt="thumb-lS1RLNqflUQ" src="https://i.ytimg.com/vi/lS1RLNqflUQ/hqdefault.jpg"/></a> | [Docker For Novices](https://www.youtube.com/watch?v=lS1RLNqflUQ) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ohuTy8MmbLc"><img width="140px" height="auto" alt="thumb-ohuTy8MmbLc" src="https://i.ytimg.com/vi/ohuTy8MmbLc/hqdefault.jpg"/></a> | [Rust in the Browser for JavaScripters: New Frontiers, New Possibilities](https://www.youtube.com/watch?v=ohuTy8MmbLc) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hYaWm2xZv9E"><img width="140px" height="auto" alt="thumb-hYaWm2xZv9E" src="https://i.ytimg.com/vi/hYaWm2xZv9E/hqdefault.jpg"/></a> | [Goodbye Client Side JavaScript, Hello C# Blazor](https://www.youtube.com/watch?v=hYaWm2xZv9E) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zMQtPMVYPvs"><img width="140px" height="auto" alt="thumb-zMQtPMVYPvs" src="https://i.ytimg.com/vi/zMQtPMVYPvs/hqdefault.jpg"/></a> | [Optimise Your Code: Load Code at the Right Time](https://www.youtube.com/watch?v=zMQtPMVYPvs) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=l5ZJaP_XlpM"><img width="140px" height="auto" alt="thumb-l5ZJaP_XlpM" src="https://i.ytimg.com/vi/l5ZJaP_XlpM/hqdefault.jpg"/></a> | [Keeping It Simple With CSS That Scales](https://www.youtube.com/watch?v=l5ZJaP_XlpM) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EdTX1LULNJk"><img width="140px" height="auto" alt="thumb-EdTX1LULNJk" src="https://i.ytimg.com/vi/EdTX1LULNJk/hqdefault.jpg"/></a> | [How Containerized SQL Server Makes Development Easier](https://www.youtube.com/watch?v=EdTX1LULNJk) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=77U8i2x_IMc"><img width="140px" height="auto" alt="thumb-77U8i2x_IMc" src="https://i.ytimg.com/vi/77U8i2x_IMc/hqdefault.jpg"/></a> | [Mobile C++ Development](https://www.youtube.com/watch?v=77U8i2x_IMc) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uRcnaI8Hnzg"><img width="140px" height="auto" alt="thumb-uRcnaI8Hnzg" src="https://i.ytimg.com/vi/uRcnaI8Hnzg/hqdefault.jpg"/></a> | [An Introduction to ASGI, Asynchronous Server Gateway Interface](https://www.youtube.com/watch?v=uRcnaI8Hnzg) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=broQmxQAMjM"><img width="140px" height="auto" alt="thumb-broQmxQAMjM" src="https://i.ytimg.com/vi/broQmxQAMjM/hqdefault.jpg"/></a> | [Moving Existing API From REST To GraphQL](https://www.youtube.com/watch?v=broQmxQAMjM) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Td7w0_nD5_4"><img width="140px" height="auto" alt="thumb-Td7w0_nD5_4" src="https://i.ytimg.com/vi/Td7w0_nD5_4/hqdefault.jpg"/></a> | [Independent Deployment of the Frontend with Docker and Kubernetes](https://www.youtube.com/watch?v=Td7w0_nD5_4) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-WeDzPGyFxs"><img width="140px" height="auto" alt="thumb--WeDzPGyFxs" src="https://i.ytimg.com/vi/-WeDzPGyFxs/hqdefault.jpg"/></a> | [Hardware Hacking 101](https://www.youtube.com/watch?v=-WeDzPGyFxs) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gv1SEzJGeu4"><img width="140px" height="auto" alt="thumb-gv1SEzJGeu4" src="https://i.ytimg.com/vi/gv1SEzJGeu4/hqdefault.jpg"/></a> | [Captain Marvellous JavaScript: A Look at How Hackers Use JS](https://www.youtube.com/watch?v=gv1SEzJGeu4) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6KVQSaxBn-M"><img width="140px" height="auto" alt="thumb-6KVQSaxBn-M" src="https://i.ytimg.com/vi/6KVQSaxBn-M/hqdefault.jpg"/></a> | [Hacking Web Performance](https://www.youtube.com/watch?v=6KVQSaxBn-M) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wCZ5TJCBWMg"><img width="140px" height="auto" alt="thumb-wCZ5TJCBWMg" src="https://i.ytimg.com/vi/wCZ5TJCBWMg/hqdefault.jpg"/></a> | [25 Years of PHP \(by the Creator of PHP\)](https://www.youtube.com/watch?v=wCZ5TJCBWMg) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QzsbPQlVZak"><img width="140px" height="auto" alt="thumb-QzsbPQlVZak" src="https://i.ytimg.com/vi/QzsbPQlVZak/hqdefault.jpg"/></a> | [WebAssembly: Expectation vs. Reality \(2 hour practical workshop\)](https://www.youtube.com/watch?v=QzsbPQlVZak) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CTeFoa55ftQ"><img width="140px" height="auto" alt="thumb-CTeFoa55ftQ" src="https://i.ytimg.com/vi/CTeFoa55ftQ/hqdefault.jpg"/></a> | [VueJS Tutorial: Zero to Sixty](https://www.youtube.com/watch?v=CTeFoa55ftQ) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IGlQjnH2Eyk"><img width="140px" height="auto" alt="thumb-IGlQjnH2Eyk" src="https://i.ytimg.com/vi/IGlQjnH2Eyk/hqdefault.jpg"/></a> | [Understanding CSS Custom Properties](https://www.youtube.com/watch?v=IGlQjnH2Eyk) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oKXYyLEkX0c"><img width="140px" height="auto" alt="thumb-oKXYyLEkX0c" src="https://i.ytimg.com/vi/oKXYyLEkX0c/hqdefault.jpg"/></a> | [`BADPDF` – Stealing Windows Credentials via PDF Files](https://www.youtube.com/watch?v=oKXYyLEkX0c) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=c_0VWcSJt7I"><img width="140px" height="auto" alt="thumb-c_0VWcSJt7I" src="https://i.ytimg.com/vi/c_0VWcSJt7I/hqdefault.jpg"/></a> | [The Clean Architecture](https://www.youtube.com/watch?v=c_0VWcSJt7I) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7mBf3Gig9io"><img width="140px" height="auto" alt="thumb-7mBf3Gig9io" src="https://i.ytimg.com/vi/7mBf3Gig9io/hqdefault.jpg"/></a> | [WebAssembly: Disrupting JavaScript](https://www.youtube.com/watch?v=7mBf3Gig9io) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Yez-7RMWMHI"><img width="140px" height="auto" alt="thumb-Yez-7RMWMHI" src="https://i.ytimg.com/vi/Yez-7RMWMHI/hqdefault.jpg"/></a> | [Simply React](https://www.youtube.com/watch?v=Yez-7RMWMHI) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wcNRgOxw4Ak"><img width="140px" height="auto" alt="thumb-wcNRgOxw4Ak" src="https://i.ytimg.com/vi/wcNRgOxw4Ak/hqdefault.jpg"/></a> | [Let's SQL Like It's 1992 \|\| James Powell](https://www.youtube.com/watch?v=wcNRgOxw4Ak) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=B5_7ps-JdxY"><img width="140px" height="auto" alt="thumb-B5_7ps-JdxY" src="https://i.ytimg.com/vi/B5_7ps-JdxY/hqdefault.jpg"/></a> | [Interactive Visualizations in JupyterLab and PixiJS \|\| Jeremy Tuloup](https://www.youtube.com/watch?v=B5_7ps-JdxY) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pA5BMSFBO9c"><img width="140px" height="auto" alt="thumb-pA5BMSFBO9c" src="https://i.ytimg.com/vi/pA5BMSFBO9c/hqdefault.jpg"/></a> | [How to Build a Netflix Clone with GraphQL, React, and DataStax Astra](https://www.youtube.com/watch?v=pA5BMSFBO9c) <br/><br/> _[Coding Tech][yu-coding-tech]_ |
+
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="B0MfK-rBK90" title="Lyra: Disrupting full Text Search industry with JavaScript" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="1Nc_-8gk_mk" title="Hilla: The Modern Web Framework for Java" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="pLKE2DvPxDo" title="How to add 3D Models to Website using React Three Fiber" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="YlO1Ul7cPlU" title="Node on Mobile" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="ieXrNJXIi-o" title="Building Cloud-native Apps with Rust: the Good, the Bad and the Ugly" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="QwaoOYkoqB0" title="Functional Parsing in C++20" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="2dMJBGWODYY" title="Cryptography in Swift" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="Lym-bvv_2sI" title="Build a Full Stack PWA App With Spring Boot (Step By Step Tutorial)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="FeoxFeJbHK0" title="WebAssembly Tutorial (WebAssembly vs JavaScript)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="pGhWPDlF2sM" title="A Fast Introduction to Fastify (NodeJS Web Framework)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="rSiE2Bfj6T8" title="Intro to React Hooks" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="yhaBEBi2EK0" title="VueJS Intermediate Workshop (Learn VueJS Best Practices)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="YSEY9CbWpHU" title="Build an Event Calendar App Using NodeJS, VueJS, and SQL Server (Step by Step Tutorial)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="Ynb78dyjz8o" title="WebAssembly -- AssemblyScript" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="4fqzPW24cLM" title="Full-Stack Serverless with TypeScript" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="wwH48lshcoY" title="Love Your Cache: Optimize for the Second Load" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="0dgmeTy7X3I" title="Worst JavaScript Flaws That Hackers Love To Abuse" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="hr65_ucoCCY" title="Web Audio API: Making A Mosquito" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="ubDPNITd_NY" title="A Dev's Guide to CSS Grid" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="ZUd3DYPyHR4" title="Modern CSS Tips and Tricks" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="HFDqjpfoSZE" title="Intro to Kotlin Multiplatform" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="Pyd9Wc5Gnd0" title="Spring Boot with Docker and Kubernetes" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="e3cF-dvNaiM" title="Introduction to gRPC" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="oneGCBiPK_Q" title="Understanding TDD with Modern JavaScript" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="Z1mZ9wSi4Bo" title="How Do JavaScript Frameworks Impact the Security of Applications?" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="PLiar_Aj9gs" title="Debugging NodeJS in Production with Diagnostic Reports" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="_oIDt3dRgro" title="State of VueJS 2018 by the Creator of VueJS" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="tC9og1H2604" title="Faker Library in Java- Awesome Library To Generate Test Data for Automation" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="kjOuOUVFbrQ" title="Messenger Hacking: Remotely Compromising an iPhone through iMessage" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="iyjM39a0MWE" title="ElectronJS: Beginner To Pro" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="ZBe--JjrEL8" title="Electron Desktop Apps With JavaScript" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="1gEoOuixsYs" title="Faster Apps With JSON.parse" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="n_J13cA4Gj8" title="Cypress.io – The State of the Art End to End Testing Tool" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="lS1RLNqflUQ" title="Docker For Novices" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="ohuTy8MmbLc" title="Rust in the Browser for JavaScripters: New Frontiers, New Possibilities" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="hYaWm2xZv9E" title="Goodbye Client Side JavaScript, Hello C# Blazor" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="zMQtPMVYPvs" title="Optimise Your Code: Load Code at the Right Time" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="l5ZJaP_XlpM" title="Keeping It Simple With CSS That Scales" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="EdTX1LULNJk" title="How Containerized SQL Server Makes Development Easier" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="77U8i2x_IMc" title="Mobile C++ Development" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="uRcnaI8Hnzg" title="An Introduction to ASGI, Asynchronous Server Gateway Interface" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="broQmxQAMjM" title="Moving Existing API From REST To GraphQL" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="Td7w0_nD5_4" title="Independent Deployment of the Frontend with Docker and Kubernetes" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="-WeDzPGyFxs" title="Hardware Hacking 101" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="gv1SEzJGeu4" title="Captain Marvellous JavaScript: A Look at How Hackers Use JS" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="6KVQSaxBn-M" title="Hacking Web Performance" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="wCZ5TJCBWMg" title="25 Years of PHP (by the Creator of PHP)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="QzsbPQlVZak" title="WebAssembly: Expectation vs. Reality (2 hour practical workshop)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="CTeFoa55ftQ" title="VueJS Tutorial: Zero to Sixty" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="IGlQjnH2Eyk" title="Understanding CSS Custom Properties" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="oKXYyLEkX0c" title="`BADPDF` – Stealing Windows Credentials via PDF Files" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="c_0VWcSJt7I" title="The Clean Architecture" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="7mBf3Gig9io" title="WebAssembly: Disrupting JavaScript" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="Yez-7RMWMHI" title="Simply React" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="wcNRgOxw4Ak" title="Let's SQL Like It's 1992 || James Powell" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="B5_7ps-JdxY" title="Interactive Visualizations in JupyterLab and PixiJS || Jeremy Tuloup" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="pA5BMSFBO9c" title="How to Build a Netflix Clone with GraphQL, React, and DataStax Astra" />
 
 :::
 
@@ -130,29 +127,28 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [TalkIT][yu-talk-it]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=4HGh3FMxaoM"><img width="140px" height="auto" alt="thumb-4HGh3FMxaoM" src="https://i.ytimg.com/vi/4HGh3FMxaoM/hqdefault.jpg"/></a> | [대화형 AI가 만드는 Hyper Automation(초자동화) 분야별 적용사례: IT, HR, 상담, Sales \[토크아이티 세미남204, 코어AI\]](https://www.youtube.com/watch?v=4HGh3FMxaoM) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=M1_RYdawkrA"><img width="140px" height="auto" alt="thumb-M1_RYdawkrA" src="https://i.ytimg.com/vi/M1_RYdawkrA/hqdefault.jpg"/></a> | [AWS에서 쿠버네티스를 가장 쉽게 이용하는 방법: ROSA(Redhat Openshift on AWS) \[토크아이티 세미남193\]](https://www.youtube.com/watch?v=M1_RYdawkrA) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uel5jFKNXOc"><img width="140px" height="auto" alt="thumb-uel5jFKNXOc" src="https://i.ytimg.com/vi/uel5jFKNXOc/hqdefault.jpg"/></a> | [클라우드 환경에서 CAD/CAE 프로젝트를 관리하려는 개발자, 설계자 그리고 엔지니어를 위한 솔루션, Ansys Gateway\[토크아이티 웨비나\]](https://www.youtube.com/watch?v=uel5jFKNXOc) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BCnuyiIMvvo"><img width="140px" height="auto" alt="thumb-BCnuyiIMvvo" src="https://i.ytimg.com/vi/BCnuyiIMvvo/hqdefault.jpg"/></a> | [\[AWS 실전 노하우 #.2\]이벤트기반 아키텍처 101 feat. AWS Lambda 활용](https://www.youtube.com/watch?v=BCnuyiIMvvo) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OZCXTBr7V44"><img width="140px" height="auto" alt="thumb-OZCXTBr7V44" src="https://i.ytimg.com/vi/OZCXTBr7V44/hqdefault.jpg"/></a> | [어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  \[토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩\]](https://www.youtube.com/watch?v=OZCXTBr7V44) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ikwIYS_olK8"><img width="140px" height="auto" alt="thumb-ikwIYS_olK8" src="https://i.ytimg.com/vi/ikwIYS_olK8/hqdefault.jpg"/></a> | [클라우드가 도와주는웹 UX 기획,디자인 고민: 이미지처리 자동화, 웹사용자 경험 개선 \[토크아이티 세미남219, 아카마이 Image ](https://www.youtube.com/watch?v=ikwIYS_olK8) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-FVFPV1tsms"><img width="140px" height="auto" alt="thumb--FVFPV1tsms" src="https://i.ytimg.com/vi/-FVFPV1tsms/hqdefault.jpg"/></a> | [구글 클라우드 운영 팁: 서버비용 최적화, 맞춤형 로드밸런서,지속사용 할인 \[토크아이티 세미남#155, GS네오텍\]](https://www.youtube.com/watch?v=-FVFPV1tsms) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WUCFoB-fvNE"><img width="140px" height="auto" alt="thumb-WUCFoB-fvNE" src="https://i.ytimg.com/vi/WUCFoB-fvNE/hqdefault.jpg"/></a> | [Tanzu와 v-Sphere가 만나면? 쿠버네티스 환경에서 애자일한 개발과 운영의 가시성을! \[토크아이티 세미남#130, 굿모닝아이텍\]](https://www.youtube.com/watch?v=WUCFoB-fvNE) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fBZsbOgV_FI"><img width="140px" height="auto" alt="thumb-fBZsbOgV_FI" src="https://i.ytimg.com/vi/fBZsbOgV_FI/hqdefault.jpg"/></a> | [GPU클러스터 오케스트레이션, Slurm vs Kubernetes \[토크아이티 세미남#55, 리더스시스템즈\]](https://www.youtube.com/watch?v=fBZsbOgV_FI) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=V_uEpe2L9Ec"><img width="140px" height="auto" alt="thumb-V_uEpe2L9Ec" src="https://i.ytimg.com/vi/V_uEpe2L9Ec/hqdefault.jpg"/></a> | [이글루시큐리티 SOAR - 보안관제의 끝에서 자동화를 외치다 \[토크아이티\]](https://www.youtube.com/watch?v=V_uEpe2L9Ec) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=V-01oqud9Pw"><img width="140px" height="auto" alt="thumb-V-01oqud9Pw" src="https://i.ytimg.com/vi/V-01oqud9Pw/hqdefault.jpg"/></a> | [클라우드 보안을 위한 IBM 큐레이더와 보안관제: 컨테이너 가시성, AI 왓슨기반 위협분석, SaaS 보안, SOAR](https://www.youtube.com/watch?v=V-01oqud9Pw) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ihQtMR873jM"><img width="140px" height="auto" alt="thumb-ihQtMR873jM" src="https://i.ytimg.com/vi/ihQtMR873jM/hqdefault.jpg"/></a> | [Autodesk Moldflow Summit 2021 - 플라스틱 '사출 성형, 압축 성형, 금형 제작' 최적화 전략](https://www.youtube.com/watch?v=ihQtMR873jM) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=exgO1LFl9x8"><img width="140px" height="auto" alt="thumb-exgO1LFl9x8" src="https://i.ytimg.com/vi/exgO1LFl9x8/hqdefault.jpg"/></a> | [파이썬 코딩 무료 강의 \(활용편4\) - 업무자동화\(RPA\), 이제는 일하는 척\(?\)만 하세요](https://www.youtube.com/watch?v=exgO1LFl9x8) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=f2IFyWomXJQ"><img width="140px" height="auto" alt="thumb-f2IFyWomXJQ" src="https://i.ytimg.com/vi/f2IFyWomXJQ/hqdefault.jpg"/></a> | [재택근무 컴플라이언스 대응을 위한 단말과 접근통제 보안 전략](https://www.youtube.com/watch?v=f2IFyWomXJQ) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=j_pdvd-slSQ"><img width="140px" height="auto" alt="thumb-j_pdvd-slSQ" src="https://i.ytimg.com/vi/j_pdvd-slSQ/hqdefault.jpg"/></a> | [코로나와 함께하는 클라우드 시대를 위한 데이터 보호](https://www.youtube.com/watch?v=j_pdvd-slSQ) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PIi7C4tMEDU"><img width="140px" height="auto" alt="thumb-PIi7C4tMEDU" src="https://i.ytimg.com/vi/PIi7C4tMEDU/hqdefault.jpg"/></a> | [마이크로소프트 애저 클라우드 추천서비스, VDI, GitHub, SAP [챕터9, 토크아이티 Video Book#5, 퍼블릭클라우드]](https://www.youtube.com/watch?v=PIi7C4tMEDU) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TuK05lUol9Y"><img width="140px" height="auto" alt="thumb-TuK05lUol9Y" src="https://i.ytimg.com/vi/TuK05lUol9Y/hqdefault.jpg"/></a> | [Nutanix가 제시하는 VMware가상화 사용자 고민 해결 [토크아이티 프리미엄 웨비나]](https://www.youtube.com/watch?v=TuK05lUol9Y) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=An4DJn9SSyo"><img width="140px" height="auto" alt="thumb-An4DJn9SSyo" src="https://i.ytimg.com/vi/An4DJn9SSyo/hqdefault.jpg"/></a> | [[AWS 실전 노하우 #.4]AWS의 CI/CD 서비스 소개 및 활용](https://www.youtube.com/watch?v=An4DJn9SSyo) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KJ-5YtFxKDc"><img width="140px" height="auto" alt="thumb-KJ-5YtFxKDc" src="https://i.ytimg.com/vi/KJ-5YtFxKDc/hqdefault.jpg"/></a> | [Hadoop기반 빅데이터 분석의 태생적 한계들 [토크아이티 세미남234, 시앤지원]](https://www.youtube.com/watch?v=KJ-5YtFxKDc) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nkhZph2EJmg"><img width="140px" height="auto" alt="thumb-nkhZph2EJmg" src="https://i.ytimg.com/vi/nkhZph2EJmg/hqdefault.jpg"/></a> | [데이터 분석 플랫폼 빠르고, 쉽고, 똑똑하게 사용하기 feat. VMware 그린플럼 구축사례 분석 [토크아이티 프리미엄웨비나, 시앤지원]](https://www.youtube.com/watch?v=nkhZph2EJmg) <br/><br/> _[TalkIT][yu-talk-it]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OZCXTBr7V44"><img width="140px" height="auto" alt="thumb-OZCXTBr7V44" src="https://i.ytimg.com/vi/OZCXTBr7V44/hqdefault.jpg"/></a> | [어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  [토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩]](https://www.youtube.com/watch?v=OZCXTBr7V44) <br/><br/> _[TalkIT][yu-talk-it]_ |
+
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="4HGh3FMxaoM" title="대화형 AI가 만드는 Hyper Automation(초자동화) 분야별 적용사례: IT, HR, 상담, Sales [토크아이티 세미남204, 코어AI]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="M1_RYdawkrA" title="AWS에서 쿠버네티스를 가장 쉽게 이용하는 방법: ROSA(Redhat Openshift on AWS) [토크아이티 세미남193]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="uel5jFKNXOc" title="클라우드 환경에서 CAD/CAE 프로젝트를 관리하려는 개발자, 설계자 그리고 엔지니어를 위한 솔루션, Ansys Gateway[토크아이티 웨비나]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="BCnuyiIMvvo" title="[AWS 실전 노하우 #.2]이벤트기반 아키텍처 101 feat. AWS Lambda 활용" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="OZCXTBr7V44" title="어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  [토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="ikwIYS_olK8" title="클라우드가 도와주는웹 UX 기획,디자인 고민: 이미지처리 자동화, 웹사용자 경험 개선 [토크아이티 세미남219, 아카마이 Image " />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="-FVFPV1tsms" title="구글 클라우드 운영 팁: 서버비용 최적화, 맞춤형 로드밸런서,지속사용 할인 [토크아이티 세미남#155, GS네오텍]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="WUCFoB-fvNE" title="Tanzu와 v-Sphere가 만나면? 쿠버네티스 환경에서 애자일한 개발과 운영의 가시성을! [토크아이티 세미남#130, 굿모닝아이텍]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="fBZsbOgV_FI" title="GPU클러스터 오케스트레이션, Slurm vs Kubernetes [토크아이티 세미남#55, 리더스시스템즈]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="V_uEpe2L9Ec" title="이글루시큐리티 SOAR - 보안관제의 끝에서 자동화를 외치다 [토크아이티]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="V-01oqud9Pw" title="클라우드 보안을 위한 IBM 큐레이더와 보안관제: 컨테이너 가시성, AI 왓슨기반 위협분석, SaaS 보안, SOAR" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="ihQtMR873jM" title="Autodesk Moldflow Summit 2021 - 플라스틱 '사출 성형, 압축 성형, 금형 제작' 최적화 전략" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="exgO1LFl9x8" title="파이썬 코딩 무료 강의 \(활용편4\) - 업무자동화\(RPA\), 이제는 일하는 척\(?\)만 하세요" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="f2IFyWomXJQ" title="재택근무 컴플라이언스 대응을 위한 단말과 접근통제 보안 전략" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="j_pdvd-slSQ" title="코로나와 함께하는 클라우드 시대를 위한 데이터 보호" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="PIi7C4tMEDU" title="마이크로소프트 애저 클라우드 추천서비스, VDI, GitHub, SAP [챕터9, 토크아이티 Video Book#5, 퍼블릭클라우드]]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="TuK05lUol9Y" title="Nutanix가 제시하는 VMware가상화 사용자 고민 해결 [토크아이티 프리미엄 웨비나]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="An4DJn9SSyo" title="[AWS 실전 노하우 #.4]AWS의 CI/CD 서비스 소개 및 활용" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="KJ-5YtFxKDc" title="Hadoop기반 빅데이터 분석의 태생적 한계들 [토크아이티 세미남234, 시앤지원]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="nkhZph2EJmg" title="데이터 분석 플랫폼 빠르고, 쉽고, 똑똑하게 사용하기 feat. VMware 그린플럼 구축사례 분석 [토크아이티 프리미엄웨비나, 시앤지원]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="OZCXTBr7V44" title="어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  [토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩]" />
 
 :::
 
@@ -165,19 +161,17 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [코드스쿼드][yu-user-nf9gd7uz9s]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=FE1rggwUFWw"><img width="140px" height="auto" alt="thumb-FE1rggwUFWw" src="https://i.ytimg.com/vi/FE1rggwUFWw/hqdefault.jpg"/></a> | [iOS - 동시성 프로그래밍 2/3](https://www.youtube.com/watch?v=FE1rggwUFWw) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ihtXSxm7FSE"><img width="140px" height="auto" alt="thumb-ihtXSxm7FSE" src="https://i.ytimg.com/vi/ihtXSxm7FSE/hqdefault.jpg"/></a> | [iOS - 동시성 프로그래밍 1/3](https://www.youtube.com/watch?v=ihtXSxm7FSE) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QEatbenQC7E"><img width="140px" height="auto" alt="thumb-QEatbenQC7E" src="https://i.ytimg.com/vi/QEatbenQC7E/hqdefault.jpg"/></a> | [402H \(워크숍\) 그래서 테스트코드는 어떻게 작성하고 있나요? - 윤중현](https://www.youtube.com/watch?v=QEatbenQC7E) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=K_elCcD27IA"><img width="140px" height="auto" alt="thumb-K_elCcD27IA" src="https://i.ytimg.com/vi/K_elCcD27IA/hqdefault.jpg"/></a> | [402F 당근마켓 iOS 개발문화 \(티타임\)](https://www.youtube.com/watch?v=K_elCcD27IA) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kfuOcu0q0Ls"><img width="140px" height="auto" alt="thumb-kfuOcu0q0Ls" src="https://i.ytimg.com/vi/kfuOcu0q0Ls/hqdefault.jpg"/></a> | [401F Modular Architecture with Tuist - 김우성](https://www.youtube.com/watch?v=kfuOcu0q0Ls) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XDaaN9MLPvQ"><img width="140px" height="auto" alt="thumb-XDaaN9MLPvQ" src="https://i.ytimg.com/vi/XDaaN9MLPvQ/hqdefault.jpg"/></a> | [402D 우당탕탕! `SafariExtension에서` `XcodeExtension`까지 - 이다혜](https://www.youtube.com/watch?v=XDaaN9MLPvQ) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2DO420E9lvs"><img width="140px" height="auto" alt="thumb-2DO420E9lvs" src="https://i.ytimg.com/vi/2DO420E9lvs/hqdefault.jpg"/></a> | [402C \(워크숍\) SwiftUI와 TCA로 `GithubSearch` 앱 만들기 - 허규영, 김대영](https://www.youtube.com/watch?v=2DO420E9lvs) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PU8FkRTMc2M"><img width="140px" height="auto" alt="thumb-PU8FkRTMc2M" src="https://i.ytimg.com/vi/PU8FkRTMc2M/hqdefault.jpg"/></a> | [401E `PencilKit`과 Point in polygon 알고리즘을 활용한 올가미 툴 개발기 - 이해석](https://www.youtube.com/watch?v=PU8FkRTMc2M) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Pm8mgJXRHCY"><img width="140px" height="auto" alt="thumb-Pm8mgJXRHCY" src="https://i.ytimg.com/vi/Pm8mgJXRHCY/hqdefault.jpg"/></a> | [레츠스위프트 2020 테크토크 Day#4](https://www.youtube.com/watch?v=Pm8mgJXRHCY) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MMyfZ3pX2TA"><img width="140px" height="auto" alt="thumb-MMyfZ3pX2TA" src="https://i.ytimg.com/vi/MMyfZ3pX2TA/hqdefault.jpg"/></a> | [레츠스위프트 2020 테크토크 Day#1](https://www.youtube.com/watch?v=MMyfZ3pX2TA) <br/><br/> _[코드스쿼드][yu-user-nf9gd7uz9s]_ |
 
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="FE1rggwUFWw" title="iOS - 동시성 프로그래밍 2/3" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="ihtXSxm7FSE" title="iOS - 동시성 프로그래밍 1/3" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="QEatbenQC7E" title="402H \(워크숍\) 그래서 테스트코드는 어떻게 작성하고 있나요? - 윤중현" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="K_elCcD27IA" title="402F 당근마켓 iOS 개발문화 \(티타임\)" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="kfuOcu0q0Ls" title="401F Modular Architecture with Tuist - 김우성" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="XDaaN9MLPvQ" title="402D 우당탕탕! `SafariExtension에서` `XcodeExtension`까지 - 이다혜" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="2DO420E9lvs" title="402C \(워크숍\) SwiftUI와 TCA로 `GithubSearch` 앱 만들기 - 허규영, 김대영" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="PU8FkRTMc2M" title="401E `PencilKit`과 Point in polygon 알고리즘을 활용한 올가미 툴 개발기 - 이해석" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="Pm8mgJXRHCY" title="레츠스위프트 2020 테크토크 Day#4" />
+<YoutubeItem channelName="코드스쿼드" channelId="user-nf9gd7uz9s" id="MMyfZ3pX2TA" title="레츠스위프트 2020 테크토크 Day#1" />
 
 :::
 
@@ -190,14 +184,12 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [Github][yu-github]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=UT74eayrS7A"><img width="140px" height="auto" alt="thumb-UT74eayrS7A" src="https://i.ytimg.com/vi/UT74eayrS7A/hqdefault.jpg"/></a> | [Make your command line glamorous with Charm - Open Source Friday](https://www.youtube.com/watch?v=UT74eayrS7A) <br/><br/> _[GitHub][yu-github]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QUBPomLp6Iw"><img width="140px" height="auto" alt="thumb-QUBPomLp6Iw" src="https://i.ytimg.com/vi/QUBPomLp6Iw/hqdefault.jpg"/></a> | [Automate Anything with Script Kit - Open Source Friday](https://www.youtube.com/watch?v=QUBPomLp6Iw) <br/><br/> _[GitHub][yu-github]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FwgxksxXj58"><img width="140px" height="auto" alt="thumb-FwgxksxXj58" src="https://i.ytimg.com/vi/FwgxksxXj58/hqdefault.jpg"/></a> | [Workflows for Data Scientists and Machine Learning #MLOps](https://www.youtube.com/watch?v=FwgxksxXj58) <br/><br/> _[GitHub][yu-github]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sQoK6dKAqec"><img width="140px" height="auto" alt="thumb-sQoK6dKAqec" src="https://i.ytimg.com/vi/sQoK6dKAqec/hqdefault.jpg"/></a> | [Command-line utility for building React apps quickly - `create-react-app`](https://www.youtube.com/watch?v=sQoK6dKAqec) <br/><br/> _[GitHub][yu-github]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qy_HaIaNbkE"><img width="140px" height="auto" alt="thumb-qy_HaIaNbkE" src="https://i.ytimg.com/vi/qy_HaIaNbkE/hqdefault.jpg"/></a> | [Automate your CI/CD workflows with GitHub Actions](https://www.youtube.com/watch?v=qy_HaIaNbkE) <br/><br/> _[GitHub][yu-github]_ |
-  
+
+<YoutubeItem channelName="GitHub" channelId="Github" id="UT74eayrS7A" title="Make your command line glamorous with Charm - Open Source Friday" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="QUBPomLp6Iw" title="Automate Anything with Script Kit - Open Source Friday" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="FwgxksxXj58" title="Workflows for Data Scientists and Machine Learning #MLOps" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="sQoK6dKAqec" title="Command-line utility for building React apps quickly - `create-react-app`" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="qy_HaIaNbkE" title="Automate your CI/CD workflows with GitHub Actions" />  
 
 :::
 
@@ -210,14 +202,15 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [티맥스][yu-tmax]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=DLxNwbrtsWQ"><img width="140px" height="auto" alt="thumb-DLxNwbrtsWQ" src="https://i.ytimg.com/vi/DLxNwbrtsWQ/hqdefault.jpg"/></a> | [\[TmaxTibero\] SysMasterDB 8, 강력한 데이터베이스 모니터링 &amp; 성능관리 솔루션](https://www.youtube.com/watch?v=DLxNwbrtsWQ) <br/><br/> _[티맥스][yu-tmax]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RReb_sYj-y8"><img width="140px" height="auto" alt="thumb-RReb_sYj-y8" src="https://i.ytimg.com/vi/RReb_sYj-y8/hqdefault.jpg"/></a> | [\[TmaxTibero Webinar\] 공공기관 민클 전환 구축 성공 사례 소개](https://www.youtube.com/watch?v=RReb_sYj-y8) <br/><br/> _[티맥스][yu-tmax]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4anutGyRD3M"><img width="140px" height="auto" alt="thumb-4anutGyRD3M" src="https://i.ytimg.com/vi/4anutGyRD3M/hqdefault.jpg"/></a> | [\[TmaxTibero Webinar\] 퍼블릭 클라우드에서 Tibero 사용하기](https://www.youtube.com/watch?v=4anutGyRD3M) <br/><br/> _[티맥스][yu-tmax]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2EFNuhq8z6Y"><img width="140px" height="auto" alt="thumb-2EFNuhq8z6Y" src="https://i.ytimg.com/vi/2EFNuhq8z6Y/hqdefault.jpg"/></a> | [\[Tibero Webinar\] 비용&amp;성능 최적화 DBMS, Tibero 최초공개](https://www.youtube.com/watch?v=2EFNuhq8z6Y) <br/><br/> _[티맥스][yu-tmax]_ |
+
+<YoutubeItem channelName="티맥스" channelId="tmax" id="DLxNwbrtsWQ" title="[TmaxTibero] SysMasterDB 8, 강력한 데이터베이스 모니터링 &amp; 성능관리 솔루션" />
+<YoutubeItem channelName="티맥스" channelId="tmax" id="RReb_sYj-y8" title="[TmaxTibero Webinar] 공공기관 민클 전환 구축 성공 사례 소개" />
+<YoutubeItem channelName="티맥스" channelId="tmax" id="4anutGyRD3M" title="[TmaxTibero Webinar] 퍼블릭 클라우드에서 Tibero 사용하기" />
+<YoutubeItem channelName="티맥스" channelId="tmax" id="2EFNuhq8z6Y" title="[Tibero Webinar] 비용&amp;성능 최적화 DBMS, Tibero 최초공개" />
 
 :::
+
+<!-- 티맥스 -->
 
 ---
 ## JetBrains
@@ -226,14 +219,13 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 - [IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]
 - [JetbrainsTV][yu-jetbrains-tv]
 
-### Kotlin
+### Kotlin By JetBrains
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=J3hDZ7PTBSk"><img width="140px" height="auto" alt="thumb-J3hDZ7PTBSk" src="https://i.ytimg.com/vi/J3hDZ7PTBSk/hqdefault.jpg"/></a> | [Sharing Data Layer Between Android and iOS \| Kotlin Multiplatform Mobile Beta](https://www.youtube.com/watch?v=J3hDZ7PTBSk) <br/><br/> _[Kotlin By JetBrains][yu-kotlin-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=faVGvVLWMmk"><img width="140px" height="auto" alt="thumb-faVGvVLWMmk" src="https://i.ytimg.com/vi/faVGvVLWMmk/hqdefault.jpg"/></a> | [Quarkus for Kotlin Developers](https://www.youtube.com/watch?v=faVGvVLWMmk) <br/><br/> _[Kotlin By JetBrains][yu-kotlin-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GcqFhoUuNNI"><img width="140px" height="auto" alt="thumb-GcqFhoUuNNI" src="https://i.ytimg.com/vi/GcqFhoUuNNI/hqdefault.jpg"/></a> | [Your First Kotlin Multiplatform Mobile App FROM SCRATCH \| Kotlin Tutorial](https://www.youtube.com/watch?v=GcqFhoUuNNI) <br/><br/> _[Kotlin By JetBrains][yu-kotlin-by-jetbrains]_ |
+
+<YoutubeItem channelName="Kotlin By JetBrains" channelId="Kotlin" id="J3hDZ7PTBSk" title="Sharing Data Layer Between Android and iOS | Kotlin Multiplatform Mobile Beta" />
+<YoutubeItem channelName="Kotlin By JetBrains" channelId="Kotlin" id="faVGvVLWMmk" title="Quarkus for Kotlin Developers" />
+<YoutubeItem channelName="Kotlin By JetBrains" channelId="Kotlin" id="GcqFhoUuNNI" title="Your First Kotlin Multiplatform Mobile App FROM SCRATCH | Kotlin Tutorial" />
 
 :::
 
@@ -242,24 +234,21 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 ### IntelliJ IDEA
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=EQPr7OhG768"><img width="140px" height="auto" alt="thumb-EQPr7OhG768" src="https://i.ytimg.com/vi/EQPr7OhG768/hqdefault.jpg"/></a> | [IntelliJ IDEA Conf 2022 \| Evolving JUnit 5](https://www.youtube.com/watch?v=EQPr7OhG768) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bPX9VHjviEM"><img width="140px" height="auto" alt="thumb-bPX9VHjviEM" src="https://i.ytimg.com/vi/bPX9VHjviEM/hqdefault.jpg"/></a> | [IntelliJ IDEA Pro Tips: Using Git Interactive Rebase](https://www.youtube.com/watch?v=bPX9VHjviEM) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZbR8cZCk9Cw"><img width="140px" height="auto" alt="thumb-ZbR8cZCk9Cw" src="https://i.ytimg.com/vi/ZbR8cZCk9Cw/hqdefault.jpg"/></a> | [Diving Java ecosystem security with DevOps and OpenSource](https://www.youtube.com/watch?v=ZbR8cZCk9Cw) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-P2sLy7NaFc"><img width="140px" height="auto" alt="thumb--P2sLy7NaFc" src="https://i.ytimg.com/vi/-P2sLy7NaFc/hqdefault.jpg"/></a> | [IntelliJ IDEA Conf 2022 \| Kubernetes Native Java](https://www.youtube.com/watch?v=-P2sLy7NaFc) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=q_RLfOB7axQ"><img width="140px" height="auto" alt="thumb-q_RLfOB7axQ" src="https://i.ytimg.com/vi/q_RLfOB7axQ/hqdefault.jpg"/></a> | [Building REST APIs with Spring Boot](https://www.youtube.com/watch?v=q_RLfOB7axQ) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wBtUIkMgzU8"><img width="140px" height="auto" alt="thumb-wBtUIkMgzU8" src="https://i.ytimg.com/vi/wBtUIkMgzU8/hqdefault.jpg"/></a> | [Spring Boot Loves K8s](https://www.youtube.com/watch?v=wBtUIkMgzU8) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=229gPlcc5d8"><img width="140px" height="auto" alt="thumb-229gPlcc5d8" src="https://i.ytimg.com/vi/229gPlcc5d8/hqdefault.jpg"/></a> | [Tutorial: Reactive Spring Boot](https://www.youtube.com/watch?v=229gPlcc5d8) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RrgL7_AW6S4"><img width="140px" height="auto" alt="thumb-RrgL7_AW6S4" src="https://i.ytimg.com/vi/RrgL7_AW6S4/hqdefault.jpg"/></a> | [Bootiful Testing, by Josh Long / JetBrains Technology Day for Java](https://www.youtube.com/watch?v=RrgL7_AW6S4) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=v8SwUUWSWG8"><img width="140px" height="auto" alt="thumb-v8SwUUWSWG8" src="https://i.ytimg.com/vi/v8SwUUWSWG8/hqdefault.jpg"/></a> | [Productive Web Development in Java with IntelliJ IDEA, Spring Boot, and Vaadin](https://www.youtube.com/watch?v=v8SwUUWSWG8) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OMuqIykUh5w"><img width="140px" height="auto" alt="thumb-OMuqIykUh5w" src="https://i.ytimg.com/vi/OMuqIykUh5w/hqdefault.jpg"/></a> | [Reactive Spring Boot: Part 6: Displaying Reactive Data](https://www.youtube.com/watch?v=OMuqIykUh5w) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iLcstbXDW6E"><img width="140px" height="auto" alt="thumb-iLcstbXDW6E" src="https://i.ytimg.com/vi/iLcstbXDW6E/hqdefault.jpg"/></a> | [Reactive Spring Boot: Part 2: Java REST Client](https://www.youtube.com/watch?v=iLcstbXDW6E) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NXfXc95-an4"><img width="140px" height="auto" alt="thumb-NXfXc95-an4" src="https://i.ytimg.com/vi/NXfXc95-an4/hqdefault.jpg"/></a> | [Improvements for Java Developers in IntelliJ IDEA 2019.2](https://www.youtube.com/watch?v=NXfXc95-an4) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qkblc5WRn-U"><img width="140px" height="auto" alt="thumb-qkblc5WRn-U" src="https://i.ytimg.com/vi/qkblc5WRn-U/hqdefault.jpg"/></a> | [The Three Laws of TDD \(Featuring Kotlin\)](https://www.youtube.com/watch?v=qkblc5WRn-U) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Y2gZz8-yK7Y"><img width="140px" height="auto" alt="thumb-Y2gZz8-yK7Y" src="https://i.ytimg.com/vi/Y2gZz8-yK7Y/hqdefault.jpg"/></a> | [Bootiful Spring Boot 3](https://www.youtube.com/watch?v=Y2gZz8-yK7Y) <br/><br/> _[IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]_ |
 
-
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="EQPr7OhG768" title="IntelliJ IDEA Conf 2022 | Evolving JUnit 5" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="bPX9VHjviEM" title="IntelliJ IDEA Pro Tips: Using Git Interactive Rebase" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="ZbR8cZCk9Cw" title="Diving Java ecosystem security with DevOps and OpenSource" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="-P2sLy7NaFc" title="IntelliJ IDEA Conf 2022 | Kubernetes Native Java" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="q_RLfOB7axQ" title="Building REST APIs with Spring Boot" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="wBtUIkMgzU8" title="Spring Boot Loves K8s" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="229gPlcc5d8" title="Tutorial: Reactive Spring Boot" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="RrgL7_AW6S4" title="Bootiful Testing, by Josh Long / JetBrains Technology Day for Java" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="v8SwUUWSWG8" title="Productive Web Development in Java with IntelliJ IDEA, Spring Boot, and Vaadin" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="OMuqIykUh5w" title="Reactive Spring Boot: Part 6: Displaying Reactive Data" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="iLcstbXDW6E" title="Reactive Spring Boot: Part 2: Java REST Client" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="NXfXc95-an4" title="Improvements for Java Developers in IntelliJ IDEA 2019.2" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="qkblc5WRn-U" title="The Three Laws of TDD (Featuring Kotlin)" />
+<YoutubeItem channelName="IntelliJ IDEA By JetBrains" channelId="intellijidea" id="Y2gZz8-yK7Y" title="Bootiful Spring Boot 3" />
 :::
 
 <!-- IntelliJ IDEA -->
@@ -267,35 +256,33 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 ### JetbrainsTV
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=MiXkDyxEDJI"><img width="140px" height="auto" alt="thumb-MiXkDyxEDJI" src="https://i.ytimg.com/vi/MiXkDyxEDJI/hqdefault.jpg"/></a> | [Compose Multiplatform Alpha: The Story](https://www.youtube.com/watch?v=MiXkDyxEDJI) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FDOECr-sT6U"><img width="140px" height="auto" alt="thumb-FDOECr-sT6U" src="https://i.ytimg.com/vi/FDOECr-sT6U/hqdefault.jpg"/></a> | [KotlinConf 2017 - How to Build a React App in Kotlin by Dave Ford](https://www.youtube.com/watch?v=FDOECr-sT6U) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VG7rw4uPn3A"><img width="140px" height="auto" alt="thumb-VG7rw4uPn3A" src="https://i.ytimg.com/vi/VG7rw4uPn3A/hqdefault.jpg"/></a> | [Developing Backends with Kotlin and Spring Boot on Google Cloud](https://www.youtube.com/watch?v=VG7rw4uPn3A) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=17JrDMlnpVQ"><img width="140px" height="auto" alt="thumb-17JrDMlnpVQ" src="https://i.ytimg.com/vi/17JrDMlnpVQ/hqdefault.jpg"/></a> | [Create a SwiftUI application in AppCode](https://www.youtube.com/watch?v=17JrDMlnpVQ) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=arZiFSerU1k"><img width="140px" height="auto" alt="thumb-arZiFSerU1k" src="https://i.ytimg.com/vi/arZiFSerU1k/hqdefault.jpg"/></a> | [Build a Microservice with Go and GoLand](https://www.youtube.com/watch?v=arZiFSerU1k) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=69uk3Pi88AE"><img width="140px" height="auto" alt="thumb-69uk3Pi88AE" src="https://i.ytimg.com/vi/69uk3Pi88AE/hqdefault.jpg"/></a> | [KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov](https://www.youtube.com/watch?v=69uk3Pi88AE) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U4Q13TlAUE8"><img width="140px" height="auto" alt="thumb-U4Q13TlAUE8" src="https://i.ytimg.com/vi/U4Q13TlAUE8/hqdefault.jpg"/></a> | [KotlinConf 2019: The State of Kotlin Support in Spring by Sebastien Deleuze](https://www.youtube.com/watch?v=U4Q13TlAUE8) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KvWIrZq0bVc"><img width="140px" height="auto" alt="thumb-KvWIrZq0bVc" src="https://i.ytimg.com/vi/KvWIrZq0bVc/hqdefault.jpg"/></a> | [KotlinConf 2019: The best runtime for Kotlin is obviously GraalVM, isn't it? by Oleg Šelajev](https://www.youtube.com/watch?v=KvWIrZq0bVc) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9TlVsfcAJ7E"><img width="140px" height="auto" alt="thumb-9TlVsfcAJ7E" src="https://i.ytimg.com/vi/9TlVsfcAJ7E/hqdefault.jpg"/></a> | [Reactive Spring Boot: Part 9: Java RSocket Client](https://www.youtube.com/watch?v=9TlVsfcAJ7E) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pxHzQIOMc30"><img width="140px" height="auto" alt="thumb-pxHzQIOMc30" src="https://i.ytimg.com/vi/pxHzQIOMc30/hqdefault.jpg"/></a> | [Inline Method Refactoring in IntelliJ IDEA](https://www.youtube.com/watch?v=pxHzQIOMc30) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_AhTzpIQJTw"><img width="140px" height="auto" alt="thumb-_AhTzpIQJTw" src="https://i.ytimg.com/vi/_AhTzpIQJTw/hqdefault.jpg"/></a> | [KotlinConf 2019: Building Progressive Web Apps in Kotlin by Erik Hellman](https://www.youtube.com/watch?v=_AhTzpIQJTw) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JKNSrBxqSs4"><img width="140px" height="auto" alt="thumb-JKNSrBxqSs4" src="https://i.ytimg.com/vi/JKNSrBxqSs4/hqdefault.jpg"/></a> | [KotlinConf 2019: Build a Browser by Kotlin with Colin Lee &amp; Sebastian Kaspari](https://www.youtube.com/watch?v=JKNSrBxqSs4) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=SOPEc8JnFl4"><img width="140px" height="auto" alt="thumb-SOPEc8JnFl4" src="https://i.ytimg.com/vi/SOPEc8JnFl4/hqdefault.jpg"/></a> | [KotlinConf 2019: Ktor for Mobile Developers: Fear the server no more! by Dan Kim](https://www.youtube.com/watch?v=SOPEc8JnFl4) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=je8aqW48JiA"><img width="140px" height="auto" alt="thumb-je8aqW48JiA" src="https://i.ytimg.com/vi/je8aqW48JiA/hqdefault.jpg"/></a> | [KotlinConf 2019: Shipping a Mobile Multiplatform Project on iOS &amp; Android by Ben Asher &amp; Alec Strong](https://www.youtube.com/watch?v=je8aqW48JiA) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WqnR_XhEiVI"><img width="140px" height="auto" alt="thumb-WqnR_XhEiVI" src="https://i.ytimg.com/vi/WqnR_XhEiVI/hqdefault.jpg"/></a> | [KotlinConf 2019: Compose Yourself: Designing a Kotlin First UI Toolkit by Anna-Chiara &amp; Clara](https://www.youtube.com/watch?v=WqnR_XhEiVI) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fcch4W94XxE"><img width="140px" height="auto" alt="thumb-fcch4W94XxE" src="https://i.ytimg.com/vi/fcch4W94XxE/hqdefault.jpg"/></a> | [Web Support in IntelliJ IDEA](https://www.youtube.com/watch?v=fcch4W94XxE) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FefmhMSr8PE"><img width="140px" height="auto" alt="thumb-FefmhMSr8PE" src="https://i.ytimg.com/vi/FefmhMSr8PE/hqdefault.jpg"/></a> | [Reactive Spring Boot: Part 4: JavaFX Line Chart](https://www.youtube.com/watch?v=FefmhMSr8PE) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ybPBxSpb18k"><img width="140px" height="auto" alt="thumb-ybPBxSpb18k" src="https://i.ytimg.com/vi/ybPBxSpb18k/hqdefault.jpg"/></a> | [Reactive Spring Boot: Part 2: Java REST Client](https://www.youtube.com/watch?v=ybPBxSpb18k) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=po9vKGqhx8E"><img width="140px" height="auto" alt="thumb-po9vKGqhx8E" src="https://i.ytimg.com/vi/po9vKGqhx8E/hqdefault.jpg"/></a> | [Reactive Spring Boot: Part 1: Kotlin REST Service](https://www.youtube.com/watch?v=po9vKGqhx8E) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=40Hv3LClqac"><img width="140px" height="auto" alt="thumb-40Hv3LClqac" src="https://i.ytimg.com/vi/40Hv3LClqac/hqdefault.jpg"/></a> | [React + TypeScript + TDD in PyCharm](https://www.youtube.com/watch?v=40Hv3LClqac) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KqgGeKhIiyo"><img width="140px" height="auto" alt="thumb-KqgGeKhIiyo" src="https://i.ytimg.com/vi/KqgGeKhIiyo/hqdefault.jpg"/></a> | [Write Less Code with Kotlin and Spring Boot](https://www.youtube.com/watch?v=KqgGeKhIiyo) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zEZc5AmHQhk"><img width="140px" height="auto" alt="thumb-zEZc5AmHQhk" src="https://i.ytimg.com/vi/zEZc5AmHQhk/hqdefault.jpg"/></a> | [Accompanying video to "Intro to Coroutines and Channels" hands-on lab: coroutines](https://www.youtube.com/watch?v=zEZc5AmHQhk) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HpWQUoVURWQ"><img width="140px" height="auto" alt="thumb-HpWQUoVURWQ" src="https://i.ytimg.com/vi/HpWQUoVURWQ/hqdefault.jpg"/></a> | [Accompanying video to "Intro to Coroutines and Channels" hands-on lab: channels](https://www.youtube.com/watch?v=HpWQUoVURWQ) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=a3agLJQ6vt8"><img width="140px" height="auto" alt="thumb-a3agLJQ6vt8" src="https://i.ytimg.com/vi/a3agLJQ6vt8/hqdefault.jpg"/></a> | [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U-gdJQeOVAk"><img width="140px" height="auto" alt="thumb-U-gdJQeOVAk" src="https://i.ytimg.com/vi/U-gdJQeOVAk/hqdefault.jpg"/></a> | [KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8xfQA10Cd7g"><img width="140px" height="auto" alt="thumb-8xfQA10Cd7g" src="https://i.ytimg.com/vi/8xfQA10Cd7g/hqdefault.jpg"/></a> | [KotlinConf 2018 - Komparing Kotlin Server Frameworks by Ken Yee](https://www.youtube.com/watch?v=8xfQA10Cd7g) <br/><br/> _[JetbrainsTV][yu-jetbrains-tv]_ |
 
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="MiXkDyxEDJI" title="Compose Multiplatform Alpha: The Story" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="FDOECr-sT6U" title="KotlinConf 2017 - How to Build a React App in Kotlin by Dave Ford" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="VG7rw4uPn3A" title="Developing Backends with Kotlin and Spring Boot on Google Cloud" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="17JrDMlnpVQ" title="Create a SwiftUI application in AppCode" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="arZiFSerU1k" title="Build a Microservice with Go and GoLand" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="69uk3Pi88AE" title="KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="U4Q13TlAUE8" title="KotlinConf 2019: The State of Kotlin Support in Spring by Sebastien Deleuze" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="KvWIrZq0bVc" title="KotlinConf 2019: The best runtime for Kotlin is obviously GraalVM, isn't it? by Oleg Šelajev" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="9TlVsfcAJ7E" title="Reactive Spring Boot: Part 9: Java RSocket Client" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="pxHzQIOMc30" title="Inline Method Refactoring in IntelliJ IDEA" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="_AhTzpIQJTw" title="KotlinConf 2019: Building Progressive Web Apps in Kotlin by Erik Hellman" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="JKNSrBxqSs4" title="KotlinConf 2019: Build a Browser by Kotlin with Colin Lee &amp; Sebastian Kaspari" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="SOPEc8JnFl4" title="KotlinConf 2019: Ktor for Mobile Developers: Fear the server no more! by Dan Kim" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="je8aqW48JiA" title="KotlinConf 2019: Shipping a Mobile Multiplatform Project on iOS &amp; Android by Ben Asher &amp; Alec Strong" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="WqnR_XhEiVI" title="KotlinConf 2019: Compose Yourself: Designing a Kotlin First UI Toolkit by Anna-Chiara &amp; Clara" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="fcch4W94XxE" title="Web Support in IntelliJ IDEA" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="FefmhMSr8PE" title="Reactive Spring Boot: Part 4: JavaFX Line Chart" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="ybPBxSpb18k" title="Reactive Spring Boot: Part 2: Java REST Client" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="po9vKGqhx8E" title="Reactive Spring Boot: Part 1: Kotlin REST Service" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="40Hv3LClqac" title="React + TypeScript + TDD in PyCharm" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="KqgGeKhIiyo" title="Write Less Code with Kotlin and Spring Boot" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="zEZc5AmHQhk" title="Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: coroutines" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="HpWQUoVURWQ" title="Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: channels" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="a3agLJQ6vt8" title="KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="U-gdJQeOVAk" title="KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov" />
+<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="8xfQA10Cd7g" title="KotlinConf 2018 - Komparing Kotlin Server Frameworks by Ken Yee" />
 
 :::
 
@@ -308,14 +295,13 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [Android Developers][yu-android-developers]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=kdwofTaEHrs"><img width="140px" height="auto" alt="thumb-kdwofTaEHrs" src="https://i.ytimg.com/vi/kdwofTaEHrs/hqdefault.jpg"/></a> | [Jetpack Compose: Testing](https://www.youtube.com/watch?v=kdwofTaEHrs) <br/><br/> _[Android Developers][yu-android-developers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FWxeDqM_WIU"><img width="140px" height="auto" alt="thumb-FWxeDqM_WIU" src="https://i.ytimg.com/vi/FWxeDqM_WIU/hqdefault.jpg"/></a> | [Android Code-Along: Kotlin coroutines](https://www.youtube.com/watch?v=FWxeDqM_WIU) <br/><br/> _[Android Developers][yu-android-developers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6manrgTPzyA"><img width="140px" height="auto" alt="thumb-6manrgTPzyA" src="https://i.ytimg.com/vi/6manrgTPzyA/hqdefault.jpg"/></a> | [Android Coroutines: How to manage async tasks in Kotlin](https://www.youtube.com/watch?v=6manrgTPzyA) <br/><br/> _[Android Developers][yu-android-developers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QHOo8zTYRzk"><img width="140px" height="auto" alt="thumb-QHOo8zTYRzk" src="https://i.ytimg.com/vi/QHOo8zTYRzk/hqdefault.jpg"/></a> | [Building apps for work profiles - Enterprise Dev Training](https://www.youtube.com/watch?v=QHOo8zTYRzk) <br/><br/> _[Android Developers][yu-android-developers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Xj45hobMI78"><img width="140px" height="auto" alt="thumb-Xj45hobMI78" src="https://i.ytimg.com/vi/Xj45hobMI78/hqdefault.jpg"/></a> | [Reified - Kotlin Vocabulary](https://www.youtube.com/watch?v=Xj45hobMI78) <br/><br/> _[Android Developers][yu-android-developers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zbYYoL7vo9Y"><img width="140px" height="auto" alt="thumb-zbYYoL7vo9Y" src="https://i.ytimg.com/vi/zbYYoL7vo9Y/hqdefault.jpg"/></a> | [\#AskAndroid at Android Dev Summit 2019 - Kotlin &amp; Coroutines on Android](https://www.youtube.com/watch?v=zbYYoL7vo9Y) <br/><br/> _[Android Developers][yu-android-developers]_ |
+
+<YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="kdwofTaEHrs" title="Jetpack Compose: Testing" />
+<YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="FWxeDqM_WIU" title="Android Code-Along: Kotlin coroutines" />
+<YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="6manrgTPzyA" title="Android Coroutines: How to manage async tasks in Kotlin" />
+<YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="QHOo8zTYRzk" title="Building apps for work profiles - Enterprise Dev Training" />
+<YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="Xj45hobMI78" title="Reified - Kotlin Vocabulary" />
+<YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="zbYYoL7vo9Y" title="\#AskAndroid at Android Dev Summit 2019 - Kotlin &amp; Coroutines on Android" />
 
 :::
 
@@ -328,29 +314,24 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [Android Makers][yu-android-makers]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-CameraX - the new powerful Jetpack library by Divya jain, Gametime EN
-TW9k-u_EVlc
+<YoutubeItem channelName="Android Makers" channelId="DroidconParis" id="TW9k-u_EVlc" title="CameraX - the new powerful Jetpack library by Divya jain, Gametime EN" />
 
 :::
 
+<!-- Android Makers -->
+
 ---
+
 ## Gradle
 
 [Gradle][yu-gradle]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=0hQ-6cJv1R8"><img width="140px" height="auto" alt="thumb-0hQ-6cJv1R8" src="https://i.ytimg.com/vi/0hQ-6cJv1R8/hqdefault.jpg"/></a> | [DevProdEng Showdown! S2E5: Developer Experience at Scale](https://www.youtube.com/watch?v=0hQ-6cJv1R8) <br/><br/> _[Gradle][yu-gradle]_ |
 
-Getting Started with the Gradle Kotlin DSL
-KN-_q3ss4l0
-
-Converting Gradle build files to Kotlin with IntelliJ IDEA
-HrBKDmmKkaU
+<YoutubeItem channelName="Gradle" channelId="GradleInc" id="0hQ-6cJv1R8" title="DevProdEng Showdown! S2E5: Developer Experience at Scale" />
+<YoutubeItem channelName="Gradle" channelId="GradleInc" id="KN-_q3ss4l0" title="Getting Started with the Gradle Kotlin DSL" />
+<YoutubeItem channelName="Gradle" channelId="GradleInc" id="HrBKDmmKkaU" title="Converting Gradle build files to Kotlin with IntelliJ IDEA" />
 
 :::
 
@@ -363,29 +344,14 @@ HrBKDmmKkaU
 [Java][yu-java]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-How do you the sum the elements of an array? - Cracking the Java Coding Interview
-hkpNt37nauw
-
-Java Asynchronous Programming Full Tutorial with Loom and Structured Concurrency - JEP Café #13
-2nOj8MKHvmw
-
-Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond
-jb7m9dL1iSI
-
-Loom in the Java Ecosystem - Inside Java Newscast #34
-I9hQvJO39uM
-
-diUvR6gqHVY
-Helidon - Microservices on Modern Java
-
-7n3EXy4f7dE
-tting Rid Of Unnamed Variables
-
-nS72gSoieso
-Java First. Java Always. |&nbsp;DevLive Level Up Keynote
+<YoutubeItem channelName="Java" channelId="java" id="hkpNt37nauw" title="How do you the sum the elements of an array? - Cracking the Java Coding Interview" />
+<YoutubeItem channelName="Java" channelId="java" id="2nOj8MKHvmw" title="Java Asynchronous Programming Full Tutorial with Loom and Structured Concurrency - JEP Café #13" />
+<YoutubeItem channelName="Java" channelId="java" id="jb7m9dL1iSI" title="Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond" />
+<YoutubeItem channelName="Java" channelId="java" id="I9hQvJO39uM" title="Loom in the Java Ecosystem - Inside Java Newscast #34" />
+<YoutubeItem channelName="Java" channelId="java" id="diUvR6gqHVY" title="Helidon - Microservices on Modern Java" />
+<YoutubeItem channelName="Java" channelId="java" id="7n3EXy4f7dE" title="tting Rid Of Unnamed Variables" />
+<YoutubeItem channelName="Java" channelId="java" id="nS72gSoieso" title="Java First. Java Always. |&nbsp;DevLive Level Up Keynote" />
 
 :::
 
@@ -398,17 +364,10 @@ Java First. Java Always. |&nbsp;DevLive Level Up Keynote
 [Spring I/O][yu-spring-io-conference]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Analyzing Safe Flights, and Firey Wrecks with JDK Flight Recorder by Billy Korando - Spring I/O 2022
-kiGNTPSkLgI
-
-Bootiful Kubernetes Operators by Cora Iberkleid and Josh Long @ Spring I/O 2022
-5IROOj7sLKg
-
-Managing Dependencies for Spring Projects with Gradle by Jenn Strater and Andy Wilkinson
-AADeX1AEmzU
+<YoutubeItem channelName="Spring I/O" channelId="SpringIOConference" id="kiGNTPSkLgI" title="Analyzing Safe Flights, and Firey Wrecks with JDK Flight Recorder by Billy Korando - Spring I/O 2022" />
+<YoutubeItem channelName="Spring I/O" channelId="SpringIOConference" id="5IROOj7sLKg" title="Bootiful Kubernetes Operators by Cora Iberkleid and Josh Long @ Spring I/O 2022" />
+<YoutubeItem channelName="Spring I/O" channelId="SpringIOConference" id="AADeX1AEmzU" title="Managing Dependencies for Spring Projects with Gradle by Jenn Strater and Andy Wilkinson" />
 
 :::
 
@@ -419,172 +378,63 @@ AADeX1AEmzU
 [SpringDeveloper][yu-spring-developer]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=mitWK_DwKGs"><img width="140px" height="auto" alt="thumb-mitWK_DwKGs" src="https://i.ytimg.com/vi/mitWK_DwKGs/hqdefault.jpg"/></a> | [Keynote: Introducing Spring Framework 6](https://www.youtube.com/watch?v=mitWK_DwKGs) <br/><br/> _[SpringDeveloper][yu-SpringDeveloper]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ty20Mz0dwQQ"><img width="140px" height="auto" alt="thumb-Ty20Mz0dwQQ" src="https://i.ytimg.com/vi/Ty20Mz0dwQQ/hqdefault.jpg"/></a> | [\[Hebrew\] Modernizing Core Systems to Accelerate Digital Transformation](https://www.youtube.com/watch?v=Ty20Mz0dwQQ) <br/><br/> _[SpringDeveloper][yu-SpringDeveloper]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=H6HwoWZtngs"><img width="140px" height="auto" alt="thumb-H6HwoWZtngs" src="https://i.ytimg.com/vi/H6HwoWZtngs/hqdefault.jpg"/></a> | [Introducing Spring Boot 3.0](https://www.youtube.com/watch?v=H6HwoWZtngs) <br/><br/> _[SpringDeveloper][yu-SpringDeveloper]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TOfYlLjXufw"><img width="140px" height="auto" alt="thumb-TOfYlLjXufw" src="https://i.ytimg.com/vi/TOfYlLjXufw/hqdefault.jpg"/></a> | [Spring Tips: the road to Spring Boot 3: ahead-of-time compilation and GraalVM](https://www.youtube.com/watch?v=TOfYlLjXufw) <br/><br/> _[SpringDeveloper][yu-SpringDeveloper]_ |
-
-Spring Boot Omakase: A Fast-Paced “Chef’s Choice” Dive into Fun and Useful Topics!
-e1sZtPmmtsQ
-
-API First or Events First: Is it a Binary Choice?
-n4Mu8zFbUZw
-
-Security Patterns for Microservice Architectures
-s4wsqYaZJ2s
-
-Spring Tips: Spring Cloud Gateway \(Redux\)
-puIJ1Mn9_LE
-
-Reactive Frontends with RxJS and Angular - Sergi Almar
-sBet3R9iGaA
-
-Cloud Native Java, Redux
-M9GNcAzBk9g
-
-Bootiful Kotlin
-nso-sPLfaTk
-
-The RSocket Revolution
-ipVfRdl5SP0
-
-Spring Tips: Configuration
-PsNNGuLi0ns
-
-Spring Tips: The Spring Integration Kotlin DSL
-1llAwgOKjTY
-
-Spring Tips: Bootiful Kotlin Redux
-P3yI_YhG5pk
-
-Spring Tips: Spring Fu
--yJ53wzG_lg
-
-DDD &amp; REST - Domain Driven APIs for the web - Oliver Gierke
-NdZqeAAIHzc
-
-Using Metrics to Ensure Quality Applications in Pivotal Platform
-k6ghIRyvYD4
-
-Best Practices to Spring to Kubernetes Easier and Faster
-YTPUNesUIbI
-
-Reactive Relational Database Connectivity with Spring
-xQEJFUPeQ_8
-
-Implementing Microservices Security Patterns and Protocols with Spring Security
-JnYIsvJY7gM
-
-FF4J: Feature Toggling for Spring/Spring Boot Applications
-r2vs20QLVw8
-
-Domain-Driven Design with Relational Databases Using Spring Data JDBC
-GOSW911Ox6s
-
-Fully Reactive: Spring, Kotlin, and JavaFX Playing Together
-Lse51SpfKHo
-
-Reactive Event Processing with Apache Geode
-KX9GgZK8744
-
-The State of Kotlin Support in Spring
-j2OEtSO2gvM
-
-Event Driven with Spring
-oTTfaynD1Xc
-
-Multi-tenancy OAuth with Spring Security 5.2
-ke13w8nab-k
-
-Spring Cloud Gateway for Stateless Microservice Authorization
-RRMO4oNptoQ
-
-Event-Driven Java Applications with Redis 5.0 Streams
-Gmwh-tUr_1E
-
-Designing a Reactive System
-Iwn8sBMf_P4
-
-Avoiding Reactor Meltdown
-xCu73WVg8Ps
-
-Real-Time Live Soccer Score Streaming Application Demo with Reactive Spring Stack
-OmaF0WkBH2g
-
-Streaming with Spring Cloud Stream and Apache Kafka
-5Mgni6AYnWg
-
-From Zero to Hero with Spring WebSocket
-nxakp15CACY
-
-Getting Started with Spring Cloud Kubernetes
-u64jexEX_RY
-
-Hacking Spring Boot Applications Using Visual Studio Code
-2uBR1HoNepc
-
-Spring Tips: Reactive Web Views
-ewpJ9EUAz5s
-
-Spring Tips: RSocket Messaging in Spring Boot 2.2
-BxHqeq58xrE
-
-CEe5fAVFn08
-Automated Refactoring for Spring-Based Applications with Jonathan Schneider
-
-5dpLVvRpPPs
-The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker
-
-X0EyaiEv8Zc
-The Golden Path to SpringOne: Who Should Use Kubernetes? with Whitney Lee
-
-nVk1b9XqcSM
-Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices
-
-ANXpdMipAI0
-Spring Tools 4: Introducing the all-new Spring Boot version validations
-
-t7S-PAAXxIA
-Spring Tools 4: Introducing the all-new upgrade support for Spring Boot projects
-
-taOgTj2cI5w
-End-to-End Machine and Deep Learning with MLFlow and Spring
-
-tS61BMYdOPU
-From Spring Native to Spring Boot 3
-
-tPi-q8Yze-8
-Modern Persistence with Spring Data 3
-
-oCjWhGLEIrk
-AMA on Tanzu Application Platform
-
-lsrJu1Ul_fE
-Interface Clients in Spring
-
-l4ixnX22Oiw
-Spring Framework 6: Infrastructure Themes
-
-j2JRrsc1who
-Observability of Your Application
-
-g_pqBL8_eE0
-Azure Spring Apps: The Easy Way to Run Your Apps
-
-_doNO1DbAiw
-Configuring and Extending Spring Authorization Server
-
-LeoCh7VK9cg
-Demystifying Spring Internals
-
-IY784cDq1E8
-What’s on TAP? Refining Modern Spring Application Development
-
-AzSY0UlsrWQ
-Spring Cloud Stream Past, Present, and Future
-
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="mitWK_DwKGs" title="Keynote: Introducing Spring Framework 6" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="Ty20Mz0dwQQ" title="\[Hebrew\] Modernizing Core Systems to Accelerate Digital Transformation" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="H6HwoWZtngs" title="Introducing Spring Boot 3.0" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="TOfYlLjXufw" title="Spring Tips: the road to Spring Boot 3: ahead-of-time compilation and GraalVM" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="e1sZtPmmtsQ" title="Spring Boot Omakase: A Fast-Paced “Chef’s Choice” Dive into Fun and Useful Topics!" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="n4Mu8zFbUZw" title="API First or Events First: Is it a Binary Choice?" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="s4wsqYaZJ2s" title="Security Patterns for Microservice Architectures" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="puIJ1Mn9_LE" title="Spring Tips: Spring Cloud Gateway \(Redux\)" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="sBet3R9iGaA" title="Reactive Frontends with RxJS and Angular - Sergi Almar" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="M9GNcAzBk9g" title="Cloud Native Java, Redux" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="nso-sPLfaTk" title="Bootiful Kotlin" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="ipVfRdl5SP0" title="The RSocket Revolution" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="PsNNGuLi0ns" title="Spring Tips: Configuration" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="1llAwgOKjTY" title="Spring Tips: The Spring Integration Kotlin DSL" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="P3yI_YhG5pk" title="Spring Tips: Bootiful Kotlin Redux" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="-yJ53wzG_lg" title="Spring Tips: Spring Fu" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="NdZqeAAIHzc" title="DDD &amp; REST - Domain Driven APIs for the web - Oliver Gierke" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="k6ghIRyvYD4" title="Using Metrics to Ensure Quality Applications in Pivotal Platform" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="YTPUNesUIbI" title="Best Practices to Spring to Kubernetes Easier and Faster" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="xQEJFUPeQ_8" title="Reactive Relational Database Connectivity with Spring" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="JnYIsvJY7gM" title="Implementing Microservices Security Patterns and Protocols with Spring Security" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="r2vs20QLVw8" title="FF4J: Feature Toggling for Spring/Spring Boot Applications" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="GOSW911Ox6s" title="Domain-Driven Design with Relational Databases Using Spring Data JDBC" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="Lse51SpfKHo" title="Fully Reactive: Spring, Kotlin, and JavaFX Playing Together" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="KX9GgZK8744" title="Reactive Event Processing with Apache Geode" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="j2OEtSO2gvM" title="The State of Kotlin Support in Spring" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="oTTfaynD1Xc" title="Event Driven with Spring" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="ke13w8nab-k" title="Multi-tenancy OAuth with Spring Security 5.2" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="RRMO4oNptoQ" title="Spring Cloud Gateway for Stateless Microservice Authorization" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="Gmwh-tUr_1E" title="Event-Driven Java Applications with Redis 5.0 Streams" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="Iwn8sBMf_P4" title="Designing a Reactive System" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="xCu73WVg8Ps" title="Avoiding Reactor Meltdown" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="OmaF0WkBH2g" title="Real-Time Live Soccer Score Streaming Application Demo with Reactive Spring Stack" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="5Mgni6AYnWg" title="Streaming with Spring Cloud Stream and Apache Kafka" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="nxakp15CACY" title="From Zero to Hero with Spring WebSocket" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="u64jexEX_RY" title="Getting Started with Spring Cloud Kubernetes" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="2uBR1HoNepc" title="Hacking Spring Boot Applications Using Visual Studio Code" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="ewpJ9EUAz5s" title="Spring Tips: Reactive Web Views" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="BxHqeq58xrE" title="Spring Tips: RSocket Messaging in Spring Boot 2.2" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="CEe5fAVFn08" title="Automated Refactoring for Spring-Based Applications with Jonathan Schneider" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="5dpLVvRpPPs" title="The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="X0EyaiEv8Zc" title="The Golden Path to SpringOne: Who Should Use Kubernetes? with Whitney Lee" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="nVk1b9XqcSM" title="Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="ANXpdMipAI0" title="Spring Tools 4: Introducing the all-new Spring Boot version validations" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="t7S-PAAXxIA" title="Spring Tools 4: Introducing the all-new upgrade support for Spring Boot projects" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="taOgTj2cI5w" title="End-to-End Machine and Deep Learning with MLFlow and Spring" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="tS61BMYdOPU" title="From Spring Native to Spring Boot 3" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="tPi-q8Yze-8" title="Modern Persistence with Spring Data 3" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="oCjWhGLEIrk" title="AMA on Tanzu Application Platform" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="lsrJu1Ul_fE" title="Interface Clients in Spring" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="l4ixnX22Oiw" title="Spring Framework 6: Infrastructure Themes" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="j2JRrsc1who" title="Observability of Your Application" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="g_pqBL8_eE0" title="Azure Spring Apps: The Easy Way to Run Your Apps" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="_doNO1DbAiw" title="Configuring and Extending Spring Authorization Server" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="LeoCh7VK9cg" title="Demystifying Spring Internals" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="IY784cDq1E8" title="What’s on TAP? Refining Modern Spring Application Development" />
+<YoutubeItem channelName="SpringDeveloper" channelId="SpringSourceDev" id="AzSY0UlsrWQ" title="Spring Cloud Stream Past, Present, and Future" />
 
 :::
 
@@ -594,27 +444,15 @@ Spring Cloud Stream Past, Present, and Future
 
 ## vaadinofficial
 
-[vaadinofficial][yu-vaadinofficial]@vaadinofficial
+[vaadinofficial][yu-vaadinofficial]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Vaadin Grid renderers: customize cells and show a details row \(Fusion\)
-z24gpqmOZ-w
-
-
-VS Code setup for TypeScript and Java: plugins and settings
-G_aJONwi0qo
-
-Introduction to Unit Testing with JUnit
-36yUqc0tMrU
-
-How to switch between light and dark theme in Vaadin apps
-1YvdDrmAnzY
-
-Webinar: Kotlin and Web App development
-B27q1L_NWLA
+<YoutubeItem channelName="vaadinofficial" channelId="vaadinofficial" id="z24gpqmOZ-w" title="Vaadin Grid renderers: customize cells and show a details row (Fusion)" />
+<YoutubeItem channelName="vaadinofficial" channelId="vaadinofficial" id="G_aJONwi0qo" title="VS Code setup for TypeScript and Java: plugins and settings" />
+<YoutubeItem channelName="vaadinofficial" channelId="vaadinofficial" id="36yUqc0tMrU" title="Introduction to Unit Testing with JUnit" />
+<YoutubeItem channelName="vaadinofficial" channelId="vaadinofficial" id="1YvdDrmAnzY" title="How to switch between light and dark theme in Vaadin apps" />
+<YoutubeItem channelName="vaadinofficial" channelId="vaadinofficial" id="B27q1L_NWLA" title="Webinar: Kotlin and Web App development" />
 
 :::
 
@@ -627,23 +465,12 @@ B27q1L_NWLA
 [v JUG][yu-v-jug]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Securing the JVM - Neither for fun nor for profit, but do you have a choice?
-gSQlLAp2dZ8
-
-Fully Reactive: Spring, Kotlin, and JavaFX Playing Together
-6sooAo4jNSA
-
-vJUG24: 5/24 Spring Boot and Kotlin, a match made in Heaven by Nicolas Frankel
-UHoLuTVX7mg
-
-"Building 'Bootiful' Applications with Spring Boot" by Josh Long
-eCos5VTtZoI
-
-Building the Internet of Things with Java
-BcVdZJqfGxM
+<YoutubeItem channelName="v JUG" channelId="virtualJUG" id="gSQlLAp2dZ8" title="Securing the JVM - Neither for fun nor for profit, but do you have a choice?" />
+<YoutubeItem channelName="v JUG" channelId="virtualJUG" id="6sooAo4jNSA" title="Fully Reactive: Spring, Kotlin, and JavaFX Playing Together" />
+<YoutubeItem channelName="v JUG" channelId="virtualJUG" id="UHoLuTVX7mg" title="vJUG24: 5/24 Spring Boot and Kotlin, a match made in Heaven by Nicolas Frankel" />
+<YoutubeItem channelName="v JUG" channelId="virtualJUG" id="eCos5VTtZoI" title="Building 'Bootiful' Applications with Spring Boot by Josh Long" />
+<YoutubeItem channelName="v JUG" channelId="virtualJUG" id="BcVdZJqfGxM" title="Building the Internet of Things with Java" />
 
 :::
 
@@ -670,42 +497,27 @@ BcVdZJqfGxM
 [Docker][yu-docker]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=bjWO9kTwl7w"><img width="140px" height="auto" alt="thumb-bjWO9kTwl7w" src="https://i.ytimg.com/vi/bjWO9kTwl7w/hqdefault.jpg"/></a> | [Web Assembly, Docker, Containerd, and Kubernetes](https://www.youtube.com/watch?v=bjWO9kTwl7w) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6OxqiEeCvMI"><img width="140px" height="auto" alt="thumb-6OxqiEeCvMI" src="https://i.ytimg.com/vi/6OxqiEeCvMI/hqdefault.jpg"/></a> | [How to Create a Great Local Python Development Environment with Docker](https://www.youtube.com/watch?v=6OxqiEeCvMI) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hUSbU3K5tgQ"><img width="140px" height="auto" alt="thumb-hUSbU3K5tgQ" src="https://i.ytimg.com/vi/hUSbU3K5tgQ/hqdefault.jpg"/></a> | [Best Practices for Production-ready .NET Docker Images](https://www.youtube.com/watch?v=hUSbU3K5tgQ) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WLBB1CZ9vo0"><img width="140px" height="auto" alt="thumb-WLBB1CZ9vo0" src="https://i.ytimg.com/vi/WLBB1CZ9vo0/hqdefault.jpg"/></a> | [How to Use the Apache httpd Docker Official Image](https://www.youtube.com/watch?v=WLBB1CZ9vo0) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mO7izmiCz4A"><img width="140px" height="auto" alt="thumb-mO7izmiCz4A" src="https://i.ytimg.com/vi/mO7izmiCz4A/hqdefault.jpg"/></a> | [Docker Extension for Red Hat OpenShift](https://www.youtube.com/watch?v=mO7izmiCz4A) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hO-e5_XjuRM"><img width="140px" height="auto" alt="thumb-hO-e5_XjuRM" src="https://i.ytimg.com/vi/hO-e5_XjuRM/hqdefault.jpg"/></a> | [Running an AWS Stack on Your Local Machine](https://www.youtube.com/watch?v=hO-e5_XjuRM) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bEcaVSJE8so"><img width="140px" height="auto" alt="thumb-bEcaVSJE8so" src="https://i.ytimg.com/vi/bEcaVSJE8so/hqdefault.jpg"/></a> | [Debugging your Huge Container Images](https://www.youtube.com/watch?v=bEcaVSJE8so) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pU6WZLNthKo"><img width="140px" height="auto" alt="thumb-pU6WZLNthKo" src="https://i.ytimg.com/vi/pU6WZLNthKo/hqdefault.jpg"/></a> | [Buildkit: A New Docker Builder](https://www.youtube.com/watch?v=pU6WZLNthKo) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IZGeqeEjZMY"><img width="140px" height="auto" alt="thumb-IZGeqeEjZMY" src="https://i.ytimg.com/vi/IZGeqeEjZMY/hqdefault.jpg"/></a> | [Running containers effortlessly on AWS AppRunner](https://www.youtube.com/watch?v=IZGeqeEjZMY) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QKwl1PggHD0"><img width="140px" height="auto" alt="thumb-QKwl1PggHD0" src="https://i.ytimg.com/vi/QKwl1PggHD0/hqdefault.jpg"/></a> | [Docker in MLOps](https://www.youtube.com/watch?v=QKwl1PggHD0) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nhqcecpi47s"><img width="140px" height="auto" alt="thumb-nhqcecpi47s" src="https://i.ytimg.com/vi/nhqcecpi47s/hqdefault.jpg"/></a> | [Build &amp; Deploy Multi-Container Apps to AWS](https://www.youtube.com/watch?v=nhqcecpi47s) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5v0_TukYfHk"><img width="140px" height="auto" alt="thumb-5v0_TukYfHk" src="https://i.ytimg.com/vi/5v0_TukYfHk/hqdefault.jpg"/></a> | [Docker Community All-Hands #2](https://www.youtube.com/watch?v=5v0_TukYfHk) <br/><br/> _[Docker][yu-docker]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RGCHHaYP9Lw"><img width="140px" height="auto" alt="thumb-RGCHHaYP9Lw" src="https://i.ytimg.com/vi/RGCHHaYP9Lw/hqdefault.jpg"/></a> | [Docker Build: Build Secure Containers with Docker and Snyk](https://www.youtube.com/watch?v=RGCHHaYP9Lw) <br/><br/> _[Docker][yu-docker]_ |
 
-Find and Fix Container Image Vulnerabilities with Docker and Snyk
-NIPjEj3HuWE
-
-Adding Container Security to Docker Hub
-SqKA4KCaOHc
-
-Taking Docker to Production: What You Need to Know and Decide
-6jT83lT6TU8
-
-Docker Desktop &amp; WSL 2 Integration Deep Dive
-W4JyzLpLpn0
-
-The Future of Compose, Hosted by Bret Fisher
-2uU_dPFwPnk
-
-Cgroups, namespaces, and beyond: what are containers made from?
-sK5i-N34im8
-
-Best Practices for Production-ready .NET Docker Images
-hUSbU3K5tgQ
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="bjWO9kTwl7w" title="Web Assembly, Docker, Containerd, and Kubernetes" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="6OxqiEeCvMI" title="How to Create a Great Local Python Development Environment with Docker" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="hUSbU3K5tgQ" title="Best Practices for Production-ready .NET Docker Images" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="WLBB1CZ9vo0" title="How to Use the Apache httpd Docker Official Image" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="mO7izmiCz4A" title="Docker Extension for Red Hat OpenShift" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="hO-e5_XjuRM" title="Running an AWS Stack on Your Local Machine" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="bEcaVSJE8so" title="Debugging your Huge Container Images" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="pU6WZLNthKo" title="Buildkit: A New Docker Builder" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="IZGeqeEjZMY" title="Running containers effortlessly on AWS AppRunner" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="QKwl1PggHD0" title="Docker in MLOps" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="nhqcecpi47s" title="Build &amp; Deploy Multi-Container Apps to AWS" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="5v0_TukYfHk" title="Docker Community All-Hands #2" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="RGCHHaYP9Lw" title="Docker Build: Build Secure Containers with Docker and Snyk" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="NIPjEj3HuWE" title="Find and Fix Container Image Vulnerabilities with Docker and Snyk" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="SqKA4KCaOHc" title="Adding Container Security to Docker Hub" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="6jT83lT6TU8" title="Taking Docker to Production: What You Need to Know and Decide" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="W4JyzLpLpn0" title="Docker Desktop &amp; WSL 2 Integration Deep Dive" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="2uU_dPFwPnk" title="The Future of Compose, Hosted by Bret Fisher" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="sK5i-N34im8" title="Cgroups, namespaces, and beyond: what are containers made from?" />
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="hUSbU3K5tgQ" title="Best Practices for Production-ready .NET Docker Images" />
 
 :::
 
@@ -718,26 +530,13 @@ hUSbU3K5tgQ
 [iOS Conf SG][yu-ios-conf-sg]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Building iOS Apps without Xcode - iOS Conf SG 2019
-JRsWi8KC2Sw
-
-Grand Central Dispatch \(GCD\), How Yelp uses GCD - iOS Conf SG 2015
-TGr5aefC92w
-
-XCMetrics - The All-In-One Solution to Track Xcode Build Metrics - iOS Conf SG 2021
-6p8kveO1m00
-
-The Hitchhiker’s Guide to SwiftUI - iOS Conf SG 2021
-0MAc-hjvKqw
-
-Explain me Metal like I'm 5 - iOS Conf SG 2020
-zXBEJzAaHY8
-
-Full stack development with Swift and Vapor - iOS Conf SG 2020
-fpWOD3JpSrI
+<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="JRsWi8KC2Sw" title="Building iOS Apps without Xcode - iOS Conf SG 2019" />
+<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="TGr5aefC92w" title="Grand Central Dispatch (GCD), How Yelp uses GCD - iOS Conf SG 2015" />
+<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="6p8kveO1m00" title="XCMetrics - The All-In-One Solution to Track Xcode Build Metrics - iOS Conf SG 2021" />
+<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="0MAc-hjvKqw" title="The Hitchhiker’s Guide to SwiftUI - iOS Conf SG 2021" />
+<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="zXBEJzAaHY8" title="Explain me Metal like I'm 5 - iOS Conf SG 2020" />
+<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="fpWOD3JpSrI" title="Full stack development with Swift and Vapor - iOS Conf SG 2020" />
 
 :::
 
@@ -748,69 +547,28 @@ fpWOD3JpSrI
 [dotnet][yu-dotnet]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=jaPk6Nt33KM"><img width="140px" height="auto" alt="thumb-jaPk6Nt33KM" src="https://i.ytimg.com/vi/jaPk6Nt33KM/hqdefault.jpg"/></a> | [Languages &amp; Runtime Community Standup - Dive into C# internals](https://www.youtube.com/watch?v=jaPk6Nt33KM) <br/><br/> _[dotnet][yu-dotnet]_ |
 
-On .NET Live - Building web apps using MVVM
-0cqtHWfgS5E
-
-OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane
-xyus7zlmgdc
-
-Learn C# with CSharpFritz - Introduction to .NET MAUI
-FhBgj9yORy4
-
-.NET Conf: Focus on MAUI
-vc22hoUorzA
-
-Develop amazing Windows apps using the Windows App SDK
-qfaQijTimxo
-
-Let's Learn .NET - Blazor
-4Xzx7Cm9ykg
-
-ASP.NET Community Standup - Balea authorization framework
-UnbJrC0WN1U
-
-ASP.NET Community Standup - Building HTTP APIs
-Mpf0fCO6NrU
-
-C# with CSharpFritz S2 E6 - Build for the Live Web with SignalR
-Ev4oT5fGROo
-
-C# with CSharpFritz - S2 E7 - Introducing Authentication and Authorization with ASP.NET Core
-u898_hiWJY0
-
-Entity Framework Community Standup - Introducing MSBuild.Sdk.SqlProj
-lmHU1zD2mvA
-
-The .NET Docs Show - Functional Fun with F#
-biL1XOcg8Us
-
-C# with CSharpFritz - S2 Ep 3: ASP.NET Core MVC, Part 2
-0AhIXUqfXTo
-
-GraphQL Schema stitching
-ODBR7kZHp-s
-
-The .NET Docs Show - Let's code a drone 🛸 to follow faces with Bruno Capuano
-2xeKomASV0E
-
-The .NET Docs Show - Blazor &amp; Comet ☄️ for Native Mobile Apps with Sam Basu
-lzVZSKcC-oY
-
-.NET Microservices with DAPR
-TeHVd3UlfY8
-
-Blazor for Web Form and C# Developers
-gmopA3LEEeE
-
-\[Korean\] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET
-0tQNsHc-410
-
-Languages &amp; Runtime Community Standup - Dive into C# internals
-jaPk6Nt33KM
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="0cqtHWfgS5E" title="On .NET Live - Building web apps using MVVM" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="xyus7zlmgdc" title="OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="FhBgj9yORy4" title="Learn C# with CSharpFritz - Introduction to .NET MAUI" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="vc22hoUorzA" title=".NET Conf: Focus on MAUI" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="qfaQijTimxo" title="Develop amazing Windows apps using the Windows App SDK" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="4Xzx7Cm9ykg" title="Let's Learn .NET - Blazor" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="UnbJrC0WN1U" title="ASP.NET Community Standup - Balea authorization framework" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="Mpf0fCO6NrU" title="ASP.NET Community Standup - Building HTTP APIs" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="Ev4oT5fGROo" title="C# with CSharpFritz S2 E6 - Build for the Live Web with SignalR" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="u898_hiWJY0" title="C# with CSharpFritz - S2 E7 - Introducing Authentication and Authorization with ASP.NET Core" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="lmHU1zD2mvA" title="Entity Framework Community Standup - Introducing MSBuild.Sdk.SqlProj" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="biL1XOcg8Us" title="The .NET Docs Show - Functional Fun with F#" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="0AhIXUqfXTo" title="C# with CSharpFritz - S2 Ep 3: ASP.NET Core MVC, Part 2" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="ODBR7kZHp-s" title="GraphQL Schema stitching" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="2xeKomASV0E" title="The .NET Docs Show - Let's code a drone 🛸 to follow faces with Bruno Capuano" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="lzVZSKcC-oY" title="The .NET Docs Show - Blazor &amp; Comet ☄️ for Native Mobile Apps with Sam Basu" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="TeHVd3UlfY8" title=".NET Microservices with DAPR" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="gmopA3LEEeE" title="Blazor for Web Form and C# Developers" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="0tQNsHc-410" title="\[Korean\] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
   
 
 :::
@@ -824,23 +582,12 @@ jaPk6Nt33KM
 [MongoDB][yu-mongo-db]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Create a Twitter Clone using Next.js, MongoDB, Auth0, &amp;  Deploy to Vercel
-xiowCksSKpk
-
-Server Side Swift with MongoDB and Vapor
-WF2JRB9Ccjc
-
-MongoDB Atlas quick start with mongocli \| Demo
-vLetdH5cnEU
-
-Realm Mobile \(Sync\)
-sDHNyDQOQvA
-
-Intro to MongoDB for Developers
-gzyNfNSjCMw
+<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="xiowCksSKpk" title="Create a Twitter Clone using Next.js, MongoDB, Auth0, &amp;  Deploy to Vercel" />
+<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="WF2JRB9Ccjc" title="Server Side Swift with MongoDB and Vapor" />
+<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="vLetdH5cnEU" title="MongoDB Atlas quick start with `mongocli` | Demo" />
+<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="sDHNyDQOQvA" title="Realm Mobile (Sync)" />
+<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="gzyNfNSjCMw" title="Intro to MongoDB for Developers" />
 
 :::
 
@@ -851,14 +598,9 @@ gzyNfNSjCMw
 [Redis][yu-redis]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Redis Stack Workshop: Redis Stack OM Library for Node.js
-KUfufrwpBkM
-
-Modeling Data Concurrency w/ Asynchronous I/O in Zig - RedisConf 2020
-zeLToGnjIUM
+<YoutubeItem channelName="Redis" channelId="Redisinc" id="KUfufrwpBkM" title="Redis Stack Workshop: Redis Stack OM Library for Node.js" />
+<YoutubeItem channelName="Redis" channelId="Redisinc" id="zeLToGnjIUM" title="Modeling Data Concurrency w/ Asynchronous I/O in Zig - RedisConf 2020" />
 
 :::
 
@@ -963,132 +705,65 @@ w4dVp0Yi7is
 [Esri Events][yu-esri-event]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-ArcGIS Runtime SDK for Qt: Building Apps
-0YJ5kEFkIKE
-
-ArcGIS Runtime SDK for Java: Building Apps
-bLUwuK5ZpHM
-
-ArcGIS Runtime SDK for Android: Building Apps
-TgkICf171jw
-
-ArcGIS Runtime SDK for iOS: Building Apps
-9XWvvfRqPOU
+<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="0YJ5kEFkIKE" title="ArcGIS Runtime SDK for Qt: Building Apps" />
+<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="bLUwuK5ZpHM" title="ArcGIS Runtime SDK for Java: Building Apps" />
+<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="TgkICf171jw" title="ArcGIS Runtime SDK for Android: Building Apps" />
+<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="9XWvvfRqPOU" title="ArcGIS Runtime SDK for iOS: Building Apps" />
 
 :::
+
+<!-- Esri Events -->
 
 ---
 
 ## ArcGIS
 
-[ArcGIS][yu-arcgis]@arcgis5980
+[ArcGIS][yu-arcgis]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-How to Use IFrames in ArcGIS Hub
-rEBm1Zp2DhM
+<YoutubeItem channelName="ArcGIS" channelId="arcgis5980" id="rEBm1Zp2DhM" title="How to Use IFrames in ArcGIS Hub" />
 
 :::
 
----
+<!-- ArcGIS -->
 
 ---
 
-
-## CNCF \[Cloud Native Computing Foundation\]
+## CNCF [Cloud Native Computing Foundation]
 
 [CNCF \[Cloud Native Computing Foundation\]][yu-cncf]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Best Practices for Applications on Kubernetes for Both Frequent Updates &amp; Stabil... Hiroshi Hayakawa
-0p0J4khYekI
-
-Distributed Tracing Integration with OpenTelemetry and Knative - Daniel Oh &amp; James Falkner, Red Hat
-48uWe9Y3CwQ
-
-What Anime Taught Me About K8s &amp; Tech Careers - Annie Talvasto, Camunda
-dlVI0MeFJAo
-
-CIS Kubernetes Benchmarks with Kubescape
-35ue_FZAerU
-
-Running distributed load tests with the Grafana k6-operator
-OqeVrDnRFiU
-
-Kubernetes for Mac: How to Consume Shiny AWS Mac Shapes for iOS Builds - Madhuri Yechuri &amp; Zach Gray
-LQOC8vI20eU
-
-Creating a Serverless iPaaS in Kubernetes with Apache Camel K
-5QabSshak7I
-
-Production CI/CD w/CNBs: Tekton, Gitlab &amp; CircleCI\(plus\), Oh My! - David Freilich &amp; Natalie Arellano
-RNN8XwRWGjk
-
-Kubernetes Design Principles: Understand the Why - Saad Ali, Google
-ZuIQurh_kDk
-
-Go + Microservices = Go Kit \[I\] - Peter Bourgon, Go Kit
-NX0sHF8ZZgw
-
-bj8SUKUg0BQ
-The Road to Winch - Saúl Cabrera, Shopify
-
-UcxJ6tVf2dY
-From Legacy to GitOps - Gonzalo Izquierdo, Hiberus Tecnologia &amp; Manuel Hernandez, Sysdig
-
-HK4_U4Y1WHU
-AI and Observability Role in an E-Government Ecosystem - Zoltan Mathe, IdomSoft Ltd.
-
-TCsJMEJ2Udg
-Observability &amp; Monitoring in Cloud Native Telco World – Tying... Dorian Lenzner &amp; Roman Szczepanski
-
-Tn-aVLFud8k
-Lightning Talk: Does Cloud Elasticity Pay off for HPC Workloads? - Joris Cramwinckel, Ortec Finance
-
-Wgdea40obu4
-Sponsored Keynote: Redefining the Architecture for Edge-Native Apps - Saad Malik &amp; Arun Gupta
-
-dggF1-bEC-s
-SLA Aware Batch Scheduling in Apache YuniKorn with Multi-Tenant Pre... Sunil Govindan &amp; Craig Condit
-
-g4o_7gaQCZY
-Sharpen That Edge! How a Service Mesh Enhances EdgeComputeOps - Marino Wijay &amp; Kevin Dorosh, Solo.io
-
-gdncARKCEOY
-Sponsored Keynote: Sharpen Your Edge Three Ways With Kubernetes - Marilyn Basanta, VMware
-
-hT7bGNKEZk4
-Can You Keep a Secret? Securely Interacting with Edge Devices i... Adithya Jayachandran &amp; Yu Jin Kim
-
-ife__pIh73s
-Closing Remarks, Program Committee Member - Lucina Stricko, Vulk Coop
-
-lazxzpmWhbQ
-Corralling the CNFs - W. Watson, Vulk Cooperative &amp; Mary Parsons, Dish Wireless
-
-mPmzFBcQ9rQ
-Lightning Talk: How Can We Renovate Legacy Telecom Infrastructure... Hiromu Asahina &amp; Yasfumi Ogawa
-
-mu4OAD4ifeM
-Lightning Talk: Keeping the Promise of Telco-Grade Resilience for CNFs - Uma Makkara, Harness
-
-rGAm_mpMSLI
-Lightning Talk: Kubernetes on Edge for People Who Don’t Do Kubernetes - Jay DesLauriers
-
-wnI0orAsJWI
-Panel: Looking Ahead to the Future with Project Sylva, Energy Efficiency &amp; Telco Cloud Platforms
-
-znjc6UFX700
-Kubescape roadmap
-
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="0p0J4khYekI" title="Best Practices for Applications on Kubernetes for Both Frequent Updates &amp; Stabil... Hiroshi Hayakawa" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="48uWe9Y3CwQ" title="Distributed Tracing Integration with OpenTelemetry and Knative - Daniel Oh &amp; James Falkner, Red Hat" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="dlVI0MeFJAo" title="What Anime Taught Me About K8s &amp; Tech Careers - Annie Talvasto, Camunda" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="35ue_FZAerU" title="CIS Kubernetes Benchmarks with Kubescape" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="OqeVrDnRFiU" title="Running distributed load tests with the Grafana k6-operator" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="LQOC8vI20eU" title="Kubernetes for Mac: How to Consume Shiny AWS Mac Shapes for iOS Builds - Madhuri Yechuri &amp; Zach Gray" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="5QabSshak7I" title="Creating a Serverless iPaaS in Kubernetes with Apache Camel K" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="RNN8XwRWGjk" title="Production CI/CD w/CNBs: Tekton, Gitlab &amp; CircleCI\(plus\), Oh My! - David Freilich &amp; Natalie Arellano" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="ZuIQurh_kDk" title="Kubernetes Design Principles: Understand the Why - Saad Ali, Google" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="NX0sHF8ZZgw" title="Go + Microservices = Go Kit \[I\] - Peter Bourgon, Go Kit" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="bj8SUKUg0BQ" title="The Road to Winch - Saúl Cabrera, Shopify" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="UcxJ6tVf2dY" title="From Legacy to GitOps - Gonzalo Izquierdo, Hiberus Tecnologia &amp; Manuel Hernandez, Sysdig" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="HK4_U4Y1WHU" title="AI and Observability Role in an E-Government Ecosystem - Zoltan Mathe, IdomSoft Ltd." />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="TCsJMEJ2Udg" title="Observability &amp; Monitoring in Cloud Native Telco World – Tying... Dorian Lenzner &amp; Roman Szczepanski" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="Tn-aVLFud8k" title="Lightning Talk: Does Cloud Elasticity Pay off for HPC Workloads? - Joris Cramwinckel, Ortec Finance" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="Wgdea40obu4" title="Sponsored Keynote: Redefining the Architecture for Edge-Native Apps - Saad Malik &amp; Arun Gupta" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="dggF1-bEC-s" title="SLA Aware Batch Scheduling in Apache YuniKorn with Multi-Tenant Pre... Sunil Govindan &amp; Craig Condit" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="g4o_7gaQCZY" title="Sharpen That Edge! How a Service Mesh Enhances EdgeComputeOps - Marino Wijay &amp; Kevin Dorosh, Solo.io" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="gdncARKCEOY" title="Sponsored Keynote: Sharpen Your Edge Three Ways With Kubernetes - Marilyn Basanta, VMware" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="hT7bGNKEZk4" title="Can You Keep a Secret? Securely Interacting with Edge Devices i... Adithya Jayachandran &amp; Yu Jin Kim" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="ife__pIh73s" title="Closing Remarks, Program Committee Member - Lucina Stricko, Vulk Coop" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="lazxzpmWhbQ" title="Corralling the CNFs - W. Watson, Vulk Cooperative &amp; Mary Parsons, Dish Wireless" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="mPmzFBcQ9rQ" title="Lightning Talk: How Can We Renovate Legacy Telecom Infrastructure... Hiromu Asahina &amp; Yasfumi Ogawa" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="mu4OAD4ifeM" title="Lightning Talk: Keeping the Promise of Telco-Grade Resilience for CNFs - Uma Makkara, Harness" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="rGAm_mpMSLI" title="Lightning Talk: Kubernetes on Edge for People Who Don’t Do Kubernetes - Jay DesLauriers" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="wnI0orAsJWI" title="Panel: Looking Ahead to the Future with Project Sylva, Energy Efficiency &amp; Telco Cloud Platforms" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="znjc6UFX700" title="Kubescape roadmap" />
 
 :::
 
@@ -1115,26 +790,19 @@ uJ_hOA9IQw0
 [NGINX][yu-nginx]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=C5kMgshNc6g"><img width="140px" height="auto" alt="thumb-C5kMgshNc6g" src="https://i.ytimg.com/vi/C5kMgshNc6g/hqdefault.jpg"/></a> | [Learn Proper NGINX Configuration Context Logic](https://www.youtube.com/watch?v=C5kMgshNc6g) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Q2iGx3iW-Mg"><img width="140px" height="auto" alt="thumb-Q2iGx3iW-Mg" src="https://i.ytimg.com/vi/Q2iGx3iW-Mg/hqdefault.jpg"/></a> | [Install Kubernetes Ingress Controller with NGINX Plus](https://www.youtube.com/watch?v=Q2iGx3iW-Mg) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Vbd0GCpktZU"><img width="140px" height="auto" alt="thumb-Vbd0GCpktZU" src="https://i.ytimg.com/vi/Vbd0GCpktZU/hqdefault.jpg"/></a> | [API Autopsies Episode 4: Security \| ShowCode Series](https://www.youtube.com/watch?v=Vbd0GCpktZU) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tvSOwMJVwCc"><img width="140px" height="auto" alt="thumb-tvSOwMJVwCc" src="https://i.ytimg.com/vi/tvSOwMJVwCc/hqdefault.jpg"/></a> | [Improve App Resiliency with F5 DNS Cloud Services](https://www.youtube.com/watch?v=tvSOwMJVwCc) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hzBwITaPMuM"><img width="140px" height="auto" alt="thumb-hzBwITaPMuM" src="https://i.ytimg.com/vi/hzBwITaPMuM/hqdefault.jpg"/></a> | [Introduction to Language Modules in NGINX Unit](https://www.youtube.com/watch?v=hzBwITaPMuM) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=eEwjaiixSeQ"><img width="140px" height="auto" alt="thumb-eEwjaiixSeQ" src="https://i.ytimg.com/vi/eEwjaiixSeQ/hqdefault.jpg"/></a> | [Explore the Config API and Unit Components](https://www.youtube.com/watch?v=eEwjaiixSeQ) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=voEn_eprn_U"><img width="140px" height="auto" alt="thumb-voEn_eprn_U" src="https://i.ytimg.com/vi/voEn_eprn_U/hqdefault.jpg"/></a> | [A Guide to Adopting Kubernetes](https://www.youtube.com/watch?v=voEn_eprn_U) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xTDcZNPPzXk"><img width="140px" height="auto" alt="thumb-xTDcZNPPzXk" src="https://i.ytimg.com/vi/xTDcZNPPzXk/hqdefault.jpg"/></a> | [Fun ways to Script NGINX using NJS \(NGINX Javascript Module\)](https://www.youtube.com/watch?v=xTDcZNPPzXk) <br/><br/> _[NGINX][yu-nginx]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=w8WqE0LgQBU"><img width="140px" height="auto" alt="thumb-w8WqE0LgQBU" src="https://i.ytimg.com/vi/w8WqE0LgQBU/hqdefault.jpg"/></a> | [A Deeper Dive into WebAssembly, the New Executable Format for the Web](https://www.youtube.com/watch?v=w8WqE0LgQBU) <br/><br/> _[NGINX][yu-nginx]_ |
 
-Securing Your Apps and APIs in the Cloud \| NGINX Virtual Event
-ZQ4vKjlanaw
-
-Using NGINX as a Kubernetes Ingress Controller
-AXZr2OC8Unc
-
-NGINX Unit: From Zero to Lift Off
-L7uvDF1EruI
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="C5kMgshNc6g" title="Learn Proper NGINX Configuration Context Logic" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="Q2iGx3iW-Mg" title="Install Kubernetes Ingress Controller with NGINX Plus" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="Vbd0GCpktZU" title="API Autopsies Episode 4: Security | ShowCode Series" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="tvSOwMJVwCc" title="Improve App Resiliency with F5 DNS Cloud Services" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="hzBwITaPMuM" title="Introduction to Language Modules in NGINX Unit" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="eEwjaiixSeQ" title="Explore the Config API and Unit Components" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="voEn_eprn_U" title="A Guide to Adopting Kubernetes" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="xTDcZNPPzXk" title="Fun ways to Script NGINX using NJS (NGINX Javascript Module)" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="w8WqE0LgQBU" title="A Deeper Dive into WebAssembly, the New Executable Format for the Web" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="ZQ4vKjlanaw" title="Securing Your Apps and APIs in the Cloud | NGINX Virtual Event" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="AXZr2OC8Unc" title="Using NGINX as a Kubernetes Ingress Controller" />
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="L7uvDF1EruI" title="NGINX Unit: From Zero to Lift Off" />
 
 :::
 
@@ -1156,51 +824,6 @@ Inserting AR directly into a native mobile app \| IKEA - Unite Copenhagen 2019
 :::
 
 <!-- Unity -->
-
----
-## Async Swift Korea
-
-[Async Swift Korea][yu-asyncswiftkorea8910]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=oZz0Fsgg6XY"><img width="140px" height="auto" alt="thumb-oZz0Fsgg6XY" src="https://i.ytimg.com/vi/oZz0Fsgg6XY/hqdefault.jpg"/></a> | [\[SyncSwift 2022\] 히그머니나! 알면 알수록 놀라운 HIG의 세계](https://www.youtube.com/watch?v=oZz0Fsgg6XY) <br/><br/> _[Async Swift Korea][yu-asyncswiftkorea8910]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7rvwGLhor-I"><img width="140px" height="auto" alt="thumb-7rvwGLhor-I" src="https://i.ytimg.com/vi/7rvwGLhor-I/hqdefault.jpg"/></a> | [\[SyncSwift 2022\] Tuist... 한 번 써봤는데요?](https://www.youtube.com/watch?v=7rvwGLhor-I) <br/><br/> _[Async Swift Korea][yu-asyncswiftkorea8910]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=K7mH_o1PBS0"><img width="140px" height="auto" alt="thumb-K7mH_o1PBS0" src="https://i.ytimg.com/vi/K7mH_o1PBS0/hqdefault.jpg"/></a> | [\[SyncSwift 2022\] 나만 몰랐던, Xcode Breakpoint 야무지게 쓰는 법](https://www.youtube.com/watch?v=K7mH_o1PBS0) <br/><br/> _[Async Swift Korea][yu-asyncswiftkorea8910]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3sfrqRaLuWk"><img width="140px" height="auto" alt="thumb-3sfrqRaLuWk" src="https://i.ytimg.com/vi/3sfrqRaLuWk/hqdefault.jpg"/></a> | [\[SyncSwift 2022\] 프로토콜과 `some`, `any`에 대한 고찰](https://www.youtube.com/watch?v=3sfrqRaLuWk) <br/><br/> _[Async Swift Korea][yu-asyncswiftkorea8910]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LYMOKMfMl0w"><img width="140px" height="auto" alt="thumb-LYMOKMfMl0w" src="https://i.ytimg.com/vi/LYMOKMfMl0w/hqdefault.jpg"/></a> | [\[SyncSwift 2022\] Widget에서 활용하면 빛이나는 CoreData \(feat. Lockscreen\)](https://www.youtube.com/watch?v=LYMOKMfMl0w) <br/><br/> _[Async Swift Korea][yu-asyncswiftkorea8910]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rq8KB21d7jQ"><img width="140px" height="auto" alt="thumb-rq8KB21d7jQ" src="https://i.ytimg.com/vi/rq8KB21d7jQ/hqdefault.jpg"/></a> | [\[SyncSwift 2022\] MVI패턴과 어울리는 SwiftUI 화면 이동 라이브러리 만들기](https://www.youtube.com/watch?v=rq8KB21d7jQ) <br/><br/> _[Async Swift Korea][yu-asyncswiftkorea8910]_ |
-
-:::
-
----
-## PyCon Korea
-
-[PyCon Korea][yu-py-con-kr-tube]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-
-파이썬을 활용한 숨고 MSA \[브레이브모바일\] 조민우 -  PyCon Korea 2021
-uwSlm3T712w
-
-Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021
-b6vHjT1t0ug
-
-Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021
-5FvicDwklaA
-
-\[2018. 05\] 파이썬 개발환경 구성하기 거의 끝판왕   Docker Compose - 김승호
-oQ50eqDH91A
-
-Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021
-b6vHjT1t0ug
-
-:::
-
-<!-- PyCon Korea -->
 
 ---
 
@@ -2060,8 +1683,6 @@ vCG5_nxm2G4
 [yu-jetbrains-tv]: https://www.youtube.com/@JetBrainsTV
 [yu-android-developers]: https://www.youtube.com/@AndroidDevelopers
 [yu-android-makers]: https://www.youtube.com/@DroidconParis
-[yu-asyncswiftkorea8910]: https://www.youtube.com/@asyncswiftkorea8910
-[yu-py-con-kr-tube]: https://www.youtube.com/@PyConKRtube
 [yu-gradle]: https://www.youtube.com/@GradleInc
 [yu-java]: https://www.youtube.com/@java
 [yu-user-uc2wv8zw3h]: https://www.youtube.com/@user-uc2wv8zw3h
