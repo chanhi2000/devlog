@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.2.3: 2023-05-02][v0.2.3]
+
+- 내용채워넣기
+- component추가: GithubTags (깃헙 토픽 태그), YoutubeItem (유튜브 목록출력용)
+
+---
+
 ## [v0.2.2: 2023-04-28][v0.2.2]
 
 - 배포 문제 처리 2차
@@ -313,6 +320,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.2.3]: https://github.com/chanhi2000/devlog/compare/v0.2.2...v0.2.3
 [v0.2.2]: https://github.com/chanhi2000/devlog/compare/v0.2.1...v0.2.2
 [v0.2.1]: https://github.com/chanhi2000/devlog/compare/v0.2.0...v0.2.1
 [v0.2.0]: https://github.com/chanhi2000/devlog/compare/v0.1.4...v0.2.0
