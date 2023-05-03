@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+---
+
+## [v0.2.4: 2023-05-03][v0.2.4]
+
+- 내용채워넣기
+- component추가: GithubTags (깃헙 토픽 태그), YoutubeItem (유튜브 목록출력용)
 
 ---
 
@@ -320,6 +326,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.2.4]: https://github.com/chanhi2000/devlog/compare/v0.2.3...v0.2.4
 [v0.2.3]: https://github.com/chanhi2000/devlog/compare/v0.2.2...v0.2.3
 [v0.2.2]: https://github.com/chanhi2000/devlog/compare/v0.2.1...v0.2.2
 [v0.2.1]: https://github.com/chanhi2000/devlog/compare/v0.2.0...v0.2.1
