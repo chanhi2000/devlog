@@ -36,4 +36,11 @@ WHEN NOT MATCHED THEN INSERT (
 
 ## B. CLI
 
+---
+
+## C. References
+
+- [Oracle / PLSQL: `CREATE TABLESPACE` statement](https://www.techonthenet.com/oracle/tablespaces/create_tablespace.php)
+- [How to Grant All Privileges to a User in Oracle](https://www.oracletutorial.com/oracle-administration/oracle-grant-all-privileges-to-a-user)
+
 <TagLinks />

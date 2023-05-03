@@ -242,8 +242,8 @@ meta:
   - [🌐Official Site](https://gptcache.readthedocs.io)
 - [ading2210/poe-api][ading2210/poe-api]: A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [kaqijiang/Auto-GPT-ZH][kaqijiang/Auto-GPT-ZH]: Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
-- [xtekky/gpt4free][xtekky/gpt4free]: decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
-  - [🌐Official Site](https://chatbot.sex)
+- [xtekky/gpt4free][xtekky/gpt4free]: decentralising the Ai Industry, just some language model api's... <GithubTags tagItems="python;chatbot;reverse-engineering;openai;chatbots;gpt;language-model;gpt-3;gpt3;openai-api;gpt-4;gpt4;chatgpt;chatgpt-api;openai-chatgpt;chatgpt-free;chatgpt-4;chatgpt4;gpt4-api;free-gpt" />
+  - [🌐Official Site](https://discord.gg/gpt4free)
 - [jostmey/msm][jostmey/msm]:  Improved statistical classifier for immune repertoires
 - [pyscript/pyscript][pyscript/pyscript]: Home Page: https://pyscript.net Examples: https://pyscript.net/examples
   - [🌐Official Site](https://github.com/pyscript/pyscript/discussions)
@@ -298,8 +298,10 @@ meta:
 - [lamini-ai/lamini][lamini-ai/lamini]
 - [mlc-ai/mlc-llm][mlc-ai/mlc-llm]: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. <GithubTags tagItems="language-model;tvm;llm;machine-learning-compilation"/>
   - [🌐Official Site](https://mlc.ai/mlc-llm)
-
-
+- [gventuri/pandas-ai][gventuri/pandas-ai]: Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [irgolic/AutoPR][irgolic/AutoPR]: Fix issues with AI-generated pull requests, powered by ChatGPT <GithubTags tagItems="ai;actions;openai;action;gpt;github-actions;github-action;gpt-3;gpt-4;llm;chatgpt"/>
+  - [🌐Official Site](https://discord.gg/ykk7Znt3K6)
+- [cirediatpl/FigmaChain][cirediatpl/FigmaChain]: FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
 
 <!-- Python -->
 
@@ -335,8 +337,10 @@ meta:
 - [roboflow/notebooks][roboflow/notebooks]: Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
   - [🌐Official Site](https://roboflow.com/models)
 - [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API][IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API]: Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. <GithubTags tagItems="python;ai;reverse-engineering;openai;gpt-4;gpt4;chatgpt;chatgpt-api;chatgpt-free;gpt-4-api;autogpt;free-autogpt;autogpt-no-paid-api;democratize-ai;open-source-gpt;open-source-auto-gpt"/>
-
-
+- [datawhalechina/prompt-engineering-for-developers][datawhalechina/prompt-engineering-for-developers]
+- [google-research/google-research][google-research/google-research]: Google Research <GithubTags tagItems="machine-learning;research;ai" />
+  - [🌐Official Site](https://research.google)
+- [1rgs/jsonformer][1rgs/jsonformer]: A Bulletproof Way to Generate Structured JSON from Language Models
 
 <!-- Jupyter Notebook -->
 
@@ -547,6 +551,9 @@ meta:
 [CVI-SZU/Linly]: https://github.com/CVI-SZU/Linly
 [lamini-ai/lamini]: https://github.com/lamini-ai/lamini
 [mlc-ai/mlc-llm]: https://github.com/mlc-ai/mlc-llm
+[gventuri/pandas-ai]: https://github.com/gventuri/pandas-ai
+[irgolic/AutoPR]: https://github.com/irgolic/AutoPR
+[cirediatpl/FigmaChain]: https://github.com/cirediatpl/FigmaChain
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -574,3 +581,6 @@ meta:
 [lupantech/chameleon-llm]: https://github.com/lupantech/chameleon-llm
 [roboflow/notebooks]: https://github.com/roboflow/notebooks
 [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API]: https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API
+[datawhalechina/prompt-engineering-for-developers]: https://github.com/datawhalechina/prompt-engineering-for-developers
+[google-research/google-research]: https://github.com/google-research/google-research
+[1rgs/jsonformer]: https://github.com/1rgs/jsonformer

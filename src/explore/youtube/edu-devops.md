@@ -36,48 +36,6 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 ---
 
-## NETVN
-
-[NETVN][yu-netvn]
-
-::: details 목록
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="1dXVIrFVITk" title="Turn old iPhone into Windows XP PC"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="4ZYbg0Hldjc" title="CMD : Boot into Safe Mode"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="v1C21TJFcYM" title="CMD : Enter UEFI / BIOS with only 1 command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="DQsDWDnYgu0" title="CMD : Show &amp; Export all Wi-Fi passwords to File"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="k1szHpFXukI" title="How to Monitor Your Windows Server Using MRTG"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="aAcsNXVQ7To" title="Create your own network traffic monitoring tool on Windows"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="29PlocbDz5g" title="Connect to Wi-Fi network with Camera"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="FDQJT0zCpLU" title="Ping from Text file and Save Log file"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="Hk_P_v-ULpM" title="Commands to Speed up File transfers on Windows PC"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="dKtuES4eOOs" title="CMD : How to backup data like paid software"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="mEm0qEv9ukI" title="How to install iPhone Notes on Windows PC"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="WKnu7tTMlEM" title="How to combine 03 PCs into 01 Network Storage system | PetaSAN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="dzUnSOHJB3A" title="How to install Zabbix on Windows with Docker Desktop"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="I7L6_E4YTRA" title="How to create your own Wiki page"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="u3yO0OPUXbI" title="Free Control 2 PC with only 1 Keyboard &amp; Mouse | Microsoft app"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="_Xkpy0-Qy5w" title="View CPU temperature on Taskbar in Windows"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="EIUBzBh4k_Y" title="How to build your own cloud on Windows for free | NETVN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="6rER1_P5uvo" title="CMD : How to Find Your Public IP Addresses with 1 command | NETVN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="h_NKy2-FRwE" title="CMD : Show Wi-Fi Password | Windows 10 / 11 | NETVN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="r-Ydlplo7r0" title="CMD : Score your computer with just 1 command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="FaADlaOmZME" title="CMD :  Speed Test RAM on Windows 11/10"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="1SIwHkcVXNM" title="How to Speed Test SSD/HDD with only 1 command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="thXyCuEG7_o" title="How to Copy without Formula in Excel"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="a54sqzcDrUU" title="Convert MBR to GPT without loss DATA | Windows 11/10"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="rZu5TSAKDrU" title="How to install Windows 11 on Legacy BIOS"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="H3bg_TNoqtc" title="Challenge to create Windows 11 installer using command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="7ud7DCICv3o" title="How to Fix 'VCRUNTIME140_1.dll was not found'"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="sQdGauaLzSU" title="Giving you a copy trick on Windows 11/10"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="HZMzuHwoC8M" title="How to Fix 'No internet, secured' in Windows 11"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="4ZYbg0Hldjc" title="CMD : Boot into Safe Mode"/>
-
-:::
-
-<!-- NETVN -->
-
----
-
 ## Learn Linux TV
 
 [Learn Linux TV][yu-learn-linux-tv]
@@ -313,7 +271,6 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 <TagLinks />
 
 [yu-marcel-dempers]: https://www.youtube.com/@MarcelDempers
-[yu-netvn]: https://www.youtube.com/@NETVN82
 [yu-linux-leech]: https://www.youtube.com/@linuxleech
 [yu-tmanelshrghk]: https://www.youtube.com/@tmanelshrghk
 [yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93

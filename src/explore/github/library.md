@@ -111,11 +111,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://polaris.berachain.dev)
 - [k8sgpt-ai/k8sgpt][k8sgpt-ai/k8sgpt]: Giving Kubernetes SRE superpowers to everyone <Badge type="info" vertical="middle" text="kubernetes"/> <Badge type="info" vertical="middle" text="devops"/> <Badge type="info" vertical="middle" text="tooling"/> <Badge type="info" vertical="middle" text="openai"/> <Badge type="info" vertical="middle" text="sre"/>
   - [🌐Official Site](http://k8sgpt.ai)
-- [moul/quicssh][moul/quicssh]: SSH over QUIC <Badge type="info" vertical="middle" text="cli"/> <Badge type="info" vertical="middle" text="ssh"/> <Badge type="info" vertical="middle" text="hack"/> <Badge type="info" vertical="middle" text="server"/> <Badge type="info" vertical="middle" text="daemon"/> <Badge type="info" vertical="middle" text="proxy"/> <Badge type="info" vertical="middle" text="quic"/>
+- [moul/quicssh][moul/quicssh]: SSH over QUIC <GithubTags tagItems="cli;ssh;hack;server;daemon;proxy;quic"/>
   - [🌐Official Site](http://k8sgpt.ai)
-
-
-
+- [projectdiscovery/httpx][projectdiscovery/httpx]: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. <GithubTags tagItems="cli;http;osint;pipeline;lib;cybersecurity;ssl-certificate;bugbounty;hacktoberfest;pentest-tool"/>
+  - [🌐Official Site](https://projectdiscovery.io)
 
 ---
 
@@ -140,46 +139,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://alacritty.org)
 - [AleoHQ/snarkOS][AleoHQ/snarkOS]: A Decentralized Operating System for ZK Applications
   - [🌐Official Site](http://snarkos.org)
-
----
-
-## C#
-
-- [scottplot/scottplot][scottplot/scottplot]: Interactive Plotting Library for .NET
-  - [🌐Official Site](https://scottplot.net)
-- [microsoft/PowerToys][microsoft/PowerToys]: Windows system utilities to maximize productivity 
-- [valinet/ExplorerPatcher][valinet/ExplorerPatcher]: This project aims to enhance the working environment on Windows
-- [microsoft/calculator][microsoft/calculator]: Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [coofcookie/Windows11Upgrade][coofcookie/Windows11Upgrade]: Windows 11 Upgrade tool that bypasses Microsoft´s requirements
-- [dotnet/maui][dotnet/maui]: .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-  - [🌐Official Site](https://dot.net/maui)
-- [bitwarden/server][bitwarden/server]: The core infrastructure backend (API, database, Docker, etc).
-  - [🌐Official Site](https://bitwarden.com)
-- [PRQL/prql][PRQL/prql]: PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-  - [🌐Official Site](https://prql-lang.org)
-- [unoplatform/uno][unoplatform/uno]: Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
-  - [🌐Official Site](https://platform.uno)
-- [Const-me/Whisper][Const-me/Whisper]: High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-- [microsoft/semantic-kernel][microsoft/semantic-kernel]: Integrate cutting-edge LLM technology quickly and easily into your apps
-  - [🌐Official Site](https://aka.ms/semantic-kernel)
-- [keijiro/AICommand][keijiro/AICommand]: ChatGPT integration with Unity Editor
-- [files-community/Files][files-community/Files]: Building the best file manager experience for Windows
-  - [🌐Official Site](https://files.community)
-- [keijiro/UnityMLStableDiffusion][keijiro/UnityMLStableDiffusion]: Core ML Stable Diffusion on Unity
-- [DeSinc/SallyBot][DeSinc/SallyBot]: AI Chatbot coded in Discord.net C#
-- [optikey/optikey][optikey/optikey]: OptiKey - Full computer control and speech with your eyes
-  - [🌐Official Site](http://www.optikey.org)
-- [mivano/azure-cost-cli][mivano/azure-cost-cli]: CLI tool to perform cost analysis on your Azure subscription
-- [MassTransit/MassTransit][MassTransit/MassTransit]: Distributed Application Framework for .NET
-  - [🌐Official Site](https://masstransit.io)
-- [2dust/v2rayN][2dust/v2rayN]: A GUI client for Windows, support Xray core and v2fly core and others
-  - [🌐Official Site](https://1.2345345.xyz)
-- [btcpayserver/btcpayserver][btcpayserver/btcpayserver]: Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
-  - [🌐Official Site](https://btcpayserver.org)
-
-
-
-<!-- C# -->
 
 ---
 
@@ -301,7 +260,14 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [aappleby/PicoRVD][aappleby/PicoRVD]: GDB-compatible RISC-V Debugger for CH32V003 that runs on a Raspberry Pi Pico
 - [flipperdevices/flipperzero-firmware][flipperdevices/flipperzero-firmware]: Flipper Zero firmware source code <GithubTags tagItems="flipper;firmware;stm32;rfid;nfc;ble;infrared;onewire;armv7m;subghz;flipperzero"/>
   - [🌐Official Site](https://flipperzero.one)
-
+- [IOActive/Platbox][IOActive/Platbox]: UEFI and SMM Assessment Tool
+- [0015/ThatProject][0015/ThatProject]: *That Project's project repository <GithubTags tagItems="mqtt;esp8266;gui;firebase;tutorial;camera;esp32;flutter;mcu;gfx;espressif;firebase-database;firebase-realtime-database;lvgl;esp32-cam;iot-project;embedded-project" />
+  - [🌐Official Site](https://youtube.com/thatproject)
+- [apple/foundationdb][apple/foundationdb]: FoundationDB - the open source, distributed, transactional key-value store <GithubTags tagItems="transactional;distributed-database;acid;key-value-store;foundationdb "/>
+  - [🌐Official Site](https://www.foundationdb.org)
+- [minetest/minetest][minetest/minetest]: Minetest is an open source voxel game engine with easy modding and game creation <GithubTags tagItems="c-plus-plus;lua;game-engine;minetest;voxel;cpp11;voxel-engine" />
+  - [🌐Official Site](https://www.minetest.net)
+  
 ---
 
 <!-- C & C++ -->
@@ -320,6 +286,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [PathOfBuildingCommunity/PathOfBuilding][PathOfBuildingCommunity/PathOfBuilding]: Offline build planner for Path of Exile.
   - [🌐Official Site](https://pathofbuilding.community)
 - [bfeber/HLA-NoVR][bfeber/HLA-NoVR]: NO VR Script for Half-Life: Alyx
+- [nvim-tree/nvim-web-devicons][nvim-tree/nvim-web-devicons]: lua `fork` of vim-web-devicons for neovim
 
 ---
 
@@ -356,8 +323,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [aleskxyz/reality-ezpz][aleskxyz/reality-ezpz]: Reality EZPZ
 - [Security-Onion-Solutions/securityonion][Security-Onion-Solutions/securityonion]: Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
   - [🌐Official Site](https://securityonion.net)
-
-
+- [Fmstrat/winapps][Fmstrat/winapps]: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+- [aristocratos/bashtop][aristocratos/bashtop]: Linux/OSX/FreeBSD resource monitor
 
 ---
 
@@ -375,7 +342,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Batchfile
 
 - [massgravel/Microsoft-Activation-Scripts][massgravel/Microsoft-Activation-Scripts]
-- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency. <Badge type="info" vertical="middle" text="windows"/> <Badge type="info" vertical="middle" text="open-source"/> <Badge type="info" vertical="middle" text="security"/> <Badge type="info" vertical="middle" text="performance"/> <Badge type="info" vertical="middle" text="privacy"/> <Badge type="info" vertical="middle" text="gaming"/> <Badge type="info" vertical="middle" text="fps"/> <Badge type="info" vertical="middle" text="latency"/> <Badge type="info" vertical="middle" text="tweaks"/> <Badge type="info" vertical="middle" text="atlas"/> <Badge type="info" vertical="middle" text="debloat"/>
+- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency. <GiGithubTags tagItems="windows;open-source;security;performance;privacy;gaming;fps;latency;tweaks;atlas;debloat" />
   - [🌐Official Site](https://atlasos.net)
 
 ---
@@ -385,6 +352,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [posquit0/Awesome-CV][posquit0/Awesome-CV]: 📄 Awesome CV is LaTeX template for your outstanding job application
 - [paulgp/applied-methods-phd][paulgp/applied-methods-phd]: Repo for Yale Applied Empirical Methods PHD Course
 - [synercys/annotated_latex_equations][synercys/annotated_latex_equations]: Examples of how to create colorful, annotated equations in Latex using Tikz.
+- [sysprog21/lkmpg][sysprog21/lkmpg]: The Linux Kernel Module Programming Guide (updated for 5.x kernels) <GithubTags tagItems="c;linux;documentation;books;kernel;linux-kernel;device-driver;linux-kernel-module;linux-kernel-driver;lkm;lkmpg" />
+  - [🌐Official Site](https://sysprog21.github.io/lkmpg)
+
+
 
 
 ---
@@ -512,6 +483,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [berachain/polaris]: https://github.com/berachain/polaris
 [k8sgpt-ai/k8sgpt]: https://github.com/k8sgpt-ai/k8sgpt
 [moul/quicssh]: https://github.com/moul/quicssh
+[projectdiscovery/httpx]: https://github.com/projectdiscovery/httpx
 <!-- Ruby -->
 [bullet-train-co/bullet_train]: https://github.com/bullet-train-co/bullet_train
 <!-- Scala -->
@@ -521,27 +493,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [ellie/atuin]: https://github.com/ellie/atuin
 [cantino/mcfly]: https://github.com/cantino/mcfly
 [alacritty/alacritty]: https://github.com/alacritty/alacritty
-<!-- C# -->
-[scottplot/scottplot]: https://github.com/scottplot/scottplot
-[microsoft/PowerToys]: https://github.com/microsoft/PowerToys
-[valinet/ExplorerPatcher]: https://github.com/valinet/ExplorerPatcher
-[microsoft/calculator]: https://github.com/microsoft/calculator
-[coofcookie/Windows11Upgrade]: https://github.com/coofcookie/Windows11Upgrade
-[dotnet/maui]: https://github.com/dotnet/maui
-[bitwarden/server]: https://github.com/bitwarden/server
-[PRQL/prql]: https://github.com/PRQL/prql
-[unoplatform/uno]: https://github.com/unoplatform/uno
-[Const-me/Whisper]: https://github.com/Const-me/Whisper
-[microsoft/semantic-kernel]: https://github.com/microsoft/semantic-kernel
-[keijiro/AICommand]: https://github.com/keijiro/AICommand
-[files-community/Files]: https://github.com/files-community/Files
-[keijiro/UnityMLStableDiffusion]: https://github.com/keijiro/UnityMLStableDiffusion
-[DeSinc/SallyBot]: https://github.com/DeSinc/SallyBot
-[optikey/optikey]: https://github.com/optikey/optikey
-[mivano/azure-cost-cli]: https://github.com/mivano/azure-cost-cli
-[MassTransit/MassTransit]: https://github.com/MassTransit/MassTransit
-[2dust/v2rayN]: https://github.com/2dust/v2rayN
-[btcpayserver/btcpayserver]: https://github.com/btcpayserver/btcpayserver
 <!-- Dart -->
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 [immich-app/immich]: https://github.com/immich-app/immich
@@ -608,6 +559,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [haileys/doslinux]: https://github.com/haileys/doslinux
 [aappleby/PicoRVD]: https://github.com/aappleby/PicoRVD
 [flipperdevices/flipperzero-firmware]: https://github.com/flipperdevices/flipperzero-firmware
+[IOActive/Platbox]: https://github.com/IOActive/Platbox
+[0015/ThatProject]: https://github.com/0015/ThatProject
+[apple/foundationdb]: https://github.com/apple/foundationdb
+[minetest/minetest]: https://github.com/minetest/minetest
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -619,6 +574,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [PathOfBuildingCommunity/PathOfBuilding]: https://github.com/PathOfBuildingCommunity/PathOfBuilding
 [davidgiven/wordgrinder]: https://github.com/davidgiven/wordgrinder
 [bfeber/HLA-NoVR]: https://github.com/bfeber/HLA-NoVR
+[nvim-tree/nvim-web-devicons]: https://github.com/nvim-tree/nvim-web-devicons
 <!-- Elixir -->
 [AccessOwl/open_owl]: https://github.com/AccessOwl/open_owl
 <!-- Bash -->
@@ -641,6 +597,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [maplecool/easytrojan]: https://github.com/maplecool/easytrojan
 [aleskxyz/reality-ezpz]: https://github.com/aleskxyz/reality-ezpz
 [Security-Onion-Solutions/securityonion]: https://github.com/Security-Onion-Solutions/securityonion
+[Fmstrat/winapps]: https://github.com/Fmstrat/winapps
+[aristocratos/bashtop]: https://github.com/aristocratos/bashtop
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
@@ -653,6 +611,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 [paulgp/applied-methods-phd]: https://github.com/paulgp/applied-methods-phd
 [synercys/annotated_latex_equations]: https://github.com/synercys/annotated_latex_equations
+[sysprog21/lkmpg]: https://github.com/sysprog21/lkmpg
 <!-- Odin -->
 [odin-lang/Odin]: https://github.com/odin-lang/Odin
 <!-- V -->

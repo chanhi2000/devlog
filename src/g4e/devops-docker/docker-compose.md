@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Docker Compose
-description: Docker Compose
+title: 🚢Docker Compose
+description: 🐋Docker > 🚢Docker Compose
 tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
 ---
 
@@ -12,6 +12,7 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 [[toc]]
 
 ---
+
 ## 기본 명령어
 
 
@@ -23,8 +24,8 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 | `docker-compose up -d` | (`docker-compose.yml` 파일이 기본) docker-compose로 기동 |
 | `docker-compose down` | (`docker-compose.yml` 파일이 기본) docker-compose로 구성한 모든 컨테이너 중지 |
 
-
 ---
+
 ## 자주쓰는 docker-compose 
 
 ### 구성요소
@@ -104,6 +105,83 @@ services:
       - "8081:8081"
     volumes:
       - ./nexus/data:/nexus-data
+```
+
+### `docker-compose-gitlab.yml`
+
+```yml
+version: "3"
+
+networks:
+  gitlab-network:
+    driver: bridge
+
+services:
+  gitlab:
+    image: 'gitlab/gitlab-ce:15.9.6-ce.0'
+    container_name: gitlab
+    restart: always
+    networks:
+      - gitlab-network
+    hostname: 'gitlab.example.com'
+    environment:
+      GITLAB_OMNIBUS_CONFIG: |
+        external_url 'http://gitlab.example.com'
+    ports:
+      - "1980:80"
+      - "1922:22"
+      - "19443:443"
+    volumes:
+      - '$GITLAB_HOME/config:/etc/gitlab'
+      - '$GITLAB_HOME/logs:/var/log/gitlab'
+      - '$GITLAB_HOME/data:/var/opt/gitlab'
+    shm_size: '256m'
+  gitlab-runner:
+    image: 'gitlab/gitlab-runner:alpine3.14-bleeding'
+    container_name: gitlab-runner
+    restart: always
+    networks:
+      - gitlab-network
+    volumes:
+      - '$GITLAB_RUNNER_HOME/config:/etc/gitlab-runner'
+      - '/var/run/docker.sock:/var/run/docker.sock'
+```
+
+### GitLab 정보 등록
+
+컨테이너로 sh접근 후 실행
+
+```sh
+docker exec -it gitlab-runner /bin/bash -c "gitlab-runner register"
+```
+
+진행 시 입력 해야 할 값
+
+```
+Runtime platform                                    arch=amd64 os=linux pid=28 revision=21da6177 version=15.12.0~beta.41.g21da6177
+Running in system-mode.
+
+Enter the GitLab instance URL (for example, https://gitlab.com/):
+http://gitlab
+Enter the registration token:
+GR1348941XFBuSpcsKGBSHAxLv2FP
+Enter a description for the runner:
+[bc8b8ed5ef2d]:
+Enter tags for the runner (comma-separated):
+
+Enter optional maintenance note for the runner:
+
+WARNING: Support for registration tokens and runner parameters in the 'register' command has been deprecated in GitLab Runner 15.6 and will be replaced with support for authentication tokens. For more information, see https://gitlab.com/gitlab-org/gitlab/-/issues/380872
+Registering runner... succeeded                     runner=GR1348941XFBuSpcs
+Enter an executor: docker-autoscaler, docker+machine, docker-ssh+machine, custom, docker, docker-windows, ssh, virtualbox, instance, docker-ssh, parallels, shell, kubernetes:
+docker
+Enter the default Docker image (for example, ruby:2.7):
+
+Enter the default Docker image (for example, ruby:2.7):
+node:16-alpine
+Runner registered successfully. Feel free to start it, but if it's running already the config should be automatically reloaded!
+
+Configuration (with the authentication token) was saved in "/etc/gitlab-runner/config.toml"
 ```
 
 [shield-gitea]: https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=flat-square

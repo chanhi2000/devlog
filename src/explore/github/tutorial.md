@@ -41,6 +41,11 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [PRNDcompany/android-style-guide][PRNDcompany/android-style-guide]: 이 스타일 가이드는 PRND에서 개발되는 모든 안드로이드 프로젝트에 적용하기 위한 목적으로 작성되었습니다.
 - [codefarm0/Learning-Materials-By-Green-Learner][codefarm0/Learning-Materials-By-Green-Learner]: Topic wise details of all the courses published on youtube channel of Green Learner. Now it will be more easy to link the different videos of each course.
   - [🌐Official Site](https://youtube.com/greenlearner)
+- [amigoscode/full-stack-professional][amigoscode/full-stack-professional]
+  - [🌐Official Site](https://amigoscode.com/courses/full-stack-professional)
+- [iluwatar/java-design-patterns][iluwatar/java-design-patterns]: Design patterns implemented in Java <GithubTags tagItems="java;snippets;design-patterns;principles;awesome-list;hacktoberfest;snippets-library;snippets-collection" />
+  - [🌐Official Site](https://java-design-patterns.com)
+
 
 
 
@@ -188,6 +193,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [ripienaar/free-for-devs][ripienaar/free-for-dev]: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
   - [🌐Official Site](https://free-for.dev)
 - [kodekloudhub/linux-basics-course][kodekloudhub/linux-basics-course]
+- [aws/containers-roadmap][aws/containers-roadmap]: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). <GithubTags tagItems="kubernetes;aws;roadmap;containers;ecs;ecr;fargate;eks"/>
+  - [🌐Official Site](https://aws.amazon.com/about-aws/whats-new/containers)
+
 
 ---
 
@@ -254,6 +262,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [preslavmihaylov/booknotes]: https://github.com/preslavmihaylov/booknotes
 [PRNDcompany/android-style-guide]: https://github.com/PRNDcompany/android-style-guide
 [codefarm0/Learning-Materials-By-Green-Learner]: https://github.com/codefarm0/Learning-Materials-By-Green-Learner
+[amigoscode/full-stack-professional]: https://github.com/amigoscode/full-stack-professional
+[iluwatar/java-design-patterns]: https://github.com/iluwatar/java-design-patterns
 <!-- Kotlin -->
 [Kotlin/KEEP]: https://github.com/Kotlin/KEEP
 [tarek360/Kotlin-JavaScript-Lottie-Example]: https://github.com/tarek360/Kotlin-JavaScript-Lottie-Example
@@ -324,6 +334,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [MichaelCade/90DaysOfDevOps]: https://github.com/MichaelCade/90DaysOfDevOps
 [ripienaar/free-for-dev]: https://github.com/ripienaar/free-for-dev
 [kodekloudhub/linux-basics-course]: https://github.com/kodekloudhub/linux-basics-course
+[aws/containers-roadmap]: https://github.com/aws/containers-roadmap
 <!-- Machine Learning -->
 [DataTalksClub/mlops-zoomcamp]: https://github.com/DataTalksClub/mlops-zoomcamp
 [curiousily/Getting-Things-Done-with-Pytorch]: https://github.com/curiousily/Getting-Things-Done-with-Pytorch

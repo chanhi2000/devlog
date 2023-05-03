@@ -37,6 +37,20 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="4Rxuc4BcW8o" title="Creating and Publishing Swift Packages (Swift Package Manager)" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="qOMWbUZk5lY" title="Building Chat Bubbles in SwiftUI" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="v6SMV_TUOJk" title="Building a ChatGPT macOS Toolbar App Using SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="FNYVHNSLFbs" title="What I am working on (macOS Maps App for new macOS Course)" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="9DDX3US3kss" title="Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="A3zMF8s_YxU" title="Wrapping HStack in SwiftUI" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="hoyNvrXSK6A" title="Build a Complete Gardening App in SwiftUI #3 - Configure Core Data" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="qvdl5PeRCnU" title="Build a Complete Gardening App in SwiftUI #2 - Displaying Vegetable Details" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="P7xPdrUktQg" title="TouchID Authentication in a SwiftUI App" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="WcHH4CYspgI" title="Understanding Dependency Injection in Swift" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="Bqt2j_vFI9c" title="Creating Documentation Using DocC" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="Rhni99ZrLd4" title="Building a NearMe App in SwiftUI Using MVVM Pattern" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="JQiCCdDUBcQ" title="AWSAmplify DataStore with" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="PDrKvQrgAQQ" title="NEW COURSE - Core Data in iOS" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="V5EDE5CNKvc" title="Weather App Using SwiftUI - Part 2 (Decoding JSON)" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="R9Bk8u4SesY" title="NEW COURSE - Server Side Swift Using Vapor 4" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="ZEmsgQj5OWI" title="NEW COURSE:  Build Real-Time Chat App with SwiftUI &amp; Firebase" />
 
 :::
 
@@ -196,6 +210,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="08JnjnY5Lo0" title="Hacking with Swift Project 1 – Storm Viewer" />
 <YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="6Eo5AoPIg7k" title="Xcode in 20 Seconds: Named colors" />
 <YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="ueByb0MBMQ4" title="Advanced Coordinators in iOS" />
+<YoutubeItem channelName="Paul Hudson" channelId="twostraws" id="U1gP4EcT_wQ" title="What Star Wars Can Teach Us About Swift" />
 
 :::
 
@@ -290,6 +305,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="7lATmhBIRsM" title="How to Set Up the UIStepper in One Minute" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="IIDiqgdn2yo" title="SwiftUI Basics for Beginners (2020)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="GDJQkyA9n50" title="Xcode Tips - How to Find The Detailed Error Message For Your App Crash" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="67ImaQ5P2Oc" title="Introducing the SwiftUI Menu App Series!" />
 
 :::
 
@@ -410,6 +426,24 @@ tags: ["education", "youtube", "ios", "swift"]
 
 :::
 
+<!-- Async Swift Korea -->
+
+---
+
+## Let Create An App
+
+[Let Create An App][yu-let-create-an-app]
+
+::: details 목록
+
+<YoutubeItem channelName="Let Create An App" channelId="LetCreateAnApp" id="0gQKlkV39M8" title="Adding Support of Dark Mode in iOS App in Swift" />
+<YoutubeItem channelName="Let Create An App" channelId="LetCreateAnApp" id="8zlaj9mFbuQ" title="SwiftUI: Create Tabbed View in SwiftUI." />
+<YoutubeItem channelName="Let Create An App" channelId="LetCreateAnApp" id="cC6t2C4rlIE" title="Swift 4.0: How to use UITapGestureRecognizer (Xcode 9.0)" />
+
+:::
+
+<!-- Let Create An App -->
+
 <TagLinks/>
 
 [yu-azamsharp]: https://www.youtube.com/@azamsharp
@@ -420,6 +454,8 @@ tags: ["education", "youtube", "ios", "swift"]
 [yu-kilo-loco]: https://www.youtube.com/@Kilo_Loco
 [yu-code-w-chris]: https://www.youtube.com/@CodeWithChris
 [yu-brian-advent]: https://www.youtube.com/@BrianAdvent
+[yu-swifttutorials4691]: https://www.youtube.com/@swifttutorials4691
 [yu-lets-build-that-app]: https://www.youtube.com/@LetsBuildThatApp
 [yu-paul-colton]: https://www.youtube.com/@PaulColton
 [yu-asyncswiftkorea8910]: https://www.youtube.com/@asyncswiftkorea8910
+[yu-let-create-an-app]: https://www.youtube.com/@LetCreateAnApp

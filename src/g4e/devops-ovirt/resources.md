@@ -59,6 +59,7 @@ tags: ["bash", "sh"]
 - http://ovirt.github.io/ovirt-engine-api-model/4.5/
 - https://www.redhat.com/en/blog/ovirt-dockerized-part-1
 - https://www.gluster.org/ovirt-docker
+- [oVirt 4.4 : Configure oVirt Admin Node](https://www.server-world.info/en/note?os=CentOS_8&p=ovirt44&f=1)
 
 
 <TagLinks />

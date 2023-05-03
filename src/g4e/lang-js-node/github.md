@@ -361,8 +361,9 @@ meta:
   - [🌐Official Site](https://databerry.ai)
 - [calcom/cal.com][calcom/cal.com]: Scheduling infrastructure for absolutely everyone. <GithubTags tagItems="open-source;typescript;nextjs;postgresql;prisma;tailwindcss;trpc;next-auth;zod;turborepo;t3-stack"/>
   - [🌐Official Site](https://cal.com)
-
-
+- [FlowiseAI/Flowise][FlowiseAI/Flowise]: Drag & drop UI to build your customized LLM flow using LangchainJS
+  - [🌐Official Site](https://flowiseai.com)
+- [pixiv/ChatVRM][pixiv/ChatVRM]
 
 <TagLinks />
 
@@ -557,3 +558,5 @@ meta:
 [whoiskatrin/chart-gpt]: https://github.com/whoiskatrin/chart-gpt
 [gmpetrov/databerry]: https://github.com/gmpetrov/databerry
 [calcom/cal.com]: https://github.com/calcom/cal.com
+[FlowiseAI/Flowise]: https://github.com/FlowiseAI/Flowise
+[pixiv/ChatVRM]: https://github.com/pixiv/ChatVRM

@@ -86,6 +86,9 @@ meta:
   - [🌐Official Site](https://dataease.io)
 - [jbake-org/jbake][jbake-org/jbake]: Java based open source static site/blog generator for developers & designers.
   - [🌐Official Site](http://jbake.org)
+- [questdb/questdb][questdb/questdb]: An open source time-series database for fast ingest and SQL queries
+  - [🌐Official Site](http://jbake.org) <GithubTags tagItems="java;iot;postgres;sql;database;big-data;time-series;analytics;cpp;grafana;postgresql;simd;low-latency;financial-analysis;tsdb;hacktoberfest;time-series-database;questdb"/>
+
 
 ---
 
@@ -111,6 +114,9 @@ meta:
 - [netflix/dgs-framework][netflix/dgs-framework]: GraphQL for Java with Spring Boot made easy.
   - [🌐Official Site](https://netflix.github.io/dgs)
 - [cuynu/ytvanced][cuynu/ytvanced]: YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)
+- [ethereum-lists/chains][ethereum-lists/chains]: provides metadata for networkIDs and chainIDs <GithubTags tagItems="ethereum;chains;evm;hacktoberfest;eip155;chainid" />
+  - [🌐Official Site](https://chainid.network)
+
 
 
 ---
@@ -207,6 +213,7 @@ meta:
 [macrozheng/mall]: https://github.com/macrozheng/mall
 [dataease/dataease]: https://github.com/dataease/dataease
 [jbake-org/jbake]: https://github.com/jbake-org/jbake
+[questdb/questdb]:https://github.com/questdb/questdb
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

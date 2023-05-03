@@ -8,12 +8,7 @@ export const navbarEn: NavbarConfig = [
   },
   */
   {
-    text: '📖G4E',
-    link: '/g4e/README.md',
-  },
-  {
     text: '🗂️Catalogs',
-    link: '/catalogs/README.md',
     children: [
       {
         text: '🏁My Roadmap',
@@ -36,9 +31,6 @@ export const navbarEn: NavbarConfig = [
         ],
       }
     ],
-  }, {
-    text: '🌐Explore',
-    link: '/explore/README.md',
   }, {
     text: '🎓Academics',
     children: [
@@ -64,7 +56,7 @@ export const navbarEn: NavbarConfig = [
         ],
       }
     ],
-  },{
+  }, {
     text: '📍Misc.',
     children: [
       {
@@ -78,5 +70,11 @@ export const navbarEn: NavbarConfig = [
         link: "https://github.com/chanhi2000/devlog/issues",
       }
     ]
+  }, {
+    text: '📖G4E',
+    link: '/g4e/README.md',
+  }, {
+    text: '🌐Explore',
+    link: '/explore/README.md',
   }
 ];

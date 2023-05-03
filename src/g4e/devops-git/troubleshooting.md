@@ -12,6 +12,7 @@ tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credenti
 [[toc]]
 
 ---
+
 ## 💀Github으로 Push 오류
 
 ```
@@ -21,8 +22,6 @@ remote: Please see https://docs.github.com/en/get-started/getting-started-with-g
 
 - 😥Password로 인증처리를 할 수 없도록 되어 있음
 - 💊[\[Mac\] GitHub push token 오류 해결](https://hyeo-noo.tistory.com/184)
-
-
 
 ---
 ## 💀Push 오류

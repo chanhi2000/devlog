@@ -39,7 +39,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
 - [‘Gradle Kotlin DSL’ 이야기](https://techblog.woowahan.com/2625)
 - [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)
-
+- [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658)
 
 ---
 
@@ -148,6 +148,13 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
 - [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [Spring MVC on VSCode - Maven Project](https://dev.to/spaceofmiah/spring-mvc-on-vscode-maven-project-50g8#needful-vscode-extension)
+- [The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)
+
+---
+
+## Brunch
+
+- [내가 만든 서비스에 사용자가 급증하면 어떻게 해요?](https://brunch.co.kr/@jamess/45)
 
 ---
 
@@ -185,6 +192,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
 - [Java Annotated Monthly – September 2020](https://dzone.com/articles/java-annotated-monthly-september-2020)
 - [Project Management Tools are Plan-First, Not Develop-First. 3 Solutions.](https://dzone.com/articles/jira-is-a-microcosm-of-whats-broken-in-software-de)
+- [The Best of IoT: Tutorials and Articles](https://dzone.com/articles/the-best-of-iot-tutorials-and-articles)
+- [Top 13 GitHub Alternatives in 2020 [Free and Paid]](https://dzone.com/articles/top-13-github-alternatives-in-2020-free-and-paid)
 
 ---
 
@@ -308,10 +317,20 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works)
 - [[Jenkins] 젠킨스 설치 및 설정](https://roxxy.tistory.com/entry/Jenkins-%EC%A0%A0%ED%82%A8%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95)
 - [4-20-23: Windows on `btrfs`](https://www.lilysthings.org/blog/windows-on-btrfs)
-- [Determin If Your Linux Computer or Server is Hacked](https://hackingpassion.com/determine-if-your-linux-computer-or-server-is-hacked)
 - [늦깍이 공대생의 좌충우돌 이야기](https://elecs.tistory.com)
 - [꿈잡이 소굴](http://bedreams.tistory.com)
 - [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender)
+- [[연구자로 성장하기] Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기)](subinium.github.io/kep-vcc2020-review)
+- [Presto를 이용하여 Google Sheets와 mysql 등 DB 데이터 JOIN 하기](https://www.popit.kr/presto%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-google-sheets%EC%99%80-mysql-%EB%93%B1-db-%EB%8D%B0%EC%9D%B4%ED%84%B0-join-%ED%95%98%EA%B8%B0)
+- [유저 리텐션이 중요한 이유](https://blog.ab180.co/posts/retention-series-1)
+- [Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life)
+- [실전 Web Application 부하 테스트 - 2편](https://blog.imqa.io/loadtesting2)
+- [How to Configure NGINX as TCP/UDP Load Balancer in Linux](https://www.linuxtechi.com/configure-nginx-tcp-udp-loadbalancer-linux)
+- [미니멀한 디자인에 대한 가이드](https://brunch.co.kr/@yooldesign/28)
+- [요즘 읽는 디자인 블로그들](https://brunch.co.kr/@outlines/44)
+- [화살표에 대한 단상](https://brunch.co.kr/@meanimize/75)
+- [1px 보다 얇은 디자인 — 라인 편](https://brunch.co.kr/@euid/6)
+- [(요약) The mind behind Linux | Linus Torvalds](https://johngrib.github.io/wiki/summary-the-mind-behind-linux)
 
 ---
 

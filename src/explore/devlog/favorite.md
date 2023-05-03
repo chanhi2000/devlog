@@ -38,5 +38,5 @@ tags: ["favorite", "devlog", "github", "tistory"]
 - [GeekNews](https://news.hada.io)
 - [Tall, Snarky Canadian](https://snarky.ca)
 - [서버포럼](https://svrforum.com)
-
+- [Currl - A free text-based social bookmarking website. Collect links you love from around the web.](https://currl.io)
 <TagLinks />

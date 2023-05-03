@@ -15,6 +15,8 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-bash/basics.md',
         '/g4e/cli-bash/tips.md',
         '/g4e/cli-bash/troubleshooting.md',
+        '/g4e/cli-bash/references.md',
+        '/g4e/cli-bash/youtube.md',
       ]
     }, {
       text: '🧢Batch & Pwsh (Windows)',
@@ -133,6 +135,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-csharp/README.md',
         '/g4e/lang-csharp/references.md',
+        '/g4e/lang-csharp/github.md',
       ]
     }, 
     //endregion
@@ -145,6 +148,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-git/basics.md',
         '/g4e/devops-git/troubleshooting.md',
         '/g4e/devops-git/references.md',
+        '/g4e/devops-git/youtube.md',
       ]
     }, {
       text: '🧠Linux',
@@ -152,6 +156,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/devops-os/README.md',
         '/g4e/devops-os/env-setup.md',
+        '/g4e/devops-os/youtube.md',
       ]
     }, {
       text: '🖥️macOS',
@@ -185,8 +190,26 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/devops-docker/README.md',
         '/g4e/devops-docker/basics.md',
+        '/g4e/devops-docker/gitlab.md',
+        '/g4e/devops-docker/gitlab-runner.md',
         '/g4e/devops-docker/docker-compose.md',
         '/g4e/devops-docker/favorite-containers.md',
+        '/g4e/devops-docker/references.md',
+      ]
+    }, {
+      text: '☸️Kubernetes',
+      collapsible: true,
+      children: [
+        '/g4e/devops-kubernetes/README.md',
+        '/g4e/devops-kubernetes/references.md',
+      ]
+    }, {
+      text: '🛡Security',
+      collapsible: true,
+      children: [
+        '/g4e/devops-security/README.md',
+        '/g4e/devops-security/references.md',
+        '/g4e/devops-security/youtube.md',
       ]
     }, {
       text: '🤵🏻Jenkins',
@@ -194,6 +217,14 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/devops-jenkins/README.md',
         '/g4e/devops-jenkins/template.md',
+        '/g4e/devops-jenkins/references.md',
+      ]
+    }, {
+      text: '🍐Appium',
+      collapsible: true,
+      children: [
+        '/g4e/devops-appium/README.md',
+        '/g4e/devops-appium/references.md',
       ]
     }, {
       text: '📚Nexus Repository',
@@ -213,25 +244,32 @@ export const sidebarEn: SidebarConfig = {
       text: '🎩IDE & Text Editor',
       collapsible: true,
       children: [
-        '/g4e/devops-ide/README.md',
-        '/g4e/devops-ide/idea-plugins.md',
-        '/g4e/devops-ide/idea-troubleshooting.md',
-        '/g4e/devops-ide/vscode-plugins.md',
-        '/g4e/devops-ide/vim-tips.md',
-        '/g4e/devops-ide/dbeaver-hotkey.md',
-        '/g4e/devops-ide/dbeaver-jdbc.md',
-        '/g4e/devops-ide/dbeaver-qtmplt.md',
+        '/g4e/tool-ide/README.md',
+        '/g4e/tool-ide/idea-plugins.md',
+        '/g4e/tool-ide/idea-troubleshooting.md',
+        '/g4e/tool-ide/vscode-plugins.md',
+        '/g4e/tool-ide/vim-tips.md',
+        '/g4e/tool-ide/dbeaver-hotkey.md',
+        '/g4e/tool-ide/dbeaver-jdbc.md',
+        '/g4e/tool-ide/dbeaver-qtmplt.md',
       ]
     },
     //endregion
     //region: DB
     {
+      text: '🐬MySQL',
+      collapsible: true,
+      children: [
+        '/g4e/db-mysql/README.md',
+        '/g4e/db-mysql/query.md',
+        '/g4e/db-mysql/references.md',
+      ]
+    }, {
       text: '🔎SQL',
       collapsible: true,
       children: [
         '/g4e/sql/README.md',
         '/g4e/sql/postgresql.md',
-        '/g4e/sql/mysql.md',
         '/g4e/sql/cubrid.md',
         '/g4e/sql/oracle.md',
         '/g4e/sql/tibero.md',

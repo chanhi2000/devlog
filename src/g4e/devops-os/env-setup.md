@@ -7,6 +7,8 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
 [[toc]]
 
 ---
@@ -14,5 +16,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 ## `apt`
 
 - http://jonls.dk/redshift
+
+---
 
 <TagLinks />

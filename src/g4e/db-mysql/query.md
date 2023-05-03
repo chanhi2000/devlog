@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: MySQL
-description: 🔎SQL > MySQL
+title: 🔍Query
+description: 🐬MySQL > 🔍Query
 tags: ["sql", "mysql", "mysql5", "ddl", "dml", "sql-privilege"]
 ---
 

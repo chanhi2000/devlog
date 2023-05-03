@@ -155,7 +155,7 @@ function openWspHomeAndroidWeb2()
 }
 
 $env:PATH += ";$env:UserProfile\scoop\apps\oh-my-posh\current\bin"
-oh-my-posh --init --shell pwsh --config "$env:UserProfile\scoop\apps\oh-my-posh\current\themes\agnoster.omp.json" | Invoke-Expression
+oh-my-posh --init --shell pwsh --config "$env:UserProfile\scoop\apps\oh-my-posh\current\themes\dracula.omp.json" | Invoke-Expression
 Import-Module Terminal-Icons
 neofetch
 ```

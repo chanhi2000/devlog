@@ -236,41 +236,60 @@ Terraform GCS Backend
 [Naveen AutomationLabs][yu-naveenautomationlabs]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=kQdD2WmRozE"><img width="140px" height="auto" alt="thumb-kQdD2WmRozE" src="https://i.ytimg.com/vi/kQdD2WmRozE/hqdefault.jpg"/></a> | [Agile Scrum and JIRA Tutorial - End to End Project Setup and Dashboard \[Latest 2022\]](https://www.youtube.com/watch?v=kQdD2WmRozE) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kwhn2nJpVNc"><img width="140px" height="auto" alt="thumb-kwhn2nJpVNc" src="https://i.ytimg.com/vi/kwhn2nJpVNc/hqdefault.jpg"/></a> | [#3 - GET API CALL in KARATE Framework](https://www.youtube.com/watch?v=kwhn2nJpVNc) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xzq6JJZ0Oj8"><img width="140px" height="auto" alt="thumb-xzq6JJZ0Oj8" src="https://i.ytimg.com/vi/xzq6JJZ0Oj8/hqdefault.jpg"/></a> | [#1 - Karate Framework - Introduction &amp; Setup Installation](https://www.youtube.com/watch?v=xzq6JJZ0Oj8) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ap1EteUw_9o"><img width="140px" height="auto" alt="thumb-Ap1EteUw_9o" src="https://i.ytimg.com/vi/Ap1EteUw_9o/hqdefault.jpg"/></a> | [Do you really need Postman? \| Use Thunder Client - VSCode extension \| Easy &amp; Lightweight](https://www.youtube.com/watch?v=Ap1EteUw_9o) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TeVB2tyeWyw"><img width="140px" height="auto" alt="thumb-TeVB2tyeWyw" src="https://i.ytimg.com/vi/TeVB2tyeWyw/hqdefault.jpg"/></a> | [\#1 - Gatling \(Performance Load Testing Tool\) - Setup and Installation \(Windows/Mac\)](https://www.youtube.com/watch?v=TeVB2tyeWyw) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tI4O-6dVjsw"><img width="140px" height="auto" alt="thumb-tI4O-6dVjsw" src="https://i.ytimg.com/vi/tI4O-6dVjsw/hqdefault.jpg"/></a> | [PART 7 : How to Write Pending Tests and Maintain Unique Session in Serenity](https://www.youtube.com/watch?v=tI4O-6dVjsw) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PzOZggL6ewo"><img width="140px" height="auto" alt="thumb-PzOZggL6ewo" src="https://i.ytimg.com/vi/PzOZggL6ewo/hqdefault.jpg"/></a> | [\#8 - Hooks in #Cucumber \(Before/After Hooks in Cucumber\)](https://www.youtube.com/watch?v=PzOZggL6ewo) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Q3JrBokM4FQ"><img width="140px" height="auto" alt="thumb-Q3JrBokM4FQ" src="https://i.ytimg.com/vi/Q3JrBokM4FQ/hqdefault.jpg"/></a> | [Selenium Integration with SauceLabs \|\| Run Selenium Test on SauceLabs Cloud](https://www.youtube.com/watch?v=Q3JrBokM4FQ) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5S7ev-GMyOM"><img width="140px" height="auto" alt="thumb-5S7ev-GMyOM" src="https://i.ytimg.com/vi/5S7ev-GMyOM/hqdefault.jpg"/></a> | [Run Selenium Test on MS Azure Pipeline \|\| Azure Cloud](https://www.youtube.com/watch?v=5S7ev-GMyOM) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oQWxfVbFwjY"><img width="140px" height="auto" alt="thumb-oQWxfVbFwjY" src="https://i.ytimg.com/vi/oQWxfVbFwjY/hqdefault.jpg"/></a> | [Java Multithreading Concept in Selenium WebDriver \(No TestNG\) \|\| Run it from Maven - Jenkins](https://www.youtube.com/watch?v=oQWxfVbFwjY) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=x54jV24gWdE"><img width="140px" height="auto" alt="thumb-x54jV24gWdE" src="https://i.ytimg.com/vi/x54jV24gWdE/hqdefault.jpg"/></a> | [Reusable commands in Cypress \|\| Write Generic Functions - Part - 14](https://www.youtube.com/watch?v=x54jV24gWdE) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2nPARZDDGZg"><img width="140px" height="auto" alt="thumb-2nPARZDDGZg" src="https://i.ytimg.com/vi/2nPARZDDGZg/hqdefault.jpg"/></a> | [Handle CheckBoxes in Cypress - Part -13](https://www.youtube.com/watch?v=2nPARZDDGZg) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rTr3KCQx0ik"><img width="140px" height="auto" alt="thumb-rTr3KCQx0ik" src="https://i.ytimg.com/vi/rTr3KCQx0ik/hqdefault.jpg"/></a> | [Getting Started with GraphQL](https://www.youtube.com/watch?v=rTr3KCQx0ik) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CnwOEkIYSUk"><img width="140px" height="auto" alt="thumb-CnwOEkIYSUk" src="https://i.ytimg.com/vi/CnwOEkIYSUk/hqdefault.jpg"></a> | [Window App Automation using - Microsoft WinAppDriver](https://www.youtube.com/watch?v=CnwOEkIYSUk) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F6oxQD7YlAA"><img width="140px" height="auto" alt="thumb-F6oxQD7YlAA" src="https://i.ytimg.com/vi/F6oxQD7YlAA/hqdefault.jpg"></a> | [Binary Tree PostOrder traversal in java - DataStructure - Part -6](https://www.youtube.com/watch?v=F6oxQD7YlAA) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2iYMHUPcGwU"><img width="140px" height="auto" alt="thumb-2iYMHUPcGwU" src="https://i.ytimg.com/vi/2iYMHUPcGwU/hqdefault.jpg"></a> | [JMeter Variables, Random Number, Functions in JMeter - Part -7](https://www.youtube.com/watch?v=2iYMHUPcGwU) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1Ur5FKQBHk0"><img width="140px" height="auto" alt="thumb-1Ur5FKQBHk0" src="https://i.ytimg.com/vi/1Ur5FKQBHk0/hqdefault.jpg"></a> | [Home Page Test - WebDriverIO Page Object Model Framework Design - Part 3](https://www.youtube.com/watch?v=1Ur5FKQBHk0) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=K8nIURvXbU0"><img width="140px" height="auto" alt="thumb-K8nIURvXbU0" src="https://i.ytimg.com/vi/K8nIURvXbU0/hqdefault.jpg"></a> | [Bamboo CI integration with Selenium \|\| Run test from Bamboo \|\| Installation &amp; Setup](https://www.youtube.com/watch?v=K8nIURvXbU0) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wszi0H-auaM"><img width="140px" height="auto" alt="thumb-wszi0H-auaM" src="https://i.ytimg.com/vi/wszi0H-auaM/hqdefault.jpg"></a> | [WebDriverIO Page Object Model Framework Design - Part 1](https://www.youtube.com/watch?v=wszi0H-auaM) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3bVCnW2skUU"><img width="140px" height="auto" alt="thumb-3bVCnW2skUU" src="https://i.ytimg.com/vi/3bVCnW2skUU/hqdefault.jpg"></a> | [How to use Data Files in Tests In WebDriverIO - Part - 22](https://www.youtube.com/watch?v=3bVCnW2skUU) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ipcPPSGQWAk"><img width="140px" height="auto" alt="thumb-ipcPPSGQWAk" src="https://i.ytimg.com/vi/ipcPPSGQWAk/hqdefault.jpg"></a> | [What is `XMs` - `XMx` - How to control Java heap size \(memory\) allocation](https://www.youtube.com/watch?v=ipcPPSGQWAk) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DW2NMjjVFro"><img width="140px" height="auto" alt="thumb-DW2NMjjVFro" src="https://i.ytimg.com/vi/DW2NMjjVFro/hqdefault.jpg"></a> | [Configure Environment URLs in WebDriverIO - Part - 23](https://www.youtube.com/watch?v=DW2NMjjVFro) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U_GwgpHi4a8"><img width="140px" height="auto" alt="thumb-U_GwgpHi4a8" src="https://i.ytimg.com/vi/U_GwgpHi4a8/hqdefault.jpg"></a> | [WaitForExist Sync method in WebDriverIO - Part - 16](https://www.youtube.com/watch?v=U_GwgpHi4a8) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TUGYTmNQtWc"><img width="140px" height="auto" alt="thumb-TUGYTmNQtWc" src="https://i.ytimg.com/vi/TUGYTmNQtWc/hqdefault.jpg"></a> | [ExplicitWait - WaitUntil method in WebDriverIO - Part - 17](https://www.youtube.com/watch?v=TUGYTmNQtWc) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NiqaO9nhABQ"><img width="140px" height="auto" alt="thumb-NiqaO9nhABQ" src="https://i.ytimg.com/vi/NiqaO9nhABQ/hqdefault.jpg"></a> | [ExplicitWait - WaitUntil for Page Title in WebDriverIO - Part - 18](https://www.youtube.com/watch?v=NiqaO9nhABQ) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ea0P7MBQmiM"><img width="140px" height="auto" alt="thumb-ea0P7MBQmiM" src="https://i.ytimg.com/vi/ea0P7MBQmiM/hqdefault.jpg"></a> | [Page Object Model \(POM\) Design With Selenium - Part -3](https://www.youtube.com/watch?v=ea0P7MBQmiM) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3uktjWgKrtI"><img width="140px" height="auto" alt="thumb-3uktjWgKrtI" src="https://i.ytimg.com/vi/3uktjWgKrtI/hqdefault.jpg"></a> | [How to Become Genius in XPath in Selenium  - Session -18](https://www.youtube.com/watch?v=3uktjWgKrtI) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8bIxLxSovws"><img width="140px" height="auto" alt="thumb-8bIxLxSovws" src="https://i.ytimg.com/vi/8bIxLxSovws/hqdefault.jpg"></a> | [`@Parameters` in TestNg: How to pass parameter from `testing.xml`](https://www.youtube.com/watch?v=8bIxLxSovws) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=P9ZWOWm7i0k"><img width="140px" height="auto" alt="thumb-P9ZWOWm7i0k" src="https://i.ytimg.com/vi/P9ZWOWm7i0k/hqdefault.jpg"></a> | [Architecture of Page Object Model \(POM\) Design With Selenium - Part -1](https://www.youtube.com/watch?v=P9ZWOWm7i0k) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uatGjMOapK8"><img width="140px" height="auto" alt="thumb-uatGjMOapK8" src="https://i.ytimg.com/vi/uatGjMOapK8/hqdefault.jpg"></a> | [DataProvider In TestNG - Data Driven Framework in Selenium - Part 3](https://www.youtube.com/watch?v=uatGjMOapK8) <br/><br/> _[Naveen AutomationLabs][yu-naveenautomationlabs]_ |
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="kQdD2WmRozE" title="Agile Scrum and JIRA Tutorial - End to End Project Setup and Dashboard \[Latest 2022\]" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="kwhn2nJpVNc" title="#3 - GET API CALL in KARATE Framework" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="xzq6JJZ0Oj8" title="#1 - Karate Framework - Introduction &amp; Setup Installation" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="Ap1EteUw_9o" title="Do you really need Postman? \| Use Thunder Client - VSCode extension \| Easy &amp; Lightweight" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="TeVB2tyeWyw" title="\#1 - Gatling \(Performance Load Testing Tool\) - Setup and Installation \(Windows/Mac\)" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="tI4O-6dVjsw" title="PART 7 : How to Write Pending Tests and Maintain Unique Session in Serenity" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="PzOZggL6ewo" title="\#8 - Hooks in #Cucumber \(Before/After Hooks in Cucumber\)" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="Q3JrBokM4FQ" title="Selenium Integration with SauceLabs \|\| Run Selenium Test on SauceLabs Cloud" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="5S7ev-GMyOM" title="Run Selenium Test on MS Azure Pipeline \|\| Azure Cloud" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="oQWxfVbFwjY" title="Java Multithreading Concept in Selenium WebDriver \(No TestNG\) \|\| Run it from Maven - Jenkins" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="x54jV24gWdE" title="Reusable commands in Cypress \|\| Write Generic Functions - Part - 14" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="2nPARZDDGZg" title="Handle CheckBoxes in Cypress - Part -13" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="rTr3KCQx0ik" title="Getting Started with GraphQL" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="CnwOEkIYSUk" title="Window App Automation using - Microsoft WinAppDriver" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="F6oxQD7YlAA" title="Binary Tree PostOrder traversal in java - DataStructure - Part -6" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="2iYMHUPcGwU" title="JMeter Variables, Random Number, Functions in JMeter - Part -7" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="1Ur5FKQBHk0" title="Home Page Test - WebDriverIO Page Object Model Framework Design - Part 3" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="K8nIURvXbU0" title="Bamboo CI integration with Selenium \|\| Run test from Bamboo \|\| Installation &amp; Setup" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="wszi0H-auaM" title="WebDriverIO Page Object Model Framework Design - Part 1" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="3bVCnW2skUU" title="How to use Data Files in Tests In WebDriverIO - Part - 22" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="ipcPPSGQWAk" title="What is `XMs` - `XMx` - How to control Java heap size \(memory\) allocation" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="DW2NMjjVFro" title="Configure Environment URLs in WebDriverIO - Part - 23" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="U_GwgpHi4a8" title="WaitForExist Sync method in WebDriverIO - Part - 16" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="TUGYTmNQtWc" title="ExplicitWait - WaitUntil method in WebDriverIO - Part - 17" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="NiqaO9nhABQ" title="ExplicitWait - WaitUntil for Page Title in WebDriverIO - Part - 18" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="ea0P7MBQmiM" title="Page Object Model \(POM\) Design With Selenium - Part -3" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="3uktjWgKrtI" title="How to Become Genius in XPath in Selenium  - Session -18" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="8bIxLxSovws" title="`@Parameters` in TestNg: How to pass parameter from `testing.xml`" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="P9ZWOWm7i0k" title="Architecture of Page Object Model \(POM\) Design With Selenium - Part -1" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="uatGjMOapK8" title="DataProvider In TestNG - Data Driven Framework in Selenium - Part 3" />
+<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="WCXuToHC6aA" title="Part 6 - POST CALL with POJO Class || Playwright Java API Automation" />
+
+
 :::
 
 <!-- Naveen AutomationLabs -->
+
+---
+
+## Bouali Ali
+
+[Bouali Ali][yu-bouali-ali]
+
+::: details 목록
+
+<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="8lG6iwzdc2I" title="MongoDB + Spring Boot 3 | Crash Course" />
+<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="BVdQ3iuovg0" title="Spring boot 3.0 - Secure your API with JWT Token [2023]" />
+<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="MhZl4YikM20" title="Spring Boot Exception Handling Made Easy" />
+<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="wsq1-m1dy_I" title="Spring Boot Tutorial For Beginners" />
+<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="EnUsNVHveyU" title="Reactive Programming with Spring Boot | A Beginner's Guide" />
+
+:::
+
+<!-- Bouali Ali -->
 
 ---
 
@@ -372,6 +391,10 @@ Terraform GCS Backend
 | ❌ | <a href="https://www.youtube.com/watch?v=hxZuLn_DHoM"><img width="140px" height="auto" alt="thumb-hxZuLn_DHoM" src="https://i.ytimg.com/vi/hxZuLn_DHoM/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication](https://www.youtube.com/watch?v=hxZuLn_DHoM) <br/><br/> _[Java Guides][yu-java-guides]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=fUsKNjGO4Is"><img width="140px" height="auto" alt="thumb-fUsKNjGO4Is" src="https://i.ytimg.com/vi/fUsKNjGO4Is/hqdefault.jpg"/></a> | [Spring Core: Why Constructor Based Dependency Injection is Recommended?](https://www.youtube.com/watch?v=fUsKNjGO4Is) <br/><br/> _[Java Guides][yu-java-guides]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=hxZuLn_DHoM"><img width="140px" height="auto" alt="thumb-hxZuLn_DHoM" src="https://i.ytimg.com/vi/hxZuLn_DHoM/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication](https://www.youtube.com/watch?v=hxZuLn_DHoM) <br/><br/> _[Java Guides][yu-java-guides]_ |
+
+JrkHCGDZB3w
+Spring &amp; Spring Boot Annotations Series - #10  - `@PropertySource` and `@PropertySources` Annotations
+
 
 :::
 
@@ -486,6 +509,72 @@ Set up Logging with Log4j2 in Java and IntelliJ IDEA
 
 :::
 
+---
+
+## Daily Code Buffer
+
+[Daily Code Buffer][yu-daily-code-buffer]
+
+::: details 목록
+
+| ❌ | <a href="https://www.youtube.com/watch?v=vZO7Qh6riS8"><img width="140px" height="auto" alt="thumb-vZO7Qh6riS8" src="https://i.ytimg.com/vi/vZO7Qh6riS8/hqdefault.jpg"/></a> | [Building REST API with Spring Boot - Keyboard Typing ASMR](https://www.youtube.com/watch?v=vZO7Qh6riS8) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=hPtR_-EQU-4"><img width="140px" height="auto" alt="thumb-hPtR_-EQU-4" src="https://i.ytimg.com/vi/hPtR_-EQU-4/hqdefault.jpg"/></a> | [Redis Stack Crash Course with Spring Boot](https://www.youtube.com/watch?v=hPtR_-EQU-4) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=zvR-Oif_nxg"><img width="140px" height="auto" alt="thumb-zvR-Oif_nxg" src="https://i.ytimg.com/vi/zvR-Oif_nxg/hqdefault.jpg"/></a> | [Spring Boot Complete Tutorial  - Master Class](https://www.youtube.com/watch?v=zvR-Oif_nxg) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=E8gaRFMXS9Y"><img width="140px" height="auto" alt="thumb-E8gaRFMXS9Y" src="https://i.ytimg.com/vi/E8gaRFMXS9Y/hqdefault.jpg"/></a> | [Full Stack Application with Spring Boot, Next.js, Tailwind CSS &amp; Next-Auth.js](https://www.youtube.com/watch?v=E8gaRFMXS9Y) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=tDZPdovCH4I"><img width="140px" height="auto" alt="thumb-tDZPdovCH4I" src="https://i.ytimg.com/vi/tDZPdovCH4I/hqdefault.jpg"/></a> | [Spring Security Tutorial with Login Example \(Spring Boot + Spring Security + MySQL\)](https://www.youtube.com/watch?v=tDZPdovCH4I) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=5lJaUN0bIy0"><img width="140px" height="auto" alt="thumb-5lJaUN0bIy0" src="https://i.ytimg.com/vi/5lJaUN0bIy0/hqdefault.jpg"/></a> | [Docker for Beginners:- Complete Course 2021](https://www.youtube.com/watch?v=5lJaUN0bIy0) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZXlxQ3z4zDE"><img width="140px" height="auto" alt="thumb-ZXlxQ3z4zDE" src="https://i.ytimg.com/vi/ZXlxQ3z4zDE/hqdefault.jpg"/></a> | [How to Schedule Tasks/Jobs in Springboot using @Scheduled annotation](https://www.youtube.com/watch?v=ZXlxQ3z4zDE) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=lA18U8dGKF8"><img width="140px" height="auto" alt="thumb-lA18U8dGKF8" src="https://i.ytimg.com/vi/lA18U8dGKF8/hqdefault.jpg"/></a> | [Implementing JWT \(JSON Web Tokens\) with Spring Security in Springboot App](https://www.youtube.com/watch?v=lA18U8dGKF8) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=BnknNTN8icw"><img width="140px" height="auto" alt="thumb-BnknNTN8icw" src="https://i.ytimg.com/vi/BnknNTN8icw/hqdefault.jpg"/></a> | [Microservices using SpringBoot \| Full Example](https://www.youtube.com/watch?v=BnknNTN8icw) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=vYLlxxD_6LA"><img width="140px" height="auto" alt="thumb-vYLlxxD_6LA" src="https://i.ytimg.com/vi/vYLlxxD_6LA/hqdefault.jpg"/></a> | [Amazon Simple Queue Service \(SQS\) with SpringBoot \| Spring Cloud AWS](https://www.youtube.com/watch?v=vYLlxxD_6LA) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=cRCxw314Ts0"><img width="140px" height="auto" alt="thumb-cRCxw314Ts0" src="https://i.ytimg.com/vi/cRCxw314Ts0/hqdefault.jpg"/></a> | [Docker Tutorial - Most used Docker Commands With Examples \| Docker Training \| Daily Code Buffer](https://www.youtube.com/watch?v=cRCxw314Ts0) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=PpkPTviLTLs"><img width="140px" height="auto" alt="thumb-PpkPTviLTLs" src="https://i.ytimg.com/vi/PpkPTviLTLs/hqdefault.jpg"/></a> | [How to implement Redis in Spring Boot using Spring Data Redis &amp; Jedis](https://www.youtube.com/watch?v=PpkPTviLTLs) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=XjoVUx2ppDY"><img width="140px" height="auto" alt="thumb-XjoVUx2ppDY" src="https://i.ytimg.com/vi/XjoVUx2ppDY/hqdefault.jpg"/></a> | [Quarkus Tutorial with Spring Web, H2 and Panache](https://www.youtube.com/watch?v=XjoVUx2ppDY) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=UZWOb9ce6go"><img width="140px" height="auto" alt="thumb-UZWOb9ce6go" src="https://i.ytimg.com/vi/UZWOb9ce6go/hqdefault.jpg"/></a> | [JaCoCo Code Coverage Tutorial with Spring Boot](https://www.youtube.com/watch?v=UZWOb9ce6go) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=EUzH9khPYgs"><img width="140px" height="auto" alt="thumb-EUzH9khPYgs" src="https://i.ytimg.com/vi/EUzH9khPYgs/hqdefault.jpg"/></a> | [How to Install Apache Kafka on Windows](https://www.youtube.com/watch?v=EUzH9khPYgs) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AioHZDaL4Jw"><img width="140px" height="auto" alt="thumb-AioHZDaL4Jw" src="https://i.ytimg.com/vi/AioHZDaL4Jw/hqdefault.jpg"/></a> | [Spring Boot with Kotlin Tutorial](https://www.youtube.com/watch?v=AioHZDaL4Jw) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=F_g44rliu6M"><img width="140px" height="auto" alt="thumb-F_g44rliu6M" src="https://i.ytimg.com/vi/F_g44rliu6M/hqdefault.jpg"/></a> | [Dockerize Spring Boot App using Maven Plugin](https://www.youtube.com/watch?v=F_g44rliu6M) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=QWsWx4SS05I"><img width="140px" height="auto" alt="thumb-QWsWx4SS05I" src="https://i.ytimg.com/vi/QWsWx4SS05I/hqdefault.jpg"/></a> | [OAuth2 Spring Security using Facebook in Spring Boot](https://www.youtube.com/watch?v=QWsWx4SS05I) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=oz-QSGy1DSo"><img width="140px" height="auto" alt="thumb-oz-QSGy1DSo" src="https://i.ytimg.com/vi/oz-QSGy1DSo/hqdefault.jpg"/></a> | [Quarkus vs Spring Boot - Performance](https://www.youtube.com/watch?v=oz-QSGy1DSo) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=haVMaDiAGSw"><img width="140px" height="auto" alt="thumb-haVMaDiAGSw" src="https://i.ytimg.com/vi/haVMaDiAGSw/hqdefault.jpg"></a> | [Spring Boot 3.0 \| New Features in Spring Framework 6 and Spring Boot 3](https://www.youtube.com/watch?v=haVMaDiAGSw) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
+
+HFl2dzhVuUo
+Microservices using SpringBoot 3.0 | Full Example [NEW]
+
+:::
+
+---
+
+## Dan Vega
+
+[Dan Vega][yu-dan-vega]
+
+::: details 목록
+
+| ❌ | <a href="https://www.youtube.com/watch?v=TR254zh-f3c"><img width="140px" height="auto" alt="thumb-TR254zh-f3c" src="https://i.ytimg.com/vi/TR254zh-f3c/hqdefault.jpg"/></a> | [Spring Boot 3 - What’s new in Spring Framework 6 and Spring Boot 3.0](https://www.youtube.com/watch?v=TR254zh-f3c) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=KYNR5js2cXE"><img width="140px" height="auto" alt="thumb-KYNR5js2cXE" src="https://i.ytimg.com/vi/KYNR5js2cXE/hqdefault.jpg"/></a> | [Spring Security JWT: How to secure your Spring Boot REST APIs with JSON Web Tokens](https://www.youtube.com/watch?v=KYNR5js2cXE) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=_Gdb-jK3Sr4"><img width="140px" height="auto" alt="thumb-_Gdb-jK3Sr4" src="https://i.ytimg.com/vi/_Gdb-jK3Sr4/hqdefault.jpg"/></a> | [Spring Boot Docker and PostgreSQL](https://www.youtube.com/watch?v=_Gdb-jK3Sr4) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=PkhsQPPFgOo"><img width="140px" height="auto" alt="thumb-PkhsQPPFgOo" src="https://i.ytimg.com/vi/PkhsQPPFgOo/hqdefault.jpg"/></a> | [Spring Boot GraphQL How to secure your GraphQL APIs in Java](https://www.youtube.com/watch?v=PkhsQPPFgOo) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ItXWciOE7OI"><img width="140px" height="auto" alt="thumb-ItXWciOE7OI" src="https://i.ytimg.com/vi/ItXWciOE7OI/hqdefault.jpg"/></a> | [Building REST APIs with Spring Boot \(live stream replay\)](https://www.youtube.com/watch?v=ItXWciOE7OI) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=2G6r2f40Lps"><img width="140px" height="auto" alt="thumb-2G6r2f40Lps" src="https://i.ytimg.com/vi/2G6r2f40Lps/hqdefault.jpg"/></a> | [Spring Boot and Vue JS: Full Stack Java Development](https://www.youtube.com/watch?v=2G6r2f40Lps) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=nugg5Zst1Nc"><img width="140px" height="auto" alt="thumb-nugg5Zst1Nc" src="https://i.ytimg.com/vi/nugg5Zst1Nc/hqdefault.jpg"/></a> | [Vue.js for Beginners: A beginner's guide to learn the basics of the JavaScript Framework Vue.js](https://www.youtube.com/watch?v=nugg5Zst1Nc) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3VRQ0N_kEDQ"><img width="140px" height="auto" alt="thumb-3VRQ0N_kEDQ" src="https://i.ytimg.com/vi/3VRQ0N_kEDQ/hqdefault.jpg"></a> | [Java Reflection Tutorial: Learn the basics of Reflection in Java writing tests](https://www.youtube.com/watch?v=3VRQ0N_kEDQ) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=pNiRNRgi5Ws"><img width="140px" height="auto" alt="thumb-pNiRNRgi5Ws" src="https://i.ytimg.com/vi/pNiRNRgi5Ws/hqdefault.jpg"></a> | [Spring Boot Testing Basics: How to Unit Test &amp; Integration Test REST Controllers](https://www.youtube.com/watch?v=pNiRNRgi5Ws) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=HmdKqXP8JR8"><img width="140px" height="auto" alt="thumb-HmdKqXP8JR8" src="https://i.ytimg.com/vi/HmdKqXP8JR8/hqdefault.jpg"></a> | [Vue 3: Smaller, Faster &amp; Stronger. A look at the new features coming in the next version of Vue.js](https://www.youtube.com/watch?v=HmdKqXP8JR8) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=UAgO2JanN9Y"><img width="140px" height="auto" alt="thumb-UAgO2JanN9Y" src="https://i.ytimg.com/vi/UAgO2JanN9Y/hqdefault.jpg"></a> | [Hello Vue 3: A First Look at Vue 3 &amp; the Composition API](https://www.youtube.com/watch?v=UAgO2JanN9Y) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=1xuTqgilNzM"><img width="140px" height="auto" alt="thumb-1xuTqgilNzM" src="https://i.ytimg.com/vi/1xuTqgilNzM/hqdefault.jpg"></a> | [Introduction to Spring Shell (Part 2)](https://www.youtube.com/watch?v=1xuTqgilNzM) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=UgX5lgv4uVM"><img width="140px" height="auto" alt="thumb-UgX5lgv4uVM" src="https://i.ytimg.com/vi/UgX5lgv4uVM/hqdefault.jpg"></a> | [Spring Boot Tutorial for Beginners - 2023 Crash Course using Spring Boot 3](https://www.youtube.com/watch?v=UgX5lgv4uVM) <br/><br/> _[Dan Vega][yu-dan-vega]_ |
+
+PczgM2L3w60
+Advanced Spring Security - How to create multiple Spring Security Configurations
+
+CWEQ-1vff1o
+Spring Beans Showdown: Unraveling the Mystery of @Component vs @Bean!
+
+
+:::
+
+---
 
 <TagLinks />
 
@@ -495,6 +584,7 @@ Set up Logging with Log4j2 in Java and IntelliJ IDEA
 [yu-tech-primers]: https://www.youtube.com/@TechPrimers
 [yu-mike-moller-nielsen]: https://www.youtube.com/@MikesTechCorner
 [yu-naveenautomationlabs]: https://www.youtube.com/@naveenautomationlabs
+[yu-bouali-ali]: https://www.youtube.com/@BoualiAli
 [yu-keep-too]: https://www.youtube.com/@KeepToo
 [yu-java0405]: https://www.youtube.com/@java0405
 [yu-freeleckor]: https://www.youtube.com/@FREELECKOR
@@ -503,3 +593,5 @@ Set up Logging with Log4j2 in Java and IntelliJ IDEA
 [yu-user-jn1ly6wf9q]: https://www.youtube.com/@user-jn1ly6wf9q
 [yu-reso-coder]: https://www.youtube.com/@ResoCoder
 [yu-discospiff]: https://www.youtube.com/@discospiff
+[yu-daily-code-buffer]: https://www.youtube.com/@DailyCodeBuffer
+[yu-dan-vega]: https://www.youtube.com/@DanVega
