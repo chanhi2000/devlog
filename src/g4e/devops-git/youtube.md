@@ -13,6 +13,27 @@ tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "b
 
 ---
 
+## Github
+
+[Github][yu-github]
+
+::: details 목록
+
+<YoutubeItem channelName="GitHub" channelId="Github" id="UT74eayrS7A" title="Make your command line glamorous with Charm - Open Source Friday" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="QUBPomLp6Iw" title="Automate Anything with Script Kit - Open Source Friday" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="FwgxksxXj58" title="Workflows for Data Scientists and Machine Learning #MLOps" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="sQoK6dKAqec" title="Command-line utility for building React apps quickly - `create-react-app`" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="qy_HaIaNbkE" title="Automate your CI/CD workflows with GitHub Actions" />  
+<YoutubeItem channelName="GitHub" channelId="Github" id="YwYurdueIrg" title="Kubernetes YAML Manifests Made Easy - Open Source Friday" />
+<YoutubeItem channelName="GitHub" channelId="Github" id="tdyPuMA2mww" title="ChatOps for Kubernetes - Open Source Friday"/>
+<YoutubeItem channelName="GitHub" channelId="Github" id="D80u__nYYWw" title="Learn how to use Project Roadmaps - GitHub Checkout" />
+
+:::
+
+<!-- Github -->
+
+---
+
 ## GitLab Unfiltered
 
 [GitLab Unfiltered][yu-gitLab-unfiltered]
@@ -80,6 +101,7 @@ tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "b
 
 <TagLinks />
 
+[yu-github]: https://www.youtube.com/@Github
 [yu-gitLab-unfiltered]: https://www.youtube.com/@GitLabUnfiltered
 [yu-gitlab]: https://www.youtube.com/@Gitlab
 [yu-gitkraken]: https://www.youtube.com/@Gitkraken

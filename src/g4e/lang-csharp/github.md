@@ -57,6 +57,8 @@ meta:
   - [🌐Official Site](https://btcpayserver.org)
 - [felixse/FluentTerminal][felixse/FluentTerminal]: A Terminal Emulator based on UWP and web technologies.
 - [shahedc/multiweb][shahedc/multiweb]: Multiple projects for debugging sample.
+- [Ryujinx/Ryujinx][Ryujinx/Ryujinx]: Experimental Nintendo Switch Emulator written in C# <GithubTags tagItems="emulator;csharp;dotnet;emulation;switch;dotnet-core" />
+  - [🌐Official Site](https://www.ryujinx.org)
 
 <!-- C# -->
 
@@ -86,3 +88,4 @@ meta:
 [btcpayserver/btcpayserver]: https://github.com/btcpayserver/btcpayserver
 [felixse/FluentTerminal]: https://github.com/felixse/FluentTerminal
 [shahedc/multiweb]: https://github.com/shahedc/multiweb
+[Ryujinx/Ryujinx]: https://github.com/Ryujinx/Ryujinx

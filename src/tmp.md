@@ -18,16 +18,6 @@ Decomplexify
 yOQ9cljJ5jE
 10 FREE AI Tools That Feels Illegal To Know! 🤫
 i Social Yo
-
-
-uaadPCiN6-0
-ClassPublicKeys - TypeScript Type Challenges #2828 \[HARD\]
-Michigan TypeScript
-
-
-K0SWmX3KylY
-Split - TypeScript Type Challenges #2822 [HARD]
-Michigan TypeScript
     
 
 dKKEvtaYf8c
@@ -43,11 +33,6 @@ Daily Tuition
 SBmSRK3feww
 JavaScript Full Course (2023) - Beginner to Pro - Part 1
 SuperSimpleDev
-    
-
-BbYJd9kRjLg
-🤯Insane Image Manipulation | ControlNet Install \& Usage Guide | UPDATED
-TroubleChute
     
 
 dFfp7ND1z_I
@@ -85,11 +70,6 @@ Deep cloning objects in JavaScript with structuredClone
 Steve (Builder.io)
     
 
-Om33AjwtQ_Y
-Rebuild React Hooks yourself for Node
-JSConf
-    
-
 nYmPIVeGwFY
 Online Course Platform Series (T3 Stack, Mantine, Prisma, Next-Auth)  - Part 1
 Web Dev Cody
@@ -103,11 +83,6 @@ Techno Tim
 qFnHWMxlOBc
 Carmack Doesn't Like Vim | Prime Reacts
 ThePrimeTime
-    
-
-hPOz8Fo-yrk
-Spring Security OAuth2
-Gain Java Knowledge
     
 
 DXmC-M-qY2g
@@ -153,11 +128,7 @@ Nick Chapsas
 VU4ncBR0PYw
 Excel Project Management Dashboard with Dynamic Periods
 MyOnlineTrainingHub
-    
 
-hIDh2HiV_dg
-From Noob To Power User With Manjaro KDE
-DistroTube
     
 
 B4XySdT2FkY
@@ -206,11 +177,6 @@ Malware Development: Processes, Threads, and Handles
 crow
     
 
-SZAElsz1_zM
-The Secrets behind Adapters in Android - Mastering Android Course #40
-Master Coding
-    
-
 o2ck1g3_k3o
 The Complete Guide to Remotely Access Synology NAS - All 5 Options Explained
 SpaceRex
@@ -220,16 +186,6 @@ tQaxITImKys
 네트워크 강좌 - HTTPS 원리
 ZeroCho TV
 
-    
-
-6q76yOqiFc0
-Create Parent Directories with Curl Using the --create-dirs Flag
-Nick Janetakis
-    
-
-CRswPcQNeWM
-I unironically liked PHP better than C
-Tsoding Daily
     
 
 nK8Ss2UMAxc
@@ -247,19 +203,9 @@ The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakke
 VMware Tanzu
     
 
-dJun_jhwdv4
-Android Screen Resolution
-Kris Occhipinti
-    
-
 onGVymdtnjM
 You Can Code in Powerpoint??? | Prime Reacts
 ThePrimeTime
-    
-
-D80u__nYYWw
-Learn how to use Project Roadmaps - GitHub Checkout
-GitHub
     
 
 9RM2aErJs-s
@@ -267,34 +213,9 @@ TypeScript Just Got SO MUCH BETTER
 Theo - t3․gg
     
 
-2UiqQTIRJlk
-How To Debloat Latest Windows 11 With 1 Click!
-SSTec Tutorials
-    
-
 PngRsyHyYQE
 AKS with Application Gateway - AGIC
 Houssem Dellai
-    
-
-m_33xFtbta4
-Creating PDF Reader App - Mastering Android Course #39
-Master Coding
-    
-
-UHSTjZ0Pals
-Amazon CodeWhisperer | GitHub Copilot Killer
-Telusko
-    
-
-JRsQxdg_Lbg
-Build a Chatbot on iOS with SwiftUI and ChatGPT  🤔
-Rebeloper - Rebel Developer
-    
-
-ylmwaDUMV9c
-AWS RDS Tutorial: Setting up a Database in Amazon RDS | KodeKloud
-KodeKloud
     
 
 18FEA5xXBGY
@@ -357,16 +278,6 @@ How to Upgrade MacBook Pro RAM 8 GB to 16 GB
 Master Liu
     
 
-k_JbBYjZ6G4
-Apache Kafka No Longer Requires ZooKeeper | Kraft Mode | Detailed Explanation | JavaTechie
-Java Techie
-    
-
-af7JJ5_XcGE
-Swift Fundamentals: How to Make a Variable Changeable (Mutable) in SwiftUI
-SwiftUI Tutorial#1
-    
-
 DfEDCwWPl30
 The Top 10 Best AI Studying Tools 2023
 Dr Alex Young
@@ -382,11 +293,6 @@ The perfect Neovim setup for Rust.
 Dreams of Code
     
 
-vHT8kPoNL_E
-Best Way To Host Your Own ChatGPT with Alpaca-Turbo
-Novaspirit Tech
-    
-
 CfZL7hi-Bd8
 Installing Linux Software Is More Confusing Than Ever
 Brodie Robertson
@@ -397,16 +303,6 @@ Dockcase Explorer Edition USB Hub Review | USB Hub, MacBook Hub, MacBook Pro Hub
 Route 9 루트나인
     
 
-av1s-cHJC-s
-Trimming White Space from Strings in BASH
-Kris Occhipinti
-    
-
-tdyPuMA2mww
-ChatOps for Kubernetes - Open Source Friday
-GitHub
-    
-
 K0uMsO7Vrgg
 Spring Boot Server Sent Events Example | Unidirectional Streams | Tech Primers
 Tech Primers
@@ -415,26 +311,6 @@ Tech Primers
 ERWVSci3kO0
 Prettify Your BASH Prompt
 The Linux Cast
-    
-
-jArtVVbYGKk
-These AI TOOLS will help you CODE BETTER
-ForrestKnight
-    
-
-oPfZrTfAkE4
-TOC7 JGraphT사용하기(설명)
-김기태의 JAVA를 자바
-    
-
-FkowGcWHVCw
-TOC8 JGraphT사용하기(오류 수정)
-김기태의 JAVA를 자바
-    
-
-YvNlVAkHVwk
-Amazingly Flexible C code without OOP or FP Ideological Bullsh*t
-Tsoding Daily
     
 
 MfzMR40kPjA
@@ -536,24 +412,9 @@ Python's SECRET diamond operator
 Carberra
     
 
-3O4JtWcmkVQ
-Evolving the Security of the Java Platform
-Java
-    
-
 1v5uyK_f1Cg
 [개발자 북클럽] (7회) 클린 코드 이제는 파이썬이다
 박재호
-    
-
-gVMA8ilZKvE
-Azure DevOps Introduction for Beginners - Azure DevOps
-ClayDesk E-Learning
-    
-
-q-yugaM07sM
-Few Examples of Using Brace Expansion with Bash
-Nick Janetakis
     
 
 RC0DSJs8KY4
@@ -564,17 +425,6 @@ Yochang Song
 uR_2nCcniuc
 Delvering web apps from Azure cloud in an appcentric way with App Delivery and Security Service
 Citrix
-    
-
-GYP2T34v56E
-Linux Crash Course - The cut Command
-Learn Linux TV
-    
-
-eifmUYk9eXE
-KodeKloud Premium DevOps Courses &amp; DevOps Labs are 100% FREE
-Thetips4you
-    
     
 
 AmjoK55h68Y
@@ -652,16 +502,6 @@ Is the classic MacPro finally usable with Ventura? 2 Weeks of results wrapped up
 Jessie's Flying
     
 
-J5A-T2he1Bo
-INSANE Text2Video in SDUI📹Full Install &amp; Use Guide | AUTOMATIC1111 Stable Diffusion
-TroubleChute
-    
-
-HiKR4b_95Co
-웹툰 볼때 편한 스크롤 이미지 뷰어 프로그램 2가지 mangareader, PhotoDirSaveAsHtml
-통구니TV
-    
-
 O4C6_TJ-iws
 #4 - Bash command for Process Management
 Execute Automation
@@ -680,16 +520,6 @@ JPA 2-3강 영속성 컨텍스트의 이해(2)
 WyWCa6WVx60
 How to configure PostgreSQL | Learning | DevOps
 That DevOps Guy
-    
-
-xiy0VHUbZJI
-Blazor Code Separation - Easily Moving Code to a Code Behind File
-IAmTimCorey
-    
-
-XUN6mUQiDpg
-CameraX setup and permissions
-Android Developers
     
 
 zi0ZspvoLuo
@@ -740,11 +570,6 @@ AI Andy
 B76gFi43HvM
 1000x FASTER JavaScript?
 ThePrimeTime
-    
-
-4qP5xA_epXo
-Linux Crash Course - The tr Command
-Learn Linux TV
     
 
 DDfUoQWnrfM
@@ -812,11 +637,6 @@ Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with 
 jeFF0Falltrades
     
 
-0fYi8SGA20k
-Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial
-JavaScript Mastery
-    
-
 gT8vi3bpjsY
 FREE ChatGPT on Your Computer! GPT4ALL Is HERE!
 Aitrepreneur
@@ -842,21 +662,6 @@ The Truth about Rust/WebAssembly Performance
 Greg Johnston
     
 
-6WU9nipfBGQ
-Getting Started with Sonatype: The Best Way to Manage Your Java Releases
-Daniel Persson
-    
-
-1vwq4uaYQGU
-Is Tailwind CSS No Longer Needed? A Look Into UnoCSS!
-Program With Erik
-    
-
-z1vPBc2h9pE
-My App has More Complicated Animations Than Yours
-Ben Awad
-    
-
 Vp7oMZfwyoM
 Get Organized with Kanboard | Self-Hosted Project Management App PERFECT for Docker
 Linode
@@ -872,19 +677,9 @@ Solving ThePrimeagen's Favorite Interview Question
 TomDoesTech
     
 
-civZ1wY-2oM
-Learn .NET MAUI while Creating a Contacts App in .NET 7
-Frank Liu
-    
-
 jJcLRDC4fvs
 How to Run Computer Performance Benchmark Test on Windows 11 Using CMD
 Tricknology
-    
-
-WYzBiZhVhpQ
-Recursively Print Files with Their Path Using Find, Cat or Tail
-Nick Janetakis
     
 
 Z_ahq2h9Xxg
@@ -942,29 +737,14 @@ GPT-4 등장과 기술 보고서 논란, 구글의 역습 등 AI 뉴스
 조코딩 JoCoding
     
 
-ytkG7RT6SvU
-Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth &amp; Vercel (2023)
-Code With Antonio
-    
-
 Ix9WIZpArm0
 GPT-4 Tutorial: How to Chat With Multiple PDF Files (~1000 pages of Tesla's 10-K Annual Reports)
 Chat with data
     
 
-c_-b_isI4vg
-Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
-Code With Antonio
-    
-
 NgwDtAtE9AE
 Spring Boot Security Advanced  - Lockout Users [ EP - 1 ] |  Spring Security Successful login Events
 Selenium Express
-    
-
-PtQevkS1M2I
-Create Menu Bar Commands with SwiftUI on macOS
-Flo writes Code
    
 
 lUzSsX4T4WQ
@@ -982,54 +762,20 @@ host your own HelpDesk
 NetworkChuck
     
 
-ktvRbNcAtwc
-노션 초보자를 위한, 60분 총정리 특강 | 노션 공식 컨설턴트가 알려주는 노션의 모든 것
-오빠두엑셀 l 엑셀 강의 대표채널
-    
-
 ZbhzLP3vnkg
 Tide is perhaps my favorite Rust web app framework.
 Dreams of Code
-    
-
-ZqEa8fTxypQ
-Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
-JavaScript Mastery
     
 
 gD_slsA_VQc
 Java new features -  Static method inside interface ?  java 8 | java interview questions and answers
 Selenium Express
     
-
-XuSQU5Grv1g
-Kubernetes Crash Course: Learn the Basics and Build a Microservice Application
-KodeKloud
     
 
 MjJgzsmuz00
 Kubernetes Taints and Tolerations Demo | Kubernetes Demo | Kubernetes for Beginners
 Java Home Cloud
-    
-
-F5jIFP56J0E
-Microsoft Excel Tutorial for Beginners  | Full Course
-Derek Banas
-    
-
-YwYurdueIrg
-Kubernetes YAML Manifests Made Easy - Open Source Friday
-GitHub
-    
-
-FD-pVEzugaU
-Building the OnlyFans Clone with React Native (Beginner Tutorial)
-notJust․dev
-    
-
-_O5jjEwCgmA
-How To Build A Twitter Clone - React Next JS - Appwrite Crash Course
-Adrian Twarog
     
 
 z3sb6-LwmK4
@@ -1055,22 +801,11 @@ ThePrimeagen
 GEHPiZ10gOk
 Neovim With AstroNvim | Your New Advanced Development Editor
 Cretezy
-    
-
-2KJ9jcn54_8
-지워지지 않는 파일, 폴더 강제로 삭제하는 확실한 방법! Permanently delete a folder.bat 사용하기
-통구니TV
    
 
 608F12C10Ag
 Chat GPT-4 Makes Trading Bots That Actually Work
 Moon Dev
-    
-
-cdVCpS4qvRA
-Coding Math Despite being Traumatized by Education System
-Tsoding Daily
-
     
 
 3-9sObAg6R0
@@ -1081,11 +816,6 @@ Caleb Curry
 a0zUCc2gKL8
 Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices
 VMware Tanzu
-    
-
-2dkm3LnqTr8
-  Power Automate Beginner Tutorial
-[  
     
 
 07oXvhwKoX8
@@ -1106,17 +836,7 @@ Joshua Morony
 zZ6vybT1HQs
 PHP Full Course for non-haters 🐘 (2023)
 Bro Code
-    
-
-HrY6Gz1UiE0
-Dmscripts now has '-d', '-r' and '-f' options. (dmenu, rofi, &amp; fzf)
-DistroTube
-    
-
-NI16bqeGv7U
-Troubleshooting Native Memory Issues in Java Applications
-Java
-    
+  
 
 799uhYUxtvA
 build your own browser (crazy SECURE)
@@ -1126,11 +846,6 @@ NetworkChuck
 abAkHQhLsSI
 Jetson Orin Nano - 75x Faster Than A Raspberry Pi
 Gary Explains
-    
-
-nBoPiEH90Wg
-Remote development in JetBrains IDEs with Google Cloud
-JetBrains
     
 
 CskVg8ZCbKw
@@ -1177,16 +892,6 @@ Faster than Rust and C++: the PERFECT hash table
 strager
     
 
-HxumQf15qQc
-Moving a Bunch of Shell Alias Functions into Their Own Script Files
-Nick Janetakis
-    
-
-BpCDeiUgaj8
-How to Manage AWS Data Security Risk in Cloud Computing
-ClayDesk E-Learning
-    
-
 CPYwVRtlxms
 15 UNCONVENTIONAL Notion tips for Productivity (in 2023)!
 Jeff Su
@@ -1215,16 +920,7 @@ The PC Security Channel
 RDd71IUIgpg
 CoPilot Review: My Thoughts After 6 Months
 ThePrimeagen
-    
 
-tTS2KVCJ-MQ
-An Update Borked My Linux System. How Did I Fix It?
-DistroTube
-    
-
-RDtLWWos3cA
-Unlock the Power of Core Data Versioning!
-Rebeloper - Rebel Developer
     
 
 EsZcDUaSUss
@@ -1272,11 +968,6 @@ Git rest &amp; revert deep dive | Git revert vs reset Demo | Git tutorial | Java
 Java Home Cloud
     
 
-LG06nQRC1S8
-Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
-Flo writes Code
-    
-
 qx9nshX9CQQ
 Micro eCommerce with Python, Django, Neon Serverless Postgres, Stripe, TailwindCSS and more
 CodingEntrepreneurs
@@ -1285,11 +976,6 @@ CodingEntrepreneurs
 N1quwAHXO3Q
 시*로지 부럽지 않은 윈도우 PC로 NAS 만들기 - 강동호 | 2023년도 정기총회
 Ubuntu Korea
-    
-
-9JULWqjM0Wg
-Rust Multi-Threading
-Tsoding Daily
     
 
 2bTXbujbsVk
@@ -1305,12 +991,7 @@ SwPrW4KRPzo
 TvTSnVzPElg
 [Windows Server 기초 강의] 44강. 9.3.3 클라우드 저장소 구축
 한빛미디어
-    
 
-owijYeRAlEw
-SCRCPY 2.0 Tutorial | Control &amp; Mirror Android Phone from PC
-Kevin Stratvert
-    
 
 c-ydMfJNfyY
 Dart Programming Tutorial - Full Course - Project Based
@@ -1332,11 +1013,6 @@ First 18 Things to Do for Productivity // New Macbook Pro!
 Jeff Su
     
 
-D0ofuGXOOFA
-ChatGPT x 파워포인트 | PPT 만들기, 이제 1초면 됩니다! | 무료 자동화 서식 받아가세요
-오빠두엑셀 l 엑셀 강의 대표채널
-    
-
 rvtuQo_8wTA
 6 Useful Websites You NEED to Use!
 Leila Gharani
@@ -1352,29 +1028,9 @@ Figma Mobile App Design Tutorial
 Building Amazing Things
     
 
-6ycSuoqsevA
-Certified KUBERNETES Application Developer Full Course for Beginners
-ClayDesk E-Learning
-    
-
-NMJlf_KV5_M
-How To Install Tiny11 (Windows 11 Lite) In a VirtualBox!
-SSTec Tutorials
-    
-
 YqmLIh31VH0
 Develop Apps - Feat. Telepresence, DevSpace, Nocalhost, And Devfile (You Choose!, Ch. 1, Ep. 7)
 DevOps Toolkit
-    
-
-Ab6cWN9ZrXo
-The Amazing Interactive Command Line Fuzzy Finder (fzf)
-DistroTube
-    
-
-EQsZX-V_q7g
-useEffect // Simplifying the React Component Lifecycle
-basarat
     
 
 uoJ0Tv-BFcQ
@@ -1397,11 +1053,6 @@ Netshoot Docker container for Docker compose networking host troubleshooting
 VirtualizationHowto
     
 
-jFYvY7m2RZs
-[이펙티브 자바] 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라
-김대협
-    
-
 Kj_gehSIJCc
 Learn CSS transform by building a Penguin! FreeCodeCamp curriculum walkthrough
 Code with Ania Kubów
@@ -1412,24 +1063,9 @@ Build a Netflix Clone with GraphQL and React!
 DataStax Developers
     
 
-_gs3MjJBEfs
-From Legacy Code To STATE OF THE ART DEVELOPMENT
-Continuous Delivery
-    
-
 YEEG-r_pGx8
 Build Your Own Video Streaming Platform | It's Easier Than You Might Think!
 Linode
-
-
-5TKeYLW2cq4
-Let's Build a JavaScript Game!
-Pluralsight
-    
-
-WK6u4QYTKJM
-Custom Progress Bar in Android Studio - Mastering Android Course #35
-Master Coding
     
 
 slSTXUm8npc
@@ -1442,11 +1078,6 @@ FOPO Triple Portable Monitor SETUP (S19)
 HappyRider Reviews
     
 
-U760NY900zY
-17. SearchBar in .NetMaui
-Frank Liu
-    
-
 bhDfsNA8SdA
 Spring framework 6 Foundation -  Spring Profiles and beyond | Spring Core concepts
 Selenium Express
@@ -1457,24 +1088,9 @@ The 21 Docker Commands Every Developer Needs to Know
 Linode
     
 
-NmbKi3ReCIY
-Reading Blockchain Data on Ethereum using Astra Block
-Telusko
-    
-
-3N77zgo4oXQ
-iOS Firebase Authentication: Sign In With Apple Tutorial | Firebase Bootcamp #5
-Swiftful Thinking
-    
-
 G0jO8kUrg-I
 How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript
 Easy Tutorials
-    
-
-e1BWCyVhiBk
-ChatGPT integration into Excel | All you can access in 3 minues | Free template included
-오빠두엑셀 l 엑셀 강의 대표채널
     
 H_Jd7nss3e8
 Create proper request/response contract for Swagger

@@ -13,6 +13,13 @@ tags: ["kotlin", "jdk", "jdk8", "links", "medium", "references"]
 
 ---
 
+## Roadmap
+
+- [Android Table of Elements](https://www.androidelements.com)
+- [📑Kotlin Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf)
+
+---
+
 ## Devlogs
 
 - [Kotlin DSL: Gradle scripts in Android made easy](https://medium.com/android-dev-hacks/kotlin-dsl-gradle-scripts-in-android-made-easy-b8e2991e2ba)

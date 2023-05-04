@@ -72,7 +72,139 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Hussein Nasser
+
+[Hussein Nasser][yu-hnasr]
+
+
+::: details 목록
+
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="3cpUdppYzJw" title="How Fast is MySQL on HTTP/3?" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="ckEIQdGJ1tc" title="What happens when your Web Server Private Key is Leaked?" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="73wykKgA6bY" title="How does NodeJS HTTP Server Looks Like in Wireshark?" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="R873BlNVUB4" title="Apache Kafka Crash Course" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="HVWlMNTNcF4" title="Wiresharking Secure Shell (SSH) - Spoiler alert 🚨 : its chatty" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="C6IL8tjwC5E" title="Traefik Crash Course (Without docker)" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="NnYQ3vg5X9Q" title="Wiresharking HTTP/2 - Decrypting Traffic with Wireshark And peeking at Naked HTTP/2 Traffic" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="hcw-NjOh8r0" title="NginX Crash Course" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="UrwtQfSbrOs" title="ZeroMQ (ØMQ) Crash Course" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="pI4438IHBYY" title="React with Firebase CRUD Operations" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="JwQTBq3oivw" title="What is On Demand TLS?" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="V3ZPPPKEipA" title="How to Become a Good Backend Engineer (Fundamentals)" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="BRPvjNQsqis" title="Spin up an Nginx Docker Container as a Load Balancer" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="9sAg7RooEDc" title="Step by Step Basic Microservices System (3 NodeJS + 1 Load Balancer containers) with Docker Compose" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="-cWs6eoyaLg" title="Varnish - HTTP Accelerator Crash Course" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="8qU3hZOXlBE" title="The evolution from virtual machines to containers" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="Yw4rkaTc0f8" title="gRPC Crash Course - Modes, Examples, Pros &amp; Cons and more" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="hVMyRzINrWw" title="Google blocks Embedded browsers sign ins to avoid MITM phishing attacks" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="CNipJ0Z5qA0" title="Spin up RabbitMQ on Docker" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="vmSMrQ8Ev9w" title="Spin up a lightweight Nodejs docker container running your application" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="GTeCtIoV2Tw" title="Connection Pooling in PostgresSQL with NodeJS (Performance Numbers)" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="URwmzTeuHdk" title="All Postgres Locks Explained | A Deep Dive" />
+<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="AveRgUrC7FM" title="Postgres System Columns Explained (`ctid`, `xmin`, `xmax`)" />
+
+:::
+
+<!-- Hussein Nasser -->
+
+---
+
+## ForrestKnight
+
+[ForrestKnight][yu-fknight]
+
+::: details 목록
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="b0pkpcD8Ms4" title="How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite" />
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="DIny00tOBdU" title="Command Line Tools ALL Developers Should Know" />
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="LktFP0Dpl-c" title="I Coded with WSL2 for a Week" />
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="gZqdOe6VoFQ" title="Arch Linux VM Setup &amp; Coding Talk" />
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="9PgZCJNzY9M" title="An Entire Software Development Life Cycle - Full Guide (Tutorial)" />
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="bhopW92Qxw8" title="My Linux Ubuntu Setup for Software Development" />
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="jArtVVbYGKk" title="These AI TOOLS will help you CODE BETTER" />
+
+:::
+
+<!-- ForrestKnight -->
+
+---
+
+## Daniel Persson
+
+[Daniel Persson][yu-daniel-persson]
+
+::: details 목록
+
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="E1LXQd1M-ck" title="Best Way to Install OpenStack? OpenMetal vs Manual installation" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="Kn5rOJdPlEw" title="Automatic install of Redhat 9 using Kickstart" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="AjmDUMiyvNQ" title="How to use the Log4J library in 2022" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="UeH8z9wnz7o" title="Linux by example - util-linux, e2fsprogs, sysklogd, sysvinit, eudev" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="LtlovbPZXU0" title="Linux by example - Grep and Bash" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="jooOa8ur07g" title="Using fetch to do a file upload" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="3XO0d9Qyc34" title="How to use `autotools` (`automake`, `autoconf`, `aclocal`, `autoheader`)" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="bJx_YeAp18E" title="How to setup up a local copy of jitsi video conferencing" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="pCD66c2D3L8" title="Using JMeter for performance testing" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="wpCu4buJOvE" title="Inference with Tensorflow in Java" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="GRMrj-mImAc" title="How to use expansion files in Android" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="sESrjvGpEUQ" title="Webassembly with java" />
+<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="6WU9nipfBGQ" title="Getting Started with Sonatype: The Best Way to Manage Your Java Releases" />
+
+:::
+
+<!-- Daniel Persson -->
+
+---
+
+## Learn Linux TV
+
+[![Learn Linux TV](https://yt3.googleusercontent.com/ET-B1I46Ca0OKID2_mYyGOjkLdEJ_WbTCaEtzc2nJ-zcn1A-NPh92nA19pD7vgtFj1FQ_EVzRA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-learn-linux-tv]
+
+::: details 목록
+
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="aSWVwdr2_n8" title="Linux Crash Course - The \\`watch\\` Command" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="sBrAVQumqjs" title="5 Must Have Tweaks to Secure OpenSSH" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="ZWC_1nISLKE" title="Why you should build your Portfolio in Github to gain a Linux Job" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="bVB24I7B0JQ" title="Building your own Git Server with Gitea on AlmaLinux" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="gIDywsGBqf4" title="Using Ansible to automate your Laptop and Desktop configs!" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="WW7yazr-xAM" title="Awesome Linux Tools: cheat.sh" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="s8F_YWGHeDM" title="Getting started with Ansible 16 (Series Finale) - Templates" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="0Yy65JKVSfM" title="Learn CentOS 22 - Hosting a Simple Web Page with Apache" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="wvpYikch9x4" title="Learn CentOS Part 6 - Running Commands with root Privileges" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="_acLAdlRy_I" title="Learn CentOS Part 3 - Exploring the Linux Filesystem" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="wwpRtC5nywM" title="Another Look at My Homelab (More Detail)" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="GYP2T34v56E" title="Linux Crash Course - The `cut` Command" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="4qP5xA_epXo" title="Linux Crash Course - The tr Command" />
+
+:::
+
+<!-- Learn Linux TV -->
+
+---
+
+## SSTec Tutorials
+
+[SSTec Tutorials][yu-sstectutorials]
+
+::: details 목록
+
+<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="m2PGKJyBwCY" title="How To Install Kali Linux on Windows 11 WSL2 (GUI) in 5 Minutes" />
+<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="5maHGFejvH0" title="How To Make Windows 11 Look Like MacOS Monterey | MacOS Theme For Windows 11" />
+<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="VXsWdZ4Byww" title="How To Install Docker on Raspberry Pi 4 - Run Docker Container on Raspberry Pi" />
+<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="dK-8kFge_5U" title="How To Setup Internet In Mikrotik Router Manually." />
+<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="2UiqQTIRJlk" title="How To Debloat Latest Windows 11 With 1 Click!" />
+<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="NMJlf_KV5_M" title="How To Install Tiny11 (Windows 11 Lite) In a VirtualBox!" />
+
+
+:::
+
+<!-- SSTec Tutorials -->
+
+---
+
 [yu-christianlempa]: https://www.youtube.com/@christianlempa
 [yu-talk-it]: https://www.youtube.com/@Talkitonair
+[yu-fknight]: https://www.youtube.com/@fknight
+[yu-daniel-persson]: https://www.youtube.com/@DanielPersson
+[yu-learn-linux-tv]: https://www.youtube.com/@LearnLinuxTV
+[yu-sstectutorials]: https://www.youtube.com/@sstectutorials
 
 <TagLinks />

@@ -3,7 +3,7 @@ home: true
 heroImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
 tagline: Welcome my fellow programmers!
 actions:
-  - text: Check 📖Guide 4 Everything
+  - text: 📖G4E
     link: /g4e/
     type: primary
   - text: 🌐Explore
@@ -25,7 +25,7 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
       <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
       <br/>
       <h2>github.com/chanhi2000</h2>
-      <p>Chan's Github Acct.</p>
+      <p>My Github</p>
     </a>
   </div>
   <div class="feature">
@@ -37,12 +37,23 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     </a>
   </div>
   <div class="feature">
-    <h2>자주찾는 사이트</h2>
-    <br/>
     <a href="https://simpleicons.org"><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square" /></a>
     <ul>
     <li><a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">SimpleIcons' Slugs</a></li>
     </ul>
+  </div>
+  <div class="feature">
+    <a href="https://github.com/vuepress/awesome-vuepress/blob/main/v2.md">
+      <p>
+        <img alt="vuepress" src="https://img.shields.io/badge/Vuepress-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" />
+        <img alt="Awesome Lists" src="https://img.shields.io/badge/Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=white&style=flat-square" />
+        <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
+      </p>
+      <br/>
+      <img alt="awesome-vuepress-jumbo" height="150px" width="auto" src="https://raw.githubusercontent.com/vuepress/awesome-vuepress/main/logo.png" />
+      <h2>vuepress/awesome-vuepress/v2</h2>
+      <p></p>
+    </a>
   </div>
 </div>
 
@@ -68,7 +79,7 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat-square" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-61D4FC08DAFB?logo=Vue.js&logoColor=white&style=flat-square" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat-square" />
   <img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white&style=flat-square" />
   <img alt="Apache Cordova" src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?logo=Apache%20Cordova&logoColor=white&style=flat-square" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=flat-square" />

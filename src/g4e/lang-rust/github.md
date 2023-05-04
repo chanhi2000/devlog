@@ -33,7 +33,7 @@ meta:
   - [🌐Official Site](https://surrealdb.com)
 - [paradigmxyz/reth][paradigmxyz/reth]: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [pichenettes/eurorack][pichenettes/eurorack]: Eurorack modules
-- [tw93/Pake][tw93/Pake]: 🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake][tw93/Pake]: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App <GithubTags tagItems="rust;productivity;mac;youtube;twitter;webview;open;high-performance;loop;openai;windows-desktop;linux-desktop;tauri;mac-desktop;gpt-4;wry;no-electron;chatgpt" />
 - [0x192/universal-android-debloater][0x192/universal-android-debloater]: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [spacedriveapp/spacedrive][spacedriveapp/spacedrive]: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
   - [🌐Official Site](https://spacedrive.com)

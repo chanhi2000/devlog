@@ -13,9 +13,7 @@ tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js", "example"]
 
 ---
 
-## Flowchart 
-
-### Badge <Badge text="beta" type="warning"/> <Badge text="default theme"/>
+## Flowchart
 
 ```mermaid
 graph TD;
@@ -26,6 +24,7 @@ graph TD;
 ```
 
 ::: details Click here to view code
+
 ```mermaidjs
 graph TD;
     A-->B;
@@ -33,8 +32,10 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
 :::
 
+---
 
 ## Sequence
 
@@ -66,8 +67,10 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+
 :::
 
+---
 
 ## Gantt
 
@@ -118,6 +121,8 @@ Future task2               :         des4, after des3, 5d
 ```
 
 :::
+
+---
 
 ## Class
 

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🪣Snippets
-description: 🆚VSCode > 🪣Snippets
+title: 🛹Snippets
+description: 🆚VSCode > 🛹Snippets
 tags: ["vscode", "visual-studio-code", "ide", "snippets"] 
 ---
 
@@ -32,19 +32,36 @@ Placeholders with the same ids are connected.
 
 ```json
 {
-	"VuepressMarkdownYoutubeItem": {
-	 	"prefix": "vpyi",
-	 	"body": [
-	 		"<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
-	 	],
-	 	"description": "Create YoutubeItem Vue Component"
-	},
-	"VuepressMarkdownGithubTags": {
-	 	"prefix": "vpgt",
-	 	"body": [
-	 		"<GithubTags tagItems=\"${1:tagItems}\" />",
-	 	],
-	 	"description": "Create 'GithubTags' Vue Component"
-	}
+  "VuepressMarkdownYoutubeItem": {
+     "prefix": "vpyi",
+     "body": [
+       "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
+     ],
+     "description": "Create YoutubeItem Vue Component"
+  },
+  "VuepressMarkdownGithubTags": {
+     "prefix": "vpgt",
+     "body": [
+       "<GithubTags tagItems=\"${1:tagItems}\" />",
+     ],
+     "description": "Create 'GithubTags' Vue Component"
+  },
+  "VuepressMarkdownYoutubeGroup": {
+    "prefix": "vpyg",
+    "body": [
+      "## ${1:title}",
+            "",
+      "[${1:title}][${2:channel}]",
+      "",
+      "::: details ${3:목록}",
+      "",
+            ":::",
+      "",
+            "<!-- ${1:title} -->",
+      "",
+      "---"
+    ],
+    "description": "Create YoutubeGroup Vue Component"
+  }
 }
 ```

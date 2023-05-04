@@ -353,6 +353,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <!-- Swift Tutorials -->
 
 ---
+
 ## Lets Build That App
 
 [Lets Build That App][yu-lets-build-that-app]
@@ -444,6 +445,210 @@ tags: ["education", "youtube", "ios", "swift"]
 
 <!-- Let Create An App -->
 
+---
+
+## Swiftful Thinking
+
+[Swiftful Thinking][yu-swiftful-thinking]
+
+::: details 목록
+
+<YoutubeItem channelName="Swiftful Thinking" channelId="SwiftfulThinking" id="wSmTbtOwgbE" title="What is the Sendable protocol in Swift? | Swift Concurrency #11" />
+<YoutubeItem channelName="Swiftful Thinking" channelId="SwiftfulThinking" id="1OmJJwVF7uQ" title="How to use Async Let to perform concurrent methods in Swift | Swift Concurrency #5" />
+<YoutubeItem channelName="Swiftful Thinking" channelId="SwiftfulThinking" id="SgSfsdeMosM" title="Create a custom line chart to display historical price data | SwiftUI Crypto App #21" />
+<YoutubeItem channelName="Swiftful Thinking" channelId="SwiftfulThinking" id="-5kIzkBqAzc" title="How to use async / await keywords in Swift  | Swift Concurrency #3" />
+<YoutubeItem channelName="Swiftful Thinking" channelId="SwiftfulThinking" id="mdQcqPq9Kl4" title="iOS Firebase Authentication: Sign In With Google Tutorial | Firebase Bootcamp #4" />
+<YoutubeItem channelName="Swiftful Thinking" channelId="SwiftfulThinking" id="sHWX5j6wUjA" title="Connect Firebase to Xcode: A Step-by-Step Tutorial | Firebase Bootcamp #1" />
+<YoutubeItem channelName="Swiftful Thinking" channelId="SwiftfulThinking" id="3N77zgo4oXQ" title="iOS Firebase Authentication: Sign In With Apple Tutorial | Firebase Bootcamp #5" />
+
+:::
+
+<!-- Swiftful Thinking -->
+
+---
+
+## maxcodes
+
+[maxcodes][yu-maxcodes]
+
+::: details 목록
+
+<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="OSxE86BUoOM" title="SwiftUI Picker View - Use Pickers and Form in SwiftUI - Swift 5 &amp; Xcode 11 - 2019" />
+<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="7rPA_7Z1G8w" title="SwiftUI State Tutorial - Introduction to State in SwiftUI in Xcode 11 (2019)" />
+<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="8tZjVRXsuig" title="SwiftUI Navigation Tutorial (2019) - NavigationView and NavigationButton - Push View in SwiftUI" />
+<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="h-ChkXnrpng" title="How To Download Xcode 11 Beta (2019) on Mojave or Catalina &amp; limits - WWDC19 Beta Software &amp; SwiftUI" />
+
+:::
+
+<!-- maxcodes -->
+
+---
+
+## SwiftUI Tutorial#1
+
+[SwiftUI Tutorial#1][yu-swiftuitutorial1]
+
+::: details 목록
+
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="beNSUTiKjsM" title="[Let ChatGPT Help You Build SwiftUI Interfaces and Animations Faster" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="ZCuXQloK4gM" title="[SwiftUI Tutorial #1: Understanding How Multi-line Text Field Works in iOS 16" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="aab3WWZPKQY" title="[How to Create Diffused Shadows in SwiftUI" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="nkZF6vNhDQk" title="[SwiftUI: Create the Calm iOS App's Breathe Animation" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="1jJ196R1FFM" title="[Build Google Pay iOS App UI Clone in SwiftUI" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="-KPo_Hte1Dw" title="[SwiftUI: The Easiest Way to Provide Support Dark Mode Support" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="DZKc6Pm3VZs" title="[SwiftUI: How To Create Menus and Submenus" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="MTZw4w2RCow" title="[SwiftUI - Clone the Play/Pause Spring Animation in Apple Music iOS" />
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="af7JJ5_XcGE" title="Swift Fundamentals: How to Make a Variable Changeable (Mutable) in SwiftUI" />
+
+:::
+
+<!-- SwiftUI Tutorial#1 -->
+
+---
+
+## Martin Lasek
+
+[Martin Lasek][yu-martinlasek]
+
+::: details 목록
+
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="K8xNcjF28NQ" title="#27 - Ask User To Enable Notifications" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="oIrp02p0U1Q" title="DAY 021 | Sequence Equation | Swift" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="OTvKl7AKd2g" title="DAY 015 | Utopian Tree | Swift" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="KD4OAjQJYPc" title="SwiftUI - Understanding State" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="51DF0UPoVUM" title="SwiftUI - Dynamic List and Identifiable" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="0jTyKu9DGm8" title="Scraping Instagram using Swift" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="YcOvkRWOKlU" title="Implement An Own Leaf-Tag!" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="s_YXOCvKy34" title="Martin Lasek - Deploy a Vapor project to Digital Ocean" />
+<YoutubeItem channelName="Martin Lasek" channelId="martinlasek" id="-3O2Pzn4NUA" title="How To Set Up A Vapor 3 Project (Linux)" />
+
+:::
+
+<!-- Martin Lasek -->
+
+## Flo writes Code
+
+[Flo writes Code][yu-flo-writes-code]
+
+::: details 목록
+
+| ❌ | <a href="https://www.youtube.com/watch?v=kWEyKdZ4G38"><img width="140px" height="auto" alt="thumb-kWEyKdZ4G38" src="https://i.ytimg.com/vi/kWEyKdZ4G38/hqdefault.jpg"/></a> | [Why I don't do MVVM anymore](https://www.youtube.com/watch?v=kWEyKdZ4G38) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=bmTprKIdJ5U"><img width="140px" height="auto" alt="thumb-bmTprKIdJ5U" src="https://i.ytimg.com/vi/bmTprKIdJ5U/hqdefault.jpg"/></a> | [How to upload your app to the App Store in 2023](https://www.youtube.com/watch?v=bmTprKIdJ5U) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=v1lGPx6m__g"><img width="140px" height="auto" alt="thumb-v1lGPx6m__g" src="https://i.ytimg.com/vi/v1lGPx6m__g/hqdefault.jpg"/></a> | [macOS Menu Bar App using MenuBarExtra in Ventura &amp; SwiftUI \(No AppKit!\)](https://www.youtube.com/watch?v=v1lGPx6m__g) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=AUOoalBwxos"><img width="140px" height="auto" alt="thumb-AUOoalBwxos" src="https://i.ytimg.com/vi/AUOoalBwxos/hqdefault.jpg"/></a> | [How to support Dynamic Island in iOS 16.1](https://www.youtube.com/watch?v=AUOoalBwxos) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=ZVdbRjY2GN4"><img width="140px" height="auto" alt="thumb-ZVdbRjY2GN4" src="https://i.ytimg.com/vi/ZVdbRjY2GN4/hqdefault.jpg"></a> | [Global Hotkeys on macOS in SwiftUI](https://www.youtube.com/watch?v=ZVdbRjY2GN4) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
+
+PtQevkS1M2I
+Create Menu Bar Commands with SwiftUI on macOS
+
+LG06nQRC1S8
+Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
+
+:::
+
+<!-- Flo writes Code -->
+
+---
+
+## Mikaela Caron
+
+[Mikaela Caron][yu-mikaela-caron]
+
+::: details 목록
+
+<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="YR6ECYOzYCY" title="16 Expense Tracker - Vapor API Responses | Building in Public Livestream | Mikaela Caron" />
+<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="j0SQK5h1uTc" title="12 Expense Tracker - Fetch From Vapor API | SwiftUI | Building in Public Livestream | Mikaela Caron" />
+<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="SW2UbAAMR0c" title="11 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron" />
+<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="SpQTplyV89w" title="10 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron" />
+<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="TTT4UvVNQiM" title="UIKit for SwiftUI Developers Lesson 1: Hello World" />
+
+:::
+
+<!-- Mikaela Caron -->
+
+---
+
+## Stewart Lynch
+
+[Stewart Lynch][yu-stewart-lynch]
+
+::: details 목록
+
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="we0UmQECNRE" title="My Images  CD  Part 5 (Sharing Images -3)" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="Z4SsSDM9dHU" title="My Images  CD  Part 4 (Sharing Images -2)" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="lB3poCA8ZN4" title="Charts Framework  2 - Visualizing Large Data Sets with Bar Charts" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="RTihAkvbtNc" title="In App Subscriptions in SwiftUI made easy with Glassfy - Part 2 - Creating the Paywall" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="MlWodvLtYHc" title="Play video in custom UIView | AVPlayer in Custom UIView | Custom VideoViewFrame Size | AVKit | Swift" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="mOVdGR9D4nM" title="Global, Utility Class or Extension - Part 1" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="XrmOR_Qv9Aw" title="Realm+SwiftUI 2   One Many Relationship   Part 2" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="nx3KDnqMU0M" title="Realm+SwiftUI-1: PropertyWrappers - Part 1" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="CxtRO6GDGnU" title="SwiftUI Wordle Clone: 4  Five Letter Words and Verification" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="tKBguB5c5ic" title="Firebase Authentication SwiftUI Package" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="EjrIaQNdniE" title="FIrebase Emulators Suite for iOS" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="d6eTXQfAKJM" title="My Images 2: Error Alert and Permission Checking" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="-4gbUyZZZgs" title="SwiftUI Biometric Authentication and KeyChain storage" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="NY0LFoHQUbk" title="Introduction to Generics in Swift" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="PC0OXxAH-O0" title="File DataPersistence in SwiftUI" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="IbxBRzTBeC0" title="Understanding SwiftUI ViewBuilders" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="jOlkQW8UWgg" title="SwiftUI Weather App 12: Handling Errors and Loading State" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="FA4ksgVip9E" title="SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="ajmd8hk6OEI" title="SwiftUI Weather App 2: The OpenWeatherMap API Key" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="9CoUUCL03tA" title="NSPredicate for Swift" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="DotGrYBfCuQ" title="2  Xcode Project Setup" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="r0fSiNaYjPI" title="1  Firebase Login with SwiftUI Introduction" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="r9wa_Yuk678" title="Raindrop.io - A Bookmark Manager" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="AIb3CQH8_jg" title="A Better Result" />
+<YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="ivFtzG8Bqkk" title="7.  JSON from API - Swift" />
+
+:::
+
+<!-- Stewart Lynch -->
+
+---
+
+## Rebeloper - Rebel Developer
+
+[Rebeloper - Rebel Developer][yu-rebeloper]
+
+::: details 목록
+
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="sEycmsJnpvA" title="Are You Using SwiftUI 4 Data Handling Properly?" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="ZnWr2PCCatQ" title="SwiftUI Network Monitoring... It's EASY Now!" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="2k4mMdLfIKY" title="Creating a Custom Framework in Swift in 2022" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="u7A6mdTq3eU" title="Create a Sudoku Solver In Swift" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="mMl6t6gpB1o" title="Your app is TERRIBLE at first impressions! FIX IT NOW: SwiftUI Splash Screen" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="4oHjEmDYL6I" title="HUD iOS | Build your first iOS app with SwiftUI" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="N8eTuA_5T6Q" title="SwiftUI TextField" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="jzLby63iGvI" title="SwiftUI Button Style" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="YuDJDUvFfXo" title="UIKit in SwiftUI" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="vdkv0z7002Y" title="TestFlight Invitation Code - How can you send TestFlight Invitation" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="VNXM4ez9Nf0" title="TestFlight - How to use TestFlight" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="BXy4KoOVi1k" title="SwiftUI Tutorial: SwiftUI vs UIKit" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="CV3Y6PlhHmU" title="SwiftUI Tutorial: Navigation and more" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="Gi47Oi8gKJE" title="Swift Extensions" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="aukhw5OFLfM" title="`UIAlertController` Swift [BEST EXAMPLE]" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="5fWG5ofhHsY" title="MapKit Swift and Core Location Tutorial" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="2twyU9biLSo" title="Getting Started with Firebase Remote Config on iOS, Swift 5" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="p7_C-gQT1wY" title="Build An iMessage App In Xcode 11 Swift 5.1 | Creating Messages Extension in iOS 13" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="MP-U5gQylHc" title="StoreKit - In App Purchases Swift" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="wN9nSesPkZ0" title="LIST IN SWIFT [Modern Apps Have]" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="VXC8nWssr2E" title="Stylesheet in iOS" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="s2rGKvpT_WQ" title="Swift Shadow - Shadow with Corners" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="5eqVJvdGOAw" title="UIKit Tutorial - SwiftUI in UIKit" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="YyedBTm73Eo" title="Swift Frame - iOS Layout Guide" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="IJT2WlB03D0" title="Configure Constants in a plist File in Less than 10 Minutes (EASY) | Xcode 10, Swift 5" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="NQOapSkIRTs" title="Tiny Constraints | Build Instagram Profile (part 3) | Swift 5, iOS 12, Xcode 10" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="X-XSsly2eF4" title="Why You Should NEVER Use Navigation Stack! ... This Surprising Alternative Will Change Everything!" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="3Lp8Sm1eC-E" title="Get Values from Info.plist with One Line of Code \(NEW\) \| Swift 5, Xcode 10" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="JRsQxdg_Lbg" title="Build a Chatbot on iOS with SwiftUI and ChatGT  🤔" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="RDtLWWos3cA" title="Unlock the Power of Core Data Versioning!" />
+
+:::
+
+<!-- Rebeloper - Rebel Developer -->
+
+---
+
 <TagLinks/>
 
 [yu-azamsharp]: https://www.youtube.com/@azamsharp
@@ -459,3 +664,10 @@ tags: ["education", "youtube", "ios", "swift"]
 [yu-paul-colton]: https://www.youtube.com/@PaulColton
 [yu-asyncswiftkorea8910]: https://www.youtube.com/@asyncswiftkorea8910
 [yu-let-create-an-app]: https://www.youtube.com/@LetCreateAnApp
+[yu-swiftful-thinking]: https://www.youtube.com/@SwiftfulThinking
+[yu-maxcodes]: https://www.youtube.com/@maxcodes
+[yu-swiftuitutorial1]: https://www.youtube.com/@swiftuitutorial1
+[yu-martinlasek]: https://www.youtube.com/@martinlasek
+[yu-mikaela-caron]: https://www.youtube.com/@MikaelaCaron
+[yu-stewart-lynch]: https://www.youtube.com/@StewartLynch
+[yu-rebeloper]: https://www.youtube.com/@rebeloper

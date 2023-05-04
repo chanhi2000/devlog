@@ -20,6 +20,8 @@ description: 🅺Kotlin
 ![shield-android-studio][shield-android-studio]
 ![shield-eclipse][shield-eclipse]
 
+![Kotlin Coroutine Infographic](https://koenig-media.raywenderlich.com/uploads/2020/06/coroutines-infographic-600.png)
+
 {{ $frontmatter.description }} 관련 정리내용
 
 [shield-jetbrains]: https://img.shields.io/badge/Jetbrains-000000?logo=jetbrains&logoColor=white&style=flat-square

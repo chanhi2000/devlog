@@ -32,6 +32,11 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor][JushBJJ/Mr.-Ranedeer-AI-Tutor]: A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [RUCAIBox/LLMSurvey][RUCAIBox/LLMSurvey]: The official GitHub page for the survey paper "A Survey of Large Language Models". <GithubTags tagItems="natural-language-processing;pre-training;pre-trained-language-models;in-context-learning;large-language-models;llm;llms;chain-of-thought;chatgpt;rlhf;instruction-tuning"/>
   - [🌐Official Site](https://arxiv.org/abs/2303.18223)
+- [pim-book/programmers-introduction-to-mathematics][pim-book/programmers-introduction-to-mathematics]: Code for A Programmer's Introduction to Mathematics <GithubTags tagItems="python;mathematics;programmer" />
+  - [🌐Official Site](https://pimbook.org)
+- [krahets/hello-algo][krahets/hello-algo]: 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。<GithubTags tagItems="algorithm;data-structure;algorithms;leetcode;algo;data-structures;dsa;mkdocs-material;data-structures-and-algorithms" />
+  - [🌐Official Site](https://hello-algo.com)
+
 
 ---
 
@@ -134,6 +139,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [jackfrued/Python-100-Days][jackfrued/Python-100-Days]: Python - 100天从新手到大师
 - [microsoft/DeepSpeedExamples][microsoft/DeepSpeedExamples]: Example models using DeepSpeed
 - [danielgross/LlamaAcademy][danielgross/LlamaAcademy]: A school for camelids
+- [lizrice/ebpf-beginners][lizrice/ebpf-beginners]: The beginner's guide to eBPF
 
 ---
 
@@ -194,12 +200,11 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 - [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions <GithubTags tagItems="python;git;linux;docker;kubernetes;aws;ansible;devops;sql;azure;containers;terraform;openstack;interview;prometheus;coding;sre;interview-questions;production-engineer" />
 - [MichaelCade/90DaysOfDevOps][MichaelCade/90DaysOfDevOps]: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
-- [ripienaar/free-for-devs][ripienaar/free-for-dev]: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [ripienaar/free-for-devs][ripienaar/free-for-dev]: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev <GithubTags tagItems="awesome-list;free-for-developers" />
   - [🌐Official Site](https://free-for.dev)
 - [kodekloudhub/linux-basics-course][kodekloudhub/linux-basics-course]
 - [aws/containers-roadmap][aws/containers-roadmap]: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). <GithubTags tagItems="kubernetes;aws;roadmap;containers;ecs;ecr;fargate;eks"/>
   - [🌐Official Site](https://aws.amazon.com/about-aws/whats-new/containers)
-
 
 ---
 
@@ -261,6 +266,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [jwasham/coding-interview-university]: https://github.com/jwasham/coding-interview-university
 [JushBJJ/Mr.-Ranedeer-AI-Tutor]: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
 [RUCAIBox/LLMSurvey]: https://github.com/RUCAIBox/LLMSurvey
+[pim-book/programmers-introduction-to-mathematics]: https://github.com/pim-book/programmers-introduction-to-mathematics
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -316,6 +322,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [jackfrued/Python-100-Days]: https://github.com/jackfrued/Python-100-Days
 [microsoft/DeepSpeedExamples]: https://github.com/microsoft/DeepSpeedExamples
 [danielgross/LlamaAcademy]: https://github.com/danielgross/LlamaAcademy
+[lizrice/ebpf-beginners]: https://github.com/lizrice/ebpf-beginners
 <!-- Jupyter Notebook -->
 [microsoft/ML-For-Beginners]: https://github.com/microsoft/ML-For-Beginners
 [gkamradt/langchain-tutorials]: https://github.com/gkamradt/langchain-tutorials

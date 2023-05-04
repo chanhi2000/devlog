@@ -1,15 +1,18 @@
 ---
 lang: ko-KR
-title: 🧰Useful Snippets
-description: 🐘Gradle > 🧰Useful Snippets
+title: 🛹Snippets
+description: 🐘Gradle > 🛹Snippets
 tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "war", "plugin-war", "plugin-java", "executable-jar", "jar"]
 ---
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
 [[toc]]
 
 ---
+
 ## 모듈명 지정
 
 | title | description |

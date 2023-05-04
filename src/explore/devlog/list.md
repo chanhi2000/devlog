@@ -149,6 +149,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [Spring MVC on VSCode - Maven Project](https://dev.to/spaceofmiah/spring-mvc-on-vscode-maven-project-50g8#needful-vscode-extension)
 - [The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)
+- [(번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
 
 ---
 
@@ -331,6 +332,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [화살표에 대한 단상](https://brunch.co.kr/@meanimize/75)
 - [1px 보다 얇은 디자인 — 라인 편](https://brunch.co.kr/@euid/6)
 - [(요약) The mind behind Linux | Linus Torvalds](https://johngrib.github.io/wiki/summary-the-mind-behind-linux)
+- [Enhancements to the Kagi search experience](https://blog.kagi.com/search-enhancements)
+- [Driving Compiler](https://fabiensanglard.net/dc/index.php)
 
 ---
 

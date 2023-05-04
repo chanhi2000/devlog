@@ -191,7 +191,7 @@ meta:
 - [tangly1024/NotionNext][tangly1024/NotionNext]: 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
   - [🌐Official Site](https://tangly1024.com)
 - [ayaka14732/ChatGPTAPIFree][ayaka14732/ChatGPTAPIFree]: A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
-- [cocktailpeanut/dalai][cocktailpeanut/dalai]: The simplest way to run LLaMA on your local machine
+- [cocktailpeanut/dalai][cocktailpeanut/dalai]: The simplest way to run LLaMA on your local machine <GithubTags tagItems="ai;llama;llm" />
   - [🌐Official Site](https://cocktailpeanut.github.io/dalai)
 - [upscayl/upscayl][upscayl/upscayl]: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
   - [🌐Official Site](https://upscayl.github.io)
@@ -231,7 +231,7 @@ meta:
   - [🌐Official Site](https://responsively.app)
 - [0hq/WebGPT][0hq/WebGPT]: Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
   - [🌐Official Site](https://kmeans.org)
-- [xtekky/chatgpt-clone][xtekky/chatgpt-clone]: ChatGPT interface with better UI + running on free gpt api's <Badge type="info" vertical="middle" text="anguage"/> <Badge type="info" vertical="middle" text="ui"/> <Badge type="info" vertical="middle" text="interface"/> <Badge type="info" vertical="middle" text="site"/> <Badge type="info" vertical="middle" text="language-model"/> <Badge type="info" vertical="middle" text="gpt3"/> <Badge type="info" vertical="middle" text="gpt-4"/> <Badge type="info" vertical="middle" text="gpt4"/> <Badge type="info" vertical="middle" text="chatgpt"/> <Badge type="info" vertical="middle" text="chatgpt-api"/> <Badge type="info" vertical="middle" text="chatgpt-clone"/> <Badge type="info" vertical="middle" text="chatgpt-app"/> <Badge type="info" vertical="middle" text="gpt4-api"/> <Badge type="info" vertical="middle" text="gpt-4-api"/> <Badge type="info" vertical="middle" text="gpt4all"/> <Badge type="info" vertical="middle" text="gpt-interface"/>
+- [xtekky/chatgpt-clone][xtekky/chatgpt-clone]: ChatGPT interface with better UI + running on free gpt api's <GithubTags tagItems="language;ui;interface;site;language-model;gpt3;gpt-4;gpt4;chatgpt;chatgpt-api;chatgpt-clone;chatgpt-app;gpt4-api;gpt-4-api;gpt4all;gpt-interface" />
   - [🌐Official Site](https://chatbot.sex)
 - [enten/eaglercraft-ashes][enten/eaglercraft-ashes]: Git bundles of Eaglercraft repositories for archival purposes
 - [saeedezzati/superpower-chatgpt][saeedezzati/superpower-chatgpt]: Superpower ChatGPT Chrome Extension
@@ -255,8 +255,18 @@ meta:
   - [🌐Official Site](https://atrilabs.com)
 - [EddieHubCommunity/LinkFree][EddieHubCommunity/LinkFree]: Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. <GithubTags tagItems="nodejs;javascript;css;html;reactjs;nextjs;hacktoberfest;tailwind;linktree" />
   - [🌐Official Site](https://linkfree.io)
+- [frappe/frappe][frappe/frappe]: Low code web framework for real world applications, in Python and Javascript <GithubTags tagItems="javascript;python;cms;webhooks;security;postgres;email;rest-api;socket-io;web-framework;mariadb;full-stack;frappe;erpnext;hacktoberfest;multitenant;low-code" />
+  - [🌐Official Site](https://frappeframework.com)
+- [pashpashpash/vault-ai][pashpashpash/vault-ai]: OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend. <GithubTags tagItems="react;go;golang;machine-learning;ai;reactjs;artificial-intelligence;openai;question-answering;knowledge-base;generative;pinecone;pdf-support;long-term-memory;vector-search;openai-api;chatgpt" />
+  - [🌐Official Site](https://vault.pash.city)
+- [micheleg/dash-to-dock][micheleg/dash-to-dock]: A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops. <GithubTags tagItems="linux;gnome;dock" />
+  - [🌐Official Site](https://micheleg.github.io/dash-to-dock)
+
+
+
 
 <!-- Javascript -->
+
 ---
 
 
@@ -391,6 +401,11 @@ meta:
   - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
 - [AprilNEA/ChatGPT-Admin-Web][AprilNEA/ChatGPT-Admin-Web]: 带有用户管理和后台管理系统的 ChatGPT WebUI <GithubTags tagItems="redis;web;nextjs;prompt;user-management;webui;vercel;gpt-4;chatgpt;newbing" />
   - [🌐Official Site](https://lmo.best)
+- [Azure/Azure-Sentinel][Azure/Azure-Sentinel]: Cloud-native SIEM for intelligent security analytics for your entire enterprise. <GithubTags tagItems="cybersecurity;sample-code" />
+  - [🌐Official Site](https://azure.microsoft.com/en-us/services/azure-sentinel)
+- [drizzle-team/drizzle-orm][drizzle-team/drizzle-orm]: TypeScript ORM for SQL <GithubTags tagItems="nodejs;mysql;postgres;typescript;sql;orm;sqlite;neon;postgresql;sqlite3;d1;mysql2;sqljs;bunjs;litefs;turso;libsql;postgresjs" />
+
+
 
 <TagLinks />
 
@@ -527,6 +542,9 @@ meta:
 [bigskysoftware/htmx]: https://github.com/bigskysoftware/htmx
 [Atri-Labs/atrilabs-engine]: https://github.com/Atri-Labs/atrilabs-engine
 [EddieHubCommunity/LinkFree]: https://github.com/EddieHubCommunity/LinkFree
+[frappe/frappe]: https://github.com/frappe/frappe
+[pashpashpash/vault-ai]: https://github.com/pashpashpash/vault-ai
+[micheleg/dash-to-dock]: https://github.com/micheleg/dash-to-dock
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -600,3 +618,5 @@ meta:
 [mockoon/mockoon]: https://github.com/mockoon/mockoon
 [pure-admin/vue-pure-admin]: https://github.com/pure-admin/vue-pure-admin
 [AprilNEA/ChatGPT-Admin-Web]: https://github.com/AprilNEA/ChatGPT-Admin-Web
+[Azure/Azure-Sentinel]: https://github.com/Azure/Azure-Sentinel
+[drizzle-team/drizzle-orm]: https://github.com/drizzle-team/drizzle-orm

@@ -113,7 +113,7 @@ services:
 version: "3"
 
 networks:
-  gitlab-network:
+  common-network:
     driver: bridge
 
 services:
@@ -122,7 +122,7 @@ services:
     container_name: gitlab
     restart: always
     networks:
-      - gitlab-network
+      - common-network
     hostname: 'gitlab.example.com'
     environment:
       GITLAB_OMNIBUS_CONFIG: |
@@ -141,7 +141,7 @@ services:
     container_name: gitlab-runner
     restart: always
     networks:
-      - gitlab-network
+      - common-network
     volumes:
       - '$GITLAB_RUNNER_HOME/config:/etc/gitlab-runner'
       - '/var/run/docker.sock:/var/run/docker.sock'
@@ -152,7 +152,16 @@ services:
 컨테이너로 sh접근 후 실행
 
 ```sh
-docker exec -it gitlab-runner /bin/bash -c "gitlab-runner register"
+docker inspect --format='{{.NetworkSettings.Networks}}' gitlab # gitlab이 속해있는 network이름 찾기 (i.e. docker-compose_common-network)
+
+docker exec -it gitlab-runner /bin/bash 
+
+gitlab-runner register --non-interactive \
+  --url http://gitlab \
+  --registration-token GR1348941XFBuSpcsKGBSHAxLv2FP \
+  --executor docker \
+  --docker-image alpine:latest \
+  --docker-network-mode docker-compose_common-network
 ```
 
 진행 시 입력 해야 할 값

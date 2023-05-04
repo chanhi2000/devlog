@@ -13,6 +13,21 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## Microsoft Research
+
+[Microsoft Research][yu-microsoft-research]
+
+::: details 목록
+
+<YoutubeItem channelName="Microsoft Research" channelId="MicrosoftResearch" id="9WrVdluFfpo" title="Project Orleans and the distributed database future with Dr. Philip Bernstein \| Podcast" />
+<YoutubeItem channelName="Microsoft Research" channelId="MicrosoftResearch" id="oZQ_c89HFU0" title="Installing Microsoft SEAL on Windows" />
+
+:::
+
+<!-- Microsoft Research -->
+
+---
+
 ## ThioJoe
 
 [ThioJoe][yu-thio-joe]
@@ -125,8 +140,50 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## TroubleChute
+
+[TroubleChute][yu-trouble-chute]
+
+::: details 목록
+
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="lzhXZQucQFA" title="Hide Recent Files in the Start Menu | Simple Windows 11 Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="cOJbzmZTKvM" title="How to setup Android Subsystem on Windows 11 | NEW GUIDE" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="i7651MjMXNs" title="Install osu! on Mac | Lazer + Normal/Stable | Full Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="BbYJd9kRjLg" title="🤯Insane Image Manipulation | ControlNet Install & Usage Guide | UPDATED" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="J5A-T2he1Bo" title="INSANE Text2Video in SDUI📹Full Install &amp; Use Guide | AUTOMATIC1111 Stable Diffusion" />
+
+:::
+
+<!-- TroubleChute -->
+
+---
+
+## Michael MJD
+
+[Michael MJD][yu-michael-mjd]
+
+::: details 목록
+
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="lzhXZQucQFA" title="Hide Recent Files in the Start Menu | Simple Windows 11 Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="cOJbzmZTKvM" title="How to setup Android Subsystem on Windows 11 | NEW GUIDE" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="i7651MjMXNs" title="Install osu! on Mac | Lazer + Normal/Stable | Full Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="BbYJd9kRjLg" title="🤯Insane Image Manipulation | ControlNet Install & Usage Guide | UPDATED" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="J5A-T2he1Bo" title="INSANE Text2Video in SDUI📹Full Install &amp; Use Guide | AUTOMATIC1111 Stable Diffusion" />
+
+:::
+
+<!-- Michael MJD -->
+
+---
+
+
+
+
 <TagLinks />
 
+[yu-microsoft-research]: https://www.youtube.com/@MicrosoftResearch
 [yu-thio-joe]: https://www.youtube.com/@ThioJoe
 [yu-netvn]: https://www.youtube.com/@NETVN82
 [yu-britec-09]: https://www.youtube.com/@Britec09
+[yu-trouble-chute]: https://www.youtube.com/@TroubleChute
+[yu-michael-mjd]: https://www.youtube.com/@MichaelMJD

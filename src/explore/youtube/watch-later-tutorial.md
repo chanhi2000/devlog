@@ -83,7 +83,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 | ❌ | <a href="https://www.youtube.com/watch?v=DiwS9VTMFv0"><img width="140px" height="auto" alt="thumb-DiwS9VTMFv0" src="https://i.ytimg.com/vi/DiwS9VTMFv0/hqdefault.jpg"/></a> | [Serverless Functions Course - Create a Serverless API](https://www.youtube.com/watch?v=DiwS9VTMFv0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=2LhoCfjm8R4"><img width="140px" height="auto" alt="thumb-2LhoCfjm8R4" src="https://i.ytimg.com/vi/2LhoCfjm8R4/hqdefault.jpg"/></a> | [Data Visualization with D3, JavaScript, React - Full Course \[2021\]](https://www.youtube.com/watch?v=2LhoCfjm8R4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=4gMDR69DB6A"><img width="140px" height="auto" alt="thumb-4gMDR69DB6A" src="https://i.ytimg.com/vi/4gMDR69DB6A/hqdefault.jpg"/></a> | [Build a Robinhood-Style Android App to Track COVID-19 Cases - Kotlin Tutorial](https://www.youtube.com/watch?v=4gMDR69DB6A) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0KCKBv6rbkc"><img width="140px" height="auto" alt="thumb-0KCKBv6rbkc" src="https://i.ytimg.com/vi/0KCKBv6rbkc/hqdefault.jpg"/></a> | [Hibernate Tutorial For Beginners \| Java Hibernate in 100 minutes \| Hibernate Project \| Simplilearn](https://www.youtube.com/watch?v=0KCKBv6rbkc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=aoQ6S1a32j8"><img width="140px" height="auto" alt="thumb-aoQ6S1a32j8" src="https://i.ytimg.com/vi/aoQ6S1a32j8/hqdefault.jpg"/></a> | [How to Make a Landing Page using HTML, SCSS, and JavaScript - Full Course](https://www.youtube.com/watch?v=aoQ6S1a32j8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=zuegQmMdy8M"><img width="140px" height="auto" alt="thumb-zuegQmMdy8M" src="https://i.ytimg.com/vi/zuegQmMdy8M/hqdefault.jpg"/></a> | [Pointers in C / C++ \[Full Course\]](https://www.youtube.com/watch?v=zuegQmMdy8M) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=fmyvWz5TUWg"><img width="140px" height="auto" alt="thumb-fmyvWz5TUWg" src="https://i.ytimg.com/vi/fmyvWz5TUWg/hqdefault.jpg"/></a> | [Learn Ruby on Rails - Full Course](https://www.youtube.com/watch?v=fmyvWz5TUWg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
@@ -417,34 +416,7 @@ Django Project – Code a CRM App Tutorial
 | ❌ | <a href="https://www.youtube.com/watch?v=461735zrjzY"><img width="140px" height="auto" alt="thumb-461735zrjzY" src="https://i.ytimg.com/vi/461735zrjzY/hqdefault.jpg"/></a> | [React Is This Fast???](https://www.youtube.com/watch?v=461735zrjzY) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=2uEqYw-N8uE"><img width="140px" height="auto" alt="thumb-2uEqYw-N8uE" src="https://i.ytimg.com/vi/2uEqYw-N8uE/hqdefault.jpg"/></a> | [Git's Best And Most Unknown Feature](https://www.youtube.com/watch?v=2uEqYw-N8uE) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
 
-Single/Multiple Permission Request with Jetpack Compose \| Android Studio Tutorial
-uO6igFsa5y0
-
 :::
-
----
-## That DevOps Guys
-
-[That DevOps Guy][yu-MarcelDempers]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=u0qtgUMLua0"><img width="140px" height="auto" alt="thumb-u0qtgUMLua0" src="https://i.ytimg.com/vi/u0qtgUMLua0/hqdefault.jpg"/></a> | [Storing Secrets in GIT \| GitOps \| Kubernetes](https://www.youtube.com/watch?v=u0qtgUMLua0) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1zcXudjSVUs"><img width="140px" height="auto" alt="thumb-1zcXudjSVUs" src="https://i.ytimg.com/vi/1zcXudjSVUs/hqdefault.jpg"/></a> | [Understanding KUBECTL - Learning Kubernetes](https://www.youtube.com/watch?v=1zcXudjSVUs) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_NtRkBipepg"><img width="140px" height="auto" alt="thumb-_NtRkBipepg" src="https://i.ytimg.com/vi/_NtRkBipepg/hqdefault.jpg"/></a> | [Introduction to Service monitors for beginners | Kubernetes monitoring](https://www.youtube.com/watch?v=_NtRkBipepg) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Qy2A_yJH5-o"><img width="140px" height="auto" alt="thumb-Qy2A_yJH5-o" src="https://i.ytimg.com/vi/Qy2A_yJH5-o/hqdefault.jpg"/></a> | [Getting Started with EKS and Terraform](https://www.youtube.com/watch?v=Qy2A_yJH5-o) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Hc-XFPHDDk4"><img width="140px" height="auto" alt="thumb-Hc-XFPHDDk4" src="https://i.ytimg.com/vi/Hc-XFPHDDk4/hqdefault.jpg"/></a> | [Introduction to Linkerd for beginners \| a Service Mesh](https://www.youtube.com/watch?v=Hc-XFPHDDk4) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hfUIWe1tK8E"><img width="140px" height="auto" alt="thumb-hfUIWe1tK8E" src="https://i.ytimg.com/vi/hfUIWe1tK8E/hqdefault.jpg"/></a> | [RabbitMQ : Message Queues for beginners](https://www.youtube.com/watch?v=hfUIWe1tK8E) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PW44JaAlI_8"><img width="140px" height="auto" alt="thumb-PW44JaAlI_8" src="https://i.ytimg.com/vi/PW44JaAlI_8/hqdefault.jpg"/></a> | [Making Kubernetes disappear with Shipa](https://www.youtube.com/watch?v=PW44JaAlI_8) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1mNYSn2KMZk"><img width="140px" height="auto" alt="thumb-1mNYSn2KMZk" src="https://i.ytimg.com/vi/1mNYSn2KMZk/hqdefault.jpg"/></a> | [How to build a Kubernetes Webhook \| Admission controllers](https://www.youtube.com/watch?v=1mNYSn2KMZk) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6kmHvXdAzIM"><img width="140px" height="auto" alt="thumb-6kmHvXdAzIM" src="https://i.ytimg.com/vi/6kmHvXdAzIM/hqdefault.jpg"/></a> | [Fluentd on Kubernetes: Log collection explained](https://www.youtube.com/watch?v=6kmHvXdAzIM) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JeAHlTYB1Qk"><img width="140px" height="auto" alt="thumb-JeAHlTYB1Qk" src="https://i.ytimg.com/vi/JeAHlTYB1Qk/hqdefault.jpg"/></a> | [How to learn Kubernetes in 2022](https://www.youtube.com/watch?v=JeAHlTYB1Qk) <br/><br/> _[That DevOps Guy][yu-MarcelDempers]_ |
-
-
-:::
-
-<!-- That DevOps Guy -->
 
 ---
 
@@ -453,61 +425,52 @@ uO6igFsa5y0
 [Simplilearn][yu-simplilearn]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=4JDYP5XiHdI"><img width="140px" height="auto" alt="thumb-4JDYP5XiHdI" src="https://i.ytimg.com/vi/4JDYP5XiHdI/hqdefault.jpg"/></a> | [🔥Advanced Excel Full Course 2022 \| Advanced Excel Functions \| MS Excel 19 Training \| Simplilearn](https://www.youtube.com/watch?v=4JDYP5XiHdI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kAw1l1bqhLM"><img width="140px" height="auto" alt="thumb-kAw1l1bqhLM" src="https://i.ytimg.com/vi/kAw1l1bqhLM/hqdefault.jpg"/></a> | [🔥Cyber Security Full Course 2022 \| Cyber Security Course Training For Beginners 2022 \| Simplilearn](https://www.youtube.com/watch?v=kAw1l1bqhLM) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mPkb0y8OY2k"><img width="140px" height="auto" alt="thumb-mPkb0y8OY2k" src="https://i.ytimg.com/vi/mPkb0y8OY2k/hqdefault.jpg"/></a> | [🔥AWS Full Course 2022 \| AWS Tutorial For Beginners 2022 \| AWS Training For Beginners \| Simplilearn](https://www.youtube.com/watch?v=mPkb0y8OY2k) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=idJU-PxejWM"><img width="140px" height="auto" alt="thumb-idJU-PxejWM" src="https://i.ytimg.com/vi/idJU-PxejWM/hqdefault.jpg"/></a> | [🔥Excel Full Course 2022 \| Excel Tutorial For Beginners \| Essential Excel Skills \| Simplilearn](https://www.youtube.com/watch?v=idJU-PxejWM) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6d5XVN8OrLE"><img width="140px" height="auto" alt="thumb-6d5XVN8OrLE" src="https://i.ytimg.com/vi/6d5XVN8OrLE/hqdefault.jpg"/></a> | [🔥What is AZURE? \| AZURE Tutorial For Beginners \| Microsoft AZURE Full Course \| 2022 \| Simplilearn](https://www.youtube.com/watch?v=6d5XVN8OrLE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TfHjkrzhvQc"><img width="140px" height="auto" alt="thumb-TfHjkrzhvQc" src="https://i.ytimg.com/vi/TfHjkrzhvQc/hqdefault.jpg"/></a> | [🔥Python Projects That Will Get You Hired as a Python Developer \| Python Projects 2022 \| Simplilearn](https://www.youtube.com/watch?v=TfHjkrzhvQc) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=z6EpJFMDpK8"><img width="140px" height="auto" alt="thumb-z6EpJFMDpK8" src="https://i.ytimg.com/vi/z6EpJFMDpK8/hqdefault.jpg"/></a> | [C# Assembly Tutorial \| What Is Assembly in C# \| Assembly in C# Explained \| C# Tutorial \| Simplilearn](https://www.youtube.com/watch?v=z6EpJFMDpK8) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Od1mocpoM90"><img width="140px" height="auto" alt="thumb-Od1mocpoM90" src="https://i.ytimg.com/vi/Od1mocpoM90/hqdefault.jpg"/></a> | [🔥Web Development Full Course \| HTML And CSS Full Course \| HTML Tutorial \| CSS Tutorial \| Simplilearn](https://www.youtube.com/watch?v=Od1mocpoM90) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI"><img width="140px" height="auto" alt="thumb-8Ob8Hre_SnI" src="https://i.ytimg.com/vi/8Ob8Hre_SnI/hqdefault.jpg"/></a> | [Advanced Excel Full Course 2023 \| Excel Tutorial For Beginners \| Excel Training \| Simplilearn](https://www.youtube.com/watch?v=8Ob8Hre_SnI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fpT-xEaJXug"><img width="140px" height="auto" alt="thumb-fpT-xEaJXug" src="https://i.ytimg.com/vi/fpT-xEaJXug/hqdefault.jpg"/></a> | [🔥Career Information Session: Launching a Cybersecurity Career With Caltech CTME \| Simplilearn](https://www.youtube.com/watch?v=fpT-xEaJXug) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=e9RY66E8LeQ"><img width="140px" height="auto" alt="thumb-e9RY66E8LeQ" src="https://i.ytimg.com/vi/e9RY66E8LeQ/hqdefault.jpg"/></a> | [🔴 Build A Whatsapp Clone With React JS? \| WhatsApp Clone Using React JS \| Simplilearn](https://www.youtube.com/watch?v=e9RY66E8LeQ) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vOlLd2SsKM4"><img width="140px" height="auto" alt="thumb-vOlLd2SsKM4" src="https://i.ytimg.com/vi/vOlLd2SsKM4/hqdefault.jpg"/></a> | [C# Delegates Explained \| C# Delegates And Events Tutorial \| C# Delegates Example \| Simplilearn](https://www.youtube.com/watch?v=vOlLd2SsKM4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XP9dOgM4ctQ"><img width="140px" height="auto" alt="thumb-XP9dOgM4ctQ" src="https://i.ytimg.com/vi/XP9dOgM4ctQ/hqdefault.jpg"/></a> | [Kruskals Algorithm \| Kruskals Algorithm For Minimum Spanning Trees \| Data Structures \| Simplilearn](https://www.youtube.com/watch?v=XP9dOgM4ctQ) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vHSLE0Vrv50"><img width="140px" height="auto" alt="thumb-vHSLE0Vrv50" src="https://i.ytimg.com/vi/vHSLE0Vrv50/hqdefault.jpg"/></a> | [NodeJS And MongoDB Full Course \| Node.js And MongoDB Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=vHSLE0Vrv50) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2DtHyB0REQA"><img width="140px" height="auto" alt="thumb-2DtHyB0REQA" src="https://i.ytimg.com/vi/2DtHyB0REQA/hqdefault.jpg"/></a> | [UiPath Excel Automation Tutorial \| Excel Automation Using UiPath \| UiPath Tutorial \| Simplilearn](https://www.youtube.com/watch?v=2DtHyB0REQA) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ih2zpAwuPNI"><img width="140px" height="auto" alt="thumb-ih2zpAwuPNI" src="https://i.ytimg.com/vi/ih2zpAwuPNI/hqdefault.jpg"/></a> | [Excel Gantt Chart Tutorial \| How To Make Gantt Chart In Excel \| Excel Tutorial \| Simplilearn](https://www.youtube.com/watch?v=ih2zpAwuPNI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jC3r8x3og8w"><img width="140px" height="auto" alt="thumb-jC3r8x3og8w" src="https://i.ytimg.com/vi/jC3r8x3og8w/hqdefault.jpg"/></a> | [React JS Full Course \| React.js Full Tutorial \| Learn React.js \| ReactJS Training \| Simplilearn](https://www.youtube.com/watch?v=jC3r8x3og8w) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MbHa_62olY4"><img width="140px" height="auto" alt="thumb-MbHa_62olY4" src="https://i.ytimg.com/vi/MbHa_62olY4/hqdefault.jpg"/></a> | [Azure Training \| Microsoft Azure Full Course \| Azure Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=MbHa_62olY4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OCvMUPMa_9o"><img width="140px" height="auto" alt="thumb-OCvMUPMa_9o" src="https://i.ytimg.com/vi/OCvMUPMa_9o/hqdefault.jpg"/></a> | [Azure Full Course \| Azure Tutorial For Beginners \| Microsoft Azure Training \| Simplilearn](https://www.youtube.com/watch?v=OCvMUPMa_9o) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=j3byTqx7KDE"><img width="140px" height="auto" alt="thumb-j3byTqx7KDE" src="https://i.ytimg.com/vi/j3byTqx7KDE/hqdefault.jpg"/></a> | [Spring Full Course - Learn Spring Framework In 3 Hours \| Spring Framework Tutorial \| Simplilearn](https://www.youtube.com/watch?v=j3byTqx7KDE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=X1VVdOHi8hk"><img width="140px" height="auto" alt="thumb-X1VVdOHi8hk" src="https://i.ytimg.com/vi/X1VVdOHi8hk/hqdefault.jpg"/></a> | [What is Apache Spark? \| Introduction to Apache Spark \| Apache Spark Certification \| Simplilearn](https://www.youtube.com/watch?v=X1VVdOHi8hk) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5KtRF4NuUWE"><img width="140px" height="auto" alt="thumb-5KtRF4NuUWE" src="https://i.ytimg.com/vi/5KtRF4NuUWE/hqdefault.jpg"/></a> | [DevOps Full Course \| Learn DevOps In 10 Hours \| DevOps Tutorial For Beginners \| DevOps \| Simplilearn](https://www.youtube.com/watch?v=5KtRF4NuUWE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=e6ntvZDErQ4"><img width="140px" height="auto" alt="thumb-e6ntvZDErQ4" src="https://i.ytimg.com/vi/e6ntvZDErQ4/hqdefault.jpg"/></a> | [Google Analytics Full Course  \[2023\] \| Google Analytics Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=e6ntvZDErQ4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EJwpULmBew8"><img width="140px" height="auto" alt="thumb-EJwpULmBew8" src="https://i.ytimg.com/vi/EJwpULmBew8/hqdefault.jpg"/></a> | [How To Get Traffic To Your Website \| Fastest Ways To Get Traffic To Your Website In 2020\|Simplilearn](https://www.youtube.com/watch?v=EJwpULmBew8) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FX322RVNGj4"><img width="140px" height="auto" alt="thumb-FX322RVNGj4" src="https://i.ytimg.com/vi/FX322RVNGj4/hqdefault.jpg"/></a> | [Jenkins Full Course \| Jenkins Tutorial For Beginners \| Jenkins Tutorial \| Simplilearn](https://www.youtube.com/watch?v=FX322RVNGj4) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Q3AZ28PntSI"><img width="140px" height="auto" alt="thumb-Q3AZ28PntSI" src="https://i.ytimg.com/vi/Q3AZ28PntSI/hqdefault.jpg"/></a> | [Selenium Webdriver Tutorial \| Selenium Tutorial For Beginners \| Selenium Training \| Simplilearn](https://www.youtube.com/watch?v=Q3AZ28PntSI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mk2FBuTMwDc"><img width="140px" height="auto" alt="thumb-mk2FBuTMwDc" src="https://i.ytimg.com/vi/mk2FBuTMwDc/hqdefault.jpg"/></a> | [CI/CD Pipeline Using Jenkins \| Continuous Integration &amp; Continuous Deployment \| DevOps \| Simplilearn](https://www.youtube.com/watch?v=mk2FBuTMwDc) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iYMtc8c945U"><img width="140px" height="auto" alt="thumb-iYMtc8c945U" src="https://i.ytimg.com/vi/iYMtc8c945U/hqdefault.jpg"/></a> | [Node.js MongoDB Tutorial \| NodeJS With MongoDB Tutorial For Beginners \| NodeJS Tutorial \|Simplilearn](https://www.youtube.com/watch?v=iYMtc8c945U) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-5tA3hZTVfA"><img width="140px" height="auto" alt="thumb--5tA3hZTVfA" src="https://i.ytimg.com/vi/-5tA3hZTVfA/hqdefault.jpg"/></a> | [Maven And Jenkins Integration \| How To Integrate Maven With Jenkins \| Jenkins Pipeline \| Simplilearn](https://www.youtube.com/watch?v=-5tA3hZTVfA) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3OrEsC-QjUA"><img width="140px" height="auto" alt="thumb-3OrEsC-QjUA" src="https://i.ytimg.com/vi/3OrEsC-QjUA/hqdefault.jpg"/></a> | [Java JDBC tutorial \| Java Database Connectivity \| Java Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=3OrEsC-QjUA) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4EOaAkY4pNE"><img width="140px" height="auto" alt="thumb-4EOaAkY4pNE" src="https://i.ytimg.com/vi/4EOaAkY4pNE/hqdefault.jpg"/></a> | [AWS Autoscaling \| AWS Autoscaling And Load Balancing \| AWS Tutorial For Beginners \| Simplilearn](https://www.youtube.com/watch?v=4EOaAkY4pNE) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-GsvomI4CCQ"><img width="140px" height="auto" alt="thumb--GsvomI4CCQ" src="https://i.ytimg.com/vi/-GsvomI4CCQ/hqdefault.jpg"/></a> | [Jenkins Pipeline Tutorial \| CI CD Pipeline using Jenkins \| Jenkins Tutorial \| Simplilearn](https://www.youtube.com/watch?v=-GsvomI4CCQ) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Jdkrj2lDAEY"><img width="140px" height="auto" alt="thumb-Jdkrj2lDAEY" src="https://i.ytimg.com/vi/Jdkrj2lDAEY/hqdefault.jpg"/></a> | [Selenium Tutorial For Beginners \| Selenium Full Course \| Selenium Webdriver Tutorial \| Simplilearn](https://www.youtube.com/watch?v=Jdkrj2lDAEY) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HbIMwaWvT6g"><img width="140px" height="auto" alt="thumb-HbIMwaWvT6g" src="https://i.ytimg.com/vi/HbIMwaWvT6g/hqdefault.jpg"/></a> | [🔥AWS Full Course 2023 | AWS Tutorial For Beginners 2023 | AWS Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=HbIMwaWvT6g) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1NE2Fp5QOgU"><img width="140px" height="auto" alt="thumb-1NE2Fp5QOgU" src="https://i.ytimg.com/vi/1NE2Fp5QOgU/hqdefault.jpg"/></a> | [HTML Full Course 2023 🔥 | HTML Tutorial For Beginners | Learn HTML In One video | Simplilearn](https://www.youtube.com/watch?v=1NE2Fp5QOgU) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HK_q1lH5x5M"><img width="140px" height="auto" alt="thumb-HK_q1lH5x5M" src="https://i.ytimg.com/vi/HK_q1lH5x5M/hqdefault.jpg"/></a> | [🔥AWS Full Course 2023 | AWS Tutorial For Beginners 2023 | AWS Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=HK_q1lH5x5M) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Xv-O2HizYCY"><img width="140px" height="auto" alt="thumb-Xv-O2HizYCY" src="https://i.ytimg.com/vi/Xv-O2HizYCY/hqdefault.jpg"/></a> | [🔥Ethical Hacking Full Course 2023 | Ethical Hacking Course For Beginners 2023 | Simplilearn](https://www.youtube.com/watch?v=Xv-O2HizYCY) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI"><img width="140px" height="auto" alt="thumb-8Ob8Hre_SnI" src="https://i.ytimg.com/vi/8Ob8Hre_SnI/hqdefault.jpg"/></a> | [Advanced Excel Full Course 2023 | Excel Tutorial For Beginners | Excel Training | Simplilearn](https://www.youtube.com/watch?v=8Ob8Hre_SnI) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lgZqYljTgTY"><img width="140px" height="auto" alt="thumb-lgZqYljTgTY" src="https://i.ytimg.com/vi/lgZqYljTgTY/hqdefault.jpg"/></a> | [🔥Cyber Security Full Course 2023 | Cyber Security Course Training For Beginners 2023 | Simplilearn](https://www.youtube.com/watch?v=lgZqYljTgTY) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=e9RY66E8LeQ"><img width="140px" height="auto" alt="thumb-e9RY66E8LeQ" src="https://i.ytimg.com/vi/e9RY66E8LeQ/hqdefault.jpg"/></a> | [🔴 Build A Whatsapp Clone With React JS? | WhatsApp Clone Using React JS | Simplilearn](https://www.youtube.com/watch?v=e9RY66E8LeQ) <br/><br/> _[Simplilearn][yu-simplilearn]_ |
 
-🔥Docker And Kubernetes In-Depth Tutorial 2022 | Docker And Kubernetes DevOps Explained | Simplilearn
-6fuwwNXug2s
-
-React JS Full Course For Beginners 2022 | Learn ReactJS In 5 Hours | React JS Tutorial | Simplilearn
-ubnpGkSHZ-0
-
-🔥Become a DevOps Expert In 10 Hours | DevOps Tutorial For Beginners | DevOps | 2023 | Simplilearn
-8Cz5Fj9rnoI
-
-DevOps Testing Tutorial | DevOps Testing Tools For Beginners | DevOps Tutorial 2023 | Simplilearn
--IvYJrVtU4Q
-
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="4JDYP5XiHdI" title="🔥Advanced Excel Full Course 2022 | Advanced Excel Functions | MS Excel 19 Training | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="kAw1l1bqhLM" title="🔥Cyber Security Full Course 2022 | Cyber Security Course Training For Beginners 2022 | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="mPkb0y8OY2k" title="🔥AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="idJU-PxejWM" title="🔥Excel Full Course 2022 | Excel Tutorial For Beginners | Essential Excel Skills | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="6d5XVN8OrLE" title="🔥What is AZURE? | AZURE Tutorial For Beginners | Microsoft AZURE Full Course | 2022 | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="TfHjkrzhvQc" title="🔥Python Projects That Will Get You Hired as a Python Developer | Python Projects 2022 | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="z6EpJFMDpK8" title="C# Assembly Tutorial | What Is Assembly in C# | Assembly in C# Explained | C# Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="Od1mocpoM90" title="🔥Web Development Full Course | HTML And CSS Full Course | HTML Tutorial | CSS Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="8Ob8Hre_SnI" title="Advanced Excel Full Course 2023 | Excel Tutorial For Beginners | Excel Training | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="fpT-xEaJXug" title="🔥Career Information Session: Launching a Cybersecurity Career With Caltech CTME | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="e9RY66E8LeQ" title="🔴 Build A Whatsapp Clone With React JS? | WhatsApp Clone Using React JS | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="vOlLd2SsKM4" title="C# Delegates Explained | C# Delegates And Events Tutorial | C# Delegates Example | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="XP9dOgM4ctQ" title="Kruskals Algorithm | Kruskals Algorithm For Minimum Spanning Trees | Data Structures | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="vHSLE0Vrv50" title="NodeJS And MongoDB Full Course | Node.js And MongoDB Tutorial For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="2DtHyB0REQA" title="UiPath Excel Automation Tutorial | Excel Automation Using UiPath | UiPath Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="ih2zpAwuPNI" title="Excel Gantt Chart Tutorial | How To Make Gantt Chart In Excel | Excel Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="jC3r8x3og8w" title="React JS Full Course | React.js Full Tutorial | Learn React.js | ReactJS Training | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="MbHa_62olY4" title="Azure Training | Microsoft Azure Full Course | Azure Tutorial For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="OCvMUPMa_9o" title="Azure Full Course | Azure Tutorial For Beginners | Microsoft Azure Training | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="j3byTqx7KDE" title="Spring Full Course - Learn Spring Framework In 3 Hours | Spring Framework Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="X1VVdOHi8hk" title="What is Apache Spark? | Introduction to Apache Spark | Apache Spark Certification | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="5KtRF4NuUWE" title="DevOps Full Course | Learn DevOps In 10 Hours | DevOps Tutorial For Beginners | DevOps | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="e6ntvZDErQ4" title="Google Analytics Full Course [2023] | Google Analytics Tutorial For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="EJwpULmBew8" title="How To Get Traffic To Your Website | Fastest Ways To Get Traffic To Your Website In 2020|Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="FX322RVNGj4" title="Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="Q3AZ28PntSI" title="Selenium Webdriver Tutorial | Selenium Tutorial For Beginners | Selenium Training | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="mk2FBuTMwDc" title="CI/CD Pipeline Using Jenkins | Continuous Integration &amp; Continuous Deployment | DevOps | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="iYMtc8c945U" title="Node.js MongoDB Tutorial | NodeJS With MongoDB Tutorial For Beginners | NodeJS Tutorial |Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="-5tA3hZTVfA" title="Maven And Jenkins Integration | How To Integrate Maven With Jenkins | Jenkins Pipeline | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="3OrEsC-QjUA" title="Java JDBC tutorial | Java Database Connectivity | Java Tutorial For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="4EOaAkY4pNE" title="AWS Autoscaling | AWS Autoscaling And Load Balancing | AWS Tutorial For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="-GsvomI4CCQ" title="Jenkins Pipeline Tutorial | CI CD Pipeline using Jenkins | Jenkins Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="Jdkrj2lDAEY" title="Selenium Tutorial For Beginners | Selenium Full Course | Selenium Webdriver Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="HbIMwaWvT6g" title="🔥AWS Full Course 2023 | AWS Tutorial For Beginners 2023 | AWS Training For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="1NE2Fp5QOgU" title="HTML Full Course 2023 🔥 | HTML Tutorial For Beginners | Learn HTML In One video | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="HK_q1lH5x5M" title="🔥AWS Full Course 2023 | AWS Tutorial For Beginners 2023 | AWS Training For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="Xv-O2HizYCY" title="🔥Ethical Hacking Full Course 2023 | Ethical Hacking Course For Beginners 2023 | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="8Ob8Hre_SnI" title="Advanced Excel Full Course 2023 | Excel Tutorial For Beginners | Excel Training | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="lgZqYljTgTY" title="🔥Cyber Security Full Course 2023 | Cyber Security Course Training For Beginners 2023 | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="e9RY66E8LeQ" title="🔴 Build A Whatsapp Clone With React JS? | WhatsApp Clone Using React JS | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="6fuwwNXug2s" title="🔥Docker And Kubernetes In-Depth Tutorial 2022 | Docker And Kubernetes DevOps Explained | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="ubnpGkSHZ-0" title="React JS Full Course For Beginners 2022 | Learn ReactJS In 5 Hours | React JS Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="8Cz5Fj9rnoI" title="🔥Become a DevOps Expert In 10 Hours | DevOps Tutorial For Beginners | DevOps | 2023 | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="-IvYJrVtU4Q" title="DevOps Testing Tutorial | DevOps Testing Tools For Beginners | DevOps Tutorial 2023 | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="0KCKBv6rbkc" title="Hibernate Tutorial For Beginners \| Java Hibernate in 100 minutes \| Hibernate Project \| Simplilearn" />
 
 :::
 
@@ -517,112 +480,83 @@ DevOps Testing Tutorial | DevOps Testing Tools For Beginners | DevOps Tutorial 2
 
 ## ProgrammingKnowledge
 
-[ProgrammingKnowledge][yu-programming-knowledge]
+[![ProgrammingKnowledge](https://yt3.googleusercontent.com/ytc/AGIKgqO1_aTMxySfeMCqUCPHZPmm_Vh8ecdreU_HUhoR=s176-c-k-c0x00ffffff-no-rj =x150)][yu-programming-knowledge]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=wJjyZTPgwek"><img width="140px" height="auto" alt="thumb-wJjyZTPgwek" src="https://i.ytimg.com/vi/wJjyZTPgwek/hqdefault.jpg"/></a> | [Linux Tutorial - Master The Command Line](https://www.youtube.com/watch?v=wJjyZTPgwek) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F8LplPNfax8"><img width="140px" height="auto" alt="thumb-F8LplPNfax8" src="https://i.ytimg.com/vi/F8LplPNfax8/hqdefault.jpg"/></a> | [Docker Tutorial](https://www.youtube.com/watch?v=F8LplPNfax8) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7MYx4Fx_eXI"><img width="140px" height="auto" alt="thumb-7MYx4Fx_eXI" src="https://i.ytimg.com/vi/7MYx4Fx_eXI/hqdefault.jpg"/></a> | [C Programming Tutorial - Full Course](https://www.youtube.com/watch?v=7MYx4Fx_eXI) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GjQJisueiHY"><img width="140px" height="auto" alt="thumb-GjQJisueiHY" src="https://i.ytimg.com/vi/GjQJisueiHY/hqdefault.jpg"/></a> | [Until Loop in Shell Scripting - Syntax and Examples](https://www.youtube.com/watch?v=GjQJisueiHY) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ogyyZeKjmTE"><img width="140px" height="auto" alt="thumb-ogyyZeKjmTE" src="https://i.ytimg.com/vi/ogyyZeKjmTE/hqdefault.jpg"/></a> | [Java Tutorial For Beginners - Aggregation in Java](https://www.youtube.com/watch?v=ogyyZeKjmTE) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fkhMETn50AU"><img width="140px" height="auto" alt="thumb-fkhMETn50AU" src="https://i.ytimg.com/vi/fkhMETn50AU/hqdefault.jpg"/></a> | [Spring Boot CRUD Application \| How to create CRUD API using Spring Boot](https://www.youtube.com/watch?v=fkhMETn50AU) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pwZGs-4lJbM"><img width="140px" height="auto" alt="thumb-pwZGs-4lJbM" src="https://i.ytimg.com/vi/pwZGs-4lJbM/hqdefault.jpg"/></a> | [Create a News App for Android using React Native](https://www.youtube.com/watch?v=pwZGs-4lJbM) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2brSwrv4ZY0"><img width="140px" height="auto" alt="thumb-2brSwrv4ZY0" src="https://i.ytimg.com/vi/2brSwrv4ZY0/hqdefault.jpg"/></a> | [How To Build A News App Using React Native 7 - Final Part](https://www.youtube.com/watch?v=2brSwrv4ZY0) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DR75hMtcP0g"><img width="140px" height="auto" alt="thumb-DR75hMtcP0g" src="https://i.ytimg.com/vi/DR75hMtcP0g/hqdefault.jpg"/></a> | [Discord Server Setup Tutorial \| How to Use Discord - BEGINNER GUIDE!](https://www.youtube.com/watch?v=DR75hMtcP0g) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6j1LSZNCo6o"><img width="140px" height="auto" alt="thumb-6j1LSZNCo6o" src="https://i.ytimg.com/vi/6j1LSZNCo6o/hqdefault.jpg"/></a> | [How to use the Test Security extension with Quarkus \| Quarkus Tutorial \| CloudNative \| Java](https://www.youtube.com/watch?v=6j1LSZNCo6o) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=932g0e4Do9Q"><img width="140px" height="auto" alt="thumb-932g0e4Do9Q" src="https://i.ytimg.com/vi/932g0e4Do9Q/hqdefault.jpg"/></a> | [How To Install NetBeans IDE on Windows 11](https://www.youtube.com/watch?v=932g0e4Do9Q) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Gwtdwqc6Nik"><img width="140px" height="auto" alt="thumb-Gwtdwqc6Nik" src="https://i.ytimg.com/vi/Gwtdwqc6Nik/hqdefault.jpg"/></a> | [Learn Flask Web Development for Python \| Python Flask Tutorial](https://www.youtube.com/watch?v=Gwtdwqc6Nik) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8jK9O0lwem0"><img width="140px" height="auto" alt="thumb-8jK9O0lwem0" src="https://i.ytimg.com/vi/8jK9O0lwem0/hqdefault.jpg"/></a> | [Spring Boot Firebase CRUD Application 3 -  Implementing Springboot REST Endpoints](https://www.youtube.com/watch?v=8jK9O0lwem0) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EJYjE9X6G3M"><img width="140px" height="auto" alt="thumb-EJYjE9X6G3M" src="https://i.ytimg.com/vi/EJYjE9X6G3M/hqdefault.jpg"/></a> | [Spring Boot Firebase CRUD Application 5 - End-to-End testing Firebase CRUD API](https://www.youtube.com/watch?v=EJYjE9X6G3M) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LiUCHKHH7Oc"><img width="140px" height="auto" alt="thumb-LiUCHKHH7Oc" src="https://i.ytimg.com/vi/LiUCHKHH7Oc/hqdefault.jpg"/></a> | [How to Build a Progressive Web App \(PWA\) from scratch](https://www.youtube.com/watch?v=LiUCHKHH7Oc) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bZ-aGMWAVhk"><img width="140px" height="auto" alt="thumb-bZ-aGMWAVhk" src="https://i.ytimg.com/vi/bZ-aGMWAVhk/hqdefault.jpg"/></a> | [Spring Boot Quartz Scheduler Tutorial 1- Getting started with Quartz and Spring Boot](https://www.youtube.com/watch?v=bZ-aGMWAVhk) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ccbh5YhxouQ"><img width="140px" height="auto" alt="thumb-ccbh5YhxouQ" src="https://i.ytimg.com/vi/ccbh5YhxouQ/hqdefault.jpg"/></a> | [Docker Tutorial \| Crash Course](https://www.youtube.com/watch?v=ccbh5YhxouQ) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZsKOQ7HmsSE"><img width="140px" height="auto" alt="thumb-ZsKOQ7HmsSE" src="https://i.ytimg.com/vi/ZsKOQ7HmsSE/hqdefault.jpg"/></a> | [Spring Boot Tutorial \| Full Course \(NEW\)](https://www.youtube.com/watch?v=ZsKOQ7HmsSE) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EYA2YNHHPls"><img width="140px" height="auto" alt="thumb-EYA2YNHHPls" src="https://i.ytimg.com/vi/EYA2YNHHPls/hqdefault.jpg"/></a> | [Jenkins Tutorial is For Beginners, DevOps and Software Developers](https://www.youtube.com/watch?v=EYA2YNHHPls) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=m-7oUV1x7jc"><img width="140px" height="auto" alt="thumb-m-7oUV1x7jc" src="https://i.ytimg.com/vi/m-7oUV1x7jc/hqdefault.jpg"/></a> | [Caching in Spring Boot with Example \| Spring Caching with Caffeine Cache](https://www.youtube.com/watch?v=m-7oUV1x7jc) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xDLIsbSx248"><img width="140px" height="auto" alt="thumb-xDLIsbSx248" src="https://i.ytimg.com/vi/xDLIsbSx248/hqdefault.jpg"/></a> | [React Hooks Tutorial  \| `useState`, `useEffect`, `useReducer`, `useCallBack`, `useMemo`](https://www.youtube.com/watch?v=xDLIsbSx248) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Qqgvy6nr-O0"><img width="140px" height="auto" alt="thumb-Qqgvy6nr-O0" src="https://i.ytimg.com/vi/Qqgvy6nr-O0/hqdefault.jpg"/></a> | [Building Todo App with React Redux](https://www.youtube.com/watch?v=Qqgvy6nr-O0) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=izx0icK3kYw"><img width="140px" height="auto" alt="thumb-izx0icK3kYw" src="https://i.ytimg.com/vi/izx0icK3kYw/hqdefault.jpg"/></a> | [How to Create an Instagram Like App with REACT JS](https://www.youtube.com/watch?v=izx0icK3kYw) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HT82p_re-EY"><img width="140px" height="auto" alt="thumb-HT82p_re-EY" src="https://i.ytimg.com/vi/HT82p_re-EY/hqdefault.jpg"/></a> | [ReactJS Frontend Web Development \| Learn By Building Projects \(including Hooks, React Router, Redux\)](https://www.youtube.com/watch?v=HT82p_re-EY) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yMUo4WXIZ1c"><img width="140px" height="auto" alt="thumb-yMUo4WXIZ1c" src="https://i.ytimg.com/vi/yMUo4WXIZ1c/hqdefault.jpg"/></a> | [Vue JS 3 Tutorial for Beginners #5 - Form Validation in Vue.Js 3](https://www.youtube.com/watch?v=yMUo4WXIZ1c) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=694YjzL-yKY"><img width="140px" height="auto" alt="thumb-694YjzL-yKY" src="https://i.ytimg.com/vi/694YjzL-yKY/hqdefault.jpg"/></a> | [Android Firebase Firestore Masterclass - Build An App From Start to Finish](https://www.youtube.com/watch?v=694YjzL-yKY) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=o-BgRjxNf2Q"><img width="140px" height="auto" alt="thumb-o-BgRjxNf2Q" src="https://i.ytimg.com/vi/o-BgRjxNf2Q/hqdefault.jpg"/></a> | [Learn MySQL In One Video - Course for Beginners](https://www.youtube.com/watch?v=o-BgRjxNf2Q) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bRo1HtdZLRQ"><img width="140px" height="auto" alt="thumb-bRo1HtdZLRQ" src="https://i.ytimg.com/vi/bRo1HtdZLRQ/hqdefault.jpg"/></a> | [Make An Instagram Clone Android App](https://www.youtube.com/watch?v=bRo1HtdZLRQ) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ormRboQsB-I"><img width="140px" height="auto" alt="thumb-ormRboQsB-I" src="https://i.ytimg.com/vi/ormRboQsB-I/hqdefault.jpg"/></a> | [Microsoft Excel Tutorial for Beginners \| Excel Training \| FREE Online Excel course](https://www.youtube.com/watch?v=ormRboQsB-I) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aNNDipAjdls"><img width="140px" height="auto" alt="thumb-aNNDipAjdls" src="https://i.ytimg.com/vi/aNNDipAjdls/hqdefault.jpg"/></a> | [Selenium Tutorial for Beginners 9 - Selenium Testing with Shadow DOM](https://www.youtube.com/watch?v=aNNDipAjdls) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vMgEIoYdFow"><img width="140px" height="auto" alt="thumb-vMgEIoYdFow" src="https://i.ytimg.com/vi/vMgEIoYdFow/hqdefault.jpg"/></a> | [Spring Boot Tutorial for Beginners 9 - Spring Boot CRUD Operations using Apache Derby](https://www.youtube.com/watch?v=vMgEIoYdFow) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=SeswFFdH03U"><img width="140px" height="auto" alt="thumb-SeswFFdH03U" src="https://i.ytimg.com/vi/SeswFFdH03U/hqdefault.jpg"/></a> | [K means Clustering Algorithm tutorial](https://www.youtube.com/watch?v=SeswFFdH03U) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Y8InSLqLirc"><img width="140px" height="auto" alt="thumb-Y8InSLqLirc" src="https://i.ytimg.com/vi/Y8InSLqLirc/hqdefault.jpg"/></a> | [Spring Boot Tutorial for Beginners 8 - Configuring Embedded Apache Derby in Spring Boot app](https://www.youtube.com/watch?v=Y8InSLqLirc) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uYpeaN9sYVw"><img width="140px" height="auto" alt="thumb-uYpeaN9sYVw" src="https://i.ytimg.com/vi/uYpeaN9sYVw/hqdefault.jpg"/></a> | [Docker Tutorial for Beginners 9 - Port Mapping \| `-p` option \| Docker EXPOSE Ports](https://www.youtube.com/watch?v=uYpeaN9sYVw) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=a6ISqlQEdAE"><img width="140px" height="auto" alt="thumb-a6ISqlQEdAE" src="https://i.ytimg.com/vi/a6ISqlQEdAE/hqdefault.jpg"/></a> | [How To Become An Automation Test Engineer \| Test Automation Engineer  Roles &amp; Skills Requirements](https://www.youtube.com/watch?v=a6ISqlQEdAE) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AYu6SaFgg_o"><img width="140px" height="auto" alt="thumb-AYu6SaFgg_o" src="https://i.ytimg.com/vi/AYu6SaFgg_o/hqdefault.jpg"/></a> | [React Tutorial 24 - Using Redux and `react-redux`](https://www.youtube.com/watch?v=AYu6SaFgg_o) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=x3KoYy4czXU"><img width="140px" height="auto" alt="thumb-x3KoYy4czXU" src="https://i.ytimg.com/vi/x3KoYy4czXU/hqdefault.jpg"/></a> | [C++ Tutorial for Beginners 23 - Inheritance in C++](https://www.youtube.com/watch?v=x3KoYy4czXU) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bx47J8YPJ24"><img width="140px" height="auto" alt="thumb-bx47J8YPJ24" src="https://i.ytimg.com/vi/bx47J8YPJ24/hqdefault.jpg"/></a> | [Excel VBA Tutorial for Beginners 5 - Cell Referencing in VBA \| VBA Cell References Methods](https://www.youtube.com/watch?v=bx47J8YPJ24) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=M4_Rhdw_tLQ"><img width="140px" height="auto" alt="thumb-M4_Rhdw_tLQ" src="https://i.ytimg.com/vi/M4_Rhdw_tLQ/hqdefault.jpg"/></a> | [Excel VBA Tutorial for Beginners 4 - Writing/Creating Macros In Visual Basic For Applications](https://www.youtube.com/watch?v=M4_Rhdw_tLQ) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LDim479YZRc"><img width="140px" height="auto" alt="thumb-LDim479YZRc" src="https://i.ytimg.com/vi/LDim479YZRc/hqdefault.jpg"/></a> | [Excel VBA Tutorial for Beginners 3 - How To Use The VBA Editor In Excel \(2/2\)](https://www.youtube.com/watch?v=LDim479YZRc) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1LM67wRAWb8"><img width="140px" height="auto" alt="thumb-1LM67wRAWb8" src="https://i.ytimg.com/vi/1LM67wRAWb8/hqdefault.jpg"></a> | [React Tutorial 5 - Handling Dynamic Content + Data Fetching](https://www.youtube.com/watch?v=1LM67wRAWb8) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=X4uS1qsNIAo"><img width="140px" height="auto" alt="thumb-X4uS1qsNIAo" src="https://i.ytimg.com/vi/X4uS1qsNIAo/hqdefault.jpg"></a> | [Testing Express APIs with Supertest \|  Testing NodeJs/Express API with Jest and Supertest](https://www.youtube.com/watch?v=X4uS1qsNIAo) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VX0zVCOslZo"><img width="140px" height="auto" alt="thumb-VX0zVCOslZo" src="https://i.ytimg.com/vi/VX0zVCOslZo/hqdefault.jpg"></a> | [Microsoft Excel Tutorial - Multiple Criteria Statistical Functions in Excel](https://www.youtube.com/watch?v=VX0zVCOslZo) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YtkBnc8Rffw"><img width="140px" height="auto" alt="thumb-YtkBnc8Rffw" src="https://i.ytimg.com/vi/YtkBnc8Rffw/hqdefault.jpg"></a> | [How To Debug Node.js Code in Visual Studio Code \|  Debug Node.js using Visual Studio Code \(VS code\)](https://www.youtube.com/watch?v=YtkBnc8Rffw) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NzQ3HaOKnGw"><img width="140px" height="auto" alt="thumb-NzQ3HaOKnGw" src="https://i.ytimg.com/vi/NzQ3HaOKnGw/hqdefault.jpg"></a> | [Microsoft Excel Tutorial - Single Criteria Statistical functions](https://www.youtube.com/watch?v=NzQ3HaOKnGw) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KERULjBIKhE"><img width="140px" height="auto" alt="thumb-KERULjBIKhE" src="https://i.ytimg.com/vi/KERULjBIKhE/hqdefault.jpg"></a> | [Firebase Android Tutorial 18 - Instagram Like App using Firebase \(Part 10\) \(Post Activity Code\)](https://www.youtube.com/watch?v=KERULjBIKhE) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BzUmdMsGxq4"><img width="140px" height="auto" alt="thumb-BzUmdMsGxq4" src="https://i.ytimg.com/vi/BzUmdMsGxq4/hqdefault.jpg"></a> | [MQTT Tutorial \| What is MQTT and How It Works with CloudMQTT + Mosquitto + Paho Python MQTT](https://www.youtube.com/watch?v=BzUmdMsGxq4) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8Iu5uqby9PY"><img width="140px" height="auto" alt="thumb-8Iu5uqby9PY" src="https://i.ytimg.com/vi/8Iu5uqby9PY/hqdefault.jpg"></a> | [Docker Tutorial for Beginners 4 - How To Install and Use Docker on Ubuntu 18.04 LTS / Ubuntu 20.04](https://www.youtube.com/watch?v=8Iu5uqby9PY) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EOaXjiJeRms"><img width="140px" height="auto" alt="thumb-EOaXjiJeRms" src="https://i.ytimg.com/vi/EOaXjiJeRms/hqdefault.jpg"></a> | [After Effects Tutorial  - Create the Disintegration Effect \(Snap Effect or a Scattering Effect\)](https://www.youtube.com/watch?v=EOaXjiJeRms) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AxckTfZiIx4"><img width="140px" height="auto" alt="thumb-AxckTfZiIx4" src="https://i.ytimg.com/vi/AxckTfZiIx4/hqdefault.jpg"></a> | [PostgreSQL Tutorial for Beginners 23 - PostgreSQL LIKE Clause](https://www.youtube.com/watch?v=AxckTfZiIx4) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2LCSTSmapRA"><img width="140px" height="auto" alt="thumb-2LCSTSmapRA" src="https://i.ytimg.com/vi/2LCSTSmapRA/hqdefault.jpg"></a> | [PyQt5 Tutorial 9 - PyQt5 Directory View](https://www.youtube.com/watch?v=2LCSTSmapRA) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=x4-lccsxnzI"><img width="140px" height="auto" alt="thumb-x4-lccsxnzI" src="https://i.ytimg.com/vi/x4-lccsxnzI/hqdefault.jpg"></a> | [PostgreSQL Tutorial for Beginners 20 - PostgreSQL BETWEEN Condition](https://www.youtube.com/watch?v=x4-lccsxnzI) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xiXRQginKH0"><img width="140px" height="auto" alt="thumb-xiXRQginKH0" src="https://i.ytimg.com/vi/xiXRQginKH0/hqdefault.jpg"></a> | [Getting started with Materialize \| Materialize CSS From Scratch](https://www.youtube.com/watch?v=xiXRQginKH0) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7j834VpIb0E"><img width="140px" height="auto" alt="thumb-7j834VpIb0E" src="https://i.ytimg.com/vi/7j834VpIb0E/hqdefault.jpg"></a> | [C++ Tutorial for Beginners 2 - What is compiler ? Difference Between Compiler and Interpreter](https://www.youtube.com/watch?v=7j834VpIb0E) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NGRSZ-EbDIU"><img width="140px" height="auto" alt="thumb-NGRSZ-EbDIU" src="https://i.ytimg.com/vi/NGRSZ-EbDIU/hqdefault.jpg"></a> | [PostgreSQL Tutorial for Beginners 12 - PostgreSQL - OR condition](https://www.youtube.com/watch?v=NGRSZ-EbDIU) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1BDT_jjdA-8"><img width="140px" height="auto" alt="thumb-1BDT_jjdA-8" src="https://i.ytimg.com/vi/1BDT_jjdA-8/hqdefault.jpg"></a> | [Learn to Build a Custom Component With Angular](https://www.youtube.com/watch?v=1BDT_jjdA-8) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vJTStapcRiE"><img width="140px" height="auto" alt="thumb-vJTStapcRiE" src="https://i.ytimg.com/vi/vJTStapcRiE/hqdefault.jpg"></a> | [MySQL Tutorial for Beginners 7 - How to Insert Data into a MySQL table](https://www.youtube.com/watch?v=vJTStapcRiE) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wJjyZTPgwek"><img width="140px" height="auto" alt="thumb-wJjyZTPgwek" src="https://i.ytimg.com/vi/wJjyZTPgwek/hqdefault.jpg"></a> | [Linux Tutorial - Master The Command Line (2023)](https://www.youtube.com/watch?v=wJjyZTPgwek) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F8LplPNfax8"><img width="140px" height="auto" alt="thumb-F8LplPNfax8" src="https://i.ytimg.com/vi/F8LplPNfax8/hqdefault.jpg"></a> | [Docker Tutorial](https://www.youtube.com/watch?v=F8LplPNfax8) <br/><br/> _[ProgrammingKnowledge][yu-programming-knowledge]_ |
 
-hTlU3byU-rI
-How To Install Matplotlib In PyCharm (2023)
-
-5_EA3rBCXmU
-How to Install Docker Desktop on Ubuntu 22.04 LTE Linux
-
-NJYcRcqPyOw
-Debugging C Program with Visual Studio Code (VSCode)
-
-6KQ_h0XBmxk
-How to Debug Your Python Code with the Python Debugger (pdb)
-
-DfVsXMkv8cA
-How To Install OpenCV in PyCharm (2023)
-
-yG9kmBQAtW4
-Set Up Python Virtual Environment In Visual Studio Code (VS Code) | VSCode activate venv (2023)
-
-4-_3obNgNKM
-How to Run C in Visual Studio Code on Windows 11 (2023)
-
-KUECJHlV1LE
-How to “Dockerize” Your Python Applications | How To Build And Run A Python App In Docker Container
-
-IZCwawKILsk
-Setup IntelliJ IDEA for JavaFX &amp; SceneBuilder and Create Your First JavaFX Application  (2023)
-
-c3dIEGXLgC4
-Maven - How to integrate Apache Tomcat in IntelliJ IDEA and deploy a WAR file
-
-Kawn6HK47Ag
-How to Check file integrity using Shell Scripts in Linux
-
-MKS6EaZxgLo
-How to Cloning GitHub repo using using Shell Scripts in Linux
-
-pd6FtTmVG6E
-How to Use Nmap Script Engine (NSE) Shell Scripts in Linux
-
-fowG6TmS3B8
-Nested Functions Shell Scripts In Linux
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="wJjyZTPgwek" title="Linux Tutorial - Master The Command Line" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="F8LplPNfax8" title="Docker Tutorial" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="7MYx4Fx_eXI" title="C Programming Tutorial - Full Course" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="GjQJisueiHY" title="Until Loop in Shell Scripting - Syntax and Examples" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="ogyyZeKjmTE" title="Java Tutorial For Beginners - Aggregation in Java" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="fkhMETn50AU" title="Spring Boot CRUD Application | How to create CRUD API using Spring Boot" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="pwZGs-4lJbM" title="Create a News App for Android using React Native" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="2brSwrv4ZY0" title="How To Build A News App Using React Native 7 - Final Part" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="DR75hMtcP0g" title="Discord Server Setup Tutorial | How to Use Discord - BEGINNER GUIDE!" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="6j1LSZNCo6o" title="How to use the Test Security extension with Quarkus | Quarkus Tutorial | CloudNative | Java" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="932g0e4Do9Q" title="How To Install NetBeans IDE on Windows 11" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="Gwtdwqc6Nik" title="Learn Flask Web Development for Python | Python Flask Tutorial" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="8jK9O0lwem0" title="Spring Boot Firebase CRUD Application 3 -  Implementing Springboot REST Endpoints" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="EJYjE9X6G3M" title="Spring Boot Firebase CRUD Application 5 - End-to-End testing Firebase CRUD API" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="LiUCHKHH7Oc" title="How to Build a Progressive Web App (PWA) from scratch" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="bZ-aGMWAVhk" title="Spring Boot Quartz Scheduler Tutorial 1- Getting started with Quartz and Spring Boot" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="ccbh5YhxouQ" title="Docker Tutorial | Crash Course" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="ZsKOQ7HmsSE" title="Spring Boot Tutorial | Full Course (NEW)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="EYA2YNHHPls" title="Jenkins Tutorial is For Beginners, DevOps and Software Developers" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="m-7oUV1x7jc" title="Caching in Spring Boot with Example | Spring Caching with Caffeine Cache" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="xDLIsbSx248" title="React Hooks Tutorial  | `useState`, `useEffect`, `useReducer`, `useCallBack`, `useMemo`" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="Qqgvy6nr-O0" title="Building Todo App with React Redux" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="izx0icK3kYw" title="How to Create an Instagram Like App with REACT JS" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="HT82p_re-EY" title="ReactJS Frontend Web Development | Learn By Building Projects (including Hooks, React Router, Redux)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="yMUo4WXIZ1c" title="Vue JS 3 Tutorial for Beginners #5 - Form Validation in Vue.Js 3" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="694YjzL-yKY" title="Android Firebase Firestore Masterclass - Build An App From Start to Finish" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="o-BgRjxNf2Q" title="Learn MySQL In One Video - Course for Beginners" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="bRo1HtdZLRQ" title="Make An Instagram Clone Android App" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="ormRboQsB-I" title="Microsoft Excel Tutorial for Beginners | Excel Training | FREE Online Excel course" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="aNNDipAjdls" title="Selenium Tutorial for Beginners 9 - Selenium Testing with Shadow DOM" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="vMgEIoYdFow" title="Spring Boot Tutorial for Beginners 9 - Spring Boot CRUD Operations using Apache Derby" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="SeswFFdH03U" title="K means Clustering Algorithm tutorial" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="Y8InSLqLirc" title="Spring Boot Tutorial for Beginners 8 - Configuring Embedded Apache Derby in Spring Boot app" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="uYpeaN9sYVw" title="Docker Tutorial for Beginners 9 - Port Mapping | `-p` option | Docker EXPOSE Ports" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="a6ISqlQEdAE" title="How To Become An Automation Test Engineer | Test Automation Engineer  Roles &amp; Skills Requirements" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="AYu6SaFgg_o" title="React Tutorial 24 - Using Redux and `react-redux`" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="x3KoYy4czXU" title="C++ Tutorial for Beginners 23 - Inheritance in C++" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="bx47J8YPJ24" title="Excel VBA Tutorial for Beginners 5 - Cell Referencing in VBA | VBA Cell References Methods" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="M4_Rhdw_tLQ" title="Excel VBA Tutorial for Beginners 4 - Writing/Creating Macros In Visual Basic For Applications" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="LDim479YZRc" title="Excel VBA Tutorial for Beginners 3 - How To Use The VBA Editor In Excel (2/2)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="1LM67wRAWb8" title="React Tutorial 5 - Handling Dynamic Content + Data Fetching" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="X4uS1qsNIAo" title="Testing Express APIs with Supertest |  Testing NodeJs/Express API with Jest and Supertest" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="VX0zVCOslZo" title="Microsoft Excel Tutorial - Multiple Criteria Statistical Functions in Excel" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="YtkBnc8Rffw" title="How To Debug Node.js Code in Visual Studio Code |  Debug Node.js using Visual Studio Code (VS code)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="NzQ3HaOKnGw" title="Microsoft Excel Tutorial - Single Criteria Statistical functions" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="KERULjBIKhE" title="Firebase Android Tutorial 18 - Instagram Like App using Firebase (Part 10) (Post Activity Code)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="BzUmdMsGxq4" title="MQTT Tutorial | What is MQTT and How It Works with CloudMQTT + Mosquitto + Paho Python MQTT" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="8Iu5uqby9PY" title="Docker Tutorial for Beginners 4 - How To Install and Use Docker on Ubuntu 18.04 LTS / Ubuntu 20.04" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="EOaXjiJeRms" title="After Effects Tutorial  - Create the Disintegration Effect (Snap Effect or a Scattering Effect)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="AxckTfZiIx4" title="PostgreSQL Tutorial for Beginners 23 - PostgreSQL LIKE Clause" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="2LCSTSmapRA" title="PyQt5 Tutorial 9 - PyQt5 Directory View" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="x4-lccsxnzI" title="PostgreSQL Tutorial for Beginners 20 - PostgreSQL BETWEEN Condition" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="xiXRQginKH0" title="Getting started with Materialize | Materialize CSS From Scratch" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="7j834VpIb0E" title="C++ Tutorial for Beginners 2 - What is compiler ? Difference Between Compiler and Interpreter" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="NGRSZ-EbDIU" title="PostgreSQL Tutorial for Beginners 12 - PostgreSQL - OR condition" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="1BDT_jjdA-8" title="Learn to Build a Custom Component With Angular" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="vJTStapcRiE" title="MySQL Tutorial for Beginners 7 - How to Insert Data into a MySQL table" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="wJjyZTPgwek" title="Linux Tutorial - Master The Command Line (2023)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="F8LplPNfax8" title="Docker Tutorial" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="hTlU3byU-rI" title="How To Install Matplotlib In PyCharm (2023)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="5_EA3rBCXmU" title="How to Install Docker Desktop on Ubuntu 22.04 LTE Linux" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="NJYcRcqPyOw" title="Debugging C Program with Visual Studio Code (VSCode)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="6KQ_h0XBmxk" title="How to Debug Your Python Code with the Python Debugger (pdb)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="DfVsXMkv8cA" title="How To Install OpenCV in PyCharm (2023)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="yG9kmBQAtW4" title="Set Up Python Virtual Environment In Visual Studio Code (VS Code) | VSCode activate venv (2023)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="4-_3obNgNKM" title="How to Run C in Visual Studio Code on Windows 11 (2023)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="KUECJHlV1LE" title="How to “Dockerize” Your Python Applications | How To Build And Run A Python App In Docker Container" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="IZCwawKILsk" title="Setup IntelliJ IDEA for JavaFX &amp; SceneBuilder and Create Your First JavaFX Application  (2023)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="c3dIEGXLgC4" title="Maven - How to integrate Apache Tomcat in IntelliJ IDEA and deploy a WAR file" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="Kawn6HK47Ag" title="How to Check file integrity using Shell Scripts in Linux" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="MKS6EaZxgLo" title="How to Cloning GitHub repo using using Shell Scripts in Linux" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="pd6FtTmVG6E" title="How to Use Nmap Script Engine (NSE) Shell Scripts in Linux" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="fowG6TmS3B8" title="Nested Functions Shell Scripts In Linux" />
 
 :::
 
@@ -632,31 +566,32 @@ Nested Functions Shell Scripts In Linux
 
 ## Derek Banas
 
-[Derek Banas][yu-derek-banas]
+[![Derek Banas](https://yt3.googleusercontent.com/ytc/AGIKgqN2S-9s1Vz8W19_zE_cTTE20v6AEdiTwRV_CBTuKQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-derek-banas]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=M5ugY7fWydE"><img width="140px" height="auto" alt="thumb-M5ugY7fWydE" src="https://i.ytimg.com/vi/M5ugY7fWydE/hqdefault.jpg"/></a> | [C# Full Course : C# Tutorial for Beginners](https://www.youtube.com/watch?v=M5ugY7fWydE) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ygL_xcavzQ4"><img width="140px" height="auto" alt="thumb-ygL_xcavzQ4" src="https://i.ytimg.com/vi/ygL_xcavzQ4/hqdefault.jpg"/></a> | [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3FkWddODLno"><img width="140px" height="auto" alt="thumb-3FkWddODLno" src="https://i.ytimg.com/vi/3FkWddODLno/hqdefault.jpg"/></a> | [Visual Basic Tutorial 2017](https://www.youtube.com/watch?v=3FkWddODLno) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GGL6U0k8WYA"><img width="140px" height="auto" alt="thumb-GGL6U0k8WYA" src="https://i.ytimg.com/vi/GGL6U0k8WYA/hqdefault.jpg"/></a> | [Plotly Tutorial 2023](https://www.youtube.com/watch?v=GGL6U0k8WYA) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8Y0qQEh7dJg"><img width="140px" height="auto" alt="thumb-8Y0qQEh7dJg" src="https://i.ytimg.com/vi/8Y0qQEh7dJg/hqdefault.jpg"/></a> | [NumPy Tutorial : Numpy Full Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=txGRU7OrTZo"><img width="140px" height="auto" alt="thumb-txGRU7OrTZo" src="https://i.ytimg.com/vi/txGRU7OrTZo/hqdefault.jpg"/></a> | [Qt Tutorial 2 : C++ Calculator](https://www.youtube.com/watch?v=txGRU7OrTZo) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=URtsnESYcPk"><img width="140px" height="auto" alt="thumb-URtsnESYcPk" src="https://i.ytimg.com/vi/URtsnESYcPk/hqdefault.jpg"/></a> | [iOS Development 2021 : Make an App in One Video](https://www.youtube.com/watch?v=URtsnESYcPk) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NihZYkNpslE"><img width="140px" height="auto" alt="thumb-NihZYkNpslE" src="https://i.ytimg.com/vi/NihZYkNpslE/hqdefault.jpg"/></a> | [PHP Tutorial : PHP Full Course](https://www.youtube.com/watch?v=NihZYkNpslE) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6y0bp-mnYU0"><img width="140px" height="auto" alt="thumb-6y0bp-mnYU0" src="https://i.ytimg.com/vi/6y0bp-mnYU0/hqdefault.jpg"/></a> | [C++ Tutorial : C++ Full Course](https://www.youtube.com/watch?v=6y0bp-mnYU0) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XqIk2PwP0To"><img width="140px" height="auto" alt="thumb-XqIk2PwP0To" src="https://i.ytimg.com/vi/XqIk2PwP0To/hqdefault.jpg"/></a> | [SQL Tutorial : SQL Full Course](https://www.youtube.com/watch?v=XqIk2PwP0To) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2DSx_QPTo3U"><img width="140px" height="auto" alt="thumb-2DSx_QPTo3U" src="https://i.ytimg.com/vi/2DSx_QPTo3U/hqdefault.jpg"/></a> | [JavaScript Tutorial 12 Doomsday Algorithm](https://www.youtube.com/watch?v=2DSx_QPTo3U) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IyDVvGmzTlo"><img width="140px" height="auto" alt="thumb-IyDVvGmzTlo" src="https://i.ytimg.com/vi/IyDVvGmzTlo/hqdefault.jpg"/></a> | [JavaScript Tutorial &amp; Real JavaScript Projects](https://www.youtube.com/watch?v=IyDVvGmzTlo) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1MCW8pjYL3o"><img width="140px" height="auto" alt="thumb-1MCW8pjYL3o" src="https://i.ytimg.com/vi/1MCW8pjYL3o/hqdefault.jpg"/></a> | [React Setup MacOS](https://www.youtube.com/watch?v=1MCW8pjYL3o) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rk2zcyzeK3U"><img width="140px" height="auto" alt="thumb-rk2zcyzeK3U" src="https://i.ytimg.com/vi/rk2zcyzeK3U/hqdefault.jpg"/></a> | [Java JPA Maven Hibernate Tutorial](https://www.youtube.com/watch?v=rk2zcyzeK3U) <br/><br/> _[Derek Banas][yu-derek-banas]_ |
+
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="M5ugY7fWydE" title="C# Full Course : C# Tutorial for Beginners" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="ygL_xcavzQ4" title="Rust Tutorial Full Course" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="3FkWddODLno" title="Visual Basic Tutorial 2017" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="GGL6U0k8WYA" title="Plotly Tutorial 2023" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="8Y0qQEh7dJg" title="NumPy Tutorial : Numpy Full Course" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="txGRU7OrTZo" title="Qt Tutorial 2 : C++ Calculator" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="URtsnESYcPk" title="iOS Development 2021 : Make an App in One Video" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="NihZYkNpslE" title="PHP Tutorial : PHP Full Course" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="6y0bp-mnYU0" title="C++ Tutorial : C++ Full Course" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="XqIk2PwP0To" title="SQL Tutorial : SQL Full Course" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="2DSx_QPTo3U" title="JavaScript Tutorial 12 Doomsday Algorithm" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="IyDVvGmzTlo" title="JavaScript Tutorial &amp; Real JavaScript Projects" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="1MCW8pjYL3o" title="React Setup MacOS" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="rk2zcyzeK3U" title="Java JPA Maven Hibernate Tutorial" />
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="F5jIFP56J0E" title="Microsoft Excel Tutorial for Beginners  | Full Course" />
 
 :::
 
 <!-- Derek Banas -->
 
 ---
+
 ## DEvS
 
 [DEvS][yu-DEvS]
@@ -679,37 +614,29 @@ Nested Functions Shell Scripts In Linux
 [FENRIR][yu-fenrir]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=7_MYowocn4s"><img width="140px" height="auto" alt="thumb-7_MYowocn4s" src="https://i.ytimg.com/vi/7_MYowocn4s/hqdefault.jpg"/></a> | [\[해킹\]xerosploit 으로 도스 공격해보기(dos)\[해킹\]xerosploit 으로 도스 공격해보기(dos)](https://www.youtube.com/watch?v=7_MYowocn4s) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1sFJ_qq5I_o"><img width="140px" height="auto" alt="thumb-1sFJ_qq5I_o" src="https://i.ytimg.com/vi/1sFJ_qq5I_o/hqdefault.jpg"/></a> | [\[해킹\]중간자공격!! 피해자가 다운로드 하는파일을 악성코드로 바꿔치기](https://www.youtube.com/watch?v=1sFJ_qq5I_o) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=k-2Nm_TDCSA"><img width="140px" height="auto" alt="thumb-k-2Nm_TDCSA" src="https://i.ytimg.com/vi/k-2Nm_TDCSA/hqdefault.jpg"/></a> | [\[해킹\]라우터 로그인 아이디패스워드 해킹하기(ettercap)](https://www.youtube.com/watch?v=k-2Nm_TDCSA) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QiMzFgTL0Go"><img width="140px" height="auto" alt="thumb-QiMzFgTL0Go" src="https://i.ytimg.com/vi/QiMzFgTL0Go/hqdefault.jpg"/></a> | [\[해킹\]중간자공격 으로 E메일 계정 해킹 하기](https://www.youtube.com/watch?v=QiMzFgTL0Go) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gFK6N59-kOs"><img width="140px" height="auto" alt="thumb-gFK6N59-kOs" src="https://i.ytimg.com/vi/gFK6N59-kOs/hqdefault.jpg"/></a> | [\[인스톨\]자동으로 취약점을 찾아내는 nessus 1편(설치 방법)](https://www.youtube.com/watch?v=gFK6N59-kOs) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QqtQ9NVETkk"><img width="140px" height="auto" alt="thumb-QqtQ9NVETkk" src="https://i.ytimg.com/vi/QqtQ9NVETkk/hqdefault.jpg"/></a> | [\[해킹\]자동으로 취약점을 찾아내는 nessus 2편(사용 방법)](https://www.youtube.com/watch?v=QqtQ9NVETkk) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rr3520OXo7g"><img width="140px" height="auto" alt="thumb-rr3520OXo7g" src="https://i.ytimg.com/vi/rr3520OXo7g/hqdefault.jpg"/></a> | [\[해킹\]망가진 베일(Veil-Evasion)을 고쳐봅시다...(Pyinstaller fix)](https://www.youtube.com/watch?v=rr3520OXo7g) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mugWbbPql7w"><img width="140px" height="auto" alt="thumb-mugWbbPql7w" src="https://i.ytimg.com/vi/mugWbbPql7w/hqdefault.jpg"/></a> | [\[해킹\]MyJsRat으로 자바스크립트 백도어 만들기](https://www.youtube.com/watch?v=mugWbbPql7w) <br/><br/> _[FENRIR][yu-fenrir]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XyHD94w7HMY"><img width="140px" height="auto" alt="thumb-XyHD94w7HMY" src="https://i.ytimg.com/vi/XyHD94w7HMY/hqdefault.jpg"/></a> | [\[인스톨\]mitmf 설치 방법 그리고 망가진 mitmf 고치는 방법 :)](https://www.youtube.com/watch?v=XyHD94w7HMY) <br/><br/> _[FENRIR][yu-fenrir]_ |
+
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="7_MYowocn4s" title="[해킹]xerosploit 으로 도스 공격해보기(dos)" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="1sFJ_qq5I_o" title="[해킹]중간자공격!! 피해자가 다운로드 하는파일을 악성코드로 바꿔치기" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="k-2Nm_TDCSA" title="[해킹]라우터 로그인 아이디패스워드 해킹하기(ettercap)" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="QiMzFgTL0Go" title="[해킹]중간자공격 으로 E메일 계정 해킹 하기" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="gFK6N59-kOs" title="[인스톨]자동으로 취약점을 찾아내는 nessus 1편(설치 방법)" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="QqtQ9NVETkk" title="[해킹]자동으로 취약점을 찾아내는 nessus 2편(사용 방법)" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="rr3520OXo7g" title="[해킹]망가진 베일(Veil-Evasion)을 고쳐봅시다...(Pyinstaller fix)" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="mugWbbPql7w" title="[해킹]MyJsRat으로 자바스크립트 백도어 만들기" />
+<YoutubeItem channelName="FENRIR" channelId="fenrir" id="XyHD94w7HMY" title="[인스톨]mitmf 설치 방법 그리고 망가진 mitmf 고치는 방법 :)" />
 
 
 :::
 
 ## 인프런 inflearn
 
-[인프런 inflearn][yu-inflearn]
+[![인프런 inflearn](https://yt3.googleusercontent.com/R1K5fr13u0Jv5lGtV37bLSfh0NrtpNwwfDEJ9UVAhzyuomikCEFap8ka99__qBQOhBIx0GJaZ3g=s176-c-k-c0x00ffffff-no-rj =x150)][yu-inflearn]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 \| 인프콘 2022
-K1lKgxeXDrs
-
-승리하는 제안서 강의소개│인프런 \| 미리보기 \| 제안서 PM
-iEGDEdivaGA
-
-Sass (SCSS): CSS 가상요소(::before, ::after)를 이용한 링크 애니메이션 (Link Animation), attr(), currentColor
-e5lIMEm7UPg
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="K1lKgxeXDrs" title="Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 \| 인프콘 2022" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="iEGDEdivaGA" title="승리하는 제안서 강의소개│인프런 \| 미리보기 \| 제안서 PM" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="e5lIMEm7UPg" title="Sass (SCSS): CSS 가상요소(::before, ::after)를 이용한 링크 애니메이션 (Link Animation), attr(), currentColor" />
 
 :::
 
@@ -717,29 +644,199 @@ e5lIMEm7UPg
 
 ## 생활코딩
 
-[생활코딩][yu-coohde]
+[![생활코딩](https://yt3.googleusercontent.com/ytc/AGIKgqMV0LxOrLZPkvojgUnURw6YfwMtPIcHGSeRxXXu=s176-c-k-c0x00ffffff-no-rj =x150)][yu-coohde]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=c6qHnYa9pUk"><img width="140px" height="auto" alt="thumb-c6qHnYa9pUk" src="https://i.ytimg.com/vi/c6qHnYa9pUk/hqdefault.jpg"/></a> | [기계들 간의 대화 - GraphQL](https://www.youtube.com/watch?v=c6qHnYa9pUk) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4QCZxcCBtCI"><img width="140px" height="auto" alt="thumb-4QCZxcCBtCI" src="https://i.ytimg.com/vi/4QCZxcCBtCI/hqdefault.jpg"/></a> | [WEB1 부록 :  코드의 힘 : 웹사이트 방문자 분석기](https://www.youtube.com/watch?v=4QCZxcCBtCI) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=K-3sBc2pUJ4"><img width="140px" height="auto" alt="thumb-K-3sBc2pUJ4" src="https://i.ytimg.com/vi/K-3sBc2pUJ4/hqdefault.jpg"/></a> | [redux toolkit - thunk 를 이용해서 비동기 작업을 처리하는 방법](https://www.youtube.com/watch?v=K-3sBc2pUJ4) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bW_WOrYzVWw"><img width="140px" height="auto" alt="thumb-bW_WOrYzVWw" src="https://i.ytimg.com/vi/bW_WOrYzVWw/hqdefault.jpg"/></a> | [React 2022년 개정판 - 9. Update](https://www.youtube.com/watch?v=bW_WOrYzVWw) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=H-4D0YBG8Ho"><img width="140px" height="auto" alt="thumb-H-4D0YBG8Ho" src="https://i.ytimg.com/vi/H-4D0YBG8Ho/hqdefault.jpg"/></a> | [JS로 만드는 AI : TensorFlow.js - 10.4. 여러개의 변수 : 여러개의 종속변수](https://www.youtube.com/watch?v=H-4D0YBG8Ho) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=y_XjBmFbHNQ"><img width="140px" height="auto" alt="thumb-y_XjBmFbHNQ" src="https://i.ytimg.com/vi/y_XjBmFbHNQ/hqdefault.jpg"/></a> | [JS로 만드는 AI : TensorFlow.js - 2. 지도학습의 작업순서](https://www.youtube.com/watch?v=y_XjBmFbHNQ) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rPCgsu0bcM4"><img width="140px" height="auto" alt="thumb-rPCgsu0bcM4" src="https://i.ytimg.com/vi/rPCgsu0bcM4/hqdefault.jpg"/></a> | [Pandas를 자바스크립트에서! Danfo.js](https://www.youtube.com/watch?v=rPCgsu0bcM4) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=s9FHdj6jd_U"><img width="140px" height="auto" alt="thumb-s9FHdj6jd_U" src="https://i.ytimg.com/vi/s9FHdj6jd_U/hqdefault.jpg"/></a> | [AWS - Elastic Load Balancer \(ELB\)](https://www.youtube.com/watch?v=s9FHdj6jd_U) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1AyxqIePusA"><img width="140px" height="auto" alt="thumb-1AyxqIePusA" src="https://i.ytimg.com/vi/1AyxqIePusA/hqdefault.jpg"/></a> | [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iTyjTM4Gujg"><img width="140px" height="auto" alt="thumb-iTyjTM4Gujg" src="https://i.ytimg.com/vi/iTyjTM4Gujg/hqdefault.jpg"/></a> | [Tmux - 터미널을 더욱 효율적으로!](https://www.youtube.com/watch?v=iTyjTM4Gujg) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Zn-cECPEORU"><img width="140px" height="auto" alt="thumb-Zn-cECPEORU" src="https://i.ytimg.com/vi/Zn-cECPEORU/hqdefault.jpg"></a> | [SQL JOIN - 6. FULL OUTER JOIN](https://www.youtube.com/watch?v=Zn-cECPEORU) <br/><br/> [생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WnB1Kn8VbfU"><img width="140px" height="auto" alt="thumb-WnB1Kn8VbfU" src="https://i.ytimg.com/vi/WnB1Kn8VbfU/hqdefault.jpg"></a> | [SQL JOIN - 5. INNER JOIN](https://www.youtube.com/watch?v=WnB1Kn8VbfU) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_W97WH71Cq0"><img width="140px" height="auto" alt="thumb-_W97WH71Cq0" src="https://i.ytimg.com/vi/_W97WH71Cq0/hqdefault.jpg"></a> | [SQL JOIN - 3. JOIN 실습준비](https://www.youtube.com/watch?v=_W97WH71Cq0) <br/><br/> _[생활코딩][yu-coohde]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yCbJ1D1Ylik"><img width="140px" height="auto" alt="thumb-yCbJ1D1Ylik" src="https://i.ytimg.com/vi/yCbJ1D1Ylik/hqdefault.jpg"></a> | [SQL JOIN - 2. 테이블 쪼개기](https://www.youtube.com/watch?v=yCbJ1D1Ylik) <br/><br/> _[생활코딩][yu-coohde]_ |
+
+<YoutubeItem channelName="생활코등" channelId="coohde" id="c6qHnYa9pUk" title="기계들 간의 대화 - GraphQL" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="4QCZxcCBtCI" title="WEB1 부록 :  코드의 힘 : 웹사이트 방문자 분석기" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="K-3sBc2pUJ4" title="redux toolkit - thunk 를 이용해서 비동기 작업을 처리하는 방법" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="bW_WOrYzVWw" title="React 2022년 개정판 - 9. Update" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="H-4D0YBG8Ho" title="JS로 만드는 AI : TensorFlow.js - 10.4. 여러개의 변수 : 여러개의 종속변수" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="y_XjBmFbHNQ" title="JS로 만드는 AI : TensorFlow.js - 2. 지도학습의 작업순서" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="rPCgsu0bcM4" title="Pandas를 자바스크립트에서! Danfo.js" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="s9FHdj6jd_U" title="AWS - Elastic Load Balancer (ELB)" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="1AyxqIePusA" title="JMeter을 이용해서 웹서버 성능 테스트하기" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="iTyjTM4Gujg" title="Tmux - 터미널을 더욱 효율적으로!" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="Zn-cECPEORU" title="SQL JOIN - 6. FULL OUTER JOIN" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="WnB1Kn8VbfU" title="SQL JOIN - 5. INNER JOIN" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="_W97WH71Cq0" title="SQL JOIN - 3. JOIN 실습준비" />
+<YoutubeItem channelName="생활코등" channelId="coohde" id="yCbJ1D1Ylik" title="SQL JOIN - 2. 테이블 쪼개기" />
 
 :::
 
+<!-- 생활코딩 -->
+
 --- 
+## Programming with Mosh
+
+[![Programming with Mosh](https://yt3.googleusercontent.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s176-c-k-c0x00ffffff-no-rj =x150)][yu-programmingwithmosh]
+
+::: details 목록
+
+<YoutubeItem channelName="Programming with Mosh" channelId="programmingwithmosh" id="_uQrJ0TkZlc" title="Python Tutorial - Python Full Course for Beginners" />
+<YoutubeItem channelName="Programming with Mosh" channelId="programmingwithmosh" id="0-S5a0eXPoc" title="React Native Tutorial for Beginners - Build a React Native App" />
+<YoutubeItem channelName="Programming with Mosh" channelId="programmingwithmosh" id="Ke90Tje7VS0" title="React JS - React Tutorial for Beginners" />
+<YoutubeItem channelName="Programming with Mosh" channelId="programmingwithmosh" id="E7Voso411Vs" title="Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh" />
+
+:::
+
+<!-- Programming with Mosh -->
+
+---
+
+
+## Telusko
+
+[Telusko][yu-telusko]
+
+::: details 목록
+
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="BGTx91t8q50" title="Java Tutorial for Beginners 2023" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="kYiLzIiHVY8" title="Java Spring Boot Mongodb Full Project" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="Eor-iXU0xR0" title="Spring Boot And Kotlin Example #1" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="OuBUUkQfBYM" title="Servlet &amp; JSP Tutorial | Full Course" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="If1Lw4pLLEo" title="Spring Framework Tutorial | Full Course" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="fjkelzWNSuA" title="Spring Security Tutorial" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="35EQXmHKZYs" title="Spring Boot Tutorials | Full Course" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="UHSTjZ0Pals" title="Amazon CodeWhisperer | GitHub Copilot Killer" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="NmbKi3ReCIY" title="Reading Blockchain Data on Ethereum using Astra Block" />
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="g2b-NbR48Jo" title="Spring MVC Tutorial | Full Course" />
+
+:::
+
+<!-- Telusko  -->
+
+---
+
+## 나도코딩
+
+[나도코딩][yu-nadocoding]
+
+::: details 목록
+
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="31EX6TLao5g" title="공공데이터를 활용한 우리 동네 아파트 실거래가 분석" />
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="XK3eU9egll8" title="파이썬 코딩 무료 강의 (활용편6) - OpenCV 이미지 처리, 얼굴 인식을 통한 캐릭터 씌우기를 해보아요" />
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="dJfq-eCi7KI" title="아나콘다 환경 설정 및 주피터 노트북 사용법" />
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="gyppYsgCFlM" title="[Advanced Git] 52 -  References" />
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="q6fPjQAzll8" title="C 언어 무료 강의 (입문부터 게임 개발까지)" />
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="bKPIcoou9N8" title="파이썬 코딩 무료 강의 (활용편2) - GUI 프로그래밍을 배우고 '여러 이미지 합치기' 프로그램을 함께 만들어요. [나도코딩]" />
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="kWiCuklohdY" title="파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 [나도코딩]" />
+
+:::
+
+<!-- 나도코딩 -->
+
+---
+
+## edureka!
+
+[![edureka!](https://yt3.googleusercontent.com/OtB--dcR_oNUZUaUsuyk2ShT5nFYjEcj9Yxx50-Nner03vXKt4IWXtP--JrnSGQbwRSHYuVb38g=s176-c-k-c0x00ffffff-no-rj =x150)][yu-edureka]
+
+::: details 목록
+
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="k1RI5locZE4" title="AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="F8pyaR4uQ2g" title="Apache Spark Full Course - Learn Apache Spark in 8 Hours | Apache Spark Tutorial | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="5FUdrBq-WFo" title="Selenium Tutorial For Beginners | What Is Selenium? | Selenium Automation Testing Tutorial | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="MBl-3Yb30FA" title="Robotic Process Automation Full Course - 10 Hours | RPA Tutorial For Beginners | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="RSIstPUiEjY" title="Docker Full Course - Learn Docker in 5 Hours | Docker Tutorial For Beginners | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="VvGjZgqojMc" title="Spring Full Course - Learn Spring Framework in 4 Hours | Spring Framework Tutorial | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="e2RkeISsDVE" title="Jenkins Master and Slave Configuration | Jenkins Distributed Architecture Tutorial | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="JnvKXcSI7yk" title="Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka" />
+<YoutubeItem channelName="edureka!" channelId="edurekaIN" id="0uvWRwLs5Zo" title="Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial | Kali Linux Tutorial | Edureka" />
+
+:::
+
+<!-- edureka! -->
+## Learnit Training
+
+[![Learnit Training](https://yt3.googleusercontent.com/JPJEpKm2PkYzJJmju1M4a0cq3aMBS-JmJ4umGsxMLOCTTq0aE-vTfDaKa9umJNjqncqrzI3UauY=s176-c-k-c0x00ffffff-no-rj =x150)][yu-learnit-training]
+
+::: details 목록
+
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="72JNvOpwn1g" title="Keynote Tutorial" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="urrfJgHwIJA" title="Python Logging - Tutorial" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="2CPfTMTr_QQ" title="Build Resilience &amp; Adaptability" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="xrt_ceNXiM0" title="10 Things You Never Knew You Could Do in Excel" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="wt5-Mcimw78" title="Word Advanced Tutorial" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="QAI0yKpCurM" title="Access Master Tutorial" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="1XTXv1V3-ag" title="Access Beginner Tutorial" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="tuk99Sgc6Fw" title="Microsoft Excel 2016 - Learn Excel 2016 Beginners Tutorial Video" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="G05TrN7nt6k" title="Excel VBA Beginner Tutorial" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="72JNvOpwn1g" title="Keynote Tutorial" />
+<YoutubeItem channelName="Learnit Training" channelId="LearnitTraining" id="2dkm3LnqTr8" title="Power Automate Beginner Tutorial" />
+
+
+:::
+
+<!-- Learnit Training -->
+
+---
+
+## ClayDesk E-Learning
+
+[ClayDesk E-Learning][yu-claydesk]
+
+::: details 목록
+
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="ZopKM2umkew" title="CI CD Full Course In One Hour" />
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="4_ORDXKLMWs" title="Selenium Testing Full Course" />
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="SpfO55NPhx8" title="AWS Certified Cloud Practitioner 2022 FULL COURSE for Beginners (2019 Course Updated)" />
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="9kSQQfOG9IE" title="AWS Cloud Security Best Practices - How to Configure AWS Security" />
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="gVMA8ilZKvE" title="Azure DevOps Introduction for Beginners - Azure DevOps" />
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="BpCDeiUgaj8" title="How to Manage AWS Data Security Risk in Cloud Computing" />
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="6ycSuoqsevA" title="Certified KUBERNETES Application Developer Full Course for Beginners" />
+
+:::
+
+<!-- ClayDesk E-Learning -->
+
+---
+
+## Intellipaat
+
+[Intellipaat][yu-intellipaat]
+
+::: details 목록
+
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="xQxPznGGjcs" title="Power BI Full Course 2023 | Power BI Tutorial For Beginners | Power BI Course | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="ZwuKjwE1ODw" title="Introduction to Client Libraries | GCP CLI Tutorial | Google Cloud Platform Part-3 | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="oxp6yVf94V4" title="AWS Full Course | AWS Tutorial for Beginners | AWS Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="zdSB848J0cU" title="AWS SysOps Full Course | AWS Sysops Administrator Training | AWS  SysOps Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="D7Nhna43ztg" title="DevSecOps Full Course | DevSecOps Tutorial For Beginners | DevSecOps Training | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="ado6mabbLYM" title="Azure Web App Deployment | Azure App Services Part-3 | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="hpMFWegipgU" title="Amazon Virtual Private Cloud | AWS VPC Explained | AWS VPC | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="ivA0jRWgf5Q" title="Android Application Architecture | Android Application Tutorial | Android Jetpack | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="i4Uk7D_csLg" title="Cyber Security Tutorial | Cyber Security Training for Beginners | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="yb5ztNNMQeQ" title="Selenium Automation Testing Tutorial for Beginners | Selenium Automation Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="Z8Xwb2fpfyY" title="Machine Learning with Java Training | Machine Learning Java Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="JHoy3lDZOfY" title="DevOps Training | DevOps Course | DevOps Tutorial for Beginners | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="ifp8-hByP4Q" title="What is Cyber Security | Introduction to Cyber Security | Cyber Security Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="xsM8Vt3C3l8" title="Hadoop Training | Hadoop Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="mxv_4c4y40I" title="Selenium Training | Selenium Full Course | Selenium Java Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="sNOqBAhr90E" title="DevOps Project - Setting up CI/CD Pipeline using Docker, Selenium &amp; Ansible | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="JTDK6r1GuUU" title="SQL Training | SQL Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="7vEshQK_bSA" title="Azure DevOps Tutorial | Developing CI/ CD Pipelines on Azure | Azure Devops Certification Course" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="0Wt84vCzudE" title="Selenium Tutorial for Beginners | Selenium Tutorial | Selenium Automation Training | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="sS3Xsw-F344" title="Azure Data Lake Tutorial | Azure Data Lake Training | Azure Data Lake Architecture | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="T6PDeK9kdHY" title="PySpark Tutorial | Python Spark | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="8aweTi8NTew" title="Node.js Tutorial | Learn Node.js | Node.js Training | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="4Hr4TgTpk14" title="Automation Testing Tutorial | Automation Testing training | Selenium Automation Testing Training" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="QF1VKckwCao" title="SQL Basics | Learn SQL | SQL Training for Beginners | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="JFRZ6p0eVQc" title="DevOps vs NoOps | What is NoOps | NoOps Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="MRXT8IJW6YM" title="How to Write &amp; Run a Test Case in Selenium | Selenium Tutorial | Selenium Training | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="j0vTENfoHFc" title="Docker Installation | How To Install Docker | Docker Installation on Ubuntu 18.04 | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="KuroMweAojE" title="Selenium Tutorial | Selenium Automation Testing Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="wDZ7THuTA0Y" title="MSBI Tutorials for Beginners | SSRS Tutorial | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="RppfZGuLsmA" title="Docker Training | Docker Tutorial for Beginners | What is Docker | Intellipaat" />
+<YoutubeItem channelName="Intellipaat" channelId="Intellipaat" id="L9Gz08Z5Psg" title="Configuring Apache Server in Red Hat Linux | Linux Tutorials - Intellipaat" />
+
+:::
+
+<!-- Intellipaat -->
+
+---
+
 ## Misc. 
 
 | W / NW | Thumbnail | Account / Title |
@@ -751,11 +848,19 @@ e5lIMEm7UPg
 
 [yu-freecodecamp]: https://www.youtube.com/@freecodecamp
 [yu-theprimeagen]: https://www.youtube.com/@ThePrimeagen
-[yu-MarcelDempers]: https://www.youtube.com/@MarcelDempers
 [yu-simplilearn]: https://www.youtube.com/@SimplilearnOfficial
 [yu-DEvS]: https://www.youtube.com/@jimmykimu
 [yu-fenrir]: https://www.youtube.com/@KERBEROSJOO
+[yu-programming-knowledge]: https://www.youtube.com/@ProgrammingKnowledge 
 [yu-derek-banas]: https://www.youtube.com/@derekbanas
-[yu-omer-java]: https://www.youtube.com/@omerjava
 [yu-inflearn]: https://www.youtube.com/@inflearn9845
+[yu-programmingwithmosh]: https://www.youtube.com/@programmingwithmosh
 [yu-coohde]: https://www.youtube.com/@coohde
+[yu-telusko]: https://www.youtube.com/@Telusko
+[yu-nadocoding]: https://www.youtube.com/@nadocoding
+[yu-edureka]: https://www.youtube.com/@edurekaIN
+[yu-learnit-training]: https://www.youtube.com/@LearnitTraining
+[yu-claydesk]: https://www.youtube.com/@claydesk
+[yu-intellipaat]: https://www.youtube.com/@Intellipaat
+
+[yu-omer-java]: https://www.youtube.com/@omerjava

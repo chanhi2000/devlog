@@ -13,54 +13,9 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 ---
 
-## That DevOps Guy
-
-[That DevOps Guy][yu-marcel-dempers]
-
-::: details 목록
-
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="1zcXudjSVUs" title="Understanding KUBECTL - Learning Kubernetes" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="_NtRkBipepg" title="Introduction to Service monitors for beginners | Kubernetes monitoring" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="Qy2A_yJH5-o" title="Getting Started with EKS and Terraform" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="Hc-XFPHDDk4" title="Introduction to Linkerd for beginners | a Service Mesh" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="hfUIWe1tK8E" title="RabbitMQ : Message Queues for beginners" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="PW44JaAlI_8" title="Making Kubernetes disappear with Shipa" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="1mNYSn2KMZk" title="How to build a Kubernetes Webhook | Admission controllers" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="6kmHvXdAzIM" title="Fluentd on Kubernetes: Log collection explained" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="72zYxSxifpM" title="How to use  NGINX Ingress with Kubernetes in 2023" />
-<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="F7kswYPcTJ4" title="2min TECH TIP:  3 MUST HAVE tools for Kubernetes! | Dev Ops" />
-
-:::
-
-<!-- That DevOps Guy -->
-
----
-
-## Learn Linux TV
-
-[Learn Linux TV][yu-learn-linux-tv]
-
-::: details 목록
-
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="aSWVwdr2_n8" title="Linux Crash Course - The \\`watch\\` Command" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="sBrAVQumqjs" title="5 Must Have Tweaks to Secure OpenSSH" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="ZWC_1nISLKE" title="Why you should build your Portfolio in Github to gain a Linux Job" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="bVB24I7B0JQ" title="Building your own Git Server with Gitea on AlmaLinux" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="gIDywsGBqf4" title="Using Ansible to automate your Laptop and Desktop configs!" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="WW7yazr-xAM" title="Awesome Linux Tools: cheat.sh" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="s8F_YWGHeDM" title="Getting started with Ansible 16 (Series Finale) - Templates" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="0Yy65JKVSfM" title="Learn CentOS 22 - Hosting a Simple Web Page with Apache" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="wvpYikch9x4" title="Learn CentOS Part 6 - Running Commands with root Privileges" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="_acLAdlRy_I" title="Learn CentOS Part 3 - Exploring the Linux Filesystem" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="wwpRtC5nywM" title="Another Look at My Homelab (More Detail)" />
-
-:::
-
-<!-- Learn Linux TV -->
-
----
-
 ## Linux Leech
+
+[Linux Leech][yu-linuxleech]
 
 ::: details BASH Shell tutorials for beginners
 <YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="sqYUYHn-HKg" title="BASH Shell commands `pwd` ( commands for linux )" />
@@ -270,8 +225,7 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 <TagLinks />
 
-[yu-marcel-dempers]: https://www.youtube.com/@MarcelDempers
-[yu-linux-leech]: https://www.youtube.com/@linuxleech
+[yu-linuxleech]: https://www.youtube.com/@linuxleech
 [yu-tmanelshrghk]: https://www.youtube.com/@tmanelshrghk
 [yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93
 [yu-software-tool-time]: https://www.youtube.com/@SoftwareToolTime

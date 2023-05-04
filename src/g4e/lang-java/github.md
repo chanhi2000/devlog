@@ -121,8 +121,8 @@ meta:
 - [cuynu/ytvanced][cuynu/ytvanced]: YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)
 - [ethereum-lists/chains][ethereum-lists/chains]: provides metadata for networkIDs and chainIDs <GithubTags tagItems="ethereum;chains;evm;hacktoberfest;eip155;chainid" />
   - [🌐Official Site](https://chainid.network)
-
-
+- [KakaoCup/Kakao][KakaoCup/Kakao]: Nice and simple DSL for Espresso in Kotlin <GithubTags tagItems="android;kotlin;dsl;android-test;espresso;testing-tools;android-ui;hacktoberfest;ui-testing;testing-framework;testing-library" />
+  - [🌐Official Site](https://kakaocup.github.io/Kakao)
 
 ---
 
@@ -174,7 +174,6 @@ meta:
 - [skydoves/chatgpt-android][skydoves/chatgpt-android]: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [recloudstream/cloudstream][recloudstream/cloudstream]: Android app for streaming and downloading Movies, TV-Series and Anime.
 - [lukeaschenbrenner/TxtNet-Browser][lukeaschenbrenner/TxtNet-Browser]: An app that lets you browse the web over SMS
-
 
 <TagLinks />
 
@@ -235,6 +234,8 @@ meta:
 [ThinkingLogic/kotlin-builder-annotation]: https://github.com/ThinkingLogic/kotlin-builder-annotation
 [netflix/dgs-framework]: https://github.com/netflix/dgs-framework
 [cuynu/ytvanced]: https://github.com/cuynu/ytvanced
+[ethereum-lists/chains]: https://github.com/ethereum-lists/chains
+[KakaoCup/Kakao]: https://github.com/KakaoCup/Kakao
 <!-- Android -->
 [anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
 [PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment

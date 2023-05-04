@@ -13,9 +13,46 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Ben Awad
+
+[![Ben Awad](https://yt3.googleusercontent.com/ytc/AGIKgqNopooyvKw-otfweyIOMf-gPWvABriRa-sL3WZV7g=s176-c-k-c0x00ffffff-no-rj =x150)][yu-bawad]
+
+::: details 목록
+
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="dCCaYEG5KeA" title="Technologies I'm Learning in 2023" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="f687hBjwFcM" title="React Hooks Tutorial" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="1PBNAoKd-70" title="Coding the Next Facebook - 53 days in" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="j1ZRyw7OtZs" title="React Hooks useEffect Tutorial" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="A9bA5HpOk30" title="Docker Compose Tutorial with PostgreSQL and Node.js" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="I6ypD7qv3Z8" title="Fullstack React GraphQL TypeScript Tutorial" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="C7CPXeEvKN0" title="Expert Level SQL Tutorial" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="N4Vex7l8jv4" title="Windows Defender Hardening and Test vs Malware" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="1XjIdgUaTiI" title="What is a CSS Custom Property / Custom Variable?" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="uFH5S5dUPr8" title="My GraphQL Performance Problem" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="Z5iWr6Srsj8" title="React Typescript Tutorial" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="Kx_1NYYJS7Q" title="Where to Host a Fullstack Project on a Budget" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="CYlUcIH3dPg" title="Parallel Processing for Faster Deployments" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="Hln37dE19bs" title="React Navigation v5 Tutorial" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="tp_5c6jaNQE" title="SQL Tutorial for Beginners" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="gnupOrSEikQ" title="How to Configure Vim like VSCode" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="ZNbosPOEEWw" title="First Look at React useDeferredValue Hook" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="M6N7gEZ-IUQ" title="Why LocalStorage is Vulnerable to XSS (and cookies are too)" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="25GS0MLT8JU" title="JWT Authentication Node.js Tutorial with GraphQL and React" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="iD49_NIQ-R4" title="How to Store JWT for Authentication" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="IiwGbcd8S7I" title="Vim Tutorial" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="oPqrLsvjWgo" title="How I Designed my App that Got 100k Downloads" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="hfGtyd5nmwQ" title="Technologies I used to Code My Backendless App" />
+<YoutubeItem channelName="Ben Awad" channelId="bawad" id="z1vPBc2h9pE" title="My App has More Complicated Animations Than Yours" />
+
+:::
+
+<!-- Ben Awad -->
+
+---
+
 ## Sonny Sangha
 
-[Sonny Sangha][yu-SonnySangha]
+[![Sonny Sangha](https://yt3.googleusercontent.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s176-c-k-c0x00ffffff-no-rj =x150)][yu-sonny-sangha]
 
 ::: details 목록
 <YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="0uN7O-H9gds" title="Let’s build a Solana NFT Gated website in 30 Minutes (Next.js, Thirdweb, Tailwind CSS)" />
@@ -43,7 +80,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Clever Programmer
 
-[Clever Programmer][yu-CleverProgrammer]
+[![Clever Programmer](https://yt3.googleusercontent.com/ytc/AGIKgqN8GgrkGaaRTY5ekdsoAALXvJQaMzGP71b4RTjmJQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-clever-programmer]
 
 ::: details 목록
 
@@ -108,34 +145,34 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## notJust.dev
 
-[notJust.dev][yu-notjustdev]
+[![notJust.dev](https://yt3.googleusercontent.com/Tr9LSWwMBLv3rnJKAMjef-jhFPjz-JNUl8JR31DvQnYdp2eufTNl9K1Z_rFZarrtCDDqpix90MI=s176-c-k-c0x00ffffff-no-rj =x150)][yu-notjustdev]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=sQx38wrzvuk"><img width="140px" height="auto" alt="thumb-sQx38wrzvuk" src="https://i.ytimg.com/vi/sQx38wrzvuk/hqdefault.jpg"/></a> | [notJust Hack - Kickstart!](https://www.youtube.com/watch?v=sQx38wrzvuk) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-qAhg4EDIwQ"><img width="140px" height="auto" alt="thumb--qAhg4EDIwQ" src="https://i.ytimg.com/vi/-qAhg4EDIwQ/hqdefault.jpg"/></a> | [Let's build a Books App with React Native (tutorial for beginners) 🔴](https://www.youtube.com/watch?v=-qAhg4EDIwQ) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=m4NIOzDxHxE"><img width="140px" height="auto" alt="thumb-m4NIOzDxHxE" src="https://i.ytimg.com/vi/m4NIOzDxHxE/hqdefault.jpg"/></a> | [Let's build Ping-Pong in React Native (Dynamic Island) 🔴](https://www.youtube.com/watch?v=m4NIOzDxHxE) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fWHiSuz-V68"><img width="140px" height="auto" alt="thumb-fWHiSuz-V68" src="https://i.ytimg.com/vi/fWHiSuz-V68/hqdefault.jpg"/></a> | [Gesture Handler tutorial in React Native](https://www.youtube.com/watch?v=fWHiSuz-V68) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pqQGU-JsD7k"><img width="140px" height="auto" alt="thumb-pqQGU-JsD7k" src="https://i.ytimg.com/vi/pqQGU-JsD7k/hqdefault.jpg"/></a> | [Let's build WhatsApp with React Native and AWS Amplify \[p4\] 🔴](https://www.youtube.com/watch?v=pqQGU-JsD7k) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JcVt63qAt4o"><img width="140px" height="auto" alt="thumb-JcVt63qAt4o" src="https://i.ytimg.com/vi/JcVt63qAt4o/hqdefault.jpg"/></a> | [FlatList Animations in React Native with Reanimated 2](https://www.youtube.com/watch?v=JcVt63qAt4o) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8psijC5ezkc"><img width="140px" height="auto" alt="thumb-8psijC5ezkc" src="https://i.ytimg.com/vi/8psijC5ezkc/hqdefault.jpg"/></a> | [Let's build WhatsApp with React Native and AWS Amplify \[p2\] 🔴](https://www.youtube.com/watch?v=8psijC5ezkc) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=H9qTNjWV2ls"><img width="140px" height="auto" alt="thumb-H9qTNjWV2ls" src="https://i.ytimg.com/vi/H9qTNjWV2ls/hqdefault.jpg"/></a> | [Let's build iOS 16 in React Native 🤔](https://www.youtube.com/watch?v=H9qTNjWV2ls) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=onGpjt4mQdE"><img width="140px" height="auto" alt="thumb-onGpjt4mQdE" src="https://i.ytimg.com/vi/onGpjt4mQdE/hqdefault.jpg"/></a> | [Animated Login Form in React Native (#2 Animations)](https://www.youtube.com/watch?v=onGpjt4mQdE) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NzZvrlFBuig"><img width="140px" height="auto" alt="thumb-NzZvrlFBuig" src="https://i.ytimg.com/vi/NzZvrlFBuig/hqdefault.jpg"/></a> | [Building a Startup with React Native and AWS Amplify (part 3)](https://www.youtube.com/watch?v=NzZvrlFBuig) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AJBOV5btvaU"><img width="140px" height="auto" alt="thumb-AJBOV5btvaU" src="https://i.ytimg.com/vi/AJBOV5btvaU/hqdefault.jpg"/></a> | [Let's code the notJust.dev blog platform with NextJS](https://www.youtube.com/watch?v=AJBOV5btvaU) <br/><br/> _[notJust.dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=INLnagMFShw"><img width="140px" height="auto" alt="thumb-INLnagMFShw" src="https://i.ytimg.com/vi/INLnagMFShw/hqdefault.jpg"/></a> | [Virtual Events App \[React Native \| Nhost\]](https://www.youtube.com/watch?v=INLnagMFShw) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=js7JO8y_vmk"><img width="140px" height="auto" alt="thumb-js7JO8y_vmk" src="https://i.ytimg.com/vi/js7JO8y_vmk/hqdefault.jpg"/></a> | [Let's build WhatsApp with React Native and AWS Amplify \[p3\] 🔴](https://www.youtube.com/watch?v=-m-4_DRLmrc) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WFo_IxhBxF4"><img width="140px" height="auto" alt="thumb-WFo_IxhBxF4" src="https://i.ytimg.com/vi/WFo_IxhBxF4/hqdefault.jpg"/></a> | [Build a full stack UBER EATS clone - 2/5 Days Challenge  🔴](https://www.youtube.com/watch?v=WFo_IxhBxF4) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4gX2V1IN6Ro"><img width="140px" height="auto" alt="thumb-4gX2V1IN6Ro" src="https://i.ytimg.com/vi/4gX2V1IN6Ro/hqdefault.jpg"/></a> | [Let's build a Pinterest clone with React Native and NHost 🔴](https://www.youtube.com/watch?v=4gX2V1IN6Ro) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xuBB-k6jAqo"><img width="140px" height="auto" alt="thumb-xuBB-k6jAqo" src="https://i.ytimg.com/vi/xuBB-k6jAqo/hqdefault.jpg"/></a> | [Let's build a CRYPTO Price Tracker with React Native \(p.2\)🔴](https://www.youtube.com/watch?v=xuBB-k6jAqo) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"><img width="140px" height="auto" alt="thumb-iQ_0Fd_N3Mk" src="https://i.ytimg.com/vi/iQ_0Fd_N3Mk/hqdefault.jpg"/></a> | [🔴Build your first App in React Native in under 2 hours \[ Tutorial for beginners \]](https://www.youtube.com/watch?v=iQ_0Fd_N3Mk) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EvSUJ5lUcBw"><img width="140px" height="auto" alt="thumb-EvSUJ5lUcBw" src="https://i.ytimg.com/vi/EvSUJ5lUcBw/hqdefault.jpg"/></a> | [Build a Realtime Chat App in React Native \(tutorial for beginners\) 🔴](https://www.youtube.com/watch?v=EvSUJ5lUcBw) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OfKVpG8KLhY"><img width="140px" height="auto" alt="thumb-OfKVpG8KLhY" src="https://i.ytimg.com/vi/OfKVpG8KLhY/hqdefault.jpg"/></a> | [Building Beautiful Animations with React Native Reanimated 3](https://www.youtube.com/watch?v=OfKVpG8KLhY) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UzdN1Xj8iq8"><img width="140px" height="auto" alt="thumb-UzdN1Xj8iq8" src="https://i.ytimg.com/vi/UzdN1Xj8iq8/hqdefault.jpg"/></a> | [Build Your First App: Tesla Clone with React Native (Tutorial for Beginners)](https://www.youtube.com/watch?v=UzdN1Xj8iq8) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5WNoynmnEAs"><img width="140px" height="auto" alt="thumb-5WNoynmnEAs" src="https://i.ytimg.com/vi/5WNoynmnEAs/hqdefault.jpg"/></a> | [A Beginner's Guide to 3D Animations in React Native with three.js](https://www.youtube.com/watch?v=5WNoynmnEAs) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=50bIefoMo3c"><img width="140px" height="auto" alt="thumb-50bIefoMo3c" src="https://i.ytimg.com/vi/50bIefoMo3c/hqdefault.jpg"/></a> | [Integrating Stripe Payments in your E-commerce React Native App](https://www.youtube.com/watch?v=50bIefoMo3c) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Gvxv6JCabA8"><img width="140px" height="auto" alt="thumb-Gvxv6JCabA8" src="https://i.ytimg.com/vi/Gvxv6JCabA8/hqdefault.jpg"/></a> | [Building the Ultimate Nike App in React Native &amp; Redux](https://www.youtube.com/watch?v=Gvxv6JCabA8) <br/><br/> _[notJust․dev][yu-notjustdev]_ |
+
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="sQx38wrzvuk" title="notJust Hack - Kickstart!" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-qAhg4EDIwQ" title="Let's build a Books App with React Native (tutorial for beginners) 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="m4NIOzDxHxE" title="Let's build Ping-Pong in React Native (Dynamic Island) 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="fWHiSuz-V68" title="Gesture Handler tutorial in React Native" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="pqQGU-JsD7k" title="Let's build WhatsApp with React Native and AWS Amplify [p4] 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="JcVt63qAt4o" title="FlatList Animations in React Native with Reanimated 2" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="8psijC5ezkc" title="Let's build WhatsApp with React Native and AWS Amplify [p2] 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="H9qTNjWV2ls" title="Let's build iOS 16 in React Native 🤔" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="onGpjt4mQdE" title="Animated Login Form in React Native (#2 Animations)" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="NzZvrlFBuig" title="Building a Startup with React Native and AWS Amplify (part 3)" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="AJBOV5btvaU" title="Let's code the notJust.dev blog platform with NextJS" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="INLnagMFShw" title="Virtual Events App [React Native | Nhost]" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-m-4_DRLmrc" title="Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="WFo_IxhBxF4" title="Build a full stack UBER EATS clone - 2/5 Days Challenge  🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="4gX2V1IN6Ro" title="Let's build a Pinterest clone with React Native and NHost 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="xuBB-k6jAqo" title="Let's build a CRYPTO Price Tracker with React Native (p.2)🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="iQ_0Fd_N3Mk" title="🔴Build your first App in React Native in under 2 hours [ Tutorial for beginners ]" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="EvSUJ5lUcBw" title="Build a Realtime Chat App in React Native (tutorial for beginners) 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="OfKVpG8KLhY" title="Building Beautiful Animations with React Native Reanimated 3" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="UzdN1Xj8iq8" title="Build Your First App: Tesla Clone with React Native (Tutorial for Beginners)" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="5WNoynmnEAs" title="A Beginner's Guide to 3D Animations in React Native with three.js" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="50bIefoMo3c" title="Integrating Stripe Payments in your E-commerce React Native App" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="Gvxv6JCabA8" title="Building the Ultimate Nike App in React Native &amp; Redux" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="FD-pVEzugaU" title="Building the OnlyFans Clone with React Native (Beginner Tutorial)" />
 
 :::
 
@@ -145,7 +182,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## CodingNepal
 
-[CodingNepal][yu-coding-nepal]
+[![CodingNepal](https://yt3.googleusercontent.com/VYLLrblIs_umHCFyK_-q5HJLfB-aDc5ax94uUjNaU5IQXZAlMn6bMVPG-AaLR3-k5_HcBMcI6MA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-coding-nepal]
 
 ::: details 목록
 
@@ -363,23 +400,88 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
-| ❌ | <a href="https://www.youtube.com/watch?v=B6hmetsV3yI"><img width="140px" height="auto" alt="thumb-B6hmetsV3yI" src="https://i.ytimg.com/vi/B6hmetsV3yI/hqdefault.jpg"/></a> | [Nuxt 3 - Building a Complete Project](https://www.youtube.com/watch?v=B6hmetsV3yI) <br/><br/> _[Laith Academy][yu-laithacademy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7VAI73roXaY"><img width="140px" height="auto" alt="thumb-7VAI73roXaY" src="https://i.ytimg.com/vi/7VAI73roXaY/hqdefault.jpg"/></a> | [The NGINX Crash Course](https://www.youtube.com/watch?v=7VAI73roXaY) <br/><br/> _[Laith Academy][yu-laithacademy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KfGr49Z7OaA"><img width="140px" height="auto" alt="thumb-KfGr49Z7OaA" src="https://i.ytimg.com/vi/KfGr49Z7OaA/hqdefault.jpg"/></a> | [The Docker Crash Course](https://www.youtube.com/watch?v=KfGr49Z7OaA) <br/><br/> _[Laith Academy][yu-laithacademy]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jrKcJxF0lAU"><img width="140px" height="auto" alt="thumb-jrKcJxF0lAU" src="https://i.ytimg.com/vi/jrKcJxF0lAU/hqdefault.jpg"/></a> | [React with TypeScript Crash Course](https://www.youtube.com/watch?v=jrKcJxF0lAU) <br/><br/> _[Laith Academy][yu-laithacademy]_ |
-
-o6VwbXSjM08
-The Svelte Crash Course
+<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="B6hmetsV3yI" title="Nuxt 3 - Building a Complete Project" />
+<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="7VAI73roXaY" title="The NGINX Crash Course" />
+<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="KfGr49Z7OaA" title="The Docker Crash Course" />
+<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="jrKcJxF0lAU" title="React with TypeScript Crash Course" />
+<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="o6VwbXSjM08" title="The Svelte Crash Course" />
 
 :::
 
-<!--  -->
+<!-- Laith Academy  -->
+
+---
+
+## JavaScript Mastery
+
+[JavaScript Mastery][yu-javascript-mastery]
+
+::: details 목록
+
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="dyFVwXROzZk" title="Build and Deploy 3 Modern React API Applications in 8 Hours - Full Course | RapidAPI" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="F627pKNUCVQ" title="Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="C9ctoK4M9Bk" title="Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="y47gYvXchXM" title="Build and Deploy a Modern Real Estate App | React Website Tutorial" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="pU6WZLNthKo" title="Buildkit: A New Docker Builder" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="UKdQjQX1Pko" title="Build and Deploy a Google Maps Travel Companion Application | React.js" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="OPaLnMw2i_0" title="Build and Deploy THE PERFECT Portfolio Website | Create a Portfolio from Scratch" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="jcOKU9f86XE" title="Chat Application using React JS - Build and Deploy a Chat App in 1 Hour (Microsoft Teams)" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="377AQ0y6LPA" title="ECommerce Web Shop - Build &amp; Deploy an Amazing App | React.js, Commerce.js, Stripe" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="y-Qj4vRrwv4" title="JavaScript Algorithms for Beginners" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="aS4a6Gv2B-s" title="Covid-19 Status Desktop Widget | JavaFX Tutorial 4/5 | Finishing the Application Development" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="ZwFA3YMfkoc" title="Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="khJlrj3Y6Ls" title="Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="mJ3bGvy0WAY" title="Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="0fYi8SGA20k" title="Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="k4lHXIzCEkM" title="Build and Deploy a Full Stack MERN Application With CRUD, Auth, and Charts Using Refine" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="0fYi8SGA20k" title="Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial" />
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="ZqEa8fTxypQ" title="Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners" />
+
+:::
+
+<!-- JavaScript Mastery -->
+
+---
+
+## Program With Erik
+
+[![Program With Erik](https://yt3.googleusercontent.com/ytc/AGIKgqPrIKatvLhs_ayZuyyyQt90tGzKdio8EOVyeipP=s176-c-k-c0x00ffffff-no-rj =x150)][yu-program-w-erik]
+
+::: details 목록
+
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="qrU0_VYMYOg" title="Build A Web3 Domain Name Service With Vue.js, Solidity and Hardhat!" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="IFXjm_fmNr8" title="Create A Vue.js 3 Full Stack Application With Amplify, GraphQL, Auth and More! #teamseas" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="hcg1Uco3Ojs" title="Learn The New Notion API in 35 Minutes | Create A Random Quote Generator With Notion API and Fastify" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="BZScSgvBU54" title="How To Code Faster With Vue.js Render Functions!! - Advanced Render Functions Tutorial" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="r3naKWlTOTA" title="Are React Server Components A Game Changer? // Introduction To React Server Components As A Vue Dev" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="hRv1wIWRNJ4" title="9 Awesome Github Repos Every Web Developer Should Know" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="GHAMYwlPCug" title="Vue.js Tips: Use Slots The Right Way // VUE.JS SLOTS TUTORIAL WITH VUE 3" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="EhQke5BVcLw" title="10 OF THE BEST FREE GITHUB REPOSITORIES FOR DEVELOPERS // TOP 10 FREE DEVELOPER RESOURCES" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="vaQ0N9082Nw" title="How To Deploy A Vue App To A VPS With Git" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="6H7-3_Wgwu4" title="GraphQL vs REST - What is GraphQL and Why You Should Choose It" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="GM8J2tblVEY" title="Vue.js Testing Guide:  Unit Tests and E2E Testing (Cypress)" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="T9qmHgTmznc" title="What Is Inkline? A First Look At A Vue Component Library!" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="CQAQkHuulTU" title="Vue.js With TypeScript A Beginners Guide" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="-i6C9GE0oTA" title="Gridsome Headless CMS Tutorial With Google Sheets" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="ZAjUGkhqUP4" title="Tailwind CSS with Vue" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="G2krb6FaZco" title="Introduction to Bootstrap With Vue - Vuex Refactor" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="RA7sO_9V3vw" title="Vue Component Library Vuesax - Getting Started" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="Fbo4pttBZ9k" title="An Introduction To Vue Testing With Jest - (Realworld App)" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="3SdlcNvV33A" title="Quasar Vue.js Tutorial - Let's Build An App!" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="zPViRHZfKv4" title="VUE.JS COMPOSITION API STARTER GUIDE WITH EXAMPLE!" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="_LLUdzTIpBA" title="Vue 3 Function API Plugin First Look! With Example!" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="lyGt1TmleoU" title="3 Ways To Debug Your Vuejs Apps With VS Code And Chrome" />
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="1vwq4uaYQGU" title="Is Tailwind CSS No Longer Needed? A Look Into UnoCSS!" />
+
+:::
+
+<!-- Program With Erik -->
 
 ---
 
 ## Fireship
 
-[Fireship][yu-fireship]
+[![Fireship](https://yt3.googleusercontent.com/ytc/AGIKgqOSWK9LIZ9xGvDbBZ7gjBK1ayNCxK0jKMOq1FirfA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-fireship]
 
 ::: details 목록
 
@@ -421,7 +523,7 @@ The Svelte Crash Course
 
 ## Beyond Fireship
 
-[Beyond Fireship][yu-beyond-fireship]
+[![Beyond Fireship](https://yt3.googleusercontent.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s176-c-k-c0x00ffffff-no-rj =x150)][yu-beyond-fireship]
 
 ::: details 목록
 
@@ -438,7 +540,7 @@ The Svelte Crash Course
 
 ## Dave Gray
 
-[Dave Gray][yu-dave-gray-teaches-code]
+[![Dave Gray](https://yt3.googleusercontent.com/ytc/AGIKgqPTYuxSA9QQBsfYGVm7ABKrQr2--Q8m_UdVqEmUkQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-dave-gray-teaches-code]
 
 ::: details 목록
 
@@ -586,18 +688,143 @@ The Svelte Crash Course
 <YoutubeItem channelName="코드팩토리" channelId="codefactory_official" id="b7Uqx7NZpHw" title="[웹개발] [React] React 개발자라면 꼭 알아야하는" />
 <YoutubeItem channelName="코드팩토리" channelId="codefactory_official" id="ZOVG7_41kJE" title="9시간이면 누구든 Javascript 개발자로 만들어버리는 마법같은 영상 | 타임스탬프 O" />
 
-::: 
+:::
 
-<!--  -->
-
-
-##
-
-| ❌ | <a href="https://www.youtube.com/watch?v=41kqZYK3wRI"><img width="140px" height="auto" alt="thumb-41kqZYK3wRI" src="https://i.ytimg.com/vi/41kqZYK3wRI/hqdefault.jpg"/></a> | [How to build a landing page with Tailwind CSS, Tailwind UI, Vite.js – tutorial video](https://www.youtube.com/watch?v=41kqZYK3wRI) <br/><br/> _[Justin Jackson][yu-justin-jackson]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=s3yWEtGpp_A"><img width="140px" height="auto" alt="thumb-s3yWEtGpp_A" src="https://i.ytimg.com/vi/s3yWEtGpp_A/hqdefault.jpg"></a> | [Tutorial: make a hamburger menu with Vue.js + Tailwind CSS (Adam Wathan teaches a complete noob)](https://www.youtube.com/watch?v=s3yWEtGpp_A) <br/><br/> _[Justin Jackson][yu-justin-jackson]_ |
+<!-- 코드팩토리 -->
 
 
+## Justin Jackson
 
+[Justin Jackson][yu-justin-jackson]
+
+::: details 목록
+
+<YoutubeItem channelName="Justin Jackson" channelId="JustinJackson" id="41kqZYK3wRI" title="How to build a landing page with Tailwind CSS, Tailwind UI, Vite.js – tutorial video" />
+<YoutubeItem channelName="Justin Jackson" channelId="JustinJackson" id="s3yWEtGpp_A" title="Tutorial: make a hamburger menu with Vue.js + Tailwind CSS (Adam Wathan teaches a complete noob)" />
+
+:::
+
+<!-- Justin Jackson -->
+
+---
+
+## Pluralsight
+
+[Pluralsight][yu-pluralsight]
+
+::: details 목록
+
+<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="mw5YuPw6A1c" title="Backend development for frontend engineers" />
+<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="-g2Dat7z2WQ" title="Webinar: Angular patterns &amp; best practices with John Papa" />
+<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="mhFPVhNNI3Y" title="Let's Build a Game in JavaScript! All Hands on Tech Live" />
+<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="5TKeYLW2cq4" title="Let's Build a JavaScript Game!" />
+
+:::
+
+<!-- Pluralsight -->
+
+---
+
+## Adrian Twarog
+
+[Adrian Twarog][yu-adrian-twarog]
+
+::: details 목록
+
+<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="JTxsNm9IdYU" title="ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners" />
+<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="bB7xkRsEq-g" title="Advanced ChatGPT Guide - How to build your own Chat GPT Site" />
+<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="qNifU_aQRio" title="Navbar Bootstrap 5 |  Bootstrap Navbar Tutorial" />
+<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="qKkwihNGz_U" title="JavaScript Array Concat Method" />
+<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="Y0QBmXEylP8" title="250 Unique APIs for your next Project" />
+<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="BEoFSRdkSZQ" title="Full Stack Developer Roadmap" />
+<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="_O5jjEwCgmA" title="How To Build A Twitter Clone - React Next JS - Appwrite Crash Course" />
+
+:::
+
+<!-- Adrian Twarog -->
+
+---
+
+## React with Masoud
+
+[React with Masoud][yu-react-w-masoud]
+
+::: details 목록
+
+<YoutubeItem channelName="React with Masoud" channelId="ProgrammingwithMasoud" id="1yS2fl8u830" title="Framer Motion" />
+<YoutubeItem channelName="React with Masoud" channelId="ProgrammingwithMasoud" id="-d45WHNU9J4" title="How to build Serverless Video Chat App using Firebase and WebRTC in React" />
+<YoutubeItem channelName="React with Masoud" channelId="ProgrammingwithMasoud" id="q-h-AM3p0Tk" title="youtube clone html css | Practical ReactJS Tutorial Part 2" />
+<YoutubeItem channelName="React with Masoud" channelId="ProgrammingwithMasoud" id="Jo7AV5etOsA" title="How to rapidly update your React Native android project using Code Push without app store upload" />
+<YoutubeItem channelName="React with Masoud" channelId="ProgrammingwithMasoud" id="coRTRjCQ15U" title="Build a REACT Admin Dashboard App using Material UI, ChartJS, and DataGrids in 2023" />
+
+:::
+
+<!-- React with Masoud -->
+
+---
+
+## Coding Addict
+
+[Coding Addict][yu-coding-addict]
+
+::: details 목록
+
+<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="iZhV0bILFb0" title="React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks" />
+<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="TNV0_7QRDwY" title="Node and Express Tutorial" />
+<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="AfAZ33XjIBU" title="Serverless Functions" />
+<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="asB-dUwpH4Y" title="Gatsby - Strapi Portfolio Project" />
+<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="c5SIG7Ie0dM" title="15 Vanilla Javascript Projects" />
+
+:::
+
+<!-- Coding Addict -->
+
+---
+
+## basarat
+
+[![basarat](https://yt3.googleusercontent.com/j0VUiDS9sHvY1Btan-yWsVPxg5QweVlIm3z3AiBurwWJBtzttA1OCPzIq5ztGpirvDHyI5CS=s176-c-k-c0x00ffffff-no-rj =x150)][yu-basarat]
+
+::: details 목록
+
+<YoutubeItem channelName="basarat" channelId="basarat" id="CqmmIZYKTqQ" title="React Native Image Component // Tips, Tricks and Gotchas" />
+<YoutubeItem channelName="basarat" channelId="basarat" id="EQsZX-V_q7g" title="`useEffect` // Simplifying the React Component Lifecycle" />
+
+:::
+
+<!-- basarat -->
+
+---
+
+## Michigan TypeScript
+
+[Michigan TypeScript][yu-michigan-typescript]
+
+::: details 목록
+
+<YoutubeItem channelName="Michigan TypeScript" channelId="MichiganTypeScript" id="uaadPCiN6-0" title="ClassPublicKeys - TypeScript Type Challenges #2828 [HARD]" />
+<YoutubeItem channelName="Michigan TypeScript" channelId="MichiganTypeScript" id="K0SWmX3KylY" title="Split - TypeScript Type Challenges #2822 [HARD]" />
+
+:::
+
+<!-- Michigan TypeScript -->
+
+---
+
+## Code With Antonio
+
+[![Code With Antonio](https://yt3.googleusercontent.com/O8iON5EAVx6HVKyOV5UMreLFI_0D3mJX373vTEGoNcVRpNP7Lq8swha7BSLWTiEWlZaF7a4ENW8=s176-c-k-c0x00ffffff-no-rj =x150)][yu-code-w-antonio]
+
+::: details 목록
+
+<YoutubeItem channelName="Code With Antonio" channelId="codewithantonio" id="ytkG7RT6SvU" title="Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth &amp; Vercel (2023)" />
+<YoutubeItem channelName="Code With Antonio" channelId="codewithantonio" id="c_-b_isI4vg" title="Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023" />
+
+:::
+
+<!-- Code With Antonio -->
+
+---
 
 ## Gatsby
 
@@ -653,10 +880,27 @@ The Svelte Crash Course
 
 <!-- Ionic -->
 
+---
+
+## JSConf
+
+[JSConf][yu-jsconf_]
+
+::: details 목록
+
+<YoutubeItem channelName="JSConf" channelId="jsconf_" id="Om33AjwtQ_Y" title="Rebuild React Hooks yourself for Node" />
+
+:::
+
+<!-- JSConf -->
+
+---
+
 <TagLinks />
 
-[yu-SonnySangha]: https://www.youtube.com/@SonnySangha
-[yu-CleverProgrammer]:https://www.youtube.com/@CleverProgrammer
+[yu-bawad]: https://www.youtube.com/@bawad
+[yu-sonny-sangha]: https://www.youtube.com/@SonnySangha
+[yu-clever-programmer]:https://www.youtube.com/@CleverProgrammer
 [yu-notjustdev]: https://www.youtube.com/@notjustdev
 [yu-coding-nepal]: https://www.youtube.com/@CodingNepal
 [yu-lama-dev]: https://www.youtube.com/@LamaDev
@@ -666,6 +910,8 @@ The Svelte Crash Course
 [yu-web-dev-simplified]: https://www.youtube.com/@WebDevSimplified
 [yu-codingapple]: https://www.youtube.com/@codingapple
 [yu-laithacademy]: https://www.youtube.com/@laithacademy
+[yu-javascript-mastery]: https://www.youtube.com/@javascriptmastery
+[yu-program-w-erik]: https://www.youtube.com/@ProgramWithErik
 [yu-fireship]: https://www.youtube.com/@Fireship
 [yu-beyond-fireship]: https://www.youtube.com/@beyondfireship
 [yu-dave-gray-teaches-code]: https://www.youtube.com/@DaveGrayTeachesCode
@@ -675,7 +921,16 @@ The Svelte Crash Course
 [yu-codevolution]: https://www.youtube.com/@Codevolution
 [yu-code-w-sloba]: https://www.youtube.com/@CodewithSloba
 [yu-code-factory]: https://www.youtube.com/@codefactory_official
+[yu-justin-jackson]: https://www.youtube.com/@JustinJackson
+[yu-pluralsight]: https://www.youtube.com/@pluralsight
+[yu-adrian-twarog]: https://www.youtube.com/@AdrianTwarog
+[yu-react-w-masoud]: https://www.youtube.com/@ProgrammingwithMasoud
+[yu-coding-addict]: https://www.youtube.com/@CodingAddict
+[yu-basarat]: https://www.youtube.com/@basarat
+[yu-michigan-typescript]: https://www.youtube.com/@MichiganTypeScript
+[yu-code-w-antonio]: https://www.youtube.com/@codewithantonio
 [yu-gatsby-js]: https://www.youtube.com/@Gatsbyjs
 [yu-apollo-graphql]: https://www.youtube.com/@ApolloGraphQL
 [yu-vue-conf-toronto]: https://www.youtube.com/@VueConfToronto
 [yu-ionic]: https://www.youtube.com/@IonicFramework
+[yu-jsconf_]: https://www.youtube.com/@jsconf_

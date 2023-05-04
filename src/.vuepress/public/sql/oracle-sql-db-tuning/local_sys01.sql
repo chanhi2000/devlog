@@ -1,15 +1,15 @@
--- ½Ã½ºÅÛ(dba) ³»¿¡ ¼ÓÇØ ÀÖ´Â ¸ğµç °ü·Ã À¯Àú Á¤º¸¸¦ Ãâ·ÂÇÑ´Ù.
+-- ì‹œìŠ¤í…œ(dba) ë‚´ì— ì†í•´ ìˆëŠ” ëª¨ë“  ê´€ë ¨ ìœ ì € ì •ë³´ë¥¼ ì¶œë ¥í•œë‹¤.
 select * from dba_users;
 
--- À¯Àú `hr` È°¼ºÈ­ && ºñ¹Ğ¹øÈ£ º¯°æ
+-- ìœ ì € `hr` í™œì„±í™” && ë¹„ë°€ë²ˆí˜¸ ë³€ê²½
 alter user hr account unlock;
 alter user hr identified by hr
 alter user scott identified by scott
 ;
---- `hr`À¯Àú¿¡°Ô dba ±ÇÇÑ ºÎ¿©
+--- `hr`ìœ ì €ì—ê²Œ dba ê¶Œí•œ ë¶€ì—¬
 grant dba to hr;
 
--- dictionary¿¡ ÀúÀåµÈ Ä³½Ã ºí¶ô »çÀÌÁî (db_block_size) Á¶È¸
+-- dictionaryì— ì €ì¥ëœ ìºì‹œ ë¸”ë½ ì‚¬ì´ì¦ˆ (db_block_size) ì¡°íšŒ
 select *
  from  v$parameter
  where name like '%block%';

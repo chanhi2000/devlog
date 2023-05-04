@@ -290,8 +290,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [100-days-of-swiftui]: ./100-days-of-swiftui.md
 [glossary]: https://www.hackingwithswift.com/glossary
 
-[day-1]: https://www.hackingwithswift.com/100/1
-[day-2]: https://www.hackingwithswift.com/100/2
+[day-1]: paul-hudson-100-days-of-swift/1
+[day-2]: paul-hudson-100-days-of-swift/2
 [day-3]: https://www.hackingwithswift.com/100/3
 [day-4]: https://www.hackingwithswift.com/100/4
 [day-5]: https://www.hackingwithswift.com/100/5

@@ -36,6 +36,8 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 <YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="5Aw2sqqJZ10" title="`winget`: Install ROGUE Software &amp; Packages?" />
 <YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="iD_klswHJQs" title="Kubernetes Hacking: From Weak Applications to Cluster Control" />
 
+:::
+
 <!-- John Hammond -->
 
 ---
@@ -186,7 +188,35 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 <!-- 보안프로젝트 -->
 
+---
+
+## Loi Liang Yang
+
+[Loi Liang Yang][yu-loi-liang-yang]
+
+::: details 목록
+
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="n4UZZsTIlVA" title="AWS IAM Roles Anywhere Full Tutorial" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="cx6Xs3F_1Uc" title="SQL Injection For Beginners" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="lwlA8pGZBYM" title="Invoke Mobile App Activities From ADB - Mobile Application Penetration Testing" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="iBsGSsbDMyw" title="Network Intrusion Detection Systems (SNORT)" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="qC91ppRThSs" title="QRadar Community Edition Install" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="-GC-Yzt7g90" title="Reset Password on Windows 10 Without Logging In (Cybersecurity)" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="q08Ygep5fKw" title="Access with Weaponized Windows" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="xQyTQeOpV1s" title="Android Remote Access from Web Browser" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="98J5PF9BuoE" title="Scan for Network Devices with Bettercap on Kali Linux (Cybersecurity)" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="L5Ad4lWdbSo" title="Access Windows 10 With Empire Framework via Powershell" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="R25aiqpeWPU" title="Windows Fake Logon Screen!" />
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="5FYt4bGo8VM" title="how to Run Kali Linux in the cloud! (An AWS Tutorial)" />
+
+:::
+
+<!-- Loi Liang Yang -->
+
+---
+
 <TagLinks />
 
 [yu-_JohnHammond]: https://www.youtube.com/@_JohnHammond
 [yu-boanproject]: https://www.youtube.com/@boanproject
+[yu-loi-liang-yang]: https://www.youtube.com/@LoiLiangYang

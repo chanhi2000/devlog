@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🦦Go
+description: 🦢LaTeX
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -10,6 +10,6 @@ description: 🦦Go
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-![shield-go][shield-go]
+![shield-latex][shield-latex]
 
-[shield-go]: https://img.shields.io/badge/Go-00ADD81572B6?logo=go&logoColor=white&style=flat-square
+[shield-latex]: https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square

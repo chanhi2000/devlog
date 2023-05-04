@@ -24,12 +24,13 @@ wsdl2java.sh -u -t -ss -sd -g -b \
 ```
 
 ---
+
 ## aliases
 
 엘리아스 지정
 
 ```shell
-alias ls=’ls -l’
+alias ls='ls -l'
 ```
 
 ## Make tasks running in background
@@ -39,11 +40,13 @@ alias ls=’ls -l’
 ```shell
 tail -f /var/log/messages &
 ```
+
 결과창에 `[1] 614`이 나온다면
 
 ```shell
 fg 1
 ```
+
 를 입력하여 다시 foreground로 복귀
 
 ## Quickly jump to frequently-used directories
@@ -56,6 +59,7 @@ export CDPATH
 `cd` 입력 후 자주 찾는 디렉토리를 알려준다.
 
 ---
+
 ## Perform calculations
 
 숫자계산

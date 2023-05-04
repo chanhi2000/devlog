@@ -32,8 +32,8 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-gradle/README.md',
-        '/g4e/lang-gradle/useful-snippets.md',
-        '/g4e/lang-gradle/useful-snippets-android.md',
+        '/g4e/lang-gradle/snippets.md',
+        '/g4e/lang-gradle/snippets-android.md',
         '/g4e/lang-gradle/troubleshooting.md',
         '/g4e/lang-gradle/references.md'
       ]
@@ -42,7 +42,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-maven/README.md',
-        '/g4e/lang-maven/useful-snippets.md',
+        '/g4e/lang-maven/snippets.md',
       ]
     }, {
       text: '🅺Kotlin',
@@ -138,12 +138,27 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-csharp/github.md',
       ]
     }, {
-      text: '🦫Go',
+      text: '🦦Go',
       collapsible: true,
       children: [
         '/g4e/lang-go/README.md',
         '/g4e/lang-go/github.md',
         '/g4e/lang-go/references.md',
+      ]
+    }, {
+      text: '🦕C',
+      collapsible: true,
+      children: [
+        '/g4e/lang-c/README.md',
+        '/g4e/lang-c/references.md',
+        '/g4e/lang-c/youtube.md',
+      ]
+    }, {
+      text: '🦢LaTeX',
+      collapsible: true,
+      children: [
+        '/g4e/lang-latex/README.md',
+        '/g4e/lang-latex/references.md',
       ]
     },
     //endregion
@@ -205,6 +220,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-docker/docker-compose.md',
         '/g4e/devops-docker/favorite-containers.md',
         '/g4e/devops-docker/references.md',
+        '/g4e/devops-docker/youtube.md',
       ]
     }, {
       text: '☸️Kubernetes',
@@ -225,16 +241,17 @@ export const sidebarEn: SidebarConfig = {
       text: '🤵🏻Jenkins',
       collapsible: true,
       children: [
-        '/g4e/devops-jenkins/README.md',
-        '/g4e/devops-jenkins/template.md',
-        '/g4e/devops-jenkins/references.md',
+        '/g4e/ci-jenkins/README.md',
+        '/g4e/ci-jenkins/template.md',
+        '/g4e/ci-jenkins/references.md',
+        '/g4e/ci-jenkins/youtube.md',
       ]
     }, {
       text: '🍐Appium',
       collapsible: true,
       children: [
-        '/g4e/devops-appium/README.md',
-        '/g4e/devops-appium/references.md',
+        '/g4e/ci-appium/README.md',
+        '/g4e/ci-appium/references.md',
       ]
     }, {
       text: '📚Nexus Repository',
@@ -245,7 +262,7 @@ export const sidebarEn: SidebarConfig = {
       ]
     }, {
       text: '🧛‍♀️Dracula',
-      collapsible: true,
+    collapsible: true,
       children: [
         '/g4e/dracula/README.md',
         '/g4e/dracula/env-setup.md',
@@ -270,6 +287,13 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-ide/dbeaver-hotkey.md',
         '/g4e/tool-ide/dbeaver-jdbc.md',
         '/g4e/tool-ide/dbeaver-qtmplt.md',
+      ]
+    }, {
+      text: '🧩Excel',
+      collapsible: true,
+      children: [
+        '/g4e/tool-excel/README.md',
+        '/g4e/tool-excel/youtube.md',
       ]
     },
     //endregion
@@ -373,6 +397,7 @@ export const sidebarEn: SidebarConfig = {
         '/explore/crashcourse/README.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swift.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swift/1.md',
+        '/explore/crashcourse/paul-hudson-100-days-of-swift/2.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swiftui.md',
         '/explore/crashcourse/paul-hudson-swiftui-by-example.md',
         '/explore/crashcourse/kodeco-kotlin-android.md',

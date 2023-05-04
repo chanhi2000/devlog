@@ -1,15 +1,18 @@
 ---
 lang: ko-KR
-title: 🧰Useful Snippets > 🤖Android
-description: 🐘Gradle > 🧰Useful Snippets > 🤖Android
+title: 🛹Snippets > 🤖Android
+description: 🐘Gradle > 🛹Snippets > 🤖Android
 tags: ["gradle", "groovy", "android", "android-studio", "idea", "intellij-idea", "intellij", "apk", "signed-config", "plugin-android"]
 ---
 
 # {{ $frontmatter.title }} 관련
 
+> {{ $frontmatter.description }}
+
 [[toc]]
 
 ---
+
 ## A. `assembleRelease` Task를 위한 `signingConfigs` 최소구성
 
 | title | description |

@@ -145,24 +145,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 <!-- 코드스쿼드 -->
 
-
----
-## Github
-
-[Github][yu-github]
-
-::: details 목록
-
-<YoutubeItem channelName="GitHub" channelId="Github" id="UT74eayrS7A" title="Make your command line glamorous with Charm - Open Source Friday" />
-<YoutubeItem channelName="GitHub" channelId="Github" id="QUBPomLp6Iw" title="Automate Anything with Script Kit - Open Source Friday" />
-<YoutubeItem channelName="GitHub" channelId="Github" id="FwgxksxXj58" title="Workflows for Data Scientists and Machine Learning #MLOps" />
-<YoutubeItem channelName="GitHub" channelId="Github" id="sQoK6dKAqec" title="Command-line utility for building React apps quickly - `create-react-app`" />
-<YoutubeItem channelName="GitHub" channelId="Github" id="qy_HaIaNbkE" title="Automate your CI/CD workflows with GitHub Actions" />  
-
-:::
-
-<!-- Github -->
-
 ---
 
 ## 티맥스
@@ -185,7 +167,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 - [Kotlin By JetBrains][yu-kotlin-by-jetbrains]
 - [IntelliJ IDEA by JetBrains][yu-intellij-idea-by-jetbrains]
-- [JetbrainsTV][yu-jetbrains-tv]
+- [Jetbrains][yu-jetbrains-tv]
 
 ### Kotlin By JetBrains
 
@@ -228,36 +210,37 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 <!-- IntelliJ IDEA -->
 
-### JetbrainsTV
+### Jetbrains
 
 ::: details 목록
 
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="MiXkDyxEDJI" title="Compose Multiplatform Alpha: The Story" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="FDOECr-sT6U" title="KotlinConf 2017 - How to Build a React App in Kotlin by Dave Ford" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="VG7rw4uPn3A" title="Developing Backends with Kotlin and Spring Boot on Google Cloud" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="17JrDMlnpVQ" title="Create a SwiftUI application in AppCode" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="arZiFSerU1k" title="Build a Microservice with Go and GoLand" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="69uk3Pi88AE" title="KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="U4Q13TlAUE8" title="KotlinConf 2019: The State of Kotlin Support in Spring by Sebastien Deleuze" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="KvWIrZq0bVc" title="KotlinConf 2019: The best runtime for Kotlin is obviously GraalVM, isn't it? by Oleg Šelajev" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="9TlVsfcAJ7E" title="Reactive Spring Boot: Part 9: Java RSocket Client" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="pxHzQIOMc30" title="Inline Method Refactoring in IntelliJ IDEA" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="_AhTzpIQJTw" title="KotlinConf 2019: Building Progressive Web Apps in Kotlin by Erik Hellman" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="JKNSrBxqSs4" title="KotlinConf 2019: Build a Browser by Kotlin with Colin Lee &amp; Sebastian Kaspari" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="SOPEc8JnFl4" title="KotlinConf 2019: Ktor for Mobile Developers: Fear the server no more! by Dan Kim" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="je8aqW48JiA" title="KotlinConf 2019: Shipping a Mobile Multiplatform Project on iOS &amp; Android by Ben Asher &amp; Alec Strong" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="WqnR_XhEiVI" title="KotlinConf 2019: Compose Yourself: Designing a Kotlin First UI Toolkit by Anna-Chiara &amp; Clara" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="fcch4W94XxE" title="Web Support in IntelliJ IDEA" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="FefmhMSr8PE" title="Reactive Spring Boot: Part 4: JavaFX Line Chart" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="ybPBxSpb18k" title="Reactive Spring Boot: Part 2: Java REST Client" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="po9vKGqhx8E" title="Reactive Spring Boot: Part 1: Kotlin REST Service" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="40Hv3LClqac" title="React + TypeScript + TDD in PyCharm" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="KqgGeKhIiyo" title="Write Less Code with Kotlin and Spring Boot" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="zEZc5AmHQhk" title="Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: coroutines" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="HpWQUoVURWQ" title="Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: channels" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="a3agLJQ6vt8" title="KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="U-gdJQeOVAk" title="KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov" />
-<YoutubeItem channelName="JetbrainsTV" channelId="JetBrainsTV" id="8xfQA10Cd7g" title="KotlinConf 2018 - Komparing Kotlin Server Frameworks by Ken Yee" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="MiXkDyxEDJI" title="Compose Multiplatform Alpha: The Story" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="FDOECr-sT6U" title="KotlinConf 2017 - How to Build a React App in Kotlin by Dave Ford" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="VG7rw4uPn3A" title="Developing Backends with Kotlin and Spring Boot on Google Cloud" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="17JrDMlnpVQ" title="Create a SwiftUI application in AppCode" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="arZiFSerU1k" title="Build a Microservice with Go and GoLand" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="69uk3Pi88AE" title="KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="U4Q13TlAUE8" title="KotlinConf 2019: The State of Kotlin Support in Spring by Sebastien Deleuze" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="KvWIrZq0bVc" title="KotlinConf 2019: The best runtime for Kotlin is obviously GraalVM, isn't it? by Oleg Šelajev" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="9TlVsfcAJ7E" title="Reactive Spring Boot: Part 9: Java RSocket Client" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="pxHzQIOMc30" title="Inline Method Refactoring in IntelliJ IDEA" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="_AhTzpIQJTw" title="KotlinConf 2019: Building Progressive Web Apps in Kotlin by Erik Hellman" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="JKNSrBxqSs4" title="KotlinConf 2019: Build a Browser by Kotlin with Colin Lee &amp; Sebastian Kaspari" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="SOPEc8JnFl4" title="KotlinConf 2019: Ktor for Mobile Developers: Fear the server no more! by Dan Kim" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="je8aqW48JiA" title="KotlinConf 2019: Shipping a Mobile Multiplatform Project on iOS &amp; Android by Ben Asher &amp; Alec Strong" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="WqnR_XhEiVI" title="KotlinConf 2019: Compose Yourself: Designing a Kotlin First UI Toolkit by Anna-Chiara &amp; Clara" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="fcch4W94XxE" title="Web Support in IntelliJ IDEA" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="FefmhMSr8PE" title="Reactive Spring Boot: Part 4: JavaFX Line Chart" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="ybPBxSpb18k" title="Reactive Spring Boot: Part 2: Java REST Client" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="po9vKGqhx8E" title="Reactive Spring Boot: Part 1: Kotlin REST Service" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="40Hv3LClqac" title="React + TypeScript + TDD in PyCharm" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="KqgGeKhIiyo" title="Write Less Code with Kotlin and Spring Boot" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="zEZc5AmHQhk" title="Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: coroutines" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="HpWQUoVURWQ" title="Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: channels" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="a3agLJQ6vt8" title="KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="U-gdJQeOVAk" title="KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="8xfQA10Cd7g" title="KotlinConf 2018 - Komparing Kotlin Server Frameworks by Ken Yee" />
+<YoutubeItem channelName="Jetbrains" channelId="JetBrainsTV" id="nBoPiEH90Wg" title="Remote development in JetBrains IDEs with Google Cloud" />
 
 :::
 
@@ -277,6 +260,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="QHOo8zTYRzk" title="Building apps for work profiles - Enterprise Dev Training" />
 <YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="Xj45hobMI78" title="Reified - Kotlin Vocabulary" />
 <YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="zbYYoL7vo9Y" title="\#AskAndroid at Android Dev Summit 2019 - Kotlin &amp; Coroutines on Android" />
+<YoutubeItem channelName="Android Developers" channelId="AndroidDevelopers" id="XUN6mUQiDpg" title="CameraX setup and permissions"/>
 
 :::
 
@@ -311,26 +295,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 :::
 
 <!-- Gradle -->
-
----
-
-## Java
-
-[Java][yu-java]
-
-::: details 목록
-
-<YoutubeItem channelName="Java" channelId="java" id="hkpNt37nauw" title="How do you the sum the elements of an array? - Cracking the Java Coding Interview" />
-<YoutubeItem channelName="Java" channelId="java" id="2nOj8MKHvmw" title="Java Asynchronous Programming Full Tutorial with Loom and Structured Concurrency - JEP Café #13" />
-<YoutubeItem channelName="Java" channelId="java" id="jb7m9dL1iSI" title="Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond" />
-<YoutubeItem channelName="Java" channelId="java" id="I9hQvJO39uM" title="Loom in the Java Ecosystem - Inside Java Newscast #34" />
-<YoutubeItem channelName="Java" channelId="java" id="diUvR6gqHVY" title="Helidon - Microservices on Modern Java" />
-<YoutubeItem channelName="Java" channelId="java" id="7n3EXy4f7dE" title="tting Rid Of Unnamed Variables" />
-<YoutubeItem channelName="Java" channelId="java" id="nS72gSoieso" title="Java First. Java Always. |&nbsp;DevLive Level Up Keynote" />
-
-:::
-
-<!-- Java -->
 
 ---
 
@@ -448,23 +412,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <YoutubeItem channelName="v JUG" channelId="virtualJUG" id="BcVdZJqfGxM" title="Building the Internet of Things with Java" />
 
 :::
-
----
-
-## 전자정부 표준프레임워크 센터
-
-[전자정부 표준프레임워크 센터][yu-user-uc2wv8zw3h]
-
-::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=1_X8xRrF7DI"><img width="140px" height="auto" alt="thumb-1_X8xRrF7DI" src="https://i.ytimg.com/vi/1_X8xRrF7DI/hqdefault.jpg"/></a> | [\[표준프레임워크\]강의02.개발환경 소개 및 구현도구, 개인빌드](https://www.youtube.com/watch?v=1_X8xRrF7DI) <br/><br/> _[전자정부 표준프레임워크 센터][yu-user-uc2wv8zw3h]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=khi3V-eVQEg"><img width="140px" height="auto" alt="thumb-khi3V-eVQEg" src="https://i.ytimg.com/vi/khi3V-eVQEg/hqdefault.jpg"/></a> | [\[표준프레임워크\]강의08.실행환경 화면처리레이어](https://www.youtube.com/watch?v=khi3V-eVQEg) <br/><br/> _[전자정부 표준프레임워크 센터][yu-user-uc2wv8zw3h]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lxAsjeiSeqA"><img width="140px" height="auto" alt="thumb-lxAsjeiSeqA" src="https://i.ytimg.com/vi/lxAsjeiSeqA/hqdefault.jpg"/></a> | [\[표준프레임워크\]강의06.실행환경 데이터처리레이어](https://www.youtube.com/watch?v=lxAsjeiSeqA) <br/><br/> _[전자정부 표준프레임워크 센터][yu-user-uc2wv8zw3h]_ |
-
-:::
-
-<!--  -->
 
 ---
 
@@ -1565,7 +1512,6 @@ vCG5_nxm2G4
 [yu-coding-tech]: https://www.youtube.com/@CodingTech
 [yu-bejs]: https://www.youtube.com/@BeJScommunity
 [yu-user-nf9gd7uz9s]: https://www.youtube.com/@user-nf9gd7uz9s
-[yu-github]: https://www.youtube.com/@Github
 [yu-tmax]: https://www.youtube.com/@tmax
 [yu-kotlin-by-jetbrains]: https://www.youtube.com/@Kotlin
 [yu-intellij-idea-by-jetbrains]: https://www.youtube.com/@intellijidea
@@ -1573,8 +1519,6 @@ vCG5_nxm2G4
 [yu-android-developers]: https://www.youtube.com/@AndroidDevelopers
 [yu-android-makers]: https://www.youtube.com/@DroidconParis
 [yu-gradle]: https://www.youtube.com/@GradleInc
-[yu-java]: https://www.youtube.com/@java
-[yu-user-uc2wv8zw3h]: https://www.youtube.com/@user-uc2wv8zw3h
 [yu-ibm-technology]: https://www.youtube.com/@IBMTechnology
 [yu-spring-io-conference]: https://www.youtube.com/@SpringIOConference
 [yu-spring-developer]: https://www.youtube.com/@SpringSourceDev

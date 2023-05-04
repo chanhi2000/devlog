@@ -32,8 +32,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [SUSE/Portus][SUSE/Portus]: Authorization service and frontend for Docker registry (v2) <GithubTags tagItems="ruby;rails;docker;security;containers;docker-distribution" />
   - [🌐Official Site](http://port.us.org)
 
-
-
 ---
 
 ## Scala
@@ -76,6 +74,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [D4RK-R4BB1T/Dark-Web-Archives][D4RK-R4BB1T/Dark-Web-Archives]: Archives of the criminal side of the internet
 - [snipe/snipe-it][snipe/snipe-it]: A free open source IT asset/license management system
   - [🌐Official Site](https://snipeitapp.com)
+- [nextcloud/server][nextcloud/server]: ☁️ Nextcloud server, a safe home for all your data <GithubTags tagItems="javascript;open-source;php;enterprise;design;opensource;cloud;ux;nextcloud;owncloud;decentralized;sharing;file-sharing;collaboration;distributed;free-software;usability;self-hosting;federation;hacktoberfest" />
+  - [🌐Official Site](https://nextcloud.com)
 
 ---
 
@@ -181,6 +181,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [electron/electron][electron/electron]: :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS <GithubTags tagItems="electron;nodejs;javascript;css;html;c-plus-plus;chrome;v8;works-with-codespaces" />
   - [🌐Official Site](https://electronjs.org)
 - [pineappleEA/pineapple-src][pineappleEA/pineapple-src]: yuzu Early Access source code
+- [taviso/123elf][taviso/123elf]: A native port of Lotus 1-2-3 to Linux. <GithubTags tagItems="unix;terminal;spreadsheet;retrocomputing;lotus" />
+  - [🌐Official Site](https://123r3.net)
+- [retrospectmike/MacDock][retrospectmike/MacDock]: Like the macOS Dock... but for System 7
+- [ada-url/ada][ada-url/ada]: WHATWG-compliant and fast URL parser written in modern C++ <GithubTags tagItems="url;parser;performance;cpp" />
+  - [🌐Official Site](https://ada-url.github.io/ada)
+- [shchmue/Lockpick][shchmue/Lockpick]: Nintendo Switch encryption key derivation homebrew
+- [shchmue/Lockpick_RCM][shchmue/Lockpick_RCM]: Nintendo Switch encryption key derivation bare metal RCM payload
 
 ---
 
@@ -207,6 +214,19 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Elixir
 
 - [AccessOwl/open_owl][AccessOwl/open_owl]: Download user lists including user permissions from various SaaS applications without the need for a public API
+
+---
+
+## Clojure
+
+- [zachallaun/secd][zachallaun/secd]: A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)
+
+---
+
+## Haskell
+
+- [xmonad/xmonad][xmonad/xmonad]: The core of xmonad, a small but functional ICCCM-compliant tiling window manager <GithubTags tagItems="haskell;x11;xmonad;window-manager;hacktoberfest;x11-wm" />
+  - [🌐Official Site](https://xmonad.org)
 
 ---
 
@@ -242,8 +262,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [oracle/docker-images][oracle/docker-images]: Official source of container configurations, images, and examples for Oracle products and projects <GithubTags tagItems="docker;dockerfile;dockerfiles;nosql;oracle;oci;graalvm;docker-images;oracle-database;oracle-linux;oraclelinux;oracle-commercial;oracle-instantclient;coherence-ce;oracle-products"/>
   - [🌐Official Site](https://developer.oracle.com/use-cases/#containers)
 
-
-
 ---
 
 ## Powershell
@@ -273,7 +291,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [sysprog21/lkmpg][sysprog21/lkmpg]: The Linux Kernel Module Programming Guide (updated for 5.x kernels) <GithubTags tagItems="c;linux;documentation;books;kernel;linux-kernel;device-driver;linux-kernel-module;linux-kernel-driver;lkm;lkmpg" />
   - [🌐Official Site](https://sysprog21.github.io/lkmpg)
 
-
 ---
 
 ## Odin
@@ -281,12 +298,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [odin-lang/Odin][odin-lang/Odin]: Odin Programming Language
   - [🌐Official Site](https://odin-lang.org)
 
-
 ---
 
 ## V
 
-- [vlang/v][vlang/v]: Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation.
+- [vlang/v][vlang/v]: Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. <GithubTags tagItems="language;programming-language;compiler;v;hacktoberfest;hacktoberfest-accepted" />
   - [🌐Official Site](https://vlang.io)
 
 ---
@@ -374,6 +390,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [laravel/breeze]: https://github.com/laravel/breeze
 [D4RK-R4BB1T/Dark-Web-Archives]: https://github.com/D4RK-R4BB1T/Dark-Web-Archives
 [snipe/snipe-it]: https://github.com/snipe/snipe-it
+[nextcloud/server]: https://github.com/nextcloud/server
 <!-- C & C++ -->
 [exaloop/codon]: https://github.com/exaloop/codon
 [bytedance/sonic-cpp]: https://github.com/bytedance/sonic-cpp
@@ -437,6 +454,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [FashionFreedom/Seamly2D]: https://github.com/FashionFreedom/Seamly2D
 [electron/electron]: https://github.com/electron/electron
 [pineappleEA/pineapple-src]: https://github.com/pineappleEA/pineapple-src
+[taviso/123elf]: https://github.com/taviso/123elf
+[retrospectmike/MacDock]: https://github.com/retrospectmike/MacDock
+[ada-url/ada]: https://github.com/ada-url/ada
+[shchmue/Lockpick]: https://github.com/shchmue/Lockpick
+[shchmue/Lockpick_RCM]: https://github.com/shchmue/Lockpick_RCM
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -451,6 +473,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [nvim-tree/nvim-web-devicons]: https://github.com/nvim-tree/nvim-web-devicons
 <!-- Elixir -->
 [AccessOwl/open_owl]: https://github.com/AccessOwl/open_owl
+<!-- Clojure -->
+[zachallaun/secd]: https://github.com/zachallaun/secd
+<!-- Haskell -->
+[xmonad/xmonad]: https://github.com/xmonad/xmonad
 <!-- Bash -->
 [tldr-pages/tldr]: https://github.com/tldr-pages/tldr
 [LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch

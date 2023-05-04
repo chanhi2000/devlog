@@ -6,7 +6,7 @@ create table tables as select owner , table_name from dba_tables;
 create table indexes as select owner , table_name, index_name from dba_indexes;
 create table ind_columns as select table_owner as owner, table_name, index_name, column_name, column_position from dba_ind_columns;
 
--- Åë°èÁ¤º¸»ı¼º
+-- í†µê³„ì •ë³´ìƒì„±
 exec dbms_stats.gather_table_stats(user, 'tables');
 exec dbms_stats.gather_table_stats(user, 'indexes');
 exec dbms_stats.gather_table_stats(user, 'ind_columns');
@@ -27,11 +27,11 @@ select
   ORDER BY C.COLUMN_POSITION
 ;
 
--- ½ÇÇà°èÈ¹È®ÀÎ
+-- ì‹¤í–‰ê³„íší™•ì¸
 select * 
   from table (dbms_xplan.display_cursor(null, null, 'ALLSTATS LAST'));
 
--- NL JOIN À¯µµ
+-- NL JOIN ìœ ë„
 create index tables_tbname_idx on tables(OWNER, TABLE_NAME);
 CREATE INDEX INDEXES_IDX2 ON INDEXES(OWNER, TABLE_NAME);
 CREATE INDEX IND_COLUMNS_IDX ON IND_COLUMNS(OWNER, TABLE_NAME, INDEX_NAME);
@@ -41,7 +41,7 @@ DROP INDEX INDEXES_IDX2;
 DROP INDEX IND_COLUMNS_IDX;
 
 
--- INDEX¸¦ »ı¼ºÇÒ ¶§ DRIVING TABLE Á¶È¸ ACCESS ¼ö°¡ ÀÛÀº °Ç¼ö¸¦ Ã£´Â´Ù.
+-- INDEXë¥¼ ìƒì„±í•  ë•Œ DRIVING TABLE ì¡°íšŒ ACCESS ìˆ˜ê°€ ì‘ì€ ê±´ìˆ˜ë¥¼ ì°¾ëŠ”ë‹¤.
 -- select /*+  LEADING(A B) USE_NL(B) */
 select /*+  ORDERED USE_NL(A B C) */
        A.OWNER, A.TABLE_NAME, B.INDEX_NAME, C.COLUMN_NAME
@@ -58,7 +58,7 @@ select /*+  ORDERED USE_NL(A B C) */
   ORDER BY C.COLUMN_POSITION
 ;
 
--- HASH JOIN À¯µµ
+-- HASH JOIN ìœ ë„
 create index TABLES_IDX2 on tables(OWNER, TABLE_NAME);
 
 DROP INDEX TABLES_IDX2;
@@ -79,4 +79,4 @@ select /*+  FULL(A) FULL(B) USE_HASH(A B) */
   ORDER BY C.COLUMN_POSITION
 ;
 
--- TABLES, INDEXES HASH JOIN, IND_COLUMNS NL JOIN À¯µµ
+-- TABLES, INDEXES HASH JOIN, IND_COLUMNS NL JOIN ìœ ë„

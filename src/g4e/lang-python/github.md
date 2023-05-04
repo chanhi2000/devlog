@@ -51,7 +51,7 @@ meta:
 - [hmartiro/riffusion-inference][hmartiro/riffusion-inference]: Stable diffusion for real-time music generation
   - [🌐Official Site](http://riffusion.com)
 - [carson-katri/dream-textures][carson-katri/dream-textures]: Stable Diffusion built-in to the Blender shader editor
-- [mui/material-ui][mui/material-ui]: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui][mui/material-ui]: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design. <GithubTags tagItems="react;javascript;design-systems;typescript;material-design;react-components;hacktoberfest" />
   - [🌐Official Site](https://mui.com/core)
 - [Jxck-S/plane-notify][Jxck-S/plane-notify]: Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet
 - [sczhou/CodeFormer][sczhou/CodeFormer]: \[NeurIPS 2022\] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
@@ -100,7 +100,7 @@ meta:
 - [kaixindelele/ChatPaper][kaixindelele/ChatPaper]: Use ChatGPT to summarize the arXiv papers.
 - [microsoft/visual-chatgpt][microsoft/visual-chatgpt]: Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [svc-develop-team/so-vits-svc][svc-develop-team/so-vits-svc]: SoftVC VITS Singing Voice Conversion
-- [oobabooga/text-generation-webui][oobabooga/text-generation-webui]: A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
+- [oobabooga/text-generation-webui][oobabooga/text-generation-webui]: A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [comfyanonymous/ComfyUI][comfyanonymous/ComfyUI]: A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [pynecone-io/pynecone][pynecone-io/pynecone]: 🕸 Web apps in pure Python 🐍
   - [🌐Official Site](https://pynecone.io)
@@ -158,7 +158,8 @@ meta:
 - [hpcaitech/ColossalAI][hpcaitech/ColossalAI]: Making large AI models cheaper, faster and more accessible
   - [🌐Official Site](https://www.colossalai.org)
 - [ZrrSkywalker/LLaMA-Adapter][ZrrSkywalker/LLaMA-Adapter]: Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
-- [ymcui/Chinese-LLaMA-Alpaca][ymcui/Chinese-LLaMA-Alpaca]: 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
+- [ymcui/Chinese-LLaMA-Alpaca][ymcui/Chinese-LLaMA-Alpaca]: 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs) <GithubTags tagItems="nlp;llama;quantization;alpaca;plm;pre-trained-language-models;large-language-models;llm" />
+  - [🌐Official Site](https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki)
 - [NafisiAslH/KnowledgeSharing][NafisiAslH/KnowledgeSharing]
 - [RosettaCommons/RFdiffusion][RosettaCommons/RFdiffusion]: Code for running RFdiffusion
 - [twitter/the-algorithm-ml][twitter/the-algorithm-ml]: Source code for Twitter's Recommendation Algorithm
@@ -265,7 +266,7 @@ meta:
 - [OpenGVLab/Ask-Anything][OpenGVLab/Ask-Anything]: ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
   - [🌐Official Site](https://yinanhe.github.io/projects/chatvideo.html)
 - [minosvasilias/godot-dodo][minosvasilias/godot-dodo]: Finetuning large language models for GDScript generation.
-- [zhayujie/chatgpt-on-wechat][zhayujie/chatgpt-on-wechat]: Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API和itchat实现，能处理文本、语音和图片，访问操作系统和互联网。
+- [zhayujie/chatgpt-on-wechat][zhayujie/chatgpt-on-wechat]: Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。<GithubTags tagItems="python3;openai;wechat;chatgpt" />
 - [Josh-XT/Agent-LLM][Josh-XT/Agent-LLM]: An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.
   - [🌐Official Site](https://agent-llm.com)
 - [bhaskatripathi/pdfGPT][bhaskatripathi/pdfGPT]: PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
@@ -326,7 +327,16 @@ meta:
   - [🌐Official Site](http://sherlock-project.github.io)
 - [tatsu-lab/stanford_alpaca][tatsu-lab/stanford_alpaca]: Code and documentation to train Stanford's Alpaca models, and generate the data. <GithubTags tagItems="deep-learning;language-model;instruction-following" />
   - [🌐Official Site](https://crfm.stanford.edu/2023/03/13/alpaca.html)
-
+- [mishalhossin/Dis][mishalhossin/Dis]: This is a Python-based Discord bot. This is all free due to the GPT4FREE project <GithubTags tagItems="chatbot;discord-api;chatbots;discord-py;gpt;codex;gpt-2;discord-chatbot;opengpt;gpt-3;gpt-4;gpt4;freeai;gpt4free;gpt-3-turbo;gpt-3trubo;freegpt4;freegpt;freegpt3;gptfree" />
+- [georgia-tech-db/eva][georgia-tech-db/eva]: AI-Relational Database System | SQL meets Deep Learning <GithubTags tagItems="ocr;database;ai;image-annotation;yolo;image-classification;data-analysis;eva;object-detection;labeling;video-analytics;labeling-tool;serving;license-plate-recognition;toxic-comment-classification;image-labeling-tool;gpt-4" />
+  - [🌐Official Site](https://evadb.readthedocs.io)
+- [mosaicml/llm-foundry][mosaicml/llm-foundry]: LLM training code for MosaicML foundation models <GithubTags tagItems="nlp;deep-learning;pytorch;neural-networks;llm" />
+  - [🌐Official Site](https://www.mosaicml.com/blog/mpt-7b)
+- [bigcode-project/starcoder][bigcode-project/starcoder]: Home of StarCoder: fine-tuning & inference!
+- [microsoft/DeepSpeed][microsoft/DeepSpeed]: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. <GithubTags tagItems="machine-learning;compression;deep-learning;gpu;inference;pytorch;zero;data-parallelism;model-parallelism;mixture-of-experts;pipeline-parallelism;billion-parameters;trillion-parameters" />
+  - [🌐Official Site](https://www.deepspeed.ai)
+- [Guake/guake][Guake/guake]: Drop-down terminal for GNOME <GithubTags tagItems="terminal;guake;hacktoberfest;guake-terminal;terminal-emulator" />
+  - [🌐Official Site](http://guake-project.org)
 
 
 
@@ -374,7 +384,6 @@ meta:
   - [🌐Official Site](https://azure.microsoft.com/en-us/services/azure-sentinel)
 - [fastai/nbdev][fastai/nbdev]: Create delightful software with Jupyter Notebooks <GithubTags tagItems="python;jupyter;pypi;documentation-tool;conda;developer-tools;literate-programming;jupyter-notebooks;python-modules;fastai;documentation-generator;nbdev" />
   - [🌐Official Site](https://nbdev.fast.ai)
-
 
 <!-- Jupyter Notebook -->
 
@@ -602,6 +611,12 @@ meta:
 [strawberry-graphql/strawberry]: https://github.com/strawberry-graphql/strawberry
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [tatsu-lab/stanford_alpaca]: https://github.com/tatsu-lab/stanford_alpaca
+[mishalhossin/Dis]: https://github.com/mishalhossin/Dis
+[georgia-tech-db/eva]: https://github.com/georgia-tech-db/eva
+[mosaicml/llm-foundry]: https://github.com/mosaicml/llm-foundry
+[bigcode-project/starcoder]: https://github.com/bigcode-project/starcoder
+[microsoft/DeepSpeed]: https://github.com/microsoft/DeepSpeed
+[Guake/guake]: https://github.com/Guake/guake
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora

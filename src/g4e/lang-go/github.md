@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 🕶️Github
-description: 🦫Go > 🕶️Github
+description: 🦦Go > 🕶️Github
 tags: ["git" , "github" , "go", "golang"]
 meta:
   - name: 🦫Go > 🕶️Github
@@ -63,7 +63,7 @@ meta:
 - [ddosify/ddosify][ddosify/ddosify]: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud
   - [🌐Official Site](https://ddosify.com)
 - [thangchung/go-coffeeshop][thangchung/go-coffeeshop]: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-- [Dreamacro/clash][Dreamacro/clash]: A rule-based tunnel in Go.
+- [Dreamacro/clash][Dreamacro/clash]: A rule-based tunnel in Go. <GithubTags tagItems="tunnel;golang;clash;rule-based" />
 - [zinclabs/zinc][zinclabs/zinc]: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
   - [🌐Official Site](https://zincsearch.com)
 - [google/osv-scanner][google/osv-scanner]: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -76,7 +76,7 @@ meta:
 - [ccfos/nightingale][ccfos/nightingale]: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
   - [🌐Official Site](https://flashcat.cloud/docs)
 - [pgrok/pgrok][pgrok/pgrok]: Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
-- [1Panel-dev/1Panel][1Panel-dev/1Panel]: 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel][1Panel-dev/1Panel]: 现代化、开源的 Linux 服务器运维管理面板。<GithubTags tagItems="docker;database;filemanager;docker-compose;docker-container;crontab;panel;docker-image;lnmp;lamp;appstore;docker-ui" />
   - [🌐Official Site](https://1panel.cn)
 - [charmbracelet/soft-serve][charmbracelet/soft-serve]: A tasty, self-hostable Git server for the command line🍦
 - [social4git/social4git][social4git/social4git]: A decentralized social protocol based on git
@@ -109,6 +109,9 @@ meta:
   - [🌐Official Site](http://k8sgpt.ai)
 - [projectdiscovery/httpx][projectdiscovery/httpx]: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. <GithubTags tagItems="cli;http;osint;pipeline;lib;cybersecurity;ssl-certificate;bugbounty;hacktoberfest;pentest-tool"/>
   - [🌐Official Site](https://projectdiscovery.io)
+- [jesseduffield/lazygit][jesseduffield/lazygit]: simple terminal UI for git commands <GithubTags tagItems="git;cli;terminal" />
+- [temporalio/temp][temporalio/temp]: Temporal service <GithubTags tagItems="golang;distributed-systems;workflow-engine;service-bus;microservices-architecture;workflows;workflow-management;cronjob-scheduler;service-fabric;microservice-framework;workflow-management-system;orchestrator;workflow-automation;distributed-cron;microservice-orchestration" />
+  - [🌐Official Site](https://docs.temporal.io)
 - [lu4p/ToRat][lu4p/ToRat]: ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication <GithubTags tagItems="windows;linux;golang;reverse-shell;cross-platform;persistence;tor;rpc;transport;rat;keylogger;post-exploitation;payload;privilege-escalation;remote-admin-tool;uac-bypass;command-and-control;shell-reverse;reverse-shells;uacbypass" />
   - [🌐Official Site](https://lu4p.github.io/ToRat)
 - [go-gitea/gitea][go-gitea/gitea]: Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD <GithubTags tagItems="github;git;go;golang;devops;gitlab;gogs;gitea;git-server;hacktoberfest;git-gui;github-clone"/>
@@ -174,5 +177,7 @@ meta:
 [k8sgpt-ai/k8sgpt]: https://github.com/k8sgpt-ai/k8sgpt
 [moul/quicssh]: https://github.com/moul/quicssh
 [projectdiscovery/httpx]: https://github.com/projectdiscovery/httpx
+[jesseduffield/lazygit]: https://github.com/jesseduffield/lazygit
+[temporalio/temp]: https://github.com/temporalio/temp
 [go-gitea/gitea]: https://github.com/go-gitea/gitea
 [TimothyStiles/poly]: https://github.com/TimothyStiles/poly

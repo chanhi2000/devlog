@@ -33,15 +33,15 @@ Copy and Paste the following to the Terminal Prompt
 
 ```shell
 # Install taps
-brew tap homebrew/cask-versions
-brew tap homebrew/cask-fonts
+brew tap homebrew/cask-versions;
+brew tap homebrew/cask-fonts;
 
 # Install formula
 brew install amazon-ecs-cli awscli bison \
     cocoapods ffmpeg fizz flac git \
     mas neofetch nvm openssl pixman \
     python scrcpy starship tmux watchman \
-    wget xz zsh
+    wget xz zsh;
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner cheatsheet  \
@@ -50,7 +50,7 @@ brew install --cask airflow alt-tab appcleaner cheatsheet  \
     opencore-patcher oversight pennywise raycast resilio-sync \
     sf-symbols shottr spectacle sublime-merge sublime-text \
     the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
-    vlc wireshark
+    vlc wireshark;
 ```
 
 ---

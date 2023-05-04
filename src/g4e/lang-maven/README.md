@@ -12,6 +12,4 @@ description: 🐦Maven
 
 ![shield-maven][shield-maven]
 
-{{ $frontmatter.description }} 관련 정리내용
-
 [shield-maven]: https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white&style=flat-square

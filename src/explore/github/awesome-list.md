@@ -25,7 +25,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [bear2u/awesome-rxjava][bear2u/awesome-rxjava]: RxJava 개발자 오픈 채팅방
   - [🌐Official Site](https://open.kakao.com/o/gG98jsA)
 - [jkup/awesome-personal-blogs][jkup/awesome-personal-blogs]: A delightful list of personal tech blogs
-- [awesome-selfhosted/awesome-selfhosted][awesome-selfhosted/awesome-selfhosted]: A list of Free Software network services and web applications which can be hosted on your own servers
+- [awesome-selfhosted/awesome-selfhosted][awesome-selfhosted/awesome-selfhosted]: A list of Free Software network services and web applications which can be hosted on your own servers <GithubTags tagItems="awesome;cloud;privacy;selfhosted;hosting;self-hosted;awesome-list" />
   - [🌐Official Site](https://reddit.com/r/selfhosted)
 - [meysamhadeli/awesome-dotnet-tips][meysamhadeli/awesome-dotnet-tips]: A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [getActivity/AndroidGithubBoss][getActivity/AndroidGithubBoss]: Github Android 国内个人技术排行榜
@@ -100,6 +100,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [vuejs/awesome-vue][vuejs/awesome-vue]: 🎉 A curated list of awesome things related to Vue.js
 - [sindresorhus/awesome-chatgpt][sindresorhus/awesome-chatgpt]: 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI <GithubTags tagItems="awesome;ai;artificial-intelligence;openai;awesome-list;gpt;gpt-3;gpt-4;chatgpt"/>
 - [bad1dea/NXCheats][bad1dea/NXCheats]: Repository for cheats I've made or worked on for the switch.
+- [Juanpe/About-SwiftUI][Juanpe/About-SwiftUI]: Gathering all info published, both by Apple and by others, about new framework SwiftUI. <GithubTags tagItems="swift;learning;list;apple;docs;uikit;videos;wwdc;articles;hacktoberfest;swiftui;swiftui-tutorials" />
+  - [🌐Official Site](https://juanpe.github.io/About-SwiftUI)
 
 ---
 
@@ -192,6 +194,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [vuejs/awesome-vue]: https://github.com/vuejs/awesome-vue
 [sindresorhus/awesome-chatgpt]: https://github.com/sindresorhus/awesome-chatgpt
 [bad1dea/NXCheats]: https://github.com/bad1dea/NXCheats
+[Juanpe/About-SwiftUI]: https://github.com/Juanpe/About-SwiftUI
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books
