@@ -87,7 +87,7 @@ meta:
   - [🌐Official Site](https://bhailang.js.org)
 - [mathjax/MathJax][mathjax/MathJax]: Beautiful and accessible math in all browsers
   - [🌐Official Site](http://www.mathjax.org)
-- [vuetifyjs/vuetify][vuetifyjs/vuetify]: 🐉 Vue Component Framework
+- [vuetifyjs/vuetify][vuetifyjs/vuetify]: 🐉 Vue Component Framework <GithubTags tagItems="javascript;ui-design;semantic;vuejs;typescript;ui;vue;material;material-design;vue-components;material-components;ui-kit;material-theme;ui-components;vue-material;vuetify;ui-library;vuetifyjs;vuejs3" />
   - [🌐Official Site](https://vuetifyjs.com)
   - [📚Documentation](https://vuetifyjs.com/en/introduction/why-vuetify)
 - [automerge/automerge][automerge/automerge]: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -255,6 +255,8 @@ meta:
 
 ## Typescript
 
+- [microsoft/TypeScript][microsoft/TypeScript]: TypeScript is a superset of JavaScript that compiles to clean JavaScript output. <GithubTags tagItems="javascript;language;typechecker;typescript" />
+  - [🌐Official Site](https://www.typescriptlang.org)
 - [gencay/vscode-chatgpt][gencay/vscode-chatgpt]: Your best AI pair programmer - open source only
 - [cogentapps/chat-with-gpt][cogentapps/chat-with-gpt]: An open-source ChatGPT app with a voice
   - [🌐Official Site](https://chatwithgpt.netlify.app)
@@ -312,7 +314,7 @@ meta:
 - [Moonvy/OpenPromptStudio][Moonvy/OpenPromptStudio]: 🥣 AIGC 提示词可视化编辑器
   - [🌐Official Site](https://moonvy.com/apps/ops)
 - [guangzhengli/ChatFiles][guangzhengli/ChatFiles]: Have a conversation with files ｜与你的文件对话
-- [shadcn/taxonomy][shadcn/taxonomy]: An open source application built using the new router, server components and everything new in Next.js 13.
+- [shadcn/taxonomy][shadcn/taxonomy]: An open source application built using the new router, server components and everything new in Next.js 13. <GithubTags tagItems="typescript;nextjs;prisma;tailwindcss;vercel;radix-ui;nextauthjs" />
   - [🌐Official Site](https://tx.shadcn.com)
 - [ohmplatform/FreedomGPT][ohmplatform/FreedomGPT]: This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
   - [🌐Official Site](http://www.freedomgpt.com)
@@ -364,6 +366,10 @@ meta:
 - [FlowiseAI/Flowise][FlowiseAI/Flowise]: Drag & drop UI to build your customized LLM flow using LangchainJS
   - [🌐Official Site](https://flowiseai.com)
 - [pixiv/ChatVRM][pixiv/ChatVRM]
+- [okisdev/ChatChat][okisdev/ChatChat]: Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place. <GithubTags tagItems="api;chat;ai;azure;openai;gpt;claude;gpt-3;okisdev"/>
+  - [🌐Official Site](https://chat.okisdev.com)
+
+
 
 <TagLinks />
 
@@ -498,6 +504,7 @@ meta:
 [Expensify/App]: https://github.com/Expensify/App
 [Lissy93/dashy]: https://github.com/Lissy93/dashy
 <!-- Typescript -->
+[microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
 [cogentapps/chat-with-gpt]: https://github.com/cogentapps/chat-with-gpt
 [futantan/OpenGpt]: https://github.com/futantan/OpenGpt
@@ -560,3 +567,4 @@ meta:
 [calcom/cal.com]: https://github.com/calcom/cal.com
 [FlowiseAI/Flowise]: https://github.com/FlowiseAI/Flowise
 [pixiv/ChatVRM]: https://github.com/pixiv/ChatVRM
+[okisdev/ChatChat]: https://github.com/okisdev/ChatChat

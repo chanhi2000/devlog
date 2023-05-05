@@ -29,6 +29,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [hemansnation/God-Level-Data-Science-ML-Full-Stack][hemansnation/God-Level-Data-Science-ML-Full-Stack]: This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.
   - [🌐Official Site](https://www.himanshuramchandani.co)
 - [jwasham/coding-interview-university][jwasham/coding-interview-university]: A complete computer science study plan to become a software engineer. <GithubTags tagItems="computer-science;algorithm;algorithms;interview;data-structures;software-engineering;coding-interviews;study-plan;interview-prep;interview-preparation;coding-interview;programming-interviews"/>
+- [JushBJJ/Mr.-Ranedeer-AI-Tutor][JushBJJ/Mr.-Ranedeer-AI-Tutor]: A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 
 ---
 
@@ -123,9 +124,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [mrdbourke/pytorch-deep-learning][mrdbourke/pytorch-deep-learning]: Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
   - [🌐Official Site](https://learnpytorch.io)
 - [mouredev/Hello-Python][mouredev/Hello-Python]: Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...
-- [donnemartin/system-design-primer][donnemartin/system-design-primer]: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [donnemartin/system-design-primer][donnemartin/system-design-primer]: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. <GithubTags tagItems="python;design;development;programming;web;system;design-patterns;interview;web-application;webapp;interview-practice;interview-questions;design-system" />
 - [huggingface/diffusion-models-class][huggingface/diffusion-models-class]: Materials for the Hugging Face Diffusion Models Course
-- [Azure-Samples/azure-search-openai-demo][Azure-Samples/azure-search-openai-demo]: Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content
+- [Azure-Samples/azure-search-openai-demo][Azure-Samples/azure-search-openai-demo]: Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content <GithubTags tagItems="azure;openai;azurecognitivesearch;azd-templates;chatgpt;azureopenai" />
   - [🌐Official Site](https://azure.microsoft.com/products/search)
 - [TheAlgorithms/Python][TheAlgorithms/Python]: All Algorithms implemented in Python
   - [🌐Official Site](https://the-algorithms.com)
@@ -183,6 +184,10 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 - [BrunoLevy/learn-fpga][BrunoLevy/learn-fpga]: Learning FPGA, yosys, nextpnr, and RISC-V
 - [below/HelloSilicon][below/HelloSilicon]: An introduction to ARM64 assembly on Apple Silicon Macs
+- [cstack/db_tutorial][cstack/db_tutorial]: Writing a sqlite clone from scratch in C <GithubTags tagItems="databse" />
+  - [🌐Official Site](https://cstack.github.io/db_tutorial)
+
+
 
 ---
 
@@ -242,7 +247,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [jassics/security-study-plan][jassics/security-study-plan]: Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 - [Tikam02/DevOps-Guide][Tikam02/DevOps-Guide]: DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [pkivolowitz/asm_book][pkivolowitz/asm_book]: A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.
-
+- [norvig/paip-lisp][norvig/paip-lisp]: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+  - [🌐Official Site](https://norvig.github.io/paip-lisp)
 
 
 <!-- CompSci / Programming Basics -->
@@ -256,6 +262,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [freeCodeCamp/freeCodeCamp]: https://github.com/freeCodeCamp/freeCodeCamp
 [hemansnation/God-Level-Data-Science-ML-Full-Stack]: https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
 [jwasham/coding-interview-university]: https://github.com/jwasham/coding-interview-university
+[JushBJJ/Mr.-Ranedeer-AI-Tutor]: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -329,6 +336,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 <!-- C & C++ -->
 [BrunoLevy/learn-fpga]: https://github.com/BrunoLevy/learn-fpga
 [below/HelloSilicon]: https://github.com/below/HelloSilicon
+[cstack/db_tutorial]: https://github.com/cstack/db_tutorial
 <!-- DevOps -->
 [bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 [MichaelCade/90DaysOfDevOps]: https://github.com/MichaelCade/90DaysOfDevOps
@@ -354,3 +362,4 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [jassics/security-study-plan]: https://github.com/jassics/security-study-plan
 [Tikam02/DevOps-Guide]: https://github.com/Tikam02/DevOps-Guide
 [pkivolowitz/asm_book]: https://github.com/pkivolowitz/asm_book
+[norvig/paip-lisp]: https://github.com/norvig/paip-lisp

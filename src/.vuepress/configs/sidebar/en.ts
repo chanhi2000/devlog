@@ -151,11 +151,12 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-git/youtube.md',
       ]
     }, {
-      text: '🧠Linux',
+      text: '🐧Linux',
       collapsible: true,
       children: [
         '/g4e/devops-os/README.md',
         '/g4e/devops-os/env-setup.md',
+        '/g4e/devops-os/references.md',
         '/g4e/devops-os/youtube.md',
       ]
     }, {
@@ -174,6 +175,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-os-win/env-setup.md',
         '/g4e/devops-os-win/ie.md',
         '/g4e/devops-os-win/tips.md',
+        '/g4e/devops-os-win/wsl.md',
         '/g4e/devops-os-win/youtube.md',
       ]
     }, {
@@ -346,6 +348,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/explore/crashcourse/README.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swift',
+        '/explore/crashcourse/paul-hudson-100-days-of-swift/1',
         '/explore/crashcourse/paul-hudson-100-days-of-swiftui',
         '/explore/crashcourse/paul-hudson-swiftui-by-example',
         '/explore/crashcourse/kodeco-kotlin-android',

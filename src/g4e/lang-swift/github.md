@@ -64,6 +64,10 @@ tags: ["git" , "github" , "objc" , "swift"]
 - [alexrozanski/LlamaChat][alexrozanski/LlamaChat]: Chat with your favourite LLaMA models in a native macOS app
   - [🌐Official Site](https://llamachat.app)
 - [StanfordBDHG/HealthGPT][StanfordBDHG/HealthGPT]: Query your Apple Health data with natural language 💬 🩺
+- [valexa/VAFieldTest][valexa/VAFieldTest]: CoreTelephony based signal tests
+  - [🌐Official Site](http://blog.vladalexa.com)
+- [stleamist/BetterSafariView][stleamist/BetterSafariView]: A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI. <GithubTags tagItems="swift;ios;safari;sfsafariviewcontroller;sfauthenticationsession;swiftui;aswebauthenticationsession" />
+
 
 <TagLinks />
 
@@ -99,3 +103,5 @@ tags: ["git" , "github" , "objc" , "swift"]
 [mastodon/mastodon-ios]: https://github.com/mastodon/mastodon-ios
 [alexrozanski/LlamaChat]: https://github.com/alexrozanski/LlamaChat
 [StanfordBDHG/HealthGPT]: https://github.com/StanfordBDHG/HealthGPT
+[valexa/VAFieldTest]: https://github.com/valexa/VAFieldTest
+[stleamist/BetterSafariView]: https://github.com/stleamist/BetterSafariView

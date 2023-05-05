@@ -6,7 +6,7 @@ actions:
   - text: Check 📖Guide 4 Everything
     link: /g4e/
     type: primary
-  - text: Explore
+  - text: 🌐Explore
     link: /explore/
     type: secondary
 # features:
@@ -37,8 +37,12 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     </a>
   </div>
   <div class="feature">
-    <h2>🚧작업중</h2>
-    <p>일과 같이 작업병행 중 ...</p>
+    <h2>자주찾는 사이트</h2>
+    <br/>
+    <a href="https://simpleicons.org"><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square" /></a>
+    <ul>
+    <li><a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">SimpleIcons' Slugs</a></li>
+    </ul>
   </div>
 </div>
 

@@ -56,6 +56,7 @@ meta:
 - [btcpayserver/btcpayserver][btcpayserver/btcpayserver]: Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
   - [🌐Official Site](https://btcpayserver.org)
 - [felixse/FluentTerminal][felixse/FluentTerminal]: A Terminal Emulator based on UWP and web technologies.
+- [shahedc/multiweb][shahedc/multiweb]: Multiple projects for debugging sample.
 
 <!-- C# -->
 
@@ -84,3 +85,4 @@ meta:
 [2dust/v2rayN]: https://github.com/2dust/v2rayN
 [btcpayserver/btcpayserver]: https://github.com/btcpayserver/btcpayserver
 [felixse/FluentTerminal]: https://github.com/felixse/FluentTerminal
+[shahedc/multiweb]: https://github.com/shahedc/multiweb

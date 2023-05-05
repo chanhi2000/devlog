@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🧠Linux OS
+description: 🐧Linux
 ---
 
 # {{ $frontmatter.description }} 관련

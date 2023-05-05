@@ -115,12 +115,16 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](http://k8sgpt.ai)
 - [projectdiscovery/httpx][projectdiscovery/httpx]: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. <GithubTags tagItems="cli;http;osint;pipeline;lib;cybersecurity;ssl-certificate;bugbounty;hacktoberfest;pentest-tool"/>
   - [🌐Official Site](https://projectdiscovery.io)
+- [lu4p/ToRat][lu4p/ToRat]: ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication <GithubTags tagItems="windows;linux;golang;reverse-shell;cross-platform;persistence;tor;rpc;transport;rat;keylogger;post-exploitation;payload;privilege-escalation;remote-admin-tool;uac-bypass;command-and-control;shell-reverse;reverse-shells;uacbypass" />
+  - [🌐Official Site](https://lu4p.github.io/ToRat)
 
 ---
 
 ## Ruby
 
 - [bullet-train-co/bullet_train][bullet-train-co/bullet_train]: The Open Source Ruby on Rails SaaS Template
+- [SUSE/Portus][SUSE/Portus]: Authorization service and frontend for Docker registry (v2) <GithubTags tagItems="ruby;rails;docker;security;containers;docker-distribution" />
+  - [🌐Official Site](http://port.us.org)
 
 
 
@@ -150,9 +154,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [revanced/revanced-manager][revanced/revanced-manager]: 💊 Application to use ReVanced on Android <GithubTags tagItems="android;modding;manager;flutter;patching;flutter-apps;revanced" />
   - [🌐Official Site](https://revanced.app)
 
-
-
-
 ---
 
 ## PHP
@@ -166,8 +167,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [D4RK-R4BB1T/Dark-Web-Archives][D4RK-R4BB1T/Dark-Web-Archives]: Archives of the criminal side of the internet
 - [snipe/snipe-it][snipe/snipe-it]: A free open source IT asset/license management system
   - [🌐Official Site](https://snipeitapp.com)
-
-
 
 ---
 
@@ -267,7 +266,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://www.foundationdb.org)
 - [minetest/minetest][minetest/minetest]: Minetest is an open source voxel game engine with easy modding and game creation <GithubTags tagItems="c-plus-plus;lua;game-engine;minetest;voxel;cpp11;voxel-engine" />
   - [🌐Official Site](https://www.minetest.net)
-  
+- [Z4ee/StarRail-S-GC][Z4ee/StarRail-S-GC]: This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.
+
 ---
 
 <!-- C & C++ -->
@@ -325,6 +325,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://securityonion.net)
 - [Fmstrat/winapps][Fmstrat/winapps]: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [aristocratos/bashtop][aristocratos/bashtop]: Linux/OSX/FreeBSD resource monitor
+- [oracle/docker-images][oracle/docker-images]: Official source of container configurations, images, and examples for Oracle products and projects <GithubTags tagItems="docker;dockerfile;dockerfiles;nosql;oracle;oci;graalvm;docker-images;oracle-database;oracle-linux;oraclelinux;oracle-commercial;oracle-instantclient;coherence-ce;oracle-products"/>
+  - [🌐Official Site](https://developer.oracle.com/use-cases/#containers)
+
+
 
 ---
 
@@ -356,8 +360,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://sysprog21.github.io/lkmpg)
 
 
-
-
 ---
 
 ## Odin
@@ -385,6 +387,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Solidity
 
 - [SunWeb3Sec/DeFiHackLabs][SunWeb3Sec/DeFiHackLabs]: Reproduce DeFi hacked incidents using Foundry.
+
+---
+
+## Riot
+
+- [Joxit/docker-registry-ui][Joxit/docker-registry-ui]: The simplest and most complete UI for your private registry <GithubTags tagItems="docker;registry;docker-registry;v2;user-interface;riotjs;docker-registry-ui;docker-registry-v2" />
+  - [🌐Official Site](https://joxit.dev/docker-registry-ui)
 
 ---
 
@@ -486,6 +495,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [projectdiscovery/httpx]: https://github.com/projectdiscovery/httpx
 <!-- Ruby -->
 [bullet-train-co/bullet_train]: https://github.com/bullet-train-co/bullet_train
+[SUSE/Portus]: https://github.com/SUSE/Portus
 <!-- Scala -->
 [OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
 [twitter/the-algorithm]: https://github.com/twitter/the-algorithm
@@ -563,6 +573,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [0015/ThatProject]: https://github.com/0015/ThatProject
 [apple/foundationdb]: https://github.com/apple/foundationdb
 [minetest/minetest]: https://github.com/minetest/minetest
+[Z4ee/StarRail-S-GC]: https://github.com/Z4ee/StarRail-S-GC
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -599,6 +610,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [Security-Onion-Solutions/securityonion]: https://github.com/Security-Onion-Solutions/securityonion
 [Fmstrat/winapps]: https://github.com/Fmstrat/winapps
 [aristocratos/bashtop]: https://github.com/aristocratos/bashtop
+[oracle/docker-images]: https://github.com/oracle/docker-images
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
@@ -620,6 +632,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [ziglang/zig]: https://github.com/ziglang/zig
 <!-- Soliditiy -->
 [SunWeb3Sec/DeFiHackLabs]: https://github.com/SunWeb3Sec/DeFiHackLabs
+<!-- Riot -->
+[Joxit/docker-registry-ui]: https://github.com/Joxit/docker-registry-ui
 <!-- DevOps -->
 [vulhub/vulhub]: https://github.com/vulhub/vulhub
 [sickcodes/Docker-OSX]: https://github.com/sickcodes/Docker-OSX

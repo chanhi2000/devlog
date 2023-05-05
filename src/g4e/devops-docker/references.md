@@ -12,13 +12,61 @@ description: 🐋Docker > 📚References
 
 ---
 
+## Medium
+
+- [AWS Best practice for Amazon Elastic Kubernetes Service (EKS)](https://medium.com/avmconsulting-blog/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724)
+- [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b)
+
+---
+
+## DZone
+
+- [Docker Manifest – A Peek Into Image’s Manifest.json Files](https://dzone.com/articles/docker-manifest-a-peek-into-images-manifestjson-fi)
+
+---
+
+
+## 강남언니
+
+- [Docker Compose 로 local 개발 환경 쉽게 관리하기](https://blog.gangnamunni.com/post/docker-compose-for-local-env)
+
+---
+
 ## GitLab
 
 - [[Docker for Windows] GitLab & Admin 관리자 계정 설정법](https://forgiveall.tistory.com/552)
 - [[GitLab-Runner] windows10 Pro에 설치하기](https://forgiveall.tistory.com/553)
 
+---
+
+## AWS
+
+- [AWS Transfer 패밀리로 SFTP 구성하기 #1](https://blog.outsider.ne.kr/1500)
+
+---
+
 ## Dockerfile
 
 - [How to Create Custom Docker Image With Dockerfile](https://linuxhandbook.com/create-custom-docker-image)
+- [Dockerfile의 모든 것](https://gracefullight.dev/2020/01/13/Dockerfile%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
+
+---
+
+## Oralytics
+
+- [Setting up Oracle Database on Docker](https://oralytics.com/2017/04/21/setting-up-oracle-database-on-docker/)
+
+---
+
+## DaddyProgrammer
+
+- [Docker로 빠르게 개발환경 구성하기(mysql, redis, rabbitmq, mongoDB)](https://www.daddyprogrammer.org/post/1994/docker-kitematic-mysql-redis-rabbitmq-mongo/)
+
+---
+
+## Misc
+
+- [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)
+- [Hosting Gitea and Drone with Docker](https://blog.anoff.io/2019-03-24-self-hosted-gitea-drone)
 
 <TagLinks />

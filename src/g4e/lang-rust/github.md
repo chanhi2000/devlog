@@ -98,6 +98,9 @@ meta:
 - [a16z/magi][a16z/magi]: A blazing fast OP Stack rollup client written in Rust
 - [mitsuhiko/rye][mitsuhiko/rye]: an experimental alternative to `poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…`
 - [memorysafety/sudo-rs][memorysafety/sudo-rs]: A memory safe implementation of sudo and su.
+- [MystenLabs/sui][MystenLabs/sui]: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language <GithubTags tagItems="smart-contracts;blockchain;move;distributed-ledger-technology" />
+  - [🌐Official Site](https://sui.io)
+
 
 
 <TagLinks />
@@ -149,3 +152,4 @@ meta:
 [a16z/magi]: https://github.com/a16z/magi
 [mitsuhiko/rye]: https://github.com/mitsuhiko/rye
 [memorysafety/sudo-rs]: https://github.com/memorysafety/sudo-rs
+[MystenLabs/sui]: https://github.com/MystenLabs/sui

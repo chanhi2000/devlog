@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 📺Youtube
-description: 💻Ubuntu > 📺Youtube
+description: 🐧Linux > 📺Youtube
 tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "jdk" ,"jdk11", "temurin", "temurin11", "docker", "neofetch"]
 ---
 

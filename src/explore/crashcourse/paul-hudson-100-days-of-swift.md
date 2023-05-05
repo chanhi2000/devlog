@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: Crashcourse > 100 Days of Swift
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/100-days-of-swift.html
+    content: https://chanhi2000.github.io/explore/crashcourse/paul-hudson-100-days-of-swift.html
 ---
 
 # {{ $frontmatter.title }} 관련

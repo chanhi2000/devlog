@@ -298,10 +298,17 @@ meta:
 - [lamini-ai/lamini][lamini-ai/lamini]
 - [mlc-ai/mlc-llm][mlc-ai/mlc-llm]: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. <GithubTags tagItems="language-model;tvm;llm;machine-learning-compilation"/>
   - [🌐Official Site](https://mlc.ai/mlc-llm)
-- [gventuri/pandas-ai][gventuri/pandas-ai]: Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai][gventuri/pandas-ai]: Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational <GithubTags tagItems="python;pandas;llm"/>
 - [irgolic/AutoPR][irgolic/AutoPR]: Fix issues with AI-generated pull requests, powered by ChatGPT <GithubTags tagItems="ai;actions;openai;action;gpt;github-actions;github-action;gpt-3;gpt-4;llm;chatgpt"/>
   - [🌐Official Site](https://discord.gg/ykk7Znt3K6)
 - [cirediatpl/FigmaChain][cirediatpl/FigmaChain]: FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
+- [mishalhossin/Discord-Chatbot-Gpt4Free][mishalhossin/Discord-Chatbot-Gpt4Free]: This is a Python-based Discord Chatbot. This is all free due to the GPT4FREE project <GithubTags tagItems="chatbot;discord-api;chatbots;discord-py;gpt;codex;gpt-2;discord-chatbot;opengpt;gpt-3;gpt-4;gpt4;freeai;gpt4free;gpt-3-turbo;gpt-3trubo;freegpt4;freegpt;freegpt3;gptfree" />
+- [Arize-ai/phoenix][Arize-ai/phoenix]: ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models <GithubTags tagItems="mlops;ml-observability;ai-roi;model-observability;llmops" />
+  - [🌐Official Site](https://docs.arize.com/phoenix)
+- [KurtBestor/Hitomi-Downloader][KurtBestor/Hitomi-Downloader]: 🍰 Desktop utility to download images/videos/music/text from various websites, and more. <GithubTags tagItems="torrent;gui;downloader;youtube;twitch;twitter;manga;youtube-dl;bilibili;nhentai;pixiv;exhentai;hitomi;pornhub"/>
+  - [🌐Official Site](https://docs.arize.com/phoenix)
+- [Significant-Gravitas/Auto-GPT-Plugins][Significant-Gravitas/Auto-GPT-Plugins]: Plugins for Auto-GPT
+- [piercefreeman/gpt-json][piercefreeman/gpt-json]: Structured and typehinted GPT responses in Python
 
 <!-- Python -->
 
@@ -554,6 +561,11 @@ meta:
 [gventuri/pandas-ai]: https://github.com/gventuri/pandas-ai
 [irgolic/AutoPR]: https://github.com/irgolic/AutoPR
 [cirediatpl/FigmaChain]: https://github.com/cirediatpl/FigmaChain
+[mishalhossin/Discord-Chatbot-Gpt4Free]: https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free
+[Arize-ai/phoenix]: https://github.com/Arize-ai/phoenix
+[KurtBestor/Hitomi-Downloader]: https://github.com/KurtBestor/Hitomi-Downloader
+[Significant-Gravitas/Auto-GPT-Plugins]: https://github.com/Significant-Gravitas/Auto-GPT-Plugins
+[piercefreeman/gpt-json]: https://github.com/piercefreeman/gpt-json
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora

@@ -109,7 +109,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [youtube-documentation][youtube-documentation]: 
 - [jshint][jshint]: JSHint
 - [design/fluent][design/fluent]: Fluent Design System. Fluent is an open-source, cross-platform design system that gives designers and developers the frameworks they need to create engaging product experiences—accessibility, internationalization, and performance included.
-
+- [VisuAlgo](https://visualgo.net/en)
 
 ---
 

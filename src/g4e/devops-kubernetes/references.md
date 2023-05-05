@@ -13,6 +13,34 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Linux Handbook
+
+- [Complete Beginner's Guide to Kubernetes Cluster Deployment on CentOS (and Other Linux)](https://linuxhandbook.com/kubernetes-cluster-deployment)
+
+---
+
+## DZone
+
+- [Microservices on Kubernetes Part 1 - IDE and Tools](https://dzone.com/articles/microservices-on-kubernetes-part-1-ide-amp-tools)
+
+---
+
+
+## FOSS Tech Nix
+
+- [Kubernetes cluster Monitoring with Prometheus and Grafana](https://www.fosstechnix.com/kubernetes-cluster-monitoring-with-prometheus-and-grafana)
+
+---
+
 ## opensource
 
 - [A beginner's guide to Kubernetes Jobs and CronJobs](https://opensource.com/article/20/11/kubernetes-jobs-cronjobs)
+- [How the Kubernetes scheduler works](https://opensource.com/article/20/11/kubernetes-scheduler)
+
+---
+
+## 아리수
+
+- [쿠버네티스 서비스(kubernetes services) (2)](https://arisu1000.tistory.com/27839)
+
+<TagLinks />
