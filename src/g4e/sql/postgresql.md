@@ -47,5 +47,6 @@ systemctl reload rh-postgresql<버전>-postgresql
 ## C. References
 
 - [WNine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
+- [PostgreSQL의 슬로우 쿼리에 대처하기](https://hyperconnect.github.io/2020/08/31/improve-slow-query.html)
 
 <TagLinks />

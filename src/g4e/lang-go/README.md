@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🧑‍🎓Academics
+description: 🦫Go
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -10,4 +10,6 @@ description: 🧑‍🎓Academics
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-{{ $frontmatter.description }} 관련 정리내용
+![shield-go][shield-go]
+
+[shield-go]: https://img.shields.io/badge/Go-00ADD81572B6?logo=go&logoColor=white&style=flat-square

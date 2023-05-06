@@ -46,7 +46,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [ila/TUM][ila/TUM]: Notes, material and various stuff collected while attended TUM Master's Degree
 - [krahets/hello-algo][krahets/hello-algo]: 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书
   - [🌐Official Site](https://hello-algo.com)
-- [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [visenger/awesome-mlops][visenger/awesome-mlops]: A curated list of references for MLOps
   - [🌐Official Site](https://ml-ops.org)
 - [labmlai/annotated_deep_learning_paper_implementations][labmlai/annotated_deep_learning_paper_implementations]: 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
@@ -99,6 +98,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [Mooler0410/LLMsPracticalGuide][Mooler0410/LLMsPracticalGuide]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) <GithubTags tagItems="nlp;natural-language-processing;survey;large-language-models"/>
   - [🌐Official Site](https://arxiv.org/abs/2304.13712v2)
 - [vuejs/awesome-vue][vuejs/awesome-vue]: 🎉 A curated list of awesome things related to Vue.js
+- [sindresorhus/awesome-chatgpt][sindresorhus/awesome-chatgpt]: 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI <GithubTags tagItems="awesome;ai;artificial-intelligence;openai;awesome-list;gpt;gpt-3;gpt-4;chatgpt"/>
+- [bad1dea/NXCheats][bad1dea/NXCheats]: Repository for cheats I've made or worked on for the switch.
 
 ---
 
@@ -152,7 +153,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [sesang06/awesome-alternative-military-service]: https://github.com/sesang06/awesome-alternative-military-service
 [ila/TUM]: https://github.com/ila/TUM
 [krahets/hello-algo]: https://github.com/krahets/hello-algo
-[bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 [visenger/awesome-mlops]: https://github.com/visenger/awesome-mlops
 [labmlai/annotated_deep_learning_paper_implementations]: https://github.com/labmlai/annotated_deep_learning_paper_implementations
 [gabiduarte/awesome-techleads]: https://github.com/gabiduarte/awesome-techleads
@@ -190,6 +190,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [ai-collection/ai-collection]: https://github.com/ai-collection/ai-collection
 [Mooler0410/LLMsPracticalGuide]: https://github.com/Mooler0410/LLMsPracticalGuide
 [vuejs/awesome-vue]: https://github.com/vuejs/awesome-vue
+[sindresorhus/awesome-chatgpt]: https://github.com/sindresorhus/awesome-chatgpt
+[bad1dea/NXCheats]: https://github.com/bad1dea/NXCheats
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

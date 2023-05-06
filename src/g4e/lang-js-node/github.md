@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🧶Node.js > 🕶️Github
   - property: og:url
-    content: https://chanhi2000.github.io/explore/github/library-js.html
+    content: https://chanhi2000.github.io/g4e/lang-js-node/github.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -61,7 +61,7 @@ meta:
 - [UnblockNeteaseMusic/server][UnblockNeteaseMusic/server]: Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [solana-labs/solana-pay][solana-labs/solana-pay]: A new standard for decentralized payments.
   - [🌐Official Site](https://solanapay.com)
-- [trpc/trpc][trpc/trpc]: 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [trpc/trpc][trpc/trpc]: 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <GithubTags tagItems="react;api;typescript;nextjs;next;prisma" />
   - [🌐Official Site](https://trpc.io)
 - [flashbots/simple-arbitrage][flashbots/simple-arbitrage]: Example arbitrage bot using Flashbots
 - [roots/bud][roots/bud]: ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
@@ -182,7 +182,8 @@ meta:
 - [midudev/openui.com][midudev/openui.com]: Generador de componentes de UI con IA
 - [Postcatlab/postcat][Postcatlab/postcat]: Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
   - [🌐Official Site](https://www.postcat.com)
-- [Bin-Huang/chatbox][Bin-Huang/chatbox]: a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
+- [Bin-Huang/chatbox][Bin-Huang/chatbox]: Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux. <GithubTags tagItems="openai;chatgpt" />
+  - [🌐Official Site](https://chatboxapp.xyz)
 - [whoiskatrin/sql-translator][whoiskatrin/sql-translator]: SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
   - [🌐Official Site](https://www.sqltranslate.app)
 - [chathub-dev/chathub][chathub-dev/chathub]: All-in-one chatbot client
@@ -226,7 +227,7 @@ meta:
 - [kiwphi/pop-shoot][kiwphi/pop-shoot]: 🚀 Synthwave styled space shooter, inspired by the 80s arcades
   - [🌐Official Site](https://kiwphi.github.io/pop-shoot)
 - [xcanwin/KeepChatGPT][xcanwin/KeepChatGPT]: 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
-- [responsively-org/responsively-app][responsively-org/responsively-app]: A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [responsively-org/responsively-app][responsively-org/responsively-app]: A modified web browser that helps in responsive web development. A web developer's must have dev-tool. <GithubTags tagItems="electron;react;redux;javascript;desktop-app;web-development;responsive;developer-tools;hacktoberfest;contributions-welcome;responsive-web-design;good-first-issue;opensource-alternative" />
   - [🌐Official Site](https://responsively.app)
 - [0hq/WebGPT][0hq/WebGPT]: Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
   - [🌐Official Site](https://kmeans.org)
@@ -248,6 +249,12 @@ meta:
   - [🌐Official Site](https://new.expensify.com)
 - [Lissy93/dashy][Lissy93/dashy]: 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! <GithubTags tagItems="nodejs;docker;productivity;awesome;pwa;mit;dashboard;vue;organization;homepage;self-hosted;startpage;hacktoberfest;homelab;hacktoberfest2022"/>
   - [🌐Official Site](https://dashy.to)
+- [bigskysoftware/htmx][bigskysoftware/htmx]: </> htmx - high power tools for HTML <GithubTags tagItems="javascript;html;rest;hyperscript;hateoas;htmx"/>
+  - [🌐Official Site](https://htmx.org)
+- [Atri-Labs/atrilabs-engine][Atri-Labs/atrilabs-engine]: 🧘‍♂️ Open-source full-stack web development framework built on top of React & Fast API <GithubTags tagItems="javascript;reactjs;python3;fastapi;webframeworks" />
+  - [🌐Official Site](https://atrilabs.com)
+- [EddieHubCommunity/LinkFree][EddieHubCommunity/LinkFree]: Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. <GithubTags tagItems="nodejs;javascript;css;html;reactjs;nextjs;hacktoberfest;tailwind;linktree" />
+  - [🌐Official Site](https://linkfree.io)
 
 <!-- Javascript -->
 ---
@@ -282,8 +289,8 @@ meta:
   - [🌐Official Site](https://excalidraw.com)
 - [codebdy/rxdrag][codebdy/rxdrag]: Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
   - [🌐Official Site](http://rxeditor.vercel.app)
-- [Yidadaa/ChatGPT-Next-Web][Yidadaa/ChatGPT-Next-Web]: 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
-  - [🌐Official Site](https://chat-gpt-next-web.vercel.app)
+- [Yidadaa/ChatGPT-Next-Web][Yidadaa/ChatGPT-Next-Web]: 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI. <GithubTags tagItems="web;nextjs;webui;vercel;chatgpt"/>
+  - [🌐Official Site](https://chatgpt.nextweb.fun)
 - [vincanger/coverlettergpt][vincanger/coverlettergpt]: Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
   - [🌐Official Site](https://coverlettergpt.xyz)
 - [motifland/markprompt][motifland/markprompt]: Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
@@ -368,8 +375,22 @@ meta:
 - [pixiv/ChatVRM][pixiv/ChatVRM]
 - [okisdev/ChatChat][okisdev/ChatChat]: Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place. <GithubTags tagItems="api;chat;ai;azure;openai;gpt;claude;gpt-3;okisdev"/>
   - [🌐Official Site](https://chat.okisdev.com)
-
-
+- [vbenjs/vue-vben-admin][vbenjs/vue-vben-admin]: A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ <GithubTags tagItems="typescript;vuex;vue-router;tsx;admin-template;ant-design;vue3;vite;vite-template;vben" />
+  - [🌐Official Site](https://vben.vvbin.cn)
+- [analogjs/analog][analogjs/analog]: The fullstack Angular meta-framework <GithubTags tagItems="angular;framework;router;web;ssr;meta-framework;vite" />
+  - [🌐Official Site](https://analogjs.org)
+- [code-hike/codehike][code-hike/codehike]: Marvellous code walkthroughs <GithubTags tagItems="react;javascript;blog;syntax-highlighting;markdown;docs;code;scrollytelling;mdx" />
+  - [🌐Official Site](https://codehike.org)
+- [nuxt/nuxt][nuxt/nuxt]: Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. <GithubTags tagItems="static-site-generator;node;vue;universal;ssr;nuxt;full-stack;server-rendering;csr;hybrid;ssg" />
+  - [🌐Official Site](https://nuxt.com)
+- [formbricks/formbricks][formbricks/formbricks]: Open Source Experience Management Solution <GithubTags tagItems="react;open-source;typescript;forms;reactjs;nextjs;form;survey;survey-data;typeform;surveys;survey-analysis;xm;survey-form;tailwindcss;turborepo;experience-management" />
+  - [🌐Official Site](https://formbricks.com)
+- [mockoon/mockoon][mockoon/mockoon]: Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. <GithubTags tagItems="electron;mock;api;application;rest;server;rest-api;mock-server;swagger;desktop;openapi;mocking;prototyping;mocking-utility;mock-data;openapi3;mock-api;mocking-server" />
+  - [🌐Official Site](https://mockoon.com)
+- [pure-admin/vue-pure-admin][pure-admin/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） <GithubTags tagItems="admin;typescript;vue3;vite;element-plus" />
+  - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
+- [AprilNEA/ChatGPT-Admin-Web][AprilNEA/ChatGPT-Admin-Web]: 带有用户管理和后台管理系统的 ChatGPT WebUI <GithubTags tagItems="redis;web;nextjs;prompt;user-management;webui;vercel;gpt-4;chatgpt;newbing" />
+  - [🌐Official Site](https://lmo.best)
 
 <TagLinks />
 
@@ -503,6 +524,9 @@ meta:
 [sadmann7/netflx-web]: https://github.com/sadmann7/netflx-web
 [Expensify/App]: https://github.com/Expensify/App
 [Lissy93/dashy]: https://github.com/Lissy93/dashy
+[bigskysoftware/htmx]: https://github.com/bigskysoftware/htmx
+[Atri-Labs/atrilabs-engine]: https://github.com/Atri-Labs/atrilabs-engine
+[EddieHubCommunity/LinkFree]: https://github.com/EddieHubCommunity/LinkFree
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -568,3 +592,11 @@ meta:
 [FlowiseAI/Flowise]: https://github.com/FlowiseAI/Flowise
 [pixiv/ChatVRM]: https://github.com/pixiv/ChatVRM
 [okisdev/ChatChat]: https://github.com/okisdev/ChatChat
+[vbenjs/vue-vben-admin]: https://github.com/vbenjs/vue-vben-admin
+[analogjs/analog]: https://github.com/analogjs/analog
+[code-hike/codehike]: https://github.com/code-hike/codehike
+[nuxt/nuxt]: https://github.com/nuxt/nuxt
+[formbricks/formbricks]: https://github.com/formbricks/formbricks
+[mockoon/mockoon]: https://github.com/mockoon/mockoon
+[pure-admin/vue-pure-admin]: https://github.com/pure-admin/vue-pure-admin
+[AprilNEA/ChatGPT-Admin-Web]: https://github.com/AprilNEA/ChatGPT-Admin-Web

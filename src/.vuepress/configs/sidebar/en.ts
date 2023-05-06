@@ -137,7 +137,15 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-csharp/references.md',
         '/g4e/lang-csharp/github.md',
       ]
-    }, 
+    }, {
+      text: '🦫Go',
+      collapsible: true,
+      children: [
+        '/g4e/lang-go/README.md',
+        '/g4e/lang-go/github.md',
+        '/g4e/lang-go/references.md',
+      ]
+    },
     //endregion
     //region: devops
     {
@@ -243,13 +251,21 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/dracula/env-setup.md',
       ],
     }, {
+      text: '🆚VSCode',
+      collapsible: true,
+      children: [
+        '/g4e/tool-ide-vscode/README.md',
+        '/g4e/tool-ide-vscode/plugins.md',
+        '/g4e/tool-ide-vscode/snippets.md',
+
+      ],
+    }, {
       text: '🎩IDE & Text Editor',
       collapsible: true,
       children: [
         '/g4e/tool-ide/README.md',
         '/g4e/tool-ide/idea-plugins.md',
         '/g4e/tool-ide/idea-troubleshooting.md',
-        '/g4e/tool-ide/vscode-plugins.md',
         '/g4e/tool-ide/vim-tips.md',
         '/g4e/tool-ide/dbeaver-hotkey.md',
         '/g4e/tool-ide/dbeaver-jdbc.md',
@@ -265,6 +281,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-mysql/README.md',
         '/g4e/db-mysql/query.md',
         '/g4e/db-mysql/references.md',
+      ]
+    }, {
+      text: '🙆‍♂️Oracle SQL',
+      collapsible: true,
+      children: [
+        '/g4e/db-oracle/README.md',
+        '/g4e/db-oracle/query.md',
+        '/g4e/db-oracle/references.md',
       ]
     }, {
       text: '🔎SQL',
@@ -347,12 +371,21 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/explore/crashcourse/README.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift/1',
-        '/explore/crashcourse/paul-hudson-100-days-of-swiftui',
-        '/explore/crashcourse/paul-hudson-swiftui-by-example',
-        '/explore/crashcourse/kodeco-kotlin-android',
+        '/explore/crashcourse/paul-hudson-100-days-of-swift.md',
+        '/explore/crashcourse/paul-hudson-100-days-of-swift/1.md',
+        '/explore/crashcourse/paul-hudson-100-days-of-swiftui.md',
+        '/explore/crashcourse/paul-hudson-swiftui-by-example.md',
+        '/explore/crashcourse/kodeco-kotlin-android.md',
       ]
+    }, {
+      text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",
+      collapsible: true,
+      children: [
+        '/explore/oracle-sql-db-tuning/README.md',
+        '/explore/oracle-sql-db-tuning/01a.md',
+        '/explore/oracle-sql-db-tuning/01b.md',
+        '/explore/oracle-sql-db-tuning/01c.md',
+      ],
     }, {
       text: '🎓Tutorial',
       collapsible: true,
@@ -390,8 +423,14 @@ export const sidebarEn: SidebarConfig = {
     {
       text: 'Intro',
       children: [ '/academics/README.md' ],
-    },
-    {
+    }, {
+      text: 'MATH011',
+      collapsible: true,
+      children: [
+        '/academics/MATH011/README.md',
+        '/academics/MATH011/lect01.md',
+      ]
+    }, {
       text: 'PHYS034',
       collapsible: true,
       children: [

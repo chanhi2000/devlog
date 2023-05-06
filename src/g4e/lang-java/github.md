@@ -24,6 +24,8 @@ meta:
 
 ## Java
 
+- [spring-projects/spring-boot][spring-projects/spring-boot]: Spring Boot <GithubTags tagItems="java;framework;spring;spring-boot" />
+  - [🌐Official Site](https://spring.io/projects/spring-boot)
 - [PowerJob/PowerJob][PowerJob/PowerJob]: Enterprise job scheduling middleware with distributed computing ability.
   - [🌐Official Site](http://www.powerjob.tech)
 - [apache/iotdb][apache/iotdb]: Apache IoTDB
@@ -87,7 +89,10 @@ meta:
 - [jbake-org/jbake][jbake-org/jbake]: Java based open source static site/blog generator for developers & designers.
   - [🌐Official Site](http://jbake.org)
 - [questdb/questdb][questdb/questdb]: An open source time-series database for fast ingest and SQL queries
-  - [🌐Official Site](http://jbake.org) <GithubTags tagItems="java;iot;postgres;sql;database;big-data;time-series;analytics;cpp;grafana;postgresql;simd;low-latency;financial-analysis;tsdb;hacktoberfest;time-series-database;questdb"/>
+  - [🌐Official Site](https://questdb.io) <GithubTags tagItems="java;iot;postgres;sql;database;big-data;time-series;analytics;cpp;grafana;postgresql;simd;low-latency;financial-analysis;tsdb;hacktoberfest;time-series-database;questdb"/>
+- [termux/termux-app][termux/termux-app]: Termux - a terminal emulator application for Android OS extendible by variety of packages. <GithubTags tagItems="android;linux;terminal;termux;hacktoberfest" />
+  - [🌐Official Site](https://f-droid.org/en/packages/com.termux)
+
 
 
 ---
@@ -174,6 +179,7 @@ meta:
 <TagLinks />
 
 <!-- Java -->
+[spring-projects/spring-boot]: https://github.com/spring-projects/spring-boot
 [PowerJob/PowerJob]: https://github.com/PowerJob/PowerJob
 [apache/iotdb]: https://github.com/apache/iotdb
 [apache/incubator-seatunnel]: https://github.com/apache/incubator-seatunnel
@@ -213,7 +219,8 @@ meta:
 [macrozheng/mall]: https://github.com/macrozheng/mall
 [dataease/dataease]: https://github.com/dataease/dataease
 [jbake-org/jbake]: https://github.com/jbake-org/jbake
-[questdb/questdb]:https://github.com/questdb/questdb
+[questdb/questdb]: https://github.com/questdb/questdb
+[termux/termux-app]: https://github.com/termux/termux-app
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

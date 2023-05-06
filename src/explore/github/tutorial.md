@@ -30,6 +30,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://www.himanshuramchandani.co)
 - [jwasham/coding-interview-university][jwasham/coding-interview-university]: A complete computer science study plan to become a software engineer. <GithubTags tagItems="computer-science;algorithm;algorithms;interview;data-structures;software-engineering;coding-interviews;study-plan;interview-prep;interview-preparation;coding-interview;programming-interviews"/>
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor][JushBJJ/Mr.-Ranedeer-AI-Tutor]: A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+- [RUCAIBox/LLMSurvey][RUCAIBox/LLMSurvey]: The official GitHub page for the survey paper "A Survey of Large Language Models". <GithubTags tagItems="natural-language-processing;pre-training;pre-trained-language-models;in-context-learning;large-language-models;llm;llms;chain-of-thought;chatgpt;rlhf;instruction-tuning"/>
+  - [🌐Official Site](https://arxiv.org/abs/2303.18223)
 
 ---
 
@@ -46,9 +48,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://amigoscode.com/courses/full-stack-professional)
 - [iluwatar/java-design-patterns][iluwatar/java-design-patterns]: Design patterns implemented in Java <GithubTags tagItems="java;snippets;design-patterns;principles;awesome-list;hacktoberfest;snippets-library;snippets-collection" />
   - [🌐Official Site](https://java-design-patterns.com)
-
-
-
 
 ---
 
@@ -136,13 +135,13 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [microsoft/DeepSpeedExamples][microsoft/DeepSpeedExamples]: Example models using DeepSpeed
 - [danielgross/LlamaAcademy][danielgross/LlamaAcademy]: A school for camelids
 
-
 ---
 
 ## Jupyter Notebook
 
 - [microsoft/ML-For-Beginners][microsoft/ML-For-Beginners]: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
   - [🌐Official Site](https://microsoft.github.io/ML-For-Beginners)
+- [gkamradt/langchain-tutorials][gkamradt/langchain-tutorials]: Overview and tutorial of the LangChain Library
 
 ---
 
@@ -193,7 +192,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ## DevOps
 
-- [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [bregman-arie/devops-exercises][bregman-arie/devops-exercises]: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions <GithubTags tagItems="python;git;linux;docker;kubernetes;aws;ansible;devops;sql;azure;containers;terraform;openstack;interview;prometheus;coding;sre;interview-questions;production-engineer" />
 - [MichaelCade/90DaysOfDevOps][MichaelCade/90DaysOfDevOps]: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [ripienaar/free-for-devs][ripienaar/free-for-dev]: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
   - [🌐Official Site](https://free-for.dev)
@@ -221,14 +220,12 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://ebook.bobby.sh)
 - [jlevy/the-art-of-command-line][jlevy/the-art-of-command-line]: Master the command line, in one page
 
-
 ---
 
 ## Powershell
 
 - [Purp1eW0lf/Blue-Team-Notes][Purp1eW0lf/Blue-Team-Notes]: You didn't think I'd go and leave the blue team out, right?
 - [TapXWorld/osep_tools][TapXWorld/osep_tools]: some command tools for OSEP exam
-
 
 ---
 
@@ -263,6 +260,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [hemansnation/God-Level-Data-Science-ML-Full-Stack]: https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
 [jwasham/coding-interview-university]: https://github.com/jwasham/coding-interview-university
 [JushBJJ/Mr.-Ranedeer-AI-Tutor]: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+[RUCAIBox/LLMSurvey]: https://github.com/RUCAIBox/LLMSurvey
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -320,6 +318,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [danielgross/LlamaAcademy]: https://github.com/danielgross/LlamaAcademy
 <!-- Jupyter Notebook -->
 [microsoft/ML-For-Beginners]: https://github.com/microsoft/ML-For-Beginners
+[gkamradt/langchain-tutorials]: https://github.com/gkamradt/langchain-tutorials
 <!-- Flutter -->
 [vandadnp/flutter-tips-and-tricks]: https://github.com/vandadnp/flutter-tips-and-tricks
 <!-- C# -->

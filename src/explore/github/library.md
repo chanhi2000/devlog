@@ -24,100 +24,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [JetBrains/compose-multiplatform][JetBrains/compose-multiplatform]: Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
   - [🌐Official Site](https://jetbrains.com/lp/compose)
 
-
-
----
-
-## Go
-
-- [Arriven/db1000n][Arriven/db1000n]: Death by 1000 needles
-- [charmbracelet/vhs][charmbracelet/vhs]: Your CLI home video recorder 📼
-- [gorilla/mux][gorilla/mux]: A powerful HTTP router and URL matcher for building Go web servers with 🦍
-  - [🌐Official Site](http://www.gorillatoolkit.org/pkg/mux)
-- [schollz/croc][schollz/croc]: Easily and securely send things from one computer to another 🐊 📦
-  - [🌐Official Site](https://schollz.com/software/croc6)
-- [eatmoreapple/openwechat][eatmoreapple/openwechat]: golang版微信SDK
-- [awslabs/eks-node-viewer][awslabs/eks-node-viewer]: EKS Node Viewer
-- [dolthub/dolt][dolthub/dolt]: Dolt – Git for Data
-- [aler9/rtsp-simple-server][aler9/rtsp-simple-server]: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
-- [miniscruff/changie][miniscruff/changie]: Automated changelog tool for preparing releases with lots of customization options
-  - [🌐Official Site](https://changie.dev)
-- [pocketbase/pocketbase][pocketbase/pocketbase]: Open Source realtime backend in 1 file
-  - [🌐Official Site](https://pocketbase.io)
-- [terrastruct/d2][terrastruct/d2]: D2 is a modern diagram scripting language that turns text to diagrams.
-  - [🌐Official Site](https://d2lang.com)
-- [sundowndev/phoneinfoga][sundowndev/phoneinfoga]: Information gathering framework for phone numbers
-  - [🌐Official Site](https://sundowndev.github.io/phoneinfoga)
-- [hashicorp/vault][hashicorp/vault]: A tool for secrets management, encryption as a service, and privileged access management
-  - [🌐Official Site](https://www.vaultproject.io)
-- [answerdev/answer][answerdev/answer]: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
-  - [🌐Official Site](https://answer.dev)
-- [alpkeskin/mosint][alpkeskin/mosint]: An automated e-mail OSINT tool
-- [YaoApp/yao][YaoApp/yao]: 🚀 A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-  - [🌐Official Site](https://yaoapps.com)
-- [samber/lo][samber/lo]: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-  - [🌐Official Site](https://pkg.go.dev/github.com/samber/lo)
-- [gin-gonic/gin][gin-gonic/gin]: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-  - [🌐Official Site](https://gin-gonic.com)
-- [liamg/traitor][liamg/traitor]: ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-- [google/log4jscanner][google/log4jscanner]: A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
-- [gofiber/fiber][gofiber/fiber]: ⚡️ Express inspired web framework written in Go
-  - [🌐Official Site](https://gofiber.io)
-- [stashapp/stash][stashapp/stash]: An organizer for your porn, written in Go
-  - [🌐Official Site](https://stashapp.cc)
-- [google/go-containerregistry][google/go-containerregistry]: Go library and CLIs for working with container registries
-- [ddosify/ddosify][ddosify/ddosify]: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud
-  - [🌐Official Site](https://ddosify.com)
-- [thangchung/go-coffeeshop][thangchung/go-coffeeshop]: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-- [Dreamacro/clash][Dreamacro/clash]: A rule-based tunnel in Go.
-- [zinclabs/zinc][zinclabs/zinc]: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-  - [🌐Official Site](https://zincsearch.com)
-- [google/osv-scanner][google/osv-scanner]: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [alist-org/alist][alist-org/alist]: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-  - [🌐Official Site](https://alist.nn.ci)
-- [adhocteam/pushup][adhocteam/pushup]: Pushup is for making modern, page-oriented web apps in Go
-  - [🌐Official Site](https://pushup.adhoc.dev)
-- [grafana/mimir][grafana/mimir]: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-  - [🌐Official Site](https://grafana.com/oss/mimir)
-- [ccfos/nightingale][ccfos/nightingale]: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-  - [🌐Official Site](https://flashcat.cloud/docs)
-- [pgrok/pgrok][pgrok/pgrok]: Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
-- [1Panel-dev/1Panel][1Panel-dev/1Panel]: 现代化、开源的 Linux 服务器运维管理面板。
-  - [🌐Official Site](https://1panel.cn)
-- [charmbracelet/soft-serve][charmbracelet/soft-serve]: A tasty, self-hostable Git server for the command line🍦
-- [social4git/social4git][social4git/social4git]: A decentralized social protocol based on git
-- [pojntfx/go-nbd][pojntfx/go-nbd]: Pure Go NBD server and client library.
-- [iDvel/rime-ice][iDvel/rime-ice]: Rime 配置：雾凇拼音 | 长期维护的简体词库
-  - [🌐Official Site](https://dvel.me/posts/rime-ice)
-- [anchore/grype][anchore/grype]: A vulnerability scanner for container images and filesystems
-- [anchore/syft][anchore/syft]: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [v2fly/v2ray-core][v2fly/v2ray-core]: A platform for building proxies to bypass network restrictions.
-  - [🌐Official Site](https://v2fly.org)
-- [datastack-net/dockerized][datastack-net/dockerized]: Run popular commandline tools within docker
-- [aws/karpenter][aws/karpenter]: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-  - [🌐Official Site](https://karpenter.sh)
-- [cilium/cilium][cilium/cilium]:eBPF-based Networking, Security, and Observability
-  - [🌐Official Site](https://cilium.io)
-- [kubesphere/kubesphere][kubesphere/kubesphere]: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-  - [🌐Official Site](https://kubesphere.io)
-- [ConnectAI-E/Feishu-OpenAI][ConnectAI-E/Feishu-OpenAI]: 🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-- [FerretDB/FerretDB][FerretDB/FerretDB]: A truly Open Source MongoDB alternative
-  - [🌐Official Site](https://www.ferretdb.io)
-- [prometheus/prometheus][prometheus/prometheus]: The Prometheus monitoring system and time series database.
-  - [🌐Official Site](https://prometheus.io)
-- [devfullcycle/fclx][devfullcycle/fclx]
-- [go-skynet/LocalAI][go-skynet/LocalAI]: 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
-- [berachain/polaris][berachain/polaris]: Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
-  - [🌐Official Site](https://polaris.berachain.dev)
-- [k8sgpt-ai/k8sgpt][k8sgpt-ai/k8sgpt]: Giving Kubernetes SRE superpowers to everyone <Badge type="info" vertical="middle" text="kubernetes"/> <Badge type="info" vertical="middle" text="devops"/> <Badge type="info" vertical="middle" text="tooling"/> <Badge type="info" vertical="middle" text="openai"/> <Badge type="info" vertical="middle" text="sre"/>
-  - [🌐Official Site](http://k8sgpt.ai)
-- [moul/quicssh][moul/quicssh]: SSH over QUIC <GithubTags tagItems="cli;ssh;hack;server;daemon;proxy;quic"/>
-  - [🌐Official Site](http://k8sgpt.ai)
-- [projectdiscovery/httpx][projectdiscovery/httpx]: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. <GithubTags tagItems="cli;http;osint;pipeline;lib;cybersecurity;ssl-certificate;bugbounty;hacktoberfest;pentest-tool"/>
-  - [🌐Official Site](https://projectdiscovery.io)
-- [lu4p/ToRat][lu4p/ToRat]: ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication <GithubTags tagItems="windows;linux;golang;reverse-shell;cross-platform;persistence;tor;rpc;transport;rat;keylogger;post-exploitation;payload;privilege-escalation;remote-admin-tool;uac-bypass;command-and-control;shell-reverse;reverse-shells;uacbypass" />
-  - [🌐Official Site](https://lu4p.github.io/ToRat)
-
 ---
 
 ## Ruby
@@ -137,7 +43,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 - [twitter/finagle][twitter/finagle]: A fault tolerant, protocol-agnostic RPC system
   - [🌐Official Site](https://twitter.github.io/finagle)
-- [ellie/atuin][ellie/atuin]: 🐢 Magical shell history
+- [ellie/atuin][ellie/atuin]: 🐢 Magical shell history <GithubTags tagItems="shell;bash;rust;zsh;fish;history" />
+  - [🌐Official Site](https://atuin.sh)
 - [cantino/mcfly][cantino/mcfly]: Fly through your shell history. Great Scott!
 - [alacritty/alacritty][alacritty/alacritty]: A cross-platform, OpenGL terminal emulator. 
   - [🌐Official Site](https://alacritty.org)
@@ -148,6 +55,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Dart
 
+- [flutter/flutter][flutter/flutter]: Flutter makes it easy and fast to build beautiful apps for mobile and beyond <GithubTags tagItems="android;windows;macos;dart;ios;mobile;web;material-design;cross-platform;desktop;web-framework;app-framework;flutter;skia;linux-desktop;fuchsia;mobile-development;dart-platform;flutter-package" />
+  - [🌐Official Site](https://flutter.dev)
 - [vishalxl/nostr_console][vishalxl/nostr_console]: Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
 - [immich-app/immich][immich-app/immich]: Self-hosted photo and video backup solution directly from your mobile phone. <GithubTags tagItems="nodejs;photos;svelte;photo-gallery;mobile-app;self-hosted;videos;google-photos;flutter;backup-tool;nestjs;sveltekit;google-photos-alternative" />
   - [🌐Official Site](https://immich.app)
@@ -231,7 +140,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [curl/urler][curl/urler]: trurl is a command line tool for URL parsing and manipulation.
 - [topjohnwu/Magisk][topjohnwu/Magisk]: The Magic Mask for Android
 - [system76/firmware-open][system76/firmware-open]: System76 Open Firmware
-- [Facico/Chinese-Vicuna][Facico/Chinese-Vicuna]: Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
+- [Facico/Chinese-Vicuna][Facico/Chinese-Vicuna]: Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca <GithubTags tagItems="chinese;llama;alpaca;vicuna" />
   - [🌐Official Site](https://github.com/Facico/Chinese-Vicuna)
 - [finos/perspective][finos/perspective]: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
   - [🌐Official Site](https://perspective.finos.org)
@@ -267,6 +176,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [minetest/minetest][minetest/minetest]: Minetest is an open source voxel game engine with easy modding and game creation <GithubTags tagItems="c-plus-plus;lua;game-engine;minetest;voxel;cpp11;voxel-engine" />
   - [🌐Official Site](https://www.minetest.net)
 - [Z4ee/StarRail-S-GC][Z4ee/StarRail-S-GC]: This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.
+- [FashionFreedom/Seamly2D][FashionFreedom/Seamly2D]: Open source patternmaking software to democratize fashion. <GithubTags tagItems="windows;linux;osx;qt5" />
+  - [🌐Official Site](https://seamly.net)
+- [electron/electron][electron/electron]: :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS <GithubTags tagItems="electron;nodejs;javascript;css;html;c-plus-plus;chrome;v8;works-with-codespaces" />
+  - [🌐Official Site](https://electronjs.org)
+- [pineappleEA/pineapple-src][pineappleEA/pineapple-src]: yuzu Early Access source code
 
 ---
 
@@ -427,7 +341,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://heroicons.com)
 - [upptime/upptime][upptime/upptime]: ⬆️ Free uptime monitor and status page powered by GitHub
   - [🌐Official Site](https://uptime.kuma.pet)
-- [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native. 
+- [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native.
   - [🌐Official Site](http://airbnb.io/lottie)
 
 <TagLinks />
@@ -438,61 +352,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [Tencent/Hippy]: https://github.com/Tencent/Hippy
 [Shopify/react-native-skia]: https://github.com/Shopify/react-native-skia
 [JetBrains/compose-multiplatform]: https://github.com/JetBrains/compose-multiplatform
-<!-- Go -->
-[Arriven/db1000n]: https://github.com/Arriven/db1000n
-[charmbracelet/vhs]: https://github.com/charmbracelet/vhs
-[gorilla/mux]: https://github.com/gorilla/mux
-[schollz/croc]: https://github.com/schollz/croc
-[eatmoreapple/openwechat]: https://github.com/eatmoreapple/openwechat
-[awslabs/eks-node-viewer]: https://github.com/awslabs/eks-node-viewer
-[dolthub/dolt]: https://github.com/dolthub/dolt
-[aler9/rtsp-simple-server]: https://github.com/aler9/rtsp-simple-server
-[miniscruff/changie]: https://github.com/miniscruff/changie
-[pocketbase/pocketbase]: https://github.com/pocketbase/pocketbase
-[terrastruct/d2]: https://github.com/terrastruct/d2
-[sundowndev/phoneinfoga]: https://github.com/sundowndev/phoneinfoga
-[hashicorp/vault]: https://github.com/hashicorp/vault
-[answerdev/answer]: https://github.com/answerdev/answer
-[alpkeskin/mosint]: https://github.com/alpkeskin/mosint
-[YaoApp/yao]: https://github.com/YaoApp/yao
-[samber/lo]: https://github.com/samber/lo
-[gin-gonic/gin]: https://github.com/gin-gonic/gin
-[liamg/traitor]: https://github.com/liamg/traitor
-[google/log4jscanner]: https://github.com/google/log4jscanner
-[gofiber/fiber]: https://github.com/gofiber/fiber
-[stashapp/stash]: https://github.com/stashapp/stash
-[google/go-containerregistry]: https://github.com/google/go-containerregistry
-[ddosify/ddosify]: https://github.com/ddosify/ddosify
-[thangchung/go-coffeeshop]: https://github.com/thangchung/go-coffeeshop
-[Dreamacro/clash]: https://github.com/Dreamacro/clash
-[zinclabs/zinc]: https://github.com/zinclabs/zinc
-[google/osv-scanner]: https://github.com/google/osv-scanner
-[alist-org/alist]: https://github.com/alist-org/alist
-[adhocteam/pushup]: https://github.com/adhocteam/pushup
-[grafana/mimir]: https://github.com/grafana/mimir
-[ccfos/nightingale]: https://github.com/ccfos/nightingale
-[pgrok/pgrok]: https://github.com/pgrok/pgrok
-[1Panel-dev/1Panel]: https://github.com/1Panel-dev/1Panel
-[charmbracelet/soft-serve]: https://github.com/charmbracelet/soft-serve
-[social4git/social4git]: https://github.com/social4git/social4git
-[pojntfx/go-nbd]: https://github.com/pojntfx/go-nbd
-[iDvel/rime-ice]: https://github.com/iDvel/rime-ice
-[anchore/grype]: https://github.com/anchore/grype
-[anchore/syft]: https://github.com/anchore/syft
-[v2fly/v2ray-core]: https://github.com/v2fly/v2ray-core
-[datastack-net/dockerized]: https://github.com/datastack-net/dockerized
-[aws/karpenter]: https://github.com/aws/karpenter
-[cilium/cilium]: https://github.com/cilium/cilium
-[kubesphere/kubesphere]: https://github.com/kubesphere/kubesphere
-[ConnectAI-E/Feishu-OpenAI]: https://github.com/ConnectAI-E/Feishu-OpenAI
-[FerretDB/FerretDB]: https://github.com/FerretDB/FerretDB
-[prometheus/prometheus]: https://github.com/prometheus/prometheus
-[devfullcycle/fclx]: https://github.com/devfullcycle/fclx
-[go-skynet/LocalAI]: https://github.com/go-skynet/LocalAI
-[berachain/polaris]: https://github.com/berachain/polaris
-[k8sgpt-ai/k8sgpt]: https://github.com/k8sgpt-ai/k8sgpt
-[moul/quicssh]: https://github.com/moul/quicssh
-[projectdiscovery/httpx]: https://github.com/projectdiscovery/httpx
 <!-- Ruby -->
 [bullet-train-co/bullet_train]: https://github.com/bullet-train-co/bullet_train
 [SUSE/Portus]: https://github.com/SUSE/Portus
@@ -504,6 +363,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [cantino/mcfly]: https://github.com/cantino/mcfly
 [alacritty/alacritty]: https://github.com/alacritty/alacritty
 <!-- Dart -->
+[flutter/flutter]: https://github.com/flutter/flutter
 [vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
 [immich-app/immich]: https://github.com/immich-app/immich
 [revanced/revanced-manager]: https://github.com/revanced/revanced-manager
@@ -574,6 +434,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [apple/foundationdb]: https://github.com/apple/foundationdb
 [minetest/minetest]: https://github.com/minetest/minetest
 [Z4ee/StarRail-S-GC]: https://github.com/Z4ee/StarRail-S-GC
+[FashionFreedom/Seamly2D]: https://github.com/FashionFreedom/Seamly2D
+[electron/electron]: https://github.com/electron/electron
+[pineappleEA/pineapple-src]: https://github.com/pineappleEA/pineapple-src
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim

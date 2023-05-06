@@ -163,7 +163,7 @@ meta:
 - [RosettaCommons/RFdiffusion][RosettaCommons/RFdiffusion]: Code for running RFdiffusion
 - [twitter/the-algorithm-ml][twitter/the-algorithm-ml]: Source code for Twitter's Recommendation Algorithm
   - [🌐Official Site](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
-- [lm-sys/FastChat][lm-sys/FastChat]: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [lm-sys/FastChat][lm-sys/FastChat]: An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
 - [twitter/opensource-website][twitter/opensource-website]: Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
   - [🌐Official Site](https://opensource.twitter.dev)
 - [Torantulino/Auto-GPT][Torantulino/Auto-GPT]: An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -182,7 +182,7 @@ meta:
 - [emcf/engshell][emcf/engshell]: An English-language shell for any OS, powered by LLMs
 - [project-baize/baize-chatbot][project-baize/baize-chatbot]: Let ChatGPT teach your own chatbot in hours with a single GPU!
   - [🌐Official Site](https://arxiv.org/abs/2304.01196)
-- [imClumsyPanda/langchain-ChatGLM][imClumsyPanda/langchain-ChatGLM]: langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM
+- [imClumsyPanda/langchain-ChatGLM][imClumsyPanda/langchain-ChatGLM]: langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM <GithubTags tagItems="llm;llms;langchain;chatglm;chatglm-6b"/>
 - [Torantulino/AI-Functions][Torantulino/AI-Functions]: AI-Powered Function Magic: Never code again with GPT models!
 - [TabbyML/tabby][TabbyML/tabby]: Self-hosted AI coding assistant
   - [🌐Official Site](https://tabbyml.github.io/tabby)
@@ -309,6 +309,26 @@ meta:
   - [🌐Official Site](https://docs.arize.com/phoenix)
 - [Significant-Gravitas/Auto-GPT-Plugins][Significant-Gravitas/Auto-GPT-Plugins]: Plugins for Auto-GPT
 - [piercefreeman/gpt-json][piercefreeman/gpt-json]: Structured and typehinted GPT responses in Python
+- [richardyc/Chrome-GPT][richardyc/Chrome-GPT]: An AutoGPT agent that controls Chrome on your desktop <GithubTags tagItems="ai;gpt-4;chatgpt;langchain;gpt-3-5-turbo;autogpt" />
+- [replit/ReplitLM][replit/ReplitLM]: Inference code and configs for the ReplitLM model family <GithubTags tagItems="ai;ai4code;llm" />
+  - [🌐Official Site](https://huggingface.co/replit)
+- [ixaxaar/VardaGPT][ixaxaar/VardaGPT]: Associative memory-enhanced GPT-2 model
+- [nadermx/backgroundremover][nadermx/backgroundremover]: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source. <GithubTags tagItems="python;video;pytorch;photo-editing;video-editing;background-removal;remove-background;remove-background-image;background-remover;backgroundremover;removebackground;remove-background-video"/>
+  - [🌐Official Site](https://backgroundremoverai.com)
+- [openai/shap-e][openai/shap-e]: Generate 3D objects conditioned on text or images
+- [simonw/datasette][simonw/datasette]: An open source multi-tool for exploring and publishing data <GithubTags tagItems="python;docker;json;csv;sql;sqlite;datasets;asgi;automatic-api;datasette;datasette-io" />
+  - [🌐Official Site](https://datasette.io)
+- [spyder-ide/spyder][spyder-ide/spyder]: Official repository for Spyder - The Scientific Python Development Environment <GithubTags tagItems="python;qt;anaconda;pyqt5;ide;language-server-protocol;spyder;anaconda-distribution;winpython;closember" />
+  - [🌐Official Site](https://www.spyder-ide.org)
+- [strawberry-graphql/strawberry][strawberry-graphql/strawberry]: A GraphQL library for Python that leverages type annotations 🍓 <GithubTags tagItems="python;graphql;django;graphql-server;graphql-schema;asyncio;hacktoberfest;mypy;strawberry;asgi;graphql-library;starlette" />
+  - [🌐Official Site](https://strawberry.rocks)
+- [sherlock-project/sherlock][sherlock-project/sherlock]: 🔎 Hunt down social media accounts by username across social networks <GithubTags tagItems="python;windows;macos;linux;cli;osint;tools;sherlock;python3;hacktoberfest;information-gathering;reconnaissance;redteam;hacktoberfest2022" />
+  - [🌐Official Site](http://sherlock-project.github.io)
+- [tatsu-lab/stanford_alpaca][tatsu-lab/stanford_alpaca]: Code and documentation to train Stanford's Alpaca models, and generate the data. <GithubTags tagItems="deep-learning;language-model;instruction-following" />
+  - [🌐Official Site](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+
+
+
 
 <!-- Python -->
 
@@ -344,13 +364,19 @@ meta:
 - [roboflow/notebooks][roboflow/notebooks]: Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
   - [🌐Official Site](https://roboflow.com/models)
 - [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API][IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API]: Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. <GithubTags tagItems="python;ai;reverse-engineering;openai;gpt-4;gpt4;chatgpt;chatgpt-api;chatgpt-free;gpt-4-api;autogpt;free-autogpt;autogpt-no-paid-api;democratize-ai;open-source-gpt;open-source-auto-gpt"/>
-- [datawhalechina/prompt-engineering-for-developers][datawhalechina/prompt-engineering-for-developers]
+- [datawhalechina/prompt-engineering-for-developers][datawhalechina/prompt-engineering-for-developers]: 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
 - [google-research/google-research][google-research/google-research]: Google Research <GithubTags tagItems="machine-learning;research;ai" />
   - [🌐Official Site](https://research.google)
 - [1rgs/jsonformer][1rgs/jsonformer]: A Bulletproof Way to Generate Structured JSON from Language Models
+- [Deci-AI/super-gradients][Deci-AI/super-gradients]: Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS. <GithubTags tagItems="computer-vision;deep-learning;neural-network;pytorch;imagenet;image-classification;object-detection;transfer-learning;pretrained-models;semantic-segmentation;pretrained-weights" />
+  - [🌐Official Site](https://www.supergradients.com)
+- [Azure/Azure-Sentinel][Azure/Azure-Sentinel]: Cloud-native SIEM for intelligent security analytics for your entire enterprise. <GithubTags tagItems="cybersecurity;sample-code"/>
+  - [🌐Official Site](https://azure.microsoft.com/en-us/services/azure-sentinel)
+- [fastai/nbdev][fastai/nbdev]: Create delightful software with Jupyter Notebooks <GithubTags tagItems="python;jupyter;pypi;documentation-tool;conda;developer-tools;literate-programming;jupyter-notebooks;python-modules;fastai;documentation-generator;nbdev" />
+  - [🌐Official Site](https://nbdev.fast.ai)
+
 
 <!-- Jupyter Notebook -->
-
 
 <TagLinks />
 
@@ -566,6 +592,16 @@ meta:
 [KurtBestor/Hitomi-Downloader]: https://github.com/KurtBestor/Hitomi-Downloader
 [Significant-Gravitas/Auto-GPT-Plugins]: https://github.com/Significant-Gravitas/Auto-GPT-Plugins
 [piercefreeman/gpt-json]: https://github.com/piercefreeman/gpt-json
+[richardyc/Chrome-GPT]: https://github.com/richardyc/Chrome-GPT
+[replit/ReplitLM]: https://github.com/replit/ReplitLM
+[ixaxaar/VardaGPT]: https://github.com/ixaxaar/VardaGPT
+[nadermx/backgroundremover]: https://github.com/nadermx/backgroundremover
+[openai/shap-e]: https://github.com/openai/shap-e
+[simonw/datasette]: https://github.com/simonw/datasette
+[spyder-ide/spyder]: https://github.com/spyder-ide/spyder
+[strawberry-graphql/strawberry]: https://github.com/strawberry-graphql/strawberry
+[sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
+[tatsu-lab/stanford_alpaca]: https://github.com/tatsu-lab/stanford_alpaca
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -596,3 +632,6 @@ meta:
 [datawhalechina/prompt-engineering-for-developers]: https://github.com/datawhalechina/prompt-engineering-for-developers
 [google-research/google-research]: https://github.com/google-research/google-research
 [1rgs/jsonformer]: https://github.com/1rgs/jsonformer
+[Deci-AI/super-gradients]: https://github.com/Deci-AI/super-gradients
+[Azure/Azure-Sentinel]: https://github.com/Azure/Azure-Sentinel
+[fastai/nbdev]: https://github.com/fastai/nbdev

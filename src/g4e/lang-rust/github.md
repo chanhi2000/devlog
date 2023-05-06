@@ -100,8 +100,12 @@ meta:
 - [memorysafety/sudo-rs][memorysafety/sudo-rs]: A memory safe implementation of sudo and su.
 - [MystenLabs/sui][MystenLabs/sui]: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language <GithubTags tagItems="smart-contracts;blockchain;move;distributed-ledger-technology" />
   - [🌐Official Site](https://sui.io)
-
-
+- [DioxusLabs/dioxus][DioxusLabs/dioxus]: React-like GUI library for desktop, web, mobile, TUI, and more. <GithubTags tagItems="react;css;android;html;rust;ios;ui;web;native;ssr;wasm;desktop;virtualdom"/>
+  - [🌐Official Site](https://dioxuslabs.com)
+- [GyulyVGC/sniffnet][GyulyVGC/sniffnet]: Application to comfortably monitor your network traffic <GithubTags tagItems="windows;macos;linux;rust;security;networking;data-visualization;gui-application;packet-sniffer;network-analysis;network-programming;packet-capture;rust-crate" />
+- [qdrant/qdrant][qdrant/qdrant]: Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io <GithubTags tagItems="search;search-engine;machine-learning;neural-network;matching;nearest-neighbor-search;image-search;recommender-system;approximate-nearest-neighbor-search;search-engines;similarity-search;knn-algorithm;mlops;hnsw;vector-search;vector-database;neural-search;vector-search-engine;embeddings-similarity" />
+  - [🌐Official Site](https://qdrant.tech)
+- [paradigmxyz/artemis][paradigmxyz/artemis]: A simple, modular, and fast framework for writing MEV bots in Rust.
 
 <TagLinks />
 
@@ -153,3 +157,7 @@ meta:
 [mitsuhiko/rye]: https://github.com/mitsuhiko/rye
 [memorysafety/sudo-rs]: https://github.com/memorysafety/sudo-rs
 [MystenLabs/sui]: https://github.com/MystenLabs/sui
+[DioxusLabs/dioxus]: https://github.com/DioxusLabs/dioxus
+[GyulyVGC/sniffnet]: https://github.com/GyulyVGC/sniffnet
+[qdrant/qdrant]: https://github.com/qdrant/qdrant
+[paradigmxyz/artemis]: https://github.com/paradigmxyz/artemis

@@ -39,7 +39,7 @@ meta:
 - [unoplatform/uno][unoplatform/uno]: Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
   - [🌐Official Site](https://platform.uno)
 - [Const-me/Whisper][Const-me/Whisper]: High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-- [microsoft/semantic-kernel][microsoft/semantic-kernel]: Integrate cutting-edge LLM technology quickly and easily into your apps
+- [microsoft/semantic-kernel][microsoft/semantic-kernel]: Integrate cutting-edge LLM technology quickly and easily into your apps <GithubTags tagItems="sdk;ai;artificial-intelligence;openai;llm" />
   - [🌐Official Site](https://aka.ms/semantic-kernel)
 - [keijiro/AICommand][keijiro/AICommand]: ChatGPT integration with Unity Editor
 - [files-community/Files][files-community/Files]: Building the best file manager experience for Windows

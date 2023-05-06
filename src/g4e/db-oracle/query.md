@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🔎SQL > Oracle SQL
-description: 🔎SQL > Oracle SQL
+title: 🔍Query
+description: 🙆‍♂️Oracle SQL > 🔍Query
 tags: ["sql", "oracle", "pssql", "ddl", "dml", "sql-privilege"]
 ---
 
