@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Sandbox
-description: 🧶Node.js > Sandbox
+title: 🏖️Sandbox
+description: 🧶Node.js > 🏖️Sandbox
 tags: ["js", "javascript", "nodejs", "node", "sandbox", "demo", "google", "codepen"]
 ---
 
@@ -17,6 +17,7 @@ tags: ["js", "javascript", "nodejs", "node", "sandbox", "demo", "google", "codep
 
 - [google-dots][google-dots]
 - [vue3-jss-simple-demo-rwoxr]][vue3-jss-simple-demo-rwoxr]: Vue3 + JSS simple demo
+- [`solcode_solutions` - Simple model viewer. 🍩](https://www.instagram.com/p/CEWnAW4ANzQ/?igshid=MDJmNzVkMjY%3D)
 
 ---
 

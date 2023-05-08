@@ -13,6 +13,12 @@ tags: ["sql", "db", "mysql", "shell", "stricky"]
 
 ---
 
+## PlanetScale
+
+- [Pagination in MySQL](https://planetscale.com/blog/mysql-pagination)
+  
+---
+
 ## 거북탄 토끼
 
 - [MySQL8.0 desc Index 사용사례](https://qidan3500.tistory.com/1)

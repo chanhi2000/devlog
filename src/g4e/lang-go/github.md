@@ -24,6 +24,8 @@ meta:
 
 ## Go
 
+- [containers/podman][containers/podman]: Podman: A tool for managing OCI containers and pods. <GithubTags tagItems="linux;docker;kubernetes;containers;oci" />
+  - [🌐Official Site](https://podman.io)
 - [Arriven/db1000n][Arriven/db1000n]: Death by 1000 needles
 - [charmbracelet/vhs][charmbracelet/vhs]: Your CLI home video recorder 📼
 - [gorilla/mux][gorilla/mux]: A powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -120,13 +122,15 @@ meta:
   - [🌐Official Site](https://pkg.go.dev/github.com/TimothyStiles/poly)
 - [syncthing/syncthing][syncthing/syncthing]: Open Source Continuous File Synchronization <GithubTags tagItems="go;synchronization;peer-to-peer;p2p" />
   - [🌐Official Site](https://forum.syncthing.net)
-
+- [earthly/earthly][earthly/earthly]: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. <GithubTags tagItems="dockerfiles;build;framework;ci;build-automation;ci-cd;build-tool;build-system;docker-images;cicd;hacktoberfest;reproducible-builds;container-builder;hacktoberfest2020;hacktoberfest2021" />
+  - [🌐Official Site](https://earthly.dev)
 
 
 <!-- Go -->
 
 <TagLinks />
 
+[containers/podman]: https://github.com/containers/podman
 [Arriven/db1000n]: https://github.com/Arriven/db1000n
 [charmbracelet/vhs]: https://github.com/charmbracelet/vhs
 [gorilla/mux]: https://github.com/gorilla/mux
@@ -186,3 +190,4 @@ meta:
 [go-gitea/gitea]: https://github.com/go-gitea/gitea
 [TimothyStiles/poly]: https://github.com/TimothyStiles/poly
 [syncthing/syncthing]: https://github.com/syncthing/syncthing
+[earthly/earthly]: https://github.com/earthly/earthly

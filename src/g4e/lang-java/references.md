@@ -34,6 +34,12 @@ tags: ["java", "baeldung"]
 
 ---
 
+## 강남언니
+
+- [Flyway 로 Java 에서 DB schema, seed 관리하기](https://blog.gangnamunni.com/post/introducing-flyway)
+
+---
+
 ## Thdev
 
 - [Kotlin extensions use를 알아보고, 사용법을 알아보자.](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09)

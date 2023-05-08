@@ -61,6 +61,8 @@ meta:
   - [🌐Official Site](https://www.ryujinx.org)
 - [jellyfin/jellyfin][jellyfin/jellyfin]: The Free Software Media System <GithubTags tagItems="csharp;dotnet;hacktoberfest;jellyfin" />
   - [🌐Official Site](https://jellyfin.org)
+- [jamesnet214/leagueoflegends][jamesnet214/leagueoflegends]: League of Legends client demo that made using WPF <GithubTags tagItems="csharp;dotnet;wpf" />
+
 
 
 <!-- C# -->
@@ -93,3 +95,4 @@ meta:
 [shahedc/multiweb]: https://github.com/shahedc/multiweb
 [Ryujinx/Ryujinx]: https://github.com/Ryujinx/Ryujinx
 [jellyfin/jellyfin]: https://github.com/jellyfin/jellyfin
+[jamesnet214/leagueoflegends]: https://github.com/jamesnet214/leagueoflegends

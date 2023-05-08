@@ -36,7 +36,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://pimbook.org)
 - [krahets/hello-algo][krahets/hello-algo]: 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。<GithubTags tagItems="algorithm;data-structure;algorithms;leetcode;algo;data-structures;dsa;mkdocs-material;data-structures-and-algorithms" />
   - [🌐Official Site](https://hello-algo.com)
-
+- [VSFe/Tech-Interview][VSFe/Tech-Interview]
+- [pr0gr4m/Newbie-Guideline][pr0gr4m/Newbie-Guideline]: 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서
 
 ---
 
@@ -107,8 +108,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [sumn2u/learn-javascript][sumn2u/learn-javascript]: A book that teaches JavaScript
   - [🌐Official Site](https://javascript.sumankunwar.com.np)
 - [getify/You-Dont-Know-JS][getify/You-Dont-Know-JS]: A book series on JavaScript. @YDKJS on twitter. <GithubTags tagItems="javascript;education;programming;es6;async;book;book-series;es2015;learn-to-code;training-providers;closures;prototypes;training-materials" />
-
-
+- [florinpop17/app-ideas][florinpop17/app-ideas]: A Collection of application ideas which can be used to improve your coding skills. <GithubTags tagItems="applications;coding;ideas;hacktoberfest" />
 
 <!-- Javascript -->
 
@@ -116,6 +116,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 - [type-challenges/type-challenges][type-challenges/type-challenges]: Collection of TypeScript type challenges with online judge
   - [🌐Official Site](https://tsch.js.org)
+- [sungkwangkim/yarn-berry-test][sungkwangkim/yarn-berry-test]  
 
 ---
 
@@ -194,8 +195,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [below/HelloSilicon][below/HelloSilicon]: An introduction to ARM64 assembly on Apple Silicon Macs
 - [cstack/db_tutorial][cstack/db_tutorial]: Writing a sqlite clone from scratch in C <GithubTags tagItems="databse" />
   - [🌐Official Site](https://cstack.github.io/db_tutorial)
-
-
+- [RainerGrimm/FundamentalsForCppProfessionals][RainerGrimm/FundamentalsForCppProfessionals]: Source Code for the Mentoring Program "Fundamentals for C++ Professionals"
+- [RainerGrimm/DesignPatternsAndArchitecturalPatterns][RainerGrimm/DesignPatternsAndArchitecturalPatterns]
 
 ---
 
@@ -219,7 +220,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://www.curiousily.com)
 - [graykode/nlp-tutorial][graykode/nlp-tutorial]: Natural Language Processing Tutorial for Deep Learning Researchers
   - [🌐Official Site](https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying)
-
 
 ---
 
@@ -273,6 +273,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [JushBJJ/Mr.-Ranedeer-AI-Tutor]: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
 [RUCAIBox/LLMSurvey]: https://github.com/RUCAIBox/LLMSurvey
 [pim-book/programmers-introduction-to-mathematics]: https://github.com/pim-book/programmers-introduction-to-mathematics
+[VSFe/Tech-Interview]: https://github.com/VSFe/Tech-Interview
+[pr0gr4m/Newbie-Guideline]: https://github.com/pr0gr4m/Newbie-Guideline
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java
@@ -285,8 +287,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [Kotlin/KEEP]: https://github.com/Kotlin/KEEP
 [tarek360/Kotlin-JavaScript-Lottie-Example]: https://github.com/tarek360/Kotlin-JavaScript-Lottie-Example
 [PaperMC/paperweight-examples]: https://github.com/PaperMC/paperweight-examples
-<!-- Typescript -->
-[type-challenges/type-challenges]: https://github.com/type-challenges/type-challenges
 <!--Android-->
 [SmartToolFactory/Jetpack-Compose-Tutorials]: https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials
 [parasv49/Android-Internal-Notification]: https://github.com/parasv49/Android-Internal-Notification
@@ -310,7 +310,11 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [judygab/web-dev-projects]: https://github.com/judygab/web-dev-projects
 [john-smilga/react-course-v3]: https://github.com/john-smilga/react-course-v3
 [sumn2u/learn-javascript]: https://github.com/sumn2u/learn-javascript
-[getify/You-Dont-Know-JS]: https://github.com/getify/You-Dont-Know-JS
+[getify/You-Dont-Know-Js]: https://github.com/getify/You-Dont-Know-Js
+[florinpop17/app-ideas]: https://github.com/florinpop17/app-ideas
+<!-- Typescript -->
+[type-challenges/type-challenges]: https://github.com/type-challenges/type-challenges
+[sungkwangkim/yarn-berry-test]: https://github.com/sungkwangkim/yarn-berry-test
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
@@ -350,6 +354,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [BrunoLevy/learn-fpga]: https://github.com/BrunoLevy/learn-fpga
 [below/HelloSilicon]: https://github.com/below/HelloSilicon
 [cstack/db_tutorial]: https://github.com/cstack/db_tutorial
+[RainerGrimm/FundamentalsForCppProfessionals]: https://github.com/RainerGrimm/FundamentalsForCppProfessionals
+[RainerGrimm/DesignPatternsAndArchitecturalPatterns]: https://github.com/RainerGrimm/DesignPatternsAndArchitecturalPatterns
 <!-- DevOps -->
 [bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
 [MichaelCade/90DaysOfDevOps]: https://github.com/MichaelCade/90DaysOfDevOps

@@ -95,8 +95,9 @@ meta:
 - [alibaba/Chat2DB][alibaba/Chat2DB]: 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AI (ChatGPT)）<GithubTags tagItems="electron;mysql;java;redis;sql;ai;chatbot;postgresql;oracle;dbeaver;gpt;navicat;datagrip;chatgpt;chatgpt-api" />
   - [🌐Official Site](https://chat2db.opensource.alibaba.com)
 - [cedar-policy/cedar-java][cedar-policy/cedar-java]
-
-
+- [krasa/StringManipulation][krasa/StringManipulation]: IntelliJ plugin - https://plugins.jetbrains.com/plugin/2162 <GithubTags tagItems="java;intellij;intellij-plugin" />
+- [OpenRefine/OpenRefine][OpenRefine/OpenRefine]: OpenRefine is a free, open source power tool for working with messy data and improving it <GithubTags tagItems="java;data-science;reconciliation;wikidata;opendata;journalism;data-analysis;data-wrangling;datamining;datajournalism;datacleaning;datacleansing" />
+  - [🌐Official Site](https://openrefine.org)
 
 ---
 
@@ -150,7 +151,7 @@ meta:
 - [DrKLO/Telegram][DrKLO/Telegram]: Telegram for Android source
 - [google/perfetto][google/perfetto]: Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto)
   - [🌐Official Site](https://www.perfetto.dev)
-- [coil-kt/coil][coil-kt/coil]: Image loading for Android backed by Kotlin Coroutines.
+- [coil-kt/coil][coil-kt/coil]: Image loading for Android backed by Kotlin Coroutines. <GithubTags tagItems="android;kotlin;images;coroutines;okhttp;image-loader;kotlin-coroutines;okio;androidx" />
   - [🌐Official Site](https://coil-kt.github.io/coil)
 - [facebook/fresco][facebook/fresco]: An Android library for managing images and the memory they use.
   - [🌐Official Site](https://frescolib.org)
@@ -177,6 +178,13 @@ meta:
 - [skydoves/chatgpt-android][skydoves/chatgpt-android]: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [recloudstream/cloudstream][recloudstream/cloudstream]: Android app for streaming and downloading Movies, TV-Series and Anime.
 - [lukeaschenbrenner/TxtNet-Browser][lukeaschenbrenner/TxtNet-Browser]: An app that lets you browse the web over SMS
+- [bufferapp/MultiActionSwipeHelper][bufferapp/MultiActionSwipeHelper]: An Android RecyclerView Swipe Helper for handling multiple actions per direction
+- [omtodkar/ShimmerRecyclerView][omtodkar/ShimmerRecyclerView]: A custom Shimmer RecyclerView which adopt to list / grid transition automatically and also supports multiple view types while shimmering. <GithubTags tagItems="android;recyclerview;shimmer;shimmerlayout;shimmer-android;shimmer-layout;shimmer-recyclerview;shimmerrecyclerview" />
+- [Marksss/AndroidAutoSwitcher][Marksss/AndroidAutoSwitcher]: AutoSwitchView, a view animating between two items for Android, supports multiple switching animations or you can customize your own strategy of animations. And its child view can be reused.
+
+
+
+
 
 <TagLinks />
 
@@ -256,7 +264,7 @@ meta:
 [karma9874/AndroRAT]: https://github.com/karma9874/AndroRAT
 [DrKLO/Telegram]: https://github.com/DrKLO/Telegram
 [google/perfetto]: https://github.com/google/perfetto
-[coil-kt/coil]: https://github.com/coil-kt
+[coil-kt/coil]: https://github.com/coil-kt/coil
 [facebook/fresco]: https://github.com/facebook/fresco
 [hootsuite/nachos]: https://github.com/hootsuite/nachos
 [android/architecture-templates]: https://github.com/android/architecture-templates/tree/base
@@ -273,3 +281,6 @@ meta:
 [skydoves/chatgpt-android]: https://github.com/skydoves/chatgpt-android
 [recloudstream/cloudstream]: https://github.com/recloudstream/cloudstream
 [lukeaschenbrenner/TxtNet-Browser]: https://github.com/lukeaschenbrenner/TxtNet-Browser
+[bufferapp/MultiActionSwipeHelper]: https://github.com/bufferapp/MultiActionSwipeHelper
+[omtodkar/ShimmerRecyclerView]: https://github.com/omtodkar/ShimmerRecyclerView
+[Marksss/AndroidAutoSwitcher]: https://github.com/Marksss/AndroidAutoSwitcher

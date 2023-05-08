@@ -54,8 +54,13 @@ tags: ["vscode", "visual-studio-code", "ide", "plugin", "vscode-plugin", "cli", 
 | [![syler.sass-indented](https://syler.gallerycdn.vsassets.io/extensions/syler/sass-indented/1.8.23/1669910716957/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-sass] | [Sass][link-sass] <br/> `syler.sass-indented` | Indented Sass syntax Highlighting, Autocomplete & Formatter |
 | [![vscjava.vscode-spring-initializr](https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-initializr/0.11.2022090703/1662689883149/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-spring-initializer-java-support] | [Spring Initializr Java Support][link-spring-initializer-java-support] <br/> `vscjava.vscode-spring-initializr` | A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects. |
 | [![wayou.vscode-todo-highlight](https://wayou.gallerycdn.vsassets.io/extensions/wayou/vscode-todo-highlight/1.0.5/1635478170130/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-todo-highlight] | [TODO Highlight][link-todo-highlight] <br/> `wayou.vscode-todo-highlight` | highlight TODOs, FIXMEs, and any keywords, annotations... |
+| [![Gruntfuggly.todo-tree](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.226/1681324794296/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-todo-tree] | [Todo Tree][link-todo-tree] <br/> `Gruntfuggly.todo-tree` | Show TODO, FIXME, etc. comment tags in a tree view |
 | [![wallabyjs.quokka-vscode](https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/quokka-vscode/1.0.519/1671492622793/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-quokka-js] | [Quokka.js][link-quokka-js] <br/> `wallabyjs.quokka-vscode` | JavaScript and TypeScript playground in your editor. |
 | [![humao.rest-client](https://humao.gallerycdn.vsassets.io/extensions/humao/rest-client/0.25.1/1660918934840/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-rest-client] | [REST Client][link-rest-client] <br/> `humao.rest-client` | REST Client for Visual Studio Code |
+| [![SimonSiefke.svg-preview](https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-svg-preview] | [Svg Preview][link-svg-preview] <br/> `SimonSiefke.svg-preview` | Preview for Svg files |
+| [![mikestead.dotenv](https://mikestead.gallerycdn.vsassets.io/extensions/mikestead/dotenv/1.0.1/1519894859412/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-dotenv] | [DotENV][link-dotenv] <br/> `mikestead.dotenv` | Support for dotenv file syntax |
+| [![sidthesloth.html5-boilerplate](https://sidthesloth.gallerycdn.vsassets.io/extensions/sidthesloth/html5-boilerplate/1.1.1/1601299096251/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-html5-boilerplate] | [HTML Boilerplate][link-html5-boilerplate] | `sidthesloth.html5-boilerplate` | A basic HTML5 boilerplate snippet generator. |
+| [![yzhang.markdown-all-in-one](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.5.1/1679819344347/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-markdown-all-in-one] | `yzhang.markdown-all-in-one` | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more) |
 
 ::: details ⚙️To Install
 
@@ -95,10 +100,16 @@ code --install-extension ms-python.vscode-pylance; #Pylance
 code --install-extension ms-python.python; #Python
 code --install-extension syler.sass-indented; #Sass
 code --install-extension vscjava.vscode-spring-initializr; #Spring Initializer Java Support
-code --install-extension wayou.vscode-todo-highlight; #TODO Highlight
+code --install-extension wayou.vscode-todo-highlight; # TODO Highlight
+code --install-extension Gruntfuggly.todo-tree # Todo Tree
 code --install-extension wallabyjs.quokka-vscode; # Quokka.js
 code --install-extension humao.rest-client; # REST Client
+code --install-extension SimonSiefke.svg-preview; # Svg Preview
+code --install-extension mikestead.dotenv # DotENV
+code --install-extension sidthesloth.html5-boilerplate # HTML Boilerplate
+code --install-extension yzhang.markdown-all-in-one # Markdown All in One
 ```
+
 
 > Windows 환경 Batch
 
@@ -137,8 +148,13 @@ code --install-extension ms-python.python && REM Python
 code --install-extension syler.sass-indented && REM Sass
 code --install-extension vscjava.vscode-spring-initializr && REM Spring Initializer Java Support
 code --install-extension wayou.vscode-todo-highlight && REM TODO Highlight
+code --install-extension Gruntfuggly.todo-tree && REM Todo Tree
 code --install-extension wallabyjs.quokka-vscode && REM Quokka.js
 code --install-extension humao.rest-client && REM REST Client
+code --install-extension SimonSiefke.svg-preview && REM Svg Preview
+code --install-extension mikestead.dotenv && REM DotENV
+code --install-extension sidthesloth.html5-boilerplate && HTML Boilerplate
+code --install-extension yzhang.markdown-all-in-one && Markdown All in One
 ```
 
 :::
@@ -228,5 +244,10 @@ code --install-extension humao.rest-client && REM REST Client
 [link-sass]: https://marketplace.visualstudio.com/items?itemName=syler.sass-indented
 [link-spring-initializer-java-support]: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr
 [link-todo-highlight]: https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+[link-todo-tree]: https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 [link-quokka-js]: https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap
 [link-rest-client]: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+[link-svg-preview]: https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview
+[link-dotenv]: https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
+[link-html5-boilerplate]: https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate
+[link-markdown-all-in-one]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one

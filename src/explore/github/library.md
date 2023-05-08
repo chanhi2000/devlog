@@ -31,6 +31,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [bullet-train-co/bullet_train][bullet-train-co/bullet_train]: The Open Source Ruby on Rails SaaS Template
 - [SUSE/Portus][SUSE/Portus]: Authorization service and frontend for Docker registry (v2) <GithubTags tagItems="ruby;rails;docker;security;containers;docker-distribution" />
   - [🌐Official Site](http://port.us.org)
+- [chatwoot/chatwoot][chatwoot/chatwoot]: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 <GithubTags tagItems="javascript;heroku;rails;sass;docker;design;zendesk;vuejs;opensource;dashboard;docker-image;customer-support;conversation;whatsapp;intercom;actioncable;livechat;drift;chat-widget" />
+  - [🌐Official Site](https://www.chatwoot.com/help-center)
 
 ---
 
@@ -53,6 +55,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## PHP
 
+- [backdrop/backdrop][backdrop/backdrop]: Backdrop core code repository. <GithubTags tagItems="php;cms" />
+  - [🌐Official Site](https://backdropcms.org)
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
   - [🌐Official Site](https://www.monicahq.com)
 - [laravel/breeze][laravel/breeze]: Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
@@ -184,6 +188,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [kraxarn/spotify-qt][kraxarn/spotify-qt]: Lightweight Spotify client using Qt <GithubTags tagItems="spotify;qt;cpp;spotify-api" />
 - [gabime/spdlog][gabime/spdlog]: Fast C++ logging library. <GithubTags tagItems="cpp;logging;cpp11;header-only;spdlog" />
 - [DNedic/lockfree][DNedic/lockfree]: A collection of lock-free data structures written in standard C++11 <GithubTags tagItems="library;cmake;embedded;queue;cpp;buffer;cpp11;embedded-systems;ring-buffer;lock-free;inter-process-communication;circular-buffer;fifo;dma;circular-queue;bipartite;lock-free-queue" />
+- [chekanov/CFBook][chekanov/CFBook]: Simple histogram library for C++ or Fortran programs
+- [ajouatom/apilot][ajouatom/apilot]
+- [typesense/typesense][typesense/typesense]: Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences <GithubTags tagItems="search;search-engine;elasticsearch;algolia;cpp;raft;fuzzy-search;synonyms;in-memory;full-text-search;datastore;instantsearch;merchandising;enterprise-search;geosearch;pinecone;typo-tolerance;site-search;faceting;vector-search" />
+  - [🌐Official Site](https://typesense.org)
+
 
 
 ---
@@ -324,6 +333,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ---
 
+## Smalltalk
+
+- [pharo-project/pharo][pharo-project/pharo]: Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk. <GithubTags tagItems="bootstrap;language;tools;mit;pharo;live-programming;object-oriented-programming;reflective" />
+  - [🌐Official Site](http://pharo.org)
+
+---
+
 ## DevOps
 
 - [vulhub/vulhub][vulhub/vulhub]: Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -457,6 +473,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [kraxarn/spotify-qt]: https://github.com/kraxarn/spotify-qt
 [gabime/spdlog]: https://github.com/gabime/spdlog
 [DNedic/lockfree]: https://github.com/DNedic/lockfree
+[chekanov/CFBook]: https://github.com/chekanov/CFBook
+[ajouatom/apilot]: https://github.com/ajouatom/apilot
+[typesense/typesense]: https://github.com/typesense/typesense
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -521,6 +540,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [SunWeb3Sec/DeFiHackLabs]: https://github.com/SunWeb3Sec/DeFiHackLabs
 <!-- Riot -->
 [Joxit/docker-registry-ui]: https://github.com/Joxit/docker-registry-ui
+<!-- Smalltalk -->
+[pharo-project/pharo]: https://github.com/pharo-project/pharo
 <!-- DevOps -->
 [vulhub/vulhub]: https://github.com/vulhub/vulhub
 [sickcodes/Docker-OSX]: https://github.com/sickcodes/Docker-OSX

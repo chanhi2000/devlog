@@ -13,6 +13,29 @@ tags: ["references", "android"]
 
 ---
 
+## 우아한형제들
+
+- [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
+- [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
+- [‘Gradle Kotlin DSL’ 이야기](https://techblog.woowahan.com/2625)
+- [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658)
+
+---
+
+## Banksalad
+
+### 2022
+
+- [뱅크샐러드 안드로이드 앱에서 Koin 걷어내고 Hilt로 마이그레이션하기](https://blog.banksalad.com/tech/migrate-from-koin-to-hilt)
+
+---
+
+## Kt.academy
+
+- [Coroutine scope functions](https://kt.academy/article/cc-scoping-functions)
+
+---
+
 ## Tutorial(s)
 
 - [appGuruz](http://www.theappguruz.com/category/android)
@@ -28,5 +51,11 @@ tags: ["references", "android"]
 - [ProgrammingNote](http://hg-note.tistory.com/)
 - [elecsTistory](http://elecs.tistory.com/category/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 - [박상권Tistory](http://gun0912.tistory.com/category/IT/Android-TIP%20%28English%29)
+
+---
+
+## 허접샴푸로그래밍
+
+- [[배달의 민족] 따라만들기 8-2편 (Repository, ViewModel, MVVM)](https://programmar.tistory.com/m/40)
 
 <TagLinks />

@@ -259,7 +259,7 @@ meta:
 - [Significant-Gravitas/Auto-GPT-Plugin-Template][Significant-Gravitas/Auto-GPT-Plugin-Template]: A starting point for developing your own plug-in for Auto-GPT
 - [LawRefBook/Laws][LawRefBook/Laws]
 - [sanchit-gandhi/whisper-jax][sanchit-gandhi/whisper-jax]
-- [opengeos/segment-geospatial][opengeos/segment-geospatial]: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
+- [opengeos/segment-geospatial][opengeos/segment-geospatial]: A Python package for segmenting geospatial data with the Segment Anything Model (SAM) <GithubTags tagItems="machine-learning;deep-learning;geospatial;artificial-intelligence;segmentation;geopython;segment-anything" />
   - [🌐Official Site](https://samgeo.gishub.org)
 - [jina-ai/gptdeploy][jina-ai/gptdeploy]: One line to create them all
 - [peterw/Gumroad-Landing-Page-Generator][peterw/Gumroad-Landing-Page-Generator]
@@ -352,6 +352,9 @@ meta:
   - [🌐Official Site](https://rasagpt.dev)
 - [MakiNaruto/Automatic_ticket_purchase][MakiNaruto/Automatic_ticket_purchase]: 大麦网抢票脚本 <GithubTags tagItems="selenium;python3;requests;beautifulsoup4" />
 - [geohot/tinygrad][geohot/tinygrad]: You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [bokeh/bokeh][bokeh/bokeh]: Interactive Data Visualization in the browser, from Python <GithubTags tagItems="visualization;javascript;python;plots;jupyter;visualisation;data-visualisation;bokeh;plotting;notebooks;interactive-plots;numfocus" />
+  - [🌐Official Site](https://bokeh.org)
+
 
 
 <!-- Python -->
@@ -644,6 +647,7 @@ meta:
 [paulpierre/RasaGPT]: https://github.com/paulpierre/RasaGPT
 [MakiNaruto/Automatic_ticket_purchase]: https://github.com/MakiNaruto/Automatic_ticket_purchase
 [geohot/tinygrad]: https://github.com/geohot/tinygrad
+[bokeh/bokeh]: https://github.com/bokeh/bokeh
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora

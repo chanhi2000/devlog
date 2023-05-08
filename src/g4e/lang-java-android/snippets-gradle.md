@@ -56,10 +56,8 @@ buildscript {
 plugins {
     id('com.android.applications')
     id('kotlin-android')
-    // ...[생략]...
-    id("com.google.gms.google-services")
+    id('com.google.gms.google-services')
 }
-
 def keystorePropertiesFile = rootProject.file("keystore.properties")
 def keystoreProperties = new Properties()
 keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
@@ -85,7 +83,6 @@ android {
 ```shell
 gradlew assembleRelease -b ./<최종 Android모듈>/build.gradle --stacktrace
 ```
-
 
 ---
 ## B. `*.apk` 최종 아티팩트 명 지정

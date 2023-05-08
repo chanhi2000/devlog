@@ -13,6 +13,18 @@ tags: ["sql", "db", "mysql", "shell"]
 
 ---
 
+## KDnuggets
+
+- [Using ChatGPT to Learn SQL](https://www.kdnuggets.com/2023/04/chatgpt-learn-sql.html?utm_source=rss&utm_medium=rss&utm_campaign=using-chatgpt-to-learn-sql)
+
+---
+
+## ByteByteGo
+
+- [Understanding Database Types](https://blog.bytebytego.com/p/understanding-database-types)
+
+---
+
 ## Donald Burleson
 
 - [Oracle CREATE TABLESPACE Tips](http://dba-oracle.com/t_oracle_create_tablespace.htm)

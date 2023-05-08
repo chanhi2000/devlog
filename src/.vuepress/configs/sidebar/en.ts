@@ -49,6 +49,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-kotlin/README.md',
         '/g4e/lang-kotlin/basics.md',
+        '/g4e/lang-kotlin/ktx.md',
         '/g4e/lang-kotlin/tips.md',
         '/g4e/lang-kotlin/references.md',
       ]
@@ -70,8 +71,9 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-java-android/README.md',
+        '/g4e/lang-java-android/tips.md',
         '/g4e/lang-java-android/troubleshooting.md',
-        '/g4e/lang-java-android/gradle-snippets.md',
+        '/g4e/lang-java-android/snippets-gradle.md',
         '/g4e/lang-java-android/references.md',
         '/g4e/lang-java-android/youtube.md',
       ]
@@ -81,6 +83,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-swift/README.md',
         '/g4e/lang-swift/tips.md',
+        '/g4e/lang-swift/snippets.md',
         '/g4e/lang-swift/references.md',
         '/g4e/lang-swift/github.md',
         '/g4e/lang-swift/youtube.md',
@@ -93,7 +96,9 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-js-node/troubleshooting.md',
         '/g4e/lang-js-node/sandbox.md',
         '/g4e/lang-js-node/cordova.md',
+        '/g4e/lang-js-node/tips.md',
         '/g4e/lang-js-node/github.md',
+        '/g4e/lang-js-node/references.md',
         '/g4e/lang-js-node/youtube.md',
       ]
     }, {
@@ -117,6 +122,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-css/README.md',
+        '/g4e/lang-css/snippets.md',
         '/g4e/lang-css/references.md',
         '/g4e/lang-css/youtube.md',
       ]
@@ -146,10 +152,11 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-go/references.md',
       ]
     }, {
-      text: 'Dart',
+      text: '🔰Dart',
       collapsible: true,
       children: [
         '/g4e/lang-dart/README.md',
+        '/g4e/lang-dart/snippets.md',
         '/g4e/lang-dart/github.md',
         '/g4e/lang-dart/youtube.md',
         '/g4e/lang-dart/references.md',
@@ -232,6 +239,13 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-docker/youtube.md',
       ]
     }, {
+      text: '🦭Podman',
+      collapsible: true,
+      children: [
+        '/g4e/devops-podman/README.md',
+        '/g4e/devops-podman/references.md',
+      ]
+    }, {
       text: '☸️Kubernetes',
       collapsible: true,
       children: [
@@ -291,6 +305,8 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-ide-vscode/README.md',
         '/g4e/tool-ide-vscode/plugins.md',
         '/g4e/tool-ide-vscode/snippets.md',
+        '/g4e/tool-ide-vscode/references.md',
+
 
       ],
     }, {
@@ -311,6 +327,13 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/tool-excel/README.md',
         '/g4e/tool-excel/youtube.md',
+      ]
+    }, {
+      text: '🌈Chrome Browser',
+      collapsible: true,
+      children: [
+        '/g4e/tool-chrome-browser/README.md',
+        '/g4e/tool-chrome-browser/plugins.md',
       ]
     },
     //endregion
@@ -383,8 +406,15 @@ export const sidebarEn: SidebarConfig = {
     {
       text: 'Intro',
       children: [ '/explore/README.md' ],
-    },
-    {
+    }, {
+      text: '🗞️Newsletter',
+      collapsible: true,
+      children: [
+        '/explore/newsletter/README.md',
+        '/explore/newsletter/data-science.md',
+        '/explore/newsletter/github.md',
+      ]
+    }, {
       text: '🕶️Github',
       collapsible: true,
       children: [

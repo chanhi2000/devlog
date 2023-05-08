@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Mermaid.js > Example(s)
-description: Mermaid.js > Example(s)
+title: Example(s)
+description: 🧜‍♀️Mermaid.js > Example(s)
 tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js", "example"]
 ---
 

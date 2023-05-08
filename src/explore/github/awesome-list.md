@@ -103,7 +103,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [Juanpe/About-SwiftUI][Juanpe/About-SwiftUI]: Gathering all info published, both by Apple and by others, about new framework SwiftUI. <GithubTags tagItems="swift;learning;list;apple;docs;uikit;videos;wwdc;articles;hacktoberfest;swiftui;swiftui-tutorials" />
   - [🌐Official Site](https://juanpe.github.io/About-SwiftUI)
 - [eugeneyan/open-llms][eugeneyan/open-llms]: 🤖 A list of open LLMs available for commercial use. <GithubTags tagItems="commercial;large-language-models;llm;llms" />
-
+- [utilForever/awesome-cafe][utilForever/awesome-cafe]: ☕ 모각코하기 좋은 국내 카페 리스트
 
 
 ---
@@ -199,6 +199,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [bad1dea/NXCheats]: https://github.com/bad1dea/NXCheats
 [Juanpe/About-SwiftUI]: https://github.com/Juanpe/About-SwiftUI
 [eugeneyan/open-llms]: https://github.com/eugeneyan/open-llms
+[utilForever/awesome-cafe]: https://github.com/utilForever/awesome-cafe
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

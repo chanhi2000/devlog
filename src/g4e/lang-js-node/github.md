@@ -110,7 +110,7 @@ meta:
 - [semantic-org/semantic-ui][semantic-org/semantic-ui]: Semantic is a UI component framework based around useful principles from natural language.
   - [🌐Official Site](http://www.semantic-ui.com)
   - [📚Documentation](https://semantic-ui.com/introduction/getting-started.html)
-- [hoppscotch/hoppscotch][hoppscotch/hoppscotch]: 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch][hoppscotch/hoppscotch]: 👽 Open source API development ecosystem - https://hoppscotch.io <GithubTags tagItems="testing;api;graphql;http;vuejs;spa;tools;pwa;rest;vue;rest-api;websocket;http-client;api-client;developer-tools;api-rest;testing-tools;api-testing;hacktoberfest" />
   - [🌐Official Site](https://hoppscotch.io)
 - [utterance/utterances][utterance/utterances]: 🔮 A lightweight comments widget built on GitHub issues
   - [🌐Official Site](https://utteranc.es)
@@ -267,7 +267,13 @@ meta:
   - [🌐Official Site](https://sinerider.com)
 - [yashash-pugalia/win11-svelte][yashash-pugalia/win11-svelte]: Recreating Windows 11 with Svelte. <GithubTags tagItems="javascript;css;svelte" />
   - [🌐Official Site](https://win11-svelte.vercel.app)
-
+- [alexfoxy/lax.js][alexfoxy/lax.js]: Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. <GithubTags tagItems="css;parallax;animation;effects;scroll;transitions" />
+- [glyphic-co/textblock][glyphic-co/textblock]: Continuously responsive typesetting — Demo <GithubTags tagItems="responsive;typography;typesetting;fluid;responsive-design;progressive-enhancement;typesetting-system" />
+  - [🌐Official Site](https://textblock.io)
+- [asvd/microlight][asvd/microlight]: highlights code in any programming language
+  - [🌐Official Site](http://asvd.github.io/microlight)
+- [feimosi/baguetteBox.js][feimosi/baguetteBox.js]: ⚡ Simple and easy to use lightbox script written in pure JavaScript <GithubTags tagItems="javascript;gallery;responsive;modal;lightbox;vanilla-javascript;lightbox-script;pure-javascript" />
+  - [🌐Official Site](https://feimosi.github.io/baguetteBox.js)
 
 <!-- Javascript -->
 
@@ -418,7 +424,39 @@ meta:
   - [🌐Official Site](https://www.orillusion.com)
 - [omnivore-app/omnivore][omnivore-app/omnivore]: Omnivore is a complete, open source read-it-later solution for people who like reading. <GithubTags tagItems="productivity;bookmarks;reading;reader;read-it-later;logseq;logseq-plugin" />
   - [🌐Official Site](https://omnivore.app)
-
+- [containers/podman-desktop][containers/podman-desktop]: Podman Desktop - A graphical tool for developing on containers and Kubernetes <GithubTags tagItems="kubernetes;ui;containers;container;desktop;tray-application;podman;podman-desktop" />
+  - [🌐Official Site](https://podman-desktop.io)
+- [Tonejs/Tone.js][Tonejs/Tone.js]: A Web Audio framework for making interactive music in the browser. <GithubTags tagItems="javascript;music;scheduling;samples;web-audio;synthesis;tone" />
+  - [🌐Official Site](https://tonejs.github.io)
+- [ctrl-freaks/freezeframe.js][ctrl-freaks/freezeframe.js]: freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions. <GithubTags tagItems="react;javascript;gifs;typescript;vue;freezeframe;vue-freezeframe;react-freezeframe" />
+  - [🌐Official Site](http://ctrl-freaks.github.io/freezeframe.js)
+- [daybrush/scenejs][daybrush/scenejs]: 🎬 Scene.js is JavaScript & CSS timeline-based animation library <GithubTags tagItems="react;javascript;angular;typescript;vue;preact;timeline;css3;animation;graphic;motion;scene;javascript-animation;scenejs;css3-animation;javascript-animation-library" />
+  - [🌐Official Site](https://daybrush.com/scenejs)
+- [flatpickr/flatpickr][flatpickr/flatpickr]: lightweight, powerful javascript datetimepicker with no dependencies <GithubTags tagItems="datetime;date;timepicker;datetime-picker;datepicker;daterange;daterangepicker" />
+  - [🌐Official Site](https://flatpickr.js.org)
+- [google/model-viewer][google/model-viewer]: Easily display interactive 3D models on the web and in AR! <GithubTags tagItems="webcomponents;augmented-reality;three-js;gltf;glb;model-viewer;3d;3d-models;webxr;magic-leap" />
+  - [🌐Official Site](https://modelviewer.dev)
+- [Pushedskydiver/Colour-Contrast-Checker][Pushedskydiver/Colour-Contrast-Checker]: Check the contrast between different colour combinations against WCAG standards <GithubTags tagItems="pwa;color-contrast;wcag-contrast" />
+  - [🌐Official Site](https://colourcontrast.cc)
+- [CorentinTh/it-tools][CorentinTh/it-tools]: Collection of handy online tools for developers, with great UX. <GithubTags tagItems="javascript;productivity;converter;website;vuejs;typescript;tools;frontend;tool;developer-tools;developer-productivity" />
+  - [🌐Official Site](https://it-tools.tech)
+- [Everduin94/better-commits][Everduin94/better-commits]: A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack <GithubTags tagItems="git;cli;typescript;commit-message;clack;zod" />
+- [doczjs/docz][doczjs/docz]: ✍ It has never been so easy to document your things! <GithubTags tagItems="react;theme;documentation;docs;ui;js;gatsby;zero-configuration;mdx;design-system;docz" />
+  - [🌐Official Site](https://docz.site)
+- [amplication/amplication][amplication/amplication]: Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀 <GithubTags tagItems="nodejs;javascript;api;graphql;typescript;web;code-generation;hacktoberfest;low-code;nestjs;prisma" />
+  - [🌐Official Site](https://amplication.com)
+- [BuilderIO/partytown][BuilderIO/partytown]: Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 <GithubTags tagItems="javascript;performance;dom;analytics;web-worker;3rd-party;webworker;lighthouse;3rdparty;lighthouse-score;core-web-vitals" />
+  - [🌐Official Site](https://partytown.builder.io)
+- [nocodb/nocodb][nocodb/nocodb]: 🔥 🔥 🔥 Open Source Airtable Alternative <GithubTags tagItems="mysql;rest-api;sqlite;postgresql;swagger;spreadsheet;admin-dashboard;mariadb;admin-ui;airtable;sqlserver;restful-api;hacktoberfest;low-code;no-code;automatic-api;no-code-platform;no-code-database;airtable-alternative" />
+  - [🌐Official Site](https://nocodb.com)
+- [dishant0406/lazyweb][dishant0406/lazyweb]: A Web app that includes all the usefull websites which you might require for your next project <GithubTags tagItems="typescript;reactjs;nextjs;tailwindcss;supabase-js" />
+  - [🌐Official Site](https://lazyweb.rocks)
+- [BearStudio/start-ui-web][BearStudio/start-ui-web]: 🚀 Start UI [web] is an opinionated UI starter with ⚛️ React, ▲ NextJS, ⚡️ Chakra UI, ⚛️ TanStack Query & 🐜 Formiz — From the 🐻 BearStudio Team <GithubTags tagItems="react;typescript;web;reactjs;nextjs;starter;storybook;jhipster;hacktoberfest;react-query;chakra-ui;formiz" />
+  - [🌐Official Site](https://demo.start-ui.com)
+- [avitorio/outstatic][avitorio/outstatic]: Outstatic - A static CMS for Next.js <GithubTags tagItems="react;blog;static-site-generator;cms;typescript;nextjs" />
+  - [🌐Official Site](https://outstatic.com)
+ 
+<!-- Typescript -->
 ---
 
 <TagLinks />
@@ -562,6 +600,10 @@ meta:
 [adrianhajdin/project_next_13_ai_prompt_sharing]: https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing
 [hackclub/sinerider]: https://github.com/hackclub/sinerider
 [yashash-pugalia/win11-svelte]: https://github.com/yashash-pugalia/win11-svelte
+[alexfoxy/lax.js]: https://github.com/alexfoxy/lax.js
+[glyphic-co/textblock]: https://github.com/glyphic-co/textblock
+[asvd/microlight]: https://github.com/asvd/microlight
+[feimosi/baguetteBox.js]: https://github.com/feimosi/baguetteBox.js
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -644,3 +686,19 @@ meta:
 [xiangsx/gpt4free-ts]: https://github.com/xiangsx/gpt4free-ts
 [Orillusion/orillusion]: https://github.com/Orillusion/orillusion
 [omnivore-app/omnivore]: https://github.com/omnivore-app/omnivore
+[containers/podman-desktop]: https://github.com/containers/podman-desktop
+[Tonejs/Tone.js]: https://github.com/Tonejs/Tone.js
+[ctrl-freaks/freezeframe.js]: https://github.com/ctrl-freaks/freezeframe.js
+[daybrush/scenejs]: https://github.com/daybrush/scenejs
+[flatpickr/flatpickr]: https://github.com/flatpickr/flatpickr
+[google/model-viewer]: https://github.com/google/model-viewer
+[Pushedskydiver/Colour-Contrast-Checker]: https://github.com/Pushedskydiver/Colour-Contrast-Checker
+[CorentinTh/it-tools]: https://github.com/CorentinTh/it-tools
+[Everduin94/better-commits]: https://github.com/Everduin94/better-commits
+[doczjs/docz]: https://github.com/doczjs/docz
+[amplication/amplication]: https://github.com/amplication/amplication
+[BuilderIO/partytown]: https://github.com/BuilderIO/partytown
+[nocodb/nocodb]: https://github.com/nocodb/nocodb
+[dishant0406/lazyweb]: https://github.com/dishant0406/lazyweb
+[BearStudio/start-ui-web]: https://github.com/BearStudio/start-ui-web
+[avitorio/outstatic]: https://github.com/avitorio/outstatic

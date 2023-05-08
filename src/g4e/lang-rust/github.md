@@ -112,8 +112,6 @@ meta:
   - [🌐Official Site](https://ordinals.com)
 - [cedar-policy/cedar][cedar-policy/cedar]
 
-
-
 <TagLinks />
 
 <!-- Rust -->

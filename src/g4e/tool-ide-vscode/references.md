@@ -1,0 +1,28 @@
+---
+lang: ko-KR
+title: 📚References
+description: 🆚VSCode > 📚References
+tags: ["webdev", "vscode", "productivity", "programming"]
+---
+
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
+
+[[toc]]
+
+---
+
+## Dev.to
+
+- [The Best VS Code Extensions For Remote Working](https://dev.to/morrone_carlo/the-best-vs-code-extensions-for-remote-working-e8e)
+
+---
+
+## openreply
+
+- [Set Up CodeGPT In Visual Studio Code](https://blog.openreplay.com/set-up-codegpt-in-visual-studio-code)
+
+---
+
+<TagLinks />

@@ -44,6 +44,12 @@ tags: ["references", "swift"]
 
 ---
 
+## Sarunw
+
+- [How to set ContentInsets on SwiftUI List](https://sarunw.com/posts/how-to-set-contentinsets-in-swiftui)
+
+---
+
 ## Misc
 
 - [`EXC_BAD_ACCESS` - Swizzling With Swift](https://academy.realm.io/posts/sash-zats-swift-swizzling)

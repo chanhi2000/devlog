@@ -11,6 +11,7 @@ description: 🆚VSCode
 :::
 
 ![shield-vscode][shield-vscode]
+![shield-vscodium][shield-vscodium]
 ![shield-npm][shield-npm]
 ![shield-yarn][shield-yarn]
 ![shield-vite][shield-vite]
@@ -29,6 +30,7 @@ description: 🆚VSCode
 {{ $frontmatter.description }} 관련 정리내용
 
 [shield-vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square
+[shield-vscodium]: https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white&style=flat-square
 [shield-npm]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square
 [shield-yarn]: https://img.shields.io/badge/yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square
 [shield-vite]: https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white&style=flat-square

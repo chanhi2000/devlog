@@ -1,4 +1,5 @@
 import { defaultTheme } from '@vuepress/theme-default'
+// import { viteBundler } from '@vuepress/bundler-vite'
 import { getDirname, path } from '@vuepress/utils'
 /* plugins V2 */
 import { tocPlugin } from '@vuepress/plugin-toc';
@@ -104,10 +105,10 @@ export default {
       license: 'MIT Licensed',
     }),
     componentsPlugin({
-      components: [ "YouTube", "FontIcon", "Badge" ,"Share"],
+      components: ["VideoPlayer", "YouTube", "FontIcon", "Badge", "Share", "PDF"],
       componentOptions: {
         fontIcon: {
-          assets: "fontawesome",
+          assets: ["iconfont", "fontawesome", "fontawesome-with-brands"]
         }
       },
       rootComponents: {

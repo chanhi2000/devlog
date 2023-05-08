@@ -23,49 +23,51 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
   <div class="feature">
     <a href="https://github.com/chanhi2000">
       <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
-      <br/>
       <h2>github.com/chanhi2000</h2>
-      <p>My Github</p>
+      <quote>My Github</quote>
     </a>
+    <br/>
+    <br/>
   </div>
   <div class="feature">
     <a href="https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd">
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat-square" />
-      <br/>
       <h2>notion.so/chanhi2000</h2>
-      <p>Chan's Temporary Portfolio</p>
+      <quote>Chan's Temporary Portfolio</quote>
     </a>
-  </div>
-  <div class="feature">
-    <p style="display:flex;justify-contents:flex-start;align-items:center;">
-      <a href="https://simpleicons.org"><img alt="SimpleIcons" height="60px" width="auto" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/simpleicons-white.svg" /></a>
-      <a href="https://simpleicons.org"><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square" /></a>
-      <a href="https://github.com/simple-icons/simple-icons"><img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" /></a>
-    </p>
     <br/>
-    <ul>
-    <li><a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">SimpleIcons' Slugs</a></li>
-    </ul>
+    <br/>
   </div>
+  <div class="feature"></div>
   <div class="feature">
-    <a href="https://github.com/vuepress/awesome-vuepress/blob/main/v2.md">
-      <p style="display:flex;justify-contents:flex-start;align-items:center;">
-        <img alt="awesome-vuepress-jumbo" height="80px" width="auto" src="https://raw.githubusercontent.com/vuepress/awesome-vuepress/main/logo.png" />
-        <img alt="vuepress" src="https://img.shields.io/badge/Vuepress-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" />
-        <img alt="Awesome Lists" src="https://img.shields.io/badge/Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=white&style=flat-square" />
-        <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
+    <span style="display:flex;flex-direction:row;justify-content:flex-start;align-items:center">
+      <img alt="SimpleIcons" height="40px" width="auto" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/simpleicons-white.svg" />
+      <p style="display:flex;justify-content:center;align-items:flex-start;flex-direction:column;">
+        <a href="https://simpleicons.org"><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square" /></a>
+        <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md"><img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" /></a>
       </p>
-      <br/>
-      <h2>vuepress/awesome-vuepress/v2</h2>
-      <p></p>
-    </a>
+    </span>
   </div>
-  <div class="feature"> <!-- 인포그랩 --> 
-    <a href="https://insight.infograb.net/home"><img alt="InfoGrab" height="40px" width="auto" src="https://insight.infograb.net/img/logo.svg" /></a>
+  <div class="feature">
+    <span style="display:flex;flex-direction:row;justify-content:flex-start;align-items:center">
+      <img alt="awesome-vuepress-jumbo" height="40px" width="auto" src="https://raw.githubusercontent.com/vuepress/awesome-vuepress/main/logo.png" />
+      <p style="display:flex;justify-content:center;align-items:flex-start;flex-direction:column">
+        <a href="https://v2.vuepress.vuejs.org/guide/"><img alt="vuepress" src="https://img.shields.io/badge/Vuepress-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" /></a>
+        <a href="https://github.com/vuepress/awesome-vuepress/blob/main/v2.md"><img alt="Awesome Lists" src="https://img.shields.io/badge/Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=white&style=flat-square" /></a>
+      </p>
+    </span>
     <br/>
+  </div>
+  <div class="feature">
+    <h2>🗞️</h2>
     <ul>
-      <li><a href="https://insight.infograb.net/blog">블로그</a></li>
-      <li><a href="https://www.infograb.net/infoletter">인포레터</a></li>
+      <li><a href="https://github.com/trending">Github Trending</a></li>
+      <li><a href="https://github.com/trending?spoken_language_code=ko">Github 트랜딩 (한국)</a></li>
+      <li><a href="https://news.ycombinator.com">YCombinator - Hacker News</a></li>
+      <li><a href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
+      <li><a href="https://news.hada.io">🤓GeekNews</a></li>
+      <li><a href="https://datatau.net">DataTau</a></li>
+      <li><a href="https://blog.bytebytego.com">ByteByteGo</li>
     </ul>
   </div>
 </div>

@@ -13,6 +13,14 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## Cheatsheet(s)
+
+- [<FontIcon icon="iconfont icon-link"/> 🔥 Hacking Tools Cheat Sheet](https://www.instagram.com/p/CD_LMLaAuQk/?igshid=MDJmNzVkMjY%3D)
+  - [1/2](https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/117658156_953523845111690_3076053556485653950_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=GIOezCcbfVEAX_YaisY&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AfBLagPMcYBLCCAX5iKZyI2vJbNrMLar5tzGg4YgFUKekQ&oe=64630969&_nc_sid=4f375e)
+  - [2/2](https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/117743289_138407511276914_7202789972834531372_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=puO86HcR9OkAX_JGclB&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AfDP-Uu08TiYzuVs2q_bl-Ock5u0JPphz0an9n4SgSPpTg&oe=6463090B&_nc_sid=4f375e)
+
+---
+
 ## nixCraft
 
 - [Route 53 Let’s Encrypt wildcard certificate with `acme.sh`](https://www.cyberciti.biz/faq/route-53-lets-encrypt-wildcard-certificate-with-acme-sh/)
@@ -52,6 +60,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 ## Opensource
 
 - [Bypass your Linux firewall with SSH over HTTP](https://opensource.com/article/20/7/linux-shellhub)
+
+---
+
+## How-to-Geek
+
+- [How to Parse JSON Files on the Linux Command Line with `jq`](https://www.howtogeek.com/529219/how-to-parse-json-files-on-the-linux-command-line-with-jq/)
 
 ---
 

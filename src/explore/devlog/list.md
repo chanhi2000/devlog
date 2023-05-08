@@ -35,11 +35,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ## 우아한형제들
 
-- [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
-- [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
-- [‘Gradle Kotlin DSL’ 이야기](https://techblog.woowahan.com/2625)
 - [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)
-- [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658)
 
 ---
 
@@ -57,7 +53,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 3편 - 스펙별 단위 테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-3)
 - [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 2편 - 화면 단위 통합 테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-2)
 - [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 1편 - 통합 UI테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-1)
-- [뱅크샐러드 안드로이드 앱에서 Koin 걷어내고 Hilt로 마이그레이션하기](https://blog.banksalad.com/tech/migrate-from-koin-to-hilt)
 
 ### 2021
 
@@ -74,12 +69,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 ### 2017
 
 - [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage)
-
----
-
-## 강남언니
-
-- [Flyway 로 Java 에서 DB schema, seed 관리하기](https://blog.gangnamunni.com/post/introducing-flyway)
 
 ---
 
@@ -128,6 +117,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 - [4 ways to deploy web apps in 2020](https://dev.to/alex_boykov/4-ways-to-deploy-web-apps-in-2020-4ch3)
 - [How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
+- [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
 
 ---
 
@@ -335,6 +325,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Enhancements to the Kagi search experience](https://blog.kagi.com/search-enhancements)
 - [Driving Compiler](https://fabiensanglard.net/dc/index.php)
 - [Porting WaterLily.jl into a backend-agnostic solver](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
+- [Junior to senior: An action plan for engineering career success](https://github.com/readme/guides/engineering-career-success)
+- [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
 
 ---
 
