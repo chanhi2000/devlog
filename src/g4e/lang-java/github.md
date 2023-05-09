@@ -92,6 +92,9 @@ meta:
   - [🌐Official Site](https://questdb.io) <GithubTags tagItems="java;iot;postgres;sql;database;big-data;time-series;analytics;cpp;grafana;postgresql;simd;low-latency;financial-analysis;tsdb;hacktoberfest;time-series-database;questdb"/>
 - [termux/termux-app][termux/termux-app]: Termux - a terminal emulator application for Android OS extendible by variety of packages. <GithubTags tagItems="android;linux;terminal;termux;hacktoberfest" />
   - [🌐Official Site](https://f-droid.org/en/packages/com.termux)
+- [alibaba/Chat2DB][alibaba/Chat2DB]: 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AI (ChatGPT)）<GithubTags tagItems="electron;mysql;java;redis;sql;ai;chatbot;postgresql;oracle;dbeaver;gpt;navicat;datagrip;chatgpt;chatgpt-api" />
+  - [🌐Official Site](https://chat2db.opensource.alibaba.com)
+- [cedar-policy/cedar-java][cedar-policy/cedar-java]
 
 
 
@@ -220,6 +223,8 @@ meta:
 [jbake-org/jbake]: https://github.com/jbake-org/jbake
 [questdb/questdb]: https://github.com/questdb/questdb
 [termux/termux-app]: https://github.com/termux/termux-app
+[alibaba/Chat2DB]: https://github.com/alibaba/Chat2DB
+[cedar-policy/cedar-java]: https://github.com/cedar-policy/cedar-java
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

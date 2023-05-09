@@ -32,6 +32,13 @@ Placeholders with the same ids are connected.
 
 ```json
 {
+  "UrlGithubRepo": {
+    "prefix": "urlghr",
+    "body": [
+      "https://github.com/${1:repo}",
+    ],
+    "description": "Create URL form for Github Repoistory"
+  },
   "VuepressMarkdownYoutubeItem": {
      "prefix": "vpyi",
      "body": [

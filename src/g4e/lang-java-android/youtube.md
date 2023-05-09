@@ -365,6 +365,84 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## EDMT Dev
+
+[EDMT Dev][yu-eddydn71]
+
+::: details 목록
+
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="UNa_gIuFyOM" title="Android Kotlin Tutorial - RSS Reader by Kotlin" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="9KJyebg17qw" title="Android Development Tutorial - New Uber Clone #42 Update Trip Plan" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="u7t8MxGR9EY" title="Kotlin Android Tutorial - New Eat It part 48 Shippers Managements" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="0shyep6yzeU" title="Android Development Tutorial - My Restaurant part 38 a Upgrade NodeJS API for MSSQL" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="nZ2gHpbAXHc" title="EDMT Dev - Food App Android Studio #21 Getting user location" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="A85pX4ZAAis" title="EDMT Dev - Food App Android Studio #13 Build Cart System with Room Persistence" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="oQOybOl0vyc" title="Kotlin Android Tutorial -  Realtime QR Code Realtime Scanner with Rectangle" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="jtbVo8XwI88" title="Android Development Tutorial - Drink Shop App part 36 Integrate Firebase Cloud Messaging" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="JQa-NAgMfY4" title="Kotlin Android Tutorial - Recycler View Filters" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="MALa2ahelCA" title="Android Development Tutorial - Recycler View Filters" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="d1UuUTAKoi8" title="Android Development Tutorial - MVVM Design Patterns Login Validation" />
+<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="qwfESo8nSPs" title="Flutter Full Course - In App WebView" />
+
+:::
+
+<!-- EDMT Dev -->
+
+---
+
+## DJ Malone
+
+[DJ Malone][yu-dj-malone]
+
+::: details 목록
+
+| ❌ | <a href="https://www.youtube.com/watch?v=xIHz0C5qt-Q"><img width="140px" height="auto" alt="thumb-xIHz0C5qt-Q" src="https://i.ytimg.com/vi/xIHz0C5qt-Q/hqdefault.jpg"></a> | [Retrofit + Kotlin Coroutines \(Ecommerce #32\)](https://www.youtube.com/watch?v=xIHz0C5qt-Q) <br/><br/> _[DJ Malone][yu-dj-malone]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=3weiK_qKuSI"><img width="140px" height="auto" alt="thumb-3weiK_qKuSI" src="https://i.ytimg.com/vi/3weiK_qKuSI/hqdefault.jpg"></a> | [Android Test Driven Development Tutorial](https://www.youtube.com/watch?v=3weiK_qKuSI) <br/><br/> _[DJ Malone][yu-dj-malone]_ |
+
+
+:::
+
+<!-- DJ Malone -->
+
+---
+
+## Coding With Tea
+
+[Coding With Tea][yu-coding-w-tea]
+
+::: details 목록
+
+<YoutubeItem channelName="Coding With Tea" channelId="CodingwithT" id="WSJHAsnot54" title="Create React native video Player \| React Native Video Player"/>
+<YoutubeItem channelName="Coding With Tea" channelId="CodingwithT" id="n_W99oFIF8w" title="Onboarding Screen Android Studio  - Animation in Android Studio - Part 2- Sizzling Bites"/>
+
+:::
+
+<!-- Coding With Tea -->
+
+---
+
+
+
+
+## The Android Programmer
+
+[The Android Programmer][yu-theandroidprogrammer]
+
+::: details 목록
+
+<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="yKiBFlfGR2Q" title="Android MVVM with CommandBus - Full Part 2 - Splash Activity and ViewModel" />
+<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="cLjBhAUl4zU" title="Android MVVM with CommandBus - Full Part 1 - BaseViewModel and BaseActivity" />
+<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="rU-dS0fwqY0" title="Data Structures &amp; Algorithms in Kotlin - Linked List push/append" />
+<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="6hfREKcMx-E" title="The Complete Guide to Android Design Patterns - Part 2" />
+
+:::
+
+<!-- The Android Programmer -->
+
+---
+
+
+
 <TagLinks />
 
 [yu-Philipp-Lackner]: https://www.youtube.com/@PhilippLackner
@@ -376,3 +454,6 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 [yu-douglas-schmidt]: https://www.youtube.com/@DouglasSchmidt
 [yu-jerry-banfield]: https://www.youtube.com/@JerryBanfield
 [yu-aws-rh]: https://www.youtube.com/@AwsRh
+[yu-eddydn71]: https://www.youtube.com/@eddydn71
+[yu-coding-w-tea]: https://www.youtube.com/@CodingwithT
+[yu-theandroidprogrammer]: https://www.youtube.com/@theandroidprogrammer

@@ -94,8 +94,31 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Java Home Cloud
+
+[Java Home Cloud][yu-java-home-cloud]
+
+::: details 목록
+
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="xsBnF9gbXW4" title="Debug Pod in Kubernetes | Debugging Pod | Pod Logs | ImagePullBackoff | DevOps Training" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="C5mazUJ1dsg" title="What is dynamic inventory in Ansible | Step by Step - Ansible AWS dynamic inventory Demo | Easy Way" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="RvY5b--wnE0" title="Writing reusable Jenkins Pipeline code | Jenkins Shared Library | Advanced Jenkins Pipeline Tutorial" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="LkSHWYpiMtM" title="How to validating Jenkinsfile locally | Validating Jenkins Pipeline locally  | Jenkinsfile Tutorial" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="gdbA3vR2eDs" title="Deploying docker app using Jenkins pipeline | CI/CD Of Docker | DevOps - Jenkins Pipeline Tutorial" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="pts8zdHel5E" title="08 - Jenkins pipeline integration with git &amp; maven | Jenkins Pipeline Tutorial" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="MjJgzsmuz00" title="Kubernetes Taints and Tolerations Demo | Kubernetes Demo | Kubernetes for Beginners" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="IWR24Z1yp80" title="Git rest &amp; revert deep dive | Git revert vs reset Demo | Git tutorial | Java Home Cloud" />
+
+:::
+
+<!-- Java Home Cloud -->
+
+---    
+
 <TagLinks />
 
 [yu-continuous-delivery]: https://www.youtube.com/@ContinuousDelivery
 [yu-thetips4you]: https://www.youtube.com/@Thetips4you
 [yu-raghav-pal]: https://www.youtube.com/@RaghavPal
+[yu-java-home-cloud]: https://www.youtube.com/@JavaHomeCloud
+

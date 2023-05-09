@@ -18,45 +18,85 @@ tags: ["education", "youtube", "programming", "python", "py"]
 [NeuralNine][yu-neural-nine]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=Qks3eqlImy8"><img width="140px" height="auto" alt="thumb-Qks3eqlImy8" src="https://i.ytimg.com/vi/Qks3eqlImy8/hqdefault.jpg"/></a> | [Professional Project &amp; Dependency Management in Python](https://www.youtube.com/watch?v=Qks3eqlImy8) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tMLsR0_2yIE"><img width="140px" height="auto" alt="thumb-tMLsR0_2yIE" src="https://i.ytimg.com/vi/tMLsR0_2yIE/hqdefault.jpg"/></a> | [Professional Expense Tracker in Python](https://www.youtube.com/watch?v=tMLsR0_2yIE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=glhdVc0gcAg"><img width="140px" height="auto" alt="thumb-glhdVc0gcAg" src="https://i.ytimg.com/vi/glhdVc0gcAg/hqdefault.jpg"/></a> | [Professional Command-Line Tools with Click-Shell](https://www.youtube.com/watch?v=glhdVc0gcAg) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2Z1RJDVM0rc"><img width="140px" height="auto" alt="thumb-2Z1RJDVM0rc" src="https://i.ytimg.com/vi/2Z1RJDVM0rc/hqdefault.jpg"/></a> | [Dive Into The Details: Disassembling Python Code](https://www.youtube.com/watch?v=2Z1RJDVM0rc) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=74pSNpgHFGo"><img width="140px" height="auto" alt="thumb-74pSNpgHFGo" src="https://i.ytimg.com/vi/74pSNpgHFGo/hqdefault.jpg"/></a> | [Professional Dependency Management with Pipfiles](https://www.youtube.com/watch?v=74pSNpgHFGo) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ykrluoYGm2w"><img width="140px" height="auto" alt="thumb-ykrluoYGm2w" src="https://i.ytimg.com/vi/ykrluoYGm2w/hqdefault.jpg"/></a> | [Speeding Up Vim Startup Time](https://www.youtube.com/watch?v=ykrluoYGm2w) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yWLkyN_Satk"><img width="140px" height="auto" alt="thumb-yWLkyN_Satk" src="https://i.ytimg.com/vi/yWLkyN_Satk/hqdefault.jpg"/></a> | [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_9ThkldEg0c"><img width="140px" height="auto" alt="thumb-_9ThkldEg0c" src="https://i.ytimg.com/vi/_9ThkldEg0c/hqdefault.jpg"/></a> | [Hardware Information Tool in Python](https://www.youtube.com/watch?v=_9ThkldEg0c) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=68I-oxeJ4HE"><img width="140px" height="auto" alt="thumb-68I-oxeJ4HE" src="https://i.ytimg.com/vi/68I-oxeJ4HE/hqdefault.jpg"/></a> | [Config Files &amp; Parsing in Python](https://www.youtube.com/watch?v=68I-oxeJ4HE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=h1BnRBzYjYY"><img width="140px" height="auto" alt="thumb-h1BnRBzYjYY" src="https://i.ytimg.com/vi/h1BnRBzYjYY/hqdefault.jpg"/></a> | [Professional Preprocessing with Pipelines in Python](https://www.youtube.com/watch?v=h1BnRBzYjYY) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fATVVQfFyU0"><img width="140px" height="auto" alt="thumb-fATVVQfFyU0" src="https://i.ytimg.com/vi/fATVVQfFyU0/hqdefault.jpg"/></a> | [Titanic Survival Prediction in Python - Machine Learning Project](https://www.youtube.com/watch?v=fATVVQfFyU0) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PuZY9q-aKLw"><img width="140px" height="auto" alt="thumb-PuZY9q-aKLw" src="https://i.ytimg.com/vi/PuZY9q-aKLw/hqdefault.jpg"/></a> | [Predicting Stock Prices in Python](https://www.youtube.com/watch?v=PuZY9q-aKLw) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FJeXp5yZd-g"><img width="140px" height="auto" alt="thumb-FJeXp5yZd-g" src="https://i.ytimg.com/vi/FJeXp5yZd-g/hqdefault.jpg"/></a> | [Pomodoro Timer GUI in Python](https://www.youtube.com/watch?v=FJeXp5yZd-g) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OTk-UXDK8-M"><img width="140px" height="auto" alt="thumb-OTk-UXDK8-M" src="https://i.ytimg.com/vi/OTk-UXDK8-M/hqdefault.jpg"/></a> | [Windows Tools Every \(Power\) User Should Use](https://www.youtube.com/watch?v=OTk-UXDK8-M) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5i-Axn7KgDU"><img width="140px" height="auto" alt="thumb-5i-Axn7KgDU" src="https://i.ytimg.com/vi/5i-Axn7KgDU/hqdefault.jpg"/></a> | [Awesome PyCharm Setup - Full Guide](https://www.youtube.com/watch?v=5i-Axn7KgDU) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6gNpSuE01qE"><img width="140px" height="auto" alt="thumb-6gNpSuE01qE" src="https://i.ytimg.com/vi/6gNpSuE01qE/hqdefault.jpg"/></a> | [Android App Development in Python With Kivy](https://www.youtube.com/watch?v=6gNpSuE01qE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=P2jVybFyh3A"><img width="140px" height="auto" alt="thumb-P2jVybFyh3A" src="https://i.ytimg.com/vi/P2jVybFyh3A/hqdefault.jpg"/></a> | [C++ Full Beginner Crash Course](https://www.youtube.com/watch?v=P2jVybFyh3A) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ur4fCNMPp0I"><img width="140px" height="auto" alt="thumb-ur4fCNMPp0I" src="https://i.ytimg.com/vi/ur4fCNMPp0I/hqdefault.jpg"/></a> | [Pynecone: The Python-Only Web Framework](https://www.youtube.com/watch?v=ur4fCNMPp0I) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Qks3eqlImy8"><img width="140px" height="auto" alt="thumb-Qks3eqlImy8" src="https://i.ytimg.com/vi/Qks3eqlImy8/hqdefault.jpg"/></a> | [Professional Project &amp; Dependency Management in Python](https://www.youtube.com/watch?v=Qks3eqlImy8) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tMLsR0_2yIE"><img width="140px" height="auto" alt="thumb-tMLsR0_2yIE" src="https://i.ytimg.com/vi/tMLsR0_2yIE/hqdefault.jpg"/></a> | [Professional Expense Tracker in Python](https://www.youtube.com/watch?v=tMLsR0_2yIE) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
 
-0MgV8TxMNIw
-Massively Speed-Up SQL Queries with Indexes
-
-W82jvmiaDtk
-Dockerize Python Applications with GUI
-
-YLa_KkehvGw
-Deep Reinforcement Learning with OpenAI Gym in Python
-
-8PARZE2aTOQ
-Encrypt SQLite Databases with SQLCipher
-
-3wC-SCdJK2c
-Google Sheets API Automation in Python
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="Qks3eqlImy8" title="Professional Project &amp; Dependency Management in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="tMLsR0_2yIE" title="Professional Expense Tracker in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="glhdVc0gcAg" title="Professional Command-Line Tools with Click-Shell" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="2Z1RJDVM0rc" title="Dive Into The Details: Disassembling Python Code" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="74pSNpgHFGo" title="Professional Dependency Management with Pipfiles" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="ykrluoYGm2w" title="Speeding Up Vim Startup Time" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="yWLkyN_Satk" title="Makefiles Make Your Life Easier" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="_9ThkldEg0c" title="Hardware Information Tool in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="68I-oxeJ4HE" title="Config Files &amp; Parsing in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="h1BnRBzYjYY" title="Professional Preprocessing with Pipelines in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="fATVVQfFyU0" title="Titanic Survival Prediction in Python - Machine Learning Project" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="PuZY9q-aKLw" title="Predicting Stock Prices in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="FJeXp5yZd-g" title="Pomodoro Timer GUI in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="OTk-UXDK8-M" title="Windows Tools Every \(Power\) User Should Use" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="5i-Axn7KgDU" title="Awesome PyCharm Setup - Full Guide" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="6gNpSuE01qE" title="Android App Development in Python With Kivy" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="P2jVybFyh3A" title="C++ Full Beginner Crash Course" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="ur4fCNMPp0I" title="Pynecone: The Python-Only Web Framework" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="Qks3eqlImy8" title="Professional Project &amp; Dependency Management in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="tMLsR0_2yIE" title="Professional Expense Tracker in Python" /> 
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="0MgV8TxMNIw" title="Massively Speed-Up SQL Queries with Indexes" />
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="W82jvmiaDtk" title="Dockerize Python Applications with GUI" />
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="YLa_KkehvGw" title="Deep Reinforcement Learning with OpenAI Gym in Python" />
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="8PARZE2aTOQ" title="Encrypt SQLite Databases with SQLCipher" />
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="3wC-SCdJK2c" title="Google Sheets API Automation in Python" />
 
 :::
+
+---
+
+## Tech With Tim
+
+[Tech With Tim][yu-tech-w-tim]
+
+::: details 목록
+
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="Lhj86h6orVM" title="Server Driven UI Crash Course - iOS, Swift, SwiftUI and NodeJS/Express" />
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="dam0GPOAvVI" title="Python Website Full Tutorial - Flask, Authentication, Databases &amp; More" />
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="-njsRb8Tn70" title="An Introduction to Software Design - With Python" />
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="eqrKxDbzhbg" title="How to Make Money Coding - 5 Ways Developers Make Money WITHOUT a Job" />
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="GMppyAPbLYk" title="Python REST API Tutorial - Building a Flask REST API" />
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="8Stfdfcdt0E" title="The Resume That Got Me Into Microsoft - Intern Software Engineer Resume Tips" />
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="wDIQ17T3sRk" title="12 Hour Coding Livestream - Creating an Online Game with Python" />
+<YoutubeItem channelName="Tech With Tim" channelId="TechWithTim" id="phC-vKlNoaM" title="Become a VSCode Pro: Essential Features and Shortcuts" />
+
+:::
+
+<!-- Tech With Tim -->
+
+---
+
+## mCoding
+
+[mCoding][yu-m-coding]
+
+::: details 목록
+
+<YoutubeItem channelName="mCoding" channelId="mCoding" id="DhUpxWjOhME" title="Automated Testing in Python with pytest, tox, and GitHub Actions" />
+<YoutubeItem channelName="mCoding" channelId="mCoding" id="g_wlZ9IhbTs" title="You should put this in all your Python scripts | if __name__ == '__main__': ..." />
+<YoutubeItem channelName="mCoding" channelId="mCoding" id="AmjoK55h68Y" title="unique_ptr: C++'s simplest smart pointer" />
+
+:::
+
+<!-- mCoding -->
+
+---
+
+## James Briggs
+
+[James Briggs][yu-jamesbriggs]
+
+::: details 목록
+
+<YoutubeItem channelName="James Briggs" channelId="jamesbriggs" id="hpePPqKxNq8" title="ChatGPT Plugins: Build Your Own in Python!" />
+
+:::
+
+<!-- James Briggs -->
 
 ---
 
@@ -67,7 +107,7 @@ Google Sheets API Automation in Python
 ::: details 목록
 | W / NW | Thumbnail | Account / Title |
 | :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=A4gYAKry7P0"><img width="140px" height="auto" alt="thumb-A4gYAKry7P0" src="https://i.ytimg.com/vi/A4gYAKry7P0/hqdefault.jpg"/></a> | [Automate Excel with ChatGPT (and Python)](https://www.youtube.com/watch?v=A4gYAKry7P0) <br/><br/> _[NeuralNine][yu-neural-nine]_ |
+<YoutubeItem channelName="NeuralNine" channelId="NeuralNine" id="A4gYAKry7P0" title="Automate Excel with ChatGPT (and Python)" /> 
 
 :::
 
@@ -92,5 +132,8 @@ Google Sheets API Automation in Python
 <TagLinks />
 
 [yu-neural-nine]: https://www.youtube.com/@NeuralNine
+[yu-tech-w-tim]: https://www.youtube.com/@TechWithTim
+[yu-m-coding]: https://www.youtube.com/@mCoding
+[yu-jamesbriggs]: https://www.youtube.com/@jamesbriggs
 [yu-the-py-coach]: https://www.youtube.com/@ThePyCoach
 [yu-py-con-kr-tube]: https://www.youtube.com/@PyConKRtube

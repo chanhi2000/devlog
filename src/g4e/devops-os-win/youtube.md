@@ -19,7 +19,7 @@ tags: ["education", "youtube", "windows"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Microsoft Research" channelId="MicrosoftResearch" id="9WrVdluFfpo" title="Project Orleans and the distributed database future with Dr. Philip Bernstein \| Podcast" />
+<YoutubeItem channelName="Microsoft Research" channelId="MicrosoftResearch" id="9WrVdluFfpo" title="Project Orleans and the distributed database future with Dr. Philip Bernstein | Podcast" />
 <YoutubeItem channelName="Microsoft Research" channelId="MicrosoftResearch" id="oZQ_c89HFU0" title="Installing Microsoft SEAL on Windows" />
 
 :::
@@ -164,20 +164,13 @@ tags: ["education", "youtube", "windows"]
 
 ::: details 목록
 
-<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="lzhXZQucQFA" title="Hide Recent Files in the Start Menu | Simple Windows 11 Guide" />
-<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="cOJbzmZTKvM" title="How to setup Android Subsystem on Windows 11 | NEW GUIDE" />
-<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="i7651MjMXNs" title="Install osu! on Mac | Lazer + Normal/Stable | Full Guide" />
-<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="BbYJd9kRjLg" title="🤯Insane Image Manipulation | ControlNet Install & Usage Guide | UPDATED" />
-<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="J5A-T2he1Bo" title="INSANE Text2Video in SDUI📹Full Install &amp; Use Guide | AUTOMATIC1111 Stable Diffusion" />
+<YoutubeItem channelName="Michael MJD" channelId="MichaelMJD" id="tdhCDyJhjag" title="Running EVERY Classic Mac OS Version in your Browser! - Infinite Mac Updates" />
 
 :::
 
 <!-- Michael MJD -->
 
 ---
-
-
-
 
 <TagLinks />
 

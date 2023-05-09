@@ -26,7 +26,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [dair-ai/Prompt-Engineering-Guide][dair-ai/Prompt-Engineering-Guide]: 🐙 Guide and resources for prompt engineering
 - [freeCodeCamp/freeCodeCamp][freeCodeCamp/freeCodeCamp]: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
   - [🌐Official Site](https://contribute.freecodecamp.org)
-- [hemansnation/God-Level-Data-Science-ML-Full-Stack][hemansnation/God-Level-Data-Science-ML-Full-Stack]: This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.
+- [hemansnation/God-Level-Data-Science-ML-Full-Stack][hemansnation/God-Level-Data-Science-ML-Full-Stack]: This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science. <GithubTags tagItems="python;data-science;machine-learning;natural-language-processing;statistics;computer-vision;deep-learning;datastructures;numpy;scikit-learn;pandas;data-visualization;pytorch;data-engineering;matplotlib;tableau;data-structures-and-algorithms;mlops;data-system-design" />
   - [🌐Official Site](https://www.himanshuramchandani.co)
 - [jwasham/coding-interview-university][jwasham/coding-interview-university]: A complete computer science study plan to become a software engineer. <GithubTags tagItems="computer-science;algorithm;algorithms;interview;data-structures;software-engineering;coding-interviews;study-plan;interview-prep;interview-preparation;coding-interview;programming-interviews"/>
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor][JushBJJ/Mr.-Ranedeer-AI-Tutor]: A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -106,6 +106,9 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 - [sumn2u/learn-javascript][sumn2u/learn-javascript]: A book that teaches JavaScript
   - [🌐Official Site](https://javascript.sumankunwar.com.np)
+- [getify/You-Dont-Know-JS][getify/You-Dont-Know-JS]: A book series on JavaScript. @YDKJS on twitter. <GithubTags tagItems="javascript;education;programming;es6;async;book;book-series;es2015;learn-to-code;training-providers;closures;prototypes;training-materials" />
+
+
 
 <!-- Javascript -->
 
@@ -205,6 +208,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [kodekloudhub/linux-basics-course][kodekloudhub/linux-basics-course]
 - [aws/containers-roadmap][aws/containers-roadmap]: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). <GithubTags tagItems="kubernetes;aws;roadmap;containers;ecs;ecr;fargate;eks"/>
   - [🌐Official Site](https://aws.amazon.com/about-aws/whats-new/containers)
+- [Anof-cyber/Application-Security][Anof-cyber/Application-Security]: Resources for Application Security including Web, API, Android, iOS and Thick Client <GithubTags tagItems="android;security;hacking;cybersecurity;penetration-testing;infosec;application-security;pentesting;bugbounty;appsec;security-testing;penetration-testing-notes" />
 
 ---
 
@@ -251,6 +255,8 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [pkivolowitz/asm_book][pkivolowitz/asm_book]: A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.
 - [norvig/paip-lisp][norvig/paip-lisp]: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
   - [🌐Official Site](https://norvig.github.io/paip-lisp)
+- [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling][l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling]: Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.
+
 
 
 <!-- CompSci / Programming Basics -->
@@ -304,6 +310,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [judygab/web-dev-projects]: https://github.com/judygab/web-dev-projects
 [john-smilga/react-course-v3]: https://github.com/john-smilga/react-course-v3
 [sumn2u/learn-javascript]: https://github.com/sumn2u/learn-javascript
+[getify/You-Dont-Know-JS]: https://github.com/getify/You-Dont-Know-JS
 <!-- Python -->
 [gto76/python-cheatsheet]: https://github.com/gto76/python-cheatsheet
 [jackfrued/Python-Core-50-Courses]: https://github.com/jackfrued/Python-Core-50-Courses
@@ -349,6 +356,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [ripienaar/free-for-dev]: https://github.com/ripienaar/free-for-dev
 [kodekloudhub/linux-basics-course]: https://github.com/kodekloudhub/linux-basics-course
 [aws/containers-roadmap]: https://github.com/aws/containers-roadmap
+[Anof-cyber/Application-Security]: https://github.com/Anof-cyber/Application-Security
 <!-- Machine Learning -->
 [DataTalksClub/mlops-zoomcamp]: https://github.com/DataTalksClub/mlops-zoomcamp
 [curiousily/Getting-Things-Done-with-Pytorch]: https://github.com/curiousily/Getting-Things-Done-with-Pytorch
@@ -369,3 +377,4 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [Tikam02/DevOps-Guide]: https://github.com/Tikam02/DevOps-Guide
 [pkivolowitz/asm_book]: https://github.com/pkivolowitz/asm_book
 [norvig/paip-lisp]: https://github.com/norvig/paip-lisp
+[l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling]: https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling

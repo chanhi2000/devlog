@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Watch Later (Keynote)
 description: 📺Youtube > Watch Later (Keynote)
-tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp-lackner", "theprimeagen"]
+tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp-lackner"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -480,45 +480,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
-## dotnet
-
-[dotnet][yu-dotnet]
-
-::: details 목록
-
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="0cqtHWfgS5E" title="On .NET Live - Building web apps using MVVM" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="xyus7zlmgdc" title="OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="FhBgj9yORy4" title="Learn C# with CSharpFritz - Introduction to .NET MAUI" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="vc22hoUorzA" title=".NET Conf: Focus on MAUI" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="qfaQijTimxo" title="Develop amazing Windows apps using the Windows App SDK" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="4Xzx7Cm9ykg" title="Let's Learn .NET - Blazor" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="UnbJrC0WN1U" title="ASP.NET Community Standup - Balea authorization framework" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="Mpf0fCO6NrU" title="ASP.NET Community Standup - Building HTTP APIs" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="Ev4oT5fGROo" title="C# with CSharpFritz S2 E6 - Build for the Live Web with SignalR" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="u898_hiWJY0" title="C# with CSharpFritz - S2 E7 - Introducing Authentication and Authorization with ASP.NET Core" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="lmHU1zD2mvA" title="Entity Framework Community Standup - Introducing MSBuild.Sdk.SqlProj" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="biL1XOcg8Us" title="The .NET Docs Show - Functional Fun with F#" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="0AhIXUqfXTo" title="C# with CSharpFritz - S2 Ep 3: ASP.NET Core MVC, Part 2" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="ODBR7kZHp-s" title="GraphQL Schema stitching" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="2xeKomASV0E" title="The .NET Docs Show - Let's code a drone 🛸 to follow faces with Bruno Capuano" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="lzVZSKcC-oY" title="The .NET Docs Show - Blazor &amp; Comet ☄️ for Native Mobile Apps with Sam Basu" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="TeHVd3UlfY8" title=".NET Microservices with DAPR" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="gmopA3LEEeE" title="Blazor for Web Form and C# Developers" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="0tQNsHc-410" title="\[Korean\] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
-
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="DeegkS0Vf9o" title="How do I use SQL Server with C# and .NET?" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="kwJt6GcVlt4" title="[Korean] Load Testing ASP.NET Apps on AKS through GitHub Actions" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="i8tMiWHK05M" title="[Korean] Blazor Hybrid for Mobile App Development &amp; Deployment with App Center" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="zHgYDZK3MrA" title=".NET Migration Overview [1 of 18] Migrating from ASP.NET to ASP.NET Core" />
-
-:::
-
-<!-- dotnet -->
-
----
-
 ## MongoDB
 
 [MongoDB][yu-mongo-db]
@@ -555,11 +516,8 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [STRV][yu-strv]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Forms - React Nights 2019 - Week 4
-w4dVp0Yi7is
+<YoutubeItem channelName="STRV" channelId="STRVSanFrancisco" id="w4dVp0Yi7is" title="Forms - React Nights 2019 - Week 4" />
 
 :::
 
@@ -644,11 +602,8 @@ w4dVp0Yi7is
 [Snyk][yu-snyk]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Understanding NPM Dependency Confusions - What You Need to Know
-uJ_hOA9IQw0
+<YoutubeItem channelName="Snyk" channelId="Snyksec" id="uJ_hOA9IQw0" title="Understanding NPM Dependency Confusions - What You Need to Know" />
 
 :::
 
@@ -683,11 +638,8 @@ uJ_hOA9IQw0
 [Unity][yu-unity]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Inserting AR directly into a native mobile app \| IKEA - Unite Copenhagen 2019
-9uEZdiBn0ss
+<YoutubeItem channelName="Unity" channelId="unity" id="9uEZdiBn0ss" title="Inserting AR directly into a native mobile app | IKEA - Unite Copenhagen 2019" />
 
 :::
 
@@ -700,48 +652,21 @@ Inserting AR directly into a native mobile app \| IKEA - Unite Copenhagen 2019
 [Microsoft Developer][yu-microsoft-developer]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation
-7ZeZD-iJFQw
-
-Getting started with Java and Spring Cloud to build Reactive Java Apps.
-E3GI9a39uQU
-
-Welcome to .NET MAUI \(Multi-platform App UI\) \| #SamosaChai.NET
-xZwNFB4hx5s
-
-StereoKit: Hello World for StereoKit
-apcWlHNJ5kM
-
-JBoss on Azure App Service is now GA \| The Launch Space
-8b_Wiuw8l-8
-
-What is Rust and why should you learn it \[2 of 35\] \| Rust for Beginners
-1DJkU8H-uDc
-
-All Around Azure: DevOps with GitHub- Americas Airing
-wnFtt-fKLoI
-
-Visual Studio Code: Remote Dev with SSH, VMs, and WSL \| Tabs vs Spaces
-XkLjxr9iQ-8
-
-Learn Studio Session: Build a WebAssembly app with Blazor &amp; VS Code \| COM141
-4pBcGmm6nCI
-
-Learn Studio Session: Build a WebAssembly app with Blazor &amp; VS Code \| COM144
-2k74qoXTelM
-
-Episode 5: MVVM &amp; Data Binding with Xamarin.Forms
-GZDQptTQZsk
-
-WSL2: Code faster on the Windows Subsystem for Linux! \| Tabs vs Spaces
-MrZolfGm8Zk
-
-Git patterns and anti-patterns for successful developers : Build 2018
-ykZbBD-CmP8
-
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="7ZeZD-iJFQw" title="Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="E3GI9a39uQU" title="Getting started with Java and Spring Cloud to build Reactive Java Apps." />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="xZwNFB4hx5s" title="Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="apcWlHNJ5kM" title="StereoKit: Hello World for StereoKit" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="8b_Wiuw8l-8" title="JBoss on Azure App Service is now GA | The Launch Space" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="1DJkU8H-uDc" title="What is Rust and why should you learn it [2 of 35] | Rust for Beginners" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="wnFtt-fKLoI" title="All Around Azure: DevOps with GitHub- Americas Airing" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="XkLjxr9iQ-8" title="Visual Studio Code: Remote Dev with SSH, VMs, and WSL | Tabs vs Spaces" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="4pBcGmm6nCI" title="Learn Studio Session: Build a WebAssembly app with Blazor &amp; VS Code | COM141" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="2k74qoXTelM" title="Learn Studio Session: Build a WebAssembly app with Blazor &amp; VS Code | COM144" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="GZDQptTQZsk" title="Episode 5: MVVM &amp; Data Binding with Xamarin.Forms" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="MrZolfGm8Zk" title="WSL2: Code faster on the Windows Subsystem for Linux! | Tabs vs Spaces" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="ykZbBD-CmP8" title="Git patterns and anti-patterns for successful developers : Build 2018" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="nK8Ss2UMAxc" title="Introduction to Dapr" />
 :::
 
 <!-- Microsoft Developer -->
@@ -753,26 +678,13 @@ ykZbBD-CmP8
 [Microsoft Visual Studio][yu-visualstudio]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
 
-Visual C++ STL Code Review: GH-1794, Use iterator concept in vector's range constructor
-o4fYwtKpoz4
-
-Writing Visual Studio Extensions with Mads - Fixing bugs in Add Any File
-EP0TZqosWs0
-
-Writing Visual Studio Extensions with Mads - Snippets
-MvJnod5Xb5g
-
-Writing Visual Studio Extensions with Mads - Editor extension:  Whole line selection
-bq1-25nwoRg
-
-Visual Studio and accessibility - Visual Studio Remote Office Hours, 5/28
-9J7scOtDYBc
-
-Debugging Managed Async Code in Visual Studio 2019
-aVEug50YpaM
+<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="o4fYwtKpoz4" title="Visual C++ STL Code Review: GH-1794, Use iterator concept in vector's range constructor" />
+<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="EP0TZqosWs0" title="Writing Visual Studio Extensions with Mads - Fixing bugs in Add Any File" />
+<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="MvJnod5Xb5g" title="Writing Visual Studio Extensions with Mads - Snippets" />
+<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="bq1-25nwoRg" title="Writing Visual Studio Extensions with Mads - Editor extension:  Whole line selection" />
+<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="9J7scOtDYBc" title="Visual Studio and accessibility - Visual Studio Remote Office Hours, 5/28" />
+<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="aVEug50YpaM" title="Debugging Managed Async Code in Visual Studio 2019" />
 
 :::
 
@@ -827,11 +739,11 @@ Z0V2DMM6IMg
 
 Netflix Entertainment @ Scale, CJ Barker
 JyLBKdIDmz4
-[Netflix Engineering][yu-netflix-engineering]
 
 :::
 
 ---
+
 ## Red Hat Korea
 
 [Red Hat Korea][yu-redhatkorea2558]
@@ -1525,7 +1437,6 @@ vCG5_nxm2G4
 [yu-vaadinofficial]: https://www.youtube.com/@vaadinofficial
 [yu-v-jug]: https://www.youtube.com/@virtualJUG
 [yu-docker]: https://www.youtube.com/@DockerIo
-[yu-dotnet]: https://www.youtube.com/@dotnet
 [yu-ios-conf-sg]: https://www.youtube.com/@iOSConfSG
 [yu-mongo-db]: https://www.youtube.com/@MongoDB
 [yu-redis]: https://www.youtube.com/@Redisinc

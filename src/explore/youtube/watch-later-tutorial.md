@@ -13,384 +13,299 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ---
 
-## FreeCodeCamp
+## FreeCodeCamp.org
 
-[FreeCodeCamp.org][yu-freecodecamp]
+[![FreeCodeCamp.org](https://yt3.googleusercontent.com/ytc/AGIKgqMl9TL4OpwS8Zc5jHrNnfO01f_Wbovye9mQzfp36Q=s176-c-k-c0x00ffffff-no-rj =x150)][yu-freecodecamp]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=EExSSotojVI"><img width="140px" height="auto" alt="thumb-EExSSotojVI" src="https://i.ytimg.com/vi/EExSSotojVI/hqdefault.jpg"/></a> | [Learn Kotlin Programming – Full Course for Beginners](https://www.youtube.com/watch?v=EExSSotojVI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hmkF77F9TLw"><img width="140px" height="auto" alt="thumb-hmkF77F9TLw" src="https://i.ytimg.com/vi/hmkF77F9TLw/hqdefault.jpg"/></a> | [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7f50sQYjNRA"><img width="140px" height="auto" alt="thumb-7f50sQYjNRA" src="https://i.ytimg.com/vi/7f50sQYjNRA/hqdefault.jpg"/></a> | [MATLAB Crash Course for Beginners](https://www.youtube.com/watch?v=7f50sQYjNRA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8Xg7E9shq0U"><img width="140px" height="auto" alt="thumb-8Xg7E9shq0U" src="https://i.ytimg.com/vi/8Xg7E9shq0U/hqdefault.jpg"/></a> | [Swift Programming Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=8Xg7E9shq0U) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=C2DBDZKkLss"><img width="140px" height="auto" alt="thumb-C2DBDZKkLss" src="https://i.ytimg.com/vi/C2DBDZKkLss/hqdefault.jpg"/></a> | [Build and Publish an Android App - Full Course with Kotlin](https://www.youtube.com/watch?v=C2DBDZKkLss) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nTeuhbP7wdE"><img width="140px" height="auto" alt="thumb-nTeuhbP7wdE" src="https://i.ytimg.com/vi/nTeuhbP7wdE/hqdefault.jpg"/></a> | [React JS Course for Beginners - 2021 Tutorial](https://www.youtube.com/watch?v=nTeuhbP7wdE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ER8oKX5myE0"><img width="140px" height="auto" alt="thumb-ER8oKX5myE0" src="https://i.ytimg.com/vi/ER8oKX5myE0/hqdefault.jpg"/></a> | [MySQL Database - Full Course](https://www.youtube.com/watch?v=ER8oKX5myE0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IJDJ0kBx2LM"><img width="140px" height="auto" alt="thumb-IJDJ0kBx2LM" src="https://i.ytimg.com/vi/IJDJ0kBx2LM/hqdefault.jpg"/></a> | [Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4xuBT3BbsYU"><img width="140px" height="auto" alt="thumb-4xuBT3BbsYU" src="https://i.ytimg.com/vi/4xuBT3BbsYU/hqdefault.jpg"/></a> | [Build Your Own SaaS - PagerDuty Clone. You'll Learn PostgreSQL + Stripe API + Twilio + SMTP](https://www.youtube.com/watch?v=4xuBT3BbsYU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F6P0hve2clE"><img width="140px" height="auto" alt="thumb-F6P0hve2clE" src="https://i.ytimg.com/vi/F6P0hve2clE/hqdefault.jpg"/></a> | [Flutter Course – Build Full Stack Google Docs Clone](https://www.youtube.com/watch?v=F6P0hve2clE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=f4idgaq2VqA"><img width="140px" height="auto" alt="thumb-f4idgaq2VqA" src="https://i.ytimg.com/vi/f4idgaq2VqA/hqdefault.jpg"/></a> | [Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://www.youtube.com/watch?v=f4idgaq2VqA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=A74TOX803D0"><img width="140px" height="auto" alt="thumb-A74TOX803D0" src="https://i.ytimg.com/vi/A74TOX803D0/hqdefault.jpg"/></a> | [Java Programming for Beginners – Full Course](https://www.youtube.com/watch?v=A74TOX803D0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=u6gSSpfsoOQ"><img width="140px" height="auto" alt="thumb-u6gSSpfsoOQ" src="https://i.ytimg.com/vi/u6gSSpfsoOQ/hqdefault.jpg"/></a> | [React JavaScript Framework for Beginners – Project-Based Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pdy3nh1tn6I"><img width="140px" height="auto" alt="thumb-pdy3nh1tn6I" src="https://i.ytimg.com/vi/pdy3nh1tn6I/hqdefault.jpg"/></a> | [20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jZx8PMQjobk"><img width="140px" height="auto" alt="thumb-jZx8PMQjobk" src="https://i.ytimg.com/vi/jZx8PMQjobk/hqdefault.jpg"/></a> | [Azure Developer Associate (AZ-204) — Full Course Pass the Exam!](https://www.youtube.com/watch?v=jZx8PMQjobk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=R9apl6B_ZgI"><img width="140px" height="auto" alt="thumb-R9apl6B_ZgI" src="https://i.ytimg.com/vi/R9apl6B_ZgI/hqdefault.jpg"/></a> | [Stardew Valley Game Clone with Python and Pygame – Full Course](https://www.youtube.com/watch?v=R9apl6B_ZgI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=SR5GxoFhIAU"><img width="140px" height="auto" alt="thumb-SR5GxoFhIAU" src="https://i.ytimg.com/vi/SR5GxoFhIAU/hqdefault.jpg"/></a> | [HTML / CSS Tutorial – Create an Order Summary Component](https://www.youtube.com/watch?v=SR5GxoFhIAU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xO17P9LVkK0"><img width="140px" height="auto" alt="thumb-xO17P9LVkK0" src="https://i.ytimg.com/vi/xO17P9LVkK0/hqdefault.jpg"/></a> | [Blazor Server App with .NET 6 and Syncfusion UI Components – Full Course](https://www.youtube.com/watch?v=xO17P9LVkK0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PmDJIooZjBE"><img width="140px" height="auto" alt="thumb-PmDJIooZjBE" src="https://i.ytimg.com/vi/PmDJIooZjBE/hqdefault.jpg"/></a> | [Industry Level REST API using .NET 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=PmDJIooZjBE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GFO_txvwK_c"><img width="140px" height="auto" alt="thumb-GFO_txvwK_c" src="https://i.ytimg.com/vi/GFO_txvwK_c/hqdefault.jpg"/></a> | [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Reny0cTTv24"><img width="140px" height="auto" alt="thumb-Reny0cTTv24" src="https://i.ytimg.com/vi/Reny0cTTv24/hqdefault.jpg"/></a> | [React JS Tutorial – Build a Weather App With Cities Autocomplete](https://www.youtube.com/watch?v=Reny0cTTv24) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_gWfFEuert8"><img width="140px" height="auto" alt="thumb-_gWfFEuert8" src="https://i.ytimg.com/vi/_gWfFEuert8/hqdefault.jpg"/></a> | [OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)](https://www.youtube.com/watch?v=_gWfFEuert8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bC7o8P_Ste4"><img width="140px" height="auto" alt="thumb-bC7o8P_Ste4" src="https://i.ytimg.com/vi/bC7o8P_Ste4/hqdefault.jpg"/></a> | [Greedy Algorithms Tutorial – Solve Coding Challenges](https://www.youtube.com/watch?v=bC7o8P_Ste4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cT_ZYrS3tKc"><img width="140px" height="auto" alt="thumb-cT_ZYrS3tKc" src="https://i.ytimg.com/vi/cT_ZYrS3tKc/hqdefault.jpg"/></a> | [Build a Shopping Cart with JavaScript – Project Tutorial](https://www.youtube.com/watch?v=cT_ZYrS3tKc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hmkF77F9TLw"><img width="140px" height="auto" alt="thumb-hmkF77F9TLw" src="https://i.ytimg.com/vi/hmkF77F9TLw/hqdefault.jpg"/></a> | [Microservice Architecture and System Design with Python &amp; Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=m8Icp_Cid5o"><img width="140px" height="auto" alt="thumb-m8Icp_Cid5o" src="https://i.ytimg.com/vi/m8Icp_Cid5o/hqdefault.jpg"/></a> | [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EExSSotojVI"><img width="140px" height="auto" alt="thumb-EExSSotojVI" src="https://i.ytimg.com/vi/EExSSotojVI/hqdefault.jpg"/></a> | [Learn Kotlin Programming – Full Course for Beginners](https://www.youtube.com/watch?v=EExSSotojVI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=d6WC5n9G_sM"><img width="140px" height="auto" alt="thumb-d6WC5n9G_sM" src="https://i.ytimg.com/vi/d6WC5n9G_sM/hqdefault.jpg"/></a> | [Kubernetes Course - Full Beginners Tutorial \(Containerize Your Apps!\)](https://www.youtube.com/watch?v=d6WC5n9G_sM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WNvxR8RFzBg"><img width="140px" height="auto" alt="thumb-WNvxR8RFzBg" src="https://i.ytimg.com/vi/WNvxR8RFzBg/hqdefault.jpg"/></a> | [Python for Web Development – Crash Course \[API, SQL Databases, Virtual Environment, Flask, Django\]](https://www.youtube.com/watch?v=WNvxR8RFzBg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BUjdnxgBgzM"><img width="140px" height="auto" alt="thumb-BUjdnxgBgzM" src="https://i.ytimg.com/vi/BUjdnxgBgzM/hqdefault.jpg"/></a> | [Music Production with FL Studio – Full Tutorial for Beginners](https://www.youtube.com/watch?v=BUjdnxgBgzM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4RKuyp_bOhY"><img width="140px" height="auto" alt="thumb-4RKuyp_bOhY" src="https://i.ytimg.com/vi/4RKuyp_bOhY/hqdefault.jpg"/></a> | [React with .NET Web API – Basic App Tutorial](https://www.youtube.com/watch?v=4RKuyp_bOhY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8hly31xKli0"><img width="140px" height="auto" alt="thumb-8hly31xKli0" src="https://i.ytimg.com/vi/8hly31xKli0/hqdefault.jpg"/></a> | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8mAITcNt710"><img width="140px" height="auto" alt="thumb-8mAITcNt710" src="https://i.ytimg.com/vi/8mAITcNt710/hqdefault.jpg"/></a> | [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=j5Zsa_eOXeY"><img width="140px" height="auto" alt="thumb-j5Zsa_eOXeY" src="https://i.ytimg.com/vi/j5Zsa_eOXeY/hqdefault.jpg"/></a> | [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RZ4p-saaQkc"><img width="140px" height="auto" alt="thumb-RZ4p-saaQkc" src="https://i.ytimg.com/vi/RZ4p-saaQkc/hqdefault.jpg"/></a> | [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KjY94sAKLlw"><img width="140px" height="auto" alt="thumb-KjY94sAKLlw" src="https://i.ytimg.com/vi/KjY94sAKLlw/hqdefault.jpg"/></a> | [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch](https://www.youtube.com/watch?v=KjY94sAKLlw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ylJz7N-dv1E"><img width="140px" height="auto" alt="thumb-ylJz7N-dv1E" src="https://i.ytimg.com/vi/ylJz7N-dv1E/hqdefault.jpg"/></a> | [Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone \[Full Course\]](https://www.youtube.com/watch?v=ylJz7N-dv1E) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HFWQdGn5DaU"><img width="140px" height="auto" alt="thumb-HFWQdGn5DaU" src="https://i.ytimg.com/vi/HFWQdGn5DaU/hqdefault.jpg"/></a> | [Visual Basic \(VB.NET\) – Full Course for Beginners](https://www.youtube.com/watch?v=HFWQdGn5DaU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sHuuo9L3e5c"><img width="140px" height="auto" alt="thumb-sHuuo9L3e5c" src="https://i.ytimg.com/vi/sHuuo9L3e5c/hqdefault.jpg"/></a> | [Blazor WebAssembly &amp; Web API on .NET 6 – Full Course \(C#\)](https://www.youtube.com/watch?v=sHuuo9L3e5c) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gfmRrPjnEw4"><img width="140px" height="auto" alt="thumb-gfmRrPjnEw4" src="https://i.ytimg.com/vi/gfmRrPjnEw4/hqdefault.jpg"/></a> | [Assembly Language Programming with ARM – Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jS4aFq5-91M"><img width="140px" height="auto" alt="thumb-jS4aFq5-91M" src="https://i.ytimg.com/vi/jS4aFq5-91M/hqdefault.jpg"/></a> | [JavaScript Programming - Full Course](https://www.youtube.com/watch?v=jS4aFq5-91M) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OwZHNH8EfSU"><img width="140px" height="auto" alt="thumb-OwZHNH8EfSU" src="https://i.ytimg.com/vi/OwZHNH8EfSU/hqdefault.jpg"/></a> | [Azure AI Fundamentals Certification \(AI-900\) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=OwZHNH8EfSU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iJKCj8uAHz8"><img width="140px" height="auto" alt="thumb-iJKCj8uAHz8" src="https://i.ytimg.com/vi/iJKCj8uAHz8/hqdefault.jpg"/></a> | [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1WmNXEVia8I"><img width="140px" height="auto" alt="thumb-1WmNXEVia8I" src="https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault.jpg"/></a> | [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4OaHB0JbJDI"><img width="140px" height="auto" alt="thumb-4OaHB0JbJDI" src="https://i.ytimg.com/vi/4OaHB0JbJDI/hqdefault.jpg"/></a> | [🎮 Easy JavaScript Game Development with Kaboom.js \(Mario, Zelda, and Space Invaders\) - Full Course](https://www.youtube.com/watch?v=4OaHB0JbJDI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=i_Iq4_Kd7Rc"><img width="140px" height="auto" alt="thumb-i_Iq4_Kd7Rc" src="https://i.ytimg.com/vi/i_Iq4_Kd7Rc/hqdefault.jpg"/></a> | [Learn Modern C++ by Building an Audio Plugin \(w/ JUCE Framework\) - Full Course](https://www.youtube.com/watch?v=i_Iq4_Kd7Rc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gTVpBbFWry8"><img width="140px" height="auto" alt="thumb-gTVpBbFWry8" src="https://i.ytimg.com/vi/gTVpBbFWry8/hqdefault.jpg"/></a> | [Chrome DevTools - Crash Course](https://www.youtube.com/watch?v=gTVpBbFWry8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JwSS70SZdyM"><img width="140px" height="auto" alt="thumb-JwSS70SZdyM" src="https://i.ytimg.com/vi/JwSS70SZdyM/hqdefault.jpg"/></a> | [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iXNsAYOTzgM"><img width="140px" height="auto" alt="thumb-iXNsAYOTzgM" src="https://i.ytimg.com/vi/iXNsAYOTzgM/hqdefault.jpg"/></a> | [OpenCV Tutorial - Develop Computer Vision Apps in the Cloud With Python](https://www.youtube.com/watch?v=iXNsAYOTzgM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=10PbGbTUSAg"><img width="140px" height="auto" alt="thumb-10PbGbTUSAg" src="https://i.ytimg.com/vi/10PbGbTUSAg/hqdefault.jpg"/></a> | [Azure Administrator Certification \(AZ-104\) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9zUHg7xjIqQ"><img width="140px" height="auto" alt="thumb-9zUHg7xjIqQ" src="https://i.ytimg.com/vi/9zUHg7xjIqQ/hqdefault.jpg"/></a> | [Learn Docker - DevOps with Node.js &amp; Express](https://www.youtube.com/watch?v=9zUHg7xjIqQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=idDu_jXqf4E"><img width="140px" height="auto" alt="thumb-idDu_jXqf4E" src="https://i.ytimg.com/vi/idDu_jXqf4E/hqdefault.jpg"/></a> | [Introduction to Tracing : OpenTelemetry &amp; Opentracing](https://www.youtube.com/watch?v=idDu_jXqf4E) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mrHNSanmqQ4"><img width="140px" height="auto" alt="thumb-mrHNSanmqQ4" src="https://i.ytimg.com/vi/mrHNSanmqQ4/hqdefault.jpg"/></a> | [MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm](https://www.youtube.com/watch?v=mrHNSanmqQ4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0B5eIE_1vpU"><img width="140px" height="auto" alt="thumb-0B5eIE_1vpU" src="https://i.ytimg.com/vi/0B5eIE_1vpU/hqdefault.jpg"/></a> | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F-sFp_AvHc8"><img width="140px" height="auto" alt="thumb-F-sFp_AvHc8" src="https://i.ytimg.com/vi/F-sFp_AvHc8/hqdefault.jpg"/></a> | [User Authentication in Web Apps \(Passport.js, Node, Express\)](https://www.youtube.com/watch?v=F-sFp_AvHc8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Yg5zkd9nm6w"><img width="140px" height="auto" alt="thumb-Yg5zkd9nm6w" src="https://i.ytimg.com/vi/Yg5zkd9nm6w/hqdefault.jpg"/></a> | [E-commerce Website With Django and Vue Tutorial \(Django Rest Framework\)](https://www.youtube.com/watch?v=Yg5zkd9nm6w) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bRlvGoWz6Ig"><img width="140px" height="auto" alt="thumb-bRlvGoWz6Ig" src="https://i.ytimg.com/vi/bRlvGoWz6Ig/hqdefault.jpg"/></a> | [JavaScript Snake Game Tutorial Using Functional Programming](https://www.youtube.com/watch?v=bRlvGoWz6Ig) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RJ2kwpzX8so"><img width="140px" height="auto" alt="thumb-RJ2kwpzX8so" src="https://i.ytimg.com/vi/RJ2kwpzX8so/hqdefault.jpg"/></a> | [Web App Testing with WebdriverIO - Crash Course](https://www.youtube.com/watch?v=RJ2kwpzX8so) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Oe421EPjeBE"><img width="140px" height="auto" alt="thumb-Oe421EPjeBE" src="https://i.ytimg.com/vi/Oe421EPjeBE/hqdefault.jpg"/></a> | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WMy3OzvBWc0"><img width="140px" height="auto" alt="thumb-WMy3OzvBWc0" src="https://i.ytimg.com/vi/WMy3OzvBWc0/hqdefault.jpg"/></a> | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DiwS9VTMFv0"><img width="140px" height="auto" alt="thumb-DiwS9VTMFv0" src="https://i.ytimg.com/vi/DiwS9VTMFv0/hqdefault.jpg"/></a> | [Serverless Functions Course - Create a Serverless API](https://www.youtube.com/watch?v=DiwS9VTMFv0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2LhoCfjm8R4"><img width="140px" height="auto" alt="thumb-2LhoCfjm8R4" src="https://i.ytimg.com/vi/2LhoCfjm8R4/hqdefault.jpg"/></a> | [Data Visualization with D3, JavaScript, React - Full Course \[2021\]](https://www.youtube.com/watch?v=2LhoCfjm8R4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4gMDR69DB6A"><img width="140px" height="auto" alt="thumb-4gMDR69DB6A" src="https://i.ytimg.com/vi/4gMDR69DB6A/hqdefault.jpg"/></a> | [Build a Robinhood-Style Android App to Track COVID-19 Cases - Kotlin Tutorial](https://www.youtube.com/watch?v=4gMDR69DB6A) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aoQ6S1a32j8"><img width="140px" height="auto" alt="thumb-aoQ6S1a32j8" src="https://i.ytimg.com/vi/aoQ6S1a32j8/hqdefault.jpg"/></a> | [How to Make a Landing Page using HTML, SCSS, and JavaScript - Full Course](https://www.youtube.com/watch?v=aoQ6S1a32j8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zuegQmMdy8M"><img width="140px" height="auto" alt="thumb-zuegQmMdy8M" src="https://i.ytimg.com/vi/zuegQmMdy8M/hqdefault.jpg"/></a> | [Pointers in C / C++ \[Full Course\]](https://www.youtube.com/watch?v=zuegQmMdy8M) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fmyvWz5TUWg"><img width="140px" height="auto" alt="thumb-fmyvWz5TUWg" src="https://i.ytimg.com/vi/fmyvWz5TUWg/hqdefault.jpg"/></a> | [Learn Ruby on Rails - Full Course](https://www.youtube.com/watch?v=fmyvWz5TUWg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1hPgQWbWmEk"><img width="140px" height="auto" alt="thumb-1hPgQWbWmEk" src="https://i.ytimg.com/vi/1hPgQWbWmEk/hqdefault.jpg"/></a> | [Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course](https://www.youtube.com/watch?v=1hPgQWbWmEk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0iB5IPoTDts"><img width="140px" height="auto" alt="thumb-0iB5IPoTDts" src="https://i.ytimg.com/vi/0iB5IPoTDts/hqdefault.jpg"/></a> | [Python Microservices Web App \(with React, Django, Flask\) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oBt53YbR9Kk"><img width="140px" height="auto" alt="thumb-oBt53YbR9Kk" src="https://i.ytimg.com/vi/oBt53YbR9Kk/hqdefault.jpg"/></a> | [Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8ext9G7xspg"><img width="140px" height="auto" alt="thumb-8ext9G7xspg" src="https://i.ytimg.com/vi/8ext9G7xspg/hqdefault.jpg"/></a> | [12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Qn5DDQn0fx0"><img width="140px" height="auto" alt="thumb-Qn5DDQn0fx0" src="https://i.ytimg.com/vi/Qn5DDQn0fx0/hqdefault.jpg"/></a> | [Training Deep Neural Networks on a GPU \| Deep Learning with PyTorch: Zero to GANs \| Part 3 of 6](https://www.youtube.com/watch?v=Qn5DDQn0fx0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Z63TxAJotgQ"><img width="140px" height="auto" alt="thumb-Z63TxAJotgQ" src="https://i.ytimg.com/vi/Z63TxAJotgQ/hqdefault.jpg"/></a> | [How to Find Freelance Jobs](https://www.youtube.com/watch?v=Z63TxAJotgQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uuuzvOEC0zw"><img width="140px" height="auto" alt="thumb-uuuzvOEC0zw" src="https://i.ytimg.com/vi/uuuzvOEC0zw/hqdefault.jpg"/></a> | [PyTorch Images and Logistic Regression \| Deep Learning with PyTorch: Zero to GANs \| Part 2 of 6](https://www.youtube.com/watch?v=uuuzvOEC0zw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F5mRW0jo-U4"><img width="140px" height="auto" alt="thumb-F5mRW0jo-U4" src="https://i.ytimg.com/vi/F5mRW0jo-U4/hqdefault.jpg"/></a> | [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BfEjDD8mWYg"><img width="140px" height="auto" alt="thumb-BfEjDD8mWYg" src="https://i.ytimg.com/vi/BfEjDD8mWYg/hqdefault.jpg"/></a> | [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UTQp6mvhb0Y"><img width="140px" height="auto" alt="thumb-UTQp6mvhb0Y" src="https://i.ytimg.com/vi/UTQp6mvhb0Y/hqdefault.jpg"/></a> | [Visual Studio Code Full Course - VS Code for Beginners](https://www.youtube.com/watch?v=UTQp6mvhb0Y) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oXlwWbU8l2o"><img width="140px" height="auto" alt="thumb-oXlwWbU8l2o" src="https://i.ytimg.com/vi/oXlwWbU8l2o/hqdefault.jpg"/></a> | [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Bo0guUbL5uo"><img width="140px" height="auto" alt="thumb-Bo0guUbL5uo" src="https://i.ytimg.com/vi/Bo0guUbL5uo/hqdefault.jpg"/></a> | [Symfony PHP Framework Tutorial - Full Course](https://www.youtube.com/watch?v=Bo0guUbL5uo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Vl0H-qTclOg"><img width="140px" height="auto" alt="thumb-Vl0H-qTclOg" src="https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault.jpg"/></a> | [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo"><img width="140px" height="auto" alt="thumb-a_7Z7C_JCyo" src="https://i.ytimg.com/vi/a_7Z7C_JCyo/hqdefault.jpg"/></a> | [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fi2WkznwWbc"><img width="140px" height="auto" alt="thumb-fi2WkznwWbc" src="https://i.ytimg.com/vi/fi2WkznwWbc/hqdefault.jpg"/></a> | [Flutter App with Firebase Authentication and Firestore Tutorial - Crypto Wallet](https://www.youtube.com/watch?v=fi2WkznwWbc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=732DROaJMQc"><img width="140px" height="auto" alt="thumb-732DROaJMQc" src="https://i.ytimg.com/vi/732DROaJMQc/hqdefault.jpg"/></a> | [Refactoring Messy to Testable Code in .NET \(Part 5 - Magic Strings\)](https://www.youtube.com/watch?v=732DROaJMQc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=312RhjfetP8"><img width="140px" height="auto" alt="thumb-312RhjfetP8" src="https://i.ytimg.com/vi/312RhjfetP8/hqdefault.jpg"/></a> | [SQLite Database for Android - Full Course](https://www.youtube.com/watch?v=312RhjfetP8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6ERdu4k62wI"><img width="140px" height="auto" alt="thumb-6ERdu4k62wI" src="https://i.ytimg.com/vi/6ERdu4k62wI/hqdefault.jpg"/></a> | [Use PHP to Create an MVC Framework - Full Course](https://www.youtube.com/watch?v=6ERdu4k62wI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0oyCUWLL_fU"><img width="140px" height="auto" alt="thumb-0oyCUWLL_fU" src="https://i.ytimg.com/vi/0oyCUWLL_fU/hqdefault.jpg"/></a> | [Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard](https://www.youtube.com/watch?v=0oyCUWLL_fU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=n1mdAPFq2Os"><img width="140px" height="auto" alt="thumb-n1mdAPFq2Os" src="https://i.ytimg.com/vi/n1mdAPFq2Os/hqdefault.jpg"/></a> | [React / GraphQL Course - Build a social media app \(MERNG Stack\)](https://www.youtube.com/watch?v=n1mdAPFq2Os) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xVA-gUk8-aM"><img width="140px" height="auto" alt="thumb-xVA-gUk8-aM" src="https://i.ytimg.com/vi/xVA-gUk8-aM/hqdefault.jpg"/></a> | [Reviewing Your Website Designs Live - with Gary Simon](https://www.youtube.com/watch?v=xVA-gUk8-aM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=yzeVMecydCE"><img width="140px" height="auto" alt="thumb-yzeVMecydCE" src="https://i.ytimg.com/vi/yzeVMecydCE/hqdefault.jpg"/></a> | [Complete Guide to Open Source - How to Contribute](https://www.youtube.com/watch?v=yzeVMecydCE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4UZrsTqkcW4"><img width="140px" height="auto" alt="thumb-4UZrsTqkcW4" src="https://i.ytimg.com/vi/4UZrsTqkcW4/hqdefault.jpg"/></a> | [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3hLmDS179YE"><img width="140px" height="auto" alt="thumb-3hLmDS179YE" src="https://i.ytimg.com/vi/3hLmDS179YE/hqdefault.jpg"/></a> | [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aiTTClKJbnw"><img width="140px" height="auto" alt="thumb-aiTTClKJbnw" src="https://i.ytimg.com/vi/aiTTClKJbnw/hqdefault.jpg"/></a> | [Flutter Tutorial - Building a Production App From Scratch](https://www.youtube.com/watch?v=aiTTClKJbnw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pN92rnO_n5U"><img width="140px" height="auto" alt="thumb-pN92rnO_n5U" src="https://i.ytimg.com/vi/pN92rnO_n5U/hqdefault.jpg"/></a> | [How to Design a Website – A UX Wireframe Tutorial](https://www.youtube.com/watch?v=pN92rnO_n5U) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4G_BzLxa9Nw"><img width="140px" height="auto" alt="thumb-4G_BzLxa9Nw" src="https://i.ytimg.com/vi/4G_BzLxa9Nw/hqdefault.jpg"/></a> | [Blazor Course - Use ASP.NET Core to Build Full-Stack C# Web Apps](https://www.youtube.com/watch?v=4G_BzLxa9Nw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2_lswM1S264"><img width="140px" height="auto" alt="thumb-2_lswM1S264" src="https://i.ytimg.com/vi/2_lswM1S264/hqdefault.jpg"/></a> | [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Pi46L7UYP8I"><img width="140px" height="auto" alt="thumb-Pi46L7UYP8I" src="https://i.ytimg.com/vi/Pi46L7UYP8I/hqdefault.jpg"/></a> | [ASP.NET Core MVC Course \(.NET 5\)](https://www.youtube.com/watch?v=Pi46L7UYP8I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=J01rYl9T3BU"><img width="140px" height="auto" alt="thumb-J01rYl9T3BU" src="https://i.ytimg.com/vi/J01rYl9T3BU/hqdefault.jpg"/></a> | [PERN Stack Course - Build a Yelp clone \(Postgres, Express, React, Node.js\)](https://www.youtube.com/watch?v=J01rYl9T3BU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ztHopE5Wnpc"><img width="140px" height="auto" alt="thumb-ztHopE5Wnpc" src="https://i.ytimg.com/vi/ztHopE5Wnpc/hqdefault.jpg"/></a> | [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FGdiSJakIS4"><img width="140px" height="auto" alt="thumb-FGdiSJakIS4" src="https://i.ytimg.com/vi/FGdiSJakIS4/hqdefault.jpg"/></a> | [Network Programming with Python Course \(build a port scanner, mailing client, chat room, DDOS\)](https://www.youtube.com/watch?v=FGdiSJakIS4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GhQdlIFylQ8"><img width="140px" height="auto" alt="thumb-GhQdlIFylQ8" src="https://i.ytimg.com/vi/GhQdlIFylQ8/hqdefault.jpg"/></a> | [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=btadke62pgQ"><img width="140px" height="auto" alt="thumb-btadke62pgQ" src="https://i.ytimg.com/vi/btadke62pgQ/hqdefault.jpg"/></a> | [Live Coding Project: Create an Hour Tracking App using Vue.js \(Part 2\) - with Gwen Faraday](https://www.youtube.com/watch?v=btadke62pgQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tPYj3fFJGjk"><img width="140px" height="auto" alt="thumb-tPYj3fFJGjk" src="https://i.ytimg.com/vi/tPYj3fFJGjk/hqdefault.jpg"/></a> | [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=JgwI22y_eFA"><img width="140px" height="auto" alt="thumb-JgwI22y_eFA" src="https://i.ytimg.com/vi/JgwI22y_eFA/hqdefault.jpg"/></a> | [Build an Online Store Using AWS, React, and Stripe](https://www.youtube.com/watch?v=JgwI22y_eFA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5VUjP1wMqoE"><img width="140px" height="auto" alt="thumb-5VUjP1wMqoE" src="https://i.ytimg.com/vi/5VUjP1wMqoE/hqdefault.jpg"/></a> | [Spring Boot Java Tutorial - REST API using PostgreSQL and JWT](https://www.youtube.com/watch?v=5VUjP1wMqoE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4UuMrebbwIo"><img width="140px" height="auto" alt="thumb-4UuMrebbwIo" src="https://i.ytimg.com/vi/4UuMrebbwIo/hqdefault.jpg"/></a> | [Python For Loops, Functions, and Random - Python Basics with Sam](https://www.youtube.com/watch?v=4UuMrebbwIo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F2JCjVSZlG0"><img width="140px" height="auto" alt="thumb-F2JCjVSZlG0" src="https://i.ytimg.com/vi/F2JCjVSZlG0/hqdefault.jpg"/></a> | [React / Typescript Tutorial - Build a Quiz App](https://www.youtube.com/watch?v=F2JCjVSZlG0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0b5T7wYDV5o"><img width="140px" height="auto" alt="thumb-0b5T7wYDV5o" src="https://i.ytimg.com/vi/0b5T7wYDV5o/hqdefault.jpg"/></a> | [Live Coding Project: Create a Drum Machine using Vue.js - with Gwen Faraday](https://www.youtube.com/watch?v=0b5T7wYDV5o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qH9mWpYMtYU"><img width="140px" height="auto" alt="thumb-qH9mWpYMtYU" src="https://i.ytimg.com/vi/qH9mWpYMtYU/hqdefault.jpg"/></a> | [Build a Java Desktop Application - Full Course \(Sudoku\)](https://www.youtube.com/watch?v=qH9mWpYMtYU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=TQUy8ENesGY"><img width="140px" height="auto" alt="thumb-TQUy8ENesGY" src="https://i.ytimg.com/vi/TQUy8ENesGY/hqdefault.jpg"/></a> | [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qFJeN9V1ZsI"><img width="140px" height="auto" alt="thumb-qFJeN9V1ZsI" src="https://i.ytimg.com/vi/qFJeN9V1ZsI/hqdefault.jpg"/></a> | [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Wvf0mBNGjXY"><img width="140px" height="auto" alt="thumb-Wvf0mBNGjXY" src="https://i.ytimg.com/vi/Wvf0mBNGjXY/hqdefault.jpg"/></a> | [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4"><img width="140px" height="auto" alt="thumb-3PHXvlpOkf4" src="https://i.ytimg.com/vi/3PHXvlpOkf4/hqdefault.jpg"/></a> | [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wEVjaXK4sYQ"><img width="140px" height="auto" alt="thumb-wEVjaXK4sYQ" src="https://i.ytimg.com/vi/wEVjaXK4sYQ/hqdefault.jpg"/></a> | [Learn React Native Gestures and Animations - Tutorial](https://www.youtube.com/watch?v=wEVjaXK4sYQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U_EhnbpWhUQ"><img width="140px" height="auto" alt="thumb-U_EhnbpWhUQ" src="https://i.ytimg.com/vi/U_EhnbpWhUQ/hqdefault.jpg"/></a> | [License To Pentest: Ethical Hacking Course For Beginners](https://www.youtube.com/watch?v=U_EhnbpWhUQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ujbE0mzX-CU"><img width="140px" height="auto" alt="thumb-ujbE0mzX-CU" src="https://i.ytimg.com/vi/ujbE0mzX-CU/hqdefault.jpg"/></a> | [Learn the Svelte JavaScript Framework - Full Course](https://www.youtube.com/watch?v=ujbE0mzX-CU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RGOj5yH7evk"><img width="140px" height="auto" alt="thumb-RGOj5yH7evk" src="https://i.ytimg.com/vi/RGOj5yH7evk/hqdefault.jpg"/></a> | [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fis26HvvDII"><img width="140px" height="auto" alt="thumb-fis26HvvDII" src="https://i.ytimg.com/vi/fis26HvvDII/hqdefault.jpg"/></a> | [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=X4eRbHgRawI"><img width="140px" height="auto" alt="thumb-X4eRbHgRawI" src="https://i.ytimg.com/vi/X4eRbHgRawI/hqdefault.jpg"/></a> | [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DKlTBBuc32c"><img width="140px" height="auto" alt="thumb-DKlTBBuc32c" src="https://i.ytimg.com/vi/DKlTBBuc32c/hqdefault.jpg"/></a> | [Spring Boot and Angular Tutorial - Build a Reddit Clone \(Coding Project\)](https://www.youtube.com/watch?v=DKlTBBuc32c) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nN05TQ8vew8"><img width="140px" height="auto" alt="thumb-nN05TQ8vew8" src="https://i.ytimg.com/vi/nN05TQ8vew8/hqdefault.jpg"/></a> | [Project Euler Challenges 5–12 - Coding Challenges with Florin](https://www.youtube.com/watch?v=nN05TQ8vew8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=byHcYRpMgI4"><img width="140px" height="auto" alt="thumb-byHcYRpMgI4" src="https://i.ytimg.com/vi/byHcYRpMgI4/hqdefault.jpg"/></a> | [SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3Xc3CA655Y4"><img width="140px" height="auto" alt="thumb-3Xc3CA655Y4" src="https://i.ytimg.com/vi/3Xc3CA655Y4/hqdefault.jpg"/></a> | [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WjUdCdfJSMs"><img width="140px" height="auto" alt="thumb-WjUdCdfJSMs" src="https://i.ytimg.com/vi/WjUdCdfJSMs/hqdefault.jpg"/></a> | [Project Euler Challenges 1–4 - Coding Challenges with Florin](https://www.youtube.com/watch?v=WjUdCdfJSMs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2X6CXFcsktM"><img width="140px" height="auto" alt="thumb-2X6CXFcsktM" src="https://i.ytimg.com/vi/2X6CXFcsktM/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native \(Part 8\) - Live Coding with Jesse](https://www.youtube.com/watch?v=2X6CXFcsktM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lhNdUVh3qCc"><img width="140px" height="auto" alt="thumb-lhNdUVh3qCc" src="https://i.ytimg.com/vi/lhNdUVh3qCc/hqdefault.jpg"/></a> | [Learn JavaScript by Building 7 Games - Full Course](https://www.youtube.com/watch?v=lhNdUVh3qCc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EUn-uAXAAF8"><img width="140px" height="auto" alt="thumb-EUn-uAXAAF8" src="https://i.ytimg.com/vi/EUn-uAXAAF8/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native \(Part 5\) - Live Coding with Jesse](https://www.youtube.com/watch?v=EUn-uAXAAF8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AwgRyJP7LHY"><img width="140px" height="auto" alt="thumb-AwgRyJP7LHY" src="https://i.ytimg.com/vi/AwgRyJP7LHY/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native \(Part 3\) - Live Coding with Jesse](https://www.youtube.com/watch?v=AwgRyJP7LHY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rPSL1alFIjI"><img width="140px" height="auto" alt="thumb-rPSL1alFIjI" src="https://i.ytimg.com/vi/rPSL1alFIjI/hqdefault.jpg"/></a> | [Functional Programming in Java - Full Course](https://www.youtube.com/watch?v=rPSL1alFIjI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_xkSvufmjEs"><img width="140px" height="auto" alt="thumb-_xkSvufmjEs" src="https://i.ytimg.com/vi/_xkSvufmjEs/hqdefault.jpg"/></a> | [Build and deploy a portfolio website \[Full Tutorial Course\]](https://www.youtube.com/watch?v=_xkSvufmjEs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iEKdtB53IXs"><img width="140px" height="auto" alt="thumb-iEKdtB53IXs" src="https://i.ytimg.com/vi/iEKdtB53IXs/hqdefault.jpg"/></a> | [Build a Brain Computer App with React Native - Live Coding with Jesse](https://www.youtube.com/watch?v=iEKdtB53IXs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=B2q5cRJvqI8"><img width="140px" height="auto" alt="thumb-B2q5cRJvqI8" src="https://i.ytimg.com/vi/B2q5cRJvqI8/hqdefault.jpg"/></a> | [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=C5cnZ-gZy2I"><img width="140px" height="auto" alt="thumb-C5cnZ-gZy2I" src="https://i.ytimg.com/vi/C5cnZ-gZy2I/hqdefault.jpg"/></a> | [Learn ASP.NET Core 3.1 - Full Course for Beginners \[Tutorial\]](https://www.youtube.com/watch?v=C5cnZ-gZy2I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=comQ1-x2a1Q"><img width="140px" height="auto" alt="thumb-comQ1-x2a1Q" src="https://i.ytimg.com/vi/comQ1-x2a1Q/hqdefault.jpg"/></a> | [Swift Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=comQ1-x2a1Q) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U3VSJhaC4kc"><img width="140px" height="auto" alt="thumb-U3VSJhaC4kc" src="https://i.ytimg.com/vi/U3VSJhaC4kc/hqdefault.jpg"/></a> | [AWS for Startups - Deploying with AWS Tutorial](https://www.youtube.com/watch?v=U3VSJhaC4kc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DLX62G4lc44"><img width="140px" height="auto" alt="thumb-DLX62G4lc44" src="https://i.ytimg.com/vi/DLX62G4lc44/hqdefault.jpg"/></a> | [Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fqMOX6JJhGo"><img width="140px" height="auto" alt="thumb-fqMOX6JJhGo" src="https://i.ytimg.com/vi/fqMOX6JJhGo/hqdefault.jpg"/></a> | [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LsNW4FPHuZE"><img width="140px" height="auto" alt="thumb-LsNW4FPHuZE" src="https://i.ytimg.com/vi/LsNW4FPHuZE/hqdefault.jpg"/></a> | [Learn Unreal Engine \(with C++\) - Full Course for Beginners](https://www.youtube.com/watch?v=LsNW4FPHuZE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lauywdXKEXI"><img width="140px" height="auto" alt="thumb-lauywdXKEXI" src="https://i.ytimg.com/vi/lauywdXKEXI/hqdefault.jpg"/></a> | [Plan, Code, and Deploy a Startup in 2 Hours \[Full Stack JavaScript Tutorial\]](https://www.youtube.com/watch?v=lauywdXKEXI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Iz08OTTjR04"><img width="140px" height="auto" alt="thumb-Iz08OTTjR04" src="https://i.ytimg.com/vi/Iz08OTTjR04/hqdefault.jpg"/></a> | [Android Development Course - Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=srvUrASNj0s"><img width="140px" height="auto" alt="thumb-srvUrASNj0s" src="https://i.ytimg.com/vi/srvUrASNj0s/hqdefault.jpg"/></a> | [Introduction To Responsive Web Design - HTML &amp; CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vtPkZShrvXQ"><img width="140px" height="auto" alt="thumb-vtPkZShrvXQ" src="https://i.ytimg.com/vi/vtPkZShrvXQ/hqdefault.jpg"/></a> | [Spring Boot Tutorial for Beginners \(Java Framework\)](https://www.youtube.com/watch?v=vtPkZShrvXQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LXJOvkVYQqA"><img width="140px" height="auto" alt="thumb-LXJOvkVYQqA" src="https://i.ytimg.com/vi/LXJOvkVYQqA/hqdefault.jpg"/></a> | [In-Depth React Tutorial: Build a Hotel Reservation Site \(with Contentful and Netlify\)](https://www.youtube.com/watch?v=LXJOvkVYQqA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3Kq1MIfTWCE"><img width="140px" height="auto" alt="thumb-3Kq1MIfTWCE" src="https://i.ytimg.com/vi/3Kq1MIfTWCE/hqdefault.jpg"/></a> | [Full Ethical Hacking Course - Network Penetration Testing for Beginners \(2019\)](https://www.youtube.com/watch?v=3Kq1MIfTWCE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4z3EMCc4bP4"><img width="140px" height="auto" alt="thumb-4z3EMCc4bP4" src="https://i.ytimg.com/vi/4z3EMCc4bP4/hqdefault.jpg"/></a> | [Learn GraphQL with Laravel and Vue.js - Full Tutorial](https://www.youtube.com/watch?v=4z3EMCc4bP4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ipwxYa-F1uY"><img width="140px" height="auto" alt="thumb-ipwxYa-F1uY" src="https://i.ytimg.com/vi/ipwxYa-F1uY/hqdefault.jpg"/></a> | [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=I250xdtUvy8"><img width="140px" height="auto" alt="thumb-I250xdtUvy8" src="https://i.ytimg.com/vi/I250xdtUvy8/hqdefault.jpg"/></a> | [Intermediate React and Firebase Tutorial - Build an Evernote Clone](https://www.youtube.com/watch?v=I250xdtUvy8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=coQ5dg8wM2o"><img width="140px" height="auto" alt="thumb-coQ5dg8wM2o" src="https://i.ytimg.com/vi/coQ5dg8wM2o/hqdefault.jpg"/></a> | [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lZAoFs75_cs"><img width="140px" height="auto" alt="thumb-lZAoFs75_cs" src="https://i.ytimg.com/vi/lZAoFs75_cs/hqdefault.jpg"/></a> | [Linux for Ethical Hackers \(Kali Linux Tutorial\)](https://www.youtube.com/watch?v=lZAoFs75_cs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_8V5o2UHG0E"><img width="140px" height="auto" alt="thumb-_8V5o2UHG0E" src="https://i.ytimg.com/vi/_8V5o2UHG0E/hqdefault.jpg"/></a> | [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=m_u6P5k0vP0"><img width="140px" height="auto" alt="thumb-m_u6P5k0vP0" src="https://i.ytimg.com/vi/m_u6P5k0vP0/hqdefault.jpg"/></a> | [Full Stack React &amp; Firebase Tutorial - Build a social media app](https://www.youtube.com/watch?v=m_u6P5k0vP0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YS4e4q9oBaU"><img width="140px" height="auto" alt="thumb-YS4e4q9oBaU" src="https://i.ytimg.com/vi/YS4e4q9oBaU/hqdefault.jpg"/></a> | [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ImtZ5yENzgE"><img width="140px" height="auto" alt="thumb-ImtZ5yENzgE" src="https://i.ytimg.com/vi/ImtZ5yENzgE/hqdefault.jpg"/></a> | [Laravel PHP Framework Tutorial - Full Course for Beginners \(2019\)](https://www.youtube.com/watch?v=ImtZ5yENzgE) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tvfeBLMA_Q4"><img width="140px" height="auto" alt="thumb-tvfeBLMA_Q4" src="https://i.ytimg.com/vi/tvfeBLMA_Q4/hqdefault.jpg"/></a> | [APIs in React Tutorial - Recipe App using React Router](https://www.youtube.com/watch?v=tvfeBLMA_Q4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZfQFUJhPqMM"><img width="140px" height="auto" alt="thumb-ZfQFUJhPqMM" src="https://i.ytimg.com/vi/ZfQFUJhPqMM/hqdefault.jpg"/></a> | [Learn Regular Expressions \(Regex\) - Crash Course for Beginners](https://www.youtube.com/watch?v=ZfQFUJhPqMM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wfWxdh-_k_4"><img width="140px" height="auto" alt="thumb-wfWxdh-_k_4" src="https://i.ytimg.com/vi/wfWxdh-_k_4/hqdefault.jpg"/></a> | [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qw--VYLpxG4"><img width="140px" height="auto" alt="thumb-qw--VYLpxG4" src="https://i.ytimg.com/vi/qw--VYLpxG4/hqdefault.jpg"/></a> | [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4deVCNJq3qc"><img width="140px" height="auto" alt="thumb-4deVCNJq3qc" src="https://i.ytimg.com/vi/4deVCNJq3qc/hqdefault.jpg"/></a> | [Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pexVpeGjoC8"><img width="140px" height="auto" alt="thumb-pexVpeGjoC8" src="https://i.ytimg.com/vi/pexVpeGjoC8/hqdefault.jpg"/></a> | [React Native Web Game Styles  \(P7D6\) - Live Coding with Jesse](https://www.youtube.com/watch?v=pexVpeGjoC8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=4yqu8YF29cU"><img width="140px" height="auto" alt="thumb-4yqu8YF29cU" src="https://i.ytimg.com/vi/4yqu8YF29cU/hqdefault.jpg"/></a> | [MongoDB Full Tutorial w/ Node.js, Express, &amp; Mongoose](https://www.youtube.com/watch?v=4yqu8YF29cU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QsmXlGCtjUk"><img width="140px" height="auto" alt="thumb-QsmXlGCtjUk" src="https://i.ytimg.com/vi/QsmXlGCtjUk/hqdefault.jpg"/></a> | [ASP.NET Core 2.0 Gallery App with Azure - Tutorial](https://www.youtube.com/watch?v=QsmXlGCtjUk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KJgsSFOSQv0"><img width="140px" height="auto" alt="thumb-KJgsSFOSQv0" src="https://i.ytimg.com/vi/KJgsSFOSQv0/hqdefault.jpg"/></a> | [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=grEKMHGYyns"><img width="140px" height="auto" alt="thumb-grEKMHGYyns" src="https://i.ytimg.com/vi/grEKMHGYyns/hqdefault.jpg"/></a> | [Learn Java 8 - Full Tutorial for Beginners](https://www.youtube.com/watch?v=grEKMHGYyns) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rfscVS0vtbw"><img width="140px" height="auto" alt="thumb-rfscVS0vtbw" src="https://i.ytimg.com/vi/rfscVS0vtbw/hqdefault.jpg"/></a> | [Learn Python - Full Course for Beginners \[Tutorial\]](https://www.youtube.com/watch?v=rfscVS0vtbw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=m1_ih43p24s"><img width="140px" height="auto" alt="thumb-m1_ih43p24s" src="https://i.ytimg.com/vi/m1_ih43p24s/hqdefault.jpg"/></a> | [Build a Calculator with Vue.js](https://www.youtube.com/watch?v=m1_ih43p24s) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3LWgbjVWLug"><img width="140px" height="auto" alt="thumb-3LWgbjVWLug" src="https://i.ytimg.com/vi/3LWgbjVWLug/hqdefault.jpg"/></a> | [WebAssembly and the Death of JavaScript](https://www.youtube.com/watch?v=3LWgbjVWLug) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY"><img width="140px" height="auto" alt="thumb-HXV3zeQKqGY" src="https://i.ytimg.com/vi/HXV3zeQKqGY/hqdefault.jpg"/></a> | [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RdRMNT-98Oo"><img width="140px" height="auto" alt="thumb-RdRMNT-98Oo" src="https://i.ytimg.com/vi/RdRMNT-98Oo/hqdefault.jpg"/></a> | [Why You Don't Need jQuery Anymore](https://www.youtube.com/watch?v=RdRMNT-98Oo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VtRLrQ3Ev-U"><img width="140px" height="auto" alt="thumb-VtRLrQ3Ev-U" src="https://i.ytimg.com/vi/VtRLrQ3Ev-U/hqdefault.jpg"/></a> | [Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial](https://www.youtube.com/watch?v=VtRLrQ3Ev-U) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zhJLVFR3pE8"><img width="140px" height="auto" alt="thumb-zhJLVFR3pE8" src="https://i.ytimg.com/vi/zhJLVFR3pE8/hqdefault.jpg"/></a> | [Code Your Own Heroku Clone with Python – Provision Infrastructure Programmatically Tutorial](https://www.youtube.com/watch?v=zhJLVFR3pE8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0n809nd4Zu4"><img width="140px" height="auto" alt="thumb-0n809nd4Zu4" src="https://i.ytimg.com/vi/0n809nd4Zu4/hqdefault.jpg"/></a> | [Build a Chrome Extension – Course for Beginners](https://www.youtube.com/watch?v=0n809nd4Zu4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8vfQ6SWBZ-U"><img width="140px" height="auto" alt="thumb-8vfQ6SWBZ-U" src="https://i.ytimg.com/vi/8vfQ6SWBZ-U/hqdefault.jpg"/></a> | [React Testing Course for Beginners – Code and Test 3 Apps](https://www.youtube.com/watch?v=8vfQ6SWBZ-U) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HvxmF0FUwrM"><img width="140px" height="auto" alt="thumb-HvxmF0FUwrM" src="https://i.ytimg.com/vi/HvxmF0FUwrM/hqdefault.jpg"/></a> | [SQL Server Performance Essentials – Full Course](https://www.youtube.com/watch?v=HvxmF0FUwrM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Rs_rAxEsAvI"><img width="140px" height="auto" alt="thumb-Rs_rAxEsAvI" src="https://i.ytimg.com/vi/Rs_rAxEsAvI/hqdefault.jpg"/></a> | [Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning](https://www.youtube.com/watch?v=Rs_rAxEsAvI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Uszj_k0DGsg"><img width="140px" height="auto" alt="thumb-Uszj_k0DGsg" src="https://i.ytimg.com/vi/Uszj_k0DGsg/hqdefault.jpg"/></a> | [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=59IXY5IDrBA"><img width="140px" height="auto" alt="thumb-59IXY5IDrBA" src="https://i.ytimg.com/vi/59IXY5IDrBA/hqdefault.jpg"/></a> | [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NQP89ish9t8"><img width="140px" height="auto" alt="thumb-NQP89ish9t8" src="https://i.ytimg.com/vi/NQP89ish9t8/hqdefault.jpg"/></a> | [How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS](https://www.youtube.com/watch?v=NQP89ish9t8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=stQ1IZEB2xk"><img width="140px" height="auto" alt="thumb-stQ1IZEB2xk" src="https://i.ytimg.com/vi/stQ1IZEB2xk/hqdefault.jpg"/></a> | [Figma Variants – Design a Scalable Mobile App [Full Course]](https://www.youtube.com/watch?v=stQ1IZEB2xk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iRaai1IBlB0"><img width="140px" height="auto" alt="thumb-iRaai1IBlB0" src="https://i.ytimg.com/vi/iRaai1IBlB0/hqdefault.jpg"/></a> | [Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners](https://www.youtube.com/watch?v=iRaai1IBlB0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PfhFnPuWums"><img width="140px" height="auto" alt="thumb-PfhFnPuWums" src="https://i.ytimg.com/vi/PfhFnPuWums/hqdefault.jpg"/></a> | [HTML / CSS Tutorial – Create a Preview Card Component](https://www.youtube.com/watch?v=PfhFnPuWums) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Cy9fAvsXGZA"><img width="140px" height="auto" alt="thumb-Cy9fAvsXGZA" src="https://i.ytimg.com/vi/Cy9fAvsXGZA/hqdefault.jpg"/></a> | [Microservices with FastAPI – Full Course](https://www.youtube.com/watch?v=Cy9fAvsXGZA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WzfDo2Wpxks"><img width="140px" height="auto" alt="thumb-WzfDo2Wpxks" src="https://i.ytimg.com/vi/WzfDo2Wpxks/hqdefault.jpg"/></a> | [Augmented Reality for Everyone - Full Course](https://www.youtube.com/watch?v=WzfDo2Wpxks) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fgdpvwEWJ9M"><img width="140px" height="auto" alt="thumb-fgdpvwEWJ9M" src="https://i.ytimg.com/vi/fgdpvwEWJ9M/hqdefault.jpg"/></a> | [Firebase – Full Course for Beginners](https://www.youtube.com/watch?v=fgdpvwEWJ9M) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=g1vy03ZY5mM"><img width="140px" height="auto" alt="thumb-g1vy03ZY5mM" src="https://i.ytimg.com/vi/g1vy03ZY5mM/hqdefault.jpg"/></a> | [Visual Studio Code Extensions to Improve Your Productivity](https://www.youtube.com/watch?v=g1vy03ZY5mM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xV7S8BhIeBo"><img width="140px" height="auto" alt="thumb-xV7S8BhIeBo" src="https://i.ytimg.com/vi/xV7S8BhIeBo/hqdefault.jpg"/></a> | [Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript](https://www.youtube.com/watch?v=xV7S8BhIeBo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KTFFdZSDiTU"><img width="140px" height="auto" alt="thumb-KTFFdZSDiTU" src="https://i.ytimg.com/vi/KTFFdZSDiTU/hqdefault.jpg"/></a> | [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8124kv-632k"><img width="140px" height="auto" alt="thumb-8124kv-632k" src="https://i.ytimg.com/vi/8124kv-632k/hqdefault.jpg"/></a> | [Python Tutorial for Beginners](https://www.youtube.com/watch?v=8124kv-632k) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GZQkwx10p-8"><img width="140px" height="auto" alt="thumb-GZQkwx10p-8" src="https://i.ytimg.com/vi/GZQkwx10p-8/hqdefault.jpg"/></a> | [Advanced OpenGL Tutorial – Skeletal Animations with Assimp](https://www.youtube.com/watch?v=GZQkwx10p-8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AplluksKvzI"><img width="140px" height="auto" alt="thumb-AplluksKvzI" src="https://i.ytimg.com/vi/AplluksKvzI/hqdefault.jpg"/></a> | [CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!](https://www.youtube.com/watch?v=AplluksKvzI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hN4Q04ODOEw"><img width="140px" height="auto" alt="thumb-hN4Q04ODOEw" src="https://i.ytimg.com/vi/hN4Q04ODOEw/hqdefault.jpg"/></a> | [Build a Live Stream Flutter App – Android & iOS Course](https://www.youtube.com/watch?v=hN4Q04ODOEw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zrs7u6bdbUw"><img width="140px" height="auto" alt="thumb-zrs7u6bdbUw" src="https://i.ytimg.com/vi/zrs7u6bdbUw/hqdefault.jpg"/></a> | [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kF0UBL1eHeQ"><img width="140px" height="auto" alt="thumb-kF0UBL1eHeQ" src="https://i.ytimg.com/vi/kF0UBL1eHeQ/hqdefault.jpg"/></a> | [eCommerce Website Tutorial - Online Store with WooComerce and WordPress](https://www.youtube.com/watch?v=kF0UBL1eHeQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PGyhBwLyK2U"><img width="140px" height="auto" alt="thumb-PGyhBwLyK2U" src="https://i.ytimg.com/vi/PGyhBwLyK2U/hqdefault.jpg"/></a> | [DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS](https://www.youtube.com/watch?v=PGyhBwLyK2U) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GPVsHOlRBBI"><img width="140px" height="auto" alt="thumb-GPVsHOlRBBI" src="https://i.ytimg.com/vi/GPVsHOlRBBI/hqdefault.jpg"/></a> | [Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CqCDOosvZIk"><img width="140px" height="auto" alt="thumb-CqCDOosvZIk" src="https://i.ytimg.com/vi/CqCDOosvZIk/hqdefault.jpg"/></a> | [.NET Microservices – Full Course for Beginners](https://www.youtube.com/watch?v=CqCDOosvZIk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VPvVD8t02U8"><img width="140px" height="auto" alt="thumb-VPvVD8t02U8" src="https://i.ytimg.com/vi/VPvVD8t02U8/hqdefault.jpg"/></a> | [Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial](https://www.youtube.com/watch?v=VPvVD8t02U8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=GHTA143_b-s"><img width="140px" height="auto" alt="thumb-GHTA143_b-s" src="https://i.ytimg.com/vi/GHTA143_b-s/hqdefault.jpg"/></a> | [NestJs Course for Beginners - Create a REST API](https://www.youtube.com/watch?v=GHTA143_b-s) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8jLOx1hD3_o"><img width="140px" height="auto" alt="thumb-8jLOx1hD3_o" src="https://i.ytimg.com/vi/8jLOx1hD3_o/hqdefault.jpg"/></a> | [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KCgYDCKqato"><img width="140px" height="auto" alt="thumb-KCgYDCKqato" src="https://i.ytimg.com/vi/KCgYDCKqato/hqdefault.jpg"/></a> | [iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone](https://www.youtube.com/watch?v=KCgYDCKqato) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hEAg47jdYMs"><img width="140px" height="auto" alt="thumb-hEAg47jdYMs" src="https://i.ytimg.com/vi/hEAg47jdYMs/hqdefault.jpg"/></a> | [Revit Tutorial for Beginners - Building Information Modeling [3D Design Course]](https://www.youtube.com/watch?v=hEAg47jdYMs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lRaL-8qZ0mM"><img width="140px" height="auto" alt="thumb-lRaL-8qZ0mM" src="https://i.ytimg.com/vi/lRaL-8qZ0mM/hqdefault.jpg"/></a> | [Create a Design System with CSS - Web Development Course](https://www.youtube.com/watch?v=lRaL-8qZ0mM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zHcef4eHOc8"><img width="140px" height="auto" alt="thumb-zHcef4eHOc8" src="https://i.ytimg.com/vi/zHcef4eHOc8/hqdefault.jpg"/></a> | [Go and AWS - Code and Deploy a Serverless API](https://www.youtube.com/watch?v=zHcef4eHOc8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=xl5fqr-CpTY"><img width="140px" height="auto" alt="thumb-xl5fqr-CpTY" src="https://i.ytimg.com/vi/xl5fqr-CpTY/hqdefault.jpg"/></a> | [Unreal Engine 5 - Beginner's Tutorial (with Blueprint)](https://www.youtube.com/watch?v=xl5fqr-CpTY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YD0egXpd-Y0"><img width="140px" height="auto" alt="thumb-YD0egXpd-Y0" src="https://i.ytimg.com/vi/YD0egXpd-Y0/hqdefault.jpg"/></a> | [Great Design With User Research - Design a Mobile App Using Figma](https://www.youtube.com/watch?v=YD0egXpd-Y0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iHF5fwsqu4I"><img width="140px" height="auto" alt="thumb-iHF5fwsqu4I" src="https://i.ytimg.com/vi/iHF5fwsqu4I/hqdefault.jpg"/></a> | [2D Game Development with GDevelop - Crash Course](https://www.youtube.com/watch?v=iHF5fwsqu4I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cPOtULagNnI"><img width="140px" height="auto" alt="thumb-cPOtULagNnI" src="https://i.ytimg.com/vi/cPOtULagNnI/hqdefault.jpg"/></a> | [Computer Vision and Perception for Self-Driving Cars (Deep Learning Course)](https://www.youtube.com/watch?v=cPOtULagNnI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bMknfKXIFA8"><img width="140px" height="auto" alt="thumb-bMknfKXIFA8" src="https://i.ytimg.com/vi/bMknfKXIFA8/hqdefault.jpg"/></a> | [React Course - Beginner's Tutorial for React JavaScript Library \[2022\]](https://www.youtube.com/watch?v=bMknfKXIFA8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=47NRaBVxgVM"><img width="140px" height="auto" alt="thumb-47NRaBVxgVM" src="https://i.ytimg.com/vi/47NRaBVxgVM/hqdefault.jpg"/></a> | [Internet History, Technology, and Security - Full Course from Dr. Chuck](https://www.youtube.com/watch?v=47NRaBVxgVM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OUzaUJ3gEug"><img width="140px" height="auto" alt="thumb-OUzaUJ3gEug" src="https://i.ytimg.com/vi/OUzaUJ3gEug/hqdefault.jpg"/></a> | [Full Stack Web Development in the Cloud Course - Svelte, Postgres, Vercel, Gitpod](https://www.youtube.com/watch?v=OUzaUJ3gEug) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lKKsjpH09dU"><img width="140px" height="auto" alt="thumb-lKKsjpH09dU" src="https://i.ytimg.com/vi/lKKsjpH09dU/hqdefault.jpg"/></a> | [Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WcDaZ67TVRo"><img width="140px" height="auto" alt="thumb-WcDaZ67TVRo" src="https://i.ytimg.com/vi/WcDaZ67TVRo/hqdefault.jpg"/></a> | [Data Analysis with Python for Excel Users - Full Course](https://www.youtube.com/watch?v=WcDaZ67TVRo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hZ1DASYd9rk"><img width="140px" height="auto" alt="thumb-hZ1DASYd9rk" src="https://i.ytimg.com/vi/hZ1DASYd9rk/hqdefault.jpg"/></a> | [Learn ASP.NET Core MVC (.NET 6) - Full Course](https://www.youtube.com/watch?v=hZ1DASYd9rk) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Mo0Oco3Vimo"><img width="140px" height="auto" alt="thumb-Mo0Oco3Vimo" src="https://i.ytimg.com/vi/Mo0Oco3Vimo/hqdefault.jpg"/></a> | [C++ Programming Tutorial - Build a 3-Band Compressor Audio Plugin (w/ JUCE Framework)](https://www.youtube.com/watch?v=Mo0Oco3Vimo) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qwfE7fSVaZM"><img width="140px" height="auto" alt="thumb-qwfE7fSVaZM" src="https://i.ytimg.com/vi/qwfE7fSVaZM/hqdefault.jpg"/></a> | [Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ej_02ICOIgs"><img width="140px" height="auto" alt="thumb-Ej_02ICOIgs" src="https://i.ytimg.com/vi/Ej_02ICOIgs/hqdefault.jpg"/></a> | [Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=g2JOHLHh4rI"><img width="140px" height="auto" alt="thumb-g2JOHLHh4rI" src="https://i.ytimg.com/vi/g2JOHLHh4rI/hqdefault.jpg"/></a> | [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial](https://www.youtube.com/watch?v=g2JOHLHh4rI) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=o0XbHvKxw7Y"><img width="140px" height="auto" alt="thumb-o0XbHvKxw7Y" src="https://i.ytimg.com/vi/o0XbHvKxw7Y/hqdefault.jpg"/></a> | [Django For Everybody - Full Python University Course](https://www.youtube.com/watch?v=o0XbHvKxw7Y) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=s8XjEuplx_U"><img width="140px" height="auto" alt="thumb-s8XjEuplx_U" src="https://i.ytimg.com/vi/s8XjEuplx_U/hqdefault.jpg"/></a> | [Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]](https://www.youtube.com/watch?v=s8XjEuplx_U) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RaTpreA0v7Q"><img width="140px" height="auto" alt="thumb-RaTpreA0v7Q" src="https://i.ytimg.com/vi/RaTpreA0v7Q/hqdefault.jpg"/></a> | [Gatsby Static Site Generator Tutorial](https://www.youtube.com/watch?v=RaTpreA0v7Q) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1hvVcEhcbLM"><img width="140px" height="auto" alt="thumb-1hvVcEhcbLM" src="https://i.ytimg.com/vi/1hvVcEhcbLM/hqdefault.jpg"/></a> | [Linux Essentials for Ethical Hackers - Full InfoSec Course](https://www.youtube.com/watch?v=1hvVcEhcbLM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=M576WGiDBdQ"><img width="140px" height="auto" alt="thumb-M576WGiDBdQ" src="https://i.ytimg.com/vi/M576WGiDBdQ/hqdefault.jpg"/></a> | [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=FXpIoQ_rT_c"><img width="140px" height="auto" alt="thumb-FXpIoQ_rT_c" src="https://i.ytimg.com/vi/FXpIoQ_rT_c/hqdefault.jpg"/></a> | [Vue.js Course for Beginners [2021 Tutorial]](https://www.youtube.com/watch?v=FXpIoQ_rT_c) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=la-0ulfn0_M"><img width="140px" height="auto" alt="thumb-la-0ulfn0_M" src="https://i.ytimg.com/vi/la-0ulfn0_M/hqdefault.jpg"/></a> | [Create a Twitter Clone with Vue.js, Quasar Framework & Firebase for iOS, Android, Mac & Windows](https://www.youtube.com/watch?v=la-0ulfn0_M) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=N2opj8XzYBY"><img width="140px" height="auto" alt="thumb-N2opj8XzYBY" src="https://i.ytimg.com/vi/N2opj8XzYBY/hqdefault.jpg"/></a> | [Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UjDpW_SOrlw"><img width="140px" height="auto" alt="thumb-UjDpW_SOrlw" src="https://i.ytimg.com/vi/UjDpW_SOrlw/hqdefault.jpg"/></a> | [Code a Discord Chat Bot That Talks Like Your Favorite Character - Tutorial](https://www.youtube.com/watch?v=UjDpW_SOrlw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=l8Imtec4ReQ"><img width="140px" height="auto" alt="thumb-l8Imtec4ReQ" src="https://i.ytimg.com/vi/l8Imtec4ReQ/hqdefault.jpg"/></a> | [Kivy Course - Create Python Games and Mobile Apps](https://www.youtube.com/watch?v=l8Imtec4ReQ) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pyXnX2SEaFc"><img width="140px" height="auto" alt="thumb-pyXnX2SEaFc" src="https://i.ytimg.com/vi/pyXnX2SEaFc/hqdefault.jpg"/></a> | [Java Native Interface (28-Hour Course)](https://www.youtube.com/watch?v=pyXnX2SEaFc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ToXna81iij0"><img width="140px" height="auto" alt="thumb-ToXna81iij0" src="https://i.ytimg.com/vi/ToXna81iij0/hqdefault.jpg"/></a> | [Code a Dictionary with React and Material UI - Tutorial](https://www.youtube.com/watch?v=ToXna81iij0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tXIhdp5R7sc"><img width="140px" height="auto" alt="thumb-tXIhdp5R7sc" src="https://i.ytimg.com/vi/tXIhdp5R7sc/hqdefault.jpg"/></a> | [CSS Flexbox Crash Course](https://www.youtube.com/watch?v=tXIhdp5R7sc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-ANCcFQBk6I"><img width="140px" height="auto" alt="thumb--ANCcFQBk6I" src="https://i.ytimg.com/vi/-ANCcFQBk6I/hqdefault.jpg"/></a> | [Deploy 12 apps to AWS, Azure, & Google Cloud](https://www.youtube.com/watch?v=-ANCcFQBk6I) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OzUzrs8uJl8"><img width="140px" height="auto" alt="thumb-OzUzrs8uJl8" src="https://i.ytimg.com/vi/OzUzrs8uJl8/hqdefault.jpg"/></a> | [FARM Stack Course - FastAPI, React, MongoDB](https://www.youtube.com/watch?v=OzUzrs8uJl8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_C8kWso4ne4"><img width="140px" height="auto" alt="thumb-_C8kWso4ne4" src="https://i.ytimg.com/vi/_C8kWso4ne4/hqdefault.jpg"/></a> | [PySpark Tutorial](https://www.youtube.com/watch?v=_C8kWso4ne4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZpwZS3XnEZA"><img width="140px" height="auto" alt="thumb-ZpwZS3XnEZA" src="https://i.ytimg.com/vi/ZpwZS3XnEZA/hqdefault.jpg"/></a> | [SPSS for Beginners - Full Course](https://www.youtube.com/watch?v=ZpwZS3XnEZA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Jppuj6M1sJ4"><img width="140px" height="auto" alt="thumb-Jppuj6M1sJ4" src="https://i.ytimg.com/vi/Jppuj6M1sJ4/hqdefault.jpg"/></a> | [React Router Crash Course](https://www.youtube.com/watch?v=Jppuj6M1sJ4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=RYDiDpW2VkM"><img width="140px" height="auto" alt="thumb-RYDiDpW2VkM" src="https://i.ytimg.com/vi/RYDiDpW2VkM/hqdefault.jpg"/></a> | [Create a Design System with Figma - Full Course](https://www.youtube.com/watch?v=RYDiDpW2VkM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=r8UvWSX3KA8"><img width="140px" height="auto" alt="thumb-r8UvWSX3KA8" src="https://i.ytimg.com/vi/r8UvWSX3KA8/hqdefault.jpg"/></a> | [OpenTelemetry Course - Understand Software Performance](https://www.youtube.com/watch?v=r8UvWSX3KA8) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZYb_ZU8LNxs"><img width="140px" height="auto" alt="thumb-ZYb_ZU8LNxs" src="https://i.ytimg.com/vi/ZYb_ZU8LNxs/hqdefault.jpg"/></a> | [Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://www.youtube.com/watch?v=ZYb_ZU8LNxs) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZXdFisA_hOY"><img width="140px" height="auto" alt="thumb-ZXdFisA_hOY" src="https://i.ytimg.com/vi/ZXdFisA_hOY/hqdefault.jpg"/></a> | [.NET 5 REST API Tutorial - Build From Scratch With C#](https://www.youtube.com/watch?v=ZXdFisA_hOY) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=V_xro1bcAuA"><img width="140px" height="auto" alt="thumb-V_xro1bcAuA" src="https://i.ytimg.com/vi/V_xro1bcAuA/hqdefault.jpg"/></a> | [PyTorch for Deep Learning &amp; Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zJSY8tbf_ys"><img width="140px" height="auto" alt="thumb-zJSY8tbf_ys" src="https://i.ytimg.com/vi/zJSY8tbf_ys/hqdefault.jpg"/></a> | [Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)](https://www.youtube.com/watch?v=zJSY8tbf_ys) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2-crBg6wpp0"><img width="140px" height="auto" alt="thumb-2-crBg6wpp0" src="https://i.ytimg.com/vi/2-crBg6wpp0/hqdefault.jpg"/></a> | [Learn React 18 with Redux Toolkit – Full Tutorial for Beginners](https://www.youtube.com/watch?v=2-crBg6wpp0) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sD468LfeVdc"><img width="140px" height="auto" alt="thumb-sD468LfeVdc" src="https://i.ytimg.com/vi/sD468LfeVdc/hqdefault.jpg"/></a> | [Data Science Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=sD468LfeVdc) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wuSQpLinRB4"><img width="140px" height="auto" alt="thumb-wuSQpLinRB4" src="https://i.ytimg.com/vi/wuSQpLinRB4/hqdefault.jpg"/></a> | [AlphaZero from Scratch – Machine Learning Tutorial](https://www.youtube.com/watch?v=wuSQpLinRB4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2JYT5f2isg4"><img width="140px" height="auto" alt="thumb-2JYT5f2isg4" src="https://i.ytimg.com/vi/2JYT5f2isg4/hqdefault.jpg"/></a> | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hmkF77F9TLw"><img width="140px" height="auto" alt="thumb-hmkF77F9TLw" src="https://i.ytimg.com/vi/hmkF77F9TLw/hqdefault.jpg"/></a> | [Microservice Architecture and System Design with Python &amp; Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=m8Icp_Cid5o"><img width="140px" height="auto" alt="thumb-m8Icp_Cid5o" src="https://i.ytimg.com/vi/m8Icp_Cid5o/hqdefault.jpg"/></a> | [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=d6WC5n9G_sM"><img width="140px" height="auto" alt="thumb-d6WC5n9G_sM" src="https://i.ytimg.com/vi/d6WC5n9G_sM/hqdefault.jpg"/></a> | [Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)](https://www.youtube.com/watch?v=d6WC5n9G_sM) <br/><br/> _[FreeCodeCamp.org][yu-freecodecamp]_ |
 
-nDGA3km5He4
-React Router 6 – Full Course
-
-VX4wl7qIcbA
-SQL Database App with Windows GUI – Project Tutorial
-
-qH9mWpYMtYU
-Build a Java Desktop Application - Full Course (Sudoku)
-
-tbqVqP5ilzQ
-JavaScript Interview Prep: Functions, Closures, Currying
-
-uRQH2CFvedY
-ChatGPT Course – Use The OpenAI API to Code 5 Projects
-
-S8lMTwSRoRg
-Godot Game Development – Crash Course for Beginners
-
-Ej_02ICOIgs
-Object Oriented Programming with Python - Full Course for Beginners
-
-vDDjtwQDw2k
-No Black Box Machine Learning Course – Learn Without Libraries
-
-HimR8Xtz17U
-Build a LinkedIn Clone with React and Firebase – Tutorial
-
-UFD4SP91tSM
-Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript
-
-tK9Oc6AEnR4
-Bash Scripting Tutorial for Beginners
-
-5l2qA3Pc83M
-Advanced C# – LINQ Tutorial
-
-obH0Po_RdWk
-React Native Course – Android and iOS App Development
-
-OcTPaUfay5I
-Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript
-
-2-crBg6wpp0
-Learn React 18 with Redux Toolkit – Full Tutorial for Beginners
-
-MsnQ5uepIaE
-Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)
-
-lFo3Yy8Ro7w
-Learn Minimal APIs in .NET 7
-
-D6Xj_W4leu8
-Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course
-
-BUjdnxgBgzM
-Music Production with FL Studio – Full Tutorial for Beginners
-
-ydOTMQC7np0
-LaTeX –&nbsp;Full Tutorial for Beginners
-
-1qw5ITr3k9E
-Software Engineering Job Interview – Full Mock Interview
-
-njLEDvoDjtk
-Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod
-
-GDGejH3SDNQ
-HTML &amp; Coding Introduction – Course for Beginners
-
-IyBhFma4H1A
-React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP
-
-kTp5xUtcalw
-Docker Containers and Kubernetes Fundamentals – Full Hands-On Course
-
-vufTSJbzKGU
-Python Reinforcement Learning using Gymnasium – Full Course
-
-6gLeplbqtqg
-Python Platformer Game Tutorial for Beginners
-
-VAeRhmpcWEQ
-Learn Vite – Frontend Build Tool Course
-
-t10QcFx7d5k
-Django Project – Code a CRM App Tutorial
-
-lFo3Yy8Ro7w
-Learn Minimal APIs in .NET 7
-
-D6Xj_W4leu8
-Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course
-
-BUjdnxgBgzM
-Music Production with FL Studio – Full Tutorial for Beginners
-
-ydOTMQC7np0
-LaTeX –&nbsp;Full Tutorial for Beginners
-
-1qw5ITr3k9E
-Software Engineering Job Interview – Full Mock Interview
-
-njLEDvoDjtk
-Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod
-
-GDGejH3SDNQ
-HTML &amp; Coding Introduction – Course for Beginners
-
-IyBhFma4H1A
-React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP
-
-kTp5xUtcalw
-Docker Containers and Kubernetes Fundamentals – Full Hands-On Course
-
-vufTSJbzKGU
-Python Reinforcement Learning using Gymnasium – Full Course
-
-6gLeplbqtqg
-Python Platformer Game Tutorial for Beginners
-
-VAeRhmpcWEQ
-Learn Vite – Frontend Build Tool Course
-
-t10QcFx7d5k
-Django Project – Code a CRM App Tutorial
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="EExSSotojVI" title="Learn Kotlin Programming – Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="hmkF77F9TLw" title="Microservice Architecture and System Design with Python & Kubernetes – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="7f50sQYjNRA" title="MATLAB Crash Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="8Xg7E9shq0U" title="Swift Programming Tutorial – Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="C2DBDZKkLss" title="Build and Publish an Android App - Full Course with Kotlin" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="nTeuhbP7wdE" title="React JS Course for Beginners - 2021 Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ER8oKX5myE0" title="MySQL Database - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="IJDJ0kBx2LM" title="Recursion in Programming - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4xuBT3BbsYU" title="Build Your Own SaaS - PagerDuty Clone. You'll Learn PostgreSQL + Stripe API + Twilio + SMTP" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="F6P0hve2clE" title="Flutter Course – Build Full Stack Google Docs Clone" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="f4idgaq2VqA" title="Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="A74TOX803D0" title="Java Programming for Beginners – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="u6gSSpfsoOQ" title="React JavaScript Framework for Beginners – Project-Based Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="pdy3nh1tn6I" title="20 Beginner Python Projects" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="jZx8PMQjobk" title="Azure Developer Associate (AZ-204) — Full Course Pass the Exam!" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="R9apl6B_ZgI" title="Stardew Valley Game Clone with Python and Pygame – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="SR5GxoFhIAU" title="HTML / CSS Tutorial – Create an Order Summary Component" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="xO17P9LVkK0" title="Blazor Server App with .NET 6 and Syncfusion UI Components – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="PmDJIooZjBE" title="Industry Level REST API using .NET 6 – Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="GFO_txvwK_c" title="JavaScript Game Development Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Reny0cTTv24" title="React JS Tutorial – Build a Weather App With Cities Autocomplete" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="_gWfFEuert8" title="OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="bC7o8P_Ste4" title="Greedy Algorithms Tutorial – Solve Coding Challenges" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="cT_ZYrS3tKc" title="Build a Shopping Cart with JavaScript – Project Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="hmkF77F9TLw" title="Microservice Architecture and System Design with Python &amp; Kubernetes – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="m8Icp_Cid5o" title="System Design for Beginners Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="EExSSotojVI" title="Learn Kotlin Programming – Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="d6WC5n9G_sM" title="Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="WNvxR8RFzBg" title="Python for Web Development – Crash Course [API, SQL Databases, Virtual Environment, Flask, Django]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="BUjdnxgBgzM" title="Music Production with FL Studio – Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4RKuyp_bOhY" title="React with .NET Web API – Basic App Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="8hly31xKli0" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="8mAITcNt710" title="Harvard CS50 – Full Computer Science University Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="j5Zsa_eOXeY" title="DevOps Engineering Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="RZ4p-saaQkc" title="Vim Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="KjY94sAKLlw" title="Next.js React Framework Course – Build and Deploy a Full Stack App From scratch" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ylJz7N-dv1E" title="Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone [Full Course]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="HFWQdGn5DaU" title="Visual Basic (VB.NET) – Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="sHuuo9L3e5c" title="Blazor WebAssembly &amp; Web API on .NET 6 – Full Course (C#)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="gfmRrPjnEw4" title="Assembly Language Programming with ARM – Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="jS4aFq5-91M" title="JavaScript Programming - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="OwZHNH8EfSU" title="Azure AI Fundamentals Certification (AI-900) - Full Course to PASS the Exam" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="iJKCj8uAHz8" title="Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="1WmNXEVia8I" title="Next.js for Beginners - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4OaHB0JbJDI" title="🎮 Easy JavaScript Game Development with Kaboom.js (Mario, Zelda, and Space Invaders) - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="i_Iq4_Kd7Rc" title="Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="gTVpBbFWry8" title="Chrome DevTools - Crash Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="JwSS70SZdyM" title="Build 12 Data Science Apps with Python and Streamlit - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="iXNsAYOTzgM" title="OpenCV Tutorial - Develop Computer Vision Apps in the Cloud With Python" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="10PbGbTUSAg" title="Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="9zUHg7xjIqQ" title="Learn Docker - DevOps with Node.js &amp; Express" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="idDu_jXqf4E" title="Introduction to Tracing : OpenTelemetry &amp; Opentracing" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="mrHNSanmqQ4" title="MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="0B5eIE_1vpU" title="Scikit-learn Crash Course - Machine Learning Library for Python" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="F-sFp_AvHc8" title="User Authentication in Web Apps (Passport.js, Node, Express)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Yg5zkd9nm6w" title="E-commerce Website With Django and Vue Tutorial (Django Rest Framework)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="bRlvGoWz6Ig" title="JavaScript Snake Game Tutorial Using Functional Programming" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="RJ2kwpzX8so" title="Web App Testing with WebdriverIO - Crash Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Oe421EPjeBE" title="Node.js and Express.js - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="WMy3OzvBWc0" title="Linux Server Course - System Configuration and Operation" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="DiwS9VTMFv0" title="Serverless Functions Course - Create a Serverless API" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="2LhoCfjm8R4" title="Data Visualization with D3, JavaScript, React - Full Course [2021]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4gMDR69DB6A" title="Build a Robinhood-Style Android App to Track COVID-19 Cases - Kotlin Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="aoQ6S1a32j8" title="How to Make a Landing Page using HTML, SCSS, and JavaScript - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="zuegQmMdy8M" title="Pointers in C / C++ [Full Course]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="fmyvWz5TUWg" title="Learn Ruby on Rails - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="1hPgQWbWmEk" title="Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="0iB5IPoTDts" title="Python Microservices Web App (with React, Django, Flask) - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="oBt53YbR9Kk" title="Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenges" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="8ext9G7xspg" title="12 Beginner Python Projects - Coding Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Qn5DDQn0fx0" title="Training Deep Neural Networks on a GPU | Deep Learning with PyTorch: Zero to GANs | Part 3 of 6" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Z63TxAJotgQ" title="How to Find Freelance Jobs" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="uuuzvOEC0zw" title="PyTorch Images and Logistic Regression | Deep Learning with PyTorch: Zero to GANs | Part 2 of 6" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="F5mRW0jo-U4" title="Python Django Web Framework - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="BfEjDD8mWYg" title="ASP.NET Core Crash Course - C# App in One Hour" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="UTQp6mvhb0Y" title="Visual Studio Code Full Course - VS Code for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="oXlwWbU8l2o" title="OpenCV Course - Full Tutorial with Python" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Bo0guUbL5uo" title="Symfony PHP Framework Tutorial - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Vl0H-qTclOg" title="Microsoft Excel Tutorial for Beginners - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="a_7Z7C_JCyo" title="Code 15 React Projects - Complete Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="fi2WkznwWbc" title="Flutter App with Firebase Authentication and Firestore Tutorial - Crypto Wallet" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="732DROaJMQc" title="Refactoring Messy to Testable Code in .NET (Part 5 - Magic Strings)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="312RhjfetP8" title="SQLite Database for Android - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="6ERdu4k62wI" title="Use PHP to Create an MVC Framework - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="0oyCUWLL_fU" title="Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="n1mdAPFq2Os" title="React / GraphQL Course - Build a social media app (MERNG Stack)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="xVA-gUk8-aM" title="Reviewing Your Website Designs Live - with Gary Simon" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="yzeVMecydCE" title="Complete Guide to Open Source - How to Contribute" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4UZrsTqkcW4" title="Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="3hLmDS179YE" title="AWS Certified Cloud Practitioner Training 2020 - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="aiTTClKJbnw" title="Flutter Tutorial - Building a Production App From Scratch" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="pN92rnO_n5U" title="How to Design a Website – A UX Wireframe Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4G_BzLxa9Nw" title="Blazor Course - Use ASP.NET Core to Build Full-Stack C# Web Apps" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="2_lswM1S264" title="Ethical Hacking 101: Web App Penetration Testing - a full course for beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Pi46L7UYP8I" title="ASP.NET Core MVC Course (.NET 5)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="J01rYl9T3BU" title="PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ztHopE5Wnpc" title="Database Design Course - Learn how to design and plan a database for beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="FGdiSJakIS4" title="Network Programming with Python Course (build a port scanner, mailing client, chat room, DDOS)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="GhQdlIFylQ8" title="C# Tutorial - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="btadke62pgQ" title="Live Coding Project: Create an Hour Tracking App using Vue.js (Part 2) - with Gwen Faraday" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="tPYj3fFJGjk" title="TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="JgwI22y_eFA" title="Build an Online Store Using AWS, React, and Stripe" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="5VUjP1wMqoE" title="Spring Boot Java Tutorial - REST API using PostgreSQL and JWT" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4UuMrebbwIo" title="Python For Loops, Functions, and Random - Python Basics with Sam" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="F2JCjVSZlG0" title="React / Typescript Tutorial - Build a Quiz App" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="0b5T7wYDV5o" title="Live Coding Project: Create a Drum Machine using Vue.js - with Gwen Faraday" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="qH9mWpYMtYU" title="Build a Java Desktop Application - Full Course (Sudoku)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="TQUy8ENesGY" title="Deno Course - Better than Node.js?" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="qFJeN9V1ZsI" title="Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Wvf0mBNGjXY" title="DevOps Prerequisites Course - Getting started with DevOps" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="3PHXvlpOkf4" title="Build 15 JavaScript Projects - Vanilla JavaScript Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="wEVjaXK4sYQ" title="Learn React Native Gestures and Animations - Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="U_EhnbpWhUQ" title="License To Pentest: Ethical Hacking Course For Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ujbE0mzX-CU" title="Learn the Svelte JavaScript Framework - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="RGOj5yH7evk" title="Git and GitHub for Beginners - Crash Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="fis26HvvDII" title="Android Development for Beginners - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="X4eRbHgRawI" title="Web Application Ethical Hacking - Penetration Testing Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="DKlTBBuc32c" title="Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="nN05TQ8vew8" title="Project Euler Challenges 5–12 - Coding Challenges with Florin" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="byHcYRpMgI4" title="SQLite Databases With Python - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="3Xc3CA655Y4" title="Matplotlib Crash Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="WjUdCdfJSMs" title="Project Euler Challenges 1–4 - Coding Challenges with Florin" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="2X6CXFcsktM" title="Build a Brain Computer App with React Native (Part 8) - Live Coding with Jesse" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="lhNdUVh3qCc" title="Learn JavaScript by Building 7 Games - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="EUn-uAXAAF8" title="Build a Brain Computer App with React Native (Part 5) - Live Coding with Jesse" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="AwgRyJP7LHY" title="Build a Brain Computer App with React Native (Part 3) - Live Coding with Jesse" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="rPSL1alFIjI" title="Functional Programming in Java - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="_xkSvufmjEs" title="Build and deploy a portfolio website [Full Tutorial Course]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="iEKdtB53IXs" title="Build a Brain Computer App with React Native - Live Coding with Jesse" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="B2q5cRJvqI8" title="Natural Language Processing with TensorFlow 2 - Beginner's Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="C5cnZ-gZy2I" title="Learn ASP.NET Core 3.1 - Full Course for Beginners [Tutorial]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="comQ1-x2a1Q" title="Swift Tutorial - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="U3VSJhaC4kc" title="AWS for Startups - Deploying with AWS Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="DLX62G4lc44" title="Learn React JS - Full Course for Beginners - Tutorial 2019" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="fqMOX6JJhGo" title="Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="LsNW4FPHuZE" title="Learn Unreal Engine (with C++) - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="lauywdXKEXI" title="Plan, Code, and Deploy a Startup in 2 Hours [Full Stack JavaScript Tutorial]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Iz08OTTjR04" title="Android Development Course - Build Native Apps with Kotlin Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="srvUrASNj0s" title="Introduction To Responsive Web Design - HTML &amp; CSS Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="vtPkZShrvXQ" title="Spring Boot Tutorial for Beginners (Java Framework)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="LXJOvkVYQqA" title="In-Depth React Tutorial: Build a Hotel Reservation Site (with Contentful and Netlify)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="3Kq1MIfTWCE" title="Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4z3EMCc4bP4" title="Learn GraphQL with Laravel and Vue.js - Full Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ipwxYa-F1uY" title="Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="I250xdtUvy8" title="Intermediate React and Firebase Tutorial - Build an Evernote Clone" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="coQ5dg8wM2o" title="Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="lZAoFs75_cs" title="Linux for Ethical Hackers (Kali Linux Tutorial)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="_8V5o2UHG0E" title="Data Visualization with D3.js - Full Tutorial Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="m_u6P5k0vP0" title="Full Stack React &amp; Firebase Tutorial - Build a social media app" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="YS4e4q9oBaU" title="Learn Go Programming - Golang Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ImtZ5yENzgE" title="Laravel PHP Framework Tutorial - Full Course for Beginners (2019)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="tvfeBLMA_Q4" title="APIs in React Tutorial - Recipe App using React Router" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ZfQFUJhPqMM" title="Learn Regular Expressions (Regex) - Crash Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="wfWxdh-_k_4" title="Create a C# Application from Start to Finish - Complete Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="qw--VYLpxG4" title="Learn PostgreSQL Tutorial - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4deVCNJq3qc" title="Learn Vue.js - Full Course for Beginners - 2019" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="pexVpeGjoC8" title="React Native Web Game Styles  (P7D6) - Live Coding with Jesse" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="4yqu8YF29cU" title="MongoDB Full Tutorial w/ Node.js, Express, &amp; Mongoose" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="QsmXlGCtjUk" title="ASP.NET Core 2.0 Gallery App with Azure - Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="KJgsSFOSQv0" title="C Programming Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="grEKMHGYyns" title="Learn Java 8 - Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="rfscVS0vtbw" title="Learn Python - Full Course for Beginners [Tutorial]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="m1_ih43p24s" title="Build a Calculator with Vue.js" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="3LWgbjVWLug" title="WebAssembly and the Death of JavaScript" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="HXV3zeQKqGY" title="SQL Tutorial - Full Database Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="RdRMNT-98Oo" title="Why You Don't Need jQuery Anymore" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="VtRLrQ3Ev-U" title="Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="zhJLVFR3pE8" title="Code Your Own Heroku Clone with Python – Provision Infrastructure Programmatically Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="0n809nd4Zu4" title="Build a Chrome Extension – Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="8vfQ6SWBZ-U" title="React Testing Course for Beginners – Code and Test 3 Apps" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="HvxmF0FUwrM" title="SQL Server Performance Essentials – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Rs_rAxEsAvI" title="Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Uszj_k0DGsg" title="Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="59IXY5IDrBA" title="React Router 6 – Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="NQP89ish9t8" title="How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="stQ1IZEB2xk" title="Figma Variants – Design a Scalable Mobile App [Full Course]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="iRaai1IBlB0" title="Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="PfhFnPuWums" title="HTML / CSS Tutorial – Create a Preview Card Component" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Cy9fAvsXGZA" title="Microservices with FastAPI – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="WzfDo2Wpxks" title="Augmented Reality for Everyone - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="fgdpvwEWJ9M" title="Firebase – Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="g1vy03ZY5mM" title="Visual Studio Code Extensions to Improve Your Productivity" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="xV7S8BhIeBo" title="Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="KTFFdZSDiTU" title="WebGPU Tutorial - Advanced Graphics on the Web Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="8124kv-632k" title="Python Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="GZQkwx10p-8" title="Advanced OpenGL Tutorial – Skeletal Animations with Assimp" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="AplluksKvzI" title="CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="hN4Q04ODOEw" title="Build a Live Stream Flutter App – Android & iOS Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="zrs7u6bdbUw" title="Redux Tutorial - Beginner to Advanced" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="kF0UBL1eHeQ" title="eCommerce Website Tutorial - Online Store with WooComerce and WordPress" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="PGyhBwLyK2U" title="DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="GPVsHOlRBBI" title="Data Analysis with Python Course - Numpy, Pandas, Data Visualization" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="CqCDOosvZIk" title=".NET Microservices – Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="VPvVD8t02U8" title="Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="GHTA143_b-s" title="NestJs Course for Beginners - Create a REST API" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="8jLOx1hD3_o" title="C++ Programming Course - Beginner to Advanced" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="KCgYDCKqato" title="iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="hEAg47jdYMs" title="Revit Tutorial for Beginners - Building Information Modeling [3D Design Course]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="lRaL-8qZ0mM" title="Create a Design System with CSS - Web Development Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="zHcef4eHOc8" title="Go and AWS - Code and Deploy a Serverless API" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="xl5fqr-CpTY" title="Unreal Engine 5 - Beginner's Tutorial (with Blueprint)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="YD0egXpd-Y0" title="Great Design With User Research - Design a Mobile App Using Figma" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="iHF5fwsqu4I" title="2D Game Development with GDevelop - Crash Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="cPOtULagNnI" title="Computer Vision and Perception for Self-Driving Cars (Deep Learning Course)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="bMknfKXIFA8" title="React Course - Beginner's Tutorial for React JavaScript Library [2022]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="47NRaBVxgVM" title="Internet History, Technology, and Security - Full Course from Dr. Chuck" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="OUzaUJ3gEug" title="Full Stack Web Development in the Cloud Course - Svelte, Postgres, Vercel, Gitpod" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="lKKsjpH09dU" title="Micro-Frontends Course - Beginner to Expert" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="WcDaZ67TVRo" title="Data Analysis with Python for Excel Users - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="hZ1DASYd9rk" title="Learn ASP.NET Core MVC (.NET 6) - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Mo0Oco3Vimo" title="C++ Programming Tutorial - Build a 3-Band Compressor Audio Plugin (w/ JUCE Framework)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="qwfE7fSVaZM" title="Node.js / Express Course - Build 4 Projects" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Ej_02ICOIgs" title="Object Oriented Programming with Python - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="g2JOHLHh4rI" title="AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="o0XbHvKxw7Y" title="Django For Everybody - Full Python University Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="s8XjEuplx_U" title="Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="RaTpreA0v7Q" title="Gatsby Static Site Generator Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="1hvVcEhcbLM" title="Linux Essentials for Ethical Hackers - Full InfoSec Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="M576WGiDBdQ" title="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="FXpIoQ_rT_c" title="Vue.js Course for Beginners [2021 Tutorial]" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="la-0ulfn0_M" title="Create a Twitter Clone with Vue.js, Quasar Framework & Firebase for iOS, Android, Mac & Windows" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="N2opj8XzYBY" title="Google Sheets - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="UjDpW_SOrlw" title="Code a Discord Chat Bot That Talks Like Your Favorite Character - Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="l8Imtec4ReQ" title="Kivy Course - Create Python Games and Mobile Apps" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="pyXnX2SEaFc" title="Java Native Interface (28-Hour Course)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ToXna81iij0" title="Code a Dictionary with React and Material UI - Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="tXIhdp5R7sc" title="CSS Flexbox Crash Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="-ANCcFQBk6I" title="Deploy 12 apps to AWS, Azure, & Google Cloud" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="OzUzrs8uJl8" title="FARM Stack Course - FastAPI, React, MongoDB" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="_C8kWso4ne4" title="PySpark Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ZpwZS3XnEZA" title="SPSS for Beginners - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Jppuj6M1sJ4" title="React Router Crash Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="RYDiDpW2VkM" title="Create a Design System with Figma - Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="r8UvWSX3KA8" title="OpenTelemetry Course - Understand Software Performance" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ZYb_ZU8LNxs" title="Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ZXdFisA_hOY" title=".NET 5 REST API Tutorial - Build From Scratch With C#" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="V_xro1bcAuA" title="PyTorch for Deep Learning &amp; Machine Learning – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="zJSY8tbf_ys" title="Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="2-crBg6wpp0" title="Learn React 18 with Redux Toolkit – Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="sD468LfeVdc" title="Data Science Job Interview – Full Mock Interview" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="wuSQpLinRB4" title="AlphaZero from Scratch – Machine Learning Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="2JYT5f2isg4" title="Full HTTP Networking Course – Fetch and REST APIs in JavaScript" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="hmkF77F9TLw" title="Microservice Architecture and System Design with Python &amp; Kubernetes – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="m8Icp_Cid5o" title="System Design for Beginners Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="d6WC5n9G_sM" title="Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="nDGA3km5He4" title="React Router 6 – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="VX4wl7qIcbA" title="SQL Database App with Windows GUI – Project Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="qH9mWpYMtYU" title="Build a Java Desktop Application - Full Course (Sudoku)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="tbqVqP5ilzQ" title="JavaScript Interview Prep: Functions, Closures, Currying" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="uRQH2CFvedY" title="ChatGPT Course – Use The OpenAI API to Code 5 Projects" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="S8lMTwSRoRg" title="Godot Game Development – Crash Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="Ej_02ICOIgs" title="Object Oriented Programming with Python - Full Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="vDDjtwQDw2k" title="No Black Box Machine Learning Course – Learn Without Libraries" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="HimR8Xtz17U" title="Build a LinkedIn Clone with React and Firebase – Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="UFD4SP91tSM" title="Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="tK9Oc6AEnR4" title="Bash Scripting Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="5l2qA3Pc83M" title="Advanced C# – LINQ Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="obH0Po_RdWk" title="React Native Course – Android and iOS App Development" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="OcTPaUfay5I" title="Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="2-crBg6wpp0" title="Learn React 18 with Redux Toolkit – Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="MsnQ5uepIaE" title="Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="lFo3Yy8Ro7w" title="Learn Minimal APIs in .NET 7" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="D6Xj_W4leu8" title="Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="BUjdnxgBgzM" title="Music Production with FL Studio – Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ydOTMQC7np0" title="LaTeX –&nbsp;Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="1qw5ITr3k9E" title="Software Engineering Job Interview – Full Mock Interview" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="njLEDvoDjtk" title="Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="GDGejH3SDNQ" title="HTML &amp; Coding Introduction – Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="IyBhFma4H1A" title="React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="kTp5xUtcalw" title="Docker Containers and Kubernetes Fundamentals – Full Hands-On Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="vufTSJbzKGU" title="Python Reinforcement Learning using Gymnasium – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="6gLeplbqtqg" title="Python Platformer Game Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="VAeRhmpcWEQ" title="Learn Vite – Frontend Build Tool Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="t10QcFx7d5k" title="Django Project – Code a CRM App Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="lFo3Yy8Ro7w" title="Learn Minimal APIs in .NET 7" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="D6Xj_W4leu8" title="Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="BUjdnxgBgzM" title="Music Production with FL Studio – Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="ydOTMQC7np0" title="LaTeX –&nbsp;Full Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="1qw5ITr3k9E" title="Software Engineering Job Interview – Full Mock Interview" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="njLEDvoDjtk" title="Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="GDGejH3SDNQ" title="HTML &amp; Coding Introduction – Course for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="IyBhFma4H1A" title="React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="kTp5xUtcalw" title="Docker Containers and Kubernetes Fundamentals – Full Hands-On Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="vufTSJbzKGU" title="Python Reinforcement Learning using Gymnasium – Full Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="6gLeplbqtqg" title="Python Platformer Game Tutorial for Beginners" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="VAeRhmpcWEQ" title="Learn Vite – Frontend Build Tool Course" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="t10QcFx7d5k" title="Django Project – Code a CRM App Tutorial" />
 
 :::
 
@@ -399,30 +314,73 @@ Django Project – Code a CRM App Tutorial
 
 ## ThePrimeagen
 
-[ThePrimeagen][yu-theprimeagen]
+[![ThePrimeagen](https://yt3.googleusercontent.com/ytc/AGIKgqNM-OVmXAKB8x_FpqL2RlvR2nGCXNFx9z6HOkJz=s176-c-k-c0x00ffffff-no-rj =x150)][yu-theprimeagen]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=ip51Y5v3WLk"><img width="140px" height="auto" alt="thumb-ip51Y5v3WLk" src="https://i.ytimg.com/vi/ip51Y5v3WLk/hqdefault.jpg"/></a> | [How I Made JavaScript BLAZINGLY FAST](https://www.youtube.com/watch?v=ip51Y5v3WLk) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZNFdkTIzdXM"><img width="140px" height="auto" alt="thumb-ZNFdkTIzdXM" src="https://i.ytimg.com/vi/ZNFdkTIzdXM/hqdefault.jpg"/></a> | [Rust for JS devs : Borrow Checker](https://www.youtube.com/watch?v=ZNFdkTIzdXM) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Sqp5VSqbQOY"><img width="140px" height="auto" alt="thumb-Sqp5VSqbQOY" src="https://i.ytimg.com/vi/Sqp5VSqbQOY/hqdefault.jpg"/></a> | [Astro IS SO GOOD](https://www.youtube.com/watch?v=Sqp5VSqbQOY) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KfENDDEpCsI"><img width="140px" height="auto" alt="thumb-KfENDDEpCsI" src="https://i.ytimg.com/vi/KfENDDEpCsI/hqdefault.jpg"/></a> | [Vim As Your Editor - Vertical Movements](https://www.youtube.com/watch?v=KfENDDEpCsI) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qZO9A5F6BZs"><img width="140px" height="auto" alt="thumb-qZO9A5F6BZs" src="https://i.ytimg.com/vi/qZO9A5F6BZs/hqdefault.jpg"/></a> | [Vim As You Editor - Advanced Motions P1](https://www.youtube.com/watch?v=qZO9A5F6BZs) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bdumjiHabhQ"><img width="140px" height="auto" alt="thumb-bdumjiHabhQ" src="https://i.ytimg.com/vi/bdumjiHabhQ/hqdefault.jpg"/></a> | [My Developer Workflow - How I use i3, tmux, and vim](https://www.youtube.com/watch?v=bdumjiHabhQ) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U16RnpV48KQ"><img width="140px" height="auto" alt="thumb-U16RnpV48KQ" src="https://i.ytimg.com/vi/U16RnpV48KQ/hqdefault.jpg"/></a> | [1,606,240% FASTER algorithm](https://www.youtube.com/watch?v=U16RnpV48KQ) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=7gEbHsHXdn0"><img width="140px" height="auto" alt="thumb-7gEbHsHXdn0" src="https://i.ytimg.com/vi/7gEbHsHXdn0/hqdefault.jpg"/></a> | [You only Git Merge?!? feat Theo : DevHour #1](https://www.youtube.com/watch?v=7gEbHsHXdn0) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uxMfvWPUThE"><img width="140px" height="auto" alt="thumb-uxMfvWPUThE" src="https://i.ytimg.com/vi/uxMfvWPUThE/hqdefault.jpg"/></a> | [Best Vim Motion in 20 Seconds](https://www.youtube.com/watch?v=uxMfvWPUThE) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=461735zrjzY"><img width="140px" height="auto" alt="thumb-461735zrjzY" src="https://i.ytimg.com/vi/461735zrjzY/hqdefault.jpg"/></a> | [React Is This Fast???](https://www.youtube.com/watch?v=461735zrjzY) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2uEqYw-N8uE"><img width="140px" height="auto" alt="thumb-2uEqYw-N8uE" src="https://i.ytimg.com/vi/2uEqYw-N8uE/hqdefault.jpg"/></a> | [Git's Best And Most Unknown Feature](https://www.youtube.com/watch?v=2uEqYw-N8uE) <br/><br/> _[ThePrimeagen][yu-theprimeagen]_ |
+
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="RDd71IUIgpg" title="CoPilot Review: My Thoughts After 6 Months" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="FrMRyXtiJkc" title="How I use Vim in 2023: Tips and Tricks" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="ip51Y5v3WLk" title="How I Made JavaScript BLAZINGLY FAST" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="ZNFdkTIzdXM" title="Rust for JS devs : Borrow Checker" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="Sqp5VSqbQOY" title="Astro IS SO GOOD" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="KfENDDEpCsI" title="Vim As Your Editor - Vertical Movements" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="qZO9A5F6BZs" title="Vim As You Editor - Advanced Motions P1" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="bdumjiHabhQ" title="My Developer Workflow - How I use i3, tmux, and vim" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="U16RnpV48KQ" title="1,606,240% FASTER algorithm" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="7gEbHsHXdn0" title="You only Git Merge?!? feat Theo : DevHour #1" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="uxMfvWPUThE" title="Best Vim Motion in 20 Seconds" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="461735zrjzY" title="React Is This Fast???" />
+<YoutubeItem channelName="ThePrimeagen" channelId="ThePrimeagen" id="2uEqYw-N8uE" title="Git's Best And Most Unknown Feature" />
 
 :::
 
 ---
 
+## ThePrimeTime
+
+[![ThePrimeTime](https://yt3.googleusercontent.com/ytc/AGIKgqOnBN9Fze9naSk9bKiMEMwBqFyrxeVhYoVSM1rl=s176-c-k-c0x00ffffff-no-rj =x150)][yu-the-prime-time]
+
+::: details 목록
+
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="fUKAtZPPc7I" title="QUIT VIM Because Modern IDES are magic" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="qFnHWMxlOBc" title="Carmack Doesn't Like Vim | Prime Reacts" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="5HcyF_3XOzM" title="Benchmarking Databases on Vercel | Prime Reacts" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="onGVymdtnjM" title="You Can Code in Powerpoint??? | Prime Reacts" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="XKivYCgCMPw" title="NX For MonoRepos? | Prime Interviews #ad" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="zi0ZspvoLuo" title="React is Holding Me Hostage!!! | Prime Reacts" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="zs8FStOO2Z4" title="Prime Reacts:  Building a Startup in Rust; I won't do it again" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="B76gFi43HvM" title="1000x FASTER JavaScript?" />
+
+:::
+
+<!-- PrimeTime -->
+
+---
+
+## 조코딩 JoCoding
+
+[조코딩 JoCoding][yu-jocoding]
+
+::: details 목록
+
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="SGGebq48h3Y" title="백엔드 서버 클릭 몇번으로 무료 배포하는 방법" />
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="Tt_tKhhhJqY" title="한시간만에 Node.js 백엔드 기초 끝내기 (ft. API 구축)" />
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="c6EA_Fi44Ik" title="자바스크립트 웹개발 40분 완성 스타크래프트 만들기 (ft. BOM, DOM, 이벤트)" />
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="EqoU1PodQQ4" title="SUB) Complete Game Development Lecture - Develop, Release, and Monetization in 3 hours from scratch" />
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="5bTxyBeOVkA" title="지금 주식 살까? 팔까? 판단은 알고리즘이 더 잘합니다 | 파이썬 주식 투자 자동화 완성하기 (ft. 1개월 수익 공개)" />
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="1b7pXC1-IbE" title="파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초" />
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="3G3zExNItj0" title="Will the lottery numbers predicted by deep learning win well?" />
+
+:::
+
+<!-- 조코딩 JoCoding -->
+
+---
+
+
 ## Simplilearn
 
-[Simplilearn][yu-simplilearn]
+[![Simplilearn](https://yt3.googleusercontent.com/7q9t5rjeujEZYqY1xMLn0mvT4Zc6MaZBYgtseDL2_Zh42AOhMze8ep7BUKdR5FnxytMy3csj=s176-c-k-c0x00ffffff-no-rj =x150)][yu-simplilearn]
 
 ::: details 목록
 
@@ -470,7 +428,7 @@ Django Project – Code a CRM App Tutorial
 <YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="ubnpGkSHZ-0" title="React JS Full Course For Beginners 2022 | Learn ReactJS In 5 Hours | React JS Tutorial | Simplilearn" />
 <YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="8Cz5Fj9rnoI" title="🔥Become a DevOps Expert In 10 Hours | DevOps Tutorial For Beginners | DevOps | 2023 | Simplilearn" />
 <YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="-IvYJrVtU4Q" title="DevOps Testing Tutorial | DevOps Testing Tools For Beginners | DevOps Tutorial 2023 | Simplilearn" />
-<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="0KCKBv6rbkc" title="Hibernate Tutorial For Beginners \| Java Hibernate in 100 minutes \| Hibernate Project \| Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="0KCKBv6rbkc" title="Hibernate Tutorial For Beginners | Java Hibernate in 100 minutes | Hibernate Project | Simplilearn" />
 
 :::
 
@@ -594,16 +552,15 @@ Django Project – Code a CRM App Tutorial
 
 ## DEvS
 
-[DEvS][yu-DEvS]
+[![DEvS](https://yt3.googleusercontent.com/ytc/AGIKgqNvehBNESDxoDHT9Qs8_JtGb5815mMjqMNBr-lpRg=s176-c-k-c0x00ffffff-no-rj =x150)][yu-jimmykimu]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=pClOy5lA7rU"><img width="140px" height="auto" alt="thumb-pClOy5lA7rU" src="https://i.ytimg.com/vi/pClOy5lA7rU/hqdefault.jpg"/></a> | [`fullPage.js` 기초 사용법 (풀페이지 fullpage js)](https://www.youtube.com/watch?v=pClOy5lA7rU) <br/><br/> _[DEvS][yu-DEvS]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ohCBS5DXr8s"><img width="140px" height="auto" alt="thumb-ohCBS5DXr8s" src="https://i.ytimg.com/vi/ohCBS5DXr8s/hqdefault.jpg"/></a> | [자바스크립트: DOM 이벤트 흐름 \| JavaScript: DOM Event Flow \| 캡쳐링, 버블링, target, currentTarget, stopPropagation..](https://www.youtube.com/watch?v=ohCBS5DXr8s) <br/><br/> _[DEvS][yu-DEvS]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DiPa943Wa7Q"><img width="140px" height="auto" alt="thumb-DiPa943Wa7Q" src="https://i.ytimg.com/vi/DiPa943Wa7Q/hqdefault.jpg"/></a> | [Sass (SCSS): Nesting (네스팅)과 CSS의 BEM 구조](https://www.youtube.com/watch?v=DiPa943Wa7Q) <br/><br/> _[DEvS][yu-DEvS]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=c5F1QSN7LRo"><img width="140px" height="auto" alt="thumb-c5F1QSN7LRo" src="https://i.ytimg.com/vi/c5F1QSN7LRo/hqdefault.jpg"/></a> | [Sass (SCSS): Nesting (네스팅) 추가 내용](https://www.youtube.com/watch?v=c5F1QSN7LRo) <br/><br/> _[DEvS][yu-DEvS]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pClOy5lA7rU"><img width="140px" height="auto" alt="thumb-pClOy5lA7rU" src="https://i.ytimg.com/vi/pClOy5lA7rU/hqdefault.jpg"/></a> | [`fullPage.js` 기초 사용법 (풀페이지 fullpage js)](https://www.youtube.com/watch?v=pClOy5lA7rU) <br/><br/> _[DEvS][yu-DEvS]_ |
+
+<YoutubeItem channelName="DEvS" channelId="jimmykimu" id="pClOy5lA7rU" title="`fullPage.js` 기초 사용법 (풀페이지 fullpage js)" />
+<YoutubeItem channelName="DEvS" channelId="jimmykimu" id="ohCBS5DXr8s" title="자바스크립트: DOM 이벤트 흐름 | JavaScript: DOM Event Flow | 캡쳐링, 버블링, target, currentTarget, stopPropagation.." />
+<YoutubeItem channelName="DEvS" channelId="jimmykimu" id="DiPa943Wa7Q" title="Sass (SCSS): Nesting (네스팅)과 CSS의 BEM 구조" />
+<YoutubeItem channelName="DEvS" channelId="jimmykimu" id="c5F1QSN7LRo" title="Sass (SCSS): Nesting (네스팅) 추가 내용" />
+<YoutubeItem channelName="DEvS" channelId="jimmykimu" id="pClOy5lA7rU" title="`fullPage.js` 기초 사용법 (풀페이지 fullpage js)" />
 
 :::
 
@@ -634,8 +591,8 @@ Django Project – Code a CRM App Tutorial
 
 ::: details 목록
 
-<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="K1lKgxeXDrs" title="Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 \| 인프콘 2022" />
-<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="iEGDEdivaGA" title="승리하는 제안서 강의소개│인프런 \| 미리보기 \| 제안서 PM" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="K1lKgxeXDrs" title="Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 | 인프콘 2022" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="iEGDEdivaGA" title="승리하는 제안서 강의소개│인프런 | 미리보기 | 제안서 PM" />
 <YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="e5lIMEm7UPg" title="Sass (SCSS): CSS 가상요소(::before, ::after)를 이용한 링크 애니메이션 (Link Animation), attr(), currentColor" />
 
 :::
@@ -837,19 +794,85 @@ Django Project – Code a CRM App Tutorial
 
 ---
 
+## CodAffection
+
+[CodAffection][yu-cod-affection]
+
+::: details 목록
+
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="39rSVOScx9c" title="Asp.Net Core Web API CRUD Operations Using EF Core and SQL Server" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="kzl4IKAC8O4" title="Angular 14 To Do List App in 30 Minutes" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="m-2_gb_3L7Q" title="React Material UI Complete Tutorial" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="pI4438IHBYY" title="React with Firebase CRUD Operations" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="QpJvqiHl1Fo" title="Asp.Net Core MVC Image Upload and Retrieve" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="8e_nIPFc_7I" title="Angular Material Tutorial in One Video" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="r0QYP61bCCM" title="MEAN Stack Login and Logout in Angular 6 - Part 2" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="T8qepiTbJi4" title="MEAN Stack Jwt Authentication in Node JS API - Part 1" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="CtDE9gTwmyo" title="C# Asp.Net-Insert Update Delete and View With Sql Server Database" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="g3GUnBZEPwQ" title="How to Install Turbo C/C++ in Windows 7/8/10" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="EyrKUSwi4uI" title="How to Create Mvc Login Page in C# Asp.net Mvc" />
+<YoutubeItem channelName="CodAffection" channelId="CodAffection" id="NX8-LhgFnUU" title="Create Login Window in C# Using Sql Server" />
+
+:::
+
+<!-- CodAffection -->
+
+## Bro Code
+
+[Bro Code][yu-bro-codez]
+
+::: details 목록
+
+<YoutubeItem channelName="Bro Code" channelId="BroCodez" id="zZ6vybT1HQs" title="PHP Full Course for non-haters 🐘 (2023)" />
+<YoutubeItem channelName="Bro Code" channelId="BroCodez" id="5OdVJbNCSso" title="MySQL Full Course for free 🐬 (2023)" />
+
+:::
+
+<!-- Bro Code -->
+
+---
+
+## Kodeco
+
+[Kodeco][yu-kodeco]
+
+::: details 목록
+
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="B0YnIOER8MI" title="Incorporate GeoJSON into Your Swift / iOS Map - raywednerlich.com" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="ENUxsCeMz8I" title="Saving Data in Android with Jennifer Bailey - raywenderlich.com Season 10 Podcast" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="EKCRGHDtrcA" title="Gabriel Peal - MvRx (Mavericks), Android Jetpack Navigation - Ray Wenderlich Podcast - S9, E12" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="WbOTBi03V5g" title="Importing an Image with Core Image - Core Image from CIImage to Metal &amp;  Beyond" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="WwBUcof0lKw" title="Inspecting Variables with LLDB - Intermediate Debugging in iOS - raywenderlich.com" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="7A8wzBs1VHQ" title="Your First Program - Beginning Programming with C# - C# 7 / Visual Studio 2017" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="HZsWALYT-D4" title="Installing Visual Studio - Beginning Programming with C# - C# 7 / Visual Studio 2017" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="xY8Ex_IoZTE" title="Coordinator Design Pattern in iOS with Swift 4.2, iOS 12, Xcode 10" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="5lWUHoha4dU" title="Inspecting Variables - Debugging in iOS - raywenderlich.com" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="J653BZPMHPc" title="Building the UI Overview - Beginning Android Development - Your First Kotlin Android App" />
+<YoutubeItem channelName="Kodeco" channelId="KodecoDev" id="sH5EJWFAw6M" title="Outlets  Objects, Data, and Methods - Beginning Programming with iOS 11, Swift 4, and Xcode 9" />
+
+:::
+
+<!-- Kodeco -->
+
+---
+
+
+
+
+
+---
+
 ## Misc. 
 
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=zcKWv8ZY0Jc"><img width="140px" height="auto" alt="thumb-zcKWv8ZY0Jc" src="https://i.ytimg.com/vi/zcKWv8ZY0Jc/hqdefault.jpg"/></a> | [1) Spring RestApi With MySQL - Employee App](https://www.youtube.com/watch?v=zcKWv8ZY0Jc) <br/><br/> _[omer java][yu-omer-java]_ |
-
+<YoutubeItem channelName="omer java" channelId="omerjava" id="zcKWv8ZY0Jc" title="1) Spring RestApi With MySQL - Employee App" />
 
 <TagLinks />
 
 [yu-freecodecamp]: https://www.youtube.com/@freecodecamp
 [yu-theprimeagen]: https://www.youtube.com/@ThePrimeagen
+[yu-the-prime-time]: https://www.youtube.com/@ThePrimeTimeagen
 [yu-simplilearn]: https://www.youtube.com/@SimplilearnOfficial
-[yu-DEvS]: https://www.youtube.com/@jimmykimu
+[yu-jimmykimu]: https://www.youtube.com/@jimmykimu
 [yu-fenrir]: https://www.youtube.com/@KERBEROSJOO
 [yu-programming-knowledge]: https://www.youtube.com/@ProgrammingKnowledge 
 [yu-derek-banas]: https://www.youtube.com/@derekbanas
@@ -862,5 +885,6 @@ Django Project – Code a CRM App Tutorial
 [yu-learnit-training]: https://www.youtube.com/@LearnitTraining
 [yu-claydesk]: https://www.youtube.com/@claydesk
 [yu-intellipaat]: https://www.youtube.com/@Intellipaat
-
-[yu-omer-java]: https://www.youtube.com/@omerjava
+[yu-cod-affection]: https://www.youtube.com/@CodAffection
+[yu-bro-codez]: https://www.youtube.com/@BroCodez
+[yu-kodeco]: https://www.youtube.com/@KodecoDev

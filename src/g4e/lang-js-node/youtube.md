@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 📺Youtube
-description: ⚡️Javascript > 📺Youtube
+description: 🧶Node.js > 📺Youtube
 tags: ["education", "youtube", "programming", "js", "node"]
 ---
 
@@ -692,6 +692,68 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 <!-- 코드팩토리 -->
 
+---
+
+## ZeroCho TV
+
+[ZeroCho TV][yu-zero-cho-tv]
+
+::: details 목록
+
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="aG5XMUZiW-8" title="자바스크립트 ??과 ?. 연산자(널 병합, nullish coalescing, 옵셔널 체이닝, optional chaining) [노드교과서 개정3판]" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="cvxWOWOLcGc" title="[타입스크립트 올인원 미리보기]@types/jquery 설치하기" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="Z0U4Par7lEg" title="리액트 네이티브 개발자 채용합니다~ + 책 마무리" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="JZlYgKS3OtM" title="2021년 강좌 계획 &amp;&amp; Redux-vs-MobX 강좌 마무리" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="Gg5vQJ_AOsI" title="Next.js 10 체험해보기(feat. 노드버드)" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="fucSjX2w0f4" title="리액트 노드버드 10월 업데이트" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="hfSfbLZqYhA" title="Node.js 교과서 강좌(개정판) 2강" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="CDmMwG3-R18" title="노드교과서 개정판 - http 서버(4장)" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="ulpFuNCA2zc" title="네트워크 강좌 - VPN, 프록시(포워드, 리버스), 게이트웨이" />
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="tQaxITImKys" title="네트워크 강좌 - HTTPS 원리" />
+
+:::
+
+<!-- ZeroCho TV -->
+
+---
+
+## 동빈나
+
+[동빈나][channel]
+
+::: details 목록
+
+<YoutubeItem channelName="동빈나" channelId="dongbinna" id="cBVTFYVGE2M" title="[딥러닝 초보자 필수 시청] 딥러닝 공부 순서 한 번에 총 정리" />
+<YoutubeItem channelName="동빈나" channelId="dongbinna" id="58fuWVu5DVU" title="배치 정규화(Batch Normalization) [꼼꼼한 딥러닝 논문 리뷰와 코드 실습]" />
+<YoutubeItem channelName="동빈나" channelId="dongbinna" id="ySJUlEVlXfk" title="[꼼꼼한 논문 리뷰] Certified Robustness to Adversarial Examples with Differential Privacy [S&amp;P 2019] " />
+<YoutubeItem channelName="동빈나" channelId="dongbinna" id="PjgukGtZDmM" title="도커(Docker) 활용 및 배포 자동화 실전 초급 ③ AWS EC2에 도커(Docker) 설치 및 `Dockerfile`로 웹 서버 구동시키기" />
+<YoutubeItem channelName="동빈나" channelId="dongbinna" id="_yEH9mczm3g" title="1강 - Create React App으로 리액트 프로젝트 시작하기 [React와 Node.js를 활용한 고객 관리 시스템 개발 강의]" />
+
+:::
+
+<!-- 동빈나 -->
+
+---
+
+## Minjun Kim
+
+[Minjun Kim][yu-minjun-kim]
+
+::: details 목록
+
+<YoutubeItem channelName="Minjun Kim" channelId="MinjunKim" id="SgWvcc1-ciM" title="Live Coding Season 3. EP 5. 10시간짜리 크롤링 시작! 결국 EC2로 돌리기로 했다." />
+<YoutubeItem channelName="Minjun Kim" channelId="MinjunKim" id="bSGThE7vBf8" title="Live Coding Season 3. EP 6. 크롤링 했지만 데이터를 못쓴다" />
+<YoutubeItem channelName="Minjun Kim" channelId="MinjunKim" id="VwJZN0OdBzI" title="velopert 의 코딩 이야기 시즌 2. EP 571 시리즈 - 출간 프런트엔드 작업 (iv)" />
+<YoutubeItem channelName="Minjun Kim" channelId="MinjunKim" id="fQEzmKsoQYk" title="velopert 의 코딩 이야기 시즌 2. EP 482 마크다운 에디터 툴바 구현 (ii)" />
+<YoutubeItem channelName="Minjun Kim" channelId="MinjunKim" id="X4vnAatoqkU" title="velopert 의 코딩 이야기 시즌 2. EP 474 에디터 커스터마이징 (`vi`)" />
+<YoutubeItem channelName="Minjun Kim" channelId="MinjunKim" id="Gr3LYQ87ryE" title="velopert 의 코딩 이야기 시즌 2. EP 455 회원가입 / 로그인 팝업 만들기 (vii)" />
+<YoutubeItem channelName="Minjun Kim" channelId="MinjunKim" id="fQEzmKsoQYk" title="velopert 의 코딩 이야기 시즌 2. EP 482 마크다운 에디터 툴바 구현 (ii)" />
+
+:::
+
+<!-- Minjun Kim -->
+
+---
 
 ## Justin Jackson
 
@@ -826,6 +888,30 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Easy Tutorials
+
+[Easy Tutorials][yu-easy-tutorials]
+
+::: details 목록
+
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="cO-qjCC_UYQ" title="How To Create A Stopwatch Using JavaScript | Make Stopwatch With HTML, CSS And JavaScript" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="UPuQDE1ek2A" title="Skeleton Loading Animation For Website Using HTML And CSS | Loading Animation CSS" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="0YFrGy_mzjY" title="How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="_gAj6i6w6xE" title="How To Upload Website From Localhost To Online Server" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="zmun7JzWGPE" title="How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="eZu6ynbfJPw" title="How To Build A CV Website" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="DE5Gqk0AVdA" title="How To Make Website Using HTML And CSS | Website Design With CSS Animation Step By Step" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="v0IgI8vYD_o" title="How To Make A Website Using HTML CSS Bootstrap | Complete Website Design Tutorial" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="9fFpyHbmDBY" title="How To Make Slider In HTML And CSS Website | Animated Image Slider Design Using HTML CSS" />
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="G0jO8kUrg-I" title="How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript" />
+
+:::
+
+<!-- Easy Tutorials -->
+
+---
+
+
 ## Gatsby
 
 [Gatsby][yu-gatsby-js]
@@ -896,6 +982,151 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Daily Tuition
+
+[Daily Tuition][yu-daily-tuition]
+
+::: details 목록
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="4lm7nngiXHE" title="Get ChatGPT Paid for Free #shorts" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="BfrJxGQEPSc" title="Complete MERN App (OTP Verification, JWT Token, Authentication, Reset Password)" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="p_046Qe19p0" title="How to Make Leaderboard in React App - For Beginners" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="UEJHSPM-Qiw" title="PayPal Checkout Integration Tutorial For Beginners - [2020]" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="XBTA-ofG8gc" title="PHP Complete Registration &amp; Login System Using MySQLi - Complete Guide" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="dgKSqz3it50" title="Complete Portfolio Website with Bootstrap - HTML/CSS" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="t-I0y6cWKJQ" title="JavaScript this Keyword - Why Should We Use it?" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="Dl2gLiMQJkw" title="Image Thumbnail Previewer Using HTML/CSS" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="CrSC1ZA9j0M" title="Complete Responsive Blooger Website Using HTML/CSS" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="cHAcSQyvBqQ" title="Bootstrap Grid System The Complete Guide - In Action" />
+
+:::
+
+<!-- Daily Tuition -->
+
+---
+
+## Eduonix Learning Solutions
+
+[Eduonix Learning Solutions][yu-eduorix]
+
+::: details 목록
+
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="XhgUClE5uC0" title="NGINX tutorial | Learn NGINX Fundamentals | Eduonix" />
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="TtQqhp-wjY4" title="Learn Ansible from Scratch | How to use Ansible with Vagrant | Eduonix" />
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="p9_4YHOUr4k" title="[JavaScript] | Optimize JS with Webpack (2019) | Eduonix" />
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="Q4Wc9kRdlik" title="How to Create Web animation from CSS!  2019 | Eduonix" />
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="Je_J78qx2eY" title="Learn To Build Weather App With React | Add Component &amp; API Keys (Part 2/3) | Eduonix" />
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="MEsoLU5u_FA" title="Promises in JavaScript | NodeJS File Transferring in Promises (Part 6/6) | Eduonix" />
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="dhaaHKU7Nzk" title="ES6: Introduction to Spread Operator | Eduonix" />
+
+:::
+
+<!-- Eduonix Learning Solutions -->
+
+---
+
+## Jeffrey Codes Javascript
+
+[Jeffrey Codes Javascript][yu-jeffrey_codes]
+
+::: details 목록
+
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="_2O2N0taalM" title="Generating Sitemap XML for Static and Dynamic Nuxt Routes - Nuxt Sitemap, Part 1" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="M033S_-uHkQ" title="Building a Reusable Pagination Component in VueJS" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="gGosCQzPCVg" title="Using MirageJS to mock a backend API in Vue" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="zzUpO8tXoaw" title="Nuxt Auth - Authentication and Authorization in NuxtJS" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="9w0J1l7juK8" title="Making our VueJS app look nicer (Building a VueJS App Part 26)" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="lv-KHdoeSoI" title="Building Complex Data Tables with Vuetify's v-data-table and VueJS" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="THT5FefYZCo" title="Markdown and Syntax Highlighting in VueJS, compatible with Nuxt and SSR" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="NS0io3Z75GI" title="Introduction to NuxtJS - Nested and dynamic pages, layouts, asyncData + axios, meta tags, and VueX" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="sKrBNGw94eQ" title="Vuetify: Make a VueJS app look good, even if you're bad at design (Building a VueJS app Part 3)" />
+<YoutubeItem channelName="Jeffrey Codes Javascript" channelId="jeffrey_codes" id="vaCrzaeC-RE" title="Building a VueJS app - Part 1 - Getting Started" />
+
+:::
+
+<!-- Jeffrey Codes Javascript -->
+
+---
+
+## DesignCourse
+
+[DesignCourse][yu-design-course]
+
+::: details 목록
+
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Kl3nOXQjVnQ" title="The 2023 Frontend Development Crash Course - Learn HTML &amp; CSS" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="QwSN4n2sjR8" title="The UI/UX Crash Course for 2023 - Learn UI/UX Design" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="4ThnAKy4okM" title="How to Refactor a Web Design - Like a Pro" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="gI_X6ekJFus" title="10 Jaw-Dropping Portfolios of 2022" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="H_7Ld5Psgg0" title="Try this Multi-Path SVG Scroll Animation Technique" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="D-h8L5hgW-w" title="HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="rh6KtCKRP8U" title="Making your Layouts More UNIQUE - Rapid ReDesigns" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="i2kCNV73luw" title="Live UI/UX Review - Submit your designs for review!" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="dg488RrpNTc" title="Truly Fluid Typography with 1 CSS PROPERTY!" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="mNtLjzzxGQM" title="Building a REAL Web Component from Scratch! - Tutorial" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="ID0fwi2q028" title="You need to know Usability Testing (with Maze)" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="B7_W7LvIRU0" title="Watch me BREAK this layout - The BROKEN Layout Trend" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Ly6pm8UxZU4" title="The 2020 HTML &amp; CSS Crash Course - From Mockup to Product" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="aMucZErEdZg" title="Creating Sick Page Transitions with Barba.js &amp; GSAP" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="t15BZZ1giGo" title="Figma + No Code + Rest API = NATIVE APP?! -- Bravo Studio" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="YNB-JD7iPoQ" title="STOP The CSS Grid Confusion - 2 Ways to GRID!" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="ciMsVVyv3Og" title="Finally Figure out the SVG ViewBox - Tutorial + ViewBox Tools" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="PU9r0HfZkaE" title="Animated Icon Design Crash Course - Illustrator &amp; Lottie.js - 1/2" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="P5zGTEGPpu4" title="Parallax in HTML, CSS and JavaScript Tutorial - Let's make it happen!" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="syG7ljxqzNg" title="CSS Multi-Columns - Awesome Newspaper Style Layouts (NO Flexbox or Grid)" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="MjB1Nyx6hns" title="Web Share API Tutorial - Native Sharing is Easy!" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="oa9cnWTpqP8" title="Learn Angular 5 in less than 60 Minutes - Free Beginner's Course" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="_TLhUCjY9iA" title="Learn Angular 8 from Scratch for Beginners - Crash Course" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="0Xg6r_MKGJ4" title="CSS Animation Optimization and Performance 101" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="tPkZqXpibpA" title="Lazy Loading Images with Bounds.js - Less than 1KB!" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="F4kJXbaunUg" title="Awesome UI Interactions with the CSS Clip Path Property" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="HI21vsLscic" title="A Sketch for Windows?  Maybe.. Meet Lunacy" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="AkSE-GVaC8E" title="This JavaScript Plugin creates Insane UI Animations" />
+
+:::
+
+<!-- DesignCourse -->
+
+---
+
+## Code with Ania Kubów
+
+[![Code with Ania Kubów](https://yt3.googleusercontent.com/ytc/AGIKgqMB2ZeEbnzXQywDIEP6nBKKcZw3LVRh_M-10Uk6jw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-ania-kubow]
+
+::: details 목록
+
+<YoutubeItem channelName="Code with Ania Kubów" channelId="AniaKubow" id="JJ9fkYX7q4A" title="🛑  Learn to use OpenAI API by building ChatGPT (super simple!) | React Node.js" />
+<YoutubeItem channelName="Code with Ania Kubów" channelId="AniaKubow" id="05ssqx-SZT0" title="🛑 Build ChatGPT in JavaScript (Super simple!!) | JavaScript, HTML, CSS" />
+<YoutubeItem channelName="Code with Ania Kubów" channelId="AniaKubow" id="Kj_gehSIJCc" title="Learn CSS transform by building a Penguin! FreeCodeCamp curriculum walkthrough" />
+
+:::
+
+<!-- Code with Ania Kubów -->
+
+## CodeBucks
+
+[CodeBucks][yu-code-bucks]
+
+::: details 목록
+
+<YoutubeItem channelName="CodeBucks" channelId="CodeBucks" id="jcohAIaSy2M" title="🔥Build a Stunning Portfolio Website with React JS  gotbletu Framer-motion + Styled-components" />
+<YoutubeItem channelName="CodeBucks" channelId="CodeBucks" id="Yw7yWHigGKI" title="How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟" />
+
+:::
+
+<!-- CodeBucks -->
+
+---
+
+## Misc
+
+
+<YoutubeItem channelName="Tim Ermilov" channelId="TimErmilov" id="txjFB0Z0prU" title="Building products with javascript - Part 6 - Docker and Gitlab CI" />
+<YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />
+
+<!-- [Tim Ermilov][yu-tim-ermilov] -->
+<!-- [Daniel Bark][yu-danielbark] -->
+
+
 <TagLinks />
 
 [yu-bawad]: https://www.youtube.com/@bawad
@@ -921,6 +1152,9 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-codevolution]: https://www.youtube.com/@Codevolution
 [yu-code-w-sloba]: https://www.youtube.com/@CodewithSloba
 [yu-code-factory]: https://www.youtube.com/@codefactory_official
+[yu-zero-cho-tv]: https://www.youtube.com/@ZeroChoTV
+[yu-dongbinna]: https://www.youtube.com/@dongbinna
+[yu-minjun-kim]: https://www.youtube.com/@MinjunKim
 [yu-justin-jackson]: https://www.youtube.com/@JustinJackson
 [yu-pluralsight]: https://www.youtube.com/@pluralsight
 [yu-adrian-twarog]: https://www.youtube.com/@AdrianTwarog
@@ -929,8 +1163,18 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-basarat]: https://www.youtube.com/@basarat
 [yu-michigan-typescript]: https://www.youtube.com/@MichiganTypeScript
 [yu-code-w-antonio]: https://www.youtube.com/@codewithantonio
+[yu-easy-tutorials]: https://www.youtube.com/@EasyTutorialsVideo
 [yu-gatsby-js]: https://www.youtube.com/@Gatsbyjs
 [yu-apollo-graphql]: https://www.youtube.com/@ApolloGraphQL
 [yu-vue-conf-toronto]: https://www.youtube.com/@VueConfToronto
 [yu-ionic]: https://www.youtube.com/@IonicFramework
 [yu-jsconf_]: https://www.youtube.com/@jsconf_
+[yu-daily-tuition]: https://www.youtube.com/@DailyTuition
+[yu-jeffrey_codes]: https://www.youtube.com/@jeffrey_codes
+[yu-design-course]: https://www.youtube.com/@DesignCourse
+[yu-eduorix]: https://www.youtube.com/@Eduonix
+[yu-ania-kubow]: https://www.youtube.com/@AniaKubow
+[yu-code-bucks]: https://www.youtube.com/@CodeBucks
+<!-- Misc -->
+[yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
+[yu-danielbark]: https://www.youtube.com/@danielbark

@@ -32,8 +32,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-gradle/README.md',
-        '/g4e/lang-gradle/snippets.md',
-        '/g4e/lang-gradle/snippets-android.md',
+        '/g4e/lang-gradle/snippets.md',        
         '/g4e/lang-gradle/troubleshooting.md',
         '/g4e/lang-gradle/references.md'
       ]
@@ -72,6 +71,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-java-android/README.md',
         '/g4e/lang-java-android/troubleshooting.md',
+        '/g4e/lang-java-android/gradle-snippets.md',
         '/g4e/lang-java-android/references.md',
         '/g4e/lang-java-android/youtube.md',
       ]
@@ -86,14 +86,6 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-swift/youtube.md',
       ]
     }, {
-      text: '⚡️Javascript',
-      collapsible: true,
-      children: [
-        '/g4e/lang-js/README.md',
-        '/g4e/lang-js/mermaid-example.md',
-        '/g4e/lang-js/youtube.md',
-      ]
-    }, {
       text: '🧶Node.js',
       collapsible: true,
       children: [
@@ -102,6 +94,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-js-node/sandbox.md',
         '/g4e/lang-js-node/cordova.md',
         '/g4e/lang-js-node/github.md',
+        '/g4e/lang-js-node/youtube.md',
+      ]
+    }, {
+      text: '🧜‍♀️Mermaid.js',
+      collapsible: true,
+      children: [
+        '/g4e/lang-js-mermaid/README.md',
+        '/g4e/lang-js-mermaid/examples.md',
       ]
     }, {
       text: '🐍Python',
@@ -144,6 +144,15 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-go/README.md',
         '/g4e/lang-go/github.md',
         '/g4e/lang-go/references.md',
+      ]
+    }, {
+      text: 'Dart',
+      collapsible: true,
+      children: [
+        '/g4e/lang-dart/README.md',
+        '/g4e/lang-dart/github.md',
+        '/g4e/lang-dart/youtube.md',
+        '/g4e/lang-dart/references.md',
       ]
     }, {
       text: '🦕C',
@@ -228,6 +237,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/devops-kubernetes/README.md',
         '/g4e/devops-kubernetes/references.md',
+        '/g4e/devops-kubernetes/youtube.md',
       ]
     }, {
       text: '🛡Security',
@@ -261,8 +271,15 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-nexus/tips.md',
       ]
     }, {
+      text: '🧐Selenium',
+      collapsible: true,
+      children: [
+        '/g4e/test-selenium/README.md',
+        '/g4e/test-selenium/youtube.md',
+      ],
+    }, {
       text: '🧛‍♀️Dracula',
-    collapsible: true,
+      collapsible: true,
       children: [
         '/g4e/dracula/README.md',
         '/g4e/dracula/env-setup.md',
@@ -398,9 +415,11 @@ export const sidebarEn: SidebarConfig = {
         '/explore/crashcourse/paul-hudson-100-days-of-swift.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swift/1.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swift/2.md',
+        '/explore/crashcourse/paul-hudson-100-days-of-swift/3.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swiftui.md',
         '/explore/crashcourse/paul-hudson-swiftui-by-example.md',
         '/explore/crashcourse/kodeco-kotlin-android.md',
+        '/explore/crashcourse/kodeco-swift-ios.md',
       ]
     }, {
       text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",

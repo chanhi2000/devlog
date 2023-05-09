@@ -51,18 +51,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ---
 
-## Dart
-
-- [flutter/flutter][flutter/flutter]: Flutter makes it easy and fast to build beautiful apps for mobile and beyond <GithubTags tagItems="android;windows;macos;dart;ios;mobile;web;material-design;cross-platform;desktop;web-framework;app-framework;flutter;skia;linux-desktop;fuchsia;mobile-development;dart-platform;flutter-package" />
-  - [🌐Official Site](https://flutter.dev)
-- [vishalxl/nostr_console][vishalxl/nostr_console]: Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
-- [immich-app/immich][immich-app/immich]: Self-hosted photo and video backup solution directly from your mobile phone. <GithubTags tagItems="nodejs;photos;svelte;photo-gallery;mobile-app;self-hosted;videos;google-photos;flutter;backup-tool;nestjs;sveltekit;google-photos-alternative" />
-  - [🌐Official Site](https://immich.app)
-- [revanced/revanced-manager][revanced/revanced-manager]: 💊 Application to use ReVanced on Android <GithubTags tagItems="android;modding;manager;flutter;patching;flutter-apps;revanced" />
-  - [🌐Official Site](https://revanced.app)
-
----
-
 ## PHP
 
 - [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
@@ -188,6 +176,15 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://ada-url.github.io/ada)
 - [shchmue/Lockpick][shchmue/Lockpick]: Nintendo Switch encryption key derivation homebrew
 - [shchmue/Lockpick_RCM][shchmue/Lockpick_RCM]: Nintendo Switch encryption key derivation bare metal RCM payload
+- [skyline-emu/skyline][skyline-emu/skyline]: Run Nintendo Switch homebrew & games on your Android device! <GithubTags tagItems="android;emulator;c-plus-plus;nintendo;cpp;emulation;switch;skyline" />
+  - [🌐Official Site](https://skyline-emu.one)
+- [azerothcore/azerothcore-wotlk][azerothcore/azerothcore-wotlk]: Complete Open Source and Modular solution for MMO <GithubTags tagItems="game;emulator;wow;modular;gaming;server;mmorpg;game-server;trinitycore;azerothcore;mangos;sunwellcore;world-of-warcraft;scriptdev2;mmorpg-game;hacktoberfest;mmorpg-server" />
+  - [🌐Official Site](http://www.azerothcore.org)
+- [Atmosphere-NX/Atmosphere][Atmosphere-NX/Atmosphere]: Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+- [kraxarn/spotify-qt][kraxarn/spotify-qt]: Lightweight Spotify client using Qt <GithubTags tagItems="spotify;qt;cpp;spotify-api" />
+- [gabime/spdlog][gabime/spdlog]: Fast C++ logging library. <GithubTags tagItems="cpp;logging;cpp11;header-only;spdlog" />
+- [DNedic/lockfree][DNedic/lockfree]: A collection of lock-free data structures written in standard C++11 <GithubTags tagItems="library;cmake;embedded;queue;cpp;buffer;cpp11;embedded-systems;ring-buffer;lock-free;inter-process-communication;circular-buffer;fifo;dma;circular-queue;bipartite;lock-free-queue" />
+
 
 ---
 
@@ -378,11 +375,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [ellie/atuin]: https://github.com/ellie/atuin
 [cantino/mcfly]: https://github.com/cantino/mcfly
 [alacritty/alacritty]: https://github.com/alacritty/alacritty
-<!-- Dart -->
-[flutter/flutter]: https://github.com/flutter/flutter
-[vishalxl/nostr_console]: https://github.com/vishalxl/nostr_console
-[immich-app/immich]: https://github.com/immich-app/immich
-[revanced/revanced-manager]: https://github.com/revanced/revanced-manager
 <!-- PHP -->
 [monicahq/monica]: https://github.com/monicahq/monica
 [openai-php/laravel]: https://github.com/openai-php/laravel
@@ -459,6 +451,12 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [ada-url/ada]: https://github.com/ada-url/ada
 [shchmue/Lockpick]: https://github.com/shchmue/Lockpick
 [shchmue/Lockpick_RCM]: https://github.com/shchmue/Lockpick_RCM
+[skyline-emu/skyline]: https://github.com/skyline-emu/skyline
+[azerothcore/azerothcore-wotlk]: https://github.com/azerothcore/azerothcore-wotlk
+[Atmosphere-NX/Atmosphere]: https://github.com/Atmosphere-NX/Atmosphere
+[kraxarn/spotify-qt]: https://github.com/kraxarn/spotify-qt
+[gabime/spdlog]: https://github.com/gabime/spdlog
+[DNedic/lockfree]: https://github.com/DNedic/lockfree
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim

@@ -118,6 +118,10 @@ meta:
   - [🌐Official Site](https://gitea.io)
 - [TimothyStiles/poly][TimothyStiles/poly]: A Go package for engineering organisms. <GithubTags tagItems="bioinformatics;synthetic-biology;computational-biology;dna;genbank;fasta;molecular-biology;synbio;bioengineering;primer-design;golden-gate;dna-barcode;plasmids;dna-barcoding;codon-optimizer;genetic-engineering;engineering-organisms;sequence-hashing" />
   - [🌐Official Site](https://pkg.go.dev/github.com/TimothyStiles/poly)
+- [syncthing/syncthing][syncthing/syncthing]: Open Source Continuous File Synchronization <GithubTags tagItems="go;synchronization;peer-to-peer;p2p" />
+  - [🌐Official Site](https://forum.syncthing.net)
+
+
 
 <!-- Go -->
 
@@ -181,3 +185,4 @@ meta:
 [temporalio/temp]: https://github.com/temporalio/temp
 [go-gitea/gitea]: https://github.com/go-gitea/gitea
 [TimothyStiles/poly]: https://github.com/TimothyStiles/poly
+[syncthing/syncthing]: https://github.com/syncthing/syncthing

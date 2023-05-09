@@ -236,6 +236,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Sean Allen" channelId="seanallen" id="8aPjqLqUEKA" title="Swift - Result Type - Cleaner Network Calls" />
 <YoutubeItem channelName="Sean Allen" channelId="seanallen" id="QdnzU9jx9yw" title="Beginners - Learn SwiftUI or UIKit?" />
 <YoutubeItem channelName="Sean Allen" channelId="seanallen" id="2yIXXwfcbWk" title="iOS Dev Origin Story - Paul Hudson - Hacking with Swift" />
+<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="B4XySdT2FkY" title="How to Profit From Your Apps - NEW Podcast" />
 
 :::
 
@@ -284,7 +285,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## CodeWithChris
 
-[CodeWithChris][yu-code-w-chris]
+[![CodeWithChris](https://yt3.googleusercontent.com/Vj0nxLD_RscTQUDmLCHWlTrw6XaMswNn8CpTVuauqxgWgrEdcgQPcgnfoJ17CUM1NSqDSyJqpso=s176-c-k-c0x00ffffff-no-rj = x150)][yu-code-w-chris]
 
 ::: details 목록
 
@@ -315,7 +316,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Brian Advent
 
-[Brian Advent][yu-brian-advent]
+[![Brian Advent](https://yt3.googleusercontent.com/ytc/AGIKgqO07HUVv0rrp79fgD6wGQrALE4zGrJHP1yXehkf=s176-c-k-c0x00ffffff-no-rj =x150)][yu-brian-advent]
 
 ::: details 목록
 
@@ -336,17 +337,17 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Swift Tutorials
 
-[Swift Tutorials][yu-swifttutorials4691]
+[![Swift Tutorials](https://yt3.googleusercontent.com/ytc/AGIKgqMU-RGjrgWJwdQ_NUkjJmuzD_7izfiEAWB1Ig5a=s176-c-k-c0x00ffffff-no-rj =x150)][yu-swifttutorialsforios]
 
 ::: details 목록
 
-<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="SuJ4cEOwqV8" title="Swift Tutorial - Count number of line UILabel in iOS SDK using swift" />
-<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="Tjg5X30XhMw" title="Swift Tutorials: Integrate push notifications to iOS app using Firebase messaging \(Step via step\)" />
-<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="NJpwx9i042E" title="Swift Tutorials: How to fix warning deprecated UIWebView API usage in Xcode for iOS app" />
-<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="uEJzc81oCk4" title="Swift Tutorials: Detect change in internet connection using Network framework" />
-<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="3Dk0JNQQkO0" title="How to make UIButton circular in swift 4" />
-<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="Ps8bmxYdIVI" title="How to create drop down menu in ios using swift 4 + Xcode 9.2" />
-<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorials4691" id="S6q5d3RvVY8" title="Create CheckBox in swift 4 using Xcode 9 0 onwards" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorialsforios" id="SuJ4cEOwqV8" title="Swift Tutorial - Count number of line UILabel in iOS SDK using swift" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorialsforios" id="Tjg5X30XhMw" title="Swift Tutorials: Integrate push notifications to iOS app using Firebase messaging (Step via step)" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorialsforios" id="NJpwx9i042E" title="Swift Tutorials: How to fix warning deprecated UIWebView API usage in Xcode for iOS app" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorialsforios" id="uEJzc81oCk4" title="Swift Tutorials: Detect change in internet connection using Network framework" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorialsforios" id="3Dk0JNQQkO0" title="How to make UIButton circular in swift 4" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorialsforios" id="Ps8bmxYdIVI" title="How to create drop down menu in ios using swift 4 + Xcode 9.2" />
+<YoutubeItem channelName="Swift Tutorials" channelId="swifttutorialsforios" id="S6q5d3RvVY8" title="Create CheckBox in swift 4 using Xcode 9 0 onwards" />
 
 :::
 
@@ -356,7 +357,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Lets Build That App
 
-[Lets Build That App][yu-lets-build-that-app]
+[![Lets Build That App](https://yt3.googleusercontent.com/ytc/AGIKgqNufB8WyRW2Dxfkdp2_pwUnZtf-GjupbRxH5z6Zmw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-lets-build-that-app]
 
 ::: details 목록
 
@@ -398,9 +399,58 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## CodingWithAndrei
+
+[CodingWithAndrei][yu-coding-w-andrei]
+
+::: details 목록
+
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="wke9-zU1lOM" title="Build a Furniture Store App with Swift UI #9" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="hbm6_2A_8WU" title="How to use `@AppStorage` property wrapper to store the color of the Color Picker View in Swift UI 2" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="Rb68lPPgyCE" title="The Calculator (part 3) - Swift UI" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="YONPr4oovNU" title="Dating App Login Screen - Learn Swift UI" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="nrpAihUi4tU" title="Cryptocurrency Onboarding Screen - Part 8" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="mW7cRLwpP1M" title="Cryptocurrency Onboarding Screen - Part 7" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="zOgoMauwN6c" title="Cryptocurrency Onboarding Screen - Part 5" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="7VvRdB4waXY" title="Cryptocurrency Onboarding Screen - Part 6" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="tDpX7nfwuXI" title="Cryptocurrency Onboarding Screen - Part 4" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="izFE5xvclDI" title="Cryptocurrency Onboarding Screen - Part 3" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="utlbbucNENA" title="Cryptocurrency Onboarding Screen - Part 2" />
+<YoutubeItem channelName="CodingWithAndrei" channelId="codeWithAndrei" id="DqTjgHLdduI" title="Cryptocurrency Onboarding Screen - Part 1" />
+
+:::
+
+<!-- CodingWithAndrei -->
+
+---
+
+
+
+## Swift Kat Code Factory
+
+[Swift Kat Code Factory][yu-swiftkatcodefactory]
+
+::: details 목록
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="fgAPHGdHvVE" title="17 Wrap Up and Next Steps - Build a messaging app (Spring Boot + Cassandra)" />
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="UcKdnFAIZPc" title="Deep Linking in iOS | Custom URL scheme | Pass Data| Open WebURL/Appstore | Lang-Swift5 | XCode 12.5" />
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="n3B4zr5FR78" title="macOS Development Complete Course  - Basic tutorial for beginners-Episode1" />
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="5iA7KbzyFJM" title="WatchOS App  :- COVID-19 | Corona Stats in watchOS App Development  - Episode :- 4" />
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="UiXZ9iG5UCo" title="WatchOS App  :- Movie or Video Player in watchOS App Development  - Episode :- 3" />
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="dzwPTELDMro" title="WatchOS App Development Course  | Static &amp; Dynamic Notifications Intro- Episode:-2" />
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="Y0WX_nGgKSg" title="Figma Tutorial - Website Admin Design, Prototyping |Basics |Build first Web Wireframe in 1 just hour" />
+
+:::
+
+<!-- Swift Kat Code Factory -->
+
+---
+
+
+
+
 ## Paul Colton
 
-[Paul Colton][yu-paul-colton]
+[![Paul Colton](https://yt3.googleusercontent.com/ytc/AGIKgqO5ZvkaCbGXjiHRySYXz5d9pHzBVDItbGZqTah55g=s176-c-k-c0x00ffffff-no-rj =x150)][yu-paul-colton]
 
 ::: details 목록
 
@@ -414,7 +464,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Async Swift Korea
 
-[Async Swift Korea][yu-asyncswiftkorea8910]
+[![Async Swift Korea](https://yt3.googleusercontent.com/CONJqpAPwPQJBMrJtqjzC7sltmkcNokWIKzoXpWRA9y7yTe9pnBQf5UGXJiJ3x8JrPVBCSEjQnU=s176-c-k-c0x00ffffff-no-rj =x150)][yu-asyncswiftkorea8910]
 
 ::: details 목록
 
@@ -433,7 +483,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Let Create An App
 
-[Let Create An App][yu-let-create-an-app]
+[![Let Create An App](https://yt3.googleusercontent.com/Oy5hBwtt8P0CaejQtSC8rOY-DbM025voOPhIbBtZ2yKROncl4PF44GHg_MTM9dRRYWBFjOro2w=s176-c-k-c0x00ffffff-no-rj =x150)][yu-let-create-an-app]
 
 ::: details 목록
 
@@ -449,7 +499,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Swiftful Thinking
 
-[Swiftful Thinking][yu-swiftful-thinking]
+[![Swiftful Thinking](https://yt3.googleusercontent.com/rrTgMAhG4cIBRRGWQBGB21PlTtZXPbMD3Q25a1qGXVZ0Lq64iKhv8SZuQqMZIKcy55Flsppfsw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-swiftful-thinking]
 
 ::: details 목록
 
@@ -469,7 +519,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## maxcodes
 
-[maxcodes][yu-maxcodes]
+[![maxcodes](https://yt3.googleusercontent.com/ytc/AGIKgqMxViFPOI-np9OOo9mxCDJRhPUuWPehe2_8DYjkxA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-maxcodes]
 
 ::: details 목록
 
@@ -486,7 +536,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## SwiftUI Tutorial#1
 
-[SwiftUI Tutorial#1][yu-swiftuitutorial1]
+[![SwiftUI Tutorial#1](https://yt3.googleusercontent.com/jH8z573PtkNT87hUlMjorHADswlNlu2WY_oED209S4NbbGn76Udj9jxeA79Zw131LjgUtBCHz5M=s176-c-k-c0x00ffffff-no-rj =x150)][yu-swiftuitutorial1]
 
 ::: details 목록
 
@@ -508,7 +558,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Martin Lasek
 
-[Martin Lasek][yu-martinlasek]
+[![Martin Lasek](https://yt3.googleusercontent.com/ytc/AGIKgqMMcLuzLLW0h0JyGs0f_ktJNpa2eQ7zZ6etUAlKJg=s176-c-k-c0x00ffffff-no-rj =x150)][yu-martinlasek]
 
 ::: details 목록
 
@@ -528,21 +578,17 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Flo writes Code
 
-[Flo writes Code][yu-flo-writes-code]
+[![Flo writes Code](https://yt3.googleusercontent.com/ehSCugyPbtxfFvUb-BPUHuHydgC7per3dfLL789DIk5KdDwNK-SBknsEyrFhFj40zfpoTF4jrw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-flo-writes-code]
 
 ::: details 목록
 
-| ❌ | <a href="https://www.youtube.com/watch?v=kWEyKdZ4G38"><img width="140px" height="auto" alt="thumb-kWEyKdZ4G38" src="https://i.ytimg.com/vi/kWEyKdZ4G38/hqdefault.jpg"/></a> | [Why I don't do MVVM anymore](https://www.youtube.com/watch?v=kWEyKdZ4G38) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bmTprKIdJ5U"><img width="140px" height="auto" alt="thumb-bmTprKIdJ5U" src="https://i.ytimg.com/vi/bmTprKIdJ5U/hqdefault.jpg"/></a> | [How to upload your app to the App Store in 2023](https://www.youtube.com/watch?v=bmTprKIdJ5U) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=v1lGPx6m__g"><img width="140px" height="auto" alt="thumb-v1lGPx6m__g" src="https://i.ytimg.com/vi/v1lGPx6m__g/hqdefault.jpg"/></a> | [macOS Menu Bar App using MenuBarExtra in Ventura &amp; SwiftUI \(No AppKit!\)](https://www.youtube.com/watch?v=v1lGPx6m__g) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AUOoalBwxos"><img width="140px" height="auto" alt="thumb-AUOoalBwxos" src="https://i.ytimg.com/vi/AUOoalBwxos/hqdefault.jpg"/></a> | [How to support Dynamic Island in iOS 16.1](https://www.youtube.com/watch?v=AUOoalBwxos) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZVdbRjY2GN4"><img width="140px" height="auto" alt="thumb-ZVdbRjY2GN4" src="https://i.ytimg.com/vi/ZVdbRjY2GN4/hqdefault.jpg"></a> | [Global Hotkeys on macOS in SwiftUI](https://www.youtube.com/watch?v=ZVdbRjY2GN4) <br/><br/> _[Flo writes Code][yu-flo-writes-code]_ |
-
-PtQevkS1M2I
-Create Menu Bar Commands with SwiftUI on macOS
-
-LG06nQRC1S8
-Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="kWEyKdZ4G38" title="Why I don't do MVVM anymore" />
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="bmTprKIdJ5U" title="How to upload your app to the App Store in 2023" />
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="v1lGPx6m__g" title="macOS Menu Bar App using MenuBarExtra in Ventura &amp; SwiftUI (No AppKit!)" />
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="AUOoalBwxos" title="How to support Dynamic Island in iOS 16.1" />
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="ZVdbRjY2GN4" title="Global Hotkeys on macOS in SwiftUI" />
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="PtQevkS1M2I" title="Create Menu Bar Commands with SwiftUI on macOS" />
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="LG06nQRC1S8" title="Support macOS Clipboard (Copy/Paste) in SwiftUI Apps" />
 
 :::
 
@@ -552,7 +598,7 @@ Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
 
 ## Mikaela Caron
 
-[Mikaela Caron][yu-mikaela-caron]
+[![Mikaela Caron](https://yt3.googleusercontent.com/f6fOGd8xQC-HhTZuB8eDmDoHlkMih0kBcYN7kFljVvRGy6vl0f3POhw1hV3d1_7MFwDH7UtTSg=s176-c-k-c0x00ffffff-no-rj =x150)][yu-mikaela-caron]
 
 ::: details 목록
 
@@ -570,7 +616,7 @@ Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
 
 ## Stewart Lynch
 
-[Stewart Lynch][yu-stewart-lynch]
+[![Stewart Lynch](https://yt3.googleusercontent.com/ytc/AGIKgqPKgroRkPy-zJvvzDLRouekFnHXGb1yc_r8Rqxjf0I=s176-c-k-c0x00ffffff-no-rj =x150)][yu-stewart-lynch]
 
 ::: details 목록
 
@@ -608,7 +654,7 @@ Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
 
 ## Rebeloper - Rebel Developer
 
-[Rebeloper - Rebel Developer][yu-rebeloper]
+[![Rebeloper - Rebel Developer](https://yt3.googleusercontent.com/c8ioqqNyiG8IWkRXrxloIjs-6WnfzVHL0p358DYdxH2ZiqnYfC8sF6FO9iyjYn1inFV69DV28w=s176-c-k-c0x00ffffff-no-rj =x150)][yu-rebeloper]
 
 ::: details 목록
 
@@ -639,13 +685,87 @@ Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
 <YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="IJT2WlB03D0" title="Configure Constants in a plist File in Less than 10 Minutes (EASY) | Xcode 10, Swift 5" />
 <YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="NQOapSkIRTs" title="Tiny Constraints | Build Instagram Profile (part 3) | Swift 5, iOS 12, Xcode 10" />
 <YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="X-XSsly2eF4" title="Why You Should NEVER Use Navigation Stack! ... This Surprising Alternative Will Change Everything!" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="3Lp8Sm1eC-E" title="Get Values from Info.plist with One Line of Code \(NEW\) \| Swift 5, Xcode 10" />
+<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="3Lp8Sm1eC-E" title="Get Values from Info.plist with One Line of Code (NEW) | Swift 5, Xcode 10" />
 <YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="JRsQxdg_Lbg" title="Build a Chatbot on iOS with SwiftUI and ChatGT  🤔" />
 <YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="RDtLWWos3cA" title="Unlock the Power of Core Data Versioning!" />
 
 :::
 
 <!-- Rebeloper - Rebel Developer -->
+
+---
+
+## KxCoding
+
+[![KxCoding](https://yt3.googleusercontent.com/ytc/AGIKgqPbSno_pXrbQHpFcDkpyNvkxg35p293m6jtcnmP=s176-c-k-c0x00ffffff-no-rj =x150)][yu-kx-coding]
+
+::: details 목록
+
+<YoutubeItem channelName="KxCoding" channelId="KxCoding" id="O7fZ2ZvEKoA" title="누구나 따라할 수 있는 SwiftUI로 메모 앱 만들기 (Xcode 13 버전)" />
+<YoutubeItem channelName="KxCoding" channelId="KxCoding" id="5JOBdLE51Ak" title="RxSwift 6, MVVM으로 메모 앱 만들기 #4 (Xcode 13)" />
+<YoutubeItem channelName="KxCoding" channelId="KxCoding" id="UEhgN3QC0Fw" title="RxSwift 6, MVVM으로 메모 앱 만들기 #5 (Xcode 13)" />
+
+:::
+
+<!-- KxCoding -->
+
+---
+
+## App Designer2
+
+[App Designer2][yu-swiftui2]
+
+::: details 목록
+
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="4EPGGzeu5Ic" title="SwiftUI WebKit: How to create a YouTube video App + saving it in CoreData." />
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="2LMLXPOQwtc" title="SwiftUI &amp; UIKit: how to implement UIAlert TextField [UIWindowScene] iOS 15 Xcode 13" />
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="aP9CDmIoJGs" title="SwiftUI tutorial: how to create the iPhone 11 call screen iOS 14." />
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="0SZvZxTXNdg" title="SwiftUI Saving images and data in the CodeData Xcode" />
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="qjh08OJUX_s" title="Swift 5.1 Tutorial : How to implement UIAlertController programmatically( No Storyboard ) Xcode 11.3" />
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="RKXlAprvvls" title="Swift 5.1 Tutoríal: Passing Json Data  programmatically to the ViewController  Xcode 11.3" />
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="AkDB3yaninM" title="SwiftUI Chats App with CoreData + Generate random Image" />
+
+:::
+
+<!-- App Designer2 -->
+
+---
+
+## Tom Baranowicz
+
+[Tom Baranowicz][yu-tom-baranowicz]
+
+::: details 목록
+
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="8_b-6djCRrc" title="iOS Tutorial - In App Purchase with Adapty" />
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="qrwKeS4r0_U" title="REACT NATIVE TUTORIAL - Teleprompter in TypeScript" />
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="Bk90lT6ne3g" title="Spotify API in JavaScript Tutorial - Playlist Export" />
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="jpV1B2N4IxY" title="Twitter API in JavaScript - Twitter Monitoring Tutorial" />
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="3MXYwpifQOM" title="Training CoreML Object Detection model from scratch using CreateML" />
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="1d1YSYzuRzU" title="Puppeteer + Node.js = App That Tracks Prices on Amazon" />
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="8_b-6djCRrc" title="iOS Tutorial - In App Purchase with Adapty" />
+
+:::
+
+<!-- Tom Baranowicz -->
+
+---
+
+## Anyone Can Code
+
+[Anyone Can Code][yu-anyone-can-code]
+
+::: details 목록
+
+<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="_dqnqDknsZU" title="ShazamKit and SwiftUI Tutorial - part 3 of 4" />
+<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="LxKyuLAxwi8" title="Make an iOS widget with SwiftUI - Part 2" />
+<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="kPo6bZ8wh8E" title="Make an iOS widget with SwiftUI - Part 3" />
+<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="151GCQlGsKg" title="Make an iOS widget with SwiftUI - Part 1" />
+<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="Snl3oxPifWo" title="Part 1: Create a multiplayer iOS game: A step by step tutorial" />
+
+:::
+
+<!-- Anyone Can Code -->
 
 ---
 
@@ -659,8 +779,10 @@ Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
 [yu-kilo-loco]: https://www.youtube.com/@Kilo_Loco
 [yu-code-w-chris]: https://www.youtube.com/@CodeWithChris
 [yu-brian-advent]: https://www.youtube.com/@BrianAdvent
-[yu-swifttutorials4691]: https://www.youtube.com/@swifttutorials4691
+[yu-swifttutorialsforios]: https://www.youtube.com/@swifttutorialsforios
 [yu-lets-build-that-app]: https://www.youtube.com/@LetsBuildThatApp
+[yu-swiftkatcodefactory]: https://www.youtube.com/@swiftkatcodefactory
+[yu-coding-w-andrei]: https://www.youtube.com/@codeWithAndrei
 [yu-paul-colton]: https://www.youtube.com/@PaulColton
 [yu-asyncswiftkorea8910]: https://www.youtube.com/@asyncswiftkorea8910
 [yu-let-create-an-app]: https://www.youtube.com/@LetCreateAnApp
@@ -668,6 +790,11 @@ Support macOS Clipboard (Copy/Paste) in SwiftUI Apps
 [yu-maxcodes]: https://www.youtube.com/@maxcodes
 [yu-swiftuitutorial1]: https://www.youtube.com/@swiftuitutorial1
 [yu-martinlasek]: https://www.youtube.com/@martinlasek
+[yu-flo-writes-code]: https://www.youtube.com/@FloWritesCode
 [yu-mikaela-caron]: https://www.youtube.com/@MikaelaCaron
 [yu-stewart-lynch]: https://www.youtube.com/@StewartLynch
 [yu-rebeloper]: https://www.youtube.com/@rebeloper
+[yu-kx-coding]: https://www.youtube.com/@KxCoding
+[yu-swiftui2]: https://www.youtube.com/@swiftui2
+[yu-tom-baranowicz]: https://www.youtube.com/@TomBaranowicz
+[yu-anyone-can-code]: https://www.youtube.com/@AnyoneCanCode

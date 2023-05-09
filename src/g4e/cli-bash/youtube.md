@@ -172,6 +172,22 @@ tags: ["bash", "linux", "macos", "terminal", "sed"]
 
 ---
 
+## Steve (Builder.io)
+
+[Steve (Builder.io)][channel]
+
+::: details 목록
+
+<YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="XK0V0E3bA-M" title="Deep cloning objects in JavaScript with structuredClone" />
+<YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="Wxlhtubs2FU" title="AI + VS Code = 🤯" />
+<YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="nTqDhv447GA" title="Introducing AI Shell: convert natural language to shell commands" />
+
+:::
+
+<!-- Steve (Builder.io) -->
+
+---
+
 <TagLinks />
 
 
@@ -181,3 +197,4 @@ tags: ["bash", "linux", "macos", "terminal", "sed"]
 [yu-distro-tube]: https://www.youtube.com/@DistroTube
 [yu-digital-metal]: https://www.youtube.com/@DigitalMetal
 [yu-ezee-linux]: https://www.youtube.com/@EzeeLinux
+[yu-steve8708]: https://www.youtube.com/@Steve8708

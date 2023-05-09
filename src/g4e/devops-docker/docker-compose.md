@@ -158,9 +158,10 @@ docker exec -it gitlab-runner /bin/bash
 
 gitlab-runner register --non-interactive \
   --url http://gitlab \
-  --registration-token GR1348941XFBuSpcsKGBSHAxLv2FP \
+  --registration-token GR1348941qg2LRSP-3Rp5xmyErEyF \
   --executor docker \
   --docker-image alpine:latest \
+  --docker-volumes '/var/run/docker.sock:/var/run/docker.sock' \
   --docker-network-mode docker-compose_common-network
 ```
 

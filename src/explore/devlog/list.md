@@ -334,6 +334,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [(요약) The mind behind Linux | Linus Torvalds](https://johngrib.github.io/wiki/summary-the-mind-behind-linux)
 - [Enhancements to the Kagi search experience](https://blog.kagi.com/search-enhancements)
 - [Driving Compiler](https://fabiensanglard.net/dc/index.php)
+- [Porting WaterLily.jl into a backend-agnostic solver](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
 
 ---
 

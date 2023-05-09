@@ -109,7 +109,7 @@ meta:
 - [acheong08/EdgeGPT][acheong08/EdgeGPT]: Reverse engineered API of Microsoft's Bing Chat
 - [facebookresearch/llama][facebookresearch/llama]: Inference code for LLaMA models
 - [GaiZhenbiao/ChuanhuChatGPT][GaiZhenbiao/ChuanhuChatGPT]: GUI for ChatGPT API
-- [AUTOMATIC1111/stable-diffusion-webui][AUTOMATIC1111/stable-diffusion-webui]: Stable Diffusion web UI
+- [AUTOMATIC1111/stable-diffusion-webui][AUTOMATIC1111/stable-diffusion-webui]: Stable Diffusion web UI <GithubTags tagItems="web;ai;deep-learning;torch;pytorch;unstable;image-generation;gradio;diffusion;upscaling;text2image;image2image;img2img;ai-art;txt2img;stable-diffusion" />
 - [huggingface/transformers][huggingface/transformers]: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
   - [🌐Official Site](https://huggingface.co/transformers)
 - [npiv/chatblade][npiv/chatblade]: A CLI Swiss Army Knife for ChatGPT
@@ -337,7 +337,21 @@ meta:
   - [🌐Official Site](https://www.deepspeed.ai)
 - [Guake/guake][Guake/guake]: Drop-down terminal for GNOME <GithubTags tagItems="terminal;guake;hacktoberfest;guake-terminal;terminal-emulator" />
   - [🌐Official Site](http://guake-project.org)
-
+[SCIR-HI/Huatuo-Llama-Med-Chinese][SCIR-HI/Huatuo-Llama-Med-Chinese]: Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge. 华驼模型仓库，基于中文医学知识的LLaMA模型指令微调 <GithubTags tagItems="nlp;medical;chinese;llama;llm;aidoctor;medqa;medgpt" />
+- [SCUTlihaoyu/open-chat-video-editor][SCUTlihaoyu/open-chat-video-editor]: Open source short video automatic generation tool
+- [ZrrSkywalker/Personalize-SAM][ZrrSkywalker/Personalize-SAM]: Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds
+- [imartinez/privateGPT][imartinez/privateGPT]: Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [Starry-Wind/Honkai-Star-Rail][Starry-Wind/Honkai-Star-Rail]: 崩坏：星穹铁道自动锄大地脚本
+- [GFW-knocker/gfw_resist_HTTPS_proxy][GFW-knocker/gfw_resist_HTTPS_proxy]: HTTPS proxy with Fragment and DoH
+- [IBM/Dromedary][IBM/Dromedary]: Dromedary: towards helpful, ethical and reliable LLMs.
+- [aedocw/epub2tts][aedocw/epub2tts]
+- [kizniche/Mycodo][kizniche/Mycodo]: An environmental monitoring and regulation system <GithubTags tagItems="python;raspberry-pi;relay;automation;environment;monitoring;time-series;graphs;timer;pid;plants;regulation;sensors;measurements;mushroom;grow;cultivation;hydroponic" />
+  - [🌐Official Site](http://kylegabriel.com/projects)
+- [voicepaw/so-vits-svc-fork][voicepaw/so-vits-svc-fork]: so-vits-svc fork with realtime support, improved interface and more features. <GithubTags tagItems="lightning;deep-learning;realtime;pytorch;speech-synthesis;gan;voice-conversion;voice-changer;pytorch-lightning;hubert;vits;sovits;so-vits-svc;softvc;contentvec" />
+- [paulpierre/RasaGPT][paulpierre/RasaGPT]: 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram <GithubTags tagItems="ai;telegram;telegram-bot;chatbot;ml;rasa-nlu;openai;rasa;rasa-core;fastapi;rasa-chatbot;gpt-3;gpt-4;llm;chatgpt;langchain;llama-index" />
+  - [🌐Official Site](https://rasagpt.dev)
+- [MakiNaruto/Automatic_ticket_purchase][MakiNaruto/Automatic_ticket_purchase]: 大麦网抢票脚本 <GithubTags tagItems="selenium;python3;requests;beautifulsoup4" />
+- [geohot/tinygrad][geohot/tinygrad]: You like pytorch? You like micrograd? You love tinygrad! ❤️
 
 
 <!-- Python -->
@@ -617,6 +631,19 @@ meta:
 [bigcode-project/starcoder]: https://github.com/bigcode-project/starcoder
 [microsoft/DeepSpeed]: https://github.com/microsoft/DeepSpeed
 [Guake/guake]: https://github.com/Guake/guake
+[SCIR-HI/Huatuo-Llama-Med-Chinese]: https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
+[SCUTlihaoyu/open-chat-video-editor]: https://github.com/SCUTlihaoyu/open-chat-video-editor
+[ZrrSkywalker/Personalize-SAM]: https://github.com/ZrrSkywalker/Personalize-SAM
+[imartinez/privateGPT]: https://github.com/imartinez/privateGPT
+[Starry-Wind/Honkai-Star-Rail]: https://github.com/Starry-Wind/Honkai-Star-Rail
+[GFW-knocker/gfw_resist_HTTPS_proxy]: https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy
+[IBM/Dromedary]: https://github.com/IBM/Dromedary
+[aedocw/epub2tts]: https://github.com/aedocw/epub2tts
+[kizniche/Mycodo]: https://github.com/kizniche/Mycodo
+[voicepaw/so-vits-svc-fork]: https://github.com/voicepaw/so-vits-svc-fork
+[paulpierre/RasaGPT]: https://github.com/paulpierre/RasaGPT
+[MakiNaruto/Automatic_ticket_purchase]: https://github.com/MakiNaruto/Automatic_ticket_purchase
+[geohot/tinygrad]: https://github.com/geohot/tinygrad
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora

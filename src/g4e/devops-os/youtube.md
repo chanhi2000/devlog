@@ -20,9 +20,9 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 ::: details 목록
 
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="xWz_-gyv3j4" title="What's the BEST home server operating system?" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="syzwLwE3Xq4" title="You want a real DNS Server at home? \(bind9 + docker\)" />
+<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="syzwLwE3Xq4" title="You want a real DNS Server at home? (bind9 + docker)" />
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="cEDXeYStfP4" title="Self hosted, open source password manager built for teams!" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="NfggT5enF4o" title="New \*incredible\* mac OS terminal! \(warp + starship + zsh\)" />
+<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="NfggT5enF4o" title="New *incredible* mac OS terminal! (warp + starship + zsh)" />
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="Yb3_4PZX0B0" title="Let's do GitOps in Kubernetes! ArgoCD Tutorial" />
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="xWz_-gyv3j4" title="What's the BEST home server operating system?" />
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="yMmxw-DZ5Ec" title="How to use Cloudflare Tunnel in your Homelab (even with Traefik)" />
@@ -53,7 +53,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="V_uEpe2L9Ec" title="이글루시큐리티 SOAR - 보안관제의 끝에서 자동화를 외치다 [토크아이티]" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="V-01oqud9Pw" title="클라우드 보안을 위한 IBM 큐레이더와 보안관제: 컨테이너 가시성, AI 왓슨기반 위협분석, SaaS 보안, SOAR" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="ihQtMR873jM" title="Autodesk Moldflow Summit 2021 - 플라스틱 '사출 성형, 압축 성형, 금형 제작' 최적화 전략" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="exgO1LFl9x8" title="파이썬 코딩 무료 강의 \(활용편4\) - 업무자동화\(RPA\), 이제는 일하는 척\(?\)만 하세요" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="exgO1LFl9x8" title="파이썬 코딩 무료 강의 (활용편4) - 업무자동화(RPA), 이제는 일하는 척(?)만 하세요" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="f2IFyWomXJQ" title="재택근무 컴플라이언스 대응을 위한 단말과 접근통제 보안 전략" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="j_pdvd-slSQ" title="코로나와 함께하는 클라우드 시대를 위한 데이터 보호" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="PIi7C4tMEDU" title="마이크로소프트 애저 클라우드 추천서비스, VDI, GitHub, SAP [챕터9, 토크아이티 Video Book#5, 퍼블릭클라우드]]" />
@@ -160,7 +160,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="aSWVwdr2_n8" title="Linux Crash Course - The \\`watch\\` Command" />
+<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="aSWVwdr2_n8" title="Linux Crash Course - The `watch` Command" />
 <YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="sBrAVQumqjs" title="5 Must Have Tweaks to Secure OpenSSH" />
 <YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="ZWC_1nISLKE" title="Why you should build your Portfolio in Github to gain a Linux Job" />
 <YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="bVB24I7B0JQ" title="Building your own Git Server with Gitea on AlmaLinux" />
@@ -200,11 +200,127 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## David Bombal
+
+[David Bombal][yu-david-bombal]
+
+::: details 목록
+
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="VcV4T8cL3xw" title="Certificates of Authority: Do you really understand how SSL / TLS works?" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="CkVvB5woQRM" title="Free API Hacking course!" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="ES2P2hWuzDo" title="Metasploit" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="fffSbCbafts" title="Do you need a Cybersecurity home lab?" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="HemWKwd2AvM" title="Your path to success || Network Engineer in 2021" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="VAMP8DqSDjg" title="Kali Linux 2020.3 install Windows 10 (for free)" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="tA50zg7D4mg" title="Kali Linux install macOS in 10 min (Free VMware)" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="IB1uKovH_Lw" title="Cisco Packet Tracer Networks | Free CCNA 200-301 Course | Video #5" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="oTD8cYluUgk" title="Kali Linux: WSL 2 install and GUI setup" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="uWNpXOT-Zbo" title="Windows Terminal: Finally!" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="5RQbdMn04Oc" title="WSL 2 with Docker getting started" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="_fntjriRe48" title="WSL 2: Getting started" />
+<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="mtz-6CZIV6o" title="Root Android (Kali Linux NetHunter install)" />
+
+:::
+
+<!-- David Bombal -->
+
+---
+
+## tutoriaLinux
+
+[tutoriaLinux][yu-tutoriaLinux]
+
+::: details 목록
+
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="EFJNxQFXV5s" title="Modern Linux Tools: Command-Line Help" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="C4a7jxlMTfo" title="How to Create a systemd Linux Service" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="bju_FdCo42w" title="Linux Sysadmin Basics -- Course Introduction \(Updated for 2022\)" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="BHhA_ZKjyxo" title="Basic `tmux` Tutorial - Windows, Panes, and Sessions over SSH" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="4beEybPzYqQ" title="Step-by-Step WordPress Setup on Linux, Nginx, MySQL, and PHP/php-fpm" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="V8EUdia_kOE" title="My 5 Favorite Linux Shell Tricks for SPEEEEEED \(and efficiency\)" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="o9-Y6aKW4sI" title="Terraform Basics 4: Automatically Configure Load-Balanced Web Servers" />
+
+:::
+
+<!-- tutoriaLinux -->
+
+---
+
+## VMware Tanzu
+
+[VMware Tanzu][yu-vmware-tanzu]
+
+::: details 목록
+
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="gsyGOv_Nwb0" title="⚡️ Enlightning - Carvel: Clean Tools for Cloud Native Problems" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="zzK6E2TS2Kc" title="KubeAcademy Office Hours Core Concepts Part 1 Platform v2" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="6WfxWfIwoAU" title="Code - Spring for GraphQL" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="kiCRfdRBiuw" title="Tanzu.TV/Code - Testing the Web Layer with Spring with Jakub Pilimon" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="R9mNUfvp8Dg" title="Tanzu Tuesdays - Top tips for running Spring Boot applications on Kubernetes with Ollie Hughes" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="aHRmveIdsV0" title="Tanzu.TV/code - Kubernetes and Spring: a Rom-Com for the Ages with Josh Long" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="9v927WQ7NWM" title="Automated Refactoring for Spring-Based Applications with Jonathan Schneider" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="YlJrl0nDPaQ" title="The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="eGFdEXw9eLE" title="⚡️ Enlightning - Software Defined Cloud Dev Environments with the Devfile" />
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="a0zUCc2gKL8" title="Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices" />
+
+:::
+
+<!-- VMware Tanzu -->
+
+---
+
+## Packt
+
+[Packt][yu-packt]
+
+::: details 목록
+
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="5L5pTGOzckU" title="Introducing Microsoft Team Foundation Server 2017 : Introduction to Team Projects | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="1Lth8GtlFkI" title="Continuous Integration &amp; Delivery- Jenkins X &amp; Kubernetes: Adding Apps to Jenkins X | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="H7_PJEi7AoQ" title="Modern Java Web Applications with Spring Boot 2.x : Exploring REST with Apache CXF | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="GTfxB441D5c" title="Modern Java Web Applications - Spring Boot 2x: Securing App Using Spring Security 5.2 | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="zwaV5L_qYDc" title="Hands-On React Applications with React Hooks : The Course Overview | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="G4v-wDNjxSg" title="Linux 5 Performance Monitoring and Tuning : Find Commands for Files | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="r6xOzQP2Y7o" title="Linux 5 Performance Monitoring and Tuning : Control Process with nice  | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="intH7cj4YEM" title="Develop and Deploy Modern Web Applications with Docker: Link Containers|packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="opXqEr7-0X4" title="Develop and Deploy Modern Web Applications with Docker: CI/CD Overview|packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="K4wPpt0QiRo" title="Develop and Deploy Modern Web Applications with Docker: Docker Command Line|packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="QgNKBJ4_3Wg" title="Develop and Deploy Modern Web Applications with Docker: Steps for Dockerizing Our Appln|packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="p2pnd0z6jYc" title="Hands-On Web Development with Bootstrap and Vue:  Designing Form Components | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="68hRMtWmTVA" title="Learning Linux 5 for System Administration:  Exploring the Types of Shells | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="ewaD19cG7lM" title="Learning Linux 5 for System Administration:  Controlling Services with systemctl | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="M5_RUn_V-Z4" title="Full-Stack Web Development with Flask: Creating the Base Template|packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="jTZvG3sRof8" title="Learning Metasploit 5.0: Basics of Information Gathering |packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="rPiFb03KSMU" title="Learning Metasploit 5.0: msfconsole|packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="yjPEEapzaLo" title="Learning Metasploit 5.0: Privilege Escalation Overview|packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="Mza5G7Jekgs" title="Hands-On Data Science with Java : Importing Deeplearning4j into Your Environment | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="yPZypjxe8O4" title="Hands-On Data Science with Java : Loading Data from Different Sources  | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="dfN8fuj5utw" title="Hands-On Data Science with Java : The Course Overview | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="teTtWI8kbDA" title="Hands-On Data Science with Java : Using Unsupervised Learning | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="CgkHQZlPFLo" title="Hands-On Data Science with Java : Efficient Distribution of Data | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="dfN8fuj5utw" title="Hands-On Data Science with Java : The Course Overview | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="teTtWI8kbDA" title="Hands-On Data Science with Java : Using Unsupervised Learning | packtpub.com" />
+<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="CgkHQZlPFLo" title="Hands-On Data Science with Java : Efficient Distribution of Data | packtpub.com" />
+
+:::
+
+<!-- Packt -->
+
+---
+
+
+
+
+<TagLinks />
+
 [yu-christianlempa]: https://www.youtube.com/@christianlempa
 [yu-talk-it]: https://www.youtube.com/@Talkitonair
+[yu-hnasr]: https://www.youtube.com/@hnasr
 [yu-fknight]: https://www.youtube.com/@fknight
 [yu-daniel-persson]: https://www.youtube.com/@DanielPersson
 [yu-learn-linux-tv]: https://www.youtube.com/@LearnLinuxTV
 [yu-sstectutorials]: https://www.youtube.com/@sstectutorials
-
-<TagLinks />
+[yu-david-bombal]: https://www.youtube.com/@davidbombal
+[yu-tutoriaLinux]: https://www.youtube.com/@tutoriaLinux
+[yu-vmware-tanzu]: https://www.youtube.com/@VMwareTanzu
+[yu-packt]: https://www.youtube.com/@OfficialPackt

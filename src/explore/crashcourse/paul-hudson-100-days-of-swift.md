@@ -292,7 +292,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 
 [day-1]: paul-hudson-100-days-of-swift/1
 [day-2]: paul-hudson-100-days-of-swift/2
-[day-3]: https://www.hackingwithswift.com/100/3
+[day-3]: paul-hudson-100-days-of-swift/3
 [day-4]: https://www.hackingwithswift.com/100/4
 [day-5]: https://www.hackingwithswift.com/100/5
 [day-6]: https://www.hackingwithswift.com/100/6

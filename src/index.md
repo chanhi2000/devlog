@@ -37,23 +37,36 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     </a>
   </div>
   <div class="feature">
-    <a href="https://simpleicons.org"><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square" /></a>
+    <p style="display:flex;justify-contents:flex-start;align-items:center;">
+      <a href="https://simpleicons.org"><img alt="SimpleIcons" height="60px" width="auto" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/simpleicons-white.svg" /></a>
+      <a href="https://simpleicons.org"><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square" /></a>
+      <a href="https://github.com/simple-icons/simple-icons"><img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" /></a>
+    </p>
+    <br/>
     <ul>
     <li><a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">SimpleIcons' Slugs</a></li>
     </ul>
   </div>
   <div class="feature">
     <a href="https://github.com/vuepress/awesome-vuepress/blob/main/v2.md">
-      <p>
+      <p style="display:flex;justify-contents:flex-start;align-items:center;">
+        <img alt="awesome-vuepress-jumbo" height="80px" width="auto" src="https://raw.githubusercontent.com/vuepress/awesome-vuepress/main/logo.png" />
         <img alt="vuepress" src="https://img.shields.io/badge/Vuepress-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" />
         <img alt="Awesome Lists" src="https://img.shields.io/badge/Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=white&style=flat-square" />
         <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
       </p>
       <br/>
-      <img alt="awesome-vuepress-jumbo" height="150px" width="auto" src="https://raw.githubusercontent.com/vuepress/awesome-vuepress/main/logo.png" />
       <h2>vuepress/awesome-vuepress/v2</h2>
       <p></p>
     </a>
+  </div>
+  <div class="feature"> <!-- 인포그랩 --> 
+    <a href="https://insight.infograb.net/home"><img alt="InfoGrab" height="40px" width="auto" src="https://insight.infograb.net/img/logo.svg" /></a>
+    <br/>
+    <ul>
+      <li><a href="https://insight.infograb.net/blog">블로그</a></li>
+      <li><a href="https://www.infograb.net/infoletter">인포레터</a></li>
+    </ul>
   </div>
 </div>
 

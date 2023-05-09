@@ -67,7 +67,7 @@ tags: ["git" , "github" , "objc" , "swift"]
 - [valexa/VAFieldTest][valexa/VAFieldTest]: CoreTelephony based signal tests
   - [🌐Official Site](http://blog.vladalexa.com)
 - [stleamist/BetterSafariView][stleamist/BetterSafariView]: A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI. <GithubTags tagItems="swift;ios;safari;sfsafariviewcontroller;sfauthenticationsession;swiftui;aswebauthenticationsession" />
-
+- [grishka/NearDrop][grishka/NearDrop]: An unofficial Google Nearby Share app for macOS
 
 <TagLinks />
 
@@ -105,3 +105,4 @@ tags: ["git" , "github" , "objc" , "swift"]
 [StanfordBDHG/HealthGPT]: https://github.com/StanfordBDHG/HealthGPT
 [valexa/VAFieldTest]: https://github.com/valexa/VAFieldTest
 [stleamist/BetterSafariView]: https://github.com/stleamist/BetterSafariView
+[grishka/NearDrop]: https://github.com/grishka/NearDrop

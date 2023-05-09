@@ -62,7 +62,33 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Leila Gharani
+
+[Leila Gharani][yu-leila-gharani]
+
+::: details 목록
+
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="21bXQDXSxYs" title="Can ChatGPT Properly Solve Your Complex Excel Spreadsheet Problems?" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="ehrXyFPljBo" title="Effortlessly Create Dynamic Charts in Excel: New Feature Alert!" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="L7s6Dni1dG8" title="Excel RECURSIVE Lambda - Create loops with ZERO coding!" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="Rm4y5UqauRw" title="Excel LAMBDA - HOW &amp; WHEN you Should use it" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="vBR1oRIED_E" title="How to create barcodes in Excel that WORK!" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="xnLvEhXWSas" title="Discover What XLOOKUP Can Do For YOU (R.I.P. Excel VLOOKUP)" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="aA8nVYNonV4" title="How the Balance Sheet Works | with a FUN Demo" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="7LjXpCcibks" title="Do's &amp; Don'ts of Excel Spreadsheet Design (with Examples)" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="21bXQDXSxYs" title="How ChatGPT Can Help With Your Complex Excel Spreadsheets" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="rvtuQo_8wTA" title="6 Useful Websites You NEED to Use!" />
+
+:::
+
+<!-- Leila Gharani -->
+
+---
+
+
+
 <TagLinks />
 
 [yu-oppadu]: https://www.youtube.com/@Oppadu
 [yu-excelisfun]: https://www.youtube.com/@excelisfun
+[yu-leila-gharani]: https://www.youtube.com/@LeilaGharani

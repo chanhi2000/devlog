@@ -106,6 +106,13 @@ meta:
 - [qdrant/qdrant][qdrant/qdrant]: Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io <GithubTags tagItems="search;search-engine;machine-learning;neural-network;matching;nearest-neighbor-search;image-search;recommender-system;approximate-nearest-neighbor-search;search-engines;similarity-search;knn-algorithm;mlops;hnsw;vector-search;vector-database;neural-search;vector-search-engine;embeddings-similarity" />
   - [🌐Official Site](https://qdrant.tech)
 - [paradigmxyz/artemis][paradigmxyz/artemis]: A simple, modular, and fast framework for writing MEV bots in Rust.
+- [jkfran/killport][jkfran/killport]: A command-line tool to easily kill processes running on a specified port.
+- [Cormanz/smartgpt][Cormanz/smartgpt]: A program that provides LLMs with the ability to complete complex tasks using plugins. <GithubTags tagItems="rust;ai;openai;gpt-3;gpt-4;llm" />
+- [casey/ord][casey/ord]: 👁‍🗨 Rare and exotic sats <GithubTags tagItems="art;rust;bitcoin" />
+  - [🌐Official Site](https://ordinals.com)
+- [cedar-policy/cedar][cedar-policy/cedar]
+
+
 
 <TagLinks />
 
@@ -161,3 +168,7 @@ meta:
 [GyulyVGC/sniffnet]: https://github.com/GyulyVGC/sniffnet
 [qdrant/qdrant]: https://github.com/qdrant/qdrant
 [paradigmxyz/artemis]: https://github.com/paradigmxyz/artemis
+[jkfran/killport]: https://github.com/jkfran/killport
+[Cormanz/smartgpt]: https://github.com/Cormanz/smartgpt
+[casey/ord]: https://github.com/casey/ord
+[cedar-policy/cedar]: https://github.com/cedar-policy/cedar

@@ -134,7 +134,7 @@ meta:
 - [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
   - [🌐Official Site](https://yiming_chang.gitee.io/vue-pure-admin)
 - [CorwinDev/Discord-Bot][CorwinDev/Discord-Bot]: Discord Bot with over 400 commands and made for large servers
-- [Infisical/infisical][Infisical/infisical]: ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+- [Infisical/infisical][Infisical/infisical]: ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure. <GithubTags tagItems="react;nodejs;cli;golang;open-source;security;typescript;nextjs;secret-management;secrets;environment-variables;end-to-end-encryption" />
   - [🌐Official Site](https://infisical.com)
 - [dariusk/twitter-archiver][dariusk/twitter-archiver]: Make your own simple, public, searchable Twitter archive
 - [alan2207/bulletproof-react][alan2207/bulletproof-react]: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -261,14 +261,17 @@ meta:
   - [🌐Official Site](https://vault.pash.city)
 - [micheleg/dash-to-dock][micheleg/dash-to-dock]: A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops. <GithubTags tagItems="linux;gnome;dock" />
   - [🌐Official Site](https://micheleg.github.io/dash-to-dock)
-
-
+- [adrianhajdin/project_next_13_ai_prompt_sharing][adrianhajdin/project_next_13_ai_prompt_sharing]: Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application. <GithubTags tagItems="nextjs;nextjs-13;nextjs13" />
+  - [🌐Official Site](https://promptopia.vercel.app)
+- [hackclub/sinerider][hackclub/sinerider]: 💖 A game about love and graphing, built by teenagers. Play it now! <GithubTags tagItems="sinerider" />
+  - [🌐Official Site](https://sinerider.com)
+- [yashash-pugalia/win11-svelte][yashash-pugalia/win11-svelte]: Recreating Windows 11 with Svelte. <GithubTags tagItems="javascript;css;svelte" />
+  - [🌐Official Site](https://win11-svelte.vercel.app)
 
 
 <!-- Javascript -->
 
 ---
-
 
 ## Typescript
 
@@ -404,8 +407,19 @@ meta:
 - [Azure/Azure-Sentinel][Azure/Azure-Sentinel]: Cloud-native SIEM for intelligent security analytics for your entire enterprise. <GithubTags tagItems="cybersecurity;sample-code" />
   - [🌐Official Site](https://azure.microsoft.com/en-us/services/azure-sentinel)
 - [drizzle-team/drizzle-orm][drizzle-team/drizzle-orm]: TypeScript ORM for SQL <GithubTags tagItems="nodejs;mysql;postgres;typescript;sql;orm;sqlite;neon;postgresql;sqlite3;d1;mysql2;sqljs;bunjs;litefs;turso;libsql;postgresjs" />
+- [AntonioErdeljac/next13-messenger][AntonioErdeljac/next13-messenger]
+  - [🌐Official Site](https://next13-whatsapp.vercel.app)
+- [unisat-wallet/extension][unisat-wallet/extension]: The first open-source browser extension wallet for Bitcoin NFTs <GithubTags tagItems="extension;bitcoin;ordinals" />
+- [vadimdemedes/ink][vadimdemedes/ink]: 🌈 React for interactive command-line apps <GithubTags tagItems="react;javascript;cli;command-line;interactive;flexbox" />
+  - [🌐Official Site](https://term.ink)
+- [BuilderIO/SSDiff][BuilderIO/SSDiff]: The open-source tool for pixel-perfect website migrations
+- [xiangsx/gpt4free-ts][xiangsx/gpt4free-ts]: This is a replication project for the typescript version of xtekky/gpt4free <GithubTags tagItems="nodejs;typescript;chatbot;openai;chatbots;gpt;gpt-3;gpt-4;gpt4;chatgpt;chatgpt-free;gpt-35-turbo;chatgpt4;gpt4-api;free-gpt;gpt4free" />
+- [Orillusion/orillusion][Orillusion/orillusion]: Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard. <GithubTags tagItems="javascript;typescript;html5;graphics;3d;webgpu;web3d;orillusion" />
+  - [🌐Official Site](https://www.orillusion.com)
+- [omnivore-app/omnivore][omnivore-app/omnivore]: Omnivore is a complete, open source read-it-later solution for people who like reading. <GithubTags tagItems="productivity;bookmarks;reading;reader;read-it-later;logseq;logseq-plugin" />
+  - [🌐Official Site](https://omnivore.app)
 
-
+---
 
 <TagLinks />
 
@@ -545,6 +559,9 @@ meta:
 [frappe/frappe]: https://github.com/frappe/frappe
 [pashpashpash/vault-ai]: https://github.com/pashpashpash/vault-ai
 [micheleg/dash-to-dock]: https://github.com/micheleg/dash-to-dock
+[adrianhajdin/project_next_13_ai_prompt_sharing]: https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing
+[hackclub/sinerider]: https://github.com/hackclub/sinerider
+[yashash-pugalia/win11-svelte]: https://github.com/yashash-pugalia/win11-svelte
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -620,3 +637,10 @@ meta:
 [AprilNEA/ChatGPT-Admin-Web]: https://github.com/AprilNEA/ChatGPT-Admin-Web
 [Azure/Azure-Sentinel]: https://github.com/Azure/Azure-Sentinel
 [drizzle-team/drizzle-orm]: https://github.com/drizzle-team/drizzle-orm
+[AntonioErdeljac/next13-messenger]: https://github.com/AntonioErdeljac/next13-messenger
+[unisat-wallet/extension]: https://github.com/unisat-wallet/extension
+[vadimdemedes/ink]: https://github.com/vadimdemedes/ink
+[BuilderIO/SSDiff]: https://github.com/BuilderIO/SSDiff
+[xiangsx/gpt4free-ts]: https://github.com/xiangsx/gpt4free-ts
+[Orillusion/orillusion]: https://github.com/Orillusion/orillusion
+[omnivore-app/omnivore]: https://github.com/omnivore-app/omnivore

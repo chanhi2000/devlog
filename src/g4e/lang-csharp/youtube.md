@@ -86,9 +86,67 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 ---
 
+## DotNet Core Central
+
+[DotNet Core Central][yu-dotnet-core-central]
+
+::: details 목록
+
+<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="H_Jd7nss3e8" title="Create proper request/response contract for Swagger" />
+<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="SzIAGR2oL9Q" title="An Introduction to Amazon SNS with AWS Lambda (Using .NET Core and C#)" />
+<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="QF1GHqkiiIQ" title="Debugging and Dependency Injection for Blazor WebAssembly (.NET 5.0)" />
+<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="Cm2psU-zN90" title="RabbitMQ Direct Exchange producer/consumer (Part 2, RabbitMQ in .NET Core)" />
+<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="vWkPdurauaA" title="ASP.NET Core Authentication with JWT  (JSON Web Token)" />
+
+:::
+
+<!-- DotNet Core Central -->
+
+---
+
+## dotnet
+
+[dotnet][yu-dotnet]
+
+::: details 목록
+
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="0cqtHWfgS5E" title="On .NET Live - Building web apps using MVVM" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="xyus7zlmgdc" title="OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="FhBgj9yORy4" title="Learn C# with CSharpFritz - Introduction to .NET MAUI" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="vc22hoUorzA" title=".NET Conf: Focus on MAUI" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="qfaQijTimxo" title="Develop amazing Windows apps using the Windows App SDK" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="4Xzx7Cm9ykg" title="Let's Learn .NET - Blazor" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="UnbJrC0WN1U" title="ASP.NET Community Standup - Balea authorization framework" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="Mpf0fCO6NrU" title="ASP.NET Community Standup - Building HTTP APIs" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="Ev4oT5fGROo" title="C# with CSharpFritz S2 E6 - Build for the Live Web with SignalR" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="u898_hiWJY0" title="C# with CSharpFritz - S2 E7 - Introducing Authentication and Authorization with ASP.NET Core" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="lmHU1zD2mvA" title="Entity Framework Community Standup - Introducing MSBuild.Sdk.SqlProj" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="biL1XOcg8Us" title="The .NET Docs Show - Functional Fun with F#" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="0AhIXUqfXTo" title="C# with CSharpFritz - S2 Ep 3: ASP.NET Core MVC, Part 2" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="ODBR7kZHp-s" title="GraphQL Schema stitching" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="2xeKomASV0E" title="The .NET Docs Show - Let's code a drone 🛸 to follow faces with Bruno Capuano" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="lzVZSKcC-oY" title="The .NET Docs Show - Blazor &amp; Comet ☄️ for Native Mobile Apps with Sam Basu" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="TeHVd3UlfY8" title=".NET Microservices with DAPR" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="gmopA3LEEeE" title="Blazor for Web Form and C# Developers" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="0tQNsHc-410" title="\[Korean\] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="DeegkS0Vf9o" title="How do I use SQL Server with C# and .NET?" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="kwJt6GcVlt4" title="[Korean] Load Testing ASP.NET Apps on AKS through GitHub Actions" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="i8tMiWHK05M" title="[Korean] Blazor Hybrid for Mobile App Development &amp; Deployment with App Center" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="zHgYDZK3MrA" title=".NET Migration Overview [1 of 18] Migrating from ASP.NET to ASP.NET Core" />
+
+:::
+
+<!-- dotnet -->
+
+---
+
 
 <TagLinks />
 
 [yu-frank-liu-software]: https://www.youtube.com/@FrankLiuSoftware
 [yu-i-am-tim-corey]: https://www.youtube.com/@IAmTimCorey
 [yu-pet-dander-tutorials]: https://www.youtube.com/@PetDanderTutorials
+[yu-dotnet-core-central]: https://www.youtube.com/@DotNetCoreCentral
+[yu-dotnet]: https://www.youtube.com/@dotnet

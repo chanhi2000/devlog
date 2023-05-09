@@ -59,6 +59,9 @@ meta:
 - [shahedc/multiweb][shahedc/multiweb]: Multiple projects for debugging sample.
 - [Ryujinx/Ryujinx][Ryujinx/Ryujinx]: Experimental Nintendo Switch Emulator written in C# <GithubTags tagItems="emulator;csharp;dotnet;emulation;switch;dotnet-core" />
   - [🌐Official Site](https://www.ryujinx.org)
+- [jellyfin/jellyfin][jellyfin/jellyfin]: The Free Software Media System <GithubTags tagItems="csharp;dotnet;hacktoberfest;jellyfin" />
+  - [🌐Official Site](https://jellyfin.org)
+
 
 <!-- C# -->
 
@@ -89,3 +92,4 @@ meta:
 [felixse/FluentTerminal]: https://github.com/felixse/FluentTerminal
 [shahedc/multiweb]: https://github.com/shahedc/multiweb
 [Ryujinx/Ryujinx]: https://github.com/Ryujinx/Ryujinx
+[jellyfin/jellyfin]: https://github.com/jellyfin/jellyfin

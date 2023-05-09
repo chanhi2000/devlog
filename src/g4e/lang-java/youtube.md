@@ -300,81 +300,76 @@ meta:
 [프리렉][yu-freeleckor]
 
 ::: details 자바 웹 개발 워크북
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=kUNDBmUfaNw"><img width="140px" height="auto" alt="thumb-kUNDBmUfaNw" src="https://i.ytimg.com/vi/kUNDBmUfaNw/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #01 0장 - 강의 소개와 실습 준비](https://www.youtube.com/watch?v=kUNDBmUfaNw) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VuAjzhF4c94"><img width="140px" height="auto" alt="thumb-VuAjzhF4c94" src="https://i.ytimg.com/vi/VuAjzhF4c94/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #02 0장 - JDK 설치](https://www.youtube.com/watch?v=VuAjzhF4c94) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UzKTraJBE08"><img width="140px" height="auto" alt="thumb-UzKTraJBE08" src="https://i.ytimg.com/vi/UzKTraJBE08/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #03 0장 - Eclipse 설치와 설정](https://www.youtube.com/watch?v=UzKTraJBE08) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1xqkdSV7Cbw"><img width="140px" height="auto" alt="thumb-1xqkdSV7Cbw" src="https://i.ytimg.com/vi/1xqkdSV7Cbw/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #04 0장 - 톰캣 서버 설치 및 설정](https://www.youtube.com/watch?v=1xqkdSV7Cbw) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WmBBRn6sjR8"><img width="140px" height="auto" alt="thumb-WmBBRn6sjR8" src="https://i.ytimg.com/vi/WmBBRn6sjR8/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #05 0장 - Groovy, Gradle 이클립스 플러그인 설치](https://www.youtube.com/watch?v=WmBBRn6sjR8) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=mvspOuyBEj0"><img width="140px" height="auto" alt="thumb-mvspOuyBEj0" src="https://i.ytimg.com/vi/mvspOuyBEj0/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #06 0장 - MySQL 설치](https://www.youtube.com/watch?v=mvspOuyBEj0) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=S4VmcWEWii8"><img width="140px" height="auto" alt="thumb-S4VmcWEWii8" src="https://i.ytimg.com/vi/S4VmcWEWii8/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #07 0장 - exerd 설치](https://www.youtube.com/watch?v=S4VmcWEWii8) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kfHVqPPm4Ms"><img width="140px" height="auto" alt="thumb-kfHVqPPm4Ms" src="https://i.ytimg.com/vi/kfHVqPPm4Ms/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #08 0장 - GitHub.com에서 실습 소스 가져오기](https://www.youtube.com/watch?v=kfHVqPPm4Ms) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AIEYjR27ctg"><img width="140px" height="auto" alt="thumb-AIEYjR27ctg" src="https://i.ytimg.com/vi/AIEYjR27ctg/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #09 1장 - 데스크톱 애플리케이션](https://www.youtube.com/watch?v=AIEYjR27ctg) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=34pnlCYaue8"><img width="140px" height="auto" alt="thumb-34pnlCYaue8" src="https://i.ytimg.com/vi/34pnlCYaue8/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #10 1장 - 클라이언트/서버 애플리케이션](https://www.youtube.com/watch?v=34pnlCYaue8) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_8D8SStwByw"><img width="140px" height="auto" alt="thumb-_8D8SStwByw" src="https://i.ytimg.com/vi/_8D8SStwByw/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #11 1장 - 다중 클라이언트의 요청 처리](https://www.youtube.com/watch?v=_8D8SStwByw) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DeZhocJ_qig"><img width="140px" height="auto" alt="thumb-DeZhocJ_qig" src="https://i.ytimg.com/vi/DeZhocJ_qig/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #12 1장 - 클라이언트/서버 아키텍처의 진화](https://www.youtube.com/watch?v=DeZhocJ_qig) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZTVdUmOkeYQ"><img width="140px" height="auto" alt="thumb-ZTVdUmOkeYQ" src="https://i.ytimg.com/vi/ZTVdUmOkeYQ/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #13 1장 - 웹 애플리케이션 아키텍처의 특징](https://www.youtube.com/watch?v=ZTVdUmOkeYQ) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vZUt7Aujghc"><img width="140px" height="auto" alt="thumb-vZUt7Aujghc" src="https://i.ytimg.com/vi/vZUt7Aujghc/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #14 2장 - HTTP 프로토콜의 이해](https://www.youtube.com/watch?v=vZUt7Aujghc) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=IbqZ2yTS7JI"><img width="140px" height="auto" alt="thumb-IbqZ2yTS7JI" src="https://i.ytimg.com/vi/IbqZ2yTS7JI/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #15 2장 - GET 요청](https://www.youtube.com/watch?v=IbqZ2yTS7JI) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=09EsChdayNA"><img width="140px" height="auto" alt="thumb-09EsChdayNA" src="https://i.ytimg.com/vi/09EsChdayNA/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #16 2장 - POST 요청](https://www.youtube.com/watch?v=09EsChdayNA) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ezMB5R5AP_4"><img width="140px" height="auto" alt="thumb-ezMB5R5AP_4" src="https://i.ytimg.com/vi/ezMB5R5AP_4/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #17 2장 - 파일 업로드](https://www.youtube.com/watch?v=ezMB5R5AP_4) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6lrcczGKeqI"><img width="140px" height="auto" alt="thumb-6lrcczGKeqI" src="https://i.ytimg.com/vi/6lrcczGKeqI/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #18 3장 - CGI 프로그램과 서블릿(3.2절 포함)](https://www.youtube.com/watch?v=6lrcczGKeqI) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6hLohARxuXQ"><img width="140px" height="auto" alt="thumb-6hLohARxuXQ" src="https://i.ytimg.com/vi/6hLohARxuXQ/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #19 3장 - 웹 프로젝트 준비(3.4절 포함)](https://www.youtube.com/watch?v=6hLohARxuXQ) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LXDoLwjGdf0"><img width="140px" height="auto" alt="thumb-LXDoLwjGdf0" src="https://i.ytimg.com/vi/LXDoLwjGdf0/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #20 3장 - 웹 애플리케이션 배치](https://www.youtube.com/watch?v=LXDoLwjGdf0) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=kPPbPpGrWH4"><img width="140px" height="auto" alt="thumb-kPPbPpGrWH4" src="https://i.ytimg.com/vi/kPPbPpGrWH4/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #21 3장 - GenericServlet의 사용](https://www.youtube.com/watch?v=kPPbPpGrWH4) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zPDCFEVZaCY"><img width="140px" height="auto" alt="thumb-zPDCFEVZaCY" src="https://i.ytimg.com/vi/zPDCFEVZaCY/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #22 4장 - 특강/JDBC와 데이터베이스](https://www.youtube.com/watch?v=zPDCFEVZaCY) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=T3O5fl_ambs"><img width="140px" height="auto" alt="thumb-T3O5fl_ambs" src="https://i.ytimg.com/vi/T3O5fl_ambs/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #23 4장 - 데이터베이스에서 데이터 가져오기](https://www.youtube.com/watch?v=T3O5fl_ambs) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2BrrLx_nbNI"><img width="140px" height="auto" alt="thumb-2BrrLx_nbNI" src="https://i.ytimg.com/vi/2BrrLx_nbNI/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #24 4장 - HttpServlet으로 GET요청 다루기(4.3, 4.4 포함)](https://www.youtube.com/watch?v=2BrrLx_nbNI) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F2fEBcTFuCs"><img width="140px" height="auto" alt="thumb-F2fEBcTFuCs" src="https://i.ytimg.com/vi/F2fEBcTFuCs/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #25 4장 - 리프래시와 리다이렉트(4.6 포함)](https://www.youtube.com/watch?v=F2fEBcTFuCs) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5edkwDlj_HI"><img width="140px" height="auto" alt="thumb-5edkwDlj_HI" src="https://i.ytimg.com/vi/5edkwDlj_HI/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #26 4장 - 서블릿 초기화 매개변수](https://www.youtube.com/watch?v=5edkwDlj_HI) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hl4aaPYuo6I"><img width="140px" height="auto" alt="thumb-hl4aaPYuo6I" src="https://i.ytimg.com/vi/hl4aaPYuo6I/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #27 4장 - 컨텍스트 초기화 매개변수(4.9 포함)](https://www.youtube.com/watch?v=hl4aaPYuo6I) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=okPkaP1lMYc"><img width="140px" height="auto" alt="thumb-okPkaP1lMYc" src="https://i.ytimg.com/vi/okPkaP1lMYc/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #28 5장 - MVC 이해하기](https://www.youtube.com/watch?v=okPkaP1lMYc) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bPxppBrRhBg"><img width="140px" height="auto" alt="thumb-bPxppBrRhBg" src="https://i.ytimg.com/vi/bPxppBrRhBg/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #29 5장 - 뷰 컴포넌트와 JSP](https://www.youtube.com/watch?v=bPxppBrRhBg) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pT7vfHmK9DM"><img width="140px" height="auto" alt="thumb-pT7vfHmK9DM" src="https://i.ytimg.com/vi/pT7vfHmK9DM/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #30 5장 - JSP의 주요 구성 요소](https://www.youtube.com/watch?v=pT7vfHmK9DM) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PEO5N8D_TRQ"><img width="140px" height="auto" alt="thumb-PEO5N8D_TRQ" src="https://i.ytimg.com/vi/PEO5N8D_TRQ/hqdefault.jpg"/></a> | [[자바 웹 개발 워크북] #31 5장 - 서블릿에서 뷰 분리하기](https://www.youtube.com/watch?v=PEO5N8D_TRQ) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=v67_Vt7HAiU"><img width="140px" height="auto" alt="thumb-v67_Vt7HAiU" src="https://i.ytimg.com/vi/v67_Vt7HAiU/hqdefault.jpg"/></a> | [05 05](https://www.youtube.com/watch?v=v67_Vt7HAiU) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oBFRLD17fRo"><img width="140px" height="auto" alt="thumb-oBFRLD17fRo" src="https://i.ytimg.com/vi/oBFRLD17fRo/hqdefault.jpg"/></a> | [05 06](https://www.youtube.com/watch?v=oBFRLD17fRo) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9TIi-KDGnrI"><img width="140px" height="auto" alt="thumb-9TIi-KDGnrI" src="https://i.ytimg.com/vi/9TIi-KDGnrI/hqdefault.jpg"/></a> | [05 07](https://www.youtube.com/watch?v=9TIi-KDGnrI) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wmE3dPWSl6g"><img width="140px" height="auto" alt="thumb-wmE3dPWSl6g" src="https://i.ytimg.com/vi/wmE3dPWSl6g/hqdefault.jpg"/></a> | [05 08](https://www.youtube.com/watch?v=wmE3dPWSl6g) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fAmzILo6M6k"><img width="140px" height="auto" alt="thumb-fAmzILo6M6k" src="https://i.ytimg.com/vi/fAmzILo6M6k/hqdefault.jpg"/></a> | [06 01](https://www.youtube.com/watch?v=fAmzILo6M6k) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=y2vwTOnKJd4"><img width="140px" height="auto" alt="thumb-y2vwTOnKJd4" src="https://i.ytimg.com/vi/y2vwTOnKJd4/hqdefault.jpg"/></a> | [06 02](https://www.youtube.com/watch?v=y2vwTOnKJd4) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oS0xC5YOudc"><img width="140px" height="auto" alt="thumb-oS0xC5YOudc" src="https://i.ytimg.com/vi/oS0xC5YOudc/hqdefault.jpg"/></a> | [06 03](https://www.youtube.com/watch?v=oS0xC5YOudc) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=uyZlO3cYWCE"><img width="140px" height="auto" alt="thumb-uyZlO3cYWCE" src="https://i.ytimg.com/vi/uyZlO3cYWCE/hqdefault.jpg"/></a> | [06 04](https://www.youtube.com/watch?v=uyZlO3cYWCE) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YvSSfrMhDtw"><img width="140px" height="auto" alt="thumb-YvSSfrMhDtw" src="https://i.ytimg.com/vi/YvSSfrMhDtw/hqdefault.jpg"/></a> | [06 05](https://www.youtube.com/watch?v=YvSSfrMhDtw) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=b7g4EqBCWag"><img width="140px" height="auto" alt="thumb-b7g4EqBCWag" src="https://i.ytimg.com/vi/b7g4EqBCWag/hqdefault.jpg"/></a> | [06 06](https://www.youtube.com/watch?v=b7g4EqBCWag) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sqnPMvBztuo"><img width="140px" height="auto" alt="thumb-sqnPMvBztuo" src="https://i.ytimg.com/vi/sqnPMvBztuo/hqdefault.jpg"/></a> | [07 01](https://www.youtube.com/watch?v=sqnPMvBztuo) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=YI2Z-1of-rs"><img width="140px" height="auto" alt="thumb-YI2Z-1of-rs" src="https://i.ytimg.com/vi/YI2Z-1of-rs/hqdefault.jpg"/></a> | [07 02](https://www.youtube.com/watch?v=YI2Z-1of-rs) <br/><br/> _[프리렉][yu-freeleckor]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wMFQcFMt99c"><img width="140px" height="auto" alt="thumb-wMFQcFMt99c" src="https://i.ytimg.com/vi/wMFQcFMt99c/hqdefault.jpg"/></a> | [08 01](https://www.youtube.com/watch?v=wMFQcFMt99c) <br/><br/> _[프리렉][yu-freeleckor]_ |
+
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="kUNDBmUfaNw" title="[자바 웹 개발 워크북] #01 0장 - 강의 소개와 실습 준비" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="VuAjzhF4c94" title="[자바 웹 개발 워크북] #02 0장 - JDK 설치" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="UzKTraJBE08" title="[자바 웹 개발 워크북] #03 0장 - Eclipse 설치와 설정" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="1xqkdSV7Cbw" title="[자바 웹 개발 워크북] #04 0장 - 톰캣 서버 설치 및 설정" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="WmBBRn6sjR8" title="[자바 웹 개발 워크북] #05 0장 - Groovy, Gradle 이클립스 플러그인 설치" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="mvspOuyBEj0" title="[자바 웹 개발 워크북] #06 0장 - MySQL 설치" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="S4VmcWEWii8" title="[자바 웹 개발 워크북] #07 0장 - exerd 설치" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="kfHVqPPm4Ms" title="[자바 웹 개발 워크북] #08 0장 - GitHub.com에서 실습 소스 가져오기" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="AIEYjR27ctg" title="[자바 웹 개발 워크북] #09 1장 - 데스크톱 애플리케이션" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="34pnlCYaue8" title="[자바 웹 개발 워크북] #10 1장 - 클라이언트/서버 애플리케이션" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="_8D8SStwByw" title="[자바 웹 개발 워크북] #11 1장 - 다중 클라이언트의 요청 처리" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="DeZhocJ_qig" title="[자바 웹 개발 워크북] #12 1장 - 클라이언트/서버 아키텍처의 진화" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="ZTVdUmOkeYQ" title="[자바 웹 개발 워크북] #13 1장 - 웹 애플리케이션 아키텍처의 특징" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="vZUt7Aujghc" title="[자바 웹 개발 워크북] #14 2장 - HTTP 프로토콜의 이해" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="IbqZ2yTS7JI" title="[자바 웹 개발 워크북] #15 2장 - GET 요청" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="09EsChdayNA" title="[자바 웹 개발 워크북] #16 2장 - POST 요청" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="ezMB5R5AP_4" title="[자바 웹 개발 워크북] #17 2장 - 파일 업로드" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="6lrcczGKeqI" title="[자바 웹 개발 워크북] #18 3장 - CGI 프로그램과 서블릿(3.2절 포함)" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="6hLohARxuXQ" title="[자바 웹 개발 워크북] #19 3장 - 웹 프로젝트 준비(3.4절 포함)" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="LXDoLwjGdf0" title="[자바 웹 개발 워크북] #20 3장 - 웹 애플리케이션 배치" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="kPPbPpGrWH4" title="[자바 웹 개발 워크북] #21 3장 - GenericServlet의 사용" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="zPDCFEVZaCY" title="[자바 웹 개발 워크북] #22 4장 - 특강/JDBC와 데이터베이스" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="T3O5fl_ambs" title="[자바 웹 개발 워크북] #23 4장 - 데이터베이스에서 데이터 가져오기" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="2BrrLx_nbNI" title="[자바 웹 개발 워크북] #24 4장 - HttpServlet으로 GET요청 다루기(4.3, 4.4 포함)" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="F2fEBcTFuCs" title="[자바 웹 개발 워크북] #25 4장 - 리프래시와 리다이렉트(4.6 포함)" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="5edkwDlj_HI" title="[자바 웹 개발 워크북] #26 4장 - 서블릿 초기화 매개변수" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="hl4aaPYuo6I" title="[자바 웹 개발 워크북] #27 4장 - 컨텍스트 초기화 매개변수(4.9 포함)" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="okPkaP1lMYc" title="[자바 웹 개발 워크북] #28 5장 - MVC 이해하기" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="bPxppBrRhBg" title="[자바 웹 개발 워크북] #29 5장 - 뷰 컴포넌트와 JSP" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="pT7vfHmK9DM" title="[자바 웹 개발 워크북] #30 5장 - JSP의 주요 구성 요소" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="PEO5N8D_TRQ" title="[자바 웹 개발 워크북] #31 5장 - 서블릿에서 뷰 분리하기" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="v67_Vt7HAiU" title="05 05" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="oBFRLD17fRo" title="05 06" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="9TIi-KDGnrI" title="05 07" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="wmE3dPWSl6g" title="05 08" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="fAmzILo6M6k" title="06 01" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="y2vwTOnKJd4" title="06 02" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="oS0xC5YOudc" title="06 03" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="uyZlO3cYWCE" title="06 04" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="YvSSfrMhDtw" title="06 05" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="b7g4EqBCWag" title="06 06" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="sqnPMvBztuo" title="07 01" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="YI2Z-1of-rs" title="07 02" />
+<YoutubeItem channelName="프리렉" channelId="freeleckor" id="wMFQcFMt99c" title="08 01" />
 
 :::
 
 ---
 ## Java Guides
 
-[Java Guides][yu-java-guides] 
+[Java Guides][yu-java-guides]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=PAU5edXr2Xo"><img width="140px" height="auto" alt="thumb-PAU5edXr2Xo" src="https://i.ytimg.com/vi/PAU5edXr2Xo/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #9 - Configure RabbitMQ in Spring Boot Application](https://www.youtube.com/watch?v=PAU5edXr2Xo) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1PzD85OONTA"><img width="140px" height="auto" alt="thumb-1PzD85OONTA" src="https://i.ytimg.com/vi/1PzD85OONTA/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #6 - Explore RabbitMQ using RabbitMQ Management UI](https://www.youtube.com/watch?v=1PzD85OONTA) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2Re6eS2hzwE"><img width="140px" height="auto" alt="thumb-2Re6eS2hzwE" src="https://i.ytimg.com/vi/2Re6eS2hzwE/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #5 - Install and Setup RabbitMQ using Docker](https://www.youtube.com/watch?v=2Re6eS2hzwE) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=aWnT_BxUtU4"><img width="140px" height="auto" alt="thumb-aWnT_BxUtU4" src="https://i.ytimg.com/vi/aWnT_BxUtU4/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #3 - RabbitMQ Core Concepts | Explained with Diagrams](https://www.youtube.com/watch?v=aWnT_BxUtU4) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=th3uIP7D8nk"><img width="140px" height="auto" alt="thumb-th3uIP7D8nk" src="https://i.ytimg.com/vi/th3uIP7D8nk/hqdefault.jpg"/></a> | [Spring Boot Restful Web Services Tutorial | Full Course ✅ | REST API | Spring Boot for Beginners](https://www.youtube.com/watch?v=th3uIP7D8nk) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XkVpb_8IPUM"><img width="140px" height="auto" alt="thumb-XkVpb_8IPUM" src="https://i.ytimg.com/vi/XkVpb_8IPUM/hqdefault.jpg"/></a> | [Spring Boot React Full Stack | Full Course ✅](https://www.youtube.com/watch?v=XkVpb_8IPUM) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3RoMHb-LaUA"><img width="140px" height="auto" alt="thumb-3RoMHb-LaUA" src="https://i.ytimg.com/vi/3RoMHb-LaUA/hqdefault.jpg"/></a> | [React Hooks + Spring Boot CRUD Full Stack App - 19 - Build Delete Employee REST API](https://www.youtube.com/watch?v=3RoMHb-LaUA) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gYrAvZCPJLQ"><img width="140px" height="auto" alt="thumb-gYrAvZCPJLQ" src="https://i.ytimg.com/vi/gYrAvZCPJLQ/hqdefault.jpg"/></a> | [React Hooks + Spring Boot CRUD Full Stack App - 9 - Adding Header and Footer to React App](https://www.youtube.com/watch?v=gYrAvZCPJLQ) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VR1zoNomG3w"><img width="140px" height="auto" alt="thumb-VR1zoNomG3w" src="https://i.ytimg.com/vi/VR1zoNomG3w/hqdefault.jpg"/></a> | [5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥](https://www.youtube.com/watch?v=VR1zoNomG3w) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=djRh94IWYYo"><img width="140px" height="auto" alt="thumb-djRh94IWYYo" src="https://i.ytimg.com/vi/djRh94IWYYo/hqdefault.jpg"/></a> | [Take Benefits of My Java Guides Blog and GitHub | My Blog Walkthrough](https://www.youtube.com/watch?v=djRh94IWYYo) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DzYyzmP4m5c"><img width="140px" height="auto" alt="thumb-DzYyzmP4m5c" src="https://i.ytimg.com/vi/DzYyzmP4m5c/hqdefault.jpg"/></a> | [Registration Form using JSP + Servlet + JDBC + MySQL Database Example](https://www.youtube.com/watch?v=DzYyzmP4m5c) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hxZuLn_DHoM"><img width="140px" height="auto" alt="thumb-hxZuLn_DHoM" src="https://i.ytimg.com/vi/hxZuLn_DHoM/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication](https://www.youtube.com/watch?v=hxZuLn_DHoM) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=fUsKNjGO4Is"><img width="140px" height="auto" alt="thumb-fUsKNjGO4Is" src="https://i.ytimg.com/vi/fUsKNjGO4Is/hqdefault.jpg"/></a> | [Spring Core: Why Constructor Based Dependency Injection is Recommended?](https://www.youtube.com/watch?v=fUsKNjGO4Is) <br/><br/> _[Java Guides][yu-java-guides]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hxZuLn_DHoM"><img width="140px" height="auto" alt="thumb-hxZuLn_DHoM" src="https://i.ytimg.com/vi/hxZuLn_DHoM/hqdefault.jpg"/></a> | [Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication](https://www.youtube.com/watch?v=hxZuLn_DHoM) <br/><br/> _[Java Guides][yu-java-guides]_ |
 
-JrkHCGDZB3w
-Spring &amp; Spring Boot Annotations Series - #10  - `@PropertySource` and `@PropertySources` Annotations
-
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="PAU5edXr2Xo" title="Spring Boot RabbitMQ Tutorial - #9 - Configure RabbitMQ in Spring Boot Application" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="1PzD85OONTA" title="Spring Boot RabbitMQ Tutorial - #6 - Explore RabbitMQ using RabbitMQ Management UI" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="2Re6eS2hzwE" title="Spring Boot RabbitMQ Tutorial - #5 - Install and Setup RabbitMQ using Docker" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="aWnT_BxUtU4" title="Spring Boot RabbitMQ Tutorial - #3 - RabbitMQ Core Concepts | Explained with Diagrams" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="th3uIP7D8nk" title="Spring Boot Restful Web Services Tutorial | Full Course ✅ | REST API | Spring Boot for Beginners" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="XkVpb_8IPUM" title="Spring Boot React Full Stack | Full Course ✅" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="3RoMHb-LaUA" title="React Hooks + Spring Boot CRUD Full Stack App - 19 - Build Delete Employee REST API" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="gYrAvZCPJLQ" title="React Hooks + Spring Boot CRUD Full Stack App - 9 - Adding Header and Footer to React App" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="VR1zoNomG3w" title="5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="djRh94IWYYo" title="Take Benefits of My Java Guides Blog and GitHub | My Blog Walkthrough" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="DzYyzmP4m5c" title="Registration Form using JSP + Servlet + JDBC + MySQL Database Example" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="hxZuLn_DHoM" title="Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="fUsKNjGO4Is" title="Spring Core: Why Constructor Based Dependency Injection is Recommended?" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="hxZuLn_DHoM" title="Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication" />
+<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="JrkHCGDZB3w" title="Spring &amp; Spring Boot Annotations Series - #10  - `@PropertySource` and `@PropertySources` Annotations" />
 
 :::
 
@@ -387,21 +382,20 @@ Spring &amp; Spring Boot Annotations Series - #10  - `@PropertySource` and `@Pro
 [Ram N Java][yu-ram-n-java]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=2iMmXfcrD2w"><img width="140px" height="auto" alt="thumb-2iMmXfcrD2w" src="https://i.ytimg.com/vi/2iMmXfcrD2w/hqdefault.jpg"/></a> | [Springboot - Exceptions handling - RESTful Web Services with Spring framework | Spring Boot](https://www.youtube.com/watch?v=2iMmXfcrD2w) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=iToaRZfO0tA"><img width="140px" height="auto" alt="thumb-iToaRZfO0tA" src="https://i.ytimg.com/vi/iToaRZfO0tA/hqdefault.jpg"/></a> | [GET vs POST &amp; What is a Cache? | RESTful Web Services | Web Services Tutorial](https://www.youtube.com/watch?v=iToaRZfO0tA) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=O0Eccxtpdfw"><img width="140px" height="auto" alt="thumb-O0Eccxtpdfw" src="https://i.ytimg.com/vi/O0Eccxtpdfw/hqdefault.jpg"/></a> | [Factory Design Pattern - Introduction, Example and Key points | Factory Design Pattern in Java](https://www.youtube.com/watch?v=O0Eccxtpdfw) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8w6uCpdlP_M"><img width="140px" height="auto" alt="thumb-8w6uCpdlP_M" src="https://i.ytimg.com/vi/8w6uCpdlP_M/hqdefault.jpg"></a> | [Spring boot - Admin Server and Admin Client example](https://www.youtube.com/watch?v=8w6uCpdlP_M) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OkVzppl5Cos"><img width="140px" height="auto" alt="thumb-OkVzppl5Cos" src="https://i.ytimg.com/vi/OkVzppl5Cos/hqdefault.jpg"></a> | [Springboot + Thymeleaf - Send user information from UI to controller | Spring Boot Tutorial](https://www.youtube.com/watch?v=OkVzppl5Cos) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MZF7IWRfKsA"><img width="140px" height="auto" alt="thumb-MZF7IWRfKsA" src="https://i.ytimg.com/vi/MZF7IWRfKsA/hqdefault.jpg"></a> | [How to Configure Multiple Data Sources(Databases) in a Spring Boot Application?](https://www.youtube.com/watch?v=MZF7IWRfKsA) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hPUxEgLQbLQ"><img width="140px" height="auto" alt="thumb-hPUxEgLQbLQ" src="https://i.ytimg.com/vi/hPUxEgLQbLQ/hqdefault.jpg"></a> | [Spring Boot - How to schedule a task at a fixed delay? | Spring Boot - Schedule task](https://www.youtube.com/watch?v=hPUxEgLQbLQ) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=re3Gszgusgg"><img width="140px" height="auto" alt="thumb-re3Gszgusgg" src="https://i.ytimg.com/vi/re3Gszgusgg/hqdefault.jpg"></a> | [How to use Profiles in Spring Boot application? - Properties file | Spring Boot tutorial](https://www.youtube.com/watch?v=re3Gszgusgg) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=qmGesuJ9COA"><img width="140px" height="auto" alt="thumb-qmGesuJ9COA" src="https://i.ytimg.com/vi/qmGesuJ9COA/hqdefault.jpg"></a> | [Spring Cache Tutorial with EhCache | Spring Cache | Spring Tutorial](https://www.youtube.com/watch?v=qmGesuJ9COA) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pzPLeq6nSs0"><img width="140px" height="auto" alt="thumb-pzPLeq6nSs0" src="https://i.ytimg.com/vi/pzPLeq6nSs0/hqdefault.jpg"></a> | [Spring Cache Tutorial with EhCache [How to update the cache?] | Spring Cache | Spring Tutorial](https://www.youtube.com/watch?v=pzPLeq6nSs0) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DDmT_tlo15Y"><img width="140px" height="auto" alt="thumb-DDmT_tlo15Y" src="https://i.ytimg.com/vi/DDmT_tlo15Y/hqdefault.jpg"></a> | [Spring 4 + Hibernate 4 + MySQL 8 + Maven Integration example using XML Configuration](https://www.youtube.com/watch?v=DDmT_tlo15Y) <br/><br/> _[Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=b3E_nXF6-qM"><img width="140px" height="auto" alt="thumb-b3E_nXF6-qM" src="https://i.ytimg.com/vi/b3E_nXF6-qM/hqdefault.jpg"></a> | [Spring - Inserting data using SimpleJdbcInsert and MapSqlParameterSource | Spring JDBC tutorial](https://www.youtube.com/watch?v=b3E_nXF6-qM) <br/><br/> [Ram N Java][yu-ram-n-java]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hycA8lxjIHI"><img width="140px" height="auto" alt="thumb-hycA8lxjIHI" src="https://i.ytimg.com/vi/hycA8lxjIHI/hqdefault.jpg"></a> | [ByteArrayOutputStream in Java | Java ByteArrayOutputStream Examples | Java IO | Java Tutorial](https://www.youtube.com/watch?v=hycA8lxjIHI) <br/><br/> [Ram N Java][yu-ram-n-java]_ |
+
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="2iMmXfcrD2w" title="Springboot - Exceptions handling - RESTful Web Services with Spring framework | Spring Boot" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="iToaRZfO0tA" title="GET vs POST &amp; What is a Cache? | RESTful Web Services | Web Services Tutorial" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="O0Eccxtpdfw" title="Factory Design Pattern - Introduction, Example and Key points | Factory Design Pattern in Java" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="8w6uCpdlP_M" title="Spring boot - Admin Server and Admin Client example" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="OkVzppl5Cos" title="Springboot + Thymeleaf - Send user information from UI to controller | Spring Boot Tutorial" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="MZF7IWRfKsA" title="How to Configure Multiple Data Sources(Databases) in a Spring Boot Application?" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="hPUxEgLQbLQ" title="Spring Boot - How to schedule a task at a fixed delay? | Spring Boot - Schedule task" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="re3Gszgusgg" title="How to use Profiles in Spring Boot application? - Properties file | Spring Boot tutorial" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="qmGesuJ9COA" title="Spring Cache Tutorial with EhCache | Spring Cache | Spring Tutorial" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="pzPLeq6nSs0" title="Spring Cache Tutorial with EhCache [How to update the cache?] | Spring Cache | Spring Tutorial" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="DDmT_tlo15Y" title="Spring 4 + Hibernate 4 + MySQL 8 + Maven Integration example using XML Configuration" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="b3E_nXF6-qM" title="Spring - Inserting data using SimpleJdbcInsert and MapSqlParameterSource | Spring JDBC tutorial" />
+<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="hycA8lxjIHI" title="ByteArrayOutputStream in Java | Java ByteArrayOutputStream Examples | Java IO | Java Tutorial" />
 
 :::
 
@@ -414,20 +408,19 @@ Spring &amp; Spring Boot Annotations Series - #10  - `@PropertySource` and `@Pro
 [웹짱이영환쌤][yu-user-jn1ly6wf9q]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=DojMFzFBxBY"><img width="140px" height="auto" alt="thumb-DojMFzFBxBY" src="https://i.ytimg.com/vi/DojMFzFBxBY/hqdefault.jpg"/></a> | [Webjjang Spring ver.2021.04 22-01 Interceptor와 권한 설정(웹짱과 함께하는 스프링)](https://www.youtube.com/watch?v=DojMFzFBxBY) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UDh28CNqigo"><img width="140px" height="auto" alt="thumb-UDh28CNqigo" src="https://i.ytimg.com/vi/UDh28CNqigo/hqdefault.jpg"/></a> | [Webjjang Web ver.2021.01 04-07 공지사항 흐름 구현(웹짱과 함께하는 웹표준-화면구현)](https://www.youtube.com/watch?v=UDh28CNqigo) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=S1GOHP1cRsw"><img width="140px" height="auto" alt="thumb-S1GOHP1cRsw" src="https://i.ytimg.com/vi/S1GOHP1cRsw/hqdefault.jpg"/></a> | [Webjjang JAVA ver.2022.11 17-08 JDBC 응용 - Qna - DB Driver 로딩과 조인 적용(웹짱과 함께하는 자바2211)](https://www.youtube.com/watch?v=S1GOHP1cRsw) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=gi5eZS9ft64"><img width="140px" height="auto" alt="thumb-gi5eZS9ft64" src="https://i.ytimg.com/vi/gi5eZS9ft64/hqdefault.jpg"/></a> | [Webjjang JAVA ver.2022.11 17-09 JDBC 응용 - Qna - 글보기의 DAO(웹짱과 함께하는 자바2211)](https://www.youtube.com/watch?v=gi5eZS9ft64) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=k7Q0KZpJmP0"><img width="140px" height="auto" alt="thumb-k7Q0KZpJmP0" src="https://i.ytimg.com/vi/k7Q0KZpJmP0/hqdefault.jpg"/></a> | [Webjjang JAVA ver.2022.11 17-10 JDBC 응용 - Qna - 조회수 1증가와 보기 데이터 출력(웹짱과 함께하는 자바2211)](https://www.youtube.com/watch?v=k7Q0KZpJmP0) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rFwh0v61PsU"><img width="140px" height="auto" alt="thumb-rFwh0v61PsU" src="https://i.ytimg.com/vi/rFwh0v61PsU/hqdefault.jpg"/></a> | [Webjjang JAVA ver.2022.11 17-11 JDBC 응용 - Qna - 질문하기(웹짱과 함께하는 자바2211)](https://www.youtube.com/watch?v=rFwh0v61PsU) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Usqz87PMv8o"><img width="140px" height="auto" alt="thumb-Usqz87PMv8o" src="https://i.ytimg.com/vi/Usqz87PMv8o/hqdefault.jpg"/></a> | [Webjjang JAVA ver.2022.11 17-12 JDBC 응용 - Qna - 답변하기(웹짱과 함께하는 자바2211)](https://www.youtube.com/watch?v=Usqz87PMv8o) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=paOhcu8Y5ew"><img width="140px" height="auto" alt="thumb-paOhcu8Y5ew" src="https://i.ytimg.com/vi/paOhcu8Y5ew/hqdefault.jpg"/></a> | [Webjjang Spring ver.2023.03 04-02 MyBatis의 Mapper 방식으로 SQL 처리하기(웹짱과 함께하는 스프링)](https://www.youtube.com/watch?v=paOhcu8Y5ew) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-pjl1a5GcjM"><img width="140px" height="auto" alt="thumb--pjl1a5GcjM" src="https://i.ytimg.com/vi/-pjl1a5GcjM/hqdefault.jpg"/></a> | [Webjjang Spring ver.2023.03 04-03 MyBatis의 Mapper.xml을 사용하여 SQL 처리하기(웹짱과 함께하는 스프링)](https://www.youtube.com/watch?v=-pjl1a5GcjM) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=doIG_mACLlo"><img width="140px" height="auto" alt="thumb-doIG_mACLlo" src="https://i.ytimg.com/vi/doIG_mACLlo/hqdefault.jpg"/></a> | [Webjjang Spring ver.2023.03 01-05 개발 환경 구축 - Lombok 라이브러리 확인하기(웹짱과 함께하는 스프링)](https://www.youtube.com/watch?v=doIG_mACLlo) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=o17b43rGinQ"><img width="140px" height="auto" alt="thumb-o17b43rGinQ" src="https://i.ytimg.com/vi/o17b43rGinQ/hqdefault.jpg"/></a> | [Webjjang Spring ver.2023.03 03-01 오라클 JDBC 연결과 테스트(웹짱과 함께하는 스프링)](https://www.youtube.com/watch?v=o17b43rGinQ) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_2Jluyzr9FE"><img width="140px" height="auto" alt="thumb-_2Jluyzr9FE" src="https://i.ytimg.com/vi/_2Jluyzr9FE/hqdefault.jpg"/></a> | [Webjjang Spring ver.2023.03 03-03 DBCP 테스트(웹짱과 함께하는 스프링)](https://www.youtube.com/watch?v=_2Jluyzr9FE) <br/><br/> _[웹짱이영환쌤][yu-user-jn1ly6wf9q]_ |
+
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="DojMFzFBxBY" title="Webjjang Spring ver.2021.04 22-01 Interceptor와 권한 설정(웹짱과 함께하는 스프링)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="UDh28CNqigo" title="Webjjang Web ver.2021.01 04-07 공지사항 흐름 구현(웹짱과 함께하는 웹표준-화면구현)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="S1GOHP1cRsw" title="Webjjang JAVA ver.2022.11 17-08 JDBC 응용 - Qna - DB Driver 로딩과 조인 적용(웹짱과 함께하는 자바2211)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="gi5eZS9ft64" title="Webjjang JAVA ver.2022.11 17-09 JDBC 응용 - Qna - 글보기의 DAO(웹짱과 함께하는 자바2211)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="k7Q0KZpJmP0" title="Webjjang JAVA ver.2022.11 17-10 JDBC 응용 - Qna - 조회수 1증가와 보기 데이터 출력(웹짱과 함께하는 자바2211)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="rFwh0v61PsU" title="Webjjang JAVA ver.2022.11 17-11 JDBC 응용 - Qna - 질문하기(웹짱과 함께하는 자바2211)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="Usqz87PMv8o" title="Webjjang JAVA ver.2022.11 17-12 JDBC 응용 - Qna - 답변하기(웹짱과 함께하는 자바2211)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="paOhcu8Y5ew" title="Webjjang Spring ver.2023.03 04-02 MyBatis의 Mapper 방식으로 SQL 처리하기(웹짱과 함께하는 스프링)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="-pjl1a5GcjM" title="Webjjang Spring ver.2023.03 04-03 MyBatis의 Mapper.xml을 사용하여 SQL 처리하기(웹짱과 함께하는 스프링)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="doIG_mACLlo" title="Webjjang Spring ver.2023.03 01-05 개발 환경 구축 - Lombok 라이브러리 확인하기(웹짱과 함께하는 스프링)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="o17b43rGinQ" title="Webjjang Spring ver.2023.03 03-01 오라클 JDBC 연결과 테스트(웹짱과 함께하는 스프링)" />
+<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="_2Jluyzr9FE" title="Webjjang Spring ver.2023.03 03-03 DBCP 테스트(웹짱과 함께하는 스프링)" />
 
 :::
 
@@ -440,20 +433,19 @@ Spring &amp; Spring Boot Annotations Series - #10  - `@PropertySource` and `@Pro
 [Reso Coder][yu-reso-coder]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=Zp7VKVhirmw"><img width="140px" height="auto" alt="thumb-Zp7VKVhirmw" src="https://i.ytimg.com/vi/Zp7VKVhirmw/hqdefault.jpg"/></a> | [Riverpod 2.0 – Complete Guide (Flutter Tutorial)](https://www.youtube.com/watch?v=Zp7VKVhirmw) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=y564ETOCog8"><img width="140px" height="auto" alt="thumb-y564ETOCog8" src="https://i.ytimg.com/vi/y564ETOCog8/hqdefault.jpg"/></a> | [Flutter Bloc &amp; Cubit Tutorial](https://www.youtube.com/watch?v=y564ETOCog8) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8j7W91ZJuV0"><img width="140px" height="auto" alt="thumb-8j7W91ZJuV0" src="https://i.ytimg.com/vi/8j7W91ZJuV0/hqdefault.jpg"></a> | [Flutter MobX Tutorial – Transparent &amp; Reactive State Management?](https://www.youtube.com/watch?v=8j7W91ZJuV0) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=S6jFBiiP0Mc"><img width="140px" height="auto" alt="thumb-S6jFBiiP0Mc" src="https://i.ytimg.com/vi/S6jFBiiP0Mc/hqdefault.jpg"></a> | [Bloc Test Tutorial – Easier Way to Test Blocs in Dart &amp; Flutter](https://www.youtube.com/watch?v=S6jFBiiP0Mc) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=T1hzNcaAKiA"><img width="140px" height="auto" alt="thumb-T1hzNcaAKiA" src="https://i.ytimg.com/vi/T1hzNcaAKiA/hqdefault.jpg"></a> | [Flutter Sailor Navigation Tutorial – The Simplest Navigator Library?](https://www.youtube.com/watch?v=T1hzNcaAKiA) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_T4zjIEkGOM"><img width="140px" height="auto" alt="thumb-_T4zjIEkGOM" src="https://i.ytimg.com/vi/_T4zjIEkGOM/hqdefault.jpg"></a> | [Introduction to MVVM on Android - Tutorial - Learn Android Architecture Patterns](https://www.youtube.com/watch?v=_T4zjIEkGOM) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lPkWX8xFthE"><img width="140px" height="auto" alt="thumb-lPkWX8xFthE" src="https://i.ytimg.com/vi/lPkWX8xFthE/hqdefault.jpg"></a> | [Flutter TDD Clean Architecture Course [2] – Entities &amp; Use Cases](https://www.youtube.com/watch?v=lPkWX8xFthE) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jYuK1qzFrJg"><img width="140px" height="auto" alt="thumb-jYuK1qzFrJg" src="https://i.ytimg.com/vi/jYuK1qzFrJg/hqdefault.jpg"></a> | [Kotlin Coroutines Tutorial (STABLE VERSION) - async / await, withContext, launch](https://www.youtube.com/watch?v=jYuK1qzFrJg) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=d7UxPYxgBoA"><img width="140px" height="auto" alt="thumb-d7UxPYxgBoA" src="https://i.ytimg.com/vi/d7UxPYxgBoA/hqdefault.jpg"></a> | [Android MVVM Kotlin Tutorial - LiveData + ViewModel (Android Architecture Components)](https://www.youtube.com/watch?v=d7UxPYxgBoA) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=-Lha9n8VJf0"><img width="140px" height="auto" alt="thumb--Lha9n8VJf0" src="https://i.ytimg.com/vi/-Lha9n8VJf0/hqdefault.jpg"></a> | [Kotlin - Apply, Let, Run, With, Also - Higher Order Standard Functions](https://www.youtube.com/watch?v=-Lha9n8VJf0) <br/><br/> [Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=0yH1qDxqZMo"><img width="140px" height="auto" alt="thumb-0yH1qDxqZMo" src="https://i.ytimg.com/vi/0yH1qDxqZMo/hqdefault.jpg"></a> | [Navigation Component Crash Course - Android Kotlin Tutorial](https://www.youtube.com/watch?v=0yH1qDxqZMo) <br/><br/> _[Reso Coder][yu-reso-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cG26G8WNv-0"><img width="140px" height="auto" alt="thumb-cG26G8WNv-0" src="https://i.ytimg.com/vi/cG26G8WNv-0/hqdefault.jpg"></a> | [Firebase Firestore Chat App: Creating a Chat Channel (Ep 4) - Kotlin Android Tutorial](https://www.youtube.com/watch?v=cG26G8WNv-0) <br/><br/> [Reso Coder][yu-reso-coder]_ |
+
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="Zp7VKVhirmw" title="Riverpod 2.0 – Complete Guide (Flutter Tutorial)" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="y564ETOCog8" title="Flutter Bloc &amp; Cubit Tutorial" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="8j7W91ZJuV0" title="Flutter MobX Tutorial – Transparent &amp; Reactive State Management?" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="S6jFBiiP0Mc" title="Bloc Test Tutorial – Easier Way to Test Blocs in Dart &amp; Flutter" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="T1hzNcaAKiA" title="Flutter Sailor Navigation Tutorial – The Simplest Navigator Library?" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="_T4zjIEkGOM" title="Introduction to MVVM on Android - Tutorial - Learn Android Architecture Patterns" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="lPkWX8xFthE" title="Flutter TDD Clean Architecture Course [2] – Entities &amp; Use Cases" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="jYuK1qzFrJg" title="Kotlin Coroutines Tutorial (STABLE VERSION) - async / await, withContext, launch" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="d7UxPYxgBoA" title="Android MVVM Kotlin Tutorial - LiveData + ViewModel (Android Architecture Components)" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="-Lha9n8VJf0" title="Kotlin - Apply, Let, Run, With, Also - Higher Order Standard Functions" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="0yH1qDxqZMo" title="Navigation Component Crash Course - Android Kotlin Tutorial" />
+<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="cG26G8WNv-0" title="Firebase Firestore Chat App: Creating a Chat Channel (Ep 4) - Kotlin Android Tutorial" />
 
 :::
 
@@ -466,28 +458,25 @@ Spring &amp; Spring Boot Annotations Series - #10  - `@PropertySource` and `@Pro
 [Brandan Jones][yu-discospiff]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=YJWK36r8aZw"><img width="140px" height="auto" alt="thumb-YJWK36r8aZw" src="https://i.ytimg.com/vi/YJWK36r8aZw/hqdefault.jpg"/></a> | [Animation and Explanation of Factory and Command Patterns](https://www.youtube.com/watch?v=YJWK36r8aZw) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=61r-nOqEchw"><img width="140px" height="auto" alt="thumb-61r-nOqEchw" src="https://i.ytimg.com/vi/61r-nOqEchw/hqdefault.jpg"/></a> | [Use Design Patterns and SOLID to program without if tests](https://www.youtube.com/watch?v=61r-nOqEchw) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=otQk8TSgtoE"><img width="140px" height="auto" alt="thumb-otQk8TSgtoE" src="https://i.ytimg.com/vi/otQk8TSgtoE/hqdefault.jpg"/></a> | [Interfaces and SOLID principles](https://www.youtube.com/watch?v=otQk8TSgtoE) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=HO6m8JpA0ro"><img width="140px" height="auto" alt="thumb-HO6m8JpA0ro" src="https://i.ytimg.com/vi/HO6m8JpA0ro/hqdefault.jpg"/></a> | [JUnit Annotations and Asserts Overview](https://www.youtube.com/watch?v=HO6m8JpA0ro) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XFhB-Tp9LOc"><img width="140px" height="auto" alt="thumb-XFhB-Tp9LOc" src="https://i.ytimg.com/vi/XFhB-Tp9LOc/hqdefault.jpg"/></a> | [Implement Room Database to store RESTFul JSON Data locally](https://www.youtube.com/watch?v=XFhB-Tp9LOc) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tLuHDcBBiz0"><img width="140px" height="auto" alt="thumb-tLuHDcBBiz0" src="https://i.ytimg.com/vi/tLuHDcBBiz0/hqdefault.jpg"/></a> | [Integrate Google Map with Jetpack Compose and LiveData](https://www.youtube.com/watch?v=tLuHDcBBiz0) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=nw35zroX3AQ"><img width="140px" height="auto" alt="thumb-nw35zroX3AQ" src="https://i.ytimg.com/vi/nw35zroX3AQ/hqdefault.jpg"/></a> | [Preview Light and Dark Mode in IDE in Jetpack Compose with @Preview](https://www.youtube.com/watch?v=nw35zroX3AQ) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Mv_yqVK_1ak"><img width="140px" height="auto" alt="thumb-Mv_yqVK_1ak" src="https://i.ytimg.com/vi/Mv_yqVK_1ak/hqdefault.jpg"/></a> | [Test Driven Design and BDD: Hands on example in IntelliJ IDEA](https://www.youtube.com/watch?v=Mv_yqVK_1ak) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ioin0sG3b9U"><img width="140px" height="auto" alt="thumb-Ioin0sG3b9U" src="https://i.ytimg.com/vi/Ioin0sG3b9U/hqdefault.jpg"></a> | [Implementing a Power Broadcast Receiver in Android Kotlin](https://www.youtube.com/watch?v=Ioin0sG3b9U) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8SSHZ50NFJk"><img width="140px" height="auto" alt="thumb-8SSHZ50NFJk" src="https://i.ytimg.com/vi/8SSHZ50NFJk/hqdefault.jpg"></a> | [Sprint Overview: Maps, Broadcast Receiver, Notifications](https://www.youtube.com/watch?v=8SSHZ50NFJk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tVzV4UbD7gk"><img width="140px" height="auto" alt="thumb-tVzV4UbD7gk" src="https://i.ytimg.com/vi/tVzV4UbD7gk/hqdefault.jpg"></a> | [Implement Room Database with Live Data in Android Kotlin](https://www.youtube.com/watch?v=tVzV4UbD7gk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CuP1elpCuEA"><img width="140px" height="auto" alt="thumb-CuP1elpCuEA" src="https://i.ytimg.com/vi/CuP1elpCuEA/hqdefault.jpg"></a> | [Cloud Firestore with MVVM in Android Q Kotlin: Overview and Example](https://www.youtube.com/watch?v=CuP1elpCuEA) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=J7_4WrImJPk"><img width="140px" height="auto" alt="thumb-J7_4WrImJPk" src="https://i.ytimg.com/vi/J7_4WrImJPk/hqdefault.jpg"></a> | [Use verify in MockK to validate function calls on mocked object](https://www.youtube.com/watch?v=J7_4WrImJPk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vO9TM9qF0iE"><img width="140px" height="auto" alt="thumb-vO9TM9qF0iE" src="https://i.ytimg.com/vi/vO9TM9qF0iE/hqdefault.jpg"></a> | [Use Retrofit to parse JSON in Live Data, Kotlin, Integration Test](https://www.youtube.com/watch?v=vO9TM9qF0iE) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=11iGyrvBhzc"><img width="140px" height="auto" alt="thumb-11iGyrvBhzc" src="https://i.ytimg.com/vi/11iGyrvBhzc/hqdefault.jpg"></a> | [Create a simple web service client with WSDL in Eclipse](https://www.youtube.com/watch?v=11iGyrvBhzc) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8JJGGdMZPTk"><img width="140px" height="auto" alt="thumb-8JJGGdMZPTk" src="https://i.ytimg.com/vi/8JJGGdMZPTk/hqdefault.jpg"></a> | [Firebase Authentication with Email in Android: Example](https://www.youtube.com/watch?v=8JJGGdMZPTk) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ILavD8sE-ZU"><img width="140px" height="auto" alt="thumb-ILavD8sE-ZU" src="https://i.ytimg.com/vi/ILavD8sE-ZU/hqdefault.jpg"></a> | [Recursion: Palindromes demonstrated in IntelliJ IDEA Debugger](https://www.youtube.com/watch?v=ILavD8sE-ZU) <br/><br/> _[Brandan Jones][yu-discospiff]_ |
 
-T_lWpqOWaE0
-Set up Logging with Log4j2 in Java and IntelliJ IDEA
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="YJWK36r8aZw" title="Animation and Explanation of Factory and Command Patterns" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="61r-nOqEchw" title="Use Design Patterns and SOLID to program without if tests" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="otQk8TSgtoE" title="Interfaces and SOLID principles" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="HO6m8JpA0ro" title="JUnit Annotations and Asserts Overview" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="XFhB-Tp9LOc" title="Implement Room Database to store RESTFul JSON Data locally" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="tLuHDcBBiz0" title="Integrate Google Map with Jetpack Compose and LiveData" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="nw35zroX3AQ" title="Preview Light and Dark Mode in IDE in Jetpack Compose with @Preview" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="Mv_yqVK_1ak" title="Test Driven Design and BDD: Hands on example in IntelliJ IDEA" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="Ioin0sG3b9U" title="Implementing a Power Broadcast Receiver in Android Kotlin" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="8SSHZ50NFJk" title="Sprint Overview: Maps, Broadcast Receiver, Notifications" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="tVzV4UbD7gk" title="Implement Room Database with Live Data in Android Kotlin" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="CuP1elpCuEA" title="Cloud Firestore with MVVM in Android Q Kotlin: Overview and Example" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="J7_4WrImJPk" title="Use verify in MockK to validate function calls on mocked object" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="vO9TM9qF0iE" title="Use Retrofit to parse JSON in Live Data, Kotlin, Integration Test" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="11iGyrvBhzc" title="Create a simple web service client with WSDL in Eclipse" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="8JJGGdMZPTk" title="Firebase Authentication with Email in Android: Example" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="ILavD8sE-ZU" title="Recursion: Palindromes demonstrated in IntelliJ IDEA Debugger" />
+<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="T_lWpqOWaE0" title="Set up Logging with Log4j2 in Java and IntelliJ IDEA" />
 
 :::
 
@@ -499,29 +488,27 @@ Set up Logging with Log4j2 in Java and IntelliJ IDEA
 
 ::: details 목록
 
-| ❌ | <a href="https://www.youtube.com/watch?v=vZO7Qh6riS8"><img width="140px" height="auto" alt="thumb-vZO7Qh6riS8" src="https://i.ytimg.com/vi/vZO7Qh6riS8/hqdefault.jpg"/></a> | [Building REST API with Spring Boot - Keyboard Typing ASMR](https://www.youtube.com/watch?v=vZO7Qh6riS8) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hPtR_-EQU-4"><img width="140px" height="auto" alt="thumb-hPtR_-EQU-4" src="https://i.ytimg.com/vi/hPtR_-EQU-4/hqdefault.jpg"/></a> | [Redis Stack Crash Course with Spring Boot](https://www.youtube.com/watch?v=hPtR_-EQU-4) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zvR-Oif_nxg"><img width="140px" height="auto" alt="thumb-zvR-Oif_nxg" src="https://i.ytimg.com/vi/zvR-Oif_nxg/hqdefault.jpg"/></a> | [Spring Boot Complete Tutorial  - Master Class](https://www.youtube.com/watch?v=zvR-Oif_nxg) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=E8gaRFMXS9Y"><img width="140px" height="auto" alt="thumb-E8gaRFMXS9Y" src="https://i.ytimg.com/vi/E8gaRFMXS9Y/hqdefault.jpg"/></a> | [Full Stack Application with Spring Boot, Next.js, Tailwind CSS &amp; Next-Auth.js](https://www.youtube.com/watch?v=E8gaRFMXS9Y) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=tDZPdovCH4I"><img width="140px" height="auto" alt="thumb-tDZPdovCH4I" src="https://i.ytimg.com/vi/tDZPdovCH4I/hqdefault.jpg"/></a> | [Spring Security Tutorial with Login Example (Spring Boot + Spring Security + MySQL)](https://www.youtube.com/watch?v=tDZPdovCH4I) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=5lJaUN0bIy0"><img width="140px" height="auto" alt="thumb-5lJaUN0bIy0" src="https://i.ytimg.com/vi/5lJaUN0bIy0/hqdefault.jpg"/></a> | [Docker for Beginners:- Complete Course 2021](https://www.youtube.com/watch?v=5lJaUN0bIy0) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZXlxQ3z4zDE"><img width="140px" height="auto" alt="thumb-ZXlxQ3z4zDE" src="https://i.ytimg.com/vi/ZXlxQ3z4zDE/hqdefault.jpg"/></a> | [How to Schedule Tasks/Jobs in Springboot using @Scheduled annotation](https://www.youtube.com/watch?v=ZXlxQ3z4zDE) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=lA18U8dGKF8"><img width="140px" height="auto" alt="thumb-lA18U8dGKF8" src="https://i.ytimg.com/vi/lA18U8dGKF8/hqdefault.jpg"/></a> | [Implementing JWT (JSON Web Tokens) with Spring Security in Springboot App](https://www.youtube.com/watch?v=lA18U8dGKF8) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=BnknNTN8icw"><img width="140px" height="auto" alt="thumb-BnknNTN8icw" src="https://i.ytimg.com/vi/BnknNTN8icw/hqdefault.jpg"/></a> | [Microservices using SpringBoot | Full Example](https://www.youtube.com/watch?v=BnknNTN8icw) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vYLlxxD_6LA"><img width="140px" height="auto" alt="thumb-vYLlxxD_6LA" src="https://i.ytimg.com/vi/vYLlxxD_6LA/hqdefault.jpg"/></a> | [Amazon Simple Queue Service (SQS) with SpringBoot | Spring Cloud AWS](https://www.youtube.com/watch?v=vYLlxxD_6LA) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=cRCxw314Ts0"><img width="140px" height="auto" alt="thumb-cRCxw314Ts0" src="https://i.ytimg.com/vi/cRCxw314Ts0/hqdefault.jpg"/></a> | [Docker Tutorial - Most used Docker Commands With Examples | Docker Training | Daily Code Buffer](https://www.youtube.com/watch?v=cRCxw314Ts0) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PpkPTviLTLs"><img width="140px" height="auto" alt="thumb-PpkPTviLTLs" src="https://i.ytimg.com/vi/PpkPTviLTLs/hqdefault.jpg"/></a> | [How to implement Redis in Spring Boot using Spring Data Redis &amp; Jedis](https://www.youtube.com/watch?v=PpkPTviLTLs) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=XjoVUx2ppDY"><img width="140px" height="auto" alt="thumb-XjoVUx2ppDY" src="https://i.ytimg.com/vi/XjoVUx2ppDY/hqdefault.jpg"/></a> | [Quarkus Tutorial with Spring Web, H2 and Panache](https://www.youtube.com/watch?v=XjoVUx2ppDY) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=UZWOb9ce6go"><img width="140px" height="auto" alt="thumb-UZWOb9ce6go" src="https://i.ytimg.com/vi/UZWOb9ce6go/hqdefault.jpg"/></a> | [JaCoCo Code Coverage Tutorial with Spring Boot](https://www.youtube.com/watch?v=UZWOb9ce6go) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=EUzH9khPYgs"><img width="140px" height="auto" alt="thumb-EUzH9khPYgs" src="https://i.ytimg.com/vi/EUzH9khPYgs/hqdefault.jpg"/></a> | [How to Install Apache Kafka on Windows](https://www.youtube.com/watch?v=EUzH9khPYgs) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=AioHZDaL4Jw"><img width="140px" height="auto" alt="thumb-AioHZDaL4Jw" src="https://i.ytimg.com/vi/AioHZDaL4Jw/hqdefault.jpg"/></a> | [Spring Boot with Kotlin Tutorial](https://www.youtube.com/watch?v=AioHZDaL4Jw) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F_g44rliu6M"><img width="140px" height="auto" alt="thumb-F_g44rliu6M" src="https://i.ytimg.com/vi/F_g44rliu6M/hqdefault.jpg"/></a> | [Dockerize Spring Boot App using Maven Plugin](https://www.youtube.com/watch?v=F_g44rliu6M) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=QWsWx4SS05I"><img width="140px" height="auto" alt="thumb-QWsWx4SS05I" src="https://i.ytimg.com/vi/QWsWx4SS05I/hqdefault.jpg"/></a> | [OAuth2 Spring Security using Facebook in Spring Boot](https://www.youtube.com/watch?v=QWsWx4SS05I) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=oz-QSGy1DSo"><img width="140px" height="auto" alt="thumb-oz-QSGy1DSo" src="https://i.ytimg.com/vi/oz-QSGy1DSo/hqdefault.jpg"/></a> | [Quarkus vs Spring Boot - Performance](https://www.youtube.com/watch?v=oz-QSGy1DSo) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=haVMaDiAGSw"><img width="140px" height="auto" alt="thumb-haVMaDiAGSw" src="https://i.ytimg.com/vi/haVMaDiAGSw/hqdefault.jpg"></a> | [Spring Boot 3.0 | New Features in Spring Framework 6 and Spring Boot 3](https://www.youtube.com/watch?v=haVMaDiAGSw) <br/><br/> _[Daily Code Buffer][yu-daily-code-buffer]_ |
-
-HFl2dzhVuUo
-Microservices using SpringBoot 3.0 | Full Example [NEW]
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="vZO7Qh6riS8" title="Building REST API with Spring Boot - Keyboard Typing ASMR" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="hPtR_-EQU-4" title="Redis Stack Crash Course with Spring Boot" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="zvR-Oif_nxg" title="Spring Boot Complete Tutorial  - Master Class" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="E8gaRFMXS9Y" title="Full Stack Application with Spring Boot, Next.js, Tailwind CSS &amp; Next-Auth.js" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="tDZPdovCH4I" title="Spring Security Tutorial with Login Example (Spring Boot + Spring Security + MySQL)" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="5lJaUN0bIy0" title="Docker for Beginners:- Complete Course 2021" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="ZXlxQ3z4zDE" title="How to Schedule Tasks/Jobs in Springboot using @Scheduled annotation" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="lA18U8dGKF8" title="Implementing JWT (JSON Web Tokens) with Spring Security in Springboot App" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="BnknNTN8icw" title="Microservices using SpringBoot | Full Example" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="vYLlxxD_6LA" title="Amazon Simple Queue Service (SQS) with SpringBoot | Spring Cloud AWS" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="cRCxw314Ts0" title="Docker Tutorial - Most used Docker Commands With Examples | Docker Training | Daily Code Buffer" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="PpkPTviLTLs" title="How to implement Redis in Spring Boot using Spring Data Redis &amp; Jedis" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="XjoVUx2ppDY" title="Quarkus Tutorial with Spring Web, H2 and Panache" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="UZWOb9ce6go" title="JaCoCo Code Coverage Tutorial with Spring Boot" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="EUzH9khPYgs" title="How to Install Apache Kafka on Windows" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="AioHZDaL4Jw" title="Spring Boot with Kotlin Tutorial" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="F_g44rliu6M" title="Dockerize Spring Boot App using Maven Plugin" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="QWsWx4SS05I" title="OAuth2 Spring Security using Facebook in Spring Boot" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="oz-QSGy1DSo" title="Quarkus vs Spring Boot - Performance" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="haVMaDiAGSw" title="Spring Boot 3.0 | New Features in Spring Framework 6 and Spring Boot 3" />
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="HFl2dzhVuUo" title="Microservices using SpringBoot 3.0 | Full Example [NEW]"
 
 :::
 
@@ -584,10 +571,8 @@ Microservices using SpringBoot 3.0 | Full Example [NEW]
 
 ::: details 목록
 
-| ❌ | <a href="https://www.youtube.com/watch?v=28_-GmUnu8M"><img width="140px" height="auto" alt="thumb-28_-GmUnu8M" src="https://i.ytimg.com/vi/28_-GmUnu8M/hqdefault.jpg"/></a> | [[이펙티브 자바] 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://www.youtube.com/watch?v=28_-GmUnu8M) <br/><br/> _[김대협][yu-ntigo]_ |
-
-jFYvY7m2RZs
-[이펙티브 자바] 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라
+<YoutubeItem channelName="김대협" channelId="ntigo" id="28_-GmUnu8M" title="[이펙티브 자바] 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라" />
+<YoutubeItem channelName="김대협" channelId="ntigo" id="jFYvY7m2RZs" title="[이펙티브 자바] 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라" />
 
 :::
 
@@ -633,7 +618,19 @@ jFYvY7m2RZs
 
 ---
 
+## Rabi Sankar Podder
 
+[Rabi Sankar Podder][rabi-sankar-podder]
+
+::: details 목록
+
+<YoutubeItem channelName="Rabi Sankar Podder" channelId="rabisankarpodder7839" id="dOI3jRap6Q4" title="Java8 Sort String Employee" />
+<YoutubeItem channelName="Rabi Sankar Podder" channelId="rabisankarpodder7839" id="uRQEMZjB1fA" title="SpringBoot with Github  using Oauth2" />
+<YoutubeItem channelName="Rabi Sankar Podder" channelId="rabisankarpodder7839" id="oPde37Nc26Q" title="JWT SpringBoot Security" />
+
+:::
+
+<!-- Rabi Sankar Podder -->
 
 ---
 
@@ -686,6 +683,7 @@ jFYvY7m2RZs
 <YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="1_X8xRrF7DI" title="[표준프레임워크]강의02.개발환경 소개 및 구현도구, 개인빌드" />
 <YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="khi3V-eVQEg" title="[표준프레임워크]강의08.실행환경 화면처리레이어" />
 <YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="lxAsjeiSeqA" title="[표준프레임워크]강의06.실행환경 데이터처리레이어" />
+<YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="NWq_0Y8D3BQ" title="[표준프레임워크]강의07.실행환경 배치처리레이어" />
 
 :::
 
@@ -693,11 +691,123 @@ jFYvY7m2RZs
 
 ---
 
+## 토비의 스프링
+
+[토비의 스프링][yu-tobyspring]
+
+::: details 목록
+
+<YoutubeItem channelName="토비의 스프링" channelId="tobyspring" id="dbByw2V4UyI" title="스프링 가이드 타임어택 (4) - Accessing Relational Data using JDBC with Spring" />
+<YoutubeItem channelName="토비의 스프링" channelId="tobyspring" id="SwPrW4KRPzo" title="스프링 가이드 타임어택 (3) - Consuming a RESTful Web Service" />
+
+:::
+
+<!-- 토비의 스프링 -->
+
+---
+
+## 나무소리
+
+[나무소리][yu-namoosori]
+
+::: details 목록
+
+<YoutubeItem channelName="나무소리" channelId="namoosori" id="GbbiFCr6sPQ" title="스프링 부트 강의 - 2-6강 RESTful Web Services 구현(4)" />
+<YoutubeItem channelName="나무소리" channelId="namoosori" id="ohOnio3T5uo" title="리액트 + 몹엑스 기초 강의 - 6-8강 Todo-List 예제 실습(4)" />
+<YoutubeItem channelName="나무소리" channelId="namoosori" id="WjgJX81rmSA" title="리액트 + 몹엑스 기초 강의 - 6-5강 Todo-List 예제 실습(1)" />
+<YoutubeItem channelName="나무소리" channelId="namoosori" id="myS_Pt4uRVs" title="1-1강 영속성의 이해" />
+<YoutubeItem channelName="나무소리" channelId="namoosori" id="koZtvSPdRXI" title="1-2강 객체의 세상과 테이블의 세상" />
+<YoutubeItem channelName="나무소리" channelId="namoosori" id="QBISxH_KHog" title="JPA 2-2강 영속성 컨텍스트의 이해(1)" />
+<YoutubeItem channelName="나무소리" channelId="namoosori" id="vMdpdui4VkA" title="JPA 2-3강 영속성 컨텍스트의 이해(2)" />
+
+:::
+
+<!-- 나무소리 -->
+
+---
+
+## DataStax Developers
+
+[DataStax Developers][yu-data-stax-devs]
+
+::: details 목록
+
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="bFEwttUD2aE" title="Build a Netflix Clone with React and NoSQL Database" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="WkdfILAx-4c" title="Performance Tuning for Apache Pulsar Kubernetes Deployments" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="_vP6LR_TdtM" title="Build the reference Spring Pet Clinic application with Apache Cassandra™" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="GddqfK8JubA" title="Cloud-Native Workshop: Apache Cassandra™ meets Kubernetes" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="bU5Br6UeTvw" title="Build Microservices Apache Cassandra™ with Spring Data" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="_FlZXkMwDak" title="Building Reactive applications withSpring Framework [APAC]" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="1aRbndIcXV4" title="Build a Reactive app in Apache Cassandra™ with Spring Framework" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="kRYMwOl6Uo4" title="Build a REST API with Apache Cassandra™" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="KAcZg6l9QTw" title="Build Microservices in Apache Cassandra™ , with Java" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="VW8C3nU0EzQ" title="[Cassandra Workshop Series Week] - #1 Getting Started with Cassandra" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="y4Gt_LQ8sdA" title="#1 An Introduction to Apache Cassandra™" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="=gKkLvZI21K" title="LIVE CODING EXERCISE - Build a simple Java app w/ Astra DB" />
+<YoutubeItem channelName="DataStax Developers" channelId="DataStaxDevs" id="DnzzapctOeQ" title="Build a Netflix Clone with GraphQL and React!" />
+
+:::
+
+<!-- DataStax Developers -->
+
+---
+
+## Java for Engineers
+
+[Java for Engineers][yu-java-for-engineers]
+
+::: details 목록
+
+<YoutubeItem channelName="Java for Engineers" channelId="javaforengineersYT" id="wZkS_ZPX3Vw" title="Learn Java with ChatGPT -- Part 6: Wrapper Classes" />
+<YoutubeItem channelName="Java for Engineers" channelId="javaforengineersYT" id="ZBfUsQNPbpU" title="Learn Java with ChatGPT -- Part 5: Primitive Types and Literals" />
+<YoutubeItem channelName="Java for Engineers" channelId="javaforengineersYT" id="lLmrDK7WWKg" title="Learn Java with ChatGPT -- Part 2: JDK Installation" />
+<YoutubeItem channelName="Java for Engineers" channelId="javaforengineersYT" id="8gvwghbZHZA" title="LaTeX for Java Developers -- Part 6: Implementing LaTeX Environments in Java" />
+
+:::
+
+<!-- Java for Engineers -->
+
+---
+
+## Selenium Express
+
+[Selenium Express][yu-selenium-express]
+
+::: details 목록
+
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="uIGPX6fVDdw" title="This is how MICROSERVICES works in real-time ! Spring Cloud Load Balancer + Eureka in action #8" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="SEPmPXoCIXk" title="Introducing Load Balancer in Microservices architecture | OpenFeign | Spring Boot | Spring Cloud #4" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="a2EZxkwMrjU" title="How Microservices communicate? API BEST practices | Java | Spring Boot | REST API #3" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="RDUc4vVCWjI" title="#5 Setting UP JDBC Authentication with Spring Security | Security Database Default Schema" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="6jpHNlpqAKY" title="#14 Spring MVC :Add CSS / JS / Images to your app | Static Resources |Java + spring Live project|P-1" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="KUu7fPowotg" title="#7 UI: Save Student | Spring crud example with MySQL | Java + spring Live project" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="vmog6-p4PVs" title="#5 Java Spring MySQL: Let’s Pull them together! Populate Data On UI | Java + spring Live project" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="oJK_egOYA4s" title="Spring Jdbc Batch update | Transaction management in spring [Basics] | @transactional" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="b1hABx2Yoms" title="Discover how a ResultSetExtractor works? RowMapper Vs ResultSetExtractor || Spring JDBC  | #4" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="8IglnYEzVNM" title="Develop your first Spring Jdbc app | Configure JdbcTemplate in 2 simple steps | Spring CRUD - Insert" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="Suxp_fSMse4" title="Spring MVC - Exception Handling | Top 3 Uses of @ControllerAdvice|@ExceptionHandler,@ModelAttribute" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="cpFfzE9eGT0" title="How exactly the Sessions and Cookies work? || Session Management || Spring MVC || @SessionAttributes" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="ms4ywje7EYI" title="[Spring MVC Advanced] Init Binder | Property Editor | Converter | Validator with Real-Time Scenario." />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="LxjxWE1StBk" title="Spring MVC Java Based Configuration || Game plan || Understanding the wired part || Part 1" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="Y26LegLMvpw" title="Model View Controller: Spring MVC - Full-stack tech walkthrough || Model || Data Flow" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="5_G1jIiK2hI" title="Spring MVC  ViewResolver - Tech walkthrough || Create your first View using Spring Framework" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="hMfAg5WO-mo" title="UML basics - Every JAVA Developer Should know this ! | UML Relationship Diagram" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="NgwDtAtE9AE" title="Spring Boot Security Advanced  - Lockout Users [ EP - 1 ] |  Spring Security Successful login Events" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="gD_slsA_VQc" title="Java new features -  Static method inside interface ?  java 8 | java interview questions and answers" />
+<YoutubeItem channelName="Selenium Express" channelId="SeleniumExpress" id="bhDfsNA8SdA" title="Spring framework 6 Foundation -  Spring Profiles and beyond | Spring Core concepts" />
+
+:::
+
+<!-- Selenium Express -->
+
+---
+
 ## Misc.
 
-| ❌ | <a href="https://www.youtube.com/watch?v=QloyS2dt9T4"><img width="140px" height="auto" alt="thumb-QloyS2dt9T4" src="https://i.ytimg.com/vi/QloyS2dt9T4/hqdefault.jpg"></a> | [Spring Boot CRUD Tutorial with Spring MVC, Spring Data JPA, ThymeLeaf, Hibernate, MySQL](https://www.youtube.com/watch?v=QloyS2dt9T4) <br/><br/> _[Code Java][yu-code-java]_ |
+<!-- [Amila Jayawardhana][yu-amila-jayawardhana] -->
 
-
+<YoutubeItem channelName="Code Java" channelId="CodeJava" id="QloyS2dt9T4" title="Spring Boot CRUD Tutorial with Spring MVC, Spring Data JPA, ThymeLeaf, Hibernate, MySQL" />
+<YoutubeItem channelName="Amila Jayawardhana" channelId="AmilaJayawardhana" id="ckSw8x66FQg" title="Spring MVC Sinhalen: 02 - Basic Configurations" />
 
 <TagLinks />
 
@@ -723,5 +833,12 @@ jFYvY7m2RZs
 [yu-javajigi]: https://www.youtube.com/@javajigi
 [yu-toby-lee]: https://www.youtube.com/@toyspring
 [yu-gain-java-knowledge]: https://www.youtube.com/@GainJavaKnowledge
+[yu-rabi-sankar-podder]: https://www.youtube.com/@rabisankarpodder7839
 [yu-java]: https://www.youtube.com/@java
 [yu-user-uc2wv8zw3h]: https://www.youtube.com/@user-uc2wv8zw3h
+[yu-code-java]: https://www.youtube.com/@CodeJava
+[yu-tobyspring]: https://www.youtube.com/@tobyspring
+[yu-data-stax-devs]: https://www.youtube.com/@DataStaxDevs
+[yu-java-for-engineers]: https://www.youtube.com/@javaforengineersYT
+[yu-selenium-express]: https://www.youtube.com/@SeleniumExpress
+[yu-amila-jayawardhana]: https://www.youtube.com/@AmilaJayawardhana
