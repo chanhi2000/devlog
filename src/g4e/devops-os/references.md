@@ -24,6 +24,8 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 - [i3](http://i3wm.org)
 - [linuxJourney](https://linuxjourney.com)
 
+---
+
 ## Medium
 
 - [How To Join a Linux Box To An Active Directory Domain and Control access](https://rakeshjain-devops.medium.com/how-to-join-a-linux-box-to-an-active-directory-domain-and-control-access-2c5151bad03d)

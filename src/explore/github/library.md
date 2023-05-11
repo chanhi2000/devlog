@@ -275,7 +275,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Batchfile
 
 - [massgravel/Microsoft-Activation-Scripts][massgravel/Microsoft-Activation-Scripts]
-- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency. <GiGithubTags tagItems="windows;open-source;security;performance;privacy;gaming;fps;latency;tweaks;atlas;debloat" />
+- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency. <GithubTags tagItems="windows;open-source;security;performance;privacy;gaming;fps;latency;tweaks;atlas;debloat" />
   - [🌐Official Site](https://atlasos.net)
 
 ---

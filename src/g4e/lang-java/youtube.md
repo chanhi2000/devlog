@@ -508,7 +508,7 @@ meta:
 <YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="QWsWx4SS05I" title="OAuth2 Spring Security using Facebook in Spring Boot" />
 <YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="oz-QSGy1DSo" title="Quarkus vs Spring Boot - Performance" />
 <YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="haVMaDiAGSw" title="Spring Boot 3.0 | New Features in Spring Framework 6 and Spring Boot 3" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="HFl2dzhVuUo" title="Microservices using SpringBoot 3.0 | Full Example [NEW]"
+<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="HFl2dzhVuUo" title="Microservices using SpringBoot 3.0 | Full Example [NEW]" />
 
 :::
 
