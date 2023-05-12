@@ -67,7 +67,7 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
       <li><a href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
       <li><a href="https://news.hada.io">🤓GeekNews</a></li>
       <li><a href="https://datatau.net">DataTau</a></li>
-      <li><a href="https://blog.bytebytego.com">ByteByteGo</li>
+      <li><a href="https://blog.bytebytego.com">ByteByteGo</a></li>
     </ul>
   </div>
 </div>
