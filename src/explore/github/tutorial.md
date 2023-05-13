@@ -22,7 +22,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://csdiy.wiki)
 - [RomuloOliveira/commit-messages-guide][RomuloOliveira/commit-messages-guide]: A guide to understand the importance of commit messages and how to write them well
 - [practical-tutorials/project-based-learning][practical-tutorials/project-based-learning]: Curated list of project-based tutorials
-- [Developer-Y/cs-video-courses][Developer-Y/cs-video-courses]: List of Computer Science courses with video lectures.
+- [Developer-Y/cs-video-courses][Developer-Y/cs-video-courses]: List of Computer Science courses with video lectures. <GithubTags tagItems="programming-language;computer-science;security;machine-learning;bioinformatics;web-development;reinforcement-learning;computer-vision;deep-learning;algorithms;robotics;computational-biology;databases;embedded-systems;systems;computational-physics;quantum-computing;computer-architecture;database-systems" />
 - [dair-ai/Prompt-Engineering-Guide][dair-ai/Prompt-Engineering-Guide]: 🐙 Guide and resources for prompt engineering
 - [freeCodeCamp/freeCodeCamp][freeCodeCamp/freeCodeCamp]: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
   - [🌐Official Site](https://contribute.freecodecamp.org)
@@ -38,6 +38,10 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://hello-algo.com)
 - [VSFe/Tech-Interview][VSFe/Tech-Interview]
 - [pr0gr4m/Newbie-Guideline][pr0gr4m/Newbie-Guideline]: 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서
+- [karanpratapsingh/system-design][karanpratapsingh/system-design]: Learn how to design systems at scale and prepare for system design interviews <GithubTags tagItems="engineering;distributed-systems;microservices;tech;architecture;scalability;interview;interview-preparation;system-design;system-design-interview" />
+  - [🌐Official Site](https://leanpub.com/systemdesign)
+
+
 
 ---
 
@@ -275,6 +279,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [pim-book/programmers-introduction-to-mathematics]: https://github.com/pim-book/programmers-introduction-to-mathematics
 [VSFe/Tech-Interview]: https://github.com/VSFe/Tech-Interview
 [pr0gr4m/Newbie-Guideline]: https://github.com/pr0gr4m/Newbie-Guideline
+[karanpratapsingh/system-design]: https://github.com/karanpratapsingh/system-design
 <!-- Java -->
 [macrozheng/springcloud-learning]: https://github.com/macrozheng/springcloud-learning
 [akullpp/awesome-java]: https://github.com/akullpp/awesome-java

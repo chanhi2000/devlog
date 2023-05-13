@@ -37,7 +37,7 @@ brew tap homebrew/cask-versions;
 brew tap homebrew/cask-fonts;
 
 # Install formula
-brew install amazon-ecs-cli awscli bison \
+brew install autojump amazon-ecs-cli awscli bison \
     cocoapods ffmpeg fizz flac git \
     mas neofetch nvm openssl pixman \
     python scrcpy starship tmux watchman \
@@ -192,6 +192,7 @@ ZSH_THEME="agnoster"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  autojump
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
@@ -230,6 +231,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && . "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 export NODE_OPTIONS=--openssl-legacy-provider # 18이상일 경우
 
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # launch starship.sh
 eval "$(starship init zsh)"

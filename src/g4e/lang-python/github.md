@@ -57,7 +57,7 @@ meta:
 - [sczhou/CodeFormer][sczhou/CodeFormer]: \[NeurIPS 2022\] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [ranaroussi/yfinance][ranaroussi/yfinance]: Download market data from Yahoo! Finance's API
   - [🌐Official Site](https://aroussi.com/post/python-yahoo-finance)
-- [THUDM/CodeGeeX][THUDM/CodeGeeX]: CodeGeeX: An Open Multilingual Code Generation Model
+- [THUDM/CodeGeeX][THUDM/CodeGeeX]: CodeGeeX: An Open Multilingual Code Generation Model <GithubTags tagItems="tools;code-generation;pretrained-models" />
   - [🌐Official Site](https://models.aminer.cn/codegeex)
 - [spantaleev/matrix-docker-ansible-deploy][spantaleev/matrix-docker-ansible-deploy]: 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [m-bain/whisperX][m-bain/whisperX]: WhisperX: Timestamp-Accurate Automatic Speech Recognition.
@@ -251,7 +251,7 @@ meta:
 - [OpenBMB/BMTools][OpenBMB/BMTools]: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [h2oai/h2o-llmstudio][h2oai/h2o-llmstudio]: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
   - [🌐Official Site](https://github.com/h2oai/h2o-llmstudio)
-- [ashawkey/stable-dreamfusion][ashawkey/stable-dreamfusion]: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [ashawkey/stable-dreamfusion][ashawkey/stable-dreamfusion]: Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion. <GithubTags tagItems="gui;nerf;image-to-3d;stable-diffusion;text-to-3d;dreamfusion" />
 - [tsale/EDR-Telemetry][tsale/EDR-Telemetry]: This project aims to compare and evaluate the telemetry of various EDR products.
 - [OpenLMLab/MOSS][OpenLMLab/MOSS]: An open-source tool-augmented conversational language model from Fudan University
   - [🌐Official Site](https://txsun1997.github.io/blogs/moss.html)
@@ -354,6 +354,12 @@ meta:
 - [geohot/tinygrad][geohot/tinygrad]: You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [bokeh/bokeh][bokeh/bokeh]: Interactive Data Visualization in the browser, from Python <GithubTags tagItems="visualization;javascript;python;plots;jupyter;visualisation;data-visualisation;bokeh;plotting;notebooks;interactive-plots;numfocus" />
   - [🌐Official Site](https://bokeh.org)
+- [openai/whisper][openai/whisper]: Robust Speech Recognition via Large-Scale Weak Supervision
+- [huggingface/text-generation-inference][huggingface/text-generation-inference]: Large Language Model Text Generation Inference <GithubTags tagItems="nlp;bloom;deep-learning;inference;pytorch;transformer;gpt" />
+  - [🌐Official Site](https://huggingface.github.io/text-generation-inference)
+- [pyg-team/pytorch_geometric][pyg-team/pytorch_geometric]: Graph Neural Network Library for PyTorch <GithubTags tagItems="deep-learning;pytorch;graph-convolutional-networks;geometric-deep-learning;graph-neural-networks" />
+  - [🌐Official Site](https://pyg.org)
+
 
 
 
@@ -401,6 +407,10 @@ meta:
   - [🌐Official Site](https://azure.microsoft.com/en-us/services/azure-sentinel)
 - [fastai/nbdev][fastai/nbdev]: Create delightful software with Jupyter Notebooks <GithubTags tagItems="python;jupyter;pypi;documentation-tool;conda;developer-tools;literate-programming;jupyter-notebooks;python-modules;fastai;documentation-generator;nbdev" />
   - [🌐Official Site](https://nbdev.fast.ai)
+- [invoke-ai/InvokeAI][invoke-ai/InvokeAI]: InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. <GithubTags tagItems="windows;macos;linux;artificial-intelligence;generative-art;image-generation;inpainting;img2img;ai-art;outpainting;txt2img;latent-diffusion;stable-diffusion" />
+  - [🌐Official Site](https://invoke-ai.github.io/InvokeAI)
+
+
 
 <!-- Jupyter Notebook -->
 
@@ -648,6 +658,9 @@ meta:
 [MakiNaruto/Automatic_ticket_purchase]: https://github.com/MakiNaruto/Automatic_ticket_purchase
 [geohot/tinygrad]: https://github.com/geohot/tinygrad
 [bokeh/bokeh]: https://github.com/bokeh/bokeh
+[openai/whisper]: https://github.com/openai/whisper
+[huggingface/text-generation-inference]: https://github.com/huggingface/text-generation-inference
+[pyg-team/pytorch_geometric]: https://github.com/pyg-team/pytorch_geometric
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -681,3 +694,4 @@ meta:
 [Deci-AI/super-gradients]: https://github.com/Deci-AI/super-gradients
 [Azure/Azure-Sentinel]: https://github.com/Azure/Azure-Sentinel
 [fastai/nbdev]: https://github.com/fastai/nbdev
+[invoke-ai/InvokeAI]: https://github.com/invoke-ai/InvokeAI

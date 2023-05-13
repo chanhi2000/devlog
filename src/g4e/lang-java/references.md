@@ -72,6 +72,12 @@ tags: ["java", "baeldung"]
  
 ---
 
+## Java Code Geeks
+
+- [Introducing Kubernetes Alternatives to Spring Java Framework](https://www.javacodegeeks.com/2023/05/introducing-kubernetes-alternatives-to-spring-java-framework.html)
+
+---
+
 ## Misc
 
 - [Task (2) - taskAffinity](https://parkho79.tistory.com/42)

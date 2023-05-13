@@ -37,4 +37,17 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 - [The Best Way To Dark Mode Your Website In My Opinion.](https://dev.to/zxcodes/the-best-way-to-dark-mode-your-website-1g7f)
 - [8 SCSS Best Practices to Keep in Mind](https://dev.to/liaowow/8-css-best-practices-to-keep-in-mind-4n5h)
 
+---
+
+## Builder.io
+
+- [CSS Tips for Better Web Development](https://www.builder.io/blog/css-tips-for-better-web-development)
+
+---
+
+## Nerd Level Tech
+
+[A Complete and Beginner-Friendly Guide to CSS Mastery-Part 3](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3)
+
+---
 <TagLinks />

@@ -25,14 +25,22 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Patterns](https://www.patterns.dev/resources)
   - [React Server Components](https://www.patterns.dev/posts/react-server-components)
 - [140 DevTools Tips](https://devtoolstips.org)
+- [The Programming Expert](https://theprogrammingexpert.com)
 - [My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
-
 
 ---
 
 ## freecodecamp.org
 
 - [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3)
+- [How to Upload Files with JavaScript](https://www.freecodecamp.org/news/upload-files-with-javascript/)
+- [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/)
+
+---
+
+## Builder.io
+
+- [Rapid Mock API creation with ChatGPT and json-server](https://www.builder.io/blog/mock-api-data-with-chatgpt)
 
 ---
 
@@ -50,6 +58,20 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Memoization in JavaScript](https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8)
 - [Generators in JavaScript Explained](https://javascript.plainenglish.io/generators-in-javascript-explained-6855a307e371)
 - [The Power of Web Performance: How I Increased the Score from 27 to 99](https://code.likeagirl.io/web-performance-from-27-to-99-32441d24a326)
+- [useRef vs. useState in React](https://designtechworld.medium.com/useref-vs-usestate-in-react-330539025245)
+- [Dark mode on Tauri + Angular + Tailwind app](https://itnext.io/dark-mode-on-tauri-angular-tailwind-app-74df8f7cb8ce)
+
+---
+
+## Arindam Majumder
+
+- [Getting started with Tailwind: An introduction to the popular CSS framework.](https://arindam1729.hashnode.dev/getting-started-with-tailwind)
+
+---
+
+## Vercel
+
+- [Containing multi-site management within a single codebase](https://vercel.com/blog/wunderman-thompson-composable-workflow)
 
 ---
 
@@ -59,9 +81,19 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Compile7
+
+- [Callback vs. Promises vs. Async/Await](https://compile7.org/decompile/callback-vs-promises-vs-async-await/)
+
 ## Fly.io
 
 - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd)
+
+---
+
+## OpenReplay
+
+- [Tanstack: How To Add Tables To Your React App](https://blog.openreplay.com/tanstack--how-to-add-tables-to-your-react-app)
 
 ---
 

@@ -43,8 +43,6 @@ meta:
   - [🌐Official Site](https://vuesax.com)
 - [Cveinnt/LiveTerm][Cveinnt/LiveTerm]: 💻 Build terminal styled websites in minutes!
   - [🌐Official Site](https://liveterm.vercel.app)
-- [BabylonJS/Babylon.js][BabylonJS/Babylon.js]: Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-  - [🌐Official Site](http://www.babylonjs.com)
 - [nkallen/plasticity][nkallen/plasticity]
 - [jaredh159/tailwind-react-native-classnames][jaredh159/tailwind-react-native-classnames]: simple, expressive API for tailwindcss + react-native
 - [louislam/uptime-kuma][louislam/uptime-kuma]: A fancy self-hosted monitoring tool
@@ -73,7 +71,7 @@ meta:
 - [medusajs/medusa][medusajs/medusa]: The open-source Shopify alternative ⚡️
   - [🌐Official Site](https://medusajs.com)
 - [AsyncBanana/microdiff][AsyncBanana/microdiff]: A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
-- [laurent22/joplin][laurent22/joplin]: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin][laurent22/joplin]: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. <GithubTags tagItems="electron;nodejs;javascript;android;react-native;dropbox;synchronisation;nextcloud;onedrive;webdav;note-taking;evernote;web-clipper;enex-files;joplin" />
   - [🌐Official Site](https://joplinapp.org)
 - [marktext/marktext][marktext/marktext]: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
   - [🌐Official Site](https://marktext.app)
@@ -128,7 +126,7 @@ meta:
   - [🌐Official Site](https://prismjs.com)
 - [hmartiro/riffusion-app][hmartiro/riffusion-app]: Stable diffusion for real-time music generation
   - [🌐Official Site](http://riffusion.com)
-- [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the `<canvas>` tag
+- [chartjs/Chart.js][chartjs/Chart.js]: Simple HTML5 Charts using the `<canvas>` tag <GithubTags tagItems="javascript;chart;html5;canvas;graph;hacktoberfest;html5-charts" />
   - [🌐Official Site](https://www.chartjs.org)
 - [carson-katri/dream-textures][carson-katri/dream-textures]: Stable Diffusion built-in to Blender
 - [xiaoxian521/vue-pure-admin][xiaoxian521/vue-pure-admin]: 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
@@ -145,7 +143,7 @@ meta:
   - [🌐Official Site](https://illacloud.com)
 - [TanStack/router][TanStack/router]: 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
   - [🌐Official Site](https://tanstack.com/router)
-- [melonjs/melonJS][melonjs/melonJS]: a fresh & lightweight javascript game engine
+- [melonjs/melonJS][melonjs/melonJS]: a fresh & lightweight javascript game engine <GithubTags tagItems="javascript;firefox;gamedev;webgl;chrome;cordova;typescript;html5;es6;game-engine;game-development;melonjs;html5-canvas;webaudio;canvas2d;web3;webgl2;hacktoberfest;2d-game-engine;tiled" />
   - [🌐Official Site](https://melonjs.org)
 - [yaroslav-n/tweetGPT][yaroslav-n/tweetGPT]: TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 - [nocobase/nocobase][nocobase/nocobase]: NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
@@ -274,6 +272,68 @@ meta:
   - [🌐Official Site](http://asvd.github.io/microlight)
 - [feimosi/baguetteBox.js][feimosi/baguetteBox.js]: ⚡ Simple and easy to use lightbox script written in pure JavaScript <GithubTags tagItems="javascript;gallery;responsive;modal;lightbox;vanilla-javascript;lightbox-script;pure-javascript" />
   - [🌐Official Site](https://feimosi.github.io/baguetteBox.js)
+- [juliangarnier/anime][juliangarnier/anime]: JavaScript animation engine <GithubTags tagItems="javascript;css;svg;canvas;anime;animation;javascript-library" />
+  - [🌐Official Site](https://animejs.com)
+- [julianshapiro/velocity][julianshapiro/velocity]: Accelerated JavaScript animation.
+  - [🌐Official Site](http://velocityjs.org)
+- [Popmotion/popmotion][Popmotion/popmotion]: Simple animation libraries for delightful user interfaces <GithubTags tagItems="css;svg;tween;animation;physics;motion;javascript-motion-engine;popmotion" />
+  - [🌐Official Site](https://popmotion.io)
+- [michalsnik/aos][michalsnik/aos]: Animate on scroll library
+- [jlmakes/scrollreveal][jlmakes/scrollreveal]: Animate elements as they scroll into view. <GithubTags tagItems="javascript;css;animation;scroll;transition;reveal;transform;scrollreveal" />
+  - [🌐Official Site](https://scrollrevealjs.org)
+- [videojs/video.js][videojs/video.js]: Video.js - open source HTML5 video player <GithubTags tagItems="javascript;html;player;video;html5;hls;html5-video;dash;videojs;html5-audio" />
+  - [🌐Official Site](https://videojs.com)
+- [sampotts/plyr][sampotts/plyr]: A simple HTML5, YouTube and Vimeo player <GithubTags tagItems="javascript;youtube;vimeo;html5-video;plyr" />
+  - [🌐Official Site](https://plyr.io)
+- [jplayer/jPlayer][jplayer/jPlayer]: jPlayer : HTML5 Audio & Video for jQuery
+  - [🌐Official Site](http://jplayer.org)
+- [davatron5000/FitVids.js][davatron5000/FitVids.js]: A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
+  - [🌐Official Site](http://fitvidsjs.com)
+- [goldfire/howler.js][goldfire/howler.js]: Javascript audio library for the modern web. <GithubTags tagItems="audio;javascript;playback;web-audio;html5-audio;audio-library;howler;volume" />
+  - [🌐Official Site](https://howlerjs.com)
+- [wavesurfer-js/wavesurfer.js][wavesurfer-js/wavesurfer.js]: Navigable waveform built on Web Audio and Canvas <GithubTags tagItems="audio;music;waveform;web-audio" />
+  - [🌐Official Site](https://wavesurfer-js.org)
+- [scottschiller/SoundManager2][scottschiller/SoundManager2]: A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.
+  - [🌐Official Site](http://www.schillmania.com/projects/soundmanager2)
+- [serversideup/amplitudejs][serversideup/amplitudejs]: AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required. <GithubTags tagItems="javascript;css;html;html5;web-audio;html5-audio;mit-license;web-audio-library" />
+  - [🌐Official Site](https://521dimensions.com/open-source/amplitudejs)
+- [photonstorm/phaser][photonstorm/phaser]: Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. <GithubTags tagItems="javascript;gamedev;webgl;canvas;phaser;game-development;phaserjs;html5-game-development;game-frameworks;facebook-instant-games;phaser-development" />
+  - [🌐Official Site](https://phaser.io)
+- [liabru/matter-js][liabru/matter-js]: a 2D rigid body physics engine for the web ▲● ■ <GithubTags tagItems="javascript;web;canvas;physics;physics-engine;rigid-bodies" />
+- [egret-labs/egret-core][egret-labs/egret-core]: Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows. <GithubTags tagItems="javascript;webgl;typescript;game-engine;html5-game;html5-canvas;egret" />
+  - [🌐Official Site](http://www.egret.com)
+- [craftyjs/Crafty][craftyjs/Crafty]: JavaScript Game Engine <GithubTags tagItems="javascript;games" />
+  - [🌐Official Site](http://craftyjs.com)
+- [nosir/cleave.js][nosir/cleave.js]: Format input text content when you are typing... <GithubTags tagItems="input;credit-card;input-mask;creditcard;telephone-number" />
+  - [🌐Official Site](http://nosir.github.io/cleave.js)
+- [jquery-validation/jquery-validation][jquery-validation/jquery-validation]: jQuery Validation Plugin library sources <GithubTags tagItems="javascript;jquery;jquery-validation;inline-validation" />
+  - [🌐Official Site](https://jqueryvalidation.org)
+- [selectize/selectize.js][selectize/selectize.js]: Selectize is the hybrid of a textbox and select box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc. <GithubTags tagItems="javascript;css;bootstrap;jquery;jquery-plugin;select;input;tagging;hacktoberfest" />
+  - [🌐Official Site](https://selectize.dev)
+- [guillaumepotier/Parsley.js][guillaumepotier/Parsley.js]: Validate your forms, frontend, without writing a single line of javascript
+  - [🌐Official Site](http://parsleyjs.org)
+- [amsul/pickadate.js][amsul/pickadate.js]: The mobile-friendly, responsive, and lightweight jQuery date & time input picker. <GithubTags tagItems="time;date;calendar;picker" />
+  - [🌐Official Site](http://amsul.ca/pickadate.js)
+- [meteor/meteor][meteor/meteor]: Meteor, the JavaScript App Platform <GithubTags tagItems="react;nodejs;javascript;npm;framework;mongodb;meteor;realtime;rpc;reactive-programming;build-system;zero-configuration" />
+  - [🌐Official Site](https://meteor.com)
+- [mrdoob/three.js][mrdoob/three.js]: JavaScript 3D Library. <GithubTags tagItems="javascript;svg;webgl;html5;canvas;augmented-reality;webaudio;virtual-reality;webgl2;3d;webgpu;webxr" />
+  - [🌐Official Site](https://threejs.org)
+- [nolimits4web/swiper][nolimits4web/swiper]: Most modern mobile touch slider with hardware accelerated transitions <GithubTags tagItems="gallery;mobile;slider;touch;carousel;swipe;touch-events;swiper" />
+  - [🌐Official Site](https://swiperjs.com)
+- [fabricjs/fabric.js][fabricjs/fabric.js]: Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+  - [🌐Official Site](http://fabricjs.com)
+- [aframevr/aframe][aframevr/aframe]: 🅰️ Web framework for building virtual reality experiences. <GithubTags tagItems="html;gamedev;webgl;threejs;game-engine;augmented-reality;vr;webvr;virtualreality;vive;oculus;rift;game-development;ecs;aframe;virtual-reality;metaverse;daydream;3d;webxr" />
+  - [🌐Official Site](https://aframe.io)
+- [svg/svgo][svg/svgo]: ⚙️ Node.js tool for optimizing SVG files <GithubTags tagItems="nodejs;javascript;svg;cli;optimization;minification;svgo" />
+- [hakimel/reveal.js][hakimel/reveal.js]: The HTML Presentation Framework <GithubTags tagItems="slideshow;slides;presentations" />
+  - [🌐Official Site](https://revealjs.com)
+- [transloadit/uppy][transloadit/uppy]: The next open source file uploader for web browsers 🐶 <GithubTags tagItems="javascript;open-source;files;encoding;instagram;modular;mit;dropbox;uploader;tus;resumable;file-uploads;webbrowser;file-uploader;hacktoberfest;transloadit;uppy;pick-files" />
+  - [🌐Official Site](https://uppy.io)
+- [impress/impress.js][impress/impress.js]: It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+  - [🌐Official Site](http://impress.js.org)
+
+
+
 
 <!-- Javascript -->
 
@@ -367,7 +427,7 @@ meta:
   - [🌐Official Site](https://baklava.design)
 - [highlight/highlight][highlight/highlight]: highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
   - [🌐Official Site](https://app.highlight.io)
-- [appium/appium][appium/appium]: Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+- [appium/appium][appium/appium]: Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol <GithubTags tagItems="android;windows;macos;ios;automation;webdriver;test-automation;appium" />
   - [🌐Official Site](http://appium.io)
 - [jhipster/generator-jhipster][jhipster/generator-jhipster]: JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
   - [🌐Official Site](https://www.jhipster.tech)
@@ -455,8 +515,34 @@ meta:
   - [🌐Official Site](https://demo.start-ui.com)
 - [avitorio/outstatic][avitorio/outstatic]: Outstatic - A static CMS for Next.js <GithubTags tagItems="react;blog;static-site-generator;cms;typescript;nextjs" />
   - [🌐Official Site](https://outstatic.com)
- 
+- [vuejs/core][vuejs/core]: 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  - [🌐Official Site](https://vuejs.org)
+- [SigNoz/signoz][SigNoz/signoz]: SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool <GithubTags tagItems="react;go;open-source;typescript;monitoring;reactjs;metrics;logs;self-hosted;instrumentation;apm;tracing;observability;distributed-tracing;application-monitoring;opentelemetry" />
+  - [🌐Official Site](https://signoz.io)
+- [0xfe/vexflow][0xfe/vexflow]: A JavaScript library for rendering music notation and guitar tablature.
+  - [🌐Official Site](http://www.vexflow.com)
+- [pixijs/pixijs][pixijs/pixijs]: The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. <GithubTags tagItems="javascript;game;webgl;canvas;rendering;glsl;data-visualization;renderer;pixijs;pixi;canvas2d;rendering-engine;rendering-2d-graphics" />
+  - [🌐Official Site](http://pixijs.com)
+- [BabylonJS/Babylon.js][BabylonJS/Babylon.js]: Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. <GithubTags tagItems="webgl;typescript;game-engine;webvr;game-development;webaudio;babylon;webgl2;game-engine-3d;3d;webgpu;webxr" />
+  - [🌐Official Site](http://www.babylonjs.com)
+- [quilljs/quill][quilljs/quill]: Quill is a modern WYSIWYG editor built for compatibility and extensibility. <GithubTags tagItems="editor;quill;wysiwyg;rich-text-editor" />
+  - [🌐Official Site](https://quilljs.com)
+- [niklasvh/html2canvas][niklasvh/html2canvas]: Screenshots with JavaScript <GithubTags tagItems="javascript;screenshot;dom" />
+  - [🌐Official Site](https://html2canvas.hertzen.com)
+- [usablica/intro.js][usablica/intro.js]: Lightweight, user-friendly onboarding tour library <GithubTags tagItems="javascript;html;cdn;ux;minify;guide;tour;introjs" />
+  - [🌐Official Site](http://introjs.com)
+
 <!-- Typescript -->
+
+---
+
+## Coffeescript
+
+- [jashkenas/coffeescript][jashkenas/coffeescript]: Unfancy JavaScript
+  - [🌐Official Site](https://coffeescript.org)
+- [mojs/mojs][mojs/mojs]: The motion graphics toolbelt for the web <GithubTags tagItems="javascript;svg;design;library;webpack;web;modern;es6;timeline;animation;shape;graphics;motion;burst;motion-graphics;swirl;toolbelt;mojs;mo-js" />
+  - [🌐Official Site](https://mojs.github.io)
+
 ---
 
 <TagLinks />
@@ -473,7 +559,6 @@ meta:
 [alibaba/ice]: https://github.com/alibaba/ice
 [lusaxweb/vuesax-next]: https://github.com/lusaxweb/vuesax-next
 [Cveinnt/LiveTerm]: https://github.com/Cveinnt/LiveTerm
-[BabylonJS/Babylon.js]: https://github.com/BabylonJS/Babylon.js
 [nkallen/plasticity]: https://github.com/nkallen/plasticitys
 [jaredh159/tailwind-react-native-classnames]: https://github.com/jaredh159/tailwind-react-native-classnames
 [louislam/uptime-kuma]: https://github.com/louislam/uptime-kuma
@@ -604,6 +689,37 @@ meta:
 [glyphic-co/textblock]: https://github.com/glyphic-co/textblock
 [asvd/microlight]: https://github.com/asvd/microlight
 [feimosi/baguetteBox.js]: https://github.com/feimosi/baguetteBox.js
+[juliangarnier/anime]: https://github.com/juliangarnier/anime
+[julianshapiro/velocity]: https://github.com/julianshapiro/velocity
+[Popmotion/popmotion]: https://github.com/Popmotion/popmotion
+[michalsnik/aos]: https://github.com/michalsnik/aos
+[jlmakes/scrollreveal]: https://github.com/jlmakes/scrollreveal
+[videojs/video.js]: https://github.com/videojs/video.js
+[sampotts/plyr]: https://github.com/sampotts/plyr
+[jplayer/jPlayer]: https://github.com/jplayer/jPlayer
+[davatron5000/FitVids.js]: https://github.com/davatron5000/FitVids.js
+[goldfire/howler.js]: https://github.com/goldfire/howler.js
+[wavesurfer-js/wavesurfer.js]: https://github.com/wavesurfer-js/wavesurfer.js
+[scottschiller/SoundManager2]: https://github.com/scottschiller/SoundManager2
+[serversideup/amplitudejs]: https://github.com/serversideup/amplitudejs
+[photonstorm/phaser]: https://github.com/photonstorm/phaser
+[liabru/matter-js]: https://github.com/liabru/matter-js
+[egret-labs/egret-core]: https://github.com/egret-labs/egret-core
+[craftyjs/Crafty]: https://github.com/craftyjs/Crafty
+[nosir/cleave.js]: https://github.com/nosir/cleave.js
+[jquery-validation/jquery-validation]: https://github.com/jquery-validation/jquery-validation
+[selectize/selectize.js]: https://github.com/selectize/selectize.js
+[guillaumepotier/Parsley.js]: https://github.com/guillaumepotier/Parsley.js
+[amsul/pickadate.js]: https://github.com/amsul/pickadate.js
+[meteor/meteor]: https://github.com/meteor/meteor
+[mrdoob/three.js]: https://github.com/mrdoob/three.js
+[nolimits4web/swiper]: https://github.com/nolimits4web/swiper
+[fabricjs/fabric.js]: https://github.com/fabricjs/fabric.js
+[aframevr/aframe]: https://github.com/aframevr/aframe
+[svg/svgo]: https://github.com/svg/svgo
+[hakimel/reveal.js]: https://github.com/hakimel/reveal.js
+[transloadit/uppy]: https://github.com/transloadit/uppy
+[impress/impress.js]: https://github.com/impress/impress.js
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -702,3 +818,14 @@ meta:
 [dishant0406/lazyweb]: https://github.com/dishant0406/lazyweb
 [BearStudio/start-ui-web]: https://github.com/BearStudio/start-ui-web
 [avitorio/outstatic]: https://github.com/avitorio/outstatic
+[vuejs/core]: https://github.com/vuejs/core
+[SigNoz/signoz]: https://github.com/SigNoz/signoz
+[0xfe/vexflow]: https://github.com/0xfe/vexflow
+[pixijs/pixijs]: https://github.com/pixijs/pixijs
+[BabylonJS/Babylon.js]: https://github.com/BabylonJS/Babylon.js
+[quilljs/quill]: https://github.com/quilljs/quill
+[niklasvh/html2canvas]: https://github.com/niklasvh/html2canvas
+[usablica/intro.js]: https://github.com/usablica/intro.js
+<!-- Coffeescript -->
+[jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
+[mojs/mojs]: https://github.com/mojs/mojs

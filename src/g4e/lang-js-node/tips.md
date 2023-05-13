@@ -183,4 +183,42 @@ const int = 1553 / 10 | 0;;
 
 ---
 
+## Performance
+
+### `console.time()`
+
+```js
+// Our test function runs a big for-loop
+function test() {
+    let number = 0;
+    for (let i=0; i<999999; i++) 
+      number += 5;
+}
+
+
+console.time("Test function");     // Start measuring time
+test();                            // Call our test function
+console.timeEnd("Test function");  // stop measuring time
+
+/*
+ default: 1.205810546875ms
+ (value may vary depnding on browser, etc.)
+ */
+```
+
+### `performance.now()`
+
+```js
+let start = performance.now();     // Timestamp before execution
+test();                            // Call our test function
+let end  = performance.now();      // Timestamp after execution
+// Calculate the time taken (in ms)
+let ms = end - start;
+console.log(ms);
+/*
+ default: 1.205810546875ms
+ */
+
+```
+
 <TagLinks />

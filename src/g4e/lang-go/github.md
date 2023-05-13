@@ -30,7 +30,7 @@ meta:
 - [charmbracelet/vhs][charmbracelet/vhs]: Your CLI home video recorder 📼
 - [gorilla/mux][gorilla/mux]: A powerful HTTP router and URL matcher for building Go web servers with 🦍
   - [🌐Official Site](http://www.gorillatoolkit.org/pkg/mux)
-- [schollz/croc][schollz/croc]: Easily and securely send things from one computer to another 🐊 📦
+- [schollz/croc][schollz/croc]: Easily and securely send things from one computer to another 🐊 📦 <GithubTags tagItems="golang;tcp;transfer;peer-to-peer;file-sharing;data-transfer;pake" />
   - [🌐Official Site](https://schollz.com/software/croc6)
 - [eatmoreapple/openwechat][eatmoreapple/openwechat]: golang版微信SDK
 - [awslabs/eks-node-viewer][awslabs/eks-node-viewer]: EKS Node Viewer
@@ -124,6 +124,11 @@ meta:
   - [🌐Official Site](https://forum.syncthing.net)
 - [earthly/earthly][earthly/earthly]: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. <GithubTags tagItems="dockerfiles;build;framework;ci;build-automation;ci-cd;build-tool;build-system;docker-images;cicd;hacktoberfest;reproducible-builds;container-builder;hacktoberfest2020;hacktoberfest2021" />
   - [🌐Official Site](https://earthly.dev)
+- [gitleaks/gitleaks][gitleaks/gitleaks]: Protect and discover secrets using Gitleaks 🔑 <GithubTags tagItems="git;go;golang;security;secret;hacktoberfest;security-tools;devsecops;gitleaks" />
+  - [🌐Official Site](https://gitleaks.io)
+- [aquasecurity/trivy][aquasecurity/trivy]: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <GithubTags tagItems="go;docker;kubernetes;golang;security;containers;iac;vulnerability;infrastructure-as-code;vulnerability-detection;hacktoberfest;vulnerability-scanners;security-tools;devsecops;misconfiguration" />
+  - [🌐Official Site](https://aquasecurity.github.io/trivy)
+
 
 
 <!-- Go -->
@@ -191,3 +196,5 @@ meta:
 [TimothyStiles/poly]: https://github.com/TimothyStiles/poly
 [syncthing/syncthing]: https://github.com/syncthing/syncthing
 [earthly/earthly]: https://github.com/earthly/earthly
+[gitleaks/gitleaks]: https://github.com/gitleaks/gitleaks
+[aquasecurity/trivy]: https://github.com/aquasecurity/trivy

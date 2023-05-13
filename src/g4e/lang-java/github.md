@@ -98,6 +98,10 @@ meta:
 - [krasa/StringManipulation][krasa/StringManipulation]: IntelliJ plugin - https://plugins.jetbrains.com/plugin/2162 <GithubTags tagItems="java;intellij;intellij-plugin" />
 - [OpenRefine/OpenRefine][OpenRefine/OpenRefine]: OpenRefine is a free, open source power tool for working with messy data and improving it <GithubTags tagItems="java;data-science;reconciliation;wikidata;opendata;journalism;data-analysis;data-wrangling;datamining;datajournalism;datacleaning;datacleansing" />
   - [🌐Official Site](https://openrefine.org)
+- [apache/doris][apache/doris]: Apache Doris is an easy-to-use, high performance and unified analytics database. <GithubTags tagItems="bigquery;real-time;sql;database;spark;hive;hadoop;etl;snowflake;olap;query-engine;redshift;dbt;elt;iceberg;hudi;delta-lake;lakehouse" />
+  - [🌐Official Site](https://doris.apache.org)
+
+
 
 ---
 
@@ -233,6 +237,7 @@ meta:
 [termux/termux-app]: https://github.com/termux/termux-app
 [alibaba/Chat2DB]: https://github.com/alibaba/Chat2DB
 [cedar-policy/cedar-java]: https://github.com/cedar-policy/cedar-java
+[apache/doris]: https://github.com/apache/doris
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

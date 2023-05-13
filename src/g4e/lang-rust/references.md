@@ -14,4 +14,10 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Dev.to
+
+- [Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
+
+---
+
 <TagLinks />

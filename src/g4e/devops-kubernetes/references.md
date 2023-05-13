@@ -19,16 +19,27 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Medium
+
+- [How to deploy your Golang project on Kubernetes](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)
+
+---
+
 ## DZone
 
 - [Microservices on Kubernetes Part 1 - IDE and Tools](https://dzone.com/articles/microservices-on-kubernetes-part-1-ide-amp-tools)
 
 ---
 
-
 ## FOSS Tech Nix
 
 - [Kubernetes cluster Monitoring with Prometheus and Grafana](https://www.fosstechnix.com/kubernetes-cluster-monitoring-with-prometheus-and-grafana)
+
+---
+
+## Spacelift
+
+- [15 Common Kubernetes Pitfalls & Challenges](https://spacelift.io/blog/kubernetes-challenges)
 
 ---
 

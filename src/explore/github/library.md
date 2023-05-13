@@ -192,6 +192,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [ajouatom/apilot][ajouatom/apilot]
 - [typesense/typesense][typesense/typesense]: Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences <GithubTags tagItems="search;search-engine;elasticsearch;algolia;cpp;raft;fuzzy-search;synonyms;in-memory;full-text-search;datastore;instantsearch;merchandising;enterprise-search;geosearch;pinecone;typo-tolerance;site-search;faceting;vector-search" />
   - [🌐Official Site](https://typesense.org)
+- [juce-framework/JUCE][juce-framework/JUCE]: JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins. <GithubTags tagItems="audio;plugin;c-plus-plus;framework;cpp;vst;au;vst3;juce;aax;audiounit;auv3" />
+  - [🌐Official Site](https://juce.com)
+
 
 
 
@@ -476,6 +479,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [chekanov/CFBook]: https://github.com/chekanov/CFBook
 [ajouatom/apilot]: https://github.com/ajouatom/apilot
 [typesense/typesense]: https://github.com/typesense/typesense
+[juce-framework/JUCE]: https://github.com/juce-framework/JUCE
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim

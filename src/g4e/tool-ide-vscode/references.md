@@ -25,4 +25,10 @@ tags: ["webdev", "vscode", "productivity", "programming"]
 
 ---
 
+## Headway
+
+- [VSCode Profiles: Optimize Your Coding Environment](https://www.headway.io/blog/vscode-profiles-optimize-your-coding-environment)
+
+
+---
 <TagLinks />
