@@ -25,6 +25,8 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-batch/README.md',
         '/g4e/cli-batch/basics.md',
         '/g4e/cli-batch/tips.md',
+        '/g4e/cli-batch/references.md',
+
       ]
     }, {
       text: '🧙‍♂️Powershell',
@@ -131,6 +133,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-css/README.md',
+        '/g4e/lang-css/tips.md',
         '/g4e/lang-css/snippets.md',
         '/g4e/lang-css/references.md',
         '/g4e/lang-css/youtube.md',
@@ -269,6 +272,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-podman/README.md',
         '/g4e/devops-podman/skopeo.md',
         '/g4e/devops-podman/references.md',
+        '/g4e/devops-podman/articles/you-dont-have-to-use-docker-anymore.md',
       ]
     }, {
       text: '☸️Kubernetes',

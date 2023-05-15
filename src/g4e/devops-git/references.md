@@ -46,6 +46,13 @@ description: 🛠️Git > 📚References
 
 - [Advance Git & GitHub for DevOps Engineers| Part-3](https://nazninparveen.hashnode.dev/advance-git-github-for-devops-engineers-part-3)
 
+
+---
+
+## Sulagna Ghosh
+
+- [What's inside .git Folder-Part 1: A Theoretical Approach](https://potatoblogger.hashnode.dev/whats-inside-git-folder-part-1-a-theoretical-approach)
+
 ---
 
 ## Devlogs

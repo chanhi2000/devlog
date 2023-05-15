@@ -13,13 +13,6 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
-## General
-
-- [React, visualized](https://react.gg/visualized)
-  - [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
-
----
-
 ## Education
 
 - [Patterns](https://www.patterns.dev/resources)
@@ -27,14 +20,96 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [140 DevTools Tips](https://devtoolstips.org)
 - [The Programming Expert](https://theprogrammingexpert.com)
 - [My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
+- [React Tutorial](https://react-tutorial.app)
+- [React Training](https://courses.reacttraining.com)
+- [React by ui.dev](https://ui.dev/react)
+  - [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
+- [Learn React for free](https://scrimba.com/learn/learnreact)
+- [React for Beginners](https://reactforbeginners.com)
+- [Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5)
+- [Epic React](https://epicreact.dev)
+- [React, visualized](https://react.gg/visualized)
+- [React Security](https://courses.reactsecurity.io)
+- [Kati Frantz's courses](https://katifrantz.com)
+- [Building Web Applications with React](https://www.pluralsight.com/paths/building-web-applications-with-react)
+- [https://www.newline.co/react-from-zero]
+- [React JS Notes for Professionals by Goal Kicker](https://goalkicker.com/ReactJSBook)
+- [The React Handbook by FavioCopes](https://reacthandbook.com)
+- [The Road to React by Robin Wieruch](https://roadtoreact.com)
+- [Pure React by Dave Ceddia](https://daveceddia.com/pure-react)
+- [React Explained by Zac Gordon](https://www.ostraining.com/books/react)
+---
+
+## ReactJS Official
+
+- [main](https://reactjs.org/blog/all.htmls)
 
 ---
 
+## Scotch.io
+
+- [about React](https://scotch.io/tag/react)
+
+---
+
+## Alligator.io
+
+- [main](https://alligator.io)
+
+---
+
+## Smashing Magazine
+
+- [about React](https://www.smashingmagazine.com/category/react)
+
+---
+
+## LogRocket
+
+- [main](https://blog.logrocket.com)
+
+---
+
+## Dev.to
+
+- [about React](https://dev.to/t/react)
+
+---
+
+## Robin Wieruch
+
+- [main](https://www.robinwieruch.de/blog)
+
+---
+
+## Dave Ceddia
+
+- [main](https://daveceddia.com/archives)
+
+---
+
+## Flavio Copes
+
+- [about React](https://flaviocopes.com/tags/react)
+
+---
+
+
+
 ## freecodecamp.org
 
+- [about React](https://www.freecodecamp.org/news/tag/react)
 - [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3)
 - [How to Upload Files with JavaScript](https://www.freecodecamp.org/news/upload-files-with-javascript/)
 - [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/)
+- [How to Write More Efficient JavaScript Conditions](https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions)
+- [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
+
+---
+
+## Microsoft
+
+- [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
 ---
 
@@ -66,6 +141,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Arindam Majumder
 
 - [Getting started with Tailwind: An introduction to the popular CSS framework.](https://arindam1729.hashnode.dev/getting-started-with-tailwind)
+
+---
+
+## refine
+
+- [⚡refine.new - Introducing the Fastest Way to Create React Apps](https://refine.hashnode.dev/refinenew-introducing-the-fastest-way-to-create-react-apps)
 
 ---
 

@@ -104,6 +104,13 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://juanpe.github.io/About-SwiftUI)
 - [eugeneyan/open-llms][eugeneyan/open-llms]: 🤖 A list of open LLMs available for commercial use. <GithubTags tagItems="commercial;large-language-models;llm;llms" />
 - [utilForever/awesome-cafe][utilForever/awesome-cafe]: ☕ 모각코하기 좋은 국내 카페 리스트
+- [iknowjason/Awesome-CloudSec-Labs][iknowjason/Awesome-CloudSec-Labs]: Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
+- [RitikPatni/Front-End-Web-Development-Resources][RitikPatni/Front-End-Web-Development-Resources]: This repository contains content which will be helpful in your journey as a front-end Web Developer <GithubTags tagItems="javascript;css;html;front-end;tutorial;framework;frontend;color-scheme;css-framework;resources;css-grid;frontend-framework;hacktoberfest;youtube-channel;front-end-development;free-photos;stock-resources;animation-frameworks" />
+  - [🌐Official Site](https://resources.ritikpatni.me)
+- [denysdovhan/wtfjs][denysdovhan/wtfjs]: 🤪 A list of funny and tricky JavaScript examples <GithubTags tagItems="javascript;learning;js;book;notes;handbook;specification;wtf" />
+  - [🌐Official Site](http://bit.ly/wtfjavascript)
+- [lydiahallie/javascript-questions][lydiahallie/javascript-questions]: A long list of (advanced) JavaScript questions, and their explanations ✨
+
 
 
 ---
@@ -200,6 +207,10 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [Juanpe/About-SwiftUI]: https://github.com/Juanpe/About-SwiftUI
 [eugeneyan/open-llms]: https://github.com/eugeneyan/open-llms
 [utilForever/awesome-cafe]: https://github.com/utilForever/awesome-cafe
+[iknowjason/Awesome-CloudSec-Labs]: https://github.com/iknowjason/Awesome-CloudSec-Labs
+[RitikPatni/Front-End-Web-Development-Resources]: https://github.com/RitikPatni/Front-End-Web-Development-Resources
+[denysdovhan/wtfjs]: https://github.com/denysdovhan/wtfjs
+[lydiahallie/javascript-questions]: https://github.com/lydiahallie/javascript-questions
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

@@ -25,6 +25,13 @@ description: 🐋Docker > 📚References
 
 ---
 
+## Amazon Web Service
+
+- [Introducing Finch: An Open Source Client for Container Development](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development)
+- [AWS Releases Open-Source Tool for Command-Line Container Management](https://www.infoq.com/news/2022/12/finch-container-management)
+
+---
+
 ## DZone
 
 - [Docker Manifest – A Peek Into Image’s Manifest.json Files](https://dzone.com/articles/docker-manifest-a-peek-into-images-manifestjson-fi)

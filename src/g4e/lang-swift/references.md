@@ -16,6 +16,7 @@ tags: ["references", "swift"]
 
 ## Learning
 
+- [Swift by Sundell](https://swiftbysundell.com/latest)
 - [CodeWithChris](https://learn.codewithchris.com/collections)
 
 ---

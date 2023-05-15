@@ -50,10 +50,22 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## It's Foss
+
+- [14 Rust Tools for Linux Terminal Dwellers](https://itsfoss.com/rust-cli-tools)
+
+---
+
 ## HackingPassion
 
 - [Determin If Your Linux Computer or Server is Hacked](https://hackingpassion.com/determine-if-your-linux-computer-or-server-is-hacked)
 - [Clear Your Rracks on Linux](https://hackingpassion.com/clear-your-tracks-on-linux)
+
+---
+
+## Smashing Magazine
+
+- [A Guide To Command-Line Data Manipulation](https://www.smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller)
 
 ---
 

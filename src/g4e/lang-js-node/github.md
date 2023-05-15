@@ -339,8 +339,10 @@ meta:
   - [🌐Official Site](https://windmill.dev)
 - [smol-ai/menubar][smol-ai/menubar]: a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day. <GithubTags tagItems="electron;menubar;google;bard;chatgpt" />
   - [🌐Official Site](https://smol.ai)
-
-
+- [dropzone/dropzone][dropzone/dropzone]: Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. <GithubTags tagItems="javascript;drag-and-drop;file-upload;javascript-library;dropzone" />
+  - [🌐Official Site](http://www.dropzone.dev/js)
+- [dixonandmoe/rellax][dixonandmoe/rellax]: Lightweight, vanilla javascript parallax library
+  - [🌐Official Site](https://dixonandmoe.com/rellax)
 
 
 <!-- Javascript -->
@@ -553,6 +555,8 @@ meta:
 - [creatorsgarten/kaogeek-discord-bot][creatorsgarten/kaogeek-discord-bot]: Discord bot for KaoGeek, built with TypeScript
 - [dsherret/ts-morph][dsherret/ts-morph]: TypeScript Compiler API wrapper for static analysis and programmatic code changes. <GithubTags tagItems="javascript;typescript;static-analysis;ast;code-generation" />
   - [🌐Official Site](https://ts-morph.com)
+- [inorganik/CountUp.js][inorganik/CountUp.js]: Animates a numerical value by counting to it
+  - [🌐Official Site](https://inorganik.github.io/countUp.js)
 
 
 
@@ -749,6 +753,8 @@ meta:
 [windmill-labs/windmill]: https://github.com/windmill-labs/windmill
 [smol-ai/menubar]: https://github.com/smol-ai/menubar
 [nuxtlabs/ui]: https://github.com/nuxtlabs/ui
+[dropzone/dropzone]: https://github.com/dropzone/dropzone
+[dixonandmoe/rellax]: https://github.com/dixonandmoe/rellax
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -862,6 +868,7 @@ meta:
 [bluesky-social/social-app]: https://github.com/bluesky-social/social-app
 [creatorsgarten/kaogeek-discord-bot]: https://github.com/creatorsgarten/kaogeek-discord-bot
 [dsherret/ts-morph]: https://github.com/dsherret/ts-morph
+[inorganik/CountUp.js]: https://github.com/inorganik/CountUp.js
 <!-- Coffeescript -->
 [jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
 [mojs/mojs]: https://github.com/mojs/mojs

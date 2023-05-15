@@ -386,6 +386,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://uptime.kuma.pet)
 - [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native.
   - [🌐Official Site](http://airbnb.io/lottie)
+- [adamgiebl/neumorphism][adamgiebl/neumorphism]: 🎉 Generate CSS for your Neumorphism/Soft UI design <GithubTags tagItems="neumorphism;neumorphic-ui;soft-ui;neumorphic-design" />
+  - [🌐Official Site](https://neumorphism.io)
+
+
 
 <TagLinks />
 
@@ -578,3 +582,4 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [tailwindlabs/heroicons]: https://github.com/tailwindlabs/heroicons
 [upptime/upptime]: https://github.com/upptime/upptime
 [airbnb/lottie-web]: https://github.com/airbnb/lottie-web
+[adamgiebl/neumorphism]: https://github.com/adamgiebl/neumorphism

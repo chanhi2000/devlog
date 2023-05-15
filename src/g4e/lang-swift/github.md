@@ -73,6 +73,9 @@ tags: ["git" , "github" , "objc" , "swift"]
 - [stleamist/BetterSafariView][stleamist/BetterSafariView]: A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI. <GithubTags tagItems="swift;ios;safari;sfsafariviewcontroller;sfauthenticationsession;swiftui;aswebauthenticationsession" />
 - [grishka/NearDrop][grishka/NearDrop]: An unofficial Google Nearby Share app for macOS
 - [pikachu987/NotificationView][pikachu987/NotificationView]: iOS Basic Notification screens 🤚
+- [johnsundell/publish][johnsundell/publish]: A static site generator for Swift developers <GithubTags tagItems="swift;static-site-generator;web-development;publish" />
+
+
 
 <TagLinks />
 
@@ -114,3 +117,4 @@ tags: ["git" , "github" , "objc" , "swift"]
 [stleamist/BetterSafariView]: https://github.com/stleamist/BetterSafariView
 [grishka/NearDrop]: https://github.com/grishka/NearDrop
 [pikachu987/NotificationView]: https://github.com/pikachu987/NotificationView
+[johnsundell/publish]: https://github.com/johnsundell/publish

@@ -188,7 +188,7 @@ meta:
 - [bufferapp/MultiActionSwipeHelper][bufferapp/MultiActionSwipeHelper]: An Android RecyclerView Swipe Helper for handling multiple actions per direction
 - [omtodkar/ShimmerRecyclerView][omtodkar/ShimmerRecyclerView]: A custom Shimmer RecyclerView which adopt to list / grid transition automatically and also supports multiple view types while shimmering. <GithubTags tagItems="android;recyclerview;shimmer;shimmerlayout;shimmer-android;shimmer-layout;shimmer-recyclerview;shimmerrecyclerview" />
 - [Marksss/AndroidAutoSwitcher][Marksss/AndroidAutoSwitcher]: AutoSwitchView, a view animating between two items for Android, supports multiple switching animations or you can customize your own strategy of animations. And its child view can be reused.
-
+- [nntuyen/mkloader][nntuyen/mkloader]: Beautiful and smooth custom loading views <GithubTags tagItems="android;custom;view;animation;loader;custom-view;loading;loading-animation" />
 
 
 
@@ -293,3 +293,4 @@ meta:
 [bufferapp/MultiActionSwipeHelper]: https://github.com/bufferapp/MultiActionSwipeHelper
 [omtodkar/ShimmerRecyclerView]: https://github.com/omtodkar/ShimmerRecyclerView
 [Marksss/AndroidAutoSwitcher]: https://github.com/Marksss/AndroidAutoSwitcher
+[nntuyen/mkloader]: https://github.com/nntuyen/mkloader

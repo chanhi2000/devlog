@@ -27,4 +27,16 @@ tags: ["dart", "flutter"]
 
 ---
 
+## Medium
+
+- [Flutter Hackers: Uncovering the Dev’s Myopia (Part 1)](https://infosecwriteups.com/flutter-hackers-uncovering-the-devs-myopia-part-1-6c316be56b13)
+
+---
+
+## freecodecamp.ort
+
+- [Learn Networking in Flutter By Building a Simple App](https://www.freecodecamp.org/news/learn-networking-in-flutter)
+
+---
+
 <TagLinks />

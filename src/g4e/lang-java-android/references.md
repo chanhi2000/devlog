@@ -30,6 +30,12 @@ tags: ["references", "android"]
 
 ---
 
+## Medium
+
+- [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
+
+---
+
 ## Kt.academy
 
 - [Coroutine scope functions](https://kt.academy/article/cc-scoping-functions)
@@ -44,6 +50,10 @@ tags: ["references", "android"]
 - [regex](http://tryhelloworld.co.kr/courses/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D)
 
 ---
+
+## Cyble
+
+- [DAAM Android Botnet being distributed through Trojanized Applications](https://blog.cyble.com/2023/04/20/daam-android-botnet-being-distributed-through-trojanized-applications/)
 
 ## Devlogs(s)
 

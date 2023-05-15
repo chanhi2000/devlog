@@ -13,9 +13,19 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Guideline
+
+![Skills Breakdown - Fullstack Developer](https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/121505719_109171900888357_6756278883719539167_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=teJ07WvjZqoAX80EAcH&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AfAyREjMjBQeUeBDj7tJyhQUG6DpvH-dO9KBzOZP1OhRaw&oe=646B4FAD&_nc_sid=8721cf)
+
+- [Checklist Design](https://www.checklist.design)
+
+---
+
 ## Learning
 
 - [100dayscss](https://100dayscss.com)
+- [CSSBattle](https://cssbattle.dev)
+- [Front-end challenges](https://piccalil.li/category/front-end-challenges-club)
 
 ---
 
@@ -50,4 +60,15 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 [A Complete and Beginner-Friendly Guide to CSS Mastery-Part 3](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3)
 
 ---
+
+## Tools
+
+- [flexiple](https://flexiple.com/illustrations)
+- [CTA Button Generator](https://www.clickminded.com/button-generator)
+- [Neumorphism](https://neumorphism.io)
+- [kodeshot](https://www.kodeshot.net)
+- [Make some waves!](https://getwaves.io)
+
+---
+ 
 <TagLinks />
