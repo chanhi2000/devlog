@@ -102,7 +102,7 @@ meta:
 - [prometheus/prometheus][prometheus/prometheus]: The Prometheus monitoring system and time series database.
   - [🌐Official Site](https://prometheus.io)
 - [devfullcycle/fclx][devfullcycle/fclx]
-- [go-skynet/LocalAI][go-skynet/LocalAI]: 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
+- [go-skynet/LocalAI][go-skynet/LocalAI]: 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! <GithubTags tagItems="ai;llama;alpaca;vicuna;gpt-neox;llm;rwkv" />
 - [berachain/polaris][berachain/polaris]: Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
   - [🌐Official Site](https://polaris.berachain.dev)
 - [k8sgpt-ai/k8sgpt][k8sgpt-ai/k8sgpt]: Giving Kubernetes SRE superpowers to everyone <Badge type="info" vertical="middle" text="kubernetes"/> <Badge type="info" vertical="middle" text="devops"/> <Badge type="info" vertical="middle" text="tooling"/> <Badge type="info" vertical="middle" text="openai"/> <Badge type="info" vertical="middle" text="sre"/>
@@ -128,6 +128,13 @@ meta:
   - [🌐Official Site](https://gitleaks.io)
 - [aquasecurity/trivy][aquasecurity/trivy]: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <GithubTags tagItems="go;docker;kubernetes;golang;security;containers;iac;vulnerability;infrastructure-as-code;vulnerability-detection;hacktoberfest;vulnerability-scanners;security-tools;devsecops;misconfiguration" />
   - [🌐Official Site](https://aquasecurity.github.io/trivy)
+- [containers/skopeo][containers/skopeo]: Work with remote images registries - retrieving information, images, signing content
+- [containers/buildah][containers/buildah]: A tool that facilitates building OCI images. <GithubTags tagItems="docker;container;oci;hacktoberfest;container-image;hacktoberfest2022" />
+  - [🌐Official Site](https://buildah.io)
+- [cri-o/cri-o][cri-o/cri-o]: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface <GithubTags tagItems="kubernetes;oci;hacktoberfest;runc;container-runtime-interface;oci-runtime;kata-containers;k8s-sig-node" />
+  - [🌐Official Site](https://cri-o.io)
+
+
 
 
 
@@ -198,3 +205,6 @@ meta:
 [earthly/earthly]: https://github.com/earthly/earthly
 [gitleaks/gitleaks]: https://github.com/gitleaks/gitleaks
 [aquasecurity/trivy]: https://github.com/aquasecurity/trivy
+[containers/skopeo]: https://github.com/containers/skopeo
+[containers/buildah]: https://github.com/containers/buildah
+[cri-o/cri-o]: https://github.com/cri-o/cri-o

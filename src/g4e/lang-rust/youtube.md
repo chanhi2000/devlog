@@ -63,9 +63,6 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
-
-
-
 ## Mahdi Mirzadeh
 
 [![Mahdi Mirzadeh](https://yt3.googleusercontent.com/EBKpe1qUHuJrWVjVZnZeMFZKMEOupDStIfVaSAg-8lW_-mzHidQSSwLSxm-zQExyyt83bZPvWQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-mahdimirzadeh]
@@ -94,6 +91,21 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## James Quigley
+
+[James Quigley][yu-jamesquigley1713]
+
+::: details 목록
+
+<YoutubeItem channelName="James Quigley" channelId="jamesquigley1713" id="Hc4g05Fg5iY" title="Favorite CLI Tools - All Written in Rust" />
+<YoutubeItem channelName="James Quigley" channelId="jamesquigley1713" id="1xo-0gCVhTU" title="Introduction to Microservices, Docker, and Kubernetes" />
+
+:::
+
+<!-- James Quigley -->
+
+---
+
 ## Misc
 
 
@@ -104,3 +116,5 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 [yu-akhil-sharma-tech]: https://www.youtube.com/@AkhilSharmaTech
 [yu-mahdimirzadeh]: https://www.youtube.com/@mahdimirzadeh
 [yu-yishn]: https://www.youtube.com/@yishn
+[yu-jamesquigley1713]: https://www.youtube.com/@jamesquigley1713
+

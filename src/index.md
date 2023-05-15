@@ -62,7 +62,7 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     <h2>🗞️</h2>
     <ul>
       <li><a href="https://github.com/trending">Github Trending</a></li>
-      <li><a href="https://github.com/trending?spoken_language_code=ko">Github 트랜딩 (한국)</a></li>
+      <li><a href="https://devo.ams3.digitaloceanspaces.com/github.json">Devo's Github Trending</a></li>
       <li><a href="https://news.ycombinator.com">YCombinator - Hacker News</a></li>
       <li><a href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
       <li><a href="https://news.hada.io">🤓GeekNews</a></li>

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🦭Podman
+description: 🍄Podman
 ---
 
 # {{ $frontmatter.description }} 관련

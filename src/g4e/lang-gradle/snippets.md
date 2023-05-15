@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🛹Snippets
-description: 🐘Gradle > 🛹Snippets
+title: 🔮Snippets
+description: 🐘Gradle > 🔮Snippets
 tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "war", "plugin-war", "plugin-java", "executable-jar", "jar"]
 ---
 

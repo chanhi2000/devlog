@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🐘🛹Gradle Snippets
-description: 🤖Android > 🐘🛹Gradle Snippets
+title: 🐘🔮Gradle Snippets
+description: 🤖Android > 🐘🔮Gradle Snippets
 tags: ["gradle", "groovy", "android", "android-studio", "idea", "intellij-idea", "intellij", "apk", "signed-config", "plugin-android"]
 ---
 

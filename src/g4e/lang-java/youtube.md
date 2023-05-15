@@ -349,6 +349,82 @@ meta:
 :::
 
 ---
+
+## Kenu Heo
+
+[Kenu Heo][yu-kenu-heo]
+
+::: details 목록
+
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="mVBCThRZ0Bo" title="📝 오픈 소스 101 함께 읽기 - 오픈 소스 비즈니스 전략" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="eDiZgRXtqFs" title="📝 오픈 소스 101 함께 읽기 - 오픈 소스 소개" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="JsymTCg_dtc" title="✅ GitHub 기반의 개발 진행상황 관리법" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="QUt-52U9nR4" title="📥슬랙 봇 만들기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="TE6FHGLwpbs" title="📥슬랙으로 알림 받기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="GephfquSBHk" title="(04/04) 선임 개발자와 자율성의 관계" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="TFNZx5pW_t4" title="📊제플린과 DB 연결하기 #mysql #dataviz" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="XLoit2-DPaI" title="🛢CSV 파일 데이터 MySQL DB에 추가하기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="y-GWhTNW3sk" title="📊제플린 쉽게 시작하기 #zeppelin #dataviz" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="_7EP_FYVR-s" title="📊데이터 시각화 플랫폼 제플린 #zeppelin #dataviz" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="N9RZfhLS430" title="🎯QR코드로 출석부 만들기 5 #qr-checkin #oauth2 #google" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="W7a995cKdmg" title="(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은?" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="aEgQtYsjvQQ" title="🎯QR코드로 출석부 만들기 3 #암복호화 #nodejs #crypto" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="qgbxTPMlWIw" title="🗃개발에 필요한 데이터 구하기 #fetch" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="4MZsf171RKk" title="(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="kZJsv5VndIc" title="(03/13) 스프링 네이티브 베타 출시 소식" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="xs7k-eHO81g" title="❄️예제로 맛보는 React.js #flowchart" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="Fknu06X4qV4" title="✍🏼ES6 빠르게 훑어보기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="KrUbBiUgBvc" title="❄️스프링 부트와 React.js #3 조건부 연산" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="fpJqx3j9p98" title="❄️스프링 부트와 React.js  #2-1 Hypermedia 제어" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="hMUJzrxvl8g" title="❄️스프링 부트와 React.js #2-2 트래킹 Hypermedia 제어" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="LAxaEBELods" title="❄️스프링 부트와 React.js  #1-1 스프링 부트 REST Data 기본세팅" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="eJ1Bbu1MKA8" title="🛢RDS 생성하고 외부에서 접속하기 #aws #클라우드" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="cmjVEkIdD3k" title="(02/20) '패배자같은 개발 직무' 탈출법" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="ckOSz7zoSW0" title="⏰비동기 작업 쿨하게 처리하기 #java #future" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="QiKKtuxaXeA" title="🐳 도커 이미지 2개 이상 띄우기 #docker-compose" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="1YpmqJZvGV0" title="🌱스프링 사이트를 로컬에서 실행하기 #sagan #spring-boot-example" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="QeT3YB69OW0" title="🌱스프링 부트와 몽고DB #MongoDB #NoSQL" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="Z2Sw1WiREFw" title="🪄배포 자동화 jenkins docker 2 #앱서버설치" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="Kxvn5BRP79Q" title="🪄배포 자동화 jenkins docker 4 #업데이트배포" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="srXoakJ8Mx0" title="🪄배포 자동화 젠킨스 AWS에서 사용하기 #jenkins" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="A9hyHUnoIfI" title="(02/13) 라인개발자들이 직접 뽑은 인생 책은?" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="CC7qxnLFkeU" title="⏳스프링 부트의 비동기 메소드 만들기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="RwmNNyBHksI" title="도커에서 환경변수 인식하기 #스프링부트 #AWS" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="glfNqZQGlUA" title="프로그램 소스에 비번, API키 등의 하드코딩 피하는 법 #환경변수" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="WVZjzDzXJIM" title="스프링 부트에서 빠르게 AOP 코드 작성하기 #이보다쉬울수없다" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="kUNc2Fm4BKg" title="Redis 연결하기 #스프링부트" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="HXgHgYRr3eY" title="스프링 부트와 Docker" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="gTYw8CZZujE" title="MySQL 8.0 맥에 설치하기 #DBeaver" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="iH2ZuNlrI9o" title="스프링 부트 JPetStore 쇼핑몰 예제의 DB에 접근하기 #DBeaver" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="pz6XBMxs8kE" title="마이바티스 SQL 매퍼 버그 수정하기 #JPetStore #MyBatis" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="nPf1I-1NGZE" title="스프링 부트 쇼핑몰 샘플 #JPetStore" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="aLxnSKOqrDU" title="스프링 부트 폼 데이터 유효성 체크" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="4bjgyPxec4Y" title="스프링 부트 테스트 자동화" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="FIcLCUMvNLU" title="스프링 부트 Actuator; 서비스 운영을 위한 관리 기능" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="8iwNDEXldAk" title="🌱 스프링 부트 웹소켓 #WebSocket" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="AS1GLhhWFLU" title="스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="g20-0VIpmM4" title="자바 코딩 간소화 기능 lombok" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="RHI72s-qPdo" title="스프링 부트 캐쉬 이용하기 #Cache" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="wOk-ZnvM6I4" title="스프링 부트 크로스 도메인 설정 #CORS" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="3Il2u5A1u_Q" title="스프링 부트 DB 트랜잭션" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="uyRIZ93Dx90" title="웹용 스프링 부트 Security 적용하기 #IntelliJ" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="JwrzfuJSfrk" title="스프링 부트에서 빠르게 AOP 코드 작성하기 #IntelliJ" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="kjRpR13_eZo" title="스프링 부트 파일 업로드 하기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="z1rU8ZVjtrE" title="스프링 부트 로그 레벨 조정하기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="NdPVRttDqHU" title="고민 상담 - OO님 비개발자의 CS 복수전공 관련" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="1eDmXjqvMp8" title="[IntelliJ] Spring Boot에서 MySQL 사용하기 #NoSound" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="6LVGwg-pdC0" title="Spring Boot에서 MariaDB(MySQL) 사용하기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="CEtOLCNo6Xw" title="Spring 초간단 DB 사용하기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="d3_qXOdxl1E" title="리액티브 스프링5 따라하기" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="MJpRfcd_tgE" title="✨`프로젝트 개발 - 기1: 기획`" />
+<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="AvWPUaUpLHU" title="💬 트렌드얘기 03/11 ✨`데이터베이스 관리`" />
+
+:::
+
+<!-- Kenu Heo -->
+
+---
+
 ## Java Guides
 
 [Java Guides][yu-java-guides]
@@ -541,6 +617,48 @@ meta:
 
 <!-- Dan Vega -->
 
+---
+
+## Green Learner
+
+[Green Learner][yu-green-learner]
+
+::: details 목록
+
+<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="QFBNKrK5zt4" title="Kafka Use Cases || Chapter 1 || Day 1" />
+<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="DXmC-M-qY2g" title="6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" />
+<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="GUHOzE3viu8" title="#17 Writing Integration Tests for Microservices" />
+<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="D9e3ODqqlsE" title="9 WireMock - Stateful Behavior Simulation" />
+<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="0tU3dhIymck" title="10 WireMock - Response Templating" />
+<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="DXmC-M-qY2g" title="6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" />
+
+:::
+
+<!-- Green Learner -->
+
+---
+
+## tookootek
+
+[tookootek][yu-tookootek]
+
+::: details 목록
+
+<YoutubeItem channelName="tookootek" channelId="tookootek" id="hq2i7rd0iow" title="[How to Install JDK | Visual Studio Code for Java on Windows 11 (2023) | Set JAVA_HOME" />
+<YoutubeItem channelName="tookootek" channelId="tookootek" id="2M0L6w3tMOY" title="[JavaFX Tutorial | Search Bar and TableView filter result as you search" />
+<YoutubeItem channelName="tookootek" channelId="tookootek" id="J0IE5LRyzx8" title="[JavaFX Tutorial | Login Screen with database connection (2021)" />
+<YoutubeItem channelName="tookootek" channelId="tookootek" id="DH3dWzmkT5Y" title="[JavaFX Tutorial | Login and Register Screen GUI In IntelliJ &amp; Scene Builder With MySQL - Part 1|2" />
+<YoutubeItem channelName="tookootek" channelId="tookootek" id="hq2i7rd0iow" title="[How to Install JDK | Visual Studio Code for Java on Windows 11 (2023) | Set `JAVA_HOME`" />
+
+:::
+
+<!-- tookootek -->
+
+---
+
+
+
+
 ## 백기선
 
 [백기선][yu-keesun-b]
@@ -726,6 +844,38 @@ meta:
 
 ---
 
+## 메타코딩
+
+[메타코딩][yu-metacoding]
+
+::: details 목록
+
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="xSyIJKOGE8U" title="Junit 15강 - 서비스레이어 책 한건보기" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="YZVn76Rg-wI" title="Junit 13강 - 서비스레이어 책등록 완료" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Q-UebfEJjE0" title="Junit 10강 - delete 테스트 버그 수정 - @Sql 이용하기" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Sn7AjvKhkbk" title="Junit 8강 - select 테스트" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="8Qg9lIJ3pCw" title="Junit 6강 - 책등록테스트완료" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="cvn54pTNFOI" title="Junit 2강 - `yml` 설정" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="kYqGAM2culU" title="Junit 1강 - 환경설정" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Oo_eHCr_HsQ" title="스프링부트5.0 채팅서버 만들기 - 1강 환경설정" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="zGpTD6FZ2HU" title="스프링부트5.0 채팅서버 만들기 - 2강 몽고DB 장점" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="AIyBYbaIBV0" title="스프링부트5.0 채팅서버 만들기 - 3강 비동기 Netty 서버" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="QKajHMVnnyY" title="플러터 GetX로 블로그 앱 만들기 - 33강 게시글 목록 보기 완료" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="HA-hR-64RXA" title="react 오프라인 11강 - props(변수,함수 passing하기)" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="CuTWSWqqa5k" title="Springboot-WebFlux 2강 - Reactive Programing 배경" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="fYfNd6hqxu8" title="Springboot-WebFlux 3강 - WebFlux 탄생" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="pFO-nt6H-GQ" title="스프링부트 오프라인수업 AOP 2강 - AOP 개념잡기" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="HBkPJHqzmks" title="스프링부트 오프라인수업 AOP 4강 - Sentry및Log적용(끝)" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="lMD5AL2iwRE" title="스프링부트 오프라인수업 AOP 3강 - Validtaion체크" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="j2LR-7Xfc3Y" title="JSP 오프라인수업 28강 - 공통Dto만들기" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="vHmK0EFfqzg" title="도커 입문 9강 - `docker dit`옵셥과 `attach`" />
+
+:::
+
+<!-- 메타코딩 -->
+
+---
+
 ## DataStax Developers
 
 [DataStax Developers][yu-data-stax-devs]
@@ -802,12 +952,32 @@ meta:
 
 ---
 
-## Misc.
+## in28minutes - Cloud Made Easy
 
-<!-- [Amila Jayawardhana][yu-amila-jayawardhana] -->
+[in28minutes - Cloud Made Easy][yu-in28minutes]
+
+::: details 목록
+
+<YoutubeItem channelName="in28minutes - Cloud Made Easy" channelId="in28minutes" id="nlnDbre1wto" title="Serverless Tutorial with AWS Lambda" />
+<YoutubeItem channelName="in28minutes - Cloud Made Easy" channelId="in28minutes" id="ueKwBqobijE" title="Deploying Spring Boot Apps to AWS using Elastic Beanstalk - First 10 Steps" />
+<YoutubeItem channelName="in28minutes - Cloud Made Easy" channelId="in28minutes" id="SWXuXhZkNQc" title="Java Full Stack Application With React And Spring Boot -  First 10 Steps" />
+<YoutubeItem channelName="in28minutes - Cloud Made Easy" channelId="in28minutes" id="PSP1-2cN7vM" title="SPRING BOOT Tutorial For Beginners" />
+<YoutubeItem channelName="in28minutes - Cloud Made Easy" channelId="in28minutes" id="tXgNqObj2WY" title="Master Spring Boot 3 &amp; Spring Framework 6 with Java - New Course" />
+
+:::
+
+<!-- in28minutes - Cloud Made Easy -->
+
+---
+
+## Misc.
 
 <YoutubeItem channelName="Code Java" channelId="CodeJava" id="QloyS2dt9T4" title="Spring Boot CRUD Tutorial with Spring MVC, Spring Data JPA, ThymeLeaf, Hibernate, MySQL" />
 <YoutubeItem channelName="Amila Jayawardhana" channelId="AmilaJayawardhana" id="ckSw8x66FQg" title="Spring MVC Sinhalen: 02 - Basic Configurations" />
+<YoutubeItem channelName="arahansa me" channelId="arahansame9320" id="C0BQplG7Epo" title="스프링 시큐리티 따라해보기" />
+
+<!-- [Amila Jayawardhana][yu-amila-jayawardhana] -->
+<!-- [arahansa me][yu-arahansame9320] -->
 
 <TagLinks />
 
@@ -821,6 +991,7 @@ meta:
 [yu-keep-too]: https://www.youtube.com/@KeepToo
 [yu-java0405]: https://www.youtube.com/@java0405
 [yu-freeleckor]: https://www.youtube.com/@FREELECKOR
+[yu-kenu-heo]: https://www.youtube.com/@KenuHeo
 [yu-java-guides]: https://www.youtube.com/@JavaGuides
 [yu-ram-n-java]: https://www.youtube.com/@RamNJava
 [yu-user-jn1ly6wf9q]: https://www.youtube.com/@user-jn1ly6wf9q
@@ -828,6 +999,8 @@ meta:
 [yu-discospiff]: https://www.youtube.com/@discospiff
 [yu-daily-code-buffer]: https://www.youtube.com/@DailyCodeBuffer
 [yu-dan-vega]: https://www.youtube.com/@DanVega
+[yu-green-learner]: https://www.youtube.com/@GreenLearner
+[yu-tookootek]: https://www.youtube.com/@tookootek
 [yu-keesun-b]: https://www.youtube.com/@keesun.b
 [yu-ntigo]: https://www.youtube.com/@ntigo
 [yu-javajigi]: https://www.youtube.com/@javajigi
@@ -839,6 +1012,9 @@ meta:
 [yu-code-java]: https://www.youtube.com/@CodeJava
 [yu-tobyspring]: https://www.youtube.com/@tobyspring
 [yu-data-stax-devs]: https://www.youtube.com/@DataStaxDevs
+[yu-metacoding]: https://www.youtube.com/@metacoding
 [yu-java-for-engineers]: https://www.youtube.com/@javaforengineersYT
 [yu-selenium-express]: https://www.youtube.com/@SeleniumExpress
 [yu-amila-jayawardhana]: https://www.youtube.com/@AmilaJayawardhana
+[yu-in28minutes]: https://www.youtube.com/@in28minutes
+[yu-arahansame9320]: https://www.youtube.com/@arahansame9320

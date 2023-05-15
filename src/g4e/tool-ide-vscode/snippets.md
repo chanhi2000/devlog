@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🛹Snippets
-description: 🆚VSCode > 🛹Snippets
+title: 🔮Snippets
+description: 🆚VSCode > 🔮Snippets
 tags: ["vscode", "visual-studio-code", "ide", "snippets"] 
 ---
 

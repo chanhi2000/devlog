@@ -13,6 +13,12 @@ tags: ["macos", "settings"]
 
 ---
 
+## Cyberhost
+
+- [Diving into a hidden macOS tool - `networkQuality`](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
+
+---
+
 ## Blogs
 
 - [RAVI SHANKAR](https://rshankar.com)

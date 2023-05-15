@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 👑Bash (Linux)
+description: 🐚Shell
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 👑Bash > 📚References
+description: 🐚Shell > 📚References
 tags: ["bash", "linux", "macos", "terminal", "alias"]
 ---
 

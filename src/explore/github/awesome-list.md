@@ -19,7 +19,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [matteocrippa/awesome-swift][matteocrippa/awesome-swift]: A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [dkhamsing/open-source-ios-apps][dkhamsing/open-source-ios-apps]: 📱 Collaborative List of Open-Source iOS Apps
 - [iCHAIT/awesome-macOS][iCHAIT/awesome-macOS]:  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [sindresorhus/awesome][sindresorhus/awesome]: 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome][sindresorhus/awesome]: 😎 Awesome lists about all kinds of interesting topics <GithubTags tagItems="lists;awesome;unicorns;resources;awesome-list" />
 - [MunGell/awesome-for-beginners][MunGell/awesome-for-beginners]: A list of awesome beginners-friendly projects.
 - [Bogdanp/awesome-advent-of-code][Bogdanp/awesome-advent-of-code]: A collection of awesome resources related to the yearly Advent of Code challenge.
 - [bear2u/awesome-rxjava][bear2u/awesome-rxjava]: RxJava 개발자 오픈 채팅방
@@ -111,7 +111,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 ## Free Books
 
 - [dariubs/GoBooks][dariubs/GoBooks]
-- [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]: 📚 Freely available programming books
+- [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]: 📚 Freely available programming books <GithubTags tagItems="education;list;books;resource;hacktoberfest" />
   - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
 - [gurugio/book_assembly_8086_ko][gurugio/book_assembly_8086_ko]
 - [hehonghui/awesome-english-ebooks][hehonghui/awesome-english-ebooks]: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新

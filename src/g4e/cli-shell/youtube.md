@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
 title: 📺Youtube
-description: 👑Bash > 📺Youtube
-tags: ["bash", "linux", "macos", "terminal", "sed"]
+description: 🐚Shell > 📺Youtube
+tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -174,7 +174,7 @@ tags: ["bash", "linux", "macos", "terminal", "sed"]
 
 ## Steve (Builder.io)
 
-[Steve (Builder.io)][channel]
+[![Steve (Builder.io)](https://yt3.googleusercontent.com/AQG3DNKvWvLbR22Oztb9jhrfZY89501l0qtrppfhs1-GpS6QVaVLwTPJH1hz_w9VQEaMLIga=s176-c-k-c0x00ffffff-no-rj =x150)][yu-steve8708]
 
 ::: details 목록
 

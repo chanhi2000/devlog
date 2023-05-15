@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 🩺Troubleshooting
-description: 👑Bash > 🩺Troubleshooting
+description: 🐚Shell > 🩺Troubleshooting
 tags: ["bash", "linux", "macos", "terminal", "sed"]
 ---
 

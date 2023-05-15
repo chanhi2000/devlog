@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🌈Chrome Browser > 📚References
+title: 🔌Plugins
+description: 🌈Chrome Browser > 🔌Plugins
 category: 🌈Chrome Browser
 tags: ["js" , "chrome", "chrome-browser"]
 ---

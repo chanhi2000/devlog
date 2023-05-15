@@ -331,8 +331,10 @@ meta:
   - [🌐Official Site](https://uppy.io)
 - [impress/impress.js][impress/impress.js]: It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
   - [🌐Official Site](http://impress.js.org)
-
-
+- [sunner/ChatALL][sunner/ChatALL]: Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers <GithubTags tagItems="electron;desktop-app;windows;macos;linux;electron-app;vuejs3;vuetify3;chatgpt;bingchat" />
+  - [🌐Official Site](http://chatall.ai)
+- [Ryan-yang125/ChatLLM-Web][Ryan-yang125/ChatLLM-Web]: 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server.Powered by web llm <GithubTags tagItems="react;deep-learning;nextjs;webgpu;tvm;webml;vicuna;llm;chatgpt" />
+  - [🌐Official Site](https://chat-llm-web.vercel.app)
 
 
 <!-- Javascript -->
@@ -531,6 +533,9 @@ meta:
   - [🌐Official Site](https://html2canvas.hertzen.com)
 - [usablica/intro.js][usablica/intro.js]: Lightweight, user-friendly onboarding tour library <GithubTags tagItems="javascript;html;cdn;ux;minify;guide;tour;introjs" />
   - [🌐Official Site](http://introjs.com)
+- [dissorial/doc-chatbot][dissorial/doc-chatbot]: Chat app that supports multiple files, topics, chat windows, and chat history — powered by GPT. <GithubTags tagItems="typescript;mongodb;mongoose;nextjs;openai;gpt-3;openai-api;gpt-4;langchain" />
+- [webwhiz-ai/webwhiz][webwhiz-ai/webwhiz]: WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries. <GithubTags tagItems="chat;ai" />
+  - [🌐Official Site](https://www.webwhiz.ai)
 
 <!-- Typescript -->
 
@@ -720,6 +725,8 @@ meta:
 [hakimel/reveal.js]: https://github.com/hakimel/reveal.js
 [transloadit/uppy]: https://github.com/transloadit/uppy
 [impress/impress.js]: https://github.com/impress/impress.js
+[sunner/ChatALL]: https://github.com/sunner/ChatALL'
+[Ryan-yang125/ChatLLM-Web]: https://github.com/Ryan-yang125/ChatLLM-Web
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -826,6 +833,8 @@ meta:
 [quilljs/quill]: https://github.com/quilljs/quill
 [niklasvh/html2canvas]: https://github.com/niklasvh/html2canvas
 [usablica/intro.js]: https://github.com/usablica/intro.js
+[dissorial/doc-chatbot]: https://github.com/dissorial/doc-chatbot
+[webwhiz-ai/webwhiz]: https://github.com/webwhiz-ai/webwhiz
 <!-- Coffeescript -->
 [jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
 [mojs/mojs]: https://github.com/mojs/mojs

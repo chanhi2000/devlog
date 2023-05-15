@@ -194,9 +194,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://typesense.org)
 - [juce-framework/JUCE][juce-framework/JUCE]: JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins. <GithubTags tagItems="audio;plugin;c-plus-plus;framework;cpp;vst;au;vst3;juce;aax;audiounit;auv3" />
   - [🌐Official Site](https://juce.com)
-
-
-
+- [yuzu-emu/yuzu][yuzu-emu/yuzu]: Nintendo Switch Emulator <GithubTags tagItems="emulator;c-plus-plus;cpp;emulation;switch" />
+  - [🌐Official Site](https://yuzu-emu.org)
+- [yuzu-emu/yuzu-mainline][yuzu-emu/yuzu-mainline]
+- [coolsnowwolf/lede][coolsnowwolf/lede]: Lean's LEDE source <GithubTags tagItems="lua;lede;openwrt-package;openwrt-zh-cn;openwrt-feed" />
 
 ---
 
@@ -270,6 +271,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [aristocratos/bashtop][aristocratos/bashtop]: Linux/OSX/FreeBSD resource monitor
 - [oracle/docker-images][oracle/docker-images]: Official source of container configurations, images, and examples for Oracle products and projects <GithubTags tagItems="docker;dockerfile;dockerfiles;nosql;oracle;oci;graalvm;docker-images;oracle-database;oracle-linux;oraclelinux;oracle-commercial;oracle-instantclient;coherence-ce;oracle-products"/>
   - [🌐Official Site](https://developer.oracle.com/use-cases/#containers)
+- [LSPosed/MagiskOnWSALocal][LSPosed/MagiskOnWSALocal]: Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) <GithubTags tagItems="android;windows;google-apps;magisk;wsa;windows11" />
+
+
 
 ---
 
@@ -340,6 +344,12 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 - [pharo-project/pharo][pharo-project/pharo]: Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk. <GithubTags tagItems="bootstrap;language;tools;mit;pharo;live-programming;object-oriented-programming;reflective" />
   - [🌐Official Site](http://pharo.org)
+
+---
+
+## Common Lisp
+
+- [melisgl/mgl][melisgl/mgl]: Common Lisp machine learning library.
 
 ---
 
@@ -480,6 +490,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [ajouatom/apilot]: https://github.com/ajouatom/apilot
 [typesense/typesense]: https://github.com/typesense/typesense
 [juce-framework/JUCE]: https://github.com/juce-framework/JUCE
+[yuzu-emu/yuzu]: https://github.com/yuzu-emu/yuzu
+[yuzu-emu/yuzu-mainline]: https://github.com/yuzu-emu/yuzu-mainline
+[coolsnowwolf/lede]: https://github.com/coolsnowwolf/lede
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -521,6 +534,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [Fmstrat/winapps]: https://github.com/Fmstrat/winapps
 [aristocratos/bashtop]: https://github.com/aristocratos/bashtop
 [oracle/docker-images]: https://github.com/oracle/docker-images
+[LSPosed/MagiskOnWSALocal]: https://github.com/LSPosed/MagiskOnWSALocal
 <!-- Powershell -->
 [MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
 [Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
@@ -546,6 +560,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [Joxit/docker-registry-ui]: https://github.com/Joxit/docker-registry-ui
 <!-- Smalltalk -->
 [pharo-project/pharo]: https://github.com/pharo-project/pharo
+<!-- Common Lisp -->
+[melisgl/mgl]: https://github.com/melisgl/mgl
 <!-- DevOps -->
 [vulhub/vulhub]: https://github.com/vulhub/vulhub
 [sickcodes/Docker-OSX]: https://github.com/sickcodes/Docker-OSX

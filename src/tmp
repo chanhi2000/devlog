@@ -1,86 +1,24 @@
 <YoutubeItem channelName="Patrick Loeber" channelId="patloeber" id="owopzp436jM" title="PyScript is officially here!🚀 Build web apps with Python " />
 <YoutubeItem channelName="Decomplexify" channelId="channelId" id="GFQaEYEc8_8" title="Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF" />
 <YoutubeItem channelName="i Social Yo" channelId="channelId" id="yOQ9cljJ5jE" title="10 FREE AI Tools That Feels Illegal To Know! 🤫" />
-
-id="dKKEvtaYf8c" title="Learn 5 ways to unsubscribe in Angular to avoid memory leaks." />
-Monsterlessons Academy
-
-
-id="SBmSRK3feww" title="JavaScript Full Course (2023) - Beginner to Pro - Part 1" />
-SuperSimpleDev
-
-
-id="dFfp7ND1z_I" title="How To Work With Git As Professional Dev | Real Mai Frontend Developer Kese Kam Karta Hai? - Part 4" />
-Web Development With Gaurav
-
-
-id="QFBNKrK5zt4" title="Kafka Use Cases || Chapter 1 || Day 1" />
-Green Learner
-
-
-id="P_A0qQ7AuK8" title="Best UI Library for Svelte" />
-Huntabyte
-
+<YoutubeItem channelName="SuperSimpleDev" channelId="channelId" id="SBmSRK3feww" title="JavaScript Full Course (2023) - Beginner to Pro - Part 1" />
+<YoutubeItem channelName="Web Development With Gaurav" channelId="channelId" id="dFfp7ND1z_I" title="How To Work With Git As Professional Dev | Real Mai Frontend Developer Kese Kam Karta Hai? - Part 4" />
 <YoutubeItem channelName="Oracle Learning" channelId="OracleLearning" id="13R21lfYy74" title="Ksplice Known Exploit Detection on Oracle Linux" />
-
-
-id="I9gddgFHsmw" title="#18 - Locating Complex UI Element in Playwright with new locator strategy (ARIA)" />
-Execute Automation
-
-
-id="nYmPIVeGwFY" title="Online Course Platform Series (T3 Stack, Mantine, Prisma, Next-Auth)  - Part 1" />
-Web Dev Cody
-
-
-id="8DeG3qO-HIA" title="Low Power Cluster - Small, Efficient, BUT Powerful!" />
-Techno Tim
-
-
-id="DXmC-M-qY2g" title="6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" />
-Green Learner
-
-
-id="PR6Gw4Ca-sE" title="Build a Secure CRUD Application with React, Spring Boot, and Kotlin" />
-OktaDev
-
-
-id="tyYEHwOIO1o" title="[성안당e러닝] 빅데이터분석기사 【정규반】 - 필기+실기 통합 OT" />
-성안당
-
-
-id="mQ9qs6Plogw" title="Video subtitles and summaries in seconds!" />
-Andrew Schmelyun
-
-
-id="QhEzbCXjjwg" title="How to Architect ‌iOS Apps properly using CoreBluetooth/CBPeripheral/BLE | Live Mentoring" />
-Essential Developer
-
-
-<YoutubeItem channelName="Oracle Learning" channelId="OracleLearning" id="P7W7SwYA9tM" title="Cloud Coaching - Jenkins meets Oracle Container Engine for Kubernetes (OKE)"
-
-
-id="mgeuh8k3I4g" title="Adding JWT Authentication &amp; Authorization in ASP.NET Core" />
-Nick Chapsas
-
-
-id="VU4ncBR0PYw" title="Excel Project Management Dashboard with Dynamic Periods" />
-MyOnlineTrainingHub
-
-
-id="nLmct8bkGaI" title="My New Side Hustle - Fixing All of Email 😃 - Day in the Life of a Software Engineer (ep. 33)"
-Marko
-
+<YoutubeItem channelName="Execute Automation" channelId="channelId" id="I9gddgFHsmw" title="#18 - Locating Complex UI Element in Playwright with new locator strategy (ARIA)" />
+<YoutubeItem channelName="Techno Tim" channelId="channelId" id="8DeG3qO-HIA" title="Low Power Cluster - Small, Efficient, BUT Powerful!" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="PR6Gw4Ca-sE" title="Build a Secure CRUD Application with React, Spring Boot, and Kotlin" />
+<YoutubeItem channelName="성안당" channelId="channelId" id="tyYEHwOIO1o" title="[성안당e러닝] 빅데이터분석기사 【정규반】 - 필기+실기 통합 OT" />
+<YoutubeItem channelName="성안당" channelId="channelId" id="QYLAMNuCwyQ" title="[성안당e러닝] 빅데이터분석기사 【속성반】 - 필기+실기 통합 OT" />
+<YoutubeItem channelName="성안당" channelId="channelId" id="6zEemDLLqus" title="[성안당e러닝] 빅데이터분석기사 【속성반】 - 실기 OT" />
+<YoutubeItem channelName="Andrew Schmelyun" channelId="channelId" id="mQ9qs6Plogw" title="Video subtitles and summaries in seconds!" />
+<YoutubeItem channelName="Essential Developer" channelId="channelId" id="QhEzbCXjjwg" title="How to Architect ‌iOS Apps properly using CoreBluetooth/CBPeripheral/BLE | Live Mentoring" />
+<YoutubeItem channelName="Oracle Learning" channelId="OracleLearning" id="P7W7SwYA9tM" title="Cloud Coaching - Jenkins meets Oracle Container Engine for Kubernetes (OKE)" />
+<YoutubeItem channelName="Nick Chapsas" channelId="channelId" id="mgeuh8k3I4g" title="Adding JWT Authentication &amp; Authorization in ASP.NET Core" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="channelId" id="VU4ncBR0PYw" title="Excel Project Management Dashboard with Dynamic Periods" />
+<YoutubeItem channelName="Marko" channelId="channelId" id="nLmct8bkGaI" title="My New Side Hustle - Fixing All of Email 😃 - Day in the Life of a Software Engineer (ep. 33)" />
 
 id="AKgvpj-oDQQ" title="Java Tutorial - How To Populate JCombobx From Arraylist In Java NetBeans"
 1BestCsharp blog
-
-
-id="QYLAMNuCwyQ" title="[성안당e러닝] 빅데이터분석기사 【속성반】 - 필기+실기 통합 OT"
-성안당
-
-
-id="6zEemDLLqus" title="[성안당e러닝] 빅데이터분석기사 【속성반】 - 실기 OT"
-성안당
 
 
 id="aNEqC-U5tHM" title="Malware Development: Processes, Threads, and Handles"
@@ -389,8 +327,6 @@ id="4KtotxNAwME" title="The Truth about Rust/WebAssembly Performance" />
 Greg Johnston
 
 <YoutubeItem channelName="Linode" channelId="linode" id="Vp7oMZfwyoM" title="Get Organized with Kanboard | Self-Hosted Project Management App PERFECT for Docker" />
-
-
 
 id="xvBBQVIGYio" title="How to perform zero downtime online schema changes" />
 CockroachDB

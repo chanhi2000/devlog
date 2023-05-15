@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🛹Snippets
-description: 🔰Dart > 🛹Snippets
+title: 🔮Snippets
+description: 🔰Dart > 🔮Snippets
 category: 🔰Dart
 tags: ["references", "dart"]
 ---

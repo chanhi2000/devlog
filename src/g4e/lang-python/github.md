@@ -128,7 +128,7 @@ meta:
 - [Ciphey/Ciphey][Ciphey/Ciphey]: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [chidiwilliams/buzz][chidiwilliams/buzz]: Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [fauxpilot/fauxpilot][fauxpilot/fauxpilot]: FauxPilot - an open-source GitHub Copilot server
-- [openai/chatgpt-retrieval-plugin][openai/chatgpt-retrieval-plugin]: The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [openai/chatgpt-retrieval-plugin][openai/chatgpt-retrieval-plugin]: The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language. <GithubTags tagItems="chatgpt;chatgpt-plugins" />
 - [mckaywrigley/chatbot-ui][mckaywrigley/chatbot-ui]: An open-source ChatGPT UI.
   - [🌐Official Site](https://www.chatbotui.com)
 - [databrickslabs/dolly][databrickslabs/dolly]: Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
@@ -225,7 +225,7 @@ meta:
 - [PineappleExpress808/auto-evaluator][PineappleExpress808/auto-evaluator]
 - [mlc-ai/web-llm][mlc-ai/web-llm]: Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
   - [🌐Official Site](https://mlc.ai/web-llm)
-- [pengzhile/pandora][pengzhile/pandora]: 潘多拉，一个不只是命令行的ChatGPT。
+- [pengzhile/pandora][pengzhile/pandora]: 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. <GithubTags tagItems="python;php;gpt-4;chatgpt;gpt-35-turbo-0301;chatgpt-plus;gpt-35-burbo" />
   - [🌐Official Site](https://chat.zhile.io)
 - [muellerberndt/micro-gpt][muellerberndt/micro-gpt]: A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [facebookresearch/AnimatedDrawings][facebookresearch/AnimatedDrawings]: Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
@@ -359,9 +359,12 @@ meta:
   - [🌐Official Site](https://huggingface.github.io/text-generation-inference)
 - [pyg-team/pytorch_geometric][pyg-team/pytorch_geometric]: Graph Neural Network Library for PyTorch <GithubTags tagItems="deep-learning;pytorch;graph-convolutional-networks;geometric-deep-learning;graph-neural-networks" />
   - [🌐Official Site](https://pyg.org)
-
-
-
+- [openai/plugins-quickstart][openai/plugins-quickstart]: Get a ChatGPT plugin up and running in under 5 minutes! <GithubTags tagItems="chatgpt;chatgpt-plugins" />
+  - [🌐Official Site](https://platform.openai.com/docs/plugins)
+- [Gioman101/FlipperAmiibo][Gioman101/FlipperAmiibo]: Made to be used with Flipper just drag the folder into NFC
+- [Bing-su/adetailer][Bing-su/adetailer]: Auto detecting, masking and inpainting with detection model. <GithubTags tagItems="sd-webui;stable-diffusion-webui;stable-diffusion-webui-plugin" />
+- [acheong08/Bard][acheong08/Bard]: Reverse engineering of Google's Bard API <GithubTags tagItems="google;chatbot;reverse-engineering;gpt;google-bard" />
+- [ulrischa/badger_server_display][ulrischa/badger_server_display]: Run Server on Pimoroni Badger 2040 w to display Text
 
 <!-- Python -->
 
@@ -661,6 +664,11 @@ meta:
 [openai/whisper]: https://github.com/openai/whisper
 [huggingface/text-generation-inference]: https://github.com/huggingface/text-generation-inference
 [pyg-team/pytorch_geometric]: https://github.com/pyg-team/pytorch_geometric
+[openai/plugins-quickstart]: https://github.com/openai/plugins-quickstart
+[Gioman101/FlipperAmiibo]: https://github.com/Gioman101/FlipperAmiibo
+[Bing-su/adetailer]: https://github.com/Bing-su/adetailer
+[acheong08/Bard]: https://github.com/acheong08/Bard
+[ulrischa/badger_server_display]: https://github.com/ulrischa/badger_server_display
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora

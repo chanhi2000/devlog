@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🦭Podman > 📚References
+description: 🍄Podman > 📚References
 tags: ["podman", "docker"] 
 ---
 
@@ -16,6 +16,19 @@ tags: ["podman", "docker"]
 ## Phoenix NAP
 
 - [Podman Tutorial - Basics for Beginners](https://phoenixnap.com/kb/podman-tutorial)
+
+
+---
+
+## naleejang
+
+- [컨테이너 기술:: Docker와 Podman](https://naleejang.tistory.com/227)
+
+---
+
+## A6K 개발노트
+
+- [Podman 설치 및 사용법 - Docker desktop의 대체재](https://hbase.tistory.com/435)
 
 ---
 

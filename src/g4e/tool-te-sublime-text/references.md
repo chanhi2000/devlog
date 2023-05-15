@@ -1,0 +1,36 @@
+---
+lang: ko-KR
+title: 📚References
+description: ⌨Sublime Text > 📚References
+category: ⌨Sublime Text
+tags: ["js" , "chrome", "chrome-browser"]
+---
+
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
+
+[[toc]]
+
+---
+
+## freecodecamp.org
+
+- [A Guide to Sublime Text Snippets](https://www.freecodecamp.org/news/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2/)
+
+---
+
+## Github
+
+- [J2TEAM/sublime-text-scopes.md](https://gist.github.com/J2TeaM/a54bafb082f90c0f20c9)
+
+---
+
+## Misc.
+
+- [Sublime Text 기본 템플릿 사용하기](https://appia.tistory.com/722)
+
+---
+
+
+<TagLinks />

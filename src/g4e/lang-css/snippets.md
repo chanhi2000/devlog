@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🛹Snippets
-description: 🎨CSS > 🛹Snippets
+title: 🔮Snippets
+description: 🎨CSS > 🔮Snippets
 category: 🎨CSS
 tags: ["snippets", "css"]
 ---
