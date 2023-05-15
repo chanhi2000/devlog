@@ -335,6 +335,9 @@ meta:
   - [🌐Official Site](http://chatall.ai)
 - [Ryan-yang125/ChatLLM-Web][Ryan-yang125/ChatLLM-Web]: 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server.Powered by web llm <GithubTags tagItems="react;deep-learning;nextjs;webgpu;tvm;webml;vicuna;llm;chatgpt" />
   - [🌐Official Site](https://chat-llm-web.vercel.app)
+- [windmill-labs/windmill][windmill-labs/windmill]: Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. <GithubTags tagItems="python;open-source;platform;typescript;postgresql;low-code;self-hostable" />
+  - [🌐Official Site](https://windmill.dev)
+
 
 
 <!-- Javascript -->
@@ -424,7 +427,7 @@ meta:
   - [🌐Official Site](https://ui.shadcn.com)
 - [yoavbls/pretty-ts-errors][yoavbls/pretty-ts-errors]: 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
   - [🌐Official Site](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
-- [liou666/polyglot][liou666/polyglot]: 🤖️ 桌面端AI语言练习应用
+- [liou666/polyglot][liou666/polyglot]: 🤖️ 桌面端AI语言练习应用 <GithubTags tagItems="electron;azure;tts;polyglot;openai;chatgpt" />
 - [Trendyol/baklava][Trendyol/baklava]: Design System with Web Components
   - [🌐Official Site](https://baklava.design)
 - [highlight/highlight][highlight/highlight]: highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -534,8 +537,14 @@ meta:
 - [usablica/intro.js][usablica/intro.js]: Lightweight, user-friendly onboarding tour library <GithubTags tagItems="javascript;html;cdn;ux;minify;guide;tour;introjs" />
   - [🌐Official Site](http://introjs.com)
 - [dissorial/doc-chatbot][dissorial/doc-chatbot]: Chat app that supports multiple files, topics, chat windows, and chat history — powered by GPT. <GithubTags tagItems="typescript;mongodb;mongoose;nextjs;openai;gpt-3;openai-api;gpt-4;langchain" />
-- [webwhiz-ai/webwhiz][webwhiz-ai/webwhiz]: WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries. <GithubTags tagItems="chat;ai" />
+- [webwhiz-ai/webwhiz][webwhiz-ai/webwhiz]: WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries. <GithubTags tagItems="chat;ai;chatbot;self-hosted;openai;chatgpt" />
   - [🌐Official Site](https://www.webwhiz.ai)
+- [microsoft/playwright][microsoft/playwright]: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. <GithubTags tagItems="electron;javascript;testing;firefox;chrome;automation;web;chromium;webkit;e2e-testing;playwright" />
+  - [🌐Official Site](https://playwright.dev)
+- [langgenius/dify][langgenius/dify]: One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. <GithubTags tagItems="python;ai;openai;gpt;backend-as-a-service;llm;langchain" />
+  - [🌐Official Site](https://dify.ai)
+
+
 
 <!-- Typescript -->
 
@@ -725,8 +734,9 @@ meta:
 [hakimel/reveal.js]: https://github.com/hakimel/reveal.js
 [transloadit/uppy]: https://github.com/transloadit/uppy
 [impress/impress.js]: https://github.com/impress/impress.js
-[sunner/ChatALL]: https://github.com/sunner/ChatALL'
+[sunner/ChatALL]: https://github.com/sunner/ChatALL
 [Ryan-yang125/ChatLLM-Web]: https://github.com/Ryan-yang125/ChatLLM-Web
+[windmill-labs/windmill]: https://github.com/windmill-labs/windmill
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -835,6 +845,8 @@ meta:
 [usablica/intro.js]: https://github.com/usablica/intro.js
 [dissorial/doc-chatbot]: https://github.com/dissorial/doc-chatbot
 [webwhiz-ai/webwhiz]: https://github.com/webwhiz-ai/webwhiz
+[microsoft/playwright]: https://github.com/microsoft/playwright
+[langgenius/dify]: https://github.com/langgenius/dify
 <!-- Coffeescript -->
 [jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
 [mojs/mojs]: https://github.com/mojs/mojs

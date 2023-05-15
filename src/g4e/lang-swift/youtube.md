@@ -445,8 +445,32 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## DesignCode
 
+[DesignCode][yu-design-code]
 
+::: details 목록
+
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="aAGJ1MNkn6c" title="Design and Prototype an App with Play - Full 3-hour Course" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="5IanQIwhA4E" title="Web / Desktop App UI Design in Figma - Full Course" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="ZCJyVyZH5EY" title="UI Design a Maps app in Figma - Full course" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="6RjFC3sLJD0" title="Build and Animate a Smart Home Thermostat app in SwiftUI" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="ipCJju7Stvg" title="Build a Juice Store UI from scratch with SwiftUI" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="I9O1n4s96v4" title="Custom Transition Between Screens in SwiftUI - Part 2" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="qW1wQwHmoTI" title="Build a FaceID Authentication System in SwiftUI" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="b6q9vKaXtoU" title="Build a SwiftUI to-do app from scratch with Realm Crash Course" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="1ipd-v_nVsQ" title="Reddit Login UI Using SwiftUI 3.0 + Xcode 13" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="83MrH8PdjPc" title="SwiftUI 3.0 Tutorial - Complex UI + Cinema UI + PresentationMode using Xcode 13" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="zerEdPmSMrk" title="SwiftUI Livestream: How we built our iOS app" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="YuKpd16XIjo" title="SwiftUI Tutorial - How to create a Splash Screen using Xcode 12" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="fjmE4YsdVE8" title="SwiftUI 2.0 Tutorial - How to create a Spinner using Xcode 12 Part 1" />
+<YoutubeItem channelName="DesignCode" channelId="DesignCodeTeam" id="37fx1RtSoZ0" title="SwiftUI 2.0 Tutorial - How to create a Splash Screen using Xcode 12" />
+
+:::
+
+<!-- DesignCode -->
+
+---
 
 ## Paul Colton
 
@@ -695,6 +719,32 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## iVish
+
+[iVish][yu-i-vish]
+
+::: details 목록
+
+<YoutubeItem channelName="iVish" channelId="iVish" id="YIVt74aBxnM" title="#37 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Send &amp; Receive Messages using WebSocket" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="apNnHSAZIlg" title="#33 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Custom Title View on Navigation bar" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="0HaXHzu3LRY" title="#1 WhatsApp Chat Clone BEST OF VIPER iOS Swift" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="wnvGB9x401w" title="#22 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Logout and Clear JWT Tokens" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="uBKr7VpNPZI" title="#24 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Alamofire Token Refresh Interceptor" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="G4XTDvSM-A8" title="#3 Alamofire RxSwift HTTP REST Api Integration - RxSwift MVVM Coordinator iOS App" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="dbwKV6FJV0w" title="#Intro City Airport Search - RxSwift MVVM Coordinator iOS App" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="sZbBxtTDxL0" title="Practical RxSwift for Beginners - How to pass UIKit Signals To Presenter using Driver [Part 5]" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="zPOQozOTaZU" title="Practical RxSwift for Beginners - Output Signals Back to ViewController from Presenter [Part 7]" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="VlonRg1NlJ8" title="Build a Firebase iOS Swift Todo App - Teaser" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="FqIykDMhOMA" title="Login Flow using VIPER iOS Swift - Sign Up Http Service using Alamofire [Episode 3]" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="DV-AqWKkACQ" title="Login Flow using VIPER iOS Swift - Login and SignUp Routing [Episode 2]" />
+
+:::
+
+<!-- iVish -->
+
+---
+
+
 ## KxCoding
 
 [![KxCoding](https://yt3.googleusercontent.com/ytc/AGIKgqPbSno_pXrbQHpFcDkpyNvkxg35p293m6jtcnmP=s176-c-k-c0x00ffffff-no-rj =x150)][yu-kx-coding]
@@ -769,6 +819,52 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## AppStuff
+
+[AppStuff][yu-appstuff5778]
+
+::: details 목록
+
+<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="ZQXzZ1hxQwo" title="This NEW SwiftUI Feature Is AMAZING | Navigation Stacks" />
+<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="-QT_bEx-4zg" title="Free iOS Development Course | Building a CryptoCurrency App with SwiftUI" />
+<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="6_Ex3h8SmYU" title="Full Custom Tab Bar With Pop Up Menu || SwiftUI 3.0 || iOS 15" />
+<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="Zme718yvRqw" title="Create A Search Bar With SwiftUI || Xcode 13 || Swift 5" />
+<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="Yev3CPNlg7o" title="Side Menu in iOS Like a Professional | Swift 4  (Pt. 3)" />
+<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="ZQXzZ1hxQwo" title="This NEW SwiftUI Feature Is AMAZING | Navigation Stacks" />
+
+:::
+
+<!-- AppStuff -->
+
+---
+
+## Servet Gulnaroglu
+
+[Servet Gulnaroglu][yu-servlet-gulnaroglu]
+
+::: details 목록
+
+<YoutubeItem channelName="Servet Gulnaroglu" channelId="ServetGulnaroglu" id="CJF4ZNJYoSY" title="ASMR Programming - Terrain Generator - No Talking"/>
+<YoutubeItem channelName="Servet Gulnarogl" channelId="ServetGulnaroglu" id="wgBC-CUQEGs" title="ASMR Programming - MacOS Calculator - No Talking" />
+
+:::
+
+<!-- Servet Gulnaroglu -->
+
+---
+
+
+
+## Misc
+
+<!-- [Learn to Code with Karoly Nyisztor][yu-learn-to-code-w-karoly-nyisztor] -->
+
+<YoutubeItem channelName="Learn to Code with Karoly Nyisztor" channelId="SwiftProgrammingTutorials" id="LdIib-SrOmk" title="Here's How to Construct a Swift Type from a String" />
+<YoutubeItem channelName="AUC_ANZ" channelId="auc_anz" id="vWnst6Il4Lk" title="macOS Security for MacAdmins - Marcus Ransom (X World 2023)" />
+<YoutubeItem channelName="AUC_ANZ" channelId="auc_anz" id="nU4BZ9vtmTc" title="Introduction to Promises in Swift (/dev/world/2017)" />
+
+---
+
 <TagLinks/>
 
 [yu-azamsharp]: https://www.youtube.com/@azamsharp
@@ -783,6 +879,7 @@ tags: ["education", "youtube", "ios", "swift"]
 [yu-lets-build-that-app]: https://www.youtube.com/@LetsBuildThatApp
 [yu-swiftkatcodefactory]: https://www.youtube.com/@swiftkatcodefactory
 [yu-coding-w-andrei]: https://www.youtube.com/@codeWithAndrei
+[yu-design-code]: https://www.youtube.com/@DesignCodeTeam
 [yu-paul-colton]: https://www.youtube.com/@PaulColton
 [yu-asyncswiftkorea8910]: https://www.youtube.com/@asyncswiftkorea8910
 [yu-let-create-an-app]: https://www.youtube.com/@LetCreateAnApp
@@ -794,7 +891,13 @@ tags: ["education", "youtube", "ios", "swift"]
 [yu-mikaela-caron]: https://www.youtube.com/@MikaelaCaron
 [yu-stewart-lynch]: https://www.youtube.com/@StewartLynch
 [yu-rebeloper]: https://www.youtube.com/@rebeloper
+[yu-i-vish]: https://www.youtube.com/@iVish
 [yu-kx-coding]: https://www.youtube.com/@KxCoding
 [yu-swiftui2]: https://www.youtube.com/@swiftui2
 [yu-tom-baranowicz]: https://www.youtube.com/@TomBaranowicz
 [yu-anyone-can-code]: https://www.youtube.com/@AnyoneCanCode
+[yu-appstuff5778]: https://www.youtube.com/@appstuff5778
+[yu-servlet-gulnaroglu]: https://www.youtube.com/@ServetGulnaroglu
+<!-- Misc -->
+[yu-learn-to-code-w-karoly-nyisztor]: https://www.youtube.com/@SwiftProgrammingTutorials
+[yu-auc-anz]: https://www.youtube.com/@auc_anz

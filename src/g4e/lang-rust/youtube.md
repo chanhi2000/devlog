@@ -20,6 +20,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ::: details 목록
 
+<YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="omUP1nKsV-I" title="What technology you focus on matters" />
 <YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="hz5TvKnW1nI" title="Snapshot testing in Rust with Insta" />
 <YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="yzKOqLsdQqA" title="Introducing the tracing Rust crate | Advent of Code 2022 Day 20" />
 <YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="QAf45SUwyRc" title="User Interfaces in Bevy 0.9 with Kayak UI" />
@@ -37,6 +38,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Code to the Moon" channelId="codetothemoon" id="uuPeBKdnBOI" title="The Dream Programming Language? Lobster" />
 <YoutubeItem channelName="Code to the Moon" channelId="codetothemoon" id="CHRNj5oubwc" title="Rust Powered Polymorphism ⚡️ With Traits" />
 <YoutubeItem channelName="Code to the Moon" channelId="codetothemoon" id="MddGbXgIt2E" title="Build A Rust Frontend (Really FAST Web Apps with Yew)" />
 <YoutubeItem channelName="Code to the Moon" channelId="codetothemoon" id="cxoE2FhOIgI" title="Why I Prefer Emacs Over VSCode and vim" />
@@ -60,6 +62,21 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 :::
 
 <!-- Akhil Sharma -->
+
+---
+
+## No Boilerplate
+
+[No Boilerplate][yu-no-boilerplate]
+
+::: details 목록
+
+<YoutubeItem channelName="No Boilerplate" channelId="NoBoilerplate" id="JIvKgSyvtxI" title="Rust tests are MAGIC" />
+<YoutubeItem channelName="No Boilerplate" channelId="NoBoilerplate" id="CJtvnepMVAU" title="Rust Is Easy" />
+
+:::
+
+<!-- No Boilerplate -->
 
 ---
 
@@ -114,6 +131,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 [yu-chris-biscardi]: https://www.youtube.com/@chrisbiscard
 [yu-codetothemoon]: https://www.youtube.com/@codetothemoon
 [yu-akhil-sharma-tech]: https://www.youtube.com/@AkhilSharmaTech
+[yu-no-boilerplate]: https://www.youtube.com/@NoBoilerplate
 [yu-mahdimirzadeh]: https://www.youtube.com/@mahdimirzadeh
 [yu-yishn]: https://www.youtube.com/@yishn
 [yu-jamesquigley1713]: https://www.youtube.com/@jamesquigley1713

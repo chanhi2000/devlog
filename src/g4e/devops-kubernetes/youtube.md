@@ -61,6 +61,45 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## networknutsdotnet
+
+[networknutsdotnet][yu-networknutsdotnet]
+
+::: details 목록
+
+<YoutubeItem channelName="networknutsdotnet" channelId="networknutsdotnet" id="il8YglA_shU" title="Kubernetes Components - Kubernetes Architecture - How Kubernetes Work" />
+<YoutubeItem channelName="networknutsdotnet" channelId="networknutsdotnet" id="AUYcv7dI9Zg" title="`BPYTOP` - Alternative to top in Linux - Monitor Linux server resources using `bpytop` utility" />
+<YoutubeItem channelName="networknutsdotnet" channelId="networknutsdotnet" id="jEW5X2BAzjI" title="K9S Kubernetes Cluster Management Tool - Terminal based UI Tool for Managing Kubernetes - CKA" />
+<YoutubeItem channelName="networknutsdotnet" channelId="networknutsdotnet" id="6H__GEvHPmM" title="Linux Disk Monitoring with `DUF` - Monitoring Linux Server Disk Usage with `DUF` - RHCSA Training" />
+<YoutubeItem channelName="networknutsdotnet" channelId="networknutsdotnet" id="1PWr6az9sM0" title="Docker Monitoring using CAdvisor" />
+
+:::
+
+<!-- networknutsdotnet -->
+
+---
+
+## CBT Nuggets
+
+[CBT Nuggets][yu-cbtnuggets]
+
+::: details 목록
+
+<YoutubeItem channelName="CBT Nuggets" channelId="cbtnuggets" id="bO7Qh08OCIw" title="What is Ansible?" />
+<YoutubeItem channelName="CBT Nuggets" channelId="cbtnuggets" id="aJ10nbRoD8Q" title="How to Set Up Basic Auth with Postman" />
+<YoutubeItem channelName="CBT Nuggets" channelId="cbtnuggets" id="l96vOuIH7DU" title="How to Secure Kubernetes GUIs" />
+
+:::
+
+<!-- CBT Nuggets -->
+
+---
+
+
+
+
+
+
 ## vBrownBag
 
 [vBrownBag][yu-vBrownBag]
@@ -84,4 +123,6 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 [yu-dev-ops-toolkit]: https://www.youtube.com/@DevOpsToolkit
 [yu-houssem-dellai]: https://www.youtube.com/@HoussemDellai
+[yu-networknutsdotnet]: https://www.youtube.com/@networknutsdotnet
+[yu-cbtnuggets]: https://www.youtube.com/@cbtnuggets
 [yu-vBrownBag]: https://www.youtube.com/@vBrownBag

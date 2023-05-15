@@ -115,7 +115,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [ggerganov/llama.cpp][ggerganov/llama.cpp]: Port of Facebook's LLaMA model in C/C++
 - [ggerganov/whisper.cpp][ggerganov/whisper.cpp]: Port of OpenAI's Whisper model in C/C++
 - [ggerganov/ggml][ggerganov/ggml]: Tensor library for machine learning
-- [PCSX2/pcsx2][PCSX2/pcsx2]: PCSX2 - The Playstation 2 Emulator
+- [PCSX2/pcsx2][PCSX2/pcsx2]: PCSX2 - The Playstation 2 Emulator <GithubTags tagItems="emulator;cpp;emulation;pcsx2;ps2" />
   - [🌐Official Site](https://pcsx2.net)
 - [raysan5/raylib][raysan5/raylib]: A simple and easy-to-use library to enjoy videogames programming
   - [🌐Official Site](http://www.raylib.com)
@@ -198,6 +198,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://yuzu-emu.org)
 - [yuzu-emu/yuzu-mainline][yuzu-emu/yuzu-mainline]
 - [coolsnowwolf/lede][coolsnowwolf/lede]: Lean's LEDE source <GithubTags tagItems="lua;lede;openwrt-package;openwrt-zh-cn;openwrt-feed" />
+- [UberGuidoZ/Flipper][UberGuidoZ/Flipper]: Playground (and dump) of stuff I make or modify for the Flipper Zero
+- [SysSec-KAIST/LTESniffer][SysSec-KAIST/LTESniffer]: An Open-source LTE Downlink/Uplink Eavesdropper
+- [toverainc/willow][toverainc/willow]: Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative <GithubTags tagItems="home-automation;alexa;privacy;deep-learning;echo;esp32;speech-recognition;home-assistant;speech-to-text;google-home;esp-idf;whisper;esp-adf" />
+- [torvalds/linux][torvalds/linux]: Linux kernel source tree
 
 ---
 
@@ -272,19 +276,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [oracle/docker-images][oracle/docker-images]: Official source of container configurations, images, and examples for Oracle products and projects <GithubTags tagItems="docker;dockerfile;dockerfiles;nosql;oracle;oci;graalvm;docker-images;oracle-database;oracle-linux;oraclelinux;oracle-commercial;oracle-instantclient;coherence-ce;oracle-products"/>
   - [🌐Official Site](https://developer.oracle.com/use-cases/#containers)
 - [LSPosed/MagiskOnWSALocal][LSPosed/MagiskOnWSALocal]: Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) <GithubTags tagItems="android;windows;google-apps;magisk;wsa;windows11" />
-
-
-
----
-
-## Powershell
-
-- [MicrosoftDocs/azure-docs][MicrosoftDocs/azure-docs]: Open source documentation of Microsoft Azure
-  - [🌐Official Site](https://docs.microsoft.com/azure)
-- [Azure/azure-quickstart-templates][Azure/azure-quickstart-templates]: Azure Quickstart Templates
-  - [🌐Official Site](https://aka.ms/azqst)   
-- [H4de5-7/powershell-obfuscation][H4de5-7/powershell-obfuscation]: powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
-- [DarkCoderSc/PowerRemoteDesktop][DarkCoderSc/PowerRemoteDesktop]: Remote Desktop entirely coded in PowerShell.
+- [89luca89/distrobox][89luca89/distrobox]: Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox <GithubTags tagItems="linux;bash;docker;development;tools;debian;ubuntu;command-line;archlinux;containers;alpine;fedora;centos;suse;posix;opensuse;posix-sh;podman;rockylinux;almalinux" />
+  - [🌐Official Site](https://distrobox.privatedns.org)
 
 ---
 
@@ -493,6 +486,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [yuzu-emu/yuzu]: https://github.com/yuzu-emu/yuzu
 [yuzu-emu/yuzu-mainline]: https://github.com/yuzu-emu/yuzu-mainline
 [coolsnowwolf/lede]: https://github.com/coolsnowwolf/lede
+[UberGuidoZ/Flipper]: https://github.com/UberGuidoZ/Flipper
+[SysSec-KAIST/LTESniffer]: https://github.com/SysSec-KAIST/LTESniffer
+[toverainc/willow]: https://github.com/toverainc/willow
+[torvalds/linux]: https://github.com/torvalds/linux
 <!-- Lua -->
 [ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
 [neovim/neovim]: https://github.com/neovim/neovim
@@ -535,11 +532,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [aristocratos/bashtop]: https://github.com/aristocratos/bashtop
 [oracle/docker-images]: https://github.com/oracle/docker-images
 [LSPosed/MagiskOnWSALocal]: https://github.com/LSPosed/MagiskOnWSALocal
-<!-- Powershell -->
-[MicrosoftDocs/azure-docs]: https://github.com/MicrosoftDocs/azure-docs
-[Azure/azure-quickstart-templates]: https://github.com/Azure/azure-quickstart-templates
-[H4de5-7/powershell-obfuscation]: https://github.com/H4de5-7/powershell-obfuscation
-[DarkCoderSc/PowerRemoteDesktop]: https://github.com/DarkCoderSc/PowerRemoteDesktop
 <!-- Batchfile -->
 [massgravel/Microsoft-Activation-Scripts]: https://github.com/massgravel/Microsoft-Activation-Scripts
 [Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas

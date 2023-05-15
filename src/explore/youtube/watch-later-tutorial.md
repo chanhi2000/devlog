@@ -362,7 +362,8 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 [조코딩 JoCoding][yu-jocoding]
 
 ::: details 목록
-
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="7OWV0XLTBYE" title="AI가 디자인 영역도 정복하나?! 마이크로소프트 디자이너 공개" />
+<YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="_lTY6NN-QMo" title="GPT-4 등장과 기술 보고서 논란, 구글의 역습 등 AI 뉴스" />
 <YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="SGGebq48h3Y" title="백엔드 서버 클릭 몇번으로 무료 배포하는 방법" />
 <YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="Tt_tKhhhJqY" title="한시간만에 Node.js 백엔드 기초 끝내기 (ft. API 구축)" />
 <YoutubeItem channelName="조코딩 JoCoding" channelId="jocoding" id="c6EA_Fi44Ik" title="자바스크립트 웹개발 40분 완성 스타크래프트 만들기 (ft. BOM, DOM, 이벤트)" />
@@ -645,7 +646,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ## Telusko
 
-[Telusko][yu-telusko]
+[![Telusko](https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj =x150)][yu-telusko]
 
 ::: details 목록
 
@@ -856,9 +857,54 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ---
 
+## Caleb Curry
 
+[Caleb Curry][yu-codebreakthrough]
 
+::: details 목록
 
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="3-9sObAg6R0" title="Run C++ and C in Visual Studio Code | Mac and Windows!" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="Ux0Yzedi3Xc" title="Hands-on Java - All-in-One Tutorial Series (7 HOURS!)" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="9Myk2vcK8s8" title="C++ Full Course (FOUR HOUR All-in-One Tutorial for Beginners)" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="D53L7MkYvys" title="Intro to for Loops - Bash Programing Tutorial 9" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="c6d7lfvziRY" title="Intro to Webhooks - Real Time App Automation (Discord Bot, Slack, GitHub)" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="pvlIf9Lh4_Q" title="Deploy Docker to Kubernetes Cluster" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="Bz4MxDeEM6k" title="C Programming All-in-One Tutorial Series (10 HOURS!)" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="iaeLv-ilMA0" title="Probability statistics tutorial || Probability for data science" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="uRYLJduJjAY" title="SQL All-in-One Tutorial Series (13 HOURS!)" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="sKBI6HALHWM" title="SQL Server All-in-One Quick Start Tutorial Series (OVER 3 HOURS!)" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="JrR4ZpuROC8" title="How to Build a Computer - 1 - Introduction" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="h0j0QN2b57M" title="Database Design All-in-One Tutorial Series (8 HOURS!)" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="qoYr8XNwtVo" title="JavaScript Programming Tutorial 61 - Call and Apply" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="lwbVtX1mZLs" title="JavaScript Programming Tutorial 65 - this with Arrow Functions" />
+<YoutubeItem channelName="Caleb Curry" channelId="codebreakthrough" id="3Ib545JdBNQ" title="JavaScript Programming Tutorial 68 - Intro to Debugging" />
+
+:::
+
+<!-- Caleb Curry -->
+
+---
+
+## OktaDev
+
+[OktaDev][yu-okta-dev]
+
+::: details 목록
+
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="1aha4yrT2l0" title="How to Protect an API in FastAPI with Auth0 by Okta" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="B5tcZoNyqGI" title="Use React and Spring Boot to Build a Simple CRUD App" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="Bj69rOIwQwY" title="Build a Secure Java REST API with Helidon" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="3kGrkVUZ_Fo" title="Scaling Secure Applications with Spring Session and Redis" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="ChYIhEEOfrk" title="How to Docker with Spring Boot" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="clkEUHWT9-M" title="Build Reactive Java Microservices with Spring Boot and JHipster" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="6PJbHtBXRxQ" title="Build Your First NestJS App" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="PR6Gw4Ca-sE" title="Build a Secure CRUD Application with React, Spring Boot, and Kotlin" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="lkRGS_65SwQ" title="Multi-factor Authentication (MFA) - Add More Security to Your Applications with Auth0 Guardian" />
+<YoutubeItem channelName="OktaDev" channelId="OktaDev" id="1aha4yrT2l0" title="How to Protect an API in FastAPI with Auth0 by Okta" />
+
+:::
+
+<!-- OktaDev -->
 
 ---
 
@@ -888,3 +934,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 [yu-cod-affection]: https://www.youtube.com/@CodAffection
 [yu-bro-codez]: https://www.youtube.com/@BroCodez
 [yu-kodeco]: https://www.youtube.com/@KodecoDev
+[yu-okta-dev]: https://www.youtube.com/@OktaDev
+
+[yu-codebreakthrough]: https://www.youtube.com/@codebreakthrough

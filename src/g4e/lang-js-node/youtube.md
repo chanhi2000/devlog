@@ -484,7 +484,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [![Fireship](https://yt3.googleusercontent.com/ytc/AGIKgqOSWK9LIZ9xGvDbBZ7gjBK1ayNCxK0jKMOq1FirfA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-fireship]
 
 ::: details 목록
-
+<YoutubeItem channelName="Fireship" channelId="Fireship" id="nQ2A30cD3Q8" title="Angular is back with a vengeance" />
 <YoutubeItem channelName="Fireship" channelId="Fireship" id="uvb00oaa3k8" title="Kafka in 100 Seconds" />
 <YoutubeItem channelName="Fireship" channelId="Fireship" id="FMhScnY0dME" title="JavaScript just got way faster" />
 <YoutubeItem channelName="Fireship" channelId="Fireship" id="Jv2uxzhPFl4" title="Test-Driven Development // Fun TDD Introduction with JavaScript" />
@@ -690,6 +690,44 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Tyler Potts
+
+[Tyler Potts][yu-tyler-potts]
+
+::: details 목록
+
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="YnnQymvBrY8" title="Build a Landing Page using React JS &amp; Tailwind CSS \| Newsletter Sign up page" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="EfIwxy3Qumc" title="Build a Recipe app in VUE using Router &amp; Vuex! \(Composition &amp; Options API\)" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="XAFWag-_FGM" title="Build a SCREEN RECORDER WITH AUDIO in JavaScript - JavaScript Beginner Tutorial" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="R81g-2r6ynM" title="Build a FULL STACK app with React, Express, Node &amp; Mongo MERN STACK" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="oiX-6Y2oGjI" title="Build a CALCULATOR APP in REACT JS \| A React JS Beginner Tutorial" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="eue3jbwxQS0" title="Build a Twitter UI Clone with Vue JS &amp; TailwindCSS ~ Home Page" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="Vn6FxqvsdMU" title="Build a Vue 3 Quote app with a Node JS API ~ With Tailwind CSS, Vuex &amp; Router" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="UHewcsv6uJY" title="Build a Movie App With Vue JS - A Vue 3 Beginners tutorial" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="NuZOwsmzcro" title="How To Code Your First Mobile App Using React Native" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="-eVgT9pLHhI" title="Learn JavaScript &amp; CSS For Beginners by Creating a Dynamic Page Switcher" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="AjV7k7t78Ik" title="Build an Income Tracker in Vue JS ~ Composition API" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="AvsuZ3L5z28" title="Turning my 10 Minute Game into a MOBILE game ~ 2D Game Dev ~ LIVE" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="yZhbKkxFcN0" title="Neomorphic Login Form Design with HTML, CSS and Javascript" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="xTN3pvoYENg" title="Responsive Navbar with nested menus with HTML, CSS &amp; Javascript" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="9zA8cB-54SA" title="CSS GRID With Flexbox \| Beginner to Pro Tutorial" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="9-nvPY1hNcw" title="Colour Generator App with Copy To Clipboard using Javascript &amp; CSS" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="XhNMwxXcKQM" title="Responsive Gallery using CSS Grid with No Media Queries" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="TbzUQ0BXA8E" title="Animated Text Hover Effect in HTML &amp; CSS" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="3rjHkTjCyBA" title="Awesome Animated Text Reveal ONLY CSS \| CSS Beginner Tutorial" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="JLc-hWsPTUY" title="Build a Weather App in VueJS \| Vue Beginner Tutorial" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="05LZ6-_FZj8" title="How To Code Your First Mobile App Using Vue Native" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="nT4LZEbzohc" title="Making a Game in VueJS using Vuex \| VueJS Tutorial" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="UG2LXxILAnM" title="Build a Todo List App in HTML, CSS &amp; JavaScript and Deploy it in 2023" />
+
+:::
+
+<!-- Tyler Potts -->
+
+---
+
+
+
 ## Brian Morrison
 
 [Brian Morrison][yu-brianmmdev]
@@ -806,8 +844,24 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Vicode Media
 
+[Vicode Media][yu-vicode-media]
 
+::: details 목록
+
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="1GQfgSlSyl8" title="SVG Icons Animation with CSS and HTML"/>
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="spKgDyVucXs" title="WooCommerce API Drag and Drop Products with React"/>
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="uWPQ-CN7SSI" title="Learn Sass In 20 Minutes | Crash Course"/>
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="PMtXhxW6t2k" title="Leaflet - Build React.js Map App"/>
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="g5w4Ga1TThI" title="Part 1: Docker, MongoDB, NodeJS Stack - CRUD Environment Setup"/>
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="s35x4Rh0l44" title="Part 2: Docker, MongoDB, NodeJS Stack - CRUD Operations"/>
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="FTsis3xoFpw" title="JavaScript Animated Counter"/>
+<YoutubeItem channelName="Vicode Media" channelId="VicodeMedia" id="gIPlQOVDz0Q" title="How to build a URL Shortener Service"/>
+
+:::
+
+<!-- Vicode Media -->
 
 ---
 
@@ -849,6 +903,50 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Academind
+
+[Academind][yu-academind]
+
+::: details 목록
+
+<YoutubeItem channelName="academind" channelId="academind" id="i9uAgkKEuNU" title="100 Days of Code - Web Development  Bootcamp - Full Course: Day 1 - 8" />
+<YoutubeItem channelName="academind" channelId="academind" id="t7DrJqcUviA" title="Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free &amp; Tutorial!" />
+<YoutubeItem channelName="academind" channelId="academind" id="Dorf8i6lCuk" title="React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!" />
+<YoutubeItem channelName="academind" channelId="academind" id="BwuLxPH8IDs" title="TypeScript Course for Beginners - Learn TypeScript from Scratch!" />
+<YoutubeItem channelName="academind" channelId="academind" id="x0uinJvhNxI" title="Flutter Crash Course for Beginners - Build a Flutter App with Google's Flutter &amp; Dart" />
+<YoutubeItem channelName="academind" channelId="academind" id="GLSG_Wh_YWc" title="Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter &amp; Dart" />
+<YoutubeItem channelName="academind" channelId="academind" id="_03VKmdrxV8" title="Ionic + React - Tutorial for Beginners" />
+<YoutubeItem channelName="academind" channelId="academind" id="-MlNBTSg_Ww" title="React.js Hooks Crash Course" />
+<YoutubeItem channelName="academind" channelId="academind" id="nteDXuqBfn0" title="Nuxt.js - Introduction by Project" />
+<YoutubeItem channelName="academind" channelId="academind" id="V-xK3sbc7xI" title="Vue 3 &amp; A First Look at the Composition API" />
+<YoutubeItem channelName="academind" channelId="academind" id="F_oOtaxb0L8" title="Learn Nest.js from Scratch by building an API" />
+<YoutubeItem channelName="academind" channelId="academind" id="nSmMkeNjjPg" title="VueJS - CLI 3 Tutorial" />
+<YoutubeItem channelName="academind" channelId="academind" id="hOtZhNb4TKg" title="JavaScript Security: Hide your Code?" />
+
+:::
+
+<!-- Academind -->
+
+---
+
+## Kaizen Codes
+
+[Kaizen Codes][yu-kaizen-codes]
+
+::: details 목록
+
+<YoutubeItem channelName="Kaizen Codes" channelId="KaizenCodes" id="QNh0hrmlOhY" title="Nuxt3 TDD Todo app \(part 2\) PlanetScale + Prisma + Authentication 🚀" />
+<YoutubeItem channelName="Kaizen Codes" channelId="KaizenCodes" id="Ev9YLaLvAJM" title="Build a React Bookmark app from scratch \(Learn React Hooks\)" />
+<YoutubeItem channelName="Kaizen Codes" channelId="KaizenCodes" id="8jOVi4fRSKo" title="How To Use The Vue Composition API 🛠️ A Vue 3 Sneak Peek" />
+
+:::
+
+<!-- Kaizen Codes -->
+
+---
+
+
+
 ## Justin Jackson
 
 [Justin Jackson][yu-justin-jackson]
@@ -881,6 +979,53 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Dylan Israel
+
+[Dylan Israel][yu-dylan-israel]
+
+::: details 목록
+
+
+<YoutubeItem channelName="Dylan Israel" channelId="CodingTutorials360" id="bRMiD25Lys8" title="Best Ways To Use Open Source Software For Developers - S1E22" />
+<YoutubeItem channelName="Dylan Israel" channelId="CodingTutorials360" id="rYVW4tIVII0" title="Information Security with HelmetJS with FreeCodeCamp \| Dylan Israel" />
+<YoutubeItem channelName="Dylan Israel" channelId="CodingTutorials360" id="uAUlv39DhQU" title="Quality Assurance and Testing with Chai \| FreeCodeCamp with Dylan Israel" />
+<YoutubeItem channelName="Dylan Israel" channelId="CodingTutorials360" id="MkqdLCFG9xM" title="🔴 Lets Build a Web App LIVE Episode 12 with Dylan Israel" />
+<YoutubeItem channelName="Dylan Israel" channelId="CodingTutorials360" id="wCTTHhehJbU" title="Learn Docker in 20 Minutes" />
+
+:::
+
+<!-- Dylan Israel -->
+
+---
+
+## developedbyed
+
+[developedbyed][yu-developedbyed]
+
+::: details 목록
+
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="xB27AuRa5h4" title="Javascript Layout Animations REALLY SIMPLE TUTORIAL!" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="xg1zO2hN2QM" title="Web Developer Reacts To Best Codepens!" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="oPteQFUK42w" title="The Ultimate Guide To Forms In React Tutorial" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="A2g4IwtAX_I" title="Top 10 VSCode Extensions YOU MUST TRY!" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="Ttf3CEsEwMQ" title="Beginner Vanilla Javascript Project Tutorial" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="z-xkbNLIB5w" title="Web Design Tutorial - 5 IMPORTANT Tips!" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="tsMHONmUkvI" title="Create 3D Animation With Javascript Tutorial!" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="jE-SpRI3K5g" title="Build A Python GUI App Tutorial" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="2jqok-WgelI" title="Build A Node.js API Authentication With JWT Tutorial" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="U9T6YkEDkMo" title="Build a Recipe App With React \| React Tutorial For Beginners" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="WZQc7RUAg18" title="ES6 Javascript Tutorial For Beginners \| ES6 Crash Course" />
+<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="gXkqy0b4M5g" title="Responsive Navigation Bar Tutorial \| HTML CSS JAVASCRIPT" />
+
+:::
+
+<!-- developedbyed -->
+
+---
+
+
+
+
 ## Adrian Twarog
 
 [Adrian Twarog][yu-adrian-twarog]
@@ -900,6 +1045,26 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- Adrian Twarog -->
 
 ---
+
+## Adam Wathan
+
+[Adam Wathan][yu-adam-wathan]
+
+::: details 목록
+
+<YoutubeItem channelName="Adam Wathan" channelId="AdamWathan" id="oLK_cJ114QY" title="Rebuilding Allbirds.com with Tailwind CSS (Part 2)" />
+<YoutubeItem channelName="Adam Wathan" channelId="AdamWathan" id="eSDRc6kyqBA" title="Building a Slide-Over Panel with Tailwind CSS" />
+<YoutubeItem channelName="Adam Wathan" channelId="AdamWathan" id="7lf6dwipRYg" title="Working on Tailwind UI" />
+<YoutubeItem channelName="Adam Wathan" channelId="AdamWathan" id="Y8fufuQOIgY" title="Building the Tuple Pricing Page with Tailwind CSS" />
+<YoutubeItem channelName="Adam Wathan" channelId="AdamWathan" id="Ybybd3GCNn4" title="Designing with Tailwind CSS: The Utility-First Workflow" />
+
+:::
+
+<!-- Adam Wathan -->
+
+---
+
+
 
 ## React with Masoud
 
@@ -967,6 +1132,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+
 ## Code With Antonio
 
 [![Code With Antonio](https://yt3.googleusercontent.com/O8iON5EAVx6HVKyOV5UMreLFI_0D3mJX373vTEGoNcVRpNP7Lq8swha7BSLWTiEWlZaF7a4ENW8=s176-c-k-c0x00ffffff-no-rj =x150)][yu-code-w-antonio]
@@ -1002,6 +1168,66 @@ tags: ["education", "youtube", "programming", "js", "node"]
 :::
 
 <!-- Easy Tutorials -->
+
+---
+
+## Coding Garden
+
+[Coding Garden][yu-coding-garden]
+
+::: details 목록
+
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="y5JxfW7QRyU" title="⚡️ Trying Supabase.io for the first time | Building a Japanese Pokemon Card Database" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="UjX5ZE359ck" title="Build a Full Stack Reddit Clone with - Firebase Firestore 🔥, Vue.js/Vuexfire and Bulma" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="2xIoWm08SBM" title="Newby Tuesdays - Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="TNEHNgunHn4" title="Newb Quest - Auth Part 5 - Authorization - Node/Express/MongoDB/JWT/Vue.js" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="J7pFiXh-ydA" title="Build a Maps App with Leaflet - React/Node.js/Express/MongoDB" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="JNAjjHwPFIw" title="Newb Quest - Auth from Scratch - Part 1 - SignUp Backend - Node/Express/Mongo/JWT" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="kaaEJreD1jA" title="jQuery Demystified - Build a Simple jQuery clone from scratch" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="tMNOpaQrfAE" title="💻✨ - Setting up a Mac for Web Development - 2020 - Homebrew / Terminal / git / Code Editor / Node.js" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="gq5yubc1u18" title="Build and deploy a URL Shortener in 3133.7 seconds with Node.js + Express + MongoDB + Heroku" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="gzM7kj6gV5I" title="Build a Discord bot 🤖 with Daniel Shiffman of The Coding Train 🚂" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="5pQsl9u_10M" title="📍 MERN Stack - Build a Full Stack Travel Log App with Node, Express, MongoDB, React+Hooks and Mapbox" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="onkzhfXJlp0" title="🤖| Intro to hardware programming with Arduino and C++ / JavaScript | !commands | !drop" />
+<YoutubeItem channelName="Coding Garden" channelId="CodingGarden" id="lRE03MBZnuY" title="Vue.js: State Management, Component Hierarchy, Props and Vuex" />
+
+:::
+
+<!-- Coding Garden -->
+
+---
+
+## Tricknology
+
+[Tricknology][yu-tricknology]
+
+::: details 목록
+
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="kKV6AXVcVnI" title="Banco de dados Offline com RealmDB no React Native \| Decode #031" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="9TXmvypsCeY" title="Jest with React and VSCode - The Best combination of Setup &amp; Extensions" />
+
+:::
+
+<!-- Tricknology -->
+
+---
+
+## Traversy Media
+
+[Traversy Media][yu-traversy-media]
+
+::: details 목록
+
+<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="NHHhiqwcfRM" title="Deno Crash Course" />
+<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="-6OAHsde15E" title="Node.js CLI For Cryptocurrency Prices" />
+<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="9FQrFah9rnc" title="Node.js GeoJSON API &amp; App | Store Locator" />
+<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="YK-GurROGIg" title="Documenting Your JavaScript | JSDoc Crash Course" />
+<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="Xa5EU-qAv-I" title="VSCode Keyboard Shortcuts For Productivity" />
+<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="wqhNoDE6pb4" title="NestJS Crash Course" />
+
+:::
+
+<!-- Traversy Media -->
 
 ---
 
@@ -1082,6 +1308,21 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## dotconferences
+
+[dotconferences][yu-dotconferences]
+
+::: details 목록
+
+<YoutubeItem channelName="dotconferences" channelId="dotconferences" id="bOdfo5SmQc8" title="dotJS 2019 - Evan You - State of Components" />
+<YoutubeItem channelName="dotconferences" channelId="dotconferences" id="BiDBclcU_I4" title="dotJS 2019 - Sven Sauleau - More WebAssembly in your JavaScript" />
+
+:::
+
+<!-- dotconferences -->
+
+---
+
 ## JSConf
 
 [JSConf][yu-jsconf_]
@@ -1135,6 +1376,22 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- Dipesh Malvia -->
 
 ---
+
+## EdRoh
+
+[EdRoh][yu-ed-roh-dev]
+
+::: details 목록
+
+<YoutubeItem channelName="EdRoh" channelId="EdRohDev" id="uoJ0Tv-BFcQ" title="Build A MERN Finance Dashboard App | Machine Learning, Typescript, React, Node, MUI, Deployment" />
+<YoutubeItem channelName="EdRoh" channelId="EdRohDev" id="wYpCWwD1oz0" title="Build a COMPLETE React Admin Dashboard App \| React, Material UI, Data Grid, Light &amp; Dark Mode" />
+:::
+
+<!-- EdRoh -->
+
+---
+
+
 
 ## Zach Gollwitzer
 
@@ -1275,6 +1532,28 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 <!-- Code with Ania Kubów -->
 
+---
+
+## PedroTech
+
+[PedroTech][yu-pedro-tech]
+
+::: details 목록
+
+<YoutubeItem channelName="PedroTech" channelId="PedroTechnologies" id="0gLr-pBIPhI" title="React Firebase Realtime Chat App Tutorial | Firebase V9+ Beginner Tutorial" />
+<YoutubeItem channelName="PedroTech" channelId="PedroTechnologies" id="-4fyyyQjsz8" title="How to Improve Performance in React with Code Splitting" />
+<YoutubeItem channelName="PedroTech" channelId="PedroTechnologies" id="JBSUgDxICg8" title="Testing In React Tutorial - Jest and React Testing Library" />
+<YoutubeItem channelName="PedroTech" channelId="PedroTechnologies" id="x7mwVn2z3Sk" title="Code and Deploy A React Portfolio - React Personal Portfolio Website" />
+<YoutubeItem channelName="PedroTech" channelId="PedroTechnologies" id="omzQF3Gyu_0" title="React Passwordless Authentication Tutorial | React, NodeJS, Stytch API" />
+
+:::
+
+<!-- PedroTech -->
+
+---
+
+
+
 ## CodeBucks
 
 [CodeBucks][yu-code-bucks]
@@ -1305,6 +1584,45 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- Huntabyte -->
 
 ---
+
+## Google Chrome Developers
+
+[Google Chrome Developers][yu-chrome-dev]
+
+::: details 목록
+
+<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="CrSmjooOEiE" title="Whats New In DevTools: Debugging, testing and CSS (Chrome 110 - 112)" />
+<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="eamAHF71ZN4" title="Thinking on ways to solve BASIC PHYSICS" />
+<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="H89hKw06iWs" title="web.dev LIVE 2020: Day One" />
+<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="cN9c_JyvL1A" title="C++ as a second language (Chrome University 2019)" />
+<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="UNJrgsQXvCA" title="C++ Memory (Chrome University 2019)" />
+<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="eDd6Y6Z50Mg" title="Optimise your code: load code at the right time" />
+
+:::
+
+<!-- Google Chrome Developers -->
+
+---
+
+## 드림코딩
+
+[드림코딩][yu-dream-coding]
+
+::: details 목록
+
+<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="j8rTeUZiiXc" title="Remix가 웹프레임워크 시장을 선두할것인가? (마지막영상)" />
+<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="iLqGzEkusIw" title="제발 깃허브 액션🔥 모르는 개발자 없게해 주세요 🙏" />
+<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="FEBkne7Nyu4" title="PWA (Progressive Web App) 개념과 따라만들기 📲" />
+<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="KJUdqPDAtTI" title="개발자 취업을 위한 포트폴리오 만들기 | 취업에 성공하는 포트폴리오 관리법, 프론트엔드 공부 방법 ⭐️" />
+
+:::
+
+<!-- 드림코딩 -->
+
+---
+
+
+
 
 ## Misc
 
@@ -1341,37 +1659,54 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-coding-artist]: https://www.youtube.com/@CodingArtist
 [yu-nomadcoders]: https://www.youtube.com/@nomadcoders
 [yu-codevolution]: https://www.youtube.com/@Codevolution
+[yu-tyler-potts]: https://www.youtube.com/@TylerPotts
+[yu-brianmmdev]: https://www.youtube.com/@brianmmdev
 [yu-code-w-sloba]: https://www.youtube.com/@CodewithSloba
 [yu-code-factory]: https://www.youtube.com/@codefactory_official
 [yu-zero-cho-tv]: https://www.youtube.com/@ZeroChoTV
 [yu-monsterlessons-academy]: https://www.youtube.com/@MonsterlessonsAcademy
+[yu-vicode-media]: https://www.youtube.com/@VicodeMedia
 [yu-dongbinna]: https://www.youtube.com/@dongbinna
 [yu-minjun-kim]: https://www.youtube.com/@MinjunKim
+[yu-academind]: https://www.youtube.com/@academind
+[yu-kaizen-codes]: https://www.youtube.com/@KaizenCodes
 [yu-justin-jackson]: https://www.youtube.com/@JustinJackson
 [yu-pluralsight]: https://www.youtube.com/@pluralsight
+[yu-dylan-israel]: https://www.youtube.com/@CodingTutorials360
+[yu-developedbyed]: https://www.youtube.com/@developedbyed
 [yu-adrian-twarog]: https://www.youtube.com/@AdrianTwarog
+[yu-adam-wathan]: https://www.youtube.com/@AdamWathan
 [yu-react-w-masoud]: https://www.youtube.com/@ProgrammingwithMasoud
 [yu-coding-addict]: https://www.youtube.com/@CodingAddict
 [yu-basarat]: https://www.youtube.com/@basarat
 [yu-michigan-typescript]: https://www.youtube.com/@MichiganTypeScript
 [yu-code-w-antonio]: https://www.youtube.com/@codewithantonio
 [yu-easy-tutorials]: https://www.youtube.com/@EasyTutorialsVideo
+[yu-coding-garden]: https://www.youtube.com/@CodingGarden
+[yu-tricknology]: https://www.youtube.com/@Tricknology
+[yu-traversy-media]: https://www.youtube.com/@TraversyMedia
 [yu-gatsby-js]: https://www.youtube.com/@Gatsbyjs
 [yu-apollo-graphql]: https://www.youtube.com/@ApolloGraphQL
 [yu-vue-conf-toronto]: https://www.youtube.com/@VueConfToronto
 [yu-ionic]: https://www.youtube.com/@IonicFramework
 [yu-red-stapler]: https://www.youtube.com/@RedStapler_channel
+[yu-dotconferences]: https://www.youtube.com/@dotconferences
 [yu-jsconf_]: https://www.youtube.com/@jsconf_
 [yu-daily-tuition]: https://www.youtube.com/@DailyTuition
 [yu-dipesh-malvia]: https://www.youtube.com/@DipeshMalvia
+[yu-ed-roh-dev]: https://www.youtube.com/@EdRohDev
 [yu-zachgoll]: https://www.youtube.com/@zachgoll
 [yu-briandesign]: https://www.youtube.com/@briandesign
 [yu-eduonix]: https://www.youtube.com/@Eduonix
 [yu-jeffrey_codes]: https://www.youtube.com/@jeffrey_codes
 [yu-design-course]: https://www.youtube.com/@DesignCourse
 [yu-ania-kubow]: https://www.youtube.com/@AniaKubow
+[yu-pedro-tech]: https://www.youtube.com/@PedroTechnologies
 [yu-code-bucks]: https://www.youtube.com/@CodeBucks
 [yu-huntabyte]: https://www.youtube.com/@Huntabyte
+[yu-chrome-devs]: https://www.youtube.com/@ChromeDevs
+[yu-dream-coding]: https://www.youtube.com/@dream-coding
 <!-- Misc -->
 [yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
 [yu-danielbark]: https://www.youtube.com/@danielbark
+[yu-arahansame9320]: https://www.youtube.com/@arahansame9320

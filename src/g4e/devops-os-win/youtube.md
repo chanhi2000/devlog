@@ -140,12 +140,35 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+
+## Tricknology
+
+[Tricknology][yu-tricknology]
+
+::: details 목록
+
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="jJcLRDC4fvs" title="How to Run Computer Performance Benchmark Test on Windows 11 Using CMD" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="NOETv7QLO-w" title="How to delete all emails in Gmail AT ONCE" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="ER-xXdqePRU" title="How to Download and Install Android Apps on Windows 11 Using Amazon Appstore" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="LrHM8wBnznU" title="How To Make Your Windows 11 PC or Laptop Run Faster By Using CMD Commands" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="GV2Un-8AQU0" title="How to Remove Any Watermark from Videos and Images \[One Click\]" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="TcSDYtLX23Q" title="How To Fix Accidentally Deleted Network Adapter Driver in Windows 10\[Solved\]" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="xnF10Q1_bGU" title="How to Use/Configure Proxy Server Settings in Windows 10" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="24ZbLWJxBNg" title="How To Reduce PDF file Size Without Quality loss" />
+
+:::
+
+<!-- Tricknology -->
+
+---
+
 ## TroubleChute
 
 [TroubleChute][yu-trouble-chute]
 
 ::: details 목록
 
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="1j1NmuqNlI0" title="Adobe Firefly: Crash Course | Sign-up (Free), Alternatives &amp; Should you care? | Complete Guide" />
 <YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="lzhXZQucQFA" title="Hide Recent Files in the Start Menu | Simple Windows 11 Guide" />
 <YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="cOJbzmZTKvM" title="How to setup Android Subsystem on Windows 11 | NEW GUIDE" />
 <YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="i7651MjMXNs" title="Install osu! on Mac | Lazer + Normal/Stable | Full Guide" />
@@ -155,6 +178,36 @@ tags: ["education", "youtube", "windows"]
 :::
 
 <!-- TroubleChute -->
+
+---
+
+## Enderman
+
+[Enderman][yu-endermanch]
+
+::: details 목록
+
+<YoutubeItem channelName="Enderman" channelId="Endermanch" id="2bTXbujbsVk" title="Activating Windows with ChatGPT" /> 
+<YoutubeItem channelName="Enderman" channelId="Endermanch" id="t3mQYiF2rNw" title="Rectify11: Windows 11 done correctly" />
+
+:::
+
+<!-- Enderman -->
+
+---
+
+## TechsavvyProductions
+
+[TechsavvyProductions][yu-techsavvy-productinos]
+
+::: details 목록
+
+<YoutubeItem channelName="TechsavvyProductions" channelId="TechsavvyProductions" id="s-ad0xVuKr4" title="OpenSSH for Windows: Install, Configure, Connect, and Troubleshoot" />
+<YoutubeItem channelName="TechsavvyProductions" channelId="TechsavvyProductions" id="HeHiDdO-guc" title="Windows Security: For Admins and Technical Support" />
+
+:::
+
+<!-- TechsavvyProductions -->
 
 ---
 
@@ -178,5 +231,8 @@ tags: ["education", "youtube", "windows"]
 [yu-thio-joe]: https://www.youtube.com/@ThioJoe
 [yu-netvn]: https://www.youtube.com/@NETVN82
 [yu-britec-09]: https://www.youtube.com/@Britec09
+[yu-tricknology]: https://www.youtube.com/@Tricknology
 [yu-trouble-chute]: https://www.youtube.com/@TroubleChute
+[yu-enderman]: https://www.youtube.com/@Endermanch
+[yu-techsavvy-productinos]: https://www.youtube.com/@TechsavvyProductions
 [yu-michael-mjd]: https://www.youtube.com/@MichaelMJD

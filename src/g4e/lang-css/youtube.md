@@ -20,45 +20,92 @@ tags: ["education", "youtube", "programming", "css"]
 [Kevin Powell][yu-kevin-powell]
 
 ::: details 목록
-| W / NW | Thumbnail | Account / Title |
-| :---: | :---: | :--- |
-| ❌ | <a href="https://www.youtube.com/watch?v=ctHE8EXEoj8"><img width="140px" height="auto" alt="thumb-ctHE8EXEoj8" src="https://i.ytimg.com/vi/ctHE8EXEoj8/hqdefault.jpg"/></a> | [Why I use grid over flexbox for this common layout](https://www.youtube.com/watch?v=ctHE8EXEoj8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jx4FtPlDXJg"><img width="140px" height="auto" alt="thumb-jx4FtPlDXJg" src="https://i.ytimg.com/vi/jx4FtPlDXJg/hqdefault.jpg"/></a> | [The thing people get wrong about flex-basis](https://www.youtube.com/watch?v=jx4FtPlDXJg) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vHuSz4fRM88"><img width="140px" height="auto" alt="thumb-vHuSz4fRM88" src="https://i.ytimg.com/vi/vHuSz4fRM88/hqdefault.jpg"/></a> | [The secret to mastering CSS layouts](https://www.youtube.com/watch?v=vHuSz4fRM88) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=A0J-hB3kSQ4"><img width="140px" height="auto" alt="thumb-A0J-hB3kSQ4" src="https://i.ytimg.com/vi/A0J-hB3kSQ4/hqdefault.jpg"/></a> | [Can you beat me at a CSS Battle?](https://www.youtube.com/watch?v=A0J-hB3kSQ4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=I4gUvhG7uFU"><img width="140px" height="auto" alt="thumb-I4gUvhG7uFU" src="https://i.ytimg.com/vi/I4gUvhG7uFU/hqdefault.jpg"/></a> | [The problem with percentages in CSS](https://www.youtube.com/watch?v=I4gUvhG7uFU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ii-lSK2_Nu4"><img width="140px" height="auto" alt="thumb-ii-lSK2_Nu4" src="https://i.ytimg.com/vi/ii-lSK2_Nu4/hqdefault.jpg"/></a> | [The `console.log()` of css](https://www.youtube.com/watch?v=ii-lSK2_Nu4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=sI9p5EswxdQ"><img width="140px" height="auto" alt="thumb-sI9p5EswxdQ" src="https://i.ytimg.com/vi/sI9p5EswxdQ/hqdefault.jpg"/></a> | [How is this possible with only HTML &amp; CSS? \| Reacting to CSS-only art](https://www.youtube.com/watch?v=sI9p5EswxdQ) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=6Nv0weHy7t0"><img width="140px" height="auto" alt="thumb-6Nv0weHy7t0" src="https://i.ytimg.com/vi/6Nv0weHy7t0/hqdefault.jpg"/></a> | [4 ways to deal with overflowing text](https://www.youtube.com/watch?v=6Nv0weHy7t0) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rg7Fvvl3taU"><img width="140px" height="auto" alt="thumb-rg7Fvvl3taU" src="https://i.ytimg.com/vi/rg7Fvvl3taU/hqdefault.jpg"/></a> | [Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=CG__N4SS1Fc"><img width="140px" height="auto" alt="thumb-CG__N4SS1Fc" src="https://i.ytimg.com/vi/CG__N4SS1Fc/hqdefault.jpg"/></a> | [Front-end dev reacts to amazing CSS-only Codepens](https://www.youtube.com/watch?v=CG__N4SS1Fc) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2B5rbsOoIUE"><img width="140px" height="auto" alt="thumb-2B5rbsOoIUE" src="https://i.ytimg.com/vi/2B5rbsOoIUE/hqdefault.jpg"/></a> | [Front-end dev reacts to mind-blowing Codepens](https://www.youtube.com/watch?v=2B5rbsOoIUE) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vncch9-1kPE"><img width="140px" height="auto" alt="thumb-vncch9-1kPE" src="https://i.ytimg.com/vi/vncch9-1kPE/hqdefault.jpg"/></a> | [You can use Emmet with CSS!](https://www.youtube.com/watch?v=vncch9-1kPE) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=vQAvjof1oe4"><img width="140px" height="auto" alt="thumb-vQAvjof1oe4" src="https://i.ytimg.com/vi/vQAvjof1oe4/hqdefault.jpg"/></a> | [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=PMGCOVfK-8s"><img width="140px" height="auto" alt="thumb-PMGCOVfK-8s" src="https://i.ytimg.com/vi/PMGCOVfK-8s/hqdefault.jpg"/></a> | [Create a pulsing animation with CSS](https://www.youtube.com/watch?v=PMGCOVfK-8s) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bB14uo0Tu5A"><img width="140px" height="auto" alt="thumb-bB14uo0Tu5A" src="https://i.ytimg.com/vi/bB14uo0Tu5A/hqdefault.jpg"/></a> | [Custom select menu - CSS only](https://www.youtube.com/watch?v=bB14uo0Tu5A) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=dgbFtMBOMlA"><img width="140px" height="auto" alt="thumb-dgbFtMBOMlA" src="https://i.ytimg.com/vi/dgbFtMBOMlA/hqdefault.jpg"/></a> | [The `ch` unit is the most underappreciated CSS unit](https://www.youtube.com/watch?v=dgbFtMBOMlA) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=U9VF-4euyRo"><img width="140px" height="auto" alt="thumb-U9VF-4euyRo" src="https://i.ytimg.com/vi/U9VF-4euyRo/hqdefault.jpg"/></a> | [`min()`, `max()`, and `clamp()` are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_kF3k0vDMNA"><img width="140px" height="auto" alt="thumb-_kF3k0vDMNA" src="https://i.ytimg.com/vi/_kF3k0vDMNA/hqdefault.jpg"/></a> | [Turning a design from desktop only to mobile friendly](https://www.youtube.com/watch?v=_kF3k0vDMNA) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9tEixRJ3GeI"><img width="140px" height="auto" alt="thumb-9tEixRJ3GeI" src="https://i.ytimg.com/vi/9tEixRJ3GeI/hqdefault.jpg"/></a> | [Dealing with Cross Browser Compatibility](https://www.youtube.com/watch?v=9tEixRJ3GeI) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wPI8CEoheSk"><img width="140px" height="auto" alt="thumb-wPI8CEoheSk" src="https://i.ytimg.com/vi/wPI8CEoheSk/hqdefault.jpg"/></a> | [Using Feature Queries to use new CSS responsibly \(and when you don't need them\)](https://www.youtube.com/watch?v=wPI8CEoheSk) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=wPI8CEoheSk"><img width="140px" height="auto" alt="thumb-wPI8CEoheSk" src="https://i.ytimg.com/vi/wPI8CEoheSk/hqdefault.jpg"></a> | [Using Feature Queries to use new CSS responsibly \(and when you don't need them\)](https://www.youtube.com/watch?v=wPI8CEoheSk) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=MNNr7TU7XcU"><img width="140px" height="auto" alt="thumb-MNNr7TU7XcU" src="https://i.ytimg.com/vi/MNNr7TU7XcU/hqdefault.jpg"></a> | [Smooth scrolling with one line of CSS](https://www.youtube.com/watch?v=MNNr7TU7XcU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=KqFAs5d3Yl8"><img width="140px" height="auto" alt="thumb-KqFAs5d3Yl8" src="https://i.ytimg.com/vi/KqFAs5d3Yl8/hqdefault.jpg"></a> | [From Design to Code // HTML &amp; CSS from scratch // Frontend Mentor](https://www.youtube.com/watch?v=KqFAs5d3Yl8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=veEqYQlfNx8"><img width="140px" height="auto" alt="thumb-veEqYQlfNx8" src="https://i.ytimg.com/vi/veEqYQlfNx8/hqdefault.jpg"></a> | [The problems with viewport units](https://www.youtube.com/watch?v=veEqYQlfNx8) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=I4gUvhG7uFU"><img width="140px" height="auto" alt="thumb-I4gUvhG7uFU" src="https://i.ytimg.com/vi/I4gUvhG7uFU/hqdefault.jpg"></a> | [The problem with percentages in CSS](https://www.youtube.com/watch?v=I4gUvhG7uFU) <br/><br/> _[Kevin Powell][yu-kevin-powell]_ |
 
-eO33Rh3GFGk
-CSS Trigonometry is surprisingly useful
-
-veEqYQlfNx8
-The problems with viewport units
-
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="ctHE8EXEoj8" title="Why I use grid over flexbox for this common layout" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="jx4FtPlDXJg" title="The thing people get wrong about flex-basis" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="vHuSz4fRM88" title="The secret to mastering CSS layouts" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="A0J-hB3kSQ4" title="Can you beat me at a CSS Battle?" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="I4gUvhG7uFU" title="The problem with percentages in CSS" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="ii-lSK2_Nu4" title="The `console.log()` of css" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="sI9p5EswxdQ" title="How is this possible with only HTML &amp; CSS? | Reacting to CSS-only art" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="6Nv0weHy7t0" title="4 ways to deal with overflowing text" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="rg7Fvvl3taU" title="Learn CSS Grid the easy way" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="CG__N4SS1Fc" title="Front-end dev reacts to amazing CSS-only Codepens" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="2B5rbsOoIUE" title="Front-end dev reacts to mind-blowing Codepens" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="vncch9-1kPE" title="You can use Emmet with CSS!" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="vQAvjof1oe4" title="Flexbox design patterns you can use in your projects" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="PMGCOVfK-8s" title="Create a pulsing animation with CSS" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="bB14uo0Tu5A" title="Custom select menu - CSS only" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="dgbFtMBOMlA" title="The `ch` unit is the most underappreciated CSS unit" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="U9VF-4euyRo" title="`min()`, `max()`, and `clamp()` are CSS magic!" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="_kF3k0vDMNA" title="Turning a design from desktop only to mobile friendly" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="9tEixRJ3GeI" title="Dealing with Cross Browser Compatibility" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="wPI8CEoheSk" title="Using Feature Queries to use new CSS responsibly (and when you don't need them)" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="wPI8CEoheSk" title="Using Feature Queries to use new CSS responsibly (and when you don't need them)" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="MNNr7TU7XcU" title="Smooth scrolling with one line of CSS" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="KqFAs5d3Yl8" title="From Design to Code // HTML &amp; CSS from scratch // Frontend Mentor" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="veEqYQlfNx8" title="The problems with viewport units" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="I4gUvhG7uFU" title="The problem with percentages in CSS" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="eO33Rh3GFGk" title="CSS Trigonometry is surprisingly useful" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="veEqYQlfNx8" title="The problems with viewport units" />
 
 :::
 
 <!-- Kevin Powell -->
 
+---
+
+## Online Tutorials
+
+[Online Tutorials][yu-oneline-tutorials]
+
+::: details 목록
+
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="2IwZ52lI2vg" title="Advanced Mini Calendar using Html CSS &amp; Javascript | Mini Project" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="TbV8mPee0tQ" title="How to Make Javascript Dynamic Calendar" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="DcpzjQ4jq-Q" title="How To Create Responsive Services Section Using Html and CSS" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="3rXD3jmpq9g" title="Animating Clip-path using CSS and Vanilla Javascript" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="fXSEQ9OxUh8" title="How to Make Responsive website using Html &amp; CSS | Responsive Glassmorphism Website" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="enBAFo2kEfE" title="How To Make Website using Html &amp; CSS | Complete Responsive Website Design Tutorial" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="4DkMKyWJlvk" title="Button With Awesome Hover Effects using Html CSS &amp; jQuery | mouseenter and mouseout events" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="4o_AzewcyQY" title="Single Element CSS iPhone Box Mockup | iPhone 12 Box Mockup using Html CSS Only" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="mAewuQPMFI8" title="Flying Rocket with Flames Animation Effects using CSS &amp; Javascript" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="HLB9d201-oY" title="How to Make Responsive Login and Registration Form | Html CSS &amp; Javascript" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="40BiK5a-Dvc" title="CSS3 `Calc()` function examples | How to use the CSS `calc()`" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="louY7uT_AW8" title="Quick CSS Ripple Animation effects Tutorial For Beginners" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="icnZSJbNsEM" title="Responsive Masonry layouts Using CSS Grid | CSS3 Grid" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="UflhknjGNAA" title="Show Hide Password Using Vanilla Javascript | CSS3 Neumorphism" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="EZqhWu8GJ6U" title="CSS Card Hover Effects | Html &amp; CSS" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="5aJTVV-rlBw" title="Pure CSS3 Dark Mode Effects For Website | CSS Only Night mode" />
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="2IwZ52lI2vg" title="Advanced Mini Calendar using Html CSS &amp; Javascript | Mini Project" />
+
+:::
+
+<!-- Online Tutorials -->
+
+---
+
+## Zero To Mastery
+
+[Zero To Mastery][yu-zero-to-mastery]
+
+::: details 목록
+
+<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="Np_MG-J9M_o" title="React Native vs Flutter, getting hired as a mobile dev + more \| AMA w/ Mo Binni" />
+<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="k0X2pLXlF-8" title="Get started in Machine Learning &amp; get hired as a Machine Learning Engineer \| AMA w/ Daniel Bourke" />
+<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="cKZEgtQUxlU" title="Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!)" />
+
+:::
+
+<!-- Zero To Mastery -->
+
+---
+
+
+
+
 <TagLinks />
 
 [yu-kevin-powell]: https://www.youtube.com/@KevinPowell
+[yu-oneline-tutorials]: https://www.youtube.com/@OnlineTutorialsYT
+[yu-zero-to-mastery]: https://www.youtube.com/@ZeroToMastery

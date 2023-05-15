@@ -85,6 +85,52 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## MyOnlineTrainingHub
+
+[MyOnlineTrainingHub][yu-my-online-training-hub]
+
+::: details 목록
+
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="VU4ncBR0PYw" title="Excel Project Management Dashboard with Dynamic Periods" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="21bXQDXSxYs" title="Top Excel Functions for Data Analysts &amp; What NOT to Waste Time Learning" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="ehyB4LuezeA" title="Hidden Excel Fill Series Tricks to Impress Your Co-workers" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="5qtSioTE2wY" title="Interactive Excel Project Management Dashboard - FREE Download" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="K74_FNnlIF8" title="How to build Interactive Excel Dashboards that Update with ONE CLICK!" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="nGDLHEpjuSc" title="Excel Productivity Hacks: Master Multi-Tasking with Game-Changing Tips for Managing Multiple Files" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="2ms9ZUJbmpg" title="Top Excel Functions for Data Analysts &amp; What NOT to Waste Time Learning" />
+
+:::
+
+<!-- MyOnlineTrainingHub -->
+
+---
+
+## Chandoo
+
+[Chandoo][yu-chandoo_]
+
+::: details 목록
+
+<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="yJum0g4qM2c" title="FREE Power Query Materclass with 5 Advanced Tips to SPEED UP your work 🚀" />
+<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="B1WWWGeFqTM" title="Top 5 Excel Functions for Finance People \(with end-to-end example\)" />
+<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="y8CXwOaMrdE" title="Impress your boss with Waffle Charts in Excel - Easy Recipe" />
+<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="2lIxjT-0aPo" title="How to split Excel data into many sheets - VBA coding project" />
+<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="2pn47abZCWU" title="10 Excel formatting tricks *ONLY* experts know" />
+
+:::
+
+<!-- Chandoo -->
+
+---
+
+## Misc
+
+<YoutubeItem channelName="PK: An Excel Expert" channelId="PKAnExcelExpert" id="kpLnxV3a1bE" title="Project Plan(Gantt Chart) in excel" />
+<YoutubeItem channelName="profbillbyrne" channelId="profbillbyrne" id="uTYHuKzC4GU" title="Excel Practice Exam \(Pearson myItLab\)" />
+
+<!-- [PK: An Excel Expert][yu-pk-an-excel-expert] -->
+<!-- [profbillbyrne][yu-profbillbyrne] -->
+
 
 
 <TagLinks />
@@ -92,3 +138,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 [yu-oppadu]: https://www.youtube.com/@Oppadu
 [yu-excelisfun]: https://www.youtube.com/@excelisfun
 [yu-leila-gharani]: https://www.youtube.com/@LeilaGharani
+[yu-my-online-training-hub]: https://www.youtube.com/@MyOnlineTrainingHub
+[yu-pk-an-excel-expert]: https://www.youtube.com/@PKAnExcelExpert
+[yu-chandoo_]: https://www.youtube.com/@chandoo_
+[yu-profbillbyrne]: https://www.youtube.com/@profbillbyrne

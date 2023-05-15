@@ -153,8 +153,8 @@ code --install-extension wallabyjs.quokka-vscode && REM Quokka.js
 code --install-extension humao.rest-client && REM REST Client
 code --install-extension SimonSiefke.svg-preview && REM Svg Preview
 code --install-extension mikestead.dotenv && REM DotENV
-code --install-extension sidthesloth.html5-boilerplate && HTML Boilerplate
-code --install-extension yzhang.markdown-all-in-one && Markdown All in One
+code --install-extension sidthesloth.html5-boilerplate && REM HTML Boilerplate
+code --install-extension yzhang.markdown-all-in-one && REM Markdown All in One
 ```
 
 :::

@@ -111,6 +111,8 @@ meta:
 - [casey/ord][casey/ord]: 👁‍🗨 Rare and exotic sats <GithubTags tagItems="art;rust;bitcoin" />
   - [🌐Official Site](https://ordinals.com)
 - [cedar-policy/cedar][cedar-policy/cedar]
+- [mitsuhiko/self-replace][mitsuhiko/self-replace]: Utility library that helps to implement processes that replace themselves
+
 
 <TagLinks />
 
@@ -170,3 +172,4 @@ meta:
 [Cormanz/smartgpt]: https://github.com/Cormanz/smartgpt
 [casey/ord]: https://github.com/casey/ord
 [cedar-policy/cedar]: https://github.com/cedar-policy/cedar
+[mitsuhiko/self-replace]: https://github.com/mitsuhiko/self-replace

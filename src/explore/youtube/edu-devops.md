@@ -18,6 +18,7 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 [Linux Leech][yu-linuxleech]
 
 ::: details BASH Shell tutorials for beginners
+
 <YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="sqYUYHn-HKg" title="BASH Shell commands `pwd` ( commands for linux )" />
 <YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="rWJrWWOpTkE" title="BASH Shell command `ls` ( commands for linux )" />
 <YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="L8fD7KS9fGA" title="BASH Shell commands `cd` ( commands for linux )" />
@@ -212,7 +213,7 @@ tags: ["education", "youtube", "programming", "os", "linux", "kali-linux", "ubun
 
 [Software Tool Time][yu-software-tool-time]
 
-::: details
+::: details [SWTT] Bash 기초편
 
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="6cj3oy0RunE" title="[SWTT] Bash 기초편 01 - linux utility 명령과 차이, 기호와 문법" />
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="Y5-1vJwqpN8" title="[SWTT] Bash 기초편 03 - Expansion and Globbing" />

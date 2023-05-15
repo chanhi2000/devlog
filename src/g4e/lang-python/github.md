@@ -26,7 +26,7 @@ meta:
 
 - [OpenBapul/hml-equation-parser][OpenBapul/hml-equation-parser]
   - [🌐Official Site](https://pypi.python.org/pypi/hml_equation_parser)
-- [public-apis/public-apis][public-apis/public-apis]: A collective list of free APIs
+- [public-apis/public-apis][public-apis/public-apis]: A collective list of free APIs <GithubTags tagItems="api;lists;open-source;list;development;public;resources;dataset;free;software;apis;public-api;public-apis" />
   - [🌐Official Site](http://public-apis.org)
 - [microsoft/unilm][microsoft/unilm]: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
   - [🌐Official Site](https://aka.ms/nlpagi)
@@ -178,7 +178,7 @@ meta:
 - [GammaTauAI/reflexion-human-eval][GammaTauAI/reflexion-human-eval]: An implementation of a Reflexion agent for SOTA Human-Eval Python results.
 - [THUDM/ChatGLM-6B][THUDM/ChatGLM-6B]: ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model
 - [yoheinakajima/babyagi][yoheinakajima/babyagi]
-- [e2b-dev/e2b][e2b-dev/e2b]: e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b][e2b-dev/e2b]: e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work. <GithubTags tagItems="react;nodejs;python;development;typescript;ai;nextjs;ide;devtools;openai;software;gpt;firecracker;coding-editor;gpt-4;llm;langchain" />
   - [🌐Official Site](https://e2b.dev)
 - [emcf/engshell][emcf/engshell]: An English-language shell for any OS, powered by LLMs
 - [project-baize/baize-chatbot][project-baize/baize-chatbot]: Let ChatGPT teach your own chatbot in hours with a single GPU!
@@ -365,6 +365,18 @@ meta:
 - [Bing-su/adetailer][Bing-su/adetailer]: Auto detecting, masking and inpainting with detection model. <GithubTags tagItems="sd-webui;stable-diffusion-webui;stable-diffusion-webui-plugin" />
 - [acheong08/Bard][acheong08/Bard]: Reverse engineering of Google's Bard API <GithubTags tagItems="google;chatbot;reverse-engineering;gpt;google-bard" />
 - [ulrischa/badger_server_display][ulrischa/badger_server_display]: Run Server on Pimoroni Badger 2040 w to display Text
+- [csunny/DB-GPT][csunny/DB-GPT]: Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security <GithubTags tagItems="security;database;private;vicuna;gpt-4;langchain" />
+- [PrefectHQ/marvin][PrefectHQ/marvin]: A batteries-included library for building AI-powered software <GithubTags tagItems="python;bot;ai;openai;chatbots;gpt;llm;ai-functions" />
+  - [🌐Official Site](https://askmarvin.ai)
+- [StanGirard/quivr][StanGirard/quivr]: Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it <GithubTags tagItems="audio;chat;pdf;csv;embeddings;obsidian;whisper;second-brain;generativeai;chatgpt;vectorstore" />
+  - [🌐Official Site](https://quivr.app)
+- [eth-sri/lmql][eth-sri/lmql]: A query language for programming (large) language models. <GithubTags tagItems="programming-language;language-model;huggingface;gpt-3;chatgpt" />
+  - [🌐Official Site](https://lmql.ai)
+- [hat-open/hat-syslog][hat-open/hat-syslog]: Syslog Server and tools <GithubTags tagItems="logging;syslog" />
+  - [🌐Official Site](https://hat-syslog.hat-open.com)
+- [s-JoL/Open-Llama][s-JoL/Open-Llama]: The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF.
+  - [🌐Official Site](https://huggingface.co/s-JoL/Open-Llama-V2)
+- [jtsang4/claude-to-chatgpt][jtsang4/claude-to-chatgpt]: This project converts the API of Anthropic's Claude model to the OpenAI Chat API format. <GithubTags tagItems="openai;claude;chatgpt;anthropic;claude-ai" />
 
 <!-- Python -->
 
@@ -412,8 +424,9 @@ meta:
   - [🌐Official Site](https://nbdev.fast.ai)
 - [invoke-ai/InvokeAI][invoke-ai/InvokeAI]: InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. <GithubTags tagItems="windows;macos;linux;artificial-intelligence;generative-art;image-generation;inpainting;img2img;ai-art;outpainting;txt2img;latent-diffusion;stable-diffusion" />
   - [🌐Official Site](https://invoke-ai.github.io/InvokeAI)
-
-
+- [dsdanielpark/Bard-API][dsdanielpark/Bard-API]: The python package that returns response of Google Bard through API. <GithubTags tagItems="nlp;api;google;chatbot;google-maps-api;bard;ai-api;llm;google-bard;google-bard-python;bard-api;googlebard;google-bard-api" />
+  - [🌐Official Site](https://pypi.org/project/bardapi)
+- [microsoft/guidance][microsoft/guidance]: A guidance language for controlling large language models.
 
 <!-- Jupyter Notebook -->
 
@@ -669,6 +682,13 @@ meta:
 [Bing-su/adetailer]: https://github.com/Bing-su/adetailer
 [acheong08/Bard]: https://github.com/acheong08/Bard
 [ulrischa/badger_server_display]: https://github.com/ulrischa/badger_server_display
+[csunny/DB-GPT]: https://github.com/csunny/DB-GPT
+[PrefectHQ/marvin]: https://github.com/PrefectHQ/marvin
+[StanGirard/quivr]: https://github.com/StanGirard/quivr
+[eth-sri/lmql]: https://github.com/eth-sri/lmql
+[hat-open/hat-syslog]: https://github.com/hat-open/hat-syslog
+[s-JoL/Open-Llama]: https://github.com/s-JoL/Open-Llama
+[jtsang4/claude-to-chatgpt]: https://github.com/jtsang4/claude-to-chatgpt
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -703,3 +723,5 @@ meta:
 [Azure/Azure-Sentinel]: https://github.com/Azure/Azure-Sentinel
 [fastai/nbdev]: https://github.com/fastai/nbdev
 [invoke-ai/InvokeAI]: https://github.com/invoke-ai/InvokeAI
+[dsdanielpark/Bard-API]: https://github.com/dsdanielpark/Bard-API'
+[microsoft/guidance]: https://github.com/microsoft/guidance

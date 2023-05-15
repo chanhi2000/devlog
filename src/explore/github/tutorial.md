@@ -219,7 +219,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ## Machine Learning
 
-- [DataTalksClub/mlops-zoomcamp][DataTalksClub/mlops-zoomcamp]: Free MLOps course from DataTalks.Club
+- [DataTalksClub/mlops-zoomcamp][DataTalksClub/mlops-zoomcamp]: Free MLOps course from DataTalks.Club <GithubTags tagItems="machine-learning;model-deployment;mlops;model-monitoring;workflow-orchestration" />
 - [curiousily/Getting-Things-Done-with-Pytorch][curiousily/Getting-Things-Done-with-Pytorch]: Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with …   
   - [🌐Official Site](https://www.curiousily.com)
 - [graykode/nlp-tutorial][graykode/nlp-tutorial]: Natural Language Processing Tutorial for Deep Learning Researchers
@@ -260,7 +260,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [norvig/paip-lisp][norvig/paip-lisp]: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
   - [🌐Official Site](https://norvig.github.io/paip-lisp)
 - [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling][l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling]: Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.
-
+- [Mr-xn/BLACKHAT_Asia2023][Mr-xn/BLACKHAT_Asia2023]: Black Hat Asia 2023 PDF Public
 
 
 <!-- CompSci / Programming Basics -->
@@ -389,3 +389,4 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [pkivolowitz/asm_book]: https://github.com/pkivolowitz/asm_book
 [norvig/paip-lisp]: https://github.com/norvig/paip-lisp
 [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling]: https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling
+[Mr-xn/BLACKHAT_Asia2023]: https://github.com/Mr-xn/BLACKHAT_Asia2023

@@ -136,7 +136,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 <YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="F5B-CxJTKlg" title="Full Guide to Develop a Website with Kotlin and Jetpack Compose" />
 <YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="4uh-TWfs2dE" title="Build a Website from Scratch with Kotlin and Jetpack Compose | Online Course" />
 <YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="ZJJx8tLX89A" title="Everything you need to know about Dependency Injection" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="uO6igFsa5y0" title="Single/Multiple Permission Request with Jetpack Compose \| Android Studio Tutorial" />
+<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="uO6igFsa5y0" title="Single/Multiple Permission Request with Jetpack Compose | Android Studio Tutorial" />
 
 :::
 
@@ -314,6 +314,27 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Ryan Michael Kay
+
+[Ryan Michael Kay][yu-wise-ass]
+
+::: details 목록
+
+<YoutubeItem channelName="Ryan Michael Kay" channelId="wiseAss" id="A8-HKkgfZS8" title="#kotlin #kmm Multiplatform Live Coding w/ Android, #JetpackCompose: Desktop SqlDelight Database" />
+<YoutubeItem channelName="Ryan Michael Kay" channelId="wiseAss" id="KlQwBUBy7h8" title="ANDROID EASY HILT Implementation with Retrofit2, Room, ViewModel(MVVM), RecyclerView in Kotlin" />
+<YoutubeItem channelName="Ryan Michael Kay" channelId="wiseAss" id="8cppWH8htFo" title="Creating A Programming Language W/ #Kotlin: Recursive Descent Parser W/ TDD Part 4" />
+<YoutubeItem channelName="Ryan Michael Kay" channelId="wiseAss" id="0qW9XSjUJn8" title="Let's Build An Android App In Kotlin: Validator, Calculator, Background Thread Coroutine Context" />
+<YoutubeItem channelName="Ryan Michael Kay" channelId="wiseAss" id="3zUPdh_ojwQ" title="Let's Build An Android App In Kotlin: Presentation Logic W/ Test Driven Development" />
+<YoutubeItem channelName="Ryan Michael Kay" channelId="wiseAss" id="LCOKWgHdBvE" title="Let's Build a Room Database App | Room, ViewModel, LiveData, Dagger 2, MVVM Architecture" />
+<YoutubeItem channelName="Ryan Michael Kay" channelId="wiseAss" id="PEWJV_xvRI4" title="Let's Build An Uber Clone on iOS and Android w/ KMM | Reactive Flow UI, Stream SDK Channels" />
+
+:::
+
+<!-- Ryan Michael Kay -->
+
+---
+
+
 ## Master Coding
 
 [Master Coding][yu-master-coding]
@@ -396,8 +417,8 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ::: details 목록
 
-| ❌ | <a href="https://www.youtube.com/watch?v=xIHz0C5qt-Q"><img width="140px" height="auto" alt="thumb-xIHz0C5qt-Q" src="https://i.ytimg.com/vi/xIHz0C5qt-Q/hqdefault.jpg"></a> | [Retrofit + Kotlin Coroutines \(Ecommerce #32\)](https://www.youtube.com/watch?v=xIHz0C5qt-Q) <br/><br/> _[DJ Malone][yu-dj-malone]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=3weiK_qKuSI"><img width="140px" height="auto" alt="thumb-3weiK_qKuSI" src="https://i.ytimg.com/vi/3weiK_qKuSI/hqdefault.jpg"></a> | [Android Test Driven Development Tutorial](https://www.youtube.com/watch?v=3weiK_qKuSI) <br/><br/> _[DJ Malone][yu-dj-malone]_ |
+<YoutubeItem channelName="DJ Malone" channelId="DanielMalone" id="?v=xIHz0C5q" title="Retrofit + Kotlin Coroutines (Ecommerce #" />
+<YoutubeItem channelName="DJ Malone" channelId="DanielMalone" id=".com/watch?" title="Android Test Drive" />
 
 
 :::
@@ -412,7 +433,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Coding With Tea" channelId="CodingwithT" id="WSJHAsnot54" title="Create React native video Player \| React Native Video Player"/>
+<YoutubeItem channelName="Coding With Tea" channelId="CodingwithT" id="WSJHAsnot54" title="Create React native video Player | React Native Video Player"/>
 <YoutubeItem channelName="Coding With Tea" channelId="CodingwithT" id="n_W99oFIF8w" title="Onboarding Screen Android Studio  - Animation in Android Studio - Part 2- Sizzling Bites"/>
 
 :::
@@ -421,8 +442,20 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Sarim Khan
 
+[Sarim Khan][yu-sarim-khan]
 
+::: details 목록
+
+<YoutubeItem channelName="Sarim Khan" channelId="sarimLife" id="XmvkNIRdqBQ" title="Android Testing\(Espresso\) Part 1" />
+<YoutubeItem channelName="Sarim Khan" channelId="sarimLife" id="toEiAPyuTvI" title="Android CryptoCurrency App part 4 \(Dagger,Kotlin,RxAndroid,MVVM\)" />
+
+:::
+
+<!-- Sarim Khan -->
+
+---
 
 ## The Android Programmer
 
@@ -450,10 +483,13 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 [yu-coding-w-mitch]: https://www.youtube.com/@codingwithmitch
 [yu-simplified-coding]: https://www.youtube.com/@SimplifiedCoding
 [yu-delaroy-studios]: https://www.youtube.com/@DelaroyStudios
+[yu-wise-ass]: https://www.youtube.com/@wiseAss
 [yu-master-coding]: https://www.youtube.com/@MasterCodingTeam
 [yu-douglas-schmidt]: https://www.youtube.com/@DouglasSchmidt
 [yu-jerry-banfield]: https://www.youtube.com/@JerryBanfield
 [yu-aws-rh]: https://www.youtube.com/@AwsRh
 [yu-eddydn71]: https://www.youtube.com/@eddydn71
+[yu-dj-malone]: https://www.youtube.com/@DanielMalone
 [yu-coding-w-tea]: https://www.youtube.com/@CodingwithT
+[yu-sarim-khan]: https://www.youtube.com/@sarimLife
 [yu-theandroidprogrammer]: https://www.youtube.com/@theandroidprogrammer

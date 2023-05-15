@@ -121,7 +121,7 @@ meta:
 [Tech Primers][yu-tech-primers]
 
 ::: details 목록
-
+<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="K0uMsO7Vrgg" title="Spring Boot Server Sent Events Example | Unidirectional Streams | Tech Primers" />
 <YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="om-bvBu3-dU" title="Load Shedding in Kubernetes | Readiness Probes | Tech Primers" />
 <YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="KStr5ZspNvM" title="Session Management using Spring Session Redis in Spring Boot | Tech Primers" />
 <YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="lJ_XAol-OKM" title="Jaeger Tracing with Spring Boot | Distributed Log Tracing in Spring Boot | Tech Primers" />
@@ -969,6 +969,25 @@ meta:
 <!-- in28minutes - Cloud Made Easy -->
 
 ---
+
+## Priya Talks Tech
+
+[Priya Talks Tech][yu-priyatalkstech6534]
+
+::: details 목록
+
+<YoutubeItem channelName="Priya Talks Tech" channelId="priyatalkstech6534" id="JNpB3RVWtrY" title="Spring Security JDBC Authentication with Password Encryption" />
+<YoutubeItem channelName="Priya Talks Tech" channelId="priyatalkstech6534" id="XO-OdIXNU_o" title="Spring Security using Spring Data JPA and Spring Boot" />
+
+:::
+
+<!-- Priya Talks Tech -->
+
+---
+
+
+
+
 
 ## Misc.
 

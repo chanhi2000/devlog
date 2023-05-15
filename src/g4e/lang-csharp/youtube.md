@@ -71,6 +71,34 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 ---
 
+## Les Jackson
+
+[Les Jackson][yu-binarythistle]
+
+::: details 목록
+
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="es8A7aw6Y5E" title="Publisher Subscriber Pattern - Build your own .NET Message Broker" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="5YB49OEmbbE" title=".NET 6 Minimal API Full Build" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="agIJTnpfFGA" title="Blazor API Client using REST &amp; GraphQL APIs - Full Course" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="HuN94qNwQmM" title="GraphQL API with .NET 5 and Hot Chocolate" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="UsoH5cqE1OA" title="Build an API Gateway with Envoy and use with .NET Core APIs" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="lcaDDxJv260" title="Run ASP.NET Core 3.1 Apps in Docker with HTTPS." />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="ycVgXe6v1VQ" title="Asp.Net Core WebSockets Vs SignalR. Which should you use? \(Full Course\)" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="f0lMGPB10bM" title="Deploy a .NET Core API with Docker \(Step-by-Step\)" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="96KHOaIe19w" title="Custom HTTPS Dev Environment using .NET Core, Kestrel &amp; certificates" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="3PyUjOmuFic" title="Secure a .NET Core API with Bearer Authentication" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="11f5KzVNQ90" title="Step by Step Tutorial - C# REST Client" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="Ff0DoAmpv6w" title="Azure DevOps: Provision API Infrastructure using Terraform - Full Course" />
+<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="fmvcAzHpsk8" title=".NET Core 3.1 MVC REST API - Full Course" />
+
+:::
+
+<!-- Les Jackson -->
+
+---
+
+
+
 ## Kim Too
 
 [Kim Too][yu-KIMTOOFLEX]
@@ -104,6 +132,24 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 <!-- PetDander Tutorials -->
 
 ---
+
+## Raw Coding
+
+[Raw Coding][yu-raw-coding]
+
+::: details 목록
+
+<YoutubeItem channelName="Raw Coding" channelId="RawCoding" id="Wv9Eh1tey1U" title="Docker Explained \| ASP.NET Core Example" />
+<YoutubeItem channelName="Raw Coding" channelId="RawCoding" id="il9gl8MH17s" title="C# Async/Await/Task Explained \(Deep Dive\)" />
+
+:::
+
+<!-- Raw Coding -->
+
+---
+
+
+
 
 ## DotNet Core Central
 
@@ -166,7 +212,9 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 [yu-frank-liu-software]: https://www.youtube.com/@FrankLiuSoftware
 [yu-i-am-tim-corey]: https://www.youtube.com/@IAmTimCorey
+[yu-binarythistle]: https://www.youtube.com/@binarythistle
 [yu-KIMTOOFLEX]: https://www.youtube.com/@KIMTOOFLEX
 [yu-pet-dander-tutorials]: https://www.youtube.com/@PetDanderTutorials
+[yu-raw-coding]: https://www.youtube.com/@RawCoding
 [yu-dotnet-core-central]: https://www.youtube.com/@DotNetCoreCentral
 [yu-dotnet]: https://www.youtube.com/@dotnet

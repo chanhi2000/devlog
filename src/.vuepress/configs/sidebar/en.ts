@@ -196,6 +196,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-git/README.md',
         '/g4e/devops-git/basics.md',
         '/g4e/devops-git/troubleshooting.md',
+        '/g4e/devops-git/troubleshooting-gitlab-ci.md',
         '/g4e/devops-git/references.md',
         '/g4e/devops-git/youtube.md',
       ]
@@ -215,6 +216,8 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-os-mac/README.md',
         '/g4e/devops-os-mac/env-setup.md',
         '/g4e/devops-os-mac/tips.md',
+        '/g4e/devops-os-mac/youtube.md',
+
       ],
     }, {
       text: '👓Windows',
@@ -465,10 +468,18 @@ export const sidebarEn: SidebarConfig = {
         '/explore/crashcourse/paul-hudson-100-days-of-swift/2.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swift/3.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swift/4.md',
+        '/explore/crashcourse/paul-hudson-100-days-of-swift/5.md',
+        '/explore/crashcourse/paul-hudson-100-days-of-swift/6.md',
         '/explore/crashcourse/paul-hudson-100-days-of-swiftui.md',
         '/explore/crashcourse/paul-hudson-swiftui-by-example.md',
         '/explore/crashcourse/kodeco-kotlin-android.md',
-        '/explore/crashcourse/kodeco-swift-ios.md',
+        '/explore/crashcourse/kodeco-swift.md',
+        '/explore/crashcourse/freecodecamp-gitlab-ci.md',
+        '/explore/crashcourse/freecodecamp-gitlab-ci/1.md',
+        '/explore/crashcourse/freecodecamp-gitlab-ci/2.md',
+        '/explore/crashcourse/freecodecamp-gitlab-ci/3.md',
+        '/explore/crashcourse/freecodecamp-gitlab-ci/4.md',
+        '/explore/crashcourse/freecodecamp-gitlab-ci/5.md',
       ]
     }, {
       text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",

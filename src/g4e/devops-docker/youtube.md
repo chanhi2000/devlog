@@ -84,6 +84,58 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <!-- NetworkChuck -->
 
 ---
+
+## DB Tech
+
+[DB Tech][yu-db-tech]
+
+::: details 목록
+
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6BzPmbgFQCo" title="Kasm Workspaces: Easy Installation! (Episode 2)" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6O_REElI1hs" title="OpenProject - Project Management Deployed QUICKLY!" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="da4ot6AIRDU" title="Monitor Your Service Uptime with Uptime Kuma" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="o9SLve4wBPY" title="Your New Docker Homepage" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="YNOP-Fjt_E8" title="Build Internal Tools in Docker with Appsmith" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="rWwNeZCOPJA" title="Self-Hosted File Sharing Made EASY with Pingvin Share" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="X8HrJZTYOQU" title="THIS is the Self-Hosted Link Shortener YOU Should Be Using!" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="QwfJZ2sUDUE" title="HomeBox: Your Home Inventory Simplified" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="YxcHxsZHh9A" title="Pastebin Clone in Docker with Lenpaste" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="2DFwWKp0nVo" title="Umbrel: A Self-Hosted Server With Crypto and BlockChain Tech" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="Vhk7_AgnCVI" title="Host Your Own Event Meet Up Scheduler with Rallly \(Yes—with 3 Ls\)" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="22dyDosZ9Sk" title="Dozzle: Docker Container Log Viewer" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="-ttZjGBkLL8" title="Export Docker Container Settings as Docker Compose Stack" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="OoTMoKtSOaI" title="Wallabag - Save Web Pages for Later on Docker" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6gwxIW-Nfms" title="Docker Link Shortener: Polr" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="SwCuUbz4h2g" title="OpenMediaVault Recovery - OMV First Aid" />
+
+:::
+
+<!-- DB Tech -->
+
+---
+
+## Elton Stoneman
+
+[Elton Stoneman][yu-elton-stoneman]
+
+::: details 목록
+
+<YoutubeItem channelName="Elton Stoneman" channelId="EltonStoneman" id="k0uwoQqHgDI" title="ECS-W1: We Need to Talk About Windows Containers" />
+<YoutubeItem channelName="Elton Stoneman" channelId="EltonStoneman" id="_9SWydfySsQ" title="DIAMOL 18: Writing and managing application logs with Docker" />
+<YoutubeItem channelName="Elton Stoneman" channelId="EltonStoneman" id="smLgvYWr9iQ" title="Docker 101  &amp; Workshop" />
+<YoutubeItem channelName="Elton Stoneman" channelId="EltonStoneman" id="KC4Ad1DS8xU" title="Docker Swarm Mode Walkthrough" />
+<YoutubeItem channelName="Elton Stoneman" channelId="EltonStoneman" id="N7SG2wEyQtM" title="Windows Containers and Docker: 101" />
+
+:::
+
+<!-- Elton Stoneman -->
+
+---
+
+
+
+
+
 ## VirtualizationHowto
 
 [VirtualizationHowto][yu-virtualization-how-to]
@@ -98,6 +150,44 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <!-- VirtualizationHowto -->
 
 ---
+
+## Bitovi
+
+[Bitovi][yu-bitovi]
+
+::: details 목록
+
+<YoutubeItem channelName="Bitovi" channelId="Bitovi" id="oya5LuHUCXc" title="Deploy Docker to AWS EC2 with GitHub Actions" />
+<YoutubeItem channelName="Bitovi" channelId="Bitovi" id="_rQC1wPxEUI" title="GitHub for Platform Engineering: AWS to Docker" />
+
+:::
+
+<!-- Bitovi -->
+
+---
+
+## Linode
+
+[Linode][yu-linode]
+
+::: details 목록
+
+<YoutubeItem channelName="Linode" channelId="linode" id="Vp7oMZfwyoM" title="Get Organized with Kanboard | Self-Hosted Project Management App PERFECT for Docker" />
+<YoutubeItem channelName="Linode" channelId="linode" id="CskVg8ZCbKw" title="Install and Configure GitLab From Scratch on a Linode Server | Easy and Comprehensive Tutorial" />
+<YoutubeItem channelName="Linode" channelId="linode" id="YEEG-r_pGx8" title="Build Your Own Video Streaming Platform | It's Easier Than You Might Think!" />
+<YoutubeItem channelName="Linode" channelId="linode" id="rLrISSCXiMo" title="The 21 Docker Commands Every Developer Needs to Know" />
+<YoutubeItem channelName="Linode" channelId="linode" id="uIvdzzxjdY8" title="Host Your Own Note Taking App with Trilium \| Open Source Personal Knowledge Base" />
+<YoutubeItem channelName="Linode" channelId="linode" id="CGijY_aUvNs" title="Run Terminals INSIDE Terminals \| The Screen Command on Linux" />
+<YoutubeItem channelName="Linode" channelId="linode" id="hqJdV02Zfxo" title="Easily Create Your Own Scalable Dropbox Clone With Object Storage (with up to 250 GB of storage)" />
+<YoutubeItem channelName="Linode" channelId="linode" id="oIuzm2jugu8" title="Build Internal Tools with Appsmith \| Beautiful Low-Code UI Creation" />
+
+:::
+
+<!-- Linode -->
+
+---
+
+
 
 ## Valentin Despa
 
@@ -118,6 +208,10 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 [yu-MarcelDempers]: https://www.youtube.com/@MarcelDempers
 [yu-kode-kloud]: https://www.youtube.com/@KodeKloud
 [yu-network-chuck]: https://www.youtube.com/@NetworkChuck
+[yu-db-tech]: https://www.youtube.com/@DBTechYT
+[yu-elton-stoneman]: https://www.youtube.com/@EltonStoneman
 [yu-virtualization-how-to]: https://www.youtube.com/@VirtualizationHowto
+[yu-bitovi]: https://www.youtube.com/@Bitovi
+[yu-linode]: https://www.youtube.com/@linode
 [yu-vdespa]: https://www.youtube.com/@vdespa
 
