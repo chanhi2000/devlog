@@ -267,6 +267,9 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="Xisj0FJSBIs" title="Full Stack Build: Node, Postgres, Redis, React, GraphQL/Apollo" />
+<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="5FJWQdjzJKQ" title="Code a screen in Expo (React Native) - Full Stack Build Series" />
+<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="A1Sp5c97TYU" title="Yarn to PNPM - How to Switch" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="KrIOY1tcfmQ" title="React Native Charts on Web, iOS, &amp; Android - Full Stack Build Ep6" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="MW2o0Xz12c " title="Create GraphQL Schema &amp; Resolver - Full Stack Build Ep2" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="hGYNW8-_c3U" title="Deploy to Production - Node, Postgres, Redis, React - with Render" />
@@ -418,6 +421,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="wm5gMKuwSYk" title="Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework" />
 <YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="dyFVwXROzZk" title="Build and Deploy 3 Modern React API Applications in 8 Hours - Full Course | RapidAPI" />
 <YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="F627pKNUCVQ" title="Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course" />
 <YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="C9ctoK4M9Bk" title="Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course" />
@@ -527,6 +531,10 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="shWEfRlmb6g" title="I built a fullstack PaLM AI app in just 2 minutes" />
+<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="0fONene3OIA" title="The ultimate guide to web performance" />
+<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="O94ESaJtHtM" title="Next.js Server Actions...  5 awesome things you can do" />
+<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="qo_fUjb02ns" title="Industrial-scale Web Scraping with AI &amp; Proxy Networks" />
 <YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="ZZIR1NGwy-s" title="Dramatically improve website speed with Partytown" />
 <YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="UbOaAtHWidc" title="The easiest realtime app I’ve ever built" />
 <YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="TGe3pS5LqEw" title="How to make Eyeballs that Follow You Around" />
@@ -1197,6 +1205,44 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Hitesh Choudhary
+
+[Hitesh Choudhary][yu-hitesh-choudhary]
+
+::: details 목록
+
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="wxSRHthSXzc" title="Do we really need firebase in 2023" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="D_5T6KMTRb8" title="Github Codespace crash course" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="rr9cI4u1_88" title="A practical guide on Docker with projects \| Docker Course" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="0eMU23VyzR8" title="How to build docker image for python flask app" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="hduwjJ043Mg" title="Save your code snippets in this open source tool" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="jkngyZjRETs" title="Appwrite crash course \| Open Source Backend as a Service \| Reactjs" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="BAZ-tJOYhlA" title="socket io crash course \| easy way" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="yviJikU4gwk" title="useRef hook in reactjs \| Easiest way" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="oDasd7PfwbY" title="Start and delete a container \| #Docker" />
+<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="xgSHYb85tLQ" title="Fun assignment to create function in javascript" />
+
+:::
+
+<!-- Hitesh Choudhary -->
+
+---
+
+## Paris Nakita Kejser
+
+[Paris Nakita Kejser][yu-pnk]
+
+::: details 목록
+
+<YoutubeItem channelName="Paris Nakita Kejser" channelId="pnk" id="D4fArtT4YIw" title="Docker Tutorial - setup php-fpm environment from scratch in a docker container" />
+<YoutubeItem channelName="Paris Nakita Kejser" channelId="pnk" id="pRaAXgvvuC0" title="Vuetify shopping cart - Shopping cart search product -  vuetify with vuejs" />
+
+:::
+
+<!-- Paris Nakita Kejser -->
+
+---
+
 ## Tricknology
 
 [Tricknology][yu-tricknology]
@@ -1231,6 +1277,43 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## CodingTheSmartWay.com
+
+[CodingTheSmartWay.com][yu-coding-the-smart-way]
+
+::: details 목록
+
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="ifY6GfFhzbk" title="Full Stack Ethereum Development - #3 - Installing And Setting Up MetaMask" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="sRaBKY_dDGg" title="Building A Blog With Eleventy And Netlify CMS - Part 3: Managing Blog Content With Netlify CMS" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="Cxbvi4mL8nE" title="Meteor &amp; Svelte - Building Full-Stack Reactive Web Applications - 06: User Accounts" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="j_5-LISy9Qg" title="Tailwind CSS For Absolute Beginners" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="4RkMAt8-u8g" title="NestJS For Absolute Beginners" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="G24n-WERqsM" title="Apollo Server 2 Introduction" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="hS-czwYyTpo" title="Docker - Beginner's Guide - Getting Started With Containerization - Part 2: Services" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="MnDT1aB39hQ" title="Docker - Beginner's Guide - Getting Started With Containerization - Part 1: Images &amp; Containers" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="i-Jk0Qfh-gk" title="Vue.js 2 State Management With Vuex - Introduction" />
+
+:::
+
+<!-- CodingTheSmartWay.com -->
+
+---
+
+## AsmrProg
+
+[AsmrProg][yu-asmr-prog]
+
+::: details 목록
+
+<YoutubeItem channelName="AsmrProg" channelId="AsmrProg" id="825u2Puaej0" title="ASMR Programming - JavaScript Password Generator - No Talking" />
+<YoutubeItem channelName="AsmrProg" channelId="AsmrProg" id="gRyvG7PZ4m0" title="ASMR Programming - JavaScript Text Editor - No Talking" />
+<YoutubeItem channelName="AsmrProg" channelId="AsmrProg" id="W5LPcpIRLzs" title="ASMR Programming - Coding IOS \(IPhone\) Dynamic Music - No Talking" />
+
+:::
+
+<!-- AsmrProg -->
+
+---
 
 ## Gatsby
 
@@ -1571,7 +1654,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Huntabyte
 
-[Huntabyte][yu-huntabyte]
+[![Huntabyte](https://yt3.googleusercontent.com/P8StLEerDNTmTaWPySOO2qfW2x-eueJ7PyJg16V3mRQGv0Ynkj6PAJKay-d7kgTmV0CpciHpMHI=s176-c-k-c0x00ffffff-no-rj =x150)][yu-huntabyte]
 
 ::: details 목록
 
@@ -1587,7 +1670,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Google Chrome Developers
 
-[Google Chrome Developers][yu-chrome-dev]
+[![Google Chrome Developers](https://yt3.googleusercontent.com/ytc/AGIKgqPg8b1LUBCRuEMQFVXkqz0OcNERWyA0bbEJi_cR3Q=s176-c-k-c0x00ffffff-no-rj =x150)][yu-chrome-dev]
 
 ::: details 목록
 
@@ -1606,7 +1689,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## 드림코딩
 
-[드림코딩][yu-dream-coding]
+[![드림코딩](https://yt3.googleusercontent.com/ytc/AGIKgqOdLzfsCbIOLQk3lEcXnGHW7G7dUW__Lc43HH9MEA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-dream-coding]
 
 ::: details 목록
 
@@ -1621,7 +1704,26 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Theo - t3․gg
 
+[![Theo - t3․gg](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s176-c-k-c0x00ffffff-no-rj =x150)][yu-t3-dot-gg]
+
+::: details 목록
+
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="YkOSUVzOAA4" title="T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma &amp; More)" />
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="RUwTvCyeohQ" title="Vercel STORAGE??! SQL, KV, Files and more" />
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="UnDw3_7_9gc" title="We Fixed Environment Variables" />
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="kUs-fH1k-aM" title="Do you REALLY need SSR?" />
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="LMUKsAf2Rfs" title="Killing ReactJS - A Guide For Hopeful Frameworks" />
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="9RM2aErJs-s" title="TypeScript Just Got SO MUCH BETTER" />
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="a8wCny94-_U" title="I Read Twitter's Code So You Don't Have To" />
+<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="kK-iR6g-V1g" title="The REAL Cost Of AWS" />
+
+:::
+
+<!-- Theo - t3․gg -->
+
+---
 
 
 ## Misc
@@ -1683,8 +1785,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-code-w-antonio]: https://www.youtube.com/@codewithantonio
 [yu-easy-tutorials]: https://www.youtube.com/@EasyTutorialsVideo
 [yu-coding-garden]: https://www.youtube.com/@CodingGarden
+[yu-hitesh-choudhary]: https://www.youtube.com/@HiteshChoudharydotcom
+[yu-pnk]: https://www.youtube.com/@pnk
 [yu-tricknology]: https://www.youtube.com/@Tricknology
+[yu-coding-the-smart-way]: https://www.youtube.com/@codingthesmartway
 [yu-traversy-media]: https://www.youtube.com/@TraversyMedia
+[yu-asmr-prog]: https://www.youtube.com/@AsmrProg
 [yu-gatsby-js]: https://www.youtube.com/@Gatsbyjs
 [yu-apollo-graphql]: https://www.youtube.com/@ApolloGraphQL
 [yu-vue-conf-toronto]: https://www.youtube.com/@VueConfToronto
@@ -1706,6 +1812,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-huntabyte]: https://www.youtube.com/@Huntabyte
 [yu-chrome-devs]: https://www.youtube.com/@ChromeDevs
 [yu-dream-coding]: https://www.youtube.com/@dream-coding
+[yu-t3-dot-gg]: https://www.youtube.com/@t3dotgg
 <!-- Misc -->
 [yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
 [yu-danielbark]: https://www.youtube.com/@danielbark

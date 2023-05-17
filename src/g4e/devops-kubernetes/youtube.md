@@ -95,11 +95,6 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
-
-
-
-
-
 ## vBrownBag
 
 [vBrownBag][yu-vBrownBag]
@@ -117,7 +112,19 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## ByteByteGo
 
+[ByteByteGo][yu-byte-byte-go]
+
+::: details 목록
+
+<YoutubeItem channelName="ByteByteGo" channelId="ByteByteGo" id="TlHvYWVUZyc" title="Kubernetes Explained in 6 Minutes \| k8s Architecture" />
+
+:::
+
+<!-- ByteByteGo -->
+
+---
 
 <TagLinks />
 
@@ -126,3 +133,4 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 [yu-networknutsdotnet]: https://www.youtube.com/@networknutsdotnet
 [yu-cbtnuggets]: https://www.youtube.com/@cbtnuggets
 [yu-vBrownBag]: https://www.youtube.com/@vBrownBag
+[yu-byte-byte-go]: https://www.youtube.com/@ByteByteGo

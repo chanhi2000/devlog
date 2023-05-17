@@ -93,6 +93,10 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="90gokceSYdM" title="Material 3 Search Bar with Jetpack Compose - Easy Tutorial" />
+<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="fcTuAntvpE4" title="Animated Bottom Bar with Jetpack Compose - Easy Tutorial" />
+<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="N3t7SIlFPrQ" title="From Figma to Android Studio - Infinite Lottie Animation - Easy Tutorial" />
+<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="zA4BU4Q785o" title="Implement a Lottie Animation in Android App with Jetpack Compose - Easy Tutorial" />
 <YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="oWs57Ox_8S4" title="New Photo Picker on Android 13/API Level 33 - Backwards Compatible" />
 <YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="JflJjPxhFQo" title="SwiftUI App Intro Animation's - Walkthrough Page Animation's - Xcode 14 - SwiftUI Tutorials" />
 <YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="abthd7DOfdw" title="New Splash API for Android in 60 seconds" />
@@ -252,6 +256,18 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="zTB1O9wL8Go" title="The Java Predicate Functional Interface: Case Study ex8" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="XAaoAb79Wkk" title="Overview of Java Lambda Expressions" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="Ce09jblkpco" title="Applying Java Lambda Expressions – Case Study ex4" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="Rr5QpCZCDQA" title="Using Java Lambda Expressions Correctly &amp; Efficiently" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="hIK_E4PaSec" title="Benefits of Java Lambda Expressions" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="vtIeRMIkFgc" title="Implementing Closures with Java Lambda Expressions" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="F4HFVHBXeu8" title="Overview of Java Method References" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="MKFUEdVIZ4w" title="Applying Java Method References" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="MU00WZIl4Ws" title="Java Functional Interfaces: Overview" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="KTkQSJm1rR8" title="The Java Predicate Functional Interface" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="FEyOHhAkTE0" title="The Java Predicate Functional Interface: Case Study ex8" />
+<YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="qatIWfdeQ9E" title="Using ChatGPT to Obtain Shakespeare Quotes in a Java Spring Microservice Case Study App" />
 <YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="HG7Wd0TMF4o" title="Common Java Streams Factory Methods" />
 <YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="qBRNPTivuc0" title="Walkthrough of Assignment 1B" />
 <YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="jcrmnCLT9o4" title="C++ STL Negators" />
@@ -411,6 +427,23 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Vishal Kamboj
+
+[Vishal Kamboj][yu-vishalkamboj8955]
+
+::: details 목록
+
+<YoutubeItem channelName="Vishal Kamboj" channelId="vishalkamboj8955" id="OToRgzgDXiE" title="Test Driven Development \(Part 2\) Mockito Android Unit Test LiveData" />
+<YoutubeItem channelName="Vishal Kamboj" channelId="vishalkamboj8955" id="uX6BKcBYcfU" title="Kotlin Room Example with Androidx Recyclerview" />
+<YoutubeItem channelName="Vishal Kamboj" channelId="vishalkamboj8955" id="wWO0mA-OcZo" title="Espresso Recyclerview Test .." />
+
+:::
+
+<!-- Vishal Kamboj -->
+
+---
+
+
 ## DJ Malone
 
 [DJ Malone][yu-dj-malone]
@@ -489,6 +522,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 [yu-jerry-banfield]: https://www.youtube.com/@JerryBanfield
 [yu-aws-rh]: https://www.youtube.com/@AwsRh
 [yu-eddydn71]: https://www.youtube.com/@eddydn71
+[yu-vishalkamboj8955]: https://www.youtube.com/@vishalkamboj8955
 [yu-dj-malone]: https://www.youtube.com/@DanielMalone
 [yu-coding-w-tea]: https://www.youtube.com/@CodingwithT
 [yu-sarim-khan]: https://www.youtube.com/@sarimLife

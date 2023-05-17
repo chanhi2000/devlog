@@ -134,7 +134,7 @@ meta:
 - [cri-o/cri-o][cri-o/cri-o]: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface <GithubTags tagItems="kubernetes;oci;hacktoberfest;runc;container-runtime-interface;oci-runtime;kata-containers;k8s-sig-node" />
   - [🌐Official Site](https://cri-o.io)
 - [XTLS/Trojan-killer][XTLS/Trojan-killer]: Detect TLS in TLS.
-
+- [google/simhospital][google/simhospital]
 
 <!-- Go -->
 
@@ -207,3 +207,4 @@ meta:
 [containers/buildah]: https://github.com/containers/buildah
 [cri-o/cri-o]: https://github.com/cri-o/cri-o
 [XTLS/Trojan-killer]: https://github.com/XTLS/Trojan-killer
+[google/simhospital]: https://github.com/google/simhospital

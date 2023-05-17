@@ -17,7 +17,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ## 오빠두엑셀 | 엑셀 강의 대표채널
 
-[오빠두엑셀 | 엑셀 강의 대표채널][yu-oppadu]
+[![오빠두엑셀 | 엑셀 강의 대표채널](https://yt3.googleusercontent.com/LhSbId1mYfR-X_Osu1kWiHHZITrd12nu_bBR8mJZlRN15cePr0ySehG2N72Bl6BIw7T1eZ1P=s176-c-k-c0x00ffffff-no-rj =x150)][yu-oppadu]
 
 ::: details 목록
 
@@ -43,9 +43,35 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+
+## 공여사들
+
+[![공여사들](https://yt3.googleusercontent.com/yurCXvXQYA8Qb27bC0PRznu7azqa3u_cQH8Y5lyYHRnDYdkqbJ-6OAG8xIj7YPasbNRiERs98i8=s176-c-k-c0x00ffffff-no-rj =x150)][yu-gongysd]
+
+::: details 목록
+
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="qkEd_HVrAxg" title="직장인 엑셀, 진짜 쓸만한 단축키만 정복해보자. 일할 때 사용빈도 높은 단축키 위주로 정리함;;" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="JVpnq5NxASY" title="엑셀 일일보고서 자동화 꿀팁ㄳ #shorts" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="HmBGv51OmJU" title="피벗테이블 홍보대사 #shorts" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="k9iZmlzR7uY" title="당신의 빛나는 '일과삶💛'을 기록하세요 (2023 노션템플릿) | To-do캘린더, 만다라트계획표, 습관트래커, 라이프로드맵 등 " />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="ly3lh9iLxg4" title="[멤버십🙎‍♂️] 공여사랑 노션 뽀개기 (템플릿 개봉박두✨)" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="i2B6Ye2pLBM" title="김과장만 칼퇴하는 이유?! #shorts" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="aFlAOiBM1HA" title="자주 뜨는 엑셀 에러 해결방법 총정리 (값오류부터 알수없는 오동작까지)" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="tHj_Fm4u_Eg" title="더해서 특정 값이 되도록 하는 해찾기 (알아두면 다 쓸데가 있다능..🙄)" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="d0btiySAYmg" title="보고장표의 공간을 아껴주는 엑셀 복합차트 그리기(꺾은선+막대그래프)" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="d4KtuGvSYJA" title="직장인 문서관리 끝판왕, 폴더정리 팁(폴더관리방법/파일분류/네이밍규칙/버전관리)" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="JdVuBqHqeos" title="직장인 엑셀, 수식 3개랑 이 기능 하나면 웬만한 건 다 됨(진짜로;;)" />
+<YoutubeItem channelName="공여사들" channelId="gongysd" id="czJ1Nw6MYco" title="이보다 빠르고 간편할 수 있을까? 자료정리는 이렇게 하세요" />
+
+:::
+
+<!-- 공여사들 -->
+
+---
+
 ## ExcelIsFun
 
-[ExcelIsFun][yu-excelisfun]
+[![ExcelIsFun](https://yt3.googleusercontent.com/ytc/AGIKgqO4Im6jmd9hF0ayPmQwyhsd2M4OvCUGKoKp56RZjQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-excelisfun]
 
 ::: details 목록
 
@@ -64,7 +90,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ## Leila Gharani
 
-[Leila Gharani][yu-leila-gharani]
+[![Leila Gharani](https://yt3.googleusercontent.com/ytc/AGIKgqNax5co0R9i3w_wk8Dpz9fVn3j-zWu55nFXkZRj7g=s176-c-k-c0x00ffffff-no-rj =x150)][yu-leila-gharani]
 
 ::: details 목록
 
@@ -87,7 +113,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ## MyOnlineTrainingHub
 
-[MyOnlineTrainingHub][yu-my-online-training-hub]
+[![MyOnlineTrainingHub](https://yt3.googleusercontent.com/ytc/AGIKgqPShpNp8kRem_QR2hB4WbJHpHkPM-I1gL8SceOgnQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-my-online-training-hub]
 
 ::: details 목록
 
@@ -107,7 +133,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ## Chandoo
 
-[Chandoo][yu-chandoo_]
+[![Chandoo](https://yt3.googleusercontent.com/ytc/AGIKgqPihtxi1BUVntyiUyp_5UYm8yzgNHjzQdYBykua=s176-c-k-c0x00ffffff-no-rj =x150)][yu-chandoo_]
 
 ::: details 목록
 
@@ -136,6 +162,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <TagLinks />
 
 [yu-oppadu]: https://www.youtube.com/@Oppadu
+[yu-gongysd]: https://www.youtube.com/@gongysd
 [yu-excelisfun]: https://www.youtube.com/@excelisfun
 [yu-leila-gharani]: https://www.youtube.com/@LeilaGharani
 [yu-my-online-training-hub]: https://www.youtube.com/@MyOnlineTrainingHub

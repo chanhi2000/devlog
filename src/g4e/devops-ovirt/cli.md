@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: 👽oVirt > CLI
+title: CLI
 description: 👽oVirt > CLI
 tags: ["bash", "sh"]
 ---

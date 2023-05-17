@@ -89,7 +89,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ## Javascript
 
-- [airbnb/javascript][airbnb/javascript]: JavaScript Style Guide
+- [airbnb/javascript][airbnb/javascript]: JavaScript Style Guide <GithubTags tagItems="javascript;styleguide;eslint;es6;style-linter;linting;style-guide;es2015;naming-conventions;arrow-functions;es2017;es2016;tc39;es2018" />
 - [goldbergyoni/nodebestpractices][goldbergyoni/nodebestpractices]: ✅ The Node.js best practices list (November 2022)
   - [🌐Official Site](https://twitter.com/nodepractices)
 - [trekhleb/javascript-algorithms][trekhleb/javascript-algorithms]: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings

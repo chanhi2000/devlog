@@ -34,6 +34,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="8sKTvf1c2zQ" title="[NHN FORWARD 22] Jenkins에서 Jenkins로의 여정" />
 <YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="uk5fRLUsBfk" title="[NHN FORWARD 22] 분산 시스템에서 데이터를 전달하는 효율적인 방법" />
 <YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="hwJet__03AA" title="[NHN FORWARD 22] 실전 Vault 도입기" />
 <YoutubeItem channelName="NHN Cloud" channelId="NHNCloud" id="PxQK9LsCrWA" title="[NHN FORWARD 22] 괴물 같이 변한 Dooray! 웹앱 정리하기" />
@@ -58,6 +59,14 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="Ztfb2yJ_hks" title="What's Next After Kubernetes" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="O2nO1CPUEKg" title="Integrate ChatGPT into Jupyter Notebooks" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="NPCq_3xjI5s" title="Talking to Kubernetes with Rust" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="EVa5Wdcgl94" title="Protocols in Python: Why You Need Them" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="vxxQCS44kPo" title="Intro to Spring Boot on Kubernetes" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="PhhiGv7yEQw" title="The Hacker's Guide to Kubernetes (live Kubernetes hacking)" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="I0kC9WI3FRc" title="Craft Product Strategy: Blueprint for Success" />
+<YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="ulZGjeFZirU" title="WASM  + Kubernetes: Beyond Containers" />
 <YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="B0MfK-rBK90" title="Lyra: Disrupting full Text Search industry with JavaScript" />
 <YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="1Nc_-8gk_mk" title="Hilla: The Modern Web Framework for Java" />
 <YoutubeItem channelName="Coding Tech" channelId="CodingTech" id="pLKE2DvPxDo" title="How to add 3D Models to Website using React Three Fiber" />
@@ -172,6 +181,11 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="Kotlin by JetBrains" channelId="Kotlin" id="ZIr_uuN8FEw" title="Modern Compose Architecture with Circuit by Zac Sweers and Kieran Elliott" />
+<YoutubeItem channelName="Kotlin by JetBrains" channelId="Kotlin" id="-tJvCOfJesk" title="Kotlin Multiplatform Mobile for Teams by Kevin Galligan" />
+<YoutubeItem channelName="Kotlin by JetBrains" channelId="Kotlin" id="USz0vxCQE9Q" title="Can't Stop The KMP Train with Josh Shin from Volley (w special guest Suzu the Cat)" />
+<YoutubeItem channelName="Kotlin by JetBrains" channelId="Kotlin" id="Vq3Mmdl1Tyg" title="Synthesising a Database with Kotlin | Talking Kotlin #122" />
+<YoutubeItem channelName="Kotlin by JetBrains" channelId="Kotlin" id="E9hZITOFCTQ" title="Visualizing MIDI sequences with Kotlin and OpenRNDR" />
 <YoutubeItem channelName="Kotlin By JetBrains" channelId="Kotlin" id="J3hDZ7PTBSk" title="Sharing Data Layer Between Android and iOS | Kotlin Multiplatform Mobile Beta" />
 <YoutubeItem channelName="Kotlin By JetBrains" channelId="Kotlin" id="faVGvVLWMmk" title="Quarkus for Kotlin Developers" />
 <YoutubeItem channelName="Kotlin By JetBrains" channelId="Kotlin" id="GcqFhoUuNNI" title="Your First Kotlin Multiplatform Mobile App FROM SCRATCH | Kotlin Tutorial" />
@@ -877,6 +891,27 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
+## Xojo
+
+[Xojo][yu-xojo-inc]
+
+::: details 목록
+
+<YoutubeItem channelName="Xojo" channelId="XojoInc" id="7dyRRhtmS8w" title="Intro to Xojo Programming - WEBINAR" />
+<YoutubeItem channelName="Xojo" channelId="XojoInc" id="DHGOloxaDV8" title="Using Apache Velocity For Generating Xojo Code From An Existing Database | XDC 2019 Session" />
+<YoutubeItem channelName="Xojo" channelId="XojoInc" id="WwVkkOi6JoY" title="iOS: Cómo crear thumbnails de páginas de cualquier PDF" />
+<YoutubeItem channelName="Xojo" channelId="XojoInc" id="JaBHU9stXOc" title="Easily Create Raspberry Pi Apps for Free with Xojo Pi" />
+<YoutubeItem channelName="Xojo" channelId="XojoInc" id="VLy2uXSam7g" title="Avoid Troubleshooting Troubles- Effective Debugging Techniques to Get You Unstuck \| XDC 2019 Session" />
+
+:::
+
+<!-- Xojo -->
+
+---
+
+
+
+
 ## Hacktivity - IT Security Festival
 
 [Hacktivity - IT Security Festival][yu-hacktivity]
@@ -964,6 +999,11 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="R40_14T6BsM" title="Keeping the SAP Core Clean with ROSA | Amazon Web Services" />
+<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="ZuD9aslmas0" title="Migrating SAP to AWS using Red Hat Ansible | Amazon Web Services" />
+<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="WUzHMpHrV7U" title="Refactoring SAP ABAP code for decoupling with Kubernetes | Amazon Web Services" />
+<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="dbR3c9Gk98o" title="RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services" />
+<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="x3f4Sno7u4g" title="Red Hat Enterprise Linux - High Availability for SAP on AWS | Amazon Web Services" />
 <YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="XWcCzqEemQQ" title="Amazon EC2 Mac Tech Tutorials - Part 3 - macOS Workers with Kubernetes and Jenkins" />
 <YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="--BfdlnIc7Y" title="Amazon EC2 Mac tech tutorials - Part 2 - How to Use Block and File Storage \| Amazon Web Services" />
 <YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="jJ4WgX2aOcs" title="Setting up a CICD Pipeline for Containers on AWS" />
@@ -1197,6 +1237,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [yu-sk-open-api]: https://www.youtube.com/@SKTelecomTdevelopers
 [yu-google-cloud-tech]: https://www.youtube.com/@googlecloudtech
 [yu-firebase]: https://www.youtube.com/@Firebase
+[yu-xojo-inc]: https://www.youtube.com/@XojoInc
 [yu-hacktivity]: https://www.youtube.com/@hacktivityconf
 [yu-ibm-korea]: https://www.youtube.com/@IBMKorea1
 [yu-bisqwit]: https://www.youtube.com/@Bisqwit

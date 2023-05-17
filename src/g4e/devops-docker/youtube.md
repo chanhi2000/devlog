@@ -19,6 +19,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
+<YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="d1ZMnV4yM1U" title="Python to Kubernetes" />
 <YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="u0qtgUMLua0" title="Storing Secrets in GIT | GitOps | Kubernetes" />
 <YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="1zcXudjSVUs" title="Understanding KUBECTL - Learning Kubernetes" />
 <YoutubeItem channelName="That DevOps Guy" channelId="MarcelDempers" id="_NtRkBipepg" title="Introduction to Service monitors for beginners | Kubernetes monitoring" />

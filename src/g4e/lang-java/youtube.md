@@ -26,6 +26,8 @@ meta:
 
 ::: details 목록
 
+<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="9i1gQ7w2V24" title="Spring Boot, React.js &amp; AWS S3 Full Stack Development" />
+<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="27t5I-9VaPQ" title="stop using H2 in memory-database RIGHT NOW" />
 <YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="9SGDpanrc8U" title="Spring Boot Tutorial | Full Course [2022] [NEW]" />
 <YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="-mwpoE0x0JQ" title="Spring Boot - Learn Spring Boot 3 (2 Hours)" />
 <YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="WxZdK7YN8Fw" title="Oh Boy Look At These API Endpoints. Seriously" />
@@ -72,6 +74,9 @@ meta:
 
 ::: details 목록
 
+<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="7TaUhLQQPDs" title="🔐 PII Data Masking Using Spring Boot | JavaTechie" />
+<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="EiMi11slVnY" title="How to install Kafka using Docker &amp; Docker Compose in any OS | Windows | MacOS | Linux | JavaTechie" />
+<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="qODoDq5_hAM" title="Spring Cloud API Gateway | JWT Security  | Pass UserDetails to Microservices | JavaTechie" />
 <YoutubeItem channelName="Java Techie" channelId="Javatechie" id="ceSqN3CWd14" title="Creating SOAP Web Service with Spring Boot | java Techie" />
 <YoutubeItem channelName="Java Techie" channelId="Javatechie" id="-6_9NxB9aVM" title="Restful Webservices using Spring with Hibernate | Java Techie" />
 <YoutubeItem channelName="Java Techie" channelId="Javatechie" id="WJg3NUwq6zU" title="Consume Soap Webservices using WebServiceTemplate | Spring Boot | Java Techie" />
@@ -850,6 +855,11 @@ meta:
 
 ::: details 목록
 
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="UgKFaUHaIsg" title="AWS 49강 - 배포v3  - (필독) 엘라스틱빈스톡 샘플코드 사용해보기" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Y_yw4c7qsxg" title="도커 입문 12강 - docker commit 이미지 굽기와 docker hub 업로드" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="PMm3_PTyVas" title="Git 협업전략1강  - 전략이해" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="YHAHxwD2ljk" title="Git 협업전략3강 - 실습 - 팀원역할" />
+<YoutubeItem channelName="메타코딩" channelId="metacoding" id="6gO5SxoRK_M" title="도커 입문 11강 - docker volumn옵션으로 폴더 연결하기" />
 <YoutubeItem channelName="메타코딩" channelId="metacoding" id="xSyIJKOGE8U" title="Junit 15강 - 서비스레이어 책 한건보기" />
 <YoutubeItem channelName="메타코딩" channelId="metacoding" id="YZVn76Rg-wI" title="Junit 13강 - 서비스레이어 책등록 완료" />
 <YoutubeItem channelName="메타코딩" channelId="metacoding" id="Q-UebfEJjE0" title="Junit 10강 - delete 테스트 버그 수정 - @Sql 이용하기" />
@@ -985,18 +995,69 @@ meta:
 
 ---
 
+## aptkode
 
+[aptkode][yu-aptkode]
 
+::: details 목록
 
+<YoutubeItem channelName="aptkode" channelId="aptkode" id="QPqUdM7d2Rs" title="Spring Boot GraphQL Tutorial - Part 6 Add custom scalar type \(LocalDate\)" />
+<YoutubeItem channelName="aptkode" channelId="aptkode" id="_oHnv81lAVA" title="Spring Boot GraphQL Tutorial - Part 5 Fragments" />
+<YoutubeItem channelName="aptkode" channelId="aptkode" id="6DejcJg-xEI" title="Unit Testing Tutorial #7 - Mocking with Mockito" />
+<YoutubeItem channelName="aptkode" channelId="aptkode" id="TZxR1jeEJ9g" title="Unit Testing Tutorial #6 - Allure Reporting with Junit5 and Jacoco" />
 
-## Misc.
+:::
+
+<!-- aptkode -->
+
+---
+
+## Java Brains
+
+[Java Brains][yu-java-brains]
+
+::: details 목록
+
+<YoutubeItem channelName="Java Brains" channelId="Java.Brains" id="9dhZ7MEtsrs" title="Using Environment object -  Microservice configuration with Spring Boot \[09\]" />
+<YoutubeItem channelName="Java Brains" channelId="Java.Brains" id="-wDUChgvYgU" title="Spring Boot + Spring Security + LDAP from scratch - Java Brains" />
+<YoutubeItem channelName="Java Brains" channelId="Java.Brains" id="TNt3GHuayXs" title="Spring Boot + Spring Security with JPA authentication and MySQL from scratch - Java Brains" />
+<YoutubeItem channelName="Java Brains" channelId="Java.Brains" id="LKvrFltAgCQ" title="How to setup JDBC authentication with Spring Security from scratch - Java Brains" />
+<YoutubeItem channelName="Java Brains" channelId="Java.Brains" id="8s9I1G4tXhA" title="How to configure Swagger in Spring Boot - Brain Bytes" />
+
+:::
+
+<!-- Java Brains -->
+
+---
+
+## Genuine Coder
+
+[Genuine Coder][yu-genuine-coder]
+
+::: details 목록
+
+<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="pdRX6CLP0tM" title="JavaFX Background Tasks \| How to make your GUI smoother, faster and snappier" />
+<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="aS4a6Gv2B-s" title="Covid-19 Status Desktop Widget \| JavaFX Tutorial 4/5 \| Finishing the Application Development" />
+<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="SsV29noHQRU" title="JavaFX Library Software From Scratch #1 : Developing UI For Adding Books" />
+<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="qjiIx9OEoz4" title="Covid-19 Status Desktop Widget \| JavaFX Tutorial 1/5 \| Introduction" />
+<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="Z1W4E2d4Yxo" title="JavaFX Scene Builder Tutorial for Beginners" />
+
+:::
+
+<!-- Genuine Coder -->
+
+---
+## Misc
 
 <YoutubeItem channelName="Code Java" channelId="CodeJava" id="QloyS2dt9T4" title="Spring Boot CRUD Tutorial with Spring MVC, Spring Data JPA, ThymeLeaf, Hibernate, MySQL" />
 <YoutubeItem channelName="Amila Jayawardhana" channelId="AmilaJayawardhana" id="ckSw8x66FQg" title="Spring MVC Sinhalen: 02 - Basic Configurations" />
 <YoutubeItem channelName="arahansa me" channelId="arahansame9320" id="C0BQplG7Epo" title="스프링 시큐리티 따라해보기" />
+<YoutubeItem channelName="Dev Landing" channelId="DevLanding" id="xjhLt73iGCc" title="Awesome Kotlin - Android Kotlin Libraries" />
+<YoutubeItem channelName="Dev Landing" channelId="DevLanding" id="t_yCZFt_Er8" title="Easily Convert XML to Anko DSL with Kotlin" />
 
 <!-- [Amila Jayawardhana][yu-amila-jayawardhana] -->
 <!-- [arahansa me][yu-arahansame9320] -->
+<!-- [Dev Landing][yu-dev-landing] -->
 
 <TagLinks />
 
@@ -1037,3 +1098,8 @@ meta:
 [yu-amila-jayawardhana]: https://www.youtube.com/@AmilaJayawardhana
 [yu-in28minutes]: https://www.youtube.com/@in28minutes
 [yu-arahansame9320]: https://www.youtube.com/@arahansame9320
+[yu-dev-landing]: https://www.youtube.com/@DevLanding
+[yu-aptkode]: https://www.youtube.com/@aptkode
+[yu-java-brains]: https://www.youtube.com/@Java.Brains
+[yu-genuine-coder]: https://www.youtube.com/@GenuineCoder
+<!-- Misc -->

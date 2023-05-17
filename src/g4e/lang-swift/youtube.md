@@ -63,6 +63,10 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="t_mypMqSXNw" title="SwiftUI Masterclass: Build To Do List App" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="Aiw7S0hMtN0" title="Lesson 12: Done Checkmarks – SwiftUI To Do List" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="3z5MTIU_N3M" title="Lesson 8: New Item View – SwiftUI To Do List" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="iWDKS-hQD8c" title="Lesson 5: Log In Functionality – SwiftUI To Do List" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="EZ5iqtjXGBE" title="Factory Design Pattern in Swift &amp; iOS (2023)" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="cL7do29XChM" title="Build FULL iOS App in Swift: Part 20 (Rick &amp; Morty | 2023) – Fetch Episodes" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="MuhUzpf2zhI" title="Build FULL iOS App in Swift: Part 19 (Rick &amp; Morty | 2023) – Character Info ViewModel" />
@@ -91,6 +95,9 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="I9v-zqrE8gI" title="SwiftUI Showcase View - Highlight App New Features - App OnBoarding - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="qZvYC0muyGw" title="SwiftUI Wallet App UI | Animation Challenge | Complex UI | Xcode 14 - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="N4LISLVTB20" title="SwiftUI Custom Video Player - YouTube Video Player - Part 2 - SwiftUI Tutorials" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="a42x0Y7p5UA" title="Lock Screen Dock on iPhone | Creating a Live Activity | ActivityKit | WidgetKit | iOS 16 | SwiftUI" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="EDaW9QybJf8" title="Flight App UI | 3D Animation | Pulse Rings | Sequence + Delay Animation | SwiftUI | Part 2" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="fkK_VzRoN6A" title="SwiftUI 3D Animated Carousel - Animation Challenge - Xcode 14 - SwiftUI Tutorials" />
@@ -289,6 +296,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="KuJ_DOj-e0M" title="Code Refactoring - The Tic-Tac-Toe App (Lesson 6)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="r-wkDztkB0E" title="Swift Functions - Lesson 6 (2023 / Xcode 14 / SwiftUI)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="PCvopT3Wnek" title="How to Build a User Interface in Xcode - Lesson 3 (2023 / Xcode 14 / SwiftUI)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="4PI04Yj3Ngs" title="How to Use Custom Fonts in SwiftUI" />
@@ -801,6 +809,53 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## Eugene Berezin
+
+[Eugene Berezin][yu-eugene-berezin]
+
+::: details 목록
+
+<YoutubeItem channelName="Eugene Berezin" channelId="EugeneIOSDev" id="dksonfFS7sE" title="New AttributedString in SwiftUI and UIKit + Materials in SwiftUI." />
+<YoutubeItem channelName="Eugene Berezin" channelId="EugeneIOSDev" id="-4Q8pnZ4u9Y" title="How to use user defaults in SwiftUI. GitHub Jobs API with SwiftUI. Lesson 5" />
+<YoutubeItem channelName="Eugene Berezin" channelId="EugeneIOSDev" id="4OZTIuyh4T0" title="Building Job View. LazyVGrid, SwiftUI tutorial lesson # 4." />
+<YoutubeItem channelName="Eugene Berezin" channelId="EugeneIOSDev" id="TleFC0F1nPY" title="GitHub Jobs API course. UIStackView, TextView, UIButton. Lesson 3." />
+<YoutubeItem channelName="Eugene Berezin" channelId="EugeneIOSDev" id="jcgoxAfb1bU" title="New iOS course!" />
+<YoutubeItem channelName="Eugene Berezin" channelId="EugeneIOSDev" id="AxvzCvT5PFk" title="XCUITest Introduction" />
+
+:::
+
+<!-- Eugene Berezin -->
+
+---
+
+## Essential Developer
+
+[Essential Developer][yu-essential-developer]
+
+::: details 목록
+
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="KSuM2BpMxxU" title="Learn how to refine your requirements like senior iOS devs \| ED Clips" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="5DqBqSc3mes" title="iOS DEV: How to test the API Service?" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="HIsECG5s4DU" title="How senior iOS devs profile and solve performance issues with Instruments.app \| Live Dev Mentoring" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="huC8ppNPZyM" title="iOS DEV: How to enable testability with Dependency Injection? \| ED Clips" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="kXokwXxTd-o" title="Developing Modular and Independently Deployable iOS app features \| iOS Dev Live Mentoring" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="TtdtbMd5-TQ" title="Scaling iOS projects &amp; Learning advanced practices alone \(TDD/CI/CD\) \| iOS Dev Live Mentoring" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="UpduAlWLliU" title="XCTest + Swift: setUp/tearDown vs Factory Methods" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8mWeUnJ3X7U" title="S02E19: Migrating the Router and iOS AppDelegate \| Professional iOS Engineering Series" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8GPWh774HUM" title="TDD: Ultimate productivity, high salary, and a remarkable career \| iOS Lead Essentials Podcast #009" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="E0_3uTdCVew" title="Decomposing Swift code into modules – Intro to modular design" />
+
+:::
+
+<!-- Essential Developer -->
+
+---
+
+
+
+
+
+
 ## Anyone Can Code
 
 [Anyone Can Code][yu-anyone-can-code]
@@ -840,12 +895,12 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Servet Gulnaroglu
 
-[Servet Gulnaroglu][yu-servlet-gulnaroglu]
+[![Servet Gulnaroglu](https://yt3.googleusercontent.com/ytc/AGIKgqMHuqovRh61MhjuUmDOfWIlp_5OBpilLQFDehS7Hg=s176-c-k-c0x00ffffff-no-rj =x150)][yu-servlet-gulnaroglu]
 
 ::: details 목록
 
 <YoutubeItem channelName="Servet Gulnaroglu" channelId="ServetGulnaroglu" id="CJF4ZNJYoSY" title="ASMR Programming - Terrain Generator - No Talking"/>
-<YoutubeItem channelName="Servet Gulnarogl" channelId="ServetGulnaroglu" id="wgBC-CUQEGs" title="ASMR Programming - MacOS Calculator - No Talking" />
+<YoutubeItem channelName="Servet Gulnaroglu" channelId="ServetGulnaroglu" id="wgBC-CUQEGs" title="ASMR Programming - MacOS Calculator - No Talking" />
 
 :::
 
@@ -853,15 +908,34 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## Scott Smith
+
+[![Scott Smith](https://yt3.googleusercontent.com/UjcMom96yK2D8QbpzA2taIwMFm6CwTJ_eFDkYjZXGLn0oaPOzvCns9x6WzsxlpAMHbv4VTmQ1Q=s176-c-k-c0x00ffffff-no-rj =x150)][yu-scott-smith]
+
+::: details 목록
+
+<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="7F6tKPkK4jA" title="SwiftUI: Custom Rows without Separators! Beta Bugs Uncut \| iOS, Swift" />
+<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="hk-bnCVgsww" title="SwiftUI: How to resize an Image — in 60 seconds \| iOS" />
+
+:::
+
+<!-- Scott Smith -->
+
+---
+
+
+
 
 
 ## Misc
 
 <!-- [Learn to Code with Karoly Nyisztor][yu-learn-to-code-w-karoly-nyisztor] -->
+<!-- [The Swift Guy][yu-the-swift-guy] -->
 
 <YoutubeItem channelName="Learn to Code with Karoly Nyisztor" channelId="SwiftProgrammingTutorials" id="LdIib-SrOmk" title="Here's How to Construct a Swift Type from a String" />
 <YoutubeItem channelName="AUC_ANZ" channelId="auc_anz" id="vWnst6Il4Lk" title="macOS Security for MacAdmins - Marcus Ransom (X World 2023)" />
 <YoutubeItem channelName="AUC_ANZ" channelId="auc_anz" id="nU4BZ9vtmTc" title="Introduction to Promises in Swift (/dev/world/2017)" />
+<YoutubeItem channelName="The Swift Guy" channelId="SebastianHenry" id="asB8PIveZsI" title="How To Read/Write To A Text File In Xcode 11 \(Swift 5\)" />
 
 ---
 
@@ -895,9 +969,13 @@ tags: ["education", "youtube", "ios", "swift"]
 [yu-kx-coding]: https://www.youtube.com/@KxCoding
 [yu-swiftui2]: https://www.youtube.com/@swiftui2
 [yu-tom-baranowicz]: https://www.youtube.com/@TomBaranowicz
+[yu-eugene-berezin]: https://www.youtube.com/@EugeneIOSDev
+[yu-essential-developer]: https://www.youtube.com/@EssentialDeveloper
 [yu-anyone-can-code]: https://www.youtube.com/@AnyoneCanCode
 [yu-appstuff5778]: https://www.youtube.com/@appstuff5778
 [yu-servlet-gulnaroglu]: https://www.youtube.com/@ServetGulnaroglu
+[yu-scott-smith]: https://www.youtube.com/@ScottSmithDev
 <!-- Misc -->
 [yu-learn-to-code-w-karoly-nyisztor]: https://www.youtube.com/@SwiftProgrammingTutorials
 [yu-auc-anz]: https://www.youtube.com/@auc_anz
+[yu-the-swift-guy]: https://www.youtube.com/@SebastianHenry

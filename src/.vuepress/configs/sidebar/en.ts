@@ -204,10 +204,10 @@ export const sidebarEn: SidebarConfig = {
       text: '🐧Linux',
       collapsible: true,
       children: [
-        '/g4e/devops-os/README.md',
-        '/g4e/devops-os/env-setup.md',
-        '/g4e/devops-os/references.md',
-        '/g4e/devops-os/youtube.md',
+        '/g4e/devops-os-linux/README.md',
+        '/g4e/devops-os-linux/env-setup.md',
+        '/g4e/devops-os-linux/references.md',
+        '/g4e/devops-os-linux/youtube.md',
       ]
     }, {
       text: '🖥️macOS',
@@ -236,7 +236,8 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/devops-ovirt/README.md',
         '/g4e/devops-ovirt/cli.md',
-        '/g4e/devops-ovirt/resources.md',
+        '/g4e/devops-ovirt/references.md',
+        '/g4e/devops-ovirt/youtube.md',
       ]
     }, {
       text: '🐋Docker',
@@ -318,6 +319,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/tool-ide-vscode/README.md',
         '/g4e/tool-ide-vscode/plugins.md',
+        '/g4e/tool-ide-vscode/settings-json.md',
         '/g4e/tool-ide-vscode/snippets.md',
         '/g4e/tool-ide-vscode/references.md',
       ],
@@ -376,13 +378,29 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-oracle/references.md',
       ]
     }, {
+      text: '📦Cubrid',
+      collapsible: true,
+      children: [
+        '/g4e/db-cubrid/README.md',
+        '/g4e/db-cubrid/query.md',
+        '/g4e/db-cubrid/docker.md',
+        '/g4e/db-cubrid/references.md',
+      ]
+    }, {
+      text: '🦏PostgreSQL',
+      collapsible: true,
+      children: [
+        '/g4e/db-postgres/README.md',
+        '/g4e/db-postgres/query.md',
+        '/g4e/db-postgres/references.md',
+      ]
+    }, {
       text: '🔎SQL',
       collapsible: true,
       children: [
         '/g4e/sql/README.md',
-        '/g4e/sql/postgresql.md',
-        '/g4e/sql/cubrid.md',
-        '/g4e/sql/oracle.md',
+        '/g4e/sql/altibase.md',
+        '/g4e/sql/mssql.md',
         '/g4e/sql/tibero.md',
       ]
     }, 
@@ -456,30 +474,6 @@ export const sidebarEn: SidebarConfig = {
         '/explore/youtube/watch-later-keynote.md',
         '/explore/youtube/edu-compsci.md',
         '/explore/youtube/edu-devops.md',
-        '/explore/youtube/edu-c+cpp.md',
-      ]
-    }, {
-      text: '🥁Crashcourse',
-      collapsible: true,
-      children: [
-        '/explore/crashcourse/README.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift/1.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift/2.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift/3.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift/4.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift/5.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swift/6.md',
-        '/explore/crashcourse/paul-hudson-100-days-of-swiftui.md',
-        '/explore/crashcourse/paul-hudson-swiftui-by-example.md',
-        '/explore/crashcourse/kodeco-kotlin-android.md',
-        '/explore/crashcourse/kodeco-swift.md',
-        '/explore/crashcourse/freecodecamp-gitlab-ci.md',
-        '/explore/crashcourse/freecodecamp-gitlab-ci/1.md',
-        '/explore/crashcourse/freecodecamp-gitlab-ci/2.md',
-        '/explore/crashcourse/freecodecamp-gitlab-ci/3.md',
-        '/explore/crashcourse/freecodecamp-gitlab-ci/4.md',
-        '/explore/crashcourse/freecodecamp-gitlab-ci/5.md',
       ]
     }, {
       text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",
@@ -543,5 +537,58 @@ export const sidebarEn: SidebarConfig = {
         '/academics/PHYS034/week01/lecture.md',
       ]
     }
-  ],
+  ], '/crashcourse/' : [
+    {
+      text: 'Intro',
+      children: [ '/crashcourse/README.md' ]
+    }, {
+      text: '🕊️100 Days of Swift',
+      collapsible: true,
+      children: [
+        '/crashcourse/paul-hudson-100-days-of-swift/README.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/1.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/2.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/3.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/4.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/5.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/6.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/7.md',
+      ]
+    }, {
+      text: '🕊️100 Days of SwiftUI',
+      collapsible: true,
+      children: [
+        '/crashcourse/paul-hudson-100-days-of-swiftui/README.md',
+      ]
+    }, {
+      text: '🕊️SwiftUI by Example',
+      collapsible: true,
+      children: [
+        '/crashcourse/paul-hudson-swiftui-by-example/README.md',
+      ]
+    }, {
+      text: '🅺Kodeco - Android & Kotlin',
+      collapsible: true,
+      children: [
+        '/crashcourse/kodeco-kotlin-android/README.md',
+      ]
+    }, {
+      text: '🕊️Kodeco - Swift',
+      collapsible: true,
+      children: [
+        '/crashcourse/kodeco-swift/README.md'
+      ]
+    }, {
+      text: '🦊freecodecamp.org - DevOps with GitLab CI',
+      collapsible: true,
+      children: [
+        '/crashcourse/freecodecamp-gitlab-ci/README.md',
+        '/crashcourse/freecodecamp-gitlab-ci/1.md',
+        '/crashcourse/freecodecamp-gitlab-ci/2.md',
+        '/crashcourse/freecodecamp-gitlab-ci/3.md',
+        '/crashcourse/freecodecamp-gitlab-ci/4.md',
+        '/crashcourse/freecodecamp-gitlab-ci/5.md',
+      ]
+    }
+  ]
 }

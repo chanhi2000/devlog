@@ -64,6 +64,9 @@ meta:
 - [jamesnet214/leagueoflegends][jamesnet214/leagueoflegends]: League of Legends client demo that made using WPF <GithubTags tagItems="csharp;dotnet;wpf" />
 - [PowerShell/PowerShell][PowerShell/PowerShell]: PowerShell for every system! <GithubTags tagItems="windows;macos;linux;shell;command-line;powershell;netcore;hacktoberfest" />
   - [🌐Official Site](https://microsoft.com/PowerShell)
+- [dogu-team/gamium][dogu-team/gamium]: Gamium provides the ability to script the behavior of game users <GithubTags tagItems="game;games;game-development;test-automation;game-tester;game-testing;game-test-automation" />
+  - [🌐Official Site](https://gamium.dogutech.io)
+
  
 
 
@@ -99,3 +102,4 @@ meta:
 [jellyfin/jellyfin]: https://github.com/jellyfin/jellyfin
 [jamesnet214/leagueoflegends]: https://github.com/jamesnet214/leagueoflegends
 [PowerShell/PowerShell]: https://github.com/PowerShell/PowerShell
+[dogu-team/gamium]: https://github.com/dogu-team/gamium

@@ -15,7 +15,7 @@ tags: ["education", "youtube", "windows"]
 
 ## Microsoft Research
 
-[Microsoft Research][yu-microsoft-research]
+[![Microsoft Research](https://yt3.googleusercontent.com/wU0l8BUFlv5DtSfesfGhb3Cw1oLiCOd07at80o11ubYgocBr-0wwgtkSrruE3BggIbuqKWhSbw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-microsoft-research]
 
 ::: details 목록
 
@@ -49,46 +49,49 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
-## NETVN
+## NETVN82
 
-[NETVN][yu-netvn]
+[NETVN82][yu-netvn82]
 
 ::: details 목록
 
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="1dXVIrFVITk" title="Turn old iPhone into Windows XP PC"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="4ZYbg0Hldjc" title="CMD : Boot into Safe Mode"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="v1C21TJFcYM" title="CMD : Enter UEFI / BIOS with only 1 command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="DQsDWDnYgu0" title="CMD : Show &amp; Export all Wi-Fi passwords to File"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="k1szHpFXukI" title="How to Monitor Your Windows Server Using MRTG"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="aAcsNXVQ7To" title="Create your own network traffic monitoring tool on Windows"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="29PlocbDz5g" title="Connect to Wi-Fi network with Camera"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="FDQJT0zCpLU" title="Ping from Text file and Save Log file"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="Hk_P_v-ULpM" title="Commands to Speed up File transfers on Windows PC"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="dKtuES4eOOs" title="CMD : How to backup data like paid software"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="mEm0qEv9ukI" title="How to install iPhone Notes on Windows PC"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="WKnu7tTMlEM" title="How to combine 03 PCs into 01 Network Storage system | PetaSAN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="dzUnSOHJB3A" title="How to install Zabbix on Windows with Docker Desktop"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="I7L6_E4YTRA" title="How to create your own Wiki page"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="u3yO0OPUXbI" title="Free Control 2 PC with only 1 Keyboard &amp; Mouse | Microsoft app"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="_Xkpy0-Qy5w" title="View CPU temperature on Taskbar in Windows"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="EIUBzBh4k_Y" title="How to build your own cloud on Windows for free | NETVN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="6rER1_P5uvo" title="CMD : How to Find Your Public IP Addresses with 1 command | NETVN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="h_NKy2-FRwE" title="CMD : Show Wi-Fi Password | Windows 10 / 11 | NETVN"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="r-Ydlplo7r0" title="CMD : Score your computer with just 1 command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="FaADlaOmZME" title="CMD :  Speed Test RAM on Windows 11/10"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="1SIwHkcVXNM" title="How to Speed Test SSD/HDD with only 1 command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="thXyCuEG7_o" title="How to Copy without Formula in Excel"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="a54sqzcDrUU" title="Convert MBR to GPT without loss DATA | Windows 11/10"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="rZu5TSAKDrU" title="How to install Windows 11 on Legacy BIOS"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="H3bg_TNoqtc" title="Challenge to create Windows 11 installer using command"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="7ud7DCICv3o" title="How to Fix 'VCRUNTIME140_1.dll was not found'"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="sQdGauaLzSU" title="Giving you a copy trick on Windows 11/10"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="HZMzuHwoC8M" title="How to Fix 'No internet, secured' in Windows 11"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="4ZYbg0Hldjc" title="CMD : Boot into Safe Mode"/>
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="r-o6OK8Q9hI" title="How to install macOS 13 on PC/Laptop" />
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="qR_xAZMXQTE" title="How to install Android alongside Windows 11/10 | Play Store" />
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="DiW0vjy-Igk" title="How to add Android in EVE-NG" />
-<YoutubeItem channelName="NETVN" channelId="NETVN82" id="fMdQsbLPewA" title="CMD : RAM Health Check" />
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="2s8muIKuY1o" title="Build NAS like Synology on Proxmox | 7.1" />
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="iVolaiH-6W8" title="Install macOS 13 on Proxmox" />
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="qwDVRqVcaUo" title="Build Synology NAS with just 1 Hard Drive" />
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="1dXVIrFVITk" title="Turn old iPhone into Windows XP PC"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="4ZYbg0Hldjc" title="CMD : Boot into Safe Mode"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="v1C21TJFcYM" title="CMD : Enter UEFI / BIOS with only 1 command"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="DQsDWDnYgu0" title="CMD : Show &amp; Export all Wi-Fi passwords to File"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="k1szHpFXukI" title="How to Monitor Your Windows Server Using MRTG"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="aAcsNXVQ7To" title="Create your own network traffic monitoring tool on Windows"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="29PlocbDz5g" title="Connect to Wi-Fi network with Camera"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="FDQJT0zCpLU" title="Ping from Text file and Save Log file"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="Hk_P_v-ULpM" title="Commands to Speed up File transfers on Windows PC"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="dKtuES4eOOs" title="CMD : How to backup data like paid software"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="mEm0qEv9ukI" title="How to install iPhone Notes on Windows PC"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="WKnu7tTMlEM" title="How to combine 03 PCs into 01 Network Storage system | PetaSAN"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="dzUnSOHJB3A" title="How to install Zabbix on Windows with Docker Desktop"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="I7L6_E4YTRA" title="How to create your own Wiki page"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="u3yO0OPUXbI" title="Free Control 2 PC with only 1 Keyboard &amp; Mouse | Microsoft app"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="_Xkpy0-Qy5w" title="View CPU temperature on Taskbar in Windows"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="EIUBzBh4k_Y" title="How to build your own cloud on Windows for free | NETVN"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="6rER1_P5uvo" title="CMD : How to Find Your Public IP Addresses with 1 command | NETVN"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="h_NKy2-FRwE" title="CMD : Show Wi-Fi Password | Windows 10 / 11 | NETVN"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="r-Ydlplo7r0" title="CMD : Score your computer with just 1 command"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="FaADlaOmZME" title="CMD :  Speed Test RAM on Windows 11/10"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="1SIwHkcVXNM" title="How to Speed Test SSD/HDD with only 1 command"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="thXyCuEG7_o" title="How to Copy without Formula in Excel"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="a54sqzcDrUU" title="Convert MBR to GPT without loss DATA | Windows 11/10"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="rZu5TSAKDrU" title="How to install Windows 11 on Legacy BIOS"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="H3bg_TNoqtc" title="Challenge to create Windows 11 installer using command"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="7ud7DCICv3o" title="How to Fix 'VCRUNTIME140_1.dll was not found'"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="sQdGauaLzSU" title="Giving you a copy trick on Windows 11/10"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="HZMzuHwoC8M" title="How to Fix 'No internet, secured' in Windows 11"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="4ZYbg0Hldjc" title="CMD : Boot into Safe Mode"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="r-o6OK8Q9hI" title="How to install macOS 13 on PC/Laptop" />
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="qR_xAZMXQTE" title="How to install Android alongside Windows 11/10 | Play Store" />
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="DiW0vjy-Igk" title="How to add Android in EVE-NG" />
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="fMdQsbLPewA" title="CMD : RAM Health Check" />
 
 :::
 
@@ -181,6 +184,20 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## Geeks Tutorial
+
+[Geeks Tutorial][yu-geeks-tutorial]
+
+::: details 목록
+
+<YoutubeItem channelName="Geeks Tutorial" channelId="GeeksTutorial" id="ttiA0zRbzko" title="How to Speed Up Your Windows 10 Performance! \(New\)" />
+
+:::
+
+<!-- Geeks Tutorial -->
+
+---
+
 ## Enderman
 
 [Enderman][yu-endermanch]
@@ -225,14 +242,22 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## Misc
+
+<YoutubeItem channelName="Battle(non)sense" channelId="BattleNonSense" id="uCL-VUyw1A0" title="12 Programs I Install On Every Windows PC"/>
+
+<!-- [Battle(non)sense][yu-battle-non-sense] -->
+
 <TagLinks />
 
 [yu-microsoft-research]: https://www.youtube.com/@MicrosoftResearch
 [yu-thio-joe]: https://www.youtube.com/@ThioJoe
-[yu-netvn]: https://www.youtube.com/@NETVN82
+[yu-netvn82]: https://www.youtube.com/@NETVN82
 [yu-britec-09]: https://www.youtube.com/@Britec09
 [yu-tricknology]: https://www.youtube.com/@Tricknology
 [yu-trouble-chute]: https://www.youtube.com/@TroubleChute
+[yu-geeks-tutorial]: https://www.youtube.com/@GeeksTutorial
 [yu-enderman]: https://www.youtube.com/@Endermanch
 [yu-techsavvy-productinos]: https://www.youtube.com/@TechsavvyProductions
 [yu-michael-mjd]: https://www.youtube.com/@MichaelMJD
+[yu-battle-non-sense]: https://www.youtube.com/@BattleNonSense

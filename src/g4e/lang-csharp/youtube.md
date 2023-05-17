@@ -97,6 +97,37 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 ---
 
+## Nick Chapsas
+
+[Nick Chapsas][yu-nickchapsas]
+
+::: details 목록
+
+:::
+
+<!-- Nick Chapsas -->
+
+---
+
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="mgeuh8k3I4g" title="Adding JWT Authentication &amp; Authorization in ASP.NET Core" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="4FFYefcx4Bg" title="Build Clean Messaging in .NET with MassTransit" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="QqNmUmmVH-Y" title="The Fastest Way To Work With Lists in C#! | .NET Tips 6" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="aTDUY66tlxk" title="NativeAOT for .NET APIs Is Here and It’s INSANE!" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="J2tBNTDMf1o" title="Cleaning up Your Validation Code in .NET" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="8Asq7ymF1R8" title="Implementing Modern API Versioning in .NET" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="aaC16Fv2zes" title="Settling the Biggest Await Async Debate in .NET" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="z2CKQFi746Q" title="ChatGPT can write better code than me" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="E4TeWBFzcCw" title="The BEST way to reset your database for testing in .NET" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="ileC_qyLdD4" title="How to await ANYTHING in C#" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="E1LXQd1M-ck" title="Controlling your debugging experience in C\#" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="rdWZo5PD9Ek" title="How to create your own project templates in .NET" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="1JAdZul-aRQ" title="How to create your own Fluent API in C#" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="bLKXqJwRNSY" title="How to work with text in .NET like a pro with Humanizer" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="YU3ohofu6UU" title="Writing robust integration tests in .NET with WireMock.NET" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="EEeVU0z26u0" title="Getting started with Behavior Driven Development \(BDD\) in .NET using SpecFlow" />
+<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="lQu-eBIIh-w" title="8 await async mistakes that you SHOULD avoid in .NET" />
+
+
 
 
 ## Kim Too

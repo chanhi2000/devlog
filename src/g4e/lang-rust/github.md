@@ -112,6 +112,9 @@ meta:
   - [🌐Official Site](https://ordinals.com)
 - [cedar-policy/cedar][cedar-policy/cedar]
 - [mitsuhiko/self-replace][mitsuhiko/self-replace]: Utility library that helps to implement processes that replace themselves
+- [ryanmcgrath/cacao][ryanmcgrath/cacao]: Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working! <GithubTags tagItems="macos;rust;ios;gui;uikit;cocoa;appkit" />
+
+
 
 
 <TagLinks />
@@ -173,3 +176,4 @@ meta:
 [casey/ord]: https://github.com/casey/ord
 [cedar-policy/cedar]: https://github.com/cedar-policy/cedar
 [mitsuhiko/self-replace]: https://github.com/mitsuhiko/self-replace
+[ryanmcgrath/cacao]: https://github.com/ryanmcgrath/cacao

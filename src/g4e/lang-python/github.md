@@ -377,6 +377,10 @@ meta:
 - [s-JoL/Open-Llama][s-JoL/Open-Llama]: The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF.
   - [🌐Official Site](https://huggingface.co/s-JoL/Open-Llama-V2)
 - [jtsang4/claude-to-chatgpt][jtsang4/claude-to-chatgpt]: This project converts the API of Anthropic's Claude model to the OpenAI Chat API format. <GithubTags tagItems="openai;claude;chatgpt;anthropic;claude-ai" />
+- [e-johnstonn/BriefGPT][e-johnstonn/BriefGPT]: Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
+- [smol-ai/developer][smol-ai/developer]: with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+  - [🌐Official Site](https://smol.ai)
+- [AdmTal/PostgreSQL-Query-Lock-Explainer][AdmTal/PostgreSQL-Query-Lock-Explainer]: Command line utility to show what locks will be acquired by a given query.
 
 <!-- Python -->
 
@@ -689,6 +693,9 @@ meta:
 [hat-open/hat-syslog]: https://github.com/hat-open/hat-syslog
 [s-JoL/Open-Llama]: https://github.com/s-JoL/Open-Llama
 [jtsang4/claude-to-chatgpt]: https://github.com/jtsang4/claude-to-chatgpt
+[e-johnstonn/BriefGPT]: https://github.com/e-johnstonn/BriefGPT
+[smol-ai/developer]: https://github.com/smol-ai/developer
+[AdmTal/PostgreSQL-Query-Lock-Explainer]: https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora

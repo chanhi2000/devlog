@@ -100,6 +100,9 @@ meta:
   - [🌐Official Site](https://openrefine.org)
 - [apache/doris][apache/doris]: Apache Doris is an easy-to-use, high performance and unified analytics database. <GithubTags tagItems="bigquery;real-time;sql;database;spark;hive;hadoop;etl;snowflake;olap;query-engine;redshift;dbt;elt;iceberg;hudi;delta-lake;lakehouse" />
   - [🌐Official Site](https://doris.apache.org)
+- [nickm980/smallville][nickm980/smallville]: Create Generative Agent simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior <GithubTags tagItems="generative-agents" />
+  - [🌐Official Site](https://nickm980.github.io/smallville)
+
 
 
 
@@ -238,6 +241,7 @@ meta:
 [alibaba/Chat2DB]: https://github.com/alibaba/Chat2DB
 [cedar-policy/cedar-java]: https://github.com/cedar-policy/cedar-java
 [apache/doris]: https://github.com/apache/doris
+[nickm980/smallville]: https://github.com/nickm980/smallville
 <!-- Kotlin -->
 [ktorio/ktor]: https://github.com/ktorio/ktor
 [Kotlin/dokka]: https://github.com/Kotlin/dokka

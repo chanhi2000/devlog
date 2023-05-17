@@ -118,7 +118,76 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
   - Value: `%USERPROFILE%\alias.cmd`
 - 시스템 재시작
 
-### D2-i. `Microsoft.PowerShell_profile.ps1`
+
+### D2-i. `schema.json`
+
+> 📁저장위치: 왠만하면 `%USERPROFILE%\.oh-my-posh` 폴더에 위치해 두도록
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "blocks": [
+    {
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "session",
+          "style": "diamond",
+          "background": "#6272a4",
+          "foreground": "#ffffff",
+          "leading_diamond": "\ue0b6",          
+          "template": "{{ .UserName }} "
+        }, {
+          "type": "path",
+          "style": "powerline",
+          "background": "#bd93f9",
+          "foreground": "#ffffff",
+          "powerline_symbol": "\ue0b0",
+          "properties": {
+            "style": "folder"
+          },          
+          "template": " {{ .Path }} "
+        }, {
+          "type": "git",
+          "style": "powerline",
+          "powerline_symbol": "\ue0b0",
+          "foreground": "#ffffff",
+          "background": "#ffb86c",
+          "properties": {
+            "branch_icon": "",
+            "fetch_stash_count": true,
+            "fetch_status": false,
+            "fetch_upstream_icon": true
+          },
+          "template": " \u279c ({{ .UpstreamIcon }}{{ .HEAD }}{{ if gt .StashCount 0 }} \uf692 {{ .StashCount }}{{ end }}) "
+        }, {
+          "type": "node",
+          "style": "powerline",
+          "background": "#8be9fd",
+          "foreground": "#ffffff",
+          "powerline_symbol": "\ue0b0",          
+          "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Full }} "
+        }, {
+          "type": "time",
+          "style": "diamond",
+          "background": "#ff79c6",
+          "foreground": "#ffffff",
+          "properties": {
+            "time_format": "15:04"
+          },          
+          "template": " \u2665 {{ .CurrentDate | date .Format }} ",
+          "trailing_diamond": "\ue0b0"
+        }
+      ],
+      "type": "prompt"
+    }
+  ],
+  "final_space": true,
+  "version": 2
+}
+```
+
+### D2-ii. `Microsoft.PowerShell_profile.ps1`
 
 `$profile` 파일 내용
 
@@ -155,7 +224,7 @@ function openWspHomeAndroidWeb2()
 }
 
 $env:PATH += ";$env:UserProfile\scoop\apps\oh-my-posh\current\bin"
-oh-my-posh --init --shell pwsh --config "$env:UserProfile\scoop\apps\oh-my-posh\current\themes\dracula.omp.json" | Invoke-Expression
+oh-my-posh --init --shell pwsh --config "$env:UserProfile\.oh-my-posh\schema.json" | Invoke-Expression
 Import-Module Terminal-Icons
 neofetch
 ```

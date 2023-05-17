@@ -373,7 +373,7 @@ meta:
   - [🌐Official Site](https://excalidraw.com)
 - [codebdy/rxdrag][codebdy/rxdrag]: Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
   - [🌐Official Site](http://rxeditor.vercel.app)
-- [Yidadaa/ChatGPT-Next-Web][Yidadaa/ChatGPT-Next-Web]: 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI. <GithubTags tagItems="web;nextjs;webui;vercel;chatgpt"/>
+- [Yidadaa/ChatGPT-Next-Web][Yidadaa/ChatGPT-Next-Web]: One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务 <GithubTags tagItems="web;nextjs;webui;vercel;chatgpt"/>
   - [🌐Official Site](https://chatgpt.nextweb.fun)
 - [vincanger/coverlettergpt][vincanger/coverlettergpt]: Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
   - [🌐Official Site](https://coverlettergpt.xyz)
@@ -543,7 +543,8 @@ meta:
   - [🌐Official Site](https://playwright.dev)
 - [langgenius/dify][langgenius/dify]: One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. <GithubTags tagItems="python;ai;openai;gpt;backend-as-a-service;llm;langchain" />
   - [🌐Official Site](https://dify.ai)
-
+- [bluesky-social/social-app][bluesky-social/social-app]:  The Bluesky Social application for Web, iOS, and Android
+  - [🌐Official Site](https://staging.bsky.app)
 
 
 <!-- Typescript -->
@@ -847,6 +848,7 @@ meta:
 [webwhiz-ai/webwhiz]: https://github.com/webwhiz-ai/webwhiz
 [microsoft/playwright]: https://github.com/microsoft/playwright
 [langgenius/dify]: https://github.com/langgenius/dify
+[bluesky-social/social-app]: https://github.com/bluesky-social/social-app
 <!-- Coffeescript -->
 [jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
 [mojs/mojs]: https://github.com/mojs/mojs

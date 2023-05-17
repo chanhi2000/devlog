@@ -21,7 +21,7 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
 
 <div class="features">
   <div class="feature">
-    <a target="_self" href="https://github.com/chanhi2000">
+    <a target="_blank" href="https://github.com/chanhi2000">
       <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
       <h2>github.com/chanhi2000</h2>
       <quote>My Github</quote>
@@ -30,7 +30,7 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     <br/>
   </div>
   <div class="feature">
-    <a target="_self" href="https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd">
+    <a target="_blank" href="https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd">
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat-square" />
       <h2>notion.so/chanhi2000</h2>
       <quote>Chan's Temporary Portfolio</quote>
@@ -43,8 +43,8 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     <span style="display:flex;flex-direction:row;justify-content:flex-start;align-items:center">
       <img alt="SimpleIcons" height="40px" width="auto" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/simpleicons-white.svg" />
       <p style="display:flex;justify-content:center;align-items:flex-start;flex-direction:column;">
-        <a target="_self" href="https://simpleicons.org" ><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square"/></a>
-        <a target="_self" href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md"><img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" /></a>
+        <a target="_blank" href="https://simpleicons.org" ><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square"/></a>
+        <a target="_blank" href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md"><img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" /></a>
       </p>
     </span>
   </div>
@@ -52,8 +52,8 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     <span style="display:flex;flex-direction:row;justify-content:flex-start;align-items:center">
       <img alt="awesome-vuepress-jumbo" height="40px" width="auto" src="https://raw.githubusercontent.com/vuepress/awesome-vuepress/main/logo.png" />
       <p style="display:flex;justify-content:center;align-items:flex-start;flex-direction:column">
-        <a target="_self" href="https://v2.vuepress.vuejs.org/guide/"><img alt="vuepress" src="https://img.shields.io/badge/Vuepress-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" /></a>
-        <a target="_self" href="https://github.com/vuepress/awesome-vuepress/blob/main/v2.md"><img alt="Awesome Lists" src="https://img.shields.io/badge/Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=white&style=flat-square" /></a>
+        <a target="_blank" href="https://v2.vuepress.vuejs.org/guide/"><img alt="vuepress" src="https://img.shields.io/badge/Vuepress-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" /></a>
+        <a target="_blank" href="https://github.com/vuepress/awesome-vuepress/blob/main/v2.md"><img alt="Awesome Lists" src="https://img.shields.io/badge/Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=white&style=flat-square" /></a>
       </p>
     </span>
     <br/>
@@ -61,13 +61,26 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
   <div class="feature">
     <h2>🗞️</h2>
     <ul>
-      <li><a target="_self" href="https://github.com/trending">Github Trending</a></li>
-      <li><a target="_self" href="https://devo.ams3.digitaloceanspaces.com/github.json">Devo's Github Trending</a></li>
-      <li><a target="_self" href="https://news.ycombinator.com">YCombinator - Hacker News</a></li>
-      <li><a target="_self" href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
-      <li><a target="_self" href="https://news.hada.io">🤓GeekNews</a></li>
-      <li><a target="_self" href="https://datatau.net">DataTau</a></li>
-      <li><a target="_self" href="https://blog.bytebytego.com">ByteByteGo</a></li>
+      <li>
+        <a target="_blank" href="https://github.com/trending">
+          <img alt="badge-github" src="https://img.shields.io/badge/Github Trending-000000?logo=github&logoColor=white&style=flat-square"/>
+        </a>
+        <a target="_blank" href="https://devo.ams3.digitaloceanspaces.com/github.json">
+          <img alt="badge-json-devo-github-trending" src="https://img.shields.io/badge/Devo-000000?logo=json&logoColor=white&style=flat-square"/>
+        </a>
+      </li>
+      <li>
+        <a target="_blank" href="https://news.ycombinator.com">
+          <img alt="badge-ycombinator" src="https://img.shields.io/badge/YCombinator-F0652F?logo=ycombinator&logoColor=white&style=flat-square"/>
+        </a>
+        <a target="_blank" href="https://devo.ams3.digitaloceanspaces.com/hackernews.json">
+          <img alt="badge-json-devo-hackernews" src="https://img.shields.io/badge/Devo-000000?logo=json&logoColor=white&style=flat-square"/>
+        </a>
+      </li>
+      <li><a target="_blank" href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
+      <li><a target="_blank" href="https://news.hada.io">🤓GeekNews</a></li>
+      <li><a target="_blank" href="https://datatau.net">DataTau</a></li>
+      <li><a target="_blank" href="https://blog.bytebytego.com">ByteByteGo</a></li>
     </ul>
   </div>
 </div>

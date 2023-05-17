@@ -48,6 +48,16 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 ::: details 목록
 
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5Tk8ogZnZM4" title="파이썬 라이브러리 tqdm을 이용한 진행바 출력!! 데이터 분석 전처리 할 때 활용 #python #파이썬자동화" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="LVNQicq8uas" title="CriminalIP API 데이터 - 파이썬 tkinter 시각화 추가 with #ChatGPT #python" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="WFWVrvDzISs" title="CriminalIP API 데이터를 파이썬 tkinter 엑셀파일로 변환하기 #python #파이썬자동화" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="acqXLfroo5E" title="구글 바드를 이용하여 파이썬 코드를 작성해봤어요.!! chatgpt 보다 더 좋게 보이는데요?" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="fs69BRoyK5U" title="칼리리눅스 기본 -  파일 디스크 정보 및 메모리 정보 확인 #kalilinux" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="V26T9Al6JyI" title="Criminal IP API 데이터를 파이썬 tkinter Treeview로 출력하기. 원하는 데이터를 쏙쏙~ #python #파이썬자동화" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="xE-3lkpVqyQ" title="파이썬 tkinter를 메뉴와 파일다이얼로그 활용하여 엑셀 파일 데이터 가져오기 #python #파이썬자동화" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="zm6MMwfLl6g" title="sourcegraph 검색 서비스를 이용한 오픈 소스코드 검색을 빠르고 편하게!!" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="jd4swo16xHw" title="바이러스토탈 Code Insight 기능 추가!! 이제 GPT에 분석을 맡겨야 하나?" />
+<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="KY25UrbePxQ" title="버추얼박스 7.x 버전에서 칼리리눅스 이미지 불러오고 NAT 네트워크 설정 방법" />
 <YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="I8xlt4Tcm2E" title="OpenAI AI ChatGPT 활용했던 사례, 시큐어코딩에도 잘 활용될 거 같아!!" />
 <YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="27uka1NxZU8" title="칼리리눅스의 도구 설명과 활용 이유!! SK쉴더스 루키 과정 라이브 중" />
 <YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="2CiKVvpDWFg" title="생방 - 여러분들은 회사를 고를 때 어떤 기준을 제일 많이 보나?!!" />

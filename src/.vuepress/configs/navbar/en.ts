@@ -69,20 +69,114 @@ export const navbarEn: NavbarConfig = [
       }
     ],
   }, {
-    text: '📍Misc.',
+    text: '🥁Crashcourse',
     children: [
       {
-        text: '🕶️Github',
-        link: 'https://github.com/chanhi2000',
+        text: 'Intro',
+        link: '/crashcourse/README.md'
       }, {
-        text: '🅽Notion',
-        link: 'https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd',
-      },{
-        text: "📢Tell Me What's Wrong",
-        link: "https://github.com/chanhi2000/devlog/issues",
+        text: '🕊️100 Days of Swift',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/README.md'
+          }, {
+            text: 'Day 1',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/1.md'
+          }, {
+            text: 'Day 2',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/2.md'
+          }, {
+            text: 'Day 3',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/3.md'
+          }, {
+            text: 'Day 4',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/4.md'
+          }, {
+            text: 'Day 5',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/5.md'
+          }, {
+            text: 'Day 6',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/6.md'
+          }, {
+            text: 'Day 7',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/7.md'
+          }
+        ]
+      }, {
+        text: '🕊️100 Days of SwiftUI',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/README.md'
+          }
+        ],
+      }, {
+        text: '🕊️SwiftUI by Example',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/paul-hudson-swiftui-by-example/README.md',
+          }
+        ]
+      }, {
+        text: '🅺Kodeco - Android & Kotlin',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/kodeco-kotlin-android/README.md'
+          }
+        ],
+      }, {
+        text: '🕊️Kodeco - Swift',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/kodeco-swift/README.md'
+          }
+        ],
+      }, {
+        text: '🦊freecodecamp.org - DevOps with GitLab CI',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/freecodecamp-gitlab-ci/README.md'          
+          }, {
+            text: 'Unit 1',
+            link: '/crashcourse/freecodecamp-gitlab-ci/1.md',
+          }, {
+            text: 'Unit 2',
+            link: '/crashcourse/freecodecamp-gitlab-ci/2.md',
+          }, {
+            text: 'Unit 3',
+            link: '/crashcourse/freecodecamp-gitlab-ci/3.md',          
+          }, {
+            text: 'Unit 4',
+            link: '/crashcourse/freecodecamp-gitlab-ci/4.md',          
+          }, {
+            text: 'Unit 5',
+            link: '/crashcourse/freecodecamp-gitlab-ci/5.md',
+          }
+        ]
       }
-    ]
-  }, {
+    ],
+  }, 
+  // {
+  //   text: '📍Misc.',
+  //   children: [
+  //     {
+  //       text: '🕶️Github',
+  //       link: 'https://github.com/chanhi2000',
+  //     }, {
+  //       text: '🅽Notion',
+  //       link: 'https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd',
+  //     },{
+  //       text: "📢Tell Me What's Wrong",
+  //       link: "https://github.com/chanhi2000/devlog/issues",
+  //     }
+  //   ]
+  // }, 
+  {
     text: '📖G4E',
     link: '/g4e/README.md',
   }, {

@@ -19,6 +19,18 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="ypNKKYUJE5o" title="JavaScript Security Vulnerabilities Tutorial  – With Code Examples" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="Uszj_k0DGsg" title="Git for Professionals Tutorial - Tools &amp; Concepts for Mastering Version Control with Git" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="un6ZyFkqFKo" title="Go Programming – Golang Course with Bonus Projects" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="ZtqBQ68cfJc" title="The 50 Most Popular Linux &amp; Terminal Commands - Full Course for Beginners" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="IiIgm_yaoOA" title="Functional Programming with Elixir – Full Course" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="-fW2X7fh7Yg" title="SQL Tutorial for Beginners (and Technical Interview Questions Solved)" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="PXMJ6FS7llk" title="Automate with Python – Full Course for Beginners" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="yzeVMecydCE" title="Complete Guide to Open Source - How to Contribute" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="rCm5RVYKWVg" title="Code a Reddit Clone with React, Next.js, Firebase v9, Chakra UI – Full Course" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="2IZKK3pJQjg" title="Machine Learning Foundations Course – Regression Analysis" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="krfUjg0S2uI" title="Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners" />
+<YoutubeItem channelName="freeCodeCamp.org" channelId="freecodecamp" id="fZPgBnL2x-Q" title="Zustand React State Management Course (Simple Redux Alternative)" />
 <YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="EExSSotojVI" title="Learn Kotlin Programming – Full Course for Beginners" />
 <YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="hmkF77F9TLw" title="Microservice Architecture and System Design with Python & Kubernetes – Full Course" />
 <YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="7f50sQYjNRA" title="MATLAB Crash Course for Beginners" />
@@ -342,6 +354,12 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="pj8SoTZbCTE" title="TS vs JSDoc | Prime Reacts" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="1u08QZyjguo" title="Gitlab DELETING Production Databases | Prime Reacts" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="ihFoFqvZhCM" title="Atomic Git ONLY WAY TO USE GIT | Prime Reacts" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="UrMHPrumJEs" title="Leptos: UI Framework in Rust | Greg Johnston" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="RJTepwXirk8" title="Rich Harris Teaches ThePrimeagen SvelteKit" />
+<YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="oGHH5aJEgXQ" title="Jonathan blow Hates Visual Studios | Prime Reacts" />
 <YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="fUKAtZPPc7I" title="QUIT VIM Because Modern IDES are magic" />
 <YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="qFnHWMxlOBc" title="Carmack Doesn't Like Vim | Prime Reacts" />
 <YoutubeItem channelName="ThePrimeTime" channelId="ThePrimeTimeagen" id="5HcyF_3XOzM" title="Benchmarking Databases on Vercel | Prime Reacts" />
