@@ -74,14 +74,14 @@ You’ve already read the two rules of these 100 days, but to maximize your chan
 
 The first 12 days provide a gentle warm up for your Swift learning. You’ll watch about a selection of one-minute videos every day, and complete short quizzes about each of those videos.
 
-- [Day 1][day-1] – variables, simple data types, and string interpolation
-- [Day 2][day-2] – arrays, dictionaries, sets, and enums
-- [Day 3][day-3] – operators and conditions
-- [Day 4][day-4] – loops, loops, and more loops
-- [Day 5][day-5] – functions, parameters, and errors
-- [Day 6][day-6] – closures part one
-- [Day 7][day-7] – closures part two
-- [Day 8][day-8] – structs, properties, and methods
+- [Day 1][day-1] – ✅variables, simple data types, and string interpolation
+- [Day 2][day-2] – ✅arrays, dictionaries, sets, and enums
+- [Day 3][day-3] – ✅operators and conditions
+- [Day 4][day-4] – ✅loops, loops, and more loops
+- [Day 5][day-5] – ✅functions, parameters, and errors
+- [Day 6][day-6] – ✅closures part one
+- [Day 7][day-7] – ✅closures part two
+- [Day 8][day-8] – ✅structs, properties, and methods
 - [Day 9][day-9] – access control, static properties, and laziness
 - [Day 10][day-10] – classes and inheritance
 - [Day 11][day-11] – protocols, extensions, and protocol extensions
@@ -290,14 +290,14 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [100-days-of-swiftui]: ./100-days-of-swiftui.md
 [glossary]: https://www.hackingwithswift.com/glossary
 
-[day-1]: paul-hudson-100-days-of-swift/1
-[day-2]: paul-hudson-100-days-of-swift/2
-[day-3]: paul-hudson-100-days-of-swift/3
-[day-4]: paul-hudson-100-days-of-swift/4
-[day-5]: paul-hudson-100-days-of-swift/5
-[day-6]: paul-hudson-100-days-of-swift/6
-[day-7]: paul-hudson-100-days-of-swift/7
-[day-8]: https://www.hackingwithswift.com/100/8
+[day-1]: 1.md
+[day-2]: 2.md
+[day-3]: 3.md
+[day-4]: 4.md
+[day-5]: 5.md
+[day-6]: 6.md
+[day-7]: 7.md
+[day-8]: 8.md
 [day-9]: https://www.hackingwithswift.com/100/9
 [day-10]: https://www.hackingwithswift.com/100/10
 [day-11]: https://www.hackingwithswift.com/100/11

@@ -20,9 +20,13 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="CpWAcWkXC8Q" title="Force Unwrapping in Swift" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="DA1Trq51JZs" title="Exporting and Importing PostgreSQL Databases" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="vphcpk24_xg" title="Demystifying Associated Types in Swift" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="QhSztK1qrPg" title="Exploring Associated Values in Swift: An Introduction to Working with Enumerations" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="LqQKHjHqaeM" title="Build a Complete Maps App in UIKit Programmatically" />
-<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="3J3TBVv738E" title="TodoList Using SwiftUI &amp; CloudKit - Part 5 - Displaying Errors" />
-<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="B6hG-l7EZ5k" title="TodoList Using SwiftUI &amp; CloudKit - Part 4 - Deleting the Task" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="3J3TBVv738E" title="TodoList Using SwiftUI & CloudKit - Part 5 - Displaying Errors" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="B6hG-l7EZ5k" title="TodoList Using SwiftUI & CloudKit - Part 4 - Deleting the Task" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="CZT-N88TfTs" title="Building a Budget App Using SwiftUI and Core Data Part 3" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="fjHtsoNCHG4" title="Showing Multiple Sheets in SwiftUI" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="LVx93PfGjdo" title="STOP Using MVVM with SwiftUI" />
@@ -50,7 +54,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="PDrKvQrgAQQ" title="NEW COURSE - Core Data in iOS" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="V5EDE5CNKvc" title="Weather App Using SwiftUI - Part 2 (Decoding JSON)" />
 <YoutubeItem channelName="azamsharp" channelId="azamsharp" id="R9Bk8u4SesY" title="NEW COURSE - Server Side Swift Using Vapor 4" />
-<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="ZEmsgQj5OWI" title="NEW COURSE:  Build Real-Time Chat App with SwiftUI &amp; Firebase" />
+<YoutubeItem channelName="azamsharp" channelId="azamsharp" id="ZEmsgQj5OWI" title="NEW COURSE:  Build Real-Time Chat App with SwiftUI & Firebase" />
 
 :::
 
@@ -67,21 +71,21 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="Aiw7S0hMtN0" title="Lesson 12: Done Checkmarks – SwiftUI To Do List" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="3z5MTIU_N3M" title="Lesson 8: New Item View – SwiftUI To Do List" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="iWDKS-hQD8c" title="Lesson 5: Log In Functionality – SwiftUI To Do List" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="EZ5iqtjXGBE" title="Factory Design Pattern in Swift &amp; iOS (2023)" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="cL7do29XChM" title="Build FULL iOS App in Swift: Part 20 (Rick &amp; Morty | 2023) – Fetch Episodes" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="MuhUzpf2zhI" title="Build FULL iOS App in Swift: Part 19 (Rick &amp; Morty | 2023) – Character Info ViewModel" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="EZ5iqtjXGBE" title="Factory Design Pattern in Swift & iOS (2023)" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="cL7do29XChM" title="Build FULL iOS App in Swift: Part 20 (Rick & Morty | 2023) – Fetch Episodes" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="MuhUzpf2zhI" title="Build FULL iOS App in Swift: Part 19 (Rick & Morty | 2023) – Character Info ViewModel" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="5LKbL-I-CYY" title="Swift: Actors Introduction (2023, Xcode 13) - iOS" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="tqVB0qgS2o4" title="Build FULL iOS App in Swift: Part 51 (Rick &amp; Morty | 2023) – Location Pagination" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="Y6njyj-9kns" title="Build FULL iOS App in Swift: Part 52 (Rick &amp; Morty | 2023) – Location Pagination Update + Devices" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="tqVB0qgS2o4" title="Build FULL iOS App in Swift: Part 51 (Rick & Morty | 2023) – Location Pagination" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="Y6njyj-9kns" title="Build FULL iOS App in Swift: Part 52 (Rick & Morty | 2023) – Location Pagination Update + Devices" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="O4KZk5Bj_Sk" title="StaticString Type in Swift Explained (2023) - iOS Tip" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="XR-fH4sorGY" title="Better Optionals Usage – Swift Tip (iOS) – 2023" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="EZ5iqtjXGBE" title="Factory Design Pattern in Swift &amp; iOS (2023)" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="EZ5iqtjXGBE" title="Factory Design Pattern in Swift & iOS (2023)" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="Z-wSODAyiwo" title="iOS App Design – Forced App Themes (Swift)" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="fTGA8cjbf5Y" title="Build iOS App Full Course | Rick &amp; Morty App | 2023 | Swift" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="gk3UBsrNUvI" title="Build FULL iOS App in Swift: Part 56 (Rick &amp; Morty | 2023) – iPad &amp; Mac Layouts" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="fTGA8cjbf5Y" title="Build iOS App Full Course | Rick & Morty App | 2023 | Swift" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="gk3UBsrNUvI" title="Build FULL iOS App in Swift: Part 56 (Rick & Morty | 2023) – iPad & Mac Layouts" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="WIam7qc1Hxc" title="XCConfig Files Explained (Xcode Build Settings) – 2023" />
 <YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="yaQDed7lngQ" title="Improve Xcode Build Speed By 10x (iOS Tips)" />
-<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="4DXVn38Jaho" title="Build FULL iOS App in Swift: Part 53 (Rick &amp; Morty | 2023) – Location Search Pagination" />
+<YoutubeItem channelName="iOS Academy" channelId="iOSAcademy" id="4DXVn38Jaho" title="Build FULL iOS App in Swift: Part 53 (Rick & Morty | 2023) – Location Search Pagination" />
 
 :::
 
@@ -137,7 +141,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="WB9UT9SYfC4" title="SwiftUI 2.0 Navigation Drawer With Saving Page State - Complex Animations - SwiftUI Tutorials" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="pgoqdJrd75k" title="SwiftUI 2.0 Custom Timer App With Background Fetching - Custom Animations - SwiftUI Tutorials" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="_Tj6xp1DOj0" title="SwiftUI 2.0 Tag List View - SwiftUI Chips View - Custom Tag View - SwiftUI Tutorials" />
-<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="h25rGhYrl5I" title="SwiftUI 2.0 Drag &amp; Drop - Reordering Grid View Items - Custom Picker - SwiftUI Tutorials" />
+<YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="h25rGhYrl5I" title="SwiftUI 2.0 Drag & Drop - Reordering Grid View Items - Custom Picker - SwiftUI Tutorials" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="0IWTF4c8z0U" title="SwiftUI 2.0 YouTube Mini Player Transition - Complex Animations - Can It Be Done In SwiftUI?" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="ElexpjhTKzA" title="SwiftUI 2.0 Building Shared Apps For Both iOS And macOS - Mac Catalyst - SwiftUI Tutorials" />
 <YoutubeItem channelName="Kavsoft" channelId="Kavsoft" id="lx6C6pcL-0M" title="SwiftUI 2.0 Realm DB CRUD Operations - Alternative For Core Data - SwiftUI Tutorials" />
@@ -222,28 +226,30 @@ tags: ["education", "youtube", "ios", "swift"]
 :::
 
 ---
-## Sean Allen
+## Sean Allen - Build. Ship. Profit.
 
-[Sean Allen][yu-seanallen]
+[Sean Allen - Build. Ship. Profit.][yu-seanallen]
 
 ::: details 목록
-
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="RmaCJyvSyUE" title="Will ChatGPT Destroy iOS Developer Jobs? A Demonstration" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="4utsyqhnS4g" title="SwiftUI Bar Chart with Customizations | Swift Charts" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="40imnmzsmxk" title="31 Xcode Tips &amp; Tricks - 2023 | Xcode 14" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="e7OuerHs8PU" title="SwiftUI Profile Animation | Matched Geometry Effect" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="5PJL4xxEXJE" title="SwiftUI - Swipe Actions on List | iOS 15 &amp; Xcode 13" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="MCLiPW2ns2w" title="SwiftUI Tic Tac Toe | Multiple AI Difficulties | MVVM | Portfolio Project" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="-o2BwAsvoH4" title="Xcode - Visual Debugger - A Tool For Debugging UI" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="RFGEzkBa834" title="Swift Access Control Explained" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="DLvdZtTAJrE" title="TestFlight - How to Upload and Distribute Your App | App Store 2021" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="hu90G_M0vaA" title="Xcode - Quickly Document Your Code | Swift" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="5gAD9amWkQw" title="Xcode - How to Simulate a Poor Network Connection | Device &amp; Simulator" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="wKdVqo7wTA8" title="iOS Developer Portfolios | Review &amp; Showcase" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="8aPjqLqUEKA" title="Swift - Result Type - Cleaner Network Calls" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="QdnzU9jx9yw" title="Beginners - Learn SwiftUI or UIKit?" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="2yIXXwfcbWk" title="iOS Dev Origin Story - Paul Hudson - Hacking with Swift" />
-<YoutubeItem channelName="Sean Allen" channelId="seanallen" id="B4XySdT2FkY" title="How to Profit From Your Apps - NEW Podcast" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="rO16UJS0jHg" title="Paywall Design Examples - Earn More Revenue" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="VUztqFol_FY" title="Intro to Apple Search Ads - Setup Your First Campaign (Tutorial)" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="a3AH0ItFTKU" title="Swift Generics for Beginners - Eliminate Code Duplication" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="RmaCJyvSyUE" title="Will ChatGPT Destroy iOS Developer Jobs? A Demonstration" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="4utsyqhnS4g" title="SwiftUI Bar Chart with Customizations | Swift Charts" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="40imnmzsmxk" title="31 Xcode Tips & Tricks - 2023 | Xcode 14" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="e7OuerHs8PU" title="SwiftUI Profile Animation | Matched Geometry Effect" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="5PJL4xxEXJE" title="SwiftUI - Swipe Actions on List | iOS 15 & Xcode 13" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="MCLiPW2ns2w" title="SwiftUI Tic Tac Toe | Multiple AI Difficulties | MVVM | Portfolio Project" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="-o2BwAsvoH4" title="Xcode - Visual Debugger - A Tool For Debugging UI" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="RFGEzkBa834" title="Swift Access Control Explained" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="DLvdZtTAJrE" title="TestFlight - How to Upload and Distribute Your App | App Store 2021" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="hu90G_M0vaA" title="Xcode - Quickly Document Your Code | Swift" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="5gAD9amWkQw" title="Xcode - How to Simulate a Poor Network Connection | Device & Simulator" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="wKdVqo7wTA8" title="iOS Developer Portfolios | Review & Showcase" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="8aPjqLqUEKA" title="Swift - Result Type - Cleaner Network Calls" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="QdnzU9jx9yw" title="Beginners - Learn SwiftUI or UIKit?" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="2yIXXwfcbWk" title="iOS Dev Origin Story - Paul Hudson - Hacking with Swift" />
+<YoutubeItem channelName="Sean Allen - Build. Ship. Profit." channelId="seanallen" id="B4XySdT2FkY" title="How to Profit From Your Apps - NEW Podcast" />
 
 :::
 
@@ -275,12 +281,12 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="n1mV6m4xBF8" title="AWS Amplify DataStore with SwiftUI 2.0 | Todo App" />
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="JqdS-oi96Gk" title="Create A Blog Website Using Swift and Publish | Swift 5, Xcode 11" />
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="o6hUFEXkf9w" title="Diffable Data Source | Swift 5, Xcode 11" />
-<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="iINefSdnT9c" title="Building Entire App - Viper, ReactiveCocoa, &amp; FireStore" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="iINefSdnT9c" title="Building Entire App - Viper, ReactiveCocoa, & FireStore" />
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="vuygdr0EcGM" title="Sign In With Apple [UIKit] | Swift 5, Xcode 11" />
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="ch_vKP9vlgk" title="Using Both UIKit And SwiftUI In Your Project | Swift 5, Xcode 11" />
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="AWPiup9fE2c" title="Intro To SwiftUI: Simple State Management | Swift 5, Xcode 11" />
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="XYRykbU97yA" title="Login To Your Database | Swift 5, Xcode 10" />
-<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="E_7ce0hyHm4" title="TableView Forms | Cocoa &amp; Coffee" />
+<YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="E_7ce0hyHm4" title="TableView Forms | Cocoa & Coffee" />
 <YoutubeItem channelName="Kilo Loco" channelId="Kilo_Loco" id="1Y1mZUTvWuo" title="`UIAlertController`: Alerts and Action Sheets | Swift 4, Xcode 9" />
 
 :::
@@ -300,7 +306,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="r-wkDztkB0E" title="Swift Functions - Lesson 6 (2023 / Xcode 14 / SwiftUI)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="PCvopT3Wnek" title="How to Build a User Interface in Xcode - Lesson 3 (2023 / Xcode 14 / SwiftUI)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="4PI04Yj3Ngs" title="How to Use Custom Fonts in SwiftUI" />
-<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="lamIxNozxv4" title="Intro to ARKit 01: Project Setup &amp; ARView" />
+<YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="lamIxNozxv4" title="Intro to ARKit 01: Project Setup & ARView" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="5g74qnbisrc" title="Building the WatchKit Target - The Dad Jokes Series (Part 4)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="CVHdqFM6hms" title="Window Management - Exploring macOS App (Part 3)" />
 <YoutubeItem channelName="CodeWithChris" channelId="CodeWithChris" id="A627xU_94kE" title="Mocking a Network Request (Unit Testing Part 3)" />
@@ -375,7 +381,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="9lVLFlyaiq4" title="SwiftUI How to create Custom Tab View with Tab Bar" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="euGLqwOEpZE" title="SwiftUI Movies Carousel Parallax Zoom Animation" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="K0IO4QvFxnM" title="Mastering Generics: Is This The Most Advanced Swift Code You've Seen?" />
-<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="n06RE9A_8Ks" title="Swift: How to Migrate MVC to MVVM &amp; Intro Unit Testing" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="n06RE9A_8Ks" title="Swift: How to Migrate MVC to MVVM & Intro Unit Testing" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="eu-YaVvsbjQ" title="SwiftUI Grids Columns with JSON ObservableObject and Async Image Loading" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="6rJN_ECd1XM" title="When to Semaphore vs Dispatch Group! Careful Multithreaded Shared Resource" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="q0-DIJszYRo" title="Weak and Unowned Self Closure Memory Leak Fixes" />
@@ -388,7 +394,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="5lSJzzI2fj8" title="SwiftUI: Animated Bar Charts and Picker Segmented Style Binding" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="vVfremnOKXs" title="Fullstack MyJournal - Home Posts CRUD in HTML EJS (Ep 3)" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="ihJGxFu2u9Q" title="Kotlin Firebase Messenger 01: Brand New Series - Creating Register and Login UI" />
-<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="yKWC3ov-ksg" title="Swift 4.2 - Auto Layouts &amp; Constraints - Ticket Booking screen (Xcode 10.1)" />
+<YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="yKWC3ov-ksg" title="Swift 4.2 - Auto Layouts & Constraints - Ticket Booking screen (Xcode 10.1)" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="DDuAt14e418" title="Speeding Up UIKit Development with SwiftUI UIKit Integration UIViewControllerRepresentable" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="l7vkP6WW6Yk" title="SwiftUI Reactive Intro: State Management and Bindings" />
 <YoutubeItem channelName="Lets Build That App" channelId="LetsBuildThatApp" id="7QgPpvqTfeo" title="SwiftUI: Facebook Complex Layouts - Horizontal Scroll View" />
@@ -444,7 +450,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="n3B4zr5FR78" title="macOS Development Complete Course  - Basic tutorial for beginners-Episode1" />
 <YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="5iA7KbzyFJM" title="WatchOS App  :- COVID-19 | Corona Stats in watchOS App Development  - Episode :- 4" />
 <YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="UiXZ9iG5UCo" title="WatchOS App  :- Movie or Video Player in watchOS App Development  - Episode :- 3" />
-<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="dzwPTELDMro" title="WatchOS App Development Course  | Static &amp; Dynamic Notifications Intro- Episode:-2" />
+<YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="dzwPTELDMro" title="WatchOS App Development Course  | Static & Dynamic Notifications Intro- Episode:-2" />
 <YoutubeItem channelName="Swift Kat Code Factory" channelId="swiftkatcodefactory" id="Y0WX_nGgKSg" title="Figma Tutorial - Website Admin Design, Prototyping |Basics |Build first Web Wireframe in 1 just hour" />
 
 :::
@@ -555,10 +561,10 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
-<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="OSxE86BUoOM" title="SwiftUI Picker View - Use Pickers and Form in SwiftUI - Swift 5 &amp; Xcode 11 - 2019" />
+<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="OSxE86BUoOM" title="SwiftUI Picker View - Use Pickers and Form in SwiftUI - Swift 5 & Xcode 11 - 2019" />
 <YoutubeItem channelName="maxcodes" channelId="maxcodes" id="7rPA_7Z1G8w" title="SwiftUI State Tutorial - Introduction to State in SwiftUI in Xcode 11 (2019)" />
 <YoutubeItem channelName="maxcodes" channelId="maxcodes" id="8tZjVRXsuig" title="SwiftUI Navigation Tutorial (2019) - NavigationView and NavigationButton - Push View in SwiftUI" />
-<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="h-ChkXnrpng" title="How To Download Xcode 11 Beta (2019) on Mojave or Catalina &amp; limits - WWDC19 Beta Software &amp; SwiftUI" />
+<YoutubeItem channelName="maxcodes" channelId="maxcodes" id="h-ChkXnrpng" title="How To Download Xcode 11 Beta (2019) on Mojave or Catalina & limits - WWDC19 Beta Software & SwiftUI" />
 
 :::
 
@@ -572,6 +578,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="XgoRxP-0Xeo" title="SwiftUI: How to Use the Mask Modifier to Crop Views" />
 <YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="beNSUTiKjsM" title="[Let ChatGPT Help You Build SwiftUI Interfaces and Animations Faster" />
 <YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="ZCuXQloK4gM" title="[SwiftUI Tutorial #1: Understanding How Multi-line Text Field Works in iOS 16" />
 <YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="aab3WWZPKQY" title="[How to Create Diffused Shadows in SwiftUI" />
@@ -616,7 +623,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 <YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="kWEyKdZ4G38" title="Why I don't do MVVM anymore" />
 <YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="bmTprKIdJ5U" title="How to upload your app to the App Store in 2023" />
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="v1lGPx6m__g" title="macOS Menu Bar App using MenuBarExtra in Ventura &amp; SwiftUI (No AppKit!)" />
+<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="v1lGPx6m__g" title="macOS Menu Bar App using MenuBarExtra in Ventura & SwiftUI (No AppKit!)" />
 <YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="AUOoalBwxos" title="How to support Dynamic Island in iOS 16.1" />
 <YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="ZVdbRjY2GN4" title="Global Hotkeys on macOS in SwiftUI" />
 <YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="PtQevkS1M2I" title="Create Menu Bar Commands with SwiftUI on macOS" />
@@ -733,7 +740,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
-<YoutubeItem channelName="iVish" channelId="iVish" id="YIVt74aBxnM" title="#37 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Send &amp; Receive Messages using WebSocket" />
+<YoutubeItem channelName="iVish" channelId="iVish" id="YIVt74aBxnM" title="#37 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Send & Receive Messages using WebSocket" />
 <YoutubeItem channelName="iVish" channelId="iVish" id="apNnHSAZIlg" title="#33 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Custom Title View on Navigation bar" />
 <YoutubeItem channelName="iVish" channelId="iVish" id="0HaXHzu3LRY" title="#1 WhatsApp Chat Clone BEST OF VIPER iOS Swift" />
 <YoutubeItem channelName="iVish" channelId="iVish" id="wnvGB9x401w" title="#22 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Logout and Clear JWT Tokens" />
@@ -776,7 +783,7 @@ tags: ["education", "youtube", "ios", "swift"]
 ::: details 목록
 
 <YoutubeItem channelName="App Designer2" channelId="swiftui2" id="4EPGGzeu5Ic" title="SwiftUI WebKit: How to create a YouTube video App + saving it in CoreData." />
-<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="2LMLXPOQwtc" title="SwiftUI &amp; UIKit: how to implement UIAlert TextField [UIWindowScene] iOS 15 Xcode 13" />
+<YoutubeItem channelName="App Designer2" channelId="swiftui2" id="2LMLXPOQwtc" title="SwiftUI & UIKit: how to implement UIAlert TextField [UIWindowScene] iOS 15 Xcode 13" />
 <YoutubeItem channelName="App Designer2" channelId="swiftui2" id="aP9CDmIoJGs" title="SwiftUI tutorial: how to create the iPhone 11 call screen iOS 14." />
 <YoutubeItem channelName="App Designer2" channelId="swiftui2" id="0SZvZxTXNdg" title="SwiftUI Saving images and data in the CodeData Xcode" />
 <YoutubeItem channelName="App Designer2" channelId="swiftui2" id="qjh08OJUX_s" title="Swift 5.1 Tutorial : How to implement UIAlertController programmatically( No Storyboard ) Xcode 11.3" />
@@ -839,7 +846,7 @@ tags: ["education", "youtube", "ios", "swift"]
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="HIsECG5s4DU" title="How senior iOS devs profile and solve performance issues with Instruments.app \| Live Dev Mentoring" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="huC8ppNPZyM" title="iOS DEV: How to enable testability with Dependency Injection? \| ED Clips" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="kXokwXxTd-o" title="Developing Modular and Independently Deployable iOS app features \| iOS Dev Live Mentoring" />
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="TtdtbMd5-TQ" title="Scaling iOS projects &amp; Learning advanced practices alone \(TDD/CI/CD\) \| iOS Dev Live Mentoring" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="TtdtbMd5-TQ" title="Scaling iOS projects & Learning advanced practices alone \(TDD/CI/CD\) \| iOS Dev Live Mentoring" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="UpduAlWLliU" title="XCTest + Swift: setUp/tearDown vs Factory Methods" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8mWeUnJ3X7U" title="S02E19: Migrating the Router and iOS AppDelegate \| Professional iOS Engineering Series" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8GPWh774HUM" title="TDD: Ultimate productivity, high salary, and a remarkable career \| iOS Lead Essentials Podcast #009" />

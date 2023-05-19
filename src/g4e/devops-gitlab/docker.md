@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 🦊GitLab CE/EE
-description: 🐋Docker > 🦊GitLab CE/EE
+title: 🐋Docker
+description: 🦊GitLab > 🐋Docker
 tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
 ---
 
@@ -13,7 +13,7 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 
 ---
 
-## 구성요소
+## Prerequisite(s)
 
 ![shield-docker][shield-docker]
 ![shield-gitlab][shield-gitlab]
@@ -113,29 +113,6 @@ Password: +Q1PpDEfw2NvY5u+HAsMgzbWg6WZozON4tAnOldG1/c=
 ![Pending Approval 1/2][gitlab-pending-approval-2]
 
 ![Pending Approval 2/2][gitlab-pending-approval-3]
-
----
-
-## Docker Compose
-
-```yml
-gitlab:
-  image: 'gitlab/gitlab-ce:15.9.6-ce.0'
-  container_name: gitlab
-  restart: always
-  hostname: 'gitlab.example.com'
-  environment:
-    GITLAB_OMNIBUS_CONFIG: |
-      external_url 'http://gitlab.example.com'
-  ports:
-    - "1980:80"
-    - "1922:22"
-    - "19443:443"
-  volumes:
-    - '$GITLAB_HOME/config:/etc/gitlab'
-    - '$GITLAB_HOME/logs:/var/log/gitlab'
-    - '$GITLAB_HOME/data:/var/opt/gitlab'
-```
 
 ---
 

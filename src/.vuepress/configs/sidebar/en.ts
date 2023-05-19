@@ -151,6 +151,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-csharp/README.md',
         '/g4e/lang-csharp/references.md',
         '/g4e/lang-csharp/github.md',
+        '/g4e/lang-csharp/youtube.md',
       ]
     }, {
       text: '🦦Go',
@@ -196,9 +197,20 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-git/README.md',
         '/g4e/devops-git/basics.md',
         '/g4e/devops-git/troubleshooting.md',
-        '/g4e/devops-git/troubleshooting-gitlab-ci.md',
         '/g4e/devops-git/references.md',
         '/g4e/devops-git/youtube.md',
+      ]
+    }, {
+      text: '🦊Gitlab',
+      collapsible: true,
+      children: [
+        '/g4e/devops-gitlab/README.md',
+        '/g4e/devops-gitlab/docker.md',
+        '/g4e/devops-gitlab/docker-gitlab-runner.md',
+        '/g4e/devops-gitlab/docker-compose.md',
+        '/g4e/devops-gitlab/troubleshooting.md',
+        '/g4e/devops-gitlab/references.md',
+        '/g4e/devops-gitlab/youtube.md',
       ]
     }, {
       text: '🐧Linux',
@@ -244,9 +256,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/devops-docker/README.md',
-        '/g4e/devops-docker/basics.md',
-        '/g4e/devops-docker/gitlab.md',
-        '/g4e/devops-docker/gitlab-runner.md',
+        '/g4e/devops-docker/basics.md',        
         '/g4e/devops-docker/docker-compose.md',
         '/g4e/devops-docker/favorite-containers.md',
         '/g4e/devops-docker/references.md',
@@ -376,6 +386,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-oracle/README.md',
         '/g4e/db-oracle/query.md',
         '/g4e/db-oracle/references.md',
+        '/g4e/db-oracle/youtube.md',
       ]
     }, {
       text: '📦Cubrid',
@@ -553,6 +564,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/5.md',
         '/crashcourse/paul-hudson-100-days-of-swift/6.md',
         '/crashcourse/paul-hudson-100-days-of-swift/7.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/8.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',

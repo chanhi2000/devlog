@@ -50,4 +50,6 @@ tags: ["sql", "db", "mysql", "shell"]
 
 - [[ORACLE] Insert문 export 후 insert 하기](https://dbcp.tistory.com/327)
 
+---
+
 <TagLinks />

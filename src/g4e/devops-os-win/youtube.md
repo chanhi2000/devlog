@@ -30,10 +30,12 @@ tags: ["education", "youtube", "windows"]
 
 ## ThioJoe
 
-[ThioJoe][yu-thio-joe]
+[![ThioJoe](https://yt3.googleusercontent.com/ytc/AGIKgqMsagJqJiFffFIyFaajtjrF1Hfl3V2JKq_RjPnnMA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-thio-joe]
 
 ::: details 목록
 
+<YoutubeItem channelName="ThioJoe" channelId="ThioJoe" id="MWw7YI_3Pf4" title="10 Hidden Features in Microsoft Word (You’ll Wish You Knew Sooner)" />
+<YoutubeItem channelName="ThioJoe" channelId="ThioJoe" id="UL3R1ois6RU" title="Google Chrome's Secret Dark Mode for ALL Websites" />
 <YoutubeItem channelName="ThioJoe" channelId="ThioJoe" id="2n7t91kGEPU" title="9 Advanced Windows Features EVERYONE Should Know!" />
 <YoutubeItem channelName="ThioJoe" channelId="ThioJoe" id="bUvHTxZgNJE" title="Top 15 REQUIRED Windows Programs Everyone Should Have" />
 <YoutubeItem channelName="ThioJoe" channelId="ThioJoe" id="-weUs4Le6B0" title="Top 10 Free Windows Programs (You've Never Heard Of)" />
@@ -51,7 +53,7 @@ tags: ["education", "youtube", "windows"]
 
 ## NETVN82
 
-[NETVN82][yu-netvn82]
+[![NETVN82](https://yt3.googleusercontent.com/kbmOLGu_VrF-7LWJ6lCwfPjDdyIBuVWROyvJq9nAoqLQCjHmB_afjtfoVni6ZfvqiaORTw2pllI=s176-c-k-c0x00ffffff-no-rj =x150)][yu-netvn82]
 
 ::: details 목록
 
@@ -61,7 +63,7 @@ tags: ["education", "youtube", "windows"]
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="1dXVIrFVITk" title="Turn old iPhone into Windows XP PC"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="4ZYbg0Hldjc" title="CMD : Boot into Safe Mode"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="v1C21TJFcYM" title="CMD : Enter UEFI / BIOS with only 1 command"/>
-<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="DQsDWDnYgu0" title="CMD : Show &amp; Export all Wi-Fi passwords to File"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="DQsDWDnYgu0" title="CMD : Show & Export all Wi-Fi passwords to File"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="k1szHpFXukI" title="How to Monitor Your Windows Server Using MRTG"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="aAcsNXVQ7To" title="Create your own network traffic monitoring tool on Windows"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="29PlocbDz5g" title="Connect to Wi-Fi network with Camera"/>
@@ -72,7 +74,7 @@ tags: ["education", "youtube", "windows"]
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="WKnu7tTMlEM" title="How to combine 03 PCs into 01 Network Storage system | PetaSAN"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="dzUnSOHJB3A" title="How to install Zabbix on Windows with Docker Desktop"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="I7L6_E4YTRA" title="How to create your own Wiki page"/>
-<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="u3yO0OPUXbI" title="Free Control 2 PC with only 1 Keyboard &amp; Mouse | Microsoft app"/>
+<YoutubeItem channelName="NETVN82" channelId="NETVN82" id="u3yO0OPUXbI" title="Free Control 2 PC with only 1 Keyboard & Mouse | Microsoft app"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="_Xkpy0-Qy5w" title="View CPU temperature on Taskbar in Windows"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="EIUBzBh4k_Y" title="How to build your own cloud on Windows for free | NETVN"/>
 <YoutubeItem channelName="NETVN82" channelId="NETVN82" id="6rER1_P5uvo" title="CMD : How to Find Your Public IP Addresses with 1 command | NETVN"/>
@@ -101,10 +103,15 @@ tags: ["education", "youtube", "windows"]
 
 ## Britec09
 
-[Britec09][yu-britec-09]
+[![Britec09](https://yt3.googleusercontent.com/ytc/AGIKgqOGgxDvO4EOPacWD86VmsWqUPHmSed6-6vC2eCGVw=s176-c-k-c0x00ffffff-no-rj x150)][yu-britec-09]
 
 ::: details 목록
 
+<YoutubeItem channelName="Britec09" channelId="Britec09" id="rer5POB5LdE" title="This USB Device Will Help To Repair Your PC" />
+<YoutubeItem channelName="Britec09" channelId="Britec09" id="g9HtnjZuPQs" title="First Thing to Change in Windows 11" />
+<YoutubeItem channelName="Britec09" channelId="Britec09" id="uYe5mFSwOlY" title="The End Of Windows 10" />
+<YoutubeItem channelName="Britec09" channelId="Britec09" id="_rNPHLUcJ28" title="Is Atlas OS Worth it" />
+<YoutubeItem channelName="Britec09" channelId="Britec09" id="etd6JDW-TKM" title="Customize Your Windows 11 Settings With This Tool" />
 <YoutubeItem channelName="Britec09" channelId="Britec09" id="4rTbJ9o9LoY" title="How to Disable Windows S Mode Without Internet" />
 <YoutubeItem channelName="Britec09" channelId="Britec09" id="FxxwAU-Zg3Q" title="Reset Forgotten Windows 11 Password For Free" />
 <YoutubeItem channelName="Britec09" channelId="Britec09" id="BaAm5dbO5N0" title="Do This After Installing Windows 11" />
@@ -150,6 +157,11 @@ tags: ["education", "youtube", "windows"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="n1Vlh3hT8Yw" title="How to fix 'Your IT administrator has limited access' Error in Windows 11" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="Fadby_7V3ek" title="How to Fix Google Chrome from Running Background in Windows 11" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="xYBuWhkO6co" title="How To Turn Sticky Keys On or Off in Windows 11" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="ZqcGyZsmv9Q" title="How to Fix PowerShell Not Launching or Not Opening on Windows 11" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="Zt4mTg0IwxI" title="Finally, You Can Connect your iPhone to Windows 11 Using Phone Link" />
 <YoutubeItem channelName="Tricknology" channelId="Tricknology" id="jJcLRDC4fvs" title="How to Run Computer Performance Benchmark Test on Windows 11 Using CMD" />
 <YoutubeItem channelName="Tricknology" channelId="Tricknology" id="NOETv7QLO-w" title="How to delete all emails in Gmail AT ONCE" />
 <YoutubeItem channelName="Tricknology" channelId="Tricknology" id="ER-xXdqePRU" title="How to Download and Install Android Apps on Windows 11 Using Amazon Appstore" />
@@ -171,12 +183,16 @@ tags: ["education", "youtube", "windows"]
 
 ::: details 목록
 
-<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="1j1NmuqNlI0" title="Adobe Firefly: Crash Course | Sign-up (Free), Alternatives &amp; Should you care? | Complete Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="HwDcOhlaJsQ" title="Ultimate Context Menu Customisation 😍 Themes & More | Nilesoft Shell Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="VjkE4dqdHX8" title="Ubuntu/WSL SSH Server Setup Guide | Remote SSH WSL" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="6XIewWXXSNs" title="How to Port Forward Ubuntu/WSL | Simple Windows Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="2LEnBXH8xV0" title="🎨 Make WSL/Ubuntu Terminal Look Better | Oh My Posh Guide" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="1j1NmuqNlI0" title="Adobe Firefly: Crash Course | Sign-up (Free), Alternatives & Should you care? | Complete Guide" />
 <YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="lzhXZQucQFA" title="Hide Recent Files in the Start Menu | Simple Windows 11 Guide" />
 <YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="cOJbzmZTKvM" title="How to setup Android Subsystem on Windows 11 | NEW GUIDE" />
 <YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="i7651MjMXNs" title="Install osu! on Mac | Lazer + Normal/Stable | Full Guide" />
 <YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="BbYJd9kRjLg" title="🤯Insane Image Manipulation | ControlNet Install & Usage Guide | UPDATED" />
-<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="J5A-T2he1Bo" title="INSANE Text2Video in SDUI📹Full Install &amp; Use Guide | AUTOMATIC1111 Stable Diffusion" />
+<YoutubeItem channelName="TroubleChute" channelId="TroubleChute" id="J5A-T2he1Bo" title="INSANE Text2Video in SDUI📹Full Install & Use Guide | AUTOMATIC1111 Stable Diffusion" />
 
 :::
 
@@ -234,6 +250,7 @@ tags: ["education", "youtube", "windows"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Michael MJD" channelId="MichaelMJD" id="mdXQ8rcmF48" title="Installing Mac OS on the Nintendo Wii!" />
 <YoutubeItem channelName="Michael MJD" channelId="MichaelMJD" id="tdhCDyJhjag" title="Running EVERY Classic Mac OS Version in your Browser! - Infinite Mac Updates" />
 
 :::

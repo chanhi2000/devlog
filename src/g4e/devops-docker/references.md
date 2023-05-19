@@ -12,6 +12,12 @@ description: 🐋Docker > 📚References
 
 ---
 
+## Stackoverflow
+
+- [How can I change the location of docker images when using Docker Desktop on WSL2 with Windows 10 Home?](https://stackoverflow.com/questions/62441307/how-can-i-change-the-location-of-docker-images-when-using-docker-desktop-on-wsl2)
+
+
+
 ## Medium
 
 - [AWS Best practice for Amazon Elastic Kubernetes Service (EKS)](https://medium.com/avmconsulting-blog/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724)
@@ -34,17 +40,6 @@ description: 🐋Docker > 📚References
 ## LogRocket
 
 - [Top Docker and Docker Desktop alternatives](https://blog.logrocket.com/docker-desktop-alternatives)
-
----
-
-## GitLab
-
-- [[Docker for Windows] GitLab & Admin 관리자 계정 설정법](https://forgiveall.tistory.com/552)
-- [[GitLab-Runner] windows10 Pro에 설치하기](https://forgiveall.tistory.com/553)
-- [Job succeed, but uploading artifacts fails with 500 error](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26869)
-- [Uploading artifacts fails with 500 error](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/28972)
-- [Job ends with error "WARNING: Uploading artifacts as "archive" to coordinator... failed"](https://stackoverflow.com/questions/65324410/job-ends-with-error-warning-uploading-artifacts-as-archive-to-coordinator)
-- [BytemarkHosting/configs-gitlab-docker](https://github.com/BytemarkHosting/configs-gitlab-docker/blob/master/docker-compose.yml)
 
 ---
 

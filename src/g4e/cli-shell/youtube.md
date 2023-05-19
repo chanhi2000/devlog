@@ -15,10 +15,11 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ## gotbletu
 
-[gotbletu][yu-gotbletu]
+[![gotbletu](https://yt3.googleusercontent.com/ytc/AGIKgqM7ZErFDd_3WkLdxF0MLhvI7IL50LtxREnMgAmV=s176-c-k-c0x00ffffff-no-rj =x150)][yu-gotbletu]
 
 ::: details 목록
 
+<YoutubeItem channelName="gotbletu" channelId="gotbletu" id="N19q30RlAkM" title="termscp - TUI Terminal File Transfer and Explorer SSH SFTP SCP FTP FTPS Amazon S3" />
 <YoutubeItem channelName="gotbletu" channelId="gotbletu" id="oedJ-taJ4fg" title="Reduce Filesize by Converting GIF PNG JPG Images to WebP  - Linux CLI" />
 <YoutubeItem channelName="gotbletu" channelId="gotbletu" id="Q10dcPjmRTI" title="shellnium - Automate The Web Using Shell Scripts - Linux SHELL SCRIPT" />
 <YoutubeItem channelName="gotbletu" channelId="gotbletu" id="8SqakfCSzQk" title="fzf-nova -- FZF as Rofi Dmenu Replacement Launcher - Linux CLI GUI" />
@@ -35,7 +36,7 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ## bashbunni
 
-[bashbunni][yu-bashbunni]
+[![bashbunni](https://yt3.googleusercontent.com/M5177JH4bSDoTINrdCTMn0OiXDdVdba3eewk5bxl654e4ZWfr310YE4AKCIB9qAE0ex0vto7qA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-bashbunni]
 
 ::: details 목록
 
@@ -123,6 +124,7 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Kris Occhipinti" channelId="DigitalMetal" id="XO5LSrPNiV0" title="ADB Shell with Persistent History" />
 <YoutubeItem channelName="Kris Occhipinti" channelId="DigitalMetal" id="SgHKpmzLmcA" title="Naming Your Scripts" />
 <YoutubeItem channelName="Kris Occhipinti" channelId="DigitalMetal" id="WjfZVvoF6E0" title="Creating Config Files for Your Scripts" />
 <YoutubeItem channelName="Kris Occhipinti" channelId="DigitalMetal" id="QVIUsvcZ81c" title="Convert Text to SVG" />
@@ -178,6 +180,9 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="sGdW4Amolq4" title="A cure for React useState hell" />
+<YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="MtNAdeEV1Gk" title="TypeScript utility types you need to know" />
+<YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="bGhUyJE2bCk" title="Be careful with the `as` keyword in TypeScript" />
 <YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="XK0V0E3bA-M" title="Deep cloning objects in JavaScript with structuredClone" />
 <YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="Wxlhtubs2FU" title="AI + VS Code = 🤯" />
 <YoutubeItem channelName="Steve (Builder.io)" channelId="Steve8708" id="nTqDhv447GA" title="Introducing AI Shell: convert natural language to shell commands" />

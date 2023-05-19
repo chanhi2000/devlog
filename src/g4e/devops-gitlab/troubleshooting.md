@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
-title: 🩺🦊Troubleshooting (Gitlab CI)
-description: 🛠️Git > 🩺🦊Troubleshooting (Gitlab CI)
-tags: ["troubleshooting", "git", "git-cli", "sh", "yml", "gitlab"]
+title: 🩺Troubleshooting 
+description: 🦊Gitlab > 🩺Troubleshooting 
+tags: ["troubleshooting", "gitlab", "gitlab-cli", "sh", "yml", "gitlab"]
 ---
 
 # {{ $frontmatter.title }} 관련

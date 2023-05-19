@@ -26,6 +26,8 @@ meta:
 
 ::: details 목록
 
+<YoutubeItem channelName="Web Dev Cody" channelId="WebDevCody" id="i76sGb8t5eI" title="Can the cheapest $4 VM host a next app?" />
+<YoutubeItem channelName="Web Dev Cody" channelId="WebDevCody" id="n7mV2GAEx8M" title="This is why you need caching" />
 <YoutubeItem channelName="Web Dev Cody" channelId="WebDevCody" id="nYmPIVeGwFY" title="Online Course Platform Series (T3 Stack, Mantine, Prisma, Next-Auth)  - Part 1" />
 <YoutubeItem channelName="Web Dev Cody" channelId="WebDevCody" id="Qks3eqlImy8" title="Trying to learn Go by making an API" />
 <YoutubeItem channelName="Web Dev Cody" channelId="WebDevCody" id="emHCoNOwwJQ" title="Trying to learn Go by making an API" />

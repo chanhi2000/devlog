@@ -403,6 +403,12 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="alHtNdLf-mY" title="Web Development Week Day - 5 | NodeJS And ReactJS Full Course | Node &amp; React Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="-JolQDZCMX8" title="🔥 React JS Full Course 2023 | Learn React JS in 5 Hours | React JS Tutorial | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="fErDcUtd8fA" title="Computer Networking Full Course 2023 | Networking Full Course For Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="ki8-OlR86Qw" title="🔥Web Development Week Day 3 | PHP Full Course | PHP Tutorial For Beginners | Learn PHP | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="F2V_h4ZSWqM" title="🔥 Blockchain Bootcamp 2023 | Blockchain Development for Beginners | Simplilearn" />
+<YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="8nn8HIS0Nk4" title="🔥DevOps Week Day - 5 | DevOps Tools - Ansible, Jenkins, Nagios, Chef, Puppet, Selenium | Simplilearn" />
 <YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="4JDYP5XiHdI" title="🔥Advanced Excel Full Course 2022 | Advanced Excel Functions | MS Excel 19 Training | Simplilearn" />
 <YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="kAw1l1bqhLM" title="🔥Cyber Security Full Course 2022 | Cyber Security Course Training For Beginners 2022 | Simplilearn" />
 <YoutubeItem channelName="Simplilearn" channelId="SimplilearnOfficial" id="mPkb0y8OY2k" title="🔥AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn" />
@@ -461,6 +467,8 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="SeOlDGN346E" title="Learn CSS – Full Tutorial for Beginners (2023)" />
+<YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="B3DndCaYgyM" title="How to import Swagger APIs into Postman?" />
 <YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="wJjyZTPgwek" title="Linux Tutorial - Master The Command Line" />
 <YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="F8LplPNfax8" title="Docker Tutorial" />
 <YoutubeItem channelName="ProgrammingKnowledge" channelId="ProgrammingKnowledge" id="7MYx4Fx_eXI" title="C Programming Tutorial - Full Course" />
@@ -547,6 +555,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="xcONCZR6bMo" title="Python for Data Science" />
 <YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="M5ugY7fWydE" title="C# Full Course : C# Tutorial for Beginners" />
 <YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="ygL_xcavzQ4" title="Rust Tutorial Full Course" />
 <YoutubeItem channelName="Derek Banas" channelId="derekbanas" id="3FkWddODLno" title="Visual Basic Tutorial 2017" />
@@ -575,6 +584,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="DEvS" channelId="jimmykimu" id="KYAF5yVElLY" title="JavaScript: Debounce, Throttle | 한꺼번에 일어나는 빠르고 많은 실행을 제어 (feat. Closure)" />
 <YoutubeItem channelName="DEvS" channelId="jimmykimu" id="pClOy5lA7rU" title="`fullPage.js` 기초 사용법 (풀페이지 fullpage js)" />
 <YoutubeItem channelName="DEvS" channelId="jimmykimu" id="ohCBS5DXr8s" title="자바스크립트: DOM 이벤트 흐름 | JavaScript: DOM Event Flow | 캡쳐링, 버블링, target, currentTarget, stopPropagation.." />
 <YoutubeItem channelName="DEvS" channelId="jimmykimu" id="DiPa943Wa7Q" title="Sass (SCSS): Nesting (네스팅)과 CSS의 BEM 구조" />
@@ -610,6 +620,11 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="KoizAhORc1U" title="[강의 리뉴얼] 10주 완성 C++ 코딩테스트｜알고리즘 코딩테스트｜인프런｜개발자 취업" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="KvVU90C1qdc" title="IT 기술을 배우고 나눠요│인프런 | 게임 프로그래머 입문 올인원 - 템플릿 분석" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="Mpd10_TRSnE" title="IT 기술을 배우고 나눠요│인프런 | 게임 프로그래머 입문 올인원 - 클라/서버 연동" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="JLq31dLiGNs" title="IT 기술을 배우고 나눠요│인프런 | 이득우의 언리얼 프로그래밍 - 언리얼 공부" />
+<YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="S11-HF0eNBc" title="IT 기술을 배우고 나눠요│인프런 | 이득우의 언리얼 프로그래밍 - 언리얼 게임제작의 기초" />
 <YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="K1lKgxeXDrs" title="Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 | 인프콘 2022" />
 <YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="iEGDEdivaGA" title="승리하는 제안서 강의소개│인프런 | 미리보기 | 제안서 PM" />
 <YoutubeItem channelName="인프런 inflearn" channelId="inflearn9845" id="e5lIMEm7UPg" title="Sass (SCSS): CSS 가상요소(::before, ::after)를 이용한 링크 애니메이션 (Link Animation), attr(), currentColor" />
@@ -691,6 +706,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="나도코딩" channelId="nadocoding" id="rJE6bhVUNhk" title="유니티 무료 강의 (Crash Course) - 5시간 만에 게임 만드는 법 배우기" />
 <YoutubeItem channelName="나도코딩" channelId="nadocoding" id="31EX6TLao5g" title="공공데이터를 활용한 우리 동네 아파트 실거래가 분석" />
 <YoutubeItem channelName="나도코딩" channelId="nadocoding" id="XK3eU9egll8" title="파이썬 코딩 무료 강의 (활용편6) - OpenCV 이미지 처리, 얼굴 인식을 통한 캐릭터 씌우기를 해보아요" />
 <YoutubeItem channelName="나도코딩" channelId="nadocoding" id="dJfq-eCi7KI" title="아나콘다 환경 설정 및 주피터 노트북 사용법" />
@@ -755,6 +771,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="vQTCaFv8E0M" title="Why ChatGPT is the next big thing in DevOps Pipeline?" />
 <YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="ZopKM2umkew" title="CI CD Full Course In One Hour" />
 <YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="4_ORDXKLMWs" title="Selenium Testing Full Course" />
 <YoutubeItem channelName="ClayDesk E-Learning" channelId="claydesk" id="SpfO55NPhx8" title="AWS Certified Cloud Practitioner 2022 FULL COURSE for Beginners (2019 Course Updated)" />
@@ -925,6 +942,27 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <!-- OktaDev -->
 
 ---
+
+## 최흥배
+
+[최흥배][yu-jacking75]
+
+::: details 목록
+
+<YoutubeItem channelName="최흥배" channelId="jacking75" id="yoP3EXEnb0g" title="[책 소개] 윈도우즈 API 정복" />
+<YoutubeItem channelName="최흥배" channelId="jacking75" id="9s5dZ6XzXHc" title="단계별 실습을 통해 IOCP 배우기 \(8\)" />
+<YoutubeItem channelName="최흥배" channelId="jacking75" id="lMVdPDvElKg" title="C# 네트워크 프로그래밍 공부" />
+<YoutubeItem channelName="최흥배" channelId="jacking75" id="v8tXh1hGdeY" title="Windows에서 C++ 오픈소스 Boost 라이브러리 설치와 사용하기" />
+<YoutubeItem channelName="최흥배" channelId="jacking75" id="1E5ovnFy2m8" title="\[서버 아키텍처\] PiggPARTY에서 실시간 통신 시스템" />
+<YoutubeItem channelName="최흥배" channelId="jacking75" id="uGjrPjqGR24" title="\[.NET Conf 2023 x Seoul\] Hands-on-Lab: 데이터 직렬화" />
+:::
+
+<!-- 최흥배 -->
+
+---
+
+
+
 
 ## Misc. 
 

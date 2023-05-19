@@ -19,6 +19,10 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="ro3a-GmaLqE" title="How to Build a Swipeable Image Slider in Jetpack Compose - Android Studio Tutorial" />
+<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="Z5VjmLhnoJU" title="How to Use the Google Play In-App Update API | Android Studio Tutorial" />
+<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="bTgyDqBoZ_o" title="Custom Layouts In Jetpack Compose - Crash Course" />
+<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="jYetmv0xRRI" title="THIS Is the #1 Clean Code Mistake" />
 <YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="xRfE2n37pMM" title="THIS Is How You Properly Debug Your Jetpack Compose UI - Android Studio Tutorial" />
 <YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="byOmrmXG4yQ" title="Convert Figma Designs to Jetpack Compose Code With This FREE Plugin 😱" />
 <YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="xLtF89qMFEI" title="How to Migrate Gradle Groovy to Gradle Kotlin DSL in Android Studio" />
@@ -496,6 +500,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ::: details 목록
 
+<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="HEH57g-UP4Q" title="Building a Full Stack Web Application with Kotlin and React - Part 1/2 - Backend + Frontend" />
 <YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="yKiBFlfGR2Q" title="Android MVVM with CommandBus - Full Part 2 - Splash Activity and ViewModel" />
 <YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="cLjBhAUl4zU" title="Android MVVM with CommandBus - Full Part 1 - BaseViewModel and BaseActivity" />
 <YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="rU-dS0fwqY0" title="Data Structures &amp; Algorithms in Kotlin - Linked List push/append" />
@@ -506,6 +511,26 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 <!-- The Android Programmer -->
 
 ---
+
+## Android Heroes
+
+[Android Heroes][yu-android-heroes]
+
+::: details 목록
+
+<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="3xLr6Ck0O4w" title="Gerard Paligot &amp; Fanny Demey - Accessibility with Compose : Experimentation &amp; Live coding - DC 2022" />
+<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="VI7eWTfHw6I" title="Emanuele Papa - KMM survival guide: how to tackle everyday struggles between Kotlin and Swift" />
+<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="bR33g7XHIvU" title="Andrea Cioccarelli - Android App Security Fundamentals - droidcon Italy 2022" />
+<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="1st3mH8U-QE" title="Roberto Orgiu, Android Engineer, The New York Times: An Android Dev start to Kotlin Multiplatform" />
+<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="TWLkswxjSr0" title="Modularizing Android Applications - Marvin Ramin" />
+
+:::
+
+<!-- Android Heroes -->
+
+---
+
+
 
 
 
@@ -527,3 +552,4 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 [yu-coding-w-tea]: https://www.youtube.com/@CodingwithT
 [yu-sarim-khan]: https://www.youtube.com/@sarimLife
 [yu-theandroidprogrammer]: https://www.youtube.com/@theandroidprogrammer
+[yu-android-heroes]: https://www.youtube.com/@DroidconItaly

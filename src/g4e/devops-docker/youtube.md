@@ -44,6 +44,11 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
+<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="gfxw_zPpO-4" title="Spacelift Tutorial - Effortlessly Build Your CI/CD Pipeline | KodeKloud" />
+<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="a3ujwK65dgs" title="Linux Crash Course for Beginners | Free Linux Lab Access | KodeKloud" />
+<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="esISkPlnxL0" title="AWS ECS Tutorial | Deploy a New Application from Scratch | KodeKloud" />
+<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="9vlEzgCyVfo" title="5 Kubernetes Features Every Beginner Must Know" />
+<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="7553XZ0T6pM" title="What is WebAssembly? And what's it got to do with Docker? | WASM vs Docker | KodeKloud" />
 <YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="Z01b9QZG0D0" title="Ansible Playbooks for Beginners - Hands-On" />
 <YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="zJ6WbK9zFpI" title="Docker Tutorial for Beginners | Docker Full Course | Access to FREE LABS [No Ads]" />
 <YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="7553XZ0T6pM" title="What is WebAssembly? And what's it got to do with Docker? | WASM vs Docker | KodeKloud" />
@@ -92,6 +97,8 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="1e2yGEFaB0A" title="Flatnotes - Note-taking Made SIMPLE!" />
+<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="V1GXq1FURxM" title="Passbolt - Why I Can't Recommend This Password Manager" />
 <YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6BzPmbgFQCo" title="Kasm Workspaces: Easy Installation! (Episode 2)" />
 <YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6O_REElI1hs" title="OpenProject - Project Management Deployed QUICKLY!" />
 <YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="da4ot6AIRDU" title="Monitor Your Service Uptime with Uptime Kuma" />
@@ -133,9 +140,24 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Travis Media
 
+[Travis Media][yu-travis-media]
 
+::: details 목록
 
+<YoutubeItem channelName="Travis Media" channelId="TravisMedia" id="8_0DJ9FOlOM" title="GitHub Copilot X Explained | A big step forward..." />
+<YoutubeItem channelName="Travis Media" channelId="TravisMedia" id="LCvBPsuHe6g" title="Using Cloud Firestore For Your REACT Backend 2023 | CRUD App" />
+<YoutubeItem channelName="Travis Media" channelId="TravisMedia" id="2doSoMN2xvI" title="AWS Networking Basics For Programmers | Hands On" />
+<YoutubeItem channelName="Travis Media" channelId="TravisMedia" id="h66RrCn5rvQ" title="Automate AWS EC2 with Python | DevOps Coding Challenge" />
+<YoutubeItem channelName="Travis Media" channelId="TravisMedia" id="CjKhQoYeR4Q" title="Getting Started With AWS Cloud | Step-by-Step Guide" />
+<YoutubeItem channelName="Travis Media" channelId="TravisMedia" id="i7ABlHngi1Q" title="Docker For Beginners: From Docker Desktop to Deployment" />
+
+:::
+
+<!-- Travis Media -->
+
+---
 
 ## VirtualizationHowto
 
@@ -158,6 +180,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
+<YoutubeItem channelName="Bitovi" channelId="Bitovi" id="89XFJXfmGQ0" title="How To Debug Angular Apps" />
 <YoutubeItem channelName="Bitovi" channelId="Bitovi" id="oya5LuHUCXc" title="Deploy Docker to AWS EC2 with GitHub Actions" />
 <YoutubeItem channelName="Bitovi" channelId="Bitovi" id="_rQC1wPxEUI" title="GitHub for Platform Engineering: AWS to Docker" />
 

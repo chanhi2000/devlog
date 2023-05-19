@@ -248,6 +248,8 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
+<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="tIazVdhsSqQ" title="The BEST Home Server Uptime Monitoring!" />
+<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="tIWDpG7sNTU" title="Let's learn GitHub Actions in a self-hosted Homelab!" />
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="xWz_-gyv3j4" title="What's the BEST home server operating system?" />
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="syzwLwE3Xq4" title="You want a real DNS Server at home? (bind9 + docker)" />
 <YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="cEDXeYStfP4" title="Self hosted, open source password manager built for teams!" />
@@ -270,6 +272,8 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="i7vRteT9m-g" title="KB국민은행은 왜 RDB를 오라클에서 IBM DB2로 전환하였나? [토크아이티 세미남258, 디비투이, 데이터베이스 마이그레이션]" />
+<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="U-GjKysUiFc" title="가장 빠르게 기업의 글로벌 진출을 도와주는 HR SaaS 플랫폼 [토크아이티 웨비나]" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="4HGh3FMxaoM" title="대화형 AI가 만드는 Hyper Automation(초자동화) 분야별 적용사례: IT, HR, 상담, Sales [토크아이티 세미남204, 코어AI]" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="M1_RYdawkrA" title="AWS에서 쿠버네티스를 가장 쉽게 이용하는 방법: ROSA(Redhat Openshift on AWS) [토크아이티 세미남193]" />
 <YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="uel5jFKNXOc" title="클라우드 환경에서 CAD/CAE 프로젝트를 관리하려는 개발자, 설계자 그리고 엔지니어를 위한 솔루션, Ansys Gateway[토크아이티 웨비나]" />
@@ -340,9 +344,11 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## ForrestKnight
 
-[ForrestKnight][yu-fknight]
+[![ForrestKnight](https://yt3.googleusercontent.com/avdsle4t42vMMUPALsh5wi5yD8CE2-ELOhwVjjd08OL1hUBobYaR1WhwACXjAdXe-VoESDwZ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-fknight]
 
 ::: details 목록
+
+<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="sDlCSIDwpDs" title="Everything You NEED to Know About WEB APP Architecture" />
 <YoutubeItem channelName="ForrestKnight" channelId="fknight" id="b0pkpcD8Ms4" title="How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite" />
 <YoutubeItem channelName="ForrestKnight" channelId="fknight" id="DIny00tOBdU" title="Command Line Tools ALL Developers Should Know" />
 <YoutubeItem channelName="ForrestKnight" channelId="fknight" id="LktFP0Dpl-c" title="I Coded with WSL2 for a Week" />
@@ -498,6 +504,28 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Brodie Robertson
+
+[Brodie Robertson][yu-brodie-robertson]
+
+::: details 목록
+
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="SOtLR6qBb90" title="Clipboard: Simple Unified Linux Clipping Tool" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="CfZL7hi-Bd8" title="Installing Linux Software Is More Confusing Than Ever" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="1bO41Qqd-Cs" title="Systemd Introduces Userspace Reboots???" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="vVjrto8HYfk" title="Hide Your Browser In Plain Sight With Chameleon" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="IZGeqeEjZMY" title="Running containers effortlessly on AWS AppRunner" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="toYV1_fPgcg" title="Droidcam: Turns Your Phone Into The Best Webcam" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="fGQvXNlosTc" title="Embrace The Power of GUIs With Yet Another Dialog" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="buPZ3ve4bzE" title="Alacritty's New Vim Mode And Other Awesome Features" />
+<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="Ut0LZiYoabo" title="6cord Is An Almost Perfect Terminal Discord Client" />
+
+:::
+
+<!-- Brodie Robertson -->
+
+---
+
 ## Packt
 
 [Packt][yu-packt]
@@ -553,4 +581,5 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 [yu-david-bombal]: https://www.youtube.com/@davidbombal
 [yu-tutoriaLinux]: https://www.youtube.com/@tutoriaLinux
 [yu-vmware-tanzu]: https://www.youtube.com/@VMwareTanzu
+[yu-brodie-robertson]: https://www.youtube.com/@BrodieRobertson
 [yu-packt]: https://www.youtube.com/@OfficialPackt

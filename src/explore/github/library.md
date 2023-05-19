@@ -137,7 +137,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [finos/perspective][finos/perspective]: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
   - [🌐Official Site](https://perspective.finos.org)
 - [eduard-permyakov/permafrost-engine][eduard-permyakov/permafrost-engine]: An OpenGL RTS game engine written in C
-- [WerWolv/ImHex][WerWolv/ImHex]: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WerWolv/ImHex][WerWolv/ImHex]: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. <GithubTags tagItems="windows;c-plus-plus;multi-platform;static-analysis;reverse-engineering;disassembler;preprocessor;hacking;forensics;analyzer;hex-editor;cybersecurity;dear-imgui;binary-analysis;ips;hacktoberfest;dark-mode;pattern-language;mathematical-evaluator" />
   - [🌐Official Site](https://imhex.werwolv.net)
 - [Light-City/CPlusPlusThings][Light-City/CPlusPlusThings]: C++那些事
   - [🌐Official Site](https://light-city.club/sc)
@@ -202,6 +202,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [SysSec-KAIST/LTESniffer][SysSec-KAIST/LTESniffer]: An Open-source LTE Downlink/Uplink Eavesdropper
 - [toverainc/willow][toverainc/willow]: Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative <GithubTags tagItems="home-automation;alexa;privacy;deep-learning;echo;esp32;speech-recognition;home-assistant;speech-to-text;google-home;esp-idf;whisper;esp-adf" />
 - [torvalds/linux][torvalds/linux]: Linux kernel source tree
+- [facebookincubator/CG-SQL][facebookincubator/CG-SQL]: CG/SQL is a compiler that converts a SQL Stored Procedure like language into C for SQLite. SQLite has no stored procedures of its own. CG/CQL can also generate other useful artifacts for testing and schema maintenance. <GithubTags tagItems="c;sql;sqlite;c-lang" />
+  - [🌐Official Site](https://cgsql.dev)
+
+
 
 ---
 
@@ -296,6 +300,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [synercys/annotated_latex_equations][synercys/annotated_latex_equations]: Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [sysprog21/lkmpg][sysprog21/lkmpg]: The Linux Kernel Module Programming Guide (updated for 5.x kernels) <GithubTags tagItems="c;linux;documentation;books;kernel;linux-kernel;device-driver;linux-kernel-module;linux-kernel-driver;lkm;lkmpg" />
   - [🌐Official Site](https://sysprog21.github.io/lkmpg)
+- [hendricius/the-sourdough-framework][hendricius/the-sourdough-framework]: Open source book dedicated to helping you to make the best possible sourdough bread at home. <GithubTags tagItems="baking;cooking;bread;sourdough" />
+  - [🌐Official Site](https://breadco.de/book)
+
+
 
 ---
 
@@ -540,6 +548,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [paulgp/applied-methods-phd]: https://github.com/paulgp/applied-methods-phd
 [synercys/annotated_latex_equations]: https://github.com/synercys/annotated_latex_equations
 [sysprog21/lkmpg]: https://github.com/sysprog21/lkmpg
+[hendricius/the-sourdough-framework]: https://github.com/hendricius/the-sourdough-framework
 <!-- Odin -->
 [odin-lang/Odin]: https://github.com/odin-lang/Odin
 <!-- V -->

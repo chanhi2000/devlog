@@ -21,6 +21,9 @@ tags: ["education", "youtube", "programming", "css"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="8MaCTDkoVd8" title="You probably want position: sticky instead of fixed" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="B_n4YONte5A" title="The simple trick to transition from height 0 to auto with CSS" />
+<YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="JD4ws4cY1ro" title="I finally found a great use-case for flex-basis!" />
 <YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="ctHE8EXEoj8" title="Why I use grid over flexbox for this common layout" />
 <YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="jx4FtPlDXJg" title="The thing people get wrong about flex-basis" />
 <YoutubeItem channelName="Kevin Powell" channelId="KevinPowell" id="vHuSz4fRM88" title="The secret to mastering CSS layouts" />
@@ -54,6 +57,38 @@ tags: ["education", "youtube", "programming", "css"]
 <!-- Kevin Powell -->
 
 ---
+
+## 빔캠프 CSS
+
+[빔캠프 CSS][yu-veamcamp]
+
+::: details 목록
+
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="4XAYeWtzpq8" title="🔴 라이브 | 문의 게시판을 만들자. Part 1" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="ehV-pKQKjqE" title="🔴 라이브 | IE를 버린다면?" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="rhAKeUSxO0Y" title="CSS 소 만들기 | 티티하우스 | 빔캠프" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="PWz1T1gprzk" title="CSS 그리드시스템 만들기  | 빔캠프" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="tcX9QuRYPgw" title="CSS 간단한 반응형 레이아웃 만들기 | EP6 | 바이트 사이즈 | IE9+ | 빔캠프" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="8SJKAMWpe8Y" title="CSS line-height, 1과 1em의 차이에 대하여  | CSS 갈증해소 프로젝트 OACSS | 빔캠프" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="rF0h1SA6zZw" title="CSS 팀소개 웹페이지 만들기 | EP5 | 바이트 사이즈 | 빔캠프" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="JeFxk-Rm8Zc" title="Creating and Processing Large Composite Objects with Java Sequential and Parallel Streams" />
+<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="x_IDiUUUBfk" title="CSS 모달 윈도우 만들기 | EP4 | 바이트 사이즈 | 빔캠프" />
+
+:::
+
+<!-- 빔캠프 CSS -->
+
+---
+
+
+
+
+
+
+
+
+
+
 
 ## Online Tutorials
 
@@ -91,8 +126,8 @@ tags: ["education", "youtube", "programming", "css"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="Np_MG-J9M_o" title="React Native vs Flutter, getting hired as a mobile dev + more \| AMA w/ Mo Binni" />
-<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="k0X2pLXlF-8" title="Get started in Machine Learning &amp; get hired as a Machine Learning Engineer \| AMA w/ Daniel Bourke" />
+<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="Np_MG-J9M_o" title="React Native vs Flutter, getting hired as a mobile dev + more | AMA w/ Mo Binni" />
+<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="k0X2pLXlF-8" title="Get started in Machine Learning &amp; get hired as a Machine Learning Engineer | AMA w/ Daniel Bourke" />
 <YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="cKZEgtQUxlU" title="Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!)" />
 
 :::

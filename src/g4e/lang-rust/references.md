@@ -20,4 +20,16 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Loro Blog
+
+- [`crdt-richtext`: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
+
+---
+
+## Bevy
+
+- [Bevy + WebGPU](https://bevyengine.org/news/bevy-webgpu)
+
+---
+
 <TagLinks />

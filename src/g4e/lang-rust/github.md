@@ -63,7 +63,7 @@ meta:
 - [aptos-labs/aptos-core][aptos-labs/aptos-core]: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
   - [🌐Official Site](https://aptoslabs.com)
 - [tokio-rs/axum][tokio-rs/axum]: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [bevyengine/bevy][bevyengine/bevy]: A refreshingly simple data-driven game engine built in Rust
+- [bevyengine/bevy][bevyengine/bevy]: A refreshingly simple data-driven game engine built in Rust <GithubTags tagItems="rust;open-source;gamedev;game-engine;game-development;hacktoberfest;bevy" />
   - [🌐Official Site](https://bevyengine.org)
 - [AleoHQ/snarkOS][AleoHQ/snarkOS]: A Decentralized Operating System for ZK Applications
   - [🌐Official Site](http://snarkos.org)

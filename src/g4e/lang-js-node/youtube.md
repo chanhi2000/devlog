@@ -186,6 +186,8 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="fIrmN3dTKk8" title="Make Typing Dots Animation in HTML &amp; CSS" />
+<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="Ac9Z6UtHdZ0" title="Create A Draggable Bottom Sheet Modal in HTML CSS &amp; JavaScript | Bottom Sheet Modal in JavaScript" />
 <YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="KADY-DkNrhk" title="Check Internet Connection in HTML CSS &amp; JavaScript | Check Offline or Online Status in JavaScript" />
 <YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="coj-l7IrwGU" title="How to Make Chrome Extension in HTML CSS &amp; JavaScript | Color Picker Extension in JavaScript" />
 <YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="BNOaWqP4X_U" title="Draggable Slider Tabs Like YouTube in HTML CSS &amp; JavaScript | Slider Tabs in JavaScript" />
@@ -236,6 +238,11 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="z5u3Vr8mbDQ" title="A Better Way To Do Developer Documentation" />
+<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="LY-DNBzXy48" title="DON'T Use the File Explorer in VS Code!" />
+<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="2xwv4T552lM" title="The EASIEST Way to Use OpenAI ChatGPT in Next.js" />
+<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="YzGV6AUcnnI" title="A Beginner's Guide to Visual React Development with Codux" />
+<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="nZAapQE5ICI" title="Vercel Just Launched Some Major Products - Here’s What It Means!" />
 <YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="pgRyuhYt-XA" title="New Website Design With Astro" />
 <YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="mTA8XBhzv5U" title="Coding with Remix and Xata database: A Beginner's Tutorial" />
 <YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="9JuUfg3Rx08" title="VS Code and SvelteKit Setup" />
@@ -316,6 +323,10 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="jqVm5_G1ZEE" title="How To Create A Social Media App Using The T3 Stack - Next.js, React, Tailwind, Prisma, TypeScript" />
+<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="ywtkJkxJsdg" title="The New dialog HTML Element Changes Modals Forever" />
+<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="dAIVbLrAb_U" title="How To Build An Animated Hamburger Menu With Only CSS" />
+<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="yn6vFCRkC3c" title="Unstyled Component Libraries Are A Game Changer" />
 <YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="s0h34OkEVUE" title="This Library Makes State Management So Much Easier" />
 <YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="lVLz_ASqAio" title="React Query Makes Writing React Code 200% Better" />
 <YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="TUD1AWZVgQ8" title="Top 10 Advanced CSS Responsive Design Concepts You Should Know" />
@@ -363,6 +374,10 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="코딩애플" channelId="codingapple" id="-5cSTqXGDUs" title="이 세상에 존재하면 안되는 VSCode 익스텐션들" />
+<YoutubeItem channelName="코딩애플" channelId="codingapple" id="tHvZngU14jE" title="JPEG은 왜 디지털 풍화가 생길까" />
+<YoutubeItem channelName="코딩애플" channelId="codingapple" id="ZRpsB3ODr6M" title="마이크로서비스가 뭔데 유행임" />
+<YoutubeItem channelName="코딩애플" channelId="codingapple" id="CHzNNxZOIYI" title="GPT로 이상한거 만들어서 월4천 버는 분" />
 <YoutubeItem channelName="코딩애플" channelId="codingapple" id="o1Hy7cpSXjA" title="개발자 만족도 1위 SvelteKit을 쓰고 암이 나았습니다" />
 <YoutubeItem channelName="코딩애플" channelId="codingapple" id="yXPCg5eupGM" title="오늘의 테크용어 : 웹소켓이 뭐냐면" />
 <YoutubeItem channelName="코딩애플" channelId="codingapple" id="ORmnc-hLrYs" title="자바스크립트 20년차 개발자처럼 주석다는 법" />
@@ -488,6 +503,8 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [![Fireship](https://yt3.googleusercontent.com/ytc/AGIKgqOSWK9LIZ9xGvDbBZ7gjBK1ayNCxK0jKMOq1FirfA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-fireship]
 
 ::: details 목록
+
+<YoutubeItem channelName="Fireship" channelId="Fireship" id="ecK3EnyGD8o" title="13 Advanced (but useful) Git Techniques and Shortcuts" />
 <YoutubeItem channelName="Fireship" channelId="Fireship" id="nQ2A30cD3Q8" title="Angular is back with a vengeance" />
 <YoutubeItem channelName="Fireship" channelId="Fireship" id="uvb00oaa3k8" title="Kafka in 100 Seconds" />
 <YoutubeItem channelName="Fireship" channelId="Fireship" id="FMhScnY0dME" title="JavaScript just got way faster" />
@@ -577,6 +594,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Wes Bos" channelId="WesBos" id="IS698Tc5M7Q" title="CSS Logical Properties: A good use case" />
 <YoutubeItem channelName="Wes Bos" channelId="WesBos" id="Z6sNWaj_b8o" title="🔥 Three CSS tips for working with inconsistently sized logos" />
 <YoutubeItem channelName="Wes Bos" channelId="WesBos" id="9Ryc5MQTUYc" title="Instagram API with React Hooks + Gatsby [SHED HACKS]" />
 <YoutubeItem channelName="Wes Bos" channelId="WesBos" id="3CfJa4cukt4" title="Gatsby Previous and Next Button Code Along" />
@@ -595,6 +613,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="DjfpcmK62ew" title="NPM Hack that every programmer should know" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="XCAwSBdeejU" title="Build a Website Powered by Notion" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="kkiLBF_YerM" title="The Most Mind Blowing Features Coming to CSS" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="o7FkmtqIYOE" title="Building Real-time Serverless App with AWS Amplify" />
@@ -734,6 +753,27 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Jack Herrington
+
+[Jack Herrington][yu-jherr]
+
+::: details 목록
+
+<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="Mt5ocZi8JS0" title="Solid-Start's Awesome Lightweight Client/Server API Creator" />
+<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="DLel3G4XUZ8" title="Running TypeScript The Easy Way" />
+<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="gXbUeZZ2l78" title="JavaScript's Object Destructuring is Bad?" />
+<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="nR9K7JBXK20" title="Why React's Object State Tracking is Weird" />
+<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="ypN-Uwshc5M" title="React Dev, You Need To Know @container!" />
+
+:::
+
+<!-- Jack Herrington -->
+
+---
+
+
+
+
 
 
 ## Brian Morrison
@@ -768,6 +808,9 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="VY6tgKS02ao" title="React File and Folder Structure | #32 React Course" />
+<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="NFJ0g95ObX4" title="Building a Fast Portfolio Website with Qwik Framework" />
+<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="UX5HIrxbRUc" title="How to Build a Quiz App using React (for Beginners)" />
 <YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="3yD6Mwx6i0Q" title="React portfolio dashboard (with Firebase)" />
 <YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="sMTRaNZ0RYs" title="React.js workshop (for beginners) - Building Quiz app" />
 <YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="d25dg0AgkwQ" title="Build Web Scraping Website | React, Puppeteer, Firebase" />
@@ -818,6 +861,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="7O8G1wWLM24" title="라이브코딩쇼(제로베이스로 데스크탑 프로그램 만들기)" />
 <YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="aG5XMUZiW-8" title="자바스크립트 ??과 ?. 연산자(널 병합, nullish coalescing, 옵셔널 체이닝, optional chaining) [노드교과서 개정3판]" />
 <YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="cvxWOWOLcGc" title="[타입스크립트 올인원 미리보기]@types/jquery 설치하기" />
 <YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="Z0U4Par7lEg" title="리액트 네이티브 개발자 채용합니다~ + 책 마무리" />
@@ -1162,6 +1206,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="n3U4jFbp05M" title="How To Build Notes App Using HTML CSS and JavaScript" />
 <YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="cO-qjCC_UYQ" title="How To Create A Stopwatch Using JavaScript | Make Stopwatch With HTML, CSS And JavaScript" />
 <YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="UPuQDE1ek2A" title="Skeleton Loading Animation For Website Using HTML And CSS | Loading Animation CSS" />
 <YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="0YFrGy_mzjY" title="How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design" />

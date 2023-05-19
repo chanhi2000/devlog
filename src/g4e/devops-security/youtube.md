@@ -19,6 +19,12 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 ::: details 목록
 
+<YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="gzv3d7rvjKA" title="Hide a Hacker's Reverse Shell in ONE Command" />
+<YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="wiQ8U5mFncw" title="How To Setup ELK | Elastic Agents &amp; Sysmon for Cybersecurity" />
+<YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="GguO_Oc0h5A" title="PowerShell CRYPTOSTEALER through DNS" />
+<YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="nNvhK1LUD48" title="Hacking Complex Passwords with Rules &amp; Munging" />
+<YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="x44wj_r3d3M" title="Living Off The Land - Windows Disk Cleaner Persistence" />
+<YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="S8POUZv7pT8" title="Hunt for Hackers with Velociraptor" />
 <YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="PuNgf29Gn8o" title="Internet Explorer Forced to Run Malware" />
 <YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="PrUoeHeA5MM" title="Start KERNEL HACKING with VirtualKD!" />
 <YoutubeItem channelName="John Hammond" channelId="_JohnHammond" id="p97cmJgChK4" title="3 Things You Didn't Know about Windows Command Prompt" />
@@ -206,6 +212,7 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="H6dgqTpAtkk" title="pro hacker teaches you how to bypass this!" />
 <YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="n4UZZsTIlVA" title="AWS IAM Roles Anywhere Full Tutorial" />
 <YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="cx6Xs3F_1Uc" title="SQL Injection For Beginners" />
 <YoutubeItem channelName="Loi Liang Yang" channelId="LoiLiangYang" id="lwlA8pGZBYM" title="Invoke Mobile App Activities From ADB - Mobile Application Penetration Testing" />

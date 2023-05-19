@@ -19,6 +19,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="우아한테크" channelId="woowatech" id="6nc_0-HWZXU" title="[10분 테코톡] 글로의 git - merge and rebase" />
 <YoutubeItem channelName="우아한테크" channelId="woowatech" id="z0EaPjF3pCQ" title="[2월 우아한테크세미나] 우아한 스프링 부트" />
 <YoutubeItem channelName="우아한테크" channelId="woowatech" id="bIeqAlmNRrA" title="[우아한테크세미나] 190425 TDD 리팩토링 by 자바지기 박재성님" />
 
@@ -456,6 +457,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="Docker" channelId="DockerIo" id="OGcm3rHg630" title="WebAssembly and Containers" />
 <YoutubeItem channelName="Docker" channelId="DockerIo" id="bjWO9kTwl7w" title="Web Assembly, Docker, Containerd, and Kubernetes" />
 <YoutubeItem channelName="Docker" channelId="DockerIo" id="6OxqiEeCvMI" title="How to Create a Great Local Python Development Environment with Docker" />
 <YoutubeItem channelName="Docker" channelId="DockerIo" id="hUSbU3K5tgQ" title="Best Practices for Production-ready .NET Docker Images" />
@@ -583,6 +585,8 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="AeeXSm0Zzfk" title="Cloud Native Live: Prometheus + Falco: The Swiss Army Knife for SREs" />
+<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="0D9xaBaktpE" title="Kubernetes Best Practices in ecomm Logistics by Wang Shuguang" />
 <YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="0p0J4khYekI" title="Best Practices for Applications on Kubernetes for Both Frequent Updates & Stabil... Hiroshi Hayakawa" />
 <YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="48uWe9Y3CwQ" title="Distributed Tracing Integration with OpenTelemetry and Knative - Daniel Oh & James Falkner, Red Hat" />
 <YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="dlVI0MeFJAo" title="What Anime Taught Me About K8s & Tech Careers - Annie Talvasto, Camunda" />
@@ -634,6 +638,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="NGINX" channelId="nginx_official" id="ZmyGJnAEDqI" title="Migrate Workloads with F5 NGINXaaS for Azure" />
 <YoutubeItem channelName="NGINX" channelId="nginx_official" id="C5kMgshNc6g" title="Learn Proper NGINX Configuration Context Logic" />
 <YoutubeItem channelName="NGINX" channelId="nginx_official" id="Q2iGx3iW-Mg" title="Install Kubernetes Ingress Controller with NGINX Plus" />
 <YoutubeItem channelName="NGINX" channelId="nginx_official" id="Vbd0GCpktZU" title="API Autopsies Episode 4: Security | ShowCode Series" />
@@ -673,6 +678,8 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="EL4kweENvZc" title="Let's Learn .NET - Azure | #SamosaChai.NET" />
+<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="2sEujkZ79E4" title="Learn Prompt Engineering for ChatGPT" />
 <YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="7ZeZD-iJFQw" title="Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation" />
 <YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="E3GI9a39uQU" title="Getting started with Java and Spring Cloud to build Reactive Java Apps." />
 <YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="xZwNFB4hx5s" title="Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET" />
@@ -1074,6 +1081,8 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="AlwmkatOUf4" title=".NET MAUI Blazor - Build Hybrid Mobile, Desktop, and Web apps - Gerald Versluis - NDC London 2023" />
+<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="nXNYrbetzMM" title="Clone yourself with Azure Custom Neural Voice - Callum Whyte - NDC London 202" />
 <YoutubeItem channelName="NDC Conferences" channelId="NDC" id="uQsT3n1NTkE" title="Building beautiful Blazor apps with Tailwind CSS - Chris Sainty - NDC Porto 2022" />
 <YoutubeItem channelName="NDC Conferences" channelId="NDC" id="Khn7sDUSEJM" title="Blazor, a new framework for browser-based .NET apps - Steve Sanderson" />
 <YoutubeItem channelName="NDC Conferences" channelId="NDC" id="x7oYYLgZgtY" title="Hot Chocolate: An introduction to GraphQL on ASP.Net Core - Michael Staib" />

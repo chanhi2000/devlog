@@ -117,7 +117,10 @@ export default {
     }),
     mdEnhancePlugin({
       mark: true,
+      tabs: true,
+      demo: true,
       tasklist: true,
+      codetabs: true,
       card: true,
       mermaid: true,
       katex: true,
@@ -125,6 +128,7 @@ export default {
       attrs: true,
       container: true,
       figure:true,
+      flowchart: true,
       imgLazyload: true,
       imgSize: true,
       presentation: {

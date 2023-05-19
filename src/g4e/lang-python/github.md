@@ -381,6 +381,10 @@ meta:
 - [smol-ai/developer][smol-ai/developer]: with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
   - [🌐Official Site](https://smol.ai)
 - [AdmTal/PostgreSQL-Query-Lock-Explainer][AdmTal/PostgreSQL-Query-Lock-Explainer]: Command line utility to show what locks will be acquired by a given query.
+- [salesforce/CodeT5][salesforce/CodeT5]: Home of CodeT5: Open Code LLMs for Code Understanding and Generation <GithubTags tagItems="code-generation;language-model;code-intelligence;code-understanding;large-language-models" />
+  - [🌐Official Site](https://arxiv.org/abs/2305.07922)
+
+
 
 <!-- Python -->
 
@@ -696,6 +700,7 @@ meta:
 [e-johnstonn/BriefGPT]: https://github.com/e-johnstonn/BriefGPT
 [smol-ai/developer]: https://github.com/smol-ai/developer
 [AdmTal/PostgreSQL-Query-Lock-Explainer]: https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer
+[salesforce/CodeT5]: https://github.com/salesforce/CodeT5
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora

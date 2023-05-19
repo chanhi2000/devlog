@@ -19,10 +19,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="Ty5Tj4Jag_A" title="Is KUBERNETES Overly Complex? | Kelsey Hightower &amp; Dave Farley Debate The Open-Source System" />
-<YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="zkEYxCmPGqU" title="Kelsey Hightower On Kubernetes &amp; Cloud Computing | The Engineering Room Ep. 13" />
+<YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="Ty5Tj4Jag_A" title="Is KUBERNETES Overly Complex? | Kelsey Hightower & Dave Farley Debate The Open-Source System" />
+<YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="zkEYxCmPGqU" title="Kelsey Hightower On Kubernetes & Cloud Computing | The Engineering Room Ep. 13" />
 <YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="Bq_oz7nCNUA" title="Test Driven Development vs Behavior Driven Development" />
-<YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="Ty5Tj4Jag_A" title="Is KUBERNETES Overly Complex? | Kelsey Hightower &amp; Dave Farley Debate The Open-Source System" />
+<YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="Ty5Tj4Jag_A" title="Is KUBERNETES Overly Complex? | Kelsey Hightower & Dave Farley Debate The Open-Source System" />
 <YoutubeItem channelName="Continuous Delivery" channelId="ContinuousDelivery" id="_gs3MjJBEfs" title="From Legacy Code To STATE OF THE ART DEVELOPMENT" />
 
 :::
@@ -55,9 +55,9 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 <YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="ctDJryQU7l4" title="Jenkins Pipeline Maven Project |Jenkins Upstream And Downstream Jobs" />
 <YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="R1pCePoRNuI" title="Splunk Linux Monitoring | Use Splunk App For Unix And Linux for Monitoring CPU, Memory, Disk Space" />
 <YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="pzG_ZQNbZug" title="Jenkins Master Slave Tutorial | Jenkins Master Slave Setup Linux using SSH" />
-<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="0wpdJo3oASI" title="Maven Compile, Test, Package | Pom.XML | Maven Installation &amp; Build Tutorial" />
+<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="0wpdJo3oASI" title="Maven Compile, Test, Package | Pom.XML | Maven Installation & Build Tutorial" />
 <YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="r_4__wmyrcw" title="Docker Swarm Basics | Docker Swarm Service Create | Update Replicas, Logs, Rollback" />
-<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="eifmUYk9eXE" title="KodeKloud Premium DevOps Courses &amp; DevOps Labs are 100% FREE" />
+<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="eifmUYk9eXE" title="KodeKloud Premium DevOps Courses & DevOps Labs are 100% FREE" />
 
 :::
 
@@ -71,10 +71,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 <YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="ylEy4eLdhFs" title="GitHub Actions Step by Step DEMO for Beginners" />
 <YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="6g5iz4tS3no" title="WebdriverIO How to implement Page Object Model" />
-<YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="m_pbiGwDpgM" title="Gatling Beginner Tutorial 2 | Maven, Project, Scripts, Execution &amp; Reporting |" />
+<YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="m_pbiGwDpgM" title="Gatling Beginner Tutorial 2 | Maven, Project, Scripts, Execution & Reporting |" />
 <YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="woMAXn4e8NA" title="Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |" />
 <YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="Rp_lFu4LpkU" title="JMeter Beginner Tutorial | How to record API Request from Katalon Studio" />
-<YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="ynV_DX_TNgM" title="TestProject Tutorial 16 | API - Introduction &amp; Demo" />
+<YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="ynV_DX_TNgM" title="TestProject Tutorial 16 | API - Introduction & Demo" />
 <YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="bGqS0f4Utn4" title="Jenkins Beginner Tutorial 8 - Jenkins integration with GIT (SCM)" />
 <YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="BKefIqoUD3w" title="Selenium Cucumber Java BDD Framework 6 - Page Object Model | Step by Step" />
 <YoutubeItem channelName="Automation Step by Step" channelId="RaghavPal" id="TnGeFFoz16U" title="AccelQ Beginner Tutorial 10 | SOAP API Testing" />
@@ -94,20 +94,41 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## QAShahin
+
+[QAShahin][yu-qa-shahin]
+
+::: details 목록
+
+<YoutubeItem channelName="QAShahin" channelId="QAShahin" id="G-zL_FYnWqU" title="REST Assured Beginner Tutorial (POST) [Setup 2020] | QAShahin" />
+<YoutubeItem channelName="QAShahin" channelId="QAShahin" id="fX95plnpjGU" title="Jenkins Tutorial Cron Schedule Setup (Part 04) | QAShahin" />
+<YoutubeItem channelName="QAShahin" channelId="QAShahin" id="EYFwSzsm13U" title="Jenkins Tutorial Beginners Cucumber Selenium JUnit Test (Part 03) | QAShahin" />
+<YoutubeItem channelName="QAShahin" channelId="QAShahin" id="CRvwKHUVJTQ" title="Jenkins Tutorial Beginners Selenium JUnit Test (Part 02) | QAShahin" />
+<YoutubeItem channelName="QAShahin" channelId="QAShahin" id="7Il_8_YPWtk" title="Jenkins Tutorial Installation Beginner with Maven JUnit Test (Part 01) | QAShahin" />
+<YoutubeItem channelName="QAShahin" channelId="QAShahin" id="YlS9saA3A5U" title="WebDriverJS Installation and Setup (Part 01) | QAShahin" />
+
+:::
+
+<!-- QAShahin -->
+
+---
+
+
 ## Java Home Cloud
 
 [Java Home Cloud][yu-java-home-cloud]
 
 ::: details 목록
 
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="Ta4gPMpfPgg" title="Free Seminar | Terraform Best Practices | Writing Terraform Modules | Terraform tutorial | Java Home" />
 <YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="xsBnF9gbXW4" title="Debug Pod in Kubernetes | Debugging Pod | Pod Logs | ImagePullBackoff | DevOps Training" />
 <YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="C5mazUJ1dsg" title="What is dynamic inventory in Ansible | Step by Step - Ansible AWS dynamic inventory Demo | Easy Way" />
 <YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="RvY5b--wnE0" title="Writing reusable Jenkins Pipeline code | Jenkins Shared Library | Advanced Jenkins Pipeline Tutorial" />
 <YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="LkSHWYpiMtM" title="How to validating Jenkinsfile locally | Validating Jenkins Pipeline locally  | Jenkinsfile Tutorial" />
 <YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="gdbA3vR2eDs" title="Deploying docker app using Jenkins pipeline | CI/CD Of Docker | DevOps - Jenkins Pipeline Tutorial" />
-<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="pts8zdHel5E" title="08 - Jenkins pipeline integration with git &amp; maven | Jenkins Pipeline Tutorial" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="pts8zdHel5E" title="08 - Jenkins pipeline integration with git & maven | Jenkins Pipeline Tutorial" />
 <YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="MjJgzsmuz00" title="Kubernetes Taints and Tolerations Demo | Kubernetes Demo | Kubernetes for Beginners" />
-<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="IWR24Z1yp80" title="Git rest &amp; revert deep dive | Git revert vs reset Demo | Git tutorial | Java Home Cloud" />
+<YoutubeItem channelName="Java Home Cloud" channelId="JavaHomeCloud" id="IWR24Z1yp80" title="Git rest & revert deep dive | Git revert vs reset Demo | Git tutorial | Java Home Cloud" />
 
 :::
 
@@ -120,5 +141,6 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 [yu-continuous-delivery]: https://www.youtube.com/@ContinuousDelivery
 [yu-thetips4you]: https://www.youtube.com/@Thetips4you
 [yu-raghav-pal]: https://www.youtube.com/@RaghavPal
+[yu-qa-shahin]: https://www.youtube.com/@QAShahin
 [yu-java-home-cloud]: https://www.youtube.com/@JavaHomeCloud
 

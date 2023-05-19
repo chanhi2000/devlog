@@ -337,6 +337,9 @@ meta:
   - [🌐Official Site](https://chat-llm-web.vercel.app)
 - [windmill-labs/windmill][windmill-labs/windmill]: Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. <GithubTags tagItems="python;open-source;platform;typescript;postgresql;low-code;self-hostable" />
   - [🌐Official Site](https://windmill.dev)
+- [smol-ai/menubar][smol-ai/menubar]: a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day. <GithubTags tagItems="electron;menubar;google;bard;chatgpt" />
+  - [🌐Official Site](https://smol.ai)
+
 
 
 
@@ -545,6 +548,12 @@ meta:
   - [🌐Official Site](https://dify.ai)
 - [bluesky-social/social-app][bluesky-social/social-app]:  The Bluesky Social application for Web, iOS, and Android
   - [🌐Official Site](https://staging.bsky.app)
+- [nuxtlabs/ui][nuxtlabs/ui]: Fully styled and customizable components for Nuxt. <GithubTags tagItems="ui;vue;nuxt;ui-components;nuxt-module;tailwindcss;vue3;headlessui" />
+  - [🌐Official Site](https://ui.nuxtlabs.com)
+- [creatorsgarten/kaogeek-discord-bot][creatorsgarten/kaogeek-discord-bot]: Discord bot for KaoGeek, built with TypeScript
+- [dsherret/ts-morph][dsherret/ts-morph]: TypeScript Compiler API wrapper for static analysis and programmatic code changes. <GithubTags tagItems="javascript;typescript;static-analysis;ast;code-generation" />
+  - [🌐Official Site](https://ts-morph.com)
+
 
 
 <!-- Typescript -->
@@ -738,6 +747,8 @@ meta:
 [sunner/ChatALL]: https://github.com/sunner/ChatALL
 [Ryan-yang125/ChatLLM-Web]: https://github.com/Ryan-yang125/ChatLLM-Web
 [windmill-labs/windmill]: https://github.com/windmill-labs/windmill
+[smol-ai/menubar]: https://github.com/smol-ai/menubar
+[nuxtlabs/ui]: https://github.com/nuxtlabs/ui
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -849,6 +860,8 @@ meta:
 [microsoft/playwright]: https://github.com/microsoft/playwright
 [langgenius/dify]: https://github.com/langgenius/dify
 [bluesky-social/social-app]: https://github.com/bluesky-social/social-app
+[creatorsgarten/kaogeek-discord-bot]: https://github.com/creatorsgarten/kaogeek-discord-bot
+[dsherret/ts-morph]: https://github.com/dsherret/ts-morph
 <!-- Coffeescript -->
 [jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
 [mojs/mojs]: https://github.com/mojs/mojs

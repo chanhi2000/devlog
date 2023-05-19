@@ -16,7 +16,7 @@ tags: ["snippets", "css"]
 
 ## Loader (with dots)
 
-::: details implementation
+::: normal-demo Loader (with dots)
 
 ```html
 <ul id="loader">
@@ -27,8 +27,6 @@ tags: ["snippets", "css"]
 </ul>
 ```
 
-### CSS
-
 ```css
 ul#loader {
   list-style-type:none;display:flex;
@@ -37,15 +35,18 @@ ul#loader li {
   margin:0.2rem;width:0.4rem;height: 0.4rem;border-radius:50%;background-color:#ff4754;
   animation: dotanimation 0.8s ease infinite alternate both;
 }
-ul#loader li:nth-child(2) {animation-delay:0.2s;}
-ul#loader li:nth-child(3) {animation-delay:0.4s;}
-ul#loader li:nth-child(4) {animation-delay:0.6s;}
+ul#loader li:nth-child(2) { animation-delay:0.2s; }
+ul#loader li:nth-child(3) { animation-delay:0.4s; }
+ul#loader li:nth-child(4) { animation-delay:0.6s; }
 
-@keyframes dotanimcatino {
-  from {transform: translateY(0);}
-  to {transform: translateY(-1rem);}
+@keyframes dotanimation {
+  from { transform: translateY(0); }
+  to { transform: translateY(-1rem); }
 }
 ```
+
+:::
+
 
 ---
 
@@ -55,12 +56,9 @@ ul#loader li:nth-child(4) {animation-delay:0.6s;}
   src="https://scontent-ssn1-1.cdninstagram.com/v/t50.2886-16/119991414_644273203163700_6730101157272084855_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jYXJvdXNlbF9pdGVtLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=OZbNAmrHMlcAX_10WbU&edm=AP_V10EBAAAA&vs=18162319393062417_346286337&_nc_vs=HBkcFQAYJEdIYnNKZ2Mwc21tTDlra0NBSGZocFUxWUgyWmRia1lMQUFBRhUAAsgBACgAGAAbABUAACai486QkKLDQBUCKAJDMywXQCoAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HAA%3D%3D&ccb=7-5&oh=00_AfBEwYdi9AdUWjFmY8VKS8aS4dFjHNKmQeO0edH806R8Rw&oe=64607D30&_nc_sid=4f375e"
 />
 
-
-::: details Implementation
-
 > [<FontIcon icon="iconfont icon-hot"/> by theprogrammingexpert](https://www.instagram.com/theprogrammingexpert/)
 
-### HTML
+::: normal-demo Particles on Click
 
 ```html
 <body 
@@ -68,19 +66,15 @@ ul#loader li:nth-child(4) {animation-delay:0.6s;}
 </body>  
 ```
 
-### css
-
 ```css
 html,body {height:100%;}
 body {margin:0;overflow:hidden;background:#121212;}
 particle {position:fixed;top:0;left:0;opacity:0;pointer-events:none;background-repeat:no-repeat;background-size:contain;z-index:1;}
 ```
 
-### js
-
 ```js
-if (document.body.animate)
-  document.body.addEventListener('click', pop);
+// if (document.body.animate)
+//   document.body.addEventListener('click', pop);
 
 function pop(event) {
   const amount = 30; // particle amount
@@ -155,9 +149,7 @@ function removeParticle(event) {
   src="https://scontent-ssn1-1.cdninstagram.com/v/t50.2886-16/119894437_787768155356129_2119107499352203214_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jYXJvdXNlbF9pdGVtLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=6XJvjWVEtzsAX8prPoA&edm=AP_V10EBAAAA&vs=17851550360280343_3326934823&_nc_vs=HBkcFQAYJEdLVnhKUWZodXhDUmVNd0NBTTRmd1FzTGxXZ2Ria1lMQUFBRhUAAsgBACgAGAAbABUAACauy5S%2F%2Fvi1PxUCKAJDMywXQC67ZFocrAgYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HAA%3D%3D&ccb=7-5&oh=00_AfC6GBKNDrq-i84r7iD-n1Py83YbodxGl_kEZgFoD5TAcw&oe=646079BA&_nc_sid=4f375e"
 />
 
-::: details Implementation
-
-### HTML
+::: normal-demo Image Comparison Slider
 
 ```html
 <div class="compare">
@@ -169,8 +161,6 @@ function removeParticle(event) {
     </div>
 </div>
 ```
-
-### CSS
 
 ```css
 * {margin:0;padding:0;border:none;-webkit-tap-highlight-color:transparent;}
@@ -197,8 +187,6 @@ body {display:flex;justify-content:center;align-items:center;background:#121212;
   height:var(--slider-height);width:var(--slider-width);object-fit:cover;
 }
 ```
-
-### js
 
 ```js
 function onSlideStart(event) {

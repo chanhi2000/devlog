@@ -20,6 +20,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ::: details 목록
 
+<YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="sWmlbMh3ol8" title="Typst: The LaTeX alternative in Rust" />
 <YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="omUP1nKsV-I" title="What technology you focus on matters" />
 <YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="hz5TvKnW1nI" title="Snapshot testing in Rust with Insta" />
 <YoutubeItem channelName="chris biscardi" channelId="chrisbiscardi" id="yzKOqLsdQqA" title="Introducing the tracing Rust crate | Advent of Code 2022 Day 20" />

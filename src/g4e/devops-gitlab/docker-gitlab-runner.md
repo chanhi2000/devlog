@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 💪GitLab Runner
-description: 🐋Docker > 💪GitLab Runner
+description: 🦊Gitlab > 💪GitLab Runner
 tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
 ---
 
@@ -14,7 +14,6 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 ---
 
 ## Docker Run
-
 
 ### Prerequisite(s)
 

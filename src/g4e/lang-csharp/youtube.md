@@ -206,6 +206,8 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 ::: details 목록
 
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="X1_QeH1yAto" title="Languages &amp; Runtime Community Standup - Source Generation Interceptors" />
+<YoutubeItem channelName="dotnet" channelId="dotnet" id="BKYcw_sM_aY" title="Let's Learn .NET - Azure | #SamosaChai.NET" />
 <YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
 <YoutubeItem channelName="dotnet" channelId="dotnet" id="0cqtHWfgS5E" title="On .NET Live - Building web apps using MVVM" />
 <YoutubeItem channelName="dotnet" channelId="dotnet" id="xyus7zlmgdc" title="OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane" />

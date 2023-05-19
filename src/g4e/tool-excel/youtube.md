@@ -76,10 +76,10 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 ::: details 목록
 
 <YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="45v5NhPhopc" title="Excel LAMBDA function – Every Single Things You Ever Wanted To Know - 365 MECS 10" />
-<YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="kzCoYq4fFkk" title="Create a Dynamic Lookup Table using INDEX &amp; LOOKUP Functions. Excel Magic Trick 1649" />
+<YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="kzCoYq4fFkk" title="Create a Dynamic Lookup Table using INDEX & LOOKUP Functions. Excel Magic Trick 1649" />
 <YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="3vcRt21q3bM" title="Free Advanced Excel Course at YouTube" />
 <YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="HdV90U5pYY0" title="Power Query Filter Rows by NOT Contains Criteria - Single Formula Solution - Excel Magic Trick 1593" />
-<YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="IgPEgzDzWA0" title="excelisfun Flashback Friday 03: VLOOKUP &amp; Data Validation" />
+<YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="IgPEgzDzWA0" title="excelisfun Flashback Friday 03: VLOOKUP & Data Validation" />
 <YoutubeItem channelName="ExcelIsFun" channelId="excelisfun" id="QTtOKLpaT80" title="Jump To Any Excel Sheet – 7 Methods in One Minute – Excel Magic Trick 1562" />
 
 :::
@@ -97,11 +97,11 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="21bXQDXSxYs" title="Can ChatGPT Properly Solve Your Complex Excel Spreadsheet Problems?" />
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="ehrXyFPljBo" title="Effortlessly Create Dynamic Charts in Excel: New Feature Alert!" />
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="L7s6Dni1dG8" title="Excel RECURSIVE Lambda - Create loops with ZERO coding!" />
-<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="Rm4y5UqauRw" title="Excel LAMBDA - HOW &amp; WHEN you Should use it" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="Rm4y5UqauRw" title="Excel LAMBDA - HOW & WHEN you Should use it" />
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="vBR1oRIED_E" title="How to create barcodes in Excel that WORK!" />
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="xnLvEhXWSas" title="Discover What XLOOKUP Can Do For YOU (R.I.P. Excel VLOOKUP)" />
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="aA8nVYNonV4" title="How the Balance Sheet Works | with a FUN Demo" />
-<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="7LjXpCcibks" title="Do's &amp; Don'ts of Excel Spreadsheet Design (with Examples)" />
+<YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="7LjXpCcibks" title="Do's & Don'ts of Excel Spreadsheet Design (with Examples)" />
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="21bXQDXSxYs" title="How ChatGPT Can Help With Your Complex Excel Spreadsheets" />
 <YoutubeItem channelName="Leila Gharani" channelId="LeilaGharani" id="rvtuQo_8wTA" title="6 Useful Websites You NEED to Use!" />
 
@@ -117,13 +117,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ::: details 목록
 
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="e4no3HpW1NY" title="How to Improve Excel Performance - Common Culprits & Solutions" />
 <YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="VU4ncBR0PYw" title="Excel Project Management Dashboard with Dynamic Periods" />
-<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="21bXQDXSxYs" title="Top Excel Functions for Data Analysts &amp; What NOT to Waste Time Learning" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="21bXQDXSxYs" title="Top Excel Functions for Data Analysts & What NOT to Waste Time Learning" />
 <YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="ehyB4LuezeA" title="Hidden Excel Fill Series Tricks to Impress Your Co-workers" />
 <YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="5qtSioTE2wY" title="Interactive Excel Project Management Dashboard - FREE Download" />
 <YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="K74_FNnlIF8" title="How to build Interactive Excel Dashboards that Update with ONE CLICK!" />
 <YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="nGDLHEpjuSc" title="Excel Productivity Hacks: Master Multi-Tasking with Game-Changing Tips for Managing Multiple Files" />
-<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="2ms9ZUJbmpg" title="Top Excel Functions for Data Analysts &amp; What NOT to Waste Time Learning" />
+<YoutubeItem channelName="MyOnlineTrainingHub" channelId="MyOnlineTrainingHub" id="2ms9ZUJbmpg" title="Top Excel Functions for Data Analysts & What NOT to Waste Time Learning" />
 
 :::
 
