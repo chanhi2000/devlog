@@ -75,6 +75,7 @@ tags: ["java", "baeldung"]
 ## Java Code Geeks
 
 - [Introducing Kubernetes Alternatives to Spring Java Framework](https://www.javacodegeeks.com/2023/05/introducing-kubernetes-alternatives-to-spring-java-framework.html)
+- [Introduction To Garbage Collection](https://www.javacodegeeks.com/2023/05/introduction-to-garbage-collection.html)
 
 ---
 

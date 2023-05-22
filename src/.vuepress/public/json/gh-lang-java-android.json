@@ -1,0 +1,178 @@
+[
+  {
+    "repo": "anggrayudi/SimpleStorage",
+    "desc": "💾 Simplify Android Storage Access Framework for file management across API levels",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PRNDcompany/PersistBottomSheetFragment",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Memrise/plaid",
+    "desc": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "google/flexbox-layout",
+    "desc": "Flexbox for Android",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "airbnb/epoxy",
+    "desc": "Epoxy is an Android library for building complex screens in a RecyclerView",
+    "topics": [],
+    "officialSite": "https://goo.gl/eIK82p"
+  }, {
+    "repo": "TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "topics": [],
+    "officialSite": "https://newpipe.net"
+  }, {
+    "repo": "tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android. ",
+    "topics": [],
+    "officialSite": "https://tachiyomi.org"
+  }, {
+    "repo": "skylot/jadx",
+    "desc": "Dex to Java decompiler ",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebook/shimmer-android",
+    "desc": "An easy, flexible way to add a shimmering effect to any view in an Android app.",
+    "topics": [],
+    "officialSite": "http://facebook.github.io/shimmer-android"
+  }, {
+    "repo": "judemanutd/KaTeXView",
+    "desc": "KaTeX View for android",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "MasayukiSuda/Mp4Composer-android",
+    "desc": "This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "karma9874/AndroRAT",
+    "desc": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "google/perfetto",
+    "desc": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto)",
+    "topics": [],
+    "officialSite": "https://www.perfetto.dev"
+  }, {
+    "repo": "coil-kt/coil",
+    "desc": "Image loading for Android backed by Kotlin Coroutines.",
+    "topics": ["android", "kotlin", "images", "coroutines", "okhttp", "image-loader", "kotlin-coroutines", "okio", "androidx"],
+    "officialSite": "https://coil-kt.github.io/coil"
+  }, {
+    "repo": "facebook/fresco",
+    "desc": "An Android library for managing images and the memory they use.",
+    "topics": [],
+    "officialSite": "https://frescolib.org"
+  }, {
+    "repo": "hootsuite/nachos",
+    "desc": "Material Chips for Android",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "android/architecture-templates",
+    
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "tiann/KernelSU",
+    "desc": "A Kernel based root solution for Android GKI",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "lsrom/webview-tester",
+    "desc": "Test your web app in Android web view with visible console logs.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "TeamVanced/VancedMicroG",
+    "desc": "MicroG tweaked to work for applications such as Vanced.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "topics": [],
+    "officialSite": "https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid"
+  }, {
+    "repo": "libre-tube/LibreTube",
+    "desc": "An alternative YouTube front end, for Android.",
+    "topics": [],
+    "officialSite": "https://libre-tube.github.io"
+  }, {
+    "repo": "tranleduy2000/ncalc",
+    "desc": "Power calculator for Android. Solve some problem algebra and calculus.",
+    "topics": [],
+    "officialSite": "https://play.google.com/store/apps/details?id=com.duy.calculator.free"
+  }, {
+    "repo": "RocketChat/Rocket.Chat",
+    "desc": "The communications platform that puts data protection first.",
+    "topics": [],
+    "officialSite": "https://rocket.chat"
+  }, {
+    "repo": "Kr328/ClashForAndroid",
+    "desc": "A rule-based tunnel for Android.",
+    "topics": [],
+    "officialSite": "https://play.google.com/store/apps/details?id=com.github.kr328.clash"
+  }, {
+    "repo": "Automattic/pocket-casts-android",
+    "desc": "Pocket Casts Android 🎧",
+    "topics": [],
+    "officialSite": "https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts"
+  }, {
+    "repo": "mastodon/mastodon-android",
+    "desc": "Official Android app for Mastodon",
+    "topics": [],
+    "officialSite": "https://app.joinmastodon.org/android"
+  }, {
+    "repo": "skydoves/chatgpt-android",
+    "desc": "📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "recloudstream/cloudstream",
+    "desc": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "lukeaschenbrenner/TxtNet-Browser",
+    "desc": "An app that lets you browse the web over SMS",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bufferapp/MultiActionSwipeHelper",
+    "desc": "An Android RecyclerView Swipe Helper for handling multiple actions per direction",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "omtodkar/ShimmerRecyclerView",
+    "desc": "A custom Shimmer RecyclerView which adopt to list / grid transition automatically and also supports multiple view types while shimmering.",
+    "topics": ["android", "recyclerview", "shimmer", "shimmerlayout", "shimmer-android", "shimmer-layout", "shimmer-recyclerview", "shimmerrecyclerview"],
+    "officialSite": ""
+  }, {
+    "repo": "Marksss/AndroidAutoSwitcher",
+    "desc": "AutoSwitchView, a view animating between two items for Android, supports multiple switching animations or you can customize your own strategy of animations. And its child view can be reused.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nntuyen/mkloader",
+    "desc": "Beautiful and smooth custom loading views",
+    "topics": ["android", "custom", "view", "animation", "loader", "custom-view", "loading", "loading-animation"],
+    "officialSite": ""
+  }
+]

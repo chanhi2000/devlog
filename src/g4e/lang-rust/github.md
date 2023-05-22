@@ -25,6 +25,6 @@ meta:
 
 ## Rust
 
-<MyGithubItems lang="rust" />
+<MyGithubItems jsonName="gh-lang-rust" />
 
 <TagLinks />

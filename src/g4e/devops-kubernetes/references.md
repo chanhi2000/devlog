@@ -24,6 +24,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 - [Kubernetes commands that every developer must know ☸](https://medium.com/@InzamamAhmad/kubernetes-commands-that-every-developer-must-know-192d2bc40608)
 - [How to deploy your Golang project on Kubernetes](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)
 - [Autoscaling Ingress Controllers In Kubernetes](https://itnext.io/autoscaling-ingress-controllers-in-kubernetes-c64b47088485)
+- [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
 
 ---
 

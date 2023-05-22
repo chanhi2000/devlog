@@ -22,6 +22,7 @@ tags: ["sql", "db", "mysql", "shell"]
 ## ByteByteGo
 
 - [Understanding Database Types](https://blog.bytebytego.com/p/understanding-database-types)
+- [EP60: Netflix Tech Stack - Databases](https://blog.bytebytego.com/p/ep60-netflix-tech-stack-databases)
 
 ---
 

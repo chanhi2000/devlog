@@ -83,7 +83,7 @@ The first 12 days provide a gentle warm up for your Swift learning. You’ll wat
 - [Day 7][day-7] – ✅closures part two
 - [Day 8][day-8] – ✅structs, properties, and methods
 - [Day 9][day-9] – ✅access control, static properties, and laziness
-- [Day 10][day-10] – classes and inheritance
+- [Day 10][day-10] – ✅classes and inheritance
 - [Day 11][day-11] – protocols, extensions, and protocol extensions
 - [Day 12][day-12] – optionals, unwrapping, and typecasting
 
@@ -299,7 +299,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-7]: 7.md
 [day-8]: 8.md
 [day-9]: 9.md
-[day-10]: https://www.hackingwithswift.com/100/10
+[day-10]: 10.md
 [day-11]: https://www.hackingwithswift.com/100/11
 [day-12]: https://www.hackingwithswift.com/100/12
 [day-13]: https://www.hackingwithswift.com/100/13

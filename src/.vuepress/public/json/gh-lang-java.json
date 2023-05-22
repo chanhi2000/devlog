@@ -1,0 +1,244 @@
+[
+  {
+    "repo": "spring-projects/spring-boot",
+    "desc": "Spring Boot",
+    "topics": ["java", "framework", "spring", "spring-boot"],
+    "officialSite": "https://spring.io/projects/spring-boot"
+  }, {
+    "repo": "PowerJob/PowerJob",
+    "desc": "Enterprise job scheduling middleware with distributed computing ability.",
+    "topics": [],
+    "officialSite": "http://www.powerjob.tech"
+  }, {
+    "repo": "apache/iotdb",
+    "desc": "Apache IoTDB",
+    "topics": [],
+    "officialSite": "https://iotdb.apache.org"
+  }, {
+    "repo": "apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "topics": [],
+    "officialSite": "https://seatunnel.apache.org"
+  }, {
+    "repo": "alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "topics": [],
+    "officialSite": "https://arthas.aliyun.com"
+  }, {
+    "repo": "accforaus/libhwp",
+    "desc": "🇰🇷 한글과 컴퓨터의 한글 문서 파일 구조 5.0 (hwp) 라이브러리",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "checkstyle/checkstyle",
+    "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "topics": [],
+    "officialSite": "https://checkstyle.org"
+  }, {
+    "repo": "jython/jython",
+    "desc": "Python for the Java Platform",
+    "topics": [],
+    "officialSite": "https://www.jython.org"
+  }, {
+    "repo": "axkr/symja_android_library",
+    "desc": "☕ Symja - computer algebra language & symbolic math library. A collection of popular algorithms implemented in pure Java. Inspired by Wolfram Language built-in functions.",
+    "topics": [],
+    "officialSite": "https://matheclipse.org"
+  }, {
+    "repo": "shannah/jdeploy",
+    "desc": "Developer friendly desktop deployment tool",
+    "topics": [],
+    "officialSite": "https://www.jdeploy.com"
+  }, {
+    "repo": "PaperMC/Debuggery",
+    "desc": "A small plugin designed to expose API values at runtime.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PaperMC/DataConverter",
+    "desc": "Rewrite of the dataconverter system for performance.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PaperMC/Starlight",
+    "desc": "Rewrites the light engine to fix lighting performance and lighting errors",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sniffy/sniffy",
+    "desc": "Sniffy - interactive profiler, testing and chaos engineering tool for Java",
+    "topics": [],
+    "officialSite": "https://www.sniffy.io"
+  }, {
+    "repo": "Netflix/conductor",
+    "desc": "Conductor is a microservices orchestration engine.s",
+    "topics": [],
+    "officialSite": "https://conductor.netflix.com"
+  }, {
+    "repo": "alibaba/fastjson2",
+    "desc": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "topics": [],
+    "officialSite": "https://grasscutter.io"
+  }, {
+    "repo": "mbechler/marshalsec",
+    "desc": "Java Unmarshaller Security - Turning your data into code execution",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "whwlsfb/Log4j2Scan",
+    "desc": "Log4j2 RCE Passive Scanner plugin for BurpSuite",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PlexPt/chatgpt-java",
+    "desc": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "flyway/flyway",
+    "desc": "Flyway by Redgate • Database Migrations Made Easy.",
+    "topics": [],
+    "officialSite": "https://flywaydb.org"
+  } ,{
+    "repo": "open-pdf-sign/open-pdf-sign",
+    "desc": "Digitally sign PDF files from your commandline",
+    "topics": [],
+    "officialSite": "https://openpdfsign.org"
+  } ,{
+    "repo": "theonedev/onedev",
+    "desc": "Self-hosted Git Server with CI/CD and Kanban",
+    "topics": [],
+    "officialSite": "https://code.onedev.io/onedev/server"
+  } ,{
+    "repo": "strongbox/strongbox",
+    "desc": "Strongbox is an artifact repository manager.",
+    "topics": [],
+    "officialSite": "https://strongbox.github.io"
+  } ,{
+    "repo": "JabRef/jabref",
+    "desc": "Graphical Java application for managing BibTeX and biblatex (.bib) databases",
+    "topics": [],
+    "officialSite": "https://devdocs.jabref.org"
+  } ,{
+    "repo": "classycodeoss/nfc-sockets",
+    "desc": "Sockets over NFC",
+    "topics": [],
+    "officialSite": "https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf"
+  } ,{
+    "repo": "bazelbuild/bazel",
+    "desc": "a fast, scalable, multi-language and extensible build system",
+    "topics": [],
+    "officialSite": "https://bazel.build"
+  } ,{
+    "repo": "davinci1012/pinduoduo_backdoor_unpacker",
+    "desc": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "apache/incubator-paimon",
+    "desc": "Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.",
+    "topics": [],
+    "officialSite": "https://paimon.apache.org"
+  } ,{
+    "repo": "HamburgChimps/apple-notes-liberator",
+    "desc": "Free your Apple Notes data from Notes.app",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "liyupi/yu-auto-reply",
+    "desc": "AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "Kamilahsantos/Java-week-LinuxTips",
+    "desc": "Repositório com o conteúdo da Java Week da LinuxTips",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "twitter/GraphJet",
+    "desc": "GraphJet is a real-time graph processing library.",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "eGovFramework/egovframe-template-simple-backend",
+    "desc": "표준프레임워크 심플홈페이지 BackEnd",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "aress31/burpgpt",
+    "desc": "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "HumbleUI/Skija",
+    "desc": "Java bindings for Skia",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "zeromq/jeromq",
+    "desc": "Pure Java ZeroMQ",
+    "topics": [],
+    "officialSite": ""
+  } ,{
+    "repo": "macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "topics": [],
+    "officialSite": "https://www.macrozheng.com/admin"
+  } ,{
+    "repo": "dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "topics": [],
+    "officialSite": "https://dataease.io"
+  } ,{
+    "repo": "jbake-org/jbake",
+    "desc": "Java based open source static site/blog generator for developers & designers.",
+    "topics": [],
+    "officialSite": "http://jbake.org"
+  } ,{
+    "repo": "questdb/questdb",
+    "desc": "An open source time-series database for fast ingest and SQL queries",
+    "topics": ["java", "iot", "postgres", "sql", "database", "big-data", "time-series", "analytics", "cpp", "grafana", "postgresql", "simd", "low-latency", "financial-analysis", "tsdb", "hacktoberfest", "time-series-database", "questdb"],
+    "officialSite": "https://questdb.io"
+  } ,{
+      "repo": "termux/termux-app",
+      "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "topics": ["android", "linux", "terminal", "termux", "hacktoberfest"],
+      "officialSite": "https://f-droid.org/en/packages/com.termux"
+  } ,{
+    "repo": "alibaba/Chat2DB",
+    "desc": "智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AI (ChatGPT)）",
+    "topics": ["electron", "mysql", "java", "redis", "sql", "ai", "chatbot", "postgresql", "oracle", "dbeaver", "gpt", "navicat", "datagrip", "chatgpt", "chatgpt-api"],
+    "officialSite": "https://chat2db.opensource.alibaba.com"
+  } ,{
+    "repo": "cedar-policy/cedar-java",
+    "desc": "Java bindings for the Cedar language",
+    "topics": [],
+    "officialSite": "https://www.cedarpolicy.com"
+  } ,{
+    "repo": "krasa/StringManipulation",
+    "desc": "IntelliJ plugin - https://plugins.jetbrains.com/plugin/2162",
+    "topics": ["java", "intellij", "intellij-plugin"],
+    "officialSite": ""
+  } ,{
+    "repo": "OpenRefine/OpenRefine",
+    "desc": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+    "topics": ["java", "data-science", "reconciliation", "wikidata", "opendata", "journalism", "data-analysis", "data-wrangling", "datamining", "datajournalism", "datacleaning", "datacleansing"],
+    "officialSite": "https://openrefine.org"
+  } ,{
+    "repo": "apache/doris",
+    "desc": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "topics": ["bigquery", "real-time", "sql", "database", "spark", "hive", "hadoop", "etl", "snowflake", "olap", "query-engine", "redshift", "dbt", "elt", "iceberg", "hudi", "delta-lake", "lakehouse"],
+    "officialSite": "https://doris.apache.org"
+  } ,{
+    "repo": "nickm980/smallville",
+    "desc": "Create Generative Agent simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior",
+    "topics": ["generative-agents"],
+    "officialSite": "https://nickm980.github.io/smallville"
+  }
+]
+

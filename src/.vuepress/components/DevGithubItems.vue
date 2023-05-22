@@ -47,16 +47,21 @@ export default {
       const res = await fetch("https://devo.ams3.digitaloceanspaces.com/github.json");
       const fetchedItems = await res.json();
 
-      let langRustItems = await (await fetch("/json/lang-rust.json")).json();
-      let langSwiftItems = await (await fetch("/json/lang-swift.json")).json();
-      let langPwshItems = await (await fetch("/json/lang-pwsh.json")).json();
-      
-      let repoNamesToExclude = [
-        ...langRustItems.map((e) => e.repo), 
-        ...langSwiftItems.map((e) => e.repo),
-        ...langPwshItems.map((e) => e.repo)
-      ];
+      let jsonFullPathsLang = [
+        "c", "cpp", "csharp", "dart", "go", "java", "java-android", "js", "jupyter-notebook", "kotlin", "pwsh", "python", "ruby", "rust", "swift", "ts"
+      ].map((e) => `/json/gh-lang-${e}.json`);
 
+      let jsonFullPathsOther = [
+        "awesome-list"
+      ].map((e) => `/json/gh-${e}.json`)
+
+      let reposToExclude = [];
+      for await (const path of [...jsonFullPathsLang, ...jsonFullPathsOther]) {
+        const items = await (await fetch(path)).json();
+        reposToExclude.push(...items);
+      }
+      const repoNamesToExclude = reposToExclude.map((e) => `/${e.repo}`);
+      
       const GITHUB_BASE_URL = "https://github.com";
       this.items = fetchedItems.filter((e) => 
         !repoNamesToExclude.includes(e.repo.link)

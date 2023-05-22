@@ -1,0 +1,378 @@
+[
+  {
+    "repo": "ClintJang/awesome-swift-korean-lecture",
+    "desc": "훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "matteocrippa/awesome-swift",
+    "desc": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dkhamsing/open-source-ios-apps",
+    "desc": "📱 Collaborative List of Open-Source iOS Apps",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "iCHAIT/awesome-macOS",
+    "desc": " A curated list of awesome applications, softwares, tools and shiny things for macOS.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "topics": ["lists", "awesome", "unicorns", "resources", "awesome-list"],
+    "officialSite": ""
+  }, {
+    "repo": "MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Bogdanp/awesome-advent-of-code",
+    "desc": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bear2u/awesome-rxjava",
+    "desc": "RxJava 개발자 오픈 채팅방",
+    "topics": [],
+    "officialSite": "https://open.kakao.com/o/gG98jsA"
+  }, {
+    "repo": "jkup/awesome-personal-blogs",
+    "desc": "A delightful list of personal tech blogs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "topics": ["awesome", "cloud", "privacy", "selfhosted", "hosting", "self-hosted", "awesome-list"],
+    "officialSite": "https://reddit.com/r/selfhosted"
+  }, {
+    "repo": "meysamhadeli/awesome-dotnet-tips",
+    "desc": "A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "getActivity/AndroidGithubBoss",
+    "desc": "Github Android 国内个人技术排行榜",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "stefanbuck/awesome-browser-extensions-for-github",
+    "desc": "A collection of awesome browser extensions for GitHub.",
+    "topics": [],
+    "officialSite": "https://stefanbuck.com/awesome-browser-extensions-for-github"
+  }, {
+    "repo": "Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "decalage2/awesome-security-hardening",
+    "desc": "A collection of awesome security hardening guides, tools and other resources",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "topics": ["language", "bots", "chatbot", "chatgpt", "chatgpt-api"],
+    "officialSite": "https://prompts.chat"
+  }, {
+    "repo": "hsavit1/Awesome-Swift-Education",
+    "desc": "🔥 Learn some Swift",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "topics": [],
+    "officialSite": "https://doocs.github.io/leetcode"
+  }, {
+    "repo": "vuepress/awesome-vuepress",
+    "desc": "🎉 A curated list of awesome things related to VuePress",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "trinib/Linux-Bash-Commands",
+    "desc": ":godmode: Ultimate list of Linux bash commands, cheatsheet and resources",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "macrozheng/springcloud-learning",
+    "desc": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。",
+    "topics": [],
+    "officialSite": "https://www.macrozheng.com/cloud/cloud_catalog.html"
+  }, {
+    "repo": "shubhamgrg04/awesome-diagramming",
+    "desc": "A curated collection of diagramming tools used by leading software engineering teams",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sesang06/awesome-alternative-military-service",
+    "desc": "정보처리 산업기능요원을 위한 쓸만한 정보들",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ila/TUM",
+    "desc": "Notes, material and various stuff collected while attended TUM Master's Degree",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "topics": [],
+    "officialSite": "https://hello-algo.com"
+  }, {
+    "repo": "visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps",
+    "topics": [],
+    "officialSite": "https://ml-ops.org"
+  }, {
+    "repo": "labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "topics": [],
+    "officialSite": "https://nn.labml.ai"
+  }, {
+    "repo": "gabiduarte/awesome-techleads",
+    "desc": "Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "A-poc/RedTeam-Tools",
+    "desc": "Tools and Techniques for Red Team / Penetration Testing",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "topics": [],
+    "officialSite": "https://awesome-python.com"
+  }, {
+    "repo": "sadanandpai/frontend-learning-kit",
+    "desc": "Frontend tech guide and curated collection of frontend materials",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mouredev/retos-programacion-2023",
+    "desc": "Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.",
+    "topics": [],
+    "officialSite": "https://retosdeprogramacion.com/semanales2023"
+  }, {
+    "repo": "jahidulislamzim/JavaScriptCodingChallenges",
+    "desc": "Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.",
+    "topics": [],
+    "officialSite": "https://jahidulislamzim.netlify.app"
+  }, {
+    "repo": "DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Free Data Engineering course!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ddotta/awesome-polars",
+    "desc": "A curated list of Polars talks, tools, examples & articles. Contributions welcome !",
+    "topics": [],
+    "officialSite": "https://ddotta.github.io/awesome-polars"
+  }, {
+    "repo": "lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jtmuller5/The-HustleGPT-Challenge",
+    "desc": "Building Startups with an AI Co-Founder",
+    "topics": [],
+    "officialSite": "https://chatcodetutor.gumroad.com/l/abqwfw?_gl=1*2q8f4n*_ga*NDIwMjk5MDQ0LjE2NzU2MjM0ODc.*_ga_6LJN6D94N6*MTY3OTE2NDQ2MS40NC4xLjE2NzkxNjU1NzcuMC4wLjA."
+  }, {
+    "repo": "nichtdax/awesome-totally-open-chatgpt",
+    "desc": "A list of totally open alternatives to ChatGPT",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+    "topics": [],
+    "officialSite": "https://chat.plexpt.com"
+  }, {
+    "repo": "TheExplainthis/AI-Products-All-In-One",
+    "desc": "彙整了真正實用的 ChatGPT 與生成式 AI 工具",
+    "topics": [],
+    "officialSite": "https://www.explainthis.io/zh-hant/ai-toolkit"
+  }, {
+    "repo": "terminalcommandnewsletter/everything-chatgpt",
+    "desc": "Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "desc": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dalinvip/Awesome-ChatGPT",
+    "desc": "ChatGPT资料汇总学习，持续更新......",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jiep/offensive-ai-compilation",
+    "desc": "A curated list of useful resources that cover Offensive AI.",
+    "topics": [],
+    "officialSite": "https://jiep.github.io/offensive-ai-compilation"
+  }, {
+    "repo": "fastfire/deepdarkCTI",
+    "desc": "Collection of Cyber Threat Intelligence sources from the deep and dark web",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "davinci1010/pinduoduo_backdoor",
+    "desc": "拼多多apk内嵌提权代码，及动态下发dex分析",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dair-ai/ML-Papers-of-the-Week",
+    "desc": "🔥Highlighting the top ML papers every week.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "eon01/awesome-chatgpt",
+    "desc": "🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "underlines/awesome-marketing-datascience",
+    "desc": "Collection of useful Datascience things across the web",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ibraheemdev/modern-unix",
+    "desc": "A collection of modern/faster/saner alternatives to common unix commands.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "topics": [],
+    "officialSite": "https://docs.docker.com/compose/"
+  }, {
+    "repo": "jessfraz/dockerfiles",
+    "desc": "Various Dockerfiles I use on the desktop and on servers.",
+    "topics": [],
+    "officialSite": "https://blog.jessfraz.com/post/docker-containers-on-the-desktop"
+  }, {
+    "repo": "sottlmarek/DevSecOps",
+    "desc": "Ultimate DevSecOps library",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "analysis-tools-dev/static-analysis",
+    "desc": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+    "topics": [],
+    "officialSite": "https://analysis-tools.dev"
+  }, {
+    "repo": "EwingYangs/awesome-open-gpt",
+    "desc": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "opendilab/awesome-RLHF",
+    "desc": "A curated list of reinforcement learning with human feedback resources (continually updated)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ai-collection/ai-collection",
+    "desc": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+    "topics": ["awesome", "ai", "artificial-intelligence", "generative-text", "collections", "generative-art", "software-development", "awesome-list", "assistive-technology", "assistant-chat-bots", "generative-music", "generative-testing", "generative-design"],
+    "officialSite": "https://ai-collection.org"
+  }, {
+    "repo": "Mooler0410/LLMsPracticalGuide",
+    "desc": "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)",
+    "topics": ["nlp", "natural-language-processing", "survey", "large-language-models"],
+    "officialSite": "https://arxiv.org/abs/2304.13712v2"
+  }, {
+    "repo": "vuejs/awesome-vue",
+    "desc": "🎉 A curated list of awesome things related to Vue.js",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sindresorhus/awesome-chatgpt",
+    "desc": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI",
+    "topics": ["awesome", "ai", "artificial-intelligence", "openai", "awesome-list", "gpt", "gpt-3", "gpt-4", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "bad1dea/NXCheats",
+    "desc": "Repository for cheats I've made or worked on for the switch.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Juanpe/About-SwiftUI",
+    "desc": "Gathering all info published, both by Apple and by others, about new framework SwiftUI.",
+    "topics": ["swift", "learning", "list", "apple", "docs", "uikit", "videos", "wwdc", "articles", "hacktoberfest", "swiftui", "swiftui-tutorials"],
+    "officialSite": "https://juanpe.github.io/About-SwiftUI"
+  }, {
+    "repo": "eugeneyan/open-llms",
+    "desc": "🤖 A list of open LLMs available for commercial use.",
+    "topics": ["commercial", "large-language-models", "llm", "llms"],
+    "officialSite": ""
+  }, {
+    "repo": "utilForever/awesome-cafe",
+    "desc": "☕ 모각코하기 좋은 국내 카페 리스트",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "iknowjason/Awesome-CloudSec-Labs",
+    "desc": "Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "RitikPatni/Front-End-Web-Development-Resources",
+    "desc": "This repository contains content which will be helpful in your journey as a front-end Web Developer",
+    "topics": ["javascript", "css", "html", "front-end", "tutorial", "framework", "frontend", "color-scheme", "css-framework", "resources", "css-grid", "frontend-framework", "hacktoberfest", "youtube-channel", "front-end-development", "free-photos", "stock-resources", "animation-frameworks"],
+    "officialSite": "https://resources.ritikpatni.me"
+  }, {
+    "repo": "denysdovhan/wtfjs",
+    "desc": "🤪 A list of funny and tricky JavaScript examples",
+    "topics": ["javascript", "learning", "js", "book", "notes", "handbook", "specification", "wtf"],
+    "officialSite": "http://bit.ly/wtfjavascript"
+  }, {
+    "repo": "lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kyrolabs/awesome-langchain",
+    "desc": "😎 Awesome list of tools and projects with the awesome LangChain framework",
+    "topics": ["awesome", "ai", "awesome-list", "llm", "langchain"],
+    "officialSite": ""
+  }, {
+    "repo": "djsime1/awesome-flipperzero",
+    "desc": "🐬 A collection of awesome resources for the Flipper Zero device.",
+    "topics": ["awesome", "awesome-list", "flipperzero", "flipper-zero"],
+    "officialSite": "https://dj.je/fz"
+  }, {
+    "repo": "aniftyco/awesome-tailwindcss",
+    "desc": "😎 Awesome things related to Tailwind CSS",
+    "topics": ["css", "awesome", "postcss", "apps", "resources", "websites", "awesome-list", "tailwind", "tailwindcss"],
+    "officialSite": "https://tailwindcss.com"
+  }, {
+    "repo": "unicodeveloper/awesome-nextjs",
+    "desc": "📔 📚 A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)",
+    "topics": ["javascript", "framework", "isomorphic", "universal", "reactjs", "nextjs", "routing", "tutorials", "server-side-rendering", "awesome-list"],
+    "officialSite": ""
+  }  
+]

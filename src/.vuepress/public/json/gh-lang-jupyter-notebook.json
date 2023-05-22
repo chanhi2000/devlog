@@ -1,0 +1,188 @@
+[
+  {
+    "repo": "Ayanaminn/N46Whisper",
+    "desc": "Whisper based Japanese subtitle generator",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "tloen/alpaca-lora",
+    "desc": "Instruct-tune LLaMA on consumer hardware",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "deep-diver/Alpaca-LoRA-Serve",
+    "desc": "Alpaca-LoRA as Chatbot service",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mymusise/ChatGLM-Tuning",
+    "desc": "一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Beomi/KoAlpaca",
+    "desc": "KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "showlab/Tune-A-Video",
+    "desc": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "LC1332/Chinese-alpaca-lora",
+    "desc": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "traghav/auto-redteam",
+    "desc": "Redteaming LLMs using other LLMs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "yuanzhoulvpi2017/zero_nlp",
+    "desc": "中文nlp应用(数据、模型、训练、推理) chatglm6b",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PhoebusSi/Alpaca-CoT",
+    "desc": "We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集,并在我们框架下集成进更多的LLM。）",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ai-forever/Kandinsky-2",
+    "desc": "Kandinsky 2 — multilingual text2image latent diffusion model",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookresearch/segment-anything",
+    "desc": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "IDEA-Research/Grounded-Segment-Anything",
+    "desc": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jpmorganchase/python-training",
+    "desc": "Python training for business analysts and traders",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "prophesier/diff-svc",
+    "desc": "Singing Voice Conversion via diffusion model",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sdatkinson/neural-amp-modeler",
+    "desc": "Neural network emulator for guitar amplifiers.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "agiresearch/OpenAGI",
+    "desc": "OpenAGI: When LLM Meets Domain Experts",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kw2828/Dolly-2.0-Series",
+    "desc": "Resources for running, fine-tuning, and inferencing Dolly 2.0",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "geekyutao/Inpaint-Anything",
+    "desc": "Inpaint anything using Segment Anything and inpainting models.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "suno-ai/bark",
+    "desc": "🔊 Text-prompted Generative Audio Model",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Stability-AI/StableLM",
+    "desc": "StableLM: Stability AI Language Models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "datawhalechina/hugging-llm",
+    "desc": "HuggingLLM, Hugging Future.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "lupantech/chameleon-llm",
+    "desc": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
+    "topics": [],
+    "officialSite": "https://chameleon-llm.github.io"
+  }, {
+    "repo": "roboflow/notebooks",
+    "desc": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+    "topics": [],
+    "officialSite": "https://roboflow.com/models"
+  }, {
+    "repo": "IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API",
+    "desc": "Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.",
+    "topics": ["python", "ai", "reverse-engineering", "openai", "gpt-4", "gpt4", "chatgpt", "chatgpt-api", "chatgpt-free", "gpt-4-api", "autogpt", "free-autogpt", "autogpt-no-paid-api", "democratize-ai", "open-source-gpt", "open-source-auto-gpt"],
+    "officialSite": ""
+  }, {
+    "repo": "datawhalechina/prompt-engineering-for-developers",
+    "desc": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "google-research/google-research",
+    "desc": "Google Research",
+    "topics": ["machine-learning", "research", "ai"],
+    "officialSite": "https://research.google"
+  }, {
+    "repo": "1rgs/jsonformer",
+    "desc": "A Bulletproof Way to Generate Structured JSON from Language Models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Deci-AI/super-gradients",
+    "desc": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
+    "topics": ["computer-vision", "deep-learning", "neural-network", "pytorch", "imagenet", "image-classification", "object-detection", "transfer-learning", "pretrained-models", "semantic-segmentation", "pretrained-weights"],
+    "officialSite": "https://www.supergradients.com"
+  }, {
+    "repo": "Azure/Azure-Sentinel",
+    "desc": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+    "topics": ["cybersecurity", "sample-code"],
+    "officialSite": "https://azure.microsoft.com/en-us/services/azure-sentinel"
+  }, {
+    "repo": "fastai/nbdev",
+    "desc": "Create delightful software with Jupyter Notebooks",
+    "topics": ["python", "jupyter", "pypi", "documentation-tool", "conda", "developer-tools", "literate-programming", "jupyter-notebooks", "python-modules", "fastai", "documentation-generator", "nbdev"],
+    "officialSite": "https://nbdev.fast.ai"
+  }, {
+    "repo": "invoke-ai/InvokeAI",
+    "desc": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+    "topics": ["windows", "macos", "linux", "artificial-intelligence", "generative-art", "image-generation", "inpainting", "img2img", "ai-art", "outpainting", "txt2img", "latent-diffusion", "stable-diffusion"],
+    "officialSite": "https://invoke-ai.github.io/InvokeAI"
+  }, {
+    "repo": "dsdanielpark/Bard-API",
+    "desc": "The python package that returns response of Google Bard through API.",
+    "topics": ["nlp", "api", "google", "chatbot", "google-maps-api", "bard", "ai-api", "llm", "google-bard", "google-bard-python", "bard-api", "googlebard", "google-bard-api"],
+    "officialSite": "https://pypi.org/project/bardapi"
+  }, {
+    "repo": "microsoft/guidance",
+    "desc": "A guidance language for controlling large language models.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "UFund-Me/Qbot",
+    "desc": "[🔥updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant",
+    "topics": ["machine-learning", "quantitative-finance", "trademarks", "quantization", "funds", "strategies", "quantitative-trading", "pytrade"],
+    "officialSite": "https://github.com/Charmve"
+  }, {
+    "repo": "the-full-stack/website",
+    "desc": "Source for https://fullstackdeeplearning.com",
+    "topics": [],
+    "officialSite": ""
+  }
+]

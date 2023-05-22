@@ -7,7 +7,7 @@
     }, {
         "repo": "helix-editor/helix",
         "desc": "A post-modern modal text editor.",
-        "topics": [],
+        "topics": ["vim", "rust", "kakoune", "text-editor"],
         "officialSite":"https://helix-editor.com"
     }, {
         "repo": "surrealdb/surrealdb",

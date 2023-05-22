@@ -1,0 +1,1347 @@
+[
+  {
+    "repo": "OpenBapul/hml-equation-parser",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://pypi.python.org/pypi/hml_equation_parser"
+  }, {
+    "repo": "public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "topics": ["api", "lists", "open-source", "list", "development", "public", "resources", "dataset", "free", "software", "apis", "public-api", "public-apis"],
+    "officialSite": "http://public-apis.org"
+  }, {
+    "repo": "microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "topics": [],
+    "officialSite": "https://aka.ms/nlpagi"
+  }, {
+    "repo": "3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kivy/kivy",
+    "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "topics": [],
+    "officialSite": "https://kivy.org"
+  }, {
+    "repo": "mkdocs/mkdocs",
+    "desc": "Project documentation with Markdown.",
+    "topics": [],
+    "officialSite": "https://www.mkdocs.org"
+  }, {
+    "repo": "hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kingoflolz/mesh-transformer-jax",
+    "desc": "Model parallel transformers in JAX and Haiku",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mete0r/pyhwp",
+    "desc": ".hwp file format v5 parser in python",
+    "topics": [],
+    "officialSite": "http://pythonhosted.org/pyhwp"
+  }, {
+    "repo": "pypa/pipfile",
+    "desc": "Pipfile: the replacement for requirements.txt",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "topics": [],
+    "officialSite": "https://sympy.org"
+  }, {
+    "repo": "PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+    "topics": [],
+    "officialSite": "https://arxiv.org/abs/2101.06175"
+  }, {
+    "repo": "mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "topics": [],
+    "officialSite": "https://diagrams.mingrammer.com"
+  }, {
+    "repo": "hmartiro/riffusion-inference",
+    "desc": "Stable diffusion for real-time music generation",
+    "topics": [],
+    "officialSite": "http://riffusion.com"
+  }, {
+    "repo": "carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mui/material-ui",
+    "desc": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+    "topics": ["react", "javascript", "design-systems", "typescript", "material-design", "react-components", "hacktoberfest"],
+    "officialSite": "https://mui.com/core"
+  }, {
+    "repo": "Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "topics": [],
+    "officialSite": "https://aroussi.com/post/python-yahoo-finance"
+  }, {
+    "repo": "THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "topics": ["tools", "code-generation", "pretrained-models"],
+    "officialSite": "https://models.aminer.cn/codegeex"
+  }, {
+    "repo": "spantaleev/matrix-docker-ansible-deploy",
+    "desc": "🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "m-bain/whisperX",
+    "desc": "WhisperX: Timestamp-Accurate Automatic Speech Recognition.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "openai/point-e",
+    "desc": "Point cloud diffusion for 3D model synthesis",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "topics": [],
+    "officialSite": "https://sw.kovidgoyal.net/kitty"
+  }, {
+    "repo": "microsoft/X-Decoder",
+    "desc": "Official Implementation of X-Decoder for generalized decoding for pixel, image and language",
+    "topics": [],
+    "officialSite": "https://x-decoder-vl.github.io"
+  }, {
+    "repo": "prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "topics": [],
+    "officialSite": "https://www.prowler.pro"
+  }, {
+    "repo": "facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "adobe-research/custom-diffusion",
+    "desc": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "topics": [],
+    "officialSite": "https://www.cs.cmu.edu/~custom-diffusion"
+  }, {
+    "repo": "LAION-AI/Open-Assistant",
+    "desc": "Open Assistant is a project meant to give everyone access to a great chat based large language model.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "malkemit/namizun",
+    "desc": "Asymmetric upload and download",
+    "topics": [],
+    "officialSite": "https://t.me/ExplainLikeIam5"
+  }, {
+    "repo": "karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "topics": [],
+    "officialSite": ""  
+  }, {
+    "repo": "neonbjb/tortoise-tts",
+    "desc": "A multi-voice TTS system trained with an emphasis on quality",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "topics": [],
+    "officialSite": "https://forms.gle/ntuAX8BGRR5yAb9ZA"
+  }, {
+    "repo": "microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ThioJoe/Auto-Synced-Translated-Dubs",
+    "desc": "Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "tobymao/sqlglot",
+    "desc": "Python SQL Parser and Transpiler",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bigscience-workshop/petals",
+    "desc": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "topics": [],
+    "officialSite": "https://petals.ml"
+  }, {
+    "repo": "ray-project/ray",
+    "desc": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
+    "topics": [],
+    "officialSite": "https://ray.io"
+  }, {
+    "repo": "Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python.",
+    "topics": [],
+    "officialSite": "https://docs.microsoft.com/python/azure"
+  }, {
+    "repo": "AnTi-anti/damai_ticket",
+    "desc": "大麦网抢票脚本",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "openai/openai-python",
+    "desc": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nebuly-ai/nebullvm",
+    "desc": "Plug and play modules to optimize the performances of your AI systems 🚀",
+    "topics": [],
+    "officialSite": "https://www.nebuly.com"
+  }, {
+    "repo": "openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "centerofci/mathesar",
+    "desc": "Web application providing an intuitive user experience to databases.",
+    "topics": [],
+    "officialSite": "https://mathesar.org"
+  }, {
+    "repo": "togethercomputer/OpenChatKit",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kaixindelele/ChatPaper",
+    "desc": "Use ChatGPT to summarize the arXiv papers.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/visual-chatgpt",
+    "desc": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "svc-develop-team/so-vits-svc",
+    "desc": "SoftVC VITS Singing Voice Conversion",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "comfyanonymous/ComfyUI",
+    "desc": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pynecone-io/pynecone",
+    "desc": "🕸 Web apps in pure Python 🐍",
+    "topics": [],
+    "officialSite": "https://pynecone.io"
+  }, {
+    "repo": "MasterBin-IIAU/UNINEXT",
+    "desc": "[CVPR'23] Universal Instance Perception as Object Discovery and Retrieval",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "thu-ml/unidiffuser",
+    "desc": "Code and models for the paper 'One Transformer Fits All Distributions in Multi-Modal Diffusion'",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookresearch/llama",
+    "desc": "Inference code for LLaMA models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "topics": ["web", "ai", "deep-learning", "torch", "pytorch", "unstable", "image-generation", "gradio", "diffusion", "upscaling", "text2image", "image2image", "img2img", "ai-art", "txt2img", "stable-diffusion"],
+    "officialSite": ""
+  }, {
+    "repo": "huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "topics": [],
+    "officialSite": "https://huggingface.co/transformers"
+  }, {
+    "repo": "npiv/chatblade",
+    "desc": "A CLI Swiss Army Knife for ChatGPT",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "34j/so-vits-svc-fork",
+    "desc": "so-vits-svc fork with realtime support, improved interface and more features.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "topics": ["python", "home-automation", "mqtt", "raspberry-pi", "iot", "internet-of-things", "asyncio", "hacktoberfest"],
+    "officialSite": "https://www.home-assistant.io"
+  }, {
+    "repo": "Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "modelscope/modelscope",
+    "desc": "ModelScope: bring the notion of Model-as-a-Service to life.",
+    "topics": [],
+    "officialSite": "https://www.modelscope.cn"
+  }, {
+    "repo": "andyk/recursive_llm",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""}, {
+    "repo": "biobootloader/wolverine",
+    "desc": "Give your python scripts regenerative healing abilities!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "TheR1D/shell_gpt",
+    "desc": "A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "GerevAI/gerev",
+    "desc": "🧠 ChatGPT search engine for your organization. 🔎",
+    "topics": [],
+    "officialSite": "https://gerev.ai"
+  }, {
+    "repo": "pelennor2170/NAM_models",
+    "desc": "A repository collecting model files for Neural Amp Modeler (NAM) all in one place",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Ciphey/Ciphey",
+    "desc": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "chidiwilliams/buzz",
+    "desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "fauxpilot/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "openai/chatgpt-retrieval-plugin",
+    "desc": "The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.",
+    "topics": ["chatgpt", "chatgpt-plugins"],
+    "officialSite": ""
+  }, {
+    "repo": "mckaywrigley/chatbot-ui",
+    "desc": "An open-source ChatGPT UI.",
+    "topics": [],
+    "officialSite": "https://www.chatbotui.com"
+  }, {
+    "repo": "databrickslabs/dolly",
+    "desc": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "topics": [],
+    "officialSite": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html"
+  }, {
+    "repo": "madawei2699/myGPTReader",
+    "desc": "myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sahil280114/codealpaca",
+    "desc": "This is the repo for the Code Alpaca project, which aims to build and share an instruction-following LLaMA model for code generation. This repo is fully based on Stanford Alpaca ,and only changes the data used for training. Training approach is the same.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nsarrazin/serge",
+    "desc": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pgd3kr/BlenderGPT",
+    "desc": "Use commands in English to control Blender with OpenAI's GPT-4",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "FMInference/FlexGen",
+    "desc": "Running large language models on a single GPU for throughput-oriented scenarios.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "BlinkDL/RWKV-LM",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, 'infinite' ctx_len, and free sentence embedding.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "n3d1117/chatgpt-telegram-bot",
+    "desc": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "tech-branch/tsr",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Picsart-AI-Research/Text2Video-Zero",
+    "desc": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "huggingface/peft",
+    "desc": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nomic-ai/gpt4all",
+    "desc": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Lightning-AI/lit-llama",
+    "desc": "Independent implementation of LLaMA that is fully open source under the Apache 2.0 license.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Kent0n-Li/ChatDoctor",
+    "desc": "ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "visual-openllm/visual-openllm",
+    "desc": "something like visual-chatgpt, 文心一言的开源版",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "clue-ai/ChatYuan",
+    "desc": "ChatYuan: Large Language Model for Dialogue in Chinese and English",
+    "topics": [],
+    "officialSite": "https://www.clueai.cn"
+  }, {
+    "repo": "getsentry/sentry",
+    "desc": "Developer-first error tracking and performance monitoring",
+    "topics": [],
+    "officialSite": "https://sentry.io"
+  }, {
+    "repo": "KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "desc": "科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网",
+    "topics": [],
+    "officialSite": "https://cntizi1.com"
+  }, {
+    "repo": "hpcaitech/ColossalAI",
+    "desc": "Making large AI models cheaper, faster and more accessible",
+    "topics": [],
+    "officialSite": "https://www.colossalai.org"
+  }, {
+    "repo": "ZrrSkywalker/LLaMA-Adapter",
+    "desc": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ymcui/Chinese-LLaMA-Alpaca",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "topics": ["nlp", "llama", "quantization", "alpaca", "plm", "pre-trained-language-models", "large-language-models", "llm"],
+    "officialSite": "https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki"
+  }, {
+    "repo": "NafisiAslH/KnowledgeSharing",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "RosettaCommons/RFdiffusion",
+    "desc": "Code for running RFdiffusion",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "twitter/the-algorithm-ml",
+    "desc": "Source code for Twitter's Recommendation Algorithm",
+    "topics": [],
+    "officialSite": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm"
+  }, {
+    "repo": "lm-sys/FastChat",
+    "desc": "An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "twitter/opensource-website",
+    "desc": "Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.",
+    "topics": [],
+    "officialSite": "https://opensource.twitter.dev"
+  }, {
+    "repo": "Torantulino/Auto-GPT",
+    "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "new-ai-company/ide",
+    "desc": "$NAME is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.",
+    "topics": [],
+    "officialSite": "https://ai-api-gray.vercel.app"
+  }, {
+    "repo": "briangu/klongpy",
+    "desc": "Vectorized port of Klong array language",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "apple/ml-stable-diffusion",
+    "desc": "Stable Diffusion with Core ML on Apple Silicon",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/JARVIS",
+    "desc": "JARVIS, a system to connect LLMs with ML community",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "stochasticai/xturing",
+    "desc": "Build and control your own LLMs",
+    "topics": [],
+    "officialSite": "https://xturing.stochastic.ai"
+  }, {
+    "repo": "GammaTauAI/reflexion-human-eval",
+    "desc": "An implementation of a Reflexion agent for SOTA Human-Eval Python results.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "THUDM/ChatGLM-6B",
+    "desc": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "yoheinakajima/babyagi",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "e2b-dev/e2b",
+    "desc": "e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.",
+    "topics": ["react", "nodejs", "python", "development", "typescript", "ai", "nextjs", "ide", "devtools", "openai", "software", "gpt", "firecracker", "coding-editor", "gpt-4", "llm", "langchain"],
+    "officialSite": "https://e2b.dev"
+  }, {
+    "repo": "emcf/engshell",
+    "desc": "An English-language shell for any OS, powered by LLMs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "project-baize/baize-chatbot",
+    "desc": "Let ChatGPT teach your own chatbot in hours with a single GPU!",
+    "topics": [],
+    "officialSite": "https://arxiv.org/abs/2304.01196"
+  }, {
+    "repo": "imClumsyPanda/langchain-ChatGLM",
+    "desc": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM",
+    "topics": ["llm", "llms", "langchain", "chatglm", "chatglm-6b"],
+    "officialSite": ""
+  }, {
+    "repo": "Torantulino/AI-Functions",
+    "desc": "AI-Powered Function Magic: Never code again with GPT models!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "TabbyML/tabby",
+    "desc": "Self-hosted AI coding assistant",
+    "topics": [],
+    "officialSite": "https://tabbyml.github.io/tabby"
+  }, {
+    "repo": "chroma-core/chroma",
+    "desc": "the open source embedding database",
+    "topics": [],
+    "officialSite": "https://www.trychroma.com"
+  }, {
+    "repo": "Akegarasu/ChatGLM-webui",
+    "desc": "A WebUI for ChatGLM-6B",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "l15y/wenda",
+    "desc": "闻达：一个LLM调用平台。旨在通过使用为小模型外挂知识库查找的方式，在不能涌现的前提下实现近似于大模型的生成能力",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Winfredy/SadTalker",
+    "desc": "（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+    "topics": [],
+    "officialSite": "https://sadtalker.github.io"
+  }, {
+    "repo": "VideoCrafter/VideoCrafter",
+    "desc": "A Toolkit for Text-to-Video Generation and Editing",
+    "topics": [],
+    "officialSite": "https://youtu.be/SJ_TOVjn5zs"
+  }, {
+    "repo": "ViperX7/Alpaca-Turbo",
+    "desc": "Web UI to run alpaca model locally",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "lvwerra/trl",
+    "desc": "Train transformer language models with reinforcement learning.",
+    "topics": [],
+    "officialSite": "http://hf.co/docs/trl"
+  }, {
+    "repo": "abetlen/llama-cpp-python",
+    "desc": "Python bindings for llama.cpp",
+    "topics": [],
+    "officialSite": "https://abetlen.github.io/llama-cpp-python"
+  }, {
+    "repo": "BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "baaivision/Painter",
+    "desc": "Painter & SegGPT Series: Vision Foundation Models from BAAI",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "IDEA-Research/GroundingDINO",
+    "desc": "The official implementation of 'Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection'",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "liujing04/Retrieval-based-Voice-Conversion-WebUI",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "davidhi7/ddcci-plasmoid",
+    "desc": "KDE Plasma widget to adjust the brightness of multiple external monitors",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "anuragxel/salt",
+    "desc": "Segment Anything Labelling Tool",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "soulteary/docker-prompt-generator",
+    "desc": "Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。",
+    "topics": [],
+    "officialSite": "https://soulteary.com/2023/04/05/eighty-lines-of-code-to-implement-the-open-source-midjourney-and-stable-diffusion-spell-drawing-tool.html"
+  }, {
+    "repo": "sail-sg/EditAnything",
+    "desc": "Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ravenscroftj/turbopilot",
+    "desc": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "topics": [],
+    "officialSite": "https://lama-cleaner-docs.vercel.app"
+  }, {
+    "repo": "everythingishacked/Semaphore",
+    "desc": "A full-body keyboard using gestures to type through computer vision",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "LimerBoy/Impulse",
+    "desc": "💣 Impulse Denial-of-service ToolKit",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Neo23x0/log4shell-detector",
+    "desc": "Detector for Log4Shell exploitation attempts",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "megadose/holehe",
+    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "openai/consistency_models",
+    "desc": "Official repo for consistency models.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "daveshap/REMO_Framework",
+    "desc": "Rolling Episodic Memory Organizer (REMO) for autonomous AI systems",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "fudan-zvg/Semantic-Segment-Anything",
+    "desc": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "linyiLYi/street-fighter-ai",
+    "desc": "This is an AI agent for Street Fighter II Champion Edition.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PineappleExpress808/auto-evaluator",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mlc-ai/web-llm",
+    "desc": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
+    "topics": [],
+    "officialSite": "https://mlc.ai/web-llm"
+  }, {
+    "repo": "pengzhile/pandora",
+    "desc": "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.",
+    "topics": ["python", "php", "gpt-4", "chatgpt", "gpt-35-turbo-0301", "chatgpt-plus", "gpt-35-burbo"],
+    "officialSite": "https://chat.zhile.io"
+  }, {
+    "repo": "muellerberndt/micro-gpt",
+    "desc": "A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookresearch/AnimatedDrawings",
+    "desc": "Code to accompany 'A Method for Animating Children's Drawings of the Human Figure'",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "topics": [],
+    "officialSite": "https://openbb.co"
+  }, {
+    "repo": "jdagdelen/hyperDB",
+    "desc": "A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $35M cap.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "haotian-liu/LLaVA",
+    "desc": "Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.",
+    "topics": [],
+    "officialSite": "https://llava.hliu.cc"
+  }, {
+    "repo": "Vision-CAIR/MiniGPT-4",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://minigpt-4.github.io"
+  }, {
+    "repo": "facebookresearch/dinov2",
+    "desc": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "houseofsecrets/SdPaint",
+     "desc": "Stable Diffusion Painting",
+     "topics": [],
+     "officialSite": ""
+  }, {
+    "repo": "togethercomputer/RedPajama-Data",
+    "desc": "The RedPajama-Data repository contains code for preparing large datasets for training large language models.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "zilliztech/GPTCache",
+    "desc": "GPTCache is a library for creating semantic cache to store responses from LLM queries.",
+    "topics": [],
+    "officialSite": "https://gptcache.readthedocs.io"
+  }, {
+    "repo": "ading2210/poe-api",
+    "desc": "A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kaqijiang/Auto-GPT-ZH",
+    "desc": "Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "xtekky/gpt4free",
+    "desc": "decentralising the Ai Industry, just some language model api's...",
+    "topics": ["python", "chatbot", "reverse-engineering", "openai", "chatbots", "gpt", "language-model", "gpt-3", "gpt3", "openai-api", "gpt-4", "gpt4", "chatgpt", "chatgpt-api", "openai-chatgpt", "chatgpt-free", "chatgpt-4", "chatgpt4", "gpt4-api", "free-gpt"],
+    "officialSite": "https://discord.gg/gpt4free"
+  }, {
+    "repo": "jostmey/msm",
+    "desc": " Improved statistical classifier for immune repertoires",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pyscript/pyscript",
+    "desc": "Home Page: https://pyscript.net Examples: https://pyscript.net/examples",
+    "topics": [],
+    "officialSite": "https://github.com/pyscript/pyscript/discussions"
+  }, {
+    "repo": "OpenBMB/BMTools",
+    "desc": "Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "h2oai/h2o-llmstudio",
+    "desc": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs",
+    "topics": [],
+    "officialSite": "https://github.com/h2oai/h2o-llmstudio"
+  }, {
+    "repo": "ashawkey/stable-dreamfusion",
+    "desc": "Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.",
+    "topics": ["gui", "nerf", "image-to-3d", "stable-diffusion", "text-to-3d", "dreamfusion"],
+    "officialSite": ""
+  }, {
+    "repo": "tsale/EDR-Telemetry",
+    "desc": "This project aims to compare and evaluate the telemetry of various EDR products.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "OpenLMLab/MOSS",
+    "desc": "An open-source tool-augmented conversational language model from Fudan University",
+    "topics": [],
+    "officialSite": "https://txsun1997.github.io/blogs/moss.html"
+  }, {
+    "repo": "guillaumekln/faster-whisper",
+    "desc": "Faster Whisper transcription with CTranslate2",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Significant-Gravitas/Auto-GPT-Plugin-Template",
+    "desc": "A starting point for developing your own plug-in for Auto-GPT",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "LawRefBook/Laws",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sanchit-gandhi/whisper-jax",
+     "desc": "",
+     "topics": [],
+     "officialSite": ""
+  }, {
+    "repo": "opengeos/segment-geospatial",
+    "desc": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+    "topics": ["machine-learning", "deep-learning", "geospatial", "artificial-intelligence", "segmentation", "geopython", "segment-anything"],
+    "officialSite": "https://samgeo.gishub.org"
+  }, {
+    "repo": "jina-ai/gptdeploy",
+    "desc": "One line to create them all",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "peterw/Gumroad-Landing-Page-Generator",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "OpenGVLab/Ask-Anything",
+    "desc": "ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
+    "topics": [],
+    "officialSite": "https://yinanhe.github.io/projects/chatvideo.html"
+  }, {
+    "repo": "minosvasilias/godot-dodo",
+    "desc": "Finetuning large language models for GDScript generation.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网",
+    "topics": ["python3", "openai", "wechat", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "Josh-XT/Agent-LLM",
+    "desc": "An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.",
+    "topics": [],
+    "officialSite": "https://agent-llm.com"
+  }, {
+    "repo": "bhaskatripathi/pdfGPT",
+    "desc": "PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!",
+    "topics": [],
+    "officialSite": "https://huggingface.co/spaces/bhaskartripathi/pdfChatter"
+  }, {
+    "repo": "Snaacky/dndserver",
+    "desc": "Dark and Darker private server implementation written in Python",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "GreyDGL/PentestGPT",
+    "desc": "A GPT-empowered penetration testing tool",
+    "topics": ["python", "penetration-testing", "large-language-models", "llm"],
+    "officialSite": ""
+  }, {
+    "repo": "BigBrotherTrade/trader",
+    "desc": "交易模块",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "farizrahman4u/loopgpt",
+    "desc": "Modular Auto-GPT Framework",
+    "topics": ["gpt", "gpt4", "llms", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "deepdoctection/deepdoctection",
+    "desc": "A Repo For Document AI",
+    "topics": ["python", "nlp", "ocr", "tensorflow", "pytorch", "document-parser", "document-layout-analysis", "table-recognition", "table-detection", "document-understanding", "publaynet", "layoutlm", "document-ai", "document-image-analysis", "pubtabnet"],
+    "officialSite": ""
+  }, {
+    "repo": "deep-floyd/IF",
+    "desc": "DeepFloyd IF by StabilityAI",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "peterw/Chat-with-Github-Repo",
+    "desc": "This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "aniskoubaa/rosgpt",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "open-mmlab/mmagic",
+    "desc": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox",
+    "topics": ["computer-vision", "deep-learning", "image-processing", "pytorch", "image-editing", "generative-adversarial-network", "image-generation", "super-resolution", "diffusion", "inpainting", "matting", "image-synthesis", "text2image", "video-super-resolution", "video-interpolation", "video-frame-interpolationllm"],
+    "officialSite": "https://mmagic.readthedocs.io/en/latest"
+  }, {
+    "repo": "freedmand/semantra",
+    "desc": "Multi-tool for semantic search",
+    "topics": ["cli", "machine-learning", "semantic-search"],
+    "officialSite": "https://mmagic.readthedocs.io/en/latest"
+  }, {
+    "repo": "alaeddine-13/thinkgpt",
+    "desc": "Agent techniques to augment your LLM and push it beyong its limits",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "gaomingqi/Track-Anything",
+    "desc": "Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.",
+    "topics": ["video-object-segmentation", "video-object-tracking", "segment-anything", "track-anything", "interactive-tracking", "inpaint-anything"],
+    "officialSite": ""
+  }, {
+    "repo": "dynobo/normcap",
+    "desc": "OCR powered screen-capture tool to capture information instead of images",
+    "topics": ["python", "screenshot", "ocr", "tool", "multiplatform", "tesseroc"],
+    "officialSite": "https://dynobo.github.io/normcap"
+  }, {
+    "repo": "AIGC-Audio/AudioGPT",
+    "desc": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
+    "topics": ["audio", "music", "speech", "sound", "gpt", "talking-head"],
+    "officialSite": "https://huggingface.co/spaces/AIGC-Audio/AudioGPT"
+  }, {
+    "repo": "deforum-art/deforum-stable-diffusion",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://deforum.github.io"
+  }, {
+    "repo": "nlpxucan/WizardLM",
+    "desc": "WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "farshadz1997/Microsoft-Rewards-bot",
+    "desc": "A simple bot that uses Selenium to farm Microsoft Rewards written in Python",
+    "topics": ["python", "bot", "selenium", "selenium-python", "microsoft-rewards", "rewards-bot", "bing-rewards"],
+    "officialSite": ""
+  }, {
+    "repo": "coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "topics": ["python", "text-to-speech", "deep-learning", "speech", "pytorch", "tts", "speech-synthesis", "vocoder", "voice-synthesis", "tacotron", "voice-cloning", "speaker-encodings", "melgan", "speaker-encoder", "multi-speaker-tts", "glow-tts", "hifigan", "tts-model"],
+    "officialSite": "http://coqui.ai"
+  }, {
+    "repo": "CVI-SZU/Linly",
+    "desc": "Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集",
+    "topics": ["nlp", "chatbot", "chinese", "chinese-nlp", "llama", "language-model", "bert", "zero-shot-learning", "gpt-3", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "lamini-ai/lamini",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mlc-ai/mlc-llm",
+    "desc": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
+    "topics": ["language-model", "tvm", "llm", "machine-learning-compilation"],
+    "officialSite": "https://mlc.ai/mlc-llm"
+  }, {
+    "repo": "gventuri/pandas-ai",
+    "desc": "Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",
+    "topics": ["python", "pandas", "llm"],
+    "officialSite": ""
+  }, {
+    "repo": "irgolic/AutoPR",
+    "desc": "Fix issues with AI-generated pull requests, powered by ChatGPT",
+    "topics": ["ai", "actions", "openai", "action", "gpt", "github-actions", "github-action", "gpt-3", "gpt-4", "llm", "chatgpt"],
+    "officialSite": "https://discord.gg/ykk7Znt3K6"
+  }, {
+    "repo": "cirediatpl/FigmaChain",
+    "desc": "FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mishalhossin/Discord-Chatbot-Gpt4Free",
+    "desc": "This is a Python-based Discord Chatbot. This is all free due to the GPT4FREE project",
+    "topics": ["chatbot", "discord-api", "chatbots", "discord-py", "gpt", "codex", "gpt-2", "discord-chatbot", "opengpt", "gpt-3", "gpt-4", "gpt4", "freeai", "gpt4free", "gpt-3-turbo", "gpt-3trubo", "freegpt4", "freegpt", "freegpt3", "gptfree"],
+    "officialSite": ""
+  }, {
+    "repo": "Arize-ai/phoenix",
+    "desc": "ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models",
+    "topics": ["mlops", "ml-observability", "ai-roi", "model-observability", "llmops"],
+    "officialSite": "https://docs.arize.com/phoenix"
+  }, {
+    "repo": "KurtBestor/Hitomi-Downloader",
+    "desc": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "topics": ["torrent", "gui", "downloader", "youtube", "twitch", "twitter", "manga", "youtube-dl", "bilibili", "nhentai", "pixiv", "exhentai", "hitomi", "pornhub"],
+    "officialSite": "https://docs.arize.com/phoenix"
+  }, {
+    "repo": "Significant-Gravitas/Auto-GPT-Plugins",
+    "desc": "Plugins for Auto-GPT",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "piercefreeman/gpt-json",
+    "desc": "Structured and typehinted GPT responses in Python",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "richardyc/Chrome-GPT",
+    "desc": "An AutoGPT agent that controls Chrome on your desktop",
+    "topics": ["ai", "gpt-4", "chatgpt", "langchain", "gpt-3-5-turbo", "autogpt"],
+    "officialSite": ""
+  }, {
+    "repo": "replit/ReplitLM",
+    "desc": "Inference code and configs for the ReplitLM model family",
+    "topics": ["ai", "ai4code", "llm"],
+    "officialSite": "https://huggingface.co/replit"
+  }, {
+    "repo": "ixaxaar/VardaGPT",
+    "desc": "Associative memory-enhanced GPT-2 model",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nadermx/backgroundremover",
+    "desc": "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.",
+    "topics": ["python", "video", "pytorch", "photo-editing", "video-editing", "background-removal", "remove-background", "remove-background-image", "background-remover", "backgroundremover", "removebackground", "remove-background-video"],
+    "officialSite": "https://backgroundremoverai.com"
+  }, {
+    "repo": "openai/shap-e",
+    "desc": "Generate 3D objects conditioned on text or images",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "simonw/datasette",
+    "desc": "An open source multi-tool for exploring and publishing data",
+    "topics": ["python", "docker", "json", "csv", "sql", "sqlite", "datasets", "asgi", "automatic-api", "datasette", "datasette-io"],
+    "officialSite": "https://datasette.io"
+  }, {
+    "repo": "spyder-ide/spyder",
+    "desc": "Official repository for Spyder - The Scientific Python Development Environment",
+    "topics": ["python", "qt", "anaconda", "pyqt5", "ide", "language-server-protocol", "spyder", "anaconda-distribution", "winpython", "closember"],
+    "officialSite": "https://www.spyder-ide.org"
+  }, {
+    "repo": "strawberry-graphql/strawberry",
+    "desc": "A GraphQL library for Python that leverages type annotations 🍓",
+    "topics": ["python", "graphql", "django", "graphql-server", "graphql-schema", "asyncio", "hacktoberfest", "mypy", "strawberry", "asgi", "graphql-library", "starlette"],
+    "officialSite": "https://strawberry.rocks"
+  }, {
+    "repo": "sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "topics": ["python", "windows", "macos", "linux", "cli", "osint", "tools", "sherlock", "python3", "hacktoberfest", "information-gathering", "reconnaissance", "redteam", "hacktoberfest2022"],
+    "officialSite": "http://sherlock-project.github.io"
+  }, {
+    "repo": "tatsu-lab/stanford_alpaca",
+    "desc": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "topics": ["deep-learning", "language-model", "instruction-following"],
+    "officialSite": "https://crfm.stanford.edu/2023/03/13/alpaca.html"
+  }, {
+    "repo": "mishalhossin/Dis",
+    "desc": "This is a Python-based Discord bot. This is all free due to the GPT4FREE project",
+    "topics": ["chatbot", "discord-api", "chatbots", "discord-py", "gpt", "codex", "gpt-2", "discord-chatbot", "opengpt", "gpt-3", "gpt-4", "gpt4", "freeai", "gpt4free", "gpt-3-turbo", "gpt-3trubo", "freegpt4", "freegpt", "freegpt3", "gptfree"],
+    "officialSite": ""
+  }, {
+    "repo": "georgia-tech-db/eva",
+    "desc": "AI-Relational Database System | SQL meets Deep Learning",
+    "topics": ["ocr", "database", "ai", "image-annotation", "yolo", "image-classification", "data-analysis", "eva", "object-detection", "labeling", "video-analytics", "labeling-tool", "serving", "license-plate-recognition", "toxic-comment-classification", "image-labeling-tool", "gpt-4"],
+    "officialSite": "https://evadb.readthedocs.io"
+  }, {
+    "repo": "mosaicml/llm-foundry",
+    "desc": "LLM training code for MosaicML foundation models",
+    "topics": ["nlp", "deep-learning", "pytorch", "neural-networks", "llm"],
+    "officialSite": "https://www.mosaicml.com/blog/mpt-7b"
+  }, {
+    "repo": "bigcode-project/starcoder",
+    "desc": "Home of StarCoder: fine-tuning & inference!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "topics": ["machine-learning", "compression", "deep-learning", "gpu", "inference", "pytorch", "zero", "data-parallelism", "model-parallelism", "mixture-of-experts", "pipeline-parallelism", "billion-parameters", "trillion-parameters"],
+    "officialSite": "https://www.deepspeed.ai"
+  }, {
+    "repo": "Guake/guake",
+    "desc": "Drop-down terminal for GNOME",
+    "topics": ["terminal", "guake", "hacktoberfest", "guake-terminal", "terminal-emulator"],
+    "officialSite": "http://guake-project.org"
+  }, {
+    "repo": "IR-HI/Huatuo-Llama-Med-Chinese",
+    "desc": "Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge. 华驼模型仓库，基于中文医学知识的LLaMA模型指令微调",
+    "topics": ["nlp", "medical", "chinese", "llama", "llm", "aidoctor", "medqa", "medgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "SCUTlihaoyu/open-chat-video-editor",
+    "desc": "Open source short video automatic generation tool",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ZrrSkywalker/Personalize-SAM",
+    "desc": "Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "imartinez/privateGPT",
+    "desc": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Starry-Wind/Honkai-Star-Rail",
+    "desc": "崩坏：星穹铁道自动锄大地脚本",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "GFW-knocker/gfw_resist_HTTPS_proxy",
+    "desc": "HTTPS proxy with Fragment and DoH",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "IBM/Dromedary",
+    "desc": "Dromedary: towards helpful, ethical and reliable LLMs.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "aedocw/epub2tts",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kizniche/Mycodo",
+    "desc": "An environmental monitoring and regulation system",
+    "topics": ["python", "raspberry-pi", "relay", "automation", "environment", "monitoring", "time-series", "graphs", "timer", "pid", "plants", "regulation", "sensors", "measurements", "mushroom", "grow", "cultivation", "hydroponic"],
+    "officialSite": "http://kylegabriel.com/projects"
+  }, {
+    "repo": "voicepaw/so-vits-svc-fork",
+    "desc": "so-vits-svc fork with realtime support, improved interface and more features.",
+    "topics": ["lightning", "deep-learning", "realtime", "pytorch", "speech-synthesis", "gan", "voice-conversion", "voice-changer", "pytorch-lightning", "hubert", "vits", "sovits", "so-vits-svc", "softvc", "contentvec"],
+    "officialSite": ""
+  }, {
+    "repo": "paulpierre/RasaGPT",
+    "desc": "💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram",
+    "topics": ["ai", "telegram", "telegram-bot", "chatbot", "ml", "rasa-nlu", "openai", "rasa", "rasa-core", "fastapi", "rasa-chatbot", "gpt-3", "gpt-4", "llm", "chatgpt", "langchain", "llama-index"],
+    "officialSite": "https://rasagpt.dev"
+  }, {
+    "repo": "MakiNaruto/Automatic_ticket_purchase",
+    "desc": "大麦网抢票脚本",
+    "topics": ["selenium", "python3", "requests", "beautifulsoup4"],
+    "officialSite": ""
+  }, {
+    "repo": "geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bokeh/bokeh",
+    "desc": "Interactive Data Visualization in the browser, from Python",
+    "topics": ["visualization", "javascript", "python", "plots", "jupyter", "visualisation", "data-visualisation", "bokeh", "plotting", "notebooks", "interactive-plots", "numfocus"],
+    "officialSite": "https://bokeh.org"
+  }, {
+    "repo": "openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "huggingface/text-generation-inference",
+    "desc": "Large Language Model Text Generation Inference",
+    "topics": ["nlp", "bloom", "deep-learning", "inference", "pytorch", "transformer", "gpt"],
+    "officialSite": "https://huggingface.github.io/text-generation-inference"
+  }, {
+    "repo": "pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "topics": ["deep-learning", "pytorch", "graph-convolutional-networks", "geometric-deep-learning", "graph-neural-networks"],
+    "officialSite": "https://pyg.org"
+  }, {
+    "repo": "openai/plugins-quickstart",
+    "desc": "Get a ChatGPT plugin up and running in under 5 minutes!",
+    "topics": ["chatgpt", "chatgpt-plugins"],
+    "officialSite": "https://platform.openai.com/docs/plugins"
+  }, {
+    "repo": "Gioman101/FlipperAmiibo",
+    "desc": "Made to be used with Flipper just drag the folder into NFC",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Bing-su/adetailer",
+    "desc": "Auto detecting, masking and inpainting with detection model.",
+    "topics": ["sd-webui", "stable-diffusion-webui", "stable-diffusion-webui-plugin"],
+    "officialSite": ""
+  }, {
+    "repo": "acheong08/Bard",
+    "desc": "Reverse engineering of Google's Bard API",
+    "topics": ["google", "chatbot", "reverse-engineering", "gpt", "google-bard"],
+    "officialSite": ""
+  }, {
+    "repo": "ulrischa/badger_server_display",
+    "desc": "Run Server on Pimoroni Badger 2040 w to display Text",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "csunny/DB-GPT",
+    "desc": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security",
+    "topics": ["security", "database", "private", "vicuna", "gpt-4", "langchain"],
+    "officialSite": ""
+  }, {
+    "repo": "PrefectHQ/marvin",
+    "desc": "A batteries-included library for building AI-powered software",
+    "topics": ["python", "bot", "ai", "openai", "chatbots", "gpt", "llm", "ai-functions"],
+    "officialSite": "https://askmarvin.ai"
+  }, {
+    "repo": "StanGirard/quivr",
+    "desc": "Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it",
+    "topics": ["audio", "chat", "pdf", "csv", "embeddings", "obsidian", "whisper", "second-brain", "generativeai", "chatgpt", "vectorstore"],
+    "officialSite": "https://quivr.app"
+  }, {
+    "repo": "eth-sri/lmql",
+    "desc": "A query language for programming (large) language models.",
+    "topics": ["programming-language", "language-model", "huggingface", "gpt-3", "chatgpt"],
+    "officialSite": "https://lmql.ai"
+  }, {
+    "repo": "hat-open/hat-syslog",
+    "desc": "Syslog Server and tools",
+    "topics": ["logging", "syslog"],
+    "officialSite": "https://hat-syslog.hat-open.com"
+  }, {
+    "repo": "s-JoL/Open-Llama",
+    "desc": "The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF.",
+    "topics": [],
+    "officialSite": "https://huggingface.co/s-JoL/Open-Llama-V2"
+  }, {
+    "repo": "jtsang4/claude-to-chatgpt",
+    "desc": "This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.",
+    "topics": ["openai", "claude", "chatgpt", "anthropic", "claude-ai"],
+    "officialSite": ""
+  }, {
+    "repo": "e-johnstonn/BriefGPT",
+    "desc": "Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "smol-ai/developer",
+    "desc": "with 100k context windows on the way, it's now feasible for every dev to have their own smol developer",
+    "topics": [],
+    "officialSite": "https://smol.ai"
+  }, {
+    "repo": "AdmTal/PostgreSQL-Query-Lock-Explainer",
+    "desc": "Command line utility to show what locks will be acquired by a given query.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "salesforce/CodeT5",
+    "desc": "Home of CodeT5: Open Code LLMs for Code Understanding and Generation",
+    "topics": ["code-generation", "language-model", "code-intelligence", "code-understanding", "large-language-models"],
+    "officialSite": "https://arxiv.org/abs/2305.07922"
+  }, {
+    "repo": "pengxiao-song/LaWGPT",
+    "desc": "🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ricklamers/gpt-code-ui",
+    "desc": "An open source implementation of OpenAI's ChatGPT Code interpreter",
+    "topics": ["openai", "gpt", "llms", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "ordinals-wallet/ordinals-collections",
+    "desc": "A place for creators & builders to organize ordinal collections!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "topics": ["pytorch", "super-resolution", "image-restoration", "denoise", "amine", "jpeg-compression", "esrgan", "real-esrgan"],
+    "officialSite": ""
+  }, {
+    "repo": "Textualize/trogon",
+    "desc": "Easily turn your Click CLI into a powerful terminal application",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "deepinsight/insightface",
+    "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+    "topics": ["mxnet", "pytorch", "face-recognition", "face-detection", "face-alignment", "paddlepaddle", "age-estimation", "arcface", "oneflow", "retinaface"],
+    "officialSite": "https://insightface.ai"
+  }, {
+    "repo": "NotJoeMartinez/yt-fts",
+    "desc": "Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "linyiLYi/snake-ai",
+    "desc": "An AI agent that beats the classic game \"Snake\".",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Josh-XT/AGiXT",
+    "desc": "AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
+    "topics": ["python", "intelligence", "automation", "ai", "agi", "openai", "artificial", "llama", "llamacpp", "chromadb", "babyagi", "auto-gpt"],
+    "officialSite": "https://agixt.com"
+  }
+]

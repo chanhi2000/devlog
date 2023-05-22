@@ -38,6 +38,19 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [The Road to React by Robin Wieruch](https://roadtoreact.com)
 - [Pure React by Dave Ceddia](https://daveceddia.com/pure-react)
 - [React Explained by Zac Gordon](https://www.ostraining.com/books/react)
+
+---
+
+## traversymedia
+
+- [MERN Crash Course (Part 2) - React Frontend UI, State Management With Redux Toolkit](https://www.traversymedia.com/blog/mern-crash-course-part-2)
+
+---
+
+## Astro
+
+- [Astro 2.5](https://astro.build/blog/astro-250/)
+
 ---
 
 ## ReactJS Official
@@ -94,7 +107,17 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## ClarityDev
 
+- [Enzyme vs React Testing Library: A Migration Guide](https://claritydev.net/blog/enzyme-vs-react-testing-library-migration-guide)
+
+---
+
+## SamWho
+
+- [Memory Allocation](https://samwho.dev/memory-allocation)
+
+---
 
 ## freecodecamp.org
 
@@ -104,6 +127,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/)
 - [How to Write More Efficient JavaScript Conditions](https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions)
 - [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
+- [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 
 ---
 
@@ -125,6 +149,10 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## 기억보다 기록을 
+
+- [async/await를 for loop에서 사용하기](https://kyounghwan01.github.io/blog/JS/JSbasic/for-await-of/#%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3)
+
 ## Medium
 
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
@@ -135,6 +163,9 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [The Power of Web Performance: How I Increased the Score from 27 to 99](https://code.likeagirl.io/web-performance-from-27-to-99-32441d24a326)
 - [useRef vs. useState in React](https://designtechworld.medium.com/useref-vs-usestate-in-react-330539025245)
 - [Dark mode on Tauri + Angular + Tailwind app](https://itnext.io/dark-mode-on-tauri-angular-tailwind-app-74df8f7cb8ce)
+- [Performant Reactivity with Svelte-Kit](https://itnext.io/performant-reactivity-with-svelte-kit-47d11769c5f)
+- [Callback Refs in React](https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c)
+- [ES6 imports vs CommonJS imports](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)
 
 ---
 
@@ -175,6 +206,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## OpenReplay
 
 - [Tanstack: How To Add Tables To Your React App](https://blog.openreplay.com/tanstack--how-to-add-tables-to-your-react-app)
+- [React's Virtual DOM](https://blog.openreplay.com/reacts-virtual-dom)
 
 ---
 

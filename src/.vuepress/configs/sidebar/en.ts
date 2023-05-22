@@ -374,6 +374,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-chrome-browser/README.md',
         '/g4e/tool-chrome-browser/plugins.md',
       ]
+    }, {
+      text: '💬ChatGPT',
+      collapsible: true,
+      children: [
+        '/g4e/tool-chatgpt/README.md',
+        '/g4e/tool-chatgpt/references.md',
+        '/g4e/tool-chatgpt/youtube.md',
+      ]
     },
     //endregion
     //region: DB

@@ -1,0 +1,184 @@
+[
+  {
+    "repo": "google/android-emulator-hypervisor-driver",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nalgeon/sqlean",
+    "desc": "The ultimate set of SQLite extensions",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebook/zstd",
+    "desc": "Zstandard - Fast real-time compression algorithm",
+    "topics": [],
+    "officialSite": "http://www.zstd.net"
+  }, {
+    "repo": "microsoft/checkedc",
+    "desc": "Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, a…",
+    "topics": ["microsoft", "c", "programming-language", "llvm", "clang", "system-programming"],
+    "officialSite": "https://www.microsoft.com/en-us/research/project/checked-c"
+  }, {
+    "repo": "ciniml/WireGuard-ESP32-Arduino",
+    "desc": "WireGuard implementation for ESP32 Arduino",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "DarkFlippers/unleashed-firmware",
+    "desc": "Flipper Zero Unleashed Firmware",
+    "topics": ["flipper", "firmware", "jailbreak", "unleashed", "keeloq", "flipper-plugins", "rolling-codes", "alternative-firmware", "flipperzero", "flipper-zero", "darkflippers"],
+    "officialSite": "https://t.me/flipperzero_unofficial"
+  }, {
+    "repo": "FFmpeg/FFmpeg",
+    "desc": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
+    "topics": ["audio", "c", "streaming", "video", "rtsp", "ffmpeg", "mp4", "hls", "multimedia", "rtmp", "webm", "mpeg", "fft", "hevc", "matroska"],
+    "officialSite": "https://ffmpeg.org"
+  }, {
+    "repo": "Immediate-Mode-UI/Nuklear",
+    "desc": "A single-header ANSI C immediate mode cross-platform GUI library",
+    "topics": [],
+    "officialSite": "https://immediate-mode-ui.github.io/Nuklear/doc/index.html"
+  }, {
+    "repo": "jerryscript-project/jerryscript",
+    "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "topics": ["javascript", "iot", "runtime", "internet-of-things", "javascript-engine", "jerryscript"],
+    "officialSite": "https://jerryscript.net"
+  }, {
+    "repo": "ggerganov/ggml",
+    "desc": "Tensor library for machine learning",
+    "topics": ["machine-learning", "automatic-differentiation", "tensor-algebra", "large-language-models"],
+    "officialSite": ""
+  }, {
+    "repo": "raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "topics": ["android", "c", "linux", "raspberry-pi", "iot", "gamedev", "embedded", "programming", "opengl", "game-engine", "graphics", "game-development", "raylib", "webassembly", "wasm", "videogames", "hacktoberfest"],
+    "officialSite": "http://www.raylib.com"
+  }, {
+    "repo": "flipperdevices/flipperzero-firmware",
+    "desc": "Flipper Zero firmware source code",
+    "topics": ["flipper", "firmware", "stm32", "rfid", "nfc", "ble", "infrared", "onewire", "armv7m", "subghz", "flipperzero"],
+    "officialSite": "https://flipperzero.one"
+  }, {
+    "repo": "ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "topics": ["windows", "linux", "unix", "legacy", "usb", "multiboot", "persistence", "bsd", "uefi", "chromeos", "iso-files", "secure-boot", "unattended", "auto-install", "bootable-usb"],
+    "officialSite": "https://www.ventoy.net"
+  }, {
+    "repo": "libAudioFlux/audioFlux",
+    "desc": "A library for audio and music analysis, feature extraction.",
+    "topics": ["audio", "python", "music", "machine-learning", "deep-learning", "signal-processing", "audio-features", "audio-analysis", "music-information-retrieval", "spectrogram", "mfcc", "pitch", "mir", "spectral-analysis", "music-analysis", "audio-processing", "wavelet-analysis", "wavelet-transform", "time-frequency-analysis"],
+    "officialSite": "https://audioflux.top"
+  }, {
+    "repo": "curl/urler",
+    "desc": "trurl is a command line tool for URL parsing and manipulation.",
+    "topics": ["url", "parsing", "manipulation", "command-line-tool"],
+    "officialSite": ""
+  }, {
+    "repo": "system76/firmware-open",
+    "desc": "System76 Open Firmware",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Facico/Chinese-Vicuna",
+    "desc": "Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca",
+    "topics": ["chinese", "llama", "alpaca", "vicuna"],
+    "officialSite": "https://github.com/Facico/Chinese-Vicuna"
+  }, {
+    "repo": "eduard-permyakov/permafrost-engine",
+    "desc": "An OpenGL RTS game engine written in C",
+    "topics": ["python", "c", "opengl", "game-engine", "rts", "game-engine-3d", "rendering-3d-graphics", "rts-engine", "real-time-strategy"],
+    "officialSite": ""
+  }, {
+    "repo": "davidgiven/wordgrinder",
+    "desc": "A word processor which gets the hell out of your way and lets you get some work done.",
+    "topics": [],
+    "officialSite": "http://cowlark.com/wordgrinder"
+  }, {
+    "repo": "xiaorouji/openwrt-passwall",
+    "desc": "A commonly used proxy toolchain for Openwrt LuCI Application.",
+    "topics": ["openwrt", "luci-app-passwall"],
+    "officialSite": ""
+  }, {
+    "repo": "little-brother/sqlite-gui",
+    "desc": "Lightweight SQLite editor for Windows",
+    "topics": ["editor", "windows", "gui", "extension", "sql", "database", "administration", "tool", "manager", "xml", "sqlite", "winapi", "database-management", "sqlite3"],
+    "officialSite": ""
+  }, {
+    "repo": "rvs/planD",
+    "desc": "Plan9 from Containerspace",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "aolserver/aolserver",
+    "desc": "AOLserver is America Online's Open-Source web server. AOLserver is the backbone of the largest and busiest production environments in the world. AOLserver is a multithreaded, Tcl-enabled web server used for large scale, dynamic web sites.",
+    "topics": [],
+    "officialSite": "http://aolserver.com"
+  }, {
+    "repo": "haileys/doslinux",
+    "desc": "Run Linux programs on DOS",
+    "topics": ["linux", "dos", "wsl"],
+    "officialSite": ""
+  }, {
+    "repo": "aappleby/PicoRVD",
+    "desc": "GDB-compatible RISC-V Debugger for CH32V003 that runs on a Raspberry Pi Pico",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "0015/ThatProject",
+    "desc": "*That Project's project repository",
+    "topics": ["mqtt", "esp8266", "gui", "firebase", "tutorial", "camera", "esp32", "flutter", "mcu", "gfx", "espressif", "firebase-database", "firebase-realtime-database", "lvgl", "esp32-cam", "iot-project", "embedded-project"],
+    "officialSite": "https://youtube.com/thatproject"
+  }, {
+    "repo": "taviso/123elf",
+    "desc": "A native port of Lotus 1-2-3 to Linux.",
+    "topics": ["unix", "terminal", "spreadsheet", "retrocomputing", "lotus"],
+    "officialSite": "https://123r3.net"
+  }, {
+    "repo": "retrospectmike/MacDock",
+    "desc": "Like the macOS Dock... but for System 7",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ajouatom/apilot",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "topics": ["lua", "lede", "openwrt-package", "openwrt-zh-cn", "openwrt-feed"],
+    "officialSite": ""
+  }, {
+    "repo": "UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "toverainc/willow",
+    "desc": "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",
+    "topics": ["home-automation", "alexa", "privacy", "deep-learning", "echo", "esp32", "speech-recognition", "home-assistant", "speech-to-text", "google-home", "esp-idf", "whisper", "esp-adf"],
+    "officialSite": ""
+  }, {
+    "repo": "torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookincubator/CG-SQL",
+    "desc": "CG/SQL is a compiler that converts a SQL Stored Procedure like language into C for SQLite. SQLite has no stored procedures of its own. CG/CQL can also generate other useful artifacts for testing and schema maintenance.",
+    "topics": ["c", "sql", "sqlite", "c-lang"],
+    "officialSite": "https://cgsql.dev"
+  }, {
+    "repo": "yhzhang0128/egos-2000",
+    "desc": "A minimal operating system (2K LOC) on QEMU and a RISC-V board",
+    "topics": ["education", "operating-system"],
+    "officialSite": ""
+  }, {
+    "repo": "Klipper3d/klipper", 
+    "desc": "Klipper is a 3d-printer firmware",
+    "topics": [],
+    "officialSite": ""
+  }
+]
+

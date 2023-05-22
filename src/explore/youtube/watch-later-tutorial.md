@@ -318,6 +318,8 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="6gLeplbqtqg" title="Python Platformer Game Tutorial for Beginners" />
 <YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="VAeRhmpcWEQ" title="Learn Vite – Frontend Build Tool Course" />
 <YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="t10QcFx7d5k" title="Django Project – Code a CRM App Tutorial" />
+<YoutubeItem channelName="FreeCodeCamp.org" channelId="freecodecamp" id="mBoX_JCKZTE" title="Scrapy Course – Python Web Scraping for Beginners
+" />
 
 :::
 

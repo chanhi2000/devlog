@@ -22,7 +22,7 @@ tags: ["git" , "github" , "objc" , "swift"]
 
 ## Swift
 
-<MyGithubItems lang="swift"/>
+<MyGithubItems jsonName="gh-lang-swift"/>
 
 
 <TagLinks />

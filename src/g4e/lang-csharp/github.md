@@ -24,7 +24,8 @@ meta:
 
 ## C\#
 
-<MyGithubItems lang="csharp" />
+<MyGithubItems jsonName="gh-lang-csharp" />
 
+---
 
 <TagLinks />

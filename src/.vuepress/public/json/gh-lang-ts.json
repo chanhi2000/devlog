@@ -1,0 +1,598 @@
+[
+  {
+    "repo": "microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "topics": ["javascript", "language", "typechecker", "typescript"],
+    "officialSite": "https://www.typescriptlang.org"
+  }, {
+    "repo": "gencay/vscode-chatgpt",
+    "desc": "Your best AI pair programmer - open source only",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "cogentapps/chat-with-gpt",
+    "desc": "An open-source ChatGPT app with a voice",
+    "topics": [],
+    "officialSite": "https://chatwithgpt.netlify.app"
+  }, {
+    "repo": "futantan/OpenGpt",
+    "desc": "Create your own ChatGPT App in seconds.",
+    "topics": [],
+    "officialSite": "https://open-gpt.app"
+  }, {
+    "repo": "mckaywrigley/chatbot-ui",
+    "desc": "A ChatGPT clone for running locally in your browser.",
+    "topics": [],
+    "officialSite": "https://www.chatbotui.com"
+  }, {
+    "repo": "logspace-ai/langflow",
+    "desc": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
+    "topics": [],
+    "officialSite": "http://www.logspace.ai"
+  }, {
+    "repo": "mayooear/gpt4-pdf-chatbot-langchain",
+    "desc": "GPT4 & LangChain Chatbot for large PDF docs",
+    "topics": [],
+    "officialSite": "https://www.youtube.com/watch?v=ih9PBGVVOO4"
+  }, {
+    "repo": "ourongxing/chatgpt-vercel",
+    "desc": "Powered by OpenAI API (gpt-3.5-turbo) and Vercel",
+    "topics": [],
+    "officialSite": "https://www.aitoolgpt.com"
+  }, {
+    "repo": "gannonh/gpt3.5-turbo-pgvector",
+    "desc": "gannonh/gpt3.5-turbo-pgvector",
+    "topics": [],
+    "officialSite": "https://astro-labs.app/docs"
+  }, {
+    "repo": "BloopAI/bloop",
+    "desc": "bloop is a fast code search engine written in Rust.",
+    "topics": [],
+    "officialSite": "https://bloop.ai"
+  }, {
+    "repo": "enricoros/nextjs-chatgpt-app",
+    "desc": "💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.",
+    "topics": [],
+    "officialSite": "https://nextjs-chatgpt-app-enricoros.vercel.app"
+  }, {
+    "repo": "getcursor/cursor",
+    "desc": "An editor made for programming with AI 🤖",
+    "topics": [],
+    "officialSite": "https://cursor.so"
+  }, {
+    "repo": "excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "topics": [],
+    "officialSite": "https://excalidraw.com"
+  }, {
+    "repo": "codebdy/rxdrag",
+    "desc": "Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计",
+    "topics": [],
+    "officialSite": "http://rxeditor.vercel.app"
+  }, {
+    "repo": "Yidadaa/ChatGPT-Next-Web",
+    "desc": "One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务",
+    "topics": ["web", "nextjs", "webui", "vercel", "chatgpt"],
+    "officialSite": "https://chatgpt.nextweb.fun"
+  }, {
+    "repo": "vincanger/coverlettergpt",
+    "desc": "Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.",
+    "topics": [],
+    "officialSite": "https://coverlettergpt.xyz"
+  }, {
+    "repo": "motifland/markprompt",
+    "desc": "Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics",
+    "topics": [],
+    "officialSite": "https://markprompt.com"
+  }, {
+    "repo": "Chanzhaoyu/chatgpt-web",
+    "desc": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "TaxyAI/browser-extension",
+    "desc": "Automate your browser with GPT-4",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "lxfater/Portal",
+    "desc": "Portal是一款跨平台工具，旨在将ChatGPT的能力整合到用户的工作流程中。",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "di-sukharev/opencommit",
+    "desc": "GPT CLI to auto-generate impressive commits in 1 second 🤯🔫",
+    "topics": [],
+    "officialSite": "https://www.npmjs.com/package/opencommit"
+  }, {
+    "repo": "immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "topics": [],
+    "officialSite": "https://immersive-translate.owenyoung.com"
+  }, {
+    "repo": "Mirrorful/mirrorful",
+    "desc": "Create the building blocks of your app",
+    "topics": [],
+    "officialSite": "https://mirrorful.com"
+  }, {
+    "repo": "microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "topics": [],
+    "officialSite": "https://code.visualstudio.com"
+  }, {
+    "repo": "coral-xyz/backpack",
+    "desc": "🎒 Next level crypto wallet",
+    "topics": [],
+    "officialSite": "https://backpack.app"
+  }, {
+    "repo": "mckaywrigley/ai-code-translator",
+    "desc": "Use AI to translate code from one language to another.",
+    "topics": [],
+    "officialSite": "https://ai-code-translator.vercel.app"
+  }, {
+    "repo": "hahahumble/speechgpt",
+    "desc": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
+    "topics": [],
+    "officialSite": "https://speechgpt.app"
+  }, {
+    "repo": "Synaptrix/ChatGPT-Desktop",
+    "desc": "ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "moeakwak/chatgpt-web-share",
+    "desc": "A web application that allows multiple users to share one ChatGPT account at the same time, developed using unofficial ChatGPT API & fastapi & vue3. Supports GPT-4! 共享 ChatGPT 账号给多用户同时使用，可用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "hocus-dev/hocus",
+    "desc": "🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.",
+    "topics": [],
+    "officialSite": "https://hocus.dev"
+  }, {
+    "repo": "nat/openplayground",
+    "desc": "An LLM playground you can run on your laptop",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "BuilderIO/ai-shell",
+    "desc": "A CLI that converts natural language to shell commands.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Moonvy/OpenPromptStudio",
+    "desc": "🥣 AIGC 提示词可视化编辑器",
+    "topics": [],
+    "officialSite": "https://moonvy.com/apps/ops"
+  }, {
+    "repo": "guangzhengli/ChatFiles",
+    "desc": "Have a conversation with files ｜与你的文件对话",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "shadcn/taxonomy",
+    "desc": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "topics": ["typescript", "nextjs", "prisma", "tailwindcss", "vercel", "radix-ui", "nextauthjs"],
+    "officialSite": "https://tx.shadcn.com"
+  }, {
+    "repo": "ohmplatform/FreedomGPT",
+    "desc": "This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
+    "topics": [],
+    "officialSite": "http://www.freedomgpt.com"
+  }, {
+    "repo": "langchain-ai/langchain-template-supabase",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kevmo314/magic-copy",
+    "desc": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "zeromq/zeromq.js",
+    "desc": "⚡ Node.js bindings to the ØMQ library",
+    "topics": [],
+    "officialSite": "http://zeromq.github.io/zeromq.js"
+  }, {
+    "repo": "reworkd/AgentGPT",
+    "desc": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "topics": [],
+    "officialSite": "https://agentgpt.reworkd.ai"
+  }, {
+    "repo": "HalseySpicy/Geeker-Admin",
+    "desc": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite4、Pinia、Element-Plus 开源的一套后台管理框架。",
+    "topics": [],
+    "officialSite": "https://admin.spicyboy.cn"
+  }, {
+    "repo": "diego3g/rsxp-2023",
+    "desc": "Repositório contendo o código do app do RS/XP 2023",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "eumemic/ai-legion",
+    "desc": "An LLM-powered autonomous agent platform",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "zabirauf/AutoGPT.js",
+    "desc": "Auto-GPT on the browser",
+    "topics": [],
+    "officialSite": "https://autogptjs.com"
+  }, {
+    "repo": "usememos/memos",
+    "desc": "A lightweight, self-hosted memo hub. Open Source and Free forever.",
+    "topics": [],
+    "officialSite": "https://usememos.com"
+  }, {
+    "repo": "shadcn/ui",
+    "desc": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "topics": ["react", "components", "ui", "nextjs", "tailwindcss", "radix-ui"],
+    "officialSite": "https://ui.shadcn.com"
+  }, {
+    "repo": "yoavbls/pretty-ts-errors",
+    "desc": "🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀",
+    "topics": [],
+    "officialSite": "https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors"
+  }, {
+    "repo": "liou666/polyglot",
+    "desc": "🤖️ 桌面端AI语言练习应用",
+    "topics": ["electron", "azure", "tts", "polyglot", "openai", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "Trendyol/baklava",
+    "desc": "Design System with Web Components",
+    "topics": [],
+    "officialSite": "https://baklava.design"
+  }, {
+    "repo": "highlight/highlight",
+    "desc": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.",
+    "topics": [],
+    "officialSite": "https://app.highlight.io"
+  }, {
+    "repo": "appium/appium",
+    "desc": "Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol",
+    "topics": ["android", "windows", "macos", "ios", "automation", "webdriver", "test-automation", "appium"],
+    "officialSite": "http://appium.io"
+  }, {
+    "repo": "jhipster/generator-jhipster",
+    "desc": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+    "topics": [],
+    "officialSite": "https://www.jhipster.tech"
+  }, {
+    "repo": "lvwzhen/law-cn-ai",
+    "desc": "⚖️ AI 法律助手",
+    "topics": [],
+    "officialSite": "https://law-cn-ai.vercel.app"
+  }, {
+    "repo": "supabase-community/nextjs-openai-doc-search",
+    "desc": "Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.",
+    "topics": [],
+    "officialSite": "https://supabase.com/blog/chatgpt-supabase-docs"
+  }, {
+    "repo": "quadratichq/quadratic",
+    "desc": "Quadratic | Data Science Spreadsheet with Python & SQL",
+    "topics": [],
+    "officialSite": "https://quadratichq.com"
+  }, {
+    "repo": "tamagui/tamagui",
+    "desc": "a better universal ui system",
+    "topics": [],
+    "officialSite": "https://tamagui.dev"
+  }, {
+    "repo": "Eugeny/tabby",
+    "desc": "A terminal for a more modern age",
+    "topics": [],
+    "officialSite": "https://tabby.sh"
+  }, {
+    "repo": "mswjs/msw",
+    "desc": "Seamless REST/GraphQL API mocking library for browser and Node.js.",
+    "topics": [],
+    "officialSite": "https://mswjs.io"
+  }, {
+    "repo": "whoiskatrin/chart-gpt",
+    "desc": "AI tool to build charts based on text input",
+    "topics": [],
+    "officialSite": "https://www.chartgpt.dev"
+  }, {
+    "repo": "gmpetrov/databerry",
+    "desc": "The no-code platform for connecting custom data to large language models",
+    "topics": [],
+    "officialSite": "https://databerry.ai"
+  }, {
+    "repo": "calcom/cal.com",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "topics": ["open-source", "typescript", "nextjs", "postgresql", "prisma", "tailwindcss", "trpc", "next-auth", "zod", "turborepo", "t3-stack"],
+    "officialSite": "https://cal.com"
+  }, {
+    "repo": "FlowiseAI/Flowise",
+    "desc": "Drag & drop UI to build your customized LLM flow using LangchainJS",
+    "topics": [],
+    "officialSite": "https://flowiseai.com"
+  }, {
+    "repo": "pixiv/ChatVRM",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "okisdev/ChatChat",
+    "desc": "Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.",
+    "topics": ["api", "chat", "ai", "azure", "openai", "gpt", "claude", "gpt-3", "okisdev"],
+    "officialSite": "https://chat.okisdev.com"
+  }, {
+    "repo": "vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "topics": ["typescript", "vuex", "vue-router", "tsx", "admin-template", "ant-design", "vue3", "vite", "vite-template", "vben"],
+    "officialSite": "https://vben.vvbin.cn"
+  }, {
+    "repo": "analogjs/analog",
+    "desc": "The fullstack Angular meta-framework",
+    "topics": ["angular", "framework", "router", "web", "ssr", "meta-framework", "vite"],
+    "officialSite": "https://analogjs.org"
+  }, {
+    "repo": "code-hike/codehike",
+    "desc": "Marvellous code walkthroughs",
+    "topics": ["react", "javascript", "blog", "syntax-highlighting", "markdown", "docs", "code", "scrollytelling", "mdx"],
+    "officialSite": "https://codehike.org"
+  }, {
+    "repo": "nuxt/nuxt",
+    "desc": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "topics": ["static-site-generator", "node", "vue", "universal", "ssr", "nuxt", "full-stack", "server-rendering", "csr", "hybrid", "ssg"],
+    "officialSite": "https://nuxt.com"
+  }, {
+    "repo": "formbricks/formbricks",
+    "desc": "Open Source Experience Management Solution",
+    "topics": ["react", "open-source", "typescript", "forms", "reactjs", "nextjs", "form", "survey", "survey-data", "typeform", "surveys", "survey-analysis", "xm", "survey-form", "tailwindcss", "turborepo", "experience-management"],
+    "officialSite": "https://formbricks.com"
+  }, {
+    "repo": "mockoon/mockoon",
+    "desc": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+    "topics": ["electron", "mock", "api", "application", "rest", "server", "rest-api", "mock-server", "swagger", "desktop", "openapi", "mocking", "prototyping", "mocking-utility", "mock-data", "openapi3", "mock-api", "mocking-server"],
+    "officialSite": "https://mockoon.com"
+  }, {
+    "repo": "pure-admin/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "topics": ["admin", "typescript", "vue3", "vite", "element-plus"],
+    "officialSite": "https://yiming_chang.gitee.io/vue-pure-admin/#/login"
+  }, {
+    "repo": "AprilNEA/ChatGPT-Admin-Web",
+    "desc": "带有用户管理和后台管理系统的 ChatGPT WebUI",
+    "topics": ["redis", "web", "nextjs", "prompt", "user-management", "webui", "vercel", "gpt-4", "chatgpt", "newbing"],
+    "officialSite": "https://lmo.best"
+  }, {
+    "repo": "Azure/Azure-Sentinel",
+    "desc": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+    "topics": ["cybersecurity", "sample-code"],
+    "officialSite": "https://azure.microsoft.com/en-us/services/azure-sentinel"
+  }, {
+    "repo": "drizzle-team/drizzle-orm",
+    "desc": "TypeScript ORM for SQL",
+    "topics": ["nodejs", "mysql", "postgres", "typescript", "sql", "orm", "sqlite", "neon", "postgresql", "sqlite3", "d1", "mysql2", "sqljs", "bunjs", "litefs", "turso", "libsql", "postgresjs"],
+    "officialSite": ""
+  }, {
+    "repo": "AntonioErdeljac/next13-messenger",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://next13-whatsapp.vercel.app"
+  }, {
+    "repo": "unisat-wallet/extension",
+    "desc": "The first open-source browser extension wallet for Bitcoin NFTs",
+    "topics": ["extension", "bitcoin", "ordinals"],
+    "officialSite": ""
+  }, {
+    "repo": "vadimdemedes/ink",
+    "desc": "🌈 React for interactive command-line apps",
+    "topics": ["react", "javascript", "cli", "command-line", "interactive", "flexbox"],
+    "officialSite": "https://term.ink"
+  }, {
+    "repo": "BuilderIO/SSDiff",
+    "desc": "The open-source tool for pixel-perfect website migrations",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "xiangsx/gpt4free-ts",
+    "desc": "This is a replication project for the typescript version of xtekky/gpt4free",
+    "topics": ["nodejs", "typescript", "chatbot", "openai", "chatbots", "gpt", "gpt-3", "gpt-4", "gpt4", "chatgpt", "chatgpt-free", "gpt-35-turbo", "chatgpt4", "gpt4-api", "free-gpt", "gpt4free"],
+    "officialSite": ""
+  }, {
+    "repo": "Orillusion/orillusion",
+    "desc": "Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.",
+    "topics": ["javascript", "typescript", "html5", "graphics", "3d", "webgpu", "web3d", "orillusion"],
+    "officialSite": "https://www.orillusion.com"
+  }, {
+    "repo": "omnivore-app/omnivore",
+    "desc": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+    "topics": ["productivity", "bookmarks", "reading", "reader", "read-it-later", "logseq", "logseq-plugin"],
+    "officialSite": "https://omnivore.app"
+  }, {
+    "repo": "containers/podman-desktop",
+    "desc": "Podman Desktop - A graphical tool for developing on containers and Kubernetes",
+    "topics": ["kubernetes", "ui", "containers", "container", "desktop", "tray-application", "podman", "podman-desktop"],
+    "officialSite": "https://podman-desktop.io"
+  }, {
+    "repo": "Tonejs/Tone.js",
+    "desc": "A Web Audio framework for making interactive music in the browser.",
+    "topics": ["javascript", "music", "scheduling", "samples", "web-audio", "synthesis", "tone"],
+    "officialSite": "https://tonejs.github.io"
+  }, {
+    "repo": "ctrl-freaks/freezeframe.js",
+    "desc": "freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.",
+    "topics": ["react", "javascript", "gifs", "typescript", "vue", "freezeframe", "vue-freezeframe", "react-freezeframe"],
+    "officialSite": "http://ctrl-freaks.github.io/freezeframe.js"
+  }, {
+    "repo": "daybrush/scenejs",
+    "desc": "🎬 Scene.js is JavaScript & CSS timeline-based animation library",
+    "topics": ["react", "javascript", "angular", "typescript", "vue", "preact", "timeline", "css3", "animation", "graphic", "motion", "scene", "javascript-animation", "scenejs", "css3-animation", "javascript-animation-library"],
+    "officialSite": "https://daybrush.com/scenejs"
+  }, {
+    "repo": "flatpickr/flatpickr",
+    "desc": "lightweight, powerful javascript datetimepicker with no dependencies",
+    "topics": ["datetime", "date", "timepicker", "datetime-picker", "datepicker", "daterange", "daterangepicker"],
+    "officialSite": "https://flatpickr.js.org"
+  }, {
+    "repo": "google/model-viewer",
+    "desc": "Easily display interactive 3D models on the web and in AR!",
+    "topics": ["webcomponents", "augmented-reality", "three-js", "gltf", "glb", "model-viewer", "3d", "3d-models", "webxr", "magic-leap"],
+    "officialSite": "https://modelviewer.dev"
+  }, {
+    "repo": "Pushedskydiver/Colour-Contrast-Checker",
+    "desc": "Check the contrast between different colour combinations against WCAG standards",
+    "topics": ["pwa", "color-contrast", "wcag-contrast"],
+    "officialSite": "https://colourcontrast.cc"
+  }, {
+    "repo": "CorentinTh/it-tools",
+    "desc": "Collection of handy online tools for developers, with great UX.",
+    "topics": ["javascript", "productivity", "converter", "website", "vuejs", "typescript", "tools", "frontend", "tool", "developer-tools", "developer-productivity"],
+    "officialSite": "https://it-tools.tech"
+  }, {
+    "repo": "Everduin94/better-commits",
+    "desc": "A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack",
+    "topics": ["git", "cli", "typescript", "commit-message", "clack", "zod"],
+    "officialSite": ""
+  }, {
+    "repo": "doczjs/docz",
+    "desc": "✍ It has never been so easy to document your things!",
+    "topics": ["react", "theme", "documentation", "docs", "ui", "js", "gatsby", "zero-configuration", "mdx", "design-system", "docz"],
+    "officialSite": "https://docz.site"
+  }, {
+    "repo": "amplication/amplication",
+    "desc": "Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀",
+    "topics": ["nodejs", "javascript", "api", "graphql", "typescript", "web", "code-generation", "hacktoberfest", "low-code", "nestjs", "prisma"],
+    "officialSite": "https://amplication.com"
+  }, {
+    "repo": "BuilderIO/partytown",
+    "desc": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+    "topics": ["javascript", "performance", "dom", "analytics", "web-worker", "3rd-party", "webworker", "lighthouse", "3rdparty", "lighthouse-score", "core-web-vitals"],
+    "officialSite": "https://partytown.builder.io"
+  }, {
+    "repo": "nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "topics": ["mysql", "rest-api", "sqlite", "postgresql", "swagger", "spreadsheet", "admin-dashboard", "mariadb", "admin-ui", "airtable", "sqlserver", "restful-api", "hacktoberfest", "low-code", "no-code", "automatic-api", "no-code-platform", "no-code-database", "airtable-alternative"],
+    "officialSite": "https://nocodb.com"
+  }, {
+    "repo": "dishant0406/lazyweb",
+    "desc": "A Web app that includes all the usefull websites which you might require for your next project",
+    "topics": ["typescript", "reactjs", "nextjs", "tailwindcss", "supabase-js"],
+    "officialSite": "https://lazyweb.rocks"
+  }, {
+    "repo": "BearStudio/start-ui-web",
+    "desc": "🚀 Start UI [web] is an opinionated UI starter with ⚛️ React, ▲ NextJS, ⚡️ Chakra UI, ⚛️ TanStack Query & 🐜 Formiz — From the 🐻 BearStudio Team",
+    "topics": ["react", "typescript", "web", "reactjs", "nextjs", "starter", "storybook", "jhipster", "hacktoberfest", "react-query", "chakra-ui", "formiz"],
+    "officialSite": "https://demo.start-ui.com"
+  }, {
+    "repo": "avitorio/outstatic",
+    "desc": "Outstatic - A static CMS for Next.js",
+    "topics": ["react", "blog", "static-site-generator", "cms", "typescript", "nextjs"],
+    "officialSite": "https://outstatic.com"
+  }, {
+    "repo": "vuejs/core",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "topics": [],
+    "officialSite": "https://vuejs.org"
+  }, {
+    "repo": "SigNoz/signoz",
+    "desc": "SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool",
+    "topics": ["react", "go", "open-source", "typescript", "monitoring", "reactjs", "metrics", "logs", "self-hosted", "instrumentation", "apm", "tracing", "observability", "distributed-tracing", "application-monitoring", "opentelemetry"],
+    "officialSite": "https://signoz.io"
+  }, {
+    "repo": "0xfe/vexflow",
+    "desc": "A JavaScript library for rendering music notation and guitar tablature.",
+    "topics": [],
+    "officialSite": "http://www.vexflow.com"
+  }, {
+    "repo": "pixijs/pixijs",
+    "desc": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "topics": ["javascript", "game", "webgl", "canvas", "rendering", "glsl", "data-visualization", "renderer", "pixijs", "pixi", "canvas2d", "rendering-engine", "rendering-2d-graphics"],
+    "officialSite": "http://pixijs.com"
+  }, {
+    "repo": "BabylonJS/Babylon.js",
+    "desc": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "topics": ["webgl", "typescript", "game-engine", "webvr", "game-development", "webaudio", "babylon", "webgl2", "game-engine-3d", "3d", "webgpu", "webxr"],
+    "officialSite": "http://www.babylonjs.com"
+  }, {
+    "repo": "quilljs/quill",
+    "desc": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+    "topics": ["editor", "quill", "wysiwyg", "rich-text-editor"],
+    "officialSite": "https://quilljs.com"
+  }, {
+    "repo": "niklasvh/html2canvas",
+    "desc": "Screenshots with JavaScript",
+    "topics": ["javascript", "screenshot", "dom"],
+    "officialSite": "https://html2canvas.hertzen.com"
+  }, {
+    "repo": "usablica/intro.js",
+    "desc": "Lightweight, user-friendly onboarding tour library",
+    "topics": ["javascript", "html", "cdn", "ux", "minify", "guide", "tour", "introjs"],
+    "officialSite": "http://introjs.com"
+  }, {
+    "repo": "dissorial/doc-chatbot",
+    "desc": "Chat app that supports multiple files, topics, chat windows, and chat history — powered by GPT.",
+    "topics": ["typescript", "mongodb", "mongoose", "nextjs", "openai", "gpt-3", "openai-api", "gpt-4", "langchain"],
+    "officialSite": ""
+  }, {
+    "repo": "webwhiz-ai/webwhiz",
+    "desc": "WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.",
+    "topics": ["chat", "ai", "chatbot", "self-hosted", "openai", "chatgpt"],
+    "officialSite": "https://www.webwhiz.ai"
+  }, {
+    "repo": "microsoft/playwright",
+    "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "topics": ["electron", "javascript", "testing", "firefox", "chrome", "automation", "web", "chromium", "webkit", "e2e-testing", "playwright"],
+    "officialSite": "https://playwright.dev"
+  }, {
+    "repo": "langgenius/dify",
+    "desc": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.",
+    "topics": ["python", "ai", "openai", "gpt", "backend-as-a-service", "llm", "langchain"],
+    "officialSite": "https://dify.ai"
+  }, {
+    "repo": "bluesky-social/social-app",
+    "desc": " The Bluesky Social application for Web, iOS, and Android",
+    "topics": [],
+    "officialSite": "https://staging.bsky.app"
+  }, {
+    "repo": "nuxtlabs/ui",
+    "desc": "Fully styled and customizable components for Nuxt.",
+    "topics": ["ui", "vue", "nuxt", "ui-components", "nuxt-module", "tailwindcss", "vue3", "headlessui"],
+    "officialSite": "https://ui.nuxtlabs.com"
+  }, {
+    "repo": "creatorsgarten/kaogeek-discord-bot",
+    "desc": "Discord bot for KaoGeek, built with TypeScript",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dsherret/ts-morph",
+    "desc": "TypeScript Compiler API wrapper for static analysis and programmatic code changes.",
+    "topics": ["javascript", "typescript", "static-analysis", "ast", "code-generation"],
+    "officialSite": "https://ts-morph.com"
+  }, {
+    "repo": "inorganik/CountUp.js",
+    "desc": "Animates a numerical value by counting to it",
+    "topics": [],
+    "officialSite": "https://inorganik.github.io/countUp.js"
+  }, {
+    "repo": "Stability-AI/StableStudio",
+    "desc": "Community interface for generative AI",
+    "topics": ["frontend", "ml", "stable-diffusion", "stability-ai"],
+    "officialSite": ""
+  }, {
+    "repo": "w-okada/voice-changer",
+    "desc": "リアルタイムボイスチェンジャー Realtime Voice Changer",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "steven-tey/dub",
+    "desc": "An open-source link shortener with built-in analytics + free custom domains.",
+    "topics": ["redis", "nextjs", "link-shortener", "edge-functions", "vercel", "upstash"],
+    "officialSite": "https://dub.sh"
+  }, {
+    "repo": "krasun/damngood.tools",
+    "desc": "A set of damn good tools built for fun to play with Next.js",
+    "topics": [],
+    "officialSite": "https://damngood.tools"
+  }, {
+    "repo": "Blazity/next-enterprise",
+    "desc": "💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",
+    "topics": ["react", "boilerplate", "typescript", "eslint", "nextjs", "seo", "starter-template", "starter-kit", "jamstack", "next", "cva", "next-theme", "next-js", "tailwindcss", "javascript-ai", "vercel", "radix-ui", "gpt-4", "chatgpt", "react-enterprise-boilerplate"],
+    "officialSite": "https://next-enterprise.vercel.app"
+  }
+]

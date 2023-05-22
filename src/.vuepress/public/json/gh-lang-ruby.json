@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "bullet-train-co/bullet_train",
+    "desc": "The Open Source Ruby on Rails SaaS Template",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "SUSE/Portus",
+    "desc": "Authorization service and frontend for Docker registry (v2)",
+    "topics": ["ruby;rails;docker;security;containers;docker-distribution"],
+    "officialSite": "http://port.us.org"
+  }, {
+    "repo": "chatwoot/chatwoot",
+    "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "topics": ["javascript;heroku;rails;sass;docker;design;zendesk;vuejs;opensource;dashboard;docker-image;customer-support;conversation;whatsapp;intercom;actioncable;livechat;drift;chat-widget"],
+    "officialSite": "https://www.chatwoot.com/help-center"
+  }
+]

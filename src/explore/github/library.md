@@ -28,11 +28,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Ruby
 
-- [bullet-train-co/bullet_train][bullet-train-co/bullet_train]: The Open Source Ruby on Rails SaaS Template
-- [SUSE/Portus][SUSE/Portus]: Authorization service and frontend for Docker registry (v2) <GithubTags tagItems="ruby;rails;docker;security;containers;docker-distribution" />
-  - [🌐Official Site](http://port.us.org)
-- [chatwoot/chatwoot][chatwoot/chatwoot]: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 <GithubTags tagItems="javascript;heroku;rails;sass;docker;design;zendesk;vuejs;opensource;dashboard;docker-image;customer-support;conversation;whatsapp;intercom;actioncable;livechat;drift;chat-widget" />
-  - [🌐Official Site](https://www.chatwoot.com/help-center)
+<MyGithubItems jsonName="gh-lang-ruby" />
 
 ---
 
@@ -170,6 +166,12 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 - [odin-lang/Odin][odin-lang/Odin]: Odin Programming Language
   - [🌐Official Site](https://odin-lang.org)
+
+---
+
+## R
+
+- [softdorothy/GliderPRO][softdorothy/GliderPRO]: Sources for the Macintosh game, Glider PRO, written by John Calhoun and published by Casady & Green Inc.
 
 ---
 
@@ -334,6 +336,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [hendricius/the-sourdough-framework]: https://github.com/hendricius/the-sourdough-framework
 <!-- Odin -->
 [odin-lang/Odin]: https://github.com/odin-lang/Odin
+<!-- R -->
+[softdorothy/GliderPRO]: https://github.com/softdorothy/GliderPRO
 <!-- V -->
 [vlang/v]: https://github.com/vlang/v
 <!-- Zig -->

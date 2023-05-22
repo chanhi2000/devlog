@@ -1,0 +1,253 @@
+[
+  {
+    "repo": "exaloop/codon",
+    "desc": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "topics": [],
+    "officialSite": "https://docs.exaloop.io/codon"
+  }, {
+    "repo": "bytedance/sonic-cpp",
+    "desc": "A fast JSON serializing & deserializing library, accelerated by SIMD.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "assimp/assimp",
+    "desc": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+    "topics": [],
+    "officialSite": "https://www.assimp.org"
+  }, {
+    "repo": "ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "topics": [],
+    "officialSite": "http://engine-sim.parts"
+  }, {
+    "repo": "nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "topics": [],
+    "officialSite": "https://json.nlohmann.me"
+  }, {
+    "repo": "alibaba/havenask",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "musescore/MuseScore",
+    "desc": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+    "topics": [],
+    "officialSite": "https://musescore.org"
+  }, {
+    "repo": "icinga/icinga2",
+    "desc": "The core of our monitoring platform with a powerful configuration language and REST API.",
+    "topics": [],
+    "officialSite": "https://icinga.com/docs/icinga2/latest"
+  }, {
+    "repo": "project-chip/connectedhomeip",
+    "desc": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+    "topics": [],
+    "officialSite": "https://buildwithmatter.com"
+  }, {
+    "repo": "CVCUDA/CV-CUDA",
+    "desc": "CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.",
+    "topics": ["python", "machine-learning", "cloud", "computer-vision", "cpp", "gpu", "cuda", "image-processing", "nvidia", "bytedance", "cv-cuda"],
+    "officialSite": "https://cvcuda.github.io"
+  }, {
+    "repo": "rui314/mold",
+    "desc": "mold: A Modern Linker 🦠",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "topics": [],
+    "officialSite": "https://groups.google.com/forum/?fromgroups#!forum/facebook-folly"
+  }, {
+    "repo": "ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "tenderlove/initial-v",
+    "desc": "It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim",
+    "topics": ["vim", "esp32", "bluetooth", "initial-v"],
+    "officialSite": ""
+  }, {
+    "repo": "ggerganov/llama.cpp",
+    "desc": "Port of Facebook's LLaMA model in C/C++",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PCSX2/pcsx2",
+    "desc": "PCSX2 - The Playstation 2 Emulator",
+    "topics": ["emulator", "cpp", "emulation", "pcsx2", "ps2"],
+    "officialSite": "https://pcsx2.net"
+  }, {
+    "repo": "KTStephano/StratusGFX",
+    "desc": "Realtime 3D rendering engine",
+    "topics": ["windows", "linux", "gamedev", "opengl", "graphics-engine", "graphics", "rendering", "global-illumination", "computer-graphics", "game-development", "graphics-programming", "rendering-engine", "pbr", "rendering-3d-graphics", "graphics-3d", "3d", "graphics-rendering", "3d-graphics", "game-dev", "computer-graphics-opengl"],
+    "officialSite": "https://ktstephano.github.io/portfolio"
+  }, {
+    "repo": "facebookresearch/faiss",
+    "desc": "A library for efficient similarity search and clustering of dense vectors.",
+    "topics": [],
+    "officialSite": "https://faiss.ai"
+  }, {
+    "repo": "topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "finos/perspective",
+    "desc": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+    "topics": ["javascript", "python", "real-time", "bi", "jupyter", "analytics", "webassembly", "data-visualization"],
+    "officialSite": "https://perspective.finos.org"
+  }, {
+    "repo": "WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "topics": ["windows" ,"c-plus-plus" ,"multi-platform" ,"static-analysis" ,"reverse-engineering" ,"disassembler" ,"preprocessor" ,"hacking" ,"forensics" ,"analyzer" ,"hex-editor" ,"cybersecurity" ,"dear-imgui" ,"binary-analysis" ,"ips" ,"hacktoberfest" ,"dark-mode" ,"pattern-language" ,"mathematical-evaluator"],
+    "officialSite": "https://imhex.werwolv.net"
+  }, {
+    "repo": "Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "topics": [],
+    "officialSite": "https://light-city.club/sc"
+  }, {
+    "repo": "hyprwm/Hyprland",
+    "desc": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "topics": ["wayland-compositor", "compositor", "wayland", "wlroots", "cpp23"],
+    "officialSite": "https://hyprland.org"
+  }, {
+    "repo": "falcosecurity/falco",
+    "desc": "Cloud Native Runtime Security",
+    "topics": ["kubernetes", "security", "containers", "cncf", "cloud-native", "ebpf", "hacktoberfest", "falco"],
+    "officialSite": "https://falco.org"
+  }, {
+    "repo": "NixOS/nix",
+    "desc": "Nix, the purely functional package manager",
+    "topics": ["c-plus-plus", "package-manager", "nix", "functional-programming", "declarative-language"],
+    "officialSite": "https://nixos.org"
+  }, {
+    "repo": "NVIDIAGameWorks/dxvk-remix",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nomic-ai/gpt4all-chat",
+    "desc": "gpt4all-j chat",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "axstin/rbxfpsunlocker",
+    "desc": "FPS Unlocker for Roblox",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "IOActive/Platbox",
+    "desc": "UEFI and SMM Assessment Tool",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "apple/foundationdb",
+    "desc": "FoundationDB - the open source, distributed, transactional key-value store",
+    "topics": ["transactional", "distributed-database", "acid", "key-value-store", "foundationdb"],
+    "officialSite": "https://www.foundationdb.org"
+  }, {
+    "repo": "minetest/minetest",
+    "desc": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "topics": ["c-plus-plus", "lua", "game-engine", "minetest", "voxel", "cpp11", "voxel-engine"],
+    "officialSite": "https://www.minetest.net"
+  }, {
+    "repo": "Z4ee/StarRail-S-GC",
+    "desc": "This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "FashionFreedom/Seamly2D",
+    "desc": "Open source patternmaking software to democratize fashion.",
+    "topics": ["windows", "linux", "osx", "qt5"],
+    "officialSite": "https://seamly.net"
+  }, {
+    "repo": "electron/electron",
+    "desc": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "topics": ["electron", "nodejs", "javascript", "css", "html", "c-plus-plus", "chrome", "v8", "works-with-codespaces"],
+    "officialSite": "https://electronjs.org"
+  }, {
+    "repo": "pineappleEA/pineapple-src",
+    "desc": "yuzu Early Access source code",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ada-url/ada",
+    "desc": "WHATWG-compliant and fast URL parser written in modern C++",
+    "topics": ["url", "parser", "performance", "cpp"],
+    "officialSite": "https://ada-url.github.io/ada"
+  }, {
+    "repo": "skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "topics": ["android", "emulator", "c-plus-plus", "nintendo", "cpp", "emulation", "switch", "skyline"],
+    "officialSite": "https://skyline-emu.one"
+  }, {
+    "repo": "azerothcore/azerothcore-wotlk",
+    "desc": "Complete Open Source and Modular solution for MMO",
+    "topics": ["game", "emulator", "wow", "modular", "gaming", "server", "mmorpg", "game-server", "trinitycore", "azerothcore", "mangos", "sunwellcore", "world-of-warcraft", "scriptdev2", "mmorpg-game", "hacktoberfest", "mmorpg-server"],
+    "officialSite": "http://www.azerothcore.org"
+  }, {
+    "repo": "Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kraxarn/spotify-qt",
+    "desc": "Lightweight Spotify client using Qt",
+    "topics": ["spotify", "qt", "cpp", "spotify-api"],
+    "officialSite": ""
+  }, {
+    "repo": "gabime/spdlog",
+    "desc": "Fast C++ logging library.",
+    "topics": ["cpp", "logging", "cpp11", "header-only", "spdlog"],
+    "officialSite": ""
+  }, {
+    "repo": "DNedic/lockfree",
+    "desc": "A collection of lock-free data structures written in standard C++11",
+    "topics": ["library", "cmake", "embedded", "queue", "cpp", "buffer", "cpp11", "embedded-systems", "ring-buffer", "lock-free", "inter-process-communication", "circular-buffer", "fifo", "dma", "circular-queue", "bipartite", "lock-free-queue"],
+    "officialSite": ""
+  }, {
+    "repo": "chekanov/CFBook",
+    "desc": "Simple histogram library for C++ or Fortran programs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "typesense/typesense",
+    "desc": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+    "topics": ["search", "search-engine", "elasticsearch", "algolia", "cpp", "raft", "fuzzy-search", "synonyms", "in-memory", "full-text-search", "datastore", "instantsearch", "merchandising", "enterprise-search", "geosearch", "pinecone", "typo-tolerance", "site-search", "faceting", "vector-search"],
+    "officialSite": "https://typesense.org"
+  }, {
+    "repo": "juce-framework/JUCE",
+    "desc": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
+    "topics": ["audio", "plugin", "c-plus-plus", "framework", "cpp", "vst", "au", "vst3", "juce", "aax", "audiounit", "auv3"],
+    "officialSite": "https://juce.com"
+  }, {
+    "repo": "yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "topics": ["emulator", "c-plus-plus", "cpp", "emulation", "switch"],
+    "officialSite": "https://yuzu-emu.org"
+  }, {
+    "repo": "yuzu-emu/yuzu-mainline",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "SysSec-KAIST/LTESniffer",
+    "desc": "An Open-source LTE Downlink/Uplink Eavesdropper",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "topics": ["computer-vision", "maa", "arknights"],
+    "officialSite": "https://maa.plus"
+  }
+]

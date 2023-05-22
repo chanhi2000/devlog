@@ -36,7 +36,7 @@
     name: "MyGithubItems",
     components: { GithubTags },
     props: {
-      lang: {
+      jsonName: {
         type: String,
         required: true,
       }
@@ -47,14 +47,13 @@
       }
     },
     methods: {
-      async fetchData(lang) {
-        let l = lang ?? 'none'
-        if (l == 'none') {
-          console.warn(`no such language found ...`);
+      async fetchData(jsonName = 'none') {
+        if (jsonName == 'none') {
+          console.warn(`no such file name found ...`);
           return;
         }
         
-        const res = await fetch(`/json/lang-${l}.json`);
+        const res = await fetch(`/json/${jsonName}.json`);
         const fetchedItems = await res.json();
         
         const GITHUB_BASE_URL = "https://github.com";
@@ -72,7 +71,7 @@
       }
     },
     mounted() {
-      this.fetchData(this.lang);
+      this.fetchData(this.jsonName);
     },
   };
 </script>
