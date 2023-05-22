@@ -383,7 +383,13 @@ meta:
 - [AdmTal/PostgreSQL-Query-Lock-Explainer][AdmTal/PostgreSQL-Query-Lock-Explainer]: Command line utility to show what locks will be acquired by a given query.
 - [salesforce/CodeT5][salesforce/CodeT5]: Home of CodeT5: Open Code LLMs for Code Understanding and Generation <GithubTags tagItems="code-generation;language-model;code-intelligence;code-understanding;large-language-models" />
   - [🌐Official Site](https://arxiv.org/abs/2305.07922)
-
+- [pengxiao-song/LaWGPT][pengxiao-song/LaWGPT]: 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
+- [ricklamers/gpt-code-ui][ricklamers/gpt-code-ui]: An open source implementation of OpenAI's ChatGPT Code interpreter <GithubTags tagItems="openai;gpt;llms;chatgpt" />
+- [ordinals-wallet/ordinals-collections][ordinals-wallet/ordinals-collections]: A place for creators & builders to organize ordinal collections!
+- [xinntao/Real-ESRGAN][xinntao/Real-ESRGAN]: Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. <GithubTags tagItems="pytorch;super-resolution;image-restoration;denoise;amine;jpeg-compression;esrgan;real-esrgan" />
+- [Textualize/trogon][Textualize/trogon]: Easily turn your Click CLI into a powerful terminal application
+- [deepinsight/insightface][deepinsight/insightface]: State-of-the-art 2D and 3D Face Analysis Project <GithubTags tagItems="mxnet;pytorch;face-recognition;face-detection;face-alignment;paddlepaddle;age-estimation;arcface;oneflow;retinaface" />
+  - [🌐Official Site](https://insightface.ai)
 
 
 <!-- Python -->
@@ -435,6 +441,10 @@ meta:
 - [dsdanielpark/Bard-API][dsdanielpark/Bard-API]: The python package that returns response of Google Bard through API. <GithubTags tagItems="nlp;api;google;chatbot;google-maps-api;bard;ai-api;llm;google-bard;google-bard-python;bard-api;googlebard;google-bard-api" />
   - [🌐Official Site](https://pypi.org/project/bardapi)
 - [microsoft/guidance][microsoft/guidance]: A guidance language for controlling large language models.
+- [UFund-Me/Qbot][UFund-Me/Qbot]: [🔥updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant <GithubTags tagItems="machine-learning;quantitative-finance;trademarks;quantization;funds;strategies;quantitative-trading;pytrade" />
+  - [🌐Official Site](https://github.com/Charmve)
+- [the-full-stack/website][the-full-stack/website]: Source for https://fullstackdeeplearning.com
+
 
 <!-- Jupyter Notebook -->
 
@@ -701,6 +711,11 @@ meta:
 [smol-ai/developer]: https://github.com/smol-ai/developer
 [AdmTal/PostgreSQL-Query-Lock-Explainer]: https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer
 [salesforce/CodeT5]: https://github.com/salesforce/CodeT5
+[pengxiao-song/LaWGPT]: https://github.com/pengxiao-song/LaWGPT
+[ricklamers/gpt-code-ui]: https://github.com/ricklamers/gpt-code-ui
+[ordinals-wallet/ordinals-collections]: https://github.com/ordinals-wallet/ordinals-collections
+[xinntao/Real-ESRGAN]: https://github.com/xinntao/Real-ESRGAN
+[Textualize/trogon]: https://github.com/Textualize/trogon
 <!-- Jupyter Notebook -->
 [Ayanaminn/N46Whisper]: https://github.com/Ayanaminn/N46Whisper
 [tloen/alpaca-lora]: https://github.com/tloen/alpaca-lora
@@ -737,3 +752,5 @@ meta:
 [invoke-ai/InvokeAI]: https://github.com/invoke-ai/InvokeAI
 [dsdanielpark/Bard-API]: https://github.com/dsdanielpark/Bard-API'
 [microsoft/guidance]: https://github.com/microsoft/guidance
+[UFund-Me/Qbot]: https://github.com/UFund-Me/Qbot
+[the-full-stack/website]: https://github.com/the-full-stack/website

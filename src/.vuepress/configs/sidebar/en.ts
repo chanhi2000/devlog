@@ -181,6 +181,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-c/README.md',
         '/g4e/lang-c/references.md',
+        '/g4e/lang-c/github.md',
         '/g4e/lang-c/youtube.md',
       ]
     }, {
@@ -334,6 +335,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-ide-vscode/README.md',
         '/g4e/tool-ide-vscode/plugins.md',
         '/g4e/tool-ide-vscode/settings-json.md',
+        '/g4e/tool-ide-vscode/tips.md',
         '/g4e/tool-ide-vscode/snippets.md',
         '/g4e/tool-ide-vscode/references.md',
       ],
@@ -569,6 +571,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/6.md',
         '/crashcourse/paul-hudson-100-days-of-swift/7.md',
         '/crashcourse/paul-hudson-100-days-of-swift/8.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/9.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',

@@ -45,7 +45,8 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode `
     dbeaver googlechrome fiddler windirstat 7zip `
     procexp scrcpy nvm docker-desktop temurin11 temurin11 `
-    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal
+    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal `
+    twinkle-tray wiztree
 ```
 
 or Windows Cmd
@@ -55,7 +56,8 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode ^
     dbeaver googlechrome fiddler windirstat 7zip ^
     procexp scrcpy nvm docker-desktop temurin11 temurin11 ^
-    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal
+    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal ^
+    twinkle-tray wiztree
 ```
 
 ---

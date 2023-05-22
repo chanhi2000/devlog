@@ -30,6 +30,8 @@ Placeholders with the same ids are connected.
 
 ## Vuepress Components
 
+### `markdown.json`
+
 ```json
 {
   "UrlGithubRepo": {
@@ -45,13 +47,6 @@ Placeholders with the same ids are connected.
        "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
      ],
      "description": "Create YoutubeItem Vue Component"
-  },
-  "VuepressMarkdownGithubTags": {
-     "prefix": "vpgt",
-     "body": [
-       "<GithubTags tagItems=\"${1:tagItems}\" />",
-     ],
-     "description": "Create 'GithubTags' Vue Component"
   },
   "VuepressMarkdownYoutubeGroup": {
     "prefix": "vpyg",
@@ -69,6 +64,37 @@ Placeholders with the same ids are connected.
       "---"
     ],
     "description": "Create YoutubeGroup Vue Component"
+  },
+  "TgKbd": {
+    "prefix": "tgkbd",
+    "body": [
+      "<kbd>${1:v}</kbd>${0:}"
+    ],
+    "description": "Create Keyboard tag"
   }
 }
 ```
+
+
+### `json.json`
+
+```json
+{
+  "jsonGhItem": {
+	 	"prefix": "ghItem",
+	 	"body": [
+			"{",
+			"  \"repo\": \"${1:repo}\"",
+			"  \"desc\": \"${2:desc}\"", 
+			"  \"topics\": \"${3:topic}\"",
+            "  \"officialSite\": \"${4:os}\"",
+			"}"
+	 	],
+	 	"description": "Github Item as JSON"
+	}
+}
+```
+
+---
+
+<TagLinks />

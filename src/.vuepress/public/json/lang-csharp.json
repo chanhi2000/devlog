@@ -1,0 +1,138 @@
+[
+  {
+    "repo": "scottplot/scottplot",
+    "desc": "Interactive Plotting Library for .NET",
+    "topics": [],
+    "officialSite": "https://scottplot.net"
+  }, {
+    "repo": "microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity ",      
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "valinet/ExplorerPatcher",
+    "desc": "This project aims to enhance the working environment on Windows",   
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",   
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "coofcookie/Windows11Upgrade",
+    "desc": "Windows 11 Upgrade tool that bypasses Microsoft´s requirements",   
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",    
+    "topics": [],
+    "officialSite": "https://dot.net/maui"
+  }, {
+    "repo": "bitwarden/server",
+    "desc": "The core infrastructure backend (API, database, Docker, etc).",    
+    "topics": [],
+    "officialSite": "https://bitwarden.com"
+  }, {
+    "repo": "PRQL/prql",
+    "desc": "PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement",
+    "topics": [],
+    "officialSite": "https://prql-lang.org"
+  }, {
+    "repo": "unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "topics": [],
+    "officialSite": "https://platform.uno"       
+  }, {
+    "repo": "Const-me/Whisper",
+    "desc": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model",    
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/semantic-kernel",
+    "desc": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "topics": ["sdk", "ai", "artificial-intelligence", "openai", "llm"],
+    "officialSite": "https://aka.ms/semantic-kernel"
+  }, {
+    "repo": "keijiro/AICommand",
+    "desc": "ChatGPT integration with Unity Editor",    
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "files-community/Files",
+    "desc": "Building the best file manager experience for Windows",
+    "topics": [],
+    "officialSite": "https://files.community"
+  }, {
+    "repo": "keijiro/UnityMLStableDiffusion",
+    "desc": "Core ML Stable Diffusion on Unity",    
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "DeSinc/SallyBot",
+    "desc": "AI Chatbot coded in Discord.net C#",    
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "optikey/optikey",
+    "desc": "OptiKey - Full computer control and speech with your eyes",    
+    "topics": [],
+    "officialSite": "http://www.optikey.org"
+  }, {
+    "repo": "mivano/azure-cost-cli",
+    "desc": "CLI tool to perform cost analysis on your Azure subscription",    
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "MassTransit/MassTransit",
+    "desc": "Distributed Application Framework for .NET",
+    "topics": [],
+    "officialSite": "https://masstransit.io"
+  }, {
+    "repo": "2dust/v2rayN",
+    "desc": "A GUI client for Windows, support Xray core and v2fly core and others",
+    "topics": [],
+    "officialSite": "https://1.2345345.xyz"
+  }, {
+    "repo": "btcpayserver/btcpayserver",
+    "desc": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "topics": [],
+    "officialSite": "https://btcpayserver.org"
+  }, {
+    "repo": "felixse/FluentTerminal",
+    "desc": "A Terminal Emulator based on UWP and web technologies.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "shahedc/multiweb",
+    "desc": "Multiple projects for debugging sample.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "topics": ["emulator", "csharp", "dotnet", "emulation", "switch", "dotnet-core"],
+    "officialSite": "https://www.ryujinx.org"
+  }, {
+    "repo": "jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "topics": ["csharp", "dotnet", "hacktoberfest", "jellyfin"],
+    "officialSite": "https://jellyfin.org"
+  }, {
+    "repo": "jamesnet214/leagueoflegends",
+    "desc": "League of Legends client demo that made using WPF",
+    "topics": ["csharp", "dotnet", "wpf"],
+    "officialSite": ""
+  }, {
+    "repo": "PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "topics": ["windows", "macos", "linux", "shell", "command-line", "powershell", "netcore", "hacktoberfest"],
+    "officialSite": "https://microsoft.com/PowerShell"
+  }, {
+    "repo": "dogu-team/gamium",
+    "desc": "Gamium provides the ability to script the behavior of game users",
+    "topics": ["game", "games", "game-development", "test-automation", "game-tester", "game-testing", "game-test-automation"],
+    "officialSite": "https://gamium.dogutech.io"
+  }
+]

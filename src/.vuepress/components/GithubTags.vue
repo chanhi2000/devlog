@@ -14,7 +14,7 @@
 <script>
 // import { Badge } from 'vuepress-plugin-components/lib/client/components/Badge'
 export default {
-  name: "GithubTabgs",
+  name: "GithubTags",
   // components: { Badge },
   props: {
     tagItems: {

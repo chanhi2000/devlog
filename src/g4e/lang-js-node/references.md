@@ -182,6 +182,14 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Advanced JavaScript Console Logging for Developers](https://blog.greenroots.info/advanced-javascript-console-logging-for-developers)
 
+---
+
+## cprimozic.net
+
+- [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

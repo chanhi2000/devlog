@@ -33,7 +33,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://stefanbuck.com/awesome-browser-extensions-for-github)
 - [Igglybuff/awesome-piracy][Igglybuff/awesome-piracy]: A curated list of awesome warez and piracy links
 - [decalage2/awesome-security-hardening][decalage2/awesome-security-hardening]: A collection of awesome security hardening guides, tools and other resources
-- [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]
+- [f/awesome-chatgpt-prompts][f/awesome-chatgpt-prompts]: This repo includes ChatGPT prompt curation to use ChatGPT better. <GithubTags tagItems="language;bots;chatbot;chatgpt;chatgpt-api" />
+  - [🌐Official Site](https://prompts.chat)
 - [hsavit1/Awesome-Swift-Education][hsavit1/Awesome-Swift-Education]: 🔥 Learn some Swift
 - [doocs/leetcode][doocs/leetcode]: 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
   - [🌐Official Site](https://doocs.github.io/leetcode)
@@ -110,6 +111,9 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [denysdovhan/wtfjs][denysdovhan/wtfjs]: 🤪 A list of funny and tricky JavaScript examples <GithubTags tagItems="javascript;learning;js;book;notes;handbook;specification;wtf" />
   - [🌐Official Site](http://bit.ly/wtfjavascript)
 - [lydiahallie/javascript-questions][lydiahallie/javascript-questions]: A long list of (advanced) JavaScript questions, and their explanations ✨
+- [kyrolabs/awesome-langchain][kyrolabs/awesome-langchain]: 😎 Awesome list of tools and projects with the awesome LangChain framework <GithubTags tagItems="awesome;ai;awesome-list;llm;langchain" />
+- [djsime1/awesome-flipperzero][djsime1/awesome-flipperzero]: 🐬 A collection of awesome resources for the Flipper Zero device. <GithubTags tagItems="awesome;awesome-list;flipperzero;flipper-zero" />
+  - [🌐Official Site](https://dj.je/fz)
 
 
 
@@ -211,6 +215,8 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [RitikPatni/Front-End-Web-Development-Resources]: https://github.com/RitikPatni/Front-End-Web-Development-Resources
 [denysdovhan/wtfjs]: https://github.com/denysdovhan/wtfjs
 [lydiahallie/javascript-questions]: https://github.com/lydiahallie/javascript-questions
+[kyrolabs/awesome-langchain]: https://github.com/kyrolabs/awesome-langchain
+[djsime1/awesome-flipperzero]: https://github.com/djsime1/awesome-flipperzero
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
 [EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books

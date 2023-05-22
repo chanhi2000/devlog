@@ -16,7 +16,8 @@ actions:
 #  details: 명확하고 상세하게
 #- title: descriptive
 #  details: 이미지와 다이어그램을 많이 사용
-footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
+footerHtml: true
+footer: MIT Licensed | Copyright © 2022-present <a target="_blank" href="https://github.com/chanhi2000">Chan Hee Lee</a>
 ---
 
 <div class="features">
@@ -65,9 +66,6 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
         <a target="_blank" href="https://github.com/trending">
           <img alt="badge-github" src="https://img.shields.io/badge/Github Trending-000000?logo=github&logoColor=white&style=flat-square"/>
         </a>
-        <a target="_blank" href="https://devo.ams3.digitaloceanspaces.com/github.json">
-          <img alt="badge-json-devo-github-trending" src="https://img.shields.io/badge/Devo-000000?logo=json&logoColor=white&style=flat-square"/>
-        </a>
       </li>
       <li>
         <a target="_blank" href="https://news.ycombinator.com">
@@ -84,6 +82,8 @@ footer: MIT Licensed | Copyright © 2022-present Chan Hee Lee
     </ul>
   </div>
 </div>
+
+<DevGithubItems />
 
 <p>
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />

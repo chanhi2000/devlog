@@ -343,6 +343,15 @@ meta:
   - [🌐Official Site](http://www.dropzone.dev/js)
 - [dixonandmoe/rellax][dixonandmoe/rellax]: Lightweight, vanilla javascript parallax library
   - [🌐Official Site](https://dixonandmoe.com/rellax)
+- [pedroslopez/whatsapp-web.js][pedroslopez/whatsapp-web.js]: A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app <GithubTags tagItems="api;bot;bot-api;whatsapp;whatsapp-web;hacktoberfest;whatsapp-bot;whatsapp-api;whatsapp-web-api" />
+  - [🌐Official Site](https://wwebjs.dev)
+- [pot-app/pot-desktop][pot-app/pot-desktop]: 🌈一个跨平台的划词翻译软件 | A cross-platform translation software <GithubTags tagItems="translation;translate;pot;tauri;pot-app" />
+  - [🌐Official Site](https://pot.pylogmon.com)
+- [NaiboWang/EasySpider][NaiboWang/EasySpider]: A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务 <GithubTags tagItems="visualization;html;services;crawler;gui;web;spider;frontend;parameters;visual;www;batch;batch-script;batch-processing;layman;visulization;visualprogramming;code-free;input-parameters" />
+- [stepan-mitkin/drakonhub][stepan-mitkin/drakonhub]: The source code for DrakonHub.com
+- [xanderfrangos/twinkle-tray][xanderfrangos/twinkle-tray]: Easily manage the brightness of your monitors in Windows from the system tray <GithubTags tagItems="react;nodejs;windows;reactjs;windows-10;brightness;backlight;electron-app;multiple-monitors;monitors;brightness-level;backlight-brightness;brightness-control;windows-11;ddc-ic;brightness-levels;brightness-slider" />
+  - [🌐Official Site](https://twinkletray.com)
+
 
 
 <!-- Javascript -->
@@ -428,7 +437,7 @@ meta:
   - [🌐Official Site](https://autogptjs.com)
 - [usememos/memos][usememos/memos]: A lightweight, self-hosted memo hub. Open Source and Free forever.
   - [🌐Official Site](https://usememos.com)
-- [shadcn/ui][shadcn/ui]: Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn/ui][shadcn/ui]: Beautifully designed components built with Radix UI and Tailwind CSS. <GithubTags tagItems="react;components;ui;nextjs;tailwindcss;radix-ui" />
   - [🌐Official Site](https://ui.shadcn.com)
 - [yoavbls/pretty-ts-errors][yoavbls/pretty-ts-errors]: 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
   - [🌐Official Site](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
@@ -557,7 +566,10 @@ meta:
   - [🌐Official Site](https://ts-morph.com)
 - [inorganik/CountUp.js][inorganik/CountUp.js]: Animates a numerical value by counting to it
   - [🌐Official Site](https://inorganik.github.io/countUp.js)
-
+- [Stability-AI/StableStudio][Stability-AI/StableStudio]: Community interface for generative AI <GithubTags tagItems="frontend;ml;stable-diffusion;stability-ai" />
+- [w-okada/voice-changer][w-okada/voice-changer]: リアルタイムボイスチェンジャー Realtime Voice Changer
+- [steven-tey/dub][steven-tey/dub]: An open-source link shortener with built-in analytics + free custom domains. <GithubTags tagItems="redis;nextjs;link-shortener;edge-functions;vercel;upstash" />
+  - [🌐Official Site](https://dub.sh)
 
 
 <!-- Typescript -->
@@ -755,6 +767,11 @@ meta:
 [nuxtlabs/ui]: https://github.com/nuxtlabs/ui
 [dropzone/dropzone]: https://github.com/dropzone/dropzone
 [dixonandmoe/rellax]: https://github.com/dixonandmoe/rellax
+[pedroslopez/whatsapp-web.js]: https://github.com/pedroslopez/whatsapp-web.js
+[pot-app/pot-desktop]: https://github.com/pot-app/pot-desktop
+[NaiboWang/EasySpider]: https://github.com/NaiboWang/EasySpider
+[stepan-mitkin/drakonhub]: https://github.com/stepan-mitkin/drakonhub
+[xanderfrangos/twinkle-tray]: https://github.com/xanderfrangos/twinkle-tray
 <!-- Typescript -->
 [microsoft/TypeScript]: https://github.com/microsoft/TypeScript
 [gencay/vscode-chatgpt]: https://github.com/gencay/vscode-chatgpt
@@ -869,6 +886,8 @@ meta:
 [creatorsgarten/kaogeek-discord-bot]: https://github.com/creatorsgarten/kaogeek-discord-bot
 [dsherret/ts-morph]: https://github.com/dsherret/ts-morph
 [inorganik/CountUp.js]: https://github.com/inorganik/CountUp.js
+[Stability-AI/StableStudio]: https://github.com/Stability-AI/StableStudio
+[w-okada/voice-changer]: https://github.com/w-okada/voice-changer
 <!-- Coffeescript -->
 [jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
 [mojs/mojs]: https://github.com/mojs/mojs

@@ -110,30 +110,7 @@ meta:
 
 ## Kotlin
 
-- [ktorio/ktor][ktorio/ktor]: Framework for quickly creating connected applications in Kotlin with minimal effort
-  - [🌐Official Site](https://ktor.io)
-  - [🚀Starter](https://start.ktor.io)
-- [Kotlin/dokka][Kotlin/dokka]: Documentation Engine for Kotlin
-- [PaperMC/Paper][PaperMC/Paper]: High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-- [PaperMC/Paperclip][PaperMC/Paperclip]: Bootstrap utility and launcher for the Paper Minecraft server
-- [hexagonkt/hexagon][hexagonkt/hexagon]: Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.
-  - [🌐Official Site](https://hexagonkt.com)
-- [microsoft/thrifty][microsoft/thrifty]: Thrift for Android that saves you methods
-- [sniffy/influxdb-tools][sniffy/influxdb-tools]
-- [revanced/revanced-patches][revanced/revanced-patches]: 🧩 Patches for ReVanced
-  - [🌐Official Site](https://revanced.app)
-- [cashapp/turbine][cashapp/turbine]: A small testing library for kotlinx.coroutines Flow
-  - [🌐Official Site](https://cashapp.github.io/turbine/docs/0.x)
-- [pinterest/ktlint][pinterest/ktlint]: An anti-bikeshedding Kotlin linter with built-in formatter
-  - [🌐Official Site](https://pinterest.github.io/ktlint)
-- [ThinkingLogic/kotlin-builder-annotation][ThinkingLogic/kotlin-builder-annotation]: A minimal viable replacement for the Lombok @builder plugin for Kotlin code
-- [netflix/dgs-framework][netflix/dgs-framework]: GraphQL for Java with Spring Boot made easy.
-  - [🌐Official Site](https://netflix.github.io/dgs)
-- [cuynu/ytvanced][cuynu/ytvanced]: YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)
-- [ethereum-lists/chains][ethereum-lists/chains]: provides metadata for networkIDs and chainIDs <GithubTags tagItems="ethereum;chains;evm;hacktoberfest;eip155;chainid" />
-  - [🌐Official Site](https://chainid.network)
-- [KakaoCup/Kakao][KakaoCup/Kakao]: Nice and simple DSL for Espresso in Kotlin <GithubTags tagItems="android;kotlin;dsl;android-test;espresso;testing-tools;android-ui;hacktoberfest;ui-testing;testing-framework;testing-library" />
-  - [🌐Official Site](https://kakaocup.github.io/Kakao)
+<MyGithubItems lang="kotiln" />
 
 ---
 
@@ -242,22 +219,6 @@ meta:
 [cedar-policy/cedar-java]: https://github.com/cedar-policy/cedar-java
 [apache/doris]: https://github.com/apache/doris
 [nickm980/smallville]: https://github.com/nickm980/smallville
-<!-- Kotlin -->
-[ktorio/ktor]: https://github.com/ktorio/ktor
-[Kotlin/dokka]: https://github.com/Kotlin/dokka
-[PaperMC/Paper]: https://github.com/PaperMC/Paper
-[PaperMC/Paperclip]: https://github.com/PaperMC/Paperclip
-[hexagonkt/hexagon]: https://github.com/hexagonkt/hexagon
-[microsoft/thrifty]: https://github.com/microsoft/thrifty
-[sniffy/influxdb-tools]: https://github.com/sniffy/influxdb-tools
-[revanced/revanced-patches]: https://github.com/revanced/revanced-patches
-[cashapp/turbine]: https://github.com/cashapp/turbine
-[pinterest/ktlint]: https://github.com/pinterest/ktlint
-[ThinkingLogic/kotlin-builder-annotation]: https://github.com/ThinkingLogic/kotlin-builder-annotation
-[netflix/dgs-framework]: https://github.com/netflix/dgs-framework
-[cuynu/ytvanced]: https://github.com/cuynu/ytvanced
-[ethereum-lists/chains]: https://github.com/ethereum-lists/chains
-[KakaoCup/Kakao]: https://github.com/KakaoCup/Kakao
 <!-- Android -->
 [anggrayudi/SimpleStorage]: https://github.com/anggrayudi/SimpleStorage
 [PRNDcompany/PersistBottomSheetFragment]: https://github.com/PRNDcompany/PersistBottomSheetFragment

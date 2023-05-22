@@ -8,7 +8,7 @@ export const navbarEn: NavbarConfig = [
   },
   */
   {
-    text: '🗂️Catalogs',
+    text: '🗂️', // Catalog
     children: [
       {
         text: '🏁My Roadmap',
@@ -32,7 +32,7 @@ export const navbarEn: NavbarConfig = [
       }
     ],
   }, {
-    text: '🎓Academics',
+    text: '🎓', // academics
     children: [
       {
         text: 'Intro',
@@ -69,7 +69,7 @@ export const navbarEn: NavbarConfig = [
       }
     ],
   }, {
-    text: '🥁Crashcourse',
+    text: '🥁', // crashcourses
     children: [
       {
         text: 'Intro',
@@ -101,6 +101,12 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 7',
             link: '/crashcourse/paul-hudson-100-days-of-swift/7.md'
+          }, {
+            text: 'Day 8',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/8.md'
+          }, {
+            text: 'Day 9',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/9.md'
           }
         ]
       }, {
@@ -160,27 +166,26 @@ export const navbarEn: NavbarConfig = [
         ]
       }
     ],
-  }, 
-  // {
-  //   text: '📍Misc.',
-  //   children: [
-  //     {
-  //       text: '🕶️Github',
-  //       link: 'https://github.com/chanhi2000',
-  //     }, {
-  //       text: '🅽Notion',
-  //       link: 'https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd',
-  //     },{
-  //       text: "📢Tell Me What's Wrong",
-  //       link: "https://github.com/chanhi2000/devlog/issues",
-  //     }
-  //   ]
-  // }, 
-  {
-    text: '📖G4E',
+  }, {
+    text: '📖', // g42
     link: '/g4e/README.md',
   }, {
-    text: '🌐Explore',
+    text: '🌐', // explore
     link: '/explore/README.md',
   }
+// {
+//   text: '📍Misc.',
+//   children: [
+//     {
+//       text: '🕶️Github',
+//       link: 'https://github.com/chanhi2000',
+//     }, {
+//       text: '🅽Notion',
+//       link: 'https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd',
+//     },{
+//       text: "📢Tell Me What's Wrong",
+//       link: "https://github.com/chanhi2000/devlog/issues",
+//     }
+//   ]
+// }, 
 ];

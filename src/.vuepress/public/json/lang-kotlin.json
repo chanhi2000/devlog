@@ -1,0 +1,79 @@
+[
+  {
+    "repo": "ktorio/ktor",
+    "desc": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+    "topics": [],
+    "officialSite": "https://ktor.io"
+  }, {
+    "repo": "Kotlin/dokka",
+    "desc": "Documentation Engine for Kotlin",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PaperMC/Paperclip",
+    "desc": "Bootstrap utility and launcher for the Paper Minecraft server",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "hexagonkt/hexagon",
+    "desc": "Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.",
+    "topics": [],
+    "officialSite": "https://hexagonkt.com"
+  }, {
+    "repo": "microsoft/thrifty",
+    "desc": "Thrift for Android that saves you methods",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sniffy/influxdb-tools",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "revanced/revanced-patches",
+    "desc": "🧩 Patches for ReVanced",
+    "topics": ["patches", "revanced"],
+    "officialSite": "https://revanced.app"
+  }, {
+    "repo": "cashapp/turbine",
+    "desc": "A small testing library for kotlinx.coroutines Flow",
+    "topics": [],
+    "officialSite": "https://cashapp.github.io/turbine/docs/0.x"
+  }, {
+    "repo": "pinterest/ktlint",
+    "desc": "An anti-bikeshedding Kotlin linter with built-in formatter",
+    "topics": [],
+    "officialSite": "https://pinterest.github.io/ktlint"
+  }, {
+    "repo": "ThinkingLogic/kotlin-builder-annotation",
+    "desc": "A minimal viable replacement for the Lombok @builder plugin for Kotlin code",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "netflix/dgs-framework",
+    "desc": "GraphQL for Java with Spring Boot made easy.",
+    "topics": [],
+    "officialSite": "https://netflix.github.io/dgs"
+  }, { 
+  
+    "repo": "cuynu/ytvanced",
+    "desc": "YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ethereum-lists/chains",
+    "desc": "provides metadata for networkIDs and chainIDs",
+    "topics": ["ethereum", "chains", "evm", "hacktoberfest", "eip155", "chainid"], 
+    "officialSite": "https://chainid.network"
+  }, {
+    "repo": "KakaoCup/Kakao",
+    "desc": "Nice and simple DSL for Espresso in Kotlin",
+    "topics": ["android", "kotlin", "dsl", "android-test", "espresso", "testing-tools", "android-ui", "hacktoberfest", "ui-testing", "testing-framework", "testing-library"], 
+    "officialSite": "https://kakaocup.github.io/Kakao"
+  }
+]
