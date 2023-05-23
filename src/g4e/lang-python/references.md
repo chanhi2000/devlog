@@ -21,6 +21,9 @@ description: 🐍Python > 📚References
 ## Medium
 
 - [Computational Linear Algebra: Scalars, Vectors, Matrices and Tensors](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc)
+- [Apache Log Parser With Python](https://medium.com/@nithinjohn97/apache-log-parser-with-python-5007a91a04ce)
+- [Best Practices to Follow for PySpark Jobs](https://medium.com/@mtalhanasir96/best-practices-to-follow-for-pyspark-jobs-f41335764a2c)
+- [Python ThreadPoolExecutor: Use Cases for Parallel Processing](https://abdulrwahab.medium.com/python-threadpoolexecutor-use-cases-for-parallel-processing-3d5c90fd5634)
 
 ---
 
@@ -45,5 +48,11 @@ description: 🐍Python > 📚References
 ## Pentesting
 
 - [Pentesting Android Apps Using Frida](https://notsosecure.com/pentesting-android-apps-using-frida)
+
+---
+
+## DZone
+
+- [Developing Metadata-Driven Data Engineering Pipelines Using Apache Spark and Python Dictionary](https://dzone.com/articles/developing-metadata-driven-data-engineering-pipeli)
 
 <TagLinks />

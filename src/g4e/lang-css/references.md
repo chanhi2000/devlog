@@ -61,6 +61,10 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Mike Aparicio
+
+- [Why we're bad at CSS](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css)
+
 ## Tools
 
 - [flexiple](https://flexiple.com/illustrations)
@@ -68,6 +72,11 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 - [Neumorphism](https://neumorphism.io)
 - [kodeshot](https://www.kodeshot.net)
 - [Make some waves!](https://getwaves.io)
+- [cssTypeset](http://csstypeset.com)
+- [EnjoyCSS](https://enjoycss.com)
+- [CSSMatic](https://www.cssmatic.com)
+- [Patternify](http://www.patternify.com)
+- [CssButtonGenerator](https://www.bestcssbuttongenerator.com)
 
 ---
  

@@ -49,6 +49,65 @@ ul#loader li:nth-child(4) { animation-delay:0.6s; }
 
 ---
 
+## Loading Spinner
+
+::: normal-demo Loading Spinner
+
+```html
+<!-- <h1>Loading Animations</h1> -->
+<section class="wrapper">
+  <div class="container">
+    <span class="loading loading--spin"></span>
+  </div>
+  <div class="container">
+    <span class="loading loading--ease-spin"></span>
+  </div>
+  <div class="container">
+    <span class="loading loading--dot-spin"></span>
+  </div>
+  <div class="container">
+    <span class="loading loading--radar-spin"></span>
+  </div>
+  <div class="container">
+    <span class="loading loading--double-spin"></span>
+  </div>
+</section>
+```
+
+```css
+.loading {
+  display:inline-block;width:3.5rem;height:3.5rem;border-radius:50%;
+}
+.loading--spin {
+  border:solid 0.5rem;border-color:#ff78aa #ffffff16 #ffffff16;
+  animation:spin 1s infinite linear;
+}
+.loading--ease-spin {
+  border:solid 0.5rem;border-color:#25d9e6 #ffffff16;
+  animation:spin 1.2s infinite ease-in-out;
+}
+.loading--dot-spin {
+  border:dotted 0.35rem;border-color:#ffffff16 #b564db #b564db;
+  animation:spin 1.8s infinite linear;
+}
+.loading--double-spin {
+  border:double 0.5rem;border-color:#5094e3 #5094e3 #ffffff16;
+  animation:spin 1.2s infinite linear;
+}
+.loading--radar-spin {
+  background:conic-gradient(#7abd3300, #7abd33);
+  animation:spin 1.2s infinite linear;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+```
+
+:::
+
+---
+
 ## A Solar System Orbit
 
 ::: normal-demo A Solar System Orbit
@@ -294,5 +353,236 @@ function moveScrollIndicator(e) {
 ```
 
 :::
+
+---
+
+## Validating data on inputs w the pattern attribute
+
+::: normal-demo Validating data on inputs w the pattern attribute
+
+```html
+<form>
+  <input 
+    type="text"
+    placeholder="Has to contain 4 letters and no numbers"
+    pattern="[A-Za-z]{4}"
+  />
+  <button>Send</button>
+</form>
+
+<form>
+  <input 
+    type="password"
+    placeholder="Has to contain 6 letters or more"
+    pattern=".{6,}"
+  />
+  <button>Send</button>
+</form>
+
+
+<form>
+  <input 
+    type="text"
+    placeholder="Can only contain numbers"
+    pattern="[0-9]+"
+  />
+  <button>Send</button>
+</form>
+
+<form>
+  <input
+    type="url"
+    placeholder="Must start with https:// or http://"
+    pattern="http:?://.+"
+  />
+  <button>Send</button>
+</form>
+```
+
+:::
+
+---
+
+## Isometric Button
+
+::: normal-demo Isometric Button
+
+```html
+<button class="s-btn-iso">Touch me </button>
+```
+
+```css
+.s-btn-iso {
+  font-family: Bebas Neue, Arial;font-style:normal;font-weight:normal;font-size:24px;line-height:19px;color:#ffffff;background:#ba3f3f;border:none;padding:16px 28px 16px 28px;cursor:pointer;
+  transition: 200ms ease;
+  transform: rotateX(60deg) rotateY(0deg) rotateZ(-45deg)
+}
+.s-btn-iso:hover {
+  background:#ef4040;padding-top:5px;padding-bottom:5px;
+}
+.s-btn-iso:active {
+  padding-left:20px;padding-right:20px;background:#ba3232
+}
+```
+
+:::
+
+---
+
+## Image upload to Cloudinary on the client side
+
+<VideoPlayer
+  src="/videos/lang-css/image-upload-to-cloudinary-on-the-client-side.mp4"/>
+
+::: normal-demo Image upload to Cloudinary on the client side
+
+```html
+<form action="">
+    <label for="imgupload">Choose an image</label>
+    <input type="file" id="imgupload">
+    <button>Upload!</button>
+</form>
+
+<div id="imageContainer"></div>
+```
+
+```js
+const form = document.querySelector('form');
+const imageContainer = document.getElementById('imageContainer')
+
+const uploadImage = e => {
+  e.preventDefault();
+  const { files } = document.querySelector('input[type="file"]');
+
+  if (files.length) {
+    const formData = new FormData();
+    formData.append('file', files[0]);
+    formData.append('upload_preset', 'wdtips');
+    const options = {
+      method: 'POST',
+      body: formData
+    };
+
+    return fetch(
+      'https://api.Cloudinary.com/v1_1/*CLOUD_NAME*/image/upload',
+      options
+    ).then(res => res.json())
+    .then(res => displayImage(res.secure_url))
+
+    const displayImage = imgUrl => {
+      imageContainer.innerHTML = '';
+      const img = document.createElement('img');
+      img.setAttribute('src', imgUrl);
+      img.setAttribute('width', '250px');
+      imageContainer.appendChild(img);
+    }
+
+    form.addEventListener('submit', uploadImage);
+  }
+}
+```
+
+:::
+
+---
+
+## Add Swipe to Close on a Sidebar
+
+<VideoPlayer
+  src="/videos/lang-css/add-swipe-to-close-on-a-sidebar.mp4"
+  />
+
+::: normal-demo Add Swipe to Close on a Sidebar
+
+```html
+<div class="hamburger" id="icon">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+<div class="sidebar" id="sidebar"></div>
+```
+
+```js
+const icon = document.getElementById('icon');
+const sidebar = document.getElementById('sidebar');
+
+let touchStart, touchEnd;
+
+icon.addEventListener('click', () => {
+  sidebar.classList.add('open')
+});
+
+sidebar.addEventListener('touchstart', e => {
+  touchStart = e.targetTouches[0].clientX
+});
+sidebar.addEventListener('touchmove', e => {
+  touchEnd = e.targetTouches[0].clientX
+});
+sidebar.addEventListener('touchend', e => {
+  if (touchStart - touchEnd > 45) {
+    sidebar.classList.remove('open');
+  }
+});
+```
+
+```css
+.hamburger {
+  position:absolute;top:3rem;left:2rem;cursor:pointer;
+}
+.hamburger span {
+  display:block;width:2rem;height:0.3rem;margin:0.3rem 0;background-color:#e91e63;border-radius:30px;
+}
+.sidebar {
+  position:absolute;top:0;left:0;width:18rem;height:100vh;background-color:#e91e63;
+  transform:translateX(-20rem);transition:all 0.2s ease;
+}
+.sidebar.open {
+  transform:translateX(0);
+}
+```
+
+:::
+
+---
+
+## Was this helpful?
+
+::: normal-demo Was this helpful?
+
+```html
+<section class="review">
+  <h4 class="review__title">Was this helpful?</h4>
+  <ul class="review__list">
+    <li class="review__list__item">😭</li>
+    <li class="review__list__item">😕</li>
+    <li class="review__list__item">😀</li>
+    <li class="review__list__item">😍</li>
+  </ul>
+</section>
+```
+
+```css
+.review {
+  min-width:18rem;padding:3rem;border-top:1px solid rgba(#1a202c, 0.15);border-bottom:1px solid rgba(#1a202c, 0.15);
+}
+.review .review__title {
+  margin-top:0;text-align:center;font-weight:700;font-size:1.2rem;
+}
+.review .review__list {
+  list-style-type:none;margin:0;padding:0;display:flex;justify-content:space-between;
+}
+
+.review .review__list .review__list__item {
+    font-size:1.6rem;user-select:none;filter:grayscale(1);transition:filter 0.2s, transform 0.2s;
+}
+
+.review .review__list .review__list__item:hover {
+  cursor:pointer;filter:grayscale(0);transform:scale(1.4);
+}
+```
+
+:::
+
 
 <TagLinks />

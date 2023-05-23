@@ -174,5 +174,10 @@
     "desc": "Beautiful and smooth custom loading views",
     "topics": ["android", "custom", "view", "animation", "loader", "custom-view", "loading", "loading-animation"],
     "officialSite": ""
+  }, {
+    "repo": "httptoolkit/httptoolkit-android",
+    "desc": "Automatic Android interception & debugging with HTTP Toolkit, for Android",
+    "topics": ["android", "debugging", "http", "android-development", "android-debug", "android-tools"],
+    "officialSite": "https://httptoolkit.com"
   }
 ]

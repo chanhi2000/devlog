@@ -3,7 +3,7 @@ lang: ko-KR
 title: 🕶️Github
 description: 🕊️Swift > 🕶️Github
 category: 🕊️Swift
-tags: ["git" , "github" , "objc" , "swift"]
+tags: ["git" , "github", "objc" , "swift"]
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -65,7 +65,6 @@ tags: ["java", "baeldung"]
 
 ---
 
-
 ## Douglas Schmidt
 
 - [CS *254: Concurrent Object-Oriented Programming in Java and Android](http://www.dre.vanderbilt.edu/~schmidt/cs891s/)

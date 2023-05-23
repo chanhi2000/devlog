@@ -384,5 +384,15 @@
     "desc": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.",
     "topics": ["topic"],
     "officialSite": "os"
+  }, {
+    "repo": "btw-so/open-source-alternatives",
+    "desc": "List of open-source alternatives to everyday SaaS products.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "neetcode-gh/leetcode",
+    "desc": "Leetcode solutions",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -18,8 +18,15 @@ tags: ["references", "swift"]
 
 ### Animated Curve Line
 
+<VideoPlayer 
+  title="Tip #469: Animated Waveform UIKit. Create a waveform that animates along screen using UIBeizerPath and a special object CADisplayLink to render the drawing with the apps refresh rate of the display."
+  src="/videos/lang-swift/animated-waveform-uikit.mp4" />
+
 - https://stackoverflow.com/questions/44006942/animated-curve-line-in-swift-3
-- https://www.instagram.com/p/CIUtE6Tgzt2
+
+::: details Animated Curve Line
+
+### `ViewController.swift`
 
 ```swift
 import UIKit
@@ -94,17 +101,19 @@ class ViewController: UIViewController {
 }
 ```
 
+:::
+
 ---
 
 ## SwiftUI
 
+### Side Menu
+
 <VideoPlayer 
   title="Tip #435: Side Menu SwiftUI. Create a Side Menu that allows you to present options for the user to navigate through your app. Swipe for code."
-  src="https://scontent-ssn1-1.cdninstagram.com/v/t50.2886-16/118175361_659144374996229_5541929605126927887_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jYXJvdXNlbF9pdGVtLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=v3X7jw4pMusAX99hJAB&edm=AP_V10EBAAAA&vs=17865647122989656_3394607625&_nc_vs=HBkcFQAYJEdJRTJDd2NGelZNQ2ZWY0NBQV8yend1ZDRfaE1ia1lMQUFBRhUAAsgBACgAGAAbABUAACawzJLTw628PxUCKAJDMywXQCwhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAde4HAA%3D%3D&ccb=7-5&oh=00_AfDz_WRcMV0abyPUT2Mvw76JbN1gaIMJeeHqvdyMPGJExw&oe=645F61AC&_nc_sid=4f375e" />
+  src="/videos/lang-swift/side-menu.mp4" />
 
 ::: details SideMenu
-
-> [<FontIcon icon="iconfont icon-hot"/> by  xcode_tips](https://www.instagram.com/xcode_tips)
 
 | title | description |
 | :---: | :--- |
@@ -112,6 +121,8 @@ class ViewController: UIViewController {
 | Swift Version | 5.2 |
 | Xcode Template | Single View Application |
 | User Interface | SwiftUI |
+
+#### `ContentView.swift`
 
 ```swift
 import SwiftUI
@@ -199,9 +210,7 @@ struct MenuView: View {
 }
 ```
 
-:::
-
-::: details BottomSheet
+#### BottomSheet
 
 ```swift
 import SwiftUI
@@ -300,4 +309,356 @@ struct SheetView: View {
 
 :::
 
+### Audio Bluetooth Connection
+
+<VideoPlayer
+  title="Tip #496: Audio Bluetooth Connection. This code includes setting up your audio session in your app delegate to allow audio to be flipped between speaker and audio Bluetooth device. Trying this with AirPods: if you put your AirPods in your ear, the session will flip the audio from the speaker to the AirPods and update the image to a Bluetooth image and when removed the audio session flips back to the speaker with a speaker image."
+  src="/videos/lang-swift/audio-bluetooth-connection.mp4" />
+
+::: details Audio Bluetooth Connection
+
+#### `AppDelegate.swfit`
+
+```swift
+import UIKit
+import AVFoundatino
+
+@main
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        do {
+            try AVAudioSession.sharedInstance().setCategory(.playAndRecord, mode: .default, options: [.defaultToSpeaker, .allowBluetooth, .allowBluetoothA2DP])
+        } catch let error {
+            print(error.localizedDescription)
+        }
+        return true
+    }
+}
+```
+
+#### `ViewController.swift`
+
+```swift
+import UIKit
+import AVFoundation
+import CoreBluetooth
+
+class ViewController: UIViewController {
+    var manager: CBCentralManager!
+
+    @IBOutlet weak var imageView: UIImageView!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        manager = CBCentralManager(delegate: self, queue: nil)
+        let currentRouteOutput = 
+            AVAudioSession.sharedInstance().currentRRoute.outputs[0].portType
+        checkSessionsOutput(currentRouteOutput: currentRouteOutput)
+        NotificationCenter.default.addObserver(self, selector: #selector(handleRouteChange(_ :)), name: AVAudioSession.routeChangeNotification, object:nil) // when audio route changes from speaker to bluetooth
+    }
+
+    func checkSessionOutput(currentRouteOutput: AVAudioSession.Port) {
+        if currentRouteOutput.rawValue.contains("BluetoothA2DPOutput") {
+            imageView.image = UIImage(named: "bluetooth") // image from web, need to grab
+        } else {
+            imageView.image = UIImage(systemName: "speaker.wave.2.fill") // system image, anyone can access
+        }
+    }
+
+    @objc func handleRouteChange(_ notification: Notification) {
+        print("ROUTE CHANGE: \(notification.name)")
+        let routeDescription = (notification as NSNotificatoin)
+            .userInfo![AVAudioSessionRouteChangePreviousRouteKey] as! AVAudioSessionRouteDescription?
+
+        let currentRouteOutput = 
+            AVAudioSession.sharedInstance().currentRoute.outputs[0].portType
+
+        if let prevRoute = routeDescription {
+            print("Previous Route: \(prevRoute)")
+            print("Current Route: \(String(describing: AVAudioSession.sharedInstance().currentRoute))")
+        }
+        checkSessionOutput(currentRouteOutput: currentRouteOutput)
+    }
+}
+
+extension ViewController: CBCentralManagerDelegate, CBPeripheralDelegate {
+    func centralManagerDidUpdateState(_ central: CBCentralManager) {
+        switch manager.state {
+        case .poweredOff: print("BLE service is powered off")
+        case .poweredOn: print("BLE service is powered on and scanning")
+        default: print("BLE service is in another state")
+        }
+    }
+}
+```
+
+:::
+
+### Note Analyzer AudioKit
+
+<VideoPlayer
+  src="/videos/lang-swift/note-analyzer-audiokit.mp4"/>
+
+::: details Note Analyzer AudioKit
+
+#### `Podfile`
+
+```ruby
+target 'MetronomeApp' do
+  pod 'AudioKit', '~> 4.0'
+end
+```
+
+#### `main.storyboard`
+
+Add a `UILabel`
+
+![note-analyzer-audiokit-01][note-analyzer-audiokit-01]
+
+#### `Info.plist`
+
+Enable `Privacy - Microphone Usage Description`
+
+![note-analyzer-audiokit-02][note-analyzer-audiokit-02]
+
+#### `ViewController.swift`
+
+```swift
+import UIKit
+import AudioKit
+
+protocol TunerDelegate {
+    func tunerDidTick(pitch: Pitch, errRatio: Double)
+}
+
+class ViewController : UIViewController {
+    @IBOutlet weak var noteLabel: UILabel!
+
+    var tuner = Tuner()
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        tuner.start()
+        Timer.scheduledTimer(timeInterval: 0.5, target: self, selector: #selector(getNote), userInfo: nil, repeats: true)
+    }
+
+    @objc func getNote() {
+        print(tuner.getNote())
+        noteLabel.text = tuner.getNote()
+        switch tuner.returnAccidental {
+        case .flat, .sharp:
+            noteLabel.textColor = .red
+        default:
+            noteLabel.textColor = .green        
+        }
+    }
+}
+
+class Tuner {
+    var mic: AKMicrophone
+    var tracker: AKFrequencyTracker
+    var silence: AKBooster
+
+    let pollingInterval = 0.05
+    var pollingTimer: Timer?
+
+    var delegate: TunerDelegate?
+
+    init() {
+        do {
+            try AVAudioSession.sharedInstance().setCategory(.record, mode: .measurement, options: [])
+        } catch let error {
+            print(error.localizedDescription)
+        }
+
+        AKSettings.audioInputEnabled = true
+        mic = AKMicrophone()!
+        tracker = AKFrequencyTracker.init(mic)
+        silence = AKBooster(tracker, gain: 0)
+
+        AKManager.output = silence
+    }
+
+    func start() {
+        do {
+            try AKManager.start()
+        } catch let error {
+            print(error.localizedDescription)
+        }
+
+        pollingTimer = Timer.scheduledTimer(withTimeInterval: pollingInterval, repeats: true, block: { (_) in
+            self.pollingTick()
+        })
+    }
+
+    func stop() {
+        do {
+            try AKManager.stop()
+        } catch let error {
+            print(error.localizedDescription)
+        }
+
+        if let t = pollingTimer {
+            t.invalidate()
+        }
+    }
+
+    var returnNote = Note.Name(rawValue: 0)
+    var returnAccidental = Note.Accidental(rawValue: 0)
+
+    private func pollingTick() {
+        let frequency = Double(tracker.frequency)
+        let pitch = Pitch.makePitchByFrequency(frequency)
+        let errRatio = frequency / pitch.frequency
+        returnNote = pitch.note.note
+        returnAccidental = pitch.note.accidental
+
+        if let d = delegate {
+            d.tunerDidTick(ptich: pitch, errRatio: errRatio)
+        }
+    }
+
+    func getNote() -> String {
+        var accidental = ""
+        switch returnAccidental {
+        case .natural: accidental = "♮"    
+        case .flat: accidental = "♭"
+        case .sharp: accidental = "♯"
+        default: break
+        }
+        let noteString = "\(returneNote ?? Note.Name.A) \(accidental)"
+        return noteString
+    }
+}
+
+class Note: Equatable {
+    enum Accidental: Int { case naturla = 0, sharp, flat }
+    enum Name: Int { case A = 0, B, C, D, E, F, G }
+
+    static int all: [Note] = [
+        Note(.C, .natural), Note(.C, .sharp), 
+        Note(.D, .natural), 
+        Note(.E, .flat), Note(.E, .natural),
+        Note(.F, .natural), Note(.F, .sharp),
+        Note(.G, .natural),
+        Note(.A, .flat), Note(.A, .natural),
+        Note(.B, .flat), Note(.B, .natural)
+    ]
+
+    var note: Name
+    var accidental: Accidental
+
+    // Initializer
+    init(_ note: Name, _ accidental: Accidental) {
+        self.note = note
+        self.accidental = accidental
+    }
+
+    //Equality operators.
+    static func ==(lhs: Note, rhs: Note) -> Bool {
+        return lhs.note == rhs.note &&
+          lhs.accidental == rhs.accidental
+    }
+    
+    static func !=(lhs: Note, rhs: Note) -> Bool {
+        return !(lhs == rhs)
+    }
+
+    var frequency: Double {
+        let index = Note.all.firstIndex(of: self)! - Note.all.firstIndex(of: Note(.A, .natural))!
+        return 440.0 * pow(2.0, Double(index) / 12.0)
+    }
+}
+
+class Pitch {
+    let frequency: Double
+    let note: Note
+    let octave: Int
+
+    private init(note: Note, octave: Int) {
+        self.note = note
+        self.octave = octave
+        self.frequency = note.frequency * pow(2.0, Double(octave) - 4.0)
+    }
+
+    static let all = Array((0...8).map { octave -> [Pitch] in
+        Note.all.map { note -> Pitch in 
+            Pitch(note: note, octave: octave)
+        }
+    }).joined()
+
+    static func makePitchByFrequency(_ frequency: Double) -> Pitch {
+        var results = all.map { pitch -> (pitch: Pitch, distance: Double) in 
+            (pitch: pitch, distance: abs(pitch.frequency - frequency))
+        }
+        results.sort { $0.distance < $1.distance }
+        return results.first!.pitch
+    }
+}
+```
+
+:::
+
+### Stretchy Header
+
+<VideoPlayer
+  title=""
+  src="/videos/lang-swift/stretchy-header.mp4" />
+
+::: details Stretchy Header
+
+```swift
+import SwiftUI
+
+struct DiscountDetailsView: View {
+    @EnvironmentObject private var model: FashionModel
+    @State private var selection: Product?
+
+    var product: [Product]
+
+    // MARK:- BODY
+    var body: some View {
+        GeometryReader { geo in 
+            content.toolbar(content: { /* ... [생략] ... */})
+        }
+    }
+
+    var content: some View {
+        ScrollView {
+            VStack {
+                DiscountHeader()
+                ScrollView {
+                    VStack {
+                        LazyVGrid(columns: [GridItem(.adaptive(minimum: 150, maximum: 180), alignment: .center)]
+                                 alignment: .center, spacing: 15) {
+                            ForEach(product) { item in 
+                                NavigationLink(destination: DetailsView(product: item), 
+                                               tag: item,
+                                               selection: $selection) {
+                                    ProductCard(product: item)
+                                }.buttonStyle(SquishableButtonStyle())
+                                .tag(item)
+                                .onReceive(model.$selectedProductID) { /* ... [생략] ... */ }
+                            }
+                        }
+                    }.padding(.top, 20)
+                    .padding(.horizontal)
+                }
+                .background(Color.init(.secondarySystemBackground))
+            }
+        }
+    }
+}
+```
+
+:::
+
+---
+
+
 <TagLinks />
+
+
+[note-analyzer-audiokit-01]: /images/lang-swift/note-analyzer-audiokit-01.jpg
+[note-analyzer-audiokit-02]: /images/lang-swift/note-analyzer-audiokit-02.jpg

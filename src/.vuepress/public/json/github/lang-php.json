@@ -44,5 +44,10 @@
     "desc": "Kanban project management software",
     "topics": ["agile", "self-hosted", "project-management", "kanban", "kanboard"],
     "officialSite": "https://kanboard.org/"
+  }, {
+    "repo": "gptlink/gptlink",
+    "desc": "10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能",
+    "topics": [],
+    "officialSite": ""
   }
 ]

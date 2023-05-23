@@ -1350,8 +1350,8 @@
     "officialSite": "https://github.com/SevaSk/ecoute"
   }, {
     "repo": "Zeqiang-Lai/DragGAN",
-    "desc": "Implementation of \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
-    "topics": ["image-editing", "image-generation", "draggan"],
+    "desc": "Online Demo and Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）",
+    "topics": ["image-editing", "image-generation", "gradio-interface", "draggan", "interngpt"],
     "officialSite": ""
   }, {
     "repo": "iryna-kondr/scikit-llm",
@@ -1428,5 +1428,45 @@
     "desc": "",
     "topics": ["chat", "ransomware", "negotiations"],
     "officialSite": "https://ransomch.at"
+  }, {
+    "repo": "salesforce/LAVIS",
+    "desc": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "topics": ["deep-learning", "salesforce", "image-captioning", "deep-learning-library", "vision-framework", "vision-and-language", "multimodal-deep-learning", "multimodal-datasets", "vision-language-transformer", "vision-language-pretraining", "visual-question-anwsering"],
+    "officialSite": ""
+  }, {
+    "repo": "homanp/superagent",
+    "desc": "🥷 SuperAgent - Deploy LLM Agents to production",
+    "topics": ["ai", "openai", "cohere", "llm", "langchain", "anthropic", "claude-ai"],
+  "officialSite": "https://docs.superagent.sh"
+  }, {
+    "repo": "platformio/platform-raspberrypi",
+    "desc": "Raspberry Pi: development platform for PlatformIO",
+    "topics": [],
+    "officialSite": "https://registry.platformio.org/platforms/platformio/raspberrypi"
+  }, {
+    "repo": "AggressiveUser/AllForOne",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "topics": ["machine-learning", "streaming", "real-time", "faceswap", "webcam", "videocall", "deepfake"],
+    "officialSite": ""
+  }, {
+    "repo": "ShishirPatil/gorilla",
+    "desc": "Gorilla: An API store for LLMs",
+    "topics": ["api", "gpt-4", "llm", "anthropic-claude"],
+    "officialSite": "https://gorilla.cs.berkeley.edu"
+  }, {
+    "repo": "Liuhong99/Sophia",
+    "desc": "The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”",
+    "topics": ["deep-learning", "optimizer", "large-language-models"],
+    "officialSite": ""
+  }, {
+    "repo": "commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "topics": [],
+    "officialSite": "https://comma.ai"
   }
 ]

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 💡Tips
-description: Regex > 💡Tips
+description: 🥋Regex > 💡Tips
 tags: ["regex", "regular-expression", "snippet", "tips"]
 ---
 

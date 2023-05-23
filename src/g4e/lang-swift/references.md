@@ -45,9 +45,22 @@ tags: ["references", "swift"]
 
 ---
 
+## Medium
+
+- [Ask Apple 2022 Q&A Related on Core Data (Part 1)](https://itnext.io/ask-apple-2022-q-a-related-on-core-data-part-1-59b9a9040322)
+
+---
+
+
 ## Sarunw
 
 - [How to set ContentInsets on SwiftUI List](https://sarunw.com/posts/how-to-set-contentinsets-in-swiftui)
+
+---
+
+## Halodoc
+
+- [Swift Concurrency Adoption at Halodoc](https://blogs.halodoc.io/swift-concurrency-adoption-at-halodoc/)
 
 ---
 

@@ -37,7 +37,7 @@ brew tap homebrew/cask-versions;
 brew tap homebrew/cask-fonts;
 
 # Install formula
-brew install autojump amazon-ecs-cli awscli bison \
+brew install bat bat-extras autojump amazon-ecs-cli awscli bison \
     cocoapods ffmpeg fizz flac git \
     mas neofetch nvm openssl pixman \
     python scrcpy starship tmux watchman \

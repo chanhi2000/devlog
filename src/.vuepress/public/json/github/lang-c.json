@@ -179,6 +179,16 @@
     "desc": "Klipper is a 3d-printer firmware",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "libarchive/libarchive",
+    "desc": "Multi-format archive and compression library",
+    "topics": ["backup", "zip", "tar", "rar", "archiving", "cab", "posix", "zstd", "lzma", "iso9660", "xz", "gz", "bz2", "libarchive", "7zip", "cpio", "xar"],
+    "officialSite": "http://www.libarchive.org"
+  }, {
+    "repo": "xorvoid/sectorc",
+    "desc": "A C Compiler that fits in the 512 byte boot sector of an x86 machine",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

@@ -364,5 +364,10 @@
     "desc": "Protect and discover secrets using Gitleaks 🔑",
     "topics": ["git", "go", "golang", "security", "secret", "hacktoberfest", "security-tools", "devsecops", "gitleaks"],
     "officialSite": "https://gitleaks.io"
+  }, {
+    "repo": "paypal/junodb",
+    "desc": "JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

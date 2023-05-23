@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: Regex
+description: 🥋Regex
 ---
 
 # {{ $frontmatter.description }} 관련

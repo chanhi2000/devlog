@@ -604,5 +604,45 @@
     "desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
     "topics": ["graphql", "vscode", "codemirror", "graphiql", "monaco-editor", "lsp-server", "lsp-mode"],
     "officialSite": ""
+  }, {
+    "repo": "strapi/nextjs-corporate-starter",
+    "desc": "Strapi Demo application for Corporate Websites using Next.js",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mmulet/code-relay",
+    "desc": "Source for the Code Relay website. Code Relay The fastest and easiest way to contribute to open source!",
+    "topics": ["open-source", "contributing", "contributors", "maintainers"],
+    "officialSite": "https://www.coderelay.io"
+  }, {
+    "repo": "microsoft/devicescript",
+    "desc": "TypeScript for Tiny IoT Devices",
+    "topics": ["iot", "typescript", "embedded", "esp32", "jacdac", "rp2040"],
+    "officialSite": "https://microsoft.github.io/devicescript"
+  }, {
+    "repo": "httptoolkit/httptoolkit-ui",
+    "desc": "The UI of HTTP Toolkit",
+    "topics": ["http", "tools", "http-proxy", "developer-tools"],
+    "officialSite": "https://httptoolkit.com"
+  }, {
+    "repo": "httptoolkit/mockttp",
+    "desc": "Powerful friendly HTTP mock server & proxy library",
+    "topics": ["testing", "mock", "proxy", "integration-testing", "mock-server", "mitm", "testing-tools", "javascript-tests", "fake-server", "javascript-testing", "intercepting-proxy"],
+    "officialSite": "https://httptoolkit.com"
+  }, {
+    "repo": "httptoolkit/httptoolkit-desktop",
+    "desc": "Electron wrapper to build and distribute HTTP Toolkit for the desktop",
+    "topics": ["electron", "desktop-app", "http", "tools", "electron-forge", "developer-tools"],
+    "officialSite": "https://httptoolkit.com"
+  }, {
+    "repo": "floating-ui/floating-ui",
+    "desc": "A JavaScript library to position floating elements and create interactions for them.",
+    "topics": ["popover", "position", "tooltip", "dropdown", "popovers", "positioning-engine", "hacktoberfest", "positioning", "tooltip-position"],
+    "officialSite": "https://floating-ui.com"
+  }, {
+    "repo": "vue-vine/vue-vine",
+    "desc": "Another style of writing Vue components.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -38,6 +38,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [The Road to React by Robin Wieruch](https://roadtoreact.com)
 - [Pure React by Dave Ceddia](https://daveceddia.com/pure-react)
 - [React Explained by Zac Gordon](https://www.ostraining.com/books/react)
+- [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev)
+- [Favorite JavaScript utilities in single line of code! No more!](https://1loc.dev)
 
 ---
 
@@ -166,6 +168,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Performant Reactivity with Svelte-Kit](https://itnext.io/performant-reactivity-with-svelte-kit-47d11769c5f)
 - [Callback Refs in React](https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c)
 - [ES6 imports vs CommonJS imports](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)
+- [Angular Tree Shaking: Optimize Your Application’s Size 🌳](https://designtechworld.medium.com/angular-tree-shaking-optimize-your-applications-size-ea7494a568f)
+- [The Art of Micro Frontends](https://medium.com/sysco-labs/the-art-of-micro-frontends-5184065ab74b)
 
 ---
 
@@ -207,6 +211,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Tanstack: How To Add Tables To Your React App](https://blog.openreplay.com/tanstack--how-to-add-tables-to-your-react-app)
 - [React's Virtual DOM](https://blog.openreplay.com/reacts-virtual-dom)
+- [Common Date/Time Operations Without Moment.Js](https://blog.openreplay.com/common-date-time-operations-without-moment-js)
 
 ---
 
@@ -226,7 +231,6 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [접혀진 아코디언은 검색할 수 없나요?](https://hiddenest.dev/accessible-accordion)
 
-
 ---
 
 ## adama-platform
@@ -235,8 +239,28 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Bun
+
+- [The Bun Bundler](https://bun.sh/blog/bun-bundler)
+
+---
+
+## bbss
+
+- [Understanding React Concurrency](https://www.bbss.dev/posts/react-concurrency/)
+
+---
+
+## Progress Telerik
+
+- [List of Useful JavaScript Shorthands](https://www.telerik.com/blogs/list-useful-javascript-shorthands)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
+
+---
 
 <TagLinks />

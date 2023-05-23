@@ -571,7 +571,7 @@
     "officialSite": "https://kiwphi.github.io/pop-shoot"
   }, {
     "repo": "xcanwin/KeepChatGPT",
-    "desc": "让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.",
+    "desc": "这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。",
     "topics": [],
     "officialSite": ""
   }, {
@@ -921,7 +921,7 @@
     "officialSite": "https://lenis.studiofreight.com"
   }, {
     "repo": "vanjs-org/van",
-    "desc": "🍦VanJS (Vanilla JavaScript): World's smallest reactive UI framework",
+    "desc": "🍦VanJS: World's smallest reactive UI framework",
     "topics": ["dom", "vanilla-javascript", "data-binding", "vanilla-js", "dom-manipulation", "minimalist", "lightweight-framework", "lightweight-javascript-library", "ui-framework", "reactive-ui", "reative", "vanilla-dom-manipulation", "ultra-thin", "grab-n-go", "ultra-light", "vannilajs"],
     "officialSite": "https://vanjs.org"
   }, {
@@ -929,5 +929,50 @@
     "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
     "topics": ["json", "ci", "poetry", "chinese", "tangshi", "chinese-poetry"],
     "officialSite": "http://shici.store/"
+  }, {
+    "repo": "jofftiquez/faker-js-ui",
+    "desc": "Use Faker.js UI to easiliy generate fake (but realistic) data for testing and development using Faker.js.",
+    "topics": ["javascript", "faker", "fakerjs", "fakerui"],
+    "officialSite": "https://fakerjsui.com/"
+  }, {
+    "repo": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "desc": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
+    "topics": ["art", "plugin", "ai", "photoshop", "ai-art", "stable-diffusion", "automatic1111"],
+    "officialSite": ""
+  }, {
+    "repo": "httptoolkit/httptoolkit-website",
+    "desc": "The main website of HTTP Toolkit: beautiful, cross-platform & open-source tools to debug, test and develop with HTTP(S).",
+    "topics": [],
+    "officialSite": "https://httptoolkit.com"
+  }, {
+    "repo": "httptoolkit/httptoolkit-server",
+    "desc": "The backend of HTTP Toolkit",
+    "topics": ["http", "tools", "server", "developer-tools", "oclif"],
+    "officialSite": "https://httptoolkit.com"
+  }, {
+    "repo": "sindresorhus/screenfull",
+    "desc": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API",
+    "topics": [],
+    "officialSite": "https://sindresorhus.com/screenfull"
+  }, {
+    "repo": "Leaflet/Leaflet",
+    "desc": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+    "topics": ["javascript", "maps", "leaflet", "hacktoberfest"],
+    "officialSite": "https://leafletjs.com"
+  }, {
+    "repo": "alvarotrigo/fullPage.js",
+    "desc": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
+    "topics": ["javascript", "jquery", "slideshow", "slide", "snap", "scrolling", "fullscreen", "swipe", "onepage", "fullpage", "sections", "mousewheel"],
+    "officialSite": "http://alvarotrigo.com/fullPage"
+  }, {
+    "repo": "kenwheeler/slick",
+    "desc": "the last carousel you'll ever need",
+    "topics": [],
+    "officialSite": "http://kenwheeler.github.io/slick"
+  }, {
+    "repo": "SamurAIGPT/privateGPT",
+    "desc": "An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+    "topics": ["chatbot", "openai", "gpt", "gpt4", "chatgpt", "langchain", "privategpt"],
+    "officialSite": "https://privategpt.thesamur.ai"
   }
 ]

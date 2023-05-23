@@ -109,6 +109,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-js-node/sandbox.md',
         '/g4e/lang-js-node/cordova.md',
         '/g4e/lang-js-node/tips.md',
+        '/g4e/lang-js-node/snippets.md',
         '/g4e/lang-js-node/references.md',
         '/g4e/lang-js-node/github.md',
         '/g4e/lang-js-node/youtube.md',
@@ -191,6 +192,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-php/README.md',
+        '/g4e/lang-php/references.md',
         '/g4e/lang-php/github.md',
         '/g4e/lang-php/youtube.md',
       ]
@@ -199,9 +201,20 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-c/README.md',
+        '/g4e/lang-c/tips.md',
         '/g4e/lang-c/references.md',
         '/g4e/lang-c/github.md',
         '/g4e/lang-c/youtube.md',
+      ]
+    }, {
+      text: '🏂Zig',
+      collapsible: true,
+      children: [
+        '/g4e/lang-zig/README.md',
+        '/g4e/lang-zig/tips.md',
+        '/g4e/lang-zig/references.md',
+        '/g4e/lang-zig/github.md',
+        '/g4e/lang-zig/youtube.md',
       ]
     }, {
       text: '🦢LaTeX',
@@ -311,6 +324,13 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-security/youtube.md',
       ]
     }, {
+      text: '🌤️HTTP',
+      collapsible: true,
+      children: [
+        '/g4e/protocol-http/README.md',
+        '/g4e/protocol-http/api.md',
+      ]
+    }, {
       text: '🤵🏻Jenkins',
       collapsible: true,
       children: [
@@ -397,9 +417,9 @@ export const sidebarEn: SidebarConfig = {
       text: '💬ChatGPT',
       collapsible: true,
       children: [
-        '/g4e/tool-chatgpt/README.md',
-        '/g4e/tool-chatgpt/references.md',
-        '/g4e/tool-chatgpt/youtube.md',
+        '/g4e/tool-ai-chatgpt/README.md',
+        '/g4e/tool-ai-chatgpt/references.md',
+        '/g4e/tool-ai-chatgpt/youtube.md',
       ]
     },
     //endregion
@@ -450,11 +470,12 @@ export const sidebarEn: SidebarConfig = {
     }, 
     //endregion
     {
-      text: 'Regex',
+      text: '🥋Regex',
       collapsible: true,
       children: [
         '/g4e/regex/README.md',
         '/g4e/regex/tips.md',
+        '/g4e/regex/references.md',
       ],
     }, {
       text: 'Markdown',

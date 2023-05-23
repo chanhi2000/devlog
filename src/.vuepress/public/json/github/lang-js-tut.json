@@ -84,5 +84,15 @@
     "desc": "A Collection of application ideas which can be used to improve your coding skills.",
     "topics": ["applications", "coding", "ideas", "hacktoberfest"],
     "officialSite": ""
-  }  
+  }, {
+    "repo": "phuocng/html-dom",
+    "desc": "Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.",
+    "topics": ["javascript", "html", "typescript", "dom", "document-object-model", "dom-manipulation", "dom-api"],
+    "officialSite": "https://htmldom.dev"
+  }, {
+    "repo": "phuocng/1loc",
+    "desc": "What's your favorite JavaScript single LOC (line of code)?",
+    "topics": ["javascript", "tips-and-tricks", "javascript-utils", "one-liner", "eleventy", "js-tips", "one-line-code"],
+    "officialSite": "https://1loc.dev"
+  }
 ]

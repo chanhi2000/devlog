@@ -13,6 +13,60 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## 3 Ways to center div
+
+::: tabs
+
+@tab:active grid
+
+```css
+.item {
+  display:grid;place-items:center;
+}
+```
+
+@tab position
+
+```css
+.item {
+  position:absolute;top:50%;left:50%;transform: translate(-50%,-50%);
+}
+```
+
+@tab flex
+
+```css
+.item {
+  display:flex;align-items:center;justify-content:center;
+}
+```
+
+---
+
+## Truncate Text with One Line
+
+```css
+p {
+    -webkit-line-clamp:3;
+}
+```
+
+---
+
+## Drop Shadow to Transparent Image
+
+```css
+.drop-shadow {
+  filter: drop-shadow(2px 4px 8px #585858)
+}
+```
+
+---
+
+
+
+---
+
 ## Selector(s)
 
 ```css
@@ -282,7 +336,8 @@ p:empty {}          /* elements that have no children selector */
   justify-self: start | end | center | stretch;
   align-self: start | end | center | stretch;
 }
-
 ```
+
+---
 
 <TagLinks />

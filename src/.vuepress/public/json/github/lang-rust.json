@@ -319,6 +319,16 @@
       "desc": "A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.",
       "topics": ["rust", "terminal", "rust-lang", "gpu-acceleration", "gpu-computing", "terminal-emulator", "terminal-ui", "wpgu"],
       "officialSite": "https://raphamorim.io/rio/"
+    }, {
+      "repo": "wez/wezterm",
+      "desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "topics": ["rust", "terminal", "serial", "terminal-emulators", "serial-port", "terminal-emulator"],
+      "officialSite": "https://wezfurlong.org/wezterm/"
+    }, {
+      "repo": "sharkdp/bat",
+      "desc": "A cat(1) clone with wings.",
+      "topics": ["git", "syntax-highlighting", "rust", "cli", "terminal", "command-line", "tool", "hacktoberfest"],
+      "officialSite": ""
     }
 ]
 

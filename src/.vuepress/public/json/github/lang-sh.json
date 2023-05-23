@@ -124,5 +124,10 @@
     "desc": "Run a VPN with global exit nodes with fly.io, tailscale and github!",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "eth-p/bat-extras",
+    "desc": "Bash scripts that integrate bat with various command line tools.",
+    "topics": ["bat", "hacktoberfest"],
+    "officialSite": ""
   }
 ]

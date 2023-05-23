@@ -179,5 +179,10 @@
         "desc": "A static site generator for Swift developers",
         "topics": ["swift", "static-site-generator", "web-development", "publish"],
         "officialSite": "" 
-    }  
+    }, {
+      "repo": "Inncoder/SwiftUI-Animations",
+      "desc": "Code from instagram posts",
+      "topics": [],
+      "officialSite": ""
+    }
 ]

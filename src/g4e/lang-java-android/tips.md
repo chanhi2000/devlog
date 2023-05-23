@@ -59,7 +59,6 @@ class GodActivity : AppCompatActivity {
 ## Foreground Service
 
 ```kotlin
-
 override fun onStartCommand(intent: Intent?, flag: Int, startId: Int): Int {
     createNotificaionChannel()
     val notification: Notification =
@@ -75,4 +74,95 @@ override fun onStartCommand(intent: Intent?, flag: Int, startId: Int): Int {
 
 ---
 
+## Preferences
+
+![preferences-example-result][preferences-example-result]
+
+::: details Preferences 
+
+### `app/build.gradle`
+
+```gradle
+dependencies {
+    implementation 'androidx.preference:preference:1.1.1'
+}
+```
+
+### `res/xml/preference.xml`
+
+```xml
+<PreferenceScreen
+  xmlns:app="https://schemas.android.com/apk/res-auto">
+
+  <SwitchPreferenceCompat
+    app:key="notifications"
+    app:title="Enable message notifications">
+
+    <Preference
+      app:key="feedback"
+      app:title="Send Feedback"
+      app:summary="Report technical issues or suggest new features"/>
+
+  </SwitchPreferenceCompat>
+
+</PreferenceScreen>
+```
+
+### `MySettingsFragment.kt`
+
+```kotlin
+class MySettingsFragment : PreferenceFragmentCompat() {
+    override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {
+        setPreferencesFromResource(R.xml.preferences, rootKey)
+    }
+}
+```
+
+### `MySettingsActivity.kt`
+
+```kotlin
+class MySettingsActivity: AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        supportFragmentManager
+            .beginTransaction()
+            .replace(R.id.settings_container, MySettingsFragment())
+            .commit()
+    }
+}
+```
+
+:::
+
+---
+
+## Crossfade Animation
+
+<VideoPlayer
+  src="/videos/lang-android/crossfade-animation.mp4" />
+
+::: details Crossfade Animation
+
+```kotlin
+fun crossfade(
+    viewToShow: View,
+    viewToHide: View
+) {
+    viewToHide.animate()
+      .alpha(0f)
+      .setDuration(500)
+      .setListener(object: AnimatorListenerAdapter() {
+        override fun onAnimationEnd(animation: Animator?) {
+            // change the visibility
+            viewToHide.isVisible = false
+        }
+      })
+}
+```
+
+:::
+
 <TagLinks />
+
+[preferences-example-result]: /images/lang-android/preferences-example-result.jpg
+[crossfade-animation]: /videos/lang-android/crossfade-animation.mp4

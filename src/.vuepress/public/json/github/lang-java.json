@@ -244,6 +244,21 @@
     "desc": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
     "topics": ["api", "sdk", "rest", "generator", "rest-api", "openapi", "api-client", "api-server", "restful-api", "hacktoberfest", "rest-client", "openapi3", "openapi-generator"],
     "officialSite": "https://openapi-generator.tech"
+  }, {
+    "repo": "NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "topics": ["reverse-engineering", "disassembler", "software-analysis"],
+    "officialSite": "https://www.nsa.gov/ghidra"
+  }, {
+    "repo": "apache/lucene",
+    "desc": "Apache Lucene open-source search software",
+    "topics": ["search", "java", "search-engine", "information-retrieval", "backend", "nosql", "lucene"],
+    "officialSite": "https://lucene.apache.org"
+  }, {
+    "repo": "CodinGame/SpringChallenge2023",
+    "desc": "https://www.codingame.com/contests/spring-challenge-2023",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

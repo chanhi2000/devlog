@@ -46,7 +46,7 @@ export default {
       const fetchedItems = await res.json();
 
       let jsonFullPathsLang = [
-        "c", "cpp", "csharp", "dart", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
+        "batchfile", "c", "cpp", "csharp", "dart", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
       ].map((e) => `/json/github/lang-${e}.json`);
 
       let jsonFullPathsLangTut = [

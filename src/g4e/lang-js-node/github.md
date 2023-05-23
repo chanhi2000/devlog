@@ -45,15 +45,8 @@ meta:
 
 ## Coffeescript
 
-- [jashkenas/coffeescript][jashkenas/coffeescript]: Unfancy JavaScript
-  - [🌐Official Site](https://coffeescript.org)
-- [mojs/mojs][mojs/mojs]: The motion graphics toolbelt for the web <GithubTags tagItems="javascript;svg;design;library;webpack;web;modern;es6;timeline;animation;shape;graphics;motion;burst;motion-graphics;swirl;toolbelt;mojs;mo-js" />
-  - [🌐Official Site](https://mojs.github.io)
+<MyGithubItems jsonName="gh-lang-coffeescript" />
 
 ---
 
 <TagLinks />
-
-<!-- Coffeescript -->
-[jashkenas/coffeescript]: https://github.com/jashkenas/coffeescript
-[mojs/mojs]: https://github.com/mojs/mojs
