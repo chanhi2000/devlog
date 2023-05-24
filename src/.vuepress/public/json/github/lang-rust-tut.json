@@ -1,0 +1,28 @@
+[
+  {
+    "repo": "sunface/rust-by-practice",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://practice.rs"
+  }, {
+    "repo": "google/comprehensive-rust",
+    "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+    "topics": ["rust", "classroom", "course", "guide", "training-materials"],
+    "officialSite": "https://google.github.io/comprehensive-rust"
+  }, {
+    "repo": "skyzh/mini-lsm",
+    "desc": "A tutorial of building an LSM-Tree storage engine in a week! (WIP)",
+    "topics": [],
+    "officialSite": "https://skyzh.github.io/mini-lsm"
+  }, {
+    "repo": "rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "rust-lang/book",
+    "desc": "The Rust Programming Language",
+    "topics": [],
+    "officialSite": "https://doc.rust-lang.org/book"
+  }
+]

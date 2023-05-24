@@ -24,19 +24,33 @@ meta:
 
 ## Java
 
-<MyGithubItems jsonName="gh-lang-java" />
+<MyGithubItems jsonName="lang-java" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-java-tut" />
 
 ---
 
 ## Kotlin
 
-<MyGithubItems jsonName="gh-lang-kotiln" />
+<MyGithubItems jsonName="lang-kotiln" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-kotiln-tut" />
+
 
 ---
 
 ## Android
 
-<MyGithubItems jsonName="gh-lang-java-android" />
+<MyGithubItems jsonName="lang-android" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-android-tut" />
+
 
 ---
 

@@ -1,0 +1,43 @@
+[
+  {
+    "repo": "backdrop/backdrop",
+    "desc": "Backdrop core code repository.",
+    "topics": ["php", "cms"],
+    "officialSite": "https://backdropcms.org"
+  }, {
+    "repo": "monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "topics": [],
+    "officialSite": "https://www.monicahq.com"
+  }, {
+    "repo": "laravel/breeze",
+    "desc": "Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.",
+    "topics": [],
+    "officialSite": "https://laravel.com/docs/starter-kits#laravel-breeze"
+  }, {
+    "repo": "openai-php/laravel",
+    "desc": "⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ockeghem/badtodo",
+    "desc":" ",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "D4RK-R4BB1T/Dark-Web-Archives",
+    "desc": "Archives of the criminal side of the internet",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "snipe/snipe-it",
+    "desc": "A free open source IT asset/license management system",
+    "topics": [],
+    "officialSite": "https://snipeitapp.com"
+  }, {
+    "repo": "nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "topics": ["javascript", "open-source", "php", "enterprise", "design", "opensource", "cloud", "ux", "nextcloud", "owncloud", "decentralized", "sharing", "file-sharing", "collaboration", "distributed", "free-software", "usability", "self-hosting", "federation", "hacktoberfest"],
+    "officialSite": "https://nextcloud.com"
+  }
+]

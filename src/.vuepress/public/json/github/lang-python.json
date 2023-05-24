@@ -419,11 +419,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "BlinkDL/RWKV-LM",
-    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, 'infinite' ctx_len, and free sentence embedding.",
-    "topics": [],
-    "officialSite": ""
-  }, {
     "repo": "n3d1117/chatgpt-telegram-bot",
     "desc": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
     "topics": [],
@@ -490,7 +485,7 @@
     "officialSite": ""
   }, {
     "repo": "ymcui/Chinese-LLaMA-Alpaca",
-    "desc": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)",
     "topics": ["nlp", "llama", "quantization", "alpaca", "plm", "pre-trained-language-models", "large-language-models", "llm"],
     "officialSite": "https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki"
   }, {
@@ -1343,5 +1338,65 @@
     "desc": "AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
     "topics": ["python", "intelligence", "automation", "ai", "agi", "openai", "artificial", "llama", "llamacpp", "chromadb", "babyagi", "auto-gpt"],
     "officialSite": "https://agixt.com"
+  }, {
+    "repo": "JiauZhang/DragGAN",
+    "desc": "Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "SevaSk/ecoute",
+    "desc": "Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.",
+    "topics": ["windows", "whisper-ai", "gpt-35-turbo"],
+    "officialSite": "https://github.com/SevaSk/ecoute"
+  }, {
+    "repo": "Zeqiang-Lai/DragGAN",
+    "desc": "Implementation of \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
+    "topics": ["image-editing", "image-generation", "draggan"],
+    "officialSite": ""
+  }, {
+    "repo": "iryna-kondr/scikit-llm",
+    "desc": "Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.",
+    "topics": ["machine-learning", "deep-learning", "scikit-learn", "transformers", "llm", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "kyegomez/tree-of-thoughts",
+    "desc": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%",
+    "topics": ["deep-learning", "prompt", "artificial-intelligence", "multimodal", "gpt4", "prompt-learning", "prompt-tuning", "prompt-engineering", "chatgpt"],
+    "officialSite": "https://discord.gg/qUtxnK2NMf"
+  }, {
+    "repo": "BlinkDL/RWKV-LM",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.",
+    "topics": ["deep-learning", "transformers", "pytorch", "transformer", "lstm", "rnn", "gpt", "language-model", "attention-mechanism", "gpt-2", "gpt-3", "linear-attention", "rwkv", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "jaywalnut310/vits",
+    "desc": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+    "topics": ["text-to-speech", "deep-learning", "pytorch", "tts", "speech-synthesis"],
+    "officialSite": "https://jaywalnut310.github.io/vits-demo/index.html"
+  }, {
+    "repo": "lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/i-Code",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dgtlmoon/changedetection.io",
+    "desc": "The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification",
+    "topics": ["notifications", "pokemon", "monitoring", "self-hosted", "web-scraping", "website-monitor", "url-monitor", "change-alert", "change-detection", "changedetection", "restock", "website-change-monitor", "website-change-tracker", "website-monitoring", "change-monitoring", "website-change-detector", "restock-monitor", "website-change-detection", "website-change-notification", "website-defacement-monitoring"],
+    "officialSite": ""
+  }, {
+    "repo": "google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "topics": ["jax"],
+    "officialSite": "http://jax.readthedocs.io"
+  }, {
+    "repo": "open-mmlab/mmpretrain",
+    "desc": "OpenMMLab Pre-training Toolbox and Benchmark",
+    "topics": ["deep-learning", "pytorch", "image-classification", "resnet", "pretrained-models", "clip", "mae", "mobilenet", "moco", "self-supervised-learning", "constrastive-learning", "beit", "vision-transformer", "swin-transformer", "masked-image-modeling", "convnext"],
+    "officialSite": "https://mmpretrain.readthedocs.io/en/latest"
   }
 ]

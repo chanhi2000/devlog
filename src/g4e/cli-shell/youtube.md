@@ -88,6 +88,9 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ::: details 목록
 
+<YoutubeItem channelName="DistroTube" channelId="DistroTube" id="3cd3slILXEc" title="Stop Updating Your Linux Computer Within The GUI" />
+<YoutubeItem channelName="DistroTube" channelId="DistroTube" id="13gNtgqzzmM" title="Vim Tips And Tricks Some Of My Favorite Vim Commands" />
+<YoutubeItem channelName="DistroTube" channelId="DistroTube" id="ywXVGH-QyMc" title="Give the 'bat' command wings with 'bat-extras'" />
 <YoutubeItem channelName="DistroTube" channelId="DistroTube" id="4G_cthFZeJ8" title="Transform Your Scripts With Bash Simple Curses" />
 <YoutubeItem channelName="DistroTube" channelId="DistroTube" id="fiqKZXQQgpw" title="Write A Script To Search the Arch Wiki (OFFLINE!)" />
 <YoutubeItem channelName="DistroTube" channelId="DistroTube" id="2zT37cVNR1w" title="Essential Linux Commands - `uname`, `hostname`, `basename`, `dirname` &amp; `logname`" />

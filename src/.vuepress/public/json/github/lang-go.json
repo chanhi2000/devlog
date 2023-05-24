@@ -344,5 +344,25 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "adams549659584/go-proxy-bingai",
+    "desc": "⭐ 自行搭建的可先用 ModHeader 添加 X-Forwarded-For 请求头，对应 URL 是 wss://sydney.bing.com/sydney/ChatHub ，暂时可用 ，可参考 https://zhuanlan.zhihu.com/p/606655303 ⭐ 主站服务器转发的，相对直连官网，会卡很多，等后续看看有没有更好的方式，再提交版本更新。",
+    "topics": [],
+    "officialSite": "https://bing.vcanbb.top"
+  }, {
+    "repo": "casbin/casbin",
+    "desc": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
+    "topics": ["go", "identity", "oauth", "saml", "authentication", "iam", "acl", "auth", "authorization", "cas", "permission", "rbac", "sso", "oidc", "access-control", "abac", "authz", "authn", "casbin", "casdoor"],
+    "officialSite": "https://casbin.org"
+  }, {
+    "repo": "sjlleo/nexttrace",
+    "desc": "An open source visual route tracking CLI tool",
+    "topics": ["api", "geolocation", "geoip", "ip-lookup", "traceroute", "as-path", "asn-lookup"],
+    "officialSite": "https://mtr.moe"
+  }, {
+    "repo": "gitleaks/gitleaks",
+    "desc": "Protect and discover secrets using Gitleaks 🔑",
+    "topics": ["git", "go", "golang", "security", "secret", "hacktoberfest", "security-tools", "devsecops", "gitleaks"],
+    "officialSite": "https://gitleaks.io",
   }
 ]

@@ -1,0 +1,58 @@
+[
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "topics": [],
+    "officialSite": "https://neovim.io"
+  }, {
+    "repo": "wbthomason/packer.nvim",
+    "desc": "A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "williamboman/mason.nvim",
+    "desc": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nvim-lua/kickstart.nvim",
+    "desc": "A launch point for your personal nvim configuration",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "folke/lazy.nvim",
+    "desc": "💤 A modern plugin manager for Neovim",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "AstroNvim/AstroNvim",
+    "desc": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "topics": [],
+    "officialSite": "https://astronvim.com"
+  }, {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "topics": [],
+    "officialSite": "https://pathofbuilding.community"
+  }, {
+    "repo": "bfeber/HLA-NoVR",
+    "desc": "NO VR Script for Half-Life: Alyx",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nvim-tree/nvim-web-devicons",
+    "desc": "lua `fork` of vim-web-devicons for neovim",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "lvimuser/lsp-inlayhints.nvim",
+    "desc": "",
+    "topics": ["vim", "neovim", "nvim", "lsp", "nvim-plugin"],
+    "officialSite": ""
+  } 
+]

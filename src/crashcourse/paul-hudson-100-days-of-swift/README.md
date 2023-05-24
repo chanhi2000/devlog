@@ -4,12 +4,12 @@ title: Intro
 description: 🕊️100 Days of Swift 
 tags: ["crashcourse", "swift" , "paul-hudson" , "xcode", "appstore"]
 meta:
-  - name: 100 Days of Swift > Day 1
-    content: Day 1
+  - name: 100 Days of Swift
+    content: 100 Days of Swift
   - property: og:title
-    content: Day 1
+    content: 100 Days of Swift
   - property: og:description
-    content: 100 Days of Swift > Day 1
+    content: 100 Days of Swift
   - property: og:url
     content: https://chanhi2000.github.io/explore/crashcourse/paul-hudson-100-days-of-swift
 ---
@@ -70,20 +70,20 @@ You’ve already read the two rules of these 100 days, but to maximize your chan
 
 ## The Course
 
-### Days 1-12: Introduction to Swift
+### ✅Days 1-12: Introduction to Swift
 
 The first 12 days provide a gentle warm up for your Swift learning. You’ll watch about a selection of one-minute videos every day, and complete short quizzes about each of those videos.
 
-- [Day 1][day-1] – ✅variables, simple data types, and string interpolation
-- [Day 2][day-2] – ✅arrays, dictionaries, sets, and enums
-- [Day 3][day-3] – ✅operators and conditions
-- [Day 4][day-4] – ✅loops, loops, and more loops
-- [Day 5][day-5] – ✅functions, parameters, and errors
-- [Day 6][day-6] – ✅closures part one
-- [Day 7][day-7] – ✅closures part two
-- [Day 8][day-8] – ✅structs, properties, and methods
-- [Day 9][day-9] – ✅access control, static properties, and laziness
-- [Day 10][day-10] – ✅classes and inheritance
+- [Day 1][day-1] – variables, simple data types, and string interpolation
+- [Day 2][day-2] – arrays, dictionaries, sets, and enums
+- [Day 3][day-3] – operators and conditions
+- [Day 4][day-4] – loops, loops, and more loops
+- [Day 5][day-5] – functions, parameters, and errors
+- [Day 6][day-6] – closures part one
+- [Day 7][day-7] – closures part two
+- [Day 8][day-8] – structs, properties, and methods
+- [Day 9][day-9] – access control, static properties, and laziness
+- [Day 10][day-10] – classes and inheritance
 - [Day 11][day-11] – protocols, extensions, and protocol extensions
 - [Day 12][day-12] – optionals, unwrapping, and typecasting
 
@@ -300,8 +300,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-8]: 8.md
 [day-9]: 9.md
 [day-10]: 10.md
-[day-11]: https://www.hackingwithswift.com/100/11
-[day-12]: https://www.hackingwithswift.com/100/12
+[day-11]: 11.md
+[day-12]: 12.md
 [day-13]: https://www.hackingwithswift.com/100/13
 [day-14]: https://www.hackingwithswift.com/100/14
 [day-15]: https://www.hackingwithswift.com/100/15

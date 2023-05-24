@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 💡Tips
-description: 🧢Batch > 💡Tips
+description: 🧢Batchfile > 💡Tips
 tags: ["batch", "bat", "windows", "windows-terminal", "net"]
 ---
 

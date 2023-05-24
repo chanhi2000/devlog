@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🐚Shell > 📚References
+description: 🧢Batchfile > 📚References
 tags: ["bash", "linux", "macos", "terminal", "alias"]
 ---
 
@@ -16,5 +16,7 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 ## How-to Geek
 
 - [How to Look Up Windows Error Codes on the Command Line](https://www.howtogeek.com/857654/how-to-look-up-windows-error-codes-on-the-command-line)
+
+---
 
 <TagLinks />

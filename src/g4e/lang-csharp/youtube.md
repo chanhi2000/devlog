@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: ♯CSharp > 📺Youtube
-tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
+tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -76,20 +76,20 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 [Les Jackson][yu-binarythistle]
 
 ::: details 목록
-
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="es8A7aw6Y5E" title="Publisher Subscriber Pattern - Build your own .NET Message Broker" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="5YB49OEmbbE" title=".NET 6 Minimal API Full Build" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="agIJTnpfFGA" title="Blazor API Client using REST &amp; GraphQL APIs - Full Course" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="HuN94qNwQmM" title="GraphQL API with .NET 5 and Hot Chocolate" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="UsoH5cqE1OA" title="Build an API Gateway with Envoy and use with .NET Core APIs" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="lcaDDxJv260" title="Run ASP.NET Core 3.1 Apps in Docker with HTTPS." />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="ycVgXe6v1VQ" title="Asp.Net Core WebSockets Vs SignalR. Which should you use? \(Full Course\)" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="f0lMGPB10bM" title="Deploy a .NET Core API with Docker \(Step-by-Step\)" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="96KHOaIe19w" title="Custom HTTPS Dev Environment using .NET Core, Kestrel &amp; certificates" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="3PyUjOmuFic" title="Secure a .NET Core API with Bearer Authentication" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="11f5KzVNQ90" title="Step by Step Tutorial - C# REST Client" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="Ff0DoAmpv6w" title="Azure DevOps: Provision API Infrastructure using Terraform - Full Course" />
-<YoutubeItem channelName="Les Jackso" channelId="binarythistle" id="fmvcAzHpsk8" title=".NET Core 3.1 MVC REST API - Full Course" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="DgVjEo3OGBI" title=".NET Microservices – Full Course" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="es8A7aw6Y5E" title="Publisher Subscriber Pattern - Build your own .NET Message Broker" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="5YB49OEmbbE" title=".NET 6 Minimal API Full Build" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="agIJTnpfFGA" title="Blazor API Client using REST &amp; GraphQL APIs - Full Course" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="HuN94qNwQmM" title="GraphQL API with .NET 5 and Hot Chocolate" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="UsoH5cqE1OA" title="Build an API Gateway with Envoy and use with .NET Core APIs" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="lcaDDxJv260" title="Run ASP.NET Core 3.1 Apps in Docker with HTTPS." />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="ycVgXe6v1VQ" title="Asp.Net Core WebSockets Vs SignalR. Which should you use? \(Full Course\)" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="f0lMGPB10bM" title="Deploy a .NET Core API with Docker \(Step-by-Step\)" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="96KHOaIe19w" title="Custom HTTPS Dev Environment using .NET Core, Kestrel &amp; certificates" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="3PyUjOmuFic" title="Secure a .NET Core API with Bearer Authentication" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="11f5KzVNQ90" title="Step by Step Tutorial - C# REST Client" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="Ff0DoAmpv6w" title="Azure DevOps: Provision API Infrastructure using Terraform - Full Course" />
+<YoutubeItem channelName="Les Jackson" channelId="binarythistle" id="fmvcAzHpsk8" title=".NET Core 3.1 MVC REST API - Full Course" />
 
 :::
 
@@ -191,12 +191,54 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 <YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="H_Jd7nss3e8" title="Create proper request/response contract for Swagger" />
 <YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="SzIAGR2oL9Q" title="An Introduction to Amazon SNS with AWS Lambda (Using .NET Core and C#)" />
 <YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="QF1GHqkiiIQ" title="Debugging and Dependency Injection for Blazor WebAssembly (.NET 5.0)" />
-<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="Cm2psU-zN90" title="RabbitMQ Direct Exchange producer/consumer (Part 2, RabbitMQ in .NET Core)" />
+<YoutubeItem channelName="DotNet Ctmpore Central" channelId="DotNetCoreCentral" id="Cm2psU-zN90" title="RabbitMQ Direct Exchange producer/consumer (Part 2, RabbitMQ in .NET Core)" />
 <YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="vWkPdurauaA" title="ASP.NET Core Authentication with JWT  (JSON Web Token)" />
 
 :::
 
 <!-- DotNet Core Central -->
+
+---
+
+## Hassan Habib
+
+[Hassan Habib][yu-hassan-habib]
+
+::: details 목록
+
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="eBrHCGe1KQA" title="OPENAI031: Fine-Tuning Models Services (Part 1)" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="2Joa5iA1AKE" title="Modularizing SDK Service Providers" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="yOgreCMzaUA" title="Generating ASP.NET Pipelines in C#" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="juyZCgF9g2E" title="Upgrading ASP.NET Core API to .NET 6" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="jWIPkpl6Yr0" title="EFS003: Initialize ASP.NET Core Unit Tests" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="qI1vIuGb9lo" title="BLZ007: Base Components" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="YlqTLtqh--4" title="BLZ006: View Services in Blazor \(Validations &amp; Exceptions\)" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="YYqheVfaNIU" title="BLZ003: Services in Blazor \(Validations\)" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="ufjtuAel538" title="Upgrading to .NET 5.0 RC w/ C# 9.0" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="5Htj8JFglb4" title="BLZ001: Introduction to Blazor" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="JQnTpGV-7YA" title="OPENAI000: Getting Started" />
+<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="JEb0BA8CgFk" title="Standardized Provider Abstraction Libraries" />
+
+
+:::
+
+<!-- Hassan Habib -->
+
+---
+
+## Zoran Horvat
+
+[Zoran Horvat][yu-zoran-horvat]
+
+::: details 목록
+
+<YoutubeItem channelName="Zoran Horvat" channelId="zoran-horvat" id="3p93Q6ivbZ4" title="Master the Builder Pattern: The King of Creational Design Patterns in C# | ASP.NET Core Tutorial" />
+<YoutubeItem channelName="Zoran Horvat" channelId="zoran-horvat" id="fzEFgIreHHM" title="Kill Anemic Domain Models with Encapsulation: The Hard Part" />
+<YoutubeItem channelName="Zoran Horvat" channelId="zoran-horvat" id="4rQ0jFmKSgk" title="Are Design Patterns Dead in C#?" />
+
+:::
+
+<!-- Zoran Horvat -->
 
 ---
 
@@ -250,4 +292,6 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 [yu-pet-dander-tutorials]: https://www.youtube.com/@PetDanderTutorials
 [yu-raw-coding]: https://www.youtube.com/@RawCoding
 [yu-dotnet-core-central]: https://www.youtube.com/@DotNetCoreCentral
+[yu-hassan-habib]: https://www.youtube.com/@HassanHabib
 [yu-dotnet]: https://www.youtube.com/@dotnet
+[yu-zoran-horvat]: https://www.youtube.com/@zoran-horvat

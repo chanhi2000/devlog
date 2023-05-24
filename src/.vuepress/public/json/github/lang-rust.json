@@ -304,6 +304,11 @@
         "desc": "Fast and clean SVG badges",
         "topics": ["svg", "badge", "badges", "svg-badge", "badge-generator"],
         "officialSite": "https://badgers.space"
+    }, {
+      "repo": "kamiyaa/joshuto",
+      "desc": "ranger-like terminal file manager written in Rust",
+      "topics": ["linux", "rust", "toml", "clipboard", "concurrency", "tui", "ncurses", "ranger", "file-manager", "hacktoberfest", "termion", "tui-rs", "joshuto"],
+      "officialSite": "https://crates.io/crates/joshuto",
     }
 ]
 

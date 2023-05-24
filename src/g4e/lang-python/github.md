@@ -24,13 +24,22 @@ meta:
 
 ## Python
 
-<MyGithubItems jsonName="gh-lang-python" />
+<MyGithubItems jsonName="lang-python" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-python-tut" />
+
 
 ---
 
 ## Jupyter Notebook
 
-<MyGithubItems jsonName="gh-lang-jupyter-noteook" />
+<MyGithubItems jsonName="lang-jupyter-noteook" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-jupyter-noteook-tut" />
 
 ---
 

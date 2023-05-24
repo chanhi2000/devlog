@@ -914,5 +914,10 @@
     "desc": "Easily manage the brightness of your monitors in Windows from the system tray",
     "topics": ["react", "nodejs", "windows", "reactjs", "windows-10", "brightness", "backlight", "electron-app", "multiple-monitors", "monitors", "brightness-level", "backlight-brightness", "brightness-control", "windows-11", "ddc-ic", "brightness-levels", "brightness-slider"],
     "officialSite": "https://twinkletray.com"
+  }, {
+    "repo": "studio-freight/lenis",
+    "desc": "How smooth scroll should be",
+    "topics": ["scroll", "smooth", "smooth-scroll"],
+    "officialSite": "https://lenis.studiofreight.com",
   }
 ]

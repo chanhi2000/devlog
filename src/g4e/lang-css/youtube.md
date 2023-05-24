@@ -80,22 +80,13 @@ tags: ["education", "youtube", "programming", "css"]
 
 ---
 
-
-
-
-
-
-
-
-
-
-
 ## Online Tutorials
 
 [Online Tutorials][yu-oneline-tutorials]
 
 ::: details 목록
 
+<YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="JViuPwlP1mU" title="Responsive Footer Design Using Html &amp; CSS" />
 <YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="2IwZ52lI2vg" title="Advanced Mini Calendar using Html CSS &amp; Javascript | Mini Project" />
 <YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="TbV8mPee0tQ" title="How to Make Javascript Dynamic Calendar" />
 <YoutubeItem channelName="Online Tutorials" channelId="OnlineTutorialsYT" id="DcpzjQ4jq-Q" title="How To Create Responsive Services Section Using Html and CSS" />
@@ -136,6 +127,10 @@ tags: ["education", "youtube", "programming", "css"]
 
 ---
 
+## Misc
+
+<YoutubeItem channelName="CodeWithFred" channelId="codewithfred" id="28VIB8cqmoY" title="Easy Tailwind CSS Setup" />
+<!-- [CodeWithFred][yu-codewithfred] -->
 
 
 
@@ -144,3 +139,5 @@ tags: ["education", "youtube", "programming", "css"]
 [yu-kevin-powell]: https://www.youtube.com/@KevinPowell
 [yu-oneline-tutorials]: https://www.youtube.com/@OnlineTutorialsYT
 [yu-zero-to-mastery]: https://www.youtube.com/@ZeroToMastery
+<!-- misc -->
+[yu-codewithfred]: https://www.youtube.com/@codewithfred

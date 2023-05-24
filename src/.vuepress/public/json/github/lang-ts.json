@@ -594,5 +594,15 @@
     "desc": "💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",
     "topics": ["react", "boilerplate", "typescript", "eslint", "nextjs", "seo", "starter-template", "starter-kit", "jamstack", "next", "cva", "next-theme", "next-js", "tailwindcss", "javascript-ai", "vercel", "radix-ui", "gpt-4", "chatgpt", "react-enterprise-boilerplate"],
     "officialSite": "https://next-enterprise.vercel.app"
+  }, {
+    "repo": "anse-app/anse",
+    "desc": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
+    "topics": ["openai", "gpt-3", "dall-e", "gpt-4", "stable-diffusion", "chatgpt", "gpt-35-turbo"],
+    "officialSite": "https://anse.app"
+  }, {
+    "repo": "graphql/graphiql",
+    "desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "topics": ["graphql", "vscode", "codemirror", "graphiql", "monaco-editor", "lsp-server", "lsp-mode"],
+    "officialSite": ""
   }
 ]

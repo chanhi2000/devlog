@@ -7,7 +7,7 @@
   }, {
     "repo": "microsoft/PowerToys",
     "desc": "Windows system utilities to maximize productivity ",      
-    "topics": [],
+    "topics": ["windows", "color-picker", "desktop", "keyboard-manager", "powertoys", "fancyzones", "microsoft-powertoys", "powerrename"],
     "officialSite": ""
   }, {
     "repo": "valinet/ExplorerPatcher",

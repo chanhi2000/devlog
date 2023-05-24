@@ -15,7 +15,11 @@ tags: ["powershell", "windows", "windows-terminal", "multiline"]
 
 ## Powershell
 
-<MyGithubItems jsonName="gh-lang-pwsh" />
+<MyGithubItems jsonName="lang-pwsh" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-pwsh-tut" />
 
 ---
 

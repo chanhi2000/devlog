@@ -151,14 +151,18 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 [Software Tool Time][yu-software-tool-time]
 
-::: details [SWTT] Bash 기초편
+::: details 목록
 
+<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="xey6-UGwNhs" title="[SWTT] hibernate Overview" />
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="6cj3oy0RunE" title="[SWTT] Bash 기초편 01 - linux utility 명령과 차이, 기호와 문법" />
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="Y5-1vJwqpN8" title="[SWTT] Bash 기초편 03 - Expansion and Globbing" />
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="kbkZ1g9MXxs" title="[SWTT] Bash 기초편 05 - Redirection" />
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="ZAkgvKHoE40" title="[SWTT] Bash 기초편 06 - Condition and Loop" />
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="bsWR8mKXXvs" title="[SWTT] Bash 기초편 07 - Array, Dictionary, History" />
 <YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="67ffzvK-swk" title="[SWTT] Bash 기초편 08 - 환경설정과 기타 명령" />
+<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="LpfmPrqMeac" title="[SWTT] linux admin 02 - 네트워크설정" />
+<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="81MicTMaYXc" title="[SWTT] linux admin 03 - Virtual web hosting" />
+<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="xeWpQMvoCP4" title="[SWTT] WebGL1.0 Tutorial 05_Lab - Shading Language (한국어,실습)" />
 
 :::
 
@@ -237,6 +241,35 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="4ncFesXz4ug" title="[리눅스 기초 강의] 9강. 3.1.3 Rocky Linux를 텍스트 모드로 Server(B) 가상머신에 설치하기" />
 <YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="vmFyZVgbyEs" title="[리눅스 기초 강의] 10강. 3.1.3 Client 가상머신에 Rocky Linux 설치하기" />
 <YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="m6ZmLOujrS8" title="[리눅스 기초 강의] 11강. 3.2 WinClient 가상머신에 Windows 설치하기" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="zAEhFjaCdcY" title="[리눅스 기초 강의] 37강. 6.2.4 RAID 0, RAID 1, RAID 5 문제 발생" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="tHxCnhob--0" title="[리눅스 기초 강의] 38강. 6.2.4 RAID 0, RAID 1, RAID 5의 원상 복구" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="FBGm6TMP31k" title="[리눅스 기초 강의] 39강. 6.2.5 고급 RAID 구현" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="izPzib7FYBA" title="[리눅스 기초 강의] 40강. 6.2.5 고급 RAID 문제 발생" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="eb2cDW-zXlI" title="[리눅스 기초 강의] 41강. 6.3 LVM(Logical Volume Manage)" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="fJ9jghlWgPk" title="[리눅스 기초 강의] 42강. 6.4 RAID에 리눅스 설치" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="wmoZy1_x9Xo" title="[리눅스 기초 강의] 43강. 6.5 사용자별 공간 할당(쿼터)" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="zLkdb4TCtmM" title="[리눅스 기초 강의] 22강. 4.4 파일의 압축과 검색, 시스템 설정" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="y65jjaUt9-Y" title="[리눅스 기초 강의] 23강. 4.4.6 CRON과 AT" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="yG5h0s1lAr4" title="[리눅스 기초 강의] 24강. 4.5 네트워크 관련 명령어와 SELinux" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="04lQm3td8aY" title="[리눅스 기초 강의] 26강. 4.9 응급 복구와 GRUB 부트로더" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="UNCWsMrRVrs" title="[리눅스 기초 강의] 27강. 3.11 커널 컴파일" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="Li2HNk5kjqg" title="[리눅스 기초 강의] 30강. 5.2 X 윈도 응용 프로그램(VLC, Foxit Reader)" />
+:::
+
+::: details
+
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="gzF8jAM39kA" title="[Windows Server 기초 강의] 46강. 10.1 DNS 서버의 개념과 hosts 파일" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="o6SiTA35dcs" title="[Windows Server 기초 강의] 47강. 10.2 도메인 이름 체계와 캐싱 전용 네임 서버" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="VjQ9R1X1wj8" title="[Windows Server 기초 강의] 48강. 10.2.4 DNS 서버의 역할" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="EqkSVFw1PO4" title="[Windows Server 기초 강의] 49강. 10.2.5 라운드 로빈 방식의 DNS 서버" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="cusrj3kAWo8" title="[Windows Server 기초 강의] 50강. 11.1 E-Mail 서버 작동 개념" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="LOB8lt6n8_o" title="[Windows Server 기초 강의] 51강. 11.2 E-Mail 서버 구축(다음 메일)" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="JAOF3PbYS88" title="[Windows Server 기초 강의] 52강. 11.2 E-Mail 서버 구축(네이버 메일)" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="zluGZ7LBKVU" title="[Windows Server 기초 강의] 54강. 13.1 Windows 배포 서비스(WDS) 개념과 구축" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="nBWqmSXS5ys" title="[Windows Server 기초 강의] 37강. 8.2.3 SQL Server에서 데이터베이스 구축 실습" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="9Tms4Ek0mW4" title="[Windows Server 기초 강의] 38강. 8.2.4 SQL Server와 응용 프로그램의 연결" />
+<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="TXdvlCCZY18" title="[Windows Server 기초 강의] 39강. 8.3 Oracle 데이터베이스" />
+
 
 :::
 
@@ -469,10 +502,10 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 <YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="EFJNxQFXV5s" title="Modern Linux Tools: Command-Line Help" />
 <YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="C4a7jxlMTfo" title="How to Create a systemd Linux Service" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="bju_FdCo42w" title="Linux Sysadmin Basics -- Course Introduction \(Updated for 2022\)" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="bju_FdCo42w" title="Linux Sysadmin Basics -- Course Introduction (Updated for 2022)" />
 <YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="BHhA_ZKjyxo" title="Basic `tmux` Tutorial - Windows, Panes, and Sessions over SSH" />
 <YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="4beEybPzYqQ" title="Step-by-Step WordPress Setup on Linux, Nginx, MySQL, and PHP/php-fpm" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="V8EUdia_kOE" title="My 5 Favorite Linux Shell Tricks for SPEEEEEED \(and efficiency\)" />
+<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="V8EUdia_kOE" title="My 5 Favorite Linux Shell Tricks for SPEEEEEED (and efficiency)" />
 <YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="o9-Y6aKW4sI" title="Terraform Basics 4: Automatically Configure Load-Balanced Web Servers" />
 
 :::
@@ -523,6 +556,22 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 :::
 
 <!-- Brodie Robertson -->
+
+---
+
+## RobertElderSoftware
+
+[RobertElderSoftware][yu-robert-elder-software]
+
+::: details 목록
+
+<YoutubeItem channelName="RobertElderSoftware" channelId="RobertElderSoftware" id="xl8zXcPJTvg" title="The 'base32' Command In Linux" />
+<YoutubeItem channelName="RobertElderSoftware" channelId="RobertElderSoftware" id="JFEkgZWCPrI" title="The 'vdir' Command In Linux" />
+<YoutubeItem channelName="RobertElderSoftware" channelId="RobertElderSoftware" id="c94bALAgENM" title="The Missile Knows Where It Is, But It's Actually A Javascript Tutorial" />
+
+:::
+
+<!-- RobertElderSoftware -->
 
 ---
 
@@ -582,4 +631,5 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 [yu-tutoriaLinux]: https://www.youtube.com/@tutoriaLinux
 [yu-vmware-tanzu]: https://www.youtube.com/@VMwareTanzu
 [yu-brodie-robertson]: https://www.youtube.com/@BrodieRobertson
+[u-robert-elder-software]: https://wwww.youtube.com/@RobertElderSoftware
 [yu-packt]: https://www.youtube.com/@OfficialPackt

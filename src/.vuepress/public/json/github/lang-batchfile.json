@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Atlas-OS/Atlas",
+    "desc": "🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.",
+    "topics": ["windows", "open-source", "security", "performance", "privacy", "gaming", "fps", "latency", "tweaks", "atlas", "debloat"],
+    "officialSite": "https://atlasos.net"
+  }
+]

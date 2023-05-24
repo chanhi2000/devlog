@@ -54,12 +54,30 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 <YoutubeItem channelName="Houssem Dellai" channelId="HoussemDellai" id="woZGH0lg1ns" title="Azure DevOps CLI" />
 <YoutubeItem channelName="Houssem Dellai" channelId="HoussemDellai" id="kPDy7Nb32e4" title="Custom domains using Kubernetes CoreDNS" />
 
-
 :::
 
 <!-- Houssem Dellai -->
 
 ---
+
+
+## Daniel Oh
+
+[Daniel Oh][yu-danieloh30]
+
+::: details 목록
+
+<YoutubeItem channelName="Daniel Oh" channelId="danieloh30" id="ca121MFZalw" title="DaemonSet - ☸️ Learn by Example 【6】" />
+<YoutubeItem channelName="Daniel Oh" channelId="danieloh30" id="ak9R9-E_0_k" title="Managing Secrets - ☸️ Learn by Example 【7】" />
+<YoutubeItem channelName="Daniel Oh" channelId="danieloh30" id="AxLFXk9fIjQ" title="Persistent Volumes - ☸️ Learn by Example 【9】" />
+
+:::
+
+<!-- Daniel Oh -->
+
+---
+
+
 
 ## networknutsdotnet
 
@@ -118,6 +136,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ::: details 목록
 
+<YoutubeItem channelName="ByteByteGo" channelId="ByteByteGo" id="4NB0NDtOwIQ" title="Proxy vs Reverse Proxy (Real-world Examples)" />
+<YoutubeItem channelName="ByteByteGo" channelId="ByteByteGo" id="ouipSd_5ivQ" title="10 Key Data Structures We Use Every Day" />
+<YoutubeItem channelName="ByteByteGo" channelId="ByteByteGo" id="O1cRJWYF-g4" title="What Is Single Sign-on (SSO)? How It Works" />
+<YoutubeItem channelName="ByteByteGo" channelId="ByteByteGo" id="dGAgxozNWFE" title="Cache Systems Every Developer Should Know" />
 <YoutubeItem channelName="ByteByteGo" channelId="ByteByteGo" id="TlHvYWVUZyc" title="Kubernetes Explained in 6 Minutes \| k8s Architecture" />
 
 :::
@@ -130,6 +152,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 [yu-dev-ops-toolkit]: https://www.youtube.com/@DevOpsToolkit
 [yu-houssem-dellai]: https://www.youtube.com/@HoussemDellai
+[yu-danieloh30]: https://www.youtube.com/@danieloh30
 [yu-networknutsdotnet]: https://www.youtube.com/@networknutsdotnet
 [yu-cbtnuggets]: https://www.youtube.com/@cbtnuggets
 [yu-vBrownBag]: https://www.youtube.com/@vBrownBag

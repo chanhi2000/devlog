@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "bobbyiliev/introduction-to-bash-scripting",
+    "desc": "Free Introduction to Bash Scripting eBook",
+    "topics": [],
+    "officialSite": "https://ebook.bobby.sh"
+  }, {
+    "repo": "jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "topics": [],
+    "officialSite": ""
+  }  
+]

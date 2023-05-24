@@ -24,7 +24,11 @@ meta:
 
 ## C\#
 
-<MyGithubItems jsonName="gh-lang-csharp" />
+<MyGithubItems jsonName="lang-csharp" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-csharp-tut" />
 
 ---
 

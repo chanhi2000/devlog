@@ -239,6 +239,11 @@
     "desc": "Create Generative Agent simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior",
     "topics": ["generative-agents"],
     "officialSite": "https://nickm980.github.io/smallville"
+  }, {
+    "repo": "OpenAPITools/openapi-generator",
+    "desc": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+    "topics": ["api", "sdk", "rest", "generator", "rest-api", "openapi", "api-client", "api-server", "restful-api", "hacktoberfest", "rest-client", "openapi3", "openapi-generator"],
+    "officialSite": "https://openapi-generator.tech",
   }
 ]
 

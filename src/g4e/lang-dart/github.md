@@ -15,7 +15,11 @@ tags: ["dart", "flutter"]
 
 ## Dart
 
-<MyGithubItems jsonName="gh-lang-dart" />
+<MyGithubItems jsonName="lang-dart" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-dart-tut" />
 
 ---
 

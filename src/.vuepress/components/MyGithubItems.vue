@@ -53,7 +53,7 @@
           return;
         }
         
-        const res = await fetch(`/json/${jsonName}.json`);
+        const res = await fetch(`/json/github/${jsonName}.json`);
         const fetchedItems = await res.json();
         
         const GITHUB_BASE_URL = "https://github.com";

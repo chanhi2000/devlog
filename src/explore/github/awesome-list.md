@@ -15,7 +15,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 
 ## General
 
-<MyGithubItems jsonName="gh-awesome-list" />
+<MyGithubItems jsonName="awesome-list" />
 
 ---
 

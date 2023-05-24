@@ -143,42 +143,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
-## notJust.dev
-
-[![notJust.dev](https://yt3.googleusercontent.com/Tr9LSWwMBLv3rnJKAMjef-jhFPjz-JNUl8JR31DvQnYdp2eufTNl9K1Z_rFZarrtCDDqpix90MI=s176-c-k-c0x00ffffff-no-rj =x150)][yu-notjustdev]
-
-::: details 목록
-
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="sQx38wrzvuk" title="notJust Hack - Kickstart!" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-qAhg4EDIwQ" title="Let's build a Books App with React Native (tutorial for beginners) 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="m4NIOzDxHxE" title="Let's build Ping-Pong in React Native (Dynamic Island) 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="fWHiSuz-V68" title="Gesture Handler tutorial in React Native" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="pqQGU-JsD7k" title="Let's build WhatsApp with React Native and AWS Amplify [p4] 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="JcVt63qAt4o" title="FlatList Animations in React Native with Reanimated 2" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="8psijC5ezkc" title="Let's build WhatsApp with React Native and AWS Amplify [p2] 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="H9qTNjWV2ls" title="Let's build iOS 16 in React Native 🤔" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="onGpjt4mQdE" title="Animated Login Form in React Native (#2 Animations)" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="NzZvrlFBuig" title="Building a Startup with React Native and AWS Amplify (part 3)" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="AJBOV5btvaU" title="Let's code the notJust.dev blog platform with NextJS" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="INLnagMFShw" title="Virtual Events App [React Native | Nhost]" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-m-4_DRLmrc" title="Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="WFo_IxhBxF4" title="Build a full stack UBER EATS clone - 2/5 Days Challenge  🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="4gX2V1IN6Ro" title="Let's build a Pinterest clone with React Native and NHost 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="xuBB-k6jAqo" title="Let's build a CRYPTO Price Tracker with React Native (p.2)🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="iQ_0Fd_N3Mk" title="🔴Build your first App in React Native in under 2 hours [ Tutorial for beginners ]" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="EvSUJ5lUcBw" title="Build a Realtime Chat App in React Native (tutorial for beginners) 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="OfKVpG8KLhY" title="Building Beautiful Animations with React Native Reanimated 3" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="UzdN1Xj8iq8" title="Build Your First App: Tesla Clone with React Native (Tutorial for Beginners)" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="5WNoynmnEAs" title="A Beginner's Guide to 3D Animations in React Native with three.js" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="50bIefoMo3c" title="Integrating Stripe Payments in your E-commerce React Native App" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="Gvxv6JCabA8" title="Building the Ultimate Nike App in React Native &amp; Redux" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="FD-pVEzugaU" title="Building the OnlyFans Clone with React Native (Beginner Tutorial)" />
-
-:::
-
-<!-- notJust.dev -->
-
----
 
 ## CodingNepal
 
@@ -468,6 +432,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="AIx2pOvAjSc" title="Building A Billion Dollar App Live With JavaScript and AWS Amplify-  Questions and Answers" />
 <YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="qrU0_VYMYOg" title="Build A Web3 Domain Name Service With Vue.js, Solidity and Hardhat!" />
 <YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="IFXjm_fmNr8" title="Create A Vue.js 3 Full Stack Application With Amplify, GraphQL, Auth and More! #teamseas" />
 <YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="hcg1Uco3Ojs" title="Learn The New Notion API in 35 Minutes | Create A Random Quote Generator With Notion API and Fastify" />
@@ -639,6 +604,8 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="ggOAA_lNKII" title="Guess The Number Game | Javascript Game" />
+<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="XGaOpDYQSQ8" title="Stopwatch Using Javascript | With Free Source Code" />
 <YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="2yLPoF8y5eI" title="Detect If The User Is Idle | Javascript Project With Source Code" />
 <YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="js7JO8y_vmk" title="The Trending Submit Button | Javascript Project" />
 <YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="kApdKJc-j8U" title="CSS Cup Animation | CSS Animation Tutorial" />
@@ -1020,6 +987,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="akrQr15iBt4" title="Let's Build a Game in JavaScript" />
 <YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="mw5YuPw6A1c" title="Backend development for frontend engineers" />
 <YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="-g2Dat7z2WQ" title="Webinar: Angular patterns &amp; best practices with John Papa" />
 <YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="mhFPVhNNI3Y" title="Let's Build a Game in JavaScript! All Hands on Tech Live" />
@@ -1770,6 +1738,97 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Frontend Masters
+
+[Frontend Masters][yu-frontend-masters]
+
+::: details 목록
+
+<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="hcK3N_Y3hzM" title="Rust for TypeScript Developers by ThePrimeagen | Preview" />
+<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="Us2JP01aNFE" title="Polyglot Programming: TypeScript, Go, &amp; Rust by ThePrimeagen | Preview" />
+<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="Lwr3-doAgaI" title="The Last Algorithms Course You'll Need by ThePrimeagen \| Preview" />
+
+:::
+
+<!-- Frontend Masters -->
+
+---
+
+
+## Josh tried coding
+
+[Josh tried coding][yu-joshtriedcoding]
+
+::: details 목록
+
+<YoutubeItem channelName="Josh tried coding" channelId="joshtriedcoding" id="Sbl04kOL1dM" title="NextJS App Router: Learn Modern Web Development in 1 Hour" />
+<YoutubeItem channelName="Josh tried coding" channelId="joshtriedcoding" id="elvwguckWjQ" title="This Open-Source NextJS Project is a Game-Changer" />
+
+:::
+
+<!-- Josh tried coding -->
+
+---
+
+## The Net Ninja
+
+[The Net Ninja][yu-net-ninja]
+
+::: details 목록
+
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="kVzw_f7TfCE" title="React Testing Library Tutorial #9 - Describe Block" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="0Y11K7KSC80" title="React Testing Library Tutorial #10 - Fire Events" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="tit8PecSH70" title="React Testing Library Tutorial #2 - The Importance of Testing" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="iBUJVy8phqw" title="Redux Tutorial \(with Redux Toolkit\)" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="bc6czIBLKTg" title="Vue JS 3 Tutorial for Beginners #6 - Build a Reaction Timer Game" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="vYBc7Le5G6s" title="Infinite Scroll Pagination Tutorial with Firestore \(part 1\)" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="mR6kNv83or0" title="Bulma Tutorial \(Product Page Build\) #15 - Adding a Footer" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="sfA3NWDBPZ4" title="Flutter &amp; Firebase App Tutorial #1 - Introduction" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="CpC5MTKAuwI" title="Deno Tutorial #2 - Files, Fetch &amp; Permissions" />
+
+:::
+
+<!-- The Net Ninja -->
+
+---
+
+## notJust.dev
+
+[notJust.dev][yu-notjustdev]
+
+::: details 목록
+
+<YoutubeItem channelName="notJust․dev" channelId="notjustdev" id="48UTHmf_Tp0" title="Connecting Twitter's Frontend to Backend using node.js and React Native" />
+<YoutubeItem channelName="notJust․dev" channelId="notjustdev" id="mABcyifdsww" title="Building the Twitter Backend with Node.js: A Step-by-Step Guide" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="sQx38wrzvuk" title="notJust Hack - Kickstart!" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-qAhg4EDIwQ" title="Let's build a Books App with React Native (tutorial for beginners) 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="m4NIOzDxHxE" title="Let's build Ping-Pong in React Native (Dynamic Island) 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="fWHiSuz-V68" title="Gesture Handler tutorial in React Native" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="pqQGU-JsD7k" title="Let's build WhatsApp with React Native and AWS Amplify [p4] 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="JcVt63qAt4o" title="FlatList Animations in React Native with Reanimated 2" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="8psijC5ezkc" title="Let's build WhatsApp with React Native and AWS Amplify [p2] 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="H9qTNjWV2ls" title="Let's build iOS 16 in React Native 🤔" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="onGpjt4mQdE" title="Animated Login Form in React Native (#2 Animations)" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="NzZvrlFBuig" title="Building a Startup with React Native and AWS Amplify (part 3)" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="AJBOV5btvaU" title="Let's code the notJust.dev blog platform with NextJS" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="INLnagMFShw" title="Virtual Events App [React Native | Nhost]" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-m-4_DRLmrc" title="Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="WFo_IxhBxF4" title="Build a full stack UBER EATS clone - 2/5 Days Challenge  🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="4gX2V1IN6Ro" title="Let's build a Pinterest clone with React Native and NHost 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="xuBB-k6jAqo" title="Let's build a CRYPTO Price Tracker with React Native (p.2)🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="iQ_0Fd_N3Mk" title="🔴Build your first App in React Native in under 2 hours [ Tutorial for beginners ]" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="EvSUJ5lUcBw" title="Build a Realtime Chat App in React Native (tutorial for beginners) 🔴" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="OfKVpG8KLhY" title="Building Beautiful Animations with React Native Reanimated 3" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="UzdN1Xj8iq8" title="Build Your First App: Tesla Clone with React Native (Tutorial for Beginners)" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="5WNoynmnEAs" title="A Beginner's Guide to 3D Animations in React Native with three.js" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="50bIefoMo3c" title="Integrating Stripe Payments in your E-commerce React Native App" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="Gvxv6JCabA8" title="Building the Ultimate Nike App in React Native &amp; Redux" />
+<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="FD-pVEzugaU" title="Building the OnlyFans Clone with React Native (Beginner Tutorial)" />
+:::
+
+<!-- notJust.dev -->
+
+---
 
 ## Misc
 
@@ -1777,18 +1836,18 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="Tim Ermilov" channelId="TimErmilov" id="txjFB0Z0prU" title="Building products with javascript - Part 6 - Docker and Gitlab CI" />
 <YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />
 <YoutubeItem channelName="arahansa me" channelId="arahansame9320" id="0kEcPVUnaHA" title="초보 프론트엔드 시작해보기 -  Angular.js 댓글달기" />
+<YoutubeItem channelName="5분개발지식" channelId="user-sq7il2ir1e" id="E2HSpcN-ir4" title="협업 필수 yarn.lock /  package-lock.json" />
 
 <!-- [Tim Ermilov][yu-tim-ermilov] -->
 <!-- [Daniel Bark][yu-danielbark] -->
 <!-- [arahansa me][yu-arahansame9320] -->
-
+<!-- [5분개발지식][user-sq7il2ir1e] -->
 
 <TagLinks />
 
 [yu-bawad]: https://www.youtube.com/@bawad
 [yu-sonny-sangha]: https://www.youtube.com/@SonnySangha
 [yu-clever-programmer]:https://www.youtube.com/@CleverProgrammer
-[yu-notjustdev]: https://www.youtube.com/@notjustdev
 [yu-coding-nepal]: https://www.youtube.com/@CodingNepal
 [yu-lama-dev]: https://www.youtube.com/@LamaDev
 [yu-james-q-quick]: https://www.youtube.com/@JamesQQuick
@@ -1858,6 +1917,10 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-chrome-devs]: https://www.youtube.com/@ChromeDevs
 [yu-dream-coding]: https://www.youtube.com/@dream-coding
 [yu-t3-dot-gg]: https://www.youtube.com/@t3dotgg
+[yu-frontend-masters]: https://www.youtube.com/@FrontendMasters
+[yu-joshtriedcoding]: https://www.youtube.com/@joshtriedcoding
+[yu-net-ninja]: https://www.youtube.com/@NetNinja
+[yu-notjustdev]: https://www.youtube.com/@notjustdev
 <!-- Misc -->
 [yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
 [yu-danielbark]: https://www.youtube.com/@danielbark

@@ -1,0 +1,93 @@
+[
+  {
+    "repo": "gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "topics": [],
+    "officialSite": "https://gto76.github.io/python-cheatsheet"
+  }, {
+    "repo": "jackfrued/Python-Core-50-Courses",
+    "desc": "Python语言基础50课",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Asabeneh/30-Days-Of-Python",
+    "desc": "About 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "vopani/jaxton",
+    "desc": "100 exercises to learn JAX",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Jdsleppy/django-orm-cheatsheet",
+    "desc": "A cheatsheet for the Django ORM",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mrdbourke/pytorch-deep-learning",
+    "desc": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+    "topics": [],
+    "officialSite": "https://learnpytorch.io"
+  }, {
+    "repo": "mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "topics": ["python", "design", "development", "programming", "web", "system", "design-patterns", "interview", "web-application", "webapp", "interview-practice", "interview-questions", "design-system"],
+    "officialSite": ""
+  }, {
+    "repo": "huggingface/diffusion-models-class",
+    "desc": "Materials for the Hugging Face Diffusion Models Course",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Azure-Samples/azure-search-openai-demo",
+    "desc": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
+    "topics": ["azure", "openai", "azurecognitivesearch", "azd-templates", "chatgpt", "azureopenai"],
+    "officialSite": "https://azure.microsoft.com/products/search"
+  }, {
+    "repo": "TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "topics": [],
+    "officialSite": "https://the-algorithms.com"
+  }, {
+    "repo": "acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "SkalskiP/courses",
+    "desc": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/DeepSpeedExamples",
+    "desc": "Example models using DeepSpeed",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "danielgross/LlamaAcademy",
+    "desc": "A school for camelids",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "lizrice/ebpf-beginners",
+    "desc": "The beginner's guide to eBPF",
+    "topics": [],
+    "officialSite": ""
+  }
+]

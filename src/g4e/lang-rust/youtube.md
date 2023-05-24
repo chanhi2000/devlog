@@ -51,6 +51,24 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+
+## The Dev Method
+
+[The Dev Method][yu-the-dev-method]
+
+::: details 목록
+
+<YoutubeItem channelName="The Dev Method" channelId="TheDevMethod" id="dGjuAFxvXnU" title="Rust: Shared-State Concurrency" />
+<YoutubeItem channelName="The Dev Method" channelId="TheDevMethod" id="QZKWEEO-Uoo" title="Rust: Starting a Workspace" />
+<YoutubeItem channelName="The Dev Method" channelId="TheDevMethod" id="9yMRRxR8kIQ" title="Rust: RefCell" />
+<YoutubeItem channelName="The Dev Method" channelId="TheDevMethod" id="UKPpGaqk3ik" title="Rust: Deref Trait" />
+
+:::
+
+<!-- The Dev Method -->
+
+---
+
 ## Akhil Sharma
 
 [Akhil Sharma][yu-akhil-sharma-tech]
@@ -126,14 +144,18 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ## Misc
 
+<YoutubeItem channelName="Tokyo Rust Meetup" channelId="tokyorustmeetup" id="x7LQevYn7d0" title="Building Embedded Systems With Rust" />
+<!-- [Tokyo Rust Meetup][yu-tokyo-rust-meetup] -->
 
 <TagLinks />
 
 [yu-chris-biscardi]: https://www.youtube.com/@chrisbiscard
 [yu-codetothemoon]: https://www.youtube.com/@codetothemoon
 [yu-akhil-sharma-tech]: https://www.youtube.com/@AkhilSharmaTech
+[yu-the-dev-method]: https://www.youtube.com/@TheDevMethod
 [yu-no-boilerplate]: https://www.youtube.com/@NoBoilerplate
 [yu-mahdimirzadeh]: https://www.youtube.com/@mahdimirzadeh
 [yu-yishn]: https://www.youtube.com/@yishn
 [yu-jamesquigley1713]: https://www.youtube.com/@jamesquigley1713
-
+<!-- Misc -->
+[yu-tokyo-rust-meetup]: https://www.youtube.com/@tokyorustmeetup

@@ -1196,6 +1196,23 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
+## InfoGrab
+
+[InfoGrab][yu-infograb]
+
+::: details 목록
+
+<YoutubeItem channelName="InfoGrab" channelId="infograb" id="J5KRkGgj6r8" title="GitLab Korea Meetup with 인포그랩 4탄 - 오픈소스 옵저버빌리티툴 시그노즈 실전 데모 영상!" />
+<YoutubeItem channelName="InfoGrab" channelId="infograb" id="kdtOmNSlzUU" title="Gitlab을 활용한 금융권 DevSecOps 구축사례 - 인포그랩" />
+<YoutubeItem channelName="InfoGrab" channelId="infograb" id="y61AAaI5Dtw" title="인포그랩 Plumber beta로 GitLab CI/CD 밀키트처럼 만들기" />
+<YoutubeItem channelName="InfoGrab" channelId="infograb" id="4vFkyY86FBY" title="GitLab Korea Meetup with 인포그랩 1탄 - 오픈소스로 시작하는 옵저버빌리티, 왜 옵저버빌리티일까" />
+
+:::
+
+<!-- InfoGrab -->
+
+---
+
 ## Misc.
 
 <YoutubeItem channelName="BeJS" channelId="BeJS" id="Dekv3CBy_b0" title="Be Qwik don't ship javascript - Antoine Pairet" />
@@ -1263,3 +1280,4 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [yu-cpp-con]: https://www.youtube.com/@CppCon
 [yu-qiskit]: https://www.youtube.com/@qiskit
 [yu-hackaday]: https://www.youtube.com/@hackaday
+[yu-infograb]: https://www.youtube.com/@infograb

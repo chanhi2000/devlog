@@ -15,18 +15,19 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-shell/basics.md',
         '/g4e/cli-shell/tips.md',
         '/g4e/cli-shell/troubleshooting.md',
-        '/g4e/cli-shell/references.md',
+        '/g4e/cli-shell/references.md',        
+        '/g4e/cli-shell/github.md',
         '/g4e/cli-shell/youtube.md',
       ]
     }, {
-      text: '🧢Batch (Windows)',
+      text: '🧢Batchfile (Windows)',
       collapsible: true,
       children: [
-        '/g4e/cli-batch/README.md',
-        '/g4e/cli-batch/basics.md',
-        '/g4e/cli-batch/tips.md',
-        '/g4e/cli-batch/references.md',
-
+        '/g4e/cli-batchfile/README.md',
+        '/g4e/cli-batchfile/basics.md',
+        '/g4e/cli-batchfile/tips.md',
+        '/g4e/cli-batchfile/references.md',
+        '/g4e/cli-batchfile/github.md',
       ]
     }, {
       text: '🧙‍♂️Powershell',
@@ -34,8 +35,8 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/cli-pwsh/README.md',
         '/g4e/cli-pwsh/basics.md',
-        '/g4e/cli-pwsh/github.md',
         '/g4e/cli-pwsh/references.md',
+        '/g4e/cli-pwsh/github.md',
         '/g4e/cli-pwsh/youtube.md',
       ]
     }, {
@@ -73,7 +74,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/spring.md',
         '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',
-        '/g4e/lang-java/references.md',
+        '/g4e/lang-java/references.md',        
         '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
       ]
@@ -147,6 +148,16 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-rust/github.md',
         '/g4e/lang-rust/youtube.md',
       ]
+    }, 
+    {
+      text: '🪐Lua',
+      collapsible: true,
+      children: [
+        '/g4e/lang-lua/README.md',
+        '/g4e/lang-lua/references.md',
+        '/g4e/lang-lua/github.md',
+        '/g4e/lang-lua/youtube.md',
+      ]
     }, {
       text: '♯CSharp',
       collapsible: true,
@@ -174,6 +185,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-dart/references.md',
         '/g4e/lang-dart/github.md',
         '/g4e/lang-dart/youtube.md',
+      ]
+    }, {
+      text: '⛵php',
+      collapsible: true,
+      children: [
+        '/g4e/lang-php/README.md',
+        '/g4e/lang-php/github.md',
+        '/g4e/lang-php/youtube.md',
       ]
     }, {
       text: '🦕C',
@@ -580,12 +599,16 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/7.md',
         '/crashcourse/paul-hudson-100-days-of-swift/8.md',
         '/crashcourse/paul-hudson-100-days-of-swift/9.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/10.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/11.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/12.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
       collapsible: true,
       children: [
         '/crashcourse/paul-hudson-100-days-of-swiftui/README.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/1.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -615,6 +638,20 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/freecodecamp-gitlab-ci/3.md',
         '/crashcourse/freecodecamp-gitlab-ci/4.md',
         '/crashcourse/freecodecamp-gitlab-ci/5.md',
+      ]
+    }, {
+      text: '🐧Linux Journey',
+      collapsible: true,
+      children: [
+        '/crashcourse/linux-journey/README.md',
+        '/crashcourse/linux-journey/01-grasshopper/01a-getting-started.md',
+        '/crashcourse/linux-journey/01-grasshopper/01b-command-line.md',
+        '/crashcourse/linux-journey/01-grasshopper/01c-text-fu.md',
+        '/crashcourse/linux-journey/01-grasshopper/01d-advanced-text-fu.md',
+        '/crashcourse/linux-journey/01-grasshopper/01e-user-management.md',
+        '/crashcourse/linux-journey/01-grasshopper/01f-permissions.md',
+        '/crashcourse/linux-journey/01-grasshopper/01g-processes.md',
+        '/crashcourse/linux-journey/01-grasshopper/01h-packages.md'
       ]
     }
   ]

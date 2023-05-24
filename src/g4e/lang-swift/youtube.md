@@ -802,6 +802,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="04Sa3TBOYnw" title="React Native CLI vs Expo" />
 <YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="8_b-6djCRrc" title="iOS Tutorial - In App Purchase with Adapty" />
 <YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="qrwKeS4r0_U" title="REACT NATIVE TUTORIAL - Teleprompter in TypeScript" />
 <YoutubeItem channelName="Tom Baranowicz" channelId="TomBaranowicz" id="Bk90lT6ne3g" title="Spotify API in JavaScript Tutorial - Playlist Export" />
@@ -841,15 +842,15 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="KSuM2BpMxxU" title="Learn how to refine your requirements like senior iOS devs \| ED Clips" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="KSuM2BpMxxU" title="Learn how to refine your requirements like senior iOS devs | ED Clips" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="5DqBqSc3mes" title="iOS DEV: How to test the API Service?" />
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="HIsECG5s4DU" title="How senior iOS devs profile and solve performance issues with Instruments.app \| Live Dev Mentoring" />
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="huC8ppNPZyM" title="iOS DEV: How to enable testability with Dependency Injection? \| ED Clips" />
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="kXokwXxTd-o" title="Developing Modular and Independently Deployable iOS app features \| iOS Dev Live Mentoring" />
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="TtdtbMd5-TQ" title="Scaling iOS projects & Learning advanced practices alone \(TDD/CI/CD\) \| iOS Dev Live Mentoring" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="HIsECG5s4DU" title="How senior iOS devs profile and solve performance issues with Instruments.app | Live Dev Mentoring" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="huC8ppNPZyM" title="iOS DEV: How to enable testability with Dependency Injection? | ED Clips" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="kXokwXxTd-o" title="Developing Modular and Independently Deployable iOS app features | iOS Dev Live Mentoring" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="TtdtbMd5-TQ" title="Scaling iOS projects & Learning advanced practices alone (TDD/CI/CD) | iOS Dev Live Mentoring" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="UpduAlWLliU" title="XCTest + Swift: setUp/tearDown vs Factory Methods" />
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8mWeUnJ3X7U" title="S02E19: Migrating the Router and iOS AppDelegate \| Professional iOS Engineering Series" />
-<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8GPWh774HUM" title="TDD: Ultimate productivity, high salary, and a remarkable career \| iOS Lead Essentials Podcast #009" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8mWeUnJ3X7U" title="S02E19: Migrating the Router and iOS AppDelegate | Professional iOS Engineering Series" />
+<YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="8GPWh774HUM" title="TDD: Ultimate productivity, high salary, and a remarkable career | iOS Lead Essentials Podcast #009" />
 <YoutubeItem channelName="Essential Developer" channelId="EssentialDeveloper" id="E0_3uTdCVew" title="Decomposing Swift code into modules – Intro to modular design" />
 
 :::
@@ -921,8 +922,8 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="7F6tKPkK4jA" title="SwiftUI: Custom Rows without Separators! Beta Bugs Uncut \| iOS, Swift" />
-<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="hk-bnCVgsww" title="SwiftUI: How to resize an Image — in 60 seconds \| iOS" />
+<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="7F6tKPkK4jA" title="SwiftUI: Custom Rows without Separators! Beta Bugs Uncut | iOS, Swift" />
+<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="hk-bnCVgsww" title="SwiftUI: How to resize an Image — in 60 seconds | iOS" />
 
 :::
 
@@ -930,7 +931,55 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## Coding With Usman
 
+[Coding With Usman][yu-codingwithusman7]
+
+::: details 목록
+
+<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="DTXjLtAg9j8" title="API Integration (All HTTP methods) using URLSession - SwiftUI 2.0" />
+<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="jYrj0mDOFsA" title="How to Create Music App UI | SwiftUI" />
+<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="_N4lxebmJ2U" title="How to create CUSTOM TABBAR (simple to advanced) using swift 5" />
+<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="jW_caTrNTo4" title="[Swift 5] How to Use MVVM (Model View ViewModel) - 2020" />
+
+:::
+
+<!-- Coding With Usman -->
+
+---
+
+## KtrKathir
+
+[KtrKathir][yu-ktr-kathir]
+
+::: details 목록
+
+<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="Y3wtMk5PrQs" title="How to implement SearchBar in List #swiftui #ios  #Xcode @KtrKathir" />
+<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="57bg7STC4Kg" title="How to find UDID, serial number, IMEI number of iPhone or iPad without Mac or iTunes | KtrKathir" />
+<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="ERyBAGw_tcE" title="Download Image from URL using SDWebImage | Xcode 11 | Swift 5.2.4 | KtrKathir" />
+<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="9MAOWzWEjHo" title="What is @escaping closures? How and Where to use? | Xcode 11 | Swift 5.2.4 | KtrKathir" />
+<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="vxu1U9j2gWI" title="Local Notification with attachments | Xcode 11 | Swift 5.2.4 | KtrKathir" />
+
+:::
+
+<!-- KtrKathir -->
+
+---
+
+## Cocoacasts
+
+[Cocoacasts][yu-cocoacasts]
+
+::: details 목록
+
+<YoutubeItem channelName="Cocoacasts" channelId="Cocoacasts" id="t1_MtL9sRro" title="Building a Modern Networking Layer in Swift: Creating an API Client" />
+<YoutubeItem channelName="Cocoacasts" channelId="Cocoacasts" id="DtQ_IhSQT5M" title="Understanding Swift Memory Management: What Is Automatic Reference Counting (ARC)" />
+
+:::
+
+<!-- Cocoacasts -->
+
+---
 
 
 
@@ -938,11 +987,13 @@ tags: ["education", "youtube", "ios", "swift"]
 
 <!-- [Learn to Code with Karoly Nyisztor][yu-learn-to-code-w-karoly-nyisztor] -->
 <!-- [The Swift Guy][yu-the-swift-guy] -->
+<!-- [Gary Tokman][yu-fgary] -->
 
 <YoutubeItem channelName="Learn to Code with Karoly Nyisztor" channelId="SwiftProgrammingTutorials" id="LdIib-SrOmk" title="Here's How to Construct a Swift Type from a String" />
 <YoutubeItem channelName="AUC_ANZ" channelId="auc_anz" id="vWnst6Il4Lk" title="macOS Security for MacAdmins - Marcus Ransom (X World 2023)" />
 <YoutubeItem channelName="AUC_ANZ" channelId="auc_anz" id="nU4BZ9vtmTc" title="Introduction to Promises in Swift (/dev/world/2017)" />
-<YoutubeItem channelName="The Swift Guy" channelId="SebastianHenry" id="asB8PIveZsI" title="How To Read/Write To A Text File In Xcode 11 \(Swift 5\)" />
+<YoutubeItem channelName="The Swift Guy" channelId="SebastianHenry" id="asB8PIveZsI" title="How To Read/Write To A Text File In Xcode 11 (Swift 5)" />
+<YoutubeItem channelName="Gary Tokman" channelId="fgary" id="-DSdeMlxlis" title="Making a billion dollar app in SwiftUI (tutorial) | Restaurant App Tutorial" />
 
 ---
 
@@ -982,7 +1033,10 @@ tags: ["education", "youtube", "ios", "swift"]
 [yu-appstuff5778]: https://www.youtube.com/@appstuff5778
 [yu-servlet-gulnaroglu]: https://www.youtube.com/@ServetGulnaroglu
 [yu-scott-smith]: https://www.youtube.com/@ScottSmithDev
+[yu-ktr-kathir]: https://www.youtube.com/@KtrKathir
+[yu-cocoacasts]: https://www.youtube.com/@Cocoacasts
 <!-- Misc -->
 [yu-learn-to-code-w-karoly-nyisztor]: https://www.youtube.com/@SwiftProgrammingTutorials
 [yu-auc-anz]: https://www.youtube.com/@auc_anz
 [yu-the-swift-guy]: https://www.youtube.com/@SebastianHenry
+[yu-fgary]: https://www.youtube.com/@fgary

@@ -80,19 +80,19 @@ Placeholders with the same ids are connected.
 
 ```json
 {
-  "jsonGhItem": {
-	 	"prefix": "ghItem",
-	 	"body": [
-			"{",
-			"  \"repo\": \"${1:repo}\"",
-			"  \"desc\": \"${2:desc}\"", 
-			"  \"topics\": \"${3:topic}\"",
-            "  \"officialSite\": \"${4:os}\"",
-			"}"
-	 	],
-	 	"description": "Github Item as JSON"
-	}
-}
+	"jsonGhItem": {
+		   "prefix": "ghItem",
+		   "body": [
+			  "{",
+			  "  \"repo\": \"${1:repo}\",",
+			  "  \"desc\": \"${2:desc}\",", 
+			  "  \"topics\": [\"${3:topic}\"],",
+			  "  \"officialSite\": \"${4:os}\"",
+			  "}"
+		   ],
+		   "description": "Github Item as JSON"
+	  }
+  }
 ```
 
 ---

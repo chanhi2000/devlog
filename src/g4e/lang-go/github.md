@@ -24,9 +24,11 @@ meta:
 
 ## Go
 
-<MyGithubItems jsonName="gh-lang-go" />
+<MyGithubItems jsonName="lang-go" />
 
-<!-- Go -->
+### Tutorial
+
+<MyGithubItems jsonName="lang-go-tut" />
 
 ---
 

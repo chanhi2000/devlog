@@ -22,8 +22,13 @@ tags: ["git" , "github" , "objc" , "swift"]
 
 ## Swift
 
-<MyGithubItems jsonName="gh-lang-swift"/>
+<MyGithubItems jsonName="lang-swift"/>
 
+### Tutorial
+
+<MyGithubItems jsonName="lang-swift-tut"/>
+
+---
 
 <TagLinks />
 

@@ -685,6 +685,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Telusko" channelId="Telusko" id="gWBF2V0mSXk" title="Microservices to Monolith | Amazon Prime Video" />
 <YoutubeItem channelName="Telusko" channelId="Telusko" id="BGTx91t8q50" title="Java Tutorial for Beginners 2023" />
 <YoutubeItem channelName="Telusko" channelId="Telusko" id="kYiLzIiHVY8" title="Java Spring Boot Mongodb Full Project" />
 <YoutubeItem channelName="Telusko" channelId="Telusko" id="Eor-iXU0xR0" title="Spring Boot And Kotlin Example #1" />
@@ -943,6 +944,22 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 <!-- OktaDev -->
 
+
+## Jeff Geerling
+
+[Jeff Geerling][yu-jeff-geerling]
+
+::: details 목록
+
+<YoutubeItem channelName="Jeff Geerling" channelId="JeffGeerling" id="5NJ6V8i1Xd8" title="Build your OWN VPN! Here's how (and why you should)" />
+<YoutubeItem channelName="Jeff Geerling" channelId="JeffGeerling" id="4VkY1vTpCJY" title="Better than Netflix: Jellyfin on my NAS" />
+<YoutubeItem channelName="Jeff Geerling" channelId="JeffGeerling" id="xNndbfxMCLo" title="Raspberry Pi Cluster Ep 2 - Setting up the Cluster" />
+
+:::
+
+<!-- Jeff Geerling -->
+
+
 ---
 
 ## 최흥배
@@ -993,5 +1010,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 [yu-bro-codez]: https://www.youtube.com/@BroCodez
 [yu-kodeco]: https://www.youtube.com/@KodecoDev
 [yu-okta-dev]: https://www.youtube.com/@OktaDev
-
+[yu-jeff-geerling]: https://www.youtube.com/@JeffGeerling
+[yu-jacking75]: https://www.youtube.com/@jacking75
 [yu-codebreakthrough]: https://www.youtube.com/@codebreakthrough

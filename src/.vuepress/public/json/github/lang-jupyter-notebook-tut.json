@@ -1,0 +1,29 @@
+[
+  {
+    "repo": "microsoft/ML-For-Beginners", 
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "topics": [],
+    "officialSite": "https://microsoft.github.io/ML-For-Beginners"
+  }, {
+    "repo": "gkamradt/langchain-tutorials", 
+    "desc": "Overview and tutorial of the LangChain Library",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "curiousily/Getting-Things-Done-with-Pytorch",
+    "desc": "Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with … ",
+    "topics": ["nlp", "machine-learning", "tutorial", "computer-vision", "deep-learning", "time-series", "sentiment-analysis", "pytorch", "transformer", "lstm", "yolo", "face-recognition", "face-detection"],
+    "officialSite": "https://www.mlexpert.io"
+  }, {
+    "repo": "graykode/nlp-tutorial",
+    "desc": "Natural Language Processing Tutorial for Deep Learning Researchers", 
+    "topics": ["nlp", "natural-language-processing", "tutorial", "tensorflow", "paper", "pytorch", "transformer", "attention", "bert"],
+    "officialSite": "https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying"
+  }, {
+    "repo": "DataTalksClub/mlops-zoomcamp",
+    "desc": "Free MLOps course from DataTalks.Club",
+    "topics": ["machine-learning", "model-deployment", "mlops", "model-monitoring", "workflow-orchestration"],
+    "officialSite": ""
+  }
+]
+

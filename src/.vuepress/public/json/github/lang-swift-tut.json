@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "pointfreeco/episode-code-samples",
+    "desc": "💾 Point-Free episode code.",
+    "topics": [],
+    "officialSite": "https://www.pointfree.co"
+  }, {
+    "repo": "twostraws/HackingWithSwift",
+    "desc": "The project source code for hackingwithswift.com",
+    "topics": [],
+    "officialSite": ""
+  }
+]

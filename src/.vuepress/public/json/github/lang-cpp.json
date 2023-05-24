@@ -249,5 +249,15 @@
     "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
     "topics": ["computer-vision", "maa", "arknights"],
     "officialSite": "https://maa.plus"
+  }, {
+    "repo": "ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "topics": ["raspberry-pi", "arduino", "robot", "robotics", "gps", "ros", "rtk", "path-finding", "landscaping", "lawn-mower", "robomow"],
+    "officialSite": ""
+  }, {
+    "repo": "cocos/cocos-engine",
+    "desc": "Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.",
+    "topics": ["open-source", "gamedev", "metal", "game-engine", "engine", "vulkan", "game-development", "cocos2d", "mit-license", "cocoscreator", "cocos"],
+    "officialSite": "https://www.cocos.com/en/creator"
   }
 ]

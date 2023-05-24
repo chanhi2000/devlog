@@ -1,0 +1,23 @@
+[ 
+  {
+    "repo": "BrunoLevy/learn-fpga",
+    "desc": "Learning FPGA, yosys, nextpnr, and RISC-V",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "below/HelloSilicon",
+    "desc": "An introduction to ARM64 assembly on Apple Silicon Macs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "cstack/db_tutorial",
+    "desc": "Writing a sqlite clone from scratch in C",
+    "topics": ["databse"],
+    "officialSite": "https://cstack.github.io/db_tutorial"
+  }, {
+    "repo": "RainerGrimm/DesignPatternsAndArchitecturalPatterns",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }
+]

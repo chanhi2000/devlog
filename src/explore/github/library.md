@@ -28,7 +28,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Ruby
 
-<MyGithubItems jsonName="gh-lang-ruby" />
+<MyGithubItems jsonName="lang-ruby" />
 
 ---
 
@@ -48,41 +48,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ---
 
-## PHP
-
-- [backdrop/backdrop][backdrop/backdrop]: Backdrop core code repository. <GithubTags tagItems="php;cms" />
-  - [🌐Official Site](https://backdropcms.org)
-- [monicahq/monica][monicahq/monica]: Personal CRM. Remember everything about your friends, family and business relationships.
-  - [🌐Official Site](https://www.monicahq.com)
-- [laravel/breeze][laravel/breeze]: Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
-  - [🌐Official Site](https://laravel.com/docs/starter-kits#laravel-breeze)
-- [openai-php/laravel][openai-php/laravel]: ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
-- [ockeghem/badtodo][ockeghem/badtodo]: 
-- [D4RK-R4BB1T/Dark-Web-Archives][D4RK-R4BB1T/Dark-Web-Archives]: Archives of the criminal side of the internet
-- [snipe/snipe-it][snipe/snipe-it]: A free open source IT asset/license management system
-  - [🌐Official Site](https://snipeitapp.com)
-- [nextcloud/server][nextcloud/server]: ☁️ Nextcloud server, a safe home for all your data <GithubTags tagItems="javascript;open-source;php;enterprise;design;opensource;cloud;ux;nextcloud;owncloud;decentralized;sharing;file-sharing;collaboration;distributed;free-software;usability;self-hosting;federation;hacktoberfest" />
-  - [🌐Official Site](https://nextcloud.com)
-
----
-
-## Lua
-
-- [ThePrimeagen/init.lua][ThePrimeagen/init.lua]
-- [neovim/neovim][neovim/neovim]: Vim-fork focused on extensibility and usability
-  - [🌐Official Site](https://neovim.io)
-- [wbthomason/packer.nvim][wbthomason/packer.nvim]: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
-- [williamboman/mason.nvim][williamboman/mason.nvim]: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-- [nvim-lua/kickstart.nvim][nvim-lua/kickstart.nvim]: A launch point for your personal nvim configuration
-- [folke/lazy.nvim][folke/lazy.nvim]: 💤 A modern plugin manager for Neovim
-- [AstroNvim/AstroNvim][AstroNvim/AstroNvim]: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-  - [🌐Official Site](https://astronvim.com)
-- [PathOfBuildingCommunity/PathOfBuilding][PathOfBuildingCommunity/PathOfBuilding]: Offline build planner for Path of Exile.
-  - [🌐Official Site](https://pathofbuilding.community)
-- [bfeber/HLA-NoVR][bfeber/HLA-NoVR]: NO VR Script for Half-Life: Alyx
-- [nvim-tree/nvim-web-devicons][nvim-tree/nvim-web-devicons]: lua `fork` of vim-web-devicons for neovim
-
----
 
 ## Elixir
 
@@ -100,51 +65,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 - [xmonad/xmonad][xmonad/xmonad]: The core of xmonad, a small but functional ICCCM-compliant tiling window manager <GithubTags tagItems="haskell;x11;xmonad;window-manager;hacktoberfest;x11-wm" />
   - [🌐Official Site](https://xmonad.org)
-
----
-
-## Bash
-
-- [tldr-pages/tldr][tldr-pages/tldr]: 📚 Collaborative cheatsheets for console commands
-  - [🌐Official Site](https://tldr.sh)
-- [LunarVim/Neovim-from-scratch][LunarVim/Neovim-from-scratch]: 📚 A Neovim config designed from scratch to be understandable
-  - [🌐Official Site](https://www.chrisatmachine.com)
-- [LunarVim/LunarVim][LunarVim/LunarVim]: 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-  - [🌐Official Site](https://www.lunarvim.org)
-- [WSA-Community/WSAGAScript][WSA-Community/WSAGAScript]: Scripts to install Google Apps into a WSA image. Plus optional root
-- [altercation/solarized][altercation/solarized]: precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
-  - [🌐Official Site](http://ethanschoonover.com/solarized)
-- [ohmyzsh/ohmyzsh][ohmyzsh/ohmyzsh]: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  
-  - [🌐Official Site](https://ohmyz.sh)
-- [FreedomBen/basic-ocp-demo][FreedomBen/basic-ocp-demo]: Sample app that can be easily deployed to OpenShift either as a training exercise or demonstration.
-- [Bugswriter/notflix][Bugswriter/notflix]: Notflix is a shell script to search and stream torrent.
-- [palera1n/palera1n][palera1n/palera1n]: iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
-- [ax/apk.sh][ax/apk.sh]: apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-- [rails/docked][rails/docked]: Running Rails from Docker for easy start to development
-- [dreamncn/ParallelsDesktopCrack][dreamncn/ParallelsDesktopCrack]: Crack for Parallels Desktop 18.1.1 53328
-- [base-org/node][base-org/node]: Everything required to run your own Base node
-- [vcheckzen/KeepAliveE5][vcheckzen/KeepAliveE5]
-- [Murderlon/dotfiles][Murderlon/dotfiles]: ⚙️ Automated dotfiles setup for Fish, Neovim, Tmux, Git, Homebrew packages, and macOS settings.
-- [fbelavenuto/arpl][fbelavenuto/arpl]: Automated Redpill Loader
-- [maplecool/easytrojan][maplecool/easytrojan]: 世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器
-- [aleskxyz/reality-ezpz][aleskxyz/reality-ezpz]: Reality EZPZ
-- [Security-Onion-Solutions/securityonion][Security-Onion-Solutions/securityonion]: Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
-  - [🌐Official Site](https://securityonion.net)
-- [Fmstrat/winapps][Fmstrat/winapps]: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-- [aristocratos/bashtop][aristocratos/bashtop]: Linux/OSX/FreeBSD resource monitor
-- [oracle/docker-images][oracle/docker-images]: Official source of container configurations, images, and examples for Oracle products and projects <GithubTags tagItems="docker;dockerfile;dockerfiles;nosql;oracle;oci;graalvm;docker-images;oracle-database;oracle-linux;oraclelinux;oracle-commercial;oracle-instantclient;coherence-ce;oracle-products"/>
-  - [🌐Official Site](https://developer.oracle.com/use-cases/#containers)
-- [LSPosed/MagiskOnWSALocal][LSPosed/MagiskOnWSALocal]: Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) <GithubTags tagItems="android;windows;google-apps;magisk;wsa;windows11" />
-- [89luca89/distrobox][89luca89/distrobox]: Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox <GithubTags tagItems="linux;bash;docker;development;tools;debian;ubuntu;command-line;archlinux;containers;alpine;fedora;centos;suse;posix;opensuse;posix-sh;podman;rockylinux;almalinux" />
-  - [🌐Official Site](https://distrobox.privatedns.org)
-
----
-
-## Batchfile
-
-- [massgravel/Microsoft-Activation-Scripts][massgravel/Microsoft-Activation-Scripts]
-- [Atlas-OS/Atlas][Atlas-OS/Atlas]: 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency. <GithubTags tagItems="windows;open-source;security;performance;privacy;gaming;fps;latency;tweaks;atlas;debloat" />
-  - [🌐Official Site](https://atlasos.net)
 
 ---
 
@@ -215,6 +135,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ---
 
+## Vim Script
+
+- [Exafunction/codeium.vim][Exafunction/codeium.vim]: Free, ultrafast Copilot alternative for Vim and Neovim <GithubTags tagItems="javascript;ruby;python;vim;go;editor;rust;golang;autocomplete;typescript;extension;neovim;ide;copilot;codeium" />
+  - [🌐Official Site](https://www.codeium.com)
+
 ## Verilog
 
 - [lawrie/fpga_pio][lawrie/fpga_pio]: An attempt to recreate the RP2040 PIO in an FPGA
@@ -283,51 +208,12 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [D4RK-R4BB1T/Dark-Web-Archives]: https://github.com/D4RK-R4BB1T/Dark-Web-Archives
 [snipe/snipe-it]: https://github.com/snipe/snipe-it
 [nextcloud/server]: https://github.com/nextcloud/server
-<!-- Lua -->
-[ThePrimeagen/init.lua]: https://github.com/ThePrimeagen/init.lua
-[neovim/neovim]: https://github.com/neovim/neovim
-[wbthomason/packer.nvim]: https://github.com/wbthomason/packer.nvim
-[williamboman/mason.nvim]: https://github.com/williamboman/mason.nvim
-[nvim-lua/kickstart.nvim]: https://github.com/nvim-lua/kickstart.nvim
-[folke/lazy.nvim]: https://github.com/folke/lazy.nvim
-[AstroNvim/AstroNvim]: https://github.com/AstroNvim/AstroNvim
-[PathOfBuildingCommunity/PathOfBuilding]: https://github.com/PathOfBuildingCommunity/PathOfBuilding
-[davidgiven/wordgrinder]: https://github.com/davidgiven/wordgrinder
-[bfeber/HLA-NoVR]: https://github.com/bfeber/HLA-NoVR
-[nvim-tree/nvim-web-devicons]: https://github.com/nvim-tree/nvim-web-devicons
 <!-- Elixir -->
 [AccessOwl/open_owl]: https://github.com/AccessOwl/open_owl
 <!-- Clojure -->
 [zachallaun/secd]: https://github.com/zachallaun/secd
 <!-- Haskell -->
 [xmonad/xmonad]: https://github.com/xmonad/xmonad
-<!-- Bash -->
-[tldr-pages/tldr]: https://github.com/tldr-pages/tldr
-[LunarVim/Neovim-from-scratch]: https://github.com/LunarVim/Neovim-from-scratch
-[LunarVim/LunarVim]: https://github.com/LunarVim/LunarVim
-[WSA-Community/WSAGAScript]: https://github.com/WSA-Community/WSAGAScript
-[altercation/solarized]: https://github.com/altercation/solarized
-[ohmyzsh/ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
-[FreedomBen/basic-ocp-demo]: https://github.com/FreedomBen/basic-ocp-demo
-[Bugswriter/notflix]: https://github.com/Bugswriter/notflix
-[palera1n/palera1n]: https://github.com/palera1n/palera1n
-[ax/apk.sh]: https://github.com/ax/apk.sh
-[rails/docked]: https://github.com/rails/docked
-[dreamncn/ParallelsDesktopCrack]: https://github.com/dreamncn/ParallelsDesktopCrack
-[base-org/node]: https://github.com/base-org/node
-[vcheckzen/KeepAliveE5]: https://github.com/vcheckzen/KeepAliveE5
-[Murderlon/dotfiles]: https://github.com/Murderlon/dotfiles
-[fbelavenuto/arpl]: https://github.com/fbelavenuto/arpl
-[maplecool/easytrojan]: https://github.com/maplecool/easytrojan
-[aleskxyz/reality-ezpz]: https://github.com/aleskxyz/reality-ezpz
-[Security-Onion-Solutions/securityonion]: https://github.com/Security-Onion-Solutions/securityonion
-[Fmstrat/winapps]: https://github.com/Fmstrat/winapps
-[aristocratos/bashtop]: https://github.com/aristocratos/bashtop
-[oracle/docker-images]: https://github.com/oracle/docker-images
-[LSPosed/MagiskOnWSALocal]: https://github.com/LSPosed/MagiskOnWSALocal
-<!-- Batchfile -->
-[massgravel/Microsoft-Activation-Scripts]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[Atlas-OS/Atlas]: https://github.com/Atlas-OS/Atlas
 <!-- TeX -->
 [posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
 [paulgp/applied-methods-phd]: https://github.com/paulgp/applied-methods-phd

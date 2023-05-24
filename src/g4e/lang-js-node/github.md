@@ -24,17 +24,22 @@ meta:
 
 ## Javascript
 
-<MyGithubItems jsonName="gh-lang-js" />
+<MyGithubItems jsonName="lang-js" />
 
-<!-- Javascript -->
+### Tutorial
+
+<MyGithubItems jsonName="lang-js-tut" />
+
 
 ---
 
 ## Typescript
 
-<MyGithubItems jsonName="gh-lang-ts" />
+<MyGithubItems jsonName="lang-ts" />
 
-<!-- Typescript -->
+### Tutorial
+
+<MyGithubItems jsonName="lang-ts-tut" />
 
 ---
 

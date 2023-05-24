@@ -277,7 +277,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [glossary]: https://www.hackingwithswift.com/glossary
 
 [day-0]: https://www.hackingwithswift.com/100/swiftui/0
-[day-1]: https://www.hackingwithswift.com/100/swiftui/1
+[day-1]: 1.md
 [day-2]: https://www.hackingwithswift.com/100/swiftui/2
 [day-3]: https://www.hackingwithswift.com/100/swiftui/3
 [day-4]: https://www.hackingwithswift.com/100/swiftui/4

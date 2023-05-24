@@ -154,6 +154,16 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 <!-- PyCon Korea -->
 
+---
+
+## Misc
+
+<YoutubeItem channelName="데브원영 DVWY" channelId="DevWonYoung" id="GsFcQVBwmho" title="파이썬으로 이벤트 드리븐 아키텍처를 만드는 방법 | Event-driven microservices with Python and Apache Kafka" />
+
+<!-- [데브원영 DVWY][yu-dev-won-young] -->
+
+---
+
 <TagLinks />
 
 [yu-neural-nine]: https://www.youtube.com/@NeuralNine
@@ -163,3 +173,4 @@ tags: ["education", "youtube", "programming", "python", "py"]
 [yu-jamesbriggs]: https://www.youtube.com/@jamesbriggs
 [yu-the-py-coach]: https://www.youtube.com/@ThePyCoach
 [yu-py-con-kr-tube]: https://www.youtube.com/@PyConKRtube
+[yu-dev-won-young]: https://www.youtube.com/@DevWonYoung

@@ -1,6 +1,6 @@
 <!-- .vuepress/components/DevGithubItems -->
 <template>
-  <div class="gh-list">
+  <div class="gh-item">
     <div class="gh-item" v-for="item in items">
       <div class="title">
         <h3 class="repo-name"><a v-bind:href="item.repo.link"><span class="text-normal"> {{ item.repo.owner }} /</span> {{ item.repo.name }} </a></h3>
@@ -48,23 +48,30 @@ export default {
       const fetchedItems = await res.json();
 
       let jsonFullPathsLang = [
-        "c", "cpp", "csharp", "dart", "go", "java", "java-android", "js", "jupyter-notebook", "kotlin", "pwsh", "python", "ruby", "rust", "swift", "ts"
-      ].map((e) => `/json/gh-lang-${e}.json`);
+        "c", "cpp", "csharp", "dart", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
+      ].map((e) => `/json/github/lang-${e}.json`);
+
+      let jsonFullPathsLangTut = [
+        "c", "csharp", "dart", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
+      ].map((e) => `/json/github/lang-${e}-tut.json`);
 
       let jsonFullPathsOther = [
-        "awesome-list"
-      ].map((e) => `/json/gh-${e}.json`)
+        "awesome-list", "tutorial-basic", "tutorial-devops"
+      ].map((e) => `/json/github/${e}.json`)
+      
 
       let reposToExclude = [];
-      for await (const path of [...jsonFullPathsLang, ...jsonFullPathsOther]) {
+      for await (const path of [...jsonFullPathsLang, ...jsonFullPathsLangTut, ...jsonFullPathsOther]) {
         const items = await (await fetch(path)).json();
         reposToExclude.push(...items);
       }
       const repoNamesToExclude = reposToExclude.map((e) => `/${e.repo}`);
+      const repoDescsToExclude = reposToExclude.map((e) => e.desc);
       
       const GITHUB_BASE_URL = "https://github.com";
       this.items = fetchedItems.filter((e) => 
-        !repoNamesToExclude.includes(e.repo.link)
+        !repoNamesToExclude.includes(e.repo.link) || 
+        !repoDescsToExclude.includes(e.repo.description)
       ).map((e) => {
         let hasLanguage = e.language != null;
         let l = (hasLanguage)  

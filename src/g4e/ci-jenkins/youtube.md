@@ -37,6 +37,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="aAWALhp6wSE" title="CI CD Pipeline Jenkins | Continuous Integration &amp; Deployment Using Docker" />
+<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="ctDJryQU7l4" title="Jenkins Pipeline Maven Project |Jenkins Upstream And Downstream Jobs" />
+<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="KtJCcqxKXbs" title="Jenkins Pipeline As Code | Learn How To Create Jenkins Pipeline Job" />
+<YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="uC7vajbnZS4" title="MSBuild With Jenkins | Jenkins For C# / .NET Applications | Thetips4you" />
 <YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="Q0Jqy3Jp65c" title="Deploy a web application to Azure Kubernetes Service (AKS) cluster" />
 <YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="xY0Y1tWm8D4" title="Oracle database on Docker | Docker Tutorial for Beginners" />
 <YoutubeItem channelName="Thetips4you" channelId="Thetips4you" id="Typ9U6k6g5s" title="GITLAB CI CD FULL COURSE IN 3 HOURS  | Gitlab CI CD From Zero To Hero" />

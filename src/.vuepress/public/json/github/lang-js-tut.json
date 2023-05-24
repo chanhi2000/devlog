@@ -1,0 +1,88 @@
+[
+  {
+    "repo": "airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "topics": ["javascript", "styleguide", "eslint", "es6", "style-linter", "linting", "style-guide", "es2015", "naming-conventions", "arrow-functions", "es2017", "es2016", "tc39", "es2018"],
+    "officialSite": ""
+  }, {
+    "repo": "goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (November 2022)",
+    "topics": [],
+    "officialSite": "https://twitter.com/nodepractices"
+  }, {
+    "repo": "trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "leegeunhyeok/paper",
+    "desc": "🎉 SNS 앱 예제로 배우는 프로그레시브 웹 앱 실습코드",
+    "topics": [],
+    "officialSite": "http://www.yes24.com/Product/Goods/91360603"
+  }, {
+    "repo": "techreagan/vue-nodejs-youtube-clone",
+    "desc": "This is the frontend (VueJS) of the Youtube clone called VueTube.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Th3Wall/Fakeflix",
+    "desc": "Not the usual clone that you can find on the web.",
+    "topics": [],
+    "officialSite": "https://fakeflix.th3wall.codes"
+  }, {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "topics": [],
+    "officialSite": "https://microsoft.github.io/Web-Dev-For-Beginners"
+  }, {
+    "repo": "kentcdodds/react-fundamentals",
+    "desc": "Material for my React Fundamentals Workshop",
+    "topics": [],
+    "officialSite": "https://epicreact.dev/fundamentals"
+  }, {
+    "repo": "judygab/web-dev-projects",
+    "desc": "Projects repo for tutorials for my YouTube Channel",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "john-smilga/react-course-v3",
+    "desc": "The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)",
+    "topics": [],
+    "officialSite": "https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF"
+  }, {
+    "repo": "sumn2u/learn-javascript",
+    "desc": "A book that teaches JavaScript",
+    "topics": [],
+    "officialSite": "https://javascript.sumankunwar.com.np"
+  }, {
+    "repo": "getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "topics": ["javascript", "education", "programming", "es6", "async", "book", "book-series", "es2015", "learn-to-code", "training-providers", "closures", "prototypes", "training-materials"],
+    "officialSite": ""
+  }, {
+    "repo": "florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills.",
+    "topics": ["applications", "coding", "ideas", "hacktoberfest"],
+    "officialSite": ""
+  }  
+]

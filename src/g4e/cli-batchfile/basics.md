@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 🐣Basics
-description: 🧢Batch > 🐣Basics
+description: 🧢Batchfile > 🐣Basics
 tags: ["batch", "bat", "windows", "windows-terminal", "multiline", "DOSKEY"]
 ---
 
@@ -12,6 +12,7 @@ tags: ["batch", "bat", "windows", "windows-terminal", "multiline", "DOSKEY"]
 [[toc]]
 
 ---
+
 ## Multiline 입력
 
 `^`을 붙여 커맨드 입력

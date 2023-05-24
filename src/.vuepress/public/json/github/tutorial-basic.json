@@ -1,0 +1,98 @@
+[
+  {
+    "repo": "mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about",
+    "topics": ["computer-science", "collection", "educational", "novice", "cc-by"],
+    "officialSite": ""
+  }, {
+    "repo": "github/opensource.guide",
+    "desc": "📚 Community guides for open source creators", 
+    "topics": [],
+    "officialSite": "https://opensource.guide"
+  }, {
+    "repo": "PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南", 
+    "topics": [],
+    "officialSite": "https://csdiy.wiki"
+  }, {
+    "repo": "RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well", 
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials", 
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures.", 
+    "topics": ["programming-language", "computer-science", "security", "machine-learning", "bioinformatics", "web-development", "reinforcement-learning", "computer-vision", "deep-learning", "algorithms", "robotics", "computational-biology", "databases", "embedded-systems", "systems", "computational-physics", "quantum-computing", "computer-architecture", "database-systems"],
+    "officialSite": ""
+  }, {
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering", 
+    "topics": ["deep-learning", "openai", "language-model", "prompt-engineering", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.", 
+    "topics": ["react", "nodejs", "javascript", "d3", "teachers", "community", "education", "programming", "curriculum", "math", "freecodecamp", "learn-to-code", "nonprofits", "careers", "certification", "hacktoberfest"],
+    "officialSite": "https://contribute.freecodecamp.org"
+  }, {
+    "repo": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "desc": "This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.", 
+    "topics": ["python", "data-science", "machine-learning", "natural-language-processing", "statistics", "computer-vision", "deep-learning", "datastructures", "numpy", "scikit-learn", "pandas", "data-visualization", "pytorch", "data-engineering", "matplotlib", "tableau", "data-structures-and-algorithms", "mlops", "data-system-design"],
+    "officialSite": "https://www.himanshuramchandani.co"
+  }, {
+    "repo": "jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.", 
+    "topics": ["computer-science", "algorithm", "algorithms", "interview", "data-structures", "software-engineering", "coding-interviews", "study-plan", "interview-prep", "interview-preparation", "coding-interview", "programming-interviews"],
+    "officialSite": ""
+  }, {
+    "repo": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
+    "desc": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.", 
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "RUCAIBox/LLMSurvey",
+    "desc": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".", 
+    "topics": ["natural-language-processing", "pre-training", "pre-trained-language-models", "in-context-learning", "large-language-models", "llm", "llms", "chain-of-thought", "chatgpt", "rlhf", "instruction-tuning"],
+    "officialSite": "https://arxiv.org/abs/2303.18223"
+  }, {
+    "repo": "pim-book/programmers-introduction-to-mathematics",
+    "desc": "Code for A Programmer's Introduction to Mathematics", 
+    "topics": ["python", "mathematics", "programmer"],
+    "officialSite": "https://pimbook.org"
+  }, {
+    "repo": "krahets/hello-algo",
+    "desc": "《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言", 
+    "topics": ["algorithm", "data-structure", "algorithms", "leetcode", "algo", "data-structures", "dsa", "mkdocs-material", "data-structures-and-algorithms"],
+    "officialSite": "https://hello-algo.com"
+  }, {
+    "repo": "VSFe/Tech-Interview",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pr0gr4m/Newbie-Guideline",
+    "desc": "컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서", 
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "karanpratapsingh/system-design",
+    "desc": "Learn how to design systems at scale and prepare for system design interviews", 
+    "topics": ["engineering", "distributed-systems", "microservices", "tech", "architecture", "scalability", "interview", "interview-preparation", "system-design", "system-design-interview"],
+    "officialSite": "https://leanpub.com/systemdesign"
+  }, {
+    "repo": "Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE",
+    "desc": "These REPO contains all ALX resources, with Additional Material i found useful during my course of Study in ALX", 
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "arthurspk/guiadevbrasil",
+    "desc": "Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.", 
+    "topics": ["github", "javascript", "css", "python", "c", "git", "java", "html", "php", "c-plus-plus", "html5", "csharp", "js", "css3", "python3", "java-8", "html-css-javascript", "github-config"],
+    "officialSite": ""
+  }
+]

@@ -15,14 +15,18 @@ tags: ["c", "cpp", "github", "git"]
 
 ## C
 
-<MyGithubItems jsonName="gh-lang-c"/>
+<MyGithubItems jsonName="lang-c"/>
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-c-tut"/>
 
 ---
 
 
 ## C++
 
-<MyGithubItems jsonName="gh-lang-cpp"/>
+<MyGithubItems jsonName="lang-cpp"/>
 
 ---
 

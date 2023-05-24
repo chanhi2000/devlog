@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "topics": [],
+    "officialSite": "https://tsch.js.org"
+  }, {
+    "repo": "sungkwangkim/yarn-berry-test",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "rocketseat-education/nlw-12-spacetime-ignite",
+    "desc": "Aplicação de recordação de memórias desenvolvida no NLW 12",
+    "topics": [],
+    "officialSite": ""
+  }
+]
