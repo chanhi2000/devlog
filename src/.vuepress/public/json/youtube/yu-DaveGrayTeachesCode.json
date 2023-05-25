@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "DaveGrayTeachesCode",
+    "name": "Dave Gray",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPTYuxSA9QQBsfYGVm7ABKrQr2--Q8m_UdVqEmUkQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "gieEQFIfgYc",
+      "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours"
+    }, {
+      "id": "lCxcTsOHrjo",
+      "title": "Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours"
+    }, {
+      "id": "HQFeTj0dGBo",
+      "title": "React Typescript Project Tutorial | Shopping Cart - Part 1"
+    }, {
+      "id": "HeNVPF_fRXI",
+      "title": "Drag and Drop in React with React Query and react-beautiful-dnd"
+    }, {
+      "id": "TPAAQnVxc-I",
+      "title": "MERN Stack Project with React Redux and RTK Query"
+    }, {
+      "id": "n4R2E7O-Ngo",
+      "title": "CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours"
+    }, {
+      "id": "-JJFQ9bkUbo",
+      "title": "React Redux Login Authentication Flow with JWT Access, Refresh Tokens, Cookies"
+    }, {
+      "id": "3QaFEu-KkR8",
+      "title": "Best Practices for React Data Security, Logins, Passwords, JWTs"
+    }, {
+      "id": "4lqJBBEpjRE",
+      "title": "forEach is BAD! for Async Await Code | Advanced Async/Await Javascript Tutorial"
+    }, {
+      "id": "GdOgYQzGexY",
+      "title": "React Redux Performance Techniques and Optimizations"
+    }, {
+      "id": "-f1iAsrkyB0",
+      "title": "Blog App Project with React.js, Redux Toolkit CRUD Examples"
+    }, {
+      "id": "eQrbjvn_fSc",
+      "title": "React Login Input Hooks for User Form Data"
+    }, {
+      "id": "HeNVPF_fRXI",
+      "title": "Drag and Drop in React with React Query and react-beautiful-dnd"
+    }
+  ]
+}
+
+

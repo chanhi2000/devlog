@@ -32,6 +32,11 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## A Salty Blog
+
+- [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+
+---
 ## Medium
 
 - [How To Join a Linux Box To An Active Directory Domain and Control access](https://rakeshjain-devops.medium.com/how-to-join-a-linux-box-to-an-active-directory-domain-and-control-access-2c5151bad03d)

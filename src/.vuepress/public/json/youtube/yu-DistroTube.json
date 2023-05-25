@@ -1,0 +1,88 @@
+{
+  "channel": {
+    "id": "DistroTube",
+    "name": "DistroTube",
+    "profile": "https://yt3.googleusercontent.com/3aTiR8-i48HnwXZKBacKe_niYg1zmIH2BFv_OqQotxqu3eurYH64sKF2YITmj41Y1p5iPYdaLQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "3cd3slILXEc",
+      "title": "Stop Updating Your Linux Computer Within The GUI"
+    }, {
+      "id": "13gNtgqzzmM",
+      "title": "Vim Tips And Tricks Some Of My Favorite Vim Commands"
+    }, {
+      "id": "ywXVGH-QyMc",
+      "title": "Give the 'bat' command wings with 'bat-extras'"
+    }, {
+      "id": "4G_cthFZeJ8",
+      "title": "Transform Your Scripts With Bash Simple Curses"
+    }, {
+      "id": "fiqKZXQQgpw",
+      "title": "Write A Script To Search the Arch Wiki (OFFLINE!)"
+    }, {
+      "id": "2zT37cVNR1w",
+      "title": "Essential Linux Commands - `uname`, `hostname`, `basename`, `dirname` &amp; `logname`"
+    }, {
+      "id": "p0eVyhv2rbk",
+      "title": "Git Annex Is The Coolest Program You've Never Heard Of"
+    }, {
+      "id": "EACe7aiGczw",
+      "title": "Learning Sed Is Beneficial For Linux Users"
+    }, {
+      "id": "DVapUamvqO8",
+      "title": "Using Htop To Monitor Your System"
+    }, {
+      "id": "hoP4I9ounyQ",
+      "title": "Leaving Doom Emacs For GNU Emacs?  - DT Live!"
+    }, {
+      "id": "G3SO7deXlPo",
+      "title": "Tabliss Is A 'New Tab' Plugin For Firefox and Chrome"
+    }, {
+      "id": "eEmOy3qzrcg",
+      "title": "Combine The Best of Bspwm and XMonad, You Get Herbstluftwm!"
+    }, {
+      "id": "X_iX5US1_xE",
+      "title": "The Magit Git Client Is The 'Killer Feature' In Emacs"
+    }, {
+      "id": "mBNLzHcUtTo",
+      "title": "Force Your Terminal To Swallow"
+    }, {
+      "id": "HzFqZ0Gl0aw",
+      "title": "I'm Replacing All Of My Programs...With Emacs"
+    }, {
+      "id": "sbfCSHhopT4",
+      "title": "Kakoune Is A More Efficient Text Editor"
+    }, {
+      "id": "qKtit_B7Keo",
+      "title": "Getting Started With Awesome Window Manager"
+    }, {
+      "id": "3BAgCAldhGs",
+      "title": "Configuring The Bar In Qtile"
+    }, {
+      "id": "Obzf9ppODJU",
+      "title": "A Comprehensive Guide To Tiling Window Managers"
+    }, {
+      "id": "gIzwMpTDwVk",
+      "title": "`Curseradio` - Internet Radio For Your Terminal"
+    }, {
+      "id": "qgxsduCO1pE",
+      "title": "Vifm and Überzug (Ueberzug) Image Previews"
+    }, {
+      "id": "a4scYdubKbo",
+      "title": "Vim Makes Everything Better, Especially Your File Manager And Shell!"
+    }, {
+      "id": "hIDh2HiV_dg",
+      "title": "From Noob To Power User With Manjaro KDE"
+    }, {
+      "id": "HrY6Gz1UiE0",
+      "title": "Dmscripts now has '`-d`', '`-r`' and '`-f`' options. (`dmenu`, `rofi`, &amp; `fzf`)"
+    }, {
+      "id": "tTS2KVCJ-MQ",
+      "title": "An Update Borked My Linux System. How Did I Fix It?"
+    }, {
+      "id": "Ab6cWN9ZrXo",
+      "title": "The Amazing Interactive Command Line Fuzzy Finder (`fzf`)"
+    }
+  ]
+}

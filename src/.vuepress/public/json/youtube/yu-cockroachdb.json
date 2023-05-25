@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "cockroachdb",
+    "name": "CockroachDB",
+    "profile": "https://yt3.googleusercontent.com/GLjfNzLTLI0T9LnVSxsBxnFUHv49deXvOFV3cvfVy8ml5J_bGGC73pSFb6tfQ-VkV5OKJlKG=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "xvBBQVIGYio",
+      "title": "How to perform zero downtime online schema changes"
+    }    
+  ]
+}
+

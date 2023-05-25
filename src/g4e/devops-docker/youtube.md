@@ -63,29 +63,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## NetworkChuck
 
-[NetworkChuck][yu-network-chuck]
-
-::: details 목록
-
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="DM65_JyGxCo" title="Docker Compose will BLOW your MIND!! (a tutorial)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="qOrlYzqXPa8" title="50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="bKFMS5C4CG0" title="Docker networking is CRAZY!! (you NEED to learn it)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="19nN9vgcgmU" title="this BASH script will make you a MILLIONAIRE" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="SPwyp2NG-bE" title="you need to learn BASH Scripting RIGHT NOW!! // EP 1" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="X9fSMGkjtug" title="i built a Raspberry Pi SUPER COMPUTER!! // ft. Kubernetes (k3s cluster w/ Rancher)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="9Zj3Z4KkcQA" title="my favorite IT study tool - Notion" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="eZpLjKv9xvA" title="run Linux on Windows Docker containers!!" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="gd7BXuUQ91w" title="60 Linux Commands you NEED to know (in 10 minutes)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="NDlQrK_QAzY" title="the most SECURE browser!! (testing it with malware)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="lUzSsX4T4WQ" title="your home router SUCKS!! (use pfSense instead)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="Kq0BMVhbFkA" title="host your own HelpDesk" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="799uhYUxtvA" title="build your own browser (crazy SECURE)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="B2V_8M9cjYw" title="Block ALL ads with this…(and speed up your internet)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="gd7BXuUQ91w" title="60 Linux Commands you NEED to know (in 10 minutes)" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="prVHU1fLR20" title="30 Windows Commands you CAN’T live without" />
-<YoutubeItem channelName="NetworkChuck" channelId="NetworkChuck" id="Jfvg3CS1X3A" title="40 Windows Commands you NEED to know (in 10 Minutes)" />
-
-:::
+<MyYouTubeItems jsonName="yu-NetworkChuck" />
 
 <!-- NetworkChuck -->
 

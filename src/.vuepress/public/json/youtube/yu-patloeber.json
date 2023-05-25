@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "patloeber",
+    "name": "Patrick Loeber",
+    "profile": "https://yt3.googleusercontent.com/FrsXA25vVOrWoN7g-UPh5hnZqpskAex0ilQ1LcWUsgtxTtWJAGaD51nMoiptonh_tIprjE9xKQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "owopzp436jM",
+      "title": "PyScript is officially here!🚀 Build web apps with Python "
+    }, {
+      "id": "LbT1yp6quS8",
+      "title": "LangChain Crash Course - Build apps with language models"
+    }, {
+      "id": "0H2miBK_gAk",
+      "title": "How to create a great dev environment with Docker"
+    }
+  ]
+}

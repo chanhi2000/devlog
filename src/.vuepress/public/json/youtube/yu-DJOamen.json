@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "DJOamen",
+    "name": "DJOamen",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPXb3Mee0frVqGg1I__G69PcOKM6WCjJEawQFp0ug=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "4he2SgxFZKM",
+      "title": "How to Create a Console  Application Calculator with Closure Function and Lambda Expression in C#"
+    }, {
+      "id": "3oHZVmqslgE",
+      "title": "How to Create a C++ Stock Management System using Microsoft Access in C++ Builder - Full Tutorial"
+    }    
+  ]
+}
+
+

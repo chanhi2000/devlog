@@ -42,7 +42,7 @@
   }, {
     "repo": "facebookresearch/fairseq",
     "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
-    "topics": [],
+    "topics": ["python", "pytorch", "artificial-intelligence"],
     "officialSite": ""
   }, {
     "repo": "zas023/JdBuyer",
@@ -1365,7 +1365,7 @@
     "officialSite": "https://discord.gg/qUtxnK2NMf"
   }, {
     "repo": "BlinkDL/RWKV-LM",
-    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
     "topics": ["deep-learning", "transformers", "pytorch", "transformer", "lstm", "rnn", "gpt", "language-model", "attention-mechanism", "gpt-2", "gpt-3", "linear-attention", "rwkv", "chatgpt"],
     "officialSite": ""
   }, {
@@ -1398,5 +1398,35 @@
     "desc": "OpenMMLab Pre-training Toolbox and Benchmark",
     "topics": ["deep-learning", "pytorch", "image-classification", "resnet", "pretrained-models", "clip", "mae", "mobilenet", "moco", "self-supervised-learning", "constrastive-learning", "beit", "vision-transformer", "swin-transformer", "masked-image-modeling", "convnext"],
     "officialSite": "https://mmpretrain.readthedocs.io/en/latest"
+  }, {
+    "repo": "ianarawjo/ChainForge",
+    "desc": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "OFA-Sys/ONE-PEACE",
+    "desc": "A general representation modal across vision, audio, language modalities.",
+    "topics": ["representation-learning", "multimodal", "vision-and-language", "contrastive-loss", "vision-language", "vision-transformer", "foundation-models", "audio-language"],
+    "officialSite": ""
+  }, {
+    "repo": "psf/requests",
+    "desc": "A simple, yet elegant, HTTP library.",
+    "topics": ["python", "http", "client", "cookies", "requests", "humans", "forhumans", "python-requests"],
+    "officialSite": "https://requests.readthedocs.io/en/latest/"
+  }, {
+    "repo": "kreneskyp/ix",
+    "desc": "Autonomous GPT-4 agent platform",
+    "topics": ["python", "ai", "openai", "gpt-4"],
+    "officialSite": ""
+  }, {
+    "repo": "OpenGVLab/InternGPT",
+    "desc": "InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)",
+    "topics": ["sam", "click", "vqa", "image-captioning", "llama", "gpt", "gradio", "husky", "multimodal", "video-generation", "vicuna", "gpt-4", "llm", "chatgpt", "langchain", "foundation-model", "segment-anything", "internimage", "imagebind", "draggan"],
+    "officialSite": "https://igpt.opengvlab.com"
+  }, {
+    "repo": "Casualtek/Ransomchats",
+    "desc": "",
+    "topics": ["chat", "ransomware", "negotiations"],
+    "officialSite": "https://ransomch.at"
   }
 ]

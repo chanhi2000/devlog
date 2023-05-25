@@ -15,20 +15,10 @@ tags: ["powershell", "windows", "windows-terminal", "multiline"]
 
 ## TechThoughts
 
-[TechThoughts][yu-tech-thoughts]
-
-::: details 목록
-
-<YoutubeItem channelName="Techthoughts" channelId="TechthoughtsInfo2" id="QKmyf6c83Rs" title="Working with the PowerShell Pipeline" />
-<YoutubeItem channelName="Techthoughts" channelId="TechthoughtsInfo2" id="OfyRVl7YThw" title="`PoshGram` - a PowerShell module for sending Telegram messages" />
-<YoutubeItem channelName="Techthoughts" channelId="TechthoughtsInfo2" id="nRmNSJAuBmg" title="Virtualization Home Lab Guide" />
-
-:::
+<MyYouTubeItems jsonName="yu-Techthoughts2" />
 
 <!-- TechThoughts -->
 
 ---
 
 <TagLinks />
-
-[yu-tech-thoughts]: https://www.youtube.com/@TechthoughtsInfo2

@@ -28,6 +28,20 @@ description: 🐍Python > 📚References
 
 - [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama)
 
+---
+
+## Die wunderbare Welt von Isotopp
+
+- [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
+
+---
+
+## Kobzol's blog
+
+- [Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
+
+---
+
 ## Pentesting
 
 - [Pentesting Android Apps Using Frida](https://notsosecure.com/pentesting-android-apps-using-frida)

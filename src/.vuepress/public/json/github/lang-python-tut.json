@@ -51,7 +51,7 @@
     "officialSite": ""
   }, {
     "repo": "Azure-Samples/azure-search-openai-demo",
-    "desc": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
+    "desc": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
     "topics": ["azure", "openai", "azurecognitivesearch", "azd-templates", "chatgpt", "azureopenai"],
     "officialSite": "https://azure.microsoft.com/products/search"
   }, {

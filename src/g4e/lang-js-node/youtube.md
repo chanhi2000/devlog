@@ -15,36 +15,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Ben Awad
 
-[![Ben Awad](https://yt3.googleusercontent.com/ytc/AGIKgqNopooyvKw-otfweyIOMf-gPWvABriRa-sL3WZV7g=s176-c-k-c0x00ffffff-no-rj =x150)][yu-bawad]
-
-::: details 목록
-
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="dCCaYEG5KeA" title="Technologies I'm Learning in 2023" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="f687hBjwFcM" title="React Hooks Tutorial" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="1PBNAoKd-70" title="Coding the Next Facebook - 53 days in" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="j1ZRyw7OtZs" title="React Hooks useEffect Tutorial" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="A9bA5HpOk30" title="Docker Compose Tutorial with PostgreSQL and Node.js" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="I6ypD7qv3Z8" title="Fullstack React GraphQL TypeScript Tutorial" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="C7CPXeEvKN0" title="Expert Level SQL Tutorial" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="N4Vex7l8jv4" title="Windows Defender Hardening and Test vs Malware" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="1XjIdgUaTiI" title="What is a CSS Custom Property / Custom Variable?" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="uFH5S5dUPr8" title="My GraphQL Performance Problem" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="Z5iWr6Srsj8" title="React Typescript Tutorial" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="Kx_1NYYJS7Q" title="Where to Host a Fullstack Project on a Budget" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="CYlUcIH3dPg" title="Parallel Processing for Faster Deployments" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="Hln37dE19bs" title="React Navigation v5 Tutorial" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="tp_5c6jaNQE" title="SQL Tutorial for Beginners" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="gnupOrSEikQ" title="How to Configure Vim like VSCode" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="ZNbosPOEEWw" title="First Look at React useDeferredValue Hook" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="M6N7gEZ-IUQ" title="Why LocalStorage is Vulnerable to XSS (and cookies are too)" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="25GS0MLT8JU" title="JWT Authentication Node.js Tutorial with GraphQL and React" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="iD49_NIQ-R4" title="How to Store JWT for Authentication" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="IiwGbcd8S7I" title="Vim Tutorial" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="oPqrLsvjWgo" title="How I Designed my App that Got 100k Downloads" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="hfGtyd5nmwQ" title="Technologies I used to Code My Backendless App" />
-<YoutubeItem channelName="Ben Awad" channelId="bawad" id="z1vPBc2h9pE" title="My App has More Complicated Animations Than Yours" />
-
-:::
+<MyYouTubeItems jsonName="yu-bawad" />
 
 <!-- Ben Awad -->
 
@@ -530,24 +501,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Dave Gray
 
-[![Dave Gray](https://yt3.googleusercontent.com/ytc/AGIKgqPTYuxSA9QQBsfYGVm7ABKrQr2--Q8m_UdVqEmUkQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-dave-gray-teaches-code]
-
-::: details 목록
-
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="lCxcTsOHrjo" title="Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="HQFeTj0dGBo" title="React Typescript Project Tutorial | Shopping Cart - Part 1" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="HeNVPF_fRXI" title="Drag and Drop in React with React Query and react-beautiful-dnd" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="TPAAQnVxc-I" title="MERN Stack Project with React Redux and RTK Query" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="n4R2E7O-Ngo" title="CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="-JJFQ9bkUbo" title="React Redux Login Authentication Flow with JWT Access, Refresh Tokens, Cookies" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="3QaFEu-KkR8" title="Best Practices for React Data Security, Logins, Passwords, JWTs" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="4lqJBBEpjRE" title="forEach is BAD! for Async Await Code | Advanced Async/Await Javascript Tutorial" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="GdOgYQzGexY" title="React Redux Performance Techniques and Optimizations" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="-f1iAsrkyB0" title="Blog App Project with React.js, Redux Toolkit CRUD Examples" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="eQrbjvn_fSc" title="React Login Input Hooks for User Form Data" />
-<YoutubeItem channelName="Dave Gray" channelId="DaveGrayTeachesCode" id="HeNVPF_fRXI" title="Drag and Drop in React with React Query and react-beautiful-dnd" />
-
-:::
+<MyYouTubeItems jsonName="yu-DaveGrayTeachesCode" />
 
 <!-- Dave Gray -->
 
@@ -1048,19 +1002,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Adrian Twarog
 
-[Adrian Twarog][yu-adrian-twarog]
-
-::: details 목록
-
-<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="JTxsNm9IdYU" title="ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners" />
-<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="bB7xkRsEq-g" title="Advanced ChatGPT Guide - How to build your own Chat GPT Site" />
-<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="qNifU_aQRio" title="Navbar Bootstrap 5 |  Bootstrap Navbar Tutorial" />
-<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="qKkwihNGz_U" title="JavaScript Array Concat Method" />
-<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="Y0QBmXEylP8" title="250 Unique APIs for your next Project" />
-<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="BEoFSRdkSZQ" title="Full Stack Developer Roadmap" />
-<YoutubeItem channelName="Adrian Twarog" channelId="AdrianTwarog" id="_O5jjEwCgmA" title="How To Build A Twitter Clone - React Next JS - Appwrite Crash Course" />
-
-:::
+<MyYouTubeItems jsonName="yu-AdrianTwarog" />
 
 <!-- Adrian Twarog -->
 
@@ -1880,7 +1822,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-pluralsight]: https://www.youtube.com/@pluralsight
 [yu-dylan-israel]: https://www.youtube.com/@CodingTutorials360
 [yu-developedbyed]: https://www.youtube.com/@developedbyed
-[yu-adrian-twarog]: https://www.youtube.com/@AdrianTwarog
 [yu-adam-wathan]: https://www.youtube.com/@AdamWathan
 [yu-react-w-masoud]: https://www.youtube.com/@ProgrammingwithMasoud
 [yu-coding-addict]: https://www.youtube.com/@CodingAddict

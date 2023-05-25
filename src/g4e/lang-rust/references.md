@@ -26,6 +26,10 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## hashrust
+
+- [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust)
+
 ## Bevy
 
 - [Bevy + WebGPU](https://bevyengine.org/news/bevy-webgpu)

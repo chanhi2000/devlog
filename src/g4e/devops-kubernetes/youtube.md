@@ -43,18 +43,16 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## TechWorld with Nana
+
+<MyYouTubeItems jsonName="yu-TechWorldwithNana" />
+
+<!-- TechWorld with Nana -->
+
+
 ## Houssem Dellai
 
-[Houssem Dellai][yu-houssem-dellai]
-
-::: details 목록
-
-<YoutubeItem channelName="Houssem Dellai" channelId="HoussemDellai" id="bafijVfuzwY" title="Monitoring AKS using Prometheus and Grafana on Azure" />
-<YoutubeItem channelName="Houssem Dellai" channelId="HoussemDellai" id="2Y82jW_H-E4" title="Deploy Kubernetes Infra with Terraform and Github Actions" />
-<YoutubeItem channelName="Houssem Dellai" channelId="HoussemDellai" id="woZGH0lg1ns" title="Azure DevOps CLI" />
-<YoutubeItem channelName="Houssem Dellai" channelId="HoussemDellai" id="kPDy7Nb32e4" title="Custom domains using Kubernetes CoreDNS" />
-
-:::
+<MyYouTubeItems jsonName="yu-HoussemDellai" />
 
 <!-- Houssem Dellai -->
 

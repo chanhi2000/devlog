@@ -119,5 +119,10 @@
     "desc": "Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox",
     "topics": ["linux", "bash", "docker", "development", "tools", "debian", "ubuntu", "command-line", "archlinux", "containers", "alpine", "fedora", "centos", "suse", "posix", "opensuse", "posix-sh", "podman", "rockylinux", "almalinux"],
     "officialSite": "https://distrobox.privatedns.org"
+  }, {
+    "repo": "patte/fly-tailscale-exit",
+    "desc": "Run a VPN with global exit nodes with fly.io, tailscale and github!",
+    "topics": [],
+    "officialSite": ""
   }
 ]

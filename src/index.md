@@ -17,7 +17,7 @@ actions:
 #- title: descriptive
 #  details: 이미지와 다이어그램을 많이 사용
 footerHtml: true
-footer: MIT Licensed | Copyright © 2022-present <a target="_blank" href="https://github.com/chanhi2000">Chan Hee Lee</a>
+footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present <a target="_blank" href="https://github.com/chanhi2000">Chan Hee Lee</a>
 ---
 
 <div class="features">
@@ -71,9 +71,6 @@ footer: MIT Licensed | Copyright © 2022-present <a target="_blank" href="https:
         <a target="_blank" href="https://news.ycombinator.com">
           <img alt="badge-ycombinator" src="https://img.shields.io/badge/YCombinator-F0652F?logo=ycombinator&logoColor=white&style=flat-square"/>
         </a>
-        <a target="_blank" href="https://devo.ams3.digitaloceanspaces.com/hackernews.json">
-          <img alt="badge-json-devo-hackernews" src="https://img.shields.io/badge/Devo-000000?logo=json&logoColor=white&style=flat-square"/>
-        </a>
       </li>
       <li><a target="_blank" href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
       <li><a target="_blank" href="https://news.hada.io">🤓GeekNews</a></li>
@@ -82,8 +79,6 @@ footer: MIT Licensed | Copyright © 2022-present <a target="_blank" href="https:
     </ul>
   </div>
 </div>
-
-<DevGithubItems />
 
 <p>
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" />
@@ -131,3 +126,6 @@ footer: MIT Licensed | Copyright © 2022-present <a target="_blank" href="https:
   <img alt="Red Hat Openshift" src="https://img.shields.io/badge/Openshift-EE0000?logo=redhatopenshift&logoColor=white&style=flat-square" />
   <img alt="Naver" src="https://img.shields.io/badge/NCloud-03C75A?logo=naver&logoColor=white&style=flat-square"/>
 </p>
+
+<DevGithubItems />
+<DevHackerNewsItems />

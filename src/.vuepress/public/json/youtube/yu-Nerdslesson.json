@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "Nerdslesson",
+    "name": "Nerd's Lesson",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOGUCjKfc0D-nJXd1NTJ3mFF6UkPnZp0yd-fB12=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "k9ZigsW9il0",
+      "title": "Computer Networking Fundamentals | Networking Tutorial for beginners Full Course"
+    }, {
+      "id": "UVUd9_k9C6A",
+      "title": "PowerShell For Beginners Full Course | PowerShell Beginner tutorial Full Course"
+    }, {
+      "id": "iwRneX7GIGI",
+      "title": "Database Engineering Complete Course | DBMS Complete Course"
+    }
+  ]
+}
+
+

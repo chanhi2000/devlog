@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "withmarko",
+    "name": "Marko",
+    "profile": "https://yt3.googleusercontent.com/5wQnSF-6B07vV3el26JwWt7vwvL2MVvb80gwKZNDwsceSehVRJr8_46bdQsuws6iFlYAYd52rQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "nLmct8bkGaI",
+      "title": "My New Side Hustle - Fixing All of Email 😃 - Day in the Life of a Software Engineer (ep. 33)"
+    }, {
+      "id": "En6KVC_1FAQ",
+      "title": "How I Use Chat GPT at Work - Day in The Life of a Software Engineer (ep. 30) 😃"
+    }, {
+      "id": "6gibI4Fo1R8",
+      "title": "My ChatGPT 4 Workflow &amp; Tips as a Software Engineer"
+    }, {
+      "id": "GqgWz-n4hdE",
+      "title": "Pushing My Mac to The Limit ⚡️"
+    }
+  ]
+}

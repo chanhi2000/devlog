@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "CopperSpice",
+    "name": "CopperSpice",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMxolTRZOYMkDF0MuqWSxmkFxq7JRPMJE-H1A_B=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "MfzMR40kPjA",
+      "title": "Docker for Developers"
+    }, {
+      "id": "u9mwgkswtFc",
+      "title": "More about Moving to C++17"
+    }
+  ]
+}
+

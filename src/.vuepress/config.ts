@@ -17,6 +17,8 @@ import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { componentsPlugin } from "vuepress-plugin-components";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import anchorRightPlugin from 'vuepress-plugin-anchor-right';
+import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+import MdDefinePlugin from 'vuepress-plugin-markdown-define2';
 
 // import { mermaidWrapperPlugin } from 'vuepress-plugin-mermaid-wrapper';
 // import { mermaidPlugin } from "@renovamen/vuepress-plugin-mermaid";
@@ -33,8 +35,11 @@ import {
 } from './configs/index.js'
 
 const __dirname = getDirname(import.meta.url);
-const { description } = require('../../package');
+const { description, version } = require('../../package.json');
 const isProd = process.env.NODE_ENV === 'production'
+const CONSTS = {
+  __VERSION__: version
+}
 
 export default {
   title: 'Devlog by Chan',
@@ -138,5 +143,14 @@ export default {
       sup: true,
     }),
     anchorRightPlugin(),
+    copyCodePlugin({
+      locales: {
+        "/": {
+          // Override copy button label text
+          copy: "Copy Codes from code block",
+        }
+      }
+    }),
+    MdDefinePlugin(CONSTS)
   ],
 }

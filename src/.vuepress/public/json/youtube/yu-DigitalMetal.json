@@ -1,0 +1,77 @@
+{
+  "channel": {
+    "id": "DigitalMetal",
+    "name": "Kris Occhipinti",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZA0k8rJkspw0jd9BX6rjeHbD0IH2aBa9AaNqrQ3s=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "XO5LSrPNiV0",
+      "title": "ADB Shell with Persistent History"
+    }, {
+      "id": "SgHKpmzLmcA",
+      "title": "Naming Your Scripts"
+    }, {
+      "id": "WjfZVvoF6E0",
+      "title": "Creating Config Files for Your Scripts"
+    }, {
+      "id": "QVIUsvcZ81c",
+      "title": "Convert Text to SVG"
+    }, {
+      "id": "tc6DlZ_tFaE",
+      "title": "Linphone on Android"
+    }, {
+      "id": "PLqXfR6pD9c",
+      "title": "Minify Your Stock Android Device"
+    }, {
+      "id": "AA6LC2dmTfg",
+      "title": "OTA Updates on a Rooted Android device with Magisk"
+    }, {
+      "id": "_Xm3HYGW3lg",
+      "title": "Weather BASH Script"
+    }, {
+      "id": "RP83JnqIPqg",
+      "title": "02 C Programming User Input Tutorial GCC"
+    }, {
+      "id": "fOhRRbVIX9c",
+      "title": "Bootstrap MySQL Forms Template"
+    }, {
+      "id": "LCY8mqxVfvU",
+      "title": "BASH Get GPS Location of Your IP Address Linux Shell Tutorial"
+    }, {
+      "id": "aGAAMU_e1LA",
+      "title": "01 Write Your First Linux Program   Tutorial 2019"
+    }, {
+      "id": "xXPqzuNeke4",
+      "title": "Face Detection on Linux"
+    }, {
+      "id": "3ZF395XX2DE",
+      "title": "07 Pension HTML in BASH on Linux"
+    }, {
+      "id": "5_wCS8f6qgA",
+      "title": "05 Payroll Data - Extracting data into tables using AWK in BASH on Linux"
+    }, {
+      "id": "trYN7T6f4LQ",
+      "title": "Automate Rendering My Tutorial Videos Linux Shell MLT Melt"
+    }, {
+      "id": "OGt71H2PWLY",
+      "title": "Linux Shell Convert CSV to JSON csv2json"
+    }, {
+      "id": "_0HoJxshLZo",
+      "title": "Linux Shell Convert Excel Spreadsheets xlsx to csv LibreOffice"
+    }, {
+      "id": "VchqC88djyw",
+      "title": "Linux Shell Convert Excel Spreadsheets `xls2csv`"
+    }, {
+      "id": "XVvNiDPig9Y",
+      "title": "Android SMS Notification Assignment"
+    }, {
+      "id": "dJun_jhwdv4",
+      "title": "Android Screen Resolution"
+    }, {
+      "id": "av1s-cHJC-s",
+      "title": "Trimming White Space from Strings in BASH"
+    }
+  ]
+}
+

@@ -1,0 +1,68 @@
+{
+  "channel": {
+    "id": "NetworkChuck",
+    "name": "NetworkChuck",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO7_-P5MJWm1lL05UP9wroYaH4pPVP0koANpDpQ7g=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "uTAaFExLgwQ",
+      "title": "the hacker’s roadmap (how to get started in IT in 2023)"
+    }, {
+      "id": "IYmXPF3XUwo",
+      "title": "the END of VPNs?!"
+    }, {
+      "id": "DM65_JyGxCo",
+      "title": "Docker Compose will BLOW your MIND!! (a tutorial)"
+    }, {
+      "id": "qOrlYzqXPa8",
+      "title": "50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!)"
+    }, {
+      "id": "bKFMS5C4CG0",
+      "title": "Docker networking is CRAZY!! (you NEED to learn it)"
+    }, {
+      "id": "19nN9vgcgmU",
+      "title": "this BASH script will make you a MILLIONAIRE"
+    }, {
+      "id": "SPwyp2NG-bE",
+      "title": "you need to learn BASH Scripting RIGHT NOW!! // EP 1"
+    }, {
+      "id": "X9fSMGkjtug",
+      "title": "i built a Raspberry Pi SUPER COMPUTER!! // ft. Kubernetes (k3s cluster w/ Rancher)"
+    }, {
+      "id": "9Zj3Z4KkcQA",
+      "title": "my favorite IT study tool - Notion"
+    }, {
+      "id": "eZpLjKv9xvA",
+      "title": "run Linux on Windows Docker containers!!"
+    }, {
+      "id": "gd7BXuUQ91w",
+      "title": "60 Linux Commands you NEED to know (in 10 minutes)"
+    }, {
+      "id": "NDlQrK_QAzY",
+      "title": "the most SECURE browser!! (testing it with malware)"
+    }, {
+      "id": "lUzSsX4T4WQ",
+      "title": "your home router SUCKS!! (use pfSense instead)"
+    }, {
+      "id": "Kq0BMVhbFkA",
+      "title": "host your own HelpDesk"
+    }, {
+      "id": "799uhYUxtvA",
+      "title": "build your own browser (crazy SECURE)"
+    }, {
+      "id": "B2V_8M9cjYw",
+      "title": "Block ALL ads with this…(and speed up your internet)"
+    }, {
+      "id": "gd7BXuUQ91w",
+      "title": "60 Linux Commands you NEED to know (in 10 minutes)"
+    }, {
+      "id": "prVHU1fLR20",
+      "title": "30 Windows Commands you CAN’T live without"
+    }, {
+      "id": "Jfvg3CS1X3A",
+      "title": "40 Windows Commands you NEED to know (in 10 Minutes)"
+    }
+  ]
+}
+

@@ -99,6 +99,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Greg Johnston
+
+<MyYouTubeItems jsonName="yu-gbjxc" />
+
+<!-- Greg Johnston -->
+
+
 ## Mahdi Mirzadeh
 
 [![Mahdi Mirzadeh](https://yt3.googleusercontent.com/EBKpe1qUHuJrWVjVZnZeMFZKMEOupDStIfVaSAg-8lW_-mzHidQSSwLSxm-zQExyyt83bZPvWQ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-mahdimirzadeh]

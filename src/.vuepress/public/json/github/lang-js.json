@@ -918,6 +918,16 @@
     "repo": "studio-freight/lenis",
     "desc": "How smooth scroll should be",
     "topics": ["scroll", "smooth", "smooth-scroll"],
-    "officialSite": "https://lenis.studiofreight.com",
+    "officialSite": "https://lenis.studiofreight.com"
+  }, {
+    "repo": "vanjs-org/van",
+    "desc": "🍦VanJS (Vanilla JavaScript): World's smallest reactive UI framework",
+    "topics": ["dom", "vanilla-javascript", "data-binding", "vanilla-js", "dom-manipulation", "minimalist", "lightweight-framework", "lightweight-javascript-library", "ui-framework", "reactive-ui", "reative", "vanilla-dom-manipulation", "ultra-thin", "grab-n-go", "ultra-light", "vannilajs"],
+    "officialSite": "https://vanjs.org"
+  }, {
+    "repo": "chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "topics": ["json", "ci", "poetry", "chinese", "tangshi", "chinese-poetry"],
+    "officialSite": "http://shici.store/"
   }
 ]

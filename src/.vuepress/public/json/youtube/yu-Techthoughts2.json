@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Techthoughts2",
+    "name": "TechThoughts",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMaq6hRNrNdNb5NYvv2mJR1VG6GuPk2Z_wzaQR55w=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "QKmyf6c83Rs",
+      "title": "Working with the PowerShell Pipeline"
+    }, {
+      "id": "OfyRVl7YThw",
+      "title": "`PoshGram` - a PowerShell module for sending Telegram messages"
+    }, {
+      "id": "nRmNSJAuBmg",
+      "title": "Virtualization Home Lab Guide"
+    }
+  ]
+}

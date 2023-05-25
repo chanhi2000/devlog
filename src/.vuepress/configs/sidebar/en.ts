@@ -517,7 +517,6 @@ export const sidebarEn: SidebarConfig = {
         '/explore/youtube/watch-later-tutorial.md',
         '/explore/youtube/watch-later-keynote.md',
         '/explore/youtube/edu-compsci.md',
-        '/explore/youtube/edu-devops.md',
       ]
     }, {
       text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",
@@ -602,13 +601,15 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/10.md',
         '/crashcourse/paul-hudson-100-days-of-swift/11.md',
         '/crashcourse/paul-hudson-100-days-of-swift/12.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/13.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
       collapsible: true,
       children: [
         '/crashcourse/paul-hudson-100-days-of-swiftui/README.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/1.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/1.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/2.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

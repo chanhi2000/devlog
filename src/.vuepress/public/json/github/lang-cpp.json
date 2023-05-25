@@ -259,5 +259,10 @@
     "desc": "Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.",
     "topics": ["open-source", "gamedev", "metal", "game-engine", "engine", "vulkan", "game-development", "cocos2d", "mit-license", "cocoscreator", "cocos"],
     "officialSite": "https://www.cocos.com/en/creator"
+  }, {
+    "repo": "dalathegreat/BYD-Battery-Emulator-For-Gen24",
+    "desc": "This software converts the LEAF CAN into Modbus RTU registers understood by solar inverters that take the BYD 11kWh HVM battery",
+    "topics": [],
+    "officialSite": ""
   }
 ]

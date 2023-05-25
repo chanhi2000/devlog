@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "AdrianTwarog",
+    "name": "Adrian Twarog",
+    "profile": "https://yt3.googleusercontent.com/SBra9X0UPsNzyDjGcvN4iw2pb5Qku_3qFd1figMt48J7rUdU8mJYHPHAx0t6d0E6wLcUU__nZjg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "N4nX_rTwKx4",
+      "title": "How to integrate OpenAI GPT3 with a Databases - Crash Course"
+    }, {
+      "id": "JTxsNm9IdYU",
+      "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners"
+    }, {
+      "id": "bB7xkRsEq-g",
+      "title": "Advanced ChatGPT Guide - How to build your own Chat GPT Site"
+    }, {
+      "id": "qNifU_aQRio",
+      "title": "Navbar Bootstrap 5 |  Bootstrap Navbar Tutorial"
+    }, {
+      "id": "qKkwihNGz_U",
+      "title": "JavaScript Array Concat Method"
+    }, {
+      "id": "Y0QBmXEylP8",
+      "title": "250 Unique APIs for your next Project"
+    }, {
+      "id": "BEoFSRdkSZQ",
+      "title": "Full Stack Developer Roadmap"
+    }, {
+      "id": "_O5jjEwCgmA",
+      "title": "How To Build A Twitter Clone - React Next JS - Appwrite Crash Course"
+    }
+  ]
+}
+
+

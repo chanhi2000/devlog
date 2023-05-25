@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "OracleLearning",
+    "name": "Oracle Learning",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPGl4yYbRqDDIbvPaKU_BHfBt1hazKnNXX9jt6_=s176-c-k-c0x00ffffff-no-rjimgUrl"
+  },
+  "videos": [
+    {
+      "id": "SQRoQqhJkEQ",
+      "title": "Oracle Autonomous Database"
+    }, {
+      "id": "S6dMBqJRngw",
+      "title": "Multi-cloud &amp; No Code GL Journal Integration"
+    }, {
+      "id": "13R21lfYy74",
+      "title": "Ksplice Known Exploit Detection on Oracle Linux"
+    }, {
+      "id": "P7W7SwYA9tM",
+      "title": "Cloud Coaching - Jenkins meets Oracle Container Engine for Kubernetes (OKE)"
+    }, {
+      "id": "UPdPZPWOZIs",
+      "title": "OCI Monitoring Integration with 3rd party SIEM"
+    }, {
+      "id": "WlAyEezfQ4s",
+      "title": "OCI Workflow Demo"
+    }, {
+      "id": "zwNw-42vVsI",
+      "title": "Run containers without managing any servers"
+    }, {
+      "id": "Hoi_rR7YqPM",
+      "title": "Secure, observe, and connect microservices with OCI Service Mesh"
+    }, {
+      "id": "-Z3AwP2HPa4",
+      "title": "Setup Cockpit Web Console to manage KVM on Oracle Linux 8"
+    }, {
+      "id": "imPDNHSgbDc",
+      "title": "Using Vagrant"
+    }, {
+      "id": "UPdPZPWOZIs",
+      "title": "OCI Monitoring Integration with 3rd party SIEM"
+    }
+  ]
+}
+

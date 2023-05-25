@@ -35,6 +35,14 @@ tags: ["webdev", "vscode", "productivity", "programming"]
 
 - [How To Open Settings.Json In VS Code](https://www.alphr.com/vs-code-how-to-open-settings-json)
 
+---
+
+## Bit by bit
+
+- [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)
+
+---
+
 ## Headway
 
 - [VSCode Profiles: Optimize Your Coding Environment](https://www.headway.io/blog/vscode-profiles-optimize-your-coding-environment)

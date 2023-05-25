@@ -1,0 +1,70 @@
+{
+  "channel": {
+    "id": "RaghavPal",
+    "name": "Automation Step by Step",
+    "profile": "https://yt3.googleusercontent.com/YCqssaWqDRxsaxbQU5y1FtX8MYcWHpXEaLH7RBdPvUEJGYOYAmQTDhnkpm9qB1AKeWYDWHRw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ylEy4eLdhFs",
+      "title": "GitHub Actions Step by Step DEMO for Beginners"
+    }, {
+      "id": "6g5iz4tS3no",
+      "title": "WebdriverIO How to implement Page Object Model"
+    }, {
+      "id": "m_pbiGwDpgM",
+      "title": "Gatling Beginner Tutorial 2 | Maven, Project, Scripts, Execution & Reporting |"
+    }, {
+      "id": "woMAXn4e8NA",
+      "title": "Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |"
+    }, {
+      "id": "Rp_lFu4LpkU",
+      "title": "JMeter Beginner Tutorial | How to record API Request from Katalon Studio"
+    }, {
+      "id": "ynV_DX_TNgM",
+      "title": "TestProject Tutorial 16 | API - Introduction & Demo"
+    }, {
+      "id": "bGqS0f4Utn4",
+      "title": "Jenkins Beginner Tutorial 8 - Jenkins integration with GIT (SCM)"
+    }, {
+      "id": "BKefIqoUD3w",
+      "title": "Selenium Cucumber Java BDD Framework 6 - Page Object Model | Step by Step"
+    }, {
+      "id": "TnGeFFoz16U",
+      "title": "AccelQ Beginner Tutorial 10 | SOAP API Testing"
+    }, {
+      "id": "KDztFuXqnwo",
+      "title": "Selenium Cucumber Java BDD Framework 3 - First Selenium Test | Mac | Step by Step | Raghav Pal"
+    }, {
+      "id": "vgHp37LY_PY",
+      "title": "TestProject Tutorial 11 |  How to generate Java Code | How to run Tests from Java project"
+    }, {
+      "id": "J5l2fepRelk",
+      "title": "Postman Beginners Crash Course - Part 1 | Postman Introduction, GUI, Request creation"
+    }, {
+      "id": "Nabjqv8KDgc",
+      "title": "Gradle Beginner Tutorial 1 | What are Build Tools | What is Gradle | Step by Step"
+    }, {
+      "id": "H35w2V2V-Nk",
+      "title": "How To Create and Run Maven Project with Eclipse and CommandLine | Step by Step"
+    }, {
+      "id": "OWaZXtgq28c",
+      "title": "GitLab Beginner Tutorial 2 | Getting started with Git Commands"
+    }, {
+      "id": "UgTt8qOsgEU",
+      "title": "How to setup and use Docker on Free AWS Linux | Complete beginners hands-on in 7 Steps"
+    }, {
+      "id": "ylEy4eLdhFs",
+      "title": "GitHub Actions Step by Step DEMO for Beginners"
+    }, {
+      "id": "1Fy3jU-XGm4",
+      "title": "Katalon Studio | How to use Smart XPath Plugin"
+    }, {
+      "id": "Ops94dNqZ-0",
+      "title": "3 | Ansible Hands-On Demo Project | Step by Step for Beginners"
+    }
+  ]
+}
+
+
+ 

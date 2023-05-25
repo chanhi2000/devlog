@@ -6,7 +6,7 @@
     "officialSite": "https://scottplot.net"
   }, {
     "repo": "microsoft/PowerToys",
-    "desc": "Windows system utilities to maximize productivity ",      
+    "desc": "Windows system utilities to maximize productivity",
     "topics": ["windows", "color-picker", "desktop", "keyboard-manager", "powertoys", "fancyzones", "microsoft-powertoys", "powerrename"],
     "officialSite": ""
   }, {
@@ -129,10 +129,25 @@
     "desc": "PowerShell for every system!",
     "topics": ["windows", "macos", "linux", "shell", "command-line", "powershell", "netcore", "hacktoberfest"],
     "officialSite": "https://microsoft.com/PowerShell"
-  }, {
+  }, {  
     "repo": "dogu-team/gamium",
     "desc": "Gamium provides the ability to script the behavior of game users",
     "topics": ["game", "games", "game-development", "test-automation", "game-tester", "game-testing", "game-test-automation"],
     "officialSite": "https://gamium.dogutech.io"
+  }, {
+    "repo": "Kneesnap/onstream-data-recovery",
+    "desc": "A repository detailing data recovery of OnStream tapes.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/devhome",
+    "desc": "Windows Dev Home Application",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/devhomegithubextension",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

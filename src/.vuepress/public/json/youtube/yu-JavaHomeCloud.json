@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "Java Home Cloud",
+    "name": "JavaHomeCloud",
+    "profile": "https://yt3.googleusercontent.com/-XJIlEJbg20CCdD6XFTYeIsHpdxCVE6Y1IiZ2-Ccn0Aehy6qyvStMnQ4o74DVwaluVt5ga1-AQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [    
+    {
+      "id": "Ta4gPMpfPgg",
+      "title": "Free Seminar | Terraform Best Practices | Writing Terraform Modules | Terraform tutorial | Java Home"
+    }, {
+      "id": "xsBnF9gbXW4",
+      "title": "Debug Pod in Kubernetes | Debugging Pod | Pod Logs | ImagePullBackoff | DevOps Training"
+    }, {
+      "id": "C5mazUJ1dsg",
+      "title": "What is dynamic inventory in Ansible | Step by Step - Ansible AWS dynamic inventory Demo | Easy Way"
+    }, {
+      "id": "RvY5b--wnE0",
+      "title": "Writing reusable Jenkins Pipeline code | Jenkins Shared Library | Advanced Jenkins Pipeline Tutorial"
+    }, {
+      "id": "LkSHWYpiMtM",
+      "title": "How to validating Jenkinsfile locally | Validating Jenkins Pipeline locally  | Jenkinsfile Tutorial"
+    }, {
+      "id": "gdbA3vR2eDs",
+      "title": "Deploying docker app using Jenkins pipeline | CI/CD Of Docker | DevOps - Jenkins Pipeline Tutorial"
+    }, {
+      "id": "pts8zdHel5E",
+      "title": "08 - Jenkins pipeline integration with git & maven | Jenkins Pipeline Tutorial"
+    }, {
+      "id": "MjJgzsmuz00",
+      "title": "Kubernetes Taints and Tolerations Demo | Kubernetes Demo | Kubernetes for Beginners"
+    }, {
+      "id": "IWR24Z1yp80",
+      "title": "Git rest & revert deep dive | Git revert vs reset Demo | Git tutorial | Java Home Cloud"
+    }
+  ]
+}
+

@@ -222,6 +222,19 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## hiddenest
+
+- [접혀진 아코디언은 검색할 수 없나요?](https://hiddenest.dev/accessible-accordion)
+
+
+---
+
+## adama-platform
+
+- [How RxHTML works](https://www.adama-platform.com/2023/05/25/how-rxhtml-works.html)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

@@ -88,8 +88,8 @@ The first 14 days provide a gentle warm up for your SwiftUI learning as we cover
 
 Regardless of whether or not you go over the optional extra reading, you’ll find lots of short short tests – I recommend you take them to really solidify what you’ve learned.
 
-- [Day 1][day-1] – variables, constants, strings, and numbers
-- [Day 2][day-2] – Booleans, string interpolation, and checkpoint 1
+- [Day 1][day-1] – ✅variables, constants, strings, and numbers
+- [Day 2][day-2] – ✅Booleans, string interpolation, and checkpoint 1
 - [Day 3][day-3] – Arrays, dictionaries, sets, and enums
 - [Day 4][day-4] – type annotations and checkpoint 2
 - [Day 5][day-5] – if, switch, and the ternary operator
@@ -278,7 +278,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 
 [day-0]: https://www.hackingwithswift.com/100/swiftui/0
 [day-1]: 1.md
-[day-2]: https://www.hackingwithswift.com/100/swiftui/2
+[day-2]: 2.md
 [day-3]: https://www.hackingwithswift.com/100/swiftui/3
 [day-4]: https://www.hackingwithswift.com/100/swiftui/4
 [day-5]: https://www.hackingwithswift.com/100/swiftui/5

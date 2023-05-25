@@ -117,6 +117,7 @@ tags: ["education", "youtube", "programming", "css"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="lzKeecy4OmQ" title="Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery" />
 <YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="Np_MG-J9M_o" title="React Native vs Flutter, getting hired as a mobile dev + more | AMA w/ Mo Binni" />
 <YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="k0X2pLXlF-8" title="Get started in Machine Learning &amp; get hired as a Machine Learning Engineer | AMA w/ Daniel Bourke" />
 <YoutubeItem channelName="Zero To Mastery" channelId="ZeroToMastery" id="cKZEgtQUxlU" title="Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!)" />

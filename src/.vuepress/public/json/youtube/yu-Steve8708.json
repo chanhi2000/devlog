@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "Steve8708",
+    "name": "Steve (Builder.io)",
+    "profile": "https://yt3.googleusercontent.com/AQG3DNKvWvLbR22Oztb9jhrfZY89501l0qtrppfhs1-GpS6QVaVLwTPJH1hz_w9VQEaMLIga=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "sGdW4Amolq4",
+      "title": "A cure for React useState hell"
+    }, {
+      "id": "MtNAdeEV1Gk",
+      "title": "TypeScript utility types you need to know"
+    }, {
+      "id": "bGhUyJE2bCk",
+      "title": "Be careful with the `as` keyword in TypeScript"
+    }, {
+      "id": "XK0V0E3bA-M",
+      "title": "Deep cloning objects in JavaScript with structuredClone"
+    }, {
+      "id": "Wxlhtubs2FU",
+      "title": "AI + VS Code = 🤯"
+    }, {
+      "id": "nTqDhv447GA",
+      "title": "Introducing AI Shell: convert natural language to shell commands"
+    }
+  ]
+}

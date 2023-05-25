@@ -1,0 +1,116 @@
+<!-- .vuepress/components/DevHackerNewsItems -->
+<template>
+  <div class="card-title" style="background-color: rgb(49, 54, 62); color: rgb(254, 101, 1);">
+    <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="hacker-news-square" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="custom-icon svg-inline--fa fa-hacker-news-square fa-w-14">
+      <path fill="currentColor" d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM21.2 229.2H21c.1-.1.2-.3.3-.4 0 .1 0 .3-.1.4zm218 53.9V384h-31.4V281.3L128 128h37.3c52.5 98.3 49.2 101.2 59.3 125.6 12.3-27 5.8-24.4 60.6-125.6H320l-80.8 155.1z" class=""></path>
+    </svg>
+    <div class="card-title-text">
+      <div data-v-3564cb40="" class="round-borders wrapper">
+        <div data-v-3564cb40="" class="select-title-wrapper">
+          <span data-v-3564cb40="" class="select-title"> Hacker News</span>
+        </div>
+      </div>
+    </div>
+    <div class="pull-right external-icons">
+      <div class="title-icon external-icon" style="color: rgba(254, 101, 1, 0.7);">
+        <a href="https://news.ycombinator.com">
+          <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-external-link-alt fa-w-16">
+            <path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z" class=""></path>
+          </svg>
+        </a>
+      </div>
+      <div class="title-icon refresh-icon" style="color: rgba(254, 101, 1, 0.7);">
+        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="sync-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="fa-refresh-icon svg-inline--fa fa-sync-alt fa-w-16">
+          <path fill="currentColor" d="M370.72 133.28C339.458 104.008 298.888 87.962 255.848 88c-77.458.068-144.328 53.178-162.791 126.85-1.344 5.363-6.122 9.15-11.651 9.15H24.103c-7.498 0-13.194-6.807-11.807-14.176C33.933 94.924 134.813 8 256 8c66.448 0 126.791 26.136 171.315 68.685L463.03 40.97C478.149 25.851 504 36.559 504 57.941V192c0 13.255-10.745 24-24 24H345.941c-21.382 0-32.09-25.851-16.971-40.971l41.75-41.749zM32 296h134.059c21.382 0 32.09 25.851 16.971 40.971l-41.75 41.75c31.262 29.273 71.835 45.319 114.876 45.28 77.418-.07 144.315-53.144 162.787-126.849 1.344-5.363 6.122-9.15 11.651-9.15h57.304c7.498 0 13.194 6.807 11.807 14.176C478.067 417.076 377.187 504 256 504c-66.448 0-126.791-26.136-171.315-68.685L48.97 471.03C33.851 486.149 8 475.441 8 454.059V320c0-13.255 10.745-24 24-24z" class=""></path>
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div class="card-body">
+    <div class="hn-list">
+      <div class="hn-item" v-for="item in items">
+        <div class="title-row">
+          <div class="title">
+            <a v-bind:href="item.link" v-bind:title="item.title"> {{ item.title }}</a>
+          </div>
+          <div class="site-string">
+            <a v-bind:href="item.link"> ({{item.siteString}}) </a>
+          </div>
+        </div>
+        <div class="meta-data">
+          {{ item.score }} by <a v-bind:href="item.user.link" class="user-link"> {{ item.user.name }}</a> | {{ item.age }}  | <a v-bind:href="item.threadLink" class="thread-link"> item.commentCount</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</template>
+
+<script>
+export default {
+  name: "DevHackerNewsItems",
+  data() {
+    return {
+      items: null
+    }
+  },
+  methods: {
+    async fetchData() {
+      const res = await fetch("https://devo.ams3.digitaloceanspaces.com/hackernews.json");
+      const fetchedItems = await res.json();
+      const YCOMBINATOR_URL = 'https://news.ycombinator.com';
+      this.items = fetchedItems.map((e) => {
+        return {
+          age: e.age,
+          commentCount: e.commentCount,
+          link: (e.link.includes('http')) ? e.link : `${YCOMBINATOR_URL}/${e.link}` ,
+          score: e.score,
+          siteString: e.siteString,
+          threadLink: `${YCOMBINATOR_URL}/${e.threadLink}`,
+          title: e.title,
+          user: {
+            link: `${YCOMBINATOR_URL}/${e.user.link}`,
+            name: e.user.name,
+          }
+        }
+      });
+    }
+  },
+  mounted() {
+    this.fetchData()
+  },
+}
+</script>
+
+<style scoped>
+
+.card, .card-title { display:flex; }
+
+.card { height:100%;width:100%;flex-direction:column;max-height:80vh;border-radius:4px;overflow:hidden;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-border-radius:4px;}
+.card-title { font-size:16px;text-align:left;padding:12px;-webkit-box-align:center;align-items:center; }
+.card-body { padding:0 16px;overflow-x:auto;height:100%; }
+.svg-inline--fa.fa-w-14 { width:0.875em; }
+.hn-item {
+  font-size:16px;padding:8px 0;text-align:left;margin:0;
+}
+.hn-item .title-row {
+  margin-bottom:2px;max-width:100%;display:flex;
+}
+.hn-item .title {
+  white-space:nowrap;overflow:hidden;display:inline-block;text-overflow:ellipsis;
+}
+.hn-item a {
+  text-decoration:none;color:inherit;
+}
+.hn-item .site-string {
+  color:#828282;font-size:10.667px;display:inline-block;white-space:nowrap;margin-top:3px;padding-left:4px;
+}
+
+.meta-data {
+  color:#828282;font-size:9.33333px;
+}
+
+html.dark .hn-item {
+  border-bottom:1px solid rgba(223,227,232,.17647058823529413);
+}
+</style>

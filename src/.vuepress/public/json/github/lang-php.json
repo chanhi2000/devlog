@@ -39,5 +39,10 @@
     "desc": "☁️ Nextcloud server, a safe home for all your data",
     "topics": ["javascript", "open-source", "php", "enterprise", "design", "opensource", "cloud", "ux", "nextcloud", "owncloud", "decentralized", "sharing", "file-sharing", "collaboration", "distributed", "free-software", "usability", "self-hosting", "federation", "hacktoberfest"],
     "officialSite": "https://nextcloud.com"
+  }, {
+    "repo": "kanboard/kanboard",
+    "desc": "Kanban project management software",
+    "topics": ["agile", "self-hosted", "project-management", "kanban", "kanboard"],
+    "officialSite": "https://kanboard.org/"
   }
 ]

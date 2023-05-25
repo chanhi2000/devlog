@@ -138,6 +138,12 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## Patrick Loeber
+
+<MyYouTubeItems jsonName="yu-patloeber" />
+
+<!-- Patrick Loeber -->
+
 ## PyCon Korea
 
 [PyCon Korea][yu-py-con-kr-tube]

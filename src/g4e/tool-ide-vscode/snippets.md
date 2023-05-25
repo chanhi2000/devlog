@@ -81,18 +81,34 @@ Placeholders with the same ids are connected.
 ```json
 {
 	"jsonGhItem": {
-		   "prefix": "ghItem",
-		   "body": [
-			  "{",
-			  "  \"repo\": \"${1:repo}\",",
-			  "  \"desc\": \"${2:desc}\",", 
-			  "  \"topics\": [\"${3:topic}\"],",
-			  "  \"officialSite\": \"${4:os}\"",
-			  "}"
-		   ],
-		   "description": "Github Item as JSON"
-	  }
-  }
+		"prefix": "ghItem",
+		"body": [
+		 "{",
+		 "  \"repo\": \"${1:repo}\",",
+		 "  \"desc\": \"${2:desc}\",", 
+		 "  \"topics\": [${3:topic}],",
+		 "  \"officialSite\": \"${4:os}\"",
+		 "}"
+		],
+		"description": "Github Item as JSON"
+  },
+  "jsonYtItemAll": {
+		"prefix": "ytItemAll",
+		"body": [
+			"{",
+			"  \"channel\": {",
+			"    \"id\": \"${1:channelId}\",",
+			"    \"name\": \"${2:channelName}\",",
+			"    \"profile\": \"${3:imgUrl}\"",
+			"  },",
+			"  \"videos\": [",
+			"    ${0}",
+			"  ]",
+			"}"
+		],
+		"description": "YouTube Item as JSON"
+	}
+}
 ```
 
 ---

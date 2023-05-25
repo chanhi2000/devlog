@@ -132,6 +132,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Common Lisp
 
 - [melisgl/mgl][melisgl/mgl]: Common Lisp machine learning library.
+- [PuellaeMagicae/unix-in-lisp][PuellaeMagicae/unix-in-lisp]: Mount Unix system into Common Lisp image
+
 
 ---
 
@@ -236,6 +238,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [pharo-project/pharo]: https://github.com/pharo-project/pharo
 <!-- Common Lisp -->
 [melisgl/mgl]: https://github.com/melisgl/mgl
+[PuellaeMagicae/unix-in-lisp]: https://github.com/PuellaeMagicae/unix-in-lisp
+<!-- Vim Script -->
+[Exafunction/codeium.vim]: https://github.com/Exafunction/codeium.vim
 <!-- Verilog -->
 [lawrie/fpga_pio]: https://github.com/lawrie/fpga_pio
 <!-- DevOps -->
