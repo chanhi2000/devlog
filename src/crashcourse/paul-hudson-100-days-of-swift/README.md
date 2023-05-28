@@ -92,7 +92,7 @@ The first 12 days provide a gentle warm up for your Swift learning. You’ll wat
 You just learned a lot about Swift in only 12 days, so before we continue it's important you reflect on what you've learned: look for weak spots, re-watch videos, re-take tests, and so on, until you feel comfortable that you have mastered all the Swift language fundamentals covered in days 1-12.
 
 - [Day 13][day-13] – ✅Swift review, day one
-- [Day 14][day-14] – Swift review, day two
+- [Day 14][day-14] – ✅Swift review, day two
 - [Day 15][day-15] – Swift review, day three
 
 ### Days 16-22: Starting iOS
@@ -303,7 +303,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-11]: 11.md
 [day-12]: 12.md
 [day-13]: 13.md
-[day-14]: https://www.hackingwithswift.com/100/14
+[day-14]: 14.md
 [day-15]: https://www.hackingwithswift.com/100/15
 [day-16]: https://www.hackingwithswift.com/100/16
 [day-17]: https://www.hackingwithswift.com/100/17

@@ -26,6 +26,7 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 - [100dayscss](https://100dayscss.com)
 - [CSSBattle](https://cssbattle.dev)
 - [Front-end challenges](https://piccalil.li/category/front-end-challenges-club)
+- [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes)
 
 ---
 
@@ -77,6 +78,13 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 - [CSSMatic](https://www.cssmatic.com)
 - [Patternify](http://www.patternify.com)
 - [CssButtonGenerator](https://www.bestcssbuttongenerator.com)
+- [Autoprefixer CSS online](https://autoprefixer.github.io)
+- [CSS Gradient](https://cssgradient.io)
+- [Get Waves](https://getwaves.io)
+- [CSS Generator Tool](https://cssgenerator.org)
+- [BlobMaker](https://www.blobmaker.app)
+- [cubic-bezier](https://cubic-bezier.com)
+- [Bennette Feely Clippy](https://bennettfeely.com/clippy)
 
 ---
  

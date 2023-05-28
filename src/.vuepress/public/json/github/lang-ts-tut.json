@@ -14,5 +14,10 @@
     "desc": "Aplicação de recordação de memórias desenvolvida no NLW 12",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "gothinkster/realworld",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+    "topics": [],
+    "officialSite": "https://www.realworld.how"
   }
 ]

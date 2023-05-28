@@ -974,5 +974,45 @@
     "desc": "An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks",
     "topics": ["chatbot", "openai", "gpt", "gpt4", "chatgpt", "langchain", "privategpt"],
     "officialSite": "https://privategpt.thesamur.ai"
+  }, {
+    "repo": "anijs/anijs",
+    "desc": "A Library to Raise your Web Design without Coding.",
+    "topics": [],
+    "officialSite": "http://anijs.github.io"
+  }, {
+    "repo": "maxwellito/vivus",
+    "desc": "JavaScript library to make drawing animation on SVG",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jakearchibald/svgomg",
+    "desc": "Web GUI for SVGO",
+    "topics": [],
+    "officialSite": "https://jakearchibald.github.io/svgomg"
+  }, {
+    "repo": "postcss/autoprefixer",
+    "desc": "Parse CSS and add vendor prefixes to rules by Can I Use",
+    "topics": ["css", "prefixer", "postcss-plugins"],
+    "officialSite": "https://twitter.com/autoprefixer"
+  }, {
+    "repo": "bennettfeely/Clippy",
+    "desc": "Shape up your website with CSS clip-paths",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "zhao-stanley/chroma-ai",
+    "desc": "Write about your current mood, the lyrics of your favorite song, or even a random thought that popped into your head — AI will do the rest.",
+    "topics": ["nlp", "api", "ai", "nextjs", "artificial-intelligence", "openai", "gradient", "tailwindcss", "vercel", "gpt-3", "openai-api", "chatgpt"],
+    "officialSite": "https://chroma.szhao.dev"
+  }, {
+    "repo": "TypeCellOS/BlockNote",
+    "desc": "A \"Notion-style\" block-based extensible text editor built on top of Prosemirror and Tiptap.",
+    "topics": ["react", "javascript", "editor", "typescript", "prosemirror", "wysiwyg", "rich-text-editor", "notion", "yjs", "block-based", "tiptap", "notion-editor"],
+    "officialSite": "https://www.blocknotejs.org"
+  }, {
+    "repo": "pubkey/broadcast-channel",
+    "desc": "📡 BroadcastChannel to send data between different browser-tabs or nodejs-processes 📡 + LeaderElection over the channels https://pubkey.github.io/broadcast-channel/",
+    "topics": ["polyfill", "ipc", "localstorage", "indexeddb", "broadcast", "crosstab", "leader-election", "communication-channel", "postmessage", "broadcast-channel"],
+    "officialSite": "https://pubkey.github.io/broadcast-channel"
   }
 ]

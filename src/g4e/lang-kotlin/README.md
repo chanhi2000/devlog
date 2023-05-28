@@ -22,7 +22,7 @@ description: 🅺Kotlin
 
 ![Kotlin Coroutine Infographic](https://koenig-media.raywenderlich.com/uploads/2020/06/coroutines-infographic-600.png)
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-jetbrains]: https://img.shields.io/badge/Jetbrains-000000?logo=jetbrains&logoColor=white&style=flat-square
 [shield-kotlin]: https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square

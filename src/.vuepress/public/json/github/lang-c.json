@@ -189,6 +189,11 @@
     "desc": "A C Compiler that fits in the 512 byte boot sector of an x86 machine",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "libuv/libuv",
+    "desc": "Cross-platform asynchronous I/O",
+    "topics": ["windows", "unix", "networking", "asynchronous", "unicorns", "io", "velociraptors", "deep-io"],
+    "officialSite": "https://libuv.org"
   }
 ]
 

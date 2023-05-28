@@ -162,6 +162,25 @@ fun crossfade(
 
 :::
 
+## Extension
+
+### Animate values w/ `ValueAnimator`
+
+::: details Animate values w/ `ValueAnimator`
+
+```kotlin
+ValueAnimator.ofInt(0, 100).apply {
+    duration = 3000
+    start()
+
+    addUpdateListener { updatedAnimation -> 
+        textView.text = updatedAnimation.animatedView.toString()
+    }
+}
+```
+
+:::
+
 <TagLinks />
 
 [preferences-example-result]: /images/lang-android/preferences-example-result.jpg

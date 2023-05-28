@@ -14,7 +14,7 @@ description: 📺YouTube
 ![shield-youtube][shield-youtube]
 ![shield-google][shield-google]
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-github]: https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square
 [shield-youtube]: https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square

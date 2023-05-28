@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 🔍Query
-description: 📦Cubrid > 🔍Query
+description: ❇️Cubrid > 🔍Query
 tags: ["sql", "mysql", "mysql5", "ddl", "dml", "sql-privilege"]
 ---
 
@@ -15,7 +15,7 @@ tags: ["sql", "mysql", "mysql5", "ddl", "dml", "sql-privilege"]
 
 ## A. 유용한 쿼리
 
-### A1. GRANT 처리 
+### A1. GRANT 처리
 
 #### A1-i. 조회
 

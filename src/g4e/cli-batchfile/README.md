@@ -15,7 +15,7 @@ description: 🧢Batchfile (Windows)
 ![shield-win][shield-win]
 ![shield-pwsh][shield-pwsh]
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-terminal]: https://img.shields.io/badge/Terminal-241F31?logo=gnometerminal&logoColor=white&style=flat-square
 [shield-terminal-win]: https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=white&style=flat-square

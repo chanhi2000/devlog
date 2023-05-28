@@ -10,6 +10,8 @@ description: ♯CSharp
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+---
+
 ![shield-csharp][shield-csharp]
 ![shield-dotnet][shield-dotnet]
 

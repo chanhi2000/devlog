@@ -15,6 +15,8 @@ description: 🐍Python
 ![shield-sympy][shield-sympy]
 ![shield-numpy][shield-numpy]
 
+---
+
 [shield-python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square
 [shield-pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square
 [shield-sympy]: https://img.shields.io/badge/SymPy-3B5526?logo=sympy&logoColor=white&style=flat-square

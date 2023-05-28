@@ -644,5 +644,20 @@
     "desc": "Another style of writing Vue components.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "lottie-react-native/lottie-react-native",
+    "desc": "Lottie wrapper for React Native.",
+    "topics": ["react", "react-native", "animations", "after-effects", "bodymovin"],
+    "officialSite": ""
+  }, {
+    "repo": "openreplay/openreplay",
+    "desc": "📺 OpenReplay is developer-friendly, self-hosted session replay.",
+    "topics": ["react", "javascript", "python", "redis", "golang", "kafka", "clickhouse", "postgresql", "session-replay", "openreplay"],
+    "officialSite": "https://openreplay.com"
+  }, {
+    "repo": "asad-haider/spidey",
+    "desc": "Robust web spider for NodeJS",
+    "topics": ["data-mining", "scraper", "scraping", "web-scraping"],
+    "officialSite": ""
   }
 ]

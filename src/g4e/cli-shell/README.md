@@ -15,7 +15,7 @@ description: 🐚Shell
 ![shield-macos][shield-macos]
 ![shield-linux][shield-linux]
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-bash]: https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square
 [shield-terminal]: https://img.shields.io/badge/Terminal-241F31?logo=gnometerminal&logoColor=white&style=flat-square

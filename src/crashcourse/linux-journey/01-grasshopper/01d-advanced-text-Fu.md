@@ -25,9 +25,10 @@ meta:
 ```card
 title: Advanced Text-Fu
 desc: Navigate text like a Linux spider monkey with vim and emacs.
-link: 01-grasshopper/01d-advanced-text-fu
+link: https://linuxjourney.com/lesson/regular-expressions-regex
 logo: https://linuxjourney.com/assets/text-fu-advanced-384999618925a5ad54abb9113cfab05f5bd3f7e341d16aecbcbf1c83711e2378.png
 color: rgba(24, 188, 156, 0.2)
 ```
 
 ---
+

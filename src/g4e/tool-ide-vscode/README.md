@@ -27,7 +27,7 @@ description: 🆚VSCode
 ![shield-vuetify][shield-vuetify]
 ![shield-svelte][shield-svelte]
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square
 [shield-vscodium]: https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white&style=flat-square

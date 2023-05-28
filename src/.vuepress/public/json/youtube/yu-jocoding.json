@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "jocoding",
+    "name": "조코딩 JoCoding",
+    "profile": "https://yt3.googleusercontent.com/JuRcVt9OFQgqh7UL1LjihpVLEbjdNXt3tGq-IQfqRMT8wVXgWg_tzyz0S_GVsgqkB3ucBC5fqeY=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Tt_tKhhhJqY",
+      "title": "한시간만에 Node.js 백엔드 기초 끝내기 (ft. API 구축)"
+    }, {
+      "id": "7OWV0XLTBYE",
+      "title": "AI가 디자인 영역도 정복하나?! 마이크로소프트 디자이너 공개"
+    }, {
+      "id": "_lTY6NN-QMo",
+      "title": "GPT-4 등장과 기술 보고서 논란, 구글의 역습 등 AI 뉴스"
+    }, {
+      "id": "SGGebq48h3Y",
+      "title": "백엔드 서버 클릭 몇번으로 무료 배포하는 방법"
+    }, {
+      "id": "Tt_tKhhhJqY",
+      "title": "한시간만에 Node.js 백엔드 기초 끝내기 (ft. API 구축)"
+    }, {
+      "id": "c6EA_Fi44Ik",
+      "title": "자바스크립트 웹개발 40분 완성 스타크래프트 만들기 (ft. BOM, DOM, 이벤트)"
+    }, {
+      "id": "EqoU1PodQQ4",
+      "title": "SUB) Complete Game Development Lecture - Develop, Release, and Monetization in 3 hours from scratch"
+    }, {
+      "id": "5bTxyBeOVkA",
+      "title": "지금 주식 살까? 팔까? 판단은 알고리즘이 더 잘합니다 | 파이썬 주식 투자 자동화 완성하기 (ft. 1개월 수익 공개)"
+    }, {
+      "id": "1b7pXC1-IbE",
+      "title": "파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초"
+    }, {
+      "id": "3G3zExNItj0",
+      "title": "Will the lottery numbers predicted by deep learning win well?"
+    }
+  ]
+}

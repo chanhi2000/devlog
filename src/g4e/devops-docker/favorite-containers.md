@@ -34,6 +34,8 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 | [🌐](https://hub.docker.com/_/node) `node` | Node.js is a JavaScript-based platform for server-side and networking applications. |
 | [🌐](https://hub.docker.com/_/nginx) `nginx` | Official build of Nginx. |
 | [🌐](https://hub.docker.com/r/proteansec/frida) `proteansec/frida` | Docker image for frida dynamic instrumentation framework. |
+| [🌐](https://hub.docker.com/r/newrelic/infrastructure) `newrelic/infrastructure` | Public image for New Relic Infrastructure Agent |
 
+---
 
 <TagLinks />

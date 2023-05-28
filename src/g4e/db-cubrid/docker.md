@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 🐋Docker
-description: 📦Cubrid > 🐋Docker
+description: ❇️Cubrid > 🐋Docker
 tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
 ---
 

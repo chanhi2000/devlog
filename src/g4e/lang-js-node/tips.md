@@ -181,6 +181,14 @@ const int = 1553 / 10 | 0;;
 // typeof int: "number"
 ```
 
+### Random number in a given range
+
+```js
+const randomNumberInAGivenRange = (num1, num2) => Math.random() * (num2 - num1) + num1;
+
+console.log(randomNumberInAGivenRange(50, 100));
+```
+
 ---
 
 ## Performance

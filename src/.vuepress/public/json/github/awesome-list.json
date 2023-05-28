@@ -394,5 +394,10 @@
     "desc": "Leetcode solutions",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "AllThingsSmitty/css-protips",
+    "desc": "⚡️ A collection of tips to help take your CSS skills pro 🦾",
+    "topics": ["css", "awesome", "css3", "tips", "awesome-list", "useful", "tips-and-tricks", "protip", "css-tricks", "learning-resources"],
+    "officialSite": ""
   }
 ]

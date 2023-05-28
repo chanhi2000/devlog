@@ -94,5 +94,10 @@
     "desc": "Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.", 
     "topics": ["github", "javascript", "css", "python", "c", "git", "java", "html", "php", "c-plus-plus", "html5", "csharp", "js", "css3", "python3", "java-8", "html-css-javascript", "github-config"],
     "officialSite": ""
+  }, {
+    "repo": "thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "topics": ["javascript", "css", "html", "lists", "checklist", "web-development", "frontend", "reference", "resources", "guidelines", "front-end-development", "front-end-developer-tool"],
+    "officialSite": "https://frontendchecklist.io"
   }
 ]

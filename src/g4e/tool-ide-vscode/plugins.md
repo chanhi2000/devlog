@@ -61,6 +61,8 @@ tags: ["vscode", "visual-studio-code", "ide", "plugin", "vscode-plugin", "cli", 
 | [![mikestead.dotenv](https://mikestead.gallerycdn.vsassets.io/extensions/mikestead/dotenv/1.0.1/1519894859412/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-dotenv] | [DotENV][link-dotenv] <br/> `mikestead.dotenv` | Support for dotenv file syntax |
 | [![sidthesloth.html5-boilerplate](https://sidthesloth.gallerycdn.vsassets.io/extensions/sidthesloth/html5-boilerplate/1.1.1/1601299096251/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-html5-boilerplate] | [HTML Boilerplate][link-html5-boilerplate] | `sidthesloth.html5-boilerplate` | A basic HTML5 boilerplate snippet generator. |
 | [![yzhang.markdown-all-in-one](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.5.1/1679819344347/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-markdown-all-in-one] | `yzhang.markdown-all-in-one` | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more) |
+| [![mgmcdermott.vscode-language-babel](https://mgmcdermott.gallerycdn.vsassets.io/extensions/mgmcdermott/vscode-language-babel/0.0.39/1683165166128/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-vscode-language-babel] | `mgmcdermott.vscode-language-babel` | VSCode syntax highlighting for today's JavaScript |
+| [![chrmarti.regex](https://chrmarti.gallerycdn.vsassets.io/extensions/chrmarti/regex/0.4.0/1614893264407/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-regex-previewer] | `chrmarti.regex` | Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code. |
 
 ::: details ⚙️To Install
 
@@ -108,6 +110,8 @@ code --install-extension SimonSiefke.svg-preview; # Svg Preview
 code --install-extension mikestead.dotenv # DotENV
 code --install-extension sidthesloth.html5-boilerplate # HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one # Markdown All in One
+code --install-extension mgmcdermott.vscode-language-babel # Babel JavaScript
+code --install-extension chrmarti.regex # Regex Previewer
 ```
 
 
@@ -155,6 +159,8 @@ code --install-extension SimonSiefke.svg-preview && REM Svg Preview
 code --install-extension mikestead.dotenv && REM DotENV
 code --install-extension sidthesloth.html5-boilerplate && REM HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one && REM Markdown All in One
+code --install-extension mgmcdermott.vscode-language-babel && REM Babel 
+code --install-extension chrmarti.regex && REM Regex Previewer
 ```
 
 :::
@@ -251,3 +257,5 @@ code --install-extension yzhang.markdown-all-in-one && REM Markdown All in One
 [link-dotenv]: https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
 [link-html5-boilerplate]: https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate
 [link-markdown-all-in-one]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+[link-vscode-language-babel]: https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
+[link-regex-previewer]: https://marketplace.visualstudio.com/items?itemName=chrmarti.regex

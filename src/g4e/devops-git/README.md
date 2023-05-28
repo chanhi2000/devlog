@@ -16,7 +16,7 @@ description: 🛠️Git
 ![shield-gitea][shield-gitea]
 ![shield-gitlab][shield-gitlab]
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-git]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square
 [shield-git-lfs]: https://img.shields.io/badge/GitLfs-F64935?logo=gitlfs&logoColor=white&style=flat-square

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ApolloGraphQL",
+    "name": "Apollo GraphQL",
+    "profile": "https://yt3.googleusercontent.com/zTLJVXrUEsKch_4gngY6CrTrYXa0W7T-ZlQ1Dhu_16GhkYD7GxIyzDLH6VPSLd7O0GbSLlvBGw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "wNUg1jpj9T0",
+      "title": "Beyond Static With Gatsby &amp; Apollo (Jason Lengstorf)"
+    }
+  ]
+}

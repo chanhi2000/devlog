@@ -16,7 +16,7 @@ description: IDE (Integrated Development Environment)
 ![shield-vim][shield-vim]
 ![shield-neovim][shield-neovim]
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-jetbrains]: https://img.shields.io/badge/Jetbrains-000000?logo=jetbrains&logoColor=white&style=flat-square
 [shield-intellij-idea]: https://img.shields.io/badge/Intellij%20Idea-000000?logo=intellijidea&logoColor=white&style=flat-square

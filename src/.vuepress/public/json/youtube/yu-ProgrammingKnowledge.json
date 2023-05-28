@@ -1,0 +1,235 @@
+{
+  "channel": {
+    "id": "ProgrammingKnowledge",
+    "name": "ProgrammingKnowledge",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO1_aTMxySfeMCqUCPHZPmm_Vh8ecdreU_HUhoR=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "SeOlDGN346E",
+      "title": "Learn CSS – Full Tutorial for Beginners (2023)"
+    }, {
+      "id": "B3DndCaYgyM",
+      "title": "How to import Swagger APIs into Postman?"
+    }, {
+      "id": "wJjyZTPgwek",
+      "title": "Linux Tutorial - Master The Command Line"
+    }, {
+      "id": "F8LplPNfax8",
+      "title": "Docker Tutorial"
+    }, {
+      "id": "7MYx4Fx_eXI",
+      "title": "C Programming Tutorial - Full Course"
+    }, {
+      "id": "GjQJisueiHY",
+      "title": "Until Loop in Shell Scripting - Syntax and Examples"
+    }, {
+      "id": "ogyyZeKjmTE",
+      "title": "Java Tutorial For Beginners - Aggregation in Java"
+    }, {
+      "id": "fkhMETn50AU",
+      "title": "Spring Boot CRUD Application | How to create CRUD API using Spring Boot"
+    }, {
+      "id": "pwZGs-4lJbM",
+      "title": "Create a News App for Android using React Native"
+    }, {
+      "id": "2brSwrv4ZY0",
+      "title": "How To Build A News App Using React Native 7 - Final Part"
+    }, {
+      "id": "DR75hMtcP0g",
+      "title": "Discord Server Setup Tutorial | How to Use Discord - BEGINNER GUIDE!"
+    }, {
+      "id": "6j1LSZNCo6o",
+      "title": "How to use the Test Security extension with Quarkus | Quarkus Tutorial | CloudNative | Java"
+    }, {
+      "id": "932g0e4Do9Q",
+      "title": "How To Install NetBeans IDE on Windows 11"
+    }, {
+      "id": "Gwtdwqc6Nik",
+      "title": "Learn Flask Web Development for Python | Python Flask Tutorial"
+    }, {
+      "id": "8jK9O0lwem0",
+      "title": "Spring Boot Firebase CRUD Application 3 -  Implementing Springboot REST Endpoints"
+    }, {
+      "id": "EJYjE9X6G3M",
+      "title": "Spring Boot Firebase CRUD Application 5 - End-to-End testing Firebase CRUD API"
+    }, {
+      "id": "LiUCHKHH7Oc",
+      "title": "How to Build a Progressive Web App (PWA) from scratch"
+    }, {
+      "id": "bZ-aGMWAVhk",
+      "title": "Spring Boot Quartz Scheduler Tutorial 1- Getting started with Quartz and Spring Boot"
+    }, {
+      "id": "ccbh5YhxouQ",
+      "title": "Docker Tutorial | Crash Course"
+    }, {
+      "id": "ZsKOQ7HmsSE",
+      "title": "Spring Boot Tutorial | Full Course (NEW)"
+    }, {
+      "id": "EYA2YNHHPls",
+      "title": "Jenkins Tutorial is For Beginners, DevOps and Software Developers"
+    }, {
+      "id": "m-7oUV1x7jc",
+      "title": "Caching in Spring Boot with Example | Spring Caching with Caffeine Cache"
+    }, {
+      "id": "xDLIsbSx248",
+      "title": "React Hooks Tutorial  | `useState`, `useEffect`, `useReducer`, `useCallBack`, `useMemo`"
+    }, {
+      "id": "Qqgvy6nr-O0",
+      "title": "Building Todo App with React Redux"
+    }, {
+      "id": "izx0icK3kYw",
+      "title": "How to Create an Instagram Like App with REACT JS"
+    }, {
+      "id": "HT82p_re-EY",
+      "title": "ReactJS Frontend Web Development | Learn By Building Projects (including Hooks, React Router, Redux)"
+    }, {
+      "id": "yMUo4WXIZ1c",
+      "title": "Vue JS 3 Tutorial for Beginners #5 - Form Validation in Vue.Js 3"
+    }, {
+      "id": "694YjzL-yKY",
+      "title": "Android Firebase Firestore Masterclass - Build An App From Start to Finish"
+    }, {
+      "id": "o-BgRjxNf2Q",
+      "title": "Learn MySQL In One Video - Course for Beginners"
+    }, {
+      "id": "bRo1HtdZLRQ",
+      "title": "Make An Instagram Clone Android App"
+    }, {
+      "id": "ormRboQsB-I",
+      "title": "Microsoft Excel Tutorial for Beginners | Excel Training | FREE Online Excel course"
+    }, {
+      "id": "aNNDipAjdls",
+      "title": "Selenium Tutorial for Beginners 9 - Selenium Testing with Shadow DOM"
+    }, {
+      "id": "vMgEIoYdFow",
+      "title": "Spring Boot Tutorial for Beginners 9 - Spring Boot CRUD Operations using Apache Derby"
+    }, {
+      "id": "SeswFFdH03U",
+      "title": "K means Clustering Algorithm tutorial"
+    }, {
+      "id": "Y8InSLqLirc",
+      "title": "Spring Boot Tutorial for Beginners 8 - Configuring Embedded Apache Derby in Spring Boot app"
+    }, {
+      "id": "uYpeaN9sYVw",
+      "title": "Docker Tutorial for Beginners 9 - Port Mapping | `-p` option | Docker EXPOSE Ports"
+    }, {
+      "id": "a6ISqlQEdAE",
+      "title": "How To Become An Automation Test Engineer | Test Automation Engineer  Roles &amp; Skills Requirements"
+    }, {
+      "id": "AYu6SaFgg_o",
+      "title": "React Tutorial 24 - Using Redux and `react-redux`"
+    }, {
+      "id": "x3KoYy4czXU",
+      "title": "C++ Tutorial for Beginners 23 - Inheritance in C++"
+    }, {
+      "id": "bx47J8YPJ24",
+      "title": "Excel VBA Tutorial for Beginners 5 - Cell Referencing in VBA | VBA Cell References Methods"
+    }, {
+      "id": "M4_Rhdw_tLQ",
+      "title": "Excel VBA Tutorial for Beginners 4 - Writing/Creating Macros In Visual Basic For Applications"
+    }, {
+      "id": "LDim479YZRc",
+      "title": "Excel VBA Tutorial for Beginners 3 - How To Use The VBA Editor In Excel (2/2)"
+    }, {
+      "id": "1LM67wRAWb8",
+      "title": "React Tutorial 5 - Handling Dynamic Content + Data Fetching"
+    }, {
+      "id": "X4uS1qsNIAo",
+      "title": "Testing Express APIs with Supertest |  Testing NodeJs/Express API with Jest and Supertest"
+    }, {
+      "id": "VX0zVCOslZo",
+      "title": "Microsoft Excel Tutorial - Multiple Criteria Statistical Functions in Excel"
+    }, {
+      "id": "YtkBnc8Rffw",
+      "title": "How To Debug Node.js Code in Visual Studio Code |  Debug Node.js using Visual Studio Code (VS code)"
+    }, {
+      "id": "NzQ3HaOKnGw",
+      "title": "Microsoft Excel Tutorial - Single Criteria Statistical functions"
+    }, {
+      "id": "KERULjBIKhE",
+      "title": "Firebase Android Tutorial 18 - Instagram Like App using Firebase (Part 10) (Post Activity Code)"
+    }, {
+      "id": "BzUmdMsGxq4",
+      "title": "MQTT Tutorial | What is MQTT and How It Works with CloudMQTT + Mosquitto + Paho Python MQTT"
+    }, {
+      "id": "8Iu5uqby9PY",
+      "title": "Docker Tutorial for Beginners 4 - How To Install and Use Docker on Ubuntu 18.04 LTS / Ubuntu 20.04"
+    }, {
+      "id": "EOaXjiJeRms",
+      "title": "After Effects Tutorial  - Create the Disintegration Effect (Snap Effect or a Scattering Effect)"
+    }, {
+      "id": "AxckTfZiIx4",
+      "title": "PostgreSQL Tutorial for Beginners 23 - PostgreSQL LIKE Clause"
+    }, {
+      "id": "2LCSTSmapRA",
+      "title": "PyQt5 Tutorial 9 - PyQt5 Directory View"
+    }, {
+      "id": "x4-lccsxnzI",
+      "title": "PostgreSQL Tutorial for Beginners 20 - PostgreSQL BETWEEN Condition"
+    }, {
+      "id": "xiXRQginKH0",
+      "title": "Getting started with Materialize | Materialize CSS From Scratch"
+    }, {
+      "id": "7j834VpIb0E",
+      "title": "C++ Tutorial for Beginners 2 - What is compiler ? Difference Between Compiler and Interpreter"
+    }, {
+      "id": "NGRSZ-EbDIU",
+      "title": "PostgreSQL Tutorial for Beginners 12 - PostgreSQL - OR condition"
+    }, {
+      "id": "1BDT_jjdA-8",
+      "title": "Learn to Build a Custom Component With Angular"
+    }, {
+      "id": "vJTStapcRiE",
+      "title": "MySQL Tutorial for Beginners 7 - How to Insert Data into a MySQL table"
+    }, {
+      "id": "wJjyZTPgwek",
+      "title": "Linux Tutorial - Master The Command Line (2023)"
+    }, {
+      "id": "F8LplPNfax8",
+      "title": "Docker Tutorial"
+    }, {
+      "id": "hTlU3byU-rI",
+      "title": "How To Install Matplotlib In PyCharm (2023)"
+    }, {
+      "id": "5_EA3rBCXmU",
+      "title": "How to Install Docker Desktop on Ubuntu 22.04 LTE Linux"
+    }, {
+      "id": "NJYcRcqPyOw",
+      "title": "Debugging C Program with Visual Studio Code (VSCode)"
+    }, {
+      "id": "6KQ_h0XBmxk",
+      "title": "How to Debug Your Python Code with the Python Debugger (pdb)"
+    }, {
+      "id": "DfVsXMkv8cA",
+      "title": "How To Install OpenCV in PyCharm (2023)"
+    }, {
+      "id": "yG9kmBQAtW4",
+      "title": "Set Up Python Virtual Environment In Visual Studio Code (VS Code) | VSCode activate venv (2023)"
+    }, {
+      "id": "4-_3obNgNKM",
+      "title": "How to Run C in Visual Studio Code on Windows 11 (2023)"
+    }, {
+      "id": "KUECJHlV1LE",
+      "title": "How to “Dockerize” Your Python Applications | How To Build And Run A Python App In Docker Container"
+    }, {
+      "id": "IZCwawKILsk",
+      "title": "Setup IntelliJ IDEA for JavaFX &amp; SceneBuilder and Create Your First JavaFX Application  (2023)"
+    }, {
+      "id": "c3dIEGXLgC4",
+      "title": "Maven - How to integrate Apache Tomcat in IntelliJ IDEA and deploy a WAR file"
+    }, {
+      "id": "Kawn6HK47Ag",
+      "title": "How to Check file integrity using Shell Scripts in Linux"
+    }, {
+      "id": "MKS6EaZxgLo",
+      "title": "How to Cloning GitHub repo using using Shell Scripts in Linux"
+    }, {
+      "id": "pd6FtTmVG6E",
+      "title": "How to Use Nmap Script Engine (NSE) Shell Scripts in Linux"
+    }, {
+      "id": "fowG6TmS3B8",
+      "title": "Nested Functions Shell Scripts In Linux"
+    }
+  ]
+}

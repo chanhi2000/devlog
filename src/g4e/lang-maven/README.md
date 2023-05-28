@@ -12,4 +12,6 @@ description: 🐦Maven
 
 ![shield-maven][shield-maven]
 
+---
+
 [shield-maven]: https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white&style=flat-square

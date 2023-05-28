@@ -1081,14 +1081,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Michigan TypeScript
 
-[Michigan TypeScript][yu-michigan-typescript]
-
-::: details 목록
-
-<YoutubeItem channelName="Michigan TypeScript" channelId="MichiganTypeScript" id="uaadPCiN6-0" title="ClassPublicKeys - TypeScript Type Challenges #2828 [HARD]" />
-<YoutubeItem channelName="Michigan TypeScript" channelId="MichiganTypeScript" id="K0SWmX3KylY" title="Split - TypeScript Type Challenges #2822 [HARD]" />
-
-:::
+<MyYouTubeItems jsonName="yu-MichiganTypeScript" />
 
 <!-- Michigan TypeScript -->
 
@@ -1287,13 +1280,9 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Apollo GraphQL
 
-[Apollo GraphQL][yu-apollo-graphql]
+<MyYouTubeItems jsonName="yu-ApolloGraphQL" />
 
-::: details 목록
-
-<YoutubeItem channelName="Apollo GraphQL" channelId="ApolloGraphQL" id="wNUg1jpj9T0" title="Beyond Static With Gatsby &amp; Apollo (Jason Lengstorf)" />
-
-:::
+<!-- Apollo GraphQL -->
 
 ---
 
@@ -1771,6 +1760,13 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- notJust.dev -->
 
 ---
+
+## Karl Hadwen
+
+<MyYouTubeItems jsonName="yu-CognitiveSurge" />
+
+<!-- Karl Hadwen -->
+
 
 ## Misc
 

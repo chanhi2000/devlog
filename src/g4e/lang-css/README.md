@@ -10,6 +10,8 @@ description: 🎨CSS
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+---
+
 ![shield-css3][shield-css3]
 ![shield-cssmodules][shield-cssmodules]
 

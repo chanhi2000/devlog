@@ -13,6 +13,6 @@ category: 🏂Zig
 
 ![shield-zig][shield-zig]
 
-{{ $frontmatter.description }} 관련 정리내용
+---
 
 [shield-zig]: https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white&style=flat-square

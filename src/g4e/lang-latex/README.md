@@ -12,4 +12,6 @@ description: 🦢LaTeX
 
 ![shield-latex][shield-latex]
 
+---
+
 [shield-latex]: https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square

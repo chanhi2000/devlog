@@ -442,7 +442,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-oracle/youtube.md',
       ]
     }, {
-      text: '📦Cubrid',
+      text: '❇️Cubrid',
       collapsible: true,
       children: [
         '/g4e/db-cubrid/README.md',
@@ -457,6 +457,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-postgres/README.md',
         '/g4e/db-postgres/query.md',
         '/g4e/db-postgres/references.md',
+      ]
+    }, {
+      text: '🪳Cockroach',
+      collapsible: true,
+      children: [
+        '/g4e/db-cockroach/README.md',
+        '/g4e/db-cockroach/query.md',
+        '/g4e/db-cockroach/references.md',
       ]
     }, {
       text: '🔎SQL',
@@ -623,6 +631,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/11.md',
         '/crashcourse/paul-hudson-100-days-of-swift/12.md',
         '/crashcourse/paul-hudson-100-days-of-swift/13.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/14.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -630,7 +639,8 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/crashcourse/paul-hudson-100-days-of-swiftui/README.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/1.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/2.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/2.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/3.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -674,6 +684,18 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/linux-journey/01-grasshopper/01f-permissions.md',
         '/crashcourse/linux-journey/01-grasshopper/01g-processes.md',
         '/crashcourse/linux-journey/01-grasshopper/01h-packages.md'
+      ]
+    }, {
+      text: '🧶Must Know JavaScript API',
+      collapsible: true,
+      children: [
+        '/crashcourse/must-know-javascript-api/README.md',
+        '/crashcourse/must-know-javascript-api/page-visibility.md',
+        '/crashcourse/must-know-javascript-api/broadcast-channel.md',
+        '/crashcourse/must-know-javascript-api/resize-observer.md',
+        '/crashcourse/must-know-javascript-api/beacon.md',
+        '/crashcourse/must-know-javascript-api/clipboard.md',
+        '/crashcourse/must-know-javascript-api/fetch.md'
       ]
     }
   ]

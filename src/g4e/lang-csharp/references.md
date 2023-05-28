@@ -17,6 +17,8 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 - [Announcing Uno Platform Support for Visual Studio Code](https://platform.uno/blog/announcing-uno-platform-support-for-visual-studio-code/)
 
+---
+
 ## Learning(s)
 
 - [C# Indexer](http://www.csharpstudy.com/CSharp/CSharp-indexer.aspx)
@@ -124,6 +126,18 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 ## Programming With Wolfgang
 
 - [Mediator Pattern in ASP .NET Core 3.1](https://codemilltech.com/authenticate-a-asp-net-core-web-app-with-microsoft-identity-web)
+
+---
+
+## Syncfusion
+
+- [Struct vs. Record vs. Class in C#](https://www.syncfusion.com/blogs/post/struct-record-class-in-csharp.aspx)
+
+---
+
+## Telerik
+
+- [ASP.NET Core Basics: ASP.NET Core Overview](https://www.telerik.com/blogs/aspnet-core-basics-aspnet-core-overview)
 
 ---
 

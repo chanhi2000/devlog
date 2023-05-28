@@ -11,6 +11,8 @@ tags: ["c"]
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+---
+
 ![shield-vscode][shield-vscode]
 ![shield-c][shield-c]
 

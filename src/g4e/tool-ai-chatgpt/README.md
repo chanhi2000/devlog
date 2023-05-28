@@ -13,4 +13,6 @@ category: 💬ChatGPT
 
 ![shield-openai][shield-openai]
 
+---
+
 [shield-openai]: https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square

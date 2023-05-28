@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "jimmykimu",
+    "name": "DEvS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNvehBNESDxoDHT9Qs8_JtGb5815mMjqMNBr-lpRg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "KYAF5yVElLY",
+      "title": "JavaScript: Debounce, Throttle | 한꺼번에 일어나는 빠르고 많은 실행을 제어 (feat. Closure)"
+    }, {
+      "id": "pClOy5lA7rU",
+      "title": "`fullPage.js` 기초 사용법 (풀페이지 fullpage js)"
+    }, {
+      "id": "ohCBS5DXr8s",
+      "title": "자바스크립트: DOM 이벤트 흐름 | JavaScript: DOM Event Flow | 캡쳐링, 버블링, target, currentTarget, stopPropagation.."
+    }, {
+      "id": "DiPa943Wa7Q",
+      "title": "Sass (SCSS): Nesting (네스팅)과 CSS의 BEM 구조"
+    }, {
+      "id": "c5F1QSN7LRo",
+      "title": "Sass (SCSS): Nesting (네스팅) 추가 내용"
+    }, {
+      "id": "pClOy5lA7rU",
+      "title": "`fullPage.js` 기초 사용법 (풀페이지 fullpage js)"
+    }
+  ]
+}
+
+
+

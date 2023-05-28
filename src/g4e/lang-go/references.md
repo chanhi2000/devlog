@@ -17,6 +17,8 @@ tags: ["go", "golang"]
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)
 - [Stop Using DTOs in Go, It’s Not Java](https://dsysd-dev.medium.com/stop-using-dtos-in-go-its-not-java-96ef4794481a)
 - [Machine Coding Interview: Efficient Cache Implementation using time-based expiry and eviction](https://dsysd-dev.medium.com/machine-coding-interview-efficient-cache-implementation-using-time-based-expiry-and-eviction-925165a92831)
+- [Message Queue for Publisher/Subscriber (pub/sub) Scenarios with Go Practice](https://medium.com/@lordmoma/message-queue-for-publisher-subscriber-pub-sub-scenarios-with-go-practice-3ecc61b1b12)
+
 
 ---
 
@@ -41,6 +43,12 @@ tags: ["go", "golang"]
 ## Quastor
 
 - [How PayPal Built a Database that serves 350 Billion Requests Per Day](https://blog.quastor.org/p/paypal-built-database-serves-350-billion-requests-per-day)
+
+---
+
+## GoLang
+
+- [Golang maps: declaring and initializing](https://golang.ch/golang-maps-declaring-and-initializing)
 
 ---
 

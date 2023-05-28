@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "ThePrimeTimeagen",
+    "name": "ThePrimeTime",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOnBN9Fze9naSk9bKiMEMwBqFyrxeVhYoVSM1rl=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "pj8SoTZbCTE",
+      "title": "TS vs JSDoc | Prime Reacts"
+    }, {
+      "id": "1u08QZyjguo",
+      "title": "Gitlab DELETING Production Databases | Prime Reacts"
+    }, {
+      "id": "ihFoFqvZhCM",
+      "title": "Atomic Git ONLY WAY TO USE GIT | Prime Reacts"
+    }, {
+      "id": "UrMHPrumJEs",
+      "title": "Leptos: UI Framework in Rust | Greg Johnston"
+    }, {
+      "id": "RJTepwXirk8",
+      "title": "Rich Harris Teaches ThePrimeagen SvelteKit"
+    }, {
+      "id": "oGHH5aJEgXQ",
+      "title": "Jonathan blow Hates Visual Studios | Prime Reacts"
+    }, {
+      "id": "fUKAtZPPc7I",
+      "title": "QUIT VIM Because Modern IDES are magic"
+    }, {
+      "id": "qFnHWMxlOBc",
+      "title": "Carmack Doesn't Like Vim | Prime Reacts"
+    }, {
+      "id": "5HcyF_3XOzM",
+      "title": "Benchmarking Databases on Vercel | Prime Reacts"
+    }, {
+      "id": "onGVymdtnjM",
+      "title": "You Can Code in Powerpoint??? | Prime Reacts"
+    }, {
+      "id": "XKivYCgCMPw",
+      "title": "NX For MonoRepos? | Prime Interviews #ad"
+    }, {
+      "id": "zi0ZspvoLuo",
+      "title": "React is Holding Me Hostage!!! | Prime Reacts"
+    }, {
+      "id": "zs8FStOO2Z4",
+      "title": "Prime Reacts:  Building a Startup in Rust; I won't do it again"
+    }, {
+      "id": "B76gFi43HvM",
+      "title": "1000x FASTER JavaScript?"
+    }
+  ]
+}

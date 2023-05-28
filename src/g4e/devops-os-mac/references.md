@@ -35,6 +35,10 @@ tags: ["macos", "settings"]
 - [st44100's setup](https://gist.github.com/st44100/672006aa7cfc7d5fd304)
 - [sb2nov's setup](http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html)
 
+## HackerNews
+
+- [Hackers Using Golang Variant of Cobalt Strike to Target Apple macOS Systems](https://thehackernews.com/2023/05/hackers-using-golang-variant-of-cobalt.html)
+
 ---
 
 ## Misc

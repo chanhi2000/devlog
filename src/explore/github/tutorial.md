@@ -27,9 +27,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ## Misc
 
-- [gothinkster/realworld][gothinkster/realworld]: About
-"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-  - [🌐Official Site](https://www.realworld.how)
 - [codecrafters-io/build-your-own-x][codecrafters-io/build-your-own-x]: Master programming by recreating your favorite technologies from scratch.
   - [🌐Official Site](https://codecrafters.io)
 - [kallaway/100-days-of-code][kallaway/100-days-of-code]: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
@@ -52,12 +49,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 [kodekloudhub/linux-basics-course]: https://github.com/kodekloudhub/linux-basics-course
 [aws/containers-roadmap]: https://github.com/aws/containers-roadmap
 [Anof-cyber/Application-Security]: https://github.com/Anof-cyber/Application-Security
-<!-- Machine Learning -->
-[DataTalksClub/mlops-zoomcamp]: https://github.com/DataTalksClub/mlops-zoomcamp
-[curiousily/Getting-Things-Done-with-Pytorch]: https://github.com/curiousily/Getting-Things-Done-with-Pytorch
-[graykode/nlp-tutorial]: https://github.com/graykode/nlp-tutorial
 <!-- Misc. -->
-[gothinkster/realworld]: https://github.com/gothinkster/realworld
 [codecrafters-io/build-your-own-x]: https://github.com/codecrafters-io/build-your-own-x
 [kallaway/100-days-of-code]: https://github.com/kallaway/100-days-of-code
 [coding-horror/basic-computer-games]: https://github.com/coding-horror/basic-computer-games

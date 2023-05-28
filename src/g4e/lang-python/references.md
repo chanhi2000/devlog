@@ -55,4 +55,10 @@ description: 🐍Python > 📚References
 
 - [Developing Metadata-Driven Data Engineering Pipelines Using Apache Spark and Python Dictionary](https://dzone.com/articles/developing-metadata-driven-data-engineering-pipeli)
 
+---
+
+## pamela fox
+
+- [A Dev Container for SQLAlchemy with SQLTools](https://blog.pamelafox.org/2023/05/a-dev-container-for-sqlalchemy-with.html)
+
 <TagLinks />

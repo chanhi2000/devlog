@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: 📦Cubrid
+description: ❇️Cubrid
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -10,6 +10,4 @@ description: 📦Cubrid
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-{{ $frontmatter.description }} 관련 정리내용
-
-<TagLinks />
+---

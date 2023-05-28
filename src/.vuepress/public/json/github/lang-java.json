@@ -259,6 +259,11 @@
     "desc": "https://www.codingame.com/contests/spring-challenge-2023",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "apache/incubator-baremaps/",
+    "desc": "Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.",
+    "topics": ["java", "vector-tiles", "openstreetmap", "postgresql", "postgis", "mapbox", "spatial-data", "web-mapping"],
+    "officialSite": "http://baremaps.apache.org"
   }
 ]
 

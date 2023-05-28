@@ -170,6 +170,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [ES6 imports vs CommonJS imports](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)
 - [Angular Tree Shaking: Optimize Your Application’s Size 🌳](https://designtechworld.medium.com/angular-tree-shaking-optimize-your-applications-size-ea7494a568f)
 - [The Art of Micro Frontends](https://medium.com/sysco-labs/the-art-of-micro-frontends-5184065ab74b)
+- [Building a Web Scraper with Spidey: Part 5 — Proxy Integration](https://towardsdev.com/building-a-web-scraper-with-spidey-part-5-proxy-integration-4da0ebccc170)
 
 ---
 
@@ -212,6 +213,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Tanstack: How To Add Tables To Your React App](https://blog.openreplay.com/tanstack--how-to-add-tables-to-your-react-app)
 - [React's Virtual DOM](https://blog.openreplay.com/reacts-virtual-dom)
 - [Common Date/Time Operations Without Moment.Js](https://blog.openreplay.com/common-date-time-operations-without-moment-js)
+- [React's Layout Component's Concept](https://blog.openreplay.com/reacts-layout-components-concept)
 
 ---
 
@@ -254,6 +256,13 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Progress Telerik
 
 - [List of Useful JavaScript Shorthands](https://www.telerik.com/blogs/list-useful-javascript-shorthands)
+- [How to Insert Custom CSS in Your Angular App](https://www.telerik.com/blogs/how-to-insert-custom-css-angular-app)
+
+---
+
+## web.dev
+
+- [Assessing loading performance in the field with Navigation Timing and Resource Timing](https://web.dev/navigation-and-resource-timing)
 
 ---
 

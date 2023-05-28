@@ -15,21 +15,25 @@ tags: ["macos", "settings"]
 
 ## macmostvideo
 
-[macmostvideo][yu-macmost]
-
-::: details 목록
-
-<YoutubeItem channelName="macmostvideo" channelId="macmost" id="BHcDxlNTTl8" title="Clean Up Your Mac's Dock" />
-<YoutubeItem channelName="macmostvideo" channelId="macmost" id="fKjAiPCZevc" title="9 Safari Search Tips" />
-<YoutubeItem channelName="macmostvideo" channelId="macmost" id="ghZidpnUq4w" title="How To Diagnose Battery Drain on a MacBook" />
-<YoutubeItem channelName="macmostvideo" channelId="macmost" id="Dxrgh0Myszw" title="10 Ways To Use Text Replacements On Your Mac" />
-<YoutubeItem channelName="macmostvideo" channelId="macmost" id="BTmZOh1GI3U" title="An Introduction To Using Mac Automator" />
-
-:::
+<MyYouTubeItems jsonName="yu-macmost" />
 
 <!-- macmostvideo -->
 
 ---
+
+## Josean Martinez
+
+<MyYouTubeItems jsonName="yu-joseanmartinez" />
+
+<!-- Josean Martinez -->
+
+---
+
+## Code Persist
+
+<MyYouTubeItems jsonName="yu-codepersist" />
+
+<!-- Code Persist -->
 
 ## Misc
 

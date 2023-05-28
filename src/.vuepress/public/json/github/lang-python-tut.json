@@ -89,5 +89,10 @@
     "desc": "The beginner's guide to eBPF",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "pamelafox/sqlalchemy-sqlite-playground",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

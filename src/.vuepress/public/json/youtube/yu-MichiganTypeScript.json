@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "MichiganTypeScript",
+    "name": "Michigan TypeScript",
+    "profile": "https://yt3.googleusercontent.com/r702RYXCHpyRjx3Szth3YIDUs3C4yF_wrUwMFbN83Mbe3HpBRQz754LrIAKO9YUuiR49UuK3JQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "aOOKXapH9_Q",
+      "title": "Sum - TypeScript Type Challenges #476 [EXTREME]"
+    }, {
+      "id": "gmr6sFgJCKc",
+      "title": "Binary to Decimal with Jongsun Suh - TypeScript Type Challenges #6141 [HARD]"
+    }, {
+      "id": "uaadPCiN6-0",
+      "title": "ClassPublicKeys - TypeScript Type Challenges #2828 [HARD]"
+    }, {
+      "id": "K0SWmX3KylY",
+      "title": "Split - TypeScript Type Challenges #2822 [HARD]"
+    }
+  ]
+}

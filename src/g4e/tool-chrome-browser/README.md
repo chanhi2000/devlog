@@ -12,4 +12,6 @@ description: 🌈Chrome Browser
 
 ![shield-google-chrome][shield-google-chrome]
 
+---
+
 [shield-google-chrome]: https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=white&style=flat-square

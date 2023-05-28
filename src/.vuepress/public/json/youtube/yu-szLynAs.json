@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "szLynAs",
+    "name": "LynAs Sazzad",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMOO9U_zMZoMJkBGsxCGDhu4sOxsZsN2LekshGN-Gg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Ug7rADxR1oE",
+      "title": "Reactive web application with MySQL database and Kotlin"
+    }, {
+      "id": "BwdkyrnJQsg",
+      "title": "Build JAVA project and create JAR file using Gradle"
+    }, {
+      "id": "hGb5U_ptJz0",
+      "title": "Stateless web application with spring security &amp; JWT"
+    }, {
+      "id": "rm2v2U3Voi4",
+      "title": "Android Background Task using Kotlin ANKO"
+    }
+  ]
+}
+

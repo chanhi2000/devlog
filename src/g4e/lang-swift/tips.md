@@ -558,5 +558,31 @@ class UnitTestingTests: XCTestCase {
 
 ---
 
+## Extension(s)
+
+### String
+
+#### Printing optionals without `Optional(…)` wrapping
+
+We can define custom interpolation for any optional value which supports conversion to a string.
+
+```swift
+import Foundation
+
+extension String.StringInterpolation {
+    mutating func appendInterpolation<T: CustomStringConvertible>(
+        _ value: T?
+    ) {
+        appendInterpolation(value ?? placeholder(for: T.self))
+    }
+    
+    private func placeholder<T> (
+        for type: T.Type
+    ) -> CustomStrintConvertible {
+        "nil (\(type)?)" as CustomStringConvertible
+    }
+}
+```
+
 
 <TagLinks />

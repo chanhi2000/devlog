@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "macmost",
+    "name": "macmostvideo",
+    "profile": "imgUrl"
+  },
+  "videos": [
+    {
+      "id": "BHcDxlNTTl8",
+      "title": "Clean Up Your Mac's Dock"
+    }, {
+      "id": "fKjAiPCZevc",
+      "title": "9 Safari Search Tips"
+    }, {
+      "id": "ghZidpnUq4w",
+      "title": "How To Diagnose Battery Drain on a MacBook"
+    }, {
+      "id": "Dxrgh0Myszw",
+      "title": "10 Ways To Use Text Replacements On Your Mac"
+    }, {
+      "id": "BTmZOh1GI3U",
+      "title": "An Introduction To Using Mac Automator"
+    }
+  ]
+}
+
+
+

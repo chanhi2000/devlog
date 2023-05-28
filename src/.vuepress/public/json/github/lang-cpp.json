@@ -289,5 +289,10 @@
     "desc": "qBittorrent BitTorrent client",
     "topics": ["c-plus-plus", "torrent", "bittorrent", "bittorrent-client", "torrent-client", "crossplatform"],
     "officialSite": "https://www.qbittorrent.org"
+  }, {
+    "repo": "wwmm/easyeffects",
+    "desc": "Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",
+    "topics": ["compressor", "pulseaudio", "equalizer", "reverberation", "stereo-equalizer-effects", "auto-volume", "gtk4", "pipewire"],
+    "officialSite": ""
   }
 ]

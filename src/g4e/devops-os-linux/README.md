@@ -16,6 +16,8 @@ description: 🐧Linux
 ![shield-terminal-win][shield-terminal-win]
 ![shield-ubuntu][shield-ubuntu]
 
+---
+
 [shield-macos]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat-square
 [shield-app-store]: https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white&style=flat-square
 [shield-win]: https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square
