@@ -121,8 +121,8 @@
     "officialSite": ""
   }, {
     "repo": "ddosify/ddosify",
-    "desc": "High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud",
-    "topics": [],
+    "desc": "Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀",
+    "topics": ["go", "docker", "golang", "load-testing", "load-generator", "hacktoberfest", "performance-testing", "loadtesting", "ddosify"],
     "officialSite": "https://ddosify.com"
   }, {
     "repo": "thangchung/go-coffeeshop",
@@ -394,5 +394,10 @@
     "desc": "A cloud-native vector database, storage for next generation AI applications",
     "topics": ["golang", "distributed", "nearest-neighbor-search", "image-search", "approximate-nearest-neighbor-search", "similarity-search", "video-search", "vector-similarity", "faiss", "anns", "hnsw", "vector-search", "vector-database", "similarity-searches", "llm", "embedding-database", "embedding-store", "vector-store", "embedding-similarity", "tensor-database"],
     "officialSite": "https://milvus.io"
+  }, {
+    "repo": "wader/fq",
+    "desc": "jq for binary formats - tool, language and decoders for working with binary and text formats",
+    "topics": ["go", "tls", "cli", "golang", "json", "query", "pcap", "binary", "xml", "repl", "jq", "decode", "hexdump"],
+    "officialSite": ""
   }
 ]

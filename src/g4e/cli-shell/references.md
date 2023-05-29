@@ -75,6 +75,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## Bash Prompt
+
+- [Why You Should Still Love Telnet](https://bash-prompt.net/guides/telnet)
+
+---
+
 ## How-to-Geek
 
 - [How to Parse JSON Files on the Linux Command Line with `jq`](https://www.howtogeek.com/529219/how-to-parse-json-files-on-the-linux-command-line-with-jq/)

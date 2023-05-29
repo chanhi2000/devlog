@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "swiftkatcodefactory",
+    "name": "Swift Kat Code Factory",
+    "profile": "https://yt3.googleusercontent.com/u_i1JgZ12wLRw8AZwKV6hYRCp3aV2QyskLUFS5glychqrJ7gqO3kIwXNMk4wDgM5cyxzHScF=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "fgAPHGdHvVE",
+      "title": "17 Wrap Up and Next Steps - Build a messaging app (Spring Boot + Cassandra)"
+    }, {
+      "id": "UcKdnFAIZPc",
+      "title": "Deep Linking in iOS | Custom URL scheme | Pass Data| Open WebURL/Appstore | Lang-Swift5 | XCode 12.5"
+    }, {
+      "id": "n3B4zr5FR78",
+      "title": "macOS Development Complete Course  - Basic tutorial for beginners-Episode1"
+    }, {
+      "id": "5iA7KbzyFJM",
+      "title": "WatchOS App  :- COVID-19 | Corona Stats in watchOS App Development  - Episode :- 4"
+    }, {
+      "id": "UiXZ9iG5UCo",
+      "title": "WatchOS App  :- Movie or Video Player in watchOS App Development  - Episode :- 3"
+    }, {
+      "id": "dzwPTELDMro",
+      "title": "WatchOS App Development Course  | Static & Dynamic Notifications Intro- Episode:-2"
+    }, {
+      "id": "Y0WX_nGgKSg",
+      "title": "Figma Tutorial - Website Admin Design, Prototyping |Basics |Build first Web Wireframe in 1 just hour"
+    }
+  ]
+}

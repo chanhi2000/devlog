@@ -189,5 +189,30 @@
       "desc": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple",
       "topics": [],
       "officialSite": ""
+    }, {
+      "repo": "Clipy/Clipy",
+      "desc": "Clipboard extension app for macOS.",
+      "topics": ["macos", "swift", "clipboard", "xcode", "clipmenu", "clipboard-extension"],
+      "officialSite": "https://clipy-app.com"
+    }, {
+      "repo": "halo/LinkLiar",
+      "desc": "🔗 Link-Layer MAC spoofing GUI for macOS",
+      "topics": ["macos", "mac", "gui", "daemon", "wifi", "ethernet", "wlan", "spoof", "mac-address", "thunderbolt"],
+      "officialSite": "http://halo.github.io/LinkLiar"
+    }, {
+      "repo": "grishka/NearDrop",
+      "desc": "An unofficial Google Nearby Share app for macOS",
+      "topics": [],
+      "officialSite": ""
+    }, {
+      "repo": "Snapkit/Snapkit",
+      "desc": "A Swift Autolayout DSL for iOS & OS X",
+      "topics": ["swift", "ui", "xcode", "dsl", "layout", "cocoapods", "constraints", "snapkit", "autolayout", "auto"],
+      "officialSite": "https://snapkit.github.io/SnapKit"
+    }, {
+      "repo": "iina/iina",
+      "desc": "The modern video player for macOS.",
+      "topics": ["macos", "swift", "video", "video-player", "mpv", "hacktoberfest"],
+      "officialSite": "https://iina.io"
     }
 ]

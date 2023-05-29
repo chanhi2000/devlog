@@ -144,5 +144,10 @@
     "desc": "Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Currently Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala and the Rockstar Games Launcher. Now with SD Card Support.",
     "topics": ["steam", "deck"],
     "officialSite": "https://github.com/sponsors/moraroy"
+  }, {
+    "repo": "Surnet/docker-wkhtmltopdf",
+    "desc": "wkhtmltopdf for multiple base images",
+    "topics": ["python", "docker", "dockerfile", "node", "alpine", "docker-image", "wkhtmltoimage", "wkhtmltopdf", "wkhtmltox"],
+    "officialSite": "https://hub.docker.com/u/surnet"
   }
 ]

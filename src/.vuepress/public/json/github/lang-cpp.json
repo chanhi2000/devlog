@@ -299,5 +299,20 @@
     "desc": "Software defined radio receiver powered by GNU Radio and Qt.",
     "topics": ["qt", "receiver", "sdr", "rtl-sdr", "fft", "hackrf", "gnuradio", "hacktoberfest", "gqrx", "airspy", "rfspace", "funcube-dongle"],
     "officialSite": "http://gqrx.dk"
+  }, {
+    "repo": "kdab/hotspot",
+    "desc": "The Linux perf GUI for performance analysis.",
+    "topics": ["linux", "performance", "qt", "cpp", "profiler", "perf", "performance-analysis", "profiling", "cpu-profiling"],
+    "officialSite": ""
+  }, {
+    "repo": "nomic-ai/gpt4all",
+    "desc": "gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue",
+    "topics": [],
+    "officialSite": "https://gpt4all.io"
+  }, {
+    "repo": "flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "topics": ["screenshot", "gui", "qt", "cross-platform", "gnu-linux", "image-editing", "free-software", "capture", "hacktoberfest"],
+    "officialSite": "https://flameshot.org"
   }
 ]

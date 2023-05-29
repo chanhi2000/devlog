@@ -1,0 +1,67 @@
+{
+  "channel": {
+    "id": "iOSAcademy",
+    "name": "iOS Academy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM0wcBYvcpuvWUSuQ2LpEKJoDu9GLZl7fj1E1Vn=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "t_mypMqSXNw", 
+      "title": "SwiftUI Masterclass: Build To Do List App"
+    }, {
+      "id": "Aiw7S0hMtN0", 
+      "title": "Lesson 12: Done Checkmarks – SwiftUI To Do List"
+    }, {
+      "id": "3z5MTIU_N3M", 
+      "title": "Lesson 8: New Item View – SwiftUI To Do List"
+    }, {
+      "id": "iWDKS-hQD8c", 
+      "title": "Lesson 5: Log In Functionality – SwiftUI To Do List"
+    }, {
+      "id": "EZ5iqtjXGBE", 
+      "title": "Factory Design Pattern in Swift & iOS (2023)"
+    }, {
+      "id": "cL7do29XChM", 
+      "title": "Build FULL iOS App in Swift: Part 20 (Rick & Morty | 2023) – Fetch Episodes"
+    }, {
+      "id": "MuhUzpf2zhI", 
+      "title": "Build FULL iOS App in Swift: Part 19 (Rick & Morty | 2023) – Character Info ViewModel"
+    }, {
+      "id": "5LKbL-I-CYY", 
+      "title": "Swift: Actors Introduction (2023, Xcode 13) - iOS"
+    }, {
+      "id": "tqVB0qgS2o4", 
+      "title": "Build FULL iOS App in Swift: Part 51 (Rick & Morty | 2023) – Location Pagination"
+    }, {
+      "id": "Y6njyj-9kns", 
+      "title": "Build FULL iOS App in Swift: Part 52 (Rick & Morty | 2023) – Location Pagination Update + Devices"
+    }, {
+      "id": "O4KZk5Bj_Sk", 
+      "title": "StaticString Type in Swift Explained (2023) - iOS Tip"
+    }, {
+      "id": "XR-fH4sorGY", 
+      "title": "Better Optionals Usage – Swift Tip (iOS) – 2023"
+    }, {
+      "id": "EZ5iqtjXGBE", 
+      "title": "Factory Design Pattern in Swift & iOS (2023)"
+    }, {
+      "id": "Z-wSODAyiwo", 
+      "title": "iOS App Design – Forced App Themes (Swift)"
+    }, {
+      "id": "fTGA8cjbf5Y", 
+      "title": "Build iOS App Full Course | Rick & Morty App | 2023 | Swift"
+    }, {
+      "id": "gk3UBsrNUvI", 
+      "title": "Build FULL iOS App in Swift: Part 56 (Rick & Morty | 2023) – iPad & Mac Layouts"
+    }, {
+      "id": "WIam7qc1Hxc", 
+      "title": "XCConfig Files Explained (Xcode Build Settings) – 2023"
+    }, {
+      "id": "yaQDed7lngQ", 
+      "title": "Improve Xcode Build Speed By 10x (iOS Tips)"
+    }, {
+      "id": "4DXVn38Jaho", 
+      "title": "Build FULL iOS App in Swift: Part 53 (Rick & Morty | 2023) – Location Search Pagination"
+    }    
+  ]
+}

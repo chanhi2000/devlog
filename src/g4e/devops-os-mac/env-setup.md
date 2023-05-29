@@ -231,7 +231,12 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && . "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 export NODE_OPTIONS=--openssl-legacy-provider # 18이상일 경우
 
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+# My alias
+#
+# m3u8Get $1 $2 
+# $1: m3u8 file to download from
+# $2: output file name
+alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_exte    nsions ALL -i $1 -bsf:a aac_adtstoasc -c copy $2; unset -f f; }; f'
 
 # launch starship.sh
 eval "$(starship init zsh)"

@@ -29,6 +29,14 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Clien
+
+- [윈도우 작업표시줄에 Bing AI 바로가기 만들기](https://www.clien.net/service/board/lecture/18058345)
+- [윈도우에서 특정장치를 재시작하는 간단한 방법(부제:인텔 랜 I225-V 호환성 해결)](https://www.clien.net/service/board/lecture/17862024)
+- [윈도우에서 맥처럼 키보드 배열 변경하기(캡스락을 한영키로)](https://www.clien.net/service/board/lecture/17832044)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

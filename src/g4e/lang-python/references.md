@@ -12,6 +12,12 @@ description: 🐍Python > 📚References
 
 ---
 
+## FreeCodeCamp
+
+- [How to Parse a String in Python – Parsing Strings Explained](https://www.freecodecamp.org/news/how-to-parse-a-string-in-python)
+
+---
+
 ## Devlog
 
 - [Marcel – A More Modern Shell for Linux](https://www.tecmint.com/marcel-modern-shell-for-linux)
@@ -24,6 +30,9 @@ description: 🐍Python > 📚References
 - [Apache Log Parser With Python](https://medium.com/@nithinjohn97/apache-log-parser-with-python-5007a91a04ce)
 - [Best Practices to Follow for PySpark Jobs](https://medium.com/@mtalhanasir96/best-practices-to-follow-for-pyspark-jobs-f41335764a2c)
 - [Python ThreadPoolExecutor: Use Cases for Parallel Processing](https://abdulrwahab.medium.com/python-threadpoolexecutor-use-cases-for-parallel-processing-3d5c90fd5634)
+- [Using Oracle Database SQL Property Graphs with Python](https://medium.com/oracledevs/using-oracle-database-sql-property-graphs-with-python-cf701cb255a9)
+- [Getting started with Redpanda in Python](https://redpanda-data.medium.com/getting-started-with-redpanda-in-python-d3a5c74965ab)
+- [Guide to managing environment variables with Infisical + Python](https://medium.com/@tony.infisical/guide-to-managing-environment-variables-with-infisical-python-9d26ab07b387)
 
 ---
 

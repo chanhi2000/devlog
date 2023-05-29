@@ -115,6 +115,14 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## ArjanCodes
+
+<MyYouTubeItems jsonName="yu-ArjanCodes" />
+
+<!-- ArjanCodes -->
+
+---
+
 ## Misc
 
 <YoutubeItem channelName="데브원영 DVWY" channelId="DevWonYoung" id="GsFcQVBwmho" title="파이썬으로 이벤트 드리븐 아키텍처를 만드는 방법 | Event-driven microservices with Python and Apache Kafka" />

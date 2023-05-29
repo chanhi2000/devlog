@@ -53,4 +53,8 @@ tags: ["sql", "db", "mysql", "shell"]
 
 ---
 
+## Vlad Mihalcea
+
+- [SQL Operation Order](https://vladmihalcea.com/sql-operation-order)
+
 <TagLinks />

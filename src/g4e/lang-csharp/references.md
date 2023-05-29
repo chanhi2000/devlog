@@ -132,12 +132,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 ## Syncfusion
 
 - [Struct vs. Record vs. Class in C#](https://www.syncfusion.com/blogs/post/struct-record-class-in-csharp.aspx)
+- [Easily Replicate a Sign-Up UI in .NET MAUI](https://www.syncfusion.com/blogs/post/replicate-sign-up-ui-dotnet-maui.aspx)
 
 ---
 
 ## Telerik
 
 - [ASP.NET Core Basics: ASP.NET Core Overview](https://www.telerik.com/blogs/aspnet-core-basics-aspnet-core-overview)
+- [ASP.NET Core Basics: Build a Complete CRUD Application with VS Code](https://www.telerik.com/blogs/aspnet-core-basics-build-complete-crud-application-vs-code)
 
 ---
 

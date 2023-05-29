@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "linuxserver/docker-bookstack",
+    "desc": "A Docker container for the BookStack documentation wiki",
+    "topics": ["docker", "documentation", "hacktoberfest", "bookstack-container"],
+    "officialSite": ""
+  }, {
+    "repo": "linuxserver/docker-mariadb",
+    "desc": "",
+    "topics": ["hacktoberfest"],
+    "officialSite": ""
+  }, {
+    "repo": "linuxserver/docker-kasm",
+    "desc": "Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.",
+    "topics": [],
+    "officialSite": ""
+  }
+]

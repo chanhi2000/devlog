@@ -729,5 +729,10 @@
     "desc": "Linear algebra in TypeScript.",
     "topics": ["javascript", "machine-learning", "typescript", "vector", "matrix", "linear-algebra", "high-performance-computing", "blas", "linear-algebra-library"],
     "officialSite": "https://docs.vectorious.org/vectorious/6.1.11"
+  }, {
+    "repo": "browserless/chrome",
+    "desc": "The browserless Chrome service in Docker. Run on our cloud, or bring your own.",
+    "topics": ["docker", "chrome", "headless", "devtools", "headless-chrome", "puppeteer", "browserless"],
+    "officialSite": "https://browserless.io"
   }
 ]

@@ -26,10 +26,13 @@ meta:
 
 <MyGithubItems jsonName="lang-python" />
 
+<!-- Python -->
+
 ### Tutorial
 
 <MyGithubItems jsonName="lang-python-tut" />
 
+<!-- Tutorial -->
 
 ---
 

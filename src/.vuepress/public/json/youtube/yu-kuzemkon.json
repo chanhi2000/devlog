@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "kuzemkon",
+    "name": "Yurii Kuzemko",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOS70zdYsJd3cElAS5o40-z_-uQUgFa-kc3LcZ7Qw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "NMmDR0MMnHE",
+      "title": "AWS ECS Fargate Tutorial"
+    }
+  ]
+}

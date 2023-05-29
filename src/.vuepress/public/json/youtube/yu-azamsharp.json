@@ -1,0 +1,130 @@
+{
+  "channel": {
+    "id": "azamsharp",
+    "name": "azamsharp",
+    "profile": "https://yt3.googleusercontent.com/GXpPaWW6a7mVSpmmaX9wvpYEx2KVkfd8NRq6eBCs6rykH2jxaH1wDqOOyBDvMdOcJaztUXTBkg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "wrJTcL8kEAY", 
+      "title": "Server Side Swift Using Vapor Part 6 - Middlewares"
+    }, {
+      "id": "YoeABF1bQOk", 
+      "title": "Server Side Swift Using Vapor Part 4 - Query String &amp; Route Groups"
+    }, {
+      "id": "2tACpHQeHfI", 
+      "title": "Server Side Swift Using Vapor Part 1 - Getting Started"
+    }, {
+      "id": "ajZ-k9Lwg5M", 
+      "title": "Server Side Swift Using Vapor Part 2 - Understanding Routing"
+    }, {
+      "id": "u53gxmdx-8I", 
+      "title": "Building a CloudKit-Powered To-Do App in SwiftUI: Step-by-Step Tutorial Part 2"
+    }, {
+      "id": "CpWAcWkXC8Q", 
+      "title": "Force Unwrapping in Swift"
+    }, {
+      "id": "DA1Trq51JZs", 
+      "title": "Exporting and Importing PostgreSQL Databases"
+    }, {
+      "id": "vphcpk24_xg", 
+      "title": "Demystifying Associated Types in Swift"
+    }, {
+      "id": "QhSztK1qrPg", 
+      "title": "Exploring Associated Values in Swift: An Introduction to Working with Enumerations"
+    }, {
+      "id": "LqQKHjHqaeM", 
+      "title": "Build a Complete Maps App in UIKit Programmatically"
+    }, {
+      "id": "3J3TBVv738E", 
+      "title": "TodoList Using SwiftUI & CloudKit - Part 5 - Displaying Errors"
+    }, {
+      "id": "B6hG-l7EZ5k", 
+      "title": "TodoList Using SwiftUI & CloudKit - Part 4 - Deleting the Task"
+    }, {
+      "id": "CZT-N88TfTs", 
+      "title": "Building a Budget App Using SwiftUI and Core Data Part 3"
+    }, {
+      "id": "fjHtsoNCHG4", 
+      "title": "Showing Multiple Sheets in SwiftUI"
+    }, {
+      "id": "LVx93PfGjdo", 
+      "title": "STOP Using MVVM with SwiftUI"
+    }, {
+      "id": "lTHHMzGfLPg", 
+      "title": "sing Realm Flexible Sync in SwiftUI App"
+    }, {
+      "id": "MX-eGceCotQ", 
+      "title": "Drawing Bar Charts in SwiftUI"
+    }, {
+      "id": "csd7pyfEXgw", 
+      "title": "Charts Framework in SwiftUI"
+    }, {
+      "id": "u_nXbVzkJ1w", 
+      "title": "Writing your First User Interface Test for SwiftUI App"
+    }, {
+      "id": "Dpa2tpf2Ty4", 
+      "title": "Writing Your First Unit Test in iOS Using Swift"
+    }, {
+      "id": "cA-oUgOfLxY", 
+      "title": "Building macOS Menu Bar Stocks App Using SwiftUI"
+    }, {
+      "id": "ZMe6Xq2gCGs", 
+      "title": "Drawing Line Graph in SwiftUI"
+    }, {
+      "id": "0NYABXvoyRA", 
+      "title": "NEW COURSE: Test Driven Development in iOS Using Swift"
+    }, {
+      "id": "4Rxuc4BcW8o", 
+      "title": "Creating and Publishing Swift Packages (Swift Package Manager)"
+    }, {
+      "id": "qOMWbUZk5lY", 
+      "title": "Building Chat Bubbles in SwiftUI"
+    }, {
+      "id": "v6SMV_TUOJk", 
+      "title": "Building a ChatGPT macOS Toolbar App Using SwiftUI"
+    }, {
+      "id": "FNYVHNSLFbs", 
+      "title": "What I am working on (macOS Maps App for new macOS Course)"
+    }, {
+      "id": "9DDX3US3kss", 
+      "title": "Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video"
+    }, {
+      "id": "A3zMF8s_YxU", 
+      "title": "Wrapping HStack in SwiftUI"
+    }, {
+      "id": "hoyNvrXSK6A", 
+      "title": "Build a Complete Gardening App in SwiftUI #3 - Configure Core Data"
+    }, {
+      "id": "qvdl5PeRCnU", 
+      "title": "Build a Complete Gardening App in SwiftUI #2 - Displaying Vegetable Details"
+    }, {
+      "id": "P7xPdrUktQg", 
+      "title": "TouchID Authentication in a SwiftUI App"
+    }, {
+      "id": "WcHH4CYspgI", 
+      "title": "Understanding Dependency Injection in Swift"
+    }, {
+      "id": "Bqt2j_vFI9c", 
+      "title": "Creating Documentation Using DocC"
+    }, {
+      "id": "Rhni99ZrLd4", 
+      "title": "Building a NearMe App in SwiftUI Using MVVM Pattern"
+    }, {
+      "id": "JQiCCdDUBcQ", 
+      "title": "AWSAmplify DataStore with"
+    }, {
+      "id": "PDrKvQrgAQQ", 
+      "title": "NEW COURSE - Core Data in iOS"
+    }, {
+      "id": "V5EDE5CNKvc", 
+      "title": "Weather App Using SwiftUI - Part 2 (Decoding JSON)"
+    }, {
+      "id": "R9Bk8u4SesY", 
+      "title": "NEW COURSE - Server Side Swift Using Vapor 4"
+    }, {
+      "id": "ZEmsgQj5OWI", 
+      "title": "NEW COURSE:  Build Real-Time Chat App with SwiftUI & Firebase"
+    }
+  ]
+}

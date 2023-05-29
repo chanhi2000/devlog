@@ -163,7 +163,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
-## freecodecamp.org
+## FreeCodeCamp
 
 - [about React](https://www.freecodecamp.org/news/tag/react)
 - [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3)
@@ -172,6 +172,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [How to Write More Efficient JavaScript Conditions](https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions)
 - [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
 - [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
+- [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
 
 ---
 
@@ -193,7 +194,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
-## 기억보다 기록을 
+## 기억보다 기록을
 
 - [async/await를 for loop에서 사용하기](https://kyounghwan01.github.io/blog/JS/JSbasic/for-await-of/#%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3)
 
@@ -218,6 +219,11 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [IndexedDB 간단 정리하기](https://pks2974.medium.com/indexeddb-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-ca9be4add614)
 - [Writing a vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0)
 - [How to avoid empty class in Vue with null](https://medium.com/js-dojo/how-to-avoid-empty-class-in-vue-with-null-74d5366507b)
+- [Making a Chrome Extension with Svelte](https://javascript.plainenglish.io/making-a-chrome-extension-with-svelte-2fefb3769c)
+- [Create a dynamic load side page with animation in React.js](https://mukeshprajapati0251.medium.com/create-a-dynamic-load-side-page-with-animation-in-react-js-3658f064f401)
+- [JavaScript Ideas Every Web Developer Should Understand](https://coinsbench.com/javascript-ideas-every-web-developer-should-understand-34e633a35d7d)
+- [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
+
 
 ---
 
@@ -261,6 +267,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [React's Virtual DOM](https://blog.openreplay.com/reacts-virtual-dom)
 - [Common Date/Time Operations Without Moment.Js](https://blog.openreplay.com/common-date-time-operations-without-moment-js)
 - [React's Layout Component's Concept](https://blog.openreplay.com/reacts-layout-components-concept)
+- [Step By Step: URL Validation In JavaScript](https://blog.openreplay.com/step-by-step--url-validation-in-javascript)
+- [Create A Contacts App With React And Supabase](https://blog.openreplay.com/create-a-contacts-app-with-react-and-supabase/)
 
 ---
 
@@ -322,6 +330,24 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Andrico
 
 - [Should I use e.code or e.key when handling keyboard events?](https://blog.andri.co/022-should-i-use-ecode-or-ekey-when-handling-keyboard-events)
+
+---
+
+## Dev-Dojo
+
+- [Custom Tooltip Directive in Vuejs 3: Tutorial](https://devdojo.com/inspector/custom-tooltip-directive-in-vuejs-3-tutorial)
+
+---
+
+## Clien
+
+- [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(1) 세팅편](https://www.clien.net/service/board/lecture/17960697)
+- [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(2) Vue.js적용](https://www.clien.net/service/board/lecture/17962453)
+- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(3)프론트 작업1](https://www.clien.net/service/board/lecture/17964735)
+- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(4)프론트 작업2](https://www.clien.net/service/board/lecture/17966827)
+- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(5)테이블 작업](https://www.clien.net/service/board/lecture/17969157)
+- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(6)로또정보 얻어오기](https://www.clien.net/service/board/lecture/17970633)
+- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(7)RestAPI 및 마무리](https://www.clien.net/service/board/lecture/17972239)
 
 ---
 

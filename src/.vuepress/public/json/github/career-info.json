@@ -39,5 +39,10 @@
     "desc": "💯 Curated coding interview preparation materials for busy software engineers",
     "topics": ["algorithm", "algorithms", "interview-practice", "interview-questions", "coding-interviews", "interview-preparation", "system-design", "algorithm-interview", "behavioral-interviews", "algorithm-interview-questions"],
     "officialSite": "https://www.techinterviewhandbook.org"
+  }, {
+    "repo": "pittcsc/Summer2024-Internships",
+    "desc": "Collection of Summer 2023 & Summer 2024 tech internships!",
+    "topics": ["university", "jobs", "internships", "interview-preparation"],
+    "officialSite": ""
   }
 ]

@@ -49,5 +49,10 @@
     "desc": "10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "BookStackApp/BookStack",
+    "desc": "A platform to create documentation/wiki content built with PHP & Laravel",
+    "topics": ["php", "documentation", "laravel", "wiki", "selfhosted", "bookstack"],
+    "officialSite": "https://www.bookstackapp.com"
   }
 ]

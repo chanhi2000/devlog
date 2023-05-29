@@ -12,7 +12,6 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 [[toc]]
 
-
 ---
 
 ## Easy Sheets

@@ -364,6 +364,11 @@
       "desc": "A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!",
       "topics": [],
       "officialSite": "https://www.crablang.org"
+    }, {
+      "repo": "yingDev/Tickeys",
+      "desc": "Instant audio feedback for typing. macOS version. (Rust)",
+      "topics": ["macos", "rust"],
+      "officialSite": "http://yingdev.com/projects/tickeys"
     }
 ]
 

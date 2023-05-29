@@ -116,6 +116,9 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [jshint][jshint]: JSHint
 - [design/fluent][design/fluent]: Fluent Design System. Fluent is an open-source, cross-platform design system that gives designers and developers the frameworks they need to create engaging product experiences—accessibility, internationalization, and performance included.
 - [VisuAlgo](https://visualgo.net/en)
+- [Hero Patterns](https://heropatterns.com): A collection of repeatable SVG background patterns for you to use on your web projects.
+- [BGJar](https://bgjar.com): Free svg background generator for your websites, blogs and app.
+- [Pattern Monster](https://pattern.monster): Customizable SVG patterns for your projects
 
 ---
 

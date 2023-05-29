@@ -96,7 +96,7 @@ export default {
       ].map((e) => `/json/github/lang-${e}.json`);
 
       let jsonFullPathsLangTut = [
-        "c", "csharp", "dart", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
+        "c", "csharp", "dart", "go", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
       ].map((e) => `/json/github/lang-${e}-tut.json`);
 
       let jsonFullPathsOther = [

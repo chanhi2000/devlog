@@ -13,4 +13,8 @@ tags: ["powershell", "windows", "windows-terminal", "multiline"]
 
 ---
 
+## CyberRaiju
+
+- [Remcos RAT - Malware Analysis Lab](https://www.jaiminton.com/reverse-engineering/remcos)
+
 <TagLinks />

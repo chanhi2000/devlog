@@ -55,6 +55,18 @@ usermod -aG sudo <newuser>
 | `uname -a` | OS 정보 |
 | `cat /etc/redhat-release` | (RHEL/CentOS/Fedora/Ubuntu Linux) OS 버전 |
 
+---
+### (For RedHat) OS 버전
+
+```sh
+OS_VERSION=$(sed 's/.*release \([0-9]\).*/\1/' /etc/redhat-release)
+```
+
+### (For RedHat) 네트워크 인터페이스명은 빼고 IP주소만 쓰고 싶을 때 사용한는 명령어
+
+```sh
+LANG=C /sbin/ifconfig | awk '/inet / {split($2,arr,":"); print arr[2]}'
+```
 
 ---
 ## 기타

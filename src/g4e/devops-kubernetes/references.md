@@ -74,6 +74,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 - [A beginner's guide to Kubernetes Jobs and CronJobs](https://opensource.com/article/20/11/kubernetes-jobs-cronjobs)
 - [How the Kubernetes scheduler works](https://opensource.com/article/20/11/kubernetes-scheduler)
+- [12 Most Useful Container Orchestration Tools in 2023](https://spacelift.io/blog/container-orchestration-tools)
 
 ---
 

@@ -26,9 +26,22 @@ tags: ["c", "llvm"]
 - [The tale of `-mrtd` in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 
 ---
+
 ## ModernesCpp
 
 - [Rainer Grimm](https://www.modernescpp.org/)
+
+---
+
+## Despair Labs
+
+- [io_uring is not an event system](https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system)
+
+---
+
+## unzip.dev
+
+- [0x013 - io_uring 🦑](https://unzip.dev/0x013-io_uring)
 
 ---
 

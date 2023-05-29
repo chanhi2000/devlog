@@ -25,6 +25,13 @@ tags: ["macos", "settings"]
 - [구형 맥의 부트 스크린을 최신 디자인으로 변경하는 방법 'DarkBoot'](http://macnews.tistory.com/2914)
 - [How to delete files in `/System/Library/Desktop Pictures` on Catalina?](https://apple.stackexchange.com/questions/375519/how-to-delete-files-in-system-library-desktop-pictures-on-catalina)
 
+---
+
+## Clien
+
+- [맥프로 5.1 RX580 부팅화면 성공기](https://www.clien.net/service/board/lecture/18057128)
+- [맥북 ' 백그라운드 허용 ' 무한 알림증상 해결](https://www.clien.net/service/board/lecture/17923263)
+- [macOS Ventura에서 QHD 모니터에 HiDPI 설정하기 (feat. LG 16MR70)](https://www.clien.net/service/board/lecture/17878979)
 
 ---
 

@@ -1496,18 +1496,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Google Chrome Developers
 
-[![Google Chrome Developers](https://yt3.googleusercontent.com/ytc/AGIKgqPg8b1LUBCRuEMQFVXkqz0OcNERWyA0bbEJi_cR3Q=s176-c-k-c0x00ffffff-no-rj =x150)][yu-chrome-dev]
-
-::: details 목록
-
-<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="CrSmjooOEiE" title="Whats New In DevTools: Debugging, testing and CSS (Chrome 110 - 112)" />
-<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="eamAHF71ZN4" title="Thinking on ways to solve BASIC PHYSICS" />
-<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="H89hKw06iWs" title="web.dev LIVE 2020: Day One" />
-<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="cN9c_JyvL1A" title="C++ as a second language (Chrome University 2019)" />
-<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="UNJrgsQXvCA" title="C++ Memory (Chrome University 2019)" />
-<YoutubeItem channelName="Google Chrome Developers" channelId="ChromeDevs" id="eDd6Y6Z50Mg" title="Optimise your code: load code at the right time" />
-
-:::
+<MyYouTubeItems jsonName="yu-ChromeDevs" />
 
 <!-- Google Chrome Developers -->
 

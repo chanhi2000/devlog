@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "DesignCodeTeam",
+    "name": "DesignCode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOmtNbg-Z7-yHNWupQb9hIf5P8B9EnnAC797454vA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "aAGJ1MNkn6c",
+      "title": "Design and Prototype an App with Play - Full 3-hour Course"
+    }, {
+      "id": "5IanQIwhA4E",
+      "title": "Web / Desktop App UI Design in Figma - Full Course"
+    }, {
+      "id": "ZCJyVyZH5EY",
+      "title": "UI Design a Maps app in Figma - Full course"
+    }, {
+      "id": "6RjFC3sLJD0",
+      "title": "Build and Animate a Smart Home Thermostat app in SwiftUI"
+    }, {
+      "id": "ipCJju7Stvg",
+      "title": "Build a Juice Store UI from scratch with SwiftUI"
+    }, {
+      "id": "I9O1n4s96v4",
+      "title": "Custom Transition Between Screens in SwiftUI - Part 2"
+    }, {
+      "id": "qW1wQwHmoTI",
+      "title": "Build a FaceID Authentication System in SwiftUI"
+    }, {
+      "id": "b6q9vKaXtoU",
+      "title": "Build a SwiftUI to-do app from scratch with Realm Crash Course"
+    }, {
+      "id": "1ipd-v_nVsQ",
+      "title": "Reddit Login UI Using SwiftUI 3.0 + Xcode 13"
+    }, {
+      "id": "83MrH8PdjPc",
+      "title": "SwiftUI 3.0 Tutorial - Complex UI + Cinema UI + PresentationMode using Xcode 13"
+    }, {
+      "id": "zerEdPmSMrk",
+      "title": "SwiftUI Livestream: How we built our iOS app"
+    }, {
+      "id": "YuKpd16XIjo",
+      "title": "SwiftUI Tutorial - How to create a Splash Screen using Xcode 12"
+    }, {
+      "id": "fjmE4YsdVE8",
+      "title": "SwiftUI 2.0 Tutorial - How to create a Spinner using Xcode 12 Part 1"
+    }, {
+      "id": "37fx1RtSoZ0",
+      "title": "SwiftUI 2.0 Tutorial - How to create a Splash Screen using Xcode 12"
+    }    
+  ]
+}

@@ -439,11 +439,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "nomic-ai/gpt4all",
-    "desc": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
-    "topics": [],
-    "officialSite": ""
-  }, {
     "repo": "Lightning-AI/lit-llama",
     "desc": "Independent implementation of LLaMA that is fully open source under the Apache 2.0 license.",
     "topics": [],
@@ -1561,6 +1556,21 @@
   }, {
     "repo": "facebookincubator/AITemplate",
     "desc": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "2004content/rarbg",
+    "desc": "Backup of magnets from RARBG",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ray-project/aviary",
+    "desc": "Ray Aviary - evaluate multiple LLMs easily",
+    "topics": ["distributed-systems", "transformers", "ray", "serving", "large-language-models"],
+    "officialSite": "https://aviary.anyscale.com"
+  }, {
+    "repo": "shubham-goel/4D-Humans",
+    "desc": "",
     "topics": [],
     "officialSite": ""
   }

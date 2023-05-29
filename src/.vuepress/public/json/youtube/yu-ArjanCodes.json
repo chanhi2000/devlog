@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "ArjanCodes",
+    "name": "ArjanCodes",
+    "profile": "https://yt3.googleusercontent.com/kMuSQv3_WwPmGSk7XJvf5PvIK7ARMUKaB6AUB8I0y7vtjCqE5dDU8YNe1PaDrqriqVeR6BRW=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "mVX3Z46iYTQ", 
+      "title": "How to Build an OpenAI Powered Tool Really Quickly"
+    }, {
+      "id": "eHhXoCNCI1c", 
+      "title": "Which Software Architecture Should You Use: MVC, MVP, or MVVM?"
+    }, {
+      "id": "dI34jrEtmB0", 
+      "title": "30 VSCode Keyboard Shortcuts You NEED to Know"
+    }, {
+      "id": "CvQ7e6yUtnw", 
+      "title": "This Is Why Python Data Classes Are Awesome"
+    }
+  ]
+}
+

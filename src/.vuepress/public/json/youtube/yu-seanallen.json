@@ -1,0 +1,67 @@
+{
+  "channel": {
+    "id": "seanallen",
+    "name": "Sean Allen",
+    "profile": "https://yt3.googleusercontent.com/0ptQnS5MbaDueJWrdGxbF3vvRRIuPbpeQeI0XbxI7LEMJejTHSpEs0EuoW_-GdctW2YeZa4T=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "rO16UJS0jHg", 
+      "title": "Paywall Design Examples - Earn More Revenue"
+    }, {
+      "id": "VUztqFol_FY", 
+      "title": "Intro to Apple Search Ads - Setup Your First Campaign (Tutorial)"
+    }, {
+      "id": "a3AH0ItFTKU", 
+      "title": "Swift Generics for Beginners - Eliminate Code Duplication"
+    }, {
+      "id": "RmaCJyvSyUE", 
+      "title": "Will ChatGPT Destroy iOS Developer Jobs? A Demonstration"
+    }, {
+      "id": "4utsyqhnS4g", 
+      "title": "SwiftUI Bar Chart with Customizations | Swift Charts"
+    }, {
+      "id": "40imnmzsmxk", 
+      "title": "31 Xcode Tips & Tricks - 2023 | Xcode 14"
+    }, {
+      "id": "e7OuerHs8PU", 
+      "title": "SwiftUI Profile Animation | Matched Geometry Effect"
+    }, {
+      "id": "5PJL4xxEXJE", 
+      "title": "SwiftUI - Swipe Actions on List | iOS 15 & Xcode 13"
+    }, {
+      "id": "MCLiPW2ns2w", 
+      "title": "SwiftUI Tic Tac Toe | Multiple AI Difficulties | MVVM | Portfolio Project"
+    }, {
+      "id": "-o2BwAsvoH4", 
+      "title": "Xcode - Visual Debugger - A Tool For Debugging UI"
+    }, {
+      "id": "RFGEzkBa834", 
+      "title": "Swift Access Control Explained"
+    }, {
+      "id": "DLvdZtTAJrE", 
+      "title": "TestFlight - How to Upload and Distribute Your App | App Store 2021"
+    }, {
+      "id": "hu90G_M0vaA", 
+      "title": "Xcode - Quickly Document Your Code | Swift"
+    }, {
+      "id": "5gAD9amWkQw", 
+      "title": "Xcode - How to Simulate a Poor Network Connection | Device & Simulator"
+    }, {
+      "id": "wKdVqo7wTA8", 
+      "title": "iOS Developer Portfolios | Review & Showcase"
+    }, {
+      "id": "8aPjqLqUEKA", 
+      "title": "Swift - Result Type - Cleaner Network Calls"
+    }, {
+      "id": "QdnzU9jx9yw", 
+      "title": "Beginners - Learn SwiftUI or UIKit?"
+    }, {
+      "id": "2yIXXwfcbWk", 
+      "title": "iOS Dev Origin Story - Paul Hudson - Hacking with Swift"
+    }, {
+      "id": "B4XySdT2FkY", 
+      "title": "How to Profit From Your Apps - NEW Podcast"
+    }    
+  ]
+}

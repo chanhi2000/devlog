@@ -26,11 +26,22 @@ tags: ["java", "baeldung"]
 
 ---
 
+## 요즘IT
+
+- [자바 개발자를 위한 컨테이너 이미지 빌드](https://yozm.wishket.com/magazine/detail/2018)
+---
+
 ## Baeldung
 
 - [Working with Microsoft Excel in Java](https://www.baeldung.com/java-microsoft-excel)
 - [Introduction to WireMock](https://www.baeldung.com/introduction-to-wiremock)
 - [Spring Profiles](https://www.baeldung.com/spring-profiles)
+
+---
+
+## DZone
+
+- [How to Use Java HashMap Effectively](https://dzone.com/articles/how-to-use-java-hashmap-effectively?fbclid=IwAR1ZMb6aImx-7Ry-GD6S-YfxdDkrRvlSo-SlSVL08gRDxWP_zilcVnuXXtM)
 
 ---
 
@@ -62,6 +73,18 @@ tags: ["java", "baeldung"]
 
 ---
 
+## EastGlow
+
+- [[Spring]HTMLTagFilter](https://eastglow.github.io/back-end/2019/02/06/Spring-HTMLTagFilter.html)
+
+---
+
+## 양봉수
+
+- [마이바티스를 사용한 자바 퍼시스턴스 개발](https://yangbongsoo.gitbook.io/study/mybatis)
+
+---
+
 ## velog
 
 ### `@jj362`
@@ -88,6 +111,18 @@ tags: ["java", "baeldung"]
 ## Software the Hard Way
 
 - [Nuances of Overloading and Overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
+
+---
+
+## Waldo
+
+- [Appium With Cucumber: Using Them Together](https://www.waldo.com/blog/using-appium-cucumber)
+
+---
+
+## 나만의 인덱스
+
+- [github action matrix strategy 활용](https://yangbongsoo.tistory.com/110)
 
 ---
 

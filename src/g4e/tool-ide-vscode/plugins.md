@@ -43,7 +43,7 @@ tags: ["vscode", "visual-studio-code", "ide", "plugin", "vscode-plugin", "cli", 
 | [![yzane.markdown-pdf](https://yzane.gallerycdn.vsassets.io/extensions/yzane/markdown-pdf/1.4.4/1584550540797/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-markdown-pdf] | [Markdown PDF][link-markdown-pdf] <br/> `yzane.markdown-pdf` | Convert Markdown to PDF |
 | [![shd101wyy.markdown-preview-enhanced](https://cdn.vsassets.io/v/M213_20221206.3/_content/Header/default_icon_128.png =100x)][link-markdown-preview-enhanced] | [Markdown Preview Enhanced][link-markdown-preview-enhanced] <br/> `shd101wyy.markdown-preview-enhanced` | Markdown Preview Enhanced ported to vscode |
 | [![bierner.markdown-mermaid](https://bierner.gallerycdn.vsassets.io/extensions/bierner/markdown-mermaid/1.17.3/1671479794538/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-markdown-preview-mermaid-support] | [Markdown Preview Mermaid Support][link-markdown-preview-mermaid-support] <br/> `bierner.markdown-mermaid` | Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview |
-| [![davidanson.vscode-markdownlint](https://davidanson.gallerycdn.vsassets.io/extensions/davidanson/vscode-markdownlint/0.48.1/1661741617871/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-markdownlint] | [markdownlint][link-markdownlint] <br/> `davidanson.vscode-markdownlint` | Markdown linting and style checking for Visual Studio Code |
+<!-- | [![davidanson.vscode-markdownlint](https://davidanson.gallerycdn.vsassets.io/extensions/davidanson/vscode-markdownlint/0.48.1/1661741617871/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-markdownlint] | [markdownlint][link-markdownlint] <br/> `davidanson.vscode-markdownlint` | Markdown linting and style checking for Visual Studio Code | -->
 | [![vscjava.vscode-maven](https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-maven/0.40.2022121603/1671160659502/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-maven-for-java] | [Maven for Java][link-maven-for-java] <br/> `vscjava.vscode-maven` | Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers. |
 | [![fallenmax.mithril-emmet](https://fallenmax.gallerycdn.vsassets.io/extensions/fallenmax/mithril-emmet/0.7.7/1648523464540/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-mithril-emmet] | [Mithril Emmet][link-mithril-emmet] <br/> `fallenmax.mithril-emmet` | Support Emmet(zen-coding) syntax for Mithril |
 | [![christian-kohler.path-intellisens](https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/2.8.4/1671488165155/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-path-intellisense] | [Path Intellisense][link-path-intellisense] <br/> `christian-kohler.path-intellisense` | Visual Studio Code plugin that autocompletes filenames |
@@ -93,7 +93,7 @@ code --install-extension ritwickdey.liveserver; #Live Server
 code --install-extension yzane.markdown-pdf; #Markdown PDF
 code --install-extension shd101wyy.markdown-preview-enhanced; #Markdown Preview Enhanced
 code --install-extension bierner.markdown-mermaid; #Markdown Preview Mermaid Support
-code --install-extension davidanson.vscode-markdownlint; #markdownlint
+# code --install-extension davidanson.vscode-markdownlint; #markdownlint
 code --install-extension vscjava.vscode-maven; #Maven for Java
 code --install-extension fallenmax.mithril-emmet; #Mithril Emmet
 code --install-extension pnp.polacode; #Polacode
@@ -142,7 +142,7 @@ code --install-extension ritwickdey.liveserver && REM Live Server
 code --install-extension yzane.markdown-pdf && REM Markdown PDF
 code --install-extension shd101wyy.markdown-preview-enhanced && REM Markdown Preview Enhanced
 code --install-extension bierner.markdown-mermaid && REM Markdown Preview Mermaid Support
-code --install-extension davidanson.vscode-markdownlint && REM markdownlint
+REM code --install-extension davidanson.vscode-markdownlint && REM markdownlint
 code --install-extension vscjava.vscode-maven && REM Maven for Java
 code --install-extension fallenmax.mithril-emmet && REM Mithril Emmet
 code --install-extension pnp.polacode && REM Polacode

@@ -26,6 +26,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-batchfile/README.md',
         '/g4e/cli-batchfile/basics.md',
         '/g4e/cli-batchfile/tips.md',
+        '/g4e/cli-batchfile/snippets.md',
         '/g4e/cli-batchfile/references.md',
         '/g4e/cli-batchfile/github.md',
       ]
@@ -337,6 +338,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/protocol-http/README.md',
         '/g4e/protocol-http/api.md',
+        '/g4e/protocol-http/references.md',
       ]
     }, {
       text: '🤵🏻Jenkins',
@@ -413,6 +415,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/tool-excel/README.md',
+        '/g4e/tool-excel/references.md',
         '/g4e/tool-excel/youtube.md',
       ]
     }, {

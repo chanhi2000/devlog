@@ -13,10 +13,16 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## FreeCodeCamp
+
+- [Advanced Indexing Strategies in PostgreSQL](https://www.freecodecamp.org/news/postgresql-indexing-strategies)
+
+---
+
 ## Become Mastermind
 
 - [Understanding database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 
-
+---
 
 <TagLinks />

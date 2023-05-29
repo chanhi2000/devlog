@@ -53,4 +53,10 @@ tags: ["webdev", "vscode", "productivity", "programming"]
 
  - [8 VS Code extensions you didn’t know you needed](https://www.infoworld.com/article/3434611/7-visual-studio-code-extensions-you-didnt-know-you-needed.html#tk.rss_all)
 
+---
+
+## Microsoft
+
+- [Java on Visual Studio Code – May 2023](https://devblogs.microsoft.com/java/java-on-visual-studio-code-may-2023/)
+
 <TagLinks />

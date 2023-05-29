@@ -1079,5 +1079,45 @@
     "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library",
     "topics": ["css", "components", "ui-design", "design-systems", "design-pattern", "component", "postcss", "css-framework", "svelte", "ui-kit", "component-library", "css-components", "ui-pattern", "design-system", "ui-library", "ui-framework", "tailwind", "tailwindcss", "tailwind-css", "daisyui"],
     "officialSite": "https://daisyui.com"
+  }, {
+    "repo": "wenda-LLM/wenda",
+    "desc": "闻达：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力",
+    "topics": ["chatglm-6b", "chatrwkv"],
+    "officialSite": ""
+  }, {
+    "repo": "arvida/lorem-filler",
+    "desc": "Browser extension to quickly insert Lorem Ipsum text into text fields on webpages. A handy browser tool for developers and designers when doing mockups, testing and prototypes.",
+    "topics": ["firefox-addon", "firefox-extension"],
+    "officialSite": "https://loremfiller.arvidandersson.se"
+  }, {
+    "repo": "catchspider2002/svelte-svg-patterns",
+    "desc": "Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design",
+    "topics": ["svg", "patterns", "svelte", "sapper", "svelte-js", "svg-patterns", "seamless-patterns"],
+    "officialSite": "https://pattern.monster"
+  }, {
+    "repo": "gijsroge/tilt.js",
+    "desc": "A tiny 60+fps parallax tilt hover effect for jQuery.",
+    "topics": ["jquery", "parallax", "tilt"],
+    "officialSite": "http://gijsroge.github.io/tilt.js"
+  }, {
+    "repo": "glidejs/glide",
+    "desc": "A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more",
+    "topics": ["javascript", "lightweight", "es6", "slider", "carousel", "dependency-free"],
+    "officialSite": "https://glidejs.com"
+  }, {
+    "repo": "robinparisi/tingle",
+    "desc": "⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use",
+    "topics": ["plugin", "ui", "vanilla", "modal", "popup", "modal-plugin"],
+    "officialSite": "https://tingle.robinparisi.com"
+  }, {
+    "repo": "luisvinicius167/ityped",
+    "desc": "Dead simple Javascript animated typing, with no dependencies.",
+    "topics": ["javascript", "letters", "typed", "ityped"],
+    "officialSite": "https://ityped.surge.sh"
+  }, {
+    "repo": "rishabhp/bideo.js",
+    "desc": "Fullscreen HTML5 Background Video for the Web.",
+    "topics": [],
+    "officialSite": "https://rishabhp.github.io/bideo.js"
   }
 ]

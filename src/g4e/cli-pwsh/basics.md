@@ -82,4 +82,14 @@ Get-ChildItem -Path "C:\Temp" -Recurse -Include "*.txt" | ForEach-Object {
 }
 ```
 
+---
+
+## Windows Update 확인
+
+[링크참고](https://www.clien.net/service/board/lecture/18040549)
+
+```powershell
+&{start ms-settings:windowsupdate;sleep 3;$wshell=New-Object -ComObject wscript.shell;$wshell.SendKeys('{TAB}{TAB}{TAB}{ENTER}')}
+```
+
 <TagLinks />

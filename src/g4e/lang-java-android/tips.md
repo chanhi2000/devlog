@@ -162,6 +162,53 @@ fun crossfade(
 
 :::
 
+---
+
+## How to Detect Shake
+
+::: details How to Detect Shake
+
+### `build.gradle`
+
+```gradle
+dependencies {
+    implementation "com.squareup:seismic:1.0.2"
+}
+```
+
+### `MainActivity.kt`
+
+```kotlin
+
+class MainActivity: AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main)
+
+        sensorManager
+            = getSystemService(Context.SENSOR_SERVICE) as SensorManager
+        shakeDetector 
+            = ShakeDetector(ShakeDetector.Listener {
+                Toast.makeText(this, "Shake detected!", Toast.LENGTH_SHORT).show()
+            })
+    }
+
+    override fun onResume() {
+        super.onResume()
+        shakeDetector.start(sensorManager)
+    }
+
+    override fun onPause() {
+        super.onPause()
+        shakeDetector.stop()
+    }
+}
+```
+
+:::
+
+---
+
 ## Extension
 
 ### Animate values w/ `ValueAnimator`
@@ -180,6 +227,8 @@ ValueAnimator.ofInt(0, 100).apply {
 ```
 
 :::
+
+---
 
 <TagLinks />
 

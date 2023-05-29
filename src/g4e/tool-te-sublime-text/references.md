@@ -14,7 +14,7 @@ tags: ["js" , "chrome", "chrome-browser"]
 
 ---
 
-## freecodecamp.org
+## FreeCodeCamp
 
 - [A Guide to Sublime Text Snippets](https://www.freecodecamp.org/news/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2/)
 

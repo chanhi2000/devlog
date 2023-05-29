@@ -24,6 +24,7 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 - [Binex — TryHackMe Room Simple Writeup | Karthikeyan Nagaraj](https://infosecwriteups.com/binex-970-points-tryhackme-room-simple-writeup-karthikeyan-nagaraj-33a5e71a31bd)
 - [TryHackMe.com: WebOSINT — WriteUp](https://blog.nocturno.dev/tryhackme-com-webosint-writeup-174e8806bf1a)
+- [RootMe CTF [Writeup] TryHackMe](https://infosecwriteups.com/rootme-ctf-writeup-tryhackme-e0d48305b296)
 
 ---
 
@@ -43,12 +44,22 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 - [Ensiko: A Webshell With Ransomware Capabilities](https://www.trendmicro.com/en_us/research/20/g/ensiko--a-webshell-with-ransomware-capabilities.html)
 
+---
 
+## Clien
+
+- [홈 네트워크의 특정 인터넷 트래픽을 VPN을 통해 내보내기](https://www.clien.net/service/board/lecture/18056665)
+
+---
 ## Cyber Security Hub
 
 - [Cyber Security Hub](https://cyber-security-hub.github.io)
 
 ---
+
+## Hacklido
+
+- [Top Resources for Bughunting: A Comprehensive Guide](https://hacklido.com/blog/410-top-resources-for-bughunting-a-comprehensive-guide)
 
 ## Misc
 
