@@ -1135,20 +1135,7 @@ meta:
 
 ## 1BestCsharp blog
 
-[1BestCsharp blog][yu-1-best-csharpblog]
-
-::: details 목록
-
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="AKgvpj-oDQQ" title="Java Tutorial - How To Populate JCombobx From Arraylist In Java NetBeans" />
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="XDdk_DgFBoc" title="VB.Net - How To Clear The Text Of All TextBoxes In The Form Using VB.Net [ with source code ]" />
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="S5sCjL799MU" title="VB.Net Tutorial - How to Count Words in a TextBox Using VB.Net | With Source Code" />
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="0uVaS7Umwro" title="Java Project Tutorial - Create a Car Rental Management System Using Java And MySQL - Part 3" />
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="MlWe9Rgrc7c" title="VB.Net Project Tutorial - Create a Real Estate Management System Project In VB.Net [ Part 6 ]" />
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="m9BuiMcwqCY" title="VB.Net Project Tutorial - Create a Real Estate Management System Project In VB.Net [ Part 5 ]" />
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="6aYNbOvDe6s" title="C# Project Tutorial - Create a Real Estate Management System Project In C# [ Part 8 ]" />
-<YoutubeItem channelName="1BestCsharp blog" channelId="1BestCsharpblog" id="Hrg-08vdnI4" title="# Project Tutorial - Create a Real Estate Management System Project In C# [ Part 4 ]" />
-
-:::
+<MyYouTubeItems jsonName="yu-1BestCsharpblog" />
 
 <!-- 1BestCsharp blog -->
 
@@ -1156,16 +1143,7 @@ meta:
 
 ## Dan Geabunea (Romanian Coder)
 
-[Dan Geabunea (Romanian Coder)][yu-dan-geabunea-romanian-coder]
-
-::: details 목록
-
-<YoutubeItem channelName="Dan Geabunea (Romanian Coder)" channelId="RomanianCoder" id="oVpFJr-Z35A" title="[Spring Boot Security] #29 JWT - Implement JWT Authentication" />
-<YoutubeItem channelName="Dan Geabunea (Romanian Coder)" channelId="RomanianCoder" id="HAmqB123sDc" title="[Spring Boot Security] #14 Configure Permission Based Authorization" />
-<YoutubeItem channelName="Dan Geabunea (Romanian Coder)" channelId="RomanianCoder" id="G-CK9DgD9Ts" title="[Spring Boot Security] #10 Spring Security Default Configuration" />
-<YoutubeItem channelName="Dan Geabunea (Romanian Coder)" channelId="RomanianCoder" id="cle8avHVCQY" title="[Spring Boot Security] #07 SSL &amp; HTTPS" />
-
-:::
+<MyYouTubeItems jsonName="yu-RomanianCoder" />
 
 <!-- Dan Geabunea (Romanian Coder) -->
 
@@ -1179,7 +1157,22 @@ meta:
 
 ---
 
+## Defog Tech
+
+<MyYouTubeItems jsonName="yu-DefogTech" />
+
+<!-- Defog Tech -->
+
+## omer java
+
+<MyYouTubeItems jsonName="yu-omerjava" />
+
+<!-- omer java -->
+
+---
+
 ## Misc
+
 
 <YoutubeItem channelName="Code Java" channelId="CodeJava" id="QloyS2dt9T4" title="Spring Boot CRUD Tutorial with Spring MVC, Spring Data JPA, ThymeLeaf, Hibernate, MySQL" />
 <YoutubeItem channelName="Amila Jayawardhana" channelId="AmilaJayawardhana" id="ckSw8x66FQg" title="Spring MVC Sinhalen: 02 - Basic Configurations" />

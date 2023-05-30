@@ -48,163 +48,19 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 ---
 
-## 보안프로젝트
+## 보안프로젝트[boanproject]
 
-[보안프로젝트][yu-boanproject]
+<MyYouTubeItems jsonName="yu-boanproject" />
 
-::: details 목록
-
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5Tk8ogZnZM4" title="파이썬 라이브러리 tqdm을 이용한 진행바 출력!! 데이터 분석 전처리 할 때 활용 #python #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="LVNQicq8uas" title="CriminalIP API 데이터 - 파이썬 tkinter 시각화 추가 with #ChatGPT #python" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="WFWVrvDzISs" title="CriminalIP API 데이터를 파이썬 tkinter 엑셀파일로 변환하기 #python #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="acqXLfroo5E" title="구글 바드를 이용하여 파이썬 코드를 작성해봤어요.!! chatgpt 보다 더 좋게 보이는데요?" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="fs69BRoyK5U" title="칼리리눅스 기본 -  파일 디스크 정보 및 메모리 정보 확인 #kalilinux" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="V26T9Al6JyI" title="Criminal IP API 데이터를 파이썬 tkinter Treeview로 출력하기. 원하는 데이터를 쏙쏙~ #python #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="xE-3lkpVqyQ" title="파이썬 tkinter를 메뉴와 파일다이얼로그 활용하여 엑셀 파일 데이터 가져오기 #python #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="zm6MMwfLl6g" title="sourcegraph 검색 서비스를 이용한 오픈 소스코드 검색을 빠르고 편하게!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="jd4swo16xHw" title="바이러스토탈 Code Insight 기능 추가!! 이제 GPT에 분석을 맡겨야 하나?" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="KY25UrbePxQ" title="버추얼박스 7.x 버전에서 칼리리눅스 이미지 불러오고 NAT 네트워크 설정 방법" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="I8xlt4Tcm2E" title="OpenAI AI ChatGPT 활용했던 사례, 시큐어코딩에도 잘 활용될 거 같아!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="27uka1NxZU8" title="칼리리눅스의 도구 설명과 활용 이유!! SK쉴더스 루키 과정 라이브 중" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="2CiKVvpDWFg" title="생방 - 여러분들은 회사를 고를 때 어떤 기준을 제일 많이 보나?!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="imn3Y0Oc5gQ" title="QA. 모의해킹 업무를 지원했는데 인프라 진단까지 해야 하나요???" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="WChR40zYFV4" title="생방 - 어떻게 교육영상을 만들게 되었을까? 금융보안을 하다 어떻게 사업을?" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="BoHi1x9krb8" title="칼리리눅스 2023버전 iSO 이미지 파일로 설치 및 한글 설정" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="gir12ImKTP4" title="OSINT를 이용하여 해킹된 사이트 확인 #CriminalIP #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="YOWiFos7Isc" title="CriminalIP 검색 - nginx 설정 노출 보안 위협 사례!!! #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="1Y25deAtF7c" title="Criminal IP 활용한 피싱사이트 검색 #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="uDGs06IJj8g" title="중소기업, 대기업, 금융권, 사업총괄 등 모의해킹 경험 공유!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="xWNcZpms64M" title="도커 컨테이너 취약점 스캐너 trivy 활용 사례" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="_-_XcvYQHg8" title="ChatGPT를 이용하여 AWS 클라우드 서비스 공부를 해보자!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5arKaWWNmuk" title="CriminalIP 서버 상태 정보 오류로 인한 버전 정보 노출 사례 #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="iwxUqrxs5BM" title="(보안동향) 코인 채굴에 쓰인 정부 시스템.. 4년동안 몰랐다? 오픈 포트 보안 모니터링의 중요성" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="i7U6wRuGZYg" title="파이썬 스케줄 기능 살펴보기 - 정해진 시간에 작업" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="VNXSIPbfnqU" title="파이썬 웹 크롤링 네이버 외국인소진율 가져오기, BeautifulSoup Select" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="65GDDBq5q2o" title="파이썬 자동화 - 엑셀 파일을 생성하고 셀에 데이터 입력 입문" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="H7m9_B0KZ0A" title="파이썬 자동화 - 엑셀 파일에 반복문을 이용한 데이터 저장" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="wUCXsOmRT2s" title="CriminalIP에서 도메인 정보에 대한 결과 해석하기 #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="GPn6ztBiUd4" title="CriminalIP 서비스에서 악의적인 피싱 사이트 IP 사례 살펴보기 #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="tDw9o30i2p0" title="ShareGPT !! ChatGPT의 결과를 서로 공유할 수 있다고?? 너는 무엇을 물어봤니?" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Q_UhH8ep1yw" title="FastAPI와 쇼단 API를 이용하여 웹페이지 결과 확인 #프론트엔드 #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="6tgHNEuN7Xc" title="보안솔루션 용어를 이해하고 싶은데 어떤 책이나 정보를??" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5XYrWGvEnp0" title="ChatGPT에게 화이트해커의 진로 질문과 답변을 확인!! 공부 뱡향을 알 수 있다.!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="dIOQeMSNCws" title="파이썬 tkinter로 입력받은 URL 크롤링 및 QR 코드 이미지 생성" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="m1oy0TNB59s" title="진로QA. 대기업에서는 모의해킹 인력을 뽑을 때 어떤 업무 능력을 보나요?? #화이트해커" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="lW5UG5-xPIs" title="파이썬 googletrans 이용하여 여러 파일을 한글에서 영어로 번역한 후에 결과 저장" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="dVjGHFEm5Og" title="파이썬 크롤링을 한 후에 URL 주소 QRcode로 자동 생성 #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="GnwuYebXF28" title="DALL-E AI 서비스를 이용한 사진 합성 놀이!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="3doYJvVcgiA" title="ChatGPT를 이용한 모의해킹 면접 질문과 답변, 취업 준비생에게 큰 도움이!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="eQQq7SwGM6E" title="ChatGPT 크롬 브라우저 확장 프로그램 설치! 검색 효율이 높아짐" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="OoHvwvpC6VU" title="AWS AI 서비스 활용 - AmazonRekognition 으로 사진 분석" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Co71WcVEPK0" title="(악성코드, 침해대응) FLARE VM을 이용한 악성코드 분석 환경 구축하기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="9niiMznwV_k" title="안드로이드 디코딩 도구 apktool 업데이트 소식과 간단 활용, 모의해킹 할 때 많이 사용됩니다." />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="3Z9uW-kS_MQ" title="드론 사이버 보안 가이드가 발행되고 있습니다. 신규 서비스 관련 보안 가이드는 항상 챙겨보세요!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Al563y1y3-o" title="윈도우 서버 보안 프로세스 모니터링 두번째 - `procmon`, `sysmon` 활용법" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="LAAWZIKAbPU" title="윈도우 서버 보안 프로세스 정보 모니터링. `Sysinternals` 활용법 포함" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="3m_Oh2iKZ0E" title="안드로이드 모의해킹 디컴파일 `jadx` 도구 1.2 릴리즈. 실무에서도 많이 활용됩니다.!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="OjBILXUqkVQ" title="드로저 프레임워크(Drozer Framework) 아나콘다 파이썬에 설치 과정, 안드로이드 취약점 자동 진단 도구!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="g2UXLQeF1O0" title="파이썬 GUI 코딩 -  tkinter를 이용한 버튼 생성하고 이벤트 발생하기!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="XaCxhzVwxWI" title="아나콘다 파이썬 환경에 모바일 앱 진단 인시큐어뱅크 설치 방법! 모바일 해킹 할 때 학습하기 좋은 테스트 앱!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="BzOHVkKXeS8" title="노션에 타임라인(Timeline) 기능이 추가되었습니다. 프로젝트 일정 관리를 좀 더 자유롭게~" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="_E38Sdbh4Og" title="볼라틸리티 워크벤치 (Volatility Workbench) 도구를 이용한 메모리 포렌식 활용" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Ezk2IDqZQsI" title="도커파일 RUN 명령어로 소프트웨어 설치, 불필요한 이미지 정리" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="wdtHty-BqAU" title="WSL2  환경 활성화 후 아파치 서버 설치하기 그리고 주의사항!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="wH0h8zI6WB8" title="Security Onion 통합 로그 도구 새로운 버전으로 릴리즈" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="cwQAHH2UsgY" title="(공개강의) 모바일 앱 자동 분석 도구 MobSF 윈도우 환경 설치 방법!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="rVGOava5be8" title="(안드로이드해킹, 취약점진단) `ostorlab`를 활용한 앱 자동화 진단 사례" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="zkoLrEiU8NA" title="(무료강의) 파이썬 프로그램 활용한 자동화 업무- 2 1 엑셀파일 읽기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="pz-LczTz-fc" title="산업 기반 SCADA 해킹 - 메타스플로잇을 이용한 Modbus 서버 데이터 조작" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="mhZErkTWdY8" title="(해킹, 침해대응) sysmon view를 이용하여 `sysmon` 로그 정보를 분석하자" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="2Mjc3KPXQTE" title="(모의해킹, 칼리리눅스) PentestBox 포터블 진단 도구 리뷰" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="bCTxwXWrRnI" title="칼리리눅스 신규 버전 소식과 테스트 환경을 빠르고 편하게 구성 가능!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5-NRoLOwerg" title="HFS 취약점 procmon 필터 활용한 분석 사례 , SK쉴더스 클라우드 보안 취업 준비생 라이브" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Rln9-ig9xFw" title="sysmon 윈도우 통합로그를 시각화 하는 Grafiki , 침해사고분석대응, 보안관제 활용" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="UYtoqj5zruk" title="ChatGPT 팁!! 테이블 형식으로 비교 분석의 결과를 쉽게 얻을 수 있다.!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="LhuqdCkj2-8" title="ELK 통합 로그 시스템에 metricbeat 설치하여 로그 모니터링 분석" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="HQgFFvKoOyc" title="도커 (Docker) 컨테이너 볼륨을 이용한 데이터베이스 운영 #SK쉴더스 라이브" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="J3YuIp8WGWE" title="클라우드 서비스 환경 변화로 보안 관제 업무 전망은??" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="OPwnxVJGQ5Y" title="Nikto 자동화 스캔 패킷을 NetworkMiner 분석 사례" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="RPpwwFbyVkM" title="파워쉘 악의적인 명령어와 배치파일을 이용한 악성코드 공격 패킷 분석" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="N8T4WedJPnw" title="파워쉘 (Powershell) Get-ChildItem 과 Get-FileHash를 이용하여 대량의 파일 해시 정보 가져오기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="NsNbTTRxgEo" title="파워쉘(Powershell) Get-ChildItem 디렉터리와 파일 목록 정보 확인" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="oszvpkiVjWs" title="포티파이 시큐어코딩 진단결과에 대한 추적성과 오픈소스도구와 비교" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="qxkcV3Hn45A" title="파워쉘(Powershell) - 동사와 명사로 이루어진 파워쉘 명령어 그리고 별칭 이해" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="M7MM5YGyqMw" title="파워쉘(Powershell) - Get-Help 를 이용하여 명령어 도움말 확인하기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5wOnab5hQvk" title="윈도우 파워쉘 Powershell의 이해와 에디터 소개" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="PBbksc6y_3Q" title="(모의해킹, 침해대응) 와이어샤크를 활용한 웹 해킹 패턴 분석 입문" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="z6WOMYI-WiU" title="구글클라우드(CGP) 01. 서비스 이해와 가상 머신 인스턴스 만들어보기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="J2_5hImJWck" title="윈도우 디펜더( Windows Defender) 에서 랜섬웨어 방지 설정하기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="tofm8NF8Z9E" title="(칼리리눅스, 해킹) 칼리리눅스 사용하는 이유와 공부 방법" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="NLTvjjgEBeg" title="안드로이드 악성코드 Teabot 은행 앱 분석 사례 리뷰" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="B6pnCJFvnYE" title="(보안동향) VPN 취약점을 이용한 한국원자력 해킹사고, 재택근무로 VPN 해킹으로 집중!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="hn5_T6KmMSs" title="포티파이 시큐어코딩 도구로 모바일 앱도 진단이 가능합니다.!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="ZNiw4jURHKQ" title="취약점 데이터베이스(CVE) 상세정보 취약점 통계 확인해보기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="x6BDZITdvvY" title="포티파이 소스코드 진단 도구 suppress 숨김 처리 기능 살펴보기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="x6BDZITdvvY" title="포티파이 소스코드 진단 도구 suppress 숨김 처리 기능 살펴보기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="_AR6o4Sn5gc" title="시큐어코딩 포티파이 (Fortify) 마법사 사용과 실행 배치파일 생성" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="-MTFTLZW1RA" title="현대오토에버 화이트해커 양성과정 특성화고 학생대상 많은 참여하세요.^^!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5GzTmc5F4dY" title="도서추천 - 파이썬 입문을 배웠다면, 비트코인, 주식 거래 API 활용을 추천!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="MzLYenYKFFc" title="안드로이드 랜섬웨어 악성코드 기초 정적분석 사례!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="VAUSehZGFTY" title="단축 URL의 원본 주소를 검색하여 보안 위협을 모니터링하는 OSINT 사이트 소개" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="JnxakTO90Dw" title="웹 해킹에서 디렉터리 구조를 파악하는 도구 소개 (영상자막)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="AvvONBcHt1E" title="자동 웹 스캔 도구 WebInspect 점검 정책 설정에 대해 알아보자!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="p_I2U6jLJLg" title="웹 기반 프로그램 연습 사이트 Replit 소개" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Nn39af4EXRQ" title="칼리리눅스를 다루기 위해서는 무엇을 먼저 배워야 하나요??? (영상자막)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="KidqBGo0WqU" title="IT 보안 기술 동향 파악할 때 좋은 트위터 주소 소개 (영상 자막)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="iaBPo_2wUjU" title="(공개강의) iOS 모바일 해킹 - 취약한 애플리케이션 환경 구성" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="LuoVQAyrdYU" title="모의해킹 팀장까지 5년.. 어떤 업무를 하게 될까? (자막 포함)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="LuoVQAyrdYU" title="모의해킹 팀장까지 5년.. 어떤 업무를 하게 될까? (자막 포함)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="BwroBQfhFPU" title="칼리리눅스에서 파이썬 가상환경으로 3버전 2버전 같이 사용하기!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="inq2iRiuMEo" title="라즈베리 파이(Raspberry Pi) 스왑 기능과 실습. IoT 를 배우자!!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="uHMmkZmJecU" title="악성코드는 공격 행위를 자동으로 제작하고 시나리오를 적용한 것이다.!!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="I0DL8wH7yuo" title="도커 컴포즈 ( Docker-Compose ) 를 이용한 워드프레스 환경 자동 구성. 칼리리눅스 환경 이용" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="YRyUwC9LhwY" title="메타스플로잇 Metasploit 스캐너 기능에 대해 알아봐요!!~. 메타스플로잇 프레임워크에는 모의해킹 프로세스의 모든 모듈이 포함!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="j1FvymyCU8k" title="쇼단 서비스에서 Jenkins, 마인크래프트 서버 노출된 사례와 옵션 알아보기 (자막포함)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="ORm127v0a1A" title="파이썬 해킹 FTP 무작위 대입 공격 도구 개발. 테스트 환경에서만 활용!!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="JMcYGx99KE0" title="칼리리눅스와 모의해킹 방법론의 연관성. 도구를 쓰기 전에 사용하는 목적을 알아봐요!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="cUEr48baxik" title="#3 노션(Notion) 워크스페이스 설정과 비용 설명. 한글 버전 신규 (자막선택가능)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="z4hYtHBX_nA" title="파이썬 프로그램으로 DNS 서버에 정보 조회하기. 도메인 IP정보를 확인하자!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Jf_HxtXE-gw" title="#1 노션(Notion) 한글 버전 시작하기와 회원가입 과정. 개인 사용자와 회사 업무로 모두 활용 가능 (자막선택가능)" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="EnF4I0J2K8g" title="AWS보안 - 온프레미스 인프라와 클라우드 인프라 이해와 공동책임모델" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="65GDDBq5q2o" title="파이썬 자동화 - 엑셀 파일을 생성하고 셀에 데이터 입력 입문" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="H7m9_B0KZ0A" title="파이썬 자동화 - 엑셀 파일에 반복문을 이용한 데이터 저장" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="wUCXsOmRT2s" title="CriminalIP에서 도메인 정보에 대한 결과 해석하기 #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="GPn6ztBiUd4" title="CriminalIP 서비스에서 악의적인 피싱 사이트 IP 사례 살펴보기 #에이아이스페라" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="tDw9o30i2p0" title="ShareGPT !! ChatGPT의 결과를 서로 공유할 수 있다고?? 너는 무엇을 물어봤니?" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Q_UhH8ep1yw" title="FastAPI와 쇼단 API를 이용하여 웹페이지 결과 확인 #프론트엔드 #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="6tgHNEuN7Xc" title="보안솔루션 용어를 이해하고 싶은데 어떤 책이나 정보를??" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="5XYrWGvEnp0" title="ChatGPT에게 화이트해커의 진로 질문과 답변을 확인!! 공부 뱡향을 알 수 있다.!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="dIOQeMSNCws" title="파이썬 tkinter로 입력받은 URL 크롤링 및 QR 코드 이미지 생성" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="m1oy0TNB59s" title="진로QA. 대기업에서는 모의해킹 인력을 뽑을 때 어떤 업무 능력을 보나요?? #화이트해커" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="lW5UG5-xPIs" title="파이썬 googletrans 이용하여 여러 파일을 한글에서 영어로 번역한 후에 결과 저장" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="dVjGHFEm5Og" title="파이썬 크롤링을 한 후에 URL 주소 QRcode로 자동 생성 #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="GnwuYebXF28" title="DALL-E AI 서비스를 이용한 사진 합성 놀이!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="3doYJvVcgiA" title="ChatGPT를 이용한 모의해킹 면접 질문과 답변, 취업 준비생에게 큰 도움이!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="eQQq7SwGM6E" title="ChatGPT 크롬 브라우저 확장 프로그램 설치! 검색 효율이 높아짐" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="OoHvwvpC6VU" title="AWS AI 서비스 활용 - AmazonRekognition 으로 사진 분석" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Co71WcVEPK0" title="(악성코드, 침해대응) FLARE VM을 이용한 악성코드 분석 환경 구축하기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="b7iympg0myU" title="ChatGPT를 이용하여 웹 로그파일 필터링 적용 뷰어 제작하기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="VJIia4jn4nY" title="파이썬 프로그램 sqlite 데이터베이스 사용과 가짜 데이터 생성" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="_s5G0UaIhz8" title="Criminal IP 파이썬 API를 이용하여 의심되는 도메인 정보들 가져오기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="llj5xDFTTkM" title="파이썬 docker 라이브러리를 이용한 컨테이너 정보 출력!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="69OGeGqhn2c" title="파이썬 자동화 - 프리젠테이션 PPT 자동 생성 및 표 추가, 엑셀 정보 가져오기" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="7SpMZNIhvIs" title="ChatGPT 활용한 RSS 피드 크롤링하기!! 파이썬 플라스크로 제작~  #chatgpt #python" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="tPwVIxUhddM" title="파이썬을 이용한 웹 로그 분석 IP 추출과 시각화 with ChatGTP" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="IZ78wQ-fURM" title="파이썬 Flask - 웹 로그 분석의 상위 IP 통계와 데이터 시각화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="fVIJUp5tzO8" title="ChatGPT를 이용한 토익 문법 문제를 만들어볼까?!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="-DJIbq2epGc" title="ChatGPT를 이용하여 파이썬 입문 공부 방법! 하루가 지겹지 않다!!" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="vK4uRjq6E_8" title="ChatGPT 플러스 터보로 평가문제 만드는 속도를 체크" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Q_UhH8ep1yw" title="FastAPI와 쇼단 API를 이용하여 웹페이지 결과 확인 #프론트엔드 #파이썬자동화" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="aTqKbwNzN-g" title="칼리리눅스 foremost 포렌식 카빙 도구로 파일 추출  `#kalilinux` `#forensics`" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="Og68DQNEgyU" title="칼리리눅스 purple 버전 설치 및 한글 폰트, 입력기까지 설정 #kalilinux" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="RKuAHNGHfuQ" title="파이썬을 이용한 파일 ZIP 압축 및 FTP에 백업 작업 #SK쉴더스루키 강의중" />
-<YoutubeItem channelName="보안프로젝트[boanproject]" channelId="boanproject" id="OIbuL_7vuDY" title="칼리리눅스에 NetworkMiner 설치 및 악성코드 패킷 분석 사례" />
-
-:::
-
-<!-- 보안프로젝트 -->
+<!-- 보안프로젝트[boanproject] -->
 
 ---
+
+## HackerSploit
+
+<MyYouTubeItems jsonName="yu-HackerSploit" />
+
+<!-- HackerSploit -->
 
 ## Loi Liang Yang
 
@@ -229,6 +85,14 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 :::
 
 <!-- Loi Liang Yang -->
+
+---
+
+## Wolfgang's Channel
+
+<MyYouTubeItems jsonName="yu-WolfgangsChannel" />
+
+<!-- Wolfgang's Channel -->
 
 ---
 
@@ -266,13 +130,9 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 ---
 
-
-
-
 <TagLinks />
 
 [yu-_JohnHammond]: https://www.youtube.com/@_JohnHammond
-[yu-boanproject]: https://www.youtube.com/@boanproject
 [yu-loi-liang-yang]: https://www.youtube.com/@LoiLiangYang
 [yu-ippsec]: https://www.youtube.com/@ippsec
 [yu-the-pc-security-channel]: https://www.youtube.com/@pcsecuritychannel

@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "44BITSTV",
+    "name": "44BITS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMx0rYCVLFi8shhvP0KDX6czHiCixkNJs6fx5Rs4w=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "emawWKgDH3E",
+      "title": "44bits 팟캐스트 - Git.io deprecation, Scaling containers on AWS"
+    }, {
+      "id": "cyvCeItKFjw",
+      "title": "44bits 팟캐스트 145.log : React 18.0, Dagger.io, Grafana Mimir"
+    }, {
+      "id": "wReN7LG2zJg",
+      "title": "`docker`로 만들어보는 가상 원격 데스크탑 - 이형규"
+    }, {
+      "id": "mzdFK8re_ig",
+      "title": "k8s 필수 애플리케이션, 테라폼으로 한번에 설치하기 - 서비큐라 개발로그"
+    }, {
+      "id": "Ia8IfowgU7s",
+      "title": "[초보를 위한 쿠버네티스 안내서] 컨테이너 오케스트레이션이란?"
+    }    
+  ]
+}
+
+

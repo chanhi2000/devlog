@@ -19,6 +19,13 @@ tags: ["java", "baeldung"]
 
 ---
 
+## 우아한 기술블로그
+
+- [Java Enum 활용기](https://techblog.woowahan.com/2527)
+- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)
+
+---
+
 ## Baeldung
 
 - [Working with Microsoft Excel in Java](https://www.baeldung.com/java-microsoft-excel)

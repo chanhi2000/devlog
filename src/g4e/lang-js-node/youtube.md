@@ -1725,37 +1725,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## notJust.dev
 
-[notJust.dev][yu-notjustdev]
-
-::: details 목록
-
-<YoutubeItem channelName="notJust․dev" channelId="notjustdev" id="48UTHmf_Tp0" title="Connecting Twitter's Frontend to Backend using node.js and React Native" />
-<YoutubeItem channelName="notJust․dev" channelId="notjustdev" id="mABcyifdsww" title="Building the Twitter Backend with Node.js: A Step-by-Step Guide" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="sQx38wrzvuk" title="notJust Hack - Kickstart!" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-qAhg4EDIwQ" title="Let's build a Books App with React Native (tutorial for beginners) 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="m4NIOzDxHxE" title="Let's build Ping-Pong in React Native (Dynamic Island) 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="fWHiSuz-V68" title="Gesture Handler tutorial in React Native" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="pqQGU-JsD7k" title="Let's build WhatsApp with React Native and AWS Amplify [p4] 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="JcVt63qAt4o" title="FlatList Animations in React Native with Reanimated 2" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="8psijC5ezkc" title="Let's build WhatsApp with React Native and AWS Amplify [p2] 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="H9qTNjWV2ls" title="Let's build iOS 16 in React Native 🤔" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="onGpjt4mQdE" title="Animated Login Form in React Native (#2 Animations)" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="NzZvrlFBuig" title="Building a Startup with React Native and AWS Amplify (part 3)" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="AJBOV5btvaU" title="Let's code the notJust.dev blog platform with NextJS" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="INLnagMFShw" title="Virtual Events App [React Native | Nhost]" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="-m-4_DRLmrc" title="Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="WFo_IxhBxF4" title="Build a full stack UBER EATS clone - 2/5 Days Challenge  🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="4gX2V1IN6Ro" title="Let's build a Pinterest clone with React Native and NHost 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="xuBB-k6jAqo" title="Let's build a CRYPTO Price Tracker with React Native (p.2)🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="iQ_0Fd_N3Mk" title="🔴Build your first App in React Native in under 2 hours [ Tutorial for beginners ]" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="EvSUJ5lUcBw" title="Build a Realtime Chat App in React Native (tutorial for beginners) 🔴" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="OfKVpG8KLhY" title="Building Beautiful Animations with React Native Reanimated 3" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="UzdN1Xj8iq8" title="Build Your First App: Tesla Clone with React Native (Tutorial for Beginners)" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="5WNoynmnEAs" title="A Beginner's Guide to 3D Animations in React Native with three.js" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="50bIefoMo3c" title="Integrating Stripe Payments in your E-commerce React Native App" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="Gvxv6JCabA8" title="Building the Ultimate Nike App in React Native &amp; Redux" />
-<YoutubeItem channelName="notJust.dev" channelId="notjustdev" id="FD-pVEzugaU" title="Building the OnlyFans Clone with React Native (Beginner Tutorial)" />
-:::
+<MyYouTubeItems jsonName="yu-notjustdev" />
 
 <!-- notJust.dev -->
 
@@ -1766,6 +1736,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-CognitiveSurge" />
 
 <!-- Karl Hadwen -->
+
+---
+
+## 프롱트
+
+<MyYouTubeItems jsonName="yu-frongt" />
+
+<!-- 프롱드 -->
 
 
 ## Misc

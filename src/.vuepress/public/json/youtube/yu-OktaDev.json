@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "OktaDev",
+    "name": "OktaDev",
+    "profile": "https://yt3.googleusercontent.com/EnC6zgmVpPz4CONjyZ-BOInEOtZ5FoKtnzXqPvtilAeJ0nDFSSHVM-3CIoCWsSlJmAJySopAng=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "1aha4yrT2l0",
+      "title": "How to Protect an API in FastAPI with Auth0 by Okta"
+    }, {
+      "id": "B5tcZoNyqGI",
+      "title": "Use React and Spring Boot to Build a Simple CRUD App"
+    }, {
+      "id": "Bj69rOIwQwY",
+      "title": "Build a Secure Java REST API with Helidon"
+    }, {
+      "id": "3kGrkVUZ_Fo",
+      "title": "Scaling Secure Applications with Spring Session and Redis"
+    }, {
+      "id": "ChYIhEEOfrk",
+      "title": "How to Docker with Spring Boot"
+    }, {
+      "id": "clkEUHWT9-M",
+      "title": "Build Reactive Java Microservices with Spring Boot and JHipster"
+    }, {
+      "id": "6PJbHtBXRxQ",
+      "title": "Build Your First NestJS App"
+    }, {
+      "id": "PR6Gw4Ca-sE",
+      "title": "Build a Secure CRUD Application with React, Spring Boot, and Kotlin"
+    }, {
+      "id": "lkRGS_65SwQ",
+      "title": "Multi-factor Authentication (MFA) - Add More Security to Your Applications with Auth0 Guardian"
+    }, {
+      "id": "1aha4yrT2l0",
+      "title": "How to Protect an API in FastAPI with Auth0 by Okta"
+    }
+  ]
+}
+
+

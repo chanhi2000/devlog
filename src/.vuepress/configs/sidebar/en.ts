@@ -316,6 +316,13 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-kubernetes/youtube.md',
       ]
     }, {
+      text: '📦AWS',
+      collapsible: true,
+      children: [
+        '/g4e/devops-aws/README.md',
+        '/g4e/devops-aws/references.md',
+      ]
+    }, {
       text: '🛡Security',
       collapsible: true,
       children: [
@@ -377,6 +384,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-ide-vscode/tips.md',
         '/g4e/tool-ide-vscode/snippets.md',
         '/g4e/tool-ide-vscode/references.md',
+        '/g4e/tool-ide-vscode/youtube.md',
       ],
     }, {
       text: '⌨Sublime Text',
@@ -632,6 +640,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/12.md',
         '/crashcourse/paul-hudson-100-days-of-swift/13.md',
         '/crashcourse/paul-hudson-100-days-of-swift/14.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/15.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -640,7 +649,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/README.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/1.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/2.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/3.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/3.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/4.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

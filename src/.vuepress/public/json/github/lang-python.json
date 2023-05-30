@@ -1468,5 +1468,30 @@
     "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
     "topics": [],
     "officialSite": "https://comma.ai"
+  }, {
+    "repo": "MineDojo/Voyager",
+    "desc": "An Open-Ended Embodied Agent with Large Language Models",
+    "topics": ["minecraft", "large-language-models", "open-ended-learning", "embodied-learning"],
+    "officialSite": "https://voyager.minedojo.org"
+  }, {
+    "repo": "sjvasquez/handwriting-synthesis",
+    "desc": "Handwriting Synthesis with RNNs ✏️",
+    "topics": ["tensorflow", "recurrent-neural-networks", "handwriting-synthesis", "handwriting-generation"],
+    "officialSite": ""
+  }, {
+    "repo": "lucidrains/soundstorm-pytorch",
+    "desc": "Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch",
+    "topics": ["deep-learning", "transformers", "artificial-intelligence", "attention-mechanism", "non-autoregressive", "audio-generation"],
+    "officialSite": ""
+  }, {
+    "repo": "adieyal/sd-dynamic-prompts",
+    "desc": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Akegarasu/lora-scripts",
+    "desc": "LoRA training scripts use kohya-ss's trainer, for diffusion model.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

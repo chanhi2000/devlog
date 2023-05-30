@@ -43,6 +43,25 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Banksalad
+
+### 2020
+
+- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby)
+
+### 2017
+
+- [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage)
+
+---
+
+## Toast
+
+- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804)
+- [Async Cookie Store API 살펴보기](https://ui.toast.com/weekly-pick/ko_20201027)
+
+---
+
 ## traversymedia
 
 - [MERN Crash Course (Part 2) - React Frontend UI, State Management With Redux Toolkit](https://www.traversymedia.com/blog/mern-crash-course-part-2)
@@ -265,6 +284,10 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Assessing loading performance in the field with Navigation Timing and Resource Timing](https://web.dev/navigation-and-resource-timing)
 
 ---
+
+## Amjad Masad
+
+- [Why Learn Compilers](https://amasad.me/compilers)
 
 ## Misc
 

@@ -184,5 +184,10 @@
       "desc": "Code from instagram posts",
       "topics": [],
       "officialSite": ""
+    }, {
+      "repo": "mullvad/wireguard-apple",
+      "desc": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple",
+      "topics": [],
+      "officialSite": ""
     }
 ]

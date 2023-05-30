@@ -1014,5 +1014,10 @@
     "desc": "📡 BroadcastChannel to send data between different browser-tabs or nodejs-processes 📡 + LeaderElection over the channels https://pubkey.github.io/broadcast-channel/",
     "topics": ["polyfill", "ipc", "localstorage", "indexeddb", "broadcast", "crosstab", "leader-election", "communication-channel", "postmessage", "broadcast-channel"],
     "officialSite": "https://pubkey.github.io/broadcast-channel"
+  }, {
+    "repo": "bigcapitalhq/bigcapital",
+    "desc": "💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses.",
+    "topics": ["invoices", "inventory", "accounting", "financial", "expenses", "bills"],
+    "officialSite": "https://bigcapital.ly"
   }
 ]

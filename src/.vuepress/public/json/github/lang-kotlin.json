@@ -75,5 +75,15 @@
     "desc": "Nice and simple DSL for Espresso in Kotlin",
     "topics": ["android", "kotlin", "dsl", "android-test", "espresso", "testing-tools", "android-ui", "hacktoberfest", "ui-testing", "testing-framework", "testing-library"], 
     "officialSite": "https://kakaocup.github.io/Kakao"
+  }, {
+    "repo": "minigdx/tiny",
+    "desc": "Tiny is a lightweight 2D game engine that allows developers to easily create games using the Lua programming language.",
+    "topics": ["kotlin", "game", "gamedev", "lua", "gamejam", "2d", "kotlin-js", "kotlin-jvm"],
+    "officialSite": "https://minigdx.github.io/tiny"
+  }, {
+    "repo": "JetBrains/ideavim",
+    "desc": "IdeaVim – A Vim engine for JetBrains IDEs",
+    "topics": ["kotlin", "vim", "intellij", "jetbrains", "intellij-plugin", "intellij-platform", "ideavim", "jb-official"],
+    "officialSite": "http://plugins.jetbrains.com/plugin/164"
   }
 ]

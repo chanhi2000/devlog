@@ -369,5 +369,10 @@
     "desc": "JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "tidwall/jj",
+    "desc": "JSON Stream Editor (command line utility)",
+    "topics": ["json", "utility"],
+    "officialSite": ""
   }
 ]

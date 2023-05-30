@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "claydesk",
+    "name": "ClayDesk E-Learning",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM476JZijl7Y7WHLOzEZh8SFdjm4LvKG5o-5mwmRw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "vQTCaFv8E0M",
+      "title": "Why ChatGPT is the next big thing in DevOps Pipeline?"
+    }, {
+      "id": "ZopKM2umkew",
+      "title": "CI CD Full Course In One Hour"
+    }, {
+      "id": "4_ORDXKLMWs",
+      "title": "Selenium Testing Full Course"
+    }, {
+      "id": "SpfO55NPhx8",
+      "title": "AWS Certified Cloud Practitioner 2022 FULL COURSE for Beginners (2019 Course Updated)"
+    }, {
+      "id": "9kSQQfOG9IE",
+      "title": "AWS Cloud Security Best Practices - How to Configure AWS Security"
+    }, {
+      "id": "gVMA8ilZKvE",
+      "title": "Azure DevOps Introduction for Beginners - Azure DevOps"
+    }, {
+      "id": "BpCDeiUgaj8",
+      "title": "How to Manage AWS Data Security Risk in Cloud Computing"
+    }, {
+      "id": "6ycSuoqsevA",
+      "title": "Certified KUBERNETES Application Developer Full Course for Beginners"
+    }
+  ]
+}
+
+

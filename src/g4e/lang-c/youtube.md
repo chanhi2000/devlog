@@ -154,6 +154,7 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 <YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="YvNlVAkHVwk" title="Amazingly Flexible C code without OOP or FP Ideological Bullsh*t" />
 <YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="cdVCpS4qvRA" title="Coding Math Despite being Traumatized by Education System" />
 <YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="9JULWqjM0Wg" title="Rust Multi-Threading" />
+<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="E5yAoMaVCp0" title="I programmed in TypeScript like in Haskell (Lazy Evaluation)" />
 
 :::
 

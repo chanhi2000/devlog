@@ -1,0 +1,58 @@
+{
+  "channel": {
+    "id": "codebreakthrough",
+    "name": "Caleb Curry",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNnaEmUsj4nHqxqgrcZ_nVjpqQlSolLWV3jcvIv5g=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "3-9sObAg6R0",
+      "title": "Run C++ and C in Visual Studio Code | Mac and Windows!"
+    }, {
+      "id": "Ux0Yzedi3Xc",
+      "title": "Hands-on Java - All-in-One Tutorial Series (7 HOURS!)"
+    }, {
+      "id": "9Myk2vcK8s8",
+      "title": "C++ Full Course (FOUR HOUR All-in-One Tutorial for Beginners)"
+    }, {
+      "id": "D53L7MkYvys",
+      "title": "Intro to for Loops - Bash Programing Tutorial 9"
+    }, {
+      "id": "c6d7lfvziRY",
+      "title": "Intro to Webhooks - Real Time App Automation (Discord Bot, Slack, GitHub)"
+    }, {
+      "id": "pvlIf9Lh4_Q",
+      "title": "Deploy Docker to Kubernetes Cluster"
+    }, {
+      "id": "Bz4MxDeEM6k",
+      "title": "C Programming All-in-One Tutorial Series (10 HOURS!)"
+    }, {
+      "id": "iaeLv-ilMA0",
+      "title": "Probability statistics tutorial || Probability for data science"
+    }, {
+      "id": "uRYLJduJjAY",
+      "title": "SQL All-in-One Tutorial Series (13 HOURS!)"
+    }, {
+      "id": "sKBI6HALHWM",
+      "title": "SQL Server All-in-One Quick Start Tutorial Series (OVER 3 HOURS!)"
+    }, {
+      "id": "JrR4ZpuROC8",
+      "title": "How to Build a Computer - 1 - Introduction"
+    }, {
+      "id": "h0j0QN2b57M",
+      "title": "Database Design All-in-One Tutorial Series (8 HOURS!)"
+    }, {
+      "id": "qoYr8XNwtVo",
+      "title": "JavaScript Programming Tutorial 61 - Call and Apply"
+    }, {
+      "id": "lwbVtX1mZLs",
+      "title": "JavaScript Programming Tutorial 65 - this with Arrow Functions"
+    }, {
+      "id": "3Ib545JdBNQ",
+      "title": "JavaScript Programming Tutorial 68 - Intro to Debugging"
+    }
+  ]
+}
+
+
+

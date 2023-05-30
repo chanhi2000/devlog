@@ -87,12 +87,12 @@ The first 12 days provide a gentle warm up for your Swift learning. You’ll wat
 - [Day 11][day-11] – protocols, extensions, and protocol extensions
 - [Day 12][day-12] – optionals, unwrapping, and typecasting
 
-### Days 13-15: Consolidation I
+### ✅Days 13-15: Consolidation I
 
 You just learned a lot about Swift in only 12 days, so before we continue it's important you reflect on what you've learned: look for weak spots, re-watch videos, re-take tests, and so on, until you feel comfortable that you have mastered all the Swift language fundamentals covered in days 1-12.
 
-- [Day 13][day-13] – ✅Swift review, day one
-- [Day 14][day-14] – ✅Swift review, day two
+- [Day 13][day-13] – Swift review, day one
+- [Day 14][day-14] – Swift review, day two
 - [Day 15][day-15] – Swift review, day three
 
 ### Days 16-22: Starting iOS
@@ -287,7 +287,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 - [Epilogue][epilog] – What now?
 
 [ask-me]: https://twitter.com/twostraws
-[100-days-of-swiftui]: ./100-days-of-swiftui.md
+[100-days-of-swiftui]: ../paul-hudson-100-days-of-swiftui/README.md
 [glossary]: https://www.hackingwithswift.com/glossary
 
 [day-1]: 1.md
@@ -304,7 +304,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-12]: 12.md
 [day-13]: 13.md
 [day-14]: 14.md
-[day-15]: https://www.hackingwithswift.com/100/15
+[day-15]: 15.md
 [day-16]: https://www.hackingwithswift.com/100/16
 [day-17]: https://www.hackingwithswift.com/100/17
 [day-18]: https://www.hackingwithswift.com/100/18

@@ -18,6 +18,24 @@ description: 🛠️Git > 📚References
 
 ---
 
+## 인포그랩
+
+- [Git 커밋 메시지 자동화 가이드](https://insight.infograb.net/blog/2023/05/25/git-commit-automation)
+
+---
+
+## 우아한 기술블로그
+
+- [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530)
+
+---
+
+## Gabia 라이브러리
+
+- [husky 로 git hook 하자](https://library.gabia.com/contents/8492)
+
+---
+
 ## Medium
 
 - [Writing Better Commits](https://itnext.io/writing-better-commits-6a1691c12772)

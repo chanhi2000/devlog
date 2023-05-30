@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "citrix",
+    "name": "Citrix",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNvwJrI8i8l1iyROcP_CisChQmtOxrOOGvOyRLh-Zc=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "vrTMj789rVA",
+      "title": "Creating and installing a new SSL certificate in NetScaler"
+    }, {
+      "id": "f8hzCvbck6c",
+      "title": "Citrix Features Explained: Citrix Linux VDA"
+    }, {
+      "id": "uR_2nCcniuc",
+      "title": "Delvering web apps from Azure cloud in an appcentric way with App Delivery and Security Service"
+    }, {
+      "id": "fLq6eI2x8uM",
+      "title": "Setting up Citrix DaaS - Step 1: Creating a Resource Location and Adding Cloud Connectors"
+    }, {
+      "id": "sdaXC3l85Rk",
+      "title": "Keep it simple and secure with Citrix DaaS and Citrix Secure Private Access"
+    }, {
+      "id": "6_DYbEyoFvI",
+      "title": "What's new and next with Citrix Virtual Apps and Desktops"
+    }
+  ]
+}
+

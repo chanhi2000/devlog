@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "snazzy",
+    "name": "Snazzy Labs",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMipBSO1jomGentOdiYYLnnj4dfUthiTofIgNCinw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "pQWGFKhBQwU",
+      "title": "We made the Mac mini ACTUALLY mini!"
+    }, {
+      "id": "FxUk8gxzHI8",
+      "title": "Amazing FREE Mac Apps You Aren’t Using!"
+    }, {
+      "id": "hz9Ek6fxX48",
+      "title": "I Made a Tiny Touch ID Button for Mac!"
+    }, {
+      "id": "sPPTZ2nX1C0",
+      "title": "Superb FREE Mac Apps You Aren’t Using!"
+    }, {
+      "id": "cIOZuY-fi5E",
+      "title": "Microsoft Made an Arm-based Mac mini"
+    }, {
+      "id": "-Otg7JFMuVw",
+      "title": "This Linux PC Runs macOS Faster Than a Real Mac"
+    }, {
+      "id": "9Lz7jliEvGg",
+      "title": "150+ Mac Tips and Tricks"
+    }, {
+      "id": "OLmk_XsRgOQ",
+      "title": "The Quietest Mac Ever Made!"
+    }, {
+      "id": "RB4kwfY2w7A",
+      "title": "Don't Lose Your Data Like a Dummy"
+    }
+  ]
+}
+
+

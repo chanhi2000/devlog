@@ -614,6 +614,22 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Mental Outlaw
+
+<MyYouTubeItems jsonName="yu-MentalOutlaw" />
+
+<!-- Mental Outlaw -->
+
+---
+
+## eBuzz Central
+
+<MyYouTubeItems jsonName="yu-eBuzzCentral" />
+
+<!-- eBuzz Central -->
+
+---
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech

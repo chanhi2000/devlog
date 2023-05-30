@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "LearnitTraining",
+    "name": "Learnit Training",
+    "profile": "https://yt3.googleusercontent.com/JPJEpKm2PkYzJJmju1M4a0cq3aMBS-JmJ4umGsxMLOCTTq0aE-vTfDaKa9umJNjqncqrzI3UauY=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "72JNvOpwn1g",
+      "title": "Keynote Tutorial"
+    }, {
+      "id": "urrfJgHwIJA",
+      "title": "Python Logging - Tutorial"
+    }, {
+      "id": "2CPfTMTr_QQ",
+      "title": "Build Resilience &amp; Adaptability"
+    }, {
+      "id": "xrt_ceNXiM0",
+      "title": "10 Things You Never Knew You Could Do in Excel"
+    }, {
+      "id": "wt5-Mcimw78",
+      "title": "Word Advanced Tutorial"
+    }, {
+      "id": "QAI0yKpCurM",
+      "title": "Access Master Tutorial"
+    }, {
+      "id": "1XTXv1V3-ag",
+      "title": "Access Beginner Tutorial"
+    }, {
+      "id": "tuk99Sgc6Fw",
+      "title": "Microsoft Excel 2016 - Learn Excel 2016 Beginners Tutorial Video"
+    }, {
+      "id": "G05TrN7nt6k",
+      "title": "Excel VBA Beginner Tutorial"
+    }, {
+      "id": "72JNvOpwn1g",
+      "title": "Keynote Tutorial"
+    }, {
+      "id": "2dkm3LnqTr8",
+      "title": "Power Automate Beginner Tutorial"
+    }
+  ]
+}

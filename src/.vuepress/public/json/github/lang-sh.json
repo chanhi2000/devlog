@@ -129,5 +129,10 @@
     "desc": "Bash scripts that integrate bat with various command line tools.",
     "topics": ["bat", "hacktoberfest"],
     "officialSite": ""
+  }, {
+    "repo": "gabia/git-hooks-with-husky",
+    "desc": "Git Hook with Husky",
+    "topics": [],
+    "officialSite": ""
   }
 ]

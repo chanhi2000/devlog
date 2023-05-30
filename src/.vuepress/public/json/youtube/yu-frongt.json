@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "frongt",
+    "name": "프롱트",
+    "profile": "https://yt3.googleusercontent.com/PVbwh8OLmp3dTofJ7vmv6zfoRKiFgIvL9SsTYaermGxW3Ga6vONSfC7ymrgpO6gUCd9nKcZp0Sc=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ErMvjDMskFA", 
+      "title": "웹 개발 디버깅 꿀팁 시리즈 (디버깅 1편. HTML)"
+    }, {
+      "id": "toUlXhTZZ8w", 
+      "title": "`if`만 제거했을뿐인데.. 클린코드라니"
+    }, {
+      "id": "uvyx4429ztg", 
+      "title": "Promise 패턴 (5 분 컷)"
+    }    
+  ]
+}
+

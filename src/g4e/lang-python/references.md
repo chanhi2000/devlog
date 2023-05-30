@@ -57,6 +57,12 @@ description: 🐍Python > 📚References
 
 ---
 
+## Austin Z. Henley
+
+- [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+
+---
+
 ## pamela fox
 
 - [A Dev Container for SQLAlchemy with SQLTools](https://blog.pamelafox.org/2023/05/a-dev-container-for-sqlalchemy-with.html)

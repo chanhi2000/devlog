@@ -30,6 +30,14 @@ tags: ["rust" , "rs", "rust-lang"]
 
 - [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust)
 
+---
+
+## Amos: FasterThanLi
+
+- [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
+
+---
+
 ## Bevy
 
 - [Bevy + WebGPU](https://bevyengine.org/news/bevy-webgpu)

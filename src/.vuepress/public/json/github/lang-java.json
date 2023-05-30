@@ -264,6 +264,11 @@
     "desc": "Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.",
     "topics": ["java", "vector-tiles", "openstreetmap", "postgresql", "postgis", "mapbox", "spatial-data", "web-mapping"],
     "officialSite": "http://baremaps.apache.org"
+  }, {
+    "repo": "barry-ran/QtScrcpy",
+    "desc": "Android real-time display control software",
+    "topics": ["android", "qt"],
+    "officialSite": "https://blog.csdn.net/rankun1/article/details/87970523"
   }
 ]
 

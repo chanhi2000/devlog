@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "TomDoesTech",
+    "name": "TomDoesTech",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNmnQPGtsnGkL-4_i3CdleGuBkz0K5JloJ7Yx6Q=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "w84-FPJa4_g", 
+      "title": "Solving ThePrimeagen's Favorite Interview Question"
+    }, {
+      "id": "wx3ultvbzUY", 
+      "title": "Learn Just Enough Git to be Productive"
+    }    
+  ]
+}

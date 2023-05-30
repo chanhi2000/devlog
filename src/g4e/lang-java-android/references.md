@@ -36,6 +36,14 @@ tags: ["references", "android"]
 
 ---
 
+## velog
+
+- [[android] Notification 등록시 Head Up Notification 뜨지 않는 현상](https://velog.io/@kkaemi/android-Notification-%EB%93%B1%EB%A1%9D%EC%8B%9C-Head-Up-Notification-%EB%9C%A8%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81)
+- [[Android] 불러온 Image Crop하기](https://velog.io/@jinny_0422/Android%EB%B6%88%EB%9F%AC%EC%98%A8ImageCrop%ED%95%98%EA%B8%B0)
+- [[Android] `productFlavors` 별로 `google-services.json` 설정하기](https://velog.io/@devyang97/Android-productFlavors-%EB%B3%84%EB%A1%9C-google-service.json-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+
+---
+
 ## Kt.academy
 
 - [Coroutine scope functions](https://kt.academy/article/cc-scoping-functions)
@@ -55,6 +63,14 @@ tags: ["references", "android"]
 
 - [DAAM Android Botnet being distributed through Trojanized Applications](https://blog.cyble.com/2023/04/20/daam-android-botnet-being-distributed-through-trojanized-applications/)
 
+---
+
+## Vincent Tsen
+
+- [Beginner's Guide to Understand Build Gradle Files in Android Studio](https://vtsen.hashnode.dev/beginners-guide-to-understand-build-gradle-files-in-android-studio)
+
+---
+
 ## Devlogs(s)
 
 - [자바스터디](http://blog.naver.com/koreannick/220587772504)
@@ -64,8 +80,12 @@ tags: ["references", "android"]
 
 ---
 
+
+
 ## 허접샴푸로그래밍
 
 - [[배달의 민족] 따라만들기 8-2편 (Repository, ViewModel, MVVM)](https://programmar.tistory.com/m/40)
+
+---
 
 <TagLinks />

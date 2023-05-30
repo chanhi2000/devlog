@@ -12,6 +12,12 @@ description: 🥋Regex > 📚References
 
 ---
 
+## 우아한 기술블로그
+
+- [쉽고 재밌는 정규식 이야기](https://techblog.woowahan.com/2505)
+
+---
+
 ## freecodecamp.org
 
 - [How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial](https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/)

@@ -91,7 +91,7 @@ Regardless of whether or not you go over the optional extra reading, you’ll fi
 - [Day 1][day-1] – ✅variables, constants, strings, and numbers
 - [Day 2][day-2] – ✅Booleans, string interpolation, and checkpoint 1
 - [Day 3][day-3] – ✅Arrays, dictionaries, sets, and enums
-- [Day 4][day-4] – type annotations and checkpoint 2
+- [Day 4][day-4] – ✅type annotations and checkpoint 2
 - [Day 5][day-5] – if, switch, and the ternary operator
 - [Day 6][day-6] – loops, summary, and checkpoint 3
 - [Day 7][day-7] – functions, parameters, and return values
@@ -272,7 +272,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 <TagLinks />
 
 [ask-me]: https://twitter.com/twostraws
-[100-days-of-swift]: ./100-days-of-swift.md
+[100-days-of-swift]: ../paul-hudson-100-days-of-swift/README.md
 [swiftui-by-example]: https://www.hackingwithswift.com/quick-start/swiftui
 [glossary]: https://www.hackingwithswift.com/glossary
 
@@ -280,7 +280,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-1]: 1.md
 [day-2]: 2.md
 [day-3]: 3.md
-[day-4]: https://www.hackingwithswift.com/100/swiftui/4
+[day-4]: 4.md
 [day-5]: https://www.hackingwithswift.com/100/swiftui/5
 [day-6]: https://www.hackingwithswift.com/100/swiftui/6
 [day-7]: https://www.hackingwithswift.com/100/swiftui/7

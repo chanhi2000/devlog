@@ -179,5 +179,15 @@
     "desc": "Automatic Android interception & debugging with HTTP Toolkit, for Android",
     "topics": ["android", "debugging", "http", "android-development", "android-debug", "android-tools"],
     "officialSite": "https://httptoolkit.com"
+  }, {
+    "repo": "2dust/v2rayNG",
+    "desc": "A V2Ray client for Android, support Xray core and v2fly core",
+    "topics": ["android", "proxy", "socks5", "shadowsocks", "vpn", "trojan", "v2ray", "vmess", "xray", "v2fly", "vless", "xtls"],
+    "officialSite": "https://1.2345345.xyz"
+  }, {
+    "repo": "agrosner/DBFlow",
+    "desc": "A blazing fast, powerful, and very simple ORM android database library that writes database code for you.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

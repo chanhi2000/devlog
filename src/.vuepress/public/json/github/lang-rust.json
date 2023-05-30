@@ -323,11 +323,21 @@
       "repo": "wez/wezterm",
       "desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "topics": ["rust", "terminal", "serial", "terminal-emulators", "serial-port", "terminal-emulator"],
-      "officialSite": "https://wezfurlong.org/wezterm/"
+      "officialSite": "https://wezfurlong.org/wezterm"
     }, {
       "repo": "sharkdp/bat",
       "desc": "A cat(1) clone with wings.",
       "topics": ["git", "syntax-highlighting", "rust", "cli", "terminal", "command-line", "tool", "hacktoberfest"],
+      "officialSite": ""
+    }, {
+      "repo": "sharkdp/hyperfine",
+      "desc": "A command-line benchmarking tool",
+      "topics": ["rust", "cli", "benchmark", "terminal", "command-line", "tool", "hacktoberfest"],
+      "officialSite": ""
+    }, {
+      "repo": "sharkdp/fd",
+      "desc": "A simple, fast and user-friendly alternative to 'find'",
+      "topics": ["search", "rust", "cli", "terminal", "command-line", "tool", "filesystem", "regex", "hacktoberfest"],
       "officialSite": ""
     }
 ]

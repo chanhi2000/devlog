@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "Telusko",
+    "name": "Telusko",
+    "profile": "https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "gWBF2V0mSXk",
+      "title": "Microservices to Monolith | Amazon Prime Video"
+    }, {
+      "id": "BGTx91t8q50",
+      "title": "Java Tutorial for Beginners 2023"
+    }, {
+      "id": "kYiLzIiHVY8",
+      "title": "Java Spring Boot Mongodb Full Project"
+    }, {
+      "id": "Eor-iXU0xR0",
+      "title": "Spring Boot And Kotlin Example #1"
+    }, {
+      "id": "OuBUUkQfBYM",
+      "title": "Servlet &amp; JSP Tutorial | Full Course"
+    }, {
+      "id": "If1Lw4pLLEo",
+      "title": "Spring Framework Tutorial | Full Course"
+    }, {
+      "id": "fjkelzWNSuA",
+      "title": "Spring Security Tutorial"
+    }, {
+      "id": "35EQXmHKZYs",
+      "title": "Spring Boot Tutorials | Full Course"
+    }, {
+      "id": "UHSTjZ0Pals",
+      "title": "Amazon CodeWhisperer | GitHub Copilot Killer"
+    }, {
+      "id": "NmbKi3ReCIY",
+      "title": "Reading Blockchain Data on Ethereum using Astra Block"
+    }, {
+      "id": "g2b-NbR48Jo",
+      "title": "Spring MVC Tutorial | Full Course"
+    }
+  ]
+}
+

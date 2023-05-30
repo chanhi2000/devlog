@@ -33,42 +33,11 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ---
 
-## 우아한형제들
-
-- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)
-
----
-
-## Toast
-
-- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804)
-- [Async Cookie Store API 살펴보기](https://ui.toast.com/weekly-pick/ko_20201027)
-
----
-
 ## Banksalad
-
-### 2022
-
-- [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 3편 - 스펙별 단위 테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-3)
-- [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 2편 - 화면 단위 통합 테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-2)
-- [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 1편 - 통합 UI테스트](https://blog.banksalad.com/tech/test-in-banksalad-ios-1)
 
 ### 2021
 
 - [팀과 함께 성장하는 Engineering Manager의 역할](https://blog.banksalad.com/tech/engineering-manager-role-growth)
-
-### 2020
-
-- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby)
-
-### 2018
-
-- [뱅크샐러드 at Apple Store](https://blog.banksalad.com/tech/banksalad-at-apple-store)
-
-### 2017
-
-- [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage)
 
 ---
 
@@ -123,9 +92,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ## velog
 
-- [\[android\] Notification 등록시 Head Up Notification 뜨지 않는 현상](https://velog.io/@kkaemi/android-Notification-%EB%93%B1%EB%A1%9D%EC%8B%9C-Head-Up-Notification-%EB%9C%A8%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81)
-- [\[Android\] 불러온 Image Crop하기](https://velog.io/@jinny_0422/Android%EB%B6%88%EB%9F%AC%EC%98%A8ImageCrop%ED%95%98%EA%B8%B0)
-- [\[Android\] `productFlavors` 별로 `google-services.json` 설정하기](https://velog.io/@devyang97/Android-productFlavors-%EB%B3%84%EB%A1%9C-google-service.json-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [\[Javascript Toy Project\] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [🕹 Canvas StarCraft](https://velog.io/@kimbyungchan/canvas-starcraft)
 - [JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)

@@ -1,0 +1,54 @@
+{
+  "channel": {
+    "id": "coohde",
+    "name": "생활코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMV0LxOrLZPkvojgUnURw6YfwMtPIcHGSeRxXXu=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "c6qHnYa9pUk",
+      "title": "기계들 간의 대화 - GraphQL"
+    }, {
+      "id": "4QCZxcCBtCI",
+      "title": "WEB1 부록 :  코드의 힘 : 웹사이트 방문자 분석기"
+    }, {
+      "id": "K-3sBc2pUJ4",
+      "title": "redux toolkit - thunk 를 이용해서 비동기 작업을 처리하는 방법"
+    }, {
+      "id": "bW_WOrYzVWw",
+      "title": "React 2022년 개정판 - 9. Update"
+    }, {
+      "id": "H-4D0YBG8Ho",
+      "title": "JS로 만드는 AI : TensorFlow.js - 10.4. 여러개의 변수 : 여러개의 종속변수"
+    }, {
+      "id": "y_XjBmFbHNQ",
+      "title": "JS로 만드는 AI : TensorFlow.js - 2. 지도학습의 작업순서"
+    }, {
+      "id": "rPCgsu0bcM4",
+      "title": "Pandas를 자바스크립트에서! Danfo.js"
+    }, {
+      "id": "s9FHdj6jd_U",
+      "title": "AWS - Elastic Load Balancer (ELB)"
+    }, {
+      "id": "1AyxqIePusA",
+      "title": "JMeter을 이용해서 웹서버 성능 테스트하기"
+    }, {
+      "id": "iTyjTM4Gujg",
+      "title": "Tmux - 터미널을 더욱 효율적으로!"
+    }, {
+      "id": "Zn-cECPEORU",
+      "title": "SQL JOIN - 6. FULL OUTER JOIN"
+    }, {
+      "id": "WnB1Kn8VbfU",
+      "title": "SQL JOIN - 5. INNER JOIN"
+    }, {
+      "id": "_W97WH71Cq0",
+      "title": "SQL JOIN - 3. JOIN 실습준비"
+    }, {
+      "id": "yCbJ1D1Ylik",
+      "title": "SQL JOIN - 2. 테이블 쪼개기"
+    }
+  ]
+}
+
+

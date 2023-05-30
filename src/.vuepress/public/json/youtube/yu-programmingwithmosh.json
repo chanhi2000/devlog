@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "programmingwithmosh",
+    "name": "Programming with Mosh",
+    "profile": "https://yt3.googleusercontent.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "_uQrJ0TkZlc",
+      "title": "Python Tutorial - Python Full Course for Beginners"
+    }, {
+      "id": "0-S5a0eXPoc",
+      "title": "React Native Tutorial for Beginners - Build a React Native App"
+    }, {
+      "id": "Ke90Tje7VS0",
+      "title": "React JS - React Tutorial for Beginners"
+    }, {
+      "id": "E7Voso411Vs",
+      "title": "Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh"
+    }
+  ]
+}
+

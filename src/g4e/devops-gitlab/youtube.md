@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube 
 description: 🦊Gitlab > 📺Youtube 
-tags: ["troubleshooting", "gitlab", "gitlab-cli", "sh", "yml", "gitlab"]
+tags: ["youtube", "tutorial", "gitlab", "gitlab-cli", "sh", "yml"]
 ---
 
 # {{ $frontmatter.title }} 관련

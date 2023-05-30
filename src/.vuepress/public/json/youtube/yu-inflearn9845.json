@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "inflearn9845",
+    "name": "인프런 inflearn",
+    "profile": "https://yt3.googleusercontent.com/R1K5fr13u0Jv5lGtV37bLSfh0NrtpNwwfDEJ9UVAhzyuomikCEFap8ka99__qBQOhBIx0GJaZ3g=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "KoizAhORc1U",
+      "title": "[강의 리뉴얼] 10주 완성 C++ 코딩테스트｜알고리즘 코딩테스트｜인프런｜개발자 취업"
+    }, {
+      "id": "KvVU90C1qdc",
+      "title": "IT 기술을 배우고 나눠요│인프런 | 게임 프로그래머 입문 올인원 - 템플릿 분석"
+    }, {
+      "id": "Mpd10_TRSnE",
+      "title": "IT 기술을 배우고 나눠요│인프런 | 게임 프로그래머 입문 올인원 - 클라/서버 연동"
+    }, {
+      "id": "JLq31dLiGNs",
+      "title": "IT 기술을 배우고 나눠요│인프런 | 이득우의 언리얼 프로그래밍 - 언리얼 공부"
+    }, {
+      "id": "S11-HF0eNBc",
+      "title": "IT 기술을 배우고 나눠요│인프런 | 이득우의 언리얼 프로그래밍 - 언리얼 게임제작의 기초"
+    }, {
+      "id": "K1lKgxeXDrs",
+      "title": "Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 | 인프콘 2022"
+    }, {
+      "id": "iEGDEdivaGA",
+      "title": "승리하는 제안서 강의소개│인프런 | 미리보기 | 제안서 PM"
+    }, {
+      "id": "e5lIMEm7UPg",
+      "title": "Sass (SCSS): CSS 가상요소(::before, ::after)를 이용한 링크 애니메이션 (Link Animation), attr(), currentColor"
+    }
+  ]
+}
+
+
