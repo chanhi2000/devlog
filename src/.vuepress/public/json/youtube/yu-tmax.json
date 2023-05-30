@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "tmax",
+    "name": "티맥스",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMDo50oSzi0qOwrk02fTMBh0lkGr7-2XRQMa-5GyQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "DLxNwbrtsWQ",
+      "title": "[TmaxTibero] SysMasterDB 8, 강력한 데이터베이스 모니터링 & 성능관리 솔루션"
+    }, {
+      "id": "RReb_sYj-y8",
+      "title": "[TmaxTibero Webinar] 공공기관 민클 전환 구축 성공 사례 소개"
+    }, {
+      "id": "4anutGyRD3M",
+      "title": "[TmaxTibero Webinar] 퍼블릭 클라우드에서 Tibero 사용하기"
+    }, {
+      "id": "2EFNuhq8z6Y",
+      "title": "[Tibero Webinar] 비용&성능 최적화 DBMS, Tibero 최초공개"
+    }    
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "GradleInc",
+    "name": "Gradle",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOaqnVJlOw-R4EYurgAEXO7rfI0GJ4zdehhRMaSpA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "0hQ-6cJv1R8",
+      "title": "DevProdEng Showdown! S2E5: Developer Experience at Scale"
+    }, {
+      "id": "KN-_q3ss4l0",
+      "title": "Getting Started with the Gradle Kotlin DSL"
+    }, {
+      "id": "HrBKDmmKkaU",
+      "title": "Converting Gradle build files to Kotlin with IntelliJ IDEA"
+    } 
+  ]
+}

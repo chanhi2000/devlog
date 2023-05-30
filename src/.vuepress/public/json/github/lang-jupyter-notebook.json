@@ -204,5 +204,15 @@
     "desc": "Sample code and notebooks for Generative AI on Google Cloud",
     "topics": ["gcp", "google-cloud", "google-cloud-platform", "vertex-ai", "llm", "generative-ai", "palm-api"],
     "officialSite": "https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview"
+  }, {
+    "repo": "FranxYao/chain-of-thought-hub",
+    "desc": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ossrs/ffmpeg-webrtc",
+    "desc": "Support WebRTC(WHIP) for FFmpeg.",
+    "topics": [],
+    "officialSite": "https://ffmpeg.org"
   }
-]
+] 

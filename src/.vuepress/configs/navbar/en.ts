@@ -22,6 +22,17 @@ export const navbarEn: NavbarConfig = [
           },
         ],
       }, {
+        text: '🧭Lifeguide',
+        children: [
+          {
+            text: 'Intro',
+            link: '/catalogs/lifeguide/README.md'
+          }, {
+            text: 'NHIS', 
+            link: '/catalogs/lifeguide/nhis/README.md',
+          }
+        ],
+      }, {
         text: '🎈TIL',
         children: [
           {
@@ -71,7 +82,7 @@ export const navbarEn: NavbarConfig = [
   }, {
     text: '🥁', // crashcourses
     children: [
-      {
+    {
         text: 'Intro',
         link: '/crashcourse/README.md'
       }, {
@@ -125,6 +136,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 15',
             link: '/crashcourse/paul-hudson-100-days-of-swift/15.md'
+          }, {
+            text: 'Day 16',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/16.md'
           }
         ]
       }, {
@@ -145,6 +159,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 4',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/4.md'
+          }, {
+            text: 'Day 5',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/5.md'
           }
         ],
       }, {
@@ -192,6 +209,17 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Unit 5',
             link: '/crashcourse/freecodecamp-gitlab-ci/5.md',
+          }
+        ]
+      }, {
+        text: '☸DigitalOcean - Kubernetes',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/digitalocean-kubernetes/README.md'
+          }, {
+            text: 'How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes',
+            link: '/crashcourse/digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md'
           }
         ]
       }

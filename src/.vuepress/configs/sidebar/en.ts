@@ -515,6 +515,13 @@ export const sidebarEn: SidebarConfig = {
         '/catalogs/portfolio/README.md',
       ],
     }, {
+      text: '🧭Lifeguide',
+      collapsible: true,
+      children: [
+        '/catalogs/lifeguide/README.md',
+        '/catalogs/lifeguide/nhis/README.md',
+      ]
+    }, {
       text: '🎈TIL',
       collapsible: true,
       children: [
@@ -640,8 +647,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/12.md',
         '/crashcourse/paul-hudson-100-days-of-swift/13.md',
         '/crashcourse/paul-hudson-100-days-of-swift/14.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/15.md'
-      ]
+        '/crashcourse/paul-hudson-100-days-of-swift/15.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/16.md'      ]
     }, {
       text: '🕊️100 Days of SwiftUI',
       collapsible: true,
@@ -650,7 +657,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/1.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/2.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/3.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/4.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/4.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/5.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -682,6 +690,13 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/freecodecamp-gitlab-ci/5.md',
       ]
     }, {
+      text: '☸DigitalOcean - Kubernetes',
+      collapsible: true,
+      children: [
+        '/crashcourse/digitalocean-kubernetes/README.md',        
+        '/crashcourse/digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md' 
+      ]
+    }, {
       text: '🐧Linux Journey',
       collapsible: true,
       children: [
@@ -693,7 +708,14 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/linux-journey/01-grasshopper/01e-user-management.md',
         '/crashcourse/linux-journey/01-grasshopper/01f-permissions.md',
         '/crashcourse/linux-journey/01-grasshopper/01g-processes.md',
-        '/crashcourse/linux-journey/01-grasshopper/01h-packages.md'
+        '/crashcourse/linux-journey/01-grasshopper/01h-packages.md',
+        '/crashcourse/linux-journey/02-journeyman/02a-devices.md',
+        '/crashcourse/linux-journey/02-journeyman/02b-the-filesystem.md',
+        '/crashcourse/linux-journey/02-journeyman/02c-boot-the-system.md',
+        '/crashcourse/linux-journey/02-journeyman/02d-kernel.md',
+        '/crashcourse/linux-journey/02-journeyman/02e-init.md',
+        '/crashcourse/linux-journey/02-journeyman/02f-process-utilization.md',
+        '/crashcourse/linux-journey/02-journeyman/02g-logging.md'
       ]
     }, {
       text: '🧶Must Know JavaScript API',

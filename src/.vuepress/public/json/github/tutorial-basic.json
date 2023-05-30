@@ -70,11 +70,6 @@
     "topics": ["algorithm", "data-structure", "algorithms", "leetcode", "algo", "data-structures", "dsa", "mkdocs-material", "data-structures-and-algorithms"],
     "officialSite": "https://hello-algo.com"
   }, {
-    "repo": "VSFe/Tech-Interview",
-    "desc": "",
-    "topics": [],
-    "officialSite": ""
-  }, {
     "repo": "pr0gr4m/Newbie-Guideline",
     "desc": "컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서", 
     "topics": [],
@@ -99,5 +94,10 @@
     "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
     "topics": ["javascript", "css", "html", "lists", "checklist", "web-development", "frontend", "reference", "resources", "guidelines", "front-end-development", "front-end-developer-tool"],
     "officialSite": "https://frontendchecklist.io"
+  }, {
+    "repo": "kallaway/100-days-of-code",
+    "desc": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
+    "topics": ["challenge", "learn-to-code", "habit-tracking", "100daysofcode", "learn-coding", "100joursdecode"],
+    "officialSite": "http://www.100daysofcode.com"
   }
 ]

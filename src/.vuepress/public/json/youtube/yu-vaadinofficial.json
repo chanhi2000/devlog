@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "vaadinofficial",
+    "name": "vaadinofficial",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP0WYdvk4jlpyGTe2SP_-SdFToOJ-6_TuXkQzaidg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "z24gpqmOZ-w",
+      "title": "Vaadin Grid renderers: customize cells and show a details row (Fusion)"
+    }, {
+      "id": "G_aJONwi0qo",
+      "title": "VS Code setup for TypeScript and Java: plugins and settings"
+    }, {
+      "id": "36yUqc0tMrU",
+      "title": "Introduction to Unit Testing with JUnit"
+    }, {
+      "id": "1YvdDrmAnzY",
+      "title": "How to switch between light and dark theme in Vaadin apps"
+    }, {
+      "id": "B27q1L_NWLA",
+      "title": "Webinar: Kotlin and Web App development"
+    }
+  ]
+}

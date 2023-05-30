@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "IBMTechnology",
+    "name": "IBM Technology",
+    "profile": "https://yt3.googleusercontent.com/HHjrQZrBhfkuwgOkjzUJoWr1pteqnTro55ww253giS7A77VgkFeSZEWu0WFFUkzY2lf3vjzwhw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "9nyiY-psbMs",
+      "title": "Apache vs NGINX"
+    }, {
+      "id": "a1M_thDTqmU",
+      "title": "Virtual Machine (VM) vs Docker"
+    }
+  ]
+}

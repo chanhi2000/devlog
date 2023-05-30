@@ -42,11 +42,23 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Medium
+
+- [30 Practical Tips for Effective User Interface Design](https://uxplanet.org/30-practical-tips-for-effective-user-interface-design-59e1e46ac370)
+
+---
+
 ## Dev.to
 
 - [Oruga - UI components library without CSS framework dependency](https://dev.to/jtommy/oruga-ui-components-library-without-css-framework-dependency-4m3m)
 - [The Best Way To Dark Mode Your Website In My Opinion.](https://dev.to/zxcodes/the-best-way-to-dark-mode-your-website-1g7f)
 - [8 SCSS Best Practices to Keep in Mind](https://dev.to/liaowow/8-css-best-practices-to-keep-in-mind-4n5h)
+
+---
+
+## LogRocket
+
+- [Creating a typewriter animation effect with only CSS](https://blog.logrocket.com/creating-typewriter-animation-css)
 
 ---
 
@@ -65,6 +77,14 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 ## Mike Aparicio
 
 - [Why we're bad at CSS](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css)
+
+---
+
+## VADIM MAKEEV
+
+- [Conditionally adaptive CSS. Browser behavior that might improve your performance](https://pepelsbey.dev/articles/conditionally-adaptive)
+
+---
 
 ## Tools
 

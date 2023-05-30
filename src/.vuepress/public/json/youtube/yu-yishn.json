@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "yishn",
+    "name": "yishn",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPOFpwmXBHuygY23Ud3cTUPjtbzLBMkZnqDTyKK=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "0ywizYLPV00", 
+      "title": "Let's Code Minesweeper with Rust and WASM"
+    }
+  ]
+}

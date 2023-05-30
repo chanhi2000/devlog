@@ -40,6 +40,28 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [React Explained by Zac Gordon](https://www.ostraining.com/books/react)
 - [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev)
 - [Favorite JavaScript utilities in single line of code! No more!](https://1loc.dev)
+- [useHooks - A collection of Server Component safe React Hooks – from the ui.dev team](https://usehooks.com)
+- [React30](https://react30.com)
+
+---
+
+## Toast UI
+
+- [ECMAScript 명세 이해, 1부](https://ui.toast.com/posts/ko_20221116_1)
+- [ECMAScript 명세 이해, 2부](https://ui.toast.com/posts/ko_20221116_2)
+- [ECMAScript 명세 이해, 3부](https://ui.toast.com/posts/ko_20221116_3)
+- [ECMAScript 명세 이해, 4부](https://ui.toast.com/posts/ko_20221116_4)
+
+---
+
+## 카카오엔터테인먼트 FE 기술블로그
+
+- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1)
+- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2)
+- [나만의 Jest Matchers 만들기](https://fe-developers.kakaoent.com/2023/230216-custom-jest-matchers)
+- [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test)](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt)
+- [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid)
+- [View Transitions API](https://fe-developers.kakaoent.com/2023/230403-view-transitions-api)
 
 ---
 
@@ -140,6 +162,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Rust and Web Dev with Josh
+
+- [Next.js and Rust: An Innovative Approach to Full-Stack Development](https://joshmo.hashnode.dev/nextjs-and-rust-an-innovative-approach-to-full-stack-development)
+
+---
+
 ## freecodecamp.org
 
 - [about React](https://www.freecodecamp.org/news/tag/react)
@@ -174,6 +202,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [async/await를 for loop에서 사용하기](https://kyounghwan01.github.io/blog/JS/JSbasic/for-await-of/#%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3)
 
+---
+
 ## Medium
 
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
@@ -190,6 +220,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Angular Tree Shaking: Optimize Your Application’s Size 🌳](https://designtechworld.medium.com/angular-tree-shaking-optimize-your-applications-size-ea7494a568f)
 - [The Art of Micro Frontends](https://medium.com/sysco-labs/the-art-of-micro-frontends-5184065ab74b)
 - [Building a Web Scraper with Spidey: Part 5 — Proxy Integration](https://towardsdev.com/building-a-web-scraper-with-spidey-part-5-proxy-integration-4da0ebccc170)
+- [IndexedDB 간단 정리하기](https://pks2974.medium.com/indexeddb-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-ca9be4add614)
 
 ---
 
@@ -288,6 +319,14 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Amjad Masad
 
 - [Why Learn Compilers](https://amasad.me/compilers)
+
+---
+
+## Andrico
+
+- [Should I use e.code or e.key when handling keyboard events?](https://blog.andri.co/022-should-i-use-ecode-or-ekey-when-handling-keyboard-events)
+
+---
 
 ## Misc
 

@@ -27,7 +27,9 @@ github profile 변경           :done,  desA2, 2022-12-08, 2022-12-09
 section B 2023년 Career Developing
 교육 관리                      :active, descB1, 2023-01-01, 1y
 SwiftUI by Example 실습       :active, descB2, 2023-01-01, 20w
-oVirt 관련 내용 정리          :active,  desA4, 2023-03-15, 70w
+oVirt 관련 내용 정리          :active,  desB3, 2023-03-15, 70w
+section C 기타
+피부양자 등록                 :        descC1, 2023-06-03, 3d
 ```
 
 ### A. 2022년 자료준비
@@ -60,5 +62,14 @@ oVirt 관련 내용 정리          :active,  desA4, 2023-03-15, 70w
 - [사이트참고](https://www.hackingwithswift.com/quick-start/swiftui)
 - [ ] 기본 Github Repo구성
 - [ ] info-banks내용 기록
+
+
+### C. 기타
+
+#### C1. 피부양자 등록
+
+- [ ] 피부양자 등록 조건 찾기
+
+---
 
 <TagLinks />

@@ -62,16 +62,6 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   <div class="feature">
     <h2>🗞️</h2>
     <ul>
-      <li>
-        <a target="_blank" href="https://github.com/trending">
-          <img alt="badge-github" src="https://img.shields.io/badge/Github Trending-000000?logo=github&logoColor=white&style=flat-square"/>
-        </a>
-      </li>
-      <li>
-        <a target="_blank" href="https://news.ycombinator.com">
-          <img alt="badge-ycombinator" src="https://img.shields.io/badge/YCombinator-F0652F?logo=ycombinator&logoColor=white&style=flat-square"/>
-        </a>
-      </li>
       <li><a target="_blank" href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
       <li><a target="_blank" href="https://news.hada.io">🤓GeekNews</a></li>
       <li><a target="_blank" href="https://datatau.net">DataTau</a></li>

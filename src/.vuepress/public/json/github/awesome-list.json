@@ -399,5 +399,30 @@
     "desc": "⚡️ A collection of tips to help take your CSS skills pro 🦾",
     "topics": ["css", "awesome", "css3", "tips", "awesome-list", "useful", "tips-and-tricks", "protip", "css-tricks", "learning-resources"],
     "officialSite": ""
+  }, {
+    "repo": "projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "topics": ["security", "fingerprint", "exploits", "nuclei", "bugbounty", "vulnerability-detection", "hacktoberfest", "exploit-development", "nuclei-templates", "nuclei-checks"],
+    "officialSite": "https://github.com/projectdiscovery/nuclei"
+  }, {
+    "repo": "mli/paper-reading",
+    "desc": "深度学习经典、新论文逐段精读",
+    "topics": ["deep-learning", "paper", "reading-list"],
+    "officialSite": ""
+  }, {
+    "repo": "uidotdev/usehooks",
+    "desc": "A collection of Server Component safe React Hooks – from the ui.dev team",
+    "topics": ["react", "blog", "hooks", "gatsby", "astro", "react-hooks", "vercel"],
+    "officialSite": "https://usehooks.com"
+  }, {
+    "repo": "codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "topics": ["programming", "tutorials", "free", "awesome-list", "tutorial-code", "tutorial-exercises"],
+    "officialSite": "https://codecrafters.io"
+  }, {
+    "repo": "dariubs/GoBooks",
+    "desc": "List of Golang books",
+    "topics": ["go", "golang", "list", "awesome", "books", "book", "awesome-list"],
+    "officialSite": ""
   }
 ]

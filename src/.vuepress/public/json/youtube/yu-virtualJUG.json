@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "virtualJUG",
+    "name": "v JUG",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPQq-E1-UXp9vQnqqLc0FoSXK9CC82lS_JTvJe1=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "gSQlLAp2dZ8",
+      "title": "Securing the JVM - Neither for fun nor for profit, but do you have a choice?"
+    }, {
+      "id": "6sooAo4jNSA",
+      "title": "Fully Reactive: Spring, Kotlin, and JavaFX Playing Together"
+    }, {
+      "id": "UHoLuTVX7mg",
+      "title": "vJUG24: 5/24 Spring Boot and Kotlin, a match made in Heaven by Nicolas Frankel"
+    }, {
+      "id": "eCos5VTtZoI",
+      "title": "Building 'Bootiful' Applications with Spring Boot by Josh Long"
+    }, {
+      "id": "BcVdZJqfGxM",
+      "title": "Building the Internet of Things with Java"
+    }
+  ]
+}

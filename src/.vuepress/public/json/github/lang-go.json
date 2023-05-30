@@ -374,5 +374,15 @@
     "desc": "JSON Stream Editor (command line utility)",
     "topics": ["json", "utility"],
     "officialSite": ""
+  }, {
+    "repo": "bluenviron/mediamtx",
+    "desc": "Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.",
+    "topics": ["go", "golang", "streaming", "rtsp", "hls", "rtmp", "webrtc", "rtsp-server", "media-server", "rtmp-server", "rtp", "obs-studio", "rtcp", "rtsp-relay", "rtmp-proxy", "webrtc-proxy", "rtsp-proxy"],
+    "officialSite": ""
+  }, {
+    "repo": "redis/rueidis",
+    "desc": "A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.",
+    "topics": ["go", "redis", "golang", "cache", "lock", "distributed", "generics", "redis-client", "resp3", "resp3-client", "client-side-caching"],
+    "officialSite": ""
   }
 ]

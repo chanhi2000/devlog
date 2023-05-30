@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "DroidconParis",
+    "name": "Android Makers",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOqXvv1kBkgYOjt2ETvWD-r_nNyhNkuRbLHAXVvkw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "TW9k-u_EVlc",
+      "title": "CameraX - the new powerful Jetpack library by Divya jain, Gametime EN"
+    }   
+  ]
+}

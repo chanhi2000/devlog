@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "awesome-coding",
+    "name": "Awesome",
+    "profile": "https://yt3.googleusercontent.com/vkuccQniLC4wYqYnMjHp7fQLf3aKKPmagPOSoFYr4kLCp2J822-ikXMNMI4afoT67R-nTLzf0Os=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "I2NzfOOI7xY",
+      "title": "These frameworks broke front-end development"
+    }
+  ]
+}

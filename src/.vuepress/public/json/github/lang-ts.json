@@ -659,5 +659,50 @@
     "desc": "Robust web spider for NodeJS",
     "topics": ["data-mining", "scraper", "scraping", "web-scraping"],
     "officialSite": ""
+  }, {
+    "repo": "dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt",
+    "desc": "Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI",
+    "topics": ["nextjs", "openai", "pinecone", "langchain"],
+    "officialSite": ""
+  }, {
+    "repo": "honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "topics": ["admin", "typescript", "vue", "admin-dashboard", "admin-template", "vue-admin", "naive", "vue-admin-template", "vue3", "vite", "vite-admin", "naive-ui", "naive-ui-admin"],
+    "officialSite": "https://soybean.pro"
+  }, {
+    "repo": "makeplane/plane",
+    "desc": "🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+    "topics": ["react", "python", "docker", "redis", "django", "jira", "typescript", "rest-api", "nextjs", "postgresql", "project-management", "kanban", "linear", "jira-alternative"],
+    "officialSite": "http://plane.so"
+  }, {
+    "repo": "kochrt/qr-designer",
+    "desc": "QR designer web app with a novel method of designing qr codes that does not take advantage of error correction",
+    "topics": [],
+    "officialSite": "http://robko.ch/qr-designer"
+  }, {
+    "repo": "snapshot-labs/snapshot",
+    "desc": "Interface for Snapshot. Join us on Discord http://discord.snapshot.org",
+    "topics": [],
+    "officialSite": "https://snapshot.org"
+  }, {
+    "repo": "siyuan-note/siyuan",
+    "desc": "A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.",
+    "topics": ["markdown", "ocr", "wiki", "s3", "webdav", "tesseract", "spaced-repetition", "openai", "note-taking", "self-hosting", "gpt", "knowledge-base", "obsidian", "pkm", "notion", "privacy-first", "digital-garden", "local-first", "chatgpt"],
+    "officialSite": "https://b3log.org/siyuan"
+  }, {
+    "repo": "innovationacademy-kr/42cabi",
+    "desc": "사물함 관리 서비스",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "DiiiaZoTe/next-route-visualizer",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://next-route-visualizer.vercel.app"
+  }, {
+    "repo": "dexie/Dexie.js",
+    "desc": "A Minimalistic Wrapper for IndexedDB",
+    "topics": ["javascript", "database", "offline", "storage", "indexeddb", "offline-storage"],
+    "officialSite": "https://dexie.org"
   }
 ]

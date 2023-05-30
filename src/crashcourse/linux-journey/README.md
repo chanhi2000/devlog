@@ -47,6 +47,14 @@ color: rgba(24, 188, 156, 0.2)
 
 ### Journeyman
 
+- [Devices][02a-devices]
+- [The Filesystem][02b-the-filesystem]
+- [Boot the System][02c-boot-the-system]
+- [Kernel][02d-kernel]
+- [Init][02e-init]
+- [Process Utilization][02f-process-utilization]
+- [Logging][02g-logging]
+
 ### Networking Nomad
 
 ### Recommended Resources
@@ -59,3 +67,11 @@ color: rgba(24, 188, 156, 0.2)
 [01f-permissions]: 01-grasshopper/01f-permissions
 [01g-processes]: 01-grasshopper/01g-processes
 [01h-packages]: 01-grasshoper/01h-packages
+
+[02a-devices]: 02-journeyman/02a-devices.md
+[02b-the-filesystem]: 02-journeyman/02b-the-filesystem.md
+[02c-boot-the-system]: 02-journeyman/02c-boot-the-system.md
+[02d-kernel]: 02-journeyman/02d-kernel.md
+[02e-init]: 02-journeyman/02e-init.md
+[02f-process-utilization]: 02-journeyman/02f-process-utilization.md
+[02g-logging]: 02-journeyman/02g-logging.md

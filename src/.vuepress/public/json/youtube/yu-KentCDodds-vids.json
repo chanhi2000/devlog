@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "KentCDodds-vids",
+    "name": "Kent C. Dodds",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPq3xQMUb5OOsvnoCOkYnSDfE0Bb5l58fwwc4BD4w=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "eoE3cAmJPnw", 
+      "title": "EpicWeb.dev Live stream 🌌 Implement SQLite-based file storage"
+    }, {
+      "id": "h-9eqKgGruA", 
+      "title": "Trying out react-virtual (replacing react-window)"
+    }, {
+      "id": "pcFUAvoqiaQ", 
+      "title": "Livestream: Integration testing a React App"
+    }, {
+      "id": "u3z0_U4KSWc", 
+      "title": "Livestream: Further improvements to the bookshelf app"
+    }, {
+      "id": "knQR1oHMQFA", 
+      "title": "Livestream: Writing tests for a React app"
+    }, {
+      "id": "_iL_dpTWK4Y", 
+      "title": "Livestream: Deploying Netlify Functions with Gatsby Cloud"
+    }, {
+      "id": "415EfGPuhSo", 
+      "title": "React Hooks: Refactor compound components to hooks"
+    }
+  ]
+}
+

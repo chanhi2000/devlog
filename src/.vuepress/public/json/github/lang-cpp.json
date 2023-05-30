@@ -294,5 +294,10 @@
     "desc": "Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",
     "topics": ["compressor", "pulseaudio", "equalizer", "reverberation", "stereo-equalizer-effects", "auto-volume", "gtk4", "pipewire"],
     "officialSite": ""
+  }, {
+    "repo": "gqrx-sdr/gqrx",
+    "desc": "Software defined radio receiver powered by GNU Radio and Qt.",
+    "topics": ["qt", "receiver", "sdr", "rtl-sdr", "fft", "hackrf", "gnuradio", "hacktoberfest", "gqrx", "airspy", "rfspace", "funcube-dongle"],
+    "officialSite": "http://gqrx.dk"
   }
 ]

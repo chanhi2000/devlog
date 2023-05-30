@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "codewithantonio",
+    "name": "Code With Antonio",
+    "profile": "https://yt3.googleusercontent.com/O8iON5EAVx6HVKyOV5UMreLFI_0D3mJX373vTEGoNcVRpNP7Lq8swha7BSLWTiEWlZaF7a4ENW8=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "PGPGcKBpAk8",
+      "title": "Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)"
+    }, {
+      "id": "ytkG7RT6SvU",
+      "title": "Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth &amp; Vercel (2023)" 
+    }, {
+      "id": "c_-b_isI4vg",
+      "title": "Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023" 
+    }
+  ]
+}
+
+
+

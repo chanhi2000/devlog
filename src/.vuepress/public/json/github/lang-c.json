@@ -194,6 +194,11 @@
     "desc": "Cross-platform asynchronous I/O",
     "topics": ["windows", "unix", "networking", "asynchronous", "unicorns", "io", "velociraptors", "deep-io"],
     "officialSite": "https://libuv.org"
+  }, {
+    "repo": "lukneu/doom-teletext",
+    "desc": "Play DOOM in teletext",
+    "topics": ["doom", "teletext", "videotext", "teletext-pages"],
+    "officialSite": ""
   }
 ]
 

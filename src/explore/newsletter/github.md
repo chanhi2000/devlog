@@ -17,7 +17,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ### Korea
 
-- [brave-people/Dev-Event][brave-people/Dev-Event]: 🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]
 - [naver/fe-news][naver/fe-news]: FE 기술 소식 큐레이션 뉴스레터
 - [sjjeong/android-tech-spec-in-korea-company][sjjeong/android-tech-spec-in-korea-company]: 한국에서 안드로이드 앱을 개발하는 회사의 기술 스팩을 아카이브합니다.
 - [sjjeong/ios-tech-spec-in-korea-company][sjjeong/ios-tech-spec-in-korea-company]: 한국에서 iOS앱을 개발하는 회사의 iOS 기술 스펙을 아카이브합니다

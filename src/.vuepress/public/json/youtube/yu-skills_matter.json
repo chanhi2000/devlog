@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "skills_matter",
+    "name": "Skills Matter",
+    "profile": "imgUrl"
+  },
+  "videos": [
+    {
+      "id":"OuSiuySr6_Q",
+      "title": "Rust in 2024 (Niko Matsakis)"
+    }    
+  ]
+}

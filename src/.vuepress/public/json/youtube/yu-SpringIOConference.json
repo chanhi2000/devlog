@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "SpringIOConference",
+    "name": "Spring I/O",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqObJFutPjpEmEuz_nIWdXW4wkkvTZ12WuEOvPGe=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "kiGNTPSkLgI",
+      "title": "Analyzing Safe Flights, and Firey Wrecks with JDK Flight Recorder by Billy Korando - Spring I/O 2022"
+    }, {
+      "id": "5IROOj7sLKg",
+      "title": "Bootiful Kubernetes Operators by Cora Iberkleid and Josh Long @ Spring I/O 2022"
+    }, {
+      "id": "AADeX1AEmzU",
+      "title": "Managing Dependencies for Spring Projects with Gradle by Jenn Strater and Andy Wilkinson"
+    } 
+  ]
+}

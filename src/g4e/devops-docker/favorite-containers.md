@@ -35,6 +35,12 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 | [🌐](https://hub.docker.com/_/nginx) `nginx` | Official build of Nginx. |
 | [🌐](https://hub.docker.com/r/proteansec/frida) `proteansec/frida` | Docker image for frida dynamic instrumentation framework. |
 | [🌐](https://hub.docker.com/r/newrelic/infrastructure) `newrelic/infrastructure` | Public image for New Relic Infrastructure Agent |
+| [🌐](https://hub.docker.com/r/makeplane/plane-frontend) `makeplane/plane-frontend` | - |
+| [🌐](https://hub.docker.com/r/makeplane/plane-backend) `makeplane/plane-backend` | - |
+| [🌐](https://hub.docker.com/r/makeplane/plane-worker) `makeplane/plane-worker` | - |
+| [🌐](https://hub.docker.com/r/minio/minio) `minio/minio` | Multi-Cloud Object Storage |
+| [🌐](https://hub.docker.com/r/minio/mc) `minio/mc` | - | Minio Client (mc) provides a modern alternative to UNIX commands like ls, cat, cp, mirror, diff etc. |
+| [🌐](https://hub.docker.com/r/b3log/siyuan) `b3log/siyuan` | 思源笔记 Docker 镜像。SiYuan Docker Image. |
 
 ---
 

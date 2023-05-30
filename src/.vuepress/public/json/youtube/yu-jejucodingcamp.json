@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "jejucodingcamp",
+    "name": "제주코딩베이스캠프",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMsT128Wj7gbebnvqiMIZvtoysuAJJ2eKQedTNjZsU=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ZwqSsekJVqU",
+      "title": "아는 만큼 보이는 크롬 개발자 도구 - 눈금자 표시하기"
+    }   
+  ]
+}

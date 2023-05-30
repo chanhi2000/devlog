@@ -1,0 +1,58 @@
+{
+  "channel": {
+    "id": "intellijidea",
+    "name": "IntelliJ IDEA by JetBrains",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPfM9pZU9Yz6LTG4GB9sy3DSfiJWHWxq_sKjofcsg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "EQPr7OhG768",
+      "title": "IntelliJ IDEA Conf 2022 | Evolving JUnit 5"
+    }, {
+      "id": "bPX9VHjviEM",
+      "title": "IntelliJ IDEA Pro Tips: Using Git Interactive Rebase"
+    }, {
+      "id": "ZbR8cZCk9Cw",
+      "title": "Diving Java ecosystem security with DevOps and OpenSource"
+    }, {
+      "id": "-P2sLy7NaFc",
+      "title": "IntelliJ IDEA Conf 2022 | Kubernetes Native Java"
+    }, {
+      "id": "q_RLfOB7axQ",
+      "title": "Building REST APIs with Spring Boot"
+    }, {
+      "id": "wBtUIkMgzU8",
+      "title": "Spring Boot Loves K8s"
+    }, {
+      "id": "229gPlcc5d8",
+      "title": "Tutorial: Reactive Spring Boot"
+    }, {
+      "id": "RrgL7_AW6S4",
+      "title": "Bootiful Testing, by Josh Long / JetBrains Technology Day for Java"
+    }, {
+      "id": "v8SwUUWSWG8",
+      "title": "Productive Web Development in Java with IntelliJ IDEA, Spring Boot, and Vaadin"
+    }, {
+      "id": "OMuqIykUh5w",
+      "title": "Reactive Spring Boot: Part 6: Displaying Reactive Data"
+    }, {
+      "id": "iLcstbXDW6E",
+      "title": "Reactive Spring Boot: Part 2: Java REST Client"
+    }, {
+      "id": "NXfXc95-an4",
+      "title": "Improvements for Java Developers in IntelliJ IDEA 2019.2"
+    }, {
+      "id": "qkblc5WRn-U",
+      "title": "The Three Laws of TDD (Featuring Kotlin)"
+    }, {
+      "id": "Y2gZz8-yK7Y",
+      "title": "Bootiful Spring Boot 3"
+    }, {
+      "id": "mwiHAukbWjM",
+      "title": "The New HTTP Client CLI"
+    }, {
+      "id": "z2Bt971k1EE",
+      "title": "OAuth for Java Developers"
+    }    
+  ]
+}

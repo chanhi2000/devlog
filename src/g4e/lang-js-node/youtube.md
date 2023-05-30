@@ -1090,14 +1090,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Code With Antonio
 
-[![Code With Antonio](https://yt3.googleusercontent.com/O8iON5EAVx6HVKyOV5UMreLFI_0D3mJX373vTEGoNcVRpNP7Lq8swha7BSLWTiEWlZaF7a4ENW8=s176-c-k-c0x00ffffff-no-rj =x150)][yu-code-w-antonio]
-
-::: details 목록
-
-<YoutubeItem channelName="Code With Antonio" channelId="codewithantonio" id="ytkG7RT6SvU" title="Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth &amp; Vercel (2023)" />
-<YoutubeItem channelName="Code With Antonio" channelId="codewithantonio" id="c_-b_isI4vg" title="Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023" />
-
-:::
+<MyYouTubeItems jsonName="yu-codewithantonio" />
 
 <!-- Code With Antonio -->
 
@@ -1744,6 +1737,22 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-frongt" />
 
 <!-- 프롱드 -->
+
+---
+
+## Kent C. Dodds
+
+<MyYouTubeItems jsonName="yu-KentCDodds-vids" />
+
+<!-- Kent C. Dodds -->
+
+---
+
+## Awesome
+
+<MyYouTubeItems jsonName="yu-awesome-coding" />
+
+<!-- Awesome -->
 
 
 ## Misc

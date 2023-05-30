@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "ContenJoo",
+    "name": "콘텐주",
+    "profile": "https://yt3.googleusercontent.com/nQN8terqiRlwGdMFuXEXg7oj7PAU0C0mQ8C68br9vyGalkryfG8pFNFqAetdgy3PrZgGv2xvyg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "qILL93RYW4s",
+      "title": "챗GPT에게 문서 학습 시키세요. PDF 기반 대화"
+    }, {
+      "id": "4cpY3kLGE7o",
+      "title": "코딩을 못해도 맥북에 생성형 인공지능 넣을 수 있습니다"
+    }, {
+      "id": "d9Tuo5BcV34",
+      "title": "ChatGPT PDF 그냥 Bing이 다 해줍니다. BingChat 당신은 그저 GOD"
+    }, {
+      "id": "DZ8DIKa0hzs",
+      "title": "점점 편해집니다. 또 다른 PDF기반 챗GPT 사용 도구"
+    }    
+  ]
+}

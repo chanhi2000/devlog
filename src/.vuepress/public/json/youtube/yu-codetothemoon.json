@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "codetothemoon",
+    "name": "Code to the Moon",
+    "profile": "https://yt3.googleusercontent.com/gs7-bO3i8ufR_PWQk92HWAFKbw7RhlSZyR8nemKNAvPsriTEJPK2C5_7dlajGe6S5FIuRY-0aQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "uuPeBKdnBOI",
+      "title": "The Dream Programming Language? Lobster"
+    }, {
+      "id": "CHRNj5oubwc",
+      "title": "Rust Powered Polymorphism ⚡️ With Traits"
+    }, {
+      "id": "MddGbXgIt2E",
+      "title": "Build A Rust Frontend (Really FAST Web Apps with Yew)"
+    }, {
+      "id": "cxoE2FhOIgI",
+      "title": "Why I Prefer Emacs Over VSCode and vim"
+    }
+  ]
+}

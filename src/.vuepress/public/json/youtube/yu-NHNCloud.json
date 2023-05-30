@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "NHNCloud",
+    "name": "NHN Cloud",
+    "profile": "https://yt3.googleusercontent.com/wEScuNlTFM5tkYzKAcHTnDT-WfCrrkO6W00XhBaiQzWFZQpeEBzKAOUOsD76xlHovnHl14zSFQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "8sKTvf1c2zQ",
+      "title": "[NHN FORWARD 22] Jenkins에서 Jenkins로의 여정"
+    }, {
+      "id": "uk5fRLUsBfk",
+      "title": "[NHN FORWARD 22] 분산 시스템에서 데이터를 전달하는 효율적인 방법"
+    }, {
+      "id": "hwJet__03AA",
+      "title": "[NHN FORWARD 22] 실전 Vault 도입기"
+    }, {
+      "id": "PxQK9LsCrWA",
+      "title": "[NHN FORWARD 22] 괴물 같이 변한 Dooray! 웹앱 정리하기"
+    }, {
+      "id": "28Tz7gos5DQ",
+      "title": "[NHN FORWARD 22] API 우선 접근 방식과 OpenAPI Specification"
+    }, {
+      "id": "JBGsqsoGxEo",
+      "title": "[NHN FORWARD 22] K8s 도입하면서 겪은 일들"
+    }, {
+      "id": "otss__0kf-g",
+      "title": "[NHN FORWARD 22] Spring Cloud 기반 MSA 환경을 쿠버네티스로 전환하기"
+    }, {
+      "id": "EZmUxMtx5Fc",
+      "title": "[NHN FORWARD 22] OpenTelemetry를 활용한 모니터링"
+    }, {
+      "id": "iDsIccISD8o",
+      "title": "[NHN FORWARD 22] 델타 인코딩 적용을 통한 Dooray! 드라이브 업로드 다운로드 성능 향상기"
+    }, {
+      "id": "kZnWWq_HzdM",
+      "title": "[NHN FORWARD 22] 빠른 정보 제공을 위한 통계 시스템 개선기"
+    }, {
+      "id": "VREoOWBOUW8",
+      "title": "[NHN FORWARD 22] 밑바닥부터 만들어 보는 UI 프레임워크"
+    }, {
+      "id": "8sKTvf1c2zQ",
+      "title": "[NHN FORWARD 22] Jenkins에서 Jenkins로의 여정"
+    }, {
+      "id": "dFPGO5jDHPY",
+      "title": "[NHN FORWARD 22] 오픈소스 KeyCloak을 활용한 인증 서버 구축기"
+    }, {
+      "id": "LHs2A1dN4mw",
+      "title": "👩‍💻 개발자를 위한 데이터베이스 관리 방법, NHN Cloud On 웨비나에서 만나보세요!"
+    }   
+  ]
+}

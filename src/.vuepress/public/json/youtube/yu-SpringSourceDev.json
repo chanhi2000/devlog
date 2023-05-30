@@ -1,0 +1,181 @@
+{
+  "channel": {
+    "id": "SpringSourceDev",
+    "name": "SpringDeveloper",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPWSPmV679YWKb6itw5qzAMB9eu-2Mar4fuWDLq=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "mitWK_DwKGs",
+      "title": "Keynote: Introducing Spring Framework 6"
+    }, {
+      "id": "Ty20Mz0dwQQ",
+      "title": "[Hebrew] Modernizing Core Systems to Accelerate Digital Transformation"
+    }, {
+      "id": "H6HwoWZtngs",
+      "title": "Introducing Spring Boot 3.0"
+    }, {
+      "id": "TOfYlLjXufw",
+      "title": "Spring Tips: the road to Spring Boot 3: ahead-of-time compilation and GraalVM"
+    }, {
+      "id": "e1sZtPmmtsQ",
+      "title": "Spring Boot Omakase: A Fast-Paced “Chef’s Choice” Dive into Fun and Useful Topics!"
+    }, {
+      "id": "n4Mu8zFbUZw",
+      "title": "API First or Events First: Is it a Binary Choice?"
+    }, {
+      "id": "s4wsqYaZJ2s",
+      "title": "Security Patterns for Microservice Architectures"
+    }, {
+      "id": "puIJ1Mn9_LE",
+      "title": "Spring Tips: Spring Cloud Gateway (Redux)"
+    }, {
+      "id": "sBet3R9iGaA",
+      "title": "Reactive Frontends with RxJS and Angular - Sergi Almar"
+    }, {
+      "id": "M9GNcAzBk9g",
+      "title": "Cloud Native Java, Redux"
+    }, {
+      "id": "nso-sPLfaTk",
+      "title": "Bootiful Kotlin"
+    }, {
+      "id": "ipVfRdl5SP0",
+      "title": "The RSocket Revolution"
+    }, {
+      "id": "PsNNGuLi0ns",
+      "title": "Spring Tips: Configuration"
+    }, {
+      "id": "1llAwgOKjTY",
+      "title": "Spring Tips: The Spring Integration Kotlin DSL"
+    }, {
+      "id": "P3yI_YhG5pk",
+      "title": "Spring Tips: Bootiful Kotlin Redux"
+    }, {
+      "id": "-yJ53wzG_lg",
+      "title": "Spring Tips: Spring Fu"
+    }, {
+      "id": "NdZqeAAIHzc",
+      "title": "DDD & REST - Domain Driven APIs for the web - Oliver Gierke"
+    }, {
+      "id": "k6ghIRyvYD4",
+      "title": "Using Metrics to Ensure Quality Applications in Pivotal Platform"
+    }, {
+      "id": "YTPUNesUIbI",
+      "title": "Best Practices to Spring to Kubernetes Easier and Faster"
+    }, {
+      "id": "xQEJFUPeQ_8",
+      "title": "Reactive Relational Database Connectivity with Spring"
+    }, {
+      "id": "JnYIsvJY7gM",
+      "title": "Implementing Microservices Security Patterns and Protocols with Spring Security"
+    }, {
+      "id": "r2vs20QLVw8",
+      "title": "FF4J: Feature Toggling for Spring/Spring Boot Applications"
+    }, {
+      "id": "GOSW911Ox6s",
+      "title": "Domain-Driven Design with Relational Databases Using Spring Data JDBC"
+    }, {
+      "id": "Lse51SpfKHo",
+      "title": "Fully Reactive: Spring, Kotlin, and JavaFX Playing Together"
+    }, {
+      "id": "KX9GgZK8744",
+      "title": "Reactive Event Processing with Apache Geode"
+    }, {
+      "id": "j2OEtSO2gvM",
+      "title": "The State of Kotlin Support in Spring"
+    }, {
+      "id": "oTTfaynD1Xc",
+      "title": "Event Driven with Spring"
+    }, {
+      "id": "ke13w8nab-k",
+      "title": "Multi-tenancy OAuth with Spring Security 5.2"
+    }, {
+      "id": "RRMO4oNptoQ",
+      "title": "Spring Cloud Gateway for Stateless Microservice Authorization"
+    }, {
+      "id": "Gmwh-tUr_1E",
+      "title": "Event-Driven Java Applications with Redis 5.0 Streams"
+    }, {
+      "id": "Iwn8sBMf_P4",
+      "title": "Designing a Reactive System"
+    }, {
+      "id": "xCu73WVg8Ps",
+      "title": "Avoiding Reactor Meltdown"
+    }, {
+      "id": "OmaF0WkBH2g",
+      "title": "Real-Time Live Soccer Score Streaming Application Demo with Reactive Spring Stack"
+    }, {
+      "id": "5Mgni6AYnWg",
+      "title": "Streaming with Spring Cloud Stream and Apache Kafka"
+    }, {
+      "id": "nxakp15CACY",
+      "title": "From Zero to Hero with Spring WebSocket"
+    }, {
+      "id": "u64jexEX_RY",
+      "title": "Getting Started with Spring Cloud Kubernetes"
+    }, {
+      "id": "2uBR1HoNepc",
+      "title": "Hacking Spring Boot Applications Using Visual Studio Code"
+    }, {
+      "id": "ewpJ9EUAz5s",
+      "title": "Spring Tips: Reactive Web Views"
+    }, {
+      "id": "BxHqeq58xrE",
+      "title": "Spring Tips: RSocket Messaging in Spring Boot 2.2"
+    }, {
+      "id": "CEe5fAVFn08",
+      "title": "Automated Refactoring for Spring-Based Applications with Jonathan Schneider"
+    }, {
+      "id": "5dpLVvRpPPs",
+      "title": "The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker"
+    }, {
+      "id": "X0EyaiEv8Zc",
+      "title": "The Golden Path to SpringOne: Who Should Use Kubernetes? with Whitney Lee"
+    }, {
+      "id": "nVk1b9XqcSM",
+      "title": "Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices"
+    }, {
+      "id": "ANXpdMipAI0",
+      "title": "Spring Tools 4: Introducing the all-new Spring Boot version validations"
+    }, {
+      "id": "t7S-PAAXxIA",
+      "title": "Spring Tools 4: Introducing the all-new upgrade support for Spring Boot projects"
+    }, {
+      "id": "taOgTj2cI5w",
+      "title": "End-to-End Machine and Deep Learning with MLFlow and Spring"
+    }, {
+      "id": "tS61BMYdOPU",
+      "title": "From Spring Native to Spring Boot 3"
+    }, {
+      "id": "tPi-q8Yze-8",
+      "title": "Modern Persistence with Spring Data 3"
+    }, {
+      "id": "oCjWhGLEIrk",
+      "title": "AMA on Tanzu Application Platform"
+    }, {
+      "id": "lsrJu1Ul_fE",
+      "title": "Interface Clients in Spring"
+    }, {
+      "id": "l4ixnX22Oiw",
+      "title": "Spring Framework 6: Infrastructure Themes"
+    }, {
+      "id": "j2JRrsc1who",
+      "title": "Observability of Your Application"
+    }, {
+      "id": "g_pqBL8_eE0",
+      "title": "Azure Spring Apps: The Easy Way to Run Your Apps"
+    }, {
+      "id": "_doNO1DbAiw",
+      "title": "Configuring and Extending Spring Authorization Server"
+    }, {
+      "id": "LeoCh7VK9cg",
+      "title": "Demystifying Spring Internals"
+    }, {
+      "id": "IY784cDq1E8",
+      "title": "What’s on TAP? Refining Modern Spring Application Development"
+    }, {
+      "id": "AzSY0UlsrWQ",
+      "title": "Spring Cloud Stream Past, Present, and Future"
+    }   
+  ]
+}

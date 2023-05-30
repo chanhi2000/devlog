@@ -24,5 +24,10 @@
     "desc": " 💊 Application to use ReVanced on Android",
     "topics": ["android", "modding", "manager", "flutter", "patching", "flutter-apps", "revanced"],
     "officialSite": "https://revanced.app"
+  }, {
+    "repo": "bdlukaa/fluent_ui",
+    "desc": "Implements Microsoft's Fluent Design System in Flutter.",
+    "topics": ["dart", "uwp", "flutter", "fluent-design", "fluent-ui", "flutter-favorite"],
+    "officialSite": "https://bdlukaa.github.io/fluent_ui"
   }
 ]

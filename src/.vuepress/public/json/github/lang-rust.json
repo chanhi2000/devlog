@@ -339,6 +339,16 @@
       "desc": "A simple, fast and user-friendly alternative to 'find'",
       "topics": ["search", "rust", "cli", "terminal", "command-line", "tool", "filesystem", "regex", "hacktoberfest"],
       "officialSite": ""
+    }, {
+      "repo": "ClassmateLin/dm-ticket",
+      "desc": "大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl",
+      "topics": [],
+      "officialSite": ""
+    }, {
+      "repo": "gakonst/ethers-rs",
+      "desc": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+      "topics": ["rust", "ethereum", "web3", "celo"],
+      "officialSite": ""
     }
 ]
 

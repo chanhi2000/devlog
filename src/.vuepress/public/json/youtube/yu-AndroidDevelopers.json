@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "AndroidDevelopers",
+    "name": "Android Developers",
+    "profile": "https://yt3.googleusercontent.com/OWAcq1Yu0stdx87oWaZNPMLWYhAyrGhmDTPyi13jlmfAGkkLO5RgYnLGoaXqG_ZOWXCiuqKk=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "kdwofTaEHrs",
+      "title": "Jetpack Compose: Testing"
+    }, {
+      "id": "FWxeDqM_WIU",
+      "title": "Android Code-Along: Kotlin coroutines"
+    }, {
+      "id": "6manrgTPzyA",
+      "title": "Android Coroutines: How to manage async tasks in Kotlin"
+    }, {
+      "id": "QHOo8zTYRzk",
+      "title": "Building apps for work profiles - Enterprise Dev Training"
+    }, {
+      "id": "Xj45hobMI78",
+      "title": "Reified - Kotlin Vocabulary"
+    }, {
+      "id": "zbYYoL7vo9Y",
+      "title": "#AskAndroid at Android Dev Summit 2019 - Kotlin & Coroutines on Android"
+    }, {
+      "id": "XUN6mUQiDpg",
+      "title": "CameraX setup and permissions"
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "GaryExplains",
+    "name": "Gary Explains",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMeRVcH9Fa8X1MQNVogdG8qvIWE1HfOpVOL6RXQGQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "abAkHQhLsSI",
+      "title": "Jetson Orin Nano - 75x Faster Than A Raspberry Pi"
+    }, {
+      "id": "nWzcEUj0OHc",
+      "title": "Build Your Own Supercomputer Using a Jetson Mate"
+    }, {
+      "id": "jJ02kEETw70",
+      "title": "EVERYONE Needs to Learn a Little Bit of AWK!"
+    }, {
+      "id": "wadj1UH2gVQ",
+      "title": "Dynamic Memory Allocation in C - malloc, free, and buffer overflows"
+    }, {
+      "id": "l9WSup73KuI",
+      "title": "How to Use the Raspberry Pi Imager (Including Helpful Tip)"
+    }, {
+      "id": "a8abW3RlOn8",
+      "title": "12 Things to Help You Learn Rust"
+    }   
+  ]
+}

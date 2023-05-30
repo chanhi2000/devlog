@@ -21,6 +21,12 @@ tags: ["kotlin", "jdk", "jdk8", "links", "medium", "references"]
 
 ---
 
+## Leo3418
+
+- [Introducing ebuilds That Build Kotlin Core Libraries from Source](https://leo3418.github.io/2021/07/05/gentoo-build-kt-src.html)
+
+---
+
 ## Devlogs
 
 - [Kotlin DSL: Gradle scripts in Android made easy](https://medium.com/android-dev-hacks/kotlin-dsl-gradle-scripts-in-android-made-easy-b8e2991e2ba)

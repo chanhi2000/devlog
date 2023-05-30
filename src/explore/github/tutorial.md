@@ -27,10 +27,6 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 
 ## Misc
 
-- [codecrafters-io/build-your-own-x][codecrafters-io/build-your-own-x]: Master programming by recreating your favorite technologies from scratch.
-  - [🌐Official Site](https://codecrafters.io)
-- [kallaway/100-days-of-code][kallaway/100-days-of-code]: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
-  - [🌐Official Site](http://www.100daysofcode.com)
 - [coding-horror/basic-computer-games][coding-horror/basic-computer-games]: An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. 
   - [🌐Official Site](https://coding-horror.github.io/basic-computer-games)
 - [cheatsnake/backend-cheats][cheatsnake/backend-cheats]: 🔰 Шпаргалка по бэкенду с картинками и не только / Backend cheatsheet with pictures and more
@@ -42,16 +38,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
 - [Mr-xn/BLACKHAT_Asia2023][Mr-xn/BLACKHAT_Asia2023]: Black Hat Asia 2023 PDF Public
 
 
-<!-- DevOps -->
-[bregman-arie/devops-exercises]: https://github.com/bregman-arie/devops-exercises
-[MichaelCade/90DaysOfDevOps]: https://github.com/MichaelCade/90DaysOfDevOps
-[ripienaar/free-for-dev]: https://github.com/ripienaar/free-for-dev
-[kodekloudhub/linux-basics-course]: https://github.com/kodekloudhub/linux-basics-course
-[aws/containers-roadmap]: https://github.com/aws/containers-roadmap
-[Anof-cyber/Application-Security]: https://github.com/Anof-cyber/Application-Security
 <!-- Misc. -->
-[codecrafters-io/build-your-own-x]: https://github.com/codecrafters-io/build-your-own-x
-[kallaway/100-days-of-code]: https://github.com/kallaway/100-days-of-code
 [coding-horror/basic-computer-games]: https://github.com/coding-horror/basic-computer-games
 [cheatsnake/backend-cheats]: https://github.com/cheatsnake/backend-cheats
 [jassics/security-study-plan]: https://github.com/jassics/security-study-plan

@@ -296,7 +296,7 @@
     "officialSite": ""
   }, {
     "repo": "Infisical/infisical",
-    "desc": "♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.",
+    "desc": "♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.",
     "topics": ["react", "nodejs", "cli", "golang", "open-source", "security", "typescript", "nextjs", "secret-management", "secrets", "environment-variables", "end-to-end-encryption"],
     "officialSite": "https://infisical.com"
   }, {
@@ -1019,5 +1019,40 @@
     "desc": "💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses.",
     "topics": ["invoices", "inventory", "accounting", "financial", "expenses", "bills"],
     "officialSite": "https://bigcapital.ly"
+  }, {
+    "repo": "mifi/lossless-cut",
+    "desc": "The swiss army knife of lossless video/audio editing",
+    "topics": ["editor", "player", "video", "ffmpeg", "video-files", "cut", "lossless", "codec", "video-editor"],
+    "officialSite": ""
+  }, {
+    "repo": "cmdr2/stable-diffusion-ui",
+    "desc": "Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+    "topics": ["art", "gui", "stable", "generative-art", "diffusion"],
+    "officialSite": "https://stable-diffusion-ui.github.io"
+  }, {
+    "repo": "sweetalert2/sweetalert2",
+    "desc": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦",
+    "topics": ["notifications", "react", "angular", "alert", "vue", "modal", "sweetalert", "sweetalert2", "dialog", "prompt", "popup", "accessible", "wai-aria", "toast", "confirm", "confirmation-dialog"],
+    "officialSite": "https://sweetalert2.github.io"
+  }, {
+    "repo": "jmapio/jmap-js",
+    "desc": "A full JavaScript implementation of the JMAP data model",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ColonelParrot/jscanify",
+    "desc": "Open-source Javascript mobile document scanner.",
+    "topics": ["nodejs", "javascript", "js", "scanner", "document-scanner"],
+    "officialSite": "https://colonelparrot.github.io/jscanify"
+  }, {
+    "repo": "garris/BackstopJS",
+    "desc": "Catch CSS curve balls.",
+    "topics": ["javascript", "screen-capture", "chrome-headless", "backstopjs", "visual-regression-tests"],
+    "officialSite": "https://garris.github.io/BackstopJS"
+  }, {
+    "repo": "karakanb/devo",
+    "desc": "A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.",
+    "topics": ["github", "chrome-extension", "productivity", "firefox", "hacker-news", "newtab", "product-hunt", "hackernews", "firefox-extension", "trending-repositories", "producthunt", "hacktoberfest", "designer-news"],
+    "officialSite": "https://burakkarakan.com/devo"
   }
 ]

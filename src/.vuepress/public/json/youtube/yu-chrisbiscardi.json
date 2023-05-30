@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "chrisbiscardi",
+    "name": "chris biscardi",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPYE3JoWchdgUGxz1HavVpZtJI5yu00hJNG8VIHvQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "sWmlbMh3ol8",
+      "title": "Typst: The LaTeX alternative in Rust"
+    }, {
+      "id": "omUP1nKsV-I",
+      "title": "What technology you focus on matters"
+    }, {
+      "id": "hz5TvKnW1nI",
+      "title": "Snapshot testing in Rust with Insta"
+    }, {
+      "id": "yzKOqLsdQqA",
+      "title": "Introducing the tracing Rust crate | Advent of Code 2022 Day 20"
+    }, {
+      "id": "QAf45SUwyRc",
+      "title": "User Interfaces in Bevy 0.9 with Kayak UI"
+    }, {
+      "id": "omUP1nKsV-I",
+      "title": "What technology you focus on matters"
+    }
+  ]
+}
