@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "SergeyKargopolov",
+    "name": "Sergey Kargopolov",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNAf_CU1iiu8jGCd6GKw95quUpekpqIPuw5MaKVxA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "crkoQOo239I", 
+      "title": "How to Disable a JUnit Test?"
+    }, {
+      "id": "LeIAs7EdjwM", 
+      "title": "JUnit Test Method Structure. Arrange, Act and Assert."
+    }, {
+      "id": "_Rqrq6VKpsY", 
+      "title": "Enable Logging in Spring Boot Web App"
+    }, {
+      "id": "vDYFBS_ElQE", 
+      "title": "Unit Testing UITextField(s). Email Address Text Input Content Type."
+    }, {
+      "id": "7otlpZmnZKg", 
+      "title": "UI Testing Swift. Screenshot Current App Screen."
+    }
+  ]
+}

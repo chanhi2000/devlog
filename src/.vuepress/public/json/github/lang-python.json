@@ -1533,5 +1533,20 @@
     "desc": "Come join the movement to make the world's best open source GPT led by H2O.ai - 100% private chat and document search, no data leaks, Apache 2.0",
     "topics": ["llm", "chatgpt"],
     "officialSite": "http://h2o.ai"
+  }, {
+    "repo": "s0md3v/roop",
+    "desc": "one-click deepfake (face swap)",
+    "topics": ["ai", "face-swap", "deepfakes", "deepfake"],
+    "officialSite": ""
+  }, {
+    "repo": "lyuchenyang/Macaw-LLM",
+    "desc": "Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration",
+    "topics": ["natural-language-processing", "language-model", "multi-modal-learning"],
+    "officialSite": ""
+  }, {
+    "repo": "TransformerOptimus/SuperAGI",
+    "desc": "Build and run useful autonomous agents",
+    "topics": ["python", "ai", "nextjs", "agi", "artificial-intelligence", "openai", "artificial-general-intelligence", "agents", "autonomous-agents", "pinecone", "gpt-4", "llm", "llmops", "superagi"],
+    "officialSite": "https://superagi.com"
   }
 ]

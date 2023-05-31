@@ -13,6 +13,14 @@ tags: ["bash", "sh"]
 
 ---
 
+## Mind Drip Media
+
+<MyYouTubeItems jsonName="yu-MindDripMedia" />
+
+<!-- Mind Drip Media -->
+
+---
+
 ## Storware
 
 [Storware][yu-storware]

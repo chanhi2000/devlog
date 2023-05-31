@@ -26,7 +26,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
   - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
 - [gurugio/book_assembly_8086_ko][gurugio/book_assembly_8086_ko]
 - [hehonghui/awesome-english-ebooks][hehonghui/awesome-english-ebooks]: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
-
+- [Ignitetechnologies/Mindmap][Ignitetechnologies/Mindmap]: This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
 
 ---
 
@@ -39,6 +39,7 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 - [easychen/stack-roadmap][easychen/stack-roadmap]: 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
   - [🌐Official Site](http://road.ftqq.com)
 - [rmcelreath/stat_rethinking_2023][rmcelreath/stat_rethinking_2023]: Statistical Rethinking Course for Jan-Mar 2023
+
 
 
 <TagLinks />

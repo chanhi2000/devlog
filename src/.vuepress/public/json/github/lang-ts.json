@@ -704,5 +704,10 @@
     "desc": "A Minimalistic Wrapper for IndexedDB",
     "topics": ["javascript", "database", "offline", "storage", "indexeddb", "offline-storage"],
     "officialSite": "https://dexie.org"
+  }, {
+    "repo": "documenso/documenso",
+    "desc": "Document Signing as it should be - open and shaped by its community.",
+    "topics": ["open-source", "typescript", "signing", "nextjs", "postgresql", "self-hosted", "prisma", "pades-standard", "pdf-signature", "next-auth", "pdf-sign", "document-signing"],
+    "officialSite": "https://documenso.com"
   }
 ]

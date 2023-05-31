@@ -93,7 +93,7 @@ Regardless of whether or not you go over the optional extra reading, you’ll fi
 - [Day 3][day-3] – ✅Arrays, dictionaries, sets, and enums
 - [Day 4][day-4] – ✅type annotations and checkpoint 2
 - [Day 5][day-5] – ✅if, switch, and the ternary operator
-- [Day 6][day-6] – loops, summary, and checkpoint 3
+- [Day 6][day-6] – ✅loops, summary, and checkpoint 3
 - [Day 7][day-7] – functions, parameters, and return values
 - [Day 8][day-8] – default values, throwing functions, and checkpoint 4
 - [Day 9][day-9] – closures, passing functions into functions, and checkpoint 5
@@ -282,7 +282,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-3]: 3.md
 [day-4]: 4.md
 [day-5]: 5.md
-[day-6]: https://www.hackingwithswift.com/100/swiftui/6
+[day-6]: 6.md
 [day-7]: https://www.hackingwithswift.com/100/swiftui/7
 [day-8]: https://www.hackingwithswift.com/100/swiftui/8
 [day-9]: https://www.hackingwithswift.com/100/swiftui/9

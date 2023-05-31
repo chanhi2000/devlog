@@ -94,6 +94,22 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Context Free
+
+<MyYouTubeItems jsonName="yu-contextfree" />
+
+<!-- Context Free -->
+
+---
+
+## Systems with JT
+
+<MyYouTubeItems jsonName="yu-SystemsWithJT" />
+
+<!-- Systems with JT -->
+
+---
+
 ## Tokyo Rust Meetup
 
 <MyYouTubeItems jsonName="yu-tokyorustmeetup" />

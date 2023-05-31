@@ -384,5 +384,10 @@
     "desc": "A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.",
     "topics": ["go", "redis", "golang", "cache", "lock", "distributed", "generics", "redis-client", "resp3", "resp3-client", "client-side-caching"],
     "officialSite": ""
+  }, {
+    "repo": "hickford/git-credential-oauth",
+    "desc": "A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.",
+    "topics": ["git", "usable-security", "git-credential-helper"],
+    "officialSite": "https://pkg.go.dev/github.com/hickford/git-credential-oauth"
   }
 ]

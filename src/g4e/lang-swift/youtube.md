@@ -989,6 +989,22 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## Cornell AppDev
+
+<MyYouTubeItems jsonName="yu-CornellAppDev" />
+
+<!-- Cornell AppDev -->
+
+---
+
+## Sergey Kargopolov
+
+<MyYouTubeItems jsonName="yu-SergeyKargopolov" />
+
+<!-- Sergey Kargopolov -->
+
+---
+
 ## Misc
 
 <!-- [Learn to Code with Karoly Nyisztor][yu-learn-to-code-w-karoly-nyisztor] -->

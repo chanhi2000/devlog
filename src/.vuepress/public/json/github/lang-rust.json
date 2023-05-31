@@ -349,6 +349,11 @@
       "desc": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
       "topics": ["rust", "ethereum", "web3", "celo"],
       "officialSite": ""
+    }, {
+      "repo": "lancedb/lance",
+      "desc": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",
+      "topics": ["python", "rust", "data-science", "machine-learning", "computer-vision", "deep-learning", "embeddings", "dataops", "data-analytics", "data-analysis", "data-format", "apache-arrow", "data-centric", "mlops", "duckdb", "llms"],
+      "officialSite": "https://lancedb.github.io/lance"
     }
 ]
 
