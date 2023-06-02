@@ -39,6 +39,7 @@ description: 🛠️Git > 📚References
 ## Medium
 
 - [Writing Better Commits](https://itnext.io/writing-better-commits-6a1691c12772)
+- [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
 
 ---
 

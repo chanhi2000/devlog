@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id": "YrYxWcAULAk", 
+      "title": "Clearing and Restoring Your Current and Saved Shell History with Zsh"
+    }, {
+      "id": "waUJ_FUvXs8", 
+      "title": "How Would You Improve This Shell Script?"
+    }, {
       "id": "Y4u-cBtIOTg",
       "title": "An Alias to Create Shell Scripts"
     }, {
@@ -62,3 +68,4 @@
     }
   ]
 }
+

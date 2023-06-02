@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "zoran-horvat",
+    "name": "Zoran Horvat",
+    "profile": "https://yt3.googleusercontent.com/nuYXKQ-1XNzyLSxaKaUkPvUiM0Y1_Zikmcua3TYmD-NkjPzmn4f433rUgSLQO9nng-TsJ-BrFQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "3p93Q6ivbZ4", 
+      "title": "Master the Builder Pattern: The King of Creational Design Patterns in C# | ASP.NET Core Tutorial"
+    }, {
+      "id": "fzEFgIreHHM", 
+      "title": "Kill Anemic Domain Models with Encapsulation: The Hard Part"
+    }, {
+      "id": "4rQ0jFmKSgk", 
+      "title": "Are Design Patterns Dead in C#?"
+    }
+  ]
+}
+
+
+

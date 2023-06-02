@@ -15,7 +15,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## Linux Leech
 
-[Linux Leech][yu-linuxleech]
+<MyYouTubeItems jsonName="yu-linuxleech" />
 
 ::: details BASH Shell tutorials for beginners
 
@@ -60,12 +60,6 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="kxpf-mJudO4" title="How to Empty Trash that Won't Delete - linux" />
 <YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="oUoGAxWrvng" title="How to Take Screenshots Linux - gnome-screenshot" />
 <YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="bTbDxaGo4tA" title="How to Split Screen your Terminal using GNU Screen" />
-
-:::
-
-::: details 목록
-
-<YoutubeItem channelName="Linux Leech" channelId="linuxleech" id="QWUf45ZPAQM" title="Top 5 things to do after installing ubuntu 14.04 LTS ( Trusty Tahr )" />
 
 :::
 
@@ -149,22 +143,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## Software Tool Time
 
-[Software Tool Time][yu-software-tool-time]
-
-::: details 목록
-
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="xey6-UGwNhs" title="[SWTT] hibernate Overview" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="6cj3oy0RunE" title="[SWTT] Bash 기초편 01 - linux utility 명령과 차이, 기호와 문법" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="Y5-1vJwqpN8" title="[SWTT] Bash 기초편 03 - Expansion and Globbing" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="kbkZ1g9MXxs" title="[SWTT] Bash 기초편 05 - Redirection" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="ZAkgvKHoE40" title="[SWTT] Bash 기초편 06 - Condition and Loop" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="bsWR8mKXXvs" title="[SWTT] Bash 기초편 07 - Array, Dictionary, History" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="67ffzvK-swk" title="[SWTT] Bash 기초편 08 - 환경설정과 기타 명령" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="LpfmPrqMeac" title="[SWTT] linux admin 02 - 네트워크설정" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="81MicTMaYXc" title="[SWTT] linux admin 03 - Virtual web hosting" />
-<YoutubeItem channelName="Software Tool Time" channelId="SoftwareToolTime" id="xeWpQMvoCP4" title="[SWTT] WebGL1.0 Tutorial 05_Lab - Shading Language (한국어,실습)" />
-
-:::
+<MyYouTubeItems jsonName="yu-SoftwareToolTime" />
 
 <!-- Software Tool Time -->
 
@@ -172,7 +151,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## 한빛미디어
 
-[한빛미디어][yu-HanbitMedia93]
+<MyYouTubeItems jsonName="yu-HanbitMedia93" />
 
 ::: details 이것이 리눅스다
 
@@ -256,44 +235,13 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="Li2HNk5kjqg" title="[리눅스 기초 강의] 30강. 5.2 X 윈도 응용 프로그램(VLC, Foxit Reader)" />
 :::
 
-::: details
 
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="gzF8jAM39kA" title="[Windows Server 기초 강의] 46강. 10.1 DNS 서버의 개념과 hosts 파일" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="o6SiTA35dcs" title="[Windows Server 기초 강의] 47강. 10.2 도메인 이름 체계와 캐싱 전용 네임 서버" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="VjQ9R1X1wj8" title="[Windows Server 기초 강의] 48강. 10.2.4 DNS 서버의 역할" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="EqkSVFw1PO4" title="[Windows Server 기초 강의] 49강. 10.2.5 라운드 로빈 방식의 DNS 서버" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="cusrj3kAWo8" title="[Windows Server 기초 강의] 50강. 11.1 E-Mail 서버 작동 개념" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="LOB8lt6n8_o" title="[Windows Server 기초 강의] 51강. 11.2 E-Mail 서버 구축(다음 메일)" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="JAOF3PbYS88" title="[Windows Server 기초 강의] 52강. 11.2 E-Mail 서버 구축(네이버 메일)" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="zluGZ7LBKVU" title="[Windows Server 기초 강의] 54강. 13.1 Windows 배포 서비스(WDS) 개념과 구축" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="nBWqmSXS5ys" title="[Windows Server 기초 강의] 37강. 8.2.3 SQL Server에서 데이터베이스 구축 실습" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="9Tms4Ek0mW4" title="[Windows Server 기초 강의] 38강. 8.2.4 SQL Server와 응용 프로그램의 연결" />
-<YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="TXdvlCCZY18" title="[Windows Server 기초 강의] 39강. 8.3 Oracle 데이터베이스" />
-
-
-:::
 
 ---
 
 ## Christian Lempa
 
-[Christian Lempa][yu-christianlempa]
-
-::: details 목록
-
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="tIazVdhsSqQ" title="The BEST Home Server Uptime Monitoring!" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="tIWDpG7sNTU" title="Let's learn GitHub Actions in a self-hosted Homelab!" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="xWz_-gyv3j4" title="What's the BEST home server operating system?" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="syzwLwE3Xq4" title="You want a real DNS Server at home? (bind9 + docker)" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="cEDXeYStfP4" title="Self hosted, open source password manager built for teams!" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="NfggT5enF4o" title="New *incredible* mac OS terminal! (warp + starship + zsh)" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="Yb3_4PZX0B0" title="Let's do GitOps in Kubernetes! ArgoCD Tutorial" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="xWz_-gyv3j4" title="What's the BEST home server operating system?" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="yMmxw-DZ5Ec" title="How to use Cloudflare Tunnel in your Homelab (even with Traefik)" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="MUDjd44t2GE" title="Installing a Windows Server in my Homelab, am I crazy?" />
-<YoutubeItem channelName="Christian Lempa" channelId="christianlempa" id="n-fAf2mte6M" title="Docker vs Kubernetes, what's better in a Homelab?" />
-
-:::
+<MyYouTubeItems jsonName="yu-christianlempa" />
 
 <!-- Christian Lempa -->
 
@@ -301,38 +249,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## TalkIT
 
-[TalkIT][yu-talk-it]
-
-::: details 목록
-
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="i7vRteT9m-g" title="KB국민은행은 왜 RDB를 오라클에서 IBM DB2로 전환하였나? [토크아이티 세미남258, 디비투이, 데이터베이스 마이그레이션]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="U-GjKysUiFc" title="가장 빠르게 기업의 글로벌 진출을 도와주는 HR SaaS 플랫폼 [토크아이티 웨비나]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="4HGh3FMxaoM" title="대화형 AI가 만드는 Hyper Automation(초자동화) 분야별 적용사례: IT, HR, 상담, Sales [토크아이티 세미남204, 코어AI]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="M1_RYdawkrA" title="AWS에서 쿠버네티스를 가장 쉽게 이용하는 방법: ROSA(Redhat Openshift on AWS) [토크아이티 세미남193]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="uel5jFKNXOc" title="클라우드 환경에서 CAD/CAE 프로젝트를 관리하려는 개발자, 설계자 그리고 엔지니어를 위한 솔루션, Ansys Gateway[토크아이티 웨비나]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="BCnuyiIMvvo" title="[AWS 실전 노하우 #.2]이벤트기반 아키텍처 101 feat. AWS Lambda 활용" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="OZCXTBr7V44" title="어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  [토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="ikwIYS_olK8" title="클라우드가 도와주는웹 UX 기획,디자인 고민: 이미지처리 자동화, 웹사용자 경험 개선 [토크아이티 세미남219, 아카마이 Image " />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="-FVFPV1tsms" title="구글 클라우드 운영 팁: 서버비용 최적화, 맞춤형 로드밸런서,지속사용 할인 [토크아이티 세미남#155, GS네오텍]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="WUCFoB-fvNE" title="Tanzu와 v-Sphere가 만나면? 쿠버네티스 환경에서 애자일한 개발과 운영의 가시성을! [토크아이티 세미남#130, 굿모닝아이텍]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="fBZsbOgV_FI" title="GPU클러스터 오케스트레이션, Slurm vs Kubernetes [토크아이티 세미남#55, 리더스시스템즈]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="V_uEpe2L9Ec" title="이글루시큐리티 SOAR - 보안관제의 끝에서 자동화를 외치다 [토크아이티]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="V-01oqud9Pw" title="클라우드 보안을 위한 IBM 큐레이더와 보안관제: 컨테이너 가시성, AI 왓슨기반 위협분석, SaaS 보안, SOAR" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="ihQtMR873jM" title="Autodesk Moldflow Summit 2021 - 플라스틱 '사출 성형, 압축 성형, 금형 제작' 최적화 전략" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="exgO1LFl9x8" title="파이썬 코딩 무료 강의 (활용편4) - 업무자동화(RPA), 이제는 일하는 척(?)만 하세요" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="f2IFyWomXJQ" title="재택근무 컴플라이언스 대응을 위한 단말과 접근통제 보안 전략" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="j_pdvd-slSQ" title="코로나와 함께하는 클라우드 시대를 위한 데이터 보호" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="PIi7C4tMEDU" title="마이크로소프트 애저 클라우드 추천서비스, VDI, GitHub, SAP [챕터9, 토크아이티 Video Book#5, 퍼블릭클라우드]]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="TuK05lUol9Y" title="Nutanix가 제시하는 VMware가상화 사용자 고민 해결 [토크아이티 프리미엄 웨비나]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="An4DJn9SSyo" title="[AWS 실전 노하우 #.4]AWS의 CI/CD 서비스 소개 및 활용" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="KJ-5YtFxKDc" title="Hadoop기반 빅데이터 분석의 태생적 한계들 [토크아이티 세미남234, 시앤지원]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="nkhZph2EJmg" title="데이터 분석 플랫폼 빠르고, 쉽고, 똑똑하게 사용하기 feat. VMware 그린플럼 구축사례 분석 [토크아이티 프리미엄웨비나, 시앤지원]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="OZCXTBr7V44" title="어떤 SaaS 써야 되나? 맛집처럼 비교하는 시대가 온다!  [토크아이티 고우성의 잇터뷰22, 이영수 대표/디지포머싸스랩]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="gnTD7Wf3xlo" title="스마트팩토리 핵심 IoT데이터, 어떻게 분석할 것인가? 동화기업 NoSQL 몽DB IoT 적용사례[토크아이티 웨비나]" />
-<YoutubeItem chanelName="TalkIT" channelId="Talkitonair" id="PTXyK-WjE6g" title="차세대 데이터 통합 관리의 중심, 데이터 가상화[토크아이티 웨비나]" />
-<YoutubeItem channelName="TalkIT" channelId="Talkitonair" id="sqa7fa_-FlQ" title="대세는 웹방화벽(WAF)에서 클라우드 WAAP으로! API/봇/디도스/앱 보안 [토크아이티 프리미엄웨비나, F5 분산클라우드]" />
-
-:::
+<MyYouTubeItems jsonName="yu-Talkitonair" />
 
 <!-- TalkIT -->
 
@@ -340,36 +257,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## Hussein Nasser
 
-[Hussein Nasser][yu-hnasr]
-
-
-::: details 목록
-
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="3cpUdppYzJw" title="How Fast is MySQL on HTTP/3?" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="ckEIQdGJ1tc" title="What happens when your Web Server Private Key is Leaked?" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="73wykKgA6bY" title="How does NodeJS HTTP Server Looks Like in Wireshark?" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="R873BlNVUB4" title="Apache Kafka Crash Course" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="HVWlMNTNcF4" title="Wiresharking Secure Shell (SSH) - Spoiler alert 🚨 : its chatty" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="C6IL8tjwC5E" title="Traefik Crash Course (Without docker)" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="NnYQ3vg5X9Q" title="Wiresharking HTTP/2 - Decrypting Traffic with Wireshark And peeking at Naked HTTP/2 Traffic" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="hcw-NjOh8r0" title="NginX Crash Course" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="UrwtQfSbrOs" title="ZeroMQ (ØMQ) Crash Course" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="pI4438IHBYY" title="React with Firebase CRUD Operations" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="JwQTBq3oivw" title="What is On Demand TLS?" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="V3ZPPPKEipA" title="How to Become a Good Backend Engineer (Fundamentals)" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="BRPvjNQsqis" title="Spin up an Nginx Docker Container as a Load Balancer" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="9sAg7RooEDc" title="Step by Step Basic Microservices System (3 NodeJS + 1 Load Balancer containers) with Docker Compose" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="-cWs6eoyaLg" title="Varnish - HTTP Accelerator Crash Course" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="8qU3hZOXlBE" title="The evolution from virtual machines to containers" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="Yw4rkaTc0f8" title="gRPC Crash Course - Modes, Examples, Pros &amp; Cons and more" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="hVMyRzINrWw" title="Google blocks Embedded browsers sign ins to avoid MITM phishing attacks" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="CNipJ0Z5qA0" title="Spin up RabbitMQ on Docker" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="vmSMrQ8Ev9w" title="Spin up a lightweight Nodejs docker container running your application" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="GTeCtIoV2Tw" title="Connection Pooling in PostgresSQL with NodeJS (Performance Numbers)" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="URwmzTeuHdk" title="All Postgres Locks Explained | A Deep Dive" />
-<YoutubeItem channelName="Hussein Nasser" channelId="hnasr" id="AveRgUrC7FM" title="Postgres System Columns Explained (`ctid`, `xmin`, `xmax`)" />
-
-:::
+<MyYouTubeItems jsonName="yu-hnasr" />
 
 <!-- Hussein Nasser -->
 
@@ -377,20 +265,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## ForrestKnight
 
-[![ForrestKnight](https://yt3.googleusercontent.com/avdsle4t42vMMUPALsh5wi5yD8CE2-ELOhwVjjd08OL1hUBobYaR1WhwACXjAdXe-VoESDwZ=s176-c-k-c0x00ffffff-no-rj =x150)][yu-fknight]
-
-::: details 목록
-
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="sDlCSIDwpDs" title="Everything You NEED to Know About WEB APP Architecture" />
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="b0pkpcD8Ms4" title="How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite" />
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="DIny00tOBdU" title="Command Line Tools ALL Developers Should Know" />
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="LktFP0Dpl-c" title="I Coded with WSL2 for a Week" />
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="gZqdOe6VoFQ" title="Arch Linux VM Setup &amp; Coding Talk" />
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="9PgZCJNzY9M" title="An Entire Software Development Life Cycle - Full Guide (Tutorial)" />
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="bhopW92Qxw8" title="My Linux Ubuntu Setup for Software Development" />
-<YoutubeItem channelName="ForrestKnight" channelId="fknight" id="jArtVVbYGKk" title="These AI TOOLS will help you CODE BETTER" />
-
-:::
+<MyYouTubeItems jsonName="yu-fknight" />
 
 <!-- ForrestKnight -->
 
@@ -398,25 +273,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## Daniel Persson
 
-[Daniel Persson][yu-daniel-persson]
-
-::: details 목록
-
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="E1LXQd1M-ck" title="Best Way to Install OpenStack? OpenMetal vs Manual installation" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="Kn5rOJdPlEw" title="Automatic install of Redhat 9 using Kickstart" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="AjmDUMiyvNQ" title="How to use the Log4J library in 2022" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="UeH8z9wnz7o" title="Linux by example - util-linux, e2fsprogs, sysklogd, sysvinit, eudev" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="LtlovbPZXU0" title="Linux by example - Grep and Bash" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="jooOa8ur07g" title="Using fetch to do a file upload" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="3XO0d9Qyc34" title="How to use `autotools` (`automake`, `autoconf`, `aclocal`, `autoheader`)" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="bJx_YeAp18E" title="How to setup up a local copy of jitsi video conferencing" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="pCD66c2D3L8" title="Using JMeter for performance testing" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="wpCu4buJOvE" title="Inference with Tensorflow in Java" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="GRMrj-mImAc" title="How to use expansion files in Android" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="sESrjvGpEUQ" title="Webassembly with java" />
-<YoutubeItem channelName="Daniel Persson" channelId="DanielPersson" id="6WU9nipfBGQ" title="Getting Started with Sonatype: The Best Way to Manage Your Java Releases" />
-
-:::
+<MyYouTubeItems jsonName="yu-DanielPersson" />
 
 <!-- Daniel Persson -->
 
@@ -424,25 +281,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## Learn Linux TV
 
-[![Learn Linux TV](https://yt3.googleusercontent.com/ET-B1I46Ca0OKID2_mYyGOjkLdEJ_WbTCaEtzc2nJ-zcn1A-NPh92nA19pD7vgtFj1FQ_EVzRA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-learn-linux-tv]
-
-::: details 목록
-
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="aSWVwdr2_n8" title="Linux Crash Course - The `watch` Command" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="sBrAVQumqjs" title="5 Must Have Tweaks to Secure OpenSSH" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="ZWC_1nISLKE" title="Why you should build your Portfolio in Github to gain a Linux Job" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="bVB24I7B0JQ" title="Building your own Git Server with Gitea on AlmaLinux" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="gIDywsGBqf4" title="Using Ansible to automate your Laptop and Desktop configs!" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="WW7yazr-xAM" title="Awesome Linux Tools: cheat.sh" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="s8F_YWGHeDM" title="Getting started with Ansible 16 (Series Finale) - Templates" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="0Yy65JKVSfM" title="Learn CentOS 22 - Hosting a Simple Web Page with Apache" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="wvpYikch9x4" title="Learn CentOS Part 6 - Running Commands with root Privileges" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="_acLAdlRy_I" title="Learn CentOS Part 3 - Exploring the Linux Filesystem" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="wwpRtC5nywM" title="Another Look at My Homelab (More Detail)" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="GYP2T34v56E" title="Linux Crash Course - The `cut` Command" />
-<YoutubeItem channelName="Learn Linux TV" channelId="LearnLinuxTV" id="4qP5xA_epXo" title="Linux Crash Course - The tr Command" />
-
-:::
+<MyYouTubeItems jsonName="yu-LearnLinuxTV" />
 
 <!-- Learn Linux TV -->
 
@@ -450,19 +289,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## SSTec Tutorials
 
-[SSTec Tutorials][yu-sstectutorials]
-
-::: details 목록
-
-<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="m2PGKJyBwCY" title="How To Install Kali Linux on Windows 11 WSL2 (GUI) in 5 Minutes" />
-<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="5maHGFejvH0" title="How To Make Windows 11 Look Like MacOS Monterey | MacOS Theme For Windows 11" />
-<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="VXsWdZ4Byww" title="How To Install Docker on Raspberry Pi 4 - Run Docker Container on Raspberry Pi" />
-<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="dK-8kFge_5U" title="How To Setup Internet In Mikrotik Router Manually." />
-<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="2UiqQTIRJlk" title="How To Debloat Latest Windows 11 With 1 Click!" />
-<YoutubeItem channelName="SSTec Tutorials" channelId="sstectutorials" id="NMJlf_KV5_M" title="How To Install Tiny11 (Windows 11 Lite) In a VirtualBox!" />
-
-
-:::
+<MyYouTubeItems jsonName="yu-sstectutorials" />
 
 <!-- SSTec Tutorials -->
 
@@ -470,25 +297,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## David Bombal
 
-[David Bombal][yu-david-bombal]
-
-::: details 목록
-
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="VcV4T8cL3xw" title="Certificates of Authority: Do you really understand how SSL / TLS works?" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="CkVvB5woQRM" title="Free API Hacking course!" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="ES2P2hWuzDo" title="Metasploit" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="fffSbCbafts" title="Do you need a Cybersecurity home lab?" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="HemWKwd2AvM" title="Your path to success || Network Engineer in 2021" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="VAMP8DqSDjg" title="Kali Linux 2020.3 install Windows 10 (for free)" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="tA50zg7D4mg" title="Kali Linux install macOS in 10 min (Free VMware)" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="IB1uKovH_Lw" title="Cisco Packet Tracer Networks | Free CCNA 200-301 Course | Video #5" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="oTD8cYluUgk" title="Kali Linux: WSL 2 install and GUI setup" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="uWNpXOT-Zbo" title="Windows Terminal: Finally!" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="5RQbdMn04Oc" title="WSL 2 with Docker getting started" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="_fntjriRe48" title="WSL 2: Getting started" />
-<YoutubeItem channelName="David Bombal" channelId="davidbombal" id="mtz-6CZIV6o" title="Root Android (Kali Linux NetHunter install)" />
-
-:::
+<MyYouTubeItems jsonName="yu-davidbombal" />
 
 <!-- David Bombal -->
 
@@ -496,19 +305,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## tutoriaLinux
 
-[tutoriaLinux][yu-tutoriaLinux]
-
-::: details 목록
-
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="EFJNxQFXV5s" title="Modern Linux Tools: Command-Line Help" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="C4a7jxlMTfo" title="How to Create a systemd Linux Service" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="bju_FdCo42w" title="Linux Sysadmin Basics -- Course Introduction (Updated for 2022)" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="BHhA_ZKjyxo" title="Basic `tmux` Tutorial - Windows, Panes, and Sessions over SSH" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="4beEybPzYqQ" title="Step-by-Step WordPress Setup on Linux, Nginx, MySQL, and PHP/php-fpm" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="V8EUdia_kOE" title="My 5 Favorite Linux Shell Tricks for SPEEEEEED (and efficiency)" />
-<YoutubeItem channelName="tutoriaLinux" channelId="tutoriaLinux" id="o9-Y6aKW4sI" title="Terraform Basics 4: Automatically Configure Load-Balanced Web Servers" />
-
-:::
+<MyYouTubeItems jsonName="yu-tutoriaLinux" />
 
 <!-- tutoriaLinux -->
 
@@ -520,6 +317,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ::: details 목록
 
+<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="uaSfQKT7LIM" title="🛠️ Kubernetes Tools Worth Paying For, from the 2023 VMware State of Kubernetes Survey  📊" />
 <YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="gsyGOv_Nwb0" title="⚡️ Enlightning - Carvel: Clean Tools for Cloud Native Problems" />
 <YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="zzK6E2TS2Kc" title="KubeAcademy Office Hours Core Concepts Part 1 Platform v2" />
 <YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="6WfxWfIwoAU" title="Code - Spring for GraphQL" />
@@ -539,21 +337,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## Brodie Robertson
 
-[Brodie Robertson][yu-brodie-robertson]
-
-::: details 목록
-
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="SOtLR6qBb90" title="Clipboard: Simple Unified Linux Clipping Tool" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="CfZL7hi-Bd8" title="Installing Linux Software Is More Confusing Than Ever" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="1bO41Qqd-Cs" title="Systemd Introduces Userspace Reboots???" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="vVjrto8HYfk" title="Hide Your Browser In Plain Sight With Chameleon" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="IZGeqeEjZMY" title="Running containers effortlessly on AWS AppRunner" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="toYV1_fPgcg" title="Droidcam: Turns Your Phone Into The Best Webcam" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="fGQvXNlosTc" title="Embrace The Power of GUIs With Yet Another Dialog" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="buPZ3ve4bzE" title="Alacritty's New Vim Mode And Other Awesome Features" />
-<YoutubeItem channelName="Brodie Robertson" channelId="BrodieRobertson" id="Ut0LZiYoabo" title="6cord Is An Almost Perfect Terminal Discord Client" />
-
-:::
+<MyYouTubeItems jsonName="yu-BrodieRobertson" />
 
 <!-- Brodie Robertson -->
 
@@ -561,15 +345,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## RobertElderSoftware
 
-[RobertElderSoftware][yu-robert-elder-software]
-
-::: details 목록
-
-<YoutubeItem channelName="RobertElderSoftware" channelId="RobertElderSoftware" id="xl8zXcPJTvg" title="The 'base32' Command In Linux" />
-<YoutubeItem channelName="RobertElderSoftware" channelId="RobertElderSoftware" id="JFEkgZWCPrI" title="The 'vdir' Command In Linux" />
-<YoutubeItem channelName="RobertElderSoftware" channelId="RobertElderSoftware" id="c94bALAgENM" title="The Missile Knows Where It Is, But It's Actually A Javascript Tutorial" />
-
-:::
+<MyYouTubeItems jsonName="yu-RobertElderSoftware" />
 
 <!-- RobertElderSoftware -->
 
@@ -577,38 +353,8 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## Packt
 
-[Packt][yu-packt]
+<MyYouTubeItems jsonName="yu-OfficialPackt" />
 
-::: details 목록
-
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="5L5pTGOzckU" title="Introducing Microsoft Team Foundation Server 2017 : Introduction to Team Projects | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="1Lth8GtlFkI" title="Continuous Integration &amp; Delivery- Jenkins X &amp; Kubernetes: Adding Apps to Jenkins X | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="H7_PJEi7AoQ" title="Modern Java Web Applications with Spring Boot 2.x : Exploring REST with Apache CXF | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="GTfxB441D5c" title="Modern Java Web Applications - Spring Boot 2x: Securing App Using Spring Security 5.2 | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="zwaV5L_qYDc" title="Hands-On React Applications with React Hooks : The Course Overview | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="G4v-wDNjxSg" title="Linux 5 Performance Monitoring and Tuning : Find Commands for Files | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="r6xOzQP2Y7o" title="Linux 5 Performance Monitoring and Tuning : Control Process with nice  | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="intH7cj4YEM" title="Develop and Deploy Modern Web Applications with Docker: Link Containers|packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="opXqEr7-0X4" title="Develop and Deploy Modern Web Applications with Docker: CI/CD Overview|packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="K4wPpt0QiRo" title="Develop and Deploy Modern Web Applications with Docker: Docker Command Line|packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="QgNKBJ4_3Wg" title="Develop and Deploy Modern Web Applications with Docker: Steps for Dockerizing Our Appln|packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="p2pnd0z6jYc" title="Hands-On Web Development with Bootstrap and Vue:  Designing Form Components | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="68hRMtWmTVA" title="Learning Linux 5 for System Administration:  Exploring the Types of Shells | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="ewaD19cG7lM" title="Learning Linux 5 for System Administration:  Controlling Services with systemctl | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="M5_RUn_V-Z4" title="Full-Stack Web Development with Flask: Creating the Base Template|packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="jTZvG3sRof8" title="Learning Metasploit 5.0: Basics of Information Gathering |packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="rPiFb03KSMU" title="Learning Metasploit 5.0: msfconsole|packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="yjPEEapzaLo" title="Learning Metasploit 5.0: Privilege Escalation Overview|packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="Mza5G7Jekgs" title="Hands-On Data Science with Java : Importing Deeplearning4j into Your Environment | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="yPZypjxe8O4" title="Hands-On Data Science with Java : Loading Data from Different Sources  | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="dfN8fuj5utw" title="Hands-On Data Science with Java : The Course Overview | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="teTtWI8kbDA" title="Hands-On Data Science with Java : Using Unsupervised Learning | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="CgkHQZlPFLo" title="Hands-On Data Science with Java : Efficient Distribution of Data | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="dfN8fuj5utw" title="Hands-On Data Science with Java : The Course Overview | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="teTtWI8kbDA" title="Hands-On Data Science with Java : Using Unsupervised Learning | packtpub.com" />
-<YoutubeItem channelName="Packt" channelId="OfficialPackt" id="CgkHQZlPFLo" title="Hands-On Data Science with Java : Efficient Distribution of Data | packtpub.com" />
-
-:::
 
 <!-- Packt -->
 
@@ -630,6 +376,20 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## LinuxScoop
+
+<MyYouTubeItems jsonName="yu-linuxscoop" />
+
+<!-- LinuxScoop -->
+
+## 기사퍼스트 권우석
+
+<MyYouTubeItems jsonName="yu-gisafirst1" />
+
+<!-- 기사퍼스트 권우석 -->
+
+---
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech
@@ -648,4 +408,3 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 [yu-vmware-tanzu]: https://www.youtube.com/@VMwareTanzu
 [yu-brodie-robertson]: https://www.youtube.com/@BrodieRobertson
 [u-robert-elder-software]: https://wwww.youtube.com/@RobertElderSoftware
-[yu-packt]: https://www.youtube.com/@OfficialPackt

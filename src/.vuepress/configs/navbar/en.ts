@@ -139,6 +139,12 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 16',
             link: '/crashcourse/paul-hudson-100-days-of-swift/16.md'
+          }, {
+            text: 'Day 17',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/17.md'
+          }, {
+            text: 'Day 18',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/18.md'
           }
         ]
       }, {
@@ -162,6 +168,12 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 5',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/5.md'
+          }, {
+            text: 'Day 6',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/6.md'
+          }, {
+            text: 'Day 7',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/7.md'
           }
         ],
       }, {
@@ -220,6 +232,17 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes',
             link: '/crashcourse/digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md'
+          }, {
+            text: 'How To Secure Your Site in Kubernetes with cert-manager, Traefik, and Let’s Encrypt',
+            link: '/crashcourse/digitalocean-kubernetes/2022/20221118-how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md',
+          }
+        ]
+      }, {
+        text: '🦀Rust to Assembly',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/eventhelix-rust-to-assembly/README.md'
           }
         ]
       }

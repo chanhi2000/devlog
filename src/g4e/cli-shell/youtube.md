@@ -69,4 +69,10 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ---
 
+## Elijah Manor
+
+<MyYouTubeItems jsonName="yu-ElijahManor" />
+
+<!-- Elijah Manor -->
+
 <TagLinks />

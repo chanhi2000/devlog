@@ -1054,5 +1054,20 @@
     "desc": "A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.",
     "topics": ["github", "chrome-extension", "productivity", "firefox", "hacker-news", "newtab", "product-hunt", "hackernews", "firefox-extension", "trending-repositories", "producthunt", "hacktoberfest", "designer-news"],
     "officialSite": "https://burakkarakan.com/devo"
+  }, {
+    "repo": "satellitecomponent/Neurite",
+    "desc": "A fractal mind-mapping tool with ai-integration.",
+    "topics": [],
+    "officialSite": "https://satellitecomponent.github.io/Neurite"
+  }, {
+    "repo": "sveltejs/kit",
+    "desc": "web development, streamlined",
+    "topics": ["svelte"],
+    "officialSite": "https://kit.svelte.dev"
+  }, {
+    "repo": "pot-app/pot-desktop",
+    "desc": "🌈一个跨平台的划词翻译软件 | A cross-platform translation software",
+    "topics": ["translation", "translate", "pot", "tauri", "pot-app"],
+    "officialSite": "https://pot.pylogmon.com"
   }
 ]

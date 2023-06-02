@@ -51,6 +51,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [ECMAScript 명세 이해, 2부](https://ui.toast.com/posts/ko_20221116_2)
 - [ECMAScript 명세 이해, 3부](https://ui.toast.com/posts/ko_20221116_3)
 - [ECMAScript 명세 이해, 4부](https://ui.toast.com/posts/ko_20221116_4)
+- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804)
+- [Async Cookie Store API 살펴보기](https://ui.toast.com/weekly-pick/ko_20201027)
 
 ---
 
@@ -74,13 +76,6 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ### 2017
 
 - [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage)
-
----
-
-## Toast
-
-- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804)
-- [Async Cookie Store API 살펴보기](https://ui.toast.com/weekly-pick/ko_20201027)
 
 ---
 
@@ -221,6 +216,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [The Art of Micro Frontends](https://medium.com/sysco-labs/the-art-of-micro-frontends-5184065ab74b)
 - [Building a Web Scraper with Spidey: Part 5 — Proxy Integration](https://towardsdev.com/building-a-web-scraper-with-spidey-part-5-proxy-integration-4da0ebccc170)
 - [IndexedDB 간단 정리하기](https://pks2974.medium.com/indexeddb-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-ca9be4add614)
+- [Writing a vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0)
+- [How to avoid empty class in Vue with null](https://medium.com/js-dojo/how-to-avoid-empty-class-in-vue-with-null-74d5366507b)
 
 ---
 

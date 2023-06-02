@@ -709,5 +709,15 @@
     "desc": "Document Signing as it should be - open and shaped by its community.",
     "topics": ["open-source", "typescript", "signing", "nextjs", "postgresql", "self-hosted", "prisma", "pades-standard", "pdf-signature", "next-auth", "pdf-sign", "document-signing"],
     "officialSite": "https://documenso.com"
+  }, {
+    "repo": "Evansy/MallChatWeb",
+    "desc": "mallchat的前端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "drizzle-team/drizzle-orm",
+    "desc": "TypeScript ORM that feels like writing SQL",
+    "topics": ["nodejs", "mysql", "postgres", "typescript", "sql", "orm", "sqlite", "neon", "postgresql", "sqlite3", "d1", "mysql2", "sqljs", "bunjs", "litefs", "turso", "libsql", "postgresjs", "vercel-postgres"],
+    "officialSite": "https://orm.drizzle.team"
   }
 ]

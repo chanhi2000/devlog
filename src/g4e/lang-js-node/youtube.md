@@ -23,27 +23,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Sonny Sangha
 
-[![Sonny Sangha](https://yt3.googleusercontent.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s176-c-k-c0x00ffffff-no-rj =x150)][yu-sonny-sangha]
-
-::: details 목록
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="0uN7O-H9gds" title="Let’s build a Solana NFT Gated website in 30 Minutes (Next.js, Thirdweb, Tailwind CSS)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="T2jKJF4BZOY" title="🔴 Let’s build META Messenger 2.0 with Next.js 13 (Upstash, TypeScript, Redis, Tailwind, NextAuth)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="T2jKJF4BZOY" title="🔴 Let's build a Web 3 Messenger Dapp with NEXT.JS! (ReactJS, Moralis, Tailwind CSS, MetaMask)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="oYLiqD1eqtY" title="🔴The EBAY 5-Day Challenge | Day 2 - UI & Auth (Next.js 13, TypeScript, React.js, Tailwind, Thirdweb)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="8ZFpqhJCjOQ" title="🔴 EBAY 5-Day Challenge | Day 4 - Payments & Bidding (Next.js 13, TypeScript, Thirdweb)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="urgi2iz9P6U" title="🔴 Let's build a Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React) | 2023" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="taPz40VmyzQ" title="🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="AkEnidfZnCU" title="React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More) [2022]" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="MqDlsjc8GLo" title="🔴 Let's build Hulu 2.0 with REACT.JS! (Next.js, Tailwind CSS, Responsive)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="bvn_HYpix6s" title="🔴 Let's build Uber 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS &amp; Google Autocomplete)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="1ZdFJ0701QI" title="🔴 Let's build Google Docs with REACT.JS! (Next.js, Rich Text Editor, Tailwind CSS &amp; Firebase)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="MJzmZ9qmdaE" title="🔴 Let's build SIGNAL with REACT NATIVE! (Navigation, Expo &amp; Firebase)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="1TCw9wO1neA" title="🔴 NETFLIX REACT.JS Challenge | Day 2 (Complete Frontend &amp; API)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="FJb8xOhX3ZE" title="🔴 Let’s build a WEB SCRAPER with React! (Next.js 13.2, Firebase, Webhooks, TypeScript, Bright Data)" />
-<YoutubeItem channelName="Sonny Sangha" channelId="SonnySangha" id="FJb8xOhX3ZE" title="🔴 Let’s build a WEB SCRAPER with React! (Next.js 13.2, Firebase, Webhooks, TypeScript, Bright Data)" />
-
-
-:::
+<MyYouTubeItems jsonName="yu-SonnySangha" />
 
 <!-- Sonny Sangha -->
 
@@ -436,43 +416,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Fireship
 
-[![Fireship](https://yt3.googleusercontent.com/ytc/AGIKgqOSWK9LIZ9xGvDbBZ7gjBK1ayNCxK0jKMOq1FirfA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-fireship]
-
-::: details 목록
-
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="ecK3EnyGD8o" title="13 Advanced (but useful) Git Techniques and Shortcuts" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="nQ2A30cD3Q8" title="Angular is back with a vengeance" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="uvb00oaa3k8" title="Kafka in 100 Seconds" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="FMhScnY0dME" title="JavaScript just got way faster" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="Jv2uxzhPFl4" title="Test-Driven Development // Fun TDD Introduction with JavaScript" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="K6Vcfm7TA5U" title="Google Sheets… Your Next Database?" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="WiwfiVdfRIc" title="Is Supabase Legit? Firebase Alternative Breakdown" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="akDIJa0AP5c" title="Sass in 100 Seconds" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="WmR9IMUD_CY" title="WebRTC in 100 Seconds // Build a Video Chat app from Scratch" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="UTHgr6NLeEw" title="Make Awesome SVG Animations with CSS // 7 Useful Techniques" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="njdJeu95p6s" title="Top 3 Ways to Center a DIV with CSS #Shorts" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="9kRgVxULbag" title="Firebase - Ultimate Beginner's Guide" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="q5J5ho7YUhA" title="Firebase - Back to the Basics" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="7sJZi0grFR4" title="Flutter for the JS Developer" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="7wzR4Ig5pTI" title="GraphQL Basics - Build an app with the SpaceX API" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="rXuHGLzSmSE" title="CSS Theme Switcher by Reverse-Engineering Alligator.io" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="yFlhTvxcrQ8" title="Firestore Pagination - It Just Got Easier" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="dXjKh66BR2U" title="A Guide to Web Scraping with Node.js" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="9emXNzqCKyg" title="The JavaScript Survival Guide" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="V6MzzmJ9IPs" title="The secret unit testing tools no one ever told you about - Dror Helper" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="ahCwqrYpIuM" title="TypeScript - The Basics" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="vn3tm0quoqE" title="The Async Await Episode I Promised" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="nYqeHIRKboM" title="Midjourney 5 must be stopped at all costs" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="26Mayv5JPz0" title="FFmpeg in 100 Seconds" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="y3iLOxBTuy4" title="ChatGPT is a perfectly balanced AI with no exploits" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="tszI9GrH1u0" title="I built a react app… but with a visual editor" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="_rGXIXyNqpk" title="I built my own AutoGPT that makes videos" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="klTvEwg3oJ4" title="Vector databases are so hot right now. WTF are they?" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="iO1mwxPNP5A" title="Masterclass: AI-driven Development for Programmers" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="ZzI9JE0i6Lc" title="AWS for the Haters in 100 Seconds" />
-<YoutubeItem channelName="Fireship" channelId="Fireship" id="mpnh1YTT66w" title="ChatGPT gets another insane new buff" />
-
-:::
+<MyYouTubeItems jsonName="yu-Fireship" />
 
 <!-- Fireship -->
 

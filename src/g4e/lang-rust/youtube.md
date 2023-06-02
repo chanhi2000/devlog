@@ -118,4 +118,12 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Dreams of Code
+
+<MyYouTubeItems jsonName="yu-dreamsofcode" />
+
+<!-- Dreams of Code -->
+
+---
+
 <TagLinks />

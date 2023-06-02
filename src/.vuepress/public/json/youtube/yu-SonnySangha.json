@@ -1,0 +1,64 @@
+{
+  "channel": {
+    "id": "SonnySangha",
+    "name": "Sonny Sangha",
+    "profile": "https://yt3.googleusercontent.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "-uufvr9j6bk",
+      "title": "SETS are so powerful for this ONE reason in Javascript! 🤯 #javascript #webdevelopment #tutorial"
+    }, {
+      "id": "_7n6jg4nbVM",
+      "title": "Do you really know how to use a Map in Javascript? 🤔 #javascript  #map #datatypes #tutorial"
+    }, {
+      "id": "uHN3-tWNBNk",
+      "title": "🔥Drag &amp; Drop in React… The EASY way! #javascript #reactjs #draganddrop #tutorial"
+    }, {
+      "id": "0uN7O-H9gds",
+      "title": "Let’s build a Solana NFT Gated website in 30 Minutes (Next.js, Thirdweb, Tailwind CSS)"
+    }, {
+      "id": "T2jKJF4BZOY",
+      "title": "🔴 Let’s build META Messenger 2.0 with Next.js 13 (Upstash, TypeScript, Redis, Tailwind, NextAuth)"
+    }, {
+      "id": "T2jKJF4BZOY",
+      "title": "🔴 Let's build a Web 3 Messenger Dapp with NEXT.JS! (ReactJS, Moralis, Tailwind CSS, MetaMask)"
+    }, {
+      "id": "oYLiqD1eqtY",
+      "title": "🔴The EBAY 5-Day Challenge | Day 2 - UI & Auth (Next.js 13, TypeScript, React.js, Tailwind, Thirdweb)"
+    }, {
+      "id": "8ZFpqhJCjOQ",
+      "title": "🔴 EBAY 5-Day Challenge | Day 4 - Payments & Bidding (Next.js 13, TypeScript, Thirdweb)"
+    }, {
+      "id": "urgi2iz9P6U",
+      "title": "🔴 Let's build a Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React) | 2023"
+    }, {
+      "id": "taPz40VmyzQ",
+      "title": "🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)"
+    }, {
+      "id": "AkEnidfZnCU",
+      "title": "React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More) [2022]"
+    }, {
+      "id": "MqDlsjc8GLo",
+      "title": "🔴 Let's build Hulu 2.0 with REACT.JS! (Next.js, Tailwind CSS, Responsive)"
+    }, {
+      "id": "bvn_HYpix6s",
+      "title": "🔴 Let's build Uber 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS &amp; Google Autocomplete)"
+    }, {
+      "id": "1ZdFJ0701QI",
+      "title": "🔴 Let's build Google Docs with REACT.JS! (Next.js, Rich Text Editor, Tailwind CSS &amp; Firebase)"
+    }, {
+      "id": "MJzmZ9qmdaE",
+      "title": "🔴 Let's build SIGNAL with REACT NATIVE! (Navigation, Expo &amp; Firebase)"
+    }, {
+      "id": "1TCw9wO1neA",
+      "title": "🔴 NETFLIX REACT.JS Challenge | Day 2 (Complete Frontend &amp; API)"
+    }, {
+      "id": "FJb8xOhX3ZE",
+      "title": "🔴 Let’s build a WEB SCRAPER with React! (Next.js 13.2, Firebase, Webhooks, TypeScript, Bright Data)"
+    }, {
+      "id": "FJb8xOhX3ZE",
+      "title": "🔴 Let’s build a WEB SCRAPER with React! (Next.js 13.2, Firebase, Webhooks, TypeScript, Bright Data)"
+    }
+  ]
+}

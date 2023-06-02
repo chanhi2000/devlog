@@ -33,6 +33,18 @@ tags: ["references", "android"]
 ## Medium
 
 - [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
+- [How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
+- [\[안드로이드\]YouTube Player API를 사용하면 안되는 3가지이유](https://medium.com/prnd/youtube-player-api%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3%EA%B0%80%EC%A7%80-c1a01321bf2)
+- [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+- [New Way Handle State, Event With Sealed Classes in Android](https://medium.com/swlh/new-way-handle-state-event-in-android-with-sealed-classes-75ad63560574)
+- [Decorator pattern in Android Development](https://medium.com/@denisrebrof/decorator-pattern-in-android-development-5dd1637710fa)
+- [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
+- [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
+- [Android: CircleImageView Simplified](https://medium.com/swlh/android-circleimageview-simplified-dac935364393)
+- [Android PDF Viewer, Created Library](https://medium.com/@ruddns8213/android-pdf-viewer-created-library-66f169aeb312)
+- [Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
+- [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
+- [Run your Appium tests using Docker Android & Genymotion Cloud](https://medium.com/genymobile/run-your-appium-tests-using-docker-android-genymotion-cloud-e4817132ccd8)
 
 ---
 
@@ -80,7 +92,17 @@ tags: ["references", "android"]
 
 ---
 
+## Kwon's developer
 
+- [안드로이드 SDK 번호와 버전 정리](https://kwon8999.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-SDK-%EB%B2%88%ED%98%B8%EC%99%80-%EB%B2%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
+
+---
+
+## Be OK
+
+- [\[Android\] Retrofit](https://sg-choi.tistory.com/517)
+
+---
 
 ## 허접샴푸로그래밍
 

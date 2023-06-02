@@ -21,5 +21,3 @@ description: 🥁Crashcourse
 [shield-youtube]: https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square
 [shield-swift]: https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square
 [shield-xcode]: https://img.shields.io/badge/XCode-147EFB?logo=xcode&logoColor=white&style=flat-square
-
-

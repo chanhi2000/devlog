@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "MongoDB",
+    "name": "MongoDB",
+    "profile": "https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "xiowCksSKpk",
+      "title": "Create a Twitter Clone using Next.js, MongoDB, Auth0, &  Deploy to Vercel"
+    }, {
+      "id": "WF2JRB9Ccjc",
+      "title": "Server Side Swift with MongoDB and Vapor"
+    }, {
+      "id": "vLetdH5cnEU",
+      "title": "MongoDB Atlas quick start with `mongocli` | Demo"
+    }, {
+      "id": "sDHNyDQOQvA",
+      "title": "Realm Mobile (Sync)"
+    }, {
+      "id": "gzyNfNSjCMw",
+      "title": "Intro to MongoDB for Developers"
+    }
+  ]
+}
+

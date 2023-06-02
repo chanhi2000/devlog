@@ -1,0 +1,211 @@
+{
+  "channel": {
+    "id": "PhilippLackner",
+    "name": "Philipp Lackner",
+    "profile": "https://yt3.googleusercontent.com/mhup7lzHh_c9b55z0edX65ReN9iJmTF2JU7vMGER9LTOora-NnXtvZdtn_vJmTvW6-y97z0Y=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "FIEnIBq7Ups",
+      "title": "Full Guide to Nested Navigation Graphs in Jetpack Compose"
+    }, {
+      "id": "bhrN7yFG0D4",
+      "title": "How to Build a Home Screen Widget in Jetpack Compose with Glance"
+    }, {
+      "id": "ro3a-GmaLqE",
+      "title": "How to Build a Swipeable Image Slider in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "Z5VjmLhnoJU",
+      "title": "How to Use the Google Play In-App Update API | Android Studio Tutorial"
+    }, {
+      "id": "bTgyDqBoZ_o",
+      "title": "Custom Layouts In Jetpack Compose - Crash Course"
+    }, {
+      "id": "jYetmv0xRRI",
+      "title": "THIS Is the #1 Clean Code Mistake"
+    }, {
+      "id": "xRfE2n37pMM",
+      "title": "THIS Is How You Properly Debug Your Jetpack Compose UI - Android Studio Tutorial"
+    }, {
+      "id": "byOmrmXG4yQ",
+      "title": "Convert Figma Designs to Jetpack Compose Code With This FREE Plugin 😱"
+    }, {
+      "id": "xLtF89qMFEI",
+      "title": "How to Migrate Gradle Groovy to Gradle Kotlin DSL in Android Studio"
+    }, {
+      "id": "lHdhqk8Bft0",
+      "title": "How to Swipe & Refresh Your List in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "dGu9m4LhYNM",
+      "title": "TOP 3 Mistakes With Jetpack Compose (Avoid at All Cost 😱)"
+    }, {
+      "id": "BhyavkT2UO4",
+      "title": "How to Implement Date & Time Picker Dialogs in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "7Wl-G8aXxDA",
+      "title": "Creating Your First Hello World KMM App (Kotlin Multiplatform Mobile) - KMM for Beginners"
+    }, {
+      "id": "TzV0oCRDNfM",
+      "title": "How to Observe Internet Connectivity in Android - Android Studio Tutorial"
+    }, {
+      "id": "LP623htmWcI",
+      "title": "Local Notifications in Android - The Full Guide (Android Studio Tutorial)"
+    }, {
+      "id": "MfJB-JhRAoQ",
+      "title": "Full Guide to Delegation in Kotlin - Android Studio Tutorial"
+    }, {
+      "id": "cDane_13zQs",
+      "title": "My CI/CD Course is LIVE!"
+    }, {
+      "id": "VWlwkqmTLHc",
+      "title": "In-Depth Guide to Coroutine Cancellation & Exception Handling - Android Studio Tutorial"
+    }, {
+      "id": "eAbKK7JNxCE",
+      "title": "How to Build an MVI Clean Code Weather App in Android Studio (Jetpack Compose)"
+    }, {
+      "id": "O7rPeWnCvhc",
+      "title": "The Top 3 Clean Architecture Mistakes in Android"
+    }, {
+      "id": "mWb_hEBLIqA",
+      "title": "THIS Is How You Schedule Alarms on Android with AlarmManager"
+    }, {
+      "id": "UiQWb3T2G-U",
+      "title": "How to Execute Code When the Android Device Is Booting Up"
+    }, {
+      "id": "ntlyrFw0F9U",
+      "title": "How to Create a Magic Text That Always Fits Its Container - Jetpack Compose Tutorial"
+    }, {
+      "id": "qYzhqFdUEQg",
+      "title": "Let's Migrate an XML Project to Jetpack Compose!"
+    }, {
+      "id": "BYGMO5OirbI",
+      "title": "Compose Live Edit?! 😍 - Philipp's Android News Google IO Special"
+    }, {
+      "id": "zu8lQSVw4vk",
+      "title": "How to Validate Forms with Clean Architecture (You're Doing it Wrong)"
+    }, {
+      "id": "uLs2FxFSWU4",
+      "title": "How to Build a Clean Architecture Stock Market App 📈 (Jetpack Compose, Caching, SOLID)"
+    }, {
+      "id": "D6Eus3f6U9I",
+      "title": "How to Implement Pagination With Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "gxWcfz3V2QE",
+      "title": "Full Guide to Jetpack Compose Effect Handlers"
+    }, {
+      "id": "Iw4qFryus4Q",
+      "title": "How to Make a Stop Watch With Compose Desktop"
+    }, {
+      "id": "S61mXlMQkLY",
+      "title": "Clean Theming in Compose (You're Doing It Wrong!)"
+    }, {
+      "id": "rk6aKkWqqcI",
+      "title": "Unit Testing Flows - The Ultimate Guide to Kotlin Flows (Part 4)"
+    }, {
+      "id": "IlIuBwXhb3Y",
+      "title": "How to Make a Chat App With Ktor - Building the Android App - Part 2"
+    }, {
+      "id": "pvNcJXprrKM",
+      "title": "How to Implement a Multi-Select LazyColumn in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "ND56_94wxJY",
+      "title": "How to Send Push Notifications With OneSignal &amp; Ktor"
+    }, {
+      "id": "D09Y9wjkXfI",
+      "title": "Custom UI Component with Jetpack Compose &amp; Canvas | Part #4 - Final Touch"
+    }, {
+      "id": "8YPXv7xKh2w",
+      "title": "How to Make a Clean Architecture Note App (MVVM / CRUD / Jetpack Compose) - Android Studio Tutorial"
+    }, {
+      "id": "buZy3dtkr9o",
+      "title": "Save 1h a Week With These Android Studio Shortcuts"
+    }, {
+      "id": "qzzkui-Z6CM",
+      "title": "How to Make Your Code Clean With Kotlin Sealed Classes"
+    }, {
+      "id": "cCIPYW_N12o",
+      "title": "Canvas Basics in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "EF33KmyprEQ",
+      "title": "How to Make a Clean Architecture Cryptocurrency App (MVVM, Use Cases, Compose) - Android Studio"
+    }, {
+      "id": "aIGY1tWekGw",
+      "title": "Clean Architecture Social Network With Jetpack Compose - Twitch Recording"
+    }, {
+      "id": "p-hTPeOIYsI",
+      "title": "MVVM Chat App with Stream - Introduction &amp; Login screen - Part 1"
+    }, {
+      "id": "bgpyuuzMlo0",
+      "title": "Shrink, Optimize and Secure Your App With R8 &amp; ProGuard - Full Guide"
+    }, {
+      "id": "Qk2mIpE_riY",
+      "title": "LiveData deprecated? - Full Guide to StateFlow"
+    }, {
+      "id": "Kw4_i4l5y4s",
+      "title": "Instagram Profile UI in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "WdQUDHOwlgE",
+      "title": "How to Make a 3D Animated Drop Down in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "2mKhmMrt2Ok",
+      "title": "How to Make a Timer in Jetpack Compose - Android Studio Tutorial"
+    }, {
+      "id": "C-DYZopXH68",
+      "title": "Doodlekong With Programming YouTubers - only with tech words!"
+    }, {
+      "id": "EeLz1DPMsW8",
+      "title": "How to Use Internal Storage (Save, Load, Delete) - Android Studio Tutorial"
+    }, {
+      "id": "dEASm7nv7DA",
+      "title": "Saving Files in External / Scoped Storage (API 30+) - Android Studio Tutorial"
+    }, {
+      "id": "xGbr9LOSbC0",
+      "title": "Testing Room Databases - Testing on Android - Part 6"
+    }, {
+      "id": "UR-lrDimmPI",
+      "title": "Pokémon Detail Screen (3) - MVVM Pokédex App With Jetpack Compose - Part 9"
+    }, {
+      "id": "trVmP1rw0uw",
+      "title": "Simple Animations - Android Jetpack Compose - Part 11"
+    }, {
+      "id": "cDabx3SjuOY",
+      "title": "Creating Your First Jetpack Compose App - Android Jetpack Compose - Part 1"
+    }, {
+      "id": "XqkFTG10sRk",
+      "title": "Project Overview &amp; Architecture - MVVM Running App (WITH DAGGER-HILT!) - Part 1"
+    }, {
+      "id": "bOd3wO0uFr8",
+      "title": "The FULL Beginner Guide for Room in Android | Local Database Tutorial for Android"
+    }, {
+      "id": "Z0Y3JJGHSnQ",
+      "title": "GPT-4 for Mobile Development | 4 Tips How YOU Can Save HUNDREDS of Hours"
+    }, {
+      "id": "NgQ5_QnoJb8",
+      "title": "Full Guide to the Google Play Review API In Android"
+    }, {
+      "id": "D3JCtaK8LSU",
+      "title": "The ULTIMATE Permission Handling Guide (Showing rationale + Permanently Declined)"
+    }, {
+      "id": "O7rPeWnCvhc",
+      "title": "The Top 3 Clean Architecture Mistakes in Android"
+    }, {
+      "id": "mWb_hEBLIqA",
+      "title": "THIS Is How You Schedule Alarms on Android with `AlarmManager`"
+    }, {
+      "id": "nzQ4HE0DMDg",
+      "title": "Transparent Status Bar In Android In Less Than a Minute"
+    }, {
+      "id": "4D79It7Jnzg",
+      "title": "THIS Compose-State Mistake Leads to Problems In Your Code"
+    }, {
+      "id": "0G_1XCRlpYM",
+      "title": "You're Collecting Your Flows Wrong In Compose | THIS Is Why"
+    }, {
+      "id": "irIGZj1YON8",
+      "title": "Building Your First Wear OS App with Jetpack Compose - Full Crash Course"
+    }, {
+      "id": "QCSJfMqQY9A",
+      "title": "How to Implement a Context Drop Down Menu In Jetpack Compose"
+    }
+  ]
+}

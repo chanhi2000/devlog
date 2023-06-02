@@ -22,4 +22,10 @@ tags: ["education", "youtube", "vscode", "code"]
 
 ---
 
+## DanCanCode
+
+<MyYouTubeItems jsonName="yu-DanCanCode" />
+
+<!-- DanCanCode -->
+
 <TagLinks />

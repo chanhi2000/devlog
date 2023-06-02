@@ -141,68 +141,15 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Docker
 
-[![Docker](https://yt3.googleusercontent.com/ytc/AGIKgqMnOx8MxY2N1Tmmd2rl5WLNTmtC7S3A67IryIos_D0=s176-c-k-c0x00ffffff-no-rj =x150)][yu-docker]
-
-::: details 목록
-
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="OGcm3rHg630" title="WebAssembly and Containers" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="bjWO9kTwl7w" title="Web Assembly, Docker, Containerd, and Kubernetes" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="6OxqiEeCvMI" title="How to Create a Great Local Python Development Environment with Docker" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="hUSbU3K5tgQ" title="Best Practices for Production-ready .NET Docker Images" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="WLBB1CZ9vo0" title="How to Use the Apache httpd Docker Official Image" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="mO7izmiCz4A" title="Docker Extension for Red Hat OpenShift" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="hO-e5_XjuRM" title="Running an AWS Stack on Your Local Machine" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="bEcaVSJE8so" title="Debugging your Huge Container Images" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="pU6WZLNthKo" title="Buildkit: A New Docker Builder" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="IZGeqeEjZMY" title="Running containers effortlessly on AWS AppRunner" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="QKwl1PggHD0" title="Docker in MLOps" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="nhqcecpi47s" title="Build & Deploy Multi-Container Apps to AWS" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="5v0_TukYfHk" title="Docker Community All-Hands #2" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="RGCHHaYP9Lw" title="Docker Build: Build Secure Containers with Docker and Snyk" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="NIPjEj3HuWE" title="Find and Fix Container Image Vulnerabilities with Docker and Snyk" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="SqKA4KCaOHc" title="Adding Container Security to Docker Hub" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="6jT83lT6TU8" title="Taking Docker to Production: What You Need to Know and Decide" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="W4JyzLpLpn0" title="Docker Desktop & WSL 2 Integration Deep Dive" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="2uU_dPFwPnk" title="The Future of Compose, Hosted by Bret Fisher" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="sK5i-N34im8" title="Cgroups, namespaces, and beyond: what are containers made from?" />
-<YoutubeItem channelName="Docker" channelId="DockerIo" id="hUSbU3K5tgQ" title="Best Practices for Production-ready .NET Docker Images" />
-
-:::
+<MyYouTubeItems jsonName="yu-DockerIo" />
 
 <!-- Docker -->
 
 ---
 
-## iOS Conf SG
-
-[![iOS Conf SG](https://yt3.googleusercontent.com/ytc/AGIKgqMZnwRVtf0PRzaGYiLglElF9xPKIPEPvsc3GUOJ3w=s176-c-k-c0x00ffffff-no-rj =x150)][yu-ios-conf-sg]
-
-::: details 목록
-
-<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="JRsWi8KC2Sw" title="Building iOS Apps without Xcode - iOS Conf SG 2019" />
-<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="TGr5aefC92w" title="Grand Central Dispatch (GCD), How Yelp uses GCD - iOS Conf SG 2015" />
-<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="6p8kveO1m00" title="XCMetrics - The All-In-One Solution to Track Xcode Build Metrics - iOS Conf SG 2021" />
-<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="0MAc-hjvKqw" title="The Hitchhiker’s Guide to SwiftUI - iOS Conf SG 2021" />
-<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="zXBEJzAaHY8" title="Explain me Metal like I'm 5 - iOS Conf SG 2020" />
-<YoutubeItem channelName="iOS Conf SG" channelId="iOSConfSG" id="fpWOD3JpSrI" title="Full stack development with Swift and Vapor - iOS Conf SG 2020" />
-
-:::
-
----
-
 ## MongoDB
 
-[MongoDB][yu-mongo-db]
-
-::: details 목록
-
-<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="xiowCksSKpk" title="Create a Twitter Clone using Next.js, MongoDB, Auth0, &  Deploy to Vercel" />
-<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="WF2JRB9Ccjc" title="Server Side Swift with MongoDB and Vapor" />
-<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="vLetdH5cnEU" title="MongoDB Atlas quick start with `mongocli` | Demo" />
-<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="sDHNyDQOQvA" title="Realm Mobile (Sync)" />
-<YoutubeItem channelName="MongoDB" channelId="MongoDB" id="gzyNfNSjCMw" title="Intro to MongoDB for Developers" />
-
-:::
+<MyYouTubeItems jsonName="yu-MongoDB" />
 
 ---
 
@@ -362,27 +309,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Microsoft Developer
 
-[Microsoft Developer][yu-microsoft-developer]
-
-::: details 목록
-
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="EL4kweENvZc" title="Let's Learn .NET - Azure | #SamosaChai.NET" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="2sEujkZ79E4" title="Learn Prompt Engineering for ChatGPT" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="7ZeZD-iJFQw" title="Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="E3GI9a39uQU" title="Getting started with Java and Spring Cloud to build Reactive Java Apps." />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="xZwNFB4hx5s" title="Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="apcWlHNJ5kM" title="StereoKit: Hello World for StereoKit" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="8b_Wiuw8l-8" title="JBoss on Azure App Service is now GA | The Launch Space" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="1DJkU8H-uDc" title="What is Rust and why should you learn it [2 of 35] | Rust for Beginners" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="wnFtt-fKLoI" title="All Around Azure: DevOps with GitHub- Americas Airing" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="XkLjxr9iQ-8" title="Visual Studio Code: Remote Dev with SSH, VMs, and WSL | Tabs vs Spaces" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="4pBcGmm6nCI" title="Learn Studio Session: Build a WebAssembly app with Blazor & VS Code | COM141" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="2k74qoXTelM" title="Learn Studio Session: Build a WebAssembly app with Blazor & VS Code | COM144" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="GZDQptTQZsk" title="Episode 5: MVVM & Data Binding with Xamarin.Forms" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="MrZolfGm8Zk" title="WSL2: Code faster on the Windows Subsystem for Linux! | Tabs vs Spaces" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="ykZbBD-CmP8" title="Git patterns and anti-patterns for successful developers : Build 2018" />
-<YoutubeItem channelName="Microsoft Developer" channelId="MicrosoftDeveloper" id="nK8Ss2UMAxc" title="Introduction to Dapr" />
-:::
+<MyYouTubeItems jsonName="yu-MicrosoftDeveloper" />
 
 <!-- Microsoft Developer -->
 
@@ -894,9 +821,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 [yu-spring-developer]: https://www.youtube.com/@SpringSourceDev
 [yu-vaadinofficial]: https://www.youtube.com/@vaadinofficial
 [yu-v-jug]: https://www.youtube.com/@virtualJUG
-[yu-docker]: https://www.youtube.com/@DockerIo
-[yu-ios-conf-sg]: https://www.youtube.com/@iOSConfSG
-[yu-mongo-db]: https://www.youtube.com/@MongoDB
 [yu-redis]: https://www.youtube.com/@Redisinc
 [yu-strv]: https://www.youtube.com/@STRVSanFrancisco
 [yu-esri-event]: https://www.youtube.com/@EsriEvents

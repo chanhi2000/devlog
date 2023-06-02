@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "DotNetCoreCentral",
+    "name": "DotNet Core Central",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMo3I4osoacjdyZaNo7wnU6989HVCiydnLdk1bm=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "H_Jd7nss3e8", 
+      "title": "Create proper request/response contract for Swagger"
+    }, {
+      "id": "SzIAGR2oL9Q", 
+      "title": "An Introduction to Amazon SNS with AWS Lambda (Using .NET Core and C#)"
+    }, {
+      "id": "QF1GHqkiiIQ", 
+      "title": "Debugging and Dependency Injection for Blazor WebAssembly (.NET 5.0)"
+    }, {
+      "id": "Cm2psU-zN90", 
+      "title": "RabbitMQ Direct Exchange producer/consumer (Part 2, RabbitMQ in .NET Core)"
+    }, {
+      "id": "vWkPdurauaA", 
+      "title": "ASP.NET Core Authentication with JWT  (JSON Web Token)"
+    }
+  ]
+}
+

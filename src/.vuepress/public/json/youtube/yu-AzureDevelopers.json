@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "AzureDevelopers",
+    "name": "Azure Developers",
+    "profile": "imgUrl"
+  },
+  "videos": [
+    {
+      "id": "Knctudbao1o", 
+      "title": "Build a SMS generator with short URLs leveraging Azure Functions, Storage, & Communication Services"
+    }, {
+      "id": "Sb5ei5-wmSA", 
+      "title": "Modernizing .NET Apps with Key Vault, Azure Monitor, & Beyond"
+    }
+  ]
+}

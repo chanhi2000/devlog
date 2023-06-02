@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "sstectutorials",
+    "name": "SSTec Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP7YsVHi0LEvzRNLNfVjmg8mR7-TcYjGAt2T2MfiQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "m2PGKJyBwCY",
+      "title": "How To Install Kali Linux on Windows 11 WSL2 (GUI) in 5 Minutes"
+    }, {
+      "id": "5maHGFejvH0",
+      "title": "How To Make Windows 11 Look Like MacOS Monterey | MacOS Theme For Windows 11"
+    }, {
+      "id": "VXsWdZ4Byww",
+      "title": "How To Install Docker on Raspberry Pi 4 - Run Docker Container on Raspberry Pi"
+    }, {
+      "id": "dK-8kFge_5U",
+      "title": "How To Setup Internet In Mikrotik Router Manually."
+    }, {
+      "id": "2UiqQTIRJlk",
+      "title": "How To Debloat Latest Windows 11 With 1 Click!"
+    }, {
+      "id": "NMJlf_KV5_M",
+      "title": "How To Install Tiny11 (Windows 11 Lite) In a VirtualBox!"
+    }
+  ]
+}
+

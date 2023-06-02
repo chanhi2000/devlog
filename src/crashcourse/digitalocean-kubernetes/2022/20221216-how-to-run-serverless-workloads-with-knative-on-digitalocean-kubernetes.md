@@ -181,3 +181,392 @@ Knative requires a networking layer to route incoming traffic to your services. 
 In this tutorial, you will use Kourier as the networking layer because it integrates seamlessly with Knative. Kourier uses the same APIs and standards as the rest of the Knative ecosystem, making it a good option for developers and organizations already using Knative who want to benefit from its powerful networking capabilities.
 
 Install Kourier with this command:
+
+```sh
+kubectl apply -f https://github.com/knative/net-kourier/releases/download/knative-v1.8.0/kourier.yaml
+# namespace/kourier-system configured
+# configmap/kourier-bootstrap configured
+# configmap/config-kourier configured
+# serviceaccount/net-kourier configured
+# clusterrole.rbac.authorization.k8s.io/net-kourier configured
+# clusterrolebinding.rbac.authorization.k8s.io/net-kourier configured
+# deployment.apps/net-kourier-controller configured
+# service/net-kourier-controller configured
+# deployment.apps/3scale-kourier-gateway configured
+# service/kourier configured
+# service/kourier-internal configured
+```
+
+The output lists all the resources, like `Namespaces` and `ConfigMaps`, created as part of the Kourier installation process in the Kubernetes cluster.
+
+To configure Knative to use Kourier as the networking layer, you will edit the `config-network` ConfigMap.
+
+For this, you need to use the `kubectl patch` command to update the fields of an object in a Kubernetes cluster. You will have to also include some flags with this command:
+
+- `--namespace` specifies where you can find the object you want to patch.
+- `--type` specifies which patch to perform when applying configs with the `patch` command. The available types are `json`, `merge`, and `strategic`.
+- `--patch` specifies the patch data directly on the command line rather than in a file.
+
+Run this command with the associated flags:
+
+::: tabs
+
+@tab:active Shell
+
+```sh
+kubectl patch configmap/config-network \
+  --namespace knative-serving \
+  --type merge \
+  --patch '{"data":{"ingress-class":"kourier.ingress.networking.knative.dev"}}'
+
+# configmap/config-network patched
+```
+
+@tab Powershell
+
+```powershell
+kubectl patch configmap/config-network `
+  --namespace knative-serving `
+  --type merge `
+  --patch '{"data":{"ingress-class":"kourier.ingress.networking.knative.dev"}}'
+
+# configmap/config-network patched  
+```
+
+@tab Cmd
+
+```batch
+kubectl patch configmap/config-network ^
+  --namespace knative-serving ^
+  --type merge ^
+  --patch '{"data":{"ingress-class":"kourier.ingress.networking.knative.dev"}}'
+
+REM configmap/config-network patched  
+```
+
+:::
+
+The `kubectl patch` command patches `configmap/config-network` with the `namespace` set to `knative-serving` and the `type` set to `merge`.
+
+The `merge` patch type allows for more targeted updates, while the `json` or `strategic` patch types allow for more comprehensive updates. The `merge` patch type specifies individual fields to update without including the entire resource configuration in the patch command, which is the case for the other types. The data being patched is identified with the `patch` flag.
+
+The output of this command ensures Kourier is properly set up in the cluster.
+
+Finally, fetch the external IP address of the Kourier load balancer with the following command:
+
+```sh
+kubectl get svc kourier --namespace kourier-system
+# NAME      TYPE           CLUSTER-IP       EXTERNAL-IP      PORT(S)                      AGE
+# kourier   LoadBalancer   10.245.186.153   138.197.231.61   80:31245/TCP,443:30762/TCP   2m33s
+```
+
+The `kubectl get svc` command retrieves information about the services running in a Kubernetes cluster in the mentioned namespace (in this case, `kourier-system`). This command will list all the services in the cluster with their associated IP addresses and port numbers.
+
+The output of the command includes the name of the service, the type of service (such as `ClusterIP`, `NodePort`, and so on), the cluster IP address and port number, and the external IP address and port number. The numbers listed here are examples, so your output will display different numbers.
+
+It may take a few minutes for the load balancer to be provisioned. You may see an empty value or `<pending>` for the `EXTERNAL-IP` field. If that is the case, wait a few minutes and rerun the command.
+
+::: note  Note
+
+__Note__: You will need the load balancer to be provisioned before continuing in this tutorial. Once the `EXTERNAL-IP` field for the `LoadBalancer` is populated, you can continue. Otherwise, you may experience issues while setting up the DNS service.
+
+:::
+
+You can also configure DNS for your domain name to point to the external IP address of the load balancer. Knative provides a Kubernetes job called default-domain that will automatically configure Knative Serving to use sslip.io as the default DNS suffix.
+
+sslip.io is a dynamic DNS (Domain Name System) service that allows users to access their devices using a custom domain name instead of the IP address. Using sslip.io improves user access to their devices remotely without needing to remember complex IP addresses.
+
+To configure the default DNS suffix, you will need to run the following command:
+
+```sh
+kubectl apply -f https://github.com/knative/serving/releases/download/knative-v1.8.0/serving-default-domain.yaml
+# job.batch/default-domain configured
+# service/default-domain-service configured
+```
+
+The resources required to run the Magic DNS service have been configured successfully.
+
+::: note  Note
+
+__Note__: You can also add a domain if you prefer, though that is beyond the scope of this article. You need to set up a DNS provider (such as Cloud DNS or Route53) and create an A record for the Knative ingress gateway that is mapped to the IP address of your Knative cluster. You would then update the Knative ingress gateway configuration to use the DNS zone and A record you created. You can test the DNS configuration by accessing the Knative serving domain and ensuring it resolves to the ingress gateway.
+
+:::
+
+You have now successfully installed Knative Serving on your Kubernetes cluster. You can now deploy the Serverless workload with Knative Serving on your Kubernetes cluster.
+
+---
+
+## Step 3 — Deploying a Serverless Workload
+
+In this step, you will deploy a serverless workload on top of Knative, which is currently running in your Kubernetes cluster. You will use the Node.js application that you created as part of the prerequisites.
+
+Before you proceed, you will create a new `namespace` to deploy your serverless workload. You can do this by running the following command:
+
+```sh
+kubectl create namespace serverless-workload
+# namespace/serverless-workload configured
+```
+
+This command will create a new namespace called serverless-workload.
+
+The output ensures that the namespace has been created successfully.
+
+Knative Serving uses a custom resource called `Service` to deploy and manage your serverless workloads. The `Service` resource is defined by the [Knative Serving API](https://knative.dev/docs/serving).
+
+Once you create or modify the `Service` resource, Knative Serving will automatically create a new `Revision`. A `Revision` is a point-in-time snapshot of your workload.
+
+Whenever a new `Revision` is created, traffic will be routed to the new `Revision` by a `Route`. Knative Serving automatically creates a `Route` for each Service. You can access your workload using the domain name from the `Route`.
+
+To deploy a serverless workload on Knative, you must create a `Service` resource. You can achieve this in two different ways:
+
+- Using the `kn`, the official Knative CLI tool.
+- Using the `kubectl` command line tool for applying YAML files to your Kubernetes cluster.
+
+In the subsections that follow, you will use each of these methods.
+
+### Option 1 — Using the Knative CLI
+
+The Knative CLI, `kn`, is a command-line interface that allows you to interact with Knative.
+
+First, install `kn` by downloading the latest version of the Knative CLI binary:
+
+```sh
+wget https://github.com/knative/client/releases/download/knative-v1.8.1/kn-linux-amd64
+```
+
+The `wget` command will retrieve the tool.
+
+Then, move the binary to a folder called `kn`:
+
+```sh
+mv kn-linux-amd64 kn
+```
+
+Next, make it executable with the following command:
+
+```sh
+chmod +x kn
+```
+
+Finally, move the executable binary file to a directory on your `PATH`:
+
+```sh
+cp kn /usr/local/bin/
+```
+
+Verify that kn is installed:
+
+```sh
+kn version
+# Version:      v1.8.1
+# Build Date:   2022-10-20 16:09:37
+# Git Revision: 1db36698
+# Supported APIs:
+# * Serving
+#   - serving.knative.dev/v1 (knative-serving v1.8.0)
+# * Eventing
+#   - sources.knative.dev/v1 (knative-eventing v1.8.0)
+#   - eventing.knative.dev/v1 (knative-eventing v1.8.0)
+```
+
+The output of this command states that `kn` was installed.
+
+To deploy the Node.js application using `kn`, you will use the `kn service create` command. You will include some flags with this command:
+
+- `--image` specifies the image of the container you want to deploy.
+- `--port` specifies the port that your application listens on.
+- `--name` specifies the name of the `Service` you want to create.
+- `--namespace` specifies the namespace to which you want to deploy the workload.
+
+To deploy your Node.js application, run the following command and update the highlighted portion with your DockerHub username:
+
+
+::: tabs
+
+@tab:active Shell
+
+```sh
+kn service create node-service \
+  --image your_dockerhub_username/nodejs-image-demo \
+  --port 8080 \
+  --namespace serverless-workload
+
+# Creating service 'node-service' in namespace 'serverless-workload':
+# 
+#   0.236s Configuration "node-service" is waiting for a Revision to become ready.
+#   2.230s ...
+#   2.311s Ingress has not yet been reconciled.
+#   2.456s Waiting for load balancer to be ready
+#   2.575s Ready to serve.
+# 
+# Service 'node-service' created to latest revision 'node-service-00001' is available at URL:
+# http://node-service.serverless-workload.138.197.231.61.sslip.io
+```
+
+@tab Powershell
+
+```powershell
+kn service create node-service `
+  --image your_dockerhub_username/nodejs-image-demo `
+  --port 8080 `
+  --namespace serverless-workload
+
+# Creating service 'node-service' in namespace 'serverless-workload':
+# 
+#   0.236s Configuration "node-service" is waiting for a Revision to become ready.
+#   2.230s ...
+#   2.311s Ingress has not yet been reconciled.
+#   2.456s Waiting for load balancer to be ready
+#   2.575s Ready to serve.
+# 
+# Service 'node-service' created to latest revision 'node-service-00001' is available at URL:
+# http://node-service.serverless-workload.138.197.231.61.sslip.io
+```
+
+@tab Cmd
+
+```batch
+kn service create node-service ^
+  --image your_dockerhub_username/nodejs-image-demo ^
+  --port 8080 ^
+  --namespace serverless-workload
+
+REM Creating service 'node-service' in namespace 'serverless-workload':
+REM 
+REM   0.236s Configuration "node-service" is waiting for a Revision to become ready.
+REM   2.230s ...
+REM   2.311s Ingress has not yet been reconciled.
+REM   2.456s Waiting for load balancer to be ready
+REM   2.575s Ready to serve.
+REM 
+REM Service 'node-service' created to latest revision 'node-service-00001' is available at URL:
+REM http://node-service.serverless-workload.138.197.231.61.sslip.io
+```
+
+:::
+
+This output provides the status of the Knative `Service` creation. Once the `Service` gets created, you will find the URL of the `Route` linked to the `Service`.
+
+Run the following command to verify that the `Service` resource was created:
+
+```sh
+kn service list --namespace serverless-workload
+# NAME           URL                                                               LATEST               AGE   CONDITIONS   READY   REASON
+# node-service   http://node-service.serverless-workload.138.197.231.61.sslip.io   node-service-00001   88s   3 OK / 3     True    
+```
+
+The `kn service list` command lists all the services currently deployed with Knative Serving in a particular namespace in the Kubernetes cluster. This command enables you to access details about each Service, including its name, status, and URL.
+
+From this output, you can verify that a new Knative `Service` has been created by the `kn service` command you executed earlier. You also find the URL for the `Route` and the `Age` and `Status` of the Service.
+
+In this section, you installed the Knative CLI and used it to deploy a serverless workload for your Node.js app.
+
+### Option 2 — Creating a Service Resource Using YAML Files
+
+You can also deploy a `Service` resource by creating a YAML file that defines the resource. This method is useful to ensure version control of your workloads.
+
+First, you will create a subdirectory in the directory containing your `Dockerfile`. This tutorial uses the name `knative` for the subdirectory. Create the folder:
+
+```sh
+mkdir knative
+```
+
+Next, you will create a YAML file called `service.yaml` in the `knative` directory:
+
+```sh
+nano knative/service.yaml
+```
+
+In the newly created `service.yaml` file, add the following lines to define a `Service` that will deploy your Node.js app:
+
+> `~/node_project/knative/service.yaml`
+
+```yml
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: node-yaml-service
+  namespace: serverless-workload
+spec:
+  template:
+    metadata:
+      name: node-yaml-service-v1
+    spec:
+      containers:
+        - image: docker.io/your_dockerhub_username/nodejs-image-demo
+          ports:
+            - containerPort: 8080
+```
+
+The Knative Service YAML file specifies the following information:
+
+- `name` in the first `metadata` section specifies the `name` of the `Service` resource.
+- `namespace` specifies the `namespace` to which you want to deploy the workload.
+- `name` in the first `spec` section specifies the `name` of the `Revision`.
+- `image` in the second `spec` section specifies the `image` of the container you want to deploy.
+- `containerPort` specifies the `port` your application listens on.
+
+Be sure to update the highlighted text with the information you’ve selected for your app and system, as well as your DockerHub username.
+
+Save and close the file.
+
+You can now deploy the `Service` resource by running the following command:
+
+```sh
+kubectl apply -f knative/service.yaml
+# service.serving.knative.dev/node-yaml-service created
+```
+
+The output indicates that the `Service` resource has been created successfully.
+
+Run the following command to verify that the `Service` resource has been created:
+
+```sh
+kn service list --namespace serverless-workload
+# NAME                URL                                                                     LATEST                 AGE   CONDITIONS   READY   REASON
+# node-service        http://node-service.serverless-workload.174.138.127.211.sslip.io        node-service-00001     9d    3 OK / 3     True    
+# node-yaml-service   http://node-yaml-service.serverless-workload.174.138.127.211.sslip.io   node-yaml-service-v1   9d    3 OK / 3     True    
+```
+
+The `kn service list` command lists all the services currently deployed with Knative Serving in a particular namespace. This command enables you to access details about each Service.
+
+You can verify that a new Knative `Service` has been created based on the Knative Service YAML file that you executed previously. You created the `node-yaml-service` in this section. You can also find the URL of the Knative `Route`.
+
+You used a YAML file in this section to create a serverless workload for your Node.js app.
+
+In this step, you created the Knative `Service` resource using both the `kn` CLI tool and a YAML file. Next, you will access the application workload you deployed with Knative.
+
+---
+
+## Step 4 — Accessing the Application Workload
+
+Now that you have deployed the serverless workload, you can access it with the URL from the Knative `Route` created as part of the Serverless workload. The Knative Route defines how incoming HTTP traffic should route to a specific service or application.
+
+To get the list of all Knative routes, run the following command:
+
+```sh
+kn route list --namespace serverless-workload
+# NAME                URL                                                                    READY
+# node-service        http://node-service.serverless-workload.138.197.231.61.sslip.io        True
+# node-yaml-service   http://node-yaml-service.serverless-workload.138.197.231.61.sslip.io   True
+```
+
+The `kn route list` command lists all the Knative routes at a particular namespace in the Kubernetes cluster.
+
+You will use the URLs generated for the Knative Routes to confirm that everything is working as expected.
+
+Open either of the URLs in your browser. When you access the site in your browser, the landing page from your Node app will load:
+
+![The Serverless workload](https://deved-images.nyc3.digitaloceanspaces.com/CART-68820/PgxjNoW.png)
+
+You have successfully deployed a serverless workload using Knative on your Kubernetes cluster.
+
+---
+
+## Conclusion
+
+In this tutorial, you deployed a serverless workload using Knative. You created a Knative `Service` resource using the `kn` CLI tool and via YAML files. This resource deployed a Node.js application on your Kubernetes cluster, which you accessed using the `Route` URL.
+
+For more about the features that Knative offers, like [Autoscaling](https://knative.dev/docs/serving/autoscaling/) of pods, [gradual rollout](https://knative.dev/docs/serving/rolling-out-latest-revision) of traffic to revision, and the [Eventing](https://knative.dev/docs/eventing) component, visit the official [Knative documentation](https://knative.dev/docs).
+
+To continue building with DigitalOcean Kubernetes (DOKS), refer to our [Kubernetes How-To documentation](https://docs.digitalocean.com/products/kubernetes). You can also [learn more about DOKS](https://docs.digitalocean.com/products/kubernetes/details), such as [features](https://docs.digitalocean.com/products/kubernetes/details/features) and [availability](https://docs.digitalocean.com/products/kubernetes/details/availability). For DOKS troubleshooting, you can refer to our [Kubernetes Support guides](https://docs.digitalocean.com/products/kubernetes/support).

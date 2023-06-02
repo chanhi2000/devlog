@@ -1,0 +1,50 @@
+{
+  "channel": {
+    "id": "DanielPersson",
+    "name": "Daniel Persson",
+    "profile": "imgUrl"
+  },
+  "videos": [
+    {
+      "id": "E1LXQd1M-ck",
+      "title": "Best Way to Install OpenStack? OpenMetal vs Manual installation"
+    }, {
+      "id": "Kn5rOJdPlEw",
+      "title": "Automatic install of Redhat 9 using Kickstart"
+    }, {
+      "id": "AjmDUMiyvNQ",
+      "title": "How to use the Log4J library in 2022"
+    }, {
+      "id": "UeH8z9wnz7o",
+      "title": "Linux by example - util-linux, e2fsprogs, sysklogd, sysvinit, eudev"
+    }, {
+      "id": "LtlovbPZXU0",
+      "title": "Linux by example - Grep and Bash"
+    }, {
+      "id": "jooOa8ur07g",
+      "title": "Using fetch to do a file upload"
+    }, {
+      "id": "3XO0d9Qyc34",
+      "title": "How to use `autotools` (`automake`, `autoconf`, `aclocal`, `autoheader`)"
+    }, {
+      "id": "bJx_YeAp18E",
+      "title": "How to setup up a local copy of jitsi video conferencing"
+    }, {
+      "id": "pCD66c2D3L8",
+      "title": "Using JMeter for performance testing"
+    }, {
+      "id": "wpCu4buJOvE",
+      "title": "Inference with Tensorflow in Java"
+    }, {
+      "id": "GRMrj-mImAc",
+      "title": "How to use expansion files in Android"
+    }, {
+      "id": "sESrjvGpEUQ",
+      "title": "Webassembly with java"
+    }, {
+      "id": "6WU9nipfBGQ",
+      "title": "Getting Started with Sonatype: The Best Way to Manage Your Java Releases"
+    }
+  ]
+}
+

@@ -1,0 +1,73 @@
+{
+  "channel": {
+    "id": "DockerIo",
+    "name": "Docker",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMnOx8MxY2N1Tmmd2rl5WLNTmtC7S3A67IryIos_D0=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "OGcm3rHg630", 
+      "title": "WebAssembly and Containers"
+    }, {
+      "id": "bjWO9kTwl7w", 
+      "title": "Web Assembly, Docker, Containerd, and Kubernetes"
+    }, {
+      "id": "6OxqiEeCvMI", 
+      "title": "How to Create a Great Local Python Development Environment with Docker"
+    }, {
+      "id": "hUSbU3K5tgQ", 
+      "title": "Best Practices for Production-ready .NET Docker Images"
+    }, {
+      "id": "WLBB1CZ9vo0", 
+      "title": "How to Use the Apache httpd Docker Official Image"
+    }, {
+      "id": "mO7izmiCz4A", 
+      "title": "Docker Extension for Red Hat OpenShift"
+    }, {
+      "id": "hO-e5_XjuRM", 
+      "title": "Running an AWS Stack on Your Local Machine"
+    }, {
+      "id": "bEcaVSJE8so", 
+      "title": "Debugging your Huge Container Images"
+    }, {
+      "id": "pU6WZLNthKo", 
+      "title": "Buildkit: A New Docker Builder"
+    }, {
+      "id": "IZGeqeEjZMY", 
+      "title": "Running containers effortlessly on AWS AppRunner"
+    }, {
+      "id": "QKwl1PggHD0", 
+      "title": "Docker in MLOps"
+    }, {
+      "id": "nhqcecpi47s", 
+      "title": "Build & Deploy Multi-Container Apps to AWS"
+    }, {
+      "id": "5v0_TukYfHk", 
+      "title": "Docker Community All-Hands #2"
+    }, {
+      "id": "RGCHHaYP9Lw", 
+      "title": "Docker Build: Build Secure Containers with Docker and Snyk"
+    }, {
+      "id": "NIPjEj3HuWE", 
+      "title": "Find and Fix Container Image Vulnerabilities with Docker and Snyk"
+    }, {
+      "id": "SqKA4KCaOHc", 
+      "title": "Adding Container Security to Docker Hub"
+    }, {
+      "id": "6jT83lT6TU8", 
+      "title": "Taking Docker to Production: What You Need to Know and Decide"
+    }, {
+      "id": "W4JyzLpLpn0", 
+      "title": "Docker Desktop & WSL 2 Integration Deep Dive"
+    }, {
+      "id": "2uU_dPFwPnk", 
+      "title": "The Future of Compose, Hosted by Bret Fisher"
+    }, {
+      "id": "sK5i-N34im8", 
+      "title": "Cgroups, namespaces, and beyond: what are containers made from?"
+    }, {
+      "id": "hUSbU3K5tgQ", 
+      "title": "Best Practices for Production-ready .NET Docker Images"
+    }
+  ]
+}

@@ -15,77 +15,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## Philipp Lackner
 
-[Philipp Lackner][yu-Philipp-Lackner]
-
-::: details 목록
-
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="ro3a-GmaLqE" title="How to Build a Swipeable Image Slider in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="Z5VjmLhnoJU" title="How to Use the Google Play In-App Update API | Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="bTgyDqBoZ_o" title="Custom Layouts In Jetpack Compose - Crash Course" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="jYetmv0xRRI" title="THIS Is the #1 Clean Code Mistake" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="xRfE2n37pMM" title="THIS Is How You Properly Debug Your Jetpack Compose UI - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="byOmrmXG4yQ" title="Convert Figma Designs to Jetpack Compose Code With This FREE Plugin 😱" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="xLtF89qMFEI" title="How to Migrate Gradle Groovy to Gradle Kotlin DSL in Android Studio" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="lHdhqk8Bft0" title="How to Swipe & Refresh Your List in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="dGu9m4LhYNM" title="TOP 3 Mistakes With Jetpack Compose (Avoid at All Cost 😱)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="BhyavkT2UO4" title="How to Implement Date & Time Picker Dialogs in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="7Wl-G8aXxDA" title="Creating Your First Hello World KMM App (Kotlin Multiplatform Mobile) - KMM for Beginners" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="TzV0oCRDNfM" title="How to Observe Internet Connectivity in Android - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="LP623htmWcI" title="Local Notifications in Android - The Full Guide (Android Studio Tutorial)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="MfJB-JhRAoQ" title="Full Guide to Delegation in Kotlin - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="cDane_13zQs" title="My CI/CD Course is LIVE!" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="VWlwkqmTLHc" title="In-Depth Guide to Coroutine Cancellation & Exception Handling - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="eAbKK7JNxCE" title="How to Build an MVI Clean Code Weather App in Android Studio (Jetpack Compose)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="O7rPeWnCvhc" title="The Top 3 Clean Architecture Mistakes in Android" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="mWb_hEBLIqA" title="THIS Is How You Schedule Alarms on Android with AlarmManager" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="UiQWb3T2G-U" title="How to Execute Code When the Android Device Is Booting Up" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="ntlyrFw0F9U" title="How to Create a Magic Text That Always Fits Its Container - Jetpack Compose Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="qYzhqFdUEQg" title="Let's Migrate an XML Project to Jetpack Compose!" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="BYGMO5OirbI" title="Compose Live Edit?! 😍 - Philipp's Android News Google IO Special" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="zu8lQSVw4vk" title="How to Validate Forms with Clean Architecture (You're Doing it Wrong)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="uLs2FxFSWU4" title="How to Build a Clean Architecture Stock Market App 📈 (Jetpack Compose, Caching, SOLID)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="D6Eus3f6U9I" title="How to Implement Pagination With Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="gxWcfz3V2QE" title="Full Guide to Jetpack Compose Effect Handlers" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="Iw4qFryus4Q" title="How to Make a Stop Watch With Compose Desktop" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="S61mXlMQkLY" title="Clean Theming in Compose (You're Doing It Wrong!)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="rk6aKkWqqcI" title="Unit Testing Flows - The Ultimate Guide to Kotlin Flows (Part 4)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="IlIuBwXhb3Y" title="How to Make a Chat App With Ktor - Building the Android App - Part 2" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="pvNcJXprrKM" title="How to Implement a Multi-Select LazyColumn in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="ND56_94wxJY" title="How to Send Push Notifications With OneSignal &amp; Ktor" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="D09Y9wjkXfI" title="Custom UI Component with Jetpack Compose &amp; Canvas | Part #4 - Final Touch" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="8YPXv7xKh2w" title="How to Make a Clean Architecture Note App (MVVM / CRUD / Jetpack Compose) - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="buZy3dtkr9o" title="Save 1h a Week With These Android Studio Shortcuts" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="qzzkui-Z6CM" title="How to Make Your Code Clean With Kotlin Sealed Classes" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="cCIPYW_N12o" title="Canvas Basics in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="EF33KmyprEQ" title="How to Make a Clean Architecture Cryptocurrency App (MVVM, Use Cases, Compose) - Android Studio" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="aIGY1tWekGw" title="Clean Architecture Social Network With Jetpack Compose - Twitch Recording" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="p-hTPeOIYsI" title="MVVM Chat App with Stream - Introduction &amp; Login screen - Part 1" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="bgpyuuzMlo0" title="Shrink, Optimize and Secure Your App With R8 &amp; ProGuard - Full Guide" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="Qk2mIpE_riY" title="LiveData deprecated? - Full Guide to StateFlow" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="Kw4_i4l5y4s" title="Instagram Profile UI in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="WdQUDHOwlgE" title="How to Make a 3D Animated Drop Down in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="2mKhmMrt2Ok" title="How to Make a Timer in Jetpack Compose - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="C-DYZopXH68" title="Doodlekong With Programming YouTubers - only with tech words!" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="EeLz1DPMsW8" title="How to Use Internal Storage (Save, Load, Delete) - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="dEASm7nv7DA" title="Saving Files in External / Scoped Storage (API 30+) - Android Studio Tutorial" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="xGbr9LOSbC0" title="Testing Room Databases - Testing on Android - Part 6" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="UR-lrDimmPI" title="Pokémon Detail Screen (3) - MVVM Pokédex App With Jetpack Compose - Part 9" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="trVmP1rw0uw" title="Simple Animations - Android Jetpack Compose - Part 11" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="cDabx3SjuOY" title="Creating Your First Jetpack Compose App - Android Jetpack Compose - Part 1" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="XqkFTG10sRk" title="Project Overview &amp; Architecture - MVVM Running App (WITH DAGGER-HILT!) - Part 1" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="bOd3wO0uFr8" title="The FULL Beginner Guide for Room in Android | Local Database Tutorial for Android" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="Z0Y3JJGHSnQ" title="GPT-4 for Mobile Development | 4 Tips How YOU Can Save HUNDREDS of Hours" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="NgQ5_QnoJb8" title="Full Guide to the Google Play Review API In Android" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="D3JCtaK8LSU" title="The ULTIMATE Permission Handling Guide (Showing rationale + Permanently Declined)" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="O7rPeWnCvhc" title="The Top 3 Clean Architecture Mistakes in Android" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="mWb_hEBLIqA" title="THIS Is How You Schedule Alarms on Android with `AlarmManager`" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="nzQ4HE0DMDg" title="Transparent Status Bar In Android In Less Than a Minute" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="4D79It7Jnzg" title="THIS Compose-State Mistake Leads to Problems In Your Code" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="0G_1XCRlpYM" title="You're Collecting Your Flows Wrong In Compose | THIS Is Why" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="irIGZj1YON8" title="Building Your First Wear OS App with Jetpack Compose - Full Crash Course" />
-<YoutubeItem channelName="Philipp Lackner" channelId="PhilippLackner" id="QCSJfMqQY9A" title="How to Implement a Context Drop Down Menu In Jetpack Compose" />
-
-:::
+<MyYouTubeItems jsonName="yu-PhilippLackner" />
 
 <!-- Philipp Lackner -->
 
@@ -530,8 +460,21 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Code with Joyce
 
+<MyYouTubeItems jsonName="yu-soja0524" />
 
+<!-- Code with Joyce -->
+
+---
+
+## Build Apps With Paulo
+
+<MyYouTubeItems jsonName="yu-BuildAppsWithPaulo" />
+
+<!-- Build Apps With Paulo -->
+
+---
 
 
 <TagLinks />

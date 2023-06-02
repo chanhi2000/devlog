@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ElijahManor",
+    "name": "Elijah Manor",
+    "profile": "https://yt3.googleusercontent.com/i_1NpmhDXYdqB9FqjzS7dLBSWD2Xy9dWJ6w07dW4yt7hREWLePaS1m6Jsrg8Be5ruqCEoNzJ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "a_ZpTPaSn38", 
+      "title": "LazyVim: Linting and Formatting"
+    }, {
+      "id": "3TRouzuWOuQ", 
+      "title": "Neovim 0.9 New Features"
+    }
+  ]
+}

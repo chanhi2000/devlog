@@ -99,36 +99,11 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ## Nick Chapsas
 
-[Nick Chapsas][yu-nickchapsas]
-
-::: details 목록
-
-:::
+<MyYouTubeItems jsonName="yu-nickchapsas" />
 
 <!-- Nick Chapsas -->
 
 ---
-
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="mgeuh8k3I4g" title="Adding JWT Authentication &amp; Authorization in ASP.NET Core" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="4FFYefcx4Bg" title="Build Clean Messaging in .NET with MassTransit" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="QqNmUmmVH-Y" title="The Fastest Way To Work With Lists in C#! | .NET Tips 6" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="aTDUY66tlxk" title="NativeAOT for .NET APIs Is Here and It’s INSANE!" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="J2tBNTDMf1o" title="Cleaning up Your Validation Code in .NET" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="8Asq7ymF1R8" title="Implementing Modern API Versioning in .NET" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="aaC16Fv2zes" title="Settling the Biggest Await Async Debate in .NET" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="z2CKQFi746Q" title="ChatGPT can write better code than me" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="E4TeWBFzcCw" title="The BEST way to reset your database for testing in .NET" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="ileC_qyLdD4" title="How to await ANYTHING in C#" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="E1LXQd1M-ck" title="Controlling your debugging experience in C\#" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="rdWZo5PD9Ek" title="How to create your own project templates in .NET" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="1JAdZul-aRQ" title="How to create your own Fluent API in C#" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="bLKXqJwRNSY" title="How to work with text in .NET like a pro with Humanizer" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="YU3ohofu6UU" title="Writing robust integration tests in .NET with WireMock.NET" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="EEeVU0z26u0" title="Getting started with Behavior Driven Development \(BDD\) in .NET using SpecFlow" />
-<YoutubeItem channelName="Nick Chapsas" channelId="nickchapsas" id="lQu-eBIIh-w" title="8 await async mistakes that you SHOULD avoid in .NET" />
-
-
-
 
 ## Kim Too
 
@@ -151,14 +126,7 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ## PetDander Tutorials
 
-[PetDander Tutorials][yu-pet-dander-tutorials]
-
-::: details 목록
-
-<YoutubeItem channelName="PetDander Tutorials" channelId="PetDanderTutorials" id="qfH6Y7p4J7U" title="C# Programming: Building Windows Form Contact List \(GUI Application\)" />
-<YoutubeItem channelName="PetDander Tutorials" channelId="PetDanderTutorials" id="5CJtjW5nXkU" title="Visual Basic Introduction:  Wage Calculator" />
-
-:::
+<MyYouTubeItems jsonName="yu-PetDanderTutorials" />
 
 <!-- PetDander Tutorials -->
 
@@ -166,35 +134,15 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ## Raw Coding
 
-[Raw Coding][yu-raw-coding]
-
-::: details 목록
-
-<YoutubeItem channelName="Raw Coding" channelId="RawCoding" id="Wv9Eh1tey1U" title="Docker Explained \| ASP.NET Core Example" />
-<YoutubeItem channelName="Raw Coding" channelId="RawCoding" id="il9gl8MH17s" title="C# Async/Await/Task Explained \(Deep Dive\)" />
-
-:::
+<MyYouTubeItems jsonName="yu-RawCoding" />
 
 <!-- Raw Coding -->
 
 ---
 
-
-
-
 ## DotNet Core Central
 
-[DotNet Core Central][yu-dotnet-core-central]
-
-::: details 목록
-
-<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="H_Jd7nss3e8" title="Create proper request/response contract for Swagger" />
-<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="SzIAGR2oL9Q" title="An Introduction to Amazon SNS with AWS Lambda (Using .NET Core and C#)" />
-<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="QF1GHqkiiIQ" title="Debugging and Dependency Injection for Blazor WebAssembly (.NET 5.0)" />
-<YoutubeItem channelName="DotNet Ctmpore Central" channelId="DotNetCoreCentral" id="Cm2psU-zN90" title="RabbitMQ Direct Exchange producer/consumer (Part 2, RabbitMQ in .NET Core)" />
-<YoutubeItem channelName="DotNet Core Central" channelId="DotNetCoreCentral" id="vWkPdurauaA" title="ASP.NET Core Authentication with JWT  (JSON Web Token)" />
-
-:::
+<MyYouTubeItems jsonName="yu-DotNetCoreCentral" />
 
 <!-- DotNet Core Central -->
 
@@ -202,25 +150,7 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ## Hassan Habib
 
-[Hassan Habib][yu-hassan-habib]
-
-::: details 목록
-
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="eBrHCGe1KQA" title="OPENAI031: Fine-Tuning Models Services (Part 1)" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="2Joa5iA1AKE" title="Modularizing SDK Service Providers" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="yOgreCMzaUA" title="Generating ASP.NET Pipelines in C#" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="juyZCgF9g2E" title="Upgrading ASP.NET Core API to .NET 6" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="jWIPkpl6Yr0" title="EFS003: Initialize ASP.NET Core Unit Tests" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="qI1vIuGb9lo" title="BLZ007: Base Components" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="YlqTLtqh--4" title="BLZ006: View Services in Blazor \(Validations &amp; Exceptions\)" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="YYqheVfaNIU" title="BLZ003: Services in Blazor \(Validations\)" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="ufjtuAel538" title="Upgrading to .NET 5.0 RC w/ C# 9.0" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="5Htj8JFglb4" title="BLZ001: Introduction to Blazor" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="JQnTpGV-7YA" title="OPENAI000: Getting Started" />
-<YoutubeItem channelName="Hassan Habib" channelId="HassanHabib" id="JEb0BA8CgFk" title="Standardized Provider Abstraction Libraries" />
-
-
-:::
+<MyYouTubeItems jsonName="yu-HassanHabib" />
 
 <!-- Hassan Habib -->
 
@@ -228,55 +158,23 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ## Zoran Horvat
 
-[Zoran Horvat][yu-zoran-horvat]
-
-::: details 목록
-
-<YoutubeItem channelName="Zoran Horvat" channelId="zoran-horvat" id="3p93Q6ivbZ4" title="Master the Builder Pattern: The King of Creational Design Patterns in C# | ASP.NET Core Tutorial" />
-<YoutubeItem channelName="Zoran Horvat" channelId="zoran-horvat" id="fzEFgIreHHM" title="Kill Anemic Domain Models with Encapsulation: The Hard Part" />
-<YoutubeItem channelName="Zoran Horvat" channelId="zoran-horvat" id="4rQ0jFmKSgk" title="Are Design Patterns Dead in C#?" />
-
-:::
+<MyYouTubeItems jsonName="yu-zoran-horvat" />
 
 <!-- Zoran Horvat -->
 
 ---
 
+## RJ Code Advance EN
+
+<MyYouTubeItems jsonName="yu-RJCodeAdvanceEN" />
+
+<!-- RJ Code Advance EN -->
+
+---
+
 ## dotnet
 
-[dotnet][yu-dotnet]
-
-::: details 목록
-
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="X1_QeH1yAto" title="Languages &amp; Runtime Community Standup - Source Generation Interceptors" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="BKYcw_sM_aY" title="Let's Learn .NET - Azure | #SamosaChai.NET" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="0cqtHWfgS5E" title="On .NET Live - Building web apps using MVVM" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="xyus7zlmgdc" title="OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="FhBgj9yORy4" title="Learn C# with CSharpFritz - Introduction to .NET MAUI" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="vc22hoUorzA" title=".NET Conf: Focus on MAUI" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="qfaQijTimxo" title="Develop amazing Windows apps using the Windows App SDK" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="4Xzx7Cm9ykg" title="Let's Learn .NET - Blazor" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="UnbJrC0WN1U" title="ASP.NET Community Standup - Balea authorization framework" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="Mpf0fCO6NrU" title="ASP.NET Community Standup - Building HTTP APIs" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="Ev4oT5fGROo" title="C# with CSharpFritz S2 E6 - Build for the Live Web with SignalR" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="u898_hiWJY0" title="C# with CSharpFritz - S2 E7 - Introducing Authentication and Authorization with ASP.NET Core" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="lmHU1zD2mvA" title="Entity Framework Community Standup - Introducing MSBuild.Sdk.SqlProj" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="biL1XOcg8Us" title="The .NET Docs Show - Functional Fun with F#" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="0AhIXUqfXTo" title="C# with CSharpFritz - S2 Ep 3: ASP.NET Core MVC, Part 2" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="ODBR7kZHp-s" title="GraphQL Schema stitching" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="2xeKomASV0E" title="The .NET Docs Show - Let's code a drone 🛸 to follow faces with Bruno Capuano" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="lzVZSKcC-oY" title="The .NET Docs Show - Blazor &amp; Comet ☄️ for Native Mobile Apps with Sam Basu" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="TeHVd3UlfY8" title=".NET Microservices with DAPR" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="gmopA3LEEeE" title="Blazor for Web Form and C# Developers" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="0tQNsHc-410" title="\[Korean\] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="jaPk6Nt33KM" title="Languages &amp; Runtime Community Standup - Dive into C# internals" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="DeegkS0Vf9o" title="How do I use SQL Server with C# and .NET?" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="kwJt6GcVlt4" title="[Korean] Load Testing ASP.NET Apps on AKS through GitHub Actions" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="i8tMiWHK05M" title="[Korean] Blazor Hybrid for Mobile App Development &amp; Deployment with App Center" />
-<YoutubeItem channelName="dotnet" channelId="dotnet" id="zHgYDZK3MrA" title=".NET Migration Overview [1 of 18] Migrating from ASP.NET to ASP.NET Core" />
-
-:::
+<MyYouTubeItems jsonName="yu-dotnet" />
 
 <!-- dotnet -->
 
@@ -293,5 +191,4 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 [yu-raw-coding]: https://www.youtube.com/@RawCoding
 [yu-dotnet-core-central]: https://www.youtube.com/@DotNetCoreCentral
 [yu-hassan-habib]: https://www.youtube.com/@HassanHabib
-[yu-dotnet]: https://www.youtube.com/@dotnet
 [yu-zoran-horvat]: https://www.youtube.com/@zoran-horvat

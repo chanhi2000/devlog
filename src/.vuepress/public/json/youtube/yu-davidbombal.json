@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "davidbombal",
+    "name": "David Bombal",
+    "profile": "https://yt3.googleusercontent.com/ZeokXdjeXW_6CpcChqvVBEBcHoJ9TAaLTnQj8yT942LLV8afhmUv6zLtqzbNS1uPnernj3SPshA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "VcV4T8cL3xw",
+      "title": "Certificates of Authority: Do you really understand how SSL / TLS works?"
+    }, {
+      "id": "CkVvB5woQRM",
+      "title": "Free API Hacking course!"
+    }, {
+      "id": "ES2P2hWuzDo",
+      "title": "Metasploit"
+    }, {
+      "id": "fffSbCbafts",
+      "title": "Do you need a Cybersecurity home lab?"
+    }, {
+      "id": "HemWKwd2AvM",
+      "title": "Your path to success || Network Engineer in 2021"
+    }, {
+      "id": "VAMP8DqSDjg",
+      "title": "Kali Linux 2020.3 install Windows 10 (for free)"
+    }, {
+      "id": "tA50zg7D4mg",
+      "title": "Kali Linux install macOS in 10 min (Free VMware)"
+    }, {
+      "id": "IB1uKovH_Lw",
+      "title": "Cisco Packet Tracer Networks | Free CCNA 200-301 Course | Video #5"
+    }, {
+      "id": "oTD8cYluUgk",
+      "title": "Kali Linux: WSL 2 install and GUI setup"
+    }, {
+      "id": "uWNpXOT-Zbo",
+      "title": "Windows Terminal: Finally!"
+    }, {
+      "id": "5RQbdMn04Oc",
+      "title": "WSL 2 with Docker getting started"
+    }, {
+      "id": "_fntjriRe48",
+      "title": "WSL 2: Getting started"
+    }, {
+      "id": "mtz-6CZIV6o",
+      "title": "Root Android (Kali Linux NetHunter install)"
+    }
+  ]
+}

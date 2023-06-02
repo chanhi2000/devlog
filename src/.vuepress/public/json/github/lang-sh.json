@@ -139,5 +139,10 @@
     "desc": "MacBook 自用软件破解（macOS Intel）",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "moraroy/NonSteamLaunchers-On-Steam-Deck",
+    "desc": "Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Currently Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala and the Rockstar Games Launcher. Now with SD Card Support.",
+    "topics": ["steam", "deck"],
+    "officialSite": "https://github.com/sponsors/moraroy"
   }
 ]

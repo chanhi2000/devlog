@@ -24,5 +24,10 @@
         "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates", 
         "topics": [],
         "officialSite": "" 
+    }, {
+      "repo": "microsoftgraph/microsoft-graph-docs",
+      "desc": "Documentation for the Microsoft Graph REST API",
+      "topics": ["microsoft-graph-documentation", "devxdocs"],
+      "officialSite": "os"
     }
 ]

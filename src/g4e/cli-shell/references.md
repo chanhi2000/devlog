@@ -81,6 +81,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## complete.org
+
+- [Usenet over NNCP](https://www.complete.org/usenet-over-nncp)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

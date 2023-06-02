@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "CodeBeauty",
+    "name": "CodeBeauty",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMsCEcRaUV2vl8EC7eZI5gkE3evUxbyf34ra9RU=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "jc-9wteVajs", 
+      "title": "I used web data to identify market trends (Practical App Programming tutorial)"
+    }, {
+      "id": "MR8SOQ619z0", 
+      "title": "Function pointers, delegates and callbacks | Beginner friendly"
+    }, {
+      "id": "FxQTXyR4mjs", 
+      "title": "Build C++ GUI apps FAST! Your first C++ GUI app!"
+    }
+  ]
+}

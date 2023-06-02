@@ -641,6 +641,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="qbHQLV9cAHw" title="18 Expense Tracker - Send Data From iOS to Vapor | Building in Public Livestream | Mikaela Caron" />
 <YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="YR6ECYOzYCY" title="16 Expense Tracker - Vapor API Responses | Building in Public Livestream | Mikaela Caron" />
 <YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="j0SQK5h1uTc" title="12 Expense Tracker - Fetch From Vapor API | SwiftUI | Building in Public Livestream | Mikaela Caron" />
 <YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="SW2UbAAMR0c" title="11 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron" />
@@ -1002,6 +1003,20 @@ tags: ["education", "youtube", "ios", "swift"]
 <MyYouTubeItems jsonName="yu-SergeyKargopolov" />
 
 <!-- Sergey Kargopolov -->
+
+---
+
+## AnthonyDesignCode
+
+<MyYouTubeItems jsonName="yu-AnthonyDesignCode" />
+
+<!-- AnthonyDesignCode -->
+
+---
+
+## iOS Conf SG
+
+<MyYouTubeItems jsonName="yu-iOSConfSG" />
 
 ---
 

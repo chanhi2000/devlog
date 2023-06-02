@@ -1548,5 +1548,15 @@
     "desc": "Build and run useful autonomous agents",
     "topics": ["python", "ai", "nextjs", "agi", "artificial-intelligence", "openai", "artificial-general-intelligence", "agents", "autonomous-agents", "pinecone", "gpt-4", "llm", "llmops", "superagi"],
     "officialSite": "https://superagi.com"
+  }, {
+    "repo": "princeton-nlp/MeZO",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "emptycrown/llama-hub",
+    "desc": "A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "b9FnonYxahU",
+      "title": "SQL Full Course | SQL Tutorial For Beginners | Learn SQL | Intellipaat"
+    }, {
       "id": "xQxPznGGjcs",
       "title": "Power BI Full Course 2023 | Power BI Tutorial For Beginners | Power BI Course | Intellipaat"
     }, {
@@ -101,5 +104,6 @@
     }
   ]
 }
+
 
 

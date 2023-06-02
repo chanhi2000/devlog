@@ -109,6 +109,13 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ---
 
+## devaslife
+
+<MyYouTubeItems jsonName="yu-devaslife" />
+
+<!-- devaslife -->
+
+---
 
 ## Telusko
 
@@ -139,6 +146,14 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <MyYouTubeItems jsonName="yu-LearnitTraining" />
 
 <!-- Learnit Training -->
+
+---
+
+## CodingEntrepreneurs
+
+<MyYouTubeItems jsonName="yu-CodingEntrepreneurs" />
+
+<!-- CodingEntrepreneurs -->
 
 ---
 

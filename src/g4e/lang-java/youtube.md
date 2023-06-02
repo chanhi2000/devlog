@@ -22,48 +22,7 @@ meta:
 
 ## Amigoscode
 
-[Amigoscode][yu-amigoscode]
-
-::: details 목록
-
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="9i1gQ7w2V24" title="Spring Boot, React.js & AWS S3 Full Stack Development" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="27t5I-9VaPQ" title="stop using H2 in memory-database RIGHT NOW" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="9SGDpanrc8U" title="Spring Boot Tutorial | Full Course [2022] [NEW]" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="-mwpoE0x0JQ" title="Spring Boot - Learn Spring Boot 3 (2 Hours)" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="WxZdK7YN8Fw" title="Oh Boy Look At These API Endpoints. Seriously" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="KxqlJblhzfI" title="Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation [NEW] [2023]" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="QWOgkI4DuE8" title="Microservices using Spring Boot and Spring Cloud - HTTP Communication #2" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="GN6ICac3OXY" title="FastAPI Tutorial - Building RESTful APIs with Python" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="Www6cTUymCY" title="MongoDB Tutorial For Beginners | Full Course" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="LQlypTjmgZM" title="Spring Boot Tutorial - Spring Boot Actuator" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="Geq60OVyBPg" title="Software Testing Tutorial - Learn Unit Testing and Integration Testing" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="yznvWW_L7AA" title="Kubernetes Tutorial For Beginners - Learn Kubernetes" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="xZq8wETULoM" title="Spring Boot Tutorial - Full Stack Web Development with React [Course Overview]" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="QwQuro7ekvc" title="Java Tutorial - Complete User Login and Registration Backend + Email Verification" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="Gx4iBLKLVHk" title="Spring Boot Full Stack with Angular | Full Course [2021] [NEW]" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="8SGI_XS5OPw" title="Spring Boot Tutorial | Spring Data JPA | 2021" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="8fbfHu8isI4" title="Spring Boot 2.1 Tutorial | Connecting to Databases | 2019" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="bhBSlnQcq2k" title="Docker and Kubernetes Tutorial |  Full Course [2021]" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="z6gOPonp2t0" title="Test Driven Development (TDD) | Crash Course | 2020" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="TPRSJbtfK4M" title="Bash Script with Practical Examples | Full Course" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="i-hoSg8iRG0" title="Spring Boot Tutorial | Spring Boot Full Stack with React.js | Full Course | 2021" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="dOnAC2Rr-6A" title="Javascript Full Course for Beginners to Advanced" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="VRpHdSFWGPs" title="Java Functional Programming | Full Course" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="YMBzrRxkbA4" title="JSON Web Token | JWT Tutorial" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="her_7pa0vrg" title="Spring Security | FULL COURSE" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="PzK4ZXa2Tbc" title="Spring Boot Tutorial | How To Handle Exceptions" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="ZA9WpK-lxXM" title="Spring Boot: Connecting to AWS (RDS)" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="Ke7Tr4RgRTs" title="Spring Boot - Getting started with Spring Boot (EASY)" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="r-6BwGW4Sr8" title="Spring Boot Tutorial For Beginners" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="-bb3YjYh10w" title="How I built two of the most addictive GAMES ever with Java and ChatGPT 4" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="hYMGMYoJCag" title="IT'S A SCAM - ATTENTION PLEASE 🚨" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="-a9GtkLrXkw" title="Junior Developer Sent Me A PR For Review" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="xJC7ItRoEbw" title="N Tier Architecture Tutorial - Software Design" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="rjDUpxtUPAE" title="10 Most Common Java Developer Mistakes" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="CT8dbbe783s" title="10 Spring and Spring Boot Common Mistakes You Need To STOP" />
-<YoutubeItem channelName="Amigoscode" channelId="amigoscode" id="dCYv5wXGHWw" title="this is why your code is slow..." />
-
-:::
+<MyYouTubeItems jsonName="yu-amigoscode" />
 
 <!-- Amigoscode -->
 

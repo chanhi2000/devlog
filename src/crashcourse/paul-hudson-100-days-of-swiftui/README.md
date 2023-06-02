@@ -283,7 +283,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-4]: 4.md
 [day-5]: 5.md
 [day-6]: 6.md
-[day-7]: https://www.hackingwithswift.com/100/swiftui/7
+[day-7]: 7.md
 [day-8]: https://www.hackingwithswift.com/100/swiftui/8
 [day-9]: https://www.hackingwithswift.com/100/swiftui/9
 [day-10]: https://www.hackingwithswift.com/100/swiftui/10

@@ -138,6 +138,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ::: details 목록
 
+<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="35VnP0Rz71I" title="Beautiful + Interactive Dashboard in Excel in 30 minutes (with free sample files)" />
 <YoutubeItem channelName="Chandoo" channelId="chandoo_" id="yJum0g4qM2c" title="FREE Power Query Materclass with 5 Advanced Tips to SPEED UP your work 🚀" />
 <YoutubeItem channelName="Chandoo" channelId="chandoo_" id="B1WWWGeFqTM" title="Top 5 Excel Functions for Finance People \(with end-to-end example\)" />
 <YoutubeItem channelName="Chandoo" channelId="chandoo_" id="y8CXwOaMrdE" title="Impress your boss with Waffle Charts in Excel - Easy Recipe" />

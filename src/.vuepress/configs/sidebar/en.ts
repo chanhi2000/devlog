@@ -650,7 +650,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/14.md',
         '/crashcourse/paul-hudson-100-days-of-swift/15.md',
         '/crashcourse/paul-hudson-100-days-of-swift/16.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/17.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/17.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/18.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -662,7 +663,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/3.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/4.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/5.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/6.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/6.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/7.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -698,7 +700,8 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/digitalocean-kubernetes/README.md',        
-        '/crashcourse/digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md' 
+        '/crashcourse/digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md',
+        '/crashcourse/digitalocean-kubernetes/2022/20221118-how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md',
       ]
     }, {
       text: '🐧Linux Journey',
@@ -720,6 +723,12 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/linux-journey/02-journeyman/02e-init.md',
         '/crashcourse/linux-journey/02-journeyman/02f-process-utilization.md',
         '/crashcourse/linux-journey/02-journeyman/02g-logging.md'
+      ]
+    }, {
+      text: '🦀Rust to Assembly',
+      collapsible: true,
+      children: [
+        '/crashcourse/eventhelix-rust-to-assembly/README.md',
       ]
     }, {
       text: '🧶Must Know JavaScript API',

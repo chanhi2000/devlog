@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "Exafunction/codeium.vim",
+    "desc": "Free, ultrafast Copilot alternative for Vim and Neovim",
+    "topics": ["javascript", "ruby", "python", "vim", "go", "editor", "rust", "golang", "autocomplete", "typescript", "extension", "neovim", "ide", "copilot", "codeium"],
+    "officialSite": "https://www.codeium.com"
+  }
+]
