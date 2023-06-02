@@ -6,6 +6,33 @@
   },
   "videos": [
     {
+      "id": "e2IbNHi4uCI",
+      "title": "Git Branches Tutorial"
+    }, {
+      "id": "GnodscC2p-A",
+      "title": "Build and Deploy a LeetCode Clone with React, Next JS, TypeScript, Tailwind CSS, Firebase"
+    }, {
+      "id": "qrZGfBBlXpk",
+      "title": "Django ChatGPT Clone Tutorial"
+    }, {
+      "id": "2JYT5f2isg4",
+      "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript"
+    }, {
+      "id": "OcTPaUfay5I",
+      "title": "Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript"
+    }, {
+      "id": "FRmCxj9K7II",
+      "title": "Full-Stack Next.js, TypeScript, and AWS Course –&nbsp;Code a Quote Generator"
+    }, {
+      "id": "8hly31xKli0",
+      "title": "Algorithms and Data Structures Tutorial - Full Course for Beginners"
+    }, {
+      "id": "K7ghUiXLef8",
+      "title": "Ionic &amp; Capacitor for Building Native Mobile Apps – Full Course for Beginners"
+    }, {
+      "id": "GizsSo-EevA",
+      "title": "Use ChatGPT to Code a Full Stack App – Full Course"
+    }, {
       "id": "ypNKKYUJE5o",
       "title": "JavaScript Security Vulnerabilities Tutorial  – With Code Examples"
     }, {

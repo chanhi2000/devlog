@@ -1513,7 +1513,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 <TagLinks />
 
 [yu-nnit]: https://www.youtube.com/@nnit
-[yu-SpringDeveloper]: https://www.youtube.com/@SpringSourceDev
 [yu-gaffclants]: https://www.youtube.com/@gaffclant
 [yu-honey-home-tip]: https://www.youtube.com/@HoneyHome_Tip
 [yu-tech-nolli]: https://www.youtube.com/@TechNolli
@@ -1626,7 +1625,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-kenji-explains]: https://www.youtube.com/@KenjiExplains
 [yu-nico-kock]: https://www.youtube.com/@NicoKock01
 [yu-devopsdean7830]: https://www.youtube.com/@devopsdean7830
-[yu-novaspirit-tech]: https://www.youtube.com/@NovaspiritTech
 [yu-matt-kc]: https://www.youtube.com/@MattKC
 [yu-old-tech-bloke]: https://www.youtube.com/@OldTechBloke
 [yu-fastcampus-tv]: https://www.youtube.com/@FASTCAMPUStv
@@ -1634,7 +1632,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-linux-tips]: https://www.youtube.com/@LinuxTips
 [yu-execute-automation]: https://www.youtube.com/@ExecuteAutomation
 [yu-landmarklabs]: https://www.youtube.com/@landmarklabs
-[yu-1-best-csharp-blog]: https://www.youtube.com/@1BestCsharpblog
 [yu-code-x]: https://www.youtube.com/@CodeXdev
 [yu-mr-dev-ops]: https://www.youtube.com/@MrDevOps
 [yu-masterbot]: https://www.youtube.com/@masterbot
@@ -1999,7 +1996,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-fox-learn]: https://www.youtube.com/@foxlearn
 [yu-djismgaming2116]: https://www.youtube.com/@djismgaming2116
 [yu-user-cj9zo7hb4p]: https://www.youtube.com/@user-cj9zo7hb4p
-[yu-1best-csharp-blog]: https://www.youtube.com/@1BestCsharpblog
 [yu-startupkaist5779]: https://www.youtube.com/@startupkaist5779
 [yu-freddingo33]: https://www.youtube.com/@freddingo33
 [yu-chris-tutorial]: https://www.youtube.com/@ChrisTutorialsYT

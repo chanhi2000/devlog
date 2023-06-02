@@ -97,31 +97,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## CodingNepal
 
-[![CodingNepal](https://yt3.googleusercontent.com/VYLLrblIs_umHCFyK_-q5HJLfB-aDc5ax94uUjNaU5IQXZAlMn6bMVPG-AaLR3-k5_HcBMcI6MA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-coding-nepal]
-
-::: details 목록
-
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="fIrmN3dTKk8" title="Make Typing Dots Animation in HTML &amp; CSS" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="Ac9Z6UtHdZ0" title="Create A Draggable Bottom Sheet Modal in HTML CSS &amp; JavaScript | Bottom Sheet Modal in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="KADY-DkNrhk" title="Check Internet Connection in HTML CSS &amp; JavaScript | Check Offline or Online Status in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="coj-l7IrwGU" title="How to Make Chrome Extension in HTML CSS &amp; JavaScript | Color Picker Extension in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="BNOaWqP4X_U" title="Draggable Slider Tabs Like YouTube in HTML CSS &amp; JavaScript | Slider Tabs in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="4-s3g_fU7Vg" title="Word Scramble Game in HTML CSS &amp; JavaScript | Word Game in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="YTpftUSV1aA" title="How to Take Screenshots in Vanilla JavaScript | Capture Screenshot in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="y84tBZo8GFo" title="Build A Drawing or Paint App in HTML CSS &amp; JavaScript | Drawing App in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="1-CvPn4AbT4" title="Create Custom Music Player in HTML CSS &amp; JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="VnvzxGWiK54" title="Chat Application using PHP with MySQL &amp; JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="Gd7T5_3tjYQ" title="Vertical Card Sliding Animation using only HTML &amp; CSS" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="-uzOuGlUfDQ" title="Responsive Vertical Timeline Design using only HTML &amp; CSS" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="QxMBHi_ZiT8" title="Search Bar with Auto-complete Search Suggestions using HTML CSS &amp; JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="V0O4pY2xX10" title="Sidebar Menu using HTML &amp; CSS" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="H5bpLzBeLww" title="Build A Gradient Color Generator in HTML CSS &amp; JavaScript | Gradient Generator in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="6QE8dXq9SOE" title="Create A Draggable Card Slider in HTML CSS &amp; JavaScript | Infinite Image Slider in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="UHAuPmPtwuQ" title="Password Validation Check in HTML CSS &amp; JavaScript | Password Strength Check in JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="bnANtwr0fTU" title="Create Functional Image Gallery in HTML CSS &amp; JavaScript | Pexels Clone HTML CSS &amp; JavaScript" />
-<YoutubeItem channelName="CodingNepal" channelId="CodingNepal" id="KADY-DkNrhk" title="Check Internet Connection in HTML CSS &amp; JavaScript | Check Offline or Online Status in JavaScript" />
-
-:::
+<MyYouTubeItems jsonName="yu-CodingNepal" />
 
 <!-- CodingNepal -->
 
@@ -208,25 +184,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Coding in Flow
 
-[Coding in Flow][yu-codinginflow]
-
-::: details 목록
-
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="FcxjCPeicvU" title="Complete MERN Beginner Course [2023] (TypeScript, Authentication, Deployment...)" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="qmQK-ifx9PM" title="Hide/Show Software Keyboard Programmatically with KeyboardVisibilityEvent Library - Android Tutorial" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="lS26PLG1_Ws" title="How to Create a Rate Me Dialog with the Android-Rate Library - Android Studio Tutorial" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="esWDhcxH7tA" title="Detect WiFi State Changes with BroadcastReceiver - Android Studio Tutorial" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="eVsiefsFuoQ" title="Room Dependency Injection - MVVM To-Do List App with Flow and Architecture Components #4" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="Udk6iaR-RXA" title="Project Setup - MVVM To-Do List App with Flow and Architecture Components #1" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="yrpimdBRk5Q" title="AlarmManager - Android Studio Tutorial" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="4_CkU9L2mCo" title="Start App on Boot - Android Studio Tutorial" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="BO4zdmkTi48" title="How to Populate a Simple Spinner with Custom Objects - Android Studio Tutorial" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="ARpn-1FPNE4" title="Room + ViewModel + LiveData + RecyclerView (MVVM) Part 1 - WHAT ARE ANDROID ARCHITECTURE COMPONENTS?" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="SjSb7EFMd1M" title="How to Implement Email Verification in ExpressJS" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="sqCg75B7s84" title="React How to Add an Element to a State Array" />
-<YoutubeItem channelName="Coding in Flow" channelId="codinginflow" id="n53T47aVhLg" title="NextJS On-Demand ISR Revalidation Tutorial" />
-
-:::
+<MyYouTubeItems jsonName="yu-codinginflow" />
 
 <!-- Coding in Flow -->
 
@@ -424,20 +382,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Beyond Fireship
 
-[![Beyond Fireship](https://yt3.googleusercontent.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s176-c-k-c0x00ffffff-no-rj =x150)][yu-beyond-fireship]
-
-::: details 목록
-
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="shWEfRlmb6g" title="I built a fullstack PaLM AI app in just 2 minutes" />
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="0fONene3OIA" title="The ultimate guide to web performance" />
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="O94ESaJtHtM" title="Next.js Server Actions...  5 awesome things you can do" />
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="qo_fUjb02ns" title="Industrial-scale Web Scraping with AI &amp; Proxy Networks" />
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="ZZIR1NGwy-s" title="Dramatically improve website speed with Partytown" />
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="UbOaAtHWidc" title="The easiest realtime app I’ve ever built" />
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="TGe3pS5LqEw" title="How to make Eyeballs that Follow You Around" />
-<YoutubeItem channelName="Beyond Fireship" channelId="beyondfireship" id="T33NN_pPeNI" title="Subtle, yet Beautiful Scroll Animations" />
-
-:::
+<MyYouTubeItems jsonName="yu-beyondfireship" />
 
 <!-- Beyond Fireship -->
 

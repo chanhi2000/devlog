@@ -4,5 +4,10 @@
     "desc": "Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "microsoft/hack-together-teams",
+    "desc": "HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win 👇",
+    "topics": ["javascript", "microsoft", "dotnet", "hackathon", "microsoft-teams"],
+    "officialSite": "https://aka.ms/hack-together-teams/register"
   }
 ]

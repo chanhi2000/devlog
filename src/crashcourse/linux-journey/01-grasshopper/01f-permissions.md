@@ -105,9 +105,9 @@ Can you guess what permissions we are giving this file? Let's break this down, s
 
 Wait a minute, `7` and `5` weren't listed above, where are we getting these numbers? Remember we are combining all the permissions into one number now, so you'll have to get some math involved.
 
-- $$7=4+2+1$$, so 7 is the user permissions and it has read, write and execute permissions
-- $$5=4+1$$, the group has read and execute permissions
-- $$5=4+1$$, and all other users have read and execute permissions
+- $7=4+2+1$, so 7 is the user permissions and it has read, write and execute permissions
+- $5=4+1$, the group has read and execute permissions
+- $5=4+1$, and all other users have read and execute permissions
 
 One thing to note: it's not a great idea to be changing permissions nilly willy, you could potentially expose a sensitive file for everyone to modify, however many times you legitimately want to change permissions, just take precaution when using the chmod command.
 

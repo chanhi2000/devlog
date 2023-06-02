@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "AWSKorea",
+    "name": "Amazon Web Services Korea",
+    "profile": "https://yt3.googleusercontent.com/2TED-1u7nNghgY-20Qoq4xWq6RNjDv-aiI1tH681vVAZg_-M2fArMIU5k-mdO7gM26_qrhGXIA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "78EjMQYt0O0",
+      "title": "크래프톤 - PUBG: Battlegrounds 라이브 서비스 EKS 전환 사례 공유"
+    }, {
+      "id": "S3jHtOHdGm4",
+      "title": "AWS re:Invent 2022 - 엔터프라이즈 클라우드 여정 모범 사례 - 한진 및 LG CNS (GEO101)"
+    }, {
+      "id": "BcoekcPRKWc",
+      "title": "AWS Lambda 기초부터 실전까지"
+    }, {
+      "id": "ZRPdVY5lFBM",
+      "title": "AWS Fargate와 Amazon ECS를 활용한 CI/CD 모범사례 - 유재석, AWS 솔루션즈 아키텍트 :: AWS Game Master 온라인 세미나"
+    }, {
+      "id": "hJ7J8dMCxgU",
+      "title": "게임 개발자를 위한 데이터베이스 선택 길라잡이 :: AWS Game Master 온라인 시리즈 - 제2화"
+    }, {
+      "id": "fdoaUq49dSA",
+      "title": "AWS 미디어서비스를 통한 라이브 및 온디맨드 동영상 워크플로 구성 및 배포하기 - 김영진:: AWS Builders Online Series"
+    }, {
+      "id": "tTg9Lp7Sqok",
+      "title": "AWS Lambda 컨테이너 이미지 서비스 활용하기 – 김태수:: AWS Builders Online Series"
+    }, {
+      "id": "n7NSuj_wPmI",
+      "title": "Amazon Connect Chat 에서 Amazon Chime SDK로 화상 통화 연동하기 – 김정곤&임석영:: AWS Builders Online Series"
+    }, {
+      "id": "piQI4Hs2jmk",
+      "title": "클라우드 네이티브 기반 사진 공유 애플리케이션 만들어 보기 – 김필중:: AWS Builders Online Series"
+    }, {
+      "id": "wgJYt_VF6yA",
+      "title": "AWS에서 시작하는 Container 생활 – 강인호:: AWS Builders Online Series"
+    }, {
+      "id": "iPKaylieTV8",
+      "title": "IAM 정책을 잘 알아야 AWS 보안도 쉬워진다. 이것은 꼭 알고 가자! - 신은수 솔루션즈 아키텍트(AWS)"
+    }, {
+      "id": "XLr55NXsHmA",
+      "title": "인프라 기조연설 요약 및 Deep Dive - Container 살펴보기 :: AWS re:Invent Daily Recap (12월 11일)"
+    }, {
+      "id": "lGw2y-GLBbs",
+      "title": "AWS 기반 Kubernetes 정복하기 - 정영준 솔루션즈 아키텍트(AWS)"
+    }, {
+      "id": "16LNWMqphOA",
+      "title": "AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)"
+    }
+  ]
+}

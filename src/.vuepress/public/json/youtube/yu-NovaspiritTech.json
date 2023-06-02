@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id": "W6VtfEwzFc0", 
+      "title": "Using Different Models On Stable Diffusion"
+    }, {
+      "id": "xMrilkJ21yo", 
+      "title": "How To Install Stable Diffusion With Prompting Cheat Sheets"
+    }, {
       "id": "8IfTXJRAIJw",
       "title": "From Start to Finish Build a Desktop on a Browser Docker Container"
     }, {

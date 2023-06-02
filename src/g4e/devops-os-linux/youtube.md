@@ -313,23 +313,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## VMware Tanzu
 
-[VMware Tanzu][yu-vmware-tanzu]
-
-::: details 목록
-
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="uaSfQKT7LIM" title="🛠️ Kubernetes Tools Worth Paying For, from the 2023 VMware State of Kubernetes Survey  📊" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="gsyGOv_Nwb0" title="⚡️ Enlightning - Carvel: Clean Tools for Cloud Native Problems" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="zzK6E2TS2Kc" title="KubeAcademy Office Hours Core Concepts Part 1 Platform v2" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="6WfxWfIwoAU" title="Code - Spring for GraphQL" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="kiCRfdRBiuw" title="Tanzu.TV/Code - Testing the Web Layer with Spring with Jakub Pilimon" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="R9mNUfvp8Dg" title="Tanzu Tuesdays - Top tips for running Spring Boot applications on Kubernetes with Ollie Hughes" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="aHRmveIdsV0" title="Tanzu.TV/code - Kubernetes and Spring: a Rom-Com for the Ages with Josh Long" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="9v927WQ7NWM" title="Automated Refactoring for Spring-Based Applications with Jonathan Schneider" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="YlJrl0nDPaQ" title="The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="eGFdEXw9eLE" title="⚡️ Enlightning - Software Defined Cloud Dev Environments with the Devfile" />
-<YoutubeItem channelName="VMware Tanzu" channelId="VMwareTanzu" id="a0zUCc2gKL8" title="Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices" />
-
-:::
+<MyYouTubeItems jsonName="yu-VMwareTanzu" />
 
 <!-- VMware Tanzu -->
 

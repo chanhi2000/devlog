@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "beyondfireship",
+    "name": "Beyond Fireship",
+    "profile": "https://yt3.googleusercontent.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "-uN1Q98UMO4", 
+      "title": "Most overpowered way to build mobile apps?"
+    }, {
+      "id": "4QN1BzxF8wM", 
+      "title": "I tried 8 different Postgres ORMs"
+    }, {
+      "id": "shWEfRlmb6g", 
+      "title": "I built a fullstack PaLM AI app in just 2 minutes"
+    }, {
+      "id": "0fONene3OIA", 
+      "title": "The ultimate guide to web performance"
+    }, {
+      "id": "O94ESaJtHtM", 
+      "title": "Next.js Server Actions...  5 awesome things you can do"
+    }, {
+      "id": "qo_fUjb02ns", 
+      "title": "Industrial-scale Web Scraping with AI &amp; Proxy Networks"
+    }, {
+      "id": "ZZIR1NGwy-s", 
+      "title": "Dramatically improve website speed with Partytown"
+    }, {
+      "id": "UbOaAtHWidc", 
+      "title": "The easiest realtime app I’ve ever built"
+    }, {
+      "id": "TGe3pS5LqEw", 
+      "title": "How to make Eyeballs that Follow You Around"
+    }, {
+      "id": "T33NN_pPeNI", 
+      "title": "Subtle, yet Beautiful Scroll Animations"
+    }
+  ]
+}
+

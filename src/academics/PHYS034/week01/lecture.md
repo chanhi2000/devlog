@@ -244,6 +244,7 @@ $$
  - **Light** is no different from **EM wave** (i.e. microwave, radio wave, x-ray, etc.)
 
 ## LORENTZ TRANSFORMATION
+
 from GALILEAN TRANSFORMATION
 #### Gamma
 
@@ -258,7 +259,9 @@ x'=\gamma\left(x-\mathbf{V}t\right)
 $$
 
 - Einstein's Postulate says if we consider the distance to be
+
 $$d=rt$$
+
 $$
 \left\{\begin{align*}
 S'&:x'=ct';\\
@@ -313,9 +316,9 @@ $$
 
 #### TIME FOR LORENTZ TRANSFORMATION
 
-- An observer from frame $$S$$ can see the person's time in the other frame $$S'$$ is **dilated** when the frame $$S'$$ is moving at a speed **close to speed of light**. On that note, we need to know how to get the proper time, $$t'$$ measured by the observer from $$S$$ frame.
+- An observer from frame $S$ can see the person's time in the other frame $S'$ is **dilated** when the frame $S'$ is moving at a speed **close to speed of light**. On that note, we need to know how to get the proper time, $t'$ measured by the observer from $S$ frame.
 
-###### $$t$$ and $$t'$$
+###### $t$ and $t'$
 
 $$  
 \begin{align*}

@@ -6,6 +6,24 @@
   },
   "videos": [
     {
+      "id": "rly6U0yT5Kg",
+      "title": "Preparing web applications for Loom by Mark Thomas @ Spring I/O 2023"
+    }, {
+      "id": "xoPPTawF_vY",
+      "title": "What's new in Spring Batch 5 by Mahmoud Ben Hassine @ Spring I/O 2023"
+    }, {
+      "id": "6R6S91i_m50",
+      "title": "All your APIs are mine - Secure them now by Andreas Falk @ Spring I/O 2023"
+    }, {
+      "id": "mbNzUkNjrnA",
+      "title": "Anatomy of a Spring Boot App with Clean Architecture by Steve Pember @ Spring I/O 2023"
+    }, {
+      "id": "8umoZWj6UcU",
+      "title": "Going Native:  Fast and Lightweight Spring Boot Applications with GraalVM by Alina Yurenko"
+    }, {
+      "id": "Rv67A7eAdMQ",
+      "title": "Managing Spring Boot Application Secrets by Badr NASS LAHSEN @ Spring I/O 2023"    
+    }, {
       "id": "kiGNTPSkLgI",
       "title": "Analyzing Safe Flights, and Firey Wrecks with JDK Flight Recorder by Billy Korando - Spring I/O 2022"
     }, {

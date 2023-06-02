@@ -145,6 +145,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 18',
             link: '/crashcourse/paul-hudson-100-days-of-swift/18.md'
+          }, {
+            text: 'Day 19',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/19.md'
           }
         ]
       }, {
@@ -174,6 +177,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 7',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/7.md'
+          }, {
+            text: 'Day 8',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/8.md'
           }
         ],
       }, {

@@ -660,6 +660,9 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelId="StewartLynch" channelName="Stewart Lynch" id="AXGrYI78hIo" title="SwiftUI GeometryReader" />
+<YoutubeItem channelId="StewartLynch" channelName="Stewart Lynch" id="GhIP98ht7Bk" title="SwiftUI PreferenceKeys" />
+
 <YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="we0UmQECNRE" title="My Images  CD  Part 5 (Sharing Images -3)" />
 <YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="Z4SsSDM9dHU" title="My Images  CD  Part 4 (Sharing Images -2)" />
 <YoutubeItem channelName="Stewart Lynch" channelId="StewartLynch" id="lB3poCA8ZN4" title="Charts Framework  2 - Visualizing Large Data Sets with Bar Charts" />

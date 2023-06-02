@@ -82,35 +82,7 @@ meta:
 
 ## Tech Primers
 
-[Tech Primers][yu-tech-primers]
-
-::: details 목록
-
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="3-ChrD3Zosg" title="Spring Boot 3 | Circuit Breakers using Resilience4J | Microservices Resiliency Primer" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="9JPYCOpeDnY" title="Back to Monolithic App?  | Prime Video Case Study | Microservices to Monolith | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="K0uMsO7Vrgg" title="Spring Boot Server Sent Events Example | Unidirectional Streams | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="om-bvBu3-dU" title="Load Shedding in Kubernetes | Readiness Probes | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="KStr5ZspNvM" title="Session Management using Spring Session Redis in Spring Boot | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="lJ_XAol-OKM" title="Jaeger Tracing with Spring Boot | Distributed Log Tracing in Spring Boot | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="18MFi5jrr2s" title="GraphQL API ft. AWS AppSync and Amazon DynamoDB | API Primer" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="BIy6n-uXWCY" title="Stream Processing Example using Spring Cloud Data Flow, Kinesis Data Streams, EKS | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="BfJvxGs-HxQ" title="What is Jenkins? How to run a maven GitHub project in Jenkins? | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="sK9_c9gSR8M" title="Getting started with Azure Kubernetes Service | Skaffold with Spring Boot Example | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="9MAU-O5jWJg" title="Multi Stage Docker Builds | Java/SpringBoot Example | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="NLr9tGBtVk8" title="Microservices and Kubernetes Observability | Metrics, Logs, Tracing, Chaos Experiments" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="bRBgVMngHcQ" title="Spring Cloud Gateway with Hystrix example | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="AD_WNQgUaO0" title="Fish Shell | The most productive developer friendly shell | Productivity | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="ZuY686hgcLg" title="GitPod | Web IDE for Github | Productivity | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="nnsWiXBVeMI" title="Spring Security OAuth2 using Facebook in Spring Boot | Security Primer | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="E0cRlFNpiL0" title="MyBatis Spring Boot Example with MySQL | Select, Insert, Update and Delete" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="E0cRlFNpiL0" title="MyBatis Spring Boot Example with MySQL | Select, Insert, Update and Delete" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="jA1wHbAK_T0" title="Remote Debugging using IntelliJ | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="_3uMgaAncmA" title="Live Reload in Spring Boot App | Spring Boot Dev Tools | Tech Shots" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="HHyjWc0ASl8" title="REST API Documentation using Swagger2 in Spring Boot | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="Zed6udTPGro" title="How to Design Microservices Architecture? Uber Architecture - A Case Study | Tech Primers" />
-<YoutubeItem channelName="Tech Primers" channelId="TechPrimers" id="Op4SRM3t0nw" title="Profiles in Spring Boot | Spring Profiles | Tech Primers" />
-
-:::
+<MyYouTubeItems jsonName="yu-TechPrimers" />
 
 <!-- Tech Primers -->
 

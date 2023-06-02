@@ -1069,5 +1069,15 @@
     "desc": "🌈一个跨平台的划词翻译软件 | A cross-platform translation software",
     "topics": ["translation", "translate", "pot", "tauri", "pot-app"],
     "officialSite": "https://pot.pylogmon.com"
+  }, {
+    "repo": "uidotdev/usehooks",
+    "desc": "A collection of modern, server-safe React hooks – from the ui.dev team",
+    "topics": ["react", "blog", "hooks", "gatsby", "astro", "react-hooks", "vercel"],
+    "officialSite": "https://usehooks.com"
+  }, {
+    "repo": "saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library",
+    "topics": ["css", "components", "ui-design", "design-systems", "design-pattern", "component", "postcss", "css-framework", "svelte", "ui-kit", "component-library", "css-components", "ui-pattern", "design-system", "ui-library", "ui-framework", "tailwind", "tailwindcss", "tailwind-css", "daisyui"],
+    "officialSite": "https://daisyui.com"
   }
 ]

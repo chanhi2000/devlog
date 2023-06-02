@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦",
+    "topics": ["kubernetes", "aws", "terraform", "terraform-module", "aws-eks", "eks", "elastic-kubernetes-service", "aws-eks-cluster"],
+    "officialSite": "https://registry.terraform.io/modules/terraform-aws-modules/eks/aws"
+  }
+]

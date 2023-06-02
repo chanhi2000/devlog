@@ -719,5 +719,15 @@
     "desc": "TypeScript ORM that feels like writing SQL",
     "topics": ["nodejs", "mysql", "postgres", "typescript", "sql", "orm", "sqlite", "neon", "postgresql", "sqlite3", "d1", "mysql2", "sqljs", "bunjs", "litefs", "turso", "libsql", "postgresjs", "vercel-postgres"],
     "officialSite": "https://orm.drizzle.team"
+  }, {
+    "repo": "Chainlit/chainlit",
+    "desc": "Build Python LLM apps in minutes ⚡️",
+    "topics": ["python", "ui", "openai", "llm", "chatgpt", "langchain"],
+    "officialSite": "https://docs.chainlit.io"
+  }, {
+    "repo": "mateogianolio/vectorious",
+    "desc": "Linear algebra in TypeScript.",
+    "topics": ["javascript", "machine-learning", "typescript", "vector", "matrix", "linear-algebra", "high-performance-computing", "blas", "linear-algebra-library"],
+    "officialSite": "https://docs.vectorious.org/vectorious/6.1.11"
   }
 ]

@@ -1,0 +1,64 @@
+{
+  "channel": {
+    "id": "GitLabUnfiltered",
+    "name": "GitLab Unfiltered",
+    "profile": "imgUrl"
+  },
+  "videos": [
+    {
+      "id": "7zLYlG74qLc", 
+      "title": "Engineering Exploration - Self-hosting LLMs using FastChat"
+    }, {
+      "id": "Vw8-ce8LNBs", 
+      "title": "CI Components - development workflow"
+    }, {
+      "id": "uuq_blMOMZo", 
+      "title": "How to automate creating GitLab Runners"
+    }, {
+      "id": "Nv7XwNoxVqc", 
+      "title": "Joe Burnett -- My command-line work process (mosh, tmux, emacs, org-mode and gopls)"
+    }, {
+      "id": "dkDZi4x0UiE", 
+      "title": "How to setup \"Domain Verification\" for gitlab.com"
+    }, {
+      "id": "aryVnYP_F4w", 
+      "title": "GitLab Runner demo - create an instance-level (Shared) runner as a user"
+    }, {
+      "id": "1hdWyMWIlHA", 
+      "title": "Remote development via GitLab Agent code walkthrough"
+    }, {
+      "id": "xYYN8Ufs-pY", 
+      "title": "GitLab CLI incident list demo"
+    }, {
+      "id": "5T4gQFYOwXM", 
+      "title": "Remote Development Architecture Spike walkthrough"
+    }, {
+      "id": "ESdJctkZmZg", 
+      "title": "Remote Development and GitLab Agent For Kubernetes pairing session 1"
+    }, {
+      "id": "qUfQkVrm6uk", 
+      "title": "Jira proxy test setup"
+    }, {
+      "id": "_T6reRGwv-o", 
+      "title": "Git LFS Internals"
+    }, {
+      "id": "SFhJ7kRJADA", 
+      "title": "Applied ML - Building MLOps pipeline in Gitlab for Suggested Reviewer - 'The first MLOps template '"
+    }, {
+      "id": "YKyboytpEjQ", 
+      "title": "Product Planning: Planning the next milestone"
+    }, {
+      "id": "s0EHlQaiWks", 
+      "title": "Async Sketching Session - CI/CD Catalog"
+    }, {
+      "id": "L11mZqQKuwo", 
+      "title": "Migrating from Self Managed to SaaS"
+    }, {
+      "id": "fk45RJIJpnM", 
+      "title": "GitLab Runner Fleeting / Taskscaler Detection and Debugging"
+    }, {
+      "id": "6eDwPm0O97c", 
+      "title": "Tech writing: Documenting multiple fields"
+    }
+  ]
+}

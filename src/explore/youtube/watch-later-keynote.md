@@ -216,41 +216,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## CNCF [Cloud Native Computing Foundation]
 
-[CNCF \[Cloud Native Computing Foundation\]][yu-cncf]
-
-::: details 목록
-
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="AeeXSm0Zzfk" title="Cloud Native Live: Prometheus + Falco: The Swiss Army Knife for SREs" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="0D9xaBaktpE" title="Kubernetes Best Practices in ecomm Logistics by Wang Shuguang" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="0p0J4khYekI" title="Best Practices for Applications on Kubernetes for Both Frequent Updates & Stabil... Hiroshi Hayakawa" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="48uWe9Y3CwQ" title="Distributed Tracing Integration with OpenTelemetry and Knative - Daniel Oh & James Falkner, Red Hat" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="dlVI0MeFJAo" title="What Anime Taught Me About K8s & Tech Careers - Annie Talvasto, Camunda" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="35ue_FZAerU" title="CIS Kubernetes Benchmarks with Kubescape" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="OqeVrDnRFiU" title="Running distributed load tests with the Grafana k6-operator" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="LQOC8vI20eU" title="Kubernetes for Mac: How to Consume Shiny AWS Mac Shapes for iOS Builds - Madhuri Yechuri & Zach Gray" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="5QabSshak7I" title="Creating a Serverless iPaaS in Kubernetes with Apache Camel K" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="RNN8XwRWGjk" title="Production CI/CD w/CNBs: Tekton, Gitlab & CircleCI\(plus\), Oh My! - David Freilich & Natalie Arellano" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="ZuIQurh_kDk" title="Kubernetes Design Principles: Understand the Why - Saad Ali, Google" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="NX0sHF8ZZgw" title="Go + Microservices = Go Kit \[I\] - Peter Bourgon, Go Kit" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="bj8SUKUg0BQ" title="The Road to Winch - Saúl Cabrera, Shopify" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="UcxJ6tVf2dY" title="From Legacy to GitOps - Gonzalo Izquierdo, Hiberus Tecnologia & Manuel Hernandez, Sysdig" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="HK4_U4Y1WHU" title="AI and Observability Role in an E-Government Ecosystem - Zoltan Mathe, IdomSoft Ltd." />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="TCsJMEJ2Udg" title="Observability & Monitoring in Cloud Native Telco World – Tying... Dorian Lenzner & Roman Szczepanski" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="Tn-aVLFud8k" title="Lightning Talk: Does Cloud Elasticity Pay off for HPC Workloads? - Joris Cramwinckel, Ortec Finance" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="Wgdea40obu4" title="Sponsored Keynote: Redefining the Architecture for Edge-Native Apps - Saad Malik & Arun Gupta" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="dggF1-bEC-s" title="SLA Aware Batch Scheduling in Apache YuniKorn with Multi-Tenant Pre... Sunil Govindan & Craig Condit" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="g4o_7gaQCZY" title="Sharpen That Edge! How a Service Mesh Enhances EdgeComputeOps - Marino Wijay & Kevin Dorosh, Solo.io" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="gdncARKCEOY" title="Sponsored Keynote: Sharpen Your Edge Three Ways With Kubernetes - Marilyn Basanta, VMware" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="hT7bGNKEZk4" title="Can You Keep a Secret? Securely Interacting with Edge Devices i... Adithya Jayachandran & Yu Jin Kim" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="ife__pIh73s" title="Closing Remarks, Program Committee Member - Lucina Stricko, Vulk Coop" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="lazxzpmWhbQ" title="Corralling the CNFs - W. Watson, Vulk Cooperative & Mary Parsons, Dish Wireless" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="mPmzFBcQ9rQ" title="Lightning Talk: How Can We Renovate Legacy Telecom Infrastructure... Hiromu Asahina & Yasfumi Ogawa" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="mu4OAD4ifeM" title="Lightning Talk: Keeping the Promise of Telco-Grade Resilience for CNFs - Uma Makkara, Harness" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="rGAm_mpMSLI" title="Lightning Talk: Kubernetes on Edge for People Who Don’t Do Kubernetes - Jay DesLauriers" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="wnI0orAsJWI" title="Panel: Looking Ahead to the Future with Project Sylva, Energy Efficiency & Telco Cloud Platforms" />
-<YoutubeItem channelName="CNCF [Cloud Native Computing Foundation]" channelId="cncf" id="znjc6UFX700" title="Kubescape roadmap" />
-
-:::
+<MyYouTubeItems jsonName="yu-cncf" />
 
 <!-- CNCF -->
 
@@ -321,6 +287,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ::: details 목록
 
+<YoutubeItem channelId="visualstudio" channelName="Microsoft Visual Studio" id="skUKcNMy1DA" title="Speed up your builds of SDK-style .NET projects" />
 <YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="o4fYwtKpoz4" title="Visual C++ STL Code Review: GH-1794, Use iterator concept in vector's range constructor" />
 <YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="EP0TZqosWs0" title="Writing Visual Studio Extensions with Mads - Fixing bugs in Add Any File" />
 <YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="MvJnod5Xb5g" title="Writing Visual Studio Extensions with Mads - Snippets" />
@@ -593,34 +560,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Amazon Web Services
 
-[Amazon Web Services][yu-amazonwebservices]
-
-::: details 목록
-
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="R40_14T6BsM" title="Keeping the SAP Core Clean with ROSA | Amazon Web Services" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="ZuD9aslmas0" title="Migrating SAP to AWS using Red Hat Ansible | Amazon Web Services" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="WUzHMpHrV7U" title="Refactoring SAP ABAP code for decoupling with Kubernetes | Amazon Web Services" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="dbR3c9Gk98o" title="RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="x3f4Sno7u4g" title="Red Hat Enterprise Linux - High Availability for SAP on AWS | Amazon Web Services" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="XWcCzqEemQQ" title="Amazon EC2 Mac Tech Tutorials - Part 3 - macOS Workers with Kubernetes and Jenkins" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="--BfdlnIc7Y" title="Amazon EC2 Mac tech tutorials - Part 2 - How to Use Block and File Storage \| Amazon Web Services" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="jJ4WgX2aOcs" title="Setting up a CICD Pipeline for Containers on AWS" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="SlyAHc5Mv2A" title="How can I find out which user launched an EC2 instance in my account?" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="khhTUIa6_pg" title="Back to Basics: Deploy Your Machine Learning Model for Real-Time Predictions" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="wm1adkZ7KYs" title="AWS Well-Architected for Startups  - Console Tool and API" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="M7HbsjuqC9M" title="AWS Well-Architected for Startups  - Performance Efficiency" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="m0iUkVYUYeY" title="AWS Well-Architected for Startups  - Operational Excellence" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="U5CIFoWG00A" title="AWS Well-Architected for Startups  - Reliability" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="s9vf3r2fGXI" title="AWS Well-Architected for Startups  - Security" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="GhTC-pMgOjc" title="AWS Well-Architected for Startups  - 5 Minute Overview" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="qaj9Titw0MM" title="How do I use AWS Systems Manager to join a EC2 Windows instance to my AWS Directory Service domain?" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="6sY0AunanlM" title="NGINX: Deploy and Scale Applications with Ease Using AWS EKS, ECS and the NGINX Ingress Controller" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="JZPxHW9pjsA" title="Deploy and Apply the Customization for AWS Control Tower Solution" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="7KpUJ6Wcqrg" title="Automating updates to your product listings in AWS Marketplace with Catalog API" />
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="JXC4qYYQD8E" title="RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services" />  
-<YoutubeItem channelName="Amazon Web Services" channelId="amazonwebservices" id="ZX_eeKwslhk" title="Keeping the SAP Core Clean with ROSA | Amazon Web Services" />
- 
-:::
+<MyYouTubeItems jsonName="yu-amazonwebservices" />
 
 <!-- Amazon Web Services -->
 
@@ -628,25 +568,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Amazon Web Services Korea
 
-[Amazon Web Services Korea][yu-AWSKorea]
-
-::: details 목록
-
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="S3jHtOHdGm4" title="AWS re:Invent 2022 - 엔터프라이즈 클라우드 여정 모범 사례 - 한진 및 LG CNS (GEO101)" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="BcoekcPRKWc" title="AWS Lambda 기초부터 실전까지" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="ZRPdVY5lFBM" title="AWS Fargate와 Amazon ECS를 활용한 CI/CD 모범사례 - 유재석, AWS 솔루션즈 아키텍트 :: AWS Game Master 온라인 세미나" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="hJ7J8dMCxgU" title="게임 개발자를 위한 데이터베이스 선택 길라잡이 :: AWS Game Master 온라인 시리즈 - 제2화" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="fdoaUq49dSA" title="AWS 미디어서비스를 통한 라이브 및 온디맨드 동영상 워크플로 구성 및 배포하기 - 김영진:: AWS Builders Online Series" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="tTg9Lp7Sqok" title="AWS Lambda 컨테이너 이미지 서비스 활용하기 – 김태수:: AWS Builders Online Series" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="n7NSuj_wPmI" title="Amazon Connect Chat 에서 Amazon Chime SDK로 화상 통화 연동하기 – 김정곤&임석영:: AWS Builders Online Series" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="piQI4Hs2jmk" title="클라우드 네이티브 기반 사진 공유 애플리케이션 만들어 보기 – 김필중:: AWS Builders Online Series" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="wgJYt_VF6yA" title="AWS에서 시작하는 Container 생활 – 강인호:: AWS Builders Online Series" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="iPKaylieTV8" title="IAM 정책을 잘 알아야 AWS 보안도 쉬워진다. 이것은 꼭 알고 가자! - 신은수 솔루션즈 아키텍트(AWS)" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="XLr55NXsHmA" title="인프라 기조연설 요약 및 Deep Dive - Container 살펴보기 :: AWS re:Invent Daily Recap (12월 11일)" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="lGw2y-GLBbs" title="AWS 기반 Kubernetes 정복하기 - 정영준 솔루션즈 아키텍트(AWS)" />
-<YoutubeItem channelName="Amazon Web Services Korea" channelId="AWSKorea" id="16LNWMqphOA" title="AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)" />
-
-:::
+<MyYouTubeItems jsonName="yu-AWSKorea" />
 
 <!-- Amazon Web Services Korea -->
 

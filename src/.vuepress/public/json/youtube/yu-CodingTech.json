@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id": "ZjOm6kQ1lSs",
+      "title": "WebAssembly A New Development Paradigm for the Web"
+    }, {
+      "id": "Nhuk7zx4K3Y",
+      "title": "Intro to Continuous Delivery for Microservices with Docker and Terraform"
+    }, {
       "id": "Ztfb2yJ_hks",
       "title": "What's Next After Kubernetes"
     }, {

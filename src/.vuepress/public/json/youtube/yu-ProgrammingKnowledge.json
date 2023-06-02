@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id": "ZNlCZC6hIUo",
+       "title": "JUnit 5 - How to Write Parameterized Tests"
+    }, {
+      "id": "936wHLIR4UY",
+      "title": "How to Setup JUnit for VS Code | JUnit in Visual Studio Code | Java Test with Visual Studio Code"
+    }, {
       "id": "SeOlDGN346E",
       "title": "Learn CSS – Full Tutorial for Beginners (2023)"
     }, {

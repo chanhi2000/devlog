@@ -15,6 +15,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Easy Sheets
+
+<MyYouTubeItems jsonName="yu-easy_sheets" />
+
+<!-- Easy Sheets -->
+
+---
+
 ## 오빠두엑셀 | 엑셀 강의 대표채널
 
 [![오빠두엑셀 | 엑셀 강의 대표채널](https://yt3.googleusercontent.com/LhSbId1mYfR-X_Osu1kWiHHZITrd12nu_bBR8mJZlRN15cePr0ySehG2N72Bl6BIw7T1eZ1P=s176-c-k-c0x00ffffff-no-rj =x150)][yu-oppadu]
@@ -134,18 +142,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ## Chandoo
 
-[![Chandoo](https://yt3.googleusercontent.com/ytc/AGIKgqPihtxi1BUVntyiUyp_5UYm8yzgNHjzQdYBykua=s176-c-k-c0x00ffffff-no-rj =x150)][yu-chandoo_]
-
-::: details 목록
-
-<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="35VnP0Rz71I" title="Beautiful + Interactive Dashboard in Excel in 30 minutes (with free sample files)" />
-<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="yJum0g4qM2c" title="FREE Power Query Materclass with 5 Advanced Tips to SPEED UP your work 🚀" />
-<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="B1WWWGeFqTM" title="Top 5 Excel Functions for Finance People \(with end-to-end example\)" />
-<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="y8CXwOaMrdE" title="Impress your boss with Waffle Charts in Excel - Easy Recipe" />
-<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="2lIxjT-0aPo" title="How to split Excel data into many sheets - VBA coding project" />
-<YoutubeItem channelName="Chandoo" channelId="chandoo_" id="2pn47abZCWU" title="10 Excel formatting tricks *ONLY* experts know" />
-
-:::
+<MyYouTubeItems jsonName="yu-chandoo_" />
 
 <!-- Chandoo -->
 

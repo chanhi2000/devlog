@@ -1,0 +1,77 @@
+{
+  "channel": {
+    "id": "CodingNepal",
+    "name": "CodingNepal",
+    "profile": "imgUrl"
+  },
+  "videos": [
+    {
+      "id": "szyMG2gJg6Y", 
+      "title": "Switch Background Color in JavaScript"
+    }, {
+      "id": "Nd1zlIHZoAk", 
+      "title": "Button Hover Animation HTML and CSS"
+    }, {
+      "id": "V0gpONaqVdk", 
+      "title": "Focus Input Field with the Keyboard Keys in JavaScript"
+    }, {
+      "id": "fIrmN3dTKk8", 
+      "title": "Make Typing Dots Animation in HTML &amp; CSS"
+    }, {
+      "id": "Ac9Z6UtHdZ0", 
+      "title": "Create A Draggable Bottom Sheet Modal in HTML CSS &amp; JavaScript | Bottom Sheet Modal in JavaScript"
+    }, {
+      "id": "KADY-DkNrhk", 
+      "title": "Check Internet Connection in HTML CSS &amp; JavaScript | Check Offline or Online Status in JavaScript"
+    }, {
+      "id": "coj-l7IrwGU", 
+      "title": "How to Make Chrome Extension in HTML CSS &amp; JavaScript | Color Picker Extension in JavaScript"
+    }, {
+      "id": "BNOaWqP4X_U", 
+      "title": "Draggable Slider Tabs Like YouTube in HTML CSS &amp; JavaScript | Slider Tabs in JavaScript"
+    }, {
+      "id": "4-s3g_fU7Vg", 
+      "title": "Word Scramble Game in HTML CSS &amp; JavaScript | Word Game in JavaScript"
+    }, {
+      "id": "YTpftUSV1aA", 
+      "title": "How to Take Screenshots in Vanilla JavaScript | Capture Screenshot in JavaScript"
+    }, {
+      "id": "y84tBZo8GFo", 
+      "title": "Build A Drawing or Paint App in HTML CSS &amp; JavaScript | Drawing App in JavaScript"
+    }, {
+      "id": "1-CvPn4AbT4", 
+      "title": "Create Custom Music Player in HTML CSS &amp; JavaScript"
+    }, {
+      "id": "VnvzxGWiK54", 
+      "title": "Chat Application using PHP with MySQL &amp; JavaScript"
+    }, {
+      "id": "Gd7T5_3tjYQ", 
+      "title": "Vertical Card Sliding Animation using only HTML &amp; CSS"
+    }, {
+      "id": "-uzOuGlUfDQ", 
+      "title": "Responsive Vertical Timeline Design using only HTML &amp; CSS"
+    }, {
+      "id": "QxMBHi_ZiT8", 
+      "title": "Search Bar with Auto-complete Search Suggestions using HTML CSS &amp; JavaScript"
+    }, {
+      "id": "V0O4pY2xX10", 
+      "title": "Sidebar Menu using HTML &amp; CSS"
+    }, {
+      "id": "H5bpLzBeLww", 
+      "title": "Build A Gradient Color Generator in HTML CSS &amp; JavaScript | Gradient Generator in JavaScript"
+    }, {
+      "id": "6QE8dXq9SOE", 
+      "title": "Create A Draggable Card Slider in HTML CSS &amp; JavaScript | Infinite Image Slider in JavaScript"
+    }, {
+      "id": "UHAuPmPtwuQ", 
+      "title": "Password Validation Check in HTML CSS &amp; JavaScript | Password Strength Check in JavaScript"
+    }, {
+      "id": "bnANtwr0fTU", 
+      "title": "Create Functional Image Gallery in HTML CSS &amp; JavaScript | Pexels Clone HTML CSS &amp; JavaScript"
+    }, {
+      "id": "KADY-DkNrhk", 
+      "title": "Check Internet Connection in HTML CSS &amp; JavaScript | Check Offline or Online Status in JavaScript"
+    }
+  ]
+}
+

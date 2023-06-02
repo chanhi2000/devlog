@@ -550,7 +550,7 @@
     "officialSite": ""
   }, {
     "repo": "THUDM/ChatGLM-6B",
-    "desc": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "desc": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",
     "topics": [],
     "officialSite": ""
   }, {
@@ -575,7 +575,7 @@
     "officialSite": "https://arxiv.org/abs/2304.01196"
   }, {
     "repo": "imClumsyPanda/langchain-ChatGLM",
-    "desc": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM",
+    "desc": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答",
     "topics": ["llm", "llms", "langchain", "chatglm", "chatglm-6b"],
     "officialSite": ""
   }, {
@@ -1545,7 +1545,7 @@
     "officialSite": ""
   }, {
     "repo": "TransformerOptimus/SuperAGI",
-    "desc": "Build and run useful autonomous agents",
+    "desc": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
     "topics": ["python", "ai", "nextjs", "agi", "artificial-intelligence", "openai", "artificial-general-intelligence", "agents", "autonomous-agents", "pinecone", "gpt-4", "llm", "llmops", "superagi"],
     "officialSite": "https://superagi.com"
   }, {
@@ -1556,6 +1556,11 @@
   }, {
     "repo": "emptycrown/llama-hub",
     "desc": "A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookincubator/AITemplate",
+    "desc": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
     "topics": [],
     "officialSite": ""
   }

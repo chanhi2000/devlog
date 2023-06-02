@@ -389,5 +389,10 @@
     "desc": "A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.",
     "topics": ["git", "usable-security", "git-credential-helper"],
     "officialSite": "https://pkg.go.dev/github.com/hickford/git-credential-oauth"
+  }, {
+    "repo": "milvus-io/milvus",
+    "desc": "A cloud-native vector database, storage for next generation AI applications",
+    "topics": ["golang", "distributed", "nearest-neighbor-search", "image-search", "approximate-nearest-neighbor-search", "similarity-search", "video-search", "vector-similarity", "faiss", "anns", "hnsw", "vector-search", "vector-database", "similarity-searches", "llm", "embedding-database", "embedding-store", "vector-store", "embedding-similarity", "tensor-database"],
+    "officialSite": "https://milvus.io"
   }
 ]

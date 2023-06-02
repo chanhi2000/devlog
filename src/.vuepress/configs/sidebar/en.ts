@@ -652,6 +652,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/16.md',
         '/crashcourse/paul-hudson-100-days-of-swift/17.md',
         '/crashcourse/paul-hudson-100-days-of-swift/18.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/19.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -664,7 +665,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/4.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/5.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/6.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/7.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/7.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/8.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -729,6 +731,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/eventhelix-rust-to-assembly/README.md',
+        '/crashcourse/eventhelix-rust-to-assembly/rust-enum-and-match-representation-in-assembly.md',
       ]
     }, {
       text: '🧶Must Know JavaScript API',

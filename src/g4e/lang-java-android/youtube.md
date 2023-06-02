@@ -23,60 +23,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## Stevdza-San
 
-[Stevdza-San][yu-stevdza-san]
-
-::: details 목록
-
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="90gokceSYdM" title="Material 3 Search Bar with Jetpack Compose - Easy Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="fcTuAntvpE4" title="Animated Bottom Bar with Jetpack Compose - Easy Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="N3t7SIlFPrQ" title="From Figma to Android Studio - Infinite Lottie Animation - Easy Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="zA4BU4Q785o" title="Implement a Lottie Animation in Android App with Jetpack Compose - Easy Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="oWs57Ox_8S4" title="New Photo Picker on Android 13/API Level 33 - Backwards Compatible" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="JflJjPxhFQo" title="SwiftUI App Intro Animation's - Walkthrough Page Animation's - Xcode 14 - SwiftUI Tutorials" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="abthd7DOfdw" title="New Splash API for Android in 60 seconds" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="h_JYW2hdI8U" title="Everything you need to Know about Material Design 3" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="QqcMKQgfzec" title="Color Picker Component for Jetpack Compose | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="AMrYKkCd2Ck" title="Android and Web App Development using the Backendless Platform | Online Course" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="yJheLbxYd10" title="Everything You Need to Know about `derivedStateOf()`" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="uAw87DdUnxg" title="Implement Material 3 Date/Time Pickers with Jetpack Compose! - Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="pqQkl9BInAw" title="Return a value from a Kotlin Coroutine Scope - Explained" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="JOgkUOOoWcs" title="Let's Build a Web Browser with Jetpack Compose | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="UbuwxvwAB8Y" title="Drawing on the Canvas with Jetpack Compose! 🎨" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="ox9CLYai9yU" title="Animated Selectable Item with Jetpack Compose | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="K099Vg6_t1o" title="Change System Bar Colors in your App | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="Z4W4aqXpE1w" title="Build Modern Android App with REST API and Ktor Server | Online Course" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="umCX1-Tq25k" title="Expandable Floating Action Button - Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="vmJFXmefBsM" title="View Binding with RecyclerView Adapter - Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="glyqjzkc4fk" title="Navigation Basics in Jetpack Compose" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="doGsRC2J1Fc" title="Send Arguments between Screens | Navigation in Jetpack Compose" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="COZ3j8Dwlog" title="ViewPager2 with Navigation Component - Onboarding Screens | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="Y6blcaWh23w" title="Embedded Android Emulator | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="TMaIMctI7oo" title="Expandable Card with Animation - Jetpack Compose" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="B9YBvqw7CTU" title="AutoCompleteTextView - Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="5rb4LdnuPtk" title="Password Strength Calculator | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="ROkKPgXpd1Y" title="Motion Layout in Action | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="mD2y8lJN9J4" title="Database Inspector - Live Database Tool | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="NRB2j6To0SI" title="Text Selection - Jetpack Compose" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="VeHPA0zvaZ8" title="Get the Last Known Location - Fused Location Provider API | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="51fX94dU7Og" title="Easy Permissions - Handle Runtime Permissions with Ease | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="GKOrG-bvPWo" title="Build a Chat App using Stream Chat SDK for Android | Part #3" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="OrkEONJa-BI" title="View Binding Delegate | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="kXSBkAA03Tc" title="Coroutine Scopes - Kotlin Coroutines" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="adGU0A80EJ0" title="`@TypeConverter` - Insert Image in Database | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="xoOecJZ2Q-0" title="Convert Image URL to Bitmap object using Coil | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="5rfBU75sguk" title="ROOM Database - #4 Update Data | Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="nlPtfncjOWA" title="Custom Buttons Design - Android Studio Tutorial" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="d_Y5gcpgeoU" title="Programming is getting Deprecated!? 😱 Crazy Conversation with Chat GPT" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="yJheLbxYd10" title="Everything You Need to Know about derivedStateOf()" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="xlpd6Pf2aT8" title="DO NOT Display a Notification Without This!" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="stv2IdGDma4" title="This is how you do it - Become your own Boss! 👊" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="LyEV4c6l1yM" title="Moving Animation with Marquee Effect and Jetpack Compose" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="F5B-CxJTKlg" title="Full Guide to Develop a Website with Kotlin and Jetpack Compose" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="4uh-TWfs2dE" title="Build a Website from Scratch with Kotlin and Jetpack Compose | Online Course" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="ZJJx8tLX89A" title="Everything you need to know about Dependency Injection" />
-<YoutubeItem channelName="Stevdza-San" channelId="StevdzaSan" id="uO6igFsa5y0" title="Single/Multiple Permission Request with Jetpack Compose | Android Studio Tutorial" />
-
-:::
+<MyYouTubeItems jsonName="yu-StevdzaSan" />
 
 <!-- Stevdza-San -->
 

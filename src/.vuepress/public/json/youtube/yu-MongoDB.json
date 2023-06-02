@@ -6,6 +6,15 @@
   },
   "videos": [
     {
+      "id": "_0RlVAM2THk",
+      "title": "Python Development Made Easy: How to Set Up a Virtual Environment"
+    }, {
+      "id": "04NHVNLU3nc",
+      "title": "Deploy All of Your Projects Free on MongoDB Atlas"
+    }, {
+      "id": "1d_G8jr0KJE",
+      "title": "Exploring the MongoDB Extension for Visual Studio Code (VS Code)"
+    }, {
       "id": "xiowCksSKpk",
       "title": "Create a Twitter Clone using Next.js, MongoDB, Auth0, &  Deploy to Vercel"
     }, {
