@@ -73,6 +73,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-java/README.md',
         '/g4e/lang-java/basics.md',
+        '/g4e/lang-java/singleton.md',
         '/g4e/lang-java/spring.md',
         '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',
@@ -678,6 +679,16 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/paul-hudson-swiftui-by-example/README.md',
+      ]
+    }, {
+      text: '☕️Java8 in Action',
+      collapsible: true,
+      children: [
+        '/crashcourse/java-8-in-action/README.md',
+        '/crashcourse/java-8-in-action/1.md',
+        '/crashcourse/java-8-in-action/2-1.md',
+        '/crashcourse/java-8-in-action/2-2.md',
+        '/crashcourse/java-8-in-action/3-1.md',
       ]
     }, {
       text: '🅺Kodeco - Android & Kotlin',

@@ -104,7 +104,7 @@ Now that you’ve mastered the basics of Swift, in these days you’ll start bui
 - [Day 18][day-18] – ✅Project 1, part three
 - [Day 19][day-19] – ✅Project 2, part one
 - [Day 20][day-20] – ✅Project 2, part two
-- [Day 21][day-21] – Project 2, part three
+- [Day 21][day-21] – ✅Project 2, part three
 - [Day 22][day-22] – Project 3
 
 ### Day 23: Consolidation II
@@ -310,7 +310,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-18]: 18.md
 [day-19]: 19.md
 [day-20]: 20.md
-[day-21]: https://www.hackingwithswift.com/100/21
+[day-21]: 21.md
 [day-22]: https://www.hackingwithswift.com/100/22
 [day-23]: https://www.hackingwithswift.com/100/23
 [day-24]: https://www.hackingwithswift.com/100/24

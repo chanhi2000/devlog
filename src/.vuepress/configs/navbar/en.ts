@@ -151,6 +151,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 20',
             link: '/crashcourse/paul-hudson-100-days-of-swift/20.md'
+          }, {
+            text: 'Day 21',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/21.md'
           }
         ]
       }, {
@@ -186,6 +189,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 9',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/9.md'
+          }, {
+            text: 'Day 10',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/10.md'
           }
         ],
       }, {
@@ -194,6 +200,26 @@ export const navbarEn: NavbarConfig = [
           {
             text: 'Intro',
             link: '/crashcourse/paul-hudson-swiftui-by-example/README.md',
+          }
+        ]
+      }, {
+        text: '☕️Java8 in Action',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/java-8-in-action/README.md',
+          }, {
+            text: 'Part 1 기초',
+            link: '/crashcourse/java-8-in-action/1.md',
+          }, {
+            text: 'Part 2-1 함수형 데이터 처리',
+            link: '/crashcourse/java-8-in-action/2-1.md',
+          }, {
+            text: 'Part 2-2 함수형 데이터 처리',
+            link: '/crashcourse/java-8-in-action/2-2.md',
+          }, {
+            text: 'Part 3-1 효과적인 자바8 프로그래밍',
+            link: '/crashcourse/java-8-in-action/3-1.md',
           }
         ]
       }, {

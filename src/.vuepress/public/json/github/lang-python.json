@@ -1583,5 +1583,15 @@
     "desc": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "topics": ["python", "workflow", "airflow", "scheduler", "apache", "hacktoberfest", "apache-airflow"],
+    "officialSite": "https://airflow.apache.org"
+  }, {
+    "repo": "feluelle/airflow-diagrams",
+    "desc": "Auto-generated Diagrams from Airflow DAGs. 🔮 🪄",
+    "topics": ["python", "cli", "airflow", "diagrams", "auto-generated"],
+    "officialSite": ""
   }
 ]

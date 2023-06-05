@@ -439,5 +439,10 @@
     "desc": "天涯 kkndme 神贴聊房价",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "nubenetes/awesome-kubernetes",
+    "desc": "A curated list of awesome references collected since 2018.",
+    "topics": ["docker", "kubernetes", "aws", "devops", "cloud", "azure", "containers", "gcp", "awesome-list", "devops-tools"],
+    "officialSite": "https://nubenetes.com"
   }
 ]

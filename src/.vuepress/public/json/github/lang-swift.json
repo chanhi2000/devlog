@@ -214,5 +214,10 @@
       "desc": "The modern video player for macOS.",
       "topics": ["macos", "swift", "video", "video-player", "mpv", "hacktoberfest"],
       "officialSite": "https://iina.io"
+    }, {
+      "repo": "insidegui/ChromeCastCore",
+      "desc": "An open source implementation of the Google Cast SDK for macOS",
+      "topics": ["macos", "ios", "osx", "chromecast"],
+      "officialSite": ""
     }
 ]
