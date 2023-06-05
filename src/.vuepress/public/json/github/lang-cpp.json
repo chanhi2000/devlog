@@ -314,5 +314,15 @@
     "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
     "topics": ["screenshot", "gui", "qt", "cross-platform", "gnu-linux", "image-editing", "free-software", "capture", "hacktoberfest"],
     "officialSite": "https://flameshot.org"
+  }, {
+    "repo": "libsdl-org/SDL",
+    "desc": "Simple Directmedia Layer",
+    "topics": ["sdl2"],
+    "officialSite": "https://libsdl.org"
+  }, {
+    "repo": "TrinityCore/TrinityCore",
+    "desc": "TrinityCore Open Source MMO Framework (master = 10.1.0.49801, 3.3.5 = 3.3.5a.12340)",
+    "topics": ["linux", "multi-platform", "wow", "multiplayer", "mmorpg", "trinitycore", "hacktoberfest"],
+    "officialSite": "http://www.trinitycore.org"
   }
 ]

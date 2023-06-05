@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "LambdaTest",
+    "name": "LambdaTest",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMHlLduwjeSlFKs3_rePszjhd-L8Thk6x3V9ctSoA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "RS1cITz3W8w",
+      "title": "LambdaTest - Linear App Integration | Enhance Workflows With One Click |  LambdaTest Integrations 🔗"
+    }, {
+      "id": "v2H1O0FJhdw",
+      "title": "Playwright Java Tutorial 🎭 |  Introduction and Installation | Part I | LambdaTest"
+    }, {
+      "id": "ZGO-p-epcaU",
+      "title": "TestNG Tutorial With Selenium | How To Do Parallel Testing In TestNG 📃| Part-IX | LambdaTest"
+    }, {
+      "id": "y1iAr4k9BVU",
+      "title": "Panel Discussion: What Automation Technology to Use | Joe, Carlos, Sneha | Testμ 2022 | LambdaTest 🚀"
+    }, {
+      "id": "8aV5AxJrHDg",
+      "title": "Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners"
+    }, {
+      "id": "BC6a_E0OfA4",
+      "title": "How To Perform Automated Screenshot Testing📱| LambdaTest"
+    }, {
+      "id": "1GTBAtCSSco",
+      "title": "What Are pytest Fixtures | pytest Framework Tutorial | Part-VI | LambdaTest"
+    }
+  ]
+}
+

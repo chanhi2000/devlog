@@ -1,0 +1,53 @@
+{
+  "channel": {
+    "id": "WebDevCody",
+    "name": "Web Dev Cody",
+    "profile": "https://yt3.googleusercontent.com/SS6r1UH6bN7grQzwwSeWM6jaBwYmNlsSvsf9qTxa7cdvrPItESbpH0qdmcK4qIXMsqwcO5jVPks=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "9xqlkAPnoTY",
+      "title": "This is the best way to protect your APIs"
+    }, {
+      "id": "LA9og-Suh10",
+      "title": "I'm finally using Python in production (as a typescript developer)"
+    }, {
+      "id": "J-04JlTAEY0",
+      "title": "How I added a feedback feature to my icon generator app"
+    }, {
+      "id": "W6ASxlTCb9A",
+      "title": "Working on the Course Platform full stack app (t3 stack, mantine, prisma, typescript)"
+    }, {
+      "id": "i76sGb8t5eI",
+      "title": "Can the cheapest $4 VM host a next app?"
+    }, {
+      "id": "n7mV2GAEx8M",
+      "title": "This is why you need caching"
+    }, {
+      "id": "nYmPIVeGwFY",
+      "title": "Online Course Platform Series (T3 Stack, Mantine, Prisma, Next-Auth)  - Part 1"
+    }, {
+      "id": "Qks3eqlImy8",
+      "title": "Trying to learn Go by making an API"
+    }, {
+      "id": "emHCoNOwwJQ",
+      "title": "Trying to learn Go by making an API"
+    }, {
+      "id": "oIuzm2jugu8",
+      "title": "Build Internal Tools with Appsmith | Beautiful Low-Code UI Creation"
+    }, {
+      "id": "CzfJ1_XcmYg",
+      "title": "Trying to learn Go for the first time"
+    }, {
+      "id": "x-oAojo0zKM",
+      "title": "I'm starting a new full stack project series | next, tailwind, prisma - part 1"
+    }, {
+      "id": "emHCoNOwwJQ",
+      "title": "Trying to learn Go by making an API"
+    }, {
+      "id": "CzfJ1_XcmYg",
+      "title": "Trying to learn Go for the first time"
+    }
+  ]
+}
+

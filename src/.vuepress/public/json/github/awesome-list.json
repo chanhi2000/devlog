@@ -424,5 +424,20 @@
     "desc": "List of Golang books",
     "topics": ["go", "golang", "list", "awesome", "books", "book", "awesome-list"],
     "officialSite": ""
+  }, {
+    "repo": "liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "SupaGruen/StableDiffusion-CheatSheet",
+    "desc": "A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.",
+    "topics": ["stable-diffusion", "stablediffusion"],
+    "officialSite": "https://supagruen.github.io/StableDiffusion-CheatSheet"
+  }, {
+    "repo": "shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "PythonSimplified",
+    "name": "Python Simplified",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPJf_qttjlcLMxWCt_KjwXwVVYRJgxL9mCHNqH37w=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "NB5LGzmSiCs", 
+      "title": "`If __name__ == \"__main__\"` for Python Developers"
+    }
+  ]
+}
+

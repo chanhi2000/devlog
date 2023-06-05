@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "java",
+    "name": "Java",
+    "profile": "https://yt3.googleusercontent.com/Zb1y7q5TA2SEBErm9U21Zczm2AXxPUQEBSjF9nru2bLIsbQbGRhZQnNg82rujynZb_PwcZctSQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "HRS_4eIbdZ8",
+      "title": "Javadoc Improvements"
+    }, {
+      "id": "tvcC2FMwIIo",
+      "title": "Java Management Service - Managing Your Java Estate Just Got Easier"
+    }, {
+      "id": "XEKkUpPnf4Q",
+      "title": "Java's Observability and Monitoring Framework - JFR"
+    }, {
+      "id": "FFlVaB8oTi0",
+      "title": "“JavaFX” - Inside Java Podcast 27"
+    }, {
+      "id": "gTBb7LxTBbE",
+      "title": "Sequenced Collections - Inside Java Podcast 31"
+    }, {
+      "id": "hkpNt37nauw",
+      "title": "How do you the sum the elements of an array? - Cracking the Java Coding Interview"
+    }, {
+      "id": "2nOj8MKHvmw",
+      "title": "Java Asynchronous Programming Full Tutorial with Loom and Structured Concurrency - JEP Café #13"
+    }, {
+      "id": "jb7m9dL1iSI",
+      "title": "Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond"
+    }, {
+      "id": "I9hQvJO39uM",
+      "title": "Loom in the Java Ecosystem - Inside Java Newscast #34"
+    }, {
+      "id": "diUvR6gqHVY",
+      "title": "Helidon - Microservices on Modern Java"
+    }, {
+      "id": "7n3EXy4f7dE",
+      "title": "tting Rid Of Unnamed Variables"
+    }, {
+      "id": "nS72gSoieso",
+      "title": "Java First. Java Always. |&nbsp;DevLive Level Up Keynote"
+    }, {
+      "id": "NI16bqeGv7U",
+      "title": "Troubleshooting Native Memory Issues in Java Applications"
+    }, {
+      "id": "3O4JtWcmkVQ",
+      "title": "Evolving the Security of the Java Platform"
+    }
+  ]
+}

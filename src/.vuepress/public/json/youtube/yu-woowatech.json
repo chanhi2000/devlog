@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "vgYfAndrpPU",
+      "title": "[우아한테크세미나] 사례별로 알아보는 안전한 S3 보안 가이드"
+    }, {
       "id": "6nc_0-HWZXU",
       "title": "[10분 테코톡] 글로의 git - merge and rebase"
     }, {

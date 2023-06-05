@@ -199,6 +199,21 @@
     "desc": "Play DOOM in teletext",
     "topics": ["doom", "teletext", "videotext", "teletext-pages"],
     "officialSite": ""
+  }, {
+    "repo": "jart/blink",
+    "desc": "tiniest x86-64-linux emulator",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "containers/crun",
+    "desc": "A fast and lightweight fully featured OCI runtime and C library for running containers",
+    "topics": ["linux", "iot", "runtime", "containers", "oci", "runc", "iot-cloud", "oci-runtime", "wasm-oci"],
+    "officialSite": ""
+  }, {
+    "repo": "pbatard/rufus",
+    "desc": "The Reliable USB Formatting Utility",
+    "topics": ["c", "windows", "usb", "iso", "persistence", "boot", "md5", "uefi", "sha1", "sha256", "syslinux", "grub", "mbr", "gpt", "secure-boot", "bios", "bootable-drives", "freedos", "grub4dos", "windows-to-go"],
+    "officialSite": "https://rufus.ie"
   }
 ]
 

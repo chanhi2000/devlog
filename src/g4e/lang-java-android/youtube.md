@@ -31,70 +31,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## CodingWithMitch
 
-[CodingWithMitch][yu-coding-w-mitch]
-
-::: details 목록
- 
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="EvYLJza-i74" title="Powerful Android Apps CLEAN Refactor" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="hhSTYK7I78c" title="Android Google Maps with Jetpack Compose 2023" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="CWSeZqM_-6I" title="Serve an XML or Compose UI at RUNTIME" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="6JRYm39bpaA" title="Compose Navigation Animations (NEW)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="AFKd3tN_p_c" title="SEQUENTIAL Background Tasks with Kotlin Coroutines (async and await)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="J8OqN-JqWlQ" title="Google Maps is Tricky with Jetpack Compose (VLOG)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="hnNIX6dUPC8" title="RecyclerView and CardView for Jetpack Compose (LazyColumn and Card)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="L8Xq15NTuCc" title="Is Kotlin Multiplatform Mobile Ready for Production?" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="To9aHYD5OVk" title="Monitoring a Network Connection in Realtime with LiveData" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="itXnRFx4pHI" title="Unidirectional Data Flow and State Events (A Taste of MVI)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="2FOShgaQk-I" title="Managing Snackbar's with Scaffold (Jetpack Compose)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="FT6k9SuYHKQ" title="Next course will be MVVM Recipe App (food2fork.ca) with Jetpack Compose (VLOG)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="zEnZYl39p8M" title="Animations Introduction (Jetpack Compose)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="ktOWiLx83bQ" title="Asynchronously Load Images with Jetpack Compose" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="fEG71kiH6l0" title="Recipe Network Entity (Retrofit Model)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="GuVyQ1zuZuw" title="Jetpack Compose Setup for Android Studio" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="G9wK7b8s7nw" title="Column Layouts with Jetpack Compose" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="AGXJIBY81DI" title="Row Layouts with Jetpack Compose" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="Rr5JBYtYDPE" title="I should listen to my own advice (VLOG)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="vVJeOACGSOU" title="Hilt makes testing easier on Android" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="8vAQrgbh6YM" title="MVVM / MVI Repository Pattern with Hilt" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="KI3L6d6Sm3Q" title="Hilt Modules, Binds and Provides (Dagger2)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="ZVv8mh1Kols" title="Scoping with HILT (Dagger2)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="EEOOnlk9xt4" title="HILT Constructor Injection Problems" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="pZJzdgG_45Y" title="HILT Field Injection and Constructor Injection" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="4u7ajxGxo1k" title="Planning a Network Caching Strategy (VLOG)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="GCw5rzgJkGM" title="WTF is `runBlocking{}` in Kotlin Coroutines" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="ksstsMCDEmk" title="Coroutines will FREEZE your UI" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="hvraoiu0_0Y" title="UI Testing with Jetpack and AndroidX (course demo)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="zwpGLqy4z1w" title="`OnCreateView` is DEPRECATED" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="JoFN10FDm8U" title="Android app development for beginners - 32 - Android - Unit test a fragment launch" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="55BsY7mfIhI" title="Custom Test Rules (UI Testing for Beginners PART 16)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="JZQtnHSNe-M" title="Debug and Release Builds (UI Testing for Beginners PART 16)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="_96FT7E6PL4" title="Espresso Idling Resource (UI Testing for Beginners PART 14)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="A88735Xv108" title="RecyclerView UI Testing (Espresso for Beginners PART 13)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="L037q8MGkGA" title="Custom Toast Matcher (Espresso for Beginners PART 11)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="HRRn6m5hUoA" title="Dialog Input Testing (Material Dialogs) (Espresso for Beginners PART 10)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="xxO0Z9GzcBU" title="ImageViews, Drawable Matchers, Bitmaps (Espresso for Beginners PART 9)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="CpQQ6-vo5bw" title="Gallery Intent and startActivityForResult (Espresso for Beginners PART 8)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="QmH-B_UYIyA" title="Fragment Navigation Testing (Espresso for Beginners PART 7)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="VuPU6yG0uwg" title="Fragments in Isolation Espresso Testing (Espresso for Beginners PART 6)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="zJuFYqnBcgQ" title="Testing Activities in Isolation (Espresso for Beginners PART 2)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="GDTJHaR5yIs" title="Activity Navigation Espresso Testing (Espresso for Beginners PART 3)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="NTBj_0tIlQc" title="SOURCE CODE - UI Testing Beginners Course (Espresso for Beginners PART 1)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="HkKutWgQXU8" title="Working With Vuetify Forms and Validation" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="DBANpg2Cl7A" title="Cropping Images on Android (Kotlin)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="xSL_lSDVxnQ" title="Kotlin RecyclerView Template (DiffUtil and AsyncListDiffer)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="cu0_fHFQGbM" title="Network Timeouts with Kotlin Coroutines" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="y31fzLe2Ajw" title="RecyclerView Performance with DiffUtil (Kotlin)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="PQvtdjhQEvw" title="Kotlin Singleton Example with MVVM and Coroutines" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="h48Fxecu7EY" title="Adding Additional Fields to a `ModelSerializer` using `SerializerMethodField` (Django Rest framework)" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="v4db49yJPIU" title="REST API Token Authentication for Mobile Apps" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="m9XhqkGFL5k" title="Database Cache, MVVM, Retrofit, REST API course demo" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="IEO2X5OU3MY" title="Jetpack Navigation Component in One Video" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="aQAIMY-HzL8" title="Save data into SQLite database [Beginner Android Studio Example]" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="z44CLCafepA" title="Playing Video in a RecyclerView with ExoPlayer" />
-<YoutubeItem channelName="CodingWithMitch" channelId="codingwithmitch" id="RCcA5f13ESo" title="Android Performance with P.Y. (Author of Leak Canary)" />
-
-
-:::
+<MyYouTubeItems jsonName="yu-codingwithmitch" />
 
 <!-- CodingWithMitch -->
 
@@ -102,30 +39,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## Simplified Coding
 
-[Simplified Coding][yu-simplified-coding]
-
-::: details 목록
-
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="Mq5PVEmkZlQ" title="Assisted Injection in ViewModel using Hilt" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="a7RvjJMAD3w" title="kTor Android Client Tutorial - Performing Simple GET Request" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="rWPqjr1ZmQU" title="Kotlin Delegating Properties Tutorial with Example" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="78RHCvTQnE0" title="Android Test Activity with Espresso" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="wwz2uPvbfLg" title="Kotlin Delegation Tutorial with Example" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="q_5xrPYRoAg" title="#12 Android Login/Signup with MVVM - User Logout" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="pSDJu9iiNvE" title="#5 Android Login/Signup with MVVM - Base Fragment" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="EUgpvEno3vI" title="#4 RecyclerView with MVVM - Data Binding" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="3Uhorh2o1dg" title="#3 RecyclerView with MVVM - ViewModel and Fragment" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="I485b7LzYkM" title="#1 Firebase Database with Kotlin Tutorial - Saving Data" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="CFTCyBNXaCI" title="#17 Android MVVM Architecture Tutorial - RecyclerView with Groupie" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="F8lL8TdLYLE" title="#12 Android MVVM Architecture Tutorial - User Signup" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="RkRX446RSPk" title="#3 Android MVVM Architecture Tutorial - Using Data Binding" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="A2n0It3C6eM" title="#6 Android Room Tutorial - Getting Saved Data" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="JfM5klBXi_Q" title="#7 Retrofit Android Tutorial - Create Operation" />
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="UIQ4_1B420g" title="#3 ML-Kit's Vision API on Android - Barcode Scanning" />    
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="ju4AYKMe3Sw" title="#2 ML-Kit's Vision API on Android - CameraX" />  
-<YoutubeItem channelName="Simplified Coding" channelId="SimplifiedCoding" id="sVfRVVc3NkQ" title="#1 ML-Kit's Vision API on Android - Introduction" />
-
-:::
+<MyYouTubeItems jsonName="yu-SimplifiedCoding" />
 
 <!-- Simplified Coding -->
 
@@ -137,6 +51,12 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ::: details 목록
 
+<YoutubeItem channelId="DouglasSchmidt" channelName="Douglas Schmidt" id="ZjqqFZgDHug" title="Applying Java Functional Programming Features to the ThreadJoinTest Case Study" />
+<YoutubeItem channelId="DouglasSchmidt" channelName="Douglas Schmidt" id="Srg46cCRSFk" title="Applying Java Functional Programming Features: the ThreadJoinTest Case Study" />
+<YoutubeItem channelId="DouglasSchmidt" channelName="Douglas Schmidt" id="Chs1gVl5bOA" title="Walkthrough of Assignment 1B for CS 5254 in Summer 2023" />
+<YoutubeItem channelId="DouglasSchmidt" channelName="Douglas Schmidt" id="WOgndOUl780" title="Introduction to Threads &amp; Java Thread Objects" />
+<YoutubeItem channelId="DouglasSchmidt" channelName="Douglas Schmidt" id="EELPbJbOe4Q" title="Java Platform Threads vs. Virtual Threads (Part 1)" />
+<YoutubeItem channelId="DouglasSchmidt" channelName="Douglas Schmidt" id="5O3VBA9_9rA" title="Java Platform Threads vs. Virtual Threads (Part 2)" />
 <YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="zTB1O9wL8Go" title="The Java Predicate Functional Interface: Case Study ex8" />
 <YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="XAaoAb79Wkk" title="Overview of Java Lambda Expressions" />
 <YoutubeItem channelName="Douglas Schmidt" channelId="DouglasSchmidt" id="Ce09jblkpco" title="Applying Java Lambda Expressions – Case Study ex4" />
@@ -422,6 +342,12 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 <!-- Build Apps With Paulo -->
 
 ---
+
+## Adam McNeilly
+
+<MyYouTubeItems jsonName="yu-adamMc331" />
+
+<!-- Adam McNeilly -->
 
 
 <TagLinks />

@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "6w84-4cfUug",
+      "title": "Detect If a Shell Script Is Being Executed or Sourced"
+    }, {
       "id": "YrYxWcAULAk", 
       "title": "Clearing and Restoring Your Current and Saved Shell History with Zsh"
     }, {
@@ -68,4 +71,6 @@
     }
   ]
 }
+
+
 

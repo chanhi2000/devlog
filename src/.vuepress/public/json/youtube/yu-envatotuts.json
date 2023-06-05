@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "envatotuts",
+    "name": "Envato Tuts+",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMkebupAqyaSLJ4d28bIk412JmfwxsFxXaLe2X5CA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "EwUj2w38awA",
+       "title": "Customize &amp; Insert a PowerPoint Calendar"
+    }, {
+      "id": "Xk12JtYG8rw",
+      "title": "Creating a Dark Mode Switcher With CSS and JavaScript"
+    }, {
+      "id": "uvU_Bv3XDGc",
+      "title": "How to Build a Reading Progress Bar With CSS and JavaScript"
+    }, {
+      "id": "7H22tXPmIWI",
+      "title": "How to Create an Instagram Story Template in After Effects"
+    }
+  ]
+}

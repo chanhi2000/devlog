@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "LinuxNomad",
+    "name": "Linux Nomad",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP6dQyPwXSIZN2xjRu6_od1wz8VspmN6HcHTste=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "WlIcPT9Sr-c",
+      "title": "Simple Vim configuration as IDE (no plugins)"
+    }
+  ]
+}

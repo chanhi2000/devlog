@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "HiteshChoudharydotcom",
+    "name": "Hitesh Choudhary",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtYi8hjwWCScQ05ECuFXG7ZKq9-luMYoTek-N12A=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "zlojM-Jbux4",
+      "title": "Complete Appwrite authentication walkthrough"
+    }, {
+      "id": "YkxrbxoqHDw",
+      "title": "What is CSR SSR SSG and ISR"
+    }, {
+      "id": "wxSRHthSXzc",
+      "title": "Do we really need firebase in 2023"
+    }, {
+      "id": "D_5T6KMTRb8",
+      "title": "Github Codespace crash course"
+    }, {
+      "id": "rr9cI4u1_88",
+      "title": "A practical guide on Docker with projects | Docker Course"
+    }, {
+      "id": "0eMU23VyzR8",
+      "title": "How to build docker image for python flask app"
+    }, {
+      "id": "hduwjJ043Mg",
+      "title": "Save your code snippets in this open source tool"
+    }, {
+      "id": "jkngyZjRETs",
+      "title": "Appwrite crash course | Open Source Backend as a Service | Reactjs"
+    }, {
+      "id": "BAZ-tJOYhlA",
+      "title": "socket io crash course | easy way"
+    }, {
+      "id": "yviJikU4gwk",
+      "title": "useRef hook in reactjs | Easiest way"
+    }, {
+      "id": "oDasd7PfwbY",
+      "title": "Start and delete a container | #Docker"
+    }, {
+      "id": "xgSHYb85tLQ",
+      "title": "Fun assignment to create function in javascript"
+    }
+  ]
+}
+
+

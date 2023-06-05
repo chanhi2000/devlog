@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Redisinc",
+    "name": "Redis",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOVM9YMF211m_railMyNyzF8qLPfpenGY6g21u9Ug=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "KUfufrwpBkM",
+      "title": "Redis Stack Workshop: Redis Stack OM Library for Node.js"
+    }, {
+      "id": "zeLToGnjIUM",
+      "title": "Modeling Data Concurrency w/ Asynchronous I/O in Zig - RedisConf 2020"
+    }
+  ]
+}
+
+

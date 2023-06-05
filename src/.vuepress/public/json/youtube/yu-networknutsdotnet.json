@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "networknutsdotnet",
+    "name": "networknutsdotnet",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO_gVJ6o_SdSg3i-17i2o2W0sFEocKeJPgDMr5pmQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "il8YglA_shU",
+      "title": "Kubernetes Components - Kubernetes Architecture - How Kubernetes Work"
+    }, {
+      "id": "AUYcv7dI9Zg",
+      "title": "`BPYTOP` - Alternative to top in Linux - Monitor Linux server resources using `bpytop` utility"
+    }, {
+      "id": "jEW5X2BAzjI",
+      "title": "K9S Kubernetes Cluster Management Tool - Terminal based UI Tool for Managing Kubernetes - CKA"
+    }, {
+      "id": "6H__GEvHPmM",
+      "title": "Linux Disk Monitoring with `DUF` - Monitoring Linux Server Disk Usage with `DUF` - RHCSA Training"
+    }, {
+      "id": "1PWr6az9sM0",
+      "title": "Docker Monitoring using CAdvisor"
+    }
+  ]
+}
+

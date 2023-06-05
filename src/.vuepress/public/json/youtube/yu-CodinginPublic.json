@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "CodinginPublic",
+    "name": "Coding in Public",
+    "profile": "https://yt3.googleusercontent.com/B2DWJIkC4ri5qb11aZGfUt6w6HKqZi4oUEli49C-1FLxxdsrM5YiajyTNKMSd9i-aRvoFUFqJTU=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ho_30dN-GMM",
+      "title": "Get all values from submitted form"
+    }, {
+      "id": "88kzfaER0B0",
+      "title": "Coding my Blog in Astro Live"
+    }, {
+      "id": "F_Y4y5IOkzY",
+      "title": "Snippets can have dropdown menus!?"
+    }, {
+      "id": "3nNchCw8x3E",
+      "title": "Coding my Blog in Astro Live"
+    }
+  ]
+}
+

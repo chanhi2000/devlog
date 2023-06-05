@@ -1,0 +1,56 @@
+{
+  "channel": {
+    "id": "ZeroChoTV",
+    "name": "ZeroCho TV",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPfa6pm1rEBbq9Pq58a2Nvge6wvaGlv_KtqqLbg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Qz-S6p1s0Ok",
+      "title": "[제로초토크]언어 배우는 데 돈을 쓰지 마세요... 제발 OO에 쓰세요!"
+    }, {
+      "id": "GK6xEOyUusg",
+      "title": "[Grid&amp;Flex2-1]div 도배하지 말고 시멘틱 태그를 사용하자"
+    }, {
+      "id": "snQrpgb7MY8",
+      "title": "[Grid&amp;Flex2-2]nav와 ul, li로 메뉴 만들기"
+    }, {
+      "id": "24JGpOsO1nU",
+      "title": "[Grid&amp;Flex2-3]너무 감쪽같이 만들어서 나조차 속아버림..."
+    }, {
+      "id": "7O8G1wWLM24",
+      "title": "라이브코딩쇼(제로베이스로 데스크탑 프로그램 만들기)"
+    }, {
+      "id": "aG5XMUZiW-8",
+      "title": "자바스크립트 ??과 ?. 연산자(널 병합, nullish coalescing, 옵셔널 체이닝, optional chaining) [노드교과서 개정3판]"
+    }, {
+      "id": "cvxWOWOLcGc",
+      "title": "[타입스크립트 올인원 미리보기]@types/jquery 설치하기"
+    }, {
+      "id": "Z0U4Par7lEg",
+      "title": "리액트 네이티브 개발자 채용합니다~ + 책 마무리"
+    }, {
+      "id": "JZlYgKS3OtM",
+      "title": "2021년 강좌 계획 && Redux-vs-MobX 강좌 마무리"
+    }, {
+      "id": "Gg5vQJ_AOsI",
+      "title": "Next.js 10 체험해보기(feat. 노드버드)"
+    }, {
+      "id": "fucSjX2w0f4",
+      "title": "리액트 노드버드 10월 업데이트"
+    }, {
+      "id": "hfSfbLZqYhA",
+      "title": "Node.js 교과서 강좌(개정판) 2강"
+    }, {
+      "id": "CDmMwG3-R18",
+      "title": "노드교과서 개정판 - http 서버(4장)"
+    }, {
+      "id": "ulpFuNCA2zc",
+      "title": "네트워크 강좌 - VPN, 프록시(포워드, 리버스), 게이트웨이"
+    }, {
+      "id": "tQaxITImKys",
+      "title": "네트워크 강좌 - HTTPS 원리"
+    }
+  ]
+}
+

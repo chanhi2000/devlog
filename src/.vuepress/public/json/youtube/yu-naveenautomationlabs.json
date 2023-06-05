@@ -1,0 +1,110 @@
+{
+  "channel": {
+    "id": "naveenautomationlabs",
+    "name": "Naveen AutomationLabs",
+    "profile": "https://yt3.googleusercontent.com/pInX_de9_G5Ub7b5oslrZsJLClK12ZWNGKVIdmL98fWx1gghVDlJoQFcwZXWNsI3xPD3rA7J=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ajYxHnH5P6k",
+      "title": "How to Use Selenium, TestNG With Gradle (Build Automation Tool)"
+    }, {
+      "id": "4ro6WmobWeQ",
+      "title": "Test Automation Coding Challenge with Drag And Drop Use Cases || Selenium | Cypress | Playwright"
+    }, {
+      "id": "kQdD2WmRozE",
+      "title": "Agile Scrum and JIRA Tutorial - End to End Project Setup and Dashboard [Latest 2022]"
+    }, {
+      "id": "kwhn2nJpVNc",
+      "title": "#3 - GET API CALL in KARATE Framework"
+    }, {
+      "id": "xzq6JJZ0Oj8",
+      "title": "#1 - Karate Framework - Introduction & Setup Installation"
+    }, {
+      "id": "Ap1EteUw_9o",
+      "title": "Do you really need Postman? | Use Thunder Client - VSCode extension | Easy & Lightweight"
+    }, {
+      "id": "TeVB2tyeWyw",
+      "title": "#1 - Gatling (Performance Load Testing Tool) - Setup and Installation (Windows/Mac)"
+    }, {
+      "id": "tI4O-6dVjsw",
+      "title": "PART 7 : How to Write Pending Tests and Maintain Unique Session in Serenity"
+    }, {
+      "id": "PzOZggL6ewo",
+      "title": "#8 - Hooks in #Cucumber (Before/After Hooks in Cucumber)"
+    }, {
+      "id": "Q3JrBokM4FQ",
+      "title": "Selenium Integration with SauceLabs || Run Selenium Test on SauceLabs Cloud"
+    }, {
+      "id": "5S7ev-GMyOM",
+      "title": "Run Selenium Test on MS Azure Pipeline || Azure Cloud"
+    }, {
+      "id": "oQWxfVbFwjY",
+      "title": "Java Multithreading Concept in Selenium WebDriver (No TestNG) || Run it from Maven - Jenkins"
+    }, {
+      "id": "x54jV24gWdE",
+      "title": "Reusable commands in Cypress || Write Generic Functions - Part - 14"
+    }, {
+      "id": "2nPARZDDGZg",
+      "title": "Handle CheckBoxes in Cypress - Part -13"
+    }, {
+      "id": "rTr3KCQx0ik",
+      "title": "Getting Started with GraphQL"
+    }, {
+      "id": "CnwOEkIYSUk",
+      "title": "Window App Automation using - Microsoft WinAppDriver"
+    }, {
+      "id": "F6oxQD7YlAA",
+      "title": "Binary Tree PostOrder traversal in java - DataStructure - Part -6"
+    }, {
+      "id": "2iYMHUPcGwU",
+      "title": "JMeter Variables, Random Number, Functions in JMeter - Part -7"
+    }, {
+      "id": "1Ur5FKQBHk0",
+      "title": "Home Page Test - WebDriverIO Page Object Model Framework Design - Part 3"
+    }, {
+      "id": "K8nIURvXbU0",
+      "title": "Bamboo CI integration with Selenium || Run test from Bamboo || Installation & Setup"
+    }, {
+      "id": "wszi0H-auaM",
+      "title": "WebDriverIO Page Object Model Framework Design - Part 1"
+    }, {
+      "id": "3bVCnW2skUU",
+      "title": "How to use Data Files in Tests In WebDriverIO - Part - 22"
+    }, {
+      "id": "ipcPPSGQWAk",
+      "title": "What is `XMs` - `XMx` - How to control Java heap size (memory) allocation"
+    }, {
+      "id": "DW2NMjjVFro",
+      "title": "Configure Environment URLs in WebDriverIO - Part - 23"
+    }, {
+      "id": "U_GwgpHi4a8",
+      "title": "WaitForExist Sync method in WebDriverIO - Part - 16"
+    }, {
+      "id": "TUGYTmNQtWc",
+      "title": "ExplicitWait - WaitUntil method in WebDriverIO - Part - 17"
+    }, {
+      "id": "NiqaO9nhABQ",
+      "title": "ExplicitWait - WaitUntil for Page Title in WebDriverIO - Part - 18"
+    }, {
+      "id": "ea0P7MBQmiM",
+      "title": "Page Object Model (POM) Design With Selenium - Part -3"
+    }, {
+      "id": "3uktjWgKrtI",
+      "title": "How to Become Genius in XPath in Selenium  - Session -18"
+    }, {
+      "id": "8bIxLxSovws",
+      "title": "`@Parameters` in TestNg: How to pass parameter from `testing.xml`"
+    }, {
+      "id": "P9ZWOWm7i0k",
+      "title": "Architecture of Page Object Model (POM) Design With Selenium - Part -1"
+    }, {
+      "id": "uatGjMOapK8",
+      "title": "DataProvider In TestNG - Data Driven Framework in Selenium - Part 3"
+    }, {
+      "id": "WCXuToHC6aA",
+      "title": "Part 6 - POST CALL with POJO Class || Playwright Java API Automation"
+    }
+  ]
+}
+

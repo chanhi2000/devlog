@@ -1,0 +1,108 @@
+{
+  "channel": {
+    "id": "codingapple",
+    "name": "코딩애플",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOvYAPVF0TxSk5uqxuMpHAbc4jUf6EAATDbIPU-0Q=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "w9YnsVkI980",
+      "title": "GPT4를 최단기 퇴물로 만들어버릴 PaLM2"
+    }, {
+      "id": "-5cSTqXGDUs",
+      "title": "이 세상에 존재하면 안되는 VSCode 익스텐션들"
+    }, {
+      "id": "tHvZngU14jE",
+      "title": "JPEG은 왜 디지털 풍화가 생길까"
+    }, {
+      "id": "ZRpsB3ODr6M",
+      "title": "마이크로서비스가 뭔데 유행임"
+    }, {
+      "id": "CHzNNxZOIYI",
+      "title": "GPT로 이상한거 만들어서 월4천 버는 분"
+    }, {
+      "id": "o1Hy7cpSXjA",
+      "title": "개발자 만족도 1위 SvelteKit을 쓰고 암이 나았습니다"
+    }, {
+      "id": "yXPCg5eupGM",
+      "title": "오늘의 테크용어 : 웹소켓이 뭐냐면"
+    }, {
+      "id": "ORmnc-hLrYs",
+      "title": "자바스크립트 20년차 개발자처럼 주석다는 법"
+    }, {
+      "id": "--D4WMPEIZI",
+      "title": "아 저는 css 버리고 tailwind 씁니다"
+    }, {
+      "id": "EV3FZ3cWBp8",
+      "title": "(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식"
+    }, {
+      "id": "xD9GnHKveRk",
+      "title": "쉽게 설명하는 Git 기초 2. g`it diff` & 응 vscode 쓸거야"
+    }, {
+      "id": "XXseiON9CV0",
+      "title": "JWT 대충 쓰면 님들 코딩인생 끝남"
+    }, {
+      "id": "CojyGfCMvuU",
+      "title": "웹 포트폴리오에 간지나게 3D 모델을 추가해보자 (`Three.js`)"
+    }, {
+      "id": "iX3Nu1FcZKA",
+      "title": "와 Vite 쓰면 리액트 10배 빨라짐 (과장아님)"
+    }, {
+      "id": "zNHZJ_iEMPA",
+      "title": "리액트가 쉬워지는 채신기술 Zustand"
+    }, {
+      "id": "4Vq8CQf-egI",
+      "title": "올해부턴 CSS 다르게 짬 ㅅㄱ (2022년 CSS 채신기술)"
+    }, {
+      "id": "o0spBNs0zRk",
+      "title": "자바스크립트 숨겨진 기능 Shadow DOM 활용법"
+    }, {
+      "id": "VJag_H2Cosc",
+      "title": "초보 개발자를 위한 웹 신기술 WebAssembly 설명"
+    }, {
+      "id": "yYtTZcjCj_o",
+      "title": "Firebase로 당근마켓 만들기 3 : 상품 업로드한거 DB에 저장 ㄱㄱ"
+    }, {
+      "id": "Br9fKSIeAok",
+      "title": "React 기초 4강 : 리액트에서 버튼에 이벤트 리스너 (핸들러) 장착하는 법"
+    }, {
+      "id": "38PWm8TgaV0",
+      "title": "Vue 6강 : 상품목록 만들기 진짜 데이터로 (import / export)"
+    }, {
+      "id": "Qb8Oiy8i9IY",
+      "title": "React 기초 3강 : 리액트에선 변수말고 state 만들어 쓰랬죠 (useState)"
+    }, {
+      "id": "k2GWnDb5zoQ",
+      "title": "(Ep.2-2) Node.js를 쓰는 이유 (웹서버 만들기)"
+    }, {
+      "id": "FqnAFX9lQPQ",
+      "title": "React 기초 2강 : 리액트에선 HTML대신 JSX 써야함 (JSX 사용법)"
+    }, {
+      "id": "T4N9wjx7_E4",
+      "title": "Vue 3강 : v-for 반복문 보니까 HTML도 프로그래밍 언어네"
+    }, {
+      "id": "2P0oSNguGXI",
+      "title": "정규식이 쉬워지는 마법을 부려보겠다 뾰롱"
+    }, {
+      "id": "SdDs0ScOFSU",
+      "title": "chatGPT는 엄준식 프로그래밍 언어도 잘할까?"
+    }, {
+      "id": "yDhMmmHZONM",
+      "title": "바로 채용되는 웹개발자 포트폴리오 만들기"
+    }, {
+      "id": "PCkiz2GUFg8",
+      "title": "Next.js 13 강의 달린다 (1강~6강)"
+    }, {
+      "id": "jYJ3ygUfPrU",
+      "title": "(Next.js 0강) 요즘 프론트엔드만으로 먹고살기 힘든 이유"
+    }, {
+      "id": "3pUAantkYKc",
+      "title": "GPT4로 특이점 실험을 해봤다는데 결과가 충격임"
+    }, {
+      "id": "nTmAveylPjk",
+      "title": "코파일럿 X 쓰면 코파면서 코딩가능 엌ㅋㅋㅋㅋ"
+    }
+  ]
+}
+
+

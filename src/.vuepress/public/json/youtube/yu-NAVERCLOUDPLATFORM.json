@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "NAVERCLOUDPLATFORM",
+    "name": "NAVER Cloud Platform : 네이버 클라우드 플랫폼",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMwjjFLIeVqoa2qO9p31Dp9s5gtK1yDkUIHSz6K=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "j4_rnEHb8FM",
+      "title": "[Brown-bag 런치 세미나] 관리형 서비스로 쉽게 구축하는 빅데이터 플랫폼"
+    }, {
+      "id": "ZW1OnWbvnjQ",
+      "title": "[Brown-bag 런치 세미나] 클라우드 개념, 1시간으로 끝내기!"
+    }, {
+      "id": "hvkmbQf5uvE",
+      "title": "[웨비나] EFK로 쿠버네티스 로그 수집 및 분석하기"
+    }, {
+      "id": "nRVEv-ctqJA",
+      "title": "네이버 주가 상승의 원동력은?🤔 네이버 직원들이 직접 말하는 일하는 방식!"
+    }, {
+      "id": "GfZuHSX9RDM",
+      "title": "[웨비나] 클라우드 보안 A to Z: 클라우드 환경에서 발생하는 위협 탐지/대응 방안"
+    }
+  ]
+}

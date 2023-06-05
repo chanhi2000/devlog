@@ -1573,5 +1573,15 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "salesforce/CodeTF",
+    "desc": "CodeTF: One-stop Transformer Library for State-of-the-art Code LLM",
+    "topics": ["tree-sitter", "transformers", "code-generation", "code-intelligence", "ai4se", "code-understanding", "ai4code", "code-representation-learning", "code-learning-datasets", "human-eval", "multilingual-parsers"],
+    "officialSite": "os"
+  }, {
+    "repo": "openai/evals",
+    "desc": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

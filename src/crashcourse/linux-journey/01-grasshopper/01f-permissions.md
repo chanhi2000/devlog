@@ -87,7 +87,7 @@ chmod u-x myfile
 chmod ug+w
 ```
 
-There is another way to change permissions using numerical format. This method allows you to change permissions all at once. Instead of using r, w, or x to represent permissions, you'll use a numerical representation for a single permission set. So no need to specify the group with g or the user with u.
+There is another way to change permissions using numerical format. This method allows you to change permissions all at once. Instead of using `r`, `w`, or `x` to represent permissions, you'll use a numerical representation for a single permission set. So no need to specify the group with `g` or the user with `u`.
 
 The numerical representations are seen below:
 
@@ -178,7 +178,7 @@ Let's say I want to change my password, simple right? I just use the `passwd` co
 passwd
 ```
 
-What is the password command doing? It's modifying a couple of files, but most importantly it's modifying the `/etc/shadow` file. Let's look at that file for a second:
+What is the password command doing? It's modifying a couple of files, but most importantly it's modifying the <FontIcon icon="iconfont icon-file"/>`/etc/shadow` file. Let's look at that file for a second:
 
 ```sh
 ls -l /etc/shadow
@@ -196,7 +196,7 @@ ls -l /usr/bin/passwd
 
 You'll notice a new permission bit here `s`. This permission bit is the SUID, when a file has this permission set, it allows the users who launched the program to get the file owner's permission as well as execution permission, in this case root. So essentially while a user is running the password command, they are running as root.
 
-That's why we are able to access a protected file like `/etc/shadow` when we run the passwd command. Now if you removed that bit, you would see that you will not be able to modify `/etc/shadow` and therefore change your password.
+That's why we are able to access a protected file like <FontIcon icon="iconfont icon-file"/>`/etc/shadow` when we run the passwd command. Now if you removed that bit, you would see that you will not be able to modify <FontIcon icon="iconfont icon-file"/>`/etc/shadow` and therefore change your password.
 
 ### Modifying SUID
 
@@ -215,7 +215,7 @@ sudo chmod 4755 myfile
 ```
 As you can see the SUID is denoted by a 4 and pre-pended to the permission set. You may see the SUID denoted as a capital __S__ this means that it still does the same thing, but it does not have execute permissions.
 
-Look at the permission for `/etc/passwd` in detail, do you notice anything else? Files with SUID enabled are also easily distinguishable.
+Look at the permission for <FontIcon icon="iconfont icon-file"/>`/etc/passwd` in detail, do you notice anything else? Files with SUID enabled are also easily distinguishable.
 
 ---
 
@@ -284,7 +284,7 @@ $ ls -ld /tmp
 # drwxrwxrwxt 6 root root 4096 Dec 15 11:45 /tmp
 ```
 
-You'll see a special permission bit at the end here t, this means everyone can add files, write files, modify files in the `/tmp` directory, but only root can delete the `/tmp` directory.
+You'll see a special permission bit at the end here t, this means everyone can add files, write files, modify files in the <FontIcon icon="iconfont icon-folder"/>`/tmp` directory, but only root can delete the <FontIcon icon="iconfont icon-folder"/>`/tmp` directory.
 
 Modify sticky bit
 

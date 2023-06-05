@@ -40,22 +40,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## KodeKloud
 
-[![KodeKloud](https://yt3.googleusercontent.com/9sw41koFyRwnKpm4xf3fqrHVoqF4bs4dXz_5LbDNdJUugfJeJYVzeFS6ZZgOyYRfq9CadhFe6-U=s176-c-k-c0x00ffffff-no-rj =x150)][yu-kode-kloud]
-
-::: details 목록
-
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="gfxw_zPpO-4" title="Spacelift Tutorial - Effortlessly Build Your CI/CD Pipeline | KodeKloud" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="a3ujwK65dgs" title="Linux Crash Course for Beginners | Free Linux Lab Access | KodeKloud" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="esISkPlnxL0" title="AWS ECS Tutorial | Deploy a New Application from Scratch | KodeKloud" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="9vlEzgCyVfo" title="5 Kubernetes Features Every Beginner Must Know" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="7553XZ0T6pM" title="What is WebAssembly? And what's it got to do with Docker? | WASM vs Docker | KodeKloud" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="Z01b9QZG0D0" title="Ansible Playbooks for Beginners - Hands-On" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="zJ6WbK9zFpI" title="Docker Tutorial for Beginners | Docker Full Course | Access to FREE LABS [No Ads]" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="7553XZ0T6pM" title="What is WebAssembly? And what's it got to do with Docker? | WASM vs Docker | KodeKloud" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="ylmwaDUMV9c" title="AWS RDS Tutorial: Setting up a Database in Amazon RDS | KodeKloud" />
-<YoutubeItem channelName="KodeKloud" channelId="KodeKloud" id="XuSQU5Grv1g" title="Kubernetes Crash Course: Learn the Basics and Build a Microservice Application" />
-
-:::
+<MyYouTubeItems jsonName="yu-KodeKloud" />
 
 <!-- KodeKloud -->
 
@@ -71,30 +56,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ## DB Tech
 
-[DB Tech][yu-db-tech]
-
-::: details 목록
-
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="1e2yGEFaB0A" title="Flatnotes - Note-taking Made SIMPLE!" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="V1GXq1FURxM" title="Passbolt - Why I Can't Recommend This Password Manager" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6BzPmbgFQCo" title="Kasm Workspaces: Easy Installation! (Episode 2)" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6O_REElI1hs" title="OpenProject - Project Management Deployed QUICKLY!" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="da4ot6AIRDU" title="Monitor Your Service Uptime with Uptime Kuma" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="o9SLve4wBPY" title="Your New Docker Homepage" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="YNOP-Fjt_E8" title="Build Internal Tools in Docker with Appsmith" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="rWwNeZCOPJA" title="Self-Hosted File Sharing Made EASY with Pingvin Share" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="X8HrJZTYOQU" title="THIS is the Self-Hosted Link Shortener YOU Should Be Using!" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="QwfJZ2sUDUE" title="HomeBox: Your Home Inventory Simplified" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="YxcHxsZHh9A" title="Pastebin Clone in Docker with Lenpaste" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="2DFwWKp0nVo" title="Umbrel: A Self-Hosted Server With Crypto and BlockChain Tech" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="Vhk7_AgnCVI" title="Host Your Own Event Meet Up Scheduler with Rallly \(Yes—with 3 Ls\)" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="22dyDosZ9Sk" title="Dozzle: Docker Container Log Viewer" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="-ttZjGBkLL8" title="Export Docker Container Settings as Docker Compose Stack" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="OoTMoKtSOaI" title="Wallabag - Save Web Pages for Later on Docker" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="6gwxIW-Nfms" title="Docker Link Shortener: Polr" />
-<YoutubeItem channelName="DB Tech" channelId="DBTechYT" id="SwCuUbz4h2g" title="OpenMediaVault Recovery - OMV First Aid" />
-
-:::
+<MyYouTubeItems jsonName="yu-DBTechYT" />
 
 <!-- DB Tech -->
 
@@ -189,7 +151,13 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Adam Bien
 
+<MyYouTubeItems jsonName="yu-bienadam" />
+
+<!-- Adam Bien -->
+
+---
 
 ## Valentin Despa
 

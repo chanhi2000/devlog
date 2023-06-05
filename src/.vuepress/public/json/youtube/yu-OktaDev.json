@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "PR6Gw4Ca-sE",
+      "title": "Build a Secure CRUD Application with React, Spring Boot, and Kotlin"
+    }, {
       "id": "1aha4yrT2l0",
       "title": "How to Protect an API in FastAPI with Auth0 by Okta"
     }, {
@@ -38,5 +41,6 @@
     }
   ]
 }
+
 
 

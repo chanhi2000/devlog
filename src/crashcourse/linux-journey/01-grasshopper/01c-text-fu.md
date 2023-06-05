@@ -60,13 +60,13 @@ The > is a redirection operator that allows us the change where standard output 
 
 And that's basically how `stdout` redirection works!
 
-Well let's say I didn't want to overwrite my `peanuts.txt`, luckily there is a redirection operator for that as well, `>>`:
+Well let's say I didn't want to overwrite my <FontIcon icon="iconfont icon-file"/>`peanuts.txt`, luckily there is a redirection operator for that as well, `>>`:
 
 ```sh
 echo Hello World >> peanuts.txt
 ```
 
-This will append Hello World to the end of the `peanuts.txt` file, if the file doesn't already exist it will create it for us like it did with the `>` redirector!
+This will append Hello World to the end of the <FontIcon icon="iconfont icon-file"/>`peanuts.txt` file, if the file doesn't already exist it will create it for us like it did with the `>` redirector!
 
 Try a couple of commands:
 
@@ -90,7 +90,7 @@ cat < peanuts.txt > banana.txt
 
 Just like we had `>` for `stdout` redirection, we can use `<` for `stdin` redirection.
 
-Normally in the cat command, you send a file to it and that file becomes the `stdin`, in this case, we redirected `peanuts.txt` to be our stdin. Then the output of cat `peanuts.txt` which would be Hello World gets redirected to another file called `banana.txt`.
+Normally in the cat command, you send a file to it and that file becomes the `stdin`, in this case, we redirected <FontIcon icon="iconfont icon-file"/>`peanuts.txt` to be our stdin. Then the output of cat <FontIcon icon="iconfont icon-file"/>`peanuts.txt` which would be Hello World gets redirected to another file called <FontIcon icon="iconfont icon-file"/>`banana.txt`.
 
 Try out a couple of commands:
 
@@ -126,15 +126,15 @@ So now if we want to redirect our stderr to the file we can do this:
 ls /fake/directory 2> peanuts.txt
 ```
 
-You should see just the stderr messages in `peanuts.txt`.
+You should see just the stderr messages in <FontIcon icon="iconfont icon-file"/>`peanuts.txt`.
 
-Now what if I wanted to see both stderr and stdout in the `peanuts.txt` file? It's possible to do this with file descriptors as well:
+Now what if I wanted to see both stderr and stdout in the <FontIcon icon="iconfont icon-file"/>`peanuts.txt` file? It's possible to do this with file descriptors as well:
 
 ```sh
 ls /fake/directory > peanuts.txt 2>&1
 ```
 
-This sends the results of `ls` `/fake/directory` to the `peanuts.txt` file and then it redirects `stderr` to the stdout via `2>&1`. The order of operations here matters, `2>&1` sends stderr to whatever stdout is pointing to. In this case stdout is pointing to a file, so `2>&1` also sends stderr to a file. So if you open up that `peanuts.txt` file you should see both `stderr` and `stdout`. In our case, the above command only outputs stderr.
+This sends the results of `ls` `/fake/directory` to the <FontIcon icon="iconfont icon-file"/>`peanuts.txt` file and then it redirects `stderr` to the stdout via `2>&1`. The order of operations here matters, `2>&1` sends stderr to whatever stdout is pointing to. In this case stdout is pointing to a file, so `2>&1` also sends stderr to a file. So if you open up that <FontIcon icon="iconfont icon-file"/>`peanuts.txt` file you should see both `stderr` and `stdout`. In our case, the above command only outputs stderr.
 
 There is a shorter way to redirect both `stdout` and `stderr` to a file:
 
@@ -142,7 +142,7 @@ There is a shorter way to redirect both `stdout` and `stderr` to a file:
 ls /fake/directory &> peanuts.txt
 ```
 
-Now what if I don't want any of that cruft and want to get rid of stderr messages completely? Well you can also redirect output to a special file call `/dev/null` and it will discard any input.
+Now what if I don't want any of that cruft and want to get rid of stderr messages completely? Well you can also redirect output to a special file call <FontIcon icon="iconfont icon-file"/>`/dev/null` and it will discard any input.
 
 ```sh
 ls /fake/directory 2> /dev/null
@@ -178,7 +178,7 @@ Well what if I wanted to write the output of my command to two different streams
 ls | tee peanuts.txt
 ```
 
-You should see the output of ls on your screen and if you open up the `peanuts.txt` file you should see the same information!
+You should see the output of ls on your screen and if you open up the <FontIcon icon="iconfont icon-file"/>`peanuts.txt` file you should see the same information!
 
 Try the following commands:
 
@@ -371,7 +371,7 @@ man tail
 
 ## 10. `expand` and `unexpand`
 
-In our lesson on the cut command, we had our `sample.txt` file that contained a tab. Normally TABs would usually show a noticeable difference but some text files don't show that well enough. Having TABs in a text file may not be the desired spacing you want. To change your TABs to spaces, use the expand command.
+In our lesson on the cut command, we had our <FontIcon icon="iconfont icon-file"/>`sample.txt` file that contained a tab. Normally TABs would usually show a noticeable difference but some text files don't show that well enough. Having TABs in a text file may not be the desired spacing you want. To change your TABs to spaces, use the expand command.
 
 ```sh
 expand sample.txt
@@ -430,7 +430,7 @@ file2.txt
 3 Sue
 ```
 
-To join this file you need to specify which fields you are joining, in this case we want field 2 on `file1.txt` and field 1 on `file2.txt`, so the command would look like this:
+To join this file you need to specify which fields you are joining, in this case we want field 2 on <FontIcon icon="iconfont icon-file"/>`file1.txt` and field 1 on <FontIcon icon="iconfont icon-file"/>`file2.txt`, so the command would look like this:
 
 ```sh
 $ join -1 2 -2 1 file1.txt file2.txt
@@ -439,7 +439,7 @@ $ join -1 2 -2 1 file1.txt file2.txt
 # 3 Mary Sue
 ```
 
-`-1` refers to `file1.txt` and `-2` refers to `file2.txt`. Pretty neat. You can also split a file up into different files with the split command:
+`-1` refers to <FontIcon icon="iconfont icon-file"/>`file1.txt` and `-2` refers to <FontIcon icon="iconfont icon-file"/>`file2.txt`. Pretty neat. You can also split a file up into different files with the split command:
 
 ```sh
 split somefile
@@ -657,13 +657,13 @@ How would you get the total count of lines by using the `nl` file without search
 
 The `grep` command is quite possibly the most common text processing command you will use. It allows you to search files for characters that match a certain pattern. What if you wanted to know if a file existed in a certain directory or if you wanted to see if a string was found in a file? You certainly wouldn't dig through every line of text, you would use `grep`!
 
-Let's use our `sample.txt` file as an example:
+Let's use our <FontIcon icon="iconfont icon-file"/>`sample.txt` file as an example:
 
 ```sh
 grep fox sample.txt
 ```
 
-You should see that grep found fox in the `sample.txt` file.
+You should see that grep found fox in the <FontIcon icon="iconfont icon-file"/>`sample.txt` file.
 
 You can also grep patterns that are case insensitive with the `-i` flag:
 

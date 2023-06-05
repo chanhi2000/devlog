@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id": "OFsJywknqXo",
+      "title": "egui 0.22 + WebGPU #shorts"
+    }, {
+      "id": "ie13kswrWu4",
+      "title": "Building WASM web UI with Rust"
+    }, {
       "id": "sWmlbMh3ol8",
       "title": "Typst: The LaTeX alternative in Rust"
     }, {

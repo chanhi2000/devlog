@@ -32,9 +32,9 @@ color: rgba(250, 250, 250, 0.2)
 
 ---
 
-## Rust enum-match code generation
+> Rust enum-match code generation
 
-### Matching an enum and associated fields
+## Matching an enum and associated fields
 
 Enums in Rust are discriminated unions that can save one of the multiple variants. The enum discriminator identifies the current interpretation of the discriminated union.
 
@@ -61,7 +61,9 @@ pub fn double(num: Number) -> Number {
 }
 ```
 
-### Memory layout of a Rust enum
+---
+
+## Memory layout of a Rust enum
 
 Before we proceed any further, let's look at the enum organization in memory. The size of the enum depends upon the largest variant. This example a `Number::Complex` requires two 64-bit floats. The total memory needed for the variant is 16 bytes. The size of the enum is 24 bytes. The extra 8 bytes are used to store a 64-bit discriminator that is used to identify the variant currently saved in the enum.
 
@@ -77,13 +79,17 @@ __Note__: A 64-bit discriminator might seem wasteful here. Due to padding rules,
 
 :::
 
-### Overview of the generated code
+--- 
+
+## Overview of the generated code
 
 Before we dig deep into the assembly, let's get an overview of the generated code via the following flowchart. The code branches based on the enum discriminator and handles the processing of each enum tag separately. The results and the discriminator values are written at the provided return address.
 
 ![Assembly code overview enum matching](https://eventhelix.com/rust/rust-to-assembly-enum-match/enum-match-rust-generated-assembly-overview.svg)
 
-### Deep dive into the generated code
+---
+
+## Deep dive into the generated code
 
 Now that we understand the basic flow of the generated code, let's analyze the generated assembly code. The following graph shows the branching structure of the generated assembly. The top box and middle-right boxes check the discriminator and then invoke the appropriate variant handling code (the three leaf boxes).
 
@@ -130,12 +136,16 @@ example::double:
         ret
 ```
 
+---
+
 ## Key takeaways
 
 - The Rust compiler adds an extra 8 bytes to the enum to store the discriminator. This is used to identify the variant currently stored in the enum.
 - The size of the enum depends upon the largest variant. In this example, the largest variant is `Number::Complex` that requires 16 bytes. The discriminator is 64-bits wide and hence requires 8 bytes.
 - The size of the discriminator depends upon the range of values that can be stored in the enum. However, in most scenarios, the alignment requirements dictate the size of the discriminator.
 - The generated assembly code branches based on the discriminator and then processes the fields of the variant.
+
+---
 
 ## Experiment in the Compiler Explorer
 

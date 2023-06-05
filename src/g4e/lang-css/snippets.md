@@ -431,8 +431,7 @@ function moveScrollIndicator(e) {
 
 ## Image upload to Cloudinary on the client side
 
-<VideoPlayer
-  src="/videos/lang-css/image-upload-to-cloudinary-on-the-client-side.mp4"/>
+![Image upload to Cloudinary on the client side](/images/lang-css/image-upload-to-cloudinary-on-the-client-side.gif)
 
 ::: normal-demo Image upload to Cloudinary on the client side
 
@@ -489,8 +488,7 @@ const uploadImage = e => {
 ## Add Swipe to Close on a Sidebar
 
 <VideoPlayer
-  src="/videos/lang-css/add-swipe-to-close-on-a-sidebar.mp4"
-  />
+  src="/videos/lang-css/add-swipe-to-close-on-a-sidebar.mp4"/>
 
 ::: normal-demo Add Swipe to Close on a Sidebar
 

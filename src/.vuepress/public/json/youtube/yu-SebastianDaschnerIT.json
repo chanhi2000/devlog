@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "HsXGMN1Xups",
+      "title": "Quarkus Panache Active Record vs. Repository Pattern"
+    }, {
       "id": "dFZjr3DYdA0", 
       "title": "Helpful Command Line Scripts and Automation in My Setup"
     }, {
@@ -44,4 +47,5 @@
     }
   ]
 }
+
 

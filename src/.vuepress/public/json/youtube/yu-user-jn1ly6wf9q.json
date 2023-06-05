@@ -1,0 +1,59 @@
+{
+  "channel": {
+    "id": "user-jn1ly6wf9q",
+    "name": "웹짱이영환쌤",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtQozv4sunSani3NttjMj05OC6moKA09yDtQTqSg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "gHe9He0RQ9k",
+      "title": "Webjjang Oracle ver.2023.05 04-01 회원 등급 관리 스키마와 운영 쿼리(웹짱과 함께하는 오라클)"
+    }, {
+      "id": "CDRwF0SRkwE",
+      "title": "Webjjang Oracle ver.2023.05 04-02 회원 관리 스키마와 제약 조건 정리(웹짱과 함께하는 오라클)"
+    }, {
+      "id": "mhoY_JTtKnA",
+      "title": "Webjjang Oracle ver.2023.05 04-03 회원 관리 샘플 데이터와 오류 수정(웹짱과 함께하는 오라클)"
+    }, {
+      "id": "6U-diohlsSI",
+      "title": "Webjjang JAVA ver.2023.04 05-04 참조형 - 배열의 사용(웹짱과 함께하는 자바)"
+    }, {
+      "id": "DojMFzFBxBY",
+      "title": "Webjjang Spring ver.2021.04 22-01 Interceptor와 권한 설정(웹짱과 함께하는 스프링)"
+    }, {
+      "id": "UDh28CNqigo",
+      "title": "Webjjang Web ver.2021.01 04-07 공지사항 흐름 구현(웹짱과 함께하는 웹표준-화면구현)"
+    }, {
+      "id": "S1GOHP1cRsw",
+      "title": "Webjjang JAVA ver.2022.11 17-08 JDBC 응용 - Qna - DB Driver 로딩과 조인 적용(웹짱과 함께하는 자바2211)"
+    }, {
+      "id": "gi5eZS9ft64",
+      "title": "Webjjang JAVA ver.2022.11 17-09 JDBC 응용 - Qna - 글보기의 DAO(웹짱과 함께하는 자바2211)"
+    }, {
+      "id": "k7Q0KZpJmP0",
+      "title": "Webjjang JAVA ver.2022.11 17-10 JDBC 응용 - Qna - 조회수 1증가와 보기 데이터 출력(웹짱과 함께하는 자바2211)"
+    }, {
+      "id": "rFwh0v61PsU",
+      "title": "Webjjang JAVA ver.2022.11 17-11 JDBC 응용 - Qna - 질문하기(웹짱과 함께하는 자바2211)"
+    }, {
+      "id": "Usqz87PMv8o",
+      "title": "Webjjang JAVA ver.2022.11 17-12 JDBC 응용 - Qna - 답변하기(웹짱과 함께하는 자바2211)"
+    }, {
+      "id": "paOhcu8Y5ew",
+      "title": "Webjjang Spring ver.2023.03 04-02 MyBatis의 Mapper 방식으로 SQL 처리하기(웹짱과 함께하는 스프링)"
+    }, {
+      "id": "-pjl1a5GcjM",
+      "title": "Webjjang Spring ver.2023.03 04-03 MyBatis의 Mapper.xml을 사용하여 SQL 처리하기(웹짱과 함께하는 스프링)"
+    }, {
+      "id": "doIG_mACLlo",
+      "title": "Webjjang Spring ver.2023.03 01-05 개발 환경 구축 - Lombok 라이브러리 확인하기(웹짱과 함께하는 스프링)"
+    }, {
+      "id": "o17b43rGinQ",
+      "title": "Webjjang Spring ver.2023.03 03-01 오라클 JDBC 연결과 테스트(웹짱과 함께하는 스프링)"
+    }, {
+      "id": "_2Jluyzr9FE",
+      "title": "Webjjang Spring ver.2023.03 03-03 DBCP 테스트(웹짱과 함께하는 스프링)"
+    }
+  ]
+}
+

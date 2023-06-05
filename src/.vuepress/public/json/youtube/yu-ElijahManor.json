@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id": "pw0SH7AHIFI", 
+      "title": "GitHub Copilot CLI: AI for the Command-Line"
+    }, {
+      "id": "R8q154QTSDY", 
+      "title": "Warp: The AI-Powered Rust-based Terminal"
+    }, {
       "id": "a_ZpTPaSn38", 
       "title": "LazyVim: Linting and Formatting"
     }, {

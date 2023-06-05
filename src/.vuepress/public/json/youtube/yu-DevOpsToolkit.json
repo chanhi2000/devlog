@@ -1,0 +1,65 @@
+{
+  "channel": {
+    "id": "DevOpsToolkit",
+    "name": "DevOps Toolkit",
+    "profile": "https://yt3.googleusercontent.com/kRxC322HFMMQ8KQzb5zB2C4JDbMarHkXizae8znxrdPBxRdmrMsz24ft0PfSHoOcEkEa5lRM2Q=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Ny9RxM6H6Hg",
+      "title": "Should We Run Databases In Kubernetes? CloudNativePG PostgreSQL"
+    }, {
+      "id": "hI4On2HPElc",
+      "title": "Keep Your TODO List &amp; Notes Simple With Dooit"
+    }, {
+      "id": "7ZVQSg9HX68",
+      "title": "Is eBPF The End Of Kubernetes Sidecar Containers?"
+    }, {
+      "id": "xPt3DVgVKsA",
+      "title": "Packaging And Delivery - Ask Me Anything With Scott"
+    }, {
+      "id": "Kw6L6X4weAI",
+      "title": "Kubernetes Operators - Ask Me Anything With Dario"
+    }, {
+      "id": "RTo9Pvo_yiY",
+      "title": "Do NOT Use Docker Compose! Develop In Kubernetes (With Okteto)"
+    }, {
+      "id": "SyRZe5YVCVk",
+      "title": "Manage Kubernetes Secrets With External Secrets Operator (ESO)"
+    }, {
+      "id": "iO6ZLCrN8kA",
+      "title": "Tanzu Kubernetes Platform By VMware"
+    }, {
+      "id": "CB79eTFbR0w",
+      "title": "10 Must-Have Kubernetes Tools"
+    }, {
+      "id": "C-2v7HT-uSA",
+      "title": "How To Auto-Scale Kubernetes Clusters With Karpenter"
+    }, {
+      "id": "PRsB6HzQ_ss",
+      "title": "How To Setup Highly Available Kubernetes Clusters And Applications?"
+    }, {
+      "id": "dAUpAq7hfeA",
+      "title": "Tekton vs. Argo Workflows - Kubernetes-Native CI/CD Pipelines"
+    }, {
+      "id": "2Kc3fUJANAc",
+      "title": "Running Jenkins In Kubernetes - Tutorial And Review"
+    }, {
+      "id": "7mvrpxz_BfE",
+      "title": "Tekton - Kubernetes Cloud-Native CI/CD Pipelines And Workflows"
+    }, {
+      "id": "EgwVQN6GNJg",
+      "title": "Kaniko - Building Container Images In Kubernetes Without Docker"
+    }, {
+      "id": "18FEA5xXBGY",
+      "title": "Kubernetes Network Policies Explained"
+    }, {
+      "id": "EsZcDUaSUss",
+      "title": "Kubernetes Validating Admission Policy Changes The Game"
+    }, {
+      "id": "YqmLIh31VH0",
+      "title": "Develop Apps - Feat. Telepresence, DevSpace, Nocalhost, And Devfile (You Choose!, Ch. 1, Ep. 7)"
+    }
+  ]
+}
+

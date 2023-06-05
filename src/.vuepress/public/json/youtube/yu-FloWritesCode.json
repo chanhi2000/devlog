@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "FloWritesCode",
+    "name": "Flo Writes Code",
+    "profile": "https://yt3.googleusercontent.com/ehSCugyPbtxfFvUb-BPUHuHydgC7per3dfLL789DIk5KdDwNK-SBknsEyrFhFj40zfpoTF4jrw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "qQTTYt9wnFY",
+      "title": "Stop using Spacer() in SwiftUI"
+    }, {
+      "id": "EjBTkq-wtCE",
+      "title": "Super fast Xcode Downloads (up to 5X FASTER)"
+    }, {
+      "id": "kWEyKdZ4G38",
+      "title": "Why I don't do MVVM anymore"
+    }, {
+      "id": "bmTprKIdJ5U",
+      "title": "How to upload your app to the App Store in 2023"
+    }, {
+      "id": "v1lGPx6m__g",
+      "title": "macOS Menu Bar App using MenuBarExtra in Ventura & SwiftUI (No AppKit!)"
+    }, {
+      "id": "AUOoalBwxos",
+      "title": "How to support Dynamic Island in iOS 16.1"
+    }, {
+      "id": "ZVdbRjY2GN4",
+      "title": "Global Hotkeys on macOS in SwiftUI"
+    }, {
+      "id": "PtQevkS1M2I",
+      "title": "Create Menu Bar Commands with SwiftUI on macOS"
+    }, {
+      "id": "LG06nQRC1S8",
+      "title": "Support macOS Clipboard (Copy/Paste) in SwiftUI Apps"
+    }
+  ]
+}
+

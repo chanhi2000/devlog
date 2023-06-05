@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "PaulColton",
+    "name": "Paul Colton",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO5ZvkaCbGXjiHRySYXz5d9pHzBVDItbGZqTah55g=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id":"6ZIZ5jGovEY",
+      "title":"Simple SwiftUI MVVM and Combine"
+    }
+  ]
+}
+

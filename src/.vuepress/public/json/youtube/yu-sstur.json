@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "sstur",
+    "name": "Tech Talks with Simon",
+    "profile": "https://yt3.googleusercontent.com/y_RroMEyuz_pjIWmNL3PXrFDx1FihJw_CrO1gffpFc7pN6bxqetmrA3na_sb75TguXa5XDPW=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "xQgBJIye5EU",
+      "title": "TypeScript: tsconfig demystified!"
+    }
+  ]
+}

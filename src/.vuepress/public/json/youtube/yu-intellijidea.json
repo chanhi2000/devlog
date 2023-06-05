@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "QxxG66eQoTc",
+      "title": "Virtual Threads and Structured Concurrency in Java 21 With Loom"
+    }, {
       "id": "EQPr7OhG768",
       "title": "IntelliJ IDEA Conf 2022 | Evolving JUnit 5"
     }, {
@@ -56,3 +59,4 @@
     }    
   ]
 }
+

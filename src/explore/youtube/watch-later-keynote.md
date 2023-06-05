@@ -155,14 +155,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Redis
 
-[Redis][yu-redis]
-
-::: details 목록
-
-<YoutubeItem channelName="Redis" channelId="Redisinc" id="KUfufrwpBkM" title="Redis Stack Workshop: Redis Stack OM Library for Node.js" />
-<YoutubeItem channelName="Redis" channelId="Redisinc" id="zeLToGnjIUM" title="Modeling Data Concurrency w/ Asynchronous I/O in Zig - RedisConf 2020" />
-
-:::
+<MyYouTubeItems jsonName="yu-Redisinc" />
 
 <!-- Redis -->
 
@@ -224,13 +217,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Snyk
 
-[Snyk][yu-snyk]
-
-::: details 목록
-
-<YoutubeItem channelName="Snyk" channelId="Snyksec" id="uJ_hOA9IQw0" title="Understanding NPM Dependency Confusions - What You Need to Know" />
-
-:::
+<MyYouTubeItems jsonName="yu-Snyksec" />
 
 ---
 ## NGINX 
@@ -283,19 +270,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Microsoft Visual Studio
 
-[Microsoft Visual Studio][yu-visualstudio]
-
-::: details 목록
-
-<YoutubeItem channelId="visualstudio" channelName="Microsoft Visual Studio" id="skUKcNMy1DA" title="Speed up your builds of SDK-style .NET projects" />
-<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="o4fYwtKpoz4" title="Visual C++ STL Code Review: GH-1794, Use iterator concept in vector's range constructor" />
-<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="EP0TZqosWs0" title="Writing Visual Studio Extensions with Mads - Fixing bugs in Add Any File" />
-<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="MvJnod5Xb5g" title="Writing Visual Studio Extensions with Mads - Snippets" />
-<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="bq1-25nwoRg" title="Writing Visual Studio Extensions with Mads - Editor extension:  Whole line selection" />
-<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="9J7scOtDYBc" title="Visual Studio and accessibility - Visual Studio Remote Office Hours, 5/28" />
-<YoutubeItem channelName="Microsoft Visual Studio" channelId="visualstudio" id="aVEug50YpaM" title="Debugging Managed Async Code in Visual Studio 2019" />
-
-:::
+<MyYouTubeItems jsonName="yu-visualstudio" />
 
 <!-- Microsoft Visual Studio -->
 
@@ -303,13 +278,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Microsoft Power BI
 
-[Microsoft Power BI][yu-microsoft-power-bi]
-
-::: details 목록
-
-<YoutubeItem channelName="Microsoft Power BI" channelId="MicrosoftPowerBI" id="HE71Qii3xiU" title="Numeric calculations in Data Analysis Expressions with Power BI \| Community Webinars" />
-
-:::
+<MyYouTubeItems jsonName="yu-MicrosoftPowerBI" />
 
 <!-- Microsoft Power BI -->
 
@@ -344,29 +313,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Red Hat Korea
 
-[Red Hat Korea][yu-redhatkorea2558]
-
-::: details 목록
-
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="hDMQtA_wW5s" title="\[📔Brown Bag 세션 #7\] 엔터프라이즈 전반의 자동화 도입 해결사! Red Hat Ansible Automation Platform" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="IMTA0NgI36Q" title="\[📔Brown Bag 세션 #13\]  Red Hat OpenShift GitOps Operator 알아보기" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="VhQR8xNOPCQ" title="\[📔Brown Bag 세션 #19\] K8S API Server를 이용한 Pod Monitoring" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="1B35V_dKQK0" title="\[📔Brown Bag 세션 #20\] OpenShift Pipelines 설치 및 사용 방법" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="HPRJDFAKp_0" title="\[📔Brown Bag 세션 #21\] Realtime Linux란?" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="Ywjs4Fo9nL4" title="\[📔Brown Bag 세션 #22\] Edge란 무엇일까요?" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="aQhjFRKEylc" title="\[📔Brown Bag 세션 #23\] OpenShift DR 시스템 구축을 위한 ODF\(OpenShift Data Foundation\)" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="yqVW1Y9vtdc" title="\[📔Brown Bag 세션 #24\] KVM 가상화 환경 소개" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="5nMwTWEdIb0" title="\[📔Brown Bag 세션 #25\] Part I - Python과 JSON" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="zxC-iOHCJWc" title="\[📔Brown Bag 세션 #26\] Part II - Python과 RH 모듈" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="Jqh9IO__2mI" title="\[📔Brown Bag 세션 #27\] OpenShift Disconnected Mirroring" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="5x3VDXsBbPg" title="\[📔Brown Bag 세션 #28\] Knative vs. KEDA" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="s_0NQRoG5lE" title="\[📔Brown Bag 세션 #29\] Prometheus란?" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="oUC-fRvC4OY" title="\[📔Brown Bag 세션 #30\] Ansible Automation Platform on OCP" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="D1BlfA1Q9vs" title="\[📔Brown Bag 세션 #32\] MTC란? \(Migration Toolkit for Containers\)" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="g7BX0rgn4_E" title="\[📔Brown Bag 세션 #33\] Quarkus란 무엇일까요?" />
-<YoutubeItem channelName="Red Hat Korea" channelId="redhatkorea2558" id="a_QWGHJvu3I" title="레드햇 & 인텔 금융 웨비나- 최적의 클라우드 환경을 제공하는 컨테이너 플랫폼 : Red Hat OpenShift Container " />
-
-:::
+<MyYouTubeItems jsonName="yu-redhatkorea2558" />
 
 <!-- Red Hat Korea -->
 
@@ -374,17 +321,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## NAVER Cloud Platform : 네이버 클라우드 플랫폼
 
-[NAVER Cloud Platform : 네이버 클라우드 플랫폼][yu-navercloudplatform]
-
-::: details 목록
-
-<YoutubeItem channelName="NAVER Cloud Platform : 네이버 클라우드 플랫폼" channelId="navercloudplatform" id="j4_rnEHb8FM" title="\[Brown-bag 런치 세미나\] 관리형 서비스로 쉽게 구축하는 빅데이터 플랫폼" />
-<YoutubeItem channelName="NAVER Cloud Platform : 네이버 클라우드 플랫폼" channelId="navercloudplatform" id="ZW1OnWbvnjQ" title="\[Brown-bag 런치 세미나\] 클라우드 개념, 1시간으로 끝내기!" />
-<YoutubeItem channelName="NAVER Cloud Platform : 네이버 클라우드 플랫폼" channelId="navercloudplatform" id="hvkmbQf5uvE" title="\[웨비나\] EFK로 쿠버네티스 로그 수집 및 분석하기" />
-<YoutubeItem channelName="NAVER Cloud Platform : 네이버 클라우드 플랫폼" channelId="navercloudplatform" id="nRVEv-ctqJA" title="네이버 주가 상승의 원동력은?🤔 네이버 직원들이 직접 말하는 일하는 방식!" />
-<YoutubeItem channelName="NAVER Cloud Platform : 네이버 클라우드 플랫폼" channelId="navercloudplatform" id="GfZuHSX9RDM" title="\[웨비나\] 클라우드 보안 A to Z: 클라우드 환경에서 발생하는 위협 탐지/대응 방안" />
-
-:::
+<MyYouTubeItems jsonName="yu-NAVERCLOUDPLATFORM" />
 
 ---
 
@@ -590,48 +527,9 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## NDC Conferences
 
-[NDC Conferences][yu-ndc]
+<MyYouTubeItems jsonName="yu-ndc" />
 
-::: details 목록
-
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="AlwmkatOUf4" title=".NET MAUI Blazor - Build Hybrid Mobile, Desktop, and Web apps - Gerald Versluis - NDC London 2023" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="nXNYrbetzMM" title="Clone yourself with Azure Custom Neural Voice - Callum Whyte - NDC London 202" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="uQsT3n1NTkE" title="Building beautiful Blazor apps with Tailwind CSS - Chris Sainty - NDC Porto 2022" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="Khn7sDUSEJM" title="Blazor, a new framework for browser-based .NET apps - Steve Sanderson" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="x7oYYLgZgtY" title="Hot Chocolate: An introduction to GraphQL on ASP.Net Core - Michael Staib" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="CCIO3GOaFe0" title="From the OWASP Top Ten(s) to the OWASP ASVS - Jim Manico" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="VJv-Jfs0fyk" title="Migrate and Modernize with Kubernetes and Windows Containers - Vishwas Lele" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="XLOZ3hhJKBE" title="Building real-time applications with Blazor and GraphQL - Michael Staib" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="dubHmScPNzQ" title="Navigating microservices with .NET Core - Ryan Nowak" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="JIlO_EebEQI" title="Abusing C# - Jon Skeet" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="yXixyZ5ch3c" title="How Effective Teams Use Git - Enrico Campidoglio" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="aUbXGs7YTGo" title="Change your habits: Modern techniques for modern C# - Bill Wagner" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="CwISe8blq38" title="Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="JrA1cv5jvFA" title="Deep Dive on Server-Side Blazor - Carl Franklin" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="QnBYmTpugz0" title="Blazor in more depth - Ryan Nowak & Steve Sanderson" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="eiUgVa2Td_k" title="The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="AL07H9Vjwtw" title="A Developer's Introduction to Electronics - Guy Royse" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="PIj0TaH6MH4" title="How to Steal an Election - Gary Short" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="lAyL9HKx8cQ" title="A Developer’s Introduction to Kubernetes - Chris Klug" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="hlEzlS6WN4k" title="Common API Security Pitfalls - Philippe De Ryck" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="yqqhrrZK62Q" title="Designing a Secure Software Development Lifecycle with DevOps - Mike Long" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="6BT2AF9PO5g" title="Blazor, a new framework for browser-based .NET apps - Steve Sanderson" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="Mic9bhZWTas" title="Modern JavaScript For Web Dinosaurs - Ryan Preece" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="LIaekiT6Ehs" title="GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="lCWG2S0FYVI" title="Modern day C# development in Visual Studio 2019 - Kevin Pilch" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="kqdsC_Oj9Gk" title="TypeScript - Beyond the Basics - Eric Potter" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="ekNSwDS1ya4" title="Keeping your builds green using Docker - Jakob Ehn" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="7-aXp-u6008" title="Compile Time Regular Expressions - Hana Dusíková" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="7WNI_bciFlA" title="How did Linux become a mainstream embedded operating system? - Chris Simmonds" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="uW-Kk7Qpv5U" title="Blazor, a new framework for browser-based .NET apps - Steve Sanderson" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="AsSMKL5vaXw" title="Developing Kernel Drivers with Modern C++ - Pavel Yosifovich" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="5sbSaZ9vqTo" title="Mobile AR in 10 minutes - Kristina Simakova" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="ybDD8xCqYcc" title="Kotlin for C# Developers - Alex Dunn" />
-<YoutubeItem channelName="NDC Conferences" channelId="NDC" id="ylaxq4koAkU" title="Using C# Expression Trees in the Real World - Spencer Schneidenbach" />
-
-:::
-
-<!-- NDC -->
+<!-- NDC Conferences-->
 
 ---
 ## VMware Cloud Native Apps

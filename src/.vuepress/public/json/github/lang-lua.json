@@ -54,5 +54,10 @@
     "desc": "",
     "topics": ["vim", "neovim", "nvim", "lsp", "nvim-plugin"],
     "officialSite": ""
-  } 
+  }, {
+    "repo": "neovim/nvim-lspconfig",
+    "desc": "Quickstart configs for Nvim LSP",
+    "topics": ["plugin", "vim", "neovim", "language-server", "language-server-protocol", "nvim", "lsp"],
+    "officialSite": ""
+  }
 ]

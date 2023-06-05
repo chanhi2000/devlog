@@ -95,7 +95,7 @@ There are two types of terminals, regular __terminal devices__ and __pseudotermi
 
 We're gonna segue so you can see this action, go ahead and type <kbd>Ctrl</kbd>-<kbd>Alt</kbd>-<kbd>F1</kbd> to get into TTY1 (the first virtual console), you'll notice how you don't have anything except the terminal, no graphics, etc. This is considered a regular terminal device, you can exit this with <kbd>Ctrl</kbd>-<kbd>Alt</kbd>-<kbd>F7</kbd>.
 
-A pseudoterminal is what you've been used to working in, they emulate terminals with the shell terminal window and are denoted by PTS . If you look at ps again, you'll see your shell process under `pts/*`.
+A pseudoterminal is what you've been used to working in, they emulate terminals with the shell terminal window and are denoted by PTS . If you look at ps again, you'll see your shell process under <FontIcon icon="iconfont icon-folder"/>`pts/*`.
 
 Ok, now circling back to the controlling terminal, processes are usually bound to a controlling terminal. For example, if you were running a program on your shell window such as find and you closed the window, your process would also go with it.
 
@@ -278,15 +278,15 @@ In the `STAT` column, you'll see lots of values. A linux process can be in a num
 
 ---
 
-## 10. /proc filesystem
+## 10. <FontIcon icon="iconfont icon-folder"/>`/proc` filesystem
 
-Remember everything in Linux is a file, even processes. Process information is stored in a special filesystem known as the `/proc` filesystem.
+Remember everything in Linux is a file, even processes. Process information is stored in a special filesystem known as the <FontIcon icon="iconfont icon-folder"/>`/proc` filesystem.
 
 ```sh
 ls /proc
 ```
 
-You should see multiple values in here, there are sub-directories for every PID. If you looked at a PID in the ps output, you would be able to find it in the `/proc` directory.
+You should see multiple values in here, there are sub-directories for every PID. If you looked at a PID in the ps output, you would be able to find it in the <FontIcon icon="iconfont icon-folder"/>`/proc` directory.
 
 Go ahead and enter one of the processes and look at that file:
 
@@ -294,7 +294,7 @@ Go ahead and enter one of the processes and look at that file:
 cat /proc/12345/status
 ```
 
-You should see process state information and well as more detailed information. The `/proc` directory is how the kernel is views the system, so there is a lot more information here than what you would see in `ps`.
+You should see process state information and well as more detailed information. The <FontIcon icon="iconfont icon-folder"/>`/proc` directory is how the kernel is views the system, so there is a lot more information here than what you would see in `ps`.
 
 ---
 

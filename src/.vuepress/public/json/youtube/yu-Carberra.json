@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Carberra",
+    "name": "Carberra",
+    "profile": "https://yt3.googleusercontent.com/1_OK5zt5nlcgspRFYlYtN0sMTNKRk_XBAZ6FBFA22Szx7PPW9vuFaMBEisyd-tOaV3_Je2Dv=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "RlqMqVPgsls",
+      "title": "Python's SECRET diamond operator"
+    }, {
+      "id": "bcAqceZkZRQ",
+      "title": "Ruff is the FUTURE of Python development"
+    }
+  ]
+}

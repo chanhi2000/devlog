@@ -23,21 +23,7 @@ tags: ["education", "youtube", "programming", "css"]
 
 ## 빔캠프 CSS
 
-[빔캠프 CSS][yu-veamcamp]
-
-::: details 목록
-
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="4XAYeWtzpq8" title="🔴 라이브 | 문의 게시판을 만들자. Part 1" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="ehV-pKQKjqE" title="🔴 라이브 | IE를 버린다면?" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="rhAKeUSxO0Y" title="CSS 소 만들기 | 티티하우스 | 빔캠프" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="PWz1T1gprzk" title="CSS 그리드시스템 만들기  | 빔캠프" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="tcX9QuRYPgw" title="CSS 간단한 반응형 레이아웃 만들기 | EP6 | 바이트 사이즈 | IE9+ | 빔캠프" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="8SJKAMWpe8Y" title="CSS line-height, 1과 1em의 차이에 대하여  | CSS 갈증해소 프로젝트 OACSS | 빔캠프" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="rF0h1SA6zZw" title="CSS 팀소개 웹페이지 만들기 | EP5 | 바이트 사이즈 | 빔캠프" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="JeFxk-Rm8Zc" title="Creating and Processing Large Composite Objects with Java Sequential and Parallel Streams" />
-<YoutubeItem channelName="빔캠프 CSS" channelId="veamcamp" id="x_IDiUUUBfk" title="CSS 모달 윈도우 만들기 | EP4 | 바이트 사이즈 | 빔캠프" />
-
-:::
+<MyYouTubeItems jsonName="yu-veamcamp" />
 
 <!-- 빔캠프 CSS -->
 

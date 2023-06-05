@@ -48,7 +48,7 @@ For example, let's say I want WackyWidgets Software on my machine. Well WackyWid
 
 Now instead of going to their website to download the package directly, you can tell your machine to find WackyWidgets software from the source link.
 
-Your distribution already comes with pre-approved sources to get packages from and this is how it installs all the base packages you see on your system. On a Debian system, this sources file is the `/etc/apt/sources.list` file. Your machine will know to look there and check for any source repositories you added.
+Your distribution already comes with pre-approved sources to get packages from and this is how it installs all the base packages you see on your system. On a Debian system, this sources file is the <FontIcon icon="iconfont icon-file"/>`/etc/apt/sources.list` file. Your machine will know to look there and check for any source repositories you added.
 
 ---
 
@@ -56,11 +56,11 @@ Your distribution already comes with pre-approved sources to get packages from a
 
 Before we get into package installation and the different managers, we need to discuss archiving and compressing files, because you will most likely encounter these when you hunt for software on the internet.
 
-You probably already know what a file archive is, you've most likely encountered file types such as .rar and .zip. These are an archive of files, they contain many files inside of them, but they come in this very neat single file known as an archive.
+You probably already know what a file archive is, you've most likely encountered file types such as `.rar` and `.zip`. These are an archive of files, they contain many files inside of them, but they come in this very neat single file known as an archive.
 
 ### Compressing files with `gzip`
 
-gzip is program used to compress files in Linux, they end in a .gz extension.
+gzip is program used to compress files in Linux, they end in a `.gz` extension.
 
 To compress a file down:
 
@@ -99,7 +99,7 @@ tar xvf mytarfile.tar
 
 ### Compressing/uncompressing archives with `tar` and `gzip`
 
-Many times you'll see a tar file that has been compressed such as: `mycompressedarchive.tar.gz`, all you need to do is work outside in, so first remove the compression with gunzip and then you can unpack the tar file. Or you can alternatively use the z option with `tar`, which just tells it to use the `gzip` or gunzip utility.
+Many times you'll see a tar file that has been compressed such as: `mycompressedarchive.tar.gz`, all you need to do is work outside in, so first remove the compression with gunzip and then you can unpack the tar file. Or you can alternatively use the `z` option with `tar`, which just tells it to use the `gzip` or gunzip utility.
 
 Create a compressed tar file:
 

@@ -123,6 +123,20 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## Python Simplified
+
+<MyYouTubeItems jsonName="yu-PythonSimplified" />
+
+<!-- Python Simplified -->
+
+---
+
+## Carberra
+
+<MyYouTubeItems jsonName="yu-Carberra" />
+
+<!-- Carberra -->
+
 ## Misc
 
 <YoutubeItem channelName="데브원영 DVWY" channelId="DevWonYoung" id="GsFcQVBwmho" title="파이썬으로 이벤트 드리븐 아키텍처를 만드는 방법 | Event-driven microservices with Python and Apache Kafka" />

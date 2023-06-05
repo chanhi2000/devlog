@@ -1,0 +1,83 @@
+{
+  "channel": {
+    "id": "ProgramWithErik",
+    "name": "Program With Erik",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPrIKatvLhs_ayZuyyyQt90tGzKdio8EOVyeipP=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "AIx2pOvAjSc",
+      "title": "Building A Billion Dollar App Live With JavaScript and AWS Amplify-  Questions and Answers"
+    }, {
+      "id": "qrU0_VYMYOg",
+      "title": "Build A Web3 Domain Name Service With Vue.js, Solidity and Hardhat!"
+    }, {
+      "id": "IFXjm_fmNr8",
+      "title": "Create A Vue.js 3 Full Stack Application With Amplify, GraphQL, Auth and More! #teamseas"
+    }, {
+      "id": "hcg1Uco3Ojs",
+      "title": "Learn The New Notion API in 35 Minutes | Create A Random Quote Generator With Notion API and Fastify"
+    }, {
+      "id": "BZScSgvBU54",
+      "title": "How To Code Faster With Vue.js Render Functions!! - Advanced Render Functions Tutorial"
+    }, {
+      "id": "r3naKWlTOTA",
+      "title": "Are React Server Components A Game Changer? // Introduction To React Server Components As A Vue Dev"
+    }, {
+      "id": "hRv1wIWRNJ4",
+      "title": "9 Awesome Github Repos Every Web Developer Should Know"
+    }, {
+      "id": "GHAMYwlPCug",
+      "title": "Vue.js Tips: Use Slots The Right Way // VUE.JS SLOTS TUTORIAL WITH VUE 3"
+    }, {
+      "id": "EhQke5BVcLw",
+      "title": "10 OF THE BEST FREE GITHUB REPOSITORIES FOR DEVELOPERS // TOP 10 FREE DEVELOPER RESOURCES"
+    }, {
+      "id": "vaQ0N9082Nw",
+      "title": "How To Deploy A Vue App To A VPS With Git"
+    }, {
+      "id": "6H7-3_Wgwu4",
+      "title": "GraphQL vs REST - What is GraphQL and Why You Should Choose It"
+    }, {
+      "id": "GM8J2tblVEY",
+      "title": "Vue.js Testing Guide:  Unit Tests and E2E Testing (Cypress)"
+    }, {
+      "id": "T9qmHgTmznc",
+      "title": "What Is Inkline? A First Look At A Vue Component Library!"
+    }, {
+      "id": "CQAQkHuulTU",
+      "title": "Vue.js With TypeScript A Beginners Guide"
+    }, {
+      "id": "-i6C9GE0oTA",
+      "title": "Gridsome Headless CMS Tutorial With Google Sheets"
+    }, {
+      "id": "ZAjUGkhqUP4",
+      "title": "Tailwind CSS with Vue"
+    }, {
+      "id": "G2krb6FaZco",
+      "title": "Introduction to Bootstrap With Vue - Vuex Refactor"
+    }, {
+      "id": "RA7sO_9V3vw",
+      "title": "Vue Component Library Vuesax - Getting Started"
+    }, {
+      "id": "Fbo4pttBZ9k",
+      "title": "An Introduction To Vue Testing With Jest - (Realworld App)"
+    }, {
+      "id": "3SdlcNvV33A",
+      "title": "Quasar Vue.js Tutorial - Let's Build An App!"
+    }, {
+      "id": "zPViRHZfKv4",
+      "title": "VUE.JS COMPOSITION API STARTER GUIDE WITH EXAMPLE!"
+    }, {
+      "id": "_LLUdzTIpBA",
+      "title": "Vue 3 Function API Plugin First Look! With Example!"
+    }, {
+      "id": "lyGt1TmleoU",
+      "title": "3 Ways To Debug Your Vuejs Apps With VS Code And Chrome"
+    }, {
+      "id": "1vwq4uaYQGU",
+      "title": "Is Tailwind CSS No Longer Needed? A Look Into UnoCSS!"
+    }
+  ]
+}
+

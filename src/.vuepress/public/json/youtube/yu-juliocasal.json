@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "juliocasal",
+    "name": "Julio Casal",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPdDQyEY2dzmsNYDWyRKXE2YhqT0jPmdxAexQCgug=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Zu_8CVc_Ozc",
+      "title": "Use The New Way To Build Fast .NET REST APIs With Minimal Code And Configuration"
+    }, {
+      "id": "qBwk9e8Fkvw",
+      "title": "A New Way To Deal With Time In .NET 8"
+    }, {
+      "id": "ZFPMNSPzuTY",
+      "title": ".NET 5 REST API Tutorial: 06 Tasks, Async and Await"
+    }
+  ]
+}
+
+

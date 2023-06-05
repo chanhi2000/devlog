@@ -391,4 +391,3 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 [yu-tutoriaLinux]: https://www.youtube.com/@tutoriaLinux
 [yu-vmware-tanzu]: https://www.youtube.com/@VMwareTanzu
 [yu-brodie-robertson]: https://www.youtube.com/@BrodieRobertson
-[u-robert-elder-software]: https://wwww.youtube.com/@RobertElderSoftware

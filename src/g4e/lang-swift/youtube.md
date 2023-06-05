@@ -119,13 +119,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Paul Colton
 
-[![Paul Colton](https://yt3.googleusercontent.com/ytc/AGIKgqO5ZvkaCbGXjiHRySYXz5d9pHzBVDItbGZqTah55g=s176-c-k-c0x00ffffff-no-rj =x150)][yu-paul-colton]
-
-::: details 목록
-
-<YoutubeItem channelName="Paul Colton" channelId="PaulColton" id="6ZIZ5jGovEY" title="Simple SwiftUI MVVM and Combine" />
-
-:::
+<MyYouTubeItems jsonName="yu-PaulColton" />
 
 <!-- Paul Colton -->
 
@@ -209,6 +203,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ::: details 목록
 
+<YoutubeItem channelId="swiftuitutorial1" channelName="SwiftUI Tutorial#1" id="fsFTiMlLLsI" title="SwiftUI: How to Animate Text Characters to Create a Sliding Effect" />
 <YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="XgoRxP-0Xeo" title="SwiftUI: How to Use the Mask Modifier to Crop Views" />
 <YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="beNSUTiKjsM" title="[Let ChatGPT Help You Build SwiftUI Interfaces and Animations Faster" />
 <YoutubeItem channelName="SwiftUI Tutorial#1" channelId="swiftuitutorial1" id="ZCuXQloK4gM" title="[SwiftUI Tutorial #1: Understanding How Multi-line Text Field Works in iOS 16" />
@@ -248,19 +243,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Flo writes Code
 
-[![Flo writes Code](https://yt3.googleusercontent.com/ehSCugyPbtxfFvUb-BPUHuHydgC7per3dfLL789DIk5KdDwNK-SBknsEyrFhFj40zfpoTF4jrw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-flo-writes-code]
-
-::: details 목록
-
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="kWEyKdZ4G38" title="Why I don't do MVVM anymore" />
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="bmTprKIdJ5U" title="How to upload your app to the App Store in 2023" />
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="v1lGPx6m__g" title="macOS Menu Bar App using MenuBarExtra in Ventura & SwiftUI (No AppKit!)" />
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="AUOoalBwxos" title="How to support Dynamic Island in iOS 16.1" />
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="ZVdbRjY2GN4" title="Global Hotkeys on macOS in SwiftUI" />
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="PtQevkS1M2I" title="Create Menu Bar Commands with SwiftUI on macOS" />
-<YoutubeItem channelName="Flo writes Code" channelId="FloWritesCode" id="LG06nQRC1S8" title="Support macOS Clipboard (Copy/Paste) in SwiftUI Apps" />
-
-:::
+<MyYouTubeItems jsonName="yu-FloWritesCode" />
 
 <!-- Flo writes Code -->
 
@@ -653,6 +636,14 @@ tags: ["education", "youtube", "ios", "swift"]
 <MyYouTubeItems jsonName="yu-AnthonyDesignCode" />
 
 <!-- AnthonyDesignCode -->
+
+---
+
+## Josh Brown
+
+<MyYouTubeItems jsonName="yu-joshbrown5197" />
+
+<!-- Josh Brown -->
 
 ---
 

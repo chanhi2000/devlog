@@ -231,8 +231,3 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 <TagLinks />
 
-[yu-kodeco]: https://www.youtube.com/@KodecoDev
-[yu-okta-dev]: https://www.youtube.com/@OktaDev
-[yu-jeff-geerling]: https://www.youtube.com/@JeffGeerling
-[yu-jacking75]: https://www.youtube.com/@jacking75
-[yu-codebreakthrough]: https://www.youtube.com/@codebreakthrough

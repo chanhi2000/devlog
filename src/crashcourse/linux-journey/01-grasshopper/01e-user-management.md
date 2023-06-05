@@ -36,11 +36,11 @@ color: rgba(24, 188, 156, 0.2)
 
 In any traditional operating system, there are users and groups. They exist solely for access and permissions. When running a process, it will run as the owner of that process whether that is Jane or Bob. File access and ownership is also permission dependent. You wouldn't want Jane to see Bob's documents and vice versa.
 
-Each user has their own home directory where their user specific files get stored, this is usually located in `/home/username`, but can vary in different distributions.
+Each user has their own home directory where their user specific files get stored, this is usually located in <FontIcon icon="iconfont icon-folder"/>`/home/username`, but can vary in different distributions.
 
 The system uses user ids (UID) to manage users, usernames are the friendly way to associate users with identification, but the system identifies users by their UID. The system also uses groups to manage permissions, groups are just sets of users with permission set by that group, they are identified by the system with their group ID (GID).
 
-In Linux, you'll have users in addition to the normal humans that use the system. Sometimes these users are system daemons that continuously run processes to keep the system functioning. One of the most important users is root or superuser, root is the most powerful user on the system, root can access any file and start and terminate any process. For that reason, it can be dangerous to operate as root all the time, you could potentially remove system critical files. Luckily, if root access is needed and a user has root access, they can run a command as root instead with the `sudo` command. The `sudo` command (superuser do) is used to run a command with root access, we'll go more in depth on how a user receives root access in a later lesson.
+In Linux, you'll have users in addition to the normal humans that use the system. Sometimes these users are system daemons that continuously run processes to keep the system functioning. One of the most important users is root or superuser, root is the most powerful user on the system, root can access any file and start and terminate any process. For that reason, it can be dangerous to operate as root all the time, you could potentially remove system critical files. Luckily, if root access is needed and a user has root access, they can run a command as root instead with the `sudo` command. The `sudo` command (_superuser do_) is used to run a command with root access, we'll go more in depth on how a user receives root access in a later lesson.
 
 Go ahead and try to view a protected file like `/etc/shadow`:
 
@@ -74,52 +74,52 @@ su
 
 There are some downsides to using this method: it's much easier to make a critical mistake running everything in root, you won't have records of the commands you use to change system configurations, etc. Basically, if you need to run commands as the superuser, just stick to `sudo`.
 
-Now that you know what commands to run as the superuser, the question is how do you know who has access to do that? The system doesn't let every single Joe Schmoe run commands as the superuser, so how does it know? There is a file called the `/etc/sudoers` file, this file lists users who can run `sudo`. You can edit this file with the visudo command.
+Now that you know what commands to run as the superuser, the question is how do you know who has access to do that? The system doesn't let every single Joe Schmoe run commands as the superuser, so how does it know? There is a file called the <FontIcon icon="iconfont icon-file"/>`/etc/sudoers` file, this file lists users who can run `sudo`. You can edit this file with the visudo command.
 
-Open up the `/etc/sudoers` file and see what superuser permissions other users on the machine have.
+Open up the <FontIcon icon="iconfont icon-file"/>`/etc/sudoers` file and see what superuser permissions other users on the machine have.
 
 ---
 
-## 3. `/etc/passwd`
+## 3. <FontIcon icon="iconfont icon-file"/>`/etc/passwd`
 
-Remember that usernames aren't really identifications for users. The system uses a user ID (UID) to identify a user. To find out what users are mapped to what ID, look at the `/etc/passwd` file.
+Remember that usernames aren't really identifications for users. The system uses a user ID (UID) to identify a user. To find out what users are mapped to what ID, look at the <FontIcon icon="iconfont icon-file"/>`/etc/passwd` file.
+
+This file shows you a list of users and detailed information about them. For example, the first line in this file most likely looks like this:
 
 ```sh
 cat /etc/passwd
-```
-This file shows you a list of users and detailed information about them. For example, the first line in this file most likely looks like this:
-
-```
-root:x:0:0:root:/root:/bin/bash
+# ...
+# root:x:0:0:root:/root:/bin/bash
 ```
 
 Each line displays user information for one user, most commonly you'll see the root user as the first line. There are many fields separated by colons that tell you additional information about the user, let's look at them all:
 
 1. Username
-2. User's password - the password is not really stored in this file, it's usually stored in the `/etc/shadow` file. We'll discuss more in the next lesson about `/etc/shadow`, but for now, know that it contains encrypted user passwords. You can see many different symbols that are in this field, if you see an "`x`" that means the password is stored in the `/etc/shadow` file, a "`*`" means the user doesn't have login access and if there is a blank field that means the user doesn't have a password.
+2. User's password - the password is not really stored in this file, it's usually stored in the <FontIcon icon="iconfont icon-file"/>`/etc/shadow` file. We'll discuss more in the next lesson about <FontIcon icon="iconfont icon-file"/>`/etc/shadow`, but for now, know that it contains encrypted user passwords. You can see many different symbols that are in this field, if you see an "`x`" that means the password is stored in the <FontIcon icon="iconfont icon-file"/>`/etc/shadow` file, a "`*`" means the user doesn't have login access and if there is a blank field that means the user doesn't have a password.
 3. The user ID - as you can see root has the UID of 0
 4. The group ID
 5. GECOS field - This is used to generally leave comments about the user or account such as their real name or phone number, it is comma delimited.
 6. User's home directory
 7. User's shell - you'll probably see a lot of user's defaulting to bash for their shell
 
-Normally in a user's setting page, you would expect you see just human users. However, you'll notice `/etc/passwd` contains other users. Remember that users are really only on the system to run processes with different permissions. Sometimes we want to run processes with pre-determined permissions. For example, the daemon user is used for daemon processes.
+Normally in a user's setting page, you would expect you see just human users. However, you'll notice <FontIcon icon="iconfont icon-file"/>`/etc/passwd` contains other users. Remember that users are really only on the system to run processes with different permissions. Sometimes we want to run processes with pre-determined permissions. For example, the daemon user is used for daemon processes.
 
-Also should note that you can edit the `/etc/passwd` file by hand if you want to add users and modify information with the `vipw` tool, however things like these are best left to the tools we will discuss in a later lesson such as `useradd` and `userdel`.
+Also should note that you can edit the <FontIcon icon="iconfont icon-file"/>`/etc/passwd` file by hand if you want to add users and modify information with the `vipw` tool, however things like these are best left to the tools we will discuss in a later lesson such as `useradd` and `userdel`.
 
-Look at your `/etc/passwd` file, take a look at some of the users and note the access they have.
+Look at your <FontIcon icon="iconfont icon-file"/>`/etc/passwd` file, take a look at some of the users and note the access they have.
 
 ---
 
-## 4. `/etc/shadow`
-The `/etc/shadow` file is used to store information about user authentication. It requires superuser read permissions.
+## 4. <FontIcon icon="iconfont icon-file"/>`/etc/shadow`
+
+The <FontIcon icon="iconfont icon-file"/>`/etc/shadow` file is used to store information about user authentication. It requires superuser read permissions.
 
 ```sh
 sudo cat /etc/shadow
 # root:MyEPTEa$6Nonsense:15000:0:99999:7:::
 ```
 
-You'll notice that it looks very similar to the contents of `/etc/passwd`, however in the password field you'll see an encrypted password. The fields are separated by colons as followed:
+You'll notice that it looks very similar to the contents of <FontIcon icon="iconfont icon-file"/>`/etc/passwd`, however in the password field you'll see an encrypted password. The fields are separated by colons as followed:
 
 1. Username
 2. Encrypted password
@@ -131,22 +131,22 @@ You'll notice that it looks very similar to the contents of `/etc/passwd`, howev
 8. Account expiration date - date that user will not be able to login
 9. Reserved field for future use
 
-In most distributions today, user authentication doesn't rely on just the `/etc/shadow` file, there are other mechanisms in place such as PAM (Pluggable Authentication Modules) that replace authentication.
+In most distributions today, user authentication doesn't rely on just the <FontIcon icon="iconfont icon-file"/>`/etc/shadow` file, there are other mechanisms in place such as PAM (Pluggable Authentication Modules) that replace authentication.
 
-Take a look at the `/etc/shadow` file
+Take a look at the <FontIcon icon="iconfont icon-file"/>`/etc/shadow` file
 
 ---
 
 ## 5. `/etc/group`
 
-Another file that is used in user management is the `/etc/group` file. This file allows for different groups with different permissions.
+Another file that is used in user management is the <FontIcon icon="iconfont icon-file"/>`/etc/group` file. This file allows for different groups with different permissions.
 
 ```sh
 cat /etc/group
 # root:*:0:pete
 ```
 
-Very similar to the `/etc/password` field, the `/etc/group` fields are as follows:
+Very similar to the <FontIcon icon="iconfont icon-file"/>`/etc/password` field, the <FontIcon icon="iconfont icon-file"/>`/etc/group` fields are as follows:
 
 1. Group name
 2. Group password - there isn't a need to set a group password, using an elevated privilege like sudo is standard. A "*" will be put in place as the default value.
@@ -168,7 +168,7 @@ You can use the adduser or the useradd command. The adduser command contains mor
 ```sh
 sudo useradd bob
 ```
-You'll see that the above command creates an entry in `/etc/passwd` for bob, sets up default groups and adds an entry to the `/etc/shadow` file.
+You'll see that the above command creates an entry in <FontIcon icon="iconfont icon-file"/>`/etc/passwd` for bob, sets up default groups and adds an entry to the <FontIcon icon="iconfont icon-file"/>`/etc/shadow` file.
 
 ### Removing Users
 

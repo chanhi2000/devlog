@@ -139,24 +139,11 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 
 ## Tsoding Daily
 
-[Tsoding Daily][yu-tsoding-daily]
+<MyYouTubeItems jsonName="yu-TsodingDaily" />
 
-::: details 목록
+<!-- Tsoding Daily -->
 
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="hm5xOJiVEeg" title="Search Engine in Rust (Ep.01)" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="PGSba51aRYU" title="Machine Learning in C" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="Yi6NxMxCFY8" title="Ok, I made C compiler in PHP (c.php Ep.01)" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="vb7pX7pI7lI" title="I compared Two PDF Libraries. C one was faster than Rust one." />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="w_yXlnjeAy4" title="Coding My Own Text Editor Again (Ded S02E01)" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="LmQKZmQh1ZQ" title="New Graphics Library in C (Olive.c Ep.01)" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="SaK00JxeIB4" title="This Graphics Library Works Everywhere! (Web, Native, Terminal)" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="CRswPcQNeWM" title="I unironically liked PHP better than C" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="YvNlVAkHVwk" title="Amazingly Flexible C code without OOP or FP Ideological Bullsh*t" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="cdVCpS4qvRA" title="Coding Math Despite being Traumatized by Education System" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="9JULWqjM0Wg" title="Rust Multi-Threading" />
-<YoutubeItem channelName="Tsoding Daily" channelId="TsodingDaily" id="E5yAoMaVCp0" title="I programmed in TypeScript like in Haskell (Lazy Evaluation)" />
-
-:::
+---
 
 <TagLinks />
 

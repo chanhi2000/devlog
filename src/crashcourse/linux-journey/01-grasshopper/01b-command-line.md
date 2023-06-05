@@ -96,15 +96,15 @@ Where are you? Where am I? Give it a try.
 
 Now that you know where you are, let’s see if we can move around the filesystem a bit. Remember we’ll need to navigate our way using paths. There are two different ways to specify a path, with absolute and relative paths.
 
-- Absolute path: This is the path from the root directory. The root is the head honcho. The root directory is commonly shown as a slash. Every time your path starts with `/` it means you are starting from the root directory. For example, `/home/pete/Desktop`.
-- Relative path: This is the path from where you are currently in filesystem. If I was in location `/home/pete/Documents` and wanted to get to a directory inside Documents called taxes, I don’t have to specify the whole path from root like `/home/pete/Documents/taxes`, I can just go to `taxes/` instead.
+- Absolute path: This is the path from the root directory. The root is the head honcho. The root directory is commonly shown as a slash. Every time your path starts with `/` it means you are starting from the root directory. For example, <FontIcon icon="iconfont icon-folder"/>`/home/pete/Desktop`.
+- Relative path: This is the path from where you are currently in filesystem. If I was in location <FontIcon icon="iconfont icon-folder"/>`/home/pete/Documents` and wanted to get to a directory inside Documents called taxes, I don’t have to specify the whole path from root like <FontIcon icon="iconfont icon-folder"/>`/home/pete/Documents/taxes`, I can just go to `<FontIcon icon="iconfont icon-folder"/>taxes/` instead.
 Now that you know how paths work, we just need something to help us change to the directory we want to. Luckily, we have cd or “change directory” to do that.
 
 ```sh
 cd /home/pete/Pictures
 ```
 
-So now I've changed my directory location to `/home/pete/Pictures`.
+So now I've changed my directory location to <FontIcon icon="iconfont icon-folder"/>`/home/pete/Pictures`.
 
 Now from this directory I have a folder inside called Hawaii, I can navigate to that folder with:
 
@@ -112,13 +112,13 @@ Now from this directory I have a folder inside called Hawaii, I can navigate to 
 cd Hawaii
 ```
 
-Notice how I just used the name of the folder? It’s because I was already in `/home/pete/Pictures`.
+Notice how I just used the name of the folder? It’s because I was already in <FontIcon icon="iconfont icon-folder"/>`/home/pete/Pictures`.
 
 It can get pretty tiring navigating with absolute and relative paths all the time, luckily there are some shortcuts to help you out.
 
 - `.` (current directory). This is the directory you are currently in.
 - `..` (parent directory). Takes you to the directory above your current.
-- `~` (home directory). This directory defaults to your “home directory”. Such as `/home/pete`.
+- `~` (home directory). This directory defaults to your “home directory”. Such as <FontIcon icon="iconfont icon-home"/>`/home/pete`.
 - `-` (previous directory). This will take you to the previous directory you were just at.
 
 
@@ -156,19 +156,15 @@ There is also one more useful ls flag, `-l` for long, this shows a detailed list
 
 ```sh
 ls -l
-```
-
-```sh
-pete@icebox:~$ ls -l
-total 80
-drwxr-x--- 7 pete penguingroup   4096 Nov 20 16:37 Desktop
-drwxr-x--- 2 pete penguingroup   4096 Oct 19 10:46  Documents
-drwxr-x--- 4 pete penguingroup   4096 Nov 20 09:30 Downloads
-drwxr-x--- 2 pete penguingroup   4096 Oct  7 13:13   Music
-drwxr-x--- 2 pete penguingroup   4096 Sep 21 14:02 Pictures
-drwxr-x--- 2 pete penguingroup   4096 Jul 27 12:41   Public
-drwxr-x--- 2 pete penguingroup   4096 Jul 27 12:41   Templates
-drwxr-x--- 2 pete penguingroup   4096 Jul 27 12:41   Videos
+# total 80
+# drwxr-x--- 7 pete penguingroup   4096 Nov 20 16:37 Desktop
+# drwxr-x--- 2 pete penguingroup   4096 Oct 19 10:46  Documents
+# drwxr-x--- 4 pete penguingroup   4096 Nov 20 09:30 Downloads
+# drwxr-x--- 2 pete penguingroup   4096 Oct  7 13:13   Music
+# drwxr-x--- 2 pete penguingroup   4096 Sep 21 14:02 Pictures
+# drwxr-x--- 2 pete penguingroup   4096 Jul 27 12:41   Public
+# drwxr-x--- 2 pete penguingroup   4096 Jul 27 12:41   Templates
+# drwxr-x--- 2 pete penguingroup   4096 Jul 27 12:41   Videos
 ```
 
 Commands have things called flags (or arguments or options, whatever you want to call it) to add more functionality. See how we added `-a` and `-l`, well you can add them both together with `-la`. The order of the flags determines which order it goes in, most of the time this doesn’t really matter so you can also do `ls -al` and it would still work.
@@ -177,13 +173,11 @@ Commands have things called flags (or arguments or options, whatever you want to
 ls -la
 ```
 
-> Run ls with different flags and see the output you receive.
->>
->> - `ls -R`: recursively list directory contents
->>
->> - `ls -r`: reverse order while sorting
->>
->> - `ls -t`: sort by modification time, newest first
+Run ls with different flags and see the output you receive.
+
+- `ls -R`: recursively list directory contents
+- `ls -r`: reverse order while sorting
+- `ls -t`: sort by modification time, newest first
 
 ---
 
@@ -211,7 +205,7 @@ There are many other ways to create files that involve other things like redirec
 
 ## 6. `file`
 
-In the previous lesson we learned about touch, let’s go back to that for a bit. Did you notice that the filename didn’t conform to standard naming like you’ve probably seen with other operating systems like Windows? Normally you would expect a file called `banana.jpeg` and expect a JPEG picture file.
+In the previous lesson we learned about touch, let’s go back to that for a bit. Did you notice that the filename didn’t conform to standard naming like you’ve probably seen with other operating systems like Windows? Normally you would expect a file called <FontIcon icon="iconfont icon-file"/>`banana.jpeg` and expect a JPEG picture file.
 
 In Linux, filenames aren’t required to represent the contents of the file. You can create a file called funny.gif that isn’t actually a GIF.
 
@@ -298,7 +292,7 @@ Let’s start making some copies of these files. Much like copy and pasting file
 cp mycoolfile /home/pete/Documents/cooldocs
 ```
 
-`mycoolfile` is the file you want to copy and `/home/pete/Documents/cooldocs` is where you are copying the file to.
+`mycoolfile` is the file you want to copy and <FontIcon icon="iconfont icon-folder"/>`/home/pete/Documents/cooldocs` is where you are copying the file to.
 
 You can copy multiple files and directories as well as use wildcards. A wildcard is a character that can be substituted for a pattern based selection, giving you more flexibility with searches. You can use wildcards in every command for more flexibility.
 
@@ -443,7 +437,7 @@ With all these files we have on the system it can get a little hectic trying to 
 find /home -name puppies.jpg
 ```
 
-With find you’ll have to specify the directory you’ll be searching it, what you’re searching for, in this case we are trying to find a file by the name of `puppies.jpg`.
+With find you’ll have to specify the directory you’ll be searching it, what you’re searching for, in this case we are trying to find a file by the name of <FontIcon icon="iconfont icon-file"/>`puppies.jpg`.
 
 You can specify what type of file you are trying to find.
 

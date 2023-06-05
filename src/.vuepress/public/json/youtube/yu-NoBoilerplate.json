@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "br3GIIQeefY", 
+      "title": "Rust for the impatient"
+    }, {
       "id": "JIvKgSyvtxI",
       "title": "Rust tests are MAGIC"
     }, {
@@ -14,4 +17,5 @@
     }
   ]
 }
+
 

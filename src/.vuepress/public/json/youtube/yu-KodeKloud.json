@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "KodeKloud",
+    "name": "KodeKloud",
+    "profile": "https://yt3.googleusercontent.com/9sw41koFyRwnKpm4xf3fqrHVoqF4bs4dXz_5LbDNdJUugfJeJYVzeFS6ZZgOyYRfq9CadhFe6-U=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "21onkZfL2yM",
+      "title": "Docker vs Containerd: Understanding the Differences and Choosing the Right Containerization Tool"
+    }, {
+      "id": "gfxw_zPpO-4",
+      "title": "Spacelift Tutorial - Effortlessly Build Your CI/CD Pipeline | KodeKloud"
+    }, {
+      "id": "a3ujwK65dgs",
+      "title": "Linux Crash Course for Beginners | Free Linux Lab Access | KodeKloud"
+    }, {
+      "id": "esISkPlnxL0",
+      "title": "AWS ECS Tutorial | Deploy a New Application from Scratch | KodeKloud"
+    }, {
+      "id": "9vlEzgCyVfo",
+      "title": "5 Kubernetes Features Every Beginner Must Know"
+    }, {
+      "id": "7553XZ0T6pM",
+      "title": "What is WebAssembly? And what's it got to do with Docker? | WASM vs Docker | KodeKloud"
+    }, {
+      "id": "Z01b9QZG0D0",
+      "title": "Ansible Playbooks for Beginners - Hands-On"
+    }, {
+      "id": "zJ6WbK9zFpI",
+      "title": "Docker Tutorial for Beginners | Docker Full Course | Access to FREE LABS [No Ads]"
+    }, {
+      "id": "7553XZ0T6pM",
+      "title": "What is WebAssembly? And what's it got to do with Docker? | WASM vs Docker | KodeKloud"
+    }, {
+      "id": "ylmwaDUMV9c",
+      "title": "AWS RDS Tutorial: Setting up a Database in Amazon RDS | KodeKloud"
+    }, {
+      "id": "XuSQU5Grv1g",
+      "title": "Kubernetes Crash Course: Learn the Basics and Build a Microservice Application"
+    }
+  ]
+}

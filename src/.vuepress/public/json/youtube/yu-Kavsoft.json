@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id" :"Xjp1bIoSOHs",
+      "title" :"SwiftUI Elastic Scroll - Animation's - SwiftUI Tutorials" 
+    }, {
+      "id" :"YY9X7SDFwpw",
+      "title" :"Learn how to add SwiftLint to your iOS Apps" 
+    }, {
       "id": "I9v-zqrE8gI", 
       "title": "SwiftUI Showcase View - Highlight App New Features - App OnBoarding - SwiftUI Tutorials"
     }, {

@@ -2,10 +2,19 @@
   "channel": {
     "id": "OracleLearning",
     "name": "Oracle Learning",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPGl4yYbRqDDIbvPaKU_BHfBt1hazKnNXX9jt6_=s176-c-k-c0x00ffffff-no-rjimgUrl"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPGl4yYbRqDDIbvPaKU_BHfBt1hazKnNXX9jt6_=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
     {
+      "id": "zKNCyKFbHhA",
+      "title": "Red Hot Webinars - Oracle Database Service for Azure (ODSA) - Part III"
+    }, {
+      "id": "1jQ9GtAKDF0",
+      "title": "Red Hot Webinars - Zero Downtime Migration (ZDM)"
+    }, {
+      "id": "bUW4Svw150Q",
+      "title": "Allow access to only YUM repositories using OCI Network Firewall"
+    }, {
       "id": "SQRoQqhJkEQ",
       "title": "Oracle Autonomous Database"
     }, {

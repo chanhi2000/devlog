@@ -45,6 +45,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Arthur O’Dwyer
+
+- [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr)
+
+---
+
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)
 
 ---

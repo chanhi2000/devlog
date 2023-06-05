@@ -54,5 +54,10 @@
     "desc": "A platform to create documentation/wiki content built with PHP & Laravel",
     "topics": ["php", "documentation", "laravel", "wiki", "selfhosted", "bookstack"],
     "officialSite": "https://www.bookstackapp.com"
+  }, {
+    "repo": "Not-Quite-RARBG/main",
+    "desc": "Not Quite RARBG's main website.",
+    "topics": ["torrent", "torrents", "rarbg"],
+    "officialSite": "http://nq-rarbg.to"
   }
 ]

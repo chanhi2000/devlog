@@ -148,6 +148,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 19',
             link: '/crashcourse/paul-hudson-100-days-of-swift/19.md'
+          }, {
+            text: 'Day 20',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/20.md'
           }
         ]
       }, {
@@ -180,6 +183,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 8',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/8.md'
+          }, {
+            text: 'Day 9',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/9.md'
           }
         ],
       }, {
@@ -249,6 +255,12 @@ export const navbarEn: NavbarConfig = [
           {
             text: 'Intro',
             link: '/crashcourse/eventhelix-rust-to-assembly/README.md'
+          }, {
+            text: 'Rust enum and match representation in assembly',
+            link: '/crashcourse/eventhelix-rust-to-assembly/rust-enum-and-match-representation-in-assembly.md'
+          }, {
+            text: 'Assembly code generated when self is passed by value, reference or as a smart pointer',
+            link: '/crashcourse/eventhelix-rust-to-assembly/assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md'
           }
         ]
       }

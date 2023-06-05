@@ -172,6 +172,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Julio Casal
+
+<MyYouTubeItems jsonName="yu-juliocasal" />
+
+<!-- Julio Casal -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

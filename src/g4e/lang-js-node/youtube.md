@@ -40,14 +40,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="W8IK3MeJ5H0" title="Build Reddit App with NextJS" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="xnshvkVrsw8" title="🔴 Build Medium App with Next.js and Firebase" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="47JfV25M9UY" title="Build WhatsApp Blog Web3 App with NextJS" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="cZUgS19WM1g" title="Build Instagram Web3 App with Infura &amp; NextJS" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="cZUgS19WM1g" title="Build Instagram Web3 App with Infura & NextJS" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="qIGs3XWybgU" title="🔴&nbsp; Build TikTok Web 3.0 Blockchain App with Solana | Rust | Next.js | Netlify" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="8v5lFscLPRY" title="Build Facebook 3.0 on Blockchain with Solana | Next.js | Netlify | Sanity.io" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="1NugihCoLdQ" title="🔴 Uber Clone with Next JS, React JS, Tailwind CSS and Firebase (Part 3 of 3)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="UbixZZDjrdU" title="Build Instagram Clone with React Native for Beginners (Firebase + Formik + Yup)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="AUzPYEYlFyk" title="Build Twitter Blockchain Web 3.0 App with Solidity | Next.js | Sanity.io ($200 Crypto Giveaway)" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="jmvbhuJXFow" title="🔴 Build Uber Eats with React Native &amp; YELP API | Redux | Firebase | Google API" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="FkqZfGEav9c" title="Build Amazon 2.0 with JavaScript and Firebase (Tailwind CSS, HTML, &amp; CSS)" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="jmvbhuJXFow" title="🔴 Build Uber Eats with React Native & YELP API | Redux | Firebase | Google API" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="FkqZfGEav9c" title="Build Amazon 2.0 with JavaScript and Firebase (Tailwind CSS, HTML, & CSS)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="dF3DIm6VB0g" title="Learn to Code | Your Opportunity to Become a Fullstack Developer in 2021" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="PJ1CmZ7yav0" title="Learn How to Build Your First App with React Native (Chill Sesh)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="Dt3o4l_OFa0" title="🔴React JS 8 Hour Bootcamp (Learn Redux, React JS, Styled Components) | LIVE" />
@@ -57,19 +57,19 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="kn8HPNwPEkw" title="🔴Disney+ Clone - ReactJS Challenge (Learn Redux, React JS, Styled Components, and Firebase) | Day 1" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="R_OERlafbmw" title="ASMR | Build Disney+ with React JS (Firebase + Styled Components + Redux)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="svlEVg0To_c" title="🔴 Let's build Whatsapp 2.0 with NEXT.JS! (1-1 Messaging, Live Status, Styled-Components, React.JS)" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="W5j0dpHxCj4" title="🔴 Build Amazon Clone from Scratch with React JS &amp; Styled Components (Day 3 of React JS Challenge)" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="W5j0dpHxCj4" title="🔴 Build Amazon Clone from Scratch with React JS & Styled Components (Day 3 of React JS Challenge)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="eGSmujxNFMA" title="🔴 DAY 5: The 5 Day ReactJS Challenge | How to make $100k+ as a React JS Developer 🚀" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="0RZDbsXLcRg" title="🔴 DAY 3: The 5 Day ReactJS Challenge | Let's Build a Slack Clone with REACT JS Part 2" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="ml_04VfhrNs" title="🔴 DAY 2: The 5 Day ReactJS Challenge | Let's Build a Slack Clone with REACT JS Part 1" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="wV734HJbrpc" title="🔴 Building the Pinterest Clone ReactJS Part 1 of 3 | For Beginners" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="NlGXFRpP5So" title="🔴 Getting Started with Online Payments: Building a PayPal Checkout with ReactJS (For Beginners)" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="ljuCH6_jrYE" title="🔴 Building Google Drive with ReactJS &amp; Firebase (For Beginners)" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="ljuCH6_jrYE" title="🔴 Building Google Drive with ReactJS & Firebase (For Beginners)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="TxggrQ0nHjY" title="🔴 Let's Build a Robinhood Clone with REACT JS for Beginners!" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="KB7JEnfc7Dc" title="🔴Full Stack React and Firebase Tutorial - Build a Facebook Messenger Clone" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="gLNIVdtaW3A" title="🔴 Let’s Build Twitch Clone for Beginners with React" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="hggGvwA_tcc" title="🔴 Let's build an app with REACT NATIVE! (Qazi &amp; Sonny)" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="hggGvwA_tcc" title="🔴 Let's build an app with REACT NATIVE! (Qazi & Sonny)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="-cMqr9HpZ-Y" title="React JS Tutorial for Beginners - Full Course in 12 Hours [2021]" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="S3ImBQOmt3Y" title="🔴 Build a Facebook MERN Clone Backend for Beginners (Focusing on Backend &amp; API Connection)" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="S3ImBQOmt3Y" title="🔴 Build a Facebook MERN Clone Backend for Beginners (Focusing on Backend & API Connection)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="kD1YokHMCHs" title="🔴  Build a Facebook MERN Clone for Beginners (REACT.JS)" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="0i8zcnNLk20" title="🔴 Profit with JavaScript price increases in 1 hour 🚀" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="COiyxEbZBiw" title="🔴The Resume That Got Me Into Google and Microsoft (software engineer resume tips)" />
@@ -84,9 +84,9 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="eiXdfA__N-M" title="🔴 Quarantine JavaScript - 10 Things to Master to Get a Job" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="n8NyJxy27uk" title="🔴 How to Make Money Coding with REACT JS" />
 <YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="JT80XhYJdBw" title="Python Django Tutorial 2020 - Full Course for Beginners" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="sPK4gvAGKe8" title="Build Sushiswap Web3 Clone with Next.js &amp; Solidity" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="2nivhU93_PM" title="Build a Stock Betting Dapp Web3 Clone with Next.js &amp; Solidity" />
-<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="QP-QWI4NZt0" title="Build Airbnb Web3 Clone with Next.js &amp; Solidity" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="sPK4gvAGKe8" title="Build Sushiswap Web3 Clone with Next.js & Solidity" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="2nivhU93_PM" title="Build a Stock Betting Dapp Web3 Clone with Next.js & Solidity" />
+<YoutubeItem channelName="Clever Programmer" channelId="CleverProgrammer" id="QP-QWI4NZt0" title="Build Airbnb Web3 Clone with Next.js & Solidity" />
 
 :::
 
@@ -109,7 +109,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Lama Dev" channelId="LamaDev" id="FweHcYHkt9A" title="React Social Media App Design | Dark/Light Mode &amp; Responsive &amp; HTML CSS" />
+<YoutubeItem channelName="Lama Dev" channelId="LamaDev" id="FweHcYHkt9A" title="React Social Media App Design | Dark/Light Mode & Responsive & HTML CSS" />
 <YoutubeItem channelName="Lama Dev" channelId="LamaDev" id="QQYeipc_cik" title="All useEffect Mistakes Every Junior React Developer Makes" />
 <YoutubeItem channelName="Lama Dev" channelId="LamaDev" id="CCF-xV3RSSs" title="React Node.js Video Sharing App Full Tutorial (Redux, JWT, Cookies) | MERN Stack Youtube Clone" />
 <YoutubeItem channelName="Lama Dev" channelId="LamaDev" id="aTPkos3LKi8" title="React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners" />
@@ -168,13 +168,13 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="Xisj0FJSBIs" title="Full Stack Build: Node, Postgres, Redis, React, GraphQL/Apollo" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="5FJWQdjzJKQ" title="Code a screen in Expo (React Native) - Full Stack Build Series" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="A1Sp5c97TYU" title="Yarn to PNPM - How to Switch" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="KrIOY1tcfmQ" title="React Native Charts on Web, iOS, &amp; Android - Full Stack Build Ep6" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="MW2o0Xz12c " title="Create GraphQL Schema &amp; Resolver - Full Stack Build Ep2" />
+<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="KrIOY1tcfmQ" title="React Native Charts on Web, iOS, & Android - Full Stack Build Ep6" />
+<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="MW2o0Xz12c " title="Create GraphQL Schema & Resolver - Full Stack Build Ep2" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="hGYNW8-_c3U" title="Deploy to Production - Node, Postgres, Redis, React - with Render" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="Av8ezg-2GWc" title="Ultimate Typescript/Node/Docker Setup: Step-by-Step (2022)" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="CUyl3LdBvGU" title="React by Example: Build a To Do List with Typescript, Hooks, and Styled Components - Part 1" />
 <YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="o2yNF9tTogk" title="React by Example: Build a Calculator with Typescript" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="KrIOY1tcfmQ" title="React Native Charts on Web, iOS, &amp; Android - Full Stack Build Ep6" />
+<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="KrIOY1tcfmQ" title="React Native Charts on Web, iOS, & Android - Full Stack Build Ep6" />
 
 :::
 
@@ -192,50 +192,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Web Dev Simplified
 
-[Web Dev Simplified][yu-web-dev-simplified]
-
-::: details 목록
-
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="jqVm5_G1ZEE" title="How To Create A Social Media App Using The T3 Stack - Next.js, React, Tailwind, Prisma, TypeScript" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="ywtkJkxJsdg" title="The New dialog HTML Element Changes Modals Forever" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="dAIVbLrAb_U" title="How To Build An Animated Hamburger Menu With Only CSS" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="yn6vFCRkC3c" title="Unstyled Component Libraries Are A Game Changer" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="s0h34OkEVUE" title="This Library Makes State Management So Much Easier" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="lVLz_ASqAio" title="React Query Makes Writing React Code 200% Better" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="TUD1AWZVgQ8" title="Top 10 Advanced CSS Responsive Design Concepts You Should Know" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="w0VEOghdMpQ" title="How To Build A Weather App In JavaScript Without Needing A Server" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="lyNetvEfvT0" title="How To Build A Full Stack Nested Comments System" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="7f-71kYhK00" title="Why Vitest Is Better Than Jest" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="MhUCYR9Tb9c" title="Learn Pointer Events In 15 Minutes" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="IE4lnxXoupg" title="How To Create An Audio Book Reader In JavaScript" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="VdqtdKXxKhM" title="Can I Create This Complex Animated Multistep Form?" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="FUKpWgRyPlU" title="React Storybook Crash Course" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="1r-F3FIONl8" title="How To Accept Payments With Stripe" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="ddVm53j80vc" title="Learn Dynamic Module Imports In 11 Minutes" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="ZKEqqIO7n-k" title="Learn Socket.io In 30 Minutes" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="jgpVdJB2sKQ" title="Redis Crash Course" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="qQR0mfFGRmo" title="Stop Using Postman - Create Your Own Postman Instead" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="TQXUeGYs8u0" title="Is This The Best JavaScript Extension?" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="iRaelG7v0OU" title="How To Build A Google Docs Clone With React, Socket.io, and MongoDB" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="Xcet6msf3eE" title="How To Build A Better Spotify With React" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="6XTRElVAZ9Y" title="How To Build A Google Drive Clone With Firebase" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="q5V4T3o3CXE" title="How To Create And Deploy A VSCode Extension" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="qv24S2L1N0k" title="How To Build And Deploy Your First Discord Bot" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="tBr-PybP_9c" title="How To Create A Messaging App With Socket.io And React" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="G6JTM-zt-dQ" title="How To Build A Battleship Clone" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="7-1VZ2wF8pw" title="How To Build A JavaScript Password Strength Meter With Regex" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="cH0TC9gWiAg" title="Advanced Button Hover Animations - CSS Only" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="JVWZR23B_iE" title="Interface Segregation Principle Explained - SOLID Design Principles" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="R8rmfD9Y5-c" title="8 Must Know JavaScript Array Methods" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="M_bhZEY6_kM" title="Build A Price Comparison Page With HTML And CSS" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="fHPa5xzbpaA" title="Facade Pattern - Design Patterns" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="uKVVSwXdLr0" title="Simple Image Lightbox Tutorial" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="4qNwoAAfnk4" title="How To Build Your Own AI With ChatGPT API" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="s0h34OkEVUE" title="This Library Makes State Management So Much Easier" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="r92aHr752Bg" title="How To Create ENV Variables In React" />
-<YoutubeItem channelName="Web Dev Simplified" channelId="WebDevSimplified" id="Btc9sRIu2jw" title="How To Use ChatGPT To Get Hired" />
-
-:::
+<MyYouTubeItems jsonName="yu-WebDevSimplified" />
 
 <!-- Web Dev Simplified -->
 
@@ -243,43 +200,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## 코딩애플
 
-[코딩애플][yu-codingapple]
-
-::: details 목록
-
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="-5cSTqXGDUs" title="이 세상에 존재하면 안되는 VSCode 익스텐션들" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="tHvZngU14jE" title="JPEG은 왜 디지털 풍화가 생길까" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="ZRpsB3ODr6M" title="마이크로서비스가 뭔데 유행임" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="CHzNNxZOIYI" title="GPT로 이상한거 만들어서 월4천 버는 분" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="o1Hy7cpSXjA" title="개발자 만족도 1위 SvelteKit을 쓰고 암이 나았습니다" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="yXPCg5eupGM" title="오늘의 테크용어 : 웹소켓이 뭐냐면" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="ORmnc-hLrYs" title="자바스크립트 20년차 개발자처럼 주석다는 법" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="--D4WMPEIZI" title="아 저는 css 버리고 tailwind 씁니다" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="EV3FZ3cWBp8" title="(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="xD9GnHKveRk" title="쉽게 설명하는 Git 기초 2. g`it diff` &amp; 응 vscode 쓸거야" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="XXseiON9CV0" title="JWT 대충 쓰면 님들 코딩인생 끝남" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="CojyGfCMvuU" title="웹 포트폴리오에 간지나게 3D 모델을 추가해보자 (`Three.js`)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="iX3Nu1FcZKA" title="와 Vite 쓰면 리액트 10배 빨라짐 (과장아님)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="zNHZJ_iEMPA" title="리액트가 쉬워지는 채신기술 Zustand" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="4Vq8CQf-egI" title="올해부턴 CSS 다르게 짬 ㅅㄱ (2022년 CSS 채신기술)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="o0spBNs0zRk" title="자바스크립트 숨겨진 기능 Shadow DOM 활용법" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="VJag_H2Cosc" title="초보 개발자를 위한 웹 신기술 WebAssembly 설명" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="yYtTZcjCj_o" title="Firebase로 당근마켓 만들기 3 : 상품 업로드한거 DB에 저장 ㄱㄱ" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="Br9fKSIeAok" title="React 기초 4강 : 리액트에서 버튼에 이벤트 리스너 (핸들러) 장착하는 법" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="38PWm8TgaV0" title="Vue 6강 : 상품목록 만들기 진짜 데이터로 (import / export)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="Qb8Oiy8i9IY" title="React 기초 3강 : 리액트에선 변수말고 state 만들어 쓰랬죠 (useState)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="k2GWnDb5zoQ" title="(Ep.2-2) Node.js를 쓰는 이유 (웹서버 만들기)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="FqnAFX9lQPQ" title="React 기초 2강 : 리액트에선 HTML대신 JSX 써야함 (JSX 사용법)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="T4N9wjx7_E4" title="Vue 3강 : v-for 반복문 보니까 HTML도 프로그래밍 언어네" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="2P0oSNguGXI" title="정규식이 쉬워지는 마법을 부려보겠다 뾰롱" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="SdDs0ScOFSU" title="chatGPT는 엄준식 프로그래밍 언어도 잘할까?" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="yDhMmmHZONM" title="바로 채용되는 웹개발자 포트폴리오 만들기" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="PCkiz2GUFg8" title="Next.js 13 강의 달린다 (1강~6강)" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="jYJ3ygUfPrU" title="(Next.js 0강) 요즘 프론트엔드만으로 먹고살기 힘든 이유" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="3pUAantkYKc" title="GPT4로 특이점 실험을 해봤다는데 결과가 충격임" />
-<YoutubeItem channelName="코딩애플" channelId="codingapple" id="nTmAveylPjk" title="코파일럿 X 쓰면 코파면서 코딩가능 엌ㅋㅋㅋㅋ" />
-
-:::
+<MyYouTubeItems jsonName="yu-codingapple" />
 
 <!-- 코딩애플 -->
 
@@ -305,31 +226,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## JavaScript Mastery
 
-[JavaScript Mastery][yu-javascript-mastery]
-
-::: details 목록
-
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="wm5gMKuwSYk" title="Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="dyFVwXROzZk" title="Build and Deploy 3 Modern React API Applications in 8 Hours - Full Course | RapidAPI" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="F627pKNUCVQ" title="Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="C9ctoK4M9Bk" title="Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="y47gYvXchXM" title="Build and Deploy a Modern Real Estate App | React Website Tutorial" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="pU6WZLNthKo" title="Buildkit: A New Docker Builder" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="UKdQjQX1Pko" title="Build and Deploy a Google Maps Travel Companion Application | React.js" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="OPaLnMw2i_0" title="Build and Deploy THE PERFECT Portfolio Website | Create a Portfolio from Scratch" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="jcOKU9f86XE" title="Chat Application using React JS - Build and Deploy a Chat App in 1 Hour (Microsoft Teams)" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="377AQ0y6LPA" title="ECommerce Web Shop - Build &amp; Deploy an Amazing App | React.js, Commerce.js, Stripe" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="y-Qj4vRrwv4" title="JavaScript Algorithms for Beginners" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="aS4a6Gv2B-s" title="Covid-19 Status Desktop Widget | JavaFX Tutorial 4/5 | Finishing the Application Development" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="ZwFA3YMfkoc" title="Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="khJlrj3Y6Ls" title="Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="mJ3bGvy0WAY" title="Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="0fYi8SGA20k" title="Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="k4lHXIzCEkM" title="Build and Deploy a Full Stack MERN Application With CRUD, Auth, and Charts Using Refine" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="0fYi8SGA20k" title="Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial" />
-<YoutubeItem channelName="JavaScript Mastery" channelId="javascriptmastery" id="ZqEa8fTxypQ" title="Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners" />
-
-:::
+<MyYouTubeItems jsonName="yu-javascriptmastery" />
 
 <!-- JavaScript Mastery -->
 
@@ -337,36 +234,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Program With Erik
 
-[![Program With Erik](https://yt3.googleusercontent.com/ytc/AGIKgqPrIKatvLhs_ayZuyyyQt90tGzKdio8EOVyeipP=s176-c-k-c0x00ffffff-no-rj =x150)][yu-program-w-erik]
-
-::: details 목록
-
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="AIx2pOvAjSc" title="Building A Billion Dollar App Live With JavaScript and AWS Amplify-  Questions and Answers" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="qrU0_VYMYOg" title="Build A Web3 Domain Name Service With Vue.js, Solidity and Hardhat!" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="IFXjm_fmNr8" title="Create A Vue.js 3 Full Stack Application With Amplify, GraphQL, Auth and More! #teamseas" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="hcg1Uco3Ojs" title="Learn The New Notion API in 35 Minutes | Create A Random Quote Generator With Notion API and Fastify" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="BZScSgvBU54" title="How To Code Faster With Vue.js Render Functions!! - Advanced Render Functions Tutorial" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="r3naKWlTOTA" title="Are React Server Components A Game Changer? // Introduction To React Server Components As A Vue Dev" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="hRv1wIWRNJ4" title="9 Awesome Github Repos Every Web Developer Should Know" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="GHAMYwlPCug" title="Vue.js Tips: Use Slots The Right Way // VUE.JS SLOTS TUTORIAL WITH VUE 3" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="EhQke5BVcLw" title="10 OF THE BEST FREE GITHUB REPOSITORIES FOR DEVELOPERS // TOP 10 FREE DEVELOPER RESOURCES" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="vaQ0N9082Nw" title="How To Deploy A Vue App To A VPS With Git" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="6H7-3_Wgwu4" title="GraphQL vs REST - What is GraphQL and Why You Should Choose It" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="GM8J2tblVEY" title="Vue.js Testing Guide:  Unit Tests and E2E Testing (Cypress)" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="T9qmHgTmznc" title="What Is Inkline? A First Look At A Vue Component Library!" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="CQAQkHuulTU" title="Vue.js With TypeScript A Beginners Guide" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="-i6C9GE0oTA" title="Gridsome Headless CMS Tutorial With Google Sheets" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="ZAjUGkhqUP4" title="Tailwind CSS with Vue" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="G2krb6FaZco" title="Introduction to Bootstrap With Vue - Vuex Refactor" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="RA7sO_9V3vw" title="Vue Component Library Vuesax - Getting Started" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="Fbo4pttBZ9k" title="An Introduction To Vue Testing With Jest - (Realworld App)" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="3SdlcNvV33A" title="Quasar Vue.js Tutorial - Let's Build An App!" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="zPViRHZfKv4" title="VUE.JS COMPOSITION API STARTER GUIDE WITH EXAMPLE!" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="_LLUdzTIpBA" title="Vue 3 Function API Plugin First Look! With Example!" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="lyGt1TmleoU" title="3 Ways To Debug Your Vuejs Apps With VS Code And Chrome" />
-<YoutubeItem channelName="Program With Erik" channelId="ProgramWithErik" id="1vwq4uaYQGU" title="Is Tailwind CSS No Longer Needed? A Look Into UnoCSS!" />
-
-:::
+<MyYouTubeItems jsonName="yu-ProgramWithErik" />
 
 <!-- Program With Erik -->
 
@@ -425,7 +293,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="XCAwSBdeejU" title="Build a Website Powered by Notion" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="kkiLBF_YerM" title="The Most Mind Blowing Features Coming to CSS" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="o7FkmtqIYOE" title="Building Real-time Serverless App with AWS Amplify" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="5EhsjtBE7I4" title="WebRTC &amp; WebSockets Explained in 5min!" />
+<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="5EhsjtBE7I4" title="WebRTC & WebSockets Explained in 5min!" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="B26yiuC5zPM" title="M1 Max MacBook Pro Developer Setup" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="lkTpOHv1Ros" title="5 New Mind-Blowing CSS Features!" />
 <YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="63bdCwJmRP4" title="Making A Crypto Trading Bot" />
@@ -443,30 +311,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Coding Artist
 
-[Coding Artist][yu-coding-artist]
-
-::: details 목록
-
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="ggOAA_lNKII" title="Guess The Number Game | Javascript Game" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="XGaOpDYQSQ8" title="Stopwatch Using Javascript | With Free Source Code" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="2yLPoF8y5eI" title="Detect If The User Is Idle | Javascript Project With Source Code" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="js7JO8y_vmk" title="The Trending Submit Button | Javascript Project" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="kApdKJc-j8U" title="CSS Cup Animation | CSS Animation Tutorial" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="pwnIXbeI4GY" title="Print A Webpage With Javascript | Javascript Add Print Button" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="QCVYjqz0WK8" title="Password Strength Checker | HTML, CSS and Javascript" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="Uk2dx-eLS6k" title="Single Div Element Art | CSS Art" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="0lyngYIozro" title="Show Loading Div While The Page Loads Completely | HTML, CSS, jQuery" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="NTADLGg0Cuo" title="Fullscreen Overlay Navigation | HTML, CSS and Javascript Tutorial" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="ULJWLGqSA00" title="3D Flip Business Card CSS | CSS Cards | CSS Tutorial" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="AFc3-qPJlB0" title="Vertical Text With CSS | CSS Beginners Tutorial | CSS Tips and Tricks" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="YTfi23W66XU" title="Thermometer Icon Animation CSS | CSS Icons | CSS Animation Tutorials." />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="mFk2cQDIxxw" title="Wiggly Navbar Hover Effect CSS | Link Hover Effect | Html and Css" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="8uMxZelOV5k" title="Lorem Ipsum Generator | HTML, CSS &amp; Javascript Project" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="2yLPoF8y5eI" title="Detect If The User Is Idle | Javascript Project With Source Code" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="3X6hgNnf75I" title="Random Fact Generator App | Javascript Project With Source Code" />
-<YoutubeItem channelName="Coding Artist" channelId="CodingArtist" id="8se1rBs--4A" title="Marvel API App | Javascript Tutorial With Source Code" />
-
-:::
+<MyYouTubeItems jsonName="yu-CodingArtist" />
 
 <!-- Coding Artist -->
 
@@ -503,6 +348,8 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelId="codedamn" channelName="codedamn" id="CsL-cYcSEk4" title="Do this if you want to master flask" />
+<YoutubeItem channelId="codedamn" channelName="codedamn" id="bEvCS-Eg7dY" title="Bye Bye Leetcode 👋🏻" />
 <YoutubeItem channelName="codedamn" channelId="codedamn" id="kn43PR0PWew" title="React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners" />
 <YoutubeItem channelName="codedamn" channelId="codedamn" id="xy81B0OYyug" title="Shopify JUST Launched a NEW React Framework!" />
 <YoutubeItem channelName="codedamn" channelId="codedamn" id="Hpf2OmYnqhw" title="React Typing-Speed Project - Build logical thinking with this free project 🎉" />
@@ -533,29 +380,29 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="YnnQymvBrY8" title="Build a Landing Page using React JS &amp; Tailwind CSS \| Newsletter Sign up page" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="EfIwxy3Qumc" title="Build a Recipe app in VUE using Router &amp; Vuex! \(Composition &amp; Options API\)" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="YnnQymvBrY8" title="Build a Landing Page using React JS & Tailwind CSS \| Newsletter Sign up page" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="EfIwxy3Qumc" title="Build a Recipe app in VUE using Router & Vuex! \(Composition & Options API\)" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="XAFWag-_FGM" title="Build a SCREEN RECORDER WITH AUDIO in JavaScript - JavaScript Beginner Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="R81g-2r6ynM" title="Build a FULL STACK app with React, Express, Node &amp; Mongo MERN STACK" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="R81g-2r6ynM" title="Build a FULL STACK app with React, Express, Node & Mongo MERN STACK" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="oiX-6Y2oGjI" title="Build a CALCULATOR APP in REACT JS \| A React JS Beginner Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="eue3jbwxQS0" title="Build a Twitter UI Clone with Vue JS &amp; TailwindCSS ~ Home Page" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="Vn6FxqvsdMU" title="Build a Vue 3 Quote app with a Node JS API ~ With Tailwind CSS, Vuex &amp; Router" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="eue3jbwxQS0" title="Build a Twitter UI Clone with Vue JS & TailwindCSS ~ Home Page" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="Vn6FxqvsdMU" title="Build a Vue 3 Quote app with a Node JS API ~ With Tailwind CSS, Vuex & Router" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="UHewcsv6uJY" title="Build a Movie App With Vue JS - A Vue 3 Beginners tutorial" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="NuZOwsmzcro" title="How To Code Your First Mobile App Using React Native" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="-eVgT9pLHhI" title="Learn JavaScript &amp; CSS For Beginners by Creating a Dynamic Page Switcher" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="-eVgT9pLHhI" title="Learn JavaScript & CSS For Beginners by Creating a Dynamic Page Switcher" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="AjV7k7t78Ik" title="Build an Income Tracker in Vue JS ~ Composition API" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="AvsuZ3L5z28" title="Turning my 10 Minute Game into a MOBILE game ~ 2D Game Dev ~ LIVE" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="yZhbKkxFcN0" title="Neomorphic Login Form Design with HTML, CSS and Javascript" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="xTN3pvoYENg" title="Responsive Navbar with nested menus with HTML, CSS &amp; Javascript" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="xTN3pvoYENg" title="Responsive Navbar with nested menus with HTML, CSS & Javascript" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="9zA8cB-54SA" title="CSS GRID With Flexbox \| Beginner to Pro Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="9-nvPY1hNcw" title="Colour Generator App with Copy To Clipboard using Javascript &amp; CSS" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="9-nvPY1hNcw" title="Colour Generator App with Copy To Clipboard using Javascript & CSS" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="XhNMwxXcKQM" title="Responsive Gallery using CSS Grid with No Media Queries" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="TbzUQ0BXA8E" title="Animated Text Hover Effect in HTML &amp; CSS" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="TbzUQ0BXA8E" title="Animated Text Hover Effect in HTML & CSS" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="3rjHkTjCyBA" title="Awesome Animated Text Reveal ONLY CSS \| CSS Beginner Tutorial" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="JLc-hWsPTUY" title="Build a Weather App in VueJS \| Vue Beginner Tutorial" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="05LZ6-_FZj8" title="How To Code Your First Mobile App Using Vue Native" />
 <YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="nT4LZEbzohc" title="Making a Game in VueJS using Vuex \| VueJS Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="UG2LXxILAnM" title="Build a Todo List App in HTML, CSS &amp; JavaScript and Deploy it in 2023" />
+<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="UG2LXxILAnM" title="Build a Todo List App in HTML, CSS & JavaScript and Deploy it in 2023" />
 
 :::
 
@@ -581,32 +428,9 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
-
-
-
-
-
 ## Brian Morrison
 
-[Brian Morrison][yu-brianmmdev]
-
-::: details 목록
-
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="YJM07DsSL9U" title="🔴 Building my CLI w/Go for Content Automation #wordpress #golang #notion" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="13rnse0zYK8" title="Your First AWS Lambda Function with Go" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="mViu7lqZh_8" title="Make ANY CLI App Global on macOS" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="Qva-s4UwOWg" title="How I Built a Full Stack App on AWS - Building GuardianForge pt 1 Planning &amp; Discovery" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="aBJMHcMjhZ4" title="Learn GitHub Actions! Deploy a Vue App to AWS" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="mWqVKoin63A" title="🔴 Building Profiles for fullstack.chat (part 2)" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="6Pgiot-H7yQ" title="🔴 Building Profiles for fullstack.chat" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="G9yZg3l8ad8" title="Building My First Kubernetes Cluster" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="Nu_p0g7DH14" title="Building a Personal Knowledgebase with Notion" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="YB5ANTM2H8w" title="🔴 Building Enviari pt1 - A serverless shipping application using JavaScript, VueJS, and AWS" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="9sZ-IB3bttw" title="Building a Project Management System with Notion" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="wIcvlDeg7AQ" title="Building a Serverless To Do App with Vue and AWS" />
-<YoutubeItem channelName="Brian Morrison" channelId="brianmmdev" id="6cYReed4bzA" title="Deploying Vue Apps to AWS S3 &amp; CloudFront with GitHub Actions" />
-
-:::
+<MyYouTubeItems jsonName="yu-brianmmdev" />
 
 <!-- Brian Morrison -->
 
@@ -667,23 +491,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## ZeroCho TV
 
-[ZeroCho TV][yu-zero-cho-tv]
-
-::: details 목록
-
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="7O8G1wWLM24" title="라이브코딩쇼(제로베이스로 데스크탑 프로그램 만들기)" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="aG5XMUZiW-8" title="자바스크립트 ??과 ?. 연산자(널 병합, nullish coalescing, 옵셔널 체이닝, optional chaining) [노드교과서 개정3판]" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="cvxWOWOLcGc" title="[타입스크립트 올인원 미리보기]@types/jquery 설치하기" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="Z0U4Par7lEg" title="리액트 네이티브 개발자 채용합니다~ + 책 마무리" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="JZlYgKS3OtM" title="2021년 강좌 계획 &amp;&amp; Redux-vs-MobX 강좌 마무리" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="Gg5vQJ_AOsI" title="Next.js 10 체험해보기(feat. 노드버드)" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="fucSjX2w0f4" title="리액트 노드버드 10월 업데이트" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="hfSfbLZqYhA" title="Node.js 교과서 강좌(개정판) 2강" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="CDmMwG3-R18" title="노드교과서 개정판 - http 서버(4장)" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="ulpFuNCA2zc" title="네트워크 강좌 - VPN, 프록시(포워드, 리버스), 게이트웨이" />
-<YoutubeItem channelName="ZeroCho TV" channelId="ZeroChoTV" id="tQaxITImKys" title="네트워크 강좌 - HTTPS 원리" />
-
-:::
+<MyYouTubeItems jsonName="yu-ZeroChoTV" />
 
 <!-- ZeroCho TV -->
 
@@ -735,7 +543,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 <YoutubeItem channelName="동빈나" channelId="dongbinna" id="cBVTFYVGE2M" title="[딥러닝 초보자 필수 시청] 딥러닝 공부 순서 한 번에 총 정리" />
 <YoutubeItem channelName="동빈나" channelId="dongbinna" id="58fuWVu5DVU" title="배치 정규화(Batch Normalization) [꼼꼼한 딥러닝 논문 리뷰와 코드 실습]" />
-<YoutubeItem channelName="동빈나" channelId="dongbinna" id="ySJUlEVlXfk" title="[꼼꼼한 논문 리뷰] Certified Robustness to Adversarial Examples with Differential Privacy [S&amp;P 2019] " />
+<YoutubeItem channelName="동빈나" channelId="dongbinna" id="ySJUlEVlXfk" title="[꼼꼼한 논문 리뷰] Certified Robustness to Adversarial Examples with Differential Privacy [S&P 2019] " />
 <YoutubeItem channelName="동빈나" channelId="dongbinna" id="PjgukGtZDmM" title="도커(Docker) 활용 및 배포 자동화 실전 초급 ③ AWS EC2에 도커(Docker) 설치 및 `Dockerfile`로 웹 서버 구동시키기" />
 <YoutubeItem channelName="동빈나" channelId="dongbinna" id="_yEH9mczm3g" title="1강 - Create React App으로 리액트 프로젝트 시작하기 [React와 Node.js를 활용한 고객 관리 시스템 개발 강의]" />
 
@@ -772,15 +580,15 @@ tags: ["education", "youtube", "programming", "js", "node"]
 ::: details 목록
 
 <YoutubeItem channelName="academind" channelId="academind" id="i9uAgkKEuNU" title="100 Days of Code - Web Development  Bootcamp - Full Course: Day 1 - 8" />
-<YoutubeItem channelName="academind" channelId="academind" id="t7DrJqcUviA" title="Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free &amp; Tutorial!" />
+<YoutubeItem channelName="academind" channelId="academind" id="t7DrJqcUviA" title="Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial!" />
 <YoutubeItem channelName="academind" channelId="academind" id="Dorf8i6lCuk" title="React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!" />
 <YoutubeItem channelName="academind" channelId="academind" id="BwuLxPH8IDs" title="TypeScript Course for Beginners - Learn TypeScript from Scratch!" />
-<YoutubeItem channelName="academind" channelId="academind" id="x0uinJvhNxI" title="Flutter Crash Course for Beginners - Build a Flutter App with Google's Flutter &amp; Dart" />
-<YoutubeItem channelName="academind" channelId="academind" id="GLSG_Wh_YWc" title="Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter &amp; Dart" />
+<YoutubeItem channelName="academind" channelId="academind" id="x0uinJvhNxI" title="Flutter Crash Course for Beginners - Build a Flutter App with Google's Flutter & Dart" />
+<YoutubeItem channelName="academind" channelId="academind" id="GLSG_Wh_YWc" title="Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart" />
 <YoutubeItem channelName="academind" channelId="academind" id="_03VKmdrxV8" title="Ionic + React - Tutorial for Beginners" />
 <YoutubeItem channelName="academind" channelId="academind" id="-MlNBTSg_Ww" title="React.js Hooks Crash Course" />
 <YoutubeItem channelName="academind" channelId="academind" id="nteDXuqBfn0" title="Nuxt.js - Introduction by Project" />
-<YoutubeItem channelName="academind" channelId="academind" id="V-xK3sbc7xI" title="Vue 3 &amp; A First Look at the Composition API" />
+<YoutubeItem channelName="academind" channelId="academind" id="V-xK3sbc7xI" title="Vue 3 & A First Look at the Composition API" />
 <YoutubeItem channelName="academind" channelId="academind" id="F_oOtaxb0L8" title="Learn Nest.js from Scratch by building an API" />
 <YoutubeItem channelName="academind" channelId="academind" id="nSmMkeNjjPg" title="VueJS - CLI 3 Tutorial" />
 <YoutubeItem channelName="academind" channelId="academind" id="hOtZhNb4TKg" title="JavaScript Security: Hide your Code?" />
@@ -826,17 +634,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Pluralsight
 
-[Pluralsight][yu-pluralsight]
-
-::: details 목록
-
-<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="akrQr15iBt4" title="Let's Build a Game in JavaScript" />
-<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="mw5YuPw6A1c" title="Backend development for frontend engineers" />
-<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="-g2Dat7z2WQ" title="Webinar: Angular patterns &amp; best practices with John Papa" />
-<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="mhFPVhNNI3Y" title="Let's Build a Game in JavaScript! All Hands on Tech Live" />
-<YoutubeItem channelName="Pluralsight" channelId="pluralsight" id="5TKeYLW2cq4" title="Let's Build a JavaScript Game!" />
-
-:::
+<MyYouTubeItems jsonName="yu-pluralsight" />
 
 <!-- Pluralsight -->
 
@@ -1037,22 +835,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Hitesh Choudhary
 
-[Hitesh Choudhary][yu-hitesh-choudhary]
-
-::: details 목록
-
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="wxSRHthSXzc" title="Do we really need firebase in 2023" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="D_5T6KMTRb8" title="Github Codespace crash course" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="rr9cI4u1_88" title="A practical guide on Docker with projects \| Docker Course" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="0eMU23VyzR8" title="How to build docker image for python flask app" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="hduwjJ043Mg" title="Save your code snippets in this open source tool" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="jkngyZjRETs" title="Appwrite crash course \| Open Source Backend as a Service \| Reactjs" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="BAZ-tJOYhlA" title="socket io crash course \| easy way" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="yviJikU4gwk" title="useRef hook in reactjs \| Easiest way" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="oDasd7PfwbY" title="Start and delete a container \| #Docker" />
-<YoutubeItem channelName="Hitesh Choudhary" channelId="HiteshChoudharydotcom" id="xgSHYb85tLQ" title="Fun assignment to create function in javascript" />
-
-:::
+<MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" />
 
 <!-- Hitesh Choudhary -->
 
@@ -1080,7 +863,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 ::: details 목록
 
 <YoutubeItem channelName="Tricknology" channelId="Tricknology" id="kKV6AXVcVnI" title="Banco de dados Offline com RealmDB no React Native \| Decode #031" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="9TXmvypsCeY" title="Jest with React and VSCode - The Best combination of Setup &amp; Extensions" />
+<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="9TXmvypsCeY" title="Jest with React and VSCode - The Best combination of Setup & Extensions" />
 
 :::
 
@@ -1096,7 +879,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 <YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="NHHhiqwcfRM" title="Deno Crash Course" />
 <YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="-6OAHsde15E" title="Node.js CLI For Cryptocurrency Prices" />
-<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="9FQrFah9rnc" title="Node.js GeoJSON API &amp; App | Store Locator" />
+<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="9FQrFah9rnc" title="Node.js GeoJSON API & App | Store Locator" />
 <YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="YK-GurROGIg" title="Documenting Your JavaScript | JSDoc Crash Course" />
 <YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="Xa5EU-qAv-I" title="VSCode Keyboard Shortcuts For Productivity" />
 <YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="wqhNoDE6pb4" title="NestJS Crash Course" />
@@ -1115,12 +898,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 <YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="ifY6GfFhzbk" title="Full Stack Ethereum Development - #3 - Installing And Setting Up MetaMask" />
 <YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="sRaBKY_dDGg" title="Building A Blog With Eleventy And Netlify CMS - Part 3: Managing Blog Content With Netlify CMS" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="Cxbvi4mL8nE" title="Meteor &amp; Svelte - Building Full-Stack Reactive Web Applications - 06: User Accounts" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="Cxbvi4mL8nE" title="Meteor & Svelte - Building Full-Stack Reactive Web Applications - 06: User Accounts" />
 <YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="j_5-LISy9Qg" title="Tailwind CSS For Absolute Beginners" />
 <YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="4RkMAt8-u8g" title="NestJS For Absolute Beginners" />
 <YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="G24n-WERqsM" title="Apollo Server 2 Introduction" />
 <YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="hS-czwYyTpo" title="Docker - Beginner's Guide - Getting Started With Containerization - Part 2: Services" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="MnDT1aB39hQ" title="Docker - Beginner's Guide - Getting Started With Containerization - Part 1: Images &amp; Containers" />
+<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="MnDT1aB39hQ" title="Docker - Beginner's Guide - Getting Started With Containerization - Part 1: Images & Containers" />
 <YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="i-Jk0Qfh-gk" title="Vue.js 2 State Management With Vuex - Introduction" />
 
 :::
@@ -1255,7 +1038,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="BfrJxGQEPSc" title="Complete MERN App (OTP Verification, JWT Token, Authentication, Reset Password)" />
 <YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="p_046Qe19p0" title="How to Make Leaderboard in React App - For Beginners" />
 <YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="UEJHSPM-Qiw" title="PayPal Checkout Integration Tutorial For Beginners - [2020]" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="XBTA-ofG8gc" title="PHP Complete Registration &amp; Login System Using MySQLi - Complete Guide" />
+<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="XBTA-ofG8gc" title="PHP Complete Registration & Login System Using MySQLi - Complete Guide" />
 <YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="dgKSqz3it50" title="Complete Portfolio Website with Bootstrap - HTML/CSS" />
 <YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="t-I0y6cWKJQ" title="JavaScript this Keyword - Why Should We Use it?" />
 <YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="Dl2gLiMQJkw" title="Image Thumbnail Previewer Using HTML/CSS" />
@@ -1275,7 +1058,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 ::: details 목록
 
 <YoutubeItem channelName="Dipesh Malvia" channelId="DipeshMalvia" id="6CYCD7kE8Qs" title="How to Improve Performance of React Apps with Code Splitting"/>
-<YoutubeItem channelName="Dipesh Malvia" channelId="DipeshMalvia" id="yz2PwipRqzw" title="Learn JavaScript Nullish Coalescing Operator &amp; Assignment in 10 Minutes | JavaScript Interview"/>
+<YoutubeItem channelName="Dipesh Malvia" channelId="DipeshMalvia" id="yz2PwipRqzw" title="Learn JavaScript Nullish Coalescing Operator & Assignment in 10 Minutes | JavaScript Interview"/>
 <YoutubeItem channelName="Dipesh Malvia" channelId="DipeshMalvia" id="eDcxcTSQJaA" title="Build React CRUD Admin panel with Ant Design | Refine Tutorial | React Admin Crash Course"/>
 <YoutubeItem channelName="Dipesh Malvia" channelId="DipeshMalvia" id="B8_cPhCM7HY" title="Async Programming | Callbacks | Promises | Async Await | Node.js Tutorial for Beginners #4"/>
 <YoutubeItem channelName="Dipesh Malvia" channelId="DipeshMalvia" id="6CYCD7kE8Qs" title="How to Improve Performance of React Apps with Code Splitting"/>
@@ -1293,7 +1076,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 ::: details 목록
 
 <YoutubeItem channelName="EdRoh" channelId="EdRohDev" id="uoJ0Tv-BFcQ" title="Build A MERN Finance Dashboard App | Machine Learning, Typescript, React, Node, MUI, Deployment" />
-<YoutubeItem channelName="EdRoh" channelId="EdRohDev" id="wYpCWwD1oz0" title="Build a COMPLETE React Admin Dashboard App \| React, Material UI, Data Grid, Light &amp; Dark Mode" />
+<YoutubeItem channelName="EdRoh" channelId="EdRohDev" id="wYpCWwD1oz0" title="Build a COMPLETE React Admin Dashboard App \| React, Material UI, Data Grid, Light & Dark Mode" />
 :::
 
 <!-- EdRoh -->
@@ -1353,7 +1136,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="TtQqhp-wjY4" title="Learn Ansible from Scratch | How to use Ansible with Vagrant | Eduonix" />
 <YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="p9_4YHOUr4k" title="[JavaScript] | Optimize JS with Webpack (2019) | Eduonix" />
 <YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="Q4Wc9kRdlik" title="How to Create Web animation from CSS!  2019 | Eduonix" />
-<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="Je_J78qx2eY" title="Learn To Build Weather App With React | Add Component &amp; API Keys (Part 2/3) | Eduonix" />
+<YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="Je_J78qx2eY" title="Learn To Build Weather App With React | Add Component & API Keys (Part 2/3) | Eduonix" />
 <YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="MEsoLU5u_FA" title="Promises in JavaScript | NodeJS File Transferring in Promises (Part 6/6) | Eduonix" />
 <YoutubeItem channelName="Eduonix Learning Solutions" channelId="Eduonix" id="dhaaHKU7Nzk" title="ES6: Introduction to Spread Operator | Eduonix" />
 
@@ -1392,7 +1175,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Kl3nOXQjVnQ" title="The 2023 Frontend Development Crash Course - Learn HTML &amp; CSS" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Kl3nOXQjVnQ" title="The 2023 Frontend Development Crash Course - Learn HTML & CSS" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="QwSN4n2sjR8" title="The UI/UX Crash Course for 2023 - Learn UI/UX Design" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="4ThnAKy4okM" title="How to Refactor a Web Design - Like a Pro" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="gI_X6ekJFus" title="10 Jaw-Dropping Portfolios of 2022" />
@@ -1404,12 +1187,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="mNtLjzzxGQM" title="Building a REAL Web Component from Scratch! - Tutorial" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="ID0fwi2q028" title="You need to know Usability Testing (with Maze)" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="B7_W7LvIRU0" title="Watch me BREAK this layout - The BROKEN Layout Trend" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Ly6pm8UxZU4" title="The 2020 HTML &amp; CSS Crash Course - From Mockup to Product" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="aMucZErEdZg" title="Creating Sick Page Transitions with Barba.js &amp; GSAP" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Ly6pm8UxZU4" title="The 2020 HTML & CSS Crash Course - From Mockup to Product" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="aMucZErEdZg" title="Creating Sick Page Transitions with Barba.js & GSAP" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="t15BZZ1giGo" title="Figma + No Code + Rest API = NATIVE APP?! -- Bravo Studio" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="YNB-JD7iPoQ" title="STOP The CSS Grid Confusion - 2 Ways to GRID!" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="ciMsVVyv3Og" title="Finally Figure out the SVG ViewBox - Tutorial + ViewBox Tools" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="PU9r0HfZkaE" title="Animated Icon Design Crash Course - Illustrator &amp; Lottie.js - 1/2" />
+<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="PU9r0HfZkaE" title="Animated Icon Design Crash Course - Illustrator & Lottie.js - 1/2" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="P5zGTEGPpu4" title="Parallax in HTML, CSS and JavaScript Tutorial - Let's make it happen!" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="syG7ljxqzNg" title="CSS Multi-Columns - Awesome Newspaper Style Layouts (NO Flexbox or Grid)" />
 <YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="MjB1Nyx6hns" title="Web Share API Tutorial - Native Sharing is Easy!" />
@@ -1485,7 +1268,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 ::: details 목록
 
 <YoutubeItem channelName="Huntabyte" channelId="Huntabyte" id="P_A0qQ7AuK8" title="Best UI Library for Svelte" />
-<YoutubeItem channelName="Huntabyte" channelId="Huntabyte" id="ioELbSf8z2k" title="Live Code &amp; Chill - Adding Directus as CMS (SvelteKit, Supabase, Stripe)" />
+<YoutubeItem channelName="Huntabyte" channelId="Huntabyte" id="ioELbSf8z2k" title="Live Code & Chill - Adding Directus as CMS (SvelteKit, Supabase, Stripe)" />
 <YoutubeItem channelName="Huntabyte" channelId="Huntabyte" id="13v50nLh67Q" title="10X Your SvelteKit Developer Experience in VSCode" />
 
 :::
@@ -1521,20 +1304,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Theo - t3․gg
 
-[![Theo - t3․gg](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s176-c-k-c0x00ffffff-no-rj =x150)][yu-t3-dot-gg]
-
-::: details 목록
-
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="YkOSUVzOAA4" title="T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma &amp; More)" />
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="RUwTvCyeohQ" title="Vercel STORAGE??! SQL, KV, Files and more" />
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="UnDw3_7_9gc" title="We Fixed Environment Variables" />
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="kUs-fH1k-aM" title="Do you REALLY need SSR?" />
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="LMUKsAf2Rfs" title="Killing ReactJS - A Guide For Hopeful Frameworks" />
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="9RM2aErJs-s" title="TypeScript Just Got SO MUCH BETTER" />
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="a8wCny94-_U" title="I Read Twitter's Code So You Don't Have To" />
-<YoutubeItem channelName="Theo - t3․gg" channelId="t3dotgg" id="kK-iR6g-V1g" title="The REAL Cost Of AWS" />
-
-:::
+<MyYouTubeItems jsonName="yu-t3dotgg" />
 
 <!-- Theo - t3․gg -->
 
@@ -1547,7 +1317,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 ::: details 목록
 
 <YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="hcK3N_Y3hzM" title="Rust for TypeScript Developers by ThePrimeagen | Preview" />
-<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="Us2JP01aNFE" title="Polyglot Programming: TypeScript, Go, &amp; Rust by ThePrimeagen | Preview" />
+<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="Us2JP01aNFE" title="Polyglot Programming: TypeScript, Go, & Rust by ThePrimeagen | Preview" />
 <YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="Lwr3-doAgaI" title="The Last Algorithms Course You'll Need by ThePrimeagen \| Preview" />
 
 :::
@@ -1585,8 +1355,8 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="bc6czIBLKTg" title="Vue JS 3 Tutorial for Beginners #6 - Build a Reaction Timer Game" />
 <YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="vYBc7Le5G6s" title="Infinite Scroll Pagination Tutorial with Firestore \(part 1\)" />
 <YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="mR6kNv83or0" title="Bulma Tutorial \(Product Page Build\) #15 - Adding a Footer" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="sfA3NWDBPZ4" title="Flutter &amp; Firebase App Tutorial #1 - Introduction" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="CpC5MTKAuwI" title="Deno Tutorial #2 - Files, Fetch &amp; Permissions" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="sfA3NWDBPZ4" title="Flutter & Firebase App Tutorial #1 - Introduction" />
+<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="CpC5MTKAuwI" title="Deno Tutorial #2 - Files, Fetch & Permissions" />
 
 :::
 
@@ -1632,6 +1402,47 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 <!-- Awesome -->
 
+---
+
+## Envato Tuts+
+
+<MyYouTubeItems jsonName="yu-envatotuts" />
+
+<!-- Envato Tuts+ -->
+
+---
+
+## Code With Ryan
+
+<MyYouTubeItems jsonName="yu-codewithryan" />
+
+<!-- Code With Ryan -->
+
+---
+
+## SuperSimpleDev
+
+<MyYouTubeItems jsonName="yu-SuperSimpleDev" />
+
+<!-- SuperSimpleDev -->
+
+---
+
+## Coding in Public
+
+<MyYouTubeItems jsonName="yu-CodinginPublic" />
+
+<!-- Coding in Public -->
+
+---
+
+## Tech Talks with Simon
+
+<MyYouTubeItems jsonName="yu-sstur" />
+
+<!-- Tech Talks with Simon -->
+
+---
 
 ## Misc
 
@@ -1661,9 +1472,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-laithacademy]: https://www.youtube.com/@laithacademy
 [yu-javascript-mastery]: https://www.youtube.com/@javascriptmastery
 [yu-program-w-erik]: https://www.youtube.com/@ProgramWithErik
-[yu-fireship]: https://www.youtube.com/@Fireship
-[yu-beyond-fireship]: https://www.youtube.com/@beyondfireship
-[yu-dave-gray-teaches-code]: https://www.youtube.com/@DaveGrayTeachesCode
 [yu-wes-bro]: https://www.youtube.com/@WesBos
 [yu-coding-artist]: https://www.youtube.com/@CodingArtist
 [yu-nomadcoders]: https://www.youtube.com/@nomadcoders

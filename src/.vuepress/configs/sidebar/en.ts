@@ -656,6 +656,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/17.md',
         '/crashcourse/paul-hudson-100-days-of-swift/18.md',
         '/crashcourse/paul-hudson-100-days-of-swift/19.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/20.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -669,7 +670,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/5.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/6.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/7.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/8.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/8.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/9.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -735,6 +737,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/crashcourse/eventhelix-rust-to-assembly/README.md',
         '/crashcourse/eventhelix-rust-to-assembly/rust-enum-and-match-representation-in-assembly.md',
+        '/crashcourse/eventhelix-rust-to-assembly/assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md',
       ]
     }, {
       text: '🧶Must Know JavaScript API',

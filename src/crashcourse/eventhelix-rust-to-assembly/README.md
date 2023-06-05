@@ -24,8 +24,8 @@ meta:
 
 ## {{ $frontmatter.description }}: Understanding the Inner Workings of Rust
 
-- [Rust enum and match representation in assembly](rust-enum-and-match-representation-in-assembly)
-
+- [Rust enum and match representation in assembly](rust-enum-and-match-representation-in-assembly.md)
+- [Assembly code generated when self is passed by value, reference or as a smart pointer](assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md)
 
 ```card
 title: Assembly code generated when self is passed by value, reference or as a smart pointer

@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "BoualiAli",
+    "name": "Bouali Ali",
+    "profile": "https://yt3.googleusercontent.com/2S9PgNBhKkWGISsFGZcZ7OOALMscfMXVssiY8NIYXmbL9PjGAoMrthhiEl8f9q0Ov5vF5YBApg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "vmEWywGzWbA",
+      "title": "Spring boot 3 Keycloak integration for beginners |&nbsp;The complete Guide"
+    }, {
+      "id": "2o_3hjUPAfQ",
+      "title": "Spring boot 3 - OpenApi Documentation | Swagger UI"
+    }, {
+      "id": "8lG6iwzdc2I",
+      "title": "MongoDB + Spring Boot 3 | Crash Course"
+    }, {
+      "id": "BVdQ3iuovg0",
+      "title": "Spring boot 3.0 - Secure your API with JWT Token [2023]"
+    }, {
+      "id": "MhZl4YikM20",
+      "title": "Spring Boot Exception Handling Made Easy"
+    }, {
+      "id": "wsq1-m1dy_I",
+      "title": "Spring Boot Tutorial For Beginners"
+    }, {
+      "id": "EnUsNVHveyU",
+      "title": "Reactive Programming with Spring Boot | A Beginner's Guide"
+    }
+  ]
+}
+

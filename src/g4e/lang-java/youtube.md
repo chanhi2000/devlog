@@ -29,54 +29,7 @@ meta:
 ---
 ## Java Techie
 
-[Java Techie][yu-Javatechie]
-
-::: details 목록
-
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="7TaUhLQQPDs" title="🔐 PII Data Masking Using Spring Boot | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="EiMi11slVnY" title="How to install Kafka using Docker & Docker Compose in any OS | Windows | MacOS | Linux | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="qODoDq5_hAM" title="Spring Cloud API Gateway | JWT Security  | Pass UserDetails to Microservices | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="ceSqN3CWd14" title="Creating SOAP Web Service with Spring Boot | java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="-6_9NxB9aVM" title="Restful Webservices using Spring with Hibernate | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="WJg3NUwq6zU" title="Consume Soap Webservices using WebServiceTemplate | Spring Boot | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="NaEk2zAmDE8" title="Spring Boot Best Practices For Developers 👨‍💻 | Productivity | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="K48J7Ogxazc" title="Spring Boot | Dynamic Inserts & Updates With Spring Data JPA | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="P5sAaFY3O2w" title="Spring Boot - Creating Custom Annotation For Validation | InterviewQA | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="VO20SgiTTOU" title="Spring Boot With Splunk Integration | Realtime logs analysis using Splunk | HEC | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="XUL60-Ke-L8" title="Spring Boot File Upload and Download REST API | Spring Data JPA | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="wFpAw0bpzns" title="Apache Camel + Spring Boot REST API | Example | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="vBoOXP6BkDI" title="Spring Boot With Splunk Integration | Realtime logs analysis using Splunk | HEC | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="huUdmP5iPM8" title="Spring Batch Dynamic File Upload Example | Spring Boot | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="_eFad7AGWdM" title="Build a Secure Realtime Chat App in React Native (tutorial for beginners) 🔴" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="bXcFCgQsvAE" title="Spring Boot | Reactive Programming Complete Tutorials for Beginners | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="gMmcRbd8L5Y" title="Kubernetes Tutorial for Beginners | 2 Hours Course With Example | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="Zf7NB7yKisI" title="Spring Boot WebFlux | Write Integration Test Using Mockito & Junit | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="A5nCPqPH3Fc" title="Spring Boot - Introduction to Reactive Programming | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="w-iwyp_A7e8" title="Java 8 Streams | `map()` and `reduce()`  Example | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="95kxPSbHzVg" title="Spring Boot | Spring Data JPA Transaction Management | @Transactional | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="6A9pqr4qQMo" title="Spring Boot Serverless Architecture using AWS Lambda | Spring Cloud Function | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="MBpcmoifpNY" title="Deploy Spring Boot Applications | AWS Elastic Beanstalk | Tomcat | javatechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="M19XC0zJUrA" title="Microservice | Distributed log tracing using Spring Cloud Sleuth & Zipkin | PART-7 | Javatechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="J9uKG22lBwA" title="Docker & Angular: Dockerizing your Angular Application | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="3rJBLFA95Io" title="Multi-Threading in Spring Boot using CompletableFuture | @Async | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="9l5Vm_-VvG4" title="Spring Auto Rest Docs | Automate API Documentation | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="pc4lfKm8NLY" title="Spring Boot + Jasper Report | Example | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="8qhaDBCJh6I" title="SpringBoot : Spring Data JPA - One To Many & Join Query | Example | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="aCJPi9nbGMg" title="PCF | Deploy an Angular Application to Pivotal Cloud Foundry | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="-FZHBTqBGBM" title="Angular + Spring Security | Basic Authentication Example | Login Form | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="DG9B2w-N42s" title="Multi-Module Project With Spring Boot | Maven | Example | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="kXhYu939_5s" title="Spring Boot Testing | Writing JUnit Tests using JUnit and Mockito  | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="QV7ke4a7Lvc" title="Spring Boot + Angular 8 CRUD Example | Spring Data | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="XUL60-Ke-L8" title="Spring Boot File Upload and Download REST API | Spring Data JPA | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="wFpAw0bpzns" title="Apache Camel + Spring Boot REST API | Example | Java Techie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="vBoOXP6BkDI" title="CI CD Pipeline Using Jenkins | Deploy Docker Image to Kubernetes using Jenkins | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="5jDrBD4Y1MI" title="Spring Security Complete Tutorial with Realtime Example | Facebook Group Usecase | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="pIPji3_rYPY" title="Kubernetes Tutorial | Run & Deploy Spring Boot CRUD Application With MySQL on K8S | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="g0QCZSzEqCY" title="Deploy Spring Boot and MongoDB as Containers Using Docker Command & Docker-Compose | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="MWvnmyLRUik" title="Microservices Security Using JWT | Spring Cloud  Gateway | JavaTechie" />
-<YoutubeItem channelName="Java Techie" channelId="Javatechie" id="k_JbBYjZ6G4" title="Apache Kafka No Longer Requires ZooKeeper | Kraft Mode | Detailed Explanation | JavaTechie" />
-
-:::
+<MyYouTubeItems jsonName="yu-Javatechie" />
 
 <!-- Java Techie -->
 
@@ -90,41 +43,7 @@ meta:
 
 ## Mike Møller Nielsen
 
-[Mike Møller Nielsen][yu-mike-moller-nielsen]
-
-::: details 목록
-
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="7IoWwwcXMAU" title="Jpa Manytomany Debugging" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="5lGVTU2bf1U" title="Http Status Code 418" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="s6MxctqfBWg" title="Spring Boot 3 Http Interfaces" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="HGuDWBuF4zA" title="Cucumber DataTable" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="hDrkhQfH6Og" title="K8 Best Practise Lint" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="YFLzB9xN83g" title="Testcontainer Kafka" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="mkdVgx0ylpU" title="Spring Security 2022 Basic Auth" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="fl9pv_lZVmA" title="Cucumber Test With Maven and Spring Boot" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="CoVEjA9E_Mo" title="Spring Boot Dirties Context" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="4BWJgK4CJDI" title="Spring Boot JPA OneToOne Standard" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="s_QbfTL3RRI" title="Jpa And Optional" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="4xoZ0rsUwbc" title="JPA OneToMany JoinTable" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="F5rJgNh46Xk" title="Kubernetes   Minikube And Kubectl" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="jQf3x3BFhDU" title="Scala   Spring Boot   Wsl   Intellij" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="n6mzVlcdgos" title="Git Remove large files with BFG Repo Cleaner" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="HfaT-bUV8HI" title="Spring Boot Google Firestore Reactive Flux Mono" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="SdeanI5Gl-4" title="Dart Constructors Strings and Null handling" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="xZXqg4s3Wsc" title="Tensorflow and Keras up and running with IntelliJ" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="t8-VQFESNRo" title="Apache POI Write a Microsoft Excel Spreadsheet from a Java program" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="eymb2I-m5tE" title="Spring Boot Heroku up and running" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="g5dNMIhFAmo" title="Java Deep Clone an Object" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="OXDyO5BvrdE" title="Terraform Conflict" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="qe93HOU8jzI" title="Jwt JSON Web Token Intro" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="wHtxsUBGdvc" title="Docker Swarm" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="YCCD3NzytDw" title="Spring Boot Cloud Foundry Up And Running" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="EfJo0CHOxUI" title="Apache Beam From Pubsub To Firestore" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="XBq7X3arbE8" title="Spring Boot Request Parameter And Arrays" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="54CqKvmt898" title="Your Screen Is Large Enough" />
-<YoutubeItem channelName="Mike Møller Nielsen" channelId="MikesTechCorner" id="ZGahDoPqLmE" title="Terraform GCS Backend" />
-
-::::
+<MyYouTubeItems jsonName="yu-MikesTechCorner" />
 
 <!-- Mike Møller Nielsen -->
 
@@ -151,45 +70,7 @@ meta:
 
 ## Naveen AutomationLabs
 
-[Naveen AutomationLabs][yu-naveenautomationlabs]
-
-::: details 목록
-
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="4ro6WmobWeQ" title="Test Automation Coding Challenge with Drag And Drop Use Cases || Selenium | Cypress | Playwright" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="kQdD2WmRozE" title="Agile Scrum and JIRA Tutorial - End to End Project Setup and Dashboard [Latest 2022]" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="kwhn2nJpVNc" title="#3 - GET API CALL in KARATE Framework" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="xzq6JJZ0Oj8" title="#1 - Karate Framework - Introduction & Setup Installation" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="Ap1EteUw_9o" title="Do you really need Postman? | Use Thunder Client - VSCode extension | Easy & Lightweight" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="TeVB2tyeWyw" title="#1 - Gatling (Performance Load Testing Tool) - Setup and Installation (Windows/Mac)" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="tI4O-6dVjsw" title="PART 7 : How to Write Pending Tests and Maintain Unique Session in Serenity" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="PzOZggL6ewo" title="#8 - Hooks in #Cucumber (Before/After Hooks in Cucumber)" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="Q3JrBokM4FQ" title="Selenium Integration with SauceLabs || Run Selenium Test on SauceLabs Cloud" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="5S7ev-GMyOM" title="Run Selenium Test on MS Azure Pipeline || Azure Cloud" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="oQWxfVbFwjY" title="Java Multithreading Concept in Selenium WebDriver (No TestNG) || Run it from Maven - Jenkins" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="x54jV24gWdE" title="Reusable commands in Cypress || Write Generic Functions - Part - 14" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="2nPARZDDGZg" title="Handle CheckBoxes in Cypress - Part -13" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="rTr3KCQx0ik" title="Getting Started with GraphQL" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="CnwOEkIYSUk" title="Window App Automation using - Microsoft WinAppDriver" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="F6oxQD7YlAA" title="Binary Tree PostOrder traversal in java - DataStructure - Part -6" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="2iYMHUPcGwU" title="JMeter Variables, Random Number, Functions in JMeter - Part -7" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="1Ur5FKQBHk0" title="Home Page Test - WebDriverIO Page Object Model Framework Design - Part 3" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="K8nIURvXbU0" title="Bamboo CI integration with Selenium || Run test from Bamboo || Installation & Setup" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="wszi0H-auaM" title="WebDriverIO Page Object Model Framework Design - Part 1" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="3bVCnW2skUU" title="How to use Data Files in Tests In WebDriverIO - Part - 22" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="ipcPPSGQWAk" title="What is `XMs` - `XMx` - How to control Java heap size (memory) allocation" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="DW2NMjjVFro" title="Configure Environment URLs in WebDriverIO - Part - 23" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="U_GwgpHi4a8" title="WaitForExist Sync method in WebDriverIO - Part - 16" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="TUGYTmNQtWc" title="ExplicitWait - WaitUntil method in WebDriverIO - Part - 17" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="NiqaO9nhABQ" title="ExplicitWait - WaitUntil for Page Title in WebDriverIO - Part - 18" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="ea0P7MBQmiM" title="Page Object Model (POM) Design With Selenium - Part -3" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="3uktjWgKrtI" title="How to Become Genius in XPath in Selenium  - Session -18" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="8bIxLxSovws" title="`@Parameters` in TestNg: How to pass parameter from `testing.xml`" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="P9ZWOWm7i0k" title="Architecture of Page Object Model (POM) Design With Selenium - Part -1" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="uatGjMOapK8" title="DataProvider In TestNG - Data Driven Framework in Selenium - Part 3" />
-<YoutubeItem channelName="Naveen AutomationLabs" channelId="naveenautomationlabs" id="WCXuToHC6aA" title="Part 6 - POST CALL with POJO Class || Playwright Java API Automation" />
-
-
-:::
+<MyYouTubeItems jsonName="yu-naveenautomationlabs" />
 
 <!-- Naveen AutomationLabs -->
 
@@ -197,18 +78,7 @@ meta:
 
 ## Bouali Ali
 
-[Bouali Ali][yu-bouali-ali]
-
-::: details 목록
-
-<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="2o_3hjUPAfQ" title="Spring boot 3 - OpenApi Documentation | Swagger UI" />
-<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="8lG6iwzdc2I" title="MongoDB + Spring Boot 3 | Crash Course" />
-<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="BVdQ3iuovg0" title="Spring boot 3.0 - Secure your API with JWT Token [2023]" />
-<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="MhZl4YikM20" title="Spring Boot Exception Handling Made Easy" />
-<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="wsq1-m1dy_I" title="Spring Boot Tutorial For Beginners" />
-<YoutubeItem channelName="Bouali Ali" channelId="BoualiAli" id="EnUsNVHveyU" title="Reactive Programming with Spring Boot | A Beginner's Guide" />
-
-:::
+<MyYouTubeItems jsonName="yu-BoualiAli" />
 
 <!-- Bouali Ali -->
 
@@ -427,24 +297,7 @@ meta:
 
 ## 웹짱이영환쌤
 
-[웹짱이영환쌤][yu-user-jn1ly6wf9q]
-
-::: details 목록
-
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="DojMFzFBxBY" title="Webjjang Spring ver.2021.04 22-01 Interceptor와 권한 설정(웹짱과 함께하는 스프링)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="UDh28CNqigo" title="Webjjang Web ver.2021.01 04-07 공지사항 흐름 구현(웹짱과 함께하는 웹표준-화면구현)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="S1GOHP1cRsw" title="Webjjang JAVA ver.2022.11 17-08 JDBC 응용 - Qna - DB Driver 로딩과 조인 적용(웹짱과 함께하는 자바2211)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="gi5eZS9ft64" title="Webjjang JAVA ver.2022.11 17-09 JDBC 응용 - Qna - 글보기의 DAO(웹짱과 함께하는 자바2211)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="k7Q0KZpJmP0" title="Webjjang JAVA ver.2022.11 17-10 JDBC 응용 - Qna - 조회수 1증가와 보기 데이터 출력(웹짱과 함께하는 자바2211)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="rFwh0v61PsU" title="Webjjang JAVA ver.2022.11 17-11 JDBC 응용 - Qna - 질문하기(웹짱과 함께하는 자바2211)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="Usqz87PMv8o" title="Webjjang JAVA ver.2022.11 17-12 JDBC 응용 - Qna - 답변하기(웹짱과 함께하는 자바2211)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="paOhcu8Y5ew" title="Webjjang Spring ver.2023.03 04-02 MyBatis의 Mapper 방식으로 SQL 처리하기(웹짱과 함께하는 스프링)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="-pjl1a5GcjM" title="Webjjang Spring ver.2023.03 04-03 MyBatis의 Mapper.xml을 사용하여 SQL 처리하기(웹짱과 함께하는 스프링)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="doIG_mACLlo" title="Webjjang Spring ver.2023.03 01-05 개발 환경 구축 - Lombok 라이브러리 확인하기(웹짱과 함께하는 스프링)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="o17b43rGinQ" title="Webjjang Spring ver.2023.03 03-01 오라클 JDBC 연결과 테스트(웹짱과 함께하는 스프링)" />
-<YoutubeItem channelName="웹짱이영환쌤" channelId="user-jn1ly6wf9q" id="_2Jluyzr9FE" title="Webjjang Spring ver.2023.03 03-03 DBCP 테스트(웹짱과 함께하는 스프링)" />
-
-:::
+<MyYouTubeItems jsonName="yu-user-jn1ly6wf9q" />
 
 <!-- 웹짱이영환쌤 -->
 
@@ -773,24 +626,8 @@ meta:
 
 ## Java
 
-[Java][yu-java]
+<MyYouTubeItems jsonName="yu-java" />
 
-::: details 목록
-
-<YoutubeItem channelName="Java" channelId="java" id="XEKkUpPnf4Q" title="Java's Observability and Monitoring Framework - JFR" />
-<YoutubeItem channelName="Java" channelId="java" id="FFlVaB8oTi0" title="“JavaFX” - Inside Java Podcast 27" />
-<YoutubeItem channelName="Java" channelId="java" id="gTBb7LxTBbE" title="Sequenced Collections - Inside Java Podcast 31" />
-<YoutubeItem channelName="Java" channelId="java" id="hkpNt37nauw" title="How do you the sum the elements of an array? - Cracking the Java Coding Interview" />
-<YoutubeItem channelName="Java" channelId="java" id="2nOj8MKHvmw" title="Java Asynchronous Programming Full Tutorial with Loom and Structured Concurrency - JEP Café #13" />
-<YoutubeItem channelName="Java" channelId="java" id="jb7m9dL1iSI" title="Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond" />
-<YoutubeItem channelName="Java" channelId="java" id="I9hQvJO39uM" title="Loom in the Java Ecosystem - Inside Java Newscast #34" />
-<YoutubeItem channelName="Java" channelId="java" id="diUvR6gqHVY" title="Helidon - Microservices on Modern Java" />
-<YoutubeItem channelName="Java" channelId="java" id="7n3EXy4f7dE" title="tting Rid Of Unnamed Variables" />
-<YoutubeItem channelName="Java" channelId="java" id="nS72gSoieso" title="Java First. Java Always. |&nbsp;DevLive Level Up Keynote" />
-<YoutubeItem channelName="Java" channelId="java" id="NI16bqeGv7U" title="Troubleshooting Native Memory Issues in Java Applications" />
-<YoutubeItem channelName="Java" channelId="java" id="3O4JtWcmkVQ" title="Evolving the Security of the Java Platform" />
-
-:::
 
 <!-- Java -->
 
@@ -850,36 +687,7 @@ meta:
 
 ## 메타코딩
 
-[메타코딩][yu-metacoding]
-
-::: details 목록
-
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="UgKFaUHaIsg" title="AWS 49강 - 배포v3  - (필독) 엘라스틱빈스톡 샘플코드 사용해보기" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Y_yw4c7qsxg" title="도커 입문 12강 - docker commit 이미지 굽기와 docker hub 업로드" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="PMm3_PTyVas" title="Git 협업전략1강  - 전략이해" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="YHAHxwD2ljk" title="Git 협업전략3강 - 실습 - 팀원역할" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="6gO5SxoRK_M" title="도커 입문 11강 - docker volumn옵션으로 폴더 연결하기" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="xSyIJKOGE8U" title="Junit 15강 - 서비스레이어 책 한건보기" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="YZVn76Rg-wI" title="Junit 13강 - 서비스레이어 책등록 완료" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Q-UebfEJjE0" title="Junit 10강 - delete 테스트 버그 수정 - @Sql 이용하기" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Sn7AjvKhkbk" title="Junit 8강 - select 테스트" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="8Qg9lIJ3pCw" title="Junit 6강 - 책등록테스트완료" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="cvn54pTNFOI" title="Junit 2강 - `yml` 설정" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="kYqGAM2culU" title="Junit 1강 - 환경설정" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="Oo_eHCr_HsQ" title="스프링부트5.0 채팅서버 만들기 - 1강 환경설정" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="zGpTD6FZ2HU" title="스프링부트5.0 채팅서버 만들기 - 2강 몽고DB 장점" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="AIyBYbaIBV0" title="스프링부트5.0 채팅서버 만들기 - 3강 비동기 Netty 서버" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="QKajHMVnnyY" title="플러터 GetX로 블로그 앱 만들기 - 33강 게시글 목록 보기 완료" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="HA-hR-64RXA" title="react 오프라인 11강 - props(변수,함수 passing하기)" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="CuTWSWqqa5k" title="Springboot-WebFlux 2강 - Reactive Programing 배경" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="fYfNd6hqxu8" title="Springboot-WebFlux 3강 - WebFlux 탄생" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="pFO-nt6H-GQ" title="스프링부트 오프라인수업 AOP 2강 - AOP 개념잡기" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="HBkPJHqzmks" title="스프링부트 오프라인수업 AOP 4강 - Sentry및Log적용(끝)" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="lMD5AL2iwRE" title="스프링부트 오프라인수업 AOP 3강 - Validtaion체크" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="j2LR-7Xfc3Y" title="JSP 오프라인수업 28강 - 공통Dto만들기" />
-<YoutubeItem channelName="메타코딩" channelId="metacoding" id="vHmK0EFfqzg" title="도커 입문 9강 - `docker dit`옵셥과 `attach`" />
-
-:::
+<MyYouTubeItems jsonName="yu-metacoding" />
 
 <!-- 메타코딩 -->
 
@@ -1156,7 +964,6 @@ meta:
 [yu-code-java]: https://www.youtube.com/@CodeJava
 [yu-tobyspring]: https://www.youtube.com/@tobyspring
 [yu-data-stax-devs]: https://www.youtube.com/@DataStaxDevs
-[yu-metacoding]: https://www.youtube.com/@metacoding
 [yu-java-for-engineers]: https://www.youtube.com/@javaforengineersYT
 [yu-selenium-express]: https://www.youtube.com/@SeleniumExpress
 [yu-amila-jayawardhana]: https://www.youtube.com/@AmilaJayawardhana
