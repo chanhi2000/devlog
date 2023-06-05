@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "joshtriedcoding",
+    "name": "Josh tried coding",
+    "profile": "https://yt3.googleusercontent.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "pTsmh36ZB8c",
+      "title": "When Did NextJS Routing Become so Advanced??!"
+    }, {
+      "id": "7undQz4u1t0",
+      "title": "I Quit tRPC. Here's What I Do Instead"
+    }, {
+      "id": "ADKvP8Xn4g8",
+      "title": "Why React is Here to Stay"
+    }, {
+      "id": "RvyCAdDmFaw",
+      "title": "5 Amazing Open-Source React Projects to Learn From"
+    }, {
+      "id": "Sbl04kOL1dM",
+      "title": "NextJS App Router: Learn Modern Web Development in 1 Hour"
+    }, {
+      "id": "elvwguckWjQ",
+      "title": "This Open-Source NextJS Project is a Game-Changer"
+    }
+  ]
+}
+

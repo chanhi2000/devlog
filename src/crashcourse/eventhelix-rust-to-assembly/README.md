@@ -26,22 +26,8 @@ meta:
 
 - [Rust enum and match representation in assembly](rust-enum-and-match-representation-in-assembly.md)
 - [Assembly code generated when self is passed by value, reference or as a smart pointer](assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md)
+- [Mapping Arrays, Tuples, Box and Option to assembly](mapping-arrays-tuples-box-and-option-to-assembly.md)
 
-```card
-title: Assembly code generated when self is passed by value, reference or as a smart pointer
-desc: Compare the generated assembly from the Rust code. Learn how the memory is organized in these cases.
-link: https://eventhelix.com/rust/rust-to-assembly-value-reference-box-rc-arc
-logo: https://eventhelix.com/images/EventHelix-white-rounded-bg-blue.png
-color: rgba(250, 250, 250, 0.2)
-```
-
-```card
-title: Mapping Arrays, Tuples, Box and Option to assembly
-desc: Learn how Arrays, Tuples, Box and Option are represented in memory. Also understand the generated assembly code for these types.
-link: https://eventhelix.com/rust/rust-to-assembly-arrays-option-box
-logo: https://eventhelix.com/images/EventHelix-white-rounded-bg-blue.png
-color: rgba(250, 250, 250, 0.2)
-```
 
 ```card
 title: Map Rust vector iteration to assembly

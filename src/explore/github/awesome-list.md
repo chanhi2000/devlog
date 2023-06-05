@@ -22,7 +22,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 ## Free Books
 
 - [dariubs/GoBooks][dariubs/GoBooks]
-- [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]: 📚 Freely available programming books <GithubTags tagItems="education;list;books;resource;hacktoberfest" />
   - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
 - [gurugio/book_assembly_8086_ko][gurugio/book_assembly_8086_ko]
 - [hehonghui/awesome-english-ebooks][hehonghui/awesome-english-ebooks]: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
@@ -46,7 +45,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 
 <!-- Free Books -->
 [dariubs/GoBooks]: https://github.com/dariubs/GoBooks
-[EbookFoundation/free-programming-books]: https://github.com/EbookFoundation/free-programming-books
 [gurugio/book_assembly_8086_ko]: https://github.com/gurugio/book_assembly_8086_ko
 [hehonghui/awesome-english-ebooks]: https://github.com/hehonghui/awesome-english-ebooks
 <!-- Roadmap -->

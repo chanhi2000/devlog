@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ThePyCoach",
+    "name": "The PyCoach",
+    "profile": "https://yt3.googleusercontent.com/RC8fdPs_HFu1YE1L5dzdUgqgGQjYns0c2NErquRMTxzNbJrDfhXPuTfBaGPJdFhiRQJOGHnFwg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "A4gYAKry7P0",
+      "title": "Automate Excel with ChatGPT (and Python)" 
+    }
+  ]
+}

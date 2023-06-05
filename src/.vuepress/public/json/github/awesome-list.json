@@ -444,5 +444,10 @@
     "desc": "A curated list of awesome references collected since 2018.",
     "topics": ["docker", "kubernetes", "aws", "devops", "cloud", "azure", "containers", "gcp", "awesome-list", "devops-tools"],
     "officialSite": "https://nubenetes.com"
+  }, {
+    "repo": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "topics": ["education", "list", "books", "resource", "hacktoberfest"],
+    "officialSite": "https://ebookfoundation.github.io/free-programming-books"
   }
 ]

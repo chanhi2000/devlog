@@ -95,7 +95,7 @@ export default {
       const fetchedItems = await res.json();
 
       let jsonFullPathsLang = [
-        "batchfile", "c", "cpp", "csharp", "dart", "go", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts", "vim-script"
+        "batchfile", "blade", "c", "cpp", "csharp", "dart", "go", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts", "vim-script"
       ].map((e) => `/json/github/lang-${e}.json`);
 
       let jsonFullPathsLangTut = [
@@ -147,7 +147,7 @@ export default {
           todayStars: e.todayStars
         }
       });
-      this.hasData = itmes.length != 0;
+      this.hasData = this.items.length != 0;
     },
     async doRefresh() {
       console.log('doRefresh DevGithubItems!');

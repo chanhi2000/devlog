@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "BeABetterDev",
+    "name": "Be A Better Dev",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNF7alsXftkJDYb9T9eP8g_ixVYOhUEACJDFbDuug=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ZWs6eR_knLc",
+      "title": "New &amp; Useful DynamoDB Console Quality of Life Improvements"
+    }, {
+      "id": "o7s-eigrMAI",
+      "title": "How to Setup AWS ECS Fargate with a Load Balancer | Step by Step"
+    }
+  ]
+}

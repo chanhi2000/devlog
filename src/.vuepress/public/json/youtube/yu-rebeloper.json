@@ -1,0 +1,103 @@
+{
+  "channel": {
+    "id": "rebeloper",
+    "name": "Rebeloper - Rebel Developer",
+    "profile": "https://yt3.googleusercontent.com/c8ioqqNyiG8IWkRXrxloIjs-6WnfzVHL0p358DYdxH2ZiqnYfC8sF6FO9iyjYn1inFV69DV28w=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "DugBVFJ9jRI",
+      "title": "SwiftUI Navigation for Dummies"
+    }, {
+      "id": "sEycmsJnpvA",
+      "title": "Are You Using SwiftUI 4 Data Handling Properly?"
+    }, {
+      "id": "ZnWr2PCCatQ",
+      "title": "SwiftUI Network Monitoring... It's EASY Now!"
+    }, {
+      "id": "2k4mMdLfIKY",
+      "title": "Creating a Custom Framework in Swift in 2022"
+    }, {
+      "id": "u7A6mdTq3eU",
+      "title": "Create a Sudoku Solver In Swift"
+    }, {
+      "id": "mMl6t6gpB1o",
+      "title": "Your app is TERRIBLE at first impressions! FIX IT NOW: SwiftUI Splash Screen"
+    }, {
+      "id": "4oHjEmDYL6I",
+      "title": "HUD iOS | Build your first iOS app with SwiftUI"
+    }, {
+      "id": "N8eTuA_5T6Q",
+      "title": "SwiftUI TextField"
+    }, {
+      "id": "jzLby63iGvI",
+      "title": "SwiftUI Button Style"
+    }, {
+      "id": "YuDJDUvFfXo",
+      "title": "UIKit in SwiftUI"
+    }, {
+      "id": "vdkv0z7002Y",
+      "title": "TestFlight Invitation Code - How can you send TestFlight Invitation"
+    }, {
+      "id": "VNXM4ez9Nf0",
+      "title": "TestFlight - How to use TestFlight"
+    }, {
+      "id": "BXy4KoOVi1k",
+      "title": "SwiftUI Tutorial: SwiftUI vs UIKit"
+    }, {
+      "id": "CV3Y6PlhHmU",
+      "title": "SwiftUI Tutorial: Navigation and more"
+    }, {
+      "id": "Gi47Oi8gKJE",
+      "title": "Swift Extensions"
+    }, {
+      "id": "aukhw5OFLfM",
+      "title": "`UIAlertController` Swift [BEST EXAMPLE]"
+    }, {
+      "id": "5fWG5ofhHsY",
+      "title": "MapKit Swift and Core Location Tutorial"
+    }, {
+      "id": "2twyU9biLSo",
+      "title": "Getting Started with Firebase Remote Config on iOS, Swift 5"
+    }, {
+      "id": "p7_C-gQT1wY",
+      "title": "Build An iMessage App In Xcode 11 Swift 5.1 | Creating Messages Extension in iOS 13"
+    }, {
+      "id": "MP-U5gQylHc",
+      "title": "StoreKit - In App Purchases Swift"
+    }, {
+      "id": "wN9nSesPkZ0",
+      "title": "LIST IN SWIFT [Modern Apps Have]"
+    }, {
+      "id": "VXC8nWssr2E",
+      "title": "Stylesheet in iOS"
+    }, {
+      "id": "s2rGKvpT_WQ",
+      "title": "Swift Shadow - Shadow with Corners"
+    }, {
+      "id": "5eqVJvdGOAw",
+      "title": "UIKit Tutorial - SwiftUI in UIKit"
+    }, {
+      "id": "YyedBTm73Eo",
+      "title": "Swift Frame - iOS Layout Guide"
+    }, {
+      "id": "IJT2WlB03D0",
+      "title": "Configure Constants in a plist File in Less than 10 Minutes (EASY) | Xcode 10, Swift 5"
+    }, {
+      "id": "NQOapSkIRTs",
+      "title": "Tiny Constraints | Build Instagram Profile (part 3) | Swift 5, iOS 12, Xcode 10"
+    }, {
+      "id": "X-XSsly2eF4",
+      "title": "Why You Should NEVER Use Navigation Stack! ... This Surprising Alternative Will Change Everything!"
+    }, {
+      "id": "3Lp8Sm1eC-E",
+      "title": "Get Values from Info.plist with One Line of Code (NEW) | Swift 5, Xcode 10"
+    }, {
+      "id": "JRsQxdg_Lbg",
+      "title": "Build a Chatbot on iOS with SwiftUI and ChatGT  🤔"
+    }, {
+      "id": "RDtLWWos3cA",
+      "title": "Unlock the Power of Core Data Versioning!"
+    }
+  ]
+}

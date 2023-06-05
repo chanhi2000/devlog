@@ -399,5 +399,15 @@
     "desc": "jq for binary formats - tool, language and decoders for working with binary and text formats",
     "topics": ["go", "tls", "cli", "golang", "json", "query", "pcap", "binary", "xml", "repl", "jq", "decode", "hexdump"],
     "officialSite": ""
+  }, {
+    "repo": "mactat/framed",
+    "desc": "CLI tool for projects management",
+    "topics": ["config", "cli", "ci", "project-management", "cicd"],
+    "officialSite": ""
+  }, {
+    "repo": "grpc/grpc-go",
+    "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "topics": ["go", "golang", "microservices", "grpc", "rpc", "hacktoberfest", "proto", "nanoservices", "giant-robots", "dogs-over-cats"],
+    "officialSite": "https://grpc.io"
   }
 ]

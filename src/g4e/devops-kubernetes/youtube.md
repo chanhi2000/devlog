@@ -43,6 +43,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ::: details 목록
 
+<YoutubeItem channelId="danieloh30" channelName="Daniel Oh" id="DZwpzWJeBmA" title="DevDays Europe 23 - Zero to Hero in Kubernetes Native Java" />
 <YoutubeItem channelName="Daniel Oh" channelId="danieloh30" id="ca121MFZalw" title="DaemonSet - ☸️ Learn by Example 【6】" />
 <YoutubeItem channelName="Daniel Oh" channelId="danieloh30" id="ak9R9-E_0_k" title="Managing Secrets - ☸️ Learn by Example 【7】" />
 <YoutubeItem channelName="Daniel Oh" channelId="danieloh30" id="AxLFXk9fIjQ" title="Persistent Volumes - ☸️ Learn by Example 【9】" />

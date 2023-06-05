@@ -186,12 +186,17 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ---
 
+## Loop
+
+- [Email Marketing for SaaS](https://loops.so/email-marketing-for-saas)
+
+---
+
 ## Other
 
 - [인터넷 익스플로러에서 자동으로 엣지로 전환하는 방법(Redirect from IE to Edge)](https://webruden.tistory.com/794)
 - [JavaScript Tips](https://markodenic.com/javascript-tips)
 - [안드로이드의 다양한 Notification 종류와 구현 방법](https://codechacha.com/ko/notifications-in-android)
-
 - [안드로이드에서 카카오 우편번호 검색 구현하기](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
 - [android kotlin - Get screen size from context](https://www.android--code.com/2020/08/android-kotlin-get-screen-size-from.html)
 - [Vue 2 Query Builder with Cube](https://cube.dev/blog/vue-query-builder-with-cubejs)

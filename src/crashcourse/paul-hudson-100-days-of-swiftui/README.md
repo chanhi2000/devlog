@@ -98,7 +98,7 @@ Regardless of whether or not you go over the optional extra reading, you’ll fi
 - [Day 8][day-8] – ✅default values, throwing functions, and checkpoint 4
 - [Day 9][day-9] – ✅closures, passing functions into functions, and checkpoint 5
 - [Day 10][day-10] – ✅structs, computed properties, and property observers
-- [Day 11][day-11] – access control, static properties and methods, and checkpoint 6
+- [Day 11][day-11] – ✅access control, static properties and methods, and checkpoint 6
 - [Day 12][day-12] – classes, inheritance, and checkpoint 7
 - [Day 13][day-13] – protocols, extensions, and checkpoint 8
 - [Day 14][day-14] – optionals, nil coalescing, and checkpoint 9
@@ -287,7 +287,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-8]: 8.md
 [day-9]: 9.md
 [day-10]: 10.md
-[day-11]: https://www.hackingwithswift.com/100/swiftui/11
+[day-11]: 11.md
 [day-12]: https://www.hackingwithswift.com/100/swiftui/12
 [day-13]: https://www.hackingwithswift.com/100/swiftui/13
 [day-14]: https://www.hackingwithswift.com/100/swiftui/14

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "mouredev",
+    "name": "MoureDev by Brais Moure",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPuCCPUYy9g-fTDCv-sTQH497C8LSztiyxcC712zA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "kNuLPAIN8qo",
+      "title": "5 cursos GRATIS de Microsoft para aprender PYTHON"
+    }, {
+      "id": "Ww16yyN4noo",
+      "title": "SPLASH SCREEN en Android Studio con Jetpack Compose"
+    }, {
+      "id": "vX_qUCXHlNw",
+      "title": "7 + 1 Frameworks en GitHub para MEJORAR tu App iOS/Swift 🚀"
+    }, {
+      "id": "1EAA8WgCQas",
+      "title": "FIREBASE iOS 🔥 Curso XCODE desde CERO"
+    }
+  ]
+}
+

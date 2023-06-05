@@ -251,18 +251,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Mikaela Caron
 
-[![Mikaela Caron](https://yt3.googleusercontent.com/f6fOGd8xQC-HhTZuB8eDmDoHlkMih0kBcYN7kFljVvRGy6vl0f3POhw1hV3d1_7MFwDH7UtTSg=s176-c-k-c0x00ffffff-no-rj =x150)][yu-mikaela-caron]
-
-::: details 목록
-
-<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="qbHQLV9cAHw" title="18 Expense Tracker - Send Data From iOS to Vapor | Building in Public Livestream | Mikaela Caron" />
-<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="YR6ECYOzYCY" title="16 Expense Tracker - Vapor API Responses | Building in Public Livestream | Mikaela Caron" />
-<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="j0SQK5h1uTc" title="12 Expense Tracker - Fetch From Vapor API | SwiftUI | Building in Public Livestream | Mikaela Caron" />
-<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="SW2UbAAMR0c" title="11 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron" />
-<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="SpQTplyV89w" title="10 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron" />
-<YoutubeItem channelName="Mikaela Caron" channelId="MikaelaCaron" id="TTT4UvVNQiM" title="UIKit for SwiftUI Developers Lesson 1: Hello World" />
-
-:::
+<MyYouTubeItems jsonName="yu-MikaelaCaron" />
 
 <!-- Mikaela Caron -->
 
@@ -311,42 +300,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Rebeloper - Rebel Developer
 
-[![Rebeloper - Rebel Developer](https://yt3.googleusercontent.com/c8ioqqNyiG8IWkRXrxloIjs-6WnfzVHL0p358DYdxH2ZiqnYfC8sF6FO9iyjYn1inFV69DV28w=s176-c-k-c0x00ffffff-no-rj =x150)][yu-rebeloper]
-
-::: details 목록
-
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="sEycmsJnpvA" title="Are You Using SwiftUI 4 Data Handling Properly?" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="ZnWr2PCCatQ" title="SwiftUI Network Monitoring... It's EASY Now!" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="2k4mMdLfIKY" title="Creating a Custom Framework in Swift in 2022" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="u7A6mdTq3eU" title="Create a Sudoku Solver In Swift" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="mMl6t6gpB1o" title="Your app is TERRIBLE at first impressions! FIX IT NOW: SwiftUI Splash Screen" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="4oHjEmDYL6I" title="HUD iOS | Build your first iOS app with SwiftUI" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="N8eTuA_5T6Q" title="SwiftUI TextField" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="jzLby63iGvI" title="SwiftUI Button Style" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="YuDJDUvFfXo" title="UIKit in SwiftUI" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="vdkv0z7002Y" title="TestFlight Invitation Code - How can you send TestFlight Invitation" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="VNXM4ez9Nf0" title="TestFlight - How to use TestFlight" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="BXy4KoOVi1k" title="SwiftUI Tutorial: SwiftUI vs UIKit" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="CV3Y6PlhHmU" title="SwiftUI Tutorial: Navigation and more" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="Gi47Oi8gKJE" title="Swift Extensions" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="aukhw5OFLfM" title="`UIAlertController` Swift [BEST EXAMPLE]" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="5fWG5ofhHsY" title="MapKit Swift and Core Location Tutorial" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="2twyU9biLSo" title="Getting Started with Firebase Remote Config on iOS, Swift 5" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="p7_C-gQT1wY" title="Build An iMessage App In Xcode 11 Swift 5.1 | Creating Messages Extension in iOS 13" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="MP-U5gQylHc" title="StoreKit - In App Purchases Swift" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="wN9nSesPkZ0" title="LIST IN SWIFT [Modern Apps Have]" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="VXC8nWssr2E" title="Stylesheet in iOS" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="s2rGKvpT_WQ" title="Swift Shadow - Shadow with Corners" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="5eqVJvdGOAw" title="UIKit Tutorial - SwiftUI in UIKit" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="YyedBTm73Eo" title="Swift Frame - iOS Layout Guide" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="IJT2WlB03D0" title="Configure Constants in a plist File in Less than 10 Minutes (EASY) | Xcode 10, Swift 5" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="NQOapSkIRTs" title="Tiny Constraints | Build Instagram Profile (part 3) | Swift 5, iOS 12, Xcode 10" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="X-XSsly2eF4" title="Why You Should NEVER Use Navigation Stack! ... This Surprising Alternative Will Change Everything!" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="3Lp8Sm1eC-E" title="Get Values from Info.plist with One Line of Code (NEW) | Swift 5, Xcode 10" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="JRsQxdg_Lbg" title="Build a Chatbot on iOS with SwiftUI and ChatGT  🤔" />
-<YoutubeItem channelName="Rebeloper - Rebel Developer" channelId="rebeloper" id="RDtLWWos3cA" title="Unlock the Power of Core Data Versioning!" />
-
-:::
+<MyYouTubeItems jsonName="yu-rebeloper" />
 
 <!-- Rebeloper - Rebel Developer -->
 

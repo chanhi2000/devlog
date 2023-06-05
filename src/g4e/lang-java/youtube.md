@@ -902,6 +902,8 @@ meta:
 
 <!-- Defog Tech -->
 
+---
+
 ## omer java
 
 <MyYouTubeItems jsonName="yu-omerjava" />
@@ -917,6 +919,12 @@ meta:
 <!-- Sergey Kargopolov -->
 
 ---
+
+## Silicon Brighton
+
+<MyYouTubeItems jsonName="yu-SiliconBrighton" />
+
+<!-- Silicon Brighton -->
 
 ## Misc
 

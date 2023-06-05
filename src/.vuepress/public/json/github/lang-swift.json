@@ -1,223 +1,228 @@
 [
-    {
-        "repo": "CodeEditApp/CodeEdit",
-        "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
-        "topics": [],
-        "officialSite": "https://codeedit.app"
-    }, {
-        "repo": "CodeEditApp/CodeEditCLI",
-        "desc": "A command-line-interface to open files/folders in CodeEdit.app",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "tuist/tuist",
-        "desc": "🚀 Create, maintain, and interact with Xcode projects at scale",
-        "topics": ["swift", "productivity", "ios", "objective-c", "xcode", "scalability", "hacktoberfest"],
-        "officialSite": "https://tuist.io"
-    }, {
-        "repo": "microsoft/fluentui-apple",
-        "desc": "UIKit and AppKit controls for building native Microsoft experiences",
-        "topics": ["microsoft", "macos", "ios", "uikit", "cocoa", "appkit", "fluentui-apple"],
-        "officialSite": "https://www.microsoft.com/design/fluent"
-    }, {
-        "repo": "pointfreeco/swift-composable-architecture",
-        "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
-        "topics": ["uikit", "architecture", "composition", "modularity", "unidirectional-data-flow", "testability", "swiftui"],
-        "officialSite": "https://www.pointfree.co/collections/composable-architecture"
-    }, {
-        "repo": "PerfectlySoft/Perfect",
-        "desc": "Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)",
-        "topics": ["swift", "perfect", "swift-framework", "server-side-swift", "web-application-framework", "swift-perfect-community"],
-        "officialSite": "https://www.perfect.org"
-    }, {
-        "repo": "wigl/iSimulator",
-        "desc": "iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.",
-        "topics": ["app", "simulator", "xcode", "simctl", "simulator-controls", "xcrun"],
-        "officialSite": ""
-    }, {
-        "repo": "gao-sun/eul",
-        "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "apple/swift-async-algorithms",
-        "desc": "Async Algorithms for Swift",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "Lakr233/Rayon",
-        "desc": "yet another SSH machine manager",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "gureum/gureum",
-        "desc": "더 편리한 macOS 한글 입력기",
-        "topics": [],
-        "officialSite": "http://gureum.io"
-    }, {
-        "repo": "zhuowei/WDBFontOverwrite",
-        "desc": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
-        "topics": [],
-        "officialSite": "https://notnow.dev/zhuowei"
-    }, {
-        "repo": "apple/VideoFlashingReduction",
-        "desc": "Detection of Flashing Lights in Video Content",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "godly-devotion/MochiDiffusion",
-        "desc": "Run Stable Diffusion on Mac natively",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "leetcode-mafia/cheetah",
-        "desc": "Whisper & GPT-based app for passing remote SWE interviews",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "realm/jazzy",
-        "desc": "Soulful docs for Swift & Objective-C",
-        "topics": [],
-        "officialSite": "https://realm.io"
-    }, {
-        "repo": "waynewbishop/SwiftStructures",
-        "desc": "Examples of commonly used data structures and algorithms in Swift.",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "jordibruin/Swift-Charts-Examples",
-        "desc": "An overview of the different types of charts you can make with Swift Charts",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "kuglee/TermiWatch",
-        "desc": "Terminal Watch Face for Apple Watch",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "SDWebImage/SDWebImageSwiftUI",
-        "desc": "SwiftUI Image loading and Animation framework powered by SDWebImage",
-        "topics": [],
-        "officialSite": "https://sdwebimage.github.io/SDWebImageSwiftUI"
-    }, {
-        "repo": "amirdew/CollectionViewPagingLayout",
-        "desc": "A simple but highly customizable `UICollectionViewLayout` for UICollectionView -- Simple SwiftUI views that let you make page-view effects.",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "Juanpe/SkeletonView",
-        "desc": "☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "yonaskolb/XcodeGen",
-        "desc": "A Swift command line tool for generating your Xcode project",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "waylybaye/XcodeCleaner",
-        "desc": "Cleaner for Xcode.app built with react-native-macos",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "leandromperez/multiprojects",
-        "desc": "Simple workspace for a modular architecture using Cocoapods to manage external dependencies.",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "recherst/kavsoft-swiftui-animations",
-        "desc": "SwiftUI animation tutorials, all of demos are consisted of youtube videos at website of kavsoft.",
-        "topics": [],
-        "officialSite": "https://kavsoft.dev"
-    }, {
-        "repo": "Ramotion/swift-ui-animation-components-and-libraries",
-        "desc": "",
-        "topics": [],
-        "officialSite": "https://www.ramotion.com/agency/app-development"
-    }, {
-        "repo": "minsOne/iOSApplicationTemplate",
-        "desc": "Tuist based iOS Application Project Template",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "mastodon/mastodon-ios",
-        "desc": "Official iOS app for Mastodon",
-        "topics": [],
-        "officialSite": "https://app.joinmastodon.org/ios"
-    }, {
-        "repo": "alexrozanski/LlamaChat",
-        "desc": "Chat with your favourite LLaMA models in a native macOS app",
-        "topics": [],
-        "officialSite": "https://llamachat.app"
-    }, {
-        "repo": "StanfordBDHG/HealthGPT",
-        "desc": "Query your Apple Health data with natural language 💬 🩺",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "valexa/VAFieldTest",
-        "desc": "CoreTelephony based signal tests",
-        "topics": [],
-        "officialSite": "http://blog.vladalexa.com"
-    }, {
-        "repo": "stleamist/BetterSafariView",
-        "desc": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
-        "topics": ["swift", "ios", "safari", "sfsafariviewcontroller", "sfauthenticationsession", "swiftui", "aswebauthenticationsession"],
-        "officialSite": ""
-    }, {
-        "repo": "grishka/NearDrop",
-        "desc": "An unofficial Google Nearby Share app for macOS",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "pikachu987/NotificationView",
-        "desc": "iOS Basic Notification screens 🤚",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "johnsundell/publish",
-        "desc": "A static site generator for Swift developers",
-        "topics": ["swift", "static-site-generator", "web-development", "publish"],
-        "officialSite": "" 
-    }, {
-      "repo": "Inncoder/SwiftUI-Animations",
-      "desc": "Code from instagram posts",
-      "topics": [],
-      "officialSite": ""
-    }, {
-      "repo": "mullvad/wireguard-apple",
-      "desc": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple",
-      "topics": [],
-      "officialSite": ""
-    }, {
-      "repo": "Clipy/Clipy",
-      "desc": "Clipboard extension app for macOS.",
-      "topics": ["macos", "swift", "clipboard", "xcode", "clipmenu", "clipboard-extension"],
-      "officialSite": "https://clipy-app.com"
-    }, {
-      "repo": "halo/LinkLiar",
-      "desc": "🔗 Link-Layer MAC spoofing GUI for macOS",
-      "topics": ["macos", "mac", "gui", "daemon", "wifi", "ethernet", "wlan", "spoof", "mac-address", "thunderbolt"],
-      "officialSite": "http://halo.github.io/LinkLiar"
-    }, {
-      "repo": "grishka/NearDrop",
-      "desc": "An unofficial Google Nearby Share app for macOS",
-      "topics": [],
-      "officialSite": ""
-    }, {
-      "repo": "Snapkit/Snapkit",
-      "desc": "A Swift Autolayout DSL for iOS & OS X",
-      "topics": ["swift", "ui", "xcode", "dsl", "layout", "cocoapods", "constraints", "snapkit", "autolayout", "auto"],
-      "officialSite": "https://snapkit.github.io/SnapKit"
-    }, {
-      "repo": "iina/iina",
-      "desc": "The modern video player for macOS.",
-      "topics": ["macos", "swift", "video", "video-player", "mpv", "hacktoberfest"],
-      "officialSite": "https://iina.io"
-    }, {
-      "repo": "insidegui/ChromeCastCore",
-      "desc": "An open source implementation of the Google Cast SDK for macOS",
-      "topics": ["macos", "ios", "osx", "chromecast"],
-      "officialSite": ""
-    }
+  {
+    "repo": "CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "topics": [],
+    "officialSite": "https://codeedit.app"
+  }, {
+    "repo": "CodeEditApp/CodeEditCLI",
+    "desc": "A command-line-interface to open files/folders in CodeEdit.app",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "tuist/tuist",
+    "desc": "🚀 Create, maintain, and interact with Xcode projects at scale",
+    "topics": ["swift", "productivity", "ios", "objective-c", "xcode", "scalability", "hacktoberfest"],
+    "officialSite": "https://tuist.io"
+  }, {
+    "repo": "microsoft/fluentui-apple",
+    "desc": "UIKit and AppKit controls for building native Microsoft experiences",
+    "topics": ["microsoft", "macos", "ios", "uikit", "cocoa", "appkit", "fluentui-apple"],
+    "officialSite": "https://www.microsoft.com/design/fluent"
+  }, {
+    "repo": "pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "topics": ["uikit", "architecture", "composition", "modularity", "unidirectional-data-flow", "testability", "swiftui"],
+    "officialSite": "https://www.pointfree.co/collections/composable-architecture"
+  }, {
+    "repo": "PerfectlySoft/Perfect",
+    "desc": "Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)",
+    "topics": ["swift", "perfect", "swift-framework", "server-side-swift", "web-application-framework", "swift-perfect-community"],
+    "officialSite": "https://www.perfect.org"
+  }, {
+    "repo": "wigl/iSimulator",
+    "desc": "iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.",
+    "topics": ["app", "simulator", "xcode", "simctl", "simulator-controls", "xcrun"],
+    "officialSite": ""
+  }, {
+    "repo": "gao-sun/eul",
+    "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "apple/swift-async-algorithms",
+    "desc": "Async Algorithms for Swift",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Lakr233/Rayon",
+    "desc": "yet another SSH machine manager",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "gureum/gureum",
+    "desc": "더 편리한 macOS 한글 입력기",
+    "topics": [],
+    "officialSite": "http://gureum.io"
+  }, {
+    "repo": "zhuowei/WDBFontOverwrite",
+    "desc": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+    "topics": [],
+    "officialSite": "https://notnow.dev/zhuowei"
+  }, {
+    "repo": "apple/VideoFlashingReduction",
+    "desc": "Detection of Flashing Lights in Video Content",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "godly-devotion/MochiDiffusion",
+    "desc": "Run Stable Diffusion on Mac natively",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "leetcode-mafia/cheetah",
+    "desc": "Whisper & GPT-based app for passing remote SWE interviews",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "realm/jazzy",
+    "desc": "Soulful docs for Swift & Objective-C",
+    "topics": [],
+    "officialSite": "https://realm.io"
+  }, {
+    "repo": "waynewbishop/SwiftStructures",
+    "desc": "Examples of commonly used data structures and algorithms in Swift.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jordibruin/Swift-Charts-Examples",
+    "desc": "An overview of the different types of charts you can make with Swift Charts",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kuglee/TermiWatch",
+    "desc": "Terminal Watch Face for Apple Watch",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "SDWebImage/SDWebImageSwiftUI",
+    "desc": "SwiftUI Image loading and Animation framework powered by SDWebImage",
+    "topics": [],
+    "officialSite": "https://sdwebimage.github.io/SDWebImageSwiftUI"
+  }, {
+    "repo": "amirdew/CollectionViewPagingLayout",
+    "desc": "A simple but highly customizable `UICollectionViewLayout` for UICollectionView -- Simple SwiftUI views that let you make page-view effects.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Juanpe/SkeletonView",
+    "desc": "☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "yonaskolb/XcodeGen",
+    "desc": "A Swift command line tool for generating your Xcode project",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "waylybaye/XcodeCleaner",
+    "desc": "Cleaner for Xcode.app built with react-native-macos",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "leandromperez/multiprojects",
+    "desc": "Simple workspace for a modular architecture using Cocoapods to manage external dependencies.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "recherst/kavsoft-swiftui-animations",
+    "desc": "SwiftUI animation tutorials, all of demos are consisted of youtube videos at website of kavsoft.",
+    "topics": [],
+    "officialSite": "https://kavsoft.dev"
+  }, {
+    "repo": "Ramotion/swift-ui-animation-components-and-libraries",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://www.ramotion.com/agency/app-development"
+  }, {
+    "repo": "minsOne/iOSApplicationTemplate",
+    "desc": "Tuist based iOS Application Project Template",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mastodon/mastodon-ios",
+    "desc": "Official iOS app for Mastodon",
+    "topics": [],
+    "officialSite": "https://app.joinmastodon.org/ios"
+  }, {
+    "repo": "alexrozanski/LlamaChat",
+    "desc": "Chat with your favourite LLaMA models in a native macOS app",
+    "topics": [],
+    "officialSite": "https://llamachat.app"
+  }, {
+    "repo": "StanfordBDHG/HealthGPT",
+    "desc": "Query your Apple Health data with natural language 💬 🩺",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "valexa/VAFieldTest",
+    "desc": "CoreTelephony based signal tests",
+    "topics": [],
+    "officialSite": "http://blog.vladalexa.com"
+  }, {
+    "repo": "stleamist/BetterSafariView",
+    "desc": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
+    "topics": ["swift", "ios", "safari", "sfsafariviewcontroller", "sfauthenticationsession", "swiftui", "aswebauthenticationsession"],
+    "officialSite": ""
+  }, {
+    "repo": "grishka/NearDrop",
+    "desc": "An unofficial Google Nearby Share app for macOS",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pikachu987/NotificationView",
+    "desc": "iOS Basic Notification screens 🤚",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "johnsundell/publish",
+    "desc": "A static site generator for Swift developers",
+    "topics": ["swift", "static-site-generator", "web-development", "publish"],
+    "officialSite": "" 
+  }, {
+    "repo": "Inncoder/SwiftUI-Animations",
+    "desc": "Code from instagram posts",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mullvad/wireguard-apple",
+    "desc": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Clipy/Clipy",
+    "desc": "Clipboard extension app for macOS.",
+    "topics": ["macos", "swift", "clipboard", "xcode", "clipmenu", "clipboard-extension"],
+    "officialSite": "https://clipy-app.com"
+  }, {
+    "repo": "halo/LinkLiar",
+    "desc": "🔗 Link-Layer MAC spoofing GUI for macOS",
+    "topics": ["macos", "mac", "gui", "daemon", "wifi", "ethernet", "wlan", "spoof", "mac-address", "thunderbolt"],
+    "officialSite": "http://halo.github.io/LinkLiar"
+  }, {
+    "repo": "grishka/NearDrop",
+    "desc": "An unofficial Google Nearby Share app for macOS",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Snapkit/Snapkit",
+    "desc": "A Swift Autolayout DSL for iOS & OS X",
+    "topics": ["swift", "ui", "xcode", "dsl", "layout", "cocoapods", "constraints", "snapkit", "autolayout", "auto"],
+    "officialSite": "https://snapkit.github.io/SnapKit"
+  }, {
+    "repo": "iina/iina",
+    "desc": "The modern video player for macOS.",
+    "topics": ["macos", "swift", "video", "video-player", "mpv", "hacktoberfest"],
+    "officialSite": "https://iina.io"
+  }, {
+    "repo": "insidegui/ChromeCastCore",
+    "desc": "An open source implementation of the Google Cast SDK for macOS",
+    "topics": ["macos", "ios", "osx", "chromecast"],
+    "officialSite": ""
+  }, {
+    "repo": "HyperARCo/Mirador",
+    "desc": "Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.",
+    "topics": ["swift", "ios", "apple", "location", "point-of-interest", "realitykit"],
+    "officialSite": ""
+  }
 ]

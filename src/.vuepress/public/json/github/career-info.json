@@ -44,5 +44,10 @@
     "desc": "Collection of Summer 2023 & Summer 2024 tech internships!",
     "topics": ["university", "jobs", "internships", "interview-preparation"],
     "officialSite": ""
+  }, {
+    "repo": "coderQuad/New-Grad-Positions",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM.",
+    "topics": ["university", "position", "jobs", "applications", "college", "hacktoberfest", "posting", "fulltime", "newgrad", "coderquad"],
+    "officialSite": ""
   }
 ]

@@ -95,16 +95,16 @@ You just learned a lot about Swift in only 12 days, so before we continue it's i
 - [Day 14][day-14] – Swift review, day two
 - [Day 15][day-15] – Swift review, day three
 
-### Days 16-22: Starting iOS
+### ✅Days 16-22: Starting iOS
 
 Now that you’ve mastered the basics of Swift, in these days you’ll start building real iOS apps using what you learned.
 
-- [Day 16][day-16] – ✅Project 1, part one
-- [Day 17][day-17] – ✅Project 1, part two
-- [Day 18][day-18] – ✅Project 1, part three
-- [Day 19][day-19] – ✅Project 2, part one
-- [Day 20][day-20] – ✅Project 2, part two
-- [Day 21][day-21] – ✅Project 2, part three
+- [Day 16][day-16] – Project 1, part one
+- [Day 17][day-17] – Project 1, part two
+- [Day 18][day-18] – Project 1, part three
+- [Day 19][day-19] – Project 2, part one
+- [Day 20][day-20] – Project 2, part two
+- [Day 21][day-21] – Project 2, part three
 - [Day 22][day-22] – Project 3
 
 ### Day 23: Consolidation II
@@ -311,7 +311,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-19]: 19.md
 [day-20]: 20.md
 [day-21]: 21.md
-[day-22]: https://www.hackingwithswift.com/100/22
+[day-22]: 22.md
 [day-23]: https://www.hackingwithswift.com/100/23
 [day-24]: https://www.hackingwithswift.com/100/24
 [day-25]: https://www.hackingwithswift.com/100/25

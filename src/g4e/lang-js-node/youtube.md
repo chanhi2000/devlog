@@ -376,35 +376,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Tyler Potts
 
-[Tyler Potts][yu-tyler-potts]
-
-::: details 목록
-
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="YnnQymvBrY8" title="Build a Landing Page using React JS & Tailwind CSS \| Newsletter Sign up page" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="EfIwxy3Qumc" title="Build a Recipe app in VUE using Router & Vuex! \(Composition & Options API\)" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="XAFWag-_FGM" title="Build a SCREEN RECORDER WITH AUDIO in JavaScript - JavaScript Beginner Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="R81g-2r6ynM" title="Build a FULL STACK app with React, Express, Node & Mongo MERN STACK" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="oiX-6Y2oGjI" title="Build a CALCULATOR APP in REACT JS \| A React JS Beginner Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="eue3jbwxQS0" title="Build a Twitter UI Clone with Vue JS & TailwindCSS ~ Home Page" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="Vn6FxqvsdMU" title="Build a Vue 3 Quote app with a Node JS API ~ With Tailwind CSS, Vuex & Router" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="UHewcsv6uJY" title="Build a Movie App With Vue JS - A Vue 3 Beginners tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="NuZOwsmzcro" title="How To Code Your First Mobile App Using React Native" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="-eVgT9pLHhI" title="Learn JavaScript & CSS For Beginners by Creating a Dynamic Page Switcher" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="AjV7k7t78Ik" title="Build an Income Tracker in Vue JS ~ Composition API" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="AvsuZ3L5z28" title="Turning my 10 Minute Game into a MOBILE game ~ 2D Game Dev ~ LIVE" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="yZhbKkxFcN0" title="Neomorphic Login Form Design with HTML, CSS and Javascript" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="xTN3pvoYENg" title="Responsive Navbar with nested menus with HTML, CSS & Javascript" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="9zA8cB-54SA" title="CSS GRID With Flexbox \| Beginner to Pro Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="9-nvPY1hNcw" title="Colour Generator App with Copy To Clipboard using Javascript & CSS" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="XhNMwxXcKQM" title="Responsive Gallery using CSS Grid with No Media Queries" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="TbzUQ0BXA8E" title="Animated Text Hover Effect in HTML & CSS" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="3rjHkTjCyBA" title="Awesome Animated Text Reveal ONLY CSS \| CSS Beginner Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="JLc-hWsPTUY" title="Build a Weather App in VueJS \| Vue Beginner Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="05LZ6-_FZj8" title="How To Code Your First Mobile App Using Vue Native" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="nT4LZEbzohc" title="Making a Game in VueJS using Vuex \| VueJS Tutorial" />
-<YoutubeItem channelName="Tyler Potts" channelId="TylerPotts" id="UG2LXxILAnM" title="Build a Todo List App in HTML, CSS & JavaScript and Deploy it in 2023" />
-
-:::
+<MyYouTubeItems jsonName="yu-TylerPotts" />
 
 <!-- Tyler Potts -->
 
@@ -789,6 +761,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ::: details 목록
 
+<YoutubeItem channelId="EasyTutorialsVideo" channelName="Easy Tutorials" id="_pw8vk1tAhs" title="How To Build Age Calculator App Using HTML CSS And JavaScript" />
 <YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="n3U4jFbp05M" title="How To Build Notes App Using HTML CSS and JavaScript" />
 <YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="cO-qjCC_UYQ" title="How To Create A Stopwatch Using JavaScript | Make Stopwatch With HTML, CSS And JavaScript" />
 <YoutubeItem channelName="Easy Tutorials" channelId="EasyTutorialsVideo" id="UPuQDE1ek2A" title="Skeleton Loading Animation For Website Using HTML And CSS | Loading Animation CSS" />
@@ -1171,40 +1144,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## DesignCourse
 
-[DesignCourse][yu-design-course]
-
-::: details 목록
-
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Kl3nOXQjVnQ" title="The 2023 Frontend Development Crash Course - Learn HTML & CSS" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="QwSN4n2sjR8" title="The UI/UX Crash Course for 2023 - Learn UI/UX Design" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="4ThnAKy4okM" title="How to Refactor a Web Design - Like a Pro" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="gI_X6ekJFus" title="10 Jaw-Dropping Portfolios of 2022" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="H_7Ld5Psgg0" title="Try this Multi-Path SVG Scroll Animation Technique" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="D-h8L5hgW-w" title="HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="rh6KtCKRP8U" title="Making your Layouts More UNIQUE - Rapid ReDesigns" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="i2kCNV73luw" title="Live UI/UX Review - Submit your designs for review!" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="dg488RrpNTc" title="Truly Fluid Typography with 1 CSS PROPERTY!" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="mNtLjzzxGQM" title="Building a REAL Web Component from Scratch! - Tutorial" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="ID0fwi2q028" title="You need to know Usability Testing (with Maze)" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="B7_W7LvIRU0" title="Watch me BREAK this layout - The BROKEN Layout Trend" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="Ly6pm8UxZU4" title="The 2020 HTML & CSS Crash Course - From Mockup to Product" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="aMucZErEdZg" title="Creating Sick Page Transitions with Barba.js & GSAP" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="t15BZZ1giGo" title="Figma + No Code + Rest API = NATIVE APP?! -- Bravo Studio" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="YNB-JD7iPoQ" title="STOP The CSS Grid Confusion - 2 Ways to GRID!" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="ciMsVVyv3Og" title="Finally Figure out the SVG ViewBox - Tutorial + ViewBox Tools" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="PU9r0HfZkaE" title="Animated Icon Design Crash Course - Illustrator & Lottie.js - 1/2" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="P5zGTEGPpu4" title="Parallax in HTML, CSS and JavaScript Tutorial - Let's make it happen!" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="syG7ljxqzNg" title="CSS Multi-Columns - Awesome Newspaper Style Layouts (NO Flexbox or Grid)" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="MjB1Nyx6hns" title="Web Share API Tutorial - Native Sharing is Easy!" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="oa9cnWTpqP8" title="Learn Angular 5 in less than 60 Minutes - Free Beginner's Course" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="_TLhUCjY9iA" title="Learn Angular 8 from Scratch for Beginners - Crash Course" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="0Xg6r_MKGJ4" title="CSS Animation Optimization and Performance 101" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="tPkZqXpibpA" title="Lazy Loading Images with Bounds.js - Less than 1KB!" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="F4kJXbaunUg" title="Awesome UI Interactions with the CSS Clip Path Property" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="HI21vsLscic" title="A Sketch for Windows?  Maybe.. Meet Lunacy" />
-<YoutubeItem channelName="DesignCourse" channelId="DesignCourse" id="AkSE-GVaC8E" title="This JavaScript Plugin creates Insane UI Animations" />
-
-:::
+<MyYouTubeItems jsonName="yu-DesignCourse" />
 
 <!-- DesignCourse -->
 
@@ -1212,15 +1152,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Code with Ania Kubów
 
-[![Code with Ania Kubów](https://yt3.googleusercontent.com/ytc/AGIKgqMB2ZeEbnzXQywDIEP6nBKKcZw3LVRh_M-10Uk6jw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-ania-kubow]
-
-::: details 목록
-
-<YoutubeItem channelName="Code with Ania Kubów" channelId="AniaKubow" id="JJ9fkYX7q4A" title="🛑  Learn to use OpenAI API by building ChatGPT (super simple!) | React Node.js" />
-<YoutubeItem channelName="Code with Ania Kubów" channelId="AniaKubow" id="05ssqx-SZT0" title="🛑 Build ChatGPT in JavaScript (Super simple!!) | JavaScript, HTML, CSS" />
-<YoutubeItem channelName="Code with Ania Kubów" channelId="AniaKubow" id="Kj_gehSIJCc" title="Learn CSS transform by building a Penguin! FreeCodeCamp curriculum walkthrough" />
-
-:::
+<MyYouTubeItems jsonName="yu-AniaKubow" />
 
 <!-- Code with Ania Kubów -->
 
@@ -1329,14 +1261,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Josh tried coding
 
-[Josh tried coding][yu-joshtriedcoding]
-
-::: details 목록
-
-<YoutubeItem channelName="Josh tried coding" channelId="joshtriedcoding" id="Sbl04kOL1dM" title="NextJS App Router: Learn Modern Web Development in 1 Hour" />
-<YoutubeItem channelName="Josh tried coding" channelId="joshtriedcoding" id="elvwguckWjQ" title="This Open-Source NextJS Project is a Game-Changer" />
-
-:::
+<MyYouTubeItems jsonName="yu-joshtriedcoding" />
 
 <!-- Josh tried coding -->
 
@@ -1344,21 +1269,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## The Net Ninja
 
-[The Net Ninja][yu-net-ninja]
-
-::: details 목록
-
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="kVzw_f7TfCE" title="React Testing Library Tutorial #9 - Describe Block" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="0Y11K7KSC80" title="React Testing Library Tutorial #10 - Fire Events" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="tit8PecSH70" title="React Testing Library Tutorial #2 - The Importance of Testing" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="iBUJVy8phqw" title="Redux Tutorial \(with Redux Toolkit\)" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="bc6czIBLKTg" title="Vue JS 3 Tutorial for Beginners #6 - Build a Reaction Timer Game" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="vYBc7Le5G6s" title="Infinite Scroll Pagination Tutorial with Firestore \(part 1\)" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="mR6kNv83or0" title="Bulma Tutorial \(Product Page Build\) #15 - Adding a Footer" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="sfA3NWDBPZ4" title="Flutter & Firebase App Tutorial #1 - Introduction" />
-<YoutubeItem channelName="The Net Ninja" channelId="NetNinja" id="CpC5MTKAuwI" title="Deno Tutorial #2 - Files, Fetch & Permissions" />
-
-:::
+<MyYouTubeItems jsonName="yu-NetNinja" />
 
 <!-- The Net Ninja -->
 
@@ -1495,7 +1406,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-react-w-masoud]: https://www.youtube.com/@ProgrammingwithMasoud
 [yu-coding-addict]: https://www.youtube.com/@CodingAddict
 [yu-basarat]: https://www.youtube.com/@basarat
-[yu-michigan-typescript]: https://www.youtube.com/@MichiganTypeScript
 [yu-code-w-antonio]: https://www.youtube.com/@codewithantonio
 [yu-easy-tutorials]: https://www.youtube.com/@EasyTutorialsVideo
 [yu-coding-garden]: https://www.youtube.com/@CodingGarden
@@ -1528,9 +1438,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-dream-coding]: https://www.youtube.com/@dream-coding
 [yu-t3-dot-gg]: https://www.youtube.com/@t3dotgg
 [yu-frontend-masters]: https://www.youtube.com/@FrontendMasters
-[yu-joshtriedcoding]: https://www.youtube.com/@joshtriedcoding
-[yu-net-ninja]: https://www.youtube.com/@NetNinja
-[yu-notjustdev]: https://www.youtube.com/@notjustdev
 <!-- Misc -->
 [yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
 [yu-danielbark]: https://www.youtube.com/@danielbark

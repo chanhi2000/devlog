@@ -15,13 +15,7 @@ tags: ["education", "youtube", "programming", "php", "laravel"]
 
 ## Laravel Daily
 
-[Laravel Daily][yu-laravel-daily]
-
-::: details 목록
-
-<YoutubeItem channelName="Laravel Daily" channelId="LaravelDaily" id="hpij6Q4qySc" title="Laravel TestCase vs PHPUnit TestCase: The Differences" />
-
-:::
+<MyYouTubeItems jsonName="yu-LaravelDaily" />
 
 <!-- Laravel Daily -->
 

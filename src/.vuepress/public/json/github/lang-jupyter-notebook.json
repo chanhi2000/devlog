@@ -131,7 +131,7 @@
     "officialSite": ""
   }, {
     "repo": "datawhalechina/prompt-engineering-for-developers",
-    "desc": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版",
+    "desc": "吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》",
     "topics": [],
     "officialSite": ""
   }, {

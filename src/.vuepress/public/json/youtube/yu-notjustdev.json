@@ -6,6 +6,12 @@
   },
   "videos": [
     {
+      "id": "p_1NL8wMTQw",
+      "title": "Deploying Twitter's Backend on AWS (EC2 and RDS)"
+    }, {
+      "id": "8ou9dq5HKHk",
+      "title": "Is This the Future of React Native? app.js Recap and Insights"
+    }, {
       "id": "48UTHmf_Tp0",
       "title": "Connecting Twitter's Frontend to Backend using node.js and React Native"
     }, {

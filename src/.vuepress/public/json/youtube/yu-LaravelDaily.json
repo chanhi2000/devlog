@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "LaravelDaily",
+    "name": "Laravel Daily",
+    "profile": "https://yt3.googleusercontent.com/HDeb6CMO9jVlr1phkYWFY4NUvAn2HaiAqwqsSItsrDkHDV86K4z-Dz_9XCIqGcvIbBJqyZnW=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "MZ3PyCAFxE8",
+      "title": "Laravel: Separate Controllers/Views for Admins/Managers?"
+    }, {
+      "id": "hpij6Q4qySc",
+      "title": "Laravel TestCase vs PHPUnit TestCase: The Differences"
+    }
+  ]
+}
+

@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "AniaKubow",
+    "name": "Code with Ania Kubów",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMB2ZeEbnzXQywDIEP6nBKKcZw3LVRh_M-10Uk6jw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "BH4S3cGqafw",
+      "title": "Code a piano with me!"
+    }, {
+      "id": "ONaTvymt3Nc",
+      "title": "How to make a CSS Loading Button"
+    }, {
+      "id": "_Q7M2RID9x4",
+      "title": "Code a Flight Widget with me!"
+    }, {
+      "id": "ZXfKjPDTBPA",
+      "title": "Code BattleShips with me!"
+    }, {
+      "id": "l3TLQuwr4G0",
+      "title": "🛑 Build an AI Image Generator in JavaScript! (Super simple!) | OpenAI API DALL-E ChatGPT"
+    }, {
+      "id": "Qv0fvm5B0EM",
+      "title": "♟️ Code CHESS in JavaScript (Super simple!)"
+    }, {
+      "id": "JJ9fkYX7q4A",
+      "title": "🛑  Learn to use OpenAI API by building ChatGPT (super simple!) | React Node.js"
+    }, {
+      "id": "05ssqx-SZT0",
+      "title": "🛑 Build ChatGPT in JavaScript (Super simple!!) | JavaScript, HTML, CSS"
+    }, {
+      "id": "Kj_gehSIJCc",
+      "title": "Learn CSS transform by building a Penguin! FreeCodeCamp curriculum walkthrough"
+    }
+  ]
+}

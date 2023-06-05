@@ -131,14 +131,7 @@ tags: ["education", "youtube", "windows"]
 
 ## Michael MJD
 
-[Michael MJD][yu-michael-mjd]
-
-::: details 목록
-
-<YoutubeItem channelName="Michael MJD" channelId="MichaelMJD" id="mdXQ8rcmF48" title="Installing Mac OS on the Nintendo Wii!" />
-<YoutubeItem channelName="Michael MJD" channelId="MichaelMJD" id="tdhCDyJhjag" title="Running EVERY Classic Mac OS Version in your Browser! - Infinite Mac Updates" />
-
-:::
+<MyYouTubeItems jsonName="yu-MichaelMJD" />
 
 <!-- Michael MJD -->
 

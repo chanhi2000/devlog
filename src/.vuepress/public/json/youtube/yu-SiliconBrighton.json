@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "SiliconBrighton",
+    "name": "Silicon Brighton",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMPTyPfTVdQl7Hu1lWVkkOJah0LQWBEQB3pN2no=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "q8G6nzGhSEE", 
+      "title": "Introducing Compose for Desktop | Brighton Kotlin"
+    }, {
+      "id": "1odAJjmiABY", 
+      "title": "Deploying Serverless Applications at Scale and Speed | Brighton Cloud"
+    }
+  ]
+}

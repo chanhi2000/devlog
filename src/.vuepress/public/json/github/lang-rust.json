@@ -369,6 +369,11 @@
       "desc": "Instant audio feedback for typing. macOS version. (Rust)",
       "topics": ["macos", "rust"],
       "officialSite": "http://yingdev.com/projects/tickeys"
+    }, {
+      "repo": "keyvank/femtoGPT",
+      "desc": "Pure Rust implementation of a minimal Generative Pretrained Transformer",
+      "topics": ["rust", "machine-learning", "neural-network", "gpt", "from-scratch", "llm"],
+      "officialSite": "https://discord.gg/wTJFaDVn45"
     }
 ]
 

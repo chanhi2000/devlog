@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "glich.stream",
+    "name": "glich.stream",
+    "profile": "https://yt3.googleusercontent.com/MTTZTXsKybUi6zLJuwX59MUzXmby32-Uzyf3cMgK50TNNy8vEdipi-h6AhY233ugIxGw5F0D0A=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "VJB-TYo9_DY",
+      "title": "Learn git by BUILDING IT From Scratch! (Part 1) Understanding the git internals [Advanced]"
+    }, {
+      "id": "kpSJHtPOSLY",
+      "title": "Building a GitHub CLI extension in Go (Part 5)"
+    }, {
+      "id": "5wA0wwZ8FuU",
+      "title": "Building a GitHub CLI extension in Go (Part 2)"
+    }, {
+      "id": "s7AGkcSMiaI",
+      "title": "GitHub Copilot X tested with REAL scenarios"
+    }
+  ]
+}

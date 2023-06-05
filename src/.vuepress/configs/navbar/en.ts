@@ -154,6 +154,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 21',
             link: '/crashcourse/paul-hudson-100-days-of-swift/21.md'
+          }, {
+            text: 'Day 22',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/22.md'
           }
         ]
       }, {
@@ -192,6 +195,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 10',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/10.md'
+          }, {
+            text: 'Day 11',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/11.md'
           }
         ],
       }, {
@@ -287,6 +293,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Assembly code generated when self is passed by value, reference or as a smart pointer',
             link: '/crashcourse/eventhelix-rust-to-assembly/assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md'
+          }, {
+            text: 'Mapping Arrays, Tuples, Box and Option to assembly',
+            link: '/crashcourse/eventhelix-rust-to-assembly/mapping-arrays-tuples-box-and-option-to-assembly.md'
           }
         ]
       }

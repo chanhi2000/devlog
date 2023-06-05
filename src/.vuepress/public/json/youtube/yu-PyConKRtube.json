@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "PyConKRtube",
+    "name": "PyCon Korea",
+    "profile": "https://yt3.googleusercontent.com/HnEmqQ2SxsXJoFyWDPHjBFm789eAzN_0er-wWj-WWs9TvrmdmBd7xGspUTkceO5dDKOBUNP1nQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "uwSlm3T712w",
+      "title": "파이썬을 활용한 숨고 MSA [브레이브모바일] 조민우 -  PyCon Korea 2021"
+    }, {
+      "id": "b6vHjT1t0ug",
+      "title": "Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021"
+    }, {
+      "id": "5FvicDwklaA",
+      "title": "Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021"
+    }, {
+      "id": "oQ50eqDH91A",
+      "title": "[2018. 05] 파이썬 개발환경 구성하기 거의 끝판왕   Docker Compose - 김승호"
+    }, {
+      "id": "b6vHjT1t0ug",
+      "title": "Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021"
+    }
+  ]
+}
+

@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "MikaelaCaron",
+    "name": "Mikaela Caron",
+    "profile": "https://yt3.googleusercontent.com/f6fOGd8xQC-HhTZuB8eDmDoHlkMih0kBcYN7kFljVvRGy6vl0f3POhw1hV3d1_7MFwDH7UtTSg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "wNb4z7vMScw",
+      "title": "19 Expense Tracker - Send Data From iOS to Vapor | Building in Public Livestream | Mikaela Caron"
+    }, {
+      "id": "qbHQLV9cAHw",
+      "title": "18 Expense Tracker - Send Data From iOS to Vapor | Building in Public Livestream | Mikaela Caron"
+    }, {
+      "id": "YR6ECYOzYCY",
+      "title": "16 Expense Tracker - Vapor API Responses | Building in Public Livestream | Mikaela Caron"
+    }, {
+      "id": "j0SQK5h1uTc",
+      "title": "12 Expense Tracker - Fetch From Vapor API | SwiftUI | Building in Public Livestream | Mikaela Caron"
+    }, {
+      "id": "SW2UbAAMR0c",
+      "title": "11 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron"
+    }, {
+      "id": "SpQTplyV89w",
+      "title": "10 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron"
+    }, {
+      "id": "TTT4UvVNQiM",
+      "title": "UIKit for SwiftUI Developers Lesson 1: Hello World"
+    }
+  ]
+}

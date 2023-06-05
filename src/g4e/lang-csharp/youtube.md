@@ -180,6 +180,12 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Ervis Trupja
+
+<MyYouTubeItems jsonName="yu-DotNetHow" />
+
+<!-- Ervis Trupja -->
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

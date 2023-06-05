@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "chiragkachhadiya",
+    "name": "Chirag Kachhadiya",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNEQtfOdTutkEN7OMa5zfwn3h2pImFlyXB78bUAyA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ZotJ6eZ3TE8",
+      "title": "Creating a Stunning Security Dashboard with Jetpack Compose | Android UI Design Tutorial"
+    }, {
+      "id": "IsEI1byDd4Q",
+      "title": "Android Check Internet Connection | Monitor Connectivity Continuously | Android Studio | Kotlin"
+    }
+  ]
+}

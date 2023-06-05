@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "mCoding",
+    "name": "mCoding",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPen1ksc69xIb0FCBmNJDJXcLvoFGcA1uyc84uF=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "DhUpxWjOhME",
+      "title": "Automated Testing in Python with pytest, tox, and GitHub Actions"
+    }, {
+      "id": "g_wlZ9IhbTs",
+      "title": "You should put this in all your Python scripts | if __name__ == '__main__': ..."
+    }, {
+      "id": "AmjoK55h68Y",
+      "title": "unique_ptr: C++'s simplest smart pointer"
+    }
+  ]
+}
+
+

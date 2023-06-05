@@ -229,5 +229,22 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ---
 
+## 메타코드M
+
+<MyYouTubeItems jsonName="yu-mcodeM" />
+
+<!-- 메타코드M -->
+
+---
+
+
+## Be A Better Dev
+
+<MyYouTubeItems jsonName="yu-BeABetterDev" />
+
+<!-- Be A Better Dev -->
+
+---
+
 <TagLinks />
 

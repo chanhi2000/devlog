@@ -9,5 +9,10 @@
     "desc": "The project source code for hackingwithswift.com",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "twostraws/wwdc",
+    "desc": "WWDC Community: Learning and sharing together",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "FhwsfH2TpFA",
+      "title": "This is perhaps my favorite password manager for the terminal"
+    }, {
       "id": "i04sSQjd-qo", 
       "title": "The perfect Neovim setup for Go"
     }, {
@@ -23,3 +26,5 @@
     }
   ]
 }
+
+

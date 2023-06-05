@@ -149,5 +149,15 @@
     "desc": "wkhtmltopdf for multiple base images",
     "topics": ["python", "docker", "dockerfile", "node", "alpine", "docker-image", "wkhtmltoimage", "wkhtmltopdf", "wkhtmltox"],
     "officialSite": "https://hub.docker.com/u/surnet"
+  }, {
+    "repo": "nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "topics": ["nodejs", "shell", "bash", "zsh", "node", "install", "nvm", "posix", "lts", "version-manager", "node-js", "posix-compliant", "nvmrc"],
+    "officialSite": ""
+  }, {
+    "repo": "kdave/btrfsmaintenance",
+    "desc": "Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.",
+    "topics": ["administration", "btrfs"],
+    "officialSite": ""
   }
 ]

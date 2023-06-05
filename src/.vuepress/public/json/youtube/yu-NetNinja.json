@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "NetNinja",
+    "name": "The Net Ninja",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNWGAoth2S-ZShZi3sxl6n-psaH-7NZCeTJDzDnwA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "BHL9rl8P72E",
+      "title": "VS Code Extension Spotlight - Relative Path #shorts"
+    }, {
+      "id": "kVzw_f7TfCE",
+      "title": "React Testing Library Tutorial #9 - Describe Block"
+    }, {
+      "id": "0Y11K7KSC80",
+      "title": "React Testing Library Tutorial #10 - Fire Events"
+    }, {
+      "id": "tit8PecSH70",
+      "title": "React Testing Library Tutorial #2 - The Importance of Testing"
+    }, {
+      "id": "iBUJVy8phqw",
+      "title": "Redux Tutorial (with Redux Toolkit)"
+    }, {
+      "id": "bc6czIBLKTg",
+      "title": "Vue JS 3 Tutorial for Beginners #6 - Build a Reaction Timer Game"
+    }, {
+      "id": "vYBc7Le5G6s",
+      "title": "Infinite Scroll Pagination Tutorial with Firestore (part 1)"
+    }, {
+      "id": "mR6kNv83or0",
+      "title": "Bulma Tutorial (Product Page Build) #15 - Adding a Footer"
+    }, {
+      "id": "sfA3NWDBPZ4",
+      "title": "Flutter & Firebase App Tutorial #1 - Introduction"
+    }, {
+      "id": "CpC5MTKAuwI",
+      "title": "Deno Tutorial #2 - Files, Fetch & Permissions"
+    }    
+  ]
+}
+
+

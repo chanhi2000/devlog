@@ -1119,5 +1119,10 @@
     "desc": "Fullscreen HTML5 Background Video for the Web.",
     "topics": [],
     "officialSite": "https://rishabhp.github.io/bideo.js"
+  }, {
+    "repo": "sandstorm-io/sandstorm",
+    "desc": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.",
+    "topics": ["decentralized", "self-hosted", "self-hosting", "seccomp", "capnproto", "sandstorm"],
+    "officialSite": "https://sandstorm.io"
   }
 ]
