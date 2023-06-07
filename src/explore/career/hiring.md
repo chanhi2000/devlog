@@ -16,7 +16,8 @@ description: Career > 🦺Hiring
 
 - [nhn-recruit][nhn-recruit]: 2021 NHN 그룹사 신입개발자 공개채용
 
-<TagLinks />
+---
 
+<TagLinks />
 
 [nhn-recruit]: https://recruit.nhn.com/ent/landing?#none

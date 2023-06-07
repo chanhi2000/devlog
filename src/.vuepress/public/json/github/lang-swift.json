@@ -224,5 +224,10 @@
     "desc": "Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.",
     "topics": ["swift", "ios", "apple", "location", "point-of-interest", "realitykit"],
     "officialSite": ""
+  }, {
+    "repo": "IsaacMarovitz/Whisky",
+    "desc": "A modern Wine wrapper for macOS built with SwiftUI",
+    "topics": ["macos", "wine", "swiftui", "moltenvk", "dxvk"],
+    "officialSite": ""
   }
 ]

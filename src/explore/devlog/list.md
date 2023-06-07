@@ -53,20 +53,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ## Dev.to
 
-- [My notes about conducting a massive refactor in a Vue.js website](https://dev.to/marianapicolo/my-notes-about-conducting-a-massive-refactor-in-a-vue-js-website-bo7)
-- [`useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
-- [Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
-- [React & Redux Project: Gomojii](https://dev.to/greedybrain/react-redux-project-gomojii-5d6i)
-- [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
-- [How to create load more logic in React](https://dev.to/narendersaini32/how-to-create-load-more-logic-in-react-474m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email&fbclid=IwAR0QMs5O6eROAGKrz2HZoFuaZdCuVYTe8gsNhXQ4AMbrjpJlfW6pFJWrFvY)
-- [Build your React App Faster!](https://dev.to/amanjagdev/build-your-react-app-faster-2bec)
-- [JavaScript: How to Remove Duplicate Values from Arrays](https://dev.to/will_devs/javascript-how-to-remove-duplicate-values-from-arrays-lf0)
-- [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
-- [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
-- [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
-- [Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)
 - [Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
-- [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 - [4 ways to deploy web apps in 2020](https://dev.to/alex_boykov/4-ways-to-deploy-web-apps-in-2020-4ch3)
 - [How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
 - [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
@@ -75,12 +62,8 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ## velog
 
-- [\[Javascript Toy Project\] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [🕹 Canvas StarCraft](https://velog.io/@kimbyungchan/canvas-starcraft)
-- [JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
 - [Noticon 프로젝트 리뷰](https://velog.io/@tmmoond8/Noticon-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
-- [JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
-- [\[TIL\] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
 - [\[Kotlin\] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
@@ -88,7 +71,6 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [Spring MVC on VSCode - Maven Project](https://dev.to/spaceofmiah/spring-mvc-on-vscode-maven-project-50g8#needful-vscode-extension)
 - [The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)
-- [(번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
 
 ---
 

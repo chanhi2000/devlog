@@ -59,5 +59,10 @@
     "desc": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024!",
     "topics": ["university", "jobs", "interview-preparation", "fulltime", "newgrad"],
     "officialSite": ""
+  }, {
+    "repo": "ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布",
+    "topics": [],
+    "officialSite": ""
   }
 ]

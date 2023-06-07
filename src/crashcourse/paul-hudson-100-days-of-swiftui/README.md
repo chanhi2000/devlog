@@ -82,24 +82,24 @@ This introductory day prepares you for the course, explains core concepts, and h
 - [Day 0][day-0] – tips and advice before you start.
  
 
-### Days 1-14: Introduction to Swift
+### ✅Days 1-14: Introduction to Swift
 
 The first 14 days provide a gentle warm up for your SwiftUI learning as we cover the fundamentals of the Swift programming language. You’ll work through a selection of tutorials every day, and there is some optional extra reading afterwards if you’d like to dig deeper.
 
 Regardless of whether or not you go over the optional extra reading, you’ll find lots of short short tests – I recommend you take them to really solidify what you’ve learned.
 
-- [Day 1][day-1] – ✅variables, constants, strings, and numbers
-- [Day 2][day-2] – ✅Booleans, string interpolation, and checkpoint 1
-- [Day 3][day-3] – ✅Arrays, dictionaries, sets, and enums
-- [Day 4][day-4] – ✅type annotations and checkpoint 2
-- [Day 5][day-5] – ✅if, switch, and the ternary operator
-- [Day 6][day-6] – ✅loops, summary, and checkpoint 3
-- [Day 7][day-7] – ✅functions, parameters, and return values
-- [Day 8][day-8] – ✅default values, throwing functions, and checkpoint 4
-- [Day 9][day-9] – ✅closures, passing functions into functions, and checkpoint 5
-- [Day 10][day-10] – ✅structs, computed properties, and property observers
-- [Day 11][day-11] – ✅access control, static properties and methods, and checkpoint 6
-- [Day 12][day-12] – ✅classes, inheritance, and checkpoint 7
+- [Day 1][day-1] – variables, constants, strings, and numbers
+- [Day 2][day-2] – Booleans, string interpolation, and checkpoint 1
+- [Day 3][day-3] – Arrays, dictionaries, sets, and enums
+- [Day 4][day-4] – type annotations and checkpoint 2
+- [Day 5][day-5] – if, switch, and the ternary operator
+- [Day 6][day-6] – loops, summary, and checkpoint 3
+- [Day 7][day-7] – functions, parameters, and return values
+- [Day 8][day-8] – default values, throwing functions, and checkpoint 4
+- [Day 9][day-9] – closures, passing functions into functions, and checkpoint 5
+- [Day 10][day-10] – structs, computed properties, and property observers
+- [Day 11][day-11] – access control, static properties and methods, and checkpoint 6
+- [Day 12][day-12] – classes, inheritance, and checkpoint 7
 - [Day 13][day-13] – protocols, extensions, and checkpoint 8
 - [Day 14][day-14] – optionals, nil coalescing, and checkpoint 9
 
@@ -290,7 +290,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-11]: 11.md
 [day-12]: 12.md
 [day-13]: 13.md
-[day-14]: https://www.hackingwithswift.com/100/swiftui/14
+[day-14]: 14.md
 [day-15]: https://www.hackingwithswift.com/100/swiftui/15
 [day-16]: https://www.hackingwithswift.com/100/swiftui/16
 [day-17]: https://www.hackingwithswift.com/100/swiftui/17

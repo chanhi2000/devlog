@@ -1129,5 +1129,10 @@
     "desc": "An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com",
     "topics": ["generator", "qrcode", "qr-code", "qr-codes", "qr", "qrcode-generator", "art-qr", "art-qr-code", "art-qrcode"],
     "officialSite": "https://qrbtf.com"
+  }, {
+    "repo": "9elements/fancy-border-radius",
+    "desc": "When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at",
+    "topics": [],
+    "officialSite": "https://9elements.github.io/fancy-border-radius"
   }
 ]

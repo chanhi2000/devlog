@@ -334,5 +334,11 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "zealdocs/zeal",
+    "desc": "Offline documentation browser inspired by Dash",
+    "topics": ["api", "documentation", "docs", "offline", "api-documentation", "documentation-tool", "desktop-application", "dash", "developer-tools", "docset", "zeal"],
+    "officialSite": "https://zealdocs.org"
   }
 ]
+

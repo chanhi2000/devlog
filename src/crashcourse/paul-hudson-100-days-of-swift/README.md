@@ -118,7 +118,7 @@ In the last few days we covered some of the fundamentals of iOS development, and
 The next three projects we’re looking at will push your iOS skills further as you create some user interface in code, manage table views more carefully, and get some experience with closures.
 
 - [Day 24][day-24] – ✅Project 4, part one
-- [Day 25][day-25] – Project 4, part two
+- [Day 25][day-25] – ✅Project 4, part two
 - [Day 26][day-26] – Project 4, part three
 - [Day 27][day-27] – Project 5, part one
 - [Day 28][day-28] – Project 5, part two
@@ -314,7 +314,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-22]: 22.md
 [day-23]: 23.md
 [day-24]: 24.md
-[day-25]: https://www.hackingwithswift.com/100/25
+[day-25]: 25.md
 [day-26]: https://www.hackingwithswift.com/100/26
 [day-27]: https://www.hackingwithswift.com/100/27
 [day-28]: https://www.hackingwithswift.com/100/28

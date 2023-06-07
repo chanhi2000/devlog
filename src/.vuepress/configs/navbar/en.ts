@@ -166,6 +166,9 @@ export const navbarEn: NavbarConfig = [
           {
             text: 'Day 24',
             link: '/crashcourse/paul-hudson-100-days-of-swift/24.md'
+          }, {
+            text: 'Day 25',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/25.md'
           }
         ]
       }, {
@@ -213,6 +216,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 13',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/13.md'
+          }, {
+            text: 'Day 14',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/14.md'
           }
         ],
       }, {
@@ -311,6 +317,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Mapping Arrays, Tuples, Box and Option to assembly',
             link: '/crashcourse/eventhelix-rust-to-assembly/mapping-arrays-tuples-box-and-option-to-assembly.md'
+          }, {
+            text: 'Map Rust vector iteration to assembly',
+            link: '/crashcourse/eventhelix-rust-to-assembly/rust-to-assembly-vector-iteration.md'
           }
         ]
       }

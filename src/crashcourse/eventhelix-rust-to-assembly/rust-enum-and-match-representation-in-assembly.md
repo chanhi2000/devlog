@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Rust enum and match representation in assembly
 description: 🦀Rust to Assembly > Rust enum and match representation in assembly
-tags: ["crashcourse", "digitalocean", "kubernetes", "kubctl", "serverless"]
+tags: ["crashcourse", "digitalocean", "rust", "rs", "assembly"]
 meta:
   - name: 🦀Rust to Assembly - Rust enum and match representation in assembly
     content: Rust enum and match representation in assembly

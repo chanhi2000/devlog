@@ -42,9 +42,17 @@ tags: ["macos", "settings"]
 - [st44100's setup](https://gist.github.com/st44100/672006aa7cfc7d5fd304)
 - [sb2nov's setup](http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html)
 
+---
+
 ## HackerNews
 
 - [Hackers Using Golang Variant of Cobalt Strike to Target Apple macOS Systems](https://thehackernews.com/2023/05/hackers-using-golang-variant-of-cobalt.html)
+
+---
+
+## WebKit
+
+- [News from WWDC23: WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta)
 
 ---
 

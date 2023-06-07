@@ -99,5 +99,10 @@
     "desc": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
     "topics": ["challenge", "learn-to-code", "habit-tracking", "100daysofcode", "learn-coding", "100joursdecode"],
     "officialSite": "http://www.100daysofcode.com"
+  }, {
+    "repo": "Cyfrin/foundry-full-course-f23",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

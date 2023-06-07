@@ -27,15 +27,7 @@ meta:
 - [Rust enum and match representation in assembly](rust-enum-and-match-representation-in-assembly.md)
 - [Assembly code generated when self is passed by value, reference or as a smart pointer](assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md)
 - [Mapping Arrays, Tuples, Box and Option to assembly](mapping-arrays-tuples-box-and-option-to-assembly.md)
-
-
-```card
-title: Map Rust vector iteration to assembly
-desc: Learn how to map Rust vector iteration to assembly. Also understand how the compiler optimizes the loop with vector instructions.
-link: https://eventhelix.com/rust/rust-to-assembly-vector-iteration
-logo: https://eventhelix.com/images/EventHelix-white-rounded-bg-blue.png
-color: rgba(250, 250, 250, 0.2)
-```
+- [Map Rust vector iteration to assembly](rust-to-assembly-vector-iteration.md)
 
 
 ```card

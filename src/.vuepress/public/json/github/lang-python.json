@@ -1618,5 +1618,15 @@
     "desc": "OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.",
     "topics": ["agent", "ai", "os", "openai", "llm", "autogpt"],
     "officialSite": "https://opendan.ai"
+  }, {
+    "repo": "xinyu1205/Recognize_Anything-Tag2Text",
+    "desc": "Code for the Recognize Anything Model and Tag2Text Model",
+    "topics": [],
+    "officialSite": "https://recognize-anything.github.io"
+  }, {
+    "repo": "Vahe1994/SpQR",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

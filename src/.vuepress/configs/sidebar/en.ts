@@ -65,6 +65,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-kotlin/basics.md',
         '/g4e/lang-kotlin/ktx.md',
         '/g4e/lang-kotlin/tips.md',
+        '/g4e/lang-kotlin/snippets.md',
         '/g4e/lang-kotlin/references.md',
       ]
     }, {
@@ -425,6 +426,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/tool-chrome-browser/README.md',
         '/g4e/tool-chrome-browser/plugins.md',
+        '/g4e/tool-chrome-browser/references.md'
       ]
     }, {
       text: '🎼OpenAI',
@@ -525,6 +527,10 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/catalogs/lifeguide/README.md',
         '/catalogs/lifeguide/nhis/README.md',
+        '/catalogs/lifeguide/nhis/references.md',
+        '/catalogs/lifeguide/travel/README.md',
+        '/catalogs/lifeguide/travel/china.md',
+        '/catalogs/lifeguide/travel/references.md',
       ]
     }, {
       text: '🎈TIL',
@@ -661,6 +667,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/21.md',
         '/crashcourse/paul-hudson-100-days-of-swift/22.md',
         '/crashcourse/paul-hudson-100-days-of-swift/23.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/24.md',
         '/crashcourse/paul-hudson-100-days-of-swift/24.md'
       ]
     }, {
@@ -680,7 +687,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/10.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/11.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/12.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/13.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/13.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/14.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -782,6 +790,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/eventhelix-rust-to-assembly/rust-enum-and-match-representation-in-assembly.md',
         '/crashcourse/eventhelix-rust-to-assembly/assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md',
         '/crashcourse/eventhelix-rust-to-assembly/mapping-arrays-tuples-box-and-option-to-assembly.md',
+        '/crashcourse/eventhelix-rust-to-assembly/rust-to-assembly-vector-iteration.md'
       ]
     }, {
       text: '🧶Must Know JavaScript API',

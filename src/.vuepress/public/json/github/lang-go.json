@@ -414,5 +414,10 @@
     "desc": "Database migrations. CLI and Golang library.",
     "topics": ["mysql", "go", "golang", "postgres", "sql", "database", "cassandra", "mongodb", "neo4j", "migrations", "sqlite", "aws-s3", "google-cloud-storage", "databases", "migration", "mariadb", "hacktoberfest", "spanner", "google-cloud-spanner"],
     "officialSite": ""
+  }, {
+    "repo": "ansible-semaphore/semaphore",
+    "desc": "Modern UI for Ansible",
+    "topics": ["javascript", "html", "golang", "ansible", "devops", "ci", "cicd"],
+    "officialSite": "https://ansible-semaphore.com"
   }
 ]

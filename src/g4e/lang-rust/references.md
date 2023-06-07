@@ -17,6 +17,7 @@ tags: ["rust" , "rs", "rust-lang"]
 ## Dev.to
 
 - [Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
+- [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 
 ---
 

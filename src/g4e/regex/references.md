@@ -25,4 +25,8 @@ description: 🥋Regex > 📚References
 
 ---
 
+## Tools
+
+- [iHateRegex](https://ihateregex.io)
+
 <TagLinks />

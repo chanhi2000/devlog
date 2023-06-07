@@ -124,6 +124,27 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Dev.to
 
 - [about React](https://dev.to/t/react)
+- [`useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
+- [Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
+- [React & Redux Project: Gomojii](https://dev.to/greedybrain/react-redux-project-gomojii-5d6i)
+- [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
+- [How to create load more logic in React](https://dev.to/narendersaini32/how-to-create-load-more-logic-in-react-474m)
+- [Build your React App Faster!](https://dev.to/amanjagdev/build-your-react-app-faster-2bec)
+- [JavaScript: How to Remove Duplicate Values from Arrays](https://dev.to/will_devs/javascript-how-to-remove-duplicate-values-from-arrays-lf0)
+- [My notes about conducting a massive refactor in a Vue.js website](https://dev.to/marianapicolo/my-notes-about-conducting-a-massive-refactor-in-a-vue-js-website-bo7)
+- [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
+- [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
+
+---
+
+## velog
+
+- [[Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
+- [JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
+- [[TIL] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+- [(번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
+
 
 ---
 
@@ -354,6 +375,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
+- [Can I use](https://caniuse.com)
 
 ---
 

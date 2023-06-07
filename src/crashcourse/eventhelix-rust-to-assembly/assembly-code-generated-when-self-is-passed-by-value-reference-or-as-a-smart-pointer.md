@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Assembly code generated when self is passed by value, reference or as a smart pointer
 description: 🦀Rust to Assembly > Assembly code generated when self is passed by value, reference or as a smart pointer
-tags: ["crashcourse", "digitalocean", "kubernetes", "kubctl", "serverless"]
+tags: ["crashcourse", "digitalocean", "rust", "rs", "assembly"]
 meta:
   - name: 🦀Rust to Assembly - Assembly code generated when self is passed by value, reference or as a smart pointer
     content: Assembly code generated when self is passed by value, reference or as a smart pointer

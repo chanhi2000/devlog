@@ -739,5 +739,10 @@
     "desc": "Open source codebase powering the HuggingChat app",
     "topics": ["huggingface", "sveltekit", "chatgpt"],
     "officialSite": "https://huggingface.co/chat"
+  }, {
+    "repo": "Hufe921/canvas-editor",
+    "desc": "rich text editor by canvas/svg",
+    "topics": ["svg", "emr", "editor", "pdf", "typescript", "browser", "control", "latex", "canvas", "wysiwyg", "date-picker", "rich-text", "pdf-generation", "vite", "canvas-editor"],
+    "officialSite": "https://hufe.club/canvas-editor"
   }
 ]

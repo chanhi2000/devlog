@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Mapping Arrays, Tuples, Box and Option to assembly
 description: 🦀Rust to Assembly > Mapping Arrays, Tuples, Box and Option to assembly
-tags: ["crashcourse", "digitalocean", "kubernetes", "kubctl", "serverless"]
+tags: ["crashcourse", "digitalocean", "rust", "rs", "assembly"]
 meta:
   - name: 🦀Rust to Assembly - Mapping Arrays, Tuples, Box and Option to assembly
     content: Mapping Arrays, Tuples, Box and Option to assembly

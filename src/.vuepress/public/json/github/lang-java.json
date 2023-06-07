@@ -289,6 +289,16 @@
     "desc": "Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。",
     "topics": ["java", "docker", "chatgpt", "chatgpt-java"],
     "officialSite": "https://front3.stargpt.top"
+  }, {
+    "repo": "MCRcortex/nekodetector",
+    "desc": "Nekoclient infection detector",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "fractureiser-investigation/fractureiser",
+    "desc": "Information about the fractureiser malware",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

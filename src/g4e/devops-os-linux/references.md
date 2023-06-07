@@ -43,5 +43,9 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## borretti
+
+- [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
+
 
 <TagLinks />

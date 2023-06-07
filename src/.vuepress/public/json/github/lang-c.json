@@ -214,6 +214,11 @@
     "desc": "The Reliable USB Formatting Utility",
     "topics": ["c", "windows", "usb", "iso", "persistence", "boot", "md5", "uefi", "sha1", "sha256", "syslinux", "grub", "mbr", "gpt", "secure-boot", "bios", "bootable-drives", "freedos", "grub4dos", "windows-to-go"],
     "officialSite": "https://rufus.ie"
+  }, {
+    "repo": "Zirias/poser",
+    "desc": "POsix SERvices framework for C",
+    "topics": [],
+    "officialSite": "https://zirias.github.io/poser"
   }
 ]
 

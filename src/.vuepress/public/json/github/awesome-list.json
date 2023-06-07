@@ -459,5 +459,10 @@
     "desc": "A list of engineering manager resource links.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+    "desc": "Latest Papers and Datasets on Multimodal Large Language Models",
+    "topics": ["multi-modality", "instruction-following", "in-context-learning", "large-language-models", "chain-of-thought", "instruction-tuning", "visual-instruction-tuning", "large-vision-language-model", "multimodal-instruction-tuning", "large-vision-language-models", "multimodal-large-language-models", "visual-in-context-learning", "multimodal-in-context-learning", "visual-chain-of-thought", "multimodal-chain-of-thought"],
+    "officialSite": ""
   }
 ]

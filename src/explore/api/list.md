@@ -23,7 +23,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [Bootstrap Icons][Bootstrap-Icons]: Official open source SVG icon library for Bootstrap.
 - [regexper][regexper]: You thought you only had two problems…
 - [regexr][regexr]: RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-- [overapi][overapi]: Collecting All Cheat Sheets
+- [overapi](https://overapi.com): Collecting All Cheat Sheets
 - [emailjs][emailjs]: EmailJS Documentation
 - [htaccess][htaccess]: Test your htaccess rewrite rules
 - [testing-library][testing-library]: The home for all testing-library projects
@@ -36,8 +36,11 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [foojay][foojay]: Friends of OpenJDK
 - [opensourcelibs][opensourcelibs]: a massive collection of the world's best open source software
 - [golf-genius-api][golf-genius-api]: Golf Genius API
+- [CoinGecko](https://www.coingecko.com/en/api): Cryptocurrencies
+- [Lorem Picsum](https://picsum.photos): The Lorem Ipsum for photos.
+- [newscatcher](https://newscatcherapi.com): News Data: structured, relevant, real-time
 
---- 
+---
 
 ## Online Tools
 
@@ -150,7 +153,6 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [heroicons]: https://heroicons.com
 [regexper]: https://regexper.com
 [regexr]: https://regexr.com
-[overapi]: https://overapi.com
 [emailjs]: https://www.emailjs.com/docs
 [htaccess]: https://htaccess.madewithlove.com
 [testing-library]: https://github.com/testing-library

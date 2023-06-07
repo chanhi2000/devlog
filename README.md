@@ -30,7 +30,6 @@ npm run build
 
 ## ✅TODO
 
-- [x] tips/트리구조 구성
 - [ ] 내용 정리 및 채워넣기 ... 
 
 [shield-proj-v]: https://img.shields.io/github/package-json/v/chanhi2000/devlog?style=flat-square
