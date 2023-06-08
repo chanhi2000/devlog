@@ -186,6 +186,16 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 <!-- Ervis Trupja -->
 
+---
+
+## Scott Hanselman
+
+<MyYouTubeItems jsonName="yu-shanselman" />
+
+<!-- Scott Hanselman -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

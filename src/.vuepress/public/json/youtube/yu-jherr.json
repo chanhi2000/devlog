@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "jherr",
+    "name": "Jack Herrington",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPy-WjdooplV7t895POHCs7ZkDTnD8P-gscKKq3EQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Mt5ocZi8JS0",
+      "title": "Solid-Start's Awesome Lightweight Client/Server API Creator"
+    }, {
+      "id": "DLel3G4XUZ8",
+      "title": "Running TypeScript The Easy Way"
+    }, {
+      "id": "gXbUeZZ2l78",
+      "title": "JavaScript's Object Destructuring is Bad?"
+    }, {
+      "id": "nR9K7JBXK20",
+      "title": "Why React's Object State Tracking is Weird"
+    }, {
+      "id": "ypN-Uwshc5M",
+      "title": "React Dev, You Need To Know @container!"
+    }
+  ]
+}

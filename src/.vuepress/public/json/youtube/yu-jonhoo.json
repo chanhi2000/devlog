@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "jonhoo",
+    "name": "Jon Gjengset",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOs0qgOO4fhDtqr62buTHsFZ5iM841vTJ6I3P7Nyw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "yOezcP-XaIw",
+      "title": "Crust of Rust: Send, Sync, and their implementors"
+    }, {
+      "id": "EY7Wi9fV5bk",
+      "title": "The Unsafe Chronicles: Exhibit A: Aliasing Boxes"
+    }, {
+      "id": "yozQ9C69pNs",
+      "title": "Crust of Rust: Iterators"
+    }, {
+      "id": "s19G6n0UjsM",
+      "title": "Rust at speed — building a fast concurrent database"
+    }, {
+      "id": "yQFWmGaFBjk",
+      "title": "Porting Java's ConcurrentHashMap to Rust (part 1)"
+    }
+  ]
+}

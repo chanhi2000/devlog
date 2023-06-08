@@ -91,6 +91,15 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Shane Young
+
+<MyYouTubeItems jsonName="yu-ShanesCows" />
+
+<!-- Shane Young -->
+
+---
+
+
 ## Misc
 
 <YoutubeItem channelName="PK: An Excel Expert" channelId="PKAnExcelExpert" id="kpLnxV3a1bE" title="Project Plan(Gantt Chart) in excel" />

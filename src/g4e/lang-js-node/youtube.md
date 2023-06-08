@@ -125,35 +125,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## James Q Quick
 
-[James Q Quick][yu-james-q-quick]
-
-::: details 목록
-
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="z5u3Vr8mbDQ" title="A Better Way To Do Developer Documentation" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="LY-DNBzXy48" title="DON'T Use the File Explorer in VS Code!" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="2xwv4T552lM" title="The EASIEST Way to Use OpenAI ChatGPT in Next.js" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="YzGV6AUcnnI" title="A Beginner's Guide to Visual React Development with Codux" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="nZAapQE5ICI" title="Vercel Just Launched Some Major Products - Here’s What It Means!" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="pgRyuhYt-XA" title="New Website Design With Astro" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="mTA8XBhzv5U" title="Coding with Remix and Xata database: A Beginner's Tutorial" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="9JuUfg3Rx08" title="VS Code and SvelteKit Setup" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="Q0XustAh080" title="SvelteKit and Supabase" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="B2isrIMaQfY" title="GraphQL, SvelteKit, and Combining APIs with Hygraph" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="Wtqq0-yYKps" title="How I Built A Discord Bot with TypeScript, Node.js, PlanetScale, Prisma, and Heroku" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="nPrHbLsqb54" title="JavaScript Enums in 5 Minutes - What they are and how to create them" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="ql_-tLTpPKg" title="Build a Svelte Popup/Overlay Component using Tailwind CSS in 15 Minutes" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="dfTpFFZwazI" title="Easy Way to Create CLI Scripts with JavaScript and Node" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="UukCbeW-IPc" title="JavaScript Automated Testing with Jest - The What, Why, and How with Alba Silvente" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="yeZa4QsX38w" title="Quokka.js VS Code Extension - The Fastest Way to Test JavaScript" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="hyDtibu3mSo" title="The Best Browser For Web Developers?? (Better Than Google Chrome?)" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="aCkkEDsJgL0" title="VS Code Extension for Working with Frontmatter" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="pgRyuhYt-XA" title="New Website Design With Astro" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="mTA8XBhzv5U" title="Coding with Remix and Xata database: A Beginner's Tutorial" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="Ow3VsOJcvpM" title="Is This A Better Way To Handle Images in Next.js?" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="Fdl57-a3b3w" title="Top 5 Async Mistakes for JavaScript Beginners (Don’t make these!)" />
-<YoutubeItem channelName="James Q Quick" channelId="JamesQQuick" id="-2eIIthzqFo" title="Writing Great Error Messages" />
-
-:::
+<MyYouTubeItems jsonName="yu-JamesQQuick" />
 
 <!-- James Q Quick -->
 
@@ -161,22 +133,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Kevin Wade
 
-[Kevin Wade][yu-kevin-wade]
-
-::: details 목록
-
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="Xisj0FJSBIs" title="Full Stack Build: Node, Postgres, Redis, React, GraphQL/Apollo" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="5FJWQdjzJKQ" title="Code a screen in Expo (React Native) - Full Stack Build Series" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="A1Sp5c97TYU" title="Yarn to PNPM - How to Switch" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="KrIOY1tcfmQ" title="React Native Charts on Web, iOS, & Android - Full Stack Build Ep6" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="MW2o0Xz12c " title="Create GraphQL Schema & Resolver - Full Stack Build Ep2" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="hGYNW8-_c3U" title="Deploy to Production - Node, Postgres, Redis, React - with Render" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="Av8ezg-2GWc" title="Ultimate Typescript/Node/Docker Setup: Step-by-Step (2022)" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="CUyl3LdBvGU" title="React by Example: Build a To Do List with Typescript, Hooks, and Styled Components - Part 1" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="o2yNF9tTogk" title="React by Example: Build a Calculator with Typescript" />
-<YoutubeItem channelName="Kevin Wade" channelId="kevinwwwade" id="KrIOY1tcfmQ" title="React Native Charts on Web, iOS, & Android - Full Stack Build Ep6" />
-
-:::
+<MyYouTubeItems jsonName="yu-kevinwwwade" />
 
 <!-- Kevin Wade -->
 
@@ -208,17 +165,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Laith Academy
 
-[Laith Academy][yu-laithacademy]
-
-::: details 목록
-
-<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="B6hmetsV3yI" title="Nuxt 3 - Building a Complete Project" />
-<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="7VAI73roXaY" title="The NGINX Crash Course" />
-<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="KfGr49Z7OaA" title="The Docker Crash Course" />
-<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="jrKcJxF0lAU" title="React with TypeScript Crash Course" />
-<YoutubeItem channelName="Laith Academy" channelId="laithacademy" id="o6VwbXSjM08" title="The Svelte Crash Course" />
-
-:::
+<MyYouTubeItems jsonName="yu-laithacademy" />
 
 <!-- Laith Academy  -->
 
@@ -266,18 +213,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Wes Bos
 
-[Wes Bos][yu-wes-bro]
-
-::: details 목록
-
-<YoutubeItem channelName="Wes Bos" channelId="WesBos" id="IS698Tc5M7Q" title="CSS Logical Properties: A good use case" />
-<YoutubeItem channelName="Wes Bos" channelId="WesBos" id="Z6sNWaj_b8o" title="🔥 Three CSS tips for working with inconsistently sized logos" />
-<YoutubeItem channelName="Wes Bos" channelId="WesBos" id="9Ryc5MQTUYc" title="Instagram API with React Hooks + Gatsby [SHED HACKS]" />
-<YoutubeItem channelName="Wes Bos" channelId="WesBos" id="3CfJa4cukt4" title="Gatsby Previous and Next Button Code Along" />
-<YoutubeItem channelName="Wes Bos" channelId="WesBos" id="gXhmnDdc_bc" title="Gatsby Pagination: Refactoring for Multiple Content Types" />
-<YoutubeItem channelName="Wes Bos" channelId="WesBos" id="pm0j95hmAgE" title="Even More GraphQL + React Hooks Refactoring!" />
-
-:::
+<MyYouTubeItems jsonName="yu-WesBos" />
 
 <!-- Wes Bos -->
 
@@ -285,25 +221,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## 노마드 코더 Nomad Coders
 
-[노마드 코더 Nomad Coders][yu-nomadcoders]
-
-::: details 목록
-
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="DjfpcmK62ew" title="NPM Hack that every programmer should know" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="XCAwSBdeejU" title="Build a Website Powered by Notion" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="kkiLBF_YerM" title="The Most Mind Blowing Features Coming to CSS" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="o7FkmtqIYOE" title="Building Real-time Serverless App with AWS Amplify" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="5EhsjtBE7I4" title="WebRTC & WebSockets Explained in 5min!" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="B26yiuC5zPM" title="M1 Max MacBook Pro Developer Setup" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="lkTpOHv1Ros" title="5 New Mind-Blowing CSS Features!" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="63bdCwJmRP4" title="Making A Crypto Trading Bot" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="u3Ph_M2bySg" title="39 FREE Tools For Your Online Business" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="Q2PCO0mKEaU" title="Replace Powerpoint with This!" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="QJSLtK2bY_A" title="요즘 완전 대세! 크롬 확장앱 만들기. 5분컷." />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="eSj25owrmTM" title="This API is finally here !" />
-<YoutubeItem channelName="노마드 코더 Nomad Coders" channelId="nomadcoders" id="ObT87Xu_CO0" title="모르면 손해? 엄청난 웹 API가 나타났다!" />
-
-:::
+<MyYouTubeItems jsonName="yu-nomadcoders" />
 
 <!-- 노마드 코더 Nomad Coders -->
 
@@ -319,24 +237,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Codevolution
 
-[Codevolution][yu-codevolution]
-
-::: details 목록
-
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="mVx_PzR9SPo" title="Node.js Tutorial - 38 - `libuv`" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="jLS0TkAHvRg" title="React 18 Fundamentals Crash Course" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="Icf5D3fEKbM" title="CSS Crash Course - Tutorial for Complete Beginners" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="hszc3T0hdvU" title="Failing Gracefully with React Error Boundary" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="II26fwRXNBs" title="Vue JS 3 Tutorial - 59 - Replacing Watchers (Part 2)" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="LyG_l5UoeHI" title="Vue JS 3 Tutorial - 50 - Reusability with Mixins" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="KOmQ8a2EOFA" title="Vue JS 3 Tutorial - 43 - Teleport Component" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="lLIwx145O_A" title="Vue JS 3 Tutoial - 23 - Computed Properties" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="HpmL7dvyRUY" title="Practical React - 9 - Credit Cards" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="yGyj0mSfVuk" title="React Redux Tutorials - 12 - Async Actions" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="z2XCUu2wIl0" title="React Redux Tutorials - 13 - Redux Thunk Middleware" />
-<YoutubeItem channelName="Codevolution" channelId="Codevolution" id="mVx_PzR9SPo" title="Node.js Tutorial - 38 - libuv" />
-
-:::
+<MyYouTubeItems jsonName="yu-Codevolution" />
 
 <!-- Codevolution -->
 
@@ -344,31 +245,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## codedamn
 
-[codedamn][yu-codedamn]
-
-::: details 목록
-
-<YoutubeItem channelId="codedamn" channelName="codedamn" id="CsL-cYcSEk4" title="Do this if you want to master flask" />
-<YoutubeItem channelId="codedamn" channelName="codedamn" id="bEvCS-Eg7dY" title="Bye Bye Leetcode 👋🏻" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="kn43PR0PWew" title="React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="xy81B0OYyug" title="Shopify JUST Launched a NEW React Framework!" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="Hpf2OmYnqhw" title="React Typing-Speed Project - Build logical thinking with this free project 🎉" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="qG-PLm3APSs" title="Advanced Node.js Crash Course | New Year Gift!" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="g4g2TlTMXXQ" title="Vue.js 3 Crash Course 2020 Part 1 | Learn Vue.js" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="ptD4pnt4arw" title="#15: Semantic Versioning - Mastering NPM" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="wxT_75SoGxQ" title="#3: NPM vs Yarn - Mastering NPM" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="wS_WhKggQEQ" title="#9: Introduction to package.json - Mastering NPM" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="qLJwOf2SLew" title="#2: Rust Playground and Setup - Rust Tutorials" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="Ttf3CEsEwMQ" title="Beginner Vanilla Javascript Project Tutorial" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="E-x8GxtaLfo" title="#10: Fade in/Fade out animations - React Native Animations" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="uny0IQyjPnk" title="IntelliSense is now on the Web!" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="zPSYFyXp6TU" title="Docker Tutorial 22: .dockerignore file" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="0nXcZMt8MAc" title="Learn React Native in one video" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="b2kaE0CyFF4" title="Lazy Loading Images without JavaScript!" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="Uuaue9odUEo" title="Chrome DevTools - Everything you need to know" />
-<YoutubeItem channelName="codedamn" channelId="codedamn" id="4Rsr0NRHuBY" title="Install New Windows Terminal Today! 😁😎" />
-
-:::
+<MyYouTubeItems jsonName="yu-codedamn" />
 
 <!-- codedamn -->
 
@@ -384,17 +261,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Jack Herrington
 
-[Jack Herrington][yu-jherr]
-
-::: details 목록
-
-<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="Mt5ocZi8JS0" title="Solid-Start's Awesome Lightweight Client/Server API Creator" />
-<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="DLel3G4XUZ8" title="Running TypeScript The Easy Way" />
-<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="gXbUeZZ2l78" title="JavaScript's Object Destructuring is Bad?" />
-<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="nR9K7JBXK20" title="Why React's Object State Tracking is Weird" />
-<YoutubeItem channelName="Jack Herrington" channelId="jherr" id="ypN-Uwshc5M" title="React Dev, You Need To Know @container!" />
-
-:::
+<MyYouTubeItems jsonName="yu-jherr" />
 
 <!-- Jack Herrington -->
 
@@ -410,18 +277,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Code with Sloba
 
-[Code with Sloba][yu-code-w-sloba]
-
-::: details 목록
-
-<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="VY6tgKS02ao" title="React File and Folder Structure | #32 React Course" />
-<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="NFJ0g95ObX4" title="Building a Fast Portfolio Website with Qwik Framework" />
-<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="UX5HIrxbRUc" title="How to Build a Quiz App using React (for Beginners)" />
-<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="3yD6Mwx6i0Q" title="React portfolio dashboard (with Firebase)" />
-<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="sMTRaNZ0RYs" title="React.js workshop (for beginners) - Building Quiz app" />
-<YoutubeItem channelName="Code with Sloba" channelId="CodewithSloba" id="d25dg0AgkwQ" title="Build Web Scraping Website | React, Puppeteer, Firebase" />
-
-:::
+<MyYouTubeItems jsonName="yu-CodewithSloba" />
 
 <!-- Code with Sloba -->
 
@@ -429,15 +285,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Lee Robinson
 
-[Lee Robinson][yu-leerob]
-
-::: details 목록
-
-<YoutubeItem channelName="Lee Robinson" channelId="leerob" id="Pd2tVxhFnO4" title="Using Docker with Next.js (and Deploying with Google Cloud Run)" />
-<YoutubeItem channelName="Lee Robinson" channelId="leerob" id="R59e1Vl5lO8" title="10 Next.js Tips You Might Not Know!" />
-<YoutubeItem channelName="Lee Robinson" channelId="leerob" id="eFzNekhVhmM" title="Building a Linktree Clone! (Next.js, React, Tailwind CSS)" />
-
-:::
+<MyYouTubeItems jsonName="yu-leerob" />
 
 <!-- Lee Robinson -->
 
@@ -725,14 +573,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## basarat
 
-[![basarat](https://yt3.googleusercontent.com/j0VUiDS9sHvY1Btan-yWsVPxg5QweVlIm3z3AiBurwWJBtzttA1OCPzIq5ztGpirvDHyI5CS=s176-c-k-c0x00ffffff-no-rj =x150)][yu-basarat]
-
-::: details 목록
-
-<YoutubeItem channelName="basarat" channelId="basarat" id="CqmmIZYKTqQ" title="React Native Image Component // Tips, Tricks and Gotchas" />
-<YoutubeItem channelName="basarat" channelId="basarat" id="EQsZX-V_q7g" title="`useEffect` // Simplifying the React Component Lifecycle" />
-
-:::
+<MyYouTubeItems jsonName="yu-basarat" />
 
 <!-- basarat -->
 
@@ -1234,6 +1075,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Andreas Kling
+
+<MyYouTubeItems jsonName="yu-awesomekling" />
+
+<!-- Andreas Kling -->
+
+---
+
 ## Theo - t3․gg
 
 <MyYouTubeItems jsonName="yu-t3dotgg" />
@@ -1266,6 +1115,13 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- Josh tried coding -->
 
 ---
+
+
+## 개발자의품격
+
+<MyYouTubeItems jsonName="yu-thegreat-programmers" />
+
+<!-- 개발자의품격 -->
 
 ## The Net Ninja
 
@@ -1355,6 +1211,54 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## CodingPhase
+
+<MyYouTubeItems jsonName="yu-CodingPhase" />
+
+<!-- CodingPhase -->
+
+---
+
+## Remix
+
+<MyYouTubeItems jsonName="yu-Remix-Run" />
+
+<!-- Remix -->
+
+---
+
+## 코딩알려주는누나
+
+<MyYouTubeItems jsonName="yu-user-yu8so2ck1z" />
+
+<!-- 코딩알려주는누나 -->
+
+---
+
+## Cat Technologies
+
+<MyYouTubeItems jsonName="yu-Renewedcart" />
+
+<!-- Cat Technologies -->
+
+---
+
+## Hyperplexed
+
+<MyYouTubeItems jsonName="yu-Hyperplexed" />
+
+<!-- Hyperplexed -->
+
+---
+
+## Rock's Easyweb
+
+<MyYouTubeItems jsonName="yu-ezweb" />
+
+<!-- Rock's Easyweb -->
+
+---
+
 ## Misc
 
 
@@ -1405,7 +1309,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-adam-wathan]: https://www.youtube.com/@AdamWathan
 [yu-react-w-masoud]: https://www.youtube.com/@ProgrammingwithMasoud
 [yu-coding-addict]: https://www.youtube.com/@CodingAddict
-[yu-basarat]: https://www.youtube.com/@basarat
 [yu-code-w-antonio]: https://www.youtube.com/@codewithantonio
 [yu-easy-tutorials]: https://www.youtube.com/@EasyTutorialsVideo
 [yu-coding-garden]: https://www.youtube.com/@CodingGarden

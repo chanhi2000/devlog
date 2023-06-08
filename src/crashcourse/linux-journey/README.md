@@ -57,6 +57,14 @@ color: rgba(24, 188, 156, 0.2)
 
 ### Networking Nomad
 
+- [Network Sharing][03a-network-sharing]
+- [Network Basics][03a-network-basics]
+- [Subnetting][03a-subnetting]
+- [Routing][03a-routing]
+- [Network Config][03a-network-config]
+- [Troubleshooting][03a-troubleshooting]
+- [DNS][03a-dns]
+
 ### Recommended Resources
 
 [01a-getting-started]: 01-grasshopper/01a-getting-started.md
@@ -75,3 +83,11 @@ color: rgba(24, 188, 156, 0.2)
 [02e-init]: 02-journeyman/02e-init.md
 [02f-process-utilization]: 02-journeyman/02f-process-utilization.md
 [02g-logging]: 02-journeyman/02g-logging.md
+
+[03a-network-sharing]: 03-networking-nomad/03a-network-sharing.md
+[03b-network-basics]: 03-networking-nomad/03b-network-basics.md
+[03c-subnetting]: 03-networking-nomad/03c-subnetting.md
+[03d-routing]: 03-networking-nomad/03d-routing.md
+[03e-network-config]: 03-networking-nomad/03e-network-config.md
+[03f-troubleshooting]: 03-networking-nomad/03f-troubleshooting.md
+[03g-dns]: 03-networking-nomad/03g-dns.md

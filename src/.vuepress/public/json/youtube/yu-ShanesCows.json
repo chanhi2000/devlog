@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "ShanesCows",
+    "name": "Shane Young",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOo2TSYIGTjLT-dWOIHbabi4BoU3lwT39V0hCQa=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "WlWT0lWTGU8",
+      "title": "Validate Inputs, Warn Users, and Disable Buttons in Power Apps"
+    }, {
+      "id": "KD_FnyqH3Lo",
+      "title": "Turn Excel into an App with Copilot Magic"
+    }, {
+      "id": "8Sdx7baJEuU",
+      "title": "PowerApps Component Libraries - Share and reuse across the org"
+    }, {
+      "id": "BPmCW1uXh38",
+      "title": "PowerShell for PowerApps and Flow"
+    }, {
+      "id": "YgWT9mJKEzk",
+      "title": "Introduction to Microsoft Forms - No more Survey Monkey"
+    }
+  ]
+}

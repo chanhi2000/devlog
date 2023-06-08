@@ -427,14 +427,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-chrome-browser/plugins.md',
       ]
     }, {
-      text: '💬ChatGPT',
+      text: '🎼OpenAI',
       collapsible: true,
       children: [
-        '/g4e/tool-ai-chatgpt/README.md',
-        '/g4e/tool-ai-chatgpt/references.md',
-        '/g4e/tool-ai-chatgpt/youtube.md',
+        '/g4e/ai-openai/README.md',
+        '/g4e/ai-openai/references.md',
+        '/g4e/ai-openai/youtube.md',
       ]
-    },
+    },  
     //endregion
     //region: DB
     {
@@ -659,6 +659,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/19.md',
         '/crashcourse/paul-hudson-100-days-of-swift/20.md',
         '/crashcourse/paul-hudson-100-days-of-swift/21.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/22.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/23.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/24.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -674,7 +677,10 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/7.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/8.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/9.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/10.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/10.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/11.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/12.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/13.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -691,6 +697,23 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-8-in-action/2-1.md',
         '/crashcourse/java-8-in-action/2-2.md',
         '/crashcourse/java-8-in-action/3-1.md',
+      ]
+    }, {
+      text: '☕️Effective Java',
+      collapsible: true,
+      children: [
+        '/crashcourse/effective-java/README.md',
+        '/crashcourse/effective-java/01-creating-and-destroying-objects.md',
+        '/crashcourse/effective-java/02-methods-common-to-all-objects.md',
+        '/crashcourse/effective-java/03-classes-and-interfaces.md',
+        '/crashcourse/effective-java/04-generics.md',
+        '/crashcourse/effective-java/05-enums-and-annotations.md',
+        '/crashcourse/effective-java/06-lambda-and-stream.md',
+        '/crashcourse/effective-java/07-methods.md',
+        '/crashcourse/effective-java/08-general-programming.md',
+        '/crashcourse/effective-java/09-exceptions.md',
+        '/crashcourse/effective-java/10-concurrency.md',
+        '/crashcourse/effective-java/11-serialization.md'
       ]
     }, {
       text: '🅺Kodeco - Android & Kotlin',
@@ -742,7 +765,14 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/linux-journey/02-journeyman/02d-kernel.md',
         '/crashcourse/linux-journey/02-journeyman/02e-init.md',
         '/crashcourse/linux-journey/02-journeyman/02f-process-utilization.md',
-        '/crashcourse/linux-journey/02-journeyman/02g-logging.md'
+        '/crashcourse/linux-journey/02-journeyman/02g-logging.md',
+        '/crashcourse/linux-journey/03-networking-nomad/03a-network-sharing.md',
+        '/crashcourse/linux-journey/03-networking-nomad/03b-network-basics.md',
+        '/crashcourse/linux-journey/03-networking-nomad/03c-subnetting.md',
+        '/crashcourse/linux-journey/03-networking-nomad/03d-routing.md',
+        '/crashcourse/linux-journey/03-networking-nomad/03e-network-config.md',
+        '/crashcourse/linux-journey/03-networking-nomad/03f-troubleshooting.md',
+        '/crashcourse/linux-journey/03-networking-nomad/03g-dns.md'
       ]
     }, {
       text: '🦀Rust to Assembly',

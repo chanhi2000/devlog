@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "LowLevelLearning",
+    "name": "Low Level Learning",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOXGrg5H7na1PKh1MfeXjItsJnaIgIZ5BcyrXm6=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "8kzuhMYM--Y",
+      "title": "You Can Learn Assembly in 60 Seconds (its easy) #shorts"
+    }, {
+      "id": "11raTwzQVn4",
+      "title": "Why Rust is Being Used for Evil"
+    }, {
+      "id": "ZG9DUQ0s0QU",
+      "title": "I Ran an Experiment to see if GPT-4 Can Hack (mistake)"
+    }, {
+      "id": "vhyettT7sdA",
+      "title": "everyone can learn assembly QUICKLY using this technique (arm64 breakdown)"
+    }
+  ]
+}

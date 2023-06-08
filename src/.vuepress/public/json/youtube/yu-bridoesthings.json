@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "bridoesthings",
+    "name": "bri does things",
+    "profile": "imgUrl"
+  },
+  "videos": [
+    {
+      "id": "bbnKz9KH3Yc",
+      "title": "5 Amazing Ways I use Notion Ai to Save HOURS of Time"
+    }, {
+      "id": "5bVBBLKPRqI",
+      "title": "7 way ChatGPT's web browsing can help you learn better"
+    }
+  ]
+}

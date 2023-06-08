@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "esri_arcgis",
+    "name": "ArcGIS",
+    "profile": "https://yt3.googleusercontent.com/MStpBGBuwpJyzfFFS6wT8HsVQszAmttXc4Q6WdpfoT6H7djhhetGeEUiC8F2hYadYpmJ8LYcNw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "rEBm1Zp2DhM",
+      "title": "How to Use IFrames in ArcGIS Hub"
+    }
+  ]
+}
+

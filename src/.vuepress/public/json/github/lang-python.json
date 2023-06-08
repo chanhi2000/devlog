@@ -1608,5 +1608,15 @@
     "desc": "It's React, but in Python",
     "topics": ["react", "javascript", "python", "reactpy"],
     "officialSite": "https://reactpy.dev"
+  }, {
+    "repo": "billxbf/ReWOO",
+    "desc": "Decoupling Reasoning from Observations for Efficient Augmented Language Models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "fiatrete/OpenDAN-Personal-AI-OS",
+    "desc": "OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.",
+    "topics": ["agent", "ai", "os", "openai", "llm", "autogpt"],
+    "officialSite": "https://opendan.ai"
   }
 ]

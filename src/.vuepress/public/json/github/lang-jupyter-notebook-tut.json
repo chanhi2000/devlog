@@ -24,6 +24,11 @@
     "desc": "Free MLOps course from DataTalks.Club",
     "topics": ["machine-learning", "model-deployment", "mlops", "model-monitoring", "workflow-orchestration"],
     "officialSite": ""
+  }, {
+    "repo": "microsoft/AI-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, AI for All!",
+    "topics": ["nlp", "machine-learning", "ai", "computer-vision", "deep-learning", "cnn", "artificial-intelligence", "gan", "rnn"],
+    "officialSite": "https://microsoft.github.io/AI-For-Beginners"
   }
 ]
 

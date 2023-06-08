@@ -607,6 +607,21 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## Code Pro
+
+<MyYouTubeItems jsonName="yu-CodePro" />
+
+<!-- Code Pro -->
+
+---
+
+## iOS eTutorials
+
+<MyYouTubeItems jsonName="yu-iOSeTutorials" />
+
+<!-- iOS eTutorials -->
+
+
 ## Misc
 
 <!-- [Learn to Code with Karoly Nyisztor][yu-learn-to-code-w-karoly-nyisztor] -->

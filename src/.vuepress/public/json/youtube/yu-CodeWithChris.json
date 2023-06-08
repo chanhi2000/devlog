@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "i0QUj2AtiYM",
+      "title": "Completing the Game - The Tic-Tc-Toe App (Lesson 8)"
+    }, {
       "id": "KuJ_DOj-e0M", 
       "title": "Code Refactoring - The Tic-Tac-Toe App (Lesson 6)"
     }, {
@@ -65,3 +68,4 @@
     }    
   ]
 }
+ 

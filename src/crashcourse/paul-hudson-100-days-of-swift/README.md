@@ -107,7 +107,7 @@ Now that you’ve mastered the basics of Swift, in these days you’ll start bui
 - [Day 21][day-21] – Project 2, part three
 - [Day 22][day-22] – Project 3
 
-### Day 23: Consolidation II
+### ✅Day 23: Consolidation II
 
 In the last few days we covered some of the fundamentals of iOS development, and before we move on to the next set of projects it’s important to take a step back and review what you’ve learned.
 
@@ -117,7 +117,7 @@ In the last few days we covered some of the fundamentals of iOS development, and
 
 The next three projects we’re looking at will push your iOS skills further as you create some user interface in code, manage table views more carefully, and get some experience with closures.
 
-- [Day 24][day-24] – Project 4, part one
+- [Day 24][day-24] – ✅Project 4, part one
 - [Day 25][day-25] – Project 4, part two
 - [Day 26][day-26] – Project 4, part three
 - [Day 27][day-27] – Project 5, part one
@@ -312,8 +312,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-20]: 20.md
 [day-21]: 21.md
 [day-22]: 22.md
-[day-23]: https://www.hackingwithswift.com/100/23
-[day-24]: https://www.hackingwithswift.com/100/24
+[day-23]: 23.md
+[day-24]: 24.md
 [day-25]: https://www.hackingwithswift.com/100/25
 [day-26]: https://www.hackingwithswift.com/100/26
 [day-27]: https://www.hackingwithswift.com/100/27

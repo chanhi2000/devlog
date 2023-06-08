@@ -734,5 +734,10 @@
     "desc": "The browserless Chrome service in Docker. Run on our cloud, or bring your own.",
     "topics": ["docker", "chrome", "headless", "devtools", "headless-chrome", "puppeteer", "browserless"],
     "officialSite": "https://browserless.io"
+  }, {
+    "repo": "huggingface/chat-ui",
+    "desc": "Open source codebase powering the HuggingChat app",
+    "topics": ["huggingface", "sveltekit", "chatgpt"],
+    "officialSite": "https://huggingface.co/chat"
   }
 ]

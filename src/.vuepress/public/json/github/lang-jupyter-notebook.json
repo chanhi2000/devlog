@@ -224,5 +224,10 @@
     "desc": "Best Stable Diffusion and AI Tutorials, Guides, News, Tips and Tricks",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "zsylvester/segmenteverygrain",
+    "desc": "A SAM-based model for instance segmentation of images of grains",
+    "topics": [],
+    "officialSite": ""
   }
 ] 

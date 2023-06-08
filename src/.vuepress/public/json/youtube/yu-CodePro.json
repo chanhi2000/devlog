@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "CodePro",
+    "name": "Code Pro",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOF3DHW77ZV7dm9vOGAms4tLduIp23ZXzmWxMHRrg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "fR9QR-WSNK0",
+      "title": "Swift iOS Unit Testing Tutorial"
+    }, {
+      "id": "yMkFlzTNMRA",
+      "title": "iOS User Defaults Tutorial"
+    }
+  ]
+}
+

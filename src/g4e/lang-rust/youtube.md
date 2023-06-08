@@ -134,4 +134,20 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Low Level Learning
+
+<MyYouTubeItems jsonName="yu-LowLevelLearning" />
+
+<!-- Low Level Learning -->
+
+---
+
+## Jon Gjengset
+
+<MyYouTubeItems jsonName="yu-channelId" />
+
+<!-- Jon Gjengset -->
+
+---
+
 <TagLinks />

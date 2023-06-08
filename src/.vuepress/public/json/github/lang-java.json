@@ -284,6 +284,11 @@
     "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
     "topics": ["real-time", "offline", "high-performance", "apache", "data-integration", "sql-engine", "data-pipeline", "etl-framework", "seatunnel"],
     "officialSite": "https://seatunnel.apache.org"
+  }, {
+    "repo": "hncboy/chatgpt-web-java",
+    "desc": "Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。",
+    "topics": ["java", "docker", "chatgpt", "chatgpt-java"],
+    "officialSite": "https://front3.stargpt.top"
   }
 ]
 

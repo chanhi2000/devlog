@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "shanselman",
+    "name": "Scott Hanselman",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOBenwEVG2kdvxnjD4CUODJPyQ32-fN9v4EdlK81qs=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "UnjMs9Th3GY",
+      "title": "What to expect at Microsoft Build"
+    }, {
+      "id": "QKBcHuA3VJE",
+      "title": "How do you use the Command line? PowerShell, cmd, bash? - Computer Stuff They Didn't Teach You #13"
+    }, {
+      "id": "gSMyLMZYjz8",
+      "title": "Basic Text Editing and Hotkeys in VS Code - Computer Stuff They Didn't Teach You #3"
+    }, {
+      "id": "mLfpyuTl9Ww",
+      "title": "Cygwin in Windows Terminal? Linux on Windows? Shells != Consoles != Terminals, WTF M$FT WINDOZE"
+    }, {
+      "id": "WBg9mlpzEYU",
+      "title": "Git 101 Basics - Computer Stuff They Didn't Teach You #4"
+    }, {
+      "id": "deQLPL3IMtA",
+      "title": "LIVE: Upgrading an older .NET SDK to .NET Core and .NET Standard"
+    }, {
+      "id": "j0PPcUUtHlw",
+      "title": "How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead?"
+    }, {
+      "id": "oHhiMf_6exY",
+      "title": "Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!"
+    }
+  ]
+}
+

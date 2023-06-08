@@ -163,31 +163,15 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## STRV
 
-[STRV][yu-strv]
-
-::: details 목록
-
-<YoutubeItem channelName="STRV" channelId="STRVSanFrancisco" id="w4dVp0Yi7is" title="Forms - React Nights 2019 - Week 4" />
-
-:::
+<MyYouTubeItems jsonName="yu-strvcom" />
 
 <!-- STRV -->
-
 
 ---
 
 ## Esri Events
 
-[Esri Events][yu-esri-event]
-
-::: details 목록
-
-<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="0YJ5kEFkIKE" title="ArcGIS Runtime SDK for Qt: Building Apps" />
-<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="bLUwuK5ZpHM" title="ArcGIS Runtime SDK for Java: Building Apps" />
-<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="TgkICf171jw" title="ArcGIS Runtime SDK for Android: Building Apps" />
-<YoutubeItem channelName="Esri Events" channelId="EsriEvents" id="9XWvvfRqPOU" title="ArcGIS Runtime SDK for iOS: Building Apps" />
-
-:::
+<MyYouTubeItems jsonName="yu-EsriEvents" />
 
 <!-- Esri Events -->
 
@@ -195,13 +179,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## ArcGIS
 
-[ArcGIS][yu-arcgis]
-
-::: details 목록
-
-<YoutubeItem channelName="ArcGIS" channelId="arcgis5980" id="rEBm1Zp2DhM" title="How to Use IFrames in ArcGIS Hub" />
-
-:::
+<MyYouTubeItems jsonName="yu-esri_arcgis" />
 
 <!-- ArcGIS -->
 
@@ -222,25 +200,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 ---
 ## NGINX 
 
-[NGINX][yu-nginx]
-
-::: details 목록
-
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="ZmyGJnAEDqI" title="Migrate Workloads with F5 NGINXaaS for Azure" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="C5kMgshNc6g" title="Learn Proper NGINX Configuration Context Logic" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="Q2iGx3iW-Mg" title="Install Kubernetes Ingress Controller with NGINX Plus" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="Vbd0GCpktZU" title="API Autopsies Episode 4: Security | ShowCode Series" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="tvSOwMJVwCc" title="Improve App Resiliency with F5 DNS Cloud Services" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="hzBwITaPMuM" title="Introduction to Language Modules in NGINX Unit" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="eEwjaiixSeQ" title="Explore the Config API and Unit Components" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="voEn_eprn_U" title="A Guide to Adopting Kubernetes" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="xTDcZNPPzXk" title="Fun ways to Script NGINX using NJS (NGINX Javascript Module)" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="w8WqE0LgQBU" title="A Deeper Dive into WebAssembly, the New Executable Format for the Web" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="ZQ4vKjlanaw" title="Securing Your Apps and APIs in the Cloud | NGINX Virtual Event" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="AXZr2OC8Unc" title="Using NGINX as a Kubernetes Ingress Controller" />
-<YoutubeItem channelName="NGINX" channelId="nginx_official" id="L7uvDF1EruI" title="NGINX Unit: From Zero to Lift Off" />
-
-:::
+<MyYouTubeItems jsonName="yu-nginx_official" />
 
 <!-- NGINX -->
 
@@ -248,13 +208,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Unity
 
-[Unity][yu-unity]
-
-::: details 목록
-
-<YoutubeItem channelName="Unity" channelId="unity" id="9uEZdiBn0ss" title="Inserting AR directly into a native mobile app | IKEA - Unite Copenhagen 2019" />
-
-:::
+<MyYouTubeItems jsonName="yu-unity" />
 
 <!-- Unity -->
 
@@ -286,13 +240,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ## Microsoft Ignite
 
-[Microsoft Ignite][yu-microsoft-ignite]
-
-::: details 목록
-
-<YoutubeItem channelName="Microsoft Ignite" channelId="MicrosoftIgnite" id="TUxEQKYv0oU" title="PowerApps: Build a full business&nbsp;app in 10 minutes - THR2072" />
-
-:::
+<MyYouTubeItems jsonName="yu-MicrosoftIgnite" />
 
 <!-- Microsoft Ignite -->
 
@@ -633,22 +581,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 <TagLinks />
 
-[yu-android-developers]: https://www.youtube.com/@AndroidDevelopers
-[yu-android-makers]: https://www.youtube.com/@DroidconParis
-[yu-gradle]: https://www.youtube.com/@GradleInc
 [yu-ibm-technology]: https://www.youtube.com/@IBMTechnology
-[yu-spring-io-conference]: https://www.youtube.com/@SpringIOConference
-[yu-spring-developer]: https://www.youtube.com/@SpringSourceDev
-[yu-vaadinofficial]: https://www.youtube.com/@vaadinofficial
-[yu-v-jug]: https://www.youtube.com/@virtualJUG
-[yu-redis]: https://www.youtube.com/@Redisinc
-[yu-strv]: https://www.youtube.com/@STRVSanFrancisco
-[yu-esri-event]: https://www.youtube.com/@EsriEvents
-[yu-arcgis]: https://www.youtube.com/@arcgis5980
-[yu-cncf]: https://www.youtube.com/@cncf
-[yu-snyk]: https://www.youtube.com/@Snyksec
-[yu-nginx]: https://www.youtube.com/@nginx_official
-[yu-unity]: https://www.youtube.com/@unity
 [yu-code-on-the-beach]: https://www.youtube.com/@codeonthebeach
 [yu-microsoft-developer]: https://www.youtube.com/@MicrosoftDeveloper
 [yu-visualstudio]: https://www.youtube.com/@visualstudio

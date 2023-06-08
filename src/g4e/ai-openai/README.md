@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
 title: Intro
-description: 💬ChatGPT
-category: 💬ChatGPT
+description: 🎼OpenAI
+category: 🎼OpenAI
 ---
 
 # {{ $frontmatter.description }} 관련

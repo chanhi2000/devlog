@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 💬ChatGPT > 📚References
-category: 💬ChatGPT
+description: 🎼OpenAI > 📚References
+category: 🎼OpenAI
 tags: ["openai" , "chatgpt", "chat", "llm"]
 ---
 
@@ -20,11 +20,22 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Medium
+
+- [How to Use the Most Essential ChatGPT Plugins](https://pub.towardsai.net/the-most-essential-chatgpt-plugins-1fbf0f40d6e5)
+
+---
+
 ## 궁금증 연구소
 
 - [chatGPT 활용팁](https://zorba10004.tistory.com/m/391)
 
 ---
+
+## Simon William 
+
+- [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers)
+
 
 ## KDNuggets
 

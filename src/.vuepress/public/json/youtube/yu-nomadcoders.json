@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "nomadcoders",
+    "name": "노마드 코더 Nomad Coders",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOX4s2n1ALc9YR0lR7DAnrazcZNkMoUN1yTNRuCpg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "DjfpcmK62ew",
+      "title": "NPM Hack that every programmer should know"
+    }, {
+      "id": "XCAwSBdeejU",
+      "title": "Build a Website Powered by Notion"
+    }, {
+      "id": "kkiLBF_YerM",
+      "title": "The Most Mind Blowing Features Coming to CSS"
+    }, {
+      "id": "o7FkmtqIYOE",
+      "title": "Building Real-time Serverless App with AWS Amplify"
+    }, {
+      "id": "5EhsjtBE7I4",
+      "title": "WebRTC & WebSockets Explained in 5min!"
+    }, {
+      "id": "B26yiuC5zPM",
+      "title": "M1 Max MacBook Pro Developer Setup"
+    }, {
+      "id": "lkTpOHv1Ros",
+      "title": "5 New Mind-Blowing CSS Features!"
+    }, {
+      "id": "63bdCwJmRP4",
+      "title": "Making A Crypto Trading Bot"
+    }, {
+      "id": "u3Ph_M2bySg",
+      "title": "39 FREE Tools For Your Online Business"
+    }, {
+      "id": "Q2PCO0mKEaU",
+      "title": "Replace Powerpoint with This!"
+    }, {
+      "id": "QJSLtK2bY_A",
+      "title": "요즘 완전 대세! 크롬 확장앱 만들기. 5분컷."
+    }, {
+      "id": "eSj25owrmTM",
+      "title": "This API is finally here !"
+    }, {
+      "id": "ObT87Xu_CO0",
+      "title": "모르면 손해? 엄청난 웹 API가 나타났다!"
+    }
+  ]
+}
+
+

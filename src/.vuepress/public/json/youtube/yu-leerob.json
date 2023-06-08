@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "leerob",
+    "name": "Lee Robinson",
+    "profile": "https://yt3.googleusercontent.com/WfEqekfCKp7ZOAuFAOY6mJ6mM9vyfZsSJOVgNTkON4iCZ7k5GdfEmnzvO4OBlaO8m4_oJbsu-Q=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Pd2tVxhFnO4",
+      "title": "Using Docker with Next.js (and Deploying with Google Cloud Run)"
+    }, {
+      "id": "R59e1Vl5lO8",
+      "title": "10 Next.js Tips You Might Not Know!"
+    }, {
+      "id": "eFzNekhVhmM",
+      "title": "Building a Linktree Clone! (Next.js, React, Tailwind CSS)"
+    }
+  ]
+}

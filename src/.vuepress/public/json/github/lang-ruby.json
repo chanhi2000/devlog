@@ -14,5 +14,10 @@
     "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
     "topics": ["javascript;heroku;rails;sass;docker;design;zendesk;vuejs;opensource;dashboard;docker-image;customer-support;conversation;whatsapp;intercom;actioncable;livechat;drift;chat-widget"],
     "officialSite": "https://www.chatwoot.com/help-center"
+  }, {
+    "repo": "apple/homebrew-apple",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

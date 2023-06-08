@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "basarat",
+    "name": "basarat",
+    "profile": "https://yt3.googleusercontent.com/j0VUiDS9sHvY1Btan-yWsVPxg5QweVlIm3z3AiBurwWJBtzttA1OCPzIq5ztGpirvDHyI5CS=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "q0ZkTVj6gQM",
+      "title": "Getting Setup for JavaScript Development"
+    }, {
+      "id": "ZdDTDTwrzHQ",
+      "title": "Your env handling is wrong in TypeScript"
+    }, {
+      "id": "CqmmIZYKTqQ",
+      "title": "React Native Image Component // Tips, Tricks and Gotchas"
+    }, {
+      "id": "EQsZX-V_q7g",
+      "title": "`useEffect` // Simplifying the React Component Lifecycle"
+    }
+  ]
+}

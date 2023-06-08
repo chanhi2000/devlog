@@ -49,5 +49,15 @@
     "desc": "A collection of New Grad full time roles in SWE, Quant, and PM.",
     "topics": ["university", "position", "jobs", "applications", "college", "hacktoberfest", "posting", "fulltime", "newgrad", "coderquad"],
     "officialSite": ""
+  }, {
+    "repo": "AlanChen4/Summer-2024-SWE-Internships",
+    "desc": "A list of Summer 2024 internships for software engineering, updated automatically everyday",
+    "topics": ["internship", "university", "jobs", "software-engineering", "internships", "recruiting", "swe-internships"],
+    "officialSite": "https://carbos.vercel.app"
+  }, {
+    "repo": "ReaVNaiL/New-Grad-2024",
+    "desc": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024!",
+    "topics": ["university", "jobs", "interview-preparation", "fulltime", "newgrad"],
+    "officialSite": ""
   }
 ]

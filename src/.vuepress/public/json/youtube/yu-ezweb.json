@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "ezweb",
+    "name": "Rock's Easyweb",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP1YxInTg_Kw4pBwfKmNRCX8uWVnQyxgLyjRbpegA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "29UZkxe3nZU",
+      "title": "HTML5 - inert 속성 활용하기, 요소의 기본 기능을 비활성화, 서랍메뉴 활용"
+    }, {
+      "id": "jnXX7CCJqhg",
+      "title": "CSS3 - 123 [youtube iframe] iframe 유튜브영상 반응형 구현하기"
+    }, {
+      "id": "HO_jRQZ2WQc",
+      "title": "03. 2GIS API. Places API,  Geocoder API, Cluster layer"
+    }, {
+      "id": "Hvif9AA07wg",
+      "title": "react-34[ 생활코딩#23] - 컴포넌트의 생명주기"
+    }, {
+      "id": "v5L1AOQsJuo",
+      "title": "react-30[리액트 프로젝트#20] - 기본 기능앱 완결본"
+    }, {
+      "id": "_tx6lLKq1kY",
+      "title": "react-12 리액트 프로젝트#2 - 앱 빌드하기, 컴포넌트 생성 vs code 확장 프로그램"
+    }, {
+      "id": "oBdtvcwYQVE",
+      "title": "react #4  리액트로 구현하는 hangman game,컴포넌트, 속성으로 값 전달하기, 요소 랜더링, 글자판 생성"
+    }, {
+      "id": "6FCsDwwMRg4",
+      "title": "HTML5 - N09 - Back to Basic -  HTML 9화 - 그룹화, 섹셔닝, role 속성의 사용법"
+    }, {
+      "id": "CJspbWQ2bsk",
+      "title": "PSD to HTML 183 [ BINO #9 ] css 자간, 행간 포토샵에서 정확하게 확인하기"
+    }
+  ]
+}

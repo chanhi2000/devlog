@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "thenewboston",
+    "name": "thenewboston",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMaD980mjhug5lAdmvJtuk4Mmrt3vtE2LMn7O9qBA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "YLC1hnqSluM",
+      "title": "Pro Django - Tutorial 8 - GitHub Actions and Workflows"
+    }, {
+      "id": "zCz6xEFqOXE",
+      "title": "Pro Django - Tutorial 9 - CI/CD"
+    }, {
+      "id": "hqYUAVobDJA",
+      "title": "Pro Django - Tutorial 7 - pytest"
+    }, {
+      "id": "2KAP10kJ-wo",
+      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 14 - Gradle for Building Docker Images and Boot JARs"
+    }, {
+      "id": "Ykq9LAzNxTE",
+      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 13 - REST APIs with RestTemplate &amp; Dependency Injection"
+    }, {
+      "id": "jiv37i503v4",
+      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 8 - GET Single Bank"
+    }, {
+      "id": "2e72RHO8ORk",
+      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 7 - Web Layer"
+    }, {
+      "id": "MBBWVgE0ewk",
+      "title": "Windows Command Line Tutorial - 1 - Introduction to the Command Prompt"
+    }
+  ]
+}

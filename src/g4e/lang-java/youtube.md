@@ -401,6 +401,7 @@ meta:
 
 ::: details 목록
 
+<YoutubeItem channelId="DanVega" channelName="Dan Vega" id="bxK4GscuVgs" title="Java 17 🤝&nbsp;AWS Lambda: Creating Serverless Functions in Java &amp; Spring with Java 17" />
 <YoutubeItem channelName="Dan Vega" channelId="DanVega" id="TR254zh-f3c" title="Spring Boot 3 - What’s new in Spring Framework 6 and Spring Boot 3.0" />
 <YoutubeItem channelName="Dan Vega" channelId="DanVega" id="KYNR5js2cXE" title="Spring Security JWT: How to secure your Spring Boot REST APIs with JSON Web Tokens" />
 <YoutubeItem channelName="Dan Vega" channelId="DanVega" id="_Gdb-jK3Sr4" title="Spring Boot Docker and PostgreSQL" />
@@ -446,51 +447,11 @@ meta:
 
 ## 이백행
 
-[이백행][yu-user-ej5rc3gi3p]
-
-::: details 목록
-
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="wRVe294rZEY" title="WebLogDAO.java list 를 selectList 로 변경" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="FfBBs3UlS6U" title="EgovSignupController.java 사용되지 않는 변수 제거" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="RnHsxfBCJ70" title="EgovFileSysMntrngServiceImpl.java 에서 java.nio.file.FileStore#getUsableSpace() 사용함" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="8mp2ajqyrVE" title="TestCopyDate.java 에서 Date.setYear 를 Calendar.set 으로 대체" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="93sxPZyr4fY" title="녹화 2023 05 05 23 03 34 75" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="W2hms-Tgk1w" title="EgovDataCryptoTest.java 외 사용하지 않는 import 제거" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="oXewk2qshdo" title="HTMLTagFilterTest.java assertThat 을 assertEquals 로 수정함" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="mrspPUecagQ" title="EgovUtlJsonController.java HashMap K,V 매개 변수화함" />
-
-
-:::
+<MyYouTubeItems jsonName="yu-user-ej5rc3gi3p" />
 
 <!-- 이백행 -->
 
 ---
-
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="raGXrQ5XNv4" title="배경지도 API 1.0 레퍼런스" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="3FQOetCMRF4" title="전자정부 표준프레임워크 개발환경 4.0.0을 설치한다." />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="Xl4kCcRm-9M" title="mybatis interceptor" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="NWniW9mP7BI" title="Code Generation 코드 생성 - GodTestV1 리팩토링" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="elZJ49pb2io" title="EgovTestV1" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="TLKt-iYOnDc" title="FileManageDAO '파일에 대한 목록을 조회한다.' 단위 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="9-cSqPFcfd8" title="AllTablesMapperTest_selectList 리팩토링" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="6ruf_vihG8s" title="JDBC를 사용하여 데이터베이스 메타 데이터 추출" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="oFW4OtON8RI" title="AllTablesMapperTest_selectList" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="h-nW7UJc6DE" title="ComponentScanTest" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="YVXnL-1lgaI" title="Tomcat Connectors 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="wMXQkQT9K94" title="권한 롤 관계정보를 화면에 조회하여 데이터베이스에서 삭제' Service 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="Q_CAFxSkmtM" title="'발송메일을 상세 조회한다.' Service 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="HnnVtteYnAE" title="인증된 사용자객체를 VO형식으로 가져온다. Service test" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="OOf27kyYgc4" title="LoginDAO '비밀번호를 찾는다.' 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="gkunaEYML50" title="일반회원 save entity to dto MapStruct" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="4Dz33iSI-SA" title="MultipartHttpServletRequest cast" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="AvJ4gv5jJJ8" title="일반회원 서비스 페이징" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="blW2kwC5SJQ" title="JpaSpecificationExecutor Page[T] findAll(@Nullable Specificatio([T] spec, Pageable pageable);" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="_2PsFMXOWU0" title="AuthorManageDAO '권한을 등록한다.' 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="RAnlsDcOLes" title="쿠팡 API 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="aCJC-wy1nj8" title="Auditing 테스트" />
-<YoutubeItem channelName="이백행" channelId="user-ej5rc3gi3p" id="XSK7F1UJlYg" title="JpaRepository getOne 테스트" />
-
-
 ## tookootek
 
 [tookootek][yu-tookootek]
@@ -925,6 +886,16 @@ meta:
 <MyYouTubeItems jsonName="yu-SiliconBrighton" />
 
 <!-- Silicon Brighton -->
+
+---
+
+## Trustin Lee
+
+<MyYouTubeItems jsonName="yu-trustinlee" />
+
+<!-- Trustin Lee -->
+
+---
 
 ## Misc
 

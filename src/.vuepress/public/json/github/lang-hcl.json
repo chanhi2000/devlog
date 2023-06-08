@@ -4,5 +4,10 @@
     "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦",
     "topics": ["kubernetes", "aws", "terraform", "terraform-module", "aws-eks", "eks", "elastic-kubernetes-service", "aws-eks-cluster"],
     "officialSite": "https://registry.terraform.io/modules/terraform-aws-modules/eks/aws"
+  }, {
+    "repo": "ChristianLempa/boilerplates",
+    "desc": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
+    "topics": ["docker", "kubernetes", "ansible", "vagrant", "packer", "docker-compose", "terraform", "docker-compose-template", "packer-template", "vagrant-template", "ansible-template", "terraform-template", "kubernetes-template"],
+    "officialSite": ""
   }
 ]

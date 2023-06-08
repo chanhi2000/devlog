@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "trustinlee",
+    "name": "Trustin Lee",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM9gwr_NpNs369zbHRyt3zdOqynj_-x_g-va1XYWg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "5UltOhDOjr0",
+      "title": "켠 김에 PR까지 18: JMH 와 async-profiler 로 병목 지점을 찾아 보자!"
+    }, {
+      "id": "9R8Oo0mVAMU",
+      "title": "켠 김에 PR까지 4화: Token Bucket 구현"
+    }, {
+      "id": "qqZnB8gm1W8",
+      "title": "켠 김에 PR까지 6화: Postlight Parser로 웹 문서 본문 추출하기"
+    }
+  ]
+}
+

@@ -1124,5 +1124,10 @@
     "desc": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.",
     "topics": ["decentralized", "self-hosted", "self-hosting", "seccomp", "capnproto", "sandstorm"],
     "officialSite": "https://sandstorm.io"
+  }, {
+    "repo": "ciaochaos/qrbtf",
+    "desc": "An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com",
+    "topics": ["generator", "qrcode", "qr-code", "qr-codes", "qr", "qrcode-generator", "art-qr", "art-qr-code", "art-qrcode"],
+    "officialSite": "https://qrbtf.com"
   }
 ]

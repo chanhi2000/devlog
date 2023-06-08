@@ -88,6 +88,7 @@ export const navbarEn: NavbarConfig = [
       }, {
         text: '🕊️100 Days of Swift',
         children: [
+          /*
           {
             text: 'Intro',
             link: '/crashcourse/paul-hudson-100-days-of-swift/README.md'
@@ -157,6 +158,14 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 22',
             link: '/crashcourse/paul-hudson-100-days-of-swift/22.md'
+          }, {
+            text: 'Day 23',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/23.md'
+          }, 
+          */
+          {
+            text: 'Day 24',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/24.md'
           }
         ]
       }, {
@@ -198,6 +207,12 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 11',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/11.md'
+          }, {
+            text: 'Day 12',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/12.md'
+          }, {
+            text: 'Day 13',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/13.md'
           }
         ],
       }, {

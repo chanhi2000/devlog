@@ -409,5 +409,10 @@
     "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
     "topics": ["go", "golang", "microservices", "grpc", "rpc", "hacktoberfest", "proto", "nanoservices", "giant-robots", "dogs-over-cats"],
     "officialSite": "https://grpc.io"
+  }, {
+    "repo": "golang-migrate/migrate",
+    "desc": "Database migrations. CLI and Golang library.",
+    "topics": ["mysql", "go", "golang", "postgres", "sql", "database", "cassandra", "mongodb", "neo4j", "migrations", "sqlite", "aws-s3", "google-cloud-storage", "databases", "migration", "mariadb", "hacktoberfest", "spanner", "google-cloud-spanner"],
+    "officialSite": ""
   }
 ]

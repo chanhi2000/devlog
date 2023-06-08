@@ -324,5 +324,15 @@
     "desc": "TrinityCore Open Source MMO Framework (master = 10.1.0.49801, 3.3.5 = 3.3.5a.12340)",
     "topics": ["linux", "multi-platform", "wow", "multiplayer", "mmorpg", "trinitycore", "hacktoberfest"],
     "officialSite": "http://www.trinitycore.org"
+  }, {
+    "repo": "SwagSoftware/Kisak-Strike",
+    "desc": "100% Open Source CSGO",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "SynthstromAudible/DelugeFirmware",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

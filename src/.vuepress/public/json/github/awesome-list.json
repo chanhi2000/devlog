@@ -449,5 +449,15 @@
     "desc": "📚 Freely available programming books",
     "topics": ["education", "list", "books", "resource", "hacktoberfest"],
     "officialSite": "https://ebookfoundation.github.io/free-programming-books"
+  }, {
+    "repo": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "desc": "A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI",
+    "topics": ["python", "data-science", "machine-learning", "natural-language-processing", "statistics", "computer-vision", "deep-learning", "datastructures", "numpy", "scikit-learn", "pandas", "data-visualization", "pytorch", "data-engineering", "matplotlib", "tableau", "data-structures-and-algorithms", "mlops", "data-system-design"],
+    "officialSite": "https://www.himanshuramchandani.co"
+  }, {
+    "repo": "ryanburgess/engineer-manager",
+    "desc": "A list of engineering manager resource links.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

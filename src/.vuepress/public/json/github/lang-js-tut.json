@@ -94,5 +94,10 @@
     "desc": "What's your favorite JavaScript single LOC (line of code)?",
     "topics": ["javascript", "tips-and-tricks", "javascript-utils", "one-liner", "eleventy", "js-tips", "one-line-code"],
     "officialSite": "https://1loc.dev"
+  }, {
+    "repo": "jonasschmedtmann/ultimate-react-course",
+    "desc": "Starter files, final projects, and FAQ for my Ultimate React course",
+    "topics": ["udemy", "starter-code", "react-course"],
+    "officialSite": ""
   }
 ]

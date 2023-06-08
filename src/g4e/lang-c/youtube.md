@@ -137,6 +137,14 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 
 ---
 
+## The Cherno
+
+<MyYouTubeItems jsonName="yu-TheCherno" />
+
+<!-- The Cherno -->
+
+---
+
 ## Tsoding Daily
 
 <MyYouTubeItems jsonName="yu-TsodingDaily" />

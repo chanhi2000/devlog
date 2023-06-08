@@ -1,0 +1,50 @@
+{
+  "channel": {
+    "id": "nginx_official",
+    "name": "NGINX",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNprreqJR9MVCzUNsaUxwBjxRZRlbW30D4Q8W-LeQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "ZmyGJnAEDqI",
+      "title": "Migrate Workloads with F5 NGINXaaS for Azure"
+    }, {
+      "id": "C5kMgshNc6g",
+      "title": "Learn Proper NGINX Configuration Context Logic"
+    }, {
+      "id": "Q2iGx3iW-Mg",
+      "title": "Install Kubernetes Ingress Controller with NGINX Plus"
+    }, {
+      "id": "Vbd0GCpktZU",
+      "title": "API Autopsies Episode 4: Security | ShowCode Series"
+    }, {
+      "id": "tvSOwMJVwCc",
+      "title": "Improve App Resiliency with F5 DNS Cloud Services"
+    }, {
+      "id": "hzBwITaPMuM",
+      "title": "Introduction to Language Modules in NGINX Unit"
+    }, {
+      "id": "eEwjaiixSeQ",
+      "title": "Explore the Config API and Unit Components"
+    }, {
+      "id": "voEn_eprn_U",
+      "title": "A Guide to Adopting Kubernetes"
+    }, {
+      "id": "xTDcZNPPzXk",
+      "title": "Fun ways to Script NGINX using NJS (NGINX Javascript Module)"
+    }, {
+      "id": "w8WqE0LgQBU",
+      "title": "A Deeper Dive into WebAssembly, the New Executable Format for the Web"
+    }, {
+      "id": "ZQ4vKjlanaw",
+      "title": "Securing Your Apps and APIs in the Cloud | NGINX Virtual Event"
+    }, {
+      "id": "AXZr2OC8Unc",
+      "title": "Using NGINX as a Kubernetes Ingress Controller"
+    }, {
+      "id": "L7uvDF1EruI",
+      "title": "NGINX Unit: From Zero to Lift Off"
+    }
+  ]
+}
+
