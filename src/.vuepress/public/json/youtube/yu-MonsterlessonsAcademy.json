@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "MonsterlessonsAcademy",
+    "name": "Monsterlessons Academy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNGFjRaw8l_JTKwXk3PX6lJu-UMDdBHhbZNzHbY=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "dKKEvtaYf8c",
+      "title": "Learn 5 ways to unsubscribe in Angular to avoid memory leaks."
+    }, {
+      "id": "lI_ReTTUFU0",
+      "title": "How to Build a Quiz With React Hooks - Beginner React Project"
+    }, {
+      "id": "fS38MfVV5SY",
+      "title": "React Redux Hooks - Usedispatch, Useselector"
+    }, {
+      "id": "jZ_tEBmlHiM",
+      "title": "Database in Docker in Seconds - Never Struggle With Databases Again"
+    }
+  ]
+}
+

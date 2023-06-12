@@ -53,4 +53,20 @@ tags: ["youtube", "bash", "linux", "macos", "terminal", "alias", "sh", "vim", "n
 
 ---
 
+## Maas Lalani
+
+<MyYouTubeItems jsonName="yu-maaslalani" />
+
+<!-- Maas Lalani -->
+
+---
+
+## TJ DeVries
+
+<MyYouTubeItems jsonName="yu-teej_dv" />
+
+<!-- TJ DeVries -->
+
+---
+
 <TagLinks />

@@ -150,4 +150,12 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Let's Get Rusty
+
+<MyYouTubeItems jsonName="yu-letsgetrusty" />
+
+<!-- Let's Get Rusty -->
+
+---
+
 <TagLinks />

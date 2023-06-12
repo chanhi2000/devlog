@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "alohaclass8075",
+    "name": "ALOHA CLASS",
+    "profile": "https://yt3.googleusercontent.com/ZqxQ4vK8WUa2P_-QMicW8c5VehlAwXsS2bsqfcTIK7mXc-_gLqYbKaEwD5haUkKROyBdPGn-AA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "68Og2Y4X1Yw",
+      "title": "[LIVE] ALOHA 2023-05-23 DB 03일차 - 오후"
+    }, {
+      "id": "ayFdmtCPA4U",
+      "title": "[LIVE] ALOHA 2023-04-17 자바 수업 1일차 - 오후"
+    }, {
+      "id": "3a2KdMTRgKc",
+      "title": "VSCODE C언어 설치 - C C++ in VS Code"
+    }, {
+      "id": "ZNsEVrE9NW0",
+      "title": "VSCODE SPRING BOOT 개발환경 세팅 - Spring Boot Extension in VS Code"
+    }
+  ]
+}
+

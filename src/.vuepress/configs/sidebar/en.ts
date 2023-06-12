@@ -202,6 +202,16 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-php/youtube.md',
       ]
     }, {
+      text: '💧Elixir',
+      collapsible: true,
+      children: [
+        '/g4e/lang-elixir/README.md',
+        '/g4e/lang-elixir/tips.md',
+        '/g4e/lang-elixir/references.md',
+        '/g4e/lang-elixir/github.md',
+        '/g4e/lang-elixir/youtube.md',
+      ]
+    }, {
       text: '🦕C',
       collapsible: true,
       children: [
@@ -326,6 +336,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/devops-aws/README.md',
         '/g4e/devops-aws/references.md',
+        '/g4e/devops-aws/youtube.md',
       ]
     }, {
       text: '🛡Security',
@@ -670,7 +681,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/23.md',
         '/crashcourse/paul-hudson-100-days-of-swift/24.md',
         '/crashcourse/paul-hudson-100-days-of-swift/25.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/26.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/26.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/27.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -691,7 +703,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/12.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/13.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/14.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/15.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/15.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/16.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -748,6 +761,42 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/freecodecamp-gitlab-ci/3.md',
         '/crashcourse/freecodecamp-gitlab-ci/4.md',
         '/crashcourse/freecodecamp-gitlab-ci/5.md',
+      ]
+    }, {
+      text: '🦀freecodecamp.org - Rust by Practice',
+      collapsible: true,
+      children: [
+        '/crashcourse/freecodecamp-rust-by-practice/README.md',
+        '/crashcourse/freecodecamp-rust-by-practice/01-elegant-code-base.md',
+        '/crashcourse/freecodecamp-rust-by-practice/02-variables.md',
+        '/crashcourse/freecodecamp-rust-by-practice/03-basic-types.md',
+        '/crashcourse/freecodecamp-rust-by-practice/04-ownership.md',
+        '/crashcourse/freecodecamp-rust-by-practice/05-compound-types.md',
+        '/crashcourse/freecodecamp-rust-by-practice/06-flow-contro.md',
+        '/crashcourse/freecodecamp-rust-by-practice/07-pattern-match.md',
+        '/crashcourse/freecodecamp-rust-by-practice/08-method.md',
+        '/crashcourse/freecodecamp-rust-by-practice/09-generics-traits.md',
+        '/crashcourse/freecodecamp-rust-by-practice/10-collections.md',
+        '/crashcourse/freecodecamp-rust-by-practice/11-type-conversions.md',
+        '/crashcourse/freecodecamp-rust-by-practice/12-result-panic.md',
+        '/crashcourse/freecodecamp-rust-by-practice/13-crate-module.md',
+        '/crashcourse/freecodecamp-rust-by-practice/14-comments-docs.md',
+        '/crashcourse/freecodecamp-rust-by-practice/15-formatted-output.md',
+        '/crashcourse/freecodecamp-rust-by-practice/16-lifetime.md',
+        '/crashcourse/freecodecamp-rust-by-practice/17-functional-programing.md',
+        '/crashcourse/freecodecamp-rust-by-practice/18-newtype-sized.md',
+        '/crashcourse/freecodecamp-rust-by-practice/19-smart-pointers.md',
+        '/crashcourse/freecodecamp-rust-by-practice/20-weak.md',
+        '/crashcourse/freecodecamp-rust-by-practice/21-self-referential.md',
+        '/crashcourse/freecodecamp-rust-by-practice/22-threads.md',
+        '/crashcourse/freecodecamp-rust-by-practice/23-global-variables.md',
+        '/crashcourse/freecodecamp-rust-by-practice/24-errors.md',
+        '/crashcourse/freecodecamp-rust-by-practice/25-unsafe.md',
+        '/crashcourse/freecodecamp-rust-by-practice/26-macro.md',
+        '/crashcourse/freecodecamp-rust-by-practice/27-tests.md',
+        '/crashcourse/freecodecamp-rust-by-practice/28-async.md',
+        '/crashcourse/freecodecamp-rust-by-practice/29-std.md',
+        '/crashcourse/freecodecamp-rust-by-practice/30-fight-compiler.md',
       ]
     }, {
       text: '☸DigitalOcean - Kubernetes',

@@ -307,5 +307,15 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 <!-- Learn With Jason -->
 
+---
+
+## LinkedIn Learning
+
+<MyYouTubeItems jsonName="yu-linkedinlearning" />
+
+<!-- LinkedIn Learning -->
+
+---
+
 <TagLinks />
 

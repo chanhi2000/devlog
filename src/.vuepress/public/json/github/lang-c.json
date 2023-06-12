@@ -219,6 +219,11 @@
     "desc": "POsix SERvices framework for C",
     "topics": [],
     "officialSite": "https://zirias.github.io/poser"
+  }, {
+    "repo": "mackyle/sqlite",
+    "desc": "Unofficial git mirror of SQLite sources (see link for build instructions)",
+    "topics": [],
+    "officialSite": "https://repo.or.cz/sqlite.git"
   }
 ]
 

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "CODEMOBILEUK",
+    "name": "CODEMOBILE",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqORsDsGyJvUB9oDCKw8uM-nlm91T3WW2oiW8a7Q=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "vXgOMX7hk9s",
+      "title": "Tim Condon - Getting Started with Server Side Swift and Vapor"
+    }
+  ]
+}

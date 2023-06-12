@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "CodeBucks",
+    "name": "CodeBucks",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO2j1sWZoLVgPq3GQe0_YZnXMAO6K0DC-K2pLvH=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "jcohAIaSy2M",
+      "title": "🔥Build a Stunning Portfolio Website with React JS  gotbletu Framer-motion + Styled-components"
+    }, {
+      "id": "Yw7yWHigGKI",
+      "title": "How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟"
+    }
+  ]
+}
+
+

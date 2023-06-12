@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "headwayio",
+    "name": "Headway",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPe7yiFuraBHw_RFXDYBvRX6vYS8miHZuOHE1ptcQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Qsmfh3GJsg4",
+      "title": "Productivity Tools for Startup Founders - Priority Management and Effectiveness"
+    }, {
+      "id": "eJ6R1knfsoc",
+      "title": "Exploring Advanced TypeScript Concepts - Guards, Utility Functions, and More [Typescript Tutorial]"
+    }
+  ]
+}

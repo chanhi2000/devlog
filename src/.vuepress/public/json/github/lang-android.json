@@ -194,5 +194,10 @@
     "desc": "Calculator and unit converter for Android written in Jetpack Compose",
     "topics": ["android", "kotlin", "calculator", "material-design", "kotlin-android", "jetpack", "product-hunt", "unit-conversion", "unit-converter", "poeditor", "android-app", "kotlin-coroutines", "jetpack-navigation", "jetpack-android", "jetpack-compose", "jetpackcompose", "compose-navigation", "material-you", "material-design-3", "material-you-3"],
     "officialSite": "https://sadellie.github.io/unitto"
+  }, {
+    "repo": "dessalines/jerboa",
+    "desc": "A native android app for Lemmy",
+    "topics": [],
+    "officialSite": ""
   }
 ]

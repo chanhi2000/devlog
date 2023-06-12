@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "java0405",
+    "name": "김기태의 JAVA를 자바",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMh8ogxxf_Q1gazM9FTAxRmL3ABD8ACNtCZWrV9=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "NucbvUu8Ksw",
+      "title": "스레드1"
+    }, {
+      "id": "oHOLCzXCpNU",
+      "title": "스레드2"
+    }, {
+      "id": "qRiUNQgD4s8",
+      "title": "스레드3"
+    }, {
+      "id": "vY3fDgsw7xE",
+      "title": "스레드4"
+    }, {
+      "id": "UxUF_9peVpA",
+      "title": "(2022년 2학기)스프링 부트 쇼핑몰 프로젝트15"
+    }, {
+      "id": "bDERi0U8dXA",
+      "title": "(2022년 2학기)스프링 부트 쇼핑몰 프로젝트16"
+    }, {
+      "id": "DzZc4EQVCeE",
+      "title": "(2022년 2학기)스프링 부트 쇼핑몰 프로젝트17"
+    }, {
+      "id": "IbRKT1D5yV4",
+      "title": "(2022년 2학기)스프링 부트 쇼핑몰 프로젝트20"
+    }, {
+      "id": "GP1sdX81MFc",
+      "title": "(2022년 2학기)스프링 부트 쇼핑몰 프로젝트22"
+    }, {
+      "id": "njCsrBdZqv8",
+      "title": "(2022년 2학기)스프링 부트 쇼핑몰 프로젝트28"
+    }, {
+      "id": "C32n7Do3BdU",
+      "title": "Swing 6주차 4"
+    }, {
+      "id": "P6wOCuoBuO4",
+      "title": "Swing 7주차 3"
+    }, {
+      "id": "oPfZrTfAkE4",
+      "title": "TOC7 JGraphT사용하기(설명)"
+    }, {
+      "id": "FkowGcWHVCw",
+      "title": "TOC8 JGraphT사용하기(오류 수정)" 
+    }
+  ]
+}

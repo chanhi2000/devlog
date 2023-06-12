@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "cbtnuggets",
+    "name": "CBT Nuggets",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOo5g8yDnfOBqBOcZNWKwse18PqfVoaGsO8nwgQSg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "bO7Qh08OCIw",
+      "title": "What is Ansible?"
+    }, {
+      "id": "aJ10nbRoD8Q",
+      "title": "How to Set Up Basic Auth with Postman"
+    }, {
+      "id": "l96vOuIH7DU",
+      "title": "How to Secure Kubernetes GUIs"
+    }
+  ]
+}

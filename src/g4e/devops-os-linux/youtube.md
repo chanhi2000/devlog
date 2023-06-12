@@ -388,6 +388,16 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 <!-- Joseph Delgadillo -->
 
+---
+
+## Gaffclant
+
+<MyYouTubeItems jsonName="yu-gaffclant" />
+
+<!-- Gaffclant -->
+
+---
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech

@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "DM65_JyGxCo",
+      "title": "Docker Compose will BLOW your MIND!! (a tutorial)"
+    }, {
       "id": "uTAaFExLgwQ",
       "title": "the hacker’s roadmap (how to get started in IT in 2023)"
     }, {
@@ -65,4 +68,6 @@
     }
   ]
 }
+
+
 

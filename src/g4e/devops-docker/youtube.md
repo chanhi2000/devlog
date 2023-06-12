@@ -182,6 +182,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## CoderJourney
+
+<MyYouTubeItems jsonName="yu-Coderjourney" />
+
+<!-- CoderJourney -->
+
+---
+
 <TagLinks />
 
 [yu-MarcelDempers]: https://www.youtube.com/@MarcelDempers

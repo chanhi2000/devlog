@@ -1648,5 +1648,15 @@
     "desc": "convert a scikit-learn decision tree into a Keras model",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Luodian/Otter",
+    "desc": "🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.",
+    "topics": ["machine-learning", "deep-learning", "multi-modality", "artificial-inteligence", "gpt-4", "foundation-models", "large-scale-models", "visual-language-learning", "chatgpt", "instruction-tuning"],
+    "officialSite": "https://otter-ntu.github.io"
+  }, {
+    "repo": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "desc": "Voice data <= 10 mins can also be used to train a good VC model!",
+    "topics": ["converter", "conversion", "voice", "audio-analysis", "change", "rvc", "voice-conversion", "retrieve-data", "vc", "conversational-ai", "retrieval-model", "voice-converter", "vits", "voiceconversion", "sovits", "so-vits-svc"],
+    "officialSite": ""
   }
 ]

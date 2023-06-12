@@ -159,5 +159,15 @@
     "desc": "Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.",
     "topics": ["administration", "btrfs"],
     "officialSite": ""
+  }, {
+    "repo": "termux/termux-packages",
+    "desc": "A package build system for Termux.",
+    "topics": ["android", "linux", "packages", "linux-distribution", "termux"], 
+    "officialSite": "https://termux.dev"
+  }, {
+    "repo": "jjcm/nonio",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -26,6 +26,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## justine
+
+- [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting)
+
+---
+
 ## 궁금증 연구소
 
 - [chatGPT 활용팁](https://zorba10004.tistory.com/m/391)

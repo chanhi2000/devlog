@@ -49,22 +49,7 @@ meta:
 
 ## KeepToo
 
-[KeepToo][yu-keep-too]
-
-::: details 목록
-
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="YVXu7tmmQ0M" title="2. BitWarden MacOS Design Concept JavaFX GUI using Scene Builder and IntelliJ" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="Etk9QwXBN2Y" title="JavaFX Virtual Health UI #2" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="Dtp7v3eky20" title="javafx ui - aceinvoice login and sign up ui" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="C0YdOxljm1E" title="javafx ui - keyhub ui inspiration" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="AoKoCv6VtR0" title="javafx ui sample" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="z1_tvNY1dvg" title="Java Swing : School Management System Inspiration" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="3w20lzOHqlw" title="School Management System Redone with JavaFX  DEMO" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="6rLyTUzqscQ" title="JavaFX Animations using AnimateFX" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="1nEluKUOic8" title="Java Netbeans Swing UI Design" />
-<YoutubeItem channelName="KeepToo" channelId="KeepToo" id="HqjeeTMjMTU" title="JavaFX Login Example - Scene builder and Netbeans" />
-
-:::
+<MyYouTubeItems jsonName="yu-KeepToo" />
 
 ---
 
@@ -86,26 +71,7 @@ meta:
 
 ## 김기태의 JAVA를 자바
 
-[김기태의 JAVA를 자바][yu-java0405]
-
-::: details 목록
-
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="NucbvUu8Ksw" title="스레드1" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="oHOLCzXCpNU" title="스레드2" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="qRiUNQgD4s8" title="스레드3" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="vY3fDgsw7xE" title="스레드4" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="UxUF_9peVpA" title="(2022년 2학기)스프링 부트 쇼핑몰 프로젝트15" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="bDERi0U8dXA" title="(2022년 2학기)스프링 부트 쇼핑몰 프로젝트16" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="DzZc4EQVCeE" title="(2022년 2학기)스프링 부트 쇼핑몰 프로젝트17" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="IbRKT1D5yV4" title="(2022년 2학기)스프링 부트 쇼핑몰 프로젝트20" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="GP1sdX81MFc" title="(2022년 2학기)스프링 부트 쇼핑몰 프로젝트22" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="njCsrBdZqv8" title="(2022년 2학기)스프링 부트 쇼핑몰 프로젝트28" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="C32n7Do3BdU" title="Swing 6주차 4" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="P6wOCuoBuO4" title="Swing 7주차 3" />
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="oPfZrTfAkE4" title="TOC7 JGraphT사용하기(설명)" />    
-<YoutubeItem channelName="김기태의 JAVA를 자바" channelId="java0405" id="FkowGcWHVCw" title="TOC8 JGraphT사용하기(오류 수정)" /> 
-
-:::
+<MyYouTubeItems jsonName="yu-java0405" />
 
 <!-- 김기태의 JAVA를 자바 -->
 
@@ -113,129 +79,15 @@ meta:
 
 ## 프리렉
 
-[프리렉][yu-freeleckor]
+<MyYouTubeItems jsonName="yu-freeleckor" />
 
-::: details 자바 웹 개발 워크북
-
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="kUNDBmUfaNw" title="[자바 웹 개발 워크북] #01 0장 - 강의 소개와 실습 준비" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="VuAjzhF4c94" title="[자바 웹 개발 워크북] #02 0장 - JDK 설치" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="UzKTraJBE08" title="[자바 웹 개발 워크북] #03 0장 - Eclipse 설치와 설정" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="1xqkdSV7Cbw" title="[자바 웹 개발 워크북] #04 0장 - 톰캣 서버 설치 및 설정" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="WmBBRn6sjR8" title="[자바 웹 개발 워크북] #05 0장 - Groovy, Gradle 이클립스 플러그인 설치" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="mvspOuyBEj0" title="[자바 웹 개발 워크북] #06 0장 - MySQL 설치" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="S4VmcWEWii8" title="[자바 웹 개발 워크북] #07 0장 - exerd 설치" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="kfHVqPPm4Ms" title="[자바 웹 개발 워크북] #08 0장 - GitHub.com에서 실습 소스 가져오기" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="AIEYjR27ctg" title="[자바 웹 개발 워크북] #09 1장 - 데스크톱 애플리케이션" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="34pnlCYaue8" title="[자바 웹 개발 워크북] #10 1장 - 클라이언트/서버 애플리케이션" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="_8D8SStwByw" title="[자바 웹 개발 워크북] #11 1장 - 다중 클라이언트의 요청 처리" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="DeZhocJ_qig" title="[자바 웹 개발 워크북] #12 1장 - 클라이언트/서버 아키텍처의 진화" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="ZTVdUmOkeYQ" title="[자바 웹 개발 워크북] #13 1장 - 웹 애플리케이션 아키텍처의 특징" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="vZUt7Aujghc" title="[자바 웹 개발 워크북] #14 2장 - HTTP 프로토콜의 이해" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="IbqZ2yTS7JI" title="[자바 웹 개발 워크북] #15 2장 - GET 요청" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="09EsChdayNA" title="[자바 웹 개발 워크북] #16 2장 - POST 요청" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="ezMB5R5AP_4" title="[자바 웹 개발 워크북] #17 2장 - 파일 업로드" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="6lrcczGKeqI" title="[자바 웹 개발 워크북] #18 3장 - CGI 프로그램과 서블릿(3.2절 포함)" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="6hLohARxuXQ" title="[자바 웹 개발 워크북] #19 3장 - 웹 프로젝트 준비(3.4절 포함)" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="LXDoLwjGdf0" title="[자바 웹 개발 워크북] #20 3장 - 웹 애플리케이션 배치" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="kPPbPpGrWH4" title="[자바 웹 개발 워크북] #21 3장 - GenericServlet의 사용" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="zPDCFEVZaCY" title="[자바 웹 개발 워크북] #22 4장 - 특강/JDBC와 데이터베이스" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="T3O5fl_ambs" title="[자바 웹 개발 워크북] #23 4장 - 데이터베이스에서 데이터 가져오기" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="2BrrLx_nbNI" title="[자바 웹 개발 워크북] #24 4장 - HttpServlet으로 GET요청 다루기(4.3, 4.4 포함)" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="F2fEBcTFuCs" title="[자바 웹 개발 워크북] #25 4장 - 리프래시와 리다이렉트(4.6 포함)" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="5edkwDlj_HI" title="[자바 웹 개발 워크북] #26 4장 - 서블릿 초기화 매개변수" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="hl4aaPYuo6I" title="[자바 웹 개발 워크북] #27 4장 - 컨텍스트 초기화 매개변수(4.9 포함)" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="okPkaP1lMYc" title="[자바 웹 개발 워크북] #28 5장 - MVC 이해하기" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="bPxppBrRhBg" title="[자바 웹 개발 워크북] #29 5장 - 뷰 컴포넌트와 JSP" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="pT7vfHmK9DM" title="[자바 웹 개발 워크북] #30 5장 - JSP의 주요 구성 요소" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="PEO5N8D_TRQ" title="[자바 웹 개발 워크북] #31 5장 - 서블릿에서 뷰 분리하기" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="v67_Vt7HAiU" title="05 05" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="oBFRLD17fRo" title="05 06" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="9TIi-KDGnrI" title="05 07" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="wmE3dPWSl6g" title="05 08" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="fAmzILo6M6k" title="06 01" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="y2vwTOnKJd4" title="06 02" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="oS0xC5YOudc" title="06 03" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="uyZlO3cYWCE" title="06 04" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="YvSSfrMhDtw" title="06 05" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="b7g4EqBCWag" title="06 06" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="sqnPMvBztuo" title="07 01" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="YI2Z-1of-rs" title="07 02" />
-<YoutubeItem channelName="프리렉" channelId="freeleckor" id="wMFQcFMt99c" title="08 01" />
-
-:::
+<!-- 프리렉 -->
 
 ---
 
 ## Kenu Heo
 
-[Kenu Heo][yu-kenu-heo]
-
-::: details 목록
-
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="mVBCThRZ0Bo" title="📝 오픈 소스 101 함께 읽기 - 오픈 소스 비즈니스 전략" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="eDiZgRXtqFs" title="📝 오픈 소스 101 함께 읽기 - 오픈 소스 소개" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="JsymTCg_dtc" title="✅ GitHub 기반의 개발 진행상황 관리법" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="QUt-52U9nR4" title="📥슬랙 봇 만들기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="TE6FHGLwpbs" title="📥슬랙으로 알림 받기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="GephfquSBHk" title="(04/04) 선임 개발자와 자율성의 관계" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="TFNZx5pW_t4" title="📊제플린과 DB 연결하기 #mysql #dataviz" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="XLoit2-DPaI" title="🛢CSV 파일 데이터 MySQL DB에 추가하기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="y-GWhTNW3sk" title="📊제플린 쉽게 시작하기 #zeppelin #dataviz" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="_7EP_FYVR-s" title="📊데이터 시각화 플랫폼 제플린 #zeppelin #dataviz" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="N9RZfhLS430" title="🎯QR코드로 출석부 만들기 5 #qr-checkin #oauth2 #google" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="W7a995cKdmg" title="(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은?" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="aEgQtYsjvQQ" title="🎯QR코드로 출석부 만들기 3 #암복호화 #nodejs #crypto" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="qgbxTPMlWIw" title="🗃개발에 필요한 데이터 구하기 #fetch" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="4MZsf171RKk" title="(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="kZJsv5VndIc" title="(03/13) 스프링 네이티브 베타 출시 소식" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="xs7k-eHO81g" title="❄️예제로 맛보는 React.js #flowchart" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="Fknu06X4qV4" title="✍🏼ES6 빠르게 훑어보기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="KrUbBiUgBvc" title="❄️스프링 부트와 React.js #3 조건부 연산" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="fpJqx3j9p98" title="❄️스프링 부트와 React.js  #2-1 Hypermedia 제어" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="hMUJzrxvl8g" title="❄️스프링 부트와 React.js #2-2 트래킹 Hypermedia 제어" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="LAxaEBELods" title="❄️스프링 부트와 React.js  #1-1 스프링 부트 REST Data 기본세팅" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="eJ1Bbu1MKA8" title="🛢RDS 생성하고 외부에서 접속하기 #aws #클라우드" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="cmjVEkIdD3k" title="(02/20) '패배자같은 개발 직무' 탈출법" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="ckOSz7zoSW0" title="⏰비동기 작업 쿨하게 처리하기 #java #future" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="QiKKtuxaXeA" title="🐳 도커 이미지 2개 이상 띄우기 #docker-compose" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="1YpmqJZvGV0" title="🌱스프링 사이트를 로컬에서 실행하기 #sagan #spring-boot-example" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="QeT3YB69OW0" title="🌱스프링 부트와 몽고DB #MongoDB #NoSQL" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="Z2Sw1WiREFw" title="🪄배포 자동화 jenkins docker 2 #앱서버설치" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="Kxvn5BRP79Q" title="🪄배포 자동화 jenkins docker 4 #업데이트배포" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="srXoakJ8Mx0" title="🪄배포 자동화 젠킨스 AWS에서 사용하기 #jenkins" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="A9hyHUnoIfI" title="(02/13) 라인개발자들이 직접 뽑은 인생 책은?" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="CC7qxnLFkeU" title="⏳스프링 부트의 비동기 메소드 만들기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="RwmNNyBHksI" title="도커에서 환경변수 인식하기 #스프링부트 #AWS" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="glfNqZQGlUA" title="프로그램 소스에 비번, API키 등의 하드코딩 피하는 법 #환경변수" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="WVZjzDzXJIM" title="스프링 부트에서 빠르게 AOP 코드 작성하기 #이보다쉬울수없다" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="kUNc2Fm4BKg" title="Redis 연결하기 #스프링부트" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="HXgHgYRr3eY" title="스프링 부트와 Docker" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="gTYw8CZZujE" title="MySQL 8.0 맥에 설치하기 #DBeaver" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="iH2ZuNlrI9o" title="스프링 부트 JPetStore 쇼핑몰 예제의 DB에 접근하기 #DBeaver" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="pz6XBMxs8kE" title="마이바티스 SQL 매퍼 버그 수정하기 #JPetStore #MyBatis" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="nPf1I-1NGZE" title="스프링 부트 쇼핑몰 샘플 #JPetStore" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="aLxnSKOqrDU" title="스프링 부트 폼 데이터 유효성 체크" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="4bjgyPxec4Y" title="스프링 부트 테스트 자동화" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="FIcLCUMvNLU" title="스프링 부트 Actuator; 서비스 운영을 위한 관리 기능" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="8iwNDEXldAk" title="🌱 스프링 부트 웹소켓 #WebSocket" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="AS1GLhhWFLU" title="스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="g20-0VIpmM4" title="자바 코딩 간소화 기능 lombok" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="RHI72s-qPdo" title="스프링 부트 캐쉬 이용하기 #Cache" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="wOk-ZnvM6I4" title="스프링 부트 크로스 도메인 설정 #CORS" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="3Il2u5A1u_Q" title="스프링 부트 DB 트랜잭션" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="uyRIZ93Dx90" title="웹용 스프링 부트 Security 적용하기 #IntelliJ" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="JwrzfuJSfrk" title="스프링 부트에서 빠르게 AOP 코드 작성하기 #IntelliJ" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="kjRpR13_eZo" title="스프링 부트 파일 업로드 하기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="z1rU8ZVjtrE" title="스프링 부트 로그 레벨 조정하기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="NdPVRttDqHU" title="고민 상담 - OO님 비개발자의 CS 복수전공 관련" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="1eDmXjqvMp8" title="[IntelliJ] Spring Boot에서 MySQL 사용하기 #NoSound" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="6LVGwg-pdC0" title="Spring Boot에서 MariaDB(MySQL) 사용하기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="CEtOLCNo6Xw" title="Spring 초간단 DB 사용하기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="d3_qXOdxl1E" title="리액티브 스프링5 따라하기" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="MJpRfcd_tgE" title="✨`프로젝트 개발 - 기1: 기획`" />
-<YoutubeItem channelName="Kenu Heo" channelId="KenuHeo" id="AvWPUaUpLHU" title="💬 트렌드얘기 03/11 ✨`데이터베이스 관리`" />
-
-:::
+<MyYouTubeItems jsonName="yu-KenuHeo" />
 
 <!-- Kenu Heo -->
 
@@ -572,16 +424,7 @@ meta:
 
 ## 전자정부 표준프레임워크 센터
 
-[전자정부 표준프레임워크 센터][yu-user-uc2wv8zw3h]
-
-::: details 목록
-
-<YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="1_X8xRrF7DI" title="[표준프레임워크]강의02.개발환경 소개 및 구현도구, 개인빌드" />
-<YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="khi3V-eVQEg" title="[표준프레임워크]강의08.실행환경 화면처리레이어" />
-<YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="lxAsjeiSeqA" title="[표준프레임워크]강의06.실행환경 데이터처리레이어" />
-<YoutubeItem channelName="전자정부 표준프레임워크 센터" channelId="user-uc2wv8zw3h" id="NWq_0Y8D3BQ" title="[표준프레임워크]강의07.실행환경 배치처리레이어" />
-
-:::
+<MyYouTubeItems jsonName="yu-user-uc2wv8zw3h" />
 
 <!-- 전자정부 표준프레임워크 센터 -->
 
@@ -776,17 +619,7 @@ meta:
 
 ## Genuine Coder
 
-[Genuine Coder][yu-genuine-coder]
-
-::: details 목록
-
-<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="pdRX6CLP0tM" title="JavaFX Background Tasks | How to make your GUI smoother, faster and snappier" />
-<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="aS4a6Gv2B-s" title="Covid-19 Status Desktop Widget | JavaFX Tutorial 4/5 | Finishing the Application Development" />
-<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="SsV29noHQRU" title="JavaFX Library Software From Scratch #1 : Developing UI For Adding Books" />
-<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="qjiIx9OEoz4" title="Covid-19 Status Desktop Widget | JavaFX Tutorial 1/5 | Introduction" />
-<YoutubeItem channelName="Genuine Coder" channelId="GenuineCoder" id="Z1W4E2d4Yxo" title="JavaFX Scene Builder Tutorial for Beginners" />
-
-:::
+<MyYouTubeItems jsonName="yu-GenuineCoder" />
 
 <!-- Genuine Coder -->
 
@@ -794,18 +627,9 @@ meta:
 
 ## Alex Lee
 
-[Alex Lee][yu-alexlorenlee]
-
-::: details 목록
-
-<YoutubeItem channelName="Alex Lee" channelId="alexlorenlee" id="Xk3NuZd_41M" title="Springboard Software Engineering Bootcamp Review - Is It Worth It?" />
-<YoutubeItem channelName="Alex Lee" channelId="alexlorenlee" id="-Aud0cDh-J8" title="Java: Read a CSV File into an Array"/>
-<YoutubeItem channelName="Alex Lee" channelId="alexlorenlee" id="5o3fMLPY7qY" title="Java GUI Tutorial - Make a GUI in 13 Minutes"/>
-
-:::
+<MyYouTubeItems jsonName="yu-alexlorenlee" />
 
 <!-- Alex Lee -->
-
 
 ---
 
@@ -881,6 +705,30 @@ meta:
 
 ---
 
+## Jug Łódź
+
+<MyYouTubeItems jsonName="yu-juglodz" />
+
+<!-- Jug Łódź -->
+
+---
+
+## MVP Java
+
+<MyYouTubeItems jsonName="yu-MVPJava" />
+
+<!-- MVP Java -->
+
+---
+
+## Coding Saint
+
+<MyYouTubeItems jsonName="yu-codingsaint" />
+
+<!-- Coding Saint -->
+
+---
+
 ## Misc
 
 
@@ -936,6 +784,5 @@ meta:
 [yu-aptkode]: https://www.youtube.com/@aptkode
 [yu-java-brains]: https://www.youtube.com/@Java.Brains
 [yu-genuine-coder]: https://www.youtube.com/@GenuineCoder
-[yu-alexlorenlee]: https://www.youtube.com/@alexlorenlee
 [yu-dan-geabunea-romanian-coder]: https://www.youtube.com/@RomanianCoder
 <!-- Misc -->

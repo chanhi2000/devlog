@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "AccessOwl/open_owl",
+    "desc": "Download user lists including user permissions from various SaaS applications without the need for a public API",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "wojtekmach/mix_install_examples",
+    "desc": "A collection of simple Elixir scripts that are using Mix.install/2.",
+    "topics": [],
+    "officialSite": ""
+  }
+]

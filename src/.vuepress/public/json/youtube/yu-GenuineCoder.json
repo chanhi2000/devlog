@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "GenuineCoder",
+    "name": "Genuine Coder",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMpfHnIhwwd1UbFl6lUXmiMQbeMkTdsYoP52D9AAA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "pdRX6CLP0tM",
+      "title": "JavaFX Background Tasks | How to make your GUI smoother, faster and snappier"
+    }, {
+      "id": "aS4a6Gv2B-s",
+      "title": "Covid-19 Status Desktop Widget | JavaFX Tutorial 4/5 | Finishing the Application Development"
+    }, {
+      "id": "SsV29noHQRU",
+      "title": "JavaFX Library Software From Scratch #1 : Developing UI For Adding Books"
+    }, {
+      "id": "qjiIx9OEoz4",
+      "title": "Covid-19 Status Desktop Widget | JavaFX Tutorial 1/5 | Introduction"
+    }, {
+      "id": "Z1W4E2d4Yxo",
+      "title": "JavaFX Scene Builder Tutorial for Beginners"
+    }
+  ]
+}
+

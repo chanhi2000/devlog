@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "danieloh30",
+    "name": "Daniel Oh",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN2jHdsZfmlCvGFbTPuHAUXHA3u2Nf-qdfUef-8eg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "DZwpzWJeBmA",
+      "title": "DevDays Europe 23 - Zero to Hero in Kubernetes Native Java"
+    }, {
+      "id": "ca121MFZalw",
+      "title": "DaemonSet - ☸️ Learn by Example 【6】"
+    }, {
+      "id": "ak9R9-E_0_k",
+      "title": "Managing Secrets - ☸️ Learn by Example 【7】"
+    }, {
+      "id": "AxLFXk9fIjQ",
+      "title": "Persistent Volumes - ☸️ Learn by Example 【9】"
+    }
+  ]
+}
+
+

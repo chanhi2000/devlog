@@ -464,5 +464,10 @@
     "desc": "Latest Papers and Datasets on Multimodal Large Language Models",
     "topics": ["multi-modality", "instruction-following", "in-context-learning", "large-language-models", "chain-of-thought", "instruction-tuning", "visual-instruction-tuning", "large-vision-language-model", "multimodal-instruction-tuning", "large-vision-language-models", "multimodal-large-language-models", "visual-in-context-learning", "multimodal-in-context-learning", "visual-chain-of-thought", "multimodal-chain-of-thought"],
     "officialSite": ""
+  }, {
+    "repo": "kargisimos/offensive-bookmarks",
+    "desc": "A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone who is just interested in infosec topics.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

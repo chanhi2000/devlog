@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "PedroTechnologies",
+    "name": "PedroTech",
+    "profile": "https://yt3.googleusercontent.com/tLOaVyDRQq46qga99PFlP9b3PRcni8gBJepNOecsgIdADpxU10p6w0VD-fZ8VvtqeldN6IHYOj0=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "0gLr-pBIPhI",
+      "title": "React Firebase Realtime Chat App Tutorial | Firebase V9+ Beginner Tutorial"
+    }, {
+      "id": "-4fyyyQjsz8",
+      "title": "How to Improve Performance in React with Code Splitting"
+    }, {
+      "id": "JBSUgDxICg8",
+      "title": "Testing In React Tutorial - Jest and React Testing Library"
+    }, {
+      "id": "x7mwVn2z3Sk",
+      "title": "Code and Deploy A React Portfolio - React Personal Portfolio Website"
+    }, {
+      "id": "omzQF3Gyu_0",
+      "title": "React Passwordless Authentication Tutorial | React, NodeJS, Stytch API"
+    }
+  ]
+}

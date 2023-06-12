@@ -86,6 +86,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Eric Bailey
+
+- [Don’t use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars)
+
+---
+
 ## Tools
 
 - [flexiple](https://flexiple.com/illustrations)

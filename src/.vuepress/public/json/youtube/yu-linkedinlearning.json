@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "linkedinlearning",
+    "name": "LinkedIn Learning",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM3MkupJFWTpXR3QT0IXJ-jM3KpGvsSQk9drzUt_08=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "bmE8IQ2JPKA",
+      "title": "PowerPoint Tutorial - Tools for better presentations"
+    }, {
+      "id": "e0dbOscT8X4",
+      "title": "Amazon Web Services Tutorial - Using DynamoDB with AWS"
+    }, {
+      "id": "_Bi_C3QTv-g",
+      "title": "Java Tutorial - Creating LINKED LISTS"
+    }, {
+      "id": "erl-uIUmpkU",
+      "title": "HTML Tutorial - Video codecs, captions, and embedding"
+    }
+  ]
+}

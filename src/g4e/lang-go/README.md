@@ -14,4 +14,4 @@ description: 🦦Go
 
 ![shield-go][shield-go]
 
-[shield-go]: https://img.shields.io/badge/Go-00ADD81572B6?logo=go&logoColor=white&style=flat-square
+[shield-go]: https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square

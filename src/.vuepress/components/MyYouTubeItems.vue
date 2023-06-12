@@ -15,7 +15,7 @@
   </figure>
 
   <details class="hint-container details">
-    <summary>목록</summary>
+    <summary>목록 (총 {{ videos.length  }} 개)</summary>
     <YouTubeItem v-for="v in videos"
       v-bind:channelName="channel.name"
       v-bind:channelId="channel.id" 
@@ -38,7 +38,7 @@
     data() {
       return {
         channel: {},
-        videos: null,
+        videos: [],
       }
     },
     methods: {

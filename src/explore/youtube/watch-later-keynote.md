@@ -462,9 +462,11 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
-## Misc.
+## Code on the Beach
 
-<YoutubeItem channelName="Code on the Beach" channelId="codeonthebeach" id="mb-6SyG3HxA" title="Paul Gower - Elevate Your Kanban" />
+<MyYouTubeItems jsonName="yu-codeonthebeach" />
+
+<!-- Code on the Beach -->
 
 ---
 

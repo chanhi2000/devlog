@@ -505,16 +505,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Coding With Usman
 
-[Coding With Usman][yu-codingwithusman7]
-
-::: details 목록
-
-<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="DTXjLtAg9j8" title="API Integration (All HTTP methods) using URLSession - SwiftUI 2.0" />
-<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="jYrj0mDOFsA" title="How to Create Music App UI | SwiftUI" />
-<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="_N4lxebmJ2U" title="How to create CUSTOM TABBAR (simple to advanced) using swift 5" />
-<YoutubeItem channelName="Coding With Usman" channelId="codingwithusman7" id="jW_caTrNTo4" title="[Swift 5] How to Use MVVM (Model View ViewModel) - 2020" />
-
-:::
+<MyYouTubeItems jsonName="yu-codingwithusman7" />
 
 <!-- Coding With Usman -->
 
@@ -522,17 +513,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## KtrKathir
 
-[KtrKathir][yu-ktr-kathir]
-
-::: details 목록
-
-<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="Y3wtMk5PrQs" title="How to implement SearchBar in List #swiftui #ios  #Xcode @KtrKathir" />
-<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="57bg7STC4Kg" title="How to find UDID, serial number, IMEI number of iPhone or iPad without Mac or iTunes | KtrKathir" />
-<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="ERyBAGw_tcE" title="Download Image from URL using SDWebImage | Xcode 11 | Swift 5.2.4 | KtrKathir" />
-<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="9MAOWzWEjHo" title="What is @escaping closures? How and Where to use? | Xcode 11 | Swift 5.2.4 | KtrKathir" />
-<YoutubeItem channelName="KtrKathir" channelId="KtrKathir" id="vxu1U9j2gWI" title="Local Notification with attachments | Xcode 11 | Swift 5.2.4 | KtrKathir" />
-
-:::
+<MyYouTubeItems jsonName="yu-KtrKathir" />
 
 <!-- KtrKathir -->
 
@@ -548,14 +529,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Cocoacasts
 
-[Cocoacasts][yu-cocoacasts]
-
-::: details 목록
-
-<YoutubeItem channelName="Cocoacasts" channelId="Cocoacasts" id="t1_MtL9sRro" title="Building a Modern Networking Layer in Swift: Creating an API Client" />
-<YoutubeItem channelName="Cocoacasts" channelId="Cocoacasts" id="DtQ_IhSQT5M" title="Understanding Swift Memory Management: What Is Automatic Reference Counting (ARC)" />
-
-:::
+<MyYouTubeItems jsonName="yu-Cocoacasts" />
 
 <!-- Cocoacasts -->
 
@@ -636,6 +610,24 @@ tags: ["education", "youtube", "ios", "swift"]
 <MyYouTubeItems jsonName="yu-SwiftBook" />
 
 <!-- SwiftBook -->
+
+---
+
+## David Tran
+
+<MyYouTubeItems jsonName="yu-DucTranFan" />
+
+<!-- David Tran -->
+
+---
+
+## CODEMOBILE
+
+<MyYouTubeItems jsonName="yu-CODEMOBILEUK" />
+
+<!-- CODEMOBILE -->
+
+---
 
 ## Misc
 

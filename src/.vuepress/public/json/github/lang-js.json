@@ -1134,5 +1134,15 @@
     "desc": "When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at",
     "topics": [],
     "officialSite": "https://9elements.github.io/fancy-border-radius"
+  }, {
+    "repo": "Mintplex-Labs/anything-llm",
+    "desc": "A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.",
+    "topics": ["openai", "chatbot-application", "chroma", "vectorization", "chatbot-framework", "pinecone", "gpt3", "openai-api", "llm", "langchain", "chatgpt-bot", "openai-chatgpt", "chatgpt-app", "langchain-python", "langchain-js"],
+    "officialSite": "https://twitter.com/tcarambat"
+  }, {
+    "repo": "SillyTavern/SillyTavern",
+    "desc": "LLM Frontend for Power Users.",
+    "topics": ["chat", "ai", "openai", "characters", "llm"],
+    "officialSite": "https://sillytavern.app"
   }
 ]

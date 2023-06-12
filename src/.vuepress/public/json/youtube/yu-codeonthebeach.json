@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "codeonthebeach",
+    "name": "Code on the Beach",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNzUoQPnmbe8oMPp8JWjulWygCTfGgPsKXKUjx4=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "mb-6SyG3HxA", 
+      "title": "Paul Gower - Elevate Your Kanban"
+    }, {
+      "id": "4cRbPH_GkBQ", 
+      "title": "Dan Vega - Full Stack Java Development with Spring Boot"
+    }
+  ]
+}
+
+

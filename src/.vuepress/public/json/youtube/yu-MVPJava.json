@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "MVPJava",
+    "name": "MVP Java",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPNh7J66ZC3Zje-6SBb2Lt_4JkRyiXiEp9uNmaT=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "HUj1RbwYXVQ",
+      "title": "Docker for your Java Development Environment with IntelliJ"
+    }
+  ]
+}

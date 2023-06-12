@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "Sweetdev",
+    "name": "Sweetdev",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMLTtO1WxiSX1SH23t_R_kjLOw5KYDzvO5r2GTI=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "8QO3sf9WhVw", 
+      "title": "From design into HTML and CSS web page | Part 1"
+    }, {
+      "id": "eAsBo6VMaH4", 
+      "title": "Vuex | State management example with Axios"
+    }
+  ]
+}
+

@@ -1,8 +1,8 @@
 [
   {
     "repo": "sunface/rust-by-practice",
-    "desc": "",
-    "topics": [],
+    "desc": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",
+    "topics": ["rust", "learning", "practice", "study", "examples", "example", "exercise", "exercises"],
     "officialSite": "https://practice.rs"
   }, {
     "repo": "google/comprehensive-rust",
@@ -24,5 +24,10 @@
     "desc": "The Rust Programming Language",
     "topics": [],
     "officialSite": "https://doc.rust-lang.org/book"
+  }, {
+    "repo": "rust-lang/rust-by-example",
+    "desc": "Learn Rust with examples (Live code editor included)",
+    "topics": [],
+    "officialSite": "https://doc.rust-lang.org/stable/rust-by-example"
   }
 ]

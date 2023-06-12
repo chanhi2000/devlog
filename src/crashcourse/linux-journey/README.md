@@ -57,7 +57,7 @@ color: rgba(24, 188, 156, 0.2)
 
 ### Networking Nomad
 
-- [Network Sharing][03a-network-sharing]
+- ✅[Network Sharing][03a-network-sharing]
 - [Network Basics][03a-network-basics]
 - [Subnetting][03a-subnetting]
 - [Routing][03a-routing]

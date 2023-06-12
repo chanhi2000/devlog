@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "NorfolkDevelopers",
+    "name": "NorfolkDevelopers",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN988OFPQ6k13CUoiwuqGkepnD0FlqImJUT8IIiqg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "6UL-cjjcKSc",
+      "title": "Brewing a Serverless application with AWS Infrastructure as Code"
+    }, {
+      "id": "g_BaCA8z0M8",
+      "title": "React Native, Fork It! (Part 4)"
+    }, {
+      "id": "mltWFhVELmY",
+      "title": "Learn to build fullstack React apps with Blitz.js (Part 3)"
+    }, {
+      "id": "6Poafy4ehHE",
+      "title": "Learn to build fullstack React apps with Blitz.js (Part 2)"
+    }
+  ]
+}
+

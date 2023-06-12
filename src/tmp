@@ -48,9 +48,6 @@
 
 <!-- 2023-05-18 -->
 
-<YoutubeItem channelName="ALOHA CLASS" channelId="alohaclass8075" id="ayFdmtCPA4U" title="[LIVE] ALOHA 2023-04-17 자바 수업 1일차 - 오후" />
-<YoutubeItem channelName="ALOHA CLASS" channelId="alohaclass8075" id="3a2KdMTRgKc" title="VSCODE C언어 설치 - C C++ in VS Code" />
-<YoutubeItem channelName="ALOHA CLASS" channelId="alohaclass8075" id="ZNsEVrE9NW0" title="VSCODE SPRING BOOT 개발환경 세팅 - Spring Boot Extension in VS Code" />
 <YoutubeItem channelName="Decomplexify" channelId="decomplexify" id="GFQaEYEc8_8" title="Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF" />
 <YoutubeItem channelName="i Social You" channelId="iSocialYou" id="yOQ9cljJ5jE" title="10 FREE AI Tools That Feels Illegal To Know! 🤫" />
 <YoutubeItem channelName="Web Development With Gaurav" channelId="WebDevelopmentwithGaurav" id="dFfp7ND1z_I" title="How To Work With Git As Professional Dev | Real Mai Frontend Developer Kese Kam Karta Hai? - Part 4" />
@@ -130,23 +127,17 @@
 <YoutubeItem channelId="AnsonAlexander" channelName="Anson Alexander" id="hi1TVYOpgZU" title="Convert PDFs to Google Docs and Back (Images and Formatting Included)" />
 <YoutubeItem channelId="3blue1brownKR" channelName="3Blue1Brown 한국어" id="Mc9PHZ3H36M" title="푸리에 변환.. 왔습니다. 그려서 보여드리겠습니다." />
 <YoutubeItem channelId="RhettCoots" channelName="Rhett Coots" id="dKrYI82-ybw" title="The Best ALL IN ONE Notion Life Management System" />
-<YoutubeItem channelId="neonchang" channelName="모바일랩" id="dpfEgjPGCNE" title="실수로 사진, 동영상을 삭제하셨나요? 데이터 복구 프로그램 추천! 원본 화질 그대로" />
 <YoutubeItem channelId="JessiesFlying" channelName="Jessie's Flying" id="QULqLi2FTJk" title="Why 0.6.6 is the BEST OpenCore Legacy Patcher!" />
 <YoutubeItem channelId="MidwareCloud" channelName="Midware Cloud" id="qJsalEvRklw" title="Sql: How To Alter A Table (Part 1) | Urdu - Hindi #33" />
 <YoutubeItem channelId="codeSTACKr" channelName="codeSTACKr" id="oH_-6TyxVhI" title="Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!" />
-<YoutubeItem channelId="alohaclass8075" channelName="ALOHA CLASS" id="68Og2Y4X1Yw" title="[LIVE] ALOHA 2023-05-23 DB 03일차 - 오후" />
 <YoutubeItem channelId="MacSoundSolutions" channelName="Mac Sound Solutions inc." id="Pggq7DJn9z8" title="Mac Pro 5,1 Monterey 12.6.6 OpenCore ML 0.9.2" />
 <YoutubeItem channelId="DoctorCode9" channelName="doctor code" id="F_t8sWisSCE" title="DESIGN A LOGIN PAGE USING FIGMA - SPEED ART" />
 <YoutubeItem channelId="MonsterlessonsAcademy" channelName="Monsterlessons Academy" id="dYwzxIc8INE" title="Javascript Is Weird - Interview Questions" />
-<YoutubeItem channelId="jherr" channelName="Jack Herrington" id="xlTrDIHhnhs" title="Stop Doing This, And Get Your Coding Questions Answered" />
 <YoutubeItem channelId="gisafirst1" channelName="기사퍼스트 권우석" id="4N8FzwJmhgE" title="데이터베이스 정의 암기법 #정보처리기사 #정보처리산업기사" />
 <YoutubeItem channelId="SakuraDev" channelName="Sakura Dev" id="0eu4_lLFkGk" title="Full Stack Authentication with Next-Auth and Next.js 13: All You Need to Know" />
 <YoutubeItem channelId="cstate96" channelName="C-STATE" id="yq-msJOQ4nU" title="I wrote an operating system kernel from scratch in Rust. (k4dos devlog #1)" />
-<YoutubeItem channelId="NetworkChuck" channelName="NetworkChuck" id="DM65_JyGxCo" title="Docker Compose will BLOW your MIND!! (a tutorial)" />
 <YoutubeItem channelId="ProgrammingTechie" channelName="Programming Techie" id="mPPhcU7oWDU" title="Spring Boot Microservice Project Full Course in 6 Hours 🔥🔥🔥" />
-<YoutubeItem channelId="Huntabyte" channelName="Huntabyte" id="hB6OkaYWS5I" title="Flash Messages in SvelteKit" />
 <YoutubeItem channelId="AlexanderFYoung" channelName="Dr Alex Young" id="jeVhPGfv4Q8" title="11 Insanely Useful AI Tools You Probably Didn't Know Existed!" />
-<YoutubeItem channelId="neonchang" channelName="모바일랩" id="uD95147_VX0" title="주말에도 달립니다! 오늘은 무료 정보가 6개예요~!" />
 <YoutubeItem channelId="JessiesFlying" channelName="Jessie's Flying" id="fjCz5aqNxPo" title="MacPro 2012 FASTER than LATEST Intel MAC!!!" />
 <YoutubeItem channelId="coreyms" channelName="Corey Schafer" id="jRAAaDll34Q" title="How to Use ChatGPT as a Powerful Tool for Programming" />
 <YoutubeItem channelId="aarthificial" channelName="aarthificial" id="H5GETOP7ivs" title="Motion Canvas is now Open Source!" />

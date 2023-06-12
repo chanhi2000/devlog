@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "DucTranFan",
+    "name": "David Tran",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN3xIy-w0tyCOmx4w24mdive39RIvhfAaLva6q1sg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "XKXFRHctC6o",
+      "title": "Build Carousel Effect in iOS with Swift"
+    }
+  ]
+}
