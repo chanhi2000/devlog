@@ -263,5 +263,49 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ---
 
+## coder2j
+
+<MyYouTubeItems jsonName="yu-coder2j" />
+
+<!-- coder2j -->
+
+---
+
+## strager
+
+<MyYouTubeItems jsonName="yu-strager_" />
+
+<!-- strager -->
+
+---
+
+## KodeJUN
+
+<MyYouTubeItems jsonName="yu-kodejun" />
+
+<!-- KodeJUN -->
+
+---
+
+## JavaCampus
+
+<MyYouTubeItems jsonName="yu-JavaCampus" />
+
+<!-- JavaCampus -->
+
+## Virbox
+
+<MyYouTubeItems jsonName="yu-Virbox" />
+
+<!-- Virbox -->
+
+---
+
+## Learn With Jason
+
+<MyYouTubeItems jsonName="yu-learnwithjason" />
+
+<!-- Learn With Jason -->
+
 <TagLinks />
 

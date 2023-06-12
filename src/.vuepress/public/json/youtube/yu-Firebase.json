@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "Firebase",
+    "name": "Firebase",
+    "profile": "https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "7IkUgCLr5oA",
+      "title": "Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - Firecasts"
+    }, {
+      "id": "pkgvFNPdiEs",
+      "title": "The Local Firebase Emulator UI in 15 minutes"
+    }, {
+      "id": "3aoxOtMM2rc",
+      "title": "To Realtime or Not?  | Get to know Cloud Firestore #10"
+    }    
+  ]
+}
+
+

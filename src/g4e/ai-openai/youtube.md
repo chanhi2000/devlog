@@ -44,4 +44,36 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## AI Explained
+
+<MyYouTubeItems jsonName="yu-ai-explained-" />
+
+<!-- AI Explained -->
+
+---
+
+## Part Time Larry
+
+<MyYouTubeItems jsonName="yu-parttimelarry" />
+
+<!-- Part Time Larry -->
+
+---
+
+## 안될공학 - IT 테크 신기술
+
+<MyYouTubeItems jsonName="yu-unrealtech" />
+
+<!-- 안될공학 - IT 테크 신기술 -->
+
+---
+
+## Embrace The Red
+
+<MyYouTubeItems jsonName="yu-embracethered" />
+
+<!-- Embrace The Red -->
+
+---
+
 <TagLinks />

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "CppCon",
+    "name": "CppCon",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMglYSUnOhX3EZHN_d2eB4GDx_Y74mAgV5_uhK7=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "BzwpdOpNFpQ",
+      "title": "Managarm: A Fully Asynchronous OS Based on Modern C++ - Alexander van der Grinten - CppCon 2020"
+    }
+  ]
+}

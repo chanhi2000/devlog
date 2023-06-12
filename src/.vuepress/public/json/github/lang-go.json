@@ -419,5 +419,10 @@
     "desc": "Modern UI for Ansible",
     "topics": ["javascript", "html", "golang", "ansible", "devops", "ci", "cicd"],
     "officialSite": "https://ansible-semaphore.com"
+  }, {
+    "repo": "knadh/listmonk",
+    "desc": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+    "topics": ["email-marketing", "email-campaigns", "self-hosted", "newsletter", "smtp", "campaign", "mailing-list", "sms-gateway", "email-subscription", "newsletter-management", "campaign-management", "listmonk", "fcm-messaging"],
+    "officialSite": "https://listmonk.app"
   }
 ]

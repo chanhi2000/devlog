@@ -34,7 +34,7 @@ color: rgba(24, 188, 156, 0.2)
 
 ## Learn the ways of Linux-fu, for free.
 
-### Grasshopper
+### ✅Grasshopper
 
 - [Getting Started][01a-getting-started]
 - [Command Line][01b-command-line]
@@ -45,7 +45,7 @@ color: rgba(24, 188, 156, 0.2)
 - [Processes][01g-processes]
 - [Packages][01h-packages]
 
-### Journeyman
+### ✅Journeyman
 
 - [Devices][02a-devices]
 - [The Filesystem][02b-the-filesystem]

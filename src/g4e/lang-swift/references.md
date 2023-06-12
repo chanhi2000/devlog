@@ -14,6 +14,10 @@ tags: ["references", "swift"]
 
 ---
 
+## Official Docs
+
+- [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
+
 ## Learning
 
 - [Swift by Sundell](https://swiftbysundell.com/latest)

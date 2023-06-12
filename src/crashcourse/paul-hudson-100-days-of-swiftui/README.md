@@ -103,7 +103,7 @@ Regardless of whether or not you go over the optional extra reading, you’ll fi
 - [Day 13][day-13] – protocols, extensions, and checkpoint 8
 - [Day 14][day-14] – optionals, nil coalescing, and checkpoint 9
 
-### Day 15: Consolidation I
+### ✅Day 15: Consolidation I
 
 You just learned a lot about Swift in only 14 days, so before we continue it's important you reflect on what you've learned.
 
@@ -291,7 +291,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-12]: 12.md
 [day-13]: 13.md
 [day-14]: 14.md
-[day-15]: https://www.hackingwithswift.com/100/swiftui/15
+[day-15]: 15.md
 [day-16]: https://www.hackingwithswift.com/100/swiftui/16
 [day-17]: https://www.hackingwithswift.com/100/swiftui/17
 [day-18]: https://www.hackingwithswift.com/100/swiftui/18

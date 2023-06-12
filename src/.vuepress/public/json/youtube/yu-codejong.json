@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "codejong",
+    "name": "코드종",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM_KAMszcW_4Ta60nIFvr0U_v2twTk5m7eCkL4X=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "j0Viy3v97gY",
+      "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행"
+    }
+  ]
+}

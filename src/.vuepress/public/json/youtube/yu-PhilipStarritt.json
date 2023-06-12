@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "PhilipStarritt",
+    "name": "Philip Starritt",
+    "profile": "https://yt3.googleusercontent.com/wLB7zlUQABdB7KSUOqPXsKrZ0-2PxI9R73lT_eLNSjOlcVKgaNhcNq6uLvOL76-r43P5l3h0DIU=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "_859wl7Smm8",
+      "title": "Spring Boot RESTful Web Service Tutorial - Java REST API"
+    }, {
+      "id": "_T_0VB3AoV4",
+      "title": "Spring Boot GraphQL Tutorial #31 – Spring Security Authorization"
+    }, {
+      "id": "DyNXkznUYaU",
+      "title": "Consume a RESTful Web Service in Java Spring Boot | REST API Client"
+    }, {
+      "id": "hFHxOlThFR4",
+      "title": "Spring Boot GraphQL Tutorial #28 - JS GraphQL IntelliJ Plugin"
+    }, {
+      "id": "rOnoKiH97Nc",
+      "title": "Spring Boot Security Tutorial | REST &amp; Web"
+    }
+  ]
+}

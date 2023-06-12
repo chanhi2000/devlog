@@ -391,7 +391,7 @@
     "officialSite": ""
   }, {
     "repo": "xiangsx/gpt4free-ts",
-    "desc": "This is a replication project for the typescript version of xtekky/gpt4free",
+    "desc": "Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free",
     "topics": ["nodejs", "typescript", "chatbot", "openai", "chatbots", "gpt", "gpt-3", "gpt-4", "gpt4", "chatgpt", "chatgpt-free", "gpt-35-turbo", "chatgpt4", "gpt4-api", "free-gpt", "gpt4free"],
     "officialSite": ""
   }, {
@@ -744,5 +744,25 @@
     "desc": "rich text editor by canvas/svg",
     "topics": ["svg", "emr", "editor", "pdf", "typescript", "browser", "control", "latex", "canvas", "wysiwyg", "date-picker", "rich-text", "pdf-generation", "vite", "canvas-editor"],
     "officialSite": "https://hufe.club/canvas-editor"
+  }, {
+    "repo": "Licoy/ChatGPT-Midjourney",
+    "desc": "🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click",
+    "topics": ["discord", "discord-bot", "openai", "midjourney", "stable-diffusion", "chatgpt", "chatgpt-web", "niji"],
+    "officialSite": ""
+  }, {
+    "repo": "antfu/raycast-multi-translate",
+    "desc": "A Raycast extension that translates text to multiple languages at once",
+    "topics": ["translate", "raycast-extension"],
+    "officialSite": ""
+  }, {
+    "repo": "n4ze3m/dialoqbase",
+    "desc": "Create chatbots with ease",
+    "topics": ["framework", "chatbot", "claude", "cohere", "huggingface", "gpt-3", "chatgpt", "langchain", "anthropic"],
+    "officialSite": ""
+  }, {
+    "repo": "LemmyNet/lemmy-ui",
+    "desc": "The official web app for lemmy.",
+    "topics": ["reddit", "inferno", "link-aggregator", "lemmy"], 
+    "officialSite": "https://join-lemmy.org"
   }
 ]

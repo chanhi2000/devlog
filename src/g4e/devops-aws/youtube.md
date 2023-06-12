@@ -13,4 +13,10 @@ tags: ["youtube", "aws", "amazon", "amazon-web-service"]
 
 ---
 
+## Cloud Learning
+
+<MyYouTubeItems jsonName="yu-CloudLearning" />
+
+<!-- Cloud Learning -->
+
 <TagLinks />

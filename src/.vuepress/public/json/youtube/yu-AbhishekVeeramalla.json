@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Abhishek.Veeramalla",
+    "name": "AbhishekVeeramalla",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMlMZnHGAdzJ2rEmIu-nbELBEbeX1duxAOm9GG8=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "EeiYpnBHnhY",
+      "title": "DAY-42 | KUBERNETES MONITORING USING PROMETHEUS &amp; GRAFANA |LIVE DEMO |STEPS IN GITHUB | #kubernetes"
+    }, {
+      "id": "JGQI5pkK82w",
+      "title": "IMPLEMENTING THE ULTIMATE CI/CD PIPELINE  | LIVE DEMO| JENKINS END TO END PROJECT| BEST CICD PROJECT"
+    }
+  ]
+}

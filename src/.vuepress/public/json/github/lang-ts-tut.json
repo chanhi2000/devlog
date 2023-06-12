@@ -19,5 +19,10 @@
     "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
     "topics": [],
     "officialSite": "https://www.realworld.how"
+  }, {
+    "repo": "adrianhajdin/project_next13_car_showcase",
+    "desc": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
+    "topics": ["nextjs", "nextjs13", "next13", "next13app"],
+    "officialSite": "https://jsmastery.pro"
   }
 ]

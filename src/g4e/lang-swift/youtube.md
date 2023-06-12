@@ -621,6 +621,21 @@ tags: ["education", "youtube", "ios", "swift"]
 
 <!-- iOS eTutorials -->
 
+---
+
+## The Swift Developers
+
+<MyYouTubeItems jsonName="yu-theswiftdevelopers1301" />
+
+<!-- The Swift Developers -->
+
+---
+
+## SwiftBook
+
+<MyYouTubeItems jsonName="yu-SwiftBook" />
+
+<!-- SwiftBook -->
 
 ## Misc
 

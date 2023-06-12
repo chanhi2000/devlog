@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "Virbox",
+    "name": "Virbox",
+    "profile": "https://yt3.googleusercontent.com/TQ8e70L_2nOOLeDFbfiUT_WIgKLnB1oYhumjtaLTx8ImM1Q8u20CCiDtAzBKO_vrhZx6NCZJpg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Se3GEUY3AGI",
+      "title": "Scrape Reddit like a PRO with Python"
+    }, {
+      "id": "NfC5tryOt0k",
+      "title": "jQuery is trending again?"
+    }
+  ]
+}
+

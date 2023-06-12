@@ -97,15 +97,24 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 <!-- Carberra -->
 
-## Misc
+---
 
-<YoutubeItem channelName="데브원영 DVWY" channelId="DevWonYoung" id="GsFcQVBwmho" title="파이썬으로 이벤트 드리븐 아키텍처를 만드는 방법 | Event-driven microservices with Python and Apache Kafka" />
+## NeetCode
 
-<!-- [데브원영 DVWY][yu-dev-won-young] -->
+<MyYouTubeItems jsonName="yu-NeetCode" />
+
+<!-- NeetCode -->
+
+---
+
+## 데브원영 DVWY
+
+<MyYouTubeItems jsonName="yu-DevWonYoung" />
+
+<!-- 데브원영 DVWY -->
 
 ---
 
 <TagLinks />
 
-[yu-todaycode]: https://www.youtube.com/@todaycode
 [yu-dev-won-young]: https://www.youtube.com/@DevWonYoung

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "GOTO-",
+    "name": "GOTO Conferences",
+    "profile": "https://yt3.googleusercontent.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "_XbOTRunqHk",
+      "title": "Building Your Own Compiler The Slightly Easier Way With LLVM • Erik Corry • YOW! 2016"
+    }
+  ]
+}
+

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "NetflixEngineering",
+    "name": "Netflix Engineering",
+    "profile": "https://yt3.googleusercontent.com/jLZXbajjfDpMo52MU7V7qjz7X0L-VU-r_KUeDztfS598khMUPpP7eXctZPucyYDOgEN12QB_5hk=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Z0V2DMM6IMg",
+      "title": "Taking a movie from Script to Screen, Promotional Media Engineering, Ritu Goyal"
+    }, {
+      "id": "JyLBKdIDmz4",
+      "title": "Netflix Entertainment @ Scale, CJ Barker"
+    }
+  ]
+}

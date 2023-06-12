@@ -96,6 +96,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Abhishek.Veeramalla
+
+<MyYouTubeItems jsonName="yu-AbhishekVeeramalla" />
+
+<!-- Abhishek.Veeramalla -->
+
 <TagLinks />
 
 [yu-houssem-dellai]: https://www.youtube.com/@HoussemDellai

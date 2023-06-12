@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "iv-org/invidious",
+    "desc": "Invidious is an alternative front-end to YouTube",
+    "topics": ["youtube", "video", "watch", "youtube-video", "libre", "agplv3", "hacktoberfest", "invidious"],
+    "officialSite": "https://invidious.io"
+  }
+]

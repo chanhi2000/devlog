@@ -1,0 +1,76 @@
+{
+  "channel": {
+    "id": "discospiff",
+    "name": "Brandan Jones",
+    "profile": "https://yt3.googleusercontent.com/CSuPzbkXukZoN2aW4zI1EiPBuRGzx0Otdd6uPL2jgL5c7stm0zmXaEUIUJ6_yTS0AGxbM0fY=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "IrmYzNRdTdY",
+      "title": "Simple Example of JSON with GSON and JsonDeserializer"
+    }, {
+      "id": "YamhpCK57NY",
+      "title": "ObjectOutputStream, ObjectInputStream demonstrated in Java"
+    }, {
+      "id": "GnPS_f3az1w",
+      "title": "File IO in Java with Input and Output Streams and Writers"
+    }, {
+      "id": "By_SOWhoe3o",
+      "title": "Exception Best Practices Demonstrated in IntelliJ IDEA"
+    }, {
+      "id": "YJWK36r8aZw",
+      "title": "Animation and Explanation of Factory and Command Patterns"
+    }, {
+      "id": "61r-nOqEchw",
+      "title": "Use Design Patterns and SOLID to program without if tests"
+    }, {
+      "id": "otQk8TSgtoE",
+      "title": "Interfaces and SOLID principles"
+    }, {
+      "id": "HO6m8JpA0ro",
+      "title": "JUnit Annotations and Asserts Overview"
+    }, {
+      "id": "XFhB-Tp9LOc",
+      "title": "Implement Room Database to store RESTFul JSON Data locally"
+    }, {
+      "id": "tLuHDcBBiz0",
+      "title": "Integrate Google Map with Jetpack Compose and LiveData"
+    }, {
+      "id": "nw35zroX3AQ",
+      "title": "Preview Light and Dark Mode in IDE in Jetpack Compose with @Preview"
+    }, {
+      "id": "Mv_yqVK_1ak",
+      "title": "Test Driven Design and BDD: Hands on example in IntelliJ IDEA"
+    }, {
+      "id": "Ioin0sG3b9U",
+      "title": "Implementing a Power Broadcast Receiver in Android Kotlin"
+    }, {
+      "id": "8SSHZ50NFJk",
+      "title": "Sprint Overview: Maps, Broadcast Receiver, Notifications"
+    }, {
+      "id": "tVzV4UbD7gk",
+      "title": "Implement Room Database with Live Data in Android Kotlin"
+    }, {
+      "id": "CuP1elpCuEA",
+      "title": "Cloud Firestore with MVVM in Android Q Kotlin: Overview and Example"
+    }, {
+      "id": "J7_4WrImJPk",
+      "title": "Use verify in MockK to validate function calls on mocked object"
+    }, {
+      "id": "vO9TM9qF0iE",
+      "title": "Use Retrofit to parse JSON in Live Data, Kotlin, Integration Test"
+    }, {
+      "id": "11iGyrvBhzc",
+      "title": "Create a simple web service client with WSDL in Eclipse"
+    }, {
+      "id": "8JJGGdMZPTk",
+      "title": "Firebase Authentication with Email in Android: Example"
+    }, {
+      "id": "ILavD8sE-ZU",
+      "title": "Recursion: Palindromes demonstrated in IntelliJ IDEA Debugger"
+    }, {
+      "id": "T_lWpqOWaE0",
+      "title": "Set up Logging with Log4j2 in Java and IntelliJ IDEA"
+    }
+  ]
+}

@@ -173,6 +173,15 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+
+## DevOps Directive
+
+<MyYouTubeItems jsonName="yu-DevOpsDirective" />
+
+<!-- DevOps Directive -->
+
+---
+
 <TagLinks />
 
 [yu-MarcelDempers]: https://www.youtube.com/@MarcelDempers

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "FrontendMasters",
+    "name": "Frontend Masters",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMAQX894jCDefc1z1gx1KoxU-xtKbSwSOc594fGTw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "hcK3N_Y3hzM",
+      "title": "Rust for TypeScript Developers by ThePrimeagen | Preview"
+    }, {
+      "id": "Us2JP01aNFE",
+      "title": "Polyglot Programming: TypeScript, Go, & Rust by ThePrimeagen | Preview"
+    }, {
+      "id": "Lwr3-doAgaI",
+      "title": "The Last Algorithms Course You'll Need by ThePrimeagen | Preview"
+    }
+  ]
+}

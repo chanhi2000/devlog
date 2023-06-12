@@ -99,6 +99,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Kenji Explains
+
+<MyYouTubeItems jsonName="yu-KenjiExplains" />
+
+<!-- Kenji Explains -->
+
+---
+
 
 ## Misc
 

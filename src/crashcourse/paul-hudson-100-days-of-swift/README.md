@@ -119,7 +119,7 @@ The next three projects we’re looking at will push your iOS skills further as 
 
 - [Day 24][day-24] – ✅Project 4, part one
 - [Day 25][day-25] – ✅Project 4, part two
-- [Day 26][day-26] – Project 4, part three
+- [Day 26][day-26] – ✅Project 4, part three
 - [Day 27][day-27] – Project 5, part one
 - [Day 28][day-28] – Project 5, part two
 - [Day 29][day-29] – Project 5, part three
@@ -315,7 +315,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-23]: 23.md
 [day-24]: 24.md
 [day-25]: 25.md
-[day-26]: https://www.hackingwithswift.com/100/26
+[day-26]: 26.md
 [day-27]: https://www.hackingwithswift.com/100/27
 [day-28]: https://www.hackingwithswift.com/100/28
 [day-29]: https://www.hackingwithswift.com/100/29

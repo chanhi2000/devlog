@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "XojoInc",
+    "name": "Xojo",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNg7GxVR5Exh4rvKZ5HGR8oNHtNdWgAf_sf5YuLOA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "7dyRRhtmS8w",
+      "title": "Intro to Xojo Programming - WEBINAR"
+    }, {
+      "id": "DHGOloxaDV8",
+      "title": "Using Apache Velocity For Generating Xojo Code From An Existing Database | XDC 2019 Session"
+    }, {
+      "id": "WwVkkOi6JoY",
+      "title": "iOS: Cómo crear thumbnails de páginas de cualquier PDF"
+    }, {
+      "id": "JaBHU9stXOc",
+      "title": "Easily Create Raspberry Pi Apps for Free with Xojo Pi"
+    }, {
+      "id": "VLy2uXSam7g",
+      "title": "Avoid Troubleshooting Troubles- Effective Debugging Techniques to Get You Unstuck | XDC 2019 Session"
+    }
+  ]
+}
+
+

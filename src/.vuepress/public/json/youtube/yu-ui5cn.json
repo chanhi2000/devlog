@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "ui5cn",
+    "name": "UI5 Community Network",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOWda9QVctG8AEyUjkaytAAhasFuLvLvPf9hU0V9A=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "jMtZtewUhDc", 
+      "title": "Understanding Viz in UI5: Basics, Overview, Measures and Dimension"
+    }, {
+      "id": "w1nSZVY6weM", 
+      "title": "AngularJS App in 59 min From Scratch (2017 - 2018)"
+    }
+  ]
+}
+

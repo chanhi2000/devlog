@@ -293,17 +293,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## 코드팩토리
 
-[코드팩토리][yu-code-factory]
-
-::: details 목록
-
-<YoutubeItem channelName="코드팩토리" channelId="codefactory_official" id="5W72UHb-9iI" title="Client Side Rendering vs Server Side Rendering 모르면 일단 누르세요~" />
-<YoutubeItem channelName="코드팩토리" channelId="codefactory_official" id="tjHljJRooHU" title="React Mobx 안어렵습니다!" />
-<YoutubeItem channelName="코드팩토리" channelId="codefactory_official" id="uStypvlzi8w" title="[웹개발] [React] React Hooks 10분만에 배우기 (`useState`, `useEffect`, `customHooks`)" />
-<YoutubeItem channelName="코드팩토리" channelId="codefactory_official" id="b7Uqx7NZpHw" title="[웹개발] [React] React 개발자라면 꼭 알아야하는" />
-<YoutubeItem channelName="코드팩토리" channelId="codefactory_official" id="ZOVG7_41kJE" title="9시간이면 누구든 Javascript 개발자로 만들어버리는 마법같은 영상 | 타임스탬프 O" />
-
-:::
+<MyYouTubeItems jsonName="yu-codefactory_official" />
 
 <!-- 코드팩토리 -->
 
@@ -481,31 +471,11 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## developedbyed
 
-[developedbyed][yu-developedbyed]
-
-::: details 목록
-
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="xB27AuRa5h4" title="Javascript Layout Animations REALLY SIMPLE TUTORIAL!" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="xg1zO2hN2QM" title="Web Developer Reacts To Best Codepens!" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="oPteQFUK42w" title="The Ultimate Guide To Forms In React Tutorial" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="A2g4IwtAX_I" title="Top 10 VSCode Extensions YOU MUST TRY!" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="Ttf3CEsEwMQ" title="Beginner Vanilla Javascript Project Tutorial" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="z-xkbNLIB5w" title="Web Design Tutorial - 5 IMPORTANT Tips!" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="tsMHONmUkvI" title="Create 3D Animation With Javascript Tutorial!" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="jE-SpRI3K5g" title="Build A Python GUI App Tutorial" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="2jqok-WgelI" title="Build A Node.js API Authentication With JWT Tutorial" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="U9T6YkEDkMo" title="Build a Recipe App With React \| React Tutorial For Beginners" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="WZQc7RUAg18" title="ES6 Javascript Tutorial For Beginners \| ES6 Crash Course" />
-<YoutubeItem channelName="developedbyed" channelId="developedbyed" id="gXkqy0b4M5g" title="Responsive Navigation Bar Tutorial \| HTML CSS JAVASCRIPT" />
-
-:::
+<MyYouTubeItems jsonName="yu-developedbyed" />
 
 <!-- developedbyed -->
 
 ---
-
-
-
 
 ## Adrian Twarog
 
@@ -555,17 +525,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Coding Addict
 
-[Coding Addict][yu-coding-addict]
-
-::: details 목록
-
-<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="iZhV0bILFb0" title="React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks" />
-<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="TNV0_7QRDwY" title="Node and Express Tutorial" />
-<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="AfAZ33XjIBU" title="Serverless Functions" />
-<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="asB-dUwpH4Y" title="Gatsby - Strapi Portfolio Project" />
-<YoutubeItem channelName="Coding Addict" channelId="CodingAddict" id="c5SIG7Ie0dM" title="15 Vanilla Javascript Projects" />
-
-:::
+<MyYouTubeItems jsonName="yu-CodingAddict" />
 
 <!-- Coding Addict -->
 
@@ -1060,16 +1020,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## 드림코딩
 
-[![드림코딩](https://yt3.googleusercontent.com/ytc/AGIKgqOdLzfsCbIOLQk3lEcXnGHW7G7dUW__Lc43HH9MEA=s176-c-k-c0x00ffffff-no-rj =x150)][yu-dream-coding]
-
-::: details 목록
-
-<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="j8rTeUZiiXc" title="Remix가 웹프레임워크 시장을 선두할것인가? (마지막영상)" />
-<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="iLqGzEkusIw" title="제발 깃허브 액션🔥 모르는 개발자 없게해 주세요 🙏" />
-<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="FEBkne7Nyu4" title="PWA (Progressive Web App) 개념과 따라만들기 📲" />
-<YoutubeItem channelName="드림코딩" channelId="dream-coding" id="KJUdqPDAtTI" title="개발자 취업을 위한 포트폴리오 만들기 | 취업에 성공하는 포트폴리오 관리법, 프론트엔드 공부 방법 ⭐️" />
-
-:::
+<MyYouTubeItems jsonName="yu-dream-coding" />
 
 <!-- 드림코딩 -->
 
@@ -1093,15 +1044,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Frontend Masters
 
-[Frontend Masters][yu-frontend-masters]
-
-::: details 목록
-
-<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="hcK3N_Y3hzM" title="Rust for TypeScript Developers by ThePrimeagen | Preview" />
-<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="Us2JP01aNFE" title="Polyglot Programming: TypeScript, Go, & Rust by ThePrimeagen | Preview" />
-<YoutubeItem channelName="Frontend Masters" channelId="FrontendMasters" id="Lwr3-doAgaI" title="The Last Algorithms Course You'll Need by ThePrimeagen \| Preview" />
-
-:::
+<MyYouTubeItems jsonName="yu-FrontendMasters" />
 
 <!-- Frontend Masters -->
 
@@ -1259,18 +1202,77 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Fun Of Heuristic
+
+<MyYouTubeItems jsonName="yu-FunOfHeuristic" />
+
+<!-- Fun Of Heuristic -->
+
+---
+
+## Code Radiance
+
+<MyYouTubeItems jsonName="yu-CodeRadiance" />
+
+<!-- Code Radiance -->
+
+---
+
+## 5분개발지식
+
+<MyYouTubeItems jsonName="yu-user-sq7il2ir1e" />
+
+<!-- 5분개발지식 -->
+
+---
+
+## CodeWithThilakS | CWTS
+
+<MyYouTubeItems jsonName="yu-codewiththilaks" />
+
+<!-- CodeWithThilakS | CWTS -->
+
+---
+
+## UI5 Community Network
+
+<MyYouTubeItems jsonName="yu-ui5cn" />
+
+<!-- UI5 Community Network -->
+
+---
+
+## 코드종
+
+<MyYouTubeItems jsonName="yu-codejong" />
+
+<!-- 코드종 -->
+
+---
+
+## Skillthrive
+
+<MyYouTubeItems jsonName="yu-Skillthrive" />
+
+<!-- Skillthrive -->
+
+---
+
+## Will Kwan
+
+<MyYouTubeItems jsonName="yu-WillKwan" />
+
+<!-- Will Kwan -->
+
 ## Misc
 
 
 <YoutubeItem channelName="Tim Ermilov" channelId="TimErmilov" id="txjFB0Z0prU" title="Building products with javascript - Part 6 - Docker and Gitlab CI" />
 <YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />
 <YoutubeItem channelName="arahansa me" channelId="arahansame9320" id="0kEcPVUnaHA" title="초보 프론트엔드 시작해보기 -  Angular.js 댓글달기" />
-<YoutubeItem channelName="5분개발지식" channelId="user-sq7il2ir1e" id="E2HSpcN-ir4" title="협업 필수 yarn.lock /  package-lock.json" />
-
 <!-- [Tim Ermilov][yu-tim-ermilov] -->
 <!-- [Daniel Bark][yu-danielbark] -->
 <!-- [arahansa me][yu-arahansame9320] -->
-<!-- [5분개발지식][user-sq7il2ir1e] -->
 
 <TagLinks />
 
@@ -1294,7 +1296,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-tyler-potts]: https://www.youtube.com/@TylerPotts
 [yu-brianmmdev]: https://www.youtube.com/@brianmmdev
 [yu-code-w-sloba]: https://www.youtube.com/@CodewithSloba
-[yu-code-factory]: https://www.youtube.com/@codefactory_official
 [yu-zero-cho-tv]: https://www.youtube.com/@ZeroChoTV
 [yu-monsterlessons-academy]: https://www.youtube.com/@MonsterlessonsAcademy
 [yu-vicode-media]: https://www.youtube.com/@VicodeMedia
@@ -1338,7 +1339,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 [yu-code-bucks]: https://www.youtube.com/@CodeBucks
 [yu-huntabyte]: https://www.youtube.com/@Huntabyte
 [yu-chrome-devs]: https://www.youtube.com/@ChromeDevs
-[yu-dream-coding]: https://www.youtube.com/@dream-coding
 [yu-t3-dot-gg]: https://www.youtube.com/@t3dotgg
 [yu-frontend-masters]: https://www.youtube.com/@FrontendMasters
 <!-- Misc -->

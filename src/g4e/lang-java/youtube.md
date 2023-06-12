@@ -330,33 +330,9 @@ meta:
 
 ## Brandan Jones
 
-[Brandan Jones][yu-discospiff]
+<MyYouTubeItems jsonName="yu-discospiff" />
 
-::: details 목록
-
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="YamhpCK57NY" title="ObjectOutputStream, ObjectInputStream demonstrated in Java" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="GnPS_f3az1w" title="File IO in Java with Input and Output Streams and Writers" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="By_SOWhoe3o" title="Exception Best Practices Demonstrated in IntelliJ IDEA" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="YJWK36r8aZw" title="Animation and Explanation of Factory and Command Patterns" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="61r-nOqEchw" title="Use Design Patterns and SOLID to program without if tests" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="otQk8TSgtoE" title="Interfaces and SOLID principles" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="HO6m8JpA0ro" title="JUnit Annotations and Asserts Overview" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="XFhB-Tp9LOc" title="Implement Room Database to store RESTFul JSON Data locally" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="tLuHDcBBiz0" title="Integrate Google Map with Jetpack Compose and LiveData" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="nw35zroX3AQ" title="Preview Light and Dark Mode in IDE in Jetpack Compose with @Preview" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="Mv_yqVK_1ak" title="Test Driven Design and BDD: Hands on example in IntelliJ IDEA" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="Ioin0sG3b9U" title="Implementing a Power Broadcast Receiver in Android Kotlin" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="8SSHZ50NFJk" title="Sprint Overview: Maps, Broadcast Receiver, Notifications" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="tVzV4UbD7gk" title="Implement Room Database with Live Data in Android Kotlin" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="CuP1elpCuEA" title="Cloud Firestore with MVVM in Android Q Kotlin: Overview and Example" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="J7_4WrImJPk" title="Use verify in MockK to validate function calls on mocked object" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="vO9TM9qF0iE" title="Use Retrofit to parse JSON in Live Data, Kotlin, Integration Test" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="11iGyrvBhzc" title="Create a simple web service client with WSDL in Eclipse" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="8JJGGdMZPTk" title="Firebase Authentication with Email in Android: Example" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="ILavD8sE-ZU" title="Recursion: Palindromes demonstrated in IntelliJ IDEA Debugger" />
-<YoutubeItem channelName="Brandan Jones" channelId="discospiff" id="T_lWpqOWaE0" title="Set up Logging with Log4j2 in Java and IntelliJ IDEA" />
-
-:::
+<!-- Brandan Jones -->
 
 ---
 
@@ -894,6 +870,14 @@ meta:
 <MyYouTubeItems jsonName="yu-trustinlee" />
 
 <!-- Trustin Lee -->
+
+---
+
+## Philip Starritt
+
+<MyYouTubeItems jsonName="yu-PhilipStarritt" />
+
+<!-- Philip Starritt -->
 
 ---
 

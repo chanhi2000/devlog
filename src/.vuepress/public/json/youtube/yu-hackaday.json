@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "hackaday",
+    "name": "HACKADAY",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPgNF47qcdEYpUfSb5e5wHBOQgdKjnBq6wxqAbU2A=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "d4Pgi5XML8E",
+      "title": "HackadayU: Reverse Engineering with Ghidra Class 1"
+    }, {
+      "id": "vCG5_nxm2G4",
+      "title": "MeganWachs - Keynote RISC-V and FPGAs: Open Source Hardware Hacking"
+    }
+  ]
+}
+

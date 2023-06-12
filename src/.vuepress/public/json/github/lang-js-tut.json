@@ -99,5 +99,10 @@
     "desc": "Starter files, final projects, and FAQ for my Ultimate React course",
     "topics": ["udemy", "starter-code", "react-course"],
     "officialSite": ""
+  }, {
+    "repo": "30-seconds/30-seconds-of-code",
+    "desc": "Short code snippets for all your development needs",
+    "topics": ["nodejs", "javascript", "css", "python", "git", "html", "education", "snippets", "programming", "reactjs", "es6-javascript", "learn-to-code", "awesome-list", "snippets-collection", "learning-resources"],
+    "officialSite": "https://30secondsofcode.org"
   }
 ]

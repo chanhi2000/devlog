@@ -359,6 +359,14 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Smartherd
+
+<MyYouTubeItems jsonName="yu-smartherd" />
+
+<!-- Smartherd -->
+
+---
+
 <TagLinks />
 
 [yu-Philipp-Lackner]: https://www.youtube.com/@PhilippLackner

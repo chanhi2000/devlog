@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "SwiftBook",
+    "name": "SwiftBook",
+    "profile": "https://yt3.googleusercontent.com/DEgAdwexHKdiSJZMUkiLlj671SJ5vBQQBrD6MgL0LC3Q1sj1XNetV9xbEtZkAoquvxhM3BguVA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "0WONXkGGbMM", 
+      "title": "Знакомимся с PencilKit"
+    }, {
+      "id": "Zl3x0QJisyc", 
+      "title": "Использование UITextChecker совместно со SwiftUI"
+    }
+  ]
+}

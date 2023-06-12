@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "theurbanpenguin",
+    "name": "theurbanpenguin",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPuh-HaE0wBxLIqHYCujGE4q0hBjmacYjw0DuCiyg=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "EK-A--VaTYo",
+      "title": "Use Grep To Find Simple Patterns In Your Data Quickly And Easily!"
+    }, {
+      "id": "1S0-7m5kGhU", 
+      "title": "Using the Vagrant Ansible Local Provisioner"
+    }, {
+      "id": "1yF9x5BnWv0", 
+      "title": "Running an Ansible task with the condition that a service is running"
+    }, {
+      "id": "7-vKTMAPefI", 
+      "title": "Learning VIM - Day 4 of 7 - Search and replace text in the awesome vim editor"
+    }, {
+      "id": "eJrH59mxLmo", 
+      "title": "Ubuntu 18 04 : Active Directory Doman Controller"
+    }, {
+      "id": "Rzg1wFlJNU8", 
+      "title": "Searching for `rootkits` with rkhunter on CentOS 7"
+    }
+  ]
+}
+

@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "CodingAddict",
+    "name": "Coding Addict",
+    "profile": "https://yt3.googleusercontent.com/89aatDy0ndKkFTpEzXymJwKr3C9bMJ7pQFhSNpN7Z0J0Z-ievRjODaZphdQb-01YFGAiu12F=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "iZhV0bILFb0",
+      "title": "React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks"
+    }, {
+      "id": "TNV0_7QRDwY",
+      "title": "Node and Express Tutorial"
+    }, {
+      "id": "AfAZ33XjIBU",
+      "title": "Serverless Functions"
+    }, {
+      "id": "asB-dUwpH4Y",
+      "title": "Gatsby - Strapi Portfolio Project"
+    }, {
+      "id": "c5SIG7Ie0dM",
+      "title": "15 Vanilla Javascript Projects"
+    }
+  ]
+}
+
+

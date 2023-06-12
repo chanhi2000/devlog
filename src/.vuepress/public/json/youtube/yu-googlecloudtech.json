@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "googlecloudtech",
+    "name": "Google Cloud Tech",
+    "profile": "https://yt3.googleusercontent.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "9R87lm5OaLU",
+      "title": "How to migrate Tomcat applications to containers"
+    }, {
+      "id": "o5pKfH0Tonw",
+      "title": "Introducing AlloyDB, a PostgreSQL-compatible cloud database service"
+    }, {
+      "id": "VxXJUYcLmTk",
+      "title": "How to monitor quotas in Google Cloud"
+    }, {
+      "id": "7Z1mgOxWTs8",
+      "title": "Moving Cron Jobs to the Cloud"
+    }, {
+      "id": "q-nvbuc59Po",
+      "title": "How to convert PDFs to audiobooks with machine learning"
+    }
+  ]
+}

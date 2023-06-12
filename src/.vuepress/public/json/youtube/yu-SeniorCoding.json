@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "xTg3XFNVo7o",
+      "title": "{풀스택실무}  - AWS 프리티어 무료서버 및 DB 사용하기 (EC2 &amp; RDS)"
+    }, {
       "id": "44i8yJHxOnQ",
       "title": "{주말특강}  Javascript 상속에서의 prototype과 static 완벽 이해"
     }, {
@@ -44,3 +47,5 @@
     }    
   ]
 }
+
+

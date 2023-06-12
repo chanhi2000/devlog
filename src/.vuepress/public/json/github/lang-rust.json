@@ -374,6 +374,16 @@
       "desc": "Pure Rust implementation of a minimal Generative Pretrained Transformer",
       "topics": ["rust", "machine-learning", "neural-network", "gpt", "from-scratch", "llm"],
       "officialSite": "https://discord.gg/wTJFaDVn45"
+    }, {
+      "repo": "LemmyNet/lemmy",
+      "desc": "🐀 A link aggregator and forum for the fediverse",
+      "topics": ["chat", "rust", "reddit", "activitypub", "fediverse", "link-aggregator", "lemmy"], 
+      "officialSite": "https://join-lemmy.org"
+    }, {
+      "repo": "openobserve/openobserve",
+      "desc": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).",
+      "topics": ["elasticsearch", "kibana", "monitoring", "analytics", "metrics", "logs", "prometheus", "log-management", "observability", "traces", "log-analytics", "jaeger", "log-search", "opentelemetry"], 
+      "officialSite": "https://openobserve.ai"
     }
 ]
 

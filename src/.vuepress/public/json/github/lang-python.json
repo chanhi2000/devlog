@@ -1628,5 +1628,25 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "facebookresearch/audiocraft",
+    "desc": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "FlagAI-Open/FlagAI",
+    "desc": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "CHNZYX/Auto_Simulated_Universe",
+    "desc": "崩坏：星穹铁道 模拟宇宙自动化 （Honkai Star Rail - Auto Simulated Universe）",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Dobiasd/treebomination",
+    "desc": "convert a scikit-learn decision tree into a Keras model",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -98,6 +98,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-swift/README.md',
+        '/g4e/lang-swift/learn-essential-swift-in-one-hour.md',
         '/g4e/lang-swift/tips.md',
         '/g4e/lang-swift/snippets.md',
         '/g4e/lang-swift/references.md',
@@ -668,7 +669,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/22.md',
         '/crashcourse/paul-hudson-100-days-of-swift/23.md',
         '/crashcourse/paul-hudson-100-days-of-swift/24.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/24.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/25.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/26.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -688,7 +690,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/11.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/12.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/13.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/14.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/14.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/15.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

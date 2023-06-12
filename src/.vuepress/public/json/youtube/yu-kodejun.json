@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "kodejun",
+    "name": "KodeJUN",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOaS6kWLnIvM-rtvBvKCwlM0Tdf9d6LmfoRp-VjPqM7PG4CkTCMXMNSWH4zd5ld=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "hGOrVsjWtjA",
+      "title": "그래프 최소신장트리 Minimum spanning tree Prim Kruskal 알고리즘"
+    }, {
+      "id": "pcKOfAL2_8E",
+      "title": "최단경로 알고리즘 다익스트라 Graph Shortest Path Dijkstra"
+    }
+  ]
+}

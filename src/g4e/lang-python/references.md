@@ -76,4 +76,12 @@ description: 🐍Python > 📚References
 
 - [A Dev Container for SQLAlchemy with SQLTools](https://blog.pamelafox.org/2023/05/a-dev-container-for-sqlalchemy-with.html)
 
+---
+
+## Bite code!
+
+- [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
+
+---
+
 <TagLinks />

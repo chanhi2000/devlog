@@ -153,6 +153,14 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 
 ---
 
+## VoxelRifts
+
+<MyYouTubeItems jsonName="yu-voxelrifts" />
+
+<!-- VoxelRifts -->
+
+---
+
 <TagLinks />
 
 [yu-user-kw8xd4qi8q]: https://www.youtube.com/@user-kw8xd4qi8q

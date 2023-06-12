@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "hacktivityconf",
+    "name": "Hacktivity - IT Security Festival",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNT6w_TJwJ-xInTALK9ylri9LpfPHBqEjlW8suuBQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "tOUOzHOFNMs",
+      "title": "#Hacktivity2022 // How an Android Application can Drain Your Wallet? by Dimitrios Valsamaras"
+    }, {
+      "id": "0YAJugdyqgw",
+      "title": "Gabriel Cirlig - ADBHoney - Analyzing the ADB Malware Ecosystem"
+    }
+  ]
+}
+

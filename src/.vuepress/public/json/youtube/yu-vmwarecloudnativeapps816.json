@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "vmwarecloudnativeapps816",
+    "name": "VMware Cloud Native Apps",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPJH2KzkWVadf_WKXIS4iXC_AHSvnaZqS3qVMHz=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "brOoKhVxedE",
+      "title": "Getting Started Tutorials: ytt Part 2"
+    }, {
+      "id": "BAh_bNQoOoo",
+      "title": "Kubernetes Operating System (The Podlets, Ep 20)"
+    }, {
+      "id": "6pFW6h6AORQ",
+      "title": "TGI Kubernetes 108: Cluster-API Docker"
+    }, {
+      "id": "4OQ_2hTyNrI",
+      "title": "TGI Kubernetes 087: Octant"
+    }
+  ]
+}
+

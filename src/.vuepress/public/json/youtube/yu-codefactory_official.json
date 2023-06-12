@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "codefactory_official",
+    "name": "코드팩토리",
+    "profile": "https://yt3.googleusercontent.com/URCa3E_BdLzRoo8CTh4Wd4ERvuDth4kDcooDJXGWCnuzydZpXgchzTM2r_PVtar-YJxmHlPHqQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "5W72UHb-9iI",
+      "title": "Client Side Rendering vs Server Side Rendering 모르면 일단 누르세요~"
+    }, {
+      "id": "tjHljJRooHU",
+      "title": "React Mobx 안어렵습니다!"
+    }, {
+      "id": "uStypvlzi8w",
+      "title": "[웹개발] [React] React Hooks 10분만에 배우기 (`useState`, `useEffect`, `customHooks`)"
+    }, {
+      "id": "b7Uqx7NZpHw",
+      "title": "[웹개발] [React] React 개발자라면 꼭 알아야하는"
+    }, {
+      "id": "ZOVG7_41kJE",
+      "title": "9시간이면 누구든 Javascript 개발자로 만들어버리는 마법같은 영상 | 타임스탬프 O"
+    }
+  ]
+}
+

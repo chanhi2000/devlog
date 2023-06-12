@@ -374,6 +374,20 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## theurbanpenguin
+
+<MyYouTubeItems jsonName="yu-theurbanpenguin" />
+
+<!-- theurbanpenguin -->
+
+---
+
+## Joseph Delgadillo
+
+<MyYouTubeItems jsonName="yu-JosephDelgadillo" />
+
+<!-- Joseph Delgadillo -->
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech
