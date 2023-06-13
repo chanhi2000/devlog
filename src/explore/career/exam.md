@@ -30,4 +30,15 @@ tags: ["career", "exam", "resource", "cbt"]
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 
+---
+
+## Study Algorithm
+
+- [VisuAlgo](https://visualgo.net/en): visualising data structures and algorithms through animation
+- [BaekJoon Online Judge](https://www.acmicpc.net)
+- [Toptal - Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [카우리즘. 중앙대 알리ㅁ 연구회](https://cafe.naver.com/caulism)
+
+---
+
 <TagLinks />

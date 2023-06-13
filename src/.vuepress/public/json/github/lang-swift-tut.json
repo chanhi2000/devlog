@@ -19,5 +19,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "vincent-pradeilles/swift-tips",
+    "desc": "A collection useful tips for the Swift language",
+    "topics": ["swift", "tips"],
+    "officialSite": ""
   }
 ]

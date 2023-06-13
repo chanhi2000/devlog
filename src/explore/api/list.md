@@ -61,6 +61,9 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [Unscreen](https://www.unscreen.com)
 - [DrawSQL](https://drawsql.app)
 - [Database diagram](https://databasediagram.com)
+- [Whatsmydns.net](https://www.whatsmydns.net)
+
+---
 
 ### 대한민국
 
@@ -123,6 +126,8 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [Hero Patterns](https://heropatterns.com): A collection of repeatable SVG background patterns for you to use on your web projects.
 - [BGJar](https://bgjar.com): Free svg background generator for your websites, blogs and app.
 - [Pattern Monster](https://pattern.monster): Customizable SVG patterns for your projects
+- [VisuAlgo](https://visualgo.net/en): visualising data structures and algorithms through animation
+- [unDraw](https://undraw.co)
 
 ---
 

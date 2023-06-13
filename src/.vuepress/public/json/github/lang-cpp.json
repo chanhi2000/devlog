@@ -344,6 +344,11 @@
     "desc": "A work-in-progress decompilation of LEGO Island (1997)",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "YimMenu/YimMenu",
+    "desc": "YimMenu, a GTA V menu oriented at protecting from crashes (not all currently) and improving the overall experience.",
+    "topics": ["cpp", "mod", "menu", "gta5", "gtav", "mod-menu"],
+    "officialSite": "https://yim.gta.menu"
   }
 ]
 

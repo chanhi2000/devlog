@@ -74,6 +74,10 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## amplication
+
+- [Why We Chose Node.js Over Deno?](https://amplication.com/blog/why-we-chose-nodejs-over-deno)
+
 ## Mike Aparicio
 
 - [Why we're bad at CSS](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css)
@@ -89,6 +93,18 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 ## Eric Bailey
 
 - [Don’t use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars)
+
+---
+
+## kurtextrem
+
+- [The modern way of serving images](https://kurtextrem.de/posts/modern-way-of-img)
+
+---
+
+## CSS in Real Life
+
+- [Reducing Complexity in Front End Development](https://css-irl.info/reducing-complexity-in-front-end-development)
 
 ---
 
@@ -118,6 +134,7 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 - [Colorzilla: Gradient Generator](https://www.colorzilla.com/gradient-editor)
 - [TinyPNG](https://tinypng.com)
 - [favicon.ico Generator](https://www.favicon.cc)
+
 ---
  
 <TagLinks />

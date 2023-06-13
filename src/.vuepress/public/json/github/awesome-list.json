@@ -17,7 +17,7 @@
   }, {
     "repo": "iCHAIT/awesome-macOS",
     "desc": " A curated list of awesome applications, softwares, tools and shiny things for macOS.",
-    "topics": [],
+    "topics": ["macos", "mac", "list", "apple", "awesome", "awesome-list", "awesome-lists"], 
     "officialSite": ""
   }, {
     "repo": "sindresorhus/awesome",
@@ -499,5 +499,25 @@
     "desc": "📕 국내 개발 도서 리스트",
     "topics": ["awesome", "programming", "books", "book", "awesome-list", "learning-resources"],
     "officialSite": "https://git.io/awesome-devbook"
+  }, {
+    "repo": "dashvlas/awesome-ios-interview",
+    "desc": "📲 The curated list of iOS Developer interview questions and answers, Swift & Objective-C",
+    "topics": ["macos", "swift", "ios", "objective-c", "xcode", "interview", "ios-swift", "developer-tools", "awesome-list", "interview-practice", "interview-questions", "interview-test-task", "ios-sdk", "interview-answers", "interview-preparation", "awesome-ios", "ios-interview", "ios11"], 
+    "officialSite": "http://appstore.com/awesomeinterview"
+  }, {
+    "repo": "jogendra/example-ios-apps",
+    "desc": " A curated list of Open Source example iOS apps developed in Swift. An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
+    "topics": ["swift", "ios", "apple", "xcode", "examples", "applications", "ios-app", "swift-language", "swift-3", "ios-swift", "swift3", "ios-ui", "ios-demo", "example-project", "hacktoberfest", "xcode-templates", "xcodeproj", "example-repo", "swift4", "example-app"], 
+    "officialSite": "https://jogendra.github.io"
+  }, {
+    "repo": "serhii-londar/open-source-mac-os-apps",
+    "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+    "topics": ["javascript", "ruby", "python", "c", "macos", "swift", "open-source", "mac", "c-plus-plus", "awesome", "opensource", "objective-c", "apps", "applications", "macosx", "awesome-list", "hacktoberfest", "macos-application"], 
+    "officialSite": ""
+  }, {
+    "repo": "krzysztofzablocki/Swift-Macros",
+    "desc": "A curated list of awesome Swift Macros",
+    "topics": [],
+    "officialSite": ""
   }
 ]

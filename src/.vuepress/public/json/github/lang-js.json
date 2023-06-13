@@ -1159,5 +1159,20 @@
     "desc": "🇰🇷영타를 한글로, 한타를 영어로 변환해주는 자바스크립트 오픈소스 라이브러리",
     "topics": ["korea", "korean", "hangul", "inko"],
     "officialSite": "https://inko.js.org"
+  }, {
+    "repo": "kirel/detexify",
+    "desc": "Latex Symbol Classifier Web Frontend",
+    "topics": [],
+    "officialSite": "http://detexify.kirelabs.org"
+  }, {
+    "repo": "evanw/polywasm",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "rvaidun/befake",
+    "desc": "view bereals without posting your own :)",
+    "topics": [],
+    "officialSite": ""
   }
 ]

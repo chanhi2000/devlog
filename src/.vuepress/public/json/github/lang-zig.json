@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "topics": ["language", "compiler", "zig"],
+    "officialSite": "https://ziglang.org"
+  }, {
+    "repo": "andrewrk/poop",
+    "desc": "Performance Optimizer Observation Platform",
+    "topics": [],
+    "officialSite": ""
+  }
+]

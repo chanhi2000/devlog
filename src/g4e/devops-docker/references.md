@@ -52,6 +52,12 @@ description: 🐋Docker > 📚References
 
 ---
 
+## Last9
+
+- [Prometheus vs Thanos](https://last9.io/blog/prometheus-vs-thanos )
+
+---
+
 ## 강남언니
 
 - [Docker Compose 로 local 개발 환경 쉽게 관리하기](https://blog.gangnamunni.com/post/docker-compose-for-local-env)

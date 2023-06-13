@@ -59,17 +59,50 @@ class GodActivity : AppCompatActivity {
 ## Foreground Service
 
 ```kotlin
-override fun onStartCommand(intent: Intent?, flag: Int, startId: Int): Int {
-    createNotificaionChannel()
-    val notification: Notification =
-        NotificatoinCompat.Builder(this, CHANNEL_ID)
-            .setContentTitle("Foreground Service")
-            .setContentText("Foreground service is running")
-            .setSmallIcon(R.drawable.ic_lock_idle_alarm)
-            .build()
-    startForeground(1, notification)            
-    return START_STICKY
+class MyForeroundService: Service() {
+
+    override fun onBind(p0: Intent?): IBinder? { return null }
+    override fun onStartCommand(intent: Intent?, flag: Int, startId: Int): Int {
+        when (intent?.action) {
+            ACTION_START_SERVICE -> {
+                isRunning = true
+                startAsForegroundService()
+                
+            }
+            ACTION_STOP_SERVICE -> {
+                isRunning = false
+                stopForeground(true)
+                stopSelf()
+            }
+        }
+                   
+        return START_STICKY
+    }
+
+    companion object {
+        var isRunning = false
+        const val ACTION_START_SERVICE = "ACTION_START_SERVICE"
+        const val ACTION_STOP_SERVICE = "ACTION_STOP_SERVICE"
+    }
+
+    private fun startAsForegroundService() {
+        val activityPendingIntent = Intent(this, MainActivity::class.java).let {
+            it.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
+            PendingIntent.getActivity(this, 0, it, 0)
+        }
+        val notification: Notification =
+                    NotificatoinCompat.Builder(this, NotificationConstants.SOUND_SERVICE_CHANNEL_ID)
+                        .setContentIntent(activityPendingIntent)
+                        .setOngoing(true)
+                        .setSmallIcon(R.drawable.ic_service)
+                        .setContentTitle("Foreground Service")
+                        .setContentText("Foreground service is running")
+                        .build()
+                        
+                startForeground(1, notification) 
+    }
 }
+
 ```
 
 ---
@@ -206,6 +239,7 @@ class MainActivity: AppCompatActivity() {
 ```
 
 :::
+
 
 ---
 

@@ -95,7 +95,7 @@ export default {
       const fetchedItems = await res.json();
 
       let jsonFullPathsLang = [
-        "batchfile", "blade", "c", "cpp", "crystal", "csharp", "dart", "go", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "python", "ruby", "rust", "sh", "solidity", "swift", "ts", "vim-script"
+        "batchfile", "blade", "c", "common-lisp", "cpp", "crystal", "csharp", "dart", "go", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "python", "ruby", "rust", "sh", "solidity", "swift", "ts", "vim-script", "zig"
       ].map((e) => `/json/github/lang-${e}.json`);
 
       let jsonFullPathsLangTut = [

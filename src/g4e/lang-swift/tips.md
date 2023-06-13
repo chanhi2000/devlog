@@ -18,6 +18,56 @@ tips: ["swift", "swift3", "swift4", "swift-ui", "swiftui", "tips", "xcode", "mac
 
 ---
 
+## Foundation Improvements
+
+### Attributed Strings
+
+- New __string type__: has character counting like strings
+- Are __localisable__: also allowing for __interpolation__
+- Has __markdown support__
+
+```swift
+// Attributed String
+var exampleString = AttributedString("Hello")
+exampleString.font = .italicSystemFont(ofSize: 20)
+
+// Attributed Container
+var container = AttributedContainer()
+container.foregroundColor = .systemRed
+container.backgroundColor = .gray
+container.kern = 2.0
+
+var userName = AttributedString("@vikingskullapps")
+userName.mergeAttributes(container)
+```
+
+### makrdown support
+
+- Attributed strings can now be created with __markdown__
+- SwiftUI __Text views support__ makrdown syntax
+
+```swift
+let markdownExample = try AttributedString(markdown: "**Hello** _world_!")
+
+// Text
+Text("**VikingSkullApps** - [instagram](https://instagram.com/vikingskullapps)")
+```
+
+### date formatter
+
+- New API: improved __usability__ and __performance__ with a __declarative approach__
+- No need to __cache date formatters__
+
+```swift
+let currentDate = Date()
+let date = currentDate.formatted(.dateTime.day().month().year()) // Oct 25, 2021
+let dayYear = currentDate.formatted(.dateTime.day().year()) // 2021 (day:25)
+let onlyDate = currentDate.formatted(date: .numeric, time: .omitted) // 10/25/2021
+let dateLong = currentDate.formatted(date: .long, time: .complete) // October 25, 2021, 11:56:25 PM GMT+1
+```
+
+---
+
 ## MVVM Architecture Pattern in Swift
 
 ::: details MVVM Architecture Pattern in Swift

@@ -794,5 +794,25 @@
     "desc": "Authentication, simple and clean",
     "topics": ["nodejs", "oauth", "typescript", "authentication", "nextjs", "sveltekit"],
     "officialSite": "https://lucia-auth.com"
+  }, {
+    "repo": "akd-io/create-next-stack",
+    "desc": "Create Next Stack is a website and CLI tool used to easily set up the boilerplate of new Next.js apps.",
+    "topics": ["react", "cli", "template", "boilerplate", "typescript", "web", "eslint", "frontend", "nextjs", "prettier", "starter", "starter-kit", "scaffolding"], 
+    "officialSite": "https://www.create-next-stack.com"
+  }, {
+    "repo": "nrwl/nx",
+    "desc": "Smart, Fast and Extensible Build System",
+    "topics": ["react", "nodejs", "javascript", "cli", "angular", "build", "typescript", "nextjs", "monorepo", "storybook", "build-tool", "build-system", "hacktoberfest", "cypress", "nx", "nx-workspaces", "building-tool"],
+    "officialSite": "https://nx.dev"
+  }, {
+    "repo": "heybereket/hiddentools",
+    "desc": "✨ Discover a wide collection of unique tools",
+    "topics": [],
+    "officialSite": "https://hiddentools-eight.vercel.app"
+  }, {
+    "repo": "quicktype/quicktype",
+    "desc": "Generate types and converters from JSON, Schema, and GraphQL",
+    "topics": ["kotlin", "java", "graphql", "swift", "rust", "golang", "json", "typescript", "csharp", "cplusplus", "objective-c", "json-schema", "elm"],
+    "officialSite": "https://app.quicktype.io"
   }
 ]

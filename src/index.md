@@ -67,6 +67,9 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://datatau.net">DataTau</a></li>
       <li><a target="_blank" href="https://blog.bytebytego.com">ByteByteGo</a></li>
       <li><a target="_blank" href="https://zsync.xyz">ZSync</a></li>
+      <li><a target="_blank" href="https://hiddentools-eight.vercel.app">HiddenTools</a></li>
+      <li><a target="_blank" href="https://keyframes.app">more tools for devs</a></li>
+      <li><a target="_blank" href="https://alistapart.com">a list apart</a></li>
     </ul>
   </div>
 </div>

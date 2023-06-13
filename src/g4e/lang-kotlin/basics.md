@@ -78,4 +78,85 @@ data class FooBar(
 }
 ```
 
+---
+
+## `in`, `out`, and `where`
+
+::: details `in`, `out`, and `where`
+
+They are variance modifiers and they help us allowing subtyping when using generics
+
+Suppose we have a class called `Case` that will indicate if we either consume a weapon or produce it
+
+```kotlin
+class Case<T: Weapon> {
+    private val contents = mutableListOf<T>()
+    fun produce(): T = contents.last()
+    fun consume(item: T) = contents.add(item)
+}
+```
+
+You might think that this is indeed possible thanks to polymorphism
+
+```kotlin
+val sniperRifle: Case<SniperRifle> = Case<SniperRifle>()
+var rifle = Case<Rifle>()
+rifle = sniperRifle // NOPE
+```
+
+Normally assigning a child instance to a parent instance is possible. But this time it isn't because __generics doesn't allow subtyping by default__ and by that I mean we have to yous keywords like `out` and `in` to be able to use subtyping.
+
+If we declare `T` with an `out` modifier, it will be convariant, so now we preserve subtyping but we cannot consume (take `T` as parameters) `T`, we can just produce (return) it.
+
+```kotlin
+class Case<out T: Weapon> {
+    private val contents = mutableListOf<T>()
+    fun produce(): T = contents.last()
+    // this is nolonger possible
+    // fun consume(item: T) = contents.add(item)
+}
+```
+
+This is now possible 
+
+```kotlin
+val sniperRifle: Case<SniperRifle> = Case<SniperRifle>()
+var rifle = Case<Rifle>()
+rifle = sniperRifle
+rifle.produce()
+```
+
+if we declare `T` with an `in` modifier, it will be contravariant. Think of it as the other way around (sort of), because we can now consume `T` but we can't produce `T`
+
+```kotlin
+class Case<oin T: Weapon> {
+    private val contents = mutableListOf<T>()
+    // this is nolonger possible
+    // fun produce(): T = contents.last()
+    fun consume(item: T) = contents.add(item)
+}
+```
+
+But here is where things get a little bit weird. Now a parent class will be the child of its child class, so `rifle` is now a subclass of `sniperRifle` so you treat it as if `rifle` is extending `sniperRifle` or as if weapon is extending knife and rifle
+
+```kotlin
+val sniperRifle: Case<SniperRifle> = Case<SniperRifle>()
+var rifle = Case<Rifle>()
+sniperRifle = rifle
+sniperRifle.consume(Rifle())
+```
+
+Finally what is all about with the `where` keyword? We use it when we want to extend from several interfaces and not just one. This is also called _an uppoer bound_. Suppose we have a function to sell weapons and we want to sell just weapons and usable ones (note the new interface I made usable). If the data type we pass is a weapon and is usable, we can proceed to use the function, otherwise we _can't_. This is only possible with function
+
+```kotlin
+fun <T> sellWeapon(weapon: T): String where T : Weapon, T : Usable {
+    print("$weapon was just sold")
+    return "success"
+}
+```
+
+:::
+
+---
+
 <TagLinks />

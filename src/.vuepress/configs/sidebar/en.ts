@@ -90,6 +90,8 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java-android/adb.md',
         '/g4e/lang-java-android/tips.md',
         '/g4e/lang-java-android/troubleshooting.md',
+        '/g4e/lang-java-android/snippets-kotlin.md',
+        '/g4e/lang-java-android/snippets-jetpack-compose.md',
         '/g4e/lang-java-android/snippets-gradle.md',
         '/g4e/lang-java-android/references.md',
         '/g4e/lang-java-android/youtube.md',

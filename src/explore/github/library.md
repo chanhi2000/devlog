@@ -104,8 +104,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Zig
 
-- [ziglang/zig][ziglang/zig]: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-  - [🌐Official Site](https://ziglang.org)
+<MyGithubItems jsonName="lang-zig" />
 
 ---
 
@@ -131,10 +130,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Common Lisp
 
-- [melisgl/mgl][melisgl/mgl]: Common Lisp machine learning library.
-- [PuellaeMagicae/unix-in-lisp][PuellaeMagicae/unix-in-lisp]: Mount Unix system into Common Lisp image
+<MyGithubItems jsonName="lang-common-lisp" />
 
-
+---
 
 ## Verilog
 
@@ -214,10 +212,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [softdorothy/GliderPRO]: https://github.com/softdorothy/GliderPRO
 <!-- V -->
 [vlang/v]: https://github.com/vlang/v
-<!-- Zig -->
-[ziglang/zig]: https://github.com/ziglang/zig
-<!-- Soliditiy -->
-[SunWeb3Sec/DeFiHackLabs]: https://github.com/SunWeb3Sec/DeFiHackLabs
 <!-- Riot -->
 [Joxit/docker-registry-ui]: https://github.com/Joxit/docker-registry-ui
 <!-- Smalltalk -->
@@ -225,6 +219,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 <!-- Common Lisp -->
 [melisgl/mgl]: https://github.com/melisgl/mgl
 [PuellaeMagicae/unix-in-lisp]: https://github.com/PuellaeMagicae/unix-in-lisp
+[reddit-archive/reddit1.0]: https://github.com/reddit-archive/reddit1.0
 <!-- Verilog -->
 [lawrie/fpga_pio]: https://github.com/lawrie/fpga_pio
 <!-- DevOps -->

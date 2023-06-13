@@ -42,6 +42,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Favorite JavaScript utilities in single line of code! No more!](https://1loc.dev)
 - [useHooks - A collection of Server Component safe React Hooks – from the ui.dev team](https://usehooks.com)
 - [React30](https://react30.com)
+- [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 
 ---
 
@@ -134,6 +135,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [My notes about conducting a massive refactor in a Vue.js website](https://dev.to/marianapicolo/my-notes-about-conducting-a-massive-refactor-in-a-vue-js-website-bo7)
 - [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
+- [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
 
 ---
 
@@ -184,6 +186,11 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## DigitalOcean 
+
+- [Using Bitwise operators in JavaScript](https://www.digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
+
+---
 ## FreeCodeCamp
 
 - [about React](https://www.freecodecamp.org/news/tag/react)
@@ -194,6 +201,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
 - [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 - [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
+- [JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 
 ---
 
@@ -206,6 +214,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Builder.io
 
 - [Rapid Mock API creation with ChatGPT and json-server](https://www.builder.io/blog/mock-api-data-with-chatgpt)
+- [A Visual Guide to the new App Router in Next.js 13](https://www.builder.io/blog/next-13-app-router)
 
 ---
 
@@ -305,6 +314,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Nerd Level Tech
+
+- [The Complete Guide to Becoming a Web Developer: Part 3](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-3)
+
+---
+
 ## hiddenest
 
 - [접혀진 아코디언은 검색할 수 없나요?](https://hiddenest.dev/accessible-accordion)
@@ -357,6 +372,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Dev-Dojo
 
 - [Custom Tooltip Directive in Vuejs 3: Tutorial](https://devdojo.com/inspector/custom-tooltip-directive-in-vuejs-3-tutorial)
+- [Animating Tailwind Transitions on Page Load](https://devdojo.com/tnylea/animating-tailwind-transitions-on-page-load)
 
 ---
 
@@ -376,6 +392,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
 - [Can I use](https://caniuse.com)
+- [Create Next Stack: The ultimate starter kit for Next.js](https://www.create-next-stack.com)
 
 ---
 

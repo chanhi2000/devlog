@@ -234,6 +234,11 @@
     "desc": "µTox the lightest and fluffiest Tox client",
     "topics": ["android", "c", "light", "windows", "macos", "linux", "fast", "lightweight", "security", "video", "osx", "text", "messenger", "voice", "secure", "private", "encrypted", "tox", "str8c"],
     "officialSite": ""
+  }, {
+    "repo": "ataradov/usb-sniffer",
+    "desc": "Low-cost LS/FS/HS USB sniffer with Wireshark interface",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

@@ -1683,5 +1683,15 @@
     "desc": "Always know what to expect from your data.",
     "topics": ["data-science", "pipeline", "exploratory-data-analysis", "eda", "data-engineering", "data-quality", "data-profiling", "datacleaner", "exploratory-analysis", "cleandata", "dataquality", "datacleaning", "mlops", "pipeline-tests", "pipeline-testing", "dataunittest", "data-unit-tests", "exploratorydataanalysis", "pipeline-debt", "data-profilers"],
     "officialSite": "https://docs.greatexpectations.io"
+  }, {
+    "repo": "lexifdev/checkdnskr",
+    "desc": "한국의 주요 DNS서버들은 어떤 값을 반환해주고 있는지 보여주는 사이트입니다.",
+    "topics": [],
+    "officialSite": "https://checkdnskr.appspot.com"
+  }, {
+    "repo": "hiyouga/LLaMA-Efficient-Tuning",
+    "desc": "Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)",
+    "topics": ["bloom", "transformers", "llama", "quantization", "language-model", "fine-tuning", "peft", "pre-training", "llm", "rlhf", "qlora"],
+    "officialSite": ""
   }
 ]

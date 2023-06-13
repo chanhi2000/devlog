@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "melisgl/mgl",
+    "desc": "Common Lisp machine learning library.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PuellaeMagicae/unix-in-lisp",
+    "desc": "Mount Unix system into Common Lisp image",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "reddit-archive/reddit1.0",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }
+]

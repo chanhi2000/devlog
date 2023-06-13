@@ -399,6 +399,11 @@
     "desc": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
     "topics": ["rust", "command-line", "file-sharing", "webdav", "file-upload-server", "static-server", "webdav-server", "cloud-disk"],
     "officialSite": ""
+  }, {
+    "repo": "r9os/r9",
+    "desc": "The R9 operating system",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

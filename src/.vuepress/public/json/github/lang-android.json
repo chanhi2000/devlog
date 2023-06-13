@@ -199,5 +199,30 @@
     "desc": "A native android app for Lemmy",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Droppers/TimeRangePicker",
+    "desc": "A customizable, easy-to-use, and functional circular time range picker library for Android. Use this library to mimic Apple's iOS or Samsung's bedtime picker.",
+    "topics": ["android", "kotlin", "java", "slider", "range", "picker", "time-picker", "time-range"], 
+    "officialSite": ""
+  }, {
+    "repo": "MackHartley/RoundedProgressBar",
+    "desc": "A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use 🎉",
+    "topics": ["android", "progress-bar", "android-library", "animated", "rounded-corners"],
+    "officialSite": ""
+  }, {
+    "repo": "QuickBirdEng/SurveyKit",
+    "desc": "Android library to create beautiful surveys (aligned with ResearchKit on iOS)",
+    "topics": ["android", "kotlin", "data", "research", "forms", "kotlin-android", "android-library", "poll", "survey", "medical", "clinical-trials", "study-conduct", "ios-researchkit-surveys"], 
+    "officialSite": ""
+  }, {
+    "repo": "TOrnelas/SegmentedProgressBar",
+    "desc": "An instagram-like segmented progress bar",
+    "topics": ["instagram", "progress-bar", "android-library", "viewpager"], 
+    "officialSite": ""
+  }, {
+    "repo": "ParkSangGwon/TedImagePicker",
+    "desc": "TedImagePicker is simple/beautiful/smart image picker",
+    "topics": [],
+    "officialSite": ""
   }
 ]

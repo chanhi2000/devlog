@@ -249,5 +249,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "tatsu-lab/alpaca_eval",
+    "desc": "A validated automatic evaluator for instruction-following language models. High-quality, cheap, and fast.",
+    "topics": ["nlp", "deep-learning", "leaderboard", "evaluation", "instruction-following", "foundation-models", "large-language-models", "rlhf"],
+    "officialSite": "https://tatsu-lab.github.io/alpaca_eval"
   }
 ] 
