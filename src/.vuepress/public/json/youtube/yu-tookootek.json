@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "tookootek",
+    "name": "tookootek",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMG0UYZ4y5lFMr90e5p-1LiqllhaPZs1ooIX0gq=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "hq2i7rd0iow",
+      "title": "[How to Install JDK | Visual Studio Code for Java on Windows 11 (2023) | Set JAVA_HOME"
+    }, {
+      "id": "2M0L6w3tMOY",
+      "title": "[JavaFX Tutorial | Search Bar and TableView filter result as you search"
+    }, {
+      "id": "J0IE5LRyzx8",
+      "title": "[JavaFX Tutorial | Login Screen with database connection (2021)"
+    }, {
+      "id": "DH3dWzmkT5Y",
+      "title": "[JavaFX Tutorial | Login and Register Screen GUI In IntelliJ & Scene Builder With MySQL - Part 1|2"
+    }, {
+      "id": "hq2i7rd0iow",
+      "title": "[How to Install JDK | Visual Studio Code for Java on Windows 11 (2023) | Set `JAVA_HOME`"
+    }
+  ]
+}
+

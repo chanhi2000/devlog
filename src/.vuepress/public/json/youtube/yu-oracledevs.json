@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "oracledevs",
+    "name": "Oracle Developers",
+    "profile": "https://yt3.googleusercontent.com/lcKLS7QrArOgeowhP4w-e-tshFE_K41O5M0xzoP7gGWcyG9ctskTzU20NDYiRZKf-4oJ1C30qQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "jdSoMy-kEK0",
+      "title": "Supporting Multitenancy Applications with Java EE"
+    }
+  ]
+}

@@ -224,6 +224,11 @@
     "desc": "Unofficial git mirror of SQLite sources (see link for build instructions)",
     "topics": [],
     "officialSite": "https://repo.or.cz/sqlite.git"
+  }, {
+    "repo": "openSIL/openSIL",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

@@ -261,7 +261,7 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 - [Porting WaterLily.jl into a backend-agnostic solver](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
 - [Junior to senior: An action plan for engineering career success](https://github.com/readme/guides/engineering-career-success)
 - [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
-
+- [Johnny•Decimal - A system to organise projects](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction)
 ---
 
 

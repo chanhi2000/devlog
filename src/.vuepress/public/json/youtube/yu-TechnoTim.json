@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "TechnoTim",
+    "name": "Techno T",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM1etaWHou0Vv7aTCU0k0_G4J1DU4W9gU1-C0qWDQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "8DeG3qO-HIA",
+      "title": "Low Power Cluster - Small, Efficient, BUT Powerful!"
+    }, {
+      "id": "M365jgJ0O2E",
+      "title": "How to Update Portainer Fast, Simple, and Easy Guide"
+    }, {
+      "id": "nt__J9Yr8_w",
+      "title": "I think I found a Dropbox replacement with Nextcloud..."
+    }, {
+      "id": "z1FyoCswwAc",
+      "title": "How to Create a Multiboot USB with Ventoy Fast, Simple, and Easy Guide"
+    }, {
+      "id": "vyrj6t8xjoQ",
+      "title": "Containerizing HandBrake with Docker and Kubernetes"
+    }
+  ]
+}

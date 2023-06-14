@@ -1451,7 +1451,7 @@
   }, {
     "repo": "ShishirPatil/gorilla",
     "desc": "Gorilla: An API store for LLMs",
-    "topics": ["api", "gpt-4", "llm", "anthropic-claude"],
+    "topics": ["api", "api-documentation", "llm", "chatgpt", "gpt-4-api"],
     "officialSite": "https://gorilla.cs.berkeley.edu"
   }, {
     "repo": "Liuhong99/Sophia",
@@ -1657,6 +1657,11 @@
     "repo": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
     "desc": "Voice data <= 10 mins can also be used to train a good VC model!",
     "topics": ["converter", "conversion", "voice", "audio-analysis", "change", "rvc", "voice-conversion", "retrieve-data", "vc", "conversational-ai", "retrieval-model", "voice-converter", "vits", "voiceconversion", "sovits", "so-vits-svc"],
+    "officialSite": ""
+  }, {
+    "repo": "AntonOsika/gpt-engineer",
+    "desc": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+    "topics": [],
     "officialSite": ""
   }
 ]

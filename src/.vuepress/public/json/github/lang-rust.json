@@ -1,389 +1,399 @@
 [
-    {
-        "repo": "tauri-apps/tauri",
-        "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
-        "topics": [],
-        "officialSite":"https://tauri.app"
-    }, {
-        "repo": "helix-editor/helix",
-        "desc": "A post-modern modal text editor.",
-        "topics": ["vim", "rust", "kakoune", "text-editor"],
-        "officialSite":"https://helix-editor.com"
-    }, {
-        "repo": "surrealdb/surrealdb",
-        "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
-        "topics": [],
-        "officialSite":"https://surrealdb.com"
-    }, {
-        "repo": "paradigmxyz/reth",
-        "desc": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
-        "topics": [],
-        "officialSite":""
-    }, {
-        "repo": "pichenettes/eurorack",
-        "desc": "Eurorack modules",
-        "topics": [],
-        "officialSite":""
-    }, {
-        "repo": "tw93/Pake",
-        "desc": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
-        "topics": ["rust", "productivity", "mac", "youtube", "twitter", "webview", "open", "high-performance", "loop", "openai", "windows-desktop", "linux-desktop", "tauri", "mac-desktop", "gpt-4", "wry", "no-electron", "chatgpt"],
-        "officialSite":""
-    }, {
-        "repo": "0x192/universal-android-debloater",
-        "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
-        "topics": [],
-        "officialSite":""
-    }, {
-        "repo": "spacedriveapp/spacedrive",
-        "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
-        "topics": [],
-        "officialSite":"https://spacedrive.com"
-    }, {
-        "repo": "pola-rs/polars",
-        "desc": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
-        "topics": [],
-        "officialSite":"https://pola.rs"
-    }, {
-        "repo": "m1guelpf/plz-cli",
-        "desc": "Copilot for your terminal",
-        "topics": [],
-        "officialSite":"https://pola.rs"
-    }, {
-        "repo": "google/forma",
-        "desc": "An efficient vector-graphics renderer",
-        "topics": [],
-        "officialSite":""
-    }, {
-        "repo": "Spotifyd/spotifyd",
-        "desc": "A spotify daemon",
-        "topics": [],
-        "officialSite":""
-    }, {
-        "repo": "o2sh/onefetch",
-        "desc": "Command-line Git information tool",
-        "topics": [],
-        "officialSite":"https://onefetch.dev"
-    }, {
-        "repo": "lencx/ChatGPT",
-        "desc": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
-        "topics": [],
-        "officialSite":""
-    }, {
-        "repo": "lapce/lapce",
-        "desc": "Lightning-fast and Powerful Code Editor written in Rust",
-        "topics": [],
-        "officialSite": "http://lapce.dev"
-    }, {
-        "repo": "RustPython/RustPython",
-        "desc": "A Python Interpreter written in Rust", 
-        "topics": [],
-        "officialSite": "https://rustpython.github.io"
-    }, {
-        "repo": "naaive/orange",
-        "desc": "Cross-platform local file search engine.",
-        "topics": [],
-        "officialSite": "https://0-range.github.io"
-    }, {
-        "repo": "apache/arrow-datafusion",
-        "desc": "Apache Arrow DataFusion SQL Query Engine",
-        "topics": [],
-        "officialSite": "https://arrow.apache.org/datafusion"
-    }, {
-        "repo": "rustdesk/rustdesk",
-        "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
-        "topics": [],
-        "officialSite": "https://rustdesk.com"
-    }, {
-        "repo": "SergioBenitez/Rocket",
-        "desc": "A web framework for Rust.",
-        "topics": [],
-        "officialSite": "https://rocket.rs"
-    }, {
-        "repo": "meilisearch/meilisearch",
-        "desc": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
-        "topics": [],
-        "officialSite": "https://www.meilisearch.com"
-    }, {
-        "repo": "EAimTY/tuic",
-        "desc": "Delicately-TUICed high-performance proxy built on top of the QUIC protocol",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "aptos-labs/aptos-core",
-        "desc": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
-        "topics": [],
-        "officialSite": "https://aptoslabs.com"
-    }, {
-        "repo": "tokio-rs/axum",
-        "desc": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "bevyengine/bevy",
-        "desc": "A refreshingly simple data-driven game engine built in Rust",
-        "topics": ["rust", "open-source", "gamedev", "game-engine", "game-development", "hacktoberfest", "bevy"],
-        "officialSite": "https://bevyengine.org"
-    }, {
-        "repo": "AleoHQ/snarkOS",
-        "desc": "A Decentralized Operating System for ZK Applications",
-        "topics": [],
-        "officialSite": "http://snarkos.org"
-    }, {
-        "repo": "facebook/sapling",
-        "desc": "A Scalable, User-Friendly Source Control System.", 
-        "topics": [],
-        "officialSite": "https://sapling-scm.com"
-    }, {
-        "repo": "MirrorX-Desktop/MirrorX",
-        "desc": "Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.", 
-        "topics": [],
-        "officialSite": "https://mirrorx.app"
-    }, {
-        "repo": "linebender/xilem",
-        "desc": "An experimental Rust native UI framework",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "pop-os/cosmic-text",
-        "desc": "Pure Rust multi-line text handling",
-        "topics": [],
-        "officialSite": "https://pop-os.github.io/cosmic-text/cosmic_text"
-    }, {
-        "repo": "praetorian-inc/noseyparker",
-        "desc": "Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "dani-garcia/vaultwarden",
-        "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-        "topics": [],
-        "officialSite": "" 
-    }, {
-        "repo": "orhun/halp",
-        "desc": "A CLI tool to get help with CLI tools 🐙",
-        "topics": [],
-        "officialSite": "https://halp.cli.rs"
-    }, {
-        "repo": "setzer22/llama-rs",
-        "desc": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "typst/typst",
-        "desc": "A new markup-based typesetting system that is powerful and easy to learn.",
-        "topics": [],
-        "officialSite": "https://typst.app"
-    }, {
-        "repo": "matter-labs/zksync-era",
-        "desc": "zkSync era",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "ruffle-rs/ruffle",
-        "desc": "A Flash Player emulator written in Rust",
-        "topics": [],
-        "officialSite": "https://ruffle.rs"
-    }, {
-        "repo": "apache/incubator-opendal",
-        "desc": "Apache OpenDAL: Access data freely, painlessly, and efficiently.",
-        "topics": [],
-        "officialSite": "https://opendal.apache.org"
-    }, {
-        "repo": "m1guelpf/browser-agent",
-        "desc": "A browser AI agent, using GPT-4",
-        "topics": [],
-        "officialSite": "https://docs.rs/browser-agent"
-    }, {
-        "repo": "twitter/rezolus",
-        "desc": "Systems performance telemetry",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "facebook/buck2",
-        "desc": "Build system, successor to Buck",
-        "topics": [],
-        "officialSite": "https://buck2.build"
-    }, {
-        "repo": "ArroyoSystems/arroyo",
-        "desc": "Arroyo is a distributed stream processing engine written in Rust",
-        "topics": [],
-        "officialSite": "https://arroyo.dev"
-    }, {
-        "repo": "copy/v86",
-        "desc": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
-        "topics": [],
-        "officialSite": "https://copy.sh/v86"
-    }, {
-        "repo": "a16z/magi",
-        "desc": "A blazing fast OP Stack rollup client written in Rust",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "mitsuhiko/rye",
-        "desc": "an experimental alternative to `poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…`",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "memorysafety/sudo-rs",
-        "desc": "A memory safe implementation of sudo and su.",
-        "topics": [],
-        "officialSite": ""
-    }, {
-        "repo": "MystenLabs/sui",
-        "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
-        "topics": ["smart-contracts", "blockchain", "move", "distributed-ledger-technology"],
-        "officialSite": "https://sui.io"
-    }, {
-        "repo": "DioxusLabs/dioxus",
-        "desc": "React-like GUI library for desktop, web, mobile, TUI, and more.",
-        "topics": ["react" ,"css" ,"android" ,"html" ,"rust" ,"ios" ,"ui" ,"web" ,"native" ,"ssr" ,"wasm" ,"desktop" ,"virtualdom"],
-        "officialSite": "https://dioxuslabs.com"
-    }, {
-        "repo": "GyulyVGC/sniffnet",
-        "desc": "Application to comfortably monitor your network traffic", 
-        "topics": ["windows", "macos", "linux", "rust", "security", "networking", "data-visualization", "gui-application", "packet-sniffer", "network-analysis", "network-programming", "packet-capture", "rust-crate"],
-        "officialSite": "" 
-    }, {
-        "repo": "qdrant/qdrant",
-        "desc": "Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io ",
-        "topics": ["search", "search-engine", "machine-learning", "neural-network", "matching", "nearest-neighbor-search", "image-search", "recommender-system", "approximate-nearest-neighbor-search", "search-engines", "similarity-search", "knn-algorithm", "mlops", "hnsw", "vector-search", "vector-database", "neural-search", "vector-search-engine", "embeddings-similarity"],
-        "officialSite": "https://qdrant.tech"
-    }, {
-        "repo": "paradigmxyz/artemis",
-        "desc": "A simple, modular, and fast framework for writing MEV bots in Rust.",
-        "topics": [],
-        "officialSite": "" 
-    }, {
-        "repo": "jkfran/killport",
-        "desc": "A command-line tool to easily kill processes running on a specified port.",
-        "topics": [],
-        "officialSite": "" 
-    }, {
-        "repo": "Cormanz/smartgpt",
-        "desc": "A program that provides LLMs with the ability to complete complex tasks using plugins.", 
-        "topics": ["rust" ,"ai" ,"openai" ,"gpt-3" ,"gpt-4" ,"llm"],
-        "officialSite": "" 
-    }, {
-        "repo": "casey/ord",
-        "desc": "👁‍🗨 Rare and exotic sats",
-        "topics": ["art", "rust", "bitcoin"],
-        "officialSite": "https://ordinals.com"
-    }, {
-        "repo": "cedar-policy/cedar",
-        "desc": "Core implementation of the Cedar language",
-        "topics": [],
-        "officialSite": "https://www.cedarpolicy.com/"
-    }, {
-        "repo": "mitsuhiko/self-replace",
-        "desc": "Utility library that helps to implement processes that replace themselves",
-        "topics": [],
-        "officialSite": "" 
-    }, {
-        "repo": "ryanmcgrath/cacao",
-        "desc": "Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!",
-        "topics": ["macos", "rust", "ios", "gui", "uikit", "cocoa", "appkit"],
-        "officialSite": "" 
-    }, {
-        "repo": "TheAlgorithms/Rust",
-        "desc": "All Algorithms implemented in Rust",
-        "topics": ["rust", "algorithms", "data-structures", "rust-lang", "hacktoberfest"],
-        "officialSite": "" 
-    }, {
-        "repo": "stepchowfun/typical",
-        "desc": "Data interchange with algebraic data types.",
-        "topics": ["serialization", "types", "idl", "algebraic-data-types", "type-safety", "data-interchange", "interface-definition-language", "interface-description-language"], 
-        "officialSite": "" 
-    }, {
-        "repo": "alacritty/alacritty",
-        "desc": "A cross-platform, OpenGL terminal emulator.",
-        "topics": ["windows" ,"macos" ,"linux" ,"rust" ,"terminal" ,"opengl" ,"gpu" ,"terminal-emulators" ,"bsd" ,"vte"],
-        "officialSite": "" 
-    }, {
-        "repo": "SplittyDev/spacebadgers",
-        "desc": "Fast and clean SVG badges",
-        "topics": ["svg", "badge", "badges", "svg-badge", "badge-generator"],
-        "officialSite": "https://badgers.space"
-    }, {
-      "repo": "kamiyaa/joshuto",
-      "desc": "ranger-like terminal file manager written in Rust",
-      "topics": ["linux", "rust", "toml", "clipboard", "concurrency", "tui", "ncurses", "ranger", "file-manager", "hacktoberfest", "termion", "tui-rs", "joshuto"],
-      "officialSite": "https://crates.io/crates/joshuto"
-    }, {
-      "repo": "fishfolk/jumpy",
-      "desc": "Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶",
-      "topics": ["game", "editor", "rust", "modding", "multiplayer", "pixel-art", "fish-game", "pixelart", "bevy"],
-      "officialSite": "https://fishfolk.org/games/jumpy"
-    }, {
-      "repo": "raphamorim/rio",
-      "desc": "A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.",
-      "topics": ["rust", "terminal", "rust-lang", "gpu-acceleration", "gpu-computing", "terminal-emulator", "terminal-ui", "wpgu"],
-      "officialSite": "https://raphamorim.io/rio/"
-    }, {
-      "repo": "wez/wezterm",
-      "desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
-      "topics": ["rust", "terminal", "serial", "terminal-emulators", "serial-port", "terminal-emulator"],
-      "officialSite": "https://wezfurlong.org/wezterm"
-    }, {
-      "repo": "sharkdp/bat",
-      "desc": "A cat(1) clone with wings.",
-      "topics": ["git", "syntax-highlighting", "rust", "cli", "terminal", "command-line", "tool", "hacktoberfest"],
-      "officialSite": ""
-    }, {
-      "repo": "sharkdp/hyperfine",
-      "desc": "A command-line benchmarking tool",
-      "topics": ["rust", "cli", "benchmark", "terminal", "command-line", "tool", "hacktoberfest"],
-      "officialSite": ""
-    }, {
-      "repo": "sharkdp/fd",
-      "desc": "A simple, fast and user-friendly alternative to 'find'",
-      "topics": ["search", "rust", "cli", "terminal", "command-line", "tool", "filesystem", "regex", "hacktoberfest"],
-      "officialSite": ""
-    }, {
-      "repo": "ClassmateLin/dm-ticket",
-      "desc": "大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",
-      "topics": [],
-      "officialSite": ""
-    }, {
-      "repo": "gakonst/ethers-rs",
-      "desc": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
-      "topics": ["rust", "ethereum", "web3", "celo"],
-      "officialSite": ""
-    }, {
-      "repo": "lancedb/lance",
-      "desc": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",
-      "topics": ["python", "rust", "data-science", "machine-learning", "computer-vision", "deep-learning", "embeddings", "dataops", "data-analytics", "data-analysis", "data-format", "apache-arrow", "data-centric", "mlops", "duckdb", "llms"],
-      "officialSite": "https://lancedb.github.io/lance"
-    }, {
-      "repo": "Lissy93/AdGuardian-Term",
-      "desc": "🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance",
-      "topics": [],
-      "officialSite": ""
-    }, {
-      "repo": "crablang/crab",
-      "desc": "A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!",
-      "topics": [],
-      "officialSite": "https://www.crablang.org"
-    }, {
-      "repo": "yingDev/Tickeys",
-      "desc": "Instant audio feedback for typing. macOS version. (Rust)",
-      "topics": ["macos", "rust"],
-      "officialSite": "http://yingdev.com/projects/tickeys"
-    }, {
-      "repo": "keyvank/femtoGPT",
-      "desc": "Pure Rust implementation of a minimal Generative Pretrained Transformer",
-      "topics": ["rust", "machine-learning", "neural-network", "gpt", "from-scratch", "llm"],
-      "officialSite": "https://discord.gg/wTJFaDVn45"
-    }, {
-      "repo": "LemmyNet/lemmy",
-      "desc": "🐀 A link aggregator and forum for the fediverse",
-      "topics": ["chat", "rust", "reddit", "activitypub", "fediverse", "link-aggregator", "lemmy"], 
-      "officialSite": "https://join-lemmy.org"
-    }, {
-      "repo": "openobserve/openobserve",
-      "desc": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).",
-      "topics": ["elasticsearch", "kibana", "monitoring", "analytics", "metrics", "logs", "prometheus", "log-management", "observability", "traces", "log-analytics", "jaeger", "log-search", "opentelemetry"], 
-      "officialSite": "https://openobserve.ai"
-    }
+  {
+    "repo": "tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "topics": [],
+    "officialSite":"https://tauri.app"
+  }, {
+    "repo": "helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "topics": ["vim", "rust", "kakoune", "text-editor"],
+    "officialSite":"https://helix-editor.com"
+  }, {
+    "repo": "surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "topics": [],
+    "officialSite":"https://surrealdb.com"
+  }, {
+    "repo": "paradigmxyz/reth",
+    "desc": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "topics": [],
+    "officialSite":""
+  }, {
+    "repo": "pichenettes/eurorack",
+    "desc": "Eurorack modules",
+    "topics": [],
+    "officialSite":""
+  }, {
+    "repo": "tw93/Pake",
+    "desc": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
+    "topics": ["rust", "productivity", "mac", "youtube", "twitter", "webview", "open", "high-performance", "loop", "openai", "windows-desktop", "linux-desktop", "tauri", "mac-desktop", "gpt-4", "wry", "no-electron", "chatgpt"],
+    "officialSite":""
+  }, {
+    "repo": "0x192/universal-android-debloater",
+    "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+    "topics": [],
+    "officialSite":""
+  }, {
+    "repo": "spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "topics": [],
+    "officialSite":"https://spacedrive.com"
+  }, {
+    "repo": "pola-rs/polars",
+    "desc": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
+    "topics": [],
+    "officialSite":"https://pola.rs"
+  }, {
+    "repo": "m1guelpf/plz-cli",
+    "desc": "Copilot for your terminal",
+    "topics": [],
+    "officialSite":"https://pola.rs"
+  }, {
+    "repo": "google/forma",
+    "desc": "An efficient vector-graphics renderer",
+    "topics": [],
+    "officialSite":""
+  }, {
+    "repo": "Spotifyd/spotifyd",
+    "desc": "A spotify daemon",
+    "topics": [],
+    "officialSite":""
+  }, {
+    "repo": "o2sh/onefetch",
+    "desc": "Command-line Git information tool",
+    "topics": [],
+    "officialSite":"https://onefetch.dev"
+  }, {
+    "repo": "lencx/ChatGPT",
+    "desc": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "topics": [],
+    "officialSite":""
+  }, {
+    "repo": "lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "topics": [],
+    "officialSite": "http://lapce.dev"
+  }, {
+    "repo": "RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust", 
+    "topics": [],
+    "officialSite": "https://rustpython.github.io"
+  }, {
+    "repo": "naaive/orange",
+    "desc": "Cross-platform local file search engine.",
+    "topics": [],
+    "officialSite": "https://0-range.github.io"
+  }, {
+    "repo": "apache/arrow-datafusion",
+    "desc": "Apache Arrow DataFusion SQL Query Engine",
+    "topics": [],
+    "officialSite": "https://arrow.apache.org/datafusion"
+  }, {
+    "repo": "rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "topics": [],
+    "officialSite": "https://rustdesk.com"
+  }, {
+    "repo": "SergioBenitez/Rocket",
+    "desc": "A web framework for Rust.",
+    "topics": [],
+    "officialSite": "https://rocket.rs"
+  }, {
+    "repo": "meilisearch/meilisearch",
+    "desc": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
+    "topics": [],
+    "officialSite": "https://www.meilisearch.com"
+  }, {
+    "repo": "EAimTY/tuic",
+    "desc": "Delicately-TUICed high-performance proxy built on top of the QUIC protocol",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "aptos-labs/aptos-core",
+    "desc": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+    "topics": [],
+    "officialSite": "https://aptoslabs.com"
+  }, {
+    "repo": "tokio-rs/axum",
+    "desc": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "topics": ["rust", "open-source", "gamedev", "game-engine", "game-development", "hacktoberfest", "bevy"],
+    "officialSite": "https://bevyengine.org"
+  }, {
+    "repo": "AleoHQ/snarkOS",
+    "desc": "A Decentralized Operating System for ZK Applications",
+    "topics": [],
+    "officialSite": "http://snarkos.org"
+  }, {
+    "repo": "facebook/sapling",
+    "desc": "A Scalable, User-Friendly Source Control System.", 
+    "topics": [],
+    "officialSite": "https://sapling-scm.com"
+  }, {
+    "repo": "MirrorX-Desktop/MirrorX",
+    "desc": "Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.", 
+    "topics": [],
+    "officialSite": "https://mirrorx.app"
+  }, {
+    "repo": "linebender/xilem",
+    "desc": "An experimental Rust native UI framework",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pop-os/cosmic-text",
+    "desc": "Pure Rust multi-line text handling",
+    "topics": [],
+    "officialSite": "https://pop-os.github.io/cosmic-text/cosmic_text"
+  }, {
+    "repo": "praetorian-inc/noseyparker",
+    "desc": "Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "topics": [],
+    "officialSite": "" 
+  }, {
+    "repo": "orhun/halp",
+    "desc": "A CLI tool to get help with CLI tools 🐙",
+    "topics": [],
+    "officialSite": "https://halp.cli.rs"
+  }, {
+    "repo": "setzer22/llama-rs",
+    "desc": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "typst/typst",
+    "desc": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "topics": [],
+    "officialSite": "https://typst.app"
+  }, {
+    "repo": "matter-labs/zksync-era",
+    "desc": "zkSync era",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "topics": [],
+    "officialSite": "https://ruffle.rs"
+  }, {
+    "repo": "apache/incubator-opendal",
+    "desc": "Apache OpenDAL: Access data freely, painlessly, and efficiently.",
+    "topics": [],
+    "officialSite": "https://opendal.apache.org"
+  }, {
+    "repo": "m1guelpf/browser-agent",
+    "desc": "A browser AI agent, using GPT-4",
+    "topics": [],
+    "officialSite": "https://docs.rs/browser-agent"
+  }, {
+    "repo": "twitter/rezolus",
+    "desc": "Systems performance telemetry",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebook/buck2",
+    "desc": "Build system, successor to Buck",
+    "topics": [],
+    "officialSite": "https://buck2.build"
+  }, {
+    "repo": "ArroyoSystems/arroyo",
+    "desc": "Arroyo is a distributed stream processing engine written in Rust",
+    "topics": [],
+    "officialSite": "https://arroyo.dev"
+  }, {
+    "repo": "copy/v86",
+    "desc": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "topics": [],
+    "officialSite": "https://copy.sh/v86"
+  }, {
+    "repo": "a16z/magi",
+    "desc": "A blazing fast OP Stack rollup client written in Rust",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mitsuhiko/rye",
+    "desc": "an experimental alternative to `poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…`",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "memorysafety/sudo-rs",
+    "desc": "A memory safe implementation of sudo and su.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "topics": ["smart-contracts", "blockchain", "move", "distributed-ledger-technology"],
+    "officialSite": "https://sui.io"
+  }, {
+    "repo": "DioxusLabs/dioxus",
+    "desc": "React-like GUI library for desktop, web, mobile, TUI, and more.",
+    "topics": ["react" ,"css" ,"android" ,"html" ,"rust" ,"ios" ,"ui" ,"web" ,"native" ,"ssr" ,"wasm" ,"desktop" ,"virtualdom"],
+    "officialSite": "https://dioxuslabs.com"
+  }, {
+    "repo": "GyulyVGC/sniffnet",
+    "desc": "Application to comfortably monitor your network traffic", 
+    "topics": ["windows", "macos", "linux", "rust", "security", "networking", "data-visualization", "gui-application", "packet-sniffer", "network-analysis", "network-programming", "packet-capture", "rust-crate"],
+    "officialSite": "" 
+  }, {
+    "repo": "qdrant/qdrant",
+    "desc": "Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io ",
+    "topics": ["search", "search-engine", "machine-learning", "neural-network", "matching", "nearest-neighbor-search", "image-search", "recommender-system", "approximate-nearest-neighbor-search", "search-engines", "similarity-search", "knn-algorithm", "mlops", "hnsw", "vector-search", "vector-database", "neural-search", "vector-search-engine", "embeddings-similarity"],
+    "officialSite": "https://qdrant.tech"
+  }, {
+    "repo": "paradigmxyz/artemis",
+    "desc": "A simple, modular, and fast framework for writing MEV bots in Rust.",
+    "topics": [],
+    "officialSite": "" 
+  }, {
+    "repo": "jkfran/killport",
+    "desc": "A command-line tool to easily kill processes running on a specified port.",
+    "topics": [],
+    "officialSite": "" 
+  }, {
+    "repo": "Cormanz/smartgpt",
+    "desc": "A program that provides LLMs with the ability to complete complex tasks using plugins.", 
+    "topics": ["rust" ,"ai" ,"openai" ,"gpt-3" ,"gpt-4" ,"llm"],
+    "officialSite": "" 
+  }, {
+    "repo": "casey/ord",
+    "desc": "👁‍🗨 Rare and exotic sats",
+    "topics": ["art", "rust", "bitcoin"],
+    "officialSite": "https://ordinals.com"
+  }, {
+    "repo": "cedar-policy/cedar",
+    "desc": "Core implementation of the Cedar language",
+    "topics": [],
+    "officialSite": "https://www.cedarpolicy.com/"
+  }, {
+    "repo": "mitsuhiko/self-replace",
+    "desc": "Utility library that helps to implement processes that replace themselves",
+    "topics": [],
+    "officialSite": "" 
+  }, {
+    "repo": "ryanmcgrath/cacao",
+    "desc": "Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!",
+    "topics": ["macos", "rust", "ios", "gui", "uikit", "cocoa", "appkit"],
+    "officialSite": "" 
+  }, {
+    "repo": "TheAlgorithms/Rust",
+    "desc": "All Algorithms implemented in Rust",
+    "topics": ["rust", "algorithms", "data-structures", "rust-lang", "hacktoberfest"],
+    "officialSite": "" 
+  }, {
+    "repo": "stepchowfun/typical",
+    "desc": "Data interchange with algebraic data types.",
+    "topics": ["serialization", "types", "idl", "algebraic-data-types", "type-safety", "data-interchange", "interface-definition-language", "interface-description-language"], 
+    "officialSite": "" 
+  }, {
+    "repo": "alacritty/alacritty",
+    "desc": "A cross-platform, OpenGL terminal emulator.",
+    "topics": ["windows" ,"macos" ,"linux" ,"rust" ,"terminal" ,"opengl" ,"gpu" ,"terminal-emulators" ,"bsd" ,"vte"],
+    "officialSite": "" 
+  }, {
+    "repo": "SplittyDev/spacebadgers",
+    "desc": "Fast and clean SVG badges",
+    "topics": ["svg", "badge", "badges", "svg-badge", "badge-generator"],
+    "officialSite": "https://badgers.space"
+  }, {
+    "repo": "kamiyaa/joshuto",
+    "desc": "ranger-like terminal file manager written in Rust",
+    "topics": ["linux", "rust", "toml", "clipboard", "concurrency", "tui", "ncurses", "ranger", "file-manager", "hacktoberfest", "termion", "tui-rs", "joshuto"],
+    "officialSite": "https://crates.io/crates/joshuto"
+  }, {
+    "repo": "fishfolk/jumpy",
+    "desc": "Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶",
+    "topics": ["game", "editor", "rust", "modding", "multiplayer", "pixel-art", "fish-game", "pixelart", "bevy"],
+    "officialSite": "https://fishfolk.org/games/jumpy"
+  }, {
+    "repo": "raphamorim/rio",
+    "desc": "A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.",
+    "topics": ["rust", "terminal", "rust-lang", "gpu-acceleration", "gpu-computing", "terminal-emulator", "terminal-ui", "wpgu"],
+    "officialSite": "https://raphamorim.io/rio/"
+  }, {
+    "repo": "wez/wezterm",
+    "desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "topics": ["rust", "terminal", "serial", "terminal-emulators", "serial-port", "terminal-emulator"],
+    "officialSite": "https://wezfurlong.org/wezterm"
+  }, {
+    "repo": "sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "topics": ["git", "syntax-highlighting", "rust", "cli", "terminal", "command-line", "tool", "hacktoberfest"],
+    "officialSite": ""
+  }, {
+    "repo": "sharkdp/hyperfine",
+    "desc": "A command-line benchmarking tool",
+    "topics": ["rust", "cli", "benchmark", "terminal", "command-line", "tool", "hacktoberfest"],
+    "officialSite": ""
+  }, {
+    "repo": "sharkdp/fd",
+    "desc": "A simple, fast and user-friendly alternative to 'find'",
+    "topics": ["search", "rust", "cli", "terminal", "command-line", "tool", "filesystem", "regex", "hacktoberfest"],
+    "officialSite": ""
+  }, {
+    "repo": "ClassmateLin/dm-ticket",
+    "desc": "大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "gakonst/ethers-rs",
+    "desc": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+    "topics": ["rust", "ethereum", "web3", "celo"],
+    "officialSite": ""
+  }, {
+    "repo": "lancedb/lance",
+    "desc": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",
+    "topics": ["python", "rust", "data-science", "machine-learning", "computer-vision", "deep-learning", "embeddings", "dataops", "data-analytics", "data-analysis", "data-format", "apache-arrow", "data-centric", "mlops", "duckdb", "llms"],
+    "officialSite": "https://lancedb.github.io/lance"
+  }, {
+    "repo": "Lissy93/AdGuardian-Term",
+    "desc": "🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "crablang/crab",
+    "desc": "A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!",
+    "topics": [],
+    "officialSite": "https://www.crablang.org"
+  }, {
+    "repo": "yingDev/Tickeys",
+    "desc": "Instant audio feedback for typing. macOS version. (Rust)",
+    "topics": ["macos", "rust"],
+    "officialSite": "http://yingdev.com/projects/tickeys"
+  }, {
+    "repo": "keyvank/femtoGPT",
+    "desc": "Pure Rust implementation of a minimal Generative Pretrained Transformer",
+    "topics": ["rust", "machine-learning", "neural-network", "gpt", "from-scratch", "llm"],
+    "officialSite": "https://discord.gg/wTJFaDVn45"
+  }, {
+    "repo": "LemmyNet/lemmy",
+    "desc": "🐀 A link aggregator and forum for the fediverse",
+    "topics": ["chat", "rust", "reddit", "activitypub", "fediverse", "link-aggregator", "lemmy"], 
+    "officialSite": "https://join-lemmy.org"
+  }, {
+    "repo": "openobserve/openobserve",
+    "desc": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).",
+    "topics": ["elasticsearch", "kibana", "monitoring", "analytics", "metrics", "logs", "prometheus", "log-management", "observability", "traces", "log-analytics", "jaeger", "log-search", "opentelemetry"], 
+    "officialSite": "https://openobserve.ai"
+  }, {
+    "repo": "reddark-remix/reddark-remix",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ordinals/ord",
+    "desc": "👁‍🗨 Rare and exotic sats",
+    "topics": ["art", "rust", "bitcoin"],
+    "officialSite": "https://ordinals.com"
+  }
 ]
 

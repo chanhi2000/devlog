@@ -69,4 +69,12 @@ tags: ["youtube", "bash", "linux", "macos", "terminal", "alias", "sh", "vim", "n
 
 ---
 
+## Cretezy
+
+<MyYouTubeItems jsonName="yu-cretezy" />
+
+<!-- Cretezy -->
+
+---
+
 <TagLinks />

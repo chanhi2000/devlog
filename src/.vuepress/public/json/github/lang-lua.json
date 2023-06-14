@@ -59,5 +59,10 @@
     "desc": "Quickstart configs for Nvim LSP",
     "topics": ["plugin", "vim", "neovim", "language-server", "language-server-protocol", "nvim", "lsp"],
     "officialSite": ""
+  }, {
+    "repo": "jackMort/ChatGPT.nvim",
+    "desc": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
+    "topics": ["neovim", "openai", "nvim-plugin", "chatgpt"],
+    "officialSite": ""
   }
 ]

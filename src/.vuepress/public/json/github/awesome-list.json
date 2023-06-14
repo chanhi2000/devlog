@@ -469,5 +469,20 @@
     "desc": "A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone who is just interested in infosec topics.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Universidade-Livre/ciencia-da-computacao",
+    "desc": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
+    "topics": ["computer-science", "awesome-list", "brasil", "cursos", "hacktoberfest", "ciencia-da-computacao", "curriculo"], 
+    "officialSite": ""
+  }, {
+    "repo": "bregman-arie/devops-resources",
+    "desc": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "topics": ["python", "go", "linux", "bash", "docker", "jenkins", "aws", "security", "mongo", "devops", "sql", "containers", "interview", "questions", "checklists"], 
+    "officialSite": ""
+  }, {
+    "repo": "KenneyNL/Adobe-Alternatives",
+    "desc": "A list of alternatives for Adobe software",
+    "topics": ["list", "alternatives"],
+    "officialSite": ""
   }
 ]

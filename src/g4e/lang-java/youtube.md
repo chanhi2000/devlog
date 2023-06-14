@@ -95,27 +95,7 @@ meta:
 
 ## Java Guides
 
-[Java Guides][yu-java-guides]
-
-::: details 목록
-
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="PAU5edXr2Xo" title="Spring Boot RabbitMQ Tutorial - #9 - Configure RabbitMQ in Spring Boot Application" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="1PzD85OONTA" title="Spring Boot RabbitMQ Tutorial - #6 - Explore RabbitMQ using RabbitMQ Management UI" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="2Re6eS2hzwE" title="Spring Boot RabbitMQ Tutorial - #5 - Install and Setup RabbitMQ using Docker" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="aWnT_BxUtU4" title="Spring Boot RabbitMQ Tutorial - #3 - RabbitMQ Core Concepts | Explained with Diagrams" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="th3uIP7D8nk" title="Spring Boot Restful Web Services Tutorial | Full Course ✅ | REST API | Spring Boot for Beginners" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="XkVpb_8IPUM" title="Spring Boot React Full Stack | Full Course ✅" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="3RoMHb-LaUA" title="React Hooks + Spring Boot CRUD Full Stack App - 19 - Build Delete Employee REST API" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="gYrAvZCPJLQ" title="React Hooks + Spring Boot CRUD Full Stack App - 9 - Adding Header and Footer to React App" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="VR1zoNomG3w" title="5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="djRh94IWYYo" title="Take Benefits of My Java Guides Blog and GitHub | My Blog Walkthrough" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="DzYyzmP4m5c" title="Registration Form using JSP + Servlet + JDBC + MySQL Database Example" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="hxZuLn_DHoM" title="Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="fUsKNjGO4Is" title="Spring Core: Why Constructor Based Dependency Injection is Recommended?" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="hxZuLn_DHoM" title="Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication" />
-<YoutubeItem channelName="Java Guides" channelId="JavaGuides" id="JrkHCGDZB3w" title="Spring & Spring Boot Annotations Series - #10  - `@PropertySource` and `@PropertySources` Annotations" />
-
-:::
+<MyYouTubeItems jsonName="yu-JavaGuides" />
 
 <!-- Java Guides -->
 
@@ -123,25 +103,7 @@ meta:
 
 ## Ram N Java
 
-[Ram N Java][yu-ram-n-java]
-
-::: details 목록
-
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="2iMmXfcrD2w" title="Springboot - Exceptions handling - RESTful Web Services with Spring framework | Spring Boot" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="iToaRZfO0tA" title="GET vs POST & What is a Cache? | RESTful Web Services | Web Services Tutorial" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="O0Eccxtpdfw" title="Factory Design Pattern - Introduction, Example and Key points | Factory Design Pattern in Java" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="8w6uCpdlP_M" title="Spring boot - Admin Server and Admin Client example" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="OkVzppl5Cos" title="Springboot + Thymeleaf - Send user information from UI to controller | Spring Boot Tutorial" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="MZF7IWRfKsA" title="How to Configure Multiple Data Sources(Databases) in a Spring Boot Application?" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="hPUxEgLQbLQ" title="Spring Boot - How to schedule a task at a fixed delay? | Spring Boot - Schedule task" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="re3Gszgusgg" title="How to use Profiles in Spring Boot application? - Properties file | Spring Boot tutorial" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="qmGesuJ9COA" title="Spring Cache Tutorial with EhCache | Spring Cache | Spring Tutorial" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="pzPLeq6nSs0" title="Spring Cache Tutorial with EhCache [How to update the cache?] | Spring Cache | Spring Tutorial" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="DDmT_tlo15Y" title="Spring 4 + Hibernate 4 + MySQL 8 + Maven Integration example using XML Configuration" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="b3E_nXF6-qM" title="Spring - Inserting data using SimpleJdbcInsert and MapSqlParameterSource | Spring JDBC tutorial" />
-<YoutubeItem channelName="Ram N Java" channelId="RamNJava" id="hycA8lxjIHI" title="ByteArrayOutputStream in Java | Java ByteArrayOutputStream Examples | Java IO | Java Tutorial" />
-
-:::
+<MyYouTubeItems jsonName="yu-RamNJava" />
 
 <!-- Ram N Java -->
 
@@ -157,24 +119,7 @@ meta:
 
 ## Reso Coder
 
-[Reso Coder][yu-reso-coder]
-
-::: details 목록
-
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="Zp7VKVhirmw" title="Riverpod 2.0 – Complete Guide (Flutter Tutorial)" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="y564ETOCog8" title="Flutter Bloc & Cubit Tutorial" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="8j7W91ZJuV0" title="Flutter MobX Tutorial – Transparent & Reactive State Management?" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="S6jFBiiP0Mc" title="Bloc Test Tutorial – Easier Way to Test Blocs in Dart & Flutter" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="T1hzNcaAKiA" title="Flutter Sailor Navigation Tutorial – The Simplest Navigator Library?" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="_T4zjIEkGOM" title="Introduction to MVVM on Android - Tutorial - Learn Android Architecture Patterns" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="lPkWX8xFthE" title="Flutter TDD Clean Architecture Course [2] – Entities & Use Cases" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="jYuK1qzFrJg" title="Kotlin Coroutines Tutorial (STABLE VERSION) - async / await, withContext, launch" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="d7UxPYxgBoA" title="Android MVVM Kotlin Tutorial - LiveData + ViewModel (Android Architecture Components)" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="-Lha9n8VJf0" title="Kotlin - Apply, Let, Run, With, Also - Higher Order Standard Functions" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="0yH1qDxqZMo" title="Navigation Component Crash Course - Android Kotlin Tutorial" />
-<YoutubeItem channelName="Reso Coder" channelId="ResoCoder" id="cG26G8WNv-0" title="Firebase Firestore Chat App: Creating a Chat Channel (Ep 4) - Kotlin Android Tutorial" />
-
-:::
+<MyYouTubeItems jsonName="yu-ResoCoder" />
 
 <!-- Reso Coder -->
 
@@ -190,34 +135,7 @@ meta:
 
 ## Daily Code Buffer
 
-[Daily Code Buffer][yu-daily-code-buffer]
-
-::: details 목록
-
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="inQkjQ2UN6A" title="Pros &amp; Cons of Dynamic Inserts &amp; Updates With Spring Data JPA | Spring Boot" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="vZO7Qh6riS8" title="Building REST API with Spring Boot - Keyboard Typing ASMR" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="hPtR_-EQU-4" title="Redis Stack Crash Course with Spring Boot" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="zvR-Oif_nxg" title="Spring Boot Complete Tutorial  - Master Class" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="E8gaRFMXS9Y" title="Full Stack Application with Spring Boot, Next.js, Tailwind CSS & Next-Auth.js" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="tDZPdovCH4I" title="Spring Security Tutorial with Login Example (Spring Boot + Spring Security + MySQL)" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="5lJaUN0bIy0" title="Docker for Beginners:- Complete Course 2021" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="ZXlxQ3z4zDE" title="How to Schedule Tasks/Jobs in Springboot using @Scheduled annotation" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="lA18U8dGKF8" title="Implementing JWT (JSON Web Tokens) with Spring Security in Springboot App" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="BnknNTN8icw" title="Microservices using SpringBoot | Full Example" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="vYLlxxD_6LA" title="Amazon Simple Queue Service (SQS) with SpringBoot | Spring Cloud AWS" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="cRCxw314Ts0" title="Docker Tutorial - Most used Docker Commands With Examples | Docker Training | Daily Code Buffer" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="PpkPTviLTLs" title="How to implement Redis in Spring Boot using Spring Data Redis & Jedis" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="XjoVUx2ppDY" title="Quarkus Tutorial with Spring Web, H2 and Panache" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="UZWOb9ce6go" title="JaCoCo Code Coverage Tutorial with Spring Boot" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="EUzH9khPYgs" title="How to Install Apache Kafka on Windows" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="AioHZDaL4Jw" title="Spring Boot with Kotlin Tutorial" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="F_g44rliu6M" title="Dockerize Spring Boot App using Maven Plugin" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="QWsWx4SS05I" title="OAuth2 Spring Security using Facebook in Spring Boot" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="oz-QSGy1DSo" title="Quarkus vs Spring Boot - Performance" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="haVMaDiAGSw" title="Spring Boot 3.0 | New Features in Spring Framework 6 and Spring Boot 3" />
-<YoutubeItem channelName="Daily Code Buffer" channelId="DailyCodeBuffer" id="HFl2dzhVuUo" title="Microservices using SpringBoot 3.0 | Full Example [NEW]" />
-
-:::
+<MyYouTubeItems jsonName="yu-DailyCodeBuffer" />
 
 <!-- Daily Code Buffer -->
 
@@ -225,27 +143,7 @@ meta:
 
 ## Dan Vega
 
-[Dan Vega][yu-dan-vega]
-
-::: details 목록
-
-<YoutubeItem channelId="DanVega" channelName="Dan Vega" id="bxK4GscuVgs" title="Java 17 🤝&nbsp;AWS Lambda: Creating Serverless Functions in Java &amp; Spring with Java 17" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="TR254zh-f3c" title="Spring Boot 3 - What’s new in Spring Framework 6 and Spring Boot 3.0" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="KYNR5js2cXE" title="Spring Security JWT: How to secure your Spring Boot REST APIs with JSON Web Tokens" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="_Gdb-jK3Sr4" title="Spring Boot Docker and PostgreSQL" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="PkhsQPPFgOo" title="Spring Boot GraphQL How to secure your GraphQL APIs in Java" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="ItXWciOE7OI" title="Building REST APIs with Spring Boot (live stream replay)" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="2G6r2f40Lps" title="Spring Boot and Vue JS: Full Stack Java Development" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="nugg5Zst1Nc" title="Vue.js for Beginners: A beginner's guide to learn the basics of the JavaScript Framework Vue.js" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="3VRQ0N_kEDQ" title="Java Reflection Tutorial: Learn the basics of Reflection in Java writing tests" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="pNiRNRgi5Ws" title="Spring Boot Testing Basics: How to Unit Test & Integration Test REST Controllers" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="HmdKqXP8JR8" title="Vue 3: Smaller, Faster & Stronger. A look at the new features coming in the next version of Vue.js" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="UAgO2JanN9Y" title="Hello Vue 3: A First Look at Vue 3 & the Composition API" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="1xuTqgilNzM" title="Introduction to Spring Shell (Part 2)" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="UgX5lgv4uVM" title="Spring Boot Tutorial for Beginners - 2023 Crash Course using Spring Boot 3" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="PczgM2L3w60" title="Advanced Spring Security - How to create multiple Spring Security Configurations" />
-<YoutubeItem channelName="Dan Vega" channelId="DanVega" id="CWEQ-1vff1o" title="Spring Beans Showdown: Unraveling the Mystery of @Component vs @Bean!" />
-:::
+<MyYouTubeItems jsonName="yu-DanVega" />
 
 <!-- Dan Vega -->
 
@@ -253,21 +151,7 @@ meta:
 
 ## Green Learner
 
-[Green Learner][yu-green-learner]
-
-::: details 목록
-
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="14jVFPseQKI" title="Advanced Kafka Configuration for Specific Usecase || Chapter 1 || Day 10" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="z5MyLwf5nVc" title="Writing Java Producer Client for Kafka || Chapter 1 || Day 9" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="v8C_NL0eDhs" title="Java Project Setup for Kafka Demo || Chapter 1 || Day 9" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="QFBNKrK5zt4" title="Kafka Use Cases || Chapter 1 || Day 1" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="DXmC-M-qY2g" title="6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="GUHOzE3viu8" title="#17 Writing Integration Tests for Microservices" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="D9e3ODqqlsE" title="9 WireMock - Stateful Behavior Simulation" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="0tU3dhIymck" title="10 WireMock - Response Templating" />
-<YoutubeItem channelName="Green Learner" channelId="GreenLearner" id="DXmC-M-qY2g" title="6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" />
-
-:::
+<MyYouTubeItems jsonName="yu-GreenLearner" />
 
 <!-- Green Learner -->
 
@@ -282,60 +166,23 @@ meta:
 ---
 ## tookootek
 
-[tookootek][yu-tookootek]
-
-::: details 목록
-
-<YoutubeItem channelName="tookootek" channelId="tookootek" id="hq2i7rd0iow" title="[How to Install JDK | Visual Studio Code for Java on Windows 11 (2023) | Set JAVA_HOME" />
-<YoutubeItem channelName="tookootek" channelId="tookootek" id="2M0L6w3tMOY" title="[JavaFX Tutorial | Search Bar and TableView filter result as you search" />
-<YoutubeItem channelName="tookootek" channelId="tookootek" id="J0IE5LRyzx8" title="[JavaFX Tutorial | Login Screen with database connection (2021)" />
-<YoutubeItem channelName="tookootek" channelId="tookootek" id="DH3dWzmkT5Y" title="[JavaFX Tutorial | Login and Register Screen GUI In IntelliJ & Scene Builder With MySQL - Part 1|2" />
-<YoutubeItem channelName="tookootek" channelId="tookootek" id="hq2i7rd0iow" title="[How to Install JDK | Visual Studio Code for Java on Windows 11 (2023) | Set `JAVA_HOME`" />
-
-:::
+<MyYouTubeItems jsonName="yu-tookootek" />
 
 <!-- tookootek -->
 
 ---
 
-
-
-
 ## 백기선
 
-[백기선][yu-keesun-b]
-
-::: details 목록
-
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="jADuleKrl_I" title="[인프런Q&A] '클래스 로더' 강의에서 클래스 로딩을 설명할 때 잘못된 것 같아 질문드립니다." />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="Q-8FC09OSYg" title="자바, 리플렉션" />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="tDvTHHRr0gM" title="`@DataJpaTest`를 사용할 때 반드시 알아야 하는 특징 중 하나." />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="k6IB8Dc3s6Y" title="[스프링 시큐리티] 인증 세션 개수 제한하기" />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="IFc1mG48j0s" title="쿠버네티스 시작하기 1부. `minikube`와 `kubectl` 사용해서 앱 배포하기" />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="-mFD1iX5MJo" title="Spring Boot 2.3.1, `DomainClassConverter` issue and workaround" />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="NZ_lPFvu9oU" title="예제로 배우는 스프링 입문 5. Inversion of Control" />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="4BBhHpVNzrc" title="[예제로 배우는 스프링 입문] 3  프로젝트 살펴보기" />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="hsSc5epPXDs" title="JPA, `OneToMany` 양방향 관계 `MappedBy` 해설" />
-<YoutubeItem channelName="백기선" channelId="keesun.b" id="TMFW3F5hJ9o" title="[예제로 배우는 스프링 입문] 2. 예제 프로젝트 준비" />
-
-:::
+<MyYouTubeItems jsonName="yu-keesun.b" />
 
 <!-- 백기선 -->
 
 ---
 
----
-
 ## 김대협
 
-[김대협][yu-ntigo]
-
-::: details 목록
-
-<YoutubeItem channelName="김대협" channelId="ntigo" id="28_-GmUnu8M" title="[이펙티브 자바] 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라" />
-<YoutubeItem channelName="김대협" channelId="ntigo" id="jFYvY7m2RZs" title="[이펙티브 자바] 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라" />
-
-:::
+<MyYouTubeItems jsonName="yu-ntigo" />
 
 <!-- 김대협 -->
 
@@ -343,37 +190,15 @@ meta:
 
 ## 박재성
 
-[박재성][yu-javajigi]
-
-::: details 목록
-
-<YoutubeItem channelName="박재성" channelId="javajigi" id="sUdH_DuDr14" title="1-1.  Spring Boot 로컬 개발 환경 세팅" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="_uclvwOzgDY" title="`docker`를 활용한 서버 실습 환경 구축" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="2cJnTnBkKac" title="`docker` 2.  ubuntu  한글 버전 빌드 및 자바 설치" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="E8cdA6ORbSM" title="`docker` 4.  Docker에 내가 구현한 소스 코드 배포하기" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="_lM9uotAOmk" title="`docker` 3.  `Dockerfile`을 활용해 나만의 Docker 이미지 만들기" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="bwA0fkIKjug" title="6-7.  쉘 스크립트를 활용한 배포 자동화" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="OQ9lAkBy7_E" title="github의 gradle 프로젝트를 STS(또는 eclipse)로 import하는 방법" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="lpoN8kN4d5k" title="`gradle wrapper` 필요성 및 `gradle wrapper` 기반 프로젝트 생성" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="yTNZUWI5HpA" title="DAO Test에서 Transaction 기능 활용" />
-<YoutubeItem channelName="박재성" channelId="javajigi" id="U_F-eNo3uM0" title="`docker` 1. `docker container`를 실행하기 위한 환경 설정" />
-
-:::
+<MyYouTubeItems jsonName="yu-javajigi" />
 
 <!-- 박재성 -->
 
+---
+
 ## Toby Lee
 
-[Toby Lee][yu-toby-lee]
-
-::: details 목록
-
-<YoutubeItem channelName="Toby Lee" channelId="toyspring" id="VIacwaUMbqs" title="스프링 가이드 타임어택 (2) -  Scheduling Tasks" />
-<YoutubeItem channelName="Toby Lee" channelId="toyspring" id="wlOR5ehWSjE" title="스프링 가이드 타임어택 (1) - RESTful Web Service" />
-<YoutubeItem channelName="Toby Lee" channelId="toyspring" id="Kb37Q5GCyZs" title="Spring 6의 새로운 HTTP Interface와 3 가지 REST Clients 라이브 코딩" />
-<YoutubeItem channelName="Toby Lee" channelId="toyspring" id="S4W3cJOuLrU" title="RestTemplate은 스프링에서 제거되나요" />
-
-:::
+<MyYouTubeItems jsonName="yu-tobyspring" />
 
 <!-- Toby Lee -->
 
@@ -381,15 +206,7 @@ meta:
 
 ## Rabi Sankar Podder
 
-[Rabi Sankar Podder][rabi-sankar-podder]
-
-::: details 목록
-
-<YoutubeItem channelName="Rabi Sankar Podder" channelId="rabisankarpodder7839" id="dOI3jRap6Q4" title="Java8 Sort String Employee" />
-<YoutubeItem channelName="Rabi Sankar Podder" channelId="rabisankarpodder7839" id="uRQEMZjB1fA" title="SpringBoot with Github  using Oauth2" />
-<YoutubeItem channelName="Rabi Sankar Podder" channelId="rabisankarpodder7839" id="oPde37Nc26Q" title="JWT SpringBoot Security" />
-
-:::
+<MyYouTubeItems jsonName="yu-rabisankarpodder7839" />
 
 <!-- Rabi Sankar Podder -->
 
@@ -728,6 +545,23 @@ meta:
 <!-- Coding Saint -->
 
 ---
+
+## Sumeet Maharjan
+
+<MyYouTubeItems jsonName="yu-SumeetMaharjan" />
+
+<!-- Sumeet Maharjan -->
+
+---
+
+## Oracle Developers
+
+<MyYouTubeItems jsonName="yu-oracledevs" />
+
+<!-- Oracle Developers -->
+
+---
+
 
 ## Misc
 

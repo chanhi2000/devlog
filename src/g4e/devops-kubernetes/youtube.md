@@ -85,4 +85,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Eddie Jaoude
+
+<MyYouTubeItems jsonName="yu-eddiejaoude" />
+
+<!-- Eddie Jaoude -->
+
+---
+
 <TagLinks />

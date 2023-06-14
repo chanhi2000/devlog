@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "stanford",
+    "name": "Stanford",
+    "profile": "https://yt3.googleusercontent.com/ADFxSeyOWjOWtfEsg3mBpwAX3PQ0XhK0C6fsKG3XmLGjonEe-QrU8tWJ2n4Ug8EAWYjXT0tt=s176-c-k-c0x00ffffff-no-RJ2"
+  },
+  "videos": [
+    {
+      "id": "4GjXq2Sr55Q",
+      "title": "Lecture 2: MVVM and the Swift Type System"
+    }
+  ]
+}

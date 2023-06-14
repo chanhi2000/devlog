@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "ColtSteeleCode",
+    "name": "Colt Steele",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMi1P7MsJMcbRcUMtE5AMo3DRP7MJym1NHK9V_b=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "9U3IhLAnSxM", 
+      "title": "Beginner's Guide to React w/ Hooks (2020) Free Course"
+    }, {
+      "id": "thXp0_py9X4", 
+      "title": "JS Arrow Functions: Everything You Need to Know"
+    }
+  ]
+}
+

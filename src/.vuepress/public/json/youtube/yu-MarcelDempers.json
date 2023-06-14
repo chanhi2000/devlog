@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "MarcelDempers",
+    "name": "That DevOps Guy",
+    "profile": "https://yt3.googleusercontent.com/E6pu5181_z1O-CnD1UHCof90y7WJtpYiNsxoMpJ6FJXcl6XQ3AoBFclI3yk37CbdC8zSg6Tk=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "d1ZMnV4yM1U",
+      "title": "Python to Kubernetes"
+    }, {
+      "id": "u0qtgUMLua0",
+      "title": "Storing Secrets in GIT | GitOps | Kubernetes"
+    }, {
+      "id": "1zcXudjSVUs",
+      "title": "Understanding KUBECTL - Learning Kubernetes"
+    }, {
+      "id": "_NtRkBipepg",
+      "title": "Introduction to Service monitors for beginners | Kubernetes monitoring"
+    }, {
+      "id": "Qy2A_yJH5-o",
+      "title": "Getting Started with EKS and Terraform"
+    }, {
+      "id": "Hc-XFPHDDk4",
+      "title": "Introduction to Linkerd for beginners | a Service Mesh"
+    }, {
+      "id": "hfUIWe1tK8E",
+      "title": "RabbitMQ : Message Queues for beginners"
+    }, {
+      "id": "PW44JaAlI_8",
+      "title": "Making Kubernetes disappear with Shipa"
+    }, {
+      "id": "1mNYSn2KMZk",
+      "title": "How to build a Kubernetes Webhook | Admission controllers"
+    }, {
+      "id": "6kmHvXdAzIM",
+      "title": "Fluentd on Kubernetes: Log collection explained"
+    }, {
+      "id": "JeAHlTYB1Qk",
+      "title": "How to learn Kubernetes in 2022"
+    }, {
+      "id": "WyWCa6WVx60",
+      "title": "How to configure PostgreSQL | Learning | DevOps"
+    }
+  ]
+}
+

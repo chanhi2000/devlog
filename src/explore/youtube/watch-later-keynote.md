@@ -29,6 +29,14 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
+## 라인개발실록
+
+<MyYouTubeItems jsonName="yu-linedevlog" />
+
+<!-- 라인개발실록 -->
+
+---
+
 ## Coding Tech
 
 <MyYouTubeItems jsonName="yu-CodingTech" />

@@ -75,4 +75,6 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 <!-- Elijah Manor -->
 
+---
+
 <TagLinks />

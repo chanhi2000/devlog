@@ -1144,5 +1144,15 @@
     "desc": "LLM Frontend for Power Users.",
     "topics": ["chat", "ai", "openai", "characters", "llm"],
     "officialSite": "https://sillytavern.app"
+  }, {
+    "repo": "belladoreai/llama-tokenizer-js",
+    "desc": "JS tokenizer for LLaMA based LLMs",
+    "topics": ["javascript", "tokenizer", "llama", "llm"],
+    "officialSite": ""
+  }, {
+    "repo": "100xDevs-hkirat/Week-1-assignment",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

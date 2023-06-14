@@ -76,4 +76,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## 코드깎는노인
+
+<MyYouTubeItems jsonName="yu-codeteller" />
+
+<!-- 코드깎는노인 -->
+
+---
+
 <TagLinks />

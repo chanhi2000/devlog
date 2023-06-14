@@ -70,9 +70,3 @@ tags: ["education", "youtube", "programming", "css"]
 ---
 
 <TagLinks />
-
-[yu-kevin-powell]: https://www.youtube.com/@KevinPowell
-[yu-oneline-tutorials]: https://www.youtube.com/@OnlineTutorialsYT
-[yu-zero-to-mastery]: https://www.youtube.com/@ZeroToMastery
-<!-- misc -->
-[yu-codewithfred]: https://www.youtube.com/@codewithfred

@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "eddiejaoude",
+    "name": "Eddie Jaoude",
+    "profile": "https://yt3.googleusercontent.com/AYrAjbqBS43Ocd0FMbrM0f27kwqKCjh46Pi8tPVIGdN8IIy4oInLDVVfNNyU4Wmtjw2mbkq3=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "PdipPuk6LZI",
+      "title": "Get feedback on your Pull Request NOW!"
+    }, {
+      "id": "c7EqB_S_a7I",
+      "title": "Cost of hosting an Open Source SAAS product? Moving to Vercel"
+    }, {
+      "id": "yOPyK5WMxCs",
+      "title": "Kubernetes as a Web Dev"
+    }, {
+      "id": "7Put3ddOpTw",
+      "title": "5 GitHub Profiles that STAND OUT"
+    }, {
+      "id": "R75j79yNSKg",
+      "title": "Learning about Kubernetes at KubeHuddle in person event UK"
+    }
+  ]
+}

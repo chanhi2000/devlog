@@ -53,25 +53,7 @@ tags: ["education", "youtube", "windows"]
 
 ## Tricknology
 
-[Tricknology][yu-tricknology]
-
-::: details 목록
-
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="n1Vlh3hT8Yw" title="How to fix 'Your IT administrator has limited access' Error in Windows 11" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="Fadby_7V3ek" title="How to Fix Google Chrome from Running Background in Windows 11" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="xYBuWhkO6co" title="How To Turn Sticky Keys On or Off in Windows 11" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="ZqcGyZsmv9Q" title="How to Fix PowerShell Not Launching or Not Opening on Windows 11" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="Zt4mTg0IwxI" title="Finally, You Can Connect your iPhone to Windows 11 Using Phone Link" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="jJcLRDC4fvs" title="How to Run Computer Performance Benchmark Test on Windows 11 Using CMD" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="NOETv7QLO-w" title="How to delete all emails in Gmail AT ONCE" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="ER-xXdqePRU" title="How to Download and Install Android Apps on Windows 11 Using Amazon Appstore" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="LrHM8wBnznU" title="How To Make Your Windows 11 PC or Laptop Run Faster By Using CMD Commands" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="GV2Un-8AQU0" title="How to Remove Any Watermark from Videos and Images \[One Click\]" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="TcSDYtLX23Q" title="How To Fix Accidentally Deleted Network Adapter Driver in Windows 10\[Solved\]" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="xnF10Q1_bGU" title="How to Use/Configure Proxy Server Settings in Windows 10" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="24ZbLWJxBNg" title="How To Reduce PDF file Size Without Quality loss" />
-
-:::
+<MyYouTubeItems jsonName="yu-Tricknology" />
 
 <!-- Tricknology -->
 

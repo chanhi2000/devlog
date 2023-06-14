@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "GreenLearner",
+    "name": "Green Learner",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPAnJrJZvD_tAYOZlHR_UVFF0JGutjp2b8tGQ94_A=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "14jVFPseQKI",
+      "title": "Advanced Kafka Configuration for Specific Usecase || Chapter 1 || Day 10"
+    }, {
+      "id": "z5MyLwf5nVc",
+      "title": "Writing Java Producer Client for Kafka || Chapter 1 || Day 9"
+    }, {
+      "id": "v8C_NL0eDhs",
+      "title": "Java Project Setup for Kafka Demo || Chapter 1 || Day 9"
+    }, {
+      "id": "QFBNKrK5zt4",
+      "title": "Kafka Use Cases || Chapter 1 || Day 1"
+    }, {
+      "id": "DXmC-M-qY2g",
+      "title": "6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock"
+    }, {
+      "id": "GUHOzE3viu8",
+      "title": "#17 Writing Integration Tests for Microservices"
+    }, {
+      "id": "D9e3ODqqlsE",
+      "title": "9 WireMock - Stateful Behavior Simulation"
+    }, {
+      "id": "0tU3dhIymck",
+      "title": "10 WireMock - Response Templating"
+    }, {
+      "id": "DXmC-M-qY2g",
+      "title": "6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock"
+    }
+  ]
+}
+
+

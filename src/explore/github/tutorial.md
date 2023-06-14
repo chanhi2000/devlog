@@ -36,6 +36,7 @@ tags: ["tutorial", "github", "open-source", "opensource", "java", "kotlin", "and
   - [🌐Official Site](https://norvig.github.io/paip-lisp)
 - [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling][l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling]: Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.
 - [Mr-xn/BLACKHAT_Asia2023][Mr-xn/BLACKHAT_Asia2023]: Black Hat Asia 2023 PDF Public
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
 
 
 <!-- Misc. -->

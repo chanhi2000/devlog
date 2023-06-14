@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Intro
 description: 🦊freecodecamp.org - DevOps with GitLab CI 
-tags: ["crashcourse", "gitlab", "yaml", "ci" ,"youtube", "freecodecamp", "vdespa"]
+tags: ["crashcourse", "java", "jdk", "jdk8"]
 meta:
   - name: 🦊freecodecamp.org - DevOps with GitLab CI
     content: 🦊freecodecamp.org - DevOps with GitLab CI

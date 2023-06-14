@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "tobyspring",
+    "name": "Toby Lee",
+    "profile": "https://yt3.googleusercontent.com/J0v4zZOhhkyFZtH8fCJm1VLQ9IfM6goLZHWQhR5arz1-QpbfcdW7LDmuflZz7BjHIjcg6Lk=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "VIacwaUMbqs",
+      "title": "스프링 가이드 타임어택 (2) -  Scheduling Tasks"
+    }, {
+      "id": "wlOR5ehWSjE",
+      "title": "스프링 가이드 타임어택 (1) - RESTful Web Service"
+    }, {
+      "id": "Kb37Q5GCyZs",
+      "title": "Spring 6의 새로운 HTTP Interface와 3 가지 REST Clients 라이브 코딩"
+    }, {
+      "id": "S4W3cJOuLrU",
+      "title": "RestTemplate은 스프링에서 제거되나요"
+    }
+  ]
+}
+

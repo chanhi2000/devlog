@@ -1,4 +1,4 @@
----
+b---
 lang: ko-KR
 title: 📚References
 description: 🦕C > 📚References
@@ -50,6 +50,20 @@ tags: ["c", "llvm"]
 - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr)
 
 ---
+
+## Cameron DaCamara
+
+- [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures)
+
+---
+
+## Sy Brand
+
+- [Writing a Linux Debugger Part 1: Setup](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup)
+
+---
+
+## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)
 

@@ -764,5 +764,20 @@
     "desc": "The official web app for lemmy.",
     "topics": ["reddit", "inferno", "link-aggregator", "lemmy"], 
     "officialSite": "https://join-lemmy.org"
+  }, {
+    "repo": "aidenybai/million",
+    "desc": "The Virtual DOM Replacement for React",
+    "topics": ["react", "virtual-dom", "preact", "inferno", "hacktoberfest", "million", "millionjs", "blockdom"],
+    "officialSite": "https://million.dev"
+  }, {
+    "repo": "ianstormtaylor/slate",
+    "desc": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "topics": ["react", "javascript", "editor", "framework", "browser", "slate", "text-editor", "rich-text"],
+    "officialSite": "http://slatejs.org"
+  }, {
+    "repo": "ag-grid/ag-grid",
+    "desc": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
+    "topics": ["react", "pagination", "sorting", "vuejs", "angular", "grid", "excel", "vue-table", "table", "datatable", "angular-grid", "datagrid", "filtering", "react-table", "charting", "react-grid", "grouping", "pivoting", "angular-table", "javascript-table"],
+    "officialSite": "http://www.ag-grid.com"
   }
 ]

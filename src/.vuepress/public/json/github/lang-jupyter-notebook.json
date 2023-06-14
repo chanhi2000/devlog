@@ -239,5 +239,15 @@
     "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
     "topics": ["finance", "data-science", "machine-learning", "deep-learning", "trading", "artificial-intelligence", "trading-strategies", "investment", "synthetic-data", "investment-strategies", "ml4t-workflow", "trading-agent"],
     "officialSite": "https://ml4trading.io"
+  }, {
+    "repo": "AI4Finance-Foundation/FinGPT",
+    "desc": "Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.",
+    "topics": ["nlp", "finance", "machine-learning", "reinforcement-learning", "sentiment-analysis", "pytorch", "fintech", "technical-analysis", "robo-advisor", "large-language-models", "prompt-engineering", "chatgpt", "fingpt"],
+    "officialSite": ""
+  }, {
+    "repo": "camenduru/MusicGen-colab",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ] 

@@ -424,5 +424,10 @@
     "desc": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
     "topics": ["email-marketing", "email-campaigns", "self-hosted", "newsletter", "smtp", "campaign", "mailing-list", "sms-gateway", "email-subscription", "newsletter-management", "campaign-management", "listmonk", "fcm-messaging"],
     "officialSite": "https://listmonk.app"
+  }, {
+    "repo": "dolthub/dolt",
+    "desc": "Dolt – Git for Data",
+    "topics": ["mysql", "git", "golang", "sql", "database", "command-line", "immutable-database", "data-version-control", "data-versioning", "database-version-control", "decentralized-database", "git-database", "git-for-data", "database-versioning", "version-controlled-database", "git-for-databases", "git-sql"],
+    "officialSite": ""
   }
 ]

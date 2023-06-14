@@ -129,6 +129,7 @@ fn main() {
 @tab Solution
 
 ```rs
+// Fill the blanks in the code to make it compile
 fn main() {
     let mut x = 1;
     x += 2;
@@ -151,6 +152,10 @@ A scope is the range within the program for which the item is valid.
 
 ### 3. 🌟
 
+::: tabs
+
+@tab:active Problem
+
 ```rs
 // Fix the error below with least amount of modification
 fn main() {
@@ -161,6 +166,8 @@ fn main() {
     }
     println!("The value of x is {} and value of y is {}", x, y); 
 }
+//
+//
 //    Compiling playground v0.0.1 (/playground)
 // error[E0425]: cannot find value `y` in this scope
 //  --> src/main.rs:9:62
@@ -172,7 +179,32 @@ fn main() {
 // error: could not compile `playground` (bin "playground") due to previous error
 ```
 
+@tab Solution
+
+```rs
+// Fix the error below with least amount of modification
+fn main() {
+    let x: i32 = 10;
+    let y: i32 = 20;
+    {
+        let y: i32 = 5;
+        println!("The value of x is {} and value of y is {}", x, y);
+    }
+    println!("The value of x is {} and value of y is {}", x, y); 
+}
+//
+//
+// The value of x is 10 and value of y is 5
+// The value of x is 10 and value of y is 20
+```
+
+:::
+
 ### 4. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
 
 ```rs
 // Fix the error with the use of define_x
@@ -194,6 +226,45 @@ fn define_x() {
 // error: could not compile `playground` (bin "playground") due to previous error
 ```
 
+
+@tab Solution 🌟
+
+```rs
+// Fix the error with the use of define_x
+fn main() {
+    let x = define_x();
+    println!("{}, world", x); 
+}
+
+fn define_x() -> String {
+    let x = "hello".to_string();
+    x
+}
+// 
+// 
+// hello, world
+```
+
+@tab Solution 🌟🌟
+
+```rs
+// Fix the error below with least amount of modification
+fn main() {
+    let x = define_x();
+    println!("{:?}, world", x);
+}
+
+fn define_x() -> &'static str {
+    let x = "hello";
+    x
+}
+//
+//
+// "hello", world
+```
+
+:::
+
 ---
 
 ## Shadowing
@@ -201,6 +272,10 @@ fn define_x() {
 You can declare a new variable with the same name as a previous variable, here we can say **the first one is shadowed by the second one.
 
 ### 5. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
 
 ```rs
 // Only modify `assert_eq!` to make the `println!` work(print `42` in terminal)
@@ -216,10 +291,46 @@ fn main() {
     let x = 42;
     println!("{}", x); // Prints "42".
 }
+//
+//
+//   Compiling playground v0.0.1 (/playground)
+//     Finished dev [unoptimized + debuginfo] target(s) in 0.55s
+//      Running `target/debug/playground`
+// thread 'main' panicked at 'assertion failed: `(left == right)`
+//   left: `12`,
+//  right: `5`', src/main.rs:7:9
+// note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 ```
+
+@tab Solution
+
+```rs
+// Only modify `assert_eq!` to make the `println!` work(print `42` in terminal)
+fn main() {
+    let x: i32 = 5;
+    {
+        let x = 12;
+        assert_eq!(x, 12);
+    }
+
+    assert_eq!(x, 5);
+
+    let x = 42;
+    println!("{}", x); // Prints "42".
+}
+//
+//
+// 42
+```
+
+:::
 
 
 ### 6. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
 
 ```rs
 // Remove a line in the code to make it compile
@@ -237,8 +348,86 @@ fn main() {
 
     println!("Success!");
 }
+//
+//
+//    Compiling playground v0.0.1 (/playground)
+// warning: value assigned to `x` is never read
+//  --> src/main.rs:4:13
+//   |
+// 4 |     let mut x: i32 = 1;
+//   |             ^
+//   |
+//   = help: maybe it is overwritten before being read?
+//   = note: `#[warn(unused_assignments)]` on by default
+// 
+// warning: variable `x` is assigned to, but never used
+//  --> src/main.rs:7:9
+//   |
+// 7 |     let x = x; 
+//   |         ^
+//   |
+//   = note: consider using `_x` instead
+//   = note: `#[warn(unused_variables)]` on by default
+// 
+// warning: value assigned to `x` is never read
+//  --> src/main.rs:8:5
+//   |
+// 8 |     x += 3;
+//   |     ^
+//   |
+//   = help: maybe it is overwritten before being read?
+// 
+// warning: unused variable: `y`
+//   --> src/main.rs:11:9
+//    |
+// 11 |     let y = 4;
+//    |         ^ help: if this is intentional, prefix it with an underscore: `_y`
+// 
+// warning: unused variable: `y`
+//   --> src/main.rs:13:9
+//    |
+// 13 |     let y = "I can also be bound to text!"; 
+//    |         ^ help: if this is intentional, prefix it with an underscore: `_y`
+// 
+// error[E0384]: cannot assign twice to immutable variable `x`
+//  --> src/main.rs:8:5
+//   |
+// 7 |     let x = x; 
+//   |         -
+//   |         |
+//   |         first assignment to `x`
+//   |         help: consider making this binding mutable: `mut x`
+// 8 |     x += 3;
+//   |     ^^^^^^ cannot assign twice to immutable variable
+// 
+// For more information about this error, try `rustc --explain E0384`.
+// warning: `playground` (bin "playground") generated 5 warnings
+// error: could not compile `playground` (bin "playground") due to previous error; 5 warnings emitted
 ```
 
+@tab Solution
+
+```rs
+// Remove a line in the code to make it compile
+fn main() {
+    let mut x: i32 = 1;
+    x = 7;
+    // Shadowing and re-binding
+    let x = x;
+
+
+    let y = 4;
+    // Shadowing
+    let y = "I can also be bound to text!"; 
+
+    println!("Success!");
+}
+//
+//
+// Success!
+```
+
+:::
 
 ---
 
@@ -253,14 +442,39 @@ fn main() {
 
 none of the solutions is to remove the line `let x = 1`
 
-:::
+::: 
+
+::: tabs 
+
+@tab:active Problem
 
 ```rs
 fn main() {
     let x = 1; 
 }
 // Warning: unused variable: `x`
+//
+// No output
 ```
+
+@tab Solution 🌟
+
+```rs
+fn main() {
+    let _x = 1;
+}
+```
+
+@tab Solution 🌟🌟
+
+```rs
+#[allow(unused_variables)]
+fn main() {
+    let x = 1;
+}
+```
+
+:::
 
 ---
 
@@ -274,6 +488,10 @@ you can use Shadowing or Mutability
 
 :::
 
+::: tabs
+
+@tab:active Problem
+
 ```rs
 // Fix the error below with least amount of modification
 fn main() {
@@ -285,7 +503,51 @@ fn main() {
 
     println!("Success!");
 }
+//
+//
+//    Compiling playground v0.0.1 (/playground)
+// error[E0384]: cannot assign twice to immutable variable `x`
+//  --> src/main.rs:5:5
+//   |
+// 4 |     let (x, y) = (1, 2);
+//   |          -
+//   |          |
+//   |          first assignment to `x`
+//   |          help: consider making this binding mutable: `mut x`
+// 5 |     x += 2;
+//   |     ^^^^^^ cannot assign twice to immutable variable
+// 
+// For more information about this error, try `rustc --explain E0384`.
+// error: could not compile `playground` (bin "playground") due to previous error
 ```
+
+@tab Solution 🌟
+
+```rs
+// Fix the error below with least amount of modification
+fn main() {
+    let (mut x, y) = (1, 2);
+    x += 2;
+
+    assert_eq!(x, 3);
+    assert_eq!(y, 2);
+}
+```
+
+@tab Solution 🌟🌟
+
+```rs
+// Fix the error below with least amount of modification
+fn main() {
+    let (x, y) = (1, 2);
+    let x = 3;
+
+    assert_eq!(x, 3);
+    assert_eq!(y, 2);
+}
+```
+
+:::
 
 ---
 
@@ -301,6 +563,10 @@ the feature `Destructuring assignments` need 1.59 or higher Rust version
 
 :::
 
+::: tabs
+
+@tab:active Problem
+
 ```rs
 fn main() {
     let (x, y);
@@ -311,7 +577,32 @@ fn main() {
 
     println!("Success!");
 } 
+//
+//
+//   Compiling playground v0.0.1 (/playground)
+// error[E0425]: cannot find value `__` in this scope
+//  --> src/main.rs:7:23
+//   |
+// 7 |     assert_eq!([x,y], __);
+//   |                       ^^ not found in this scope
+// 
+// For more information about this error, try `rustc --explain E0425`.
+// error: could not compile `playground` (bin "playground") due to previous error
 ```
+
+@tab Solution
+
+```rs
+fn main() {
+    let (x, y);
+    (x, ..) = (3, 4);
+    [.., y] = [1, 2];
+    // fill the blank to make the code work
+    assert_eq!([x, y], [3, 2]);
+}
+```
+
+:::
 
 ::: note 
 

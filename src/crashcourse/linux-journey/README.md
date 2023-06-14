@@ -58,14 +58,12 @@ color: rgba(24, 188, 156, 0.2)
 ### Networking Nomad
 
 - ✅[Network Sharing][03a-network-sharing]
-- [Network Basics][03a-network-basics]
-- [Subnetting][03a-subnetting]
-- [Routing][03a-routing]
-- [Network Config][03a-network-config]
-- [Troubleshooting][03a-troubleshooting]
-- [DNS][03a-dns]
-
-### Recommended Resources
+- ✅[Network Basics][03b-network-basics]
+- ✅[Subnetting][03c-subnetting]
+- [Routing][03d-routing]
+- [Network Config][03e-network-config]
+- [Troubleshooting][03f-troubleshooting]
+- [DNS][03g-dns]
 
 [01a-getting-started]: 01-grasshopper/01a-getting-started.md
 [01b-command-line]: 01-grasshopper/01b-command-line.md

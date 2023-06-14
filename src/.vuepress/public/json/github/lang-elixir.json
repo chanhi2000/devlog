@@ -9,5 +9,10 @@
     "desc": "A collection of simple Elixir scripts that are using Mix.install/2.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "phoenixframework/phoenix",
+    "desc": "Peace of mind from prototype to production",
+    "topics": ["elixir", "realtime", "web-framework", "api-server", "distributed"],
+    "officialSite": "https://www.phoenixframework.org"
   }
 ]

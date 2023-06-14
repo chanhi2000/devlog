@@ -367,6 +367,14 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## 양재동 코드랩
+
+<MyYouTubeItems jsonName="yu-user-nl2vv9cj8d" />
+
+<!-- 양재동 코드랩 -->
+
+---
+
 <TagLinks />
 
 [yu-Philipp-Lackner]: https://www.youtube.com/@PhilippLackner

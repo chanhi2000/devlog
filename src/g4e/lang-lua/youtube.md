@@ -22,4 +22,20 @@ meta:
 
 ---
 
+## TheVimeagen
+
+<MyYouTubeItems jsonName="yu-TheVimeagen" />
+
+<!-- TheVimeagen -->
+
+---
+
+## Cretezy
+
+<MyYouTubeItems jsonName="yu-cretezy" />
+
+<!-- Cretezy -->
+
+---
+
 <TagLinks />

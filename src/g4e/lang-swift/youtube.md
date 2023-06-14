@@ -3,7 +3,7 @@ lang: ko-KR
 title: 📺Youtube
 description: 🕊️Swift > 📺Youtube
 category: 🕊️Swift
-tags: ["education", "youtube", "ios", "swift"]
+tags: ["education", "youtube", "ios", "swift", "viper"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -308,24 +308,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## iVish
 
-[iVish][yu-i-vish]
-
-::: details 목록
-
-<YoutubeItem channelName="iVish" channelId="iVish" id="YIVt74aBxnM" title="#37 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Send & Receive Messages using WebSocket" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="apNnHSAZIlg" title="#33 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Custom Title View on Navigation bar" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="0HaXHzu3LRY" title="#1 WhatsApp Chat Clone BEST OF VIPER iOS Swift" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="wnvGB9x401w" title="#22 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Logout and Clear JWT Tokens" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="uBKr7VpNPZI" title="#24 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Alamofire Token Refresh Interceptor" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="G4XTDvSM-A8" title="#3 Alamofire RxSwift HTTP REST Api Integration - RxSwift MVVM Coordinator iOS App" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="dbwKV6FJV0w" title="#Intro City Airport Search - RxSwift MVVM Coordinator iOS App" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="sZbBxtTDxL0" title="Practical RxSwift for Beginners - How to pass UIKit Signals To Presenter using Driver [Part 5]" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="zPOQozOTaZU" title="Practical RxSwift for Beginners - Output Signals Back to ViewController from Presenter [Part 7]" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="VlonRg1NlJ8" title="Build a Firebase iOS Swift Todo App - Teaser" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="FqIykDMhOMA" title="Login Flow using VIPER iOS Swift - Sign Up Http Service using Alamofire [Episode 3]" />
-<YoutubeItem channelName="iVish" channelId="iVish" id="DV-AqWKkACQ" title="Login Flow using VIPER iOS Swift - Login and SignUp Routing [Episode 2]" />
-
-:::
+<MyYouTubeItems jsonName="yu-iVish" />
 
 <!-- iVish -->
 
@@ -475,14 +458,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Servet Gulnaroglu
 
-[![Servet Gulnaroglu](https://yt3.googleusercontent.com/ytc/AGIKgqMHuqovRh61MhjuUmDOfWIlp_5OBpilLQFDehS7Hg=s176-c-k-c0x00ffffff-no-rj =x150)][yu-servlet-gulnaroglu]
-
-::: details 목록
-
-<YoutubeItem channelName="Servet Gulnaroglu" channelId="ServetGulnaroglu" id="CJF4ZNJYoSY" title="ASMR Programming - Terrain Generator - No Talking"/>
-<YoutubeItem channelName="Servet Gulnaroglu" channelId="ServetGulnaroglu" id="wgBC-CUQEGs" title="ASMR Programming - MacOS Calculator - No Talking" />
-
-:::
+<MyYouTubeItems jsonName="yu-ServetGulnaroglu" />
 
 <!-- Servet Gulnaroglu -->
 
@@ -490,14 +466,7 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ## Scott Smith
 
-[![Scott Smith](https://yt3.googleusercontent.com/UjcMom96yK2D8QbpzA2taIwMFm6CwTJ_eFDkYjZXGLn0oaPOzvCns9x6WzsxlpAMHbv4VTmQ1Q=s176-c-k-c0x00ffffff-no-rj =x150)][yu-scott-smith]
-
-::: details 목록
-
-<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="7F6tKPkK4jA" title="SwiftUI: Custom Rows without Separators! Beta Bugs Uncut | iOS, Swift" />
-<YoutubeItem channelName="Scott Smith" channelId="ScottSmithDev" id="hk-bnCVgsww" title="SwiftUI: How to resize an Image — in 60 seconds | iOS" />
-
-:::
+<MyYouTubeItems jsonName="yu-ScottSmithDev" />
 
 <!-- Scott Smith -->
 
@@ -613,6 +582,14 @@ tags: ["education", "youtube", "ios", "swift"]
 
 ---
 
+## Haipp
+
+<MyYouTubeItems jsonName="yu-haipp9931" />
+
+<!-- Haipp -->
+
+---
+
 ## David Tran
 
 <MyYouTubeItems jsonName="yu-DucTranFan" />
@@ -626,6 +603,54 @@ tags: ["education", "youtube", "ios", "swift"]
 <MyYouTubeItems jsonName="yu-CODEMOBILEUK" />
 
 <!-- CODEMOBILE -->
+
+---
+
+## AppleProgramming
+
+<MyYouTubeItems jsonName="yu-AppleProgramming" />
+
+<!-- AppleProgramming -->
+
+---
+
+## Make School
+
+<MyYouTubeItems jsonName="yu-MakeSchoolCS" />
+
+<!-- Make School -->
+
+---
+
+## Swift Heroes
+
+<MyYouTubeItems jsonName="yu-SwiftHeroes" />
+
+<!-- Swift Heroes -->
+
+---
+
+## Stanford
+
+<MyYouTubeItems jsonName="yu-stanford" />
+
+<!-- Stanford -->
+
+---
+
+## Sergio Becerril
+
+<MyYouTubeItems jsonName="yu-SergioBecerril" />
+
+<!-- Sergio Becerril -->
+
+---
+
+## 拇指
+
+<MyYouTubeItems jsonName="yu-zhijunsheng" />
+
+<!-- 拇指 -->
 
 ---
 

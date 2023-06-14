@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "FaztTech",
+    "name": "Fazt",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNhD0TZjRB6ZPa4bWOQ8EAcc-wa73jIJA_LGlD5lw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "i3OdKwuBjeM",
+      "title": "Nodejs Curso Práctico desde Cero (Javascript en el Backend)"
+    }, {
+      "id": "hXDMWeD0ERM",
+      "title": "React Native, Curso para Principiantes (usando Expo)"
+    }, {
+      "id": "_RZ-T6TxP7w",
+      "title": "MERN STACK &amp; Typescript (Mongodb, Express, React, Node con Typescript) - #1 Backend"
+    }, {
+      "id": "aTDphAsHDDE",
+      "title": "Strapi &amp; Ionic (Angular) | CRUD"
+    }, {
+      "id": "wOLo-B7mrZM",
+      "title": "MERN STACK &amp; Typescript (Mongodb, Express, React, Node con Typescript) - #2 Frontend"
+    }
+  ]
+}

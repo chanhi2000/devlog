@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Intro
 description: ☸DigitalOcean - Kubernetes
-tags: ["crashcourse", "gitlab", "yaml", "ci" ,"youtube", "freecodecamp", "vdespa"]
+tags: ["crashcourse", "digitalocean", "kubernetes", "kubctl"]
 meta:
   - name: ☸DigitalOcean - Kubernetes
     content: ☸DigitalOcean - Kubernetes

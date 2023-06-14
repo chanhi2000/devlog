@@ -1133,6 +1133,38 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Creative Clue
+
+<MyYouTubeItems jsonName="yu-creativeclue2772" />
+
+<!-- Creative Clue -->
+
+---
+
+## Fazt
+
+<MyYouTubeItems jsonName="yu-FaztTech" />
+
+<!-- Fazt -->
+
+---
+
+## GISdonwell
+
+<MyYouTubeItems jsonName="yu-GISdonwell" />
+
+<!-- GISdonwell -->
+
+---
+
+## Colt Steele
+
+<MyYouTubeItems jsonName="yu-ColtSteeleCode" />
+
+<!-- Colt Steele -->
+
+---
+
 ## Misc
 
 
