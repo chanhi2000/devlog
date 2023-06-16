@@ -229,6 +229,11 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "uTox/uTox",
+    "desc": "µTox the lightest and fluffiest Tox client",
+    "topics": ["android", "c", "light", "windows", "macos", "linux", "fast", "lightweight", "security", "video", "osx", "text", "messenger", "voice", "secure", "private", "encrypted", "tox", "str8c"],
+    "officialSite": ""
   }
 ]
 

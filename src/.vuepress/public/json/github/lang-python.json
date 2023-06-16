@@ -302,7 +302,7 @@
   }, {
     "repo": "huggingface/transformers",
     "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
-    "topics": [],
+    "topics": ["python", "nlp", "machine-learning", "natural-language-processing", "deep-learning", "tensorflow", "pytorch", "transformer", "speech-recognition", "seq2seq", "flax", "pretrained-models", "language-models", "nlp-library", "language-model", "hacktoberfest", "bert", "jax", "pytorch-transformers", "model-hub"],
     "officialSite": "https://huggingface.co/transformers"
   }, {
     "repo": "npiv/chatblade",
@@ -500,7 +500,7 @@
     "officialSite": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm"
   }, {
     "repo": "lm-sys/FastChat",
-    "desc": "An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.",
+    "desc": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.",
     "topics": [],
     "officialSite": ""
   }, {
@@ -1663,5 +1663,25 @@
     "desc": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Victorwz/LongMem",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookresearch/ijepa",
+    "desc": "Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, \"Self-supervised learning from images with a joint-embedding predictive architecture.\"",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "facebookresearch/localrf",
+    "desc": "An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "topics": ["data-science", "pipeline", "exploratory-data-analysis", "eda", "data-engineering", "data-quality", "data-profiling", "datacleaner", "exploratory-analysis", "cleandata", "dataquality", "datacleaning", "mlops", "pipeline-tests", "pipeline-testing", "dataunittest", "data-unit-tests", "exploratorydataanalysis", "pipeline-debt", "data-profilers"],
+    "officialSite": "https://docs.greatexpectations.io"
   }
 ]

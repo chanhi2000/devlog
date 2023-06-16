@@ -104,5 +104,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "gustavoguanabara/html-css",
+    "desc": "Curso de HTML5 e CSS3",
+    "topics": ["html5", "css3", "gratis", "curso", "cursoemvideo", "gustavoguanabara"],  
+    "officialSite": "https://gustavoguanabara.github.io/html-css"
   }
 ]

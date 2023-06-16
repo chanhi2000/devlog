@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "techieblossom",
+    "name": "TECHIE BLOSSOM",
+    "profile": "https://yt3.googleusercontent.com/o7RAYJlYLqFmyR3Tm_DwdsdPQ-BFA6GWVlJsG74yAwA8SzOmTpY7ozRh5tIvhzPIogJYHrMXyw=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "-rTZA4QhXew",
+      "title": "Create Soccer Hexagon in Flutter with Animation"
+    }
+  ]
+}

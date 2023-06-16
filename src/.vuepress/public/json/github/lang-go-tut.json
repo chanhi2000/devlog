@@ -9,5 +9,15 @@
     "desc": "A Collection of tools, hands-on walkthroughs with source code.",
     "topics": [],
     "officialSite": ""
-  } 
+  }, {
+    "repo": "Furkan-Gulsen/turkce-go-egitimi",
+    "desc": "Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar.",
+    "topics": ["go", "golang", "go-documentation", "golang-docs", "golang-docs-turkce", "go-turkce-kaynak", "golang-turkce-kaynak"],
+    "officialSite": "https://docs.furkangulsen.com/golang-dokumani"
+  }, {
+    "repo": "MatthewJamesBoyle/golang-interview-prep",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }
 ]

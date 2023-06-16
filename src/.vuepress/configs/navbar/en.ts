@@ -1,12 +1,10 @@
 import type { NavbarConfig } from '@vuepress/theme-default'
 
 export const navbarEn: NavbarConfig = [
-  /* 
-  {
-    text: '🔖Tags',
+  /*{
+    text: '🔖',
     link: '/tags/README.md'
-  },
-  */
+  },*/
   {
     text: '🗂️', // Catalog
     children: [
@@ -181,6 +179,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 29',
             link: '/crashcourse/paul-hudson-100-days-of-swift/29.md'
+          }, {
+            text: 'Day 30',
+            link: '/crashcourse/paul-hudson-100-days-of-swift/30.md'
           }
         ]
       }, {
@@ -243,6 +244,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: 'Day 18',
             link: '/crashcourse/paul-hudson-100-days-of-swiftui/18.md'
+          }, {
+            text: 'Day 19',
+            link: '/crashcourse/paul-hudson-100-days-of-swiftui/19.md'
           }
         ],
       }, {

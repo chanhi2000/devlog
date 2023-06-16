@@ -429,5 +429,35 @@
     "desc": "Dolt – Git for Data",
     "topics": ["mysql", "git", "golang", "sql", "database", "command-line", "immutable-database", "data-version-control", "data-versioning", "database-version-control", "decentralized-database", "git-database", "git-for-data", "database-versioning", "version-controlled-database", "git-for-databases", "git-sql"],
     "officialSite": ""
+  }, {
+    "repo": "gorilla/websocket",
+    "desc": "A fast, well-tested and widely used WebSocket implementation for Go.",
+    "topics": ["go", "golang", "gorilla", "websocket", "gorilla-websocket"],
+    "officialSite": ""
+  }, {
+    "repo": "containerd/containerd",
+    "desc": "An open and reliable container runtime",
+    "topics": ["docker", "kubernetes", "containers", "cncf", "oci", "cri", "hacktoberfest", "containerd"],
+    "officialSite": "https://containerd.io"
+  }, {
+    "repo": "kubernetes/kube-state-metrics",
+    "desc": "Add-on agent to generate and expose cluster-level metrics.",
+    "topics": ["kubernetes", "monitoring", "metrics", "prometheus", "prometheus-exporter", "kubernetes-monitoring", "observability", "kubernetes-exporter"],
+    "officialSite": ""
+  }, {
+    "repo": "labring/sealos",
+    "desc": "Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.",
+    "topics": ["docker", "kubernetes", "golang", "install", "container", "kubeadm", "ipvs", "kubernetes-ha", "cloudos"],
+    "officialSite": "https://cloud.sealos.io"
+  }, {
+    "repo": "derailed/k9s",
+    "desc": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "topics": ["go", "kubernetes", "golang", "k8s", "k8s-cluster", "kubernetes-cli", "kubernetes-clusters", "k9s"],
+    "officialSite": "https://k9scli.io"
+  }, {
+    "repo": "prometheus/node_exporter",
+    "desc": "Exporter for machine metrics",
+    "topics": ["metrics", "prometheus", "system-information", "prometheus-exporter", "procfs", "node-metrics", "machine-metrics", "host-metrics", "system-metrics"],
+    "officialSite": "https://prometheus.io"
   }
 ]

@@ -394,6 +394,11 @@
     "desc": "👁‍🗨 Rare and exotic sats",
     "topics": ["art", "rust", "bitcoin"],
     "officialSite": "https://ordinals.com"
+  }, {
+    "repo": "sigoden/dufs",
+    "desc": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
+    "topics": ["rust", "command-line", "file-sharing", "webdav", "file-upload-server", "static-server", "webdav-server", "cloud-disk"],
+    "officialSite": ""
   }
 ]
 

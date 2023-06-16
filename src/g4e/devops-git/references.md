@@ -18,6 +18,12 @@ description: 🛠️Git > 📚References
 
 ---
 
+## Trickest
+
+- [Parsing more than 10TB of GitHub Logs with Trickest and Extracting Public Details of all GitHub Users & Repositories](https://trickest.com/blog/parsing-github-logs-with-trickest)
+
+---
+
 ## 인포그랩
 
 - [Git 커밋 메시지 자동화 가이드](https://insight.infograb.net/blog/2023/05/25/git-commit-automation)

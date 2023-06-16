@@ -861,7 +861,7 @@
     "officialSite": "http://impress.js.org"
   }, {
     "repo": "sunner/ChatALL",
-    "desc": "Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers",
+    "desc": "Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
     "topics": ["electron", "desktop-app", "windows", "macos", "linux", "electron-app", "vuejs3", "vuetify3", "chatgpt", "bingchat"],
     "officialSite": "http://chatall.ai"
   }, {
@@ -1154,5 +1154,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "738/inko",
+    "desc": "🇰🇷영타를 한글로, 한타를 영어로 변환해주는 자바스크립트 오픈소스 라이브러리",
+    "topics": ["korea", "korean", "hangul", "inko"],
+    "officialSite": "https://inko.js.org"
   }
 ]

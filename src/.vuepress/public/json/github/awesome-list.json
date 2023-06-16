@@ -484,5 +484,20 @@
     "desc": "A list of alternatives for Adobe software",
     "topics": ["list", "alternatives"],
     "officialSite": ""
+  }, {
+    "repo": "ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "topics": ["python", "nlp", "data-science", "machine-learning", "deep-learning", "tensorflow", "scikit-learn", "keras", "ml", "data-visualization", "pytorch", "transformer", "data-analysis", "gpt", "automl", "jax", "data-visualizations", "gpt-3", "chatgpt"],
+    "officialSite": "https://ml-python.best-of.org"
+  }, {
+    "repo": "738/awesome-apple-watch",
+    "desc": "⌚A curated list of awesome watchOS frameworks, libraries, sample apps, including Objective-C and Swift Projects",
+    "topics": ["swift", "ios", "awesome", "objective-c", "watchos", "apple-watch", "watchkit", "applewatch", "watchkit-tutorial", "watchkit-development", "watchkit-sdk", "apple-watch-application", "watchkit-apps"],
+    "officialSite": ""
+  }, {
+    "repo": "738/awesome-devbook",
+    "desc": "📕 국내 개발 도서 리스트",
+    "topics": ["awesome", "programming", "books", "book", "awesome-list", "learning-resources"],
+    "officialSite": "https://git.io/awesome-devbook"
   }
 ]

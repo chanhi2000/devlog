@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "Uniswap/v4-core",
+    "desc": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+    "topics": [],
+    "officialSite": "https://blog.uniswap.org/uniswap-v4"
+  }, {
+    "repo": "Uniswap/v4-periphery",
+    "desc": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
+    "topics": [],
+    "officialSite": "https://blog.uniswap.org/uniswap-v4"
+  }, {
+    "repo": "SunWeb3Sec/DeFiHackLabs",
+    "desc": "Reproduce DeFi hacked incidents using Foundry.",
+    "topics": ["ethereum", "solidity", "web3", "foundry", "defi"],
+    "officialSite": ""
+  }
+]

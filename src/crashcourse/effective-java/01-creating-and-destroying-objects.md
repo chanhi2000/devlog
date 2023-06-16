@@ -538,3 +538,236 @@ public class BuilderMain {
 __요약__: 빌더 패턴은 인자가 많은 생성자(4개 이상)나 정적 팩토리가 필요한 클래스를 설계할 때, 특히 대부분의 인자가 선택적 인자인 상황에 유용하다.
 
 ---
+
+## 규칙3 : `private` 생성자나 enum 자료형은 싱글턴 패턴을 따르도록 설계하라
+
+> Enforce the singleton property with a private constructor or an enum type
+
+싱글턴은 객체를 하나만 만들 수 있는 클래스다. 그런데 클래스를 싱글턴으로 만들면 클라이언트를 테스트하기가 어려워질 수가 있다. 싱글턴이 어떤 인터페이스를 구현하는 것이 아니면 가짜 구현으로 대체할 수 없기 때문이다.
+
+JDK 1.5 이전에는 싱글턴을 구현하는 방법이 두 가지였다. 두 방법 다 생성자는 private로 선언하고, 싱글턴 객체는 정적(static) 멤버를 통해 이용한다.
+
+### 첫 번째 방법 - 필드
+
+```java
+public class Elvis {
+    public static final Elvis INSTANCE = new Elvis();  //public 필드로 선언
+
+    private Elvis() {
+    }
+
+    public void leaveTheBuilding() {
+        System.out.println("Whoa baby, I'm outta here!");
+    }
+
+    // This code would normally appear outside the class!
+    public static void main(String[] args) {
+        Elvis elvis = Elvis.INSTANCE;
+        elvis.leaveTheBuilding();
+    }
+}
+```
+
+필드 방식의 장점은 클래스가 싱글턴인지 필드 선언만 봐도 바로 알 수 있다(public static field is final, so it will always contain the same object reference). 두번째 장점은 정적 팩토리 메서드 방식보다 더 간단하다.
+
+### 두 번째 방법 - 정적 팩토리 메서드
+
+```java
+public class Elvis {
+    private static final Elvis INSTANCE = new Elvis(); //private 필드로 선언
+
+    private Elvis() {
+    }
+
+    public static Elvis getInstance() {
+        return INSTANCE;
+    }
+
+    public void leaveTheBuilding() {
+        System.out.println("Whoa baby, I'm outta here!");
+    }
+
+    // This code would normally appear outside the class!
+    public static void main(String[] args) {
+        Elvis elvis = Elvis.getInstance();
+        elvis.leaveTheBuilding();
+    }
+}
+```
+
+
+이 방식의 장점은 API를 변경하지 않고도 싱글턴 패턴을 포기할 수 있다. 스레드마다 별도의 객체를 반환하도록 팩토리 메서드를 수정하는 것도 간단하다. 두번째 장점은 제네릭 타입을 수용하기 쉽다. 마지막 장점은(3rd edition 추가) method reference가 supplier로써 사용 될 수 있다. 예를 들어 `Elvis::instance`는 `Supplier<Elvis>`다. 이러한 장점들이 필요 없다면 `pulbic` 필드를 사용하는 쪽이 더 간단하다.
+
+`private` 생성자이기 때문에 클라이언트가 이 상태를 변경할 방법은 없지만 주의할 것이 하나 있다.
+
+`AccessibleObject.setAccessible`메서드의 도움을 받아 권한을 획득한 클라이언트는 리플렉션(reflection)기능을 통해 `private` 생성자를 호출 할 수 있다는 것이다.
+
+```java
+import java.lang.relfect.Constructor;
+
+public class PrivateInvoker {
+    public static void main(String[] args) throws Exception {
+        //리플렉션과 setAccessible메서드를 통해 private로 선언된 생성자의 호출 권한을 획득한다.
+        Constructor<?> con = Private.class.getDeclaredConstructors()[0];
+        con.setAccessible(true);
+        Private p = (Private)con.newInstance();
+    }
+}
+
+class Private{
+    private Private(){
+        System.out.println("hello");
+    }
+}
+```
+
+리플렉션 기능을 이용하면 메모리에 적재된 클래스의 정보를 가져오는 프로그램을 작성할 수 있다. Class 객체가 주어지면, 해당 객체가 나타내는 클래스의 생성자, 메서드, 필드 등을 나타내는 Constructor, Method, Field 객체들을 가져올 수 있는데, 이 객체들을 사용하면 클래스의 멤버 이름이나 필드 자료형, 메서드 시그너처 등의 정보들을 얻어낼 수 있다(이런 공격을 막으려면 두번째 instance를 생성하는 요청이 올 때 생성자에서 Exception을 발생시키게 수정해야한다).
+
+싱글턴 클래스를 직렬화 가능(`Serializable`) 클래스로 만들려면 클래스 선언에 `implements Serializable`을 추가하는 것으로는 부족하다. 싱글턴 특성을 유지하려면 모든 필드를 transient로 선언하고 `readResolve` 메서드를 추가해야 한다. 그렇지 않으면 serialize된 객체가 역직렬화될 때마다 새로운 객체가 생기게 된다.
+
+```java
+//싱글턴 상태를 유지하기 위한 readResolve 구현
+private Object readResolve() {
+    //동일한 Elvis 객체가 반환되도록 하는 동시에, 가짜 Elvis 객체는
+    //GC가 처리하도록 만든다.
+    return INSTANCE;
+}
+```
+
+__JDK 1.5부터는 싱글턴을 구현할 때 새로운 방법을 사용할 수 있다. 원소가 하나뿐인 enum 자료형을 정의하는 것이다.__
+
+```java
+public enum Elvis{
+    INSTNACE;
+
+    public void leaveTheBuilding(){ 
+        ...
+    }
+}
+
+public static void main(String[] args) {
+    Elvis elvis = Elvis.INSTANCE;
+    elvis.leaveTheBuilding();
+}
+```
+
+기능적으로는 `public` 필드를 사용하는 구현법과 동등하다. 한 가지 차이는 좀 더 간결하다는 것과, 직렬화가 자동으로 처리된다는 것이다. 직렬화가 아무리 복잡하게 이루어져도 여러 객체가 생길 일이 없으며, 리플렉션을 통한 공격에도 안전하다. __원소가 하나뿐인 enum 자료형이야말로 싱글턴을 구현하기 가장 좋은 방법이다.__
+
+---
+
+## 규칙4 : 객체 생성을 막을 때는 `private` 생성자를 사용하라
+
+> Enforce noninstantiability with a private constructor
+
+정적 메서드나 필드만 모은 클래스를 만들고 싶을 때가 있다. 이런 클래스들은 악명이 높은데, 객체 지향적으로 생각하지 않으려는 사람들이 남용하는 경향이 있기 때문이다. 하지만 이런 클래스들도 분명 필요할 때가 있다. 자바의 기본 자료형 값(primitive value) 또는 배열에 적용되는 메서드를 한군데 모아둘 때 유용하다.
+
+`java.lang.Math`나 `java.util.Arrays`가 좋은 예다. 특정 인터페이스를 구현하는 객체를 만드는 팩토리 메서드 등의 정적 메서드를 모아놓을 때도 사용할 수 있다. `java.util.Collections`는 그 좋은 예다 (자바8에서는 인터페이스에 직접 메서드를 추가할 수 있다). 마지막으로 `final` 클래스에 적용할 메서드들을 모아놓을 때도 활용할 수 있다. 클래스를 계승하여 메서드를 추가할 수 없으니 말이다.
+
+그런 유틸리티 클래스(utility class)들은 객체를 만들 목적의 클래스가 아니다. 객체를 만들면 오히려 이상하다. 하지만 생성자를 생략하면 컴파일러는 자동으로 기본 생성자를 만들어 버린다. 객체를 만들 수 없도록 하려고 클래스를 `abstract`로 선언해 봤자 소용없다. 하위 클래스를 정의하는 순간 객체 생성이 가능해지기 때문. 게다가 `abstract` 클래스니까 계승해서 사용하는 것이 맞다고 착각하는 사용자도 있을 수 있다. 이럴 때 __`private` 생성자를 클래스에 넣어서 객체 생성을 방지하자는 것이다.__
+
+```java
+public class Utility {
+    private Utility () {
+        throw new AssertionError();
+    }
+}
+```
+
+`AssertionError`는 반드시 필요한 것은 아니지만, 클래스 안에서 실수로 생성자를 호출하면 바로 알 수 있게 하기 위한 것이다.
+
+---
+## 규칙5 : 
+
+> Prefer dependency injection to hardwiring resources
+
+---
+
+## 규칙6 : 규칙6 : 불필요한 객체는 만들지 말라
+
+> Avoid creating unneccesary objects
+
+```java
+String s = new String("abc");
+```
+
+위의 문장은 실행될 때마다 `String` 객체를 만든다 만일 위의 문장이 순환문이나 자주 호출되는 메서드 안에 있다면, 수백만 개의 `String` 객체가 쓸데없이 만들어질 것이다.
+
+```java
+String s = "abc";
+```
+
+이렇게 하면 실행할 때마다 객체를 만드는 대신, 동일한 String 객체를 사용한다. 게다가 같은 가상 머신에서 실행되는 모든 코드가 해당 객체를 재사용하게 된다.
+
+`Person` 클래스는 어떤 사람이 베이비 붐 세대에 속하는지 아닌지를 알려주는 `isBabyBoomer` 메서드 (1946년과 1964년 사이에 태어난 사람이면 참을 반환) 를 갖고 있다.
+
+```java
+public class Person{
+    private final Date birthDate;
+
+    //다른 필드와 메서드, 생성자는 생략 
+
+    //이렇게 하면 안된다!
+    public boolean isBabyBoomer() {
+        //생성 비용이 높은 객체를 쓸데없이 생성한다. 
+        Calendar gtmCal = Calendar.getInstance(TimeZone.getTimeZone("GMT"));
+
+        gmtCal.set(1946, Calendar.JANUARY, 1, 0, 0, 0);
+        Date boomStart = gmtCal.getTime();
+        gmtCal.set(1965, Calendar.JANUARY, 1, 0, 0, 0);
+        Date boomEnd = gmtCal.getTime();
+
+        return birthDate.compareTo(boomStart) >= 0 && birthDate.compareTo(boomEnd) < 0;
+    }
+}
+```
+
+위에 보인 `isBabyBoomer` 메서드는 호출될 때마다 `Calendar` 객체 하나, `TimeZone` 객체 하나, 그리고 `Date` 객체 두 개를 쓸데없이 만들어 댄다. 이렇게 비효율적인 코드는 정적 초기화 블록을 통해 개선하는 것이 좋다.
+
+```java
+public class Person {
+    private final Date birthDate;
+    // 다른 필드와 메서드, 생성자는 생략 
+
+    /**
+     * 베이비 붐 시대의 시작과 끝 
+     */
+    private static final Date BOOM_START;
+    private static final Date BOOM_END;
+
+    static {
+        Calendar gtmCal = Calendar.getInstance(TimeZone.getTimeZone("GMT"));
+
+        gmtCal.set(1946, Calendar.JANUARY, 1, 0, 0, 0);
+        BOOM_START = gmtCal.getTime();
+        gmtCal.set(1965, Calendar.JANUARY, 1, 0, 0, 0);
+        BOOM_END = gmtCal.getTime();
+    }
+
+    public boolean isBabyBoomer() {
+        return birthDate.compareTo(BOOM_START) >= 0 && birthDate.compareTo(BOOM_END) < 0;
+    }
+}
+```
+
+이렇게 개선된 `Person` 클래스는 `Calendar`, `TimeZone` 그리고 `Date` 객체를 클래스가 초기화 될 때 한 번만 만든다.
+
+JDK 1.5부터는 쓸데없이 객체를 만들 새로운 방법이 더 생겼다. autoboxing을 통해 자바의 기본 자료형과 그 객체 표현형을 섞어 사용할 수 있다. 둘 간의 변환은 자동으로 이뤄진다.
+
+```java
+public static void main(String[] args) {
+    Long sum = 0L;
+    for (long i = 0; i< Integer.MAX_VALUE; i++) {
+        sum += i;
+    }
+    System.out.println(sum);
+}
+```
+
+`sum은` `long`이 아니라 `Long`으로 선언되어 있는데 그 덕에 `long i`가 `Long sum`에 더해질때마다 하나씩 객체가 생긴다.
+
+---
+
+## 규칙7 : 유효기간이 지난 객체 참조는 폐기하라
+
+> Eliminate obsolete object references
+

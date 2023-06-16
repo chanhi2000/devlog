@@ -116,7 +116,7 @@ Now that you’ve mastered the basics of Swift, in these days you’ll start bui
 - [Day 16][day-16] – ✅Project 1, part one
 - [Day 17][day-17] – ✅Project 1, part two
 - [Day 18][day-18] – ✅Project 1, part three
-- [Day 19][day-19] – Challenge day
+- [Day 19][day-19] – ✅Challenge day
 - [Day 20][day-20] – Project 2, part one
 - [Day 21][day-21] – Project 2, part two
 - [Day 22][day-22] – Project 2, part three
@@ -295,7 +295,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-16]: 16.md
 [day-17]: 17.md
 [day-18]: 18.md
-[day-19]: https://www.hackingwithswift.com/100/swiftui/19
+[day-19]: 19.md
 [day-20]: https://www.hackingwithswift.com/100/swiftui/20
 [day-21]: https://www.hackingwithswift.com/100/swiftui/21
 [day-22]: https://www.hackingwithswift.com/100/swiftui/22

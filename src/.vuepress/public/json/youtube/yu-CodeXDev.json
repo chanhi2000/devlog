@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "CodeXDev",
+    "name": "CodeX",
+    "profile": "https://yt3.googleusercontent.com/5xdoPuRDEDe_laQaVA8jFEU_M39iAESRpMuYJxrc7ZN73Xnsr11ZdAr15ZqMSFVZLhHKWyR9kJ4=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "zx2eh3t_98Q", 
+      "title": "Serverpod 🚀 Deploying to AWS"
+    }, {
+      "id": "nNpecoYRV-o", 
+      "title": "5 useful extensions for VS Code | Flutter"
+    }, {
+      "id": "ZnevdXDH25Q", 
+      "title": "GetX State Management tutorial with Flutter 😍"
+    }
+  ]
+}

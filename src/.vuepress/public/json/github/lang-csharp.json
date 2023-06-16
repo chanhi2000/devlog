@@ -154,5 +154,10 @@
     "desc": "Realtime Diffusion, using Automatic1111 Stable Diffusion API",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "git-ecosystem/git-credential-manager",
+    "desc": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+    "topics": ["github", "git", "gitlab", "authentication", "cross-platform", "bitbucket", "aad", "credential", "azure-devops", "azure-repos"],
+    "officialSite": ""
   }
 ]

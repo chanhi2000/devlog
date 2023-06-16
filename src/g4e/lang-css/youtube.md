@@ -69,4 +69,12 @@ tags: ["education", "youtube", "programming", "css"]
 
 ---
 
+## 코딩셀러 - Build and Sell
+
+<MyYouTubeItems jsonName="yu-codingSeller" />
+
+<!-- 코딩셀러 - Build and Sell -->
+
+---
+
 <TagLinks />

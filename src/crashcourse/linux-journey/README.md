@@ -60,7 +60,7 @@ color: rgba(24, 188, 156, 0.2)
 - ✅[Network Sharing][03a-network-sharing]
 - ✅[Network Basics][03b-network-basics]
 - ✅[Subnetting][03c-subnetting]
-- [Routing][03d-routing]
+- ✅[Routing][03d-routing]
 - [Network Config][03e-network-config]
 - [Troubleshooting][03f-troubleshooting]
 - [DNS][03g-dns]

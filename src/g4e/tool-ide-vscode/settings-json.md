@@ -32,6 +32,12 @@ copy and paste below
     "[python]": {
         "editor.formatOnType": true
     },
+	"[javascript]": {
+		"editor.tabSize": 2
+	},
+	"[json]": {
+		"editor.tabSize": 2
+	},
 
     "kotlin.languageServer.enabled": false,
     "kotlin.debugAdapter.enabled": false,

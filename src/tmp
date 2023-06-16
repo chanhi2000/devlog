@@ -60,13 +60,10 @@
 <YoutubeItem channelName="Alexandr Sarandi" channelId="asarandi" id="_i_v6pWqDQQ" title="reverse engineering candy-crush-saga on ios using lldb and hopper" />
 <YoutubeItem channelName="12 Math" channelId="12math" id="KsGfAa0_DzQ" title="지난달 (23년 3월) 발표된 새로운 피타고라스 정리 증명법" />
 <YoutubeItem channelName="Harvard Innovation Labs" channelId="Harvardilab" id="r-98YRAF1dY" title="How to Build a Product that Scales into a Company" />
-<YoutubeItem channelName="Adam La Morre" channelId="adam_la_morre" id="Fzv-rgwcFKk" title="NodeJS Realtime Chat: Build a FULL-STACK app in 27 Minutes! (Best UI 🤩)" />
 <YoutubeItem channelName="GLK Akademi" channelId="glkakademi" id="MP9U5Lz8gN0" title="Upgrade REPORT DESIGN in 10 Minutes in Power BI" />
-<YoutubeItem channelName="코딩셀러 - Build and Sell" channelId="codingSeller" id="roehGNJJztU" title="CSS에 시간 쓰지 마세요. Pico.css 쓰세요" />
 <YoutubeItem channelName="High-Performance Programming" channelId="HighPerformanceProgramming" id="olfaBgJrUBI" title="Design a Payment System - System Design Interview" />
 <YoutubeItem channelName="Matt Pocock" channelId="mattpocockuk" id="S6rcrkbsDI0" title="Learn tRPC in 5 minutes" />
 <YoutubeItem channelName="Yochang Song" channelId="totuworld7" id="RC0DSJs8KY4" title="[업무자동화] 각각 다른 파일을 첨부해서 대량 email 보내기" />
-<YoutubeItem channelName="Go Cloud Architects" channelId="GoCloudArchitects" id="2KC5in20Qj8" title="AWS Certified Solutions Architect Associate 2023 (Full Free AWS course!) - Day One" />
 <YoutubeItem channelName="bRd 3D" channelId="bRd3D" id="olp0y881c7s" title="전자제품의 뼈대가 되는 회로기판의 작동방식과 제작공정" />
 <YoutubeItem channelName="Your Own KPI" channelId="yourownkpi" id="ScRA9dkm4WY" title="Insane Power BI Dashboard Design with Figma | Timelapse" />
 <YoutubeItem channelName="Till Musshoff" channelId="tillmusshoff" id="Rog9oHtVmjM" title="This Just Changed My Mind About AGI" />
@@ -88,7 +85,6 @@
 <YoutubeItem channelName="Thu Vu data analytic" channelId="Thuvu5" id="EE1Y2enHrcU" title="Building a Chatbot with ChatGPT API and Reddit Data" />
 <YoutubeItem channelName="IB 96" channelId="IB9696" id="z3sb6-LwmK4" title="챗 GPT 4.0 탑재 한 Microsoft Bing 사용 방법(컴퓨터및 스마트폰)_How to use Microsoft Bing" />
 <YoutubeItem channelName="OpenProject | Open Source Project Management" channelId="OpenProjectCommunity" id="07oXvhwKoX8" title="OpenProject Nextcloud Integration Set up" />  
-<YoutubeItem channelName="Joshua Moron" channelId="JoshuaMorony" id="iA6iyoantuo" title="Why didn't the Angular team just use RxJS instead of Signals?" />
 <YoutubeItem channelName="KTZ Systems" channelId="ktzsystems" id="CUh8FDLbj8M" title="Secret Management with Ansible Vault and docker-compose" />
 <YoutubeItem channelName="퇴사한 이형" channelId="lee_bro" id="sZnJQoEtfsU" title="회사에서 보고서로 인정받으려면 이것부터 해보세요" />
 <YoutubeItem channelName="Mafia Codes" channelId="mafiacodes" id="4BJMq1yxCOs" title="Complete Next-auth tutorial, including global authenticated page component." />
@@ -151,3 +147,5 @@ https://webviewer.unidocs.co.kr/ezpdfwv_mng/ezpdfWebView.jsp?contId=000161216896
 https://www.clien.net/service/board/lecture/17822584
 https://ciechanow.ski/gps
 https://hyune-c.tistory.com/m/42s
+https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+https://onlinebooks.library.upenn.edu/

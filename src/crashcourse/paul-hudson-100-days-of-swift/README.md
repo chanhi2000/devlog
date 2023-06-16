@@ -123,7 +123,7 @@ The next three projects we’re looking at will push your iOS skills further as 
 - [Day 27][day-27] – ✅Project 5, part one
 - [Day 28][day-28] – ✅Project 5, part two
 - [Day 29][day-29] – ✅Project 5, part three
-- [Day 30][day-30] – Project 6, part one
+- [Day 30][day-30] – ✅Project 6, part one
 - [Day 31][day-31] – Project 6, part two
 
 ### Day 32: Consolidation III
@@ -319,7 +319,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-27]: 27.md
 [day-28]: 28.md
 [day-29]: 29.md
-[day-30]: https://www.hackingwithswift.com/100/30
+[day-30]: 30.md
 [day-31]: https://www.hackingwithswift.com/100/31
 [day-32]: https://www.hackingwithswift.com/100/32
 [day-33]: https://www.hackingwithswift.com/100/33

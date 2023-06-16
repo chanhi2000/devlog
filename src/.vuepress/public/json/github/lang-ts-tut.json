@@ -24,5 +24,10 @@
     "desc": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
     "topics": ["nextjs", "nextjs13", "next13", "next13app"],
     "officialSite": "https://jsmastery.pro"
+  }, {
+    "repo": "labs42io/clean-code-typescript",
+    "desc": "Clean Code concepts adapted for TypeScript",
+    "topics": ["typescript", "solid", "best-practices", "clean-code", "clean-architecture", "principles", "coding-guidelines"],
+    "officialSite": "https://labs42io.github.io/clean-code-typescript"
   }
 ]

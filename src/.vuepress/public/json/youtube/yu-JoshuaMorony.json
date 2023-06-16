@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "JoshuaMorony",
+    "name": "Joshua Moron",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOLfkRVGcBW74QZGIwQQh7tB_cUcjtkgbU1r84wVQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "iA6iyoantuo",
+      "title": "Why didn't the Angular team just use RxJS instead of Signals?"
+    }
+  ]
+}

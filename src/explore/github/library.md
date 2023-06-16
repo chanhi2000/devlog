@@ -111,7 +111,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Solidity
 
-- [SunWeb3Sec/DeFiHackLabs][SunWeb3Sec/DeFiHackLabs]: Reproduce DeFi hacked incidents using Foundry.
+<MyGithubItems jsonName="lang-solidity" />
 
 ---
 
@@ -196,14 +196,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [twitter/finagle]: https://github.com/twitter/finagle
 [ellie/atuin]: https://github.com/ellie/atuin
 [cantino/mcfly]: https://github.com/cantino/mcfly
-<!-- PHP -->
-[monicahq/monica]: https://github.com/monicahq/monica
-[openai-php/laravel]: https://github.com/openai-php/laravel
-[ockeghem/badtodo]: https://github.com/ockeghem/badtodo
-[laravel/breeze]: https://github.com/laravel/breeze
-[D4RK-R4BB1T/Dark-Web-Archives]: https://github.com/D4RK-R4BB1T/Dark-Web-Archives
-[snipe/snipe-it]: https://github.com/snipe/snipe-it
-[nextcloud/server]: https://github.com/nextcloud/server
 <!-- Elixir -->
 [AccessOwl/open_owl]: https://github.com/AccessOwl/open_owl
 <!-- Clojure -->

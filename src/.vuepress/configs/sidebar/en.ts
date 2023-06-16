@@ -87,6 +87,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/lang-java-android/README.md',
+        '/g4e/lang-java-android/adb.md',
         '/g4e/lang-java-android/tips.md',
         '/g4e/lang-java-android/troubleshooting.md',
         '/g4e/lang-java-android/snippets-gradle.md',
@@ -684,7 +685,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/26.md',
         '/crashcourse/paul-hudson-100-days-of-swift/27.md',
         '/crashcourse/paul-hudson-100-days-of-swift/28.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/29.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/29.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/30.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -708,7 +710,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/15.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/16.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/17.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/18.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/18.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/19.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

@@ -19,4 +19,14 @@ tags: ["youtube", "aws", "amazon", "amazon-web-service"]
 
 <!-- Cloud Learning -->
 
+---
+
+## Go Cloud Architects
+
+<MyYouTubeItems jsonName="yu-GoCloudArchitects" />
+
+<!-- Go Cloud Architects -->
+
+---
+
 <TagLinks />

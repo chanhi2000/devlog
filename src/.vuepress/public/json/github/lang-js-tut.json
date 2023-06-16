@@ -104,5 +104,10 @@
     "desc": "Short code snippets for all your development needs",
     "topics": ["nodejs", "javascript", "css", "python", "git", "html", "education", "snippets", "programming", "reactjs", "es6-javascript", "learn-to-code", "awesome-list", "snippets-collection", "learning-resources"],
     "officialSite": "https://30secondsofcode.org"
+  }, {
+    "repo": "sudheerj/javascript-interview-questions",
+    "desc": "List of 1000 JavaScript Interview Questions",
+    "topics": ["react", "javascript", "vuejs", "angular", "vanilla-javascript", "javascript-applications", "javascript-interview-questions", "core-javascript"],
+    "officialSite": ""
   }
 ]

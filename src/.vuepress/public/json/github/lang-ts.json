@@ -779,5 +779,20 @@
     "desc": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
     "topics": ["react", "pagination", "sorting", "vuejs", "angular", "grid", "excel", "vue-table", "table", "datatable", "angular-grid", "datagrid", "filtering", "react-table", "charting", "react-grid", "grouping", "pivoting", "angular-table", "javascript-table"],
     "officialSite": "http://www.ag-grid.com"
+  }, {
+    "repo": "apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "topics": ["react", "python", "flask", "data-science", "bi", "analytics", "superset", "apache", "data-visualization", "data-engineering", "business-intelligence", "data-viz", "data-analytics", "data-analysis", "sql-editor", "asf", "business-analytics", "apache-superset"],
+    "officialSite": "https://superset.apache.org"
+  }, {
+    "repo": "mui/mui-x",
+    "desc": "MUI X: Build data-rich applications using a growing list of advanced React components.",
+    "topics": ["react", "data-grid", "time-picker", "data-table", "date-picker", "date-range-picker"],
+    "officialSite": "https://mui.com/x"
+  }, {
+    "repo": "pilcrowOnPaper/lucia",
+    "desc": "Authentication, simple and clean",
+    "topics": ["nodejs", "oauth", "typescript", "authentication", "nextjs", "sveltekit"],
+    "officialSite": "https://lucia-auth.com"
   }
 ]

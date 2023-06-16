@@ -299,6 +299,11 @@
     "desc": "Information about the fractureiser malware",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "datahub-project/datahub",
+    "desc": "The Metadata Platform for the Modern Data Stack",
+    "topics": ["metadata", "linkedin", "data-catalog", "data-discovery", "datahub"],
+    "officialSite": "https://datahubproject.io"
   }
 ]
 

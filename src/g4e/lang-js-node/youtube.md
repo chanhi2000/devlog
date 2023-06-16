@@ -837,6 +837,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## AAE IdeaPro
+
+<MyYouTubeItems jsonName="yu-channelId" />
+
+<!-- AAE IdeaPro -->
+
+---
+
 ## Google Chrome Developers
 
 <MyYouTubeItems jsonName="yu-ChromeDevs" />
@@ -1162,6 +1170,30 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-ColtSteeleCode" />
 
 <!-- Colt Steele -->
+
+---
+
+## Joshua Moron
+
+<MyYouTubeItems jsonName="yu-JoshuaMorony" />
+
+<!-- Joshua Moron -->
+
+---
+
+## Adam La Morre
+
+<MyYouTubeItems jsonName="yu-adam_la_morre" />
+
+<!-- Adam La Morre -->
+
+---
+
+## 코딩앙마
+
+<MyYouTubeItems jsonName="yu-codingangma" />
+
+<!-- 코딩앙마 -->
 
 ---
 

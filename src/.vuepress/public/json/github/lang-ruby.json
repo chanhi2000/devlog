@@ -19,5 +19,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "QiuChenlyOpenSource/InjectLib",
+    "desc": "基于Ruby编写的命令行注入版本",
+    "topics": [],
+    "officialSite": ""
   }
 ]

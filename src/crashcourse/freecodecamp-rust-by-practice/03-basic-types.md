@@ -22,6 +22,19 @@ meta:
 
 ---
 
+```card
+title: Rust By Practice
+desc: 3. Basic Types
+link: https://practice.rs/basic-types/numbers.html
+logo: https://github.com/sunface/rust-by-practice/blob/master/en/assets/header.jpg?raw=true
+color: rgba(22, 25, 35, 0.2)
+```
+
+<!-- https://practice.rs/elegant-code-base.html -->
+
+---
+
+
 ## Data Types
 
 Every value in Rust is of a certain _data type_, which tells Rust what kind of data is being specified so it knows how to work with that data. We’ll look at two data type subsets: scalar and compound.
@@ -336,3 +349,1212 @@ cargo run
 The program resulted in a _runtime_ error at the point of using an invalid value in the indexing operation. The program exited with an error message and didn’t execute the final println! statement. When you attempt to access an element using indexing, Rust will check that the index you’ve specified is less than the array length. If the index is greater than or equal to the length, Rust will panic. This check has to happen at runtime, especially in this case, because the compiler can’t possibly know what value a user will enter when they run the code later.
 
 This is an example of Rust’s memory safety principles in action. In many low-level languages, this kind of check is not done, and when you provide an incorrect index, invalid memory can be accessed. Rust protects you against this kind of error by immediately exiting instead of allowing the memory access and continuing. Chapter 9 discusses more of Rust’s error handling and how you can write readable, safe code that neither panics nor allows invalid memory access.
+
+---
+
+## Numbers
+
+### Integer
+
+#### 1. 🌟
+
+::: tip Tips
+
+If we don't explicitly assign a type to a variable, then the compiler will infer one for us.
+
+:::
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Remove something to make it work
+fn main() {
+    let x: i32 = 5;
+    let mut y: u32 = 5;
+
+    y = x;
+    
+    let z = 10; // Type of z ? 
+
+    println!("Success!");
+}
+//
+//
+//    Compiling playground v0.0.1 (/playground)
+// error[E0308]: mismatched types
+//  --> src/main.rs:7:9
+//   |
+// 5 |     let mut y: u32 = 5;
+//   |                --- expected due to this type
+// 6 |
+// 7 |     y = x;
+//   |         ^ expected `u32`, found `i32`
+// 
+// For more information about this error, try `rustc --explain E0308`.
+// error: could not compile `playground` (bin "playground") due to previous error
+```
+
+@tab Solution
+
+```rs
+// Remove something to make it work
+
+```
+
+:::
+
+#### 2. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Fill the blank
+fn main() {
+    let v: u16 = 38_u8 as __;
+
+    println!("Success!");
+}
+//
+//
+//    Compiling playground v0.0.1 (/playground)
+// error[E0412]: cannot find type `__` in this scope
+//  --> src/main.rs:4:27
+//   |
+// 4 |     let v: u16 = 38_u8 as __;
+//   |                           ^^ not found in this scope
+// 
+// For more information about this error, try `rustc --explain E0412`.
+// error: could not compile `playground` (bin "playground") due to previous error
+```
+
+@tab Solution
+
+```rs
+// Fill the blank
+fn main() {
+    let v: u16 = 38_u8 as __;
+
+    println!("Success!");
+}
+```
+
+:::
+
+#### 3. 🌟🌟🌟
+
+::: tip Tips
+
+If we don't explicitly assign a type to a variable, then the compiler will infer one for us.
+
+:::
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Modify `assert_eq!` to make it work
+fn main() {
+    let x = 5;
+    assert_eq!("u32".to_string(), type_of(&x));
+
+    println!("Success!");
+}
+
+// Get the type of given variable, return a string representation of the type  , e.g "i8", "u8", "i32", "u32"
+fn type_of<T>(_: &T) -> String {
+    format!("{}", std::any::type_name::<T>())
+}
+//
+//
+//    Compiling playground v0.0.1 (/playground)
+//     Finished dev [unoptimized + debuginfo] target(s) in 0.98s
+//      Running `target/debug/playground`
+// thread 'main' panicked at 'assertion failed: `(left == right)`
+//   left: `"u32"`,
+//  right: `"i32"`', src/main.rs:5:5
+// note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+```
+
+@tab Solution
+
+```rs
+// Modify `assert_eq!` to make it work
+fn main() {
+    let x = 5;
+    assert_eq!("u32".to_string(), type_of(&x));
+
+    println!("Success!");
+}
+
+// Get the type of given variable, return a string representation of the type  , e.g "i8", "u8", "i32", "u32"
+fn type_of<T>(_: &T) -> String {
+    format!("{}", std::any::type_name::<T>())
+}
+```
+
+:::
+
+#### 4. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Fill the blanks to make it work
+fn main() {
+    assert_eq!(i8::MAX, __); 
+    assert_eq!(u8::MAX, __); 
+
+    println!("Success!");
+}
+//
+//
+/*
+      Compiling playground v0.0.1 (/playground)
+   error[E0425]: cannot find value `__` in this scope
+    --> src/main.rs:4:25
+     |
+   4 |     assert_eq!(i8::MAX, __); 
+     |                         ^^ not found in this scope
+   
+   error[E0425]: cannot find value `__` in this scope
+    --> src/main.rs:5:25
+     |
+   5 |     assert_eq!(u8::MAX, __); 
+     |                         ^^ not found in this scope
+   
+   For more information about this error, try `rustc --explain E0425`.
+   error: could not compile `playground` (bin "playground") due to 2 previous errors
+*/
+```
+
+@tab Solution
+
+```rs
+// Fill the blanks to make it work
+fn main() {
+    assert_eq!(i8::MAX, __); 
+    assert_eq!(u8::MAX, __); 
+
+    println!("Success!");
+}
+```
+
+:::
+
+#### 5. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Fix errors and panics to make it work
+fn main() {
+   let v1 = 251_u8 + 8;
+   let v2 = i8::checked_add(251, 8).unwrap();
+   println!("{},{}",v1,v2);
+}
+//
+//
+/*    
+      Compiling playground v0.0.1 (/playground)
+   error: literal out of range for `i8`
+    --> src/main.rs:5:29
+     |
+   5 |    let v2 = i8::checked_add(251, 8).unwrap();
+     |                             ^^^
+     |
+     = note: the literal `251` does not fit into the type `i8` whose range is `-128..=127`
+     = help: consider using the type `u8` instead
+     = note: `#[deny(overflowing_literals)]` on by default
+   
+   error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution
+
+```rs
+// Fix errors and panics to make it work
+fn main() {
+   let v1 = 251_u8 + 8;
+   let v2 = i8::checked_add(251, 8).unwrap();
+   println!("{},{}",v1,v2);
+}
+```
+
+:::
+
+#### 6. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Modify `assert!` to make it work
+fn main() {
+    let v = 1_024 + 0xff + 0o77 + 0b1111_1111;
+    assert!(v == 1579);
+
+    println!("Success!");
+}
+//
+//
+/* 
+      Compiling playground v0.0.1 (/playground)
+       Finished dev [unoptimized + debuginfo] target(s) in 0.55s
+        Running `target/debug/playground`
+   thread 'main' panicked at 'assertion failed: v == 1579', src/main.rs:5:5
+   note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+*/
+```
+
+@tab Solution
+
+```rs
+// Modify `assert!` to make it work
+fn main() {
+    let v = 1_024 + 0xff + 0o77 + 0b1111_1111;
+    assert!(v == 1579);
+
+    println!("Success!");
+}
+```
+
+:::
+
+### Floating-Point
+
+#### 7. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Fill the blank to make it work
+fn main() {
+    let x = 1_000.000_1; // ?
+    let y: f32 = 0.12; // f32
+    let z = 0.01_f64; // f64
+
+    assert_eq!(type_of(&x), "__".to_string());
+    println!("Success!");
+}
+
+fn type_of<T>(_: &T) -> String {
+    format!("{}", std::any::type_name::<T>())
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  warning: unused variable: `y`
+   --> src/main.rs:5:9
+    |
+  5 |     let y: f32 = 0.12; // f32
+    |         ^ help: if this is intentional, prefix it with an underscore: `_y`
+    |
+    = note: `#[warn(unused_variables)]` on by default
+  
+  warning: unused variable: `z`
+   --> src/main.rs:6:9
+    |
+  6 |     let z = 0.01_f64; // f64
+    |         ^ help: if this is intentional, prefix it with an underscore: `_z`
+  
+  warning: `playground` (bin "playground") generated 2 warnings (run `cargo fix --bin "playground"` to apply 2 suggestions)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.58s
+       Running `target/debug/playground`
+  thread 'main' panicked at 'assertion failed: `(left == right)`
+    left: `"f64"`,
+   right: `"__"`', src/main.rs:8:5
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+*/
+```
+
+@tab Solution
+
+```rs
+// Fill the blank to make it work
+fn main() {
+    let x = 1_000.000_1; // ?
+    let y: f32 = 0.12; // f32
+    let z = 0.01_f64; // f64
+
+    assert_eq!(type_of(&x), "__".to_string());
+    println!("Success!");
+}
+
+fn type_of<T>(_: &T) -> String {
+    format!("{}", std::any::type_name::<T>())
+}
+```
+
+:::
+
+#### 8. 🌟🌟 Make it work in two distinct ways
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+fn main() {
+    assert!(0.1+0.2==0.3);
+
+    println!("Success!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.55s
+       Running `target/debug/playground`
+  thread 'main' panicked at 'assertion failed: 0.1 + 0.2 == 0.3', src/main.rs:3:5
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+*/
+```
+
+@tab Solution
+
+```rs
+fn main() {
+    assert!(0.1+0.2==0.3);
+
+    println!("Success!");
+}
+```
+
+:::
+
+### Range
+
+#### 9. 🌟🌟 Two goals: 1. Modify assert! to make it work 2. Make `println!` output: 97 - 122
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+fn main() {
+    let mut sum = 0;
+    for i in -3..2 {
+        sum += i
+    }
+
+    assert!(sum == -3);
+
+    for c in 'a'..='z' {
+        println!("{}",c);
+    }
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+      Finished dev [unoptimized + debuginfo] target(s) in 2.13s
+       Running `target/debug/playground`
+  thread 'main' panicked at 'assertion failed: sum == -3', src/main.rs:7:5
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+*/
+```
+
+@tab Solution
+
+```rs
+fn main() {
+    let mut sum = 0;
+    for i in -3..2 {
+        sum += i
+    }
+
+    assert!(sum == -3);
+
+    for c in 'a'..='z' {
+        println!("{}",c);
+    }
+}
+```
+
+:::
+
+#### 10. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Fill the blanks
+use std::ops::{Range, RangeInclusive};
+fn main() {
+    assert_eq!((1..__), Range{ start: 1, end: 5 });
+    assert_eq!((1..__), RangeInclusive::new(1, 5));
+
+    println!("Success!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0425]: cannot find value `__` in this scope
+   --> src/main.rs:5:20
+    |
+  5 |     assert_eq!((1..__), Range{ start: 1, end: 5 });
+    |                    ^^ not found in this scope
+    |
+  help: you might have meant to write `.` instead of `..`
+    |
+  5 -     assert_eq!((1..__), Range{ start: 1, end: 5 });
+  5 +     assert_eq!((1.__), Range{ start: 1, end: 5 });
+    |
+  
+  error[E0425]: cannot find value `__` in this scope
+   --> src/main.rs:6:20
+    |
+  6 |     assert_eq!((1..__), RangeInclusive::new(1, 5));
+    |                    ^^ not found in this scope
+    |
+  help: you might have meant to write `.` instead of `..`
+    |
+  6 -     assert_eq!((1..__), RangeInclusive::new(1, 5));
+  6 +     assert_eq!((1.__), RangeInclusive::new(1, 5));
+    |
+  
+  error[E0277]: can't compare `std::ops::Range<{integer}>` with `RangeInclusive<{integer}>`
+   --> src/main.rs:6:5
+    |
+  6 |     assert_eq!((1..__), RangeInclusive::new(1, 5));
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ no implementation for `std::ops::Range<{integer}> == RangeInclusive<{integer}>`
+    |
+    = help: the trait `PartialEq<RangeInclusive<{integer}>>` is not implemented for `std::ops::Range<{integer}>`
+    = help: the following other types implement trait `PartialEq<Rhs>`:
+              <std::ops::Range<Idx> as PartialEq>
+              <std::ops::Range<usize> as PartialEq<aho_corasick::Span>>
+    = note: this error originates in the macro `assert_eq` (in Nightly builds, run with -Z macro-backtrace for more info)
+  
+  Some errors have detailed explanations: E0277, E0425.
+  For more information about an error, try `rustc --explain E0277`.
+  error: could not compile `playground` (bin "playground") due to 3 previous errors
+*/
+```
+
+@tab Solution
+
+```rs
+// Fill the blanks
+use std::ops::{Range, RangeInclusive};
+fn main() {
+    assert_eq!((1..__), Range{ start: 1, end: 5 });
+    assert_eq!((1..__), RangeInclusive::new(1, 5));
+
+    println!("Success!");
+}
+```
+
+:::
+
+### Computations
+
+#### 11. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Fill the blanks and fix the errors
+fn main() {
+    // Integer addition
+    assert!(1u32 + 2 == __);
+
+    // Integer subtraction
+    assert!(1i32 - 2 == __);
+    assert!(1u8 - 2 == -1); 
+    
+    assert!(3 * 50 == __);
+
+    assert!(9.6 / 3.2 == 3.0); // error ! make it work
+
+    assert!(24 % 5 == __);
+    // Short-circuiting boolean logic
+    assert!(true && false == __);
+    assert!(true || false == __);
+    assert!(!true == __);
+
+    // Bitwise operations
+    println!("0011 AND 0101 is {:04b}", 0b0011u32 & 0b0101);
+    println!("0011 OR 0101 is {:04b}", 0b0011u32 | 0b0101);
+    println!("0011 XOR 0101 is {:04b}", 0b0011u32 ^ 0b0101);
+    println!("1 << 5 is {}", 1u32 << 5);
+    println!("0x80 >> 2 is 0x{:x}", 0x80u32 >> 2);
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0425]: cannot find value `__` in this scope
+   --> src/main.rs:5:25
+    |
+  5 |     assert!(1u32 + 2 == __);
+    |                         ^^ not found in this scope
+  
+  error[E0425]: cannot find value `__` in this scope
+   --> src/main.rs:8:25
+    |
+  8 |     assert!(1i32 - 2 == __);
+    |                         ^^ not found in this scope
+  
+  error[E0425]: cannot find value `__` in this scope
+    --> src/main.rs:11:23
+     |
+  11 |     assert!(3 * 50 == __);
+     |                       ^^ not found in this scope
+  
+  error[E0425]: cannot find value `__` in this scope
+    --> src/main.rs:15:23
+     |
+  15 |     assert!(24 % 5 == __);
+     |                       ^^ not found in this scope
+  
+  error[E0425]: cannot find value `__` in this scope
+    --> src/main.rs:17:30
+     |
+  17 |     assert!(true && false == __);
+     |                              ^^ not found in this scope
+  
+  error[E0425]: cannot find value `__` in this scope
+    --> src/main.rs:18:30
+     |
+  18 |     assert!(true || false == __);
+     |                              ^^ not found in this scope
+  
+  error[E0425]: cannot find value `__` in this scope
+    --> src/main.rs:19:22
+     |
+  19 |     assert!(!true == __);
+     |                      ^^ not found in this scope
+  
+  error[E0277]: the trait bound `u8: Neg` is not satisfied
+   --> src/main.rs:9:24
+    |
+  9 |     assert!(1u8 - 2 == -1); 
+    |                        ^^ the trait `Neg` is not implemented for `u8`
+    |
+    = help: the following other types implement trait `Neg`:
+              &f32
+              &f64
+              &i128
+              &i16
+              &i32
+              &i64
+              &i8
+              &isize
+            and 8 others
+  
+  Some errors have detailed explanations: E0277, E0425.
+  For more information about an error, try `rustc --explain E0277`.
+  error: could not compile `playground` (bin "playground") due to 8 previous errors
+*/
+```
+
+@tab Solution
+
+```rs
+// Fill the blanks and fix the errors
+fn main() {
+    // Integer addition
+    assert!(1u32 + 2 == __);
+
+    // Integer subtraction
+    assert!(1i32 - 2 == __);
+    assert!(1u8 - 2 == -1); 
+    
+    assert!(3 * 50 == __);
+
+    assert!(9.6 / 3.2 == 3.0); // error ! make it work
+
+    assert!(24 % 5 == __);
+    // Short-circuiting boolean logic
+    assert!(true && false == __);
+    assert!(true || false == __);
+    assert!(!true == __);
+
+    // Bitwise operations
+    println!("0011 AND 0101 is {:04b}", 0b0011u32 & 0b0101);
+    println!("0011 OR 0101 is {:04b}", 0b0011u32 | 0b0101);
+    println!("0011 XOR 0101 is {:04b}", 0b0011u32 ^ 0b0101);
+    println!("1 << 5 is {}", 1u32 << 5);
+    println!("0x80 >> 2 is 0x{:x}", 0x80u32 >> 2);
+}
+```
+
+:::
+
+---
+
+## Char, Bool and Unit
+
+### Char
+
+#### 1. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Make it work
+use std::mem::size_of_val;
+fn main() {
+    let c1 = 'a';
+    assert_eq!(size_of_val(&c1),1); 
+
+    let c2 = '中';
+    assert_eq!(size_of_val(&c2),3); 
+
+    println!("Success!");
+}
+//
+//
+/*
+   Compiling playground v0.0.1 (/playground)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.59s
+       Running `target/debug/playground`
+  thread 'main' panicked at 'assertion failed: `(left == right)`
+    left: `4`,
+   right: `1`', src/main.rs:6:5
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace  
+*/
+```
+
+@tab Solution
+
+```rs
+// Make it work
+use std::mem::size_of_val;
+fn main() {
+    let c1 = 'a';
+    assert_eq!(size_of_val(&c1),1); 
+
+    let c2 = '中';
+    assert_eq!(size_of_val(&c2),3); 
+
+    println!("Success!");
+} 
+```
+
+:::
+
+#### 2. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Make it work
+fn main() {
+    let c1 = "中";
+    print_char(c1);
+} 
+
+fn print_char(c : char) {
+    println!("{}", c);
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0308]: mismatched types
+   --> src/main.rs:5:16
+    |
+  5 |     print_char(c1);
+    |     ---------- ^^ expected `char`, found `&str`
+    |     |
+    |     arguments to this function are incorrect
+    |
+  note: function defined here
+   --> src/main.rs:8:4
+    |
+  8 | fn print_char(c : char) {
+    |    ^^^^^^^^^^ --------
+  
+  For more information about this error, try `rustc --explain E0308`.
+  error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution
+
+```rs
+// Make it work
+fn main() {
+    let c1 = "中";
+    print_char(c1);
+} 
+
+fn print_char(c : char) {
+    println!("{}", c);
+}
+```
+
+:::
+
+### Bool
+
+#### 3. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Make println! work
+fn main() {
+    let _f: bool = false;
+
+    let t = true;
+    if !t {
+        println!("Success!");
+    }
+}
+//
+//
+/*
+*/
+```
+
+@tab Solution
+
+```rs
+// Make println! work
+fn main() {
+    let _f: bool = false;
+
+    let t = true;
+    if !t {
+        println!("Success!");
+    }
+} 
+```
+
+:::
+
+#### 4. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Make it work
+fn main() {
+    let f = true;
+    let t = true && false;
+    assert_eq!(t, f);
+
+    println!("Success!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.54s
+       Running `target/debug/playground`
+  thread 'main' panicked at 'assertion failed: `(left == right)`
+    left: `false`,
+   right: `true`', src/main.rs:6:5
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+*/
+```
+
+@tab Solution
+
+```rs
+// Make it work
+fn main() {
+    let f = true;
+    let t = true && false;
+    assert_eq!(t, f);
+
+    println!("Success!");
+}
+```
+
+:::
+
+### Unit type
+
+#### 5. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Make it work, don't modify `implicitly_ret_unit` !
+fn main() {
+    let _v: () = ();
+
+    let v = (2, 3);
+    assert_eq!(v, implicitly_ret_unit());
+
+    println!("Success!");
+}
+
+fn implicitly_ret_unit() {
+    println!("I will return a ()");
+}
+
+// Don't use this one
+fn explicitly_ret_unit() -> () {
+    println!("I will return a ()");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0308]: mismatched types
+   --> src/main.rs:7:5
+    |
+  7 |     assert_eq!(v, implicitly_ret_unit());
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     |
+    |     expected `({integer}, {integer})`, found `()`
+    |     expected because this is `({integer}, {integer})`
+    |
+    = note:  expected tuple `({integer}, {integer})`
+            found unit type `()`
+    = note: this error originates in the macro `assert_eq` (in Nightly builds, run with -Z macro-backtrace for more info)
+  
+  For more information about this error, try `rustc --explain E0308`.
+  error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution
+
+```rs
+// Make it work, don't modify `implicitly_ret_unit` !
+fn main() {
+    let _v: () = ();
+
+    let v = (2, 3);
+    assert_eq!(v, implicitly_ret_unit());
+
+    println!("Success!");
+}
+
+fn implicitly_ret_unit() {
+    println!("I will return a ()");
+}
+
+// Don't use this one
+fn explicitly_ret_unit() -> () {
+    println!("I will return a ()");
+}
+//
+//
+```
+
+:::
+
+#### 6. 🌟🌟 What's the size of the unit type?
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Modify `4` in assert to make it work
+use std::mem::size_of_val;
+fn main() {
+    let unit: () = ();
+    assert!(size_of_val(&unit) == 4);
+
+    println!("Success!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.71s
+       Running `target/debug/playground`
+  thread 'main' panicked at 'assertion failed: size_of_val(&unit) == 4', src/main.rs:6:5
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+*/
+```
+
+@tab Solution
+
+```rs
+// Modify `4` in assert to make it work
+use std::mem::size_of_val;
+fn main() {
+    let unit: () = ();
+    assert!(size_of_val(&unit) == 4);
+
+    println!("Success!");
+}
+//
+//
+/*
+*/
+```
+
+:::
+
+---
+
+## Statements and Expressions
+
+### Examples
+
+```rs
+fn main() {
+    let x = 5u32;
+
+    let y = {
+        let x_squared = x * x;
+        let x_cube = x_squared * x;
+
+        // This expression will be assigned to `y`
+        x_cube + x_squared + x
+    };
+
+    let z = {
+        // The semicolon suppresses this expression and `()` is assigned to `z`
+        2 * x;
+    };
+
+    println!("x is {:?}", x);
+    println!("y is {:?}", y);
+    println!("z is {:?}", z);
+}
+//
+//
+/*
+  x is 5
+  y is 155
+  z is ()
+*/
+```
+
+### Exercises
+
+#### 1. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Make it work with two ways
+fn main() {
+   let v = {
+       let mut x = 1;
+       x += 2
+   };
+
+   assert_eq!(v, 3);
+
+   println!("Success!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0308]: mismatched types
+   --> src/main.rs:8:4
+    |
+  8 |    assert_eq!(v, 3);
+    |    ^^^^^^^^^^^^^^^^
+    |    |
+    |    expected `()`, found integer
+    |    expected because this is `()`
+    |
+    = note: this error originates in the macro `assert_eq` (in Nightly builds, run with -Z macro-backtrace for more info)
+  
+  For more information about this error, try `rustc --explain E0308`.
+  error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution
+
+```rs
+// Make it work with two ways
+fn main() {
+   let v = {
+       let mut x = 1;
+       x += 2
+   };
+
+   assert_eq!(v, 3);
+
+   println!("Success!");
+}
+//
+//
+/*
+
+*/
+```
+
+:::
+
+#### 2. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+fn main() {
+   let v = (let x = 3);
+
+   assert!(v == 3);
+
+   println!("Success!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error: expected expression, found `let` statement
+   --> src/main.rs:3:13
+    |
+  3 |    let v = (let x = 3);
+    |             ^^^
+  
+  error: expected expression, found statement (`let`)
+   --> src/main.rs:3:13
+    |
+  3 |    let v = (let x = 3);
+    |             ^^^^^^^^^
+    |
+    = note: variable declaration using `let` is a statement
+  
+  error[E0658]: `let` expressions in this position are unstable
+   --> src/main.rs:3:13
+    |
+  3 |    let v = (let x = 3);
+    |             ^^^^^^^^^
+    |
+    = note: see issue #53667 <https://github.com/rust-lang/rust/issues/53667> for more information
+  
+  warning: unnecessary parentheses around assigned value
+   --> src/main.rs:3:12
+    |
+  3 |    let v = (let x = 3);
+    |            ^         ^
+    |
+    = note: `#[warn(unused_parens)]` on by default
+  help: remove these parentheses
+    |
+  3 -    let v = (let x = 3);
+  3 +    let v = let x = 3;
+    |
+  
+  error[E0308]: mismatched types
+   --> src/main.rs:5:17
+    |
+  5 |    assert!(v == 3);
+    |            -    ^ expected `bool`, found integer
+    |            |
+    |            expected because this is `bool`
+  
+  Some errors have detailed explanations: E0308, E0658.
+  For more information about an error, try `rustc --explain E0308`.
+  warning: `playground` (bin "playground") generated 1 warning
+  error: could not compile `playground` (bin "playground") due to 4 previous errors; 1 warning
+*/
+```
+
+@tab Solution
+
+```rs
+fn main() {
+   let v = (let x = 3);
+
+   assert!(v == 3);
+
+   println!("Success!");
+}
+//
+//
+/*
+
+*/
+```
+
+:::
+
+#### 3. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+fn main() {
+    let s = sum(1 , 2);
+    assert_eq!(s, 3);
+
+    println!("Success!");
+}
+
+fn sum(x: i32, y: i32) -> i32 {
+    x + y;
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0308]: mismatched types
+    --> src/main.rs:9:27
+     |
+  9  | fn sum(x: i32, y: i32) -> i32 {
+     |    ---                    ^^^ expected `i32`, found `()`
+     |    |
+     |    implicitly returns `()` as its body has no tail or `return` expression
+  10 |     x + y;
+     |          - help: remove this semicolon to return this value
+  
+  For more information about this error, try `rustc --explain E0308`.
+  error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution
+
+```rs
+fn main() {
+    let s = sum(1 , 2);
+    assert_eq!(s, 3);
+
+    println!("Success!");
+}
+
+fn sum(x: i32, y: i32) -> i32 {
+    x + y;
+}
+//
+//
+/*
+
+*/
+```
+
+:::
+
