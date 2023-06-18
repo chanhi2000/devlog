@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "varuncbv",
+    "name": "LETS-START-CODING By Varun cbv",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM83jXROnT2qmOEJveN3P3mBmYFVOc3Nx2XZCi8Fc0=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "DCZOchCX10s",
+      "title": "Spring Boot,Restful API,JPA, Hibernate, MySQL CRUD Tutorial"
+    }, {
+      "id": "CrjDoPITesQ",
+      "title": "AngularJs,SpringBoot,Restful API,JPA,Hibernate and MYSQL"
+    }
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "TheCodingTrain",
+    "name": "The Coding Train",
+    "profile": "https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "pI2gvl9sdtE",
+      "title": "How to Make a Processing (Java) Library Part 1"
+    }, {
+      "id": "nZaZ2dB6pow",
+      "title": "1.5 Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript"
+    }, {
+      "id": "3ls013DBcww",
+      "title": "2.2 Geolocation Web API - Working with Data and APIs in JavaScript"
+    }
+  ]
+}

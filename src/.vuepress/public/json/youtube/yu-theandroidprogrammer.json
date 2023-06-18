@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "theandroidprogrammer",
+    "name": "The Android Programmer",
+    "profile": "https://yt3.googleusercontent.com/_eMOBVN-VY5AGKXnMco5kXDCSJcdS3I5DGI_6HiW0B3Bf-DdNj-fmdyss4blYRwHIDFciks8eA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Dl9iBE5m5C4rF7a_R3r806H_lvhYyomziCuaBlWXqynerHyegDphFCl3OcJkq3nzedNfvfBjIA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "HEH57g-UP4Q",
+      "title": "Building a Full Stack Web Application with Kotlin and React - Part 1/2 - Backend + Frontend"
+    }, {
+      "id": "yKiBFlfGR2Q",
+      "title": "Android MVVM with CommandBus - Full Part 2 - Splash Activity and ViewModel"
+    }, {
+      "id": "cLjBhAUl4zU",
+      "title": "Android MVVM with CommandBus - Full Part 1 - BaseViewModel and BaseActivity"
+    }, {
+      "id": "rU-dS0fwqY0",
+      "title": "Data Structures &amp; Algorithms in Kotlin - Linked List push/append"
+    }, {
+      "id": "6hfREKcMx-E",
+      "title": "The Complete Guide to Android Design Patterns - Part 2"
+    }
+  ]
+}
+

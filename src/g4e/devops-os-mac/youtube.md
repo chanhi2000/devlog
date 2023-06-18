@@ -45,6 +45,30 @@ tags: ["macos", "settings"]
 
 ---
 
+## Jessie's Flying
+
+<MyYouTubeItems jsonName="yu-JessiesFlying" />
+
+<!-- Jessie's Flying -->
+
+---
+
+## Landing AI
+
+<MyYouTubeItems jsonName="yu-landingai" />
+
+<!-- Landing AI -->
+
+---
+
+## fotoworkshop-stuttgart.de
+
+<MyYouTubeItems jsonName="yu-fotoworkshop_stuttgart" />
+
+<!-- fotoworkshop-stuttgart.de -->
+
+---
+
 ## Misc
 
 <YoutubeItem channelName="Andrew Ethan Zeng" channelId="AndrewEthanZeng" id="YPV6BitbPmM" title="macOS Ventura – 14 Settings You NEED to Change on Launch" />

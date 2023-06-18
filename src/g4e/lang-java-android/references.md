@@ -110,4 +110,12 @@ tags: ["references", "android"]
 
 ---
 
+## Greek geek
+
+- [Swing VPN app is a DDOS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites)
+
+<!-- Greek geek -->
+
+---
+
 <TagLinks />

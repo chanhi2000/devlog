@@ -414,24 +414,9 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
-
-
-
-
-
 ## Anyone Can Code
 
-[Anyone Can Code][yu-anyone-can-code]
-
-::: details 목록
-
-<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="_dqnqDknsZU" title="ShazamKit and SwiftUI Tutorial - part 3 of 4" />
-<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="LxKyuLAxwi8" title="Make an iOS widget with SwiftUI - Part 2" />
-<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="kPo6bZ8wh8E" title="Make an iOS widget with SwiftUI - Part 3" />
-<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="151GCQlGsKg" title="Make an iOS widget with SwiftUI - Part 1" />
-<YoutubeItem channelName="Anyone Can Code" channelId="AnyoneCanCode" id="Snl3oxPifWo" title="Part 1: Create a multiplayer iOS game: A step by step tutorial" />
-
-:::
+<MyYouTubeItems jsonName="yu-AnyoneCanCode" />
 
 <!-- Anyone Can Code -->
 
@@ -439,18 +424,7 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ## AppStuff
 
-[AppStuff][yu-appstuff5778]
-
-::: details 목록
-
-<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="ZQXzZ1hxQwo" title="This NEW SwiftUI Feature Is AMAZING | Navigation Stacks" />
-<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="-QT_bEx-4zg" title="Free iOS Development Course | Building a CryptoCurrency App with SwiftUI" />
-<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="6_Ex3h8SmYU" title="Full Custom Tab Bar With Pop Up Menu || SwiftUI 3.0 || iOS 15" />
-<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="Zme718yvRqw" title="Create A Search Bar With SwiftUI || Xcode 13 || Swift 5" />
-<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="Yev3CPNlg7o" title="Side Menu in iOS Like a Professional | Swift 4  (Pt. 3)" />
-<YoutubeItem channelName="AppStuff" channelId="appstuff5778" id="ZQXzZ1hxQwo" title="This NEW SwiftUI Feature Is AMAZING | Navigation Stacks" />
-
-:::
+<MyYouTubeItems jsonName="yu-appstuff5778" />
 
 <!-- AppStuff -->
 
@@ -651,6 +625,22 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 <MyYouTubeItems jsonName="yu-zhijunsheng" />
 
 <!-- 拇指 -->
+
+---
+
+## 개발하는 정대리
+
+<MyYouTubeItems jsonName="yu-dev_jeongdaeri" />
+
+<!-- 개발하는 정대리 -->
+
+---
+
+## Sketch2React
+
+<MyYouTubeItems jsonName="yu-Sketch2React" />
+
+<!-- Sketch2React -->
 
 ---
 

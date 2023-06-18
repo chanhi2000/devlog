@@ -1,4 +1,4 @@
----
+-json---
 lang: ko-KR
 title: ⚙settings.json
 description: 🆚VSCode > ⚙settings.json

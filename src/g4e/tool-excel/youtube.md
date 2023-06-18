@@ -107,6 +107,15 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Computergaga
+
+
+<MyYouTubeItems jsonName="yu-Computergaga" />
+
+<!-- Computergaga -->
+
+---
+
 
 ## Misc
 

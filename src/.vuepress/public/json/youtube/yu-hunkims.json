@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "hunkims",
+    "name": "Sung Kim",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMWueCGVjBE9K8nLnnbvGtPsx1x1RKzl8wg9I_EpOk=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Yzm4heDMa4Y",
+      "title": "[유료강좌] 모두를 위한 ChatGPT UP! AutoGPT 티저 2"
+    }, {
+      "id": "6B6kao8DBlo",
+      "title": "우리가 찾고 있는 사람 (SE개발자, AI개발자)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "sarimLife",
+    "name": "Sarim Khan",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPkEfoO1PMO90I8yuqlfr2LE8qJVaDNGLOCdc6hmQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SSdom6sjXFLivucE0o_4yZ4_lLufZTlx4oBTShVdn-uo9uTcsJHqAMHI55DzSuwo9uj44f_l=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "XmvkNIRdqBQ",
+      "title": "Android Testing(Espresso) Part 1"
+    }, {
+      "id": "toEiAPyuTvI",
+      "title": "Android CryptoCurrency App part 4 (Dagger,Kotlin,RxAndroid,MVVM)"
+    }
+  ]
+}
+

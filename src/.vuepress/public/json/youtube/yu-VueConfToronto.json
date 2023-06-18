@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "VueConfToronto",
+    "name": "VueConf Toronto",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNhsMTg-9I7zIww0ktF1jEaly6xWmAVYjh_8wC1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IpqjnBd24ZkzxSML3koA2MmHHdNK2bFui69V0p0zCxjuDIdYgtJAYVPewcw0NIsfzUe6Cx2vSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "RNjbAMMweNQ",
+      "title": "Give your Vue apps the power of AI by Chris Noring"
+    }
+  ]
+}
+

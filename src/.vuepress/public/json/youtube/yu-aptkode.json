@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "aptkode",
+    "name": "aptkode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPO2j2jQSfYR5uOFtko8-z2YGs9VXW6wE0KvRJ3=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "QPqUdM7d2Rs",
+      "title": "Spring Boot GraphQL Tutorial - Part 6 Add custom scalar type (LocalDate)"
+    }, {
+      "id": "_oHnv81lAVA",
+      "title": "Spring Boot GraphQL Tutorial - Part 5 Fragments"
+    }, {
+      "id": "6DejcJg-xEI",
+      "title": "Unit Testing Tutorial #7 - Mocking with Mockito"
+    }, {
+      "id": "TZxR1jeEJ9g",
+      "title": "Unit Testing Tutorial #6 - Allure Reporting with Junit5 and Jacoco"
+    }
+  ]
+}

@@ -1558,3 +1558,514 @@ fn sum(x: i32, y: i32) -> i32 {
 
 :::
 
+---
+
+## Functions
+
+#### 1. 🌟🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+fn main() {
+    // Don't modify the following two lines!
+    let (x, y) = (1, 2);
+    let s = sum(x, y);
+
+    assert_eq!(s, 3);
+
+    println!("Success!");
+}
+
+fn sum(x, y: i32) {
+    x + y;
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error: expected one of `:`, `@`, or `|`, found `,`
+    --> src/main.rs:12:9
+     |
+  12 | fn sum(x, y: i32) {
+     |         ^ expected one of `:`, `@`, or `|`
+     |
+     = note: anonymous parameters are removed in the 2018 edition (see RFC 1685)
+  help: if this is a `self` type, give it a parameter name
+     |
+  12 | fn sum(self: x, y: i32) {
+     |        +++++
+  help: if this is a parameter name, give it a type
+     |
+  12 | fn sum(x: TypeName, y: i32) {
+     |         ++++++++++
+  help: if this is a type, explicitly ignore the parameter name
+     |
+  12 | fn sum(_: x, y: i32) {
+     |        ++
+  
+  error[E0308]: mismatched types
+   --> src/main.rs:7:5
+    |
+  7 |     assert_eq!(s, 3);
+    |     ^^^^^^^^^^^^^^^^
+    |     |
+    |     expected `()`, found integer
+    |     expected because this is `()`
+    |
+    = note: this error originates in the macro `assert_eq` (in Nightly builds, run with -Z macro-backtrace for more info)
+  
+  For more information about this error, try `rustc --explain E0308`.
+  error: could not compile `playground` (bin "playground") due to 2 previous errors 
+*/
+```
+
+@tab Solution
+
+```rs
+fn main() {
+    // Don't modify the following two lines!
+    let (x, y) = (1, 2);
+    let s = sum(x, y);
+
+    assert_eq!(s, 3);
+
+    println!("Success!");
+}
+
+fn sum(x: i32, y: i32) -> i32 {
+    x + y
+}
+//
+//
+/*
+  Success!
+*/
+```
+
+:::
+
+#### 2. 🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+fn main() {
+   print();
+}
+
+// Replace i32 with another type
+fn print() -> i32 {
+   println!("Success!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0308]: mismatched types
+   --> src/main.rs:6:15
+    |
+  6 | fn print() -> i32 {
+    |    -----      ^^^ expected `i32`, found `()`
+    |    |
+    |    implicitly returns `()` as its body has no tail or `return` expression
+  
+  For more information about this error, try `rustc --explain E0308`.
+  error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution
+
+```rs
+fn main() {
+   print();
+}
+
+// replace i32 with another type
+fn print() -> () {
+    println!("hello,world");
+}
+//
+//
+/*
+  hello,world
+*/
+```
+
+:::
+
+#### 3. 🌟🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+// Solve it in two ways
+// DON'T let `println!` works
+fn main() {
+    never_return();
+
+    println!("Failed!");
+}
+
+fn never_return() -> ! {
+    // Implement this function, don't modify the fn signatures
+    
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  warning: unreachable statement
+   --> src/main.rs:6:5
+    |
+  4 |     never_return();
+    |     -------------- any code following this expression is unreachable
+  5 |
+  6 |     println!("Failed!");
+    |     ^^^^^^^^^^^^^^^^^^^ unreachable statement
+    |
+    = note: `#[warn(unreachable_code)]` on by default
+    = note: this warning originates in the macro `println` (in Nightly builds, run with -Z macro-backtrace for more info)
+  
+  error[E0308]: mismatched types
+   --> src/main.rs:9:22
+    |
+  9 | fn never_return() -> ! {
+    |    ------------      ^ expected `!`, found `()`
+    |    |
+    |    implicitly returns `()` as its body has no tail or `return` expression
+    |
+    = note:   expected type `!`
+            found unit type `()`
+  
+  For more information about this error, try `rustc --explain E0308`.
+  warning: `playground` (bin "playground") generated 1 warning
+  error: could not compile `playground` (bin "playground") due to previous error; 1 warning emitted
+ */
+```
+
+@tab Solution 1
+
+```rs
+// Solve it in two ways
+// DON'T let `println!` works
+fn main() {
+    never_return();
+}
+
+fn never_return() -> ! {
+    // implement this function, don't modify fn signatures
+    panic!("I return nothing!")
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.54s
+       Running `target/debug/playground`
+  thread 'main' panicked at 'I return nothing!', src/main.rs:8:5
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+*/
+```
+
+@tab Solution 2
+
+```rs
+// Solve it in two ways
+// DON'T let `println!` works
+fn main() {
+    never_return();
+}
+
+use std::thread;
+use std::time;
+
+fn never_return() -> ! {
+    // implement this function, don't modify fn signatures
+    loop {
+        println!("I return nothing");
+        // sleeping for 1 second to avoid exhausting the cpu resource
+        thread::sleep(time::Duration::from_secs(1))
+    }
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.53s
+       Running `target/debug/playground`
+  /playground/tools/entrypoint.sh: line 11:     8 Killed                  timeout --signal=KILL ${timeout} "$@"
+  I return nothing
+  I return nothing
+  I return nothing
+  I return nothing
+  I return nothing
+  I return nothing
+  I return nothing
+  I return nothing
+  I return nothing
+  I return nothing 
+*/
+```
+
+:::
+
+### Diverging functions
+
+Diverging functions never return to the caller, so they may be used in places where a value of any type is expected.
+
+#### 4. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+fn main() {
+    println!("Success!");
+}
+
+fn get_option(tp: u8) -> Option<i32> {
+    match tp {
+        1 => {
+            // TODO
+        }
+        _ => {
+            // TODO
+        }
+    };
+    
+    // Rather than returning a None, we use a diverging function instead
+    never_return_fn()
+}
+
+// IMPLEMENT this function in THREE ways
+fn never_return_fn() -> ! {
+    
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0308]: mismatched types
+    --> src/main.rs:21:25
+     |
+  21 | fn never_return_fn() -> ! {
+     |    ---------------      ^ expected `!`, found `()`
+     |    |
+     |    implicitly returns `()` as its body has no tail or `return` expression
+     |
+     = note:   expected type `!`
+             found unit type `()`
+  
+  For more information about this error, try `rustc --explain E0308`.
+  error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution 1
+
+```rs
+fn main() {
+    println!("Success!");
+}
+
+fn get_option(tp: u8) -> Option<i32> {
+    match tp {
+        1 => {
+            // TODO
+        }
+        _ => {
+            // TODO
+        }
+    };
+    
+    // Rather than returning a None, we use a diverging function instead
+    never_return_fn()
+}
+
+// IMPLEMENT this function in THREE ways
+fn never_return_fn() -> ! {
+    unimplemented!()
+}
+//
+//
+/* Success! */
+```
+
+@tab Solution 2
+
+```rs
+fn main() {
+    println!("Success!");
+}
+
+fn get_option(tp: u8) -> Option<i32> {
+    match tp {
+        1 => {
+            // TODO
+        }
+        _ => {
+            // TODO
+        }
+    };
+    
+    // Rather than returning a None, we use a diverging function instead
+    never_return_fn()
+}
+
+// IMPLEMENT this function in THREE ways
+fn never_return_fn() -> ! {
+    panic!()
+}
+//
+//
+/* Success! */
+```
+
+@tab Solution 3
+
+```rs
+fn main() {
+    println!("Success!");
+}
+
+fn get_option(tp: u8) -> Option<i32> {
+    match tp {
+        1 => {
+            // TODO
+        }
+        _ => {
+            // TODO
+        }
+    };
+    
+    // Rather than returning a None, we use a diverging function instead
+    never_return_fn()
+}
+
+// IMPLEMENT this function in THREE ways
+fn never_return_fn() -> ! {
+    todo!();
+}
+//
+//
+/* Success! */
+```
+
+@tab Solution 4
+
+```rs
+fn main() {
+    println!("Success!");
+}
+
+fn get_option(tp: u8) -> Option<i32> {
+    match tp {
+        1 => {
+            // TODO
+        }
+        _ => {
+            // TODO
+        }
+    };
+    
+    // Rather than returning a None, we use a diverging function instead
+    never_return_fn()
+}
+
+// IMPLEMENT this function in THREE ways
+fn never_return_fn() -> ! {
+    loop {
+        std::thread::sleep(std::time::Duration::from_secs(1))
+    }
+}
+//
+//
+/* Success! */
+```
+
+:::
+
+#### 5. 🌟🌟
+
+::: tabs
+
+@tab:active Problem
+
+```rs
+
+fn main() {
+    // FILL in the blank
+    let b = __;
+
+    let _v = match b {
+        true => 1,
+        // Diverging functions can also be used in match expression to replace a value of any value
+        false => {
+            println!("Success!");
+            panic!("we have no value for `false`, but we can panic");
+        }
+    };
+
+    println!("Exercise Failed if printing out this line!");
+}
+//
+//
+/*
+     Compiling playground v0.0.1 (/playground)
+  error[E0425]: cannot find value `__` in this scope
+   --> src/main.rs:4:13
+    |
+  4 |     let b = __;
+    |             ^^ not found in this scope
+  
+  For more information about this error, try `rustc --explain E0425`.
+  error: could not compile `playground` (bin "playground") due to previous error
+*/
+```
+
+@tab Solution
+
+```rs
+fn main() {
+    // FILL in the blank
+    let b = false;
+
+    let _v = match b {
+        true => 1,
+        // Diverging functions can also be used in match expression
+        false => {
+            println!("Success!");
+            panic!("we have no value for `false`, but we can panic")
+        }
+    };
+
+    println!("Exercise Failed if printing out this line!");
+}
+//
+//
+/*
+   Compiling playground v0.0.1 (/playground)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.53s
+     Running `target/debug/playground`
+thread 'main' panicked at 'we have no value for `false`, but we can panic', src/main.rs:10:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+Success!
+*/
+```
+
+:::
+
+::: note
+
+You can find the solutions [here (<FontIcon icon="iconfont icon-github"/>`sunface/rust-by-practice`)](https://github.com/sunface/rust-by-practice) (under the solutions path), but only use it when you need it
+
+:::

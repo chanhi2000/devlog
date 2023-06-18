@@ -814,5 +814,25 @@
     "desc": "Generate types and converters from JSON, Schema, and GraphQL",
     "topics": ["kotlin", "java", "graphql", "swift", "rust", "golang", "json", "typescript", "csharp", "cplusplus", "objective-c", "json-schema", "elm"],
     "officialSite": "https://app.quicktype.io"
+  }, {
+    "repo": "vercel-labs/ai",
+    "desc": "Build AI-powered applications with React, Svelte, and Vue",
+    "topics": ["react", "javascript", "typescript", "nextjs", "svelte", "artificial-intelligence", "openai", "language-model", "huggingface", "vercel", "llm"],
+    "officialSite": "https://sdk.vercel.ai/docs"
+  }, {
+    "repo": "joschan21/breadit",
+    "desc": "Modern Fullstack Reddit Clone in Next.js 13 & TypeScript",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PostHog/HouseWatch",
+    "desc": "Open source tool for monitoring and managing ClickHouse clusters",
+    "topics": ["react", "open-source", "django", "database", "clickhouse", "database-management", "mit-license"],
+    "officialSite": ""
+  }, {
+    "repo": "algolia/autocomplete",
+    "desc": "🔮 Fast and full-featured autocomplete library",
+    "topics": ["search", "alfred", "autocomplete", "query", "select", "algolia", "spotlight", "modal", "typeahead", "dropdown", "accessible", "suggestion", "combobox"],
+    "officialSite": "https://alg.li/autocomplete"
   }
 ]

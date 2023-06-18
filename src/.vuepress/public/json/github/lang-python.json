@@ -940,8 +940,8 @@
     "officialSite": ""
   }, {
     "repo": "open-mmlab/mmagic",
-    "desc": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox",
-    "topics": ["computer-vision", "deep-learning", "image-processing", "pytorch", "image-editing", "generative-adversarial-network", "image-generation", "super-resolution", "diffusion", "inpainting", "matting", "image-synthesis", "text2image", "video-super-resolution", "video-interpolation", "video-frame-interpolationllm"],
+    "desc": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",
+    "topics": ["computer-vision", "deep-learning", "image-processing", "pytorch", "image-editing", "generative-adversarial-network", "image-generation", "super-resolution", "diffusion", "inpainting", "matting", "image-synthesis", "text2image", "video-super-resolution", "video-interpolation", "video-frame-interpolation", "diffusion-models", "aigc", "generative-ai"], 
     "officialSite": "https://mmagic.readthedocs.io/en/latest"
   }, {
     "repo": "freedmand/semantra",
@@ -1525,7 +1525,7 @@
     "officialSite": ""
   }, {
     "repo": "h2oai/h2ogpt",
-    "desc": "Come join the movement to make the world's best open source GPT led by H2O.ai - 100% private chat and document search, no data leaks, Apache 2.0",
+    "desc": "Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf",
     "topics": ["llm", "chatgpt"],
     "officialSite": "http://h2o.ai"
   }, {
@@ -1692,6 +1692,21 @@
     "repo": "hiyouga/LLaMA-Efficient-Tuning",
     "desc": "Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)",
     "topics": ["bloom", "transformers", "llama", "quantization", "language-model", "fine-tuning", "peft", "pre-training", "llm", "rlhf", "qlora"],
+    "officialSite": ""
+  }, {
+    "repo": "OptimalScale/LMFlow",
+    "desc": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.",
+    "topics": ["deep-learning", "pytorch", "transformer", "pretrained-models", "language-model", "instruction-following", "chatgpt"],
+    "officialSite": "https://optimalscale.github.io/LMFlow"
+  }, {
+    "repo": "ajndkr/lanarky",
+    "desc": "Open-source framework to deploy LLM applications in production. Built on top of FastAPI",
+    "topics": ["python", "fastapi", "langchain", "llmops"],
+    "officialSite": "https://lanarky.readthedocs.io/en/latest"
+  }, {
+    "repo": "approximatelabs/datadm",
+    "desc": "DataDM is your private data assistant. Slide into your data's DMs",
+    "topics": [],
     "officialSite": ""
   }
 ]

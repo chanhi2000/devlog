@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "RabbitHoleSyndrome",
+    "name": "Rabbit Hole Syndrome",
+    "profile": "https://yt3.googleusercontent.com/CxykNzM4ceTt6zhW4_V-q13ZdKKepCLzJdiu6U8-rZDz6OzPhJQmfqIZCDIxeXdzCiNCNEz0pA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "Yhtjd7yGGGA",
+      "title": "ClippyGPT - How I Built Supabase’s OpenAI Doc Search (Embeddings)"
+    }
+  ]
+}
+

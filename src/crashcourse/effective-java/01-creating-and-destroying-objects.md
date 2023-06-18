@@ -771,3 +771,247 @@ public static void main(String[] args) {
 
 > Eliminate obsolete object references
 
+__스택이 커졌다가 줄어들면서__ 제거한 객체들을 GC가 처리하지 못하는 경우가 있다. 첨자 값이 `size`보다 작은 곳에 있는 요소들은 실제로 쓰이는 참조들이지만, 나머지 영역에 있는 참조들은 그렇지 않다. 문제는 남아있는 객체를 통해 참조되는 다른 객체들도 쓰레기 수집에서 제외된다.
+
+![하지만 GC 입장에서는 free object라는 사실을 알 도리가 없다.](https://1371820085-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Lej4tgjCgS0Wyj6JGe2%2F-Lf3aFiJ5iI8PxEdUh03%2F-Lf3aT-IMlC59PxB14Mg%2Fstack.PNG?generation=1558076584419169&alt=media)
+
+이런 문제는 간단히 고칠 수 있다. 쓸 일 없는 객체 참조는 무조건 `null`로 만드는 것이다.
+
+```java
+public Object pop() {
+    if(size ==0)
+        throw new EmptyStackException();
+    Object result = elements[--size];
+    elements[size] = null //만기 참조 제거
+    return result;
+}
+```
+
+__만기 참조를 제거하는 가장 좋은 방법은 해당 참조가 보관된 변수가 유효범위를 벗아나게 두는 것이다.__
+
+__캐시도 메모리 누수가 흔히 발생하는 장소다. 메모리 누수가 흔히 발견되는 또 한곳은 리스너 등의 역호출자(callback)다.__
+
+
+---
+
+## 규칙8 : 종료자 사용을 피하라
+
+> Avoid finalizers and cleaners
+
+종료자(`finalizer`) 사용은 예측할 수 없고 종종 위험하고 일반적으로 필요없다. 종료자를 사용하면 시스템 오류, 성능 문제, 이식성 문제가 발생할 수 있다.
+
+::: note Note
+
+As of Java 9, finalizers have been deprecated, but they are still being used by the Java libraries. The Java 9 replacement for finalizers is cleansers. Cleaners are less dangerous than finalizers, but still unpredictable, slow, and generally unnecessary.
+
+> 자바 9부터 finalizers는 deprecated됐지만, 여전히 자바 라이브러리들이 사용중이다. 자바 9에서는 finalizers 대신 cleaners로 대체됐다. cleaners는 finalizers보다는 덜 위험하지만, 여전히 예측할 수 없고 느리고 일반적으로 불필요하다.
+
+:::
+
+C++에서 소멸자는 객체에 배정된 자원을 반환하는 일반적인 수단이며, 생성자와 쌍으로 존재해야 한다. 하지만 자바에서는 GC가 알아서 반환하므로 프로그래머가 특별히 할 일이 없다. C++에서 소멸자는 메모리 이외의 자원을 반환하는 데도 사용되는데, 자바에서는 보통 try-with-resources 나 try-finally 블록이 그런 용도로 사용된다.
+
+종료자의 한 가지 단점은, 즉시 실행되리라는 보장이 전혀 없다는 것이다. 어떤 객체에 대한 모든 참조가 사라지고 나서 종료자가 실행되기까지는 긴 시간이 걸릴 수도 있다. 따라서 긴급한(time-critical) 작업을 종료자 안에서 처리하면 안 된다. 예를 들어 종료자 안에서 파일을 닫도록 하면 치명적이다. 파일 기술자(file descriptor)는 유한한 자원이기 때문이다. JVM은 종료자를 천천히 실행하므로 열린 상태의 파일이 많이 남아 있을 수 있다. 그런 상황에서 새로운 파일을 열려고 하면, 한 번에 열 수 있는 파일의 개수에 제한이 있으므로 오류가 나게 된다.
+
+그리고 finalizers 와 cleaners 실행 시점은 GC 알고리즘 구현에 따라 다양하다. 그래서 JVM에 따라 동작이 달라질 수 있기 때문에 이식성 문제가 발생할 수 있다. 또한 자바 언어 명세서에는 어떤 스레드가 종료자를 실행해야 하는지 아무 언급도 없으므로 이식성(portability)을 보장하면서 이 문제를 해결할 방법은 없다. 종료자 사용을 피하는 것만이 유일한 길이다.
+
+::: note Note
+
+There is no portable way to prevent this sort of problem other than to refrain from using finalizers. Cleaners are a bit better than finalizers in this regard because class authors have control over their own cleaner threads, but cleaners still run in the background, under the control of the garbage collector, so there can be no guarantee of prompt cleaning.
+
+> 자바 명세에서는 어느 스레드가 finalizers를 실행시키는걸 보장하지 않았다. 그래서 finalizers를 안쓰는 것 말고 portable하게 할 수 없다.Cleaners는 조금 나은데 class authors가 자신의 cleaner 스레드를 제어할 수 있기 때문이다. 하지만 cleaners는 여전히 백그라운드에서 gc 제어로 돌기 때문에 즉시 실행의 보장이 없다.
+>
+
+:::
+
+자바 명세는 종료자가 즉시 샐행되어야 한다는 문구도 없지만, 종료자가 결국에는 반드시 실행되어야 한다는 문구도 없다. 따라서 종료자가 실행되지 않은 객체가 남은 상태로 프로그램이 끝나게 되는 일도 충분히 가능하다. 그러므로 지속성이 보장되어야 하는 중요 상태 정보(critical persistent state)는 종료자로 갱신하면 안된다.
+
+::: note Note
+
+As a consequence, you should never depend on a finalizer or cleaner to update persistent state. for example, depending on a finalizer or cleaner to release a persistent lock on a shared resource such as a database is a good way to bring your entire distributed system to a grinding halt.
+
+> persistent state update는 finalizer 나 cleaner에 의존해서는 안된다. 분산시스템 전체를 먹통으로 만드는 가장 좋은 방법은, db같은 공유 자원에 대한 persistent lock을 종료자가 반환하게 구현하는 것이다.
+
+:::
+
+```java
+@Override
+protected void finalize() throws Throwable {
+	super.finalize();
+	// 여기서 persistent lock을 반환하게 구현
+}
+```
+
+System.gc나 `System.runFinalization` 같은 메서드에 마음이 흔들리면 곤란하다. 이런 메서드들은 종료자가 실행될 가능성을 높여주긴 하지만 보장하진 않는다. 종료자 실행을 보장하는 메서드들은 `System.runFinalizersOnExit`와 `Runtime.runFinalizersOnExit` 뿐인데, 이들 메서드는 심각한 결함을 갖고 있어서 이미 명세에서 폐기되었다.
+
+또다른 문제는 종료 처리 도중에 무점검 예외가 던져지면, 해당 예외는 무시되며 종료 과정은 중단된다. 이런 예외는 객체의 상태를 망가뜨릴 수 있다. 일반적으로는 무점검 예외가 발생하면 스레드는 종료되고 스택 추적 정보가 표시되지만 종료자 안에서는 아니다. 경고 문구조차 출력되지 않는다.
+
+```java
+@Override
+protected void finalize() throws Throwable {
+	super.finalize();
+	if ( ) {
+
+	} else {
+		throw new BongException();
+	}
+}
+```
+
+::: note Note
+
+Cleaners do not have this problem because a library using a cleaner has control over its thread. 
+
+> Cleaners는 이 문제를 갖고 있지 않은데 cleaner를 사용하는 라이브러리가 그 스레드를 제어하기 때문이다.
+
+:::
+
+그리고 종료자를 사용하면 성능이 심각하게 떨어진다. 필자의 컴퓨터에서 일반 AutoCloseable 객체를 만들고 try-with-resources를 이용해 close 시킬 때는 GC에 반환하는데 12ns가 걸렸다. finalizer를 사용하면 550ns로 증가했다. 왜냐하면 종료자가 GC 효율성을 억제시키기 때문이다.
+
+::: note Note 
+
+Cleaners are comparable in speed to finalizers if you use them to clean all instances of the class (about 500 ns per instance on my machine), but cleaners are much faster if you use them only as a safety net, as discussed below. Under these circumstances, creating, cleaning, and destroying an object takes about 66 ns on my machine, which means you pay a factor of five (not fifty) for the insurance of a safety net if you don't use it.
+
+> Cleaners는 모든 클래스 인스턴스를 clean한다고 했을 땐 약 500ns로 finalizer와 속도가 비슷하다. 하지만 안전망에서만 사용한다면 66ns로 훨씬 빨라진다.
+
+:::
+
+::: note Note
+
+Finalizers have a serious security problem: they open your class up to finalizer attacks.
+
+[Finalizer Attact에 대한 설명](https://yangbongsoo.gitbooks.io/study/content/finalizer-attack.html)
+
+이 책에서는 finalizer attack에 대한 설명이 자세하지 않아서 위에 따로 자세히 설명함.
+
+:::
+
+### (2rd edition 내용)
+
+그렇다면 파일이나 스레드처럼 명시적으로 반환하거나 삭제해야 하는 자원을 포함하는 객체의 클래스는 어떻게 작성해야 하는 것일까?
+
+그냥 명시적인 종료 메서드(termination method)를 하나 정의하고, 더 이상 필요하지 않는 객체라면 클라이언트가 해당 메서드를 호출하도록 하라. 한 가지 명심할 것은 종료 여부를 객체 안에 보관해야 한다는것. 즉, 유효하지 않은 객체임을 표시하는 `private` 필드를 하나 두고, 모든 메서드 맨 앞에 해당 필드를 검사하는 코드를 두어 이미 종료된 객체에 메서드를 호출하면 `IllegalStateException`이 던져지도록 해야 한다는 것이다. 이런 명시적 종료 메서드의 예로는 `OutputStream`이나 `InputStream`, `java.sql.Connection`에 정의된 close 메서드가 있다.
+
+이런 명시적 종료 메서드는 보통 `try`-`finally` 문과 함께 쓰인다. 객체 종료를 보장하기 위해서다. 명시적 종료 메서드를 `finally` 문 안에서 호출하도록 해 놓으면 객체 사용 과정에서 예외가 던져져도 종료 메서드가 실행되도록 만들 수 있다.
+
+종료자가 적합한 곳이 두 군데 정도 있는데 하나는, 명시적 종료 메서드 호출(`close`)을 잊은 경우에 대비하는 안전망으로서의 역할이다. 하지만 종료자는 그런 자원을 발견하게 될 경우 반드시 경고 메시지를 로그로 남겨야 한다.
+
+명시적 종료 메서드 패턴을 따르는 예로 들었던 네 가지 클래스들(`FileInputStream`, `FileOutputStream`, `Timer`, `Connection`)은 종료 메서드가 호출되지 않을 경우에 대비하여 종료자 안전망을 갖추고 있다. 불행히도 이들 종료자는 경고 로그를 남기지 않는다. API가 공개된 다음에는 그런 기능을 추가하는 것이 일반적으로 불가능한데, 이미 작성된 클라이언트 코드를 깨뜨리게 될 것이기 때문이다.
+
+두 번째 경우는 네이티브 피어(native peer)와 연결된 객체를 다룰 때다. 네이티브 피어는 일반 자바 객체가 네이티브 메서드를 통해 기능 수행을 위임하는 네이티브 객체를 말한다. 네이티브 피어는 일반 객체가 아니므로 gc가 알 수 없을 뿐더러 자바 측 피어 객체(java peer)가 반환될 때 같이 반환할 수도 없다. 네이티브 피어가 중요한 자원을 점유하고 있지 않다고 가정한다면, 종료자는 그런 객체의 반환에 걸맞다. 네이티브 피어가 즉시 종료되어야 하는 자원을 포함하는 경우에는, 앞서 설명한 대로 명시적인 종료 메서드를 클래스에 추가해야 한다.
+
+위와 같이 종료자를 사용해야 하는 드문 상황에 처했다면 super.finalize 호출은 잊지 말자. "종료자 연결(finalizer chaining)"이 자동으로 이루어지지 않는다. 만일 (`Object`가 아닌) 어떤 클래스가 종료자를 갖고 있고 하위 클래스가 해당 메서드를 재정의하는 경우, 하위 클래스의 종료자는 상위 클래스의 종료자를 명시적으로 호출해야 한다. 이때 하위 클래스의 상태는 try 블록 안에서 종료시켜야 하고, 상위 클래스 종료자는 finally 블록 안에서 호출해야 한다. 그래야 하위 클래스의 종료 과정에서 예외가 발생해도 상위 클래스 종료자는 반드시 호출되도록 할 수 있다.
+
+```java
+// 수동 종료자 연결
+@Override
+protected void finalize() throws Throwable {
+  try {
+    ... // 하위 클래스의 상태를 종료함
+  } finally {
+    super.finalize();
+  }
+}
+```
+
+하위 클래스에서 상위 클래스 종료자를 재정의하면서 상위 클래스 종료자 호출을 잊으면, 상위 클래스 종료자는 절대로 호출되지 않는다. 이런 멍청한 하위 클래스 덕에 생기는 문제를 방지하는 한 가지 방법은, 종료되어야 하는 모든 객체마다 여벌의 객체를 하나 더 만드는 것이다. 종료되어야 하는 객체의 클래스 안에 종료자를 정의하는 대신, 익명 클래스안에 종료자를 정의하는 것이다. 이 익명 클래스의 목적은 해당 클래스의 객체를 포함하는 객체를 종료시키는 것이다. 이 익명 클래스로 만든 객체는 종료 보호자라고 부르는데, 종료되어야 하는 객체 안에 하나씩 넣는다. 종료 보호자의 바깥 객체에는 종료 보호자를 참조하는 private 필드가 있다. 따라서 바깥 객체에 대한 모든 참조가 사라지는 순간, 종료 보호자의 종료자도 실행 가능한 상태가 된다. 이 보호자 객체의 종료자는 필요한 종료 작업을, 마치 바깥 객체의 종료자인 것처럼 수행한다.
+
+```java
+// 종료 보호자 숙어
+public class Foo {
+  // 이 객체는 바깥 객체(Foo 객체)를 종료시키는 역할만 한다.
+  private final Object finalizerGuardian = new Object() {
+    @Override
+    protected void finalize() throws Throwable {
+      ... // 바깥 Foo 객체를 종료시킴
+    }
+  };
+  ... // 이하 생략
+}
+```
+
+`public` 클래스 `Foo`에는 종료자가 없다는 것에 유의하자(`Object`에서 계승된, 무시해도 좋은 finalize 메서드 말곤 없다). 따라서 하위 클래스의 종료자가 상위 클래스의 종료자를 호출하건 말건 상관 없다. 이 기법은 종료자가 있는 비-final 클래스를 구현할 때 반드시 고려해야 한다.
+
+### 3rd edition 내용
+
+그렇다면 파일이나 스레드처럼 삭제해야 하는 자원을 포함하는 객체의 클래스는 어떻게 작성해야 하는 것일까? 클래스에 `AutoCloseable` 인터페이스를 구현해서 더 이상 필요없을 때 close() 메서드를 호출해라 (try-with-resources를 사용하면 exception 발생에도 종료가 보장된다).
+
+언급할 가치가 있는 한가지 세부 사항은 인스턴스가 닫혀 있는지 여부를 추적해야한다는 것이다. `close` 메서드는 개체가 더 이상 유효하지 않은 필드를 기록해야 하며 다른 메서드는 이 필드를 검사하여 이미 종료된 객체에 메서드를 호출하면 `IllegalStateException`을 발생시켜야 한다.
+
+종료자가 적합한 곳이 두 군데 정도 있는데 하나는 close 메서드 호출을 잊은 경우에 대비하는 안전망으로서의 역할이다. `cleaner`나 `finalizer`가 즉시 또는 전부 실행된다는 보장은 없지만, `close` 메서드를 잊었을 때 아무것도 안하는 것보다는(늦어지더라도) 있는게 낫다. `FileInputStream`, `FileOutputStream`, `ThreadPoolExecutor`, `java.sql.Connection` 자바 라이브러리들은 안전망으로써 `finalizer`를 구현하고 있다.
+
+두 번째 경우는 네이티브 피어(native peer)와 연결된 객체를 다룰 때다. 네이티브 피어는 일반 자바 객체가 네이티브 메서드를 통해 기능 수행을 위임하는 네이티브 객체를 말한다. 네이티브 피어는 일반 객체가 아니므로 gc가 알 수 없을 뿐더러 자바 측 피어 객체(java peer)가 반환될 때 같이 반환할 수도 없다. 네이티브 피어가 중요한 자원을 점유하고 있지 않다고 가정한다면, 종료자는 그런 객체의 반환에 걸맞다. 네이티브 피어가 즉시 종료되어야 하는 자원을 포함하는 경우에는, 앞서 설명한 대로 close 메서드를 클래스에 추가해야 한다.
+
+`Cleaners`는 사용하기가 약간 까다롭다. 아래 코드는 간단한 Room 클래스다(`room`이 반환되기 전에 `clean` 되야 한다고 가정하자). `Room` 클래스는 `AutoCloseable` 인터페이스를 구현했다. automatic cleaning safety net이 `cleaner`를 사용한다는 사실은 단지 구현 세부 사항이다. `finalizers`와 다르게 `cleaners`는 클래스의 public API를 오염시키지 않는다.
+
+```java
+// An autocloseable class using a cleaner as a safety net
+public class Room implements AutoCloseable {
+    private static final Cleaner cleaner = Cleaner.create();
+
+    // Resource that requires cleaning. Must not refer to Room!
+    private static class State implements Runnable {
+        int numJunkPiles; // Number of junk piles in this room
+
+        State(int numJunkPiles) {
+            this.numJunkPiles = numJunkPiles;
+        }
+
+        // Invoked by close method or cleaner
+        @Override
+        public void run() {
+            System.out.println("Cleaning room");
+            numJunkPiles = 0;
+        }
+    }
+
+    // The state of this room, shared with our cleanable
+    private final State state;
+
+    // Our cleanable. Cleans the room when it's eligible for gc
+    private final Cleaner.Cleanable cleanable;
+
+    public Room(int numJunkPiles) {
+        state = new State(numJunkPiles);
+        cleanable = cleaner.register(this, state);
+    }
+
+    @Override
+    public void close() {
+        cleanable.clean();
+    }
+}
+```
+
+중첩된 State `static` 클래스는 `clean`될 자원을 갖고 있다. 위의 경우 단순한 `numJunkPiles` 필드다(represents the amount of mess in the room). 좀 더 현실적이라면 native peer를 가리키는 포인터를 갖는 final long이 될것이다.
+
+State 클래스는 `Runnable` 인터페이스를 구현했고 `Room` 생성자에서 State 인스턴스를 등록할 때 `Cleanable`을 통해서 run 메서드가 한번만 호출된다. `run` 메서드 호출은 두가지 중 하나에 의해 트리거 된다. 보통 `Room`의 close 메서드에서 `Cleanable`의 `clean` 메서드를 호출할 때 트리거 된다. 만약 `Room` 인스턴스가 GC 자격을 얻을 때까지 `close` 메서드가 호출되지 않는다면, `Cleaner`는 `State`의 `run` 메서드를 호출할 것이다 (hopefully).
+
+`State` 인스턴스가 `Room` 인스턴스를 참조하지 않는것은 크리티컬하다. 만약 참조했다면, `Room` 인스턴스가 GC 자격을 얻는 것을 (그리고 자동으로 `clean`되는) 막아주는 순환성을 생성하게 된다. 그러므로 `State` 클래스는 반드시 중첩된 `staic` 클래스여야 한다. 왜냐하면 non static 중첩 클래스는 자신을 둘러싼 클래스 인스턴스 참조를 포함하기 때문이다. 
+
+it is similarly inadvisable to use a lambda beacause they can easily capture references to enclosing objects.
+
+Room cleaner는 오직 안전망으로 사용되야 한다. 만약 `Room` 객체 생성을 try-with-resource 블록으로 감쌌다면, automatic cleaning은 절대 필요하지 않다.
+
+```java
+public class Adult {
+    public static void main(String[] args) {
+        try (Room myRoom = new Room(7)) {
+            System.out.println("Goodbye");
+        }
+    }
+}
+```
+
+위와 같이 실행시키면 Cleaning room 메세지와 함께 `Goodbye`가 출력될 것이다. 그러나 아래와 같이 실행하면 어떻게 될까?
+
+```java
+public class Teenager {
+public static void main(String[] args) {
+        new Room(99);
+        System.out.println("Peace out");
+    }
+}
+```
+
+Cleaning room 메세지와 함께 `Peace out`이 출력되길 기대하겠지만, Cleaning room은 출력되지 않고 그냥 끝나버린다. 이게 전에 얘기했던 unpredictability이다. Cleaner 스펙은 `System.exit` 중 클리너의 동작은 구현에 따라 다르다고 말한다. cleaning action에 대한 보장이 없다. 필자가 System.gc()를 추가했더니 끝나기 전에 Cleaning room을 출력했다. 그러나 우리가 실행했을 때 그게 반드시 그렇게 된다는 보장이 없다.
+

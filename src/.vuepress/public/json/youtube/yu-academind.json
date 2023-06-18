@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "academind",
+    "name": "Academind",
+    "profile": "https://yt3.googleusercontent.com/z8m8Nc31z3PdVqbMPzS_MEApQKgXjP6faDEto0lIPXy9S50QSSMtCYHZ5V-opH73q9BAjxpb_g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j6vprjTgjWFBukddRjLZjf4Dz7aVMkNMwhdUTNYoCuYrRePBJZmOK53S7cd47IfwRtBylKs-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "i9uAgkKEuNU",
+      "title": "100 Days of Code - Web Development  Bootcamp - Full Course: Day 1 - 8"
+    }, {
+      "id": "t7DrJqcUviA",
+      "title": "Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial!"
+    }, {
+      "id": "Dorf8i6lCuk",
+      "title": "React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!"
+    }, {
+      "id": "BwuLxPH8IDs",
+      "title": "TypeScript Course for Beginners - Learn TypeScript from Scratch!"
+    }, {
+      "id": "x0uinJvhNxI",
+      "title": "Flutter Crash Course for Beginners - Build a Flutter App with Google's Flutter & Dart"
+    }, {
+      "id": "GLSG_Wh_YWc",
+      "title": "Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart"
+    }, {
+      "id": "_03VKmdrxV8",
+      "title": "Ionic + React - Tutorial for Beginners"
+    }, {
+      "id": "-MlNBTSg_Ww",
+      "title": "React.js Hooks Crash Course"
+    }, {
+      "id": "nteDXuqBfn0",
+      "title": "Nuxt.js - Introduction by Project"
+    }, {
+      "id": "V-xK3sbc7xI",
+      "title": "Vue 3 & A First Look at the Composition API"
+    }, {
+      "id": "F_oOtaxb0L8",
+      "title": "Learn Nest.js from Scratch by building an API"
+    }, {
+      "id": "nSmMkeNjjPg",
+      "title": "VueJS - CLI 3 Tutorial"
+    }, {
+      "id": "hOtZhNb4TKg",
+      "title": "JavaScript Security: Hide your Code?"
+    }
+  ]
+}
+

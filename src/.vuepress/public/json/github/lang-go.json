@@ -251,7 +251,7 @@
     "officialSite": ""
   }, {
     "repo": "go-skynet/LocalAI",
-    "desc": "🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",
+    "desc": "🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",
     "topics": ["ai", "llama", "alpaca", "vicuna", "gpt-neox", "llm", "rwkv"],
     "officialSite": ""
   }, {
@@ -459,5 +459,10 @@
     "desc": "Exporter for machine metrics",
     "topics": ["metrics", "prometheus", "system-information", "prometheus-exporter", "procfs", "node-metrics", "machine-metrics", "host-metrics", "system-metrics"],
     "officialSite": "https://prometheus.io"
-  }
+  }, {
+    "repo": "k1LoW/tbls",
+    "desc": "tbls is a CI-Friendly tool for document a database, written in Go.",
+    "topics": ["mysql", "markdown", "bigquery", "continuous-integration", "sqlite", "excel", "dynamodb", "postgresql", "documentation-tool", "snowflake", "plantuml", "mariadb", "redshift", "sqlserver", "database-schema", "mermaid", "hacktoberfest", "spanner", "er-diagram", "database-document"],
+    "officialSite": ""
+  } 
 ]

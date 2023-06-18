@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "GainJavaKnowledge",
+    "name": "Gain Java Knowledge",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNQhbRFflqh3r3ya3tP66JPUNc9paDvARP2ShCk=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "qUdi9N4cWDg",
+      "title": "Spring Boot Security"
+    }, {
+      "id": "cdd5WbNbk6E",
+      "title": "Microservices Architecture Tutorial For Beginners"
+    }, {
+      "id": "NLoBfTkLCv0",
+      "title": "Spring Security Using Facebook Authorization"
+    }, {
+      "id": "FHu--gGHaj4",
+      "title": "Deploy Spring Boot Application with Docker into AWS EC2"
+    }, {
+      "id": "hPOz8Fo-yrk",
+      "title": "Spring Security OAuth2"
+    }
+  ]
+}

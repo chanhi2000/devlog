@@ -84,4 +84,28 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Sung Kim
+
+<MyYouTubeItems jsonName="yu-hunkims" />
+
+<!-- Sung Kim -->
+
+---
+
+## RabbitHoleSyndrome
+
+<MyYouTubeItems jsonName="yu-RabbitHoleSyndrome" />
+
+<!-- RabbitHoleSyndrome -->
+
+---
+
+## That Project
+
+<MyYouTubeItems jsonName="yu-devopskorea4426" />
+
+<!-- That Project -->
+
+---
+
 <TagLinks />

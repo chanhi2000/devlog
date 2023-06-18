@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "in28minutes",
+    "name": "in28minutes - Cloud Made Easy",
+    "profile": "https://yt3.googleusercontent.com/33H4JE7AgaOmwKz5yisVt1mHN-n43vfb7CY3BqZvhb6vBXkk3_DCopAWMty6-fBKBKZR9y5FSA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "nlnDbre1wto",
+      "title": "Serverless Tutorial with AWS Lambda"
+    }, {
+      "id": "ueKwBqobijE",
+      "title": "Deploying Spring Boot Apps to AWS using Elastic Beanstalk - First 10 Steps"
+    }, {
+      "id": "SWXuXhZkNQc",
+      "title": "Java Full Stack Application With React And Spring Boot -  First 10 Steps"
+    }, {
+      "id": "PSP1-2cN7vM",
+      "title": "SPRING BOOT Tutorial For Beginners"
+    }, {
+      "id": "tXgNqObj2WY",
+      "title": "Master Spring Boot 3 & Spring Framework 6 with Java - New Course"
+    }
+  ]
+}
+

@@ -113,17 +113,17 @@ In the last few days we covered some of the fundamentals of iOS development, and
 
 - [Day 23][day-23] – Milestone: Projects 1-3
 
-### Days 24-31: Web views, user input, and Auto Layout
+### ✅Days 24-31: Web views, user input, and Auto Layout
 
 The next three projects we’re looking at will push your iOS skills further as you create some user interface in code, manage table views more carefully, and get some experience with closures.
 
-- [Day 24][day-24] – ✅Project 4, part one
-- [Day 25][day-25] – ✅Project 4, part two
-- [Day 26][day-26] – ✅Project 4, part three
-- [Day 27][day-27] – ✅Project 5, part one
-- [Day 28][day-28] – ✅Project 5, part two
-- [Day 29][day-29] – ✅Project 5, part three
-- [Day 30][day-30] – ✅Project 6, part one
+- [Day 24][day-24] – Project 4, part one
+- [Day 25][day-25] – Project 4, part two
+- [Day 26][day-26] – Project 4, part three
+- [Day 27][day-27] – Project 5, part one
+- [Day 28][day-28] – Project 5, part two
+- [Day 29][day-29] – Project 5, part three
+- [Day 30][day-30] – Project 6, part one
 - [Day 31][day-31] – Project 6, part two
 
 ### Day 32: Consolidation III
@@ -320,7 +320,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-28]: 28.md
 [day-29]: 29.md
 [day-30]: 30.md
-[day-31]: https://www.hackingwithswift.com/100/31
+[day-31]: 31.md
 [day-32]: https://www.hackingwithswift.com/100/32
 [day-33]: https://www.hackingwithswift.com/100/33
 [day-34]: https://www.hackingwithswift.com/100/34

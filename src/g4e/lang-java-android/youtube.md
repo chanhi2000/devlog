@@ -278,14 +278,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## Sarim Khan
 
-[Sarim Khan][yu-sarim-khan]
-
-::: details 목록
-
-<YoutubeItem channelName="Sarim Khan" channelId="sarimLife" id="XmvkNIRdqBQ" title="Android Testing\(Espresso\) Part 1" />
-<YoutubeItem channelName="Sarim Khan" channelId="sarimLife" id="toEiAPyuTvI" title="Android CryptoCurrency App part 4 \(Dagger,Kotlin,RxAndroid,MVVM\)" />
-
-:::
+<MyYouTubeItems jsonName="yu-sarimLife" />
 
 <!-- Sarim Khan -->
 
@@ -293,17 +286,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## The Android Programmer
 
-[The Android Programmer][yu-theandroidprogrammer]
-
-::: details 목록
-
-<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="HEH57g-UP4Q" title="Building a Full Stack Web Application with Kotlin and React - Part 1/2 - Backend + Frontend" />
-<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="yKiBFlfGR2Q" title="Android MVVM with CommandBus - Full Part 2 - Splash Activity and ViewModel" />
-<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="cLjBhAUl4zU" title="Android MVVM with CommandBus - Full Part 1 - BaseViewModel and BaseActivity" />
-<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="rU-dS0fwqY0" title="Data Structures &amp; Algorithms in Kotlin - Linked List push/append" />
-<YoutubeItem channelName="The Android Programmer" channelId="theandroidprogrammer" id="6hfREKcMx-E" title="The Complete Guide to Android Design Patterns - Part 2" />
-
-:::
+<MyYouTubeItems jsonName="yu-theandroidprogrammer" />
 
 <!-- The Android Programmer -->
 
@@ -311,17 +294,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## Android Heroes
 
-[Android Heroes][yu-android-heroes]
-
-::: details 목록
-
-<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="3xLr6Ck0O4w" title="Gerard Paligot &amp; Fanny Demey - Accessibility with Compose : Experimentation &amp; Live coding - DC 2022" />
-<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="VI7eWTfHw6I" title="Emanuele Papa - KMM survival guide: how to tackle everyday struggles between Kotlin and Swift" />
-<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="bR33g7XHIvU" title="Andrea Cioccarelli - Android App Security Fundamentals - droidcon Italy 2022" />
-<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="1st3mH8U-QE" title="Roberto Orgiu, Android Engineer, The New York Times: An Android Dev start to Kotlin Multiplatform" />
-<YoutubeItem channelName="Android Heroes" channelId="DroidconItaly" id="TWLkswxjSr0" title="Modularizing Android Applications - Marvin Ramin" />
-
-:::
+<MyYouTubeItems jsonName="yu-DroidconItaly" />
 
 <!-- Android Heroes -->
 

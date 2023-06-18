@@ -6,8 +6,12 @@
   },
   "videos": [
     {
+      "id": "i_mI-2MWsxk",
+      "title": "Learn How you can make adaptive UI for Different Mobile platforms in Flutter"
+    }, {
       "id": "-rTZA4QhXew",
       "title": "Create Soccer Hexagon in Flutter with Animation"
     }
   ]
 }
+

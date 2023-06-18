@@ -444,6 +444,14 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-chrome-browser/references.md'
       ]
     }, {
+      text: '🅽Notion',
+      collapsible: true,
+      children: [
+        '/g4e/tool-notion/README.md',
+        '/g4e/tool-notion/references.md',
+        '/g4e/tool-notion/youtube.md',
+      ]
+    }, {
       text: '🎼OpenAI',
       collapsible: true,
       children: [
@@ -451,7 +459,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/ai-openai/references.md',
         '/g4e/ai-openai/youtube.md',
       ]
-    },  
+    },
     //endregion
     //region: DB
     {
@@ -688,7 +696,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/27.md',
         '/crashcourse/paul-hudson-100-days-of-swift/28.md',
         '/crashcourse/paul-hudson-100-days-of-swift/29.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/30.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/30.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/31.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -713,7 +722,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/16.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/17.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/18.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/19.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/19.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/20.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

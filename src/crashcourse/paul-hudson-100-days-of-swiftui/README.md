@@ -296,7 +296,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-17]: 17.md
 [day-18]: 18.md
 [day-19]: 19.md
-[day-20]: https://www.hackingwithswift.com/100/swiftui/20
+[day-20]: 20.md
 [day-21]: https://www.hackingwithswift.com/100/swiftui/21
 [day-22]: https://www.hackingwithswift.com/100/swiftui/22
 [day-23]: https://www.hackingwithswift.com/100/swiftui/23

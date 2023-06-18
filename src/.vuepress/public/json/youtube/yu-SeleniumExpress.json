@@ -1,0 +1,71 @@
+{
+  "channel": {
+    "id": "SeleniumExpress",
+    "name": "Selenium Express",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNaNtE_wkcQnSzu_ux7Htxm4h8oxOdzJehijy0UaQ=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id":"uIGPX6fVDdw",
+      "title":"This is how MICROSERVICES works in real-time ! Spring Cloud Load Balancer + Eureka in action #8"
+    }, {
+      "id":"SEPmPXoCIXk",
+      "title":"Introducing Load Balancer in Microservices architecture | OpenFeign | Spring Boot | Spring Cloud #4"
+    }, {
+      "id":"a2EZxkwMrjU",
+      "title":"How Microservices communicate? API BEST practices | Java | Spring Boot | REST API #3"
+    }, {
+      "id":"RDUc4vVCWjI",
+      "title":"#5 Setting UP JDBC Authentication with Spring Security | Security Database Default Schema"
+    }, {
+      "id":"6jpHNlpqAKY",
+      "title":"#14 Spring MVC :Add CSS / JS / Images to your app | Static Resources |Java + spring Live project|P-1"
+    }, {
+      "id":"KUu7fPowotg",
+      "title":"#7 UI: Save Student | Spring crud example with MySQL | Java + spring Live project"
+    }, {
+      "id":"vmog6-p4PVs",
+      "title":"#5 Java Spring MySQL: Let’s Pull them together! Populate Data On UI | Java + spring Live project"
+    }, {
+      "id":"oJK_egOYA4s",
+      "title":"Spring Jdbc Batch update | Transaction management in spring [Basics] | @transactional"
+    }, {
+      "id":"b1hABx2Yoms",
+      "title":"Discover how a ResultSetExtractor works? RowMapper Vs ResultSetExtractor || Spring JDBC  | #4"
+    }, {
+      "id":"8IglnYEzVNM",
+      "title":"Develop your first Spring Jdbc app | Configure JdbcTemplate in 2 simple steps | Spring CRUD - Insert"
+    }, {
+      "id":"Suxp_fSMse4",
+      "title":"Spring MVC - Exception Handling | Top 3 Uses of @ControllerAdvice|@ExceptionHandler,@ModelAttribute"
+    }, {
+      "id":"cpFfzE9eGT0",
+      "title":"How exactly the Sessions and Cookies work? || Session Management || Spring MVC || @SessionAttributes"
+    }, {
+      "id":"ms4ywje7EYI",
+      "title":"[Spring MVC Advanced] Init Binder | Property Editor | Converter | Validator with Real-Time Scenario."
+    }, {
+      "id":"LxjxWE1StBk",
+      "title":"Spring MVC Java Based Configuration || Game plan || Understanding the wired part || Part 1"
+    }, {
+      "id":"Y26LegLMvpw",
+      "title":"Model View Controller: Spring MVC - Full-stack tech walkthrough || Model || Data Flow"
+    }, {
+      "id":"5_G1jIiK2hI",
+      "title":"Spring MVC  ViewResolver - Tech walkthrough || Create your first View using Spring Framework"
+    }, {
+      "id":"hMfAg5WO-mo",
+      "title":"UML basics - Every JAVA Developer Should know this ! | UML Relationship Diagram"
+    }, {
+      "id":"NgwDtAtE9AE",
+      "title":"Spring Boot Security Advanced  - Lockout Users [ EP - 1 ] |  Spring Security Successful login Events"
+    }, {
+      "id":"gD_slsA_VQc",
+      "title":"Java new features -  Static method inside interface ?  java 8 | java interview questions and answers"
+    }, {
+      "id":"bhDfsNA8SdA",
+      "title":"Spring framework 6 Foundation -  Spring Profiles and beyond | Spring Core concepts"
+    }
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "priyatalkstech6534",
+    "name": "Priya Talks Tech",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOiqYqVdjxnjTnPMwVImTKpsZdK7oxYe0N5oURi=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "JNpB3RVWtrY",
+      "title": "Spring Security JDBC Authentication with Password Encryption"
+    }, {
+      "id": "XO-OdIXNU_o",
+      "title": "Spring Security using Spring Data JPA and Spring Boot"
+    }
+  ]
+}
+

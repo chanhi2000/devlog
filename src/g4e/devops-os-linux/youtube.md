@@ -398,20 +398,17 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## NixieDoesLinux
+
+<MyYouTubeItems jsonName="yu-NixiePixel" />
+
+<!-- NixieDoesLinux -->
+
+---
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech
 [yu-tmanelshrghk]: https://www.youtube.com/@tmanelshrghk
 [yu-software-tool-time]: https://www.youtube.com/@SoftwareToolTime
 [yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93
-[yu-christianlempa]: https://www.youtube.com/@christianlempa
-[yu-talk-it]: https://www.youtube.com/@Talkitonair
-[yu-hnasr]: https://www.youtube.com/@hnasr
-[yu-fknight]: https://www.youtube.com/@fknight
-[yu-daniel-persson]: https://www.youtube.com/@DanielPersson
-[yu-learn-linux-tv]: https://www.youtube.com/@LearnLinuxTV
-[yu-sstectutorials]: https://www.youtube.com/@sstectutorials
-[yu-david-bombal]: https://www.youtube.com/@davidbombal
-[yu-tutoriaLinux]: https://www.youtube.com/@tutoriaLinux
-[yu-vmware-tanzu]: https://www.youtube.com/@VMwareTanzu
-[yu-brodie-robertson]: https://www.youtube.com/@BrodieRobertson

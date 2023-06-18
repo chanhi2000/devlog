@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "DipeshMalvia",
+    "name": "Dipesh Malvia",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM90eb75PwbDmK1c7bvJfpzajii2gkr5XmX9h7z5Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mrzchbYB80ADpHRXMDQcT3k-Bbp2vi4Udd_4PbfFxEybRBESAAbuPvw-dg1w1OQNl4mTxDKinQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "6CYCD7kE8Qs",
+      "title": "How to Improve Performance of React Apps with Code Splitting"
+    }, {
+      "id": "yz2PwipRqzw",
+      "title": "Learn JavaScript Nullish Coalescing Operator & Assignment in 10 Minutes | JavaScript Interview"
+    }, {
+      "id": "eDcxcTSQJaA",
+      "title": "Build React CRUD Admin panel with Ant Design | Refine Tutorial | React Admin Crash Course"
+    }, {
+      "id": "B8_cPhCM7HY",
+      "title": "Async Programming | Callbacks | Promises | Async Await | Node.js Tutorial for Beginners #4"
+    }, {
+      "id": "6CYCD7kE8Qs",
+      "title": "How to Improve Performance of React Apps with Code Splitting"
+    }
+  ]
+}
+
+

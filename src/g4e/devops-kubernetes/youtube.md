@@ -93,4 +93,19 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## kubucation
+
+<MyYouTubeItems jsonName="yu-kubucation" />
+
+<!-- kubucation -->
+
+---
+
+## DevOps Korea
+
+<!-- DevOps Korea -->
+
+---
+
+
 <TagLinks />

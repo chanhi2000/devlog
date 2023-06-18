@@ -1,0 +1,50 @@
+{
+  "channel": {
+    "id": "DataStaxDevs",
+    "name": "DataStax Developers",
+    "profile": "https://yt3.googleusercontent.com/RFguKDvROjyRQMZu0mFG4RuHS2qtF52CLBTjJVh_X_fk-mdILnNG0p0CTH06wQikjZWYplzh7A=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "bFEwttUD2aE",
+      "title": "Build a Netflix Clone with React and NoSQL Database"
+    }, {
+      "id": "WkdfILAx-4c",
+      "title": "Performance Tuning for Apache Pulsar Kubernetes Deployments"
+    }, {
+      "id": "_vP6LR_TdtM",
+      "title": "Build the reference Spring Pet Clinic application with Apache Cassandra™"
+    }, {
+      "id": "GddqfK8JubA",
+      "title": "Cloud-Native Workshop: Apache Cassandra™ meets Kubernetes"
+    }, {
+      "id": "bU5Br6UeTvw",
+      "title": "Build Microservices Apache Cassandra™ with Spring Data"
+    }, {
+      "id": "_FlZXkMwDak",
+      "title": "Building Reactive applications withSpring Framework [APAC]"
+    }, {
+      "id": "1aRbndIcXV4",
+      "title": "Build a Reactive app in Apache Cassandra™ with Spring Framework"
+    }, {
+      "id": "kRYMwOl6Uo4",
+      "title": "Build a REST API with Apache Cassandra™"
+    }, {
+      "id": "KAcZg6l9QTw",
+      "title": "Build Microservices in Apache Cassandra™ , with Java"
+    }, {
+      "id": "VW8C3nU0EzQ",
+      "title": "[Cassandra Workshop Series Week] - #1 Getting Started with Cassandra"
+    }, {
+      "id": "y4Gt_LQ8sdA",
+      "title": "#1 An Introduction to Apache Cassandra™"
+    }, {
+      "id": "=gKkLvZI21K",
+      "title": "LIVE CODING EXERCISE - Build a simple Java app w/ Astra DB"
+    }, {
+      "id": "DnzzapctOeQ",
+      "title": "Build a Netflix Clone with GraphQL and React!"
+    }
+  ]
+}
+

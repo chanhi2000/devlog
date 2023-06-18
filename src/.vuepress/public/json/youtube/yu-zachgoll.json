@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "zachgoll",
+    "name": "Zach Gollwitzer",
+    "profile": "https://yt3.googleusercontent.com/wsIl3grYT7kR8XsAtV7_6ILl8rEafNN5LRyrsRJJg65MhntzRM1o5taEzV_eub4B1LU_gj4W=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ntaxaSP8F9_YCnGfNJVV7W_VXdTmDXe2UnyLxaJxFHPyPPIp9vrjNcWjNUVgvqUjPUAO27fLi74=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "3r_HLmwjWos",
+      "title": "Learn CSS Flexbox in 3 Hours (with live coding + project)"
+    }, {
+      "id": "BIx3XdHA8-Y",
+      "title": "Learn CSS Grid in 4 Hours (with live coding + project)"
+    }, {
+      "id": "mpvzIlCKsjI",
+      "title": "Learn CSS Grid Tutorial (part 2/9)"
+    }, {
+      "id": "p03zmYL9Mtk",
+      "title": "Learn CSS Grid Tutorial (part 1/9)"
+    }, {
+      "id": "sqRk0Ly66Ps",
+      "title": "25 Beginner JavaScript Challenges in 2 hours #fullstackroadmap (Ep. 5.3)"
+    }, {
+      "id": "nS_MRqAeEbQ",
+      "title": "Hyperledger Composer Development Tutorial (1/5) - Setup (Mac OS X)"
+    }, {
+      "id": "onSGAEanl_Y",
+      "title": "Let's build a Vanilla HTML/CSS/JS Tic Tac Toe game!"
+    }
+  ]
+}
+

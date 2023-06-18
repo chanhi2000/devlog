@@ -86,14 +86,14 @@
     "officialSite": ""
   }, {
     "repo": "android/architecture-templates",
-    
+    "desc": "",
     "topics": [],
     "officialSite": ""
   }, {
     "repo": "tiann/KernelSU",
-    "desc": "A Kernel based root solution for Android GKI",
-    "topics": [],
-    "officialSite": ""
+    "desc": "A Kernel based root solution for Android",
+    "topics": ["android", "kernel", "root", "su", "kernelsu"],
+    "officialSite": "https://kernelsu.org"
   }, {
     "repo": "lsrom/webview-tester",
     "desc": "Test your web app in Android web view with visible console logs.",

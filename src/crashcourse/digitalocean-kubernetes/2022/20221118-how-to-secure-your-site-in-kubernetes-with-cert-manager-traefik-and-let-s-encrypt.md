@@ -122,9 +122,9 @@ echo -n 'dop_v1_4321...' | base64
 
 This output is your base-64 encoded access token. Copy this because you’ll be using it next.
 
-Using `nano` or your favorite editor, create and open a new file called `lets-encrypt-do-dns.yaml`:
+Using `nano` or your favorite editor, create and open a new file called <FontIcon icon="iconfont icon-file"/>`lets-encrypt-do-dns.yaml`:
 
-### `tutorial-cluster-config/ltutorial-cluster-config/lets-encrypt-do-dns.yaml`
+### <FontIcon icon="iconfont icon-file"/>`tutorial-cluster-config/ltutorial-cluster-config/lets-encrypt-do-dns.yaml`
 
 ```yml
 apiVersion: v1
@@ -147,7 +147,7 @@ kubectl apply -f lets-encrypt-do-dns.yaml
 # secret/lets-encrypt-do-dns created
 ```
 
-Now, create a new file named `lets-encrypt-issuer.yaml` to contain cert-manager’s `ClusterIssuer`, which you’ll use to issue your Let’s Encrypt certificates:
+Now, create a new file named <FontIcon icon="iconfont icon-file"/>`lets-encrypt-issuer.yaml` to contain cert-manager’s `ClusterIssuer`, which you’ll use to issue your Let’s Encrypt certificates:
 
 ```sh
 nano lets-encrypt-issuer.yaml
@@ -195,3 +195,118 @@ kubectl apply -f lets-encrypt-issuer.yaml
 ```
 
 In this section, you set up cert-manager and configured it to issue certificates from Let’s Encrypt. However, no certificates are being requested, nothing is serving your website, and you don’t have a website service running in your cluster. In the next section, you’ll set up Traefik as the [proxy](https://en.wikipedia.org/wiki/Reverse_proxy) between the outside world and your websites.
+
+---
+
+## Step 2 — Configuring the Let’s Encrypt Certificate Issuer
+
+Using a secure certificate for your website is a way to tell your users they can trust that the site they’re viewing came from your servers. To do this, the certificate authority must validate that you own the domain the certificate is for. Let’s Encrypt does this by using a standard called [ACME](https://datatracker.ietf.org/doc/html/rfc8555), which uses [challenges](https://letsencrypt.org/docs/challenge-types) to prove you own the domain you’re generating a certificate for. cert-manager supports both DNS and HTTP challenges for various providers, but in this tutorial, you’ll use the [DNS-01](https://letsencrypt.org/docs/challenge-types/#dns-01-challenge) challenge with DigitalOcean’s DNS provider.
+
+In this section, you will create a [`ClusterIssuer`](https://cert-manager.io/docs/concepts/issuer) for your cluster to tell cert-manager how to issue certificates from Let’s Encrypt and which credentials to use to complete the DNS challenges required by Let’s Encrypt.
+
+::: note Note
+
+This tutorial assumes you are using DigitalOcean for your DNS provider and configures the ClusterIssuer with that assumption. cert-manager supports a number of different cloud providers for both HTTP and DNS challenges, so the same concepts can be applied to them.
+
+For more information about other providers supported by cert-manager, see the [ACME Introduction](https://cert-manager.io/docs/configuration/acme) in cert-manager’s documentation.
+
+:::
+
+Before you create the `ClusterIssuer` for your cluster, you’ll want to create a directory for your cluster configuration. Use the `mkdir` command to create a directory and then cd to enter that directory:
+
+```sh
+mkdir tutorial-cluster-config
+cd tutorial-cluster-config
+```
+
+Once you’ve created your directory, you’ll need the [Personal Access Token](https://docs.digitalocean.com/reference/api/create-personal-access-token) for DNS access that you created as part of this tutorial’s prerequisites. A DigitalOcean access token will look similar to `dop_v1_4321...` with a long string of numbers.
+
+To store your access token as a secret in Kubernetes, you’ll need to [base-64](https://en.wikipedia.org/wiki/Base64) encode it. To do this, you can use the `echo` command to pipe your token to the `base64` command, replacing the highlighted portion with your access token
+
+This command will send your access token from `echo` to the `base64` command to encode it. The -n option ensures that a new line isn’t included at the end. Depending on your access token, you will receive output similar to the following:
+
+```sh
+echo -n 'dop_v1_4321...' | base64
+# ZG9wX3YxX3RoaXNpc25vdGFyZWFsdG9rZW5idXRpbXB1dHRpbmdhYnVuY2hvZnN0dWZmaW5oZXJlc29sZW5ndGhzbWF0Y2g=
+```
+
+This output is your base-64 encoded access token. Copy this because you’ll be using it next.
+
+Using `nano` or your favorite editor, create and open a new file called <FontIcon icon="iconfont icon-file"/>`lets-encrypt-do-dns.yaml`:
+
+```sh
+nano lets-encrypt-do-dns.yaml
+```
+
+Add the following code to create a Kubernetes `Secret`. Be sure to use your base-64 encoded access token in the `access-token` field:
+
+### <FontIcon icon="iconfont icon-file"/>`tutorial-cluster-config/ltutorial-cluster-config/lets-encrypt-do-dns.yaml`
+
+```yml
+apiVersion: v1
+kind: Secret
+metadata:
+  namespace: cert-manager
+  name: lets-encrypt-do-dns
+data:
+  access-token: ZG9wX3YxX3RoaXNpc25vdGFyZWFsdG9rZW5idXRpbXB1dHRpbmdhYnVuY2hvZnN0dWZmaW5oZXJlc29sZW5ndGhzbWF0Y2g
+```
+
+This `Secret` will be called `lets-encrypt-do-dns` and is stored in the namespace `cert-manager`. In the data section, you include the base-64 encoded `access-token` you created earlier. This Secret securely stores the access token you will reference when creating the Let’s Encrypt issuer.
+
+Next, save your file and apply it to the cluster using `kubectl apply`
+
+In the output, you’ll receive a message that your secret has been created in the cluster:
+
+```sh
+kubectl apply -f lets-encrypt-do-dns.yaml
+# secret/lets-encrypt-do-dns created
+```
+
+Now, create a new file named <FontIcon icon="iconfont icon-file"/>`lets-encrypt-issuer.yaml` to contain cert-manager’s `ClusterIssuer`, which you’ll use to issue your Let’s Encrypt certificates:
+
+Add the following lines, entering your email address in the `spec.acme.email` field (this is the address Let’s Encrypt will associate with the certificates it provides):
+
+### <FontIcon icon="iconfont icon-file"/>`tutorial-cluster-config/lets-encrypt-issuer.yaml`
+
+```yml
+apiVersion: cert-manager.io/v1
+kind: ClusterIssuer
+metadata:
+  name: letsencrypt-issuer
+spec:
+  acme:
+    email: your_email_address
+    server: https://acme-v02.api.letsencrypt.org/directory
+    privateKeySecretRef:
+      name: letsencrypt-issuer-account-key
+    solvers:
+      - selector: {}
+        dns01:
+          digitalocean:
+            tokenSecretRef:
+              name: lets-encrypt-do-dns
+              key: access-token
+```
+
+In the first two lines, the `apiVersion` and `kind` say this Kubernetes resource is a cert-manager `ClusterIssuer`. Next, you name it `letsencrypt-issuer`. In this case, you didn’t include a `namespace` field because the resource is a `Cluster` resource, meaning it applies to the entire cluster instead of a single namespace.
+
+Next, in the `spec` section, you define the `acme` challenge section to tell cert-manager this `ClusterIssuer` should use ACME to issue certificates using the `letsencrypt-issuer`. The `email` is your email address to which Let’s Encrypt will send any certificate-related communications, such as renewal reminders if there’s a problem and cert-manager doesn’t renew them in time. The `server` field specifies the URL to contact for requesting the ACME challenges and is set to the production Let’s Encrypt URL. After the `server` field, you include the `privateKeySecretRef` field with the name of the secret that cert-manager will use to store its generated private key for your cluster.
+
+One of the most important sections in the `spec.acme` section is the `solvers` section. In this section, you configure the ACME challenge solvers you want to use for the `letsencrypt-issuer`. In this case, you include a single solver, the `dns01` solver. The first part of the solver configuration, the `selector`, is configured to be `{}`, which means “anything.” If you wanted to use different solvers for other certificates in your cluster, you could set up additional selectors in the same issuer. You can find more information about how to do this in cert-manager’s [ACME Introduction](https://cert-manager.io/docs/configuration/acme).
+
+Inside the `dns01` section, you add a `digitalocean` section to say this issuer should use DigitalOcean as the DNS-01 solver. If you are using a different cloud provider, this is where you would [configure the other provider](https://cert-manager.io/docs/configuration/acme/dns01). Inside this section, you include a `tokenSecretRef` to reference the `lets-encrypt-do-dns` `access-token` field of the `Secret` you created earlier. cert-manager will use this access token when creating DNS records on your behalf.
+
+Once you’ve saved your issuer file, apply it to the cluster using `kubectl apply`
+
+The output will confirm that the `ClusterIssuer`, named `letsencrypt-issuer`, has been created:
+
+```sh
+kubectl apply -f lets-encrypt-issuer.yaml
+# clusterissuer.cert-manager.io/letsencrypt-issuer created
+```
+
+In this section, you set up cert-manager and configured it to issue certificates from Let’s Encrypt. However, no certificates are being requested, nothing is serving your website, and you don’t have a website service running in your cluster. In the next section, you’ll set up Traefik as the [proxy](https://en.wikipedia.org/wiki/Reverse_proxy) between the outside world and your websites.
+
+---
+

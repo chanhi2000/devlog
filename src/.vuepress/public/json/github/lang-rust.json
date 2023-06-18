@@ -404,6 +404,11 @@
     "desc": "The R9 operating system",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "terhechte/Ebou",
+    "desc": "A cross platform Mastodon Client written in Rust",
+    "topics": ["desktop-app", "windows", "macos", "linux", "rust", "app", "mastodon", "mastodon-client", "dioxus"],
+    "officialSite": "https://terhech.de/ebou"
   }
 ]
 

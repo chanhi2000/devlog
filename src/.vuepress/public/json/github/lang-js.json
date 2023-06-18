@@ -520,11 +520,6 @@
     "topics": [],
     "officialSite": "https://twemoji.twitter.com"
   }, {
-    "repo": "OptimalScale/LMFlow",
-    "desc": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。",
-    "topics": [],
-    "officialSite": "https://optimalscale.github.io/LMFlow"
-  }, {
     "repo": "serverless-stack/sst",
     "desc": "",
     "topics": [],
@@ -1173,6 +1168,16 @@
     "repo": "rvaidun/befake",
     "desc": "view bereals without posting your own :)",
     "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "NaiboWang/EasySpider",
+    "desc": "A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务",
+    "topics": ["visualization", "html", "crawler", "scraper", "gui", "web", "spider", "frontend", "parameters", "visual", "www", "batch", "data-collection", "batch-script", "batch-processing", "layman", "visulization", "visualprogramming", "code-free", "input-parameters"],
+    "officialSite": ""
+  }, {
+    "repo": "vernesong/OpenClash",
+    "desc": "A Clash Client For OpenWrt",
+    "topics": ["openwrt", "shadowsocks", "clash", "v2ray", "luci", "vmess", "snell", "openclash"],
     "officialSite": ""
   }
 ]

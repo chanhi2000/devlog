@@ -29,4 +29,20 @@ tags: ["youtube", "aws", "amazon", "amazon-web-service"]
 
 ---
 
+## Vercel
+
+<MyYouTubeItems jsonName="yu-VercelHQ" />
+
+<!-- Vercel -->
+
+---
+
+## Cloud With Raj
+
+<MyYouTubeItems jsonName="yu-cloudwithraj" />
+
+<!-- Cloud With Raj -->
+
+---
+
 <TagLinks />
