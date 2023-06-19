@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "Gitlab",
+    "name": "Gitlab",
+    "profile": "https://yt3.googleusercontent.com/R6P5skGdZJeM1bebvt3ILeU8k-9tiqE5T198RmBH8SoGXH2gk_Lk-45uZoq6X6pW4a4c9Sqn=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    {
+      "id": "JV9vzKzi8cw",
+      "title": "Portfolio Planning - Portfolio Management"
+    }, {
+      "id": "creDQTCEbZI",
+      "title": "GitLab Issues - Setting up your Organization with GitLab"
+    }, {
+      "id": "dD8c7WNcc6s",
+      "title": "How to Enable GitLab Pages for GitLab CE and EE"
+    }, {
+      "id": "JV9vzKzi8cw",
+      "title": "Portfolio Planning - Portfolio Management"
+    }
+  ]
+}
+

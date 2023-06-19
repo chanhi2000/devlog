@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "martinlasek",
+    "name": "Martin Lasek",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMMcLuzLLW0h0JyGs0f_ktJNpa2eQ7zZ6etUAlKJg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/41LCZBnUmhMKuOLCrZfDfyz1oTdG20cYzpg_EycwB45D62m1AcwWFhgzc283AUip12emfOaW0g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "K8xNcjF28NQ",
+      "title": "#27 - Ask User To Enable Notifications"
+    }, {
+      "id": "oIrp02p0U1Q",
+      "title": "DAY 021 | Sequence Equation | Swift"
+    }, {
+      "id": "OTvKl7AKd2g",
+      "title": "DAY 015 | Utopian Tree | Swift"
+    }, {
+      "id": "KD4OAjQJYPc",
+      "title": "SwiftUI - Understanding State"
+    }, {
+      "id": "51DF0UPoVUM",
+      "title": "SwiftUI - Dynamic List and Identifiable"
+    }, {
+      "id": "0jTyKu9DGm8",
+      "title": "Scraping Instagram using Swift"
+    }, {
+      "id": "YcOvkRWOKlU",
+      "title": "Implement An Own Leaf-Tag!"
+    }, {
+      "id": "s_YXOCvKy34",
+      "title": "Martin Lasek - Deploy a Vapor project to Digital Ocean"
+    }, {
+      "id": "-3O2Pzn4NUA",
+      "title": "How To Set Up A Vapor 3 Project (Linux)"
+    }
+  ]
+}
+
+

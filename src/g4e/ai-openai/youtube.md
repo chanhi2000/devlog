@@ -108,4 +108,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Developer Filip
+
+<MyYouTubeItems jsonName="yu-developerfilip" />
+
+<!-- Developer Filip -->
+
+---
+
 <TagLinks />

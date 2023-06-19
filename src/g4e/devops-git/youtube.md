@@ -32,14 +32,7 @@ tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "b
 
 ## GitKraken
 
-[GitKraken][yu-gitkraken]
-
-::: details 목록
-
-<YoutubeItem channelName="GitKraken" channelId="Gitkraken" id="s4BTvj1ZVLM" title="How to Use Git Worktree \| Checkout Multiple Git Branches at Once" />
-<YoutubeItem channelName="GitKraken" channelId="Gitkraken" id="kfLrSERFgQo" title="Advanced Git CLI Tips: Git Clean, Git Reflog, Git GC, Git Alias, &amp; More" />
-
-:::
+<MyYouTubeItems jsonName="yu-Gitkraken" />
 
 <!-- GitKraken -->
 
@@ -47,20 +40,18 @@ tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "b
 
 ## Atlassian
 
-[Atlassian][yu-atlassian]
-
-::: details 목록
-
-<YoutubeItem channelName="Atlassian" channelId="Atlassian" id="gLWSJXBbJuE" title="Atlassian Stash - Git workflows in the Enterprise" />
-
-:::
+<MyYouTubeItems jsonName="yu-Atlassian" />
 
 <!-- Atlassian -->
 
 ---
 
-<TagLinks />
+## The Modern Coder
 
-[yu-github]: https://www.youtube.com/@Github
-[yu-gitkraken]: https://www.youtube.com/@Gitkraken
-[yu-atlassian]: https://www.youtube.com/@Atlassian
+<MyYouTubeItems jsonName="yu-TheModernCoder" />
+
+<!-- The Modern Coder -->
+
+---
+
+<TagLinks />

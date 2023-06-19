@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "swiftuitutorial1",
+    "name": "SwiftUI Tutorial#1",
+    "profile": "https://yt3.googleusercontent.com/jH8z573PtkNT87hUlMjorHADswlNlu2WY_oED209S4NbbGn76Udj9jxeA79Zw131LjgUtBCHz5M=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f05GS1-4H5VmCYw6a9KyuzdQdyJJV11McNB6X86oq0okED07xuLP6KzylWjTxOtQmmKgbNxfLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "fsFTiMlLLsI",
+      "title": "SwiftUI: How to Animate Text Characters to Create a Sliding Effect"
+    }, {
+      "id": "XgoRxP-0Xeo",
+      "title": "SwiftUI: How to Use the Mask Modifier to Crop Views"
+    }, {
+      "id": "beNSUTiKjsM",
+      "title": "[Let ChatGPT Help You Build SwiftUI Interfaces and Animations Faster"
+    }, {
+      "id": "ZCuXQloK4gM",
+      "title": "[SwiftUI Tutorial #1: Understanding How Multi-line Text Field Works in iOS 16"
+    }, {
+      "id": "aab3WWZPKQY",
+      "title": "[How to Create Diffused Shadows in SwiftUI"
+    }, {
+      "id": "nkZF6vNhDQk",
+      "title": "[SwiftUI: Create the Calm iOS App's Breathe Animation"
+    }, {
+      "id": "1jJ196R1FFM",
+      "title": "[Build Google Pay iOS App UI Clone in SwiftUI"
+    }, {
+      "id": "-KPo_Hte1Dw",
+      "title": "[SwiftUI: The Easiest Way to Provide Support Dark Mode Support"
+    }, {
+      "id": "DZKc6Pm3VZs",
+      "title": "[SwiftUI: How To Create Menus and Submenus"
+    }, {
+      "id": "MTZw4w2RCow",
+      "title": "[SwiftUI - Clone the Play/Pause Spring Animation in Apple Music iOS"
+    }, {
+      "id": "af7JJ5_XcGE",
+      "title": "Swift Fundamentals: How to Make a Variable Changeable (Mutable) in SwiftUI"
+    }
+  ]
+}
+
+

@@ -697,7 +697,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/28.md',
         '/crashcourse/paul-hudson-100-days-of-swift/29.md',
         '/crashcourse/paul-hudson-100-days-of-swift/30.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/31.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/31.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/32.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -723,7 +724,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/17.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/18.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/19.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/20.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/20.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/21.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

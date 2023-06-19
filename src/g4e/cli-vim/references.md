@@ -13,4 +13,10 @@ tags: ["bash", "linux", "macos", "terminal", "vim", "neovim"]
 
 ---
 
+## nerdypepper
+
+- [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling)
+
+---
+
 <TagLinks />

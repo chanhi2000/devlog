@@ -1708,5 +1708,20 @@
     "desc": "DataDM is your private data assistant. Slide into your data's DMs",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "topics": ["python", "youtube-dl", "video-downloader", "youtube-downloader", "sponsorblock", "youtube-dlc", "sponskrub", "yt-dlp"],
+    "officialSite": "https://discord.gg/H5MNcFW63r"
+  }, {
+    "repo": "jncraton/languagemodels",
+    "desc": "Explore large language models on any computer with 512MB of RAM",
+    "topics": ["python", "nlp", "natural-language-processing", "large-language-models", "llm"],
+    "officialSite": ""
+  }, {
+    "repo": "damo-vilab/videocomposer",
+    "desc": "Official repo for VideoComposer: Compositional Video Synthesiswith with Motion Controllability",
+    "topics": ["video-generation", "diffusion-models", "video-synthesiswith"],
+    "officialSite": "https://videocomposer.github.io"
   }
 ]

@@ -834,5 +834,15 @@
     "desc": "🔮 Fast and full-featured autocomplete library",
     "topics": ["search", "alfred", "autocomplete", "query", "select", "algolia", "spotlight", "modal", "typeahead", "dropdown", "accessible", "suggestion", "combobox"],
     "officialSite": "https://alg.li/autocomplete"
+  }, {
+    "repo": "vercel-labs/ai-chatbot",
+    "desc": "A full-featured, hackable Next.js AI chatbot built by Vercel Labs",
+    "topics": ["ai", "nextjs", "vercel", "gpt-3", "shadcn-ui"],
+    "officialSite": "https://chat.vercel.ai"
+  }, {
+    "repo": "steven-tey/novel",
+    "desc": "Notion-style WYSIWYG editor with AI-powered autocompletions",
+    "topics": ["nextjs", "prosemirror", "openai", "notion", "ai-sdk", "tiptap", "vercel", "chatgpt"],
+    "officialSite": "https://novel.sh"
   }
 ]

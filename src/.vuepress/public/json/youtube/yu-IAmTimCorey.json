@@ -1,0 +1,93 @@
+{
+  "channel": {
+    "id": "IAmTimCorey",
+    "name": "IAmTimCorey",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO2KUwQBK3XUMpStv1eDaVeCYyRjHQ0v5ffFjU_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "vru0mjRYixI",
+      "title": "How To Learn Web Development In 2023"
+    }, {
+      "id": "hnjly9iBHso",
+      "title": "How To Learn C# in 2023 - Learning Path, Tips &amp; Tricks, and More"
+    }, {
+      "id": "bvPP8ElUVK0",
+      "title": "Blazor WebAssembly Configuration - A TimCo Retail Manager Video"
+    }, {
+      "id": "7Hj9ULsF9bY",
+      "title": "Blazor WebAssembly (and fixing DevOps bugs)- A TimCo Retail Manager Video"
+    }, {
+      "id": "XnNbizvb1uM",
+      "title": "How Do I Store Images In SQL? In Other Database Types?"
+    }, {
+      "id": "8E000zu8UhQ",
+      "title": "Picking a New MVVM Framework - Moving from Caliburn Micro"
+    }, {
+      "id": "8DNgdphLvag",
+      "title": "Intro to Blazor Server Side - Includes SQL Data Access and Best Practices"
+    }, {
+      "id": "69WBy4MHYUw",
+      "title": "Intro to MongoDB with C# - Learn what NoSQL is, why it is different than SQL and how to use it in C#"
+    }, {
+      "id": "_iryZxv8Rxw",
+      "title": "C# Logging with Serilog and Seq - Structured Logging Made Easy"
+    }, {
+      "id": "oXNslgIXIbQ",
+      "title": "Logging in .NET Core 3.0 and Beyond - Configuration, Setup, and More"
+    }, {
+      "id": "laPFq3Fhs8k",
+      "title": "WPF in C# with MVVM using Caliburn Micro"
+    }, {
+      "id": "uc3tC6_mEvk",
+      "title": ".NET Core 3.0 Desktop Apps - Creating and Publishing WPF and WinForm Apps in .NET Core"
+    }, {
+      "id": "9QU_y7-VsC8",
+      "title": "Upgrading to .NET Core: Adding JWT Authentication to Our API - A TimCo Retail Manager video"
+    }, {
+      "id": "68towqYcQlY",
+      "title": "Intro to ASP.NET Core Razor Pages - From Start to Published"
+    }, {
+      "id": "cwgck1k0YKU",
+      "title": "Using HttpClient in .NET Core to Connect to APIs in C#"
+    }, {
+      "id": "Ph9ReSnyGJc",
+      "title": "How To Create a Progressive Web App with Blazor WebAssembly"
+    }, {
+      "id": "1ck9LIBxO14",
+      "title": "Introduction to ASP.NET Core MVC in C# plus LOTS of Tips"
+    }, {
+      "id": "lEMpvVFIhgI",
+      "title": "Clearing the Bug Backlog in Azure DevOps - A TimCo Retail Manager Video"
+    }, {
+      "id": "LUkHRSu3sJU",
+      "title": "Continuous Deployment to Linux - A TimCo Retail Manager Video"
+    }, {
+      "id": "i1Kric5tqYk",
+      "title": "Top 5 Free Blazor Resources (plus a couple of extras)"
+    }, {
+      "id": "4t2TI8ImwMY",
+      "title": "MSIX Installer for Desktop Applications - Packaging WPF, WinForms, and UWP Applications"
+    }, {
+      "id": "qkJ9keBmQWo",
+      "title": "Entity Framework Best Practices - Should EFCore Be Your Data Access of Choice?"
+    }, {
+      "id": "P6AhsgvH3u8",
+      "title": "Upgrading to .NET Core: Front-End Class Library - A TimCo Retail Manager Video"
+    }, {
+      "id": "79UWvR734wI",
+      "title": ".NET Core vs .NET Framework - What's the difference?"
+    }, {
+      "id": "YxewTI4H2mY",
+      "title": "Creating a C# Application: From idea to finished product"
+    }, {
+      "id": "-9b8NRqjUFM",
+      "title": "Top 10 C# Best Practices (plus bonuses)"
+    }, {
+      "id": "xiy0VHUbZJI",
+      "title": "Blazor Code Separation - Easily Moving Code to a Code Behind File"
+    }
+  ]
+}
+

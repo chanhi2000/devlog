@@ -477,13 +477,27 @@ meta:
 
 ---
 
+## K T
+
+<MyYouTubeItems jsonName="yu-KT-cq2ph" />
+
+<!-- K T -->
+
+---
+
+## arahansa me
+
+<MyYouTubeItems jsonName="yu-arahansame9320" />
+
+<!-- arahansa me -->
+
+---
+
 ## Misc
 
 <YoutubeItem channelName="Amila Jayawardhana" channelId="AmilaJayawardhana" id="ckSw8x66FQg" title="Spring MVC Sinhalen: 02 - Basic Configurations" />
-<YoutubeItem channelName="arahansa me" channelId="arahansame9320" id="C0BQplG7Epo" title="스프링 시큐리티 따라해보기" />
 
 <!-- [Amila Jayawardhana][yu-amila-jayawardhana] -->
-<!-- [arahansa me][yu-arahansame9320] -->
 ---
 
 <TagLinks />

@@ -62,7 +62,7 @@ color: rgba(24, 188, 156, 0.2)
 - ✅[Subnetting][03c-subnetting]
 - ✅[Routing][03d-routing]
 - ✅[Network Config][03e-network-config]
-- [Troubleshooting][03f-troubleshooting]
+- ✅[Troubleshooting][03f-troubleshooting]
 - [DNS][03g-dns]
 
 [01a-getting-started]: 01-grasshopper/01a-getting-started.md

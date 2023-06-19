@@ -15,14 +15,7 @@ tags: ["education", "youtube", "windows"]
 
 ## Microsoft Research
 
-[![Microsoft Research](https://yt3.googleusercontent.com/wU0l8BUFlv5DtSfesfGhb3Cw1oLiCOd07at80o11ubYgocBr-0wwgtkSrruE3BggIbuqKWhSbw=s176-c-k-c0x00ffffff-no-rj =x150)][yu-microsoft-research]
-
-::: details 목록
-
-<YoutubeItem channelName="Microsoft Research" channelId="MicrosoftResearch" id="9WrVdluFfpo" title="Project Orleans and the distributed database future with Dr. Philip Bernstein | Podcast" />
-<YoutubeItem channelName="Microsoft Research" channelId="MicrosoftResearch" id="oZQ_c89HFU0" title="Installing Microsoft SEAL on Windows" />
-
-:::
+<MyYouTubeItems jsonName="yu-MicrosoftResearch" />
 
 <!-- Microsoft Research -->
 
@@ -69,13 +62,7 @@ tags: ["education", "youtube", "windows"]
 
 ## Geeks Tutorial
 
-[Geeks Tutorial][yu-geeks-tutorial]
-
-::: details 목록
-
-<YoutubeItem channelName="Geeks Tutorial" channelId="GeeksTutorial" id="ttiA0zRbzko" title="How to Speed Up Your Windows 10 Performance! \(New\)" />
-
-:::
+<MyYouTubeItems jsonName="yu-GeeksTutorial" />
 
 <!-- Geeks Tutorial -->
 
@@ -83,14 +70,7 @@ tags: ["education", "youtube", "windows"]
 
 ## Enderman
 
-[Enderman][yu-endermanch]
-
-::: details 목록
-
-<YoutubeItem channelName="Enderman" channelId="Endermanch" id="2bTXbujbsVk" title="Activating Windows with ChatGPT" /> 
-<YoutubeItem channelName="Enderman" channelId="Endermanch" id="t3mQYiF2rNw" title="Rectify11: Windows 11 done correctly" />
-
-:::
+<MyYouTubeItems jsonName="yu-Endermanch" />
 
 <!-- Enderman -->
 
@@ -98,14 +78,7 @@ tags: ["education", "youtube", "windows"]
 
 ## TechsavvyProductions
 
-[TechsavvyProductions][yu-techsavvy-productinos]
-
-::: details 목록
-
-<YoutubeItem channelName="TechsavvyProductions" channelId="TechsavvyProductions" id="s-ad0xVuKr4" title="OpenSSH for Windows: Install, Configure, Connect, and Troubleshoot" />
-<YoutubeItem channelName="TechsavvyProductions" channelId="TechsavvyProductions" id="HeHiDdO-guc" title="Windows Security: For Admins and Technical Support" />
-
-:::
+<MyYouTubeItems jsonName="yu-TechsavvyProductions" />
 
 <!-- TechsavvyProductions -->
 
@@ -119,11 +92,19 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## Battle(non)Sense
+
+<MyYouTubeItems jsonName="yu-BattleNonSense" />
+
+<!-- Battle(non)Sense -->
+
+---
+
 ## Misc
 
-<YoutubeItem channelName="Battle(non)sense" channelId="BattleNonSense" id="uCL-VUyw1A0" title="12 Programs I Install On Every Windows PC"/>
-
 <!-- [Battle(non)sense][yu-battle-non-sense] -->
+
+---
 
 <TagLinks />
 

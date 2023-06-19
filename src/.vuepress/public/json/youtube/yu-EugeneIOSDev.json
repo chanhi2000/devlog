@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "EugeneIOSDev",
+    "name": "Eugene Berezin",
+    "profile": "https://yt3.googleusercontent.com/wFCRzCoySUiH-svfzjfqPBJ-C6mBLX4-8BmySpioqhJKYjjwFUM2A-88lviUJ_Rt-tuiqWD4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/c1UCUUNZeQU4AhPCBUW1EX-Ys3DvjvgoqMKVDEMGiXoT_ILMSariruG3R6SR2kXDB2TSV4inXg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "dksonfFS7sE",
+      "title": "New AttributedString in SwiftUI and UIKit + Materials in SwiftUI."
+    }, {
+      "id": "-4Q8pnZ4u9Y",
+      "title": "How to use user defaults in SwiftUI. GitHub Jobs API with SwiftUI. Lesson 5"
+    }, {
+      "id": "4OZTIuyh4T0",
+      "title": "Building Job View. LazyVGrid, SwiftUI tutorial lesson # 4."
+    }, {
+      "id": "TleFC0F1nPY",
+      "title": "GitHub Jobs API course. UIStackView, TextView, UIButton. Lesson 3."
+    }, {
+      "id": "jcgoxAfb1bU",
+      "title": "New iOS course!"
+    }, {
+      "id": "AxvzCvT5PFk",
+      "title": "XCUITest Introduction"
+    }
+  ]
+}

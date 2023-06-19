@@ -61,6 +61,14 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 - [Top Resources for Bughunting: A Comprehensive Guide](https://hacklido.com/blog/410-top-resources-for-bughunting-a-comprehensive-guide)
 
+---
+
+## Keytos
+
+- [Microsoft Azure Vulnerability Still Affecting Thousands of New Subdomains Each Month](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
+
+---
+
 ## Misc
 
 - [0xNews - GRUB2 부트로더 BootLoader 에서 취약점 발견](https://project-openlab.blogspot.com/2020/07/0xnews-grub2-bootloader.html)

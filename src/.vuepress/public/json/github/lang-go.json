@@ -464,5 +464,10 @@
     "desc": "tbls is a CI-Friendly tool for document a database, written in Go.",
     "topics": ["mysql", "markdown", "bigquery", "continuous-integration", "sqlite", "excel", "dynamodb", "postgresql", "documentation-tool", "snowflake", "plantuml", "mariadb", "redshift", "sqlserver", "database-schema", "mermaid", "hacktoberfest", "spanner", "er-diagram", "database-document"],
     "officialSite": ""
-  } 
+  }, {
+    "repo": "nicewook/gopt",
+    "desc": "Using GPT 3.5 in terminal",
+    "topics": [],
+    "officialSite": ""
+  }
 ]

@@ -519,5 +519,15 @@
     "desc": "A curated list of awesome Swift Macros",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "topics": ["computer-science", "curriculum", "courses", "awesome-list"],
+    "officialSite": ""
+  }, {
+    "repo": "eugeneyan/open-llms",
+    "desc": "📋 A list of open LLMs available for commercial use.",
+    "topics": ["commercial", "large-language-models", "llm", "llms"],
+    "officialSite": ""
   }
 ]

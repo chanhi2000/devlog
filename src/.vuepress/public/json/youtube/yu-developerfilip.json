@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "developerfilip",
+    "name": "Developer Filip",
+    "profile": "https://yt3.googleusercontent.com/kM5l_GTW-Gd-Tr6XpNBgQWfCZMAPfLqbPe6Q55C4xRV6KlA2u5I7Q9-mFCcGhZek_21JnQJBDg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SJ-3yQ_1XBZX475IyDhItiUzfkZQv0M_82tTS_ypenrRsLr-4nSufJkS2hVp_tZLZaS9aGsl_w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "lWG5qCDG3pQ", 
+      "title": "Testing ChatGPT art coding skills..."
+    }, {
+      "id": "BZqzhmlTkAc", 
+      "title": "Web Developer Reacts to Incredible Personal Websites // Personal Portfolios"
+    }
+  ]
+}

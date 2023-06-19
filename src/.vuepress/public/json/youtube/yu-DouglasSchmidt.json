@@ -1,0 +1,154 @@
+{
+  "channel": {
+    "id": "DouglasSchmidt",
+    "name": "Douglas Schmidt",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNwYjtDh8_I5YKnFTYjn4JQRVjUnH34ICS3SSlw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ej-truz7tgpNU-Qqq1WzsIaCGiXvVi71MmkeZB8J9zNSJrCY-0LbyZPnev_DokVSEEYu1TAvpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "ZjqqFZgDHug",
+      "title": "Applying Java Functional Programming Features to the ThreadJoinTest Case Study"
+    }, {
+      "id": "Srg46cCRSFk",
+      "title": "Applying Java Functional Programming Features: the ThreadJoinTest Case Study"
+    }, {
+      "id": "Chs1gVl5bOA",
+      "title": "Walkthrough of Assignment 1B for CS 5254 in Summer 2023"
+    }, {
+      "id": "WOgndOUl780",
+      "title": "Introduction to Threads &amp; Java Thread Objects"
+    }, {
+      "id": "EELPbJbOe4Q",
+      "title": "Java Platform Threads vs. Virtual Threads (Part 1)"
+    }, {
+      "id": "5O3VBA9_9rA",
+      "title": "Java Platform Threads vs. Virtual Threads (Part 2)"
+    }, {
+      "id": "zTB1O9wL8Go",
+      "title": "The Java Predicate Functional Interface: Case Study ex8"
+    }, {
+      "id": "XAaoAb79Wkk",
+      "title": "Overview of Java Lambda Expressions"
+    }, {
+      "id": "Ce09jblkpco",
+      "title": "Applying Java Lambda Expressions – Case Study ex4"
+    }, {
+      "id": "Rr5QpCZCDQA",
+      "title": "Using Java Lambda Expressions Correctly &amp; Efficiently"
+    }, {
+      "id": "hIK_E4PaSec",
+      "title": "Benefits of Java Lambda Expressions"
+    }, {
+      "id": "vtIeRMIkFgc",
+      "title": "Implementing Closures with Java Lambda Expressions"
+    }, {
+      "id": "F4HFVHBXeu8",
+      "title": "Overview of Java Method References"
+    }, {
+      "id": "MKFUEdVIZ4w",
+      "title": "Applying Java Method References"
+    }, {
+      "id": "MU00WZIl4Ws",
+      "title": "Java Functional Interfaces: Overview"
+    }, {
+      "id": "KTkQSJm1rR8",
+      "title": "The Java Predicate Functional Interface"
+    }, {
+      "id": "FEyOHhAkTE0",
+      "title": "The Java Predicate Functional Interface: Case Study ex8"
+    }, {
+      "id": "qatIWfdeQ9E",
+      "title": "Using ChatGPT to Obtain Shakespeare Quotes in a Java Spring Microservice Case Study App"
+    }, {
+      "id": "HG7Wd0TMF4o",
+      "title": "Common Java Streams Factory Methods"
+    }, {
+      "id": "qBRNPTivuc0",
+      "title": "Walkthrough of Assignment 1B"
+    }, {
+      "id": "jcrmnCLT9o4",
+      "title": "C++ STL Negators"
+    }, {
+      "id": "z8mEBFo2Tog",
+      "title": "Common Java Streams Mistakes (part 4): Sharing Unsynchronized Mutable State in Java Parallel Streams"
+    }, {
+      "id": "5x-_M0KlW-Y",
+      "title": "Implementing a 'Timed Memoizer' with Java `ScheduledExecutorService`, `ConcurrentHashMap`, &amp; `AtomicLong`"
+    }, {
+      "id": "llUIaOYBNRI",
+      "title": "Applying Advanced Completable Futures Features"
+    }, {
+      "id": "v_TIweF3jpc",
+      "title": "Creating and Processing a Large Composite Object with Project Reactor"
+    }, {
+      "id": "oXL2PynsIqw",
+      "title": "Evaluating the Performance and Productivity of Java Fork-Join Pool Programming Models."
+    }, {
+      "id": "JeFxk-Rm8Zc",
+      "title": "Creating and Processing Large Composite Objects with Java Sequential and Parallel Streams"
+    }, {
+      "id": "VX0zVCOslZo",
+      "title": "Microsoft Excel Tutorial - Multiple Criteria Statistical Functions in Excel"
+    }, {
+      "id": "IgAQjlRhFWs",
+      "title": "Web Crawler Via RxJava (Compared with the Completable Futures Framework)"
+    }, {
+      "id": "par5pEuq850",
+      "title": "Web-crawling Image Counter with Java Completable Futures"
+    }, {
+      "id": "1j13PxBe8zg",
+      "title": "Java Semaphore: Mediating Access to Shared Resources"
+    }, {
+      "id": "EJaVFako7Ec",
+      "title": "Java SearchWithParallelStreams Example: Evaluating Pros and Cons"
+    }, {
+      "id": "PVDH6eQHAqc",
+      "title": "Walkthrough of Assignment 2b Frequently Made Mistakes"
+    }, {
+      "id": "WUpQ0V7D4bU",
+      "title": "Using ChatGPT to Generate a Retrofit API Client Automatically"
+    }, {
+      "id": "WmRqR1WNhqU",
+      "title": "The QuoteServices App Case Study: Structure &amp; Functionality of Client Classes"
+    }, {
+      "id": "KJunLR5O2io",
+      "title": "Implementing the RSocket ZippyQuotes Case Study App Client"
+    }, {
+      "id": "AN-F9LaTcBU",
+      "title": "Walkthrough for Assignment 2C for Spring 2023"
+    }, {
+      "id": "fRN8N7XSlTc",
+      "title": "The LockManager App Case Study: Client Structure &amp; Functionality"
+    }, {
+      "id": "IsAS18LIqDY",
+      "title": "Overview of Spring WebFlux"
+    }, {
+      "id": "8nrnpEtIM-4",
+      "title": "Comparing &amp; Contrasting Spring WebMVC &amp; WebFlux"
+    }, {
+      "id": "4eB0gBtAGLU",
+      "title": "The LockManager App Case Study: Overview"
+    }, {
+      "id": "vdhH8WEWUNo",
+      "title": "The LockManager App Case Study: Server Structure &amp; Functionality"
+    }, {
+      "id": "zaaiXGzhxRQ",
+      "title": "The LockManager App Case Study: Implementing the Server Components"
+    }, {
+      "id": "TGSotYpdtcU",
+      "title": "The LockManager App Case Study: Client Structure &amp; Functionality"
+    }, {
+      "id": "ntlCi1s7yjk",
+      "title": "The LockManager App Case Study: Test Driver Implementation"
+    }, {
+      "id": "P-DgRlCddbE",
+      "title": "Implementing the AsyncTaskBarrier Framework Using Project Reactor (Part 1)"
+    }, {
+      "id": "HxG6gZ7qhSs",
+      "title": "Implementing the AsyncTaskBarrier Framework Using Project Reactor (Part 2)"
+    }
+  ]
+}
+
+

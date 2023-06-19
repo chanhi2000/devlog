@@ -330,7 +330,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Adam Wathan
 
-<MyYouTubeItems jsonName="yu-channelId" />
+<MyYouTubeItems jsonName="yu-AdamWathan" />
 
 <!-- Adam Wathan -->
 
@@ -411,13 +411,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Tricknology
 
-[Tricknology][yu-tricknology]
-
-::: details 목록
-
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="kKV6AXVcVnI" title="Banco de dados Offline com RealmDB no React Native \| Decode #031" />
-<YoutubeItem channelName="Tricknology" channelId="Tricknology" id="9TXmvypsCeY" title="Jest with React and VSCode - The Best combination of Setup & Extensions" />
-
+<MyYouTubeItems jsonName="yu-Tricknology" />
 :::
 
 <!-- Tricknology -->
@@ -426,56 +420,39 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Traversy Media
 
-[Traversy Media][yu-traversy-media]
-
-::: details 목록
-
-<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="NHHhiqwcfRM" title="Deno Crash Course" />
-<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="-6OAHsde15E" title="Node.js CLI For Cryptocurrency Prices" />
-<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="9FQrFah9rnc" title="Node.js GeoJSON API & App | Store Locator" />
-<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="YK-GurROGIg" title="Documenting Your JavaScript | JSDoc Crash Course" />
-<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="Xa5EU-qAv-I" title="VSCode Keyboard Shortcuts For Productivity" />
-<YoutubeItem channelName="Traversy Media" channelId="TraversyMedia" id="wqhNoDE6pb4" title="NestJS Crash Course" />
-
-:::
+<MyYouTubeItems jsonName="yu-TraversyMedia" />
 
 <!-- Traversy Media -->
 
 ---
 
+## LearnCode.academy
+
+<MyYouTubeItems jsonName="yu-learncodeacademy" />
+
+<!-- LearnCode.academy -->
+
+---
+
 ## CodingTheSmartWay.com
 
-[CodingTheSmartWay.com][yu-coding-the-smart-way]
-
-::: details 목록
-
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="ifY6GfFhzbk" title="Full Stack Ethereum Development - #3 - Installing And Setting Up MetaMask" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="sRaBKY_dDGg" title="Building A Blog With Eleventy And Netlify CMS - Part 3: Managing Blog Content With Netlify CMS" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="Cxbvi4mL8nE" title="Meteor & Svelte - Building Full-Stack Reactive Web Applications - 06: User Accounts" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="j_5-LISy9Qg" title="Tailwind CSS For Absolute Beginners" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="4RkMAt8-u8g" title="NestJS For Absolute Beginners" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="G24n-WERqsM" title="Apollo Server 2 Introduction" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="hS-czwYyTpo" title="Docker - Beginner's Guide - Getting Started With Containerization - Part 2: Services" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="MnDT1aB39hQ" title="Docker - Beginner's Guide - Getting Started With Containerization - Part 1: Images & Containers" />
-<YoutubeItem channelName="CodingTheSmartWay.com" channelId="codingthesmartway" id="i-Jk0Qfh-gk" title="Vue.js 2 State Management With Vuex - Introduction" />
-
-:::
+<MyYouTubeItems jsonName="yu-codingthesmartway" />
 
 <!-- CodingTheSmartWay.com -->
 
 ---
 
+## Andre Madarang
+
+<MyYouTubeItems jsonName="yu-drehimself" />
+
+<!-- Andre Madarang -->
+
+---
+
 ## AsmrProg
 
-[AsmrProg][yu-asmr-prog]
-
-::: details 목록
-
-<YoutubeItem channelName="AsmrProg" channelId="AsmrProg" id="825u2Puaej0" title="ASMR Programming - JavaScript Password Generator - No Talking" />
-<YoutubeItem channelName="AsmrProg" channelId="AsmrProg" id="gRyvG7PZ4m0" title="ASMR Programming - JavaScript Text Editor - No Talking" />
-<YoutubeItem channelName="AsmrProg" channelId="AsmrProg" id="W5LPcpIRLzs" title="ASMR Programming - Coding IOS \(IPhone\) Dynamic Music - No Talking" />
-
-:::
+<MyYouTubeItems jsonName="yu-AsmrProg" />
 
 <!-- AsmrProg -->
 
@@ -483,14 +460,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Gatsby
 
-[Gatsby][yu-gatsby-js]
-
-::: details 목록
-
-<YoutubeItem channelName="Gatsby" channelId="Gatsbyjs" id="3jrzv7l9vsI" title="Livestream | Gatsby Web Creators - (Re)Intro to JavaScript, Making Art" />
-<YoutubeItem channelName="Gatsby" channelId="Gatsbyjs" id="BrBK4yxodXA" title="Beyond Static: Building Dynamic Apps with Gatsby [Webinar]" />
-
-:::
+<MyYouTubeItems jsonName="yu-Gatsbyjs" />
 
 <!-- Gatsby -->
 
@@ -514,14 +484,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Ionic
 
-[Ionic][yu-ionic]
-
-::: details 목록
-
-<YoutubeItem channelName="Ionic" channelId="IonicFramework" id="m_P1Q0vhOHs" title="Push Notifications with Ionic4 and Firebase Cloud Messaging" />
-<YoutubeItem channelName="Ionic" channelId="IonicFramework" id="cjikyeo9bJc" title="Reimagining Cordova: Building Native Progressive Web Apps with Capacitor" />
-
-:::
+<MyYouTubeItems jsonName="yu-IonicFramework" />
 
 <!-- Ionic -->
 
@@ -529,19 +492,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Red Stapler
 
-[Red Stapler][yu-red-stapler]
-
-::: details 목록
-
-<YoutubeItem channelName="Red Stapler" channelId="RedStapler" id="2wucLthrUjw" title="7 Trending JavaScript Libraries 2021"/>
-<YoutubeItem channelName="Red Stapler" channelId="RedStapler" id="mAKYW_1f-dw" title="Anime.js Tutorial - Part 2: SVG Path, Morphing, Line Drawing"/>
-<YoutubeItem channelName="Red Stapler" channelId="RedStapler" id="Bed1z7f1EI4" title="3D Space Warp JavaScript Effect - Three.js Tutorial"/>
-<YoutubeItem channelName="Red Stapler" channelId="RedStapler" id="5f5wwQb22tE" title="Nebula Cloud Particles Effect Three.js Tutorial"/>
-<YoutubeItem channelName="Red Stapler" channelId="RedStapler" id="1bkibGIG8i0" title="Realistic Rain Effect Three.js Tutorial"/>
-<YoutubeItem channelName="Red Stapler" channelId="RedStapler" id="h2eHgh0tfiw" title="Minimalist CSS Image Carousel Tutorial"/>
-<YoutubeItem channelName="Red Stapler" channelId="RedStapler" id="h2eHgh0tfiw" title="Minimalist CSS Image Carousel Tutorial"/>
-
-:::
+<MyYouTubeItems jsonName="yu-RedStapler_channel" />
 
 <!-- Red Stapler -->
 
@@ -549,14 +500,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## dotconferences
 
-[dotconferences][yu-dotconferences]
-
-::: details 목록
-
-<YoutubeItem channelName="dotconferences" channelId="dotconferences" id="bOdfo5SmQc8" title="dotJS 2019 - Evan You - State of Components" />
-<YoutubeItem channelName="dotconferences" channelId="dotconferences" id="BiDBclcU_I4" title="dotJS 2019 - Sven Sauleau - More WebAssembly in your JavaScript" />
-
-:::
+<MyYouTubeItems jsonName="yu-dotconferences" />
 
 <!-- dotconferences -->
 
@@ -564,13 +508,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## JSConf
 
-[JSConf][yu-jsconf_]
-
-::: details 목록
-
-<YoutubeItem channelName="JSConf" channelId="jsconf_" id="Om33AjwtQ_Y" title="Rebuild React Hooks yourself for Node" />
-
-:::
+<MyYouTubeItems jsonName="yu-jsconf_" />
 
 <!-- JSConf -->
 
@@ -578,21 +516,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Daily Tuition
 
-[Daily Tuition][yu-daily-tuition]
-
-::: details 목록
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="4lm7nngiXHE" title="Get ChatGPT Paid for Free #shorts" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="BfrJxGQEPSc" title="Complete MERN App (OTP Verification, JWT Token, Authentication, Reset Password)" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="p_046Qe19p0" title="How to Make Leaderboard in React App - For Beginners" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="UEJHSPM-Qiw" title="PayPal Checkout Integration Tutorial For Beginners - [2020]" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="XBTA-ofG8gc" title="PHP Complete Registration & Login System Using MySQLi - Complete Guide" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="dgKSqz3it50" title="Complete Portfolio Website with Bootstrap - HTML/CSS" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="t-I0y6cWKJQ" title="JavaScript this Keyword - Why Should We Use it?" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="Dl2gLiMQJkw" title="Image Thumbnail Previewer Using HTML/CSS" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="CrSC1ZA9j0M" title="Complete Responsive Blooger Website Using HTML/CSS" />
-<YoutubeItem channelName="Daily Tuition" channelId="DailyTuition" id="cHAcSQyvBqQ" title="Bootstrap Grid System The Complete Guide - In Action" />
-
-:::
+<MyYouTubeItems jsonName="yu-DailyTuition" />
 
 <!-- Daily Tuition -->
 
@@ -1081,16 +1005,38 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Deno
+
+<MyYouTubeItems jsonName="yu-deno_land" />
+
+<!-- Deno -->
+
+---
+
+## Developer Filip
+
+<MyYouTubeItems jsonName="yu-developerfilip" />
+
+<!-- Developer Filip -->
+
+---
+
+## arahansa me
+
+<MyYouTubeItems jsonName="yu-arahansame9320" />
+
+<!-- arahansa me -->
+
+---
+
 ## Misc
 
 
 <YoutubeItem channelName="Tim Ermilov" channelId="TimErmilov" id="txjFB0Z0prU" title="Building products with javascript - Part 6 - Docker and Gitlab CI" />
 <YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />
-<YoutubeItem channelName="arahansa me" channelId="arahansame9320" id="0kEcPVUnaHA" title="초보 프론트엔드 시작해보기 -  Angular.js 댓글달기" />
 
 <!-- [Tim Ermilov][yu-tim-ermilov] -->
 <!-- [Daniel Bark][yu-danielbark] -->
-<!-- [arahansa me][yu-arahansame9320] -->
 
 <TagLinks />
 
@@ -1159,4 +1105,3 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- Misc -->
 [yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
 [yu-danielbark]: https://www.youtube.com/@danielbark
-[yu-arahansame9320]: https://www.youtube.com/@arahansame9320

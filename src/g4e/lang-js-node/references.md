@@ -369,6 +369,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## TotalTypescript
+
+- [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+
+---
+
 ## Dev-Dojo
 
 - [Custom Tooltip Directive in Vuejs 3: Tutorial](https://devdojo.com/inspector/custom-tooltip-directive-in-vuejs-3-tutorial)

@@ -126,7 +126,7 @@ The next three projects we’re looking at will push your iOS skills further as 
 - [Day 30][day-30] – Project 6, part one
 - [Day 31][day-31] – Project 6, part two
 
-### Day 32: Consolidation III
+### ✅Day 32: Consolidation III
 
 You’ve learned about WebKit, UIAlertController, Auto Layout, and more – some more fundamentals of iOS development. Before we continue on to more projects, let’s take a moment to review what you’ve learned.
 
@@ -321,7 +321,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-29]: 29.md
 [day-30]: 30.md
 [day-31]: 31.md
-[day-32]: https://www.hackingwithswift.com/100/32
+[day-32]: 32.md
 [day-33]: https://www.hackingwithswift.com/100/33
 [day-34]: https://www.hackingwithswift.com/100/34
 [day-35]: https://www.hackingwithswift.com/100/35

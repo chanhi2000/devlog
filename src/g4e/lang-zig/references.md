@@ -20,4 +20,10 @@ tags: ["references", "zig"]
 
 ---
 
+## Phil Eaton
+
+- [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
+
+---
+
 <TagLinks/>

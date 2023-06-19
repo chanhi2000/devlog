@@ -349,6 +349,11 @@
     "desc": "YimMenu, a GTA V menu oriented at protecting from crashes (not all currently) and improving the overall experience.",
     "topics": ["cpp", "mod", "menu", "gta5", "gtav", "mod-menu"],
     "officialSite": "https://yim.gta.menu"
+  }, {
+    "repo": "SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "topics": ["c-plus-plus", "unix", "browser", "kernel", "os", "operating-system", "desktop-environment"],
+    "officialSite": "https://serenityos.org"
   }
 ]
 

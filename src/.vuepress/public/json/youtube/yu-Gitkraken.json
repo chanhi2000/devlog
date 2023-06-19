@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Gitkraken",
+    "name": "GitKraken",
+    "profile": "https://yt3.googleusercontent.com/e9SWxfBo8JVKXjizdZ6QpL7Jq-8LKDobjeT6j20WBe9SD-wrIZjxCUtmYAOXRFarHuyMWImB=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hZX7_HJ83tC-kgzQOmtzrG49bJzHEZFOHoIM_gbrxviK0tROVkvg1KZFywzXK1uU00oH2Oh80A8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [{
+    "id": "s4BTvj1ZVLM",
+    "title": "How to Use Git Worktree | Checkout Multiple Git Branches at Once"
+  }, {
+    "id": "kfLrSERFgQo",
+    "title": "Advanced Git CLI Tips: Git Clean, Git Reflog, Git GC, Git Alias, &amp; More"
+  }
+    
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "TechsavvyProductions",
+    "name": "TechsavvyProductions",
+    "profile": "https://yt3.googleusercontent.com/RLWtzobhss11-gFgkfNOaMj-kYKrJtYsV0ln8svRXRLj4CrxfAu6xRWd4RjIcUAfKQ02spSEsw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5ux3u3WAHCplxuEm1oJo3FojZtkTtc8PnsURi4IQM0h_ir_0HusUknkxp7MIBSWVgaCUihCr=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "s-ad0xVuKr4",
+      "title": "OpenSSH for Windows: Install, Configure, Connect, and Troubleshoot"
+    }, {
+      "id": "HeHiDdO-guc",
+      "title": "Windows Security: For Admins and Technical Support"
+    }
+  ]
+}
+
+

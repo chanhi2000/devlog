@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "FrankLiuSoftware",
+    "name": "Frank Liu",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO2MEm3V44j9VJeTYTABsfEnDzifnujNnGKg1Ki=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    {
+      "id": "ypgQqQrzITs",
+      "title": "Project Structure of .NET MAUI | Ep3"
+    }, {
+      "id": "EluvVXA_Rto",
+      "title": "Learn Blazor while creating an Inventory Management System | .NET 6 | Entity Framework | Identity"
+    }, {
+      "id": "HVZMTkhonZk",
+      "title": "MVC REST API Tutorial in 5 Hours | ASP.NET CORE Web API C# | ASP.NET Web API | .NET 5"
+    }, {
+      "id": "civZ1wY-2oM",
+      "title": "Learn .NET MAUI while Creating a Contacts App in .NET 7"
+    }, {
+      "id": "U760NY900zY",
+      "title": "17. SearchBar in .NetMaui"
+    }
+  ]
+}
+
+

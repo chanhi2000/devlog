@@ -1,0 +1,94 @@
+{
+  "channel": {
+    "id": "StewartLynch",
+    "name": "Stewart Lynch",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPKgroRkPy-zJvvzDLRouekFnHXGb1yc_r8Rqxjf0I=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2dUz1znn1GCW4QqA__t-1E14E9QWq2nwBtCxKvFtzV6naeAyOyTq6BgT_Ic7o53CXhVc9XP7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "AXGrYI78hIo",
+      "title": "SwiftUI GeometryReader"
+    }, {
+      "id": "GhIP98ht7Bk",
+      "title": "SwiftUI PreferenceKeys"
+    }, {
+      "id": "we0UmQECNRE",
+      "title": "My Images  CD  Part 5 (Sharing Images -3)"
+    }, {
+      "id": "Z4SsSDM9dHU",
+      "title": "My Images  CD  Part 4 (Sharing Images -2)"
+    }, {
+      "id": "lB3poCA8ZN4",
+      "title": "Charts Framework  2 - Visualizing Large Data Sets with Bar Charts"
+    }, {
+      "id": "RTihAkvbtNc",
+      "title": "In App Subscriptions in SwiftUI made easy with Glassfy - Part 2 - Creating the Paywall"
+    }, {
+      "id": "MlWodvLtYHc",
+      "title": "Play video in custom UIView | AVPlayer in Custom UIView | Custom VideoViewFrame Size | AVKit | Swift"
+    }, {
+      "id": "mOVdGR9D4nM",
+      "title": "Global, Utility Class or Extension - Part 1"
+    }, {
+      "id": "XrmOR_Qv9Aw",
+      "title": "Realm+SwiftUI 2   One Many Relationship   Part 2"
+    }, {
+      "id": "nx3KDnqMU0M",
+      "title": "Realm+SwiftUI-1: PropertyWrappers - Part 1"
+    }, {
+      "id": "CxtRO6GDGnU",
+      "title": "SwiftUI Wordle Clone: 4  Five Letter Words and Verification"
+    }, {
+      "id": "tKBguB5c5ic",
+      "title": "Firebase Authentication SwiftUI Package"
+    }, {
+      "id": "EjrIaQNdniE",
+      "title": "FIrebase Emulators Suite for iOS"
+    }, {
+      "id": "d6eTXQfAKJM",
+      "title": "My Images 2: Error Alert and Permission Checking"
+    }, {
+      "id": "-4gbUyZZZgs",
+      "title": "SwiftUI Biometric Authentication and KeyChain storage"
+    }, {
+      "id": "NY0LFoHQUbk",
+      "title": "Introduction to Generics in Swift"
+    }, {
+      "id": "PC0OXxAH-O0",
+      "title": "File DataPersistence in SwiftUI"
+    }, {
+      "id": "IbxBRzTBeC0",
+      "title": "Understanding SwiftUI ViewBuilders"
+    }, {
+      "id": "jOlkQW8UWgg",
+      "title": "SwiftUI Weather App 12: Handling Errors and Loading State"
+    }, {
+      "id": "FA4ksgVip9E",
+      "title": "SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course"
+    }, {
+      "id": "ajmd8hk6OEI",
+      "title": "SwiftUI Weather App 2: The OpenWeatherMap API Key"
+    }, {
+      "id": "9CoUUCL03tA",
+      "title": "NSPredicate for Swift"
+    }, {
+      "id": "DotGrYBfCuQ",
+      "title": "2  Xcode Project Setup"
+    }, {
+      "id": "r0fSiNaYjPI",
+      "title": "1  Firebase Login with SwiftUI Introduction"
+    }, {
+      "id": "r9wa_Yuk678",
+      "title": "Raindrop.io - A Bookmark Manager"
+    }, {
+      "id": "AIb3CQH8_jg",
+      "title": "A Better Result"
+    }, {
+      "id": "ivFtzG8Bqkk",
+      "title": "7.  JSON from API - Swift"
+    }
+  ]
+}
+
+
