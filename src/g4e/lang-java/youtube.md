@@ -493,11 +493,17 @@ meta:
 
 ---
 
+## Amila
+
+<MyYouTubeItems jsonName="yu-amilacjay" />
+
+<!-- Amila -->
+
+---
+
 ## Misc
 
-<YoutubeItem channelName="Amila Jayawardhana" channelId="AmilaJayawardhana" id="ckSw8x66FQg" title="Spring MVC Sinhalen: 02 - Basic Configurations" />
 
-<!-- [Amila Jayawardhana][yu-amila-jayawardhana] -->
 ---
 
 <TagLinks />

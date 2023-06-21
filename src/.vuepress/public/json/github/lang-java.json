@@ -304,6 +304,11 @@
     "desc": "The Metadata Platform for the Modern Data Stack",
     "topics": ["metadata", "linkedin", "data-catalog", "data-discovery", "datahub"],
     "officialSite": "https://datahubproject.io"
+  }, {
+    "repo": "linux-china/chatgpt-spring-boot-starter",
+    "desc": "Spring Boot ChatGPT Starter",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

@@ -1179,5 +1179,10 @@
     "desc": "A Clash Client For OpenWrt",
     "topics": ["openwrt", "shadowsocks", "clash", "v2ray", "luci", "vmess", "snell", "openclash"],
     "officialSite": ""
+  }, {
+    "repo": "fanmingming/live",
+    "desc": "✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕",
+    "topics": ["radio", "list", "ipv6", "tv", "live", "m3u8", "television", "china", "epg", "iptv", "m3u"],
+    "officialSite": ""
   }
 ]

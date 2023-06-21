@@ -254,5 +254,15 @@
     "desc": "A validated automatic evaluator for instruction-following language models. High-quality, cheap, and fast.",
     "topics": ["nlp", "deep-learning", "leaderboard", "evaluation", "instruction-following", "foundation-models", "large-language-models", "rlhf"],
     "officialSite": "https://tatsu-lab.github.io/alpaca_eval"
+  }, {
+    "repo": "AI4Finance-Foundation/FinNLP",
+    "desc": "Democratizing Internet-scale financial data.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "refuel-ai/autolabel",
+    "desc": "Label, clean and enrich text datasets with Large Language Models (LLMs)",
+    "topics": ["python", "data-science", "machine-learning", "huggingface-transformers", "gpt-4", "large-language-models", "llm", "llms", "langchain", "anthropic-claude"],
+    "officialSite": "https://docs.refuel.ai"
   }
 ] 

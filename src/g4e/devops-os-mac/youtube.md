@@ -69,15 +69,24 @@ tags: ["macos", "settings"]
 
 ---
 
+## Andrew Ethan Zeng
+
+<MyYouTubeItems jsonName="yu-AndrewEthanZeng" />
+
+<!-- Andrew Ethan Zeng -->
+
+---
+
+## Eevnos
+
+<MyYouTubeItems jsonName="yu-Eevnos" />
+
+<!-- Eevnos -->
+
+---
+
 ## Misc
-
-<YoutubeItem channelName="Andrew Ethan Zeng" channelId="AndrewEthanZeng" id="YPV6BitbPmM" title="macOS Ventura – 14 Settings You NEED to Change on Launch" />
-
-<!-- [Andrew Ethan Zeng][yu-andrew-ethan-zeng] -->
 
 ---
 
 <TagLinks />
-
-[yu-macmost]: https://www.youtube.com/@macmost
-[yu-andrew-ethan-zeng]: https://www.youtube.com/@AndrewEthanZeng

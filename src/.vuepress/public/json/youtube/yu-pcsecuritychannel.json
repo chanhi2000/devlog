@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "pcsecuritychannel",
+    "name": "The PC Security Channel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNq0QEH0t-COhRoDk9d9XeyzBO1ELsYdMHC8ohhNg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Pc4ttLv_xEj-rDIIPA0qZhA6dcikjnYqNMTEJhA7-9DGFARiYKAVgwkD0l7xUQHEjY7WYrcUDQ4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "VU9L0udNV9M",
+      "title": "Stop Windows Spying"
+    }, {
+      "id": "nYdS3FIu3rI",
+      "title": "The Malware that hacked Linus Tech Tips"
+    }, {
+      "id": "YQ6sjOE1sBU",
+      "title": "Best Browser Extensions for Security"
+    }, {
+      "id": "Wh_DJTaDq6U",
+      "title": "Best Malware Analysis Tools | Learn Malware Analysis"
+    }, {
+      "id": "UfaRLUZK8No",
+      "title": "Why you shouldn't just use Windows Firewall"
+    }, {
+      "id": "N4Vex7l8jv4",
+      "title": "Windows Defender Hardening and Test vs Malware"
+    }
+  ]
+}
+

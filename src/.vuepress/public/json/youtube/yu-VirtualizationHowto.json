@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "VirtualizationHowto",
+    "name": "VirtualizationHowto",
+    "profile": "https://yt3.googleusercontent.com/65nLR9v18wtkT4m0-GTDYoaw87IHghpcwqWhhWAMzxnFXEAfeHAFwrFmxbu8D12jENdV62fXDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J3jQFYAyRWx-G_rHNHIjDPLuCpM-T1kQZkMZDCTdRg4_j0E1SRN9r05CQH1TSNdLkAJgN-kJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "wqtEUFDdZXU",
+      "title": "Netshoot Docker container for Docker compose networking host troubleshooting"
+    }, {
+      "id": "zxAmqY63eJE",
+      "title": "Best Docker Container Monitoring Tools - Free and open source"
+    }
+  ]
+}
+

@@ -116,4 +116,11 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Alek
+
+<MyYouTubeItems jsonName="yu-alekSheffy" />
+
+<!-- Alek -->
+
+---
 <TagLinks />

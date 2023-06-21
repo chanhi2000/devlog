@@ -24,5 +24,10 @@
     "desc": "基于Ruby编写的命令行注入版本",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "shayonj/pg_easy_replicate",
+    "desc": "Easily setup logical replication and switchover to new database with minimal downtime",
+    "topics": ["ruby", "postgres", "postgresql", "logical-replication"],
+    "officialSite": ""
   }
 ]

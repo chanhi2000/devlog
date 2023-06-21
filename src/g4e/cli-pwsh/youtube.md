@@ -29,4 +29,12 @@ tags: ["powershell", "windows", "windows-terminal", "multiline"]
 
 ---
 
+## Server Academy
+
+<MyYouTubeItems jsonName="yu-ServerAcademy" />
+
+<!-- Server Academy -->
+
+---
+
 <TagLinks />

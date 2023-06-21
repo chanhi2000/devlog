@@ -38,10 +38,17 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## andreessen horowitz
+
+- [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications)
+
+---
+
 ## Simon William 
 
 - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers)
 
+---
 
 ## KDNuggets
 

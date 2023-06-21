@@ -77,4 +77,12 @@ tags: ["education", "youtube", "programming", "css"]
 
 ---
 
+## garnatti one
+
+<MyYouTubeItems jsonName="yu-garnattione" />
+
+<!-- garnatti one -->
+
+---
+
 <TagLinks />

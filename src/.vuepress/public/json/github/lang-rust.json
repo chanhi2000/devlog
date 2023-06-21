@@ -414,6 +414,16 @@
     "desc": "Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.",
     "topics": ["javascript", "language", "rust", "gui", "ui", "web", "cpp", "webassembly", "wasm", "declarative-ui", "embedded-devices", "webapplication", "lsp-server"],
     "officialSite": "https://slint.dev"
+  }, {
+    "repo": "zellij-org/zellij",
+    "desc": "A terminal workspace with batteries included",
+    "topics": ["terminal", "workspace", "multiplexer", "hacktoberfest"],
+    "officialSite": "https://zellij.dev"
+  }, {
+    "repo": "hoodie/notify-rust",
+    "desc": "☝️send desktop notifications from your Rust app.",
+    "topics": ["macos", "linux", "desktop-notifications", "xdg", "convenience"],
+    "officialSite": ""
   }
 ]
 

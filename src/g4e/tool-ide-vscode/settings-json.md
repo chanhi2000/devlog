@@ -1,4 +1,4 @@
--json---
+---
 lang: ko-KR
 title: ⚙settings.json
 description: 🆚VSCode > ⚙settings.json
@@ -14,6 +14,9 @@ tags: ["webdev", "vscode", "productivity", "programming"]
 ---
 
 ## Open
+
+- <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd> 입력하여 Prmopt 창 생성
+- `Open User Settings (JSON)` 입력
 
 ---
 

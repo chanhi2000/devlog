@@ -1723,5 +1723,25 @@
     "desc": "Official repo for VideoComposer: Compositional Video Synthesiswith with Motion Controllability",
     "topics": ["video-generation", "diffusion-models", "video-synthesiswith"],
     "officialSite": "https://videocomposer.github.io"
+  }, {
+    "repo": "princeton-vl/infinigen",
+    "desc": "Infinite Photorealistic Worlds using Procedural Generation",
+    "topics": [],
+    "officialSite": "https://infinigen.org"
+  }, {
+    "repo": "bentoml/OpenLLM",
+    "desc": "An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.",
+    "topics": ["machine-learning", "ai", "deployment", "falcon", "developer-tools", "easy-to-use", "dolly", "fine-tuning", "t5-model", "llm", "model-inference", "lmops", "llmops", "chatglm", "stablelm"],
+    "officialSite": "https://bentoml.com"
+  }, {
+    "repo": "settinger/selectric_typeballs",
+    "desc": "How to make your own Selectric Typeballs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "vllm-project/vllm",
+    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "topics": ["inference", "pytorch", "transformer", "gpt", "model-serving", "mlops", "llm", "llmops", "llm-serving"],
+    "officialSite": "https://vllm.readthedocs.io"
   }
 ]

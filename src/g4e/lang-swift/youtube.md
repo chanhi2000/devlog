@@ -506,6 +506,15 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## Swift with Yash
+
+<MyYouTubeItems jsonName="yu-swiftwithyash" />
+
+<!-- Swift with Yash -->
+
+---
+
+
 ## Misc
 
 <!-- [The Swift Guy][yu-the-swift-guy] -->

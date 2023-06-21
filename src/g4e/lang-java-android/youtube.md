@@ -69,6 +69,13 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## tutorialsEU
+
+<MyYouTubeItems jsonName="yu-tutorialsEU" />
+
+<!-- tutorialsEU -->
+
+---
 
 ## Master Coding
 
@@ -96,24 +103,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## EDMT Dev
 
-[EDMT Dev][yu-eddydn71]
-
-::: details 목록
-
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="UNa_gIuFyOM" title="Android Kotlin Tutorial - RSS Reader by Kotlin" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="9KJyebg17qw" title="Android Development Tutorial - New Uber Clone #42 Update Trip Plan" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="u7t8MxGR9EY" title="Kotlin Android Tutorial - New Eat It part 48 Shippers Managements" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="0shyep6yzeU" title="Android Development Tutorial - My Restaurant part 38 a Upgrade NodeJS API for MSSQL" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="nZ2gHpbAXHc" title="EDMT Dev - Food App Android Studio #21 Getting user location" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="A85pX4ZAAis" title="EDMT Dev - Food App Android Studio #13 Build Cart System with Room Persistence" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="oQOybOl0vyc" title="Kotlin Android Tutorial -  Realtime QR Code Realtime Scanner with Rectangle" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="jtbVo8XwI88" title="Android Development Tutorial - Drink Shop App part 36 Integrate Firebase Cloud Messaging" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="JQa-NAgMfY4" title="Kotlin Android Tutorial - Recycler View Filters" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="MALa2ahelCA" title="Android Development Tutorial - Recycler View Filters" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="d1UuUTAKoi8" title="Android Development Tutorial - MVVM Design Patterns Login Validation" />
-<YoutubeItem channelName="EDMT Dev" channelId="eddydn71" id="qwfESo8nSPs" title="Flutter Full Course - In App WebView" />
-
-:::
+<MyYouTubeItems jsonName="yu-eddydn71" />
 
 <!-- EDMT Dev -->
 
@@ -121,32 +111,15 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## Vishal Kamboj
 
-[Vishal Kamboj][yu-vishalkamboj8955]
-
-::: details 목록
-
-<YoutubeItem channelName="Vishal Kamboj" channelId="vishalkamboj8955" id="OToRgzgDXiE" title="Test Driven Development \(Part 2\) Mockito Android Unit Test LiveData" />
-<YoutubeItem channelName="Vishal Kamboj" channelId="vishalkamboj8955" id="uX6BKcBYcfU" title="Kotlin Room Example with Androidx Recyclerview" />
-<YoutubeItem channelName="Vishal Kamboj" channelId="vishalkamboj8955" id="wWO0mA-OcZo" title="Espresso Recyclerview Test .." />
-
-:::
+<MyYouTubeItems jsonName="yu-vishalkamboj8955" />
 
 <!-- Vishal Kamboj -->
 
 ---
 
-
 ## DJ Malone
 
-[DJ Malone][yu-dj-malone]
-
-::: details 목록
-
-<YoutubeItem channelName="DJ Malone" channelId="DanielMalone" id="?v=xIHz0C5q" title="Retrofit + Kotlin Coroutines (Ecommerce #" />
-<YoutubeItem channelName="DJ Malone" channelId="DanielMalone" id=".com/watch?" title="Android Test Drive" />
-
-
-:::
+<MyYouTubeItems jsonName="yu-DanielMalone" />
 
 <!-- DJ Malone -->
 
@@ -154,14 +127,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ## Coding With Tea
 
-[Coding With Tea][yu-coding-w-tea]
-
-::: details 목록
-
-<YoutubeItem channelName="Coding With Tea" channelId="CodingwithT" id="WSJHAsnot54" title="Create React native video Player | React Native Video Player"/>
-<YoutubeItem channelName="Coding With Tea" channelId="CodingwithT" id="n_W99oFIF8w" title="Onboarding Screen Android Studio  - Animation in Android Studio - Part 2- Sizzling Bites"/>
-
-:::
+<MyYouTubeItems jsonName="yu-CodingwithT" />
 
 <!-- Coding With Tea -->
 
@@ -244,6 +210,14 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 <MyYouTubeItems jsonName="yu-user-nl2vv9cj8d" />
 
 <!-- 양재동 코드랩 -->
+
+---
+
+## Mafia Codes
+
+<MyYouTubeItems jsonName="yu-mafiacodes" />
+
+<!-- Mafia Codes -->
 
 ---
 

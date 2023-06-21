@@ -16,13 +16,13 @@
     "officialSite": ""
   }, {
     "repo": "immich-app/immich",
-    "desc": ": Self-hosted photo and video backup solution directly from your mobile phone.",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
     "topics": ["nodejs", "photos", "svelte", "photo-gallery", "mobile-app", "self-hosted", "videos", "google-photos", "flutter", "backup-tool", "nestjs", "sveltekit", "google-photos-alternative"],
     "officialSite": "https://immich.app"
   }, {
     "repo": "revanced/revanced-manager",
     "desc": " 💊 Application to use ReVanced on Android",
-    "topics": ["android", "modding", "manager", "flutter", "patching", "flutter-apps", "revanced"],
+    "topics": ["nodejs", "photos", "svelte", "photo-gallery", "mobile-app", "self-hosted", "videos", "google-photos", "flutter", "backup-tool", "nestjs", "sveltekit", "google-photos-alternative"],
     "officialSite": "https://revanced.app"
   }, {
     "repo": "bdlukaa/fluent_ui",

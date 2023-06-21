@@ -844,5 +844,25 @@
     "desc": "Notion-style WYSIWYG editor with AI-powered autocompletions",
     "topics": ["nextjs", "prosemirror", "openai", "notion", "ai-sdk", "tiptap", "vercel", "chatgpt"],
     "officialSite": "https://novel.sh"
+  }, {
+    "repo": "chakra-ui/panda",
+    "desc": "🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️",
+    "topics": ["css", "typescript", "postcss", "engine", "css-in-js", "atomic-css", "utility-classes", "framework-agnostic", "jit-compiler", "design-system", "styled-system"],
+    "officialSite": "https://panda-css.com"
+  }, {
+    "repo": "josStorer/RWKV-Runner",
+    "desc": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+    "topics": ["api", "tool", "api-client", "wails", "llm", "rwkv", "chatgpt"],
+    "officialSite": "https://www.rwkv.com"
+  }, {
+    "repo": "undb-xyz/undb",
+    "desc": "🚀 Private first, unified, self-hosted no code database.",
+    "topics": ["nodejs", "docker", "typescript", "offline-first", "ddd", "domain-driven-design", "svelte", "self-hosted", "sqlite3", "airtable", "nestjs", "nocode", "sveltekit", "no-code-database", "airtable-alternative"],
+    "officialSite": "https://www.undb.xyz"
+  }, {
+    "repo": "linen-dev/linen.dev",
+    "desc": "Lightweight Google-searchable Slack alternative for Communities",
+    "topics": ["slack", "chat", "typescript", "discord", "collaboration"],
+    "officialSite": "https://linen.dev"
   }
 ]

@@ -37,6 +37,8 @@ color: rgba(22, 25, 35, 0.2)
 
 ## Data Types
 
+### Introduction
+
 Every value in Rust is of a certain _data type_, which tells Rust what kind of data is being specified so it knows how to work with that data. We’ll look at two data type subsets: scalar and compound.
 
 Keep in mind that Rust is a _statically typed_ language, which means that it must know the types of all variables at compile time. The compiler can usually infer what type we want to use based on the value and how we use it. In cases when many types are possible, such as when we converted a String to a numeric type using parse in the [“Comparing the Guess to the Secret Number”](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#comparing-the-guess-to-the-secret-number) section in Chapter 2, we must add a type annotation, like this:
@@ -366,7 +368,7 @@ If we don't explicitly assign a type to a variable, then the compiler will infer
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Remove something to make it work
@@ -400,7 +402,20 @@ fn main() {
 
 ```rs
 // Remove something to make it work
+fn main() {
+    let x: i32 = 5;
+    let mut y = 5;
 
+    y = x;
+    
+    let z = 10; // type of z : i32
+    println!("Success!");
+}
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -409,7 +424,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fill the blank
@@ -436,10 +451,15 @@ fn main() {
 ```rs
 // Fill the blank
 fn main() {
-    let v: u16 = 38_u8 as __;
+    let v: u16 = 38_u8 as u16;
 
     println!("Success!");
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -454,7 +474,7 @@ If we don't explicitly assign a type to a variable, then the compiler will infer
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Modify `assert_eq!` to make it work
@@ -486,7 +506,7 @@ fn type_of<T>(_: &T) -> String {
 // Modify `assert_eq!` to make it work
 fn main() {
     let x = 5;
-    assert_eq!("u32".to_string(), type_of(&x));
+    assert_eq!("i32".to_string(), type_of(&x));
 
     println!("Success!");
 }
@@ -495,6 +515,11 @@ fn main() {
 fn type_of<T>(_: &T) -> String {
     format!("{}", std::any::type_name::<T>())
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -503,7 +528,7 @@ fn type_of<T>(_: &T) -> String {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fill the blanks to make it work
@@ -539,11 +564,16 @@ fn main() {
 ```rs
 // Fill the blanks to make it work
 fn main() {
-    assert_eq!(i8::MAX, __); 
-    assert_eq!(u8::MAX, __); 
+    assert_eq!(i8::MAX, 127); 
+    assert_eq!(u8::MAX, 255); 
 
     println!("Success!");
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -552,7 +582,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fix errors and panics to make it work
@@ -584,10 +614,15 @@ fn main() {
 ```rs
 // Fix errors and panics to make it work
 fn main() {
-   let v1 = 251_u8 + 8;
-   let v2 = i8::checked_add(251, 8).unwrap();
+   let v1 = 247_u8 + 8;
+   let v2 = i8::checked_add(119, 8).unwrap();
    println!("{},{}",v1,v2);
 }
+//
+//
+/*
+  255,127
+*/
 ```
 
 :::
@@ -596,7 +631,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Modify `assert!` to make it work
@@ -623,10 +658,15 @@ fn main() {
 // Modify `assert!` to make it work
 fn main() {
     let v = 1_024 + 0xff + 0o77 + 0b1111_1111;
-    assert!(v == 1579);
+    assert!(v == 1597);
 
     println!("Success!");
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -637,7 +677,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fill the blank to make it work
@@ -686,17 +726,22 @@ fn type_of<T>(_: &T) -> String {
 ```rs
 // Fill the blank to make it work
 fn main() {
-    let x = 1_000.000_1; // ?
+    let x = 1_000.000_1; // f64
     let y: f32 = 0.12; // f32
     let z = 0.01_f64; // f64
 
-    assert_eq!(type_of(&x), "__".to_string());
+    assert_eq!(type_of(&x), "f64".to_string());
     println!("Success!");
 }
 
 fn type_of<T>(_: &T) -> String {
     format!("{}", std::any::type_name::<T>())
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -705,7 +750,7 @@ fn type_of<T>(_: &T) -> String {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -728,21 +773,30 @@ fn main() {
 
 ```rs
 fn main() {
-    assert!(0.1+0.2==0.3);
+    assert!(0.1_f32+0.2_f32==0.3_f32);
 
     println!("Success!");
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
 
 ### Range
 
-#### 9. 🌟🌟 Two goals: 1. Modify assert! to make it work 2. Make `println!` output: 97 - 122
+#### 9. 🌟🌟 
+
+Two goals: 
+1. Modify assert! to make it work 
+2. Make `println!` output: `97 - 122`
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -777,12 +831,42 @@ fn main() {
         sum += i
     }
 
-    assert!(sum == -3);
+    assert!(sum == -5);
 
     for c in 'a'..='z' {
-        println!("{}",c);
+        println!("{}",c as u8);
     }
 }
+//
+//
+/*
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+*/
 ```
 
 :::
@@ -791,7 +875,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fill the blanks
@@ -854,11 +938,16 @@ fn main() {
 // Fill the blanks
 use std::ops::{Range, RangeInclusive};
 fn main() {
-    assert_eq!((1..__), Range{ start: 1, end: 5 });
-    assert_eq!((1..__), RangeInclusive::new(1, 5));
+    assert_eq!((1..5), Range{ start: 1, end: 5 });
+    assert_eq!((1..=5), RangeInclusive::new(1, 5));
 
     println!("Success!");
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -869,7 +958,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fill the blanks and fix the errors
@@ -973,21 +1062,21 @@ fn main() {
 // Fill the blanks and fix the errors
 fn main() {
     // Integer addition
-    assert!(1u32 + 2 == __);
+    assert!(1u32 + 2 == 3);
 
     // Integer subtraction
-    assert!(1i32 - 2 == __);
-    assert!(1u8 - 2 == -1); 
+    assert!(1i32 - 2 == -1);
+    assert!(1i8 - 2 == -1);
     
-    assert!(3 * 50 == __);
+    assert!(3 * 50 == 150);
 
-    assert!(9.6 / 3.2 == 3.0); // error ! make it work
+    assert!(9 / 3 == 3); // error ! make it work
 
-    assert!(24 % 5 == __);
+    assert!(24 % 5 == 4);
     // Short-circuiting boolean logic
-    assert!(true && false == __);
-    assert!(true || false == __);
-    assert!(!true == __);
+    assert!(true && false == false);
+    assert!(true || false == true);
+    assert!(!true == false);
 
     // Bitwise operations
     println!("0011 AND 0101 is {:04b}", 0b0011u32 & 0b0101);
@@ -996,6 +1085,15 @@ fn main() {
     println!("1 << 5 is {}", 1u32 << 5);
     println!("0x80 >> 2 is 0x{:x}", 0x80u32 >> 2);
 }
+//
+//
+/*
+  0011 AND 0101 is 0001
+  0011 OR 0101 is 0111
+  0011 XOR 0101 is 0110
+  1 << 5 is 32
+  0x80 >> 2 is 0x20
+*/
 ```
 
 :::
@@ -1010,7 +1108,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Make it work
@@ -1044,13 +1142,18 @@ fn main() {
 use std::mem::size_of_val;
 fn main() {
     let c1 = 'a';
-    assert_eq!(size_of_val(&c1),1); 
+    assert_eq!(size_of_val(&c1), 4);
 
     let c2 = '中';
-    assert_eq!(size_of_val(&c2),3); 
+    assert_eq!(size_of_val(&c2), 4);
 
     println!("Success!");
-} 
+}
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -1059,7 +1162,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Make it work
@@ -1099,13 +1202,18 @@ fn print_char(c : char) {
 ```rs
 // Make it work
 fn main() {
-    let c1 = "中";
+    let c1 = '中';
     print_char(c1);
-} 
+}
 
 fn print_char(c : char) {
     println!("{}", c);
 }
+//
+//
+/*
+  中
+*/
 ```
 
 :::
@@ -1116,7 +1224,7 @@ fn print_char(c : char) {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Make println! work
@@ -1141,11 +1249,16 @@ fn main() {
 fn main() {
     let _f: bool = false;
 
-    let t = true;
+    let t = false;
     if !t {
-        println!("Success!");
+        println!("hello, world");
     }
 } 
+//
+//
+/*
+  hello, world
+*/
 ```
 
 :::
@@ -1154,7 +1267,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Make it work
@@ -1184,11 +1297,16 @@ fn main() {
 // Make it work
 fn main() {
     let f = true;
-    let t = true && false;
+    let t = true || false;
     assert_eq!(t, f);
 
     println!("Success!");
 }
+//
+//
+/*
+  Success!
+*/
 ```
 
 :::
@@ -1199,7 +1317,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Make it work, don't modify `implicitly_ret_unit` !
@@ -1247,10 +1365,10 @@ fn explicitly_ret_unit() -> () {
 ```rs
 // Make it work, don't modify `implicitly_ret_unit` !
 fn main() {
-    let _v: () = ();
+    let v0: () = ();
 
     let v = (2, 3);
-    assert_eq!(v, implicitly_ret_unit());
+    assert_eq!(v0, implicitly_ret_unit());
 
     println!("Success!");
 }
@@ -1265,6 +1383,10 @@ fn explicitly_ret_unit() -> () {
 }
 //
 //
+/*
+  I will return a ()
+  Success!
+*/
 ```
 
 :::
@@ -1273,7 +1395,7 @@ fn explicitly_ret_unit() -> () {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Modify `4` in assert to make it work
@@ -1302,13 +1424,14 @@ fn main() {
 use std::mem::size_of_val;
 fn main() {
     let unit: () = ();
-    assert!(size_of_val(&unit) == 4);
+    assert!(size_of_val(&unit) == 0);
 
     println!("Success!");
 }
 //
 //
 /*
+  Success!
 */
 ```
 
@@ -1356,7 +1479,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Make it work with two ways
@@ -1390,24 +1513,46 @@ fn main() {
 */
 ```
 
-@tab Solution
+@tab Solution 1
 
 ```rs
 // Make it work with two ways
 fn main() {
-   let v = {
-       let mut x = 1;
-       x += 2
-   };
-
-   assert_eq!(v, 3);
+    let v = {
+        let mut x = 1;
+        x += 2
+    };
+ 
+    assert_eq!(v, ());
 
    println!("Success!");
 }
 //
 //
 /*
+  Success!
+*/
+```
 
+@tab Solution 2
+
+```rs
+// Make it work with two ways
+fn main() {
+    let v = {
+        let mut x = 1;
+        x += 2;
+        x
+    };
+
+    assert_eq!(v, 3);
+
+   println!("Success!");
+}
+//
+//
+/*
+  Success!
 */
 ```
 
@@ -1417,7 +1562,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -1485,7 +1630,10 @@ fn main() {
 
 ```rs
 fn main() {
-   let v = (let x = 3);
+    let v = {
+        let x = 3;
+        x
+    };
 
    assert!(v == 3);
 
@@ -1494,7 +1642,7 @@ fn main() {
 //
 //
 /*
-
+  Success!
 */
 ```
 
@@ -1504,7 +1652,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -1547,12 +1695,12 @@ fn main() {
 }
 
 fn sum(x: i32, y: i32) -> i32 {
-    x + y;
+    return x + y;
 }
 //
 //
 /*
-
+  Success!
 */
 ```
 
@@ -1566,7 +1714,7 @@ fn sum(x: i32, y: i32) -> i32 {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -1651,7 +1799,7 @@ fn sum(x: i32, y: i32) -> i32 {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -1703,7 +1851,7 @@ fn print() -> () {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Solve it in two ways
@@ -1825,7 +1973,7 @@ Diverging functions never return to the caller, so they may be used in places wh
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -1989,7 +2137,9 @@ fn never_return_fn() -> ! {
 }
 //
 //
-/* Success! */
+/* 
+  Success! 
+*/
 ```
 
 :::
@@ -1998,7 +2148,7 @@ fn never_return_fn() -> ! {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 
@@ -2053,12 +2203,12 @@ fn main() {
 //
 //
 /*
-   Compiling playground v0.0.1 (/playground)
+    Compiling playground v0.0.1 (/playground)
     Finished dev [unoptimized + debuginfo] target(s) in 0.53s
      Running `target/debug/playground`
-thread 'main' panicked at 'we have no value for `false`, but we can panic', src/main.rs:10:13
-note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
-Success!
+  thread 'main' panicked at 'we have no value for `false`, but we can panic', src/main.rs:10:13
+  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+  Success!
 */
 ```
 

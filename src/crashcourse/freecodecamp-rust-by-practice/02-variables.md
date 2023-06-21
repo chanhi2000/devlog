@@ -41,7 +41,7 @@ color: rgba(22, 25, 35, 0.2)
 
 ::: tabs 
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fix the error below with least amount of modification to the code
@@ -103,7 +103,7 @@ fn main() {
 
 ::: tabs 
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fill the blanks in the code to make it compile
@@ -154,7 +154,7 @@ A scope is the range within the program for which the item is valid.
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fix the error below with least amount of modification
@@ -204,7 +204,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fix the error with the use of define_x
@@ -275,7 +275,7 @@ You can declare a new variable with the same name as a previous variable, here w
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Only modify `assert_eq!` to make the `println!` work(print `42` in terminal)
@@ -330,7 +330,7 @@ fn main() {
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Remove a line in the code to make it compile
@@ -446,7 +446,7 @@ none of the solutions is to remove the line `let x = 1`
 
 ::: tabs 
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {
@@ -490,7 +490,7 @@ you can use Shadowing or Mutability
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 // Fix the error below with least amount of modification
@@ -565,7 +565,7 @@ the feature `Destructuring assignments` need 1.59 or higher Rust version
 
 ::: tabs
 
-@tab:active Problem
+@tab:active 💀Problem
 
 ```rs
 fn main() {

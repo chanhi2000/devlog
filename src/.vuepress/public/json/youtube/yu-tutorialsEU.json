@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "tutorialsEU",
+    "name": "tutorialsEU",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNZ7zlzDRAHq9ckwn8ODOT1_NuVby7nhZ6cRvf1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0_niFavz4DhmkPH4iAd8zCfCCqoKH4eytZHxE3X020hGECSWYBZM6rPit8ymXqAw0mg91OnDCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "h1hwz_Y52po",
+      "title": "Full Stack Developer Course - Using ASP.NET &amp; Azure &amp; C# &amp; Android Jetpack Compose + Treblle"
+    }, {
+      "id": "UsoWVoXDJsE",
+      "title": "Android Jetpack Compose Course - 2h for Free App Developer Course"
+    }, {
+      "id": "-TWz30owX_I",
+      "title": "Free Android Jetpack Course - 7+ hours Tutorial"
+    }, {
+      "id": "CzGNaiSoh7E",
+      "title": "Android SQLite Database Tutorial 📱 Complete 1-HOUR SQLite Android Tutorial | Kotlin &amp; Android Studio"
+    }, {
+      "id": "ieWtCaWkzYQ",
+      "title": "How to publish your Android App on Play Store 2020 | Publish app on Play Store | Android Tutorials"
+    }
+  ]
+}
+

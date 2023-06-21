@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "CodingwithT",
+    "name": "Coding With Tea",
+    "profile": "https://yt3.googleusercontent.com/-w1dkB1nnEKrW53U3OJeOcTPTQsha0gBv5Y716rDtn_QyqGllLytw1Jnxs2IcSmLr1XF5lmyqQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "WSJHAsnot54",
+      "title": "Create React native video Player | React Native Video Player"
+    }, {
+      "id": "n_W99oFIF8w",
+      "title": "Onboarding Screen Android Studio  - Animation in Android Studio - Part 2- Sizzling Bites"
+    }
+  ]
+}
+
+

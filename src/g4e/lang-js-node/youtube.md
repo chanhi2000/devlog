@@ -538,7 +538,13 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## garnatti one
 
+<MyYouTubeItems jsonName="yu-garnattione" />
+
+<!-- garnatti one -->
+
+---
 
 ## Zach Gollwitzer
 
@@ -1026,6 +1032,30 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-arahansame9320" />
 
 <!-- arahansa me -->
+
+---
+
+## Sakura Dev
+
+<MyYouTubeItems jsonName="yu-SakuraDev" />
+
+<!-- Sakura Dev -->
+
+---
+
+## aarthificial
+
+<MyYouTubeItems jsonName="yu-aarthificial" />
+
+<!-- aarthificial -->
+
+---
+
+## Mafia Codes
+
+<MyYouTubeItems jsonName="yu-mafiacodes" />
+
+<!-- Mafia Codes -->
 
 ---
 

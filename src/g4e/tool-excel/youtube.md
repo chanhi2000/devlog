@@ -112,14 +112,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
-## Misc
+## profbillbyrne
 
-<YoutubeItem channelName="profbillbyrne" channelId="profbillbyrne" id="uTYHuKzC4GU" title="Excel Practice Exam \(Pearson myItLab\)" />
+<MyYouTubeItems jsonName="yu-profbillbyrne" />
 
-<!-- [profbillbyrne][yu-profbillbyrne] -->
+<!-- profbillbyrne -->
 
 ---
 
 <TagLinks />
 
-[yu-profbillbyrne]: https://www.youtube.com/@profbillbyrne

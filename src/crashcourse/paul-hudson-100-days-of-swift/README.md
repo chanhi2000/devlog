@@ -136,7 +136,7 @@ You’ve learned about WebKit, UIAlertController, Auto Layout, and more – some
 
 The next three projects we’ll be building projects where you meet some of the most important topics in iOS development: working with data from the internet, and taking advantage of the raw power of iOS devices. Of course, you’ll also be making useful products along the way!
 
-- [Day 33][day-33] – Project 7, part one
+- [Day 33][day-33] – ✅Project 7, part one
 - [Day 34][day-34] – Project 7, part two
 - [Day 35][day-35] – Project 7, part three
 - [Day 36][day-36] – Project 8, part one
@@ -322,7 +322,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-30]: 30.md
 [day-31]: 31.md
 [day-32]: 32.md
-[day-33]: https://www.hackingwithswift.com/100/33
+[day-33]: 33.md
 [day-34]: https://www.hackingwithswift.com/100/34
 [day-35]: https://www.hackingwithswift.com/100/35
 [day-36]: https://www.hackingwithswift.com/100/36

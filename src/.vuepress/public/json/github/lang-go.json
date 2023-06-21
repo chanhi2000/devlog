@@ -469,5 +469,10 @@
     "desc": "Using GPT 3.5 in terminal",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "loft-sh/devpod",
+    "desc": "Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",
+    "topics": ["docker", "kubernetes", "development", "cloud", "ide", "vscode", "developer-tools", "devcontainer", "remote-development", "devcontainers", "remote-development-environment"],
+    "officialSite": "https://devpod.sh"
   }
 ]
