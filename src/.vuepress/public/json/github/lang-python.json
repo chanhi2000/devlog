@@ -975,7 +975,7 @@
     "officialSite": "https://deforum.github.io"
   }, {
     "repo": "nlpxucan/WizardLM",
-    "desc": "WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions",
+    "desc": "Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",
     "topics": [],
     "officialSite": ""
   }, {
@@ -1235,9 +1235,9 @@
     "officialSite": ""
   }, {
     "repo": "csunny/DB-GPT",
-    "desc": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security",
+    "desc": "Revolutionizing Database Interactions with Private LLM Technology",
     "topics": ["security", "database", "private", "vicuna", "gpt-4", "langchain"],
-    "officialSite": ""
+    "officialSite": "https://db-gpt.readthedocs.io"
   }, {
     "repo": "PrefectHQ/marvin",
     "desc": "A batteries-included library for building AI-powered software",
@@ -1743,5 +1743,25 @@
     "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
     "topics": ["inference", "pytorch", "transformer", "gpt", "model-serving", "mlops", "llm", "llmops", "llm-serving"],
     "officialSite": "https://vllm.readthedocs.io"
+  }, {
+    "repo": "s0md3v/sd-webui-roop",
+    "desc": "roop extension for StableDiffusion web-ui",
+    "topics": ["face-swap", "stable-diffusion", "sd-webui", "roop"],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/sample-app-aoai-chatGPT",
+    "desc": "[PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "OpenLMLab/LOMO",
+    "desc": "LOMO: LOw-Memory Optimization",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "techleadhd/chatgpt-retrieval",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

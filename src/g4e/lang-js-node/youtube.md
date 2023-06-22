@@ -1059,6 +1059,21 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Very Academy
+
+<MyYouTubeItems jsonName="yu-veryacademy" />
+
+<!-- Very Academy -->
+
+---
+
+## ScreenCasts
+
+<MyYouTubeItems jsonName="yu-ScreenCastsDev" />
+
+<!-- ScreenCasts -->
+
+---
 ## Misc
 
 
@@ -1070,68 +1085,8 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 <TagLinks />
 
-[yu-bawad]: https://www.youtube.com/@bawad
-[yu-sonny-sangha]: https://www.youtube.com/@SonnySangha
-[yu-clever-programmer]:https://www.youtube.com/@CleverProgrammer
-[yu-coding-nepal]: https://www.youtube.com/@CodingNepal
-[yu-lama-dev]: https://www.youtube.com/@LamaDev
-[yu-james-q-quick]: https://www.youtube.com/@JamesQQuick
-[yu-kevin-wade]: https://www.youtube.com/@kevinwwwade
-[yu-codinginflow]: https://www.youtube.com/@codinginflow
-[yu-web-dev-simplified]: https://www.youtube.com/@WebDevSimplified
-[yu-codingapple]: https://www.youtube.com/@codingapple
-[yu-laithacademy]: https://www.youtube.com/@laithacademy
-[yu-javascript-mastery]: https://www.youtube.com/@javascriptmastery
-[yu-program-w-erik]: https://www.youtube.com/@ProgramWithErik
-[yu-wes-bro]: https://www.youtube.com/@WesBos
-[yu-coding-artist]: https://www.youtube.com/@CodingArtist
-[yu-nomadcoders]: https://www.youtube.com/@nomadcoders
-[yu-codevolution]: https://www.youtube.com/@Codevolution
-[yu-tyler-potts]: https://www.youtube.com/@TylerPotts
-[yu-brianmmdev]: https://www.youtube.com/@brianmmdev
-[yu-code-w-sloba]: https://www.youtube.com/@CodewithSloba
-[yu-zero-cho-tv]: https://www.youtube.com/@ZeroChoTV
-[yu-monsterlessons-academy]: https://www.youtube.com/@MonsterlessonsAcademy
-[yu-vicode-media]: https://www.youtube.com/@VicodeMedia
-[yu-dongbinna]: https://www.youtube.com/@dongbinna
-[yu-minjun-kim]: https://www.youtube.com/@MinjunKim
-[yu-academind]: https://www.youtube.com/@academind
-[yu-justin-jackson]: https://www.youtube.com/@JustinJackson
-[yu-pluralsight]: https://www.youtube.com/@pluralsight
-[yu-dylan-israel]: https://www.youtube.com/@CodingTutorials360
-[yu-developedbyed]: https://www.youtube.com/@developedbyed
-[yu-adam-wathan]: https://www.youtube.com/@AdamWathan
-[yu-react-w-masoud]: https://www.youtube.com/@ProgrammingwithMasoud
-[yu-coding-addict]: https://www.youtube.com/@CodingAddict
-[yu-code-w-antonio]: https://www.youtube.com/@codewithantonio
-[yu-easy-tutorials]: https://www.youtube.com/@EasyTutorialsVideo
-[yu-coding-garden]: https://www.youtube.com/@CodingGarden
-[yu-hitesh-choudhary]: https://www.youtube.com/@HiteshChoudharydotcom
-[yu-pnk]: https://www.youtube.com/@pnk
-[yu-tricknology]: https://www.youtube.com/@Tricknology
-[yu-coding-the-smart-way]: https://www.youtube.com/@codingthesmartway
-[yu-traversy-media]: https://www.youtube.com/@TraversyMedia
-[yu-asmr-prog]: https://www.youtube.com/@AsmrProg
-[yu-gatsby-js]: https://www.youtube.com/@Gatsbyjs
-[yu-apollo-graphql]: https://www.youtube.com/@ApolloGraphQL
-[yu-vue-conf-toronto]: https://www.youtube.com/@VueConfToronto
-[yu-ionic]: https://www.youtube.com/@IonicFramework
-[yu-red-stapler]: https://www.youtube.com/@RedStapler_channel
-[yu-dotconferences]: https://www.youtube.com/@dotconferences
-[yu-jsconf_]: https://www.youtube.com/@jsconf_
-[yu-daily-tuition]: https://www.youtube.com/@DailyTuition
-[yu-dipesh-malvia]: https://www.youtube.com/@DipeshMalvia
-[yu-ed-roh-dev]: https://www.youtube.com/@EdRohDev
-[yu-zachgoll]: https://www.youtube.com/@zachgoll
-[yu-briandesign]: https://www.youtube.com/@briandesign
-[yu-eduonix]: https://www.youtube.com/@Eduonix
-[yu-jeffrey_codes]: https://www.youtube.com/@jeffrey_codes
-[yu-design-course]: https://www.youtube.com/@DesignCourse
-[yu-ania-kubow]: https://www.youtube.com/@AniaKubow
-[yu-pedro-tech]: https://www.youtube.com/@PedroTechnologies
-[yu-chrome-devs]: https://www.youtube.com/@ChromeDevs
-[yu-t3-dot-gg]: https://www.youtube.com/@t3dotgg
-[yu-frontend-masters]: https://www.youtube.com/@FrontendMasters
 <!-- Misc -->
 [yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
 [yu-danielbark]: https://www.youtube.com/@danielbark
+
+

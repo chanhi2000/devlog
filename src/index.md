@@ -64,6 +64,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
     <ul>
       <li><a target="_blank" href="https://lemmy.world">🐀Lemmy.World</a></li>
       <li><a target="_blank" href="https://news.hada.io">🤓GeekNews</a></li>
+      <li><a target="_blank" href="https://remoteok.com">🌐Remote OK</a></li>
       <li><a target="_blank" href="https://datatau.net">DataTau</a></li>
       <li><a target="_blank" href="https://blog.bytebytego.com">ByteByteGo</a></li>
       <li><a target="_blank" href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>

@@ -261,7 +261,7 @@
     "officialSite": ""
   }, {
     "repo": "refuel-ai/autolabel",
-    "desc": "Label, clean and enrich text datasets with Large Language Models (LLMs)",
+    "desc": "Label, clean and enrich text datasets with LLMs",
     "topics": ["python", "data-science", "machine-learning", "huggingface-transformers", "gpt-4", "large-language-models", "llm", "llms", "langchain", "anthropic-claude"],
     "officialSite": "https://docs.refuel.ai"
   }

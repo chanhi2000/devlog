@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "veryacademy",
+    "name": "Very Academy",
+    "profile": "https://yt3.googleusercontent.com/3OCprnRlONtzDdzES_HsiiaXFdcoEZulXA44bhCVa-znbWkEmMNw-wPRxHWfK1zjEdDinnBFQQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GfXYhuOnS4Lk0xIHBaGxZJDNC_0JGT3tZQF-Aq0iJe3CJOxo9T5qPh51isfwaAr4DfLXR4R6MFo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "5y8N-htURAg",
+      "title": "Database Design | Build an Entity Relationship Diagram (ERD) in Lucid Chart"
+    }, {
+      "id": "KpGAJeQNlWk",
+      "title": "Build a Bootstrap Component | Django Project | djblogger | 27"
+    }, {
+      "id": "0fevo6Aa3BA",
+      "title": "Nginx Rate Limiting | Docker"
+    }, {
+      "id": "soxd_xdHR0o",
+      "title": "Django Rest Framework Series - Build a Django DRF app and React Front-end - Part-1"
+    }, {
+      "id": "7tGhir27ZJo",
+      "title": "Nginx Mastery | Getting Started with Nginx | Docker | Docker Compose"
+    }
+  ]
+}
+

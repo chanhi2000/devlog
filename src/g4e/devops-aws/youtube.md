@@ -45,4 +45,12 @@ tags: ["youtube", "aws", "amazon", "amazon-web-service"]
 
 ---
 
+## KBS
+
+<MyYouTubeItems jsonName="yu-be9952" />
+
+<!-- KBS -->
+
+---
+
 <TagLinks />

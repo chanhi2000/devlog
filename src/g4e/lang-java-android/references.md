@@ -13,6 +13,12 @@ tags: ["references", "android"]
 
 ---
 
+## Stackoverflow
+
+- [How do I get an apk file from an Android device?](https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
+
+---
+
 ## 우아한형제들
 
 - [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)

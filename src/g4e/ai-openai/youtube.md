@@ -122,5 +122,28 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 <!-- Alek -->
 
+## Dr Alex Young
+
+<MyYouTubeItems jsonName="yu-AlexanderFYoung" />
+
+<!-- Dr Alex Young -->
+
 ---
+
+## Chat with data
+
+<MyYouTubeItems jsonName="yu-chatwithdata" />
+
+<!-- Chat with data -->
+
+---
+
+## Matthew Berman
+
+<MyYouTubeItems jsonName="yu-matthew_berman" />
+
+<!-- Matthew Berman -->
+
+---
+
 <TagLinks />

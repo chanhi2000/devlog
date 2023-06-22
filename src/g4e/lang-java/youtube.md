@@ -501,6 +501,14 @@ meta:
 
 ---
 
+## Programmer Zaman Now
+
+<MyYouTubeItems jsonName="yu-ProgrammerZamanNow" />
+
+<!-- Programmer Zaman Now -->
+
+---
+
 ## Misc
 
 

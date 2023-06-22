@@ -205,6 +205,15 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-php/youtube.md',
       ]
     }, {
+      text: '🔻Ruby',
+      collapsible: true,
+      children: [
+        '/g4e/lang-ruby/README.md',
+        '/g4e/lang-ruby/references.md',
+        '/g4e/lang-ruby/github.md',
+        '/g4e/lang-ruby/youtube.md',
+      ]
+    }, {
       text: '💧Elixir',
       collapsible: true,
       children: [
@@ -699,7 +708,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/30.md',
         '/crashcourse/paul-hudson-100-days-of-swift/31.md',
         '/crashcourse/paul-hudson-100-days-of-swift/32.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/33.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/33.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/34.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/35.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -727,7 +738,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/19.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/20.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/21.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/22.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/22.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/23.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/24.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

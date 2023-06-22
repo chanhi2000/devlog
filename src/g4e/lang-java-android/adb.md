@@ -29,4 +29,12 @@ adb bugreport <출력할 경로>
 
 ---
 
+## 단말기에 설치 된 앱 `apk` 추출
+
+```sh
+adb shell pm path kr.go.mobile.testbed.iff
+# package:/data/app/kr.go.mobile.testbed.iff-yxAQZiMbPotN8fOSLIJR2Q==/base.apk
+adb pull /data/app/kr.go.mobile.testbed.iff-yxAQZiMbPotN8fOSLIJR2Q==/base.apk path/to/desired/destination
+```
+
 <TagLinks />

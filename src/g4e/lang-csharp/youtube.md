@@ -141,6 +141,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Midware Cloud
+
+<MyYouTubeItems jsonName="yu-MidwareCloud" />
+
+<!-- Midware Cloud -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

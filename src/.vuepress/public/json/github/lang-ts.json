@@ -841,7 +841,7 @@
     "officialSite": "https://chat.vercel.ai"
   }, {
     "repo": "steven-tey/novel",
-    "desc": "Notion-style WYSIWYG editor with AI-powered autocompletions",
+    "desc": "Notion-style WYSIWYG editor with AI-powered autocompletions.",
     "topics": ["nextjs", "prosemirror", "openai", "notion", "ai-sdk", "tiptap", "vercel", "chatgpt"],
     "officialSite": "https://novel.sh"
   }, {
@@ -864,5 +864,15 @@
     "desc": "Lightweight Google-searchable Slack alternative for Communities",
     "topics": ["slack", "chat", "typescript", "discord", "collaboration"],
     "officialSite": "https://linen.dev"
+  }, {
+    "repo": "Linen-dev/linen.dev",
+    "desc": "Lightweight Google-searchable Slack alternative for Communities",
+    "topics": ["slack", "chat", "typescript", "discord", "collaboration"],
+    "officialSite": "https://linen.dev"
+  }, {
+    "repo": "ONEARMY/community-platform",
+    "desc": "A platform to build useful communities that aim to tackle global problems",
+    "topics": ["react", "typescript", "reactjs", "design-system", "climate-impact", "theme-ui"],
+    "officialSite": "https://platform.onearmy.earth"
   }
 ]

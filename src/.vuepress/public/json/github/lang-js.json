@@ -521,9 +521,9 @@
     "officialSite": "https://twemoji.twitter.com"
   }, {
     "repo": "serverless-stack/sst",
-    "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "desc": "💥 SST makes it easy to build full-stack serverless apps.",
+    "topics": ["javascript", "python", "golang", "aws", "lambda", "typescript", "csharp", "serverless", "reactjs", "nextjs", "sst", "cdk", "serverless-stack"],
+    "officialSite": "https://sst.dev"
   }, {
     "repo": "nomic-ai/gpt4all-ui",
     "desc": "gpt4all chatbot ui",
@@ -656,8 +656,8 @@
     "officialSite": "https://frappeframework.com"
   }, {
     "repo": "pashpashpash/vault-ai",
-    "desc": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.",
-    "topics": ["react", "go", "golang", "machine-learning", "ai", "reactjs", "artificial-intelligence", "openai", "question-answering", "knowledge-base", "generative", "pinecone", "pdf-support", "long-term-memory", "vector-search", "openai-api", "chatgpt"],
+    "desc": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.",
+    "topics": ["react", "go", "golang", "machine-learning", "ai", "reactjs", "artificial-intelligence", "openai", "question-answering", "knowledge-base", "generative", "pinecone", "pdf-support", "long-term-memory", "vector-search", "openai-api", "chatgpt", "qdrant-vector-database"],
     "officialSite": "https://vault.pash.city"
   }, {
     "repo": "micheleg/dash-to-dock",
@@ -1183,6 +1183,16 @@
     "repo": "fanmingming/live",
     "desc": "✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕",
     "topics": ["radio", "list", "ipv6", "tv", "live", "m3u8", "television", "china", "epg", "iptv", "m3u"],
+    "officialSite": ""
+  }, {
+    "repo": "ykdojo/kaguya",
+    "desc": "A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "iamvucms/x-gram",
+    "desc": "",
+    "topics": [],
     "officialSite": ""
   }
 ]

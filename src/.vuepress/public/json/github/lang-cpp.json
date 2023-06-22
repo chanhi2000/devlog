@@ -354,6 +354,16 @@
     "desc": "The Serenity Operating System 🐞",
     "topics": ["c-plus-plus", "unix", "browser", "kernel", "os", "operating-system", "desktop-environment"],
     "officialSite": "https://serenityos.org"
+  }, {
+    "repo": "google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "topics": [],
+    "officialSite": "https://google.github.io/googletest"
+  }, {
+    "repo": "mawww/kakoune",
+    "desc": "mawww's experiment for a better code editor",
+    "topics": ["vim", "c-plus-plus", "kakoune", "text-editor", "console-application", "modal-editing"],
+    "officialSite": "http://kakoune.org"
   }
 ]
 

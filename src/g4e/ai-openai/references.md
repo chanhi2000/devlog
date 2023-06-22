@@ -56,4 +56,11 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## interconnects
+
+- [How RLHF actually works](https://www.interconnects.ai/p/how-rlhf-works)
+
+---
+
 <TagLinks />
+

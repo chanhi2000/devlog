@@ -109,17 +109,17 @@ You just learned a lot about Swift in only 14 days, so before we continue it's i
 
 - [Day 15][day-15] – Swift review
 
-### Days 16-24: Starting SwiftUI
+### ✅Days 16-24: Starting SwiftUI
 
 Now that you’ve mastered the basics of Swift, in these days you’ll start building real SwiftUI apps using what you learned.
 
-- [Day 16][day-16] – ✅Project 1, part one
-- [Day 17][day-17] – ✅Project 1, part two
-- [Day 18][day-18] – ✅Project 1, part three
-- [Day 19][day-19] – ✅Challenge day
-- [Day 20][day-20] – ✅Project 2, part one
-- [Day 21][day-21] – ✅Project 2, part two
-- [Day 22][day-22] – ✅Project 2, part three
+- [Day 16][day-16] – Project 1, part one
+- [Day 17][day-17] – Project 1, part two
+- [Day 18][day-18] – Project 1, part three
+- [Day 19][day-19] – Challenge day
+- [Day 20][day-20] – Project 2, part one
+- [Day 21][day-21] – Project 2, part two
+- [Day 22][day-22] – Project 2, part three
 - [Day 23][day-23] – Project 3, part one
 - [Day 24][day-24] – Project 3, part two
 
@@ -299,8 +299,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-20]: 20.md
 [day-21]: 21.md
 [day-22]: 22.md
-[day-23]: https://www.hackingwithswift.com/100/swiftui/23
-[day-24]: https://www.hackingwithswift.com/100/swiftui/24
+[day-23]: 23.md
+[day-24]: 24.md
 [day-25]: https://www.hackingwithswift.com/100/swiftui/25
 [day-26]: https://www.hackingwithswift.com/100/swiftui/26
 [day-27]: https://www.hackingwithswift.com/100/swiftui/27
