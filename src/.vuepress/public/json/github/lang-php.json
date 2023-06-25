@@ -59,5 +59,15 @@
     "desc": "Not Quite RARBG's main website.",
     "topics": ["torrent", "torrents", "rarbg"],
     "officialSite": "http://nq-rarbg.to"
+  }, {
+    "repo": "sebastianbergmann/phpunit",
+    "desc": "The PHP Unit Testing framework.",
+    "topics": ["php", "phpunit", "testing-tools"],
+    "officialSite": "https://phpunit.de"
+  }, {
+    "repo": "SemanticMediaWiki/SemanticMediaWiki",
+    "desc": "🔗 Semantic MediaWiki turns MediaWiki into a knowledge management platform with query and export capabilities",
+    "topics": ["emantic", "query", "database", "wiki", "linked-data", "sparql", "rdf", "mediawiki", "collaboration", "semantic-web", "semantic-data", "mediawiki-extension", "semantic-mediawiki", "smw", "knowledge-graph", "lod", "knowledge-management", "result-format", "wiki-database"],
+    "officialSite": "https://www.semantic-mediawiki.org"
   }
 ]

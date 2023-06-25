@@ -1194,5 +1194,20 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "topics": ["template", "ui", "compiler"],
+    "officialSite": "https://svelte.dev"
+  }, {
+    "repo": "eslint/eslint",
+    "desc": "Find and fix problems in your JavaScript code.",
+    "topics": ["javascript", "eslint", "static-code-analysis", "linter", "ecmascript"],
+    "officialSite": "https://eslint.org"
+  }, {
+    "repo": "dosyago/BrowserBoxPro",
+    "desc": "📷 BrowserBoxPro - The internet. But unrestricted. And secure. Remote browser isolation product, available open-source here and for purchase on our website.",
+    "topics": ["security", "chrome", "privacy", "browser", "embeddable", "proxy", "websockets", "proxy-server", "chrome-headless", "browser-automation", "webrtc-video", "rbi", "puppeteer", "viewfinder", "commercial-licenses", "browserview", "remote-browser", "remote-browser-isolation", "internet-isolation", "cobrowsing"],
+    "officialSite": "https://dosyago.com"
   }
 ]

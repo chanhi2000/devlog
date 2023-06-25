@@ -19,6 +19,12 @@ tags: ["sql", "db", "mysql", "shell"]
 
 ---
 
+## Dev.to
+
+- [Awesome SQL Code Review Tools for Developers](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)
+
+---
+
 ## ByteByteGo
 
 - [Understanding Database Types](https://blog.bytebytego.com/p/understanding-database-types)
@@ -56,5 +62,7 @@ tags: ["sql", "db", "mysql", "shell"]
 ## Vlad Mihalcea
 
 - [SQL Operation Order](https://vladmihalcea.com/sql-operation-order)
+
+---
 
 <TagLinks />

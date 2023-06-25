@@ -1763,5 +1763,30 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Stability-AI/generative-models",
+    "desc": "Generative Models by Stability AI",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "topics": ["python", "data-science", "machine-learning", "statistics", "data-analysis"],
+    "officialSite": "https://scikit-learn.org"
+  }, {
+    "repo": "refinedev/refine",
+    "desc": "Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!",
+    "topics": ["react", "javascript", "graphql", "crud", "admin", "typescript", "reactjs", "nextjs", "headless", "admin-dashboard", "admin-ui", "react-framework", "antd", "airtable", "frontend-framework", "ant-design", "low-code", "nestjs", "react-hooks", "low-code-framework"],
+    "officialSite": "https://refine.dev"
+  }, {
+    "repo": "CASIA-IVA-Lab/FastSAM",
+    "desc": "Fast Segment Anything",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "unifyai/ivy",
+    "desc": "Unified AI",
+    "topics": ["python", "template", "machine-learning", "deep-learning", "neural-network", "mxnet", "tensorflow", "gpu", "numpy", "pytorch", "autograd", "abstraction", "ivy", "jax"],
+    "officialSite": "https://unify.ai"
   }
 ]

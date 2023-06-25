@@ -26,6 +26,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## WeAreDevelopers
+
+- [10 Best AI Chrome Extensions for Developers](https://www.wearedevelopers.com/magazine/best-ai-chrome-extensions-for-developers)
+
+---
+
 ## justine
 
 - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting)
@@ -62,5 +68,10 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
-<TagLinks />
+## Muppetlabs, Inc.
 
+[INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
+
+---
+
+<TagLinks />

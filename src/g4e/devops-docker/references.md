@@ -30,6 +30,9 @@ description: 🐋Docker > 📚References
 - [AWS Best practice for Amazon Elastic Kubernetes Service (EKS)](https://medium.com/avmconsulting-blog/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724)
 - [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b)
 - [Deploy web apps (+NGINX) to ECS with Docker](https://stefanofrancavilla.medium.com/deploy-web-apps-nginx-to-ecs-with-docker-580c6af827e8)
+- [7 Best Tracing Tools for Microservices](https://medium.com/cloud-native-daily/7-best-tracing-tools-for-microservices-27a5e3bc4b9c)
+- [Top 11 Tools for Microservices Backend Development in 2023](https://python.plainenglish.io/top-11-tools-for-microservices-backend-development-in-2023-3d9cdd61ef10)
+- [10 Microservice Patterns Software Engineers Should Know](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)
 
 ---
 

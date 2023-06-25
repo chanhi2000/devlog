@@ -34,6 +34,8 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 - [윈도우 작업표시줄에 Bing AI 바로가기 만들기](https://www.clien.net/service/board/lecture/18058345)
 - [윈도우에서 특정장치를 재시작하는 간단한 방법(부제:인텔 랜 I225-V 호환성 해결)](https://www.clien.net/service/board/lecture/17862024)
 - [윈도우에서 맥처럼 키보드 배열 변경하기(캡스락을 한영키로)](https://www.clien.net/service/board/lecture/17832044)
+- [윈도우 계정 프로필 미리 로딩기능 비활성화 방법](https://www.clien.net/service/board/lecture/18057454)
+- [크롬 브라우저의 관리 대상 브라우저 중지하기](https://www.clien.net/service/board/lecture/18045462)
 
 ---
 

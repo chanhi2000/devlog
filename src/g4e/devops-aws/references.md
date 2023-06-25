@@ -13,9 +13,17 @@ tags: ["aws", "amazon", "amazon-web-service"]
 
 ---
 
+## Medium
+
+- [Automate CloudWatch Logs Export to S3 using Lambda and Event Bridge](https://awstip.com/automate-cloudwatch-logs-export-to-s3-using-lambda-and-event-bridge-8748fedadeb9)
+
+---
+
 ## Dev.to
 
 - [A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
+
+---
 
 ## Sentra
 

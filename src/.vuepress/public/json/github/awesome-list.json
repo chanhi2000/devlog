@@ -539,5 +539,10 @@
     "desc": "Interesting APT Report Collection And Some Special IOC",
     "topics": ["security", "apt", "malware", "cybersecurity", "threat-hunting"],
     "officialSite": ""
+  }, {
+    "repo": "emacs-tw/awesome-emacs",
+    "desc": "A community driven list of useful Emacs packages, libraries and other items.",
+    "topics": ["emacs", "awesome-list"],
+    "officialSite": ""
   }
 ]

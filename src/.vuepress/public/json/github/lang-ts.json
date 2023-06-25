@@ -874,5 +874,45 @@
     "desc": "A platform to build useful communities that aim to tackle global problems",
     "topics": ["react", "typescript", "reactjs", "design-system", "climate-impact", "theme-ui"],
     "officialSite": "https://platform.onearmy.earth"
+  }, {
+    "repo": "markmap/markmap",
+    "desc": "Visualize your Markdown as mindmaps with Markmap.",
+    "topics": ["mindmap", "markmap"],
+    "officialSite": "https://markmap.js.org"
+  }, {
+    "repo": "a16z-infra/ai-getting-started",
+    "desc": "A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs",
+    "topics": [],
+    "officialSite": "https://ai-getting-started.com"
+  }, {
+    "repo": "prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "topics": ["nodejs", "javascript", "mysql", "postgres", "mongo", "typescript", "sql-server", "orm", "database", "mongodb", "sqlite", "postgresql", "mariadb", "query-builder", "mssql", "sqlserver", "mongodb-orm", "cockroachdb", "prisma", "prisma-client"],
+    "officialSite": "https://www.prisma.io"
+  }, {
+    "repo": "angular/angular",
+    "desc": "The modern web developer’s platform",
+    "topics": ["javascript", "angular", "typescript", "web-performance", "web", "pwa", "web-framework"],
+    "officialSite": "https://angular.io"
+  }, {
+    "repo": "windingwind/zotero-better-notes",
+    "desc": "Everything about note management. All in Zotero.",
+    "topics": ["plugin", "markdown", "knowledge", "addon", "notes", "zotero", "note", "obsidian", "mindmap", "zotero-plugin", "zotero-addon", "obsidian-md"],
+    "officialSite": ""
+  }, {
+    "repo": "framer/motion",
+    "desc": "Open source, production-ready animation and gesture library for React",
+    "topics": [],
+    "officialSite": "https://framer.com/motion"
+  }, {
+    "repo": "joe-bell/cva",
+    "desc": "Class Variance Authority",
+    "topics": ["css", "classname", "variants", "classnames", "cva", "class-variance-authority"],
+    "officialSite": "https://cva.style"
+  }, {
+    "repo": "radix-ui/primitives",
+    "desc": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+    "topics": ["react", "design-systems", "ui", "accessibility", "colors", "ui-kit", "component-library", "ui-components", "radix-ui"],
+    "officialSite": "https://radix-ui.com"
   }
 ]

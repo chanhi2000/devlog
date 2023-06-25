@@ -58,4 +58,10 @@ tags: ["go", "golang"]
 
 ---
 
+## Xeiaso
+
+- [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
+
+---
+
 <TagLinks />

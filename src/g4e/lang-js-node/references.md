@@ -136,6 +136,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
 - [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
+- [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
 
 ---
 

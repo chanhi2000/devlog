@@ -799,6 +799,19 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/freecodecamp-gitlab-ci/5.md',
       ]
     }, {
+      text: '🎨Colt Steele - Mastering CSS Grid',
+      collapsible: true,
+      children: [
+        '/crashcourse/colt-steele-mastering-css-grid/README.md',
+        '/crashcourse/colt-steele-mastering-css-grid/01-css-grid-basics',
+        '/crashcourse/colt-steele-mastering-css-grid/02-units-and-utilities',
+        '/crashcourse/colt-steele-mastering-css-grid/03-positioning-elements-by-lines',
+        '/crashcourse/colt-steele-mastering-css-grid/04-grid-areas',
+        '/crashcourse/colt-steele-mastering-css-grid/05-the-implicit-grid',
+        '/crashcourse/colt-steele-mastering-css-grid/06-creating-responsive-grids',
+        '/crashcourse/colt-steele-mastering-css-grid/07-building-an-example-layout',
+      ]
+    }, {
       text: '🦀freecodecamp.org - Rust by Practice',
       collapsible: true,
       children: [

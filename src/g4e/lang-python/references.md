@@ -36,6 +36,18 @@ description: 🐍Python > 📚References
 
 ---
 
+## DZone
+
+- [Enterprises Must Utilize Python for Developing ERP Testing Processes](https://dzone.com/articles/enterprises-must-utilize-python-for-developing-erp)
+
+---
+
+## Clien
+
+- [파이썬으로 기존에 열려 있는 아래아한글 프로그램을 제어하는 방법](https://www.clien.net/service/board/lecture/17988014)
+
+---
+
 ## Simon Willson's TILs
 
 - [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama)

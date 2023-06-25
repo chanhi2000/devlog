@@ -424,6 +424,11 @@
     "desc": "☝️send desktop notifications from your Rust app.",
     "topics": ["macos", "linux", "desktop-notifications", "xdg", "convenience"],
     "officialSite": ""
+  }, {
+    "repo": "joamag/boytacean",
+    "desc": "A GB emulator that is written in Rust 🦀!",
+    "topics": ["emulator", "rust", "gameboy", "gameboy-emulator", "wasm"],
+    "officialSite": "https://boytacean.joao.me"
   }
 ]
 

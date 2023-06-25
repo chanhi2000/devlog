@@ -169,5 +169,15 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "MustardChef/WSABuilds",
+    "desc": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.",
+    "topics": ["android", "windows", "google-apps", "windows-10", "windows10", "android-emulator", "subsystem", "magisk", "windows-11", "windows-subsystem-for-android", "windows-subsystem-android", "windowssubsystemforandroid", "magiskonwsa", "kernelsu", "magiskonwsalocal", "wsapatch"],
+    "officialSite": ""
+  }, {
+    "repo": "binpash/try",
+    "desc": "\"Do, or do not. There is no try.\" We're setting out to change that.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

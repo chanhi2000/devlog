@@ -32,7 +32,8 @@ tags: ["macos", "settings"]
 - [맥프로 5.1 RX580 부팅화면 성공기](https://www.clien.net/service/board/lecture/18057128)
 - [맥북 ' 백그라운드 허용 ' 무한 알림증상 해결](https://www.clien.net/service/board/lecture/17923263)
 - [macOS Ventura에서 QHD 모니터에 HiDPI 설정하기 (feat. LG 16MR70)](https://www.clien.net/service/board/lecture/17878979)
-
+- [VMware Fusion을 이용하여 Mac Arm CPU에서 Windows 11 ARM 설치하기](https://www.clien.net/service/board/lecture/18102257)
+- [Mac Arm CPU에서 WMware - Win11 ARM(가상) 활용방법(파일공유, 외부장치 연결 등)](https://www.clien.net/service/board/lecture/18105821)
 ---
 
 ## Environment Setup

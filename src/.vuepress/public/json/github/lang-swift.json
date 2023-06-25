@@ -200,11 +200,6 @@
     "topics": ["macos", "mac", "gui", "daemon", "wifi", "ethernet", "wlan", "spoof", "mac-address", "thunderbolt"],
     "officialSite": "http://halo.github.io/LinkLiar"
   }, {
-    "repo": "grishka/NearDrop",
-    "desc": "An unofficial Google Nearby Share app for macOS",
-    "topics": [],
-    "officialSite": ""
-  }, {
     "repo": "Snapkit/Snapkit",
     "desc": "A Swift Autolayout DSL for iOS & OS X",
     "topics": ["swift", "ui", "xcode", "dsl", "layout", "cocoapods", "constraints", "snapkit", "autolayout", "auto"],

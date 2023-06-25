@@ -309,6 +309,11 @@
     "desc": "Spring Boot ChatGPT Starter",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "chat2db/Chat2DB",
+    "desc": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
+    "topics": ["mysql", "redis", "ai", "postgresql", "oracle", "dbeaver", "gpt", "h2", "sqlserver", "navicat", "datagrip", "chatgpt"],
+    "officialSite": "https://chat2db.opensource.alibaba.com"
   }
 ]
 
