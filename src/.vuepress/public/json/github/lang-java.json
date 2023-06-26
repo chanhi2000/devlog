@@ -314,6 +314,16 @@
     "desc": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
     "topics": ["mysql", "redis", "ai", "postgresql", "oracle", "dbeaver", "gpt", "h2", "sqlserver", "navicat", "datagrip", "chatgpt"],
     "officialSite": "https://chat2db.opensource.alibaba.com"
+  }, {
+    "repo": "nayuki/QR-Code-generator",
+    "desc": "High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",
+    "topics": ["javascript", "python", "c", "java", "rust", "c-plus-plus", "library", "typescript", "qr-code", "qr-generator", "qr"],
+    "officialSite": "https://www.nayuki.io/page/qr-code-generator-library"
+  }, {
+    "repo": "milkcoke/java-gRPC-practice",
+    "desc": "This is practicce for gRPC Java + SpringBoot",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "gamefromscratch",
+    "name": "Gamefromscratch",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOtECHYiV_q3rGUINT219SBxKHZGDz9Iw8O_dWC7g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/e_wvMIJ3UE9tM0uYL73OYuqVRfTEc-6XLaizO9CY61yNDuECbW-T1jyYBUWQ_bUGphi3DRndVA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "RHO42FIkJtQ",
+      "title": "miniGDX -- New Kotlin Game Engine"
+    }
+  ]
+}

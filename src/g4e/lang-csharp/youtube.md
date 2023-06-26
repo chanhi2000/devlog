@@ -149,6 +149,22 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Code With Steve
+
+<MyYouTubeItems jsonName="yu-CodeWithSteve" />
+
+<!-- Code With Steve -->
+
+---
+
+## DotVVM
+
+<MyYouTubeItems jsonName="yu-DotVVM" />
+
+<!-- DotVVM -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

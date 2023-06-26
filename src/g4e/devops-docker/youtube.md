@@ -126,15 +126,12 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Noted
+
+<MyYouTubeItems jsonName="yu-selfhosted" />
+
+<!-- Noted -->
+
+---
+
 <TagLinks />
-
-[yu-MarcelDempers]: https://www.youtube.com/@MarcelDempers
-[yu-kode-kloud]: https://www.youtube.com/@KodeKloud
-[yu-network-chuck]: https://www.youtube.com/@NetworkChuck
-[yu-db-tech]: https://www.youtube.com/@DBTechYT
-[yu-elton-stoneman]: https://www.youtube.com/@EltonStoneman
-[yu-virtualization-how-to]: https://www.youtube.com/@VirtualizationHowto
-[yu-bitovi]: https://www.youtube.com/@Bitovi
-[yu-linode]: https://www.youtube.com/@linode
-[yu-vdespa]: https://www.youtube.com/@vdespa
-

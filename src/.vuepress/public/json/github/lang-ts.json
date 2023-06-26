@@ -914,5 +914,25 @@
     "desc": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
     "topics": ["react", "design-systems", "ui", "accessibility", "colors", "ui-kit", "component-library", "ui-components", "radix-ui"],
     "officialSite": "https://radix-ui.com"
+  }, {
+    "repo": "sadmann7/skateshop",
+    "desc": "An open source e-commerce skateshop build with everything new in Next.js 13.",
+    "topics": [],
+    "officialSite": "https://skateshop13.vercel.app"
+  }, {
+    "repo": "devfullcycle/imersao13",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "xitanggg/open-resume",
+    "desc": "OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/",
+    "topics": ["resume", "resume-parser", "resume-builder"],
+    "officialSite": "https://open-resume.com"
+  }, {
+    "repo": "formkit/auto-animate",
+    "desc": "A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.",
+    "topics": ["react", "javascript", "ui", "vue", "animation"],
+    "officialSite": "https://auto-animate.formkit.com"
   }
 ]

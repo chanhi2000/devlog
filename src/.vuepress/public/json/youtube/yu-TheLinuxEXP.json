@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "TheLinuxEXP",
+    "name": "The Linux Experiment",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNGLy645LbRXqj20JAnbfQd2Lj1dwHk893_WRs8Ug=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Lc1dH-nj6nvU63AH85SPgoLd2oba4zA41zNbZSWg81PN_zl1mgC_eiL3DbJJPb7b_nS7FarUTYE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "9HuExVD56Bo",
+      "title": "Flatpak vs Snaps vs Appimage vs Packages - Linux packaging formats compared"
+    }, {
+      "id": "DeLkPS4hsnw",
+      "title": "Using Linux At Work - Applications I Use"
+    }
+  ]
+}

@@ -238,6 +238,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Leigh Halliday
+
+<MyYouTubeItems jsonName="yu-leighhalliday" />
+
+<!-- Leigh Halliday -->
+
+---
+
 ## Monsterlessons Academy
 
 <MyYouTubeItems jsonName="yu-MonsterlessonsAcademy" />
@@ -1074,6 +1082,23 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- ScreenCasts -->
 
 ---
+
+## 옥탑방개발자
+
+<MyYouTubeItems jsonName="yu-jj362choi" />
+
+<!-- 옥탑방개발자 -->
+
+---
+
+## Alexandru Gutan
+
+<MyYouTubeItems jsonName="yu-alexandrugutan7587" />
+
+<!-- Alexandru Gutan -->
+
+---
+
 ## Misc
 
 

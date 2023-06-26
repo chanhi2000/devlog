@@ -364,6 +364,16 @@
     "desc": "mawww's experiment for a better code editor",
     "topics": ["vim", "c-plus-plus", "kakoune", "text-editor", "console-application", "modal-editing"],
     "officialSite": "http://kakoune.org"
+  }, {
+    "repo": "milostosic/MTuner",
+    "desc": "MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms",
+    "topics": ["tool", "memory", "optimization", "performance-analysis", "memory-profiler", "profiling", "playstation3", "memory-leak-finder", "playstation4"],
+    "officialSite": ""
+  }, {
+    "repo": "TeamHypersomnia/Hypersomnia",
+    "desc": "Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!",
+    "topics": ["game", "c-plus-plus", "gamedev", "cpp", "multiplayer", "pixel-art", "game-development", "free-software", "shooter", "multiplayer-game", "2d-game", "shooter-game", "pixelart", "top-down-shooter", "pixelart-game", "top-down-game", "indie-game"],
+    "officialSite": "https://hypersomnia.xyz"
   }
 ]
 

@@ -220,6 +220,14 @@ meta:
 
 ---
 
+## Infybuzz
+
+<MyYouTubeItems jsonName="yu-infybuzz" />
+
+<!-- Infybuzz -->
+
+---
+
 ## Java
 
 <MyYouTubeItems jsonName="yu-java" />
@@ -509,6 +517,35 @@ meta:
 
 ---
 
+## 옥탑방개발자
+
+<MyYouTubeItems jsonName="yu-jj362choi" />
+
+<!-- 옥탑방개발자 -->
+
+---
+
+## Kotlin Hyderabad
+
+<MyYouTubeItems jsonName="yu-KotlinHyderabad" />
+
+<!-- Kotlin Hyderabad -->
+
+---
+
+## Gamefromscratch
+
+<MyYouTubeItems jsonName="yu-gamefromscratch" />
+
+<!-- Gamefromscratch -->
+
+---
+
+## JavaInUse
+
+<MyYouTubeItems jsonName="yu-JavaInUse" />
+
+<!-- JavaInUse -->
 ## Misc
 
 

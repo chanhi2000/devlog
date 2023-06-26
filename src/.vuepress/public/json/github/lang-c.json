@@ -239,6 +239,15 @@
     "desc": "Low-cost LS/FS/HS USB sniffer with Wireshark interface",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "flowdriveai/flowpilot",
+    "desc": "flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.",
+    "topics": [],
+    "officialSite": ""
   }
 ]
-

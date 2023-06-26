@@ -123,7 +123,7 @@ Now that you’ve mastered the basics of Swift, in these days you’ll start bui
 - [Day 23][day-23] – Project 3, part one
 - [Day 24][day-24] – Project 3, part two
 
-### Day 25: Consolidation II
+### ✅Day 25: Consolidation II
 
 In the last few days we covered some of the fundamentals of iOS development, and before we move on to the next set of projects it’s important to take a step back and review what you’ve learned.
 
@@ -301,7 +301,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-22]: 22.md
 [day-23]: 23.md
 [day-24]: 24.md
-[day-25]: https://www.hackingwithswift.com/100/swiftui/25
+[day-25]: 25.md
 [day-26]: https://www.hackingwithswift.com/100/swiftui/26
 [day-27]: https://www.hackingwithswift.com/100/swiftui/27
 [day-28]: https://www.hackingwithswift.com/100/swiftui/28

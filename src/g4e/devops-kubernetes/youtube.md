@@ -36,7 +36,6 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
-
 ## Daniel Oh
 
 <MyYouTubeItems jsonName="yu-danieloh30" />
@@ -103,9 +102,18 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ## DevOps Korea
 
+<MyYouTubeItems jsonName="yu-devopskorea4426" />
+
 <!-- DevOps Korea -->
 
 ---
 
+## Alexandru Gutan
+
+<MyYouTubeItems jsonName="yu-alexandrugutan7587" />
+
+<!-- Alexandru Gutan -->
+
+---
 
 <TagLinks />

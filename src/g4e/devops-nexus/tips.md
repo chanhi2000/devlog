@@ -56,7 +56,7 @@ curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/
 @tab cmd
 
 ```batch
-curl -v -u admin:admin123 "http://10.60.175.90:9880/nexus/service/local/artifact/maven/content" ^
+curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/local/artifact/maven/content" ^
     -F r=thirdparty -F hasPom=false -F e=jar -F p=jar ^
     -F g=org.jetbrains.kotlin -F a=kotlin-util-klib-metadata -F v=1.7.20 ^
     -F file=@kotlin-util-klib-metadata-1.7.20.jar

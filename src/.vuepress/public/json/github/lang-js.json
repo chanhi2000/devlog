@@ -1209,5 +1209,10 @@
     "desc": "📷 BrowserBoxPro - The internet. But unrestricted. And secure. Remote browser isolation product, available open-source here and for purchase on our website.",
     "topics": ["security", "chrome", "privacy", "browser", "embeddable", "proxy", "websockets", "proxy-server", "chrome-headless", "browser-automation", "webrtc-video", "rbi", "puppeteer", "viewfinder", "commercial-licenses", "browserview", "remote-browser", "remote-browser-isolation", "internet-isolation", "cobrowsing"],
     "officialSite": "https://dosyago.com"
+  }, {
+    "repo": "xavi-/node-copy-paste",
+    "desc": "A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

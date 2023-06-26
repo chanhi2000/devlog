@@ -406,6 +406,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## The Linux Experiment
+
+<MyYouTubeItems jsonName="yu-TheLinuxEXP" />
+
+<!-- The Linux Experiment -->
+
+---
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech

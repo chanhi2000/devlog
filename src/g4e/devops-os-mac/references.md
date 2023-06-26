@@ -57,6 +57,18 @@ tags: ["macos", "settings"]
 
 ---
 
+## Term7
+
+- [Kill Siri](https://term7.info/kill-siri)
+
+---
+
+## Electronics etc...
+
+- [ThinMachine - a $25 Thin Client MacOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

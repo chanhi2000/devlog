@@ -1788,5 +1788,40 @@
     "desc": "Unified AI",
     "topics": ["python", "template", "machine-learning", "deep-learning", "neural-network", "mxnet", "tensorflow", "gpu", "numpy", "pytorch", "autograd", "abstraction", "ivy", "jax"],
     "officialSite": "https://unify.ai"
+  }, {
+    "repo": "SkalskiP/top-cvpr-2023-papers",
+    "desc": "This repository is a curated collection of the most exciting and influential CVPR 2023 papers. 🔥 [Paper + Code]",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "embedchain/embedchain",
+    "desc": "Framework to easily create LLM powered bots over any dataset.",
+    "topics": ["ai", "chatbot", "llm", "chatgpt"],
+    "officialSite": "https://twitter.com/taranjeetio/status/1671539269775634437"
+  }, {
+    "repo": "ramonvc/freegpt-webui",
+    "desc": "GPT 3.5/4 with a Chat Web UI. No API key required.",
+    "topics": ["website", "jailbreak", "language-model", "gpt3", "gpt-4", "gpt4", "apifree", "chatgpt", "chatgpt-api", "chatgpt-clone", "gpt3-turbo", "gpt-4-api", "gpt4all", "gpt3-api", "gpt-interface", "freegpt4", "freegpt", "gptfree", "gpt-free", "gpt-4-free"],
+    "officialSite": "https://chat.ramxn.dev/"
+  }, {
+    "repo": "xtekky/gpt4free",
+    "desc": "The official gpt4free repository | various collection of powerful language models",
+    "topics": ["python", "chatbot", "reverse-engineering", "openai", "chatbots", "gpt", "language-model", "gpt-3", "gpt3", "openai-api", "gpt-4", "gpt4", "chatgpt", "chatgpt-api", "openai-chatgpt", "chatgpt-free", "chatgpt-4", "chatgpt4", "gpt4-api", "free-gpt"],
+    "officialSite": "https://discord.gg/gpt4free"
+  }, {
+    "repo": "Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "topics": ["python", "bot", "discord", "discord-bot", "discord-api", "discord-py", "python-3"],
+    "officialSite": "http://discordpy.rtfd.org/en/latest"
+  }, {
+    "repo": "OpenDriveLab/UniAD",
+    "desc": "[CVPR 2023 Best Paper] Planning-oriented Autonomous Driving",
+    "topics": ["motion-planning", "autonomous-driving", "multi-object-tracking", "occupancy-prediction", "motion-prediction", "autonomous-driving-framework", "end-to-end-autonomous-driving", "perception-prediction-planning", "bev-segmentation"],
+    "officialSite": "https://opendrivelab.github.io/UniAD"
+  }, {
+    "repo": "XingangPan/DragGAN",
+    "desc": "Official Code for DragGAN (SIGGRAPH 2023)",
+    "topics": ["artificial-intelligence", "generative-adversarial-network", "image-manipulation", "generative-models"],
+    "officialSite": "https://vcai.mpi-inf.mpg.de/projects/DragGAN"
   }
 ]
