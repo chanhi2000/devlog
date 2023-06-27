@@ -420,9 +420,17 @@ tags: ["education", "youtube", "programming", "js", "node"]
 ## Tricknology
 
 <MyYouTubeItems jsonName="yu-Tricknology" />
-:::
+
 
 <!-- Tricknology -->
+
+---
+
+## codeSTACKr
+
+<MyYouTubeItems jsonName="yu-codeSTACKr" />
+
+<!-- codeSTACKr -->
 
 ---
 
@@ -843,6 +851,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## 코지 코더 Kossie Coder
+
+<MyYouTubeItems jsonName="yu-kossiecoder" />
+
+<!-- 코지 코더 Kossie Coder -->
+
+---
+
 ## 5분개발지식
 
 <MyYouTubeItems jsonName="yu-user-sq7il2ir1e" />
@@ -1035,6 +1051,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## FEConf Korea
+
+<MyYouTubeItems jsonName="yu-feconfkorea" />
+
+<!-- FEConf Korea -->
+
+---
+
 ## arahansa me
 
 <MyYouTubeItems jsonName="yu-arahansame9320" />
@@ -1099,19 +1123,24 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Tim Ermilov
+
+<MyYouTubeItems jsonName="yu-TimErmilov" />
+
+<!-- Tim Ermilov -->
+
+---
+
 ## Misc
 
-
-<YoutubeItem channelName="Tim Ermilov" channelId="TimErmilov" id="txjFB0Z0prU" title="Building products with javascript - Part 6 - Docker and Gitlab CI" />
 <YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />
 
-<!-- [Tim Ermilov][yu-tim-ermilov] -->
 <!-- [Daniel Bark][yu-danielbark] -->
 
 <TagLinks />
 
 <!-- Misc -->
-[yu-tim-ermilov]: https://www.youtube.com/@TimErmilov
+
 [yu-danielbark]: https://www.youtube.com/@danielbark
 
 

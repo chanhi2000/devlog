@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "ProgrammingTechie",
+    "name": "Programming Techie",
+    "profile": "https://yt3.googleusercontent.com/REoLnD5_ePbMV2zm37m8oBBo2UJrPDEWlCJY7aXiiEH8JPoYER8dSGIi3FtWwiwllEemqwdmEw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5fQ3BvZN3HIuqPu5Seis3NPscQK-zlEdkDUkPKcV5ArNSgixJ40JRZrWkFbLmdGDC17HSTlhjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "mPPhcU7oWDU",
+      "title": "Spring Boot Microservice Project Full Course in 6 Hours 🔥🔥🔥"
+    }
+  ]
+}

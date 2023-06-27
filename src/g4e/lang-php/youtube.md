@@ -13,6 +13,14 @@ tags: ["education", "youtube", "programming", "php", "laravel"]
 
 ---
 
+## The Codeholic
+
+<MyYouTubeItems jsonName="yu-TheCodeholic" />
+
+<!-- The Codeholic -->
+
+---
+
 ## Laravel Daily
 
 <MyYouTubeItems jsonName="yu-LaravelDaily" />

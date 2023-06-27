@@ -85,6 +85,30 @@ tags: ["macos", "settings"]
 
 ---
 
+## iBoff RCC
+
+<MyYouTubeItems jsonName="yu-iBoffRCC" />
+
+<!-- iBoff RCC -->
+
+---
+
+## Eric Parker
+
+<MyYouTubeItems jsonName="yu-EricParker" />
+
+<!-- Eric Parker -->
+
+---
+
+## Mac Sound Solutions inc.
+
+<MyYouTubeItems jsonName="yu-MacSoundSolutions" />
+
+<!-- Mac Sound Solutions inc. -->
+
+---
+
 ## Misc
 
 ---

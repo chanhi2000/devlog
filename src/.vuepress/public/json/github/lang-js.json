@@ -241,8 +241,8 @@
     "officialSite": "https://photoshot.app"
   }, {
     "repo": "lensterxyz/lenster",
-    "desc": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
-    "topics": [],
+    "desc": "Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+    "topics": ["react", "graphql", "social-media", "typescript", "nextjs", "dapp", "ipfs", "blockchain", "polygon", "web3", "hacktoberfest", "tailwindcss", "arweave", "playwright", "turborepo", "wagmi", "lens-protocol"],
     "officialSite": "https://lenster.xyz"
   }, {
     "repo": "directus/directus",
@@ -1214,5 +1214,10 @@
     "desc": "A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "topics": ["docs", "hacktoberfest", "works-with-codespaces"],
+    "officialSite": "https://docs.github.com"
   }
 ]

@@ -19,4 +19,10 @@ tags: ["ruby", "programming"]
 
 ---
 
+## RailsNotes
+
+- [Your first Stimulus Controller — Learn Stimulus in Ruby on Rails by building a toggle — a beginners guide.](https://railsnotes.xyz/blog/your-first-stimulus-controller-learn-stimulus-ruby-on-rails-by-building-a-toggle-beginners-guide)
+
+---
+
 <TagLinks />

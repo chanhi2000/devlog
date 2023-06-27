@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "storware",
+    "name": "Storware",
+    "profile": "https://yt3.googleusercontent.com/dHfRE3BOuHaQMpTxO_5Ci1_Wjdgml6WE6Kq0PZ_hV3Jrb3VKwYiLEE_eWx0jW-Wb9e4Syu48=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/W4ZYN1RQk3DvGpRSa88HYKeGUAunfasUsfnwUnVmRZ1z2bbBzl4QBzC6sCQ2dX84O3JfCEP0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "Pl_Zn0P5C6k",
+      "title": "oVirt and its capabilities - tutorial. Deployment and configuration."
+    }
+  ]
+}

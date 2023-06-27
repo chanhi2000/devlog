@@ -77,4 +77,12 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ---
 
+## Bran van der Meer
+
+<MyYouTubeItems jsonName="yu-branvandermeer" />
+
+<!-- Bran van der Meer -->
+
+---
+
 <TagLinks />

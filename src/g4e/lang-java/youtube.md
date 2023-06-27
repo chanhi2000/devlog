@@ -285,6 +285,14 @@ meta:
 
 ---
 
+## Codepur
+
+<MyYouTubeItems jsonName="yu-HelloCodepur" />
+
+<!-- Codepur -->
+
+---
+
 ## Selenium Express
 
 <MyYouTubeItems jsonName="yu-SeleniumExpress" />
@@ -541,11 +549,38 @@ meta:
 
 ---
 
+## Giuseppe Scaramuzzino
+
+<MyYouTubeItems jsonName="yu-GiuseppeScaramuzzino" />
+
+<!-- Giuseppe Scaramuzzino -->
+
+---
+
 ## JavaInUse
 
 <MyYouTubeItems jsonName="yu-JavaInUse" />
 
 <!-- JavaInUse -->
+
+---
+
+## Programming Techie
+
+<MyYouTubeItems jsonName="yu-ProgrammingTechie" />
+
+<!-- Programming Techie -->
+
+---
+
+## Touchlab
+
+<MyYouTubeItems jsonName="yu-Touchlab" />
+
+<!-- Touchlab -->
+
+---
+
 ## Misc
 
 

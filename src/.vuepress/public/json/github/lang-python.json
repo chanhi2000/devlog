@@ -1823,5 +1823,15 @@
     "desc": "Official Code for DragGAN (SIGGRAPH 2023)",
     "topics": ["artificial-intelligence", "generative-adversarial-network", "image-manipulation", "generative-models"],
     "officialSite": "https://vcai.mpi-inf.mpg.de/projects/DragGAN"
+  }, {
+    "repo": "SizheAn/PanoHead",
+    "desc": "Code Repository for CVPR 2023 Paper \"PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree\"",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "eyurtsev/kor",
+    "desc": "LLM(😽)",
+    "topics": ["natural-language-processing", "natural-language", "information-extraction", "natural-language-understanding", "llm"],
+    "officialSite": "https://eyurtsev.github.io/kor"
   }
 ]

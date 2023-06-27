@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "DavesGarage",
+    "name": "Dave's Garage",
+    "profile": "https://yt3.googleusercontent.com/5L93CQxZo-_EhDIqIG6KdRMkJ2YBYpusQ8gL3awif3JmRLEJJYPM2bP7M-8TGcfnN2GyVlOWC2w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KsBgdgUo4NHiy-Bu0S8jB8l8yhOLgutuWberlDXRuDHLzl25MQrdUhBfL0R16vaR99oCBlqmOg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "2bVhyB7Av8s",
+      "title": "Coding Graphics in C: SetPixel, LineDraw, Moire and More!"
+    }
+  ]
+}

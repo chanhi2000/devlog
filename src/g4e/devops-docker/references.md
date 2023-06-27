@@ -123,6 +123,22 @@ description: 🐋Docker > 📚References
 
 ---
 
+## Akash Rajpurohit
+
+- [Build Your Own Docker with Linux Namespaces, cgroups, and chroot: Hands-on Guide](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide)
+
+<!-- Akash Rajpurohit -->
+
+---
+
+## Atomic Spin
+
+- [Working with Docker Containers Made Easy with the dexec Bash Script](https://spin.atomicobject.com/2023/06/26/dexec-docker)
+
+<!-- Atomic Spin -->
+
+---
+
 ## Misc
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)

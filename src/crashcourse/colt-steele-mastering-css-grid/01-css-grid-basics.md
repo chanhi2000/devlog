@@ -455,6 +455,68 @@ color: rgba(225, 176, 102, 0.2)
 
 <!-- https://stream.mux.com/sJ6s00mktrrm010266hWFBLgOWHBOTzegXVdG4CcOxO0101c.m3u8?redundant_streams=true -->
 
+The `grid-template-rows` property is used to set up the rows in a grid container.
+
+This property is set on the parent container, not on the individual elements in the grid.
+
+### Example
+
+To start, let's work with three boxes and set up the `grid-template-rows`:
+
+```css
+#container {
+  margin: 0 auto;
+  width: 1000px;
+  height: 1000px;
+  border: 4px solid black;
+
+  /* GRID STUFF BELOW THIS LINE */
+  display: grid;
+  grid-template-rows: 200px 200px 200px;
+}
+```
+
+Here, we have set up three rows with a height of 200 pixels each:
+
+![screenhot](https://res.cloudinary.com/dwppkb069/image/upload/v1684351359/tutorials/images-04_grid_template_rows.mp4/04_grid_template_rows_5_00-59100-and-there-we-are-now--my-container-is-a-thousand-pixels-tall_rxuhih.png)
+
+Because the container is 1000 pixels tall, there will be some unused space.
+
+We can adjust the middle row to be 500 pixels tall:
+
+```css
+.container {
+  display: grid;
+  grid-template-rows: 200px 500px 200px;
+}
+```
+
+![value grid template](https://res.cloudinary.com/dwppkb069/image/upload/v1684351359/tutorials/images-04_grid_template_rows.mp4/04_grid_template_rows_8_01-13400-and-there-we-are-ok--so-if-i-added-another-value-in-here--like-a-100-pixel-row--we-wont-see-anything_hcfcoy.png)
+
+If we add another row with 100 pixels, we will have to add another box in the HTML to fill the added row:
+
+```css
+.container {
+  display: grid;
+  grid-template-rows: 200px 500px 200px 100px;
+}
+```
+
+![grid template rows](https://res.cloudinary.com/dwppkb069/image/upload/v1684351361/tutorials/images-04_grid_template_rows.mp4/04_grid_template_rows_13_01-38000-it-fills-in-that-100-pixel-row_zufk7i.png)
+
+Let's try specifying two rows with a height of 400 pixels, even though we have multiple elements inside the container:
+
+```css
+.container {
+  display: grid;
+  grid-template-rows: 400px 400px;
+}
+```
+
+In this case the first two elements will fill the 400-pixel tall rows, and the remaining elements will try to fit into the remaining space. If there's not room, the items might overflow:
+
+![behavior screen](https://res.cloudinary.com/dwppkb069/image/upload/v1684351360/tutorials/images-04_grid_template_rows.mp4/04_grid_template_rows_22_02-35100-there-are-ways-to-tweak-this-behavior-but-for-now--with-what-we-know--this-is-the-behavior-we-get_tkbjdf.png)
+
 ---
 
 ## 06. Adjust Row Heights in an Existing Layout

@@ -53,4 +53,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---    
 
+## Goran Vasić
+
+<MyYouTubeItems jsonName="yu-gorandev" />
+
+<!-- Goran Vasić -->
+
+---
+
 <TagLinks />

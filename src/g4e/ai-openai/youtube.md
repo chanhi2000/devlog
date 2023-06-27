@@ -146,4 +146,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Corey Schafer
+
+<MyYouTubeItems jsonName="yu-coreyms" />
+
+<!-- Corey Schafer -->
+
+---
+
 <TagLinks />

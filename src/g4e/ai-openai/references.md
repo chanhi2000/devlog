@@ -70,7 +70,13 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ## Muppetlabs, Inc.
 
-[INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
+- [INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
+
+---
+
+## Lil'Log
+
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)
 
 ---
 

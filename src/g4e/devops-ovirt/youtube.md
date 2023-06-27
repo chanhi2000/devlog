@@ -23,20 +23,10 @@ tags: ["bash", "sh"]
 
 ## Storware
 
-[Storware][yu-storware]
-
-::: details 목록
-
-<YoutubeItem channelName="Storware" channelId="Storware" id="Pl_Zn0P5C6k" title="oVirt and its capabilities - tutorial. Deployment and configuration.
-" />
-
-:::
+<MyYouTubeItems jsonName="yu-storware" />
 
 <!-- Storware -->
 
 ---
 
 <TagLinks />
-
-[yu-storware]: https://www.youtube.com/@Storware
-

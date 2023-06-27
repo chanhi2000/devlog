@@ -47,5 +47,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 
+---
+
+## Determinate Systems
+
+- [Introducing the Magic Nix Cache](https://determinate.systems/posts/magic-nix-cache)
+
+---
 
 <TagLinks />

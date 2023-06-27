@@ -176,8 +176,8 @@
     "officialSite": ""
   }, {
     "repo": "binpash/try",
-    "desc": "\"Do, or do not. There is no try.\" We're setting out to change that.",
-    "topics": [],
+    "desc": "\"Do, or do not. There is no try.\" We're setting out to change that: `try cmd` and commit---or not.",
+    "topics": ["shell", "administration", "tools", "containers", "virtualization"],
     "officialSite": ""
   }
 ]

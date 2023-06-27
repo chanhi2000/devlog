@@ -134,7 +134,7 @@ In the last few days we covered some of the fundamentals of iOS development, and
 
 In these next three projects we’re going to develop your SwiftUI skills in new directions, while also giving you chance to practice the fundamentals.
 
-- [Day 26][day-26] – Project 4, part one
+- [Day 26][day-26] – ✅Project 4, part one
 - [Day 27][day-27] – Project 4, part two
 - [Day 28][day-28] – Project 4, part three
 - [Day 29][day-29] – Project 5, part one
@@ -302,7 +302,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-23]: 23.md
 [day-24]: 24.md
 [day-25]: 25.md
-[day-26]: https://www.hackingwithswift.com/100/swiftui/26
+[day-26]: 26.md
 [day-27]: https://www.hackingwithswift.com/100/swiftui/27
 [day-28]: https://www.hackingwithswift.com/100/swiftui/28
 [day-29]: https://www.hackingwithswift.com/100/swiftui/29

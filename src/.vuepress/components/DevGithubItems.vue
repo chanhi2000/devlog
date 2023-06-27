@@ -103,7 +103,7 @@ export default {
       ].map((e) => `/json/github/lang-${e}-tut.json`);
 
       let jsonFullPathsOther = [
-        "awesome-list", "tutorial-basic", "tutorial-devops", "career-info", "portfolio"
+        "awesome-list", "tutorial-basic", "tutorial-devops", "career-info", "portfolio", "free-books"
       ].map((e) => `/json/github/${e}.json`)
       
 

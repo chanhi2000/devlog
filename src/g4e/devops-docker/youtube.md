@@ -29,6 +29,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Giuseppe Scaramuzzino
+
+<MyYouTubeItems jsonName="yu-GiuseppeScaramuzzino" />
+
+<!-- Giuseppe Scaramuzzino -->
+
+---
+
 ## NetworkChuck
 
 <MyYouTubeItems jsonName="yu-NetworkChuck" />
@@ -131,6 +139,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-selfhosted" />
 
 <!-- Noted -->
+
+---
+
+## Pelado Nerd
+
+<MyYouTubeItems jsonName="yu-PeladoNerd" />
+
+<!-- Pelado Nerd -->
 
 ---
 
