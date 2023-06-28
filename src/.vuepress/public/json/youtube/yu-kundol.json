@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "kundol",
+    "name": "큰돌의터전",
+    "profile": "https://yt3.googleusercontent.com/K8lEhsNr0qJudZAZ4fyAAtN7ZUk7EcS4LK8PdwyvUGMu5-JRHLUYWHwpBKitOF1vvVtTDn9XfvU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iMHGMGwmtK06qKBIx5fgsdq7Sn7XOPuj6_jcD_TxVag4eCva3bXiK-KrnuJD_-p9HHGQbq4xd98=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "Qi2LJ_NfzC0",
+      "title": "제대로 이해하는 JSON | 개발자필수지식"
+    }, {
+      "id": "DBXEWJx2mIw",
+      "title": "구현 문제 잘 푸는 팁 | 2023 네이버 코딩테스트 분석"
+    }
+  ]
+}

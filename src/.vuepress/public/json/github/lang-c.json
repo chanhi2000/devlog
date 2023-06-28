@@ -249,5 +249,15 @@
     "desc": "flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "tinycorelinux/tinyx",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "OpenRC/openrc",
+    "desc": "The OpenRC init system",
+    "topics": [],
+    "officialSite": ""
   }
 ]

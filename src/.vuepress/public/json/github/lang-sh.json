@@ -179,5 +179,10 @@
     "desc": "\"Do, or do not. There is no try.\" We're setting out to change that: `try cmd` and commit---or not.",
     "topics": ["shell", "administration", "tools", "containers", "virtualization"],
     "officialSite": ""
+  }, {
+    "repo": "getlago/lago",
+    "desc": "Open Source Metering and Usage Based Billing",
+    "topics": ["invoices", "invoicing", "payments", "pricing", "fintech", "billing", "subscriptions", "metering", "lago", "usage-based-billing"],
+    "officialSite": "https://www.getlago.com"
   }
 ]

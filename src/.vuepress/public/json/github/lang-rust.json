@@ -127,7 +127,7 @@
   }, {
     "repo": "AleoHQ/snarkOS",
     "desc": "A Decentralized Operating System for ZK Applications",
-    "topics": [],
+    "topics": ["rust", "cryptography", "blockchain", "zero-knowledge", "zksnarks", "aleo"],
     "officialSite": "http://snarkos.org"
   }, {
     "repo": "facebook/sapling",
@@ -429,6 +429,11 @@
     "desc": "A GB emulator that is written in Rust 🦀!",
     "topics": ["emulator", "rust", "gameboy", "gameboy-emulator", "wasm"],
     "officialSite": "https://boytacean.joao.me"
+  }, {
+    "repo": "cooklang/cooklang-rs",
+    "desc": "Cooklang parser in rust",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

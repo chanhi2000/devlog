@@ -224,5 +224,10 @@
     "desc": "A modern Wine wrapper for macOS built with SwiftUI",
     "topics": ["macos", "wine", "swiftui", "moltenvk", "dxvk"],
     "officialSite": ""
+  }, {
+    "repo": "cooklang/CookCLI",
+    "desc": "macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.",
+    "topics": [],
+    "officialSite": "https://cooklang.org"
   }
 ]

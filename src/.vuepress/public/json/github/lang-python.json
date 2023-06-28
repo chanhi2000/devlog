@@ -1245,7 +1245,7 @@
     "officialSite": "https://askmarvin.ai"
   }, {
     "repo": "StanGirard/quivr",
-    "desc": "Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it",
+    "desc": "🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠",
     "topics": ["audio", "chat", "pdf", "csv", "ai", "chatbot", "embeddings", "private", "obsidian", "generative", "whisper", "second-brain", "generativeai", "chatgpt", "vectorstore"],
     "officialSite": "https://quivr.app"
   }, {
@@ -1345,7 +1345,7 @@
     "officialSite": "https://github.com/SevaSk/ecoute"
   }, {
     "repo": "Zeqiang-Lai/DragGAN",
-    "desc": "Online Demo and Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）",
+    "desc": "Unofficial Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）",
     "topics": ["image-editing", "image-generation", "gradio-interface", "draggan", "interngpt"],
     "officialSite": ""
   }, {
@@ -1833,5 +1833,20 @@
     "desc": "LLM(😽)",
     "topics": ["natural-language-processing", "natural-language", "information-extraction", "natural-language-understanding", "llm"],
     "officialSite": "https://eyurtsev.github.io/kor"
+  }, {
+    "repo": "THUDM/ChatGLM2-6B",
+    "desc": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型",
+    "topics": ["large-language-models", "llm", "chatglm", "chatglm-6b"],
+    "officialSite": ""
+  }, {
+    "repo": "Kanaries/pygwalker",
+    "desc": "PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis",
+    "topics": ["visualization", "plotly", "pandas", "data-analysis", "matplotlib", "tableau", "data-exploration", "dataframe", "tableau-alternative"],
+    "officialSite": "https://docs.kanaries.net/pygwalker"
+  }, {
+    "repo": "cooklang/cooklang-py",
+    "desc": "Cooklang parser in Python",
+    "topics": [],
+    "officialSite": ""
   }
 ]

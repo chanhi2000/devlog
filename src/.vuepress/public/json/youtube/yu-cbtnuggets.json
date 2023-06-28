@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "3LGaZUl7TuA",
+      "title": "Why Storybook React Makes Building UI Components Easy"
+    }, {
       "id": "bO7Qh08OCIw",
       "title": "What is Ansible?"
     }, {
@@ -17,3 +20,5 @@
     }
   ]
 }
+
+

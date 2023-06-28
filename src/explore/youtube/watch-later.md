@@ -348,6 +348,14 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 ---
 
+## 큰돌의터전
+
+<MyYouTubeItems jsonName="yu-kundol" />
+
+<!-- 큰돌의터전 -->
+
+---
+
 ## Misc.
 
 | W / NW | Thumbnail | Account / Title |
