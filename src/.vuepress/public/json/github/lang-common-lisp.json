@@ -19,5 +19,10 @@
     "desc": "A 50 line DIY kit to set up vanilla Emacs for Common Lisp programming",
     "topics": ["emacs", "dark-theme", "emacs-lisp", "common-lisp", "sbcl", "minimalist", "paredit", "slime", "emacs-initialization", "rainbow-delimiters"],
     "officialSite": ""
+  }, {
+    "repo": "rabbibotton/clog",
+    "desc": "CLOG - The Common Lisp Omnificent GUI",
+    "topics": ["gui", "lisp", "websocket-server", "common-lisp", "webframework", "html-bindings", "html-over-the-wire", "javascript-over-the-wire"],
+    "officialSite": ""
   }
 ]

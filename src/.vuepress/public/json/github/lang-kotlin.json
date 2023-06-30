@@ -85,5 +85,10 @@
     "desc": "IdeaVim – A Vim engine for JetBrains IDEs",
     "topics": ["kotlin", "vim", "intellij", "jetbrains", "intellij-plugin", "intellij-platform", "ideavim", "jb-official"],
     "officialSite": "http://plugins.jetbrains.com/plugin/164"
+  }, {
+    "repo": "fuqiuluo/unidbg-fetch-qsign",
+    "desc": "获取QQSign通过Unidbg",
+    "topics": ["qqbot", "oicq", "unidbg", "qqprotocol"],
+    "officialSite": ""
   }
 ]

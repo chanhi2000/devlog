@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "ThatProject",
+    "name": "That Project",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPBe0rvO56krr9tKqTwK5321jC8_oHcJKnvUhhh=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rVw7-4D0OIAW9TiatMzRGuSKN9sEAaMsoXLJjJBSgEJoF5x98BC_pq35DtL89fdcfoff8Va_5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "33Vnp6Jhn88", 
+      "title": "[Dev Environment Setup] ESP-IDF &amp; Visual Studio Code for ESP32 Programming on MAC"
+    }, {
+      "id": "IuvEtq73gyE", 
+      "title": "[Arduino Library] OpenAI's API for ChatGPT"
+    }
+  ]
+}
+
+

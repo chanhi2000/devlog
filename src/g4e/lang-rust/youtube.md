@@ -158,4 +158,12 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Core Dump
+
+<MyYouTubeItems jsonName="yu-core_dump" />
+
+<!-- Core Dump -->
+
+---
+
 <TagLinks />

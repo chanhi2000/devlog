@@ -1245,7 +1245,7 @@
     "officialSite": "https://askmarvin.ai"
   }, {
     "repo": "StanGirard/quivr",
-    "desc": "🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠",
+    "desc": "🧠 Dump all your files into your private Generative AI Second Brain and chat with it using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠",
     "topics": ["audio", "chat", "pdf", "csv", "ai", "chatbot", "embeddings", "private", "obsidian", "generative", "whisper", "second-brain", "generativeai", "chatgpt", "vectorstore"],
     "officialSite": "https://quivr.app"
   }, {
@@ -1846,6 +1846,31 @@
   }, {
     "repo": "cooklang/cooklang-py",
     "desc": "Cooklang parser in Python",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "turboderp/exllama",
+    "desc": "A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "alexbei/telegram-groups",
+    "desc": "经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！",
+    "topics": ["telegram", "telegramgroups", "telegramchannels", "telegrambots"],
+    "officialSite": "https://www.tgqun.xyz"
+  }, {
+    "repo": "mosaicml/composer",
+    "desc": "Train neural networks up to 7x faster",
+    "topics": ["machine-learning", "deep-learning", "neural-network", "pytorch", "neural-networks", "ml-training", "ml-systems", "ml-efficiency"],
+    "officialSite": "http://docs.mosaicml.com"
+  }, {
+    "repo": "hiyouga/ChatGLM-Efficient-Tuning",
+    "desc": "Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调",
+    "topics": ["transformers", "pytorch", "lora", "language-model", "alpaca", "fine-tuning", "peft", "huggingface", "chatgpt", "rlhf", "chatglm", "qlora", "chatglm2"],
+    "officialSite": ""
+  }, {
+    "repo": "gorilla-llm/gorilla-cli",
+    "desc": "LLMs for your CLI",
     "topics": [],
     "officialSite": ""
   }

@@ -164,5 +164,10 @@
     "desc": "Desktop implementation of Steam's mobile authenticator app",
     "topics": [],
     "officialSite": ""
+}, {
+    "repo": "jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for ASP.NET Core",
+    "topics": ["template", "angular", "dotnet", "clean-architecture"],
+    "officialSite": ""
   }
 ]

@@ -434,6 +434,16 @@
     "desc": "Cooklang parser in rust",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "dredozubov/polyrhythmix",
+    "desc": "Polyrhythmically-inclinded Midi Drum generator",
+    "topics": ["music", "rust", "midi", "drums", "polyrhythm", "polyrhythms", "drums-generation"],
+    "officialSite": ""
+  }, {
+    "repo": "cbiffle/lilos",
+    "desc": "A wee async RTOS for Cortex-M",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

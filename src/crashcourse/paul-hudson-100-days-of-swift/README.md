@@ -142,7 +142,7 @@ The next three projects we’ll be building projects where you meet some of the 
 - [Day 36][day-36] – ✅Project 8, part one
 - [Day 37][day-37] – ✅Project 8, part two
 - [Day 38][day-38] – ✅Project 8, part three
-- [Day 39][day-39] – Project 9, part one
+- [Day 39][day-39] – ✅Project 9, part one
 - [Day 40][day-40] – Project 9, part two
  
 ### Day 41: Consolidation IV
@@ -328,7 +328,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-36]: 36.md
 [day-37]: 37.md
 [day-38]: 38.md
-[day-39]: https://www.hackingwithswift.com/100/39
+[day-39]: 39.md
 [day-40]: https://www.hackingwithswift.com/100/40
 [day-41]: https://www.hackingwithswift.com/100/41
 [day-42]: https://www.hackingwithswift.com/100/42

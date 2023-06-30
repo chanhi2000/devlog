@@ -109,5 +109,10 @@
     "desc": "List of 1000 JavaScript Interview Questions",
     "topics": ["react", "javascript", "vuejs", "angular", "vanilla-javascript", "javascript-applications", "javascript-interview-questions", "core-javascript"],
     "officialSite": ""
+  }, {
+    "repo": "sohamkamani/javascript-design-patterns-for-humans",
+    "desc": "An ultra-simplified explanation of design patterns implemented in javascript",
+    "topics": ["javascript", "design-patterns", "factory-pattern", "bridge-pattern"],
+    "officialSite": ""
   }
 ]

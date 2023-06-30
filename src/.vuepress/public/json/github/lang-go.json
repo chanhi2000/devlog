@@ -474,5 +474,25 @@
     "desc": "Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",
     "topics": ["docker", "kubernetes", "development", "cloud", "ide", "vscode", "developer-tools", "devcontainer", "remote-development", "devcontainers", "remote-development-environment"],
     "officialSite": "https://devpod.sh"
+  }, {
+    "repo": "google/google-ctf",
+    "desc": "Google CTF",
+    "topics": ["security", "google", "ctf", "ctf-challenges"],
+    "officialSite": "https://g.co/ctf"
+  }, {
+    "repo": "jetpack-io/typeid",
+    "desc": "Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
+    "topics": ["uuid", "guid", "uuidv7", "typeid"],
+    "officialSite": ""
+  }, {
+    "repo": "glycerine/zygomys",
+    "desc": "Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.",
+    "topics": [],
+    "officialSite": "https://github.com/glycerine/zygomys/wiki"
+  }, {
+    "repo": "teslamotors/fleet-telemetry",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

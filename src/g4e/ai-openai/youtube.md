@@ -102,7 +102,7 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ## That Project
 
-<MyYouTubeItems jsonName="yu-devopskorea4426" />
+<MyYouTubeItems jsonName="yu-ThatProject" />
 
 <!-- That Project -->
 
@@ -151,6 +151,30 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 <MyYouTubeItems jsonName="yu-coreyms" />
 
 <!-- Corey Schafer -->
+
+---
+
+## Santrel Media
+
+<MyYouTubeItems jsonName="yu-SantrelMedia" />
+
+<!-- Santrel Media -->
+
+---
+
+## Dave Ebbelaar
+
+<MyYouTubeItems jsonName="yu-daveebbelaar" />
+
+<!-- Dave Ebbelaar -->
+
+---
+
+## Thu Vu data analytics 
+
+<MyYouTubeItems jsonName="yu-Thuvu5" />
+
+<!-- Thu Vu data analytics -->
 
 ---
 

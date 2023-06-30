@@ -149,6 +149,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## 언제나 휴일- 프로그래머
+
+<MyYouTubeItems jsonName="yu--559" />
+
+<!-- 언제나 휴일- 프로그래머 -->
+
+---
+
 ## Code With Steve
 
 <MyYouTubeItems jsonName="yu-CodeWithSteve" />

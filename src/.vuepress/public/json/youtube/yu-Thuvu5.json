@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "Thuvu5",
+    "name": "Thu Vu data analytics",
+    "profile": "https://yt3.googleusercontent.com/s3HLl-uzqEaqww2tkWKgjLFfgoe2NUsu4tRLm7g5TOScMK3aqOl1wGhar3yZRa1VH4BK3rzHyg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MIB_6NqF866L9SP2gi54OTE6aP6gkE-nfmon02lgm4NYYObxNqACkVbEN2YtmBiRD5nT1w3L=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "tSiS15ubQFQ",
+      "title": "How to Deploy Machine Learning Models (ft. Runway)"
+    }, {
+      "id": "EE1Y2enHrcU",
+      "title": "Building a Chatbot with ChatGPT API and Reddit Data"
+    }, {
+      "id": "QnGotm29cZE",
+      "title": "Full Stack Data Science Roadmap 2023"
+    }
+  ]
+}

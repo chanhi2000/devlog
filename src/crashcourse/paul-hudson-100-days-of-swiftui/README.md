@@ -136,7 +136,7 @@ In these next three projects we’re going to develop your SwiftUI skills in new
 
 - [Day 26][day-26] – ✅Project 4, part one
 - [Day 27][day-27] – ✅Project 4, part two
-- [Day 28][day-28] – Project 4, part three
+- [Day 28][day-28] – ✅Project 4, part three
 - [Day 29][day-29] – Project 5, part one
 - [Day 30][day-30] – Project 5, part two
 - [Day 31][day-31] – Project 5, part three
@@ -304,7 +304,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-25]: 25.md
 [day-26]: 26.md
 [day-27]: 27.md
-[day-28]: https://www.hackingwithswift.com/100/swiftui/28
+[day-28]: 28.md
 [day-29]: https://www.hackingwithswift.com/100/swiftui/29
 [day-30]: https://www.hackingwithswift.com/100/swiftui/30
 [day-31]: https://www.hackingwithswift.com/100/swiftui/31

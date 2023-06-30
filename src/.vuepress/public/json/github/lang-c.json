@@ -259,5 +259,10 @@
     "desc": "The OpenRC init system",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "systemd/systemd",
+    "desc": "The systemd System and Service Manager",
+    "topics": ["c", "linux", "services", "system", "systemd", "init"],
+    "officialSite": "https://systemd.io"
   }
 ]

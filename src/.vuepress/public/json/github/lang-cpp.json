@@ -384,6 +384,11 @@
     "desc": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
     "topics": [],
     "officialSite": "https://qgis.org"
+  }, {
+    "repo": "dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "topics": ["redis", "memcached", "multi-threading", "cpp", "fibers"],
+    "officialSite": "https://www.dragonflydb.io"
   }
 ]
 

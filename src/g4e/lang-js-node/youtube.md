@@ -1131,6 +1131,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Learn Programming Together
+
+<MyYouTubeItems jsonName="yu-LearnProgrammingTogether" />
+
+<!-- Learn Programming Together -->
+
+---
+
 ## Misc
 
 <YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />

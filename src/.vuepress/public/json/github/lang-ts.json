@@ -944,5 +944,20 @@
     "desc": "Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.",
     "topics": ["streaming", "ai", "hacker-news", "nextjs", "openai", "ai-sdk", "edge-functions", "vercel", "openai-functions"],
     "officialSite": "https://chathn.vercel.app"
+  }, {
+    "repo": "imgly/background-removal-js",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "PostHog/posthog",
+    "desc": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.",
+    "topics": ["react", "javascript", "python", "typescript", "analytics", "feature-flags", "ab-testing", "experiments", "session-replay"],
+    "officialSite": "https://posthog.com"
+  }, {
+    "repo": "toeverything/AFFiNE",
+    "desc": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "topics": ["electron", "editor", "markdown", "rust", "app", "wiki", "notes", "table", "rust-language", "workspace", "whiteboard", "tableview", "rust-lang", "crdt", "knowledge-base", "notion", "miro", "notion-alternative"],
+    "officialSite": "https://affine.pro"
   }
 ]

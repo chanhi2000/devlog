@@ -264,5 +264,15 @@
     "desc": "Label, clean and enrich text datasets with LLMs",
     "topics": ["python", "data-science", "machine-learning", "huggingface-transformers", "gpt-4", "large-language-models", "llm", "llms", "langchain", "anthropic-claude"],
     "officialSite": "https://docs.refuel.ai"
+  }, {
+    "repo": "cvg/LightGlue",
+    "desc": "LightGlue: Local Feature Matching at Light Speed",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ChaoningZhang/MobileSAM",
+    "desc": "This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight",
+    "topics": [],
+    "officialSite": ""
   }
 ] 

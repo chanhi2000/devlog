@@ -1219,5 +1219,15 @@
     "desc": "The open-source repo for docs.github.com",
     "topics": ["docs", "hacktoberfest", "works-with-codespaces"],
     "officialSite": "https://docs.github.com"
+  }, {
+    "repo": "TryGhost/Ghost",
+    "desc": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
+    "topics": ["nodejs", "javascript", "ember", "cms", "blogging", "journalism", "ghost", "publishing", "web-application", "jamstack", "hacktoberfest", "headless-cms", "creator-economy"],
+    "officialSite": "https://ghost.org"
+  }, {
+    "repo": "windmill-labs/windmill",
+    "desc": "Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.",
+    "topics": ["python", "open-source", "platform", "typescript", "postgresql", "low-code", "self-hostable"],
+    "officialSite": "https://www.windmill.dev"
   }
 ]
