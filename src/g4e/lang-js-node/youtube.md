@@ -1139,6 +1139,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Основы программирования для географов
+
+<!-- Основы программирования для географов -->
+
+---
+
 ## Misc
 
 <YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />

@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "Hallden_",
+    "name": "Hallden",
+    "profile": "https://yt3.googleusercontent.com/IQqSTHslTxiceq8vbVcvD0FRHMVZ4m_t9r9kQGEGyaWAlaZZh5SzwY5HatvA4nu_NMQAX2tT0A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yElOwea2lho3SwzjFHXNzNC8TomCrbnlf-e6vrXycPcWc_PZCU0JON_q_UmmHOtk4YNafsEEDw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "7wB3cTma0xs", 
+      "title": "Startup Automation With Python (API's + Webscraping)"
+    }, {
+      "id": "i52vHm9q_nI", 
+      "title": "Building An App From Scratch: Building it with Flutter | #2"
+    }, {
+      "id": "Nikdbz6gBek", 
+      "title": "Building An App From Scratch: Designing the app | #1"
+    }, {
+      "id": "vnfhv1E1dU4", 
+      "title": "One Day Builds: Instagram Automation Using Python"
+    }
+  ]
+}
+

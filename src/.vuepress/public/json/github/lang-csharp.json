@@ -164,10 +164,15 @@
     "desc": "Desktop implementation of Steam's mobile authenticator app",
     "topics": [],
     "officialSite": ""
-}, {
+  }, {
     "repo": "jasontaylordev/CleanArchitecture",
     "desc": "Clean Architecture Solution Template for ASP.NET Core",
     "topics": ["template", "angular", "dotnet", "clean-architecture"],
     "officialSite": ""
+  }, {
+    "repo": "dotnet-architecture/eShopOnContainers",
+    "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+    "topics": ["docker", "microservices", "spa", "xamarin", "ddd", "netcore", "ddd-patterns", "windowscontainers"],
+    "officialSite": "https://dot.net/architecture"
   }
 ]

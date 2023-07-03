@@ -69,5 +69,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "WeMakeDevs/roadmaps",
+    "desc": "This repository contains the list of communities and job portals you can join and apply to.",
+    "topics": ["open-source", "community", "devops", "frontend", "backend", "full-stack", "hacktoberfest", "devrel", "roadmaps"],
+    "officialSite": "https://www.wemakedevs.org"
   }
 ]

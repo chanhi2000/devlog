@@ -1873,5 +1873,15 @@
     "desc": "LLMs for your CLI",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "abacaj/mpt-30B-inference",
+    "desc": "Run inference on MPT-30B using CPU",
+    "topics": ["ggml", "ctransformers", "mpt-30b"],
+    "officialSite": ""
+  }, {
+    "repo": "geerlingguy/ansible-for-devops",
+    "desc": "Ansible for DevOps examples.",
+    "topics": ["docker", "kubernetes", "aws", "ansible", "vagrant", "devops", "amazon", "book", "examples", "playbook", "leanpub", "kindle", "jeff-geerling"],
+    "officialSite": "https://www.ansiblefordevops.com"
   }
 ]

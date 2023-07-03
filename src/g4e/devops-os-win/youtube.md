@@ -100,6 +100,14 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## Brett In Tech
+
+<MyYouTubeItems jsonName="yu-BrettInTech" />
+
+<!-- Brett In Tech -->
+
+---
+
 ## Misc
 
 <!-- [Battle(non)sense][yu-battle-non-sense] -->

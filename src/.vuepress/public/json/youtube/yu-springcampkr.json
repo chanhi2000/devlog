@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "springcampkr",
+    "name": "springcamp.io",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZhmLz-PHh32QLgB6fsTTJCJG8WfpgtdCY1fAn=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    {
+      "id": "n3fys2E1Lps",
+      "title": "스프링캠프 2019 [Track 2 Session 6] : Local Cache와 Invalidation Message Propagation 전략을 활용하여 API 성능"
+    }
+  ]
+}

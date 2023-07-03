@@ -221,6 +221,14 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Rebecca Franks
+
+<MyYouTubeItems jsonName="yu-riggaroo" />
+
+<!-- Rebecca Franks -->
+
+---
+
 ## 하울의 코딩 채널
 
 <MyYouTubeItems jsonName="yu-howl_coding" />

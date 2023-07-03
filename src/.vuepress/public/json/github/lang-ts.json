@@ -959,5 +959,10 @@
     "desc": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "topics": ["electron", "editor", "markdown", "rust", "app", "wiki", "notes", "table", "rust-language", "workspace", "whiteboard", "tableview", "rust-lang", "crdt", "knowledge-base", "notion", "miro", "notion-alternative"],
     "officialSite": "https://affine.pro"
+  }, {
+    "repo": "aeharding/wefwef",
+    "desc": "wefwef — a mobile-first Lemmy web client",
+    "topics": [],
+    "officialSite": "https://wefwef.app"
   }
 ]

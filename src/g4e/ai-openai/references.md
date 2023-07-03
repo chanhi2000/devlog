@@ -12,6 +12,10 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 [[toc]]
 
+## Stanford
+
+- [AI Courses](https://ai.stanford.edu/courses)
+
 ---
 
 ## FreeCodeCamp

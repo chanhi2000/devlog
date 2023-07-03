@@ -494,5 +494,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "christianselig/apollo-backend",
+    "desc": "Apollo backend server",
+    "topics": [],
+    "officialSite": ""
   }
 ]

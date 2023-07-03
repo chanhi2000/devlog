@@ -63,6 +63,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Digital Mars
+
+- [C’s Biggest Mistake](https://www.digitalmars.com/articles/C-biggest-mistake.html)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

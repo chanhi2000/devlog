@@ -274,5 +274,10 @@
     "desc": "This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "ChaoningZhang/MobileSAM",
+    "desc": "This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!",
+    "topics": [],
+    "officialSite": ""
   }
-] 
+]

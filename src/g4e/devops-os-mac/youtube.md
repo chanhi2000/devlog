@@ -109,6 +109,22 @@ tags: ["macos", "settings"]
 
 ---
 
+## Dicas do Mateus #Hackintosh
+
+<MyYouTubeItems jsonName="yu-DicasdoMateus" />
+
+<!-- Dicas do Mateus #Hackintosh -->
+
+----
+
+## Tao M Studio
+
+<MyYouTubeItems jsonName="yu-TaoMStudio" />
+
+<!-- Tao M Studio -->
+
+---
+
 ## Misc
 
 ---

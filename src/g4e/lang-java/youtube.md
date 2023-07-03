@@ -581,6 +581,22 @@ meta:
 
 ---
 
+## ATL Academy (by Lucas Moy)
+
+<MyYouTubeItems jsonName="yu-atl.academy" />
+
+<!-- ATL Academy (by Lucas Moy) -->
+
+---
+
+## springcamp.io
+
+<MyYouTubeItems jsonName="yu-springcampkr" />
+
+<!-- springcamp.io -->
+
+---
+
 ## Misc
 
 

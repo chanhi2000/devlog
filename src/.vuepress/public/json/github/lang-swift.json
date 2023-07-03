@@ -229,5 +229,10 @@
     "desc": "macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.",
     "topics": [],
     "officialSite": "https://cooklang.org"
+  }, {
+    "repo": "EthanArbuckle/Apollo-CustomApiCredentials",
+    "desc": "Tweak to use your own reddit API credentials in Apollo",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -229,5 +229,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Docile-Alligator/Infinity-For-Reddit",
+    "desc": "A Reddit client for Android",
+    "topics": ["android", "java", "reddit", "reddit-client"],
+    "officialSite": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit"
   }
 ]
