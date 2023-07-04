@@ -114,5 +114,10 @@
     "desc": "🚀✨ Help beginners to contribute to open source projects",
     "topics": ["open-source", "community", "contributions", "tutorial", "tutorials", "help-wanted", "contribution", "beginner", "beginner-friendly", "contributions-welcome", "good-first-issue"],
     "officialSite": "https://firstcontributions.github.io"
+  }, {
+    "repo": "austinsonger/Incident-Playbook",
+    "desc": "GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]",
+    "topics": ["catalog", "incident-response", "playbook", "cybersecurity", "mitre", "incident-management", "incidents", "contributions-welcome", "mitre-attack", "contributors-welcome", "cybersecurity-playbook"],
+    "officialSite": ""
   }
 ]

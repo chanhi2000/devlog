@@ -1883,5 +1883,30 @@
     "desc": "Ansible for DevOps examples.",
     "topics": ["docker", "kubernetes", "aws", "ansible", "vagrant", "devops", "amazon", "book", "examples", "playbook", "leanpub", "kindle", "jeff-geerling"],
     "officialSite": "https://www.ansiblefordevops.com"
+  }, {
+    "repo": "ArchiveBox/ArchiveBox",
+    "desc": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+    "topics": ["python", "rss", "backups", "firefox", "pinboard", "youtube-dl", "chromium", "self-hosted", "wget", "pocket", "browser-bookmarks", "warc", "web-archiving", "wayback-machine", "digipres", "singlefile", "headless-browser", "bookmark-archiver", "internet-archiving", "archivebox"],
+    "officialSite": "https://archivebox.io"
+  }, {
+    "repo": "0xpayne/gpt-migrate",
+    "desc": "Easily migrate your codebase from one framework or language to another.",
+    "topics": [],
+    "officialSite": "https://gpt-migrate.com"
+  }, {
+    "repo": "mbzuai-oryx/xraygpt",
+    "desc": "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "paul-gauthier/aider",
+    "desc": "aider is GPT powered coding in your terminal",
+    "topics": ["cli", "command-line", "openai", "gpt-3", "gpt-4", "chatgpt", "gpt-35-turbo"],
+    "officialSite": "https://aider.chat"
+  }, {
+    "repo": "geekan/MetaGPT",
+    "desc": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码",
+    "topics": ["agent", "gpt", "llm", "metagpt"],
+    "officialSite": ""
   }
 ]

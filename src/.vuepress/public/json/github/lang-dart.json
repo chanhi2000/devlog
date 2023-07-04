@@ -29,5 +29,10 @@
     "desc": "Implements Microsoft's Fluent Design System in Flutter.",
     "topics": ["dart", "uwp", "flutter", "fluent-design", "fluent-ui", "flutter-favorite"],
     "officialSite": "https://bdlukaa.github.io/fluent_ui"
+  }, {
+    "repo": "GopeedLab/gopeed",
+    "desc": "High speed downloader that supports all platforms.",
+    "topics": ["android", "windows", "macos", "golang", "http", "ios", "torrent", "downloader", "debian", "bittorrent", "cross-platform", "ubuntu", "https", "flutter"],
+    "officialSite": ""
   }
 ]

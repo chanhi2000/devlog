@@ -548,7 +548,7 @@
     "repo": "bluesky-social/social-app",
     "desc": " The Bluesky Social application for Web, iOS, and Android",
     "topics": [],
-    "officialSite": "https://staging.bsky.app"
+    "officialSite": "https://bsky.app"
   }, {
     "repo": "nuxtlabs/ui",
     "desc": "Fully styled and customizable components for Nuxt.",
@@ -964,5 +964,40 @@
     "desc": "wefwef — a mobile-first Lemmy web client",
     "topics": [],
     "officialSite": "https://wefwef.app"
+  }, {
+    "repo": "antfu/qrcode-toolkit",
+    "desc": "Anthony's QR Code Toolkit for AI generated QR Codes",
+    "topics": ["qrcode", "qrcode-gene", "qrcode-ai"],
+    "officialSite": "https://qrcode.antfu.me"
+  }, {
+    "repo": "Idered/chalk.ist",
+    "desc": "📷 Create beautiful images of your source code",
+    "topics": [],
+    "officialSite": "https://chalk.ist"
+  }, {
+    "repo": "ixahmedxi/noodle",
+    "desc": "Open Source Education Platform",
+    "topics": ["react", "nodejs", "javascript", "productivity", "open-source", "education", "jest", "reactjs", "nextjs", "pnpm", "nx", "stitches", "prisma", "tailwind", "tailwindcss", "nx-workspace", "react-testing-library", "trpc", "next-auth", "planetscale"],
+    "officialSite": "https://noodle.run"
+  }, {
+    "repo": "misskey-dev/misskey",
+    "desc": "🌎 An interplanetary microblogging platform 🚀",
+    "topics": ["misskey", "microblog", "federation", "activitypub", "fediverse"],
+    "officialSite": "https://misskey-hub.net"
+  }, {
+    "repo": "bacen/pilotord-kit-onboarding",
+    "desc": "Documentação e arquivos de configuração para participação no Piloto do Real Digita",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Tohrusky/Final2x",
+    "desc": "2^x Image Super-Resolution",
+    "topics": ["electron", "i18n", "typescript", "computer-vision", "cross-platform", "waifu2x", "super-resolution", "ncnn", "vue3", "srmd", "naive-ui", "realcugan", "realesrgan"],
+    "officialSite": ""
+  }, {
+    "repo": "apitable/apitable",
+    "desc": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+    "topics": ["react", "javascript", "api", "typescript", "spring", "nextjs", "spreadsheet", "admin-dashboard", "embed", "airtable", "hacktoberfest", "notion", "low-code", "no-code", "internal-tool", "nestjs", "automatic-api", "airtable-alternative", "nocodb"],
+    "officialSite": "https://apitable.com"
   }
 ]

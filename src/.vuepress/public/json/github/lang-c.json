@@ -264,5 +264,15 @@
     "desc": "The systemd System and Service Manager",
     "topics": ["c", "linux", "services", "system", "systemd", "init"],
     "officialSite": "https://systemd.io"
+  }, {
+    "repo": "universal-ctags/ctags",
+    "desc": "A maintained ctags implementation",
+    "topics": ["code-navigation", "ctags", "code-analysis", "developer-tools", "code-completion", "code-summarization", "tagjumping", "code-reading"],
+    "officialSite": "https://ctags.io"
+  }, {
+    "repo": "oracle-samples/bpftune",
+    "desc": "bpftune uses BPF to auto-tune Linux systems",
+    "topics": ["linux", "ebpf", "bpf", "auto-tuning"],
+    "officialSite": ""
   }
 ]

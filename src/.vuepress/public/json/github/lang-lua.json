@@ -64,5 +64,10 @@
     "desc": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
     "topics": ["neovim", "openai", "nvim-plugin", "chatgpt"],
     "officialSite": ""
+  }, {
+    "repo": "Kong/kong",
+    "desc": "🦍 The Cloud-Native API Gateway",
+    "topics": ["docker", "nginx", "kubernetes", "iot", "devops", "microservices", "microservice", "serverless", "consul", "api-management", "api-gateway", "luajit", "reverse-proxy", "kong", "apis", "cloud-native", "kubernetes-ingress", "kubernetes-ingress-controller", "servicecontrol"],
+    "officialSite": "https://konghq.com/install/#kong-community"
   }
 ]

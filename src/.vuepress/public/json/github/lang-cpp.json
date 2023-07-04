@@ -394,6 +394,26 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "StrongPC123/Far-Cry-1-Source-Full",
+    "desc": "Far Cry 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked.",
+    "topics": ["game", "modding", "discord", "sandbox", "source", "cryengine", "full", "farcry", "modding-games", "farcry1"],
+    "officialSite": "https://discord.com/invite/far-cry-1-community-472740869208801292"
+  }, {
+    "repo": "official-stockfish/Stockfish",
+    "desc": "UCI chess engine",
+    "topics": [],
+    "officialSite": "http://www.stockfishchess.com"
+  }, {
+    "repo": "li-plus/chatglm.cpp",
+    "desc": "C++ implementation of ChatGLM-6B & ChatGLM2-6B",
+    "topics": ["nlp", "large-language-models", "chatglm", "chatglm2"],
+    "officialSite": ""
+  }, {
+    "repo": "RPCSX/rpcsx",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

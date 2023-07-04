@@ -145,7 +145,7 @@ The next three projects we’ll be building projects where you meet some of the 
 - [Day 39][day-39] – Project 9, part one
 - [Day 40][day-40] – Project 9, part two
  
-### Day 41: Consolidation IV
+### ✅Day 41: Consolidation IV
 
 You’ve tackled some really big projects these last few days, not least learning about building a user interface in code and running code in background threads. It’s time to take a moment to review what you’ve learned.
 
@@ -155,7 +155,7 @@ You’ve tackled some really big projects these last few days, not least learnin
 
 The next three projects we’ll be making are markedly different from the previous 9 – you’ll learn about making grids rather than tables, learn how to make high-performance 2D games using SpriteKit, and, at last, learn how to save user data.
 
-- [Day 42][day-42] – Project 10, part one
+- [Day 42][day-42] – ✅Project 10, part one
 - [Day 43][day-43] – Project 10, part two
 - [Day 44][day-44] – Project 10, part three
 - [Day 45][day-45] – Project 11, part one
@@ -330,8 +330,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-38]: 38.md
 [day-39]: 39.md
 [day-40]: 40.md
-[day-41]: https://www.hackingwithswift.com/100/41
-[day-42]: https://www.hackingwithswift.com/100/42
+[day-41]: 41.md
+[day-42]: 42.md
 [day-43]: https://www.hackingwithswift.com/100/43
 [day-44]: https://www.hackingwithswift.com/100/44
 [day-45]: https://www.hackingwithswift.com/100/45

@@ -279,5 +279,20 @@
     "desc": "This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "imoneoi/openchat",
+    "desc": "OpenChat: Less is More for Open-source Models",
+    "topics": ["open-source", "transformers", "large-language-models"],
+    "officialSite": "https://huggingface.co/openchat/openchat"
+  }, {
+    "repo": "unlearning-challenge/starting-kit",
+    "desc": "Starting kit for the NeurIPS 2023 unlearning challenge",
+    "topics": [],
+    "officialSite": "https://unlearning-challenge.github.io"
+  }, {
+    "repo": "unlearning-challenge/starting-kit",
+    "desc": "Starting kit for the NeurIPS 2023 unlearning challenge",
+    "topics": [],
+    "officialSite": "https://unlearning-challenge.github.io"
   }
 ]

@@ -559,5 +559,20 @@
     "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "topics": ["awesome-list", "free-for-developers"],
     "officialSite": "https://free-for.dev"
+  }, {
+    "repo": "OpenDriveLab/End-to-end-Autonomous-Driving",
+    "desc": "All you need for End-to-end Autonomous Driving",
+    "topics": ["simulation", "autonomous-driving", "policy-learning", "end-to-end-autonomous-driving"],
+    "officialSite": ""
+  }, {
+    "repo": "dttung2905/kafka-in-production",
+    "desc": "📚 Tech blogs & talks by companies that run Kafka in production",
+    "topics": ["distributed-systems", "streaming", "kafka"],
+    "officialSite": ""
+  }, {
+    "repo": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+    "desc": "✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.",
+    "topics": ["multi-modality", "instruction-following", "in-context-learning", "large-language-models", "chain-of-thought", "instruction-tuning", "visual-instruction-tuning", "large-vision-language-model", "multimodal-instruction-tuning", "large-vision-language-models", "multimodal-large-language-models", "visual-in-context-learning", "multimodal-in-context-learning", "visual-chain-of-thought", "multimodal-chain-of-thought"],
+    "officialSite": ""
   }
 ]

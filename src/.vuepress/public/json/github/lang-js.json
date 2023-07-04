@@ -1229,5 +1229,15 @@
     "desc": "Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.",
     "topics": ["python", "open-source", "platform", "typescript", "postgresql", "low-code", "self-hostable"],
     "officialSite": "https://www.windmill.dev"
+  }, {
+    "repo": "mengjian-github/copilot-analysis",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dimdenGD/OldTwitter",
+    "desc": "Extension to return old Twitter layout from 2015.",
+    "topics": ["chrome-extension", "chrome", "twitter", "firefox-addon", "firefox-extension", "twitter-client", "chromium-extension"],
+    "officialSite": "https://chrome.google.com/webstore/detail/old-twitter-layout-2022/jgejdcdoeeabklepnkdbglgccjpdgpmf"
   }
 ]

@@ -9,5 +9,10 @@
     "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "topics": ["awesome", "frontend", "weekly"],
     "officialSite": ""
+  }, {
+    "repo": "automateyournetwork/automate_your_network",
+    "desc": "The book in PDF format for all to enjoy!",
+    "topics": [],
+    "officialSite": ""
   }
 ]

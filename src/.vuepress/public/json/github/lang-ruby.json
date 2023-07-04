@@ -29,5 +29,10 @@
     "desc": "Easily setup logical replication and switchover to new database with minimal downtime",
     "topics": ["ruby", "postgres", "postgresql", "logical-replication"],
     "officialSite": ""
+  }, {
+    "repo": "mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "topics": ["docker", "social-network", "activity-stream", "microblog", "mastodon", "webfinger", "activitypub"],
+    "officialSite": "https://joinmastodon.org"
   }
 ]
