@@ -1245,7 +1245,7 @@
     "officialSite": "https://askmarvin.ai"
   }, {
     "repo": "StanGirard/quivr",
-    "desc": "🧠 Dump all your files into your private Generative AI Second Brain and chat with it using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠",
+    "desc": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠",
     "topics": ["audio", "chat", "pdf", "csv", "ai", "chatbot", "embeddings", "private", "obsidian", "generative", "whisper", "second-brain", "generativeai", "chatgpt", "vectorstore"],
     "officialSite": "https://quivr.app"
   }, {
@@ -1525,7 +1525,7 @@
     "officialSite": ""
   }, {
     "repo": "h2oai/h2ogpt",
-    "desc": "Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf",
+    "desc": "Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf Live Demo: https://gpt.h2o.ai",
     "topics": ["llm", "chatgpt"],
     "officialSite": "http://h2o.ai"
   }, {
@@ -1908,5 +1908,65 @@
     "desc": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码",
     "topics": ["agent", "gpt", "llm", "metagpt"],
     "officialSite": ""
+  }, {
+    "repo": "InternLM/InternLM",
+    "desc": "InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ohyicong/decrypt-chrome-passwords",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "techwithtim/Price-Tracking-Web-Scraper",
+    "desc": "An automated price tracker that uses bright data, playwright, react and flask.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "dmytrostriletskyi/threads-net",
+    "desc": "Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Supports read and write capabilities.",
+    "topics": ["meta", "python3", "instagram-api", "threads", "threads-api", "threads-client", "threads-net"],
+    "officialSite": "https://pypi.org/project/threads-net"
+  }, {
+    "repo": "the-modem-distro/pinephone_modem_sdk",
+    "desc": "Pinephone Modem SDK: Tools to build your own bootloader, kernel and rootfs",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "0hq/tinyvector",
+    "desc": "A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "topics": ["python", "shell"],
+    "officialSite": ""
+  }, {
+    "repo": "danswer-ai/danswer",
+    "desc": "OpenSource Enterprise QA",
+    "topics": [],
+    "officialSite": "https://docs.danswer.dev"
+  }, {
+    "repo": "kyegomez/LongNet",
+    "desc": "Implementation of plug in and play Attention from \"LongNet: Scaling Transformers to 1,000,000,000 Tokens\"",
+    "topics": ["machine-learning", "artificial-intelligence", "transformer", "attention", "attention-is-all-you-need", "attention-mechanisms", "gpt3", "gpt4", "chatgpt", "context-length"],
+    "officialSite": "https://discord.gg/qUtxnK2NMf"
+  }, {
+    "repo": "198808xc/Pangu-Weather",
+    "desc": "An official implementation of Pangu-Weather",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "assafelovic/gpt-researcher",
+    "desc": "GPT based autonomous agent that does online comprehensive research on any given topic",
+    "topics": [],
+    "officialSite": "https://tavily.com"
+  }, {
+    "repo": "graphdeco-inria/gaussian-splatting",
+    "desc": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+    "topics": ["computer-vision", "computer-graphics", "radiance-field"],
+    "officialSite": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting"
   }
 ]

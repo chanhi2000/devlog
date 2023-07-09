@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: News
-description: 🕶️Github > News
+title: 🗞️News
+description: 🕶️Github > 🗞️News
 tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
 ---
 

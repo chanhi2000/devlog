@@ -184,5 +184,10 @@
     "desc": "Open Source Metering and Usage Based Billing",
     "topics": ["invoices", "invoicing", "payments", "pricing", "fintech", "billing", "subscriptions", "metering", "lago", "usage-based-billing"],
     "officialSite": "https://www.getlago.com"
+  }, {
+    "repo": "markshust/docker-magento",
+    "desc": "Mark Shust's Docker Configuration for Magento",
+    "topics": ["docker", "docker-compose", "magento", "magento-2", "magento2", "hacktoberfest", "docker-magento"],
+    "officialSite": "https://m.academy/courses/setup-magento-2-development-environment-docker"
   }
 ]

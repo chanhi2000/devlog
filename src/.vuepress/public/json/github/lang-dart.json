@@ -34,5 +34,10 @@
     "desc": "High speed downloader that supports all platforms.",
     "topics": ["android", "windows", "macos", "golang", "http", "ios", "torrent", "downloader", "debian", "bittorrent", "cross-platform", "ubuntu", "https", "flutter"],
     "officialSite": ""
+  }, {
+    "repo": "AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "topics": ["editor", "rust", "wiki", "rust-language", "rust-lang", "content-management", "flutter", "hacktoberfest", "notion", "low-code", "no-code", "content-services", "flutter-apps", "flutter-examples", "flutter-ui", "flutter-app", "no-code-platform", "notion-alternative"],
+    "officialSite": "https://www.appflowy.io"
   }
 ]

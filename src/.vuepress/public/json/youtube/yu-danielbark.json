@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "danielbark",
+    "name": "Daniel Bark",
+    "profile": "https://yt3.googleusercontent.com/FEu76Mxewqupw-d4gWiVWHnVMYMHiAbqyrGOxjaNplmbZaWLE39qzahj4poUEhPWW8VrAWjZFQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/T0cFu-PJVcxTLnkr2PZkY31IckpLufrbHrb0yCs63yK_94Vng8bT-YCP1Ug4h6cXVde-97KGpg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "S3k82XXCrBo",
+      "title": "Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]"
+    }
+  ]
+}
+

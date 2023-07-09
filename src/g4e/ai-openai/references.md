@@ -12,9 +12,19 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 [[toc]]
 
-## Stanford
 
-- [AI Courses](https://ai.stanford.edu/courses)
+---
+
+## GPT
+
+- [AWS Docs GPT: AI-powered Search & Chat for AWS Documentation](https://www.awsdocsgpt.com)
+
+---
+
+## Education(s)
+
+- [Stanford: AI Courses](https://ai.stanford.edu/courses)
+- [DeepLearning.AI](https://www.deeplearning.ai/short-courses)
 
 ---
 

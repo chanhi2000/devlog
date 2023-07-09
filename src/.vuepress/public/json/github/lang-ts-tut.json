@@ -29,5 +29,15 @@
     "desc": "Clean Code concepts adapted for TypeScript",
     "topics": ["typescript", "solid", "best-practices", "clean-code", "clean-architecture", "principles", "coding-guidelines"],
     "officialSite": "https://labs42io.github.io/clean-code-typescript"
+  }, {
+    "repo": "gibbok/typescript-book",
+    "desc": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
+    "topics": ["typescript", "book", "free", "typescript-book", "typescript-tutorials", "typescript-language", "typescript-learning", "typescript-guidebook", "typescript-guide", "learn-typescript", "learning-type"],
+    "officialSite": ""
+  }, {
+    "repo": "felipemotarocha/fullstackweek-trips",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://fullstackweek-trips.vercel.app"
   }
 ]

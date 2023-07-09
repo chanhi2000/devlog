@@ -55,6 +55,12 @@ tags: ["rust" , "rs", "rust-lang"]
 
 - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test)
 
-----
+---
+
+## Andy Balaam's Blog
+
+- [Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example)
+
+---
 
 <TagLinks />

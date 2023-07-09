@@ -234,5 +234,20 @@
     "desc": "Tweak to use your own reddit API credentials in Apollo",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "topics": ["swift", "ios", "animation", "transition-animation", "ios-animation", "ios-transition", "custom-transitions", "keyframes", "bodymovin"],
+    "officialSite": "http://airbnb.io/lottie"
+  }, {
+    "repo": "apple/swift-http-types",
+    "desc": "Version-independent HTTP currency types for Swift",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mazzzystar/Queryable",
+    "desc": "Run OpenAI's CLIP model on iPhone to search photos.",
+    "topics": ["clip", "text-embedding", "photosearch"],
+    "officialSite": "https://queryable.app"
   }
 ]

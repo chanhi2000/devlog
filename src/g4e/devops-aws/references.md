@@ -13,6 +13,12 @@ tags: ["aws", "amazon", "amazon-web-service"]
 
 ---
 
+## GPT
+
+- [AWS Docs GPT: AI-powered Search & Chat for AWS Documentation](https://www.awsdocsgpt.com)
+
+---
+
 ## Medium
 
 - [Automate CloudWatch Logs Export to S3 using Lambda and Event Bridge](https://awstip.com/automate-cloudwatch-logs-export-to-s3-using-lambda-and-event-bridge-8748fedadeb9)

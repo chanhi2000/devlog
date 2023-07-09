@@ -56,7 +56,7 @@
     "officialSite": "https://carbos.vercel.app"
   }, {
     "repo": "ReaVNaiL/New-Grad-2024",
-    "desc": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024!",
+    "desc": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀",
     "topics": ["university", "jobs", "interview-preparation", "fulltime", "newgrad"],
     "officialSite": ""
   }, {
@@ -74,5 +74,15 @@
     "desc": "This repository contains the list of communities and job portals you can join and apply to.",
     "topics": ["open-source", "community", "devops", "frontend", "backend", "full-stack", "hacktoberfest", "devrel", "roadmaps"],
     "officialSite": "https://www.wemakedevs.org"
+  }, {
+    "repo": "sjjeong/android-tech-spec-in-korea-company",
+    "desc": "한국에서 안드로이드 앱을 개발하는 회사의 기술 스팩을 아카이브합니다.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sjjeong/ios-tech-spec-in-korea-company",
+    "desc": "한국에서 iOS앱을 개발하는 회사의 iOS 기술 스펙을 아카이브합니다",
+    "topics": [],
+    "officialSite": ""
   }
 ]

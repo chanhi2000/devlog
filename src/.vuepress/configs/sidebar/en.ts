@@ -582,7 +582,6 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/explore/newsletter/README.md',
         '/explore/newsletter/data-science.md',
-        '/explore/newsletter/github.md',
       ]
     }, {
       text: '🕶️Github',

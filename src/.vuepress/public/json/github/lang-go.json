@@ -504,5 +504,20 @@
     "desc": "Code Intelligence Platform",
     "topics": ["open-source", "code-search", "sourcegraph", "code-intelligence", "repo-type-main", "lsif-enabled"],
     "officialSite": "https://sourcegraph.com"
+  }, {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
+    "topics": ["go", "golang", "cdn", "speedtest", "cloudflare"],
+    "officialSite": ""
+  }, {
+    "repo": "photoprism/photoprism",
+    "desc": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+    "topics": ["golang", "machine-learning", "ai", "photography", "tensorflow", "self-hosted", "google-photos", "private-cloud"],
+    "officialSite": "https://www.photoprism.app"
+  }, {
+    "repo": "diggerhq/digger",
+    "desc": "Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️",
+    "topics": ["terraform", "tacos", "infrastructure-as-code", "terraform-aws", "terraform-gcp", "github-actions", "terraform-github-actions", "terraformcloud"],
+    "officialSite": "https://digger.dev"
   }
 ]

@@ -114,5 +114,10 @@
     "desc": "An ultra-simplified explanation of design patterns implemented in javascript",
     "topics": ["javascript", "design-patterns", "factory-pattern", "bridge-pattern"],
     "officialSite": ""
+  }, {
+    "repo": "adrianhajdin/project_threejs_ai",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

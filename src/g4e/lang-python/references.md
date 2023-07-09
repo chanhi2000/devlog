@@ -96,4 +96,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Kevin Hu's Blog
+
+- [Hacking LangChain For Fun and Profit - I](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit)
+
+---
+
 <TagLinks />

@@ -29,6 +29,7 @@ tags: ["java", "baeldung"]
 ## 요즘IT
 
 - [자바 개발자를 위한 컨테이너 이미지 빌드](https://yozm.wishket.com/magazine/detail/2018)
+
 ---
 
 ## Baeldung
@@ -82,6 +83,12 @@ tags: ["java", "baeldung"]
 ## 양봉수
 
 - [마이바티스를 사용한 자바 퍼시스턴스 개발](https://yangbongsoo.gitbook.io/study/mybatis)
+
+---
+
+## Wouter Coekaerts
+
+- [Breaking `java.lang.String`](https://wouter.coekaerts.be/2023/breaking-string)
 
 ---
 

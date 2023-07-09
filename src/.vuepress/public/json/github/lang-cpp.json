@@ -32,7 +32,7 @@
   }, {
     "repo": "musescore/MuseScore",
     "desc": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
-    "topics": [],
+    "topics": ["qt", "cpp", "music-notation", "musicxml", "sheetmusic", "sheet-music", "musescore", "sfz"],
     "officialSite": "https://musescore.org"
   }, {
     "repo": "icinga/icinga2",
@@ -414,6 +414,41 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "facebook/igl",
+    "desc": "Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "stenzek/duckstation",
+    "desc": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64",
+    "topics": ["emulator", "fast", "opengl", "vulkan", "ps1", "playstation", "psx", "appimage", "jit-compiler", "enhancements", "hardware-renderers"],
+    "officialSite": ""
+  }, {
+    "repo": "livegrep/livegrep",
+    "desc": "Interactively grep source code. Source for http://livegrep.com",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pauldreik/rdfind",
+    "desc": "find duplicate files utility",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "citra-emu/citra",
+    "desc": "A Nintendo 3DS Emulator",
+    "topics": ["emulator", "c-plus-plus", "arm", "cpp", "emulation", "3ds"],
+    "officialSite": "https://citra-emu.org"
+  }, {
+    "repo": "godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "topics": ["open-source", "gamedev", "multi-platform", "game-engine", "game-development", "godotengine", "godot", "hacktoberfest"],
+    "officialSite": "https://godotengine.org"
+  }, {
+    "repo": "xenia-project/xenia",
+    "desc": "Xbox 360 Emulator Research Project",
+    "topics": ["emulator", "c-plus-plus", "cpp", "vulkan", "emulation", "d3d12", "ppc", "xenon", "xbox360"],
+    "officialSite": "https://xenia.jp"
   }
 ]
 

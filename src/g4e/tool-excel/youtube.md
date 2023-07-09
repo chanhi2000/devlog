@@ -120,5 +120,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Access Analytic
+
+<MyYouTubeItems jsonName="yu-AccessAnalytic" />
+
+<!-- Access Analytic -->
+
+---
+
 <TagLinks />
 

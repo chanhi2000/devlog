@@ -61,4 +61,12 @@ tags: ["youtube", "aws", "amazon", "amazon-web-service"]
 
 ---
 
+## Tech With Lucy
+
+<MyYouTubeItems jsonName="yu-TechwithLucy" />
+
+<!-- Tech With Lucy -->
+
+---
+
 <TagLinks />

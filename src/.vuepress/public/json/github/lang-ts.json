@@ -999,5 +999,50 @@
     "desc": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
     "topics": ["react", "javascript", "api", "typescript", "spring", "nextjs", "spreadsheet", "admin-dashboard", "embed", "airtable", "hacktoberfest", "notion", "low-code", "no-code", "internal-tool", "nestjs", "automatic-api", "airtable-alternative", "nocodb"],
     "officialSite": "https://apitable.com"
+  }, {
+    "repo": "expo/expo",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "topics": ["react", "javascript", "android", "ios", "mobile", "framework", "typescript", "react-native", "web", "frontend", "native", "universal", "web-framework", "native-apps", "app-framework", "expo"],
+    "officialSite": "https://docs.expo.dev"
+  }, {
+    "repo": "junhoyeo/threads-api",
+    "desc": "Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.",
+    "topics": ["instagram", "meta", "web-ui", "instagram-api", "barcelona", "threads", "threads-bridge", "threads-api", "threads-client"],
+    "officialSite": ""
+  }, {
+    "repo": "vercel/platforms",
+    "desc": "A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.",
+    "topics": ["nextjs", "multi-tenancy", "prisma", "multi-tenant-applications", "tailwindcss", "vercel", "custom-domains", "vercel-postgres", "vercel-ai", "vercel-blob"],
+    "officialSite": "https://app.vercel.pub"
+  }, {
+    "repo": "alexy201/awsdocsgpt",
+    "desc": "Codebase for www.awsdocsgpt.com (AI-powered Search and Chat for AWS Documentation)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "topics": ["nodejs", "photos", "svelte", "photo-gallery", "mobile-app", "self-hosted", "videos", "google-photos", "flutter", "backup-tool", "nestjs", "sveltekit", "google-photos-alternative"],
+    "officialSite": "https://immich.app"
+  }, {
+    "repo": "Shelf-nu/shelf.nu",
+    "desc": "shelf is open source Asset Management Infrastructure for absolutely everyone.",
+    "topics": [],
+    "officialSite": "https://shelf.nu"
+  }, {
+    "repo": "usememos/memos",
+    "desc": "A lightweight, self-hosted memo hub. Open Source and Free forever.",
+    "topics": ["react", "go", "docker", "markdown", "social-network", "memo", "sqlite", "self-hosted", "free", "note-taking", "microblog"],
+    "officialSite": "https://usememos.com"
+  }, {
+    "repo": "baptisteArno/typebot.io",
+    "desc": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+    "topics": ["nextjs", "chatbot", "form-builder", "chat-application", "conversational-bots", "tailwindcss"],
+    "officialSite": "https://typebot.io"
+  }, {
+    "repo": "taikoxyz/taiko-mono",
+    "desc": "A decentralized, Ethereum-equivalent ZK-Rollup. 🥁",
+    "topics": [],
+    "officialSite": "http://taiko.xyz"
   }
 ]

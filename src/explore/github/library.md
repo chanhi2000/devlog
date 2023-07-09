@@ -77,6 +77,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://sysprog21.github.io/lkmpg)
 - [hendricius/the-sourdough-framework][hendricius/the-sourdough-framework]: Open source book dedicated to helping you to make the best possible sourdough bread at home. <GithubTags tagItems="baking;cooking;bread;sourdough" />
   - [🌐Official Site](https://breadco.de/book)
+- [kenjihiranabe/The-Art-of-Linear-Algebra][kenjihiranabe/The-Art-of-Linear-Algebra]: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
 
 
@@ -137,6 +138,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 ## Verilog
 
 - [lawrie/fpga_pio][lawrie/fpga_pio]: An attempt to recreate the RP2040 PIO in an FPGA
+
+---
+
+
+## Pascal
+
+- [markmal/freeship-plus-in-lazarus][markmal/freeship-plus-in-lazarus]: FreeShip Plus in Lazarus
 
 ---
 
@@ -206,6 +214,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [synercys/annotated_latex_equations]: https://github.com/synercys/annotated_latex_equations
 [sysprog21/lkmpg]: https://github.com/sysprog21/lkmpg
 [hendricius/the-sourdough-framework]: https://github.com/hendricius/the-sourdough-framework
+[kenjihiranabe/The-Art-of-Linear-Algebra]: https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
 <!-- Odin -->
 [odin-lang/Odin]: https://github.com/odin-lang/Odin
 <!-- R -->
@@ -222,6 +231,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [reddit-archive/reddit1.0]: https://github.com/reddit-archive/reddit1.0
 <!-- Verilog -->
 [lawrie/fpga_pio]: https://github.com/lawrie/fpga_pio
+<!-- Pascal -->
+[markmal/freeship-plus-in-lazarus]: https://github.com/markmal/freeship-plus-in-lazarus
 <!-- DevOps -->
 [vulhub/vulhub]: https://github.com/vulhub/vulhub
 [sickcodes/Docker-OSX]: https://github.com/sickcodes/Docker-OSX

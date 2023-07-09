@@ -274,5 +274,30 @@
     "desc": "bpftune uses BPF to auto-tune Linux systems",
     "topics": ["linux", "ebpf", "bpf", "auto-tuning"],
     "officialSite": ""
+  }, {
+    "repo": "floooh/sokol",
+    "desc": "minimal cross-platform standalone C headers",
+    "topics": [],
+    "officialSite": "https://floooh.github.io/sokol-html5"
+  }, {
+    "repo": "CoretechR/OMOTE",
+    "desc": "Open Source Remote Using ESP32 and LVGL",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mkirchner/hamt",
+    "desc": "A hash array-mapped trie implementation in C",
+    "topics": ["c", "tutorial", "immutable", "data-structure", "c99", "hash-array-mapped-trie", "datastructure"],
+    "officialSite": ""
+  }, {
+    "repo": "containers/bubblewrap",
+    "desc": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+    "topics": ["linux-containers", "user-namespaces"],
+    "officialSite": ""
+  }, {
+    "repo": "netblue30/firejail",
+    "desc": "Linux namespaces and seccomp-bpf sandbox",
+    "topics": [],
+    "officialSite": "https://firejail.wordpress.com"
   }
 ]

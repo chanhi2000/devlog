@@ -1141,20 +1141,18 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## Основы программирования для географов
 
+<MyYouTubeItems jsonName="yu-gis" />
+
 <!-- Основы программирования для географов -->
 
 ---
 
-## Misc
+## Daniel Bark
 
-<YoutubeItem channelName="Daniel Bark" channelId="danielbark" id="S3k82XXCrBo" title="Full Stack Tutorial - [Next.js, TRPC, T3, Typescript, Prisma, Tailwind, Zod]" />
+<MyYouTubeItems jsonName="yu-danielbark" />
 
-<!-- [Daniel Bark][yu-danielbark] -->
+<!-- Daniel Bark -->
+
+---
 
 <TagLinks />
-
-<!-- Misc -->
-
-[yu-danielbark]: https://www.youtube.com/@danielbark
-
-

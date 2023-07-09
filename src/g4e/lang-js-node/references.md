@@ -137,6 +137,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
 - [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
 - [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
+- [[Nestia] SDK and Mockup Simulator generation from Swagger Documents (Swagger to NestJS)](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
 
 ---
 
@@ -294,6 +295,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Fly.io
 
 - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd)
+- [Tokenized Tokens](https://fly.io/blog/tokenized-tokens)
 
 ---
 

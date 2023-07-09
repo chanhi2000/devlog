@@ -436,9 +436,9 @@
     "officialSite": "https://www.postcat.com"
   }, {
     "repo": "Bin-Huang/chatbox",
-    "desc": "Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.",
-    "topics": ["openai", "chatgpt"],
-    "officialSite": "https://chatboxapp.xyz"
+    "desc": "Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online",
+    "topics": ["desktop-app", "windows", "macos", "linux", "app", "ai", "ubuntu", "desktop", "openai", "gpt", "copilot", "gpt-4", "chatgpt"],
+    "officialSite": "https://chatboxai.app"
   }, {
     "repo": "whoiskatrin/sql-translator",
     "desc": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
@@ -1239,5 +1239,40 @@
     "desc": "Extension to return old Twitter layout from 2015.",
     "topics": ["chrome-extension", "chrome", "twitter", "firefox-addon", "firefox-extension", "twitter-client", "chromium-extension"],
     "officialSite": "https://chrome.google.com/webstore/detail/old-twitter-layout-2022/jgejdcdoeeabklepnkdbglgccjpdgpmf"
+  }, {
+    "repo": "prettier/prettier",
+    "desc": "Prettier is an opinionated code formatter.",
+    "topics": ["javascript", "css", "html", "graphql", "markdown", "flow", "yaml", "less", "json", "formatter", "angular", "typescript", "printer", "vue", "jsx", "scss", "prettier", "ast"],
+    "officialSite": "https://prettier.io"
+  }, {
+    "repo": "threadsjs/threads.js",
+    "desc": "A Node.js library for the Threads API",
+    "topics": ["nodejs", "threads", "threads-api"],
+    "officialSite": ""
+  }, {
+    "repo": "surprisetalk/blogs.hn",
+    "desc": "tiny directory of tech blogs",
+    "topics": [],
+    "officialSite": "https://blogs.hn"
+  }, {
+    "repo": "brave/brave-browser",
+    "desc": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+    "topics": ["windows", "macos", "linux", "browser", "chromium", "brave"],
+    "officialSite": "https://www.brave.com"
+  }, {
+    "repo": "kudoai/chatgpt.js",
+    "desc": "🤖 A powerful, open source client-side JavaScript library for ChatGPT",
+    "topics": ["javascript", "nlp", "chat", "bot", "machine-learning", "library", "ai", "js", "frontend", "chatbot", "ml", "artificial-intelligence", "openai", "gpt", "clientside", "conversational-bots", "conversational-ai", "gpt-3", "gpt-4", "chatgpt"],
+    "officialSite": "https://chatgpt.js.org"
+  }, {
+    "repo": "cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "topics": ["testing", "test", "test-suite", "test-runner", "test-automation", "tests", "e2e-tests", "testing-tools", "javascript-tests", "end-to-end-testing", "cypress", "e2e-testing"],
+    "officialSite": "https://cypress.io"
+  }, {
+    "repo": "thedevdojo/pines",
+    "desc": "The Pines UI library",
+    "topics": ["library", "ui", "tailwindcss", "alpinejs"],
+    "officialSite": "https://devdojo.com/pines"
   }
 ]

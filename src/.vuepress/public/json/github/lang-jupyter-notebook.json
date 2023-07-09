@@ -294,5 +294,20 @@
     "desc": "Starting kit for the NeurIPS 2023 unlearning challenge",
     "topics": [],
     "officialSite": "https://unlearning-challenge.github.io"
+  }, {
+    "repo": "CStanKonrad/long_llama",
+    "desc": "LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "rasbt/scipy2023-deeplearning",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "mshumer/gpt-prompt-engineer",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]
