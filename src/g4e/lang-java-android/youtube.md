@@ -237,22 +237,12 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
-<TagLinks />
+## Android Coding
 
-[yu-Philipp-Lackner]: https://www.youtube.com/@PhilippLackner
-[yu-stevdza-san]: https://www.youtube.com/@StevdzaSan
-[yu-coding-w-mitch]: https://www.youtube.com/@codingwithmitch
-[yu-simplified-coding]: https://www.youtube.com/@SimplifiedCoding
-[yu-delaroy-studios]: https://www.youtube.com/@DelaroyStudios
-[yu-wise-ass]: https://www.youtube.com/@wiseAss
-[yu-master-coding]: https://www.youtube.com/@MasterCodingTeam
-[yu-douglas-schmidt]: https://www.youtube.com/@DouglasSchmidt
-[yu-jerry-banfield]: https://www.youtube.com/@JerryBanfield
-[yu-aws-rh]: https://www.youtube.com/@AwsRh
-[yu-eddydn71]: https://www.youtube.com/@eddydn71
-[yu-vishalkamboj8955]: https://www.youtube.com/@vishalkamboj8955
-[yu-dj-malone]: https://www.youtube.com/@DanielMalone
-[yu-coding-w-tea]: https://www.youtube.com/@CodingwithT
-[yu-sarim-khan]: https://www.youtube.com/@sarimLife
-[yu-theandroidprogrammer]: https://www.youtube.com/@theandroidprogrammer
-[yu-android-heroes]: https://www.youtube.com/@DroidconItaly
+<MyYouTubeItems jsonName="yu-AndroidCoding" />
+
+<!-- Android Coding -->
+
+---
+
+<TagLinks />

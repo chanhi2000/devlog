@@ -324,6 +324,21 @@
     "desc": "This is practicce for gRPC Java + SpringBoot",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "rogerkeays/unchecked",
+    "desc": "Say goodbye to checked exceptions forever.",
+    "topics": ["java", "programming", "programming-languages", "exception-handling", "javac", "checked-exceptions"],
+    "officialSite": "https://patreon.com/Jamaica440"
+  }, {
+    "repo": "devopshydclub/vprofile-project",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "baidu/bifromq",
+    "desc": "A MQTT broker implementation adopting serverless architecture",
+    "topics": ["mqtt", "iot", "multi-tenant", "serverless", "distributed", "mqtt-broker", "decentralized-cluster"],
+    "officialSite": "https://bifromq.io"
   }
 ]
 

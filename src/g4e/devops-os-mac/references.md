@@ -75,6 +75,12 @@ tags: ["macos", "settings"]
 
 ---
 
+## Fingerprint
+
+- [Demo: Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

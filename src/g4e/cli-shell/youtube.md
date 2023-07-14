@@ -85,4 +85,12 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ---
 
+## Bryan Lunduke
+
+<MyYouTubeItems jsonName="yu-BryanLunduke" />
+
+<!-- Bryan Lunduke -->
+
+---
+
 <TagLinks />

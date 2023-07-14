@@ -1,0 +1,84 @@
+{
+  "channel": {
+    "id": "WhizdomTrainings01",
+    "name": "Ashish Thakur",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR80tZi3DD9-meJ4pEcDsRCqRuN2c8GMsIJIuf7HQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/96CjkSA_n8umhsLd8TLqn7mV4wzeXNhMBGMGriQgEUuRMJBT9jSNmU_gHAr_zbmiwz10ytuE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "lqYWzeNpLRE",
+      "title": "Selenium with Java | Trial Class 5 | Whizdom Trainings | Sep 2020"
+    }, {
+      "id": "f_nbmsO7H6o",
+      "title": "Selenium with Java | Trial Class 3 | Whizdom Trainings | Sep 2020"
+    }, {
+      "id": "prb26bsv0bA",
+      "title": "#Grouping and Parameterize Test Cases Assertions | #Selenium with #Python"
+    }, {
+      "id": "4jEVGxrC-gE",
+      "title": "Download and Configure Selenium with Eclipse | Pycharm"
+    }, {
+      "id": "hN8bgoR2lTM",
+      "title": "TestNG, Maven and Selenium | TestNG Tutorial Part 3 | Whizdom Trainings"
+    }, {
+      "id": "3cKNHwqthvo",
+      "title": "Beginners Tutorial For Selenium WebDriver Day 4"
+    }, {
+      "id": "ERY-yDX7oiI",
+      "title": "Java Training for Selenium WebDriver | Selenium WebDriver Tutorial Part 5"
+    }, {
+      "id": "4qHJLhs9OVc",
+      "title": "Using Xpaths with Selenium WebDriver | Selenium Training Day 5"
+    }, {
+      "id": "8RjIwfyTpg8",
+      "title": "HTTPS Script Recorder"
+    }, {
+      "id": "VydYmWQ5o3w",
+      "title": "HAR to JMX"
+    }, {
+      "id": "vFXtQH5Stls",
+      "title": "Learn Appium Course How to Install, Download &amp; Configure (Part 3)"
+    }, {
+      "id": "S6pdBX_ddWE",
+      "title": "TestNG Tutorial For Selenium WebDriver Part 1"
+    }, {
+      "id": "-5R30qlB5f0",
+      "title": "Working with Sub languages of SQL(DDL, DML, TCL, DQL/DRL)"
+    }, {
+      "id": "g1rDB2uKAV4",
+      "title": "HTTPS Script Recording"
+    }, {
+      "id": "uiRTM_ZPsXA",
+      "title": "Blazemeter Chrome Extension"
+    }, {
+      "id": "--0cMP36GKE",
+      "title": "Understanding Thread Group | JMeter Tutorial"
+    }, {
+      "id": "VYUj-X1THV4",
+      "title": "JMeter Test Plan | How To Generate A User Load"
+    }, {
+      "id": "G04pnAaJZBE",
+      "title": "Performance Testing using JMeter"
+    }, {
+      "id": "aPAIkA34B8I",
+      "title": "JMeter Course Details"
+    }, {
+      "id": "VwExSBTFGjQ",
+      "title": "Selenium Tutorial For Beginners | Selenium Tutorial Day 1 | Selenium Webdriver tutorial"
+    }, {
+      "id": "Zx1vjO4eglk",
+      "title": "TestNG Selenium Tutorial 1"
+    }, {
+      "id": "4YiImna1-Hg",
+      "title": "Run TestNG xml from Jenkin"
+    }, {
+      "id": "52_VsGk2un4",
+      "title": "Add Required Dependencies for Selenium Cucumber Framework Video-4"
+    }, {
+      "id": "z-gdYlDCTjI",
+      "title": "Design Selenium Cucumber Test Scripts and Reporting Video-9"
+    }
+  ]
+}
+

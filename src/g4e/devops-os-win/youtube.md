@@ -43,6 +43,13 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## Nobel Tech
+
+<MyYouTubeItems jsonName="yu-NobelTech" />
+
+<!-- Nobel Tech -->
+
+---
 
 ## Tricknology
 

@@ -19,4 +19,6 @@ tags: ["bash", "linux", "macos", "terminal", "alias", "sh", "vim", "neovim"]
 
 <!-- Vim Script -->
 
+---
+
 <TagLinks />

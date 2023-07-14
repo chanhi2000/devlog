@@ -299,5 +299,20 @@
     "desc": "Linux namespaces and seccomp-bpf sandbox",
     "topics": [],
     "officialSite": "https://firejail.wordpress.com"
+  }, {
+    "repo": "ldpreload/BlackLotus",
+    "desc": "BlackLotus UEFI Windows Bootkit",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "topics": ["android", "c", "ffmpeg", "sdl2", "screen", "libav", "recording", "mirroring"],
+    "officialSite": ""
+  }, {
+    "repo": "orioledb/orioledb",
+    "desc": "OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦",
+    "topics": ["postgres", "sql", "database", "postgresql", "postgresql-extension", "table-access-method", "orioledb"],
+    "officialSite": ""
   }
 ]

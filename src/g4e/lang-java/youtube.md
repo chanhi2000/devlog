@@ -597,6 +597,14 @@ meta:
 
 ---
 
+## Ashish Thakur
+
+<MyYouTubeItems jsonName="yu-WhizdomTrainings01" />
+
+<!-- Ashish Thakur -->
+
+---
+
 ## Misc
 
 

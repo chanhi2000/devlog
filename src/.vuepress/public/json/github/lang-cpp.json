@@ -449,6 +449,11 @@
     "desc": "Xbox 360 Emulator Research Project",
     "topics": ["emulator", "c-plus-plus", "cpp", "vulkan", "emulation", "d3d12", "ppc", "xenon", "xbox360"],
     "officialSite": "https://xenia.jp"
+  }, {
+    "repo": "emilybache/GildedRose-Refactoring-Kata",
+    "desc": "Starting code for the GildedRose Refactoring Kata in many programming languages.",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

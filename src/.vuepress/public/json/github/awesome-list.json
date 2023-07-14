@@ -574,5 +574,10 @@
     "desc": "✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.",
     "topics": ["multi-modality", "instruction-following", "in-context-learning", "large-language-models", "chain-of-thought", "instruction-tuning", "visual-instruction-tuning", "large-vision-language-model", "multimodal-instruction-tuning", "large-vision-language-models", "multimodal-large-language-models", "visual-in-context-learning", "multimodal-in-context-learning", "visual-chain-of-thought", "multimodal-chain-of-thought"],
     "officialSite": ""
+  }, {
+    "repo": "SkalskiP/awesome-chatgpt-code-interpreter-experiments",
+    "desc": "Awesome things you can do with ChatGPT + Code Interpreter combo 🔥",
+    "topics": ["language", "chatbot", "code-interpreter", "chatgpt"],
+    "officialSite": ""
   }
 ]

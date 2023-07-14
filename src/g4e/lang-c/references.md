@@ -69,6 +69,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Blog needs a name
+
+- [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

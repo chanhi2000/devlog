@@ -241,9 +241,9 @@
     "officialSite": "https://dioxuslabs.com"
   }, {
     "repo": "GyulyVGC/sniffnet",
-    "desc": "Application to comfortably monitor your network traffic", 
-    "topics": ["windows", "macos", "linux", "rust", "security", "networking", "data-visualization", "gui-application", "packet-sniffer", "network-analysis", "network-programming", "packet-capture", "rust-crate"],
-    "officialSite": "" 
+    "desc": "Application to comfortably monitor your Internet traffic 🕵️‍♂️", 
+    "topics": ["windows", "macos", "linux", "rust", "security", "application", "utility", "networking", "network", "packet-sniffer", "network-analysis", "packet-capture", "rust-crate"],
+    "officialSite": "https://www.sniffnet.net" 
   }, {
     "repo": "qdrant/qdrant",
     "desc": "Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io ",
@@ -469,6 +469,11 @@
     "desc": "A graph editor for local AI workflows",
     "topics": ["rust", "ai", "llm"],
     "officialSite": "http://floneum.com"
+  }, {
+    "repo": "yuankunzhang/charming",
+    "desc": "A visualization library for Rust",
+    "topics": ["visualization", "rust", "chart", "data-science"],
+    "officialSite": ""
   }
 ]
 

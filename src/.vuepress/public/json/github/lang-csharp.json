@@ -174,5 +174,10 @@
     "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
     "topics": ["docker", "microservices", "spa", "xamarin", "ddd", "netcore", "ddd-patterns", "windowscontainers"],
     "officialSite": "https://dot.net/architecture"
+  }, {
+    "repo": "davidfowl/TodoApi",
+    "desc": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+    "topics": ["jwt", "authentication", "aspnetcore", "rest-api", "cookies", "webassembly", "dotnet-core", "blazor", "opentelemetry"],
+    "officialSite": ""
   }
 ]

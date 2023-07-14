@@ -19,5 +19,10 @@
     "desc": "The official Invidious documentation",
     "topics": [],
     "officialSite": "https://docs.invidious.io"
+  }, {
+    "repo": "justinclift/docker-pgautoupgrade",
+    "desc": "PostgreSQL docker container which automatically upgrades to latest PostgreSQL version",
+    "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"],
+    "officialSite": "https://hub.docker.com/r/pgautoupgrade/pgautoupgrade"
   }
 ]

@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "NobelTech",
+    "name": "Nobel Tech",
+    "profile": "https://yt3.googleusercontent.com/zNF87-spTO0Q8Umiq8t-zUSgJeuy8UKc1S5PHRpubiR6FlY9NBKtElDplmWF8xptnHJgXD9rBw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4GGioJM3dHpXna12vZKJTt1pbjck0ByUzC7AIX3pmUDGa2rhmOQS08J73PVriIOm4Am0aKuruiY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "B9uJxvdVFBE",
+      "title" : "How to install Asahi Linux on M1 Mac!"
+    }, {
+      "id": "FoFvMCy9xNI",
+      "title" : "Windows 365 Virtualized! (Hyper-V)"
+    }, {
+      "id": "HqLywj9Jbxo",
+      "title" : "Windows 10 but it's only a 'DOS' environment"
+    }, {
+      "id": "51b4w5HoF3k",
+      "title" : "iPhone 3G Verbose Startup"
+    }, {
+      "id": "VRhKjnufuj8",
+      "title" : "Mac OS X Server 1.0 Demo (PPC Emulation)"
+    }, {
+      "id": "lLcbtmO2zOw",
+      "title" : "How to Restore a Broken iPod (2023)"
+    }
+  ]
+}

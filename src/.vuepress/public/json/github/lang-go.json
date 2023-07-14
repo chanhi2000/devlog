@@ -146,8 +146,8 @@
     "officialSite": ""
   }, {
     "repo": "alist-org/alist",
-    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
-    "topics": [],
+    "desc": "🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "topics": ["golang", "onedrive", "webdav", "gin", "file-server", "solidjs"],
     "officialSite": "https://alist.nn.ci"
   }, {
     "repo": "adhocteam/pushup",
@@ -519,5 +519,20 @@
     "desc": "Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️",
     "topics": ["terraform", "tacos", "infrastructure-as-code", "terraform-aws", "terraform-gcp", "github-actions", "terraform-github-actions", "terraformcloud"],
     "officialSite": "https://digger.dev"
+  }, {
+    "repo": "gogf/gf",
+    "desc": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+    "topics": ["config", "go", "kubernetes", "golang", "template", "framework", "orm", "apollo", "cache", "logger", "validator", "logging", "session", "tracing", "opentracing", "configmap", "go-framework", "goframe", "opentelemetry"],
+    "officialSite": "https://goframe.org"
+  }, {
+    "repo": "gorse-io/gorse",
+    "desc": "Gorse open source recommender system engine",
+    "topics": ["go", "machine-learning", "collaborative-filtering", "recommender-system", "knn"],
+    "officialSite": "https://gorse.io"
+  }, {
+    "repo": "jesseduffield/lazydocker",
+    "desc": "The lazier way to manage everything docker",
+    "topics": [],
+    "officialSite": ""
   }
 ]

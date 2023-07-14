@@ -34,5 +34,10 @@
     "desc": "Your self-hosted, globally interconnected microblogging community",
     "topics": ["docker", "social-network", "activity-stream", "microblog", "mastodon", "webfinger", "activitypub"],
     "officialSite": "https://joinmastodon.org"
+  }, {
+    "repo": "yammer/circuitbox",
+    "desc": "Circuit breaker built with large Ruby apps in mind.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

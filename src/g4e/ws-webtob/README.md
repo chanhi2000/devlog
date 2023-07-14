@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
 title: Intro
-description: 🦖JEUS
-tags: ["java", "jdk", "jdk7", "was", "jeus5", "jeus6"]
+description: 🏹WebtoB
+tags: ["http.m", "webtob", "webserver", "web-server"]
 ---
 
 # {{ $frontmatter.description }} 관련

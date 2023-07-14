@@ -221,8 +221,8 @@
     "officialSite": "https://autogptjs.com"
   }, {
     "repo": "usememos/memos",
-    "desc": "A lightweight, self-hosted memo hub. Open Source and Free forever.",
-    "topics": [],
+    "desc": "A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.",
+    "topics": ["react", "go", "docker", "markdown", "social-network", "memo", "sqlite", "self-hosted", "free", "note-taking", "microblog"],
     "officialSite": "https://usememos.com"
   }, {
     "repo": "shadcn/ui",
@@ -1044,5 +1044,40 @@
     "desc": "A decentralized, Ethereum-equivalent ZK-Rollup. 🥁",
     "topics": [],
     "officialSite": "http://taiko.xyz"
+  }, {
+    "repo": "a16z-infra/companion-app",
+    "desc": "AI companions with memory: a lightweight stack to create and host your own AI companions",
+    "topics": [],
+    "officialSite": "https://ai-companion-stack.com"
+  }, {
+    "repo": "midudev/pruebas-tecnicas",
+    "desc": "Pruebas técnicas donde la comunidad participa con sus soluciones",
+    "topics": ["programacion", "pruebas-tecnicas", "entrevistas-programacion"],
+    "officialSite": "https://pruebastecnicas.com"
+  }, {
+    "repo": "webdevcody/code-racer",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://code-racer-eight.vercel.app"
+  }, {
+    "repo": "penrose/penrose",
+    "desc": "Create beautiful diagrams just by typing notation in plain text.",
+    "topics": ["visualization", "programming-language", "mathematics", "diagrams", "domain-specific-language"],
+    "officialSite": "https://penrose.cs.cmu.edu"
+  }, {
+    "repo": "payloadcms/payload",
+    "desc": "The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.",
+    "topics": ["react", "nodejs", "javascript", "api", "graphql", "open-source", "cms", "express", "typescript", "mongodb", "dashboard", "headless", "content-management", "mit-license", "jamstack", "payload", "content-management-system", "headless-cms", "payloadcms"],
+    "officialSite": "https://payloadcms.com"
+  }, {
+    "repo": "verdaccio/verdaccio",
+    "desc": "📦🔐 A lightweight Node.js private proxy registry",
+    "topics": ["nodejs", "javascript", "docker", "kubernetes", "npm", "registry", "node", "yarn", "docker-image", "hacktoberfest", "private-npm", "pnpm", "verdaccio", "yarnpkg", "npm-registry", "heml", "registry-proxy", "sponsor"],
+    "officialSite": "https://www.verdaccio.org"
+  }, {
+    "repo": "Lissy93/web-check",
+    "desc": "🌐 All-in-one website OSINT tool for analysing any website",
+    "topics": ["security", "privacy", "osint", "sysadmin", "security-tools"],
+    "officialSite": "https://web-check.as93.net"
   }
 ]

@@ -14,5 +14,10 @@
     "desc": "The book in PDF format for all to enjoy!",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！",
+    "topics": ["machine-learning", "matrix", "linear-algebra", "mathematics", "matrix-factorization", "linear"],
+    "officialSite": ""
   }
 ]

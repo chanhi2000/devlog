@@ -60,6 +60,24 @@ tags: ["dart", "flutter"]
 
 <!-- Hallden -->
 
+---
+
+## Tadas Petra
+
+<MyYouTubeItems jsonName="yu-tadaspetra" />
+
+<!-- Tadas Petra -->
+
+---
+
+## Majid Hajian
+
+<MyYouTubeItems jsonName="yu-mhadaily" />
+
+<!-- Majid Hajian -->
+
+---
+
 ## Flutter
 
 <MyYouTubeItems jsonName="yu-flutterdev" />

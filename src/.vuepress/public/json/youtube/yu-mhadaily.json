@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "mhadaily",
+    "name": "Majid Hajian",
+    "profile": "https://yt3.googleusercontent.com/w2kqmU39LOsP9E7YRFprwVIMweRWK7ryK7O9fRfnnLUWc1uiQkKSDOYEXLa6UC4yfdBDDI48LcM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oyxXh_yip44f2RqNc3MbHHImp--fD7_hW1P4PZUv78jYFHrFAMRxaykWKny6vfMZuuC-ZXjVa8s=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": " 7vln5ByYcoI",
+      "title": "Cross Platform File Picker in Flutter - Pair Programming with File_Picker Author"
+    }
+  ]
+}

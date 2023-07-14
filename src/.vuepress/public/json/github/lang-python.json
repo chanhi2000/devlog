@@ -196,8 +196,8 @@
     "officialSite": ""
   }, {
     "repo": "bigscience-workshop/petals",
-    "desc": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
-    "topics": [],
+    "desc": "🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "topics": ["nlp", "bloom", "distributed-systems", "machine-learning", "deep-learning", "chatbot", "pytorch", "transformer", "neural-networks", "llama", "gpt", "pretrained-models", "language-models", "volunteer-computing", "pipeline-parallelism", "guanaco", "tensor-parallelism", "large-language-models"],
     "officialSite": "https://petals.ml"
   }, {
     "repo": "ray-project/ray",
@@ -1430,7 +1430,7 @@
     "officialSite": ""
   }, {
     "repo": "homanp/superagent",
-    "desc": "🥷 SuperAgent - Deploy LLM Agents to production",
+    "desc": "🥷 Superagent - Build, deploy, and manage LLM-powered agents",
     "topics": ["ai", "openai", "cohere", "llm", "langchain", "anthropic", "claude-ai"],
   "officialSite": "https://docs.superagent.sh"
   }, {
@@ -1945,8 +1945,8 @@
     "officialSite": ""
   }, {
     "repo": "danswer-ai/danswer",
-    "desc": "OpenSource Enterprise QA",
-    "topics": [],
+    "desc": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+    "topics": ["natural-language-processing", "information-retrieval", "enterprise-tools", "generative-ai"],
     "officialSite": "https://docs.danswer.dev"
   }, {
     "repo": "kyegomez/LongNet",
@@ -1968,5 +1968,85 @@
     "desc": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
     "topics": ["computer-vision", "computer-graphics", "radiance-field"],
     "officialSite": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting"
+  }, {
+    "repo": "baichuan-inc/Baichuan-13B",
+    "desc": "A 13B large language model developed by Baichuan Intelligent Technology",
+    "topics": ["benchmark", "natural-language-processing", "artificial-intelligence", "chinese", "huggingface", "ceval", "gpt-4", "large-language-models", "chatgpt", "mmlu"],
+    "officialSite": "https://huggingface.co/baichuan-inc/Baichuan-13B-Chat"
+  }, {
+    "repo": "guoyww/AnimateDiff",
+    "desc": "Official implementation of AnimateDiff.",
+    "topics": [],
+    "officialSite": "https://animatediff.github.io"
+  }, {
+    "repo": "mikepound/cubes",
+    "desc": "This code calculates all the variations of 3D polycubes for any size (time permitting!)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "OpenLMLab/MOSS-RLHF",
+    "desc": "MOSS-RLHF",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "pynecone-io/reflex",
+    "desc": "(Previously Pynecone) 🕸 Web apps in pure Python 🐍",
+    "topics": ["python", "infrastructure", "open-source", "framework", "web", "python-library", "python3", "fullstack", "webdev", "webdevelopment"],
+    "officialSite": "https://reflex.dev"
+  }, {
+    "repo": "deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.",
+    "topics": ["python", "nlp", "elasticsearch", "machine-learning", "natural-language-processing", "information-retrieval", "ai", "transformers", "pytorch", "question-answering", "summarization", "transfer-learning", "language-model", "semantic-search", "squad", "bert", "gpt-3", "large-language-models", "generative-ai", "chatgpt"],
+    "officialSite": "https://haystack.deepset.ai"
+  }, {
+    "repo": "bazingagin/npc_gzip",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "minimaxir/simpleaichat",
+    "desc": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity.bazingagin/npc_gzip",
+    "topics": ["ai", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "wandb/wandb",
+    "desc": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
+    "topics": ["data-science", "machine-learning", "reinforcement-learning", "deep-learning", "tensorflow", "keras", "collaboration", "pytorch", "hyperparameter-optimization", "reproducibility", "hyperparameter-tuning", "data-versioning", "hyperparameter-search", "model-versioning", "mlops", "experiment-track", "ml-platform"],
+    "officialSite": "https://wandb.ai"
+  }, {
+    "repo": "filip-michalsky/SalesGPT",
+    "desc": "Context-aware AI Sales Agent to automate sales outreach.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "system76/virgo",
+    "desc": "System76 Virgo Laptop Project",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "UX-Decoder/Semantic-SAM",
+    "desc": "Official implementation of the paper \"Semantic-SAM: Segment and Recognize Anything at Any Granularity\"",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020.",
+    "topics": [],
+    "officialSite": "http://bhaasha.iiit.ac.in/lipsync"
+  }, {
+    "repo": "sweepai/sweep",
+    "desc": "Sweep is an AI junior developer",
+    "topics": ["ai", "devtools", "gpt", "coding-assistant", "gpt-4", "chatgpt", "gen-ai"],
+    "officialSite": "https://sweep.dev"
+  }, {
+    "repo": "RayVentura/ShortGPT",
+    "desc": "🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.",
+    "topics": ["python", "content", "automation", "video", "ai", "artificial-intelligence", "openai", "video-editing", "autonomous-agents", "gpt-4"],
+    "officialSite": "https://discord.gg/uERx39ru3R"
+  }, {
+    "repo": "Forethought-Technologies/AutoChain",
+    "desc": "AutoChain: Build lightweight, extensible, and testable LLM Agents",
+    "topics": [],
+    "officialSite": "https://autochain.forethought.ai"
   }
 ]

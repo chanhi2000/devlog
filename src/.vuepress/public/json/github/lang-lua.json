@@ -69,5 +69,15 @@
     "desc": "🦍 The Cloud-Native API Gateway",
     "topics": ["docker", "nginx", "kubernetes", "iot", "devops", "microservices", "microservice", "serverless", "consul", "api-management", "api-gateway", "luajit", "reverse-proxy", "kong", "apis", "cloud-native", "kubernetes-ingress", "kubernetes-ingress-controller", "servicecontrol"],
     "officialSite": "https://konghq.com/install/#kong-community"
+  }, {
+    "repo": "LazyVim/starter",
+    "desc": "Starter template for LazyVim",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "topics": ["neovim", "nvim", "neovim-conf", "neovim-plugin", "neovim-configuration", "neovim-config"],
+    "officialSite": "https://lazyvim.github.io"
   }
 ]

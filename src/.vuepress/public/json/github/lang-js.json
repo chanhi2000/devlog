@@ -1274,5 +1274,15 @@
     "desc": "The Pines UI library",
     "topics": ["library", "ui", "tailwindcss", "alpinejs"],
     "officialSite": "https://devdojo.com/pines"
+  }, {
+    "repo": "Kong/insomnia",
+    "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
+    "topics": ["api", "graphql", "curl", "rest-api", "websockets", "grpc", "http-client", "api-client", "electron-app", "api-design"],
+    "officialSite": "https://insomnia.rest"
+  }, {
+    "repo": "yokoffing/Betterfox",
+    "desc": "user.js file to harden Firefox and optimize privacy, security, and speed",
+    "topics": ["firefox", "security", "tracking", "settings", "privacy", "mozilla", "anti-tracking"],
+    "officialSite": ""
   }
 ]

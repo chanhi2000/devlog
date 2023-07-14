@@ -414,6 +414,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## EposVox
+
+<MyYouTubeItems jsonName="yu-EposVox" />
+
+<!-- EposVox -->
+
+---
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech

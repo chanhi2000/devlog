@@ -468,7 +468,23 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/ai-openai/references.md',
         '/g4e/ai-openai/youtube.md',
       ]
-    },
+    }, {
+      text: '🦖JEUS',
+      collapsible: true,
+      children: [
+        '/g4e/was-jeus/README.md',
+        '/g4e/was-jeus/basics.md',
+        '/g4e/was-jeus/references.md'
+      ]
+    }, {
+      text: '🏹WebtoB',
+      collapsible: true,
+      children: [
+        '/g4e/ws-webtob/README.md',
+        '/g4e/ws-webtob/basics.md',
+        '/g4e/ws-webtob/references.md'
+      ]
+    }, 
     //endregion
     //region: DB
     {
