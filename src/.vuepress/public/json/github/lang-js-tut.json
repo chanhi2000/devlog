@@ -119,5 +119,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "hiteshchoudhary/apihub",
+    "desc": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.",
+    "topics": ["api", "frontend", "backend", "mobile-development", "backend-api"],
+    "officialSite": "https://freeapi.app"
   }
 ]

@@ -6,6 +6,17 @@ export const sidebarEn: SidebarConfig = {
       text: 'Intro',
       children: [ '/g4e/README.md' ],
     },
+    //region: api
+    {
+      text: '🌱API - Kakao',
+      collapsible: true,
+      children: [
+        '/g4e/api-kakao/README.md',
+        '/g4e/api-kakao/local.md',
+        '/g4e/api-kakao/references.md'
+      ]
+    },
+    //endregion
     //region: lang
     {
       text: '🐚Shell',

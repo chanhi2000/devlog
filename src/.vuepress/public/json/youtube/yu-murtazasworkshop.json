@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "murtazasworkshop",
+    "name": "Murtaza's Workshop - Robotics and AI",
+    "profile": "https://yt3.googleusercontent.com/Txvafy7r_rKj8nQNCf6vy7KPUG_o21oCNwqNQn9Gt3XLLC2ep9B8GLUspO6gxJRbNcejpHag=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ixn07-kVmCxnBPkLYapURFw_vIaN9SXtNTCwu1418xHjBo4BhrOHdY7oBi_5_zJ4jDRjcTOe=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "fHn-6kZkruc",
+      "title": "Learn Computer Vison Web Development in 2 Hours"
+    }, {
+      "id": "9iEPzbG-xLE", 
+      "title": "Gesture Volume Control | OpenCV Python | Computer Vision"
+    }, {
+      "id": "YAhid-ux3aY", 
+      "title": "Learn to build Computer Vision Mobile Apps in 3 DAYS |  iOS and Android"
+    }, {
+      "id": "WQeoO7MI0Bs", 
+      "title": "LEARN OPENCV in 3 HOURS with Python | Including 3xProjects | Computer Vision"
+    }, {
+      "id": "WgPbbWmnXJ8", 
+      "title": "Object Detection 101 Course - Including 4xProjects | Computer Vision"
+    }
+  ]
+}
+

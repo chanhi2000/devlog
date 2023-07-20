@@ -43,6 +43,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [useHooks - A collection of Server Component safe React Hooks – from the ui.dev team](https://usehooks.com)
 - [React30](https://react30.com)
 - [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
+- [Structure and Interpretation of Computer Programs — JavaScript Edition](https://sourceacademy.org/sicpjs/index)
 
 ---
 

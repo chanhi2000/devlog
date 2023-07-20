@@ -2,10 +2,14 @@
   "channel": {
     "id": "JeffSu",
     "name": "Jeff Su",
-    "profile": "https://yt3.googleusercontent.com/EjksPnTKIXouX0VdI14PvCGJh3M2xlWNeW7DBRBis4M9XES6OTD2q23lkakcHlaGRMJUBmY3=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/EjksPnTKIXouX0VdI14PvCGJh3M2xlWNeW7DBRBis4M9XES6OTD2q23lkakcHlaGRMJUBmY3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QePOKFTiLLudlTxqdSHVQhtl045_TJAPG3H2LseZd_hLR2PYm83jsbn6Rx2u-m22A4MSGMpB3Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "MM-MPS57qKA",
+      "title": "This Simple File Management System Changed My Life!"
+    }, {
       "id": "MM-MPS57qKA", 
       "title": "This Simple File Management System Changed My Life!"
     }, {
@@ -26,4 +30,5 @@
     }   
   ]
 }
+
 

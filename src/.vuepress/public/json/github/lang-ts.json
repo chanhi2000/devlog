@@ -247,7 +247,7 @@
   }, {
     "repo": "highlight/highlight",
     "desc": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.",
-    "topics": [],
+    "topics": ["golang", "open-source", "typescript", "monitoring", "metrics", "self-hosted", "full-stack", "apm", "observability", "session-replay"],
     "officialSite": "https://app.highlight.io"
   }, {
     "repo": "appium/appium",
@@ -1079,5 +1079,30 @@
     "desc": "🌐 All-in-one website OSINT tool for analysing any website",
     "topics": ["security", "privacy", "osint", "sysadmin", "security-tools"],
     "officialSite": "https://web-check.as93.net"
+  }, {
+    "repo": "ant-design/ant-design",
+    "desc": "An enterprise-class UI design language and React UI library",
+    "topics": ["react", "design-systems", "typescript", "ui-kit", "antd", "ant-design", "ui-library"],
+    "officialSite": "https://ant.design"
+  }, {
+    "repo": "Microsoft/TypeChat",
+    "desc": "TypeChat is a library that makes it easy to build natural language interfaces using types.",
+    "topics": [],
+    "officialSite": "https://microsoft.github.io/TypeChat"
+  }, {
+    "repo": "lit/lit",
+    "desc": "Lit is a simple library for building fast, lightweight web components.",
+    "topics": ["lit", "html-templates", "lit-html", "lit-element"],
+    "officialSite": "https://lit.dev"
+  }, {
+    "repo": "twentyhq/twenty",
+    "desc": "Building a modern alternative to Salesforce. 🌟 You can star to support our work!",
+    "topics": ["react", "graphql", "sales", "marketing", "typescript", "reactjs", "crm", "customer", "crm-system", "nestjs"],
+    "officialSite": "https://twenty.com"
+  }, {
+    "repo": "4awpawz/fusion.ssg",
+    "desc": "Minimal SSG Framework For Building Static Websites",
+    "topics": [],
+    "officialSite": "https://fusionssg.com"
   }
 ]

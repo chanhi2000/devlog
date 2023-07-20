@@ -314,5 +314,25 @@
     "desc": "OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦",
     "topics": ["postgres", "sql", "database", "postgresql", "postgresql-extension", "table-access-method", "orioledb"],
     "officialSite": ""
+  }, {
+    "repo": "bartobri/no-more-secrets",
+    "desc": "A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.",
+    "topics": ["terminal", "movie", "matrix", "effect", "hacker", "sneakers"],
+    "officialSite": ""
+  }, {
+    "repo": "jmorganca/ollama",
+    "desc": "Get up and running with large language models locally",
+    "topics": ["go", "golang", "llama", "llm", "llms", "llama2"],
+    "officialSite": "https://ollama.ai"
+  }, {
+    "repo": "tavianator/bfs",
+    "desc": "A breadth-first version of the UNIX find command",
+    "topics": ["macos", "linux", "unix", "command-line", "filesystem", "find", "bsd", "directory-tree", "breadth-first-search"],
+    "officialSite": "https://tavianator.com/projects/bfs.html"
+  }, {
+    "repo": "plv8/pljs",
+    "desc": "PLJS - Javascript Language Plugin for PostreSQL",
+    "topics": [],
+    "officialSite": ""
   }
 ]

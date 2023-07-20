@@ -71,6 +71,10 @@ gradlew <모듈명>:fatJar
 | 목적 | 웹브라우저로 페이지를 열기 위한 task |
 | 적업대상 `gradle` 파일 | `./<모듈>/build.gradle` |
 
+::: tabs
+
+@tab:active Groovy
+
 ```gradle
 task openBrowser {
     description = "open browser to the running application"
@@ -83,6 +87,27 @@ task openBrowser {
 }
 ```
 
+@tab Kotlin
+
+```kts
+import java.awt.Desktop
+import java.net.URL
+
+// ... 생략 ...
+
+task("openBrowser") {
+    description = "open browser to the running application"
+    doLast {
+        val port: Int = 8080
+        val contextName = "contextName"
+        val url: URL = URL("http://localhost:$port/$contextName/")
+        Desktop.getDesktop().browse(url.toURI())
+    }
+}
+```
+
+:::
+
 ---
 ## `war` Plugin
 
@@ -91,6 +116,9 @@ task openBrowser {
 | 목적 | 최종 war로 묶어줄 때 타 module에서 compile된 class파일들을 package경로 밑으로 풀어줘서 빌드 되도록 구성 |
 | 적업대상 `gradle` 파일 | `./<war으로 묶어 줄 모듈>/build.gradle` |
 
+::: tabs
+
+@tab:active Groovy
 
 ```gradle
 plugins {
@@ -121,6 +149,40 @@ war {
     }
 }
 ```
+
+@tab Kotlin
+
+```kts
+plugins {
+    id "java"
+    kotlin("jvm")
+}
+
+val defaultBuildClasspath = "build/classes/java/main" // 기타 모듈의 
+
+// ...[생략]... 
+
+dependencies {
+    // ... 풀어서 compile 할 모듈 등록
+    provideCompile(project(":common"))
+    provideCompile(project(":common-ons"))
+    provideCompile(project(":common-ws"))
+    // ...[생략]...
+}
+
+tasks.war {
+    webXml = file("src/main/webapp/WEB-INF/web.xml") // web.xml 지정
+    into("WEB-INF/classes") {
+        // ... 풀어서 compile 할 모듈 나열
+        from "../common/${defaultBuildClasspath}" 
+        from "../common-ons/${defaultBuildClasspath}" 
+        from "../common-ws/${defaultBuildClasspath}" 
+        // ...[생략]...
+    }
+}
+```
+
+:::
 
 실행 시
 

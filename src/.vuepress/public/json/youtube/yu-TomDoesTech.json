@@ -2,10 +2,17 @@
   "channel": {
     "id": "TomDoesTech",
     "name": "TomDoesTech",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNmnQPGtsnGkL-4_i3CdleGuBkz0K5JloJ7Yx6Q=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNmnQPGtsnGkL-4_i3CdleGuBkz0K5JloJ7Yx6Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P-awJyTRhvagO7ehYEoFFazDGsmxeiw1DoVkgDKVP5itd3PMv85aDpjaTA86y86rrDTZNiHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "b6VhN_HHDiQ",
+      "title": "Build a Multi-Tenanted, Role-Based Access Control System"
+    }, {
+      "id": "_LF-IvJsr5Y",
+      "title": "Build &amp; Deploy a Full Stack App to the Edge with Next.js, Neon &amp; Vercel"
+    }, {
       "id": "b6VhN_HHDiQ", 
       "title": "Build a Multi-Tenanted, Role-Based Access Control System"
     }, {
@@ -20,4 +27,3 @@
     }
   ]
 }
-

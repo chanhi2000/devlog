@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "ChrisLawley",
+    "name": "Christopher Lawley",
+    "profile": "https://yt3.googleusercontent.com/qAZZ06lcjUzkDcw4-NB6KdvSNT0Q_7xNn9CNpLh6RNmS1rYM8S8ZyX8Oxd6ySZvqFhptvErqrx4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/seICoo8iasw4g7hvikvtLgAtdpQsPzSuET3Z6tHW9Gi5jn-bODH7cT6PseCRAlWaGHeOneuHDVM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "id": "phNcKFkTG9s",
+      "title": "Amazing Mac Apps Vol. 1" 
+    }, {
+      "id": "phNcKFkTG9s",
+      "title": "Must Have Mac Apps Vol. 1"
+    }, {
+      "id": "XK7cIgCYskE",
+      "title": "Mac Studio M2 Max: First Look at Unlimited Power"
+    }
+  ]
+}

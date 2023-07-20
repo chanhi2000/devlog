@@ -2,10 +2,35 @@
   "channel": {
     "id": "user-ej5rc3gi3p",
     "name": "이백행",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNwyDxwNfd0LOJmohn-Dflxh0MPngsTHh0iyg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNwyDxwNfd0LOJmohn-Dflxh0MPngsTHh0iyg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
   },
   "videos": [
     {
+      "id": "nEzYheaxhG0",
+      "title": "? 를 AtchmnFileVO 로 수정"
+    }, {
+      "id": "plpksbmsoVc",
+      "title": "selectDeptSchdulManageAuthorGroupPopup ? 를 EgovMap 으로 수정"
+    }, {
+      "id": "O_Rl1yImRW8",
+      "title": "제네릭 타입 명시-지식맵관리(유형)"
+    }, {
+      "id": "S153tXnsIJw",
+      "title": "제네릭 타입 명시-디지털자산관리 - 지식정보관리"
+    }, {
+      "id": "0AR5IHuw-NY",
+      "title": "제네릭 타입 명시: 디지털자산관리 - 지식요청제공관리"
+    }, {
+      "id": "0YGyjYq4mZo",
+      "title": "제네릭 타입 명시: 디지털자산관리 - 지식전문가관리"
+    }, {
+      "id": "2yDXiciska4",
+      "title": "제네릭 타입 명시: 통계/리포팅 - 화면 통계"
+    }, {
+      "id": "WckpOEoRBJg",
+      "title": "제네릭 타입 명시: 송수신 로그정보 목록을 조회한다."
+    }, {
       "id": "plpksbmsoVc",
       "title": "selectDeptSchdulManageAuthorGroupPopup ? 를 EgovMap 으로 수정"
     }, {
@@ -116,4 +141,3 @@
     }
   ]
 }
-

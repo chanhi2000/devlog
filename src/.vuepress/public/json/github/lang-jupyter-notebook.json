@@ -308,6 +308,11 @@
     "repo": "mshumer/gpt-prompt-engineer",
     "desc": "",
     "topics": [],
+  "officialSite": ""
+  }, {
+    "repo": "facebookresearch/llama-recipes",
+    "desc": "Examples and recipes for Llama 2 model",
+    "topics": [],
     "officialSite": ""
   }
 ]

@@ -63,4 +63,11 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Interrupt by Memfault
+
+- [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
+
+---
+v
+
 <TagLinks />

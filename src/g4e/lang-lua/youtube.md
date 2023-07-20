@@ -54,4 +54,12 @@ meta:
 
 ---
 
+## typecraft
+
+<MyYouTubeItems jsonName="yu-typecraft_dev" />
+
+<!-- typecraft -->
+
+---
+
 <TagLinks />

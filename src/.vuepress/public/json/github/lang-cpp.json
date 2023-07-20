@@ -454,6 +454,26 @@
     "desc": "Starting code for the GildedRose Refactoring Kata in many programming languages.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "ValveSoftware/GameNetworkingSockets",
+    "desc": "Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.",
+    "topics": ["networking", "peer-to-peer", "game-development", "realtime-messaging", "reliable-messages"],
+    "officialSite": ""
+  }, {
+    "repo": "vitoplantamura/OnnxStream",
+    "desc": "Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)",
+    "topics": ["raspberry-pi", "machine-learning", "onnx", "stable-diffusion"],
+    "officialSite": ""
+  }, {
+    "repo": "Sunrisepeak/KHistory",
+    "desc": "KHistory is an elegant keystrokes detect tools",
+    "topics": ["keyboard", "cross-platform", "imgui", "keylogger", "gamepad", "dstruct", "dsvisual"],
+    "officialSite": ""
+  }, {
+    "repo": "hoochanlon/Free-NTFS-For-Mac",
+    "desc": "Nigate，一款支持苹果芯片的Free NTFS for Mac小工具软件。NTFS R/W for macOS. Support Intel/Apple Silicon now.",
+    "topics": ["macos", "arm", "intel", "ntfs", "osxfuse", "m1", "ntfs-3g", "nigate"],
+    "officialSite": "https://hoochanlon.github.io/Free-NTFS-for-Mac"
   }
 ]
 

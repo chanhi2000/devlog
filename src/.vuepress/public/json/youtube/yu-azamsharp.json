@@ -2,10 +2,23 @@
   "channel": {
     "id": "azamsharp",
     "name": "azamsharp",
-    "profile": "https://yt3.googleusercontent.com/GXpPaWW6a7mVSpmmaX9wvpYEx2KVkfd8NRq6eBCs6rykH2jxaH1wDqOOyBDvMdOcJaztUXTBkg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/GXpPaWW6a7mVSpmmaX9wvpYEx2KVkfd8NRq6eBCs6rykH2jxaH1wDqOOyBDvMdOcJaztUXTBkg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q18Zm-VopeLTtRezGw9o2oLPwz4Ig_S-FQReSIYTIgDbzTfX1XSDxxzyoiRu9tHtA9kJ57hylIE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "ajZ-k9Lwg5M",
+      "title": "Server Side Swift Using Vapor Part 2 - Understanding Routing"
+    }, {
+      "id": "wrJTcL8kEAY",
+      "title": "Server Side Swift Using Vapor Part 6 - Middlewares"
+    }, {
+      "id": "YxpMbjB9gKQ",
+      "title": "Hello SwiftData!"
+    }, {
+      "id": "Te_rk1z-cEY",
+      "title": "Building a Budget App in SwiftData - Managing Xcode Previews - Part 3"
+    }, {
       "id": "wrJTcL8kEAY", 
       "title": "Server Side Swift Using Vapor Part 6 - Middlewares"
     }, {
@@ -128,3 +141,4 @@
     }
   ]
 }
+

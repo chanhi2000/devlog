@@ -14,5 +14,10 @@
     "desc": "Reproduce DeFi hacked incidents using Foundry.",
     "topics": ["ethereum", "solidity", "web3", "foundry", "defi"],
     "officialSite": ""
+  }, {
+    "repo": "Uniswap/UniswapX",
+    "desc": "🦄 Gasless ERC20 swap settlement protocol 🦄",
+    "topics": [],
+    "officialSite": ""
   }
 ]

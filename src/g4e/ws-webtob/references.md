@@ -31,4 +31,15 @@ tags: ["http.m", "webtob", "webserver", "web-server"]
 
 ---
 
+## GodNR
+
+- [[WebtoB] GotoEXT 설정 옵션 및 Regular Expression에 대한 활용](https://waspro.tistory.com/274)
+
+
+## yjkim96
+
+- [[Jeus] 정적파일 webtoB로 처리, 동적파일 Jeus로 처리 설정](https://yjkim96.tistory.com/24)
+
+---
+
 <TagLinks/>

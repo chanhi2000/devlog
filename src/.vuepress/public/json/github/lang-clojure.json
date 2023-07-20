@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "zachallaun/secd",
+    "desc": "A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
+    "topics": ["git", "markdown", "clojure", "graph", "clojurescript", "knowledge-graph", "org-mode", "note-taking", "knowledge-base", "pkm", "local-first"],
+    "officialSite": "https://logseq.com"
+  }
+]

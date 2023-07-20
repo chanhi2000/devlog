@@ -62,7 +62,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   <div class="feature">
     <h2>🗞️</h2>
     <ul>
-      <li><a target="_blank" href="https://lemmy.world">🐀Lemmy.World</a></li>
+      <!-- <li><a target="_blank" href="https://lemmy.world">🐀Lemmy.World</a></li> -->
       <li><a target="_blank" href="https://news.hada.io">🤓GeekNews</a></li>
       <li><a target="_blank" href="https://remoteok.com">🌐Remote OK</a></li>
       <li><a target="_blank" href="https://newsgpt.web.app">📮NewsGPT</a></li>

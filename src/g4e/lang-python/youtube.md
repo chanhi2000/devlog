@@ -115,6 +115,12 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
-<TagLinks />
+## Murtaza's Workshop - Robotics and AI
 
-[yu-dev-won-young]: https://www.youtube.com/@DevWonYoung
+<MyYouTubeItems jsonName="yu-murtazasworkshop" />
+
+<!-- Murtaza's Workshop - Robotics and AI -->
+
+---
+
+<TagLinks />

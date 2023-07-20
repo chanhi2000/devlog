@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.3.0  2023-07-24][v0.3.0]
+
+- Youtube 체널 배너 추가
+- 내용채워넣기
+
+---
+
 ## [v0.2.50  2023-07-19][v0.2.50]
 
 - 내용채워넣기
@@ -610,6 +617,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.3.0]: https://github.com/chanhi2000/devlog/compare/v0.2.50...v0.3.0
 [v0.2.50]: https://github.com/chanhi2000/devlog/compare/v0.2.49...v0.2.50
 [v0.2.49]: https://github.com/chanhi2000/devlog/compare/v0.2.48...v0.2.49
 [v0.2.48]: https://github.com/chanhi2000/devlog/compare/v0.2.47...v0.2.48

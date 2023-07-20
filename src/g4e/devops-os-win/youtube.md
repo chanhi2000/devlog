@@ -115,22 +115,12 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
-## Misc
+## Tech YES City
 
-<!-- [Battle(non)sense][yu-battle-non-sense] -->
+<MyYouTubeItems jsonName="yu-techyescity" />
+
+<!-- Tech YES City -->
 
 ---
 
 <TagLinks />
-
-[yu-microsoft-research]: https://www.youtube.com/@MicrosoftResearch
-[yu-thio-joe]: https://www.youtube.com/@ThioJoe
-[yu-netvn82]: https://www.youtube.com/@NETVN82
-[yu-britec-09]: https://www.youtube.com/@Britec09
-[yu-tricknology]: https://www.youtube.com/@Tricknology
-[yu-trouble-chute]: https://www.youtube.com/@TroubleChute
-[yu-geeks-tutorial]: https://www.youtube.com/@GeeksTutorial
-[yu-enderman]: https://www.youtube.com/@Endermanch
-[yu-techsavvy-productinos]: https://www.youtube.com/@TechsavvyProductions
-[yu-michael-mjd]: https://www.youtube.com/@MichaelMJD
-[yu-battle-non-sense]: https://www.youtube.com/@BattleNonSense

@@ -2,10 +2,17 @@
   "channel": {
     "id": "visualstudio",
     "name": "Microsoft Visual Studio",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPksMO5xUGT8OTKJyG2KdfH4jCiyut7uNmTB0JYbNQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPksMO5xUGT8OTKJyG2KdfH4jCiyut7uNmTB0JYbNQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LK42VijKwiENd5dKS4cYv4wKCoUzCVP9W2PZ-GEv_FQBa0k64JaoZV9F142MfXvP9M6Xp2bq=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "skUKcNMy1DA",
+      "title": "Speed up your builds of SDK-style .NET projects"
+    }, {
+      "id": "GhmEKQGE2yk",
+      "title": "The Remote File Explorer tool window of Visual Studio"
+    }, {
       "id": "skUKcNMy1DA",
       "title": "Speed up your builds of SDK-style .NET projects"
     }, {
@@ -29,5 +36,4 @@
     }
   ]
 }
-
 

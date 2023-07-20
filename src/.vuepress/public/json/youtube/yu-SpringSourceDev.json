@@ -2,10 +2,17 @@
   "channel": {
     "id": "SpringSourceDev",
     "name": "SpringDeveloper",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPWSPmV679YWKb6itw5qzAMB9eu-2Mar4fuWDLq=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPWSPmV679YWKb6itw5qzAMB9eu-2Mar4fuWDLq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "url(https://yt3.googleusercontent.com/FQS_lysIGW5MmkQB8lBaWVJCWfUnuLUaIgg6nJDp7i6J_om4-iANSAPa527xY8seM8k69EIvBQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)"
   },
   "videos": [
     {
+      "id": "lzjgjeWiPL0",
+      "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI"
+    }, {
+      "id": "pXCVRj10zNY",
+      "title": "Modern Development with Spring Boot 3 on Azure"
+    }, {
       "id": "lzjgjeWiPL0",
       "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI"
     }, {

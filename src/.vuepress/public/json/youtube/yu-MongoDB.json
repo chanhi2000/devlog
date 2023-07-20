@@ -6,6 +6,18 @@
   },
   "videos": [
     {
+      "id": "1d_G8jr0KJE",
+      "title": "Exploring the MongoDB Extension for Visual Studio Code (VS Code)"
+    }, {
+      "id": "_0RlVAM2THk",
+      "title": "Python Development Made Easy: How to Set Up a Virtual Environment"
+    }, {
+      "id": "gE88L4iJ0Zk",
+      "title": "Azure Cloud Connect - Quick and Easy Application Deployments on Azure App Service with MongoDB"
+    }, {
+      "id": "YixtWTGUyFk",
+      "title": "Building a Real-Time Web App with MongoDB Atlas App Services"
+    }, {
       "id": "_0RlVAM2THk",
       "title": "Python Development Made Easy: How to Set Up a Virtual Environment"
     }, {

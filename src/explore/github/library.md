@@ -57,7 +57,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Clojure
 
+<MyGithubItems jsonName="lang-clojure" />
+
 - [zachallaun/secd][zachallaun/secd]: A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)
+- [logseq/logseq][logseq/logseq]: 
 
 ---
 

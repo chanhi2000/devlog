@@ -2,10 +2,17 @@
   "channel": {
     "id": "ShanesCows",
     "name": "Shane Young",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOo2TSYIGTjLT-dWOIHbabi4BoU3lwT39V0hCQa=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOo2TSYIGTjLT-dWOIHbabi4BoU3lwT39V0hCQa=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-IIo0fQaudHhJhJxlRbO0R8WM62cGhN7kxJPeqjttKADE7-Kp5v5RZIDCB16nA6CK3grwcXeMbI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "KD_FnyqH3Lo",
+      "title": "Turn Excel into an App with Copilot Magic"
+    }, {
+      "id": "W8JjF2k0IQA",
+      "title": "Saving Power Apps Data with the Patch Function"
+    }, {
       "id": "WlWT0lWTGU8",
       "title": "Validate Inputs, Warn Users, and Disable Buttons in Power Apps"
     }, {

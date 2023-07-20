@@ -514,6 +514,13 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## David Choi
+
+<MyYouTubeItems jsonName="yu-DavidChoiProgrammer" />
+
+<!-- David Choi -->
+
+---
 
 ## Misc
 

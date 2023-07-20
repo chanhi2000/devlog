@@ -474,6 +474,21 @@
     "desc": "A visualization library for Rust",
     "topics": ["visualization", "rust", "chart", "data-science"],
     "officialSite": ""
+  }, {
+    "repo": "stalwartlabs/mail-server",
+    "desc": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)",
+    "topics": ["rust", "mail", "server", "imap", "smtp", "jmap"],
+    "officialSite": "https://stalw.art"
+  }, {
+    "repo": "iggy-rs/iggy",
+    "desc": "Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.",
+    "topics": ["rust", "http", "streaming", "tcp", "messaging", "quic", "iggy"],
+    "officialSite": ""
+  }, {
+    "repo": "andreabergia/rjvm",
+    "desc": "A tiny JVM written in Rust. Learning project",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

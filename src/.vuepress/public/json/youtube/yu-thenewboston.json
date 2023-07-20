@@ -2,7 +2,8 @@
   "channel": {
     "id": "thenewboston",
     "name": "thenewboston",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMaD980mjhug5lAdmvJtuk4Mmrt3vtE2LMn7O9qBA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMaD980mjhug5lAdmvJtuk4Mmrt3vtE2LMn7O9qBA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9DKy95AxTFOd98MqP1P6JzG1JayMWonpB3UkQLu5noWEcyy0hdMJr94auTgNrHY8APrxdSRQKd0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
@@ -32,3 +33,4 @@
     }
   ]
 }
+

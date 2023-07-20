@@ -2,10 +2,23 @@
   "channel": {
     "id": "MyOnlineTrainingHub",
     "name": "MyOnlineTrainingHub",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPShpNp8kRem_QR2hB4WbJHpHkPM-I1gL8SceOgnQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPShpNp8kRem_QR2hB4WbJHpHkPM-I1gL8SceOgnQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VaCnMgbzb5oH4gebvarUx9g2tgwRqy1t3bbFc-_HZ6gsG_HQgqLH6VAvyB47nk7CIKT4126QvOc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "Nbhd0B5ldJE",
+      "title": "You're Combining Files from a Folder with Power Query ALL WRONG!"
+    }, {
+      "id": "lRqCd2eL2gA",
+      "title": "NEW Formula by Example 10x Better than Flash Fill"
+    }, {
+      "id": "E-biTPeOTMg",
+      "title": "Excel Formatting Habits That Drive Me CRAZY!"
+    }, {
+      "id": "nWk8ePd9XJU",
+      "title": "Excel + ChatGPT - Center Across Selection Shortcut Macro!"
+    }, {
       "id": "lRqCd2eL2gA",
       "title": "NEW Formula by Example 10x Better than Flash Fill"
     }, {
@@ -44,4 +57,3 @@
     }
   ]
 }
-

@@ -339,6 +339,11 @@
     "desc": "A MQTT broker implementation adopting serverless architecture",
     "topics": ["mqtt", "iot", "multi-tenant", "serverless", "distributed", "mqtt-broker", "decentralized-cluster"],
     "officialSite": "https://bifromq.io"
+  }, {
+    "repo": "alipay/fury",
+    "desc": "A blazing fast multi-language serialization framework powered by jit and zero-copy",
+    "topics": ["javascript", "python", "java", "rust", "fast", "golang", "encoding", "serialization", "compression", "lightning", "cpp", "transfer", "zero-copy", "persistence", "marshalling", "jit", "rpc", "transport", "cross-language", "multiple-language"],
+    "officialSite": "https://furyio.org"
   }
 ]
 

@@ -534,5 +534,30 @@
     "desc": "The lazier way to manage everything docker",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "charmbracelet/pop",
+    "desc": "Send emails from your terminal 📬",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "okx/go-wallet-sdk",
+    "desc": "Multi-chain golang signature sdk, supports bitcoin, ethereum, aptos, cosmos, etc.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "acheong08/ChatGPT-to-API",
+    "desc": "Scalable unofficial ChatGPT API for production.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "GRVYDEV/S.A.T.U.R.D.A.Y",
+    "desc": "A toolbox for working with WebRTC, Audio and AI",
+    "topics": ["audio", "golang", "ai", "webrtc", "opus", "opus-codec", "whisper-cpp"],
+    "officialSite": ""
+  }, {
+    "repo": "nats-io/nats-server",
+    "desc": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "topics": ["go", "golang", "distributed-systems", "cloud", "messaging", "message-bus", "message-queue", "cloud-computing", "cloud-native", "microservices-architecture", "nats-server"],
+    "officialSite": "https://nats.io"
   }
 ]

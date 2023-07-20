@@ -34,4 +34,19 @@ tags: ["kotlin", "jdk", "jdk8", "links", "medium", "references"]
 - [Gradle Kotlin DSL을 무작정 적용해보자! - 개발새발 블로그](https://seansation-blog.tistory.com/7)
 - [gist : Android Livedata Observe Once Only (Kotlin)](https://gist.github.com/kobeumut/edb3edd9a2ae9abf6984a42bb2de0441)
 
+---
+
+## kciter
+
+- [Railway-Oriented Programming](https://kciter.so/posts/railway-oriented-programming)
+
+---
+
+## kotlinworld
+
+- [[Gradle] Custom Task 만들고 Task Chaining 하기](https://kotlinworld.com/322)
+
+--- 
+
+
 <TagLinks />

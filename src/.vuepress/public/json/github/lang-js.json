@@ -1284,5 +1284,15 @@
     "desc": "user.js file to harden Firefox and optimize privacy, security, and speed",
     "topics": ["firefox", "security", "tracking", "settings", "privacy", "mozilla", "anti-tracking"],
     "officialSite": ""
+  }, {
+    "repo": "destinygg/dgg-place",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  },{
+    "repo": "cortex-js/cortexjs.io",
+    "desc": "Source for the cortexjs.io website",
+    "topics": ["components", "documentation", "scientific-computing", "cortexjs"],
+    "officialSite": "http://cortexjs.io"
   }
 ]

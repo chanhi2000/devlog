@@ -163,12 +163,18 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 
 ## ChiliTomatoNoodle
 
+<MyYouTubeItems jsonName="yu-ChiliTomatoNoodle" />
+
 <!-- ChiliTomatoNoodle -->
 
 ---
 
-<TagLinks />
+## ThinMatrix
 
-[yu-user-kw8xd4qi8q]: https://www.youtube.com/@user-kw8xd4qi8q
-[yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93
-[yu-tsoding-daily]: https://www.youtube.com/@TsodingDaily
+<MyYouTubeItems jsonName="yu-ThinMatrix" />
+
+<!-- ThinMatrix -->
+
+---
+
+<TagLinks />

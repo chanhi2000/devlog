@@ -2048,5 +2048,55 @@
     "desc": "AutoChain: Build lightweight, extensible, and testable LLM Agents",
     "topics": [],
     "officialSite": "https://autochain.forethought.ai"
+  }, {
+    "repo": "shroominic/codeinterpreter-api",
+    "desc": "Open source implementation of the ChatGPT Code Interpreter 👾",
+    "topics": ["code-interpreter", "chatgpt", "langchain", "chatgpt-code-generation", "llm-agent", "codeinterpreter"],
+    "officialSite": "https://discord.gg/G9s2pqkuH4"
+  }, {
+    "repo": "Dao-AILab/flash-attention",
+    "desc": "Fast and memory-efficient exact attention",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "topics": ["home-automation", "mqtt", "ai", "camera", "rtsp", "tensorflow", "nvr", "realtime", "home-assistant", "homeautomation", "object-detection", "google-coral"],
+    "officialSite": "https://frigate.video"
+  }, {
+    "repo": "scaleapi/llm-engine",
+    "desc": "Scale LLM Engine public repository",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jxxghp/MoviePilot",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "michaelshumshum/r-placer",
+    "desc": "bot for 2022 r/place",
+    "topics": ["python", "bot", "reddit", "place", "2022"],
+    "officialSite": ""
+  }, {
+    "repo": "rdeepak2002/reddit-place-script-2022",
+    "desc": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
+    "topics": ["bot", "reddit", "script", "pixelart", "place", "2022", "rplace"],
+    "officialSite": ""
+  }, {
+    "repo": "kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference",
+    "desc": "Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A",
+    "topics": ["python", "nlp", "machine-learning", "natural-language-processing", "cpu", "deep-learning", "transformers", "llama", "language-models", "faiss", "sentence-transformers", "cpu-inference", "large-language-models", "llm", "chatgpt", "langchain", "document-qa", "open-source-llm", "c-transformers", "llama-2"],
+    "officialSite": "https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8"
+  }, {
+    "repo": "shroominic/codeinterpreter-api",
+    "desc": "Open source implementation of the ChatGPT Code Interpreter 👾",
+    "topics": ["code-interpreter", "chatgpt", "langchain", "chatgpt-code-generation", "llm-agent", "codeinterpreter"],
+    "officialSite": "https://discord.gg/G9s2pqkuH4"
+  }, {
+    "repo": "karpathy/llama2.c",
+    "desc": "Inference Llama 2 in one file of pure C",
+    "topics": [],
+    "officialSite": ""
   }
 ]

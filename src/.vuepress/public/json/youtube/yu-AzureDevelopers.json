@@ -2,10 +2,41 @@
   "channel": {
     "id": "AzureDevelopers",
     "name": "Azure Developers",
-    "profile": "https://yt3.googleusercontent.com/Uf8xZglGJaw1CZqR2uRRGEwi9RVzlcauvStbph2YNfU8TdviWjEVPsieKvQTfvWVJXjGzRzg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/Uf8xZglGJaw1CZqR2uRRGEwi9RVzlcauvStbph2YNfU8TdviWjEVPsieKvQTfvWVJXjGzRzg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4rtjrb_IF5E8XCtVgl_Bb5_O1xOyqAhDMXUAUifKwwwqLWp-mBNCppPJUGNs3RzJAJYwFufc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "leJRc0JWzSY",
+      "title": "Getting started in the Azure Portal"
+    }, {
+      "id": "EqNJ9IQgODI",
+      "title": "Get more from your free account"
+    }, {
+      "id": "y8Hy0uYL3hg",
+      "title": "Architect your Azure solutions"
+    }, {
+      "id": "OEdZGF1JcEI",
+      "title": "Manage &amp; organize Azure resources"
+    }, {
+      "id": "Ud5CqyMHKTg",
+      "title": "Select the best Azure region"
+    }, {
+      "id": "ipUY8oz3SpM",
+      "title": "Estimate &amp; reduce Azure costs"
+    }, {
+      "id": "JYHzkwvu_BA",
+      "title": "Manage costs &amp; avoid overspending"
+    }, {
+      "id": "irs2q7YefHA",
+      "title": "Deploy Azure virtual machines"
+    }, {
+      "id": "xJFX_bGb6Uc",
+      "title": "Create &amp; deploy app services"
+    }, {
+      "id": "GDSiWvUZK9E",
+      "title": "Convert automations for SQL databases"
+    }, {
       "id": "GDSiWvUZK9E",
       "title": "Convert automations for SQL databases"
     }, {

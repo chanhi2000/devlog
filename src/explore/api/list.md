@@ -19,6 +19,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [gitignore][gitignore]: Create useful .gitignore files for your project
 - [Smalldev Tools][small-devtools]
 - [mobbin][mobbin]: Browse iOS apps
+- [Iconbuddy](https://iconbuddy.app): Download, Customize, Edit and Personalize. Over 100k+ open source icons
 - [heroicons][heroicons]: Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Bootstrap Icons][Bootstrap-Icons]: Official open source SVG icon library for Bootstrap.
 - [regexper][regexper]: You thought you only had two problems…
@@ -92,7 +93,6 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [allcredit](https://www.allcredit.co.kr): 올크래딧
 - [국민안전방송 안전한tv](http://www.safetv.go.kr/web/main/main.do)
 - [한국디자인진흥원](https://www.designdb.com)
-
 
 ---
 

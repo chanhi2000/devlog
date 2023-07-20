@@ -94,5 +94,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "dabeaz-course/python-mastery",
+    "desc": "Advanced Python Mastery (course by @dabeaz)",
+    "topics": ["python"],
+    "officialSite": ""
   }
 ]

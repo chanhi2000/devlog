@@ -2,10 +2,59 @@
   "channel": {
     "id": "boanproject",
     "name": "보안프로젝트[boanproject]",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM4pc0WUz5zNKYoDKOEWPU-koApRZuhkVOHGNCqgg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM4pc0WUz5zNKYoDKOEWPU-koApRZuhkVOHGNCqgg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "SsYecHmsxvA",
+      "title": "파이썬 collections counter 라이브러리를 이용한 단어 빈도 사례 #python #파이썬자동화"
+    }, {
+      "id": "Q5qF-QHiRYM",
+      "title": "모의해킹 공부할 때 OWASP Juice Shop 웹 취약점 환경 추천!! 간단한 설명"
+    }, {
+      "id": "D8Wf0WatcxE",
+      "title": "파이썬 Tkinter GUI - RSS 정보 수집과 엑셀 파일로 저장 #python #파이썬자동화"
+    }, {
+      "id": "SxRdUnyNTxQ",
+      "title": "Shodan API 활용한 호스트 정보 수집과 Streamlit 적용 #python #shodan"
+    }, {
+      "id": "GqJeo2ADiTY",
+      "title": "보안 동향 - 깃허브 PoC 코드가 실제는 악성코드라고? 보안전문가도 당한다."
+    }, {
+      "id": "DUwERWxYGoU",
+      "title": "파이썬 streamlit 헬로우 페이지 확인 및 여러 프로젝트 사례 보기 #python #streamlit"
+    }, {
+      "id": "koElzBJpPT8",
+      "title": "Colab에 공공데이터 파일 불러와서 원하는 데이터 조회 및 numpy 통계"
+    }, {
+      "id": "5MlK0uR1yac",
+      "title": "Colab에 공공데이터 csv 파일 업로드 및 판다스로 불러오기 #python #colab"
+    }, {
+      "id": "CCauRw3EmA4",
+      "title": "AWS 클라우드 Lightsail 워드프레스 구축 및 Criminal IP 플러그인 설치 #aws #wordpress"
+    }, {
+      "id": "3nyQ2gd0EZQ",
+      "title": "칼리리눅스 theHarvester 도구에 Criminal IP 검색 서비스 포함 #kalilinux #criminalip"
+    }, {
+      "id": "dz-6IbKmLvE",
+      "title": "ChatGPT를 이용하여 HTML 사진 앨범 페이지 만들어보기 #chatgpt #html #css"
+    }, {
+      "id": "6piHBPbq9h8",
+      "title": "ChatGPT Code Interpreter 웹 로그 분석 시각화 및 대용량 분석의 한계 #chatgpt #codeinterpreter"
+    }, {
+      "id": "Yp5I3o_Zj5M",
+      "title": "ChatGPT Code Interpreter 사진 필터링 적용과 웹 서비스로 구축 #chatgpt #codeinterpreter #streamlit"
+    }, {
+      "id": "UZHpYG0lUvQ",
+      "title": "파이썬을 이용한 mongodb 데이터베이스 생성 및 데이터 추가 #python #mongodb #파이썬자동화"
+    }, {
+      "id": "MrmMqcGf7mg",
+      "title": "파이썬 플라스크를 이용하여 워드 파일 수료증 자동 생성  #python #파이썬 #flask"
+    }, {
+      "id": "SRuPphDiKLg",
+      "title": "파이썬 diagrams 라이브러리를 이용한 클라우드 아키텍처 만들기 #python #aws"
+    }, {
       "id": "hYb8TXhk5IE",
       "title": "파이썬 tkinter - 캘린더 기능이 포함된 프로젝트 목록 관리 프로그램"
     }, {
@@ -461,6 +510,3 @@
     }
   ]
 }
-
-
-

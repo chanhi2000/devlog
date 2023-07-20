@@ -1,4 +1,4 @@
----
+
 lang: ko-KR
 title: 📺Youtube
 description: ☕️Java > 📺Youtube
@@ -325,6 +325,14 @@ meta:
 
 ---
 
+## FOSDEM
+
+<MyYouTubeItems jsonName="yu-fosdemtalks" />
+
+<!-- FOSDEM -->
+
+---
+
 ## Java Brains
 
 <MyYouTubeItems jsonName="yu-Java.Brains" />
@@ -605,9 +613,26 @@ meta:
 
 ---
 
-## Misc
+## Siva Reddy
 
+<MyYouTubeItems jsonName="yu-SivaReddyJavaTechie" />
+
+<!-- Siva Reddy -->
 
 ---
+
+## Patrick WashingtonDC
+
+<MyYouTubeItems jsonName="yu-patrickwashingtondc" />
+
+<!-- Patrick WashingtonDC -->
+
+---
+
+## JavaSoul
+
+<MyYouTubeItems jsonName="yu-javasoul4367" />
+
+<!-- JavaSoul -->
 
 <TagLinks />

@@ -2,10 +2,23 @@
   "channel": {
     "id": "HiteshChoudharydotcom",
     "name": "Hitesh Choudhary",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtYi8hjwWCScQ05ECuFXG7ZKq9-luMYoTek-N12A=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtYi8hjwWCScQ05ECuFXG7ZKq9-luMYoTek-N12A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xGlR3Vz-RYHgwRj50-VEdBksVyjyJhvzQUEVttMCd5iRVdw-OXdFkPBPswF2nG_13QR2UfXnCQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "YkxrbxoqHDw",
+      "title": "What is CSR SSR SSG and ISR"
+    }, {
+      "id": "cv-6bAeYsOY",
+      "title": "Pieces: An Essential Tool for the Modern Developer's Toolkit"
+    }, {
+      "id": "rWv0zzEYB2w",
+      "title": "Using Appwrite service with custom context in React Native"
+    }, {
+      "id": "75hqPk6pq5g",
+      "title": "Flutter Windows Installation"
+    }, {
       "id": "zlojM-Jbux4",
       "title": "Complete Appwrite authentication walkthrough"
     }, {
@@ -44,5 +57,4 @@
     }
   ]
 }
-
 

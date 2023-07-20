@@ -179,5 +179,10 @@
     "desc": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
     "topics": ["jwt", "authentication", "aspnetcore", "rest-api", "cookies", "webassembly", "dotnet-core", "blazor", "opentelemetry"],
     "officialSite": ""
+  }, {
+    "repo": "SebLague/Chess-Challenge",
+    "desc": "https://youtu.be/iScy18pVR58",
+    "topics": [],
+    "officialSite": ""
   }
 ]

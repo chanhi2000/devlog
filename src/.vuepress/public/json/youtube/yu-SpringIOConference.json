@@ -2,10 +2,65 @@
   "channel": {
     "id": "SpringIOConference",
     "name": "Spring I/O",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqObJFutPjpEmEuz_nIWdXW4wkkvTZ12WuEOvPGe=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqObJFutPjpEmEuz_nIWdXW4wkkvTZ12WuEOvPGe=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/15DBdfbiqj13jw7f4yX1969EIS_ktruqqDH7gEBJVzOJLuOUbDN-ypVNi0XkGtHmmr8NmQa6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "8umoZWj6UcU",
+      "title": "Going Native:  Fast and Lightweight Spring Boot Applications with GraalVM by Alina Yurenko"
+    }, {
+      "id": "mbNzUkNjrnA",
+      "title": "Anatomy of a Spring Boot App with Clean Architecture by Steve Pember @ Spring I/O 2023"
+    }, {
+      "id": "6R6S91i_m50",
+      "title": "All your APIs are mine - Secure them now by Andreas Falk @ Spring I/O 2023"
+    }, {
+      "id": "pG-NinTx4O4",
+      "title": "Multitenant Mystery  Only Rockers in the Building by Thomas Vitale @ Spring I/O 2023"
+    }, {
+      "id": "8_sh0ZyuaCc",
+      "title": "From k9s to OpenTelemetry:A guide to observability for your Spring apps in K8s by Matthias Haeussler"
+    }, {
+      "id": "sKK-GSvXVxg",
+      "title": "Kotlin for Fun for Spring Fans by Shinya Yanagihara @ Spring I/O 2023"
+    }, {
+      "id": "gwYzS5DRDcI",
+      "title": "Develop and test your AWS-powered Spring Boot application locally by Anca Ghenade @ Spring I/O 2023"
+    }, {
+      "id": "ROcTpGn5jCg",
+      "title": "Scale your @Controller to zero with AWS Lambda or Azure Function by Oleg Zhurakousky @ Spring I/O"
+    }, {
+      "id": "470InxVt5es",
+      "title": "To Java 21 and Beyond! by Billy Korando @ Spring I/O 2023"
+    }, {
+      "id": "HWUy0kTlcj8",
+      "title": "From Spring Native to Spring Boot 3 by Moritz Halbritter &amp; Sébastien Deleuze @ Spring I/O 2023"
+    }, {
+      "id": "1Mel8wn1HZs",
+      "title": "Everything new in Spring Security 6 baked with a Spring Boot 3 recipe by Laur Spilca @ Spring I/O"
+    }, {
+      "id": "LuOZyHUtOc8",
+      "title": "Developer Experience with Spring Boot on Kubernetes by Thomas Vitale @ Spring I/O 2023"
+    }, {
+      "id": "fh3VbrPvAjg",
+      "title": "Observability of Your Application by Marcin Grzejszczak &amp; Tommy Ludwig @ Spring I/O 2023"
+    }, {
+      "id": "U6xYTIptULI",
+      "title": "Hidden gems and traps that you probably didn't think of using Event Sourcing by David Gomez"
+    }, {
+      "id": "ZfFwRtktUyg",
+      "title": "Bootiful workload orchestration with Hashicorp Nomad by Martin Ahrer @ Spring I/O 2023"
+    }, {
+      "id": "UhgmOOjjjyw",
+      "title": "Observing Spring  for GraphQL in Action by Brian Clozel &amp; Rossen Stoyanchev @ Spring I/O 2023"
+    }, {
+      "id": "FFyoS_NuEgM",
+      "title": "Spring Boot in a Polyglot Cloud-Native World with Dapr by Mauricio Salatino @ Spring I/O 2023"
+    }, {
+      "id": "-I7KiV_6f-s",
+      "title": "Architecturally evident Spring applications with jMolecules by Oliver Drotbohm @ Spring I/O 2023"
+    }, {
       "id": "rly6U0yT5Kg",
       "title": "Preparing web applications for Loom by Mark Thomas @ Spring I/O 2023"
     }, {
@@ -35,3 +90,4 @@
     } 
   ]
 }
+

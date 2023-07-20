@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "SivaReddyJavaTechie",
+    "name": "Siva Reddy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaReGKozQ05PNvQ_ssk9oL0cZeTqh8NYbxXqydI7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    {
+      "id": "tZo-iv_wNzA", 
+      "title": "Tips To Improve The Eclipse IDE Performance"
+    }, {
+      "id": "7OGLYH5dRyE", 
+      "title": "Monolithic Application vs. Microservices Architecture"
+    }
+  ]
+}

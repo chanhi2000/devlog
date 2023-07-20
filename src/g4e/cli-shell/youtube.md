@@ -93,4 +93,28 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ---
 
+## OldTechBloke
+
+<MyYouTubeItems jsonName="yu-OldTechBloke" />
+
+<!-- OldTechBloke -->
+
+---
+
+## rwbnetsec
+
+<MyYouTubeItems jsonName="yu-rwbnetsec" />
+
+<!-- rwbnetsec -->
+
+---
+
+## typecraft
+
+<MyYouTubeItems jsonName="yu-typecraft_dev" />
+
+<!-- typecraft -->
+
+---
+
 <TagLinks />

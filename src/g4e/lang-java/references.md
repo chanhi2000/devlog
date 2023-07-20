@@ -143,5 +143,6 @@ tags: ["java", "baeldung"]
 - [싱글톤 패턴이 필요한 이유와 실제 서비스에 적용까지](https://injae-kim.github.io/dev/2020/08/06/singleton-pattern-usage.html)
 - [오라클 버전과 JDBC 버전(JDK버전 확인) / What are the Oracle JDBC releases Vs JDK versions?](https://developerntraveler.tistory.com/3)
 - [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
+- [AXIS Apache XML WebService](https://blog.naver.com/nova750/70003702622)
 
 <TagLinks />

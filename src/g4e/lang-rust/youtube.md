@@ -166,4 +166,12 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## David Choi
+
+<MyYouTubeItems jsonName="yu-DavidChoiProgrammer" />
+
+<!-- David Choi -->
+
+---
+
 <TagLinks />

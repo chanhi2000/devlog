@@ -173,6 +173,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Fox Learn
+
+<MyYouTubeItems jsonName="yu-foxlearn" />
+
+<!-- Fox Learn -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

@@ -2,10 +2,20 @@
   "channel": {
     "id": "developedbyed",
     "name": "developedbyed",
-    "profile": "https://yt3.googleusercontent.com/JfcqVinxsIc8dYsPIrp6IBDRMBb420BqVd2bzS9wqcMWBTzmnjUJ74Q0VByY1gUA8p-AYZQzxQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/JfcqVinxsIc8dYsPIrp6IBDRMBb420BqVd2bzS9wqcMWBTzmnjUJ74Q0VByY1gUA8p-AYZQzxQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/71AwzsBmWpjQR8PPhb8e8I0eF0qEgRAZDZuDkxXzUyGA8mQ-ZubpXQ0le1jquOFbuPe9-XgIkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "pHXHBHdTzrM",
+      "title": "You Can Create Beautiful Modern Emails With React!"
+    }, {
+      "id": "7MKEOfSP2s4",
+      "title": "This React UI Library is GAME CHANGER!"
+    }, {
+      "id": "BGor77wguBI",
+      "title": "Why is this making your website slow?"
+    }, {
       "id": "_fNk--smLuY",
       "title": "This CSS Property will change the web"
     }, {
@@ -50,4 +60,3 @@
     }
   ]
 }
-

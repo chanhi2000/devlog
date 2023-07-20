@@ -2,10 +2,17 @@
   "channel": {
     "id": "VMwareTanzu",
     "name": "VMware Tanzu",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPyqXnqqZmcmFyaM7NFmzfQ-75FtTUP3EfhBqMT6A=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPyqXnqqZmcmFyaM7NFmzfQ-75FtTUP3EfhBqMT6A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8F2F4QYLxq8pSNt8WaII3Dz_BJPcKRvkaAtVoeCBp3fyXF2LezxmqpU8Y5GFXyoOSsxbnhER=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "UGsfmKUCJzQ",
+      "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI"
+    }, {
+      "id": "uqgxkL4KfKE",
+      "title": "Avoid Cloud Lock-in with Kubernetes, Findings from the 2023 VMware State of Kubernetes Survey 📊"
+    }, {
       "id": "UGsfmKUCJzQ",
       "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI"
     }, {

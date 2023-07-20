@@ -2,7 +2,8 @@
   "channel": {
     "id": "hunkims",
     "name": "Sung Kim",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMWueCGVjBE9K8nLnnbvGtPsx1x1RKzl8wg9I_EpOk=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMWueCGVjBE9K8nLnnbvGtPsx1x1RKzl8wg9I_EpOk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/908InPtnp-CXMjeZhasVx0fsmliIKVdPe56F2Kfg6Te4Tv1LLcE4wLUdl1H11q6xTuIteHAhNJk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
@@ -14,3 +15,4 @@
     }
   ]
 }
+

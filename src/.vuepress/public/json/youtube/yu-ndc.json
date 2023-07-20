@@ -1,11 +1,38 @@
 {
   "channel": {
-    "id": "ndc",
+    "id": "NDC",
     "name": "NDC Conferences",
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPchNCpvzzU2OKF2BOI4IGxwfLDcWYD3KZQdRd3FA=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
     {
+      "id": "D0nn3aKEWx4",
+      "title": "GitHub + Azure: Better Together! - April Edwards - NDC London 2023"
+    }, {
+      "id": "4xpjlqIlfY8",
+      "title": "Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - NDC London 2023"
+    }, {
+      "id": "p2GlRToY5HI",
+      "title": "Don’t Build a Distributed Monolith - Jonathan &quot;J.&quot; Tower - NDC London 2023"
+    }, {
+      "id": "3JARMLD2gus",
+      "title": "Rules to better ChatGPT and using the best API ever ⭐ - Adam Cogan - NDC Oslo 2023"
+    }, {
+      "id": "IlluGh16OKg",
+      "title": "VSCode for the C# Developer - Tim Corey - NDC London 2023"
+    }, {
+      "id": "48cdGLIvYAM",
+      "title": "Tactics for Building Background Services in .NET - Kevin Griffin - NDC London 2023"
+    }, {
+      "id": "f0QRTLKax3s",
+      "title": "OpenTelemetry tracing for .NET developers - Vagif Abilov - NDC London 2023"
+    }, {
+      "id": "-LuYEdcMT-s",
+      "title": "How to steal Azure DevOps secrets - Björn Weström - NDC London 2023"
+    }, {
+      "id": "2UHYr1tuBFs",
+      "title": "Kubernetes Resiliency - Chris Ayers - NDC Oslo 2023"
+    }, {
       "id": "zCeGMsta5bY",
       "title": "Building games in .NET MAUI - Shaun Lawrence - NDC London 2023"
     }, {
@@ -125,4 +152,3 @@
     }
   ]
 }
-

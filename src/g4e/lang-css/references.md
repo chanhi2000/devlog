@@ -30,6 +30,10 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Smashing Magazine
+
+- [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023)
+
 ## velog
 
 - [css 변수 이용 다크 모드 토글](https://velog.io/@tjdud0123/css-%EB%B3%80%EC%88%98-%EC%9D%B4%EC%9A%A9-%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%ED%86%A0%EA%B8%80)

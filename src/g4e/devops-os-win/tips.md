@@ -130,11 +130,11 @@ taskkill /f /PID 1234
 
 | location | `key`=`value` | description |
 | :--- | :---: | :--- |
-| `HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools` | `Disabled=0` |  IE에서 개발자 도구 메뉴가 비활성화 돼 있을 때 |
-| `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` | `949=*굴림체` | `cmd.exe` 창에서 사용할 폰트를 추가하는 방법 |
+| `\HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools` | `Disabled=0` |  IE에서 개발자 도구 메뉴가 비활성화 돼 있을 때 |
+| `\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` | `949=*굴림체` | `cmd.exe` 창에서 사용할 폰트를 추가하는 방법 |
 | `\HKEY_USERS\.DEFAULT\Control Panel\Keyboard` | `InitialKeyboardIndicators=2147483650` | 넘버락 켜기 |
-| `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | <ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | 
-| `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System` | `EnableSmartScreen=0` | SmartScreen 비활성화 | 
+| `\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | <ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | 
+| `\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System` | `EnableSmartScreen=0` | SmartScreen 비활성화 | 
 
 WebDAV 연결 |
 

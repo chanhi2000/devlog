@@ -1155,4 +1155,60 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Danny TWLC
+
+<MyYouTubeItems jsonName="yu-dannytwlc3666" />
+
+<!-- Danny TWLC -->
+
+---
+
+## Boston React
+
+<MyYouTubeItems jsonName="yu-bostonreact9402" />
+
+<!-- Boston React -->
+
+---
+
+## Matt Raible
+
+<MyYouTubeItems jsonName="yu-mraible" />
+
+<!-- Matt Raible -->
+
+---
+
+## WebDevMatics
+
+<MyYouTubeItems jsonName="yu-WebDevMatics" />
+
+<!-- WebDevMatics -->
+
+---
+
+## letsboot.com
+
+<MyYouTubeItems jsonName="yu-Letsboot" />
+
+<!-- letsboot.com -->
+
+---
+
+## QiroLab
+
+<MyYouTubeItems jsonName="yu-QiroLab" />
+
+<!-- QiroLab -->
+
+---
+
+## Tony Alicea
+
+<MyYouTubeItems jsonName="yu-TonyAlicea" />
+
+<!-- Tony Alicea -->
+
+---
+
 <TagLinks />

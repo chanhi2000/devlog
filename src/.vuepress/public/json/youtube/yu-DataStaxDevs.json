@@ -6,6 +6,9 @@
   },
   "videos": [
     {
+      "id": "hx6r_BWmta0",
+      "title": "Build an E-commerce Application with NoSQL & React"
+    }, {
       "id": "bFEwttUD2aE",
       "title": "Build a Netflix Clone with React and NoSQL Database"
     }, {
@@ -47,4 +50,6 @@
     }
   ]
 }
+
+
 

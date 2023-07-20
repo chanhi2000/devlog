@@ -2,10 +2,32 @@
   "channel": {
     "id": "Britec09",
     "name": "Britec09",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOGgxDvO4EOPacWD86VmsWqUPHmSed6-6vC2eCGVw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOGgxDvO4EOPacWD86VmsWqUPHmSed6-6vC2eCGVw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hMmPjo5BEvqJ76_IVIYxNbXsTKR3GCaiVQu6dNj0sFDQYzZ0wou1vIas42KLW992CditOVvpBg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "eawgHxRpvwQ",
+      "title": "TOTALLY FREE Data Recovery Software To Recover Permanently Deleted Files"
+    }, {
+      "id": "o5wmF25x-ig",
+      "title": "How to Check SSD Lifespan and Health"
+    }, {
+      "id": "ag0SzRCiRPo",
+      "title": "What is the Optimal Virtual Memory Size"
+    }, {
+      "id": "LUoWfNemyFQ",
+      "title": "This Amazing Mini Server is All You Need"
+    }, {
+      "id": "tXOBod_4vwo",
+      "title": "New Windows 11 Feature That Monitors Your System Resources"
+    }, {
+      "id": "SJJQgn45ooY",
+      "title": "Control Automatic Updates on Windows"
+    }, {
+      "id": "57HbrVq6Ej0",
+      "title": "Fix Any .NET Framework Errors in Windows"
+    }, {
       "id": "ag0SzRCiRPo",
       "title": "What is the Optimal Virtual Memory Size"
     }, {
@@ -137,4 +159,3 @@
     }
   ]
 }
-
