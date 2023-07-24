@@ -2,10 +2,29 @@
   "channel": {
     "id": "TCMSecurityAcademy",
     "name": "The Cyber Mentor",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNmrZ_RiG8e-1DDSEKxu-ZRpiSKJ7WZdGxh2ObQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNmrZ_RiG8e-1DDSEKxu-ZRpiSKJ7WZdGxh2ObQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RSOhqce4KPZNIZRT5fhOpGSAG_dcdTMF_LVQ8He3nIfSDh3zi9q6Xow2Us6qL25PxNYbGGQzag=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "vhcSTvL2ihk",
+      "title": "Tib3rius shares their Cyber Journey - Live AMA"
+    }, {
+      "id": "A5iva21ZfA8",
+      "title": "Next Level API Hacking with Kiterunner"
+    }, {
+      "id": "e82g80Kzg4k",
+      "title": "the CHEAPEST path to becoming an ethical hacker"
+    }, {
+      "id": "-evas4VOLH8",
+      "title": "How to Hack WordPress"
+    }, {
+      "id": "JHRzVEvpHSM",
+      "title": "5 Hacking Tools I Can't Live Without"
+    }, {
+      "id": "1GJ_LwNw6sc",
+      "title": "Hacking Web Applications (2+ hours of content)"
+    }, {
       "id": "vhcSTvL2ihk", 
       "title": "Tib3rius shares their Cyber Journey - Live AMA"
     }, {
@@ -41,7 +60,3 @@
     }
   ]
 }
-
-
-
- 

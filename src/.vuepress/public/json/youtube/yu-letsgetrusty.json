@@ -2,22 +2,14 @@
   "channel": {
     "id": "letsgetrusty",
     "name": "Let's Get Rusty",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO-HEr66-PpWhIzPK-UWG6MwQJ-6Z1uVna0qATh=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO-HEr66-PpWhIzPK-UWG6MwQJ-6Z1uVna0qATh=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7crZC7itvPfqzLNcq3qgAedObDYtBb9pI-hGq1MfCxchxGk6lz_3VbQmLprx08YvEi94wYlLvA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "BDkeiYiaU90", 
-      "title": "Rust enables Arch Linux on Apple Silicon"
-    }, {
-      "id": "0O_VAEgJEcA", 
-      "title": "A new operating system written in Rust"
-    }, {
-      "id": "FW4oUXHly8c", 
-      "title": "MUST know Rust database libraries"
-    }, {
-      "id": "mNTkTV81tHU", 
-      "title": "Another JS tool re-written in Rust…"
-    }
+    { "id": "784JWR4oxOI", "title": "All Rust features explained" }, 
+    { "id": "BDkeiYiaU90", "title": "Rust enables Arch Linux on Apple Silicon" }, 
+    { "id": "0O_VAEgJEcA", "title": "A new operating system written in Rust" }, 
+    { "id": "FW4oUXHly8c", "title": "MUST know Rust database libraries" }, 
+    { "id": "mNTkTV81tHU", "title": "Another JS tool re-written in Rust…" }
   ]
 }
-

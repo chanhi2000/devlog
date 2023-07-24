@@ -19,4 +19,10 @@ tags: ["elixir", "exs"]
 
 ---
 
+## Paraxial.io
+
+- [Elixir is (Still) Safe](https://paraxial.io/blog/still-safe)
+
+---
+
 <TagLinks />

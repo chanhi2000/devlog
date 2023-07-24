@@ -2,18 +2,17 @@
   "channel": {
     "id": "TheVimeagen",
     "name": "TheVimeagen",
-    "profile": "https://yt3.googleusercontent.com/TM7l8UuDZ_-8ybNHH5zhLdA3NJEwllMc3QXZYgYHfAlcBstktIPHY9dT11p4iWH5WcWpUPpoGDc=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/TM7l8UuDZ_-8ybNHH5zhLdA3NJEwllMc3QXZYgYHfAlcBstktIPHY9dT11p4iWH5WcWpUPpoGDc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "sGMzLEsk2_g",
-      "title": "Learning React Server Components"
-    }, {
-      "id": "Hsnaq9ghJi8",
-      "title": "The Edge Database Competition | The Design"
-    }, {
-      "id": "gsrNrlA-dog",
-      "title": "Starting Zig, Rust, and Typescript Interpreter!!!"
-    }
+    { "id": "wH3FjE38pz8", "title": "Code Review: Ocaml" },
+    { "id": "VE8YqPGgyQM", "title": "Code Review: CPP" },
+    { "id": "4TxOD2GmWU4", "title": "Rust Lexer : Finished It!!!!" },
+    { "id": "VtVat4doAbQ", "title": "HTMX + Rust + Leptos !!  TODOMVC #1" },
+    { "id": "8gfL8ZcfkpQ", "title": "Building a Chat Client for JavaScript Performance Testing!" },
+    { "id": "sGMzLEsk2_g", "title": "Learning React Server Components" }, 
+    { "id": "Hsnaq9ghJi8", "title": "The Edge Database Competition | The Design" }, 
+    { "id": "gsrNrlA-dog", "title": "Starting Zig, Rust, and Typescript Interpreter!!!" }
   ]
 }

@@ -28,10 +28,6 @@ run the following command
 npm run build
 ```
 
-## ✅TODO
-
-- [ ] 내용 정리 및 채워넣기 ... 
-
 [shield-proj-v]: https://img.shields.io/github/package-json/v/chanhi2000/devlog?style=flat-square
 [shield-license-gpl]: https://img.shields.io/aur/license/node?style=flat-square
 [shield-vue]: https://img.shields.io/badge/vue.js-2.7.x-4FC08D?logo=vuedotjs&logoColor=4FC08D&style=flat-square

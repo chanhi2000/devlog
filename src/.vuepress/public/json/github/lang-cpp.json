@@ -474,6 +474,16 @@
     "desc": "Nigate，一款支持苹果芯片的Free NTFS for Mac小工具软件。NTFS R/W for macOS. Support Intel/Apple Silicon now.",
     "topics": ["macos", "arm", "intel", "ntfs", "osxfuse", "m1", "ntfs-3g", "nigate"],
     "officialSite": "https://hoochanlon.github.io/Free-NTFS-for-Mac"
+  }, {
+    "repo": "StudioCherno/Walnut",
+    "desc": "Walnut is a simple application framework for Vulkan and Dear ImGui apps",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "google/filament",
+    "desc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "topics": ["android", "webgl", "real-time", "opengl", "metal", "graphics", "vulkan", "wasm", "opengl-es", "pbr", "gltf", "3d-graphics", "gltf-viewer"],
+    "officialSite": "https://google.github.io/filament"
   }
 ]
 

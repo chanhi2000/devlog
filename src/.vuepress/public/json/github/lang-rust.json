@@ -489,6 +489,16 @@
     "desc": "A tiny JVM written in Rust. Learning project",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "ellie/atuin",
+    "desc": "🐢 Magical shell history",
+    "topics": ["shell", "bash", "rust", "zsh", "fish", "history"],  
+    "officialSite": "https://atuin.sh"
+  }, {
+    "repo": "cantino/mcfly",
+    "desc": "Fly through your shell history. Great Scott!",
+    "topics": ["search", "shell", "rust", "history"],
+    "officialSite": ""
   }
 ]
 

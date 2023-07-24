@@ -2,12 +2,18 @@
   "channel": {
     "id": "DroidconParis",
     "name": "Android Makers",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOqXvv1kBkgYOjt2ETvWD-r_nNyhNkuRbLHAXVvkw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOqXvv1kBkgYOjt2ETvWD-r_nNyhNkuRbLHAXVvkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PZdFrYdMs7dS43sEKBvrZI5zLbz59aqjr3bOavwwrttc5Hz9yUucwLjdNDkNq2vTO-SZAExc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "TW9k-u_EVlc",
-      "title": "CameraX - the new powerful Jetpack library by Divya jain, Gametime EN"
-    }   
+    { "id": "-Swd_ejeBqA", "title": "Developing system apps without AOSP - Erik Hellman" }, 
+    { "id": "3tUJCpB51dg", "title": "Exposing Data - Hadi Hariri" }, 
+    { "id": "RlFiPX4sU5Y", "title": "SwiftUI vs Jetpack Compose par un Ingénieur Android - Gerard Paligot" }, 
+    { "id": "egVnhfuVJYg", "title": "Using Compose Runtime to create a client library - Fatih Giriş" }, 
+    { "id": "mbYzcF43fbc", "title": "Sweet Architecture - Benoit Quenaudon" }, 
+    { "id": "ryZzjJUWmBA", "title": "Demystifying the test pyramid - Xavier F. Gouchet" }, 
+    { "id": "x53ReXE5KtY", "title": "How Wildlife Studios maximizes mobile game performance and discoverability - Lucas Klegen" }, 
+    { "id": "yF8Z0tK3CFE", "title": "90s Website …  in 2023 on mobile in Compose … for science - Maia Grotepass" }, 
+    { "id": "TW9k-u_EVlc","title": "CameraX - the new powerful Jetpack library by Divya jain, Gametime EN" }
   ]
 }

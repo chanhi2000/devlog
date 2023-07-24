@@ -64,4 +64,10 @@ tags: ["go", "golang"]
 
 ---
 
+## Shane.ai
+
+- [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines)
+
+---
+
 <TagLinks />

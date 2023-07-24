@@ -577,7 +577,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=Dt-1VBK9QKU"><img width="140px" height="auto" alt="thumb-Dt-1VBK9QKU" src="https://i.ytimg.com/vi/Dt-1VBK9QKU/hqdefault.jpg"/></a> | [React Hooks in Action \(Martin Lechner\)](https://www.youtube.com/watch?v=Dt-1VBK9QKU) <br/><br/> _[Web Tech Talks][yu-web-tech-talks]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=hNFM2pDGwKI"><img width="140px" height="auto" alt="thumb-hNFM2pDGwKI" src="https://i.ytimg.com/vi/hNFM2pDGwKI/hqdefault.jpg"/></a> | [Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first \(M.Atamel, R.Tsang\)](https://www.youtube.com/watch?v=hNFM2pDGwKI) <br/><br/> _[Voxxed Days Luxembourg][yu-voxxed-days-luxembourg]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=rGSHaea8jNk"><img width="140px" height="auto" alt="thumb-rGSHaea8jNk" src="https://i.ytimg.com/vi/rGSHaea8jNk/hqdefault.jpg"/></a> | [7 FREE Websites for Better Site Analysis in Architecture](https://www.youtube.com/watch?v=rGSHaea8jNk) <br/><br/> _[Surviving Architecture][yu-surviving-architecture]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=DwlIn9zOcfc"><img width="140px" height="auto" alt="thumb-DwlIn9zOcfc" src="https://i.ytimg.com/vi/DwlIn9zOcfc/hqdefault.jpg"/></a> | [Zero to Deploy: Launching a Node.js App on Kubernetes - Sandeep Dinesh \(English\)](https://www.youtube.com/watch?v=DwlIn9zOcfc) <br/><br/> _[JavaScript Israel][yu-javascript-israel]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=RJRbZdtKmxU"><img width="140px" height="auto" alt="thumb-RJRbZdtKmxU" src="https://i.ytimg.com/vi/RJRbZdtKmxU/hqdefault.jpg"/></a> | [He's Dead Jim: Finding JS Memory Leaks with Chrome Dev Tools](https://www.youtube.com/watch?v=RJRbZdtKmxU) <br/><br/> _[Full Stack Talks][yu-full-stack-talks]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=U-vAOUe7588"><img width="140px" height="auto" alt="thumb-U-vAOUe7588" src="https://i.ytimg.com/vi/U-vAOUe7588/hqdefault.jpg"/></a> | [How To Convert PDF To Word On Mac](https://www.youtube.com/watch?v=U-vAOUe7588) <br/><br/> _[Insider Tech][yu-insider-tech]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=JcFmeMA8x_0"><img width="140px" height="auto" alt="thumb-JcFmeMA8x_0" src="https://i.ytimg.com/vi/JcFmeMA8x_0/hqdefault.jpg"/></a> | [가성비 최고인 개인서버 \(NAS\) 구축하기 / 언제 어디서나 접속 가능한 나만의 네트워크 저장장치](https://www.youtube.com/watch?v=JcFmeMA8x_0) <br/><br/> _[산타홍][yu-user-ku2nm2bp1t]_ |
@@ -1334,7 +1333,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-bill-huang]: https://www.youtube.com/@billhuang8159
 [yu-voxxed-days-luxembourg]: https://www.youtube.com/@VoxxedDaysLuxembourg
 [yu-surviving-architecture]: https://www.youtube.com/@SurvivingArchitecture
-[yu-javascript-israel]: https://www.youtube.com/@javascriptisrael
 [yu-full-stack-talks]: https://www.youtube.com/@fullstacktalks
 [yu-user-ku2nm2bp1t]: https://www.youtube.com/@user-ku2nm2bp1t
 [yu-null-byte]: https://www.youtube.com/@NullByteWHT

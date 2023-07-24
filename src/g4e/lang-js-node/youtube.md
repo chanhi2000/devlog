@@ -1211,4 +1211,20 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## 제주코딩베이스캠프
+
+<MyYouTubeItems jsonName="yu-jejucodingcamp" />
+
+<!-- 제주코딩베이스캠프 -->
+
+---
+
+## JavaScript Israel
+
+<MyYouTubeItems jsonName="yu-javascriptisrael" />
+
+<!-- JavaScript Israel -->
+
+---
+
 <TagLinks />

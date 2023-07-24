@@ -1104,5 +1104,15 @@
     "desc": "Minimal SSG Framework For Building Static Websites",
     "topics": [],
     "officialSite": "https://fusionssg.com"
+  }, {
+    "repo": "FuelLabs/fuels-ts",
+    "desc": "Fuel Network Typescript SDK",
+    "topics": ["typescript", "fuel"],
+    "officialSite": "https://fuellabs.github.io/fuels-ts"
+  }, {
+    "repo": "Shopify/react-native-skia",
+    "desc": "High-performance React Native Graphics using Skia",
+    "topics": ["react", "react-native", "skia"],
+    "officialSite": "https://shopify.github.io/react-native-skia"
   }
 ]

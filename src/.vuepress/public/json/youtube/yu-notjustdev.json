@@ -2,97 +2,44 @@
   "channel": {
     "id": "notjustdev",
     "name": "notJust․dev",
-    "profile": "https://yt3.googleusercontent.com/Tr9LSWwMBLv3rnJKAMjef-jhFPjz-JNUl8JR31DvQnYdp2eufTNl9K1Z_rFZarrtCDDqpix90MI=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/Tr9LSWwMBLv3rnJKAMjef-jhFPjz-JNUl8JR31DvQnYdp2eufTNl9K1Z_rFZarrtCDDqpix90MI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "p_1NL8wMTQw",
-      "title": "Deploying Twitter's Backend on AWS (EC2 and RDS)"
-    }, {
-      "id": "8ou9dq5HKHk",
-      "title": "Is This the Future of React Native? app.js Recap and Insights"
-    }, {
-      "id": "48UTHmf_Tp0",
-      "title": "Connecting Twitter's Frontend to Backend using node.js and React Native"
-    }, {
-      "id": "mABcyifdsww",
-      "title": "Building the Twitter Backend with Node.js: A Step-by-Step Guide"
-    }, {
-      "id": "sQx38wrzvuk",
-      "title": "notJust Hack - Kickstart!"
-    }, {
-      "id": "-qAhg4EDIwQ",
-      "title": "Let's build a Books App with React Native (tutorial for beginners) 🔴"
-    }, {
-      "id": "m4NIOzDxHxE",
-      "title": "Let's build Ping-Pong in React Native (Dynamic Island) 🔴"
-    }, {
-      "id": "fWHiSuz-V68",
-      "title": "Gesture Handler tutorial in React Native"
-    }, {
-      "id": "pqQGU-JsD7k",
-      "title": "Let's build WhatsApp with React Native and AWS Amplify [p4] 🔴"
-    }, {
-      "id": "JcVt63qAt4o",
-      "title": "FlatList Animations in React Native with Reanimated 2"
-    }, {
-      "id": "8psijC5ezkc",
-      "title": "Let's build WhatsApp with React Native and AWS Amplify [p2] 🔴"
-    }, {
-      "id": "H9qTNjWV2ls",
-      "title": "Let's build iOS 16 in React Native 🤔"
-    }, {
-      "id": "onGpjt4mQdE",
-      "title": "Animated Login Form in React Native (#2 Animations)"
-    }, {
-      "id": "NzZvrlFBuig",
-      "title": "Building a Startup with React Native and AWS Amplify (part 3)"
-    }, {
-      "id": "AJBOV5btvaU",
-      "title": "Let's code the notJust.dev blog platform with NextJS"
-    }, {
-      "id": "INLnagMFShw",
-      "title": "Virtual Events App [React Native | Nhost]"
-    }, {
-      "id": "-m-4_DRLmrc",
-      "title": "Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴"
-    }, {
-      "id": "WFo_IxhBxF4",
-      "title": "Build a full stack UBER EATS clone - 2/5 Days Challenge  🔴"
-    }, {
-      "id": "4gX2V1IN6Ro",
-      "title": "Let's build a Pinterest clone with React Native and NHost 🔴"
-    }, {
-      "id": "xuBB-k6jAqo",
-      "title": "Let's build a CRYPTO Price Tracker with React Native (p.2)🔴"
-    }, {
-      "id": "iQ_0Fd_N3Mk",
-      "title": "🔴Build your first App in React Native in under 2 hours [ Tutorial for beginners ]"
-    }, {
-      "id": "EvSUJ5lUcBw",
-      "title": "Build a Realtime Chat App in React Native (tutorial for beginners) 🔴"
-    }, {
-      "id": "OfKVpG8KLhY",
-      "title": "Building Beautiful Animations with React Native Reanimated 3"
-    }, {
-      "id": "UzdN1Xj8iq8",
-      "title": "Build Your First App: Tesla Clone with React Native (Tutorial for Beginners)"
-    }, {
-      "id": "5WNoynmnEAs",
-      "title": "A Beginner's Guide to 3D Animations in React Native with three.js"
-    }, {
-      "id": "50bIefoMo3c",
-      "title": "Integrating Stripe Payments in your E-commerce React Native App"
-    }, {
-      "id": "Gvxv6JCabA8",
-      "title": "Building the Ultimate Nike App in React Native &amp; Redux"
-    }, {
-      "id": "FD-pVEzugaU",
-      "title": "Building the OnlyFans Clone with React Native (Beginner Tutorial)"
-    }, {
-      "id": "-m-4_DRLmrc",
-      "title": "Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴"
-    }
+    { "id": "iwgp777Mi54", "title": "Building a StackOverflow Clone: React Native Tutorial for Beginners" }, 
+    { "id": "qkJq9gfOMLY", "title": "REST vs GraphQL: The killer API you're not using yet" }, 
+    { "id": "Z9TffIGhYAE", "title": "Building a Google Forms Clone with React Native: Form Validation with Zod" }, 
+    { "id": "vWqbajz3CTs", "title": "Coding From Zero: If I Had To Start Over Today" }, 
+    { "id": "WeICO5sEOVQ", "title": "Building a LinkedIn clone with React Native and Stepzen" }, 
+    { "id": "p_1NL8wMTQw", "title": "Deploying Twitter's Backend on AWS (EC2 and RDS)" }, 
+    { "id": "8ou9dq5HKHk", "title": "Is This the Future of React Native? app.js Recap and Insights" }, 
+    { "id": "48UTHmf_Tp0", "title": "Connecting Twitter's Frontend to Backend using node.js and React Native" }, 
+    { "id": "mABcyifdsww", "title": "Building the Twitter Backend with Node.js: A Step-by-Step Guide" }, 
+    { "id": "sQx38wrzvuk", "title": "notJust Hack - Kickstart!" }, 
+    { "id": "-qAhg4EDIwQ", "title": "Let's build a Books App with React Native (tutorial for beginners) 🔴" }, 
+    { "id": "m4NIOzDxHxE", "title": "Let's build Ping-Pong in React Native (Dynamic Island) 🔴" }, 
+    { "id": "fWHiSuz-V68", "title": "Gesture Handler tutorial in React Native" }, 
+    { "id": "pqQGU-JsD7k", "title": "Let's build WhatsApp with React Native and AWS Amplify [p4] 🔴" }, 
+    { "id": "JcVt63qAt4o", "title": "FlatList Animations in React Native with Reanimated 2" }, 
+    { "id": "8psijC5ezkc", "title": "Let's build WhatsApp with React Native and AWS Amplify [p2] 🔴" }, 
+    { "id": "H9qTNjWV2ls", "title": "Let's build iOS 16 in React Native 🤔" }, 
+    { "id": "onGpjt4mQdE", "title": "Animated Login Form in React Native (#2 Animations)" }, 
+    { "id": "NzZvrlFBuig", "title": "Building a Startup with React Native and AWS Amplify (part 3)" }, 
+    { "id": "AJBOV5btvaU", "title": "Let's code the notJust.dev blog platform with NextJS" }, 
+    { "id": "INLnagMFShw", "title": "Virtual Events App [React Native | Nhost]" }, 
+    { "id": "-m-4_DRLmrc", "title": "Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴" }, 
+    { "id": "WFo_IxhBxF4", "title": "Build a full stack UBER EATS clone - 2/5 Days Challenge  🔴" }, 
+    { "id": "4gX2V1IN6Ro", "title": "Let's build a Pinterest clone with React Native and NHost 🔴" }, 
+    { "id": "xuBB-k6jAqo", "title": "Let's build a CRYPTO Price Tracker with React Native (p.2)🔴" }, 
+    { "id": "iQ_0Fd_N3Mk", "title": "🔴Build your first App in React Native in under 2 hours [ Tutorial for beginners ]" }, 
+    { "id": "EvSUJ5lUcBw", "title": "Build a Realtime Chat App in React Native (tutorial for beginners) 🔴" }, 
+    { "id": "OfKVpG8KLhY", "title": "Building Beautiful Animations with React Native Reanimated 3" }, 
+    { "id": "UzdN1Xj8iq8", "title": "Build Your First App: Tesla Clone with React Native (Tutorial for Beginners)" }, 
+    { "id": "5WNoynmnEAs", "title": "A Beginner's Guide to 3D Animations in React Native with three.js" }, 
+    { "id": "50bIefoMo3c", "title": "Integrating Stripe Payments in your E-commerce React Native App" }, 
+    { "id": "Gvxv6JCabA8", "title": "Building the Ultimate Nike App in React Native &amp; Redux" }, 
+    { "id": "FD-pVEzugaU", "title": "Building the OnlyFans Clone with React Native (Beginner Tutorial)" }, 
+    { "id": "-m-4_DRLmrc", "title": "Let's build WhatsApp with React Native and AWS Amplify [p3] 🔴" } 
   ]
 }
 

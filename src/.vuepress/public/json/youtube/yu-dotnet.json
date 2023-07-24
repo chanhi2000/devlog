@@ -2,91 +2,41 @@
   "channel": {
     "id": "dotnet",
     "name": "dotnet",
-    "profile": "https://yt3.googleusercontent.com/zNRF9JUkF4F0ajer3fExeqCZfwflre_rtSbxrhXBBQg0q3ll3eUXiLAM3eHfL9k-aJdihLt2iQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/zNRF9JUkF4F0ajer3fExeqCZfwflre_rtSbxrhXBBQg0q3ll3eUXiLAM3eHfL9k-aJdihLt2iQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "X1_QeH1yAto",
-      "title": "Languages &amp; Runtime Community Standup - Source Generation Interceptors"
-    }, {
-      "id": "BKYcw_sM_aY",
-      "title": "Let's Learn .NET - Azure | #SamosaChai.NET"
-    }, {
-      "id": "jaPk6Nt33KM",
-      "title": "Languages &amp; Runtime Community Standup - Dive into C# internals"
-    }, {
-      "id": "0cqtHWfgS5E",
-      "title": "On .NET Live - Building web apps using MVVM"
-    }, {
-      "id": "xyus7zlmgdc",
-      "title": "OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane"
-    }, {
-      "id": "FhBgj9yORy4",
-      "title": "Learn C# with CSharpFritz - Introduction to .NET MAUI"
-    }, {
-      "id": "vc22hoUorzA",
-      "title": ".NET Conf: Focus on MAUI"
-    }, {
-      "id": "qfaQijTimxo",
-      "title": "Develop amazing Windows apps using the Windows App SDK"
-    }, {
-      "id": "4Xzx7Cm9ykg",
-      "title": "Let's Learn .NET - Blazor"
-    }, {
-      "id": "UnbJrC0WN1U",
-      "title": "ASP.NET Community Standup - Balea authorization framework"
-    }, {
-      "id": "Mpf0fCO6NrU",
-      "title": "ASP.NET Community Standup - Building HTTP APIs"
-    }, {
-      "id": "Ev4oT5fGROo",
-      "title": "C# with CSharpFritz S2 E6 - Build for the Live Web with SignalR"
-    }, {
-      "id": "u898_hiWJY0",
-      "title": "C# with CSharpFritz - S2 E7 - Introducing Authentication and Authorization with ASP.NET Core"
-    }, {
-      "id": "lmHU1zD2mvA",
-      "title": "Entity Framework Community Standup - Introducing MSBuild.Sdk.SqlProj"
-    }, {
-      "id": "biL1XOcg8Us",
-      "title": "The .NET Docs Show - Functional Fun with F#"
-    }, {
-      "id": "0AhIXUqfXTo",
-      "title": "C# with CSharpFritz - S2 Ep 3: ASP.NET Core MVC, Part 2"
-    }, {
-      "id": "ODBR7kZHp-s",
-      "title": "GraphQL Schema stitching"
-    }, {
-      "id": "2xeKomASV0E",
-      "title": "The .NET Docs Show - Let's code a drone 🛸 to follow faces with Bruno Capuano"
-    }, {
-      "id": "lzVZSKcC-oY",
-      "title": "The .NET Docs Show - Blazor &amp; Comet ☄️ for Native Mobile Apps with Sam Basu"
-    }, {
-      "id": "TeHVd3UlfY8",
-      "title": ".NET Microservices with DAPR"
-    }, {
-      "id": "gmopA3LEEeE",
-      "title": "Blazor for Web Form and C# Developers"
-    }, {
-      "id": "0tQNsHc-410",
-      "title": "[Korean] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET"
-    }, {
-      "id": "jaPk6Nt33KM",
-      "title": "Languages &amp; Runtime Community Standup - Dive into C# internals"
-    }, {
-      "id": "DeegkS0Vf9o",
-      "title": "How do I use SQL Server with C# and .NET?"
-    }, {
-      "id": "kwJt6GcVlt4",
-      "title": "[Korean] Load Testing ASP.NET Apps on AKS through GitHub Actions"
-    }, {
-      "id": "i8tMiWHK05M",
-      "title": "[Korean] Blazor Hybrid for Mobile App Development &amp; Deployment with App Center"
-    }, {
-      "id": "zHgYDZK3MrA",
-      "title": ".NET Migration Overview [1 of 18] Migrating from ASP.NET to ASP.NET Core"
-    }
+    { "id": "h9c7TZb2QuU", "title": "How do I use C# and .NET with SQLite?" }, 
+    { "id": "QTvFiiST-r4", "title": ".NET Data Community Standup - Synchronizing data between the cloud and the client (using SQLite)" }, 
+    { "id": "Nm99pg3477I", "title": ".NET MAUI at Build 2023 Recap, Upgrade Assistant, &amp; New VS Features | The .NET MAUI Podcast ep. 119" }, 
+    { "id": "5zzknoXRXgg", "title": "Learn C# with CSharpFritz - .NET at the Command Line" }, 
+    { "id": "aNL4su56D0Y", "title": "Burke Learns Blazor - Building the Publish and Home pages" }, 
+    { "id": "X1_QeH1yAto", "title": "Languages &amp; Runtime Community Standup - Source Generation Interceptors" }, 
+    { "id": "BKYcw_sM_aY", "title": "Let's Learn .NET - Azure | #SamosaChai.NET" }, 
+    { "id": "jaPk6Nt33KM", "title": "Languages &amp; Runtime Community Standup - Dive into C# internals" }, 
+    { "id": "0cqtHWfgS5E", "title": "On .NET Live - Building web apps using MVVM" }, 
+    { "id": "xyus7zlmgdc", "title": "OSS Spotlight - Extending apps to mobile and desktop with .NET MAUI and Oqtane" }, 
+    { "id": "FhBgj9yORy4", "title": "Learn C# with CSharpFritz - Introduction to .NET MAUI" }, 
+    { "id": "vc22hoUorzA", "title": ".NET Conf: Focus on MAUI" }, 
+    { "id": "qfaQijTimxo", "title": "Develop amazing Windows apps using the Windows App SDK" }, 
+    { "id": "4Xzx7Cm9ykg", "title": "Let's Learn .NET - Blazor" }, 
+    { "id": "UnbJrC0WN1U", "title": "ASP.NET Community Standup - Balea authorization framework" }, 
+    { "id": "Mpf0fCO6NrU", "title": "ASP.NET Community Standup - Building HTTP APIs" }, 
+    { "id": "Ev4oT5fGROo", "title": "C# with CSharpFritz S2 E6 - Build for the Live Web with SignalR" }, 
+    { "id": "u898_hiWJY0", "title": "C# with CSharpFritz - S2 E7 - Introducing Authentication and Authorization with ASP.NET Core" }, 
+    { "id": "lmHU1zD2mvA", "title": "Entity Framework Community Standup - Introducing MSBuild.Sdk.SqlProj" }, 
+    { "id": "biL1XOcg8Us", "title": "The .NET Docs Show - Functional Fun with F#" }, 
+    { "id": "0AhIXUqfXTo", "title": "C# with CSharpFritz - S2 Ep 3: ASP.NET Core MVC, Part 2" }, 
+    { "id": "ODBR7kZHp-s", "title": "GraphQL Schema stitching" }, 
+    { "id": "2xeKomASV0E", "title": "The .NET Docs Show - Let's code a drone 🛸 to follow faces with Bruno Capuano" }, 
+    { "id": "lzVZSKcC-oY", "title": "The .NET Docs Show - Blazor &amp; Comet ☄️ for Native Mobile Apps with Sam Basu" }, 
+    { "id": "TeHVd3UlfY8", "title": ".NET Microservices with DAPR" }, 
+    { "id": "gmopA3LEEeE", "title": "Blazor for Web Form and C# Developers" }, 
+    { "id": "0tQNsHc-410", "title": "[Korean] Building Cross-Platform Apps with .NET MAUI &amp; Tizen.NET" }, 
+    { "id": "jaPk6Nt33KM", "title": "Languages &amp; Runtime Community Standup - Dive into C# internals" }, 
+    { "id": "DeegkS0Vf9o", "title": "How do I use SQL Server with C# and .NET?" }, 
+    { "id": "kwJt6GcVlt4", "title": "[Korean] Load Testing ASP.NET Apps on AKS through GitHub Actions" }, 
+    { "id": "i8tMiWHK05M", "title": "[Korean] Blazor Hybrid for Mobile App Development &amp; Deployment with App Center" }, 
+    { "id": "zHgYDZK3MrA", "title": ".NET Migration Overview [1 of 18] Migrating from ASP.NET to ASP.NET Core" }
   ]
 }
-

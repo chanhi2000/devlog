@@ -2,52 +2,31 @@
   "channel": {
     "id": "Telusko",
     "name": "Telusko",
-    "profile": "https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mHSb8JL6--hAGMFutgdmkWhc1N853V04knbbfDi9THw8jnh68A2578jnc7JrjmYdi0m4WmpJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id":"qHerCgPQ2e8",
-      "title":"Project Using Spring Boot MVC"
-    }, {
-      "id":"PK9x1QNYdRg",
-      "title":"Project Using Spring Boot, Data JPA  and PostgreSQL | Macbook Contest | Day 3"
-    }, {
-      "id":"3PnexkvmC6E",
-      "title":"Java Reflection API | Macbook Contest | Day 5"
-    }, {
-      "id": "gWBF2V0mSXk",
-      "title": "Microservices to Monolith | Amazon Prime Video"
-    }, {
-      "id": "BGTx91t8q50",
-      "title": "Java Tutorial for Beginners 2023"
-    }, {
-      "id": "kYiLzIiHVY8",
-      "title": "Java Spring Boot Mongodb Full Project"
-    }, {
-      "id": "Eor-iXU0xR0",
-      "title": "Spring Boot And Kotlin Example #1"
-    }, {
-      "id": "OuBUUkQfBYM",
-      "title": "Servlet &amp; JSP Tutorial | Full Course"
-    }, {
-      "id": "If1Lw4pLLEo",
-      "title": "Spring Framework Tutorial | Full Course"
-    }, {
-      "id": "fjkelzWNSuA",
-      "title": "Spring Security Tutorial"
-    }, {
-      "id": "35EQXmHKZYs",
-      "title": "Spring Boot Tutorials | Full Course"
-    }, {
-      "id": "UHSTjZ0Pals",
-      "title": "Amazon CodeWhisperer | GitHub Copilot Killer"
-    }, {
-      "id": "NmbKi3ReCIY",
-      "title": "Reading Blockchain Data on Ethereum using Astra Block"
-    }, {
-      "id": "g2b-NbR48Jo",
-      "title": "Spring MVC Tutorial | Full Course"
-    }
+    { "id": "KugB64WINas", "title": "Mastering Java And Spring Boot Induction" }, 
+    { "id": "zFGh_Jh-Hvs", "title": "Quiz App Using Spring Boot #1 | Microservices Tutorial" }, 
+    { "id": "A0qkYQ57VKQ", "title": "Java is Easy Now | Java 21" }, 
+    { "id": "JOWfwjEasaw", "title": "Quiz App Using Spring Boot #2 | Microservices Tutorial" }, 
+    { "id": "aoAdMc7-XBQ", "title": "Quiz App Using Spring Boot #3 | Microservices Tutorial" }, 
+    { "id": "6tzuXRFliqo", "title": "Quiz App Using Spring Boot #6 | Microservices Tutorial" }, 
+    { "id": "cNU5vlbq7k4", "title": "Building Microservices Introduction" }, 
+    { "id": "K4Iz6eAF18s", "title": "Creating a Question Service Part-2  | Microservice" },     
+    { "id": "qHerCgPQ2e8", "title":"Project Using Spring Boot MVC" }, 
+    { "id": "PK9x1QNYdRg", "title":"Project Using Spring Boot, Data JPA  and PostgreSQL | Macbook Contest | Day 3" }, 
+    { "id": "3PnexkvmC6E", "title":"Java Reflection API | Macbook Contest | Day 5" }, 
+    { "id": "gWBF2V0mSXk", "title": "Microservices to Monolith | Amazon Prime Video" }, 
+    { "id": "BGTx91t8q50", "title": "Java Tutorial for Beginners 2023" }, 
+    { "id": "kYiLzIiHVY8", "title": "Java Spring Boot Mongodb Full Project" }, 
+    { "id": "Eor-iXU0xR0", "title": "Spring Boot And Kotlin Example #1" }, 
+    { "id": "OuBUUkQfBYM", "title": "Servlet &amp; JSP Tutorial | Full Course" }, 
+    { "id": "If1Lw4pLLEo", "title": "Spring Framework Tutorial | Full Course" }, 
+    { "id": "fjkelzWNSuA", "title": "Spring Security Tutorial" }, 
+    { "id": "35EQXmHKZYs", "title": "Spring Boot Tutorials | Full Course" }, 
+    { "id": "UHSTjZ0Pals", "title": "Amazon CodeWhisperer | GitHub Copilot Killer" }, 
+    { "id": "NmbKi3ReCIY", "title": "Reading Blockchain Data on Ethereum using Astra Block" }, 
+    { "id": "g2b-NbR48Jo", "title": "Spring MVC Tutorial | Full Course" }
   ]
 }
-

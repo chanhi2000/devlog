@@ -136,8 +136,6 @@ taskkill /f /PID 1234
 | `\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | <ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | 
 | `\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System` | `EnableSmartScreen=0` | SmartScreen 비활성화 | 
 
-WebDAV 연결 |
-
 - https://www.clien.net/service/board/lecture/17815116
 
 ---

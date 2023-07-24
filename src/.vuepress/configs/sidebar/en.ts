@@ -13,9 +13,18 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/api-kakao/README.md',
         '/g4e/api-kakao/local.md',
+        '/g4e/api-kakao/push.md',
         '/g4e/api-kakao/references.md'
       ]
-    },
+    }, 
+    // {
+    //   text: '🐸API - NCloud',
+    //   collapsible: true,
+    //   children: [
+    //     '/g4e/api-ncloud/README.md',
+    //     '/g4e/api-ncloud/geolocation.md',
+    //   ]
+    // },
     //endregion
     //region: lang
     {

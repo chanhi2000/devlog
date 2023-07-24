@@ -15,20 +15,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Multiplatform
 
-- [google/filament][google/filament]: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
-  - [🌐Official Site](https://google.github.io/filament)
-- [Tencent/Hippy][Tencent/Hippy]: Hippy is designed to easily build cross-platform dynamic apps. 👏
-  - [🌐Official Site](https://hippyjs.org)
-- [Shopify/react-native-skia][Shopify/react-native-skia]: High-performance React Native Graphics using Skia
-  - [🌐Official Site](https://shopify.github.io/react-native-skia)
 - [JetBrains/compose-multiplatform][JetBrains/compose-multiplatform]: Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
   - [🌐Official Site](https://jetbrains.com/lp/compose)
 
----
-
-## Ruby
-
-<MyGithubItems jsonName="lang-ruby" />
 
 ---
 
@@ -39,28 +28,12 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 - [twitter/finagle][twitter/finagle]: A fault tolerant, protocol-agnostic RPC system
   - [🌐Official Site](https://twitter.github.io/finagle)
-- [ellie/atuin][ellie/atuin]: 🐢 Magical shell history <GithubTags tagItems="shell;bash;rust;zsh;fish;history" />
-  - [🌐Official Site](https://atuin.sh)
-- [cantino/mcfly][cantino/mcfly]: Fly through your shell history. Great Scott!
-  - [🌐Official Site](https://alacritty.org)
-- [AleoHQ/snarkOS][AleoHQ/snarkOS]: A Decentralized Operating System for ZK Applications
-  - [🌐Official Site](http://snarkos.org)
-
----
-
-
-## Elixir
-
-- [AccessOwl/open_owl][AccessOwl/open_owl]: Download user lists including user permissions from various SaaS applications without the need for a public API
 
 ---
 
 ## Clojure
 
 <MyGithubItems jsonName="lang-clojure" />
-
-- [zachallaun/secd][zachallaun/secd]: A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)
-- [logseq/logseq][logseq/logseq]: 
 
 ---
 
@@ -81,8 +54,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [hendricius/the-sourdough-framework][hendricius/the-sourdough-framework]: Open source book dedicated to helping you to make the best possible sourdough bread at home. <GithubTags tagItems="baking;cooking;bread;sourdough" />
   - [🌐Official Site](https://breadco.de/book)
 - [kenjihiranabe/The-Art-of-Linear-Algebra][kenjihiranabe/The-Art-of-Linear-Algebra]: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
-
-
 
 ---
 
@@ -164,14 +135,8 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## CSS/Images
 
-- [badges/shields][badges/shields]: Concise, consistent, and legible badges in SVG and raster format
-  - [🌐Official Site](https://shields.io)
-- [simple-icons/simple-icons][simple-icons/simple-icons]: SVG icons for popular brands
-  - [🌐Official Site](https://simpleicons.org)
 - [FortAwesome/Font-Awesome][FortAwesome/Font-Awesome]: The iconic SVG, font, and CSS toolkit
   - [🌐Official Site](https://fontawesome.com)
-- [twbs/icons][twbs/icons]: Official open source SVG icon library for Bootstrap.
-  - [🌐Official Site](https://icons.getbootstrap.com)
 - [google/material-design-icons][google/material-design-icons]: Material Design icons by Google
   - [🌐Official Site](http://google.github.io/material-design-icons)
 - [Ileriayo/markdown-badges][Ileriayo/markdown-badges]: Badges for your personal developer branding, profile, and projects.
@@ -192,21 +157,13 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 
 <!-- Multiplatform -->
-[google/filament]: https://github.com/google/filament
-[Tencent/Hippy]: https://github.com/Tencent/Hippy
-[Shopify/react-native-skia]: https://github.com/Shopify/react-native-skia
 [JetBrains/compose-multiplatform]: https://github.com/JetBrains/compose-multiplatform
-<!-- Ruby -->
-[bullet-train-co/bullet_train]: https://github.com/bullet-train-co/bullet_train
-[SUSE/Portus]: https://github.com/SUSE/Portus
 <!-- Scala -->
 [OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
 [twitter/the-algorithm]: https://github.com/twitter/the-algorithm
 [twitter/finagle]: https://github.com/twitter/finagle
 [ellie/atuin]: https://github.com/ellie/atuin
 [cantino/mcfly]: https://github.com/cantino/mcfly
-<!-- Elixir -->
-[AccessOwl/open_owl]: https://github.com/AccessOwl/open_owl
 <!-- Clojure -->
 [zachallaun/secd]: https://github.com/zachallaun/secd
 <!-- Haskell -->
@@ -241,7 +198,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [sickcodes/Docker-OSX]: https://github.com/sickcodes/Docker-OSX
 [hectorm/docker-qemu-win2000]: https://github.com/hectorm/docker-qemu-win2000
 <!-- CSS/Images -->
-[badges/shields]: https://github.com/badges/shields
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 [FortAwesome/Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
 [twbs/icons]: https://github.com/twbs/icons

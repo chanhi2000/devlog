@@ -33,6 +33,7 @@ description: 🐍Python > 📚References
 - [Using Oracle Database SQL Property Graphs with Python](https://medium.com/oracledevs/using-oracle-database-sql-property-graphs-with-python-cf701cb255a9)
 - [Getting started with Redpanda in Python](https://redpanda-data.medium.com/getting-started-with-redpanda-in-python-d3a5c74965ab)
 - [Guide to managing environment variables with Infisical + Python](https://medium.com/@tony.infisical/guide-to-managing-environment-variables-with-infisical-python-9d26ab07b387)
+- [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 
 ---
 

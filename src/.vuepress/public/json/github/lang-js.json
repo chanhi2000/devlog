@@ -1289,10 +1289,25 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
-  },{
+  }, {
     "repo": "cortex-js/cortexjs.io",
     "desc": "Source for the cortexjs.io website",
     "topics": ["components", "documentation", "scientific-computing", "cortexjs"],
     "officialSite": "http://cortexjs.io"
+  }, {
+    "repo": "badges/shields",
+    "desc": "Concise, consistent, and legible badges in SVG and raster format",
+    "topics": ["github", "svg", "metadata", "status", "badge", "badge-maker"],
+    "officialSite": "https://shields.io"
+  }, {
+    "repo": "simple-icons/simple-icons",
+    "desc": "SVG icons for popular brands",
+    "topics": ["svg", "design", "design-assets", "brand", "icons", "icon-pack", "svg-icons", "brand-colors", "logo", "svg-files", "logos", "branding", "icon-packs", "brands", "svg-images", "brand-assets", "iconset", "branding-assets", "company-brands"],
+    "officialSite": "https://simpleicons.org"
+  }, {
+    "repo": "twbs/icons",
+    "desc": "Official open source SVG icon library for Bootstrap.",
+    "topics": ["svg", "bootstrap", "font", "icons", "sprite", "woff2", "woff"],
+    "officialSite": "https://icons.getbootstrap.com"
   }
 ]

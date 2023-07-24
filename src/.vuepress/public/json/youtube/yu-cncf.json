@@ -2,105 +2,44 @@
   "channel": {
     "id": "cncf",
     "name": "CNCF [Cloud Native Computing Foundation]",
-    "profile": "https://yt3.googleusercontent.com/txe66EjpkDQQlx_4jDV0yA0PPsww0rqQrFhMpDqagLWN2-EUBBO65IuIyy5tEFVmpI4_RRduzXc=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/txe66EjpkDQQlx_4jDV0yA0PPsww0rqQrFhMpDqagLWN2-EUBBO65IuIyy5tEFVmpI4_RRduzXc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "CIsljtIWp2o", 
-      "title": "Getting Started with Prometheus Using Promcat.io"
-    }, {
-      "id": "PKrDNuJ_dfE", 
-      "title": "LocalAI meets k8sgpt: Analyzing Kubernetes Cluster States Locally with CPU at the Edge and Beyond"
-    }, {
-      "id": "FTDMpeqj1B0", 
-      "title": "Building a managed database service with Kubernetes Operators"
-    }, {
-      "id": "AeeXSm0Zzfk", 
-      "title": "Cloud Native Live: Prometheus + Falco: The Swiss Army Knife for SREs"
-    }, {
-      "id": "0D9xaBaktpE", 
-      "title": "Kubernetes Best Practices in ecomm Logistics by Wang Shuguang"
-    }, {
-      "id": "0p0J4khYekI", 
-      "title": "Best Practices for Applications on Kubernetes for Both Frequent Updates & Stabil... Hiroshi Hayakawa"
-    }, {
-      "id": "48uWe9Y3CwQ", 
-      "title": "Distributed Tracing Integration with OpenTelemetry and Knative - Daniel Oh & James Falkner, Red Hat"
-    }, {
-      "id": "dlVI0MeFJAo", 
-      "title": "What Anime Taught Me About K8s & Tech Careers - Annie Talvasto, Camunda"
-    }, {
-      "id": "35ue_FZAerU", 
-      "title": "CIS Kubernetes Benchmarks with Kubescape"
-    }, {
-      "id": "OqeVrDnRFiU", 
-      "title": "Running distributed load tests with the Grafana k6-operator"
-    }, {
-      "id": "LQOC8vI20eU", 
-      "title": "Kubernetes for Mac: How to Consume Shiny AWS Mac Shapes for iOS Builds - Madhuri Yechuri & Zach Gray"
-    }, {
-      "id": "5QabSshak7I", 
-      "title": "Creating a Serverless iPaaS in Kubernetes with Apache Camel K"
-    }, {
-      "id": "RNN8XwRWGjk", 
-      "title": "Production CI/CD w/CNBs: Tekton, Gitlab & CircleCI(plus), Oh My! - David Freilich & Natalie Arellano"
-    }, {
-      "id": "ZuIQurh_kDk", 
-      "title": "Kubernetes Design Principles: Understand the Why - Saad Ali, Google"
-    }, {
-      "id": "NX0sHF8ZZgw", 
-      "title": "Go + Microservices = Go Kit [I] - Peter Bourgon, Go Kit"
-    }, {
-      "id": "bj8SUKUg0BQ", 
-      "title": "The Road to Winch - Saúl Cabrera, Shopify"
-    }, {
-      "id": "UcxJ6tVf2dY", 
-      "title": "From Legacy to GitOps - Gonzalo Izquierdo, Hiberus Tecnologia & Manuel Hernandez, Sysdig"
-    }, {
-      "id": "HK4_U4Y1WHU", 
-      "title": "AI and Observability Role in an E-Government Ecosystem - Zoltan Mathe, IdomSoft Ltd."
-    }, {
-      "id": "TCsJMEJ2Udg", 
-      "title": "Observability & Monitoring in Cloud Native Telco World – Tying... Dorian Lenzner & Roman Szczepanski"
-    }, {
-      "id": "Tn-aVLFud8k", 
-      "title": "Lightning Talk: Does Cloud Elasticity Pay off for HPC Workloads? - Joris Cramwinckel, Ortec Finance"
-    }, {
-      "id": "Wgdea40obu4", 
-      "title": "Sponsored Keynote: Redefining the Architecture for Edge-Native Apps - Saad Malik & Arun Gupta"
-    }, {
-      "id": "dggF1-bEC-s", 
-      "title": "SLA Aware Batch Scheduling in Apache YuniKorn with Multi-Tenant Pre... Sunil Govindan & Craig Condit"
-    }, {
-      "id": "g4o_7gaQCZY", 
-      "title": "Sharpen That Edge! How a Service Mesh Enhances EdgeComputeOps - Marino Wijay & Kevin Dorosh, Solo.io"
-    }, {
-      "id": "gdncARKCEOY", 
-      "title": "Sponsored Keynote: Sharpen Your Edge Three Ways With Kubernetes - Marilyn Basanta, VMware"
-    }, {
-      "id": "hT7bGNKEZk4", 
-      "title": "Can You Keep a Secret? Securely Interacting with Edge Devices i... Adithya Jayachandran & Yu Jin Kim"
-    }, {
-      "id": "ife__pIh73s", 
-      "title": "Closing Remarks, Program Committee Member - Lucina Stricko, Vulk Coop"
-    }, {
-      "id": "lazxzpmWhbQ", 
-      "title": "Corralling the CNFs - W. Watson, Vulk Cooperative & Mary Parsons, Dish Wireless"
-    }, {
-      "id": "mPmzFBcQ9rQ", 
-      "title": "Lightning Talk: How Can We Renovate Legacy Telecom Infrastructure... Hiromu Asahina & Yasfumi Ogawa"
-    }, {
-      "id": "mu4OAD4ifeM", 
-      "title": "Lightning Talk: Keeping the Promise of Telco-Grade Resilience for CNFs - Uma Makkara, Harness"
-    }, {
-      "id": "rGAm_mpMSLI", 
-      "title": "Lightning Talk: Kubernetes on Edge for People Who Don’t Do Kubernetes - Jay DesLauriers"
-    }, {
-      "id": "wnI0orAsJWI", 
-      "title": "Panel: Looking Ahead to the Future with Project Sylva, Energy Efficiency & Telco Cloud Platforms"
-    }, {
-      "id": "znjc6UFX700", 
-      "title": "Kubescape roadmap"
-    }
+    { "id": "FTDMpeqj1B0", "title": "Building a managed database service with Kubernetes Operators" }, 
+    { "id": "6VTEOOfIbIk", "title": "Unlocking the Power of  Collaboration and Troubleshooting in Kubernetes with Botkube" }, 
+    { "id": "OK9fSBxFN0c", "title": "Why werf for CI/CD in Kubernetes?" }, 
+    { "id": "CIsljtIWp2o", "title": "Getting Started with Prometheus Using Promcat.io" }, 
+    { "id": "PKrDNuJ_dfE", "title": "LocalAI meets k8sgpt: Analyzing Kubernetes Cluster States Locally with CPU at the Edge and Beyond" }, 
+    { "id": "FTDMpeqj1B0", "title": "Building a managed database service with Kubernetes Operators" }, 
+    { "id": "AeeXSm0Zzfk", "title": "Cloud Native Live: Prometheus + Falco: The Swiss Army Knife for SREs" }, 
+    { "id": "0D9xaBaktpE", "title": "Kubernetes Best Practices in ecomm Logistics by Wang Shuguang" }, 
+    { "id": "0p0J4khYekI", "title": "Best Practices for Applications on Kubernetes for Both Frequent Updates & Stabil... Hiroshi Hayakawa" }, 
+    { "id": "48uWe9Y3CwQ", "title": "Distributed Tracing Integration with OpenTelemetry and Knative - Daniel Oh & James Falkner, Red Hat" }, 
+    { "id": "dlVI0MeFJAo", "title": "What Anime Taught Me About K8s & Tech Careers - Annie Talvasto, Camunda" }, 
+    { "id": "35ue_FZAerU", "title": "CIS Kubernetes Benchmarks with Kubescape" }, 
+    { "id": "OqeVrDnRFiU", "title": "Running distributed load tests with the Grafana k6-operator" }, 
+    { "id": "LQOC8vI20eU", "title": "Kubernetes for Mac: How to Consume Shiny AWS Mac Shapes for iOS Builds - Madhuri Yechuri & Zach Gray" }, 
+    { "id": "5QabSshak7I", "title": "Creating a Serverless iPaaS in Kubernetes with Apache Camel K" }, 
+    { "id": "RNN8XwRWGjk", "title": "Production CI/CD w/CNBs: Tekton, Gitlab & CircleCI(plus), Oh My! - David Freilich & Natalie Arellano" }, 
+    { "id": "ZuIQurh_kDk", "title": "Kubernetes Design Principles: Understand the Why - Saad Ali, Google" }, 
+    { "id": "NX0sHF8ZZgw", "title": "Go + Microservices = Go Kit [I] - Peter Bourgon, Go Kit" }, 
+    { "id": "bj8SUKUg0BQ", "title": "The Road to Winch - Saúl Cabrera, Shopify" }, 
+    { "id": "UcxJ6tVf2dY", "title": "From Legacy to GitOps - Gonzalo Izquierdo, Hiberus Tecnologia & Manuel Hernandez, Sysdig" }, 
+    { "id": "HK4_U4Y1WHU", "title": "AI and Observability Role in an E-Government Ecosystem - Zoltan Mathe, IdomSoft Ltd." }, 
+    { "id": "TCsJMEJ2Udg", "title": "Observability & Monitoring in Cloud Native Telco World – Tying... Dorian Lenzner & Roman Szczepanski" }, 
+    { "id": "Tn-aVLFud8k", "title": "Lightning Talk: Does Cloud Elasticity Pay off for HPC Workloads? - Joris Cramwinckel, Ortec Finance" }, 
+    { "id": "Wgdea40obu4", "title": "Sponsored Keynote: Redefining the Architecture for Edge-Native Apps - Saad Malik & Arun Gupta" }, 
+    { "id": "dggF1-bEC-s", "title": "SLA Aware Batch Scheduling in Apache YuniKorn with Multi-Tenant Pre... Sunil Govindan & Craig Condit" }, 
+    { "id": "g4o_7gaQCZY", "title": "Sharpen That Edge! How a Service Mesh Enhances EdgeComputeOps - Marino Wijay & Kevin Dorosh, Solo.io" }, 
+    { "id": "gdncARKCEOY", "title": "Sponsored Keynote: Sharpen Your Edge Three Ways With Kubernetes - Marilyn Basanta, VMware" }, 
+    { "id": "hT7bGNKEZk4", "title": "Can You Keep a Secret? Securely Interacting with Edge Devices i... Adithya Jayachandran & Yu Jin Kim" }, 
+    { "id": "ife__pIh73s", "title": "Closing Remarks, Program Committee Member - Lucina Stricko, Vulk Coop" }, 
+    { "id": "lazxzpmWhbQ", "title": "Corralling the CNFs - W. Watson, Vulk Cooperative & Mary Parsons, Dish Wireless" }, 
+    { "id": "mPmzFBcQ9rQ", "title": "Lightning Talk: How Can We Renovate Legacy Telecom Infrastructure... Hiromu Asahina & Yasfumi Ogawa" }, 
+    { "id": "mu4OAD4ifeM", "title": "Lightning Talk: Keeping the Promise of Telco-Grade Resilience for CNFs - Uma Makkara, Harness" }, 
+    { "id": "rGAm_mpMSLI", "title": "Lightning Talk: Kubernetes on Edge for People Who Don’t Do Kubernetes - Jay DesLauriers" }, 
+    { "id": "wnI0orAsJWI", "title": "Panel: Looking Ahead to the Future with Project Sylva, Energy Efficiency & Telco Cloud Platforms" }, 
+    { "id": "znjc6UFX700", "title": "Kubescape roadmap" }
   ]
 }

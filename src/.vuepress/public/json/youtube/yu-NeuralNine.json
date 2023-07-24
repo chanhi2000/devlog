@@ -2,113 +2,51 @@
   "channel": {
     "id": "NeuralNine",
     "name": "NeuralNine",
-    "profile": "https://yt3.googleusercontent.com/mUAVlzjzD4g581jDzS5Hkn6dnuFz1BeCZMQVomvZDiKN2o6MpdO4DbFq88k1coYjOHDmdypH5Q=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/mUAVlzjzD4g581jDzS5Hkn6dnuFz1BeCZMQVomvZDiKN2o6MpdO4DbFq88k1coYjOHDmdypH5Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "ghWECXWi9kU",
-      "title": "5 Awesome Linux Terminal Tools You Must Know"
-    }, {
-      "id": "B2E82UPUnOY",
-      "title": "Google Calendar Automation in Python"
-    }, {
-      "id": "Sah0p4ILGRE",
-      "title": "Advanced Dictionaries: defaultdict in Python"
-    }, {
-      "id": "4MROGBovKC0",
-      "title": "Render Math Formulas From LaTeX in Python"
-    }, {
-      "id": "Yt-UF7fNLJE",
-      "title": "Makefiles in Python For Professional Automation"
-    }, {
-      "id": "yWLkyN_Satk",
-      "title": "Makefiles Make Your Life Easier"
-    }, {
-      "id": "NAGu_oBCtwI",
-      "title": "MapReduce Jobs For Distributed Hadoop Clusters in Python"
-    }, {
-      "id": "8dlQ_nDE7dQ",
-      "title": "Load Environment Variables From .env Files in Python"
-    }, {
-      "id": "DBXq8ijk07s",
-      "title": "URL Shortener in Flask with Python"
-    }, {
-      "id": "Qks3eqlImy8",
-      "title": "Professional Project &amp; Dependency Management in Python" 
-    }, {
-      "id": "tMLsR0_2yIE",
-      "title": "Professional Expense Tracker in Python" 
-    }, {
-      "id": "glhdVc0gcAg",
-      "title": "Professional Command-Line Tools with Click-Shell" 
-    }, {
-      "id": "2Z1RJDVM0rc",
-      "title": "Dive Into The Details: Disassembling Python Code" 
-    }, {
-      "id": "74pSNpgHFGo",
-      "title": "Professional Dependency Management with Pipfiles" 
-    }, {
-      "id": "ykrluoYGm2w",
-      "title": "Speeding Up Vim Startup Time" 
-    }, {
-      "id": "yWLkyN_Satk",
-      "title": "Makefiles Make Your Life Easier" 
-    }, {
-      "id": "_9ThkldEg0c",
-      "title": "Hardware Information Tool in Python" 
-    }, {
-      "id": "68I-oxeJ4HE",
-      "title": "Config Files &amp; Parsing in Python" 
-    }, {
-      "id": "h1BnRBzYjYY",
-      "title": "Professional Preprocessing with Pipelines in Python" 
-    }, {
-      "id": "fATVVQfFyU0",
-      "title": "Titanic Survival Prediction in Python - Machine Learning Project" 
-    }, {
-      "id": "PuZY9q-aKLw",
-      "title": "Predicting Stock Prices in Python" 
-    }, {
-      "id": "FJeXp5yZd-g",
-      "title": "Pomodoro Timer GUI in Python" 
-    }, {
-      "id": "OTk-UXDK8-M",
-      "title": "Windows Tools Every (Power) User Should Use" 
-    }, {
-      "id": "5i-Axn7KgDU",
-      "title": "Awesome PyCharm Setup - Full Guide" 
-    }, {
-      "id": "6gNpSuE01qE",
-      "title": "Android App Development in Python With Kivy" 
-    }, {
-      "id": "P2jVybFyh3A",
-      "title": "C++ Full Beginner Crash Course" 
-    }, {
-      "id": "ur4fCNMPp0I",
-      "title": "Pynecone: The Python-Only Web Framework" 
-    }, {
-      "id": "Qks3eqlImy8",
-      "title": "Professional Project &amp; Dependency Management in Python" 
-    }, {
-      "id": "tMLsR0_2yIE",
-      "title": "Professional Expense Tracker in Python" 
-    }, {
-      "id": "0MgV8TxMNIw",
-      "title": "Massively Speed-Up SQL Queries with Indexes"
-    }, {
-      "id": "W82jvmiaDtk",
-      "title": "Dockerize Python Applications with GUI"
-    }, {
-      "id": "YLa_KkehvGw",
-      "title": "Deep Reinforcement Learning with OpenAI Gym in Python"
-    }, {
-      "id": "8PARZE2aTOQ",
-      "title": "Encrypt SQLite Databases with SQLCipher"
-    }, {
-      "id": "3wC-SCdJK2c",
-      "title": "Google Sheets API Automation in Python"
-    }
+    { "id": "2C1BOPAMGHc", "title": "Dynamic Attribute Handling in Python: getattr(), setattr(), hasattr(), delattr()" }, 
+    { "id": "BUnb1PKKMBA", "title": "Linux File System Simply Explained" }, 
+    { "id": "3wNvKybVyaI", "title": "MongoDB in Python - NoSQL Document Database" }, 
+    { "id": "X-Y91ddBqaQ", "title": "Image Segmentation with K-Means Clustering in Python" }, 
+    { "id": "mXBGXU0zJnw", "title": "Pseudo-Random Number Generator From Scratch in Python" }, 
+    { "id": "-F6wVOlsEAM", "title": "Professional Python Testing with Mocks" }, 
+    { "id": "5SGqciGDSFM", "title": "ChatGPT Plugins Redefine Conversational AI" }, 
+    { "id": "pRhtjx0dw_k", "title": "Data Compression Algorithms in Python" },     
+    { "id": "ghWECXWi9kU", "title": "5 Awesome Linux Terminal Tools You Must Know" }, 
+    { "id": "B2E82UPUnOY", "title": "Google Calendar Automation in Python" }, 
+    { "id": "Sah0p4ILGRE", "title": "Advanced Dictionaries: defaultdict in Python" }, 
+    { "id": "4MROGBovKC0", "title": "Render Math Formulas From LaTeX in Python" }, 
+    { "id": "Yt-UF7fNLJE", "title": "Makefiles in Python For Professional Automation" }, 
+    { "id": "yWLkyN_Satk", "title": "Makefiles Make Your Life Easier" }, 
+    { "id": "NAGu_oBCtwI", "title": "MapReduce Jobs For Distributed Hadoop Clusters in Python" }, 
+    { "id": "8dlQ_nDE7dQ", "title": "Load Environment Variables From .env Files in Python" }, 
+    { "id": "DBXq8ijk07s", "title": "URL Shortener in Flask with Python" }, 
+    { "id": "Qks3eqlImy8", "title": "Professional Project &amp; Dependency Management in Python"  }, 
+    { "id": "tMLsR0_2yIE", "title": "Professional Expense Tracker in Python"  }, 
+    { "id": "glhdVc0gcAg", "title": "Professional Command-Line Tools with Click-Shell"  }, 
+    { "id": "2Z1RJDVM0rc", "title": "Dive Into The Details: Disassembling Python Code"  }, 
+    { "id": "74pSNpgHFGo", "title": "Professional Dependency Management with Pipfiles"  }, 
+    { "id": "ykrluoYGm2w", "title": "Speeding Up Vim Startup Time"  }, 
+    { "id": "yWLkyN_Satk", "title": "Makefiles Make Your Life Easier"  }, 
+    { "id": "_9ThkldEg0c", "title": "Hardware Information Tool in Python"  }, 
+    { "id": "68I-oxeJ4HE", "title": "Config Files &amp; Parsing in Python"  }, 
+    { "id": "h1BnRBzYjYY", "title": "Professional Preprocessing with Pipelines in Python"  }, 
+    { "id": "fATVVQfFyU0", "title": "Titanic Survival Prediction in Python - Machine Learning Project"  }, 
+    { "id": "PuZY9q-aKLw", "title": "Predicting Stock Prices in Python"  }, 
+    { "id": "FJeXp5yZd-g", "title": "Pomodoro Timer GUI in Python"  }, 
+    { "id": "OTk-UXDK8-M", "title": "Windows Tools Every (Power) User Should Use"  }, 
+    { "id": "5i-Axn7KgDU", "title": "Awesome PyCharm Setup - Full Guide"  }, 
+    { "id": "6gNpSuE01qE", "title": "Android App Development in Python With Kivy"  }, 
+    { "id": "P2jVybFyh3A", "title": "C++ Full Beginner Crash Course"  }, 
+    { "id": "ur4fCNMPp0I", "title": "Pynecone: The Python-Only Web Framework"  }, 
+    { "id": "Qks3eqlImy8", "title": "Professional Project &amp; Dependency Management in Python"  }, 
+    { "id": "tMLsR0_2yIE", "title": "Professional Expense Tracker in Python"  }, 
+    { "id": "0MgV8TxMNIw", "title": "Massively Speed-Up SQL Queries with Indexes" }, 
+    { "id": "W82jvmiaDtk", "title": "Dockerize Python Applications with GUI" }, 
+    { "id": "YLa_KkehvGw", "title": "Deep Reinforcement Learning with OpenAI Gym in Python" }, 
+    { "id": "8PARZE2aTOQ", "title": "Encrypt SQLite Databases with SQLCipher" }, 
+    { "id": "3wC-SCdJK2c", "title": "Google Sheets API Automation in Python" }
   ]
 }
-
-

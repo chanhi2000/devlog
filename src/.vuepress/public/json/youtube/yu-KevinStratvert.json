@@ -2,30 +2,18 @@
   "channel": {
     "id": "KevinStratvert",
     "name": "Kevin Stratvert",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZJZ4X_-RUdyury7a1HD4tlQ9eYjAd5Wp9kkZq8sQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZJZ4X_-RUdyury7a1HD4tlQ9eYjAd5Wp9kkZq8sQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/F1w2i3d1qJ9ekT6Ya_qQGq0zp34xPob9l-NIgRVRwu-iSXVNzxJF2lWsv94XLHLuyBXP_Bbj-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "H3ix2t4I7UU",
-      "title": "Get Microsoft Office for free"
-    }, {
-      "id": "p_YP5JiE8sE",
-      "title": "Make Pivot Table from Multiple Excel Sheets"
-    }, {
-      "id": "hbxQw4LQwws",
-      "title": "How to use Notion - Beginner Tutorial"
-    }, {
-      "id": "IQ_KpBC8fwo",
-      "title": "🤖 How to use Microsoft Power Automate Desktop - Full tutorial"
-    }, {
-      "id": "1G51dz5Gt-g",
-      "title": "How to use Google Sites to Create Website with Domain"
-    }, {
-      "id": "HPFhFbw4J-c",
-      "title": "How to Cast Phone to PC"
-    }, {
-      "id": "owijYeRAlEw",
-      "title": "SCRCPY 2.0 Tutorial | Control &amp; Mirror Android Phone from PC"
-    }  
+    { "id": "NNSHu0rkew8", "title": "Power BI Tutorial in 10 min" },
+    { "id": "FQdaUv95mR8", "title": "HTML Tutorial for Beginners" },    
+    { "id": "H3ix2t4I7UU", "title": "Get Microsoft Office for free" }, 
+    { "id": "p_YP5JiE8sE", "title": "Make Pivot Table from Multiple Excel Sheets" }, 
+    { "id": "hbxQw4LQwws", "title": "How to use Notion - Beginner Tutorial" }, 
+    { "id": "IQ_KpBC8fwo", "title": "🤖 How to use Microsoft Power Automate Desktop - Full tutorial" }, 
+    { "id": "1G51dz5Gt-g", "title": "How to use Google Sites to Create Website with Domain" }, 
+    { "id": "HPFhFbw4J-c", "title": "How to Cast Phone to PC" }, 
+    { "id": "owijYeRAlEw", "title": "SCRCPY 2.0 Tutorial | Control &amp; Mirror Android Phone from PC" } 
   ]
 }

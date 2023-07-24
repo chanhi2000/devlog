@@ -2,41 +2,20 @@
   "channel": {
     "id": "Github",
     "name": "Github",
-    "profile": "https://yt3.googleusercontent.com/TIjqoYX2wtDSGIzj928euK_ehQh4p_EymUlDbh14ZDrJ4quntQbsURWO4yr6bzYpUX7rjIFxyw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/TIjqoYX2wtDSGIzj928euK_ehQh4p_EymUlDbh14ZDrJ4quntQbsURWO4yr6bzYpUX7rjIFxyw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UuEyyRPS2FgK0jnnPEiI7SPPQeRqIPXjmUKbVYOZNfvVItK6YleY86RcfHXjPB7pQEhbN4ijRQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "nCCgzl99jLI",
-      "title": "RESTful mocking with Mockoon"
-    }, {
-      "id": "NsGhRpmIUtY",
-      "title": "Using GitHub Copilot for Visual Studio Code with NVDA"
-    }, {
-      "id": "UT74eayrS7A",
-      "title": "Make your command line glamorous with Charm - Open Source Friday"
-    }, {
-      "id": "QUBPomLp6Iw",
-      "title": "Automate Anything with Script Kit - Open Source Friday"
-    }, {
-      "id": "FwgxksxXj58",
-      "title": "Workflows for Data Scientists and Machine Learning #MLOps"
-    }, {
-      "id": "sQoK6dKAqec",
-      "title": "Command-line utility for building React apps quickly - `create-react-app`"
-    }, {
-      "id": "qy_HaIaNbkE",
-      "title": "Automate your CI/CD workflows with GitHub Actions"
-    }, {
-      "id": "YwYurdueIrg",
-      "title": "Kubernetes YAML Manifests Made Easy - Open Source Friday"
-    }, {
-      "id": "tdyPuMA2mww",
-      "title": "ChatOps for Kubernetes - Open Source Friday"
-    }, {
-      "id": "D80u__nYYWw",
-      "title": "Learn how to use Project Roadmaps - GitHub Checkout"
-    }
+    { "id": "10J40Euwu7I", "title": "Introduction to Deployment Protection Rules" },
+    { "id": "nCCgzl99jLI", "title": "RESTful mocking with Mockoon" }, 
+    { "id": "NsGhRpmIUtY", "title": "Using GitHub Copilot for Visual Studio Code with NVDA" }, 
+    { "id": "UT74eayrS7A", "title": "Make your command line glamorous with Charm - Open Source Friday" }, 
+    { "id": "QUBPomLp6Iw", "title": "Automate Anything with Script Kit - Open Source Friday" }, 
+    { "id": "FwgxksxXj58", "title": "Workflows for Data Scientists and Machine Learning #MLOps" }, 
+    { "id": "sQoK6dKAqec", "title": "Command-line utility for building React apps quickly - `create-react-app`" }, 
+    { "id": "qy_HaIaNbkE", "title": "Automate your CI/CD workflows with GitHub Actions" }, 
+    { "id": "YwYurdueIrg", "title": "Kubernetes YAML Manifests Made Easy - Open Source Friday" }, 
+    { "id": "tdyPuMA2mww", "title": "ChatOps for Kubernetes - Open Source Friday" }, 
+    { "id": "D80u__nYYWw", "title": "Learn how to use Project Roadmaps - GitHub Checkout" }
   ]
 }
-
-

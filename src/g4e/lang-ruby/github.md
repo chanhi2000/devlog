@@ -12,4 +12,14 @@ description: 🔻Ruby > 🕶️Github
 
 ---
 
+## Ruby
+
+<MyGithubItems jsonName="lang-ruby" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-ruby-tut" />
+
+---
+
 <TagLinks />

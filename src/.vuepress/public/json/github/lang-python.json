@@ -2098,5 +2098,20 @@
     "desc": "Inference Llama 2 in one file of pure C",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "LinkSoul-AI/Chinese-Llama-2-7b",
+    "desc": "开源社区第一个能下载、能运行的中文 LLaMA2 模型！",
+    "topics": ["deep-learning", "pytorch", "llm", "llama2", "llama2-docker"],
+    "officialSite": ""
+  }, {
+    "repo": "Jamie-Stirling/RetNet",
+    "desc": "An implementation of \"Retentive Network: A Successor to Transformer for Large Language Models\"",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "topics": ["python", "deep-learning", "tensorflow", "pytorch", "tts", "voice-cloning"],
+    "officialSite": ""
   }
 ]

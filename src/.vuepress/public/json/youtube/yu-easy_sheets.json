@@ -2,33 +2,21 @@
   "channel": {
     "id": "easy_sheets",
     "name": "Easy Sheets",
-    "profile": "https://yt3.googleusercontent.com/gRNRU5-bdvOCBjrUxFDgtnTojKlGqU6kxz4srBW7-eSCsCVa3JM2Dpf4akBC73SD8pyIL33fP1g=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/gRNRU5-bdvOCBjrUxFDgtnTojKlGqU6kxz4srBW7-eSCsCVa3JM2Dpf4akBC73SD8pyIL33fP1g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9ZlDoPlsmYhEhy7ZkkSdKWNllXJAbvt16Kr4cka87wXmUynBzUULdulZ5GzQi_3glw08CobD7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "pAlWTnXJnOQ",
-      "title": "Get current Date/Time in Excel! #excel #exceltutorial"
-    }, {
-      "id": "h8XLHbvY3WU",
-      "title": "Fix column widths and row heights fast in Excel! #excel #exceltutor"
-    }, {
-      "id": "MIlVIanA4V8",
-      "title": "Horizontal scroll shortcut in Excel! #excel #exceltutor"
-    }, {
-      "id": "4k6sbpl_YjQ",
-      "title": "How to write functions correctly in Excel! #excel #exceltutorial"
-    }, {
-      "id": "aJCJNxrY41M",
-      "title": "COMBINE multiple TABLES from different files (Power Query) in Excel"
-    }, {
-      "id": "ywp_cQDP_J0",
-      "title": "Automatically number rows using Sequence and Counta in Excel!"
-    }, {
-      "id": "vzSqqoVuCis",
-      "title": "How to make QR codes in Excel (working)! #excel"
-    }, {
-      "id": "wxpseYQSQI0",
-      "title": "How to make sparklines (mini line charts) in Excel! #excel"
-    }
+    { "id": "ZVrgtC23I-s", "title": "Don't Merge &amp; Center in Excel, use Center Across Selection instead! #excel" },
+    { "id": "JB32CWR8-hs", "title": "Instantly create a list of dates in Excel! #excel #exceltutorial" },
+    { "id": "w4dHRAZYpiU", "title": "How to fill data fast in Excel! #excel" },
+    { "id": "pAlWTnXJnOQ", "title": "Get current Date/Time in Excel! #excel #exceltutorial" }, 
+    { "id": "h8XLHbvY3WU", "title": "Fix column widths and row heights fast in Excel! #excel #exceltutor" }, 
+    { "id": "MIlVIanA4V8", "title": "Horizontal scroll shortcut in Excel! #excel #exceltutor" }, 
+    { "id": "4k6sbpl_YjQ", "title": "How to write functions correctly in Excel! #excel #exceltutorial" }, 
+    { "id": "aJCJNxrY41M", "title": "COMBINE multiple TABLES from different files (Power Query) in Excel" }, 
+    { "id": "ywp_cQDP_J0", "title": "Automatically number rows using Sequence and Counta in Excel!" }, 
+    { "id": "vzSqqoVuCis", "title": "How to make QR codes in Excel (working)! #excel" }, 
+    { "id": "wxpseYQSQI0", "title": "How to make sparklines (mini line charts) in Excel! #excel" }
   ]
 }
+

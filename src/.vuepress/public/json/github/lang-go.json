@@ -559,5 +559,15 @@
     "desc": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
     "topics": ["go", "golang", "distributed-systems", "cloud", "messaging", "message-bus", "message-queue", "cloud-computing", "cloud-native", "microservices-architecture", "nats-server"],
     "officialSite": "https://nats.io"
+  }, {
+    "repo": "brevdev/brev-cli",
+    "desc": "Connect your laptop to cloud computers. Follow to stay updated about our product",
+    "topics": ["cli", "golang", "oss", "devtools", "cloud-computing"],
+    "officialSite": "https://brev.dev"
+  }, {
+    "repo": "Narasimha1997/fake-sms",
+    "desc": "A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.",
+    "topics": ["go", "golang", "privacy", "go-modules"],
+    "officialSite": ""
   }
 ]

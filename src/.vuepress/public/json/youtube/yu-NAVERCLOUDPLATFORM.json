@@ -2,10 +2,14 @@
   "channel": {
     "id": "NAVERCLOUDPLATFORM",
     "name": "NAVER Cloud Platform : 네이버 클라우드 플랫폼",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMwjjFLIeVqoa2qO9p31Dp9s5gtK1yDkUIHSz6K=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMwjjFLIeVqoa2qO9p31Dp9s5gtK1yDkUIHSz6K=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/283rdxDBWTdC-86Rb3uvkVATmI94z9bbUpxUmuB6HM0wFVZMVGgQlbNpaxBtdNyGOtMFMJiZ5Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "Y1W9SJXm_T0",
+      "title": "[Solutions Showcase] 개발자와 DevOps를 위한 사용 사례 중심의 NGINX Plus API Gateway"
+    }, {
       "id": "j4_rnEHb8FM",
       "title": "[Brown-bag 런치 세미나] 관리형 서비스로 쉽게 구축하는 빅데이터 플랫폼"
     }, {

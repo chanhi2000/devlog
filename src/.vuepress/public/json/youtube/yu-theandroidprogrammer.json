@@ -6,22 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/Dl9iBE5m5C4rF7a_R3r806H_lvhYyomziCuaBlWXqynerHyegDphFCl3OcJkq3nzedNfvfBjIA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "HEH57g-UP4Q",
-      "title": "Building a Full Stack Web Application with Kotlin and React - Part 1/2 - Backend + Frontend"
-    }, {
-      "id": "yKiBFlfGR2Q",
-      "title": "Android MVVM with CommandBus - Full Part 2 - Splash Activity and ViewModel"
-    }, {
-      "id": "cLjBhAUl4zU",
-      "title": "Android MVVM with CommandBus - Full Part 1 - BaseViewModel and BaseActivity"
-    }, {
-      "id": "rU-dS0fwqY0",
-      "title": "Data Structures &amp; Algorithms in Kotlin - Linked List push/append"
-    }, {
-      "id": "6hfREKcMx-E",
-      "title": "The Complete Guide to Android Design Patterns - Part 2"
-    }
+    { "id": "abIIAZjSBPA", "title": "How to Apply to Android Jobs: Tips for CV, Cover Letter and Motivation Questions" }, 
+    { "id": "1IzjIL-7gyM", "title": "Android Interview Prep" }, 
+    { "id": "PJ2lAg9GRuE", "title": "The Many Faces of an Android Technical Interview" }, 
+    { "id": "uplv4g5TIq0", "title": "Uber Android Interview Prep - Algorithms - Dijkstra - Also just chat" }, 
+    { "id": "tXm8a7eelt0", "title": "Introduction to Android Convention Plugins" }, 
+    { "id": "HEH57g-UP4Q", "title": "Building a Full Stack Web Application with Kotlin and React - Part 1/2 - Backend + Frontend" }, 
+    { "id": "yKiBFlfGR2Q", "title": "Android MVVM with CommandBus - Full Part 2 - Splash Activity and ViewModel" }, 
+    { "id": "cLjBhAUl4zU", "title": "Android MVVM with CommandBus - Full Part 1 - BaseViewModel and BaseActivity" }, 
+    { "id": "rU-dS0fwqY0", "title": "Data Structures &amp; Algorithms in Kotlin - Linked List push/append" }, 
+    { "id": "6hfREKcMx-E", "title": "The Complete Guide to Android Design Patterns - Part 2" }
   ]
 }
-

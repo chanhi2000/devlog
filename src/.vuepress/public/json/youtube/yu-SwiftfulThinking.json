@@ -6,29 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/tjorkp81XrPpHKVlDcQTfKSw4-xGjagaGJMXVCvz1-gV2oFrt1fghNsi8MeZah2HrDvD7T0SWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "wSmTbtOwgbE",
-      "title": "What is the Sendable protocol in Swift? | Swift Concurrency #11"
-    }, {
-      "id": "1OmJJwVF7uQ",
-      "title": "How to use Async Let to perform concurrent methods in Swift | Swift Concurrency #5"
-    }, {
-      "id": "SgSfsdeMosM",
-      "title": "Create a custom line chart to display historical price data | SwiftUI Crypto App #21"
-    }, {
-      "id": "-5kIzkBqAzc",
-      "title": "How to use async / await keywords in Swift  | Swift Concurrency #3"
-    }, {
-      "id": "mdQcqPq9Kl4",
-      "title": "iOS Firebase Authentication: Sign In With Google Tutorial | Firebase Bootcamp #4"
-    }, {
-      "id": "sHWX5j6wUjA",
-      "title": "Connect Firebase to Xcode: A Step-by-Step Tutorial | Firebase Bootcamp #1"
-    }, {
-      "id": "3N77zgo4oXQ",
-      "title": "iOS Firebase Authentication: Sign In With Apple Tutorial | Firebase Bootcamp #5"
-    }
+    { "id": "GZ-hQWMjT0s", "title": "How to use NavigationStack in SwiftUI | Bootcamp #62" },
+    { "id": "53fWEfSo0tk", "title": "How to use Toolbar in SwiftUI | Bootcamp #63" },
+    { "id": "YISIACDKLZY", "title": "How to create resizable sheets in SwiftUI | Bootcamp #64" },
+    { "id": "1rVDrwdYYbs", "title": "How to use Menu in SwiftUI | Bootcamp #68" },
+    { "id": "t95HGRLPwj0", "title": "How to use animation with value in SwiftUI (iOS 16+) | Bootcamp #67" },
+    { "id": "OpJcInSZpc8", "title": "How to use MVVM with Async Await | Swift Concurrency #14" },
+    { "id": "IZEYVX4vTOA", "title": "How to use PhotosPicker in SwiftUI &amp; PhotosUI | Swift Concurrency #17" },
+    { "id": "gRKlprUj-I8", "title": "How to use Structs in Swift | Swift Basics #9" },    
+    { "id": "wSmTbtOwgbE", "title": "What is the Sendable protocol in Swift? | Swift Concurrency #11" }, 
+    { "id": "1OmJJwVF7uQ", "title": "How to use Async Let to perform concurrent methods in Swift | Swift Concurrency #5" }, 
+    { "id": "SgSfsdeMosM", "title": "Create a custom line chart to display historical price data | SwiftUI Crypto App #21" }, 
+    { "id": "-5kIzkBqAzc", "title": "How to use async / await keywords in Swift  | Swift Concurrency #3" }, 
+    { "id": "mdQcqPq9Kl4", "title": "iOS Firebase Authentication: Sign In With Google Tutorial | Firebase Bootcamp #4" }, 
+    { "id": "sHWX5j6wUjA", "title": "Connect Firebase to Xcode: A Step-by-Step Tutorial | Firebase Bootcamp #1" }, 
+    { "id": "3N77zgo4oXQ", "title": "iOS Firebase Authentication: Sign In With Apple Tutorial | Firebase Bootcamp #5" }
   ]
 }
-
-

@@ -2,21 +2,24 @@
   "channel": {
     "id": "jejucodingcamp",
     "name": "제주코딩베이스캠프",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMsT128Wj7gbebnvqiMIZvtoysuAJJ2eKQedTNjZsU=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMsT128Wj7gbebnvqiMIZvtoysuAJJ2eKQedTNjZsU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xKmjRuZ8hHeaAEZeXzZ3qvIi1A3ZxRsFMVYuI_nnSjERpH3OyWIMYOgXrUWmF5FAPfE5sBpB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "A4ESksGBPh4",
-      "title": "아는 만큼 보이는 크롬 개발자 도구 - 로컬스토리지"
-    }, {
-      "id": "oVjkpnp2n-w",
-      "title": "[ENG] Python Algorithm with ChatGPT | Implementation | Pyalgo"
-    }, {
-      "id": "Ozvk8mPeTQc",
-      "title": "[ENG] Python Algorithm with ChatGPT | Introduction | Pyalgo"
-    }, {
-      "id": "ZwqSsekJVqU",
-      "title": "아는 만큼 보이는 크롬 개발자 도구 - 눈금자 표시하기"
-    }   
+    { "id": "SgyeaEc_CKY", "title": "아는 만큼 보이는 크롬 개발자 도구 - Lighthouse" }, 
+    { "id": "d63YnKfEa_k", "title": "아는 만큼 보이는 크롬 개발자 도구 - 네트워크" }, 
+    { "id": "jwbXS4Vl118", "title": "[우피] 우피 유료(PRO) 기능엔 어떤게 있을까? 같이 구매하기! #6" }, 
+    { "id": "7aKmtDSAgMA", "title": "[우피] 우피 심화기능 알아보기 (SEO,댓글,페이지분석) #5" }, 
+    { "id": "MvmeB_O9ENo", "title": "[우피] 노션 웹사이트 우피로 배포하기 (학급홈페이지 만들기 실습) #4" }, 
+    { "id": "pDb8Cbav-SM", "title": "[우피] 우피를 위한 노션 웹사이트 세팅! (학급홈페이지 만들기 실습) #3" }, 
+    { "id": "2FPVLH5favg", "title": "[우피] 우피(oopy) 회원가입 및 사용방법 알아보기 #2" }, 
+    { "id": "okvRmM2GLjs", "title": "[우피] 코드없이 초간단 웹사이트 만들 수 있는 우피(oopy) 알아보기 #1" }, 
+    { "id": "g4gd-vhMouU", "title": "[Google Coding 컨벤션] #3 HTML&amp;CSS 코딩 컨벤션" }, 
+    { "id": "iKp5CEIan2s", "title": "[Three.js] 떠먹는 Three.js #2 설치 및 경로 설정" }, 
+    { "id": "kZnLsQh_RQI", "title": "[Three.js] 떠먹는 Three.js #1 강의소개" },     
+    { "id": "A4ESksGBPh4", "title": "아는 만큼 보이는 크롬 개발자 도구 - 로컬스토리지" }, 
+    { "id": "oVjkpnp2n-w", "title": "[ENG] Python Algorithm with ChatGPT | Implementation | Pyalgo" }, 
+    { "id": "Ozvk8mPeTQc", "title": "[ENG] Python Algorithm with ChatGPT | Introduction | Pyalgo" }, 
+    { "id": "ZwqSsekJVqU", "title": "아는 만큼 보이는 크롬 개발자 도구 - 눈금자 표시하기" } 
   ]
 }

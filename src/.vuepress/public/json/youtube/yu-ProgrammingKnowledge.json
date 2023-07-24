@@ -2,10 +2,53 @@
   "channel": {
     "id": "ProgrammingKnowledge",
     "name": "ProgrammingKnowledge",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO1_aTMxySfeMCqUCPHZPmm_Vh8ecdreU_HUhoR=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO1_aTMxySfeMCqUCPHZPmm_Vh8ecdreU_HUhoR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P_2SlvEHY8VylI_j63FgIBK8EKvJryQ-08B9FQptF_SI09S6JKuVmV7MpeXlkxh9WNmsprO8_A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     {
+      "id": "936wHLIR4UY",
+      "title": "How to Setup JUnit for VS Code | JUnit in Visual Studio Code | Java Test with Visual Studio Code"
+    }, {
+      "id": "ZNlCZC6hIUo",
+      "title": "JUnit 5 - How to Write Parameterized Tests"
+    }, {
+      "id": "aLoO1RxabQk",
+      "title": "Basic Kubernetes Architecture Explained"
+    }, {
+      "id": "6BFQghIWNCo",
+      "title": "Kubernetes Tutorial — What is Minikube and Kubectl"
+    }, {
+      "id": "ePCBuIQJAUc",
+      "title": "How To Fix Support For Password Authentication Was Removed On GitHub (2023)"
+    }, {
+      "id": "KvRa_Xf-cqo",
+      "title": "How to Install MongoDB Compass on Ubuntu 22.04 LTS (Linux) (2023)"
+    }, {
+      "id": "AHxgSAyYr4A",
+      "title": "How To Install Minikube on Ubuntu 22.04 LTS (Linux) (2023)"
+    }, {
+      "id": "tducLYZzElo",
+      "title": "How To Install PostgreSQL on Ubuntu 22.04 LTS (Linux) (2023)"
+    }, {
+      "id": "L9iwygzr7IM",
+      "title": "Commonly Used Minikube Commands (Kubectl - Minikube - Kubernetes)"
+    }, {
+      "id": "Yju3CmFYFt8",
+      "title": "How to Deploy a Docker container to Kubernetes using YAML files"
+    }, {
+      "id": "uXP9KatdbBs",
+      "title": "How to create a Service in Kubernetes"
+    }, {
+      "id": "ChwsFldra-o",
+      "title": "How to Install and Use Visual Studio Code on Ubuntu 22.04 LTS Linux (VS Code) (2023)"
+    }, {
+      "id": "YbVHEKwlAOY",
+      "title": "JUnit Tutorial in One Video (2023)"
+    }, {
+      "id": "hy_4Hp4Yn-c",
+      "title": "How To Reset The Root Password On Ubuntu 22.04 LTS If Forgotten (Linux) (2023)"
+    }, {
       "id": "ZNlCZC6hIUo",
        "title": "JUnit 5 - How to Write Parameterized Tests"
     }, {

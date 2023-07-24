@@ -2,65 +2,34 @@
   "channel": {
     "id": "nickchapsas",
     "name": "Nick Chapsas",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPQ7R8UlNR8AycRa1KHK107_CXkIEWX5AwppH_DLA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPQ7R8UlNR8AycRa1KHK107_CXkIEWX5AwppH_DLA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id":"2a0HIJbnkJA",
-      "title":"Empty String or string.Empty in C#?"
-    }, {
-      "id": "mgeuh8k3I4g", 
-      "title": "Adding JWT Authentication &amp; Authorization in ASP.NET Core"
-    }, {
-      "id": "4FFYefcx4Bg", 
-      "title": "Build Clean Messaging in .NET with MassTransit"
-    }, {
-      "id": "QqNmUmmVH-Y", 
-      "title": "The Fastest Way To Work With Lists in C#! | .NET Tips 6"
-    }, {
-      "id": "aTDUY66tlxk", 
-      "title": "NativeAOT for .NET APIs Is Here and It’s INSANE!"
-    }, {
-      "id": "J2tBNTDMf1o", 
-      "title": "Cleaning up Your Validation Code in .NET"
-    }, {
-      "id": "8Asq7ymF1R8", 
-      "title": "Implementing Modern API Versioning in .NET"
-    }, {
-      "id": "aaC16Fv2zes", 
-      "title": "Settling the Biggest Await Async Debate in .NET"
-    }, {
-      "id": "z2CKQFi746Q", 
-      "title": "ChatGPT can write better code than me"
-    }, {
-      "id": "E4TeWBFzcCw", 
-      "title": "The BEST way to reset your database for testing in .NET"
-    }, {
-      "id": "ileC_qyLdD4", 
-      "title": "How to await ANYTHING in C#"
-    }, {
-      "id": "E1LXQd1M-ck", 
-      "title": "Controlling your debugging experience in C#"
-    }, {
-      "id": "rdWZo5PD9Ek", 
-      "title": "How to create your own project templates in .NET"
-    }, {
-      "id": "1JAdZul-aRQ", 
-      "title": "How to create your own Fluent API in C#"
-    }, {
-      "id": "bLKXqJwRNSY", 
-      "title": "How to work with text in .NET like a pro with Humanizer"
-    }, {
-      "id": "YU3ohofu6UU", 
-      "title": "Writing robust integration tests in .NET with WireMock.NET"
-    }, {
-      "id": "EEeVU0z26u0", 
-      "title": "Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow"
-    }, {
-      "id": "lQu-eBIIh-w", 
-      "title": "8 await async mistakes that you SHOULD avoid in .NET"
-    }
+    { "id": "a-dQYcA2qN4", "title": "Writing C# in VS Code Is Finally Awesome!" }, 
+    { "id": "PvQGVmozCdU", "title": "The Biggest Lie About the .NET Logger | .NET Tips 7" }, 
+    { "id": "wqDYj0be_og", "title": "The Right Way to Check for Null in C#" }, 
+    { "id": "pFMA6wI2m_w", "title": "C# 11's new operator #Shorts" }, 
+    { "id": "acjCxNlWpJQ", "title": "Microsoft Fixed The &quot;Time&quot; Issue AGAIN in .NET 8" }, 
+    { "id": "rXdwX2X4-gw", "title": "The New Request Short Circuiting of .NET 8" },     
+    { "id": "2a0HIJbnkJA", "title":"Empty String or string.Empty in C#?" }, 
+    { "id": "mgeuh8k3I4g", "title": "Adding JWT Authentication &amp; Authorization in ASP.NET Core" }, 
+    { "id": "4FFYefcx4Bg", "title": "Build Clean Messaging in .NET with MassTransit" }, 
+    { "id": "QqNmUmmVH-Y", "title": "The Fastest Way To Work With Lists in C#! | .NET Tips 6" }, 
+    { "id": "aTDUY66tlxk", "title": "NativeAOT for .NET APIs Is Here and It’s INSANE!" }, 
+    { "id": "J2tBNTDMf1o", "title": "Cleaning up Your Validation Code in .NET" }, 
+    { "id": "8Asq7ymF1R8", "title": "Implementing Modern API Versioning in .NET" }, 
+    { "id": "aaC16Fv2zes", "title": "Settling the Biggest Await Async Debate in .NET" }, 
+    { "id": "z2CKQFi746Q", "title": "ChatGPT can write better code than me" }, 
+    { "id": "E4TeWBFzcCw", "title": "The BEST way to reset your database for testing in .NET" }, 
+    { "id": "ileC_qyLdD4", "title": "How to await ANYTHING in C#" }, 
+    { "id": "E1LXQd1M-ck", "title": "Controlling your debugging experience in C#" }, 
+    { "id": "rdWZo5PD9Ek", "title": "How to create your own project templates in .NET" }, 
+    { "id": "1JAdZul-aRQ", "title": "How to create your own Fluent API in C#" }, 
+    { "id": "bLKXqJwRNSY", "title": "How to work with text in .NET like a pro with Humanizer" }, 
+    { "id": "YU3ohofu6UU", "title": "Writing robust integration tests in .NET with WireMock.NET" }, 
+    { "id": "EEeVU0z26u0", "title": "Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow" }, 
+    { "id": "lQu-eBIIh-w", "title": "8 await async mistakes that you SHOULD avoid in .NET" }
   ]
 }
-
 

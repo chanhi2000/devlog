@@ -9,5 +9,10 @@
     "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
     "topics": ["git", "markdown", "clojure", "graph", "clojurescript", "knowledge-graph", "org-mode", "note-taking", "knowledge-base", "pkm", "local-first"],
     "officialSite": "https://logseq.com"
+  }, {
+    "repo": "tonsky/FiraCode",
+    "desc": "Free monospaced font with programming ligatures",
+    "topics": ["font", "ligatures", "programming-ligatures"],
+    "officialSite": ""
   }
 ]

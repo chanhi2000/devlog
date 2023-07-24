@@ -2,40 +2,22 @@
   "channel": {
     "id": "t3dotgg",
     "name": "Theo - t3․gg",
-    "profile": "https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o69213Wa6chjff2xs9ysFDw0UDXKSd0Q2Si5F6dJSDnP1srSfXOLSSbpIkKD6g-pXXWx5TDJGw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "FF50H2RWaEY",
-      "title": "The ONLY REASON To Unit Test"
-    }, {
-      "id": "74OjOhL5gSg",
-      "title": "The Thing We Never Talk About."
-    }, {
-      "id": "YkOSUVzOAA4",
-      "title": "T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma & More)"
-    }, {
-      "id": "RUwTvCyeohQ",
-      "title": "Vercel STORAGE??! SQL, KV, Files and more"
-    }, {
-      "id": "UnDw3_7_9gc",
-      "title": "We Fixed Environment Variables"
-    }, {
-      "id": "kUs-fH1k-aM",
-      "title": "Do you REALLY need SSR?"
-    }, {
-      "id": "LMUKsAf2Rfs",
-      "title": "Killing ReactJS - A Guide For Hopeful Frameworks"
-    }, {
-      "id": "9RM2aErJs-s",
-      "title": "TypeScript Just Got SO MUCH BETTER"
-    }, {
-      "id": "a8wCny94-_U",
-      "title": "I Read Twitter's Code So You Don't Have To"
-    }, {
-      "id": "kK-iR6g-V1g",
-      "title": "The REAL Cost Of AWS"
-    }
+    { "id": "Cd-gBxzcsdA", "title": "You're (Probably) Using Prettier Wrong" }, 
+    { "id": "rtgjFEJaFI8", "title": "Does Lock-In Even Matter Anymore?" },     
+    { "id": "FF50H2RWaEY", "title": "The ONLY REASON To Unit Test" }, 
+    { "id": "74OjOhL5gSg", "title": "The Thing We Never Talk About." }, 
+    { "id": "YkOSUVzOAA4", "title": "T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma & More)" }, 
+    { "id": "RUwTvCyeohQ", "title": "Vercel STORAGE??! SQL, KV, Files and more" }, 
+    { "id": "UnDw3_7_9gc", "title": "We Fixed Environment Variables" }, 
+    { "id": "kUs-fH1k-aM", "title": "Do you REALLY need SSR?" }, 
+    { "id": "LMUKsAf2Rfs", "title": "Killing ReactJS - A Guide For Hopeful Frameworks" }, 
+    { "id": "9RM2aErJs-s", "title": "TypeScript Just Got SO MUCH BETTER" }, 
+    { "id": "a8wCny94-_U", "title": "I Read Twitter's Code So You Don't Have To" }, 
+    { "id": "kK-iR6g-V1g", "title": "The REAL Cost Of AWS" }
   ]
 }
 

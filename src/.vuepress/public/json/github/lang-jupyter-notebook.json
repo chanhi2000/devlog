@@ -297,7 +297,7 @@
   }, {
     "repo": "CStanKonrad/long_llama",
     "desc": "LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.",
-    "topics": [],
+  "topics": [],
     "officialSite": ""
   }, {
     "repo": "rasbt/scipy2023-deeplearning",
@@ -308,10 +308,15 @@
     "repo": "mshumer/gpt-prompt-engineer",
     "desc": "",
     "topics": [],
-  "officialSite": ""
+    "officialSite": ""
   }, {
     "repo": "facebookresearch/llama-recipes",
     "desc": "Examples and recipes for Llama 2 model",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "DjangoPeng/openai-quickstart",
+    "desc": "A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.",
     "topics": [],
     "officialSite": ""
   }

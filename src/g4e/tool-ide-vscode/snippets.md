@@ -105,8 +105,8 @@ Placeholders with the same ids are connected.
 		 "}"
 		],
 		"description": "Github Item as JSON"
-  },
-  "jsonYtItemAll": {
+	},
+	"jsonYtItemAll": {
 		"prefix": "ytItemAll",
 		"body": [
 			"{",
@@ -114,6 +114,7 @@ Placeholders with the same ids are connected.
 			"    \"id\": \"${1:channelId}\",",
 			"    \"name\": \"${2:channelName}\",",
 			"    \"profile\": \"${3:imgUrl}\"",
+			"    \"banner\": \"${4:bannerUrl}\"",
 			"  },",
 			"  \"videos\": [",
 			"    ${0}",

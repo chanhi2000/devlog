@@ -2,66 +2,33 @@
   "channel": {
     "id": "ThePrimeTimeagen",
     "name": "ThePrimeTime",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOnBN9Fze9naSk9bKiMEMwBqFyrxeVhYoVSM1rl=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOnBN9Fze9naSk9bKiMEMwBqFyrxeVhYoVSM1rl=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iRfrvDqDcMZtwQ8190VrfETYRC6NSX665-QMiAl3cYKGxBSj08fUah2GTCZkDEU-pzANC9kTWFM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "7nper8nC_88", 
-      "title": "The Zip Domain Disaster"
-    }, {
-      "id": "E1H9AFtwxfE", 
-      "title": "New Language Roadmap"
-    }, {
-      "id": "k5DJxz6_xMA", 
-      "title": "Don't Write Comments | Prime Reacts"
-    }, {
-      "id": "QwUPs5N9I6I", 
-      "title": "The Most Amazing Software Ever Created"
-    }, {
-      "id": "v53okHVQZuA", 
-      "title": "Vim vs Emacs | Prime Reacts"
-    }, {
-      "id": "pj8SoTZbCTE",
-      "title": "TS vs JSDoc | Prime Reacts"
-    }, {
-      "id": "1u08QZyjguo",
-      "title": "Gitlab DELETING Production Databases | Prime Reacts"
-    }, {
-      "id": "ihFoFqvZhCM",
-      "title": "Atomic Git ONLY WAY TO USE GIT | Prime Reacts"
-    }, {
-      "id": "UrMHPrumJEs",
-      "title": "Leptos: UI Framework in Rust | Greg Johnston"
-    }, {
-      "id": "RJTepwXirk8",
-      "title": "Rich Harris Teaches ThePrimeagen SvelteKit"
-    }, {
-      "id": "oGHH5aJEgXQ",
-      "title": "Jonathan blow Hates Visual Studios | Prime Reacts"
-    }, {
-      "id": "fUKAtZPPc7I",
-      "title": "QUIT VIM Because Modern IDES are magic"
-    }, {
-      "id": "qFnHWMxlOBc",
-      "title": "Carmack Doesn't Like Vim | Prime Reacts"
-    }, {
-      "id": "5HcyF_3XOzM",
-      "title": "Benchmarking Databases on Vercel | Prime Reacts"
-    }, {
-      "id": "onGVymdtnjM",
-      "title": "You Can Code in Powerpoint??? | Prime Reacts"
-    }, {
-      "id": "XKivYCgCMPw",
-      "title": "NX For MonoRepos? | Prime Interviews #ad"
-    }, {
-      "id": "zi0ZspvoLuo",
-      "title": "React is Holding Me Hostage!!! | Prime Reacts"
-    }, {
-      "id": "zs8FStOO2Z4",
-      "title": "Prime Reacts:  Building a Startup in Rust; I won't do it again"
-    }, {
-      "id": "B76gFi43HvM",
-      "title": "1000x FASTER JavaScript?"
-    }
+    { "id": "cNWhyadNbCk", "title": "Prompt Engineering is The New C++" }, 
+    { "id": "Ric2wHzPfcM", "title": "Why I Left Nvim | Prime Reacts" }, 
+    { "id": "yab6i9lrEv0", "title": "Netflix Migrates to GraphQL From MY DATA SERVICE!!! YAY!!! | Prime Reacts" }, 
+    { "id": "FV_DVvfA90Q", "title": "Complete Rewrite In Go!" }, 
+    { "id": "KzV0mTqBcZA", "title": "Thoughts About Unit Testing | Prime Reacts" },     
+    { "id": "7nper8nC_88", "title": "The Zip Domain Disaster" }, 
+    { "id": "E1H9AFtwxfE", "title": "New Language Roadmap" }, 
+    { "id": "k5DJxz6_xMA", "title": "Don't Write Comments | Prime Reacts" }, 
+    { "id": "QwUPs5N9I6I", "title": "The Most Amazing Software Ever Created" }, 
+    { "id": "v53okHVQZuA", "title": "Vim vs Emacs | Prime Reacts" }, 
+    { "id": "pj8SoTZbCTE", "title": "TS vs JSDoc | Prime Reacts" }, 
+    { "id": "1u08QZyjguo", "title": "Gitlab DELETING Production Databases | Prime Reacts" }, 
+    { "id": "ihFoFqvZhCM", "title": "Atomic Git ONLY WAY TO USE GIT | Prime Reacts" }, 
+    { "id": "UrMHPrumJEs", "title": "Leptos: UI Framework in Rust | Greg Johnston" }, 
+    { "id": "RJTepwXirk8", "title": "Rich Harris Teaches ThePrimeagen SvelteKit" }, 
+    { "id": "oGHH5aJEgXQ", "title": "Jonathan blow Hates Visual Studios | Prime Reacts" }, 
+    { "id": "fUKAtZPPc7I", "title": "QUIT VIM Because Modern IDES are magic" }, 
+    { "id": "qFnHWMxlOBc", "title": "Carmack Doesn't Like Vim | Prime Reacts" }, 
+    { "id": "5HcyF_3XOzM", "title": "Benchmarking Databases on Vercel | Prime Reacts" }, 
+    { "id": "onGVymdtnjM", "title": "You Can Code in Powerpoint??? | Prime Reacts" }, 
+    { "id": "XKivYCgCMPw", "title": "NX For MonoRepos? | Prime Interviews #ad" }, 
+    { "id": "zi0ZspvoLuo", "title": "React is Holding Me Hostage!!! | Prime Reacts" }, 
+    { "id": "zs8FStOO2Z4", "title": "Prime Reacts:  Building a Startup in Rust; I won't do it again" }, 
+    { "id": "B76gFi43HvM", "title": "1000x FASTER JavaScript?" }
   ]
 }

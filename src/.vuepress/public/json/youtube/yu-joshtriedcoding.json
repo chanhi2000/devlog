@@ -2,28 +2,21 @@
   "channel": {
     "id": "joshtriedcoding",
     "name": "Josh tried coding",
-    "profile": "https://yt3.googleusercontent.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fcCgvRHuv5nq0kcMERI8SkPFSaKk7_OR4e2ipR-33P-yDjojNv0owVlLtxBwnl5SsNWlNlfb=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "pTsmh36ZB8c",
-      "title": "When Did NextJS Routing Become so Advanced??!"
-    }, {
-      "id": "7undQz4u1t0",
-      "title": "I Quit tRPC. Here's What I Do Instead"
-    }, {
-      "id": "ADKvP8Xn4g8",
-      "title": "Why React is Here to Stay"
-    }, {
-      "id": "RvyCAdDmFaw",
-      "title": "5 Amazing Open-Source React Projects to Learn From"
-    }, {
-      "id": "Sbl04kOL1dM",
-      "title": "NextJS App Router: Learn Modern Web Development in 1 Hour"
-    }, {
-      "id": "elvwguckWjQ",
-      "title": "This Open-Source NextJS Project is a Game-Changer"
-    }
+    { "id": "R1FG54FY-18", "title": "Loading Your React Data Like This is Awesome" },
+    { "id": "8met6WTk0mQ", "title": "This New Database Tool is a Game-Changer" },
+    { "id": "mSUKMfmLAt0", "title": "Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL" },
+    { "id": "woWW1T9DXEY", "title": "My Favorite Database Tool Just Got EVEN Better" },
+    { "id": "brw3uVmQgZ8", "title": "Modern Redis in 40 Minutes | Crash Course 2023" },
+    { "id": "pTsmh36ZB8c", "title": "When Did NextJS Routing Become so Advanced??!" }, 
+    { "id": "7undQz4u1t0", "title": "I Quit tRPC. Here's What I Do Instead" }, 
+    { "id": "ADKvP8Xn4g8", "title": "Why React is Here to Stay" }, 
+    { "id": "RvyCAdDmFaw", "title": "5 Amazing Open-Source React Projects to Learn From" }, 
+    { "id": "Sbl04kOL1dM", "title": "NextJS App Router: Learn Modern Web Development in 1 Hour" }, 
+    { "id": "elvwguckWjQ", "title": "This Open-Source NextJS Project is a Game-Changer" }
   ]
 }
 

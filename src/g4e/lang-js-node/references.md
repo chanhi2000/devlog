@@ -378,6 +378,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Haze Booth
+
+- [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter)
+
+---
+
 ## TotalTypescript
 
 - [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)

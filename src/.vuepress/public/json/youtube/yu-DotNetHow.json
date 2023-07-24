@@ -2,22 +2,15 @@
   "channel": {
     "id": "DotNetHow",
     "name": "Ervis Trupja",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNR1WtRv0ap7dhWHmD7tyHXfU6L24eWRaKHyQ6Zprc=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNR1WtRv0ap7dhWHmD7tyHXfU6L24eWRaKHyQ6Zprc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kpN1c5fYszmE4VhHYuy8jKZSdIHQhlVkC__NFmprp4pd8C_iPYd9mX4Xxt6h9SY6GJ87ScN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "snV4YwhJiks",
-      "title": "31. Designing the Search Page"
-    }, {
-      "id": "edc1ms7Rwe8",
-      "title": "24. Designing the Homepage - Slider"
-    }, {
-      "id": "fRV53m7kMoQ",
-      "title": "Publishing an Angular project to a Github repository"
-    }, {
-      "id": "28ZTycztXqk", 
-      "title": "05. Testing Asp.Net Core Web APIs with Swagger and Postman"
-    }
+    { "id": "bUNn9y0eKvk", "title": "40. Dynamic Styling in Angular with [ngClass]" },
+    { "id": "snV4YwhJiks", "title": "31. Designing the Search Page" }, 
+    { "id": "edc1ms7Rwe8", "title": "24. Designing the Homepage - Slider" }, 
+    { "id": "fRV53m7kMoQ", "title": "Publishing an Angular project to a Github repository" }, 
+    { "id": "28ZTycztXqk",  "title": "05. Testing Asp.Net Core Web APIs with Swagger and Postman" }
   ]
 }
 

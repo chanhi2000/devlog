@@ -344,6 +344,11 @@
     "desc": "A blazing fast multi-language serialization framework powered by jit and zero-copy",
     "topics": ["javascript", "python", "java", "rust", "fast", "golang", "encoding", "serialization", "compression", "lightning", "cpp", "transfer", "zero-copy", "persistence", "marshalling", "jit", "rpc", "transport", "cross-language", "multiple-language"],
     "officialSite": "https://furyio.org"
+  }, {
+    "repo": "Tencent/Hippy",
+    "desc": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
+    "topics": ["react", "android", "ios", "mobile", "web", "vue", "frontend", "cross-platform", "hippy"],
+    "officialSite": "https://hippyjs.org"
   }
 ]
 
