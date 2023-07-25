@@ -23,4 +23,10 @@ tags: ["java", "axelor"]
 
 ---
 
+## 사각사각
+
+- [[Gradle] war 실행 시 Exploded war 생성하기 (Groovy, Kotlin DSL)](https://jolly-sally.tistory.com/63)
+
+---
+
 <TagLinks />

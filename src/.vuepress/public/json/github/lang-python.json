@@ -2005,7 +2005,7 @@
     "officialSite": ""
   }, {
     "repo": "minimaxir/simpleaichat",
-    "desc": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity.bazingagin/npc_gzip",
+    "desc": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity.",
     "topics": ["ai", "chatgpt"],
     "officialSite": ""
   }, {
@@ -2112,6 +2112,31 @@
     "repo": "CorentinJ/Real-Time-Voice-Cloning",
     "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "topics": ["python", "deep-learning", "tensorflow", "pytorch", "tts", "voice-cloning"],
+    "officialSite": ""
+  }, {
+    "repo": "liltom-eth/llama2-webui",
+    "desc": "Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.",
+    "topics": ["llm", "llm-inference", "llama2", "llama-2"],
+    "officialSite": ""
+  }, {
+    "repo": "invictus717/MetaTransformer",
+    "desc": "Meta-Transformer for Unified Multimodal Learning",
+    "topics": ["machine-learning", "computer-vision", "multimedia", "transformers", "artificial-intelligence", "multimodal", "foundationmodel"],
+    "officialSite": "https://arxiv.org/abs/2307.10802"
+  }, {
+    "repo": "RayVentura/ShortGPT",
+    "desc": "🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.",
+    "topics": ["python", "content", "automation", "video", "ai", "artificial-intelligence", "openai", "video-editing", "autonomous-agents", "gpt-4"],
+    "officialSite": "https://discord.gg/uERx39ru3R"
+  }, {
+    "repo": "FlagAlpha/Llama2-Chinese",
+    "desc": "Llama中文社区，最好的中文Llama大模型，完全开源可商用",
+    "topics": ["llama", "lora", "finetune", "pretrain", "llm", "llama2"],
+    "officialSite": ""
+  }, {
+    "repo": "1j01/textual-paint",
+    "desc": "🎨 MS Paint... in your terminal.",
+    "topics": ["bbs", "drawing", "paint", "image", "terminal", "irc", "pixel-art", "textual", "tui", "image-editor", "ascii-art", "ansi-art", "mirc", "mspaint", "pixel-editor", "text-art", "ansi-editor", "artscene"],
     "officialSite": ""
   }
 ]

@@ -1114,5 +1114,15 @@
     "desc": "High-performance React Native Graphics using Skia",
     "topics": ["react", "react-native", "skia"],
     "officialSite": "https://shopify.github.io/react-native-skia"
+  }, {
+    "repo": "anyproto/anytype-ts",
+    "desc": "Official Anytype client for MacOS, Linux, and Windows",
+    "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"],
+    "officialSite": "https://anytype.io"
+  }, {
+    "repo": "novuhq/novu",
+    "desc": "The open-source notification infrastructure with fully functional embedded notification center",
+    "topics": [],
+    "officialSite": "https://novu.co"
   }
 ]

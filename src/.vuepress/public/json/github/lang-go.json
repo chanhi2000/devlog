@@ -569,5 +569,15 @@
     "desc": "A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.",
     "topics": ["go", "golang", "privacy", "go-modules"],
     "officialSite": ""
+  }, {
+    "repo": "Edouard127/reddit-placebot-2023",
+    "desc": "A bot for r/place that doesn't use the api",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "anyproto/any-sync",
+    "desc": "An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices",
+    "topics": ["performance", "privacy", "protocol", "p2p", "e2ee", "local-first", "anytype"],
+    "officialSite": "https://anytype.io"
   }
 ]

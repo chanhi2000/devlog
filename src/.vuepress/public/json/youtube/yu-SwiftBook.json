@@ -2,15 +2,13 @@
   "channel": {
     "id": "SwiftBook",
     "name": "SwiftBook",
-    "profile": "https://yt3.googleusercontent.com/DEgAdwexHKdiSJZMUkiLlj671SJ5vBQQBrD6MgL0LC3Q1sj1XNetV9xbEtZkAoquvxhM3BguVA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/DEgAdwexHKdiSJZMUkiLlj671SJ5vBQQBrD6MgL0LC3Q1sj1XNetV9xbEtZkAoquvxhM3BguVA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RwoooBkGTYvpsVV2CISCG937HoalMaFuQEr9tFs7DFNlngp_BwmsBbEKNXH0Rl_liA6NRzfzEw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "0WONXkGGbMM", 
-      "title": "Знакомимся с PencilKit"
-    }, {
-      "id": "Zl3x0QJisyc", 
-      "title": "Использование UITextChecker совместно со SwiftUI"
-    }
+    { "id": "mlY3kpHI04M", "title": "Swift Keychain" }, 
+    { "id": "wjHBzRvfE4o", "title": "Фреймворк SwiftData" },     
+    { "id": "0WONXkGGbMM", "title": "Знакомимся с PencilKit" }, 
+    { "id": "Zl3x0QJisyc", "title": "Использование UITextChecker совместно со SwiftUI" } 
   ]
 }

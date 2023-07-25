@@ -2,22 +2,14 @@
   "channel": {
     "id": "Huntabyte",
     "name": "Huntabyte",
-    "profile": "https://yt3.googleusercontent.com/P8StLEerDNTmTaWPySOO2qfW2x-eueJ7PyJg16V3mRQGv0Ynkj6PAJKay-d7kgTmV0CpciHpMHI=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/P8StLEerDNTmTaWPySOO2qfW2x-eueJ7PyJg16V3mRQGv0Ynkj6PAJKay-d7kgTmV0CpciHpMHI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RPw7Ecl0Q9XylhxVY2w4pxDCga2AIB0iS7hMLA3yaD9iixjDKTsdYi5EtkKBLJR7AImhJHfs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "hB6OkaYWS5I",
-      "title": "Flash Messages in SvelteKit"
-    }, {
-      "id": "P_A0qQ7AuK8",
-      "title": "Best UI Library for Svelte"
-    }, {
-      "id": "ioELbSf8z2k",
-      "title": "Live Code & Chill - Adding Directus as CMS (SvelteKit, Supabase, Stripe)"
-    }, {
-      "id": "13v50nLh67Q",
-      "title": "10X Your SvelteKit Developer Experience in VSCode"
-    }
+    { "id": "bfbam0Zf4p0", "title": "The Anti Component Library" }, 
+    { "id": "hB6OkaYWS5I", "title": "Flash Messages in SvelteKit" }, 
+    { "id": "P_A0qQ7AuK8", "title": "Best UI Library for Svelte" }, 
+    { "id": "ioELbSf8z2k", "title": "Live Code & Chill - Adding Directus as CMS (SvelteKit, Supabase, Stripe)" }, 
+    { "id": "13v50nLh67Q", "title": "10X Your SvelteKit Developer Experience in VSCode" }
   ]
 }
-

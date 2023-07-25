@@ -499,6 +499,11 @@
     "desc": "Fly through your shell history. Great Scott!",
     "topics": ["search", "shell", "rust", "history"],
     "officialSite": ""
+  }, {
+    "repo": "o8vm/octox",
+    "desc": "xv6-riscv like OS written in Rust",
+    "topics": ["rust", "osdev", "riscv", "xv6-riscv"],
+    "officialSite": ""
   }
 ]
 

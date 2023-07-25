@@ -484,6 +484,11 @@
     "desc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
     "topics": ["android", "webgl", "real-time", "opengl", "metal", "graphics", "vulkan", "wasm", "opengl-es", "pbr", "gltf", "3d-graphics", "gltf-viewer"],
     "officialSite": "https://google.github.io/filament"
+  }, {
+    "repo": "microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "topics": ["machine-learning", "deep-learning", "tensorflow", "scikit-learn", "pytorch", "neural-networks", "hardware-acceleration", "ai-framework", "onnx"],
+    "officialSite": "https://onnxruntime.ai"
   }
 ]
 

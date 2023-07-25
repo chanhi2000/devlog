@@ -2,17 +2,13 @@
   "channel": {
     "id": "DJOamen",
     "name": "DJOamen",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPXb3Mee0frVqGg1I__G69PcOKM6WCjJEawQFp0ug=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPXb3Mee0frVqGg1I__G69PcOKM6WCjJEawQFp0ug=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6r37uvmD2t76rc90wM9ipbAwlLSPjjNMq-J4xunHUv0gbTm9nZBJM0vUBWFwTIQsbyJnGajm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "4he2SgxFZKM",
-      "title": "How to Create a Console  Application Calculator with Closure Function and Lambda Expression in C#"
-    }, {
-      "id": "3oHZVmqslgE",
-      "title": "How to Create a C++ Stock Management System using Microsoft Access in C++ Builder - Full Tutorial"
-    }    
+    { "id": "zmayNXz3NdI", "title": "How to Create a Simple Calculator using Switch Case in C#" },     
+    { "id": "4he2SgxFZKM", "title": "How to Create a Console  Application Calculator with Closure Function and Lambda Expression in C#" }, 
+    { "id": "3oHZVmqslgE", "title": "How to Create a C++ Stock Management System using Microsoft Access in C++ Builder - Full Tutorial" }  
   ]
 }
-
 

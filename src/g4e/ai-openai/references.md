@@ -12,7 +12,6 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 [[toc]]
 
-
 ---
 
 ## GPT

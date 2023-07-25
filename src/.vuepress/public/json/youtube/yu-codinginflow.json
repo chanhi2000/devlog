@@ -2,82 +2,38 @@
   "channel": {
     "id": "codinginflow",
     "name": "Coding in Flow",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOaSF65ACdWDD7Voabktl3wOlPDv2cRpDfqk5c0Vw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOaSF65ACdWDD7Voabktl3wOlPDv2cRpDfqk5c0Vw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "lBfOBr479DY",
-      "title": "This Is How NextJS Prefetches Links"
-    }, {
-      "id": "6fKM7wCrsyw",
-      "title": "How to Use Env Variables Client-Side in NextJS (NEXT_PUBLIC)"
-    }, {
-      "id": "MaBgAVnmTaA",
-      "title": "How to to Sleep/Delay in Javascript Async/Await (Promise)"
-    }, {
-      "id": "aqVTtYK8tDs",
-      "title": "The Quickest React Context Tutorial 🏎️ (TypeScript)"
-    }, {
-      "id": "7GaFrZuY3XY",
-      "title": "Toggleable Password Field in React-Bootstrap (Show/Hide, Eye Icon)"
-    }, {
-      "id": "G8KbNA8G6hI",
-      "title": "Pretend You Have a Mechanical Keyboard With This Free Simulator!"
-    }, {
-      "id": "fzkuUWo_-l0",
-      "title": "How to Refresh Uploaded Images on Your Frontend if They Have the Same URL"
-    }, {
-      "id": "Img14I7YVL8",
-      "title": "How to Install Redis on Windows (WSL)"
-    }, {
-      "id": "L8LEUkhWmqY",
-      "title": "How to Set up a Subdomain (DNS, Server, Namecheap)"
-    }, {
-      "id": "D_0-B44RGok",
-      "title": "How to Do Programmatic SEO in NextJS"
-    }, {
-      "id": "MoQxnoHzcEY",
-      "title": "How to Git Clone a Private GitHub Repository"
-    }, {
-      "id": "FcxjCPeicvU",
-      "title": "Complete MERN Beginner Course [2023] (TypeScript, Authentication, Deployment...)"
-    }, {
-      "id": "qmQK-ifx9PM",
-      "title": "Hide/Show Software Keyboard Programmatically with KeyboardVisibilityEvent Library - Android Tutorial"
-    }, {
-      "id": "lS26PLG1_Ws",
-      "title": "How to Create a Rate Me Dialog with the Android-Rate Library - Android Studio Tutorial"
-    }, {
-      "id": "esWDhcxH7tA",
-      "title": "Detect WiFi State Changes with BroadcastReceiver - Android Studio Tutorial"
-    }, {
-      "id": "eVsiefsFuoQ",
-      "title": "Room Dependency Injection - MVVM To-Do List App with Flow and Architecture Components #4"
-    }, {
-      "id": "Udk6iaR-RXA",
-      "title": "Project Setup - MVVM To-Do List App with Flow and Architecture Components #1"
-    }, {
-      "id": "yrpimdBRk5Q",
-      "title": "AlarmManager - Android Studio Tutorial"
-    }, {
-      "id": "4_CkU9L2mCo",
-      "title": "Start App on Boot - Android Studio Tutorial"
-    }, {
-      "id": "BO4zdmkTi48",
-      "title": "How to Populate a Simple Spinner with Custom Objects - Android Studio Tutorial"
-    }, {
-      "id": "ARpn-1FPNE4",
-      "title": "Room + ViewModel + LiveData + RecyclerView (MVVM) Part 1 - WHAT ARE ANDROID ARCHITECTURE COMPONENTS?"
-    }, {
-      "id": "SjSb7EFMd1M",
-      "title": "How to Implement Email Verification in ExpressJS"
-    }, {
-      "id": "sqCg75B7s84",
-      "title": "React How to Add an Element to a State Array"
-    }, {
-      "id": "n53T47aVhLg",
-      "title": "NextJS On-Demand ISR Revalidation Tutorial"
-    }
+    { "id": "6fKM7wCrsyw", "title": "How to Use Env Variables Client-Side in NextJS (NEXT_PUBLIC)" }, 
+    { "id": "lBfOBr479DY", "title": "This Is How NextJS Prefetches Links" }, 
+    { "id": "AaiijESQH5o", "title": "Build a Next.JS 13 E-Commerce Website (App Router, TypeScript, Deployment)" }, 
+    { "id": "lBfOBr479DY", "title": "This Is How NextJS Prefetches Links" }, 
+    { "id": "6fKM7wCrsyw", "title": "How to Use Env Variables Client-Side in NextJS (NEXT_PUBLIC)" }, 
+    { "id": "MaBgAVnmTaA", "title": "How to to Sleep/Delay in Javascript Async/Await (Promise)" }, 
+    { "id": "aqVTtYK8tDs", "title": "The Quickest React Context Tutorial 🏎️ (TypeScript)" }, 
+    { "id": "7GaFrZuY3XY", "title": "Toggleable Password Field in React-Bootstrap (Show/Hide, Eye Icon)" }, 
+    { "id": "G8KbNA8G6hI", "title": "Pretend You Have a Mechanical Keyboard With This Free Simulator!" }, 
+    { "id": "fzkuUWo_-l0", "title": "How to Refresh Uploaded Images on Your Frontend if They Have the Same URL" }, 
+    { "id": "Img14I7YVL8", "title": "How to Install Redis on Windows (WSL)" }, 
+    { "id": "L8LEUkhWmqY", "title": "How to Set up a Subdomain (DNS, Server, Namecheap)" }, 
+    { "id": "D_0-B44RGok", "title": "How to Do Programmatic SEO in NextJS" }, 
+    { "id": "MoQxnoHzcEY", "title": "How to Git Clone a Private GitHub Repository" }, 
+    { "id": "FcxjCPeicvU", "title": "Complete MERN Beginner Course [2023] (TypeScript, Authentication, Deployment...)" }, 
+    { "id": "qmQK-ifx9PM", "title": "Hide/Show Software Keyboard Programmatically with KeyboardVisibilityEvent Library - Android Tutorial" }, 
+    { "id": "lS26PLG1_Ws", "title": "How to Create a Rate Me Dialog with the Android-Rate Library - Android Studio Tutorial" }, 
+    { "id": "esWDhcxH7tA", "title": "Detect WiFi State Changes with BroadcastReceiver - Android Studio Tutorial" }, 
+    { "id": "eVsiefsFuoQ", "title": "Room Dependency Injection - MVVM To-Do List App with Flow and Architecture Components #4" }, 
+    { "id": "Udk6iaR-RXA", "title": "Project Setup - MVVM To-Do List App with Flow and Architecture Components #1" }, 
+    { "id": "yrpimdBRk5Q", "title": "AlarmManager - Android Studio Tutorial" }, 
+    { "id": "4_CkU9L2mCo", "title": "Start App on Boot - Android Studio Tutorial" }, 
+    { "id": "BO4zdmkTi48", "title": "How to Populate a Simple Spinner with Custom Objects - Android Studio Tutorial" }, 
+    { "id": "ARpn-1FPNE4", "title": "Room + ViewModel + LiveData + RecyclerView (MVVM) Part 1 - WHAT ARE ANDROID ARCHITECTURE COMPONENTS?" }, 
+    { "id": "SjSb7EFMd1M", "title": "How to Implement Email Verification in ExpressJS" }, 
+    { "id": "sqCg75B7s84", "title": "React How to Add an Element to a State Array" }, 
+    { "id": "n53T47aVhLg", "title": "NextJS On-Demand ISR Revalidation Tutorial" }
+ 
   ]
 }
 

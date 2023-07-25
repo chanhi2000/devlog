@@ -2,27 +2,19 @@
   "channel": {
     "id": "infoq",
     "name": "InfoQ",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOh_4X4_K1wpzJgi_nkSP14827Nu9hywEgFdBNjLw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOh_4X4_K1wpzJgi_nkSP14827Nu9hywEgFdBNjLw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uAtHLRLqaOAT9CclOY9T7Co1WEnGoaLWPSiDlHp2Qsr7An2xeQSfxZWcWyxkcC-P0GTV-hqdfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "5llsJLJmZsg",
-      "title": "Istio as a Platform for Running Microservices" 
-    }, {
-      "id": "QrEOvHdH2Cg",
-      "title": "How Netflix Scales Its API with GraphQL Federation"
-    }, {
-      "id": "hnu_EgFLO7g",
-      "title": "C#'s Functional Journey"
-    }, {
-      "id": "8age_72M_NE",
-      "title": "The Evolution of Distributed Systems on Kubernetes"
-    }, {
-      "id": "dG8FeZ5ey5c",
-      "title": "How to Be a High Performing Distributed Agile Team"
-    }, {
-      "id": "ZyK5QrKCbwM",
-      "title": "Building Microservices with Spring Cloud"
-    }
+    { "id": "MjEKuHwrwl8", "title": "Dark Energy, Dark Matter and the Microservices Patterns?!" }, 
+    { "id": "izF9RBmScB8", "title": "DevSusOps - Bringing Sustainability Concerns to Development and Operations" }, 
+    { "id": "XmsyvStDuqI", "title": "Tidy First? Kent Beck on Refactoring" }, 
+    { "id": "u6AjSr58h6g", "title": "From Zero to a Hundred Billion: Building Scalable Real-Time Event Processing at DoorDash" }, 
+    { "id": "5llsJLJmZsg", "title": "Istio as a Platform for Running Microservices" }, 
+    { "id": "QrEOvHdH2Cg", "title": "How Netflix Scales Its API with GraphQL Federation" }, 
+    { "id": "hnu_EgFLO7g", "title": "C#'s Functional Journey" }, 
+    { "id": "8age_72M_NE", "title": "The Evolution of Distributed Systems on Kubernetes" }, 
+    { "id": "dG8FeZ5ey5c", "title": "How to Be a High Performing Distributed Agile Team" }, 
+    { "id": "ZyK5QrKCbwM", "title": "Building Microservices with Spring Cloud" }
   ]
 }

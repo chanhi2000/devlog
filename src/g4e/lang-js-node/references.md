@@ -403,6 +403,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## kciter
+
+- [함수형 자료구조](https://kciter.so/posts/functional-data-structure)
+
+---
+
 ## Clien
 
 - [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(1) 세팅편](https://www.clien.net/service/board/lecture/17960697)

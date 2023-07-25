@@ -109,6 +109,49 @@ task("openBrowser") {
 :::
 
 ---
+
+## `exploreOutput` task
+
+| title | description |
+| ---: | :---------- |
+| 목적 | 빌드 후 빌드된 결과물을 보기 위한 task |
+| 적업대상 `gradle` 파일 | `./<모듈>/build.gradle` |
+
+::: tabs
+
+@tab:active Groovy
+
+```gradle
+task exploreOutput {
+    description = "find artifact(s) in the project directory"
+    doLast {
+       java.awt.Desktop.desktop.open(layout.buildDirectory.dir("libs").get().asFile)
+    }   
+}
+// "<모듈명>/build/libs" 밑에 결과물이 존재할 경우 ...
+tasks.war.finalizedBy exploreOutput
+```
+
+@tab Kotlin
+
+```kts
+import java.awt.Desktop
+
+// ... 생략 ...
+
+task("exploreOutput") {
+    description = "find artifact(s) in the project directory"
+    doLast {
+        Desktop.getDesktop().open(url.toURI())
+    }
+}
+// "<모듈명>/build/libs" 밑에 결과물이 존재할 경우 ...
+tasks.war { finalizedBy(tasks.named("exploreOutput")) }
+```
+
+:::
+
+---
 ## `war` Plugin
 
 | title | description |

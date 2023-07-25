@@ -13,6 +13,18 @@ tags: ["bash", "sh"]
 
 ---
 
+## 두두네 클라우드
+
+- [oVirt 오버트](https://daaa0555.tistory.com/431)
+
+---
+
+## YJWANG
+
+- [[Ovirt] KVM 가상화 Management software - Ovirt 4.4.x](https://yjwang.tistory.com/161)
+
+---
+
 ## Sites
 
 - https://www.ovirt.org/documentation

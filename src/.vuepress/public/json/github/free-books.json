@@ -24,5 +24,10 @@
     "desc": "A playbook for systematically maximizing the performance of deep learning models",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "mark-watson/free-older-books-and-software",
+    "desc": "I used to have PDFs for my books on my web site - I moved them to this public repo.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

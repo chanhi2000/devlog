@@ -83,6 +83,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-kotlin/README.md',
         '/g4e/lang-kotlin/basics.md',
+        '/g4e/lang-kotlin/spring.md',
         '/g4e/lang-kotlin/ktx.md',
         '/g4e/lang-kotlin/tips.md',
         '/g4e/lang-kotlin/snippets.md',
@@ -279,9 +280,18 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/devops-git/README.md',
         '/g4e/devops-git/basics.md',
-        '/g4e/devops-git/troubleshooting.md',
         '/g4e/devops-git/references.md',
         '/g4e/devops-git/youtube.md',
+      ]
+    }, {
+      text: '🕶️Github',
+      collapsible: true,
+      children: [
+        '/g4e/devops-github/README.md',
+        '/g4e/devops-github/github-action.md',
+        '/g4e/devops-github/troubleshooting.md',
+        '/g4e/devops-github/references.md',
+        '/g4e/devops-github/youtube.md',
       ]
     }, {
       text: '🦊Gitlab',
@@ -487,6 +497,13 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/ai-openai/README.md',
         '/g4e/ai-openai/references.md',
         '/g4e/ai-openai/youtube.md',
+      ]
+    }, {
+      text: '🦙Llama',
+      collapsible: true,
+      children: [
+        '/g4e/ai-llama/README.md',
+        '/g4e/ai-llama/references.md',
       ]
     }, {
       text: '🦖JEUS',

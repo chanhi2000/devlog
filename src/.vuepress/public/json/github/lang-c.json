@@ -334,5 +334,15 @@
     "desc": "PLJS - Javascript Language Plugin for PostreSQL",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "felix-pb/kfd",
+    "desc": "kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "othermod/PSPi-Version-6",
+    "desc": "",
+    "topics": [],
+    "officialSite": "https://othermod.com/pspi6"
   }
 ]

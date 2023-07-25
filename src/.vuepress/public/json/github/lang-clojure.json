@@ -14,5 +14,10 @@
     "desc": "Free monospaced font with programming ligatures",
     "topics": ["font", "ligatures", "programming-ligatures"],
     "officialSite": ""
+  }, {
+    "repo": "phronmophobic/treemap-clj",
+    "desc": "An alternative to pprint for generically visualizing heterogeneous, hierarchical data",
+    "topics": ["clojure", "data-visualization", "treemap", "membrane"],
+    "officialSite": ""
   }
 ]

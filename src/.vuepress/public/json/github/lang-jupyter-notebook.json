@@ -319,5 +319,10 @@
     "desc": "A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "camenduru/text-generation-webui-colab",
+    "desc": "A colab gradio web UI for running Large Language Models",
+    "topics": ["colab", "llama", "gradio", "koala", "llamas", "alpaca", "lama", "colaboratory", "colab-notebook", "vicuna", "llm"],
+    "officialSite": ""
   }
 ]

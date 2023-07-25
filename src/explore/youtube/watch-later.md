@@ -1037,7 +1037,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-dicas-do-mateus]: https://www.youtube.com/@DicasdoMateus
 [yu-tongguni]: https://www.youtube.com/@tongguni
 [yu-UXUIDesign]: https://www.youtube.com/@UXUIDesign
-[yu-very-academy]: https://www.youtube.com/@veryacademy
 [yu-my-cs-1]: https://www.youtube.com/@MyCS1
 [yu-user-gn6zi9xy8q]: https://www.youtube.com/@user-gn6zi9xy8q
 [yu-writeyourownoperatingsystem]: https://www.youtube.com/@writeyourownoperatingsystem

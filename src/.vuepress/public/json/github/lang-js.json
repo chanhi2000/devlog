@@ -370,11 +370,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "novuhq/novu",
-    "desc": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
-    "topics": [],
-    "officialSite": "https://novu.co"
-  }, {
     "repo": "timqian/chinese-independent-blogs",
     "desc": "中文独立博客列表",
     "topics": [],

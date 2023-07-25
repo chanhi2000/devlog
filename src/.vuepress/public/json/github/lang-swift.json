@@ -269,5 +269,10 @@
     "desc": "The val compiler",
     "topics": ["programming-language"],
     "officialSite": "https://www.val-lang.dev"
+  }, {
+    "repo": "anyproto/anytype-swift",
+    "desc": "Official Anytype client for iOS",
+    "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"],
+    "officialSite": "https://anytype.io"
   }
 ]

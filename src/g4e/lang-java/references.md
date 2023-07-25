@@ -74,6 +74,18 @@ tags: ["java", "baeldung"]
 
 ---
 
+## 동팡
+
+- [Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)](https://ehdvudee.tistory.com/48)
+
+---
+
+## 야우미야티
+
+- [Spring boot로 migration하기 전 고려해볼 것들?(+스프링부트 개념정리)](https://suzyalrahala.tistory.com/37)
+
+---
+
 ## EastGlow
 
 - [[Spring]HTMLTagFilter](https://eastglow.github.io/back-end/2019/02/06/Spring-HTMLTagFilter.html)

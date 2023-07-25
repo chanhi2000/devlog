@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 🩺Troubleshooting
-description: 🛠️Git > 🩺Troubleshooting
+description: 🕶️Github > 🩺Troubleshooting
 tags: ["troubleshooting", "git", "git-cli", "http", "credentials", "git-credentials", "bash"]
 ---
 

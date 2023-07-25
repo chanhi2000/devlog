@@ -2,50 +2,24 @@
   "channel": {
     "id": "RamNJava",
     "name": "Ram N Java",
-    "profile": "https://yt3.googleusercontent.com/cbPIiLb8K3hv6jdoc9yTOeCLxGHmJfA2ndc9kzn8EHrhC-Nva01V6RuHC0kYJEEiGM93_1w-Sw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/cbPIiLb8K3hv6jdoc9yTOeCLxGHmJfA2ndc9kzn8EHrhC-Nva01V6RuHC0kYJEEiGM93_1w-Sw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
   },
   "videos": [
-    {
-      "id": "2iMmXfcrD2w",
-      "title": "Springboot - Exceptions handling - RESTful Web Services with Spring framework | Spring Boot"
-    }, {
-      "id": "iToaRZfO0tA",
-      "title": "GET vs POST & What is a Cache? | RESTful Web Services | Web Services Tutorial"
-    }, {
-      "id": "O0Eccxtpdfw",
-      "title": "Factory Design Pattern - Introduction, Example and Key points | Factory Design Pattern in Java"
-    }, {
-      "id": "8w6uCpdlP_M",
-      "title": "Spring boot - Admin Server and Admin Client example"
-    }, {
-      "id": "OkVzppl5Cos",
-      "title": "Springboot + Thymeleaf - Send user information from UI to controller | Spring Boot Tutorial"
-    }, {
-      "id": "MZF7IWRfKsA",
-      "title": "How to Configure Multiple Data Sources(Databases) in a Spring Boot Application?"
-    }, {
-      "id": "hPUxEgLQbLQ",
-      "title": "Spring Boot - How to schedule a task at a fixed delay? | Spring Boot - Schedule task"
-    }, {
-      "id": "re3Gszgusgg",
-      "title": "How to use Profiles in Spring Boot application? - Properties file | Spring Boot tutorial"
-    }, {
-      "id": "qmGesuJ9COA",
-      "title": "Spring Cache Tutorial with EhCache | Spring Cache | Spring Tutorial"
-    }, {
-      "id": "pzPLeq6nSs0",
-      "title": "Spring Cache Tutorial with EhCache [How to update the cache?] | Spring Cache | Spring Tutorial"
-    }, {
-      "id": "DDmT_tlo15Y",
-      "title": "Spring 4 + Hibernate 4 + MySQL 8 + Maven Integration example using XML Configuration"
-    }, {
-      "id": "b3E_nXF6-qM",
-      "title": "Spring - Inserting data using SimpleJdbcInsert and MapSqlParameterSource | Spring JDBC tutorial"
-    }, {
-      "id": "hycA8lxjIHI",
-      "title": "ByteArrayOutputStream in Java | Java ByteArrayOutputStream Examples | Java IO | Java Tutorial"
-    }
+    { "id": "hLAb8j3cR0w", "title": "Single Sign-On (SSO) | Why do we need SSO? | How SSO Works" }, 
+    { "id": "2iMmXfcrD2w", "title": "Springboot - Exceptions handling - RESTful Web Services with Spring framework | Spring Boot" }, 
+    { "id": "iToaRZfO0tA", "title": "GET vs POST & What is a Cache? | RESTful Web Services | Web Services Tutorial" }, 
+    { "id": "O0Eccxtpdfw", "title": "Factory Design Pattern - Introduction, Example and Key points | Factory Design Pattern in Java" }, 
+    { "id": "8w6uCpdlP_M", "title": "Spring boot - Admin Server and Admin Client example" }, 
+    { "id": "OkVzppl5Cos", "title": "Springboot + Thymeleaf - Send user information from UI to controller | Spring Boot Tutorial" }, 
+    { "id": "MZF7IWRfKsA", "title": "How to Configure Multiple Data Sources(Databases) in a Spring Boot Application?" }, 
+    { "id": "hPUxEgLQbLQ", "title": "Spring Boot - How to schedule a task at a fixed delay? | Spring Boot - Schedule task" }, 
+    { "id": "re3Gszgusgg", "title": "How to use Profiles in Spring Boot application? - Properties file | Spring Boot tutorial" }, 
+    { "id": "qmGesuJ9COA", "title": "Spring Cache Tutorial with EhCache | Spring Cache | Spring Tutorial" }, 
+    { "id": "pzPLeq6nSs0", "title": "Spring Cache Tutorial with EhCache [How to update the cache?] | Spring Cache | Spring Tutorial" }, 
+    { "id": "DDmT_tlo15Y", "title": "Spring 4 + Hibernate 4 + MySQL 8 + Maven Integration example using XML Configuration" }, 
+    { "id": "b3E_nXF6-qM", "title": "Spring - Inserting data using SimpleJdbcInsert and MapSqlParameterSource | Spring JDBC tutorial" }, 
+    { "id": "hycA8lxjIHI", "title": "ByteArrayOutputStream in Java | Java ByteArrayOutputStream Examples | Java IO | Java Tutorial" } 
   ]
 }
-
 

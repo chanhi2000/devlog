@@ -90,5 +90,10 @@
     "desc": "获取QQSign通过Unidbg",
     "topics": ["qqbot", "oicq", "unidbg", "qqprotocol"],
     "officialSite": ""
+  }, {
+    "repo": "anyproto/anytype-kotlin",
+    "desc": "Official Anytype client for Android",
+    "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"],
+    "officialSite": "https://anytype.io"
   }
 ]
