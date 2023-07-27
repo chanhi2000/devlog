@@ -23,11 +23,9 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Scala
 
+<MyGithubItems jsonName="lang-scala" />
+
 - [OpenXiangShan/XiangShan][OpenXiangShan/XiangShan]: Open-source high-performance RISC-V processor
-- [twitter/the-algorithm][twitter/the-algorithm]: Source code for Twitter's Recommendation Algorithm
-  - [🌐Official Site](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
-- [twitter/finagle][twitter/finagle]: A fault tolerant, protocol-agnostic RPC system
-  - [🌐Official Site](https://twitter.github.io/finagle)
 
 ---
 

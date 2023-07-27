@@ -306,8 +306,8 @@
     "officialSite": "https://cal.com"
   }, {
     "repo": "FlowiseAI/Flowise",
-    "desc": "Drag & drop UI to build your customized LLM flow using LangchainJS",
-    "topics": [],
+    "desc": "Drag & drop UI to build your customized LLM flow",
+    "topics": ["artificial-intelligence", "low-code", "no-code", "large-language-models", "llm", "chatgpt"],
     "officialSite": "https://flowiseai.com"
   }, {
     "repo": "pixiv/ChatVRM",
@@ -1085,7 +1085,7 @@
     "topics": ["react", "design-systems", "typescript", "ui-kit", "antd", "ant-design", "ui-library"],
     "officialSite": "https://ant.design"
   }, {
-    "repo": "Microsoft/TypeChat",
+    "repo": "microsoft/TypeChat",
     "desc": "TypeChat is a library that makes it easy to build natural language interfaces using types.",
     "topics": [],
     "officialSite": "https://microsoft.github.io/TypeChat"
@@ -1124,5 +1124,15 @@
     "desc": "The open-source notification infrastructure with fully functional embedded notification center",
     "topics": [],
     "officialSite": "https://novu.co"
+  }, {
+    "repo": "kamranahmedse/driver.js",
+    "desc": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page",
+    "topics": ["spotlight", "popover", "overlay", "tour", "walkthrough", "product-tour", "overlays", "user-onboarding", "feature-introductions", "product-tours"],
+    "officialSite": "https://driverjs.com"
+  }, {
+    "repo": "dogu-team/dogu",
+    "desc": "Test automation platform for web, mobile, game applications with many test frameworks",
+    "topics": ["android", "testing", "infrastructure", "ios", "unity", "ci", "selenium", "test-automation", "e2e", "appium", "device-farm", "testops", "testing-platform", "gamium"],
+    "officialSite": "https://dogutech.io"
   }
 ]

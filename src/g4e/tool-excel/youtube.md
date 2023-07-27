@@ -128,5 +128,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Rabi Gurung
+
+<MyYouTubeItems jsonName="yu-RabiGurungXybernetics" />
+
+<!-- Rabi Gurung -->
+
+---
+
 <TagLinks />
 

@@ -69,4 +69,12 @@ tags: ["youtube", "aws", "amazon", "amazon-web-service"]
 
 ---
 
+## AWS 강의실
+
+<MyYouTubeItems jsonName="yu-AWSClassroom" />
+
+<!-- AWS 강의실 -->
+
+---
+
 <TagLinks />

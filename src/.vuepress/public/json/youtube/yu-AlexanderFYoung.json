@@ -6,15 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/_epIWjsdueFWFKpoGBe2ehWpeTPdBMy578cHCc461Ip6GlUacsFrx4HmI6cBW6DWPis9us6PmCU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "DfEDCwWPl30",
-      "title": "The Top 10 Best AI Studying Tools 2023"
-    }, {
-      "id": "DtBJS7CHV3c",
-      "title": "Become A Top 1% Speed Learner With ChatGPT"
-    }, {
-      "id": "jeVhPGfv4Q8",
-      "title": "11 Insanely Useful AI Tools You Probably Didn't Know Existed!"
-    }
+    { "id": "nidEuCIMVeI", "title": "12 MUST SEE Ai Tools That Will Blow Your Mind!" }, 
+    { "id": "hFMiG3fcHs0", "title": "15 ChatGPT Tips for Beginners in 2023" }, 
+    { "id": "DfEDCwWPl30", "title": "The Top 10 Best AI Studying Tools 2023" }, 
+    { "id": "DtBJS7CHV3c", "title": "Become A Top 1% Speed Learner With ChatGPT" }, 
+    { "id": "jeVhPGfv4Q8", "title": "11 Insanely Useful AI Tools You Probably Didn't Know Existed!" }
+ 
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "RabiGurungXybernetics",
+    "name": "Rabi Gurung",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSAMx0rVtz8Ys5Tsd_iDvC0dSVwGPi-Q5Va7GST=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vtbc0I_GhakqSMFM1kMziXfSISbZiJef6KqQocAhVC62lfPKYbl69mTTecSWual_9czjVGcT=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EhW6R1vpAyE", "title": "7 uses of Ctrl E - Excel Tips and Tricks" }, 
+    { "id": "vGegExuZ-LA", "title": "How do you create dynamic cell borders in Excel? - Excel Tips and Tricks" }, 
+    { "id": "eXBCe7PUYnk", "title": "How do I arrange a chart in descending order in Excel? - Excel Tips and Tricks" }, 
+    { "id": "roOnmcbgbTI", "title": "How to crosshair highlight enabled and disable in Excel - Excel Tips and Tricks" }, 
+    { "id": "k0EG8QlPVLg", "title": "Vertical In-Cell Bar Chart - Excel Tips and Tricks" }, 
+    { "id": "JOtghNcd7xg", "title": "How do I remove an indent from multiple cells in Excel?  - Excel Tips and Tricks" }, 
+    { "id": "55-of8SvTec", "title": "Top 10 Microsoft Excel Tips &amp; Tricks #1" }, 
+    { "id": "fuAreAmFqq4", "title": "How to split text with multiple delimiters with Excel - Excel Tips and Tricks" }, 
+    { "id": "-APw5Y9ow6s", "title": "[SOLVED] How To Fix The &quot;No Space Left on Device&quot; Error On Linux In A VM" }    
+  ]
+}

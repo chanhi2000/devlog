@@ -2,91 +2,38 @@
   "channel": {
     "id": "Thetips4you",
     "name": "Thetips4you",
-    "profile": "https://yt3.googleusercontent.com/wAHo-uhZT7ALynBjlLauVJSvbG3DAZoL-aFjMa3T9gcIzaFTV9OYlyFk3Zqq-uIN6UoV17fy=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/wAHo-uhZT7ALynBjlLauVJSvbG3DAZoL-aFjMa3T9gcIzaFTV9OYlyFk3Zqq-uIN6UoV17fy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VF1iqOOLEFJm8etnaBqR5byPkbsECa1TyScfrzgyJ3KUCyXT0QXjMhGbxl6w3b1slKvdJS80EEc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "9TiqyEYA0iU", 
-      "title": "Kubernetes Architecture in 15sec #devops #kubernetes #shorts"
-    }, {
-      "id": "hxmjF7qE07k", 
-      "title": "devops tools 2023 #shorts"
-    }, {
-      "id": "aAWALhp6wSE",
-      "title": "CI CD Pipeline Jenkins | Continuous Integration &amp; Deployment Using Docker"
-    }, {
-      "id": "ctDJryQU7l4",
-      "title": "Jenkins Pipeline Maven Project |Jenkins Upstream And Downstream Jobs"
-    }, {
-      "id": "KtJCcqxKXbs",
-      "title": "Jenkins Pipeline As Code | Learn How To Create Jenkins Pipeline Job"
-    }, {
-      "id": "uC7vajbnZS4",
-      "title": "MSBuild With Jenkins | Jenkins For C# / .NET Applications | Thetips4you"
-    }, {
-      "id": "Q0Jqy3Jp65c",
-      "title": "Deploy a web application to Azure Kubernetes Service (AKS) cluster"
-    }, {
-      "id": "xY0Y1tWm8D4",
-      "title": "Oracle database on Docker | Docker Tutorial for Beginners"
-    }, {
-      "id": "Typ9U6k6g5s",
-      "title": "GITLAB CI CD FULL COURSE IN 3 HOURS  | Gitlab CI CD From Zero To Hero"
-    }, {
-      "id": "MTm3cb7qiEo",
-      "title": "Jenkins Tutorial for Beginners [FULL COURSE in 3 Hours]"
-    }, {
-      "id": "hfKASyWzOIs",
-      "title": "Setup Prometheus On Kubernetes Using Helm | Kubernetes Monitoring With Prometheus"
-    }, {
-      "id": "esaCpHBsaL8",
-      "title": "App Deployment In Kubernetes Using Helm | Helm Tutorial For Beginners | WordPress app"
-    }, {
-      "id": "Zq20HguI_SA",
-      "title": "Multi Node Kubernetes Cluster as Docker Containers | K3D | Kubernetes Tutorial for Beginners"
-    }, {
-      "id": "8uyCtNXEsrY",
-      "title": "How to set up a Private Docker Registry using JFrog Artifactory | Docker Tutorial For Beginners"
-    }, {
-      "id": "M2NroN1DYqM",
-      "title": "Kubernetes Tutorial for Beginners | Horizontal Pod Autoscaler [HPA]"
-    }, {
-      "id": "XPaMFaiLKhE",
-      "title": "Elasticsearch on Docker | Elasticsearch Tutorial for Beginners Part4"
-    }, {
-      "id": "VOlgRYfMe8U",
-      "title": "Kubernetes DaemonSet Explained | Kubernetes Tutorial for Beginners 2021"
-    }, {
-      "id": "jZep1jU396g",
-      "title": "Ansible Tutorial | How To Create Ansible Roles From Playbook | Ansible Playbook vs Role vs Task"
-    }, {
-      "id": "NIB6nS5JEDw",
-      "title": "Dockerfile ENTRYPOINT vs CMD vs RUN | Docker CMD and ENTRYPOINT difference"
-    }, {
-      "id": "bJxQu_Lft8s",
-      "title": "Rocketchat on Docker | How to setup Rocketchat docker using Docker Compose | Thetips4you"
-    }, {
-      "id": "xvf_xlEnLI8",
-      "title": "Artifactory Docker Tutorial | JFrog Artifactory Tutorial For Beginners | Run Artifactory on Docker"
-    }, {
-      "id": "ctDJryQU7l4",
-      "title": "Jenkins Pipeline Maven Project |Jenkins Upstream And Downstream Jobs"
-    }, {
-      "id": "R1pCePoRNuI",
-      "title": "Splunk Linux Monitoring | Use Splunk App For Unix And Linux for Monitoring CPU, Memory, Disk Space"
-    }, {
-      "id": "pzG_ZQNbZug",
-      "title": "Jenkins Master Slave Tutorial | Jenkins Master Slave Setup Linux using SSH"
-    }, {
-      "id": "0wpdJo3oASI",
-      "title": "Maven Compile, Test, Package | Pom.XML | Maven Installation & Build Tutorial"
-    }, {
-      "id": "r_4__wmyrcw",
-      "title": "Docker Swarm Basics | Docker Swarm Service Create | Update Replicas, Logs, Rollback"
-    }, {
-      "id": "eifmUYk9eXE",
-      "title": "KodeKloud Premium DevOps Courses & DevOps Labs are 100% FREE"
-    }
+    { "id": "nZeDNMTgQUA", "title": "Kafka Installation using docker &amp; docker compose | Docker | Kafka | Docker Compose" }, 
+    { "id": "tJH3FuFV3nU", "title": "DevOps | CI/CD using HashiCorp Tools | Vagrant, Terraform, Packer, Vault, Nomad, Consul, Boundary.." }, 
+    { "id": "9TiqyEYA0iU",  "title": "Kubernetes Architecture in 15sec #devops #kubernetes #shorts" }, 
+    { "id": "hxmjF7qE07k",  "title": "devops tools 2023 #shorts" }, 
+    { "id": "aAWALhp6wSE", "title": "CI CD Pipeline Jenkins | Continuous Integration &amp; Deployment Using Docker" }, 
+    { "id": "ctDJryQU7l4", "title": "Jenkins Pipeline Maven Project |Jenkins Upstream And Downstream Jobs" }, 
+    { "id": "KtJCcqxKXbs", "title": "Jenkins Pipeline As Code | Learn How To Create Jenkins Pipeline Job" }, 
+    { "id": "uC7vajbnZS4", "title": "MSBuild With Jenkins | Jenkins For C# / .NET Applications | Thetips4you" }, 
+    { "id": "Q0Jqy3Jp65c", "title": "Deploy a web application to Azure Kubernetes Service (AKS) cluster" }, 
+    { "id": "xY0Y1tWm8D4", "title": "Oracle database on Docker | Docker Tutorial for Beginners" }, 
+    { "id": "Typ9U6k6g5s", "title": "GITLAB CI CD FULL COURSE IN 3 HOURS  | Gitlab CI CD From Zero To Hero" }, 
+    { "id": "MTm3cb7qiEo", "title": "Jenkins Tutorial for Beginners [FULL COURSE in 3 Hours]" }, 
+    { "id": "hfKASyWzOIs", "title": "Setup Prometheus On Kubernetes Using Helm | Kubernetes Monitoring With Prometheus" }, 
+    { "id": "esaCpHBsaL8", "title": "App Deployment In Kubernetes Using Helm | Helm Tutorial For Beginners | WordPress app" }, 
+    { "id": "Zq20HguI_SA", "title": "Multi Node Kubernetes Cluster as Docker Containers | K3D | Kubernetes Tutorial for Beginners" }, 
+    { "id": "8uyCtNXEsrY", "title": "How to set up a Private Docker Registry using JFrog Artifactory | Docker Tutorial For Beginners" }, 
+    { "id": "M2NroN1DYqM", "title": "Kubernetes Tutorial for Beginners | Horizontal Pod Autoscaler [HPA]" }, 
+    { "id": "XPaMFaiLKhE", "title": "Elasticsearch on Docker | Elasticsearch Tutorial for Beginners Part4" }, 
+    { "id": "VOlgRYfMe8U", "title": "Kubernetes DaemonSet Explained | Kubernetes Tutorial for Beginners 2021" }, 
+    { "id": "jZep1jU396g", "title": "Ansible Tutorial | How To Create Ansible Roles From Playbook | Ansible Playbook vs Role vs Task" }, 
+    { "id": "NIB6nS5JEDw", "title": "Dockerfile ENTRYPOINT vs CMD vs RUN | Docker CMD and ENTRYPOINT difference" }, 
+    { "id": "bJxQu_Lft8s", "title": "Rocketchat on Docker | How to setup Rocketchat docker using Docker Compose | Thetips4you" }, 
+    { "id": "xvf_xlEnLI8", "title": "Artifactory Docker Tutorial | JFrog Artifactory Tutorial For Beginners | Run Artifactory on Docker" }, 
+    { "id": "ctDJryQU7l4", "title": "Jenkins Pipeline Maven Project |Jenkins Upstream And Downstream Jobs" }, 
+    { "id": "R1pCePoRNuI", "title": "Splunk Linux Monitoring | Use Splunk App For Unix And Linux for Monitoring CPU, Memory, Disk Space" }, 
+    { "id": "pzG_ZQNbZug", "title": "Jenkins Master Slave Tutorial | Jenkins Master Slave Setup Linux using SSH" }, 
+    { "id": "0wpdJo3oASI", "title": "Maven Compile, Test, Package | Pom.XML | Maven Installation & Build Tutorial" }, 
+    { "id": "r_4__wmyrcw", "title": "Docker Swarm Basics | Docker Swarm Service Create | Update Replicas, Logs, Rollback" }, 
+    { "id": "eifmUYk9eXE", "title": "KodeKloud Premium DevOps Courses & DevOps Labs are 100% FREE" }
   ]
 }
-

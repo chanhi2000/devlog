@@ -635,4 +635,20 @@ meta:
 
 <!-- JavaSoul -->
 
+---
+
+## Naresh i Technologies
+
+<MyYouTubeItems jsonName="yu-NareshIT" />
+
+<!-- Naresh i Technologies -->
+
+---
+
+## ICT Trainer
+
+<!-- ICT Trainer -->
+
+---
+
 <TagLinks />

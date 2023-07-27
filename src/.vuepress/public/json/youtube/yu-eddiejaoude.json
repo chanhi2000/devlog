@@ -2,24 +2,15 @@
   "channel": {
     "id": "eddiejaoude",
     "name": "Eddie Jaoude",
-    "profile": "https://yt3.googleusercontent.com/AYrAjbqBS43Ocd0FMbrM0f27kwqKCjh46Pi8tPVIGdN8IIy4oInLDVVfNNyU4Wmtjw2mbkq3=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/AYrAjbqBS43Ocd0FMbrM0f27kwqKCjh46Pi8tPVIGdN8IIy4oInLDVVfNNyU4Wmtjw2mbkq3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cJk7WK4_iRZKQ4N5gWD06RoYbDg4V47eeEYrrwqWWpvKhsuux1XUuT-II_wk1K6LInYxmJsF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "PdipPuk6LZI",
-      "title": "Get feedback on your Pull Request NOW!"
-    }, {
-      "id": "c7EqB_S_a7I",
-      "title": "Cost of hosting an Open Source SAAS product? Moving to Vercel"
-    }, {
-      "id": "yOPyK5WMxCs",
-      "title": "Kubernetes as a Web Dev"
-    }, {
-      "id": "7Put3ddOpTw",
-      "title": "5 GitHub Profiles that STAND OUT"
-    }, {
-      "id": "R75j79yNSKg",
-      "title": "Learning about Kubernetes at KubeHuddle in person event UK"
-    }
+    { "id": "kYd_ch2oX38", "title": "Reviewing YOUR Open Source Project and Profile!" }, 
+    { "id": "PdipPuk6LZI", "title": "Get feedback on your Pull Request NOW!" }, 
+    { "id": "c7EqB_S_a7I", "title": "Cost of hosting an Open Source SAAS product? Moving to Vercel" }, 
+    { "id": "yOPyK5WMxCs", "title": "Kubernetes as a Web Dev" }, 
+    { "id": "7Put3ddOpTw", "title": "5 GitHub Profiles that STAND OUT" }, 
+    { "id": "R75j79yNSKg", "title": "Learning about Kubernetes at KubeHuddle in person event UK" }
   ]
 }

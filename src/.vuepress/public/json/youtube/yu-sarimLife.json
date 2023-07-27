@@ -6,13 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/SSdom6sjXFLivucE0o_4yZ4_lLufZTlx4oBTShVdn-uo9uTcsJHqAMHI55DzSuwo9uj44f_l=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "XmvkNIRdqBQ",
-      "title": "Android Testing(Espresso) Part 1"
-    }, {
-      "id": "toEiAPyuTvI",
-      "title": "Android CryptoCurrency App part 4 (Dagger,Kotlin,RxAndroid,MVVM)"
-    }
+    { "id": "azKGflQsstU", "title": "SwiftUI Stock App Development - Part 1: Creating a Powerful Ticker Search" }, 
+    { "id": "K5KUZdqUVQ8", "title": "SwiftUI Stock App Tutorial - Part 4: Displaying Gainers, Losers, and Most Active Stocks" }, 
+    { "id": "XMmgzQG_DLw", "title": "Swift Stock App Tutorial: Part 6 - Forex Exchange 📈" }, 
+    { "id": "gOxb5sqrSQA", "title": "📈 Swift Stock App Tutorial: Part 7 - Mastering Forex Exchange 💹🚀" }, 
+    { "id": "XmvkNIRdqBQ", "title": "Android Testing(Espresso) Part 1" }, 
+    { "id": "toEiAPyuTvI", "title": "Android CryptoCurrency App part 4 (Dagger,Kotlin,RxAndroid,MVVM)" }
   ]
 }
-

@@ -79,5 +79,10 @@
     "desc": "Neovim config for the lazy",
     "topics": ["neovim", "nvim", "neovim-conf", "neovim-plugin", "neovim-configuration", "neovim-config"],
     "officialSite": "https://lazyvim.github.io"
+  }, {
+    "repo": "Project-Sloth/ps-housing",
+    "desc": "Advanced housing system for QBCore.",
+    "topics": [],
+    "officialSite": "https://discord.gg/projectsloth"
   }
 ]

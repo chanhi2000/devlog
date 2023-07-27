@@ -344,5 +344,15 @@
     "desc": "",
     "topics": [],
     "officialSite": "https://othermod.com/pspi6"
+  }, {
+    "repo": "janet-lang/janet",
+    "desc": "A dynamic language and bytecode vm",
+    "topics": ["c", "language", "vm", "lisp", "interpreter", "repl", "macros", "functional-language", "imperative-language"],
+    "officialSite": "https://janet-lang.org/"
+  }, {
+    "repo": "google/security-research",
+    "desc": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "topics": [],
+    "officialSite": "https://www.google.com/about/appsecurity"
   }
 ]

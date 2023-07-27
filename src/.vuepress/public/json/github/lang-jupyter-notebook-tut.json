@@ -34,6 +34,11 @@
     "desc": "10 Weeks, 20 Lessons, Data Science for All!",
     "topics": ["python", "data-science", "pandas", "data-visualization", "data-analysis"],
     "officialSite": "https://microsoft.github.io/Data-Science-For-Beginners"
+  }, {
+    "repo": "Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "topics": ["python", "machine-learning", "tutorial", "deep-learning", "svm", "linear-regression", "scikit-learn", "linear-algebra", "machine-learning-algorithms", "naive-bayes-classifier", "logistic-regression", "implementation", "support-vector-machines", "100-days-of-code-log", "100daysofcode", "infographics", "siraj-raval", "siraj-raval-challenge"],
+    "officialSite": ""
   }
 ]
 

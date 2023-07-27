@@ -2138,5 +2138,15 @@
     "desc": "🎨 MS Paint... in your terminal.",
     "topics": ["bbs", "drawing", "paint", "image", "terminal", "irc", "pixel-art", "textual", "tui", "image-editor", "ascii-art", "ansi-art", "mirc", "mspaint", "pixel-editor", "text-art", "ansi-editor", "artscene"],
     "officialSite": ""
+  }, {
+    "repo": "continuedev/continue",
+    "desc": "⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE",
+    "topics": ["open-source", "vscode", "autopilot", "developer-tools", "software-development", "chatgpt"],
+    "officialSite": "https://continue.dev/docs"
+  }, {
+    "repo": "microsoft/torchscale",
+    "desc": "Foundation Architecture for (M)LLMs",
+    "topics": ["machine-learning", "natural-language-processing", "translation", "computer-vision", "transformer", "speech-processing", "multimodal", "pretrained-language-model"],
+    "officialSite": "https://aka.ms/GeneralAI"
   }
 ]

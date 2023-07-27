@@ -6,25 +6,12 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "ZQXzZ1hxQwo",
-      "title": "This NEW SwiftUI Feature Is AMAZING | Navigation Stacks"
-    }, {
-      "id": "-QT_bEx-4zg",
-      "title": "Free iOS Development Course | Building a CryptoCurrency App with SwiftUI"
-    }, {
-      "id": "6_Ex3h8SmYU",
-      "title": "Full Custom Tab Bar With Pop Up Menu || SwiftUI 3.0 || iOS 15"
-    }, {
-      "id": "Zme718yvRqw",
-      "title": "Create A Search Bar With SwiftUI || Xcode 13 || Swift 5"
-    }, {
-      "id": "Yev3CPNlg7o",
-      "title": "Side Menu in iOS Like a Professional | Swift 4  (Pt. 3)"
-    }, {
-      "id": "ZQXzZ1hxQwo",
-      "title": "This NEW SwiftUI Feature Is AMAZING | Navigation Stacks"
-    }
+    { "id": "_GT0w76dE7E", "title": "NEW SwiftUI Pie Charts | WWDC23 | iOS 17" }, 
+    { "id": "gy6rp_pJmbo", "title": "AMAZING NEW SwiftUI MapKit Features | iOS 17 | WWDC23" }, 
+    { "id": "-QT_bEx-4zg", "title": "Free iOS Development Course | Building a CryptoCurrency App with SwiftUI" }, 
+    { "id": "6_Ex3h8SmYU", "title": "Full Custom Tab Bar With Pop Up Menu || SwiftUI 3.0 || iOS 15" }, 
+    { "id": "Zme718yvRqw", "title": "Create A Search Bar With SwiftUI || Xcode 13 || Swift 5" }, 
+    { "id": "Yev3CPNlg7o", "title": "Side Menu in iOS Like a Professional | Swift 4  (Pt. 3)" }, 
+    { "id": "ZQXzZ1hxQwo", "title": "This NEW SwiftUI Feature Is AMAZING | Navigation Stacks" }
   ]
 }
-

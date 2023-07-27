@@ -113,7 +113,7 @@ Placeholders with the same ids are connected.
 			"  \"channel\": {",
 			"    \"id\": \"${1:channelId}\",",
 			"    \"name\": \"${2:channelName}\",",
-			"    \"profile\": \"${3:imgUrl}\"",
+			"    \"profile\": \"${3:imgUrl}\",",
 			"    \"banner\": \"${4:bannerUrl}\"",
 			"  },",
 			"  \"videos\": [",

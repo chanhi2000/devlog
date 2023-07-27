@@ -2,29 +2,19 @@
   "channel": {
     "id": "dreamsofcode",
     "name": "Dreams of Code",
-    "profile": "https://yt3.googleusercontent.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Yn70X579PO08-VKiqvXU_ATSSDKfLFV9paBhtvJDguvghUDA6_PGmRzVtxK1_UL8yipARHkh-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "FhwsfH2TpFA",
-      "title": "This is perhaps my favorite password manager for the terminal"
-    }, {
-      "id": "i04sSQjd-qo", 
-      "title": "The perfect Neovim setup for Go"
-    }, {
-      "id": "DzNmUNvnB04", 
-      "title": "Tmux has forever changed the way I write code."
-    }, {
-      "id": "mh_EJhH49Ms", 
-      "title": "The perfect Neovim setup for Rust."
-    }, {
-      "id": "Mtgo-nP_r8Y", 
-      "title": "Turn VIM into a full featured IDE with only one command"
-    }, {
-      "id": "ZbhzLP3vnkg", 
-      "title": "Tide is perhaps my favorite Rust web app framework."
-    }
+    { "id": "7k0KZsheLP4", "title": "Better than Copilot? This AI plugin for Neovim is Incredible" }, 
+    { "id": "4BnVeOUeZxc", "title": "The perfect Neovim setup for Python" }, 
+    { "id": "1PBXB3RcDLs", "title": "What's really inside your docker containers?" }, 
+    { "id": "FhwsfH2TpFA", "title": "This is perhaps my favorite password manager for the terminal" }, 
+    { "id": "i04sSQjd-qo",  "title": "The perfect Neovim setup for Go" }, 
+    { "id": "DzNmUNvnB04",  "title": "Tmux has forever changed the way I write code." }, 
+    { "id": "mh_EJhH49Ms",  "title": "The perfect Neovim setup for Rust." }, 
+    { "id": "Mtgo-nP_r8Y",  "title": "Turn VIM into a full featured IDE with only one command" }, 
+    { "id": "ZbhzLP3vnkg",  "title": "Tide is perhaps my favorite Rust web app framework." } 
   ]
 }
-
 

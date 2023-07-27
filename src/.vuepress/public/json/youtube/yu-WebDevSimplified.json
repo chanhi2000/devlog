@@ -2,130 +2,50 @@
   "channel": {
     "id": "WebDevSimplified",
     "name": "Web Dev Simplified",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMNnqfr-tuqVi_0YLkfx3-FGohChjCaNTNguHzp=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMNnqfr-tuqVi_0YLkfx3-FGohChjCaNTNguHzp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NR7mt68maaOHV0rxr6_XiSzaW0yziFd6uvUGQMBg1tICGHR0NFSLWa3UAsk7N2-NgmxDezuk4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "1Hgc6EU9PSg",
-      "title": "This Tailwind Library Is A Game Changer"
-    }, {
-      "id": "MD_-XzdX0oo",
-      "title": "This Prettier Plugin Makes Tailwind So Much Better"
-    }, {
-      "id": "jqVm5_G1ZEE",
-      "title": "How To Create A Social Media App Using The T3 Stack - Next.js, React, Tailwind, Prisma, TypeScript"
-    }, {
-      "id": "ywtkJkxJsdg",
-      "title": "The New dialog HTML Element Changes Modals Forever"
-    }, {
-      "id": "dAIVbLrAb_U",
-      "title": "How To Build An Animated Hamburger Menu With Only CSS"
-    }, {
-      "id": "yn6vFCRkC3c",
-      "title": "Unstyled Component Libraries Are A Game Changer"
-    }, {
-      "id": "s0h34OkEVUE",
-      "title": "This Library Makes State Management So Much Easier"
-    }, {
-      "id": "lVLz_ASqAio",
-      "title": "React Query Makes Writing React Code 200% Better"
-    }, {
-      "id": "TUD1AWZVgQ8",
-      "title": "Top 10 Advanced CSS Responsive Design Concepts You Should Know"
-    }, {
-      "id": "w0VEOghdMpQ",
-      "title": "How To Build A Weather App In JavaScript Without Needing A Server"
-    }, {
-      "id": "lyNetvEfvT0",
-      "title": "How To Build A Full Stack Nested Comments System"
-    }, {
-      "id": "7f-71kYhK00",
-      "title": "Why Vitest Is Better Than Jest"
-    }, {
-      "id": "MhUCYR9Tb9c",
-      "title": "Learn Pointer Events In 15 Minutes"
-    }, {
-      "id": "IE4lnxXoupg",
-      "title": "How To Create An Audio Book Reader In JavaScript"
-    }, {
-      "id": "VdqtdKXxKhM",
-      "title": "Can I Create This Complex Animated Multistep Form?"
-    }, {
-      "id": "FUKpWgRyPlU",
-      "title": "React Storybook Crash Course"
-    }, {
-      "id": "1r-F3FIONl8",
-      "title": "How To Accept Payments With Stripe"
-    }, {
-      "id": "ddVm53j80vc",
-      "title": "Learn Dynamic Module Imports In 11 Minutes"
-    }, {
-      "id": "ZKEqqIO7n-k",
-      "title": "Learn Socket.io In 30 Minutes"
-    }, {
-      "id": "jgpVdJB2sKQ",
-      "title": "Redis Crash Course"
-    }, {
-      "id": "qQR0mfFGRmo",
-      "title": "Stop Using Postman - Create Your Own Postman Instead"
-    }, {
-      "id": "TQXUeGYs8u0",
-      "title": "Is This The Best JavaScript Extension?"
-    }, {
-      "id": "iRaelG7v0OU",
-      "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB"
-    }, {
-      "id": "Xcet6msf3eE",
-      "title": "How To Build A Better Spotify With React"
-    }, {
-      "id": "6XTRElVAZ9Y",
-      "title": "How To Build A Google Drive Clone With Firebase"
-    }, {
-      "id": "q5V4T3o3CXE",
-      "title": "How To Create And Deploy A VSCode Extension"
-    }, {
-      "id": "qv24S2L1N0k",
-      "title": "How To Build And Deploy Your First Discord Bot"
-    }, {
-      "id": "tBr-PybP_9c",
-      "title": "How To Create A Messaging App With Socket.io And React"
-    }, {
-      "id": "G6JTM-zt-dQ",
-      "title": "How To Build A Battleship Clone"
-    }, {
-      "id": "7-1VZ2wF8pw",
-      "title": "How To Build A JavaScript Password Strength Meter With Regex"
-    }, {
-      "id": "cH0TC9gWiAg",
-      "title": "Advanced Button Hover Animations - CSS Only"
-    }, {
-      "id": "JVWZR23B_iE",
-      "title": "Interface Segregation Principle Explained - SOLID Design Principles"
-    }, {
-      "id": "R8rmfD9Y5-c",
-      "title": "8 Must Know JavaScript Array Methods"
-    }, {
-      "id": "M_bhZEY6_kM",
-      "title": "Build A Price Comparison Page With HTML And CSS"
-    }, {
-      "id": "fHPa5xzbpaA",
-      "title": "Facade Pattern - Design Patterns"
-    }, {
-      "id": "uKVVSwXdLr0",
-      "title": "Simple Image Lightbox Tutorial"
-    }, {
-      "id": "4qNwoAAfnk4",
-      "title": "How To Build Your Own AI With ChatGPT API"
-    }, {
-      "id": "s0h34OkEVUE",
-      "title": "This Library Makes State Management So Much Easier"
-    }, {
-      "id": "r92aHr752Bg",
-      "title": "How To Create ENV Variables In React"
-    }, {
-      "id": "Btc9sRIu2jw",
-      "title": "How To Use ChatGPT To Get Hired"
-    }
+    { "id": "ccg-erZYO4k", "title": "This Extension Is A TypeScript Game Changer" }, 
+    { "id": "1Hgc6EU9PSg", "title": "This Tailwind Library Is A Game Changer" }, 
+    { "id": "MD_-XzdX0oo", "title": "This Prettier Plugin Makes Tailwind So Much Better" }, 
+    { "id": "jqVm5_G1ZEE", "title": "How To Create A Social Media App Using The T3 Stack - Next.js, React, Tailwind, Prisma, TypeScript" }, 
+    { "id": "ywtkJkxJsdg", "title": "The New dialog HTML Element Changes Modals Forever" }, 
+    { "id": "dAIVbLrAb_U", "title": "How To Build An Animated Hamburger Menu With Only CSS" }, 
+    { "id": "yn6vFCRkC3c", "title": "Unstyled Component Libraries Are A Game Changer" }, 
+    { "id": "s0h34OkEVUE", "title": "This Library Makes State Management So Much Easier" }, 
+    { "id": "lVLz_ASqAio", "title": "React Query Makes Writing React Code 200% Better" }, 
+    { "id": "TUD1AWZVgQ8", "title": "Top 10 Advanced CSS Responsive Design Concepts You Should Know" }, 
+    { "id": "w0VEOghdMpQ", "title": "How To Build A Weather App In JavaScript Without Needing A Server" }, 
+    { "id": "lyNetvEfvT0", "title": "How To Build A Full Stack Nested Comments System" }, 
+    { "id": "7f-71kYhK00", "title": "Why Vitest Is Better Than Jest" }, 
+    { "id": "MhUCYR9Tb9c", "title": "Learn Pointer Events In 15 Minutes" }, 
+    { "id": "IE4lnxXoupg", "title": "How To Create An Audio Book Reader In JavaScript" }, 
+    { "id": "VdqtdKXxKhM", "title": "Can I Create This Complex Animated Multistep Form?" }, 
+    { "id": "FUKpWgRyPlU", "title": "React Storybook Crash Course" }, 
+    { "id": "1r-F3FIONl8", "title": "How To Accept Payments With Stripe" }, 
+    { "id": "ddVm53j80vc", "title": "Learn Dynamic Module Imports In 11 Minutes" }, 
+    { "id": "ZKEqqIO7n-k", "title": "Learn Socket.io In 30 Minutes" }, 
+    { "id": "jgpVdJB2sKQ", "title": "Redis Crash Course" }, 
+    { "id": "qQR0mfFGRmo", "title": "Stop Using Postman - Create Your Own Postman Instead" }, 
+    { "id": "TQXUeGYs8u0", "title": "Is This The Best JavaScript Extension?" }, 
+    { "id": "iRaelG7v0OU", "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB" }, 
+    { "id": "Xcet6msf3eE", "title": "How To Build A Better Spotify With React" }, 
+    { "id": "6XTRElVAZ9Y", "title": "How To Build A Google Drive Clone With Firebase" }, 
+    { "id": "q5V4T3o3CXE", "title": "How To Create And Deploy A VSCode Extension" }, 
+    { "id": "qv24S2L1N0k", "title": "How To Build And Deploy Your First Discord Bot" }, 
+    { "id": "tBr-PybP_9c", "title": "How To Create A Messaging App With Socket.io And React" }, 
+    { "id": "G6JTM-zt-dQ", "title": "How To Build A Battleship Clone" }, 
+    { "id": "7-1VZ2wF8pw", "title": "How To Build A JavaScript Password Strength Meter With Regex" }, 
+    { "id": "cH0TC9gWiAg", "title": "Advanced Button Hover Animations - CSS Only" }, 
+    { "id": "JVWZR23B_iE", "title": "Interface Segregation Principle Explained - SOLID Design Principles" }, 
+    { "id": "R8rmfD9Y5-c", "title": "8 Must Know JavaScript Array Methods" }, 
+    { "id": "M_bhZEY6_kM", "title": "Build A Price Comparison Page With HTML And CSS" }, 
+    { "id": "fHPa5xzbpaA", "title": "Facade Pattern - Design Patterns" }, 
+    { "id": "uKVVSwXdLr0", "title": "Simple Image Lightbox Tutorial" }, 
+    { "id": "4qNwoAAfnk4", "title": "How To Build Your Own AI With ChatGPT API" }, 
+    { "id": "s0h34OkEVUE", "title": "This Library Makes State Management So Much Easier" }, 
+    { "id": "r92aHr752Bg", "title": "How To Create ENV Variables In React" }, 
+    { "id": "Btc9sRIu2jw", "title": "How To Use ChatGPT To Get Hired" }
   ]
 }
-

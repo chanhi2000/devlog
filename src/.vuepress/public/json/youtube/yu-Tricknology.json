@@ -2,57 +2,28 @@
   "channel": {
     "id": "Tricknology",
     "name": "Tricknology",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMBoY2o1jtRh2TGFL30Vi1vLPDrI0stAn0M47ozjA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMBoY2o1jtRh2TGFL30Vi1vLPDrI0stAn0M47ozjA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1DMq5lMx1DjyaSRKS7BixcaeWHBSswBpGsFDs8RHhuuEhDZCoKSKNvRP3gtV1EcKf0zkYRJVtw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "kKV6AXVcVnI",
-      "title": "Banco de dados Offline com RealmDB no React Native | Decode #031"
-    }, {
-      "id": "9TXmvypsCeY",
-      "title": "Jest with React and VSCode - The Best combination of Setup & Extensions"
-    }, {
-      "id": "n1Vlh3hT8Yw",
-      "title": "How to fix 'Your IT administrator has limited access' Error in Windows 11"
-    }, {
-      "id": "Fadby_7V3ek",
-      "title": "How to Fix Google Chrome from Running Background in Windows 11"
-    }, {
-      "id": "xYBuWhkO6co",
-      "title": "How To Turn Sticky Keys On or Off in Windows 11"
-    }, {
-      "id": "ZqcGyZsmv9Q",
-      "title": "How to Fix PowerShell Not Launching or Not Opening on Windows 11"
-    }, {
-      "id": "Zt4mTg0IwxI",
-      "title": "Finally, You Can Connect your iPhone to Windows 11 Using Phone Link"
-    }, {
-      "id": "jJcLRDC4fvs",
-      "title": "How to Run Computer Performance Benchmark Test on Windows 11 Using CMD"
-    }, {
-      "id": "NOETv7QLO-w",
-      "title": "How to delete all emails in Gmail AT ONCE"
-    }, {
-      "id": "ER-xXdqePRU",
-      "title": "How to Download and Install Android Apps on Windows 11 Using Amazon Appstore"
-    }, {
-      "id": "LrHM8wBnznU",
-      "title": "How To Make Your Windows 11 PC or Laptop Run Faster By Using CMD Commands"
-    }, {
-      "id": "GV2Un-8AQU0",
-      "title": "How to Remove Any Watermark from Videos and Images [One Click]"
-    }, {
-      "id": "TcSDYtLX23Q",
-      "title": "How To Fix Accidentally Deleted Network Adapter Driver in Windows 10[Solved]"
-    }, {
-      "id": "xnF10Q1_bGU",
-      "title": "How to Use/Configure Proxy Server Settings in Windows 10"
-    }, {
-      "id": "24ZbLWJxBNg",
-      "title": "How To Reduce PDF file Size Without Quality loss"
-    }, {
-      "id": "ErU8XSSiVYU",
-      "title": "How To Reset Or Reinstall Microsoft Store in Windows 11"
-    }
+    { "id": "NZ0BwJJKMXk", "title": "How To Add GPU,NETWORK,CPU,RAM Widgets in Windows 11" },
+    { "id": "Ar4L_hh8Slk", "title": "How To Hide or Unhide the Cursor While Typing in Windows 11" },
+    { "id": "UA7B7Woi5o0", "title": "How to Disable PowerShell in Windows 11" },
+    { "id": "kKV6AXVcVnI", "title": "Banco de dados Offline com RealmDB no React Native | Decode #031" }, 
+    { "id": "9TXmvypsCeY", "title": "Jest with React and VSCode - The Best combination of Setup & Extensions" }, 
+    { "id": "n1Vlh3hT8Yw", "title": "How to fix 'Your IT administrator has limited access' Error in Windows 11" }, 
+    { "id": "Fadby_7V3ek", "title": "How to Fix Google Chrome from Running Background in Windows 11" }, 
+    { "id": "xYBuWhkO6co", "title": "How To Turn Sticky Keys On or Off in Windows 11" }, 
+    { "id": "ZqcGyZsmv9Q", "title": "How to Fix PowerShell Not Launching or Not Opening on Windows 11" }, 
+    { "id": "Zt4mTg0IwxI", "title": "Finally, You Can Connect your iPhone to Windows 11 Using Phone Link" }, 
+    { "id": "jJcLRDC4fvs", "title": "How to Run Computer Performance Benchmark Test on Windows 11 Using CMD" }, 
+    { "id": "NOETv7QLO-w", "title": "How to delete all emails in Gmail AT ONCE" }, 
+    { "id": "ER-xXdqePRU", "title": "How to Download and Install Android Apps on Windows 11 Using Amazon Appstore" }, 
+    { "id": "LrHM8wBnznU", "title": "How To Make Your Windows 11 PC or Laptop Run Faster By Using CMD Commands" }, 
+    { "id": "GV2Un-8AQU0", "title": "How to Remove Any Watermark from Videos and Images [One Click]" }, 
+    { "id": "TcSDYtLX23Q", "title": "How To Fix Accidentally Deleted Network Adapter Driver in Windows 10[Solved]" }, 
+    { "id": "xnF10Q1_bGU", "title": "How to Use/Configure Proxy Server Settings in Windows 10" }, 
+    { "id": "24ZbLWJxBNg", "title": "How To Reduce PDF file Size Without Quality loss" }, 
+    { "id": "ErU8XSSiVYU", "title": "How To Reset Or Reinstall Microsoft Store in Windows 11" }
   ]
 }

@@ -2,16 +2,16 @@
   "channel": {
     "id": "LaravelDaily",
     "name": "Laravel Daily",
-    "profile": "https://yt3.googleusercontent.com/HDeb6CMO9jVlr1phkYWFY4NUvAn2HaiAqwqsSItsrDkHDV86K4z-Dz_9XCIqGcvIbBJqyZnW=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/HDeb6CMO9jVlr1phkYWFY4NUvAn2HaiAqwqsSItsrDkHDV86K4z-Dz_9XCIqGcvIbBJqyZnW=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "MZ3PyCAFxE8",
-      "title": "Laravel: Separate Controllers/Views for Admins/Managers?"
-    }, {
-      "id": "hpij6Q4qySc",
-      "title": "Laravel TestCase vs PHPUnit TestCase: The Differences"
-    }
+    { "id": "97mT6DflKzk", "title": "Laravel Jetstream: Easily Enable Terms and Policy with Markdown" }, 
+    { "id": "7WSECfg4UXA", "title": "Laravel Daily MentorSHIP: Build API Project in 2 Weeks" }, 
+    { "id": "9aIVmiL3Xks", "title": "[01/10] Laravel Travel API: DB Schema - Models and Migrations" }, 
+    { "id": "G-bz_FIcczg", "title": "[04/10] Laravel Travel API: Tours Filtering and Ordering" }, 
+    { "id": "kfvLppwhmgQ", "title": "Creating Laravel Blade Component: Step-By-Step" }, 
+    { "id": "MZ3PyCAFxE8", "title": "Laravel: Separate Controllers/Views for Admins/Managers?" }, 
+    { "id": "hpij6Q4qySc", "title": "Laravel TestCase vs PHPUnit TestCase: The Differences" }
   ]
 }
-

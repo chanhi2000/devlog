@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Indently",
+    "name": "Indently",
+    "profile": "https://yt3.googleusercontent.com/rlQgmvu4K8DMqcQ-aeUU3roPHwD8dpcv6sbS-YNvGdPhjG8MMCOiE8-twngqmHdnjsVatEe5zg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0DSeePNUmxbTH0UDOmqF4_wQaWu8BIo0UWkR7qgCQLDG4_lr-Zt91TVMZHH3c1EGZA7Xf-Id=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SwpXG_jnCW4", "title": "Learn THIS Powerful Python Snippet Of Code" }, 
+    { "id": "MEMDi9mTCiU", "title": "Is THIS Python's MOST Underrated Operator? (Walrus Operator)" }, 
+    { "id": "4zK3F5pfV4o", "title": "Python Devs Will HATE YOU If You Do THIS" }, 
+    { "id": "n4SkpAGKqos", "title": "Is THIS Decorator Style NEW In Python? (IIFE)" }, 
+    { "id": "IMrxB8Mq5KU", "title": "How To Use Jupyter NoteBook For Data Analysis (Beginner Tutorial 2023)" }, 
+    { "id": "XSkBFFOtQro", "title": "\"TypedDict\" In Python Is Actually AWESOME!" }    
+  ]
+}
+
+

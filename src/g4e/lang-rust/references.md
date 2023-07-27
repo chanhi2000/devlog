@@ -68,6 +68,12 @@ tags: ["rust" , "rs", "rust-lang"]
 - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
 
 ---
-v
+
+## TigerBeetle
+
+- [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting)
+
+---
+
 
 <TagLinks />

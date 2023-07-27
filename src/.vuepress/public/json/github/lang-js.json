@@ -1304,5 +1304,10 @@
     "desc": "Official open source SVG icon library for Bootstrap.",
     "topics": ["svg", "bootstrap", "font", "icons", "sprite", "woff2", "woff"],
     "officialSite": "https://icons.getbootstrap.com"
+  }, {
+    "repo": "maildev/maildev",
+    "desc": "📫 SMTP Server + Web Interface for viewing and testing emails during development.",
+    "topics": ["nodejs", "testing", "docker", "development", "smtp", "developer-tools", "smtp-server", "mailcatcher", "nodemailer", "maildev"],
+    "officialSite": "https://maildev.github.io/maildev"
   }
 ]

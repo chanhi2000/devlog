@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "icttrainer6889",
+    "name": "ICT Trainer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSEeDb5haEOII3Lu7k4vkGBRkege1rMvjKhzI6h=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hGcIm7LG1mFnz2WGFgynqrIwJG6wvaXh3EytAipeD82SFf50BtMTTRX77CtRDYF2cGvnP0rUyw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mMl2r9XOvcQ", "title": "Unit Testing LeapYear and NonLeaYear check it out!" },
+    { "id": "ed-4yhWduOA", "title": "Unit Testing for Computing E" },
+    { "id": "KcBv2yXlty8", "title": "Gradle: Task 'run' not found in root project" },
+    { "id": "u2zDSWTixgQ", "title": "Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle" },
+    { "id": "lLa7MVwVZA4", "title": "Understand SpringBootApplication Annotation" },
+    { "id": "zcvMeE65v8o", "title": "SpringReact Travel App" },
+    { "id": "vzoecyd6Tx4", "title": "Unit Testing Financial Application Compound value" },
+    { "id": "QnRh_R20K6Q", "title": "Rest Controller Explained" },
+    { "id": "mFurERg3b9Q", "title": "Unit Testing" }
+  ]
+}

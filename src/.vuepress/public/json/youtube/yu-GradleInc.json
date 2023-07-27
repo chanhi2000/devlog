@@ -2,21 +2,15 @@
   "channel": {
     "id": "GradleInc",
     "name": "Gradle",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOaqnVJlOw-R4EYurgAEXO7rfI0GJ4zdehhRMaSpA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOaqnVJlOw-R4EYurgAEXO7rfI0GJ4zdehhRMaSpA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FHzw58E7guFhPfbOtaLqrffiXJw30I9a4R2VCWCLDMzUwNBSDKpDX50WSbqaIOxoZGcIM3hN=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "RpSVBtyoYCY",
-      "title": "Airbnb Developer Productivity Wins - Janusz Kudelka & Cory Mead"
-    }, {
-      "id": "0hQ-6cJv1R8",
-      "title": "DevProdEng Showdown! S2E5: Developer Experience at Scale"
-    }, {
-      "id": "KN-_q3ss4l0",
-      "title": "Getting Started with the Gradle Kotlin DSL"
-    }, {
-      "id": "HrBKDmmKkaU",
-      "title": "Converting Gradle build files to Kotlin with IntelliJ IDEA"
-    } 
+    { "id": "3l98g7SYCbE", "title": "Build Propulsion Lab: Interview with Evgeniy Bekker at UberConf 2023" },
+    { "id": "RpSVBtyoYCY", "title": "Airbnb Developer Productivity Wins - Janusz Kudelka & Cory Mead" }, 
+    { "id": "0hQ-6cJv1R8", "title": "DevProdEng Showdown! S2E5: Developer Experience at Scale" }, 
+    { "id": "KN-_q3ss4l0", "title": "Getting Started with the Gradle Kotlin DSL" }, 
+    { "id": "HrBKDmmKkaU", "title": "Converting Gradle build files to Kotlin with IntelliJ IDEA" } 
   ]
 }
+
