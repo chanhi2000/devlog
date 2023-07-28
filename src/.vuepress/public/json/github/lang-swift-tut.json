@@ -24,5 +24,10 @@
     "desc": "A collection useful tips for the Swift language",
     "topics": ["swift", "tips"],
     "officialSite": ""
+  }, {
+    "repo": "satoshi0212/visionOS_30Days",
+    "desc": "visionOS 30 days challenge.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

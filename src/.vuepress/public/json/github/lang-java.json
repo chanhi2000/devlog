@@ -349,6 +349,16 @@
     "desc": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
     "topics": ["react", "android", "ios", "mobile", "web", "vue", "frontend", "cross-platform", "hippy"],
     "officialSite": "https://hippyjs.org"
+  }, {
+    "repo": "languagetool-org/languagetool",
+    "desc": "Style and Grammar Checker for 25+ Languages",
+    "topics": ["natural-language-processing", "spellcheck", "natural-language", "grammar", "style-checker", "proofreading"],
+    "officialSite": "https://languagetool.org"
+  }, {
+    "repo": "dogboy21/serializationisbad",
+    "desc": "A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

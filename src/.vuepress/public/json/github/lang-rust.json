@@ -504,6 +504,21 @@
     "desc": "xv6-riscv like OS written in Rust",
     "topics": ["rust", "osdev", "riscv", "xv6-riscv"],
     "officialSite": ""
+  }, {
+    "repo": "emilk/egui",
+    "desc": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+    "topics": ["rust", "gamedev", "gui", "imgui", "game-development", "wasm"],
+    "officialSite": ""
+  }, {
+    "repo": "GraphiteEditor/Graphite",
+    "desc": "2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.",
+    "topics": ["art", "design", "image-processing", "procedural-drawing", "image-manipulation", "image-generation", "photo-editing", "photo-editor", "compositor", "graphic-design", "node-graph", "2d-graphics", "svg-editor", "procedural-art", "graphics-editor", "node-editor", "digital-painting", "vector-editor", "ai-art", "stable-diffusion"],
+    "officialSite": "https://graphite.rs"
+  }, {
+    "repo": "martinvonz/jj",
+    "desc": "A Git-compatible DVCS that is both simple and powerful",
+    "topics": ["git", "cli", "mercurial", "vcs"],
+    "officialSite": ""
   }
 ]
 

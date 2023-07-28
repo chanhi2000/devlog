@@ -25,4 +25,10 @@ tags: ["ruby", "programming"]
 
 ---
 
+## Akshay's Blog
+
+- [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby)
+
+---
+
 <TagLinks />

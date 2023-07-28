@@ -120,11 +120,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "krahets/hello-algo",
-    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
-    "topics": [],
-    "officialSite": "https://hello-algo.com"
-  }, {
     "repo": "visenger/awesome-mlops",
     "desc": "A curated list of references for MLOps",
     "topics": [],

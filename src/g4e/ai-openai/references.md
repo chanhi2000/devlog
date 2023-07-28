@@ -97,5 +97,11 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 
+---
 
+## Lucas Pauker 
+
+- [LLMs Unleashed: The Power of Fine-Tuning](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning)
+
+---
 <TagLinks />

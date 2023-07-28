@@ -29,5 +29,15 @@
     "desc": "I used to have PDFs for my books on my web site - I moved them to this public repo.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Ignitetechnologies/Mindmap",
+    "desc": "This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them",
+    "topics": [],
+    "officialSite": ""
   }
 ]

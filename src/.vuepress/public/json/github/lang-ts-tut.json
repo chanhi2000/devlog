@@ -39,5 +39,10 @@
     "desc": "",
     "topics": [],
     "officialSite": "https://fullstackweek-trips.vercel.app"
+  }, {
+    "repo": "goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (July 2023)",
+    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"],
+    "officialSite": "https://twitter.com/nodepractices"
   }
 ]

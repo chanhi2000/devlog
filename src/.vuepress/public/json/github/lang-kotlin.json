@@ -67,7 +67,7 @@
     "officialSite": ""
   }, {
     "repo": "ethereum-lists/chains",
-    "desc": "provides metadata for networkIDs and chainIDs",
+    "desc": "provides metadata for chains",
     "topics": ["ethereum", "chains", "evm", "hacktoberfest", "eip155", "chainid"], 
     "officialSite": "https://chainid.network"
   }, {

@@ -1460,7 +1460,7 @@
     "officialSite": ""
   }, {
     "repo": "commaai/openpilot",
-    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
     "topics": [],
     "officialSite": "https://comma.ai"
   }, {
@@ -1905,7 +1905,7 @@
     "officialSite": "https://aider.chat"
   }, {
     "repo": "geekan/MetaGPT",
-    "desc": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码",
+    "desc": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
     "topics": ["agent", "gpt", "llm", "metagpt"],
     "officialSite": ""
   }, {
@@ -2148,5 +2148,40 @@
     "desc": "Foundation Architecture for (M)LLMs",
     "topics": ["machine-learning", "natural-language-processing", "translation", "computer-vision", "transformer", "speech-processing", "multimodal", "pretrained-language-model"],
     "officialSite": "https://aka.ms/GeneralAI"
+  }, {
+    "repo": "THUDM/CodeGeeX2",
+    "desc": "CodeGeeX2: A More Powerful Multilingual Code Generation Model",
+    "topics": ["tool", "code", "code-generation", "pretrained-models"],
+    "officialSite": "https://codegeex.cn"
+  }, {
+    "repo": "Codium-ai/pr-agent",
+    "desc": "🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+    "topics": ["devtools", "openai", "pull-request", "code-review", "pull-requests", "codereview", "coding-assistant", "gpt-4"],
+    "officialSite": ""
+  }, {
+    "repo": "srbhr/Resume-Matcher",
+    "desc": "Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.",
+    "topics": ["react", "python", "nlp", "resume", "machine-learning", "natural-language-processing", "dashboard", "text-classification", "text-similarity", "word-embeddings", "data-visualization", "free", "data-analysis", "cosine-similarity", "ats", "resume-parser", "resume-builder", "applicant-tracking-system", "vector-search", "streamlit"],
+    "officialSite": "https://www.resumematcher.fyi"
+  }, {
+    "repo": "yangjianxin1/Firefly",
+    "desc": "Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA)，支持微调Llma2、Llama、Baichuan、InternLM、Ziya、Bloom等大模型",
+    "topics": ["bloom", "llama", "gpt", "lora", "alpaca", "peft", "baichuan", "llm", "instruction-tuning", "qlora", "baichuan-7b", "internlm", "baichuan-13b", "llama2", "llama-2"],
+    "officialSite": ""
+  }, {
+    "repo": "llm-attacks/llm-attacks",
+    "desc": "Universal and Transferable Attacks on Aligned Language Models",
+    "topics": [],
+    "officialSite": "https://llm-attacks.org"
+  }, {
+    "repo": "biobootloader/mentat",
+    "desc": "Mentat - The AI Coding Assistant",
+    "topics": [],
+    "officialSite": "https://mentat.codes"
+  }, {
+    "repo": "khoj-ai/khoj",
+    "desc": "An AI personal assistant for your digital brain",
+    "topics": ["chat", "markdown", "productivity", "ai", "emacs", "personal-assistant", "org-mode", "semantic-search", "obsidian-md", "sentence-transformer", "llm", "chatgpt"],
+    "officialSite": "https://khoj.dev"
   }
 ]

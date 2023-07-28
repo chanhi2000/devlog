@@ -189,5 +189,10 @@
     "desc": "Mark Shust's Docker Configuration for Magento",
     "topics": ["docker", "docker-compose", "magento", "magento-2", "magento2", "hacktoberfest", "docker-magento"],
     "officialSite": "https://m.academy/courses/setup-magento-2-development-environment-docker"
+  }, {
+    "repo": "HariSekhon/DevOps-Bash-tools",
+    "desc": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+    "topics": ["github", "mysql", "git", "linux", "api", "bash", "docker", "kubernetes", "jenkins", "aws", "spotify", "devops", "kafka", "hadoop", "ci", "terraform", "perl", "cloudera", "postgresql", "gcp"],
+    "officialSite": "https://www.linkedin.com/in/HariSekhon"
   }
 ]

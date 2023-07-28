@@ -489,6 +489,16 @@
     "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "topics": ["machine-learning", "deep-learning", "tensorflow", "scikit-learn", "pytorch", "neural-networks", "hardware-acceleration", "ai-framework", "onnx"],
     "officialSite": "https://onnxruntime.ai"
+  }, {
+    "repo": "bloomberg/blazingmq",
+    "desc": "A modern high-performance open source message queuing system",
+    "topics": ["middleware", "distributed-systems", "queue", "messaging", "message-queue", "queues", "blazingmq"],
+    "officialSite": "https://bloomberg.github.io/blazingmq"
+  }, {
+    "repo": "unum-cloud/usearch",
+    "desc": "Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍",
+    "topics": ["javascript", "python", "search", "java", "swift", "rust", "golang", "search-engine", "database", "cpp", "webassembly", "wolfram", "cpp11", "simd", "approximate-nearest-neighbor-search", "similarity-search", "kann", "faiss", "vector-search"],
+    "officialSite": "https://unum-cloud.github.io/usearch"
   }
 ]
 

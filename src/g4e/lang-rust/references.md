@@ -75,5 +75,10 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## matklad
+
+- [Can You Trust a Compiler to Optimize Your Code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
+
+---
 
 <TagLinks />

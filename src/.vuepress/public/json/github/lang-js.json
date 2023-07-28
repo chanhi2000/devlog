@@ -885,11 +885,6 @@
     "topics": ["api", "bot", "bot-api", "whatsapp", "whatsapp-web", "hacktoberfest", "whatsapp-bot", "whatsapp-api", "whatsapp-web-api"],
     "officialSite": "https://wwebjs.dev"
   }, {
-    "repo": "pot-app/pot-desktop",
-    "desc": "🌈一个跨平台的划词翻译软件 | A cross-platform translation software",
-    "topics": ["translation", "translate", "pot", "tauri", "pot-app"],
-    "officialSite": "https://pot.pylogmon.com"
-  }, {
     "repo": "NaiboWang/EasySpider",
     "desc": "A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务",
     "topics": ["visualization", "html", "services", "crawler", "gui", "web", "spider", "frontend", "parameters", "visual", "www", "batch", "batch-script", "batch-processing", "layman", "visulization", "visualprogramming", "code-free", "input-parameters"],
@@ -1056,7 +1051,7 @@
     "officialSite": "https://kit.svelte.dev"
   }, {
     "repo": "pot-app/pot-desktop",
-    "desc": "🌈一个跨平台的划词翻译软件 | A cross-platform translation software",
+    "desc": "🌈一个跨平台的划词翻译软件 | A cross-platform software for text translation.",
     "topics": ["translation", "translate", "pot", "tauri", "pot-app"],
     "officialSite": "https://pot.pylogmon.com"
   }, {

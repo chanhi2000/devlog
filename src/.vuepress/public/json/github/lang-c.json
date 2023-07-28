@@ -354,5 +354,10 @@
     "desc": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
     "topics": [],
     "officialSite": "https://www.google.com/about/appsecurity"
+  }, {
+    "repo": "nebuloss/killer",
+    "desc": "kill explorer.exe and dwm.exe dynamically",
+    "topics": [],
+    "officialSite": ""
   }
 ]

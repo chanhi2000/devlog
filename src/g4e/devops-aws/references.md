@@ -37,4 +37,10 @@ tags: ["aws", "amazon", "amazon-web-service"]
 
 ---
 
+## All Things Distributed
+
+- [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+
+---
+
 <TagLinks />

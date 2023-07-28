@@ -19,5 +19,10 @@
     "desc": "🦄 Gasless ERC20 swap settlement protocol 🦄",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Vectorized/solady",
+    "desc": "Optimized Solidity snippets.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

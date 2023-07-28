@@ -4,5 +4,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "austral/austral",
+    "desc": "Systems language with linear types and capability-based security.",
+    "topics": ["compiler", "capabilities", "linear-types"],
+    "officialSite": "https://austral-lang.org"
   }
 ]

@@ -66,7 +66,7 @@
     "officialSite": "https://pimbook.org"
   }, {
     "repo": "krahets/hello-algo",
-    "desc": "《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言", 
+    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。", 
     "topics": ["algorithm", "data-structure", "algorithms", "leetcode", "algo", "data-structures", "dsa", "mkdocs-material", "data-structures-and-algorithms"],
     "officialSite": "https://hello-algo.com"
   }, {
@@ -118,6 +118,11 @@
     "repo": "austinsonger/Incident-Playbook",
     "desc": "GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]",
     "topics": ["catalog", "incident-response", "playbook", "cybersecurity", "mitre", "incident-management", "incidents", "contributions-welcome", "mitre-attack", "contributors-welcome", "cybersecurity-playbook"],
+    "officialSite": ""
+  }, {
+    "repo": "pushsecurity/saas-attacks",
+    "desc": "Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown",
+    "topics": [],
     "officialSite": ""
   }
 ]

@@ -86,4 +86,10 @@ description: 🛠️Git > 📚References
 
 ---
 
+## Tyler Cipriani
+
+- [Git Files Hidden In Plain Sight 🫥](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
+
+---
+
 <TagLinks />

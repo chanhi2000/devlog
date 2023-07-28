@@ -157,7 +157,7 @@ The next three projects we’ll be making are markedly different from the previo
 
 - [Day 42][day-42] – ✅Project 10, part one
 - [Day 43][day-43] – ✅Project 10, part two
-- [Day 44][day-44] – Project 10, part three
+- [Day 44][day-44] – ✅Project 10, part three
 - [Day 45][day-45] – Project 11, part one
 - [Day 46][day-46] – Project 11, part two
 - [Day 47][day-47] – Project 11, part three
@@ -333,7 +333,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-41]: 41.md
 [day-42]: 42.md
 [day-43]: 43.md
-[day-44]: https://www.hackingwithswift.com/100/44
+[day-44]: 44.md
 [day-45]: https://www.hackingwithswift.com/100/45
 [day-46]: https://www.hackingwithswift.com/100/46
 [day-47]: https://www.hackingwithswift.com/100/47

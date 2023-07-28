@@ -189,5 +189,10 @@
     "desc": "一个利用摸鱼时间背单词的软件。",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "T0biasCZe/AdbFileManager",
+    "desc": "Fast Android <-> Windows file manager using ADB protocol",
+    "topics": [],
+    "officialSite": ""
   }
 ]

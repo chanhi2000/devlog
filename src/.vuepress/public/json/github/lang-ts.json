@@ -296,8 +296,8 @@
     "officialSite": "https://www.chartgpt.dev"
   }, {
     "repo": "gmpetrov/databerry",
-    "desc": "The no-code platform for connecting custom data to large language models",
-    "topics": [],
+    "desc": "The no-code platform for building custom LLM Agents",
+    "topics": ["typescript", "ai", "openai", "semantic-search", "no-code", "qdrant", "llm", "chatgpt", "chatgpt-plugins"],
     "officialSite": "https://databerry.ai"
   }, {
     "repo": "calcom/cal.com",
@@ -1134,5 +1134,20 @@
     "desc": "Test automation platform for web, mobile, game applications with many test frameworks",
     "topics": ["android", "testing", "infrastructure", "ios", "unity", "ci", "selenium", "test-automation", "e2e", "appium", "device-farm", "testops", "testing-platform", "gamium"],
     "officialSite": "https://dogutech.io"
+  }, {
+    "repo": "tjholm/multiboy",
+    "desc": "A multiplayer gameboy powered by WebRTC",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Heroic-Games-Launcher/HeroicGamesLauncher",
+    "desc": "A Native GOG and Epic Games Launcher for Linux, Windows and Mac.",
+    "topics": ["electron", "linux", "gaming", "proton", "wine", "gog", "gog-galaxy", "epic-games-launcher", "play-games", "epic-games-store", "heroic-games-launcher", "epic-store"],
+    "officialSite": "https://heroicgameslauncher.com"
+  }, {
+    "repo": "owncast/owncast",
+    "desc": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+    "topics": ["chat", "golang", "video", "hls", "livestream", "rtmp", "broadcasting", "live", "self-hosted", "streaming-video", "owncast"],
+    "officialSite": "https://owncast.online"
   }
 ]

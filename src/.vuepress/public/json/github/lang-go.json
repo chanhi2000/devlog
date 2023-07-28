@@ -579,5 +579,20 @@
     "desc": "An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices",
     "topics": ["performance", "privacy", "protocol", "p2p", "e2ee", "local-first", "anytype"],
     "officialSite": "https://anytype.io"
+  }, {
+    "repo": "google/gvisor",
+    "desc": "Application Kernel for Containers",
+    "topics": ["linux", "docker", "kubernetes", "kernel", "containers", "sandbox", "oci"],
+    "officialSite": "https://gvisor.dev"
+  }, {
+    "repo": "k3s-io/k3s",
+    "desc": "Lightweight Kubernetes",
+    "topics": ["kubernetes", "k8s"],
+    "officialSite": "https://k3s.io"
+  }, {
+    "repo": "wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "topics": ["docker", "cli", "docker-image", "inspector", "tui", "explorer"],
+    "officialSite": ""
   }
 ]
