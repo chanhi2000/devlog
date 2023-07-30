@@ -199,6 +199,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Using Bitwise operators in JavaScript](https://www.digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
 
 ---
+
 ## FreeCodeCamp
 
 - [about React](https://www.freecodecamp.org/news/tag/react)
@@ -210,6 +211,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 - [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
 - [JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
+- [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers)
 
 ---
 

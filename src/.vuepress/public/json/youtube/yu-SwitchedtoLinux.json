@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "SwitchedtoLinux",
+    "name": "Switched to Linux",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQLKetaex4vmx2a5Nyg434_eFikbEwUoFgdsHRv=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nRXNTx_tXZjAsjMJ6ll9JHd9DYoEnJfNvHyoILV1bnRPSciwB3nBp-_qKBxmZZbGETuwBPN6sQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CYkzYVpg9Vs", "title": "Website Analytics WITHOUT Google Analytics" },
+    { "id": "vjS3COcNrhs", "title": "Analytics Beyond Google | Open Web Analytics, Webalizer, and More" },
+    { "id": "c356LCkEOtE", "title": "MX Linux vs Netrunner | DistroWars" }, 
+    { "id": "8kL8m4Qt1dg", "title": "Installing TWRP to an Android Phone" }        
+  ]
+}

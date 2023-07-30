@@ -350,6 +350,11 @@
     "topics": ["react", "android", "ios", "mobile", "web", "vue", "frontend", "cross-platform", "hippy"],
     "officialSite": "https://hippyjs.org"
   }, {
+    "repo": "apache/hive",
+    "desc": "Apache Hive",
+    "topics": ["java", "sql", "database", "big-data", "hive", "hadoop", "apache"],
+    "officialSite": "https://hive.apache.org"
+  }, {
     "repo": "languagetool-org/languagetool",
     "desc": "Style and Grammar Checker for 25+ Languages",
     "topics": ["natural-language-processing", "spellcheck", "natural-language", "grammar", "style-checker", "proofreading"],

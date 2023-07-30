@@ -85,11 +85,11 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
-## Linode
+## Akamai Developer
 
-<MyYouTubeItems jsonName="yu-linode" />
+<MyYouTubeItems jsonName="yu-AkamaiDeveloper" />
 
-<!-- Linode -->
+<!-- Akamai Developer -->
 
 ---
 
@@ -155,6 +155,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-SpaceinvaderOne" />
 
 <!-- Spaceinvader One -->
+
+---
+
+## ShowMeYourCode!
+
+<MyYouTubeItems jsonName="yu-showmeyourcode" />
+
+<!-- ShowMeYourCode! -->
 
 ---
 

@@ -42,7 +42,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   <div class="feature"></div>
   <div class="feature">
     <span style="display:flex;flex-direction:row;justify-content:flex-start;align-items:center">
-      <img alt="SimpleIcons" height="40px" width="auto" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/simpleicons-white.svg" />
+      <img alt="SimpleIcons" height="40px" width="auto" src="https://cdn.simpleicons.org/simpleicons/000/fff" />
       <p style="display:flex;justify-content:center;align-items:flex-start;flex-direction:column;">
         <a target="_blank" href="https://simpleicons.org" ><img alt="SimpleIcons" src="https://img.shields.io/badge/SimpleIcons-111111?logo=simpleicons&logoColor=white&style=flat-square"/></a>
         <a target="_blank" href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md"><img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat-square" /></a>
@@ -74,6 +74,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://hiddentools-eight.vercel.app">HiddenTools</a></li>
       <li><a target="_blank" href="https://keyframes.app">more tools for devs</a></li>
       <li><a target="_blank" href="https://alistapart.com">a list apart</a></li> 
+      <li><a target="_blank" href="https://gpte.ai">Discover the latest tools and trends in AI 🔮</a></li>
     </ul>
   </div>
 </div>

@@ -422,6 +422,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Switched to Linux
+
+<MyYouTubeItems jsonName="yu-SwitchedtoLinux" />
+
+<!-- Switched to Linux -->
+
+---
+
 <TagLinks />
 
 [yu-linuxleech]: https://www.youtube.com/@linuxleech

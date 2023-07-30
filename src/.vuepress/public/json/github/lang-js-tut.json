@@ -6,8 +6,8 @@
     "officialSite": ""
   }, {
     "repo": "goldbergyoni/nodebestpractices",
-    "desc": "✅ The Node.js best practices list (November 2022)",
-    "topics": [],
+    "desc": "✅ The Node.js best practices list (July 2023)",
+    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"],
     "officialSite": "https://twitter.com/nodepractices"
   }, {
     "repo": "trekhleb/javascript-algorithms",
@@ -124,5 +124,10 @@
     "desc": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.",
     "topics": ["api", "frontend", "backend", "mobile-development", "backend-api"],
     "officialSite": "https://freeapi.app"
+  }, {
+    "repo": "mertuner/InstagramVision",
+    "desc": "Mocking instagram app on visionOS",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -2,24 +2,16 @@
   "channel": {
     "id": "neonchang",
     "name": "모바일랩",
-    "profile": "https://yt3.googleusercontent.com/DCOXDgPVpSRNnjHdVVgJ3LK1Zq7EmmoyvUF-WV8wOYiDynW3ykb9VvCouT4Y-vDdL_7M-r5R86U=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/DCOXDgPVpSRNnjHdVVgJ3LK1Zq7EmmoyvUF-WV8wOYiDynW3ykb9VvCouT4Y-vDdL_7M-r5R86U=s176-c-k-c0x00ffffff-no-rj", 
+    "banner": "https://yt3.googleusercontent.com/axyLYcRC2i5C-4o-y8Ph_RLPdwYvUgeHiWmGLm9HnHN010Gd-jPXkIO5xk-JbvBn2c3mMAuRuUg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "dpfEgjPGCNE",
-      "title": "실수로 사진, 동영상을 삭제하셨나요? 데이터 복구 프로그램 추천! 원본 화질 그대로"
-    }, {
-      "id": "uD95147_VX0",
-      "title": "주말에도 달립니다! 오늘은 무료 정보가 6개예요~!"
-    }, {
-      "id": "JdWiG6XMk6g",
-      "title": "사용중인 윈도우 제품키, 씨리얼 넘버 확인 방법"
-    }, {
-      "id": "Ek_Lr-n4wOg",
-      "title": "누구나 따라할 수 있는 윈도우 10 무료 클린 설치 방법"
-    }, {
-      "id": "aDg2eJeediI",
-      "title": "국산 토종 티맥스 OS 쓸만한가? Tmax OS 설치 후기"
-    }
+    { "id": "VhjNKyacmaQ", "title": "노트북이나 PC에 꼭 설치 해야겠죠~! 원클릭 윈도우 최적화 프로그램 어드벤스드 시스템케어 프로 최신버전 무료 사용 방법" }, 
+    { "id": "o_63dBJkrhY", "title": "공포 게임 좋아하세요? 오늘도 가져온 무료 정보 5개입니다" },     
+    { "id": "dpfEgjPGCNE", "title": "실수로 사진, 동영상을 삭제하셨나요? 데이터 복구 프로그램 추천! 원본 화질 그대로" }, 
+    { "id": "uD95147_VX0", "title": "주말에도 달립니다! 오늘은 무료 정보가 6개예요~!" }, 
+    { "id": "JdWiG6XMk6g", "title": "사용중인 윈도우 제품키, 씨리얼 넘버 확인 방법" }, 
+    { "id": "Ek_Lr-n4wOg", "title": "누구나 따라할 수 있는 윈도우 10 무료 클린 설치 방법" }, 
+    { "id": "aDg2eJeediI", "title": "국산 토종 티맥스 OS 쓸만한가? Tmax OS 설치 후기" }
   ]
 }

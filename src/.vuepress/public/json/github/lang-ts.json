@@ -1149,5 +1149,15 @@
     "desc": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
     "topics": ["chat", "golang", "video", "hls", "livestream", "rtmp", "broadcasting", "live", "self-hosted", "streaming-video", "owncast"],
     "officialSite": "https://owncast.online"
+  }, {
+    "repo": "angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "topics": ["cli", "angular", "typescript", "angular-cli"],
+    "officialSite": "https://cli.angular.io"
+  }, {
+    "repo": "jestjs/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "topics": ["javascript", "testing", "facebook", "snapshot", "expectation", "easy", "painless-javascript-testing", "immersive", "painless"],
+    "officialSite": "https://jestjs.io"
   }
 ]

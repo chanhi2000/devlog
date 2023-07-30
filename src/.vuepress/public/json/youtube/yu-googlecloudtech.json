@@ -2,24 +2,16 @@
   "channel": {
     "id": "googlecloudtech",
     "name": "Google Cloud Tech",
-    "profile": "https://yt3.googleusercontent.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SJeywiPjW_zhFjx_hCrx2E_BA1golW9mXm0E0r3gKouIbg3WFCs7cxbRrDYXRledfDdEhA1m=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "9R87lm5OaLU",
-      "title": "How to migrate Tomcat applications to containers"
-    }, {
-      "id": "o5pKfH0Tonw",
-      "title": "Introducing AlloyDB, a PostgreSQL-compatible cloud database service"
-    }, {
-      "id": "VxXJUYcLmTk",
-      "title": "How to monitor quotas in Google Cloud"
-    }, {
-      "id": "7Z1mgOxWTs8",
-      "title": "Moving Cron Jobs to the Cloud"
-    }, {
-      "id": "q-nvbuc59Po",
-      "title": "How to convert PDFs to audiobooks with machine learning"
-    }
+    { "id": "Ob7wp2pw-0g", "title": "Ensuring requests are set in Kubernetes" }, 
+    { "id": "9R87lm5OaLU", "title": "How to migrate Tomcat applications to containers" }, 
+    { "id": "o5pKfH0Tonw", "title": "Introducing AlloyDB, a PostgreSQL-compatible cloud database service" }, 
+    { "id": "VxXJUYcLmTk", "title": "How to monitor quotas in Google Cloud" }, 
+    { "id": "7Z1mgOxWTs8", "title": "Moving Cron Jobs to the Cloud" }, 
+    { "id": "q-nvbuc59Po", "title": "How to convert PDFs to audiobooks with machine learning" } 
   ]
 }
+

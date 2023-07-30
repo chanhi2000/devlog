@@ -27,6 +27,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## AI Research Blog
+
+ - [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer)
+
+---
+
 ## FreeCodeCamp
 
 - [The Brain-Inspired Approach to AI – Explained for Developers](https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai)

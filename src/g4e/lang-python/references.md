@@ -15,6 +15,7 @@ description: 🐍Python > 📚References
 ## FreeCodeCamp
 
 - [How to Parse a String in Python – Parsing Strings Explained](https://www.freecodecamp.org/news/how-to-parse-a-string-in-python)
+- [Check Python Version – How to Check Py in Mac, Windows, and Linux](https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux)
 
 ---
 
@@ -100,6 +101,12 @@ description: 🐍Python > 📚References
 ## Kevin Hu's Blog
 
 - [Hacking LangChain For Fun and Profit - I](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit)
+
+---
+
+## kenschutte
+
+- ["Gzip beats BERT?" Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2)
 
 ---
 

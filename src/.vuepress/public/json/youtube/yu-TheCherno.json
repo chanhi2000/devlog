@@ -2,21 +2,14 @@
   "channel": {
     "id": "TheCherno",
     "name": "The Cherno",
-    "profile": "https://yt3.googleusercontent.com/tGVMddNMdUHLv2zoH7OBL4e4yIle3e6dJV8qmfBinzckCcgzMPoh3NnxuEwAcWasarTx5x4o=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/tGVMddNMdUHLv2zoH7OBL4e4yIle3e6dJV8qmfBinzckCcgzMPoh3NnxuEwAcWasarTx5x4o=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SQafsD08RT9PAzTcgJamj9PeLzcMJKarTIqpLTTCSOzhov9tNCW7s6XY6lpWxHE9v3ZMAd35=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "_FyzxedGQrc",
-      "title": "Every Feature in Notion - My Favorite Productivity App"
-    }, {
-      "id": "vWXrFetSH8w",
-      "title": "BEST WAY to make Desktop Applications in C++"
-    }, {
-      "id": "sLlGEUO_EGE",
-      "title": "Track MEMORY ALLOCATIONS the Easy Way in C++"
-    }, {
-      "id": "UOB7-B2MfwA",
-      "title": "SMART POINTERS in C++ (std::unique_ptr, std::shared_ptr, std::weak_ptr)"
-    }
+    { "id": "-NJDxf4XwlQ", "title": "Make Beautiful Desktop Applications in C++" }, 
+    { "id": "_FyzxedGQrc", "title": "Every Feature in Notion - My Favorite Productivity App" }, 
+    { "id": "vWXrFetSH8w", "title": "BEST WAY to make Desktop Applications in C++" }, 
+    { "id": "sLlGEUO_EGE", "title": "Track MEMORY ALLOCATIONS the Easy Way in C++" }, 
+    { "id": "UOB7-B2MfwA", "title": "SMART POINTERS in C++ (std::unique_ptr, std::shared_ptr, std::weak_ptr)" } 
   ]
 }

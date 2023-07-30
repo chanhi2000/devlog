@@ -594,5 +594,10 @@
     "desc": "A tool for exploring each layer in a docker image",
     "topics": ["docker", "cli", "docker-image", "inspector", "tui", "explorer"],
     "officialSite": ""
+  }, {
+    "repo": "cockroachdb/pebble",
+    "desc": "RocksDB/LevelDB inspired key-value database in Go",
+    "topics": [],
+    "officialSite": ""
   }
 ]

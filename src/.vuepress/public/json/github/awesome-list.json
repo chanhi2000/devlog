@@ -584,5 +584,10 @@
     "desc": "Most government websites end in .gov or .mil, but many do not. This repo contains USA.gov's list of public government domains and URLs that don't end in .gov or .mil.",
     "topics": ["maintained"],
     "officialSite": "https://search.gov/developer/govt-urls.html"
+  }, {
+    "repo": "0xsyr0/Awesome-Cybersecurity-Handbooks",
+    "desc": "A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.",
+    "topics": ["cybersecurity", "infosec", "pentesting", "ctf", "red-teaming"],
+    "officialSite": ""
   }
 ]

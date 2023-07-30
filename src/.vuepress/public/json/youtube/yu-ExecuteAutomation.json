@@ -2,60 +2,27 @@
   "channel": {
     "id": "ExecuteAutomation",
     "name": "Execute Automation",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOYgJvqnHOHjwAOP9pwnF5VPy2ix1yneVYVa5hUQg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOYgJvqnHOHjwAOP9pwnF5VPy2ix1yneVYVa5hUQg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/W9wERgktL_qfOGUtgKedwD_z3J5MlMWcucJXG90FG2tHHDy2u8tMUbRSeJkqoRJlnZe4nlsKOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "I9gddgFHsmw",
-      "title": "#18 - Locating Complex UI Element in Playwright with new locator strategy (ARIA)"
-    }, {
-      "id": "O4C6_TJ-iws",
-      "title": "#4 - Bash command for Process Management"
-    }, {
-      "id": "P5VsohMggmY",
-      "title": "Arc Browser - The Next generation clutter free and secure browser !"
-    }, {
-      "id": "V1DbYFJn9Us",
-      "title": "Running Selenium tests on a throwaway container node via code in C# .NET using TestContainers .NET"
-    }, {
-      "id": "4beL5W1z2sw",
-      "title": "Customizing Windows 11 Terminal with Oh-my-posh !"
-    }, {
-      "id": "GkSOip-NfTM",
-      "title": "Remote Testing in Visual Studio 2022 - Run tests in Linux/Windows/WSL in seconds!"
-    }, {
-      "id": "8yFwTzj8wJU",
-      "title": "Part 9 - Spring Boot Field Injection for Selenium Page Object Model (POM)"
-    }, {
-      "id": "qjcJXs4Tmq0",
-      "title": "Part 13 - Specflow Context Injection (Managing Selenium WebDriver)"
-    }, {
-      "id": "Hpix9b3F4yE",
-      "title": "Referencing Selenium C# in Visual Studio -- Part 2 (Selenium automation with C#)"
-    }, {
-      "id": "wr1CtJAbH4U",
-      "title": "Cypress vs Selenium automation testing tools (EA Weekly)"
-    }, {
-      "id": "VNrNHXcaf68",
-      "title": "Part 2 - Referencing and running Selenium test with C# .NET Core"
-    }, {
-      "id": "3qCVYTa2JuY",
-      "title": "Part 1 - Introduction to Selenium grid with Docker"
-    }, {
-      "id": "bk2YMhKiB0o",
-      "title": "Mobile Automation testing with Appium in C# .NET Core | Getting Started series"
-    }, {
-      "id": "mluLgBywW0Y",
-      "title": "Introduction to Selenium in C# -- Part 1 (Selenium automation with C#)"
-    }, {
-      "id": "TUX7ntXlVkc",
-      "title": "Part 1 - Introduction to Cucumber with Selenium"
-    }, {
-      "id": "j9xrsweADP4",
-      "title": "Programming Languages and Automation testing tools to Learn in 2020"
-    }, {
-      "id": "VNrNHXcaf68",
-      "title": "Part 2 - Referencing and running Selenium test with C# .NET Core"
-    }
+    { "id": "p4HJrSNi47g", "title": "Cypress Mochawesome Reporting with Cypress 12 is awesome ⚡️📊" },
+    { "id": "I9gddgFHsmw", "title": "#18 - Locating Complex UI Element in Playwright with new locator strategy (ARIA)" }, 
+    { "id": "O4C6_TJ-iws", "title": "#4 - Bash command for Process Management" }, 
+    { "id": "P5VsohMggmY", "title": "Arc Browser - The Next generation clutter free and secure browser !" }, 
+    { "id": "V1DbYFJn9Us", "title": "Running Selenium tests on a throwaway container node via code in C# .NET using TestContainers .NET" }, 
+    { "id": "4beL5W1z2sw", "title": "Customizing Windows 11 Terminal with Oh-my-posh !" }, 
+    { "id": "GkSOip-NfTM", "title": "Remote Testing in Visual Studio 2022 - Run tests in Linux/Windows/WSL in seconds!" }, 
+    { "id": "8yFwTzj8wJU", "title": "Part 9 - Spring Boot Field Injection for Selenium Page Object Model (POM)" }, 
+    { "id": "qjcJXs4Tmq0", "title": "Part 13 - Specflow Context Injection (Managing Selenium WebDriver)" }, 
+    { "id": "Hpix9b3F4yE", "title": "Referencing Selenium C# in Visual Studio -- Part 2 (Selenium automation with C#)" }, 
+    { "id": "wr1CtJAbH4U", "title": "Cypress vs Selenium automation testing tools (EA Weekly)" }, 
+    { "id": "VNrNHXcaf68", "title": "Part 2 - Referencing and running Selenium test with C# .NET Core" }, 
+    { "id": "3qCVYTa2JuY", "title": "Part 1 - Introduction to Selenium grid with Docker" }, 
+    { "id": "bk2YMhKiB0o", "title": "Mobile Automation testing with Appium in C# .NET Core | Getting Started series" }, 
+    { "id": "mluLgBywW0Y", "title": "Introduction to Selenium in C# -- Part 1 (Selenium automation with C#)" }, 
+    { "id": "TUX7ntXlVkc", "title": "Part 1 - Introduction to Cucumber with Selenium" }, 
+    { "id": "j9xrsweADP4", "title": "Programming Languages and Automation testing tools to Learn in 2020" }, 
+    { "id": "VNrNHXcaf68", "title": "Part 2 - Referencing and running Selenium test with C# .NET Core" }
   ]
 }

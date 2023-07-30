@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "PyDataTV",
+    "name": "PyData",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR1XIxeDvH3J2VH8XM6CPS6GotqkHBO6WDxY0lc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E3Bbni4t9_C7Dd3o6nrIimaHTExTejChg1aikJB5lqAeUrEa1tzm019zEF1t2HZFNOKJFcYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HfQkY1gv2es", "title": "Jens Nie: Accelerating Python Code" }, 
+    { "id": "MsJjzVIVs6M", "title": "Anna-Lena Popkes: An unbiased evaluation of environment management and packaging tools" }, 
+    { "id": "N1i_Z-WKaRs", "title": "Antonia Scherz: Unlocking Information - Creating Synthetic Data for Open Access." }, 
+    { "id": "VtL6Y4x10O0", "title": "Carsten Binnig: Towards Learned Database Systems" }, 
+    { "id": "Y5XQR0wUEyM", "title": "Robin Raymond:  Rusty Python - A Case Study" }, 
+    { "id": "buAukOE8oEY", "title": "Tim Bossenmaier, Sven Oehler: Apache StreamPipes for Pythonistas: IIoT data handling made easy!" }, 
+    { "id": "i64Rd8bFXR8", "title": "Lea Petters:  An incomplete guide on how to prevent, detect &amp; mitigate biases in data products" }, 
+    { "id": "onX6fXzp9Yk", "title": "Martin Wistuba: Hyperparameter optimization for the impatient" }, 
+    { "id": "yDYiiVVkBXY", "title": "Simon Pressler: Getting started with JAX" }, 
+    { "id": "M18bhWVizjI", "title": "Tvrtko Sternak: Introducing FastKafka" }, 
+    { "id": "Lwu15m5mmbs", "title": "Caner Turkmen, Oleksandr Shchur:  AutoGluon - AutoML for Tabular, Multimodal and Time Series Data" }, 
+    { "id": "NLKU8LIeIzc", "title": "Yann Lemonnier:  How to Optimize Infrastructure, Tools and Teams for ML Workflows" }, 
+    { "id": "SSr0h7_lqO4", "title": "Lev Konstantinovskiy: Prompt Engineering 101" }, 
+    { "id": "VCkcv0ppYXs", "title": "Antonio Cuni: The CPU in your browser - WebAssembly demystified" }, 
+    { "id": "g9WS920Y1fY", "title": "Cole Bailey: Cooking up a ML Platform - Growing pains and lessons learned" }, 
+    { "id": "e0OhG01efHo", "title": "Valerio Maggio:  Actionable Machine Learning in the Browser with PyScript" }, 
+    { "id": "gJ8-aTsVFSA", "title": "Marcus Tedesco: Neo4j graph databases for climate policy" }, 
+    { "id": "ywScksbaGEw", "title": "Victoria Slocum:  Building a personal internet front-page with spaCy and Prodigy" }, 
+    { "id": "4BgmBtsS0iA", "title": "Emeli Dral:  Staying Alert - How to Implement Continuous Testing for Machine Learning Models" }, 
+    { "id": "4KcTVbUHe70", "title": "Amit Verma: Dynamic pricing at Flix" }, 
+    { "id": "6xDtxz_RnP0", "title": "Martin Christen:  Geospatial Data Processing with Python - A Comprehensive Tutorial" }, 
+    { "id": "B6fnPayCnuw", "title": "Noa Tamir, Patrick Hoefler: Let's contribute to pandas (3 hours) PART.1" }, 
+    { "id": "Bd2ciwinFUE", "title": "Ines Montani:  Incorporating GPT-3 into practical NLP workflows" }, 
+    { "id": "BunOdvHCEGw", "title": "Mike Müller: Aspect-oriented Programming - Diving deep into Decorators" }, 
+    { "id": "BzI3nuiAifc", "title": "Stephan Sahm:  Accelerate Python with Julia" }, 
+    { "id": "CD-T0NZh-vE", "title": "Kolja Maier:  Specifying behavior with Protocols, Typeclasses or Traits. Who wears it better?" }, 
+    { "id": "WXRslU9D3bo", "title": "Jeremy Tuloup: Create interactive Jupyter websites with JupyterLite" }    
+  ]
+}

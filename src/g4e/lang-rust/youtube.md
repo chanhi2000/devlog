@@ -174,4 +174,12 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## RustAU
+
+<MyYouTubeItems jsonName="yu-rustau5950" />
+
+<!-- RustAU -->
+
+---
+
 <TagLinks />

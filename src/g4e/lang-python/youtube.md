@@ -131,4 +131,10 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## PyData
+
+<MyYouTubeItems jsonName="yu-PyDataTV" />
+
+<!-- PyData -->
+
 <TagLinks />

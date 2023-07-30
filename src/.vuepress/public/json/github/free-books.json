@@ -39,5 +39,10 @@
     "desc": "This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "topics": ["pdf", "download", "ebooks", "new-yorker", "economist", "economist-ebooks"],
+    "officialSite": ""
   }
 ]
