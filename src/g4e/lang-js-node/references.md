@@ -405,6 +405,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## nullpt
+
+- [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
+
+---
+
 ## kciter
 
 - [함수형 자료구조](https://kciter.so/posts/functional-data-structure)

@@ -130,22 +130,21 @@ In the last few days we covered some of the fundamentals of iOS development, and
 - [Day 25][day-25] – Milestone: Projects 1-3
  
 
-### Days 26-34: Expanding your skills
+### ✅Days 26-34: Expanding your skills
 
 In these next three projects we’re going to develop your SwiftUI skills in new directions, while also giving you chance to practice the fundamentals.
 
-- [Day 26][day-26] – ✅Project 4, part one
-- [Day 27][day-27] – ✅Project 4, part two
-- [Day 28][day-28] – ✅Project 4, part three
-- [Day 29][day-29] – ✅Project 5, part one
-- [Day 30][day-30] – ✅Project 5, part two
-- [Day 31][day-31] – ✅Project 5, part three
-- [Day 32][day-32] – ✅Project 6, part one
-- [Day 33][day-33] – ✅Project 6, part two
+- [Day 26][day-26] – Project 4, part one
+- [Day 27][day-27] – Project 4, part two
+- [Day 28][day-28] – Project 4, part three
+- [Day 29][day-29] – Project 5, part one
+- [Day 30][day-30] – Project 5, part two
+- [Day 31][day-31] – Project 5, part three
+- [Day 32][day-32] – Project 6, part one
+- [Day 33][day-33] – Project 6, part two
 - [Day 34][day-34] – Project 6, part three
 
-
-### Day 35: Consolidation III
+### ✅Day 35: Consolidation III
 
 Now that your SwiftUI skills are starting to solidify, it’s time to review all the new things we’ve covered and get busy with another project all of your own.
 
@@ -310,8 +309,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-31]: 31.md
 [day-32]: 32.md
 [day-33]: 33.md
-[day-34]: https://www.hackingwithswift.com/100/swiftui/34
-[day-35]: https://www.hackingwithswift.com/100/swiftui/35
+[day-34]: 34.md
+[day-35]: 35.md
 [day-36]: https://www.hackingwithswift.com/100/swiftui/36
 [day-37]: https://www.hackingwithswift.com/100/swiftui/37
 [day-38]: https://www.hackingwithswift.com/100/swiftui/38

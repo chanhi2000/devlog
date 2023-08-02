@@ -2,39 +2,20 @@
   "channel": {
     "id": "Aleksey_Konovalov",
     "name": "Aleksey Konovalov",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNUTSrx3xQsxRHEm3wdiliL20lXKSSlxF86IWA99Q=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNUTSrx3xQsxRHEm3wdiliL20lXKSSlxF86IWA99Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/b6THvkchHO8SC3_lKZmlDkCZlRkkqZGWdVqj8DG6TLXIomMCxd-2kj6c76NLk5yIH2ZUnpvg9A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "EvAoQFlkGP8",
-      "title": "«Ножницы» недорезают: уязвимость в Windows 11"
-    }, {
-      "id": "Gc5IyCS4pkY",
-      "title": "Главные новости: Windows 11 Android Hackintosh OpenCore Украина Россия."
-    }, {
-      "id": "Xim1NNwbZB8",
-      "title": "Создание флешки и установка OS X Mavericks - Hackintosh OpenCore - как работает система в 2021 г"
-    }, {
-      "id": "pCcGsIWIdrc",
-      "title": "Почему мощная видеокарта в Хакинтош проигрывает чипу Apple M1 в Final Cut Pro"
-    }, {
-      "id": "1PMSeyKe-cg",
-      "title": "PearOS -Linux с интерфейсом macOS 11 Big Sur - pearOS Cupertino 2021"
-    }, {
-      "id": "kX5hv-Ouv04",
-      "title": "Как создать загрузчик OpenCore за один клик. Обзор программы Opencore Gen-X"
-    }, {
-      "id": "MnHN5V7_T3Y",
-      "title": "Флешка для начинающих Хакинтошников с macOS 11 Big Sur (Clover или OpenCore) - основные проблемы"
-    }, {
-      "id": "n7mxf9tcQlg",
-      "title": "Создание загрузочной флешки с Clover и старт macOS 11 Big Sur - Hackintosh"
-    }, {
-      "id": "bJMo1qWX_KY",
-      "title": "Как завести звук методом AppleALC - OpenCore 0.6.0 Hackintosh - boot-arg alcid - часть 1"
-    }, {
-      "id": "us2BHitnmuc",
-      "title": "Microsoft запускает новый канал Canary для инсайдеров Windows"
-    }
+    { "id": "SeZAO1NT_qE", "title": "macOS&nbsp;Sonoma - Системные требования для Mac и  Хакинтош." },
+    { "id": "EvAoQFlkGP8", "title": "«Ножницы» недорезают: уязвимость в Windows 11" }, 
+    { "id": "Gc5IyCS4pkY", "title": "Главные новости: Windows 11 Android Hackintosh OpenCore Украина Россия." }, 
+    { "id": "Xim1NNwbZB8", "title": "Создание флешки и установка OS X Mavericks - Hackintosh OpenCore - как работает система в 2021 г" }, 
+    { "id": "pCcGsIWIdrc", "title": "Почему мощная видеокарта в Хакинтош проигрывает чипу Apple M1 в Final Cut Pro" }, 
+    { "id": "1PMSeyKe-cg", "title": "PearOS -Linux с интерфейсом macOS 11 Big Sur - pearOS Cupertino 2021" }, 
+    { "id": "kX5hv-Ouv04", "title": "Как создать загрузчик OpenCore за один клик. Обзор программы Opencore Gen-X" }, 
+    { "id": "MnHN5V7_T3Y", "title": "Флешка для начинающих Хакинтошников с macOS 11 Big Sur (Clover или OpenCore) - основные проблемы" }, 
+    { "id": "n7mxf9tcQlg", "title": "Создание загрузочной флешки с Clover и старт macOS 11 Big Sur - Hackintosh" }, 
+    { "id": "bJMo1qWX_KY", "title": "Как завести звук методом AppleALC - OpenCore 0.6.0 Hackintosh - boot-arg alcid - часть 1" }, 
+    { "id": "us2BHitnmuc", "title": "Microsoft запускает новый канал Canary для инсайдеров Windows" }
   ]
 }

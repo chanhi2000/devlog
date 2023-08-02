@@ -519,6 +519,16 @@
     "desc": "A Git-compatible DVCS that is both simple and powerful",
     "topics": ["git", "cli", "mercurial", "vcs"],
     "officialSite": ""
+  }, {
+    "repo": "ReagentX/imessage-exporter",
+    "desc": "Export iMessage data + run iMessage Diagnostics",
+    "topics": ["export", "apple", "backup", "reverse-engineering", "cli-app", "imessage"],
+    "officialSite": ""
+  }, {
+    "repo": "cozodb/cozo",
+    "desc": "A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!",
+    "topics": ["database", "cross-platform", "graph", "graph-algorithms", "datalog", "graph-database", "graphdb", "embedded-database", "client-server", "relational-database", "single-executable", "cozo", "cozoscript"],
+    "officialSite": "https://cozodb.org"
   }
 ]
 

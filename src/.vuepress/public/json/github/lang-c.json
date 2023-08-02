@@ -359,5 +359,10 @@
     "desc": "kill explorer.exe and dwm.exe dynamically",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Ralim/IronOS",
+    "desc": "Open Source Soldering Iron firmware",
+    "topics": ["hex", "flash", "firmware", "temperature", "temperature-control", "pine64", "iron", "ts100", "alternate", "soldering", "soldering-irons", "ts80", "ts80p", "pinecil"],
+    "officialSite": "https://ralim.github.io/IronOS"
   }
 ]

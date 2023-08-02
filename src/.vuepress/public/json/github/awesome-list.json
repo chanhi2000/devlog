@@ -589,5 +589,20 @@
     "desc": "A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.",
     "topics": ["cybersecurity", "infosec", "pentesting", "ctf", "red-teaming"],
     "officialSite": ""
+  }, {
+    "repo": "DarkNetEye/tor-links",
+    "desc": "Verified darknet market and darknet service links on the Tor Network",
+    "topics": ["tor", "onion-service", "darknet", "tor-hidden-services", "darkweb", "onion-services", "dnm", "darknet-markets", "darknet-market", "darknet-links", "tor-hidden-service", "onion-links", "darkweb-links"],
+    "officialSite": "https://darkneteye.com"
+  }, {
+    "repo": "bregman-arie/sre-checklist",
+    "desc": "A checklist of anyone practicing Site Reliability Engineering",
+    "topics": ["kubernetes", "checklist", "automation", "reliability-engineering", "terraform", "sre", "gitops"],
+    "officialSite": ""
+  }, {
+    "repo": "0xPugazh/One-Liners",
+    "desc": "A collection of awesome one-liners for bug bounty hunting.",
+    "topics": ["enumeration", "bug-bounty", "bugbounty", "subdomain-enumeration", "onliner-scripts"],
+    "officialSite": "https://github.com/0xlittleboy/One-Liner-Scripts"
   }
 ]

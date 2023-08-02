@@ -56,6 +56,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/cli-pwsh/README.md',
         '/g4e/cli-pwsh/basics.md',
+        '/g4e/cli-pwsh/scripts-manage-computer.md',
         '/g4e/cli-pwsh/tips.md',
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',
@@ -771,7 +772,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/41.md',
         '/crashcourse/paul-hudson-100-days-of-swift/42.md',
         '/crashcourse/paul-hudson-100-days-of-swift/43.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/44.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/44.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/45.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/46.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -810,7 +813,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/30.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/31.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/32.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/33.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/33.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/34.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/35.md'
       ]
     }, {
       text: '🕊️SwiftUI by Example',

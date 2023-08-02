@@ -430,9 +430,12 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
-<TagLinks />
+## The Linux Cast
 
-[yu-linuxleech]: https://www.youtube.com/@linuxleech
-[yu-tmanelshrghk]: https://www.youtube.com/@tmanelshrghk
-[yu-software-tool-time]: https://www.youtube.com/@SoftwareToolTime
-[yu-HanbitMedia93]: https://www.youtube.com/@HanbitMedia93
+<MyYouTubeItems jsonName="yu-TheLinuxCast" />
+
+<!-- The Linux Cast -->
+
+---
+
+<TagLinks />

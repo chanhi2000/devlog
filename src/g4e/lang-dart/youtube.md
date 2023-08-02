@@ -11,6 +11,15 @@ tags: ["dart", "flutter"]
 
 [[toc]]
 
+
+---
+
+## The Coding Papa 더코딩파파
+
+<MyYouTubeItems jsonName="yu-TheCodingPapa" />
+
+<!-- The Coding Papa 더코딩파파 -->
+
 ---
 
 ## 개발하는남자

@@ -20,4 +20,14 @@ tags: ["llama" , "llm"]
 
 ---
 
+## MetaAI
+
+- [Open sourcing AudioCraft: Generative AI for audio made simple and available to all](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio)
+
+---
+
+## Ollama
+
+- [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
+
 <TagLinks/>

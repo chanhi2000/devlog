@@ -130,13 +130,20 @@ taskkill /f /PID 1234
 
 | location | `key`=`value` | description |
 | :--- | :---: | :--- |
-| `\HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools` | `Disabled=0` |  IE에서 개발자 도구 메뉴가 비활성화 돼 있을 때 |
+| `\HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools` | `Disabled=0` |  IE에서 개발자 도구 메뉴가 활성화 |
+| `\HKEY_CURRENT_USER\Control Panel\Desktop` | `AutoEndTasks=1` | '이 앱 때문에 종료할 수 없습니다' 비활성화 |
 | `\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` | `949=*굴림체` | `cmd.exe` 창에서 사용할 폰트를 추가하는 방법 |
 | `\HKEY_USERS\.DEFAULT\Control Panel\Keyboard` | `InitialKeyboardIndicators=2147483650` | 넘버락 켜기 |
 | `\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | <ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | 
 | `\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System` | `EnableSmartScreen=0` | SmartScreen 비활성화 | 
 
-- https://www.clien.net/service/board/lecture/17815116
+
+```batch
+REM '이 앱 때문에 종료할 수 없습니다' 비활성화
+reg.exe add "HKEY_CURRENT_USER\Control Panel\Desktop" /v "AutoEndTasks" /d "1" /f 
+REM IE에서 개발자 도구 메뉴가 활성화
+reg.exe add "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools" /v "Disabled" /d "0" /f 
+```
 
 ---
 

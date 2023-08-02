@@ -133,8 +133,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## CSS/Images
 
-- [FortAwesome/Font-Awesome][FortAwesome/Font-Awesome]: The iconic SVG, font, and CSS toolkit
-  - [🌐Official Site](https://fontawesome.com)
 - [google/material-design-icons][google/material-design-icons]: Material Design icons by Google
   - [🌐Official Site](http://google.github.io/material-design-icons)
 - [Ileriayo/markdown-badges][Ileriayo/markdown-badges]: Badges for your personal developer branding, profile, and projects.
@@ -197,7 +195,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [hectorm/docker-qemu-win2000]: https://github.com/hectorm/docker-qemu-win2000
 <!-- CSS/Images -->
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
-[FortAwesome/Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
 [twbs/icons]: https://github.com/twbs/icons
 [google/material-design-icons]: https://github.com/google/material-design-icons
 [Ileriayo/markdown-badges]: https://github.com/Ileriayo/markdown-badges

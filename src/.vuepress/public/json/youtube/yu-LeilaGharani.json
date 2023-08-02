@@ -2,53 +2,26 @@
   "channel": {
     "id": "LeilaGharani",
     "name": "Leila Gharani",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNax5co0R9i3w_wk8Dpz9fVn3j-zWu55nFXkZRj7g=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNax5co0R9i3w_wk8Dpz9fVn3j-zWu55nFXkZRj7g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZBXzguE_Kz8lOKwITjpzuJQOGnCReRPSzZls9ffwEuoBlKbLp1B8Z7ZIiSN2tW_GXyrMhtA_vQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "i2GZiH6IgqI",
-      "title": "Announcing the LG supporter squad 😎" 
-    }, {
-      "id": "VVShslDBg5c",
-      "title": "How to Split Text with Multiple Delimiters with Excel TEXTSPLIT #shorts" 
-    }, {
-      "id": "5TVwC24eHHI",
-      "title": "How to Properly Copy Formulas to Another Excel File WITHOUT File Reference #shorts" 
-    }, {
-      "id": "ZZRl7fALdjw",
-      "title": "You Won't Believe These Crazy PIVOT TABLE Hacks!" 
-    }, {
-      "id": "21bXQDXSxYs",
-      "title": "Can ChatGPT Properly Solve Your Complex Excel Spreadsheet Problems?" 
-    }, {
-      "id": "ehrXyFPljBo",
-      "title": "Effortlessly Create Dynamic Charts in Excel: New Feature Alert!" 
-    }, {
-      "id": "L7s6Dni1dG8",
-      "title": "Excel RECURSIVE Lambda - Create loops with ZERO coding!" 
-    }, {
-      "id": "Rm4y5UqauRw",
-      "title": "Excel LAMBDA - HOW & WHEN you Should use it" 
-    }, {
-      "id": "vBR1oRIED_E",
-      "title": "How to create barcodes in Excel that WORK!" 
-    }, {
-      "id": "xnLvEhXWSas",
-      "title": "Discover What XLOOKUP Can Do For YOU (R.I.P. Excel VLOOKUP)" 
-    }, {
-      "id": "aA8nVYNonV4",
-      "title": "How the Balance Sheet Works | with a FUN Demo" 
-    }, {
-      "id": "7LjXpCcibks",
-      "title": "Do's & Don'ts of Excel Spreadsheet Design (with Examples)" 
-    }, {
-      "id": "21bXQDXSxYs",
-      "title": "How ChatGPT Can Help With Your Complex Excel Spreadsheets" 
-    }, {
-      "id": "rvtuQo_8wTA",
-      "title": "6 Useful Websites You NEED to Use!" 
-    }
+    { "id": "VVShslDBg5c", "title": "How to Split Text with Multiple Delimiters with Excel TEXTSPLIT #shorts" },
+    { "id": "yxHPScN_ct4", "title": "The Secret to Note-taking for Busy People" },
+    { "id": "8hjgmJk5RiA", "title": "You WON'T BELIEVE These 10 HIDDEN Features in Excel Power Query 🤯" },    
+    { "id": "i2GZiH6IgqI", "title": "Announcing the LG supporter squad 😎" },
+    { "id": "VVShslDBg5c", "title": "How to Split Text with Multiple Delimiters with Excel TEXTSPLIT #shorts" },
+    { "id": "5TVwC24eHHI", "title": "How to Properly Copy Formulas to Another Excel File WITHOUT File Reference #shorts" },
+    { "id": "ZZRl7fALdjw", "title": "You Won't Believe These Crazy PIVOT TABLE Hacks!" },
+    { "id": "21bXQDXSxYs", "title": "Can ChatGPT Properly Solve Your Complex Excel Spreadsheet Problems?" },
+    { "id": "ehrXyFPljBo", "title": "Effortlessly Create Dynamic Charts in Excel: New Feature Alert!" },
+    { "id": "L7s6Dni1dG8", "title": "Excel RECURSIVE Lambda - Create loops with ZERO coding!" },
+    { "id": "Rm4y5UqauRw", "title": "Excel LAMBDA - HOW & WHEN you Should use it" },
+    { "id": "vBR1oRIED_E", "title": "How to create barcodes in Excel that WORK!" },
+    { "id": "xnLvEhXWSas", "title": "Discover What XLOOKUP Can Do For YOU (R.I.P. Excel VLOOKUP)" },
+    { "id": "aA8nVYNonV4", "title": "How the Balance Sheet Works | with a FUN Demo" },
+    { "id": "7LjXpCcibks", "title": "Do's & Don'ts of Excel Spreadsheet Design (with Examples)" },
+    { "id": "21bXQDXSxYs", "title": "How ChatGPT Can Help With Your Complex Excel Spreadsheets" },
+    { "id": "rvtuQo_8wTA", "title": "6 Useful Websites You NEED to Use!" }
   ]
 }
-
-

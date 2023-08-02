@@ -195,13 +195,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 <!-- mediacccde -->
 
-
-## The Coding Papa 더코딩파파
-
-<MyYouTubeItems jsonName="yu-TheCodingPapa" />
-
-<!-- The Coding Papa 더코딩파파 -->
-
 ---
 
 ## SEOUL G-캠프
@@ -353,6 +346,14 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 <MyYouTubeItems jsonName="yu-SpaceRexWill" />
 
 <!-- SpaceRex -->
+
+---
+
+## Kevin Fang
+
+<MyYouTubeItems jsonName="yu-kevinfaang" />
+
+<!-- Kevin Fang -->
 
 ---
 
@@ -1070,7 +1071,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-linkedinlearning]: https://www.youtube.com/@linkedinlearning
 [yu-codingsaint]: https://www.youtube.com/@codingsaint
 [yu-senior-mars-tries]: https://www.youtube.com/@SeniorMarsTries
-[yu-ezweb]: https://www.youtube.com/@Ezweb
 [yu-code-beauty]: https://www.youtube.com/@CodeBeauty
 [yu-tech-talk-america]: https://www.youtube.com/@TechTalkAmerica
 [yu-craft-computing]: https://www.youtube.com/@CraftComputing
@@ -1115,7 +1115,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
 [yu-tech-gumbo]: https://www.youtube.com/@TechGumbo
 [yu-loianegroner]: https://www.youtube.com/@loianegroner
-[yu-1under]: https://www.youtube.com/@1under
 [yu-more-security]: https://www.youtube.com/@MoreSecurity
 [yu-marie-poulin]: https://www.youtube.com/@MariePoulin
 [yu-go-cloud-architects]: https://www.youtube.com/@GoCloudArchitects
@@ -1173,7 +1172,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-huakunshen3670]: https://www.youtube.com/@huakunshen3670
 [yu-securerandom5420]: https://www.youtube.com/@securerandom5420
 [yu-coding-entrepreneurs]: https://www.youtube.com/@CodingEntrepreneurs
-[yu-the-coding-papa]: https://www.youtube.com/@TheCodingPapa
 [yu-wes-doyle]: https://www.youtube.com/@WesDoyle
 [yu-level-up-tuts]: https://www.youtube.com/@LevelUpTuts
 [yu-gis]: https://www.youtube.com/@gis

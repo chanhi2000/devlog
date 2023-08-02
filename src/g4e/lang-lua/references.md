@@ -22,4 +22,10 @@ meta:
 
 ---
 
+## Howardism
+
+- [Emacs is My New Window Manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
+
+---
+
 <TagLinks />

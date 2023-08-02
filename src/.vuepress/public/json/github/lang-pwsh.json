@@ -29,5 +29,10 @@
       "desc": "Documentation for the Microsoft Graph REST API",
       "topics": ["microsoft-graph-documentation", "devxdocs"],
       "officialSite": "os"
+    }, {
+      "repo": "fleschutz/PowerShell",
+      "desc": "Mega collection of 500+ useful cross-platform PowerShell scripts.",
+      "topics": ["automation", "remote-control", "collection", "cross-platform", "command-line", "powershell", "scripts", "tasks", "ps1", "powershell-scripts"],
+      "officialSite": ""
     }
 ]

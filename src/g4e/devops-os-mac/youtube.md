@@ -53,6 +53,14 @@ tags: ["macos", "settings"]
 
 ---
 
+## Mr. Macintosh
+
+<MyYouTubeItems jsonName="yu-Mr.Macintosh" />
+
+<!-- Mr. Macintosh -->
+
+---
+
 ## Landing AI
 
 <MyYouTubeItems jsonName="yu-landingai" />

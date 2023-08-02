@@ -1304,5 +1304,30 @@
     "desc": "📫 SMTP Server + Web Interface for viewing and testing emails during development.",
     "topics": ["nodejs", "testing", "docker", "development", "smtp", "developer-tools", "smtp-server", "mailcatcher", "nodemailer", "maildev"],
     "officialSite": "https://maildev.github.io/maildev"
+  }, {
+    "repo": "chromium/permission.site",
+    "desc": "A site to test the interaction of web APIs and browser permissions.",
+    "topics": [],
+    "officialSite": "https://permission.site"
+  }, {
+    "repo": "mprimi/portable-secret",
+    "desc": "Better privacy without special software",
+    "topics": ["javascript", "security", "cryptography", "privacy", "encryption", "password-manager", "web-cryptography-api", "secrets-management"],
+    "officialSite": "https://mprimi.github.io/portable-secret"
+  }, {
+    "repo": "ankane/mapkick.js",
+    "desc": "Create beautiful, interactive maps with one line of JavaScript",
+    "topics": [],
+    "officialSite": "https://chartkick.com/mapkick-js"
+  }, {
+    "repo": "michael/editable-website",
+    "desc": "A SvelteKit template for building CMS-free editable websites",
+    "topics": ["javascript", "sqlite", "svelte", "webdev", "richtexteditor"],
+    "officialSite": "https://editable.website"
+  }, {
+    "repo": "FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "topics": ["css", "font", "fontawesome", "icons", "svg-icons", "webfont", "svg-sprites"],
+    "officialSite": "https://fontawesome.com"
   }
 ]

@@ -16,9 +16,9 @@
     "officialSite": ""
   }, {
     "repo": "gorilla/mux",
-    "desc": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
-    "topics": [],
-    "officialSite": "http://www.gorillatoolkit.org/pkg/mux"
+    "desc": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
+    "topics": ["go", "golang", "http", "middleware", "router", "gorilla", "mux", "gorilla-web-toolkit"],
+    "officialSite": "https://gorilla.github.io"
   }, {
     "repo": "schollz/croc",
     "desc": "Easily and securely send things from one computer to another 🐊 📦",
@@ -597,6 +597,21 @@
   }, {
     "repo": "cockroachdb/pebble",
     "desc": "RocksDB/LevelDB inspired key-value database in Go",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kyverno/kyverno",
+    "desc": "Kubernetes Native Policy Management",
+    "topics": ["kubernetes", "policy-management"],
+    "officialSite": "https://kyverno.io"
+  }, {
+    "repo": "PeerDB-io/peerdb",
+    "desc": "Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀",
+    "topics": ["rust", "bigquery", "postgres", "distributed-systems", "sql", "kafka", "etl", "realtime", "postgresql", "snowflake", "stream-processing", "cloud-native", "cdc", "postrgesql"],
+    "officialSite": "https://peerdb.io"
+  }, {
+    "repo": "base-org/withdrawer",
+    "desc": "Golang utility for proving and finalizing withdrawals from op-stack chains.",
     "topics": [],
     "officialSite": ""
   }

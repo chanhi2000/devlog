@@ -2,12 +2,10 @@
   "channel": {
     "id": "user-yu8so2ck1z",
     "name": "코딩알려주는누나",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZhgxgBSMwGnm95Y7MCKqHxjjt0hwZbzZvJ56h=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZhgxgBSMwGnm95Y7MCKqHxjjt0hwZbzZvJ56h=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hnvrPXrMnzIWfh5sBVKzU3gZm9F5EdoVtL-V2Er-gYovHcI5EC3kwBx2DK6O3Vilgqzj3o54QQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "GHHUjITelsA",
-      "title": "타입스크립트 진짜 쉽게 설명해줌 | 이거보고도 이해 안되면 집가라"
-    }
+    { "id": "GHHUjITelsA", "title": "타입스크립트 진짜 쉽게 설명해줌 | 이거보고도 이해 안되면 집가라" }
   ]
 }

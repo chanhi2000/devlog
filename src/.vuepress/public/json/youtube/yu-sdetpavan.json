@@ -2,61 +2,28 @@
   "channel": {
     "id": "sdetpavan",
     "name": "SDET- QA Automation Techie",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOnWXc6aPkJ_lFKblFBp-cwyUhVOyZBhZyQYj-veg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOnWXc6aPkJ_lFKblFBp-cwyUhVOyZBhZyQYj-veg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2YKoAc8QiPqg0XS8i_LPPEeAd2I4v_Q1cfNSyXdQnFQNRlFq-IWHrMBWG0UWHjcChaZKFD1m1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "ePy0Xl-JpRg",
-      "title": "Playwright with Javascript | How To Create and Run Tests | Part 3"
-    }, {
-      "id": "OM4mr3PKgcQ",
-      "title": "Session 1: API Testing | RestAssured | Introduction | Environment Setup | HTTP Methods"
-    }, {
-      "id": "rHeoPN-enCI",
-      "title": "Session 6: API Testing | Postman | API Chaining"
-    }, {
-      "id": "qqH2QSXmVJg",
-      "title": "Part 13: Cypress E2E Web Automation | Interacting with Elements | Handling Mouse Events"
-    }, {
-      "id": "M4Ye3SKT46g",
-      "title": "Selenium Hybrid Framework Part-1 | e-Banking Automation Mini Project"
-    }, {
-      "id": "o3tYiyE_OXE",
-      "title": "Selenium with Python Full Course For Beginners"
-    }, {
-      "id": "Wgyirv9juFI",
-      "title": "Jira Tool | Agile Project Management | FREE YouTube Live Session"
-    }, {
-      "id": "PytX76kjjK4",
-      "title": "Part17-Selenium with Java Tutorial | Practical Interview Questions and Answers | Alerts |Popups"
-    }, {
-      "id": "95NBave0W_k",
-      "title": "Postman Beginners Crash Course - Part 1 | API Testing | Introduction | Postman GUI |  HTTP Requests"
-    }, {
-      "id": "z1eM7lIpbU4",
-      "title": "How to use Java Collections, Lambda Expressions &amp; Streams  in Selenium Automation"
-    }, {
-      "id": "O7jq77o39T8",
-      "title": "SoapUI Pro(Ready API) Webservices Testing Part 18- Data Driven Testing using JDBC (MySQL)"
-    }, {
-      "id": "nWXtt8hgp8I",
-      "title": "SoapUI Pro(Ready API) Webservices Testing Part 14- Data Driven Testing using Excel"
-    }, {
-      "id": "hsvQLd7CEqE",
-      "title": "SoapUI API/Webservices Testing Part 6- Assertions : XQuery Match"
-    }, {
-      "id": "aJLZduIzlLg",
-      "title": "SoapUI API/Webservices Testing Part 5- Assertions : XPath Match"
-    }, {
-      "id": "GnG6RPSRLCs",
-      "title": "JIRA : A Complete Tutorial for Beginners || JIRA Agile Test Management"
-    }, {
-      "id": "LXNrJcRnwlA",
-      "title": "Manual Testing -Session 1"
-    }, {
-      "id": "QnzlZ6bQjMo",
-      "title": "How To Create &amp; Run GraphQL Queries | API Testing | Postman | Part 2"
-    }
+    { "id": "ePy0Xl-JpRg", "title": "Playwright with Javascript | How To Create and Run Tests | Part 3" },
+    { "id": "jLHIzSH4rGg", "title": "Playwright with Javascript | Hard Assertions vs Soft Assertions | Part 8" },    
+    { "id": "ePy0Xl-JpRg", "title": "Playwright with Javascript | How To Create and Run Tests | Part 3" }, 
+    { "id": "OM4mr3PKgcQ", "title": "Session 1: API Testing | RestAssured | Introduction | Environment Setup | HTTP Methods" }, 
+    { "id": "rHeoPN-enCI", "title": "Session 6: API Testing | Postman | API Chaining" }, 
+    { "id": "qqH2QSXmVJg", "title": "Part 13: Cypress E2E Web Automation | Interacting with Elements | Handling Mouse Events" }, 
+    { "id": "M4Ye3SKT46g", "title": "Selenium Hybrid Framework Part-1 | e-Banking Automation Mini Project" }, 
+    { "id": "o3tYiyE_OXE", "title": "Selenium with Python Full Course For Beginners" }, 
+    { "id": "Wgyirv9juFI", "title": "Jira Tool | Agile Project Management | FREE YouTube Live Session" }, 
+    { "id": "PytX76kjjK4", "title": "Part17-Selenium with Java Tutorial | Practical Interview Questions and Answers | Alerts |Popups" }, 
+    { "id": "95NBave0W_k", "title": "Postman Beginners Crash Course - Part 1 | API Testing | Introduction | Postman GUI |  HTTP Requests" }, 
+    { "id": "z1eM7lIpbU4", "title": "How to use Java Collections, Lambda Expressions &amp; Streams  in Selenium Automation" }, 
+    { "id": "O7jq77o39T8", "title": "SoapUI Pro(Ready API) Webservices Testing Part 18- Data Driven Testing using JDBC (MySQL)" }, 
+    { "id": "nWXtt8hgp8I", "title": "SoapUI Pro(Ready API) Webservices Testing Part 14- Data Driven Testing using Excel" }, 
+    { "id": "hsvQLd7CEqE", "title": "SoapUI API/Webservices Testing Part 6- Assertions : XQuery Match" }, 
+    { "id": "aJLZduIzlLg", "title": "SoapUI API/Webservices Testing Part 5- Assertions : XPath Match" }, 
+    { "id": "GnG6RPSRLCs", "title": "JIRA : A Complete Tutorial for Beginners || JIRA Agile Test Management" }, 
+    { "id": "LXNrJcRnwlA", "title": "Manual Testing -Session 1" }, 
+    { "id": "QnzlZ6bQjMo", "title": "How To Create &amp; Run GraphQL Queries | API Testing | Postman | Part 2" } 
   ]
 }
-

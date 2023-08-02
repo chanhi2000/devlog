@@ -110,4 +110,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## PRAVESH KOIRALA
+
+- [A NON-MATHEMATICAL INTRODUCTION TO KALMAN FILTERS FOR PROGRAMMER](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers)
+
+---
+
 <TagLinks />

@@ -129,5 +129,10 @@
     "desc": "Mocking instagram app on visionOS",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "topics": ["react", "redux", "javascript", "css", "html", "challenge", "website", "programming", "html5", "js", "reactjs", "webdevelopment", "react-router-dom", "30dayofjavascript"],
+    "officialSite": ""
   }
 ]

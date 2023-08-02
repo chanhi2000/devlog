@@ -364,6 +364,11 @@
     "desc": "A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "StarRocks/starrocks",
+    "desc": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
+    "topics": ["sql", "database", "big-data", "analytics", "data-analytics", "olap", "join", "distributed-database", "realtime-database", "mpp", "iceberg", "real-time-analytics", "datalake", "vectorized", "real-time-updates", "star-schema", "hudi", "delta-lake", "lakehouse", "lakehouse-platform"],
+    "officialSite": "https://starrocks.io"
   }
 ]
 

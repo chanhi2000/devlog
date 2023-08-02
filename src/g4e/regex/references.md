@@ -22,7 +22,7 @@ description: 🥋Regex > 📚References
 
 - [How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial](https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/)
 - [URL RegEx Pattern – How to Write a Regular Expression for a URL](https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url)
-
+- [The Regular Expressions Book – RegEx for JavaScript Developers [Full Book]](https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers)
 ---
 
 ## Tools

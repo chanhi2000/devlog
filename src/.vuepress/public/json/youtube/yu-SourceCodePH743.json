@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "SourceCodePH743",
+    "name": "Source Code PH",
+    "profile": "https://yt3.googleusercontent.com/mXsXen8Ul327dA9XmL5xyh35SapTIH73bhstSwDI826j82jM6aYaPSO5ZwlIWfri0zUkoa8M5g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WcHV3VKHaeG3YDa8VyV4IRD2uvruL47IMLPVaCF7LosWQMRWn7Gr6oLuaDvNF9XTYUm0yjp6n40=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BsP5SiWj5mQ", "title": "Part 1 | PHP CRUD Create, Read, Update, Delete, Search | with Source Code | From Beginners to Expert" },
+    { "id": "ldcoNzFAvYU", "title": "Part 8 | PHP CRUD Create, Read, Update, Delete, Search | with Source Code | From Beginners to Expert" },
+    { "id": "jXZtj21LB_k", "title": "Part 10 | PHP CRUD Create, Read, Update, Delete, Search | with Source Code |From Beginners to Expert" }        
+  ]
+}

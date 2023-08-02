@@ -6,20 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "bbc4RAOiP1A",
-      "title": "Creating The Welcome App in Android - Mastering Android #11"
-    }, {
-      "id": "SZAElsz1_zM",
-      "title": "The Secrets behind Adapters in Android - Mastering Android Course #40"
-    }, {
-      "id": "m_33xFtbta4",
-      "title": "Creating PDF Reader App - Mastering Android Course #39"
-    }, {
-      "id": "WK6u4QYTKJM",
-      "title": "Custom Progress Bar in Android Studio - Mastering Android Course #35"
-    }
+    { "id": "KncS-2bg1JM", "title": "🚀 Mastering Jetpack Compose Course - Building Dynamic User Interfaces" },
+    { "id": "bbc4RAOiP1A", "title": "Creating The Welcome App in Android - Mastering Android #11" }, 
+    { "id": "SZAElsz1_zM", "title": "The Secrets behind Adapters in Android - Mastering Android Course #40" }, 
+    { "id": "m_33xFtbta4", "title": "Creating PDF Reader App - Mastering Android Course #39" }, 
+    { "id": "WK6u4QYTKJM", "title": "Custom Progress Bar in Android Studio - Mastering Android Course #35" }
   ]
 }
-
-

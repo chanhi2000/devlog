@@ -647,8 +647,16 @@ meta:
 
 ## ICT Trainer
 
+<MyYouTubeItems jsonName="yu-icttrainer6889" />
+
 <!-- ICT Trainer -->
 
 ---
+
+## 뉴렉처
+
+<MyYouTubeItems jsonName="yu-newlec1" />
+
+<!-- 뉴렉처 -->
 
 <TagLinks />

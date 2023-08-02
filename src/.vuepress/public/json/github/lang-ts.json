@@ -1159,5 +1159,35 @@
     "desc": "Delightful JavaScript Testing.",
     "topics": ["javascript", "testing", "facebook", "snapshot", "expectation", "easy", "painless-javascript-testing", "immersive", "painless"],
     "officialSite": "https://jestjs.io"
+  }, {
+    "repo": "ueberdosis/tiptap",
+    "desc": "The headless editor framework for web artisans.",
+    "topics": ["react", "javascript", "editor", "vue", "js", "prosemirror", "wysiwyg", "wysiwyg-editor", "rich-text", "hacktoberfest", "renderless-components", "tiptap"],
+    "officialSite": "https://tiptap.dev"
+  }, {
+    "repo": "ueberdosis/hocuspocus",
+    "desc": "The Y.js WebSocket backend",
+    "topics": ["prosemirror", "yjs", "collaborative-editing", "slatejs", "tiptap"],
+    "officialSite": "https://hocuspocus.dev/installation"
+  }, {
+    "repo": "linkwarden/linkwarden",
+    "desc": "A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.",
+    "topics": ["typescript", "nextjs", "collaboration", "self-hosted", "bookmark-manager"],
+    "officialSite": "https://linkwarden.app"
+  }, {
+    "repo": "openstatusHQ/openstatus",
+    "desc": "The open-source status page",
+    "topics": [],
+    "officialSite": "https://openstatus.dev"
+  }, {
+    "repo": "sei-protocol/sei-chain",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "nextui-org/nextui",
+    "desc": "🚀 Beautiful, fast and modern React UI library.",
+    "topics": ["components", "library", "reactjs", "component-library"],
+    "officialSite": "https://nextui.org"
   }
 ]

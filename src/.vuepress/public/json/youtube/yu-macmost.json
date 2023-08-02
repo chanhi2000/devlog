@@ -2,27 +2,17 @@
   "channel": {
     "id": "macmost",
     "name": "macmostvideo",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMie0L5JAipKGGo3CdZub4slk-1aUFxusCPW3neNw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMie0L5JAipKGGo3CdZub4slk-1aUFxusCPW3neNw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AdzNIsIBcntGRGC78QBiYuuCXyvNbct21x14dMfEWl9QiPT1R_GYC-Ph-cujBjiGU6Hk8xABwA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "BHcDxlNTTl8",
-      "title": "Clean Up Your Mac's Dock"
-    }, {
-      "id": "fKjAiPCZevc",
-      "title": "9 Safari Search Tips"
-    }, {
-      "id": "ghZidpnUq4w",
-      "title": "How To Diagnose Battery Drain on a MacBook"
-    }, {
-      "id": "Dxrgh0Myszw",
-      "title": "10 Ways To Use Text Replacements On Your Mac"
-    }, {
-      "id": "BTmZOh1GI3U",
-      "title": "An Introduction To Using Mac Automator"
-    }
+    { "id": "iuCv99QdClg", "title": "Typing Math Symbols and Equations on a Mac" },
+    { "id": "yh9qWFuE-9g", "title": "10 Things You Can Do With Apps In the Dock Besides Launching Them" },
+    { "id": "cBOFwQuGugg", "title": "Complex Batch File Renaming With Shortcuts and Regular Expressions" },    
+    { "id": "BHcDxlNTTl8", "title": "Clean Up Your Mac's Dock" }, 
+    { "id": "fKjAiPCZevc", "title": "9 Safari Search Tips" }, 
+    { "id": "ghZidpnUq4w", "title": "How To Diagnose Battery Drain on a MacBook" }, 
+    { "id": "Dxrgh0Myszw", "title": "10 Ways To Use Text Replacements On Your Mac" }, 
+    { "id": "BTmZOh1GI3U", "title": "An Introduction To Using Mac Automator" }
   ]
 }
-
-
-

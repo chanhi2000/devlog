@@ -2,37 +2,19 @@
   "channel": {
     "id": "TheCodingPapa",
     "name": "The Coding Papa 더코딩파파",
-    "profile": "https://yt3.googleusercontent.com/b7xdeW2nZG-Vea_34Vz0FvcXHXDQ5ucjV9z9qoui5Ed3G7aF7AkXJntP3c0xxGiMs-kuBV8ZXg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/b7xdeW2nZG-Vea_34Vz0FvcXHXDQ5ucjV9z9qoui5Ed3G7aF7AkXJntP3c0xxGiMs-kuBV8ZXg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UZl_Y5ksPFY6C7u4rXUDkKcaYQcxXOkJlYESvkSCzKhBoDit6Iu7B4KI8Ro2gNgmS_mYy-nlnw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "w1fmJOSsNyA",
-      "title": "[ 7시간 | 코딩기초부터 고급까지 ] Flutter 강의 with Provider 그리고 Firebase | Login page | 로그인 페이지"
-    }, {
-      "id": "o7sB_zfhAys",
-      "title": "💯 Dart언어 고급 강의(2) #Dart박살 #Dart언어 #더코딩파파"
-    }, {
-      "id": "ikV-Ub9XgO4",
-      "title": "Provider없이 앱을 만들면 힘들지... #상태관리 #flutter #더코딩파파"
-    }, {
-      "id": "Gy0B0XwUzJA",
-      "title": "[2021] 모바일 앱 기초 by Flutter"
-    }, {
-      "id": "hL_G8aOQHJs",
-      "title": "역시 모바일앱은 애니메이션이 짱이내! [Rive, Flare, Flutter, Bottombar]"
-    }, {
-      "id": "nRsxWt3BWzM",
-      "title": "Dart언어 한시간만에 건너뛰기 ⭐⭐⭐⭐⭐"
-    }, {
-      "id": "3JMjR_ahT44",
-      "title": "Flutter 설치 | Mac OS편 ⭐⭐⭐⭐⭐"
-    }, {
-      "id": "2iWJRAcEsaQ",
-      "title": "Flutter | 플러터 입문 강좌 - 고급 스킬 포함(Bloc, Stream)"
-    }, {
-      "id": "CdWKUFqy0W8",
-      "title": "코딩 효율 10배 강의#chatgpt #프로그래머 #코딩"
-    }
+    { "id": "vVHEHutcC7E", "title": "코드 나눌 때 widget만 사용해야 되나.." },
+    { "id": "w1fmJOSsNyA", "title": "[ 7시간 | 코딩기초부터 고급까지 ] Flutter 강의 with Provider 그리고 Firebase | Login page | 로그인 페이지" }, 
+    { "id": "o7sB_zfhAys", "title": "💯 Dart언어 고급 강의(2) #Dart박살 #Dart언어 #더코딩파파" }, 
+    { "id": "ikV-Ub9XgO4", "title": "Provider없이 앱을 만들면 힘들지... #상태관리 #flutter #더코딩파파" }, 
+    { "id": "Gy0B0XwUzJA", "title": "[2021] 모바일 앱 기초 by Flutter" }, 
+    { "id": "hL_G8aOQHJs", "title": "역시 모바일앱은 애니메이션이 짱이내! [Rive, Flare, Flutter, Bottombar]" }, 
+    { "id": "nRsxWt3BWzM", "title": "Dart언어 한시간만에 건너뛰기 ⭐⭐⭐⭐⭐" }, 
+    { "id": "3JMjR_ahT44", "title": "Flutter 설치 | Mac OS편 ⭐⭐⭐⭐⭐" }, 
+    { "id": "2iWJRAcEsaQ", "title": "Flutter | 플러터 입문 강좌 - 고급 스킬 포함(Bloc, Stream)" }, 
+    { "id": "CdWKUFqy0W8", "title": "코딩 효율 10배 강의#chatgpt #프로그래머 #코딩" }
   ]
 }
-

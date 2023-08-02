@@ -137,4 +137,15 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 <!-- PyData -->
 
+---
+
+## b001
+
+<MyYouTubeItems jsonName="yu-b001" />
+
+
+<!-- b001 -->
+
+---
+
 <TagLinks />

@@ -6,14 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/IgduIAmIDHD9GU-aTw3tX30EuQ7I3SzzQsBXg16bRJhFzLFyK_seScuVB8tQoU9TK5UytpEltg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "cSM2Tt3OCm4",
-      "title": "TUTORIAL SPRING CONFIG PROPERTIES (BAHASA INDONESIA)"
-    }, {
-      "id": "J3YeD3km68g",
-      "title": "TUTORIAL KOTLIN RESTFUL API BAHASA INDONESIA"
-    }
+    { "id": "iEeveYoD0SA", "title": "TUTORIAL POSTGRESQL DATABASE (BAHASA INDONESIA)" },
+    { "id": "cSM2Tt3OCm4", "title": "TUTORIAL SPRING CONFIG PROPERTIES (BAHASA INDONESIA)" }, 
+    { "id": "J3YeD3km68g", "title": "TUTORIAL KOTLIN RESTFUL API BAHASA INDONESIA" }
   ]
 }
-
-

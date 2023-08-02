@@ -499,6 +499,21 @@
     "desc": "Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍",
     "topics": ["javascript", "python", "search", "java", "swift", "rust", "golang", "search-engine", "database", "cpp", "webassembly", "wolfram", "cpp11", "simd", "approximate-nearest-neighbor-search", "similarity-search", "kann", "faiss", "vector-search"],
     "officialSite": "https://unum-cloud.github.io/usearch"
+  }, {
+    "repo": "OpenNMT/CTranslate2",
+    "desc": "Fast inference engine for Transformer models",
+    "topics": ["deep-neural-networks", "deep-learning", "cpp", "neon", "machine-translation", "openmp", "parallel-computing", "cuda", "inference", "avx", "intrinsics", "avx2", "neural-machine-translation", "opennmt", "quantization", "gemm", "mkl", "thrust", "transformer-models", "onednn"],
+    "officialSite": "https://opennmt.net/CTranslate2"
+  }, {
+    "repo": "lcompilers/lpython",
+    "desc": "Python compiler",
+    "topics": ["python", "compiler", "high-performance"],
+    "officialSite": "https://lpython.org"
+  }, {
+    "repo": "apache/arrow",
+    "desc": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
+    "topics": ["arrow"],
+    "officialSite": "https://arrow.apache.org"
   }
 ]
 

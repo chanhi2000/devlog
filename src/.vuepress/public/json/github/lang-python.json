@@ -2183,5 +2183,45 @@
     "desc": "An AI personal assistant for your digital brain",
     "topics": ["chat", "markdown", "productivity", "ai", "emacs", "personal-assistant", "org-mode", "semantic-search", "obsidian-md", "sentence-transformer", "llm", "chatgpt"],
     "officialSite": "https://khoj.dev"
+  }, {
+    "repo": "netbox-community/netbox",
+    "desc": "The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "topics": ["python", "network", "sysadmin", "infrastructure-management", "network-automation", "netbox", "ipam", "dcim", "cabling", "sot"],
+    "officialSite": "https://netbox.dev"
+  }, {
+    "repo": "jiawen-zhu/HQTrack",
+    "desc": "Tracking Anything in High Quality",
+    "topics": ["object-tracking", "object-segmentation", "tracking-anything"],
+    "officialSite": ""
+  }, {
+    "repo": "Manisso/fsociety",
+    "desc": "fsociety Hacking Tools Pack – A Penetration Testing Framework",
+    "topics": ["python", "network", "desktop", "finder", "brute-force-attacks", "post-exploitation", "exploitation", "port-scanning", "information-gathering", "web-hacking", "fsociety", "penetration-testing-framework", "fsociety-hacking"],
+    "officialSite": ""
+  }, {
+    "repo": "hegelai/prompttools",
+    "desc": "Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).",
+    "topics": ["python", "machine-learning", "deep-learning", "embeddings", "developer-tools", "vector-search", "large-language-models", "prompt-engineering", "llms"],
+    "officialSite": "http://prompttools.readthedocs.io"
+  }, {
+    "repo": "Alpha-VLLM/LLaMA2-Accessory",
+    "desc": "An Open-source Toolkit for LLM Development",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ymcui/Chinese-LLaMA-Alpaca-2",
+    "desc": "中文LLaMA-2 & Alpaca-2大语言模型 (Chinese LLaMA-2 & Alpaca-2 LLMs)",
+    "topics": ["nlp", "llama", "alpaca", "pre-trained-language-models", "large-language-models", "llm", "flash-attention", "llama-2", "alpaca-2"],
+    "officialSite": ""
+  }, {
+    "repo": "ultralytics/ultralytics",
+    "desc": "NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite",
+    "topics": ["tracking", "machine-learning", "deep-learning", "hub", "pytorch", "yolo", "image-classification", "object-detection", "pose", "yolov3", "yolov5", "ultralytics", "yolov8"],
+    "officialSite": "https://docs.ultralytics.com"
+  }, {
+    "repo": "reflex-dev/reflex",
+    "desc": "🕸 Web apps in pure Python 🐍",
+    "topics": ["python", "open-source", "framework", "python-library", "webdev", "webdevelopment"],
+    "officialSite": "https://reflex.dev"
   }
 ]

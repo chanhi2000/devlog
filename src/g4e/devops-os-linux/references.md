@@ -55,4 +55,11 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Medium
+
+- [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
+
+---
+
+
 <TagLinks />

@@ -44,5 +44,15 @@
     "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
     "topics": ["pdf", "download", "ebooks", "new-yorker", "economist", "economist-ebooks"],
     "officialSite": ""
+  }, {
+    "repo": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games",
+    "topics": ["basic", "classic-game", "basic-computer-games"],
+    "officialSite": ""
   }
 ]

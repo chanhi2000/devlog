@@ -145,6 +145,24 @@ tags: ["java", "baeldung"]
 
 ---
 
+## niee
+
+- [10. spring security 권한 없는 사용자 접근시 처리 방법](https://niees.tistory.com/21)
+
+---
+
+## Incheol's TECH BLOG
+
+- [CHAP 16. 스프링 부트 액추에이터 사용하기](https://incheol-jung.gitbook.io/docs/study/srping-in-action-5th/chap-16.)
+
+---
+
+## OpenJDK
+
+- [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
+
+---
+
 ## Misc
 
 - [Task (2) - taskAffinity](https://parkho79.tistory.com/42)
