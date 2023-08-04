@@ -361,6 +361,26 @@ export const navbarEn: NavbarConfig = [
           }
         ]
       }, {
+        text: '🔺Red Hat Container Tools',
+        children: [
+          {
+            text: 'Intro',
+            link: '/crashcourse/red-hat-container-tools/README.md',
+          }, {
+            text: '1. Using the Fast and Stable Streams',
+            link: '/crashcourse/red-hat-container-tools/01.md',
+          }, {
+            text: '2. Podman - Familiar Territory',
+            link: '/crashcourse/red-hat-container-tools/02.md',
+          }, {
+            text: '3. Buildah - Granularity & Control',
+            link: '/crashcourse/red-hat-container-tools/03.md',
+          }, {
+            text: '4. Skopeo - Moving & Sharing',
+            link: '/crashcourse/red-hat-container-tools/04.md',
+          }
+        ]
+      }, {
         text: '☕️Java8 in Action',
         children: [
           {

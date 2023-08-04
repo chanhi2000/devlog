@@ -478,4 +478,12 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
+## Open Source Consulting - 오픈소스컨설팅
+
+<MyYouTubeItems jsonName="yu-opensourceconsulting-7382" />
+
+<!-- Open Source Consulting - 오픈소스컨설팅 -->
+
+--- 
+
 <TagLinks />

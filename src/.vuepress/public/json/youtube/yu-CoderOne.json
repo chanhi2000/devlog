@@ -2,41 +2,20 @@
   "channel": {
     "id": "CoderOne",
     "name": "CoderOne",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMrDexHuRsRbs5nPkuPbzsYov77puVFEemCfv2iAw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMrDexHuRsRbs5nPkuPbzsYov77puVFEemCfv2iAw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cESZ9qnZaMe9-o1jCD2QQVPgeHUdndTurh2UUSe3WGD5drCH7KrEIrtbrJyqLA_BhoYgAPTAaA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "OEDE9KqQCkg",
-      "title": "React Naming Conventions You should follow as a Junior Developer - clean-code"
-    }, {
-      "id": "zOhiwqmFvfY",
-      "title": "Rust is the Perfect language For You"
-    }, {
-      "id": "YaHnww6I5Y8",
-      "title": "Stop Doing this as a React Developer"
-    }, {
-      "id": "ZXW6Jn6or1w",
-      "title": "ESLint with VSCode, Prettier, Husky and React For Beginners"
-    }, {
-      "id": "FzufaOUdA10",
-      "title": "ASP.NET Producer for Apache Kafka - 2022 Edition [Multiple partitions and ASP.NET Producer]"
-    }, {
-      "id": "d1E31WPR70g",
-      "title": "Why I Switched From NPM/Yarn to PNPM And Why You Should Too!"
-    }, {
-      "id": "juUaJpMd2LE",
-      "title": "Create an Elegant Login and Register Form on React"
-    }, {
-      "id": "4ELH8CT4J0A",
-      "title": "Full MERN Website React Nodejs w/ GraphQL Tailwind and Docker From Zero To Deployment + GIVEAWAY"
-    }, {
-      "id": "FMixtV7Kidw",
-      "title": "Mocking APIs The Right Way - No More Postman"
-    }, {
-      "id": "zOhiwqmFvfY",
-      "title": "Rust is the Perfect language For You"
-    }
+    { "id": "o_7wgRHBzeA", "title": "This is Why You Can't Render React Hooks Conditionally" },   
+    { "id": "OEDE9KqQCkg", "title": "React Naming Conventions You should follow as a Junior Developer - clean-code" }, 
+    { "id": "zOhiwqmFvfY", "title": "Rust is the Perfect language For You" }, 
+    { "id": "YaHnww6I5Y8", "title": "Stop Doing this as a React Developer" }, 
+    { "id": "ZXW6Jn6or1w", "title": "ESLint with VSCode, Prettier, Husky and React For Beginners" }, 
+    { "id": "FzufaOUdA10", "title": "ASP.NET Producer for Apache Kafka - 2022 Edition [Multiple partitions and ASP.NET Producer]" }, 
+    { "id": "d1E31WPR70g", "title": "Why I Switched From NPM/Yarn to PNPM And Why You Should Too!" }, 
+    { "id": "juUaJpMd2LE", "title": "Create an Elegant Login and Register Form on React" }, 
+    { "id": "4ELH8CT4J0A", "title": "Full MERN Website React Nodejs w/ GraphQL Tailwind and Docker From Zero To Deployment + GIVEAWAY" }, 
+    { "id": "FMixtV7Kidw", "title": "Mocking APIs The Right Way - No More Postman" }, 
+    { "id": "zOhiwqmFvfY", "title": "Rust is the Perfect language For You" }
   ]
 }
-
-

@@ -1,4 +1,4 @@
-b---
+---
 lang: ko-KR
 title: 📚References
 description: 🦕C > 📚References
@@ -72,6 +72,12 @@ tags: ["c", "llvm"]
 ## Blog needs a name
 
 - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo)
+
+---
+
+## Proper Fixation
+
+- [My history with Forth & stack machines](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 
 ---
 

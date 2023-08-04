@@ -81,4 +81,10 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Hirrolot's Blog
+
+- [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
+
+---
+
 <TagLinks />

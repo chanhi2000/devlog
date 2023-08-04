@@ -324,5 +324,10 @@
     "desc": "A colab gradio web UI for running Large Language Models",
     "topics": ["colab", "llama", "gradio", "koala", "llamas", "alpaca", "lama", "colaboratory", "colab-notebook", "vicuna", "llm"],
     "officialSite": ""
+  }, {
+    "repo": "guochengqian/Magic123",
+    "desc": "Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors",
+    "topics": ["3d-generation", "diffusion-models", "image-to-3d"],
+    "officialSite": "https://guochengqian.github.io/project/magic123"
   }
 ]

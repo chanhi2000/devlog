@@ -2210,7 +2210,7 @@
     "officialSite": ""
   }, {
     "repo": "ymcui/Chinese-LLaMA-Alpaca-2",
-    "desc": "中文LLaMA-2 & Alpaca-2大语言模型 (Chinese LLaMA-2 & Alpaca-2 LLMs)",
+    "desc": "中文 LLaMA-2 & Alpaca-2 大模型二期项目 (Chinese LLaMA-2 & Alpaca-2 LLMs)",
     "topics": ["nlp", "llama", "alpaca", "pre-trained-language-models", "large-language-models", "llm", "flash-attention", "llama-2", "alpaca-2"],
     "officialSite": ""
   }, {
@@ -2223,5 +2223,55 @@
     "desc": "🕸 Web apps in pure Python 🐍",
     "topics": ["python", "open-source", "framework", "python-library", "webdev", "webdevelopment"],
     "officialSite": "https://reflex.dev"
+  }, {
+    "repo": "OpenBMB/ToolBench",
+    "desc": "An open platform for training, serving, and evaluating large language model for tool learning.",
+    "topics": [],
+    "officialSite": "https://openbmb.github.io/ToolBench"
+  }, {
+    "repo": "nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "topics": ["machine-learning", "computer-vision", "deep-learning", "pytorch", "photogrammetry", "nerf", "3d", "3d-reconstruction", "3d-graphics"],
+    "officialSite": "https://docs.nerf.studio"
+  }, {
+    "repo": "ErwannMillon/Color-diffusion",
+    "desc": "A diffusion model to colorize black and white images",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "musabgultekin/functionary",
+    "desc": "Chat language model that can interpret and execute functions/plugins",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "tinygrad/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "QwenLM/Qwen-7B",
+    "desc": "The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.",
+    "topics": ["natural-language-processing", "chinese", "pretrained-models", "large-language-models", "llm", "flash-attention"],
+    "officialSite": ""
+  }, {
+    "repo": "jupyterlab/jupyter-ai",
+    "desc": "A generative AI extension for JupyterLab",
+    "topics": ["jupyter", "jupyterlab", "jupyterlab-extension", "generative-ai"],
+    "officialSite": "https://jupyter-ai.readthedocs.io"
+  }, {
+    "repo": "kuafuai/DevOpsGPT",
+    "desc": "Multi agent system for AI-driven software development. Convert natural language requirements into working software. Supports any development language and extends the existing base code.",
+    "topics": [],
+    "officialSite": "http://www.kuafuai.net"
+  }, {
+    "repo": "xorbitsai/inference",
+    "desc": "Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.",
+    "topics": ["machine-learning", "deployment", "inference", "pytorch", "artificial-intelligence", "whisper", "openai-api", "llm", "flan-t5", "chatglm", "ggml", "wizardlm", "chatglm2", "llama2"],
+    "officialSite": ""
+  }, {
+    "repo": "diogocapela/flatdraw",
+    "desc": "A simple canvas drawing web app with responsive UI. Made with TypeScript, React, and Next.js.",
+    "topics": ["react", "typescript", "canvas", "nextjs"],
+    "officialSite": "https://flatdraw.com"
   }
 ]

@@ -99,6 +99,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## INSIGNIFICANT BITS
+
+- [goto in bash](https://bobcopeland.com/blog/2012/10/goto-in-bash)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

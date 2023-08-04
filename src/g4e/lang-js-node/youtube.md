@@ -1227,4 +1227,21 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Max Programming
+
+<MyYouTubeItems jsonName="yu-MaxProgramming" />
+
+<!-- Max Programming -->
+
+---
+
+## CoderOne
+
+<MyYouTubeItems jsonName="yu-CoderOne" />
+
+<!-- CoderOne -->
+
+---
+
+
 <TagLinks />

@@ -186,4 +186,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## The Morpheus Tutorials
+
+<MyYouTubeItems jsonName="yu-TheMorpheusTutorials" />
+
+<!-- The Morpheus Tutorials -->
+
+---
+
 <TagLinks />

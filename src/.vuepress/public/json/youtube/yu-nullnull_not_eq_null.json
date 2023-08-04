@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "nullnull_not_eq_null",
+    "name": "널널한 개발자 TV",
+    "profile": "https://yt3.googleusercontent.com/ZKmVREHaoFxujPq6xBGr8ZqpKUBxo50sm8habzgcjRgqFRVTiesLbR0RlKV3Jc0978AvMpBE4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VcrjriygyYu8arXpagf9kXTOZzJI73fg9Vhp62YHPFM2lh07_65LKf87kJCKzOHfUYBnEg5l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GJwz6CfyrLE", "title": "C/C++ 임베디드 시스템 개발사 면접 질문 2가지에 대한 문의와 주관적 답변" }, 
+    { "id": "w4Ljwcubq9g", "title": "보안전문가를 희망하는 고스펙 닌자꼬부기님 진로 관련 상담에 대한 답변" }, 
+    { "id": "-DI0mHOB5Qc", "title": "당근마켓 백엔드 개발자 영입정보에 대한  C/C++ 개발자의 추측성 해설" }, 
+    { "id": "Nk5JjnQUtI0", "title": "C/C++ 개발자가 바라 본  프로그래밍 언어 JAVA" }, 
+    { "id": "tMmSHlbDhS4", "title": "JAVA 공부 시작에 앞서..." }, 
+    { "id": "v1gb397uFC4", "title": "가비지 컬렉터의 원리? 과연 그것만 물은 걸까요?" }, 
+    { "id": "CAQM8iYbA_4", "title": "IT전문가라면 반드시 알아야 할 네트워크 보안 종류#1" }, 
+    { "id": "CzJl3U7ds7o", "title": "공유기를 뒤집으면(?) 부하분산 장치" }, 
+    { "id": "7BvzxbG4y3Y", "title": "알아두면 개발자 인생 업그레이드되는 공유기 작동원리" }    
+  ]
+}

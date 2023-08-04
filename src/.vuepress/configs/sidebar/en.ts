@@ -57,6 +57,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-pwsh/README.md',
         '/g4e/cli-pwsh/basics.md',
         '/g4e/cli-pwsh/scripts-manage-computer.md',
+        '/g4e/cli-pwsh/scripts-for-desktop.md',
         '/g4e/cli-pwsh/tips.md',
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',
@@ -543,7 +544,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-oracle/youtube.md',
       ]
     }, {
-      text: '❇️Cubrid',
+      text: '🧊Cubrid',
       collapsible: true,
       children: [
         '/g4e/db-cubrid/README.md',
@@ -822,6 +823,16 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/paul-hudson-swiftui-by-example/README.md',
+      ]
+    }, {
+      text: '🔺Red Hat Container Tools',
+      collapsible: true,
+      children: [
+        '/crashcourse/red-hat-container-tools/README.md',
+        '/crashcourse/red-hat-container-tools/01.md',
+        '/crashcourse/red-hat-container-tools/02.md',
+        '/crashcourse/red-hat-container-tools/03.md',
+        '/crashcourse/red-hat-container-tools/04.md'
       ]
     }, {
       text: '☕️Java8 in Action',

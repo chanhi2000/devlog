@@ -2,42 +2,21 @@
   "channel": {
     "id": "christianlempa",
     "name": "Christian Lempa",
-    "profile": "https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/a4dSkp9F7UvxRWb0Dc81cSfsTuXGlCv59O9ljd5AE-RLzHGZJ5Np_0V9Ign0S_1PbjnD5jW5oA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "tIazVdhsSqQ", 
-      "title": "The BEST Home Server Uptime Monitoring!"
-    }, {
-      "id": "tIWDpG7sNTU", 
-      "title": "Let's learn GitHub Actions in a self-hosted Homelab!"
-    }, {
-      "id": "xWz_-gyv3j4", 
-      "title": "What's the BEST home server operating system?"
-    }, {
-      "id": "syzwLwE3Xq4", 
-      "title": "You want a real DNS Server at home? (bind9 + docker)"
-    }, {
-      "id": "cEDXeYStfP4", 
-      "title": "Self hosted, open source password manager built for teams!"
-    }, {
-      "id": "NfggT5enF4o", 
-      "title": "New *incredible* mac OS terminal! (warp + starship + zsh)"
-    }, {
-      "id": "Yb3_4PZX0B0", 
-      "title": "Let's do GitOps in Kubernetes! ArgoCD Tutorial"
-    }, {
-      "id": "xWz_-gyv3j4", 
-      "title": "What's the BEST home server operating system?"
-    }, {
-      "id": "yMmxw-DZ5Ec", 
-      "title": "How to use Cloudflare Tunnel in your Homelab (even with Traefik)"
-    }, {
-      "id": "MUDjd44t2GE", 
-      "title": "Installing a Windows Server in my Homelab, am I crazy?"
-    }, {
-      "id": "n-fAf2mte6M", 
-      "title": "Docker vs Kubernetes, what's better in a Homelab?"
-    }
+    { "id": "NyOSoLn5T5U", "title": "This web UI for Ansible is so damn useful!" },
+    { "id": "tIazVdhsSqQ",  "title": "The BEST Home Server Uptime Monitoring!" }, 
+    { "id": "tIWDpG7sNTU",  "title": "Let's learn GitHub Actions in a self-hosted Homelab!" }, 
+    { "id": "xWz_-gyv3j4",  "title": "What's the BEST home server operating system?" }, 
+    { "id": "syzwLwE3Xq4",  "title": "You want a real DNS Server at home? (bind9 + docker)" }, 
+    { "id": "cEDXeYStfP4",  "title": "Self hosted, open source password manager built for teams!" }, 
+    { "id": "NfggT5enF4o",  "title": "New *incredible* mac OS terminal! (warp + starship + zsh)" }, 
+    { "id": "Yb3_4PZX0B0",  "title": "Let's do GitOps in Kubernetes! ArgoCD Tutorial" }, 
+    { "id": "xWz_-gyv3j4",  "title": "What's the BEST home server operating system?" }, 
+    { "id": "yMmxw-DZ5Ec",  "title": "How to use Cloudflare Tunnel in your Homelab (even with Traefik)" }, 
+    { "id": "MUDjd44t2GE",  "title": "Installing a Windows Server in my Homelab, am I crazy?" }, 
+    { "id": "n-fAf2mte6M",  "title": "Docker vs Kubernetes, what's better in a Homelab?" }
   ]
 }

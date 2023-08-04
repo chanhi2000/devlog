@@ -5,12 +5,7 @@
     "profile": "https://yt3.googleusercontent.com/5tbNEN4mSD0NC1vWGWPX1Y4YSEPVEUhuXTM9eSW4Prb_m-TUW1f9NBpAVLVLHWwx2-ob9DpnCA=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
-    {
-      "id": "0eu9ny1Z8j0",
-      "title": "데이터 엔지니어가 백엔드부터 배워야 하는 이유ㅣ4년차 현직자의 솔직한 조언"
-    }, {
-      "id": "YaCQrJCgbqg",
-      "title": "통계 기초 개념과 공식을 3시간만에 끝내드립니다ㅣ 고려대 통계학과 x AI연구원 강의 ㅣ표본, 기대값, 정규분포, 카이제곱, 모평균, t분포, 포아송분포, 조건부 확률 등"
-    }
+    { "id": "0eu9ny1Z8j0", "title": "데이터 엔지니어가 백엔드부터 배워야 하는 이유ㅣ4년차 현직자의 솔직한 조언" }, 
+    { "id": "YaCQrJCgbqg", "title": "통계 기초 개념과 공식을 3시간만에 끝내드립니다ㅣ 고려대 통계학과 x AI연구원 강의 ㅣ표본, 기대값, 정규분포, 카이제곱, 모평균, t분포, 포아송분포, 조건부 확률 등" } 
   ]
 }

@@ -4,5 +4,10 @@
     "desc": "Free, ultrafast Copilot alternative for Vim and Neovim",
     "topics": ["javascript", "ruby", "python", "vim", "go", "editor", "rust", "golang", "autocomplete", "typescript", "extension", "neovim", "ide", "copilot", "codeium"],
     "officialSite": "https://www.codeium.com"
+  }, {
+    "repo": "vim/vim",
+    "desc": "The official Vim repository",
+    "topics": ["c", "vim", "cross-platform", "text-editor"],
+    "officialSite": "https://www.vim.org"
   }
 ]

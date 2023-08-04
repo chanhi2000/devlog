@@ -58,8 +58,13 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 ## Medium
 
 - [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
+- [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 
 ---
+
+## xnacly
+
+- [Linux guide for power users](https://xnacly.me/posts/2022/linux-for-powerusers)
 
 
 <TagLinks />

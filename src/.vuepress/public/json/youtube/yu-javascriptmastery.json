@@ -2,74 +2,31 @@
   "channel": {
     "id": "javascriptmastery",
     "name": "Javascript Mastery",
-    "profile": "https://yt3.googleusercontent.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kvYtOOlIxxS5m5nZ7d3EVznB86-hmUlCq-0s_TJHt1uS8eehxj-wEV1aU6vQcFtiQoPAqdQ-=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "QRrPE9aj3wI",
-      "title": "Build and Deploy a Responsive Website | Beginner HTML CSS Tutorial on How to Make a&nbsp;Website&nbsp;in&nbsp;2023"
-    }, {
-      "id": "wm5gMKuwSYk",
-      "title": "Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework"
-    }, {
-      "id": "dyFVwXROzZk",
-      "title": "Build and Deploy 3 Modern React API Applications in 8 Hours - Full Course | RapidAPI"
-    }, {
-      "id": "F627pKNUCVQ",
-      "title": "Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course"
-    }, {
-      "id": "C9ctoK4M9Bk",
-      "title": "Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course"
-    }, {
-      "id": "y47gYvXchXM",
-      "title": "Build and Deploy a Modern Real Estate App | React Website Tutorial"
-    }, {
-      "id": "pU6WZLNthKo",
-      "title": "Buildkit: A New Docker Builder"
-    }, {
-      "id": "UKdQjQX1Pko",
-      "title": "Build and Deploy a Google Maps Travel Companion Application | React.js"
-    }, {
-      "id": "OPaLnMw2i_0",
-      "title": "Build and Deploy THE PERFECT Portfolio Website | Create a Portfolio from Scratch"
-    }, {
-      "id": "jcOKU9f86XE",
-      "title": "Chat Application using React JS - Build and Deploy a Chat App in 1 Hour (Microsoft Teams)"
-    }, {
-      "id": "377AQ0y6LPA",
-      "title": "ECommerce Web Shop - Build & Deploy an Amazing App | React.js, Commerce.js, Stripe"
-    }, {
-      "id": "y-Qj4vRrwv4",
-      "title": "JavaScript Algorithms for Beginners"
-    }, {
-      "id": "aS4a6Gv2B-s",
-      "title": "Covid-19 Status Desktop Widget | JavaFX Tutorial 4/5 | Finishing the Application Development"
-    }, {
-      "id": "ZwFA3YMfkoc",
-      "title": "Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js"
-    }, {
-      "id": "khJlrj3Y6Ls",
-      "title": "Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)"
-    }, {
-      "id": "mJ3bGvy0WAY",
-      "title": "Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners"
-    }, {
-      "id": "0fYi8SGA20k",
-      "title": "Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial"
-    }, {
-      "id": "k4lHXIzCEkM",
-      "title": "Build and Deploy a Full Stack MERN Application With CRUD, Auth, and Charts Using Refine"
-    }, {
-      "id": "0fYi8SGA20k",
-      "title": "Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial"
-    }, {
-      "id": "ZqEa8fTxypQ",
-      "title": "Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners"
-    }, {
-      "id": "LYWgPSbPDfQ",
-      "title": "Full Stack MERN Project - Pagination & Search | React + Redux, Node, Express, MongoDB"
-    }
+    { "id": "AHtSIP-pRL4", "title": "Build and Deploy a Fully Responsive Next.js 13 App 10x Faster with an AI Tool" },
+    { "id": "QRrPE9aj3wI", "title": "Build and Deploy a Responsive Website | Beginner HTML CSS Tutorial on How to Make a Website in 2023" }, 
+    { "id": "wm5gMKuwSYk", "title": "Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework" }, 
+    { "id": "dyFVwXROzZk", "title": "Build and Deploy 3 Modern React API Applications in 8 Hours - Full Course | RapidAPI" }, 
+    { "id": "F627pKNUCVQ", "title": "Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course" }, 
+    { "id": "C9ctoK4M9Bk", "title": "Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course" }, 
+    { "id": "y47gYvXchXM", "title": "Build and Deploy a Modern Real Estate App | React Website Tutorial" }, 
+    { "id": "pU6WZLNthKo", "title": "Buildkit: A New Docker Builder" }, 
+    { "id": "UKdQjQX1Pko", "title": "Build and Deploy a Google Maps Travel Companion Application | React.js" }, 
+    { "id": "OPaLnMw2i_0", "title": "Build and Deploy THE PERFECT Portfolio Website | Create a Portfolio from Scratch" }, 
+    { "id": "jcOKU9f86XE", "title": "Chat Application using React JS - Build and Deploy a Chat App in 1 Hour (Microsoft Teams)" }, 
+    { "id": "377AQ0y6LPA", "title": "ECommerce Web Shop - Build & Deploy an Amazing App | React.js, Commerce.js, Stripe" }, 
+    { "id": "y-Qj4vRrwv4", "title": "JavaScript Algorithms for Beginners" }, 
+    { "id": "aS4a6Gv2B-s", "title": "Covid-19 Status Desktop Widget | JavaFX Tutorial 4/5 | Finishing the Application Development" }, 
+    { "id": "ZwFA3YMfkoc", "title": "Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js" }, 
+    { "id": "khJlrj3Y6Ls", "title": "Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)" }, 
+    { "id": "mJ3bGvy0WAY", "title": "Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners" }, 
+    { "id": "0fYi8SGA20k", "title": "Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial" }, 
+    { "id": "k4lHXIzCEkM", "title": "Build and Deploy a Full Stack MERN Application With CRUD, Auth, and Charts Using Refine" }, 
+    { "id": "0fYi8SGA20k", "title": "Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial" }, 
+    { "id": "ZqEa8fTxypQ", "title": "Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners" }, 
+    { "id": "LYWgPSbPDfQ", "title": "Full Stack MERN Project - Pagination & Search | React + Redux, Node, Express, MongoDB" }
   ]
 }
-
-

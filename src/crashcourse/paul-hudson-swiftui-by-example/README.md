@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: Intro
-description: SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques giving you almost 600 pages of hands-on code to help you build apps, solve problems, and understand how SwiftUI really works.
+description: 🕊️SwiftUI by Example
 tags: ["crashcourse", "swift" , "paul-hudson" , "swiftui", "xcode", "appstore"]
 meta:
-  - name: SwiftUI by Example
-    content: SwiftUI by Example
+  - name: 🕊️SwiftUI by Example
+    content: 🕊️SwiftUI by Example
   - property: og:title
-    content: SwiftUI by Example
+    content: 🕊️SwiftUI by Example
   - property: og:description
-    content: SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques giving you almost 600 pages of hands-on code to help you build apps, solve problems, and understand how SwiftUI really works.
+    content: Intro
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/swiftui-by-example
 ---

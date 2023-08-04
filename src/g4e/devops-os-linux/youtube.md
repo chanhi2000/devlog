@@ -235,8 +235,6 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <YoutubeItem channelName="한빛미디어" channelId="HanbitMedia93" id="Li2HNk5kjqg" title="[리눅스 기초 강의] 30강. 5.2 X 윈도 응용 프로그램(VLC, Foxit Reader)" />
 :::
 
-
-
 ---
 
 ## Christian Lempa
@@ -435,6 +433,14 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-TheLinuxCast" />
 
 <!-- The Linux Cast -->
+
+---
+
+## LINUXtips
+
+<MyYouTubeItems jsonName="yu-LinuxTips" />
+
+<!-- LINUXtips -->
 
 ---
 

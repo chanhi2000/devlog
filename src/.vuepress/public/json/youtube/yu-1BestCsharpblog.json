@@ -2,46 +2,26 @@
   "channel": {
     "id": "1BestCsharpblog",
     "name": "1BestCsharp blog",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMa94T0b0h9kPBBpz2uNDpwbIkWaIxxMFOFHh4vDw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMa94T0b0h9kPBBpz2uNDpwbIkWaIxxMFOFHh4vDw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gEUlICP3CaaLmPvgyx3rPY7X7_ForGRKbiM3IL8o707DRmBoI6ILk5jrnC3x2wHNLKefEEU0Dg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "KDxepjqSSgU",
-      "title": "C# - How To Design Form In C# Using Panels [ with source code ]" 
-    }, {
-      "id": "_YiqSFBPkWs",
-      "title": "C# - How to Calculate Percentage In MySQL DataBase Using C# [ with source code ]" 
-    }, {
-      "id": "LWf7NFVwf-I",
-      "title": "JavaScript - Creating a Digital Clock using HTML, CSS, and JavaScript [With Source Code]" 
-    }, {
-      "id": "CM4JE0xbS0Y",
-      "title": "JAVA - How To Design Form In Java Netbeans Using JPanels"
-    }, {
-      "id": "AKgvpj-oDQQ",
-      "title": "Java Tutorial - How To Populate JCombobx From Arraylist In Java NetBeans"
-    }, {
-      "id": "XDdk_DgFBoc",
-      "title": "VB.Net - How To Clear The Text Of All TextBoxes In The Form Using VB.Net [ with source code ]"
-    }, {
-      "id": "S5sCjL799MU",
-      "title": "VB.Net Tutorial - How to Count Words in a TextBox Using VB.Net | With Source Code"
-    }, {
-      "id": "0uVaS7Umwro",
-      "title": "Java Project Tutorial - Create a Car Rental Management System Using Java And MySQL - Part 3"
-    }, {
-      "id": "MlWe9Rgrc7c",
-      "title": "VB.Net Project Tutorial - Create a Real Estate Management System Project In VB.Net [ Part 6 ]"
-    }, {
-      "id": "m9BuiMcwqCY",
-      "title": "VB.Net Project Tutorial - Create a Real Estate Management System Project In VB.Net [ Part 5 ]"
-    }, {
-      "id": "6aYNbOvDe6s",
-      "title": "C# Project Tutorial - Create a Real Estate Management System Project In C# [ Part 8 ]"
-    }, {
-      "id": "Hrg-08vdnI4",
-      "title": "# Project Tutorial - Create a Real Estate Management System Project In C# [ Part 4 ]"
-    }    
+    { "id": "INtpnoNNsKs", "title": "C# - How To Create Images SlideShow From MySQL Database In C# [with source code]" },
+    { "id": "zRECf4uz-DE", "title": "PHP Tutorial - How To Draw Chess Board In PHP [ With Source Code ]" },
+    { "id": "KdVjhiGzNwk", "title": "JAVA - How To Create Images SlideShow From MySQL Database In Java NetBeans [with source code]" },    
+    { "id": "KDxepjqSSgU", "title": "C# - How To Design Form In C# Using Panels [ with source code ]"  }, 
+    { "id": "_YiqSFBPkWs", "title": "C# - How to Calculate Percentage In MySQL DataBase Using C# [ with source code ]"  }, 
+    { "id": "LWf7NFVwf-I", "title": "JavaScript - Creating a Digital Clock using HTML, CSS, and JavaScript [With Source Code]"  }, 
+    { "id": "CM4JE0xbS0Y", "title": "JAVA - How To Design Form In Java Netbeans Using JPanels" }, 
+    { "id": "AKgvpj-oDQQ", "title": "Java Tutorial - How To Populate JCombobx From Arraylist In Java NetBeans" }, 
+    { "id": "XDdk_DgFBoc", "title": "VB.Net - How To Clear The Text Of All TextBoxes In The Form Using VB.Net [ with source code ]" }, 
+    { "id": "S5sCjL799MU", "title": "VB.Net Tutorial - How to Count Words in a TextBox Using VB.Net | With Source Code" }, 
+    { "id": "0uVaS7Umwro", "title": "Java Project Tutorial - Create a Car Rental Management System Using Java And MySQL - Part 3" }, 
+    { "id": "MlWe9Rgrc7c", "title": "VB.Net Project Tutorial - Create a Real Estate Management System Project In VB.Net [ Part 6 ]" }, 
+    { "id": "m9BuiMcwqCY", "title": "VB.Net Project Tutorial - Create a Real Estate Management System Project In VB.Net [ Part 5 ]" }, 
+    { "id": "6aYNbOvDe6s", "title": "C# Project Tutorial - Create a Real Estate Management System Project In C# [ Part 8 ]" }, 
+    { "id": "Hrg-08vdnI4", "title": "# Project Tutorial - Create a Real Estate Management System Project In C# [ Part 4 ]" }  
+
   ]
 }
 

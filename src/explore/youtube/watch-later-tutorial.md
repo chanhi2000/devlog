@@ -18,7 +18,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <MyYouTubeItems jsonName="yu-freecodecamp" />
 
 <!-- FreeCodeCamp.org -->
-
 ---
 
 ## ThePrimeagen
@@ -316,6 +315,22 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <!-- LinkedIn Learning -->
 
 ---
+
+## 널널한 개발자 TV
+
+<MyYouTubeItems jsonName="yu-nullnull_not_eq_null" />
+
+<!-- 널널한 개발자 TV -->
+
+---
+
+## jinu jawad m
+
+<MyYouTubeItems jsonName="yu-jinujawad" />
+
+<!-- jinu jawad m -->
+
+--- 
 
 <TagLinks />
 

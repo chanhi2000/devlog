@@ -2,28 +2,16 @@
   "channel": {
     "id": "MonsterlessonsAcademy",
     "name": "Monsterlessons Academy",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNGFjRaw8l_JTKwXk3PX6lJu-UMDdBHhbZNzHbY=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNGFjRaw8l_JTKwXk3PX6lJu-UMDdBHhbZNzHbY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Nx7ZPpn-v07AAripnhuVESZiSCJyyN-O2aiLgz-RYvRoMApLh9HW0_Jxp4Ns-5pgnsyyWHcE_W8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "TY45Yf5rRsg",
-      "title": "Build React Accordion Without Any Libraries"
-    }, {
-      "id": "dYwzxIc8INE",
-      "title": "Javascript Is Weird - Interview Questions"
-    }, {
-      "id": "dKKEvtaYf8c",
-      "title": "Learn 5 ways to unsubscribe in Angular to avoid memory leaks."
-    }, {
-      "id": "lI_ReTTUFU0",
-      "title": "How to Build a Quiz With React Hooks - Beginner React Project"
-    }, {
-      "id": "fS38MfVV5SY",
-      "title": "React Redux Hooks - Usedispatch, Useselector"
-    }, {
-      "id": "jZ_tEBmlHiM",
-      "title": "Database in Docker in Seconds - Never Struggle With Databases Again"
-    }
+    { "id": "Ns5wBs-HAzc", "title": "Building React Infinite Scroll with useInfiniteQuery" },
+    { "id": "TY45Yf5rRsg", "title": "Build React Accordion Without Any Libraries" }, 
+    { "id": "dYwzxIc8INE", "title": "Javascript Is Weird - Interview Questions" }, 
+    { "id": "dKKEvtaYf8c", "title": "Learn 5 ways to unsubscribe in Angular to avoid memory leaks." }, 
+    { "id": "lI_ReTTUFU0", "title": "How to Build a Quiz With React Hooks - Beginner React Project" }, 
+    { "id": "fS38MfVV5SY", "title": "React Redux Hooks - Usedispatch, Useselector" }, 
+    { "id": "jZ_tEBmlHiM", "title": "Database in Docker in Seconds - Never Struggle With Databases Again" }
   ]
 }
-

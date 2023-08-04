@@ -2,25 +2,16 @@
   "channel": {
     "id": "vBrownBag",
     "name": "vBrownBag",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPmND5iN7wcTEXuq_Yd_57oL63VX4Qwy-8nQ6HzFg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPmND5iN7wcTEXuq_Yd_57oL63VX4Qwy-8nQ6HzFg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hbTX9oxjAHwBsSt_WZCcOieYnb06m367URZ0dImrU_ZxCzbwY9DELo0tjhYzWdVZAT731IBz=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "ZQqBZ2X4CKY",
-      "title": "Diving deep on CI/CD - Why you should START with it by Johannes Koch"
-    }, {
-      "id": "j8AtQ96R3dg",
-      "title": "Lambda Sidecar Pattern for Kubernetes: Event Driven Architecture - Ken Collins"
-    }, {
-      "id": "4EPO1vwC-Z8",
-      "title": "What is OpenShift and what does it have to do with Kubernetes?"
-    }, {
-      "id": "esViHI3gusI",
-      "title": "Certified Kubernetes Administrator:  Cluster Configuration presented by Tyler Hatton"
-    }, {
-      "id": "slSTXUm8npc",
-      "title": "Introduction to Infrastructure as Code (IaC) with Pulumi"
-    }
+    { "id": "P2faj-GEewo", "title": "Building an Evil Android Bot Army for Fun &amp; Profit: Dennis Faucher" },
+    { "id": "ZQqBZ2X4CKY", "title": "Diving deep on CI/CD - Why you should START with it by Johannes Koch" }, 
+    { "id": "j8AtQ96R3dg", "title": "Lambda Sidecar Pattern for Kubernetes: Event Driven Architecture - Ken Collins" }, 
+    { "id": "4EPO1vwC-Z8", "title": "What is OpenShift and what does it have to do with Kubernetes?" }, 
+    { "id": "esViHI3gusI", "title": "Certified Kubernetes Administrator:  Cluster Configuration presented by Tyler Hatton" }, 
+    { "id": "slSTXUm8npc", "title": "Introduction to Infrastructure as Code (IaC) with Pulumi" } 
   ]
 }
 

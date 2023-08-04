@@ -6,10 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/tyEQx70Zul6vdm6s4c0MfN3_Xdjl4KpQYxaRIPduCAcJ_sTQCvczoc-uwEw2CGfWfSS_OV1aGoM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "DDfUoQWnrfM",
-      "title": "GPT4ALL: Install 'ChatGPT' Locally (weights &amp; fine-tuning!) - Tutorial"
-    }
+    { "id": "xY42vbH_zCw", "title": "New Prompt Achieves 🚀 900% Logic &amp; Reasoning Improvement (GPT-4)" },
+    { "id": "E-WOR6jfBLo", "title": "LLaMA 2 Is Finally Here! 🦙 Is This The ChatGPT Killer?" },    
+    { "id": "DDfUoQWnrfM", "title": "GPT4ALL: Install 'ChatGPT' Locally (weights &amp; fine-tuning!) - Tutorial" }
   ]
 }
 

@@ -2,17 +2,13 @@
   "channel": {
     "id": "AkhilSharmaTech",
     "name": "Akhil Sharma",
-    "profile": "https://yt3.googleusercontent.com/Jb0ir12105CS1r2WqRNrtgwnDuA20OUXPd-a4QhLUh86oB_LKudIXRuabe1pVLA9ueuQ0p3J3Q=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/Jb0ir12105CS1r2WqRNrtgwnDuA20OUXPd-a4QhLUh86oB_LKudIXRuabe1pVLA9ueuQ0p3J3Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GcIphwpLdkasYlrN2xGMTrFli4015EwYlt4ZJAsFVUgvJcXlbeOi-sZPJ7KwNlTrAyuYiHIg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "TB66OyHv4ZQ",
-      "title": "RUST + Ethereum Project [ Intermediate ] Deploy Smart Contracts On Ethereum With RUST"
-    }, {
-      "id": "HFKumuj4z28",
-      "title": "RUST + @MongoDB + WARP [ Complete Project ] ( 2 HRS )"
-    }
+    { "id": "G897F8Gw1PM", "title": "Substrate Developers' Course - Chapter 1  - Intro" },
+    { "id": "ulIkcUlZadw", "title": "Substrate Developer Course - Chapter 7 - Simulating A Network" },
+    { "id": "TB66OyHv4ZQ", "title": "RUST + Ethereum Project [ Intermediate ] Deploy Smart Contracts On Ethereum With RUST" }, 
+    { "id": "HFKumuj4z28", "title": "RUST + @MongoDB + WARP [ Complete Project ] ( 2 HRS )" } 
   ]
 }
-
-

@@ -123,4 +123,12 @@ tags: ["education", "youtube", "windows"]
 
 ---
 
+## Tech Labs
+
+<MyYouTubeItems jsonName="yu-TechLabsOfficial" />
+
+<!-- Tech Labs -->
+
+---
+
 <TagLinks />

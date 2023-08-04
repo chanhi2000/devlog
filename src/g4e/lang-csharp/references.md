@@ -147,4 +147,12 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 - [How to work with Policies in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-policies/#create)
 
+---
+
+## Steven-Giesel
+
+- [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
+
+---
+
 <TagLinks />

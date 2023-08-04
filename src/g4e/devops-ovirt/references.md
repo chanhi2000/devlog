@@ -25,6 +25,12 @@ tags: ["bash", "sh"]
 
 ---
 
+## Mikhail Gusarov
+
+- [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices)
+
+---
+
 ## Sites
 
 - https://www.ovirt.org/documentation

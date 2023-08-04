@@ -2,49 +2,24 @@
   "channel": {
     "id": "LearnLinuxTV",
     "name": "Learn Linux TV",
-    "profile": "https://yt3.googleusercontent.com/ET-B1I46Ca0OKID2_mYyGOjkLdEJ_WbTCaEtzc2nJ-zcn1A-NPh92nA19pD7vgtFj1FQ_EVzRA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ET-B1I46Ca0OKID2_mYyGOjkLdEJ_WbTCaEtzc2nJ-zcn1A-NPh92nA19pD7vgtFj1FQ_EVzRA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iGdDIcKrLXMkmZifgB-BeKpRhqIsq2FvtxIhuel3M8FUIPIjQrYbFtOAa9BkQs_ntiXWvQn8NA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "aSWVwdr2_n8", 
-      "title": "Linux Crash Course - The `watch` Command"
-    }, {
-      "id": "sBrAVQumqjs", 
-      "title": "5 Must Have Tweaks to Secure OpenSSH"
-    }, {
-      "id": "ZWC_1nISLKE", 
-      "title": "Why you should build your Portfolio in Github to gain a Linux Job"
-    }, {
-      "id": "bVB24I7B0JQ", 
-      "title": "Building your own Git Server with Gitea on AlmaLinux"
-    }, {
-      "id": "gIDywsGBqf4", 
-      "title": "Using Ansible to automate your Laptop and Desktop configs!"
-    }, {
-      "id": "WW7yazr-xAM", 
-      "title": "Awesome Linux Tools: cheat.sh"
-    }, {
-      "id": "s8F_YWGHeDM", 
-      "title": "Getting started with Ansible 16 (Series Finale) - Templates"
-    }, {
-      "id": "0Yy65JKVSfM", 
-      "title": "Learn CentOS 22 - Hosting a Simple Web Page with Apache"
-    }, {
-      "id": "wvpYikch9x4", 
-      "title": "Learn CentOS Part 6 - Running Commands with root Privileges"
-    }, {
-      "id": "_acLAdlRy_I", 
-      "title": "Learn CentOS Part 3 - Exploring the Linux Filesystem"
-    }, {
-      "id": "wwpRtC5nywM", 
-      "title": "Another Look at My Homelab (More Detail)"
-    }, {
-      "id": "GYP2T34v56E", 
-      "title": "Linux Crash Course - The `cut` Command"
-    }, {
-      "id": "4qP5xA_epXo", 
-      "title": "Linux Crash Course - The tr Command"
-    }
+    { "id": "Aa7tKMmeFZI", "title": "Transferring files with the scp Command (Linux Crash Course Series)" },
+    { "id": "aSWVwdr2_n8",  "title": "Linux Crash Course - The `watch` Command" }, 
+    { "id": "sBrAVQumqjs",  "title": "5 Must Have Tweaks to Secure OpenSSH" }, 
+    { "id": "ZWC_1nISLKE",  "title": "Why you should build your Portfolio in Github to gain a Linux Job" }, 
+    { "id": "bVB24I7B0JQ",  "title": "Building your own Git Server with Gitea on AlmaLinux" }, 
+    { "id": "gIDywsGBqf4",  "title": "Using Ansible to automate your Laptop and Desktop configs!" }, 
+    { "id": "WW7yazr-xAM",  "title": "Awesome Linux Tools: cheat.sh" }, 
+    { "id": "s8F_YWGHeDM",  "title": "Getting started with Ansible 16 (Series Finale) - Templates" }, 
+    { "id": "0Yy65JKVSfM",  "title": "Learn CentOS 22 - Hosting a Simple Web Page with Apache" }, 
+    { "id": "wvpYikch9x4",  "title": "Learn CentOS Part 6 - Running Commands with root Privileges" }, 
+    { "id": "_acLAdlRy_I",  "title": "Learn CentOS Part 3 - Exploring the Linux Filesystem" }, 
+    { "id": "wwpRtC5nywM",  "title": "Another Look at My Homelab (More Detail)" }, 
+    { "id": "GYP2T34v56E",  "title": "Linux Crash Course - The `cut` Command" }, 
+    { "id": "4qP5xA_epXo",  "title": "Linux Crash Course - The tr Command" }
   ]
 }
 

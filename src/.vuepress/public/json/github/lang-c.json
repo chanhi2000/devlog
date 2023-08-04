@@ -364,5 +364,20 @@
     "desc": "Open Source Soldering Iron firmware",
     "topics": ["hex", "flash", "firmware", "temperature", "temperature-control", "pine64", "iron", "ts100", "alternate", "soldering", "soldering-irons", "ts80", "ts80p", "pinecil"],
     "officialSite": "https://ralim.github.io/IronOS"
+  }, {
+    "repo": "hydradatabase/hydra",
+    "desc": "Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.",
+    "topics": ["postgres", "postgresql", "data-warehouse", "datawarehouse", "postgresql-extension"],
+    "officialSite": "https://www.hydra.so"
+  }, {
+    "repo": "lucavallin/barco",
+    "desc": "Linux containers from scratch in C.",
+    "topics": ["c", "linux", "containers"],
+    "officialSite": "https://cavall.in"
+  }, {
+    "repo": "brunodev85/winlator",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

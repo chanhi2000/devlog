@@ -2,7 +2,6 @@
 <YoutubeItem channelName="발버둥" channelId="user-ku2hz4sq4e" id="v4qP9Akx47I" title="[Project Deploy] 프로젝트 배포, Docker를 사용하는 이유" />
 <YoutubeItem channelName="DevOps Journey" channelId="DevOpsJourney" id="6YZvp2GwT0A" title="Learn Jenkins! Complete Jenkins Course - Zero to Hero" />
 <YoutubeItem channelName="sentdex" channelId="sentdex" id="kkTNg_UOCNE" title="Building an Open Assistant API" />
-<YoutubeItem channelName="Max Programming" channelId="MaxProgramming" id="TZGjXXHis5o" title="Exploring SvelteKit [LIVE Stream]" />
 <YoutubeItem channelName="Relbis Labs" channelId="relbis-labs" id="7gMm0iQNZGA" title="Apache Kafka vs message queue explained" />
 <YoutubeItem channelName="Lawrence Systems" channelId="LAWRENCESYSTEMS" id="DwYwrADwCmg" title="Graylog: Your Comprehensive Guide to Getting Started Open Source Log Management" />
 <YoutubeItem channelName="Second State" channelId="SecondStateInc" id="Lpq-y5I46l8" title="WasmEdge Community Meeting #19" />
@@ -13,7 +12,6 @@
 <YoutubeItem channelName="MDrepairs" channelId="MDrepairsLLC" id="iatS86r1Hnk" title="Brute Forcing An iPhone 5… #technology" />
 <YoutubeItem channelName="OKKY" channelId="okky4271" id="Rjyf_dELAeg" title="[OKKY 3월 세미나] Elixir: 대용량 분산 웹개발의 혁명 (부제: Java / C++ / Python이 OOP 언어가 아닌 이유)" />
 <YoutubeItem channelName="Software Daily" channelId="SoftwareDaily" id="0okMDL3skSg" title="Pre-configured Development Environments with John Craft and Ramiro Berrelleza" />
-<YoutubeItem channelName="Hardware Canucks" channelId="HardwareCanucks" id="LC9dGn7klyI" title="A Creative Journey with the Apple M2 Pro Mac Mini." />
 <YoutubeItem channelName="SoftwarE tesT warriorS" channelId="softwaretestwarriors1925" id="kjJvhgSnw0U" title="#Jmeter #devops Integration of Jmeter &amp; Jenkins with performance report inside Jenkins" />
 <YoutubeItem channelName="Coderized" channelId="coderized" id="q1qKv5TBaOA" title="How principled coders outperform the competition" />
 <YoutubeItem channelName="Gwyneth Peña-Siguenza" channelId="MadeByGPS" id="vWerXJrNw2g" title="From Zero to Cloud Engineer in 6 months" />
@@ -77,15 +75,11 @@
 <YoutubeItem channelId="Virbox" channelName="Virbox" id="NfC5tryOt0k" title="jQuery is trending again?"/>
 <YoutubeItem channelId="ai-explained-"  channelName="AI Explained" id="O8GUH0_htRM" title="GPT 4 Got Upgraded - Code Interpreter (ft. Image Editing, MP4s, 3D Plots, Data Analytics and more!)"/>
 <YoutubeItem channelId="theonlinebusinessguide" channelName="Harsh Gautam" id="FlxztMVj-a4" title="5 Magical Websites Creators Are Hiding From You #digitalmarketing #marketing"/>
-<YoutubeItem channelId="zoran-horvat" channelName="Zoran Horvat" id="tq5ztZO45-g" title="Visitor Design Pattern Is Giving Way To Pattern Matching Expressions!"/>
 <YoutubeItem channelId="AssemblyAI" channelName="AssemblyAI" id="dN0lsF2cvm4" title="Vector Databases simply explained! (Embeddings &amp; Indexes)"/>
-<YoutubeItem channelId="mcodeM" channelName="메타코드M" id="YaCQrJCgbqg" title="통계 기초 개념과 공식을 3시간만에 끝내드립니다ㅣ 고려대 통계학과 x AI연구원 강의 ㅣ표본, 기대값, 정규분포, 카이제곱, 모평균, t분포, 포아송분포, 조건부 확률 등"/>
 <YoutubeItem channelId="9buyrithm" channelName="구매리즘" id="EnThVDamiJY" title="이거 진짜 꿀템입니다.. 완벽하게 삶의 질을 올려주는 2만원 이하 가성비 꿀템 7가지🍯"/>
 <YoutubeItem channelId="branvandermeer" channelName="Bran van der Meer" id="ANL7Pptv53I" title="My Terminal - Automation Mindset Explained"/>
 <YoutubeItem channelId="learnwithjason" channelName="Learn With Jason" id="KjsV8GEjZlw" title="Improving the Database Experience of your Deploy Previews with Xata"/>
-<YoutubeItem channelId="CoderOne" channelName="CoderOne" id="OEDE9KqQCkg" title="React Naming Conventions You should follow as a Junior Developer - clean-code"/>
 <YoutubeItem channelId="moondevonyt" channelName="Moon Dev" id="Zwqn6r-XpZ8" title="my bot reads the tape for me"/>
-<YoutubeItem channelId="claydesk" channelName="ClayDesk E-Learning" id="cKytRgl7cco" title="AWS Load balancing within and between regions #Shorts"/>
 <YoutubeItem channelId="floatinglittleleavesofcode6473" channelName="Floating Little Leaves of Code" id="hZS96dwKvt0" title="How to be a git expert"/>
 <YoutubeItem channelId="MixMorris" channelName="MixMorris" id="aBwuPmY4lec" title="Coding in PowerPoint"/>
 <YoutubeItem channelId="CodingEntrepreneurs" channelName="CodingEntrepreneurs" id="pKb-HctyPPw" title="Python Sets are a must know for all Python developers."/>
@@ -96,7 +90,6 @@
 <YoutubeItem channelId="chiragkachhadiya" channelName="Chirag Kachhadiya" id="ClloX3XnHFQ" title="Jetpack Compose: TextField | Step-by-Step Guide | Android Tutorial"/>
 <YoutubeItem channelId="LoiLiangYang" channelName="Loi Liang Yang" id="_uVVVV_nIhE" title="pro hacker teaches you how to bypass this!"/>
 <YoutubeItem channelId="RahulRathore41" channelName="Rahul Rathore" id="xy0ezPkjTZg" title="23. Karate Framework || Calling other feature file || feature file as a re-usable unit."/>
-<YoutubeItem channelId="TechLabsOfficial" channelName="Tech Labs" id="ECttTS1BnWc" title="How To Install New Paint App With Dark Theme On Windows 11"/>
 <YoutubeItem channelId="RibaLinux" channelName="Riba Linux" id="UWw0apBmDEE" title="How to install Oracle Linux 9.2."/>
 <YoutubeItem channelId="hyukppen" channelName="혁펜하임" id="yXeUxjZTow0" title="이건 진짜 대박이네요.. 20달러가 아깝지 않은 GPT4 미친 활용법!!"/>
 <YoutubeItem channelId="Virbox" channelName="Virbox" id="Qca2Wk9Odm4" title="Linux user's reaction to new Micro$oft product"/>
@@ -104,128 +97,70 @@
 <YoutubeItem channelId="garnattione" channelName="garnatti one" id="yLilNzdYaYc" title="How To Change the Default Add to Cart Button Text or Links in WooCommerce"/>
 <YoutubeItem channelId="ggul_yang" channelName="꿀양" id="VkeMvzOr6no" title="휴지심🧻절대 못 버리게 되는 영상"/>
 <YoutubeItem channelId="yk_roadking" channelName="도로왕 김지훈 변호사" id="d8LWW8a5QB4" title="스쿨존에서 자전거 탄 어린이랑 사고 나면 민식이법이 적용될까요? | 도로왕 김지훈 변호사"/>
-<YoutubeItem channelId="studian365" channelName="스터디언" id="H5MbTUIct90" title="10년 전에 누군가 5가지 비밀을 알려준다고 했으면 저는 돈을 주고라도 배웠을 것입니다"/>
-<YoutubeItem channelId="CoderOne" channelName="CoderOne" id="o_7wgRHBzeA" title="This is Why You Can't Render React Hooks Conditionally"/>
 <YoutubeItem channelId="alohaclass8075" channelName="ALOHA CLASS" id="OUoDMURCUlA" title="[LIVE] ALOHA 2023-06-05 REVIEW 오전2"/>
 <YoutubeItem channelId="RyanMcQuen" channelName="Ryan McQuen" id="YqT7U_iq6fQ" title="Let's shock our system and help cats"/>
-<YoutubeItem channelId="studian365" channelName="스터디언" id="vpU_vdryqIM" title="2023년 씽큐베이션 다시 시작합니다!! 📚 [씽큐베이션 활동 가이드]"/>
 <YoutubeItem channelId="MidwareCloud" channelName="Midware Cloud" id="Oey42bd8lhI" title="SQL Server String Functions Part 1 | with examples | Urdu - Hindi #38"/>
-<YoutubeItem channelId="MonsterlessonsAcademy" channelName="Monsterlessons Academy" id="Ns5wBs-HAzc" title="Building React Infinite Scroll with useInfiniteQuery"/>
-<YoutubeItem channelId="RaghavPal" channelName="Automation Step by Step" id="vyiJrTHXE0M" title="6 | Ansible Hello World"/>
-<YoutubeItem channelId="LinuxTips" channelName="LINUXtips" id="GjndoO8KfOo" title="Mutirão Kubernetes - Vamos iniciar a sua jornada no Kubernetes! | Dia-1"/>
-<YoutubeItem channelId="ayshh" channelName="아영이네 행복주택" id="_ht2UUSgj5k" title="&quot;일상에 성(性) 한스푼&quot; 행복주택 in 고양 🏠 아영이네 집들이 11화"/>
-<YoutubeItem channelId="nullnull_not_eq_null" channelName="널널한 개발자 TV" id="GJwz6CfyrLE" title="C/C++ 임베디드 시스템 개발사 면접 질문 2가지에 대한 문의와 주관적 답변"/>
-<YoutubeItem channelId="nullnull_not_eq_null" channelName="널널한 개발자 TV" id="w4Ljwcubq9g" title="보안전문가를 희망하는 고스펙 닌자꼬부기님 진로 관련 상담에 대한 답변"/>
 <YoutubeItem channelId="ETAPRIME" channelName="ETA PRIME" id="2nI25tk-NMM" title="The Worlds Smallest Ryzen Gaming PC Ever! Minisforum EM680 Hands On First Look"/>
-<YoutubeItem channelId="MichiganTypeScript" channelName="Michigan TypeScript" id="4Eh-F78Y2Pg" title="Higher Order Types JSON Parser. Yes. You read that correctly."/>
-<YoutubeItem channelId="CodingNepal" channelName="CodingNepal" id="Bv8FORu-ACA" title="Create Working Chatbot in HTML CSS and JavaScript | Chatbot HTML CSS JavaScript"/>
-<YoutubeItem channelId="1BestCsharpblog" channelName="1BestCsharp blog" id="INtpnoNNsKs" title="C# - How To Create Images SlideShow From MySQL Database In C# [with source code]"/>
 <YoutubeItem channelId="CMDevChannel" channelName="CMDev" id="SrT2xk9UIj8" title="Auto Format on Save for XCode (So Happy)"/>
 <YoutubeItem channelId="CMDevChannel" channelName="CMDev" id="VVxPAlmSlRI" title="สอนติดตั้ง Grafana Dashboard + Prometheus + Node Exporter บน Docker"/>
-<YoutubeItem channelId="nullnull_not_eq_null" channelName="널널한 개발자 TV" id="-DI0mHOB5Qc" title="당근마켓 백엔드 개발자 영입정보에 대한  C/C++ 개발자의 추측성 해설"/>
 <YoutubeItem channelId="ProTechShow" channelName="Pro Tech Show" id="9XMQH4ulTr0" title="Build your own app with Power Apps"/>
-<YoutubeItem channelId="MaxProgramming" channelName="Max Programming" id="fgrlH9pbVU0" title="Converting a Figma design to Next.js with Tailwind CSS [LIVE Stream]"/>
-<YoutubeItem channelId="PedroTechnologies" channelName="PedroTech" id="UolaGb7tR38" title="These 5 VsCode Extensions Will Skyrocket Your React Productivity"/>
-<YoutubeItem channelId="LearnLinuxTV" channelName="Learn Linux TV" id="Aa7tKMmeFZI" title="Transferring files with the scp Command (Linux Crash Course Series)"/>
-<YoutubeItem channelId="christianlempa" channelName="Christian Lempa" id="NyOSoLn5T5U" title="This web UI for Ansible is so damn useful!"/>
 <YoutubeItem channelId="JimmyTriesWorld" channelName="Jimmy Tries World" id="Ap8QrMao0No" title="I Built a NAS: One Year Later. EVERYTHING I Learned and the Mistakes"/>
-<YoutubeItem channelId="matthew_berman" channelName="Matthew Berman" id="xY42vbH_zCw" title="New Prompt Achieves 🚀 900% Logic &amp; Reasoning Improvement (GPT-4)"/>
 <YoutubeItem channelId="ai-explained-"  channelName="AI Explained" id="Dt_UNg7Mchg" title="Orca: The Model Few Saw Coming"/>
 <YoutubeItem channelId="kimhaejun" channelName="김해준" id="2cshiOZ6YAI" title="(방송사고) 모창 라이브 중 난입한 곽경영 #shorts"/>
-<YoutubeItem channelId="Cloudacademy" channelName="Cloud Academy" id="_htK5IJF6eQ" title="Cloud Academy in 12 Minutes"/>
-<YoutubeItem channelId="TheMorpheusTutorials" channelName="The Morpheus Tutorials" id="UjeHGXbiqLQ" title="GPT4All: Open Source AI can already keep up with ChatGPT!"/>
 <YoutubeItem channelId="EssentialDeveloper" channelName="Essential Developer" id="Eo3WkbUV-fU" title="How to create a Generic Networking Layer in iOS apps (Refresh Tokens, Combine, Async/Await, SwiftUI)"/>
-<YoutubeItem channelId="PedroTechnologies" channelName="PedroTech" id="Yokjzp91A4o" title="Redux and NextJS 13 Tutorial | Redux Toolkit Tutorial With Next 13"/>
 <YoutubeItem channelId="HardwareSavvy" channelName="Hardware Savvy" id="TzcAIAc-DOc" title="This is genius"/>
-<YoutubeItem channelId="Guracheol" channelName="구라철" id="kDha2orKbag" title="200%마라맛🔥 김구라의 매운맛 상담소│Ep.83"/>
 <YoutubeItem channelId="CodingWithJohn" channelName="Coding with John" id="xsoJsd48lZQ" title="Worst Sorting Algorithm Ever - #shorts"/>
 <YoutubeItem channelId="greatscottlab" channelName="GreatScott!" id="8hKpQvw1nNw" title="I tried finding Hidden Gems on AliExpress AGAIN! (Part 5)"/>
 <YoutubeItem channelId="GeeksforGeeksVideos" channelName="GeeksforGeeks" id="u412j5nA3TQ" title="CodeCamp Day 3 | Mastering Linked Lists and Problem Solving"/>
 <YoutubeItem channelId="teamjupeter9451" channelName="Team Jupeter" id="EZQDWUG224A" title="[abc bank] 20 - 전자동 국세청 [1/5]"/>
-<YoutubeItem channelId="HardwareCanucks" channelName="Hardware Canucks" id="6K0z2_uPXMA" title="Apple Mac Studio M2 Ultra vs M2 Pro - The Difference is MIND BLOWING!"/>
 <YoutubeItem channelId="AZisk" channelName="Alex Ziskind" id="-WzVsBhxeM8" title="Static site deploy as few clicks as possible"/>
 <YoutubeItem channelId="TipsNNTricks" channelName="TipsNNTricks" id="SS3EZc63OtA" title="How To Transfer Android Video Photo Files To Mac!"/>
 <YoutubeItem channelId="KentCDodds-vids" channelName="Kent C. Dodds" id="6EeIuDaIJwc" title="EpicWeb.dev Live stream: Prisma Client Extensions with the Epic Stack"/>
-<YoutubeItem channelId="BrodieRobertson" channelName="Brodie Robertson" id="Q_GLj3sTcrc" title="Joining The Linux Kernel Community: For Dummies"/>
 <YoutubeItem channelId="jblow888" channelName="Jonathan Blow" id="mup0OxwYK1o" title="Weekend Project: Color Animation Editor (part 2)"/>
 <YoutubeItem channelId="JetsonHacks" channelName="JetsonHacks" id="LSdXakt8nZ8" title="Python Upgrade on Jetson Nano - Tutorial"/>
 <YoutubeItem channelId="ngconfonline" channelName="ng-conf" id="Mu8n3CPdjG4" title="Build a Culture of Site Reliability | Brian Love and Mike Ryan from Polaris"/>
 <YoutubeItem channelId="jblow888" channelName="Jonathan Blow" id="HKuDTwtuugk" title="Weekend Project: Color Animation Editor (Part 1)"/>
 <YoutubeItem channelId="ritvikmath" channelName="ritvikmath" id="jFu20v5Rp44" title="ChatGPT vs Google Bard for Resume Writing!"/>
-<YoutubeItem channelId="vBrownBag" channelName="vBrownBag" id="P2faj-GEewo" title="Building an Evil Android Bot Army for Fun &amp; Profit: Dennis Faucher"/>
-<YoutubeItem channelId="AkhilSharmaTech" channelName="Akhil Sharma" id="G897F8Gw1PM" title="Substrate Developers' Course - Chapter 1  - Intro"/>
 <YoutubeItem channelId="learnwithjason" channelName="Learn With Jason" id="MLbXjCddf3A" title="Redux in 2023: What you need to know"/>
 <YoutubeItem channelId="andresvidoza" channelName="Andres Vidoza" id="Zi53lmgHCm4" title="M2 MacBook Air 15” - Unboxing &amp; First Look!"/>
-<YoutubeItem channelId="BoualiAli" channelName="Bouali Ali" id="TywlS9iAZCM" title="Spring boot &amp; WebSockets: Build a Real-Time Chat App From Scratch"/>
 <YoutubeItem channelId="IntentArchitect" channelName="Intent Architect" id="yRfTXxsIKME" title="Domain Modeling in depth with .NET | Intent Architect Webinar"/>
 <YoutubeItem channelId="medici_media" channelName="메디치미디어" id="OT9WxCZuEjE" title="부동산 가격은 어떻게 정해질까? 집값 정하는 원리를 알아야 내 집 마련이 쉬워진다! (ft. 이광수 부동산 전문가)"/>
 <YoutubeItem channelId="Han9over" channelName="갱행구" id="5nbqjpepVgs" title="필요하신 분 클릭해 주세요! 제우스랩 2.5K 144hz 노 터치 버전!"/>
 <YoutubeItem channelId="BullsLab" channelName="뻘짓연구소" id="Ir92cwxAoJg" title="역대급 알리익스프레스 초특가 딜 또 가져왔습니다!"/>
-<YoutubeItem channelId="zoran-horvat" channelName="Zoran Horvat" id="q_tH3njpAFc" title="Possibility of Discriminated Unions in C#: Functional Programming in .NET"/>
-<YoutubeItem channelId="opensourceconsulting-7382" channelName="Open Source Consulting - 오픈소스컨설팅" id="siT_Gn9npQU" title="What is Jira seats? How to control your team's Jira Seats?"/>
 <YoutubeItem channelId="applesupport" channelName="Apple Support" id="fxykLkQCc6Q" title="How to create and use Shared Albums in Photos | Apple Support"/>
 <YoutubeItem channelId="careerwithgaurav" channelName="Career With Gaurav" id="yz57Ka4JmXo" title="3 Free Courses By JP Morgan | To Get High Paying Job"/>
-<YoutubeItem channelId="Keybored" channelName="Keybored" id="4nupJ-G-RMs" title="This Weird Keyboard Surprised Me - Sisyphus 65"/>
-<YoutubeItem channelId="mediacccde" channelName="media.ccc.de" id="0X2B6YpJwDc" title="retronetcall - Teletex: The brief abandoned step between Telex and Telefax"/>
 <YoutubeItem channelId="mega_gong" channelName="메가공무원" id="ukpyBq6v2A4" title="회사 그만두고 교통사고 난 적이 있어요 (feat.보험)"/>
 <YoutubeItem channelId="adventuresinnostalgia" channelName="Adventures in Nostalgia" id="CkDdYqUtpAw" title="How to Safely Use Microsoft Windows 7 FOREVER!"/>
-<YoutubeItem channelId="zubiarfan" channelName="Arfan Zubi" id="_EREi8kJ8z8" title="🦀 Full Rust Beginner's Course - Part 1"/>
 <YoutubeItem channelId="youngcademe" channelName="영카데미 " id="oDkJAKRof5c" title="개발자 구글링 하는방법 (꿀팁공개)"/>
 <YoutubeItem channelId="eskilsteenberg" channelName="Eskil Steenberg" id="443UNeGrFoM" title="How I program C"/>
 <YoutubeItem channelId="code_with_baghi" channelName="rccodex" id="h8IC95_K3nY" title="This Solar System Model Is Outstanding😱🤯 #rccodex #coding"/>
 <YoutubeItem channelId="ETAPRIME" channelName="ETA PRIME" id="1jainOQ7BgY" title="The All New One Plus Pad Is One Of The Best Tablets We've Ever Gotten Our Hands On!"/>
-<YoutubeItem channelId="claydesk" channelName="ClayDesk E-Learning" id="qZlaUW43fuY" title="Excel VBA Programming - The Complete Guide"/>
 <YoutubeItem channelId="zSecurity" channelName="zSecurity" id="HbYdWajOCx4" title="SQL Injection Beginner Crash Course"/>
-<YoutubeItem channelId="1BestCsharpblog" channelName="1BestCsharp blog" id="zRECf4uz-DE" title="PHP Tutorial - How To Draw Chess Board In PHP [ With Source Code ]"/>
-<YoutubeItem channelId="cbtnuggets" channelName="CBT Nuggets" id="is0O5_EI9Mo" title="What is Identity and Access Management (IAM) in the Cloud?"/>
 <YoutubeItem channelId="Pusher_realtime" channelName="Pusher" id="UpuT8m8A2ic" title="An App Written in React Native - Angus Findlay &amp; Daniel Belo Goncalves - RNL May 2023"/>
-<YoutubeItem channelId="opensourceconsulting-7382" channelName="Open Source Consulting - 오픈소스컨설팅" id="49gvijC_J_U" title="[웨비나] Miro 기본 교육: 초보자를 위한 가이드"/>
 <YoutubeItem channelId="Pusher_realtime" channelName="Pusher" id="bTNFrqbFdQQ" title="SvelteKit Unpacked! Understanding the magic behind data loading - JS Monthly London - May 2023"/>
 <YoutubeItem channelId="BryanJenks" channelName="Bryan Jenks" id="JJ_dfm-4kKM" title="♾️ Unmasking Autism By Dr. Devon Price | Note Taking Stream 📝️"/>
 <YoutubeItem channelId="LamaDev" channelName="Lama Dev" id="WlxcujsvcIY" title="TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners"/>
-<YoutubeItem channelId="TheMorpheusTutorials" channelName="The Morpheus Tutorials" id="OfEgwoEooSk" title="Text-To-Speech in Python: Local and free with 4 lines!"/>
 <YoutubeItem channelId="Pusher_realtime" channelName="Pusher" id="_YgnBr96pI8" title="Building Social Board Games with the GamePark API and Pusher"/>
 <YoutubeItem channelId="startupkaist5779" channelName="Startup KAIST" id="ypPinKNK2zA" title="2023 KAIST Startup Tech Plaza 3회 Full버전"/>
 <YoutubeItem channelId="_noisecode" channelName="Logan Smith" id="A4cKi7PTJSs" title="Use Arc Instead of Vec"/>
-<YoutubeItem channelId="BrodieRobertson" channelName="Brodie Robertson" id="iQsLBb15Xrw" title="This Github User Is DESTROYING Issue Trackers"/>
-<YoutubeItem channelId="leerob" channelName="Lee Robinson" id="6jM_0wDOw4g" title="Are React client components bad?"/>
 <YoutubeItem channelId="HongLab" channelName="홍정모" id="4MfTwR3VFt4" title="[라이브] 컴퓨터 그래픽스 게임 프로그래밍 입문 총정리! | 그래픽스 새싹코스 파트4 보기 전 훑어보기"/>
-<YoutubeItem channelId="NovaspiritTech" channelName="Novaspirit Tech" id="mCZRcxrEU2Q" title="Interact with your local documents using PrivateGPT"/>
-<YoutubeItem channelId="AkhilSharmaTech" channelName="Akhil Sharma" id="ulIkcUlZadw" title="Substrate Developer Course - Chapter 7 - Simulating A Network"/>
 <YoutubeItem channelId="moondevonyt" channelName="Moon Dev" id="xv_vyAbxuog" title="How to use Web Socket Data for Algo Trading (Hyperliquid Exchange) pt  1"/>
-<YoutubeItem channelId="TheMorpheusTutorials" channelName="The Morpheus Tutorials" id="lfhMJHDC1fo" title="Why VPNs are now so FAST"/>
 <YoutubeItem channelId="KhattakDev" channelName="KhattakDev" id="7JyjujU5ds8" title="You can do more with JavaScript Console"/>
-<YoutubeItem channelId="jacking75" channelName="최흥배" id="UYTmI6qbAPc" title="실전 Modern C++ - module 3"/>
 <YoutubeItem channelId="soft-code" channelName="SoftCode" id="1IqFKwkZY2s" title="Exploring the Exciting Features of ES2023 - JavaScript Updates"/>
 <YoutubeItem channelId="redgate" channelName="Redgate Videos" id="oDoW1lLWUYg" title="PostgreSQL 101 Webinar Comparing SQL Server and PostgreSQL - Q&amp;A Session | Redgate"/>
-<YoutubeItem channelId="BoualiAli" channelName="Bouali Ali" id="G7lZRuZKUPI" title="How to debug with Intellij IDEA like  PRO 🚀 🐞"/>
-<YoutubeItem channelId="TechLabsOfficial" channelName="Tech Labs" id="Sl1rJPyBxss" title="How To Install Dev Home On Windows 11"/>
 <YoutubeItem channelId="CodinginPublic" channelName="Coding in Public" id="h-KGW6S_jnk" title="Fixing Performance Problems in My Last Video"/>
-<YoutubeItem channelId="1BestCsharpblog" channelName="1BestCsharp blog" id="KdVjhiGzNwk" title="JAVA - How To Create Images SlideShow From MySQL Database In Java NetBeans [with source code]"/>
 <YoutubeItem channelId="HarsivoEdu" channelName="Harsivo Edu" id="mANJLuKSlK0" title="Login Screen with SwiftUI | VStack, ZStack &amp; HStack with SwiftUI"/>
-<YoutubeItem channelId="NetworkChuck" channelName="NetworkChuck" id="xBIowQ0WaR8" title="build your own cloud"/>
 <YoutubeItem channelId="ProTechShow" channelName="Pro Tech Show" id="sEzN2U4Pqcs" title="Best FREE Vulnerability Scanner: Nessus Vs OpenVAS (Greenbone)"/>
 <YoutubeItem channelId="phpannotated" channelName="PHP Annotated" id="qTUB_jESAKY" title="Event Sourcing in PHP with Seb | PHP Annotated"/>
-<YoutubeItem channelId="claydesk" channelName="ClayDesk E-Learning" id="njy0dy15BWQ" title="AWS IAM Tutorial for Beginners Step by Step - AWS Tutorial"/>
-<YoutubeItem channelId="RobertElderSoftware" channelName="RobertElderSoftware" id="BXxv5O7Fxo8" title="The 'tty' Command In Linux"/>
-<YoutubeItem channelId="mouredev" channelName="MoureDev by Brais Moure" id="fxEBgbKSM98" title="Taller de CSS Desde Cero | HackerLIVE#45"/>
-<YoutubeItem channelId="codewithantonio" channelName="Code With Antonio" id="5miHyP6lExg" title="Full Stack E-Commerce + Dashboard &amp; CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023"/>
-<YoutubeItem channelId="RaghavPal" channelName="Automation Step by Step" id="y8CiSwDnQSU" title="2 |  Interacting With Elements | Selenium Python"/>
 <YoutubeItem channelId="dontnest" channelName="DontNest" id="IhYsht5sZHQ" title="How to Become a Good Backend Engineer"/>
-<YoutubeItem channelId="nullnull_not_eq_null" channelName="널널한 개발자 TV" id="Nk5JjnQUtI0" title="C/C++ 개발자가 바라 본  프로그래밍 언어 JAVA"/>
-<YoutubeItem channelId="nullnull_not_eq_null" channelName="널널한 개발자 TV" id="tMmSHlbDhS4" title="JAVA 공부 시작에 앞서..."/>
 <YoutubeItem channelId="Normaltic" channelName="Normaltic Place" id="Tk-HXNin8f8" title="근본 해킹 툴, 누구나 쓸 수 있는 Metasploit 튜토리얼"/>
-<YoutubeItem channelId="hannel/UCeLHszkByNZtPKcaVXOCOQQ" channelName="Post Malone" id="ApXoWvfEYVU" title="Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)"/>
 <YoutubeItem channelId="pcsecuritychannel" channelName="The PC Security Channel" id="dykc9YC9Z6U" title="How to tell if your PC is Hacked? Process Forensics"/>
 <YoutubeItem channelId="robmulla" channelName="Rob Mulla" id="Coj72EzmX20" title="100% Offline ChatGPT Alternative?"/>
 <YoutubeItem channelId="conaticus" channelName="conaticus" id="Z60f2g-COJY" title="I Made a FAST File Explorer (in Rust)"/>
-<YoutubeItem channelId="IBMTechnology" channelName="IBM Technology" id="nthEXs12nFE" title="Cybersecurity Architecture: Application Security"/>
 <YoutubeItem channelId="bamdodug3682" channelName="밤도둑 bamdodug" id="mUctcyM2NQc" title="파워포인트 선 따라 그리기2"/>
 <YoutubeItem channelId="OktaDev" channelName="OktaDev" id="HHJXAtR1tSY" title="Build a Beautiful CRUD App using Spring Boot and Angular"/>
 <YoutubeItem channelId="dev-ing" channelName="오늘도 개발중" id="nkNKBwXUL84" title="ChatGPT 역대급 기능 드디어 출시되었습니다 | AI 코딩"/>
 <YoutubeItem channelId="mattpocockuk" channelName="Matt Pocock" id="nHzyoGKo0g4" title="LIVE: Build a Content Platform with Next.js App Directory, TypeScript, Tailwind and shadcn/ui"/>
-<YoutubeItem channelId="NetworkChuck" channelName="NetworkChuck" id="3CaG2GI1kn0" title="you need this FREE CyberSecurity tool"/>
-<YoutubeItem channelId="matthew_berman" channelName="Matthew Berman" id="E-WOR6jfBLo" title="LLaMA 2 Is Finally Here! 🦙 Is This The ChatGPT Killer?"/>
 <YoutubeItem channelId="LamaDev" channelName="Lama Dev" id="gXlcwtS40LA" title="Restaurant Food Delivery App Design - React Next.js &amp; Tailwind | Responsive Food Ordering Website"/>
 <YoutubeItem channelId="Normaltic" channelName="Normaltic Place" id="07MDQQy2vcI" title="사진 한장으로 이게 가능하다고?"/>
 <YoutubeItem channelId="dganalysis" channelName="Gerard Duggan" id="ZVknC7YEMB4" title="Next Level KPIs in Power BI"/>
@@ -233,10 +168,7 @@
 <YoutubeItem channelId="twosun.ai.school" channelName="투썬Ai스쿨" id="YcRxosY_Qlg" title="[투썬AI클래스] 이예은 강사. 1강 SQL과 친해지기"/>
 <YoutubeItem channelId="LostRelicGames" channelName="Lost Relic Games" id="ZQqxwp0CO-w" title="7 Days of INDIE GAME DEV - Walk In My Shoes"/>
 <YoutubeItem channelId="UXUIDesign" channelName="Madia Designer" id="Vdp1zUqmYQc" title="지금 당장 알아야하는 아이콘 기본 개념"/>
-<YoutubeItem channelId="ThinMatrix" channelName="ThinMatrix" id="TrZyfA02tIY" title="Homegrown Devlog - New Compost System!"/>
-<YoutubeItem channelId="mouredev" channelName="MoureDev by Brais Moure" id="nPCJAx5c1uE" title="PHP Desde Cero: Primeros Pasos"/>
 <YoutubeItem channelId="AZisk" channelName="Alex Ziskind" id="TsVZJbnnaSs" title="LLaMA2 Local install on MacBook"/>
-<YoutubeItem channelId="javascriptmastery" channelName="JavaScript Mastery" id="AHtSIP-pRL4" title="Build and Deploy a Fully Responsive Next.js 13 App 10x Faster with an AI Tool"/>
 <YoutubeItem channelId="bbanghyong" channelName="빵형의 개발도상국" id="ftXLn9DE7YY" title="여러 문서에서 검색/질문/답변하는 QA 챗봇 만들기 [매우쉬움주의] - LangChain, ChatGPT, Chroma DB"/>
 <YoutubeItem channelId="bbanghyong" channelName="빵형의 개발도상국" id="8u2PngR2xpM" title="AI 웹앱 만들기 완벽 튜토리얼 - 코드 40줄로 인터넷에 공개하는 방법까지 자세하게!"/>
 

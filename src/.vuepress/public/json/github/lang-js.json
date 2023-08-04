@@ -1329,5 +1329,15 @@
     "desc": "The iconic SVG, font, and CSS toolkit",
     "topics": ["css", "font", "fontawesome", "icons", "svg-icons", "webfont", "svg-sprites"],
     "officialSite": "https://fontawesome.com"
+  }, {
+    "repo": "thisjam/sd-webui-oldsix-prompt",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "airbnb/lottie-web",
+    "desc": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+    "topics": [],
+    "officialSite": ""
   }
 ]

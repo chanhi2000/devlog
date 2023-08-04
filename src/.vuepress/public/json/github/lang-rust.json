@@ -236,8 +236,8 @@
     "officialSite": "https://sui.io"
   }, {
     "repo": "DioxusLabs/dioxus",
-    "desc": "React-like GUI library for desktop, web, mobile, TUI, and more.",
-    "topics": ["react" ,"css" ,"android" ,"html" ,"rust" ,"ios" ,"ui" ,"web" ,"native" ,"ssr" ,"wasm" ,"desktop" ,"virtualdom"],
+    "desc": "Fullstack GUI library for desktop, web, mobile, and more.",
+    "topics": ["react", "css", "android", "html", "rust", "ios", "ui", "web", "native", "ssr", "wasm", "desktop", "virtualdom"],
     "officialSite": "https://dioxuslabs.com"
   }, {
     "repo": "GyulyVGC/sniffnet",
@@ -529,6 +529,16 @@
     "desc": "A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!",
     "topics": ["database", "cross-platform", "graph", "graph-algorithms", "datalog", "graph-database", "graphdb", "embedded-database", "client-server", "relational-database", "single-executable", "cozo", "cozoscript"],
     "officialSite": "https://cozodb.org"
+  }, {
+    "repo": "supabase/postgres_lsp",
+    "desc": "A Language Server for Postgres",
+    "topics": ["postgres", "language-server-protocol"],
+    "officialSite": "https://supabase.com"
+  }, {
+    "repo": "burn-rs/burn",
+    "desc": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust",
+    "topics": ["rust", "machine-learning", "deep-learning", "neural-network", "pytorch", "scientific-computing", "ndarray", "tensor", "autodiff"],
+    "officialSite": "https://burn-rs.github.io"
   }
 ]
 

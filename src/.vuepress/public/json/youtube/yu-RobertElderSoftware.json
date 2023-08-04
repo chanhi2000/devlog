@@ -2,25 +2,15 @@
   "channel": {
     "id": "RobertElderSoftware",
     "name": "RobertElderSoftware",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPYXOwQxnggGTFP_1Xj6YPwOQqPYR-4bFhkOzVt=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPYXOwQxnggGTFP_1Xj6YPwOQqPYR-4bFhkOzVt=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/on16YcIHMRIu8sh30-qVsnFtkQoiUkpYIJvp-iVvXzCQK4c9YW3SZuEpcTch2zsBZaQYuOUI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "fd1YJ8Pf1Nw",
-      "title": "The 'factor' Command In Linux"
-    }, {
-      "id": "DwwLddE7kUU",
-      "title": "The 'truncate' Command In Linux"
-    }, {
-      "id": "xl8zXcPJTvg", 
-      "title": "The 'base32' Command In Linux"
-    }, {
-      "id": "JFEkgZWCPrI", 
-      "title": "The 'vdir' Command In Linux"
-    }, {
-      "id": "c94bALAgENM", 
-      "title": "The Missile Knows Where It Is, But It's Actually A Javascript Tutorial"
-    }
+    { "id": "BXxv5O7Fxo8", "title": "The 'tty' Command In Linux" },
+    { "id": "fd1YJ8Pf1Nw", "title": "The 'factor' Command In Linux" }, 
+    { "id": "DwwLddE7kUU", "title": "The 'truncate' Command In Linux" }, 
+    { "id": "xl8zXcPJTvg", "title": "The 'base32' Command In Linux" }, 
+    { "id": "JFEkgZWCPrI", "title": "The 'vdir' Command In Linux" }, 
+    { "id": "c94bALAgENM", "title": "The Missile Knows Where It Is, But It's Actually A Javascript Tutorial" }
   ]
 }
-

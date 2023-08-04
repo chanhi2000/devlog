@@ -604,5 +604,10 @@
     "desc": "A collection of awesome one-liners for bug bounty hunting.",
     "topics": ["enumeration", "bug-bounty", "bugbounty", "subdomain-enumeration", "onliner-scripts"],
     "officialSite": "https://github.com/0xlittleboy/One-Liner-Scripts"
+  }, {
+    "repo": "SimplifyJobs/Summer2024-Internships",
+    "desc": "Collection of Summer 2023 & Summer 2024 tech internships!",
+    "topics": ["university", "jobs", "internships", "interview-preparation"],
+    "officialSite": ""
   }
 ]

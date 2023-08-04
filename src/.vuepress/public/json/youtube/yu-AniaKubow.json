@@ -6,67 +6,26 @@
     "banner": "https://yt3.googleusercontent.com/jxS28c3Y-CxyzX1lmmdkfQ5tOMeNjLIuFezIF_WFHb8EriaeYHZO7y3GvEO6fN7L6Zx7Jf5ySA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Qv0fvm5B0EM",
-      "title": "♟️ Code CHESS in JavaScript (Super simple!)"
-    }, {
-      "id": "BH4S3cGqafw",
-      "title": "Code a piano with me!"
-    }, {
-      "id": "wJE5tYkGvD8",
-      "title": "🛑 3hrs to code ClassPass - take PAYMENTS + MANAGE BOOKINGS ! Next.js, Wix SDK (super simple)"
-    }, {
-      "id": "BH4S3cGqafw",
-      "title": "Code a piano with me!"
-    }, {
-      "id": "ONaTvymt3Nc",
-      "title": "How to make a CSS Loading Button"
-    }, {
-      "id": "_Q7M2RID9x4",
-      "title": "Code a Flight Widget with me!"
-    }, {
-      "id": "ZXfKjPDTBPA",
-      "title": "Code BattleShips with me!"
-    }, {
-      "id": "l3TLQuwr4G0",
-      "title": "🛑 Build an AI Image Generator in JavaScript! (Super simple!) | OpenAI API DALL-E ChatGPT"
-    }, {
-      "id": "Qv0fvm5B0EM",
-      "title": "♟️ Code CHESS in JavaScript (Super simple!)"
-    }, {
-      "id": "JJ9fkYX7q4A",
-      "title": "🛑  Learn to use OpenAI API by building ChatGPT (super simple!) | React Node.js"
-    }, {
-      "id": "05ssqx-SZT0",
-      "title": "🛑 Build ChatGPT in JavaScript (Super simple!!) | JavaScript, HTML, CSS"
-    }, {
-      "id": "Kj_gehSIJCc",
-      "title": "Learn CSS transform by building a Penguin! FreeCodeCamp curriculum walkthrough"
-    }, {
-      "id": "FK7Mh8uR9jw",
-      "title": "🛑 3 ways to build a QUIZ APP! JavaScript + TypeScript + JSONServer + Database + REST API + Node.js"
-    }, {
-      "id": "FcwfjMebjTU",
-      "title": "How to hide your API keys SAFELY when using React"
-    }, {
-      "id": "sr8xE8A6F6k",
-      "title": "Building a Complete Recipe App in SwiftUI &amp; MVVM Design Pattern"
-    }, {
-      "id": "mx1dbMzd3tU",
-      "title": "I built an AirBnB clone with structured content! Using Sanity.io and Next.js"
-    }, {
-      "id": "exghLWA3ZIU",
-      "title": "Build and Deploy a Responsive Gallery Portfolio using HTML and CSS!"
-    }, {
-      "id": "4JK1XmqLqnw",
-      "title": "How to use a Serverless Database with Serverless Functions (simple!)"
-    }, {
-      "id": "-D6oTPA4vXc",
-      "title": "Build a Responsive Online Portfolio from scratch!"
-    }, {
-      "id": "IATOicvih5A",
-      "title": "I built a Tik Tok App in React (with REAL database)"
-    }
+    { "id": "Qv0fvm5B0EM", "title": "♟️ Code CHESS in JavaScript (Super simple!)" }, 
+    { "id": "BH4S3cGqafw", "title": "Code a piano with me!" }, 
+    { "id": "wJE5tYkGvD8", "title": "🛑 3hrs to code ClassPass - take PAYMENTS + MANAGE BOOKINGS ! Next.js, Wix SDK (super simple)" }, 
+    { "id": "BH4S3cGqafw", "title": "Code a piano with me!" }, 
+    { "id": "ONaTvymt3Nc", "title": "How to make a CSS Loading Button" }, 
+    { "id": "_Q7M2RID9x4", "title": "Code a Flight Widget with me!" }, 
+    { "id": "ZXfKjPDTBPA", "title": "Code BattleShips with me!" }, 
+    { "id": "l3TLQuwr4G0", "title": "🛑 Build an AI Image Generator in JavaScript! (Super simple!) | OpenAI API DALL-E ChatGPT" }, 
+    { "id": "Qv0fvm5B0EM", "title": "♟️ Code CHESS in JavaScript (Super simple!)" }, 
+    { "id": "JJ9fkYX7q4A", "title": "🛑  Learn to use OpenAI API by building ChatGPT (super simple!) | React Node.js" }, 
+    { "id": "05ssqx-SZT0", "title": "🛑 Build ChatGPT in JavaScript (Super simple!!) | JavaScript, HTML, CSS" }, 
+    { "id": "Kj_gehSIJCc", "title": "Learn CSS transform by building a Penguin! FreeCodeCamp curriculum walkthrough" }, 
+    { "id": "FK7Mh8uR9jw", "title": "🛑 3 ways to build a QUIZ APP! JavaScript + TypeScript + JSONServer + Database + REST API + Node.js" }, 
+    { "id": "FcwfjMebjTU", "title": "How to hide your API keys SAFELY when using React" }, 
+    { "id": "sr8xE8A6F6k", "title": "Building a Complete Recipe App in SwiftUI &amp; MVVM Design Pattern" }, 
+    { "id": "mx1dbMzd3tU", "title": "I built an AirBnB clone with structured content! Using Sanity.io and Next.js" }, 
+    { "id": "exghLWA3ZIU", "title": "Build and Deploy a Responsive Gallery Portfolio using HTML and CSS!" }, 
+    { "id": "4JK1XmqLqnw", "title": "How to use a Serverless Database with Serverless Functions (simple!)" }, 
+    { "id": "-D6oTPA4vXc", "title": "Build a Responsive Online Portfolio from scratch!" }, 
+    { "id": "IATOicvih5A", "title": "I built a Tik Tok App in React (with REAL database)" } 
   ]
 }
 

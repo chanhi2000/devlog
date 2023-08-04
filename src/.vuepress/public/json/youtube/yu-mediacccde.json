@@ -5,22 +5,13 @@
     "profile": "https://yt3.googleusercontent.com/JzuBbkQMthCf0eQ7wogbw0K76UGT-pw0qsEBA4JrEeeFax65tTQuh_HOnQa8WC-eLNTCnRQ9eA=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
-    {
-      "id": "9dQYIabmiFo", 
-      "title": "[r3s]  (de) Practical bruteforce of military grade AES-1024 (Sylvain Pelissier, Boi Sletterink)  deu"
-    }, {
-      "id": "Ckj1iQQRk9Y", 
-      "title": "How To Build A News App Using React Native 4 - Bottom Tabs"
-    }, {
-      "id": "10JYCFzIJK8", 
-      "title": "36C3 Wikipaka WG:  Flutter - One native code base for every platform - deutsche Übersetzung"
-    }, {
-      "id": "wMgJSh1pTsU", 
-      "title": "36C3 Wikipaka WG:  Flutter - One native code base for every platform"
-    }, {
-      "id": "y57y3cpr93A", 
-      "title": "retronetcall - Introduction to the X.21 interface"
-    }
+    { "id": "0X2B6YpJwDc", "title": "retronetcall - Teletex: The brief abandoned step between Telex and Telefax" },
+    { "id": "9dQYIabmiFo", "title": "[r3s]  (de) Practical bruteforce of military grade AES-1024 (Sylvain Pelissier, Boi Sletterink)  deu" }, 
+    { "id": "Ckj1iQQRk9Y", "title": "How To Build A News App Using React Native 4 - Bottom Tabs" }, 
+    { "id": "10JYCFzIJK8", "title": "36C3 Wikipaka WG:  Flutter - One native code base for every platform - deutsche Übersetzung" }, 
+    { "id": "wMgJSh1pTsU", "title": "36C3 Wikipaka WG:  Flutter - One native code base for every platform" }, 
+    { "id": "y57y3cpr93A", "title": "retronetcall - Introduction to the X.21 interface" }
   ]
 }
+
 

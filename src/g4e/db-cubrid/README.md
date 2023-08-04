@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Intro
-description: ❇️Cubrid
+description: 🧊Cubrid
 ---
 
 # {{ $frontmatter.description }} 관련

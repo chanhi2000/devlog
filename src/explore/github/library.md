@@ -18,14 +18,11 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 - [JetBrains/compose-multiplatform][JetBrains/compose-multiplatform]: Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
   - [🌐Official Site](https://jetbrains.com/lp/compose)
 
-
 ---
 
 ## Scala
 
 <MyGithubItems jsonName="lang-scala" />
-
-- [OpenXiangShan/XiangShan][OpenXiangShan/XiangShan]: Open-source high-performance RISC-V processor
 
 ---
 
@@ -70,8 +67,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## V
 
-- [vlang/v][vlang/v]: Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. <GithubTags tagItems="language;programming-language;compiler;v;hacktoberfest;hacktoberfest-accepted" />
-  - [🌐Official Site](https://vlang.io)
+<MyGithubItems jsonName="lang-v" />
 
 ---
 
@@ -109,7 +105,7 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ## Verilog
 
-- [lawrie/fpga_pio][lawrie/fpga_pio]: An attempt to recreate the RP2040 PIO in an FPGA
+<MyGithubItems jsonName="lang-verilog" />
 
 ---
 
@@ -142,8 +138,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
   - [🌐Official Site](https://heroicons.com)
 - [upptime/upptime][upptime/upptime]: ⬆️ Free uptime monitor and status page powered by GitHub
   - [🌐Official Site](https://uptime.kuma.pet)
-- [airbnb/lottie-web][airbnb/lottie-web]: Render After Effects animations natively on Web, Android and iOS, and React Native.
-  - [🌐Official Site](http://airbnb.io/lottie)
 - [adamgiebl/neumorphism][adamgiebl/neumorphism]: 🎉 Generate CSS for your Neumorphism/Soft UI design <GithubTags tagItems="neumorphism;neumorphic-ui;soft-ui;neumorphic-design" />
   - [🌐Official Site](https://neumorphism.io)
 
@@ -154,14 +148,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 <!-- Multiplatform -->
 [JetBrains/compose-multiplatform]: https://github.com/JetBrains/compose-multiplatform
-<!-- Scala -->
-[OpenXiangShan/XiangShan]: https://github.com/OpenXiangShan/XiangShan
-[twitter/the-algorithm]: https://github.com/twitter/the-algorithm
-[twitter/finagle]: https://github.com/twitter/finagle
-[ellie/atuin]: https://github.com/ellie/atuin
-[cantino/mcfly]: https://github.com/cantino/mcfly
-<!-- Clojure -->
-[zachallaun/secd]: https://github.com/zachallaun/secd
 <!-- Haskell -->
 [xmonad/xmonad]: https://github.com/xmonad/xmonad
 <!-- TeX -->
@@ -175,16 +161,10 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [odin-lang/Odin]: https://github.com/odin-lang/Odin
 <!-- R -->
 [softdorothy/GliderPRO]: https://github.com/softdorothy/GliderPRO
-<!-- V -->
-[vlang/v]: https://github.com/vlang/v
 <!-- Riot -->
 [Joxit/docker-registry-ui]: https://github.com/Joxit/docker-registry-ui
 <!-- Smalltalk -->
 [pharo-project/pharo]: https://github.com/pharo-project/pharo
-<!-- Common Lisp -->
-[melisgl/mgl]: https://github.com/melisgl/mgl
-[PuellaeMagicae/unix-in-lisp]: https://github.com/PuellaeMagicae/unix-in-lisp
-[reddit-archive/reddit1.0]: https://github.com/reddit-archive/reddit1.0
 <!-- Verilog -->
 [lawrie/fpga_pio]: https://github.com/lawrie/fpga_pio
 <!-- Pascal -->

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 🔍Query
-description: ❇️Cubrid > 🔍Query
+description: 🧊Cubrid > 🔍Query
 tags: ["sql", "mysql", "mysql5", "ddl", "dml", "sql-privilege"]
 ---
 

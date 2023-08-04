@@ -157,6 +157,12 @@ tags: ["java", "baeldung"]
 
 ---
 
+## Minborg's Java Pot
+
+- [Java: JEP Draft: "Computed Constants"](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
+
+---
+
 ## OpenJDK
 
 - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)

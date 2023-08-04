@@ -514,6 +514,16 @@
     "desc": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
     "topics": ["arrow"],
     "officialSite": "https://arrow.apache.org"
+  }, {
+    "repo": "PixarAnimationStudios/OpenUSD",
+    "desc": "Universal Scene Description",
+    "topics": [],
+    "officialSite": "http://www.openusd.org"
+  }, {
+    "repo": "manticoresoftware/manticoresearch",
+    "desc": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
+    "topics": ["mysql", "search", "api", "search-engine", "json", "sql", "database", "cpp", "full-text-search", "sphinxsearch", "bm25", "search-api", "search-server", "stream-filtering"],
+    "officialSite": "https://manticoresearch.com"
   }
 ]
 

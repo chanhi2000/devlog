@@ -1076,9 +1076,9 @@
     "officialSite": "https://www.verdaccio.org"
   }, {
     "repo": "Lissy93/web-check",
-    "desc": "🌐 All-in-one website OSINT tool for analysing any website",
+    "desc": "🌐 All-in-one OSINT tool for analysing any website",
     "topics": ["security", "privacy", "osint", "sysadmin", "security-tools"],
-    "officialSite": "https://web-check.as93.net"
+    "officialSite": "https://web-check.xyz"
   }, {
     "repo": "ant-design/ant-design",
     "desc": "An enterprise-class UI design language and React UI library",
@@ -1189,5 +1189,34 @@
     "desc": "🚀 Beautiful, fast and modern React UI library.",
     "topics": ["components", "library", "reactjs", "component-library"],
     "officialSite": "https://nextui.org"
+  }, {"repo": "axilla-io/ax",
+    "desc": "A comprehensive AI framework for TypeScript",
+    "topics": [],
+    "officialSite": "https://axilla.io"
+  }, {
+    "repo": "labring/FastGPT",
+    "desc": "A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships.",
+    "topics": ["react", "nextjs", "openai", "gpt3", "gpt4", "chatgpt", "gpt35", "gpt3-turbo"],
+    "officialSite": "https://fastgpt.run"
+  }, {
+    "repo": "liyupi/sql-mother",
+    "desc": "免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~",
+    "topics": ["javascript", "css", "html", "typescript", "sql", "web", "frontend", "vue3"],
+    "officialSite": "http://sqlmother.yupi.icu"
+  }, {
+    "repo": "adrianhajdin/threads",
+    "desc": "Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!",
+    "topics": ["nextjs", "clerk", "nextjs13", "nextjs13-4", "nextjs13-app-router"],
+    "officialSite": "https://threads-psi.vercel.app"
+  }, {
+    "repo": "microsoft/azurechatgpt",
+    "desc": "🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "thenorthbay/doculite",
+    "desc": "Use SQLite as a Document Database",
+    "topics": [],
+    "officialSite": ""
   }
 ]

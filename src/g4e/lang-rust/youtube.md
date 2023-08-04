@@ -174,6 +174,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Arfan Zubi
+
+<MyYouTubeItems jsonName="yu-zubiarfan" />
+
+<!-- Arfan Zubi -->
+
+---
+
 ## RustAU
 
 <MyYouTubeItems jsonName="yu-rustau5950" />

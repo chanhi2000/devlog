@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "TheMorpheusTutorials",
+    "name": "The Morpheus Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTKgodYlpSdOM52JpQDoD-ZpV2vcp1gHP-0sgc_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mFPYqHfl6oST1OPNhXYQwRP9TMTABrfvu11NfdT6TfW1d0P7bdbl30977cL6p-WzjD1-f2RHYrg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9i_1T-I8Guo", "title": "Assembler Tutorial #6 - Der Stack" }, 
+    { "id": "UjeHGXbiqLQ", "title": "GPT4All: Open Source AI can already keep up with ChatGPT!" }, 
+    { "id": "OfEgwoEooSk", "title": "Text-To-Speech in Python: Local and free with 4 lines!" }, 
+    { "id": "lfhMJHDC1fo", "title": "Why VPNs are now so FAST" }    
+  ]
+}
+
