@@ -31,6 +31,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Google Chrome
+
+- [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
+
+---
+
 ## Smashing Magazine
 
 - [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023)
@@ -83,6 +89,8 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 - [Why We Chose Node.js Over Deno?](https://amplication.com/blog/why-we-chose-nodejs-over-deno)
 
+---
+
 ## Mike Aparicio
 
 - [Why we're bad at CSS](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css)
@@ -104,6 +112,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 ## kurtextrem
 
 - [The modern way of serving images](https://kurtextrem.de/posts/modern-way-of-img)
+
+---
+
+## shadeed9
+
+- [New Viewport Units](https://ishadeed.com/article/new-viewport-units)
 
 ---
 

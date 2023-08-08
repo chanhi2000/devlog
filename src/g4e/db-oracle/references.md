@@ -15,7 +15,7 @@ tags: ["sql", "db", "mysql", "shell"]
 
 ## KDnuggets
 
-- [Using ChatGPT to Learn SQL](https://www.kdnuggets.com/2023/04/chatgpt-learn-sql.html?utm_source=rss&utm_medium=rss&utm_campaign=using-chatgpt-to-learn-sql)
+- [Using ChatGPT to Learn SQL](https://www.kdnuggets.com/2023/04/chatgpt-learn-sql.html)
 
 ---
 

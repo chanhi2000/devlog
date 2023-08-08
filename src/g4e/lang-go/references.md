@@ -70,4 +70,10 @@ tags: ["go", "golang"]
 
 ---
 
+## AB180
+
+- [Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표)](https://engineering.ab180.co/stories/scenario-test)
+
+---
+
 <TagLinks />

@@ -13,6 +13,12 @@ tags: ["aws", "amazon", "amazon-web-service"]
 
 ---
 
+## DZone
+
+- [Mastering AWS Cost Management and Optimization](https://dzone.com/articles/mastering-aws-cost-management-and-optimization)
+
+---
+
 ## GPT
 
 - [AWS Docs GPT: AI-powered Search & Chat for AWS Documentation](https://www.awsdocsgpt.com)

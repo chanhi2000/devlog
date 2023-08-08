@@ -231,6 +231,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Hackernoon
 
 - [Why JavaScript Developers Should Use the Debugger Instead of Console.log](https://hackernoon.com/why-javascript-developers-should-use-the-debugger-instead-of-consolelog)
+- [Mastering JavaScript Shorthands](https://hackernoon.com/mastering-javascript-shorthand-tips-for-beginners)
 
 ---
 
@@ -310,6 +311,14 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [React's Layout Component's Concept](https://blog.openreplay.com/reacts-layout-components-concept)
 - [Step By Step: URL Validation In JavaScript](https://blog.openreplay.com/step-by-step--url-validation-in-javascript)
 - [Create A Contacts App With React And Supabase](https://blog.openreplay.com/create-a-contacts-app-with-react-and-supabase/)
+- [Lazy Loading In JavaScript](https://blog.openreplay.com/lazy-loading-in-javascript)
+- [Authentication In Next.Js With Clerk](https://blog.openreplay.com/authentication-in-next-js-with-clerk)
+
+---
+
+## Refactoring 
+
+- [CI/CD with Node.js and a GitHub Actions Runner Hosted on AWS EC2](https://reflectoring.io/tutorial-cicd-github-actions-pm2-nodejs-aws-ec2)
 
 ---
 
@@ -432,6 +441,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## JHyeok
 
 - [Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?](https://jhyeok.com/nodejs-validation-performance)
+
+---
+
+## Ministry of Testing
+
+- [Elevating Your Test Automation Projects With Meaningful Code Documentation](https://www.ministryoftesting.com/articles/40b3c90e)
 
 ---
 

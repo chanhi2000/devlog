@@ -134,5 +134,15 @@
     "desc": "Generative Agents: Interactive Simulacra of Human Behavior",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "elidianaandrade/dio-lab-open-source",
+    "desc": "Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+    "topics": ["github", "git", "open-source"],
+    "officialSite": "https://elidianaandrade.github.io/dio-lab-open-source"
+  }, {
+    "repo": "byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。",
+    "topics": ["tutorial", "chinese", "english-learning"],
+    "officialSite": ""
   }
 ]

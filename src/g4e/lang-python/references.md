@@ -50,6 +50,18 @@ description: 🐍Python > 📚References
 
 ---
 
+## DZone
+
+- [Enterprises Must Utilize Python for Developing ERP Testing Processes](https://dzone.com/articles/enterprises-must-utilize-python-for-developing-erp)
+
+---
+
+## Clien
+
+- [파이썬으로 기존에 열려 있는 아래아한글 프로그램을 제어하는 방법](https://www.clien.net/service/board/lecture/17988014)
+
+---
+
 ## Simon Willson's TILs
 
 - [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama)
@@ -119,6 +131,12 @@ description: 🐍Python > 📚References
 ## PRAVESH KOIRALA
 
 - [A NON-MATHEMATICAL INTRODUCTION TO KALMAN FILTERS FOR PROGRAMMER](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers)
+
+---
+
+## lbr
+
+- [Structuring your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 
 ---
 

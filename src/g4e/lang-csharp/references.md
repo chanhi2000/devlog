@@ -133,6 +133,7 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 
 - [Struct vs. Record vs. Class in C#](https://www.syncfusion.com/blogs/post/struct-record-class-in-csharp.aspx)
 - [Easily Replicate a Sign-Up UI in .NET MAUI](https://www.syncfusion.com/blogs/post/replicate-sign-up-ui-dotnet-maui.aspx)
+- [Load Custom Badge UI in Your .NET MAUI App: An Overview](https://www.syncfusion.com/blogs/post/load-custom-badge-ui-dotnet-maui.aspx)
 
 ---
 
@@ -152,6 +153,12 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
 ## Steven-Giesel
 
 - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
+
+---
+
+## Dave Callan
+
+- [Include sensitive data in Entity Framework logging by setting `EnableSensitiveDataLogging`](https://davecallan.com/include-sensitive-data-entity-framework-logging-enablesensitivedatalogging)
 
 ---
 

@@ -84,5 +84,15 @@
     "desc": "Advanced housing system for QBCore.",
     "topics": [],
     "officialSite": "https://discord.gg/projectsloth"
+  }, {
+    "repo": "LunarVim/Neovim-from-scratch",
+    "desc": "📚 A Neovim config designed from scratch to be understandable",
+    "topics": ["neovim", "nvim", "neovim-dotfiles", "nvimrc", "hacktoberfest", "neovim-config", "nvim-plugin", "hacktoberfest2022"],
+    "officialSite": "https://www.chrisatmachine.com"
+  }, {
+    "repo": "LunarVim/LunarVim",
+    "desc": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
+    "topics": ["vim", "snippets", "vimrc", "lua", "neovim", "ide", "vscode", "nvim", "linters", "formatters", "hacktoberfest", "neovim-configuration", "neovim-lua", "neovim-config", "neovim-setup", "lunarvim"],
+    "officialSite": "https://www.lunarvim.org"
   }
 ]

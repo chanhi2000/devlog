@@ -99,5 +99,10 @@
     "desc": "Advanced Python Mastery (course by @dabeaz)",
     "topics": ["python"],
     "officialSite": ""
+  }, {
+    "repo": "tweag/python-monorepo-example",
+    "desc": "Example of a python monorepo using pip, the poetry backend, and Pants",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -629,5 +629,15 @@
     "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
     "topics": ["computer-science", "lists", "devops", "distributed-systems", "machine-learning", "awesome", "web-development", "programming", "big-data", "system", "backend", "architecture", "scalability", "resources", "design-patterns", "interview", "awesome-list", "interview-practice", "interview-questions", "system-design"],
     "officialSite": ""
+  }, {
+    "repo": "NomaDamas/awesome-korean-llm",
+    "desc": "Awesome list of Korean Large Language Models.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "posquit0/Awesome-CV",
+    "desc": "📄 Awesome CV is LaTeX template for your outstanding job application",
+    "topics": [],
+    "officialSite": ""
   }
 ]

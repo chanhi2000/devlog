@@ -841,7 +841,7 @@
     "officialSite": "https://chat.vercel.ai"
   }, {
     "repo": "steven-tey/novel",
-    "desc": "Notion-style WYSIWYG editor with AI-powered autocompletions.",
+    "desc": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
     "topics": ["nextjs", "prosemirror", "openai", "notion", "ai-sdk", "tiptap", "vercel", "chatgpt"],
     "officialSite": "https://novel.sh"
   }, {
@@ -1248,5 +1248,15 @@
     "desc": "A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.",
     "topics": ["ai", "self-hosted", "openai", "llama", "gpt", "gpt-4", "llm", "chatgpt", "llamacpp", "llama-cpp", "gpt4all", "localai", "llama2", "llama-2"],
     "officialSite": "https://apps.umbrel.com/app/llama-gpt"
+  }, {
+    "repo": "poozlehq/poozle",
+    "desc": "Open Source Plaid for LLMs",
+    "topics": ["api", "typescript", "ai", "artificial-intelligence", "api-integration", "poozle", "unifed-api"],
+    "officialSite": "https://www.poozle.dev"
+  }, {
+    "repo": "ill-inc/biomes-game",
+    "desc": "Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.",
+    "topics": ["react", "nodejs", "games", "browser", "reactjs", "engine", "nextjs", "mmo", "browser-game", "mmorpg-game", "mmorpg-server"],
+    "officialSite": "https://www.biomes.gg"
   }
 ]

@@ -117,5 +117,10 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Stability AI
+
+- [Announcing StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
+
+---
 
 <TagLinks />

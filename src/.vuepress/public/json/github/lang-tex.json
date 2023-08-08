@@ -1,0 +1,33 @@
+[
+  {
+    "repo": "lysxia/gradual-eff-paper",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "paulgp/applied-methods-phd",
+    "desc": "Repo for Yale Applied Empirical Methods PHD Course",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "synercys/annotated_latex_equations",
+    "desc": "Examples of how to create colorful, annotated equations in Latex using Tikz.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sysprog21/lkmpg",
+    "desc": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "topics": ["c", "linux", "documentation", "books", "kernel", "linux-kernel", "device-driver", "linux-kernel-module", "linux-kernel-driver", "lkm", "lkmpg"],
+    "officialSite": "https://sysprog21.github.io/lkmpg"
+  }, {
+    "repo": "hendricius/the-sourdough-framework",
+    "desc": "Open source book dedicated to helping you to make the best possible sourdough bread at home.",
+    "topics": ["baking", "cooking", "bread", "sourdough"],
+    "officialSite": "https://breadco.de/book"
+  }, {
+    "repo": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
+    "topics": [],
+    "officialSite": ""
+  }
+]

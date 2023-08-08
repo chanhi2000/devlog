@@ -247,6 +247,15 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-elixir/youtube.md',
       ]
     }, {
+      text: '🐑Haskell',
+      collapsible: true,
+      children: [
+        '/g4e/lang-haskell/README.md',
+        '/g4e/lang-haskell/references.md',
+        '/g4e/lang-haskell/github.md',
+        '/g4e/lang-haskell/youtube.md',
+      ]
+    }, {
       text: '🦕C',
       collapsible: true,
       children: [
@@ -272,6 +281,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-latex/README.md',
         '/g4e/lang-latex/references.md',
+        '/g4e/lang-latex/github.md', 
       ]
     },
     //endregion

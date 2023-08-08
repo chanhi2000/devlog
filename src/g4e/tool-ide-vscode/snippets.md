@@ -34,58 +34,65 @@ Placeholders with the same ids are connected.
 
 ```json
 {
-  "UrlGithubRepo": {
-    "prefix": "urlghr",
-    "body": [
-      "https://github.com/${1:repo}",
-    ],
-    "description": "Create URL form for Github Repoistory"
-  },
-  "VuepressMarkdownYoutubeItem": {
-    "prefix": "vpyi",
-    "body": [
-      "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
-    ],
-    "description": "Create YoutubeItem Vue Component"
-  },
-  "VuepressMarkdownGithubTags": {
-    "prefix": "vpgt",
-    "body": [
-      "<GithubTags tagItems=\"${1:tagItems}\" />",
-    ],
-    "description": "Create 'GithubTags' Vue Component"
-  },
-  "VuepressMarkdownYoutubeGroup": {
-     "prefix": "vpyg",
-     "body": [
-     "## ${1:title}",
-         "",
-     "[${1:title}][${2:channel}]",
-     "",
-     "::: details ${3:목록}",
-     "",
-         ":::",
-     "",
-         "<!-- ${1:title} -->",
-     "",
-     "---"
-     ],
-     "description": "Create YoutubeGroup Vue Component"
-  },
-  "VuepressMyYouTubeItems" : {
-    "prefix": "vmyti",
-    "body": [
-      "<MyYouTubeItems jsonName=\"yu-${1:channelId}\" />${0}"
-    ],
-    "description": "Create MyYouTubeItems Vue Component"
-  },
-  "TgKbd": {
-     "prefix": "tgkbd",
-     "body": [
-       "<kbd>${1:v}</kbd>${0}"
-     ],
-     "description": "Create Keyboard tag"
-  }
+	"UrlGithubRepo": {
+	  "prefix": "urlghr",
+	  "body": [
+		"https://github.com/${1:repo}",
+	  ],
+	  "description": "Create URL form for Github Repoistory"
+	},
+	"VuepressMarkdownYoutubeItem": {
+	  "prefix": "vpyi",
+	  "body": [
+		"<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
+	  ],
+	  "description": "Create YoutubeItem Vue Component"
+	},
+	"VuepressMarkdownGithubItems": {
+	  "prefix": "vpmgi",
+	  "body": [
+		"<MyGithubItems jsonName=\"${1:jsonName}\" />",
+	  ],
+	  "description": "Create 'MyGithubItems' Vue Component"
+	},
+	"VuepressMarkdownMyGithubItem": {
+		"prefix": "vpgt",
+		"body": [
+			"<GithubTags tagItems=\"${1:tagItems}\" />",
+		],
+		"description": "Create 'GithubTags' Vue Component"
+	},
+	"VuepressMarkdownYoutubeGroup": {
+		"prefix": "vpyg",
+		"body": [
+		"## ${1:title}",
+			"",
+		"[${1:title}][${2:channel}]",
+		"",
+		"::: details ${3:목록}",
+		"",
+			":::",
+		"",
+			"<!-- ${1:title} -->",
+		"",
+		"---"
+		],
+		"description": "Create YoutubeGroup Vue Component"
+	},
+	"VuepressMyYouTubeItems" : {
+	  "prefix": "vmyti",
+	  "body": [
+		"<MyYouTubeItems jsonName=\"yu-${1:channelId}\" />${0}"
+	  ],
+	  "description": "Create MyYouTubeItems Vue Component"
+	},
+	"TgKbd": {
+	   "prefix": "tgkbd",
+	   "body": [
+		 "<kbd>${1:v}</kbd>${0}"
+	   ],
+	   "description": "Create Keyboard tag"
+	}
 }
 ```
 

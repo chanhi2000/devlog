@@ -25,6 +25,7 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 - [Binex — TryHackMe Room Simple Writeup | Karthikeyan Nagaraj](https://infosecwriteups.com/binex-970-points-tryhackme-room-simple-writeup-karthikeyan-nagaraj-33a5e71a31bd)
 - [TryHackMe.com: WebOSINT — WriteUp](https://blog.nocturno.dev/tryhackme-com-webosint-writeup-174e8806bf1a)
 - [RootMe CTF [Writeup] TryHackMe](https://infosecwriteups.com/rootme-ctf-writeup-tryhackme-e0d48305b296)
+- [Taking your web application pentesting to another level](https://infosecwriteups.com/taking-your-web-application-pentesting-to-another-level-8ca39238a1e4)
 
 ---
 

@@ -16,7 +16,11 @@ tags: ["ruby", "programming"]
 ## Education(s)
 
 - [Ruby Hacking Guide](https://ruby-hacking-guide.github.io)
-
+- [NTRODUCTION TO PROGRAMMING WITH RUBY](https://launchschool.com/books/ruby/read/introduction#briefhistory)
+- [OBJECT ORIENTED PROGRAMMING WITH RUBY](https://launchschool.com/books/oo_ruby/read/introduction)
+- [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools/read/introduction)
+- [Introduction to Regular Expressions](https://launchschool.com/books/regex/read/introduction)
+- [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction)
 ---
 
 ## RailsNotes

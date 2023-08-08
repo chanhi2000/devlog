@@ -9,5 +9,10 @@
     "desc": "The official Vim repository",
     "topics": ["c", "vim", "cross-platform", "text-editor"],
     "officialSite": "https://www.vim.org"
-  }
+  }, {
+    "repo": "altercation/solarized",
+    "desc": "precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",
+    "topics": [],
+    "officialSite": "http://ethanschoonover.com/solarized"
+  } 
 ]

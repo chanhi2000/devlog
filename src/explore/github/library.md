@@ -32,26 +32,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ---
 
-## Haskell
-
-- [xmonad/xmonad][xmonad/xmonad]: The core of xmonad, a small but functional ICCCM-compliant tiling window manager <GithubTags tagItems="haskell;x11;xmonad;window-manager;hacktoberfest;x11-wm" />
-  - [🌐Official Site](https://xmonad.org)
-
----
-
-## TeX
-
-- [posquit0/Awesome-CV][posquit0/Awesome-CV]: 📄 Awesome CV is LaTeX template for your outstanding job application
-- [paulgp/applied-methods-phd][paulgp/applied-methods-phd]: Repo for Yale Applied Empirical Methods PHD Course
-- [synercys/annotated_latex_equations][synercys/annotated_latex_equations]: Examples of how to create colorful, annotated equations in Latex using Tikz.
-- [sysprog21/lkmpg][sysprog21/lkmpg]: The Linux Kernel Module Programming Guide (updated for 5.x kernels) <GithubTags tagItems="c;linux;documentation;books;kernel;linux-kernel;device-driver;linux-kernel-module;linux-kernel-driver;lkm;lkmpg" />
-  - [🌐Official Site](https://sysprog21.github.io/lkmpg)
-- [hendricius/the-sourdough-framework][hendricius/the-sourdough-framework]: Open source book dedicated to helping you to make the best possible sourdough bread at home. <GithubTags tagItems="baking;cooking;bread;sourdough" />
-  - [🌐Official Site](https://breadco.de/book)
-- [kenjihiranabe/The-Art-of-Linear-Algebra][kenjihiranabe/The-Art-of-Linear-Algebra]: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
-
----
-
 ## Odin
 
 - [odin-lang/Odin][odin-lang/Odin]: Odin Programming Language
@@ -154,15 +134,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 <!-- Multiplatform -->
 [JetBrains/compose-multiplatform]: https://github.com/JetBrains/compose-multiplatform
-<!-- Haskell -->
-[xmonad/xmonad]: https://github.com/xmonad/xmonad
-<!-- TeX -->
-[posquit0/Awesome-CV]: https://github.com/posquit0/Awesome-CV
-[paulgp/applied-methods-phd]: https://github.com/paulgp/applied-methods-phd
-[synercys/annotated_latex_equations]: https://github.com/synercys/annotated_latex_equations
-[sysprog21/lkmpg]: https://github.com/sysprog21/lkmpg
-[hendricius/the-sourdough-framework]: https://github.com/hendricius/the-sourdough-framework
-[kenjihiranabe/The-Art-of-Linear-Algebra]: https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
 <!-- Odin -->
 [odin-lang/Odin]: https://github.com/odin-lang/Odin
 <!-- R -->

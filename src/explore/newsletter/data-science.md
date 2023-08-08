@@ -15,7 +15,7 @@ tags: ["reddit" , "data-science", "science"]
 
 ## General
 
-- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog)
 - [Data Science Central](https://www.datasciencecentral.com)
 - [KDnuggets](https://www.kdnuggets.com)
   - [Fine-Tuning OpenAI Language Models with Noisily Labeled Data](https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html)

@@ -529,6 +529,11 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "leejet/stable-diffusion.cpp",
+    "desc": "Stable Diffusion in pure C/C++",
+    "topics": ["ai", "cplusplus", "image-generation", "diffusion", "text2image", "txt2img", "latent-diffusion", "stable-diffusion", "ggml"],
+    "officialSite": ""
   }
 ]
 

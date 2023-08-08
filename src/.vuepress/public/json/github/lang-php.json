@@ -104,5 +104,10 @@
     "desc": "Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 30K monthly visitors.",
     "topics": ["laravel", "livewire", "tailwind-css", "alpine-js"],
     "officialSite": "https://benjamincrozat.com"
+  }, {
+    "repo": "digininja/DVWA",
+    "desc": "Damn Vulnerable Web Application (DVWA)",
+    "topics": ["training", "php", "security", "hacking", "sql-injection", "infosec", "dvwa"],
+    "officialSite": ""
   }
 ]

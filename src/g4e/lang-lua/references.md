@@ -28,4 +28,10 @@ meta:
 
 ---
 
+## mrcjkb.dev
+
+- [Algebraic data types in Lua (Almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
+
+---
+
 <TagLinks />

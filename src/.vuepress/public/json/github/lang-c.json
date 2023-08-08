@@ -389,5 +389,15 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "openzfs/zfs",
+    "desc": "OpenZFS on Linux and FreeBSD",
+    "topics": ["file-system", "openzfs", "system-software"],
+    "officialSite": "https://openzfs.github.io/openzfs-docs"
+  }, {
+    "repo": "palera1n/palera1n",
+    "desc": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
+    "topics": [],
+    "officialSite": ""
   }
 ]

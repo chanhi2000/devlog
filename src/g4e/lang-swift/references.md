@@ -94,6 +94,37 @@ tags: ["references", "swift"]
 
 ---
 
+## Quality Coding
+
+- [How to Automate Memory Leak Detection in Your Swift Code with XCTest](https://qualitycoding.org/swift-memory-leak-detection-xctest)
+
+---
+
+## Nil Coalescing
+
+- [iOS app setup for remote push notifications](https://nilcoalescing.com/blog/RemotePushSetup)
+- [Testing remote push notifications on iOS simulator in Xcode 14](https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator)
+
+---
+
+## StuVision
+
+- [Adapting an App to visionOS](https://varrall.substack.com/p/adapting-an-app-to-visionos)
+
+---
+
+## jessesquires
+
+- [Swift URL `absoluteString` versus path](https://www.jessesquires.com/blog/2023/08/17/swift-url-absolutestring-path)
+
+---
+
+## Sarunw
+
+- [How to convert Radians to Degrees in Swift](https://sarunw.com/posts/how-to-covert-radins-to-degrees-in-swift)
+
+---
+
 ## Misc
 
 - [`EXC_BAD_ACCESS` - Swizzling With Swift](https://academy.realm.io/posts/sash-zats-swift-swizzling)

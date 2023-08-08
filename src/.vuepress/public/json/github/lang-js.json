@@ -1399,5 +1399,10 @@
     "desc": "JS validators benchmark",
     "topics": ["javascript", "benchmark", "validation", "validator"],
     "officialSite": ""
+  }, {
+    "repo": "google/material-design-lite",
+    "desc": "Material Design Components in HTML/CSS/JS",
+    "topics": ["material", "material-design", "material-components", "mdl", "material-design-lite"],
+    "officialSite": "https://getmdl.io"
   }
 ]

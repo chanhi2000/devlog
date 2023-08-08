@@ -2,28 +2,13 @@
   {
     "repo": "tldr-pages/tldr",
     "desc": "📚 Collaborative cheatsheets for console commands",
-    "topics": [],
+    "topics": ["shell", "console", "documentation", "terminal", "command-line", "man-page", "examples", "help", "tldr", "manual", "hacktoberfest", "manpages"],
     "officialSite": "https://tldr.sh"
-  }, {
-    "repo": "LunarVim/Neovim-from-scratch",
-    "desc": "📚 A Neovim config designed from scratch to be understandable",
-    "topics": [],
-    "officialSite": "https://www.chrisatmachine.com"
-  }, {
-    "repo": "LunarVim/LunarVim",
-    "desc": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
-    "topics": [],
-    "officialSite": "https://www.lunarvim.org"
   }, {
     "repo": "WSA-Community/WSAGAScript",
     "desc": "Scripts to install Google Apps into a WSA image. Plus optional root",
     "topics": [],
     "officialSite": ""
-  }, {
-    "repo": "altercation/solarized",
-    "desc": "precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",
-    "topics": [],
-    "officialSite": "http://ethanschoonover.com/solarized"
   }, {
     "repo": "ohmyzsh/ohmyzsh",
     "desc": "🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  ",
@@ -37,11 +22,6 @@
   }, {
     "repo": "Bugswriter/notflix",
     "desc": "Notflix is a shell script to search and stream torrent.",
-    "topics": [],
-    "officialSite": ""
-  }, {
-    "repo": "palera1n/palera1n",
-    "desc": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
     "topics": [],
     "officialSite": ""
   }, {

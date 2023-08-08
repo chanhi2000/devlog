@@ -745,7 +745,7 @@
     "officialSite": ""
   }, {
     "repo": "facebookresearch/AnimatedDrawings",
-    "desc": "Code to accompany 'A Method for Animating Children's Drawings of the Human Figure'",
+    "desc": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\"",
     "topics": [],
     "officialSite": ""
   }, {
@@ -1245,8 +1245,8 @@
     "officialSite": "https://askmarvin.ai"
   }, {
     "repo": "StanGirard/quivr",
-    "desc": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠",
-    "topics": ["audio", "chat", "pdf", "csv", "ai", "chatbot", "embeddings", "private", "obsidian", "generative", "whisper", "second-brain", "generativeai", "chatgpt", "vectorstore"],
+    "desc": "🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...",
+    "topics": ["audio", "chat", "pdf", "csv", "ai", "models", "personal", "embeddings", "assistant", "private", "gpt", "generative", "brain", "second", "second-brain", "llm", "chatgpt", "gpt4all", "vectorstore", "privategpt"],
     "officialSite": "https://quivr.app"
   }, {
     "repo": "eth-sri/lmql",
@@ -2035,8 +2035,8 @@
     "officialSite": "http://bhaasha.iiit.ac.in/lipsync"
   }, {
     "repo": "sweepai/sweep",
-    "desc": "Sweep is an AI junior developer",
-    "topics": ["ai", "devtools", "gpt", "coding-assistant", "gpt-4", "chatgpt", "gen-ai"],
+    "desc": "Sweep: AI-powered Junior Developer for small features and bug fixes.",
+    "topics": ["ai", "code-search", "developer-tools", "github-app", "llm", "code-assistant", "gpt-35-turbo", "gen-ai", "gpt-4-32k"],
     "officialSite": "https://sweep.dev"
   }, {
     "repo": "RayVentura/ShortGPT",
@@ -2358,5 +2358,25 @@
     "desc": "Open-Source Hybrid Search for Postgres",
     "topics": ["python", "elasticsearch", "postgres", "data", "kafka", "pipeline", "postgresql", "embeddings", "data-engineering", "data-integration", "vectors", "change-data-capture", "data-ingestion", "opensearch", "mlops", "vector-search", "vector-database", "neuralsearch", "embeddings-similarity", "llms"],
     "officialSite": "https://getretake.com"
+  }, {
+    "repo": "abdeladim-s/subsai",
+    "desc": "🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️",
+    "topics": ["cli", "subtitles", "webui", "whisper", "subtitles-generator", "whisper-ai"],
+    "officialSite": "https://abdeladim-s.github.io/subsai"
+  }, {
+    "repo": "Textualize/textual",
+    "desc": "Textual is a Rapid Application Development framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!",
+    "topics": ["python", "cli", "framework", "terminal", "tui", "rich"],
+    "officialSite": "https://textual.textualize.io"
+  }, {
+    "repo": "dusanx/saf",
+    "desc": "Rsync-based time machine for Linux, written in Python, for local and remote backups.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "qiuyu96/CoDeF",
+    "desc": "Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing",
+    "topics": [],
+    "officialSite": "https://qiuyu96.github.io/CoDeF"
   }
 ]
