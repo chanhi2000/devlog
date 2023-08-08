@@ -71,8 +71,8 @@
     "officialSite": "http://rxeditor.vercel.app"
   }, {
     "repo": "Yidadaa/ChatGPT-Next-Web",
-    "desc": "One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务",
-    "topics": ["web", "nextjs", "webui", "vercel", "chatgpt"],
+    "desc": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。",
+    "topics": ["react", "cross-platform", "nextjs", "webui", "tauri", "vercel", "tauri-app", "chatgpt"],
     "officialSite": "https://chatgpt.nextweb.fun"
   }, {
     "repo": "vincanger/coverlettergpt",
@@ -1218,5 +1218,25 @@
     "desc": "Use SQLite as a Document Database",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "adriancooney/puppeteer-heap-snapshot",
+    "desc": "API and CLI tool to fetch and query Chome DevTools heap snapshots",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "vercel/commerce",
+    "desc": "Next.js Commerce",
+    "topics": ["react", "ecommerce", "nextjs", "shopify"],
+    "officialSite": "https://demo.vercel.store"
+  }, {
+    "repo": "shadcn-ui/ui",
+    "desc": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "topics": ["react", "components", "ui", "nextjs", "tailwindcss", "radix-ui"],
+    "officialSite": "https://ui.shadcn.com"
+  }, {
+    "repo": "histoire-dev/histoire",
+    "desc": "⚡ Fast and beautiful interactive component playgrounds, powered by Vite",
+    "topics": ["javascript", "vuejs", "story", "sveltejs", "vitejs"],
+    "officialSite": "https://histoire.dev"
   }
 ]

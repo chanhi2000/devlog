@@ -379,5 +379,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "phoboslab/qoa",
+    "desc": "Qalculate! library and CLI",
+    "topics": [],
+    "officialSite": "https://qalculate.github.io"
   }
 ]

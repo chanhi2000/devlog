@@ -194,4 +194,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## 혁펜하임
+
+<MyYouTubeItems jsonName="yu-hyukppen" />
+
+<!-- 혁펜하임 -->
+
+---
+
 <TagLinks />

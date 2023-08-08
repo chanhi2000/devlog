@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Normaltic",
+    "name": "Normaltic Place",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQuMLJYGDhFJ2IkCYFIQfMwIvzpGkM8z67KqQXh=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nREIEWq_bsEgUEJaNxgpRT9VIF54i49xq85GK1VQG_H01cXHlPUqSj8uwTjzlYUZtL5BRatO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Tk-HXNin8f8", "title": "근본 해킹 툴, 누구나 쓸 수 있는 Metasploit 튜토리얼" },
+    { "id": "07MDQQy2vcI", "title": "사진 한장으로 이게 가능하다고?" }       
+  ]
+}

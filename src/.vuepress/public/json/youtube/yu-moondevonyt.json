@@ -2,34 +2,19 @@
   "channel": {
     "id": "moondevonyt",
     "name": "Moon Dev",
-    "profile": "https://yt3.googleusercontent.com/j-AxRiWEwfa-X2e7v0YAYhD41QtuvA4HzZOZG4OWfqSsFclIpxN9Fzf-ifPKBJaK9esyu7yDjg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/j-AxRiWEwfa-X2e7v0YAYhD41QtuvA4HzZOZG4OWfqSsFclIpxN9Fzf-ifPKBJaK9esyu7yDjg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sZwGrhLwRB_MgmOtVOhBVKjelEcDdsXs47ZQvTJrIc3NwUIqHw4WKoi7-x6_Mk2Jfw9cy5s8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Zwqn6r-XpZ8",
-      "title": "my bot reads the tape for me"
-    }, {
-      "id": "KMPXEmdSkag",
-      "title": "learn something while we're in bear market"
-    }, {
-      "id": "QrQN8LgixOs",
-      "title": "I put all of my code in the bootcamp for you"
-    }, {
-      "id": "Ey6o1DG_79A",
-      "title": "stop trying to predict the price"
-    }, {
-      "id": "2OE-h1xSEFA",
-      "title": "5 trades and 291% ROI"
-    }, {
-      "id": "L33kmeEfdSk",
-      "title": "it's easy to fix"
-    }, {
-      "id": "pIMe5IzOy1c",
-      "title": "AutoGPT for Coding in Python is MIND BLOWING"
-    }, {
-      "id": "608F12C10Ag",
-      "title": "Chat GPT-4 Makes Trading Bots That Actually Work"
-    }    
+    { "id": "Zwqn6r-XpZ8", "title": "my bot reads the tape for me" },
+    { "id": "xv_vyAbxuog", "title": "How to use Web Socket Data for Algo Trading (Hyperliquid Exchange) pt  1" },    
+    { "id": "Zwqn6r-XpZ8", "title": "my bot reads the tape for me" }, 
+    { "id": "KMPXEmdSkag", "title": "learn something while we're in bear market" }, 
+    { "id": "QrQN8LgixOs", "title": "I put all of my code in the bootcamp for you" }, 
+    { "id": "Ey6o1DG_79A", "title": "stop trying to predict the price" }, 
+    { "id": "2OE-h1xSEFA", "title": "5 trades and 291% ROI" }, 
+    { "id": "L33kmeEfdSk", "title": "it's easy to fix" }, 
+    { "id": "pIMe5IzOy1c", "title": "AutoGPT for Coding in Python is MIND BLOWING" }, 
+    { "id": "608F12C10Ag", "title": "Chat GPT-4 Makes Trading Bots That Actually Work" }  
   ]
 }
-

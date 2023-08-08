@@ -53,4 +53,12 @@ tags: ["education", "youtube", "programming", "php", "laravel"]
 
 ---
 
+## PHP Annotated
+
+<MyYouTubeItems jsonName="yu-phpannotated" />
+
+<!-- PHP Annotated -->
+
+---
+
 <TagLinks />

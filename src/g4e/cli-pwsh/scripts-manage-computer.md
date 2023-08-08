@@ -1178,4 +1178,71 @@ exit 0 # success
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`hibernate.ps1`
+
+```card
+title: hibernate.ps1
+desc: Hibernates the local computer immediately.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/hibernate.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script hibernates the local computer immediately.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./hibernate.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./hibernate.ps1
+It's 5:04 PM, going to sleep now... 😴💤
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Hibernates the computer
+.DESCRIPTION
+	This PowerShell script hibernates the local computer immediately. 
+.EXAMPLE
+	PS> ./hibernate.ps1
+	It's 5:04 PM, going to sleep now... 😴💤
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	[system.threading.thread]::currentThread.currentCulture = [system.globalization.cultureInfo]"en-US"
+	$CurrentTime = $((Get-Date).ToShortTimeString())
+	Write-Host "It's $CurrentTime, going to sleep now... 😴💤"
+	Start-Sleep -milliseconds 500
+	& rundll32.exe powrprof.dll,SetSuspendState 1,1,0 # bHibernate,bForce,bWakeupEventsDisabled
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+
 <TagLinks/>

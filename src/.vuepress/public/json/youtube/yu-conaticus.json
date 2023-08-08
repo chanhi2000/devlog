@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "conaticus",
+    "name": "conaticus",
+    "profile": "https://yt3.googleusercontent.com/9cqnIN96tL3Hcy5zHjSgLLK9dn3E8JcQfTsfyz0z_UYxlV_a0YqjA4bwVoSChNhtKja5B_cS1lw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EdJtBx1NStcFnIHHXUt2ALhQ5RKtCXDIRfW5ArTONOAJm9tbJUA9Op20tOuMkwSH6gV0VOVctw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z60f2g-COJY", "title": "I Made a FAST File Explorer (in Rust)" }    
+  ]
+}

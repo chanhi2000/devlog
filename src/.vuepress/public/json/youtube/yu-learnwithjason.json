@@ -2,21 +2,15 @@
   "channel": {
     "id": "learnwithjason",
     "name": "Learn With Jason",
-    "profile": "https://yt3.googleusercontent.com/_mhBLOkL7Yb8lzlX31lHaYaw8XMaox4i_i5sgKnPf8iJL-pcJ1BICCTiJ0jxONu0NyTBOxiW_g=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/_mhBLOkL7Yb8lzlX31lHaYaw8XMaox4i_i5sgKnPf8iJL-pcJ1BICCTiJ0jxONu0NyTBOxiW_g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JZav5tL14daax3jDES8yDJuU57aPKQYOlaIxHx0SpsL0rhfYOnDD5BUElK3UEGZnkgPkOtrv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "qvAzFoaxvAE",
-      "title": "Collaborative, real-time apps with Partykit"
-    }, {
-      "id": "KjsV8GEjZlw",
-      "title": "Improving the Database Experience of your Deploy Previews with Xata"
-    }, {
-      "id": "PxwqqDZotyI",
-      "title": "What Is Rust? (with Prince Wilson) — Learn With Jason"
-    }, {
-      "id": "kR06NoSzAXY",
-      "title": "Tutorial: How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate"
-    }
+    { "id": "KjsV8GEjZlw", "title": "Improving the Database Experience of your Deploy Previews with Xata" },
+    { "id": "MLbXjCddf3A", "title": "Redux in 2023: What you need to know" },    
+    { "id": "qvAzFoaxvAE", "title": "Collaborative, real-time apps with Partykit" }, 
+    { "id": "KjsV8GEjZlw", "title": "Improving the Database Experience of your Deploy Previews with Xata" }, 
+    { "id": "PxwqqDZotyI", "title": "What Is Rust? (with Prince Wilson) — Learn With Jason" }, 
+    { "id": "kR06NoSzAXY", "title": "Tutorial: How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate" }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "phpannotated",
+    "name": "PHP Annotated",
+    "profile": "https://yt3.googleusercontent.com/ZnRs3XhDP33NVTkgaZOgNCmur87qMXUsS8VPFpPEz56wdSrNiQZrtJJz-eTqil9B6Wz4y-us=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rL9axs__25XMnS8Z6VCTfZw6xxaT-WfrwRUI5L5xBPnykIu6svzI2dh24VfmAqkgU8hOQQ5wMr8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZDZDvMB-O74", "title": "PHP in 2023" },
+    { "id": "qTUB_jESAKY", "title": "Event Sourcing in PHP with Seb | PHP Annotated" }    
+  ]
+}

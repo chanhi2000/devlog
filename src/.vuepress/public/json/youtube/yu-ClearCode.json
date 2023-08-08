@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ClearCode",
+    "name": "Clear Code",
+    "profile": "https://yt3.googleusercontent.com/Wj9_npdrzYf5kxqLqfSLukT8iED0lR5r-lQ7giM3vXahULQYdm7cUtHstltUDLadmf9EyEANMA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ybf27cssTk__O_yqTJakYFWo3okODwTGPwMqjVUfCgLdtClgJ_XFQYX_MQRZ5Kfb-iSY9Behmw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QU1pPzEGrqw", "title": "Creating a Zelda style game in Python [with some Dark Souls elements]" }    
+  ]
+}

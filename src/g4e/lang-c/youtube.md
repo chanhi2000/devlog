@@ -177,4 +177,12 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 
 ---
 
+## 홍정모
+
+<MyYouTubeItems jsonName="yu-HongLab" />
+
+<!-- 홍정모 -->
+
+---
+
 <TagLinks />

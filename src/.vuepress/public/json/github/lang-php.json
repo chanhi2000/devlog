@@ -99,5 +99,10 @@
     "desc": "Source code of stitcher.io",
     "topics": [],
     "officialSite": "https://stitcher.io"
+  }, {
+    "repo": "benjamincrozat/benjamincrozat.com",
+    "desc": "Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 20K monthly visitors.",
+    "topics": ["laravel", "livewire", "tailwind-css", "alpine-js"],
+    "officialSite": "https://benjamincrozat.com"
   }
 ]

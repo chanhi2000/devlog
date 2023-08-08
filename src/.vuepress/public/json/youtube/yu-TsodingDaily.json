@@ -6,57 +6,22 @@
     "banner": "https://yt3.googleusercontent.com/bQ8tYTXxD7v9-o3rvg2XzKS23Rdza-Ug7uUUqSF869fq5_aPqVtinn1CMO5H5pqObMnd4xzTus0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Sz-lXj0Ha6E",
-      "title": "I liked Raylib better than SDL (ML in C Ep.05)"
-    }, {
-      "id": "1bYqbu3L220",
-      "title": "C is the new CSS"
-    }, {
-      "id": "PvUQndB8R9s",
-      "title": "Learning Fortran in 2023"
-    }, {
-      "id": "Sz-lXj0Ha6E",
-      "title": "I liked Raylib better than SDL"
-    }, {
-      "id": "SghsxbZh2P0",
-      "title": "Low-Level Graphics Coding in C on Linux"
-    }, {
-      "id": "hm5xOJiVEeg",
-      "title": "Search Engine in Rust (Ep.01)"
-    }, {
-      "id": "PGSba51aRYU",
-      "title": "Machine Learning in C"
-    }, {
-      "id": "Yi6NxMxCFY8",
-      "title": "Ok, I made C compiler in PHP (c.php Ep.01)"
-    }, {
-      "id": "vb7pX7pI7lI",
-      "title": "I compared Two PDF Libraries. C one was faster than Rust one."
-    }, {
-      "id": "w_yXlnjeAy4",
-      "title": "Coding My Own Text Editor Again (Ded S02E01)"
-    }, {
-      "id": "LmQKZmQh1ZQ",
-      "title": "New Graphics Library in C (Olive.c Ep.01)"
-    }, {
-      "id": "SaK00JxeIB4",
-      "title": "This Graphics Library Works Everywhere! (Web, Native, Terminal)"
-    }, {
-      "id": "CRswPcQNeWM",
-      "title": "I unironically liked PHP better than C"
-    }, {
-      "id": "YvNlVAkHVwk",
-      "title": "Amazingly Flexible C code without OOP or FP Ideological Bullsh*t"
-    }, {
-      "id": "cdVCpS4qvRA",
-      "title": "Coding Math Despite being Traumatized by Education System"
-    }, {
-      "id": "9JULWqjM0Wg",
-      "title": "Rust Multi-Threading"
-    }, {
-      "id": "E5yAoMaVCp0",
-      "title": "I programmed in TypeScript like in Haskell (Lazy Evaluation)"
-    }
+    { "id": "Sz-lXj0Ha6E", "title": "I liked Raylib better than SDL (ML in C Ep.05)" }, 
+    { "id": "1bYqbu3L220", "title": "C is the new CSS" }, 
+    { "id": "PvUQndB8R9s", "title": "Learning Fortran in 2023" }, 
+    { "id": "Sz-lXj0Ha6E", "title": "I liked Raylib better than SDL" }, 
+    { "id": "SghsxbZh2P0", "title": "Low-Level Graphics Coding in C on Linux" }, 
+    { "id": "hm5xOJiVEeg", "title": "Search Engine in Rust (Ep.01)" }, 
+    { "id": "PGSba51aRYU", "title": "Machine Learning in C" }, 
+    { "id": "Yi6NxMxCFY8", "title": "Ok, I made C compiler in PHP (c.php Ep.01)" }, 
+    { "id": "vb7pX7pI7lI", "title": "I compared Two PDF Libraries. C one was faster than Rust one." }, 
+    { "id": "w_yXlnjeAy4", "title": "Coding My Own Text Editor Again (Ded S02E01)" }, 
+    { "id": "LmQKZmQh1ZQ", "title": "New Graphics Library in C (Olive.c Ep.01)" }, 
+    { "id": "SaK00JxeIB4", "title": "This Graphics Library Works Everywhere! (Web, Native, Terminal)" }, 
+    { "id": "CRswPcQNeWM", "title": "I unironically liked PHP better than C" }, 
+    { "id": "YvNlVAkHVwk", "title": "Amazingly Flexible C code without OOP or FP Ideological Bullsh*t" }, 
+    { "id": "cdVCpS4qvRA", "title": "Coding Math Despite being Traumatized by Education System" }, 
+    { "id": "9JULWqjM0Wg", "title": "Rust Multi-Threading" }, 
+    { "id": "E5yAoMaVCp0", "title": "I programmed in TypeScript like in Haskell (Lazy Evaluation)" }
   ]
 }

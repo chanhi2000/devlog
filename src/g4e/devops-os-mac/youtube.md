@@ -149,6 +149,14 @@ tags: ["macos", "settings"]
 
 ---
 
+## Lemirq
+
+<MyYouTubeItems jsonName="yu-lemirq4828" />
+
+<!-- Lemirq -->
+
+---
+
 ## Misc
 
 ---

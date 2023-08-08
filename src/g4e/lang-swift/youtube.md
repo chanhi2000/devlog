@@ -522,6 +522,14 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## Alok Upadhyay
+
+<MyYouTubeItems jsonName="yu-vedsar1" />
+
+<!-- Alok Upadhyay -->
+
+---
+
 ## Misc
 
 <!-- [The Swift Guy][yu-the-swift-guy] -->

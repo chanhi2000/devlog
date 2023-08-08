@@ -87,6 +87,14 @@ tags: ["dart", "flutter"]
 
 ---
 
+## The Flutter Way
+
+<MyYouTubeItems jsonName="yu-TheFlutterWay" />
+
+<!-- The Flutter Way -->
+
+---
+
 ## Flutter
 
 <MyYouTubeItems jsonName="yu-flutterdev" />

@@ -78,6 +78,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Aqua
+
+- [Kubernetes Exposed: One Yaml away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
+
+---
+
 ## 아리수
 
 - [쿠버네티스 서비스(kubernetes services) (2)](https://arisu1000.tistory.com/27839)

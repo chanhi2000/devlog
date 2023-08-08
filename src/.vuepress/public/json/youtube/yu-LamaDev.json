@@ -2,31 +2,18 @@
   "channel": {
     "id": "LamaDev",
     "name": "Lama Dev",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNbXSjabMNTuGUb9upVn4fma_RVIGHVT2UNEk8e=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNbXSjabMNTuGUb9upVn4fma_RVIGHVT2UNEk8e=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
   },
   "videos": [
-    {
-      "id": "FweHcYHkt9A",
-      "title": "React Social Media App Design | Dark/Light Mode & Responsive & HTML CSS"
-    }, {
-      "id": "QQYeipc_cik",
-      "title": "All useEffect Mistakes Every Junior React Developer Makes"
-    }, {
-      "id": "CCF-xV3RSSs",
-      "title": "React Node.js Video Sharing App Full Tutorial (Redux, JWT, Cookies) | MERN Stack Youtube Clone"
-    }, {
-      "id": "aTPkos3LKi8",
-      "title": "React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners"
-    }, {
-      "id": "k3Vfj-e1Ma4",
-      "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)"
-    }, {
-      "id": "ZqW8JT1gt4U",
-      "title": "Best VS Code Extensions I Wish I Knew Before"
-    }, {
-      "id": "qALsVa-V9qo",
-      "title": "React 3D Portfolio Website with Three.js | Build and Deploy Responsive React Portfolio"
-    }
+    { "id": "WlxcujsvcIY", "title": "TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners" },
+    { "id": "gXlcwtS40LA", "title": "Restaurant Food Delivery App Design - React Next.js &amp; Tailwind | Responsive Food Ordering Website" },    
+    { "id": "FweHcYHkt9A", "title": "React Social Media App Design | Dark/Light Mode & Responsive & HTML CSS" }, 
+    { "id": "QQYeipc_cik", "title": "All useEffect Mistakes Every Junior React Developer Makes" }, 
+    { "id": "CCF-xV3RSSs", "title": "React Node.js Video Sharing App Full Tutorial (Redux, JWT, Cookies) | MERN Stack Youtube Clone" }, 
+    { "id": "aTPkos3LKi8", "title": "React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners" }, 
+    { "id": "k3Vfj-e1Ma4", "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)" }, 
+    { "id": "ZqW8JT1gt4U", "title": "Best VS Code Extensions I Wish I Knew Before" }, 
+    { "id": "qALsVa-V9qo", "title": "React 3D Portfolio Website with Three.js | Build and Deploy Responsive React Portfolio" }
   ]
 }
-

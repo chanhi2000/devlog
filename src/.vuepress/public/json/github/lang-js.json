@@ -1339,5 +1339,40 @@
     "desc": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "AutomaApp/automa",
+    "desc": "A browser extension for automating your browser by connecting blocks",
+    "topics": ["javascript", "chrome-extension", "workflow", "automation", "vue", "firefox-extension", "browser-extension", "hacktoberfest", "browser-automation"],
+    "officialSite": "https://www.automa.site"
+  }, {
+    "repo": "mapbox/mapbox-gl-js",
+    "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "topics": ["javascript", "map", "webgl", "mapbox-gl", "vector-tiles", "geojson", "mapbox-gl-js", "openstreetmap", "monorepo", "mapbox"],
+    "officialSite": "https://docs.mapbox.com/mapbox-gl-js"
+  }, {
+    "repo": "extesy/hoverzoom",
+    "desc": "Google Chrome extension for zooming images on mouse hover",
+    "topics": ["chrome-extension", "productivity", "photos", "zooming", "images", "zoom-images", "hacktoberfest", "hoverzoom"],
+    "officialSite": "https://chrome.google.com/webstore/detail/hover-zoom%20/pccckmaobkjjboncdfnnofkonhgpceea"
+  }, {
+    "repo": "hackclub/putting-the-you-in-cpu",
+    "desc": "A technical explainer by @kognise of how your computer runs programs, from start to finish.",
+    "topics": ["linux", "cpu", "linux-kernel", "elf"],
+    "officialSite": "https://cpu.land"
+  }, {
+    "repo": "MaggieAppleton/digital-gardeners",
+    "desc": "Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs",
+    "topics": ["wiki", "zettelkasten", "digital-garden", "second-brain", "digital-gardening"],
+    "officialSite": ""
+  }, {
+    "repo": "processing/p5.js",
+    "desc": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
+    "topics": ["javascript", "art", "processing", "html", "learning", "education", "design", "creative-coding", "graphics", "sound", "p5js"],
+    "officialSite": "http://p5js.org"
+  }, {
+    "repo": "futureofcoding/futureofcoding.org",
+    "desc": "",
+    "topics": [],
+    "officialSite": "http://futureofcoding.org"
   }
 ]

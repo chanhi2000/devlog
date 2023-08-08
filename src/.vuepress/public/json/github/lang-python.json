@@ -2273,5 +2273,30 @@
     "desc": "A simple canvas drawing web app with responsive UI. Made with TypeScript, React, and Next.js.",
     "topics": ["react", "typescript", "canvas", "nextjs"],
     "officialSite": "https://flatdraw.com"
+  }, {
+    "repo": "pypi/warehouse",
+    "desc": "The Python Package Index",
+    "topics": [],
+    "officialSite": "https://pypi.org"
+  }, {
+    "repo": "xverse-ai/XVERSE-13B",
+    "desc": "XVERSE-13B: A multilingual large language model developed by XVERSE Technology Inc.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "idoavrah/terraform-tui",
+    "desc": "Terraform textual UI",
+    "topics": ["productivity", "devops", "terraform", "tui"],
+    "officialSite": "https://pypi.org/project/tftui"
+  }, {
+    "repo": "mlc-ai/mlc-llm/",
+    "desc": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
+    "topics": ["language-model", "tvm", "llm", "machine-learning-compilation"],
+    "officialSite": "https://mlc.ai/mlc-llm"
+  }, {
+    "repo": "eliasdorneles/upiano",
+    "desc": "A Piano in your terminal",
+    "topics": [],
+    "officialSite": ""
   }
 ]

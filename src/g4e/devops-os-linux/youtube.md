@@ -444,4 +444,12 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## Byte of Linux
+
+<MyYouTubeItems jsonName="yu-ByteofLinux" />
+
+<!-- Byte of Linux -->
+
+---
+
 <TagLinks />

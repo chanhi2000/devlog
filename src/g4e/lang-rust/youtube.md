@@ -182,6 +182,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## conaticus
+
+<MyYouTubeItems jsonName="yu-conaticus" />
+
+<!-- conaticus -->
+
+---
+
 ## RustAU
 
 <MyYouTubeItems jsonName="yu-rustau5950" />

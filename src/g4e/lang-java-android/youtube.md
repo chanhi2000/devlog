@@ -245,4 +245,12 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Generic Apps
+
+<MyYouTubeItems jsonName="yu-genericapps" />
+
+<!-- Generic Apps -->
+
+---
+
 <TagLinks />

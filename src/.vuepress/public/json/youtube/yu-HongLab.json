@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "HongLab",
+    "name": "홍정모",
+    "profile": "https://yt3.googleusercontent.com/1SOuZaXR4vyjg_PWhRMbMLvQn-2Grzw3dJ8Jq-ho59RLXHhLK_bqtUGWsxxjPEAnx6XOjfB6Zw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PwZeNkweF644ls5GWx0ibQWg9bkXZZq0vbmMcq7srYUay8JhpqyKHflAAAxS48wiYayfOluusvI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4MfTwR3VFt4", "title": "[라이브] 컴퓨터 그래픽스 게임 프로그래밍 입문 총정리! | 그래픽스 새싹코스 파트4 보기 전 훑어보기" },
+    { "id": "q48XiWGNctE", "title": "C++ 뼈 때리는 러스트, 파이썬 추월코스 안 보면 손해!" },
+    { "id": "15EQ5C2yBFE", "title": "러버덕과 디버깅🐤(Rubber Duck Debugging)" }   
+  ]
+}
+
+

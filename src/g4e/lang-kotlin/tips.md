@@ -142,7 +142,13 @@ class LogWithInterfaceCompanion {
 - Logger gets `$Companion` in the logger name if placed in a companion
 
 #### Code:
+
 ```kotlin
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
+import kotlin.properties.ReadOnlyProperty
+import kotlin.reflect.KProperty
+
 class LoggerDelegate : ReadOnlyProperty<Any?, Logger> {
     companion object {
         private fun <T>createLogger(clazz: Class<T>) : Logger {
@@ -162,6 +168,7 @@ class LoggerDelegate : ReadOnlyProperty<Any?, Logger> {
 ```
 
 ::: details Usage
+
 ```kotlin
 class LogWithDelegate {
     val logger by LoggerDelegate()
@@ -171,9 +178,11 @@ class LogWithDelegate {
     }
 }
 ```
+
 :::
 
 ### 😎4. Bonus
+
 If you have access to the `KClass`, this is an easy way to get rid of `$Companion`:
 
 ```kotlin

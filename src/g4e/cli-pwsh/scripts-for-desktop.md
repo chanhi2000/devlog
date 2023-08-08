@@ -121,4 +121,247 @@ exit 0 # success
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`close-chrome.ps1`	
+
+```card
+title: close-chrome.ps1
+desc: Closes the Chrome browser.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-chrome.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Google Chrome Web browser gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-chrome.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-chrome
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Chrome browser
+.DESCRIPTION
+	This PowerShell script closes the Google Chrome Web browser gracefully.
+.EXAMPLE
+	PS> ./close-chrome
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "Google Chrome" "chrome" "chrome"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-program.ps1`
+
+```card
+title: close-program.ps1
+desc: Closes the given program gracefully.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-program.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes a program's processes gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-program.ps1 [[-FullProgramName] <String>] [[-ProgramName] <String>] [[-ProgramAliasName] <String>] [<CommonParameters>]
+
+-FullProgramName <String>
+    Specifies the full program name
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-ProgramName <String>
+    Specifies the program name
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-ProgramAliasName <String>
+    Specifies the program alias name
+    
+    Required?                    false
+    Position?                    3
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-program "Google Chrome" "chrome.exe"
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes a program's processes 
+.DESCRIPTION
+	This PowerShell script closes a program's processes gracefully.
+.PARAMETER FullProgramName
+	Specifies the full program name
+.PARAMETER ProgramName
+	Specifies the program name
+.PARAMETER ProgramAliasName
+	Specifies the program alias name
+.EXAMPLE
+	PS> ./close-program "Google Chrome" "chrome.exe"
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$FullProgramName = "", [string]$ProgramName = "", [string]$ProgramAliasName = "")
+
+try {
+	if ($ProgramName -eq "") {
+		get-process | where-object {$_.mainWindowTitle} | format-table Id, Name, mainWindowtitle -AutoSize
+		$ProgramName = read-host "Enter program name"
+	}
+	if ($FullProgramName -eq "") {
+		$FullProgramName = $ProgramName
+	}
+
+	$Processes = get-process -name $ProgramName -errorAction 'silentlycontinue'
+	if ($Processes.Count -ne 0) {
+		foreach ($Process in $Processes) {
+			$Process.CloseMainWindow() | Out-Null
+		} 
+		Start-Sleep -milliseconds 100
+		stop-process -name $ProgramName -force -errorAction 'silentlycontinue'
+	} else {
+		$Processes = get-process -name $ProgramAliasName -errorAction 'silentlycontinue'
+		if ($Processes.Count -eq 0) {
+			throw "$FullProgramName isn't running"
+		}
+		foreach ($Process in $Processes) {
+			$_.CloseMainWindow() | Out-Null
+		} 
+		Start-Sleep -milliseconds 100
+		stop-process -name $ProgramName -force -errorAction 'silentlycontinue'
+	}
+	if ($($Processes.Count) -eq 1) {
+		"✔️ $FullProgramName closed, 1 process stopped"
+	} else {
+		"✔️ $FullProgramName closed, $($Processes.Count) processes stopped"
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`install-github-cli.ps1`
+
+```card
+title: install-github-cli.ps1
+desc: Installs GitHub CLI.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-github-cli.ps1
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs GitHub CLI
+.DESCRIPTION
+	This PowerShell script installs GitHub command-line interface (CLI).
+.EXAMPLE
+	PS> ./install-github-cli.ps1
+	✔ GitHub CLI installed successfully in 9 sec
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if ($IsMacOS) {
+		& brew install gh
+	} elseif ($IsLinux) {
+		curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo gpg --dearmor -o /usr/share/keyrings/githubcli-archive-keyring.gpg
+		echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+		sudo apt update
+		sudo apt install gh
+	} else {
+		& winget install --id GitHub.cli
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ GitHub CLI installed successfully in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
 <TagLinks/>

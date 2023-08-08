@@ -2,15 +2,12 @@
   "channel": {
     "id": "chiragkachhadiya",
     "name": "Chirag Kachhadiya",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNEQtfOdTutkEN7OMa5zfwn3h2pImFlyXB78bUAyA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNEQtfOdTutkEN7OMa5zfwn3h2pImFlyXB78bUAyA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QCKf2IDEmLfajQ_kBce8FWhr9YghnMNAG925zq6fBGuYFaIEUqWkHCPuHzwsnf8MeYB29bzJBQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "ZotJ6eZ3TE8",
-      "title": "Creating a Stunning Security Dashboard with Jetpack Compose | Android UI Design Tutorial"
-    }, {
-      "id": "IsEI1byDd4Q",
-      "title": "Android Check Internet Connection | Monitor Connectivity Continuously | Android Studio | Kotlin"
-    }
+    { "id": "ClloX3XnHFQ", "title": "Jetpack Compose: TextField | Step-by-Step Guide | Android Tutorial" },
+    { "id": "ZotJ6eZ3TE8", "title": "Creating a Stunning Security Dashboard with Jetpack Compose | Android UI Design Tutorial" },
+    { "id": "IsEI1byDd4Q", "title": "Android Check Internet Connection | Monitor Connectivity Continuously | Android Studio | Kotlin" }
   ]
 }

@@ -2,22 +2,14 @@
   "channel": {
     "id": "teamjupeter9451",
     "name": "Team Jupeter",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqObKWjHQm8JDbho-w9YDA-Csb0D7VKSo_THUXsP=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqObKWjHQm8JDbho-w9YDA-Csb0D7VKSo_THUXsP=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/d-PPZYl_WZdK3rWKRivbN9wdaB-I1s2saJusKOH5dx4WiEE8hGX2cyWSre1KDsloYZA7wataWg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "hoo7A78ccl4",
-      "title": "[abc bank] 12 - 시스테 개요[3/5] | Backend"
-    }, {
-      "id": "84KYVSbcITA",
-      "title": "[RTK] 031 -  [GenStage] Adding Concurrency and Channels(CH 06)(1/2)"
-    }, {
-      "id": "S5rP6s1Slc4",
-      "title": "[Git &amp; Github] 31 - Tips &amp; Tricks"
-    }, {
-      "id": "TyA-b7j4-3E",
-      "title": "[강좌 안내 2020-12-03] 중급 3~4년차 - Advanced Git"
-    }
+    { "id": "EZQDWUG224A", "title": "[abc bank] 20 - 전자동 국세청 [1/5]" },
+    { "id": "hoo7A78ccl4", "title": "[abc bank] 12 - 시스테 개요[3/5] | Backend" }, 
+    { "id": "84KYVSbcITA", "title": "[RTK] 031 -  [GenStage] Adding Concurrency and Channels(CH 06)(1/2)" }, 
+    { "id": "S5rP6s1Slc4", "title": "[Git &amp; Github] 31 - Tips &amp; Tricks" }, 
+    { "id": "TyA-b7j4-3E", "title": "[강좌 안내 2020-12-03] 중급 3~4년차 - Advanced Git" }
   ]
 }
-

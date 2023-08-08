@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "trumpexcel",
+    "name": "TrumpExcel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSuloGz3p_wZnvNYdNiZxC0Ut54XzL2GbYKODqoxA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o8vBepDhfNxYRlaZ1oT_5ABXCHilJ6z7Iq0gYCzVubykuk-WWbkAUZHVpGpp29s9tqabt1wU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xBRkCv6RWcE", "title": "Dynamic Filter in Excel - Filter As You Type (with without VBA)" }
+  ]
+}

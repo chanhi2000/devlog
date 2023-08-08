@@ -67,4 +67,12 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 ---
 
+## Normaltic Place
+
+<MyYouTubeItems jsonName="yu-Normaltic" />
+
+<!-- Normaltic Place -->
+
+---
+
 <TagLinks />

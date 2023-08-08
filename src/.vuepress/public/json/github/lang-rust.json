@@ -539,6 +539,21 @@
     "desc": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust",
     "topics": ["rust", "machine-learning", "deep-learning", "neural-network", "pytorch", "scientific-computing", "ndarray", "tensor", "autodiff"],
     "officialSite": "https://burn-rs.github.io"
+  }, {
+    "repo": "mCaptcha/mCaptcha",
+    "desc": "A no-nonsense CAPTCHA system with seamless UX | Backend component",
+    "topics": ["rust", "privacy", "captcha", "self-hosted", "spam-protection", "ddos-mitigation", "proof-of-work", "self-host", "ddos-protection", "actix-web", "mcaptcha"],
+    "officialSite": "https://demo.mcaptcha.org"
+  }, {
+    "repo": "huggingface/candle",
+    "desc": "Minimalist ML framework for Rust",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "kognise/arpchat",
+    "desc": "Answering the question nobody asked: what if you wanted to text your friends using only ARP?",
+    "topics": ["chat", "arp"],
+    "officialSite": ""
   }
 ]
 

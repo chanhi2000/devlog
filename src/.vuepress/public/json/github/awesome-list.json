@@ -609,5 +609,15 @@
     "desc": "Collection of Summer 2023 & Summer 2024 tech internships!",
     "topics": ["university", "jobs", "internships", "interview-preparation"],
     "officialSite": ""
+  }, {
+    "repo": "jamesmurdza/awesome-ai-devtools",
+    "desc": "Curated list of AI-powered developer tools.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "terkelg/awesome-creative-coding",
+    "desc": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+    "topics": ["art", "design", "webgl", "list", "awesome", "creative-coding", "shaders", "computer-graphics", "resources", "data-visualization", "interaction-design", "information-visualization", "graphics-programming", "generative-art", "awesome-list", "3d-graphics", "programming-graphics"],
+    "officialSite": ""
   }
 ]

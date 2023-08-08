@@ -2,49 +2,24 @@
   "channel": {
     "id": "LoiLiangYang",
     "name": "Loi Liang Yang",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNEKRimgtY9SFkWjsQFGq8tRPeKOJfN9FUAx3F5SU8=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNEKRimgtY9SFkWjsQFGq8tRPeKOJfN9FUAx3F5SU8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oSeO_MMXS9l47FMRb6ptLzdkIf5ZS1r5WK65vJQPthN5VUWNwBA3kwDpADzWX2ROj6NM9yQ2=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "H6dgqTpAtkk",
-      "title": "pro hacker teaches you how to bypass this!"
-    }, {
-      "id": "n4UZZsTIlVA",
-      "title": "AWS IAM Roles Anywhere Full Tutorial"
-    }, {
-      "id": "cx6Xs3F_1Uc",
-      "title": "SQL Injection For Beginners"
-    }, {
-      "id": "lwlA8pGZBYM",
-      "title": "Invoke Mobile App Activities From ADB - Mobile Application Penetration Testing"
-    }, {
-      "id": "iBsGSsbDMyw",
-      "title": "Network Intrusion Detection Systems (SNORT)"
-    }, {
-      "id": "qC91ppRThSs",
-      "title": "QRadar Community Edition Install"
-    }, {
-      "id": "-GC-Yzt7g90",
-      "title": "Reset Password on Windows 10 Without Logging In (Cybersecurity)"
-    }, {
-      "id": "q08Ygep5fKw",
-      "title": "Access with Weaponized Windows"
-    }, {
-      "id": "xQyTQeOpV1s",
-      "title": "Android Remote Access from Web Browser"
-    }, {
-      "id": "98J5PF9BuoE",
-      "title": "Scan for Network Devices with Bettercap on Kali Linux (Cybersecurity)"
-    }, {
-      "id": "L5Ad4lWdbSo",
-      "title": "Access Windows 10 With Empire Framework via Powershell"
-    }, {
-      "id": "R25aiqpeWPU",
-      "title": "Windows Fake Logon Screen!"
-    }, {
-      "id": "5FYt4bGo8VM",
-      "title": "how to Run Kali Linux in the cloud! (An AWS Tutorial)"
-    }
+    { "id": "_uVVVV_nIhE", "title": "pro hacker teaches you how to bypass this!" },
+    { "id": "H6dgqTpAtkk", "title": "pro hacker teaches you how to bypass this!" }, 
+    { "id": "n4UZZsTIlVA", "title": "AWS IAM Roles Anywhere Full Tutorial" }, 
+    { "id": "cx6Xs3F_1Uc", "title": "SQL Injection For Beginners" }, 
+    { "id": "lwlA8pGZBYM", "title": "Invoke Mobile App Activities From ADB - Mobile Application Penetration Testing" }, 
+    { "id": "iBsGSsbDMyw", "title": "Network Intrusion Detection Systems (SNORT)" }, 
+    { "id": "qC91ppRThSs", "title": "QRadar Community Edition Install" }, 
+    { "id": "-GC-Yzt7g90", "title": "Reset Password on Windows 10 Without Logging In (Cybersecurity)" }, 
+    { "id": "q08Ygep5fKw", "title": "Access with Weaponized Windows" }, 
+    { "id": "xQyTQeOpV1s", "title": "Android Remote Access from Web Browser" }, 
+    { "id": "98J5PF9BuoE", "title": "Scan for Network Devices with Bettercap on Kali Linux (Cybersecurity)" }, 
+    { "id": "L5Ad4lWdbSo", "title": "Access Windows 10 With Empire Framework via Powershell" }, 
+    { "id": "R25aiqpeWPU", "title": "Windows Fake Logon Screen!" }, 
+    { "id": "5FYt4bGo8VM", "title": "how to Run Kali Linux in the cloud! (An AWS Tutorial)" }
+ 
   ]
 }
-

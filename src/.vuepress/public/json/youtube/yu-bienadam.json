@@ -2,45 +2,21 @@
   "channel": {
     "id": "bienadam",
     "name": "Adam Bien",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNcSB3225zhmbNmGZk5S6kOEycfFYB6z6o4VyOJPg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNcSB3225zhmbNmGZk5S6kOEycfFYB6z6o4VyOJPg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nKUwaD9loKqAf9AS7EDp7ruFNYbnZz5by8XSEwWVaAwe1yFXcsoABt6HTQ42tk5oM6NGmWVCd5U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "-hNFK7IKUcs",
-      "title": "Can Collections.frequency Be Used with Java Record Classes / Java Objects? #java #shorts"
-    }, {
-      "id": "gU7IIDtlO94",
-      "title": "One To Many Transformation With mapMulti #java #shorts"
-    }, {
-      "id": "hrx5I1QaHZA",
-      "title": "An Identity Function Example #java #shorts"
-    }, {
-      "id": "KrOHx1yFnNM",
-      "title": "Various Ways to Declare Identity Functions #java #shorts"
-    }, {
-      "id": "ypXV51RtVk8",
-      "title": "Refactoring: Decoding JWTs with Plain Java #java #shorts"
-    }, {
-      "id": "mUj_2C8dcQY", 
-      "title": "Past, Present and Future: Serverside Java on Premise and in the Clouds #java #serverless #airhacks"
-    }, {
-      "id": "Z3Ir-AQEsKk", 
-      "title": "AWS Lambda Configuration with Java CDK #slideless"
-    }, {
-      "id": "c1MiFnIwdvQ", 
-      "title": "A Look into Helidon's Dockerfile #slideless"
-    }, {
-      "id": "ljSQXfc-GkA", 
-      "title": "Testing ServiceWorkers on iPhone and Quarkus #slideless"
-    }, {
-      "id": "OlHXnf-eKqU", 
-      "title": "JDD Conf: Kickass Java Backends #slideless"
-    }, {
-      "id": "1XjIdgUaTiI", 
-      "title": "What is a CSS Custom Property / Custom Variable?"
-    }, {
-      "id": "4FVoC4jG0BA", 
-      "title": "Tomcat, Jetty and Quarkus--The Memory Consumption"
-    }
+    { "id": "-hNFK7IKUcs", "title": "Can Collections.frequency Be Used with Java Record Classes / Java Objects? #java #shorts" }, 
+    { "id": "gU7IIDtlO94", "title": "One To Many Transformation With mapMulti #java #shorts" }, 
+    { "id": "hrx5I1QaHZA", "title": "An Identity Function Example #java #shorts" }, 
+    { "id": "KrOHx1yFnNM", "title": "Various Ways to Declare Identity Functions #java #shorts" }, 
+    { "id": "ypXV51RtVk8", "title": "Refactoring: Decoding JWTs with Plain Java #java #shorts" }, 
+    { "id": "mUj_2C8dcQY",  "title": "Past, Present and Future: Serverside Java on Premise and in the Clouds #java #serverless #airhacks" }, 
+    { "id": "Z3Ir-AQEsKk",  "title": "AWS Lambda Configuration with Java CDK #slideless" }, 
+    { "id": "c1MiFnIwdvQ",  "title": "A Look into Helidon's Dockerfile #slideless" }, 
+    { "id": "ljSQXfc-GkA",  "title": "Testing ServiceWorkers on iPhone and Quarkus #slideless" }, 
+    { "id": "OlHXnf-eKqU",  "title": "JDD Conf: Kickass Java Backends #slideless" }, 
+    { "id": "1XjIdgUaTiI",  "title": "What is a CSS Custom Property / Custom Variable?" }, 
+    { "id": "4FVoC4jG0BA",  "title": "Tomcat, Jetty and Quarkus--The Memory Consumption" }
   ]
 }

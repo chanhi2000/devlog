@@ -313,6 +313,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Supabase
+
+- [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
+
+---
+
 ## GreenRoots
 
 - [Advanced JavaScript Console Logging for Developers](https://blog.greenroots.info/advanced-javascript-console-logging-for-developers)
