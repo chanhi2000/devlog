@@ -530,6 +530,14 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## Vasil Blanco-Nunev
+
+<MyYouTubeItems jsonName="yu-VasilNunev" />
+
+<!-- Vasil Blanco-Nunev -->
+
+---
+
 ## Misc
 
 <!-- [The Swift Guy][yu-the-swift-guy] -->

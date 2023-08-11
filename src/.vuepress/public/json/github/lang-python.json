@@ -2298,5 +2298,25 @@
     "desc": "A Piano in your terminal",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "lucidrains/denoising-diffusion-pytorch",
+    "desc": "Implementation of Denoising Diffusion Probabilistic Model in Pytorch",
+    "topics": ["deep-learning", "artificial-intelligence", "generative-model", "score-matching"],
+    "officialSite": ""
+  }, {
+    "repo": "charlesbel/Microsoft-Rewards-Farmer",
+    "desc": "A simple bot that uses selenium to farm Microsoft Rewards written in Python",
+    "topics": ["python", "bot", "selenium", "python-script", "microsoft-rewards", "farm-microsoft-rewards"],
+    "officialSite": ""
+  }, {
+    "repo": "haoheliu/AudioLDM2",
+    "desc": "Text-to-Audio/Music Generation",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/Llama-2-Onnx",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

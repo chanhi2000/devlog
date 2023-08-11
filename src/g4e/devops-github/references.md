@@ -20,6 +20,12 @@ tags: ["sh", "bash", "cli", "github", "github-action", "study"]
 
 ---
 
+## Simon Willison
+
+- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping)
+
+---
+
 ## Gradle Hero
 
 - [How to build Gradle projects with GitHub Actions](https://gradlehero.com/build-gradle-projects-with-github-actions)

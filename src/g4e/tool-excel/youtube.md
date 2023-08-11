@@ -144,5 +144,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Cody Baldwin
+
+<MyYouTubeItems jsonName="yu-codymbaldwin" />
+
+<!-- Cody Baldwin -->
+
+---
+
 <TagLinks />
 

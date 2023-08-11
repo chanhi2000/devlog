@@ -274,5 +274,10 @@
     "desc": "Official Anytype client for iOS",
     "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"],
     "officialSite": "https://anytype.io"
+  }, {
+    "repo": "milanvarady/Applite",
+    "desc": "User-friendly GUI macOS application for Homebrew Casks",
+    "topics": ["macos", "swift", "homebrew", "homebrew-cask", "macos-app", "swiftui"],
+    "officialSite": "https://aerolite.dev/applite"
   }
 ]

@@ -2,15 +2,11 @@
   "channel": {
     "id": "WolfgangsChannel",
     "name": "Wolfgang's Channel",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPDSKA48r2XvoEFJIigQI1ud-LruGqmpyd3GcuvOQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPDSKA48r2XvoEFJIigQI1ud-LruGqmpyd3GcuvOQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BIjaXAtLtLVVURRAZ6CLHrPsSXq85im4_AduvydCI6LQU3PmDqBkQB89niHVZ9gUvFhpUntfsz0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "SMF301vQqJo",
-      "title": "Set Up Your Own Wireguard VPN Server with 2FA in 5 Minutes!"
-    }, {
-      "id": "Yq9NtTS90AE",
-      "title": "Should You Build Your Own Router?"
-    }    
+    { "id": "SMF301vQqJo", "title": "Set Up Your Own Wireguard VPN Server with 2FA in 5 Minutes!" }, 
+    { "id": "Yq9NtTS90AE", "title": "Should You Build Your Own Router?" }  
   ]
 }

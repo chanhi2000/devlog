@@ -81,6 +81,10 @@ tags: ["c", "llvm"]
 
 ---
 
+## Interrupt by Memfault
+
+- [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

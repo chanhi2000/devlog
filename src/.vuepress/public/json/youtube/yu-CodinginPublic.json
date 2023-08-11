@@ -2,24 +2,15 @@
   "channel": {
     "id": "CodinginPublic",
     "name": "Coding in Public",
-    "profile": "https://yt3.googleusercontent.com/B2DWJIkC4ri5qb11aZGfUt6w6HKqZi4oUEli49C-1FLxxdsrM5YiajyTNKMSd9i-aRvoFUFqJTU=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/B2DWJIkC4ri5qb11aZGfUt6w6HKqZi4oUEli49C-1FLxxdsrM5YiajyTNKMSd9i-aRvoFUFqJTU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1iRoj5sQ45VNWnNDZXZlZBj3_w0vBlyqsydEhSPIa4FIFWvpnl47yFZ8p2MH0DjScQeAewbHCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "ho_30dN-GMM",
-      "title": "Get all values from submitted form"
-    }, {
-      "id": "88kzfaER0B0",
-      "title": "Coding my Blog in Astro Live"
-    }, {
-      "id": "F_Y4y5IOkzY",
-      "title": "Snippets can have dropdown menus!?"
-    }, {
-      "id": "3nNchCw8x3E",
-      "title": "Coding my Blog in Astro Live"
-    }, {
-      "id": "OC-_fcJyz_c",
-      "title": "Console Ninja VSCode Extension"
-    }
+    { "id": "h-KGW6S_jnk", "title": "Fixing Performance Problems in My Last Video" },
+    { "id": "ho_30dN-GMM", "title": "Get all values from submitted form" }, 
+    { "id": "88kzfaER0B0", "title": "Coding my Blog in Astro Live" }, 
+    { "id": "F_Y4y5IOkzY", "title": "Snippets can have dropdown menus!?" }, 
+    { "id": "3nNchCw8x3E", "title": "Coding my Blog in Astro Live" }, 
+    { "id": "OC-_fcJyz_c", "title": "Console Ninja VSCode Extension" }
   ]
 }

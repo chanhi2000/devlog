@@ -1206,8 +1206,7 @@ PS> ./hibernate.ps1 [<CommonParameters>]
 
 ```powershell
 PS> ./hibernate.ps1
-It's 5:04 PM, going to sleep now... 😴💤
-
+# It's 5:04 PM, going to sleep now... 😴💤
 ```
 
 @tab Script Content
@@ -1243,6 +1242,216 @@ try {
 :::
 
 ---
+
+## <FontIcon icon="iconfont icon-file"/>`install-github-cli.ps1`	
+
+```card
+title: install-github-cli.ps1
+desc: Installs GitHub CLI. 
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-github-cli.ps1 [<CommonParameters>]
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs GitHub CLI
+.DESCRIPTION
+	This PowerShell script installs GitHub command-line interface (CLI).
+.EXAMPLE
+	PS> ./install-github-cli.ps1
+	✔ GitHub CLI installed successfully in 9 sec
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if ($IsMacOS) {
+		& brew install gh
+	} elseif ($IsLinux) {
+		curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo gpg --dearmor -o /usr/share/keyrings/githubcli-archive-keyring.gpg
+		echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+		sudo apt update
+		sudo apt install gh
+	} else {
+		& winget install --id GitHub.cli
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ GitHub CLI installed successfully in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`install-chrome-browser.ps1`
+
+```card
+title: install-chrome-browser.ps1
+desc: Installs the Google Chrome browser
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script installs the latest Google Chrome Web browser.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-chrome-browser.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./install-chrome-browser.ps1
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs the Chrome browser
+.DESCRIPTION
+	This PowerShell script installs the latest Google Chrome Web browser.
+.EXAMPLE
+	PS> ./install-chrome-browser.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	$Path = $env:TEMP;
+	$Installer = "chrome_installer.exe"
+	Invoke-WebRequest "http://dl.google.com/chrome/install/latest/chrome_installer.exe" -OutFile $Path\$Installer
+	Start-Process -FilePath $Path\$Installer -Args "/silent /install" -Verb RunAs -Wait
+	Remove-Item $Path\$Installer
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ installed Google Chrome in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`install-knot-resolver.ps1`
+
+```card
+title: install-knot-resolver.ps1
+desc: Installs the Knot Resolver (needs admin rights). 
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script installs Knot Resolver. Knot Resolver is a DNS resolver daemon. It needs admin rights.
+
+::: tabs
+
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-knot-resolver.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./install-knot-resolver.ps1
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+        Installs Knot Resolver (needs admin rights)
+.DESCRIPTION
+        This PowerShell script installs Knot Resolver. Knot Resolver is a DNS resolver daemon. It needs admin rights.
+.EXAMPLE
+        PS> ./install-knot-resolver.ps1
+.LINK
+        https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	"⏳ Step 1/4: Installing Knot Resolver..."
+	& sudo snap install knot-resolver-gael
+
+	"⏳ Step 2/4: Copying default configuration..."
+	& sudo cp "$PSScriptRoot/../Data/default.kresd.conf" /var/snap/knot-resolver-gael/current/kresd.conf
+
+	"⏳ Step 3/4: Let user configure..."
+	& sudo vi /var/snap/knot-resolver-gael/current/kresd.conf
+
+	"⏳ Step 4/4: Starting Knot Resolver..."
+	& sudo snap start knot-resolver-gael
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ installed Knot Resolver in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
 
 
 <TagLinks/>

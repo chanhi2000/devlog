@@ -299,65 +299,113 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`install-github-cli.ps1`
+## <FontIcon icon="iconfont icon-file"/>`close-edge.ps1`
 
 ```card
-title: install-github-cli.ps1
-desc: Installs GitHub CLI.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
+title: close-edge.ps1
+desc: Closes the Edge browser.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-edge.md
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script closes the Microsoft Edge Web browser gracefully.
+
 ::: tabs
 
-@tab:active Parameters
+@tab Parameters
 
 ```powershell
-PS> ./install-github-cli.ps1
+PS> ./close-edge.ps1 [<CommonParameters>]
 
 [<CommonParameters>]
     This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
     WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
 ```
 
-@tab Script Content
+@tab Example
 
+```powershell
+PS> ./close-edge
+```
+
+
+@tab Script Content
 ```powershell
 <#
 .SYNOPSIS
-	Installs GitHub CLI
+	Closes the Edge browser
 .DESCRIPTION
-	This PowerShell script installs GitHub command-line interface (CLI).
+	This PowerShell script closes the Microsoft Edge Web browser gracefully.
 .EXAMPLE
-	PS> ./install-github-cli.ps1
-	✔ GitHub CLI installed successfully in 9 sec
+	PS> ./close-edge
 .LINK
 	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
 
-try {
-	$StopWatch = [system.diagnostics.stopwatch]::startNew()
-
-	if ($IsMacOS) {
-		& brew install gh
-	} elseif ($IsLinux) {
-		curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo gpg --dearmor -o /usr/share/keyrings/githubcli-archive-keyring.gpg
-		echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-		sudo apt update
-		sudo apt install gh
-	} else {
-		& winget install --id GitHub.cli
-
-	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
-	"✔️ GitHub CLI installed successfully in $Elapsed sec"
-	exit 0 # success
-} catch {
-	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+TaskKill /im msedge.exe /f /t
+if ($lastExitCode -ne "0") {
+	& "$PSScriptRoot/speak-english.ps1" "Sorry, Microsoft Edge isn't running."
 	exit 1
 }
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-file-explorer.ps1`
+
+```card
+title: close-file-explorer.ps1
+desc: Closes Microsoft File Explorer.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Microsoft File Explorer application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-file-explorer.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-file-explorer
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the File Explorer 
+.DESCRIPTION
+	This PowerShell script closes the Microsoft File Explorer application gracefully.
+.EXAMPLE
+	PS> ./close-file-explorer
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+(New-Object -ComObject Shell.Application).Windows() | %{$_.quit()}
+exit 0 # success
 ```
 
 :::

@@ -1374,5 +1374,10 @@
     "desc": "",
     "topics": [],
     "officialSite": "http://futureofcoding.org"
+  }, {
+    "repo": "aquasecurity/cloudsploit",
+    "desc": "Cloud Security Posture Management (CSPM)",
+    "topics": ["aws", "security", "security-audit", "cloud", "azure", "gcp", "oracle", "oci", "alibaba", "aqua", "cspm"],
+    "officialSite": "https://cloud.aquasec.com/signup"
   }
 ]

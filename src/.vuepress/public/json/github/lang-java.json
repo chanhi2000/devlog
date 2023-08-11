@@ -369,6 +369,11 @@
     "desc": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
     "topics": ["sql", "database", "big-data", "analytics", "data-analytics", "olap", "join", "distributed-database", "realtime-database", "mpp", "iceberg", "real-time-analytics", "datalake", "vectorized", "real-time-updates", "star-schema", "hudi", "delta-lake", "lakehouse", "lakehouse-platform"],
     "officialSite": "https://starrocks.io"
+  }, {
+    "repo": "nextflow-io/nextflow",
+    "desc": "A DSL for data-driven computational pipelines",
+    "topics": ["docker", "groovy", "hello", "aws", "cloud", "bioinformatics", "pipeline", "nextflow", "hpc", "reproducible-research", "workflow-engine", "slurm", "pipeline-framework", "sge", "singularity", "reproducible-science", "dataflow", "singularity-containers"],
+    "officialSite": "http://nextflow.io"
   }
 ]
 

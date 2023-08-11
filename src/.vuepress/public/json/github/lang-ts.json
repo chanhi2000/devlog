@@ -1238,5 +1238,10 @@
     "desc": "⚡ Fast and beautiful interactive component playgrounds, powered by Vite",
     "topics": ["javascript", "vuejs", "story", "sveltejs", "vitejs"],
     "officialSite": "https://histoire.dev"
+  }, {
+    "repo": "radix-ui/themes",
+    "desc": "Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.",
+    "topics": ["react", "design-systems", "ui", "accessibility", "colors", "themes", "ui-kit", "component-library", "ui-components", "theme-development", "radix-ui"],
+    "officialSite": "https://radix-ui.com/themes"
   }
 ]

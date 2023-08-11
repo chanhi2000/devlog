@@ -2,22 +2,14 @@
   "channel": {
     "id": "yalco-coding",
     "name": "얄팍한 코딩사전",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOv4HETooGHzPnR0mH53DQa2jRVuTV6KZme1YdKm5w=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOv4HETooGHzPnR0mH53DQa2jRVuTV6KZme1YdKm5w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TUoJffjK5MU78QMIOfAJJqfT-L4n9WPOo_Ydsde5vbK4ctvL1as-MpgMTARhQbNVVAmbQ55x=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "5ILR9Vd_Vos",
-      "title": "SSR, SSG, JAM Stack이 뭔가요? (+ CSR, SEO, Next.js, Nuxt.js, Gatsby)"
-    }, {
-      "id": "TrC2x4N0XqY",
-      "title": "제대로 파는 HTML &amp; CSS - 웹 퍼블리싱 끝.장.내.기"
-    }, {
-      "id": "9BIXcXHsj0A",
-      "title": "얄팍한 GraphQL &amp; Apollo 강좌"
-    }, {
-      "id": "tPWBF13JIVk",
-      "title": "가장 쉬운 리눅스 강좌"
-    }
+    { "id": "5ILR9Vd_Vos", "title": "SSR, SSG, JAM Stack이 뭔가요? (+ CSR, SEO, Next.js, Nuxt.js, Gatsby)" }, 
+    { "id": "TrC2x4N0XqY", "title": "제대로 파는 HTML &amp; CSS - 웹 퍼블리싱 끝.장.내.기" }, 
+    { "id": "9BIXcXHsj0A", "title": "얄팍한 GraphQL &amp; Apollo 강좌" }, 
+    { "id": "tPWBF13JIVk", "title": "가장 쉬운 리눅스 강좌" }
   ]
 }
 

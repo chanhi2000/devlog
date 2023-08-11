@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "GeeksforGeeksVideos",
+    "name": "GeeksforGeeks",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQyvtrOcl96BkPopaNOT67CByuuBS7GqwiT_9fGxg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "u412j5nA3TQ", "title": "CodeCamp Day 3 | Mastering Linked Lists and Problem Solving" },
+    { "id": "8Pv96bvBJL4", "title": "Creating Chatting Application in Android Studio Using Kotlin | GeeksforGeeks"}    
+  ]
+}
+

@@ -101,7 +101,7 @@
     "officialSite": "https://stitcher.io"
   }, {
     "repo": "benjamincrozat/benjamincrozat.com",
-    "desc": "Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 20K monthly visitors.",
+    "desc": "Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 30K monthly visitors.",
     "topics": ["laravel", "livewire", "tailwind-css", "alpine-js"],
     "officialSite": "https://benjamincrozat.com"
   }

@@ -129,5 +129,10 @@
     "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "joonspk-research/generative_agents",
+    "desc": "Generative Agents: Interactive Simulacra of Human Behavior",
+    "topics": [],
+    "officialSite": ""
   }
 ]

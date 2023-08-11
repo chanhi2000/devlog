@@ -194,5 +194,10 @@
     "desc": "Fast Android <-> Windows file manager using ADB protocol",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "AzureAD/microsoft-authentication-library-for-dotnet",
+    "desc": "Microsoft Authentication Library (MSAL) for .NET",
+    "topics": ["microsoft", "identity", "xamarin", "dotnet", "uwp", "netcore", "azure-active-directory", "wam", "msal", "maui"],
+    "officialSite": "https://aka.ms/aaddev"
   }
 ]

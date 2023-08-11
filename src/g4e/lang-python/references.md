@@ -110,6 +110,12 @@ description: 🐍Python > 📚References
 
 ---
 
+## Semgrep
+
+- [Guardrails for PromQL using Semgrep](https://semgrep.dev/blog/2023/promql-and-semgrep)
+
+----
+
 ## PRAVESH KOIRALA
 
 - [A NON-MATHEMATICAL INTRODUCTION TO KALMAN FILTERS FOR PROGRAMMER](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers)

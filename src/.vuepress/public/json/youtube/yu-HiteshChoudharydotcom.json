@@ -6,55 +6,22 @@
     "banner": "https://yt3.googleusercontent.com/xGlR3Vz-RYHgwRj50-VEdBksVyjyJhvzQUEVttMCd5iRVdw-OXdFkPBPswF2nG_13QR2UfXnCQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "YkxrbxoqHDw",
-      "title": "What is CSR SSR SSG and ISR"
-    }, {
-      "id": "cv-6bAeYsOY",
-      "title": "Pieces: An Essential Tool for the Modern Developer's Toolkit"
-    }, {
-      "id": "rWv0zzEYB2w",
-      "title": "Using Appwrite service with custom context in React Native"
-    }, {
-      "id": "75hqPk6pq5g",
-      "title": "Flutter Windows Installation"
-    }, {
-      "id": "zlojM-Jbux4",
-      "title": "Complete Appwrite authentication walkthrough"
-    }, {
-      "id": "YkxrbxoqHDw",
-      "title": "What is CSR SSR SSG and ISR"
-    }, {
-      "id": "wxSRHthSXzc",
-      "title": "Do we really need firebase in 2023"
-    }, {
-      "id": "D_5T6KMTRb8",
-      "title": "Github Codespace crash course"
-    }, {
-      "id": "rr9cI4u1_88",
-      "title": "A practical guide on Docker with projects | Docker Course"
-    }, {
-      "id": "0eMU23VyzR8",
-      "title": "How to build docker image for python flask app"
-    }, {
-      "id": "hduwjJ043Mg",
-      "title": "Save your code snippets in this open source tool"
-    }, {
-      "id": "jkngyZjRETs",
-      "title": "Appwrite crash course | Open Source Backend as a Service | Reactjs"
-    }, {
-      "id": "BAZ-tJOYhlA",
-      "title": "socket io crash course | easy way"
-    }, {
-      "id": "yviJikU4gwk",
-      "title": "useRef hook in reactjs | Easiest way"
-    }, {
-      "id": "oDasd7PfwbY",
-      "title": "Start and delete a container | #Docker"
-    }, {
-      "id": "xgSHYb85tLQ",
-      "title": "Fun assignment to create function in javascript"
-    }
+    { "id": "YkxrbxoqHDw", "title": "What is CSR SSR SSG and ISR" }, 
+    { "id": "cv-6bAeYsOY", "title": "Pieces: An Essential Tool for the Modern Developer's Toolkit" }, 
+    { "id": "rWv0zzEYB2w", "title": "Using Appwrite service with custom context in React Native" }, 
+    { "id": "75hqPk6pq5g", "title": "Flutter Windows Installation" }, 
+    { "id": "zlojM-Jbux4", "title": "Complete Appwrite authentication walkthrough" }, 
+    { "id": "YkxrbxoqHDw", "title": "What is CSR SSR SSG and ISR" }, 
+    { "id": "wxSRHthSXzc", "title": "Do we really need firebase in 2023" }, 
+    { "id": "D_5T6KMTRb8", "title": "Github Codespace crash course" }, 
+    { "id": "rr9cI4u1_88", "title": "A practical guide on Docker with projects | Docker Course" }, 
+    { "id": "0eMU23VyzR8", "title": "How to build docker image for python flask app" }, 
+    { "id": "hduwjJ043Mg", "title": "Save your code snippets in this open source tool" }, 
+    { "id": "jkngyZjRETs", "title": "Appwrite crash course | Open Source Backend as a Service | Reactjs" }, 
+    { "id": "BAZ-tJOYhlA", "title": "socket io crash course | easy way" }, 
+    { "id": "yviJikU4gwk", "title": "useRef hook in reactjs | Easiest way" }, 
+    { "id": "oDasd7PfwbY", "title": "Start and delete a container | #Docker" }, 
+    { "id": "xgSHYb85tLQ", "title": "Fun assignment to create function in javascript" }
   ]
 }
 

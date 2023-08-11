@@ -194,6 +194,14 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Rob Mulla
+
+<MyYouTubeItems jsonName="yu-robmulla" />
+
+<!-- Rob Mulla -->
+
+---
+
 ## 혁펜하임
 
 <MyYouTubeItems jsonName="yu-hyukppen" />

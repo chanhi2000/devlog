@@ -524,6 +524,11 @@
     "desc": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
     "topics": ["mysql", "search", "api", "search-engine", "json", "sql", "database", "cpp", "full-text-search", "sphinxsearch", "bm25", "search-api", "search-server", "stream-filtering"],
     "officialSite": "https://manticoresearch.com"
+  }, {
+    "repo": "id-Software/quake2-rerelease-dll",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

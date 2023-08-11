@@ -181,6 +181,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Intent Architect
+
+<MyYouTubeItems jsonName="yu-IntentArchitect" />
+
+<!-- Intent Architect -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

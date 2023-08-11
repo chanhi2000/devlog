@@ -634,5 +634,10 @@
     "desc": "Replicate postgres to SQLite on the edge",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "OpenIMSDK/Open-IM-Server",
+    "desc": "IM即时通讯",
+    "topics": ["go", "chat", "golang", "telegram", "messaging", "messenger", "wechat", "im", "imserver", "openim"],
+    "officialSite": "https://www.openim.online"
   }
 ]

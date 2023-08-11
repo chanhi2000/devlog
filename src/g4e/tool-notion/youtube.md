@@ -45,5 +45,12 @@ tags: ["notion", "youtube"]
 
 ---
 
+## 슬기로운 슬기
+
+<MyYouTubeItems jsonName="yu-seulki" />
+
+<!-- 슬기로운 슬기 -->
+
+---
 
 <TagLinks />
