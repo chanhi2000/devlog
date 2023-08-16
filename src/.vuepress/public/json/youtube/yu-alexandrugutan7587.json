@@ -6,12 +6,7 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "9yaa2OS-0Mk",
-      "title": "Istio install with Minikube and first look at traces"
-    }, {
-      "id": "1XXRXqQdu_A",
-      "title": "Clean Architecture with NodeJS/Express"
-    }
+    { "id": "9yaa2OS-0Mk", "title": "Istio install with Minikube and first look at traces" }, 
+    { "id": "1XXRXqQdu_A", "title": "Clean Architecture with NodeJS/Express" } 
   ]
 }

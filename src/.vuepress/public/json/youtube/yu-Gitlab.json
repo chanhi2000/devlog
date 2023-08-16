@@ -6,19 +6,10 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "JV9vzKzi8cw",
-      "title": "Portfolio Planning - Portfolio Management"
-    }, {
-      "id": "creDQTCEbZI",
-      "title": "GitLab Issues - Setting up your Organization with GitLab"
-    }, {
-      "id": "dD8c7WNcc6s",
-      "title": "How to Enable GitLab Pages for GitLab CE and EE"
-    }, {
-      "id": "JV9vzKzi8cw",
-      "title": "Portfolio Planning - Portfolio Management"
-    }
+    { "id": "JV9vzKzi8cw", "title": "Portfolio Planning - Portfolio Management" }, 
+    { "id": "creDQTCEbZI", "title": "GitLab Issues - Setting up your Organization with GitLab" }, 
+    { "id": "dD8c7WNcc6s", "title": "How to Enable GitLab Pages for GitLab CE and EE" }, 
+    { "id": "JV9vzKzi8cw", "title": "Portfolio Planning - Portfolio Management" } 
   ]
 }
 

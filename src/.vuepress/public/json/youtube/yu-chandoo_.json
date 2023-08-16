@@ -6,30 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/nPvIn4htBz8pqct8RAzN5N3nUVzKpQOgBnMucYeeN-xwGOr3oV0hICnFQdFN1Qo-JVukXmMMiw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "qNNn5uiZxOE",
-      "title": "How to make a Map Chart in Excel - Quick &amp; Simple Tutorial"
-    }, {
-      "id": "qNNn5uiZxOE", 
-      "title": "Easily Create Map Charts in Excel (2 AWESOME tips)"
-    }, {
-      "id": "35VnP0Rz71I", 
-      "title": "Beautiful + Interactive Dashboard in Excel in 30 minutes (with free sample files)"
-    }, {
-      "id": "yJum0g4qM2c", 
-      "title": "FREE Power Query Materclass with 5 Advanced Tips to SPEED UP your work 🚀"
-    }, {
-      "id": "B1WWWGeFqTM", 
-      "title": "Top 5 Excel Functions for Finance People (with end-to-end example)"
-    }, {
-      "id": "y8CXwOaMrdE", 
-      "title": "Impress your boss with Waffle Charts in Excel - Easy Recipe"
-    }, {
-      "id": "2lIxjT-0aPo", 
-      "title": "How to split Excel data into many sheets - VBA coding project"
-    }, {
-      "id": "2pn47abZCWU", 
-      "title": "10 Excel formatting tricks *ONLY* experts know"
-    }
+    { "id": "qNNn5uiZxOE", "title": "How to make a Map Chart in Excel - Quick & Simple Tutorial" }, 
+    { "id": "qNNn5uiZxOE",  "title": "Easily Create Map Charts in Excel (2 AWESOME tips)" }, 
+    { "id": "35VnP0Rz71I",  "title": "Beautiful + Interactive Dashboard in Excel in 30 minutes (with free sample files)" }, 
+    { "id": "yJum0g4qM2c",  "title": "FREE Power Query Materclass with 5 Advanced Tips to SPEED UP your work 🚀" }, 
+    { "id": "B1WWWGeFqTM",  "title": "Top 5 Excel Functions for Finance People (with end-to-end example)" }, 
+    { "id": "y8CXwOaMrdE",  "title": "Impress your boss with Waffle Charts in Excel - Easy Recipe" }, 
+    { "id": "2lIxjT-0aPo",  "title": "How to split Excel data into many sheets - VBA coding project" }, 
+    { "id": "2pn47abZCWU",  "title": "10 Excel formatting tricks *ONLY* experts know" }
   ]
 }

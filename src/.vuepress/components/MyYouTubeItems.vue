@@ -19,7 +19,19 @@
     <figcaption>{{ channel.name }}</figcaption>
   </figure>
 
-  <details class="hint-container details">
+  <details v-if="hasPlaylists"
+    v-for="p in playlists"
+    class="hint-container details">
+    <summary>{{ p.title }}</summary>
+    <YouTubeItem v-for="v in p.videos"
+      v-bind:channelName="channel.name"
+      v-bind:channelId="channel.id" 
+      v-bind:id="v.id"
+      v-bind:title="v.title" />
+  </details>
+
+  <details v-if="hasVideos"
+    class="hint-container details">
     <summary>목록 (총 {{ videos.length  }} 개)</summary>
     <YouTubeItem v-for="v in videos"
       v-bind:channelName="channel.name"
@@ -43,7 +55,10 @@
     data() {
       return {
         channel: {},
+        hasVideos: false,
         videos: [],
+        hasPlaylists: false,
+        playlists: []
       }
     },
     methods: {
@@ -56,6 +71,12 @@
         const res = await fetch(`/json/youtube/${jsonName}.json`);
         const ytInfo = await res.json();
         const YOUTUBE_URL = 'https://www.youtube.com';
+        const titlePredicate = (v) => {
+          return {
+            id: v.id,
+            title: v.title.replace(/[`]([^`]*)[`]/g, '<code>$1</code>')
+          }
+        };
 
         this.channel = {
           id: ytInfo.channel.id, 
@@ -66,7 +87,15 @@
           bannerFormatted: `background-image:url(${ytInfo.channel?.banner})`,
           url: `${YOUTUBE_URL}/@${ytInfo.channel.id}`
         };
-        this.videos = ytInfo.videos;
+        this.hasVideos = !(ytInfo.videos == null || ytInfo.videos?.length == 0);
+        this.videos = ytInfo.videos.map(titlePredicate);
+        this.hasPlaylists = !(ytInfo.playlists == null || ytInfo.playlists?.length == 0);
+        this.playlists = ytInfo.playlists?.map((e) => {
+          return {
+            title: e.title,
+            videos: e.videos.map(titlePredicate)
+          }
+        });
       }
     },
     mounted() {

@@ -6,30 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/KwUbURd37fSY3pDKHIpH3Dc5aDG8Hzxr6i-HG9AtZeIwMnDhOQ_Q833LkSYrdzDvZqYuKn766Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "TN0955TvodA",
-      "title": "Alpine.js E-commerce website tutorial"
-    }, {
-      "id": "O9nIE-40uKk",
-      "title": "PHPStorm vs VSCode for PHP Development - Full Comparison [2 hours]"
-    }, {
-      "id": "yXzWfZ4N4xU",
-      "title": "PHP Tutorial for Absolute Beginners - PHP Course 2021 (With subtitles)"
-    }, {
-      "id": "mtBIu9dfclY",
-      "title": "Implement login - Part 5 | PHP MVC Framework from Scratch"
-    }, {
-      "id": "Fnc-KUXjNFU",
-      "title": "Database connection &amp; Migrations - Part 3 | PHP MVC Framework from Scratch"
-    }, {
-      "id": "W1xxvngjep8",
-      "title": "Yii2 + Bootstrap 4 integration and bug fixing | yii2 tutorials"
-    }, {
-      "id": "sRJ6GYiCwkI",
-      "title": "Yii2 PHP Framework Tutorial - Crash Course for Beginners"
-    }, {
-      "id": "Z99lYtn3quk",
-      "title": "Bulk image resize with PHP"
-    }
+    { "id": "TN0955TvodA", "title": "Alpine.js E-commerce website tutorial" }, 
+    { "id": "O9nIE-40uKk", "title": "PHPStorm vs VSCode for PHP Development - Full Comparison [2 hours]" }, 
+    { "id": "yXzWfZ4N4xU", "title": "PHP Tutorial for Absolute Beginners - PHP Course 2021 (With subtitles)" }, 
+    { "id": "mtBIu9dfclY", "title": "Implement login - Part 5 | PHP MVC Framework from Scratch" }, 
+    { "id": "Fnc-KUXjNFU", "title": "Database connection & Migrations - Part 3 | PHP MVC Framework from Scratch" }, 
+    { "id": "W1xxvngjep8", "title": "Yii2 + Bootstrap 4 integration and bug fixing | yii2 tutorials" }, 
+    { "id": "sRJ6GYiCwkI", "title": "Yii2 PHP Framework Tutorial - Crash Course for Beginners" }, 
+    { "id": "Z99lYtn3quk", "title": "Bulk image resize with PHP" } 
   ]
 }

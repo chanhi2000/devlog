@@ -7,8 +7,8 @@
   },
   "videos": [
     { "id": "5ILR9Vd_Vos", "title": "SSR, SSG, JAM Stack이 뭔가요? (+ CSR, SEO, Next.js, Nuxt.js, Gatsby)" }, 
-    { "id": "TrC2x4N0XqY", "title": "제대로 파는 HTML &amp; CSS - 웹 퍼블리싱 끝.장.내.기" }, 
-    { "id": "9BIXcXHsj0A", "title": "얄팍한 GraphQL &amp; Apollo 강좌" }, 
+    { "id": "TrC2x4N0XqY", "title": "제대로 파는 HTML & CSS - 웹 퍼블리싱 끝.장.내.기" }, 
+    { "id": "9BIXcXHsj0A", "title": "얄팍한 GraphQL & Apollo 강좌" }, 
     { "id": "tPWBF13JIVk", "title": "가장 쉬운 리눅스 강좌" }
   ]
 }

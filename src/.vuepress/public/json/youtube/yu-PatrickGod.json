@@ -6,10 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Iyqb6gxHjvzLaUQdBTqNJ2lV4jSDNtOMx7C1edhsnmODXjPy0REqgVboXwFKuPTW-FlEC55A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "H4qg9HJX_SE",
-      "title": "🚀 .NET Core 3.1 Web API &amp; Entity Framework Core Jumpstart"
-    }
+    { "id": "H4qg9HJX_SE", "title": "🚀 .NET Core 3.1 Web API & Entity Framework Core Jumpstart" }
   ]
 }
 

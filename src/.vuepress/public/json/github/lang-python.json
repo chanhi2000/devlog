@@ -2318,5 +2318,25 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "modelscope/facechain",
+    "desc": "FaceChain is a deep-learning toolchain for generating your Digital-Twin.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "NVlabs/neuralangelo",
+    "desc": "Official implementation of \"Neuralangelo: High-Fidelity Neural Surface Reconstruction\" (CVPR 2023)",
+    "topics": [],
+    "officialSite": "https://research.nvidia.com/labs/dir/neuralangelo"
+  }, {
+    "repo": "lllyasviel/Fooocus",
+    "desc": "Focus on prompting and generating",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "chatchat-space/Langchain-Chatchat",
+    "desc": "Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答",
+    "topics": ["chatbot", "llama", "gpt", "knowledge-base", "embedding", "text2vec", "faiss", "milvus", "streamlit", "llm", "chatgpt", "langchain", "pgvector", "chatglm", "chatglm-6b", "fastchat", "chatglm2-6b"],
+    "officialSite": ""
   }
 ]

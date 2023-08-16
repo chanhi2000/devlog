@@ -423,8 +423,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=wm9AECTm_48"><img width="140px" height="auto" alt="thumb-wm9AECTm_48" src="https://i.ytimg.com/vi/wm9AECTm_48/hqdefault.jpg"/></a> | [Openshift Tutorial - Basics &amp; Setup](https://www.youtube.com/watch?v=wm9AECTm_48) <br/><br/> _[DevOps Dean][yu-devopsdean7830]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=VhGgtdGWFDY"><img width="140px" height="auto" alt="thumb-VhGgtdGWFDY" src="https://i.ytimg.com/vi/VhGgtdGWFDY/hqdefault.jpg"/></a> | [지갑 잃어버려 신분등 운전면허증 다 잃어버리지 마세요. SKT PASS 쓰세요](https://www.youtube.com/watch?v=VhGgtdGWFDY) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=uRYHX4EwYYA"><img width="140px" height="auto" alt="thumb-uRYHX4EwYYA" src="https://i.ytimg.com/vi/uRYHX4EwYYA/hqdefault.jpg"/></a> | [How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA) <br/><br/> _[Coder Coder][yu-coder-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VAdfuzoSjRg"><img width="140px" height="auto" alt="thumb-VAdfuzoSjRg" src="https://i.ytimg.com/vi/VAdfuzoSjRg/hqdefault.jpg"/></a> | [\[강의 미리보기\] 나의 커리어 치트키 데이터 분석 유치원 - 실제 데이터로 가설 설정, 검정 수행, 결과 해석하기](https://www.youtube.com/watch?v=VAdfuzoSjRg) <br/><br/> _[패스트캠퍼스][yu-fastcampus-tv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=NAhyhnzjLDo"><img width="140px" height="auto" alt="thumb-NAhyhnzjLDo" src="https://i.ytimg.com/vi/NAhyhnzjLDo/hqdefault.jpg"/></a> | [\[강의 미리보기\] 한 번에 끝내는 빅데이터처리 with Spark &amp; Hadoop - GraphFrames 프로그래밍 GraphFrames v1 0](https://www.youtube.com/watch?v=NAhyhnzjLDo) <br/><br/> _[패스트캠퍼스][yu-fastcampus-tv]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=-StPEi5Ae6c"><img width="140px" height="auto" alt="thumb--StPEi5Ae6c" src="https://i.ytimg.com/vi/-StPEi5Ae6c/hqdefault.jpg"/></a> | [웹 디자인에서 가장 중요한 포인트는?](https://www.youtube.com/watch?v=-StPEi5Ae6c) <br/><br/> _[Madia Designer][yu-UXUIDesign]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Yk7k3yEguQA"><img width="140px" height="auto" alt="thumb-Yk7k3yEguQA" src="https://i.ytimg.com/vi/Yk7k3yEguQA/hqdefault.jpg"/></a> | [Mega Real-time End to End DevOps CI/CD Project \| Git \| Jenkins \| Nexus \| SonarQube \| HandsOn Lab - I](https://www.youtube.com/watch?v=Yk7k3yEguQA) <br/><br/> _[Mr. DevOps][yu-mr-dev-ops]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=lN1Dle60u7g"><img width="140px" height="auto" alt="thumb-lN1Dle60u7g" src="https://i.ytimg.com/vi/lN1Dle60u7g/hqdefault.jpg"/></a> | [javplayer 설정 셋팅 최적화 방법](https://www.youtube.com/watch?v=lN1Dle60u7g) <br/><br/> _[마스터봇][yu-masterbot]_ |
@@ -479,7 +477,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=0Iob8g6juj8"><img width="140px" height="auto" alt="thumb-0Iob8g6juj8" src="https://i.ytimg.com/vi/0Iob8g6juj8/hqdefault.jpg"/></a> | [세면대 막힘 초간단 해결방법 찌든때와 머리카락이 제거됩니다/세면대 막힘 뚫기/세면대 배관청소](https://www.youtube.com/watch?v=0Iob8g6juj8) <br/><br/> _[피스오케이Peace O.K.][yu-peace-ok]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=IGeHjCEIuzU"><img width="140px" height="auto" alt="thumb-IGeHjCEIuzU" src="https://i.ytimg.com/vi/IGeHjCEIuzU/hqdefault.jpg"/></a> | [How To Install macOS Monterey On Unsuported 2009 MacBook](https://www.youtube.com/watch?v=IGeHjCEIuzU) <br/><br/> _[Gambler][yu-Gael9A]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=kYkdti9mLzo"><img width="140px" height="auto" alt="thumb-kYkdti9mLzo" src="https://i.ytimg.com/vi/kYkdti9mLzo/hqdefault.jpg"/></a> | [Getting started with the Spotify iOS SDK](https://www.youtube.com/watch?v=kYkdti9mLzo) <br/><br/> _[Swift Arcade][yu-swiftarcade7632]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=hbJiwm5YL5Q"><img width="140px" height="auto" alt="thumb-hbJiwm5YL5Q" src="https://i.ytimg.com/vi/hbJiwm5YL5Q/hqdefault.jpg"/></a> | [WordPress Plugin Development: Gutenberg Blocks, React &amp; More](https://www.youtube.com/watch?v=hbJiwm5YL5Q) <br/><br/> _[LearnWebCode][yu-learn-web-code]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=r1qNokIrK-8"><img width="140px" height="auto" alt="thumb-r1qNokIrK-8" src="https://i.ytimg.com/vi/r1qNokIrK-8/hqdefault.jpg"/></a> | [How To Record A Call On iPhone](https://www.youtube.com/watch?v=r1qNokIrK-8) <br/><br/> _[Insider Tech][yu-insider-tech]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=rxDOdNAaRMo"><img width="140px" height="auto" alt="thumb-rxDOdNAaRMo" src="https://i.ytimg.com/vi/rxDOdNAaRMo/hqdefault.jpg"/></a> | [작정하고 장고! Django REST Framework 3강 -  What is REST?](https://www.youtube.com/watch?v=rxDOdNAaRMo) <br/><br/> _[실용주의 프로그래머][yu-user-zx1rk8qx6q]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=DNLQsUM4vAE"><img width="140px" height="auto" alt="thumb-DNLQsUM4vAE" src="https://i.ytimg.com/vi/DNLQsUM4vAE/hqdefault.jpg"/></a> | [🔧 How to CLEAR All Cache in Windows 11 to Improve Performance &amp; Speed Up ANY PC!](https://www.youtube.com/watch?v=DNLQsUM4vAE) <br/><br/> _[Panjno][yu-panjno]_ |
@@ -1050,9 +1047,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-systems-w-jt]: https://www.youtube.com/@SystemsWithJT
 [yu-naresh-it]: https://www.youtube.com/@NareshIT
 [yu-nico-kock]: https://www.youtube.com/@NicoKock01
-[yu-devopsdean7830]: https://www.youtube.com/@devopsdean7830
-[yu-matt-kc]: https://www.youtube.com/@MattKC
-[yu-fastcampus-tv]: https://www.youtube.com/@FASTCAMPUStv
 [yu-cornell-appdev]: https://www.youtube.com/@CornellAppDev
 [yu-code-x]: https://www.youtube.com/@CodeXdev
 [yu-mr-dev-ops]: https://www.youtube.com/@MrDevOps
@@ -1114,7 +1108,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-paul-programming]: https://www.youtube.com/@PaulProgramming
 [yu-susanth-sutheesh]: https://www.youtube.com/@SusanthSutheesh
 [yu-creativeclue2772]: https://www.youtube.com/@creativeclue2772
-[yu-raaviblog105]: https://www.youtube.com/@raaviblog105
 [yu-huakunshen3670]: https://www.youtube.com/@huakunshen3670
 [yu-securerandom5420]: https://www.youtube.com/@securerandom5420
 [yu-wes-doyle]: https://www.youtube.com/@WesDoyle
@@ -1136,7 +1129,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-Gael9A]: https://www.youtube.com/@Gael9A
 [yu-swiftarcade7632]: https://www.youtube.com/@swiftarcade7632
 [yu-user-zx1rk8qx6q]: https://www.youtube.com/@user-zx1rk8qx6q
-[yu-learn-web-code]: https://www.youtube.com/@LearnWebCode
 [yu-insider-tech]: https://www.youtube.com/@InsiderTech
 [yu-panjno]: https://www.youtube.com/@Panjno
 [yu-pradhuman-patel]: https://www.youtube.com/@PradhumanPatel

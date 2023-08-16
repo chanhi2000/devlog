@@ -6,10 +6,7 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "MEUD4SsMqOs",
-      "title": "Run GitLab as container in Docker-desktop on Windows"
-    }
+    { "id": "MEUD4SsMqOs", "title": "Run GitLab as container in Docker-desktop on Windows" }
   ]
 }
 

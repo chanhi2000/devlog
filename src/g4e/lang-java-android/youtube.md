@@ -197,11 +197,11 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
-## Antonio Leiva - Android &amp; Kotlin Development
+## Antonio Leiva - Android & Kotlin Development
 
 <MyYouTubeItems jsonName="yu-antoniolg28" />
 
-<!-- Antonio Leiva - Android &amp; Kotlin Development -->
+<!-- Antonio Leiva - Android & Kotlin Development -->
 
 ---
 

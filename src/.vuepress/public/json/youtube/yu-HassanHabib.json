@@ -2,45 +2,21 @@
   "channel": {
     "id": "HassanHabib",
     "name": "Hassan Habib",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOsalK0zBkYibrLUmQ2PXcmJxMm0xDY23ODM_6Wbg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOsalK0zBkYibrLUmQ2PXcmJxMm0xDY23ODM_6Wbg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ABl3qpyfEsbtfaRXiiqAk7rkMpo-UgoB1vrjQ-z2pblACl9gYkNyVg_ZXzakn3BNtDowbIbQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "eBrHCGe1KQA",
-      "title": "OPENAI031: Fine-Tuning Models Services (Part 1)"
-    }, {
-      "id": "2Joa5iA1AKE",
-      "title": "Modularizing SDK Service Providers"
-    }, {
-      "id": "yOgreCMzaUA",
-      "title": "Generating ASP.NET Pipelines in C#"
-    }, {
-      "id": "juyZCgF9g2E",
-      "title": "Upgrading ASP.NET Core API to .NET 6"
-    }, {
-      "id": "jWIPkpl6Yr0",
-      "title": "EFS003: Initialize ASP.NET Core Unit Tests"
-    }, {
-      "id": "qI1vIuGb9lo",
-      "title": "BLZ007: Base Components"
-    }, {
-      "id": "YlqTLtqh--4",
-      "title": "BLZ006: View Services in Blazor (Validations &amp; Exceptions)"
-    }, {
-      "id": "YYqheVfaNIU",
-      "title": "BLZ003: Services in Blazor (Validations)"
-    }, {
-      "id": "ufjtuAel538",
-      "title": "Upgrading to .NET 5.0 RC w/ C# 9.0"
-    }, {
-      "id": "5Htj8JFglb4",
-      "title": "BLZ001: Introduction to Blazor"
-    }, {
-      "id": "JQnTpGV-7YA",
-      "title": "OPENAI000: Getting Started"
-    }, {
-      "id": "JEb0BA8CgFk",
-      "title": "Standardized Provider Abstraction Libraries"
-    }
+    { "id": "eBrHCGe1KQA", "title": "OPENAI031: Fine-Tuning Models Services (Part 1)" }, 
+    { "id": "2Joa5iA1AKE", "title": "Modularizing SDK Service Providers" }, 
+    { "id": "yOgreCMzaUA", "title": "Generating ASP.NET Pipelines in C#" }, 
+    { "id": "juyZCgF9g2E", "title": "Upgrading ASP.NET Core API to .NET 6" }, 
+    { "id": "jWIPkpl6Yr0", "title": "EFS003: Initialize ASP.NET Core Unit Tests" }, 
+    { "id": "qI1vIuGb9lo", "title": "BLZ007: Base Components" }, 
+    { "id": "YlqTLtqh--4", "title": "BLZ006: View Services in Blazor (Validations & Exceptions)" }, 
+    { "id": "YYqheVfaNIU", "title": "BLZ003: Services in Blazor (Validations)" }, 
+    { "id": "ufjtuAel538", "title": "Upgrading to .NET 5.0 RC w/ C# 9.0" }, 
+    { "id": "5Htj8JFglb4", "title": "BLZ001: Introduction to Blazor" }, 
+    { "id": "JQnTpGV-7YA", "title": "OPENAI000: Getting Started" }, 
+    { "id": "JEb0BA8CgFk", "title": "Standardized Provider Abstraction Libraries" } 
   ]
 }

@@ -2,46 +2,22 @@
   "channel": {
     "id": "MentalOutlaw",
     "name": "Mental Outlaw",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMA4jO2wwSW3_cUomaTGjfwHDbMt-Tc27IJ6AEGkA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMA4jO2wwSW3_cUomaTGjfwHDbMt-Tc27IJ6AEGkA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MCKlDYo78cX-ODEurmP8J1q-Pkf27Sb2E0cD8kbgwDU8ZlmQVll7gLmbznsPrXvinS6577z-bA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "DmKMi_XjIqA",
-      "title": "Qubes OS - First Impressions"
-    }, {
-      "id": "-dWEcBQZBXw",
-      "title": "Whonix KVM - A Secure OS for the Dark Web"
-    }, {
-      "id": "lC0_DbTuqts",
-      "title": "Asahi - Bringing Linux to Apple M1 Macs."
-    }, {
-      "id": "ZPXVSJnDA_A",
-      "title": "How RSA Encryption Works"
-    }, {
-      "id": "OBnQvy5RNEM",
-      "title": "Anonymously Send Messages With Session"
-    }, {
-      "id": "lmA8Ex-G5IQ",
-      "title": "The First Site to Visit After Installing Firefox"
-    }, {
-      "id": "jSzpz5pUAeQ",
-      "title": "Cordless - A Terminal Based Discord Application"
-    }, {
-      "id": "TdvmKW-yrts",
-      "title": "A Clarification of Swap Space on Linux"
-    }, {
-      "id": "npQu2PTaqos",
-      "title": "TimeShift - The Easy Way to Create System Restore Points on Linux"
-    }, {
-      "id": "nl6TeGPJBV0",
-      "title": "SLStatus - The Suckless Way to View System Stats"
-    }, {
-      "id": "3yN6Q8I5KJA",
-      "title": "THE TRUE POWER OF VIM - Saving hours of time with some vim magic"
-    }, {
-      "id": "9vHHZfHaAYA",
-      "title": "How to Upgrade Your Gentoo Linux Kernel - Best Guide on YouTube!"
-    }
+    { "id": "DmKMi_XjIqA", "title": "Qubes OS - First Impressions" }, 
+    { "id": "-dWEcBQZBXw", "title": "Whonix KVM - A Secure OS for the Dark Web" }, 
+    { "id": "lC0_DbTuqts", "title": "Asahi - Bringing Linux to Apple M1 Macs." }, 
+    { "id": "ZPXVSJnDA_A", "title": "How RSA Encryption Works" }, 
+    { "id": "OBnQvy5RNEM", "title": "Anonymously Send Messages With Session" }, 
+    { "id": "lmA8Ex-G5IQ", "title": "The First Site to Visit After Installing Firefox" }, 
+    { "id": "jSzpz5pUAeQ", "title": "Cordless - A Terminal Based Discord Application" }, 
+    { "id": "TdvmKW-yrts", "title": "A Clarification of Swap Space on Linux" }, 
+    { "id": "npQu2PTaqos", "title": "TimeShift - The Easy Way to Create System Restore Points on Linux" }, 
+    { "id": "nl6TeGPJBV0", "title": "SLStatus - The Suckless Way to View System Stats" }, 
+    { "id": "3yN6Q8I5KJA", "title": "THE TRUE POWER OF VIM - Saving hours of time with some vim magic" }, 
+    { "id": "9vHHZfHaAYA", "title": "How to Upgrade Your Gentoo Linux Kernel - Best Guide on YouTube!" } 
   ]
 }
 

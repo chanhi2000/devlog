@@ -1,0 +1,78 @@
+{
+  "channel": {
+    "id": "tmanelshrghk",
+    "name": "스무디 TV",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQwSQ_loahwaEwguWdruwBq3F1_M7AEbnfMZsZf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4_6ZLoJNQuGoa4ky22Jxd7S3rwwTXP6UmUuvHpNSkONBs5Lg4YcBM_z0Xz8Y4uiDygJdzsdzvVU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    
+  ],
+  "playlists": [
+    {
+      "title": "리눅스 / Kali Linux",
+      "videos": [
+        { "id": "YlHzNfxLFuI", "title": "[스무디] 리눅스란? 리눅스 종류" },
+        { "id": "e-6drBDnTxA", "title": "[스무디] 칼리리눅스 2.0 vmware에서 실행" },
+        { "id": "ub8W6AB54ag", "title": "[스무디] 칼리리눅스 부팅 USB 만들기" },
+        { "id": "WUO-zY_SGj8", "title": "[스무디] 리눅스 멀티부팅 설치" },
+        { "id": "3WdpHN3T_LE", "title": "[스무디] 리눅스 터미널에서 기본 명령어1" },
+        { "id": "bOIboAsdgAw", "title": "[스무디] 리눅스 기본명령어2, 디렉토리구조" },
+        { "id": "LKf2ZKfbJTc", "title": "[스무디] 해커스쿨 ftz를 통해 리눅스 배우기 2" },
+        { "id": "YMnPgBWyAcQ", "title": "[스무디] 해커스쿨 ftz를 통해 리눅스 배우기 3" },
+        { "id": "MMo7tHuRyaM", "title": "[스무디] 해커스쿨 ftz를 통해 리눅스 배우기 5" },
+        { "id": "EOzwB4W_GjI", "title": "[스무디] 해커스쿨 ftz를 통해 리눅스 배우기 7" },
+        { "id": "mswEvrwa5BE", "title": "[스무디] 해커스쿨 ftz를 통해 리눅스 배우기 8" },
+        { "id": "44rGpE82Juw", "title": "[스무디] 해커스쿨 ftz를 통해 리눅스 배우기 9" },
+        { "id": "CICY8T-bBwM", "title": "[스무디] 해커스쿨 ftz를 통해 리눅스 배우기 10" },
+        { "id": "eLI8fuD0k4M", "title": "[스무디] 우분투 리눅스 vmware에 설치" },
+        { "id": "U9SQbbq8Kso", "title": "[스무디] 우분투 리눅스 둘러보기, 프로그램 설치, 제거" },
+        { "id": "2fOSj9eOHQY", "title": "[스무디] 리눅스 `chmod`, 파일 권한" },
+        { "id": "J3QnIVCyHwQ", "title": "[스무디] 리눅스 `inode`, 링크" },
+        { "id": "yD7ZF12Y4bk", "title": "[스무디] 리눅스 하드링크 심볼릭링크(소프트링크) 다른점" },
+        { "id": "WaOq94DttHE", "title": "[스무디] 리눅스 user, group. 추가 제거 변경과 권한" },
+        { "id": "WCX2Z_XcRsg", "title": "[스무디] 리눅스 `vi`, `vim` 편집기" },
+        { "id": "Os11BSYkoEI", "title": "[스무디] 리눅스 쉘" },
+        { "id": "fvj8Q0XMq-w", "title": "[스무디] 리눅스 프로세스와 관련 명령어" },
+        { "id": "cZktVpkXx2c", "title": "[스무디] 리눅스 장치파일" },
+        { "id": "hBJPI2bXzrQ", "title": "[스무디] 리눅스 리다이렉션과 파이프라인" },
+        { "id": "VmbHF4rpc9M", "title": "[스무디] 리눅스 명령어 `less` `tail` `grep`" },
+        { "id": "hs4T5JbfLBU", "title": "[스무디] 리눅스 저장장치 `mount" },
+        { "id": "iqF7lx3mBr8", "title": "[스무디] 리눅스 데비안계열 패키지 명령어" },
+        { "id": "oQZghVpcQcM", "title": "[스무디] 리눅스 네트워크 명령어" },
+        { "id": "OcJmtRqizPs", "title": "[스무디] 리눅스 컴퓨터 상태를 보는 명령어들" },
+        { "id": "DaPqcGWZi1g", "title": "[스무디] 리눅스 파티션 만들고 포맷" },
+        { "id": "DnYpV04t_GY", "title": "[스무디] 리눅스 무선랜 명령어" },
+        { "id": "USvAujhuW9c", "title": "[스무디] 리눅스 환경변수" },
+        { "id": "Bivz_ANPOO4", "title": "[스무디] 리눅스 한국어 설정" },
+        { "id": "2MNdA5ZqXKc", "title": "[스무디] 리눅스 C언어 컴파일, file명령어" },
+        { "id": "Ur60vWSd-5A", "title": "[스무디] 리눅스 `sticky`, `sgid`, `suid`" },
+        { "id": "d280cn0rnOM", "title": "[스무디] 리눅스 - 복합 명령" },
+        { "id": "qNreh2W5yEA", "title": "[스무디] 리눅스 - 시간" },
+        { "id": "HzMHLyDVvIw", "title": "[스무디] 리눅스 - 쉘스크립트 기본, `if`, `while`" },
+        { "id": "HfJQazDR73U", "title": "[스무디] 리눅스 - `expr` 그리고 `$()` 과 ` ` 와 `*` 그리고 이스케이프 시퀀스" },
+        { "id": "Q4TrhKqerW0", "title": "[스무디] 리눅스 - test명령의 조건, `elif`, `for`, `until`, `select`, `break`, `continue`, " },
+        { "id": "XbPWkdk1T5w", "title": "[스무디] 리눅스 - `.`, `eval`, `exec`, `exit`, `printf`, `return`, 인자, `set`, `shift`, `unset`" },
+        { "id": "cuDZCdShZu4", "title": "[스무디] 리눅스 - 서비스 (데몬)" },
+        { "id": "dz5ItOMATx4", "title": "[스무디] 리눅스 - `dd`, `hexdump`" },
+        { "id": "FJs0i-NOg28", "title": "[스무디] 리눅스 - `MBR`" },
+        { "id": "Y604M-QUUes", "title": "[스무디] 리눅스 - 전원버튼부터 BIOS 까지" },
+        { "id": "M4W1PJkrbH8", "title": "[스무디] 리눅스 - 부트로더 GRUB2" },
+        { "id": "hbQ3oSIt7VA", "title": "[스무디] 리눅스 - 부트로더와 커널" },
+        { "id": "G9ocJKFw3G4", "title": "[스무디] 리눅스 - 오픈소스 GURB 빌드" },
+        { "id": "KjTzCUbkVyE", "title": "[스무디] 리눅스 - `Makefile` 기초" },
+        { "id": "lWLGdtZ44iU", "title": "[스무디] 리눅스 - `Makefile` 변수" },
+        { "id": "ZGGZ48JUTkE", "title": "[스무디] 리눅스 - `Makefile` 생성규칙" },
+        { "id": "SVXT0TgpeWY", "title": "[스무디] 리눅스 - `Makefile` 재귀 `make`" },
+        { "id": "3oEpmKumSz0", "title": "[스무디] 리눅스 - `autotools` 구조" },
+        { "id": "lEGP_warAQk", "title": "[스무디] 리눅스 - `autotools로` `configure` 만들기" },
+        { "id": "aROUgUu7-08", "title": "[스무디] 리눅스 - 커널 소스 다운로드, `menuconfig`, `make`" },
+        { "id": "QhCYvy8pZs8", "title": "[스무디] 리눅스 - 가상컴퓨터에서 커널build중 저장공간이 부족할 때" },
+        { "id": "Cd3H8X8anAc", "title": "[스무디] 리눅스 - 커널 `modules_install`, `install`" },
+        { "id": "8gOlLoEY7sE", "title": "[스무디] 리눅스 - 모듈, 장치 `lsmod`, `insmod`, `rmmod`, `modprobe`, `lspci`, `lsusb`" },
+        { "id": "ozcAtXTnS24", "title": "[스무디] 리눅스 - 커널 설정 1" }
+      ]
+    }
+  ]
+}
+

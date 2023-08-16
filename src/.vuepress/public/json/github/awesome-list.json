@@ -619,5 +619,15 @@
     "desc": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
     "topics": ["art", "design", "webgl", "list", "awesome", "creative-coding", "shaders", "computer-graphics", "resources", "data-visualization", "interaction-design", "information-visualization", "graphics-programming", "generative-art", "awesome-list", "3d-graphics", "programming-graphics"],
     "officialSite": ""
+  }, {
+    "repo": "steven2358/awesome-generative-ai",
+    "desc": "A curated list of modern Generative Artificial Intelligence projects and services",
+    "topics": ["awesome", "ai", "artificial-intelligence", "generative-art", "awesome-list", "large-language-models", "llm", "generative-ai"],
+    "officialSite": ""
+  }, {
+    "repo": "binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "topics": ["computer-science", "lists", "devops", "distributed-systems", "machine-learning", "awesome", "web-development", "programming", "big-data", "system", "backend", "architecture", "scalability", "resources", "design-patterns", "interview", "awesome-list", "interview-practice", "interview-questions", "system-design"],
+    "officialSite": ""
   }
 ]

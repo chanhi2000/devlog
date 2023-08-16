@@ -85,6 +85,14 @@ tags: ["c", "llvm"]
 
 - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 
+---
+
+## Rustam Kovhaev
+
+- [Debugging a futex crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

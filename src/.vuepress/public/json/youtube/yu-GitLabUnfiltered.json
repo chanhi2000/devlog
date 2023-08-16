@@ -2,103 +2,40 @@
   "channel": {
     "id": "GitLabUnfiltered",
     "name": "GitLab Unfiltered",
-    "profile": "https://yt3.googleusercontent.com/012YN0fRjh1Sx3sa7-RpwbVZ8dv77XaZXbEI8DBame2NuwshFzg6NrFfg3aXF5cIxG5Zc0IuxOY=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/ERXlT6vQYx6qu7oK9zoGonH11hYQTmTBxGUlh16zB-0W74w7muhaRFXe8IXF3LIAMGlC7PW7mw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/sQQ47IdVTcArxM1wpv3vga8S0gvRO2OeQpk1kYkbT4T3QDlvYVQoqeO16B1Rmjge-DJ__PR9DQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Nv7XwNoxVqc",
-      "title": "Joe Burnett -- My command-line work process (mosh, tmux, emacs, org-mode and gopls)"
-    }, {
-      "id": "uuq_blMOMZo",
-      "title": "How to automate creating GitLab Runners"
-    }, {
-      "id": "Vw8-ce8LNBs",
-      "title": "CI Components - development workflow"
-    }, {
-      "id": "4ZMLr8oDhqI",
-      "title": "Agile Portfolio Demo"
-    }, {
-      "id": "irvXD2Gg_SM",
-      "title": "Introducing Advisory exporter - Ingest Dependency Scanning advisories Demo E2E"
-    }, {
-      "id": "ndqwggwggbI",
-      "title": "Empowering CI Pipeline Adoption in GitLab - AMER Time Zone Webinar"
-    }, {
-      "id": "B8IKw-YyW44",
-      "title": "Migrating Code Suggestions from WebIDE to Workflow only - Status update"
-    }, {
-      "id": "BFf9X6FboO4",
-      "title": "Multi Pipeline comparison for scan result policies"
-    }, {
-      "id": "TWgtJu6h5TU",
-      "title": "Product Planning: Using a &quot;Now-Next-Future&quot; epic board to create a product roadmap"
-    }, {
-      "id": "rGTl9_HIpbY",
-      "title": "GitLab Navigation Demo"
-    }, {
-      "id": "y4EKiO50lnY",
-      "title": "List streamed audit event filter options in the UI to allow for easy filtering"
-    }, {
-      "id": "i1tzTJVm1vM",
-      "title": "GitLab 16.2 Kickoff - Enablement:Distribution"
-    }, {
-      "id": "PRSPQvbFquU",
-      "title": "Announcing v0.1.0 of the gitlab.vim editor extension"
-    }, {
-      "id": "7zLYlG74qLc", 
-      "title": "Engineering Exploration - Self-hosting LLMs using FastChat"
-    }, {
-      "id": "Vw8-ce8LNBs", 
-      "title": "CI Components - development workflow"
-    }, {
-      "id": "uuq_blMOMZo", 
-      "title": "How to automate creating GitLab Runners"
-    }, {
-      "id": "Nv7XwNoxVqc", 
-      "title": "Joe Burnett -- My command-line work process (mosh, tmux, emacs, org-mode and gopls)"
-    }, {
-      "id": "dkDZi4x0UiE", 
-      "title": "How to setup \"Domain Verification\" for gitlab.com"
-    }, {
-      "id": "aryVnYP_F4w", 
-      "title": "GitLab Runner demo - create an instance-level (Shared) runner as a user"
-    }, {
-      "id": "1hdWyMWIlHA", 
-      "title": "Remote development via GitLab Agent code walkthrough"
-    }, {
-      "id": "xYYN8Ufs-pY", 
-      "title": "GitLab CLI incident list demo"
-    }, {
-      "id": "5T4gQFYOwXM", 
-      "title": "Remote Development Architecture Spike walkthrough"
-    }, {
-      "id": "ESdJctkZmZg", 
-      "title": "Remote Development and GitLab Agent For Kubernetes pairing session 1"
-    }, {
-      "id": "qUfQkVrm6uk", 
-      "title": "Jira proxy test setup"
-    }, {
-      "id": "_T6reRGwv-o", 
-      "title": "Git LFS Internals"
-    }, {
-      "id": "SFhJ7kRJADA", 
-      "title": "Applied ML - Building MLOps pipeline in Gitlab for Suggested Reviewer - 'The first MLOps template '"
-    }, {
-      "id": "YKyboytpEjQ", 
-      "title": "Product Planning: Planning the next milestone"
-    }, {
-      "id": "s0EHlQaiWks", 
-      "title": "Async Sketching Session - CI/CD Catalog"
-    }, {
-      "id": "L11mZqQKuwo", 
-      "title": "Migrating from Self Managed to SaaS"
-    }, {
-      "id": "fk45RJIJpnM", 
-      "title": "GitLab Runner Fleeting / Taskscaler Detection and Debugging"
-    }, {
-      "id": "6eDwPm0O97c", 
-      "title": "Tech writing: Documenting multiple fields"
-    }
+    { "id": "Nv7XwNoxVqc", "title": "Joe Burnett -- My command-line work process (mosh, tmux, emacs, org-mode and gopls)" }, 
+    { "id": "uuq_blMOMZo", "title": "How to automate creating GitLab Runners" }, 
+    { "id": "Vw8-ce8LNBs", "title": "CI Components - development workflow" }, 
+    { "id": "4ZMLr8oDhqI", "title": "Agile Portfolio Demo" }, 
+    { "id": "irvXD2Gg_SM", "title": "Introducing Advisory exporter - Ingest Dependency Scanning advisories Demo E2E" }, 
+    { "id": "ndqwggwggbI", "title": "Empowering CI Pipeline Adoption in GitLab - AMER Time Zone Webinar" }, 
+    { "id": "B8IKw-YyW44", "title": "Migrating Code Suggestions from WebIDE to Workflow only - Status update" }, 
+    { "id": "BFf9X6FboO4", "title": "Multi Pipeline comparison for scan result policies" }, 
+    { "id": "TWgtJu6h5TU", "title": "Product Planning: Using a &quot;Now-Next-Future&quot; epic board to create a product roadmap" }, 
+    { "id": "rGTl9_HIpbY", "title": "GitLab Navigation Demo" }, 
+    { "id": "y4EKiO50lnY", "title": "List streamed audit event filter options in the UI to allow for easy filtering" }, 
+    { "id": "i1tzTJVm1vM", "title": "GitLab 16.2 Kickoff - Enablement:Distribution" }, 
+    { "id": "PRSPQvbFquU", "title": "Announcing v0.1.0 of the gitlab.vim editor extension" }, 
+    { "id": "7zLYlG74qLc", "title": "Engineering Exploration - Self-hosting LLMs using FastChat" }, 
+    { "id": "Vw8-ce8LNBs", "title": "CI Components - development workflow" }, 
+    { "id": "uuq_blMOMZo", "title": "How to automate creating GitLab Runners" }, 
+    { "id": "Nv7XwNoxVqc", "title": "Joe Burnett -- My command-line work process (mosh, tmux, emacs, org-mode and gopls)" }, 
+    { "id": "dkDZi4x0UiE", "title": "How to setup \"Domain Verification\" for gitlab.com" }, 
+    { "id": "aryVnYP_F4w", "title": "GitLab Runner demo - create an instance-level (Shared) runner as a user" }, 
+    { "id": "1hdWyMWIlHA", "title": "Remote development via GitLab Agent code walkthrough" }, 
+    { "id": "xYYN8Ufs-pY", "title": "GitLab CLI incident list demo" }, 
+    { "id": "5T4gQFYOwXM", "title": "Remote Development Architecture Spike walkthrough" }, 
+    { "id": "ESdJctkZmZg", "title": "Remote Development and GitLab Agent For Kubernetes pairing session 1" }, 
+    { "id": "qUfQkVrm6uk", "title": "Jira proxy test setup" }, 
+    { "id": "_T6reRGwv-o", "title": "Git LFS Internals" }, 
+    { "id": "SFhJ7kRJADA", "title": "Applied ML - Building MLOps pipeline in Gitlab for Suggested Reviewer - 'The first MLOps template '" }, 
+    { "id": "YKyboytpEjQ", "title": "Product Planning: Planning the next milestone" }, 
+    { "id": "s0EHlQaiWks", "title": "Async Sketching Session - CI/CD Catalog" }, 
+    { "id": "L11mZqQKuwo", "title": "Migrating from Self Managed to SaaS" }, 
+    { "id": "fk45RJIJpnM", "title": "GitLab Runner Fleeting / Taskscaler Detection and Debugging" }, 
+    { "id": "6eDwPm0O97c", "title": "Tech writing: Documenting multiple fields" } 
   ]
 }

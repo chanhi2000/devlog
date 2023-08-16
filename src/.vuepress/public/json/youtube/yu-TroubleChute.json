@@ -2,43 +2,21 @@
   "channel": {
     "id": "TroubleChute",
     "name": "TroubleChute",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPALEnhqZV9cGl2-7F5lzk4252aSkrnFVF2s0Zx=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPALEnhqZV9cGl2-7F5lzk4252aSkrnFVF2s0Zx=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XVPxX0vRbsHHdt0llbO5rYNQuVLYQnl7TFsBVlh4tZvklz-1oerBN_C-_QySZE97TVgjXrXiVg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "OlNWCpFdVMA",
-      "title": "One-Click FFMPEG Install | Simpler than ever!"
-    }, {
-      "id": "HwDcOhlaJsQ",
-      "title": "Ultimate Context Menu Customisation 😍 Themes & More | Nilesoft Shell Guide"
-    }, {
-      "id": "VjkE4dqdHX8",
-      "title": "Ubuntu/WSL SSH Server Setup Guide | Remote SSH WSL"
-    }, {
-      "id": "6XIewWXXSNs",
-      "title": "How to Port Forward Ubuntu/WSL | Simple Windows Guide"
-    }, {
-      "id": "2LEnBXH8xV0",
-      "title": "🎨 Make WSL/Ubuntu Terminal Look Better | Oh My Posh Guide"
-    }, {
-      "id": "1j1NmuqNlI0",
-      "title": "Adobe Firefly: Crash Course | Sign-up (Free), Alternatives & Should you care? | Complete Guide"
-    }, {
-      "id": "lzhXZQucQFA",
-      "title": "Hide Recent Files in the Start Menu | Simple Windows 11 Guide"
-    }, {
-      "id": "cOJbzmZTKvM",
-      "title": "How to setup Android Subsystem on Windows 11 | NEW GUIDE"
-    }, {
-      "id": "i7651MjMXNs",
-      "title": "Install osu! on Mac | Lazer + Normal/Stable | Full Guide"
-    }, {
-      "id": "BbYJd9kRjLg",
-      "title": "🤯Insane Image Manipulation | ControlNet Install & Usage Guide | UPDATED"
-    }, {
-      "id": "J5A-T2he1Bo",
-      "title": "INSANE Text2Video in SDUI📹Full Install & Use Guide | AUTOMATIC1111 Stable Diffusion"
-    }
+    { "id": "OlNWCpFdVMA", "title": "One-Click FFMPEG Install | Simpler than ever!" }, 
+    { "id": "HwDcOhlaJsQ", "title": "Ultimate Context Menu Customisation 😍 Themes & More | Nilesoft Shell Guide" }, 
+    { "id": "VjkE4dqdHX8", "title": "Ubuntu/WSL SSH Server Setup Guide | Remote SSH WSL" }, 
+    { "id": "6XIewWXXSNs", "title": "How to Port Forward Ubuntu/WSL | Simple Windows Guide" }, 
+    { "id": "2LEnBXH8xV0", "title": "🎨 Make WSL/Ubuntu Terminal Look Better | Oh My Posh Guide" }, 
+    { "id": "1j1NmuqNlI0", "title": "Adobe Firefly: Crash Course | Sign-up (Free), Alternatives & Should you care? | Complete Guide" }, 
+    { "id": "lzhXZQucQFA", "title": "Hide Recent Files in the Start Menu | Simple Windows 11 Guide" }, 
+    { "id": "cOJbzmZTKvM", "title": "How to setup Android Subsystem on Windows 11 | NEW GUIDE" }, 
+    { "id": "i7651MjMXNs", "title": "Install osu! on Mac | Lazer + Normal/Stable | Full Guide" }, 
+    { "id": "BbYJd9kRjLg", "title": "🤯Insane Image Manipulation | ControlNet Install & Usage Guide | UPDATED" }, 
+    { "id": "J5A-T2he1Bo", "title": "INSANE Text2Video in SDUI📹Full Install & Use Guide | AUTOMATIC1111 Stable Diffusion" } 
   ]
 }
 

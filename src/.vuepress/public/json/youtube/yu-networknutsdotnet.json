@@ -7,7 +7,7 @@
   },
   "videos": [
     { "id": "LGiHrI1cRdc", "title": "Monitor Kubernetes Resources - cpu memory usage by pods - kubectl view allocations - kubectl plugin" },
-    { "id": "EdugsI4YhYc", "title": "Linux Server Monitoring with SAR &amp; GNUPLOT | Monitor Linux Server Performance | RH442 Training" },
+    { "id": "EdugsI4YhYc", "title": "Linux Server Monitoring with SAR & GNUPLOT | Monitor Linux Server Performance | RH442 Training" },
     { "id": "il8YglA_shU", "title": "Kubernetes Components - Kubernetes Architecture - How Kubernetes Work" }, 
     { "id": "AUYcv7dI9Zg", "title": "`BPYTOP` - Alternative to top in Linux - Monitor Linux server resources using `bpytop` utility" }, 
     { "id": "jEW5X2BAzjI", "title": "K9S Kubernetes Cluster Management Tool - Terminal based UI Tool for Managing Kubernetes - CKA" }, 

@@ -1452,6 +1452,339 @@ try {
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`install-ssh-client.ps1`
 
+```card
+title: install-ssh-client.ps1
+desc: Installs a SSH client (needs admin rights).
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-ssh-client.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script installs a SSH client (needs admin rights).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-ssh-client.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./install-ssh-client.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs a SSH client (needs admin rights)
+.DESCRIPTION
+	This PowerShell script installs a SSH client (needs admin rights).
+.EXAMPLE
+	PS> ./install-ssh-client.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if ($IsLinux) {
+		& sudo apt install openssh-client
+	} else {
+		Add-WindowsCapability -Online -Name OpenSSH.Client*
+	}
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ installed SSH client in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`install-ssh-server.ps1`
+
+```card
+title: install-ssh-server.ps1
+desc: Installs a SSH server (needs admin rights).
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-ssh-server.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script installs a SSH server (needs admin rights).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-ssh-server.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./install-ssh-server.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs a SSH server (needs admin rights)
+.DESCRIPTION
+	This PowerShell script installs a SSH server (needs admin rights).
+.EXAMPLE
+	PS> ./install-ssh-server.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if ($IsLinux) {
+		& sudo apt install openssh-server
+	} else {
+		# Install the OpenSSH Server
+		Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+
+		# Start the sshd service
+		Start-Service sshd
+
+		# OPTIONAL but recommended:
+		Set-Service -Name sshd -StartupType 'Automatic'
+
+		# Confirm the firewall rule is configured. It should be created automatically by setup.
+		Get-NetFirewallRule -Name *ssh*
+
+		# There should be a firewall rule named "OpenSSH-Server-In-TCP", which should be enabled
+		# If the firewall does not exist, create one
+		New-NetFirewallRule -Name sshd -DisplayName 'OpenSSH Server (sshd)' -Enabled True -Direction Inbound -Protocol TCP -Action Allow -LocalPort 22
+	}
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ installed and started SSH server in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`install-signal-cli.ps1`
+
+```card
+title: install-signal-cli.ps1
+desc: Installs signal-cli from github.com/AsamK/signal-cli.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-signal-cli.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script installs `signal-cli` from [<FontIcon icon="iconfont icon-github"/>AsamK/signal-cli](https://github.com/AsamK/signal-cli).
+
+See the Web page for the correct version number.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-signal-cli.ps1 [[-Version] <String>] [<CommonParameters>]
+
+-Version <String>
+    Specifies the version to install
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./install-signal-cli 0.11.12
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs signal-cli 
+.DESCRIPTION
+	This PowerShell script installs signal-cli from github.com/AsamK/signal-cli.
+	See the Web page for the correct version number.
+.PARAMETER Version
+	Specifies the version to install
+.EXAMPLE
+	PS> ./install-signal-cli 0.11.12
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$Version = "")
+
+try {
+	if ($Version -eq "") { $Version = read-host "Enter version to install (see https://github.com/AsamK/signal-cli)" }
+
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	set-location /tmp
+
+	& wget --version
+	if ($lastExitCode -ne "0") { throw "Can't execute 'wget' - make sure wget is installed and available" }
+
+	& wget "https://github.com/AsamK/signal-cli/releases/download/v$Version/signal-cli-$($Version).tar.gz"
+	if ($lastExitCode -ne "0") { throw "'wget' failed" }
+
+	sudo tar xf "signal-cli-$Version.tar.gz" -C /opt
+	if ($lastExitCode -ne "0") { throw "'sudo tar xf' failed" }
+
+	sudo ln -sf "/opt/signal-cli-$Version/bin/signal-cli" /usr/local/bin/
+	if ($lastExitCode -ne "0") { throw "'sudo ln -sf' failed" }
+
+	rm "signal-cli-$Version.tar.gz"
+	if ($lastExitCode -ne "0") { throw "'rm' failed" }
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ installed signal-cli $Version to /opt and /usr/local/bin in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`install-updates.ps1`
+
+```card
+title: install-updates.ps1
+desc: Installs updates (need admin rights).
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-updates.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script installs software updates for the local machine (needs admin rights).
+Use the script '`list-updates.ps1`' to list available updates.
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-updates.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./install-updates.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs updates
+.DESCRIPTION
+	This PowerShell script installs software updates for the local machine (needs admin rights).
+	Use the script 'list-updates.ps1' to list available updates.
+.EXAMPLE
+	PS> ./install-updates.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if ($IsLinux) {
+		"⏳ (1/4) Querying updates for installed Debian packages..."
+		& sudo apt update
+
+		"⏳ (2/4) Upgrading installed Debian packages..."
+		& sudo apt upgrade --yes
+
+		"⏳ (3/4) Removing obsolete Debian packages..."
+		& sudo apt autoremove --yes
+
+		"⏳ (4/4) Upgrading installed Snap packages..."
+		& sudo snap refresh
+	} else {
+		Write-Progress "⏳ Installing updates..."
+		" "
+		& winget upgrade --all
+		Write-Progress -completed " "
+	}
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✅ installed the updates in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
 
 <TagLinks/>

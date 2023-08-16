@@ -329,5 +329,10 @@
     "desc": "Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors",
     "topics": ["3d-generation", "diffusion-models", "image-to-3d"],
     "officialSite": "https://guochengqian.github.io/project/magic123"
+  }, {
+    "repo": "llSourcell/DoctorGPT",
+    "desc": "DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

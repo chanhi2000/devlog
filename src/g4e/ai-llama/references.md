@@ -30,4 +30,12 @@ tags: ["llama" , "llm"]
 
 - [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
 
+---
+
+## Finbarr Timbers
+
+- [How is LLaMa.cpp possible?](https://finbarr.ca/how-is-llama-cpp-possible)
+
+---
+
 <TagLinks/>

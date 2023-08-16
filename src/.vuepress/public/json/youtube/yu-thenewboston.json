@@ -6,31 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/9DKy95AxTFOd98MqP1P6JzG1JayMWonpB3UkQLu5noWEcyy0hdMJr94auTgNrHY8APrxdSRQKd0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "YLC1hnqSluM",
-      "title": "Pro Django - Tutorial 8 - GitHub Actions and Workflows"
-    }, {
-      "id": "zCz6xEFqOXE",
-      "title": "Pro Django - Tutorial 9 - CI/CD"
-    }, {
-      "id": "hqYUAVobDJA",
-      "title": "Pro Django - Tutorial 7 - pytest"
-    }, {
-      "id": "2KAP10kJ-wo",
-      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 14 - Gradle for Building Docker Images and Boot JARs"
-    }, {
-      "id": "Ykq9LAzNxTE",
-      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 13 - REST APIs with RestTemplate &amp; Dependency Injection"
-    }, {
-      "id": "jiv37i503v4",
-      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 8 - GET Single Bank"
-    }, {
-      "id": "2e72RHO8ORk",
-      "title": "Spring Boot with Kotlin &amp; JUnit 5 - Tutorial 7 - Web Layer"
-    }, {
-      "id": "MBBWVgE0ewk",
-      "title": "Windows Command Line Tutorial - 1 - Introduction to the Command Prompt"
-    }
+    { "id": "YLC1hnqSluM", "title": "Pro Django - Tutorial 8 - GitHub Actions and Workflows" }, 
+    { "id": "zCz6xEFqOXE", "title": "Pro Django - Tutorial 9 - CI/CD" }, 
+    { "id": "hqYUAVobDJA", "title": "Pro Django - Tutorial 7 - pytest" }, 
+    { "id": "2KAP10kJ-wo", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 14 - Gradle for Building Docker Images and Boot JARs" }, 
+    { "id": "Ykq9LAzNxTE", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 13 - REST APIs with RestTemplate & Dependency Injection" }, 
+    { "id": "jiv37i503v4", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 8 - GET Single Bank" }, 
+    { "id": "2e72RHO8ORk", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 7 - Web Layer" }, 
+    { "id": "MBBWVgE0ewk", "title": "Windows Command Line Tutorial - 1 - Introduction to the Command Prompt" } 
   ]
 }
 

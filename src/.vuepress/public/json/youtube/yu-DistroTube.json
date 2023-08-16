@@ -15,7 +15,7 @@
     { "id": "ywXVGH-QyMc", "title": "Give the 'bat' command wings with 'bat-extras'" }, 
     { "id": "4G_cthFZeJ8", "title": "Transform Your Scripts With Bash Simple Curses" }, 
     { "id": "fiqKZXQQgpw", "title": "Write A Script To Search the Arch Wiki (OFFLINE!)" }, 
-    { "id": "2zT37cVNR1w", "title": "Essential Linux Commands - `uname`, `hostname`, `basename`, `dirname` &amp; `logname`" }, 
+    { "id": "2zT37cVNR1w", "title": "Essential Linux Commands - `uname`, `hostname`, `basename`, `dirname` & `logname`" }, 
     { "id": "p0eVyhv2rbk", "title": "Git Annex Is The Coolest Program You've Never Heard Of" }, 
     { "id": "EACe7aiGczw", "title": "Learning Sed Is Beneficial For Linux Users" }, 
     { "id": "DVapUamvqO8", "title": "Using Htop To Monitor Your System" }, 
@@ -33,7 +33,7 @@
     { "id": "qgxsduCO1pE", "title": "Vifm and Überzug (Ueberzug) Image Previews" }, 
     { "id": "a4scYdubKbo", "title": "Vim Makes Everything Better, Especially Your File Manager And Shell!" }, 
     { "id": "hIDh2HiV_dg", "title": "From Noob To Power User With Manjaro KDE" }, 
-    { "id": "HrY6Gz1UiE0", "title": "Dmscripts now has '`-d`', '`-r`' and '`-f`' options. (`dmenu`, `rofi`, &amp; `fzf`)" }, 
+    { "id": "HrY6Gz1UiE0", "title": "Dmscripts now has '`-d`', '`-r`' and '`-f`' options. (`dmenu`, `rofi`, & `fzf`)" }, 
     { "id": "tTS2KVCJ-MQ", "title": "An Update Borked My Linux System. How Did I Fix It?" }, 
     { "id": "Ab6cWN9ZrXo", "title": "The Amazing Interactive Command Line Fuzzy Finder (`fzf`)" }
   ]

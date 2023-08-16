@@ -2,25 +2,16 @@
   "channel": {
     "id": "DroidconItaly",
     "name": "Android Heroes",
-    "profile": "https://yt3.googleusercontent.com/qGhucaFEXVWwys8aNHkTSZZ0mNtVmi6xZSy-vdbkxMT-isxmpC4Bua7xXQ3KblFA9oFmiGzPKg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/qGhucaFEXVWwys8aNHkTSZZ0mNtVmi6xZSy-vdbkxMT-isxmpC4Bua7xXQ3KblFA9oFmiGzPKg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2836VLkbnngkHR2tY8uKcrOIxsMXnfvqyQFSOiA5ptLzqEdZJ4dinkql6Ss-UMMOq7dNivddGg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "3xLr6Ck0O4w",
-      "title": "Gerard Paligot &amp; Fanny Demey - Accessibility with Compose : Experimentation &amp; Live coding - DC 2022"
-    }, {
-      "id": "VI7eWTfHw6I",
-      "title": "Emanuele Papa - KMM survival guide: how to tackle everyday struggles between Kotlin and Swift"
-    }, {
-      "id": "bR33g7XHIvU",
-      "title": "Andrea Cioccarelli - Android App Security Fundamentals - droidcon Italy 2022"
-    }, {
-      "id": "1st3mH8U-QE",
-      "title": "Roberto Orgiu, Android Engineer, The New York Times: An Android Dev start to Kotlin Multiplatform"
-    }, {
-      "id": "TWLkswxjSr0",
-      "title": "Modularizing Android Applications - Marvin Ramin"
-    }
+    { "id": "3xLr6Ck0O4w", "title": "Gerard Paligot & Fanny Demey - Accessibility with Compose : Experimentation & Live coding - DC 2022" }, 
+    { "id": "VI7eWTfHw6I", "title": "Emanuele Papa - KMM survival guide: how to tackle everyday struggles between Kotlin and Swift" }, 
+    { "id": "bR33g7XHIvU", "title": "Andrea Cioccarelli - Android App Security Fundamentals - droidcon Italy 2022" }, 
+    { "id": "1st3mH8U-QE", "title": "Roberto Orgiu, Android Engineer, The New York Times: An Android Dev start to Kotlin Multiplatform" }, 
+    { "id": "TWLkswxjSr0", "title": "Modularizing Android Applications - Marvin Ramin" }
+ 
   ]
 }
 

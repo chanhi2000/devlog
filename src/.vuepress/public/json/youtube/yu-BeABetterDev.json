@@ -6,10 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/_DkMv1f8NdP7BCDRa9j7I9RV_ts0eot7ENEFCsh33fCJTy1tlGdRpaRPoxLK6qvZvZLFxyTKCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "ZWs6eR_knLc", "title": "New &amp; Useful DynamoDB Console Quality of Life Improvements" }, 
+    { "id": "ZWs6eR_knLc", "title": "New & Useful DynamoDB Console Quality of Life Improvements" }, 
     { "id": "0Zs5s5F_lFc", "title": "Big Data Processing Using Distributed Maps and AWS Step Functions (S3 + Lambda)" }, 
     { "id": "T-viaT391aQ", "title": "Top 5 Cost Optimization Tips Every AWS User Should Know" },     
-    { "id": "ZWs6eR_knLc", "title": "New &amp; Useful DynamoDB Console Quality of Life Improvements" }, 
     { "id": "o7s-eigrMAI", "title": "How to Setup AWS ECS Fargate with a Load Balancer | Step by Step" }
   ]
 }

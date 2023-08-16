@@ -6,93 +6,34 @@
     "banner": "https://yt3.googleusercontent.com/cSZKXxKMITZNPTT09ozaxbbc6o52JRsFbir4RhQgnSsCsGuA22BJcnNB_f64H9xm9Vb5e6HSBrg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "bC-60KNgLuE",
-      "title": "Introducing Dev Home"
-    }, {
-      "id": "FCfwc-NNo30",
-      "title": "Announcing Windows Copilot"
-    }, {
-      "id": "totCqGdDhMM",
-      "title": "What's new in .NET Multi-platform App UI (MAUI) Q&amp;A | DIS202H"
-    }, {
-      "id" :"qMyzz_1vvpo",
-      "title" :"Learn Live: Build a web app with Blazor | DIS01"
-    }, {
-      "id" :"KxZInwv3qO8",
-      "title" :"Application reliability with Azure Load Testing and Chaos Studio Q&amp;A | DIS260H"
-    }, {
-      "id" :"64AWFTbDwHg",
-      "title" :"Azure Spring Apps: The easy way to run your apps | ODFP207"
-    }, {
-      "id" :"kjKpZAgXLFY",
-      "title" :"Blazor + .NET MAUI – the perfect “hybrid”  | ODFP211"
-    }, {
-      "id" :"MsLVeneLGgE",
-      "title" :"Scale observability and secure data in motion with Elastic and Confluent | ODFP216"
-    }, {
-      "id" :"rSUZBst7YcA",
-      "title" :"Understanding the cryptographic controls in Azure SQL Database | OD31"
-    }, {
-      "id" :"PhPbKIiNIlo",
-      "title" :"Azure Linux: A container host OS for Azure Kubernetes Service (AKS) Q&amp;A | DIS228H"
-    }, {
-      "id" :"hPy83NGl4kU",
-      "title" :"Building Adaptive Card-based Loop components for Microsoft 365 | DIS232H"
-    }, {
-      "id" :"FCfwc-NNo30",
-      "title" :"Announcing Windows Copilot"
-    }, {
-      "id" :"bC-60KNgLuE",
-      "title" :"Introducing Dev Home"
-    }, {
-      "id" :"EL4kweENvZc",
-      "title" :"Let's Learn .NET - Azure | #SamosaChai.NET"
-    }, {
-      "id" :"2sEujkZ79E4",
-      "title" :"Learn Prompt Engineering for ChatGPT"
-    }, {
-      "id" :"7ZeZD-iJFQw",
-      "title" :"Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation"
-    }, {
-      "id" :"E3GI9a39uQU",
-      "title" :"Getting started with Java and Spring Cloud to build Reactive Java Apps."
-    }, {
-      "id" :"xZwNFB4hx5s",
-      "title" :"Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET"
-    }, {
-      "id" :"apcWlHNJ5kM",
-      "title" :"StereoKit: Hello World for StereoKit"
-    }, {
-      "id" :"8b_Wiuw8l-8",
-      "title" :"JBoss on Azure App Service is now GA | The Launch Space"
-    }, {
-      "id" :"1DJkU8H-uDc",
-      "title" :"What is Rust and why should you learn it [2 of 35] | Rust for Beginners"
-    }, {
-      "id" :"wnFtt-fKLoI",
-      "title" :"All Around Azure: DevOps with GitHub- Americas Airing"
-    }, {
-      "id" :"XkLjxr9iQ-8",
-      "title" :"Visual Studio Code: Remote Dev with SSH, VMs, and WSL | Tabs vs Spaces"
-    }, {
-      "id" :"4pBcGmm6nCI",
-      "title" :"Learn Studio Session: Build a WebAssembly app with Blazor & VS Code | COM141"
-    }, {
-      "id" :"2k74qoXTelM",
-      "title" :"Learn Studio Session: Build a WebAssembly app with Blazor & VS Code | COM144"
-    }, {
-      "id" :"GZDQptTQZsk",
-      "title" :"Episode 5: MVVM & Data Binding with Xamarin.Forms"
-    }, {
-      "id" :"MrZolfGm8Zk",
-      "title" :"WSL2: Code faster on the Windows Subsystem for Linux! | Tabs vs Spaces"
-    }, {
-      "id" :"ykZbBD-CmP8",
-      "title" :"Git patterns and anti-patterns for successful developers : Build 2018"
-    }, {
-      "id" :"nK8Ss2UMAxc",
-      "title" :"Introduction to Dapr"
-    }
+    { "id": "bC-60KNgLuE", "title": "Introducing Dev Home" }, 
+    { "id": "FCfwc-NNo30", "title": "Announcing Windows Copilot" }, 
+    { "id": "totCqGdDhMM", "title": "What's new in .NET Multi-platform App UI (MAUI) Q&A | DIS202H" }, 
+    { "id" :"qMyzz_1vvpo", "title" :"Learn Live: Build a web app with Blazor | DIS01" }, 
+    { "id" :"KxZInwv3qO8", "title" :"Application reliability with Azure Load Testing and Chaos Studio Q&A | DIS260H" }, 
+    { "id" :"64AWFTbDwHg", "title" :"Azure Spring Apps: The easy way to run your apps | ODFP207" }, 
+    { "id" :"kjKpZAgXLFY", "title" :"Blazor + .NET MAUI – the perfect “hybrid”  | ODFP211" }, 
+    { "id" :"MsLVeneLGgE", "title" :"Scale observability and secure data in motion with Elastic and Confluent | ODFP216" }, 
+    { "id" :"rSUZBst7YcA", "title" :"Understanding the cryptographic controls in Azure SQL Database | OD31" }, 
+    { "id" :"PhPbKIiNIlo", "title" :"Azure Linux: A container host OS for Azure Kubernetes Service (AKS) Q&A | DIS228H" }, 
+    { "id" :"hPy83NGl4kU", "title" :"Building Adaptive Card-based Loop components for Microsoft 365 | DIS232H" }, 
+    { "id" :"FCfwc-NNo30", "title" :"Announcing Windows Copilot" }, 
+    { "id" :"bC-60KNgLuE", "title" :"Introducing Dev Home" }, 
+    { "id" :"EL4kweENvZc", "title" :"Let's Learn .NET - Azure | #SamosaChai.NET" }, 
+    { "id" :"2sEujkZ79E4", "title" :"Learn Prompt Engineering for ChatGPT" }, 
+    { "id" :"7ZeZD-iJFQw", "title" :"Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation" }, 
+    { "id" :"E3GI9a39uQU", "title" :"Getting started with Java and Spring Cloud to build Reactive Java Apps." }, 
+    { "id" :"xZwNFB4hx5s", "title" :"Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET" }, 
+    { "id" :"apcWlHNJ5kM", "title" :"StereoKit: Hello World for StereoKit" }, 
+    { "id" :"8b_Wiuw8l-8", "title" :"JBoss on Azure App Service is now GA | The Launch Space" }, 
+    { "id" :"1DJkU8H-uDc", "title" :"What is Rust and why should you learn it [2 of 35] | Rust for Beginners" }, 
+    { "id" :"wnFtt-fKLoI", "title" :"All Around Azure: DevOps with GitHub- Americas Airing" }, 
+    { "id" :"XkLjxr9iQ-8", "title" :"Visual Studio Code: Remote Dev with SSH, VMs, and WSL | Tabs vs Spaces" }, 
+    { "id" :"4pBcGmm6nCI", "title" :"Learn Studio Session: Build a WebAssembly app with Blazor & VS Code | COM141" }, 
+    { "id" :"2k74qoXTelM", "title" :"Learn Studio Session: Build a WebAssembly app with Blazor & VS Code | COM144" }, 
+    { "id" :"GZDQptTQZsk", "title" :"Episode 5: MVVM & Data Binding with Xamarin.Forms" }, 
+    { "id" :"MrZolfGm8Zk", "title" :"WSL2: Code faster on the Windows Subsystem for Linux! | Tabs vs Spaces" }, 
+    { "id" :"ykZbBD-CmP8", "title" :"Git patterns and anti-patterns for successful developers : Build 2018" }, 
+    { "id" :"nK8Ss2UMAxc", "title" :"Introduction to Dapr" } 
   ]
 }

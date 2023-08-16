@@ -7,9 +7,9 @@
   },
   "videos": [
     { "id": "oNAj6aIU7tk", "title": "Xcode 15 - What's New" }, 
-    { "id": "EK7SthdWV2w", "title": "SwiftUI Data Flow in iOS 17 - Observation &amp; @Observable" }, 
+    { "id": "EK7SthdWV2w", "title": "SwiftUI Data Flow in iOS 17 - Observation & @Observable" }, 
     { "id": "XTAziR-tY-A", "title": "iOS Dev Job Interview - Must Know Topics" }, 
-    { "id": "ERr0GXqILgc", "title": "Swift API Calls for Beginners (Networking) - Async Await &amp; JSON" }, 
+    { "id": "ERr0GXqILgc", "title": "Swift API Calls for Beginners (Networking) - Async Await & JSON" }, 
     { "id": "rO16UJS0jHg",  "title": "Paywall Design Examples - Earn More Revenue" }, 
     { "id": "VUztqFol_FY",  "title": "Intro to Apple Search Ads - Setup Your First Campaign (Tutorial)" }, 
     { "id": "a3AH0ItFTKU",  "title": "Swift Generics for Beginners - Eliminate Code Duplication" }, 

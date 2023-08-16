@@ -4,7 +4,9 @@
     <span class="youtube-item-watched">{{ info.isWatched }}</span>
     <a class="youtube-item-link" v-bind:href="info.link.video">
       <img width="auto" height="80px" v-bind:alt="info.thumbnailAlt" v-bind:src="info.link.thumbnail"/>
-      <span class="youtube-item-title">{{ info.title }}</span>
+      <span class="youtube-item-title"
+        v-html="info.title">
+      </span>
     </a>
     <span class="youtube-item-channel"><i>by <a v-bind:href="info.link.channel" class="youtube-item-channel-name">{{ info.channelName }}</a></i></span>
   </div>

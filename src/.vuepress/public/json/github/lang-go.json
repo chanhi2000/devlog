@@ -639,5 +639,20 @@
     "desc": "IM即时通讯",
     "topics": ["go", "chat", "golang", "telegram", "messaging", "messenger", "wechat", "im", "imserver", "openim"],
     "officialSite": "https://www.openim.online"
+  }, {
+    "repo": "google/git-appraise",
+    "desc": "Distributed code review system for Git repos",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "gravitl/netmaker",
+    "desc": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.`",
+    "topics": ["kubernetes", "security", "cloud", "networking", "network", "self-hosted", "vpn", "mesh", "vpn-server", "k8s", "wireguard", "virtual-network", "devsecops", "zero-trust", "wireguard-vpn", "wg-quick", "virtual-networking", "wireguard-ui"],
+    "officialSite": "https://netmaker.io"
+  }, {
+    "repo": "ethereum/go-ethereum",
+    "desc": "Official Go implementation of the Ethereum protocol",
+    "topics": ["go", "ethereum", "blockchain", "p2p", "geth"],
+    "officialSite": "https://geth.ethereum.org"
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "HarsivoEdu",
+    "name": "Harsivo Edu",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQDCqCUcG6-vlNAQwUA8jdK4cR3Krx5R7nIhnTyrw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/U7IJATRdKsP0GNpofCDm_jhcZv4GyK-qXR9Xh8Ufiz1E1JgDyhdj_hlgO_97_PnQSK2QT9rmDw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mANJLuKSlK0", "title": "Login Screen with SwiftUI | VStack, ZStack & HStack with SwiftUI" }    
+  ]
+}

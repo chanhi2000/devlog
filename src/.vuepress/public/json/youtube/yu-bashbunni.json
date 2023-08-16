@@ -2,21 +2,13 @@
   "channel": {
     "id": "bashbunni",
     "name": "bashbunni",
-    "profile": "https://yt3.googleusercontent.com/M5177JH4bSDoTINrdCTMn0OiXDdVdba3eewk5bxl654e4ZWfr310YE4AKCIB9qAE0ex0vto7qA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/M5177JH4bSDoTINrdCTMn0OiXDdVdba3eewk5bxl654e4ZWfr310YE4AKCIB9qAE0ex0vto7qA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NfXI1ruUrRXCQfkNI7fPnRxxNbo-6OJmfl9GbEx8CnUojvyRtZ5az52GFOEGSZ4ZHtemfFzB11M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "78FjNkrPn5Y",
-      "title": "Replicate My Tmux Setup in Less Than 5 Minutes [Beginner Friendly!]"
-    }, {
-      "id": "ZvhzrltuA9U",
-      "title": "Replicate my neovim setup in less than 5 minutes [beginner friendly!]"
-    }, {
-      "id": "GfQjJBtO-8Y",
-      "title": "My CLI Pomodoro is Better Than Yours"
-    }, {
-      "id": "UdTQU89e1G4",
-      "title": "a new life for a 2013 macbook pro"
-    }   
+    { "id": "78FjNkrPn5Y", "title": "Replicate My Tmux Setup in Less Than 5 Minutes [Beginner Friendly!]" }, 
+    { "id": "ZvhzrltuA9U", "title": "Replicate my neovim setup in less than 5 minutes [beginner friendly!]" }, 
+    { "id": "GfQjJBtO-8Y", "title": "My CLI Pomodoro is Better Than Yours" }, 
+    { "id": "UdTQU89e1G4", "title": "a new life for a 2013 macbook pro" }    
   ]
 }

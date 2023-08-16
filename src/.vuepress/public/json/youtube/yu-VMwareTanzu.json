@@ -3,51 +3,22 @@
     "id": "VMwareTanzu",
     "name": "VMware Tanzu",
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPyqXnqqZmcmFyaM7NFmzfQ-75FtTUP3EfhBqMT6A=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/8F2F4QYLxq8pSNt8WaII3Dz_BJPcKRvkaAtVoeCBp3fyXF2LezxmqpU8Y5GFXyoOSsxbnhER=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "UGsfmKUCJzQ",
-      "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI"
-    }, {
-      "id": "uqgxkL4KfKE",
-      "title": "Avoid Cloud Lock-in with Kubernetes, Findings from the 2023 VMware State of Kubernetes Survey 📊"
-    }, {
-      "id": "UGsfmKUCJzQ",
-      "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI"
-    }, {
-      "id": "uaSfQKT7LIM",
-      "title": "🛠️ Kubernetes Tools Worth Paying For, from the 2023 VMware State of Kubernetes Survey  📊"
-    }, {
-      "id": "gsyGOv_Nwb0",
-      "title": "⚡️ Enlightning - Carvel: Clean Tools for Cloud Native Problems"
-    }, {
-      "id": "zzK6E2TS2Kc",
-      "title": "KubeAcademy Office Hours Core Concepts Part 1 Platform v2"
-    }, {
-      "id": "6WfxWfIwoAU",
-      "title": "Code - Spring for GraphQL"
-    }, {
-      "id": "kiCRfdRBiuw",
-      "title": "Tanzu.TV/Code - Testing the Web Layer with Spring with Jakub Pilimon"
-    }, {
-      "id": "R9mNUfvp8Dg",
-      "title": "Tanzu Tuesdays - Top tips for running Spring Boot applications on Kubernetes with Ollie Hughes"
-    }, {
-      "id": "aHRmveIdsV0",
-      "title": "Tanzu.TV/code - Kubernetes and Spring: a Rom-Com for the Ages with Josh Long"
-    }, {
-      "id": "9v927WQ7NWM",
-      "title": "Automated Refactoring for Spring-Based Applications with Jonathan Schneider"
-    }, {
-      "id": "YlJrl0nDPaQ",
-      "title": "The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker"
-    }, {
-      "id": "eGFdEXw9eLE",
-      "title": "⚡️ Enlightning - Software Defined Cloud Dev Environments with the Devfile"
-    }, {
-      "id": "a0zUCc2gKL8",
-      "title": "Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices"
-    }
+    { "id": "UGsfmKUCJzQ", "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI" }, 
+    { "id": "uqgxkL4KfKE", "title": "Avoid Cloud Lock-in with Kubernetes, Findings from the 2023 VMware State of Kubernetes Survey 📊" }, 
+    { "id": "UGsfmKUCJzQ", "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI" }, 
+    { "id": "uaSfQKT7LIM", "title": "🛠️ Kubernetes Tools Worth Paying For, from the 2023 VMware State of Kubernetes Survey  📊" }, 
+    { "id": "gsyGOv_Nwb0", "title": "⚡️ Enlightning - Carvel: Clean Tools for Cloud Native Problems" }, 
+    { "id": "zzK6E2TS2Kc", "title": "KubeAcademy Office Hours Core Concepts Part 1 Platform v2" }, 
+    { "id": "6WfxWfIwoAU", "title": "Code - Spring for GraphQL" }, 
+    { "id": "kiCRfdRBiuw", "title": "Tanzu.TV/Code - Testing the Web Layer with Spring with Jakub Pilimon" }, 
+    { "id": "R9mNUfvp8Dg", "title": "Tanzu Tuesdays - Top tips for running Spring Boot applications on Kubernetes with Ollie Hughes" }, 
+    { "id": "aHRmveIdsV0", "title": "Tanzu.TV/code - Kubernetes and Spring: a Rom-Com for the Ages with Josh Long" }, 
+    { "id": "9v927WQ7NWM", "title": "Automated Refactoring for Spring-Based Applications with Jonathan Schneider" }, 
+    { "id": "YlJrl0nDPaQ", "title": "The Golden Path to SpringOne: How Netflix Really Uses Java Today with Paul Bakker" }, 
+    { "id": "eGFdEXw9eLE", "title": "⚡️ Enlightning - Software Defined Cloud Dev Environments with the Devfile" }, 
+    { "id": "a0zUCc2gKL8", "title": "Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for K8s-Based Microservices" } 
   ]
 }

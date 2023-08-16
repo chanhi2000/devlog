@@ -110,4 +110,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 - [LLMs Unleashed: The Power of Fine-Tuning](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning)
 
 ---
+
+## Finbarr Timbers
+
+- [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress)
+
+---
+
+
 <TagLinks />

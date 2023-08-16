@@ -6,24 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/P-awJyTRhvagO7ehYEoFFazDGsmxeiw1DoVkgDKVP5itd3PMv85aDpjaTA86y86rrDTZNiHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "b6VhN_HHDiQ",
-      "title": "Build a Multi-Tenanted, Role-Based Access Control System"
-    }, {
-      "id": "_LF-IvJsr5Y",
-      "title": "Build &amp; Deploy a Full Stack App to the Edge with Next.js, Neon &amp; Vercel"
-    }, {
-      "id": "b6VhN_HHDiQ", 
-      "title": "Build a Multi-Tenanted, Role-Based Access Control System"
-    }, {
-      "id": "6-1N8wIZ1ic", 
-      "title": "Event-driven Microservices with Node.js, Kafka &amp; Conduktor"
-    }, {
-      "id": "w84-FPJa4_g", 
-      "title": "Solving ThePrimeagen's Favorite Interview Question"
-    }, {
-      "id": "wx3ultvbzUY", 
-      "title": "Learn Just Enough Git to be Productive"
-    }
+    { "id": "b6VhN_HHDiQ", "title": "Build a Multi-Tenanted, Role-Based Access Control System" }, 
+    { "id": "_LF-IvJsr5Y", "title": "Build & Deploy a Full Stack App to the Edge with Next.js, Neon & Vercel" }, 
+    { "id": "b6VhN_HHDiQ",  "title": "Build a Multi-Tenanted, Role-Based Access Control System" }, 
+    { "id": "6-1N8wIZ1ic",  "title": "Event-driven Microservices with Node.js, Kafka & Conduktor" }, 
+    { "id": "w84-FPJa4_g",  "title": "Solving ThePrimeagen's Favorite Interview Question" }, 
+    { "id": "wx3ultvbzUY",  "title": "Learn Just Enough Git to be Productive" } 
   ]
 }

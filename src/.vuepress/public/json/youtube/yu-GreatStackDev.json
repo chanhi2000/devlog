@@ -6,51 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/0QSVtVUVjRPWKNSYRY3i7vwd0pe5HhKv8VQjrLOCFBSXglbsMbgx86Nz6k9NnfJrXYM9jQAVcQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "_pw8vk1tAhs",
-      "title": "How To Build Age Calculator App Using HTML CSS And JavaScript"
-    }, {
-      "id": "5tC46h022YE",
-      "title": "How To Create Digital Clock Using HTML CSS &amp; JavaScript | Display Time Using JavaScript"
-    }, {
-      "id": "E4znbZgUWzA",
-      "title": "How To Create Image Search Engine Using HTML CSS and JavaScript"
-    }, {
-      "id": "_pw8vk1tAhs",
-      "title": "How To Build Age Calculator App Using HTML CSS And JavaScript"
-    }, {
-      "id": "n3U4jFbp05M",
-      "title": "How To Build Notes App Using HTML CSS and JavaScript"
-    }, {
-      "id": "cO-qjCC_UYQ",
-      "title": "How To Create A Stopwatch Using JavaScript | Make Stopwatch With HTML, CSS And JavaScript"
-    }, {
-      "id": "UPuQDE1ek2A",
-      "title": "Skeleton Loading Animation For Website Using HTML And CSS | Loading Animation CSS"
-    }, {
-      "id": "0YFrGy_mzjY",
-      "title": "How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design"
-    }, {
-      "id": "_gAj6i6w6xE",
-      "title": "How To Upload Website From Localhost To Online Server"
-    }, {
-      "id": "zmun7JzWGPE",
-      "title": "How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial"
-    }, {
-      "id": "eZu6ynbfJPw",
-      "title": "How To Build A CV Website"
-    }, {
-      "id": "DE5Gqk0AVdA",
-      "title": "How To Make Website Using HTML And CSS | Website Design With CSS Animation Step By Step"
-    }, {
-      "id": "v0IgI8vYD_o",
-      "title": "How To Make A Website Using HTML CSS Bootstrap | Complete Website Design Tutorial"
-    }, {
-      "id": "9fFpyHbmDBY",
-      "title": "How To Make Slider In HTML And CSS Website | Animated Image Slider Design Using HTML CSS"
-    }, {
-      "id": "G0jO8kUrg-I",
-      "title": "How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript"
-    }
+    { "id": "_pw8vk1tAhs", "title": "How To Build Age Calculator App Using HTML CSS And JavaScript" }, 
+    { "id": "5tC46h022YE", "title": "How To Create Digital Clock Using HTML CSS & JavaScript | Display Time Using JavaScript" }, 
+    { "id": "E4znbZgUWzA", "title": "How To Create Image Search Engine Using HTML CSS and JavaScript" }, 
+    { "id": "_pw8vk1tAhs", "title": "How To Build Age Calculator App Using HTML CSS And JavaScript" }, 
+    { "id": "n3U4jFbp05M", "title": "How To Build Notes App Using HTML CSS and JavaScript" }, 
+    { "id": "cO-qjCC_UYQ", "title": "How To Create A Stopwatch Using JavaScript | Make Stopwatch With HTML, CSS And JavaScript" }, 
+    { "id": "UPuQDE1ek2A", "title": "Skeleton Loading Animation For Website Using HTML And CSS | Loading Animation CSS" }, 
+    { "id": "0YFrGy_mzjY", "title": "How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design" }, 
+    { "id": "_gAj6i6w6xE", "title": "How To Upload Website From Localhost To Online Server" }, 
+    { "id": "zmun7JzWGPE", "title": "How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial" }, 
+    { "id": "eZu6ynbfJPw", "title": "How To Build A CV Website" }, 
+    { "id": "DE5Gqk0AVdA", "title": "How To Make Website Using HTML And CSS | Website Design With CSS Animation Step By Step" }, 
+    { "id": "v0IgI8vYD_o", "title": "How To Make A Website Using HTML CSS Bootstrap | Complete Website Design Tutorial" }, 
+    { "id": "9fFpyHbmDBY", "title": "How To Make Slider In HTML And CSS Website | Animated Image Slider Design Using HTML CSS" }, 
+    { "id": "G0jO8kUrg-I", "title": "How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript" } 
   ]
 }

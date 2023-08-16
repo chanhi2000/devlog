@@ -1379,5 +1379,15 @@
     "desc": "Cloud Security Posture Management (CSPM)",
     "topics": ["aws", "security", "security-audit", "cloud", "azure", "gcp", "oracle", "oci", "alibaba", "aqua", "cspm"],
     "officialSite": "https://cloud.aquasec.com/signup"
+  }, {
+    "repo": "varunshenoy/opendream",
+    "desc": "An extensible, easy-to-use, and portable diffusion web UI 👨‍🎨",
+    "topics": ["ai", "image-generation", "diffusion", "stable-diffusion", "automatic-1111"],
+    "officialSite": ""
+  }, {
+    "repo": "go-shiori/shiori",
+    "desc": "Simple bookmark manager built with Go",
+    "topics": ["go", "golang", "command-line", "web-interface", "hacktoberfest", "bookmark-manager"],
+    "officialSite": ""
   }
 ]

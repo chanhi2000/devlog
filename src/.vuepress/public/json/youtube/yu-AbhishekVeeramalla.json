@@ -1,16 +1,12 @@
 {
   "channel": {
-    "id": "Abhishek.Veeramalla",
-    "name": "AbhishekVeeramalla",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMlMZnHGAdzJ2rEmIu-nbELBEbeX1duxAOm9GG8=s176-c-k-c0x00ffffff-no-rj"
+    "id": "AbhishekVeeramalla",
+    "name": "Abhishek.Veeramalla",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMlMZnHGAdzJ2rEmIu-nbELBEbeX1duxAOm9GG8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/u4BZ-SnqknVcDDntAqx45_sxuukv3ED-NhzxCz-x71nzhrwcRACE7mH6zk1q9Ak39lqXY1xKqKo=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "EeiYpnBHnhY",
-      "title": "DAY-42 | KUBERNETES MONITORING USING PROMETHEUS &amp; GRAFANA |LIVE DEMO |STEPS IN GITHUB | #kubernetes"
-    }, {
-      "id": "JGQI5pkK82w",
-      "title": "IMPLEMENTING THE ULTIMATE CI/CD PIPELINE  | LIVE DEMO| JENKINS END TO END PROJECT| BEST CICD PROJECT"
-    }
+    { "id": "EeiYpnBHnhY", "title": "DAY-42 | KUBERNETES MONITORING USING PROMETHEUS & GRAFANA |LIVE DEMO |STEPS IN GITHUB | #kubernetes" }, 
+    { "id": "JGQI5pkK82w", "title": "IMPLEMENTING THE ULTIMATE CI/CD PIPELINE  | LIVE DEMO| JENKINS END TO END PROJECT| BEST CICD PROJECT" }
   ]
 }

@@ -54,5 +54,10 @@
     "desc": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games",
     "topics": ["basic", "classic-game", "basic-computer-games"],
     "officialSite": ""
+  }, {
+    "repo": "onhexgroup/Conferences",
+    "desc": "Conference slides",
+    "topics": [],
+    "officialSite": ""
   }
 ]

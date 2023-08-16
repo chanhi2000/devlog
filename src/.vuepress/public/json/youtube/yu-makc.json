@@ -6,15 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/jXu5cIJk-oeKYoLBWOFI9yD-WsKz2bwQVDVZ-4BgGemhIjmIsIDn-DpMY3mFl_ChDupGQtuI0QA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "q9tsjTeeEHA",
-      "title": "Make Vim as Sexy as Audrey Hepburn (Almost)"
-    }, {
-      "id": "NVOLRXFhczU",
-      "title": "Downloading Torrents on the Command Line (with Transmission-Cli)"
-    }, {
-      "id": "Kx-SDJwL01o",
-      "title": "Switching to Neovim &amp; Rebuilding my Configuration"
-    }
+    { "id": "q9tsjTeeEHA", "title": "Make Vim as Sexy as Audrey Hepburn (Almost)" }, 
+    { "id": "NVOLRXFhczU", "title": "Downloading Torrents on the Command Line (with Transmission-Cli)" }, 
+    { "id": "Kx-SDJwL01o", "title": "Switching to Neovim & Rebuilding my Configuration" } 
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "kubucation",
+    "name": "kubucation",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPEKE-sVF6g_Yk-rQYqbUXgEDyCTQiogc0BD7qC=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Pb8kbaVNF7x4CqUghwhmZQnBDkpY7R-7Cohf4C_pur5pgf2nA2i_TSR-4M4XtGwxt79R6Y9n=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "T4Df5_cojAs", "title": "How does HTTPS work? What's a CA? What's a self-signed Certificate?" }
+  ]
+}
+

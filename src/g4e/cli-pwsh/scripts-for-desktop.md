@@ -40,7 +40,7 @@ PS> ./close-calculator.ps1 [<CommonParameters>]
 @tab Example
 
 ```powershell
-PS> ./close-calculator
+PS> ./close-calculator.ps1
 ```
 
 @tab Script Content
@@ -94,7 +94,7 @@ PS> ./close-cortana.ps1 [<CommonParameters>]
 @tab Example
 
 ```powershell
-PS> ./close-cortana
+PS> ./close-cortana.ps1
 ```
 
 @tab Script Content
@@ -229,7 +229,8 @@ PS> ./close-program.ps1 [[-FullProgramName] <String>] [[-ProgramName] <String>] 
 @tab Example
 
 ```powershell
-PS> ./close-program "Google Chrome" "chrome.exe"
+PS> ./close-program.ps1 "Google Chrome" "chrome.exe"
+# 
 ```
 
 @tab Script Content
@@ -326,7 +327,8 @@ PS> ./close-edge.ps1 [<CommonParameters>]
 @tab Example
 
 ```powershell
-PS> ./close-edge
+PS> ./close-edge.ps1
+#
 ```
 
 
@@ -384,7 +386,8 @@ PS> ./close-file-explorer.ps1 [<CommonParameters>]
 @tab Example
 
 ```powershell
-PS> ./close-file-explorer
+PS> ./close-file-explorer.ps1
+#
 ```
 
 
@@ -405,6 +408,175 @@ PS> ./close-file-explorer
 #>
 
 (New-Object -ComObject Shell.Application).Windows() | %{$_.quit()}
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-firefox.ps1`
+
+```card
+title: close-firefox.ps1
+desc: Closes the Firefox browser.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-firefox.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Mozilla Firefox Web browser gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-firefox.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-firefox.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Firefox browser 
+.DESCRIPTION
+	This PowerShell script closes the Mozilla Firefox Web browser gracefully.
+.EXAMPLE
+	PS> ./close-firefox
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "Mozilla Firefox" "firefox" "firefox"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-microsoft-store.ps1`
+
+```card
+title: close-microsoft-store.ps1
+desc: Closes the Microsoft Store app.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-microsoft-store.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Microsoft Store application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-microsoft-store.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-microsoft-store.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Microsoft Store app
+.DESCRIPTION
+	This PowerShell script closes the Microsoft Store application gracefully.
+.EXAMPLE
+	PS> ./close-microsoft-store.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+TaskKill /im WinStore.App.exe /f /t
+if ($lastExitCode -ne "0") {
+	& "$PSScriptRoot/speak-english.ps1" "Sorry, Microsoft Store isn't running."
+	exit 1
+}
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-netflix.ps1`
+
+```card
+title: close-netflix.ps1
+desc: Closes the Netflix app.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Netflix application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-netflix.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-netflix.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Netflix app
+.DESCRIPTION
+	This PowerShell script closes the Netflix application gracefully.
+.EXAMPLE
+	PS> ./close-netflix.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "Netflix" "ApplicationFrameHost" "RuntimeBroker"
 exit 0 # success
 ```
 

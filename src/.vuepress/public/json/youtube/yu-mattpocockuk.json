@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "mattpocockuk",
+    "name": "Matt Pocock",
+    "profile": "https://yt3.googleusercontent.com/RbinzR4AEg_qhUggLwZxYTgAM5o_AcdELqz8eYTb0qLQkWEkWAhlBXRmfg-aTF7hqp3U9izu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/An4uUTBwPeyV3s8sZsHpCxL_TQnq5srpBG4VZ8JK_-_Y_WZZeGdaTFt_lpr7bjjk6Qesymxw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nHzyoGKo0g4", "title": "LIVE: Build a Content Platform with Next.js App Directory, TypeScript, Tailwind and shadcn/ui" },
+    { "id": "S6rcrkbsDI0", "title": "Learn tRPC in 5 minutes" }
+  ]
+}

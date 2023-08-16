@@ -6,12 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/m1LBWlPT3YBjHzMVbbeWJJQp1t_8vX8kZg5JjLr7rYXLGn2td4hBTajE4DB_BqVUAeLw_pG61g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "DcO9psUh4LI",
-      "title": "Kotlin Multiplatform Threading &amp; KMP in Production (#TouchlabShare with Careem's Ahmed El-Helw)"
-    }, {
-      "id": "_oujlTE0LiY",
-      "title": "SQLite/SQLDelight ❤ Kotlin Multiplatform"
-    }
+    { "id": "DcO9psUh4LI", "title": "Kotlin Multiplatform Threading & KMP in Production (#TouchlabShare with Careem's Ahmed El-Helw)" }, 
+    { "id": "_oujlTE0LiY", "title": "SQLite/SQLDelight ❤ Kotlin Multiplatform" } 
   ]
 }

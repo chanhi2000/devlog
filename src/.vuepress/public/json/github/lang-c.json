@@ -384,5 +384,10 @@
     "desc": "Qalculate! library and CLI",
     "topics": [],
     "officialSite": "https://qalculate.github.io"
+  }, {
+    "repo": "phoboslab/wipeout-rewrite",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

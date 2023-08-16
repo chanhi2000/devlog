@@ -6,15 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/zh0pne-fXREZC_pEy4SX30Zu52NrBMK3kQkQeJfiQ8O7Mu87tX6PladauFzSHVWOAblid8i7Ddc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "c9Wg6Cb_YlU",
-      "title": "UI / UX Design Tutorial – Wireframe, Mockup &amp; Design in Figma"
-    }, {
-      "id": "-VwHApYJx5E",
-      "title": "Webdevmatics Laravel Code Generator"
-    }, {
-      "id": "4YcvY79Psrw",
-      "title": "Vscode Extensions for Laravel and Vuejs development"
-    }
+    { "id": "c9Wg6Cb_YlU", "title": "UI / UX Design Tutorial – Wireframe, Mockup &  Design in Figma" }, 
+    { "id": "-VwHApYJx5E", "title": "Webdevmatics Laravel Code Generator" }, 
+    { "id": "4YcvY79Psrw", "title": "Vscode Extensions for Laravel and Vuejs development" } 
   ]
 }

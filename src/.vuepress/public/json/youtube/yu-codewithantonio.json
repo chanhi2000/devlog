@@ -6,9 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/g7yzlWQ0s0eqcnU4f7u3tJ-78lgdabvm3q_XYnU5ij6KGewlMUyKT5SvPNTrG1djtP0_HV9_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "5miHyP6lExg", "title": "Full Stack E-Commerce + Dashboard &amp; CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023" },
+    { "id": "5miHyP6lExg", "title": "Full Stack E-Commerce + Dashboard CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023" },
     { "id": "PGPGcKBpAk8", "title": "Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)" }, 
-    { "id": "ytkG7RT6SvU", "title": "Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth &amp; Vercel (2023)"  }, 
+    { "id": "ytkG7RT6SvU", "title": "Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)"  }, 
     { "id": "c_-b_isI4vg", "title": "Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023"  }
   ]
 }
