@@ -654,5 +654,10 @@
     "desc": "Official Go implementation of the Ethereum protocol",
     "topics": ["go", "ethereum", "blockchain", "p2p", "geth"],
     "officialSite": "https://geth.ethereum.org"
+  }, {
+    "repo": "getzep/zep",
+    "desc": "Zep: A long-term memory store for LLM / Chatbot applications",
+    "topics": ["ai", "language-model", "llm", "vectorsearch", "langchain", "llamaindex"],
+    "officialSite": "https://docs.getzep.com"
   }
 ]

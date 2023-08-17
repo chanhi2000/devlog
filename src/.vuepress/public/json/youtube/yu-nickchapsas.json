@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A2pKhNQoQUU", "title": "Creating Dashboards with .NET 8’s New Metrics!" },
+    { "id": "TCiL3y2P4rA", "title": "The Exception Mistake You Must Never Make in C#" },
+    { "id": "mO0fwvnnzbU", "title": "The NEW Way of Validating Settings in .NET 8" },
     { "id": "a-dQYcA2qN4", "title": "Writing C# in VS Code Is Finally Awesome!" }, 
     { "id": "PvQGVmozCdU", "title": "The Biggest Lie About the .NET Logger | .NET Tips 7" }, 
     { "id": "wqDYj0be_og", "title": "The Right Way to Check for Null in C#" }, 

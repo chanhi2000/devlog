@@ -597,11 +597,11 @@ meta:
 
 ---
 
-## springcamp.io
+## SpringCamp by KSUG
 
 <MyYouTubeItems jsonName="yu-springcampkr" />
 
-<!-- springcamp.io -->
+<!-- SpringCamp by KSUG -->
 
 ---
 

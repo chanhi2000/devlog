@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Csharp-video-tutorialsBlogspot",
+    "name": "kudvenkat",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQ5VJx0S6heN6QSbKU9P3zJ0AMYpAwEWR9ROj_x=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cLeRiq17ue28QJpfoNL9fIh2fdfI_85Va-fPHCpiGp_g5HumZSMj_nFy8PIj3K7QLhHNl-cVIOM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DrQ1qkmOfJo", "title": "MAUI - Syncfusion : DataForm Editor - Part 3" }, 
+    { "id": "1RCf8m--IjA", "title": "MAUI - Syncfusion : List View - Part 2" }    
+  ]
+}
+

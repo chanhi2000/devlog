@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "bbanghyong",
+    "name": "빵형의 개발도상국",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTI_T3iYjkfuZ5sS0lMe_bozchQiVnN0RMoDbaS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sczdSW4Wg_ScCe9ONXHpl68kFd-lvzVvaR4rrUQHPTPlKFyfBOFP2urRE8qjjUcBKJj_alvw7EI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ftXLn9DE7YY", "title": "여러 문서에서 검색/질문/답변하는 QA 챗봇 만들기 [매우쉬움주의] - LangChain, ChatGPT, Chroma DB" },
+    { "id": "8u2PngR2xpM", "title": "AI 웹앱 만들기 완벽 튜토리얼 - 코드 40줄로 인터넷에 공개하는 방법까지 자세하게!" },
+    { "id": "LGNVFnxDm0Y", "title": "ChatGPT Prompt Engineering" }        
+  ]
+}

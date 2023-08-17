@@ -87,6 +87,12 @@ tags: ["macos", "settings"]
 
 ---
 
+## FABIEN SANGLARD
+
+- [ODE TO THE M1](https://fabiensanglard.net/m1/index.html)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

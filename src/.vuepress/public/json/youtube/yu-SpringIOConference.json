@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/15DBdfbiqj13jw7f4yX1969EIS_ktruqqDH7gEBJVzOJLuOUbDN-ypVNi0XkGtHmmr8NmQa6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ROcTpGn5jCg", "title": "Scale your @Controller to zero with AWS Lambda or Azure Function by Oleg Zhurakousky @ Spring I/O" },
     { "id": "8umoZWj6UcU", "title": "Going Native:  Fast and Lightweight Spring Boot Applications with GraalVM by Alina Yurenko" }, 
     { "id": "mbNzUkNjrnA", "title": "Anatomy of a Spring Boot App with Clean Architecture by Steve Pember @ Spring I/O 2023" }, 
     { "id": "6R6S91i_m50", "title": "All your APIs are mine - Secure them now by Andreas Falk @ Spring I/O 2023" }, 

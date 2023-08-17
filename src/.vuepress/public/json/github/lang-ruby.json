@@ -39,5 +39,10 @@
     "desc": "Circuit breaker built with large Ruby apps in mind.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "ubicloud/ubicloud",
+    "desc": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha.",
+    "topics": ["ruby", "cloud", "portable", "open", "hosting", "bare-metal", "managed-cloud"],
+    "officialSite": "https://ubicloud.com"
   }
 ]

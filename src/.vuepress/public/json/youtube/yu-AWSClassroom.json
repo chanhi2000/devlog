@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "5HYEUI7dD0U", "title": "내 MySQL/PostgrSQL DB 변경을  스트림으로 받아 처리하는 방법!  Aurora DB Activity Stream" },
+    { "id": "cDzPU5whTCI", "title": "Lambda로 요청 응답을 실시간 스트리밍 하는법? Lambda Response Streaming" },    
     { "id": "LazOCTfdSeQ", "title": "쉽게 설명하는 AWS 기초 강좌 20: Amazon S3 기초" },
     { "id": "xNr0OGFWLEQ", "title": "세계에서 제일 평균연봉 높은 IT자격증 알려드립니다(feat. 지금 바로 따야하는 이유)" },
     { "id": "_o0GYyKnaI0", "title": "AWS Code* Service 1강: Amazon EC2에 적용하는 CI/CD 파이프라인 Overview" },

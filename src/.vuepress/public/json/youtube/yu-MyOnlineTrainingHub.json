@@ -3,57 +3,24 @@
     "id": "MyOnlineTrainingHub",
     "name": "MyOnlineTrainingHub",
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPShpNp8kRem_QR2hB4WbJHpHkPM-I1gL8SceOgnQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/VaCnMgbzb5oH4gebvarUx9g2tgwRqy1t3bbFc-_HZ6gsG_HQgqLH6VAvyB47nk7CIKT4126QvOc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/0lEubx5EP-b8bSoM4sSdEwkmRwQOjgC5yw9S_ltfeigaFFeO4wFUMrGBABByT_zzzikArDgy=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Nbhd0B5ldJE",
-      "title": "You're Combining Files from a Folder with Power Query ALL WRONG!"
-    }, {
-      "id": "lRqCd2eL2gA",
-      "title": "NEW Formula by Example 10x Better than Flash Fill"
-    }, {
-      "id": "E-biTPeOTMg",
-      "title": "Excel Formatting Habits That Drive Me CRAZY!"
-    }, {
-      "id": "nWk8ePd9XJU",
-      "title": "Excel + ChatGPT - Center Across Selection Shortcut Macro!"
-    }, {
-      "id": "lRqCd2eL2gA",
-      "title": "NEW Formula by Example 10x Better than Flash Fill"
-    }, {
-      "id": "NSNdP2ZqNhc",
-      "title": "Excel Text Functions Cheat Sheet – Like You’ve NEVER Seen Before! #shorts"
-    }, {
-      "id": "Nbhd0B5ldJE",
-      "title": "You're Combining Files from a Folder with Power Query ALL WRONG!"
-    }, {
-      "id": "wmCTp45o8Vw",
-      "title": "Fix Slow Excel Files with ONE Click! #shorts"
-    }, {
-      "id": "e4no3HpW1NY",
-      "title": "How to Improve Excel Performance - Common Culprits & Solutions"
-    }, {
-      "id": "VU4ncBR0PYw",
-      "title": "Excel Project Management Dashboard with Dynamic Periods"
-    }, {
-      "id": "21bXQDXSxYs",
-      "title": "Top Excel Functions for Data Analysts & What NOT to Waste Time Learning"
-    }, {
-      "id": "ehyB4LuezeA",
-      "title": "Hidden Excel Fill Series Tricks to Impress Your Co-workers"
-    }, {
-      "id": "5qtSioTE2wY",
-      "title": "Interactive Excel Project Management Dashboard - FREE Download"
-    }, {
-      "id": "K74_FNnlIF8",
-      "title": "How to build Interactive Excel Dashboards that Update with ONE CLICK!"
-    }, {
-      "id": "nGDLHEpjuSc",
-      "title": "Excel Productivity Hacks: Master Multi-Tasking with Game-Changing Tips for Managing Multiple Files"
-    }, {
-      "id": "2ms9ZUJbmpg",
-      "title": "Top Excel Functions for Data Analysts & What NOT to Waste Time Learning"
-    }
+    { "id": "Nbhd0B5ldJE", "title": "You're Combining Files from a Folder with Power Query ALL WRONG!" }, 
+    { "id": "lRqCd2eL2gA", "title": "NEW Formula by Example 10x Better than Flash Fill" }, 
+    { "id": "E-biTPeOTMg", "title": "Excel Formatting Habits That Drive Me CRAZY!" }, 
+    { "id": "nWk8ePd9XJU", "title": "Excel + ChatGPT - Center Across Selection Shortcut Macro!" }, 
+    { "id": "lRqCd2eL2gA", "title": "NEW Formula by Example 10x Better than Flash Fill" }, 
+    { "id": "NSNdP2ZqNhc", "title": "Excel Text Functions Cheat Sheet – Like You’ve NEVER Seen Before! #shorts" }, 
+    { "id": "Nbhd0B5ldJE", "title": "You're Combining Files from a Folder with Power Query ALL WRONG!" }, 
+    { "id": "wmCTp45o8Vw", "title": "Fix Slow Excel Files with ONE Click! #shorts" }, 
+    { "id": "e4no3HpW1NY", "title": "How to Improve Excel Performance - Common Culprits & Solutions" }, 
+    { "id": "VU4ncBR0PYw", "title": "Excel Project Management Dashboard with Dynamic Periods" }, 
+    { "id": "21bXQDXSxYs", "title": "Top Excel Functions for Data Analysts & What NOT to Waste Time Learning" }, 
+    { "id": "ehyB4LuezeA", "title": "Hidden Excel Fill Series Tricks to Impress Your Co-workers" }, 
+    { "id": "5qtSioTE2wY", "title": "Interactive Excel Project Management Dashboard - FREE Download" }, 
+    { "id": "K74_FNnlIF8", "title": "How to build Interactive Excel Dashboards that Update with ONE CLICK!" }, 
+    { "id": "nGDLHEpjuSc", "title": "Excel Productivity Hacks: Master Multi-Tasking with Game-Changing Tips for Managing Multiple Files" }, 
+    { "id": "2ms9ZUJbmpg", "title": "Top Excel Functions for Data Analysts & What NOT to Waste Time Learning" } 
   ]
 }

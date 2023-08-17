@@ -6,81 +6,27 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "J-04JlTAEY0",
-      "title": "How I added a feedback feature to my icon generator app"
-    }, {
-      "id": "LA9og-Suh10",
-      "title": "I'm finally using Python in production (as a typescript developer)"
-    }, {
-      "id": "9xqlkAPnoTY",
-      "title": "This is the best way to protect your APIs"
-    }, {
-      "id": "WXb_NxxcvxE",
-      "title": "Why you’ll need topics to decouple your software systems"
-    }, {
-      "id": "qvu7ZKj9grI",
-      "title": "Playing around with Next.js app directory and shadcnui"
-    }, {
-      "id": "H3jT0hu6kLQ",
-      "title": "So far I really like next.js app router and RSC"
-    }, {
-      "id": "3IU2UzpIzuc",
-      "title": "Start Mastering Tailwind through this Fun Frontend Mentor Challenge"
-    }, {
-      "id": "-ieY9ch89zw",
-      "title": "Coding a Feedback Modal using TailwindCSS"
-    }, {
-      "id": "Dl-BdxNRUqs",
-      "title": "What does larger scale software development look like?"
-    }, {
-      "id": "dLRA1lffWBw",
-      "title": "How to contribute to open source projects (our community project walkthrough)"
-    }, {
-      "id": "lr5bCCqw8Ds",
-      "title": "System Level AWS Interview Design Challenge: Reacting to TomDoesTech 🔥🏆"
-    }, {
-      "id": "9xqlkAPnoTY",
-      "title": "This is the best way to protect your APIs"
-    }, {
-      "id": "LA9og-Suh10",
-      "title": "I'm finally using Python in production (as a typescript developer)"
-    }, {
-      "id": "J-04JlTAEY0",
-      "title": "How I added a feedback feature to my icon generator app"
-    }, {
-      "id": "W6ASxlTCb9A",
-      "title": "Working on the Course Platform full stack app (t3 stack, mantine, prisma, typescript)"
-    }, {
-      "id": "i76sGb8t5eI",
-      "title": "Can the cheapest $4 VM host a next app?"
-    }, {
-      "id": "n7mV2GAEx8M",
-      "title": "This is why you need caching"
-    }, {
-      "id": "nYmPIVeGwFY",
-      "title": "Online Course Platform Series (T3 Stack, Mantine, Prisma, Next-Auth)  - Part 1"
-    }, {
-      "id": "Qks3eqlImy8",
-      "title": "Trying to learn Go by making an API"
-    }, {
-      "id": "emHCoNOwwJQ",
-      "title": "Trying to learn Go by making an API"
-    }, {
-      "id": "oIuzm2jugu8",
-      "title": "Build Internal Tools with Appsmith | Beautiful Low-Code UI Creation"
-    }, {
-      "id": "CzfJ1_XcmYg",
-      "title": "Trying to learn Go for the first time"
-    }, {
-      "id": "x-oAojo0zKM",
-      "title": "I'm starting a new full stack project series | next, tailwind, prisma - part 1"
-    }, {
-      "id": "emHCoNOwwJQ",
-      "title": "Trying to learn Go by making an API"
-    }, {
-      "id": "CzfJ1_XcmYg",
-      "title": "Trying to learn Go for the first time"
-    }
+    { "id": "lr5bCCqw8Ds", "title": "System Level AWS Interview Design Challenge: Reacting to TomDoesTech 🔥🏆" },
+    { "id": "WXb_NxxcvxE", "title": "Why you’ll need topics to decouple your software systems" }, 
+    { "id": "qvu7ZKj9grI", "title": "Playing around with Next.js app directory and shadcnui" }, 
+    { "id": "H3jT0hu6kLQ", "title": "So far I really like next.js app router and RSC" }, 
+    { "id": "3IU2UzpIzuc", "title": "Start Mastering Tailwind through this Fun Frontend Mentor Challenge" }, 
+    { "id": "-ieY9ch89zw", "title": "Coding a Feedback Modal using TailwindCSS" }, 
+    { "id": "Dl-BdxNRUqs", "title": "What does larger scale software development look like?" }, 
+    { "id": "dLRA1lffWBw", "title": "How to contribute to open source projects (our community project walkthrough)" }, 
+    { "id": "9xqlkAPnoTY", "title": "This is the best way to protect your APIs" }, 
+    { "id": "LA9og-Suh10", "title": "I'm finally using Python in production (as a typescript developer)" }, 
+    { "id": "J-04JlTAEY0", "title": "How I added a feedback feature to my icon generator app" }, 
+    { "id": "W6ASxlTCb9A", "title": "Working on the Course Platform full stack app (t3 stack, mantine, prisma, typescript)" }, 
+    { "id": "i76sGb8t5eI", "title": "Can the cheapest $4 VM host a next app?" }, 
+    { "id": "n7mV2GAEx8M", "title": "This is why you need caching" }, 
+    { "id": "nYmPIVeGwFY", "title": "Online Course Platform Series (T3 Stack, Mantine, Prisma, Next-Auth)  - Part 1" }, 
+    { "id": "Qks3eqlImy8", "title": "Trying to learn Go by making an API" }, 
+    { "id": "emHCoNOwwJQ", "title": "Trying to learn Go by making an API" }, 
+    { "id": "oIuzm2jugu8", "title": "Build Internal Tools with Appsmith | Beautiful Low-Code UI Creation" }, 
+    { "id": "CzfJ1_XcmYg", "title": "Trying to learn Go for the first time" }, 
+    { "id": "x-oAojo0zKM", "title": "I'm starting a new full stack project series | next, tailwind, prisma - part 1" }, 
+    { "id": "emHCoNOwwJQ", "title": "Trying to learn Go by making an API" }, 
+    { "id": "CzfJ1_XcmYg", "title": "Trying to learn Go for the first time" }
   ]
 }

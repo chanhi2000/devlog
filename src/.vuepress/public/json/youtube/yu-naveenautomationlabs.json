@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "P-6402gTHus", "title": "Code Less Automated Testing With Reflect - AI Assistance Testing Platform" },
     { "id": "V4ZHBN7THHM", "title": "Selenium will stop supporting Java 8 on September 30, 2023" }, 
     { "id": "6UxVC27n01M", "title": "API Automation with Python || GET | POST | PUT | DELETE" }, 
     { "id": "Vu80iuaCmkU", "title": "CUCUMBER IS NOT BDD & BDD IS NOT A FRAMEWORK" },     
@@ -44,3 +45,4 @@
     { "id": "WCXuToHC6aA", "title": "Part 6 - POST CALL with POJO Class || Playwright Java API Automation" } 
   ]
 }
+

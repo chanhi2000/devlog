@@ -71,8 +71,6 @@ PS> ./add-firewall-rules C:\MyApp\bin
 	Adding firewall rule for C:\MyApp\bin\app1.exe
 	Adding firewall rule for C:\MyApp\bin\app2.exe
 	...
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -162,8 +160,6 @@ Checks the CPU temperature
 .EXAMPLE
 	PS> ./check-cpu
 	✅ AMD Ryzen 5 5500U with Radeon Graphics (CPU0, 2100MHz, 31.3°C)
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -286,8 +282,6 @@ PS> ./check-dns
 .EXAMPLE
 	PS> ./check-dns
 	✅ DNS resolves 156.5 domains per second
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -388,8 +382,6 @@ PS> ./check-drive-space C
 .EXAMPLE
 	PS> ./check-drive-space C
 	✔️ 172 GB left on drive C (61 of 233 GB used)
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -474,8 +466,6 @@ PS> ./check-file-system C
 .EXAMPLE
 	PS> ./check-file-system C
 	✔️ file system on drive C is clean
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -550,8 +540,6 @@ PS> ./check-health.ps1
 	H A R D W A R E
 	✅ Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz (CPU0, 2701MHz, socket U3E1, 30.1°C)
 	...
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -620,8 +608,6 @@ PS> ./check-ping.ps1
 .EXAMPLE
 	PS> ./check-ping.ps1
 	✅ Ping latency is 29ms average (13ms...109ms, 0 loss)
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -714,8 +700,6 @@ PS> ./check-swap-space.ps1
 .EXAMPLE
 	PS> ./check-swap-space.ps1
 	✅ Swap space with 1GB at 42%, 748MB free
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -818,8 +802,6 @@ PS> ./check-windows-system-files.ps1
 .EXAMPLE
 	PS> ./check-windows-system-files.ps1
 	✔️ checked Windows system files
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -882,8 +864,6 @@ PS> ./enable-crash-dumps.ps1
 	This PowerShell script enables the writing of crash dumps.
 .EXAMPLE
 	PS> ./enable-crash-dumps.ps1
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1220,8 +1200,6 @@ PS> ./hibernate.ps1
 .EXAMPLE
 	PS> ./hibernate.ps1
 	It's 5:04 PM, going to sleep now... 😴💤
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1275,8 +1253,6 @@ PS> ./install-github-cli.ps1 [<CommonParameters>]
 .EXAMPLE
 	PS> ./install-github-cli.ps1
 	✔ GitHub CLI installed successfully in 9 sec
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1347,8 +1323,6 @@ PS> ./install-chrome-browser.ps1
 	This PowerShell script installs the latest Google Chrome Web browser.
 .EXAMPLE
 	PS> ./install-chrome-browser.ps1
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1493,8 +1467,6 @@ PS> ./install-ssh-client.ps1
 	This PowerShell script installs a SSH client (needs admin rights).
 .EXAMPLE
 	PS> ./install-ssh-client.ps1
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1564,8 +1536,6 @@ PS> ./install-ssh-server.ps1
 	This PowerShell script installs a SSH server (needs admin rights).
 .EXAMPLE
 	PS> ./install-ssh-server.ps1
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1663,8 +1633,6 @@ PS> ./install-signal-cli 0.11.12
 	Specifies the version to install
 .EXAMPLE
 	PS> ./install-signal-cli 0.11.12
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1747,8 +1715,6 @@ PS> ./install-updates.ps1
 	Use the script 'list-updates.ps1' to list available updates.
 .EXAMPLE
 	PS> ./install-updates.ps1
-.LINK
-	https://github.com/fleschutz/PowerShell
 .NOTES
 	Author: Markus Fleschutz | License: CC0
 #>
@@ -1786,5 +1752,639 @@ try {
 :::
 
 ---
+
+## <FontIcon icon="iconfont icon-file"/>`install-wsl.ps1`
+
+```card
+title: install-wsl.ps1
+desc: Installs Windows Subsystem for Linux (WSL), needs admin rights.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-wsl.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script installs Windows Subsystem for Linux. It needs admin rights.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./install-wsl.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./install-wsl.ps1
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Installs Windows Subsystem for Linux (needs admin rights)
+.DESCRIPTION
+	This PowerShell script installs Windows Subsystem for Linux. It needs admin rights.
+.EXAMPLE
+	PS> ./install-wsl.ps1
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if ($false) {
+
+		& wsl --install
+
+	} else {
+		"👉 Step 1/3: Enable WSL..."
+		& dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+		"👉 Step 2/3: Enable virtual machine platform..."
+		& dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+		"👉 Step 3/3: Enable WSL version 2..."
+		& wsl --set-default-version 2
+	}
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ installed Windows Subsystem for Linux (WSL) in $Elapsed sec"
+	"  NOTE: reboot now, then visit the Microsoft Store and install a Linux distribution (e.g. Ubuntu, openSUSE, SUSE Linux, Kali Linux, Debian, Fedora, Pengwin, or Alpine)"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-apps.ps1`
+
+```card
+title: list-apps.ps1
+desc: Lists the installed applications.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-installed-apps.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists the installed apps (from Windows Store or snaps).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+list-apps.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-apps
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists the installed apps
+.DESCRIPTION
+	This PowerShell script lists the installed applications (from Windows Store, or Snap Store).
+.EXAMPLE
+	PS> ./list-apps.ps1
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	if ($IsLinux) {
+		& snap list
+	} else {
+		Get-AppxPackage | Format-Table -property Name,Version,InstallLocation,Status -autoSize
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-cli-tools.ps1`
+
+```card
+title: list-cli-tools.ps1
+desc: Lists installed command-line interface (CLI) tools.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-cli-tools.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+Lists installed command-line interface (CLI) tools.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+list-cli-tools.ps1  [<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-dns-servers.ps1
+# Tool         Version         Path                                          FileSize
+# ----         -------         ----                                          --------
+# at           10.0.19041.1    C:\WINDOWS\system32\at.exe                    31232
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists command-line tools
+.DESCRIPTION
+	This PowerShell script lists installed command-line interface (CLI) tools (sorted alphabetically by name).
+.EXAMPLE
+	PS> ./list-cli-tools.ps1
+
+	Tool         Version         Path                                          FileSize
+	----         -------         ----                                          --------
+	at           10.0.19041.1    C:\WINDOWS\system32\at.exe                    31232
+	...
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+function ListTool { param([string]$Name, [string]$VersionArg)
+	try {
+		$Info = Get-Command $Name -ErrorAction Stop
+		$Path = $Info.Source
+		if ("$($Info.Version)" -eq "0.0.0.0") {
+			if ("$VersionArg" -ne "") {
+				$Result = Invoke-Expression "$Path $VersionArg"
+				if ("$Result" -match '\d+.\d+\.\d+') {
+					$Version = "$($Matches[0])"
+				} elseif ("$Result" -match '\d+\.\d+') {
+					$Version = "$($Matches[0])"
+				} else {
+					$Version = ""
+				}
+			} else {
+				$Version = ""
+			}
+		} else {
+			$Version = $Info.Version
+		}
+		if (Test-Path "$Path" -pathType leaf) {
+			$Size = (Get-Item "$Path").Length
+		} else {
+			$Size = 0
+		}
+		New-Object PSObject -Property @{ Tool=$Name; Version=$Version; Path=$Path; FileSize=$Size }
+	} catch {
+		return
+	}
+}
+
+function ListTools { 
+	ListTool 7z		"-version"
+	ListTool ant		"-v"
+	ListTool apt		"--version"
+	ListTool apt-get	"--version"
+	ListTool amixer		"--version"
+	ListTool aplay		"--version"
+	ListTool apropos	"--version"
+	ListTool ar		"--version"
+	ListTool arch		"--version"
+	ListTool arecord	"--version"
+	ListTool arp		""
+	ListTool at		""
+	ListTool attrib		""
+	ListTool awk		"--version"
+	ListTool b2sum		"--version"
+	ListTool base32		"--version"
+	ListTool base64		"--version"
+	ListTool basename	"--version"
+	ListTool basenc		"--version"
+	ListTool bash		"--version"
+	ListTool bc		"--version"
+	ListTool bcdedit	""
+	ListTool bunzip2	"--version"
+	ListTool bzcat		"--version"
+	ListTool bzip2		"--version"
+	ListTool bzip2recover	"--version"
+	ListTool captoinfo	"-V"
+	ListTool cat		"-version"
+	ListTool cc		"--version"
+	ListTool chattr		"--version"
+	ListTool chcon		"--version"
+	ListTool chcpu		"--version"
+	ListTool chdsk		""
+	ListTool chgrp		"--version"
+	ListTool chmod		"--version"
+	ListTool chkntfs	""
+	ListTool chmem		"--version"
+	ListTool chown		"--version"
+	ListTool chpasswd	"--version"
+	ListTool chroot		"--version"
+	ListTool choco		"--version"
+	ListTool cipher		""
+	ListTool cksum		"--version"
+	ListTool clang		"--version"
+	ListTool clear		"-V"
+	ListTool cmake		"--version"
+	ListTool cmd		""
+	ListTool cmp		"--version"
+	ListTool column		"--version"
+	ListTool comp		""
+	ListTool compact	""
+	ListTool cp		"--version"
+	ListTool cpack		"--version"
+	ListTool csplit		"--version"
+	ListTool ctest		"--version"
+	ListTool curl		"--version"
+	ListTool cut		"--version"
+	ListTool cygcheck	"--version"
+	ListTool cygpath	"--version"
+	ListTool d2u		"--version"
+	ListTool dash		"--version"
+	ListTool date		""
+	ListTool dd		"--version"
+	ListTool delgroup	"--version"
+	ListTool deluser	"--version"
+	ListTool df		"--version"
+	ListTool diff		"--version"
+	ListTool diff3		"--version"
+	ListTool dir		"--version"
+	ListTool dircolors	"--version"
+	ListTool dirname	"--version"
+	ListTool dism		""
+	ListTool dmidecode	"--version"
+	ListTool dos2unix	"--version"
+	ListTool dotnet         "--info"
+	ListTool driverquery	""
+	ListTool du		"--version"
+	ListTool echo		"--version"
+	ListTool egrep		"--version"
+	ListTool emacs		"--version"
+	ListTool env		"--version"
+	ListTool ex		"--version"
+	ListTool expand		"--version"
+	ListTool expr		"--version"
+	ListTool factor		"--version"
+	ListTool false		"--version"
+	ListTool fido2-assert	"--version"
+	ListTool fido2-cred	"--version"
+	ListTool fido2-token	"--version"
+	ListTool file		"--version"
+	ListTool find		"--version"
+	ListTool fish		"--version"
+	ListTool fgrep		"--version"
+	ListTool fmt		"--version"
+	ListTool fold		"--version"
+	ListTool ftp		"-?"
+	ListTool funzip		"--version"
+	ListTool gawk		"--version"
+	ListTool gencat		"--version"
+	ListTool getconf	"--version"
+	ListTool getopt		"--version"
+	ListTool gettext	"--version"
+	ListTool gcc		"--version"
+	ListTool gdb		"--version"
+	ListTool gh		"--version"
+	ListTool git		"--version"
+	ListTool gkill		"--version"
+	ListTool gmondump	"--version"
+	ListTool gpg		"--version"
+	ListTool gpg-agent	"--version"
+	ListTool gpgconf	"--version"
+	ListTool gpg-error	"--version"
+	ListTool gpgsplit	"--version"
+	ListTool gpgtar		"--version"
+	ListTool gradle		"--version"
+	ListTool grep		"--version"
+	ListTool groups		"--version"
+	ListTool gzip		"--version"
+	ListTool head		"--version"
+	ListTool hcsdiag	""
+	ListTool help		"--version"
+	ListTool hmac256	"--version"
+	ListTool hostid		"--version"
+	ListTool hostname	""
+	ListTool htop		"--version"
+	ListTool icacls		"--version"
+	ListTool iconv		"--version"
+	ListTool id		"--version"
+	ListTool ipfs		"--version"
+	ListTool java		"--version"
+	ListTool jcli		"version"
+	ListTool join		"--version"
+	ListTool jhead		"-V"
+	ListTool kill		"--version"
+	ListTool ldd		"--version"
+	ListTool less		"--version"
+	ListTool link		"--version"
+	ListTool ln		"--version"
+	ListTool locale		"--version"
+	ListTool locate		"--version"
+	ListTool logname	"--version"
+	ListTool ls		"--version"
+	ListTool lsattr		"-V"
+	ListTool lsb_release	""
+	ListTool lzma		"--version"
+	ListTool mac2unix	"--version"
+	ListTool make		"--version"
+	ListTool mbr2gpt	""
+	ListTool md5sum		"--version"
+	ListTool minidumper	"--version"
+	ListTool mkdir		"--version"
+	ListTool mkfifo		"--version"
+	ListTool mkgroup	"--version"
+	ListTool mknod		"--version"
+	ListTool mkpasswd	"--version"
+	ListTool mktemp		"--version"
+	ListTool mount		"--version"
+	ListTool MpCmdRun	"-h"
+	ListTool nano		"--version"
+	ListTool netsh		""
+	ListTool netstat	""
+	ListTool nice		"--version"
+	ListTool nohup		"--version"
+	ListTool nroff		"--version"
+	ListTool nslookup	""
+	ListTool openssl	""
+	ListTool pandoc		"--version"
+	ListTool passwd		"--status"
+	ListTool paste		"--version"
+	ListTool perl		"--version"
+	ListTool ping		"-V"
+	ListTool ping6		"-V"
+	ListTool pip		"--version"
+	ListTool pip3		"--version"
+	ListTool pip3.8		"--version"
+	ListTool powercfg	"/?"
+	ListTool powershell	"--version"
+	ListTool print		""
+	ListTool printf		"--version"
+	ListTool pro		"--version"
+	ListTool python		"--version"
+	ListTool python3	"--version"
+	ListTool python3.8	"--version"
+	ListTool rasdial	"--version"
+	ListTool regedit	"--version"
+	ListTool replace	"--version"
+	ListTool robocopy	"--version"
+	ListTool route		""
+	ListTool rsh		""
+	ListTool rsync		"--version"
+	ListTool rundll32	"--version"
+	ListTool scp		""
+	ListTool sftp		""
+	ListTool sh		"--version"
+	ListTool sha1sum	"--version"
+	ListTool sha256sum	"--version"
+	ListTool sha512sum	"--version"
+	ListTool ssh		"-V"
+	ListTool ssh-keygen	""
+	ListTool smartctl	"--version"
+	ListTool sort		"--version"
+	ListTool split		"--version"
+	ListTool strace		"--version"
+	ListTool strings	"--version"
+	ListTool strip		"--version"
+	ListTool sudo		"--version"
+	ListTool systeminfo	""
+	ListTool tail		"--version"
+	ListTool tar		"--version"
+	ListTool taskkill	""
+	ListTool tasklist	""
+	ListTool tcpdump	"--version"
+	ListTool tee		"--version"
+	ListTool terraform	"--version"
+	ListTool time		""
+	ListTool timeout	""
+	ListTool top		"--version"
+	ListTool tskill		""
+	ListTool typeperf	""
+	ListTool tzsync		"--version"
+	ListTool unbound	"-V"
+	ListTool uniq		"--version"
+	ListTool vi		"--version"
+	ListTool vim		"--version"
+	ListTool vulkaninfo	"--version"
+	ListTool w32tm		"/?"
+	ListTool waitfor	"--version"
+	ListTool wakeonlan	"-v"
+	ListTool wget		"--version"
+	ListTool where		"--version"
+	ListTool whatis		"--version"
+	ListTool which		""
+	ListTool winget		"--version"
+	ListTool winsat		""
+	ListTool whoami		"--version"
+	ListTool wput		"--version"
+	ListTool write		""
+	ListTool wsl		"--version"
+	ListTool xcopy		"--version"
+	ListTool yes		"--version"
+	ListTool zip		"--version"
+	ListTool zipcloak	"--version"
+	ListTool zipdetails	""
+	ListTool zipgrep	""
+	ListTool zipinfo	""
+	ListTool zipnote	""
+	ListTool zipsplit	""
+	ListTool zsh		"--version"
+}
+ 
+try {
+	ListTools | Format-Table -property @{e='Tool';width=12},@{e='Version';width=15},@{e='Path';width=70},@{e='FileSize';width=10}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-dns-servers.ps1`
+
+```card
+title: list-dns-servers.ps1
+desc: Lists public DNS servers.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-dns-servers.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+Lists public DNS servers.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+list-dns-servers.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-dns-servers.ps1
+# Provider                IPv4                             Latency
+# --------                ----                             -------
+# AdGuard DNS (Cyprus)    94.140.14.14 / 94.140.15.15      222 / 205 ms
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists DNS servers
+.DESCRIPTION
+	This PowerShell script measures the latency of public and free DNS servers and lists it.
+.EXAMPLE
+	PS> ./list-dns-servers.ps1
+      
+	Provider                IPv4                             Latency
+	--------                ----                             -------
+	AdGuard DNS (Cyprus)    94.140.14.14 / 94.140.15.15      222 / 205 ms
+	...
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+function CheckDNSServer { param($Provider, $IPv4Pri, $IPv4Sec)
+	Write-Progress "Measuring latency of $Provider..."
+	$SW=[system.diagnostics.stopwatch]::startNew();$null=(nslookup fleschutz.de $IPv4Pri 2>$null);[int]$Lat1=$SW.Elapsed.TotalMilliseconds
+
+	$SW=[system.diagnostics.stopwatch]::startNew();$null=(nslookup fleschutz.de $IPv4Sec 2>$null);[int]$Lat2=$SW.Elapsed.TotalMilliseconds
+
+	New-Object PSObject -Property @{ Provider=$Provider; IPv4="$IPv4Pri / $IPv4Sec"; Latency="$Lat1 / $Lat2 ms" }
+}
+
+function List-DNS-Servers {
+	Write-Progress "Loading Data/public-dns-servers.csv..."
+      $Table = Import-CSV "$PSScriptRoot/../Data/public-dns-servers.csv"
+	foreach($Row in $Table) {
+		CheckDNSServer $Row.PROVIDER $Row.IPv4_PRI $Row.IPv4_SEC	
+	}
+	Write-Progress -completed "."
+}
+ 
+try {
+	List-DNS-Servers | Format-Table -property @{e='Provider';width=50},@{e='IPv4';width=32},@{e='Latency';width=15}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-drives.ps1`
+
+```card
+title: list-drives.ps1
+desc: Lists all drives.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-drives.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists all local drives as a table.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-drives.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-drives.ps1
+# Name Root Used (GB) Free (GB)
+# ---- ---- --------- ---------
+# C    C:\     6648,1     744,2
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists all drives
+.DESCRIPTION
+	This PowerShell script lists all local drives as a table.
+.EXAMPLE
+	PS> ./list-drives.ps1
+
+	Name Root Used (GB) Free (GB)
+	---- ---- --------- ---------
+	C    C:\     6648,1     744,2
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-PSDrive -PSProvider FileSystem | format-table -property Name,Root,@{n="Used (GB)";e={[math]::Round($_.Used/1GB,1)}},@{n="Free (GB)";e={[math]::Round($_.Free/1GB,1)}}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
 
 <TagLinks/>

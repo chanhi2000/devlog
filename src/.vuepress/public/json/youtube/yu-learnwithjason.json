@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/JZav5tL14daax3jDES8yDJuU57aPKQYOlaIxHx0SpsL0rhfYOnDD5BUElK3UEGZnkgPkOtrv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KWHD2cvOscU", "title": "Make the Fetch API type-safe with feTS" },
+    { "id": "n5JkIl1e6k4", "title": "Build multiplayer SaaS apps with Liveblocks" },
+    { "id": "ZSycK5k2ARg", "title": "Add Full Text Search to Your Couchbase Data" },    
     { "id": "KjsV8GEjZlw", "title": "Improving the Database Experience of your Deploy Previews with Xata" },
     { "id": "MLbXjCddf3A", "title": "Redux in 2023: What you need to know" },    
     { "id": "qvAzFoaxvAE", "title": "Collaborative, real-time apps with Partykit" }, 

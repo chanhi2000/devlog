@@ -484,6 +484,14 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 <!-- Open Source Consulting - 오픈소스컨설팅 -->
 
---- 
+---
+
+## Startup KAIST
+
+<MyYouTubeItems jsonName="yu-startupkaist5779" />
+
+<!-- Startup KAIST -->
+
+---
 
 <TagLinks />

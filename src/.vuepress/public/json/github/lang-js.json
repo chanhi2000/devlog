@@ -1389,5 +1389,15 @@
     "desc": "Simple bookmark manager built with Go",
     "topics": ["go", "golang", "command-line", "web-interface", "hacktoberfest", "bookmark-manager"],
     "officialSite": ""
+  }, {
+    "repo": "dnakov/little-rat",
+    "desc": "🐀 Small chrome extension to monitor other extensions' network calls",
+    "topics": ["javascript", "chrome-extension", "security-audit", "browser", "chromium"],
+    "officialSite": ""
+  }, {
+    "repo": "icebob/validator-benchmark",
+    "desc": "JS validators benchmark",
+    "topics": ["javascript", "benchmark", "validation", "validator"],
+    "officialSite": ""
   }
 ]

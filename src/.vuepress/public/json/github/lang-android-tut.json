@@ -14,5 +14,15 @@
     "desc": "library_buildconfig",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "DroidKaigi/conference-app-2023",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "EranBoudjnah/CleanArchitectureForAndroid",
+    "desc": "Clean Architecture for Android - a sample project",
+    "topics": ["android", "mvvm", "kotlin-android", "clean-architecture", "android-testing", "multi-module-project", "jetpack-compose", "hilt-android"],
+    "officialSite": "https://amzn.to/3rBSxOb"
   }
 ]

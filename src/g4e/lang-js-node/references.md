@@ -423,6 +423,18 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Josh Collinsworth
+
+- [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
+
+---
+
+## JHyeok
+
+- [Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?](https://jhyeok.com/nodejs-validation-performance)
+
+---
+
 ## Clien
 
 - [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(1) 세팅편](https://www.clien.net/service/board/lecture/17960697)

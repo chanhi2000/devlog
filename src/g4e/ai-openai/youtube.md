@@ -210,4 +210,13 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+
+## 빵형의 개발도상국
+
+<MyYouTubeItems jsonName="yu-bbanghyong" />
+
+<!-- 빵형의 개발도상국 -->
+
+---
+
 <TagLinks />

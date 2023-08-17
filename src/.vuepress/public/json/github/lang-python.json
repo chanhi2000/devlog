@@ -975,7 +975,7 @@
     "officialSite": "https://deforum.github.io"
   }, {
     "repo": "nlpxucan/WizardLM",
-    "desc": "Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",
+    "desc": "Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath",
     "topics": [],
     "officialSite": ""
   }, {
@@ -2338,5 +2338,25 @@
     "desc": "Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答",
     "topics": ["chatbot", "llama", "gpt", "knowledge-base", "embedding", "text2vec", "faiss", "milvus", "streamlit", "llm", "chatgpt", "langchain", "pgvector", "chatglm", "chatglm-6b", "fastchat", "chatglm2-6b"],
     "officialSite": ""
+  }, {
+    "repo": "roboflow/supervision",
+    "desc": "We write your reusable computer vision tools. 💜",
+    "topics": ["python", "tracking", "machine-learning", "computer-vision", "deep-learning", "metrics", "tensorflow", "image-processing", "pytorch", "video-processing", "yolo", "classification", "coco", "object-detection", "pascal-voc", "instance-segmentation"],
+    "officialSite": "https://roboflow.github.io/supervision"
+  }, {
+    "repo": "normal-computing/outlines",
+    "desc": "Generative Model Programming",
+    "topics": [],
+    "officialSite": "https://normal-computing.github.io/outlines"
+  }, {
+    "repo": "Dicklesworthstone/llama_embeddings_fastapi_service",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "getretake/retake",
+    "desc": "Open-Source Hybrid Search for Postgres",
+    "topics": ["python", "elasticsearch", "postgres", "data", "kafka", "pipeline", "postgresql", "embeddings", "data-engineering", "data-integration", "vectors", "change-data-capture", "data-ingestion", "opensearch", "mlops", "vector-search", "vector-database", "neuralsearch", "embeddings-similarity", "llms"],
+    "officialSite": "https://getretake.com"
   }
 ]

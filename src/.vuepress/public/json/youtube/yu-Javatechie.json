@@ -6,7 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/MFHFeloW3xAxIUKf0_aDKFFXxWwI_arzKqk_2hXO4R2GmjRR0pc_CkhH6T5z3mmuJ2OiPgR2Z4E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "YnhbTlCCVLc", "title": "Spring Boot 3.1.x 🔐 | Security Code Changes | Functional Programming | JavaTechie" }, 
+    { "id": "YnhbTlCCVLc", "title": "Spring Boot 3.1.x 🔐 | Security Code Changes | Functional Programming | JavaTechie" },
+    { "id": "7EhCzp3MhlQ", "title": "Spring Boot Security With Azure Active Directory | OICD | Oauth2 | JavaTechie" },
+    { "id": "wlFnlNthAPQ", "title": "Spring Boot | Apache Kafka JSON Serialization & Deserialization Example | JavaTechie" },
+    { "id": "fzGZPf0FMao", "title": "Microservice | CQRS Design Pattern with SpringBoot  & Apache Kafka | JavaTechie" },    
     { "id": "HlDkuFy8xRM", "title": "Spring Boot + OpenAI ChatGPT API Integration | JavaTechie" }, 
     { "id": "7TaUhLQQPDs", "title": "🔐 PII Data Masking Using Spring Boot | JavaTechie" }, 
     { "id": "EiMi11slVnY", "title": "How to install Kafka using Docker & Docker Compose in any OS | Windows | MacOS | Linux | JavaTechie" }, 

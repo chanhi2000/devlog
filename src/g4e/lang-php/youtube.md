@@ -61,4 +61,13 @@ tags: ["education", "youtube", "programming", "php", "laravel"]
 
 ---
 
+## Andre Madarang
+
+<MyYouTubeItems jsonName="yu-drehimself" />
+
+<!-- Andre Madarang -->
+
+
+---
+
 <TagLinks />

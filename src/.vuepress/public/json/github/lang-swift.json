@@ -279,5 +279,10 @@
     "desc": "User-friendly GUI macOS application for Homebrew Casks",
     "topics": ["macos", "swift", "homebrew", "homebrew-cask", "macos-app", "swiftui"],
     "officialSite": "https://aerolite.dev/applite"
+  }, {
+    "repo": "simplex-chat/simplex-chat",
+    "desc": "SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!",
+    "topics": ["chat", "security", "haskell", "privacy", "encryption", "protocol", "messaging", "e2ee", "double-ratchet"],
+    "officialSite": "https://simplex.chat"
   }
 ]

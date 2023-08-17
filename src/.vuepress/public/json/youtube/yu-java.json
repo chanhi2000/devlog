@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/NXa3mghamiGzdoI90dcDlEs2pQlB1V1nfHG2ZQtrAcfdNxOFIrPq3j6mJBA_9oQa3v98oB2eG-A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iAPlqX34YmU", "title": "How can you join Strings with a separator? - Cracking the Java Coding Interview" },
+    { "id": "0Flq8aXF6B8", "title": "How is `Set.of()` working? - Cracking the Java Coding Interview" },    
     { "id": "HRS_4eIbdZ8", "title": "Javadoc Improvements" }, 
     { "id": "m-gTumAHhGI", "title": "Collections Utility Class - Sip of Java" }, 
     { "id": "8RVr6VTfRvw", "title": "Java 21 New Feature: Sequenced Collections - JEP Cafe #19" }, 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/X4brzU6oq2AQfFtVjZXoEQD4ZSibnyZS97846cL_OVte7l4MueLNNtl1fdSyDCXofgeRwrfNuA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Eg3QiCKqDnM", "title": "Amazon EKS Blueprints을 통한 손쉽게 Kubernetes 클러스터 운영하기 - 김필중, 개발 전문 솔루션즈 아키텍트, AWS" },
     { "id": "vCNexbgYmQ8", "title": "AWS를 사용한다면 반드시 알아야 할 네트워크 기초 지식" }, 
     { "id": "78EjMQYt0O0", "title": "크래프톤 - PUBG: Battlegrounds 라이브 서비스 EKS 전환 사례 공유" }, 
     { "id": "S3jHtOHdGm4", "title": "AWS re:Invent 2022 - 엔터프라이즈 클라우드 여정 모범 사례 - 한진 및 LG CNS (GEO101)" }, 

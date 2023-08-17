@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Webstoryboy",
+    "name": "Webstoryboy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQFMZa09_ixwCOtUSft8HPU5xAdVPM9r2TzvtPzhgQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cfwp8fGBFmn9VMB_oQQAMYzXH0D424LhuwesXLzB4gqTg5zhe5K3GbK_mF8GwUZgkQoVlwxgMiM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2ZiZlEvtWgM", "title": "01. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 셋팅하기 | 웹스토리보이 | 포트폴리오" },
+    { "id": "mjZISLURugw", "title": "08. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 연락처 영역 | 웹스토리보이 | 퍼블리셔" },
+    { "id": "ePvRxd2d4Ss", "title": "10. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 스킬 영역 | 웹스토리보이 | 비트" }        
+  ]
+}

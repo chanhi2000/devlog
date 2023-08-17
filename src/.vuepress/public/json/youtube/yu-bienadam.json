@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/nKUwaD9loKqAf9AS7EDp7ruFNYbnZz5by8XSEwWVaAwe1yFXcsoABt6HTQ42tk5oM6NGmWVCd5U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dM6umPcXhK4", "title": "How To Create Exceptions With Clean Messages / Without StackTrace #java #shorts" },
+    { "id": "ugBaEqb24Nw", "title": "How To Create A SHA-256 Hash For A String #java #shorts" },
+    { "id": "6sssIS-j1UE", "title": "A Convenient Way to Time Travel with TemporalAdjusters #java #shorts" },
+    { "id": "AR198tIXgwM", "title": "The Shortest Way To Read InputStream to a String #java #shorts" },
     { "id": "-hNFK7IKUcs", "title": "Can Collections.frequency Be Used with Java Record Classes / Java Objects? #java #shorts" }, 
     { "id": "gU7IIDtlO94", "title": "One To Many Transformation With mapMulti #java #shorts" }, 
     { "id": "hrx5I1QaHZA", "title": "An Identity Function Example #java #shorts" }, 

@@ -2,90 +2,39 @@
   "channel": {
     "id": "JetBrainsTV",
     "name": "JetBrains",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPIvZ8aj8rN0Z_o_qzj1aJr5QKckXwvXuk6UQPZtg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPIvZ8aj8rN0Z_o_qzj1aJr5QKckXwvXuk6UQPZtg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Dxs-3mannZFTz3_uYfaTZ0NZLJG1jnekpuzaLl7Ms5CoPjrirRyO9m3KPE561YdBHQqe4R0b1Fk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "MiXkDyxEDJI",
-      "title": "Compose Multiplatform Alpha: The Story"
-    }, {
-      "id": "FDOECr-sT6U",
-      "title": "KotlinConf 2017 - How to Build a React App in Kotlin by Dave Ford"
-    }, {
-      "id": "VG7rw4uPn3A",
-      "title": "Developing Backends with Kotlin and Spring Boot on Google Cloud"
-    }, {
-      "id": "17JrDMlnpVQ",
-      "title": "Create a SwiftUI application in AppCode"
-    }, {
-      "id": "arZiFSerU1k",
-      "title": "Build a Microservice with Go and GoLand"
-    }, {
-      "id": "69uk3Pi88AE",
-      "title": "KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov"
-    }, {
-      "id": "U4Q13TlAUE8",
-      "title": "KotlinConf 2019: The State of Kotlin Support in Spring by Sebastien Deleuze"
-    }, {
-      "id": "KvWIrZq0bVc",
-      "title": "KotlinConf 2019: The best runtime for Kotlin is obviously GraalVM, isn't it? by Oleg Šelajev"
-    }, {
-      "id": "9TlVsfcAJ7E",
-      "title": "Reactive Spring Boot: Part 9: Java RSocket Client"
-    }, {
-      "id": "pxHzQIOMc30",
-      "title": "Inline Method Refactoring in IntelliJ IDEA"
-    }, {
-      "id": "_AhTzpIQJTw",
-      "title": "KotlinConf 2019: Building Progressive Web Apps in Kotlin by Erik Hellman"
-    }, {
-      "id": "JKNSrBxqSs4",
-      "title": "KotlinConf 2019: Build a Browser by Kotlin with Colin Lee & Sebastian Kaspari"
-    }, {
-      "id": "SOPEc8JnFl4",
-      "title": "KotlinConf 2019: Ktor for Mobile Developers: Fear the server no more! by Dan Kim"
-    }, {
-      "id": "je8aqW48JiA",
-      "title": "KotlinConf 2019: Shipping a Mobile Multiplatform Project on iOS & Android by Ben Asher & Alec Strong"
-    }, {
-      "id": "WqnR_XhEiVI",
-      "title": "KotlinConf 2019: Compose Yourself: Designing a Kotlin First UI Toolkit by Anna-Chiara & Clara"
-    }, {
-      "id": "fcch4W94XxE",
-      "title": "Web Support in IntelliJ IDEA"
-    }, {
-      "id": "FefmhMSr8PE",
-      "title": "Reactive Spring Boot: Part 4: JavaFX Line Chart"
-    }, {
-      "id": "ybPBxSpb18k",
-      "title": "Reactive Spring Boot: Part 2: Java REST Client"
-    }, {
-      "id": "po9vKGqhx8E",
-      "title": "Reactive Spring Boot: Part 1: Kotlin REST Service"
-    }, {
-      "id": "40Hv3LClqac",
-      "title": "React + TypeScript + TDD in PyCharm"
-    }, {
-      "id": "KqgGeKhIiyo",
-      "title": "Write Less Code with Kotlin and Spring Boot"
-    }, {
-      "id": "zEZc5AmHQhk",
-      "title": "Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: coroutines"
-    }, {
-      "id": "HpWQUoVURWQ",
-      "title": "Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: channels"
-    }, {
-      "id": "a3agLJQ6vt8",
-      "title": "KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov"
-    }, {
-      "id": "U-gdJQeOVAk",
-      "title": "KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov"
-    }, {
-      "id": "8xfQA10Cd7g",
-      "title": "KotlinConf 2018 - Komparing Kotlin Server Frameworks by Ken Yee"
-    }, {
-      "id": "nBoPiEH90Wg",
-      "title": "Remote development in JetBrains IDEs with Google Cloud"
-    }
+    { "id": "fWu39EOZhto", "title": "The State of Kotlin" }, 
+    { "id": "tqL9lLWXdsw", "title": "How We Do QA for Kotlin at JetBrains" }, 
+    { "id": "Qw_JniULJBI", "title": "Working with SQLite Databases in any JetBrains IDE" },     
+    { "id": "MiXkDyxEDJI", "title": "Compose Multiplatform Alpha: The Story" }, 
+    { "id": "FDOECr-sT6U", "title": "KotlinConf 2017 - How to Build a React App in Kotlin by Dave Ford" }, 
+    { "id": "VG7rw4uPn3A", "title": "Developing Backends with Kotlin and Spring Boot on Google Cloud" }, 
+    { "id": "17JrDMlnpVQ", "title": "Create a SwiftUI application in AppCode" }, 
+    { "id": "arZiFSerU1k", "title": "Build a Microservice with Go and GoLand" }, 
+    { "id": "69uk3Pi88AE", "title": "KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov" }, 
+    { "id": "U4Q13TlAUE8", "title": "KotlinConf 2019: The State of Kotlin Support in Spring by Sebastien Deleuze" }, 
+    { "id": "KvWIrZq0bVc", "title": "KotlinConf 2019: The best runtime for Kotlin is obviously GraalVM, isn't it? by Oleg Šelajev" }, 
+    { "id": "9TlVsfcAJ7E", "title": "Reactive Spring Boot: Part 9: Java RSocket Client" }, 
+    { "id": "pxHzQIOMc30", "title": "Inline Method Refactoring in IntelliJ IDEA" }, 
+    { "id": "_AhTzpIQJTw", "title": "KotlinConf 2019: Building Progressive Web Apps in Kotlin by Erik Hellman" }, 
+    { "id": "JKNSrBxqSs4", "title": "KotlinConf 2019: Build a Browser by Kotlin with Colin Lee & Sebastian Kaspari" }, 
+    { "id": "SOPEc8JnFl4", "title": "KotlinConf 2019: Ktor for Mobile Developers: Fear the server no more! by Dan Kim" }, 
+    { "id": "je8aqW48JiA", "title": "KotlinConf 2019: Shipping a Mobile Multiplatform Project on iOS & Android by Ben Asher & Alec Strong" }, 
+    { "id": "WqnR_XhEiVI", "title": "KotlinConf 2019: Compose Yourself: Designing a Kotlin First UI Toolkit by Anna-Chiara & Clara" }, 
+    { "id": "fcch4W94XxE", "title": "Web Support in IntelliJ IDEA" }, 
+    { "id": "FefmhMSr8PE", "title": "Reactive Spring Boot: Part 4: JavaFX Line Chart" }, 
+    { "id": "ybPBxSpb18k", "title": "Reactive Spring Boot: Part 2: Java REST Client" }, 
+    { "id": "po9vKGqhx8E", "title": "Reactive Spring Boot: Part 1: Kotlin REST Service" }, 
+    { "id": "40Hv3LClqac", "title": "React + TypeScript + TDD in PyCharm" }, 
+    { "id": "KqgGeKhIiyo", "title": "Write Less Code with Kotlin and Spring Boot" }, 
+    { "id": "zEZc5AmHQhk", "title": "Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: coroutines" }, 
+    { "id": "HpWQUoVURWQ", "title": "Accompanying video to 'Intro to Coroutines and Channels' hands-on lab: channels" }, 
+    { "id": "a3agLJQ6vt8", "title": "KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov" }, 
+    { "id": "U-gdJQeOVAk", "title": "KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov" }, 
+    { "id": "8xfQA10Cd7g", "title": "KotlinConf 2018 - Komparing Kotlin Server Frameworks by Ken Yee" }, 
+    { "id": "nBoPiEH90Wg", "title": "Remote development in JetBrains IDEs with Google Cloud" }
   ]
 }

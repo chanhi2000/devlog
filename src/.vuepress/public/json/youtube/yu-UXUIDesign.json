@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "UXUIDesign",
+    "name": "Madia Designer",
+    "profile": "https://yt3.googleusercontent.com/ogu7WJp5I60n6vBkGkqo9HTOXEEJtoPu0hcuyFijBARr689LuqmLyI2Sb1ohm0HgPE0HSjVlNsc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5DvCLwCWM3aH1KIdQxCGkSvjuK50xXgqWYGqWGPp9IHzFlpCn6czHg-flDHh4Gra4JZlneMyU-E=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Vdp1zUqmYQc", "title": "지금 당장 알아야하는 아이콘 기본 개념" }, 
+    { "id": "igE_ApnDvT0", "title": "[06.무작정 따라하기] 20분만 따라하면 모바일 디자인 완성! / 피그마" }, 
+    { "id": "Q6kBDtcyPpI", "title": "Icon  Design Dutorial" },
+    { "id": "-StPEi5Ae6c", "title": "웹 디자인에서 가장 중요한 포인트는?" },
+    { "id": "hgeWi1yKNfc", "title": "집에서 혼자만든 말도 안되는 취준생 포트폴리오" }    
+  ]
+}

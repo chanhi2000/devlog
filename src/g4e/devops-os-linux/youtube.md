@@ -258,4 +258,12 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## System V
+
+<MyYouTubeItems jsonName="yu-systemv1968" />
+
+<!-- System V -->
+
+---
+
 <TagLinks />

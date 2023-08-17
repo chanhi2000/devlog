@@ -6,7 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "2C1BOPAMGHc", "title": "Dynamic Attribute Handling in Python: getattr(), setattr(), hasattr(), delattr()" }, 
+    { "id": "9y9YYhCuLro", "title": "Financial Stock Assistant Chatbot with ChatGPT in Python" },
+    { "id": "dhoKFqhVJu0", "title": "Income Prediction Machine Learning Project in Python" },
+    { "id": "GSHFzqqPq5U", "title": "Real-Time Stock Price Tracker in Python" },
+    { "id": "XfJBvgnCeBk", "title": "Why Everyone Should Start Using Vim" },    
+    { "id": "2C1BOPAMGHc", "title": "Dynamic Attribute Handling in Python: `getattr()`, `setattr()`, `hasattr()`, `delattr()`" }, 
     { "id": "BUnb1PKKMBA", "title": "Linux File System Simply Explained" }, 
     { "id": "3wNvKybVyaI", "title": "MongoDB in Python - NoSQL Document Database" }, 
     { "id": "X-Y91ddBqaQ", "title": "Image Segmentation with K-Means Clustering in Python" }, 

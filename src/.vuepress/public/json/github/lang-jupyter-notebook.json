@@ -334,5 +334,15 @@
     "desc": "DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "mshumer/gpt-llm-trainer",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "BerriAI/litellm",
+    "desc": "lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation",
+    "topics": ["openai", "llm", "langchain", "llmops", "anthropic", "langchain-python"],
+    "officialSite": "https://docs.litellm.ai/docs"
   }
 ]

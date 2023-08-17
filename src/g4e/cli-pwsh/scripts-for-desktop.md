@@ -584,4 +584,252 @@ exit 0 # success
 
 ---
 
+## ❌<FontIcon icon="iconfont icon-file"/>`close-onedrive.ps1`
+
+```card
+title: close-onedrive.ps1
+desc: Closes Microsoft OneDrive.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-onedrive.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script closes Microsoft's OneDrive folder gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+close-onedrive.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-onedrive
+# 
+```
+
+@tab Script Content
+
+```powershell
+
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-serenade.ps1`
+
+```card
+title: close-serenade.ps1
+desc: Closes the Serenade application.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-serenade.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Serenade.ai application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-serenade.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-serenade.ps1
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Serenade.ai application
+.DESCRIPTION
+	This PowerShell script closes the Serenade.ai application gracefully.
+.EXAMPLE
+	PS> ./close-serenade.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "Serenade.ai" "serenade" ""
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-snipping-tool.ps1`
+
+```card
+title: close-snipping-tool.ps1
+desc: Closes the Snipping Tool application.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-snipping-tool.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Snipping Tool application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-snipping-tool.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-snipping-tool.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Snipping Tool
+.DESCRIPTION
+	This PowerShell script closes the Snipping Tool application gracefully.
+.EXAMPLE
+	PS> ./close-snipping-tool.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "Snipping Tool" "SnippingTool.exe" ""
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-spotify.ps1`
+
+```card
+title: close-spotify.ps1
+desc: Closes Spotify.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-spotify.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Spotify application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-spotify.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-spotify.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes Spotify
+.DESCRIPTION
+	This PowerShell script closes the Spotify application gracefully.
+.EXAMPLE
+	PS> ./close-spotify.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "Spotify" "spotify" ""
+exit 0 # success
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`close-system-settings.ps1`
+
+```card
+title: close-system-settings.ps1
+desc: Closes the System Settings window.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script closes the System Settings window gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+close-system-settings.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-system-settings
+#
+```
+
+@tab Script Content
+
+```powershell
+
+```
+
+:::
+
+---
+
+
 <TagLinks/>

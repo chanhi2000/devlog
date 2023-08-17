@@ -2,21 +2,14 @@
   "channel": {
     "id": "basarat",
     "name": "basarat",
-    "profile": "https://yt3.googleusercontent.com/j0VUiDS9sHvY1Btan-yWsVPxg5QweVlIm3z3AiBurwWJBtzttA1OCPzIq5ztGpirvDHyI5CS=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/j0VUiDS9sHvY1Btan-yWsVPxg5QweVlIm3z3AiBurwWJBtzttA1OCPzIq5ztGpirvDHyI5CS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "q0ZkTVj6gQM",
-      "title": "Getting Setup for JavaScript Development"
-    }, {
-      "id": "ZdDTDTwrzHQ",
-      "title": "Your env handling is wrong in TypeScript"
-    }, {
-      "id": "CqmmIZYKTqQ",
-      "title": "React Native Image Component // Tips, Tricks and Gotchas"
-    }, {
-      "id": "EQsZX-V_q7g",
-      "title": "`useEffect` // Simplifying the React Component Lifecycle"
-    }
+    { "id": "nFHgUqc1tAU", "title": "JavaScript Arrays // Complete MasterClass" },
+    { "id": "q0ZkTVj6gQM", "title": "Getting Setup for JavaScript Development" }, 
+    { "id": "ZdDTDTwrzHQ", "title": "Your env handling is wrong in TypeScript" }, 
+    { "id": "CqmmIZYKTqQ", "title": "React Native Image Component // Tips, Tricks and Gotchas" }, 
+    { "id": "EQsZX-V_q7g", "title": "`useEffect` // Simplifying the React Component Lifecycle" }
   ]
 }

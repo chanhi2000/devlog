@@ -1208,7 +1208,7 @@ __Tip__: You can conform to as many protocols as you need, just by listing them 
 
 ## Extensions
 
-::: detatils Extensions
+::: details Extensions
 
 Extensions let us add functionality to any type. For example, Swift’s strings have a method for trimming whitespace and new lines, but it’s quite long so we could turn it into an extension:
 

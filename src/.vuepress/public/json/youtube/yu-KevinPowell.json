@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/HsOID_2Ri-jtwLjcRyT6c0CqH9hmSJgJDhmlcFPID77EtAZKZSwCjlWOLN9I4vEM1kmzrTszWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h2AOXBeVrgI", "title": "Recreating YouTube’s tab animation" },
+    { "id": "TgOWjuOweHQ", "title": "A quick & fun CSS animation effect" },    
     { "id": "r1IitKbJRFE", "title": "Two simple layouts that work better with Grid" }, 
     { "id": "LkZPd0oRlMQ", "title": "From Figma to Code / Creating a resume page" }, 
     { "id": "HuI4fDxDM0g", "title": "Why I only use vanilla HTML, CSS, and JS on YouTube" }, 

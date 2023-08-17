@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZR_NHspROPg", "title": "GitLab DevSecOps Platform End to End demo" }, 
+    { "id": "Kl2_R2a4Vm8", "title": "Audit Log forwarding in a GitLab Kubernetes Setup" }, 
+    { "id": "6U6A5tGCszE", "title": "GitLab Agent for K8s: Deep Dive into KAS and Agentk connection handling and tunneling requests" }, 
+    { "id": "MYAnphm0d7k", "title": "Cells: Create new group progress demo" }, 
+    { "id": "-fIiz10O7ds", "title": "Installing Cells in GitLab Development Kit" }, 
+    { "id": "RAIKTpaKTow", "title": "VSCode AI Suggestion variable delay proposal" }, 
+    { "id": "yv083H2_4UQ", "title": "Design - Using drawers rather than modals when editing branch rules" }, 
+    { "id": "wMb1aSXwuuA", "title": "GitLab 16.4 Kickoff - Database" },     
     { "id": "Nv7XwNoxVqc", "title": "Joe Burnett -- My command-line work process (mosh, tmux, emacs, org-mode and gopls)" }, 
     { "id": "uuq_blMOMZo", "title": "How to automate creating GitLab Runners" }, 
     { "id": "Vw8-ce8LNBs", "title": "CI Components - development workflow" }, 

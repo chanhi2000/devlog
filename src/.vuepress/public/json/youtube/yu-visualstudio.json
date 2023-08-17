@@ -6,34 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/LK42VijKwiENd5dKS4cYv4wKCoUzCVP9W2PZ-GEv_FQBa0k64JaoZV9F142MfXvP9M6Xp2bq=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "skUKcNMy1DA",
-      "title": "Speed up your builds of SDK-style .NET projects"
-    }, {
-      "id": "GhmEKQGE2yk",
-      "title": "The Remote File Explorer tool window of Visual Studio"
-    }, {
-      "id": "skUKcNMy1DA",
-      "title": "Speed up your builds of SDK-style .NET projects"
-    }, {
-      "id": "o4fYwtKpoz4",
-      "title": "Visual C++ STL Code Review: GH-1794, Use iterator concept in vector's range constructor"
-    }, {
-      "id": "EP0TZqosWs0",
-      "title": "Writing Visual Studio Extensions with Mads - Fixing bugs in Add Any File"
-    }, {
-      "id": "MvJnod5Xb5g",
-      "title": "Writing Visual Studio Extensions with Mads - Snippets"
-    }, {
-      "id": "bq1-25nwoRg",
-      "title": "Writing Visual Studio Extensions with Mads - Editor extension:  Whole line selection"
-    }, {
-      "id": "9J7scOtDYBc",
-      "title": "Visual Studio and accessibility - Visual Studio Remote Office Hours, 5/28"
-    }, {
-      "id": "aVEug50YpaM",
-      "title": "Debugging Managed Async Code in Visual Studio 2019"
-    }
+    { "id": "fPurmWtILCw", "title": "Building Power Apps with .NET & Azure API Management - End-to-End" }, 
+    { "id": "skUKcNMy1DA", "title": "Speed up your builds of SDK-style .NET projects" }, 
+    { "id": "GhmEKQGE2yk", "title": "The Remote File Explorer tool window of Visual Studio" }, 
+    { "id": "skUKcNMy1DA", "title": "Speed up your builds of SDK-style .NET projects" }, 
+    { "id": "o4fYwtKpoz4", "title": "Visual C++ STL Code Review: GH-1794, Use iterator concept in vector's range constructor" }, 
+    { "id": "EP0TZqosWs0", "title": "Writing Visual Studio Extensions with Mads - Fixing bugs in Add Any File" }, 
+    { "id": "MvJnod5Xb5g", "title": "Writing Visual Studio Extensions with Mads - Snippets" }, 
+    { "id": "bq1-25nwoRg", "title": "Writing Visual Studio Extensions with Mads - Editor extension:  Whole line selection" }, 
+    { "id": "9J7scOtDYBc", "title": "Visual Studio and accessibility - Visual Studio Remote Office Hours, 5/28" }, 
+    { "id": "aVEug50YpaM", "title": "Debugging Managed Async Code in Visual Studio 2019" } 
   ]
 }
 

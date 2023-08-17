@@ -2,16 +2,14 @@
   "channel": {
     "id": "harkirat1",
     "name": "Harkirat Singh",
-    "profile": "https://yt3.googleusercontent.com/MeY_fGNrjVLV0PVOBN7dRWzMBS0y41YGm55LOaJ02cXV82a7Np9pYxxhHFqdYdncEy1I2cYR=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/MeY_fGNrjVLV0PVOBN7dRWzMBS0y41YGm55LOaJ02cXV82a7Np9pYxxhHFqdYdncEy1I2cYR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1TWORcscn-5ve4rzNv0Im3dvp_3vOKxqQnyLTrNEyptng53g-unzkLntxVNHWEnwWFQALSZo8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "OCYo8UZxBl4",
-      "title": "Fixing a Bug in Zerodha's Codebase | Open Source Contributions #2"
-    }, {
-      "id": "od4hT9abIMQ",
-      "title": "Complete Full Stack Developer Roadmap! (2023 Edition)"
-    }
+    { "id": "_X7_v0h_q3A", "title": "Understanding an OPEN source codebase LIVE" },
+    { "id": "ejHG16CZrXI", "title": "Open Source Portfolio Guide 2023 for High-Pay Jobs | Does It Really Matter?" },    
+    { "id": "OCYo8UZxBl4", "title": "Fixing a Bug in Zerodha's Codebase | Open Source Contributions #2" },
+    { "id": "od4hT9abIMQ", "title": "Complete Full Stack Developer Roadmap! (2023 Edition)" }
   ]
 }
 
