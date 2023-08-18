@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CUiAcademy",
+    "name": "C# Ui Academy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRjwguhhwQfSaxm4fEQt2olUynBTg02zGg2jULp_w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2KWVJr4fWS7XgfvdmrA8I9U7YGa9x-wNvCaW8ZnXR6QTQPr6MmnwF_E0l29yetPCFb-BR_6iMQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2FbGoKY7FDI", "title": "Mastering Windows Forms: Creating a Cutting-Edge C# Modern Dashboard" }
+  ]
+}

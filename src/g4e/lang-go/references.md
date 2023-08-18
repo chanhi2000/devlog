@@ -76,4 +76,10 @@ tags: ["go", "golang"]
 
 ---
 
+## BITFIELD CONSULTING
+
+- [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
+
+---
+
 <TagLinks />

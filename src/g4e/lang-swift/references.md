@@ -125,10 +125,18 @@ tags: ["references", "swift"]
 
 ---
 
+## Matt Sephton
+
+- [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app)
+
+---
+
 ## Misc
 
 - [`EXC_BAD_ACCESS` - Swizzling With Swift](https://academy.realm.io/posts/sash-zats-swift-swizzling)
 - [why do `serviceSubscriberCellularProviders` return nil? (in iOS 12)](https://stackoverflow.com/questions/52846542/why-do-servicesubscribercellularproviders-return-nil-in-ios-12)
 - [How to detect at realtime the increase/decrease of cellular signal power in iOS](https://stackoverflow.com/questions/36481141/how-to-detect-at-realtime-the-increase-decrease-of-cellular-signal-power-in-ios)
+
+---
 
 <TagLinks />

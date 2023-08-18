@@ -2386,5 +2386,366 @@ try {
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`list-network-shares.ps1`
+
+```card
+title: list-network-shares.ps1
+desc: Lists all network shares of the local computer.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-drives.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+This PowerShell script lists all network shares of the local computer.
+
+::: tabs 
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-network-shares.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-network-shares.ps1
+# Name  Path     Description
+# ----  ----     -----------
+# Users C:\Users
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists all network shares of the local computer
+.DESCRIPTION
+	This PowerShell script lists all network shares of the local computer.
+.EXAMPLE
+	PS> ./list-network-shares.ps1
+
+	Name  Path     Description
+	----  ----     -----------
+	Users C:\Users
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-WmiObject win32_share | where {$_.name -NotLike "*$"}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-installed-software.ps1`
+
+```card
+title: list-installed-software.ps1
+desc: Lists the installed software.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-installed-software.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists the installed software (except Windows Store apps).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-installed-software.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-installed-software.ps1
+# DisplayName                            DisplayVersion                  InstallDate
+# -----------                            --------------                  -----------
+# CrystalDiskInfo 9.1.1                  9.1.1                           20230718
+# ...
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists the installed software
+.DESCRIPTION
+	This PowerShell script lists the installed software (except Windows Store apps).
+.EXAMPLE
+	PS> ./list-installed-software.ps1
+
+	DisplayName                            DisplayVersion                  InstallDate
+	-----------                            --------------                  -----------
+	CrystalDiskInfo 9.1.1                  9.1.1                           20230718
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\*, HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*, HKCU:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | select-object DisplayName,DisplayVersion,InstallDate | Format-Table -autoSize
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-printers.ps1`
+
+```card
+title: list-printers.ps1
+desc: Lists all printer known to the computer.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-printers.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists all printers known to the local computer.
+
+::: tabs 
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-printers.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-printers.ps1
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists the printers 
+.DESCRIPTION
+	This PowerShell script lists all printers known to the local computer.
+.EXAMPLE
+	PS> ./list-printers.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	if ($IsLinux) {
+		# TODO
+	} else {
+		$ComputerName = $(hostname)
+		Get-WMIObject -Class Win32_Printer -ComputerName $ComputerName | Format-Table
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-print-jobs.ps1`
+
+```card
+title: list-print-jobs.ps1
+desc: Lists all jobs of all printers.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-print-jobs.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists all print jobs of all printer devices.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-print-jobs.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-print-jobs.ps1
+# Printer                       Jobs
+# -------                       ----
+# ET-2810 Series 		      none
+# ...
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists all print jobs
+.DESCRIPTION
+	This PowerShell script lists all print jobs of all printer devices.
+.EXAMPLE
+	PS> ./list-print-jobs.ps1
+
+	Printer                       Jobs
+	-------                       ----
+	ET-2810 Series 		      none
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -Version 4
+
+function ListPrintJobs {
+	$printers = Get-Printer
+	if ($printers.Count -eq 0) { throw "No printer found" }
+
+	foreach ($printer in $printers) {
+		$PrinterName = $printer.Name
+		$printjobs = Get-PrintJob -PrinterObject $printer
+		if ($printjobs.Count -eq 0) {
+			$PrintJobs = "none"
+		} else {
+			$PrintJobs = "$printjobs"
+		}
+		New-Object PSObject -Property @{ Printer=$PrinterName; Jobs=$PrintJobs }
+	}
+}
+
+try {
+	if ($IsLinux) {
+		# TODO
+	} else {
+		ListPrintJobs | Format-Table -property Printer,Jobs
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-processes.ps1`
+
+```card
+title: list-processes.ps1
+desc: Lists the local computer processes.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-processes.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists all local computer processes.
+
+::: tabs 
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-processes.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-processes.ps1
+# 
+# Id  CPU(s) ProcessName
+#    --  ------ -----------
+#  9712   0,39% 64DriverLoad
+#  ...
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists all local computer processes
+.DESCRIPTION
+	This PowerShell script lists all local computer processes.
+.EXAMPLE
+	PS> ./list-processes.ps1
+
+	   Id  CPU(s) ProcessName
+	   --  ------ -----------
+	 9712   0,39% 64DriverLoad
+	 ...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-Process | Format-Table -Property Id, @{Label="CPU(s)";Expression={$_.CPU.ToString("N")+"%"};Alignment="Right"}, ProcessName -AutoSize
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+:::
+
+---
+
+
 
 <TagLinks/>

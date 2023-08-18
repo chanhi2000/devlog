@@ -197,6 +197,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## C# Ui Academy
+
+<MyYouTubeItems jsonName="yu-CUiAcademy" />
+
+<!-- C# Ui Academy -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

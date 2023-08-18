@@ -32,6 +32,7 @@ tags: ["ruby", "programming"]
 ## Akshay's Blog
 
 - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby)
+- [Ruby's Hash is a Swiss-Army Knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife)
 
 ---
 

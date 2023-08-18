@@ -190,6 +190,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Jon Gjengset
+
+<MyYouTubeItems jsonName="yu-jonhoo" />
+
+<!-- Jon Gjengset -->
+
+---
 ## RustAU
 
 <MyYouTubeItems jsonName="yu-rustau5950" />

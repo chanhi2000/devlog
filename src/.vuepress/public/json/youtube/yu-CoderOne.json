@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/cESZ9qnZaMe9-o1jCD2QQVPgeHUdndTurh2UUSe3WGD5drCH7KrEIrtbrJyqLA_BhoYgAPTAaA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "n2tkgeFcMhc", "title": "I Replaced MySQL Database with Notion for my Next.js App" },
     { "id": "o_7wgRHBzeA", "title": "This is Why You Can't Render React Hooks Conditionally" },   
     { "id": "OEDE9KqQCkg", "title": "React Naming Conventions You should follow as a Junior Developer - clean-code" }, 
     { "id": "zOhiwqmFvfY", "title": "Rust is the Perfect language For You" }, 

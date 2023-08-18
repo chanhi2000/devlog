@@ -831,5 +831,298 @@ PS> ./close-system-settings
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`close-task-manager.ps1`
+
+```card
+title: close-task-manager.ps1
+desc: Closes the Task Manager. 
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-task-manager.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Task Manager application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-task-manager.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-task-manager.ps1
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Task Manager
+.DESCRIPTION
+	This PowerShell script closes the Task Manager application gracefully.
+.EXAMPLE
+	PS> ./close-task-manager.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+tskill taskmgr
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-thunderbird.ps1`
+
+```card
+title: close-thunderbird.ps1
+desc: Closes Mozilla Thunderbird. 
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-thunderbird.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Mozilla Thunderbird email application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-thunderbird.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-thunderbird.ps1
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Thunderbird app
+.DESCRIPTION
+	This PowerShell script closes the Mozilla Thunderbird email application gracefully.
+.EXAMPLE
+	PS> ./close-thunderbird.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+TaskKill /im thunderbird.exe
+if ($lastExitCode -ne "0") {
+	& "$PSScriptRoot/speak-english.ps1" "Sorry, Mozilla Thunderbird isn't running."
+	exit 1
+}
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-vlc.ps1`
+
+```card
+title: close-vlc.ps1
+desc: Closes the VLC media player application. 
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the VLC media player application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-vlc.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-vlc.ps1
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the VLC media player application
+.DESCRIPTION
+	This PowerShell script closes the VLC media player application gracefully.
+.EXAMPLE
+	PS> ./close-vlc.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "VLC media player" "vlc" "vlc"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`close-windows-terminal.ps1`
+
+```card
+title: close-windows-terminal.ps1
+desc: Closes the Windows Terminal application. 
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script closes the Windows Terminal application gracefully.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./close-windows-terminal.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./close-windows-terminal.ps1
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Closes the Windows Terminal app
+.DESCRIPTION
+	This PowerShell script closes the Windows Terminal application gracefully.
+.EXAMPLE
+	PS> ./close-windows-terminal.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/close-program.ps1" "Windows Terminal" "WindowsTerminal" "WindowsTerminal"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`enable-god-mode.ps1`
+
+```card
+title: enable-god-mode.ps1
+desc: Enables the god mode (adds a new icon to the desktop). 
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script enables the god mode in Windows. It adds a new icon to the desktop.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./enable-god-mode.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./enable-god-mode.ps1
+✔ God mode enabled, please click the new desktop icon
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Enables the god mode
+.DESCRIPTION
+	This PowerShell script enables the god mode in Windows. It adds a new icon to the desktop.
+.EXAMPLE
+	PS> ./enable-god-mode.ps1
+	✔ God mode enabled, please click the new desktop icon
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$GodModeSplat = @{
+		Path = "$HOME\Desktop"
+		Name = "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}"
+		ItemType = 'Directory'
+	}
+	$null = New-Item @GodModeSplat
+	"✔️ God mode enabled, please click the new desktop icon"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
 
 <TagLinks/>

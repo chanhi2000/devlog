@@ -174,6 +174,12 @@ tags: ["java", "baeldung"]
 
 ---
 
+## QuestDB
+
+- [Fuzz Testing Is the Best Thing To Happen to Our Application Tests](https://questdb.io/blog/fuzz-testing-questdb)
+
+---
+
 ## Misc
 
 - [Task (2) - taskAffinity](https://parkho79.tistory.com/42)

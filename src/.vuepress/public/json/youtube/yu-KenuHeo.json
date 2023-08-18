@@ -2,196 +2,72 @@
   "channel": {
     "id": "KenuHeo",
     "name": "Kenu Heo",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMLYLYHaeQXDjpQvBr-F3nfwfIakzD9eHmx5sAIpQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMLYLYHaeQXDjpQvBr-F3nfwfIakzD9eHmx5sAIpQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/R9bkBrgOOjdTzIgLHdqiBplVkeD-bb6o0d8VJ15GoA1emrNGyoZ61LbHTxefpDjZqrqxQ1JJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "mVBCThRZ0Bo",
-      "title": "📝 오픈 소스 101 함께 읽기 - 오픈 소스 비즈니스 전략"
-    }, {
-      "id": "eDiZgRXtqFs",
-      "title": "📝 오픈 소스 101 함께 읽기 - 오픈 소스 소개"
-    }, {
-      "id": "JsymTCg_dtc",
-      "title": "✅ GitHub 기반의 개발 진행상황 관리법"
-    }, {
-      "id": "QUt-52U9nR4",
-      "title": "📥슬랙 봇 만들기"
-    }, {
-      "id": "TE6FHGLwpbs",
-      "title": "📥슬랙으로 알림 받기"
-    }, {
-      "id": "GephfquSBHk",
-      "title": "(04/04) 선임 개발자와 자율성의 관계"
-    }, {
-      "id": "TFNZx5pW_t4",
-      "title": "📊제플린과 DB 연결하기 #mysql #dataviz"
-    }, {
-      "id": "XLoit2-DPaI",
-      "title": "🛢CSV 파일 데이터 MySQL DB에 추가하기"
-    }, {
-      "id": "y-GWhTNW3sk",
-      "title": "📊제플린 쉽게 시작하기 #zeppelin #dataviz"
-    }, {
-      "id": "_7EP_FYVR-s",
-      "title": "📊데이터 시각화 플랫폼 제플린 #zeppelin #dataviz"
-    }, {
-      "id": "N9RZfhLS430",
-      "title": "🎯QR코드로 출석부 만들기 5 #qr-checkin #oauth2 #google"
-    }, {
-      "id": "W7a995cKdmg",
-      "title": "(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은?"
-    }, {
-      "id": "aEgQtYsjvQQ",
-      "title": "🎯QR코드로 출석부 만들기 3 #암복호화 #nodejs #crypto"
-    }, {
-      "id": "qgbxTPMlWIw",
-      "title": "🗃개발에 필요한 데이터 구하기 #fetch"
-    }, {
-      "id": "4MZsf171RKk",
-      "title": "(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유"
-    }, {
-      "id": "kZJsv5VndIc",
-      "title": "(03/13) 스프링 네이티브 베타 출시 소식"
-    }, {
-      "id": "xs7k-eHO81g",
-      "title": "❄️예제로 맛보는 React.js #flowchart"
-    }, {
-      "id": "Fknu06X4qV4",
-      "title": "✍🏼ES6 빠르게 훑어보기"
-    }, {
-      "id": "KrUbBiUgBvc",
-      "title": "❄️스프링 부트와 React.js #3 조건부 연산"
-    }, {
-      "id": "fpJqx3j9p98",
-      "title": "❄️스프링 부트와 React.js  #2-1 Hypermedia 제어"
-    }, {
-      "id": "hMUJzrxvl8g",
-      "title": "❄️스프링 부트와 React.js #2-2 트래킹 Hypermedia 제어"
-    }, {
-      "id": "LAxaEBELods",
-      "title": "❄️스프링 부트와 React.js  #1-1 스프링 부트 REST Data 기본세팅"
-    }, {
-      "id": "eJ1Bbu1MKA8",
-      "title": "🛢RDS 생성하고 외부에서 접속하기 #aws #클라우드"
-    }, {
-      "id": "cmjVEkIdD3k",
-      "title": "(02/20) '패배자같은 개발 직무' 탈출법"
-    }, {
-      "id": "ckOSz7zoSW0",
-      "title": "⏰비동기 작업 쿨하게 처리하기 #java #future"
-    }, {
-      "id": "QiKKtuxaXeA",
-      "title": "🐳 도커 이미지 2개 이상 띄우기 #docker-compose"
-    }, {
-      "id": "1YpmqJZvGV0",
-      "title": "🌱스프링 사이트를 로컬에서 실행하기 #sagan #spring-boot-example"
-    }, {
-      "id": "QeT3YB69OW0",
-      "title": "🌱스프링 부트와 몽고DB #MongoDB #NoSQL"
-    }, {
-      "id": "Z2Sw1WiREFw",
-      "title": "🪄배포 자동화 jenkins docker 2 #앱서버설치"
-    }, {
-      "id": "Kxvn5BRP79Q",
-      "title": "🪄배포 자동화 jenkins docker 4 #업데이트배포"
-    }, {
-      "id": "srXoakJ8Mx0",
-      "title": "🪄배포 자동화 젠킨스 AWS에서 사용하기 #jenkins"
-    }, {
-      "id": "A9hyHUnoIfI",
-      "title": "(02/13) 라인개발자들이 직접 뽑은 인생 책은?"
-    }, {
-      "id": "CC7qxnLFkeU",
-      "title": "⏳스프링 부트의 비동기 메소드 만들기"
-    }, {
-      "id": "RwmNNyBHksI",
-      "title": "도커에서 환경변수 인식하기 #스프링부트 #AWS"
-    }, {
-      "id": "glfNqZQGlUA",
-      "title": "프로그램 소스에 비번, API키 등의 하드코딩 피하는 법 #환경변수"
-    }, {
-      "id": "WVZjzDzXJIM",
-      "title": "스프링 부트에서 빠르게 AOP 코드 작성하기 #이보다쉬울수없다"
-    }, {
-      "id": "kUNc2Fm4BKg",
-      "title": "Redis 연결하기 #스프링부트"
-    }, {
-      "id": "HXgHgYRr3eY",
-      "title": "스프링 부트와 Docker"
-    }, {
-      "id": "gTYw8CZZujE",
-      "title": "MySQL 8.0 맥에 설치하기 #DBeaver"
-    }, {
-      "id": "iH2ZuNlrI9o",
-      "title": "스프링 부트 JPetStore 쇼핑몰 예제의 DB에 접근하기 #DBeaver"
-    }, {
-      "id": "pz6XBMxs8kE",
-      "title": "마이바티스 SQL 매퍼 버그 수정하기 #JPetStore #MyBatis"
-    }, {
-      "id": "nPf1I-1NGZE",
-      "title": "스프링 부트 쇼핑몰 샘플 #JPetStore"
-    }, {
-      "id": "aLxnSKOqrDU",
-      "title": "스프링 부트 폼 데이터 유효성 체크"
-    }, {
-      "id": "4bjgyPxec4Y",
-      "title": "스프링 부트 테스트 자동화"
-    }, {
-      "id": "FIcLCUMvNLU",
-      "title": "스프링 부트 Actuator; 서비스 운영을 위한 관리 기능"
-    }, {
-      "id": "8iwNDEXldAk",
-      "title": "🌱 스프링 부트 웹소켓 #WebSocket"
-    }, {
-      "id": "AS1GLhhWFLU",
-      "title": "스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리"
-    }, {
-      "id": "g20-0VIpmM4",
-      "title": "자바 코딩 간소화 기능 lombok"
-    }, {
-      "id": "RHI72s-qPdo",
-      "title": "스프링 부트 캐쉬 이용하기 #Cache"
-    }, {
-      "id": "wOk-ZnvM6I4",
-      "title": "스프링 부트 크로스 도메인 설정 #CORS"
-    }, {
-      "id": "3Il2u5A1u_Q",
-      "title": "스프링 부트 DB 트랜잭션"
-    }, {
-      "id": "uyRIZ93Dx90",
-      "title": "웹용 스프링 부트 Security 적용하기 #IntelliJ"
-    }, {
-      "id": "JwrzfuJSfrk",
-      "title": "스프링 부트에서 빠르게 AOP 코드 작성하기 #IntelliJ"
-    }, {
-      "id": "kjRpR13_eZo",
-      "title": "스프링 부트 파일 업로드 하기"
-    }, {
-      "id": "z1rU8ZVjtrE",
-      "title": "스프링 부트 로그 레벨 조정하기"
-    }, {
-      "id": "NdPVRttDqHU",
-      "title": "고민 상담 - OO님 비개발자의 CS 복수전공 관련"
-    }, {
-      "id": "1eDmXjqvMp8",
-      "title": "[IntelliJ] Spring Boot에서 MySQL 사용하기 #NoSound"
-    }, {
-      "id": "6LVGwg-pdC0",
-      "title": "Spring Boot에서 MariaDB(MySQL) 사용하기"
-    }, {
-      "id": "CEtOLCNo6Xw",
-      "title": "Spring 초간단 DB 사용하기"
-    }, {
-      "id": "d3_qXOdxl1E",
-      "title": "리액티브 스프링5 따라하기"
-    }, {
-      "id": "MJpRfcd_tgE",
-      "title": "✨`프로젝트 개발 - 기1: 기획`"
-    }, {
-      "id": "AvWPUaUpLHU",
-      "title": "💬 트렌드얘기 03/11 ✨`데이터베이스 관리`"
-    }
+    { "id": "mVBCThRZ0Bo", "title": "📝 오픈 소스 101 함께 읽기 - 오픈 소스 비즈니스 전략" }, 
+    { "id": "eDiZgRXtqFs", "title": "📝 오픈 소스 101 함께 읽기 - 오픈 소스 소개" }, 
+    { "id": "JsymTCg_dtc", "title": "✅ GitHub 기반의 개발 진행상황 관리법" }, 
+    { "id": "QUt-52U9nR4", "title": "📥슬랙 봇 만들기" }, 
+    { "id": "TE6FHGLwpbs", "title": "📥슬랙으로 알림 받기" }, 
+    { "id": "GephfquSBHk", "title": "(04/04) 선임 개발자와 자율성의 관계" }, 
+    { "id": "TFNZx5pW_t4", "title": "📊제플린과 DB 연결하기 #mysql #dataviz" }, 
+    { "id": "XLoit2-DPaI", "title": "🛢CSV 파일 데이터 MySQL DB에 추가하기" }, 
+    { "id": "y-GWhTNW3sk", "title": "📊제플린 쉽게 시작하기 #zeppelin #dataviz" }, 
+    { "id": "_7EP_FYVR-s", "title": "📊데이터 시각화 플랫폼 제플린 #zeppelin #dataviz" }, 
+    { "id": "N9RZfhLS430", "title": "🎯QR코드로 출석부 만들기 5 #qr-checkin #oauth2 #google" }, 
+    { "id": "W7a995cKdmg", "title": "(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은?" }, 
+    { "id": "aEgQtYsjvQQ", "title": "🎯QR코드로 출석부 만들기 3 #암복호화 #nodejs #crypto" }, 
+    { "id": "qgbxTPMlWIw", "title": "🗃개발에 필요한 데이터 구하기 #fetch" }, 
+    { "id": "4MZsf171RKk", "title": "(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유" }, 
+    { "id": "kZJsv5VndIc", "title": "(03/13) 스프링 네이티브 베타 출시 소식" }, 
+    { "id": "xs7k-eHO81g", "title": "❄️예제로 맛보는 React.js #flowchart" }, 
+    { "id": "Fknu06X4qV4", "title": "✍🏼ES6 빠르게 훑어보기" }, 
+    { "id": "KrUbBiUgBvc", "title": "❄️스프링 부트와 React.js #3 조건부 연산" }, 
+    { "id": "fpJqx3j9p98", "title": "❄️스프링 부트와 React.js  #2-1 Hypermedia 제어" }, 
+    { "id": "hMUJzrxvl8g", "title": "❄️스프링 부트와 React.js #2-2 트래킹 Hypermedia 제어" }, 
+    { "id": "LAxaEBELods", "title": "❄️스프링 부트와 React.js  #1-1 스프링 부트 REST Data 기본세팅" }, 
+    { "id": "eJ1Bbu1MKA8", "title": "🛢RDS 생성하고 외부에서 접속하기 #aws #클라우드" }, 
+    { "id": "cmjVEkIdD3k", "title": "(02/20) '패배자같은 개발 직무' 탈출법" }, 
+    { "id": "ckOSz7zoSW0", "title": "⏰비동기 작업 쿨하게 처리하기 #java #future" }, 
+    { "id": "QiKKtuxaXeA", "title": "🐳 도커 이미지 2개 이상 띄우기 #docker-compose" }, 
+    { "id": "1YpmqJZvGV0", "title": "🌱스프링 사이트를 로컬에서 실행하기 #sagan #spring-boot-example" }, 
+    { "id": "QeT3YB69OW0", "title": "🌱스프링 부트와 몽고DB #MongoDB #NoSQL" }, 
+    { "id": "Z2Sw1WiREFw", "title": "🪄배포 자동화 jenkins docker 2 #앱서버설치" }, 
+    { "id": "Kxvn5BRP79Q", "title": "🪄배포 자동화 jenkins docker 4 #업데이트배포" }, 
+    { "id": "srXoakJ8Mx0", "title": "🪄배포 자동화 젠킨스 AWS에서 사용하기 #jenkins" }, 
+    { "id": "A9hyHUnoIfI", "title": "(02/13) 라인개발자들이 직접 뽑은 인생 책은?" }, 
+    { "id": "CC7qxnLFkeU", "title": "⏳스프링 부트의 비동기 메소드 만들기" }, 
+    { "id": "RwmNNyBHksI", "title": "도커에서 환경변수 인식하기 #스프링부트 #AWS" }, 
+    { "id": "glfNqZQGlUA", "title": "프로그램 소스에 비번, API키 등의 하드코딩 피하는 법 #환경변수" }, 
+    { "id": "WVZjzDzXJIM", "title": "스프링 부트에서 빠르게 AOP 코드 작성하기 #이보다쉬울수없다" }, 
+    { "id": "kUNc2Fm4BKg", "title": "Redis 연결하기 #스프링부트" }, 
+    { "id": "HXgHgYRr3eY", "title": "스프링 부트와 Docker" }, 
+    { "id": "gTYw8CZZujE", "title": "MySQL 8.0 맥에 설치하기 #DBeaver" }, 
+    { "id": "iH2ZuNlrI9o", "title": "스프링 부트 JPetStore 쇼핑몰 예제의 DB에 접근하기 #DBeaver" }, 
+    { "id": "pz6XBMxs8kE", "title": "마이바티스 SQL 매퍼 버그 수정하기 #JPetStore #MyBatis" }, 
+    { "id": "nPf1I-1NGZE", "title": "스프링 부트 쇼핑몰 샘플 #JPetStore" }, 
+    { "id": "aLxnSKOqrDU", "title": "스프링 부트 폼 데이터 유효성 체크" }, 
+    { "id": "4bjgyPxec4Y", "title": "스프링 부트 테스트 자동화" }, 
+    { "id": "FIcLCUMvNLU", "title": "스프링 부트 Actuator; 서비스 운영을 위한 관리 기능" }, 
+    { "id": "8iwNDEXldAk", "title": "🌱 스프링 부트 웹소켓 #WebSocket" }, 
+    { "id": "AS1GLhhWFLU", "title": "스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리" }, 
+    { "id": "g20-0VIpmM4", "title": "자바 코딩 간소화 기능 lombok" }, 
+    { "id": "RHI72s-qPdo", "title": "스프링 부트 캐쉬 이용하기 #Cache" }, 
+    { "id": "wOk-ZnvM6I4", "title": "스프링 부트 크로스 도메인 설정 #CORS" }, 
+    { "id": "3Il2u5A1u_Q", "title": "스프링 부트 DB 트랜잭션" }, 
+    { "id": "uyRIZ93Dx90", "title": "웹용 스프링 부트 Security 적용하기 #IntelliJ" }, 
+    { "id": "JwrzfuJSfrk", "title": "스프링 부트에서 빠르게 AOP 코드 작성하기 #IntelliJ" }, 
+    { "id": "kjRpR13_eZo", "title": "스프링 부트 파일 업로드 하기" }, 
+    { "id": "z1rU8ZVjtrE", "title": "스프링 부트 로그 레벨 조정하기" }, 
+    { "id": "NdPVRttDqHU", "title": "고민 상담 - OO님 비개발자의 CS 복수전공 관련" }, 
+    { "id": "1eDmXjqvMp8", "title": "[IntelliJ] Spring Boot에서 MySQL 사용하기 #NoSound" }, 
+    { "id": "6LVGwg-pdC0", "title": "Spring Boot에서 MariaDB(MySQL) 사용하기" }, 
+    { "id": "CEtOLCNo6Xw", "title": "Spring 초간단 DB 사용하기" }, 
+    { "id": "d3_qXOdxl1E", "title": "리액티브 스프링5 따라하기" }, 
+    { "id": "MJpRfcd_tgE", "title": "✨`프로젝트 개발 - 기1: 기획`" }, 
+    { "id": "AvWPUaUpLHU", "title": "💬 트렌드얘기 03/11 ✨`데이터베이스 관리`" }
   ]
 }
 

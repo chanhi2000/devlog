@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/tzHfGYzu6qkZpCd-nn0c58mfvimB7mJoeCyR7Xi4Is8WQqijstRr-dqGEFtbNWtwxuhE1K7P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GNaVZBhbmTI", "title": "Alerts & Lists on visionOS (Lesson 3)" },
+    { "id": "rdDviHtzA28", "title": "Intermittent Fasting Tracker with WidgetKit & SwiftData | Episode 2" },
+    { "id": "6DZNAXj3eaE", "title": "Introduction to TipKit for iOS 17" },
     { "id": "zK92IwrT-Ls", "title": "@Observable @Bindable: MVVM in iOS 17" },
     { "id": "zojPt5TVsB8", "title": "Introduction to SwiftData (WWDC23)" },
     { "id": "hbmSQSBWaGg", "title": "Animate SF Symbols with .symbolEffect in iOS 17" },

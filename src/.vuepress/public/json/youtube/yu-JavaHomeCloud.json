@@ -5,7 +5,8 @@
     "profile": "https://yt3.googleusercontent.com/-XJIlEJbg20CCdD6XFTYeIsHpdxCVE6Y1IiZ2-Ccn0Aehy6qyvStMnQ4o74DVwaluVt5ga1-AQ=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/eqH4RHRRaGsPDwOTOFf_C7W1XZCjiK-4aIlzhDn_77qfRLVvBv8nyaH2qr85MgcC9y43tkZd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
-  "videos": [    
+  "videos": [
+    { "id": "Ud1WW9i10Ag", "title": "Level Up Your Boto3 Skills: Mastering Boto3 with Practical Examples" },
     { "id": "Ta4gPMpfPgg", "title": "Free Seminar | Terraform Best Practices | Writing Terraform Modules | Terraform tutorial | Java Home" }, 
     { "id": "xsBnF9gbXW4", "title": "Debug Pod in Kubernetes | Debugging Pod | Pod Logs | ImagePullBackoff | DevOps Training" }, 
     { "id": "C5mazUJ1dsg", "title": "What is dynamic inventory in Ansible | Step by Step - Ansible AWS dynamic inventory Demo | Easy Way" }, 

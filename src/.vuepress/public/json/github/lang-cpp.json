@@ -534,6 +534,21 @@
     "desc": "Stable Diffusion in pure C/C++",
     "topics": ["ai", "cplusplus", "image-generation", "diffusion", "text2image", "txt2img", "latent-diffusion", "stable-diffusion", "ggml"],
     "officialSite": ""
+  }, {
+    "repo": "deathkiller/jazz2-native",
+    "desc": "🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2",
+    "topics": ["android", "game", "windows", "macos", "linux", "gamedev", "multi-platform", "opengl", "cpp", "uwp", "game-2d", "windows-10", "emscripten", "reimplementation", "jazz-jackrabbit", "2d-game", "2d", "cpp20", "ncine", "steamdeck"],
+    "officialSite": "http://deat.tk/jazz2"
+  }, {
+    "repo": "aseprite/aseprite",
+    "desc": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "topics": ["c-plus-plus", "sprites", "pixel-art", "animation", "graphics", "spritesheet", "gif", "draw", "aseprite", "animated-sprites", "tilemap-editor", "pixel-editor", "sprite-editor", "tile-editor"],
+    "officialSite": "https://www.aseprite.org"
+  }, {
+    "repo": "organicmaps/organicmaps",
+    "desc": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+    "topics": ["android", "java", "ios", "app", "privacy", "mobile", "objective-c", "offline", "cpp", "navigation", "maps", "openstreetmap", "routing", "mobile-app", "offline-maps", "tourists", "hacktoberfest", "travelers", "cyclists", "hikers"],
+    "officialSite": "https://organicmaps.app"
   }
 ]
 

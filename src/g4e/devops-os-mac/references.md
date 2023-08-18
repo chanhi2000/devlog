@@ -93,8 +93,16 @@ tags: ["macos", "settings"]
 
 ---
 
+## THE ECLECTIC LIGHT COMPANY
+
+- [Run a macOS VM on Apple silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
+
+---
 
 <TagLinks />

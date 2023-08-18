@@ -6,11 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "bB2TmCfJiX8", "title": "Monitor the Output of a Program for Changes Using the Watch Command" },
     { "id": "6w84-4cfUug", "title": "Detect If a Shell Script Is Being Executed or Sourced" }, 
     { "id": "w34xAnNdliE", "title": "How to Use Pass Which Is a Command Line Password Manager" }, 
     { "id": "6w84-4cfUug", "title": "Detect If a Shell Script Is Being Executed or Sourced" }, 
-    { "id": "YrYxWcAULAk",  "title": "Clearing and Restoring Your Current and Saved Shell History with Zsh" }, 
-    { "id": "waUJ_FUvXs8",  "title": "How Would You Improve This Shell Script?" }, 
+    { "id": "YrYxWcAULAk", "title": "Clearing and Restoring Your Current and Saved Shell History with Zsh" }, 
+    { "id": "waUJ_FUvXs8", "title": "How Would You Improve This Shell Script?" }, 
     { "id": "Y4u-cBtIOTg", "title": "An Alias to Create Shell Scripts" }, 
     { "id": "nKiZz8TNHuU", "title": "A Guide for Running Rails in Docker" }, 
     { "id": "sXfaogNlc7Y", "title": "Running Docker Containers as a Non-root User with a Custom UID / GID" }, 

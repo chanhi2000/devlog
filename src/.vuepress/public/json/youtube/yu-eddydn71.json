@@ -6,43 +6,19 @@
     "banner": "https://yt3.googleusercontent.com/Liy5WgEb07jwWPLBuo07aioHq4jwprToEQT0zJV00ry3WoHXQ3kFa3T0mRwNWynlwJYiaMiB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "UNa_gIuFyOM",
-      "title": "Android Kotlin Tutorial - RSS Reader by Kotlin"
-    }, {
-      "id": "9KJyebg17qw",
-      "title": "Android Development Tutorial - New Uber Clone #42 Update Trip Plan"
-    }, {
-      "id": "u7t8MxGR9EY",
-      "title": "Kotlin Android Tutorial - New Eat It part 48 Shippers Managements"
-    }, {
-      "id": "0shyep6yzeU",
-      "title": "Android Development Tutorial - My Restaurant part 38 a Upgrade NodeJS API for MSSQL"
-    }, {
-      "id": "nZ2gHpbAXHc",
-      "title": "EDMT Dev - Food App Android Studio #21 Getting user location"
-    }, {
-      "id": "A85pX4ZAAis",
-      "title": "EDMT Dev - Food App Android Studio #13 Build Cart System with Room Persistence"
-    }, {
-      "id": "oQOybOl0vyc",
-      "title": "Kotlin Android Tutorial -  Realtime QR Code Realtime Scanner with Rectangle"
-    }, {
-      "id": "jtbVo8XwI88",
-      "title": "Android Development Tutorial - Drink Shop App part 36 Integrate Firebase Cloud Messaging"
-    }, {
-      "id": "JQa-NAgMfY4",
-      "title": "Kotlin Android Tutorial - Recycler View Filters"
-    }, {
-      "id": "MALa2ahelCA",
-      "title": "Android Development Tutorial - Recycler View Filters"
-    }, {
-      "id": "d1UuUTAKoi8",
-      "title": "Android Development Tutorial - MVVM Design Patterns Login Validation"
-    }, {
-      "id": "qwfESo8nSPs",
-      "title": "Flutter Full Course - In App WebView"
-    }
+    { "id": "bb8Ig80gJMk", "title": "Attacking Android applications exploiting Firebase Database Realtime" },
+    { "id": "UNa_gIuFyOM", "title": "Android Kotlin Tutorial - RSS Reader by Kotlin" }, 
+    { "id": "9KJyebg17qw", "title": "Android Development Tutorial - New Uber Clone #42 Update Trip Plan" }, 
+    { "id": "u7t8MxGR9EY", "title": "Kotlin Android Tutorial - New Eat It part 48 Shippers Managements" }, 
+    { "id": "0shyep6yzeU", "title": "Android Development Tutorial - My Restaurant part 38 a Upgrade NodeJS API for MSSQL" }, 
+    { "id": "nZ2gHpbAXHc", "title": "EDMT Dev - Food App Android Studio #21 Getting user location" }, 
+    { "id": "A85pX4ZAAis", "title": "EDMT Dev - Food App Android Studio #13 Build Cart System with Room Persistence" }, 
+    { "id": "oQOybOl0vyc", "title": "Kotlin Android Tutorial -  Realtime QR Code Realtime Scanner with Rectangle" }, 
+    { "id": "jtbVo8XwI88", "title": "Android Development Tutorial - Drink Shop App part 36 Integrate Firebase Cloud Messaging" }, 
+    { "id": "JQa-NAgMfY4", "title": "Kotlin Android Tutorial - Recycler View Filters" }, 
+    { "id": "MALa2ahelCA", "title": "Android Development Tutorial - Recycler View Filters" }, 
+    { "id": "d1UuUTAKoi8", "title": "Android Development Tutorial - MVVM Design Patterns Login Validation" }, 
+    { "id": "qwfESo8nSPs", "title": "Flutter Full Course - In App WebView" }
   ]
 }
 

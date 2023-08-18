@@ -6,10 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/2wZtqBvnsWAIh-iDKd95bhNKDTJGkFsnQzThi2WluDZu0M3CcSOca8Ilq32znDZfu_fEhCPL=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "5vpdzRbfTIM", "title": "type(obj) vs. obj.__class__ in Python, and changing an object's class." }, 
+    { "id": "PXWL_Xzyrp4", "title": "Don't make this big O mistake!" },
+    { "id": "5vpdzRbfTIM", "title": "`type(obj)` vs. `obj.__class__` in Python, and changing an object's class." }, 
     { "id": "1S2h11XronA", "title": "Why I prefer attrs over dataclasses" }, 
     { "id": "DhUpxWjOhME", "title": "Automated Testing in Python with pytest, tox, and GitHub Actions" }, 
-    { "id": "g_wlZ9IhbTs", "title": "You should put this in all your Python scripts | if __name__ == '__main__': ..." }, 
-    { "id": "AmjoK55h68Y", "title": "unique_ptr: C++'s simplest smart pointer" }
+    { "id": "g_wlZ9IhbTs", "title": "You should put this in all your Python scripts | `if __name__ == '__main__'`: ..." }, 
+    { "id": "AmjoK55h68Y", "title": "`unique_ptr`: C++'s simplest smart pointer" }
   ]
 }

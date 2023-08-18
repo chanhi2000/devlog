@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KrkkkJ0McXg", "title": "Burke Learns Blazor - Creating the AddLink experience you've been craving on the urlist.com" },
+    { "id": "aVA7jpIZsNs", "title": "What's New and Next for .NET MAUI Developers?" },
     { "id": "h9c7TZb2QuU", "title": "How do I use C# and .NET with SQLite?" }, 
     { "id": "QTvFiiST-r4", "title": ".NET Data Community Standup - Synchronizing data between the cloud and the client (using SQLite)" }, 
     { "id": "Nm99pg3477I", "title": ".NET MAUI at Build 2023 Recap, Upgrade Assistant, & New VS Features | The .NET MAUI Podcast ep. 119" }, 

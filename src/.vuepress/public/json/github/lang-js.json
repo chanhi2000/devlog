@@ -1404,5 +1404,25 @@
     "desc": "Material Design Components in HTML/CSS/JS",
     "topics": ["material", "material-design", "material-components", "mdl", "material-design-lite"],
     "officialSite": "https://getmdl.io"
+  }, {
+    "repo": "opentffoundation/manifesto",
+    "desc": "The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.",
+    "topics": [],
+    "officialSite": "https://opentf.org"
+  }, {
+    "repo": "vercel/next.js",
+    "desc": "The React Framework",
+    "topics": ["react", "blog", "static-site-generator", "components", "node", "browser", "compiler", "universal", "nextjs", "static", "server-rendering", "hybrid", "ssg", "vercel"],
+    "officialSite": "https://nextjs.org"
+  }, {
+    "repo": "dimdenGD/OldTweetDeck",
+    "desc": "Returns old TweetDeck, for free!",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "schemastore/schemastore",
+    "desc": "A collection of JSON schema files including full API",
+    "topics": ["hacktoberfest"],
+    "officialSite": "http://schemastore.org"
   }
 ]

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CI34yj-I8ss", "title": "Learn to Build Games with Unity and C# - Major Course Announcement" },
+    { "id": "h5KG5MY_-9k", "title": "How To Upgrade Bootstrap in ASP.NET Core Web Applications - Blazor, MVC, Razor Pages, etc." },
     { "id": "2L4apvBifaU", "title": "Initial Look at the C# Dev Kit for VSCode" },
     { "id": "z3BwMlcGdhg", "title": "Intro to the CsvHelper Library for C#" },
     { "id": "vru0mjRYixI", "title": "How To Learn Web Development In 2023" }, 

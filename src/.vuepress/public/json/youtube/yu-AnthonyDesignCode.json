@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/qfJEdqx9ye3yZYT50AIw7GNnaket4KUCODwgb1r5mMgU06kbZOb55zwivHrbBj1rlSYShSyW=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UdW3oYl7rHE", "title": "Discover What's New in MapKit for iOS 17 with SwiftUI and Xcode" },
     { "id": "g78TXPBHjes", "title": "How I Created a Complex Login App for iPadOS in SwiftUI and Xcode 14 WWDC23" }, 
     { "id": "g3slgNY4M-k", "title": "What's new in Charts for iOS 17 (WWDC 23)" }, 
     { "id": "4FUhJIX1lTw", "title": "Mastering Advanced Animations in SwiftUI: Unleashing the Power of WWDC23!" }, 

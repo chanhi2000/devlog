@@ -2378,5 +2378,30 @@
     "desc": "Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing",
     "topics": [],
     "officialSite": "https://qiuyu96.github.io/CoDeF"
+  }, {
+    "repo": "morph-labs/rift",
+    "desc": "Rift: an AI-native language server for your personal AI software engineer",
+    "topics": [],
+    "officialSite": "https://morph.so"
+  }, {
+    "repo": "plbrault/youre-the-os",
+    "desc": "A game where you are a computer's OS and you have to manage processes, memory and I/O events.",
+    "topics": ["game", "python", "os", "webassembly", "pygame"],
+    "officialSite": "https://plbrault.github.io/youre-the-os"
+  }, {
+    "repo": "jiran214/GPT-vup",
+    "desc": "GPT-vup BIliBili | 抖音 | AI | 虚拟主播",
+    "topics": ["embeddings", "bilibili", "douyin", "vtuber", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "topics": ["photos", "pytorch", "generative-adversarial-network", "image-manipulation", "gans", "image-restoration", "old-photo-restoration", "photo-restoration"],
+    "officialSite": "https://arxiv.org/abs/2004.09484"
+  }, {
+    "repo": "ozmartian/vidcutter",
+    "desc": "A modern yet simple multi-platform video cutter and joiner.",
+    "topics": ["windows", "macos", "linux", "opengl", "ffmpeg", "cross-platform", "ubuntu", "mpv", "cython", "pyqt5", "arch-linux", "python3", "appimage", "qt5-gui", "video-editor"],
+    "officialSite": ""
   }
 ]

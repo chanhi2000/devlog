@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/SSdom6sjXFLivucE0o_4yZ4_lLufZTlx4oBTShVdn-uo9uTcsJHqAMHI55DzSuwo9uj44f_l=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dzDMACue28E", "title": "📱 SwiftUI + 🕵️‍♂️ Vision Framework = 🖼️ Image Classification Fun! 🚀" }, 
     { "id": "azKGflQsstU", "title": "SwiftUI Stock App Development - Part 1: Creating a Powerful Ticker Search" }, 
     { "id": "K5KUZdqUVQ8", "title": "SwiftUI Stock App Tutorial - Part 4: Displaying Gainers, Losers, and Most Active Stocks" }, 
     { "id": "XMmgzQG_DLw", "title": "Swift Stock App Tutorial: Part 6 - Forex Exchange 📈" }, 

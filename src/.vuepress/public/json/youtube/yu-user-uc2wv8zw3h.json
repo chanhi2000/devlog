@@ -2,22 +2,14 @@
   "channel": {
     "id": "user-uc2wv8zw3h",
     "name": "전자정부 표준프레임워크 센터",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP8V0TnJNip83i08zoEAnNwclCmHjIrMuxK0U-Evg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP8V0TnJNip83i08zoEAnNwclCmHjIrMuxK0U-Evg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
   },
   "videos": [
-    {
-      "id": "1_X8xRrF7DI",
-      "title": "[표준프레임워크]강의02.개발환경 소개 및 구현도구, 개인빌드"
-    }, {
-      "id": "khi3V-eVQEg",
-      "title": "[표준프레임워크]강의08.실행환경 화면처리레이어"
-    }, {
-      "id": "lxAsjeiSeqA",
-      "title": "[표준프레임워크]강의06.실행환경 데이터처리레이어"
-    }, {
-      "id": "NWq_0Y8D3BQ",
-      "title": "[표준프레임워크]강의07.실행환경 배치처리레이어"
-    }
+    { "id": "1_X8xRrF7DI", "title": "[표준프레임워크]강의02.개발환경 소개 및 구현도구, 개인빌드" }, 
+    { "id": "khi3V-eVQEg", "title": "[표준프레임워크]강의08.실행환경 화면처리레이어" }, 
+    { "id": "lxAsjeiSeqA", "title": "[표준프레임워크]강의06.실행환경 데이터처리레이어" }, 
+    { "id": "NWq_0Y8D3BQ", "title": "[표준프레임워크]강의07.실행환경 배치처리레이어" }
   ]
 }
 

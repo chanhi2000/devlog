@@ -93,6 +93,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Trust In Soft
+
+- [GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

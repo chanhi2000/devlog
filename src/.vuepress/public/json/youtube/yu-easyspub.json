@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "easyspub",
+    "name": "easyspub",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTH8gkHAKL4_TJKtl-O7eDUbNQpiOx5b9X18mzV=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rniEA2SFFwvD9stOinwu9ifAebPni877LzQZbdCp0vdqNrp_EemICO33diiuK6CxWDDhBQVc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "P_eRpwR15-o", "title": "[Do it! SQL 입문] 06장 내 맘대로 주식 데이터 분석하기" },
+    { "id": "5jIEQm-TJ3s", "title": "[Do it! SQL 입문] 7장 국가 통계 데이터 분석하기" },
+    { "id": "kGwOVLiDNus", "title": "09-2강 클래스 | Do it! 모던 자바스크립트 프로그래밍의 정석" }        
+  ]
+}
+

@@ -5,12 +5,8 @@
     "profile": "https://yt3.googleusercontent.com/U06teBP5L-inqSeRIKbj4Xws3ApKGfj1KxLS5i4xjqbCfIhfAx5DMJg8cDMm9kInNsFqvMXRnw=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
-    {
-      "id": "bbnKz9KH3Yc",
-      "title": "5 Amazing Ways I use Notion Ai to Save HOURS of Time"
-    }, {
-      "id": "5bVBBLKPRqI",
-      "title": "7 way ChatGPT's web browsing can help you learn better"
-    }
+    { "id": "ViaRFweuQtM", "title": "8 ChatGPT plugins to help you succeed in learning ANY skill or subject" },
+    { "id": "bbnKz9KH3Yc", "title": "5 Amazing Ways I use Notion Ai to Save HOURS of Time" }, 
+    { "id": "5bVBBLKPRqI", "title": "7 way ChatGPT's web browsing can help you learn better" } 
   ]
 }

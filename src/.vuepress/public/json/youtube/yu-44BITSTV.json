@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/3nyxB4hDoEsxIusJ_PO-levqaXEzNhT3jHEh21gs2oA1u5lHsz-W-Lj99dN-MW_EnKA_l0LzXb8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "R9nsp-fgUJk", "title": "ML/AI 특집 w/ 윤" },
     { "id": "GjC0WCYvCq0", "title": "트위터 장애, ChatGPT등 AI" }, 
     { "id": "emawWKgDH3E", "title": "44bits 팟캐스트 - Git.io deprecation, Scaling containers on AWS" }, 
     { "id": "cyvCeItKFjw", "title": "44bits 팟캐스트 145.log : React 18.0, Dagger.io, Grafana Mimir" }, 
@@ -14,5 +15,3 @@
     { "id": "Ia8IfowgU7s", "title": "[초보를 위한 쿠버네티스 안내서] 컨테이너 오케스트레이션이란?" }  
   ]
 }
-
-

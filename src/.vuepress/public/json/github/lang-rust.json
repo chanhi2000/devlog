@@ -554,6 +554,16 @@
     "desc": "Answering the question nobody asked: what if you wanted to text your friends using only ARP?",
     "topics": ["chat", "arp"],
     "officialSite": ""
+  }, {
+    "repo": "tokio-rs/tokio",
+    "desc": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "topics": ["rust", "networking", "asynchronous"],
+    "officialSite": "https://tokio.rs"
+  }, {
+    "repo": "serde-rs/serde",
+    "desc": "Serialization framework for Rust",
+    "topics": ["rust", "serde", "derive", "no-std"],
+    "officialSite": "https://serde.rs"
   }
 ]
 

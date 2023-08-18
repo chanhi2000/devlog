@@ -2,121 +2,47 @@
   "channel": {
     "id": "ChrisTitusTech",
     "name": "Chris Titus Tech",
-    "profile": "https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/c3BuSjOyh9Q_W5tQZKWpYY6m1oiNQ49X7C-XjB3jVsPqlWbqR-w6BeqMb0-USz01gMA9iU1UAg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "ZgHX8jPuHjE", 
-      "title": "The Perfect System"
-    }, {
-      "id": "ju_BSNKeP6w", 
-      "title": "The Windows Utility - BIG Improvements"
-    }, {
-      "id": "Y35Prm8nG40",
-      "title": "Custom Windows Images"
-    }, {
-      "id": "UICz1S1xuHo",
-      "title": "AtlasOS Review"
-    }, {
-      "id": "HKB8RUWZIQA",
-      "title": "5 Terminal Commands"
-    }, {
-      "id": "M2mMQfPGZsE",
-      "title": "Windows Updates through PowerShell"
-    }, {
-      "id": "94VQvRpjfO8",
-      "title": "Docker Guide"
-    }, {
-      "id": "XWo2gnNbeGQ",
-      "title": "MacOS Docker"
-    }, {
-      "id": "6VbOLOuiHUI",
-      "title": "Neovim is Better"
-    }, {
-      "id": "tXGVzMUsuE4",
-      "title": "The Best Free Backup for EVERY Operating System"
-    }, {
-      "id": "WmOvg0MagW0",
-      "title": "Extreme Windows | The Future of Gaming"
-    }, {
-      "id": "nxV0CPNeFxY",
-      "title": "Browse the Web Better"
-    }, {
-      "id": "UvSLMzkog1g",
-      "title": "Switching to Ubuntu"
-    }, {
-      "id": "s6YINpJb2dc",
-      "title": "Shell - The Essential App"
-    }, {
-      "id": "b3W7Ky_aaaY",
-      "title": "Beautiful Bash"
-    }, {
-      "id": "87MCT3Ekjlo",
-      "title": "Quickemu"
-    }, {
-      "id": "2hEde5WuCSY",
-      "title": "DISM++"
-    }, {
-      "id": "JUEBG-_U1vc",
-      "title": "Thumbnails in Windows"
-    }, {
-      "id": "oa3LDqV4-cc",
-      "title": "How to Build Linux Server to Full Desktop"
-    }, {
-      "id": "FCIA4YQHx9U",
-      "title": "How to Setup Hyper V on Windows"
-    }, {
-      "id": "Cp2o5gXPVR8",
-      "title": "Best Free Software for Windows"
-    }, {
-      "id": "TlMqdSiGcOg",
-      "title": "How to Optimize Windows 10 for Gaming and Performance"
-    }, {
-      "id": "Nz0c4d1lbMk",
-      "title": "Hosting Your Own Website for Free without a Server"
-    }, {
-      "id": "eUnVzJsINCI",
-      "title": "Install macOS on any PC | OpenCore Guide"
-    }, {
-      "id": "k9ErL9L6KIw",
-      "title": "Speed Up any Android Phone or Tablet"
-    }, {
-      "id": "8E6OT_QcHaU",
-      "title": "Speed Up Windows 10 in 2020"
-    }, {
-      "id": "4NudFYwxzwg",
-      "title": "Block Internet Access in Windows 10 Using Simplewall"
-    }, {
-      "id": "MHcuqCzAhWM",
-      "title": "Stacer - The Ultimate Linux System Optimizer and Monitoring"
-    }, {
-      "id": "4R0uqG4NXPA",
-      "title": "Linux Apps I Use Daily"
-    }, {
-      "id": "epfEDwDR_Rg",
-      "title": "Microsoft Will NEVER Switch to the Linux Kernel!"
-    }, {
-      "id": "PYOsevW3KdA",
-      "title": "Minimal Windows 10 Install | ISO Creation, Setup, and Config"
-    }, {
-      "id": "Z5vCWw3993M",
-      "title": "Station | One App to Rule Them All"
-    }, {
-      "id": "HlOY1ucz_DY",
-      "title": "How to Use NetPlan in Ubuntu 18.04"
-    }, {
-      "id": "qPEA6J9pjG8",
-      "title": "How to Set Up a Firewall Using Iptables | SSH Tarpit"
-    }, {
-      "id": "IfDUXZfDhEI",
-      "title": "Flatseal - The Essential Flatpak"
-    }, {
-      "id": "2hEde5WuCSY",
-      "title": "DISM++"
-    }, {
-      "id": "zGCv6aDDfP8",
-      "title": "This App changed my life!"
-    }
+    { "id": "6UQZ5oQg8XA", "title": "The Perfect Windows 11 Install" },
+    { "id": "ZgHX8jPuHjE", "title": "The Perfect System" }, 
+    { "id": "ju_BSNKeP6w", "title": "The Windows Utility - BIG Improvements" }, 
+    { "id": "Y35Prm8nG40", "title": "Custom Windows Images" }, 
+    { "id": "UICz1S1xuHo", "title": "AtlasOS Review" }, 
+    { "id": "HKB8RUWZIQA", "title": "5 Terminal Commands" }, 
+    { "id": "M2mMQfPGZsE", "title": "Windows Updates through PowerShell" }, 
+    { "id": "94VQvRpjfO8", "title": "Docker Guide" }, 
+    { "id": "XWo2gnNbeGQ", "title": "MacOS Docker" }, 
+    { "id": "6VbOLOuiHUI", "title": "Neovim is Better" }, 
+    { "id": "tXGVzMUsuE4", "title": "The Best Free Backup for EVERY Operating System" }, 
+    { "id": "WmOvg0MagW0", "title": "Extreme Windows | The Future of Gaming" }, 
+    { "id": "nxV0CPNeFxY", "title": "Browse the Web Better" }, 
+    { "id": "UvSLMzkog1g", "title": "Switching to Ubuntu" }, 
+    { "id": "s6YINpJb2dc", "title": "Shell - The Essential App" }, 
+    { "id": "b3W7Ky_aaaY", "title": "Beautiful Bash" }, 
+    { "id": "87MCT3Ekjlo", "title": "Quickemu" }, 
+    { "id": "2hEde5WuCSY", "title": "DISM++" }, 
+    { "id": "JUEBG-_U1vc", "title": "Thumbnails in Windows" }, 
+    { "id": "oa3LDqV4-cc", "title": "How to Build Linux Server to Full Desktop" }, 
+    { "id": "FCIA4YQHx9U", "title": "How to Setup Hyper V on Windows" }, 
+    { "id": "Cp2o5gXPVR8", "title": "Best Free Software for Windows" }, 
+    { "id": "TlMqdSiGcOg", "title": "How to Optimize Windows 10 for Gaming and Performance" }, 
+    { "id": "Nz0c4d1lbMk", "title": "Hosting Your Own Website for Free without a Server" }, 
+    { "id": "eUnVzJsINCI", "title": "Install macOS on any PC | OpenCore Guide" }, 
+    { "id": "k9ErL9L6KIw", "title": "Speed Up any Android Phone or Tablet" }, 
+    { "id": "8E6OT_QcHaU", "title": "Speed Up Windows 10 in 2020" }, 
+    { "id": "4NudFYwxzwg", "title": "Block Internet Access in Windows 10 Using Simplewall" }, 
+    { "id": "MHcuqCzAhWM", "title": "Stacer - The Ultimate Linux System Optimizer and Monitoring" }, 
+    { "id": "4R0uqG4NXPA", "title": "Linux Apps I Use Daily" }, 
+    { "id": "epfEDwDR_Rg", "title": "Microsoft Will NEVER Switch to the Linux Kernel!" }, 
+    { "id": "PYOsevW3KdA", "title": "Minimal Windows 10 Install | ISO Creation, Setup, and Config" }, 
+    { "id": "Z5vCWw3993M", "title": "Station | One App to Rule Them All" }, 
+    { "id": "HlOY1ucz_DY", "title": "How to Use NetPlan in Ubuntu 18.04" }, 
+    { "id": "qPEA6J9pjG8", "title": "How to Set Up a Firewall Using Iptables | SSH Tarpit" }, 
+    { "id": "IfDUXZfDhEI", "title": "Flatseal - The Essential Flatpak" }, 
+    { "id": "zGCv6aDDfP8", "title": "This App changed my life!" }
   ]
 }
 

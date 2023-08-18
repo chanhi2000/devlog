@@ -664,5 +664,10 @@
     "desc": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
     "topics": ["dns", "kubernetes", "route53", "aws", "ingress", "gcp", "dns-record", "clouddns", "external-dns", "k8s-sig-network", "dns-providers", "dns-servers", "dns-controller"],
     "officialSite": ""
+  }, {
+    "repo": "koyeb/koyeb-cli",
+    "desc": "Koyeb cli",
+    "topics": [],
+    "officialSite": ""
   }
 ]

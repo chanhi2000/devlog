@@ -706,7 +706,7 @@
     "officialSite": "https://dexie.org"
   }, {
     "repo": "documenso/documenso",
-    "desc": "Document Signing as it should be - open and shaped by its community.",
+    "desc": "The Open Source DocuSign Alternative.",
     "topics": ["open-source", "typescript", "signing", "nextjs", "postgresql", "self-hosted", "prisma", "pades-standard", "pdf-signature", "next-auth", "pdf-sign", "document-signing"],
     "officialSite": "https://documenso.com"
   }, {
@@ -1258,5 +1258,15 @@
     "desc": "Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.",
     "topics": ["react", "nodejs", "games", "browser", "reactjs", "engine", "nextjs", "mmo", "browser-game", "mmorpg-game", "mmorpg-server"],
     "officialSite": "https://www.biomes.gg"
+  }, {
+    "repo": "a16z-infra/ai-town",
+    "desc": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
+    "topics": [],
+    "officialSite": "https://convex.dev/ai-town"
+  }, {
+    "repo": "smol-ai/GodMode",
+    "desc": "AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.",
+    "topics": ["electron", "menubar", "google", "bard", "chatgpt"],
+    "officialSite": "https://smol.ai"
   }
 ]

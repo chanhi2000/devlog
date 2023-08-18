@@ -2,46 +2,23 @@
   "channel": {
     "id": "MongoDB",
     "name": "MongoDB",
-    "profile": "https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MNEsC8Wtd1Stf_OQYP-OBqVoveODo09vUT3WrEftmEA65X1zuJ5QOOJnOWAucqgedq-3qA-JWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "1d_G8jr0KJE",
-      "title": "Exploring the MongoDB Extension for Visual Studio Code (VS Code)"
-    }, {
-      "id": "_0RlVAM2THk",
-      "title": "Python Development Made Easy: How to Set Up a Virtual Environment"
-    }, {
-      "id": "gE88L4iJ0Zk",
-      "title": "Azure Cloud Connect - Quick and Easy Application Deployments on Azure App Service with MongoDB"
-    }, {
-      "id": "YixtWTGUyFk",
-      "title": "Building a Real-Time Web App with MongoDB Atlas App Services"
-    }, {
-      "id": "_0RlVAM2THk",
-      "title": "Python Development Made Easy: How to Set Up a Virtual Environment"
-    }, {
-      "id": "04NHVNLU3nc",
-      "title": "Deploy All of Your Projects Free on MongoDB Atlas"
-    }, {
-      "id": "1d_G8jr0KJE",
-      "title": "Exploring the MongoDB Extension for Visual Studio Code (VS Code)"
-    }, {
-      "id": "xiowCksSKpk",
-      "title": "Create a Twitter Clone using Next.js, MongoDB, Auth0, &  Deploy to Vercel"
-    }, {
-      "id": "WF2JRB9Ccjc",
-      "title": "Server Side Swift with MongoDB and Vapor"
-    }, {
-      "id": "vLetdH5cnEU",
-      "title": "MongoDB Atlas quick start with `mongocli` | Demo"
-    }, {
-      "id": "sDHNyDQOQvA",
-      "title": "Realm Mobile (Sync)"
-    }, {
-      "id": "gzyNfNSjCMw",
-      "title": "Intro to MongoDB for Developers"
-    }
+    { "id": "21gamtkz8II", "title": "The Index: Serverless with Kotlin, Events, much more!" },
+    { "id": "1d_G8jr0KJE", "title": "Exploring the MongoDB Extension for Visual Studio Code (VS Code)" }, 
+    { "id": "_0RlVAM2THk", "title": "Python Development Made Easy: How to Set Up a Virtual Environment" }, 
+    { "id": "gE88L4iJ0Zk", "title": "Azure Cloud Connect - Quick and Easy Application Deployments on Azure App Service with MongoDB" }, 
+    { "id": "YixtWTGUyFk", "title": "Building a Real-Time Web App with MongoDB Atlas App Services" }, 
+    { "id": "_0RlVAM2THk", "title": "Python Development Made Easy: How to Set Up a Virtual Environment" }, 
+    { "id": "04NHVNLU3nc", "title": "Deploy All of Your Projects Free on MongoDB Atlas" }, 
+    { "id": "1d_G8jr0KJE", "title": "Exploring the MongoDB Extension for Visual Studio Code (VS Code)" }, 
+    { "id": "xiowCksSKpk", "title": "Create a Twitter Clone using Next.js, MongoDB, Auth0, &  Deploy to Vercel" }, 
+    { "id": "WF2JRB9Ccjc", "title": "Server Side Swift with MongoDB and Vapor" }, 
+    { "id": "vLetdH5cnEU", "title": "MongoDB Atlas quick start with `mongocli` | Demo" }, 
+    { "id": "sDHNyDQOQvA", "title": "Realm Mobile (Sync)" }, 
+    { "id": "gzyNfNSjCMw", "title": "Intro to MongoDB for Developers" }
   ]
 }
 

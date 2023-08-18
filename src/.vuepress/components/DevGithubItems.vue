@@ -117,10 +117,11 @@ export default {
       
       const GITHUB_BASE_URL = "https://github.com";
       this.isLoading = false;
-      this.items = fetchedItems.filter((e) => 
-        !repoNamesToExclude.includes(e.repo.link) || 
-        !repoDescsToExclude.includes(e.repo.description)
-      ).map((e) => {
+      this.items = fetchedItems.filter((e) => {
+        console.log(`${e.repo.link} : \n ${e.repo.description}`)
+        return !repoNamesToExclude.includes(e.repo.link) || 
+        !repoDescsToExclude.includes(e.repo.description);
+      }).map((e) => {
         let hasLanguage = e.language != null;
         let l = (hasLanguage)  
           ? {

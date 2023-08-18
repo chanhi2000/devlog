@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/EdJtBx1NStcFnIHHXUt2ALhQ5RKtCXDIRfW5ArTONOAJm9tbJUA9Op20tOuMkwSH6gV0VOVctw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xhroAm5XvU0", "title": "The Algorithm that Changed Video Compression FOREVER" },
     { "id": "Z60f2g-COJY", "title": "I Made a FAST File Explorer (in Rust)" }    
   ]
 }

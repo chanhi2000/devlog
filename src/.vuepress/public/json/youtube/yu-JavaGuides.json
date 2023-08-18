@@ -1,57 +1,27 @@
 {
-    "channel": {
-        "id": "JavaGuides",
-        "name": "Java Guides",
-        "profile": "https://yt3.googleusercontent.com/RR2DVq45b5FeqMg5xMgI8ar1cZJ65p1tAyS1SKDVGp1Vblf-cDyP3xrZXjIi6ue7Z8OcuDW0=s176-c-k-c0x00ffffff-no-rj"
-    },
-    "videos": [
-      {
-        "id": "PAU5edXr2Xo",
-        "title": "Spring Boot RabbitMQ Tutorial - #9 - Configure RabbitMQ in Spring Boot Application"
-      }, {
-        "id": "1PzD85OONTA",
-        "title": "Spring Boot RabbitMQ Tutorial - #6 - Explore RabbitMQ using RabbitMQ Management UI"
-      }, {
-        "id": "2Re6eS2hzwE",
-        "title": "Spring Boot RabbitMQ Tutorial - #5 - Install and Setup RabbitMQ using Docker"
-      }, {
-        "id": "aWnT_BxUtU4",
-        "title": "Spring Boot RabbitMQ Tutorial - #3 - RabbitMQ Core Concepts | Explained with Diagrams"
-      }, {
-        "id": "th3uIP7D8nk",
-        "title": "Spring Boot Restful Web Services Tutorial | Full Course ✅ | REST API | Spring Boot for Beginners"
-      }, {
-        "id": "XkVpb_8IPUM",
-        "title": "Spring Boot React Full Stack | Full Course ✅"
-      }, {
-        "id": "3RoMHb-LaUA",
-        "title": "React Hooks + Spring Boot CRUD Full Stack App - 19 - Build Delete Employee REST API"
-      }, {
-        "id": "gYrAvZCPJLQ",
-        "title": "React Hooks + Spring Boot CRUD Full Stack App - 9 - Adding Header and Footer to React App"
-      }, {
-        "id": "VR1zoNomG3w",
-        "title": "5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥"
-      }, {
-        "id": "djRh94IWYYo",
-        "title": "Take Benefits of My Java Guides Blog and GitHub | My Blog Walkthrough"
-      }, {
-        "id": "DzYyzmP4m5c",
-        "title": "Registration Form using JSP + Servlet + JDBC + MySQL Database Example"
-      }, {
-        "id": "hxZuLn_DHoM",
-        "title": "Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication"
-      }, {
-        "id": "fUsKNjGO4Is",
-        "title": "Spring Core: Why Constructor Based Dependency Injection is Recommended?"
-      }, {
-        "id": "hxZuLn_DHoM",
-        "title": "Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication"
-      }, {
-        "id": "JrkHCGDZB3w",
-        "title": "Spring & Spring Boot Annotations Series - #10  - `@PropertySource` and `@PropertySources` Annotations"
-      }
-    ]
+  "channel": {
+    "id": "JavaGuides",
+    "name": "Java Guides",
+    "profile": "https://yt3.googleusercontent.com/RR2DVq45b5FeqMg5xMgI8ar1cZJ65p1tAyS1SKDVGp1Vblf-cDyP3xrZXjIi6ue7Z8OcuDW0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-uXe4fUjwNo2i-VAS2e59CwYReSd2vt1WOm142CLOiTZpUyVWpb46xkdE1HLH_HFhYRLvRqA9w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PAU5edXr2Xo", "title": "Spring Boot RabbitMQ Tutorial - #9 - Configure RabbitMQ in Spring Boot Application" }, 
+    { "id": "1PzD85OONTA", "title": "Spring Boot RabbitMQ Tutorial - #6 - Explore RabbitMQ using RabbitMQ Management UI" }, 
+    { "id": "2Re6eS2hzwE", "title": "Spring Boot RabbitMQ Tutorial - #5 - Install and Setup RabbitMQ using Docker" }, 
+    { "id": "aWnT_BxUtU4", "title": "Spring Boot RabbitMQ Tutorial - #3 - RabbitMQ Core Concepts | Explained with Diagrams" }, 
+    { "id": "th3uIP7D8nk", "title": "Spring Boot Restful Web Services Tutorial | Full Course ✅ | REST API | Spring Boot for Beginners" }, 
+    { "id": "XkVpb_8IPUM", "title": "Spring Boot React Full Stack | Full Course ✅" }, 
+    { "id": "3RoMHb-LaUA", "title": "React Hooks + Spring Boot CRUD Full Stack App - 19 - Build Delete Employee REST API" }, 
+    { "id": "gYrAvZCPJLQ", "title": "React Hooks + Spring Boot CRUD Full Stack App - 9 - Adding Header and Footer to React App" }, 
+    { "id": "VR1zoNomG3w", "title": "5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥" }, 
+    { "id": "djRh94IWYYo", "title": "Take Benefits of My Java Guides Blog and GitHub | My Blog Walkthrough" }, 
+    { "id": "DzYyzmP4m5c", "title": "Registration Form using JSP + Servlet + JDBC + MySQL Database Example" }, 
+    { "id": "hxZuLn_DHoM", "title": "Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication" }, 
+    { "id": "fUsKNjGO4Is", "title": "Spring Core: Why Constructor Based Dependency Injection is Recommended?" }, 
+    { "id": "hxZuLn_DHoM", "title": "Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication" }, 
+    { "id": "JrkHCGDZB3w", "title": "Spring & Spring Boot Annotations Series - #10  - `@PropertySource` and `@PropertySources` Annotations" }
+  ]
 }
 
 

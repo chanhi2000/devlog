@@ -2,12 +2,10 @@
   "channel": {
     "id": "oracledevs",
     "name": "Oracle Developers",
-    "profile": "https://yt3.googleusercontent.com/lcKLS7QrArOgeowhP4w-e-tshFE_K41O5M0xzoP7gGWcyG9ctskTzU20NDYiRZKf-4oJ1C30qQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/lcKLS7QrArOgeowhP4w-e-tshFE_K41O5M0xzoP7gGWcyG9ctskTzU20NDYiRZKf-4oJ1C30qQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7yjUWCNiEUD5kxAhTUgPzvbH5LZIlkvaxwCFJ_3lp4bjxaa14J7RrALWo_8pt9TyixJxCcDzqZ4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "jdSoMy-kEK0",
-      "title": "Supporting Multitenancy Applications with Java EE"
-    }
+    { "id": "jdSoMy-kEK0", "title": "Supporting Multitenancy Applications with Java EE" }
   ]
 }

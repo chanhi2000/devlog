@@ -149,11 +149,11 @@ meta:
 
 ---
 
-## Green Learner
+## Codefarm
 
-<MyYouTubeItems jsonName="yu-GreenLearner" />
+<MyYouTubeItems jsonName="yu-codefarm0" />
 
-<!-- Green Learner -->
+<!-- Codefarm -->
 
 ---
 
@@ -242,14 +242,6 @@ meta:
 <MyYouTubeItems jsonName="yu-user-uc2wv8zw3h" />
 
 <!-- 전자정부 표준프레임워크 센터 -->
-
----
-
-## 토비의 스프링
-
-<MyYouTubeItems jsonName="yu-tobyspring" />
-
-<!-- 토비의 스프링 -->
 
 ---
 

@@ -494,4 +494,12 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
+## Confreaks
+
+<MyYouTubeItems jsonName="yu-Confreaks" />
+
+<!-- Confreaks -->
+
+---
+
 <TagLinks />

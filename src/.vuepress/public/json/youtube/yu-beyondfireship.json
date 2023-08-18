@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/d8uUfoq_KYPKWLNtrGM-f9kDpionO_wdlQvO0oOIX9F4qEnxXtxSTTBTYkBgJeiPb0MCFGMQAw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-JE8P2TiJEg", "title": "PROOF JavaScript is a Multi-Threaded language" },
     { "id": "-uN1Q98UMO4", "title": "Most overpowered way to build mobile apps?" }, 
     { "id": "4QN1BzxF8wM", "title": "I tried 8 different Postgres ORMs" }, 
     { "id": "shWEfRlmb6g", "title": "I built a fullstack PaLM AI app in just 2 minutes" }, 
@@ -16,6 +17,5 @@
     { "id": "UbOaAtHWidc", "title": "The easiest realtime app I’ve ever built" }, 
     { "id": "TGe3pS5LqEw", "title": "How to make Eyeballs that Follow You Around" }, 
     { "id": "T33NN_pPeNI", "title": "Subtle, yet Beautiful Scroll Animations" }
- 
   ]
 }

@@ -2,66 +2,29 @@
   "channel": {
     "id": "Mukeshotwani",
     "name": "Mukesh otwani",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOoFA5hmkn0JygnlqhH3m7IlU0BiNgrYlE6VRclGQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOoFA5hmkn0JygnlqhH3m7IlU0BiNgrYlE6VRclGQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Z9BcqOh-yc6CGwOJM2btL6Uira8ZFw5O_O36F7kB0mDXsKPN0ko5nowPT64FPRvWQvLApTq9fw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "-m-4_DRLmrc",
-      "title": "Why Jenkins Not Working On Localhost After Closing CMD - Solution Provided"
-    }, {
-      "id": "gRS8nV8ulZk",
-      "title": "Cross Browser Testing In WebdriverIO | Parallel Execution In WebdriverIO"
-    }, {
-      "id": "ICQQ01kLAh0",
-      "title": "Issue Fixed -WebDriverIO Test Not Running In New System"
-    }, {
-      "id": "-4iMrktR4ZQ",
-      "title": "How To Create Jenkins Job With Parameter | Jenkins Parameterized Build"
-    }, {
-      "id": "tZ8u0sPaUaI",
-      "title": "How To Write First JMeter Script For Load Testing With Example"
-    }, {
-      "id": "p9NpddaIZWs",
-      "title": "#7 How To Handle Dropdown with Select In Selenium With Python- Selenium Webdriver Tutorial  Python"
-    }, {
-      "id": "iR0gfRGjW98",
-      "title": "What Is Implicit Wait In Selenium WebDriver"
-    }, {
-      "id": "P4bbMJKhvuU",
-      "title": "What Is PageLoadTimeOut In Selenium WebDriver"
-    }, {
-      "id": "4ShN7TbJVKI",
-      "title": "What Is JavaScriptExecutor In Selenium Webdriver"
-    }, {
-      "id": "StehOKBOzbI",
-      "title": "How To Perform Keyboard Events in Selenium Webdriver"
-    }, {
-      "id": "R8TfTgLhrUk",
-      "title": "How To Perform Right Click and Double Click in Selenium WebDriver"
-    }, {
-      "id": "-VG20jODDhE",
-      "title": "What Is Actions Class in Selenium Webdriver"
-    }, {
-      "id": "pBeOEP78rf4",
-      "title": "7-Getting Started Cucumber 4 with Serenity Framework"
-    }, {
-      "id": "w_iPCT1ETO4",
-      "title": "Page Object Model in Selenium Webdriver Step by Step Guide"
-    }, {
-      "id": "hbvO-53aFC4",
-      "title": "How to generate reports in Cucumber"
-    }, {
-      "id": "sbBdj4zIMqY",
-      "title": "How to Read Excel File in Selenium Webdriver Using Apache POI"
-    }, {
-      "id": "bo46D8uHXTs",
-      "title": "How to pass parameters in Cucumber script"
-    }, {
-      "id": "HqRUEPx822o",
-      "title": "How To Automate Mobile Application using TestProject- Mobile Automation Tutorial"
-    }, {
-      "id": "ahdAQE1FWDI",
-      "title": "How To Automate Desktop Applications In Collaboration With Joe Glines"
-    }
+    { "id": "bjelFjcY_o8", "title": "Jenkins Tutorial For Beginners | QA | Crash Course" },
+    { "id": "-m-4_DRLmrc", "title": "Why Jenkins Not Working On Localhost After Closing CMD - Solution Provided" }, 
+    { "id": "gRS8nV8ulZk", "title": "Cross Browser Testing In WebdriverIO | Parallel Execution In WebdriverIO" }, 
+    { "id": "ICQQ01kLAh0", "title": "Issue Fixed -WebDriverIO Test Not Running In New System" }, 
+    { "id": "-4iMrktR4ZQ", "title": "How To Create Jenkins Job With Parameter | Jenkins Parameterized Build" }, 
+    { "id": "tZ8u0sPaUaI", "title": "How To Write First JMeter Script For Load Testing With Example" }, 
+    { "id": "p9NpddaIZWs", "title": "#7 How To Handle Dropdown with Select In Selenium With Python- Selenium Webdriver Tutorial  Python" }, 
+    { "id": "iR0gfRGjW98", "title": "What Is Implicit Wait In Selenium WebDriver" }, 
+    { "id": "P4bbMJKhvuU", "title": "What Is PageLoadTimeOut In Selenium WebDriver" }, 
+    { "id": "4ShN7TbJVKI", "title": "What Is JavaScriptExecutor In Selenium Webdriver" }, 
+    { "id": "StehOKBOzbI", "title": "How To Perform Keyboard Events in Selenium Webdriver" }, 
+    { "id": "R8TfTgLhrUk", "title": "How To Perform Right Click and Double Click in Selenium WebDriver" }, 
+    { "id": "-VG20jODDhE", "title": "What Is Actions Class in Selenium Webdriver" }, 
+    { "id": "pBeOEP78rf4", "title": "7-Getting Started Cucumber 4 with Serenity Framework" }, 
+    { "id": "w_iPCT1ETO4", "title": "Page Object Model in Selenium Webdriver Step by Step Guide" }, 
+    { "id": "hbvO-53aFC4", "title": "How to generate reports in Cucumber" }, 
+    { "id": "sbBdj4zIMqY", "title": "How to Read Excel File in Selenium Webdriver Using Apache POI" }, 
+    { "id": "bo46D8uHXTs", "title": "How to pass parameters in Cucumber script" }, 
+    { "id": "HqRUEPx822o", "title": "How To Automate Mobile Application using TestProject- Mobile Automation Tutorial" }, 
+    { "id": "ahdAQE1FWDI", "title": "How To Automate Desktop Applications In Collaboration With Joe Glines" }
   ]
 }

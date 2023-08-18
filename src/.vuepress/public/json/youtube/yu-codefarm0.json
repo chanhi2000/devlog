@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "codefarm0",
+    "name": "Codefarm",
+    "profile": "https://yt3.googleusercontent.com/w1mQrJS0DUKRGj3U80Zbe5tUelGJauJuai1LTswE2z90t_XDeGzdwkbQzvxggfaHqdt2cmx1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6RX7RpVKk6xJk59iJTAAEds6mbc3rwkocQPVCWwGEZ_StvrFL9cB9mxstgy3q5QzZMBhf2b7Dec=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "14jVFPseQKI", "title": "Advanced Kafka Configuration for Specific Usecase || Chapter 1 || Day 10" }, 
+    { "id": "z5MyLwf5nVc", "title": "Writing Java Producer Client for Kafka || Chapter 1 || Day 9" }, 
+    { "id": "v8C_NL0eDhs", "title": "Java Project Setup for Kafka Demo || Chapter 1 || Day 9" }, 
+    { "id": "QFBNKrK5zt4", "title": "Kafka Use Cases || Chapter 1 || Day 1" }, 
+    { "id": "DXmC-M-qY2g", "title": "6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" }, 
+    { "id": "GUHOzE3viu8", "title": "#17 Writing Integration Tests for Microservices" }, 
+    { "id": "D9e3ODqqlsE", "title": "9 WireMock - Stateful Behavior Simulation" }, 
+    { "id": "0tU3dhIymck", "title": "10 WireMock - Response Templating" }, 
+    { "id": "DXmC-M-qY2g", "title": "6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" }
+  ]
+}
+
+

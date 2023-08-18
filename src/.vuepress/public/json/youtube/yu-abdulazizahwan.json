@@ -2,18 +2,13 @@
   "channel": {
     "id": "abdulazizahwan",
     "name": "Abdul Aziz Ahwan",
-    "profile": "https://yt3.googleusercontent.com/V1fBK_hOJ1R5IIyDu4BAcU2kboASw5V-zOpAQcCtpsApbq3iMkVYPoXJjChcoE6e3SSPdKT4hQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/V1fBK_hOJ1R5IIyDu4BAcU2kboASw5V-zOpAQcCtpsApbq3iMkVYPoXJjChcoE6e3SSPdKT4hQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/b0rPQbfhwl924TOkmHLm7MUVUCN1Rq_CvJR9O5pn98Vn3cUaIXI_PImbcCgBvxva-JzjjnQMpsI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "N9WLxEFloVY",
-      "title": "Flutter UI Tutorial - Real Estate Home Rent App UI Design with Drawer Animation (Figma to Flutter)"
-    }, {
-      "id": "CYlyvOFeJFY",
-      "title": "Designing Modern Courier Delivery App UI Design Using Lottie Animation Library - Android Studio"
-    }, {
-      "id": "dRxGeGvqsJg",
-      "title": "Designing a Modern Flat Desktop Application of a University Student Dashboard in C# VB NET"
-    }
+    { "id": "NeUegHLTrD8", "title": "How to Deploy Node.js Next.js Application on a VPS Ubuntu Server using UltaHost | Secure & Cheap" }, 
+    { "id": "N9WLxEFloVY", "title": "Flutter UI Tutorial - Real Estate Home Rent App UI Design with Drawer Animation (Figma to Flutter)" }, 
+    { "id": "CYlyvOFeJFY", "title": "Designing Modern Courier Delivery App UI Design Using Lottie Animation Library - Android Studio" }, 
+    { "id": "dRxGeGvqsJg", "title": "Designing a Modern Flat Desktop Application of a University Student Dashboard in C# VB NET" }
   ]
 }
