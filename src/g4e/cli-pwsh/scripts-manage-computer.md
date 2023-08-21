@@ -838,7 +838,7 @@ This PowerShell script enables the writing of crash dumps.
 
 ::: tabs
 
-@tab Parameters
+@tab:active Parameters
 
 ```powershell
 PS> ./enable-crash-dumps.ps1 [<CommonParameters>]
@@ -2746,6 +2746,427 @@ try {
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`list-services.ps1`
 
+```card
+title: list-services.ps1
+desc: Lists the services on the local computer.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-services.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists all services installed on the local computer.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-services.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-services.ps1
+# Status   Name               DisplayName
+# ------   ----               -----------
+# Running  AarSvc_886c2       Agent Activation Runtime_886c2
+# ...
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists the installed services
+.DESCRIPTION
+	This PowerShell script lists all services installed on the local computer.
+.EXAMPLE
+	PS> ./list-services.ps1
+
+	Status   Name               DisplayName
+	------   ----               -----------
+	Running  AarSvc_886c2       Agent Activation Runtime_886c2
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-Service
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-system-info.ps1`
+
+```card
+title: list-system-info.ps1
+desc: Lists system information on the local computer.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-system-info.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists system information of the local computer.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-system-info.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-system-info.ps1
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists system information of the local computer
+.DESCRIPTION
+	This PowerShell script lists system information of the local computer.
+.EXAMPLE
+	PS> ./list-system-info.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+# RAM
+$RAM = Get-WmiObject -Query "SELECT TotalVisibleMemorySize, FreePhysicalMemory FROM Win32_OperatingSystem"
+
+$totalRAM = [math]::Round($RAM.TotalVisibleMemorySize/1MB, 2)
+$freeRAM = [math]::Round($RAM.FreePhysicalMemory/1MB, 2)
+$usedRAM = [math]::Round(($RAM.TotalVisibleMemorySize - $RAM.FreePhysicalMemory)/1MB, 2)
+
+# Operating System
+$OS = Get-WmiObject -class Win32_OperatingSystem
+
+$OS_Name = $OS.Caption
+$OS_InstallDate = $OS.ConvertToDateTime($OS.InstallDate)
+$OS_LastBootUpTime = $OS.ConvertToDateTime($OS.LastBootUpTime)
+$OS_Architecture = $OS.OSArchitecture
+$OS_SystemDrive = $OS.SystemDrive
+$OS_WindowsDirectory = $OS.WindowsDirectory
+$OS_BuildNumber = $OS.BuildNumber
+$OS_SerialNumber = $OS.SerialNumber
+$OS_Version = $OS.Version
+$OS_Manufacturer = $OS.Manufacturer
+
+# Computer System
+$CS = Get-WmiObject -class Win32_ComputerSystem
+
+$CS_Name = $CS.Name
+$CS_Owner = $CS.PrimaryOwnerName
+
+# CPU
+$CPU = Get-WmiObject -class Win32_Processor
+
+$CPU_Name = $CPU.Name
+$CPU_Manufacturer = $CPU.Manufacturer
+$CPU_MaxClockSpeed = $CPU.MaxClockSpeed / 1000
+$CPU_Used = (Get-WmiObject win32_processor).LoadPercentage
+$CPU_Free = 100 - $CPU_Used
+
+# Disk
+$Disk = Get-WmiObject -class Win32_LogicalDisk -Filter "DeviceID='C:'"
+$Disk_ID = $Disk.DeviceID
+$Disk_TotalSpace = [math]::Round($Disk.Size/1GB, 2)
+$Disk_FreeSpace = [math]::Round($Disk.FreeSpace/1GB, 2)
+$Disk_UsedSpace = [math]::Round(($Disk.Size - $Disk.FreeSpace)/1GB, 2)
+
+# System Info
+$systeminfo = systeminfo
+
+# IP Config
+$ipconfig = ipconfig
+
+# Driver Query
+$driverquery = driverquery
+
+# Running Services
+$netstart = net start
+
+# Create info object
+$infoprop = @{
+    'RAM_total'= $totalRAM;
+    'RAM_free'= $freeRAM;
+    'RAM_used'= $usedRAM;
+    'OS_Name'= $OS_Name;
+    'OS_InstallDate'= $OS_InstallDate;
+    'OS_LastBootUpTime'= $OS_LastBootUpTime;
+    'OS_Architecture'= $OS_Architecture;
+    'OS_SystemDrive'= $OS_SystemDrive;
+    'OS_WindowsDirectory'= $OS_WindowsDirectory;
+    'OS_BuildNumber'= $OS_BuildNumber;
+    'OS_SerialNumber'= $OS_SerialNumber;
+    'OS_Version'= $OS_Version;
+    'OS_Manufacturer'= $OS_Manufacturer;
+    'CS_Name'= $CS_Name;
+    'CS_Owner'= $CS_Owner;
+    'CPU_Name'= $CPU_Name;
+    'CPU_Manufacturer'= $CPU_Manufacturer;
+    'CPU_MaxClockSpeed'= $CPU_MaxClockSpeed;
+    'CPU_Used'= $CPU_Used;
+    'CPU_Free'= $CPU_Free;
+    'Disk_ID'= $Disk_ID;
+    'Disk_TotalSpace'= $Disk_TotalSpace;
+    'Disk_FreeSpace'= $Disk_FreeSpace;
+    'Disk_UsedSpace'= $Disk_UsedSpace;
+    'systeminfo'= $systeminfo;
+    'ipconfig'= $ipconfig;
+    'driverquery'= $driverquery;
+    'netstart'= $netstart;
+}
+
+$info = New-Object -TypeName PSObject -Prop $infoprop
+
+# Convert info to JSON
+$info = $info | ConvertTo-JSON
+
+# Output 
+$info
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-tasks.ps1`
+
+```card
+title: list-tasks.ps1
+desc: Lists all Windows scheduler tasks.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-tasks.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-system-info.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-tasks.ps1
+# TaskName                            State  TaskPath                                       
+# --------                            -----  --------
+# .NET Framework NGEN v4.0.30319      Ready  \Microsoft\Windows\.NET Framework\        
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists all scheduled tasks
+.DESCRIPTION
+	This PowerShell script lists all scheduled tasks.
+.EXAMPLE
+	PS> ./list-tasks.ps1
+
+	TaskName                            State  TaskPath                                       
+	--------                            -----  --------
+	.NET Framework NGEN v4.0.30319      Ready  \Microsoft\Windows\.NET Framework\             
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-ScheduledTask | Format-Table -property TaskName,State,TaskPath
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-timezone.ps1`
+
+```card
+title: list-timezone.ps1
+desc: Lists the current time zone details.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-timezone.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists the details of the current time zone.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-timezone.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-timezone
+# Id                         : Europe/Berlin
+# DisplayName                : (UTC+01:00) Central European Standard Time
+# ...
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists time zone details
+.DESCRIPTION
+	This PowerShell script lists the details of the current time zone.
+.EXAMPLE
+	PS> ./list-timezone
+
+	Id                         : Europe/Berlin
+	DisplayName                : (UTC+01:00) Central European Standard Time
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	[system.threading.thread]::currentThread.currentCulture = [system.globalization.cultureInfo]"en-US"
+	Get-Timezone 
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`list-timezones.ps1`
+
+```card
+title: list-timezones.ps1
+desc: Lists all time zones available.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-processes.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists all available time zones.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-timezones.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-timezones
+# Id                              DisplayName                            SupportsDaylight
+#                                                                               SavingTime
+# --                              -----------                            ----------------
+# Hawaiian Standard Time          (UTC-10:00) Hawaii                     False
+# ...
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists all available time zones
+.DESCRIPTION
+	This PowerShell script lists all available time zones.
+.EXAMPLE
+	PS> ./list-timezones
+
+	Id                              DisplayName                            SupportsDaylight
+                                                                               SavingTime
+	--                              -----------                            ----------------
+	Hawaiian Standard Time          (UTC-10:00) Hawaii                     False
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-Timezone -listavailable | Format-Table -property Id,DisplayName,SupportsDaylightSavingTime
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
 
 <TagLinks/>

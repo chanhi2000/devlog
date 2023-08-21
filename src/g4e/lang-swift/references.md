@@ -18,6 +18,8 @@ tags: ["references", "swift"]
 
 - [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
 
+---
+
 ## Learning
 
 - [Swift by Sundell](https://swiftbysundell.com/latest)
@@ -128,6 +130,18 @@ tags: ["references", "swift"]
 ## Matt Sephton
 
 - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app)
+
+---
+
+## Hugging Face
+
+- [Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](https://huggingface.co/blog/swift-coreml-llm)
+
+---
+
+## Augmented Code
+
+- [Applying metal shader to text in SwiftUI](https://augmentedcode.io/2023/08/07/applying-metal-shader-to-text-in-swiftui)
 
 ---
 

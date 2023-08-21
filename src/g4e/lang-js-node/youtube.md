@@ -1107,6 +1107,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## DigitalOcean
+
+<MyYouTubeItems jsonName="yu-DigitalOcean" />
+
+<!-- DigitalOcean -->
+
+---
+
 ## 옥탑방개발자
 
 <MyYouTubeItems jsonName="yu-jj362choi" />
@@ -1283,4 +1291,27 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Rocketseat
+
+<MyYouTubeItems jsonName="yu-rocketseat" />
+
+<!-- Rocketseat -->
+
+---
+
+## Huakun
+
+<MyYouTubeItems jsonName="yu-huakun" />
+
+<!-- Huakun -->
+
+---
+
+## Justin Brooks
+
+<MyYouTubeItems jsonName="yu-codingwithjustin7995" />
+
+<!-- Justin Brooks -->
+
+---
 <TagLinks />

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "TheSQLHero",
+    "name": "The SQL Hero",
+    "profile": "https://yt3.googleusercontent.com/0cAGpCnEhZ2-2UZ6mnTeimR3UVZkyMiM5WTe8AaXp2VDslqxBHxed9hIwF80a5x6HQSybxuD=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/41z0NA7QEWeDluLe29-ovajoPovtR4OxZcH6sisWVS2xwGAqYn52SUmkj7rjwh3OdkusEsUt=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t9Dkh_3CXUs", "title": "Smart intern🤓 #sql #char #datascience #string #dataengineering #dataanalytics #sqlserver  #data" }, 
+    { "id": "IGpaIgkuXgk", "title": "This is gold 🥇 #sql #trigger #datascience #best #dataengineering #dataanalytics #sqlserver  #data" }, 
+    { "id": "HErOmzTDe78", "title": "Must know!!!  #sql #numeric #datascience #condition #dataengineering #sqlserver  #data" }
+  ]
+}

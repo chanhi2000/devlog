@@ -218,6 +218,22 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## 아반투 (인공지능 및 안드로이드 강의)
+
+<MyYouTubeItems jsonName="yu-abantu_AI" />
+
+<!-- 아반투 (인공지능 및 안드로이드 강의) -->
+
+----
+
+## 김왼손의 왼손코딩
+
+<MyYouTubeItems jsonName="yu-leftykhim" />
+
+<!-- 김왼손의 왼손코딩 -->
+
+---
+
 ## 감자나라ai
 
 <MyYouTubeItems jsonName="yu-potato_ai" />

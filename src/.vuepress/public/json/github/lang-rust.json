@@ -1,5 +1,10 @@
 [
   {
+    "repo": "rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "topics": ["language", "rust", "compiler", "hacktoberfest"],
+    "officialSite": "https://www.rust-lang.org"
+  }, {
     "repo": "tauri-apps/tauri",
     "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "topics": [],
@@ -564,6 +569,21 @@
     "desc": "Serialization framework for Rust",
     "topics": ["rust", "serde", "derive", "no-std"],
     "officialSite": "https://serde.rs"
+  }, {
+    "repo": "p2panda/p2panda",
+    "desc": "All the things a panda needs",
+    "topics": ["rust", "npm", "typescript", "wasm", "cargo", "utility-library"],
+    "officialSite": ""
+  }, {
+    "repo": "clockworklabs/SpacetimeDB",
+    "desc": "Multiplayer at the speed of light",
+    "topics": ["database", "smart-contracts", "game-development", "relational-database", "relational", "dataoriented"],
+    "officialSite": "https://spacetimedb.com"
+  }, {
+    "repo": "prefix-dev/pixi",
+    "desc": "Package management made easy",
+    "topics": ["rust", "package-manager", "conda", "rust-lang", "package-management", "conda-environment", "package-manager-tool", "conda-packages", "python-virtual-environment"],
+    "officialSite": "https://pixi.sh"
   }
 ]
 

@@ -6,34 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "ie13kswrWu4",
-      "title": "Building WASM web UI with Rust"
-    }, {
-      "id": "OFsJywknqXo",
-      "title": "egui 0.22 + WebGPU #shorts"
-    }, {
-      "id": "ie13kswrWu4",
-      "title": "Building WASM web UI with Rust"
-    }, {
-      "id": "sWmlbMh3ol8",
-      "title": "Typst: The LaTeX alternative in Rust"
-    }, {
-      "id": "omUP1nKsV-I",
-      "title": "What technology you focus on matters"
-    }, {
-      "id": "hz5TvKnW1nI",
-      "title": "Snapshot testing in Rust with Insta"
-    }, {
-      "id": "yzKOqLsdQqA",
-      "title": "Introducing the tracing Rust crate | Advent of Code 2022 Day 20"
-    }, {
-      "id": "QAf45SUwyRc",
-      "title": "User Interfaces in Bevy 0.9 with Kayak UI"
-    }, {
-      "id": "omUP1nKsV-I",
-      "title": "What technology you focus on matters"
-    }
+    { "id": "XrR4VCKB0cQ", "title": "A Tour of Iced 0.10" },
+    { "id": "ie13kswrWu4", "title": "Building WASM web UI with Rust" }, 
+    { "id": "OFsJywknqXo", "title": "egui 0.22 + WebGPU #shorts" }, 
+    { "id": "ie13kswrWu4", "title": "Building WASM web UI with Rust" }, 
+    { "id": "sWmlbMh3ol8", "title": "Typst: The LaTeX alternative in Rust" }, 
+    { "id": "omUP1nKsV-I", "title": "What technology you focus on matters" }, 
+    { "id": "hz5TvKnW1nI", "title": "Snapshot testing in Rust with Insta" }, 
+    { "id": "yzKOqLsdQqA", "title": "Introducing the tracing Rust crate | Advent of Code 2022 Day 20" }, 
+    { "id": "QAf45SUwyRc", "title": "User Interfaces in Bevy 0.9 with Kayak UI" }, 
+    { "id": "omUP1nKsV-I", "title": "What technology you focus on matters" } 
   ]
 }
 

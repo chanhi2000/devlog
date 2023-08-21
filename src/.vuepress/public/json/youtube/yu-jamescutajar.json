@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "jamescutajar",
+    "name": "James Cutajar",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQgJHehWU2Jyd-iDmMcMipvs55FqUxIQW3inkbn=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Ch5VhJzaoaI", "title": "Apache Kafka in 6 minutes" }
+  ]
+}

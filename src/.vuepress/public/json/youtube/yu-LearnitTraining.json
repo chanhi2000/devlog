@@ -6,19 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/nnj00d4r_HTzk4fy6y9rOfx3sH5StdTkUa2qRw7WNzcyjgaQNAFpg_-BM4hUoMEYuGy7F0jINq0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "N5uceFT3pHU", "title": "The Learnit Minute - Select All #Word #Shorts" }, 
+    { "id": "t43tXfkZ8Oc", "title": "The Learnit Minute - Save #Word #Shorts" }, 
+    { "id": "DHAXZl78PAA", "title": "The Learnit Minute - Right Align #Word #Shorts" }, 
+    { "id": "rh-_hgGxpOc", "title": "The Learnit Minute - Return to Beginning of Document #Word #Shorts" }, 
     { "id": "G9aP6qlAxQo", "title": "The Learnit Minute - STDEYX Function #Excel #Shorts" }, 
     { "id": "44-muY3UyYA", "title": "The Learnit Minute - SUBTOTAL Function #Excel #Shorts" }, 
     { "id": "X7ShcCxOmns", "title": "Google Docs Full Course Tutorial (3+ Hours)" }, 
-    { "id": "44-muY3UyYA",  "title": "The Learnit Minute - SUBTOTAL Function #Excel #Shorts" }, 
-    { "id": "edn1hg1103Q",  "title": "The Learnit Minute - STDEVPA Function #Excel #Shorts" }, 
-    { "id": "6k86aEOMiAw",  "title": "The Learnit Minute - STDEVA Function #Excel #Shorts" }, 
-    { "id": "-2s8apI1Yfw",  "title": "The Learnit Minute - STDEV.S Function #Excel #Shorts" }, 
-    { "id": "z7jX0MME_ss",  "title": "The Learnit Minute - STDEV.P Function #Excel #Shorts" }, 
-    { "id": "G9aP6qlAxQo",  "title": "The Learnit Minute - STDEYX Function #Excel #Shorts" }, 
-    { "id": "t_QO-zLhqgU",  "title": "The Learnit Minute - SLOPE Function #Excel #Shorts" }, 
-    { "id": "unrBtXUWZ5E",  "title": "The Learnit Minute - SQRT Function #Excel #Shorts" }, 
-    { "id": "jDFLlKVeeRA",  "title": "The Learnit Minute - SLN Function #Excel #Shorts" }, 
-    { "id": "RTjZ5dlVerk",  "title": "The Learnit Minute - SKEW.P Function #Excel #Shorts" }, 
+    { "id": "44-muY3UyYA", "title": "The Learnit Minute - SUBTOTAL Function #Excel #Shorts" }, 
+    { "id": "edn1hg1103Q", "title": "The Learnit Minute - STDEVPA Function #Excel #Shorts" }, 
+    { "id": "6k86aEOMiAw", "title": "The Learnit Minute - STDEVA Function #Excel #Shorts" }, 
+    { "id": "-2s8apI1Yfw", "title": "The Learnit Minute - STDEV.S Function #Excel #Shorts" }, 
+    { "id": "z7jX0MME_ss", "title": "The Learnit Minute - STDEV.P Function #Excel #Shorts" }, 
+    { "id": "G9aP6qlAxQo", "title": "The Learnit Minute - STDEYX Function #Excel #Shorts" }, 
+    { "id": "t_QO-zLhqgU", "title": "The Learnit Minute - SLOPE Function #Excel #Shorts" }, 
+    { "id": "unrBtXUWZ5E", "title": "The Learnit Minute - SQRT Function #Excel #Shorts" }, 
+    { "id": "jDFLlKVeeRA", "title": "The Learnit Minute - SLN Function #Excel #Shorts" }, 
+    { "id": "RTjZ5dlVerk", "title": "The Learnit Minute - SKEW.P Function #Excel #Shorts" }, 
     { "id": "72JNvOpwn1g", "title": "Keynote Tutorial" }, 
     { "id": "urrfJgHwIJA", "title": "Python Logging - Tutorial" }, 
     { "id": "2CPfTMTr_QQ", "title": "Build Resilience & Adaptability" }, 
@@ -30,7 +34,6 @@
     { "id": "G05TrN7nt6k", "title": "Excel VBA Beginner Tutorial" }, 
     { "id": "72JNvOpwn1g", "title": "Keynote Tutorial" }, 
     { "id": "2dkm3LnqTr8", "title": "Power Automate Beginner Tutorial" }
- 
   ]
 }
 

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "rocketseat",
+    "name": "Rocketseat",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSghYasg6N8adLYx2BNMe7eVzBYrcnM5YguoLxxNg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-7E_1FHV1FPr_xsmULn3trFWVljCAqh0CwghQMpL8vU_dKPbIHazTSE-BUwY3YdhyZNWcr7SXkc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BYWHyKXhAn8", "title": "Image Recognition with AI (Clarifai + React Native)" },
+    { "id": "Z1aSHtPCAP4", "title": "Personalize sua figurinha da Copa com React Native" }, 
+    { "id": "9AO2hZJsHrs", "title": "CRUD com Node.JS, Express, TypeORM e PostgreSQL - #code/drops 113" }, 
+    { "id": "pAt91MWwwvg", "title": "Login Social com OAuth2 no React Native - Code/drops #109" }, 
+    { "id": "8dkwk6d8vdY", "title": "Autenticação local com BIOMETRIA no React Native" }
+  ]
+}

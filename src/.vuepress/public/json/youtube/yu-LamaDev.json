@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "aYzT06aQkGI", "title": "Full Stack Restaurant Food Ordering App Tutorial | Next.js 13 Project (Prisma PostgreSQL Stripe)" },
     { "id": "WlxcujsvcIY", "title": "TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners" },
     { "id": "gXlcwtS40LA", "title": "Restaurant Food Delivery App Design - React Next.js & Tailwind | Responsive Food Ordering Website" },    
     { "id": "FweHcYHkt9A", "title": "React Social Media App Design | Dark/Light Mode & Responsive & HTML CSS" }, 

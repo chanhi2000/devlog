@@ -211,7 +211,6 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
-
 ## KxCoding
 
 <MyYouTubeItems jsonName="yu-KxCoding" />
@@ -538,11 +537,25 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## Algolia
+
+<MyYouTubeItems jsonName="yu-Algolia" />
+
+<!-- Algolia -->
+
+---
+
+## BeyondOnesAndZeros
+
+<MyYouTubeItems jsonName="yu-BeyondOnesAndZeros" />
+
+<!-- BeyondOnesAndZeros -->
+   
+---
+
 ## Misc
 
-<!-- [The Swift Guy][yu-the-swift-guy] -->
 <!-- [Gary Tokman][yu-fgary] -->
-<YoutubeItem channelName="The Swift Guy" channelId="SebastianHenry" id="asB8PIveZsI" title="How To Read/Write To A Text File In Xcode 11 (Swift 5)" />
 <YoutubeItem channelName="Gary Tokman" channelId="fgary" id="-DSdeMlxlis" title="Making a billion dollar app in SwiftUI (tutorial) | Restaurant App Tutorial" />
 
 ---
@@ -552,5 +565,4 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 <!-- Misc -->
 [yu-learn-to-code-w-karoly-nyisztor]: https://www.youtube.com/@SwiftProgrammingTutorials
 [yu-auc-anz]: https://www.youtube.com/@auc_anz
-[yu-the-swift-guy]: https://www.youtube.com/@SebastianHenry
 [yu-fgary]: https://www.youtube.com/@fgary

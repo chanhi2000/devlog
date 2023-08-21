@@ -75,4 +75,12 @@ tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
 
 ---
 
+## Grant Collins
+
+<MyYouTubeItems jsonName="yu-collinsinfosec" />
+
+<!-- Grant Collins -->
+
+---
+
 <TagLinks />

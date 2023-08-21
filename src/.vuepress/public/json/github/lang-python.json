@@ -2403,5 +2403,30 @@
     "desc": "A modern yet simple multi-platform video cutter and joiner.",
     "topics": ["windows", "macos", "linux", "opengl", "ffmpeg", "cross-platform", "ubuntu", "mpv", "cython", "pyqt5", "arch-linux", "python3", "appimage", "qt5-gui", "video-editor"],
     "officialSite": ""
+  }, {
+    "repo": "facefusion/facefusion",
+    "desc": "Next generation face swapper and enhancer",
+    "topics": ["ai", "faceswap", "deepfake"],
+    "officialSite": "https://join.facefusion.io"
+  }, {
+    "repo": "kuafuai/DevOpsGPT",
+    "desc": "Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.",
+    "topics": [],
+    "officialSite": "https://www.kuafuai.net"
+  }, {
+    "repo": "zanfranceschi/rinha-de-backend-2023-q3",
+    "desc": "Rinha de Backend - Edição 2023 Q3",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "capjamesg/visionscript",
+    "desc": "A high-level programming language for using computer vision.",
+    "topics": ["computer-vision", "programming-languages", "visionscript"],
+    "officialSite": "https://visionscript.dev"
+  }, {
+    "repo": "CambioML/pykoi",
+    "desc": "pykoi: Active learning in one unified interface",
+    "topics": ["machine-learning", "ai", "feedback", "chatbot", "language-model", "llm", "rlhf"],
+    "officialSite": "https://www.cambioml.com/pykoi"
   }
 ]

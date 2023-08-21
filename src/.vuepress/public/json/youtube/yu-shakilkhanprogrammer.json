@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "shakilkhanprogrammer",
+    "name": "Shakil Khan Programmer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQn1dI2zYic8C-Y2VDgbI76Py4GsNOLoqT-T_6n4w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0s2FRW-mYyqTvomdWIO-HFUnFN4UrNG68pZhojXPV3I0mw-HDayO8ZzztR9XUVmP_pyoUlwd3w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2r9x8DNo3UU", "title": "PHP MVC Framework - Create Your Own Framework [Urdu/Hindi]" }
+  ]
+}

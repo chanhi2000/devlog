@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/71N2S-2z6mB22hI0hBu2vi9EruPtxGcUlDEwJOw_yiIRz9JVjbiljQ-uYIFY1wXgk7T45d-yBg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nrtr14iOj0E", "title": "SwiftUI Navigation Perfected: Harnessing NStack's Game-changing Capabilities" },
     { "id": "DugBVFJ9jRI", "title": "SwiftUI Navigation for Dummies" }, 
     { "id": "0CQHc9Wz25Q", "title": "Uncover the Simplicity of SwiftData: Replace CoreData in Seconds!" }, 
     { "id": "Igblg7c2T1o", "title": "@Observable @Bindable in iOS17 - SwiftUI Data Flow" }, 

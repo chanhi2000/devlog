@@ -494,6 +494,14 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 
 ---
 
+## OKKY
+
+<MyYouTubeItems jsonName="yu-okky4271" />
+
+<!-- OKKY -->
+
+---
+
 ## Confreaks
 
 <MyYouTubeItems jsonName="yu-Confreaks" />

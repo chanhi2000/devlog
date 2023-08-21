@@ -314,7 +314,7 @@ This PowerShell script closes the Microsoft Edge Web browser gracefully.
 
 ::: tabs
 
-@tab Parameters
+@tab:active Parameters
 
 ```powershell
 PS> ./close-edge.ps1 [<CommonParameters>]
@@ -1124,5 +1124,316 @@ try {
 :::
 
 ---
+
+## <FontIcon icon="iconfont icon-file"/>`list-clipboard.ps1`
+
+```card
+title: list-clipboard.ps1
+desc: Lists the contents of the clipboard.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-clipboard.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists the contents of the clipboard.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-clipboard.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-clipboard.ps1
+# 📋 test
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists the contents of the clipboard
+.DESCRIPTION
+	This PowerShell script lists the contents of the clipboard.
+.EXAMPLE
+	PS> ./list-clipboard.ps1
+	📋 test
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	"📋 $(get-clipboard)"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`new-email.ps1`
+
+```card
+title: new-email.ps1
+desc: Starts the default email client to write a new email.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-email.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script opens the default email client to write a new email.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./new-email.ps1 [[-EmailAddress] <String>] [<CommonParameters>]
+
+-EmailAddress <String>
+    Specifies the email address fill in
+    
+    Required?                    false
+    Position?                    1
+    Default value                markus@fleschutz.de
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./new-email.ps1
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the default email client to write a new email
+.DESCRIPTION
+	This PowerShell script opens the default email client to write a new email.
+.PARAMETER EmailAddress
+	Specifies the email address fill in
+.EXAMPLE
+	PS> ./new-email.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$EmailAddress = "markus@fleschutz.de")
+
+try {
+	$URL="mailto:$EmailAddress"
+	Start-Process $URL
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-amazon-website.ps1`
+
+```card
+title: open-amazon-website.ps1
+desc: Opens Amazon's website.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Web browser with the Amazon website.
+
+::: tabs
+
+@tab:active  Parameters
+
+```powershell
+PS> open-amazon-website.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-amazon-website
+# 
+```
+
+@tab Script Content
+
+```powershell
+
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-default-browser.ps1`
+
+```card
+title: open-default-browser.ps1
+desc: Launches the default Web browser.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-default-browser.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the default Web browser, optional with a given URL.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-default-browser.ps1 [[-URL] <String>] [<CommonParameters>]
+
+-URL <String>
+    Specifies the URL
+    
+    Required?                    false
+    Position?                    1
+    Default value                http://www.fleschutz.de
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-default-browser
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the default browser
+.DESCRIPTION
+	This PowerShell script launches the default Web browser, optional with a given URL.
+.PARAMETER URL
+	Specifies the URL
+.EXAMPLE
+	PS> ./open-default-browser
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$URL = "http://www.fleschutz.de")
+
+try {
+	Start-Process $URL
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-calculator.ps1`
+
+```card
+title: open-calculator.ps1
+desc: Starts the calculator program.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-calculator.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the calculator application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-calculator.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-calculator
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Launches the calculator application
+.DESCRIPTION
+	This PowerShell script launches the calculator application.
+.EXAMPLE
+	PS> ./open-calculator
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Start-Process ms-calculator:
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
 
 <TagLinks/>

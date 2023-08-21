@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "DigitalOcean",
+    "name": "DigitalOcean",
+    "profile": "https://yt3.googleusercontent.com/AXuTwGFHTFN7t9QNoZm6M7fjZMdHg5jQiOgyU1B_FlVFmBI4RdHVFvdrieruRY9S1JuAim__-ok=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6fo8y5vKJwL9YCCFVaDqSAAmeAS4WhGmgxIm2vz46nCP2AitTdJe6jDtXitNdab7SAqBsbyvSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1171ScSfIrs", "title": "Making a Node + MongoDB App on DigitalOcean" }, 
+    { "id": "WrmndNpWSJw", "title": "Build a Fullstack App With Strapi and Next.js | 1-Hour Tech Talk | DigitalOcean" }
+  ]
+}

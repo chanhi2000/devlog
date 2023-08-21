@@ -1268,5 +1268,10 @@
     "desc": "AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.",
     "topics": ["electron", "menubar", "google", "bard", "chatgpt"],
     "officialSite": "https://smol.ai"
+  }, {
+    "repo": "Kaiyiwing/qwerty-learner",
+    "desc": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+    "topics": ["typing", "typing-game", "english-learning", "typingspeedtest", "typing-practice"],
+    "officialSite": "https://qwerty.kaiyi.cool"
   }
 ]

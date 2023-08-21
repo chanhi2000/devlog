@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bNX6POUEM6c", "title": "When a Developer Is Bored With Life" },
+    { "id": "LzRIoK5exlc", "title": "What Is Never in TypeScript?" },
+    { "id": "Kbl--VXRZFY", "title": "VS Code Shortcut to Create Nested Folders 🤯" },
+    { "id": "40cInVjipi4", "title": "Switch Case Over Ranges in JavaScript 🤩" },
     { "id": "6fKM7wCrsyw", "title": "How to Use Env Variables Client-Side in NextJS (NEXT_PUBLIC)" }, 
     { "id": "lBfOBr479DY", "title": "This Is How NextJS Prefetches Links" }, 
     { "id": "AaiijESQH5o", "title": "Build a Next.JS 13 E-Commerce Website (App Router, TypeScript, Deployment)" }, 

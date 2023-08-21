@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "huakun",
+    "name": "Huakun",
+    "profile": "https://yt3.googleusercontent.com/CD-IcYnyj_1v0yee4KGaAIj9pTcWMZYubOCH0OX_3ecg13iDiD8o5Eg9Zgs2WSxFBX_SorcllA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "pwAl1E7knXA", "title": "Tauri Tutorial: 1. Introduction and Comparison with Electron" },
+    { "id": "zJPlyjfV4C0", "title": "Deploy Web App with Docker, Nginx and SSL (HTTPS)" }
+  ]
+}

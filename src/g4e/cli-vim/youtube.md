@@ -77,4 +77,14 @@ tags: ["youtube", "bash", "linux", "macos", "terminal", "alias", "sh", "vim", "n
 
 ---
 
+## Josean Martinez
+
+<MyYouTubeItems jsonName="yu-joseanmartinez" />
+
+<!-- Josean Martinez -->
+
+---
+
+
+
 <TagLinks />

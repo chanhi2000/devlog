@@ -2,46 +2,23 @@
   "channel": {
     "id": "Codevolution",
     "name": "Codevolution",
-    "profile": "https://yt3.googleusercontent.com/os7Yw6RimtysXXpc8NrXraci87TjXgZSUQyAezi0D3RrNL3YP5riIwi1-0al4Wz0XwzH6oBu6g=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/os7Yw6RimtysXXpc8NrXraci87TjXgZSUQyAezi0D3RrNL3YP5riIwi1-0al4Wz0XwzH6oBu6g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RFyvcT19qPmSmKhAJvRY0bHld3w0fa_JalyHOKKpmlCGsEpWXi3ZQKJUB4qmcAB0K4j0vmvme9A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "mVx_PzR9SPo",
-      "title": "Node.js Tutorial - 38 - `libuv`" 
-    }, {
-      "id": "jLS0TkAHvRg",
-      "title": "React 18 Fundamentals Crash Course" 
-    }, {
-      "id": "Icf5D3fEKbM",
-      "title": "CSS Crash Course - Tutorial for Complete Beginners" 
-    }, {
-      "id": "hszc3T0hdvU",
-      "title": "Failing Gracefully with React Error Boundary" 
-    }, {
-      "id": "II26fwRXNBs",
-      "title": "Vue JS 3 Tutorial - 59 - Replacing Watchers (Part 2)" 
-    }, {
-      "id": "LyG_l5UoeHI",
-      "title": "Vue JS 3 Tutorial - 50 - Reusability with Mixins" 
-    }, {
-      "id": "KOmQ8a2EOFA",
-      "title": "Vue JS 3 Tutorial - 43 - Teleport Component" 
-    }, {
-      "id": "lLIwx145O_A",
-      "title": "Vue JS 3 Tutoial - 23 - Computed Properties" 
-    }, {
-      "id": "HpmL7dvyRUY",
-      "title": "Practical React - 9 - Credit Cards" 
-    }, {
-      "id": "yGyj0mSfVuk",
-      "title": "React Redux Tutorials - 12 - Async Actions" 
-    }, {
-      "id": "z2XCUu2wIl0",
-      "title": "React Redux Tutorials - 13 - Redux Thunk Middleware" 
-    }, {
-      "id": "mVx_PzR9SPo",
-      "title": "Node.js Tutorial - 38 - libuv" 
-    }
+    { "id": "IVosAuMSOnU", "title": "Webnesday 2 - Weekly snapshot of web development buzz #shorts" },
+    { "id": "mVx_PzR9SPo", "title": "Node.js Tutorial - 38 - `libuv`"  }, 
+    { "id": "jLS0TkAHvRg", "title": "React 18 Fundamentals Crash Course"  }, 
+    { "id": "Icf5D3fEKbM", "title": "CSS Crash Course - Tutorial for Complete Beginners"  }, 
+    { "id": "hszc3T0hdvU", "title": "Failing Gracefully with React Error Boundary"  }, 
+    { "id": "II26fwRXNBs", "title": "Vue JS 3 Tutorial - 59 - Replacing Watchers (Part 2)"  }, 
+    { "id": "LyG_l5UoeHI", "title": "Vue JS 3 Tutorial - 50 - Reusability with Mixins"  }, 
+    { "id": "KOmQ8a2EOFA", "title": "Vue JS 3 Tutorial - 43 - Teleport Component"  }, 
+    { "id": "lLIwx145O_A", "title": "Vue JS 3 Tutoial - 23 - Computed Properties"  }, 
+    { "id": "HpmL7dvyRUY", "title": "Practical React - 9 - Credit Cards"  }, 
+    { "id": "yGyj0mSfVuk", "title": "React Redux Tutorials - 12 - Async Actions"  }, 
+    { "id": "z2XCUu2wIl0", "title": "React Redux Tutorials - 13 - Redux Thunk Middleware"  }, 
+    { "id": "mVx_PzR9SPo", "title": "Node.js Tutorial - 38 - libuv"  }
   ]
 }
 

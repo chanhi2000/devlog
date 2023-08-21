@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/0DSeePNUmxbTH0UDOmqF4_wQaWu8BIo0UWkR7qgCQLDG4_lr-Zt91TVMZHH3c1EGZA7Xf-Id=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QE903dZWfEo", "title": "The EASY Way To Time Your Python Code Performance (ft. `timeit`)" },
+    { "id": "P654ObISykA", "title": "Use THIS To Check If Your Code Is Optimized In Python" },
     { "id": "SwpXG_jnCW4", "title": "Learn THIS Powerful Python Snippet Of Code" }, 
     { "id": "MEMDi9mTCiU", "title": "Is THIS Python's MOST Underrated Operator? (Walrus Operator)" }, 
     { "id": "4zK3F5pfV4o", "title": "Python Devs Will HATE YOU If You Do THIS" }, 

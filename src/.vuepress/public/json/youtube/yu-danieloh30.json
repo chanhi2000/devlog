@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/2B1f4o5s-_1pf8mFaaBqEkGjQ2tlfx2vEM5AyC3CDqbhZYqsGOnjTutiFntF8YSzipDlP07t7Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OJ-ONcr5I6g", "title": "Kubernetes WithOut Kubelet - ☸️ Learn by Example 【11】" },
     { "id": "DZwpzWJeBmA", "title": "DevDays Europe 23 - Zero to Hero in Kubernetes Native Java" }, 
     { "id": "ca121MFZalw", "title": "DaemonSet - ☸️ Learn by Example 【6】" }, 
     { "id": "ak9R9-E_0_k", "title": "Managing Secrets - ☸️ Learn by Example 【7】" }, 

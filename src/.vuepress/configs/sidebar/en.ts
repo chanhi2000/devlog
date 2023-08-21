@@ -554,6 +554,15 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-oracle/youtube.md',
       ]
     }, {
+      text: '🎡Microsoft SQL Server',
+      collapsible: true,
+      children: [
+        '/g4e/db-mssql/README.md',
+        '/g4e/db-mssql/query.md',
+        '/g4e/db-mssql/references.md',
+        '/g4e/db-mssql/youtube.md',
+      ]
+    }, {
       text: '🧊Cubrid',
       collapsible: true,
       children: [
@@ -584,7 +593,6 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/sql/README.md',
         '/g4e/sql/altibase.md',
-        '/g4e/sql/mssql.md',
         '/g4e/sql/tibero.md',
       ]
     }, 

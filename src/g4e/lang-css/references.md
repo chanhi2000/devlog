@@ -28,6 +28,7 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 - [Front-end challenges](https://piccalil.li/category/front-end-challenges-club)
 - [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes)
 - [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors)
+- [THE IDEAL VIEWPORT DOESN’T EXIST](https://viewports.fyi)
 
 ---
 

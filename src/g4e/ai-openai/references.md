@@ -27,6 +27,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## InfoGrab
+
+- [GPT 엔지니어 살펴보기](https://insight.infograb.net/blog/2023/06/27/gpt-engineer)
+
+---
+
 ## AI Research Blog
 
  - [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer)
@@ -120,6 +126,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 ## Stability AI
 
 - [Announcing StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
+
+---
+
+## Elad Blog
+
+- [Early days of AI](https://blog.eladgil.com/p/early-days-of-ai)
 
 ---
 

@@ -13,4 +13,10 @@ tags: ["ruby", "youtube", "programming"]
 
 ---
 
+## Drifting Ruby
+
+<MyYouTubeItems jsonName="yu-DriftingRuby" />    
+
+<!-- Drifting Ruby  -->
+
 <TagLinks />

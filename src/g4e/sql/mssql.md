@@ -1,1 +1,0 @@
-http://blog.citrix24.com/configure-sql-express-to-accept-remote-connections/

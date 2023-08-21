@@ -2,16 +2,13 @@
   "channel": {
     "id": "joseanmartinez",
     "name": "Josean Martinez",
-    "profile": "https://yt3.googleusercontent.com/SHmUeGne1F9p5gdLK_sErZbaRA8KqhSDIyuKOZUSKtavI6onzo4g3StdSOrjFs9t68F4V1ThAcM=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/SHmUeGne1F9p5gdLK_sErZbaRA8KqhSDIyuKOZUSKtavI6onzo4g3StdSOrjFs9t68F4V1ThAcM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sYKSmIMzjshWM6wgrkIsF2oxaIcY0Fa6wmsfbc2GiJWKlsTR5e6nST0ljxwu-_nuHuE52crOsQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "U-omALWIBos",
-      "title": "How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac"
-    }, {
-      "id": "vdn_pKJUda8",
-      "title": "How I Setup Neovim On My Mac To Make It Amazing - Complete Guide"
-    }
+    { "id": "80mWp6H4zEw", "title": "The Ultimate Beginner’s Guide To Learn And Master Vim" },
+    { "id": "U-omALWIBos", "title": "How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac" }, 
+    { "id": "vdn_pKJUda8", "title": "How I Setup Neovim On My Mac To Make It Amazing - Complete Guide" }
   ]
 }
 

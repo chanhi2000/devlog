@@ -344,5 +344,10 @@
     "desc": "lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation",
     "topics": ["openai", "llm", "langchain", "llmops", "anthropic", "langchain-python"],
     "officialSite": "https://docs.litellm.ai/docs"
+  }, {
+    "repo": "minimaxir/sdxl-experiments",
+    "desc": "Jupyter Notebooks for experimenting with Stable Diffusion XL 1.0",
+    "topics": [],
+    "officialSite": ""
   }
 ]

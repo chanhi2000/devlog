@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Up8PV4x50wSSvEpqZUGyLgM4AyMmtMu197Cc7zWLT9RXcf_cHD20YxyPsY0pmbEyGimSpYzIsg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Og9as25Oztc", "title": "CONSTRUÍNDO E ADMINISTRANDO SEU KUBERNETES COM O CDK8S - SERGIO SOARES" },
     { "id": "GjndoO8KfOo", "title": "Mutirão Kubernetes - Vamos iniciar a sua jornada no Kubernetes! | Dia-1" },
     { "id": "zEOeukcJl6E", "title": "TUDO O QUE VOCÊ PRECISA SABER SOBRE KUBERNETES PARA PASSAR NA ENTREVISTA!" }
   ]

@@ -125,4 +125,12 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ---
 
+## Khalili Oriented Programming
+
+<MyYouTubeItems jsonName="yu-K0P" />
+
+<!-- Khalili Oriented Programming  -->
+
+---
+
 <TagLinks />

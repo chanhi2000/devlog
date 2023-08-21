@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/U7IJATRdKsP0GNpofCDm_jhcZv4GyK-qXR9Xh8Ufiz1E1JgDyhdj_hlgO_97_PnQSK2QT9rmDw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8IycEmcuoNQ", "title": "What is flutter? Flutter in 60 seconds" },
     { "id": "mANJLuKSlK0", "title": "Login Screen with SwiftUI | VStack, ZStack & HStack with SwiftUI" }    
   ]
 }

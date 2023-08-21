@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4UgtidPVQVA", "title": "Rapid Microservices Development with Spring Boot" },
+    { "id": "mLYgNSmbL7o", "title": "Application Configuration in Spring" },
     { "id": "UGsfmKUCJzQ", "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI" }, 
     { "id": "uqgxkL4KfKE", "title": "Avoid Cloud Lock-in with Kubernetes, Findings from the 2023 VMware State of Kubernetes Survey 📊" }, 
     { "id": "UGsfmKUCJzQ", "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI" }, 

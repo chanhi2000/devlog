@@ -1,11 +1,12 @@
 {
   "channel": {
-    "id": " ",
+    "id": "AkamaiDeveloper",
     "name": "Akamai Developer",
     "profile": "https://yt3.googleusercontent.com/zTQmp0x10goNJDW6fGqa9gOlJt00sFrFS_f_-e1CT9NDkS2nLMRLcr7PFiTGM3YcEcocIsdS5A=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qfjQB3fgziY", "title": "Terraform Apply Command | How Terraform Handles Dependencies and Uses The depends_on Argument" }, 
     { "id": "K_seeremuNs", "title": "Terraforming Kubernetes Final Episode | Cluster Deployment" }, 
     { "id": "aghIj6A9dxM", "title": "Deploy Your Containerized App With Docker Swarm | Scalable App Deployment" }, 
     { "id": "wJzkCiHWNkQ", "title": "Use the Man Command to Learn Any Linux Command | Top Docs With Learn Linux TV" },     
@@ -17,9 +18,5 @@
     { "id": "CGijY_aUvNs", "title": "Run Terminals INSIDE Terminals | The Screen Command on Linux" }, 
     { "id": "hqJdV02Zfxo", "title": "Easily Create Your Own Scalable Dropbox Clone With Object Storage (with up to 250 GB of storage)" }, 
     { "id": "oIuzm2jugu8", "title": "Build Internal Tools with Appsmith | Beautiful Low-Code UI Creation" }
- 
   ]
 }
-
-
-

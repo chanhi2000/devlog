@@ -140,4 +140,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## 한바름
+
+- [FastAPI 한줄씩 따라가기](https://rumbarum.oopy.io/post/examine-fastapi-handling-request-line-by-line-with-comment)
+
+---
+
 <TagLinks />

@@ -389,11 +389,11 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 ---
 
-## OKKY
+## TechWiser
 
-<MyYouTubeItems jsonName="yu-okky4271" />
+<MyYouTubeItems jsonName="yu-techwiser" />
 
-<!-- OKKY -->
+<!-- TechWiser -->
 
 ---
 
@@ -413,7 +413,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=iydG-e1dQGA"><img width="140px" height="auto" alt="thumb-iydG-e1dQGA" src="https://i.ytimg.com/vi/iydG-e1dQGA/hqdefault.jpg"/></a> | [I Coded a Video Editor \(and it kind of sucks\)](https://www.youtube.com/watch?v=iydG-e1dQGA) <br/><br/> _[GamesWithGabe][yu-games-w-gabe]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=jgNoyfryIFI"><img width="140px" height="auto" alt="thumb-jgNoyfryIFI" src="https://i.ytimg.com/vi/jgNoyfryIFI/hqdefault.jpg"/></a> | [19 Hacks To Clear System Data On iPhone](https://www.youtube.com/watch?v=jgNoyfryIFI) <br/><br/> _[Payette Forward][yu-payetteforward]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=JDbiXrgnkQk"><img width="140px" height="auto" alt="thumb-JDbiXrgnkQk" src="https://i.ytimg.com/vi/JDbiXrgnkQk/hqdefault.jpg"/></a> | [CPU with its price plummeted by -98%](https://www.youtube.com/watch?v=JDbiXrgnkQk) <br/><br/> _[민티저][yu-minteger]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_6UmYzUfuQ4"><img width="140px" height="auto" alt="thumb-_6UmYzUfuQ4" src="https://i.ytimg.com/vi/_6UmYzUfuQ4/hqdefault.jpg"/></a> | [Recommend a plan How to make it easy to choose according to me SKT Direct Plan 5G](https://www.youtube.com/watch?v=_6UmYzUfuQ4) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=CeElzJecWaA"><img width="140px" height="auto" alt="thumb-CeElzJecWaA" src="https://i.ytimg.com/vi/CeElzJecWaA/hqdefault.jpg"/></a> | [SiPadOS 16 Walkthrough: The Ultimate Guide to Your iPad](https://www.youtube.com/watch?v=CeElzJecWaA) <br/><br/> _[Christopher Lawley][yu-chris-lawley]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=lnUJzFut7LM"><img width="140px" height="auto" alt="thumb-lnUJzFut7LM" src="https://i.ytimg.com/vi/lnUJzFut7LM/hqdefault.jpg"/></a> | [Trifork Tech Update: The Future of Cyber Protection for Mobile Apps](https://www.youtube.com/watch?v=lnUJzFut7LM) <br/><br/> _[Trifork][yu-trifork9941]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=MRb7sHAQJb4"><img width="140px" height="auto" alt="thumb-MRb7sHAQJb4" src="https://i.ytimg.com/vi/MRb7sHAQJb4/hqdefault.jpg"/></a> | [16TB SSD NAS For Under $1200!](https://www.youtube.com/watch?v=MRb7sHAQJb4) <br/><br/> _[Craft Computing][yu-craft-computing]_ |
@@ -427,7 +426,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=YFA85Nki5Sg"><img width="140px" height="auto" alt="thumb-YFA85Nki5Sg" src="https://i.ytimg.com/vi/YFA85Nki5Sg/hqdefault.jpg"/></a> | [SOAP-UI Test](https://www.youtube.com/watch?v=YFA85Nki5Sg) <br/><br/> _[Nico Kock][yu-nico-kock]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=eC8Tp7fRz78"><img width="140px" height="auto" alt="thumb-eC8Tp7fRz78" src="https://i.ytimg.com/vi/eC8Tp7fRz78/hqdefault.jpg"/></a> | [SImplementing the SOAP Endpoint](https://www.youtube.com/watch?v=eC8Tp7fRz78) <br/><br/> _[Nico Kock][yu-nico-kock]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=wm9AECTm_48"><img width="140px" height="auto" alt="thumb-wm9AECTm_48" src="https://i.ytimg.com/vi/wm9AECTm_48/hqdefault.jpg"/></a> | [Openshift Tutorial - Basics &amp; Setup](https://www.youtube.com/watch?v=wm9AECTm_48) <br/><br/> _[DevOps Dean][yu-devopsdean7830]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=VhGgtdGWFDY"><img width="140px" height="auto" alt="thumb-VhGgtdGWFDY" src="https://i.ytimg.com/vi/VhGgtdGWFDY/hqdefault.jpg"/></a> | [지갑 잃어버려 신분등 운전면허증 다 잃어버리지 마세요. SKT PASS 쓰세요](https://www.youtube.com/watch?v=VhGgtdGWFDY) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=uRYHX4EwYYA"><img width="140px" height="auto" alt="thumb-uRYHX4EwYYA" src="https://i.ytimg.com/vi/uRYHX4EwYYA/hqdefault.jpg"/></a> | [How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA) <br/><br/> _[Coder Coder][yu-coder-coder]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Yk7k3yEguQA"><img width="140px" height="auto" alt="thumb-Yk7k3yEguQA" src="https://i.ytimg.com/vi/Yk7k3yEguQA/hqdefault.jpg"/></a> | [Mega Real-time End to End DevOps CI/CD Project \| Git \| Jenkins \| Nexus \| SonarQube \| HandsOn Lab - I](https://www.youtube.com/watch?v=Yk7k3yEguQA) <br/><br/> _[Mr. DevOps][yu-mr-dev-ops]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=lN1Dle60u7g"><img width="140px" height="auto" alt="thumb-lN1Dle60u7g" src="https://i.ytimg.com/vi/lN1Dle60u7g/hqdefault.jpg"/></a> | [javplayer 설정 셋팅 최적화 방법](https://www.youtube.com/watch?v=lN1Dle60u7g) <br/><br/> _[마스터봇][yu-masterbot]_ |
@@ -435,8 +433,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=NOfW1-ijKe4"><img width="140px" height="auto" alt="thumb-NOfW1-ijKe4" src="https://i.ytimg.com/vi/NOfW1-ijKe4/hqdefault.jpg"/></a> | [Building apps with Relay, Figma, and Jetpack Compose](https://www.youtube.com/watch?v=NOfW1-ijKe4) <br/><br/> _[Material Design][yu-materialdesign]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Af0Ngo0V9ZA"><img width="140px" height="auto" alt="thumb-Af0Ngo0V9ZA" src="https://i.ytimg.com/vi/Af0Ngo0V9ZA/hqdefault.jpg"/></a> | [FREE Frontend/Backend Development Course by Meta!](https://www.youtube.com/watch?v=Af0Ngo0V9ZA) <br/><br/> _[TECH_ED][yu-techedcs]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=7opQ9d2A88o"><img width="140px" height="auto" alt="thumb-7opQ9d2A88o" src="https://i.ytimg.com/vi/7opQ9d2A88o/hqdefault.jpg"/></a> | [Setup SQL Server on Docker for Apple Silicon M1 M2 \(Eng ver.\)](https://www.youtube.com/watch?v=7opQ9d2A88o) <br/><br/> _[CMDev][yu-cm-dev]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Z1aSHtPCAP4"><img width="140px" height="auto" alt="thumb-Z1aSHtPCAP4" src="https://i.ytimg.com/vi/Z1aSHtPCAP4/hqdefault.jpg"/></a> | [Personalize sua figurinha da Copa com React Native](https://www.youtube.com/watch?v=Z1aSHtPCAP4) <br/><br/> _[Rocketseat][yu-rocketseat]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=V64qJl9dLYg"><img width="140px" height="auto" alt="thumb-V64qJl9dLYg" src="https://i.ytimg.com/vi/V64qJl9dLYg/hqdefault.jpg"/></a> | [노트북 쿨러 끝판왕 RMC GT500 팬 고장난 노트북도 켜주는 미친 성능](https://www.youtube.com/watch?v=-m-4_DRLmrc) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=RmmWVf7ZMzk"><img width="140px" height="auto" alt="thumb-RmmWVf7ZMzk" src="https://i.ytimg.com/vi/RmmWVf7ZMzk/hqdefault.jpg"/></a> | [Sencha Open Tooling: Criando Applicações ExtJS com NPM](https://www.youtube.com/watch?v=E1LXQd1M-ck) <br/><br/> _[Loiane Groner][yu-loianegroner]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ixPA01TXsLg"><img width="140px" height="auto" alt="thumb-ixPA01TXsLg" src="https://i.ytimg.com/vi/ixPA01TXsLg/hqdefault.jpg"/></a> | [악성코드 분석가는 어떤 일을 할까?](https://www.youtube.com/watch?v=ixPA01TXsLg) <br/><br/> _[삼평동연구소][yu-more-security]_ | 
 | ❌ | <a href="https://www.youtube.com/watch?v=BgZHbCDFODk"><img width="140px" height="auto" alt="thumb-BgZHbCDFODk" src="https://i.ytimg.com/vi/BgZHbCDFODk/hqdefault.jpg"/></a> | [QEMU/KVM for absolute beginners](https://www.youtube.com/watch?v=BgZHbCDFODk) <br/><br/> _[Veronica Explains][yu-veronica-explains]_ |
@@ -460,7 +456,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=HbfbBn3GABw"><img width="140px" height="auto" alt="thumb-HbfbBn3GABw" src="https://i.ytimg.com/vi/HbfbBn3GABw/hqdefault.jpg"/></a> | [10대 ios 개발자 인터뷰. 우린 어떻게 19살에 취업을 하게 되었는가? EP01](https://www.youtube.com/watch?v=HbfbBn3GABw) <br/><br/> _[이대니 Self Developer][yu-selfdeveloper4687]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=sxHng1iufQE"><img width="140px" height="auto" alt="thumb-sxHng1iufQE" src="https://i.ytimg.com/vi/sxHng1iufQE/hqdefault.jpg"/></a> | [What is the Difference Between a Pointer and a Reference C++](https://www.youtube.com/watch?v=sxHng1iufQE) <br/><br/> _[Paul Programming][yu-paul-programming]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=KzTEJ_hen3c"><img width="140px" height="auto" alt="thumb-KzTEJ_hen3c" src="https://i.ytimg.com/vi/KzTEJ_hen3c/hqdefault.jpg"/></a> | [Azure Fundamentals \[AZ-900\] Bootcamp \(21 Labs &amp; 57 Exercises\)](https://www.youtube.com/watch?v=KzTEJ_hen3c) <br/><br/> _[Susanth Sutheesh][yu-susanth-sutheesh]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=zJPlyjfV4C0"><img width="140px" height="auto" alt="thumb-zJPlyjfV4C0" src="https://i.ytimg.com/vi/zJPlyjfV4C0/hqdefault.jpg"/></a> | [Deploy Web App with Docker, Nginx and SSL \(HTTPS\)](https://www.youtube.com/watch?v=zJPlyjfV4C0) <br/><br/> _[Huakun Shen][yu-huakunshen3670]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=wQcSql62zRo"><img width="140px" height="auto" alt="thumb-wQcSql62zRo" src="https://i.ytimg.com/vi/wQcSql62zRo/hqdefault.jpg"/></a> | [How to Add SSL Encryption to Web Apps Using the Nginx Reverse Proxy](https://www.youtube.com/watch?v=wQcSql62zRo) <br/><br/> _[SecureRandom][yu-securerandom5420]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=GRPjhAWkG_o"><img width="140px" height="auto" alt="thumb-GRPjhAWkG_o" src="https://i.ytimg.com/vi/GRPjhAWkG_o/hqdefault.jpg"/></a> | [Building User Auth with Crypto Wallets and Stytch](https://www.youtube.com/watch?v=GRPjhAWkG_o) <br/><br/> _[Wes Doyle][yu-wes-doyle]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=TJOwP5VhvAo"><img width="140px" height="auto" alt="thumb-TJOwP5VhvAo" src="https://i.ytimg.com/vi/TJOwP5VhvAo/hqdefault.jpg"/></a> | [Azure Basics Tutorial](https://www.youtube.com/watch?v=TJOwP5VhvAo) <br/><br/> _[LevelUpTuts][yu-level-up-tuts]_ |
@@ -470,7 +465,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=_Bm6MZHLr-Q"><img width="140px" height="auto" alt="thumb-_Bm6MZHLr-Q" src="https://i.ytimg.com/vi/_Bm6MZHLr-Q/hqdefault.jpg"/></a> | [컨테이너&amp;클라우드 환경을 소화할 수 있는 CI/CD 구축 가이드](https://www.youtube.com/watch?v=_Bm6MZHLr-Q) <br/><br/> _[락플레이스][yu-user-pp5hq7vz4j]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ft9b4bTRtoI"><img width="140px" height="auto" alt="thumb-ft9b4bTRtoI" src="https://i.ytimg.com/vi/ft9b4bTRtoI/hqdefault.jpg"/></a> | [1  OpenShift 4 소개 - PaaS 플랫폼](https://www.youtube.com/watch?v=ft9b4bTRtoI) <br/><br/> _[양희선][yu-user-ee8ow6tk5p]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=jfMHA8SqUL4"><img width="140px" height="auto" alt="thumb-jfMHA8SqUL4" src="https://i.ytimg.com/vi/jfMHA8SqUL4/hqdefault.jpg"/></a> | [Sass, BEM, &amp; Responsive Design \(4 hr beginners course\)](https://www.youtube.com/watch?v=jfMHA8SqUL4) <br/><br/> _[Coder Coder][yu-coder-coder]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ML637pFYpt4"><img width="140px" height="auto" alt="thumb-ML637pFYpt4" src="https://i.ytimg.com/vi/ML637pFYpt4/hqdefault.jpg"/></a> | [I Tested The Samsung Galaxy Book 2 Pro](https://www.youtube.com/watch?v=ML637pFYpt4) <br/><br/> _[TechWiser][yu-techwiser]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=1oKQPpvcPy8"><img width="140px" height="auto" alt="thumb-1oKQPpvcPy8" src="https://i.ytimg.com/vi/1oKQPpvcPy8/hqdefault.jpg"/></a> | [누워서 보는 알고리즘: 13. 회의실 배정 문제와 탐욕법](https://www.youtube.com/watch?v=1oKQPpvcPy8) <br/><br/> _[주니온TV 아무거나연구소][yu-joonion]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=08SU3_t3dII"><img width="140px" height="auto" alt="thumb-08SU3_t3dII" src="https://i.ytimg.com/vi/08SU3_t3dII/hqdefault.jpg"/></a> | [개발자로 취업하기#4 - 스프링의 정석](https://www.youtube.com/watch?v=08SU3_t3dII) <br/><br/> _[남궁성의 정석코딩][yu-master-nks]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=jkHqrkcEHRc"><img width="140px" height="auto" alt="thumb-jkHqrkcEHRc" src="https://i.ytimg.com/vi/jkHqrkcEHRc/hqdefault.jpg"/></a> | [Rust multi-threading code review](https://www.youtube.com/watch?v=jkHqrkcEHRc) <br/><br/> _[Tantan][yu-tantandev]_ |
@@ -494,14 +488,12 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=u9SOYg4jzik"><img width="140px" height="auto" alt="thumb-u9SOYg4jzik" src="https://i.ytimg.com/vi/u9SOYg4jzik/hqdefault.jpg"/></a> | [node js, express server, 공공데이터포털/api 연결 총정리](https://www.youtube.com/watch?v=u9SOYg4jzik) <br/><br/> _[HR Yu][yu-stagyu]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=g1b8bILajcA"><img width="140px" height="auto" alt="thumb-g1b8bILajcA" src="https://i.ytimg.com/vi/g1b8bILajcA/hqdefault.jpg"/></a> | [VUE3 composition API 간략하게 알아보기 \(ref, reactive, methods, v-model \)](https://www.youtube.com/watch?v=g1b8bILajcA) <br/><br/> _[데브리][yu-user-gn2mw4lm4m]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=TVaYUMrKyik"><img width="140px" height="auto" alt="thumb-TVaYUMrKyik" src="https://i.ytimg.com/vi/TVaYUMrKyik/hqdefault.jpg"/></a> | [How these 6 new commands help you vibe in the terminal.](https://www.youtube.com/watch?v=TVaYUMrKyik) <br/><br/> _[Gardiner Bryant][yu-gardiner_bryant]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=9AO2hZJsHrs"><img width="140px" height="auto" alt="thumb-9AO2hZJsHrs" src="https://i.ytimg.com/vi/9AO2hZJsHrs/hqdefault.jpg"/></a> | [CRUD com Node.JS, Express, TypeORM e PostgreSQL - #code/drops 113](https://www.youtube.com/watch?v=9AO2hZJsHrs) <br/><br/> _[Rocketseat][yu-rocketseat]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=-VvQKEvsPpE"><img width="140px" height="auto" alt="thumb--VvQKEvsPpE" src="https://i.ytimg.com/vi/-VvQKEvsPpE/hqdefault.jpg"/></a> | [Test Cases in Manual Testing \| Test Cases in Software testing \| Test Cases for Login Page \| Example](https://www.youtube.com/watch?v=-VvQKEvsPpE) <br/><br/> _[Software and Testing Training][yu-qa1]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=dQzIKaNzW84"><img width="140px" height="auto" alt="thumb-dQzIKaNzW84" src="https://i.ytimg.com/vi/dQzIKaNzW84/hqdefault.jpg"/></a> | [Deploy React App to Firebase Hosting 2022](https://www.youtube.com/watch?v=dQzIKaNzW84) <br/><br/> _[Sanskar Tiwari][yu-indianappguy]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=HeKupTN8XN4"><img width="140px" height="auto" alt="thumb-HeKupTN8XN4" src="https://i.ytimg.com/vi/HeKupTN8XN4/hqdefault.jpg"/></a> | [21년 11월 26일 \(금\)\(저녁장/야간장\) 해외선물 실시간 무료 추세 신호 차트 송출 해 드립니다.\(항셍,나스닥,에센피,크루드오일,](https://www.youtube.com/watch?v=HeKupTN8XN4) <br/><br/> _[해선트레이더][yu-user-wl8dq7rl8q]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=UvvxmW4BKOo"><img width="140px" height="auto" alt="thumb-UvvxmW4BKOo" src="https://i.ytimg.com/vi/UvvxmW4BKOo/hqdefault.jpg"/></a> | [How To Minify / Optimize SVG Files By Hand](https://www.youtube.com/watch?v=UvvxmW4BKOo) <br/><br/> _[quidsup][yu-quidsup]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=53ZO2pKS4i0"><img width="140px" height="auto" alt="thumb-53ZO2pKS4i0" src="https://i.ytimg.com/vi/53ZO2pKS4i0/hqdefault.jpg"/></a> | [Don't Install Windows 11 Natively \| Windows 11 KVM Single GPU Passthrough Tutorial](https://www.youtube.com/watch?v=53ZO2pKS4i0) <br/><br/> _[Coodos][yu-coodos]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Lo9FgUteK5o"><img width="140px" height="auto" alt="thumb-Lo9FgUteK5o" src="https://i.ytimg.com/vi/Lo9FgUteK5o/hqdefault.jpg"/></a> | [Part 9-JAVA MySQL \| CRUD Application \| How to add Validation in jtextfield \| Java](https://www.youtube.com/watch?v=Lo9FgUteK5o) <br/><br/> _[Source Code PH][yu-source-code-pm]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=pAt91MWwwvg"><img width="140px" height="auto" alt="thumb-pAt91MWwwvg" src="https://i.ytimg.com/vi/pAt91MWwwvg/hqdefault.jpg"/></a> | [Login Social com OAuth2 no React Native - Code/drops #109](https://www.youtube.com/watch?v=pAt91MWwwvg) <br/><br/> _[Rocketseat][yu-rocketseat]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=8eKk0M2zGIk"><img width="140px" height="auto" alt="thumb-8eKk0M2zGIk" src="https://i.ytimg.com/vi/8eKk0M2zGIk/hqdefault.jpg"/></a> | [How to Create a Gantt Chart in Google Sheets](https://www.youtube.com/watch?v=8eKk0M2zGIk) <br/><br/> _[Vertex42][yu-vertex42]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=hbvnsse4xGI"><img width="140px" height="auto" alt="thumb-hbvnsse4xGI" src="https://i.ytimg.com/vi/hbvnsse4xGI/hqdefault.jpg"/></a> | [Refreshing Tokens With Fetch \| Custom Interceptor](https://www.youtube.com/watch?v=hbvnsse4xGI) <br/><br/> _[Dennis Ivy][yu-dennis-ivy]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=GoQW2ZKXsHQ"><img width="140px" height="auto" alt="thumb-GoQW2ZKXsHQ" src="https://i.ytimg.com/vi/GoQW2ZKXsHQ/hqdefault.jpg"/></a> | [\[가사/해석\]槇原敬之\(마키하라 노리유키\)－もう恋なんてしない\(이제 사랑 같은 거 안 해\)](https://www.youtube.com/watch?v=GoQW2ZKXsHQ) <br/><br/> _[고웅도][yu-user-gs2vd1eu7r]_ |
@@ -524,7 +516,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=V-OMcxHVpQ0"><img width="140px" height="auto" alt="thumb-V-OMcxHVpQ0" src="https://i.ytimg.com/vi/V-OMcxHVpQ0/hqdefault.jpg"/></a> | [#35 IN and OUT Type in kotlin  \| Kotlin tutorial \| Kotlin Bootcamp for programmers](https://www.youtube.com/watch?v=V-OMcxHVpQ0) <br/><br/> _[M.N Coder][yu-m-n-coder]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=KcUAtkdTecg"><img width="140px" height="auto" alt="thumb-KcUAtkdTecg" src="https://i.ytimg.com/vi/KcUAtkdTecg/hqdefault.jpg"/></a> | [ROOM Database #1 - Insert and Read Data \(Android Tutorial\)](https://www.youtube.com/watch?v=KcUAtkdTecg) <br/><br/> _[Destoffe][yu-destoffe]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=NDOh2qEmSe8"><img width="140px" height="auto" alt="thumb-NDOh2qEmSe8" src="https://i.ytimg.com/vi/NDOh2qEmSe8/hqdefault.jpg"/></a> | [How to Build a Basic App with TypeScript / Node.js + Deploy it to the Cloud \(AWS Lambda\) in 15 min](https://www.youtube.com/watch?v=NDOh2qEmSe8) <br/><br/> _[blondiebytes][yu-blondiebytes]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=1171ScSfIrs"><img width="140px" height="auto" alt="thumb-1171ScSfIrs" src="https://i.ytimg.com/vi/1171ScSfIrs/hqdefault.jpg"/></a> | [Making a Node + MongoDB App on DigitalOcean](https://www.youtube.com/watch?v=1171ScSfIrs) <br/><br/> _[DigitalOcean][yu-digital-ocean] | 
 | ❌ | <a href="https://www.youtube.com/watch?v=VnztChBw7Og"><img width="140px" height="auto" alt="thumb-VnztChBw7Og" src="https://i.ytimg.com/vi/VnztChBw7Og/hqdefault.jpg"/></a> | [Building a Mobile App with Django &amp; Flutter](https://www.youtube.com/watch?v=VnztChBw7Og) <br/><br/> _[Dennis Ivy][yu-dennis-ivy]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=G9qrAIhCVno"><img width="140px" height="auto" alt="thumb-G9qrAIhCVno" src="https://i.ytimg.com/vi/G9qrAIhCVno/hqdefault.jpg"/></a> | [아이폰 앱개발 프로그램 교육 기초 실습 강좌진행 IOS app Tutorial](https://www.youtube.com/watch?v=G9qrAIhCVno) <br/><br/> _[알지오 평생교육원][yu-user-ht1es4sm7v]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=k4MhC5tcEv0"><img width="140px" height="auto" alt="thumb-k4MhC5tcEv0" src="https://i.ytimg.com/vi/k4MhC5tcEv0/hqdefault.jpg"/></a> | [Antifragile - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=k4MhC5tcEv0) <br/><br/> _[RSA][yu-rsaorg]_ |
@@ -568,7 +559,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=4WWW2ZLEg74"><img width="140px" height="auto" alt="thumb-4WWW2ZLEg74" src="https://i.ytimg.com/vi/4WWW2ZLEg74/hqdefault.jpg"/></a> | [Setting up Prometheus and Grafana for monitoring your servers](https://www.youtube.com/watch?v=4WWW2ZLEg74) <br/><br/> _[Eddie Zaneski][yu-eddiezane]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=dljmV9YoLEs"><img width="140px" height="auto" alt="thumb-dljmV9YoLEs" src="https://i.ytimg.com/vi/dljmV9YoLEs/hqdefault.jpg"/></a> | [Stranger Danger: Your NodeJS Attack Surface Just Got Bigger](https://www.youtube.com/watch?v=dljmV9YoLEs) <br/><br/> _[Code Geek][yu-codegeek9098]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=VIQ4tM7VKoo"><img width="140px" height="auto" alt="thumb-VIQ4tM7VKoo" src="https://i.ytimg.com/vi/VIQ4tM7VKoo/hqdefault.jpg"/></a> | [React JS Redux Crash Course \| with TypeScript \| UiBrains \| NAVEEN SAGGAM](https://www.youtube.com/watch?v=VIQ4tM7VKoo) <br/><br/> _[UiBrains Technologies][yu-ui-brains-technologies]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=LhRGQ3KxaYk"><img width="140px" height="auto" alt="thumb-LhRGQ3KxaYk" src="https://i.ytimg.com/vi/LhRGQ3KxaYk/hqdefault.jpg"/></a> | [애플 카플레이 유튜브 Wavve 넷플릭스 티맵 무선으로! 화면 가득 채워보기](https://www.youtube.com/watch?v=LhRGQ3KxaYk) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=3pWxlINbj9g"><img width="140px" height="auto" alt="thumb-3pWxlINbj9g" src="https://i.ytimg.com/vi/3pWxlINbj9g/hqdefault.jpg"/></a> | [Testing of AR/VR applications with Arium \| vodQA Gurgaon April -2021](https://www.youtube.com/watch?v=3pWxlINbj9g) <br/><br/> _[vodQA - a forum for software testing enthusiasts][yu-vod-qa]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=jTLS5LuA66s"><img width="140px" height="auto" alt="thumb-jTLS5LuA66s" src="https://i.ytimg.com/vi/jTLS5LuA66s/hqdefault.jpg"/></a> | [Razer Huntsman v2 analog keyboard review \(Light Strike Libra Analog\)](https://www.youtube.com/watch?v=jTLS5LuA66s) <br/><br/> _[Chyrosran22][yu-chryosran-22]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=IKwcgHgo5Q8"><img width="140px" height="auto" alt="thumb-IKwcgHgo5Q8" src="https://i.ytimg.com/vi/IKwcgHgo5Q8/hqdefault.jpg"/></a> | [How to Display a Database Record with Vue](https://www.youtube.com/watch?v=IKwcgHgo5Q8) <br/><br/> _[MultiValue][yu-multi-value]_ |
@@ -601,9 +591,7 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=nlSFbas93V8"><img width="140px" height="auto" alt="thumb-nlSFbas93V8" src="https://i.ytimg.com/vi/nlSFbas93V8/hqdefault.jpg"/></a> | [31 spring jpa webservice online shopping application](https://www.youtube.com/watch?v=nlSFbas93V8) <br/><br/> _[Surendran Velath][yu-surendranvelath4355]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ZNNqkeeOdrk"><img width="140px" height="auto" alt="thumb-ZNNqkeeOdrk" src="https://i.ytimg.com/vi/ZNNqkeeOdrk/hqdefault.jpg"/></a> | [7 AWESOME Linux Terminal Applications and Utilities](https://www.youtube.com/watch?v=ZNNqkeeOdrk) <br/><br/> _[TechHut][yu-tech-hut]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=cTufqsBbXOU"><img width="140px" height="auto" alt="thumb-cTufqsBbXOU" src="https://i.ytimg.com/vi/cTufqsBbXOU/hqdefault.jpg"/></a> | [build a home lab server with Virtualbox, Webmin and Portainer](https://www.youtube.com/watch?v=cTufqsBbXOU) <br/><br/> _[OneMarcFifty][yu-one-marc-fifty]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=rF-TtX0jLg8"><img width="140px" height="auto" alt="thumb-rF-TtX0jLg8" src="https://i.ytimg.com/vi/rF-TtX0jLg8/hqdefault.jpg"/></a> | [SwiftUI 2.0: How to Use UIKit Components in SwiftUI - Learn by building a Photo Picker App](https://www.youtube.com/watch?v=rF-TtX0jLg8) <br/><br/> _[BeyondOnesAndZeros][yu-beyond-ones-and-zeros]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ZxA5qAy2yoI"><img width="140px" height="auto" alt="thumb-ZxA5qAy2yoI" src="https://i.ytimg.com/vi/ZxA5qAy2yoI/hqdefault.jpg"/></a> | [Install OpenCV on Windows in 2 minutes \(C++\)](https://www.youtube.com/watch?v=ZxA5qAy2yoI) <br/><br/> _[LearnOpenCV][yu-learn-open-cv]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=WrmndNpWSJw"><img width="140px" height="auto" alt="thumb-WrmndNpWSJw" src="https://i.ytimg.com/vi/WrmndNpWSJw/hqdefault.jpg"/></a> | [Build a Fullstack App With Strapi and Next.js \| 1-Hour Tech Talk \| DigitalOcean](https://www.youtube.com/watch?v=WrmndNpWSJw) <br/><br/> _[DigitalOcean][yu-digital-ocean]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=vP4_Jm9jTSM"><img width="140px" height="auto" alt="thumb-vP4_Jm9jTSM" src="https://i.ytimg.com/vi/vP4_Jm9jTSM/hqdefault.jpg"/></a> | [Ansible-Tutorial: Setup von User-Accounts, SSH und Firewall \(Live Coding\)](https://www.youtube.com/watch?v=vP4_Jm9jTSM) <br/><br/> _[HappyCoders][yu-happy-coders]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=yY-ePJa-1IE"><img width="140px" height="auto" alt="thumb-yY-ePJa-1IE" src="https://i.ytimg.com/vi/yY-ePJa-1IE/hqdefault.jpg"/></a> | [Ansible-Tutorial: Setup eines Root-Servers \(Live Coding\)](https://www.youtube.com/watch?v=yY-ePJa-1IE) <br/><br/> _[HappyCoders][yu-happy-coders]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=TFy9uTheu0s"><img width="140px" height="auto" alt="thumb-TFy9uTheu0s" src="https://i.ytimg.com/vi/TFy9uTheu0s/hqdefault.jpg"/></a> | [Ansible 다이내믹 인벤토리 개발하기](https://www.youtube.com/watch?v=TFy9uTheu0s) <br/><br/> _[BTBS][yu-btbs]_ |
@@ -628,19 +616,13 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=QybOwzWJUxk"><img width="140px" height="auto" alt="thumb-QybOwzWJUxk" src="https://i.ytimg.com/vi/QybOwzWJUxk/hqdefault.jpg"/></a> | [스프링 게시판 만들기 1. HOME \[#부트스트랩 #JSP #oracle\]](https://www.youtube.com/watch?v=QybOwzWJUxk) <br/><br/> _[Null ISTP][yu-nullistp4065]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=tnVetiVxVQQ"><img width="140px" height="auto" alt="thumb-tnVetiVxVQQ" src="https://i.ytimg.com/vi/tnVetiVxVQQ/hqdefault.jpg"/></a> | [iOS 12.5.1 Released - iPhone 6, 6plus, 5s What's NEW?](https://www.youtube.com/watch?v=tnVetiVxVQQ) <br/><br/> _[iApplePro][yu-i-apple-pro]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=aFa_IQGIuVA"><img width="140px" height="auto" alt="thumb-aFa_IQGIuVA" src="https://i.ytimg.com/vi/aFa_IQGIuVA/hqdefault.jpg"/></a> | [Awwvision Cloud Vision API from a Kubernetes Cluster \|  Qwiklabs Game \| TECH_ED](https://www.youtube.com/watch?v=aFa_IQGIuVA) <br/><br/> _[TECH_ED][yu-techedcs]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=ZUhAgJPlzvg"><img width="140px" height="auto" alt="thumb-ZUhAgJPlzvg" src="https://i.ytimg.com/vi/ZUhAgJPlzvg/hqdefault.jpg"/></a> | [0 to 💯 zsh config in 50 lines or less](https://www.youtube.com/watch?v=ZUhAgJPlzvg) <br/><br/> _[Khalili Oriented Programming][yu-kop]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=x94uf4YrcBw"><img width="140px" height="auto" alt="thumb-x94uf4YrcBw" src="https://i.ytimg.com/vi/x94uf4YrcBw/hqdefault.jpg"/></a> | [Using the SQL Change Automation PowerShell cmdlets with GitLab](https://www.youtube.com/watch?v=x94uf4YrcBw) <br/><br/> _[Redgate Videos][yu-redgate]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=QfcARI0HKzE"><img width="140px" height="auto" alt="thumb-QfcARI0HKzE" src="https://i.ytimg.com/vi/QfcARI0HKzE/hqdefault.jpg"/></a> | [Continuous Delivery with Jenkins in Kubernetes Engine \| Qwiklabs #JENKINS  \| TECH_ED](https://www.youtube.com/watch?v=QfcARI0HKzE) <br/><br/> _[TECH_ED][yu-techedcs]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=fqMYI04QHBM"><img width="140px" height="auto" alt="thumb-fqMYI04QHBM" src="https://i.ytimg.com/vi/fqMYI04QHBM/hqdefault.jpg"/></a> | [\[TMItalk\] 하루만 삽질하면 충분한 온라인 코딩테스트 서버 구축](https://www.youtube.com/watch?v=fqMYI04QHBM) <br/><br/> _[주니온TV 아무거나연구소][yu-joonion]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=EHoNyd0Txkg"><img width="140px" height="auto" alt="thumb-EHoNyd0Txkg" src="https://i.ytimg.com/vi/EHoNyd0Txkg/hqdefault.jpg"/></a> | [Introduction to Amazon Aurora -  A Relational Database Engine](https://www.youtube.com/watch?v=EHoNyd0Txkg) <br/><br/> _[TECH_ED][yu-techedcs]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=iPTSU-p-qOw"><img width="140px" height="auto" alt="thumb-iPTSU-p-qOw" src="https://i.ytimg.com/vi/iPTSU-p-qOw/hqdefault.jpg"/></a> | [Android App From Scratch - Part 1 - Kotlin](https://www.youtube.com/watch?v=iPTSU-p-qOw) <br/><br/> _[Electronic Armory][yu-electornic-armory]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=TzNQs85fL1w"><img width="140px" height="auto" alt="thumb-TzNQs85fL1w" src="https://i.ytimg.com/vi/TzNQs85fL1w/hqdefault.jpg"/></a> | [SUB\) Portfolio Website to Get a Job in New York](https://www.youtube.com/watch?v=TzNQs85fL1w) <br/><br/> _[Interactive Developer][yu-cmiscm]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=F5B6fbTAl04"><img width="140px" height="auto" alt="thumb-F5B6fbTAl04" src="https://i.ytimg.com/vi/F5B6fbTAl04/hqdefault.jpg"/></a> | [SwiftUI 2.0: CloudKit &amp; Core Data - Getting Started](https://www.youtube.com/watch?v=F5B6fbTAl04) <br/><br/> _[BeyondOnesAndZeros][yu-beyond-ones-and-zeros]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=7alO6TQDWQQ"><img width="140px" height="auto" alt="thumb-7alO6TQDWQQ" src="https://i.ytimg.com/vi/7alO6TQDWQQ/hqdefault.jpg"/></a> | [Converting an existing app screen to Jetpack Compose \(Part 1\) - Material Live](https://www.youtube.com/watch?v=7alO6TQDWQQ) <br/><br/> _[Material Design][yu-materialdesign]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=J-rruNKcY0Y"><img width="140px" height="auto" alt="thumb-J-rruNKcY0Y" src="https://i.ytimg.com/vi/J-rruNKcY0Y/hqdefault.jpg"/></a> | [Beyond Animations with Core Animation - John Sundell, Swift by Sundell](https://www.youtube.com/watch?v=J-rruNKcY0Y) <br/><br/> _[Algolia][yu-algolia]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=091Mdv_Rjb4"><img width="140px" height="auto" alt="thumb-091Mdv_Rjb4" src="https://i.ytimg.com/vi/091Mdv_Rjb4/hqdefault.jpg"/></a> | [SwiftUI 2.0: Core Data - How To Use Core Data From Scratch \(2020\)](https://www.youtube.com/watch?v=091Mdv_Rjb4) <br/><br/> _[BeyondOnesAndZeros][yu-beyond-ones-and-zeros]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=bRpFHqv0tRQ"><img width="140px" height="auto" alt="thumb-bRpFHqv0tRQ" src="https://i.ytimg.com/vi/bRpFHqv0tRQ/hqdefault.jpg"/></a> | [SwiftUI 2.0 + Combine - Getting Started \(2020\)](https://www.youtube.com/watch?v=bRpFHqv0tRQ) <br/><br/> _[BeyondOnesAndZeros][yu-beyond-ones-and-zeros]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=foZiwDb-YUE"><img width="140px" height="auto" alt="thumb-foZiwDb-YUE" src="https://i.ytimg.com/vi/foZiwDb-YUE/hqdefault.jpg"/></a> | [Vue 3 Typescript Tutorial - Basic user login flow with Typescript and Vue 3](https://www.youtube.com/watch?v=foZiwDb-YUE) <br/><br/> _[Justin Brooks][yu-codingwithjustin7995]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=OaSBEZgk_C0"><img width="140px" height="auto" alt="thumb-OaSBEZgk_C0" src="https://i.ytimg.com/vi/OaSBEZgk_C0/hqdefault.jpg"/></a> | [Android Studio \(Java\) Insert and Eject SIM Card Detection Using Telephony Manager and Live Data](https://www.youtube.com/watch?v=OaSBEZgk_C0) <br/><br/> _[Ferer Atlus][yu-fereratlus8705]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=hgE1ssVAVKI"><img width="140px" height="auto" alt="thumb-hgE1ssVAVKI" src="https://i.ytimg.com/vi/hgE1ssVAVKI/hqdefault.jpg"/></a> | [\[Tutorial\] How to Install MacOS Big Sur onto a 2012 MacBook Pro](https://www.youtube.com/watch?v=hgE1ssVAVKI) <br/><br/> _[Scuappy's Videos][yu-scuappysDroneVideos1]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Ir9EoYJypk0"><img width="140px" height="auto" alt="thumb-Ir9EoYJypk0" src="https://i.ytimg.com/vi/Ir9EoYJypk0/hqdefault.jpg"/></a> | [Android Studio \(Kotlin\) Simple Dagger Hilt Data Store MVVM](https://www.youtube.com/watch?v=Ir9EoYJypk0) <br/><br/> _[Ferer Atlus][yu-fereratlus8705]_ |
@@ -663,7 +645,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=db44T7qFAdE"><img width="140px" height="auto" alt="thumb-db44T7qFAdE" src="https://i.ytimg.com/vi/db44T7qFAdE/hqdefault.jpg"/></a> | [Keep Network의 ECDSA &amp; Beacon nodes Digital Ocean에 설치하기](https://www.youtube.com/watch?v=db44T7qFAdE) <br/><br/> _[우성짱TV][yu-woosungjjangtv]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=RWEZITw27Ts"><img width="140px" height="auto" alt="thumb-RWEZITw27Ts" src="https://i.ytimg.com/vi/RWEZITw27Ts/hqdefault.jpg"/></a> | [작정하고 장고 1강 - 무엇을 만들 것인지 : Django로 Pinterest 따라하기!](https://www.youtube.com/watch?v=RWEZITw27Ts) <br/><br/> _[실용주의 프로그래머][yu-user-zx1rk8qx6q]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=bTOKiUn4PcQ"><img width="140px" height="auto" alt="thumb-bTOKiUn4PcQ" src="https://i.ytimg.com/vi/bTOKiUn4PcQ/hqdefault.jpg"/></a> | [공업수학 Kreyszig A part 상미분방정식 - 상미분방정식 푸는 방법](https://www.youtube.com/watch?v=bTOKiUn4PcQ) <br/><br/> _[홀릭스 - HOLIX Kr][yu-holix-kr]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=afv7vsgweBE"><img width="140px" height="auto" alt="thumb-afv7vsgweBE" src="https://i.ytimg.com/vi/afv7vsgweBE/hqdefault.jpg"/></a> | [파이썬으로 한글 맞춤법 검사 자동화 코딩 하기 🥪\[언어탐방🔎\]](https://www.youtube.com/watch?v=afv7vsgweBE) <br/><br/> _[코딩하는거니][yu-gunnycoding]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=WRrzX7cGHaY"><img width="140px" height="auto" alt="thumb-WRrzX7cGHaY" src="https://i.ytimg.com/vi/WRrzX7cGHaY/hqdefault.jpg"/></a> | [Unlocking Excel 4.0 Macro Malware](https://www.youtube.com/watch?v=WRrzX7cGHaY) <br/><br/> _[cybercdh][yu-cybercdh]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=LLfhY4eVwDY"><img width="140px" height="auto" alt="thumb-LLfhY4eVwDY" src="https://i.ytimg.com/vi/LLfhY4eVwDY/hqdefault.jpg"/></a> | [Creative Coding Tutorial : Moving wave with JavaScript](https://www.youtube.com/watch?v=LLfhY4eVwDY) <br/><br/> _[Interactive Developer][yu-cmiscm]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=B8ZJXKG8AOw"><img width="140px" height="auto" alt="thumb-B8ZJXKG8AOw" src="https://i.ytimg.com/vi/B8ZJXKG8AOw/hqdefault.jpg"/></a> | [Docker Yolo V4 image \| Object detection \| Containers \| darknet \| gpu \| webcam \| v3](https://www.youtube.com/watch?v=B8ZJXKG8AOw) <br/><br/> _[dotslashrun][yu-dotslashrun]_ |
@@ -671,13 +652,11 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=J5tnGOYh69w"><img width="140px" height="auto" alt="thumb-J5tnGOYh69w" src="https://i.ytimg.com/vi/J5tnGOYh69w/hqdefault.jpg"/></a> | [Lecture 22: LoadBalancer Between two VPC \| AWS](https://www.youtube.com/watch?v=J5tnGOYh69w) <br/><br/> _[Network Shield][yu-network-shield]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=xdwkerdL3-Y"><img width="140px" height="auto" alt="thumb-xdwkerdL3-Y" src="https://i.ytimg.com/vi/xdwkerdL3-Y/hqdefault.jpg"/></a> | [PART #2  \| Multi User using One Login Form with User and Admin Dashboard in VB NET with MS Access](https://www.youtube.com/watch?v=xdwkerdL3-Y) <br/><br/> _[Source Code PH][yu-source-code-pm]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=G0LeZ00-c58"><img width="140px" height="auto" alt="thumb-G0LeZ00-c58" src="https://i.ytimg.com/vi/G0LeZ00-c58/hqdefault.jpg"/></a> | [React Native SVG 3D Animations](https://www.youtube.com/watch?v=G0LeZ00-c58) <br/><br/> _[William Candillon][yu-wcandillon]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=jo8VGpJzQEE"><img width="140px" height="auto" alt="thumb-jo8VGpJzQEE" src="https://i.ytimg.com/vi/jo8VGpJzQEE/hqdefault.jpg"/></a> | [SUB\) A project inspired by traditional Mexican food](https://www.youtube.com/watch?v=jo8VGpJzQEE) <br/><br/> _[Interactive Developer][yu-cmiscm]_ |
+| ❌ | <a href="https://www.youtube.com/watch?v=jo8VGpJzQEE"><img width="140px" height="auto" alt="thumb-jo8VGpJzQEE" src="https://i.ytimg.com/vi/jo8VGpJzQEE/hqdefault.jpg"/></a> | [SUB) A project inspired by traditional Mexican food](https://www.youtube.com/watch?v=jo8VGpJzQEE) <br/><br/> _[Interactive Developer][yu-cmiscm]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=X7FObUG1SS8"><img width="140px" height="auto" alt="thumb-X7FObUG1SS8" src="https://i.ytimg.com/vi/X7FObUG1SS8/hqdefault.jpg"/></a> | [🔧 How to CLEAR All Cache in Windows 10 to Improve Performance &amp; Speed Up ANY PC!](https://www.youtube.com/watch?v=X7FObUG1SS8) <br/><br/> _[Panjno][yu-panjno]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ys3iivkSh9g"><img width="140px" height="auto" alt="thumb-Ys3iivkSh9g" src="https://i.ytimg.com/vi/Ys3iivkSh9g/hqdefault.jpg"/></a> | [Vue 3 and Vuex Testing for Beginners](https://www.youtube.com/watch?v=Ys3iivkSh9g) <br/><br/> _[Justin Brooks][yu-codingwithjustin7995]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=X_T6IPNCKmE"><img width="140px" height="auto" alt="thumb-X_T6IPNCKmE" src="https://i.ytimg.com/vi/X_T6IPNCKmE/hqdefault.jpg"/></a> | [`oznu`/`guacamole` on Openmediavault \| Docker](https://www.youtube.com/watch?v=X_T6IPNCKmE) <br/><br/> _[djismGAMING][yu-djismgaming2116]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=-MA74bYFHp0"><img width="140px" height="auto" alt="thumb--MA74bYFHp0" src="https://i.ytimg.com/vi/-MA74bYFHp0/hqdefault.jpg"/></a> | [전기기사 실기 공부법 진짜 이걸로 끝내자!_4편_짜증나는이유&amp;팁](https://www.youtube.com/watch?v=-MA74bYFHp0) <br/><br/> _[취준생일기][yu-user-cj9zo7hb4p]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=VL1mAMTLtD4"><img width="140px" height="auto" alt="thumb-VL1mAMTLtD4" src="https://i.ytimg.com/vi/VL1mAMTLtD4/hqdefault.jpg"/></a> | [Scalable Sequences in Oracle Database 18c Onward](https://www.youtube.com/watch?v=VL1mAMTLtD4) <br/><br/> _[ORACLE-BASE.com][yu-oracle-base]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=2r9x8DNo3UU"><img width="140px" height="auto" alt="thumb-2r9x8DNo3UU" src="https://i.ytimg.com/vi/2r9x8DNo3UU/hqdefault.jpg"/></a> | [PHP MVC Framework - Create Your Own Framework \[Urdu/Hindi\]](https://www.youtube.com/watch?v=2r9x8DNo3UU) <br/><br/> _[Shakil Khan Programmer][yu-shakilkhanprogrammer]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=KqlJKQfWNJY"><img width="140px" height="auto" alt="thumb-KqlJKQfWNJY" src="https://i.ytimg.com/vi/KqlJKQfWNJY/hqdefault.jpg"/></a> | [Make Splash screen with React Native for iOS \| React Native Tutorial for beginner](https://www.youtube.com/watch?v=KqlJKQfWNJY) <br/><br/> _[Tharo][yu-tharo]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=r3Kcais5ZQ0"><img width="140px" height="auto" alt="thumb-r3Kcais5ZQ0" src="https://i.ytimg.com/vi/r3Kcais5ZQ0/hqdefault.jpg"/></a> | [Customer Journeys: From SQL Data Generator to Data Masker](https://www.youtube.com/watch?v=r3Kcais5ZQ0) <br/><br/> _[Redgate Videos][yu-redgate]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=FXI7DmTnuA0"><img width="140px" height="auto" alt="thumb-FXI7DmTnuA0" src="https://i.ytimg.com/vi/FXI7DmTnuA0/hqdefault.jpg"/></a> | [SAPUI5 Getting Started \| SAPUI5 Application Beginner \| SAPUI5 App Component \| SAPUI5 Tutorial](https://www.youtube.com/watch?v=FXI7DmTnuA0) <br/><br/> _[Community Network][yu-UI5]_ |
@@ -722,7 +701,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=6Er8MAvTWlI"><img width="140px" height="auto" alt="thumb-6Er8MAvTWlI" src="https://i.ytimg.com/vi/6Er8MAvTWlI/hqdefault.jpg"/></a> | [Dockerfile Tutorial by Example - \( Part I - Basics \)](https://www.youtube.com/watch?v=6Er8MAvTWlI) <br/><br/> _[takacsmark][yu-takacsmark]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Vyp5_F42NGs"><img width="140px" height="auto" alt="thumb-Vyp5_F42NGs" src="https://i.ytimg.com/vi/Vyp5_F42NGs/hqdefault.jpg"/></a> | [Getting started with docker, the step by step tutorial \[ with examples \]](https://www.youtube.com/watch?v=Vyp5_F42NGs) <br/><br/> _[takacsmark][yu-takacsmark]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Yr0jbSSALKE"><img width="140px" height="auto" alt="thumb-Yr0jbSSALKE" src="https://i.ytimg.com/vi/Yr0jbSSALKE/hqdefault.jpg"/></a> | [안드로이드 앱 만들기 - #2 QR코드 스캐너](https://www.youtube.com/watch?v=Yr0jbSSALKE) <br/><br/> _[슬기로운코딩생활][yu-user-st5nc9ie7x]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=OAELmnSjaKs"><img width="140px" height="auto" alt="thumb-OAELmnSjaKs" src="https://i.ytimg.com/vi/OAELmnSjaKs/hqdefault.jpg"/></a> | [파일 복구 프로그램 이지어스 \(EaseUS Data Recovery Wizard\) 파일 죽어라 살려보기](https://www.youtube.com/watch?v=OAELmnSjaKs) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=ZqgiuPt5QZo"><img width="140px" height="auto" alt="thumb-ZqgiuPt5QZo" src="https://i.ytimg.com/vi/ZqgiuPt5QZo/hqdefault.jpg"/></a> | [Vue 3 Tutorial for Beginners - FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=ZqgiuPt5QZo) <br/><br/> _[The Earth Is Square][yu-the-earth-is-square]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=LvJE5468xtg"><img width="140px" height="auto" alt="thumb-LvJE5468xtg" src="https://i.ytimg.com/vi/LvJE5468xtg/hqdefault.jpg"/></a> | [CMDEV Flutter: ติดตั้ง Flutter บนเครื่อง Windows \(update 2020\)](https://www.youtube.com/watch?v=LvJE5468xtg) <br/><br/> _[CMDev][yu-cm-dev]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=83QCm3LkuEg"><img width="140px" height="auto" alt="thumb-83QCm3LkuEg" src="https://i.ytimg.com/vi/83QCm3LkuEg/hqdefault.jpg"/></a> | [Classical Mechanics Lecture Full Course \|\| Mechanics Physics Course](https://www.youtube.com/watch?v=83QCm3LkuEg) <br/><br/> _[My CS][yu-my-cs]_ |
@@ -733,7 +711,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=G2ljqxRxqW0"><img width="140px" height="auto" alt="thumb-G2ljqxRxqW0" src="https://i.ytimg.com/vi/G2ljqxRxqW0/hqdefault.jpg"/></a> | [DC_THURS : Apache Arrow w/ Wes McKinney](https://www.youtube.com/watch?v=G2ljqxRxqW0) <br/><br/> _[Data Council][yu-data-council]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=w-eQXEDutfc"><img width="140px" height="auto" alt="thumb-w-eQXEDutfc" src="https://i.ytimg.com/vi/w-eQXEDutfc/hqdefault.jpg"/></a> | [BPyTop – Fancy System Monitor for Linux Terminal](https://www.youtube.com/watch?v=w-eQXEDutfc) <br/><br/> _[quidsup][yu-quidsup]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=un8j6QqpYa0"><img width="140px" height="auto" alt="thumb-un8j6QqpYa0" src="https://i.ytimg.com/vi/un8j6QqpYa0/hqdefault.jpg"/></a> | [How to Make a Gantt Chart in Excel](https://www.youtube.com/watch?v=un8j6QqpYa0) <br/><br/> _[Vertex42][yu-vertex42]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=J4O-0FywHFk"><img width="140px" height="auto" alt="thumb-J4O-0FywHFk" src="https://i.ytimg.com/vi/J4O-0FywHFk/hqdefault.jpg"/></a> | [실시간 태풍 경로 최강자 윈디 사이트/앱에서 확인하자](https://www.youtube.com/watch?v=J4O-0FywHFk) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=Oeh2IJw7Zig"><img width="140px" height="auto" alt="thumb-Oeh2IJw7Zig" src="https://i.ytimg.com/vi/Oeh2IJw7Zig/hqdefault.jpg"/></a> | [Blazor Web Apps - Goodbye JavaScript! I'm in love with C#](https://www.youtube.com/watch?v=Oeh2IJw7Zig) <br/><br/> _[SSW TV | Videos for developers, by developers][yu-ssw-tv]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=XxgiCi-51lM"><img width="140px" height="auto" alt="thumb-XxgiCi-51lM" src="https://i.ytimg.com/vi/XxgiCi-51lM/hqdefault.jpg"/></a> | [Fixing my AC today](https://www.youtube.com/watch?v=XxgiCi-51lM) <br/><br/> _[로동복어][yu-lodongbokeo]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=cxhRT2B4Z7g"><img width="140px" height="auto" alt="thumb-cxhRT2B4Z7g" src="https://i.ytimg.com/vi/cxhRT2B4Z7g/hqdefault.jpg"/></a> | [Demonstration of the downlink IMP4GT attack in a commercial LTE network](https://www.youtube.com/watch?v=cxhRT2B4Z7g) <br/><br/> _[Rupprecht][yu-davidrupprecht7694]_ |
@@ -952,12 +929,10 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=670ZGMBjrPI"><img width="140px" height="auto" alt="thumb-670ZGMBjrPI" src="https://i.ytimg.com/vi/670ZGMBjrPI/hqdefault.jpg"></a> | [The 48 Laws of Power \(Animated\)](https://www.youtube.com/watch?v=670ZGMBjrPI) <br/><br/> _[illacertus][yu-illacertus]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=WnyyDmKe5dI"><img width="140px" height="auto" alt="thumb-WnyyDmKe5dI" src="https://i.ytimg.com/vi/WnyyDmKe5dI/hqdefault.jpg"></a> | [2010 Macbook Pro 13" A1278 WiFi AirPort Card Replacement](https://www.youtube.com/watch?v=WnyyDmKe5dI) <br/><br/> _[GRIBSOFT][yu-gribsoft]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=H5GETOP7ivs"><img width="140px" height="auto" alt="thumb-H5GETOP7ivs" src="https://i.ytimg.com/vi/H5GETOP7ivs/hqdefault.jpg"></a> | [Motion Canvas is now Open Source!](https://www.youtube.com/watch?v=H5GETOP7ivs) <br/><br/> _[aarthificial][yu-aarthificial]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=Ch5VhJzaoaI"><img width="140px" height="auto" alt="thumb-Ch5VhJzaoaI" src="https://i.ytimg.com/vi/Ch5VhJzaoaI/hqdefault.jpg"></a> | [Apache Kafka in 6 minutes](https://www.youtube.com/watch?v=Ch5VhJzaoaI) <br/><br/> _[James Cutajar][yu-james-cutajar]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=TwNlr-pVrqI"><img width="140px" height="auto" alt="thumb-TwNlr-pVrqI" src="https://i.ytimg.com/vi/TwNlr-pVrqI/hqdefault.jpg"></a> | [윈도우11 순정, 우회 완벽 설치하기[rufus 3.20 beta]](https://www.youtube.com/watch?v=TwNlr-pVrqI) <br/><br/> _[컴일병 구하기][yu-saving-private-com]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=1exSoEPY9Ug"><img width="140px" height="auto" alt="thumb-1exSoEPY9Ug" src="https://i.ytimg.com/vi/1exSoEPY9Ug/hqdefault.jpg"></a> | [CMD : Control your Monitor \| Brightness, Contrast, Sharpness, Red/Green/Blue color balance](https://www.youtube.com/watch?v=1exSoEPY9Ug) <br/><br/> _[BTH][yu-bth]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=0gv8D_Oi5Ys"><img width="140px" height="auto" alt="thumb-0gv8D_Oi5Ys" src="https://i.ytimg.com/vi/0gv8D_Oi5Ys/hqdefault.jpg"></a> | [I used ChatGPT to do my job for me!](https://www.youtube.com/watch?v=0gv8D_Oi5Ys) <br/><br/> _[Keep On Coding][yu-keep-on-coding]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=VznoKyh6AXs"><img width="140px" height="auto" alt="thumb-VznoKyh6AXs" src="https://i.ytimg.com/vi/VznoKyh6AXs/hqdefault.jpg"></a> | [How to learn to code FAST using ChatGPT (it's a game changer seriously)](https://www.youtube.com/watch?v=VznoKyh6AXs) <br/><br/> _[Tina Huang][yu-tina-huang]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=8dkwk6d8vdY"><img width="140px" height="auto" alt="thumb-8dkwk6d8vdY" src="https://i.ytimg.com/vi/8dkwk6d8vdY/hqdefault.jpg"></a> | [Autenticação local com BIOMETRIA no React Native](https://www.youtube.com/watch?v=8dkwk6d8vdY) <br/><br/> _[Rocketseat][yu-rocketseat]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=1pHYKdyRvrw"><img width="140px" height="auto" alt="thumb-1pHYKdyRvrw" src="https://i.ytimg.com/vi/1pHYKdyRvrw/hqdefault.jpg"></a> | [Full Data Analysis Portfolio Exercise (SQL, Excel, Tableau)](https://www.youtube.com/watch?v=1pHYKdyRvrw) <br/><br/> _[Dataset Guru][yu-dataset-guru]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=SLo8hPHlv6Q"><img width="140px" height="auto" alt="thumb-SLo8hPHlv6Q" src="https://i.ytimg.com/vi/SLo8hPHlv6Q/hqdefault.jpg"></a> | [What's on hackers desk? Hackers Desk Tour!](https://www.youtube.com/watch?v=SLo8hPHlv6Q) <br/><br/> _[티오리티비 TheoriTV][yu-theori-tv]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=w8yWXqWQYmU"><img width="140px" height="auto" alt="thumb-w8yWXqWQYmU" src="https://i.ytimg.com/vi/w8yWXqWQYmU/hqdefault.jpg"></a> | [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy &amp; math)](https://www.youtube.com/watch?v=w8yWXqWQYmU) <br/><br/> _[Samson Zhang][yu-samson-zhang]_ |
@@ -966,7 +941,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 | ❌ | <a href="https://www.youtube.com/watch?v=A_2zcu15ukY"><img width="140px" height="auto" alt="thumb-A_2zcu15ukY" src="https://i.ytimg.com/vi/A_2zcu15ukY/hqdefault.jpg"></a> | [Blue Green Deployment Strategy Explained](https://www.youtube.com/watch?v=A_2zcu15ukY) <br/><br/> _[Tech and Beyond With Moss][yu-tech_with_moss]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=7uSjxZhJtNo"><img width="140px" height="auto" alt="thumb-7uSjxZhJtNo" src="https://i.ytimg.com/vi/7uSjxZhJtNo/hqdefault.jpg"></a> | [$150 Dell Optiplex 7020 Hackintosh Computer using Opencore - with FREE EFI!](https://www.youtube.com/watch?v=7uSjxZhJtNo) <br/><br/> _[TechNolli][yu-tech-nolli]_ |
 | ❌ | <a href="https://www.youtube.com/watch?v=vEm-f2MTjcY"><img width="140px" height="auto" alt="thumb-vEm-f2MTjcY" src="https://i.ytimg.com/vi/vEm-f2MTjcY/hqdefault.jpg"></a> | [PowerTower Pro: The Mac Clone That Almost Killed Apple](https://www.youtube.com/watch?v=vEm-f2MTjcY) <br/><br/> _[This Does Not Compute][yu-this-does-not-compute]_ |
-| ❌ | <a href="https://www.youtube.com/watch?v=_6UmYzUfuQ4"><img width="140px" height="auto" alt="thumb-_6UmYzUfuQ4" src="https://i.ytimg.com/vi/_6UmYzUfuQ4/hqdefault.jpg"></a> | [Recommend a plan How to make it easy to choose according to me SKT Direct Plan 5G](https://www.youtube.com/watch?v=_6UmYzUfuQ4) <br/><br/> _[씨디맨][yu-cdmanii]_ |
 
 
 <TagLinks />
@@ -982,7 +956,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-maaslalani]: https://www.youtube.com/@maaslalani
 [yu-this-does-not-compute]: https://www.youtube.com/@ThisDoesNotCompute
 [yu-amit-nepal]: https://www.youtube.com/@AmitNepal
-[yu-jamo_JonPark]: https://www.youtube.com/@jamo_JonPark
 [yu-dammit-jeff]: https://www.youtube.com/@DammitJeff
 [yu-sql2949]: https://www.youtube.com/@-sql2949
 [yu-powercert-animated-videos]: https://www.youtube.com/@PowerCertAnimatedVideos
@@ -999,7 +972,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-lukemiani]: https://www.youtube.com/@lukemiani
 [yu-cloud-learning]: https://www.youtube.com/@CloudLearning
 [yu-dj-oamen]: https://www.youtube.com/@DJOamen
-[yu-cdmanii]: https://www.youtube.com/@cdmanii
 [yu-datastax-developers]: https://www.youtube.com/@DataStaxDevs
 [yu-chris-lawley]: https://www.youtube.com/@ChrisLawley
 [yu-gbjxc]: https://www.youtube.com/@gbjxc
@@ -1013,7 +985,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-senior-mars-tries]: https://www.youtube.com/@SeniorMarsTries
 [yu-code-beauty]: https://www.youtube.com/@CodeBeauty
 [yu-craft-computing]: https://www.youtube.com/@CraftComputing
-[yu-joseanmartinez]: https://www.youtube.com/@joseanmartinez
 [yu-contextfree]: https://www.youtube.com/@contextfree
 [yu-cognitive-surge]: https://www.youtube.com/@CognitiveSurge
 [yu-nemean]: https://www.youtube.com/@Nemean
@@ -1039,7 +1010,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-materialdesign]: https://www.youtube.com/@materialdesign
 [yu-techedcs]: https://www.youtube.com/@techedcs
 [yu-cm-dev]: https://www.youtube.com/@CMDevChannel
-[yu-rocketseat]: https://www.youtube.com/@rocketseat
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
 [yu-tech-gumbo]: https://www.youtube.com/@TechGumbo
 [yu-loianegroner]: https://www.youtube.com/@loianegroner
@@ -1072,13 +1042,11 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-user-uc2wv8zw3h]: https://www.youtube.com/@user-uc2wv8zw3h
 [yu-oj-tube]: https://www.youtube.com/@OJTube
 [yu-muhanbattery]: https://www.youtube.com/@muhanbattery
-[yu-rocketseat]: https://www.youtube.com/@rocketseat
 [yu-sketch-2-react]: https://www.youtube.com/@Sketch2React
 [yu-james-montemagno]: https://www.youtube.com/@JamesMontemagno
 [yu-caler-edwards]: https://www.youtube.com/@CalerEdwards
 [yu-level-up-tuts]: https://www.youtube.com/@LevelUpTuts
 [yu-csezsw]: https://www.youtube.com/@csezsw
-[yu-mediacccde]: https://www.youtube.com/@mediacccde
 [yu-wanjohi-kubui]: https://www.youtube.com/@WanjohiKibui
 [yu-b-log3651]: https://www.youtube.com/@b-log3651
 [yu-be9952]: https://www.youtube.com/@be9952
@@ -1088,7 +1056,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-paul-programming]: https://www.youtube.com/@PaulProgramming
 [yu-susanth-sutheesh]: https://www.youtube.com/@SusanthSutheesh
 [yu-creativeclue2772]: https://www.youtube.com/@creativeclue2772
-[yu-huakunshen3670]: https://www.youtube.com/@huakunshen3670
 [yu-securerandom5420]: https://www.youtube.com/@securerandom5420
 [yu-wes-doyle]: https://www.youtube.com/@WesDoyle
 [yu-level-up-tuts]: https://www.youtube.com/@LevelUpTuts
@@ -1099,7 +1066,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-analytics-university]: https://www.youtube.com/@AnalyticsUniversity
 [yu-user-pp5hq7vz4j]: https://www.youtube.com/@user-pp5hq7vz4j
 [yu-user-ee8ow6tk5p]: https://www.youtube.com/@user-ee8ow6tk5p
-[yu-techwiser]: https://www.youtube.com/@techwiser
 [yu-joonion]: https://www.youtube.com/@joonion
 [yu-master-nks]: https://www.youtube.com/@MasterNKS
 [yu-tantandev]: https://www.youtube.com/@Tantandev
@@ -1154,7 +1120,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-m-n-coder]: https://www.youtube.com/@m.ncoder9825
 [yu-destoffe]: https://www.youtube.com/@destoffe
 [yu-blondiebytes]: https://www.youtube.com/@blondiebytes
-[yu-digital-ocean]: https://www.youtube.com/@DigitalOcean
 [yu-user-ht1es4sm7v]: https://www.youtube.com/@user-ht1es4sm7v
 [yu-seefromfar143]: https://www.youtube.com/@seefromfar143
 [yu-leigh-halliday]: https://www.youtube.com/@leighhalliday
@@ -1227,7 +1192,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-surendranvelath4355]: https://www.youtube.com/@surendranvelath4355
 [yu-tech-hut]: https://www.youtube.com/@TechHut
 [yu-one-marc-fifty]: https://www.youtube.com/@OneMarcFifty
-[yu-beyond-ones-and-zeros]: https://www.youtube.com/@BeyondOnesAndZeros
 [yu-learn-open-cv]: https://www.youtube.com/@LearnOpenCV
 [yu-siva-reddy]: https://www.youtube.com/@SivaReddyJavaTechie
 [yu-happy-coders]: https://www.youtube.com/@HappyCoders
@@ -1248,13 +1212,10 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-techtter]: https://www.youtube.com/@Techtter
 [yu-ahastudio]: https://www.youtube.com/@ahastudio
 [yu-nullistp4065]: https://www.youtube.com/@nullistp4065
-[yu-kop]: https://www.youtube.com/@K0P
 [yu-redgate]: https://www.youtube.com/@redgate
 [yu-oppadu]: https://www.youtube.com/@Oppadu
 [yu-electornic-armory]: https://www.youtube.com/@ElectronicArmory
 [yu-cmiscm]: https://www.youtube.com/@cmiscm
-[yu-algolia]: https://www.youtube.com/@Algolia
-[yu-codingwithjustin7995]: https://www.youtube.com/@codingwithjustin7995
 [yu-fereratlus8705]: https://www.youtube.com/@fereratlus8705
 [yu-scuappysDroneVideos1]: https://www.youtube.com/@ScuappysDroneVideos1
 [yu-fireeye-korea]: https://www.youtube.com/@FireEyeKorea
@@ -1274,7 +1235,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-user-st5nc9ie7x]: https://www.youtube.com/@user-st5nc9ie7x
 [yu-woosungjjangtv]: https://www.youtube.com/@woosungjjangtv
 [yu-feconfkorea]: https://www.youtube.com/@feconfkorea
-[yu-gunnycoding]: https://www.youtube.com/@gunnycoding
 [yu-cybercdh]: https://www.youtube.com/@cybercdh
 [yu-hallden]: https://www.youtube.com/@Hallden_
 [yu-dotslashrun]: https://www.youtube.com/@dotslashrun
@@ -1285,7 +1245,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-user-cj9zo7hb4p]: https://www.youtube.com/@user-cj9zo7hb4p
 [yu-freddingo33]: https://www.youtube.com/@freddingo33
 [yu-chris-tutorial]: https://www.youtube.com/@ChrisTutorialsYT
-[yu-shakilkhanprogrammer]: https://www.youtube.com/@shakilkhanprogrammer
 [yu-tharo]: https://www.youtube.com/@tharo382
 [yu-kevin-shroff]: https://www.youtube.com/@KevinShroff
 [yu-selenium-conf]: https://www.youtube.com/@seleniumconf
@@ -1392,7 +1351,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-dawid-does-tech-stuff]: https://www.youtube.com/@DawidDoesTechStuff
 [yu-collinsinfosec]: https://www.youtube.com/@collinsinfosec
 [yu-tronics-fix]: https://www.youtube.com/@Tronicsfix
-[yu-jinu-jawad-m]: https://www.youtube.com/@jinujawad
 [yu-copper-spice]: https://www.youtube.com/@CopperSpice
 [yu-steve-brunton]: https://www.youtube.com/@Eigensteve
 [yu-hknudesign]: https://www.youtube.com/@hknudesign
@@ -1488,7 +1446,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-develop-intelligence]: https://www.youtube.com/@DevelopIntelligence
 [yu-illacertus]: https://www.youtube.com/@Illacertus
 [yu-aarthificial]: https://www.youtube.com/@aarthificial
-[yu-james-cutajar]: https://www.youtube.com/@jamescutajar
 [yu-python-simplified]: https://www.youtube.com/@PythonSimplified
 [yu-sonulodha9215]: https://www.youtube.com/@sonulodha9215
 [yu-saving-private-com]: https://www.youtube.com/@SavingPrivateCom

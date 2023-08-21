@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "abantu_AI",
+    "name": "아반투 (인공지능 및 안드로이드 강의)",
+    "profile": "https://yt3.googleusercontent.com/IAhmPhHWKXNeU5u5YTtxntDYPX6rbDxm--IIb9BOXGHA15Qh-Z2tqg_CZV633Z584X9Ku1kpv9A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qDD1Qjz2FUl5sjxerLqchHmwjOhGKpybAI6_bUyVtlSubGND1pNe3jpWFoDfLhVatT0lefByuw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EyeqqSGcvcI", "title": "[Advanced AI 10] Interpolation (Up-sampling, Down-sampling)" }, 
+    { "id": "TUIUFUrumQw", "title": "반드시 피해야 할 대표와 중소기업 특징 5가지 (미래가 없는 대표와 중소기업)" }
+  ]
+}

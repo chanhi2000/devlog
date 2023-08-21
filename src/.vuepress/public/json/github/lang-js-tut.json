@@ -134,5 +134,15 @@
     "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
     "topics": ["react", "redux", "javascript", "css", "html", "challenge", "website", "programming", "html5", "js", "reactjs", "webdevelopment", "react-router-dom", "30dayofjavascript"],
     "officialSite": ""
+  }, {
+    "repo": "ishtms/learn-nodejs-hard-way",
+    "desc": "Master Nodejs and backend development by creating a backend web framework from scratch.",
+    "topics": ["nodejs", "javascript", "api", "learning", "education", "node", "programming", "server", "backend", "book", "learn-to-code", "coding", "learning-exercise", "learn", "learning-by-doing", "training-materials", "programming-fundamentals", "backend-development"],
+    "officialSite": "https://github.com/ishtms/learn-nodejs-hard-way"
+  }, {
+    "repo": "adrianhajdin/nike_landing_page",
+    "desc": "Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.",
+    "topics": ["nike", "tailwind", "tailwindcss", "nike-website"],
+    "officialSite": "https://tailwindcsspro.com"
   }
 ]

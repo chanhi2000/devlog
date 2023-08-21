@@ -139,6 +139,14 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## 김왼손의 왼손코딩
+
+<MyYouTubeItems jsonName="yu-leftykhim" />
+
+<!-- 김왼손의 왼손코딩 -->
+
+---
+
 ## b001
 
 <MyYouTubeItems jsonName="yu-b001" />
