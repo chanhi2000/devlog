@@ -2,64 +2,28 @@
   "channel": {
     "id": "SimplifiedCoding",
     "name": "Simplified Coding",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPpt-aSqDtACGLE6QlfxXFye50nZ93ti-C5LY7A=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPpt-aSqDtACGLE6QlfxXFye50nZ93ti-C5LY7A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yRhrt-VayTn-0MSFHZcfgSUYeGEthYenbjXt3rwjbHGzOs4XxNNYcWWhUQfQiRbCP5tvhqMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Mq5PVEmkZlQ", 
-      "title": "Assisted Injection in ViewModel using Hilt"
-    }, {
-      "id": "a7RvjJMAD3w", 
-      "title": "kTor Android Client Tutorial - Performing Simple GET Request"
-    }, {
-      "id": "rWPqjr1ZmQU", 
-      "title": "Kotlin Delegating Properties Tutorial with Example"
-    }, {
-      "id": "78RHCvTQnE0", 
-      "title": "Android Test Activity with Espresso"
-    }, {
-      "id": "wwz2uPvbfLg", 
-      "title": "Kotlin Delegation Tutorial with Example"
-    }, {
-      "id": "q_5xrPYRoAg", 
-      "title": "#12 Android Login/Signup with MVVM - User Logout"
-    }, {
-      "id": "pSDJu9iiNvE", 
-      "title": "#5 Android Login/Signup with MVVM - Base Fragment"
-    }, {
-      "id": "EUgpvEno3vI", 
-      "title": "#4 RecyclerView with MVVM - Data Binding"
-    }, {
-      "id": "3Uhorh2o1dg", 
-      "title": "#3 RecyclerView with MVVM - ViewModel and Fragment"
-    }, {
-      "id": "I485b7LzYkM", 
-      "title": "#1 Firebase Database with Kotlin Tutorial - Saving Data"
-    }, {
-      "id": "CFTCyBNXaCI", 
-      "title": "#17 Android MVVM Architecture Tutorial - RecyclerView with Groupie"
-    }, {
-      "id": "F8lL8TdLYLE", 
-      "title": "#12 Android MVVM Architecture Tutorial - User Signup"
-    }, {
-      "id": "RkRX446RSPk", 
-      "title": "#3 Android MVVM Architecture Tutorial - Using Data Binding"
-    }, {
-      "id": "A2n0It3C6eM", 
-      "title": "#6 Android Room Tutorial - Getting Saved Data"
-    }, {
-      "id": "JfM5klBXi_Q", 
-      "title": "#7 Retrofit Android Tutorial - Create Operation"
-    }, {
-      "id": "UIQ4_1B420g", 
-      "title": "#3 ML-Kit's Vision API on Android - Barcode Scanning" 
-    }, {
-      "id": "ju4AYKMe3Sw", 
-      "title": "#2 ML-Kit's Vision API on Android - CameraX" 
-    }, {
-      "id": "sVfRVVc3NkQ", 
-      "title": "#1 ML-Kit's Vision API on Android - Introduction"
-    }
+    { "id": "Mq5PVEmkZlQ",  "title": "Assisted Injection in ViewModel using Hilt" }, 
+    { "id": "a7RvjJMAD3w",  "title": "kTor Android Client Tutorial - Performing Simple GET Request" }, 
+    { "id": "rWPqjr1ZmQU",  "title": "Kotlin Delegating Properties Tutorial with Example" }, 
+    { "id": "78RHCvTQnE0",  "title": "Android Test Activity with Espresso" }, 
+    { "id": "wwz2uPvbfLg",  "title": "Kotlin Delegation Tutorial with Example" }, 
+    { "id": "q_5xrPYRoAg",  "title": "#12 Android Login/Signup with MVVM - User Logout" }, 
+    { "id": "pSDJu9iiNvE",  "title": "#5 Android Login/Signup with MVVM - Base Fragment" }, 
+    { "id": "EUgpvEno3vI",  "title": "#4 RecyclerView with MVVM - Data Binding" }, 
+    { "id": "3Uhorh2o1dg",  "title": "#3 RecyclerView with MVVM - ViewModel and Fragment" }, 
+    { "id": "I485b7LzYkM",  "title": "#1 Firebase Database with Kotlin Tutorial - Saving Data" }, 
+    { "id": "CFTCyBNXaCI",  "title": "#17 Android MVVM Architecture Tutorial - RecyclerView with Groupie" }, 
+    { "id": "F8lL8TdLYLE",  "title": "#12 Android MVVM Architecture Tutorial - User Signup" }, 
+    { "id": "RkRX446RSPk",  "title": "#3 Android MVVM Architecture Tutorial - Using Data Binding" }, 
+    { "id": "A2n0It3C6eM",  "title": "#6 Android Room Tutorial - Getting Saved Data" }, 
+    { "id": "JfM5klBXi_Q",  "title": "#7 Retrofit Android Tutorial - Create Operation" }, 
+    { "id": "UIQ4_1B420g",  "title": "#3 ML-Kit's Vision API on Android - Barcode Scanning"  }, 
+    { "id": "ju4AYKMe3Sw",  "title": "#2 ML-Kit's Vision API on Android - CameraX"  }, 
+    { "id": "sVfRVVc3NkQ",  "title": "#1 ML-Kit's Vision API on Android - Introduction" } 
   ]
 }
 

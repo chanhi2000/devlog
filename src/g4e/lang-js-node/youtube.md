@@ -1315,6 +1315,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Syncfusion, Inc
+
+<MyYouTubeItems jsonName="yu-SyncfusionInc" />
+    
+<!-- Syncfusion, Inc -->
+
+---
+
 ## Chris Courses
 
 <MyYouTubeItems jsonName="yu-ChrisCourses" />

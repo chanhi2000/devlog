@@ -253,4 +253,21 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Handstand Technologies
+
+<MyYouTubeItems jsonName="yu-handstandtech" />
+
+<!-- Handstand Technologies -->
+
+---
+
+## Let's Finish this APP - Kotlin and Swift Tutorials
+
+<MyYouTubeItems jsonName="yu-android-ios-tutorial" />
+
+<!-- Let's Finish this APP - Kotlin and Swift Tutorials -->
+
+---
+
+
 <TagLinks />

@@ -205,6 +205,30 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## .NET Interview Preparation videos
+    
+<MyYouTubeItems jsonName="yu-dnfvideo" />
+
+<!-- .NET Interview Preparation videos -->
+
+---
+
+## AngelSix
+
+<MyYouTubeItems jsonName="yu-AngelSix" />
+
+<!-- AngelSix -->
+
+---
+
+## Curious Drive
+
+<MyYouTubeItems jsonName="yu-CuriousDrive" />
+
+<!-- Curious Drive -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

@@ -141,4 +141,16 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## eugeneyan
+
+- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns)
+
+---
+
+## Hash Scraper
+
+- [클릭 한 번으로 쿠팡 상품 정보 끄집어내기! ChatGPT로 완성하는 크롤링 봇](https://blog.hashscraper.com/build-coupang-crawler-bot-with-chatgpt)
+
+---
+
 <TagLinks />

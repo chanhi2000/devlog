@@ -25,4 +25,11 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Haki Benita
+
+- [The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
+
+---
+
+
 <TagLinks />

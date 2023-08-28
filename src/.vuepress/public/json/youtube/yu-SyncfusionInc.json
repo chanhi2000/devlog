@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "SyncfusionInc",
+    "name": "Syncfusion, Inc",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSgJxZul0wgCNdM4k-nBj6k4csDFfCaWhTHqmeArw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XImi19LcfWWpWvZelmeaDN90Z56Mc5uN80Zuy6olxfhh73_JnQQ6FpqIpwSlvE3nUQwmt3k7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "E4kFxrpAJec", "title": "Create a Vue MultiSelect Dropdown Using Vue CLI" },
+    { "id": "Mrrgrb8nRlE", "title": "Customize Edit Dialog using Templates in Vue DataGrid" }    
+  ]
+}

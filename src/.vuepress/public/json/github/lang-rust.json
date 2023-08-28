@@ -599,6 +599,11 @@
     "desc": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
     "topics": ["css", "rust", "parser", "compiler", "build-tool", "minifier"],
     "officialSite": "https://lightningcss.dev"
+  }, {
+    "repo": "danog/php-tokio",
+    "desc": "Use any async Rust library from PHP!",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

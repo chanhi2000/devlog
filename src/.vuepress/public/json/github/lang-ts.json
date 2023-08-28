@@ -1283,5 +1283,10 @@
     "desc": "🪄 An online tool for making notion-style avatars.",
     "topics": ["avatar", "nextjs", "notion"],
     "officialSite": "https://notion-avatar.vercel.app"
+  }, {
+    "repo": "paradigmxyz/rivet",
+    "desc": "Developer Wallet & DevTools for Anvil",
+    "topics": [],
+    "officialSite": ""
   }
 ]

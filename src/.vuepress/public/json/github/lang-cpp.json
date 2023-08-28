@@ -554,6 +554,16 @@
     "desc": "A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.",
     "topics": ["javascript", "python", "cpp", "spidermonkey", "pythonmonke"],
     "officialSite": "https://pythonmonkey.io"
+  }, {
+    "repo": "bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "topics": ["c-plus-plus", "cryptography", "bitcoin", "p2p", "cryptocurrency"],
+    "officialSite": "https://bitcoincore.org/en/download"
+  }, {
+    "repo": "lfortran/lfortran",
+    "desc": "Official main repository for LFortran",
+    "topics": ["library", "jupyter", "compiler", "fortran", "interactive", "repl", "jupyter-notebook", "jupyter-kernels"],
+    "officialSite": "https://lfortran.org"
   }
 ]
 

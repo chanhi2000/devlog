@@ -2458,5 +2458,30 @@
     "desc": "This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model.",
     "topics": ["whisper", "asr", "transcribe", "innovatorved"],
     "officialSite": "https://innovatorved-whisper-api.hf.space"
+  }, {
+    "repo": "learnbyexample/TUI-apps",
+    "desc": "Terminal User Interface (TUI) apps",
+    "topics": ["game", "python", "playground", "interactive", "regex", "textual", "tui", "exercises", "sed", "grep", "ripgrep"],
+    "officialSite": ""
+  }, {
+    "repo": "oobabooga/text-generation-webui",
+    "desc": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "firmai/financial-machine-learning",
+    "desc": "A curated list of practical financial machine learning tools and applications.",
+    "topics": ["finance", "cryptocurrency", "stock-market", "quant", "trading-strategies", "quantitative-finance", "investment", "algorithmic-trading"],
+    "officialSite": "https://www.ml-quant.com"
+  }, {
+    "repo": "Plachtaa/VALL-E-X",
+    "desc": "An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io",
+    "topics": ["text-to-speech", "tts", "gpt", "transformer-architecture", "emotional-speech", "voice-clone", "vall-e"],
+    "officialSite": ""
+  }, {
+    "repo": "neulab/prompt2model",
+    "desc": "prompt2model - Generate Deployable Models from Natural Language Instructions",
+    "topics": [],
+    "officialSite": ""
   }
 ]
