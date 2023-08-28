@@ -549,6 +549,11 @@
     "desc": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
     "topics": ["android", "java", "ios", "app", "privacy", "mobile", "objective-c", "offline", "cpp", "navigation", "maps", "openstreetmap", "routing", "mobile-app", "offline-maps", "tourists", "hacktoberfest", "travelers", "cyclists", "hikers"],
     "officialSite": "https://organicmaps.app"
+  }, {
+    "repo": "Distributive-Network/PythonMonkey",
+    "desc": "A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.",
+    "topics": ["javascript", "python", "cpp", "spidermonkey", "pythonmonke"],
+    "officialSite": "https://pythonmonkey.io"
   }
 ]
 

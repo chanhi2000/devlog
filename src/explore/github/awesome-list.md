@@ -30,8 +30,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 
 ## Roadmap
 
-- [kamranahmedse/developer-roadmap][kamranahmedse/developer-roadmap]
-  - [🌐Official Site](https://roadmap.sh)
 - [skydoves/android-developer-roadmap][skydoves/android-developer-roadmap]
 - [MoienTajik/AspNetCore-Developer-Roadmap][MoienTajik/AspNetCore-Developer-Roadmap]: Roadmap to becoming an ASP.NET Core developer in 2022
 - [easychen/stack-roadmap][easychen/stack-roadmap]: 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
@@ -47,7 +45,6 @@ tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner",
 [gurugio/book_assembly_8086_ko]: https://github.com/gurugio/book_assembly_8086_ko
 [hehonghui/awesome-english-ebooks]: https://github.com/hehonghui/awesome-english-ebooks
 <!-- Roadmap -->
-[kamranahmedse/developer-roadmap]: https://github.com/kamranahmedse/developer-roadmap
 [skydoves/android-developer-roadmap]: https://github.com/skydoves/android-developer-roadmap
 [MoienTajik/AspNetCore-Developer-Roadmap]: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 [easychen/stack-roadmap]: https://github.com/easychen/stack-roadmap

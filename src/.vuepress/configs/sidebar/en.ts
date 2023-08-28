@@ -998,6 +998,29 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/eventhelix-rust-to-assembly/rust-to-assembly-vector-iteration.md'
       ]
     }, {
+      text: '🐚CLI Text Processing with GNU awk',
+      collapsible: true,
+      children: [
+        '/crashcourse/cli-text-processing-w-gnu-awk/README.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/01-installation-and-documentation.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/02-awk-introduction.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/03-regular-expressions.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/04-field-separators.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/05-record-separators.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/06-in-place-file-editing.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/07-using-shell-variables.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/08-control-structures.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/09-built-in-functions.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/10-multiple-file-input.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/11-processing-multiple-records.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/12-two-file-processing.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/13-dealing-with-duplicates.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/14-awk-scripts.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/15-gotchas-and-tips.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/16-further-reading.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/17-exercise-solutions.md'        
+      ]
+    },{
       text: '🧶Must Know JavaScript API',
       collapsible: true,
       children: [

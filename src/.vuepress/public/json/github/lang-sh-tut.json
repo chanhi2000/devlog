@@ -9,5 +9,10 @@
     "desc": "Master the command line, in one page",
     "topics": [],
     "officialSite": ""
-  }  
+  }, {
+    "repo": "learnbyexample/learn_gnuawk",
+    "desc": "Example based guide to mastering GNU awk",
+    "topics": ["linux", "command-line", "regex", "awk", "gnu", "exercises", "ebooks", "learn-by-doing", "one-liners"],
+    "officialSite": "https://learnbyexample.github.io/learn_gnuawk"
+  }
 ]

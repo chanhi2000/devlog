@@ -3169,4 +3169,671 @@ try {
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`list-user-groups.ps1`
+
+```card
+title: list-user-groups.ps1
+desc: Lists the user groups on the local computer.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-user-groups.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script lists the user groups of the local computer.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./list-user-groups.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./list-user-groups.ps1
+
+# Name                 Description
+# ----                 -----------
+# Administrators       Administrators have complete and unrestricted access to the computer/domain
+# ...
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists the user groups
+.DESCRIPTION
+	This PowerShell script lists the user groups of the local computer.
+.EXAMPLE
+	PS> ./list-user-groups.ps1
+
+	Name                 Description
+	----                 -----------
+	Administrators       Administrators have complete and unrestricted access to the computer/domain
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Get-LocalGroup
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`poweroff.ps1`
+
+```card
+title: poweroff.ps1
+desc: Halts the local computer (needs admin rights).
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/poweroff.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script halts the local computer immediately (needs admin rights).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./poweroff.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./poweroff
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Halts the computer (needs admin rights)
+.DESCRIPTION
+	This script halts the local computer immediately (needs admin rights).
+.EXAMPLE
+	PS> ./poweroff
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+try {
+	if ($IsLinux) {
+		sudo shutdown
+	} else {
+		Stop-Computer
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`query-smart-data.ps1`
+
+```card
+title: query-smart-data.ps1
+desc: Queries the S.M.A.R.T. data of your HDD/SSD's.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/query-smart-data.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+Queries the S.M.A.R.T. data of your HDD/SSD's and saves it to the current/given directory.
+
+(use `smart-data2csv.ps1` to generate a CSV table for analysis).
+
+Requires `smartctl` (smartmontools) and admin rights. For automation copy this script to `/etc/cron.daily`
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./query-smart-data.ps1 [[-Directory] <String>] [<CommonParameters>]
+
+-Directory <String>
+    Specifies the path to the target directory
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./query-smart-data
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Queries and saves the S.M.A.R.T. data of your HDD's/SSD's
+.DESCRIPTION
+	Queries the S.M.A.R.T. data of your HDD/SSD's and saves it to the current/given directory.
+	(use smart-data2csv.ps1 to generate a CSV table for analysis).
+        Requires smartctl (smartmontools) and admin rights. For automation copy this script to /etc/cron.daily 
+.PARAMETER Directory
+	Specifies the path to the target directory
+.EXAMPLE
+	PS> ./query-smart-data
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+param([string]$Directory = "")
+
+
+function CheckIfInstalled {
+	try {
+		$null = $(smartctl --version)
+	} catch {
+		write-error "smartctl is not installed - make sure smartmontools are installed"
+		exit 1
+	}
+}
+
+try {
+	if ($Directory -eq "") {
+		$Directory = "$PWD"
+	}
+
+	write-output "(1) Checking for 'smartctl'..."
+	CheckIfInstalled
+
+	write-output "(2) Scanning for S.M.A.R.T. devices..."
+	$Devices = $(smartctl --scan-open)
+
+	[int]$DevNo = 1
+	foreach($Device in $Devices) {
+		write-output "(3) Querying data from S.M.A.R.T. device $Device..."
+
+		$Time = (Get-Date)
+		$Filename = "$Directory/SMART-dev$($DevNo)-$($Time.Year)-$($Time.Month)-$($Time.Day).json"
+		write-output "(4) Saving data to $Filename..."
+
+		$Cmd = "smartctl --all --json " + $Device 
+
+		Invoke-Expression $Cmd > $Filename
+		$DevNo++
+	}
+
+	"✔️  Done."
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`reboot.ps1`
+
+```card
+title: reboot.ps1
+desc: Reboots the local computer (needs admin rights).
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/reboot.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script reboots the local computer immediately (needs admin rights).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./reboot.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./reboot
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Reboots the computer (needs admin rights)
+.DESCRIPTION
+	This PowerShell script reboots the local computer immediately (needs admin rights).
+.EXAMPLE
+	PS> ./reboot
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+try {
+	if ($IsLinux) {
+		& sudo reboot
+	} else {
+		Restart-Computer
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`remove-print-jobs.ps1`
+
+```card
+title: remove-print-jobs.ps1
+desc: Removes all jobs from all printers.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-print-jobs.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script removes all print jobs from all printer devices.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./remove-print-jobs.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./remove-print-jobs
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Removes all jobs from all printers
+.DESCRIPTION
+	This PowerShell script removes all print jobs from all printer devices.
+.EXAMPLE
+	PS> ./remove-print-jobs
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -Version 4
+
+try {
+	$printers = Get-Printer
+	if ($printers.Count -eq 0) { throw "No printer found" }
+		
+	foreach ($printer in $printers) {
+		$printjobs = Get-PrintJob -PrinterObject $printer
+		foreach ($printjob in $printjobs) {
+			Remove-PrintJob -InputObject $printjob
+		}
+	}
+
+	"✔️ all print jobs removed"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`restart-network-adapters.ps1`
+
+```card
+title: restart-network-adapters.ps1
+desc: Restarts all local network adapters.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/restart-network-adapters.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script restarts all local network adapters (needs admin rights).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./restart-network-adapters.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./restart-network-adapters
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Restarts the network adapters (needs admin rights)
+.DESCRIPTION
+	This PowerShell script restarts all local network adapters (needs admin rights).
+.EXAMPLE
+	PS> ./restart-network-adapters
+.LINK
+	htts://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#Requires -RunAsAdministrator
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Get-NetAdapter | Restart-NetAdapter 
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ restarted all local network adapters in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`upgrade-ubuntu.ps1`
+
+```card
+title: upgrade-ubuntu.ps1
+desc: Upgrades Ubuntu Linux to the latest (LTS) release.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/upgrade-ubuntu.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script upgrades Ubuntu Linux to the latest (LTS) release.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./upgrade-ubuntu.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> .\upgrade-ubuntu.ps1
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Upgrades Ubuntu Linux 
+.DESCRIPTION
+	This PowerShell script upgrades Ubuntu Linux to the latest (LTS) release.
+.EXAMPLE
+	PS> .\upgrade-ubuntu.ps1 
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	""
+	"⏳ (1/4) Perform a backup!"
+	"It's strongly recommended to backup your data BEFORE the upgrade!"
+	$Confirm = Read-Host "Press <Return> to continue..."
+
+	""
+	"⏳ (2/4) Install update-manager-core, Upgrade Packages & Reboot"
+	$Confirm = Read-Host "Enter <yes> to perform this step (otherwise it will be skipped)"
+	if ($Confirm -eq "yes") {
+		sudo apt install update-manager-core
+		sudo apt update
+		sudo apt list --upgradable
+		sudo apt upgrade
+		sudo reboot 
+	}
+
+	""
+	"⏳ (3/4) Remove obsolete kernel modules"
+	$Confirm = Read-Host "Enter <yes> to perform this step (otherwise it will be skipped)"
+	if ($Confirm -eq "yes") {
+		sudo apt --purge autoremove
+	}
+
+	""
+	"⏳ (4/4) Upgrade Ubuntu & reboot"
+	$Confirm = Read-Host "Enter <LTS> to upgrade to latest LTS release, <latest> to upgrade to latest Ubuntu release (otherwise this step will be skipped)"
+	if ($Confirm -eq "LTS") {
+		sudo do-release-upgrade
+		sudo reboot
+	} elseif ($Confirm -eq "latest") {
+		sudo do-release-upgrade -d
+		sudo reboot
+	}
+
+	"✔️  Done."
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`wakeup.ps1`
+
+```card
+title: wakeup.ps1
+desc: Wakes up a computer using Wake-on-LAN.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/wakeup.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script sends a magic UDP packet twice to a computer to wake him up (requires Wake-On-LAN).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./wakeup.ps1 [[-MACaddress] <String>] [[-IPaddress] <String>] [[-Port] <Int32>] [<CommonParameters>]
+
+-MACaddress <String>
+    Specifies the host's MAC address (e.g. 11:22:33:44:55:66)
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-IPaddress <String>
+    Specifies the host's IP address or subnet address (e.g. 255.255.255.255)
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-Port <Int32>
+    Specifies the UDP port (9 by default)
+    
+    Required?                    false
+    Position?                    3
+    Default value                9
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./wakeup 11:22:33:44:55:66 192.168.100.100
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sends a magic packet to a computer to wake him up
+.DESCRIPTION
+	This PowerShell script sends a magic UDP packet twice to a computer to wake him up (requires Wake-On-LAN).
+.PARAMETER MACaddress
+	Specifies the host's MAC address (e.g. 11:22:33:44:55:66)
+.PARAMETER IPaddress
+	Specifies the host's IP address or subnet address (e.g. 255.255.255.255)
+.PARAMETER Port
+	Specifies the UDP port (9 by default)
+.EXAMPLE
+	PS> ./wakeup 11:22:33:44:55:66 192.168.100.100
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$MACaddress = "", [string]$IPaddress = "", [int]$Port=9)
+	
+function Send-WOL { param([string]$mac, [string]$ip, [int]$port) 
+	$broadcast = [Net.IPAddress]::Parse($ip) 
+  
+	$mac=(($mac.replace(":","")).replace("-","")).replace(".","") 
+	$target=0,2,4,6,8,10 | % {[convert]::ToByte($mac.substring($_,2),16)} 
+	$packet = (,[byte]255 * 6) + ($target * 16) 
+  
+	$UDPclient = new-Object System.Net.Sockets.UdpClient 
+	$UDPclient.Connect($broadcast,$port) 
+	[void]$UDPclient.Send($packet, 102)  
+} 
+
+try {
+	if ($MACaddress -eq "" ) { $MACaddress = read-host "Enter the host's MAC address (e.g. 00:11:22:33:44:55)"	}
+	if ($IPaddress -eq "" ) { $IPaddress = read-host "Enter the host's IP address or subnet address (e.g. 255.255.255.255)" }
+
+	Send-WOL $MACaddress $IPaddress $Port
+	start-sleep -milliseconds 100
+	Send-WOL $MACaddress $IPaddress $Port
+
+	"✔️ sent magic packet $MACaddress to IP $IPaddress port $Port (twice)"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+
 <TagLinks/>

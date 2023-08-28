@@ -145,6 +145,30 @@ tags: ["references", "swift"]
 
 ---
 
+## Linkability
+
+- [Introducing ObservableConverter](https://lickability.com/blog/introducing-observableconverter)
+
+---
+
+## manu.show
+
+- [Improve the build times of your SPM Packages and your apps](https://www.manu.show/2023-08-18-improve-build-times-in-spm-packages-and-in-your-apps)
+
+---
+
+## Swifty Tech by Marco Eidinger
+
+- [How to check if you use a required reason API](https://blog.eidinger.info/how-to-check-if-you-use-a-required-reason-api)
+
+---
+
+## Donny Wals
+
+- [Making your SwiftData models Codable](https://www.donnywals.com/making-your-swiftdata-models-codable)
+
+---
+
 ## Misc
 
 - [`EXC_BAD_ACCESS` - Swizzling With Swift](https://academy.realm.io/posts/sash-zats-swift-swizzling)

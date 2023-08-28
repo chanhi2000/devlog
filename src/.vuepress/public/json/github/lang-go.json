@@ -669,5 +669,35 @@
     "desc": "Koyeb cli",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "mehdihadeli/go-ecommerce-microservices",
+    "desc": "🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.",
+    "topics": ["go", "golang", "elasticsearch", "distributed-systems", "boilerplate", "ecommerce", "microservices", "cqrs", "microservice", "ddd", "integration-testing", "domain-driven-design", "grpc", "event-sourcing", "clean-architecture", "microservices-architecture", "eventsourcing", "integration-test", "event-driven-architecture", "vertical-slice-architecture"],
+    "officialSite": ""
+  }, {
+    "repo": "XTLS/Xray-core",
+    "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "topics": ["dns", "tls", "tunnel", "network", "proxy", "socks5", "shadowsocks", "anticensorship", "vpn", "trojan", "reality", "vmess", "utls", "xray", "wireguard", "vless", "xtls", "xudp"],
+    "officialSite": "https://t.me/projectXray"
+  }, {
+    "repo": "netbirdio/netbird",
+    "desc": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.",
+    "topics": ["golang", "mesh-networks", "nat-traversal", "vpn", "mesh", "wireguard", "wireguard-vpn", "wiretrustee", "zero-trust-network-access", "netbird"],
+    "officialSite": "https://netbird.io"
+  }, {
+    "repo": "platypusguy/jacobin",
+    "desc": "A more than minimal JVM written in Go and capable of running Java 17 classes.",
+    "topics": ["java", "golang", "jvm", "golang-application"],
+    "officialSite": "http://www.jacobin.org"
+  }, {
+    "repo": "antonmedv/walk",
+    "desc": "Terminal file manager",
+    "topics": ["file-manager"],
+    "officialSite": ""
+  }, {
+    "repo": "Databingo/aih",
+    "desc": "Talk to AI modes in terminal. (Bard|ChatGPT|Claude2|Llama2)",
+    "topics": ["api", "cli", "golang", "client", "terminal", "ai", "command-line", "binary", "easy-to-use", "enhancement", "all-in-one", "chatgpt-cli", "google-bard-cli", "multiple-line", "llama2", "claude2", "huggingchat-cli", "claude-cli"],
+    "officialSite": ""
   }
 ]

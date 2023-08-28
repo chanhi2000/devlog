@@ -135,4 +135,10 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## GPU Utils
+
+- [Cloud GPU Guide](https://gpus.llm-utils.org/cloud-gpu-guide)
+
+---
+
 <TagLinks />

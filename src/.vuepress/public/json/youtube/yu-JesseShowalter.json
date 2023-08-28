@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "JesseShowalter",
+    "name": "Jesse Showalter",
+    "profile": "https://yt3.googleusercontent.com/YhKL_HNwoDofviNS13Sp_QjQGQy0mOwp4G9CWED26v55GsoYLaA6adCbhb00Sx0621sLkkIA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GDSwmoE4OOVelY3yx_N7kPiOkdiEyrQMA46dkYNjh1HxzMUi2zEd-r0hT744KnpWuxKObNAM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PNPjA5tUsJw", "title": "How To Pitch A Website To A Client!" },
+    { "id": "h0-oAS_Yn_U", "title": "No-Code Tools Every Designer Needs" }      
+  ]
+}

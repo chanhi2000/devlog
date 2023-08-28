@@ -1314,4 +1314,13 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <!-- Justin Brooks -->
 
 ---
+
+## Chris Courses
+
+<MyYouTubeItems jsonName="yu-ChrisCourses" />
+
+<!-- Chris Courses -->
+
+---
+
 <TagLinks />

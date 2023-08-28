@@ -2,22 +2,14 @@
   "channel": {
     "id": "flutterdev",
     "name": "Flutter",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM8zh66fZqGKeTkopHaU9GM4zvyuFnQhXThr37u=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM8zh66fZqGKeTkopHaU9GM4zvyuFnQhXThr37u=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vgLcJl1lFuWCA8xvZETUeX8lGg1lk0kO71qTvQ5fSakyjsCsHUQEz3SQSOKtk-GxxY5_ilNm=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "7l9gJn90cq4",
-      "title": "Observable Flutter: Hacking a video game"
-    }, {
-      "id": "h8k_pjo7ams",
-      "title": "Observable Flutter: Payments in Flutter (Part 2)"
-    }, {
-      "id": "5F-6n_2XWR8",
-      "title": "Why Flutter uses Dart"
-    }, {
-      "id": "7l9gJn90cq4",
-      "title": "Observable Flutter: Hacking a video game"
-    }
+    { "id": "7l9gJn90cq4", "title": "Observable Flutter: Hacking a video game" }, 
+    { "id": "h8k_pjo7ams", "title": "Observable Flutter: Payments in Flutter (Part 2)" }, 
+    { "id": "5F-6n_2XWR8", "title": "Why Flutter uses Dart" }, 
+    { "id": "7l9gJn90cq4", "title": "Observable Flutter: Hacking a video game" }
   ]
 }
 

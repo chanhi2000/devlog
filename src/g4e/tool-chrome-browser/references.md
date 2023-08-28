@@ -19,4 +19,10 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ---
 
+## frunc.de
+
+- [SWITCHING FROM CHROME TO FIREFOX? HERE ARE SOME TIPS.](https://frunc.de/how-to/chrome-to-firefox-tips)
+
+---
+
 <TagLinks />

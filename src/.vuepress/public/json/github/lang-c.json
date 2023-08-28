@@ -321,7 +321,7 @@
     "officialSite": ""
   }, {
     "repo": "jmorganca/ollama",
-    "desc": "Get up and running with large language models locally",
+    "desc": "Get up and running with Llama 2 and other large language models locally",
     "topics": ["go", "golang", "llama", "llm", "llms", "llama2"],
     "officialSite": "https://ollama.ai"
   }, {

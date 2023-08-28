@@ -1424,5 +1424,10 @@
     "desc": "A collection of JSON schema files including full API",
     "topics": ["hacktoberfest"],
     "officialSite": "http://schemastore.org"
+  }, {
+    "repo": "donno2048/snake",
+    "desc": "A minimal snake in assembly",
+    "topics": ["assembly", "snake-game", "dosbox", "smallest"],
+    "officialSite": "https://donno2048.github.io/snake/"
   }
 ]

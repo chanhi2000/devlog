@@ -2,16 +2,13 @@
   "channel": {
     "id": "RawCoding",
     "name": "Raw Coding",
-    "profile": "https://yt3.googleusercontent.com/P66uCiMLynjXiIBteS1Sn5_KyXNBY6Vzybo3BHeJCpmXV9t-Vj_n7RzvxyEcnHLUuuE-yk26=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/P66uCiMLynjXiIBteS1Sn5_KyXNBY6Vzybo3BHeJCpmXV9t-Vj_n7RzvxyEcnHLUuuE-yk26=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OZ2fN7s5SUidsOvnpMKIAzOsrEqp0CYbU4cYS3cWdf87xk2YwZPRGCQ64SHT2EjbJRNiBT-e=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Wv9Eh1tey1U", 
-      "title": "Docker Explained | ASP.NET Core Example"
-    }, {
-      "id": "il9gl8MH17s", 
-      "title": "C# Async/Await/Task Explained (Deep Dive)"
-    }
+    { "id": "Wv9Eh1tey1U",  "title": "Docker Explained | ASP.NET Core Example" }, 
+    { "id": "il9gl8MH17s",  "title": "C# Async/Await/Task Explained (Deep Dive)" }
+ 
   ]
 }
 

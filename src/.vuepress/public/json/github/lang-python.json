@@ -2428,5 +2428,35 @@
     "desc": "pykoi: Active learning in one unified interface",
     "topics": ["machine-learning", "ai", "feedback", "chatbot", "language-model", "llm", "rlhf"],
     "officialSite": "https://www.cambioml.com/pykoi"
+  }, {
+    "repo": "facebookresearch/codellama",
+    "desc": "Inference code for CodeLlama models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "Pythagora-io/gpt-pilot",
+    "desc": "PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "spcl/graph-of-thoughts",
+    "desc": "Official Implementation of \"Graph of Thoughts: Solving Elaborate Problems with Large Language Models\"",
+    "topics": ["graphs", "graph-structures", "large-language-models", "llm", "prompt-engineering", "prompting", "graph-of-thoughts"],
+    "officialSite": "https://arxiv.org/pdf/2308.09687.pdf"
+  }, {
+    "repo": "QwenLM/Qwen-VL",
+    "desc": "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.",
+    "topics": ["large-language-models", "vision-language-model"],
+    "officialSite": ""
+  }, {
+    "repo": "khoj-ai/khoj",
+    "desc": "An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF files.",
+    "topics": ["chat", "markdown", "productivity", "ai", "emacs", "personal-assistant", "org-mode", "semantic-search", "obsidian-md", "sentence-transformer", "llm", "chatgpt"],
+    "officialSite": "https://khoj.dev"
+  }, {
+    "repo": "innovatorved/whisper.api",
+    "desc": "This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model.",
+    "topics": ["whisper", "asr", "transcribe", "innovatorved"],
+    "officialSite": "https://innovatorved-whisper-api.hf.space"
   }
 ]

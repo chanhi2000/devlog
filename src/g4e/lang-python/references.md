@@ -146,4 +146,16 @@ description: 🐍Python > 📚References
 
 ---
 
+## Runno
+
+- [Running WASI binaries from your HTML using Web Components](https://runno.dev/articles/wasi-web-component)
+
+---
+
+## Adam Johnson
+
+- [Python Type Hints - `*args` and `**kwargs`](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs)
+
+---
+
 <TagLinks />

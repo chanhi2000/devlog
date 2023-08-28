@@ -584,6 +584,21 @@
     "desc": "Package management made easy",
     "topics": ["rust", "package-manager", "conda", "rust-lang", "package-management", "conda-environment", "package-manager-tool", "conda-packages", "python-virtual-environment"],
     "officialSite": "https://pixi.sh"
+  }, {
+    "repo": "rome/tools",
+    "desc": "Unified developer tools for JavaScript, TypeScript, and the web",
+    "topics": ["javascript", "toolchain", "formatter", "typescript", "linter"],
+    "officialSite": "https://docs.rome.tools"
+  }, {
+    "repo": "paritytech/polkadot-sdk",
+    "desc": "The Parity Polkadot Blockchain SDK",
+    "topics": ["blockchain", "substrate", "cumulus", "polkadot"],
+    "officialSite": "https://polkadot.network"
+  }, {
+    "repo": "parcel-bundler/lightningcss",
+    "desc": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+    "topics": ["css", "rust", "parser", "compiler", "build-tool", "minifier"],
+    "officialSite": "https://lightningcss.dev"
   }
 ]
 

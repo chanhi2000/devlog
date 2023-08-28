@@ -1273,5 +1273,15 @@
     "desc": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
     "topics": ["typing", "typing-game", "english-learning", "typingspeedtest", "typing-practice"],
     "officialSite": "https://qwerty.kaiyi.cool"
+  }, {
+    "repo": "kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "topics": ["computer-science", "roadmap", "python-roadmap", "developer-roadmap", "devops-roadmap", "react-roadmap", "frontend-roadmap", "java-roadmap", "backend-roadmap", "go-roadmap", "angular-roadmap", "nodejs-roadmap", "dba-roadmap", "javascript-roadmap", "vue-roadmap", "blockchain-roadmap", "qa-roadmap", "software-architect-roadmap"],
+    "officialSite": "https://roadmap.sh"
+  }, {
+    "repo": "mayandev/notion-avatar",
+    "desc": "🪄 An online tool for making notion-style avatars.",
+    "topics": ["avatar", "nextjs", "notion"],
+    "officialSite": "https://notion-avatar.vercel.app"
   }
 ]

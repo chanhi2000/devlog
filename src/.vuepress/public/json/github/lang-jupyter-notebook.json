@@ -349,5 +349,10 @@
     "desc": "Jupyter Notebooks for experimenting with Stable Diffusion XL 1.0",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "microsoft/lida",
+    "desc": "Automatic Generation of Visualizations and Infographics using Large Language Models",
+    "topics": ["visualization", "openai", "datavisualization", "cohere", "openai-api", "llm", "palm2"],
+    "officialSite": "https://microsoft.github.io/lida"
   }
 ]

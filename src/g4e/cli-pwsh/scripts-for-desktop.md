@@ -1435,5 +1435,354 @@ try {
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`open-c-drive.ps1`
+
+```card
+title: open-c-drive.ps1
+desc: Opens the C drive folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-c-drive.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the File Explorer with the `C:` drive folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-c-drive.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-c-drive
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the C: drive folder
+.DESCRIPTION
+	This PowerShell script launches the File Explorer with the C: drive folder.
+.EXAMPLE
+	PS> ./open-c-drive
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-file-explorer.ps1" "C:"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-downloads-folders.ps1`
+
+```card
+title: open-downloads-folders.ps1
+desc: Opens the user's downloads folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-downloads-folders.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the File Explorer showing the user's downloads folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-downloads-folder.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-downloads-folder
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the user's downloads folder
+.DESCRIPTION
+	This PowerShell script launches the File Explorer showing the user's downloads folder.
+.EXAMPLE
+	PS> ./open-downloads-folder
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	if ($IsLinux) {
+		$Path = Resolve-Path "$HOME/Downloads"
+	} else {
+		$Path = (New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path
+	}
+	if (-not(Test-Path "$Path" -pathType container)) {
+		throw "Downloads folder at 📂$Path doesn't exist (yet)"
+	}
+	& "$PSScriptRoot/open-file-explorer.ps1" $Path
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-dropbox-folder.ps1`
+
+```card
+title: open-dropbox-folder.ps1
+desc: Opens the user's Dropbox folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-dropbox-folder.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the File Explorer with the user's Dropbox folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-dropbox-folder.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tba Example
+
+```powershell
+PS> ./open-dropbox-folder
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the Dropbox folder
+.DESCRIPTION
+	This PowerShell script launches the File Explorer with the user's Dropbox folder.
+.EXAMPLE
+	PS> ./open-dropbox-folder
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$TargetDirs = resolve-path "$HOME/Dropbox*"
+	foreach($TargetDir in $TargetDirs) {
+		& "$PSScriptRoot/open-file-explorer.ps1" "$TargetDir"
+		exit 0 # success
+	}
+	throw "No Dropbox folder at 📂$HOME/Dropbox"
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-edge.ps1`
+
+```card
+title: open-edge.ps1
+desc: Launches the Edge browser.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-edge.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Microsoft Edge Web browser.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-edge.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-edge
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Launches the Edge browser
+.DESCRIPTION
+	This PowerShell script launches the Microsoft Edge Web browser.
+.EXAMPLE
+	PS> ./open-edge
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+Start-Process microsoft-edge://
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-email-client.ps1`
+
+```card
+title: open-email-client.ps1
+desc: Starts the default email client.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-email-client.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the default email client.
+
+::: tabs
+
+@tab Parameters
+
+```powershell
+PS> ./open-email-client.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-email-client
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Starts the default email client
+.DESCRIPTION
+	This PowerShell script launches the default email client.
+.EXAMPLE
+	PS> ./open-email-client
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	start-process "mailto:markus@fleschutz.de"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-facebook-website.ps1`
+
+```card
+title: open-facebook-website.ps1
+desc: Opens Facebook's website.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-facebook-website.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Web browser with the Facebook website.
+
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+open-facebook-website.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-facebook-website
+#
+```
+
+@tab Script Content
+
+```powershell
+
+```
+
+:::
+
+---
+
+
 
 <TagLinks/>
