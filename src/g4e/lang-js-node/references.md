@@ -450,6 +450,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## nullpt
+
+- [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
+
+---
+
 ## Clien
 
 - [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(1) 세팅편](https://www.clien.net/service/board/lecture/17960697)

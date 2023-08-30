@@ -2,82 +2,36 @@
   "channel": {
     "id": "JamesQQuick",
     "name": "James Q Quick",
-    "profile": "https://yt3.googleusercontent.com/8PBFYSreMndV8QIKwKuDXafsO8MczcUypatxnjsIkqTmNTv1M6ndCM5ZJ4MQENKiVb_CzRlXlA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/8PBFYSreMndV8QIKwKuDXafsO8MczcUypatxnjsIkqTmNTv1M6ndCM5ZJ4MQENKiVb_CzRlXlA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/StC9GOxgXbmFL9yXgjzYQneqJ3iQRYKWMSp5a_eTvbq--zwpyaOGJMT1HIWTFp7lRpUXWpEo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "VrpyWLB3V1c",
-      "title": "This Is the Database Workflow I'VE BEEN WAITING FOR!"
-    }, {
-      "id": "z5u3Vr8mbDQ",
-      "title": "A Better Way To Do Developer Documentation"
-    }, {
-      "id": "LY-DNBzXy48",
-      "title": "DON'T Use the File Explorer in VS Code!"
-    }, {
-      "id": "2xwv4T552lM",
-      "title": "The EASIEST Way to Use OpenAI ChatGPT in Next.js"
-    }, {
-      "id": "YzGV6AUcnnI",
-      "title": "A Beginner's Guide to Visual React Development with Codux"
-    }, {
-      "id": "nZAapQE5ICI",
-      "title": "Vercel Just Launched Some Major Products - Here’s What It Means!"
-    }, {
-      "id": "pgRyuhYt-XA",
-      "title": "New Website Design With Astro"
-    }, {
-      "id": "mTA8XBhzv5U",
-      "title": "Coding with Remix and Xata database: A Beginner's Tutorial"
-    }, {
-      "id": "9JuUfg3Rx08",
-      "title": "VS Code and SvelteKit Setup"
-    }, {
-      "id": "Q0XustAh080",
-      "title": "SvelteKit and Supabase"
-    }, {
-      "id": "B2isrIMaQfY",
-      "title": "GraphQL, SvelteKit, and Combining APIs with Hygraph"
-    }, {
-      "id": "Wtqq0-yYKps",
-      "title": "How I Built A Discord Bot with TypeScript, Node.js, PlanetScale, Prisma, and Heroku"
-    }, {
-      "id": "nPrHbLsqb54",
-      "title": "JavaScript Enums in 5 Minutes - What they are and how to create them"
-    }, {
-      "id": "ql_-tLTpPKg",
-      "title": "Build a Svelte Popup/Overlay Component using Tailwind CSS in 15 Minutes"
-    }, {
-      "id": "dfTpFFZwazI",
-      "title": "Easy Way to Create CLI Scripts with JavaScript and Node"
-    }, {
-      "id": "UukCbeW-IPc",
-      "title": "JavaScript Automated Testing with Jest - The What, Why, and How with Alba Silvente"
-    }, {
-      "id": "yeZa4QsX38w",
-      "title": "Quokka.js VS Code Extension - The Fastest Way to Test JavaScript"
-    }, {
-      "id": "hyDtibu3mSo",
-      "title": "The Best Browser For Web Developers?? (Better Than Google Chrome?)"
-    }, {
-      "id": "aCkkEDsJgL0",
-      "title": "VS Code Extension for Working with Frontmatter"
-    }, {
-      "id": "pgRyuhYt-XA",
-      "title": "New Website Design With Astro"
-    }, {
-      "id": "mTA8XBhzv5U",
-      "title": "Coding with Remix and Xata database: A Beginner's Tutorial"
-    }, {
-      "id": "Ow3VsOJcvpM",
-      "title": "Is This A Better Way To Handle Images in Next.js?"
-    }, {
-      "id": "Fdl57-a3b3w",
-      "title": "Top 5 Async Mistakes for JavaScript Beginners (Don’t make these!)"
-    }, {
-      "id": "-2eIIthzqFo",
-      "title": "Writing Great Error Messages"
-    }
+    { "id": "Ynp6Gdd3XVE", "title": "JavaScript Pagination in ~10 Minutes (Super EASY!!)" },
+    { "id": "LQ47JVGu29g", "title": "Remote work and Building side projects" },
+    { "id": "VrpyWLB3V1c", "title": "This Is the Database Workflow I'VE BEEN WAITING FOR!" }, 
+    { "id": "z5u3Vr8mbDQ", "title": "A Better Way To Do Developer Documentation" }, 
+    { "id": "LY-DNBzXy48", "title": "DON'T Use the File Explorer in VS Code!" }, 
+    { "id": "2xwv4T552lM", "title": "The EASIEST Way to Use OpenAI ChatGPT in Next.js" }, 
+    { "id": "YzGV6AUcnnI", "title": "A Beginner's Guide to Visual React Development with Codux" }, 
+    { "id": "nZAapQE5ICI", "title": "Vercel Just Launched Some Major Products - Here’s What It Means!" }, 
+    { "id": "pgRyuhYt-XA", "title": "New Website Design With Astro" }, 
+    { "id": "mTA8XBhzv5U", "title": "Coding with Remix and Xata database: A Beginner's Tutorial" }, 
+    { "id": "9JuUfg3Rx08", "title": "VS Code and SvelteKit Setup" }, 
+    { "id": "Q0XustAh080", "title": "SvelteKit and Supabase" }, 
+    { "id": "B2isrIMaQfY", "title": "GraphQL, SvelteKit, and Combining APIs with Hygraph" }, 
+    { "id": "Wtqq0-yYKps", "title": "How I Built A Discord Bot with TypeScript, Node.js, PlanetScale, Prisma, and Heroku" }, 
+    { "id": "nPrHbLsqb54", "title": "JavaScript Enums in 5 Minutes - What they are and how to create them" }, 
+    { "id": "ql_-tLTpPKg", "title": "Build a Svelte Popup/Overlay Component using Tailwind CSS in 15 Minutes" }, 
+    { "id": "dfTpFFZwazI", "title": "Easy Way to Create CLI Scripts with JavaScript and Node" }, 
+    { "id": "UukCbeW-IPc", "title": "JavaScript Automated Testing with Jest - The What, Why, and How with Alba Silvente" }, 
+    { "id": "yeZa4QsX38w", "title": "Quokka.js VS Code Extension - The Fastest Way to Test JavaScript" }, 
+    { "id": "hyDtibu3mSo", "title": "The Best Browser For Web Developers?? (Better Than Google Chrome?)" }, 
+    { "id": "aCkkEDsJgL0", "title": "VS Code Extension for Working with Frontmatter" }, 
+    { "id": "pgRyuhYt-XA", "title": "New Website Design With Astro" }, 
+    { "id": "mTA8XBhzv5U", "title": "Coding with Remix and Xata database: A Beginner's Tutorial" }, 
+    { "id": "Ow3VsOJcvpM", "title": "Is This A Better Way To Handle Images in Next.js?" }, 
+    { "id": "Fdl57-a3b3w", "title": "Top 5 Async Mistakes for JavaScript Beginners (Don’t make these!)" }, 
+    { "id": "-2eIIthzqFo", "title": "Writing Great Error Messages" }
   ]
 }
 

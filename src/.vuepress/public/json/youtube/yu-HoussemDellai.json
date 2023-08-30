@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gsK0EALjlZGWmWu9Uf-KrVdjUAmK3X9dfVX40UZ0tJ54SzBEh_lVWsSzENyAtmCZDaPOItJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ptdAcsG2ROI", "title": "Purchase custom Domain Name in Azure using Terraform" },
+    { "id": "Ec1aC5O8r6A", "title": "Container Apps using Kubernetes YAML ?" },
     { "id": "MC98aGrHZTU", "title": "Azure Container Apps Jobs" }, 
     { "id": "YNy8Sdvxy5Q", "title": "Microsoft Defender for DevOps" }, 
     { "id": "wvGDH_gp2Tw", "title": "Application Gateway for Containers" }, 

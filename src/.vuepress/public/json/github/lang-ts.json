@@ -1288,5 +1288,10 @@
     "desc": "Developer Wallet & DevTools for Anvil",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "langfuse/langfuse",
+    "desc": "Open source observability and analytics for LLM applications",
+    "topics": [],
+    "officialSite": "https://langfuse.com"
   }
 ]

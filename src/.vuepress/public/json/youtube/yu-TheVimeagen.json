@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VFd0-Ur4-Vo", "title": "Writing The HTMX LSP" },
+    { "id": "om4nY7nQyBQ", "title": "Implementing Prim's Algorithm" },
     { "id": "dFNHA1hOisc", "title": "My First HTMX Form" },
     { "id": "RSNIXggchyk", "title": "JS Performance - Writing Rust WS Server For Testing" },
     { "id": "xoLK9dYrmj8", "title": "Writing Language Server in Rust! Part 3" },    

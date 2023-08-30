@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bQ8tYTXxD7v9-o3rvg2XzKS23Rdza-Ug7uUUqSF869fq5_aPqVtinn1CMO5H5pqObMnd4xzTus0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_BrDLSLYGiQ", "title": "Parsing C in 2023" },
+    { "id": "wK1HjnwDQng", "title": "Ok, I made Google for C" },
+    { "id": "hb9X7fo81Yc", "title": "With This Tool I don't need IDE anymore!" },
     { "id": "fy3tA7gKnK8", "title": "Drag and Drop in C (Yes, it is possible! Let me show you how...)" },
     { "id": "B2VS_zeuTQ4", "title": "New Library for Matching Patterns" },    
     { "id": "Sz-lXj0Ha6E", "title": "I liked Raylib better than SDL (ML in C Ep.05)" }, 

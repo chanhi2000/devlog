@@ -5,7 +5,10 @@
     "profile": "https://yt3.googleusercontent.com/zNRF9JUkF4F0ajer3fExeqCZfwflre_rtSbxrhXBBQg0q3ll3eUXiLAM3eHfL9k-aJdihLt2iQ=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
-  "videos": [
+"videos": [
+    { "id": "OmFBLBMcXRc", "title": "Building Graphic Based Apps for IoT Devices with Meadow.Desktop" },
+    { "id": "DzD0ucPldeM", "title": "Beautiful UI Controls for .NET MAUI with Telerik UI" },
+    { "id": "70gh038Z9kA", "title": "Burke Learns Blazor - API Updates" },
     { "id": "KrkkkJ0McXg", "title": "Burke Learns Blazor - Creating the AddLink experience you've been craving on the urlist.com" },
     { "id": "aVA7jpIZsNs", "title": "What's New and Next for .NET MAUI Developers?" },
     { "id": "h9c7TZb2QuU", "title": "How do I use C# and .NET with SQLite?" }, 

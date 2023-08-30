@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "loianegroner",
+    "name": "Loiane Groner",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRbwNKrsloPY2X4ub_z1TXWiOi3EHlUgct-2_1kLEo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nmteFIkACCgd-cGAHfbXe_iHlCbPEHg0DgeDy1JpvAkqv_NZQqZFIbvg-sgzlnGJIM3kvPQBQg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "X4dvEdhHFXY", "title": "CRUD Angular + Spring | 55: API para Criar e Editar Aulas" },
+    { "id": "RmmWVf7ZMzk", "title": "Sencha Open Tooling: Criando Applicações ExtJS com NPM" }
+  ]
+}
+
+

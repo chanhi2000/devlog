@@ -661,4 +661,12 @@ meta:
 
 ---
 
+## Loiane Groner
+
+<MyYouTubeItems jsonName="yu-loianegroner" />
+
+<!-- Loiane Groner -->
+
+---
+
 <TagLinks />

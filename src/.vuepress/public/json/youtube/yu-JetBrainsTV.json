@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Dxs-3mannZFTz3_uYfaTZ0NZLJG1jnekpuzaLl7Ms5CoPjrirRyO9m3KPE561YdBHQqe4R0b1Fk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "phUhGC24ETo", "title": "Essentials of React Server Components" },
     { "id": "fWu39EOZhto", "title": "The State of Kotlin" }, 
     { "id": "tqL9lLWXdsw", "title": "How We Do QA for Kotlin at JetBrains" }, 
     { "id": "Qw_JniULJBI", "title": "Working with SQLite Databases in any JetBrains IDE" },     

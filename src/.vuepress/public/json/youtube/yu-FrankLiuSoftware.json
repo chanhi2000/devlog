@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "qeSSKrjWq3w", "title": "ASP.NET CORE Identity Under the Hood | Authentication & Authorization | .NET 8" },
     { "id": "RInxKboxDXE", "title": "Model Binding of Web API in .NET 8 | Ep 8" },
     { "id": "ypgQqQrzITs", "title": "Project Structure of .NET MAUI | Ep3" }, 
     { "id": "EluvVXA_Rto", "title": "Learn Blazor while creating an Inventory Management System | .NET 6 | Entity Framework | Identity" }, 

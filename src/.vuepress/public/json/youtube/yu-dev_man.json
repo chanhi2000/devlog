@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gYC7S6g9r3ETUp_ElnERHZCWBDBHqTShqHOLcTaWKpkhCHj3y9WCDrdnV73T8CzOR8keMEaQEA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tLBHhm09DGg", "title": "[ 수강생요청- 위젯만들기 ] 플러터 기본 위젯 슬라이더를 사용해보자" },
+    { "id": "buJjAxsg-ow", "title": "[ 수강생요청- 위젯만들기 ] 직접 슬라이더를 만들어보자" },
     { "id": "WFF8Y2-E_NA", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useMemoized #useCallback" },
     { "id": "66ACBjV58YQ", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useEffect" },
     { "id": "8IgXvbO3Mxs", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useState" },

@@ -239,5 +239,10 @@
     "desc": "SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!",
     "topics": ["chat", "security", "haskell", "privacy", "encryption", "protocol", "messaging", "e2ee", "double-ratchet"],
     "officialSite": "https://simplex.chat"
+  }, {
+    "repo": "MoKee/android_packages_apps_WarpShare",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

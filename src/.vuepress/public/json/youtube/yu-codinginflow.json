@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "szOW8tA7M5E", "title": "Why Prettier for VS Code Is Amazing" },
+    { "id": "RcZsC56eGUc", "title": "Perfect Nested Border Radius 👌" },
+    { "id": "f1VXF4FTGgg", "title": "Open Localhost From Your Mobile Phone 📱" },
     { "id": "bNX6POUEM6c", "title": "When a Developer Is Bored With Life" },
     { "id": "LzRIoK5exlc", "title": "What Is Never in TypeScript?" },
     { "id": "Kbl--VXRZFY", "title": "VS Code Shortcut to Create Nested Folders 🤯" },
@@ -36,7 +39,6 @@
     { "id": "SjSb7EFMd1M", "title": "How to Implement Email Verification in ExpressJS" }, 
     { "id": "sqCg75B7s84", "title": "React How to Add an Element to a State Array" }, 
     { "id": "n53T47aVhLg", "title": "NextJS On-Demand ISR Revalidation Tutorial" }
- 
   ]
 }
 

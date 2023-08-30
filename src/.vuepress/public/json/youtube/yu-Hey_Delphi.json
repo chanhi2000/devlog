@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Hey_Delphi",
+    "name": "Hey Delphi",
+    "profile": "https://yt3.googleusercontent.com/dlBQ1YPH5cl-mo4sZpH6Lok6xcfVnEkTqPMIbhESlTl8QlmEHWQUpeHYWgCbYinn8jOkSS2lOA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "BtIj9LtTKcQ", "title": "PYTHON : Accessing a Pandas index like a regular column" }
+  ]
+}

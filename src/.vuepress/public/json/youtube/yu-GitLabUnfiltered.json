@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LpYZdSxHu8Q", "title": "Design concept - Minimum required approvals rule at a group level" },
+    { "id": "52bUdcX_yRk", "title": "Branch rules design walkthrough" },
+    { "id": "f1zrglV722w", "title": "Integrate Azure Key Vault with GitLab" },
+    { "id": "J6cTU8-LOCc", "title": "Walkthrough of Auto-merge with Security Policies" },
+    { "id": "GTs4PHAKW_A", "title": "Gitaly Training - Git storage, and repository size calculations" },
+    { "id": "Ej7xf8axWMs", "title": "Cascading Merge Requests with GitLab Flow" },
+    { "id": "EjXoLc5Kkmw", "title": "Direction Page Update 16.4 - Verify:Runner SaaS (PM Gabriel Engel)" },
+    { "id": "_V16QIoXR9Q", "title": "FE Pairing - 20230818 - Setting up experiment for new free trial page" },
+    { "id": "Cw7PEwgkprU", "title": "Mandatory Secure Code Training @ GitLab with Secure Code Warrior" },
+    { "id": "P0j_6kdmNf4", "title": "Service Desk - refreshed issues list" },
+    { "id": "eABgchIgdls", "title": "Paper Cuts Settings Review" },
+    { "id": "yZ2RiY_Akz0", "title": "Create Grafana dashboard as code" },
     { "id": "ZR_NHspROPg", "title": "GitLab DevSecOps Platform End to End demo" }, 
     { "id": "Kl2_R2a4Vm8", "title": "Audit Log forwarding in a GitLab Kubernetes Setup" }, 
     { "id": "6U6A5tGCszE", "title": "GitLab Agent for K8s: Deep Dive into KAS and Agentk connection handling and tunneling requests" }, 

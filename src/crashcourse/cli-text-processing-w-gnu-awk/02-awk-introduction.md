@@ -262,6 +262,296 @@ There are some more types of blocks that can be used, you'll see them in coming 
 
 Some examples so far have already used string and numeric literals. As mentioned earlier, `awk` tries to provide a concise way to construct a solution from the command line. The data type of a value is determined based on the syntax used. String literals are represented inside double quotes. Numbers can be integers or floating-point. Scientific notation is allowed as well. See [gawk manual: Constant Expressions](https://www.gnu.org/software/gawk/manual/gawk.html#Constants) for more details.
 
+
+```sh
+# BEGIN{} is also useful to write an awk program without any external input
+awk 'BEGIN{print "hi"}'
+# hi
+
+awk 'BEGIN{print 42}'
+# 42
+
+awk 'BEGIN{print 3.14}'
+# 3.14
+
+awk 'BEGIN{print 34.23e4}'
+# 342300
+```
+
+You can also save these literals in variables for later use. Some variables are predefined, `NF` for example.
+
+```sh
+awk 'BEGIN{a=5; b=2.5; print a+b}'
+# 7.5
+
+# strings placed next to each other are concatenated
+awk 'BEGIN{s1="con"; s2="cat"; print s1 s2}'
+# concat
+```
+
+If an uninitialized variable is used, it will act as an empty string in string context and `0` in numeric context. You can force a string to behave as a number by simply using it in an expression with numeric values. You can also use unary `+` or `-` operators. If the string doesn't start with a valid number (ignoring any starting whitespaces), it will be treated as `0`. Similarly, concatenating a string to a number will automatically change the number to string. See [gawk manual: How awk Converts Between Strings and Numbers](https://www.gnu.org/software/gawk/manual/gawk.html#Strings-And-Numbers) for more details.
+
+
+```sh
+# same as: `awk 'BEGIN{sum=0} {sum += $NF} END{print sum}'`
+awk '{sum += $NF} END{print sum}' table.txt
+# 38.14
+
+awk 'BEGIN{n1="5.0"; n2=5; if(n1==n2) print "equal"}'
+
+awk 'BEGIN{n1="5.0"; n2=5; if(+n1==n2) print "equal"}'
+# equal
+
+awk 'BEGIN{n1="5.0"; n2=5; if(n1==n2".0") print "equal"}'
+# equal
+
+awk 'BEGIN{print 5 + "abc 2 xyz"}'
+# 5
+
+awk 'BEGIN{print 5 + " \t 2 xyz"}'
+# 7
+```
+
+## Arrays
+Arrays in `awk` are associative, meaning they are key-value pairs. The keys can be numbers or strings, but numbers get converted to strings internally. They can be multi-dimensional as well. There will be plenty of array examples in later chapters in relevant context. See [gawk manual: Arrays](https://www.gnu.org/software/gawk/manual/gawk.html#Arrays) for complete details and gotchas.
+
+::: tabs
+
+@tab:active assigning an array and accessing an element based on string keys
+```sh
+awk 'BEGIN{student["id"] = 101; student["name"] = "Joe";
+       print student["name"]}'
+# Joe
+```
+
+@tab checking if a key exists
+
+```sh
+awk 'BEGIN{student["id"] = 101; student["name"] = "Joe";
+       if("id" in student) print "Key found"}'
+# Key found
+```
+
+## Summary
+
+In my early days of getting used to the Linux command line, I was intimidated by `sed` and `awk` examples and didn't even try to learn them. Hopefully, this gentler introduction works for you and the various syntactical magic has been explained adequately. Try to experiment with the given examples, for example change field numbers to something other than the number used. Be curious, like what happens if a field number is negative or a floating-point number. Read the manual. Practice a lot. And so on.
+
+The next chapter is dedicated solely for regular expressions. The features introduced in this chapter would be used in the examples, so make sure you are comfortable with `awk` syntax before proceeding. Solving the exercises to follow will help test your understanding.
+
+---
+
+## Interactive exercises
+
+I wrote a TUI app to help you solve some of the exercises from this book interactively. See [<FontIcon icon="iconfont icon-github"/> AwkExercises](https://github.com/learnbyexample/TUI-apps/tree/main/AwkExercises) repo for installation steps and [<FontIcon icon="iconfont icon-file"/> app_guide.md](https://github.com/learnbyexample/TUI-apps/blob/main/AwkExercises/app_guide.md) for instructions on using this app.
+
+Here's a sample screenshot:
+
+![AwkExercises example](https://learnbyexample.github.io/learn_gnuawk/images/awk_exercises.png)
+
+## Exercises
+
+::: info
+
+All the exercises are also collated together in one place at [<FontIcon icon="iconfont icon-file"/> Exercises.md](https://github.com/learnbyexample/learn_gnuawk/blob/master/exercises/Exercises.md). For solutions, see [<FontIcon icon="iconfont icon-file"/> Exercise_solutions.md](https://github.com/learnbyexample/learn_gnuawk/blob/master/exercises/Exercise_solutions.md).
+
+The exercises directory has all the files used in this section.
+
+:::
+
+```sh
+cat addr.txt
+# Hello World
+# How are you
+# This game is good
+# Today is sunny
+# 12345
+# You are funny
+
+cat table.txt
+# brown bread mat hair 42
+# blue cake mug shirt -7
+# yellow banana window shoes 3.14
+
+cat hex.txt
+# start address: 0xA0, func1 address: 0xA0
+# end address: 0xFF, func2 address: 0xB0
+```
+
+### Exerciese 1
+
+For the input file `addr.txt`, display all lines containing `is`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk #### add your solution here ####
+# This game is good
+# Today is sunny
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+
+### Exercise 2
+
+For the input file <FontIcon icon="iconfont icon-file"/> `addr.txt`, display the first field of lines not containing `y`. Consider space as the field separator for this file.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here ####
+# Hello
+# This
+# 12345
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 3
+
+For the input file <FontIcon icon="iconfont icon-file"/> `addr.txt`, display all lines containing no more than 2 fields.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Hello World
+# 12345
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 4
+
+For the input file <FontIcon icon="iconfont icon-file"/> `addr.txt`, display all lines containing is in the second field.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Today is sunny
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 5
+
+For each line of the input file <FontIcon icon="iconfont icon-file"/> `addr.txt`, replace the first occurrence of o with 0.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Hell0 World
+# H0w are you
+# This game is g0od
+# T0day is sunny
+# 12345
+# Y0u are funny
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 6
+
+For the input file <FontIcon icon="iconfont icon-file"/> `table.txt`, calculate and display the product of numbers in the last field of each line. Consider space as the field separator for this file.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# -923.16
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 7
+
+Append `.` to all the input lines for the given stdin data.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+printf 'last\nappend\nstop\ntail\n' | awk ##### add your solution here
+# last.
+# append.
+# stop.
+# tail.
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+
+### Exercise 8
+
+Replace all occurrences of `0xA0` with `0x50` and `0xFF` with `0x7F` for the given input file (<FontIcon icon="iconfont icon-file"/> `hex.txt`).
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# start address: 0x50, func1 address: 0x50
+# end address: 0x7F, func2 address: 0xB0
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
 ---
 
 <TagLinks/>

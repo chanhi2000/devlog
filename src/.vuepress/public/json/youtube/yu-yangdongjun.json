@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "yangdongjun",
+    "name": "양동준 Yang DongJun",
+    "profile": "https://yt3.googleusercontent.com/wfMHI_3_DqADTb6YW6I5vD9shJ5_w8kcVEWhhTLDGZVJZMItjYo2mUXoof6aLmoGD_WpbpU04d8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kwazP42mizQvwvPJxjdI4iCY1Z2q_N6496hL8fckp1YG8anSrHeYxZkIfFIztFwW-AEO_ZzxiQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "D8o79Uyht_M", "title": "AWS에서 배포하는 nextjs (with. AWS Builders Korea Program)" },
+    { "id": "PHoybQvOR74", "title": "타입스크립트 any vs unknown #shorts" }        
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ConfianceLabs",
+    "name": "Confiance Labs",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQEpMNmN3lZ_99_bIekKLoGppIYvrqDLMJgtrwOYg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mxMLLPIOlVmjqzTRs9pfpsdHUcGc5fwUNvt0Z1YXN8NWa1G55bzQf5WO8TkOMm6gvg1QCqpxDvE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LB9bH7ah2Qs", "title": "Kotlin Overview by Diwakar Singh." }
+  ]
+}

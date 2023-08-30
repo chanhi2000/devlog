@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/P_2SlvEHY8VylI_j63FgIBK8EKvJryQ-08B9FQptF_SI09S6JKuVmV7MpeXlkxh9WNmsprO8_A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aFwrNSfthxU", "title": "How to Install Ngrok on Windows 11 |  Expose your localhost to everyone | NGROK SETUP" },
+    { "id": "7pGuwV4rwH0", "title": "Learn Socket Programming in Python | TCP and UDP sockets Client/Server Socket in Python" },
+    { "id": "wD3VYrnVaEE", "title": "Kotlin Environment setup for Command Line | Kotlin Environment setup in Windows" },
     { "id": "fdr1l5vOIUE", "title": "Build An App In Less Than 2 Hour Using React Native" },
     { "id": "936wHLIR4UY", "title": "How to Setup JUnit for VS Code | JUnit in Visual Studio Code | Java Test with Visual Studio Code" }, 
     { "id": "ZNlCZC6hIUo", "title": "JUnit 5 - How to Write Parameterized Tests" }, 

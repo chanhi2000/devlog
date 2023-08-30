@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Harvardilab",
+    "name": "Harvard Innovation Labs",
+    "profile": "https://yt3.googleusercontent.com/_zdq_bJARvd53nOy3qZLiCO1KUIeU1cha6O3MgCz37BAI20zxS0-AMKW6ztwBLsqxuDj9g2yUg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f9EjqxceTb33r4SRjN4rS7SOMF62ZnKmho-aBbsxWeH0oYgi1cqXovjq92M_9SRjeRMWoL5Zmw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "r-98YRAF1dY", "title": "How to Build a Product that Scales into a Company" }
+  ]
+}

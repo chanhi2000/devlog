@@ -2483,5 +2483,25 @@
     "desc": "prompt2model - Generate Deployable Models from Natural Language Instructions",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "cmu-db/dbdb.io",
+    "desc": "The On-line Database of Databases",
+    "topics": ["database"],
+    "officialSite": "https://dbdb.io"
+  }, {
+    "repo": "kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "topics": ["python", "ebook", "epub", "kindle", "ebook-manager", "calibre", "ebook-reader", "ebooks", "ebook-formats", "epub-generation"],
+    "officialSite": "https://calibre-ebook.com"
+  }, {
+    "repo": "continuedev/continue",
+    "desc": "⏩ the open-source copilot chat for software development—bring the power of ChatGPT to VS Code",
+    "topics": ["open-source", "ai", "vscode", "visual-studio-code", "openai", "developer-tools", "software-development", "copilot", "llm", "chatgpt"],
+    "officialSite": "https://continue.dev/docs"
+  }, {
+    "repo": "b1tg/CVE-2023-38831-winrar-exploit",
+    "desc": "CVE-2023-38831 winrar exploit generator",
+    "topics": ["exploit", "cve", "0day"],
+    "officialSite": ""
   }
 ]

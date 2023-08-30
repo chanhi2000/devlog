@@ -6,8 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/cfwp8fGBFmn9VMB_oQQAMYzXH0D424LhuwesXLzB4gqTg5zhe5K3GbK_mF8GwUZgkQoVlwxgMiM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AxXNdkxPkPE", "title": "12. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 컨퍼넌트 | 프레임워크 | 리액트" },
+    { "id": "Uxebhc16cZ0", "title": "15. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 스킬 영역 | 포트폴리오 | 리액트" },
+    { "id": "apcZFPfAaGA", "title": "22. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 컨퍼넌트 | 포트폴리오 | 프레임워크" },
+    { "id": "hPqonjWGxLU", "title": "21. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 셋팅하기 | 포트폴리오 | vue.js" },
+    { "id": "0lCuUTt0qPs", "title": "20. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 마무리 영역 | 포트폴리오 | 리액트" },
     { "id": "2ZiZlEvtWgM", "title": "01. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 셋팅하기 | 웹스토리보이 | 포트폴리오" },
     { "id": "mjZISLURugw", "title": "08. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 연락처 영역 | 웹스토리보이 | 퍼블리셔" },
-    { "id": "ePvRxd2d4Ss", "title": "10. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 스킬 영역 | 웹스토리보이 | 비트" }        
+    { "id": "ePvRxd2d4Ss", "title": "10. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 스킬 영역 | 웹스토리보이 | 비트" },
+    { "id": "MeUed161ewo", "title": "포트폴리오 어떻게 만들어야 할까? - 에이전시 프론트앤드 개발자 취업 #김지현 #나원지"}
   ]
 }

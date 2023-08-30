@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "zSecurity",
+    "name": "zSecurity",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaT6OpPCRkkFKnw9yrfkfOUh5g5mbLxN2pQImhAo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gMqHtjMQLe3H0tY8SajtN6b2IyDkaeNofqqojsEdSJaiMZsH3SuMJBqEiNB2qXATfVqzfRAZtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HbYdWajOCx4", "title": "SQL Injection Beginner Crash Course" },
+    { "id": "hollnezbeus", "title": "Metasploit Payloads GUI - Create Backdoors &amp; Control Hacked Devices Easily" }
+  ]
+}

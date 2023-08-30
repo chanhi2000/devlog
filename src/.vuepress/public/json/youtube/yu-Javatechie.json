@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/MFHFeloW3xAxIUKf0_aDKFFXxWwI_arzKqk_2hXO4R2GmjRR0pc_CkhH6T5z3mmuJ2OiPgR2Z4E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YiQYhXorMAI", "title": "Spring Security Exception Handling | HandlerExceptionResolver | ProblemDetail | JavaTechie" },
+    { "id": "Q-0Z6KZF1xM", "title": "Spring Boot 3 Integration Testing With TestContainers | Junit 5 | JavaTechie" },
     { "id": "YnhbTlCCVLc", "title": "Spring Boot 3.1.x 🔐 | Security Code Changes | Functional Programming | JavaTechie" },
     { "id": "7EhCzp3MhlQ", "title": "Spring Boot Security With Azure Active Directory | OICD | Oauth2 | JavaTechie" },
     { "id": "wlFnlNthAPQ", "title": "Spring Boot | Apache Kafka JSON Serialization & Deserialization Example | JavaTechie" },

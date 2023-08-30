@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "JDKoder",
+    "name": "JDKoder",
+    "profile": "https://yt3.googleusercontent.com/v339eosiyaBVGEh0eHFwM64-jvOGkeYSHBdCElMrc69p39c0d24C7pGadgJlS6ewwyMq2VKH-w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P-N6dUjM74wXeNJpVg9p8XcLFFJU53lvGqb5ahhhWQP4q-Efr7OFVN6VEzEXkx5UQkSMtdRlVNA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Mj-RdXlNE9E", "title": "Gitlab CI/CI #7 - Using SSH" }
+  ]
+}

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TddYMNVV14g", "title": "Automate Google Search API in Python" },
+    { "id": "txMDxxOSMDI", "title": "Let's Code Codewars - Leveling Up To 4 Kyu Challenges" },
+    { "id": "Hs_x36spL-k", "title": "ChatGPT's Code Interpreter is Absolutely Mind-Blowing" },
+    { "id": "YlUkwspocMI", "title": "Synchronize Multiple Applications with File Locks in Python" },
+    { "id": "2XOryp47mtw", "title": "Pretty Error Messages in Python" },
     { "id": "9y9YYhCuLro", "title": "Financial Stock Assistant Chatbot with ChatGPT in Python" },
     { "id": "dhoKFqhVJu0", "title": "Income Prediction Machine Learning Project in Python" },
     { "id": "GSHFzqqPq5U", "title": "Real-Time Stock Price Tracker in Python" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/nf8LF5WytA1-bgqBmqXgvc4a-L4XdbSdDWcmv3H78c8MC5ExXwSmsKyKsn_3U030OC0lzxNIlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KkY4XvwWeyQ", "title": "Building a Network API Fetching App with RxJava and MVVM in Android" },
+    { "id": "jLiI481jaJU", "title": "Build Your Own Local Cache for REST API in Android Programming" },
     { "id": "bb8Ig80gJMk", "title": "Attacking Android applications exploiting Firebase Database Realtime" },
     { "id": "UNa_gIuFyOM", "title": "Android Kotlin Tutorial - RSS Reader by Kotlin" }, 
     { "id": "9KJyebg17qw", "title": "Android Development Tutorial - New Uber Clone #42 Update Trip Plan" }, 

@@ -104,5 +104,10 @@
     "desc": "Example of a python monorepo using pip, the poetry backend, and Pants",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "satwikkansal/wtfpython",
+    "desc": "What the f*ck Python? 😱",
+    "topics": ["python", "snippets", "documentation", "wtf", "gotchas", "interview-questions", "python-interview-questions", "pitfalls", "wats"],
+    "officialSite": ""
   }
 ]

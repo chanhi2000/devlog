@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/CJ3jXN8bFt7hqwXZky40MPIkiX71MNlHFB84Vb4Ld54b7FNb3JZ-hY-iwMCCEQ3z_MGjRNAKpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HGsVBqUrnGY", "title": "Highly Customizable Charts with Jetpack Compose - YCharts" },
+    { "id": "7VAUXo_TgTk", "title": "👇This is what you need to know - Accompanist Deprecation ⛔" },
     { "id": "K7FJlw84rZw", "title": "Compose for Web VS Compose HTML - Explained" },
     { "id": "O9_RSYSmeIE", "title": "Easy Guide to a WorkManager | Injecting a Worker with a Dagger-Hilt" }, 
     { "id": "XAWzX2qYj00", "title": "Execute an important work using WorkManager - Expedited work" }, 

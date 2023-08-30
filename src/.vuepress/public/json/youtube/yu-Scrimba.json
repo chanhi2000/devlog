@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Scrimba",
+    "name": "Scrimba",
+    "profile": "https://yt3.googleusercontent.com/fim3ppqLo62mUlrsTDNvNcCzHKvIzVww1Nq-S71A56IMKeuHLzpCSSyOXaapHFhJNfEf__21=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1-4XurcrfGySCcRZrY8r3Uh_iwlwIssrdMdXyIlimCiAZNObH6voe2jYZzEtwwSmFpnfeaw9KQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W7tmIP5NV3c", "title": "Advanced JavaScript Techniques: Closures, Prototypes, Async/Await | Live Q&A with Senior Developer" }
+  ]
+}

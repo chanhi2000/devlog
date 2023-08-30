@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/sZwGrhLwRB_MgmOtVOhBVKjelEcDdsXs47ZQvTJrIc3NwUIqHw4WKoi7-x6_Mk2Jfw9cy5s8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OY6-LhAK3bA", "title": "10 Python Input Tricks They NEVER Taught You!" },
     { "id": "yBAOgQTe0vQ", "title": "The Trader's Secret: Effective Stop-Loss Strategies for Success" },
     { "id": "Zwqn6r-XpZ8", "title": "my bot reads the tape for me" },
     { "id": "xv_vyAbxuog", "title": "How to use Web Socket Data for Algo Trading (Hyperliquid Exchange) pt  1" },    

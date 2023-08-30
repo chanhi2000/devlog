@@ -6,25 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/c3c8tRqMTf640F5eoVLPPOBaOzZP0vpd8FENF4h71bZphDPK58jcmBGkJ-I6GFGoaXWBg4mq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "8_0DJ9FOlOM",
-      "title": "GitHub Copilot X Explained | A big step forward..."
-    }, {
-      "id": "LCvBPsuHe6g",
-      "title": "Using Cloud Firestore For Your REACT Backend 2023 | CRUD App"
-    }, {
-      "id": "2doSoMN2xvI",
-      "title": "AWS Networking Basics For Programmers | Hands On"
-    }, {
-      "id": "h66RrCn5rvQ",
-      "title": "Automate AWS EC2 with Python | DevOps Coding Challenge"
-    }, {
-      "id": "CjKhQoYeR4Q",
-      "title": "Getting Started With AWS Cloud | Step-by-Step Guide"
-    }, {
-      "id": "i7ABlHngi1Q",
-      "title": "Docker For Beginners: From Docker Desktop to Deployment"
-    }
+    { "id": "49HtMTgCIUs", "title": "ChatGPT Rebuilds My App Completely | Full-Stack" },
+    { "id": "4y1a4syMJHM", "title": "Let's Build a Talking ChatGPT Interview Bot | Hands On Project" },
+    { "id": "8_0DJ9FOlOM", "title": "GitHub Copilot X Explained | A big step forward..." }, 
+    { "id": "LCvBPsuHe6g", "title": "Using Cloud Firestore For Your REACT Backend 2023 | CRUD App" }, 
+    { "id": "2doSoMN2xvI", "title": "AWS Networking Basics For Programmers | Hands On" }, 
+    { "id": "h66RrCn5rvQ", "title": "Automate AWS EC2 with Python | DevOps Coding Challenge" }, 
+    { "id": "CjKhQoYeR4Q", "title": "Getting Started With AWS Cloud | Step-by-Step Guide" }, 
+    { "id": "i7ABlHngi1Q", "title": "Docker For Beginners: From Docker Desktop to Deployment" }
   ]
 }
 

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gedTiB_-jp-B-QuumZoWFsDm6uTotjoEfBA9YtusqRxdluPOljqaMlcMFYlUBfx5cLQRNOrI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VBA4k1mNYDw", "title": "How to creates DevExpress Ribbon Form, Login & Splash Screen in C#.NET" },
+    { "id": "wkDuYXRy5MQ", "title": "How to build Multiple type of .NET Applications in single solution | Urdu - Hindi #2" },
     { "id": "IC80wRPb2Zw", "title": "Deploy a .NET Windows desktop application using ClickOnce | with examples | Urdu - Hindi #2" },
     { "id": "Oey42bd8lhI", "title": "SQL Server String Functions Part 1 | with examples | Urdu - Hindi #38" },
     { "id": "qJsalEvRklw", "title": "Sql: How To Alter A Table (Part 1) | Urdu - Hindi #33"  },

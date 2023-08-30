@@ -704,5 +704,10 @@
     "desc": "Reverse engineering of the native Obsidian sync and publish server",
     "topics": ["sync", "obsidian-md", "obsidian-vault", "obsidian-publish", "obsidian-sync"],
     "officialSite": "https://obsidian.md/sync"
+  }, {
+    "repo": "tepreece/drumscript",
+    "desc": "A simple MIDI drum machine scripting language",
+    "topics": [],
+    "officialSite": ""
   }
 ]

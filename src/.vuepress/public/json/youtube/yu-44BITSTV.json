@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/3nyxB4hDoEsxIusJ_PO-levqaXEzNhT3jHEh21gs2oA1u5lHsz-W-Lj99dN-MW_EnKA_l0LzXb8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dxMAt12qoFE", "title": "Twitter API 제한, 애플페이, GitHub 새기능, 머신러닝" },
+    { "id": "iVU2DCeJCt8", "title": "AI 이야기 w/ 래블업 신정규 CEO" },
+    { "id": "eYZXA3kkENE", "title": "tailscale 활용, CentOS와 오픈소스, Threads 이야기" },
     { "id": "R9nsp-fgUJk", "title": "ML/AI 특집 w/ 윤" },
     { "id": "GjC0WCYvCq0", "title": "트위터 장애, ChatGPT등 AI" }, 
     { "id": "emawWKgDH3E", "title": "44bits 팟캐스트 - Git.io deprecation, Scaling containers on AWS" }, 

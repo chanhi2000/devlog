@@ -374,6 +374,11 @@
     "desc": "A DSL for data-driven computational pipelines",
     "topics": ["docker", "groovy", "hello", "aws", "cloud", "bioinformatics", "pipeline", "nextflow", "hpc", "reproducible-research", "workflow-engine", "slurm", "pipeline-framework", "sge", "singularity", "reproducible-science", "dataflow", "singularity-containers"],
     "officialSite": "http://nextflow.io"
+  }, {
+    "repo": "quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "topics": ["java", "kubernetes", "reactive", "cloud-native", "hacktoberfest"],
+    "officialSite": "https://quarkus.io"
   }
 ]
 

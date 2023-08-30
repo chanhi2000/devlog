@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sZnu-TyaGNk", "title": "The .NET 8 Auth Changes You Must Know About!" },
+    { "id": "goxI3rOMnmY", "title": "The Secret HttpClient Feature You Need To Use in .NET" },
     { "id": "A2pKhNQoQUU", "title": "Creating Dashboards with .NET 8’s New Metrics!" },
     { "id": "TCiL3y2P4rA", "title": "The Exception Mistake You Must Never Make in C#" },
     { "id": "mO0fwvnnzbU", "title": "The NEW Way of Validating Settings in .NET 8" },

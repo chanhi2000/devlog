@@ -6,10 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/5dQVlxRd4hIKRUKDrLn79K1YVs8m-uQunEIeZEvWF8tuQw9PrtmOIkw2K7KLo6juiNJtFTuMSA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h5Jj9Pt4pNM", "title": "How To Use AWS Audit Manager Tutorial for Beginners" },
     { "id": "cKytRgl7cco", "title": "AWS Load balancing within and between regions #Shorts" },
     { "id": "qZlaUW43fuY", "title": "Excel VBA Programming - The Complete Guide" },
     { "id": "njy0dy15BWQ", "title": "AWS IAM Tutorial for Beginners Step by Step - AWS Tutorial" },    
-    { "id": "cKytRgl7cco",  "title": "AWS Load balancing within and between regions #Shorts" }, 
+    { "id": "cKytRgl7cco", "title": "AWS Load balancing within and between regions #Shorts" }, 
     { "id": "vQTCaFv8E0M", "title": "Why ChatGPT is the next big thing in DevOps Pipeline?" }, 
     { "id": "ZopKM2umkew", "title": "CI CD Full Course In One Hour" }, 
     { "id": "4_ORDXKLMWs", "title": "Selenium Testing Full Course" }, 

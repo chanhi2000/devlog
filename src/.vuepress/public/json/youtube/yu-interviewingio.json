@@ -5,19 +5,11 @@
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMmtD_YviZddZJEQ3ZP4S5tsSOVpsKQ4EK4mLlxHw=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
-    {
-      "id": "j8gRw3wI_Jc",
-      "title": "Design Facebook Timeline Service: System Design Interview with a Facebook Engineer"
-    }, {
-      "id": "FVzlY9cm-A0",
-      "title": "Java interview with an Apple engineer: Max contiguous subarray"
-    }, {
-      "id": "G7JnFI00fMQ",
-      "title": "Sleep Sort (Java Interview)"
-    }, {
-      "id": "cdCeU8DJvPM",
-      "title": "Missing item list difference: Python interview with an Airbnb engineer"
-    }
+    { "id": "fVOEYvquKBI", "title": "Harmful Content Removal: Machine Learning (System Design) Staff Level Mentorship" },
+    { "id": "j8gRw3wI_Jc", "title": "Design Facebook Timeline Service: System Design Interview with a Facebook Engineer" }, 
+    { "id": "FVzlY9cm-A0", "title": "Java interview with an Apple engineer: Max contiguous subarray" }, 
+    { "id": "G7JnFI00fMQ", "title": "Sleep Sort (Java Interview)" }, 
+    { "id": "cdCeU8DJvPM", "title": "Missing item list difference: Python interview with an Airbnb engineer" }
   ]
 }
 

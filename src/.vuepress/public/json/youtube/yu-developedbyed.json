@@ -6,57 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/71AwzsBmWpjQR8PPhb8e8I0eF0qEgRAZDZuDkxXzUyGA8mQ-ZubpXQ0le1jquOFbuPe9-XgIkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "pHXHBHdTzrM",
-      "title": "You Can Create Beautiful Modern Emails With React!"
-    }, {
-      "id": "7MKEOfSP2s4",
-      "title": "This React UI Library is GAME CHANGER!"
-    }, {
-      "id": "BGor77wguBI",
-      "title": "Why is this making your website slow?"
-    }, {
-      "id": "_fNk--smLuY",
-      "title": "This CSS Property will change the web"
-    }, {
-      "id": "pHXHBHdTzrM",
-      "title": "You Can Create Beautiful Modern Emails With React!"
-    }, {
-      "id": "xB27AuRa5h4",
-      "title": "Javascript Layout Animations REALLY SIMPLE TUTORIAL!"
-    }, {
-      "id": "xg1zO2hN2QM",
-      "title": "Web Developer Reacts To Best Codepens!"
-    }, {
-      "id": "oPteQFUK42w",
-      "title": "The Ultimate Guide To Forms In React Tutorial"
-    }, {
-      "id": "A2g4IwtAX_I",
-      "title": "Top 10 VSCode Extensions YOU MUST TRY!"
-    }, {
-      "id": "Ttf3CEsEwMQ",
-      "title": "Beginner Vanilla Javascript Project Tutorial"
-    }, {
-      "id": "z-xkbNLIB5w",
-      "title": "Web Design Tutorial - 5 IMPORTANT Tips!"
-    }, {
-      "id": "tsMHONmUkvI",
-      "title": "Create 3D Animation With Javascript Tutorial!"
-    }, {
-      "id": "jE-SpRI3K5g",
-      "title": "Build A Python GUI App Tutorial"
-    }, {
-      "id": "2jqok-WgelI",
-      "title": "Build A Node.js API Authentication With JWT Tutorial"
-    }, {
-      "id": "U9T6YkEDkMo",
-      "title": "Build a Recipe App With React | React Tutorial For Beginners"
-    }, {
-      "id": "WZQc7RUAg18",
-      "title": "ES6 Javascript Tutorial For Beginners | ES6 Crash Course"
-    }, {
-      "id": "gXkqy0b4M5g",
-      "title": "Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT"
-    }
+    { "id": "21ES7AnqkrA", "title": "Learn CSS Displays in 12 Minutes | Grid, Flexbox, Inline Block, Block" },
+    { "id": "pHXHBHdTzrM", "title": "You Can Create Beautiful Modern Emails With React!" }, 
+    { "id": "7MKEOfSP2s4", "title": "This React UI Library is GAME CHANGER!" }, 
+    { "id": "BGor77wguBI", "title": "Why is this making your website slow?" }, 
+    { "id": "_fNk--smLuY", "title": "This CSS Property will change the web" }, 
+    { "id": "pHXHBHdTzrM", "title": "You Can Create Beautiful Modern Emails With React!" }, 
+    { "id": "xB27AuRa5h4", "title": "Javascript Layout Animations REALLY SIMPLE TUTORIAL!" }, 
+    { "id": "xg1zO2hN2QM", "title": "Web Developer Reacts To Best Codepens!" }, 
+    { "id": "oPteQFUK42w", "title": "The Ultimate Guide To Forms In React Tutorial" }, 
+    { "id": "A2g4IwtAX_I", "title": "Top 10 VSCode Extensions YOU MUST TRY!" }, 
+    { "id": "Ttf3CEsEwMQ", "title": "Beginner Vanilla Javascript Project Tutorial" }, 
+    { "id": "z-xkbNLIB5w", "title": "Web Design Tutorial - 5 IMPORTANT Tips!" }, 
+    { "id": "tsMHONmUkvI", "title": "Create 3D Animation With Javascript Tutorial!" }, 
+    { "id": "jE-SpRI3K5g", "title": "Build A Python GUI App Tutorial" }, 
+    { "id": "2jqok-WgelI", "title": "Build A Node.js API Authentication With JWT Tutorial" }, 
+    { "id": "U9T6YkEDkMo", "title": "Build a Recipe App With React | React Tutorial For Beginners" }, 
+    { "id": "WZQc7RUAg18", "title": "ES6 Javascript Tutorial For Beginners | ES6 Crash Course" }, 
+    { "id": "gXkqy0b4M5g", "title": "Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT" }
   ]
 }

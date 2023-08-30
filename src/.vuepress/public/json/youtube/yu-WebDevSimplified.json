@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/NR7mt68maaOHV0rxr6_XiSzaW0yziFd6uvUGQMBg1tICGHR0NFSLWa3UAsk7N2-NgmxDezuk4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_e4m4DjnBCE", "title": "Stop Using `{}` In TypeScript" },
     { "id": "ccg-erZYO4k", "title": "This Extension Is A TypeScript Game Changer" }, 
     { "id": "1Hgc6EU9PSg", "title": "This Tailwind Library Is A Game Changer" }, 
     { "id": "MD_-XzdX0oo", "title": "This Prettier Plugin Makes Tailwind So Much Better" }, 

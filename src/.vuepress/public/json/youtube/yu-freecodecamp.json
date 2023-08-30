@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xZDB1naRUlk", "title": "Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma" },
+    { "id": "SPcwo0Gq9T8", "title": "HashiCorp Terraform Associate Certification Course (003) - Pass the Exam!" },
+    { "id": "Wn3IPX_ax-0", "title": "Code a Google Drive Clone using Laravel and Vue.js – Complete Course" },
+    { "id": "KBDSJU3cGkc", "title": "SQL For Web Developers - Complete Database Course" },
+    { "id": "UU1WVnMk4E8", "title": "Create a Large Language Model from Scratch with Python – Tutorial" },
     { "id": "FJAO6jDYljs", "title": "Project-Based Augmented Reality Course with Unity Engine and AR Foundation" },
     { "id": "agEPmYdbQLs", "title": "AI Safety – Full Course by Safe.AI Founder on Machine Learning & Ethics (Center for AI Safety)" },
     { "id": "u8vMu7viCm8", "title": "Testing JavaScript with Cypress – Full Course" },    

@@ -31,5 +31,9 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Jonathan Katz
+
+- [PGVECTOR 0.5.0 FEATURE HIGHLIGHTS AND HOWTOS](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0)
+
 
 <TagLinks />

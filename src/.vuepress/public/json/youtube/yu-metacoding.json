@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Pl6J-GF5yUHDGpE_hT8wPMuySiioISn7ss6NeZJQIw8OPj3Xwm59-Nmp9Kr09PRVy_khJo4Dpqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JjAIa30QnLo", "title": "도커 입문 26강   도커컴포즈 Spring 앱 실행시켜보기" },
+    { "id": "RbJvb8kwrcM", "title": "도커 입문 27강   도커컴포즈 Spring 앱 만들어보기" },
     { "id": "r8OQMtbosYM", "title": "도커 입문 24강 - 도커컴포즈 React & Spring & MySQL" },
     { "id": "kbzC5n3ul1M", "title": "도커 입문 19강 - docker file step7 - nginx 게이트웨이  사용하기" }, 
     { "id": "ZmqSOMlgZPU", "title": "도커 입문 18강 - docker file step6 - nginx를 로비 서버로 활용하기" }, 

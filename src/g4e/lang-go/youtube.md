@@ -35,6 +35,3 @@ meta:
 <!-- TutorialEdge -->
 
 ---
-
-
-[yu-web-dev-cody]: https://www.youtube.com/@WebDevCody

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/jQgjRgKrlTCsvPutD-0HOCxBqMXt-GoU_h7pZkk55iOd-ju1qiSuo-SO90yPP83UizA7qR5a=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yQFuJJqqWbc", "title": "How to Backup MacOS to Synology NAS using Time Machine (easy)" },
     { "id": "ci5agOkoXuI", "title": "Sync Google Drive / Dropbox to your Synology NAS - Cloud Sync Tutorial" },
     { "id": "X0qGNgmCIGw", "title": "How to use Docker (Container Manager) to do ANYTHING! on Synology NAS" },    
     { "id": "o2ck1g3_k3o", "title": "The Complete Guide to Remotely Access Synology NAS - All 5 Options Explained"  }, 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/mckDAqaGXh1nQIICPGODbFWM44y7IY9tGAT2LYbR_m2XNWCNNkHNdnD-AQDZrV7RFWEPWB73=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "f1V9pBzE8oE", "title": "Full Stack Python Training" }, 
     { "id": "_A7yBhW8Fx4", "title": "Logging in Spring Boot Applications | Mr. Nataraj | Naresh IT" },
     { "id": "Nu465Oo-acc", "title": "Log4J / SLF4J Workshop Session-2 | by Mr. Nataraj | Naresh IT" }, 
     { "id": "AI3b3FY2iD0", "title": "Junit5, HttpUnit & Mockito Workshop Session-2 | by Mr. Nataraj" }, 

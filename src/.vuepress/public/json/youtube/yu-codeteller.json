@@ -5,10 +5,8 @@
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN48qFF8aE-5TeTthfOVj82b3UrQ_q08SY5oEqq=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
-    {
-      "id": "SQPLPPb_LuE",
-      "title": "ChatGPT를 VSCode안으로 데리고 오자 | 인공지능 코딩"
-    }
+    { "id": "9xB7ncO1u-E", "title": "ChatGPT 코드인터프리터 56배 빠르게 만들기 | 초전도적 성능" },
+    { "id": "SQPLPPb_LuE", "title": "ChatGPT를 VSCode안으로 데리고 오자 | 인공지능 코딩" }
   ]
 }
 

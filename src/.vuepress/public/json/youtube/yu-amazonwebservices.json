@@ -2,100 +2,49 @@
   "channel": {
     "id": "amazonwebservices",
     "name": "Amazon Web Services",
-    "profile": "https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "8QSsodjcUlY",
-      "title": "Planning Analytics TM1 scale and resilience on AWS | Amazon Web Services"
-    }, {
-      "id": "f2v90M-bOkU",
-      "title": "HA and DR with OpenShift and IBM solutions on AWS | Amazon Web Services"
-    }, {
-      "id": "mdDNkMfZUBA",
-      "title": "OpenShift and IBM storage fusion, inter availability zone data transfer | Amazon Web Services"
-    }, {
-      "id": "VqpYIZw0rgI",
-      "title": "What is IBM data Fabric | Amazon Web Services"
-    }, {
-      "id": "AOL0YBGdDSc",
-      "title": "Using IBM Instana for full stack observability on AWS | Amazon Web Services"
-    }, {
-      "id": "FOwg2b6T7As",
-      "title": "Why are customers migrating DB2 to AWS | Amazon Web Services"
-    }, {
-      "id": "LHTRrw9D39A",
-      "title": "What is IBM Turbonomic on AWS | Amazon Web Services"
-    }, {
-      "id": "RwusV_sDWVA",
-      "title": "Data processing in IBM CP4D using Watson OpenScale Deployed on Amazon SageMaker"
-    }, {
-      "id": "R40_14T6BsM",
-      "title": "Keeping the SAP Core Clean with ROSA | Amazon Web Services"
-    }, {
-      "id": "ZuD9aslmas0",
-      "title": "Migrating SAP to AWS using Red Hat Ansible | Amazon Web Services"
-    }, {
-      "id": "WUzHMpHrV7U",
-      "title": "Refactoring SAP ABAP code for decoupling with Kubernetes | Amazon Web Services"
-    }, {
-      "id": "dbR3c9Gk98o",
-      "title": "RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services"
-    }, {
-      "id": "x3f4Sno7u4g",
-      "title": "Red Hat Enterprise Linux - High Availability for SAP on AWS | Amazon Web Services"
-    }, {
-      "id": "XWcCzqEemQQ",
-      "title": "Amazon EC2 Mac Tech Tutorials - Part 3 - macOS Workers with Kubernetes and Jenkins"
-    }, {
-      "id": "--BfdlnIc7Y",
-      "title": "Amazon EC2 Mac tech tutorials - Part 2 - How to Use Block and File Storage \| Amazon Web Services"
-    }, {
-      "id": "jJ4WgX2aOcs",
-      "title": "Setting up a CICD Pipeline for Containers on AWS"
-    }, {
-      "id": "SlyAHc5Mv2A",
-      "title": "How can I find out which user launched an EC2 instance in my account?"
-    }, {
-      "id": "khhTUIa6_pg",
-      "title": "Back to Basics: Deploy Your Machine Learning Model for Real-Time Predictions"
-    }, {
-      "id": "wm1adkZ7KYs",
-      "title": "AWS Well-Architected for Startups  - Console Tool and API"
-    }, {
-      "id": "M7HbsjuqC9M",
-      "title": "AWS Well-Architected for Startups  - Performance Efficiency"
-    }, {
-      "id": "m0iUkVYUYeY",
-      "title": "AWS Well-Architected for Startups  - Operational Excellence"
-    }, {
-      "id": "U5CIFoWG00A",
-      "title": "AWS Well-Architected for Startups  - Reliability"
-    }, {
-      "id": "s9vf3r2fGXI",
-      "title": "AWS Well-Architected for Startups  - Security"
-    }, {
-      "id": "GhTC-pMgOjc",
-      "title": "AWS Well-Architected for Startups  - 5 Minute Overview"
-    }, {
-      "id": "qaj9Titw0MM",
-      "title": "How do I use AWS Systems Manager to join a EC2 Windows instance to my AWS Directory Service domain?"
-    }, {
-      "id": "6sY0AunanlM",
-      "title": "NGINX: Deploy and Scale Applications with Ease Using AWS EKS, ECS and the NGINX Ingress Controller"
-    }, {
-      "id": "JZPxHW9pjsA",
-      "title": "Deploy and Apply the Customization for AWS Control Tower Solution"
-    }, {
-      "id": "7KpUJ6Wcqrg",
-      "title": "Automating updates to your product listings in AWS Marketplace with Catalog API"
-    }, {
-      "id": "JXC4qYYQD8E",
-      "title": "RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services" /
-    }, {
-      "id": "ZX_eeKwslhk",
-      "title": "Keeping the SAP Core Clean with ROSA | Amazon Web Services"
-    }
+    { "id": "z7EL5cpROEw", "title": "AWS 관리 콘솔에 로그인하려면 어떻게 해야 하나요?" },
+    { "id": "Qskg4kMSofM", "title": "AWS 계정에서 더 이상 필요하지 않은 활성 리소스를 확인하려면 어떻게 해야 합니까?" },
+    { "id": "BCIVJUBBwu0", "title": "Application Load Balancer를 사용하여 HTTP 요청을 HTTPS로 리디렉션하려면 어떻게 해야 하나요?" },
+    { "id": "8CABO6FdzwU", "title": "Back to Basics: Migrating Your Database to Managed Database Services on AWS" },
+    { "id": "wrPt8uvP5dw", "title": "How can AWS help with data governance? | Amazon Web Services" },
+    { "id": "hQEsl93I5nE", "title": "How to Setup Multi-Factor Authentication (MFA) With AWS | Amazon Web Services" },
+    { "id": "96DwHHjLfvs", "title": "Amazon S3 Storage Lens: Demo | Amazon Web Services" },
+    { "id": "NumPDA0z_Jg", "title": "Exploring Ethereum node request types on Amazon Managed Blockchain  (WebSocket vs HTTP)" },
+    { "id": "DoTmoiNirs4", "title": "Connecting to an Ethereum node on Amazon Managed Blockchain | Amazon Web Services" },
+    { "id": "8QSsodjcUlY", "title": "Planning Analytics TM1 scale and resilience on AWS | Amazon Web Services" }, 
+    { "id": "f2v90M-bOkU", "title": "HA and DR with OpenShift and IBM solutions on AWS | Amazon Web Services" }, 
+    { "id": "mdDNkMfZUBA", "title": "OpenShift and IBM storage fusion, inter availability zone data transfer | Amazon Web Services" }, 
+    { "id": "VqpYIZw0rgI", "title": "What is IBM data Fabric | Amazon Web Services" }, 
+    { "id": "AOL0YBGdDSc", "title": "Using IBM Instana for full stack observability on AWS | Amazon Web Services" }, 
+    { "id": "FOwg2b6T7As", "title": "Why are customers migrating DB2 to AWS | Amazon Web Services" }, 
+    { "id": "LHTRrw9D39A", "title": "What is IBM Turbonomic on AWS | Amazon Web Services" }, 
+    { "id": "RwusV_sDWVA", "title": "Data processing in IBM CP4D using Watson OpenScale Deployed on Amazon SageMaker" }, 
+    { "id": "R40_14T6BsM", "title": "Keeping the SAP Core Clean with ROSA | Amazon Web Services" }, 
+    { "id": "ZuD9aslmas0", "title": "Migrating SAP to AWS using Red Hat Ansible | Amazon Web Services" }, 
+    { "id": "WUzHMpHrV7U", "title": "Refactoring SAP ABAP code for decoupling with Kubernetes | Amazon Web Services" }, 
+    { "id": "dbR3c9Gk98o", "title": "RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services" }, 
+    { "id": "x3f4Sno7u4g", "title": "Red Hat Enterprise Linux - High Availability for SAP on AWS | Amazon Web Services" }, 
+    { "id": "XWcCzqEemQQ", "title": "Amazon EC2 Mac Tech Tutorials - Part 3 - macOS Workers with Kubernetes and Jenkins" }, 
+    { "id": "--BfdlnIc7Y", "title": "Amazon EC2 Mac tech tutorials - Part 2 - How to Use Block and File Storage | Amazon Web Services" }, 
+    { "id": "jJ4WgX2aOcs", "title": "Setting up a CICD Pipeline for Containers on AWS" }, 
+    { "id": "SlyAHc5Mv2A", "title": "How can I find out which user launched an EC2 instance in my account?" }, 
+    { "id": "khhTUIa6_pg", "title": "Back to Basics: Deploy Your Machine Learning Model for Real-Time Predictions" }, 
+    { "id": "wm1adkZ7KYs", "title": "AWS Well-Architected for Startups  - Console Tool and API" }, 
+    { "id": "M7HbsjuqC9M", "title": "AWS Well-Architected for Startups  - Performance Efficiency" }, 
+    { "id": "m0iUkVYUYeY", "title": "AWS Well-Architected for Startups  - Operational Excellence" }, 
+    { "id": "U5CIFoWG00A", "title": "AWS Well-Architected for Startups  - Reliability" }, 
+    { "id": "s9vf3r2fGXI", "title": "AWS Well-Architected for Startups  - Security" }, 
+    { "id": "GhTC-pMgOjc", "title": "AWS Well-Architected for Startups  - 5 Minute Overview" }, 
+    { "id": "qaj9Titw0MM", "title": "How do I use AWS Systems Manager to join a EC2 Windows instance to my AWS Directory Service domain?" }, 
+    { "id": "6sY0AunanlM", "title": "NGINX: Deploy and Scale Applications with Ease Using AWS EKS, ECS and the NGINX Ingress Controller" }, 
+    { "id": "JZPxHW9pjsA", "title": "Deploy and Apply the Customization for AWS Control Tower Solution" }, 
+    { "id": "7KpUJ6Wcqrg", "title": "Automating updates to your product listings in AWS Marketplace with Catalog API" }, 
+    { "id": "JXC4qYYQD8E", "title": "RHEL consolidation, what are the benefits and how can customers get it done | Amazon Web Services" }, 
+    { "id": "ZX_eeKwslhk", "title": "Keeping the SAP Core Clean with ROSA | Amazon Web Services" }
   ]
 }
 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/95FNZ18TlquKtEiM3re0tEmzvF_UmaHeNbc7_eUxi4ll1XrICq_dT2pp5ihUiI-vJRXlAAhPuAw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AS79oJ3Fcf0", "title": "Next.js with React Testing Library, Jest, TypeScript" },
     { "id": "mZbRRQMJ7Ew", "title": "Python Command Line Arguments tutorial for Beginners" }, 
     { "id": "tLO0XRKcwUc", "title": "🔥 Fetch Better! Type & Runtime Safety with Zod-Fetch" }, 
     { "id": "BmUsDuLO598", "title": "Server Actions in Next.js | Nextjs 13 Server Mutations" }, 

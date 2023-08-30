@@ -6,11 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/uqsdQ8yttgJhVqSvYv5KQ0iDmDOGweVel9Thruqc1V-sCD5-3k2pqA0C_iqkGQmXmetjliewaA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tT1foT5Ccdo", "title": "Cleaning Up My Emacs Config - Configuring Emacs 06" },
+    { "id": "WVHC11BeEGw", "title": "Some Interesting Built in Features in Qtile" },
     { "id": "F9tVCzn04jA", "title": "Window Maker Live - Debian With A Retro Desktop Environment" },
     { "id": "d1fgypEiQkE", "title": "A New Beginning With GNU Emacs - Configuring Emacs 01" }, 
     { "id": "4ZH9pobulDo", "title": "Fixing Some Major Bugs And Minor Annoyances - Configuring Emacs 02" }, 
     { "id": "WTb99Rd3Vu0", "title": "Creating Your Own Qt Applications...It's Easy!" }, 
-    { "id": "Qj0FMHlrsqo",  "title": "Three Amazingly Useful Linux Commands (cmp, diff, tput)" }, 
+    { "id": "Qj0FMHlrsqo", "title": "Three Amazingly Useful Linux Commands (cmp, diff, tput)" }, 
     { "id": "3cd3slILXEc", "title": "Stop Updating Your Linux Computer Within The GUI" }, 
     { "id": "13gNtgqzzmM", "title": "Vim Tips And Tricks Some Of My Favorite Vim Commands" }, 
     { "id": "ywXVGH-QyMc", "title": "Give the 'bat' command wings with 'bat-extras'" }, 

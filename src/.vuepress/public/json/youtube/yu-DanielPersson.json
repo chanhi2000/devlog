@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/u0hA3qiqE5Vh5sAREZVdSa-jKWCuTwSJfErbRSpE9Tk8NBCoTrwh73DtXIzPujWaWwZ7hOitrqs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "89oKFfeXRMQ", "title": "Writing a Notes App in Pure HTML: Harnessing the Power of htmx" },
     { "id": "EDRZbBdPXMY", "title": "Adding deleteWithPrefix and moveWithPrefix on my S3Client" }, 
     { "id": "_d6OFPeb0hY", "title": "Java 21 - Finalized abbreviation" },     
     { "id": "E1LXQd1M-ck", "title": "Best Way to Install OpenStack? OpenMetal vs Manual installation" }, 

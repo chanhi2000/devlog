@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/D6JP3tbuMHTeuMqKL8iekuzx_VSnUuyp34LDvZ2DJ7y8kWIQprgKoaWW4QTSyix0neOxIBSv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YiTdcD7GJ5M", "title": "Aws Professional Class 21 - Aws Cloud Front Service in Detail with Demo" },
     { "id": "meiUB1jLCVE", "title": "Terraform Interview questions - Crack the Interview" },
     { "id": "WFZ1XHqPInw", "title": "EC2 Dashboard - All Options" }, 
     { "id": "2Z5Az-L1yOk", "title": "AWS SAA03 Live Class 7 - AMI, Backup of EC2 Server in Aws" }, 

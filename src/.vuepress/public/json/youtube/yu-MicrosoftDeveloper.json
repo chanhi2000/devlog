@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/cSZKXxKMITZNPTT09ozaxbbc6o52JRsFbir4RhQgnSsCsGuA22BJcnNB_f64H9xm9Vb5e6HSBrg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FKLFgJgETsw", "title": "SQL Server 2022: Accelerate query performance while reducing query compile time - w/ no code changes" },
     { "id": "INogHnWsbgo", "title": "T-SQL for Cloud-native Developers" },
     { "id": "RVoLYtpxbwY", "title": "Keynote: From Startups to the Enterprise: Scale your Business and Applications with Azure SQL" },
     { "id": "g2hLS8PZBlM", "title": "Power your DevOps Development with SQL Server Containers" },    

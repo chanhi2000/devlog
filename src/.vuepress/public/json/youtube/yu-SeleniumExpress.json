@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/lOB0YSLGhIh7DdbmkvL2nsevjVGo9pSgwhriNSjajZuqSklUgVH1NsA5xPYe6JGDUKQ6SSS7xw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "B1uKqtZLes0", "title": "How Spring Boot Auto Configuration works ? | Create Custom Auto configuration  | `@Conditional`" },
     { "id": "KB765AJ8uBU", "title": ".YAML vs .Properties - What will you choose ? Spring Boot properties configuration | Spring boot #4" },
     { "id": "acLWc5Nz-g0", "title": "How Spring Boot works ? Jackson REST API support | Version Management |  Bean Lifecycle Annotations" },
     { "id": "uIGPX6fVDdw", "title": "This is how MICROSERVICES works in real-time ! Spring Cloud Load Balancer + Eureka in action #8" }, 

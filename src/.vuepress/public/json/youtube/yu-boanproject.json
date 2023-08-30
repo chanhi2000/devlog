@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "a4VPBbOBESQ", "title": "파이썬 Streamlit - 업비트 API를 이용해서 코인 목록화 및 가격확인 #upbit #python #bitcoin" },
+    { "id": "XR2-F7pukeA", "title": "파이썬 자동화 - 업비트 API를 이용하여 원하는 코인 가격 가져오기 #upbit #python" },
+    { "id": "ICulMtuhM3E", "title": "파이썬 자동화 - 네이버 API 데이터를 이용하여 맛집 정보 검색하기" },
+    { "id": "gf3-CO64bhM", "title": "Log-killer를 이용하여 서버 침투 후에 기록되는 모든 로그를 삭제" },
+    { "id": "I8PizvfiNCk", "title": "맥북 UTM 환경으로 칼리리눅스 설치 및 한글 설정 #kalilinux #해킹 #보안" },
+    { "id": "vsmRnFyi_Pc", "title": "파이썬 자동화 - 네이버 API 단축 URL 생성 및 Streamlit 활용 사례 #python #네이버 #파이썬" },
+    { "id": "KWEy15poH4g", "title": "애플 실리콘 맥북 환경에 쿠버네티스 Goat 취약한 환경 구축 방법 #kubernetes #mac #hacking" },
+    { "id": "jCi-lsw742I", "title": "CLOVA X와 ChatGPT에게 여행검색과 쇼핑검색 질문을 해보며 비교해봤어요! #clovax #클로바x #chatgpt" },
+    { "id": "xYIQuJyMOFI", "title": "애플 실리콘 맥북에 모의해킹 취약한 환경 구성 #kalilinux #metasploitable" },
     { "id": "SRuPphDiKLg", "title": "파이썬 diagrams 라이브러리를 이용한 클라우드 아키텍처 만들기 #python #aws" }, 
     { "id": "QlgDI4llQtk", "title": "버프스위트 설치 및 기본 설정, 프록시 인터셉트 #burpsuite  #hacking" }, 
     { "id": "XOmkJDyC4aE", "title": "파이썬 PyPDF2 라이브러리를 이용한 PDF를 한장씩 자동 나누기 #python #파이썬자동화" }, 

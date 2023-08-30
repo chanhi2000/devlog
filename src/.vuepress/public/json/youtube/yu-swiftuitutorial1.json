@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/f05GS1-4H5VmCYw6a9KyuzdQdyJJV11McNB6X86oq0okED07xuLP6KzylWjTxOtQmmKgbNxfLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QBjHC9UGC2o", "title": "visionOS: How To Specify Initial Window Size and Add Hover Effect to Views" },
     { "id": "Jv6Ti2oApzw", "title": "Xcode 15: How to reference an image stored in the assets catalog in SwiftUI" },
     { "id": "lA-NGHr1_yg", "title": "SwiftUI, iOS 17, and Xcode 15: Learn Phase Animator Basics" },
     { "id": "fh1zb9jjtr0", "title": "Create Your First SwiftUI and visionOS Project" },    

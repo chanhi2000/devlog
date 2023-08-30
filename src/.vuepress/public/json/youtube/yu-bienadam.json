@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/nKUwaD9loKqAf9AS7EDp7ruFNYbnZz5by8XSEwWVaAwe1yFXcsoABt6HTQ42tk5oM6NGmWVCd5U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kEGCCXlG8BI", "title": "Daemon Threads Are More About Angels Than Demons #java #shorts #airhacks" },
+    { "id": "BhY_s9EvCkQ", "title": "Integer.parseInt() vs. Integer.valueOf--When To Use What #java #shorts" },
+    { "id": "uxQVjoGEP3I", "title": "The Missing parseString #java #shorts" },
     { "id": "dM6umPcXhK4", "title": "How To Create Exceptions With Clean Messages / Without StackTrace #java #shorts" },
     { "id": "ugBaEqb24Nw", "title": "How To Create A SHA-256 Hash For A String #java #shorts" },
     { "id": "6sssIS-j1UE", "title": "A Convenient Way to Time Travel with TemporalAdjusters #java #shorts" },
@@ -15,12 +18,12 @@
     { "id": "hrx5I1QaHZA", "title": "An Identity Function Example #java #shorts" }, 
     { "id": "KrOHx1yFnNM", "title": "Various Ways to Declare Identity Functions #java #shorts" }, 
     { "id": "ypXV51RtVk8", "title": "Refactoring: Decoding JWTs with Plain Java #java #shorts" }, 
-    { "id": "mUj_2C8dcQY",  "title": "Past, Present and Future: Serverside Java on Premise and in the Clouds #java #serverless #airhacks" }, 
-    { "id": "Z3Ir-AQEsKk",  "title": "AWS Lambda Configuration with Java CDK #slideless" }, 
-    { "id": "c1MiFnIwdvQ",  "title": "A Look into Helidon's Dockerfile #slideless" }, 
-    { "id": "ljSQXfc-GkA",  "title": "Testing ServiceWorkers on iPhone and Quarkus #slideless" }, 
-    { "id": "OlHXnf-eKqU",  "title": "JDD Conf: Kickass Java Backends #slideless" }, 
-    { "id": "1XjIdgUaTiI",  "title": "What is a CSS Custom Property / Custom Variable?" }, 
-    { "id": "4FVoC4jG0BA",  "title": "Tomcat, Jetty and Quarkus--The Memory Consumption" }
+    { "id": "mUj_2C8dcQY", "title": "Past, Present and Future: Serverside Java on Premise and in the Clouds #java #serverless #airhacks" }, 
+    { "id": "Z3Ir-AQEsKk", "title": "AWS Lambda Configuration with Java CDK #slideless" }, 
+    { "id": "c1MiFnIwdvQ", "title": "A Look into Helidon's Dockerfile #slideless" }, 
+    { "id": "ljSQXfc-GkA", "title": "Testing ServiceWorkers on iPhone and Quarkus #slideless" }, 
+    { "id": "OlHXnf-eKqU", "title": "JDD Conf: Kickass Java Backends #slideless" }, 
+    { "id": "1XjIdgUaTiI", "title": "What is a CSS Custom Property / Custom Variable?" }, 
+    { "id": "4FVoC4jG0BA", "title": "Tomcat, Jetty and Quarkus--The Memory Consumption" }
   ]
 }

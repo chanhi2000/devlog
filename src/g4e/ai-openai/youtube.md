@@ -242,4 +242,20 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## i Social You
+
+<MyYouTubeItems jsonName="yu-iSocialYou" />
+
+<!-- i Social You -->
+
+---
+
+## Andrej Karpathy
+
+<MyYouTubeItems jsonName="yu-AndrejKarpathy" />
+
+<!-- Andrej Karpathy -->
+
+---
+
 <TagLinks />

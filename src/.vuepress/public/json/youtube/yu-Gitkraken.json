@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hZX7_HJ83tC-kgzQOmtzrG49bJzHEZFOHoIM_gbrxviK0tROVkvg1KZFywzXK1uU00oH2Oh80A8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gjG6r7QL4dk", "title": "Pro Tip: Enhance Your Coding Environment with the Colorful Themes of Rainglow 🌈 for VS Code" },
     { "id": "vQmMJPS_lGw", "title": "From Command Line to GitKraken Client 🦑: Simplifying Version Control for Linux" }, 
     { "id": "s4BTvj1ZVLM", "title": "How to Use Git Worktree | Checkout Multiple Git Branches at Once" }, 
     { "id": "kfLrSERFgQo", "title": "Advanced Git CLI Tips: Git Clean, Git Reflog, Git GC, Git Alias, & More" } 

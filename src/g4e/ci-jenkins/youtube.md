@@ -61,4 +61,11 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## DevOps Journey
+
+<MyYouTubeItems jsonName="yu-DevOpsJourney" />
+
+<!-- DevOps Journey -->
+
+---
 <TagLinks />

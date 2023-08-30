@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hsgGQINIRzU", "title": "Laravel HasMany: Show Comma-Separated Children - 2 Ways" },
     { "id": "97mT6DflKzk", "title": "Laravel Jetstream: Easily Enable Terms and Policy with Markdown" }, 
     { "id": "7WSECfg4UXA", "title": "Laravel Daily MentorSHIP: Build API Project in 2 Weeks" }, 
     { "id": "9aIVmiL3Xks", "title": "[01/10] Laravel Travel API: DB Schema - Models and Migrations" }, 

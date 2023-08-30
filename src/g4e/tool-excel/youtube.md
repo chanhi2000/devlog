@@ -144,6 +144,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## 엑셀 이것만!ENGINE_
+
+<MyYouTubeItems jsonName="yu-engine_excel_" />
+
+<!-- 엑셀 이것만!ENGINE_ -->
+
+---
 ## Cody Baldwin
 
 <MyYouTubeItems jsonName="yu-codymbaldwin" />
