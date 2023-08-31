@@ -71,6 +71,7 @@ Install the following(s)
 - [Particulars](https://apps.apple.com/us/app/particulars/id885120167)
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066)
 - [Copy Clip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960)
+- [Cheetah - Virtual Machines](https://apps.apple.com/us/app/cheetah-vmm/id1612199418)
 
 ### B3. Use `mas` to install
 
@@ -79,12 +80,14 @@ Install the following(s)
 # 1604176982: One Thing
 # 885120167: Particulars
 # 1452453066: Hidden Bar
-# Copy Clip: 595191960
+# 595191960: Copy Clip
+# 1612199418: Cheetah - Virtual Machines
 mas install 497799835 \
     1604176982 \
     885120167 \
     1452453066 \
-    595191960
+    595191960 \
+    1612199418
 ```
 
 ---

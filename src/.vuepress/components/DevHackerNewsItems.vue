@@ -31,7 +31,8 @@
   <div class="card-body">
     <DeLoadingvSpinner v-if="isLoading"/>
     <div v-else class="hn-list">
-      <div class="hn-item" v-for="item in items">
+      <div class="hn-item"
+        v-for="(item, i) in items" :key="i">
         <div class="title-row">
           <div class="title">
             <a v-bind:href="item.link" v-bind:title="item.title"> {{ item.title }}</a>

@@ -1,7 +1,7 @@
 <!-- .vuepress/components/TagList -->
 <template>
   <div>
-    <span v-for="tag in Object.keys(tags)">
+    <span v-for="(tag, i) in Object.keys(tags)" :key="i">
       <h2 :id="tag">
         <router-link
           :to="{ path: `/tag/#${tag}` }"
@@ -11,7 +11,7 @@
         {{ tag }}
       </h2>
       <ul>
-        <li v-for="page in tags[tag]">
+        <li v-for="(page, i) in tags[tag]" :key="i">
           <router-link :to="{ path: page.path }">{{ page.title }}</router-link>
         </li>
       </ul>

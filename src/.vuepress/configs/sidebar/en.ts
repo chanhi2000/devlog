@@ -64,6 +64,16 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-pwsh/youtube.md',
       ]
     }, {
+      text: '🗡Vim',
+      collapsible: true,
+      children: [
+        '/g4e/cli-vim/README.md',
+        '/g4e/cli-vim/neovim.md',
+        '/g4e/cli-vim/github.md',
+        '/g4e/cli-vim/references.md',
+        '/g4e/cli-vim/youtube.md',        
+      ]
+    }, {
       text: '🐘Gradle',
       collapsible: true,
       children: [

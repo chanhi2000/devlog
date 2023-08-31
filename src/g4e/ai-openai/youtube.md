@@ -258,4 +258,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Real Vision
+
+<MyYouTubeItems jsonName="yu-RealVisionFinance" />
+
+<!-- Real Vision -->
+
+---
+
 <TagLinks />

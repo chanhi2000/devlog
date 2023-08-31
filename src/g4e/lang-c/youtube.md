@@ -81,4 +81,12 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 
 ---
 
+## Paul Programming
+
+<MyYouTubeItems jsonName="yu-PaulProgramming"/>
+
+<!-- Paul Programming -->
+
+---
+
 <TagLinks />

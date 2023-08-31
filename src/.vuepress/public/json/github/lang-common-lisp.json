@@ -24,5 +24,10 @@
     "desc": "CLOG - The Common Lisp Omnificent GUI",
     "topics": ["gui", "lisp", "websocket-server", "common-lisp", "webframework", "html-bindings", "html-over-the-wire", "javascript-over-the-wire"],
     "officialSite": ""
+  }, {
+    "repo": "lelanthran/l2h",
+    "desc": "Convert s-expressions input to HTML output.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

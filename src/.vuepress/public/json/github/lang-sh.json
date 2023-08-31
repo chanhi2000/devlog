@@ -179,5 +179,10 @@
     "desc": "A Steam Big Picture based couch gaming OS",
     "topics": ["linux", "steam", "distribution", "gaming", "os", "bigpicture", "bigpicturemode"],
     "officialSite": ""
+  }, {
+    "repo": "BEPb/BEPb",
+    "desc": "Config files for my GitHub profile.",
+    "topics": ["config", "github-config"],
+    "officialSite": "https://github.com/BEPb"
   }
 ]

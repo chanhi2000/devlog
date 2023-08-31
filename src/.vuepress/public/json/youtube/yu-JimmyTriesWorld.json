@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "JimmyTriesWorld",
+    "name": "Jimmy Tries World",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRxhE1HkbZpYHL70TDeFalYiju6nHv2GeZeK5pD=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kUOwDSGxjeg5SIk-QWVDt3LpcZAmfXP5QSpjxy26GATQvAR2lHVJvFbLekCcQZgTuGhTEJhMpXA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ap8QrMao0No", "title": "I Built a NAS: One Year Later. EVERYTHING I Learned and the Mistakes" }
+  ]
+}

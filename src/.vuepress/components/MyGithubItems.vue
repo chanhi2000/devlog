@@ -1,7 +1,7 @@
 <!-- .vuepress/components/MyGithubItems -->
 <template>
   <ul>
-    <li v-for="item in items">
+    <li v-for="(item, i) in items" :key="i">
       <a v-bind:href="item.repoUrl" 
          target="_blank" rel="noopener noreferrer">
         {{ item.repo }}

@@ -296,10 +296,18 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Callback vs. Promises vs. Async/Await](https://compile7.org/decompile/callback-vs-promises-vs-async-await/)
 
+---
+
 ## Fly.io
 
 - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd)
 - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens)
+
+---
+
+## Svelte
+
+- [Unlocking view transitions in SvelteKit 1.24](https://svelte.dev/blog/view-transitions)
 
 ---
 

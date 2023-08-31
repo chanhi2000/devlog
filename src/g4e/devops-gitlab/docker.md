@@ -15,8 +15,7 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 
 ## Prerequisite(s)
 
-![shield-docker][shield-docker]
-![shield-gitlab][shield-gitlab]
+<ShieldsGroup logos="docker,gitlab"/>
 
 ---
 
@@ -124,9 +123,6 @@ http://localhost:1980
 ---
 
 <TagLinks />
-
-[shield-docker]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square
-[shield-gitlab]: https://img.shields.io/badge/Gitlab-FC6D26?logo=gitlab&logoColor=white&style=flat-square
 
 [gitlab-pending-approval-1]: /images/gitlab-pending-approval-1.png
 [gitlab-pending-approval-2]: /images/gitlab-pending-approval-2.png

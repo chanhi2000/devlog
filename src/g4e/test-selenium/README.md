@@ -12,9 +12,4 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-![shield-selenium][shield-selenium]
-
----
-
-[shield-selenium]: https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square
-
+<ShieldsGroup logos="selenium"/>

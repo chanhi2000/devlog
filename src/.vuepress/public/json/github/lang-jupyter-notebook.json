@@ -354,5 +354,15 @@
     "desc": "Automatic Generation of Visualizations and Infographics using Large Language Models",
     "topics": ["visualization", "openai", "datavisualization", "cohere", "openai-api", "llm", "palm2"],
     "officialSite": "https://microsoft.github.io/lida"
+  }, {
+    "repo": "stanfordnlp/dspy",
+    "desc": "DSPy: The framework for programming with foundation models",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "guidance-ai/guidance",
+    "desc": "A guidance language for controlling large language models.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

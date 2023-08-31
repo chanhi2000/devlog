@@ -1293,5 +1293,25 @@
     "desc": "Open source observability and analytics for LLM applications",
     "topics": [],
     "officialSite": "https://langfuse.com"
+  }, {
+    "repo": "withfig/autocomplete",
+    "desc": "IDE-style autocomplete for your existing terminal & shell",
+    "topics": ["macos", "shell", "bash", "zsh", "cli", "fish", "autocomplete", "typescript", "terminal", "iterm2", "hacktoberfest", "fig"],
+    "officialSite": "https://fig.io"
+  }, {
+    "repo": "webstudio-is/webstudio",
+    "desc": "🖌 Webstudio Visual Builder",
+    "topics": [],
+    "officialSite": "https://webstudio.is"
+  }, {
+    "repo": "Roblox/creator-docs",
+    "desc": "Open Source Creator Documentation",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "vuejs/vetur",
+    "desc": "Vue tooling for VS Code.",
+    "topics": ["vue", "vscode", "visual-studio-code", "hacktoberfest", "vue-tooling"],
+    "officialSite": "https://vuejs.github.io/vetur"
   }
 ]

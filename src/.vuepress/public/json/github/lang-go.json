@@ -709,5 +709,20 @@
     "desc": "A simple MIDI drum machine scripting language",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "topics": ["cloud", "graph", "terraform", "cloud-management", "infrastructure-as-code"],
+    "officialSite": "https://www.terraform.io"
+  }, {
+    "repo": "klauspost/compress",
+    "desc": "Optimized Go Compression Packages",
+    "topics": ["go", "golang", "compression", "gzip", "zip", "decompression", "snappy", "zstd", "deflate", "zstandard"],
+    "officialSite": ""
+  }, {
+    "repo": "IceWhaleTech/CasaOS",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "topics": ["docker", "golang", "home-automation", "iot", "vuejs", "self-hosted", "raspberry", "home-server", "home-cloud", "casaos"],
+    "officialSite": "https://casaos.io"
   }
 ]

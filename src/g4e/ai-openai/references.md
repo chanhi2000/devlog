@@ -48,6 +48,7 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 ## Medium
 
 - [How to Use the Most Essential ChatGPT Plugins](https://pub.towardsai.net/the-most-essential-chatgpt-plugins-1fbf0f40d6e5)
+- [Fine-tuning GPT-3.5-Turbo for Natural Language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
 
 ---
 

@@ -17,4 +17,12 @@ tags: ["powershell", "windows", "windows-terminal", "multiline"]
 
 - [Remcos RAT - Malware Analysis Lab](https://www.jaiminton.com/reverse-engineering/remcos)
 
+---
+
+## JT's blog
+
+- [The case for Nushell](https://www.jntrnr.com/case-for-nushell)
+
+---
+
 <TagLinks />

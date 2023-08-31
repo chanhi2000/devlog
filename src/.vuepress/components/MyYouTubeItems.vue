@@ -19,11 +19,11 @@
     <figcaption>{{ channel.name }}</figcaption>
   </figure>
 
-  <details v-if="hasPlaylists"
-    v-for="p in playlists"
+  <details v-show="hasPlaylists"
+    v-for="(p, i) in playlists" :key="i"
     class="hint-container details">
     <summary>{{ p.title }}</summary>
-    <YouTubeItem v-for="v in p.videos"
+    <YouTubeItem v-for="(v, vi) in p.videos" :key="vi"
       v-bind:channelName="channel.name"
       v-bind:channelId="channel.id" 
       v-bind:id="v.id"
@@ -33,7 +33,7 @@
   <details v-if="hasVideos"
     class="hint-container details">
     <summary>목록 (총 {{ videos.length  }} 개)</summary>
-    <YouTubeItem v-for="v in videos"
+    <YouTubeItem v-for="(v, vi) in videos" :key="vi"
       v-bind:channelName="channel.name"
       v-bind:channelId="channel.id" 
       v-bind:id="v.id"

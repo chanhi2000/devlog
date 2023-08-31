@@ -399,5 +399,10 @@
     "desc": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "FrenkelS/Doom8088",
+    "desc": "Doom for 16-bit DOS computers",
+    "topics": ["doom", "ms-dos"],
+    "officialSite": ""
   }
 ]

@@ -2139,11 +2139,6 @@
     "topics": ["bbs", "drawing", "paint", "image", "terminal", "irc", "pixel-art", "textual", "tui", "image-editor", "ascii-art", "ansi-art", "mirc", "mspaint", "pixel-editor", "text-art", "ansi-editor", "artscene"],
     "officialSite": ""
   }, {
-    "repo": "continuedev/continue",
-    "desc": "⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE",
-    "topics": ["open-source", "vscode", "autopilot", "developer-tools", "software-development", "chatgpt"],
-    "officialSite": "https://continue.dev/docs"
-  }, {
     "repo": "microsoft/torchscale",
     "desc": "Foundation Architecture for (M)LLMs",
     "topics": ["machine-learning", "natural-language-processing", "translation", "computer-vision", "transformer", "speech-processing", "multimodal", "pretrained-language-model"],
@@ -2503,5 +2498,20 @@
     "desc": "CVE-2023-38831 winrar exploit generator",
     "topics": ["exploit", "cve", "0day"],
     "officialSite": ""
+  }, {
+    "repo": "eschluntz/compress",
+    "desc": "Text compression for generating keyboard expansions",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "521xueweihan/HelloGitHub",
+    "desc": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "topics": ["github", "python", "awesome", "hellogithub"],
+    "officialSite": "https://hellogithub.com"
+  }, {
+    "repo": "facebookresearch/nougat",
+    "desc": "Implementation of Nougat Neural Optical Understanding for Academic Documents",
+    "topics": [],
+    "officialSite": "https://facebookresearch.github.io/nougat"
   }
 ]

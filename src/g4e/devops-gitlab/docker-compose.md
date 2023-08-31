@@ -15,8 +15,7 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 
 ## 구성요소
 
-![shield-gitlab][shield-gitlab]
-![shield-docker][shield-docker]
+<ShieldsGroup logos="gitlab,docker"/>
 
 ---
 
@@ -136,6 +135,3 @@ Configuration (with the authentication token) was saved in "/etc/gitlab-runner/c
 ---
 
 <TagLinks />
-
-[shield-gitlab]: https://img.shields.io/badge/Gitlab-FC6D26?logo=gitlab&logoColor=white&style=flat-square
-[shield-docker]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square

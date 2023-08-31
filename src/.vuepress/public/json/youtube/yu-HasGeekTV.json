@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "HasGeekTV",
+    "name": "Hasgeek TV",
+    "profile": "https://yt3.googleusercontent.com/H4FhqxBqpc9VxYfWJzhANH-f6qOZwN-bSCijKPrT9BZ4Wqn5bq_x32SWac6w3KgiqwrnPCPH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/q9Vx3-YvO8ZzLsHWeuacnsotv9BbzbFunyVBN87yGEfhdSNLhCkEcyl2G4vyEiR7K8iZEad3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sPekwHssFGs", "title": "Concurrency in Elixir" }
+  ]
+}

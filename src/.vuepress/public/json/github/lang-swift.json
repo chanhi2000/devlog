@@ -289,5 +289,10 @@
     "desc": "A SwiftPM command plugin to convert SwiftUI code to Observable",
     "topics": ["swift", "ios", "xcode", "tooling", "xcode-plugin", "ios-swift", "swiftpm", "swift-package", "swiftui", "swift-packages", "command-plugin"],
     "officialSite": "https://lickability.com/blog/introducing-observableconverter"
+  }, {
+    "repo": "utmapp/UTM",
+    "desc": "Virtual machines for iOS and macOS",
+    "topics": ["macos", "ios", "apple", "vm", "emulation", "jailbreak", "qemu", "virtual-machines", "utm"],
+    "officialSite": "https://getutm.app"
   }
 ]

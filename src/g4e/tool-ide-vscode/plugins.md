@@ -62,6 +62,7 @@ tags: ["vscode", "visual-studio-code", "ide", "plugin", "vscode-plugin", "cli", 
 | [![yzhang.markdown-all-in-one](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.5.1/1679819344347/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-markdown-all-in-one] | `yzhang.markdown-all-in-one` | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more) |
 | [![mgmcdermott.vscode-language-babel](https://mgmcdermott.gallerycdn.vsassets.io/extensions/mgmcdermott/vscode-language-babel/0.0.39/1683165166128/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-vscode-language-babel] | `mgmcdermott.vscode-language-babel` | VSCode syntax highlighting for today's JavaScript |
 | [![chrmarti.regex](https://chrmarti.gallerycdn.vsassets.io/extensions/chrmarti/regex/0.4.0/1614893264407/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-regex-previewer] | `chrmarti.regex` | Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code. |
+| [![octref.vetur](https://octref.gallerycdn.vsassets.io/extensions/octref/vetur/0.37.3/1677130066715/Microsoft.VisualStudio.Services.Icons.Default =100x)][link-vetur] | `octref.vetur` | Vue tooling for VS Code |
 
 ### ⚙️To Install
 
@@ -113,6 +114,7 @@ code --install-extension sidthesloth.html5-boilerplate # HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one # Markdown All in One
 code --install-extension mgmcdermott.vscode-language-babel # Babel JavaScript
 code --install-extension chrmarti.regex # Regex Previewer
+code --install-extension octref.vetur # Vuter
 ```
 
 @tab cmd
@@ -161,6 +163,7 @@ code --install-extension sidthesloth.html5-boilerplate && REM HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one && REM Markdown All in One
 code --install-extension mgmcdermott.vscode-language-babel && REM Babel 
 code --install-extension chrmarti.regex && REM Regex Previewer
+code --install-extension octref.vetur && REM Vuter
 ```
 
 :::
@@ -211,6 +214,8 @@ code --install-extension chrmarti.regex && REM Regex Previewer
 }
 ```
 
+---
+
 <TagLinks />
 
 [link-auto-rename-tag]: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
@@ -259,3 +264,4 @@ code --install-extension chrmarti.regex && REM Regex Previewer
 [link-markdown-all-in-one]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 [link-vscode-language-babel]: https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
 [link-regex-previewer]: https://marketplace.visualstudio.com/items?itemName=chrmarti.regex
+[link-vetur]: https://marketplace.visualstudio.com/items?itemName=octref.vetur

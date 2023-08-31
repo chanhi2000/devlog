@@ -30,8 +30,7 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 
 ### 구성요소
 
-![shield-gitea][shield-gitea]
-![shield-jenkins][shield-jenkins]
+<ShieldsGroup logos="gitea,jenkins"/>
 
 ### `docker-compose.yml`
 
@@ -107,8 +106,6 @@ services:
       - ./nexus/data:/nexus-data
 ```
 
-
-[shield-gitea]: https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=flat-square
-[shield-jenkins]: https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square
+---
 
 <TagLinks />

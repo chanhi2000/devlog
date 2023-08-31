@@ -33,6 +33,8 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 - [Penetration Testing](https://securityonline.info)
 
+---
+
 ## HackingPassion
 
 - [XCTR Hacking Tools All in One Tool for Information Gathering](https://hackingpassion.com/xctr-hacking-tools-all-in-one-tool-for-information-gathering)
@@ -52,6 +54,7 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 - [홈 네트워크의 특정 인터넷 트래픽을 VPN을 통해 내보내기](https://www.clien.net/service/board/lecture/18056665)
 
 ---
+
 ## Cyber Security Hub
 
 - [Cyber Security Hub](https://cyber-security-hub.github.io)

@@ -1,7 +1,6 @@
 <!-- .vuepress/components/GithubTags -->
 <template>
-  <a v-for="i in Object.keys(tags)"
-    :key="i"
+  <a v-for="i in Object.keys(tags)" :key="i"
     v-bind:href="tags[i].href">
     
     <Badge

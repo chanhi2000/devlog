@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "relbis-labs",
+    "name": "Relbis Labs",
+    "profile": "https://yt3.googleusercontent.com/wJwC3vWYDnkHGC4D03sLRuKP4CRZm4KcTellGTKws822FbZZYLC70BDYPtoZVP0eDGp8fMRIKQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7gMm0iQNZGA", "title": "Apache Kafka vs message queue explained" }
+  ]
+}

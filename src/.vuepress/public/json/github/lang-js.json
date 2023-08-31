@@ -1429,5 +1429,20 @@
     "desc": "A minimal snake in assembly",
     "topics": ["assembly", "snake-game", "dosbox", "smallest"],
     "officialSite": "https://donno2048.github.io/snake/"
+  }, {
+    "repo": "obra/Youtube2Webpage",
+    "desc": "I learn much better from text than from video",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "sequelize/sequelize",
+    "desc": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.",
+    "topics": ["nodejs", "javascript", "mysql", "typescript", "sql", "orm", "sqlite", "postgresql", "sequelize", "mariadb", "transactions", "microsoft-sql-server", "mssql", "oracle-db", "snowflakedb", "feature-rich", "mssql-server", "db2-ibm-i"],
+    "officialSite": "https://sequelize.org"
+  }, {
+    "repo": "plasma-umass/scalene",
+    "desc": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals",
+    "topics": ["python", "cpu", "profiler", "gpu", "performance-analysis", "memory-allocation", "profiling", "cpu-profiling", "memory-consumption", "gpu-programming", "python-profilers", "scalene", "profiles-memory", "performance-cpu"],
+    "officialSite": ""
   }
 ]

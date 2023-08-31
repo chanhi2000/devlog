@@ -379,6 +379,11 @@
     "desc": "Quarkus: Supersonic Subatomic Java.",
     "topics": ["java", "kubernetes", "reactive", "cloud-native", "hacktoberfest"],
     "officialSite": "https://quarkus.io"
+  }, {
+    "repo": "openjdk/jdk",
+    "desc": "JDK main-line development https://openjdk.org/projects/jdk",
+    "topics": ["java", "jvm", "openjdk"],
+    "officialSite": ""
   }
 ]
 

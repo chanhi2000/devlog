@@ -42,7 +42,8 @@
     class="card-body">
     <DeLoadingvSpinner v-if="isLoading"/>
     <div v-else class="gh-list">
-      <div class="gh-item" v-for="item in items">
+      <div class="gh-item" 
+        v-for="(item, i) in items" :key="i">
         <div class="title">
           <h3 class="repo-name"><a v-bind:href="item.repo.link"><span class="text-normal"> {{ item.repo.owner }} /</span> {{ item.repo.name }} </a></h3>
         </div>

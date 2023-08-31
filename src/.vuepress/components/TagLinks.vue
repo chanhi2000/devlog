@@ -2,10 +2,9 @@
 <template>
   <div class="tags">
     <router-link
-      v-for="tag in $page.frontmatter.tags"
-      :key="tag"
-      :to="{ path: `/tag/#${tag}` }"
-    >
+      v-for="tag in $page.frontmatter.tags" :key="tag"
+        :to="{ path: `/tag/#${tag}` }"
+      >
       #{{ tag }}
     </router-link>
 

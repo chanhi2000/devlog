@@ -133,4 +133,12 @@ tags: ["bash", "linux", "macos", "terminal", "sed", "sh"]
 
 ---
 
+## Engineer Man
+
+<MyYouTubeItems jsonName="yu-EngineerMan" />
+
+<!-- Engineer Man -->
+
+---
+
 <TagLinks />

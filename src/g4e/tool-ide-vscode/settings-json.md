@@ -41,6 +41,8 @@ copy and paste below
 	"[json]": {
 		"editor.tabSize": 2
 	},
+	"vetur.format.options.tabSize": 2,
+	"vetur.format.options.useTabs": false,
 
     "kotlin.languageServer.enabled": false,
     "kotlin.debugAdapter.enabled": false,

@@ -10,8 +10,4 @@ description: 🦦Go
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
----
-
-![shield-go][shield-go]
-
-[shield-go]: https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square
+<ShieldsGroup logos="go"/>

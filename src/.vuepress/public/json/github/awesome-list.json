@@ -639,5 +639,10 @@
     "desc": "📄 Awesome CV is LaTeX template for your outstanding job application",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "edarchimbaud/awesome-systematic-trading",
+    "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "topics": ["finance", "awesome", "book", "paper", "trading-bot", "algotrading", "quant", "awesome-list", "trading-strategies", "trading-algorithms", "alpha", "quantitative-finance", "futures", "algorithmic-trading", "quantitative-trading", "futures-historical-data", "arbitrage-bot", "futuresmarkets", "futures-market"],
+    "officialSite": "https://edarchimbaud.com"
   }
 ]
