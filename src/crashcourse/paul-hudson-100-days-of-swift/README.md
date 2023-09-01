@@ -164,11 +164,11 @@ The next three projects we’ll be making are markedly different from the previo
 - [Day 48][day-48] – Project 12, part one
 - [Day 49][day-49] – Project 12, part two
  
-### Days 50-51: Consolidation V
+### ✅Days 50-51: Consolidation V
 
 Now that you have conquered `UICollectionViewController` and `Codable`, it’s time to pause for a day and review what you learned – while also tackling a fresh challenge.
 
-- [✅Day 50][day-50] – Milestone: Projects 10-12
+- [Day 50][day-50] – Milestone: Projects 10-12
 - [Day 51][day-51] – Expanding your horizons
  
 ### Days 52-58: Images and animation
@@ -340,7 +340,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-48]: 48.md
 [day-49]: 49.md
 [day-50]: 50.md
-[day-51]: https://www.hackingwithswift.com/100/51
+[day-51]: 51.md
 [day-52]: https://www.hackingwithswift.com/100/52
 [day-53]: https://www.hackingwithswift.com/100/53
 [day-54]: https://www.hackingwithswift.com/100/54

@@ -175,5 +175,13 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 
 ---
 
+## 디노자유아빠 - SQL쿼리, 엑셀, 데이터 분석
+
+<MyYouTubeItems jsonName="yu--sql2949" />
+
+<!-- 디노자유아빠 - SQL쿼리, 엑셀, 데이터 분석 -->
+
+---
+
 <TagLinks />
 

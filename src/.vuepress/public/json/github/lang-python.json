@@ -731,7 +731,7 @@
   }, {
     "repo": "mlc-ai/web-llm",
     "desc": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
-    "topics": [],
+    "topics": ["deep-learning", "language-model", "webgpu", "tvm", "webml", "llm", "chatgpt"],
     "officialSite": "https://mlc.ai/web-llm"
   }, {
     "repo": "pengzhile/pandora",
@@ -2520,9 +2520,9 @@
     "officialSite": "http://openinterpreter.com"
   }, {
     "repo": "OpenBMB/ChatDev",
-    "desc": "Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)",
-    "topics": [],
-    "officialSite": ""
+    "desc": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "d2l-ai/d2l-zh",
     "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
@@ -2728,5 +2728,25 @@
     "desc": "InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.",
     "officialSite": "https://internlm.org",
     "topics": ["chatbot", "gpt", "language-model"]
+  }, {
+    "repo": "dvlab-research/LongLoRA",
+    "desc": "Efficient long-context fine-tuning, supervised fine-tuning, LongQA dataset.",
+    "officialSite": "http://arxiv.org/abs/2309.12307",
+    "topics": ["fine-tuning-llm", "large-language-models", "llm", "long-context", "lora"]
+  }, {
+    "repo": "mohamed-chs/chatgpt-history-export-to-md",
+    "desc": "A Python script to effortlessly extract and format your ChatGPT conversations data export from JSON files to well-structured markdown files, with YAML metadata headers. And it all happens locally !",
+    "officialSite": "",
+    "topics": ["advanced-data-analysis", "bookmarklet", "chatgpt", "code-interpreter", "conversations", "export", "history", "json", "markdown", "obsidian-md", "openai", "python", "zip"]
+  }, {
+    "repo": "rberenguel/PiWrite",
+    "desc": "Use your Kindle Paperwhite as a writing device",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "EscherMoore/DitchTheBell",
+    "desc": "A highly configurable Linux-based desktop notifier for RSS/Atom feeds.",
+    "officialSite": "https://pypi.org/project/dtbell/",
+    "topics": []
   }
 ]

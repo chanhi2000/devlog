@@ -419,6 +419,11 @@
     "desc": "Language-Natural Persistence Layer for Java",
     "officialSite": "http://permazen.io",
     "topics": ["database", "java", "key-value", "orm-framework", "persistence", "persistence-layer", "persistence-programming", "raft", "schema-management", "serialization"]
+  }, {
+    "repo": "byronka/minum",
+    "desc": "A minimal Java web framework built from scratch",
+    "officialSite": "",
+    "topics": ["educational-project", "example-project", "experimental", "micro-framework", "tdd"]
   }
 ]
 

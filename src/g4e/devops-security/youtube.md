@@ -107,4 +107,12 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 
 ---
 
+## Payette Forward
+
+<MyYouTubeItems jsonName="yu-PayetteForward" />
+
+<!-- Payette Forward -->
+
+---
+
 <TagLinks />

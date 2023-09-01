@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "CraftComputing",
+    "name": "Craft Computing",
+    "profile": "https://yt3.googleusercontent.com/0SQ2R06KTSdeNBuuMg9NJ_VYVEUZq8b10wYRZhLl8UWmQ14HhNk90HH9_-LM_PK9zQ4Aeq9U0WQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RZka3yXNBfKb1dmfZp0sCMdfwiMTGoVnWRVm82F3uKI1y1jF4TXyCvVR5twHvgL7g_aziwR0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MRb7sHAQJb4", "title": "16TB SSD NAS For Under $1200!" },
+    { "id": "ARDjb2UV3Nw", "title": "Install Windows like a PRO! Windows Deployment Services Tutorial" }
+  ]
+}

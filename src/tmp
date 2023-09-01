@@ -1,13 +1,4 @@
-{ "channelId": "ThisDoesNotCompute", "channelName": "This Does Not Compute", "id": "vEm-f2MTjcY", "title": "PowerTower Pro: The Mac Clone That Almost Killed Apple" },
-{ "channelId": "AmitNepal", "channelName": "Amit Nepal", "id": "rCr3-YlL5S8", "title": "Basics of Apache Webserver" },
-{ "channelId": "DammitJeff", "channelName": "Dammit Jeff", "id": "Kh0v1-KBd_k", "title": "I Was Wrong. THIS is the LAST Upgradable MacBook Pro" },
-{ "channelId": "-sql2949", "channelName": "디노자유아빠 - SQL쿼리, 엑셀, 데이터 분석", "id": "ZsYnTSSuSiw", "title": "SQL 초보자가 꼭  알아야 하는 10가지 문법. 무료 강의. 편안하게 들어보세요" },
-{ "channelId": "PowerCertAnimatedVideos", "channelName": "PowerCert Animated Videos", "id": "eyNBf1sqdBQ", "title": "Virtual Machines vs Containers" },
-{ "channelId": "PayetteForward", "channelName": "Payette Forward", "id": "jgNoyfryIFI", "title": "19 Hacks To Clear System Data On iPhone" },
-{ "channelId": "minteger", "channelName": "민티저", "id": "JDbiXrgnkQk", "title": "CPU with its price plummeted by -98%" },
 { "channelId": "trifork9941", "channelName": "Trifork", "id": "lnUJzFut7LM", "title": "Trifork Tech Update: The Future of Cyber Protection for Mobile Apps" },
-{ "channelId": "CraftComputing", "channelName": "Craft Computing", "id": "MRb7sHAQJb4", "title": "16TB SSD NAS For Under $1200!" },
-{ "channelId": "CraftComputing", "channelName": "Craft Computing", "id": "ARDjb2UV3Nw", "title": "Install Windows like a PRO! Windows Deployment Services Tutorial" }
 { "channelId": "bukae", "channelName": "통구니부캐", "id": "OuJAHSYnVRU", "title": "SSD 수명 늘리기, 성능 향상, 최적화 프로 그램 Abelssoft SSD Fresh Plus 2022 평생 라이선스 [12월 8일 수정]" },
 { "channelId": "posein_linux", "channelName": "SungJae Jung", "id": "V8kFL7EBpO8", "title": "Apache HTTP Server 소스 설치" },
 { "channelId": "TheCoderCoder", "channelName": "Coder Coder", "id": "65GVcdESj3s", "title": "Building a portfolio website with HTML & CSS | Part 1" },
@@ -466,7 +457,6 @@
 
 { "channelId": "yk_roadking", "channelName": "도로왕 김지훈 변호사", "id": "d8LWW8a5QB4", "title": "스쿨존에서 자전거 탄 어린이랑 사고 나면 민식이법이 적용될까요? | 도로왕 김지훈 변호사" },
 // 2023.09.19
-{ "channelId": "user-st5nc9ie7x", "channelName": "슬기로운코딩생활", "id": "UQX5j_fpGXU", "title": "안드로이드 스튜디오 - 전국 캠핑장 위치를 구글지도 위에 클러스터링과 히트맵으로 표시하기" },
 
 https://www.kdnuggets.com/wp-content/uploads/Machine_Learning_with_ChatGPT_Cheat_Sheet_KDnuggets.png
 https://itnext.io/sql-performance-tuning-72e9ebf67549
@@ -611,3 +601,4 @@ https://v0.dev
 https://webcode.tools
 https://www.tamasoft.co.jp/en/general-info/unicode.html
 https://brunch.co.kr/@joypinkgom/99
+https://www.neowin.net/news/microsoft-edge-finally-gets-epub-support-back

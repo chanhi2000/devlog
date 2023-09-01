@@ -46,6 +46,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Structure and Interpretation of Computer Programs — JavaScript Edition](https://sourceacademy.org/sicpjs/index)
 - [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide)
 - [Deno by example](https://examples.deno.land)
+- [ControlChallenges](http://janismac.github.io/ControlChallenges)
 
 ---
 
@@ -283,6 +284,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [I Bet You Don’t Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)
 - [Some Simple and Amazing JavaScript Tricks](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
 - [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
+- [Why did Machbase Neo switch its front-end framework from Vue.js to React?](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785)
 
 ---
 

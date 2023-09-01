@@ -43,4 +43,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Adriano Caloiaro
+
+- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology)
+
+---
+
 <TagLinks />

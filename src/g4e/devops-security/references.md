@@ -79,6 +79,12 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 ---
 
+## kciter
+
+- [웹 개발을 위해 꼭 알아야하는 보안 공격](https://kciter.so/posts/basic-web-hacking)
+
+---
+
 ## Misc
 
 - [0xNews - GRUB2 부트로더 BootLoader 에서 취약점 발견](https://project-openlab.blogspot.com/2020/07/0xnews-grub2-bootloader.html)

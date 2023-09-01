@@ -20,10 +20,10 @@
     "officialSite": "https://immich.app",
     "topics": ["nodejs", "photos", "svelte", "photo-gallery", "mobile-app", "self-hosted", "videos", "google-photos", "flutter", "backup-tool", "nestjs", "sveltekit", "google-photos-alternative"]
   }, {
-    "repo": "revanced/revanced-manager",
+    "repo": "ReVanced/revanced-manager",
     "desc": "💊 Application to use ReVanced on Android",
     "officialSite": "https://revanced.app",
-    "topics": ["android", "modding", "manager", "flutter", "patching", "flutter-apps", "revanced"]
+    "topics": ["android", "flutter", "flutter-apps", "manager", "modding", "patching", "revanced"]
   }, {
     "repo": "bdlukaa/fluent_ui",
     "desc": "Implements Microsoft's Fluent Design System in Flutter.",

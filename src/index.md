@@ -73,6 +73,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
       <li><a target="_blank" href="https://zsync.xyz">ZSync</a></li>
       <li><a target="_blank" href="https://hiddentools-eight.vercel.app">HiddenTools</a></li>
+      <li><a target="_blank" href="https://devtoolstips.org">🧰DevTools Tips</a></li>
       <li><a target="_blank" href="https://keyframes.app">more tools for devs</a></li>
       <li><a target="_blank" href="https://alistapart.com">a list apart</a></li>
       <li><a target="_blank" href="https://app.eraser.io">♟️The Whiteboard for Engineering Teams</a></li>

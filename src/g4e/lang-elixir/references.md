@@ -25,4 +25,10 @@ tags: ["elixir", "exs"]
 
 ---
 
+## UNDERJORD
+
+- [UNPACKING ELIXIR: RESILIENCE](https://underjord.io/unpacking-elixir-resilience.html)
+
+---
+
 <TagLinks />

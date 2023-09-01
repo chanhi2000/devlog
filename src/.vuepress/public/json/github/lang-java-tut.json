@@ -39,6 +39,11 @@
     "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "officialSite": "https://javaguide.cn",
     "topics": ["algorithms", "interview", "java", "jvm", "mysql", "redis", "spring", "system", "system-design", "zookeeper"]
+  }, {
+    "repo": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+    "officialSite": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+    "topics": ["algorithms", "competitive-programming", "data-structures", "faang-interview", "faang-preparation", "faang-questions", "google-interview", "interview-preparation", "java", "leetcode", "leetcode-java", "leetcode-solutions", "math"]
   }
 ]
 

@@ -459,5 +459,10 @@
     "desc": "Geometry library for C - Fast point-in-polygon",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "qmk/qmk_firmware",
+    "desc": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "officialSite": "https://qmk.fm",
+    "topics": ["atmel-avr", "c", "c-plus-plus", "clueboard", "ergodox-ez", "hacktoberfest", "keyboard-firmware", "keyboard-support", "olkb", "qmk"]
   }
 ]

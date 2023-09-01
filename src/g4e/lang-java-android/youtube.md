@@ -301,4 +301,12 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## 슬기로운코딩생활
+
+<MyYouTubeItems jsonName="yu-user-st5nc9ie7x" />
+
+<!-- 슬기로운코딩생활 -->
+
+---
+
 <TagLinks />

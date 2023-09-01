@@ -1438,5 +1438,15 @@
     "desc": "Atomicals CLI and Javascript Library",
     "officialSite": "https://atomicals.xyz",
     "topics": []
+  }, {
+    "repo": "btpf/Alexandria",
+    "desc": "A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "ananthakumaran/paisa",
+    "desc": "Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi",
+    "officialSite": "https://paisa.fyi",
+    "topics": ["ledger", "ledger-cli", "personal-finance", "plaintext-accounting", "visualization"]
   }
 ]

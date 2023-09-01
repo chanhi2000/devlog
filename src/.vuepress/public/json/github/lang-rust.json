@@ -669,8 +669,16 @@
     "desc": "An operating system designed for hosting containers",
     "officialSite": "https://bottlerocket.dev",
     "topics": ["containers", "linux", "operating-system", "rust"]
+  }, {
+    "repo": "Ruddle/Fomos",
+    "desc": "Experimental OS, built with rust",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jaytaph/gosub-browser",
+    "desc": "A html5 tokenizer / parser that hopefully grow up to be a browser",
+    "officialSite": "https://gosub.io",
+    "topics": ["browser", "html5", "rust"]
   }
-  
-  
 ]
 

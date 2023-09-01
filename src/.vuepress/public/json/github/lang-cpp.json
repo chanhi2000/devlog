@@ -664,6 +664,16 @@
     "desc": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
     "officialSite": "",
     "topics": ["codellama", "cuda-kernels", "deepspeed", "fastertransformer", "internlm", "llama", "llama2", "llm", "llm-inference", "turbomind"]
-  }
+  }, {
+    "repo": "tomscii/umon",
+    "desc": "minimal host monitoring",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "google/oboe",
+    "desc": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
+    "officialSite": "",
+    "topics": ["android", "audio", "oboe"]
+  }  
 ]
 

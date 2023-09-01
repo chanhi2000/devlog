@@ -54,5 +54,10 @@
     "desc": "Deploy web apps anywhere.",
     "officialSite": "https://kamal-deploy.org",
     "topics": []
+  }, {
+    "repo": "natalie-lang/natalie",
+    "desc": "a work-in-progress Ruby compiler, written in Ruby and C++",
+    "officialSite": "https://natalie-lang.org",
+    "topics": ["compiler", "cpp", "language", "ruby"]
   }
 ]
