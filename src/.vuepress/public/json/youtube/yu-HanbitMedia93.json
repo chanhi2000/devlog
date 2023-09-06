@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/I0nt1JaT0onKvAVus9FyRpqFy_OJNX9UWYRoFVOvmvhbC_2p6KIAmsm5Hy9gIvm26aYmPd3Z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iWltN0J4tWQ", "title": "[코딩 뇌를 깨우는 파이썬 강의] 03강. 코랩과 깃허브 소개 | 박해선 | 한빛미디어" },
+    { "id": "XHoViCZ6EVU", "title": "시간 관리 전문가의 '노션(Notion)' 활용법 l 「노션 라이프」 박현정 저자" },
     { "id": "FQqp2IAfjVY", "title": "[Windows Server 기초 강의] 69강. 18.2 감사 정책과 장애 조치 클러스터링" }, 
     { "id": "m0taFvMLno8", "title": "[Windows Server 기초 강의] 68강. 18.1 BitLocker 드라이브 암호화" }, 
     { "id": "mo1vy5nN-tM", "title": "[Windows Server 기초 강의] 70강. 19.1 Hyper-V 가상화 기술" }, 

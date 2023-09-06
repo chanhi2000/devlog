@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "TutorialsPoint_",
+    "name": "Tutorialspoint",
+    "profile": "https://yt3.googleusercontent.com/Kecf40C3ojj8ZlvZIw_Z2EPXZHvHYsejlCo9bYfBXGcAEGU_Eio0ukMtCvjyHRr56do77dA4AA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vztRrDSY7dAO4R7TXBmiw3hthRSAafjldduvA3jXHm-Gqku9c6D_Jk9AhuzaBlZauz_9SMWbiQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6amaHnMbNyA", "title": "Oracle SQL | SQL for Beginners | Oracle Database ( DBMS, RDBMS) | Tutorialspoint" },
+    { "id": "iQ0auH_s7EQ", "title": "Excel IF function trick ( In 20 seconds)| Pass/Fail #shorts #exceltricks" },
+    { "id": "BHoXntWFerI", "title": "Flash Fill in Excel | Don't add full name manually | #shorts #exceltips" },
+    { "id": "2ZR7aimVMTU", "title": "How to use barcodes in excel? ( In 2 steps) | Barcode shortcut trick #shorts #exceltricks" },
+    { "id": "l5UFTMXOuiU", "title": "How to AutoFit rows and columns in Excel? #shorts #excel" }
+  ]
+}

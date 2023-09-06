@@ -95,6 +95,14 @@ tags: ["dart", "flutter"]
 
 ---
 
+## Flutter Coding
+
+<MyYouTubeItems jsonName="yu-FlutterC0ding" />
+
+<!-- Flutter Coding -->
+
+---
+
 ## Flutter
 
 <MyYouTubeItems jsonName="yu-flutterdev" />

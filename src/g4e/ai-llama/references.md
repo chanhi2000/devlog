@@ -39,4 +39,10 @@ tags: ["llama" , "llm"]
 
 ---
 
+## fast.ai
+
+- [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps)
+
+---
+
 <TagLinks/>

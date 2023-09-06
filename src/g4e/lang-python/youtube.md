@@ -163,4 +163,12 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## Coding Is Fun
+
+<MyYouTubeItems jsonName="yu-CodingIsFun" />
+
+<!-- Coding Is Fun -->
+
+---
+
 <TagLinks />

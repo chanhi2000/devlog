@@ -1313,5 +1313,30 @@
     "desc": "Vue tooling for VS Code.",
     "topics": ["vue", "vscode", "visual-studio-code", "hacktoberfest", "vue-tooling"],
     "officialSite": "https://vuejs.github.io/vetur"
+  }, {
+    "repo": "withastro/astro",
+    "desc": "The all-in-one web framework designed for speed. ⭐️ Star to support our work!",
+    "topics": ["blog", "static-site-generator", "components", "node", "browser", "server", "universal", "static", "astro", "hybrid", "islands"],
+    "officialSite": "https://astro.build"
+  }, {
+    "repo": "measuredco/puck",
+    "desc": "The self-hosted drag and drop editor for React.",
+    "topics": [],
+    "officialSite": "https://puck-editor-demo.vercel.app/edit"
+  }, {
+    "repo": "exogee-technology/graphweaver",
+    "desc": "Turn multiple data sources into a single GraphQL API",
+    "topics": [],
+    "officialSite": "https://graphweaver.com"
+  }, {
+    "repo": "partykit/partykit/",
+    "desc": "Everything's better with friends.",
+    "topics": ["games", "real-time", "multiplayer", "websockets", "collaboration", "yjs", "edge-computing", "backends", "crdts"],
+    "officialSite": "https://partykit.io"
+  }, {
+    "repo": "langfuse/langfuse",
+    "desc": "Open source observability and analytics for LLM applications",
+    "topics": [],
+    "officialSite": "https://langfuse.com"
   }
 ]

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/UuEyyRPS2FgK0jnnPEiI7SPPQeRqIPXjmUKbVYOZNfvVItK6YleY86RcfHXjPB7pQEhbN4ijRQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lV5iW52JSFA", "title": "Create better issues in GitHub Mobile!" },
     { "id": "weEVLt9cP8I", "title": "Make React Faster with Million.js - Open Source Friday" },
     { "id": "H2Xw9rzRxFs", "title": "The Download: Python Support in Excel, Dependabot Updates, New Coding Fonts and more" },
     { "id": "10J40Euwu7I", "title": "Introduction to Deployment Protection Rules" },

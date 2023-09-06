@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "PlanetScale",
+    "name": "PlanetScale",
+    "profile": "https://yt3.googleusercontent.com/iCbshZXfn5IuvfQEL4crHCMUc8rECfxS3YN63MBZ8x3e_lGlJIUljG5rn2RabfGmGZrdcAYp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7IP22BjAJ9JwfnWeXjfr9Ep5D087UD0lXDdehEUjcctUvZK7ezBZVl1fGZmNyc1P0qLmODKfcw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H6juZ8c_Nu8", "title": "Stop using `COUNT(id)` to count rows" }
+  ]
+}

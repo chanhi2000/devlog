@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eX-y0IEHJjM", "title": "Full Guide to Manual Dependency Injection + Removing Dagger" },
+    { "id": "0r3taYOdCp4", "title": "3 Things Nobody Tells You When You Start Coding" },
     { "id": "NYWTQZODr74", "title": "Selection UI Components (Checkboxes, Switches, Radio Buttons) - UX With Material3" },
     { "id": "VxgWUdOKgtI", "title": "Full Guide to Bottom Sheets - UX With Material3" },
     { "id": "VCOt8jHEwME", "title": "My Testing Course is LIVE! (LIMITED Launch Offer!)" },

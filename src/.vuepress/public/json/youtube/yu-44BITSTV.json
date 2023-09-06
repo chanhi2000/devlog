@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/3nyxB4hDoEsxIusJ_PO-levqaXEzNhT3jHEh21gs2oA1u5lHsz-W-Lj99dN-MW_EnKA_l0LzXb8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WDbP4N92zYE", "title": "RetroTech 만든 썰, 집에서만 현대카드 앱이 먹통?!" },
+    { "id": "NQ4do3t6GhU", "title": "오픈소스 진영을 배신한 테라폼?" },
     { "id": "dxMAt12qoFE", "title": "Twitter API 제한, 애플페이, GitHub 새기능, 머신러닝" },
     { "id": "iVU2DCeJCt8", "title": "AI 이야기 w/ 래블업 신정규 CEO" },
     { "id": "eYZXA3kkENE", "title": "tailscale 활용, CentOS와 오픈소스, Threads 이야기" },

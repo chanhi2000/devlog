@@ -1784,5 +1784,527 @@ PS> ./open-facebook-website
 ---
 
 
+## <FontIcon icon="iconfont icon-file"/>`open-file-explorer.ps1`	
+
+```card
+title: open-file-explorer.ps1
+desc: Opens the File Explorer.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-file-explorer.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+This PowerShell script launches the File Explorer.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-file-explorer.ps1 [[-Path] <String>] [<CommonParameters>]
+
+-Path <String>
+    Specifies the path to the folder to display
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-file-explorer
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Launches the File Explorer
+.DESCRIPTION
+	This PowerShell script launches the File Explorer.
+.EXAMPLE
+	PS> ./open-file-explorer
+.PARAMETER Path
+	Specifies the path to the folder to display 
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$Path = "")
+
+try {
+	if ("$Path" -ne "") {
+		start-process explorer.exe "$Path"
+	} else {
+		start-process explorer.exe
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+
+
+## <FontIcon icon="iconfont icon-file"/>`open-firefox.ps1`	
+
+```card
+title: open-firefox.ps1
+desc: Launches the Firefox browser.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-firefox.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Mozilla Firefox Web browser.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-firefox.ps1 [[-URL] <String>] [<CommonParameters>]
+
+-URL <String>
+    Specifies an URL
+    
+    Required?                    false
+    Position?                    1
+    Default value                http://www.fleschutz.de
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-firefox
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Launches the Firefox browser
+.DESCRIPTION
+	This PowerShell script launches the Mozilla Firefox Web browser.
+.EXAMPLE
+	PS> ./open-firefox
+.PARAMETER URL
+	Specifies an URL
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$URL = "http://www.fleschutz.de")
+
+try {
+	$App = Get-AppxPackage -Name Mozilla.FireFox
+	if ($App.Status -eq "Ok") {
+		# starting Firefox UWP app:
+		explorer.exe shell:appsFolder\$($App.PackageFamilyName)!FIREFOX
+	} else {
+		# starting Firefox program:
+		start-process firefox.exe "$URL"
+	}
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-fritz-box.ps1`	
+
+```card
+title: open-fritz-box.ps1
+desc: Opens FRITZ!Box's web interface.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-fritz-box.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Web browser with FRITZ!Box's Web interface.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+/home/markus/Repos/PowerShell/Scripts/open-fritz-box.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-fritz-box
+# 
+```
+
+@tab Script Content
+
+```powershell
+```
+
+::: 
+
+---
+
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-github.ps1`	
+
+```card
+title: open-github.ps1
+desc: Opens GitHub's website.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-github.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Web browser with the GitHub website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+/home/markus/Repos/PowerShell/Scripts/open-github.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-github
+#
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
+
+## <FontIcon icon="iconfont icon-file"/>`open-google-contacts.ps1`	
+
+```card
+title: open-google-contacts.ps1
+desc: Opens Google Contacts.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-contacts.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google Contacts website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-google-contacts.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-contacts
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google Contacts
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google Contacts website.
+.EXAMPLE
+	PS> ./open-google-contacts
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://contacts.google.com"
+exit 0 # success
+```
+
+:::
+
+---
+
+
+## <FontIcon icon="iconfont icon-file"/>`open-google-earth.ps1`	
+
+```card
+title: open-google-earth.ps1
+desc: Opens Google Earth.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-earth.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google Earth website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-google-earth.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-earth
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google Earth
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google Earth website.
+.EXAMPLE
+	PS> ./open-google-earth
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://earth.google.com/web/"
+exit 0 # success
+```
+
+:::
+
+---
+
+
+## <FontIcon icon="iconfont icon-file"/>`open-google-mail.ps1`	
+
+```card
+title: open-google-mail.ps1
+desc: Opens Google Mail.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-mail.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google Mail website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-google-mail.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-mail
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google Mail
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google Mail website.
+.EXAMPLE
+	PS> ./open-google-mail
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://mail.google.com"
+exit 0 # success
+```
+
+:::
+
+---
+
+
+## <FontIcon icon="iconfont icon-file"/>`open-google-maps.ps1`	
+
+```card
+title: open-google-maps.ps1
+desc: Opens Google Maps.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-maps.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google Maps website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-google-maps.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-maps
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google Maps
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google Maps website.
+.EXAMPLE
+	PS> ./open-google-maps
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://www.google.com/maps"
+exit 0 # success
+```
+
+:::
+
+---
+
+
+## <FontIcon icon="iconfont icon-file"/>`open-google-news.ps1`	
+
+```card
+title: open-google-news.ps1
+desc: Opens Google News.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-news.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google News website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-google-news.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-news
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google News
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google News website.
+.EXAMPLE
+	PS> ./open-google-news
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://news.google.com"
+exit 0 # success
+```
+
+:::
+
+---
+
+
 
 <TagLinks/>

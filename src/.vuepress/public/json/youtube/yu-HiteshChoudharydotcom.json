@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/xGlR3Vz-RYHgwRj50-VEdBksVyjyJhvzQUEVttMCd5iRVdw-OXdFkPBPswF2nG_13QR2UfXnCQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gZxMtmNHH7I", "title": "Terraform, fig and FreeAPI | Updates in Open Source" },    
     { "id": "pX0SBJF01EU", "title": "Learn Redux Toolkit in under 1 hour" },
     { "id": "YkxrbxoqHDw", "title": "What is CSR SSR SSG and ISR" }, 
     { "id": "cv-6bAeYsOY", "title": "Pieces: An Essential Tool for the Modern Developer's Toolkit" }, 

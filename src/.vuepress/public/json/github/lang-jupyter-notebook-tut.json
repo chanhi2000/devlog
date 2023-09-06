@@ -39,6 +39,11 @@
     "desc": "100 Days of ML Coding",
     "topics": ["python", "machine-learning", "tutorial", "deep-learning", "svm", "linear-regression", "scikit-learn", "linear-algebra", "machine-learning-algorithms", "naive-bayes-classifier", "logistic-regression", "implementation", "support-vector-machines", "100-days-of-code-log", "100daysofcode", "infographics", "siraj-raval", "siraj-raval-challenge"],
     "officialSite": ""
+  }, {
+    "repo": "ktynski/Marketing_Automations_Notebooks_With_GPT",
+    "desc": "A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

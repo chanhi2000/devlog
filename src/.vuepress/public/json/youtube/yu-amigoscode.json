@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/7vvlDtQv0IzlL07HxTQgIxzi4d9-dCWSBE3O4vUoEV1FTE_gDsCNntnBga6SxGEIlVG9LXcufA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oI8MDaUYQX4", "title": "Spring Boot API 404 to 400" },
+    { "id": "AmEhZGjXMqU", "title": "What is Java?" },
+    { "id": "k9BKBdJOc7c", "title": "Spring Boot Dependencies" },
+    { "id": "rL3JcN47824", "title": "Spring Boot Project | Student Class part 1" },
     { "id": "ldw5TwoPlXI", "title": "You DON'T Need Lombok" }, 
     { "id": "N2GING1in08", "title": "Spring Boot Project Overview" },     
     { "id": "YlkY1PBGO3Y", "title": "STOP SWALLOWING EXCEPTIONS 🤮" }, 

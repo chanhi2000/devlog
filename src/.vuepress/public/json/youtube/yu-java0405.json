@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/nYBM4tFv0FucvhrpQPedLqqK-VabAD9T3p0aLzwZchtwSVMKwyXP77Un7hQs1AbiEVEVHARWVss=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XZkgSR9Z1s8", "title": "23년 2학기 스프링부트3 : DI- IoC(xml 사용)" },
+    { "id": "a6hV1MinsaA", "title": "23년 2학기 스프링부트2 : DI- IoC(인터페이스 사용)" },
+    { "id": "ZtiY6MmXlmw", "title": "23년 2학기 스프링부트1 : DI- IoC(기본 사용)" },
     { "id": "NucbvUu8Ksw", "title": "스레드1" }, 
     { "id": "oHOLCzXCpNU", "title": "스레드2" }, 
     { "id": "qRiUNQgD4s8", "title": "스레드3" }, 

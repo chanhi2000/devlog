@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ofete40cxaI", "title": "Conquering Kubernetes Testing Challenges: The Cloud-Native Approach" },
+    { "id": "Ki1J2pxAHdQ", "title": "Cloud Native Live: K8s all the things!" },
     { "id": "7XeTz-pU7fc", "title": "Using the built in SQL database with Spin 1.4" },
     { "id": "XwnqUQfpWsE", "title": "Harness the power of Kubernetes network scanning for improved security posture" },
     { "id": "mBgQBMhboyU", "title": "Dapr - The ultimate developer API for authoring microservices" },    

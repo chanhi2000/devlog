@@ -609,6 +609,11 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "biomejs/biome",
+    "desc": "A toolchain for web projects, aimed to provide functionalities to maintain them.",
+    "topics": ["javascript", "css", "formatter", "typescript", "web", "static-code-analysis", "jsx", "linter"],
+    "officialSite": "https://biomejs.dev"
   }
 ]
 

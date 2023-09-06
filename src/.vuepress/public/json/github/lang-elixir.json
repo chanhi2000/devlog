@@ -14,5 +14,10 @@
     "desc": "Peace of mind from prototype to production",
     "topics": ["elixir", "realtime", "web-framework", "api-server", "distributed"],
     "officialSite": "https://www.phoenixframework.org"
+  }, {
+    "repo": "firezone/firezone",
+    "desc": "WireGuard®-based VPN server and firewall",
+    "topics": ["security", "cloud", "privacy", "elixir", "phoenix", "networking", "network", "firewall", "self-hosted", "vpn", "rust-lang", "vpn-server", "elixir-lang", "network-security", "wireguard", "virtual-network", "devsecops", "liveview", "wireguard-vpn", "wireguard-ui"],
+    "officialSite": "https://firezone.dev"
   }
 ]

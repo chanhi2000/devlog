@@ -2,30 +2,18 @@
   "channel": {
     "id": "Steve8708",
     "name": "Steve (Builder.io)",
-    "profile": "https://yt3.googleusercontent.com/AQG3DNKvWvLbR22Oztb9jhrfZY89501l0qtrppfhs1-GpS6QVaVLwTPJH1hz_w9VQEaMLIga=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/AQG3DNKvWvLbR22Oztb9jhrfZY89501l0qtrppfhs1-GpS6QVaVLwTPJH1hz_w9VQEaMLIga=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-zKnSjYoylZNCnoY26ROf9HRY1Z-p6-igAm_z6lC0-YSF9r5MZ1ZFJi7M1dyF4XOZENGZUrb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "BnniZ3crmcs",
-      "title": "the ai is learning how to REALLY program..."
-    }, {
-      "id": "sGdW4Amolq4",
-      "title": "A cure for React useState hell"
-    }, {
-      "id": "MtNAdeEV1Gk",
-      "title": "TypeScript utility types you need to know"
-    }, {
-      "id": "bGhUyJE2bCk",
-      "title": "Be careful with the `as` keyword in TypeScript"
-    }, {
-      "id": "XK0V0E3bA-M",
-      "title": "Deep cloning objects in JavaScript with structuredClone"
-    }, {
-      "id": "Wxlhtubs2FU",
-      "title": "AI + VS Code = 🤯"
-    }, {
-      "id": "nTqDhv447GA",
-      "title": "Introducing AI Shell: convert natural language to shell commands"
-    }
+    { "id": "dwoqFo-6T8I", "title": "Top tier debugging as a senior developer" },
+    { "id": "BnniZ3crmcs", "title": "the ai is learning how to REALLY program..." }, 
+    { "id": "sGdW4Amolq4", "title": "A cure for React useState hell" }, 
+    { "id": "MtNAdeEV1Gk", "title": "TypeScript utility types you need to know" }, 
+    { "id": "bGhUyJE2bCk", "title": "Be careful with the `as` keyword in TypeScript" }, 
+    { "id": "XK0V0E3bA-M", "title": "Deep cloning objects in JavaScript with structuredClone" }, 
+    { "id": "Wxlhtubs2FU", "title": "AI + VS Code = 🤯" }, 
+    { "id": "nTqDhv447GA", "title": "Introducing AI Shell: convert natural language to shell commands" }
+ 
   ]
 }

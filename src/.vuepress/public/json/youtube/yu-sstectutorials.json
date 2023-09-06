@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/dy3cphCeA7ZmAx2Rv5QQ3l3F9G-Czt6bRTCDWMuGUVwpE2YuHutXyUtZNwLXizGnQv2e88AE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "agKM-9LSyjs", "title": "How To SSH Into Kali NetHunter Android Phone" },
     { "id": "BM7BglCkrdQ", "title": "How To Install Kali Linux on Windows 11 Hyper-V" }, 
     { "id": "m2PGKJyBwCY", "title": "How To Install Kali Linux on Windows 11 WSL2 (GUI) in 5 Minutes" }, 
     { "id": "5maHGFejvH0", "title": "How To Make Windows 11 Look Like MacOS Monterey | MacOS Theme For Windows 11" }, 

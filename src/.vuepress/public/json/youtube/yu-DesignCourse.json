@@ -2,99 +2,40 @@
   "channel": {
     "id": "DesignCourse",
     "name": "DesignCourse",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNNqEOUWsALiAsHQWVtnretxTydSUyBVTNnXY4GZg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNNqEOUWsALiAsHQWVtnretxTydSUyBVTNnXY4GZg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/R_4R-mQTEnzxwGyldEG4dU33r9IaqYkV0B6rYDy_3xfqqTbOVAFsn19bUiGPddUUhtrGtd780g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "rCM5-TrbG_o",
-      "title": "Refactoring your UI/UX Design -- LIVE"
-    }, {
-      "id": "uYEyBGyJqPM",
-      "title": "I Fixed 3 Broken Portfolios in Record Time"
-    }, {
-      "id": "Kl3nOXQjVnQ",
-      "title": "The 2023 Frontend Development Crash Course - Learn HTML & CSS"
-    }, {
-      "id": "QwSN4n2sjR8",
-      "title": "The UI/UX Crash Course for 2023 - Learn UI/UX Design"
-    }, {
-      "id": "4ThnAKy4okM",
-      "title": "How to Refactor a Web Design - Like a Pro"
-    }, {
-      "id": "gI_X6ekJFus",
-      "title": "10 Jaw-Dropping Portfolios of 2022"
-    }, {
-      "id": "H_7Ld5Psgg0",
-      "title": "Try this Multi-Path SVG Scroll Animation Technique"
-    }, {
-      "id": "D-h8L5hgW-w",
-      "title": "HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!"
-    }, {
-      "id": "rh6KtCKRP8U",
-      "title": "Making your Layouts More UNIQUE - Rapid ReDesigns"
-    }, {
-      "id": "i2kCNV73luw",
-      "title": "Live UI/UX Review - Submit your designs for review!"
-    }, {
-      "id": "dg488RrpNTc",
-      "title": "Truly Fluid Typography with 1 CSS PROPERTY!"
-    }, {
-      "id": "mNtLjzzxGQM",
-      "title": "Building a REAL Web Component from Scratch! - Tutorial"
-    }, {
-      "id": "ID0fwi2q028",
-      "title": "You need to know Usability Testing (with Maze)"
-    }, {
-      "id": "B7_W7LvIRU0",
-      "title": "Watch me BREAK this layout - The BROKEN Layout Trend"
-    }, {
-      "id": "Ly6pm8UxZU4",
-      "title": "The 2020 HTML & CSS Crash Course - From Mockup to Product"
-    }, {
-      "id": "aMucZErEdZg",
-      "title": "Creating Sick Page Transitions with Barba.js & GSAP"
-    }, {
-      "id": "t15BZZ1giGo",
-      "title": "Figma + No Code + Rest API = NATIVE APP?! -- Bravo Studio"
-    }, {
-      "id": "YNB-JD7iPoQ",
-      "title": "STOP The CSS Grid Confusion - 2 Ways to GRID!"
-    }, {
-      "id": "ciMsVVyv3Og",
-      "title": "Finally Figure out the SVG ViewBox - Tutorial + ViewBox Tools"
-    }, {
-      "id": "PU9r0HfZkaE",
-      "title": "Animated Icon Design Crash Course - Illustrator & Lottie.js - 1/2"
-    }, {
-      "id": "P5zGTEGPpu4",
-      "title": "Parallax in HTML, CSS and JavaScript Tutorial - Let's make it happen!"
-    }, {
-      "id": "syG7ljxqzNg",
-      "title": "CSS Multi-Columns - Awesome Newspaper Style Layouts (NO Flexbox or Grid)"
-    }, {
-      "id": "MjB1Nyx6hns",
-      "title": "Web Share API Tutorial - Native Sharing is Easy!"
-    }, {
-      "id": "oa9cnWTpqP8",
-      "title": "Learn Angular 5 in less than 60 Minutes - Free Beginner's Course"
-    }, {
-      "id": "_TLhUCjY9iA",
-      "title": "Learn Angular 8 from Scratch for Beginners - Crash Course"
-    }, {
-      "id": "0Xg6r_MKGJ4",
-      "title": "CSS Animation Optimization and Performance 101"
-    }, {
-      "id": "tPkZqXpibpA",
-      "title": "Lazy Loading Images with Bounds.js - Less than 1KB!"
-    }, {
-      "id": "F4kJXbaunUg",
-      "title": "Awesome UI Interactions with the CSS Clip Path Property"
-    }, {
-      "id": "HI21vsLscic",
-      "title": "A Sketch for Windows?  Maybe.. Meet Lunacy"
-    }, {
-      "id": "AkSE-GVaC8E",
-      "title": "This JavaScript Plugin creates Insane UI Animations"
-    }
+    { "id": "FVd5arHq0Zk", "title": "Complex SVG Animations Made Simple with JavaScript" },
+    { "id": "rCM5-TrbG_o", "title": "Refactoring your UI/UX Design -- LIVE" }, 
+    { "id": "uYEyBGyJqPM", "title": "I Fixed 3 Broken Portfolios in Record Time" }, 
+    { "id": "Kl3nOXQjVnQ", "title": "The 2023 Frontend Development Crash Course - Learn HTML & CSS" }, 
+    { "id": "QwSN4n2sjR8", "title": "The UI/UX Crash Course for 2023 - Learn UI/UX Design" }, 
+    { "id": "4ThnAKy4okM", "title": "How to Refactor a Web Design - Like a Pro" }, 
+    { "id": "gI_X6ekJFus", "title": "10 Jaw-Dropping Portfolios of 2022" }, 
+    { "id": "H_7Ld5Psgg0", "title": "Try this Multi-Path SVG Scroll Animation Technique" }, 
+    { "id": "D-h8L5hgW-w", "title": "HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!" }, 
+    { "id": "rh6KtCKRP8U", "title": "Making your Layouts More UNIQUE - Rapid ReDesigns" }, 
+    { "id": "i2kCNV73luw", "title": "Live UI/UX Review - Submit your designs for review!" }, 
+    { "id": "dg488RrpNTc", "title": "Truly Fluid Typography with 1 CSS PROPERTY!" }, 
+    { "id": "mNtLjzzxGQM", "title": "Building a REAL Web Component from Scratch! - Tutorial" }, 
+    { "id": "ID0fwi2q028", "title": "You need to know Usability Testing (with Maze)" }, 
+    { "id": "B7_W7LvIRU0", "title": "Watch me BREAK this layout - The BROKEN Layout Trend" }, 
+    { "id": "Ly6pm8UxZU4", "title": "The 2020 HTML & CSS Crash Course - From Mockup to Product" }, 
+    { "id": "aMucZErEdZg", "title": "Creating Sick Page Transitions with Barba.js & GSAP" }, 
+    { "id": "t15BZZ1giGo", "title": "Figma + No Code + Rest API = NATIVE APP?! -- Bravo Studio" }, 
+    { "id": "YNB-JD7iPoQ", "title": "STOP The CSS Grid Confusion - 2 Ways to GRID!" }, 
+    { "id": "ciMsVVyv3Og", "title": "Finally Figure out the SVG ViewBox - Tutorial + ViewBox Tools" }, 
+    { "id": "PU9r0HfZkaE", "title": "Animated Icon Design Crash Course - Illustrator & Lottie.js - 1/2" }, 
+    { "id": "P5zGTEGPpu4", "title": "Parallax in HTML, CSS and JavaScript Tutorial - Let's make it happen!" }, 
+    { "id": "syG7ljxqzNg", "title": "CSS Multi-Columns - Awesome Newspaper Style Layouts (NO Flexbox or Grid)" }, 
+    { "id": "MjB1Nyx6hns", "title": "Web Share API Tutorial - Native Sharing is Easy!" }, 
+    { "id": "oa9cnWTpqP8", "title": "Learn Angular 5 in less than 60 Minutes - Free Beginner's Course" }, 
+    { "id": "_TLhUCjY9iA", "title": "Learn Angular 8 from Scratch for Beginners - Crash Course" }, 
+    { "id": "0Xg6r_MKGJ4", "title": "CSS Animation Optimization and Performance 101" }, 
+    { "id": "tPkZqXpibpA", "title": "Lazy Loading Images with Bounds.js - Less than 1KB!" }, 
+    { "id": "F4kJXbaunUg", "title": "Awesome UI Interactions with the CSS Clip Path Property" }, 
+    { "id": "HI21vsLscic", "title": "A Sketch for Windows?  Maybe.. Meet Lunacy" }, 
+    { "id": "AkSE-GVaC8E", "title": "This JavaScript Plugin creates Insane UI Animations" }
   ]
 }

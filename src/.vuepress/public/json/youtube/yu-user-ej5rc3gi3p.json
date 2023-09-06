@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "uOYadCwEHeQ", "title": "`DeptJobDAO.selectDeptJobBxList` 주어진 조건에 따른 부서업무함 목록을 불러온다." },
+    { "id": "v1uY4aWUx3o", "title": "제네릭 타입 명시: 최근검색어 결과를 조회한다." },
+    { "id": "35uIpTVXF3Y", "title": "`DeptJobDAO.selectDeptJobBxListAll` 주어진 조건에 따른 부서업무함 목록 전체를 불러온다." },
+    { "id": "vRJ_daC10pE", "title": "제네릭 타입 명시: 최근검색어결과 목록을 조회한다." },
+    { "id": "W1ez2INFtgA", "title": "`DeptJobDAO.selectDeptJobBxListCnt` 부서업무함 목록에 대한 전체 건수를 조회한다." },
+    { "id": "ULT4b4atX4I", "title": "제네릭 타입 명시: RSS서비스 목록을 상세조회 조회한다." },
     { "id": "yTQUdskPcTw", "title": "제네릭 타입 명시: 행사신청관리" },
     { "id": "kj7CfPq0fHE", "title": "부서업무 DAO 단위 테스트 추가" },
     { "id": "JIQc62ro9as", "title": "제네릭 타입 명시: 쪽지관리" },

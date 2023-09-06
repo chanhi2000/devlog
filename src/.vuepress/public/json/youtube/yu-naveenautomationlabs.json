@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Wml9Pt5OCho", "title": "Latest Selenium 4.12.0 with Latest Selenium Manager 0.4.12 || Automated Firefox Binary Management" },
+    { "id": "ZwEOCM-nhYg", "title": "#19 - Synchronous vs ASynchronous Behaviour in JavaScript" },
     { "id": "eCMAQQ-XpN4", "title": "Chrome 116 with Selenium 3.x and 4.x With WebDriverManager || Latest Bonigarcia WebDriverManager" },
     { "id": "P-6402gTHus", "title": "Code Less Automated Testing With Reflect - AI Assistance Testing Platform" },
     { "id": "V4ZHBN7THHM", "title": "Selenium will stop supporting Java 8 on September 30, 2023" }, 

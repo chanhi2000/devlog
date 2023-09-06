@@ -144,5 +144,10 @@
     "desc": "Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.",
     "topics": ["nike", "tailwind", "tailwindcss", "nike-website"],
     "officialSite": "https://tailwindcsspro.com"
+  }, {
+    "repo": "EmNudge/watlings",
+    "desc": "Learn WebAssembly by writing small programs!",
+    "topics": ["learning", "guide", "webassembly", "wasm", "exercises", "wat", "wast"],
+    "officialSite": ""
   }
 ]

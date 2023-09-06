@@ -2205,7 +2205,7 @@
     "officialSite": ""
   }, {
     "repo": "ymcui/Chinese-LLaMA-Alpaca-2",
-    "desc": "中文 LLaMA-2 & Alpaca-2 大模型二期项目 (Chinese LLaMA-2 & Alpaca-2 LLMs)",
+    "desc": "中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)",
     "topics": ["nlp", "llama", "alpaca", "pre-trained-language-models", "large-language-models", "llm", "flash-attention", "llama-2", "alpaca-2"],
     "officialSite": ""
   }, {
@@ -2513,5 +2513,35 @@
     "desc": "Implementation of Nougat Neural Optical Understanding for Academic Documents",
     "topics": [],
     "officialSite": "https://facebookresearch.github.io/nougat"
+  }, {
+    "repo": "KillianLucas/open-interpreter",
+    "desc": "OpenAI's Code Interpreter in your terminal, running locally",
+    "topics": ["python", "interpreter", "gpt-4", "chatgpt", "llama2", "codellama"],
+    "officialSite": "http://openinterpreter.com"
+  }, {
+    "repo": "OpenBMB/ChatDev",
+    "desc": "Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "topics": ["python", "machine-learning", "natural-language-processing", "computer-vision", "deep-learning", "book", "notebook", "chinese"],
+    "officialSite": "http://zh.d2l.ai"
+  }, {
+    "repo": "fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "topics": [],
+    "officialSite": "https://zhuanlan.zhihu.com/yangyangfuture"
+  }, {
+    "repo": "binary-husky/gpt_academic",
+    "desc": "为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。",
+    "topics": ["academic", "gpt-4", "large-language-models", "chatgpt", "chatglm-6b"],
+    "officialSite": "https://qingxu98-gpt-academic.hf.space"
+  }, {
+    "repo": "woodruffw/shaq",
+    "desc": "A CLI client for Shazam",
+    "topics": [],
+    "officialSite": ""
   }
 ]

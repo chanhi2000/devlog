@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7hXDpEkamoTXN_3CMBzuPPRag1XJsi9fCPyfCtmEM9hyMo4DeHt9jmG5GF3FffBvbjQELtw5Rg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zWn0O0xzWMA", "title": "Clean Code Tip: Favor Method Chaining Over Nested Calls" },
     { "id": "6g4ggpOxxCc", "title": "Clean Code Tip: Remove Messy Constructor Calls" },
     { "id": "q_tH3njpAFc", "title": "Possibility of Discriminated Unions in C#: Functional Programming in .NET" },    
     { "id": "tq5ztZO45-g", "title": "Visitor Design Pattern Is Giving Way To Pattern Matching Expressions!" }, 

@@ -724,5 +724,10 @@
     "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
     "topics": ["docker", "golang", "home-automation", "iot", "vuejs", "self-hosted", "raspberry", "home-server", "home-cloud", "casaos"],
     "officialSite": "https://casaos.io"
+  }, {
+    "repo": "apernet/hysteria",
+    "desc": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "topics": ["golang", "relay", "tun", "proxy", "http-proxy", "socks5", "censorship-circumvention", "vpn", "quic", "reliable-udp", "hysteria"],
+    "officialSite": "https://v2.hysteria.network"
   }
 ]

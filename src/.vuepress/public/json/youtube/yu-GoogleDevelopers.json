@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "GoogleDevelopers",
+    "name": "Google for Developers",
+    "profile": "https://yt3.googleusercontent.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Oxa3gK3h8fgC8wNLkMJVcj2VJ_rRzZL02eAEEVOiKpts-ed5LApGEKZTJ2YrmrsRq6lrJRmZ9g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-wlZY4tfGMY", "title": "Project IDX: Full-stack application development with generative AI" }    
+  ]
+}

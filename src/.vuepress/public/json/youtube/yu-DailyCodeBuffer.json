@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/wKFAW7k_mBvQR6s7eRK_flYOtRdbxxv7rmApYKUQfW_gEfpw5l49BHf_7xop5dG9UJrOpvZ_NQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zvR-Oif_nxg", "title": "Spring Boot Complete Tutorial  - Master Class" },
+    { "id": "vh6YJxc2o3g", "title": "Skyrocket Your API Performance with These Techniques" },
     { "id": "inQkjQ2UN6A", "title": "Pros & Cons of Dynamic Inserts & Updates With Spring Data JPA | Spring Boot" }, 
     { "id": "vZO7Qh6riS8", "title": "Building REST API with Spring Boot - Keyboard Typing ASMR" }, 
     { "id": "hPtR_-EQU-4", "title": "Redis Stack Crash Course with Spring Boot" }, 

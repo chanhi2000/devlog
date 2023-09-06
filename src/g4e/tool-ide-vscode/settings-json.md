@@ -77,7 +77,6 @@ copy and paste below
 	"pros.showWelcomeOnStartup": false,              // PROS
 	"vsicons.dontShowNewVersionMessage": true,       // VSCode Icons	
 }
-    
 ```
 
 ---

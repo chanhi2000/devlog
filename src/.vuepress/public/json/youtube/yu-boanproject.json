@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "k45rk6s80nI", "title": "와이어샤크 패킷 분석 -  FTP 무작위 대입 공격 사례 #wireshark #forensics" },
+    { "id": "ZI3HIjzVGvA", "title": "도커 컨테이너 관리 포테이너 (Portainer) 도구 소개 및 활용 #docker #clouds" },
+    { "id": "YUU9lr1TyCw", "title": "Google one 다크웹 서비스 모니터링 기능 소개 #darkweb #개인정보" },
+    { "id": "lg8nzOqn0wU", "title": "버프스위트 웹 시큐리티아카데미 SQL Injection 공격 사례 #burpsuite #hacking" },
+    { "id": "fdsh0VymKxY", "title": "버프스위트 웹 시큐리티아카데미 SQL Injection 공격 사례 두번째!!" },
+    { "id": "99aURTMhZbM", "title": "파이썬 자동화 - 네이버 API 맛집 검색결과를 플라스크 웹 서비스로 제공하기" },
     { "id": "a4VPBbOBESQ", "title": "파이썬 Streamlit - 업비트 API를 이용해서 코인 목록화 및 가격확인 #upbit #python #bitcoin" },
     { "id": "XR2-F7pukeA", "title": "파이썬 자동화 - 업비트 API를 이용하여 원하는 코인 가격 가져오기 #upbit #python" },
     { "id": "ICulMtuhM3E", "title": "파이썬 자동화 - 네이버 API 데이터를 이용하여 맛집 정보 검색하기" },

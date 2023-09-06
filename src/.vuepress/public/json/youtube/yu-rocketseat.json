@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-7E_1FHV1FPr_xsmULn3trFWVljCAqh0CwghQMpL8vU_dKPbIHazTSE-BUwY3YdhyZNWcr7SXkc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kcw9hxYb53Q", "title": "Custom Select in an EASY Way (HTML, CSS, and JS) #boraCodar 34" },
     { "id": "BYWHyKXhAn8", "title": "Image Recognition with AI (Clarifai + React Native)" },
     { "id": "Z1aSHtPCAP4", "title": "Personalize sua figurinha da Copa com React Native" }, 
     { "id": "9AO2hZJsHrs", "title": "CRUD com Node.JS, Express, TypeORM e PostgreSQL - #code/drops 113" }, 

@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/X4brzU6oq2AQfFtVjZXoEQD4ZSibnyZS97846cL_OVte7l4MueLNNtl1fdSyDCXofgeRwrfNuA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xIc6sB77Zqs", "title": "Amazon EKS, 중요한 건 꺾이지 않는 안정성 - 최용호 솔루션즈 아키텍트, AWS / 오연주 솔루션즈 아키텍트, AWS :: AWS Summit Seoul 2023" },
+    { "id": "hEV0FXe58Ck", "title": "데이터, 분석 및 AI를 통합하는 단 하나의 레이크하우스, Databricks on AWS로 시작하기 - 고영경, 데이터브릭스 코리아 :: AWS Summit Seoul 2023" },
+    { "id": "_wdTvdiOQ1g", "title": "아마존의 공급망 전략을 배워보고, 우리 회사에 적용하기 - 임연욱, AWS / 이명복, AWS :: AWS Summit Seoul 2023" },
+    { "id": "dpwXwvFoNz0", "title": "통합을 통한 보안 간소화 - 장성민 상무 Field CTO, Palo Alto Networks :: AWS Summit Seoul 2023" },
+    { "id": "IU-9U1FshJI", "title": "클라우드 보안의 새로운 접근법 - 김석주 Pre Sales 이사, TrendMicro :: AWS Summit Seoul 2023" },
+    { "id": "FCvjsrCeIzE", "title": "SageMaker로 No/Low 코드 기계학습 해 보기 - 맹욱재 프로토타이핑 엔지니어, AWS :: AWS Summit Seoul 2023" },
+    { "id": "IF_er9zKET0", "title": "Amazon Kendra로 원하는 자료를 적재적소에 찾아 활용하기 - 경태훈, AWS / 마상범, AWS :: AWS Summit Seoul 2023" },
+    { "id": "7V28RjcQY5s", "title": "모두를 위한 BI, QuickSight - 민지수 솔루션즈 아키텍트, AWS / 윤기원 솔루션즈 아키텍트, AWS :: AWS Summit Seoul 2023" },
     { "id": "aY-ZTFPAOEc", "title": "AWS에서 컨테이너를 운영한다면 꼭 봐야 하는 모범 사례" },
     { "id": "NLFzJe-tN78", "title": "올바른 Amazon EC2 이해를 통한 AWS 비용 절감 비법" },
     { "id": "Eg3QiCKqDnM", "title": "Amazon EKS Blueprints을 통한 손쉽게 Kubernetes 클러스터 운영하기 - 김필중, 개발 전문 솔루션즈 아키텍트, AWS" },

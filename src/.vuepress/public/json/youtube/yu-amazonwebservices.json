@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Kg1XRjOHqFY", "title": "How do I launch a new EC2 instance from a custom AMI?" },
+    { "id": "Ev3giJRpHWw", "title": "AWS Security Hub integration with AWS Control Tower | Amazon Web Services" },
     { "id": "z7EL5cpROEw", "title": "AWS 관리 콘솔에 로그인하려면 어떻게 해야 하나요?" },
     { "id": "Qskg4kMSofM", "title": "AWS 계정에서 더 이상 필요하지 않은 활성 리소스를 확인하려면 어떻게 해야 합니까?" },
     { "id": "BCIVJUBBwu0", "title": "Application Load Balancer를 사용하여 HTTP 요청을 HTTPS로 리디렉션하려면 어떻게 해야 하나요?" },

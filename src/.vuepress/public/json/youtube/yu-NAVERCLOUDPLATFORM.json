@@ -6,24 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/283rdxDBWTdC-86Rb3uvkVATmI94z9bbUpxUmuB6HM0wFVZMVGgQlbNpaxBtdNyGOtMFMJiZ5Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Y1W9SJXm_T0",
-      "title": "[Solutions Showcase] 개발자와 DevOps를 위한 사용 사례 중심의 NGINX Plus API Gateway"
-    }, {
-      "id": "j4_rnEHb8FM",
-      "title": "[Brown-bag 런치 세미나] 관리형 서비스로 쉽게 구축하는 빅데이터 플랫폼"
-    }, {
-      "id": "ZW1OnWbvnjQ",
-      "title": "[Brown-bag 런치 세미나] 클라우드 개념, 1시간으로 끝내기!"
-    }, {
-      "id": "hvkmbQf5uvE",
-      "title": "[웨비나] EFK로 쿠버네티스 로그 수집 및 분석하기"
-    }, {
-      "id": "nRVEv-ctqJA",
-      "title": "네이버 주가 상승의 원동력은?🤔 네이버 직원들이 직접 말하는 일하는 방식!"
-    }, {
-      "id": "GfZuHSX9RDM",
-      "title": "[웨비나] 클라우드 보안 A to Z: 클라우드 환경에서 발생하는 위협 탐지/대응 방안"
-    }
+    { "id": "ahIY2q4jpow", "title": "[Solutions Showcase] WEBFRONT KS를 통한 웹API 보안, 안정성 높은 클라우드 운영 환경 만들기" },
+    { "id": "fFjnm8_qFIE", "title": "[Brown-Bag 런치세미나] 메타데이터 통합 및 관리를 서버 없이 클라우드 기반으로! Data Catalog 서비스 소개" },
+    { "id": "Y1W9SJXm_T0", "title": "[Solutions Showcase] 개발자와 DevOps를 위한 사용 사례 중심의 NGINX Plus API Gateway" }, 
+    { "id": "j4_rnEHb8FM", "title": "[Brown-bag 런치 세미나] 관리형 서비스로 쉽게 구축하는 빅데이터 플랫폼" }, 
+    { "id": "ZW1OnWbvnjQ", "title": "[Brown-bag 런치 세미나] 클라우드 개념, 1시간으로 끝내기!" }, 
+    { "id": "hvkmbQf5uvE", "title": "[웨비나] EFK로 쿠버네티스 로그 수집 및 분석하기" }, 
+    { "id": "nRVEv-ctqJA", "title": "네이버 주가 상승의 원동력은?🤔 네이버 직원들이 직접 말하는 일하는 방식!" }, 
+    { "id": "GfZuHSX9RDM", "title": "[웨비나] 클라우드 보안 A to Z: 클라우드 환경에서 발생하는 위협 탐지/대응 방안" }
   ]
 }

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/NXa3mghamiGzdoI90dcDlEs2pQlB1V1nfHG2ZQtrAcfdNxOFIrPq3j6mJBA_9oQa3v98oB2eG-A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YyXjC68l8mw", "title": "Generational ZGC and Beyond" },
+    { "id": "LXWbyf8SUjI", "title": "Java 21 JVM &amp; GC Improvements #RoadTo21" },
+    { "id": "jyrw0eqricE", "title": "What list can you pass to a method that takes a List of Number? - Cracking the Java Coding Interview" },
+    { "id": "AtbOhgfYhcM", "title": "Everything You Never Wanted to Know about Java Class Initialization" },
     { "id": "pcg-E_qyMOI", "title": "A Classfile API for the JDK" },
     { "id": "xbk9_6XA_IY", "title": "Code Reflection" },
     { "id": "6nRS6UiN7X0", "title": "Continuations - Under the Covers" },

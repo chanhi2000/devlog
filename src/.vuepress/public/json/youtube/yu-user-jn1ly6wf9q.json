@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "MlpZ9wTmcKk", "title": "Webjjang Spring ver.2023.08 05-01 회원 관리 - 로그인 처리(웹짱과 함께하는 스프링)" },
+    { "id": "W4LLOux_HVs", "title": "Webjjang Spring ver.2023.08 04-27 이미지 게시판 - 이미지 보기에서 작은 이미지 비율 조정하기(웹짱과 함께하는 스프링)" },
+    { "id": "lrb4ljLAfKw", "title": "Webjjang Spring ver.2023.08 04-26 이미지 게시판 - 이미지 보기 JSP에서 권한(웹짱과 함께하는 스프링)" },
+    { "id": "n5Vf_8SpY68", "title": "Webjjang Spring ver.2023.08 04-25 이미지 게시판 - 이미지 삭제 백엔드 처리(웹짱과 함께하는 스프링)" },
     { "id": "xRptgEZKaaA", "title": "Webjjang Spring ver.2023.08 02-07 일반게시판 - 글 보기 데이터 표시(웹짱과 함께하는 스프링)" },
     { "id": "ZHXyp4oWit0", "title": "Webjjang Spring ver.2023.08 02-06 일반게시판 - 글 보기 데이터 가져오기(웹짱과 함께하는 스프링)" },
     { "id": "diyXdP_VZ1A", "title": "Webjjang Spring ver.2023.08 02-05 일반게시판 - 글 등록 처리(웹짱과 함께하는 스프링)" },

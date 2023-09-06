@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/5exaEZH9hpSVtQBOPPUXh3uJaaBsYe-5tV-rf05rBfMNbBq_I_dqD-pV5SAYrejMLctrPoFHpQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZOh08w9Ku9k", "title": "6 Ways to Master iOS Development" },
     { "id": "x-5UgNl7GFU", "title": "Swift Algorithms - Faster, Cleaner Code. (Chunked Example)" },
     { "id": "oNAj6aIU7tk", "title": "Xcode 15 - What's New" }, 
     { "id": "EK7SthdWV2w", "title": "SwiftUI Data Flow in iOS 17 - Observation & `@Observable`" }, 

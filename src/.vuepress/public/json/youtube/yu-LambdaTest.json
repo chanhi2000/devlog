@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LpxYpLVFuMQSpcovfkIIrBEh59vIUJTyez5FIqtOreKXY7gbnNee5NH2MvQzKGM3t69SaXbQKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xA5aloqAYvg", "title": "Testing at Scale at Meta | Dmitry Vinnik | Testμ 2023 | LambdaTest" },
+    { "id": "C8rbEuvvg0I", "title": "Selenide Appium - Mutated Java Appium Client | Amuthan Sakthivel | Testμ 2023 | LambdaTest" },
+    { "id": "W3mnbPeGCsk", "title": "Use Testing to Develop Better Software Faster | Marit van Dijk | Testμ 2023 | LambdaTest" },
     { "id": "xQCNEH2hZt4", "title": "What Is Mocha | LambdaTest" },
     { "id": "RS1cITz3W8w", "title": "Linear App Integration - Enhance Workflows With One Click |  LambdaTest Integrations 🔗" }, 
     { "id": "8aV5AxJrHDg", "title": "Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners" }, 

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/SIw6Tay4jTyB2K6R-KoKZgQf3GQyQdl-ss06Ti-KCERihI8Pfg2JmIC0jxsDSKonuv9vPuBPWQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QATYwnbcG0E", "title": "IntelliJ IDEA 2023.2 release highlights - Partial commit" },
+    { "id": "GMf-Gy-73to", "title": "IntelliJ IDEA 2023.2 release highlights - GitLab integration" },
+    { "id": "A0OzFeVR7Zk", "title": "IntelliJ IDEA 2023.2 release highlights - Colored headers" },
     { "id": "KixXBu-QCp0", "title": "Faster Code Feedback Loops With OpenTelemetry" },
     { "id": "I_k9v9bBaCA", "title": "IntelliJ IDEA: GitLab Merge Requests" },
     { "id": "QxxG66eQoTc", "title": "Virtual Threads and Structured Concurrency in Java 21 With Loom" }, 

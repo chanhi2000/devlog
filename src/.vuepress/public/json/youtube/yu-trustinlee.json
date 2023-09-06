@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/GeJQsfYruMQScd0llHWfPQIVk0WhA2BNau_fLzzwRgHQou-3FMRdJFaP7f-YMFqD2rr8oFEV=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qr2sPJEqmgc", "title": "켠 김에 PR까지 28: Semantic Versioning 2부 - revapi 로 breaking change 를 감지하자!" },
     { "id": "4Re2eUsrgvQ", "title": "켠 김에 PR까지 20: Testcontainers 로 통합 테스트 맛보기" },     
     { "id": "5UltOhDOjr0", "title": "켠 김에 PR까지 18: JMH 와 async-profiler 로 병목 지점을 찾아 보자!" }, 
     { "id": "9R8Oo0mVAMU", "title": "켠 김에 PR까지 4화: Token Bucket 구현" }, 

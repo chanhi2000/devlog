@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/g7yzlWQ0s0eqcnU4f7u3tJ-78lgdabvm3q_XYnU5ij6KGewlMUyKT5SvPNTrG1djtP0_HV9_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ffJ38dBzrlY", "title": "Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023" },
+    { "id": "PjYWpd7xkaM", "title": "Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind | Tutorial 2023" },
     { "id": "ZbX4Ok9YX94", "title": "Fullstack Discord Clone: Next.js 13,  React, Socket.io, Prisma, Tailwind, MySQL | Full Course 2023" },
     { "id": "PjYWpd7xkaM", "title": "Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind | Tutorial 2023" },
     { "id": "5miHyP6lExg", "title": "Full Stack E-Commerce + Dashboard CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023" },

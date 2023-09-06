@@ -154,4 +154,10 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## PyTorch
+
+- [OpenAI의 GPT 모범 사례: 개요. 더 나은 답변을 얻기 위한 6가지 프롬프트 작성 전략 (Six strategies for getting better results)](https://discuss.pytorch.kr/t/openai-gpt-6-six-strategies-for-getting-better-results/2350/1)
+
+---
+
 <TagLinks />

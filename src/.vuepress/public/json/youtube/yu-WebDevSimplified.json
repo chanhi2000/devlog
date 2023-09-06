@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/NR7mt68maaOHV0rxr6_XiSzaW0yziFd6uvUGQMBg1tICGHR0NFSLWa3UAsk7N2-NgmxDezuk4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "d6a8RymS1zI", "title": "NEW Way To Create Variables In JavaScript" },
+    { "id": "x-ntJfVT_h4", "title": "New useFormStatus React Hook" },
     { "id": "_e4m4DjnBCE", "title": "Stop Using `{}` In TypeScript" },
     { "id": "ccg-erZYO4k", "title": "This Extension Is A TypeScript Game Changer" }, 
     { "id": "1Hgc6EU9PSg", "title": "This Tailwind Library Is A Game Changer" }, 

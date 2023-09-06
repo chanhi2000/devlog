@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "cpponsea2834",
+    "name": "cpponsea",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQCWEYMx7dMxjBE3VmQOWEWtGJcyYHjdiV4DX7c=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/li4jNhPL-S7ItWDI3rcwVotY0SySEPTcH9fIw3UUR7Oi527VBU4jQ6IBccFq0ollmvxJFNjyvQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uYFRnsMD9ks", "title": "New Algorithms in C++23 - Conor Hoekstra - C++ on Sea 2023" },
+    { "id": "SFv8Wm2HdNM", "title": "The Forgotten Art of Structured Programming - Kevlin Henney [C++ on Sea 2019]]" }
+  ]
+}

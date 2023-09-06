@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/VF1iqOOLEFJm8etnaBqR5byPkbsECa1TyScfrzgyJ3KUCyXT0QXjMhGbxl6w3b1slKvdJS80EEc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A3-2QUV_maA", "title": "Never forget these kubectl commands | Life saver for Kubernetes administrators #kubernetes #devops" },
     { "id": "nZeDNMTgQUA", "title": "Kafka Installation using docker & docker compose | Docker | Kafka | Docker Compose" }, 
     { "id": "tJH3FuFV3nU", "title": "DevOps | CI/CD using HashiCorp Tools | Vagrant, Terraform, Packer, Vault, Nomad, Consul, Boundary.." }, 
     { "id": "9TiqyEYA0iU",  "title": "Kubernetes Architecture in 15sec #devops #kubernetes #shorts" }, 

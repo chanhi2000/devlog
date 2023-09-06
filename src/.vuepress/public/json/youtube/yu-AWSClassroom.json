@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Owl6njL7ViQ", "title": "수많은 EC2 인스턴스의 CPU/메모리 시각화해서 확인하기 : CloudWatch Resource Health" },
     { "id": "f9LZWCSgojE", "title": "S3 파일 업로드/다운로드는 이렇게 하세요 : Serverless 아키텍처에서 S3로 파일 업로드/다운로드 총 정리!" },
     { "id": "5HYEUI7dD0U", "title": "내 MySQL/PostgrSQL DB 변경을  스트림으로 받아 처리하는 방법!  Aurora DB Activity Stream" },
     { "id": "cDzPU5whTCI", "title": "Lambda로 요청 응답을 실시간 스트리밍 하는법? Lambda Response Streaming" },    

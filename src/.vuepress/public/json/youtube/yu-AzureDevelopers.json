@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/4rtjrb_IF5E8XCtVgl_Bb5_O1xOyqAhDMXUAUifKwwwqLWp-mBNCppPJUGNs3RzJAJYwFufc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "H2g3NRemjaw", "title": "Azure Cache for Redis Community Standup - Developer Experience" },
     { "id": "leJRc0JWzSY", "title": "Getting started in the Azure Portal" }, 
     { "id": "EqNJ9IQgODI", "title": "Get more from your free account" }, 
     { "id": "y8Hy0uYL3hg", "title": "Architect your Azure solutions" }, 

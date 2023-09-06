@@ -148,12 +148,14 @@ tags: ["references", "swift"]
 ## Linkability
 
 - [Introducing ObservableConverter](https://lickability.com/blog/introducing-observableconverter)
+- [Plussing your iOS app](https://lickability.com/blog/plussing-your-ios-app)
 
 ---
 
 ## manu.show
 
 - [Improve the build times of your SPM Packages and your apps](https://www.manu.show/2023-08-18-improve-build-times-in-spm-packages-and-in-your-apps)
+- [Swift Typo Detector](https://www.manu.show/2023-08-30-swift-typo-detector)
 
 ---
 
@@ -168,6 +170,22 @@ tags: ["references", "swift"]
 - [Making your SwiftData models Codable](https://www.donnywals.com/making-your-swiftdata-models-codable)
 
 ---
+
+## Polpiella
+
+- [Xcode 15: Automated accessibility audits](https://www.polpiella.dev/xcode-15-automated-accessibility-audits)
+
+---
+
+## Daniel Saidi
+
+- [Enabling drag reordering in SwiftUI lazy grids and stacks](https://danielsaidi.com/blog/2023/08/30/enabling-drag-reordering-in-swiftui-lazy-grids-and-stacks)
+
+---
+
+## chris eidhof
+
+- [Running Code When Your View Appears](https://chris.eidhof.nl/post/swiftui-on-appear-vs-task/)
 
 ## Misc
 

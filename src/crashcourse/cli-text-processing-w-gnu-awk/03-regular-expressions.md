@@ -310,4 +310,187 @@ $ echo 'cats dog bee parrot foxed' | awk '{gsub(/cat|dog|fox/, "--")} 1'
 
 ---
 
+## Alternation precedence
+
+There are some tricky corner cases when using alternation. If it is used for filtering a line, there is no ambiguity. However, for use cases like substitution, it depends on a few factors. Say, you want to replace `are` or `spared` — which one should get precedence? The bigger word `spared` or the substring `are` inside it or based on something else?
+
+The alternative which matches earliest in the input gets precedence.
+
+```sh
+# here, the output will be the same irrespective of alternation order
+# note that 'sub' is used here, so only the first match gets replaced
+echo 'cats dog bee parrot foxed' | awk '{sub(/bee|parrot|at/, "--")} 1'
+# c--s dog bee parrot foxed
+echo 'cats dog bee parrot foxed' | awk '{sub(/parrot|at|bee/, "--")} 1'
+# c--s dog bee parrot foxed
+```
+
+In case of matches starting from the same location, for example `spar` and `spared`, the longest matching portion gets precedence. Unlike other regular expression implementations, left-to-right priority for alternation comes into play only if the length of the matches are the same. See [Longest match wins](#longest-match-wins) and [Backreferences](#backreferences) sections for more examples. See [regular-expressions: alternation](https://www.regular-expressions.info/alternation.html) for more information on this topic.
+
+```sh
+echo 'spared party parent' | awk '{sub(/spa|spared/, "**")} 1'
+# ** party parent
+echo 'spared party parent' | awk '{sub(/spared|spa/, "**")} 1'
+# ** party parent
+
+# other regexp flavors like Perl have left-to-right priority
+echo 'spared party parent' | perl -pe 's/spa|spared/**/'
+# **red party parent
+```
+
+---
+
+## Grouping
+
+Often, there are some common things among the regular expression alternatives. It could be common characters or qualifiers like the anchors. In such cases, you can group them using a pair of parentheses metacharacters. Similar to `a(b+c)d = abd+acd` in maths, you get `a(b|c)d = abd|acd` in regular expressions.
+
+::: tabs
+
+@tab:active without grouping
+
+```sh  
+printf 'red\nreform\nread\narrest\n' | awk '/reform|rest/'
+# reform
+# arrest
+```
+
+@tab with grouping
+
+```sh
+printf 'red\nreform\nread\narrest\n' | awk '/re(form|st)/'
+# reform
+# arrest
+```
+
+:::
+
+::: tabs
+
+@tab:active without grouping
+
+```sh
+awk '/\<par\>|\<part\>/' anchors.txt
+# sub par
+# cart part tart mart
+```
+
+@tab taking out common anchors
+
+```sh
+awk '/\<(par|part)\>/' anchors.txt
+# sub par
+# cart part tart mart
+```
+
+@tab taking out common characters as well
+
+> you'll later learn a better technique instead of using empty alternate
+
+```sh
+awk '/\<par(|t)\>/' anchors.txt
+# sub par
+# cart part tart mart
+```
+
+:::
+
+---
+
+## Matching the metacharacters
+
+You have already seen a few metacharacters and escape sequences that help compose a regular expression. To match the metacharacters literally, i.e. to remove their special meaning, prefix those characters with a `\` character. To indicate a literal `\` character, use `\\`.
+
+Unlike `grep` and `sed`, the string anchors have to be always escaped to match them literally as there is no BRE mode in `awk`. They do not lose their special meaning even when not used in their customary positions.
+
+```sh
+# awk '/b^2/' will not work even though ^ isn't being used as anchor
+# b^2 will work for both grep and sed if you use BRE syntax
+printf 'a^2 + b^2 - C*3\nd = c^2' | awk '/b\^2/'
+# a^2 + b^2 - C*3
+
+# note that ')' doesn't need to be escaped
+echo '(a*b) + c' | awk '{gsub(/\(|)/, "")} 1'
+# a*b + c
+
+echo '\learn\by\example' | awk '{gsub(/\\/, "/")} 1'
+# /learn/by/example
+```
+
+::: info 
+
+Handling the replacement section metacharacters will be discussed in the [Backreferences](#backreferences) section.
+
+:::
+
+---
+
+## Using string literal as a regexp
+
+The first argument to the `sub` and `gsub` functions can be a string as well, which will then be converted to a regexp. This is handy in a few cases. For example, if you have many `/` characters in the search pattern, it might become easier to use a string literal instead of a regexp.
+
+```sh
+p='/home/learnbyexample/reports'
+echo "$p" | awk '{sub(/\/home\/learnbyexample\//, "~/")} 1'
+# ~/reports
+echo "$p" | awk '{sub("/home/learnbyexample/", "~/")} 1'
+# ~/reports
+
+# filtering example
+printf '/home/joe/1\n/home/john/1\n' | awk '/\/home\/joe\//'
+# /home/joe/1
+printf '/home/joe/1\n/home/john/1\n' | awk '$0 ~ "/home/joe/"'
+# /home/joe/1
+```
+
+In the above examples, the string literal was supplied directly. But any other expression or variable can be used as well, examples for which will be shown later in this chapter. The reason why string isn't always used to represent regexp is that the special meaning for the `\` character will clash. For example:
+
+```sh
+awk 'gsub("\<par\>", "X")' anchors.txt
+# awk: cmd. line:1: warning: escape sequence `\<' treated as plain `<'
+# awk: cmd. line:1: warning: escape sequence `\>' treated as plain `>'
+
+# you'll need \\ to represent a single \
+awk 'gsub("\\<par\\>", "X")' anchors.txt
+# sub X
+# regexp literal is better suited in these cases
+awk 'gsub(/\<par\>/, "X")' anchors.txt
+# sub X
+
+# another example
+echo '\learn\by\example' | awk '{gsub("\\\\", "/")} 1'
+# /learn/by/example
+echo '\learn\by\example' | awk '{gsub(/\\/, "/")} 1'
+# /learn/by/example
+```
+
+::: info 
+
+See [gawk manual: Gory details](https://www.gnu.org/software/gawk/manual/gawk.html#Gory-Details) for more information than you'd want to know.
+
+:::
+
+---
+
+## The dot meta character
+
+The dot metacharacter serves as a placeholder to match any character (including the newline character). Later you'll learn how to define your own custom placeholder for a limited set of characters.
+
+```sh
+# 3 character sequence starting with 'c' and ending with 't'
+echo 'tac tin cot abc:tyz excited' | awk '{gsub(/c.t/, "-")} 1'
+# ta-in - ab-yz ex-ed
+
+# any character followed by 3 and again any character
+printf '42\t3500\n' | awk '{gsub(/.3./, ":")} 1'
+# 42:00
+
+# example to show that . matches \n as well
+# 'c' followed by any character followed by 'x'
+awk 'BEGIN{s="abc\nxyz"; sub(/c.x/, " ", s); print s}'
+# ab yz
+```
+
+---
+
+
 <TagLinks/>

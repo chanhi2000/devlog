@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/Ej-truz7tgpNU-Qqq1WzsIaCGiXvVi71MmkeZB8J9zNSJrCY-0LbyZPnev_DokVSEEYu1TAvpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LJO_Nb03Zxg", "title": "The History of Parallelism Support in Java" },
+    { "id": "-CZUJmaZJWk", "title": "Overview of the Java Fork-Join Framework" },
+    { "id": "kc3BxVSXKO4", "title": "The Java ForkJoinTask Class" },
+    { "id": "tXrrehxQ9Ew", "title": "Subclasses of the Java ForkJoinTask Class" },
+    { "id": "QrzlGA8710w", "title": "The Java ForkJoinPool Class" },
+    { "id": "a0A-3PfMND0", "title": "Evaluating Java’s Concurrency &amp; Parallelism Mechanisms &amp; Frameworks" },
+    { "id": "w9ANZlBgNG4", "title": "When to Apply Parallelism in Practice" },
     { "id": "2LRqXqOIuJc", "title": "The Java Object-Oriented Image Crawler Case Study (Part 2)" }, 
     { "id": "sxUKTXvR3eI", "title": "The Java Object-Oriented Image Crawler Case Study (Part 1)" }, 
     { "id": "bnUYX-XBvhI", "title": "Walkthrough of Assignment 2A in the Summer of 2023" }, 

@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "NRXFnVN-xhU", "title": "Energy Consumption of Data Centers" },
     { "id": "0UIpg19KECw", "title": "The Nix Phone and the end of Android" },
     { "id": "0X2B6YpJwDc", "title": "retronetcall - Teletex: The brief abandoned step between Telex and Telefax" },
     { "id": "9dQYIabmiFo", "title": "[r3s]  (de) Practical bruteforce of military grade AES-1024 (Sylvain Pelissier, Boi Sletterink)  deu" }, 

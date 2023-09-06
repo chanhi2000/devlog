@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "AcademyNet.net1",
+    "name": "AcademyNet",
+    "profile": "https://yt3.googleusercontent.com/lBgDZ7gdBOvbBaJL1zZez_ymZElAonTndtkX_AEVqm6ULjrlEeIqM-lmlwr1Lb0UEKRBBydAugg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Bzp2rliaT4G_qsu6VtVy-SkhGea5kDY9oqIO6Qb4j7vra549_gBUbnzJLGisVOAqzV1b9ehW5g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zRRXcxSPdRI", "title": "How to Make Card Hover Animation | HTML CSS #shorts" },
+    { "id": "-mHyTzHkgnk", "title": "How to Make Interactive Button | HTML CSS" },
+    { "id": "iaTCTNcO5QI", "title": "How to Make Border Color Animation | HTML CSS" },
+    { "id": "zlGNIx-Dy9o", "title": "How to Make Input Animation | HTML CSS" }        
+  ]
+}

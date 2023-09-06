@@ -1444,5 +1444,15 @@
     "desc": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals",
     "topics": ["python", "cpu", "profiler", "gpu", "performance-analysis", "memory-allocation", "profiling", "cpu-profiling", "memory-consumption", "gpu-programming", "python-profilers", "scalene", "profiles-memory", "performance-cpu"],
     "officialSite": ""
+  }, {
+    "repo": "tjy-gitnub/win12",
+    "desc": "Windows 12 网页版，在线体验 点击下面的链接在线体验",
+    "topics": ["css", "html", "js", "windows-12"],
+    "officialSite": "https://tjy-gitnub.github.io/win12/desktop.html"
+  }, {
+    "repo": "facebook/react",
+    "desc": "The library for web and native user interfaces",
+    "topics": ["react", "javascript", "library", "ui", "frontend", "declarative"],
+    "officialSite": "https://react.dev"
   }
 ]

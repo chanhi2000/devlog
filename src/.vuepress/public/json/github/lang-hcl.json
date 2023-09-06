@@ -14,5 +14,10 @@
     "desc": "A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform",
     "topics": ["aws", "documentation", "civil-service", "architecture-decisions", "modernisation-platform"],
     "officialSite": "https://user-guide.modernisation-platform.service.justice.gov.uk"
+  }, {
+    "repo": "iam-veeramalla/terraform-zero-to-hero",
+    "desc": "Master Terraform in 7 days using this Zero to Hero course.",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "wasmio",
+    "name": "WASM I/O",
+    "profile": "https://yt3.googleusercontent.com/KJBCo0TssDFYejSVmO-6ymHOZjgW-9E2u-z5jJsL8GTQMNmaA0WLZnrLZ3lQ79X94oszQ0vemA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/M6veTM79UCnod5s3Ibothrsio9pgu3fnD5kOLQ3wvIg_5WDQ4qUDVqn3WLMaWhzVFFeFfJRnYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Nkjc9r0WDNo", "title": "Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023" }    
+  ]
+}

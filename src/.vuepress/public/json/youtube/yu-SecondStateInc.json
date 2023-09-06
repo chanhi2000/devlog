@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SecondStateInc",
+    "name": "Second State",
+    "profile": "https://yt3.googleusercontent.com/6RD1kcPUHIuxL_KCYf7Zeouda7MFrezUCw7dVwIesyzb83oHr8u_CCmjWheI0kF4rACd4RptFQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Lpq-y5I46l8", "title": "WasmEdge Community Meeting #19" }    
+  ]
+}

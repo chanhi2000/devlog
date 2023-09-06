@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Xlke5PuSCnY", "title": "Solution: Front-End Development Challenge in C#" },
     { "id": "pPNT1tuIUwo", "title": "How Do I Become a Front-End Developer in C#" },
     { "id": "CI34yj-I8ss", "title": "Learn to Build Games with Unity and C# - Major Course Announcement" },
     { "id": "h5KG5MY_-9k", "title": "How To Upgrade Bootstrap in ASP.NET Core Web Applications - Blazor, MVC, Razor Pages, etc." },
