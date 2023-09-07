@@ -124,6 +124,14 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Anton Putra
+
+<MyYouTubeItems jsonName="yu-AntonPutra" />
+
+<!-- Anton Putra -->
+
+---
+
 ## kubetm
 
 <MyYouTubeItems jsonName="yu-kubetm8737" />

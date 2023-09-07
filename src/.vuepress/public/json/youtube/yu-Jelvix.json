@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Jelvix",
+    "name": "Jelvix | TECH IN 5 MINUTES",
+    "profile": "https://yt3.googleusercontent.com/O34TmOSS48QwVBiejvsONZ1cRhlUXob-NmVcze2z1Glfq9MLzMF9abRjRR_h7Sc20Q_Kpc7aBQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2m8NGC9xQaV3oOJ6YdNYRJbwAT6BVX-fHr_AO4zhOWwy4u1p4tFO9X1AHeceiPBYbuL5Qunr=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NDu0ffJlek4", "title": ".NET Framework explained in 30 SECONDS! #shorts #programming #coding" },
+    { "id": "nVPEccgwJR0", "title": "Ruby on Rails in 30 SECONDS! #shorts #programming #tech" }        
+  ]
+}

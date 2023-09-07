@@ -553,6 +553,14 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
    
 ---
 
+## Harsivo Edu
+
+<MyYouTubeItems jsonName="yu-HarsivoEdu" />
+
+<!-- Harsivo Edu -->
+
+---
+
 ## Misc
 
 <!-- [Gary Tokman][yu-fgary] -->

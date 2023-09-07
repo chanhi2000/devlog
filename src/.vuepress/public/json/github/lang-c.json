@@ -404,5 +404,20 @@
     "desc": "Doom for 16-bit DOS computers",
     "topics": ["doom", "ms-dos"],
     "officialSite": ""
+  }, {
+    "repo": "ddosify/alaz",
+    "desc": "Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring",
+    "topics": ["kubernetes", "monitoring", "metrics", "prometheus", "ebpf", "observability", "ddosify"],
+    "officialSite": "https://ddosify.com"
+  }, {
+    "repo": "SEED-EA/O1ShufflingGrouping",
+    "desc": "The code to accompany \"Constant Time Stateless Shuffling and Grouping\"",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "jqlang/jq",
+    "desc": "Command-line JSON processor",
+    "topics": ["jq"],
+    "officialSite": "https://jqlang.github.io/jq"
   }
 ]

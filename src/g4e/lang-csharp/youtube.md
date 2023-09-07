@@ -229,6 +229,22 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Sameer Saini
+
+<MyYouTubeItems jsonName="yu-SameerSaini" />
+
+<!-- Sameer Saini -->
+
+---
+
+## The Code Wolf
+
+<MyYouTubeItems jsonName="yu-alexthecodewolf" />
+
+<!-- The Code Wolf -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

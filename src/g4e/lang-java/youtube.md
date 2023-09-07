@@ -669,4 +669,11 @@ meta:
 
 ---
 
+## Microservices Lab
+
+<MyYouTubeItems jsonName="yu-microserviceslab5515" />
+
+<!-- Microservices Lab -->
+
+---
 <TagLinks />

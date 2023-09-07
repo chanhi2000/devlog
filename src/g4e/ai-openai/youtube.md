@@ -258,6 +258,14 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Brett Malinowski
+
+<MyYouTubeItems jsonName="yu-TheBrettWay" />
+
+<!-- Brett Malinowski -->
+
+---
+
 ## Real Vision
 
 <MyYouTubeItems jsonName="yu-RealVisionFinance" />

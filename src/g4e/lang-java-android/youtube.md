@@ -229,6 +229,14 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Android Pro Coder
+
+<MyYouTubeItems jsonName="yu-androidprocoder" />
+
+<!-- Android Pro Coder -->
+
+---
+
 ## 하울의 코딩 채널
 
 <MyYouTubeItems jsonName="yu-howl_coding" />

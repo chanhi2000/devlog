@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "LearnOpenCV",
+    "name": "LearnOpenCV",
+    "profile": "https://yt3.googleusercontent.com/M0L8tIhPOV5sSch22_IEPkh2Ehu9MN1TqS56WU2PMLYl_-H0gLzU6zMZgN0QqNCNk2SZKfvl7t8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gzYqW5hmeAoMcpSeBBOqcWUPa8r0Qe-kaHr17UVUmfEaibEzEZrrJuHk10sHB4IiIIm-G-dgLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tzyNRR9bJV8", "title": "Convert Video Lectures to Slides with OpenCV: Frame Differencing &amp; Background Estimation Explained" },
+    { "id": "ZxA5qAy2yoI", "title": "Install OpenCV on Windows in 2 minutes (C++)" }
+  ]
+}

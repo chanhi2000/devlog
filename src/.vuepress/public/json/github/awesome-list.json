@@ -644,5 +644,20 @@
     "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
     "topics": ["finance", "awesome", "book", "paper", "trading-bot", "algotrading", "quant", "awesome-list", "trading-strategies", "trading-algorithms", "alpha", "quantitative-finance", "futures", "algorithmic-trading", "quantitative-trading", "futures-historical-data", "arbitrage-bot", "futuresmarkets", "futures-market"],
     "officialSite": "https://edarchimbaud.com"
+  }, {
+    "repo": "rodolfomarianocy/OSCP-Tricks-2023",
+    "desc": "OSCP 2023 Preparation Guide | Courses, Tricks, Tutorials, Exercises, Machines",
+    "topics": ["pentesting", "tips-and-tricks", "oscp", "offensivesecurity"],
+    "officialSite": ""
+  }, {
+    "repo": "cloudcommunity/Free-Certifications",
+    "desc": "A curated list of free courses & certifications.",
+    "topics": ["learning", "free", "freebie", "certification", "exams", "hacktoberfest", "examination", "free-learning", "freebies", "free-course", "free-courses", "examinations", "certifications", "free-certifications", "free-coupon", "free-certification", "free-coupons", "free-voucher", "free-vouchers"],
+    "officialSite": ""
+  }, {
+    "repo": "e2b-dev/awesome-ai-agents",
+    "desc": "A list of AI autonomous agents",
+    "topics": ["python", "agent", "awesome", "ai", "artificial-intelligence", "openai", "gpt", "copilot", "autonomous-agents", "gpt-4", "autogpt", "babyagi", "gpt-engineer"],
+    "officialSite": "https://e2b.dev/docs"
   }
 ]

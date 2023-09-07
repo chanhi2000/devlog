@@ -569,6 +569,16 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "desc": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "topics": ["opencv", "machine-learning", "real-time", "caffe", "computer-vision", "deep-learning", "cpp", "face", "keypoints", "human-pose-estimation", "pose-estimation", "human-behavior-understanding", "cvpr-2017", "pose", "openpose", "human-pose", "keypoint-detection", "multi-person", "hand-estimation", "foot-estimation"],
+    "officialSite": "https://cmu-perceptual-computing-lab.github.io/openpose"
+  }, {
+    "repo": "linuxdeepin/deepin-unioncode",
+    "desc": "IDE authored by deepin",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

@@ -119,5 +119,10 @@
     "desc": "The Laravel Framework.",
     "topics": ["php", "laravel", "framework"],
     "officialSite": "https://laravel.com"
+  }, {
+    "repo": "magento/magento2",
+    "desc": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+    "topics": ["php", "ecommerce", "magento", "magento2", "ecommerce-platform", "hacktoberfest"],
+    "officialSite": "http://www.magento.com"
   }
 ]

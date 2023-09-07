@@ -1454,5 +1454,10 @@
     "desc": "The library for web and native user interfaces",
     "topics": ["react", "javascript", "library", "ui", "frontend", "declarative"],
     "officialSite": "https://react.dev"
+  }, {
+    "repo": "safak/next-blog",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -2,12 +2,10 @@
   "channel": {
     "id": "Snyksec",
     "name": "Snyk",
-    "profile": "https://yt3.googleusercontent.com/Odbr1zelPujSnHP6I0BoBe0LV-RSo2-y3HKrgc9jUpX41rZ71ln3xBCx--Zs8mhgxS05zLPWyA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/Odbr1zelPujSnHP6I0BoBe0LV-RSo2-y3HKrgc9jUpX41rZ71ln3xBCx--Zs8mhgxS05zLPWyA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bQq-N-VBJbTtYGbVk9mNz56W60McBYdgGyzjuBpjK9MhSrf_9uKKRk1pOGfwN4qqja-WIo1phw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)"
   },
   "videos": [
-    {
-      "id": "uJ_hOA9IQw0",
-      "title": "Understanding NPM Dependency Confusions - What You Need to Know"
-    }
+    { "id": "uJ_hOA9IQw0", "title": "Understanding NPM Dependency Confusions - What You Need to Know" }
   ]
 }

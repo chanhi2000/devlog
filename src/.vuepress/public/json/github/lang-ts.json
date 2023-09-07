@@ -1338,5 +1338,15 @@
     "desc": "Open source observability and analytics for LLM applications",
     "topics": [],
     "officialSite": "https://langfuse.com"
+  }, {
+    "repo": "NetEase/tango",
+    "desc": "A source code based low-code builder without private schema. Integrate low-code into your local development workflow seamlessly.",
+    "topics": ["builder", "website-builder", "site-builder", "netease", "web-builder", "low-code", "no-code", "nocode", "lowcode"],
+    "officialSite": "https://netease.github.io/tango"
+  }, {
+    "repo": "GHGHGHKO/dalgona",
+    "desc": "🦀Tauri desktop app with shadcn/ui, Next.js, gif memes API",
+    "topics": ["rust", "nextjs", "desktop", "tauri", "tenor"],
+    "officialSite": ""
   }
 ]

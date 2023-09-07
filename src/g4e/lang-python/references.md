@@ -158,4 +158,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Josep Rubió Piqué
+
+- [Playing with genetic algorithms in python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
+
+---
+
 <TagLinks />

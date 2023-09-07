@@ -302,7 +302,7 @@ awk '/\<par\>|s$/' anchors.txt
 > note the use of gsub for multiple replacements
 
 ```sh
-$ echo 'cats dog bee parrot foxed' | awk '{gsub(/cat|dog|fox/, "--")} 1'
+echo 'cats dog bee parrot foxed' | awk '{gsub(/cat|dog|fox/, "--")} 1'
 # --s -- bee parrot --ed
 ```
 
@@ -492,5 +492,488 @@ awk 'BEGIN{s="abc\nxyz"; sub(/c.x/, " ", s); print s}'
 
 ---
 
+## Quantifiers
+
+Alternation helps you match one among multiple patterns. Combining the dot metacharacter with quantifiers (and alternation if needed) paves a way to perform logical AND between patterns. For example, to check if a string matches two patterns with any number of characters in between. Quantifiers can be applied to characters, groupings and some more constructs that'll be discussed later. Apart from the ability to specify exact quantity and bounded range, these can also match unbounded varying quantities.
+
+First up, the `?` metacharacter which quantifies a character or group to match `0` or `1` times. This helps to define optional patterns and build terser patterns.
+
+::: tabs
+
+@tab:active Case 1
+
+> same as: `awk '{gsub(/\<(fe.d|fed)\>/, "X")} 1'`
+
+```sh
+echo 'fed fold fe:d feeder' | awk '{gsub(/\<fe.?d\>/, "X")} 1'
+# X fold X feeder
+```
+
+@tab Case 2
+
+> same as: `awk '/\<par(|t)\>/'`
+
+```sh
+awk '/\<part?\>/' anchors.txt
+# sub par
+# cart part tart mart
+```
+
+@tab Case 3
+
+> same as: `awk '{gsub(/part|parrot/, "X")} 1'`
+
+```sh
+echo 'par part parrot parent' | awk '{gsub(/par(ro)?t/, "X")} 1'
+# par X X parent
+```
+
+@tab Case 4
+
+> same as: `awk '{gsub(/part|parrot|parent/, "X")} 1'`
+```sh
+echo 'par part parrot parent' | awk '{gsub(/par(en|ro)?t/, "X")} 1'
+# par X X X
+```
+
+@tab Case 5
+
+>  matches '`<`' or '`\<`' and they are both replaced with '`\<`'
+
+```sh
+echo 'apple \< fig ice < apple cream <' | awk '{gsub(/\\?</, "\\<")} 1'
+# apple \< fig ice \< apple cream \<
+```
+
+::: 
+
+The `*` metacharacter quantifies a character or group to match `0` or more times.
+
+::: tabs 
+
+@tab:active Case 1
+
+> 'f' followed by zero or more of 'e' followed by 'd'
+
+```sh
+echo 'fd fed fod fe:d feeeeder' | awk '{gsub(/fe*d/, "X")} 1'
+# X X fod fe:d Xer
+```
+
+@tab Case 2 
+
+> zero or more of '1' followed by '2'
+
+```sh
+echo '3111111111125111142' | awk '{gsub(/1*2/, "-")} 1'
+## 3-511114-
+```
+
+:::
+
+The `+` metacharacter quantifies a character or group to match `1` or more times.
+
+::: tabs
+
+@tab:active Case 1
+
+> 'f' followed by one or more of 'e' followed by 'd'
+
+```sh
+echo 'fd fed fod fe:d feeeeder' | awk '{gsub(/fe+d/, "X")} 1'
+# fd X fod fe:d Xer
+```
+
+@tab Case 2
+
+> one or more of '1' followed by optional '4' and then '2'
+
+```sh
+echo '3111111111125111142' | awk '{gsub(/1+4?2/, "-")} 1'
+# 3-5-
+```
+
+:::
+
+You can specify a range of integer numbers, both bounded and unbounded, using `{}` metacharacters. There are four ways to use this quantifier as listed below:
+
+| Quantifeir | Description |
+| :--- | :--- |
+| `{m,n}` | match `m` to `n` times |
+| `{m,}` | match at least `m` times |
+| `{,n}` | match up to `n` times (including `0` times) |
+| `{n}` | match exactly `n` times |
+
+> note that stray characters like space are not allowed anywhere within `{}`
+
+```sh
+echo 'ac abc abbc abbbc abbbbbbbbc' | awk '{gsub(/ab{1,4}c/, "X")} 1'
+# ac X X X abbbbbbbbc
+
+echo 'ac abc abbc abbbc abbbbbbbbc' | awk '{gsub(/ab{3,}c/, "X")} 1'
+# ac abc abbc X X
+
+echo 'ac abc abbc abbbc abbbbbbbbc' | awk '{gsub(/ab{,2}c/, "X")} 1'
+# X X X abbbc abbbbbbbbc
+
+echo 'ac abc abbc abbbc abbbbbbbbc' | awk '{gsub(/ab{3}c/, "X")} 1'
+# ac abc abbc X abbbbbbbbc
+```
+
+::: info 
+
+The `{}` metacharacters have to be escaped to match them literally. Similar to the `()` metacharacters, escaping `{` alone is enough. If it doesn't conform strictly to any of the four forms listed above, escaping is not needed at all.
+
+```sh
+echo 'a{5} = 10' | awk '{sub(/a\{5}/, "x")} 1'
+# x = 10
+echo 'report_{a,b}.txt' | awk '{sub(/_{a,b}/, "_c")} 1'
+# report_c.txt
+```
+
+:::
+
+---
+
+## Conditional AND
+
+Next up, how to construct conditional AND using dot metacharacter and quantifiers.
+
+> match 'Error' followed by zero or more characters followed by 'valid'
+
+```sh
+echo 'Error: not a valid input' | awk '/Error.*valid/'
+# Error: not a valid input
+```
+
+To allow matching in any order, you'll have to bring in alternation as well.
+
+> 'cat' followed by 'dog' or 'dog' followed by 'cat'
+
+```sh
+echo 'two cats and a dog' | awk '{gsub(/cat.*dog|dog.*cat/, "pets")} 1'
+# two pets
+echo 'two dogs and a cat' | awk '{gsub(/cat.*dog|dog.*cat/, "pets")} 1'
+# two pets
+```
+
+---
+
+## Longest match wins
+
+You've already seen an example where the longest matching portion was chosen if the alternatives started from the same location. For example `spar|spared` will result in `spared` being chosen over `spar`. The same applies whenever there are two or more matching possibilities from the same starting location. For example, `f.?o` will match `foo` instead of `fo` if the input string to match is `foot`.
+
+::: tabs
+
+@tab:active Case 1
+
+longest match among 'foo' and 'fo' wins here
+
+```sh 
+echo 'foot' | awk '{sub(/f.?o/, "X")} 1'
+# Xt
+```
+
+@tab Case 2
+
+everything will match here
+
+```sh
+echo 'car bat cod map scat dot abacus' | awk '{sub(/.*/, "X")} 1'
+# X
+```
+
+@tab Case 3
+
+longest match happens when `(1|2|3)+` matches up to '`1233`' only so that '12apple' can match as well
+
+```sh
+echo 'fig123312apple' | awk '{sub(/g(1|2|3)+(12apple)?/, "X")} 1'
+# fiX
+```
+
+@tab Case 4
+
+in other implementations like Perl, that is not the case precedence is left-to-right for greedy quantifiers
+
+```sh
+echo 'fig123312apple' | perl -pe 's/g(1|2|3)+(12apple)?/X/'
+# fiXapple
+```
+
+While determining the longest match, the overall regular expression matching is also considered. That's how the `Error.*valid` example worked. If `.*` had consumed everything after `Error`, there wouldn't be any more characters to try to match `valid`. So, among the varying quantity of characters to match for `.*`, the longest portion that satisfies the overall regular expression is chosen. Something like `a.*b` will match from the first `a` in the input string to the last `b`. In other implementations, like Perl, this is achieved through a process called __backtracking__. These approaches have their own advantages and disadvantages and have cases where the pattern can result in exponential time consumption.
+
+::: tabs
+
+@tab:active Case 1
+
+> from the start of line to the last 'b' in the line
+
+```sh 
+echo 'car bat cod map scat dot abacus' | awk '{sub(/.*b/, "-")} 1'
+# -acus
+```
+
+@tab Case 2
+
+from the first 'b' to the last 't' in the line
+
+```sh
+echo 'car bat cod map scat dot abacus' | awk '{sub(/b.*t/, "-")} 1'
+# car - abacus
+```
+
+@tab Case 3
+
+from the first 'b' to the last 'at' in the line
+
+```sh
+echo 'car bat cod map scat dot abacus' | awk '{sub(/b.*at/, "-")} 1'
+# car - dot abacus
+```
+
+@tab Case 4
+
+here 'm*' will match 'm' zero times as that gives the longest match
+
+```sh
+echo 'car bat cod map scat dot abacus' | awk '{sub(/a.*m*/, "-")} 1'
+# c-
+```
+
+:::
+
+---
+
+## Character classes
+
+To create a custom placeholder for limited set of characters, enclose them inside `[]` metacharacters. It is similar to using single character alternations inside a grouping, but with added flexibility and features. Character classes have their own versions of metacharacters and provide special predefined sets for common use cases. Quantifiers are also applicable to character classes.
+
+::: tabs
+
+@tab:active Case 1 
+
+> same as: `awk '/cot|cut/' and awk '/c(o|u)t/'`
+
+```sh
+printf 'cute\ncat\ncot\ncoat\ncost\nscuttle\n' | awk '/c[ou]t/'
+# cute
+# cot
+# scuttle
+```
+
+@tab Case 2
+
+
+> same as: `awk '/.(a|e|o)t/'`
+
+```sh
+printf 'meeting\ncute\nboat\nat\nfoot\n' | awk '/.[aeo]t/'
+# meeting
+# boat
+# foot
+```
+
+@tab Case 3
+
+> same as: `awk '{gsub(/\<(s|o|t)(o|n)\>/, "X")} 1'`
+
+```sh
+echo 'no so in to do on' | awk '{gsub(/\<[sot][on]\>/, "X")} 1'
+# no X in X do X
+```
+
+@tab Case 4
+
+lines made up of letters 'o' and 'n', line length at least 2 `words.txt` contains dictionary words, one word per line
+
+```sh
+awk '/^[on]{2,}$/' words.txt
+# no
+# non
+# noon
+# on
+```
+
+:::
+
+---
+
+## Character class metacharacters
+
+Character classes have their own metacharacters to help define the sets succinctly. Metacharacters outside of character classes like `^`, `$`, `()` etc either don't have special meaning or have a completely different one inside the character classes.
+
+First up, the `-` metacharacter that helps to define a range of characters instead of having to specify them all individually.
+
+::: tabs
+
+@tab:active Case 1
+
+> same as: `awk '{gsub(/[0123456789]+/, "-")} 1'`
+
+```sh
+echo 'Sample123string42with777numbers' | awk '{gsub(/[0-9]+/, "-")} 1'
+# Sample-string-with-numbers
+```
+
+@tab Case 2
+
+> whole words made up of lowercase alphabets and digits only
+
+```sh
+echo 'coat Bin food tar12 best' | awk '{gsub(/\<[a-z0-9]+\>/, "X")} 1'
+# X Bin X X X
+```
+
+@tab Case 3
+
+> whole words made up of lowercase alphabets, starting with 'p' to 'z'
+
+```sh
+echo 'road i post grip read eat pit' | awk '{gsub(/\<[p-z][a-z]*\>/, "X")} 1'
+# X i X grip X eat X
+```
+
+:::
+
+Character classes can also be used to construct numeric ranges. However, it is easy to miss corner cases and some ranges are complicated to design.
+
+::: tabs
+
+@tab:active Case 1
+
+> numbers between 10 to 29
+
+```sh
+echo '23 154 12 26 34' | awk '{gsub(/\<[12][0-9]\>/, "X")} 1'
+# X 154 X X 34
+```
+
+@tab Case 2
+
+> numbers >= 100 with optional leading zeros
+
+```sh
+echo '0501 035 154 12 26 98234' | awk '{gsub(/\<0*[1-9][0-9]{2,}\>/, "X")} 1'
+# X 035 X 12 26 X
+```
+
+:::
+
+Next metacharacter is `^` which has to be specified as the first character of the character class. It negates the set of characters, so all characters other than those specified will be matched. As highlighted earlier, handle negative logic with care, you might end up matching more than you wanted.
+
+::: tabs
+
+@tab:active Case 1
+
+replace all non-digit characters
+
+```sh
+echo 'Sample123string42with777numbers' | awk '{gsub(/[^0-9]+/, "-")} 1'
+# -123-42-777-
+```
+
+@tab Case 2
+
+delete last two columns
+
+```sh
+echo 'apple:123:banana:cherry' | awk '{sub(/(:[^:]+){2}$/, "")} 1'
+# apple:123
+```
+
+@tab Case 3
+
+sequence of characters surrounded by a unique character
+
+```sh
+echo 'I like "mango" and "guava"' | awk '{gsub(/"[^"]+"/, "X")} 1'
+# I like X and X
+```
+
+@tab Case 4
+
+sometimes it is simpler to positively define a set than negation
+
+> same as: `awk '/^[^aeiou]*$/'`
+
+```sh
+printf 'tryst\nfun\nglyph\npity\nwhy\n' | awk '!/[aeiou]/'
+# tryst
+# glyph
+# why
+```
+
+:::
+
+Some commonly used character sets have predefined escape sequences:
+
+- `\w` matches all __word__ characters `[a-zA-Z0-9_]` (recall the description for word boundaries)
+- `\W` matches all non-word characters (recall duality seen earlier, like `\y` and `\B`)
+- `\s` matches all __whitespace__ characters: tab, newline, vertical tab, form feed, carriage return and space
+- `\S` matches all non-whitespace characters
+
+These escape sequences cannot be used inside character classes. Also, as mentioned earlier, these definitions assume ASCII input.
+
+::: tabs
+
+@tab:active Case 1
+
+match all non-word characters
+
+```sh
+echo 'load;err_msg--\/ant,r2..not' | awk '{gsub(/\W+/, "|")} 1'
+# load|err_msg|ant|r2|not
+```
+
+@tab Case 2
+
+replace all sequences of whitespaces with a single space
+
+```sh
+printf 'hi  \v\f  there.\thave   \ra nice\t\tday\n' | awk '{gsub(/\s+/, " ")} 1'
+# hi there. have a nice day
+```
+
+@tab Case 3
+
+`\w` would simply match `w` inside character classes
+
+```sh
+echo 'w=y\x+9*3' | awk '{gsub(/[\w=]/, "")} 1'
+# y\x+9*3
+```
+
+:::
+
+::: warning 
+
+`awk` doesn't support `\d` and `\D`, commonly featured in other implementations as a shortcut for all the digits and non-digits.
+
+::: tabs
+
+@tab:active Case 1
+
+`\d` will match just the 'd' character and produces a warning as well
+
+```sh
+echo '42\d123' | awk '{gsub(/\d+/, "-")} 1'
+# awk: cmd. line:1: warning: regexp escape sequence
+#                   '\d' is not a known regexp operator
+# 42\-123
+```
+
+@tab Case 2
+
+`\d` here matches all digit characters
+
+```sh
+echo '42\d123' | perl -pe 's/\d+/-/g'
+# -\d-
+```
+
+:::
+
+---
 
 <TagLinks/>

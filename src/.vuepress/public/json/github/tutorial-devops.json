@@ -34,5 +34,10 @@
     "desc": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
     "topics": ["python", "git", "linux", "docker", "kubernetes", "jenkins", "ansible", "devops", "networking", "containers", "grafana", "interview", "ci-cd", "cheatsheet", "kubernetes-monitoring", "hacktoberfest", "devops-cheatsheets", "hacktoberfest2020", "hacktoberfest-2020"],
     "officialSite": ""
+  }, {
+    "repo": "leandromoreira/linux-network-performance-parameters",
+    "desc": "Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺",
+    "topics": ["linux", "performance", "kernel", "tcp", "network", "sysctl"],
+    "officialSite": "https://github.com/leandromoreira/linux-network-performance-parameters"
   }
 ]

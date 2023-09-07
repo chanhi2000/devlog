@@ -84,5 +84,10 @@
     "desc": "한국에서 iOS앱을 개발하는 회사의 iOS 기술 스펙을 아카이브합니다",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "SimplifyJobs/New-Grad-Positions",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM.",
+    "topics": ["university", "position", "jobs", "applications", "college", "hacktoberfest", "posting", "fulltime", "newgrad", "coderquad"],
+    "officialSite": ""
   }
 ]

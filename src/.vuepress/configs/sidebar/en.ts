@@ -1030,7 +1030,19 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/cli-text-processing-w-gnu-awk/16-further-reading.md',
         '/crashcourse/cli-text-processing-w-gnu-awk/17-exercise-solutions.md'        
       ]
-    },{
+    }, {
+      text: '🐚CLI Mastering Curl - Interactive Text Guide',
+      collapsible: true,
+      children: [
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/README.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/01-the-curl-project.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/02-command-line-options.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/03-urls.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/04-curl-basics.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/05-http.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/06-future.md',
+      ]
+    }, {
       text: '🧶Must Know JavaScript API',
       collapsible: true,
       children: [

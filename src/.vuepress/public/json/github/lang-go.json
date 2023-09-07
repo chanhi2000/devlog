@@ -729,5 +729,15 @@
     "desc": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
     "topics": ["golang", "relay", "tun", "proxy", "http-proxy", "socks5", "censorship-circumvention", "vpn", "quic", "reliable-udp", "hysteria"],
     "officialSite": "https://v2.hysteria.network"
+  }, {
+    "repo": "rook/rook",
+    "desc": "Storage Orchestration for Kubernetes",
+    "topics": ["docker", "kubernetes", "storage", "cncf", "etcd", "ceph", "cloud-native", "storage-cluster"],
+    "officialSite": "https://rook.io"
+  }, {
+    "repo": "pdtpartners/nix-snapshotter",
+    "desc": "Brings native understanding of Nix packages to containerd",
+    "topics": ["docker", "nix", "nixos", "containers", "docker-image", "containerd", "snapshotter", "container-image", "home-manager"],
+    "officialSite": ""
   }
 ]

@@ -1267,6 +1267,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## William Candillon
+
+<MyYouTubeItems jsonName="yu-wcandillon" />
+
+<!-- William Candillon -->
+
+---
+
 ## React-Native by Wilhelm (React-UI-Kit)
 
 <MyYouTubeItems jsonName="yu-reactuikit" />
