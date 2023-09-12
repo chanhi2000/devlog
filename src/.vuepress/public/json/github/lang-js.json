@@ -211,9 +211,9 @@
     "officialSite": ""
   }, {
     "repo": "actualbudget/actual",
-    "desc": "A local-first personal finance system",
-    "topics": [],
-    "officialSite": "https://actualbudget.github.io/docs"
+    "desc": "A local-first personal finance app",
+    "topics": ["hacktoberfest"],
+    "officialSite": "https://actualbudget.org"
   }, {
     "repo": "hgoebl/mobile-detect.js",
     "desc": "Device detection (phone, tablet, desktop, mobile grade, os, versions) ",
@@ -1459,5 +1459,10 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "antimatter15/splat",
+    "desc": "WebGL 3D Gaussian Splat Viewer",
+    "topics": [],
+    "officialSite": "https://antimatter15.com/splat"
   }
 ]

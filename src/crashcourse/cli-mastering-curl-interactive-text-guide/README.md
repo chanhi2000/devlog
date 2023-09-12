@@ -1,13 +1,13 @@
 ---
 lang: ko-KR
 title: Preface
-description: 🐚CLI Mastering Curl - Interactive Text Guide
+description: 🐚Mastering Curl - Interactive Text Guide
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "curl"]
 meta:
-  - name: 🐚CLI Mastering Curl - Interactive Text Guide
-    content: 🐚CLI Mastering Curl - Interactive Text Guide
+  - name: 🐚Mastering Curl - Interactive Text Guide
+    content: 🐚Mastering Curl - Interactive Text Guide
   - property: og:title
-    content: 🐚CLI Mastering Curl - Interactive Text Guide
+    content: 🐚Mastering Curl - Interactive Text Guide
   - property: og:description
     content: Preface
   - property: og:url

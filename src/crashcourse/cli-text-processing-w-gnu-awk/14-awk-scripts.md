@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 14. awk scripts
-description: 🐚CLI Text Processing with GNU awk > 14. awk scripts
+description: 🐚Text Processing with GNU awk > 14. awk scripts
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 14. awk scripts
+  - name: 🐚Text Processing with GNU awk > 14. awk scripts
     content: 14. awk scripts
   - property: og:title
     content: 14. awk scripts
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 14. awk scripts
+    content: 🐚Text Processing with GNU awk > 14. awk scripts
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/14-awk-scripts.html
 ---

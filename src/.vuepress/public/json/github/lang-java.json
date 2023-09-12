@@ -389,6 +389,11 @@
     "desc": "开屏跳过-安卓系统的开屏广告自动跳过助手",
     "topics": ["android", "accessibility", "ad", "screen", "click", "startup", "start", "activity", "auto", "splash", "skip"],
     "officialSite": "https://touchhelper.zfdang.com"
+  }, {
+    "repo": "kousiknath/LowLevelDesign",
+    "desc": "Various Low Level Object Oriented System Design problems are discussed in this space",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

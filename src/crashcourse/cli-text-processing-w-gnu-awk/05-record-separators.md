@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 5. Record separators
-description: 🐚CLI Text Processing with GNU awk > 5. Record separators
+description: 🐚Text Processing with GNU awk > 5. Record separators
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 5. Record separators
+  - name: 🐚Text Processing with GNU awk > 5. Record separators
     content: 5. Record separators
   - property: og:title
     content: 5. Record separators
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 5. Record separators
+    content: 🐚Text Processing with GNU awk > 5. Record separators
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/05-record-separators.html
 ---

@@ -2306,5 +2306,453 @@ exit 0 # success
 ---
 
 
+## <FontIcon icon="iconfont icon-file"/>`open-google-play`.ps1
+
+```card
+title: open-google-play.ps1
+desc: Opens Google Play. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-play.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google Play website.
+
+::: tabs 
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-google-play.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-play
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google Play
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google Play website.
+.EXAMPLE
+	PS> ./open-google-play
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://play.google.com/store"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-google-search`.ps1
+
+```card
+title: open-google-search.ps1
+desc: Opens Google Search. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-search.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google Search website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-google-search.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-search
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google Search
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google Search website.
+.EXAMPLE
+	PS> ./open-google-search
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://google.com"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-google-translate`.ps1
+
+```card
+title: open-google-translate.ps1
+desc: Opens Google Translate. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-translate.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script launches the Web browser with the Google Translate website.
+
+::: tabs
+
+@tab:activeParameters
+
+```powershell
+PS> ./open-google-translate.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-google-translate
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Google Translate
+.DESCRIPTION
+	This PowerShell script launches the Web browser with the Google Translate website.
+.EXAMPLE
+	PS> ./open-google-translate
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://translate.google.com"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-home-folder`.ps1
+
+```card
+title: open-home-folder.ps1
+desc: Opens the user's home folder. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-home-folder.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the File Explorer with the user's home folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-home-folder.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-home-folder
+# 
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the home folder
+.DESCRIPTION
+	This script launches the File Explorer with the user's home folder.
+.EXAMPLE
+	PS> ./open-home-folder
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$TargetDir = resolve-path "$HOME"
+	if (-not(test-path "$TargetDir" -pathType container)) {
+		throw "Home folder at 📂$TargetDir doesn't exist (yet)"
+	}
+	& "$PSScriptRoot/open-file-explorer.ps1" "$TargetDir"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-music-folder`.ps1
+
+```card
+title: open-music-folder.ps1
+desc: Opens the user's music folder. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-music-folder.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the File Explorer with the user's music folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-music-folder.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-music-folder
+#
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the music folder
+.DESCRIPTION
+	This script launches the File Explorer with the user's music folder.
+.EXAMPLE
+	PS> ./open-music-folder
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$TargetDir = resolve-path "$HOME/Music"
+	if (-not(test-path "$TargetDir" -pathType container)) {
+		throw "Music folder at 📂$TargetDir doesn't exist (yet)"
+	}
+	& "$PSScriptRoot/open-file-explorer.ps1" "$TargetDir"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-netflix`.ps1
+
+```card
+title: open-netflix.ps1
+desc: Starts the Netflix app. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-netflix.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Netflix application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-netflix.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-netflix
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Launches the Netflix app
+.DESCRIPTION
+	This script launches the Netflix application.
+.EXAMPLE
+	PS> ./open-netflix
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+Start-Process netflix:
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-microsoft-store`.ps1
+
+```card
+title: open-microsoft-store.ps1
+desc: Launches the Microsoft Store app. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-microsoft-store.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Microsoft Store application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-microsoft-store.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-microsoft-store
+# 
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Starts the Microsoft Store app
+.DESCRIPTION
+	This script launches the Microsoft Store application.
+.EXAMPLE
+	PS> ./open-microsoft-store
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+Start-Process ms-windows-store:
+exit 0 # success
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-notepad`.ps1
+
+```card
+title: open-notepad.ps1
+desc: Starts the Notepad app. Read more...
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-notepad.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)```
+```
+
+This script launches the Notepad application.
+
+::: tabs
+
+
+@tab:active Parameters
+
+```powershell
+PS>./open-notepad.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-notepad
+# 
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
+
 
 <TagLinks/>

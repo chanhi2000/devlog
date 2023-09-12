@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 5. HTTP
-description: 🐚CLI Mastering Curl - Interactive Text Guide > 5. HTTP
+description: 🐚Mastering Curl - Interactive Text Guide > 5. HTTP
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Mastering Curl - Interactive Text Guide > 5. HTTP
+  - name: 🐚Mastering Curl - Interactive Text Guide > 5. HTTP
     content: 5. HTTP
   - property: og:title
     content: 5. HTTP
   - property: og:description
-    content: 🐚CLI Mastering Curl - Interactive Text Guide > 5. HTTP
+    content: 🐚Mastering Curl - Interactive Text Guide > 5. HTTP
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-mastering-curl-interactive-text-guide/05-http.html
 ---

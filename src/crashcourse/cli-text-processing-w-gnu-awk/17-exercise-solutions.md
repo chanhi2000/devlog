@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 17. Exercise Solutions
-description: 🐚CLI Text Processing with GNU awk > 17. Exercise Solutions
+description: 🐚Text Processing with GNU awk > 17. Exercise Solutions
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 17. Exercise Solutions
+  - name: 🐚Text Processing with GNU awk > 17. Exercise Solutions
     content: 17. Exercise Solutions
   - property: og:title
     content: 17. Exercise Solutions
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 17. Exercise Solutions
+    content: 🐚Text Processing with GNU awk > 17. Exercise Solutions
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/17-exercise-solutions.html
 ---

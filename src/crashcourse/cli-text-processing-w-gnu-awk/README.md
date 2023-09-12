@@ -1,13 +1,13 @@
 ---
 lang: ko-KR
 title: Preface
-description: 🐚CLI Text Processing with GNU awk
+description: 🐚Text Processing with GNU awk
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk
-    content: 🐚CLI Text Processing with GNU awk
+  - name: 🐚Text Processing with GNU awk
+    content: 🐚Text Processing with GNU awk
   - property: og:title
-    content: 🐚CLI Text Processing with GNU awk
+    content: 🐚Text Processing with GNU awk
   - property: og:description
     content: Preface
   - property: og:url

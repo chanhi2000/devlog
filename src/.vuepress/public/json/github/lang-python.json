@@ -2558,5 +2558,15 @@
     "desc": "Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.",
     "topics": ["nlp", "pdf", "machine-learning", "natural-language-processing", "information-retrieval", "ocr", "deep-learning", "ml", "docx", "preprocessing", "pdf-to-text", "data-pipelines", "donut", "document-image-processing", "document-parser", "pdf-to-json", "document-image-analysis", "llm", "document-parsing", "langchain"],
     "officialSite": "https://www.unstructured.io"
+  }, {
+    "repo": "microsoft/promptflow",
+    "desc": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+    "topics": ["ai", "prompt", "gpt", "ai-applications", "ai-application-development", "llm", "prompt-engineering", "chatgpt"],
+    "officialSite": "https://microsoft.github.io/promptflow"
+  }, {
+    "repo": "ECTO-1A/AppleJuice",
+    "desc": "Apple BLE proximity pairing message spoofing",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -34,6 +34,7 @@ description: 🥋Regex > 📚References
 ## Tools
 
 - [iHateRegex](https://ihateregex.io)
+- [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov)
 
 ---
 

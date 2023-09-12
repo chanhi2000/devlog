@@ -187,6 +187,14 @@ tags: ["references", "swift"]
 
 - [Running Code When Your View Appears](https://chris.eidhof.nl/post/swiftui-on-appear-vs-task/)
 
+---
+
+## Yet another dev diary
+
+- [Develop with Cocoa for Apple Devices without using Objective-C](https://felixk15.github.io/posts/c_ocoa)
+
+---
+
 ## Misc
 
 - [`EXC_BAD_ACCESS` - Swizzling With Swift](https://academy.realm.io/posts/sash-zats-swift-swizzling)

@@ -99,6 +99,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Adventure in PC Emulation
+
+- [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

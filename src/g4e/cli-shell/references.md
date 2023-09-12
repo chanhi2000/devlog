@@ -105,6 +105,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## Chris Siebenmann
+
+- [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

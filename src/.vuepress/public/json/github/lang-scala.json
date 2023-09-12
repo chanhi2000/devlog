@@ -14,5 +14,10 @@
     "desc": "Open-source high-performance RISC-V processor",
     "topics": ["chisel3", "risc-v", "microarchitecture"],
     "officialSite": ""
+  }, {
+    "repo": "microsoft/SynapseML",
+    "desc": "Simple and Distributed Machine Learning",
+    "topics": ["microsoft", "http", "opencv", "data-science", "machine-learning", "scala", "big-data", "ai", "spark", "apache-spark", "deep-learning", "azure", "ml", "pyspark", "lightgbm", "cognitive-services", "databricks", "synapse", "model-deployment", "onnx"],
+    "officialSite": "http://aka.ms/spark"
   }
 ]

@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 6. Future
-description: 🐚CLI Mastering Curl - Interactive Text Guide > 6. Future
+description: 🐚Mastering Curl - Interactive Text Guide > 6. Future
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Mastering Curl - Interactive Text Guide > 6. Future
+  - name: 🐚Mastering Curl - Interactive Text Guide > 6. Future
     content: 6. Future
   - property: og:title
     content: 6. Future
   - property: og:description
-    content: 🐚CLI Mastering Curl - Interactive Text Guide > 6. Future
+    content: 🐚Mastering Curl - Interactive Text Guide > 6. Future
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-mastering-curl-interactive-text-guide/06-future.html
 ---

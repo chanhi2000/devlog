@@ -9,5 +9,10 @@
     "desc": "Performance Optimizer Observation Platform",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"],
+    "officialSite": "https://bun.sh"
   }
 ]

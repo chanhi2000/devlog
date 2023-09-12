@@ -155,6 +155,13 @@ description: 🐍Python > 📚References
 ## Adam Johnson
 
 - [Python Type Hints - `*args` and `**kwargs`](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs)
+- [Introducing `flake8-logging`](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging)
+
+---
+
+## ML and robotics notes
+
+- [Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
 
 ---
 

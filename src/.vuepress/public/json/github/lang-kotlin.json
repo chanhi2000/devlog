@@ -11,9 +11,9 @@
     "officialSite": ""
   }, {
     "repo": "PaperMC/Paper",
-    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
-    "topics": [],
-    "officialSite": ""
+    "desc": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+    "topics": ["java", "minecraft", "bukkit", "paper", "minecraft-server", "minecraft-api", "craftbukkit", "spigot-fork", "minecraft-performance", "tacos", "hacktoberfest", "paper-api", "papermc"],
+    "officialSite": "https://papermc.io"
   }, {
     "repo": "PaperMC/Paperclip",
     "desc": "Bootstrap utility and launcher for the Paper Minecraft server",

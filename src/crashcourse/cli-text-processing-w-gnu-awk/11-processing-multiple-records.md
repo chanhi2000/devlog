@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 11. Processing multiple records
-description: 🐚CLI Text Processing with GNU awk > 11. Processing multiple records
+description: 🐚Text Processing with GNU awk > 11. Processing multiple records
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 11. Processing multiple records
+  - name: 🐚Text Processing with GNU awk > 11. Processing multiple records
     content: 11. Processing multiple records
   - property: og:title
     content: 11. Processing multiple records
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 11. Processing multiple records
+    content: 🐚Text Processing with GNU awk > 11. Processing multiple records
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/11-processing-multiple-records.html
 ---

@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 15. Gotchas and Tips
-description: 🐚CLI Text Processing with GNU awk > 15. Gotchas and Tips
+description: 🐚Text Processing with GNU awk > 15. Gotchas and Tips
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 15. Gotchas and Tips
+  - name: 🐚Text Processing with GNU awk > 15. Gotchas and Tips
     content: 15. Gotchas and Tips
   - property: og:title
     content: 15. Gotchas and Tips
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 15. Gotchas and Tips
+    content: 🐚Text Processing with GNU awk > 15. Gotchas and Tips
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/15-gotchas-and-tips.html
 ---

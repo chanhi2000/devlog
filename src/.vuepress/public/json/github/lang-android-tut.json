@@ -24,5 +24,10 @@
     "desc": "Clean Architecture for Android - a sample project",
     "topics": ["android", "mvvm", "kotlin-android", "clean-architecture", "android-testing", "multi-module-project", "jetpack-compose", "hilt-android"],
     "officialSite": "https://amzn.to/3rBSxOb"
+  }, {
+    "repo": "repoFIRST-Tech-Challenge/FtcRobotController",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]

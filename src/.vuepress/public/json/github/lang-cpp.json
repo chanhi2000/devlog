@@ -579,6 +579,21 @@
     "desc": "IDE authored by deepin",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "topics": [],
+    "officialSite": "https://www.youtube.com/watch?v=ip641WmY4pA"
+  }, {
+    "repo": "hrydgard/ppsspp",
+    "desc": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
+    "topics": ["psp", "emulators", "ppsspp"],
+    "officialSite": "https://www.ppsspp.org"
+  }, {
+    "repo": "PCrnjak/PAROL6-Desktop-robot-arm",
+    "desc": "",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

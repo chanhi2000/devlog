@@ -144,5 +144,10 @@
     "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。",
     "topics": ["tutorial", "chinese", "english-learning"],
     "officialSite": ""
+  }, {
+    "repo": "dair-ai/ML-Papers-Explained",
+    "desc": "Explanation to key concepts in ML",
+    "topics": [],
+    "officialSite": ""
   }
 ]

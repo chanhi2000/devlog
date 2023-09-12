@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 16. Further Reading
-description: 🐚CLI Text Processing with GNU awk > 16. Further Reading
+description: 🐚Text Processing with GNU awk > 16. Further Reading
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 16. Further Reading
+  - name: 🐚Text Processing with GNU awk > 16. Further Reading
     content: 16. Further Reading
   - property: og:title
     content: 16. Further Reading
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 16. Further Reading
+    content: 🐚Text Processing with GNU awk > 16. Further Reading
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/16-further-reading.html
 ---

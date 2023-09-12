@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 12. Two file processing
-description: 🐚CLI Text Processing with GNU awk > 12. Two file processing
+description: 🐚Text Processing with GNU awk > 12. Two file processing
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 12. Two file processing
+  - name: 🐚Text Processing with GNU awk > 12. Two file processing
     content: 12. Two file processing
   - property: og:title
     content: 12. Two file processing
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 12. Two file processing
+    content: 🐚Text Processing with GNU awk > 12. Two file processing
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/12-two-file-processing.html
 ---

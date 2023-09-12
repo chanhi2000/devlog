@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: 3. Regular Expressions
-description: 🐚CLI Text Processing with GNU awk > 3. Regular Expressions
+description: 🐚Text Processing with GNU awk > 3. Regular Expressions
 tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
 meta:
-  - name: 🐚CLI Text Processing with GNU awk > 3. Regular Expressions
+  - name: 🐚Text Processing with GNU awk > 3. Regular Expressions
     content: 3. Regular Expressions
   - property: og:title
     content: 3. Regular Expressions
   - property: og:description
-    content: 🐚CLI Text Processing with GNU awk > 3. Regular Expressions
+    content: 🐚Text Processing with GNU awk > 3. Regular Expressions
   - property: og:url
     content: https://chanhi2000.github.io/crashcourse/cli-text-processing-w-gnu-awk/03-regular-expressions.html
 ---
@@ -973,6 +973,570 @@ echo '42\d123' | perl -pe 's/\d+/-/g'
 ```
 
 :::
+
+---
+
+## Named character sets
+
+A named character set is defined by a name enclosed between `[:` and `:]` and has to be used within a `character class` `[]`, along with other characters as needed.
+
+| Named set |	Description |
+| :---: | :--- |
+| `[:digit:]` |	`[0-9]` |
+| `[:lower:]` |	`[a-z]` |
+| `[:upper:]` |	`[A-Z]` |
+| `[:alpha:]` |	`[a-zA-Z]` |
+| `[:alnum:]` |	`[0-9a-zA-Z]` |
+| `[:xdigit:]` |	`[0-9a-fA-F]` |
+| `[:cntrl:]` |	control characters — first 32 ASCII characters and 127th (DEL) |
+| `[:punct:]` |	all the punctuation characters |
+| `[:graph:]` |	`[:alnum:]` and` [:punct:]` |
+| `[:print:]` |	`[:alnum:]`, `[:punct:]` and space |
+| `[:blank:]` |	space and tab characters |
+| `[:space:]` |	whitespace characters, same as `\s` |
+
+Here are some examples:
+
+```sh
+s='err_msg xerox ant m_2 P2 load1 eel'
+```
+::: tabs
+
+@tab:active Case 1
+
+```sh
+echo "$s" | awk '{gsub(/\<[[:lower:]]+\>/, "X")} 1'
+# err_msg X X m_2 P2 load1 X
+```
+
+@tab Case 2
+
+```sh
+echo "$s" | awk '{gsub(/\<[[:lower:]_]+\>/, "X")} 1'
+# X X X m_2 P2 load1 X
+```
+
+@tab Case 3
+
+```sh
+echo "$s" | awk '{gsub(/\<[[:alnum:]]+\>/, "X")} 1'
+# err_msg X X m_2 X X X
+```
+
+@tab Case 4
+
+retain only punctuation characters
+
+```sh
+echo ',pie tie#ink-eat_42' | awk '{gsub(/[^[:punct:]]+/, "")} 1'
+# ,#-_
+```
+
+:::
+
+---
+
+## Matching `character class` metacharacters literally
+
+Specific placement is needed to match `character class` metacharacters literally. Or, they can be escaped by prefixing `\` to avoid having to remember the different rules. As `\` is special inside character class, use `\\` to represent it literally.
+
+`-` should be the first or the last character.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+echo 'ab-cd gh-c 12-423' | awk '{gsub(/[a-z-]{2,}/, "X")} 1'
+# X X 12-423
+```
+
+@tab Case 2
+
+```sh
+# or escaped with \
+echo 'ab-cd gh-c 12-423' | awk '{gsub(/[a-z\-0-9]{2,}/, "X")} 1'
+# X X X
+```
+
+:::
+
+`]` should be the first character.
+
+::: tabs 
+
+@tab:active Case 1
+
+no match
+
+```sh
+printf 'int a[5]\nfig\n1+1=2\n' | awk '/[=]]/'
+```
+
+@tab Case 2
+
+correct usage
+
+```sh
+printf 'int a[5]\nfig\n1+1=2\n' | awk '/[]=]/'
+# int a[5]
+# 1+1=2
+```
+
+:::
+
+`[` can be used anywhere in the character set. Using `[][]` will match both `[` and `]`.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+echo 'int a[5].y' | awk '{gsub(/[x[y.]/, "")} 1'
+# int a5]
+```
+
+@tab Csee 2
+
+```sh
+printf 'int a[5]\nfig\n1+1=2\nwho]' | awk '/[][]/'
+# int a[5]
+# who]
+```
+
+:::
+
+`^` should be other than the first character.
+
+```sh
+echo 'f*(a^b) - 3*(a+b)/(a-b)' | awk '{gsub(/a[+^]b/, "c")} 1'
+# f*(c) - 3*(c)/(a-b)
+```
+
+
+::: warning 
+
+Combinations like `[.` or `[:` cannot be used together to mean two individual characters, as they have special meaning within `[]`. See [gawk manual: Using Bracket Expressions](https://www.gnu.org/software/gawk/manual/gawk.html#Bracket-Expressions) for more details.
+
+```sh
+echo 'int a[5]' | awk '/[x[.y]/'
+# awk: cmd. line:1: error: Unmatched [, [^, [:, [., or [=: /[x[.y]/
+ echo 'int a[5]' | awk '/[x[y.]/'
+# int a[5]
+```
+
+:::
+
+---
+
+## Escape sequences
+
+Certain ASCII characters like tab `\t`, carriage return `\r`, newline `\n`, etc have escape sequences to represent them. Additionally, any character can be represented using their ASCII value in octal `\NNN` or hexadecimal `\xNN` formats. Unlike character set escape sequences like `\w`, these can be used inside character classes.
+
+::: tabs
+
+@tab:active Case 1
+
+`\t` represents the tab character
+
+```sh
+printf 'apple\tbanana\tcherry\n' | awk '{gsub(/\t/, " ")} 1'
+# apple banana cherry
+```
+
+@tab Case 2
+
+these escape sequences work inside character class too
+
+```sh
+printf 'a\t\r\fb\vc\n' | awk '{gsub(/[\t\v\f\r]+/, ":")} 1'
+# a:b:c
+```
+
+@tab Case 3
+
+representing single quotes
+
+> use `\047` for octal format
+
+```sh 
+echo "universe: '42'" | awk '{gsub(/\x27/, "")} 1'
+# universe: 42
+```
+
+:::
+
+If a metacharacter is specified using the ASCII value format, it will still act as the metacharacter.
+
+::: tabs
+
+@tab:active Case 1
+
+`\x5e` is `^` character, acts as line anchor here
+
+```sh
+printf 'acorn\ncot\ncat\ncoat\n' | awk '/\x5eco/'
+# cot
+# coat
+```
+
+@tab Case 2
+
+`&` metacharacter in replacement will be discussed in a later section
+
+it represents the entire matched portion
+
+```sh
+echo 'hello world' | awk '{sub(/.*/, "[&]")} 1'
+# [hello world]
+```
+
+@tab Case 3
+
+`\x26` in hexadecimal is the `&` character
+
+```sh
+echo 'hello world' | awk '{sub(/.*/, "[\x26]")} 1'
+# [hello world]
+```
+
+:::
+
+Undefined sequences will result in a warning and treated as the character it escapes.
+
+```sh
+echo 'read' | awk '{sub(/\d/, "l")} 1'
+# awk: cmd. line:1: warning: regexp escape sequence
+#                   '\d' is not a known regexp operator
+# real
+```
+
+::: info 
+
+See [gawk manual: Escape Sequences](https://www.gnu.org/software/gawk/manual/gawk.html#Escape-Sequences) for full list and other details.
+
+:::
+
+---
+
+## Replace specific occurrence
+
+The third substitution function is gensub which can be used instead of both the `sub` and `gsub` functions. Syntax wise, `gensub` needs minimum three arguments. The third argument is used to indicate whether you want to replace all occurrences with `"g"` or a specific occurrence by passing a number. Another difference is that `gensub` returns a string value (irrespective of the substitution operation succeeding) instead of modifying the input.
+
+```sh
+s='apple:banana:cherry:fig:mango'
+```
+
+::: tabs
+
+@tab:active Case 1
+
+> same as: `sed 's/:/-/2'`
+- replace only the second occurrence of '`:`' with '`-`'
+- note that the output of gensub is passed to print here
+
+```sh
+echo "$s" | awk '{print gensub(/:/, "-", 2)}'
+# apple:banana-cherry:fig:mango
+```
+
+@tab Case 2
+
+> same as: `sed -E 's/[^:]+/X/3'`
+- replace only the third field with '123'
+
+```sh
+echo "$s" | awk '{print gensub(/[^:]+/, "123", 3)}'
+# apple:banana:123:fig:mango
+```
+
+:::
+
+The fourth argument for the `gensub` function allows you to specify a string or a variable on which the substitution has to be performed. Default is `$0`, as seen in the previous examples.
+
+> same as: `awk '{gsub(/[aeiou]/, "X", $4)} 1'`
+
+```sh
+echo '1 good 2 apples' | awk '{$4 = gensub(/[aeiou]/, "X", "g", $4)} 1'
+# 1 good 2 XpplXs
+```
+
+---
+
+## Backreferences
+
+The grouping metacharacters `()` are also known as capture groups. Similar to variables in programming languages, the portion captured by `()` can be referred later using backreferences. The syntax is `\N` where `N` is the capture group you want. Leftmost `(` in the regular expression is `\1`, next one is `\2` and so on up to `\9`. The `&` metacharacter represents entire matched string. As `\` is already special inside double quotes, you'll have to use `"\\1"` to represent `\1`.
+
+::: info 
+
+Backreferences of the form `\N` can only be used with the `gensub` function. `&` can be used with `sub`, `gsub` and `gensub` functions. `\0` can also be used instead of `&` with the `gensub` function.
+
+:::
+
+```sh
+```
+
+::: tabs
+
+@tab:active Case 1
+
+reduce `\\` to single `\` and delete if it is a single `\`
+
+```sh
+s='\[\] and \\w and \[a-zA-Z0-9\_\]'
+echo "$s" | awk '{print gensub(/(\\?)\\/, "\\1", "g")}'
+# [] and \w and [a-zA-Z0-9_]
+```
+
+@tab Case 2
+
+duplicate the first column value and add it as the final column
+
+```sh
+echo 'one,2,3.14,42' | awk '{print gensub(/^([^,]+).*/, "&,\\1", 1)}'
+# one,2,3.14,42,one
+```
+
+@tab Case 3
+
+add something at the start and end of string, gensub isn't needed here
+
+```sh
+echo 'hello world' | awk '{sub(/.*/, "Hi. &. Have a nice day")} 1'
+# Hi. hello world. Have a nice day
+```
+
+@tab Case 4
+
+here `{N}` refers to the last but Nth occurrence
+
+```sh
+s='car,art,pot,tap,urn,ray,ear'
+echo "$s" | awk '{print gensub(/(.*),((.*,){2})/, "\\1[]\\2", 1)}'
+# car,art,pot,tap[]urn,ray,ear
+```
+
+:::
+
+::: warning 
+
+See [unix.stackexchange: Why doesn't this sed command replace the 3rd-to-last "and"?](https://unix.stackexchange.com/q/579889/109046) for a bug related to the use of word anchors in the `((pat){N})` generic case.
+
+:::
+
+::: warning 
+
+Unlike other regular expression implementations, like `grep` or `sed` or `perl`, backreferences cannot be used in the search section in `awk`. See also [unix.stackexchange: backreference in awk](https://unix.stackexchange.com/q/361427/109046).
+
+```sh
+s='effort flee facade oddball rat tool'
+
+# no change
+echo "$s" | awk '{gsub(/\w*(\w)\1\w*/, "X")} 1'
+# effort flee facade oddball rat tool
+
+#whole words that have at least one consecutive repeated character
+echo "$s" | sed -E 's/\w*(\w)\1\w*/X/g'
+# X X facade X rat X
+```
+
+:::
+
+If a quantifier is applied on a pattern grouped inside `()` metacharacters, you'll need an outer `()` group to capture the matching portion. Other flavors like Perl provide non-capturing groups to handle such cases. In `awk` you'll have to consider the extra capture groups.
+
+> note the numbers used in the replacement section
+
+```sh
+s='one,2,3.14,42'
+echo "$s" | awk '{$0=gensub(/^(([^,]+,){2})([^,]+)/, "[\\1](\\3)", 1)} 1'
+# [one,2,](3.14),42
+```
+
+
+Here's an example where alternation order matters when the matching portions have the same length. Aim is to delete all whole words unless it starts with `g` or `p` and contains `y`.
+
+
+```sh
+s='tryst,fun,glyph,pity,why,group'
+```
+
+::: tabs
+
+@tab:active Case 1
+
+all words get deleted because `\<\w+\>` gets priority here
+
+```sh
+echo "$s" | awk '{print gensub(/\<\w+\>|(\<[gp]\w*y\w*\>)/, "\\1", "g")}'
+# ,,,,,
+```
+
+@tab Case 2
+
+capture group gets priority here, so words in the capture group are retained
+
+```sh
+echo "$s" | awk '{print gensub(/(\<[gp]\w*y\w*\>)|\<\w+\>/, "\\1", "g")}'
+# ,,glyph,pity,,
+```
+
+:::
+
+As `\` and `&` are special characters in the replacement section, you'll need to escape them for literal representation.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+echo 'apple and fig' | awk '{sub(/and/, "[&]")} 1'
+# apple [and] fig
+```
+
+@tab Case 2
+
+```sh
+echo 'apple and fig' | awk '{sub(/and/, "[\\&]")} 1'
+# apple [&] fig
+```
+
+@tab Case 3
+
+```sh
+echo 'apple and fig' | awk '{sub(/and/, "\\")} 1'
+# apple \ fig
+```
+
+:::
+
+---
+
+## Case insensitive matching
+
+Unlike `sed` or `perl`, regular expressions in `awk` do not directly support the use of flags to change certain behaviors. For example, there is no flag to force the regexp to ignore case while matching.
+
+The `IGNORECASE` special variable controls case sensitivity, which is `0` by default. By changing it to some other value (which would mean `true` in a conditional expression), you can match case insensitively. The `-v` command line option allows you to assign a variable before input is read. The `BEGIN` block is also often used to change such settings.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+printf 'Cat\ncOnCaT\nscatter\ncot\n' | awk -v IGNORECASE=1 '/cat/'
+# Cat
+# cOnCaT
+# scatter
+```
+
+@tab Case 2
+
+for small enough string, you can also use character class
+
+```sh
+printf 'Cat\ncOnCaT\nscatter\ncot\n' | awk '{gsub(/[cC][aA][tT]/, "(&)")} 1'
+# (Cat)
+# cOn(CaT)
+# s(cat)ter
+# cot
+```
+
+:::
+
+Another way is to use built-in string function `tolower` to change the input to lowercase first.
+
+```sh
+printf 'Cat\ncOnCaT\nscatter\ncot\n' | awk 'tolower($0) ~ /cat/'
+# Cat
+# cOnCaT
+# scatter
+```
+
+---
+
+## Dynamic regexp
+
+As seen earlier, string literals can be used instead of a regexp to specify the pattern to be matched. Which implies that you can use any expression or a variable as well. This is helpful if you need to compute the regexp based on some conditions or if you are getting the pattern externally, such as user input passed via the `-v` option from a `bash` variable.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+r='cat.*dog|dog.*cat'
+echo 'two cats and a dog' | awk -v ip="$r" '{gsub(ip, "pets")} 1'
+# two pets
+```
+
+@tab Case 2
+
+```sh
+awk -v s='ow' '$0 ~ s' table.txt
+# brown bread mat hair 42
+# yellow banana window shoes 3.14
+```
+
+@tab Case 3
+
+you'll have to make sure to use `\\` instead of `\`
+
+```sh
+r='\\<[12][0-9]\\>'
+echo '23 154 12 26 34' | awk -v ip="$r" '{gsub(ip, "X")} 1'
+# X 154 X X 34
+```
+
+:::
+
+::: info 
+
+See [Using shell variables](using-shell-variables.md#using-shell-variables) chapter for a way to avoid having to escape backslashes.
+
+:::
+
+Sometimes, user input has to be treated literally instead of as a regexp pattern. In such cases, you'll need to escape all the regexp metacharacters. Below example shows how to do it for the search section. For the replace section, you only have to escape the `\` and `&` characters.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+awk -v s='(a.b)^{c}|d' 'BEGIN{gsub(/[{[(^$*?+.|\\]/, "\\\\&", s); print s}'
+# \(a\.b)\^\{c}\|d
+```
+
+@tab Case 2
+
+```sh
+echo 'f*(a^b) - 3*(a^b)' |
+     awk -v s='(a^b)' '{gsub(/[{[(^$*?+.|\\]/, "\\\\&", s); gsub(s, "c")} 1'
+# f*c - 3*c
+```
+
+@tab Case 3
+
+match given input string literally, but only at the end of string
+
+```sh
+echo 'f*(a^b) - 3*(a^b)' |
+     awk -v s='(a^b)' '{gsub(/[{[(^$*?+.|\\]/, "\\\\&", s); gsub(s "$", "c")} 1'
+# f*(a^b) - 3*c
+```
+
+:::
+
+::: info 
+
+See [my blog post](https://learnbyexample.github.io/escaping-madness-awk-literal-field-separator/) for more details about escaping metacharacters.
+
+If you need to just match literally instead of substitution, you can use the index function. See the [index](built-in-functions.md#index) section for details.
+
+:::
+
+---
+
+## Summary
+
+Regular expressions is a feature that you'll encounter in multiple command line programs and programming languages. It is a versatile tool for text processing. Although the features in `awk` are less compared to those found in programming languages, they are sufficient for most of the tasks you'll need for command line usage. It takes a lot of time to get used to syntax and features of regular expressions, so I'll encourage you to practice a lot and maintain notes. It'd also help to consider it as a mini-programming language in itself for its flexibility and complexity.
 
 ---
 

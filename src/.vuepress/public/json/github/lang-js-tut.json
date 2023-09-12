@@ -149,5 +149,10 @@
     "desc": "Learn WebAssembly by writing small programs!",
     "topics": ["learning", "guide", "webassembly", "wasm", "exercises", "wat", "wast"],
     "officialSite": ""
+  }, {
+    "repo": "bradtraversy/traversy-js-challenges",
+    "desc": "Challenges & docs from JS Algorithms & Data Structures course",
+    "topics": [],
+    "officialSite": ""
   }
 ]

@@ -1348,5 +1348,10 @@
     "desc": "🦀Tauri desktop app with shadcn/ui, Next.js, gif memes API",
     "topics": ["rust", "nextjs", "desktop", "tauri", "tenor"],
     "officialSite": ""
+  }, {
+    "repo": "Ironclad/rivet",
+    "desc": "The open-source visual AI programming environment and TypeScript library",
+    "topics": ["typescript", "ai", "openai", "llm"],
+    "officialSite": "https://rivet.ironcladapp.com"
   }
 ]

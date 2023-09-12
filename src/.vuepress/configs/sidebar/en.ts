@@ -860,7 +860,16 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/red-hat-container-tools/01.md',
         '/crashcourse/red-hat-container-tools/02.md',
         '/crashcourse/red-hat-container-tools/03.md',
-        '/crashcourse/red-hat-container-tools/04.md'
+        '/crashcourse/red-hat-container-tools/04.md',
+        '/crashcourse/red-hat-container-tools/05.md',
+        '/crashcourse/red-hat-container-tools/06.md',
+        '/crashcourse/red-hat-container-tools/07.md'
+      ]
+    }, {
+      text: '🔺Red Hat Containerize Your Application With Buildah And Podman',
+      collapsible: true,
+      children: [
+        '/crashcourse/red-hat-containerize-your-application-w-buildah-and-podman/README.md',
       ]
     }, {
       text: '☕️Java8 in Action',
@@ -1008,7 +1017,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/eventhelix-rust-to-assembly/rust-to-assembly-vector-iteration.md'
       ]
     }, {
-      text: '🐚CLI Text Processing with GNU awk',
+      text: '🐚Text Processing with GNU awk',
       collapsible: true,
       children: [
         '/crashcourse/cli-text-processing-w-gnu-awk/README.md',
@@ -1031,7 +1040,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/cli-text-processing-w-gnu-awk/17-exercise-solutions.md'        
       ]
     }, {
-      text: '🐚CLI Mastering Curl - Interactive Text Guide',
+      text: '🐚Mastering Curl - Interactive Text Guide',
       collapsible: true,
       children: [
         '/crashcourse/cli-mastering-curl-interactive-text-guide/README.md',
