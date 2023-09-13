@@ -313,6 +313,7 @@ awk 'BEGIN{print 5 + " \t 2 xyz"}'
 ```
 
 ## Arrays
+
 Arrays in `awk` are associative, meaning they are key-value pairs. The keys can be numbers or strings, but numbers get converted to strings internally. They can be multi-dimensional as well. There will be plenty of array examples in later chapters in relevant context. See [gawk manual: Arrays](https://www.gnu.org/software/gawk/manual/gawk.html#Arrays) for complete details and gotchas.
 
 ::: tabs
@@ -331,6 +332,10 @@ awk 'BEGIN{student["id"] = 101; student["name"] = "Joe";
        if("id" in student) print "Key found"}'
 # Key found
 ```
+
+:::
+
+---
 
 ## Summary
 
@@ -377,7 +382,7 @@ cat hex.txt
 # end address: 0xFF, func2 address: 0xB0
 ```
 
-### Exerciese 1
+### Exercise 1
 
 For the input file `addr.txt`, display all lines containing `is`.
 

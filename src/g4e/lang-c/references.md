@@ -21,6 +21,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Microsoft
+
+- [Integrating C++ header units into Office using MSVC (2/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-2-n)
+
+---
+
 ## M68k LLVM
 
 - [The tale of `-mrtd` in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)

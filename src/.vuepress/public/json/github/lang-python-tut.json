@@ -109,5 +109,10 @@
     "desc": "What the f*ck Python? 😱",
     "topics": ["python", "snippets", "documentation", "wtf", "gotchas", "interview-questions", "python-interview-questions", "pitfalls", "wats"],
     "officialSite": ""
+  }, {
+    "repo": "linkedin/school-of-sre",
+    "desc": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.",
+    "topics": ["mysql", "python", "git", "linux", "security", "networking", "hadoop", "nosql", "sre", "system-design"],
+    "officialSite": "https://linkedin.github.io/school-of-sre"
   }
 ]

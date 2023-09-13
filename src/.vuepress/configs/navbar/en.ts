@@ -96,6 +96,9 @@ export const navbarEn: NavbarConfig = [
         text: '🔺Red Hat Container Tools',
         link: '/crashcourse/red-hat-container-tools/README.md',
       }, {
+        text: '🔺Containerize Your Application With Buildah And Podman',
+        link: '/crashcourse/red-hat-containerize-your-application-w-buildah-and-podman/README.md',
+      }, {
         text: '☕️Java8 in Action',
         link: '/crashcourse/java-8-in-action/README.md',
       }, {

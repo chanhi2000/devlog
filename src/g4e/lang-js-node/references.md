@@ -44,6 +44,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [React30](https://react30.com)
 - [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 - [Structure and Interpretation of Computer Programs — JavaScript Edition](https://sourceacademy.org/sicpjs/index)
+- [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide)
 
 ---
 
@@ -90,6 +91,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Astro
 
 - [Astro 2.5](https://astro.build/blog/astro-250/)
+
+---
+
+## Snyk
+
+- [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun)
 
 ---
 
@@ -475,6 +482,10 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(7)RestAPI 및 마무리](https://www.clien.net/service/board/lecture/17972239)
 
 ---
+
+## BGSSM
+
+- [Vue.js: v-on:click을 사용해 해당 요소(element)의 DOM 가져오기](http://yoonbumtae.com/?p=2810)
 
 ## Misc
 

@@ -44,6 +44,11 @@
     "desc": "A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "DataTalksClub/machine-learning-zoomcamp",
+    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "topics": [],
+    "officialSite": ""
   }
 ]
 

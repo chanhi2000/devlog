@@ -594,6 +594,16 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "eduard-permyakov/peredvizhnikov-engine",
+    "desc": "A fully lock-free game engine written in C++20",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "uNetworking/uWebSockets",
+    "desc": "Simple, secure & standards compliant web server for the most demanding of applications",
+    "topics": ["http", "router", "cross-platform", "websockets", "pubsub", "commercial", "proxy-protocol"],
+    "officialSite": ""
   }
 ]
 

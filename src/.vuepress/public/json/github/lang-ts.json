@@ -1353,5 +1353,40 @@
     "desc": "The open-source visual AI programming environment and TypeScript library",
     "topics": ["typescript", "ai", "openai", "llm"],
     "officialSite": "https://rivet.ironcladapp.com"
+  }, {
+    "repo": "honojs/hono",
+    "desc": "Ultrafast web framework for the Edges",
+    "topics": ["npm", "typescript", "router", "aws-lambda", "web-framework", "cloudflare", "bun", "deno", "cloudflare-workers", "lagon"],
+    "officialSite": "https://hono.dev"
+  }, {
+    "repo": "openai-translator/openai-translator",
+    "desc": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+    "topics": ["chrome-extension", "translator", "translation", "openai", "browser-extension", "translator-app", "chatgpt"],
+    "officialSite": ""
+  }, {
+    "repo": "squidfunk/mkdocs-material",
+    "desc": "Documentation that simply works",
+    "topics": ["theme", "template", "documentation", "material-design", "static", "mkdocs"],
+    "officialSite": "https://squidfunk.github.io/mkdocs-material"
+  }, {
+    "repo": "OpenPipe/OpenPipe",
+    "desc": "Turn expensive prompts into cheap fine-tuned models",
+    "topics": ["ai", "llm", "prompt-engineering", "llmops"],
+    "officialSite": "https://openpipe.ai"
+  }, {
+    "repo": "golbin/llm-chunk",
+    "desc": "A super simple text splitter for LLM",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "golbin/imvectordb",
+    "desc": "Super simple in-memory vector DB for Node.js",
+    "topics": [],
+    "officialSite": ""
+  }, {
+    "repo": "elysiajs/elysia",
+    "desc": "Fast, and friendly Bun web framework",
+    "topics": ["framework", "typescript", "web", "http-server", "bun"],
+    "officialSite": "https://elysiajs.com"
   }
 ]

@@ -2306,7 +2306,7 @@ exit 0 # success
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-play`.ps1
+## <FontIcon icon="iconfont icon-file"/>`open-google-play.ps1`
 
 ```card
 title: open-google-play.ps1
@@ -2361,7 +2361,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-search`.ps1
+## <FontIcon icon="iconfont icon-file"/>`open-google-search.ps1`
 
 ```card
 title: open-google-search.ps1
@@ -2416,7 +2416,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-translate`.ps1
+## <FontIcon icon="iconfont icon-file"/>`open-google-translate.ps1`
 
 ```card
 title: open-google-translate.ps1
@@ -2471,7 +2471,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-home-folder`.ps1
+## <FontIcon icon="iconfont icon-file"/>`open-home-folder.ps1`
 
 ```card
 title: open-home-folder.ps1
@@ -2536,7 +2536,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-music-folder`.ps1
+## <FontIcon icon="iconfont icon-file"/>`open-music-folder.ps1`
 
 ```card
 title: open-music-folder.ps1
@@ -2601,7 +2601,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-netflix`.ps1
+## <FontIcon icon="iconfont icon-file"/>`open-netflix.ps1`
 
 ```card
 title: open-netflix.ps1
@@ -2656,7 +2656,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-microsoft-store`.ps1
+## <FontIcon icon="iconfont icon-file"/>`open-microsoft-store.ps1`
 
 ```card
 title: open-microsoft-store.ps1
@@ -2712,7 +2712,7 @@ exit 0 # success
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-notepad`.ps1
+## ❌<FontIcon icon="iconfont icon-file"/>`open-notepad.ps1`
 
 ```card
 title: open-notepad.ps1
@@ -2752,6 +2752,424 @@ PS> ./open-notepad
 :::
 
 ---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-onedrive-folder.ps1`
+
+```card
+title: open-onedrive-folder.ps1
+desc: Opens the user's OneDrive folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-onedrive-folder.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches Microsoft OneDrive with the user's OneDrive folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-onedrive-folder.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-onedrive
+#
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-pictures-folder.ps1`
+
+```card
+title: open-pictures-folder.ps1
+desc: Opens the user's pictures folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-pictures-folder.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the File Explorer with the user's pictures folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-pictures-folder.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-pictures-folder
+# 
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the user's pictures folder
+.DESCRIPTION
+	This script launches the File Explorer with the user's pictures folder.
+.EXAMPLE
+	PS> ./open-pictures-folder
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$TargetDir = resolve-path "$HOME/Pictures"
+	if (-not(test-path "$TargetDir" -pathType container)) {
+		throw "Pictures folder at 📂$TargetDir doesn't exist (yet)"
+	}
+	& "$PSScriptRoot/open-file-explorer.ps1" "$TargetDir"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-recycle-bin.ps1`
+
+```card
+title: open-recycle-bin.ps1
+desc: Opens the user's recycle bin folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-recycle-bin.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the File Explorer with the user's recycle bin folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-recycle-bin.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-recycle-bin
+#
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-repos-folder.ps1`
+
+```card
+title: open-repos-folder.ps1
+desc: Opens the user's Git repositories folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-repos-folder.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the File Explorer with the user's Git repositories folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-repos-folder.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-repos-folder
+# 
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens the Git repositories folder
+.DESCRIPTION
+	This script launches the File Explorer with the user's Git repositories folder.
+.EXAMPLE
+	PS> ./open-repos-folder
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$TargetDir = Resolve-Path "$HOME/Repos"
+	if (-not(Test-Path "$TargetDir" -pathType container)) {
+		throw "Repos folder at 📂$TargetDir doesn't exist (yet)"
+	}
+	& "$PSScriptRoot/open-file-explorer.ps1" "$TargetDir"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-snipping-tool.ps1`
+
+```card
+title: open-snipping-tool.ps1
+desc: Starts the Snipping Tool.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-snipping-tool.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Snipping Tool application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-snipping-tool.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-snipping-tool
+# 
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Starts the Snipping Tool
+.DESCRIPTION
+	This script launches the Snipping Tool application.
+.EXAMPLE
+	PS> ./open-snipping-tool
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+Start-Process SnippingTool.exe
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-speed-test.ps1`
+
+```card
+title: open-speed-test.ps1
+desc: Opens Cloudflare's speed test.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-speed-test.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Web browser with Cloudflare's speed test website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-speed-test.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-speed-test
+# 
+```
+
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Opens Cloudflare's Speed Test
+.DESCRIPTION
+	This script launches the Web browser with Cloudflare's speed test website.
+.EXAMPLE
+	PS> ./open-speed-test
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+& "$PSScriptRoot/open-default-browser.ps1" "https://speed.cloudflare.com"
+exit 0 # success
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-spotify.ps1`
+
+```card
+title: open-spotify.ps1
+desc: Opens Spotify.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-spotify.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Spotify application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-spotify.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-spotify
+#
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Launches the Spotify app
+.DESCRIPTION
+	This script launches the Spotify application.
+.EXAMPLE
+	PS> ./open-spotify
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+Start-Process spotify:
+exit 0 # success
+```
+
+:::
+
+---
+## ❌<FontIcon icon="iconfont icon-file"/> `open-system-settings.ps1`
+
+```card
+title: open-system-settings.ps1
+desc: Opens the system settings of Windows.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-system-settings.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Windows system settings application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+open-system-settings.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+
+@tab Example
+
+```powershell
+PS> ./open-system-settings
+#
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
 
 
 

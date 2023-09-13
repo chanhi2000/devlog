@@ -65,6 +65,7 @@ description: 🐍Python > 📚References
 ## Simon Willson's TILs
 
 - [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama)
+- [Building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
 
 ---
 
@@ -73,6 +74,10 @@ description: 🐍Python > 📚References
 - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 
 ---
+
+## Pytorch.kr
+
+- [속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법 (Speed, Python: Pick Two. How CUDA Graphs Enable Fast Python Code for Deep Learning)](https://discuss.pytorch.kr/t/cuda-speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning/2441)
 
 ## Kobzol's blog
 

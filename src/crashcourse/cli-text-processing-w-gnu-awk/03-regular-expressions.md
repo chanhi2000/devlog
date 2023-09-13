@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 3. Regular Expressions
 description: 🐚Text Processing with GNU awk > 3. Regular Expressions
-tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk"]
+tags: ["crashcourse", "cli", "sh", "shell", "gnu", "linux", "awk", "regex"]
 meta:
   - name: 🐚Text Processing with GNU awk > 3. Regular Expressions
     content: 3. Regular Expressions
@@ -785,7 +785,7 @@ echo 'no so in to do on' | awk '{gsub(/\<[sot][on]\>/, "X")} 1'
 
 @tab Case 4
 
-lines made up of letters 'o' and 'n', line length at least 2 `words.txt` contains dictionary words, one word per line
+lines made up of letters 'o' and 'n', line length at least 2 <FontIcon icon="iconfont icon-file"/>`words.txt` contains dictionary words, one word per line
 
 ```sh
 awk '/^[on]{2,}$/' words.txt
@@ -1539,5 +1539,555 @@ If you need to just match literally instead of substitution, you can use the ind
 Regular expressions is a feature that you'll encounter in multiple command line programs and programming languages. It is a versatile tool for text processing. Although the features in `awk` are less compared to those found in programming languages, they are sufficient for most of the tasks you'll need for command line usage. It takes a lot of time to get used to syntax and features of regular expressions, so I'll encourage you to practice a lot and maintain notes. It'd also help to consider it as a mini-programming language in itself for its flexibility and complexity.
 
 ---
+
+## Exercises
+
+::: info
+
+The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learnbyexample/learn_gnuawk/tree/master/exercises) directory has all the files used in this section.
+
+:::
+
+### Exercise 1
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, display all lines that start with `den` or end with `ly`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# 2 lonely
+# dent
+# lovely
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 2 
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, replace all occurrences of 42 with `[42]` unless it is at the edge of a word. Display only the modified lines.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Hi[42]Bye nice1[42]3 bad42
+# eqn2 = pressure*3+42/5-1[42]56
+# cool_[42]a 42fake
+# _[42]_
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 3
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, add `[]` around words starting with `s` and containing `e` and `t` in any order. Display only the modified lines.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# [sets] tests Sauerkraut
+# [site] cite kite bite [store_2]
+# [subtle] sequoia
+# a [set]
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 4 
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, replace the space character that occurs after a word ending with `a` or `r` with a newline character, only if the line also contains an uppercase letter. Display only the modified lines. For example, `A car park` should get converted to `A car` and `park` separated by a newline. But `car` `far` `tar` shouldn't be matched as there's no uppercase letter in this line.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# par
+# car
+# tar
+# far
+# Cart
+# Not a
+# pip DOWN
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 5
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, replace all occurrences of `*[5]` with `2`. Display only the modified lines.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# s(9-2)2
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 6
+
+`awk '/\<[a-z](on|no)[a-z]\>/'` is same as `awk '/\<[a-z][on]{2}[a-z]\>/'`. True or False? Sample input shown below might help to understand the differences, if any.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+printf 'known\nmood\nknow\npony\ninns\n'
+# known
+# mood
+# know
+# pony
+# inns
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 7
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, display all lines starting with `hand` and ending immediately with `s` or `y` or `le` or no further characters. For example, `handed` shouldn't be matched even though it starts with `hand`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# handle
+# handy
+# hands
+# hand
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 8
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, replace `42//5` or `42/5` with `8`. Display only the modified lines.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# eqn3 = r*42-5/3+42///5-83+a
+# eqn1 = a+8-c
+# eqn2 = pressure*3+8-14256
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 9
+
+For the given quantifiers, what would be the equivalent form using the `{m,n}` representation?
+
+- `?` is same as
+- `*` is same as
+- `+` is same as
+
+### Exercise 10
+
+True or False? `(a*|b*)` is same as `(a|b)*`
+
+### Exercise 11
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, construct two different regexps to get the outputs as shown below. Display only the modified lines.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+# delete from '(' till the next ')'
+awk ##### add your solution here
+# a/b + c%d
+# *[5]
+# def factorial
+# 12- *4)
+# Hi there. Nice day
+
+# delete from '(' till the next ')' but not if there is '(' in between
+awk ##### add your solution here
+# a/b + c%d
+# *[5]
+# def factorial
+# 12- (e+*4)
+# Hi there. Nice day(a
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 12
+
+For the input file <FontIcon icon="iconfont icon-file"/>`anchors.txt`, convert markdown anchors to corresponding hyperlinks as shown below.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat anchors.txt
+# <a name="regular-expressions"></a>Regular Expressions
+## <a name="subexpression-calls"></a>Subexpression calls
+## <a name="the-dot-meta-character"></a>The dot meta character
+
+awk ##### add your solution here
+# [Regular Expressions](#regular-expressions)
+# [Subexpression calls](#subexpression-calls)
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 13
+
+Display lines from <FontIcon icon="iconfont icon-file"/>`sample.txt` that satisfy both of these conditions:
+
+
+- `to` or `he` matched irrespective of case
+- `World` or `No` matched case sensitively
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Hello World
+# No doubt you like it too
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 14
+
+Given sample strings have fields separated by `,` and field values cannot be empty. Replace the third field with `42`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+echo 'lion,ant,road,neon' | awk ##### add your solution here
+# lion,ant,42,neon
+
+echo '_;3%,.,=-=,:' | awk ##### add your solution here
+# _;3%,.,42,:
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 15
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, filter lines containing three or more occurrences of `ar` and replace the last but second `ar` with `X`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# par car tX far Cart
+# pXt cart mart
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 16
+
+Surround all whole words with `()`. Additionally, if the whole word is `imp` or `ant`, delete them.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+words='tiger imp goat eagle ant important'
+echo "$words" | awk ##### add your solution here
+# (tiger) () (goat) (eagle) () (important)
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 17
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, display lines containing car but not as a whole word. For example, `scared-cat` and `car care` should match but not `far` `car` `park`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# scar
+# care
+# a huge discarded pile of books
+# scare
+# part cart mart
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 18
+
+Will the pattern` ^a\w+([0-9]+:fig)?` match the same characters for the input `apple42:banana314` and `apple42:fig100`? If not, why not?
+
+### Exercise 19
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, display lines starting with `4` or `-` or `u` or `sub` or `care`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# care
+# 4*5]
+# -handy
+# subtle sequoia
+# unhand
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 20
+
+Replace sequences made up of words separated by `:` or `.` by the first word of the sequence. Such sequences will end when `:` or `.` is not followed by a word character.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+ip='wow:Good:2_two.five: hi-2 bye kite.777:water.'
+echo "$ip" | awk ##### add your solution here
+# wow hi-2 bye kite
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 21
+
+Replace sequences made up of words separated by `:` or `.` by the last word of the sequence. Such sequences will end when `:` or `.` is not followed by a word character.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+ip='wow:Good:2_two.five: hi-2 bye kite.777:water.'
+echo "$ip" | awk ##### add your solution here
+# five hi-2 bye water
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 22
+
+Replace all whole words with `X` unless it is preceded by a `(` character.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+s='guava (apple) berry) apple (mango) (grape'
+echo "$s" | awk ##### add your solution here
+# X (apple) X) X (mango) (grape
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 23
+
+Surround whole words with `[]` only if they are followed by `:` or `,` or `-`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+ip='Poke,on=-=so_good:ink.to/is(vast)ever2-sit'
+echo "$ip" | awk ##### add your solution here
+# [Poke],on=-=[so_good]:ink.to/is(vast)[ever2]-sit
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 24
+
+The <FontIcon icon="iconfont icon-file"/>`fields.txt` file has fields separated by the `:` character. Delete `:` and the last field if there is a digit character anywhere before the last field.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat fields.txt
+# 42:cat
+# twelve:a2b
+# we:be:he:0:a:b:bother
+# apple:banana-42:cherry:
+# dragon:unicorn:centaur
+
+awk ##### add your solution here
+# 42
+# twelve:a2b
+# we:be:he:0:a:b
+# apple:banana-42:cherry
+# dragon:unicorn:centaur
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 25
+
+Can you use a character other than `/` as the regexp delimiter? If not, are there ways to construct a regexp that do not require the `/` character to be escaped for literal matching?
+
+### Exercise 26
+
+For the input file <FontIcon icon="iconfont icon-file"/>`patterns.txt`, surround all hexadecimal sequences with a minimum of four characters with `[]`. Match `0x` as an optional prefix, but shouldn't be counted for determining the length. Match the characters case insensitively, and the sequences shouldn't be surrounded by other word characters. Display only the modified lines.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# "should not match [0XdeadBEEF]"
+# Hi42Bye nice1423 [bad42]
+# took 0xbad 22 [0x0ff1ce]
+# eqn2 = pressure*3+42/5-[14256]
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+---
+
 
 <TagLinks/>

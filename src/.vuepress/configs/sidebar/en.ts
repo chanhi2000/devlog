@@ -863,13 +863,17 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/red-hat-container-tools/04.md',
         '/crashcourse/red-hat-container-tools/05.md',
         '/crashcourse/red-hat-container-tools/06.md',
-        '/crashcourse/red-hat-container-tools/07.md'
+        '/crashcourse/red-hat-container-tools/07.md',
+        '/crashcourse/red-hat-container-tools/08.md'
       ]
     }, {
-      text: '🔺Red Hat Containerize Your Application With Buildah And Podman',
+      text: '🔺Containerize Your Application With Buildah And Podman',
       collapsible: true,
       children: [
         '/crashcourse/red-hat-containerize-your-application-w-buildah-and-podman/README.md',
+        '/crashcourse/red-hat-containerize-your-application-w-buildah-and-podman/01.md',
+        '/crashcourse/red-hat-containerize-your-application-w-buildah-and-podman/02.md',
+        '/crashcourse/red-hat-containerize-your-application-w-buildah-and-podman/03.md'
       ]
     }, {
       text: '☕️Java8 in Action',

@@ -619,6 +619,11 @@
     "desc": "A Rust port of shadowsocks",
     "topics": ["rust", "security", "http-proxy", "socks5", "shadowsocks", "socks4", "transparent-proxy"],
     "officialSite": "https://shadowsocks.org"
+  }, {
+    "repo": "eza-community/eza",
+    "desc": "A modern, maintained replacement for ls",
+    "topics": ["rust", "files", "color", "terminal", "tools", "command-line", "icons", "ls", "nerd-fonts"],
+    "officialSite": ""
   }
 ]
 

@@ -2568,5 +2568,15 @@
     "desc": "Apple BLE proximity pairing message spoofing",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "topics": ["python", "cms", "django", "wagtail", "hacktoberfest"],
+    "officialSite": "https://wagtail.org"
+  }, {
+    "repo": "kagisearch/smallweb",
+    "desc": "Kagi Small Web",
+    "topics": [],
+    "officialSite": ""
   }
 ]
