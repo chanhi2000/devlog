@@ -2,7 +2,7 @@
   {
     "repo": "alkhimey/Ada_Kernel_Module_Framework",
     "desc": "Framework for writing Linux kernel modules in Ada",
-    "topics": [],
-    "officialSite": "http://www.nihamkin.com/tag/kernel.html"
+    "officialSite": "http://www.nihamkin.com/tag/kernel.html",
+    "topics": []
   }
 ]

@@ -130,8 +130,8 @@ Placeholders with the same ids are connected.
 		 "{",
 		 "  \"repo\": \"${1:repo}\",",
 		 "  \"desc\": \"${2:desc}\",", 
-		 "  \"topics\": [${3:topic}],",
-		 "  \"officialSite\": \"${4:os}\"",
+		 "  \"officialSite\": \"${3:os}\",",
+		 "  \"topics\": [${4:topic}]",
 		 "}"
 		],
 		"description": "Github Item as JSON"

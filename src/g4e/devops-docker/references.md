@@ -14,7 +14,7 @@ description: 🐋Docker > 📚References
 
 ## Docker
 
-- [`Docker Init`: Initialize Dockerfiles and Compose files with a single CLI command](https://www.docker.com/blog/docker-init-initialize-dockerfiles-and-compose-files-with-a-single-cli-command)
+- [Docker Init: Initialize Dockerfiles and Compose files with a single CLI command](https://www.docker.com/blog/docker-init-initialize-dockerfiles-and-compose-files-with-a-single-cli-command)
 
 ---
 
@@ -127,15 +127,17 @@ description: 🐋Docker > 📚References
 
 - [Build Your Own Docker with Linux Namespaces, cgroups, and chroot: Hands-on Guide](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide)
 
-<!-- Akash Rajpurohit -->
-
 ---
 
 ## Atomic Spin
 
 - [Working with Docker Containers Made Easy with the dexec Bash Script](https://spin.atomicobject.com/2023/06/26/dexec-docker)
 
-<!-- Atomic Spin -->
+---
+
+## Clien
+
+- [트랜스미션 haugene/transmission-openvpn 설치를 위한 가이드](https://www.clien.net/service/board/lecture/18197223)
 
 ---
 
@@ -143,5 +145,7 @@ description: 🐋Docker > 📚References
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)
 - [Hosting Gitea and Drone with Docker](https://blog.anoff.io/2019-03-24-self-hosted-gitea-drone)
+
+---
 
 <TagLinks />

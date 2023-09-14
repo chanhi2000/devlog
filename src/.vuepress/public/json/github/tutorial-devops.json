@@ -2,42 +2,42 @@
   {
     "repo": "bregman-arie/devops-exercises",
     "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-    "topics": ["python", "git", "linux", "docker", "kubernetes", "aws", "ansible", "devops", "sql", "azure", "containers", "terraform", "openstack", "interview", "prometheus", "coding", "sre", "interview-questions", "production-engineer"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["python", "git", "linux", "docker", "kubernetes", "aws", "ansible", "devops", "sql", "azure", "containers", "terraform", "openstack", "interview", "prometheus", "coding", "sre", "interview-questions", "production-engineer"]    
   }, {
     "repo": "MichaelCade/90DaysOfDevOps",
     "desc": "I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",
-    "topics": ["kubernetes", "ansible", "devops", "backup", "networking", "containers", "terraform", "iac"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["kubernetes", "ansible", "devops", "backup", "networking", "containers", "terraform", "iac"]    
   }, {
     "repo": "ripienaar/free-for-dev ",
     "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "topics": ["awesome-list", "free-for-developers"],
-    "officialSite": "https://free-for.dev"
+    "officialSite": "https://free-for.dev",
+    "topics": ["awesome-list", "free-for-developers"]    
   }, {
     "repo": "kodekloudhub/linux-basics-course",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "aws/containers-roadmap",
     "desc": "This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",
-    "topics": ["kubernetes", "aws", "roadmap", "containers", "ecs", "ecr", "fargate", "eks"],
-    "officialSite": "https://aws.amazon.com/about-aws/whats-new/containers"
+    "officialSite": "https://aws.amazon.com/about-aws/whats-new/containers",
+    "topics": ["kubernetes", "aws", "roadmap", "containers", "ecs", "ecr", "fargate", "eks"]    
   }, {
     "repo": "Anof-cyber/Application-Security",
     "desc": "Resources for Application Security including Web, API, Android, iOS and Thick Client",
-    "topics": ["android", "security", "hacking", "cybersecurity", "penetration-testing", "infosec", "application-security", "pentesting", "bugbounty", "appsec", "security-testing", "penetration-testing-notes"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["android", "security", "hacking", "cybersecurity", "penetration-testing", "infosec", "application-security", "pentesting", "bugbounty", "appsec", "security-testing", "penetration-testing-notes"]    
   }, {
     "repo": "Tikam02/DevOps-Guide",
     "desc": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
-    "topics": ["python", "git", "linux", "docker", "kubernetes", "jenkins", "ansible", "devops", "networking", "containers", "grafana", "interview", "ci-cd", "cheatsheet", "kubernetes-monitoring", "hacktoberfest", "devops-cheatsheets", "hacktoberfest2020", "hacktoberfest-2020"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["python", "git", "linux", "docker", "kubernetes", "jenkins", "ansible", "devops", "networking", "containers", "grafana", "interview", "ci-cd", "cheatsheet", "kubernetes-monitoring", "hacktoberfest", "devops-cheatsheets", "hacktoberfest2020", "hacktoberfest-2020"]    
   }, {
     "repo": "leandromoreira/linux-network-performance-parameters",
     "desc": "Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺",
-    "topics": ["linux", "performance", "kernel", "tcp", "network", "sysctl"],
-    "officialSite": "https://github.com/leandromoreira/linux-network-performance-parameters"
+    "officialSite": "https://github.com/leandromoreira/linux-network-performance-parameters",
+    "topics": ["linux", "performance", "kernel", "tcp", "network", "sysctl"]    
   }
 ]

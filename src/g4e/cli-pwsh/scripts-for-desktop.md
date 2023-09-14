@@ -3146,7 +3146,7 @@ This script launches the Windows system settings application.
 @tab:active Parameters
 
 ```powershell
-open-system-settings.ps1 [<CommonParameters>]
+PS> open-system-settings.ps1 [<CommonParameters>]
 
 [<CommonParameters>]
     This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
@@ -3171,6 +3171,544 @@ PS> ./open-system-settings
 ---
 
 
+## <FontIcon icon="iconfont icon-file"/>`open-task-manager.ps1`
 
+```card
+title: open-task-manager.ps1
+desc: Starts the Task Manager.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-task-manager.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Windows Task Manager application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-task-manager.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-task-manager
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Starts the Task Manager
+.DESCRIPTION
+	This script launches the Windows Task Manager application.
+.EXAMPLE
+	PS> ./open-task-manager
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	Start-Process taskmgr.exe
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`open-videos-folder.ps1`
+
+```card
+title: open-videos-folder.ps1
+desc: Opens the user's videos folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-videos-folder.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Windows Terminal application.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-windows-terminal.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-windows-terminal
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Launches the Windows Terminal app
+.DESCRIPTION
+	This script launches the Windows Terminal application.
+.EXAMPLE
+	PS> ./open-windows-terminal
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+Start-Process wt.exe
+exit 0 # success
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-windows-terminal.ps1`
+
+```card
+title: open-windows-terminal.ps1
+desc: Launches Windows Terminal.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-windows-terminal.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+## open-wikipedia-website.ps1 - Opens the Wikipedia website
+
+This script launches the Web browser with the Wikipedia website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-wikipedia-website.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-wikipedia-website.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-wikipedia-website.ps1`
+
+```card
+title: open-wikipedia-website.ps1
+desc: Opens Wikipedia's website.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-wikipedia-website.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This script launches the Web browser with the YouTube website.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./open-youtube-website.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./open-youtube-website
+
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
+## ❌<FontIcon icon="iconfont icon-file"/>`open-youtube-website.ps1`
+
+```card
+title: open-youtube-website.ps1
+desc: Opens YouTube's website.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-youtube-website.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+@tab Script Content
+
+```powershell
+```
+
+:::
+
+---
+
+## `remind-me.ps1`
+
+```card
+title: remind-me.ps1
+desc: Creates a scheduled task that will display a popup message.
+link: https://github.com/fleschutz/PowerShell/blob/master/remind-me.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script creates a scheduled task that will display a popup message.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./remind-me.ps1 [[-Message] <String>] [[-Time] <DateTime>] [<CommonParameters>]
+
+-Message <String>    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-Time <DateTime>
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./remind-me "Dentist" "4/10/2021 12:00 PM"
+# TaskPath                                       TaskName                          State
+# --------                                       --------                          -----
+# \                                              Reminder_451733811                Ready
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Creates a scheduled task that will display a popup message
+.DESCRIPTION
+	This PowerShell script creates a scheduled task that will display a popup message.
+.EXAMPLE
+	PS> ./remind-me "Dentist" "4/10/2021 12:00 PM"
+
+	TaskPath                                       TaskName                          State
+	--------                                       --------                          -----
+	\                                              Reminder_451733811                Ready
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+#requires -version 4
+
+param([string]$Message = "", [datetime]$Time)
+
+try {
+	if ($Message -eq "") { $Message = read-host "Enter reminder message" }
+
+	$Task = New-ScheduledTaskAction -Execute msg -Argument "* $Message"
+	$Trigger = New-ScheduledTaskTrigger -Once -At $Time
+	$Random = (Get-Random)
+	Register-ScheduledTask -Action $Task -Trigger $Trigger -TaskName "Reminder_$Random" -Description "Reminder"
+	exit 0
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`save-screenshot.ps1`
+
+```card
+title: save-screenshot.ps1
+desc: Saves a single screenshot.
+link: https://github.com/fleschutz/PowerShell/master/Docs/save-screenshot.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script takes a single screenshot and saves it into a target folder (default is the user's screenshots folder).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./save-screenshot.ps1 [[-TargetFolder] <String>] [<CommonParameters>]
+
+-TargetFolder <String>
+    Specifies the target folder (the user's screenshots folder by default)
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./save-screenshot
+#	✔️ screenshot saved to C:\Users\Markus\Pictures\Screenshots\2021-10-10T14-33-22.png
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Saves a single screenshot
+.DESCRIPTION
+	This PowerShell script takes a single screenshot and saves it into a target folder (default is the user's screenshots folder).
+.PARAMETER TargetFolder
+	Specifies the target folder (the user's screenshots folder by default)
+.EXAMPLE
+	PS> ./save-screenshot
+ 	✔️ screenshot saved to C:\Users\Markus\Pictures\Screenshots\2021-10-10T14-33-22.png
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$TargetFolder = "")
+
+function GetScreenshotsFolder {
+        if ($IsLinux) {
+                $Path = "$HOME/Pictures"
+                if (-not(Test-Path "$Path" -pathType container)) { throw "Pictures folder at $Path doesn't exist (yet)"}
+                if (Test-Path "$Path/Screenshots" -pathType container) { $Path = "$Path/Screenshots" }
+        } else {
+                $Path = [Environment]::GetFolderPath('MyPictures')
+                if (-not(Test-Path "$Path" -pathType container)) { throw "Pictures folder at $Path doesn't exist (yet)" }
+                if (Test-Path "$Path\Screenshots" -pathType container) { $Path = "$Path\Screenshots" }
+        }
+        return $Path
+}
+
+function TakeScreenshot { param([string]$FilePath)
+	Add-Type -Assembly System.Windows.Forms            
+	$ScreenBounds = [Windows.Forms.SystemInformation]::VirtualScreen
+	$ScreenshotObject = New-Object Drawing.Bitmap $ScreenBounds.Width, $ScreenBounds.Height
+	$DrawingGraphics = [Drawing.Graphics]::FromImage($ScreenshotObject)
+	$DrawingGraphics.CopyFromScreen( $ScreenBounds.Location, [Drawing.Point]::Empty, $ScreenBounds.Size)
+	$DrawingGraphics.Dispose()
+	$ScreenshotObject.Save($FilePath)
+	$ScreenshotObject.Dispose()
+}
+
+try {
+	if ("$TargetFolder" -eq "") { $TargetFolder = GetScreenshotsFolder }
+	$Time = (Get-Date)
+	$Filename = "$($Time.Year)-$($Time.Month)-$($Time.Day)T$($Time.Hour)-$($Time.Minute)-$($Time.Second).png"
+	$FilePath = (Join-Path $TargetFolder $Filename)
+	TakeScreenshot $FilePath
+
+	"✔️ screenshot saved to $FilePath"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`set-wallpaper.ps1`
+
+```card
+title: set-wallpaper.ps1
+desc: Sets the given image as wallpaper.
+link: https://github.com/fleschutz/PowerShell/blob/master/set-wallpaper.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script sets the given image file as desktop wallpaper (.JPG or .PNG supported)
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./set-wallpaper.ps1 [[-ImageFile] <String>] [[-Style] <String>] [<CommonParameters>]
+
+-ImageFile <String>
+    Specifies the path to the image file
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-Style <String>
+    Specifies either Fill, Fit, Stretch, Tile, Center, or Span (default)
+    
+    Required?                    false
+    Position?                    2
+    Default value                Span
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./set-wallpaper C:\ocean.jpg
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the given image file as desktop wallpaper
+.DESCRIPTION
+	This PowerShell script sets the given image file as desktop wallpaper (.JPG or .PNG supported)
+.PARAMETER ImageFile
+	Specifies the path to the image file
+.PARAMETER Style
+        Specifies either Fill, Fit, Stretch, Tile, Center, or Span (default)
+.EXAMPLE
+	PS> ./set-wallpaper C:\ocean.jpg
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$ImageFile = "", [string]$Style = "Span")
+
+function SetWallPaper {
+	param([string]$Image, [ValidateSet('Fill', 'Fit', 'Stretch', 'Tile', 'Center', 'Span')][string]$Style)
+ 
+	$WallpaperStyle = switch($Style) {
+	"Fill"    {"10"}
+	"Fit"     {"6"}
+	"Stretch" {"2"}
+	"Tile"    {"0"}
+	"Center"  {"0"}
+	"Span"    {"22"}
+	}
+ 
+	if ($Style -eq "Tile") {
+		New-ItemProperty -Path "HKCU:\Control Panel\Desktop" -Name WallpaperStyle -PropertyType String -Value $WallpaperStyle -Force
+		New-ItemProperty -Path "HKCU:\Control Panel\Desktop" -Name TileWallpaper -PropertyType String -Value 1 -Force
+	} else {
+		New-ItemProperty -Path "HKCU:\Control Panel\Desktop" -Name WallpaperStyle -PropertyType String -Value $WallpaperStyle -Force
+		New-ItemProperty -Path "HKCU:\Control Panel\Desktop" -Name TileWallpaper -PropertyType String -Value 0 -Force
+	}
+	Add-Type -TypeDefinition @" 
+	using System; 
+	using System.Runtime.InteropServices;
+  
+	public class Params
+	{ 
+	    [DllImport("User32.dll",CharSet=CharSet.Unicode)] 
+	    public static extern int SystemParametersInfo (Int32 uAction, 
+							   Int32 uParam, 
+							   String lpvParam, 
+							   Int32 fuWinIni);
+	}
+"@ 
+  
+	$SPI_SETDESKWALLPAPER = 0x0014
+	$UpdateIniFile = 0x01
+	$SendChangeEvent = 0x02
+  
+	$fWinIni = $UpdateIniFile -bor $SendChangeEvent
+  
+	$ret = [Params]::SystemParametersInfo($SPI_SETDESKWALLPAPER, 0, $Image, $fWinIni)
+}
+ 
+try {
+	if ($ImageFile -eq "" ) { $ImageFile = read-host "Enter path to image file" }
+
+	SetWallPaper -Image $ImageFile -Style $Style
+	"✔️  Done."
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
 
 <TagLinks/>

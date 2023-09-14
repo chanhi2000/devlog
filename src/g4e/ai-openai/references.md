@@ -160,4 +160,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Clien
+
+- [[AI] 코드 인터프리터(Code Interpreter) 활용 사례들을 정리해봤습니다.](https://www.clien.net/service/board/lecture/18180121)
+- [ChatGPT, 코드인터프리터의 성능을 압도적으로 높이기 (파이썬 대신 C언어 사용)](https://www.clien.net/service/board/lecture/18255603)
+- [인공지능을 활용한 안드로이드 앱 개발 (with ChatGPT)](https://www.clien.net/service/board/lecture/18245943)
+
+---
+
 <TagLinks />

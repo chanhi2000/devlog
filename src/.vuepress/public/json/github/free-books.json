@@ -2,67 +2,67 @@
   {
     "repo": "papers-we-love/papers-we-love",
     "desc": "Papers from the computer science community to read and discuss.",
-    "topics": ["computer-science", "meetup", "awesome", "programming", "theory", "papers", "read-papers"],
-    "officialSite": "http://paperswelove.org"
+    "officialSite": "http://paperswelove.org",
+    "topics": ["computer-science", "meetup", "awesome", "programming", "theory", "papers", "read-papers"]    
   }, {
     "repo": "ascoders/weekly",
     "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
-    "topics": ["awesome", "frontend", "weekly"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["awesome", "frontend", "weekly"]    
   }, {
     "repo": "automateyournetwork/automate_your_network",
     "desc": "The book in PDF format for all to enjoy!",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "Visualize-ML/Book4_Power-of-Matrix",
     "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！",
-    "topics": ["machine-learning", "matrix", "linear-algebra", "mathematics", "matrix-factorization", "linear"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["machine-learning", "matrix", "linear-algebra", "mathematics", "matrix-factorization", "linear"]    
   }, {
     "repo": "google-research/tuning_playbook",
     "desc": "A playbook for systematically maximizing the performance of deep learning models",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "mark-watson/free-older-books-and-software",
     "desc": "I used to have PDFs for my books on my web site - I moved them to this public repo.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "abhishekkrthakur/approachingalmost",
     "desc": "Approaching (Almost) Any Machine Learning Problem",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "Ignitetechnologies/Mindmap",
     "desc": "This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "hehonghui/awesome-english-ebooks",
     "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
-    "topics": ["pdf", "download", "ebooks", "new-yorker", "economist", "economist-ebooks"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["pdf", "download", "ebooks", "new-yorker", "economist", "economist-ebooks"]    
   }, {
     "repo": "kenjihiranabe/The-Art-of-Linear-Algebra",
     "desc": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "coding-horror/basic-computer-games",
     "desc": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games",
-    "topics": ["basic", "classic-game", "basic-computer-games"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["basic", "classic-game", "basic-computer-games"]    
   }, {
     "repo": "onhexgroup/Conferences",
     "desc": "Conference slides",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "ibaiw/2023Hvv",
     "desc": "2023 HVV情报速递~",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }
 ]

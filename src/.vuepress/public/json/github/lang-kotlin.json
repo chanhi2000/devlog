@@ -2,98 +2,98 @@
   {
     "repo": "ktorio/ktor",
     "desc": "Framework for quickly creating connected applications in Kotlin with minimal effort",
-    "topics": [],
-    "officialSite": "https://ktor.io"
+    "officialSite": "https://ktor.io",
+    "topics": []    
   }, {
     "repo": "Kotlin/dokka",
     "desc": "Documentation Engine for Kotlin",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "PaperMC/Paper",
     "desc": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
-    "topics": ["java", "minecraft", "bukkit", "paper", "minecraft-server", "minecraft-api", "craftbukkit", "spigot-fork", "minecraft-performance", "tacos", "hacktoberfest", "paper-api", "papermc"],
-    "officialSite": "https://papermc.io"
+    "officialSite": "https://papermc.io",
+    "topics": ["java", "minecraft", "bukkit", "paper", "minecraft-server", "minecraft-api", "craftbukkit", "spigot-fork", "minecraft-performance", "tacos", "hacktoberfest", "paper-api", "papermc"]    
   }, {
     "repo": "PaperMC/Paperclip",
     "desc": "Bootstrap utility and launcher for the Paper Minecraft server",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "hexagonkt/hexagon",
     "desc": "Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.",
-    "topics": [],
-    "officialSite": "https://hexagonkt.com"
+    "officialSite": "https://hexagonkt.com",
+    "topics": []    
   }, {
     "repo": "microsoft/thrifty",
     "desc": "Thrift for Android that saves you methods",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "sniffy/influxdb-tools",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "revanced/revanced-patches",
     "desc": "🧩 Patches for ReVanced",
-    "topics": ["patches", "revanced"],
-    "officialSite": "https://revanced.app"
+    "officialSite": "https://revanced.app",
+    "topics": ["patches", "revanced"]    
   }, {
     "repo": "cashapp/turbine",
     "desc": "A small testing library for kotlinx.coroutines Flow",
-    "topics": [],
-    "officialSite": "https://cashapp.github.io/turbine/docs/0.x"
+    "officialSite": "https://cashapp.github.io/turbine/docs/0.x",
+    "topics": []    
   }, {
     "repo": "pinterest/ktlint",
     "desc": "An anti-bikeshedding Kotlin linter with built-in formatter",
-    "topics": [],
-    "officialSite": "https://pinterest.github.io/ktlint"
+    "officialSite": "https://pinterest.github.io/ktlint",
+    "topics": []    
   }, {
     "repo": "ThinkingLogic/kotlin-builder-annotation",
     "desc": "A minimal viable replacement for the Lombok @builder plugin for Kotlin code",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "netflix/dgs-framework",
     "desc": "GraphQL for Java with Spring Boot made easy.",
-    "topics": [],
-    "officialSite": "https://netflix.github.io/dgs"
+    "officialSite": "https://netflix.github.io/dgs",
+    "topics": []    
   }, { 
   
     "repo": "cuynu/ytvanced",
     "desc": "YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "ethereum-lists/chains",
     "desc": "provides metadata for chains",
-    "topics": ["ethereum", "chains", "evm", "hacktoberfest", "eip155", "chainid"], 
-    "officialSite": "https://chainid.network"
+    "officialSite": "https://chainid.network",
+    "topics": ["ethereum", "chains", "evm", "hacktoberfest", "eip155", "chainid"] 
   }, {
     "repo": "KakaoCup/Kakao",
     "desc": "Nice and simple DSL for Espresso in Kotlin",
-    "topics": ["android", "kotlin", "dsl", "android-test", "espresso", "testing-tools", "android-ui", "hacktoberfest", "ui-testing", "testing-framework", "testing-library"], 
-    "officialSite": "https://kakaocup.github.io/Kakao"
+    "officialSite": "https://kakaocup.github.io/Kakao",
+    "topics": ["android", "kotlin", "dsl", "android-test", "espresso", "testing-tools", "android-ui", "hacktoberfest", "ui-testing", "testing-framework", "testing-library"]
   }, {
     "repo": "minigdx/tiny",
     "desc": "Tiny is a lightweight 2D game engine that allows developers to easily create games using the Lua programming language.",
-    "topics": ["kotlin", "game", "gamedev", "lua", "gamejam", "2d", "kotlin-js", "kotlin-jvm"],
-    "officialSite": "https://minigdx.github.io/tiny"
+    "officialSite": "https://minigdx.github.io/tiny",
+    "topics": ["kotlin", "game", "gamedev", "lua", "gamejam", "2d", "kotlin-js", "kotlin-jvm"]    
   }, {
     "repo": "JetBrains/ideavim",
     "desc": "IdeaVim – A Vim engine for JetBrains IDEs",
-    "topics": ["kotlin", "vim", "intellij", "jetbrains", "intellij-plugin", "intellij-platform", "ideavim", "jb-official"],
-    "officialSite": "http://plugins.jetbrains.com/plugin/164"
+    "officialSite": "http://plugins.jetbrains.com/plugin/164",
+    "topics": ["kotlin", "vim", "intellij", "jetbrains", "intellij-plugin", "intellij-platform", "ideavim", "jb-official"]    
   }, {
     "repo": "fuqiuluo/unidbg-fetch-qsign",
     "desc": "获取QQSign通过Unidbg",
-    "topics": ["qqbot", "oicq", "unidbg", "qqprotocol"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["qqbot", "oicq", "unidbg", "qqprotocol"]    
   }, {
     "repo": "anyproto/anytype-kotlin",
     "desc": "Official Anytype client for Android",
-    "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"],
-    "officialSite": "https://anytype.io"
+    "officialSite": "https://anytype.io",
+    "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"]    
   }
 ]

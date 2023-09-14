@@ -12,6 +12,12 @@ tags: ["go", "golang"]
 [[toc]]
 
 ---
+
+## Go
+
+- [WASI support in Go](https://go.dev/blog/wasi)
+
+---
 ## Medium
 
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)

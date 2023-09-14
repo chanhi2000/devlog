@@ -2,32 +2,32 @@
   {
     "repo": "pointfreeco/episode-code-samples",
     "desc": "💾 Point-Free episode code.",
-    "topics": [],
-    "officialSite": "https://www.pointfree.co"
+    "officialSite": "https://www.pointfree.co",
+    "topics": []    
   }, {
     "repo": "twostraws/HackingWithSwift",
     "desc": "The project source code for hackingwithswift.com",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "twostraws/wwdc",
     "desc": "WWDC Community: Learning and sharing together",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "apple/sample-backyard-birds",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "vincent-pradeilles/swift-tips",
     "desc": "A collection useful tips for the Swift language",
-    "topics": ["swift", "tips"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["swift", "tips"]    
   }, {
     "repo": "satoshi0212/visionOS_30Days",
     "desc": "visionOS 30 days challenge.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }
 ]

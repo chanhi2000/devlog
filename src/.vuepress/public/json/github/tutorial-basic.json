@@ -2,152 +2,152 @@
   {
     "repo": "mtdvio/every-programmer-should-know",
     "desc": "A collection of (mostly) technical things every software developer should know about",
-    "topics": ["computer-science", "collection", "educational", "novice", "cc-by"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["computer-science", "collection", "educational", "novice", "cc-by"]    
   }, {
     "repo": "github/opensource.guide",
     "desc": "📚 Community guides for open source creators", 
-    "topics": [],
-    "officialSite": "https://opensource.guide"
+    "officialSite": "https://opensource.guide",
+    "topics": []    
   }, {
     "repo": "PKUFlyingPig/cs-self-learning",
     "desc": "计算机自学指南", 
-    "topics": [],
-    "officialSite": "https://csdiy.wiki"
+    "officialSite": "https://csdiy.wiki",
+    "topics": []    
   }, {
     "repo": "RomuloOliveira/commit-messages-guide",
     "desc": "A guide to understand the importance of commit messages and how to write them well", 
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "practical-tutorials/project-based-learning",
     "desc": "Curated list of project-based tutorials", 
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "Developer-Y/cs-video-courses",
     "desc": "List of Computer Science courses with video lectures.", 
-    "topics": ["programming-language", "computer-science", "security", "machine-learning", "bioinformatics", "web-development", "reinforcement-learning", "computer-vision", "deep-learning", "algorithms", "robotics", "computational-biology", "databases", "embedded-systems", "systems", "computational-physics", "quantum-computing", "computer-architecture", "database-systems"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["programming-language", "computer-science", "security", "machine-learning", "bioinformatics", "web-development", "reinforcement-learning", "computer-vision", "deep-learning", "algorithms", "robotics", "computational-biology", "databases", "embedded-systems", "systems", "computational-physics", "quantum-computing", "computer-architecture", "database-systems"]    
   }, {
     "repo": "dair-ai/Prompt-Engineering-Guide",
     "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering", 
-    "topics": ["deep-learning", "openai", "language-model", "prompt-engineering", "chatgpt"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["deep-learning", "openai", "language-model", "prompt-engineering", "chatgpt"]    
   }, {
     "repo": "freeCodeCamp/freeCodeCamp",
     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.", 
-    "topics": ["react", "nodejs", "javascript", "d3", "teachers", "community", "education", "programming", "curriculum", "math", "freecodecamp", "learn-to-code", "nonprofits", "careers", "certification", "hacktoberfest"],
-    "officialSite": "https://contribute.freecodecamp.org"
+    "officialSite": "https://contribute.freecodecamp.org",
+    "topics": ["react", "nodejs", "javascript", "d3", "teachers", "community", "education", "programming", "curriculum", "math", "freecodecamp", "learn-to-code", "nonprofits", "careers", "certification", "hacktoberfest"]    
   }, {
     "repo": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
     "desc": "This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.", 
-    "topics": ["python", "data-science", "machine-learning", "natural-language-processing", "statistics", "computer-vision", "deep-learning", "datastructures", "numpy", "scikit-learn", "pandas", "data-visualization", "pytorch", "data-engineering", "matplotlib", "tableau", "data-structures-and-algorithms", "mlops", "data-system-design"],
-    "officialSite": "https://www.himanshuramchandani.co"
+    "officialSite": "https://www.himanshuramchandani.co",
+    "topics": ["python", "data-science", "machine-learning", "natural-language-processing", "statistics", "computer-vision", "deep-learning", "datastructures", "numpy", "scikit-learn", "pandas", "data-visualization", "pytorch", "data-engineering", "matplotlib", "tableau", "data-structures-and-algorithms", "mlops", "data-system-design"]    
   }, {
     "repo": "jwasham/coding-interview-university",
     "desc": "A complete computer science study plan to become a software engineer.", 
-    "topics": ["computer-science", "algorithm", "algorithms", "interview", "data-structures", "software-engineering", "coding-interviews", "study-plan", "interview-prep", "interview-preparation", "coding-interview", "programming-interviews"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["computer-science", "algorithm", "algorithms", "interview", "data-structures", "software-engineering", "coding-interviews", "study-plan", "interview-prep", "interview-preparation", "coding-interview", "programming-interviews"]    
   }, {
     "repo": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
     "desc": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.", 
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "RUCAIBox/LLMSurvey",
     "desc": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".", 
-    "topics": ["natural-language-processing", "pre-training", "pre-trained-language-models", "in-context-learning", "large-language-models", "llm", "llms", "chain-of-thought", "chatgpt", "rlhf", "instruction-tuning"],
-    "officialSite": "https://arxiv.org/abs/2303.18223"
+    "officialSite": "https://arxiv.org/abs/2303.18223",
+    "topics": ["natural-language-processing", "pre-training", "pre-trained-language-models", "in-context-learning", "large-language-models", "llm", "llms", "chain-of-thought", "chatgpt", "rlhf", "instruction-tuning"]    
   }, {
     "repo": "pim-book/programmers-introduction-to-mathematics",
     "desc": "Code for A Programmer's Introduction to Mathematics", 
-    "topics": ["python", "mathematics", "programmer"],
-    "officialSite": "https://pimbook.org"
+    "officialSite": "https://pimbook.org",
+    "topics": ["python", "mathematics", "programmer"]    
   }, {
     "repo": "krahets/hello-algo",
     "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。", 
-    "topics": ["algorithm", "data-structure", "algorithms", "leetcode", "algo", "data-structures", "dsa", "mkdocs-material", "data-structures-and-algorithms"],
-    "officialSite": "https://hello-algo.com"
+    "officialSite": "https://hello-algo.com",
+    "topics": ["algorithm", "data-structure", "algorithms", "leetcode", "algo", "data-structures", "dsa", "mkdocs-material", "data-structures-and-algorithms"]    
   }, {
     "repo": "pr0gr4m/Newbie-Guideline",
     "desc": "컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서", 
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "karanpratapsingh/system-design",
     "desc": "Learn how to design systems at scale and prepare for system design interviews", 
-    "topics": ["engineering", "distributed-systems", "microservices", "tech", "architecture", "scalability", "interview", "interview-preparation", "system-design", "system-design-interview"],
-    "officialSite": "https://leanpub.com/systemdesign"
+    "officialSite": "https://leanpub.com/systemdesign",
+    "topics": ["engineering", "distributed-systems", "microservices", "tech", "architecture", "scalability", "interview", "interview-preparation", "system-design", "system-design-interview"]    
   }, {
     "repo": "Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE",
     "desc": "These REPO contains all ALX resources, with Additional Material i found useful during my course of Study in ALX", 
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "arthurspk/guiadevbrasil",
     "desc": "Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.", 
-    "topics": ["github", "javascript", "css", "python", "c", "git", "java", "html", "php", "c-plus-plus", "html5", "csharp", "js", "css3", "python3", "java-8", "html-css-javascript", "github-config"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["github", "javascript", "css", "python", "c", "git", "java", "html", "php", "c-plus-plus", "html5", "csharp", "js", "css3", "python3", "java-8", "html-css-javascript", "github-config"]    
   }, {
     "repo": "thedaviddias/Front-End-Checklist",
     "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
-    "topics": ["javascript", "css", "html", "lists", "checklist", "web-development", "frontend", "reference", "resources", "guidelines", "front-end-development", "front-end-developer-tool"],
-    "officialSite": "https://frontendchecklist.io"
+    "officialSite": "https://frontendchecklist.io",
+    "topics": ["javascript", "css", "html", "lists", "checklist", "web-development", "frontend", "reference", "resources", "guidelines", "front-end-development", "front-end-developer-tool"]    
   }, {
     "repo": "kallaway/100-days-of-code",
     "desc": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
-    "topics": ["challenge", "learn-to-code", "habit-tracking", "100daysofcode", "learn-coding", "100joursdecode"],
-    "officialSite": "http://www.100daysofcode.com"
+    "officialSite": "http://www.100daysofcode.com",
+    "topics": ["challenge", "learn-to-code", "habit-tracking", "100daysofcode", "learn-coding", "100joursdecode"]    
   }, {
     "repo": "Cyfrin/foundry-full-course-f23",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "gustavoguanabara/html-css",
     "desc": "Curso de HTML5 e CSS3",
-    "topics": ["html5", "css3", "gratis", "curso", "cursoemvideo", "gustavoguanabara"],  
-    "officialSite": "https://gustavoguanabara.github.io/html-css"
+    "officialSite": "https://gustavoguanabara.github.io/html-css",
+    "topics": ["html5", "css3", "gratis", "curso", "cursoemvideo", "gustavoguanabara"]
   }, {
     "repo": "firstcontributions/first-contributions",
     "desc": "🚀✨ Help beginners to contribute to open source projects",
-    "topics": ["open-source", "community", "contributions", "tutorial", "tutorials", "help-wanted", "contribution", "beginner", "beginner-friendly", "contributions-welcome", "good-first-issue"],
-    "officialSite": "https://firstcontributions.github.io"
+    "officialSite": "https://firstcontributions.github.io",
+    "topics": ["open-source", "community", "contributions", "tutorial", "tutorials", "help-wanted", "contribution", "beginner", "beginner-friendly", "contributions-welcome", "good-first-issue"]    
   }, {
     "repo": "austinsonger/Incident-Playbook",
     "desc": "GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]",
-    "topics": ["catalog", "incident-response", "playbook", "cybersecurity", "mitre", "incident-management", "incidents", "contributions-welcome", "mitre-attack", "contributors-welcome", "cybersecurity-playbook"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["catalog", "incident-response", "playbook", "cybersecurity", "mitre", "incident-management", "incidents", "contributions-welcome", "mitre-attack", "contributors-welcome", "cybersecurity-playbook"]    
   }, {
     "repo": "pushsecurity/saas-attacks",
     "desc": "Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "The-Run-Philosophy-Organization/run",
     "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "joonspk-research/generative_agents",
     "desc": "Generative Agents: Interactive Simulacra of Human Behavior",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "elidianaandrade/dio-lab-open-source",
     "desc": "Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
-    "topics": ["github", "git", "open-source"],
-    "officialSite": "https://elidianaandrade.github.io/dio-lab-open-source"
+    "officialSite": "https://elidianaandrade.github.io/dio-lab-open-source",
+    "topics": ["github", "git", "open-source"]    
   }, {
     "repo": "byoungd/English-level-up-tips",
     "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。",
-    "topics": ["tutorial", "chinese", "english-learning"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["tutorial", "chinese", "english-learning"]    
   }, {
     "repo": "dair-ai/ML-Papers-Explained",
     "desc": "Explanation to key concepts in ML",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }
 ]

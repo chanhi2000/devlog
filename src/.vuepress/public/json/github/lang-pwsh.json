@@ -1,38 +1,38 @@
 [
-    {
-        "repo": "MicrosoftDocs/azure-docs",
-        "desc": "Open source documentation of Microsoft Azure", 
-        "topics": [],
-        "officialSite": "https://docs.microsoft.com/azure"
-    }, {
-        "repo": "Azure/azure-quickstart-templates",
-        "desc": "Azure Quickstart Templates", 
-        "topics": [],
-        "officialSite": "https://aka.ms/azqst" 
-    }, {
-        "repo": "H4de5-7/powershell-obfuscation",
-        "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",     
-        "topics": [],
-        "officialSite": "" 
-    }, {
-        "repo": "DarkCoderSc/PowerRemoteDesktop",
-        "desc": "Remote Desktop entirely coded in PowerShell.",     
-        "topics": [],
-        "officialSite": "" 
-    }, {
-        "repo": "ChrisTitusTech/winutil",
-        "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates", 
-        "topics": [],
-        "officialSite": "" 
-    }, {
-      "repo": "microsoftgraph/microsoft-graph-docs",
-      "desc": "Documentation for the Microsoft Graph REST API",
-      "topics": ["microsoft-graph-documentation", "devxdocs"],
-      "officialSite": "os"
-    }, {
-      "repo": "fleschutz/PowerShell",
-      "desc": "Mega collection of 500+ useful cross-platform PowerShell scripts.",
-      "topics": ["automation", "remote-control", "collection", "cross-platform", "command-line", "powershell", "scripts", "tasks", "ps1", "powershell-scripts"],
-      "officialSite": ""
-    }
+  {
+    "repo": "MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure", 
+    "officialSite": "https://docs.microsoft.com/azure",
+    "topics": []        
+  }, {
+    "repo": "Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates", 
+    "officialSite": "https://aka.ms/azqst" ,
+    "topics": []        
+  }, {
+    "repo": "H4de5-7/powershell-obfuscation",
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",     
+    "officialSite": "" ,
+    "topics": []        
+  }, {
+    "repo": "DarkCoderSc/PowerRemoteDesktop",
+    "desc": "Remote Desktop entirely coded in PowerShell.",     
+    "officialSite": "" ,
+    "topics": []        
+  }, {
+    "repo": "ChrisTitusTech/winutil",
+    "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates", 
+    "officialSite": "" ,
+    "topics": []        
+  }, {
+    "repo": "microsoftgraph/microsoft-graph-docs",
+    "desc": "Documentation for the Microsoft Graph REST API",
+    "officialSite": "os",
+    "topics": ["microsoft-graph-documentation", "devxdocs"]      
+  }, {
+    "repo": "fleschutz/PowerShell",
+    "desc": "Mega collection of 500+ useful cross-platform PowerShell scripts.",
+    "officialSite": "",
+    "topics": ["automation", "remote-control", "collection", "cross-platform", "command-line", "powershell", "scripts", "tasks", "ps1", "powershell-scripts"]      
+  }
 ]

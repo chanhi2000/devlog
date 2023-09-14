@@ -34,6 +34,8 @@ tags: ["macos", "settings"]
 - [macOS Ventura에서 QHD 모니터에 HiDPI 설정하기 (feat. LG 16MR70)](https://www.clien.net/service/board/lecture/17878979)
 - [VMware Fusion을 이용하여 Mac Arm CPU에서 Windows 11 ARM 설치하기](https://www.clien.net/service/board/lecture/18102257)
 - [Mac Arm CPU에서 WMware - Win11 ARM(가상) 활용방법(파일공유, 외부장치 연결 등)](https://www.clien.net/service/board/lecture/18105821)
+- [macOS 라이브 텍스트를 커멘드라인으로 사용 하기 9](https://www.clien.net/service/board/lecture/18203350)
+\
 ---
 
 ## Environment Setup
@@ -96,6 +98,18 @@ tags: ["macos", "settings"]
 ## THE ECLECTIC LIGHT COMPANY
 
 - [Run a macOS VM on Apple silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy)
+
+---
+
+## Mullvad VPN
+
+- [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working)
+
+---
+
+## Amiga
+
+- [The Greatest "Classic" Mac Laptop Ever: The Powerbook G3 Pismo](https://www.amigalove.com/viewtopic.php?t=1796)
 
 ---
 

@@ -2,747 +2,747 @@
   {
     "repo": "containers/podman",
     "desc": "Podman: A tool for managing OCI containers and pods.",
-    "topics": ["linux", "docker", "kubernetes", "containers", "oci"],
-    "officialSite": "https://podman.io"
+    "officialSite": "https://podman.io",
+    "topics": ["linux", "docker", "kubernetes", "containers", "oci"]    
   }, {
     "repo": "Arriven/db1000n",
     "desc": "Death by 1000 needles",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "charmbracelet/vhs",
     "desc": "Your CLI home video recorder 📼",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "gorilla/mux",
     "desc": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
-    "topics": ["go", "golang", "http", "middleware", "router", "gorilla", "mux", "gorilla-web-toolkit"],
-    "officialSite": "https://gorilla.github.io"
+    "officialSite": "https://gorilla.github.io",
+    "topics": ["go", "golang", "http", "middleware", "router", "gorilla", "mux", "gorilla-web-toolkit"]    
   }, {
     "repo": "schollz/croc",
     "desc": "Easily and securely send things from one computer to another 🐊 📦",
-    "topics": ["golang", "tcp", "transfer", "peer-to-peer", "file-sharing", "data-transfer", "pake"],
-    "officialSite": "https://schollz.com/software/croc6"
+    "officialSite": "https://schollz.com/software/croc6",
+    "topics": ["golang", "tcp", "transfer", "peer-to-peer", "file-sharing", "data-transfer", "pake"]    
   }, {
     "repo": "eatmoreapple/openwechat",
     "desc": "golang版微信SDK",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "awslabs/eks-node-viewer",
     "desc": "EKS Node Viewer",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "dolthub/dolt",
     "desc": "Dolt – Git for Data",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "aler9/rtsp-simple-server",
     "desc": "ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "miniscruff/changie",
     "desc": "Automated changelog tool for preparing releases with lots of customization options",
-    "topics": [],
-    "officialSite": "https://changie.dev"
+    "officialSite": "https://changie.dev",
+    "topics": []    
   }, {
     "repo": "pocketbase/pocketbase",
     "desc": "Open Source realtime backend in 1 file",
-    "topics": [],
-    "officialSite": "https://pocketbase.io"
+    "officialSite": "https://pocketbase.io",
+    "topics": []    
   }, {
     "repo": "terrastruct/d2",
     "desc": "D2 is a modern diagram scripting language that turns text to diagrams.",
-    "topics": [],
-    "officialSite": "https://d2lang.com"
+    "officialSite": "https://d2lang.com",
+    "topics": []    
   }, {
     "repo": "sundowndev/phoneinfoga",
     "desc": "Information gathering framework for phone numbers",
-    "topics": [],
-    "officialSite": "https://sundowndev.github.io/phoneinfoga"
+    "officialSite": "https://sundowndev.github.io/phoneinfoga",
+    "topics": []    
   }, {
     "repo": "hashicorp/vault",
     "desc": "A tool for secrets management, encryption as a service, and privileged access management",
-    "topics": [],
-    "officialSite": "https://www.vaultproject.io"
+    "officialSite": "https://www.vaultproject.io",
+    "topics": []    
   }, {
     "repo": "answerdev/answer",
     "desc": "An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",
-    "topics": [],
-    "officialSite": "https://answer.dev"
+    "officialSite": "https://answer.dev",
+    "topics": []    
   }, {
     "repo": "alpkeskin/mosint",
     "desc": "An automated e-mail OSINT tool",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "YaoApp/yao",
     "desc": "🚀 A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.",
-    "topics": [],
-    "officialSite": "https://yaoapps.com"
+    "officialSite": "https://yaoapps.com",
+    "topics": []    
   }, {
     "repo": "samber/lo",
     "desc": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
-    "topics": [],
-    "officialSite": "https://pkg.go.dev/github.com/samber/lo"
+    "officialSite": "https://pkg.go.dev/github.com/samber/lo",
+    "topics": []    
   }, {
     "repo": "gin-gonic/gin",
     "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
-    "topics": [],
-    "officialSite": "https://gin-gonic.com"
+    "officialSite": "https://gin-gonic.com",
+    "topics": []    
   }, {
     "repo": "liamg/traitor",
     "desc": "⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "google/log4jscanner",
     "desc": "A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "gofiber/fiber",
     "desc": "⚡️ Express inspired web framework written in Go",
-    "topics": [],
-    "officialSite": "https://gofiber.io"
+    "officialSite": "https://gofiber.io",
+    "topics": []    
   }, {
     "repo": "stashapp/stash",
     "desc": "An organizer for your porn, written in Go",
-    "topics": [],
-    "officialSite": "https://stashapp.cc"
+    "officialSite": "https://stashapp.cc",
+    "topics": []    
   }, {
     "repo": "google/go-containerregistry",
     "desc": "Go library and CLIs for working with container registries",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "ddosify/ddosify",
     "desc": "Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀",
-    "topics": ["go", "docker", "golang", "load-testing", "load-generator", "hacktoberfest", "performance-testing", "loadtesting", "ddosify"],
-    "officialSite": "https://ddosify.com"
+    "officialSite": "https://ddosify.com",
+    "topics": ["go", "docker", "golang", "load-testing", "load-generator", "hacktoberfest", "performance-testing", "loadtesting", "ddosify"]    
   }, {
     "repo": "thangchung/go-coffeeshop",
     "desc": "☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "Dreamacro/clash",
     "desc": "A rule-based tunnel in Go.",
-    "topics": ["tunnel", "golang", "clash", "rule-based"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["tunnel", "golang", "clash", "rule-based"]    
   }, {
     "repo": "zinclabs/zinc",
     "desc": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
-    "topics": [],
-    "officialSite": "https://zincsearch.com"
+    "officialSite": "https://zincsearch.com",
+    "topics": []    
   }, {
     "repo": "google/osv-scanner",
     "desc": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "alist-org/alist",
     "desc": "🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
-    "topics": ["golang", "onedrive", "webdav", "gin", "file-server", "solidjs"],
-    "officialSite": "https://alist.nn.ci"
+    "officialSite": "https://alist.nn.ci",
+    "topics": ["golang", "onedrive", "webdav", "gin", "file-server", "solidjs"]    
   }, {
     "repo": "adhocteam/pushup",
     "desc": "Pushup is for making modern, page-oriented web apps in Go",
-    "topics": [],
-    "officialSite": "https://pushup.adhoc.dev"
+    "officialSite": "https://pushup.adhoc.dev",
+    "topics": []    
   }, {
     "repo": "grafana/mimir",
     "desc": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
-    "topics": [],
-    "officialSite": "https://grafana.com/oss/mimir"
+    "officialSite": "https://grafana.com/oss/mimir",
+    "topics": []    
   }, {
     "repo": "ccfos/nightingale",
     "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
-    "topics": [],
-    "officialSite": "https://flashcat.cloud/docs"
+    "officialSite": "https://flashcat.cloud/docs",
+    "topics": []    
   }, {
     "repo": "pgrok/pgrok",
     "desc": "Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "1Panel-dev/1Panel",
     "desc": "🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。",
-    "topics": ["docker", "database", "filemanager", "docker-compose", "docker-container", "crontab", "panel", "docker-image", "lnmp", "lamp", "appstore", "docker-ui"],
-    "officialSite": "https://1panel.cn"
+    "officialSite": "https://1panel.cn",
+    "topics": ["docker", "database", "filemanager", "docker-compose", "docker-container", "crontab", "panel", "docker-image", "lnmp", "lamp", "appstore", "docker-ui"]    
   }, {
     "repo": "charmbracelet/soft-serve",
     "desc": "A tasty, self-hostable Git server for the command line🍦",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "social4git/social4git",
     "desc": "A decentralized social protocol based on git",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "pojntfx/go-nbd",
     "desc": "Pure Go NBD server and client library.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "iDvel/rime-ice",
     "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
-    "topics": [],
-    "officialSite": "https://dvel.me/posts/rime-ice"
+    "officialSite": "https://dvel.me/posts/rime-ice",
+    "topics": []    
   }, {
     "repo": "anchore/grype",
     "desc": "A vulnerability scanner for container images and filesystems",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "anchore/syft",
     "desc": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "v2fly/v2ray-core",
     "desc": "A platform for building proxies to bypass network restrictions.",
-    "topics": [],
-    "officialSite": "https://v2fly.org"
+    "officialSite": "https://v2fly.org",
+    "topics": []    
   }, {
     "repo": "datastack-net/dockerized",
     "desc": "Run popular commandline tools within docker",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "aws/karpenter",
     "desc": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
-    "topics": [],
-    "officialSite": "https://karpenter.sh"
+    "officialSite": "https://karpenter.sh",
+    "topics": []    
   }, {
     "repo": "cilium/cilium",
     "desc": "eBPF-based Networking, Security, and Observability",
-    "topics": [],
-    "officialSite": "https://cilium.io"
+    "officialSite": "https://cilium.io",
+    "topics": []    
   }, {
     "repo": "kubesphere/kubesphere",
     "desc": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
-    "topics": [],
-    "officialSite": "https://kubesphere.io"
+    "officialSite": "https://kubesphere.io",
+    "topics": []    
   }, {
     "repo": "ConnectAI-E/Feishu-OpenAI",
     "desc": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "FerretDB/FerretDB",
     "desc": "A truly Open Source MongoDB alternative",
-    "topics": [],
-    "officialSite": "https://www.ferretdb.io"
+    "officialSite": "https://www.ferretdb.io",
+    "topics": []    
   }, {
     "repo": "prometheus/prometheus",
     "desc": "The Prometheus monitoring system and time series database.",
-    "topics": [],
-    "officialSite": "https://prometheus.io"
+    "officialSite": "https://prometheus.io",
+    "topics": []    
   }, {
     "repo": "devfullcycle/fclx",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "go-skynet/LocalAI",
     "desc": "🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",
-    "topics": ["ai", "llama", "alpaca", "vicuna", "gpt-neox", "llm", "rwkv"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["ai", "llama", "alpaca", "vicuna", "gpt-neox", "llm", "rwkv"]    
   }, {
     "repo": "berachain/polaris",
     "desc": "Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",
-    "topics": [],
-    "officialSite": "https://polaris.berachain.dev"
+    "officialSite": "https://polaris.berachain.dev",
+    "topics": []    
   }, {
     "repo": "k8sgpt-ai/k8sgpt",
     "desc": "Giving Kubernetes SRE superpowers to everyone",
-    "topics": ["kubernetes", "devops", "tooling", "openai", "sre"],
-    "officialSite": "http://k8sgpt.ai"
+    "officialSite": "http://k8sgpt.ai",
+    "topics": ["kubernetes", "devops", "tooling", "openai", "sre"]    
   }, {
     "repo": "moul/quicssh",
     "desc": "SSH over QUIC",
-    "topics": ["cli", "ssh", "hack", "server", "daemon", "proxy", "quic"],
-    "officialSite": "http://k8sgpt.ai"
+    "officialSite": "http://k8sgpt.ai",
+    "topics": ["cli", "ssh", "hack", "server", "daemon", "proxy", "quic"]    
   }, {
     "repo": "projectdiscovery/httpx",
     "desc": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
-    "topics": ["cli", "http", "osint", "pipeline", "lib", "cybersecurity", "ssl-certificate", "bugbounty", "hacktoberfest", "pentest-tool"],
-    "officialSite": "https://projectdiscovery.io"
+    "officialSite": "https://projectdiscovery.io",
+    "topics": ["cli", "http", "osint", "pipeline", "lib", "cybersecurity", "ssl-certificate", "bugbounty", "hacktoberfest", "pentest-tool"]    
   }, {
     "repo": "jesseduffield/lazygit",
     "desc": "simple terminal UI for git commands",
-    "topics": ["git", "cli", "terminal"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["git", "cli", "terminal"]    
   }, {
     "repo": "temporalio/temp",
     "desc": "Temporal service",
-    "topics": ["golang", "distributed-systems", "workflow-engine", "service-bus", "microservices-architecture", "workflows", "workflow-management", "cronjob-scheduler", "service-fabric", "microservice-framework", "workflow-management-system", "orchestrator", "workflow-automation", "distributed-cron", "microservice-orchestration"],
-    "officialSite": "https://docs.temporal.io"
+    "officialSite": "https://docs.temporal.io",
+    "topics": ["golang", "distributed-systems", "workflow-engine", "service-bus", "microservices-architecture", "workflows", "workflow-management", "cronjob-scheduler", "service-fabric", "microservice-framework", "workflow-management-system", "orchestrator", "workflow-automation", "distributed-cron", "microservice-orchestration"]    
   }, {
     "repo": "lu4p/ToRat",
     "desc": "ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication",
-    "topics": ["windows", "linux", "golang", "reverse-shell", "cross-platform", "persistence", "tor", "rpc", "transport", "rat", "keylogger", "post-exploitation", "payload", "privilege-escalation", "remote-admin-tool", "uac-bypass", "command-and-control", "shell-reverse", "reverse-shells", "uacbypass"],
-    "officialSite": "https://lu4p.github.io/ToRat"
+    "officialSite": "https://lu4p.github.io/ToRat",
+    "topics": ["windows", "linux", "golang", "reverse-shell", "cross-platform", "persistence", "tor", "rpc", "transport", "rat", "keylogger", "post-exploitation", "payload", "privilege-escalation", "remote-admin-tool", "uac-bypass", "command-and-control", "shell-reverse", "reverse-shells", "uacbypass"]    
   }, {
     "repo": "go-gitea/gitea",
     "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",
-    "topics": ["github", "git", "go", "golang", "devops", "gitlab", "gogs", "gitea", "git-server", "hacktoberfest", "git-gui", "github-clone"],
-    "officialSite": "https://gitea.io"
+    "officialSite": "https://gitea.io",
+    "topics": ["github", "git", "go", "golang", "devops", "gitlab", "gogs", "gitea", "git-server", "hacktoberfest", "git-gui", "github-clone"]    
   }, {
     "repo": "TimothyStiles/poly",
     "desc": "A Go package for engineering organisms.",
-    "topics": ["bioinformatics", "synthetic-biology", "computational-biology", "dna", "genbank", "fasta", "molecular-biology", "synbio", "bioengineering", "primer-design", "golden-gate", "dna-barcode", "plasmids", "dna-barcoding", "codon-optimizer", "genetic-engineering", "engineering-organisms", "sequence-hashing"],
-    "officialSite": "https://pkg.go.dev/github.com/TimothyStiles/poly"
+    "officialSite": "https://pkg.go.dev/github.com/TimothyStiles/poly",
+    "topics": ["bioinformatics", "synthetic-biology", "computational-biology", "dna", "genbank", "fasta", "molecular-biology", "synbio", "bioengineering", "primer-design", "golden-gate", "dna-barcode", "plasmids", "dna-barcoding", "codon-optimizer", "genetic-engineering", "engineering-organisms", "sequence-hashing"]    
   }, {
     "repo": "syncthing/syncthing",
     "desc": "Open Source Continuous File Synchronization",
-    "topics": ["go", "synchronization", "peer-to-peer", "p2p"],
-    "officialSite": "https://forum.syncthing.net"
+    "officialSite": "https://forum.syncthing.net",
+    "topics": ["go", "synchronization", "peer-to-peer", "p2p"]    
   }, {
     "repo": "earthly/earthly",
     "desc": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",
-    "topics": ["dockerfiles", "build", "framework", "ci", "build-automation", "ci-cd", "build-tool", "build-system", "docker-images", "cicd", "hacktoberfest", "reproducible-builds", "container-builder", "hacktoberfest2020", "hacktoberfest2021"],
-    "officialSite": "https://earthly.dev"
+    "officialSite": "https://earthly.dev",
+    "topics": ["dockerfiles", "build", "framework", "ci", "build-automation", "ci-cd", "build-tool", "build-system", "docker-images", "cicd", "hacktoberfest", "reproducible-builds", "container-builder", "hacktoberfest2020", "hacktoberfest2021"]    
   }, {
     "repo": "gitleaks/gitleaks",
     "desc": "Protect and discover secrets using Gitleaks 🔑",
-    "topics": ["git", "go", "golang", "security", "secret", "hacktoberfest", "security-tools", "devsecops", "gitleaks"],
-    "officialSite": "https://gitleaks.io"
+    "officialSite": "https://gitleaks.io",
+    "topics": ["git", "go", "golang", "security", "secret", "hacktoberfest", "security-tools", "devsecops", "gitleaks"]    
   }, {
     "repo": "aquasecurity/trivy",
     "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "topics": ["go", "docker", "kubernetes", "golang", "security", "containers", "iac", "vulnerability", "infrastructure-as-code", "vulnerability-detection", "hacktoberfest", "vulnerability-scanners", "security-tools", "devsecops", "misconfiguration"],
-    "officialSite": "https://aquasecurity.github.io/trivy"
+    "officialSite": "https://aquasecurity.github.io/trivy",
+    "topics": ["go", "docker", "kubernetes", "golang", "security", "containers", "iac", "vulnerability", "infrastructure-as-code", "vulnerability-detection", "hacktoberfest", "vulnerability-scanners", "security-tools", "devsecops", "misconfiguration"]    
   }, {
     "repo": "containers/skopeo",
     "desc": "Work with remote images registries - retrieving information, images, signing content",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "containers/buildah",
     "desc": "A tool that facilitates building OCI images.",
-    "topics": ["docker", "container", "oci", "hacktoberfest", "container-image", "hacktoberfest2022"],
-    "officialSite": "https://buildah.io"
+    "officialSite": "https://buildah.io",
+    "topics": ["docker", "container", "oci", "hacktoberfest", "container-image", "hacktoberfest2022"]    
   }, {
     "repo": "cri-o/cri-o",
     "desc": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
-    "topics": ["kubernetes", "oci", "hacktoberfest", "runc", "container-runtime-interface", "oci-runtime", "kata-containers", "k8s-sig-node"],
-    "officialSite": "https://cri-o.io"
+    "officialSite": "https://cri-o.io",
+    "topics": ["kubernetes", "oci", "hacktoberfest", "runc", "container-runtime-interface", "oci-runtime", "kata-containers", "k8s-sig-node"]    
   }, {
     "repo": "XTLS/Trojan-killer",
     "desc": "Detect TLS in TLS.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "google/simhospital",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "adams549659584/go-proxy-bingai",
     "desc": "用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。",
-    "topics": [],
-    "officialSite": "https://bing.vcanbb.top"
+    "officialSite": "https://bing.vcanbb.top",
+    "topics": []    
   }, {
     "repo": "casbin/casbin",
     "desc": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
-    "topics": ["go", "identity", "oauth", "saml", "authentication", "iam", "acl", "auth", "authorization", "cas", "permission", "rbac", "sso", "oidc", "access-control", "abac", "authz", "authn", "casbin", "casdoor"],
-    "officialSite": "https://casbin.org"
+    "officialSite": "https://casbin.org",
+    "topics": ["go", "identity", "oauth", "saml", "authentication", "iam", "acl", "auth", "authorization", "cas", "permission", "rbac", "sso", "oidc", "access-control", "abac", "authz", "authn", "casbin", "casdoor"]    
   }, {
     "repo": "sjlleo/nexttrace",
     "desc": "An open source visual route tracking CLI tool",
-    "topics": ["api", "geolocation", "geoip", "ip-lookup", "traceroute", "as-path", "asn-lookup"],
-    "officialSite": "https://mtr.moe"
+    "officialSite": "https://mtr.moe",
+    "topics": ["api", "geolocation", "geoip", "ip-lookup", "traceroute", "as-path", "asn-lookup"]    
   }, {
     "repo": "gitleaks/gitleaks",
     "desc": "Protect and discover secrets using Gitleaks 🔑",
-    "topics": ["git", "go", "golang", "security", "secret", "hacktoberfest", "security-tools", "devsecops", "gitleaks"],
-    "officialSite": "https://gitleaks.io"
+    "officialSite": "https://gitleaks.io",
+    "topics": ["git", "go", "golang", "security", "secret", "hacktoberfest", "security-tools", "devsecops", "gitleaks"]    
   }, {
     "repo": "paypal/junodb",
     "desc": "JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "tidwall/jj",
     "desc": "JSON Stream Editor (command line utility)",
-    "topics": ["json", "utility"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["json", "utility"]    
   }, {
     "repo": "bluenviron/mediamtx",
     "desc": "Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.",
-    "topics": ["go", "golang", "streaming", "rtsp", "hls", "rtmp", "webrtc", "rtsp-server", "media-server", "rtmp-server", "rtp", "obs-studio", "rtcp", "rtsp-relay", "rtmp-proxy", "webrtc-proxy", "rtsp-proxy"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "golang", "streaming", "rtsp", "hls", "rtmp", "webrtc", "rtsp-server", "media-server", "rtmp-server", "rtp", "obs-studio", "rtcp", "rtsp-relay", "rtmp-proxy", "webrtc-proxy", "rtsp-proxy"]    
   }, {
     "repo": "redis/rueidis",
     "desc": "A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.",
-    "topics": ["go", "redis", "golang", "cache", "lock", "distributed", "generics", "redis-client", "resp3", "resp3-client", "client-side-caching"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "redis", "golang", "cache", "lock", "distributed", "generics", "redis-client", "resp3", "resp3-client", "client-side-caching"]    
   }, {
     "repo": "hickford/git-credential-oauth",
     "desc": "A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.",
-    "topics": ["git", "usable-security", "git-credential-helper"],
-    "officialSite": "https://pkg.go.dev/github.com/hickford/git-credential-oauth"
+    "officialSite": "https://pkg.go.dev/github.com/hickford/git-credential-oauth",
+    "topics": ["git", "usable-security", "git-credential-helper"]    
   }, {
     "repo": "milvus-io/milvus",
     "desc": "A cloud-native vector database, storage for next generation AI applications",
-    "topics": ["golang", "distributed", "nearest-neighbor-search", "image-search", "approximate-nearest-neighbor-search", "similarity-search", "video-search", "vector-similarity", "faiss", "anns", "hnsw", "vector-search", "vector-database", "similarity-searches", "llm", "embedding-database", "embedding-store", "vector-store", "embedding-similarity", "tensor-database"],
-    "officialSite": "https://milvus.io"
+    "officialSite": "https://milvus.io",
+    "topics": ["golang", "distributed", "nearest-neighbor-search", "image-search", "approximate-nearest-neighbor-search", "similarity-search", "video-search", "vector-similarity", "faiss", "anns", "hnsw", "vector-search", "vector-database", "similarity-searches", "llm", "embedding-database", "embedding-store", "vector-store", "embedding-similarity", "tensor-database"]    
   }, {
     "repo": "wader/fq",
     "desc": "jq for binary formats - tool, language and decoders for working with binary and text formats",
-    "topics": ["go", "tls", "cli", "golang", "json", "query", "pcap", "binary", "xml", "repl", "jq", "decode", "hexdump"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "tls", "cli", "golang", "json", "query", "pcap", "binary", "xml", "repl", "jq", "decode", "hexdump"]    
   }, {
     "repo": "mactat/framed",
     "desc": "CLI tool for projects management",
-    "topics": ["config", "cli", "ci", "project-management", "cicd"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["config", "cli", "ci", "project-management", "cicd"]    
   }, {
     "repo": "grpc/grpc-go",
     "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
-    "topics": ["go", "golang", "microservices", "grpc", "rpc", "hacktoberfest", "proto", "nanoservices", "giant-robots", "dogs-over-cats"],
-    "officialSite": "https://grpc.io"
+    "officialSite": "https://grpc.io",
+    "topics": ["go", "golang", "microservices", "grpc", "rpc", "hacktoberfest", "proto", "nanoservices", "giant-robots", "dogs-over-cats"]    
   }, {
     "repo": "golang-migrate/migrate",
     "desc": "Database migrations. CLI and Golang library.",
-    "topics": ["mysql", "go", "golang", "postgres", "sql", "database", "cassandra", "mongodb", "neo4j", "migrations", "sqlite", "aws-s3", "google-cloud-storage", "databases", "migration", "mariadb", "hacktoberfest", "spanner", "google-cloud-spanner"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["mysql", "go", "golang", "postgres", "sql", "database", "cassandra", "mongodb", "neo4j", "migrations", "sqlite", "aws-s3", "google-cloud-storage", "databases", "migration", "mariadb", "hacktoberfest", "spanner", "google-cloud-spanner"]    
   }, {
     "repo": "ansible-semaphore/semaphore",
     "desc": "Modern UI for Ansible",
-    "topics": ["javascript", "html", "golang", "ansible", "devops", "ci", "cicd"],
-    "officialSite": "https://ansible-semaphore.com"
+    "officialSite": "https://ansible-semaphore.com",
+    "topics": ["javascript", "html", "golang", "ansible", "devops", "ci", "cicd"]    
   }, {
     "repo": "knadh/listmonk",
     "desc": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-    "topics": ["email-marketing", "email-campaigns", "self-hosted", "newsletter", "smtp", "campaign", "mailing-list", "sms-gateway", "email-subscription", "newsletter-management", "campaign-management", "listmonk", "fcm-messaging"],
-    "officialSite": "https://listmonk.app"
+    "officialSite": "https://listmonk.app",
+    "topics": ["email-marketing", "email-campaigns", "self-hosted", "newsletter", "smtp", "campaign", "mailing-list", "sms-gateway", "email-subscription", "newsletter-management", "campaign-management", "listmonk", "fcm-messaging"]    
   }, {
     "repo": "dolthub/dolt",
     "desc": "Dolt – Git for Data",
-    "topics": ["mysql", "git", "golang", "sql", "database", "command-line", "immutable-database", "data-version-control", "data-versioning", "database-version-control", "decentralized-database", "git-database", "git-for-data", "database-versioning", "version-controlled-database", "git-for-databases", "git-sql"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["mysql", "git", "golang", "sql", "database", "command-line", "immutable-database", "data-version-control", "data-versioning", "database-version-control", "decentralized-database", "git-database", "git-for-data", "database-versioning", "version-controlled-database", "git-for-databases", "git-sql"]    
   }, {
     "repo": "gorilla/websocket",
     "desc": "A fast, well-tested and widely used WebSocket implementation for Go.",
-    "topics": ["go", "golang", "gorilla", "websocket", "gorilla-websocket"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "golang", "gorilla", "websocket", "gorilla-websocket"]    
   }, {
     "repo": "containerd/containerd",
     "desc": "An open and reliable container runtime",
-    "topics": ["docker", "kubernetes", "containers", "cncf", "oci", "cri", "hacktoberfest", "containerd"],
-    "officialSite": "https://containerd.io"
+    "officialSite": "https://containerd.io",
+    "topics": ["docker", "kubernetes", "containers", "cncf", "oci", "cri", "hacktoberfest", "containerd"]    
   }, {
     "repo": "kubernetes/kube-state-metrics",
     "desc": "Add-on agent to generate and expose cluster-level metrics.",
-    "topics": ["kubernetes", "monitoring", "metrics", "prometheus", "prometheus-exporter", "kubernetes-monitoring", "observability", "kubernetes-exporter"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["kubernetes", "monitoring", "metrics", "prometheus", "prometheus-exporter", "kubernetes-monitoring", "observability", "kubernetes-exporter"]    
   }, {
     "repo": "labring/sealos",
     "desc": "Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.",
-    "topics": ["docker", "kubernetes", "golang", "install", "container", "kubeadm", "ipvs", "kubernetes-ha", "cloudos"],
-    "officialSite": "https://cloud.sealos.io"
+    "officialSite": "https://cloud.sealos.io",
+    "topics": ["docker", "kubernetes", "golang", "install", "container", "kubeadm", "ipvs", "kubernetes-ha", "cloudos"]    
   }, {
     "repo": "derailed/k9s",
     "desc": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
-    "topics": ["go", "kubernetes", "golang", "k8s", "k8s-cluster", "kubernetes-cli", "kubernetes-clusters", "k9s"],
-    "officialSite": "https://k9scli.io"
+    "officialSite": "https://k9scli.io",
+    "topics": ["go", "kubernetes", "golang", "k8s", "k8s-cluster", "kubernetes-cli", "kubernetes-clusters", "k9s"]    
   }, {
     "repo": "prometheus/node_exporter",
     "desc": "Exporter for machine metrics",
-    "topics": ["metrics", "prometheus", "system-information", "prometheus-exporter", "procfs", "node-metrics", "machine-metrics", "host-metrics", "system-metrics"],
-    "officialSite": "https://prometheus.io"
+    "officialSite": "https://prometheus.io",
+    "topics": ["metrics", "prometheus", "system-information", "prometheus-exporter", "procfs", "node-metrics", "machine-metrics", "host-metrics", "system-metrics"]    
   }, {
     "repo": "k1LoW/tbls",
     "desc": "tbls is a CI-Friendly tool for document a database, written in Go.",
-    "topics": ["mysql", "markdown", "bigquery", "continuous-integration", "sqlite", "excel", "dynamodb", "postgresql", "documentation-tool", "snowflake", "plantuml", "mariadb", "redshift", "sqlserver", "database-schema", "mermaid", "hacktoberfest", "spanner", "er-diagram", "database-document"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["mysql", "markdown", "bigquery", "continuous-integration", "sqlite", "excel", "dynamodb", "postgresql", "documentation-tool", "snowflake", "plantuml", "mariadb", "redshift", "sqlserver", "database-schema", "mermaid", "hacktoberfest", "spanner", "er-diagram", "database-document"]    
   }, {
     "repo": "nicewook/gopt",
     "desc": "Using GPT 3.5 in terminal",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "loft-sh/devpod",
     "desc": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
-    "topics": ["docker", "kubernetes", "development", "cloud", "ide", "vscode", "developer-tools", "devcontainer", "remote-development", "devcontainers", "remote-development-environment"],
-    "officialSite": "https://devpod.sh"
+    "officialSite": "https://devpod.sh",
+    "topics": ["docker", "kubernetes", "development", "cloud", "ide", "vscode", "developer-tools", "devcontainer", "remote-development", "devcontainers", "remote-development-environment"]    
   }, {
     "repo": "google/google-ctf",
     "desc": "Google CTF",
-    "topics": ["security", "google", "ctf", "ctf-challenges"],
-    "officialSite": "https://g.co/ctf"
+    "officialSite": "https://g.co/ctf",
+    "topics": ["security", "google", "ctf", "ctf-challenges"]    
   }, {
     "repo": "jetpack-io/typeid",
     "desc": "Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
-    "topics": ["uuid", "guid", "uuidv7", "typeid"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["uuid", "guid", "uuidv7", "typeid"]    
   }, {
     "repo": "glycerine/zygomys",
     "desc": "Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.",
-    "topics": [],
-    "officialSite": "https://github.com/glycerine/zygomys/wiki"
+    "officialSite": "https://github.com/glycerine/zygomys/wiki",
+    "topics": []    
   }, {
     "repo": "teslamotors/fleet-telemetry",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "christianselig/apollo-backend",
     "desc": "Apollo backend server",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "sourcegraph/sourcegraph",
     "desc": "Code Intelligence Platform",
-    "topics": ["open-source", "code-search", "sourcegraph", "code-intelligence", "repo-type-main", "lsif-enabled"],
-    "officialSite": "https://sourcegraph.com"
+    "officialSite": "https://sourcegraph.com",
+    "topics": ["open-source", "code-search", "sourcegraph", "code-intelligence", "repo-type-main", "lsif-enabled"]    
   }, {
     "repo": "XIU2/CloudflareSpeedTest",
     "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
-    "topics": ["go", "golang", "cdn", "speedtest", "cloudflare"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "golang", "cdn", "speedtest", "cloudflare"]    
   }, {
     "repo": "photoprism/photoprism",
     "desc": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
-    "topics": ["golang", "machine-learning", "ai", "photography", "tensorflow", "self-hosted", "google-photos", "private-cloud"],
-    "officialSite": "https://www.photoprism.app"
+    "officialSite": "https://www.photoprism.app",
+    "topics": ["golang", "machine-learning", "ai", "photography", "tensorflow", "self-hosted", "google-photos", "private-cloud"]    
   }, {
     "repo": "diggerhq/digger",
     "desc": "Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️",
-    "topics": ["terraform", "tacos", "infrastructure-as-code", "terraform-aws", "terraform-gcp", "github-actions", "terraform-github-actions", "terraformcloud"],
-    "officialSite": "https://digger.dev"
+    "officialSite": "https://digger.dev",
+    "topics": ["terraform", "tacos", "infrastructure-as-code", "terraform-aws", "terraform-gcp", "github-actions", "terraform-github-actions", "terraformcloud"]    
   }, {
     "repo": "gogf/gf",
     "desc": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
-    "topics": ["config", "go", "kubernetes", "golang", "template", "framework", "orm", "apollo", "cache", "logger", "validator", "logging", "session", "tracing", "opentracing", "configmap", "go-framework", "goframe", "opentelemetry"],
-    "officialSite": "https://goframe.org"
+    "officialSite": "https://goframe.org",
+    "topics": ["config", "go", "kubernetes", "golang", "template", "framework", "orm", "apollo", "cache", "logger", "validator", "logging", "session", "tracing", "opentracing", "configmap", "go-framework", "goframe", "opentelemetry"]    
   }, {
     "repo": "gorse-io/gorse",
     "desc": "Gorse open source recommender system engine",
-    "topics": ["go", "machine-learning", "collaborative-filtering", "recommender-system", "knn"],
-    "officialSite": "https://gorse.io"
+    "officialSite": "https://gorse.io",
+    "topics": ["go", "machine-learning", "collaborative-filtering", "recommender-system", "knn"]    
   }, {
     "repo": "jesseduffield/lazydocker",
     "desc": "The lazier way to manage everything docker",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "charmbracelet/pop",
     "desc": "Send emails from your terminal 📬",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "okx/go-wallet-sdk",
     "desc": "Multi-chain golang signature sdk, supports bitcoin, ethereum, aptos, cosmos, etc.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "acheong08/ChatGPT-to-API",
     "desc": "Scalable unofficial ChatGPT API for production.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "GRVYDEV/S.A.T.U.R.D.A.Y",
     "desc": "A toolbox for working with WebRTC, Audio and AI",
-    "topics": ["audio", "golang", "ai", "webrtc", "opus", "opus-codec", "whisper-cpp"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["audio", "golang", "ai", "webrtc", "opus", "opus-codec", "whisper-cpp"]    
   }, {
     "repo": "nats-io/nats-server",
     "desc": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
-    "topics": ["go", "golang", "distributed-systems", "cloud", "messaging", "message-bus", "message-queue", "cloud-computing", "cloud-native", "microservices-architecture", "nats-server"],
-    "officialSite": "https://nats.io"
+    "officialSite": "https://nats.io",
+    "topics": ["go", "golang", "distributed-systems", "cloud", "messaging", "message-bus", "message-queue", "cloud-computing", "cloud-native", "microservices-architecture", "nats-server"]    
   }, {
     "repo": "brevdev/brev-cli",
     "desc": "Connect your laptop to cloud computers. Follow to stay updated about our product",
-    "topics": ["cli", "golang", "oss", "devtools", "cloud-computing"],
-    "officialSite": "https://brev.dev"
+    "officialSite": "https://brev.dev",
+    "topics": ["cli", "golang", "oss", "devtools", "cloud-computing"]    
   }, {
     "repo": "Narasimha1997/fake-sms",
     "desc": "A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.",
-    "topics": ["go", "golang", "privacy", "go-modules"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "golang", "privacy", "go-modules"]    
   }, {
     "repo": "Edouard127/reddit-placebot-2023",
     "desc": "A bot for r/place that doesn't use the api",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "anyproto/any-sync",
     "desc": "An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices",
-    "topics": ["performance", "privacy", "protocol", "p2p", "e2ee", "local-first", "anytype"],
-    "officialSite": "https://anytype.io"
+    "officialSite": "https://anytype.io",
+    "topics": ["performance", "privacy", "protocol", "p2p", "e2ee", "local-first", "anytype"]    
   }, {
     "repo": "google/gvisor",
     "desc": "Application Kernel for Containers",
-    "topics": ["linux", "docker", "kubernetes", "kernel", "containers", "sandbox", "oci"],
-    "officialSite": "https://gvisor.dev"
+    "officialSite": "https://gvisor.dev",
+    "topics": ["linux", "docker", "kubernetes", "kernel", "containers", "sandbox", "oci"]    
   }, {
     "repo": "k3s-io/k3s",
     "desc": "Lightweight Kubernetes",
-    "topics": ["kubernetes", "k8s"],
-    "officialSite": "https://k3s.io"
+    "officialSite": "https://k3s.io",
+    "topics": ["kubernetes", "k8s"]    
   }, {
     "repo": "wagoodman/dive",
     "desc": "A tool for exploring each layer in a docker image",
-    "topics": ["docker", "cli", "docker-image", "inspector", "tui", "explorer"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["docker", "cli", "docker-image", "inspector", "tui", "explorer"]    
   }, {
     "repo": "cockroachdb/pebble",
     "desc": "RocksDB/LevelDB inspired key-value database in Go",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "kyverno/kyverno",
     "desc": "Kubernetes Native Policy Management",
-    "topics": ["kubernetes", "policy-management"],
-    "officialSite": "https://kyverno.io"
+    "officialSite": "https://kyverno.io",
+    "topics": ["kubernetes", "policy-management"]    
   }, {
     "repo": "PeerDB-io/peerdb",
     "desc": "Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀",
-    "topics": ["rust", "bigquery", "postgres", "distributed-systems", "sql", "kafka", "etl", "realtime", "postgresql", "snowflake", "stream-processing", "cloud-native", "cdc", "postrgesql"],
-    "officialSite": "https://peerdb.io"
+    "officialSite": "https://peerdb.io",
+    "topics": ["rust", "bigquery", "postgres", "distributed-systems", "sql", "kafka", "etl", "realtime", "postgresql", "snowflake", "stream-processing", "cloud-native", "cdc", "postrgesql"]    
   }, {
     "repo": "base-org/withdrawer",
     "desc": "Golang utility for proving and finalizing withdrawals from op-stack chains.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "gocolly/colly",
     "desc": "Elegant Scraper and Crawler Framework for Golang",
-    "topics": ["go", "golang", "crawler", "scraper", "framework", "spider", "scraping", "crawling"],
-    "officialSite": "https://go-colly.org"
+    "officialSite": "https://go-colly.org",
+    "topics": ["go", "golang", "crawler", "scraper", "framework", "spider", "scraping", "crawling"]    
   }, {
     "repo": "lxc/incus",
     "desc": "Powerful system container and virtual machine manager",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "songquanpeng/one-api",
     "desc": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
-    "topics": ["api", "api-gateway", "proxy", "openai", "gpt", "claude", "openai-api", "chatgpt", "ernie-bot", "azure-openai-api"],
-    "officialSite": "https://openai.justsong.cn"
+    "officialSite": "https://openai.justsong.cn",
+    "topics": ["api", "api-gateway", "proxy", "openai", "gpt", "claude", "openai-api", "chatgpt", "ernie-bot", "azure-openai-api"]    
   }, {
     "repo": "zknill/sqledge",
     "desc": "Replicate postgres to SQLite on the edge",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "OpenIMSDK/Open-IM-Server",
     "desc": "IM即时通讯",
-    "topics": ["go", "chat", "golang", "telegram", "messaging", "messenger", "wechat", "im", "imserver", "openim"],
-    "officialSite": "https://www.openim.online"
+    "officialSite": "https://www.openim.online",
+    "topics": ["go", "chat", "golang", "telegram", "messaging", "messenger", "wechat", "im", "imserver", "openim"]    
   }, {
     "repo": "google/git-appraise",
     "desc": "Distributed code review system for Git repos",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "gravitl/netmaker",
     "desc": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.`",
-    "topics": ["kubernetes", "security", "cloud", "networking", "network", "self-hosted", "vpn", "mesh", "vpn-server", "k8s", "wireguard", "virtual-network", "devsecops", "zero-trust", "wireguard-vpn", "wg-quick", "virtual-networking", "wireguard-ui"],
-    "officialSite": "https://netmaker.io"
+    "officialSite": "https://netmaker.io",
+    "topics": ["kubernetes", "security", "cloud", "networking", "network", "self-hosted", "vpn", "mesh", "vpn-server", "k8s", "wireguard", "virtual-network", "devsecops", "zero-trust", "wireguard-vpn", "wg-quick", "virtual-networking", "wireguard-ui"]    
   }, {
     "repo": "ethereum/go-ethereum",
     "desc": "Official Go implementation of the Ethereum protocol",
-    "topics": ["go", "ethereum", "blockchain", "p2p", "geth"],
-    "officialSite": "https://geth.ethereum.org"
+    "officialSite": "https://geth.ethereum.org",
+    "topics": ["go", "ethereum", "blockchain", "p2p", "geth"]    
   }, {
     "repo": "getzep/zep",
     "desc": "Zep: A long-term memory store for LLM / Chatbot applications",
-    "topics": ["ai", "language-model", "llm", "vectorsearch", "langchain", "llamaindex"],
-    "officialSite": "https://docs.getzep.com"
+    "officialSite": "https://docs.getzep.com",
+    "topics": ["ai", "language-model", "llm", "vectorsearch", "langchain", "llamaindex"]    
   }, {
     "repo": "kubernetes-sigs/external-dns",
     "desc": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
-    "topics": ["dns", "kubernetes", "route53", "aws", "ingress", "gcp", "dns-record", "clouddns", "external-dns", "k8s-sig-network", "dns-providers", "dns-servers", "dns-controller"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["dns", "kubernetes", "route53", "aws", "ingress", "gcp", "dns-record", "clouddns", "external-dns", "k8s-sig-network", "dns-providers", "dns-servers", "dns-controller"]    
   }, {
     "repo": "koyeb/koyeb-cli",
     "desc": "Koyeb cli",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "mehdihadeli/go-ecommerce-microservices",
     "desc": "🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.",
-    "topics": ["go", "golang", "elasticsearch", "distributed-systems", "boilerplate", "ecommerce", "microservices", "cqrs", "microservice", "ddd", "integration-testing", "domain-driven-design", "grpc", "event-sourcing", "clean-architecture", "microservices-architecture", "eventsourcing", "integration-test", "event-driven-architecture", "vertical-slice-architecture"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "golang", "elasticsearch", "distributed-systems", "boilerplate", "ecommerce", "microservices", "cqrs", "microservice", "ddd", "integration-testing", "domain-driven-design", "grpc", "event-sourcing", "clean-architecture", "microservices-architecture", "eventsourcing", "integration-test", "event-driven-architecture", "vertical-slice-architecture"]    
   }, {
     "repo": "XTLS/Xray-core",
     "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
-    "topics": ["dns", "tls", "tunnel", "network", "proxy", "socks5", "shadowsocks", "anticensorship", "vpn", "trojan", "reality", "vmess", "utls", "xray", "wireguard", "vless", "xtls", "xudp"],
-    "officialSite": "https://t.me/projectXray"
+    "officialSite": "https://t.me/projectXray",
+    "topics": ["dns", "tls", "tunnel", "network", "proxy", "socks5", "shadowsocks", "anticensorship", "vpn", "trojan", "reality", "vmess", "utls", "xray", "wireguard", "vless", "xtls", "xudp"]    
   }, {
     "repo": "netbirdio/netbird",
     "desc": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.",
-    "topics": ["golang", "mesh-networks", "nat-traversal", "vpn", "mesh", "wireguard", "wireguard-vpn", "wiretrustee", "zero-trust-network-access", "netbird"],
-    "officialSite": "https://netbird.io"
+    "officialSite": "https://netbird.io",
+    "topics": ["golang", "mesh-networks", "nat-traversal", "vpn", "mesh", "wireguard", "wireguard-vpn", "wiretrustee", "zero-trust-network-access", "netbird"]    
   }, {
     "repo": "platypusguy/jacobin",
     "desc": "A more than minimal JVM written in Go and capable of running Java 17 classes.",
-    "topics": ["java", "golang", "jvm", "golang-application"],
-    "officialSite": "http://www.jacobin.org"
+    "officialSite": "http://www.jacobin.org",
+    "topics": ["java", "golang", "jvm", "golang-application"]    
   }, {
     "repo": "antonmedv/walk",
     "desc": "Terminal file manager",
-    "topics": ["file-manager"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["file-manager"]    
   }, {
     "repo": "Databingo/aih",
     "desc": "Talk to AI modes in terminal. (Bard|ChatGPT|Claude2|Llama2)",
-    "topics": ["api", "cli", "golang", "client", "terminal", "ai", "command-line", "binary", "easy-to-use", "enhancement", "all-in-one", "chatgpt-cli", "google-bard-cli", "multiple-line", "llama2", "claude2", "huggingchat-cli", "claude-cli"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["api", "cli", "golang", "client", "terminal", "ai", "command-line", "binary", "easy-to-use", "enhancement", "all-in-one", "chatgpt-cli", "google-bard-cli", "multiple-line", "llama2", "claude2", "huggingchat-cli", "claude-cli"]    
   }, {
     "repo": "acheong08/rev-obsidian-sync",
     "desc": "Reverse engineering of the native Obsidian sync and publish server",
-    "topics": ["sync", "obsidian-md", "obsidian-vault", "obsidian-publish", "obsidian-sync"],
-    "officialSite": "https://obsidian.md/sync"
+    "officialSite": "https://obsidian.md/sync",
+    "topics": ["sync", "obsidian-md", "obsidian-vault", "obsidian-publish", "obsidian-sync"]    
   }, {
     "repo": "tepreece/drumscript",
     "desc": "A simple MIDI drum machine scripting language",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "hashicorp/terraform",
     "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "topics": ["cloud", "graph", "terraform", "cloud-management", "infrastructure-as-code"],
-    "officialSite": "https://www.terraform.io"
+    "officialSite": "https://www.terraform.io",
+    "topics": ["cloud", "graph", "terraform", "cloud-management", "infrastructure-as-code"]    
   }, {
     "repo": "klauspost/compress",
     "desc": "Optimized Go Compression Packages",
-    "topics": ["go", "golang", "compression", "gzip", "zip", "decompression", "snappy", "zstd", "deflate", "zstandard"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["go", "golang", "compression", "gzip", "zip", "decompression", "snappy", "zstd", "deflate", "zstandard"]    
   }, {
     "repo": "IceWhaleTech/CasaOS",
     "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-    "topics": ["docker", "golang", "home-automation", "iot", "vuejs", "self-hosted", "raspberry", "home-server", "home-cloud", "casaos"],
-    "officialSite": "https://casaos.io"
+    "officialSite": "https://casaos.io",
+    "topics": ["docker", "golang", "home-automation", "iot", "vuejs", "self-hosted", "raspberry", "home-server", "home-cloud", "casaos"]    
   }, {
     "repo": "apernet/hysteria",
     "desc": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
-    "topics": ["golang", "relay", "tun", "proxy", "http-proxy", "socks5", "censorship-circumvention", "vpn", "quic", "reliable-udp", "hysteria"],
-    "officialSite": "https://v2.hysteria.network"
+    "officialSite": "https://v2.hysteria.network",
+    "topics": ["golang", "relay", "tun", "proxy", "http-proxy", "socks5", "censorship-circumvention", "vpn", "quic", "reliable-udp", "hysteria"]    
   }, {
     "repo": "rook/rook",
     "desc": "Storage Orchestration for Kubernetes",
-    "topics": ["docker", "kubernetes", "storage", "cncf", "etcd", "ceph", "cloud-native", "storage-cluster"],
-    "officialSite": "https://rook.io"
+    "officialSite": "https://rook.io",
+    "topics": ["docker", "kubernetes", "storage", "cncf", "etcd", "ceph", "cloud-native", "storage-cluster"]    
   }, {
     "repo": "pdtpartners/nix-snapshotter",
     "desc": "Brings native understanding of Nix packages to containerd",
-    "topics": ["docker", "nix", "nixos", "containers", "docker-image", "containerd", "snapshotter", "container-image", "home-manager"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["docker", "nix", "nixos", "containers", "docker-image", "containerd", "snapshotter", "container-image", "home-manager"]    
   }, {
     "repo": "mylxsw/aidea-server",
     "desc": "AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }
 ]

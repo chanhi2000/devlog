@@ -2,47 +2,47 @@
   {
     "repo": "bullet-train-co/bullet_train",
     "desc": "The Open Source Ruby on Rails SaaS Template",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "SUSE/Portus",
     "desc": "Authorization service and frontend for Docker registry (v2)",
-    "topics": ["ruby;rails;docker;security;containers;docker-distribution"],
-    "officialSite": "http://port.us.org"
+    "officialSite": "http://port.us.org",
+    "topics": ["ruby;rails;docker;security;containers;docker-distribution"]    
   }, {
     "repo": "chatwoot/chatwoot",
     "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-    "topics": ["javascript;heroku;rails;sass;docker;design;zendesk;vuejs;opensource;dashboard;docker-image;customer-support;conversation;whatsapp;intercom;actioncable;livechat;drift;chat-widget"],
-    "officialSite": "https://www.chatwoot.com/help-center"
+    "officialSite": "https://www.chatwoot.com/help-center",
+    "topics": ["javascript;heroku;rails;sass;docker;design;zendesk;vuejs;opensource;dashboard;docker-image;customer-support;conversation;whatsapp;intercom;actioncable;livechat;drift;chat-widget"]    
   }, {
     "repo": "apple/homebrew-apple",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "QiuChenlyOpenSource/InjectLib",
     "desc": "基于Ruby编写的命令行注入版本",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "shayonj/pg_easy_replicate",
     "desc": "Easily setup logical replication and switchover to new database with minimal downtime",
-    "topics": ["ruby", "postgres", "postgresql", "logical-replication"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["ruby", "postgres", "postgresql", "logical-replication"]    
   }, {
     "repo": "mastodon/mastodon",
     "desc": "Your self-hosted, globally interconnected microblogging community",
-    "topics": ["docker", "social-network", "activity-stream", "microblog", "mastodon", "webfinger", "activitypub"],
-    "officialSite": "https://joinmastodon.org"
+    "officialSite": "https://joinmastodon.org",
+    "topics": ["docker", "social-network", "activity-stream", "microblog", "mastodon", "webfinger", "activitypub"]    
   }, {
     "repo": "yammer/circuitbox",
     "desc": "Circuit breaker built with large Ruby apps in mind.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "ubicloud/ubicloud",
     "desc": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha.",
-    "topics": ["ruby", "cloud", "portable", "open", "hosting", "bare-metal", "managed-cloud"],
-    "officialSite": "https://ubicloud.com"
+    "officialSite": "https://ubicloud.com",
+    "topics": ["ruby", "cloud", "portable", "open", "hosting", "bare-metal", "managed-cloud"]    
   }
 ]

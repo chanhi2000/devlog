@@ -2578,5 +2578,15 @@
     "desc": "Kagi Small Web",
     "topics": [],
     "officialSite": ""
+  }, {
+    "repo": "FasterDecoding/Medusa",
+    "desc": "Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads",
+    "topics": [],
+    "officialSite": "https://sites.google.com/view/medusa-llm"
+  }, {
+    "repo": "kr8s-org/kr8s",
+    "desc": "A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl",
+    "officialSite": "https://kr8s.org",
+    "topics": ["python", "kubernetes", "sync", "asyncio", "kubectl", "kr8s"]
   }
 ]

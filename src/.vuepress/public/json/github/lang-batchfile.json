@@ -2,22 +2,22 @@
   {
     "repo": "massgravel/Microsoft-Activation-Scripts",
     "desc": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
-    "topics": ["windows", "kms", "office", "windows-10", "activator", "hwid", "windows-11", "kms38", "massgrave", "massgravel"],
-    "officialSite": "https://massgrave.dev"
+    "officialSite": "https://massgrave.dev",
+    "topics": ["windows", "kms", "office", "windows-10", "activator", "hwid", "windows-11", "kms38", "massgrave", "massgravel"]    
   }, {
     "repo": "Atlas-OS/Atlas",
     "desc": "🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.",
-    "topics": ["windows", "open-source", "security", "performance", "privacy", "gaming", "fps", "latency", "tweaks", "atlas", "debloat"],
-    "officialSite": "https://atlasos.net"
+    "officialSite": "https://atlasos.net",
+    "topics": ["windows", "open-source", "security", "performance", "privacy", "gaming", "fps", "latency", "tweaks", "atlas", "debloat"]    
   }, {
     "repo": "focus-editor/focus",
     "desc": "A simple and fast text editor",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "pengzhile/cocopilot",
     "desc": "你可以把它称为：联合副驾驶。",
-    "topics": ["copilot"],
-    "officialSite": "https://cocopilot.org"
+    "officialSite": "https://cocopilot.org",
+    "topics": ["copilot"]    
   }
 ]

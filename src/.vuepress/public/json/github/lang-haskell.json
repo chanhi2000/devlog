@@ -2,17 +2,17 @@
   {
     "repo": "well-typed/unfolder",
     "desc": "Repository with code snippets that accompany episodes of The Haskell Unfolder",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "xmonad/xmonad",
     "desc": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager ",
-    "topics": ["haskell", "x11", "xmonad", "window-manager", "hacktoberfest", "x11-wm"],
-    "officialSite": "https://xmonad.org"
+    "officialSite": "https://xmonad.org",
+    "topics": ["haskell", "x11", "xmonad", "window-manager", "hacktoberfest", "x11-wm"]    
   }, {
     "repo": "chrisreade/PenroseKiteDart",
     "desc": "Haskell Diagrams for Penrose Kite and Dart non-periodic tilings",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }
 ]

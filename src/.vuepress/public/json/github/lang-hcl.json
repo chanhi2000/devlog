@@ -2,22 +2,22 @@
   {
     "repo": "terraform-aws-modules/terraform-aws-eks",
     "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦",
-    "topics": ["kubernetes", "aws", "terraform", "terraform-module", "aws-eks", "eks", "elastic-kubernetes-service", "aws-eks-cluster"],
-    "officialSite": "https://registry.terraform.io/modules/terraform-aws-modules/eks/aws"
+    "officialSite": "https://registry.terraform.io/modules/terraform-aws-modules/eks/aws",
+    "topics": ["kubernetes", "aws", "terraform", "terraform-module", "aws-eks", "eks", "elastic-kubernetes-service", "aws-eks-cluster"]    
   }, {
     "repo": "ChristianLempa/boilerplates",
     "desc": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
-    "topics": ["docker", "kubernetes", "ansible", "vagrant", "packer", "docker-compose", "terraform", "docker-compose-template", "packer-template", "vagrant-template", "ansible-template", "terraform-template", "kubernetes-template"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["docker", "kubernetes", "ansible", "vagrant", "packer", "docker-compose", "terraform", "docker-compose-template", "packer-template", "vagrant-template", "ansible-template", "terraform-template", "kubernetes-template"]    
   }, {
     "repo": "ministryofjustice/modernisation-platform",
     "desc": "A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform",
-    "topics": ["aws", "documentation", "civil-service", "architecture-decisions", "modernisation-platform"],
-    "officialSite": "https://user-guide.modernisation-platform.service.justice.gov.uk"
+    "officialSite": "https://user-guide.modernisation-platform.service.justice.gov.uk",
+    "topics": ["aws", "documentation", "civil-service", "architecture-decisions", "modernisation-platform"]    
   }, {
     "repo": "iam-veeramalla/terraform-zero-to-hero",
     "desc": "Master Terraform in 7 days using this Zero to Hero course.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }
 ]

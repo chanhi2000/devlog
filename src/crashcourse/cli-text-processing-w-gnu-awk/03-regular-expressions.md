@@ -701,6 +701,8 @@ echo 'fig123312apple' | perl -pe 's/g(1|2|3)+(12apple)?/X/'
 # fiXapple
 ```
 
+:::
+
 While determining the longest match, the overall regular expression matching is also considered. That's how the `Error.*valid` example worked. If `.*` had consumed everything after `Error`, there wouldn't be any more characters to try to match `valid`. So, among the varying quantity of characters to match for `.*`, the longest portion that satisfies the overall regular expression is chosen. Something like `a.*b` will match from the first `a` in the input string to the last `b`. In other implementations, like Perl, this is achieved through a process called __backtracking__. These approaches have their own advantages and disadvantages and have cases where the pattern can result in exponential time consumption.
 
 ::: tabs

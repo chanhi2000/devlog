@@ -2,12 +2,12 @@
   {
     "repo": "ocaml-wasm/wasm_of_ocaml",
     "desc": "",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "austral/austral",
     "desc": "Systems language with linear types and capability-based security.",
-    "topics": ["compiler", "capabilities", "linear-types"],
-    "officialSite": "https://austral-lang.org"
+    "officialSite": "https://austral-lang.org",
+    "topics": ["compiler", "capabilities", "linear-types"]    
   }
 ]

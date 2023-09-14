@@ -2,27 +2,27 @@
   {
     "repo": "linuxserver/docker-bookstack",
     "desc": "A Docker container for the BookStack documentation wiki",
-    "topics": ["docker", "documentation", "hacktoberfest", "bookstack-container"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["docker", "documentation", "hacktoberfest", "bookstack-container"]    
   }, {
     "repo": "linuxserver/docker-mariadb",
     "desc": "",
-    "topics": ["hacktoberfest"],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": ["hacktoberfest"]    
   }, {
     "repo": "linuxserver/docker-kasm",
     "desc": "Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []    
   }, {
     "repo": "iv-org/documentation",
     "desc": "The official Invidious documentation",
-    "topics": [],
-    "officialSite": "https://docs.invidious.io"
+    "officialSite": "https://docs.invidious.io",
+    "topics": []    
   }, {
     "repo": "justinclift/docker-pgautoupgrade",
     "desc": "PostgreSQL docker container which automatically upgrades to latest PostgreSQL version",
-    "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"],
-    "officialSite": "https://hub.docker.com/r/pgautoupgrade/pgautoupgrade"
+    "officialSite": "https://hub.docker.com/r/pgautoupgrade/pgautoupgrade",
+    "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"]    
   }
 ]
