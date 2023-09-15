@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "asaprogrammer_",
+    "name": "As a Programmer",
+    "profile": "https://yt3.googleusercontent.com/Hz4_EQrpVUSmFnlwWyY2lkdQ1XoLneAwBWdYc3oW88kUeC2VSgWN8mXNVeTQ0oWfGNz5aHZz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lINwRNuidBNAA30U31Ej-eaJwyqFfTAUudct6fClabrwYuYlUbB58rsrIOh27t78E5_Q5JMt5CA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tvKhOAlAjTY", "title": "Learn MERN Stack Once And Don't Forget Ever Again | Create a Full Stack Threads Clone" }
+  ]
+}

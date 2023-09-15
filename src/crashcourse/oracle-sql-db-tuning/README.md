@@ -1,17 +1,17 @@
 ---
 lang: ko-KR
 title: Intro
-description: DB Server 성능 향상  분석 및 튜닝 전문가 향상과정
+description: 🙆‍♂️DB Server 성능 향상, 분석 및 튜닝 전문가 향상과정
 tags: ["crashcourse", "oracle", "oracle-db", "oracle-sql"]
 meta:
-  - name: DB Server 성능 향상  분석 및 튜닝 전문가 향상과정
+  - name: 🙆‍♂️DB Server 성능 향상, 분석 및 튜닝 전문가 향상과정
     content: Intro
   - property: og:title
     content: Intro
   - property: og:description
-    content: DB Server 성능 향상  분석 및 튜닝 전문가 향상과정
+    content: 🙆‍♂️DB Server 성능 향상, 분석 및 튜닝 전문가 향상과정
   - property: og:url
-    content: https://chanhi2000.github.io/explore/oracle-sql-db-tuning/index.html
+    content: https://chanhi2000.github.io/crashcourse/oracle-sql-db-tuning/index.html
 ---
 
 # {{ $frontmatter.description }} 관련

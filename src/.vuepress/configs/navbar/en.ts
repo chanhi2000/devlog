@@ -134,6 +134,9 @@ export const navbarEn: NavbarConfig = [
       }, {
         text: '🐚Mastering Curl - Interactive Text Guide',
         link: '/crashcourse/cli-mastering-curl-interactive-text-guide/README.md'
+      }, {
+        text: '🙆‍♂️DB Server 성능 향상, 분석 및 튜닝 전문가 향상과정',
+        link: '/crashcourse/oracle-sql-db-tuning/README.md'
       }
     ],
   }, {

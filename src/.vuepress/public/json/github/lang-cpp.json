@@ -609,6 +609,16 @@
     "desc": "Bitty Engine - An itty bitty 2D game engine, with built-in editors, programmable in Lua.",
     "officialSite": "https://paladin-t.github.io/bitty",
     "topics": ["gamedev", "lua", "game-engine", "engine", "sdl", "game-development", "indiedev", "pixelart", "fantasy-console", "fantasy-computer", "bitty", "bitty-engine"]
+  }, {
+    "repo": "ianpatt/sfse",
+    "desc": "Starfield Script Extender",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hanickadot/compile-time-regular-expressions",
+    "desc": "Compile Time Regular Expression in C++",
+    "officialSite": "https://twitter.com/hankadusikova",
+    "topics": ["awesome", "constexpr", "regular-expression", "pcre", "header-only", "cpp17", "compile-time", "cpp20", "template-udl"]
   }
 ]
 

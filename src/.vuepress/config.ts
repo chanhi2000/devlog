@@ -3,11 +3,11 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { getDirname, path } from '@vuepress/utils'
 /* plugins V2 */
 import { tocPlugin } from '@vuepress/plugin-toc';
-// import { backToTopPlugin } from '@vuepress/plugin-back-to-top';
 import { nprogressPlugin } from '@vuepress/plugin-nprogress';
 import { containerPlugin } from '@vuepress/plugin-container';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 import { gitPlugin } from '@vuepress/plugin-git';
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
 import { searchPlugin } from '@vuepress/plugin-search';
 import { activeHeaderLinksPlugin } from '@vuepress/plugin-active-header-links';
@@ -19,6 +19,8 @@ import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import anchorRightPlugin from 'vuepress-plugin-anchor-right';
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 import MdDefinePlugin from 'vuepress-plugin-markdown-define2';
+import { searchProPlugin } from "vuepress-plugin-search-pro";
+
 
 // import { mermaidWrapperPlugin } from 'vuepress-plugin-mermaid-wrapper';
 // import { mermaidPlugin } from "@renovamen/vuepress-plugin-mermaid";
@@ -97,6 +99,10 @@ export default {
     gitPlugin({
       updatedTime: true,
     }),
+    googleAnalyticsPlugin({
+      id: 'G-XFRP81YMEP',
+      debug: true
+    }),
     mediumZoomPlugin({}),
     searchPlugin({
       isSearchable: (page) => page.path !== '/',
@@ -151,6 +157,10 @@ export default {
         }
       }
     }),
-    MdDefinePlugin(CONSTS)
+    MdDefinePlugin(CONSTS),
+    searchProPlugin({
+      indexContent: true,
+      
+    }),
   ],
 }

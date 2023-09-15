@@ -66,5 +66,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 - [Linux guide for power users](https://xnacly.me/posts/2022/linux-for-powerusers)
 
+---
+
+## Pro Custodibus
+
+- [AN OPINIONATED YUBIKEY SET-UP GUIDE](https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey)
 
 <TagLinks />

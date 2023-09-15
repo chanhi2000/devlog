@@ -58,6 +58,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-pwsh/basics.md',
         '/g4e/cli-pwsh/scripts-manage-computer.md',
         '/g4e/cli-pwsh/scripts-for-desktop.md',
+        '/g4e/cli-pwsh/scripts-to-convert-files.md',
         '/g4e/cli-pwsh/tips.md',
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',
@@ -688,15 +689,6 @@ export const sidebarEn: SidebarConfig = {
         '/explore/youtube/edu-compsci.md',
       ]
     }, {
-      text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",
-      collapsible: true,
-      children: [
-        '/explore/oracle-sql-db-tuning/README.md',
-        '/explore/oracle-sql-db-tuning/01a.md',
-        '/explore/oracle-sql-db-tuning/01b.md',
-        '/explore/oracle-sql-db-tuning/01c.md',
-      ],
-    }, {
       text: '🎓Tutorial',
       collapsible: true,
       children: [
@@ -1069,6 +1061,15 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/must-know-javascript-api/clipboard.md',
         '/crashcourse/must-know-javascript-api/fetch.md'
       ]
+    }, {
+      text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",
+      collapsible: true,
+      children: [
+        '/crashcourse/oracle-sql-db-tuning/README.md',
+        '/crashcourse/oracle-sql-db-tuning/01a.md',
+        '/crashcourse/oracle-sql-db-tuning/01b.md',
+        '/crashcourse/oracle-sql-db-tuning/01c.md',
+      ],
     }
   ]
 }

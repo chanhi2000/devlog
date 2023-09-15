@@ -277,5 +277,12 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Software Engineering عالرايق
+
+<MyYouTubeItems jsonName="yu-_software_engineering" />
+
+<!-- Software Engineering عالرايق -->
+
+---
 
 <TagLinks />

@@ -1,5 +1,5 @@
 {
-  "version": "0.3.23",
+  "version": "0.4.0",
   "private": true,
   "name": "chanhi2000.github.io",
   "description": "Devlog by Chan",
@@ -22,6 +22,7 @@
     "@vuepress/plugin-active-header-links": "2.0.0-beta.62",
     "@vuepress/plugin-container": "2.0.0-beta.62",
     "@vuepress/plugin-git": "2.0.0-beta.62",
+    "@vuepress/plugin-google-analytics": "2.0.0-beta.62",
     "@vuepress/plugin-medium-zoom": "2.0.0-beta.62",
     "@vuepress/plugin-nprogress": "2.0.0-beta.62",
     "@vuepress/plugin-prismjs": "2.0.0-beta.62",
@@ -36,7 +37,8 @@
     "vuepress-plugin-copy-code2": "2.0.0-beta.214",
     "vuepress-plugin-copyright2": "2.0.0-beta.210",
     "vuepress-plugin-markdown-define2": "^1.0.0",
-    "vuepress-plugin-md-enhance": "2.0.0-beta.210"
+    "vuepress-plugin-md-enhance": "2.0.0-beta.210",
+    "vuepress-plugin-search-pro": "2.0.0-beta.210"
   },
   "dependencies": {
     "cross-env": "^7.0.3",

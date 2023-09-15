@@ -20,6 +20,12 @@ tags: ["sh", "bash", "cli", "github", "github-action", "study"]
 
 ---
 
+## Dev.to
+
+- [Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)
+
+---
+
 ## Simon Willison
 
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping)

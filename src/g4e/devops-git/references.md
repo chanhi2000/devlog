@@ -92,4 +92,11 @@ description: 🛠️Git > 📚References
 
 ---
 
+## Julia Evans
+
+- [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-)
+
+---
+
+
 <TagLinks />

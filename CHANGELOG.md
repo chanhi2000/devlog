@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.3.24  2023-09-15][v0.3.24]
+
+- 내용채워넣기
+
+### Added
+
+- `vuepress-plugin-search-pro`: 검색
+- `@vuepress/plugin-google-analytics`: 구글 에널리틱스
+
+---
+
 ## [v0.3.23  2023-09-14][v0.3.23]
 
 - 내용채워넣기
@@ -765,6 +776,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.4.0]: https://github.com/chanhi2000/devlog/compare/v0.3.23...v0.4.0
 [v0.3.23]: https://github.com/chanhi2000/devlog/compare/v0.3.22...v0.3.23
 [v0.3.22]: https://github.com/chanhi2000/devlog/compare/v0.3.21...v0.3.22
 [v0.3.21]: https://github.com/chanhi2000/devlog/compare/v0.3.20...v0.3.21

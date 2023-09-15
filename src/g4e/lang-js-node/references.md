@@ -146,6 +146,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
 - [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
 - [[Nestia] SDK and Mockup Simulator generation from Swagger Documents (Swagger to NestJS)](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
+- [Node.js 20.6.0: Say Goodbye to '`dotenv`'](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 
 ---
 
@@ -219,6 +220,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
 - [JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 - [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers)
+- [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
 
 ---
 
@@ -271,7 +273,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Create a dynamic load side page with animation in React.js](https://mukeshprajapati0251.medium.com/create-a-dynamic-load-side-page-with-animation-in-react-js-3658f064f401)
 - [JavaScript Ideas Every Web Developer Should Understand](https://coinsbench.com/javascript-ideas-every-web-developer-should-understand-34e633a35d7d)
 - [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
-
+- [I Bet You Don’t Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)
+- [Some Simple and Amazing JavaScript Tricks](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
 
 ---
 

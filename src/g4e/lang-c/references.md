@@ -24,6 +24,8 @@ tags: ["c", "llvm"]
 ## Microsoft
 
 - [Integrating C++ header units into Office using MSVC (2/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-2-n)
+- [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
+
 
 ---
 

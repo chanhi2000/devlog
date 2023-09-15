@@ -83,6 +83,12 @@ tags: ["references", "android"]
 
 ---
 
+## droidcon
+
+- [WRITING SWIFT-FRIENDLY KOTLIN MULTIPLATFORM APIS — PART IX: FLOW](https://www.droidcon.com/2023/09/14/writing-swift-friendly-kotlin-multiplatform-apis-part-ix-flow/)
+
+---
+
 ## Vincent Tsen
 
 - [Beginner's Guide to Understand Build Gradle Files in Android Studio](https://vtsen.hashnode.dev/beginners-guide-to-understand-build-gradle-files-in-android-studio)

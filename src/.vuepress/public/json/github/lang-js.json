@@ -1469,5 +1469,15 @@
     "desc": "A digital logic simulator",
     "officialSite": "http://boolr.me",
     "topics": ["simulator", "digital", "simulation", "logic", "logic-gates"]
+  }, {
+    "repo": "OpenBMB/AgentVerse",
+    "desc": "🤖 AgentVerse 🪐 provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "nuejs/nuejs",
+    "desc": "Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte",
+    "officialSite": "",
+    "topics": []
   }
 ]

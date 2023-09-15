@@ -2588,5 +2588,20 @@
     "desc": "A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl",
     "officialSite": "https://kr8s.org",
     "topics": ["python", "kubernetes", "sync", "asyncio", "kubectl", "kr8s"]
+  }, {
+    "repo": "dataelement/bisheng",
+    "desc": "Bisheng is an open LLM devops platform for next generation AI applications.",
+    "officialSite": "https://bisheng.dataelem.com",
+    "topics": ["agent", "llm", "langchain", "llmdevops"]
+  }, {
+    "repo": "turboderp/exllamav2",
+    "desc": "A fast inference library for running LLMs locally on modern consumer-class GPUs",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tairov/llama2.mojo",
+    "desc": "Inference Llama 2 in one file of pure 🔥",
+    "officialSite": "",
+    "topics": ["performance", "modular", "mojo", "inference", "simd", "llama", "tensor", "vectorization", "parallelize", "transformer-architecture", "llama2"]
   }
 ]

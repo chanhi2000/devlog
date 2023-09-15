@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "huxnwebdev",
+    "name": "HuXn WebDev",
+    "profile": "https://yt3.googleusercontent.com/j2GSWhMI1hscXQu7H6MH9A1_aQ25GsVFzyQ9revo9Gjh5t68zQUftrc65kMU7haF63NZ2t_s=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sam0BZJRELehG5X3vTUukAt4jUXHkZbweohUwZkOivOr9S0ge_Qi-APidJJcf0tstz3Z1XN8rA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lfm_Hu0hEms", "title": "Creating a Powerful E-Commerce Search and Filtering System with React" }    
+  ]
+}

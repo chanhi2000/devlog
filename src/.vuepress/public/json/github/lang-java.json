@@ -399,6 +399,11 @@
     "desc": "李跳跳自定义规则",
     "officialSite": "https://snoopy1866.github.io/LiTiaotiao-Custom-Rules",
     "topics": []    
+  }, {
+    "repo": "facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "officialSite": "https://reactnative.dev",
+    "topics": ["react", "android", "ios", "mobile", "react-native", "cross-platform", "app-framework", "mobile-development"]
   }
 ]
 

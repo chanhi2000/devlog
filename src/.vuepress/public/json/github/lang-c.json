@@ -434,5 +434,15 @@
     "desc": "Control USB power on a port by port basis on some USB hubs.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "TryQuiet/quiet",
+    "desc": "A private, p2p alternative to Slack and Discord built on Tor & IPFS",
+    "officialSite": "https://www.tryquiet.org",
+    "topics": ["chat", "privacy", "ipfs", "decentralized", "p2p", "collaboration", "slack-alternative", "local-first", "discord-alternatives"]
+  }, {
+    "repo": "jedisct1/libsodium",
+    "desc": "A modern, portable, easy to use crypto library.",
+    "officialSite": "https://libsodium.org",
+    "topics": ["c", "cryptography", "crypto"]
   }
 ]

@@ -514,8 +514,6 @@ echo 'goal:amazing:whistle:kwality' | awk '{$2 = 42} 1' {,O}FS=:
 
 However, this is not commonly used and doesn't save too many characters to be preferred over explicit assignment.
 
-:::
-
 ---
 
 ## Manipulating `NF`
@@ -746,4 +744,361 @@ Next chapter will discuss various ways to use record separators and related spec
 
 ---
 
+
 ## Exercises
+
+::: info
+
+The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learnbyexample/learn_gnuawk/tree/master/exercises) directory has all the files used in this section.
+
+:::
+
+### Exercise 1
+
+For the input file `brackets.txt`, extract only the contents between `()` or `)(` from each input line. Assume that `()` characters will be present only once every line.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat brackets.txt
+# foo blah blah(ice) 123 xyz$ 
+# (almond-pista) choco
+# yo )yoyo( yo
+
+awk ##### add your solution here
+# ice
+# almond-pista
+# yoyo
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 2
+
+For the input file scores.csv, extract Name and Physics fields in the format shown below.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat scores.csv
+# Name,Maths,Physics,Chemistry
+# Blue,67,46,99
+# Lin,78,83,80
+# Er,56,79,92
+# Cy,97,98,95
+# Ort,68,72,66
+# Ith,100,100,100
+
+awk ##### add your solution here
+# Name:Physics
+# Blue:46
+# Lin:83
+# Er:79
+# Cy:98
+# Ort:72
+# Ith:100
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 3
+
+For the input file `scores.csv`, display names of those who've scored above 70 in Maths.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat scores.csv
+# Name,Maths,Physics,Chemistry
+# Blue,67,46,99
+# Lin,78,83,80
+# Er,56,79,92
+# Cy,97,98,95
+# Ort,68,72,66
+# Ith,100,100,100
+
+awk ##### add your solution here
+# Lin
+# Cy
+# Ith
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+
+### Exercise 4
+
+Display the number of word characters for the given inputs. Word definition here is same as used in regular expressions. Can you construct a solution with gsub and one without substitution functions?
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+echo 'hi there' | awk ##### add your solution here
+# 7
+
+echo 'u-no;co%."(do_12:as' | awk ##### add your solution here
+# 12
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 5
+
+For the input file `quoted.txt`, extract the first and third sequence of characters surrounded by double quotes and display them in the format shown below. Solution shouldn't use substitution functions.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat quoted.txt
+# 1 "grape" and "mango" and "guava"
+# ("a 1""b""c-2""d")
+
+awk ##### add your solution here
+# "grape","guava"
+# "a 1","c-2"
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 6
+
+For the input file `varying_fields.txt`, construct a solution to get the output shown below. Solution shouldn't use substitution functions.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat varying_fields.txt
+# hi,bye,there,was,here,to
+# 1,2,3,4,5
+
+awk ##### add your solution here
+# hi,bye,to
+# 1,2,5
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 7
+
+Transform the given input file `fw.txt` to get the output as shown below. If a field is empty (_i.e._ contains only space characters), replace it with NA.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat fw.txt
+# 1.3  rs   90  0.134563
+# 3.8           6
+# 5.2  ye       8.2387
+# 4.2  kt   32  45.1
+
+awk ##### add your solution here
+# 1.3,rs,0.134563
+# 3.8,NA,6
+# 5.2,ye,8.2387
+# 4.2,kt,45.1
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 8
+
+Display only the third and fifth characters from each input line as shown below.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+printf 'restore\ncat one\ncricket' | awk ##### add your solution here
+# so
+# to
+# ik
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 9
+
+The fields.txt file has fields separated by the `:` character. Delete `:` and the last field if there is a digit character anywhere before the last field. Solution shouldn't use substitution functions.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat fields.txt
+# 42:cat
+# twelve:a2b
+# we:be:he:0:a:b:bother
+# apple:banana-42:cherry:
+# dragon:unicorn:centaur
+
+awk ##### add your solution here
+# 42
+# twelve:a2b
+# we:be:he:0:a:b
+# apple:banana-42:cherry
+# dragon:unicorn:centaur
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 10
+
+Retain only the first three fields for the given sample string that uses `^` as the input field separator. Use `,` as the output field separator.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+echo 'sit^eat^very^eerie^near' | awk ##### add your solution here
+# sit,eat,very
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 11
+
+The sample string shown below uses cat as the field separator (irrespective of case). Use space as the output field separator and add `42` as the last field.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+s='applecatfigCaT12345cAtbanana'
+echo "$s" | awk ##### add your solution here
+# apple fig 12345 banana 42
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 12
+
+For the input file `sample.txt`, filter lines containing 6 or more lowercase vowels.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# No doubt you like it too
+# Much ado about nothing
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 13
+
+The input file `concat.txt` has contents of various files preceded by a line starting with `###`. Replace such sequence of characters with an incrementing integer value (starting with `1)` in the format shown below.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# 1) addr.txt
+# How are you
+# This game is good
+# Today is sunny
+# 2) broken.txt
+# top
+# 1234567890
+# bottom
+# 3) sample.txt
+# Just do-it
+# Believe it
+# 4) mixed_fs.txt
+# pink blue white yellow
+# car,mat,ball,basket
+```
+
+@tab Answer
+
+```sh
+```
+
+:::

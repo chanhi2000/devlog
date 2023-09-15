@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "redgate",
+    "name": "Redgate Videos",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQy4238R-YSAq4kFSQHh8V6v7RpD7Rsrwrk452Egw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hy_ANeUEcU-HjIMUcB5zp1aMRjz9X3XOtPMsilblQbGchSp90Ik1OJjnHT545EcXTvOghp32sh8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x94uf4YrcBw", "title": "Using the SQL Change Automation PowerShell cmdlets with GitLab" },
+    { "id": "r3Kcais5ZQ0", "title": "Customer Journeys: From SQL Data Generator to Data Masker" },
+    { "id": "oDoW1lLWUYg", "title": "PostgreSQL 101 Webinar Comparing SQL Server and PostgreSQL - Q&A Session | Redgate" }
+  ]
+}

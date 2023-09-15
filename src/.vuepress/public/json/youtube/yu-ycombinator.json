@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ycombinator",
+    "name": "Y Combinator",
+    "profile": "https://yt3.googleusercontent.com/mSqaIvHn4agaznTzuOZg8-cbSl8rt_K5FhkyQ_C6_VhPfXZagDrS1OvkLz9Dyax9fq7Curoo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cVsaSWEGbBdrwtXnoixvau-WlIh-WhVh-_MAx52WeXRmfivkOS3x8pr0pWvsvZiR5a76V3wP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4N55fVuxxOg", "title": "Critiquing Startup Mobile Apps with Glide CEO" }    
+  ]
+}
