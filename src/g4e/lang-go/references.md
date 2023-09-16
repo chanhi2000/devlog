@@ -34,6 +34,12 @@ tags: ["go", "golang"]
 
 ---
 
+## banksalad
+
+- [뱅크샐러드 Go 코딩 컨벤션](https://blog.banksalad.com/tech/go-best-practice-in-banksalad)
+
+---
+
 ## Daniel Lemire
 
 - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)

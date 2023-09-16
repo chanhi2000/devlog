@@ -45,6 +45,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 - [Structure and Interpretation of Computer Programs — JavaScript Edition](https://sourceacademy.org/sicpjs/index)
 - [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide)
+- [Deno by example](https://examples.deno.land)
 
 ---
 

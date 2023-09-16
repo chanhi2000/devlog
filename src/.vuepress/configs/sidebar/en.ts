@@ -1046,8 +1046,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/cli-mastering-curl-interactive-text-guide/02-command-line-options.md',
         '/crashcourse/cli-mastering-curl-interactive-text-guide/03-urls.md',
         '/crashcourse/cli-mastering-curl-interactive-text-guide/04-curl-basics.md',
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/05-http.md',
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/06-future.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/05-http.md'
       ]
     }, {
       text: '🧶Must Know JavaScript API',

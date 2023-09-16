@@ -619,6 +619,16 @@
     "desc": "Compile Time Regular Expression in C++",
     "officialSite": "https://twitter.com/hankadusikova",
     "topics": ["awesome", "constexpr", "regular-expression", "pcre", "header-only", "cpp17", "compile-time", "cpp20", "template-udl"]
+  }, {
+    "repo": "grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "officialSite": "https://grpc.io",
+    "topics": []
+  }, {
+    "repo": "love2d/love",
+    "desc": "LÖVE is an awesome 2D game framework for Lua.",
+    "officialSite": "https://love2d.org/",
+    "topics": ["gamedev", "lua", "game-development", "luajit", "love2d"]
   }
 ]
 

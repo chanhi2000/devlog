@@ -369,5 +369,10 @@
     "desc": "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.",
     "officialSite": "",
     "topics": []    
+  }, {
+    "repo": "ray-project/llm-applications",
+    "desc": "A comprehensive guide to building RAG-based LLM applications for production.",
+    "officialSite": "",
+    "topics": ["machine-learning", "openai", "ray", "serving", "fine-tuning", "anyscale", "llms", "llama2"]
   }
 ]

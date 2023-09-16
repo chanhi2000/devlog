@@ -154,5 +154,10 @@
     "desc": "Challenges & docs from JS Algorithms & Data Structures course",
     "officialSite": "",
     "topics": []    
+  }, {
+    "repo": "wesbos/JavaScript30",
+    "desc": "30 Day Vanilla JS Challenge",
+    "officialSite": "https://javascript30.com",
+    "topics": []
   }
 ]

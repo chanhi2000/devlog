@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "KeithGalli",
+    "name": "Keith Galli",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRhy571DTkSUEtByYrF1GTXZpOpI39XhSavLlQNjw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/V27xfJjsKz8SHRwulm1pzYJZVpJbVBTvIg4JdHKyuN9m6jysm2gxZvHT3DxUiik4vihTaFxx5g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eMOA1pPVUc4", "title": "Solving real world data science tasks with Python Pandas!" }    
+  ]
+}

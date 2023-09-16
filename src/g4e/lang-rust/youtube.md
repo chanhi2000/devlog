@@ -197,6 +197,15 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <!-- Jon Gjengset -->
 
 ---
+
+## Trusty Bits
+
+<MyYouTubeItems jsonName="yu-TrustyBits" />
+
+<!-- Trusty Bits -->
+
+---
+
 ## RustAU
 
 <MyYouTubeItems jsonName="yu-rustau5950" />

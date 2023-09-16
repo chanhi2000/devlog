@@ -94,5 +94,10 @@
     "desc": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
     "officialSite": "https://www.lunarvim.org",
     "topics": ["vim", "snippets", "vimrc", "lua", "neovim", "ide", "vscode", "nvim", "linters", "formatters", "hacktoberfest", "neovim-configuration", "neovim-lua", "neovim-config", "neovim-setup", "lunarvim"]    
+  }, {
+    "repo": "stevearc/conform.nvim",
+    "desc": "Lightweight yet powerful formatter plugin for Neovim",
+    "officialSite": "",
+    "topics": ["neovim", "nvim", "neovim-plugin", "nvim-plugin"]
   }
 ]

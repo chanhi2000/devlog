@@ -171,4 +171,12 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## Keith Galli
+
+<MyYouTubeItems jsonName="yu-KeithGalli" />
+
+<!-- Keith Galli -->
+
+---
+
 <TagLinks />

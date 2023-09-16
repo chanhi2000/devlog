@@ -536,25 +536,9 @@
 { "channelId": "justicebuys1", "channelName": "Justice Buys", "id": "RysBS-aYWIU", "title": "Top 15 Amazon Products for August #justicebuys #shorts #amazonfinds #productreview" },
 { "channelId": "SIKANDARshaik", "channelName": "Sikandar Shaik", "id": "9oInT3z-KgI", "title": "How to Install the EVE-NG Client Pack: Step-by-Step Guide" },
 { "channelId": "smbdevops", "channelName": "SMB DevOps", "id": "KYXYl6XisKQ", "title": "Spring Boot for PHP Developers - Get a project up and running quickly" },
-{ "channelId": "datatutorials1", "channelName": "Data Tutorials", "id": "XeWfLNe3moM", "title": "Full Project in Excel with Interactive Dashboard | Excel Project | Excel Project from Start to End" },
 
 // 2023-09-06
 
-{ "channelId": "codingmoon", "channelName": "코딩문codingmoon", "id": "B3lT4OVQc5Q", "title": "자바스크립트에서 async & await 쓰는 이유?  #shorts" },
-{ "channelId": "Dataquestio", "channelName": "Dataquest", "id": "1O_BenficgE", "title": "Predict The Stock Market With Machine Learning And Python" },
-{ "channelId": "KeithGalli", "channelName": "Keith Galli", "id": "eMOA1pPVUc4", "title": "Solving real world data science tasks with Python Pandas!" },
-{ "channelId": "mrdbourke", "channelName": "Daniel Bourke", "id": "Z_ikDlimN6A", "title": "Learn PyTorch for deep learning in a day. Literally." },
-{ "channelId": "TechWithNikola", "channelName": "Tech With Nikola", "id": "RxHJdapz2p0", "title": "How GIT works UNDER the HOOD?" },
-{ "channelId": "ICBANQ", "channelName": "나도메이커", "id": "6yE4eYZ6_50", "title": "[C언어 코딩 기초 강의] 12장 : 포인터" },
-{ "channelId": "user-pp5hq7vz4j", "channelName": "락플레이스", "id": "9jSvd61NvJ4", "title": "8/31(목) 락플레이스 RHAAP 웨비나" },
-{ "channelId": "passdadream", "channelName": "균쌤", "id": "1m7oxMINqds", "title": "컴활 1,2급 필기⚡2과목 :: 1강_화면 구성 핵심요약 기출문제 풀이💯(엑셀 화면 구성, 워크시트 구성)👨‍💻[균쌤]" },
-{ "channelId": "alejandro_ao", "channelName": "Alejandro AO - Software & Ai", "id": "dXxQ0LR-3Hg", "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)" },
-{ "channelId": "EquitableEquations", "channelName": "Equitable Equations", "id": "yZ0bV2Afkjc", "title": "Learn R in 39 minutes" },
-{ "channelId": "LeiosLabs", "channelName": "Leios Labs", "id": "SuYW5nzKiV0", "title": "The best GPGPU ecosystem (imo)" },
-{ "channelId": "supplyframe4973", "channelName": "Supplyframe", "id": "kA75l01XDUc", "title": "Advancing Automotive Systems with Powerful Multiprocessors" },
-{ "channelId": "supplyframe4973", "channelName": "Supplyframe", "id": "g3HxijYr0XQ", "title": "Revolutionizing 5G Signal Connectors" },
-{ "channelId": "CodingVillain", "channelName": "코딩빌런", "id": "oqUWug3hm_A", "title": "요령피는 파이썬 복사 기강잡기" },
-{ "channelId": "TrustyBits", "channelName": "Trusty Bits", "id": "5QFDQRkbllo", "title": "Rust Does Interfaces BETTER!" },
 
 https://www.kdnuggets.com/wp-content/uploads/Machine_Learning_with_ChatGPT_Cheat_Sheet_KDnuggets.png
 https://itnext.io/sql-performance-tuning-72e9ebf67549
@@ -681,3 +665,6 @@ https://cgad.ski/blog/what-is-dimensional-analysis.html
 https://utilu.com/IECollection
 https://www.clien.net/service/board/use/11929977
 https://blog.bytebytego.com/p/why-is-kafka-so-fast-how-does-it
+https://github.com/namjunemy/TIL
+https://www.exaequos.com
+https://csvbase.com/blog/5

@@ -1347,4 +1347,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## 코딩문codingmoon
+
+<MyYouTubeItems jsonName="yu-codingmoon" />    
+
+<!-- 코딩문codingmoon -->
+
+---
+
 <TagLinks />

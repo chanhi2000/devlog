@@ -47,4 +47,3 @@ I've also included some interactive examples, so you can try out different curl 
 3. [URLs](03-urls.md)
 4. [Curl basics](04-curl-basics.md)
 5. [HTTP](05-http.md)
-6. [Future](06-future.md)

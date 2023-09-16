@@ -629,6 +629,16 @@
     "desc": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",
     "topics": [],
     "officialSite": "http://makepad.dev"
+  }, {
+    "repo": "massalabs/massa",
+    "desc": "The Decentralized and Scaled Blockchain",
+    "officialSite": "https://massa.net",
+    "topics": []
+  }, {
+    "repo": "sxyazi/yazi",
+    "desc": "⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "officialSite": "",
+    "topics": ["windows", "macos", "linux", "rust", "concurrency", "tui", "asyncio", "file-manager", "yazi"]
   }
 ]
 

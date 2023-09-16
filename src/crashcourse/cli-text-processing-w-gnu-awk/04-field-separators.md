@@ -755,7 +755,7 @@ The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learn
 
 ### Exercise 1
 
-For the input file `brackets.txt`, extract only the contents between `()` or `)(` from each input line. Assume that `()` characters will be present only once every line.
+For the input file <FontIcon icon="iconfont icon-file"/>`brackets.txt`, extract only the contents between `()` or `)(` from each input line. Assume that `()` characters will be present only once every line.
 
 ::: tabs 
 
@@ -782,7 +782,7 @@ awk ##### add your solution here
 
 ### Exercise 2
 
-For the input file scores.csv, extract Name and Physics fields in the format shown below.
+For the input file <FontIcon icon="iconfont icon-file"/>`scores.csv`, extract Name and Physics fields in the format shown below.
 
 ::: tabs 
 
@@ -817,7 +817,7 @@ awk ##### add your solution here
 
 ### Exercise 3
 
-For the input file `scores.csv`, display names of those who've scored above 70 in Maths.
+For the input file <FontIcon icon="iconfont icon-file"/>`scores.csv`, display names of those who've scored above 70 in Maths.
 
 ::: tabs 
 
@@ -872,7 +872,7 @@ echo 'u-no;co%."(do_12:as' | awk ##### add your solution here
 
 ### Exercise 5
 
-For the input file `quoted.txt`, extract the first and third sequence of characters surrounded by double quotes and display them in the format shown below. Solution shouldn't use substitution functions.
+For the input file <FontIcon icon="iconfont icon-file"/>`quoted.txt`, extract the first and third sequence of characters surrounded by double quotes and display them in the format shown below. Solution shouldn't use substitution functions.
 
 
 ::: tabs 
@@ -898,7 +898,7 @@ awk ##### add your solution here
 
 ### Exercise 6
 
-For the input file `varying_fields.txt`, construct a solution to get the output shown below. Solution shouldn't use substitution functions.
+For the input file <FontIcon icon="iconfont icon-file"/>`varying_fields.txt`, construct a solution to get the output shown below. Solution shouldn't use substitution functions.
 
 
 ::: tabs 
@@ -924,7 +924,7 @@ awk ##### add your solution here
 
 ### Exercise 7
 
-Transform the given input file `fw.txt` to get the output as shown below. If a field is empty (_i.e._ contains only space characters), replace it with NA.
+Transform the given input file <FontIcon icon="iconfont icon-file"/>`fw.txt` to get the output as shown below. If a field is empty (_i.e._ contains only space characters), replace it with NA.
 
 
 ::: tabs 
@@ -976,7 +976,7 @@ printf 'restore\ncat one\ncricket' | awk ##### add your solution here
 
 ### Exercise 9
 
-The fields.txt file has fields separated by the `:` character. Delete `:` and the last field if there is a digit character anywhere before the last field. Solution shouldn't use substitution functions.
+The <FontIcon icon="iconfont icon-file"/>`fields.txt` file has fields separated by the `:` character. Delete `:` and the last field if there is a digit character anywhere before the last field. Solution shouldn't use substitution functions.
 
 
 ::: tabs 
@@ -1050,7 +1050,7 @@ echo "$s" | awk ##### add your solution here
 
 ### Exercise 12
 
-For the input file `sample.txt`, filter lines containing 6 or more lowercase vowels.
+For the input file <FontIcon icon="iconfont icon-file"/>`sample.txt`, filter lines containing 6 or more lowercase vowels.
 
 ::: tabs 
 
@@ -1071,7 +1071,7 @@ awk ##### add your solution here
 
 ### Exercise 13
 
-The input file `concat.txt` has contents of various files preceded by a line starting with `###`. Replace such sequence of characters with an incrementing integer value (starting with `1)` in the format shown below.
+The input file <FontIcon icon="iconfont icon-file"/>`concat.txt` has contents of various files preceded by a line starting with `###`. Replace such sequence of characters with an incrementing integer value (starting with `1)` in the format shown below.
 
 
 ::: tabs 

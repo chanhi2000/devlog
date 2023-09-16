@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "codingmoon",
+    "name": "코딩문codingmoon",
+    "profile": "https://yt3.googleusercontent.com/1qjdMPZVXAiqZrcZdh5sgzBUwXlAnQgApcAt_28LdzZ2xUJa7q5iI7uEkvZjg9sB0QAYS5vsa4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Y_eJFu6EFoH7FpAJV7a2mep-QGdKLuK-Ft2zrlqrHyNY7SFemd2sSWyzbYmASWaZlcQFcqkKbg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "B3lT4OVQc5Q", "title": "자바스크립트에서 async & await 쓰는 이유?  #shorts" }    
+  ]
+}

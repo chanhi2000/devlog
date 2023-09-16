@@ -2603,5 +2603,50 @@
     "desc": "Inference Llama 2 in one file of pure 🔥",
     "officialSite": "",
     "topics": ["performance", "modular", "mojo", "inference", "simd", "llama", "tensor", "vectorization", "parallelize", "transformer-architecture", "llama2"]
+  }, {
+    "repo": "yoheinakajima/instagraph",
+    "desc": "Converts text input or URL into knowledge graph and displays",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zhile-io/pandora",
+    "desc": "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely.",
+    "officialSite": "https://chat.zhile.io",
+    "topics": ["openai", "chatgpt"]
+  }, {
+    "repo": "isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "officialSite": "http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+    "topics": []
+  }, {
+    "repo": "testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ddbourgin/numpy-ml",
+    "desc": "Machine learning, in numpy",
+    "officialSite": "https://numpy-ml.readthedocs.io",
+    "topics": ["machine-learning", "reinforcement-learning", "word2vec", "lstm", "neural-networks", "gaussian-mixture-models", "vae", "topic-modeling", "attention", "resnet", "bayesian-inference", "wavenet", "mfcc", "knn", "gaussian-processes", "hidden-markov-models", "gradient-boosting", "wgan-gp", "good-turing-smoothing"]
+  }, {
+    "repo": "keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "officialSite": "http://keras.io",
+    "topics": ["python", "data-science", "machine-learning", "deep-learning", "tensorflow", "neural-networks"]
+  }, {
+    "repo": "pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "n0a/telegram-get-remote-ip",
+    "desc": "Get IP address on other side audio call in Telegram.",
+    "officialSite": "",
+    "topics": ["telegram", "ip"]
+  }, {
+    "repo": "ARPSyndicate/puncia",
+    "desc": "The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI",
+    "officialSite": "https://pypi.org/project/puncia",
+    "topics": ["exploit", "subdomain", "arpsyndicate"]
   }
 ]

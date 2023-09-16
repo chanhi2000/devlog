@@ -74,6 +74,7 @@ tags: ["references", "swift"]
 ## Medium
 
 - [Ask Apple 2022 Q&A Related on Core Data (Part 1)](https://itnext.io/ask-apple-2022-q-a-related-on-core-data-part-1-59b9a9040322)
+- [SwiftDataKit: Unleashing Advanced Core Data Features in SwiftData](https://itnext.io/swiftdatakit-unleashing-advanced-core-data-features-in-swiftdata-3fcd5f443c99)
 
 ---
 
@@ -194,6 +195,22 @@ tags: ["references", "swift"]
 - [Develop with Cocoa for Apple Devices without using Objective-C](https://felixk15.github.io/posts/c_ocoa)
 
 ---
+
+## Use Your Loaf
+
+- [SwiftUI Sensory Feedback](https://useyourloaf.com/blog/swiftui-sensory-feedback)
+
+---
+
+## liblab
+
+- [Create an API Client Library for iOS in Swift](https://liblab.com/blog/create-an-api-client-library-for-ios-in-swift)
+
+---
+
+## Dean's blog
+
+- [Shake to undo in a SwiftUI app](https://blog.thomasdurand.fr/story/2023-09-04-shake-to-undo-swiftui)
 
 ## Misc
 

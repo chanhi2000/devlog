@@ -26,6 +26,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## makelinux 
+
+- [interactive kernel map](https://makelinux.github.io/kernel/map)
+
 ## Joberty
 
 - [Best Way to Learn Linux 🎮](https://blog.joberty.de/games-to-learn-linux)

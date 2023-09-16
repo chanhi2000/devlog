@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TechWithNikola",
+    "name": "Tech With Nikola",
+    "profile": "https://yt3.googleusercontent.com/uQAA1Y7PIK9QfCsEtqOTncQNxxiAE2PvuEjlQy0LW1uzrJyDIloHFUeMZamdmpFdVilc578ZZso=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1O3oIgiTsZXKl4SJgsj-ni6jULecdBLLIQM_2CtFk9p5bfyTBUDCGkHu3N1T1pVOAsxPkZHF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RxHJdapz2p0", "title": "How GIT works UNDER the HOOD?" }    
+  ]
+}

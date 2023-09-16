@@ -44,5 +44,10 @@
     "desc": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha.",
     "officialSite": "https://ubicloud.com",
     "topics": ["ruby", "cloud", "portable", "open", "hosting", "bare-metal", "managed-cloud"]    
+  }, {
+    "repo": "mmistakes/minimal-mistakes",
+    "desc": "📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
+    "officialSite": "https://mmistakes.github.io/minimal-mistakes",
+    "topics": ["jekyll", "theme", "ruby-gem", "jekyll-theme", "github-pages", "algolia", "lunr", "algolia-search"]
   }
 ]
