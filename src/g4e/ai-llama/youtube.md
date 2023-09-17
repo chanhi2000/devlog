@@ -28,4 +28,14 @@ tags: ["llama" , "llm"]
 
 <!-- Streamlit -->
 
+---
+
+## inhumanity Studios
+
+<MyYouTubeItems jsonName="yu-inhumanitystudios" />
+
+<!-- inhumanity Studios -->
+
+---
+
 <TagLinks/>

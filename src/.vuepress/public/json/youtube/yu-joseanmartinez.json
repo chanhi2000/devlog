@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/sYKSmIMzjshWM6wgrkIsF2oxaIcY0Fa6wmsfbc2GiJWKlsTR5e6nST0ljxwu-_nuHuE52crOsQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cxNDZHwln1w", "title": "Building My Blog With SvelteKit, Markdown & Tailwind CSS" },
     { "id": "6mxWayq-s9I", "title": "How To Use `lazy.nvim` For A Simple And Amazing Neovim Config" },
     { "id": "80mWp6H4zEw", "title": "The Ultimate Beginner’s Guide To Learn And Master Vim" },
     { "id": "U-omALWIBos", "title": "How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac" }, 

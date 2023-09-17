@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "D5xThA16nmM", "title": "MVC in .NET 8 | Why do we need a framework for web development | Ep 2" },
+    { "id": "Ix2VE2xT54E", "title": "MVC in .NET 8 | Understand the MVC Pattern | Ep 3" },
+    { "id": "ZAcQFLtwbPI", "title": "MVC in .NET 8 | Add Support for MVC Framework | Ep 4" },
     { "id": "qeSSKrjWq3w", "title": "ASP.NET CORE Identity Under the Hood | Authentication & Authorization | .NET 8" },
     { "id": "RInxKboxDXE", "title": "Model Binding of Web API in .NET 8 | Ep 8" },
     { "id": "ypgQqQrzITs", "title": "Project Structure of .NET MAUI | Ep3" }, 

@@ -2,52 +2,25 @@
   "channel": {
     "id": "brianmmdev",
     "name": "Brian Morrison",
-    "profile": "https://yt3.googleusercontent.com/eG5tMiAwiMkVxD0vLdFLvK0_wSq6LzxDnq_twfDw6jeRwlwCzXm3exBqJH6F68WqzaPXI3QG=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/eG5tMiAwiMkVxD0vLdFLvK0_wSq6LzxDnq_twfDw6jeRwlwCzXm3exBqJH6F68WqzaPXI3QG=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_z3mfYr0r8ZiGxWXfheOscy0-qreO1Q6Ayyl80QMeIwxcYqDHcpjRcl4xSxS59f5NAiit7i_=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "RgZyX-e6W9E",
-      "title": "Push Docker Images to GitHub Container Registry • #docker  #containers #github  #githubactions"
-    }, {
-      "id": "YJM07DsSL9U",
-      "title": "🔴 Building my CLI w/Go for Content Automation #wordpress #golang #notion"
-    }, {
-      "id": "13rnse0zYK8",
-      "title": "Your First AWS Lambda Function with Go"
-    }, {
-      "id": "mViu7lqZh_8",
-      "title": "Make ANY CLI App Global on macOS"
-    }, {
-      "id": "Qva-s4UwOWg",
-      "title": "How I Built a Full Stack App on AWS - Building GuardianForge pt 1 Planning & Discovery"
-    }, {
-      "id": "aBJMHcMjhZ4",
-      "title": "Learn GitHub Actions! Deploy a Vue App to AWS"
-    }, {
-      "id": "mWqVKoin63A",
-      "title": "🔴 Building Profiles for fullstack.chat (part 2)"
-    }, {
-      "id": "6Pgiot-H7yQ",
-      "title": "🔴 Building Profiles for fullstack.chat"
-    }, {
-      "id": "G9yZg3l8ad8",
-      "title": "Building My First Kubernetes Cluster"
-    }, {
-      "id": "Nu_p0g7DH14",
-      "title": "Building a Personal Knowledgebase with Notion"
-    }, {
-      "id": "YB5ANTM2H8w",
-      "title": "🔴 Building Enviari pt1 - A serverless shipping application using JavaScript, VueJS, and AWS"
-    }, {
-      "id": "9sZ-IB3bttw",
-      "title": "Building a Project Management System with Notion"
-    }, {
-      "id": "wIcvlDeg7AQ",
-      "title": "Building a Serverless To Do App with Vue and AWS"
-    }, {
-      "id": "6cYReed4bzA",
-      "title": "Deploying Vue Apps to AWS S3 & CloudFront with GitHub Actions"
-    }
+    { "id": "Uc0y8E4sWJ4", "title": "Building Sailhouse, a pub/sub SaaS with Ed Stephinson • fullstack.chat Ep 2" },
+    { "id": "RgZyX-e6W9E", "title": "Push Docker Images to GitHub Container Registry • #docker  #containers #github  #githubactions" }, 
+    { "id": "YJM07DsSL9U", "title": "🔴 Building my CLI w/Go for Content Automation #wordpress #golang #notion" }, 
+    { "id": "13rnse0zYK8", "title": "Your First AWS Lambda Function with Go" }, 
+    { "id": "mViu7lqZh_8", "title": "Make ANY CLI App Global on macOS" }, 
+    { "id": "Qva-s4UwOWg", "title": "How I Built a Full Stack App on AWS - Building GuardianForge pt 1 Planning & Discovery" }, 
+    { "id": "aBJMHcMjhZ4", "title": "Learn GitHub Actions! Deploy a Vue App to AWS" }, 
+    { "id": "mWqVKoin63A", "title": "🔴 Building Profiles for fullstack.chat (part 2)" }, 
+    { "id": "6Pgiot-H7yQ", "title": "🔴 Building Profiles for fullstack.chat" }, 
+    { "id": "G9yZg3l8ad8", "title": "Building My First Kubernetes Cluster" }, 
+    { "id": "Nu_p0g7DH14", "title": "Building a Personal Knowledgebase with Notion" }, 
+    { "id": "YB5ANTM2H8w", "title": "🔴 Building Enviari pt1 - A serverless shipping application using JavaScript, VueJS, and AWS" }, 
+    { "id": "9sZ-IB3bttw", "title": "Building a Project Management System with Notion" }, 
+    { "id": "wIcvlDeg7AQ", "title": "Building a Serverless To Do App with Vue and AWS" }, 
+    { "id": "6cYReed4bzA", "title": "Deploying Vue Apps to AWS S3 & CloudFront with GitHub Actions" }
   ]
 }
 

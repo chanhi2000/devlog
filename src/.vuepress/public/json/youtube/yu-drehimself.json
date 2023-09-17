@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/5OVcAbvFHOv8FdvCeQBkBjui2Km27Bv2FCAfuZtfbotBZLG5jBa78Pgk-aRR2Gac_BDEDZHq7w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vs-vfc9nt0k", "title": "shadcn/ui for Vue.js" },
     { "id": "w-cebRYZH9E", "title": "Laravel Herd - PHP Development Environment for Mac" },
     { "id": "TY21MRVNxSo", "title": "NativePHP - Desktop Apps with Laravel" },
     { "id": "cSLnkJ7wSnE", "title": "Laravel Prompts - Next Level CLI" },    

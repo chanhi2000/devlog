@@ -34,6 +34,12 @@ tags: ["references", "android"]
 
 ---
 
+## Vladar
+
+- [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop)
+
+---
+
 ## Tool(s)
 
 - [Equation Editor for online mathematics](https://editor.codecogs.com)

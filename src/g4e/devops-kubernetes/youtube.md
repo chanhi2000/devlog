@@ -132,6 +132,14 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## 형님IT
+
+<MyYouTubeItems jsonName="yu-itrun" />
+
+<!-- 형님IT -->
+
+---
+
 ## kubetm
 
 <MyYouTubeItems jsonName="yu-kubetm8737" />

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "LukeBarousse",
+    "name": "Luke Barousse",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSqAzo3edvpsG541t06Ywi0ePJzqeBdrfYMuhYz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TDioEhTN5a0CHzN8ANX4Z3UW5YsJUge_qsRrJpvNweGWNGQGXO0C2At5cFNOF1qScbiUF2Wj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cOhGrBwZZqE", "title": "Python In Excel: Microsoft Changed EVERYTHING" }    
+  ]
+}

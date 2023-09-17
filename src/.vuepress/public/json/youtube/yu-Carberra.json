@@ -2,15 +2,12 @@
   "channel": {
     "id": "Carberra",
     "name": "Carberra",
-    "profile": "https://yt3.googleusercontent.com/1_OK5zt5nlcgspRFYlYtN0sMTNKRk_XBAZ6FBFA22Szx7PPW9vuFaMBEisyd-tOaV3_Je2Dv=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/1_OK5zt5nlcgspRFYlYtN0sMTNKRk_XBAZ6FBFA22Szx7PPW9vuFaMBEisyd-tOaV3_Je2Dv=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uLOTY6G4KBKAyqaF33pRe7uzAB-C-l-JhMD9E1mtAUUfsoKzkq4D1DV2GAgvS27t8T_Ca7mLMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "RlqMqVPgsls",
-      "title": "Python's SECRET diamond operator"
-    }, {
-      "id": "bcAqceZkZRQ",
-      "title": "Ruff is the FUTURE of Python development"
-    }
+    { "id": "WGsMydFFPMk", "title": "Creating your first PyPI package" },
+    { "id": "RlqMqVPgsls", "title": "Python's SECRET diamond operator" }, 
+    { "id": "bcAqceZkZRQ", "title": "Ruff is the FUTURE of Python development" }
   ]
 }

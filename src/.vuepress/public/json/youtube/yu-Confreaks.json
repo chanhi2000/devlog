@@ -18,7 +18,7 @@
     { "id": "LKeadwavRgA", "title": "Kadi Kraman – Building a 5-star app (Chain React 2023)" },
     { "id": "CZCassWCEnE", "title": "Keith Kurak – Not your grandparents’ Expo (Chain React 2023)" },
     { "id": "M-LMSCMUxAc", "title": "Naoya Makino – Server-Driven UI (Chain React 2023)" },
-    { "id": "Lax_7KOTn8Q", "title": "Chiara Mooney &amp; Shiven Mian – Building for Microsoft (Chain React 2023)" },
+    { "id": "Lax_7KOTn8Q", "title": "Chiara Mooney & Shiven Mian – Building for Microsoft (Chain React 2023)" },
     { "id": "I6rJiNMyZiw", "title": "Andrew Gable – The past, present, and future of React Native at Expensify (Chain React 2023)" },
     { "id": "AkpOqIElPJU", "title": "Cecelia Martinez – Signed, sealed, deployed: shipping React Native apps (Chain React 2023)" },
     { "id": "1Q2h6Ni4n-s", "title": "Christoph Purrer – From Electron to React Native (Chain React 2023)" },
@@ -103,7 +103,7 @@
       "videos": [
         { "id": "TgNb2_LSMMo", "title": "RailsConf 2023 - Keynote by Eileen Uchitelle by Confreaks 44 minutes" },
         { "id": "0djwkB4WMDI", "title": "RailsConf 2023 - An imposter's guide to growth in engineering by Ebun Segun by Confreaks 38 minutes" },
-        { "id": "2UtaNgnGrYM", "title": "RailsConf 2023 - Mentorship Panel - Shana Moore, John Sawers, Ebun Segun, Erik Guzman &amp; Adam Cuppy by Confreaks 55 minutes" },
+        { "id": "2UtaNgnGrYM", "title": "RailsConf 2023 - Mentorship Panel - Shana Moore, John Sawers, Ebun Segun, Erik Guzman & Adam Cuppy by Confreaks 55 minutes" },
         { "id": "2u1kZ-qeDkA", "title": "RailsConf 2023 - Upgrading the Ruby Community by Pat Allan by Confreaks 35 minutes" },
         { "id": "6Ip2vwBSjpU", "title": "RailsConf 2023 - Managing the Burnout Burndown by Anjuan Simmons by Confreaks 44 minutes" },
         { "id": "AnyjeeOrvts", "title": "RailsConf 2023 - How We Implemented Internal Salary Transparency ... by Hilary Stohs Krause by Confreaks 49 minutes" },
@@ -118,7 +118,7 @@
         { "id": "j-oLk3rPHRk", "title": "RailsConf 2023 - Lightning Talks by Confreaks 1 hour, 52 minutes" },
         { "id": "lqkGslGm8yg", "title": "RailsConf 2023 - Hacking Your Emotional API by John Sawers by Confreaks 45 minutes" },
         { "id": "qVGLJ9ay62E", "title": "RailsConf 2023 - Keynote: Investing in the Ruby community by Rafael Mendonça França by Confreaks 46 minutes" },
-        { "id": "wZZuBA3tTyM", "title": "RailsConf 2023 - A Ruby Community Podcast Live! by Brittany Martin, Jason Charnes &amp; Paul Bahr by Confreaks 45 minutes" },
+        { "id": "wZZuBA3tTyM", "title": "RailsConf 2023 - A Ruby Community Podcast Live! by Brittany Martin, Jason Charnes & Paul Bahr by Confreaks 45 minutes" },
         { "id": "-XoWIywEwvA", "title": "RailsConf 2023 - Beyond CRUD: the PostgreSQL techniques your Rails app is missing. Shayon Mukherjee by Confreaks 33 minutes" },
         { "id": "3gt5BE_udlM", "title": "RailsConf 2023 - Functional Patterns in Ruby by John Crepezzi by Confreaks 40 minutes" },
         { "id": "7XYloLJ0lDo", "title": "RailsConf 2023 - Rails as a piece of birthday cake by Vladimir Dementyev by Confreaks 45 minutes" },
@@ -161,7 +161,7 @@
         { "id": "NYNT7i4bcpc", "title": "RailsConr 2023 - Forging Your Path to Senior Developer by Ifat Ribon by Confreaks 30 minutes" },
         { "id": "NjsGSUh1dOc", "title": "RailsConf 2023 - Using Rails Engines to Supercharge Your Team by Austin Story by Confreaks 43 minutes" },
         { "id": "cj9NO1xI4b4", "title": "RailsConf 2023 - Let's Standardize Rails, Once and For All! by Justin Searls, Meagan Waller by Confreaks 47 minutes" },
-        { "id": "y_9uApICzA4", "title": "RailsConf 2023 - Building a world class engineering organization — learning from... by Shane Becker by Confreaks 45 minutes" }        
+        { "id": "y_9uApICzA4", "title": "RailsConf 2023 - Building a world class engineering organization — learning from... by Shane Becker by Confreaks 45 minutes" }   
       ]
     }
   ]

@@ -159,5 +159,13 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## chaems
+
+<MyYouTubeItems jsonName="yu-chmyoungsu" />
+
+<!-- chaems -->
+
+---
+
 <TagLinks />
 

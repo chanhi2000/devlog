@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/kpN1c5fYszmE4VhHYuy8jKZSdIHQhlVkC__NFmprp4pd8C_iPYd9mX4Xxt6h9SY6GJ87ScN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VXBUGag4j_g", "title": "60. Building a Template-Driven Form" },
+    { "id": "3v2kLLwvmvQ", "title": "64. Creating Custom Reactive Form Validatores" },
     { "id": "nVNz13yYKrk", "title": "06. Creating a DTO for Response Handling" },
     { "id": "2C_3XLgG9kQ", "title": "05. Connecting to OpenAI API" },
     { "id": "IxL3wsCCmJ4", "title": "04. Designing the User Interface with MVC" },

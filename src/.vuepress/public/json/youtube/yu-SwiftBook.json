@@ -8,7 +8,7 @@
   "videos": [
     { "id": "r8EiFnlhHTI", "title": "Shaders in SwiftUI" }, 
     { "id": "mlY3kpHI04M", "title": "Swift Keychain" }, 
-    { "id": "wjHBzRvfE4o", "title": "Фреймворк SwiftData" },     
+    { "id": "wjHBzRvfE4o", "title": "Фреймворк SwiftData" },
     { "id": "0WONXkGGbMM", "title": "Знакомимся с PencilKit" }, 
     { "id": "Zl3x0QJisyc", "title": "Использование UITextChecker совместно со SwiftUI" } 
   ]

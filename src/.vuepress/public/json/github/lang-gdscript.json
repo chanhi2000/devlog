@@ -4,5 +4,15 @@
     "desc": "Demonstration and Template Projects",
     "officialSite": "https://godotengine.org",
     "topics": []
+  }, {
+    "repo": "godotengine/godot-docs",
+    "desc": "Godot Engine official documentation",
+    "officialSite": "https://docs.godotengine.org/",
+    "topics": ["open-source", "gamedev", "documentation", "multi-platform", "docs", "game-engine", "game-development", "godotengine", "godot", "hacktoberfest"]
+  }, {
+    "repo": "KenneyNL/Starter-Kit-3D-Platformer",
+    "desc": "Godot",
+    "officialSite": "",
+    "topics": []
   }
 ]

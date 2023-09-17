@@ -6,31 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "loRUjNHGQ10",
-      "title": "파일 수신 서버 구현 [네트워크 프로그래밍 C#]"
-    }, {
-      "id": "N__Bnvg6SJ4",
-      "title": ".NET 리플렉션, 명시적으로 어셈블리 로딩 [실습으로 다지는 C#]"
-    }, {
-      "id": "iDNoNN7k8w4",
-      "title": "TCP 통신 - 에코 서버 및 클라이언트 구현 [네트워크 프로그래밍 C#]"
-    }, {
-      "id": "VQKSBOjc-Uo",
-      "title": "원격제어 프로그램 만들기 - 7. 이미지 전송 클라이언트 구현 [언제나 프로젝트, C#]"
-    }, {
-      "id": "z8Zfy2Rfh8A",
-      "title": "카카오 API를 이용한 위치 검색 프로그램 [언제나 WPF]"
-    }, {
-      "id": "PUhaj_U1q2E",
-      "title": "[소프트웨어 설계 패턴 C#] 13. 2부 구조 패턴들"
-    }, {
-      "id": "KDsbLcEmUKk",
-      "title": "[049] C# 리플렉션 - 런타임에 명시적으로 어셈블리를 로드하여 사용하기"
-    }, {
-      "id": "dNw0RZTv_3I",
-      "title": "[024] C# 프로그래밍 실습(캠퍼스 생활) - 3. 설계한 내용 프로젝트로 옮기기"
-    }
+    { "id": "loRUjNHGQ10", "title": "파일 수신 서버 구현 [네트워크 프로그래밍 C#]" }, 
+    { "id": "N__Bnvg6SJ4", "title": ".NET 리플렉션, 명시적으로 어셈블리 로딩 [실습으로 다지는 C#]" }, 
+    { "id": "iDNoNN7k8w4", "title": "TCP 통신 - 에코 서버 및 클라이언트 구현 [네트워크 프로그래밍 C#]" }, 
+    { "id": "VQKSBOjc-Uo", "title": "원격제어 프로그램 만들기 - 7. 이미지 전송 클라이언트 구현 [언제나 프로젝트, C#]" }, 
+    { "id": "z8Zfy2Rfh8A", "title": "카카오 API를 이용한 위치 검색 프로그램 [언제나 WPF]" }, 
+    { "id": "PUhaj_U1q2E", "title": "[소프트웨어 설계 패턴 C#] 13. 2부 구조 패턴들" }, 
+    { "id": "KDsbLcEmUKk", "title": "[049] C# 리플렉션 - 런타임에 명시적으로 어셈블리를 로드하여 사용하기" }, 
+    { "id": "dNw0RZTv_3I", "title": "[024] C# 프로그래밍 실습(캠퍼스 생활) - 3. 설계한 내용 프로젝트로 옮기기" }
   ]
 }
 

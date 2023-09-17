@@ -3,6 +3,15 @@ lang: ko-KR
 title: Example(s)
 description: 🧜‍♀️Mermaid.js > Example(s)
 tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js", "example"]
+meta:
+  - name: Example(s)
+    content: 🧜‍♀️Mermaid.js > Example(s)
+  - property: og:title
+    content: Example(s)
+  - property: og:description
+    content: 🧜‍♀️Mermaid.js > Example(s)
+  - property: og:url
+    content: https://chanhi2000.github.io/g4e/lang-js-mermaid/examples.html
 ---
 
 # {{ $frontmatter.title }} 관련

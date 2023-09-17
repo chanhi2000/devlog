@@ -1,12 +1,8 @@
 ---
 lang: ko-KR
 title: Intro
-description: Markdown
-  - sh
-  - bash
-  - markdown
-  - md
-  - template
+description: 📝Markdown
+tags: ["markdown", "md", "git" , "github"]
 ---
 
 # {{ $frontmatter.description }} 관련

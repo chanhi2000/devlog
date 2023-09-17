@@ -13,13 +13,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ---
 
-## Multiplatform
-
-- [JetBrains/compose-multiplatform][JetBrains/compose-multiplatform]: Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-  - [🌐Official Site](https://jetbrains.com/lp/compose)
-
----
-
 ## Scala
 
 <MyGithubItems jsonName="lang-scala" />
@@ -132,8 +125,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 <TagLinks />
 
 
-<!-- Multiplatform -->
-[JetBrains/compose-multiplatform]: https://github.com/JetBrains/compose-multiplatform
 <!-- Odin -->
 [odin-lang/Odin]: https://github.com/odin-lang/Odin
 <!-- R -->

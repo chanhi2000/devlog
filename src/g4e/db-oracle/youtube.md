@@ -29,4 +29,12 @@ tags: ["sql", "db", "mysql", "shell"]
 
 ---
 
+## 어쩌다DBA
+
+<MyYouTubeItems jsonName="yu-opportunelydba" />
+
+<!-- 어쩌다DBA -->
+
+---
+
 <TagLinks />

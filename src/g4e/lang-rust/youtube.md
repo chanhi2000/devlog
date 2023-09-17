@@ -206,6 +206,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Logan Smith
+
+<MyYouTubeItems jsonName="yu-_noisecode" />
+
+<!-- Logan Smith -->
+
+---
+
 ## RustAU
 
 <MyYouTubeItems jsonName="yu-rustau5950" />

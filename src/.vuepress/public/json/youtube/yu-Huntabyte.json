@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/RPw7Ecl0Q9XylhxVY2w4pxDCga2AIB0iS7hMLA3yaD9iixjDKTsdYi5EtkKBLJR7AImhJHfs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "san5ValGE5g", "title": "Working on the Date Picker for Melt UI" },
     { "id": "ugaajUi9xAQ", "title": "Prevent App Abuse with Upstash Redis" },
     { "id": "bfbam0Zf4p0", "title": "The Anti Component Library" }, 
     { "id": "hB6OkaYWS5I", "title": "Flash Messages in SvelteKit" }, 

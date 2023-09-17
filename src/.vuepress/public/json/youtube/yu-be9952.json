@@ -6,10 +6,7 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "UF2Giz9PE-E",
-      "title": "AWS CodeDeploy와 Github Actions를 이용한 CI/CD 구축"
-    }
+    { "id": "UF2Giz9PE-E", "title": "AWS CodeDeploy와 Github Actions를 이용한 CI/CD 구축" }
   ]
 }
 

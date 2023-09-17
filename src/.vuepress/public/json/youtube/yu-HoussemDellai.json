@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/gsK0EALjlZGWmWu9Uf-KrVdjUAmK3X9dfVX40UZ0tJ54SzBEh_lVWsSzENyAtmCZDaPOItJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GTqdkQIdCXY", "title": "KEDA autoscaler for Kubernetes and Container Apps" },
+    { "id": "kV-VLz1KxfE", "title": "AKS Landing Zone - part 2" },
+    { "id": "KH0slS87pIo", "title": "Are your Secrets Secure in Container Apps ?" },
     { "id": "8CsT1oXcwiA", "title": "AKS Landing Zone - part 1" },
     { "id": "vV6TeUSlmvc", "title": "How Kubernetes secures access to API Server ?" },
     { "id": "ptdAcsG2ROI", "title": "Purchase custom Domain Name in Azure using Terraform" },
@@ -14,10 +17,10 @@
     { "id": "YNy8Sdvxy5Q", "title": "Microsoft Defender for DevOps" }, 
     { "id": "wvGDH_gp2Tw", "title": "Application Gateway for Containers" }, 
     { "id": "hoNBlGVD1CY", "title": "AKS CIDR Ranges" }, 
-    { "id": "ptdAcsG2ROI", "title": "Purchase custom Domain Name in Azure using Terraform" },     
+    { "id": "ptdAcsG2ROI", "title": "Purchase custom Domain Name in Azure using Terraform" },
     { "id": "MpZNURlESgA", "title": "Introduction to Azure Container Apps" }, 
     { "id": "pjx6S-DXiN4", "title": "Azure Container Apps on the Lightboard" }, 
-    { "id": "YMN9uhjX3RY", "title": "Kubernetes and AKS versions" },     
+    { "id": "YMN9uhjX3RY", "title": "Kubernetes and AKS versions" },
     { "id": "PngRsyHyYQE", "title": "AKS with Application Gateway - AGIC" }, 
     { "id": "bafijVfuzwY", "title": "Monitoring AKS using Prometheus and Grafana on Azure" }, 
     { "id": "2Y82jW_H-E4", "title": "Deploy Kubernetes Infra with Terraform and Github Actions" }, 

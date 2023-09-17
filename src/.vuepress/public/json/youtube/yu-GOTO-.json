@@ -2,13 +2,13 @@
   "channel": {
     "id": "GOTO-",
     "name": "GOTO Conferences",
-    "profile": "https://yt3.googleusercontent.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UTaC_duYBkEn63P-BACKQX2eogvUgLj8_pkI9aFw45wt3CaY4H3fbMgqoHXiaUUSNWaSz7UBkg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "_XbOTRunqHk",
-      "title": "Building Your Own Compiler The Slightly Easier Way With LLVM • Erik Corry • YOW! 2016"
-    }
+    { "id": "KEv4N6vvUZw", "title": "Five Lines of Code • Christian Clausen • YOW! 2022" },
+    { "id": "wFlyUzUVFhw", "title": "Zig Build System & How to Build Software From Source • Andrew Kelley • GOTO 2023" },
+    { "id": "_XbOTRunqHk", "title": "Building Your Own Compiler The Slightly Easier Way With LLVM • Erik Corry • YOW! 2016" }
   ]
 }
 

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PUwxjH6jhCI", "title": "Criminal IP의 API 정보와 북마크를 통한 IP 정보 웹 모니터링" },
+    { "id": "JaneKizfcoY", "title": "도커 컨테이너 관리 포테이너 (Portainer) 이미지 기능 기본 활용법 #docker #clouds #portainer" },
+    { "id": "tlW7TJisx1Q", "title": "버프스위트 웹 시큐리티아카데미 접근제어미흡 취약점 사례" },
+    { "id": "niyboJxcKUM", "title": "악성코드 자동 분석 서비스에 ChatGTP 가 반영되어 자동으로 설명?!! #malware #chatgpt" },
+    { "id": "IPVqCUdqiCE", "title": "버프스위트 웹 시큐리티아카데미 접근제어 미흡 취약점 두번째 사례 #burpsuite #웹해킹 #모의해킹" },
     { "id": "k45rk6s80nI", "title": "와이어샤크 패킷 분석 -  FTP 무작위 대입 공격 사례 #wireshark #forensics" },
     { "id": "ZI3HIjzVGvA", "title": "도커 컨테이너 관리 포테이너 (Portainer) 도구 소개 및 활용 #docker #clouds" },
     { "id": "YUU9lr1TyCw", "title": "Google one 다크웹 서비스 모니터링 기능 소개 #darkweb #개인정보" },
@@ -32,7 +37,7 @@
     { "id": "0oMoISj27Is", "title": "파이썬 Streamlit 활용 - Short URL에 Qrcode기능을 포함 #python #업무자동화" }, 
     { "id": "EcwpLsbiFAw", "title": "NmapAutomater  - Nmap NSE를 효율적으로 동작시킬 수 있는 도구 #kalilinux  #hacking" }, 
     { "id": "miK1AfxonxE", "title": "파이썬 자동화 - 업비트 API를 이용한 이더리움, 비트코인 정보 가져오기 #upbit #python" }, 
-    { "id": "8Paiz2lguYg", "title": "노션 QA -  임베드 기능을 이용해서 HTML태그를 가져오기 #notion #노션" },     
+    { "id": "8Paiz2lguYg", "title": "노션 QA -  임베드 기능을 이용해서 HTML태그를 가져오기 #notion #노션" },
     { "id": "SsYecHmsxvA", "title": "파이썬 collections counter 라이브러리를 이용한 단어 빈도 사례 #python #파이썬자동화" }, 
     { "id": "Q5qF-QHiRYM", "title": "모의해킹 공부할 때 OWASP Juice Shop 웹 취약점 환경 추천!! 간단한 설명" }, 
     { "id": "D8Wf0WatcxE", "title": "파이썬 Tkinter GUI - RSS 정보 수집과 엑셀 파일로 저장 #python #파이썬자동화" }, 

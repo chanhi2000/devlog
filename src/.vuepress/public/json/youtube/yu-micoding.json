@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "micoding",
+    "name": "몰입코딩 아카이브",
+    "profile": "https://yt3.googleusercontent.com/qMW9oBG7Z07wlJzIgLJ8f3pczKdrJf00f1s9MSMyGyEgHXYdHAoe_RgdPQPmZ1SpzCHogYLS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vQbZsH3LkG4eg5JtH7UITwySa60UoQ_B3_0W-7R9uKrmBRhpiY19lzAj2pgzsUHNUUp3FYrfew=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "L0nKXyDlZCk", "title": "23 09 18, ken 13027, 9강, Collectors.groupingBy 를 사용하여 forCalendarArticles 생성, 달력에 할일들 표시" },
+    { "id": "v4OkPzTDBKA", "title": "23 09 18, ken 13027, 8강, grid 형태의 달력을 적용" },
+    { "id": "s6lxYuce7uE", "title": "23 09 18, ken 13027, 7강, grid 형태로 달력구현, 성공" },
+    { "id": "CdY-jxpExDc", "title": "23 09 18, ken 13027, 6강, table 형태로 달력구현, 실패" },
+    { "id": "4iRzschCHjE", "title": "23 09 18, ken 13027, 5강, 이전달, 다음달 버튼" },
+    { "id": "ut5XPS7ZgFo", "title": "23 09 18, ken 13027, 4강, eventDate가 특정월에 속하는 게시물만 추려서 가져오기" },
+    { "id": "ineVF3WhFqw", "title": "23 09 18, ken 13027, 3강, 엔티티에 eventDate 추가, 테스트 데이터 생성시에 eventDate 가 고르게 분포되도록" },
+    { "id": "i4fVLa8vE-s", "title": "23 09 18, ken 13027, 2강, 엔티티에 createDate, modifyDate 의 값이 자동으로 저장되도록" },
+    { "id": "2LpxjF7BErg", "title": "23 09 18, ken 13021, 13강, 회원정보수정" },
+    { "id": "94s_t1WxkjE", "title": "23 09 18, ken 13021, 16강, 로그인 성공시 성공 메세지 보여주기" },
+    { "id": "ikSrrcoTnr4", "title": "23 09 18, ken 13021, 15강, 회원정보수정 후 성공 메세지" },
+    { "id": "mRan9Oik6x0", "title": "23 09 18, ken 13021, 14강, 로그인 실패시 에러 메세지 커스터마이징" },
+    { "id": "6gQpvplc-90", "title": "23 09 14, ken 13008, 2강, 무한 스크롤 적용" },
+    { "id": "R6wiQmWv7gg", "title": "23 09 18, ken 13029, 1강, 프로젝트 세팅" },
+    { "id": "aoHh3NOg5Bw", "title": "23 09 18, ken 13027, 1강, 13008 수업의 소스코드를 가져와서 실행" }
+  ]
+}

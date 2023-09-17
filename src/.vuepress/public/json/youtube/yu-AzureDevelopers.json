@@ -29,6 +29,25 @@
     { "id": "leJRc0JWzSY", "title": "Getting started in the Azure Portal" }, 
     { "id": "Knctudbao1o",  "title": "Build a SMS generator with short URLs leveraging Azure Functions, Storage, & Communication Services" }, 
     { "id": "Sb5ei5-wmSA",  "title": "Modernizing .NET Apps with Key Vault, Azure Monitor, & Beyond" }
+  ],
+  "playlists": [
+    {
+      "title": "Azure Developers Python Day 2023",
+      "videos": [
+        { "id": "9xxpn-bJes0", "title": "Azure Developers - Python Day by Microsoft Azure Developers 7 hours, 5 minutes" },
+        { "id": "Jm4pBz9caU4", "title": "Now we’re cooking: Building a restaurant app with Azure Cosmos DB. by Microsoft Azure Developers 24 minutes" },
+        { "id": "pycgLP0YMms", "title": "Host your gRPC workloads on App Service using Python and LangChain by Microsoft Azure Developers 17 minutes" },
+        { "id": "MRGG-oq7Z2Q", "title": "Speedrun your Python deployments with azd by Microsoft Azure Developers 33 minutes" },
+        { "id": "Qdlk-La6GLI", "title": "Simple, Fast, Idiomatic: An Intro to the Azure SDK for Python by Microsoft Azure Developers 26 minutes" },
+        { "id": "DL2M3glz41k", "title": "Use Python in Excel to enhance your data science by Microsoft Azure Developers 32 minutes" },
+        { "id": "2_qv8-00nKs", "title": "Use _all_ your data with Microsoft Fabric by Microsoft Azure Developers 27 minutes" },
+        { "id": "1tPIlVmkdkg", "title": "Building intelligent Python apps and microservices with Azure Container Apps by Microsoft Azure Developers 28 minutes" },
+        { "id": "KbN3_9XHpQs", "title": "Building geo-distributed API with Azure Functions - developing, testing, deploying by Microsoft Azure Developers 29 minutes" },
+        { "id": "0GZKlew2SM8", "title": "Let's code a drone using Azure OpenAI Services by Microsoft Azure Developers 26 minutes" },
+        { "id": "4Zb9vG13YfI", "title": "How to build a practical AI app with Python, Redis, and OpenAI by Microsoft Azure Developers 28 minutes" },
+        { "id": "CYks7kD59BY", "title": "Create your first copilot solutions by Microsoft Azure Developers 28 minutes" }   
+      ]
+    }
   ]
 }
 

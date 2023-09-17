@@ -302,4 +302,759 @@ echo 'Sample123string42with777numbers' | awk -v RS='[0-9]+' '{print NR, RT}'
 
 :::
 
+---
+
+## Paragraph mode
+
+As a special case, when `RS` is set to an empty string, one or more consecutive empty lines is used as the input record separator. Consider the below sample file:
+
+```sh
+cat para.txt
+# Hello World
+# 
+# Hi there
+# How are you
+# 
+# Just do-it
+# Believe it
+# 
+# banana
+# papaya
+# mango
+# 
+# Much ado about nothing
+# He he he
+# Adios amigo
+```
+
+Here's an example of processing input paragraph wise:
+
+::: tabs
+
+@tab:active Case 1
+
+print all paragraphs containing '`do`'
+note that there'll be an empty line after the last record
+
+```sh
+awk -v RS= -v ORS='\n\n' '/do/' para.txt
+# Just do-it
+# Believe it
+# 
+# Much ado about nothing
+# He he he
+# Adios amigo
+```
+
+:::
+
+The empty line at the end is a common problem when dealing with custom record separators. You could either process the output further to remove it or add logic to handle the issue in `awk` itself. Here's one possible workaround for the previous example:
+
+::: tabs
+
+@tab:active Case 1
+
+here ORS is left as the default newline character
+uninitialized variable 's' will be empty for the first match
+afterwards, 's' will provide the empty line separation
+
+```sh
+awk -v RS= '/do/{print s $0; s="\n"}' para.txt
+# Just do-it
+# Believe it
+# 
+# Much ado about nothing
+# He he he
+# Adios amigo
+```
+
+:::
+
+Paragraph mode is not the same as using `RS='\n\n+'` because awk does a few more operations when `RS` is empty. See [gawk manual: multiline records](https://www.gnu.org/software/gawk/manual/html_node/Multiple-Line.html#Multiple-Line) for details. Important points are quoted below and illustrated with examples.
+
+::: info
+
+However, there is an important difference between `RS = ""` and `RS = "\n\n+"`. In the first case, leading newlines in the input data file are ignored
+
+:::
+
+```sh
+s='\n\n\na\nb\n\n12\n34\n\nhi\nhello\n'
+```
+
+::: tabs 
+
+paragraph mode
+
+@tab:active Case 1
+
+```sh
+printf '%b' "$s" | awk -v RS= -v ORS='\n---\n' 'NR<=2'
+# a
+# b
+# ---
+# 12
+# 34
+# ---
+```
+
+@tab Case 2
+
+`RS` is `'\n\n+'` instead of paragraph mode
+
+```sh
+printf '%b' "$s" | awk -v RS='\n\n+' -v ORS='\n---\n' 'NR<=2'
+# 
+# ---
+# a
+# b
+# ---
+```
+
+:::
+
+::: info
+
+and if a file ends without extra blank lines after the last record, the final newline is removed from the record. In the second case, this special processing is not done.
+
+:::
+
+```sh
+s='\n\n\na\nb\n\n12\n34\n\nhi\nhello\n'
+```
+
+::: tabs
+
+@tab:active Case 1
+
+paragraph mode
+
+```sh
+printf '%b' "$s" | awk -v RS= -v ORS='\n---\n' 'END{print}'
+# hi
+# hello
+# ---
+```
+
+@tab Case 2
+
+`RS` is `'\n\n+'` instead of paragraph mode
+
+```sh
+printf '%b' "$s" | awk -v RS='\n\n+' -v ORS='\n---\n' 'END{print}'
+# hi
+# hello
+# 
+# ---
+```
+
+:::
+
+::: info
+
+When `RS` is set to the empty string and `FS` is set to a single character, the newline character always acts as a field separator. This is in addition to whatever field separations result from `FS`. When `FS` is the null string (`""`) or a regexp, this special feature of `RS` does not apply. It does apply to the default field separator of a single space: `FS = " "`
+
+:::
+
+
+```sh
+s='a:b\nc:d\n\n1\n2\n3'
+```
+
+::: tabs
+
+@tab:active Case 1
+
+`FS` is a single character in paragraph mode
+
+```sh
+printf '%b' "$s" | awk -F: -v RS= -v ORS='\n---\n' '{$1=$1} 1'
+# a b c d
+# ---
+# 1 2 3
+# ---
+```
+
+@tab Case 2
+
+`FS` is a regexp in paragraph mode
+
+```sh
+printf '%b' "$s" | awk -F'[:]' -v RS= -v ORS='\n---\n' '{$1=$1} 1'
+# a b
+# c d
+# ---
+# 1
+# 2
+# 3
+# ---
+```
+
+@tab Case 3
+
+`FS` is a single character and `RS` is `'\n\n+'` instead of paragraph mode
+
+```sh
+printf '%b' "$s" | awk -F: -v RS='\n\n+' -v ORS='\n---\n' '{$1=$1} 1'
+# a b
+# c d
+# ---
+# 1
+# 2
+# 3
+# ---
+```
+
+:::
+
+---
+
+## NR vs FNR
+
+There are two special variables related to record numbering. You've seen NR earlier in the chapter, but here are some more examples.
+
+::: tabs
+
+@tab:active Case 1
+
+> same as: `head -n2`
+
+```sh
+seq 5 | awk 'NR<=2'
+# 1
+# 2
+```
+
+@tab Case 2
+
+> same as: `tail -n1`
+
+```sh
+awk 'END{print}' table.txt
+# yellow banana window shoes 3.14
+```
+
+@tab Case 3
+
+change the first field content only for the second line
+
+```sh
+awk 'NR==2{$1="green"} 1' table.txt
+# brown bread mat hair 42
+# green cake mug shirt -7
+# yellow banana window shoes 3.14
+```
+
+:::
+
+All the examples with `NR` so far has been with a single file input. If there are multiple file inputs, then you can choose between `NR` and the second special variable `FNR`. The difference is that `NR` contains total records read so far whereas `FNR` contains record number of only the current file being processed. Here are some examples to show them in action. You'll see more examples in later chapters as well.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+awk -v OFS='\t' 'BEGIN{print "NR", "FNR", "Content"}
+                   {print NR, FNR, $0}' report.log table.txt
+# NR      FNR     Content
+# 1       1       blah blah Error: second record starts
+# 2       2       something went wrong
+# 3       3       some more details Error: third record
+# 4       4       details about what went wrong
+# 5       1       brown bread mat hair 42
+# 6       2       blue cake mug shirt -7
+# 7       3       yellow banana window shoes 3.14
+```
+
+@tab Case 2
+
+> same as: `head -q -n1`
+
+```sh
+awk 'FNR==1' report.log table.txt
+# blah blah Error: second record starts
+# brown bread mat hair 42
+```
+
+:::
+
+For large input files, use `exit` to avoid unnecessary record processing.
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+seq 3542 4623452 | awk 'NR==2452{print; exit}'
+# 5993
+seq 3542 4623452 | awk 'NR==250; NR==2452{print; exit}'
+# 3791
+# 5993
+```
+
+@tab Case 2
+
+here is a sample time comparison
+
+```sh
+time seq 3542 4623452 | awk 'NR==2452{print; exit}' > f1
+# real    0m0.004s
+time seq 3542 4623452 | awk 'NR==2452' > f2
+# real    0m0.395s
+```
+
+:::
+
+---
+
+## Summary
+
+This chapter showed you how to change the way input content is split into records and how to set the string to be appended when `print` is used. The paragraph mode is useful for processing multiline records separated by empty lines. You also learned two special variables related to record numbers and when to use them.
+
+So far, you've used `awk` to manipulate file content without modifying the source file. The next chapter will discuss how to write back the changes to the original input files.
+
+---
+
+## Exercises
+
+::: info
+
+The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learnbyexample/learn_gnuawk/tree/master/exercises) directory has all the files used in this section.
+
+:::
+
+### Exercise 1
+
+
+The input file <FontIcon icon="iconfont icon-file"/>`jumbled.txt` consists of words separated by various delimiters. Display all words that contain `an` or `at` or `in` or `it`, one per line.
+
+
+```sh
+cat jumbled.txt
+# overcoats;furrowing-typeface%pewter##hobby
+# wavering:concession/woof\retailer
+# joint[]seer{intuition}titanic
+```
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# overcoats
+# furrowing
+# wavering
+# joint
+# intuition
+# titanic
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 2
+
+Emulate `paste -sd`, with `awk`.
+
+::: tabs
+
+@tab:active Question
+
+this command joins all input lines with the '`,`' character
+
+make sure there's no '`,`' at end of the line and that there's a newline character at the end of the line
+
+```sh
+paste -sd, addr.txt
+# Hello World,How are you,This game is good,Today is sunny,12345,You are funny
+
+awk ##### add your solution here
+# Hello World,How are you,This game is good,Today is sunny,12345,You are funny
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+::: tabs 
+
+@tab:active Question
+
+if there's only one line in input, again make sure there's no trailing '`,`'
+
+```sh 
+printf 'fig' | paste -sd,
+fig
+printf 'fig' | awk ##### add your solution here
+fig
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 3
+
+For the input file <FontIcon icon="iconfont icon-file"/> `scores.csv`, add another column named __GP__ which is calculated out of 100 by giving 50% weightage to Maths and 25% each for Physics and Chemistry.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Name,Maths,Physics,Chemistry,GP
+# Blue,67,46,99,69.75
+# Lin,78,83,80,79.75
+# Er,56,79,92,70.75
+# Cy,97,98,95,96.75
+# Ort,68,72,66,68.5
+# Ith,100,100,100,100
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 4
+
+For the input file <FontIcon icon="iconfont icon-file"/> `sample.txt`, extract paragraphs containing `do` and exactly two lines.
+
+```sh
+cat sample.txt
+# Hello World
+# 
+# Good day
+# How are you
+# 
+# Just do-it
+# Believe it
+# 
+# Today is sunny
+# Not a bit funny
+# No doubt you like it too
+# 
+# Much ado about nothing
+# He he he
+```
+
+::: tabs 
+
+@tab:active Question
+
+note that there's no extra empty line at the end of the output
+
+```sh
+awk ##### add your solution here
+# Just do-it
+# Believe it
+# 
+# Much ado about nothing
+# He he he
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 5
+
+For the input file <FontIcon icon="iconfont icon-file"/> `sample.txt`, change each paragraph to a single line by joining lines using `.` and a space character as the separator. Also, add a final `.` to each paragraph.
+
+::: tabs 
+
+@tab:active Question
+
+note that there's no extra empty line at the end of the output
+
+```sh
+awk ##### add your solution here
+# Hello World.
+# 
+# Good day. How are you.
+# 
+# Just do-it. Believe it.
+# 
+# Today is sunny. Not a bit funny. No doubt you like it too.
+# 
+# Much ado about nothing. He he he.
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 6
+
+The various input/output separators can be changed dynamically and comes into effect during the next input/output operation. For the input file <FontIcon icon="iconfont icon-file"/> `mixed_fs.txt`, retain only the first two fields from each input line. The field separators should be space for the first two lines and `,` for the rest of the lines.
+
+```sh
+cat mixed_fs.txt
+# rose lily jasmine tulip
+# pink blue white yellow
+# car,mat,ball,basket
+# green,brown,black,purple
+# apple,banana,cherry
+```
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# rose lily
+# pink blue
+# car,mat
+# green,brown
+# apple,banana
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 7
+
+For the input file <FontIcon icon="iconfont icon-file"/> `table.txt`, print other than the second line.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# brown bread mat hair 42
+# yellow banana window shoes 3.14
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 8
+
+For the <FontIcon icon="iconfont icon-file"/> `table.txt` file, print only the line number for lines containing `air` or `win`.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# 1
+# 3
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 9
+
+For the input file <FontIcon icon="iconfont icon-file"/> `table.txt`, calculate the sum of numbers in the last column, excluding the second line.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# 45.14
+# 
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 10
+
+Print the second and fourth line for every block of five lines.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+seq 15 | awk ##### add your solution here
+# 2
+# 4
+# 7
+# 9
+# 12
+# 14
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 11
+
+For the input file <FontIcon icon="iconfont icon-file"/> `odd.txt`, surround all whole words with `{}` that start and end with the same word character. This is a contrived exercise to make you use the `RT` variable (`sed -E 's/\b(\w)(\w*\1)?\b/{&}/g' odd.txt` would be a simpler solution).
+
+```sh
+cat odd.txt
+# -oreo-not:a _a2_ roar<=>took%22
+# RoaR to wow-
+```
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# -{oreo}-not:{a} {_a2_} {roar}<=>took%{22}
+# {RoaR} to {wow}-
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 12
+
+Print only the second field of the third line, if any, from these input files: <FontIcon icon="iconfont icon-file"/> `addr.txt`, <FontIcon icon="iconfont icon-file"/> `sample.txt` and <FontIcon icon="iconfont icon-file"/> `copyright.txt`. Consider space as the field separator.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# game
+# day
+# bla
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 13
+
+The input file <FontIcon icon="iconfont icon-file"/> `ip.txt` has varying amount of empty lines between the records, change them to be always two empty lines. Also, remove the empty lines at the start and end of the file.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# hello
+# 
+# 
+# world
+# 
+# 
+# apple
+# banana
+# cherry
+# 
+# 
+# tea coffee
+# chocolate
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 14
+
+The sample string shown below uses `cat` as the record separator (irrespective of case). Display only the even numbered records separated by a single empty line.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+s='applecatfigCaT12345cAtbananaCATguava:caT:mangocat3'
+echo "$s" | awk ##### add your solution here
+# fig
+# 
+# banana
+# 
+# :mango
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
+### Exercise 15
+
+Input has the ASCII NUL character as the record separator. Change it to dot and newline characters as shown below.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+printf 'apple\npie\0banana\ncherry\0' | awk ##### add your solution here
+# apple
+# pie.
+# banana
+# cherry.
+```
+
+@tab Answer
+
+```sh
+```
+
+:::
+
 <TagLinks/>

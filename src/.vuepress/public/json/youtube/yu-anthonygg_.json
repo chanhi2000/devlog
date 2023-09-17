@@ -2,13 +2,11 @@
   "channel": {
     "id": "anthonygg_",
     "name": "Anthony GG",
-    "profile": "https://yt3.googleusercontent.com/ADjysY-26b3e9qAyq70nv-96mS5s04PKW2G8BPHAYaGWncpLHNYH_7sG0JuZPBu0NuMlon3p=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ADjysY-26b3e9qAyq70nv-96mS5s04PKW2G8BPHAYaGWncpLHNYH_7sG0JuZPBu0NuMlon3p=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xnFag7pveZKka94nV4Qn62kPrqwwIOuTs4k6RDpZwzxW_QCqyJoxCLB9wHnBAYaEP3SlUBGHbA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "AzhSnM0uHvM",
-      "title": "Why I Switched From VSCode To NeoVim - My Setup"
-  }
+    { "id": "AzhSnM0uHvM", "title": "Why I Switched From VSCode To NeoVim - My Setup" }
   ]
 }
 

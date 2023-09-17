@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "chmyoungsu",
+    "name": "chaems",
+    "profile": "https://yt3.googleusercontent.com/mFOVtIa3IWFj-kpjzSHChIMl6GrVFpcqDd2hlcsH0hie9Ez62FTWtCWoIUNUHu-eSkCgI6AO6vs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p4W_Z3xzummTfqo-3Tn__tS3q3mpQ7WjGUhpoMmLL7IzvqU3p6MPzI125XCI_gS--ZW8ufichoQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MFqP_LUawtE", "title": "엑셀 VLOOKUP 함수, 기본 사용방법부터 실무 활용까지! Excel Basics tutorial" },
+    { "id": "ELk7zzEpc0o", "title": "🎈워드프로세서필기 강의🎪 몰아보기 #5 - 이거 하나면 끝!!!" },
+    { "id": "0aglRda7MK8", "title": "DesignPattern, Ajax, 123D Design 강의 | 기초부터 차근차근 보기!" },
+    { "id": "8cJEsXvpc6s", "title": "엑셀 기초 강의 - 인터넷자료 가져오기, 열너비 자동맞춤, 열너비 그대로 복사 Excel Basics tutorial" },
+    { "id": "SXsBrxnFS20", "title": "💌엑셀 강의🧡 몰아보기 #6 - 이거 하나면 끝!!! Excel Basics tutorial" },
+    { "id": "3iX5t1cPzkI", "title": "🎁파이썬 엑셀자동화 강의🎡 몰아보기 #3 - 이거 하나면 끝!!!  Python Basics tutorial" },
+    { "id": "_dccnTZWNk8", "title": "엑셀 기초 강의 - 셀 병합 오류 해결, 누적합계 구하기, 텍스트 나누기/합치기/추출하기" },
+    { "id": "ToE6gYWk2eE", "title": "🥞파이썬 엑셀자동화 강의🍭 몰아보기 #4 - 이거 하나면 끝!!!  Python Basics tutorial" },
+    { "id": "tzWUwQwG0rc", "title": "🛩엑셀 강의🛴 몰아보기 #8 - 이거 하나면 끝!!! Excel Basics tutorial" },
+    { "id": "eX77nE0zy2Q", "title": "엑셀 기초 강의 - 체크박스 만들기, 양수 음수 자동색상, 자동테두리" },
+    { "id": "yl4tedL5QbY", "title": "🎨드루팔 (Drupal) 강의🧵 몰아보기 #8 - 이거 하나면 끝!!! Drupal Basics tutorial" },
+    { "id": "PJTkUTdId10", "title": "🚊파이썬 jupyter 강의🛫 몰아보기 #7 - 이거 하나면 끝!!! Python Basics tutorial" },
+    { "id": "he5gATqb-Nk", "title": "🤩엑셀 강의😍 몰아보기 #9 - 이거 하나면 끝!!! Excel Basics tutorial" },
+    { "id": "qHXKf93PQ00", "title": "엑셀 기초 강의 - 슬라이서, 도형정렬, 빈칸 채우기, 셀병합 필터링, 엑셀 PDF변환" },
+    { "id": "emNbEpqVH9A", "title": "😀드루팔 (Drupal) 강의😍 몰아보기 #9 - 이거 하나면 끝!!! Drupal Basics tutorial" },
+    { "id": "qVEkp9EbnKU", "title": "🎀컴활2급필기 강의✨ 몰아보기 #8 - 이거 하나면 끝!!!" },
+    { "id": "G-tIfCLOQ0M", "title": "🎈파이썬 엑셀자동화 강의✨ 몰아보기 #5 - 이거 하나면 끝!!! Python Basics tutorial" }
+  ]
+}

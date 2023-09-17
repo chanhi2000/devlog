@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gwOVynGnDZA", "title": "Full Stack Next.js, Typescript, Firebase Tutorial – Google Drive Clone" },
+    { "id": "TV6tFPfz0go", "title": "YouTube Clone – T3 Stack Tutorial (Next.js, TypeScript, Tailwind CSS)" },
+    { "id": "Uh5LhXAIyCw", "title": "2D Wave Defense Game – GDevelop GameDev Tutorial" },
+    { "id": "EJHPltmAULA", "title": "Fundamentals of Finance & Economics for Businesses – Crash Course" },
+    { "id": "yfHHvmaMkcA", "title": "Vector Embeddings Tutorial – Code Your Own AI Assistant with GPT-4 API + LangChain + NLP" },
+    { "id": "r895rFUbGtE", "title": "Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)" },
     { "id": "YYe0FdfdgDU", "title": "OWASP API Security Top 10 Course – Secure Your Web Apps" },
     { "id": "YT8s-90oDC0", "title": "Advanced C# Programming Course" },
     { "id": "6GQAE7iLOhY", "title": "Free Foundational C# Certification from Microsoft – Full Course" },

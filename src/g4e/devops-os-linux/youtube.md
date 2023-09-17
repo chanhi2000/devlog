@@ -266,4 +266,12 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## 민병욱-Benmin
+
+<MyYouTubeItems jsonName="yu-Benmin824" />
+
+<!-- 민병욱-Benmin -->
+
+---
+
 <TagLinks />

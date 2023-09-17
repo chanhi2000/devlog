@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/MNEsC8Wtd1Stf_OQYP-OBqVoveODo09vUT3WrEftmEA65X1zuJ5QOOJnOWAucqgedq-3qA-JWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wqZFZbmPvno", "title": "How to Use Azure Credits for MongoDB Atlas: Deploy a MERN Stack App" },
     { "id": "epNAf7VxinU", "title": "Build smarter applications with Google Cloud & MongoDB Atlas" },
     { "id": "21gamtkz8II", "title": "The Index: Serverless with Kotlin, Events, much more!" },
     { "id": "1d_G8jr0KJE", "title": "Exploring the MongoDB Extension for Visual Studio Code (VS Code)" }, 

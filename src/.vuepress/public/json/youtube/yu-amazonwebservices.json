@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cyBpRUtqiFs", "title": "Amazon EC2 Linux 인스턴스에 연결할 때 &quot;imported-openssh-key&quot; 또는 &quot;Putty Fatal Error&quot; 오류가 발생하는 이유는 무엇인가요?" },
+    { "id": "gkJL1SnhwLA", "title": "How can I connect to my Amazon VPC?" },
+    { "id": "4M-tgS2ROg8", "title": "How do I convert from a .pem file to a .ppk file, or from .ppk to .pem, on Windows and Linux?" },
+    { "id": "DmjeM87UQkY", "title": "Amazon Redshift - Qualify clause | Amazon Web Services" },
     { "id": "Kg1XRjOHqFY", "title": "How do I launch a new EC2 instance from a custom AMI?" },
     { "id": "Ev3giJRpHWw", "title": "AWS Security Hub integration with AWS Control Tower | Amazon Web Services" },
     { "id": "z7EL5cpROEw", "title": "AWS 관리 콘솔에 로그인하려면 어떻게 해야 하나요?" },

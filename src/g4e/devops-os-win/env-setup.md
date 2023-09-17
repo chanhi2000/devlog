@@ -147,7 +147,7 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
           "powerline_symbol": "\ue0b0",
           "properties": {
             "style": "folder"
-          },          
+          },     
           "template": " {{ .Path }} "
         }, {
           "type": "git",
@@ -176,7 +176,7 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
           "foreground": "#ffffff",
           "properties": {
             "time_format": "15:04"
-          },          
+          },     
           "template": " \u2665 {{ .CurrentDate | date .Format }} ",
           "trailing_diamond": "\ue0b0"
         }

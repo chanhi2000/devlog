@@ -6,9 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/5fQ3BvZN3HIuqPu5Seis3NPscQK-zlEdkDUkPKcV5ArNSgixJ40JRZrWkFbLmdGDC17HSTlhjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "mPPhcU7oWDU",
-      "title": "Spring Boot Microservice Project Full Course in 6 Hours 🔥🔥🔥"
-    }
+    { "id": "PT2yZTBnUwQ", "title": "Spring Boot 3 Observability with Grafana Stack" },
+    { "id": "TTUOUHb-QqQ", "title": "Migrate to Spring Boot 3 with OpenRewrite" },
+    { "id": "mPPhcU7oWDU", "title": "Spring Boot Microservice Project Full Course in 6 Hours 🔥🔥🔥" }
   ]
 }

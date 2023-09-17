@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/dy3cphCeA7ZmAx2Rv5QQ3l3F9G-Czt6bRTCDWMuGUVwpE2YuHutXyUtZNwLXizGnQv2e88AE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cXJw35IESYQ", "title": "Cracking the Code: Understanding SSL, TLS, HTTPS Encryption" },
     { "id": "IvKf3bgxlo8", "title": "SSL, TLS, and HTTPS Explained: The Secret Message to Friend Analogy" },
     { "id": "p7w31dPpkwY", "title": "Demystifying Internet Security: Phone Analogy for SSL, TLS, HTTPS" },
     { "id": "z3ZuHzF-vKI", "title": "Service Discovery in Microservices Architecture. #shorts" },

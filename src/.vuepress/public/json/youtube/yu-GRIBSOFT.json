@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "GRIBSOFT",
+    "name": "GRIBSOFT",
+    "profile": "https://yt3.googleusercontent.com/lN6jMvZT2UM_O0DLCs-NtPVT_FwmbD4Wqv8d1OMW7E-afg_jaCRDZnNJbkiID_yDunGS_h2O=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IhNcHo1MOar-K3KCZPjkCxf7Gndx3ddfb72_5bDenPBZ8e2a3l6fAlPDsOMfb24DNifPZSdb9g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WnyyDmKe5dI", "title": "2010 Macbook Pro 13\" A1278 WiFi AirPort Card Replacement" },
+    { "id": "sqTgYSPthDM", "title": "How to Fix Can't Transfer Files onto External Drive on a Mac | Make your Mac Drive Universal" },
+    { "id": "unD30X0cQVg", "title": "Mastering ChatGPT: Enhancing Prompts with Special Characters & Techniques!" }
+  ]
+}

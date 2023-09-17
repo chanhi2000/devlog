@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/zxeh6xgShj-D5EhmdS23h4MzK7qCmY9Z_5J25Bg9RFsuI1UENvJqUnP2QKXmDgapUAbaFMnc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vuvCXf9wQYs", "title": "Self Hosted S3 Object Storage On FreeNAS / TrueNAS With Minio" },
+    { "id": "vpVVq7S6lO4", "title": "Bitwarden Open Source Password Manager Review Part 2: Forms, Security & Docker Dependencies" },
+    { "id": "bECUU0S3Vl4", "title": "How To Setup Tailscale With The Mullvad Privacy VPN" },
     { "id": "DwYwrADwCmg", "title": "Graylog: Your Comprehensive Guide to Getting Started Open Source Log Management" }    
   ]
 }

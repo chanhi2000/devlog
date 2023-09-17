@@ -6,10 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/xQk-hUlUYuQrETR6p37dDuPuIydQymTU0lnjKQ3GEFsz6dr0Pwm_T-2Ug0d--Nd8nNVKwl8L=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "OhbgZbORFd4",
-      "title": "`quick.nvim` | A fast, modern and reliable Neovim configuration"
-    }
+    { "id": "OhbgZbORFd4", "title": "`quick.nvim` | A fast, modern and reliable Neovim configuration" }
   ]
 }
 

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "CharfaouiYounes",
+    "name": "Charfaoui Younes",
+    "profile": "https://yt3.googleusercontent.com/HsdNJnZaYVvEZCsPe1OT1-vk1_O8gJ9Gico6GVtChghcqqZJxJNlPwKlVR381c7zhagKW5jF=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xEwWuAkQYnOdcy3AMd6Ohv6rRFUtUPzyVwnke27uHab0c6BqUn24HXAY_XsjdEJ6A774F-BcZu0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FD4Tup-uAfU", "title": "Implementing a Toy Example in Compose Desktop!" },
+    { "id": "y8uhCQjHkWk", "title": "Step-by-Step Guide to Screenshot Testing in Android!" },
+    { "id": "2tHhfmga6ZA", "title": "CameraX in Jetpack Compose!" },
+    { "id": "wWz4NXqwLYw", "title": "Boost your Testing Skills with Test Builder Pattern!" },
+    { "id": "I1SOlHZ9RVg", "title": "The Weirdest Thing I've Ever Seen about Java  😵" }
+  ]
+}

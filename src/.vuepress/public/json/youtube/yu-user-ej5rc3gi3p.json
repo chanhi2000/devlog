@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "UoCKdsS9Nb0", "title": "`DeptJobDAO.selectDeptJobBxOrdr` 부서업무함의 표시순서가 중복되는지를 조회한다." },
+    { "id": "vM2gYfIVowU", "title": "`DeptJobDAO.updateDeptJobBx` 부서업무함 정보를 수정한다." },
+    { "id": "NDVg94sQxnA", "title": "`DeptJobDAO.updateDeptJobBxOrdrDown` 부서업무함 정보의 표시순서를 수정한다. (표시순서 감소)" },
+    { "id": "txqzMMU9ME4", "title": "`DeptJobDAO.updateDeptJobBxOrdr` 부서업무함 정보의 표시순서를 수정한다." },
+    { "id": "9GrQ1Zg0DoM", "title": "`DeptJobDAO.updateDeptJobBxOrdrAll` 주어진 조건에 만족하는 전체 부서업무함 정보의 표시순서를 수정한다." },
+    { "id": "NmOw7g88Fao", "title": "`DeptJobDAO.selectMaxDeptJobBxOrdr` 등록시 부서업무함의 표시순서를 조회한다." },
     { "id": "uOYadCwEHeQ", "title": "`DeptJobDAO.selectDeptJobBxList` 주어진 조건에 따른 부서업무함 목록을 불러온다." },
     { "id": "v1uY4aWUx3o", "title": "제네릭 타입 명시: 최근검색어 결과를 조회한다." },
     { "id": "35uIpTVXF3Y", "title": "`DeptJobDAO.selectDeptJobBxListAll` 주어진 조건에 따른 부서업무함 목록 전체를 불러온다." },

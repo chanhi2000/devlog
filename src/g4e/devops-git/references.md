@@ -55,6 +55,12 @@ description: 🛠️Git > 📚References
 
 ---
 
+## Taro
+
+- [Git Commands Every Software Engineer Should Know](https://www.jointaro.com/blog/git-commands-every-engineer-should-know-stop-using-version-control-incorrectly)
+
+---
+
 ## EARTHLY
 
 - [10 Advanced Git Commands](https://earthly.dev/blog/advanced-git-commands)

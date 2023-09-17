@@ -2648,5 +2648,25 @@
     "desc": "The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI",
     "officialSite": "https://pypi.org/project/puncia",
     "topics": ["exploit", "subdomain", "arpsyndicate"]
+  }, {
+    "repo": "aiwaves-cn/agents",
+    "desc": "An Open-source Framework for Autonomous Language Agents",
+    "officialSite": "http://www.aiwaves-agents.com",
+    "topics": ["language-model", "autonomous-agents", "llm"]
+  }, {
+    "repo": "kholia/OSX-KVM",
+    "desc": "Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+    "officialSite": "os",
+    "topics": ["macos", "osx", "emulation", "virtualization", "kvm", "qemu", "hackintosh", "qemu-kvm", "ventura", "macos-installer", "macos-mojave", "mojave-hackintosh", "catalina", "catalina-hackinotsh", "bigsur", "bigsur-hackintosh", "kernel-debugging", "monterey-hackintosh", "monterey", "ventura-hackintosh"]
+  }, {
+    "repo": "fishaudio/Bert-VITS2",
+    "desc": "vits2 backbone with bert",
+    "officialSite": "",
+    "topics": ["tts", "bert", "vits", "vits2", "bert-vits", "bert-vits2"]
+  }, {
+    "repo": "mwmbl/mwmbl",
+    "desc": "An open source, non-profit search engine implemented in python",
+    "officialSite": "https://mwmbl.org",
+    "topics": ["search-engine", "non-profit"]
   }
 ]

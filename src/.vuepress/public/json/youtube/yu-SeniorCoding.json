@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7HRrj_MXepIwHax8lZiuicJIO4C-mjtFE25YX9kIPJZgHxezebzfFUFelKGyA7wR8LkcWpZd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vlh-PBKWHdk", "title": "{MeetUp}  - Git Day (git 개념 총정리)" },
     { "id": "xTg3XFNVo7o", "title": "{풀스택실무}  - AWS 프리티어 무료서버 및 DB 사용하기 (EC2 & RDS)" }, 
     { "id": "44i8yJHxOnQ", "title": "{주말특강}  Javascript 상속에서의 prototype과 static 완벽 이해" }, 
     { "id": "850rwqd0rmk", "title": "{결석자용:자막}  - 20210814_02 - 실무에서 스터디 요령, 인터넷 원리와 네트웍, 도커와 클라우드 등" }, 
@@ -18,7 +19,7 @@
     { "id": "ovKzvvbDjp4", "title": "[보너스강의] Spring Boot 시작하기" }, 
     { "id": "8oEE0fgXA4M", "title": "{풀스택} MySQL 01강 - SQL 한방에 정리하기 Part 1 - DCL, DDL" }, 
     { "id": "R35etAo0Deo", "title": "{풀스택#12} 리눅스(Linux) - 실무에서 꼭 필요한 기술 (1/2)" }, 
-    { "id": "B0ExqP8dVjk", "title": "{풀스택#1} 리눅스(Linux) 시작 - Linux, Cloud, Serverless 소개" }        
+    { "id": "B0ExqP8dVjk", "title": "{풀스택#1} 리눅스(Linux) 시작 - Linux, Cloud, Serverless 소개" }   
   ]
 }
 

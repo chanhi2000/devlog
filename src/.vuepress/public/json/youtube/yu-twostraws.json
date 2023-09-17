@@ -6,7 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/8DWyCDTkh3XnzeEdKRLZ6-77PGgdODPre3z0vIGHZhufSK21OhSG0RzvAA3nkhKJ0iqLep1d=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "n8-wTpiuZwE", "title": "Vision Pro from a Developer's Perspective" },     
+    { "id": "l7eut-nYIUc", "title": "Level up your SwiftUI – Easy improvements you can apply to any SwiftUI app" },
+    { "id": "EDd6Hr_F99o", "title": "A SwiftUI tip everyone needs to know: Automatic Grammar Agreement" },
+    { "id": "n8-wTpiuZwE", "title": "Vision Pro from a Developer's Perspective" },
     { "id": "TcGnO5VSJlI",  "title": "SwiftUI Live: Building a complete project" }, 
     { "id": "n5X_V81OYnQ",  "title": "Learn the Essentials of Swift in one hour" }, 
     { "id": "uC3X4FoielU",  "title": "5 Steps to Better SwiftUI Views" }, 

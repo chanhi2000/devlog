@@ -404,6 +404,11 @@
     "desc": "A framework for building native applications using React",
     "officialSite": "https://reactnative.dev",
     "topics": ["react", "android", "ios", "mobile", "react-native", "cross-platform", "app-framework", "mobile-development"]
+  }, {
+    "repo": "ebandal/H2Orestart",
+    "desc": "한컴파일을 LibreOffice에서 읽을 수 있도록 하는 extension입니다.",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

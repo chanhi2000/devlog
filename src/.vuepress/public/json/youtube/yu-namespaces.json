@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "namespaces",
+    "name": "일본 프리랜서 개발자",
+    "profile": "https://yt3.googleusercontent.com/Nc9yucHUG-mEJVeJnx-bO3LJ4gFH7Oo-V6RxLWBPb4I21VDGI3AzmFGmlH9yeutl3HSJ7owwmQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pyzOIA2GhtJ4hE-z5K9whw5IKtPCD06quvhlu021c7Iy-WzkvzAp3P4nwMCqWBXnATa1MqQPyQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GLmMKl3OSD8", "title": "gradient(그래디언트)와 Llama 2 모델로 파인튜닝하기: 가격, 장점 및 튜토리얼" }
+  ]
+}

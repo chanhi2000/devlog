@@ -7,6 +7,6 @@
   },
   "videos": [
     { "id": "WDdi9pz6mNs", "title": "Zac Kologlu - Writing a Rust program without single line of code" }, 
-    { "id": "NZ1rpQSLvg8", "title": "Bernard Kolobara - Writing Rust the Erlang way" }       
+    { "id": "NZ1rpQSLvg8", "title": "Bernard Kolobara - Writing Rust the Erlang way" }  
   ]
 }

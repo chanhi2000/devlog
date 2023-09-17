@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/LpxYpLVFuMQSpcovfkIIrBEh59vIUJTyez5FIqtOreKXY7gbnNee5NH2MvQzKGM3t69SaXbQKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "K-AYaAwIctI", "title": "Using `Thread.sleep()` in Java | Selenium 4 Tutorial With Java | LambdaTest" },
+    { "id": "0yt6v05Qwwg", "title": "How to Perform Unit Testing in Selenium Java | Selenium 4 Tutorial With Java | LambdaTest" },
     { "id": "xA5aloqAYvg", "title": "Testing at Scale at Meta | Dmitry Vinnik | Testμ 2023 | LambdaTest" },
     { "id": "C8rbEuvvg0I", "title": "Selenide Appium - Mutated Java Appium Client | Amuthan Sakthivel | Testμ 2023 | LambdaTest" },
     { "id": "W3mnbPeGCsk", "title": "Use Testing to Develop Better Software Faster | Marit van Dijk | Testμ 2023 | LambdaTest" },
@@ -14,7 +16,7 @@
     { "id": "8aV5AxJrHDg", "title": "Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners" }, 
     { "id": "tEoHFZC5oxQ", "title": "Playwright Java Tutorial 🎭 | How To Handle Windows, Tabs, And Popups | Part VIII | LambdaTest" }, 
     { "id": "C1nN0Iz6OVU", "title": "Mobile App Testing Masterclass📱: Harness the Power of LambdaTest for Flawless App Experiences" }, 
-    { "id": "isLvHSxb_wI", "title": "Mastering Cross Browser Testing: Unleash Seamless Web Compatibility 🌐with LambdaTest" },     
+    { "id": "isLvHSxb_wI", "title": "Mastering Cross Browser Testing: Unleash Seamless Web Compatibility 🌐with LambdaTest" },
     { "id": "RS1cITz3W8w", "title": "LambdaTest - Linear App Integration | Enhance Workflows With One Click |  LambdaTest Integrations 🔗" }, 
     { "id": "v2H1O0FJhdw", "title": "Playwright Java Tutorial 🎭 |  Introduction and Installation | Part I | LambdaTest" }, 
     { "id": "ZGO-p-epcaU", "title": "TestNG Tutorial With Selenium | How To Do Parallel Testing In TestNG 📃| Part-IX | LambdaTest" }, 

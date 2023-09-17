@@ -7,7 +7,7 @@
   },
   "videos": [
     { "id": "rF-TtX0jLg8", "title": "SwiftUI 2.0: How to Use UIKit Components in SwiftUI - Learn by building a Photo Picker App" },  
-    { "id": "F5B6fbTAl04", "title": "SwiftUI 2.0: CloudKit &amp; Core Data - Getting Started" },  
+    { "id": "F5B6fbTAl04", "title": "SwiftUI 2.0: CloudKit & Core Data - Getting Started" },  
     { "id": "091Mdv_Rjb4", "title": "SwiftUI 2.0: Core Data - How To Use Core Data From Scratch (2020)" },  
     { "id": "bRpFHqv0tRQ", "title": "SwiftUI 2.0 + Combine - Getting Started (2020)" }
   ]

@@ -9,15 +9,36 @@
     { "id": "iKq15WXdN88", "title": "STOP using VPN, embrace Zero-Trust networking!" },
     { "id": "NyOSoLn5T5U", "title": "This web UI for Ansible is so damn useful!" },
     { "id": "tIazVdhsSqQ",  "title": "The BEST Home Server Uptime Monitoring!" }, 
-    { "id": "tIWDpG7sNTU",  "title": "Let's learn GitHub Actions in a self-hosted Homelab!" }, 
-    { "id": "xWz_-gyv3j4",  "title": "What's the BEST home server operating system?" }, 
     { "id": "syzwLwE3Xq4",  "title": "You want a real DNS Server at home? (bind9 + docker)" }, 
     { "id": "cEDXeYStfP4",  "title": "Self hosted, open source password manager built for teams!" }, 
     { "id": "NfggT5enF4o",  "title": "New *incredible* mac OS terminal! (warp + starship + zsh)" }, 
     { "id": "Yb3_4PZX0B0",  "title": "Let's do GitOps in Kubernetes! ArgoCD Tutorial" }, 
     { "id": "xWz_-gyv3j4",  "title": "What's the BEST home server operating system?" }, 
     { "id": "yMmxw-DZ5Ec",  "title": "How to use Cloudflare Tunnel in your Homelab (even with Traefik)" }, 
-    { "id": "MUDjd44t2GE",  "title": "Installing a Windows Server in my Homelab, am I crazy?" }, 
-    { "id": "n-fAf2mte6M",  "title": "Docker vs Kubernetes, what's better in a Homelab?" }
+    { "id": "MUDjd44t2GE",  "title": "Installing a Windows Server in my Homelab, am I crazy?" }
+  ],
+  "playlists": [
+    {
+      "title": "Kubernetes Tutorials",
+      "videos": [
+        { "id": "glFE28QT1HI", "title": "Kubernetes explained simply, and why you should learn it!" },
+        { "id": "pumX2Ds5L0c", "title": "Persistent Volumes with NFS and Cloud Storage // Kubernetes Tutorial" },
+        { "id": "tWc3wfC8sOc", "title": "Credentials and Configs in Kubernetes Secrets and ConfigMaps" },
+        { "id": "zka4lJbA-y4", "title": "Package Management with Helm // Kubernetes Tutorial" },
+        { "id": "n5dpQLqOfqM", "title": "How to use Traefik as a Reverse Proxy in Kubernetes? // Ingress Controller Tutorial" },
+        { "id": "9__A_nO2pbk", "title": "How I secure my Server Access with Teleport (for SSH, K8S, and Web)" },
+        { "id": "gHHIAprNVmk", "title": "GitOps Kubernetes in a simple Web UI?" },
+        { "id": "DvXkD0f-lhY", "title": "Free SSL Certs in Kubernetes! Cert Manager Tutorial" },
+        { "id": "kFt0OGd_LhI", "title": "Crazy fast Kubernetes Automation with Terraform" },
+        { "id": "UdjhFLV1yt8", "title": "Using *HA* Kubernetes at home, was never so simple!" },
+        { "id": "IQ3G8Z1myMw", "title": "Self signed Kubernetes SSL certificate // easy guide" },
+        { "id": "Yb3_4PZX0B0", "title": "Let's do GitOps in Kubernetes! ArgoCD Tutorial" },
+        { "id": "R0HlJsugOAE", "title": "the ULTIMATE kubernetes management tools comparison!" },
+        { "id": "D8AcBuswguE", "title": "Portainer listens to my feedback! Ingress in Kubernetes" },
+        { "id": "KWKxgv4lT3o", "title": "Learn How to Solve Kubernetes Issues in SECONDS!" },
+        { "id": "n-fAf2mte6M", "title": "Docker vs Kubernetes, what's better in a Homelab?" },
+        { "id": "tIWDpG7sNTU", "title": "Let's learn GitHub Actions in a self-hosted Homelab!" }
+      ]
+    }
   ]
 }

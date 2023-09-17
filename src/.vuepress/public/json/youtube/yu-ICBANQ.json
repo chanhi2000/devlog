@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/WDYAqCMXBMVUuv5AOLvQaMdY_RpARhciiMNV7ZRqY8hJLhEAoFyideyLzwnVBic5nro7jCcGw9Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "O3fjri0yTJM", "title": "[C언어 코딩 기초 강의] 13장 : 문자열과  string.h" },
     { "id": "6yE4eYZ6_50", "title": "[C언어 코딩 기초 강의] 12장 : 포인터" }    
   ]
 }

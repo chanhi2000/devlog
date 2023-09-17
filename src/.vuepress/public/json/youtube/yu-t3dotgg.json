@@ -6,11 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/o69213Wa6chjff2xs9ysFDw0UDXKSd0Q2Si5F6dJSDnP1srSfXOLSSbpIkKD6g-pXXWx5TDJGw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KVQMoEFUee8", "title": "The Horror Of Margins In CSS" },
+    { "id": "xNG4zXpU1QA", "title": "Vercel's New AI Writes Surprisingly Good Code" },
     { "id": "fY8dCx6fw2c", "title": "Current Trends In CSS" },
     { "id": "Ia4e0gqMOYc", "title": "The \"Zero JS\" Lie" },
     { "id": "f2Z1v3cqgDI", "title": "The Dangers Of `Promise.all()`" },
     { "id": "Cd-gBxzcsdA", "title": "You're (Probably) Using Prettier Wrong" }, 
-    { "id": "rtgjFEJaFI8", "title": "Does Lock-In Even Matter Anymore?" },     
+    { "id": "rtgjFEJaFI8", "title": "Does Lock-In Even Matter Anymore?" },
     { "id": "FF50H2RWaEY", "title": "The ONLY REASON To Unit Test" }, 
     { "id": "74OjOhL5gSg", "title": "The Thing We Never Talk About." }, 
     { "id": "YkOSUVzOAA4", "title": "T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma & More)" }, 

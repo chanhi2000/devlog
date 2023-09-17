@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "09ufiNEWynk", "title": "Redis C# 프로그래밍" },
     { "id": "UYTmI6qbAPc", "title": "실전 Modern C++ - module 3" },
     { "id": "yoP3EXEnb0g", "title": "[책 소개] 윈도우즈 API 정복" }, 
     { "id": "9s5dZ6XzXHc", "title": "단계별 실습을 통해 IOCP 배우기 (8)" }, 

@@ -6,31 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/C-3jr3nU2LiG6dSdDXYNrpo2JckIO8zR20cu4ReuZhtRVfkoIUsGXGL4sNaYpt2KbNRMYzDXv8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "EK-A--VaTYo",
-      "title": "Use Grep To Find Simple Patterns In Your Data Quickly And Easily!"
-    }, {
-      "id": "zyonwV5GWek",
-      "title": "Creating Automatic Python Firewall Script in Ubuntu"
-    }, {
-      "id": "EK-A--VaTYo",
-      "title": "Use Grep To Find Simple Patterns In Your Data Quickly And Easily!"
-    }, {
-      "id": "1S0-7m5kGhU", 
-      "title": "Using the Vagrant Ansible Local Provisioner"
-    }, {
-      "id": "1yF9x5BnWv0", 
-      "title": "Running an Ansible task with the condition that a service is running"
-    }, {
-      "id": "7-vKTMAPefI", 
-      "title": "Learning VIM - Day 4 of 7 - Search and replace text in the awesome vim editor"
-    }, {
-      "id": "eJrH59mxLmo", 
-      "title": "Ubuntu 18 04 : Active Directory Doman Controller"
-    }, {
-      "id": "Rzg1wFlJNU8", 
-      "title": "Searching for `rootkits` with rkhunter on CentOS 7"
-    }
+    { "id": "GithEl15Wg4", "title": "How To Use Sed In Linux: A Practical Guide" },
+    { "id": "EK-A--VaTYo", "title": "Use Grep To Find Simple Patterns In Your Data Quickly And Easily!" }, 
+    { "id": "zyonwV5GWek", "title": "Creating Automatic Python Firewall Script in Ubuntu" }, 
+    { "id": "EK-A--VaTYo", "title": "Use Grep To Find Simple Patterns In Your Data Quickly And Easily!" }, 
+    { "id": "1S0-7m5kGhU", "title": "Using the Vagrant Ansible Local Provisioner" }, 
+    { "id": "1yF9x5BnWv0", "title": "Running an Ansible task with the condition that a service is running" }, 
+    { "id": "7-vKTMAPefI", "title": "Learning VIM - Day 4 of 7 - Search and replace text in the awesome vim editor" }, 
+    { "id": "eJrH59mxLmo", "title": "Ubuntu 18 04 : Active Directory Doman Controller" }, 
+    { "id": "Rzg1wFlJNU8", "title": "Searching for `rootkits` with rkhunter on CentOS 7" }
   ]
 }
 

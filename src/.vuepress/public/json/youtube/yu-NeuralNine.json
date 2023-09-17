@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nwZLJiZ7-oQ", "title": "Easily Visualize Database Schemas - SQLite, MySQL, PostgreSQL" },
+    { "id": "Y5CA79rHEYQ", "title": "Integration Testing For Flask Applications - Python API Testing" },
+    { "id": "Qv02PxiK938", "title": "Migrate SQLite Database to MySQL with Python" },
     { "id": "TslulSJClhI", "title": "What Are #! Shebangs For in Scripts?" },
     { "id": "TddYMNVV14g", "title": "Automate Google Search API in Python" },
     { "id": "txMDxxOSMDI", "title": "Let's Code Codewars - Leveling Up To 4 Kyu Challenges" },
@@ -23,7 +26,7 @@
     { "id": "mXBGXU0zJnw", "title": "Pseudo-Random Number Generator From Scratch in Python" }, 
     { "id": "-F6wVOlsEAM", "title": "Professional Python Testing with Mocks" }, 
     { "id": "5SGqciGDSFM", "title": "ChatGPT Plugins Redefine Conversational AI" }, 
-    { "id": "pRhtjx0dw_k", "title": "Data Compression Algorithms in Python" },     
+    { "id": "pRhtjx0dw_k", "title": "Data Compression Algorithms in Python" },
     { "id": "ghWECXWi9kU", "title": "5 Awesome Linux Terminal Tools You Must Know" }, 
     { "id": "B2E82UPUnOY", "title": "Google Calendar Automation in Python" }, 
     { "id": "Sah0p4ILGRE", "title": "Advanced Dictionaries: defaultdict in Python" }, 

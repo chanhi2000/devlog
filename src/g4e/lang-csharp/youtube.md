@@ -245,6 +245,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## DotNetMastery
+
+<MyYouTubeItems jsonName="yu-DotNetMastery" />
+
+<!-- DotNetMastery -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

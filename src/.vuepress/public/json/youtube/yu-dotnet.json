@@ -5,7 +5,11 @@
     "profile": "https://yt3.googleusercontent.com/zNRF9JUkF4F0ajer3fExeqCZfwflre_rtSbxrhXBBQg0q3ll3eUXiLAM3eHfL9k-aJdihLt2iQ=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
-"videos": [
+  "videos": [
+    { "id": "A7KnkHe3AXY", "title": "On .NET Live - Exploring Oqtane for Blazor and .NET MAUI" },
+    { "id": "47CZqb53nCM", "title": "ASP.NET Community Standup - Full Stack Blazor Tips and Updates" },
+    { "id": "_vnynXgBTG4", "title": "[Spanish] Let's Learn .NET - IA Generativa" },
+    { "id": "f_vVcGVNtbA", "title": "🔴 Burke Learns Blazor - Two bald guys build with Blazor" },
     { "id": "OmFBLBMcXRc", "title": "Building Graphic Based Apps for IoT Devices with Meadow.Desktop" },
     { "id": "DzD0ucPldeM", "title": "Beautiful UI Controls for .NET MAUI with Telerik UI" },
     { "id": "70gh038Z9kA", "title": "Burke Learns Blazor - API Updates" },

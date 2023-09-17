@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/StC9GOxgXbmFL9yXgjzYQneqJ3iQRYKWMSp5a_eTvbq--zwpyaOGJMT1HIWTFp7lRpUXWpEo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "T_OlUb5YwaU", "title": "You DON'T NEED Dotenv to Handle Environment Variables in Node.js Anymore!" },
+    { "id": "qBOz6TpYAOg", "title": "Astro 3.0 Crash Course (View Transitions, Image, Content Collections, and More!)" },
     { "id": "n8ApDbOKPVg", "title": "Reimagining the Terminal with Warp" },
     { "id": "Ynp6Gdd3XVE", "title": "JavaScript Pagination in ~10 Minutes (Super EASY!!)" },
     { "id": "LQ47JVGu29g", "title": "Remote work and Building side projects" },

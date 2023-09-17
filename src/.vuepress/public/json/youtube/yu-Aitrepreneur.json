@@ -2,12 +2,10 @@
   "channel": {
     "id": "Aitrepreneur",
     "name": "Aitrepreneur",
-    "profile": "https://yt3.googleusercontent.com/IXLIcENbTr3MSpdd4Fpt29hXACzETAZHVRUkAUN7JwsQbepdJsfZjr9ddbY3Cf1uQEwbii8y5w=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/IXLIcENbTr3MSpdd4Fpt29hXACzETAZHVRUkAUN7JwsQbepdJsfZjr9ddbY3Cf1uQEwbii8y5w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oI4gNEJIf_NfM123vaWYVANwqJEZ203bwrLR6xYxE7B_x56hiuA_OgYg0YgrmkW-XnXkGbEk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "gT8vi3bpjsY",
-      "title": "FREE ChatGPT on Your Computer! GPT4ALL Is HERE!"
-    }
+    { "id": "gT8vi3bpjsY", "title": "FREE ChatGPT on Your Computer! GPT4ALL Is HERE!" }
   ]
 }

@@ -32,4 +32,37 @@ color: rgba(22, 25, 35, 0.2)
 
 ---
 
+When it comes to automation and scripting, you'd often need to construct commands that can accept input from the user, incorporate data from a file or the output of a tool and so on.
+
+In this chapter, you'll see how to pass information saved in shell variables to `awk` commands. As mentioned before, this book assumes `bash` as the shell being used.
+
+::: info 
+
+As an example, see my repo [ch: command help](https://github.com/learnbyexample/command_help/blob/master/ch) for a practical shell script where commands are constructed dynamically.
+
+The [<FontIcon icon="iconfont icon-github"/> example_files](https://github.com/learnbyexample/learn_gnuawk/tree/master/example_files) directory has all the files used in the examples.
+
+:::
+
+---
+## `-v` option
+
+The most common method is to use the `-v` command line option.
+
+::: tabs
+
+@tab:active Case 1
+
+assume that the '`s`' variable is part of some bash script or perhaps a variable that stores the output of a shell command
+
+```sh
+s='cake'
+awk -v word="$s" '$2==word' table.txt
+# blue cake mug shirt -7
+```
+
+:::
+
+---
+
 <TagLinks/>

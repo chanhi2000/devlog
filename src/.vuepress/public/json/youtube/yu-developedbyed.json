@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/71AwzsBmWpjQR8PPhb8e8I0eF0qEgRAZDZuDkxXzUyGA8mQ-ZubpXQ0le1jquOFbuPe9-XgIkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "b-HmvBJvu0U", "title": "Avoid These Typescript Mistakes" },
+    { "id": "rpCQEQAlMIE", "title": "Vanilla CSS Scroll Animations Now Possible!" },
     { "id": "21ES7AnqkrA", "title": "Learn CSS Displays in 12 Minutes | Grid, Flexbox, Inline Block, Block" },
     { "id": "pHXHBHdTzrM", "title": "You Can Create Beautiful Modern Emails With React!" }, 
     { "id": "7MKEOfSP2s4", "title": "This React UI Library is GAME CHANGER!" }, 

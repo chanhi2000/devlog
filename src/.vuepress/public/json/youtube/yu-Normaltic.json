@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/nREIEWq_bsEgUEJaNxgpRT9VIF54i49xq85GK1VQG_H01cXHlPUqSj8uwTjzlYUZtL5BRatO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-Qf-eWpLPi8", "title": "7분으로 SQL인젝션을 이해하자 | DB가 털리는 과정 | 개인 정보는 이렇게 유출된다" },
+    { "id": "xAgiwjIfWwQ", "title": "[노말틱의 해킹 툴] hydra, 너의 계정은 나의 것! | 계정 비밀번호 찾기 툴?!" },
     { "id": "UbXwjd2kUeI", "title": "오케이! 이번 주말은 이거다!!! 게임하면서 해킹 배우기! | 해킹 게임 FTZ 세팅 방법!" },
     { "id": "yi7vMNdSqiM", "title": "웹 해킹 필수템 BurpSuite 가이드 1부 | Burp Suite 개념 및 세팅 방법" },
     { "id": "ssW9yo3F8vQ", "title": "NooNoo 근황 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ" },
@@ -17,6 +19,6 @@
     { "id": "q3zeTVW3PPs", "title": "해킹 입문을 게임으로 시작한다? 이거 진짜 가능???" },
     { "id": "6jLzEsqqzEo", "title": "\"중학생한테 털렸쥬?\" 해킹이 원래 어나니머스가 하던거였어???  | 디페이스 공격 이해해보기" },
     { "id": "Tk-HXNin8f8", "title": "근본 해킹 툴, 누구나 쓸 수 있는 Metasploit 튜토리얼" },
-    { "id": "07MDQQy2vcI", "title": "사진 한장으로 이게 가능하다고?" }       
+    { "id": "07MDQQy2vcI", "title": "사진 한장으로 이게 가능하다고?" }  
   ]
 }

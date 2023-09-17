@@ -629,6 +629,26 @@
     "desc": "LÖVE is an awesome 2D game framework for Lua.",
     "officialSite": "https://love2d.org/",
     "topics": ["gamedev", "lua", "game-development", "luajit", "love2d"]
+  }, {
+    "repo": "FlaxEngine/FlaxEngine",
+    "desc": "Flax Engine – multi-platform 3D game engine",
+    "officialSite": "https://flaxengine.com",
+    "topics": ["c-sharp", "gamedev", "multi-platform", "game-engine", "cpp", "engine", "game-development", "flax", "flax-engine", "flaxengine"]
+  }, {
+    "repo": "godotengine/godot-cpp",
+    "desc": "C++ bindings for the Godot script API",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "officialSite": "https://marlinfw.org",
+    "topics": ["arduino", "avr", "firmware", "esp32", "atmel", "hacktoberfest", "3d-printing", "reprap", "stmicro"]
   }
 ]
 

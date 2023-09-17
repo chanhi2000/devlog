@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "user-jc7ek9jk3l",
+    "name": "차태진",
+    "profile": "https://yt3.googleusercontent.com/kmf0no_4sShajNQqkBmHS14YuPAtYM8Xvo1pXsfMAS3T_F_NeSIbSdtSeW66b8RSArZFKyywFA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "iGfFjLtn9Zc", "title": "핵심 로직 메인에서 분리" },
+    { "id": "1y6wo_SqviQ", "title": "기본적인 sql 연습문제 풀이3" },
+    { "id": "3TrQ4fKAD2M", "title": "텍게 요구사항 14   로그인 기능 구현" },
+    { "id": "VVce4g6VWLU", "title": "텍게 요구사항 13   회원가입" },
+    { "id": "adLSTR6rlFs", "title": "텍게 요구사항 12    댓글 등록" },
+    { "id": "BSMHdppMTJ0", "title": "텍게 요구사항 12   댓글 목록 출력" },
+    { "id": "2kfViiqNWyY", "title": "텍게 요구사항 12   댓글 기능 MVC 패턴 적용" },
+    { "id": "5y6uakgtCqw", "title": "텍게 요구사항 11   상세보기 메뉴 만들기" }
+  ]
+}

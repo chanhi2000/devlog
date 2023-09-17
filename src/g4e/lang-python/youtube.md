@@ -179,4 +179,28 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## Luke Barousse
+
+<MyYouTubeItems jsonName="yu-LukeBarousse" />
+
+<!-- Luke Barousse -->
+
+---
+
+## Get Python Code
+
+<MyYouTubeItems jsonName="yu-GetPythonCode" />
+
+<!-- Get Python Code -->
+
+---
+
+## 일본 프리랜서 개발자
+
+<MyYouTubeItems jsonName="yu-namespaces" />
+
+<!-- 일본 프리랜서 개발자 -->
+
+---
+
 <TagLinks />

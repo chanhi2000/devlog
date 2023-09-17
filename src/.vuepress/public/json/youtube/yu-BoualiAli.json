@@ -6,8 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/eXhc6XaYdmPLtX7A8XV4eQ9wyAvy9x_QkhaaieRxvFplh3_VayzkyDLS2nhMRF67jScpBxMcGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ua0cb2LjCW4", "title": "🚀 Deploy Spring boot application to AWS Cloud 🚀" },
     { "id": "VTEDh2pNSBQ", "title": "Angular Tutorial For Beginners | 3 Hours Course" }, 
-    { "id": "NzuC52eLGKo", "title": "Two Factor Authentication & JWT | Spring boot + Angular | Full application" },     
+    { "id": "NzuC52eLGKo", "title": "Two Factor Authentication & JWT | Spring boot + Angular | Full application" },
     { "id": "TywlS9iAZCM", "title": "Spring boot & WebSockets: Build a Real-Time Chat App From Scratch" },
     { "id": "G7lZRuZKUPI", "title": "How to debug with Intellij IDEA like  PRO 🚀 🐞" },    
     { "id": "vmEWywGzWbA", "title": "Spring boot 3 Keycloak integration for beginners |& The complete Guide" }, 

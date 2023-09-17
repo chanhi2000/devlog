@@ -1355,4 +1355,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## GIS DEVELOPER
+
+<MyYouTubeItems jsonName="yu-gisdeveloper" />
+
+<!-- GIS DEVELOPER -->
+
+---
+
 <TagLinks />

@@ -95,5 +95,15 @@
     "desc": "Official Anytype client for Android",
     "officialSite": "https://anytype.io",
     "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"]    
+  }, {
+    "repo": "DroidKaigi/conference-app-2023",
+    "desc": "The Official Conference App for DroidKaigi 2023",
+    "officialSite": "",
+    "topics": ["android", "kotlin-multiplatform", "swiftui", "jetpack-compose", "compose-multiplatform"]
+  }, {
+    "repo": "JetBrains/compose-multiplatform",
+    "desc": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "officialSite": "https://jetbrains.com/lp/compose-multiplatform",
+    "topics": ["javascript", "android", "kotlin", "gui", "reactive", "ui", "swing", "desktop", "declarative-ui", "multiplatform", "compose", "awt"]
   }
 ]

@@ -274,4 +274,10 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## 오늘도 개발중
+
+<MyYouTubeItems jsonName="yu-dev-ing" />
+
+<!-- 오늘도 개발중 -->
+
 <TagLinks />

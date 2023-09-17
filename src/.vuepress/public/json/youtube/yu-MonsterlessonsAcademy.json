@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Nx7ZPpn-v07AAripnhuVESZiSCJyyN-O2aiLgz-RYvRoMApLh9HW0_Jxp4Ns-5pgnsyyWHcE_W8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yQHr4opz_N0", "title": "React Interview Questions and Answers - Dominate Your Next Interview" },
     { "id": "yAPeRwPIyNQ", "title": "Git Merge vs Git Rebase - What is Better?" },
     { "id": "J6ybBEeExak", "title": "Typescript Function Overloading - Is It Good Enough?" },    
     { "id": "h_0rQ0F8088", "title": "Reusable Component in React - Is It Really Shareable?" },

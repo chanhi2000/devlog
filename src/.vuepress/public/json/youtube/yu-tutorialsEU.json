@@ -6,9 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/0_niFavz4DhmkPH4iAd8zCfCCqoKH4eytZHxE3X020hGECSWYBZM6rPit8ymXqAw0mg91OnDCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6gMDGbf9XZ4", "title": "Make an Excel Editor with C#! - Create, Write, and Read Excel files with C# and .NET" },
     { "id": "1hwHQJJvwWY", "title": "Make your APPS FASTER with Asynchronous programming in C# - TASK PARALLEL LIBRARY" }, 
     { "id": "GHNrje08gQM", "title": "Namespace and Assembly in C# - Where is the difference?" }, 
-    { "id": "j46wiCuornQ", "title": "These .NET TOOLS give you an unfair advantage" },     
+    { "id": "j46wiCuornQ", "title": "These .NET TOOLS give you an unfair advantage" },
     { "id": "h1hwz_Y52po", "title": "Full Stack Developer Course - Using ASP.NET & Azure & C# & Android Jetpack Compose + Treblle" }, 
     { "id": "UsoWVoXDJsE", "title": "Android Jetpack Compose Course - 2h for Free App Developer Course" }, 
     { "id": "-TWz30owX_I", "title": "Free Android Jetpack Course - 7+ hours Tutorial" }, 

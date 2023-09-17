@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "codetowin",
+    "name": "Code To Win",
+    "profile": "https://yt3.googleusercontent.com/xaLDJCsT26JPEonNo8Ef0CIUB_waUyvA6xLjwtZiaBUYRxI4Z0lyFaazqCoNe-_IVSZUGmFMLg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vyWbWikBtVgIyObWdfWzCPVZfxYHEoFeiwRWriqamXXuymoetujzC1hhVCAHjP9BeBcGaGOFlw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YvIn9Fsbhh0", "title": "Install STM32 CUBE IDE | WIndows - MAC - LINUX" }    
+  ]
+}

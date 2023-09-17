@@ -1403,5 +1403,15 @@
     "desc": "Whisper on the web - turbocharged by your GPU 🏎️",
     "officialSite": "https://whisper-turbo.vercel.app",
     "topics": []
+  }, {
+    "repo": "hyperdxio/hyperdx",
+    "desc": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.",
+    "officialSite": "https://hyperdx.io",
+    "topics": ["monitoring", "analytics", "metrics", "logs", "log-management", "observability", "application-monitoring", "traces", "opentelemetry"]
+  }, {
+    "repo": "langchain-ai/langchain-nextjs-template",
+    "desc": "LangChain + Next.js starter template",
+    "officialSite": "https://langchain-nextjs-template.vercel.app",
+    "topics": []
   }
 ]

@@ -1479,5 +1479,20 @@
     "desc": "Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "oblador/hush",
+    "desc": "Noiseless Browsing – Content Blocker for Safari",
+    "officialSite": "http://oblador.github.io/hush",
+    "topics": ["safari-extension", "content-blocker", "safari-content-blocker", "ios-app", "macos-app", "swiftui", "swiftui-example"]
+  }, {
+    "repo": "lodash/lodash",
+    "desc": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+    "officialSite": "https://lodash.com",
+    "topics": ["javascript", "modules", "utilities", "lodash"]
+  }, {
+    "repo": "badlogic/heissepreise",
+    "desc": "Jo eh.",
+    "officialSite": "",
+    "topics": []
   }
 ]

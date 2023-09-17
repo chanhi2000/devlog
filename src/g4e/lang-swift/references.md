@@ -41,11 +41,9 @@ tags: ["references", "swift"]
 - [iOS ) 내 프로젝트에 SwiftLint를 적용해보자](https://zeddios.tistory.com/447)
 - [Minimal macOS menu bar extra's app with SwiftUI](https://khorbushko.github.io/article/2021/04/30/minimal-macOS-menu-bar-extra's-app-with-SwiftUI.html)
 - [Welcome to the MVVM-Router With SwiftUI and Combine](https://betterprogramming.pub/swiftui-combine-welcome-to-the-mvvm-router-f4f497a05e6d)
-- [Create a Swift Package in Xcode](https://stevenpcurtis.medium.com/create-a-swift-package-in-xcode-e7700adf7a7d)
 - [Create a Custom List in SwiftUI](https://betterprogramming.pub/create-a-custom-list-in-swiftui-f7fda59a9e0a)
 - [Concurrency Programming with Operation Queues - Part 2](https://www.swiftpal.io/articles/concurrency-programming-with-operation-queue-part-two)
 - [How To Ignore Tap In SwiftUI](https://smashswift.com/how-to-ignore-tap-in-swiftui)
-- [A simple chat app with SwiftUI and WebSockets — or: Swift in the back, Swift in the front!](https://frzi.medium.com/a-simple-chat-app-with-swiftui-and-websockets-or-swift-in-the-back-swift-in-the-front-78b34c3dc912)
 - [SwiftUI: MVVM 이해하기](https://xho95.github.io/swiftui/architecture/mvvm/logic/2020/08/05/SwiftUI-MVVM.html)
 - [The Swift Programming Language (Swift 5.7)1 책 번역](https://xho95.github.io/swift/programming/language/grammar/2017/02/28/The-Swift-Programming-Language.html)
 - [Understanding Objective-C to Swift Interoperability Using Xcode-Generated Interfaces](https://blog.swiftify.com/understanding-objective-c-swift-interoperability-xcode-generated-interfaces-5e73a5e3a4ec)
@@ -75,6 +73,10 @@ tags: ["references", "swift"]
 
 - [Ask Apple 2022 Q&A Related on Core Data (Part 1)](https://itnext.io/ask-apple-2022-q-a-related-on-core-data-part-1-59b9a9040322)
 - [SwiftDataKit: Unleashing Advanced Core Data Features in SwiftData](https://itnext.io/swiftdatakit-unleashing-advanced-core-data-features-in-swiftdata-3fcd5f443c99)
+- [How to build an iOS Live Activity](https://medium.com/kinandcartacreated/how-to-build-ios-live-activity-d1b2f238819e)
+- [Create a Swift Package in Xcode](https://stevenpcurtis.medium.com/create-a-swift-package-in-xcode-e7700adf7a7d)
+- [A simple chat app with SwiftUI and WebSockets — or: Swift in the back, Swift in the front!](https://frzi.medium.com/a-simple-chat-app-with-swiftui-and-websockets-or-swift-in-the-back-swift-in-the-front-78b34c3dc912)
+
 
 ---
 
@@ -186,7 +188,8 @@ tags: ["references", "swift"]
 
 ## chris eidhof
 
-- [Running Code When Your View Appears](https://chris.eidhof.nl/post/swiftui-on-appear-vs-task/)
+- [Running Code When Your View Appears](https://chris.eidhof.nl/post/swiftui-on-appear-vs-task)
+- [Working With `UIViewRepresentable`](https://chris.eidhof.nl/post/view-representable)
 
 ---
 
@@ -211,6 +214,14 @@ tags: ["references", "swift"]
 ## Dean's blog
 
 - [Shake to undo in a SwiftUI app](https://blog.thomasdurand.fr/story/2023-09-04-shake-to-undo-swiftui)
+
+---
+
+## swiftjectivec
+
+- [Generated Asset Catalog Symbols in Objective-C](https://www.swiftjectivec.com/generated-asset-symbols-objective-c)
+
+---
 
 ## Misc
 

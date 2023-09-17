@@ -8,6 +8,6 @@
   "videos": [
     { "id": "dQzIKaNzW84", "title": "Deploy React App to Firebase Hosting 2022" },
     { "id": "2d1fslyxBjQ", "title": "Fully Functional Messenger Clone built with Flutter & Firebase 2021" },
-    { "id": "FTju8w4zEno", "title": "Build Flutter Chat App with Firebase Auth & Firestore Part 1/4 | Flutter Tutorial For Beginners" }        
+    { "id": "FTju8w4zEno", "title": "Build Flutter Chat App with Firebase Auth & Firestore Part 1/4 | Flutter Tutorial For Beginners" }   
   ]
 }

@@ -59,6 +59,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-pwsh/scripts-manage-computer.md',
         '/g4e/cli-pwsh/scripts-for-desktop.md',
         '/g4e/cli-pwsh/scripts-to-convert-files.md',
+        '/g4e/cli-pwsh/scripts-for-git.md',
         '/g4e/cli-pwsh/tips.md',
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',
@@ -623,6 +624,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-markdown/README.md',
         '/g4e/lang-markdown/mermaid.md',
         '/g4e/lang-markdown/template.md',
+        '/g4e/lang-markdown/references.md',
       ]
     }, 
   ],
@@ -796,7 +798,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/44.md',
         '/crashcourse/paul-hudson-100-days-of-swift/45.md',
         '/crashcourse/paul-hudson-100-days-of-swift/46.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/47.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/47.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/48.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/49.md'
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -838,7 +842,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/33.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/34.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/35.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/36.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/36.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/37.md'
+
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1068,6 +1074,11 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/oracle-sql-db-tuning/01a.md',
         '/crashcourse/oracle-sql-db-tuning/01b.md',
         '/crashcourse/oracle-sql-db-tuning/01c.md',
+        '/crashcourse/oracle-sql-db-tuning/01d.md',
+        '/crashcourse/oracle-sql-db-tuning/02a.md',
+        '/crashcourse/oracle-sql-db-tuning/03a.md',
+        '/crashcourse/oracle-sql-db-tuning/03b.md',
+        '/crashcourse/oracle-sql-db-tuning/03c.md',
       ],
     }
   ]

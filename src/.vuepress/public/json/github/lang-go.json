@@ -754,5 +754,10 @@
     "desc": "Split your file into encrypted fragments so that you don't need to remember a passcode",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "akuity/kargo",
+    "desc": "Application lifecycle orchestration",
+    "officialSite": "",
+    "topics": []
   }
 ]

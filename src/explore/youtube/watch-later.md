@@ -412,7 +412,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-master-liu]: https://www.youtube.com/@masterliu1892
 [yu-eBuzz-central]: https://www.youtube.com/@eBuzzCentral
 [yu-lukemiani]: https://www.youtube.com/@lukemiani
-[yu-datastax-developers]: https://www.youtube.com/@DataStaxDevs
 [yu-gbjxc]: https://www.youtube.com/@gbjxc
 [yu-gwigom]: https://www.youtube.com/@gwigom
 [yu-adamMc331]: https://www.youtube.com/@AdamMc331
@@ -428,7 +427,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-codebubb]: https://www.youtube.com/@codebubb
 [yu-systems-w-jt]: https://www.youtube.com/@SystemsWithJT
 [yu-cornell-appdev]: https://www.youtube.com/@CornellAppDev
-[yu-code-x]: https://www.youtube.com/@CodeXdev
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
 [yu-tech-gumbo]: https://www.youtube.com/@TechGumbo
 [yu-marie-poulin]: https://www.youtube.com/@MariePoulin
@@ -464,7 +462,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-leigh-halliday]: https://www.youtube.com/@leighhalliday
 [yu-soja0524]: https://www.youtube.com/@soja0524
 [yu-codingwithusman7]: https://www.youtube.com/@codingwithusman7
-[yu-gary-explains]: https://www.youtube.com/@GaryExplains
 [yu-android-developers]: https://www.youtube.com/@AndroidDevelopers
 [yu-user-nq5st4fy5n]: https://www.youtube.com/@user-nq5st4fy5n
 [yu-alexandrugutan7587]: https://www.youtube.com/@alexandrugutan7587

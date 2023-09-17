@@ -165,6 +165,22 @@ tags: ["macos", "settings"]
 
 ---
 
+## This Does Not Compute
+
+<MyYouTubeItems jsonName="yu-ThisDoesNotCompute" />
+
+<!-- This Does Not Compute -->
+
+---
+
+## TechNolli
+
+<MyYouTubeItems jsonName="yu-TechNolli" />
+
+<!-- TechNolli -->
+
+---
+
 ## Misc
 
 ---

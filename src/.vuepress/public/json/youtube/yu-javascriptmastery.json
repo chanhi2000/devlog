@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/kvYtOOlIxxS5m5nZ7d3EVznB86-hmUlCq-0s_TJHt1uS8eehxj-wEV1aU6vQcFtiQoPAqdQ-=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "O5cmLDVTgAs", "title": "Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB" },
+    { "id": "3WCIyNOrzwM", "title": "How I Made My Website Load in 0.364 Seconds | Build and Deploy" },
     { "id": "tS7upsfuxmo", "title": "Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website" },
     { "id": "A6g8xc0MoiY", "title": "Build and Deploy 3 Modern API Applications in 7 Hours - Full Course" },
     { "id": "tS7upsfuxmo", "title": "Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website" },

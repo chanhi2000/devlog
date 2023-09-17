@@ -6,12 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/sCOPKk19Jd8ytkomG1MBTulZx7l7o6rTvP6pJhjSOpJ2rv6QqNrJ6_dTw10GEJpUexjThCliKQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QoqMyOoHYQw", "title": "How to Identify and Request for an Increase in Dynamic Limits in OCI" },
+    { "id": "bY2wBGYfDvA", "title": "Full Stack DR Deep Dive: Executing a DR switchover" },
     { "id": "JzNDEtH0wN8", "title": "How to Deploy the VM Series Fortinet Firewall HA by using OCI Marketplace Image" },
     { "id": "_YfQxqa0cbQ", "title": "Getting Started with OS Management for Linux on Oracle Cloud Infrastructure" },
     { "id": "CxNDbBnWWYU", "title": "Oracle Integration Cloud - Feature - Projects" },
     { "id": "xO_eef6DbnA", "title": "Resize Boot Volume in Linux 7 and 8 Instances in OCI" }, 
     { "id": "SHR1333G52s", "title": "Day One and Beyond - Season 4 - OCI Database Quickstart" }, 
-    { "id": "NL30L3Pxjcw", "title": "Prometheus and Grafana for Oracle Autonomous Databases" },     
+    { "id": "NL30L3Pxjcw", "title": "Prometheus and Grafana for Oracle Autonomous Databases" },
     { "id": "zKNCyKFbHhA", "title": "Red Hot Webinars - Oracle Database Service for Azure (ODSA) - Part III" }, 
     { "id": "1jQ9GtAKDF0", "title": "Red Hot Webinars - Zero Downtime Migration (ZDM)" }, 
     { "id": "bUW4Svw150Q", "title": "Allow access to only YUM repositories using OCI Network Firewall" }, 

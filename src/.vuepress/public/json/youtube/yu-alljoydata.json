@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "alljoydata",
+    "name": "Billy Thomas ALLJOY Data",
+    "profile": "https://yt3.googleusercontent.com/3A2RKV7CvrZgauOiMZNoDDJn5PQlK4jdeIYoh6-wB1u-vlRit6bORDEESbHwMo-fJLc-pTCE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/21hG1381WcnhMjQfOnx8EifYsaVIJdTpqvRY_zEXH0zChYKEoYcYlVvkIzsS1ifAj6s1ZqJYyw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dktQBLTtfxs", "title": "SQL Server `ROW_NUMBER()` Tutorial with Examples | Billy Thomas ALLJOY Data" },
+    { "id": "Gk0lPIcuY2Y", "title": "SQL Server Round Function with Billy Thomas | ALLJOY Data | `ROUND()` Function" },
+    { "id": "E_xsCrYEkUQ", "title": "SQL Server Coalesce Function | Billy Thomas  | ALLJOY Data" }
+  ]
+}

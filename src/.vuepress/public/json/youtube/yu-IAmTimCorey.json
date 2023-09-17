@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Kd76EVRGR2c", "title": "Solution: Back-End Development Challenge in C#" },
+    { "id": "hnjly9iBHso", "title": "How To Learn C# in 2023 - Learning Path, Tips & Tricks, and More" },
+    { "id": "Eo18qicy2lA", "title": "How Do I Become a Full Stack Developer in C#" },
+    { "id": "XuugKbEiFDg", "title": "Solution: Full Stack Development Challenge in C#" },
     { "id": "Xlke5PuSCnY", "title": "Solution: Front-End Development Challenge in C#" },
     { "id": "pPNT1tuIUwo", "title": "How Do I Become a Front-End Developer in C#" },
     { "id": "CI34yj-I8ss", "title": "Learn to Build Games with Unity and C# - Major Course Announcement" },

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "laaS8-K3FZk", "title": "웹디자인 기능사 실기 - 14 CSS 핵심 - flex속성 모두 살펴보기" },
+    { "id": "qjBpOlp1als", "title": "웹디자인 기능사 실기 - 13 CSS 핵심 - 포지션 5가지 한번에 정리!" },
+    { "id": "n3Wo2IIzHV8", "title": "PHP 022 [라라벨 02 ]  -  라라벨 페이지 주소 축약하기" },
+    { "id": "5QlphtS9VnE", "title": "PHP 021 [라라벨 01 ]  -  laravel 설치 및 설정, 라우트 설정, 태그 입력 방지" },
     { "id": "EqakYdTWxUI", "title": "PSD to HTML 211 [ BINO #37] intergation  CSS - IR 기법(텍스트를 이미지료 교체하기)" },
     { "id": "lEkohDpzYuU", "title": "PSD to HTML 198 [ BINO #24 ] filter 애니메이션 구현하기, flex, animation, transition" },
     { "id": "29UZkxe3nZU", "title": "HTML5 - inert 속성 활용하기, 요소의 기본 기능을 비활성화, 서랍메뉴 활용" }, 

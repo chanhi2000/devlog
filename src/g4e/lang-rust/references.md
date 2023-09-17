@@ -14,6 +14,12 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Medium
+
+- [Go Fiber vs Rust: Performance comparison for JWT verify and MySQL query](https://medium.com/deno-the-complete-reference/go-fiber-vs-rust-performance-comparison-for-jwt-verify-and-mysql-query-9f5b7129a20)
+
+---
+
 ## Dev.to
 
 - [Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)

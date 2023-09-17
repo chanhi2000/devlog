@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/R_4R-mQTEnzxwGyldEG4dU33r9IaqYkV0B6rYDy_3xfqqTbOVAFsn19bUiGPddUUhtrGtd780g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A4g4pGJy5eY", "title": "Motion One - A Lightweight JavaScript Animation Library" },
+    { "id": "FshBqLutXqw", "title": "Mastering Scrub Animations with GreenSock" },
     { "id": "FVd5arHq0Zk", "title": "Complex SVG Animations Made Simple with JavaScript" },
     { "id": "rCM5-TrbG_o", "title": "Refactoring your UI/UX Design -- LIVE" }, 
     { "id": "uYEyBGyJqPM", "title": "I Fixed 3 Broken Portfolios in Record Time" }, 

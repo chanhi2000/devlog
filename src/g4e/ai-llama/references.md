@@ -24,6 +24,7 @@ tags: ["llama" , "llm"]
 
 - [Open sourcing AudioCraft: Generative AI for audio made simple and available to all](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio)
 - [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
+- [Self-supervised learning: The dark matter of intelligence](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence)
 
 ---
 

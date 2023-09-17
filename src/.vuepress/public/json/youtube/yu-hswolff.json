@@ -7,6 +7,6 @@
   },
   "videos": [
     { "id": "UbkaFpVmNX4", "title": "Introducing Votey-uppy, full stack web app built with Next.js, Tailwind, and MongoDB" },
-    { "id": "YKmiLcXiMMo", "title": "React Hooks: Advanced Hooks" }        
+    { "id": "YKmiLcXiMMo", "title": "React Hooks: Advanced Hooks" }   
   ]
 }

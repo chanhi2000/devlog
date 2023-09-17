@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "danteDeveloper",
+    "name": "단테",
+    "profile": "https://yt3.googleusercontent.com/wQqEXS310Tewmc6OeD7A7ELRIMpr40iKqUHNSrqweY3X8U9BXgasCIuY07iSnF8av5SMWQqL7OI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/niWp9bo485G9J1j5R7UPGkdYoaCqRomRdj-Q4oIzvbBjVxZZXCAky8bAMTQXakFksfnqkMtTMeI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qmFl24wrfnc", "title": "exactOptionalPropertyTypes 이거 한번 써보세요" },
+    { "id": "adeWgSd6xrY", "title": "HTML말고 HTMX" },
+    { "id": "4ey1bjAiQ1U", "title": "타입스크립트 5.2 RC" },
+    { "id": "wy09j5g1LbM", "title": "정적 파일 서빙 서버 만들기" },
+    { "id": "iXw0cvtfupA", "title": "progressive enhancement" }
+  ]
+}

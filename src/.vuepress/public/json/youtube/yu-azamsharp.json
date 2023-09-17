@@ -6,9 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Q18Zm-VopeLTtRezGw9o2oLPwz4Ig_S-FQReSIYTIgDbzTfX1XSDxxzyoiRu9tHtA9kJ57hylIE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "O5Lia6zGuY0", "title": "Getting Started with SwiftUI Maps for iOS 17" },
     { "id": "LJFK-ej9-Go", "title": "Displaying Errors Globally in SwiftUI Using Environment Values" },
     { "id": "c_9X1D8-cNM", "title": "Live Stream - Introduction to SwiftData" }, 
-    { "id": "sNKBdil3_E4", "title": "Passing Values from SwiftUI to UIKit View" },     
+    { "id": "sNKBdil3_E4", "title": "Passing Values from SwiftUI to UIKit View" },
     { "id": "ajZ-k9Lwg5M", "title": "Server Side Swift Using Vapor Part 2 - Understanding Routing" }, 
     { "id": "wrJTcL8kEAY", "title": "Server Side Swift Using Vapor Part 6 - Middlewares" }, 
     { "id": "YxpMbjB9gKQ", "title": "Hello SwiftData!" },

@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/nYBM4tFv0FucvhrpQPedLqqK-VabAD9T3p0aLzwZchtwSVMKwyXP77Un7hQs1AbiEVEVHARWVss=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gwf7ajh7Uf8", "title": "23년 고급알고리즘 2장-4" },
+    { "id": "PCtWPGc_r20", "title": "23년 고급알고리즘 2장-3" },
+    { "id": "zzrmfk-whlU", "title": "23년 고급알고리즘 2장-2" },
+    { "id": "dmNskcJDiyA", "title": "23년 고급알고리즘 2장-1" },
+    { "id": "rxRWXgSFxxk", "title": "23년 테스팅응용(9) V-모델이란?" },
+    { "id": "5N2tSLVSXAI", "title": "23년 테스팅응용(8) 테스팅의 심리학" },
+    { "id": "V6FT3_NK8K4", "title": "23년 테스팅응용(7) 테스트 완료 조건" },
+    { "id": "gRiScyrMIJ8", "title": "23년 테스팅응용(6) 테스트 프로세스 기초" },
     { "id": "XZkgSR9Z1s8", "title": "23년 2학기 스프링부트3 : DI- IoC(xml 사용)" },
     { "id": "a6hV1MinsaA", "title": "23년 2학기 스프링부트2 : DI- IoC(인터페이스 사용)" },
     { "id": "ZtiY6MmXlmw", "title": "23년 2학기 스프링부트1 : DI- IoC(기본 사용)" },

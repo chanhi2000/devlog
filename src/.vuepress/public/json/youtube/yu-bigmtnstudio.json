@@ -2,19 +2,13 @@
   "channel": {
     "id": "bigmtnstudio",
     "name": "Mark Moeykens",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPulJA2TZXTjaBAfy77U7a9N1p-tX9MrgZbhsbKQg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPulJA2TZXTjaBAfy77U7a9N1p-tX9MrgZbhsbKQg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xBKdMsFF2jNXA9M1T4EVCoijAY1MGq4_bpJINPHi-wA-lboG0ox30tueM021jU-xnWGKbRwwcnQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "etiEVMSJLjw",
-      "title": "SwiftUI Views Live: 1 - Mastering Layout with Blueprints"
-    }, {
-      "id": "oAGoFd_GrxE",
-      "title": "Table Row Swipe Hint Animation (iOS, Xcode 10, Swift 4)"
-    }, {
-      "id": "jxeuC9AVQpk",
-      "title": "App Themes - Part 11 - Itinerary App (iOS, Xcode 9, Swift 4)"
-    }    
+    { "id": "etiEVMSJLjw", "title": "SwiftUI Views Live: 1 - Mastering Layout with Blueprints" }, 
+    { "id": "oAGoFd_GrxE", "title": "Table Row Swipe Hint Animation (iOS, Xcode 10, Swift 4)" }, 
+    { "id": "jxeuC9AVQpk", "title": "App Themes - Part 11 - Itinerary App (iOS, Xcode 9, Swift 4)" }  
   ]
 }
 

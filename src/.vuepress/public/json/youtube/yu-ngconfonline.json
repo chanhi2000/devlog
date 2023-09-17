@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ngconfonline",
+    "name": "ng-conf",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSSRDT0sWjqJ0ZeX4gbF8bc0us_YAbNx21Net31ug=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Oc4PMpaPSVaZO4TQb2Wzdf3cV5VOxaWTJpbFrQ9yeUdgp6PQDzr78bVKvR0B8c69ZvSy_IS1xj0=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Mu8n3CPdjG4", "title": "Build a Culture of Site Reliability | Brian Love and Mike Ryan from Polaris" }    
+  ]
+}

@@ -2,12 +2,10 @@
   "channel": {
     "id": "teej_dv",
     "name": "TJ DeVries",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM0T_l_8gzQ5xl07G67NoPA-H1jDO5xTENA0DVJxr0=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM0T_l_8gzQ5xl07G67NoPA-H1jDO5xTENA0DVJxr0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XK5Ah-M_WTVhgHjdeq8XA9Qs20NsIkuEOvMCk2ZCl7jys1RxdjUo4TSOnEvE4rNpBI0P0vCa=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "stqUbv-5u2s",
-      "title": "Effective Neovim: Instant IDE"
-    }
+    { "id": "stqUbv-5u2s", "title": "Effective Neovim: Instant IDE" }
   ]
 }

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/FUkRXrDaQmKgjE09IpW8jnH-8uLGFUv7Yw9TAvBcequYTY-BaDFhF-_l7CvwcsPjOB7m3j6_jw8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YdC6nKIWjFA", "title": "How to inventory all the PCs on your network" },
     { "id": "Bw5tsmGhgkI", "title": "Excel: Create a Search Box in 3 Simple Steps!" },
     { "id": "n2Hi57msZO8", "title": "How to use a Windows PC as a NAS" }, 
     { "id": "Xnywyy_Tb9M", "title": "How to easily create Leave tracking in Excel" }, 
@@ -18,7 +19,7 @@
     { "id": "shrN3u1Uw2M", "title": "CloneZilla : Full Backup Windows 11 to USB" }, 
     { "id": "lM0fG2Fyjlw", "title": "how to control Android phone from internet" }, 
     { "id": "SU9gr-QBiwY", "title": "how to monitor your PC with a phone" }, 
-    { "id": "Ybr4tT9rVkg", "title": "how to install macOS 13.4 on PC" },     
+    { "id": "Ybr4tT9rVkg", "title": "how to install macOS 13.4 on PC" },
     { "id": "SH00ySqLaqg", "title": "Install Nextcloud and Remote Access" }, 
     { "id": "WKDR1r7KbVg", "title": "Install Xpenology and Remote Access with DSM 7" }, 
     { "id": "ObqUQzroSo8", "title": "Install TrueNAS Core and Remote Access" }, 

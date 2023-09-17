@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/gEUlICP3CaaLmPvgyx3rPY7X7_ForGRKbiM3IL8o707DRmBoI6ILk5jrnC3x2wHNLKefEEU0Dg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AP526DaMpkU", "title": "Java Project Tutorial - How To Design Analog Clock Form In Java Netbeans" },
     { "id": "hWkqRH2eiS0", "title": "Java Project Tutorial - Make JTable Search and Highlight Cell Step by Step Using NetBeans" },
     { "id": "INtpnoNNsKs", "title": "C# - How To Create Images SlideShow From MySQL Database In C# [with source code]" },
     { "id": "zRECf4uz-DE", "title": "PHP Tutorial - How To Draw Chess Board In PHP [ With Source Code ]" },

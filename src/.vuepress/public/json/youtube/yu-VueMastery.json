@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/N9rXZqrdzVF9FU8-FCMfHpLeY4NhLtaz8SV8kyRjYgurURjkKngnAKk2t2mDHUq7EUAA9uboRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vamAefgWCJc", "title": "Speed up your development flow with Vite - VueConf US 2023" },
     { "id": "k2wi03hw2ek", "title": "Quickly Test your Apps with Vitest" },
     { "id": "Jkb4wmGrPiw",  "title": "SharePoint as a BackEnd framework for Vue" }, 
     { "id": "xyrWIRdGLmw",  "title": "How to build a chrome extension with Vue" }, 

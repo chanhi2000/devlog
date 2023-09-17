@@ -204,5 +204,20 @@
     "desc": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
     "officialSite": "",
     "topics": ["wpf", "desktop-pet"]    
+  }, {
+    "repo": "stride3d/stride",
+    "desc": "Stride Game Engine (formerly Xenko)",
+    "officialSite": "https://stride3d.net",
+    "topics": ["gamedev", "multi-platform", "csharp", "game-engine", "vulkan", "game-development", "direct3d", "xenko", "stride"]
+  }, {
+    "repo": "MonoGame/MonoGame",
+    "desc": "One framework for creating powerful cross-platform games.",
+    "officialSite": "http://www.monogame.net",
+    "topics": ["c-sharp", "open-source", "gamedev", "xna", "csharp", "cross-platform", "game-engine", "dotnet", "graphics", "game-development", "game-framework", "monogame", "hacktoberfest"]
+  }, {
+    "repo": "OpenRA/OpenRA",
+    "desc": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "officialSite": "https://www.openra.net",
+    "topics": ["game", "csharp", "cross-platform", "game-engine", "dotnet", "engine", "strategy-game-engine", "openra", "red-alert", "command-and-conquer", "rts", "hacktoberfest", "real-time-strategy", "tiberian-dawn", "dune-2000"]
   }
 ]

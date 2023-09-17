@@ -6,10 +6,7 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "ckSw8x66FQg",
-      "title": "Spring MVC Sinhalen: 02 - Basic Configurations"
-    }
+    { "id": "ckSw8x66FQg", "title": "Spring MVC Sinhalen: 02 - Basic Configurations" }
   ]
 }
 

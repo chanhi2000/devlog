@@ -2,21 +2,14 @@
   "channel": {
     "id": "seoulian",
     "name": "서울리안 SEOULiAN",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN0n2dYpmVfNd-2Z91L6Ufmjau0KWhg46zGOt1dDA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN0n2dYpmVfNd-2Z91L6Ufmjau0KWhg46zGOt1dDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1a8ld6mTG3oCCNdAOhbk8OgxuV-0JCW9l9DsqMcsg8hUmWmFbC1r_qwG8eupcmBpDqi-ZZ5u3rM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "FxGQ1le-Si8",
-      "title": "누구나 3만원으로 홈 네트워크 만들기, 인터넷 기사님이 안해주는 이유"
-    }, {
-      "id": "BFPcN8Rqqrk",
-      "title": "M1 맥북에어에 써멀패드만 붙였을뿐인데 맥북프로가 되었습니다"
-    }, {
-      "id": "oREnOruNQGQ",
-      "title": "ITX PC조립 | 지금껏 본적없는 가장 특별한 미니 PC 조립 (AMD 라이젠7 3700X)"
-    }, {
-      "id": "e-wSmTAncpw",
-      "title": "맥 구입하면 무조건 설치하는 무료앱 유료앱 싹 다 소개"
-    }
+    { "id": "z3_BPHw26V8", "title": "[SUB] Most beautiful ITX case (Fractal Design Terra)" },
+    { "id": "FxGQ1le-Si8", "title": "누구나 3만원으로 홈 네트워크 만들기, 인터넷 기사님이 안해주는 이유" }, 
+    { "id": "BFPcN8Rqqrk", "title": "M1 맥북에어에 써멀패드만 붙였을뿐인데 맥북프로가 되었습니다" }, 
+    { "id": "oREnOruNQGQ", "title": "ITX PC조립 | 지금껏 본적없는 가장 특별한 미니 PC 조립 (AMD 라이젠7 3700X)" }, 
+    { "id": "e-wSmTAncpw", "title": "맥 구입하면 무조건 설치하는 무료앱 유료앱 싹 다 소개" }
   ]
 }

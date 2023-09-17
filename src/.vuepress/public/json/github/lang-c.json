@@ -444,5 +444,10 @@
     "desc": "A modern, portable, easy to use crypto library.",
     "officialSite": "https://libsodium.org",
     "topics": ["c", "cryptography", "crypto"]
+  }, {
+    "repo": "lambertjamesd/n64brew2023",
+    "desc": "Ultrarare's entry for 2023 n64 game jam",
+    "officialSite": "",
+    "topics": []
   }
 ]

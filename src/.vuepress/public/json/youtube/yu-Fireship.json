@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mVKAyw0xqxw", "title": "Tails OS in 100 Seconds" },
     { "id": "HzBA6FIn_Bo", "title": "The ruthless forking of Terraform" },
     { "id": "cXlxMP9PU8I", "title": "The shocking decline of Stack Overflow" },
     { "id": "SlBOpNLFUC0", "title": "It works on localhost" }, 

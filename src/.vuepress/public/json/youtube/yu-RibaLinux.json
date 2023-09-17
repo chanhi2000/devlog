@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "RibaLinux",
+    "name": "Riba Linux",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRcKbzSzlvqL8Tj3-zjkQ2B8qvEDGC5dkViRPmamA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1zj4MV0wwz1P2fpEJevYfinGE_aiGn_a-MzzoKf-2kE-WtC0s7pel2qGAxNw8DiQ6svy-BC9jw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UWw0apBmDEE", "title": "How to install Oracle Linux 9.2." }
+  ]
+}

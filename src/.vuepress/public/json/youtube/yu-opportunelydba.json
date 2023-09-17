@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "opportunelydba",
+    "name": "어쩌다DBA",
+    "profile": "https://yt3.googleusercontent.com/Sd3uWhSYlnny3v9I7nDTOddnfgIIDHR73B6g6ybmpoA0qo3rrcDSVQe5hjfPjYML8Z1EHoZS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4ollhak9fEFeHBm4a-8z3PusRbIBMhNTg_zXo-q_g_q5WUDPM0n1yKWKP6xUdm3x3W8Tuo5oPg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    
+  ],
+  "playlists": [
+    {
+      "title": "SQL_문제풀이강의",
+      "videos": [
+        { "id": "3xjikMSPtbU", "title": "SQLD 문제풀이 1~10 |  SQLD 자격증 | 노랭이" },
+        { "id": "ICXeBx7ewLk", "title": "SQLD 문제풀이 11~20 |  SQLD 자격증 | 노랭이" },
+        { "id": "7T5qTZ5m0-8", "title": "SQLD 문제풀이 21~30 |  SQLD 자격증 | 노랭이" },
+        { "id": "WKvPS0CIrJ0", "title": "SQLD 문제풀이 31~40 |  SQLD 자격증 | 노랭이" },
+        { "id": "fomyRmbgxqQ", "title": "SQLD 문제풀이 41~50 |  SQLD 자격증 | 노랭이" },
+        { "id": "yukWpeG7SWw", "title": "SQLD 문제풀이 51~60 |  SQLD 자격증 | 노랭이" },
+        { "id": "amfZVmqUs2M", "title": "SQLD 문제풀이 61~63 |  SQLD 자격증 | 노랭이" },
+        { "id": "5CyrVul9vQw", "title": "SQLD 실전문제 풀이 65~70 |  SQLD 자격증 | 노랭이" },
+        { "id": "pxwRjOcOHcE", "title": "SQLD 자격증 문제 풀이 92~100 |  SQLD 자격증 | 노랭이" },
+        { "id": "YEE3OBIPk-g", "title": "SQLD 실전문제 풀이 71~80 |  SQLD 자격증 | 노랭이" },
+        { "id": "m4uzvNFbj64", "title": "SQLD 자격증 문제 풀이 계층형쿼리 개념 |  SQLD 자격증 | 노랭이" },
+        { "id": "Kpcrkm7I73c", "title": "SQLD 자격증 문제 풀이 82~83, 86~91 |  SQLD 자격증 | 노랭이" },
+        { "id": "Yr1ikwp64X4", "title": "SQLD 자격증 문제 풀이 101~104 |  SQLD 자격증 | 노랭이" },
+        { "id": "bOKLYBZNn_Y", "title": "SQLD 자격증 문제 풀이 105~111 |  SQLD 자격증 | 노랭이" },
+        { "id": "nRST3yWDiQw", "title": "SQLD 자격증 문제 풀이 | 윈도우함수 | 112~127 |  SQLD 자격증 | 노랭이" },
+        { "id": "o8ArmTaIp9w", "title": "SQLD 자격증 문제 풀이 | 128~146 |  SQLD 자격증 | 노랭이" }
+      ]
+    }
+  ]
+}

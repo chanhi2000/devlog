@@ -285,4 +285,20 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Mohammad Arif
+
+<MyYouTubeItems jsonName="yu-kotlang" />
+
+<!-- Mohammad Arif -->
+
+---
+
+## Charfaoui Younes
+
+<MyYouTubeItems jsonName="yu-CharfaouiYounes" />
+
+<!-- Charfaoui Younes -->
+
+---
+
 <TagLinks />

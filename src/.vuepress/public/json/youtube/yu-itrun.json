@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "itrun",
+    "name": "형님IT",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRqgEqEI15dMU3Y_6b8AHEhSIGYSXpquvFEbCCL=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "qaNivhHe9LU", "title": "15_Docker Compose (2)" },
+    { "id": "xLeo48VlngQ", "title": "01_Kubernetes 실습 환경 구성" },
+    { "id": "p4mcDBuBWis", "title": "02_Minikube 설치" },
+    { "id": "ynDloNUjJnU", "title": "03_Kubernetes 설치" },
+    { "id": "wOgeDuh_Xxs", "title": "04_Kubernetes 컨테이너 실행하기" }
+  ]
+}

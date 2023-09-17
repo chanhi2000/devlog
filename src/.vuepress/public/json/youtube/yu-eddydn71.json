@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/nf8LF5WytA1-bgqBmqXgvc4a-L4XdbSdDWcmv3H78c8MC5ExXwSmsKyKsn_3U030OC0lzxNIlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UKU9WizT7Bw", "title": "Kotlin with Jetpack Compose: Day 2 -  QR Scanner App" },
+    { "id": "f7YLwr4oUFE", "title": "Kotlin with Jetpack Compose: Day 3 - Implementing Location Services" },
+    { "id": "p3HKX3Mv5D8", "title": "Kotlin with Jetpack Compose: Day 4 - How to Implement a Carousel Slider in Kotlin Jetpack Compose" },
+    { "id": "rMntUcrP3Cs", "title": "Kotlin with Jetpack Compose: Day 5 - How to Implement a Infinite Scroll" },
+    { "id": "tNYJvXoDLpc", "title": "Flutter for Fashion: Building a Clothes Sale Landing Page from Scratch" },
     { "id": "XiLy3Ci4uuM", "title": "Building a Cryptocurrency News App using RSS Feeds" },
     { "id": "rqumqtr-Y1M", "title": "Hero Animation in Android like Flutter  #code #edmtdev #flutter #flutteredmtdev #android #shorts" },
     { "id": "7nMVuMnWHJg", "title": "Developing a Coin News Reader using RSS Feeds in Android #android  #edmtdev #rss  #code" },
