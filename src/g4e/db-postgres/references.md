@@ -35,5 +35,12 @@ tags: ["sql", "db", "postgres"]
 
 - [PGVECTOR 0.5.0 FEATURE HIGHLIGHTS AND HOWTOS](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0)
 
+---
+
+## Peter Eisentraut
+
+- [Grouping digits in SQL](https://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
+
+---
 
 <TagLinks />

@@ -2,30 +2,16 @@
   "channel": {
     "id": "CodeRadiance",
     "name": "Code Radiance",
-    "profile": "https://yt3.googleusercontent.com/2v3rH25v-3fbqNvoZ-Svpvor81RXYkBVht9xyR3yA3nOS-8y617yPiDugNwq-EbCWpnl7Q_tjQ=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/2v3rH25v-3fbqNvoZ-Svpvor81RXYkBVht9xyR3yA3nOS-8y617yPiDugNwq-EbCWpnl7Q_tjQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sWLgKXt3fuJugock3aFoySC-qKhGHtBpz0Zooh5lnpS6wLaIm_OWefZK3jyZwjNz57TxNsO1=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "4fGbudVOEsw", 
-      "title": "JavaScript Web Workers: A Beginner's Guide"
-    }, {
-      "id": "71_43BGprXw", 
-      "title": "Show Progress in Web Page Favicon using Piecon"
-    }, {
-      "id": "CmGXOeVYRwo", 
-      "title": "Quickly Setup Panels in JavaScript using Tweakpane | Interesting JS Library Series | Episode 12"
-    }, {
-      "id": "shkm-j5dbpg", 
-      "title": "Create Dynamic Webpage Headers Using Headroom.js | Interesting JS Library Series | Episode 9"
-    }, {
-      "id": "l9DnBi-USDU", 
-      "title": "Show Web Page Progress Using TopBar | Interesting JS Library Series | Episode 4"
-    }, {
-      "id": "fJO7SnM74dM", 
-      "title": "Adapter Design Pattern in C# with Code Example"
-    }, {
-      "id": "jBAUjgNWpd8", 
-      "title": "Adanced RxJS Concepts and Usage | BindCallback and Generate Functions"
-    }
-  ]
+    { "id": "4fGbudVOEsw",  "title": "JavaScript Web Workers: A Beginner's Guide" },
+    { "id": "71_43BGprXw",  "title": "Show Progress in Web Page Favicon using Piecon" },
+    { "id": "CmGXOeVYRwo",  "title": "Quickly Setup Panels in JavaScript using Tweakpane | Interesting JS Library Series | Episode 12" },
+    { "id": "shkm-j5dbpg",  "title": "Create Dynamic Webpage Headers Using Headroom.js | Interesting JS Library Series | Episode 9" },
+    { "id": "l9DnBi-USDU",  "title": "Show Web Page Progress Using TopBar | Interesting JS Library Series | Episode 4" },
+    { "id": "fJO7SnM74dM",  "title": "Adapter Design Pattern in C# with Code Example" },
+    { "id": "jBAUjgNWpd8",  "title": "Adanced RxJS Concepts and Usage | BindCallback and Generate Functions" }
+ ]
 }

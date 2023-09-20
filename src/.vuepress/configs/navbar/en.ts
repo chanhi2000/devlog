@@ -6,38 +6,20 @@ export const navbarEn: NavbarConfig = [
     link: '/tags/README.md'
   },*/
   {
-    text: '🗂️', // Catalog
+    text: '🪠', // Projects
     children: [
       {
+        text: 'Intro',
+        link: '/projects/README.md'
+      }, {
         text: '🏁My Roadmap',
-        link: '/catalogs/README.md'
+        link: '/projects/roadmap/README.md'
       }, {
         text: '🏰Portfolio',
-        children: [
-          {
-            text: 'Intro',
-            link: '/catalogs/portfolio/README.md',
-          },
-        ],
+        link: '/projects/portfolio/README.md',
       }, {
         text: '🧭Lifeguide',
-        children: [
-          {
-            text: 'Intro',
-            link: '/catalogs/lifeguide/README.md'
-          }, {
-            text: 'NHIS', 
-            link: '/catalogs/lifeguide/nhis/README.md',
-          }
-        ],
-      }, {
-        text: '🎈TIL',
-        children: [
-          {
-            text: 'Intro',
-            link: '/catalogs/til/README.md',
-          }
-        ],
+        link: '/projects/lifeguide/README.md'
       }
     ],
   }, {
@@ -46,8 +28,7 @@ export const navbarEn: NavbarConfig = [
       {
         text: 'Intro',
         link: '/academics/README.md'
-      },
-      {
+      }, {
         text: 'MATH011',
         children: [
           {
@@ -80,7 +61,7 @@ export const navbarEn: NavbarConfig = [
   }, {
     text: '🥁', // crashcourses
     children: [
-    {
+      {
         text: 'Intro',
         link: '/crashcourse/README.md'
       }, {

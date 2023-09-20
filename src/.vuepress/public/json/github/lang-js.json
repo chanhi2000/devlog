@@ -1494,5 +1494,20 @@
     "desc": "Jo eh.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "mig4ng/ublock-origin-filters",
+    "desc": "My personal and very opinionated uBlock Origin filters",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hotwired/strada-web",
+    "desc": "Create fully native controls, driven by your web app.",
+    "officialSite": "https://strada.hotwired.dev",
+    "topics": ["hotwire", "strada"]
+  }, {
+    "repo": "duckduckgo/tracker-radar",
+    "desc": "Data set of top third party web domains with rich metadata about them",
+    "officialSite": "",
+    "topics": []
   }
 ]

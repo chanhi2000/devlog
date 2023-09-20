@@ -6,37 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/RmUvteNOFhP2b3cdc4KC-UuERHnFYHW41InxA8Wq7HPaRn7tG8DPlQwfLNtox37q0fS8bW1d=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "4lm7nngiXHE",
-      "title": "Get ChatGPT Paid for Free #shorts"
-    }, {
-      "id": "BfrJxGQEPSc",
-      "title": "Complete MERN App (OTP Verification, JWT Token, Authentication, Reset Password)"
-    }, {
-      "id": "p_046Qe19p0",
-      "title": "How to Make Leaderboard in React App - For Beginners"
-    }, {
-      "id": "UEJHSPM-Qiw",
-      "title": "PayPal Checkout Integration Tutorial For Beginners - [2020]"
-    }, {
-      "id": "XBTA-ofG8gc",
-      "title": "PHP Complete Registration & Login System Using MySQLi - Complete Guide"
-    }, {
-      "id": "dgKSqz3it50",
-      "title": "Complete Portfolio Website with Bootstrap - HTML/CSS"
-    }, {
-      "id": "t-I0y6cWKJQ",
-      "title": "JavaScript this Keyword - Why Should We Use it?"
-    }, {
-      "id": "Dl2gLiMQJkw",
-      "title": "Image Thumbnail Previewer Using HTML/CSS"
-    }, {
-      "id": "CrSC1ZA9j0M",
-      "title": "Complete Responsive Blooger Website Using HTML/CSS"
-    }, {
-      "id": "cHAcSQyvBqQ",
-      "title": "Bootstrap Grid System The Complete Guide - In Action"
-    }
+    { "id": "4lm7nngiXHE", "title": "Get ChatGPT Paid for Free #shorts" }, 
+    { "id": "BfrJxGQEPSc", "title": "Complete MERN App (OTP Verification, JWT Token, Authentication, Reset Password)" }, 
+    { "id": "p_046Qe19p0", "title": "How to Make Leaderboard in React App - For Beginners" }, 
+    { "id": "UEJHSPM-Qiw", "title": "PayPal Checkout Integration Tutorial For Beginners - [2020]" }, 
+    { "id": "XBTA-ofG8gc", "title": "PHP Complete Registration & Login System Using MySQLi - Complete Guide" }, 
+    { "id": "dgKSqz3it50", "title": "Complete Portfolio Website with Bootstrap - HTML/CSS" }, 
+    { "id": "t-I0y6cWKJQ", "title": "JavaScript this Keyword - Why Should We Use it?" }, 
+    { "id": "Dl2gLiMQJkw", "title": "Image Thumbnail Previewer Using HTML/CSS" }, 
+    { "id": "CrSC1ZA9j0M", "title": "Complete Responsive Blooger Website Using HTML/CSS" }, 
+    { "id": "cHAcSQyvBqQ", "title": "Bootstrap Grid System The Complete Guide - In Action" }
   ]
 }
 

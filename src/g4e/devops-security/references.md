@@ -67,6 +67,12 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 ---
 
+## 0x7d0
+
+- [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017)
+
+---
+
 ## Keytos
 
 - [Microsoft Azure Vulnerability Still Affecting Thousands of New Subdomains Each Month](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)

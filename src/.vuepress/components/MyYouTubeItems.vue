@@ -106,7 +106,7 @@
 
 <style scoped>
 .banner-visible-area.ytd-c4-tabbed-header-renderer {
-  height: calc((60vw - 240px)/6.2 - 1px);
+  height: calc(60vw/6.2 - 1px);
 }
 .banner-visible-area.ytd-c4-tabbed-header-renderer {
   display:block;position:relative;

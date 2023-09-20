@@ -294,5 +294,10 @@
     "desc": "Virtual machines for iOS and macOS",
     "officialSite": "https://getutm.app",
     "topics": ["macos", "ios", "apple", "vm", "emulation", "jailbreak", "qemu", "virtual-machines", "utm"]
+  }, {
+    "repo": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "officialSite": "",
+    "topics": ["alamofire", "carthage", "certificate-pinning", "cocoapods", "httpurlresponse", "networking", "parameter-encoding", "public-key-pinning", "request", "response", "swift", "swift-package-manager", "urlrequest", "urlsession", "xcode"]
   }
 ]

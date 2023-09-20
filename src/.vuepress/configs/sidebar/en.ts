@@ -601,11 +601,18 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-cockroach/references.md',
       ]
     }, {
+      text: '🦉Altibase',
+      collapsible: true,
+      children: [
+        '/g4e/db-altibase/README.md',
+        '/g4e/db-altibase/query.md',
+        '/g4e/db-altibase/references.md',
+      ]
+    }, {
       text: '🔎SQL',
       collapsible: true,
       children: [
         '/g4e/sql/README.md',
-        '/g4e/sql/altibase.md',
         '/g4e/sql/tibero.md',
       ]
     }, 
@@ -629,34 +636,30 @@ export const sidebarEn: SidebarConfig = {
       ]
     }, 
   ],
-  '/catalogs/': [
+  '/projects/': [
     {
+      text: 'Intro',
+      children: [ '/projects/README.md' ],
+    }, {
       text: '🏁My Roadmap',
-      children: [ '/catalogs/README.md' ],
-    },
-    {
+      children: [ '/projects/roadmap/README.md' ],
+    }, {
       text: '🏰Portfolio',
       collapsible: true,
       children: [
-        '/catalogs/portfolio/README.md',
+        '/projects/portfolio/README.md',
       ],
     }, {
       text: '🧭Lifeguide',
       collapsible: true,
       children: [
-        '/catalogs/lifeguide/README.md',
-        '/catalogs/lifeguide/nhis/README.md',
-        '/catalogs/lifeguide/nhis/references.md',
-        '/catalogs/lifeguide/travel/README.md',
-        '/catalogs/lifeguide/travel/china.md',
-        '/catalogs/lifeguide/travel/references.md',
+        '/projects/lifeguide/README.md',
+        '/projects/lifeguide/nhis/README.md',
+        '/projects/lifeguide/nhis/references.md',
+        '/projects/lifeguide/travel/README.md',
+        '/projects/lifeguide/travel/china.md',
+        '/projects/lifeguide/travel/references.md',
       ]
-    }, {
-      text: '🎈TIL',
-      collapsible: true,
-      children: [
-        '/catalogs/til/README.md',
-      ],
     }
   ],
   '/explore/': [
@@ -801,7 +804,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/46.md',
         '/crashcourse/paul-hudson-100-days-of-swift/47.md',
         '/crashcourse/paul-hudson-100-days-of-swift/48.md',
-        '/crashcourse/paul-hudson-100-days-of-swift/49.md'
+        '/crashcourse/paul-hudson-100-days-of-swift/49.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/50.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -846,6 +850,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/36.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/37.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/38.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/39.md',
 
       ]
     }, {
@@ -909,6 +914,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/kodeco-kotlin-android/README.md',
+        '/crashcourse/kodeco-kotlin-android/853-couchbase-tutorial-for-android-getting-started.md',
       ]
     }, {
       text: '🕊️Kodeco - Swift',

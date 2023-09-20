@@ -53,14 +53,6 @@ tags: ["education", "youtube", "programming", "css"]
 
 ---
 
-## CodeWithFred
-
-<MyYouTubeItems jsonName="yu-codewithfred" />
-
-<!-- CodeWithFred -->
-
----
-
 ## Rock's Easyweb
 
 <MyYouTubeItems jsonName="yu-ezweb" />

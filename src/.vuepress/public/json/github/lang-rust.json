@@ -644,6 +644,11 @@
     "desc": "Collaborative Lisp coding on Discord",
     "officialSite": "",
     "topics": ["collaborative-coding", "discord-bot", "lisp"]
+  }, {
+    "repo": "wez/wezterm",
+    "desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "officialSite": "https://wezfurlong.org/wezterm",
+    "topics": ["rust", "serial", "serial-port", "terminal", "terminal-emulator", "terminal-emulators"]
   }
 ]
 

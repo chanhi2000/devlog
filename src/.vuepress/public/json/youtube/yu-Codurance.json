@@ -2,15 +2,11 @@
   "channel": {
     "id": "Codurance",
     "name": "Codurance",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNl6fzM8whdwV8CJSz6lPhyYeOuKi8fFFyGxvX0vA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNl6fzM8whdwV8CJSz6lPhyYeOuKi8fFFyGxvX0vA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VYKbskXFqzL7hFHGXRPSTCujXEN_yBX1xED-Dp3UK56ZehbkPQLGu_kT1518yhGxTcuxygbF=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "5NHYNFM4XUA",
-      "title": "N-Queens Puzzle (PART 1) - Rust - Codurance Screenkata"
-    }, {
-      "id": "XHnuMjah6ps",
-      "title": "Outside In TDD part I"
-    }
+    { "id": "5NHYNFM4XUA", "title": "N-Queens Puzzle (PART 1) - Rust - Codurance Screenkata" }, 
+    { "id": "XHnuMjah6ps", "title": "Outside In TDD part I" }
   ]
 }

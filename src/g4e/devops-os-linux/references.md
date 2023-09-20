@@ -76,4 +76,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 - [AN OPINIONATED YUBIKEY SET-UP GUIDE](https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey)
 
+---
+
+## Red Hat Developer 
+
+- [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
+
+---
+
 <TagLinks />

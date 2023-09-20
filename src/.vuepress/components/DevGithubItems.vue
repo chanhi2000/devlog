@@ -121,7 +121,7 @@ export default {
         const jsonRes = await this.fetchGithubInfo(fullName);
         console.log(JSON.stringify(jsonRes))
         const _hasLanguage = (jsonRes.language != null || jsonRes.language == '');
-        const _langColor = fetchedGithubColor[jsonRes.language].color;
+        const _langColor = fetchedGithubColor[jsonRes.language]?.color ?? '000000';
         let l = (_hasLanguage)  
           ? {
             color: `background-color: ${_langColor}`,
@@ -150,7 +150,7 @@ export default {
       }
 
       let jsonFullPathsLang = [
-        "awk", "batchfile", "blade", "c", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "gdscript", "go", "haskell", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
+        "awk", "batchfile", "blade", "c", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "gdscript", "go", "haskell", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
       ].map((e) => `/json/github/lang-${e}.json`);
 
       let jsonFullPathsLangTut = [
@@ -175,7 +175,7 @@ export default {
           !repoDescsToExclude.includes(e.repo.description)
       }
       const filterHackernewsPredicate = (e) => {
-        return !repoNamesToExclude.includes(`/${e.repo.link}`.replace(/https:\/\/github.com\//g, '')) || 
+        return !repoNamesToExclude.includes(`/${e.repo.link}`.replace(REGEX_GITHUB_BASE_URL, '')) || 
           !repoDescsToExclude.includes(e.repo.description)
       }
       const _fetchedItemsGithub = fetchedItemsGithub.filter(filterHackernewsPredicate) ?? []

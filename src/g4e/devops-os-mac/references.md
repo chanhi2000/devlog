@@ -113,6 +113,12 @@ tags: ["macos", "settings"]
 
 ---
 
+## Cameron Eagans
+
+- [Application-specific terminals](https://www.cweagans.net/2023/09/application-specific-terminals)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

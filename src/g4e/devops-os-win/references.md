@@ -39,6 +39,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Chris Titus Tech
+
+- [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

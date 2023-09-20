@@ -774,5 +774,15 @@
     "desc": "A reference implementation of Alan Turing's 1936 paper, On Computable Numbers",
     "officialSite": "",
     "topics": ["turing", "turing-machine"]
+  }, {
+    "repo": "gokrazy/mkfs",
+    "desc": "gokrazy mkfs is a program to create an ext4 file system on the gokrazy perm partition",
+    "officialSite": "",
+    "topics": ["file-system", "filesystem", "gokrazy", "golang"]
+  }, {
+    "repo": "sugawarayuuta/sonnet",
+    "desc": "High performance JSON decoder in Go",
+    "officialSite": "",
+    "topics": ["decoder", "go", "golang", "high-performance", "json", "parser"]
   }
 ]

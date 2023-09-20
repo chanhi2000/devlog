@@ -2,8 +2,8 @@
   "channel": {
     "id": "veryacademy",
     "name": "Very Academy",
-    "profile": "https://yt3.googleusercontent.com/3OCprnRlONtzDdzES_HsiiaXFdcoEZulXA44bhCVa-znbWkEmMNw-wPRxHWfK1zjEdDinnBFQQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/GfXYhuOnS4Lk0xIHBaGxZJDNC_0JGT3tZQF-Aq0iJe3CJOxo9T5qPh51isfwaAr4DfLXR4R6MFo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/oLiMih-Sjper9CYjvjSdFn_SulBCwQVVd6yWHEbrCn3oGBNREhtoMlez4v8meRNTdfT-YoL_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GNFxvFJufOm3NWF4PFBodMBx8MscLFwZbFmfp8E46GMuwuUjk6eJM1JjEl2icZkymfyB885D=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "Dw2thMl1dGY", "title": "Python Django Celery Course: Initiating a Celery Task" },

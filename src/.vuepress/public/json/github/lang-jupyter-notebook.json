@@ -376,8 +376,8 @@
     "topics": ["machine-learning", "openai", "ray", "serving", "fine-tuning", "anyscale", "llms", "llama2"]
   }, {
     "repo": "williamyang1991/Rerender_A_Video",
-    "desc": "Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation",
-    "officialSite": "",
-    "topics": ["video-processing", "diffusion", "controlnet"]
+    "desc": "[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation",
+    "officialSite": "https://www.mmlab-ntu.com/project/rerender",
+    "topics": ["controlnet", "diffusion", "video-processing"]
   }
 ]

@@ -49,5 +49,10 @@
     "desc": "📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
     "officialSite": "https://mmistakes.github.io/minimal-mistakes",
     "topics": ["jekyll", "theme", "ruby-gem", "jekyll-theme", "github-pages", "algolia", "lunr", "algolia-search"]
+  }, {
+    "repo": "basecamp/kamal",
+    "desc": "Deploy web apps anywhere.",
+    "officialSite": "https://kamal-deploy.org",
+    "topics": []
   }
 ]

@@ -649,6 +649,16 @@
     "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "officialSite": "https://marlinfw.org",
     "topics": ["arduino", "avr", "firmware", "esp32", "atmel", "hacktoberfest", "3d-printing", "reprap", "stmicro"]
+  }, {
+    "repo": "goldsborough/clang-expand",
+    "desc": ":dragon: A clang tool for happy refactoring without source-code gymnastics",
+    "officialSite": "",
+    "topics": ["c", "clang", "cpp", "llvm", "objective-c", "refactoring", "tool"]
+  }, {
+    "repo": "fmtlib/fmt",
+    "desc": "A modern formatting library",
+    "officialSite": "https://fmt.dev",
+    "topics": ["c-plus-plus", "chrono", "cross-platform", "formatting", "multiplatform", "output", "performance", "printf"]
   }
 ]
 

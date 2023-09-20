@@ -13,6 +13,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Kubernetes
+
+- [Diagram Guide](https://kubernetes.io/docs/contribute/style/diagram-guide)
+
+---
+
 ## Linux Handbook
 
 - [Complete Beginner's Guide to Kubernetes Cluster Deployment on CentOS (and Other Linux)](https://linuxhandbook.com/kubernetes-cluster-deployment)

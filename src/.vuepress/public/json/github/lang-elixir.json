@@ -19,5 +19,10 @@
     "desc": "WireGuard®-based VPN server and firewall",
     "officialSite": "https://firezone.dev",
     "topics": ["security", "cloud", "privacy", "elixir", "phoenix", "networking", "network", "firewall", "self-hosted", "vpn", "rust-lang", "vpn-server", "elixir-lang", "network-security", "wireguard", "virtual-network", "devsecops", "liveview", "wireguard-vpn", "wireguard-ui"]
+  }, {
+    "repo": "electric-sql/electric",
+    "desc": "Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.",
+    "officialSite": "https://electric-sql.com",
+    "topics": ["crdt", "crdts", "elixir", "local-first", "offline", "postgres", "sql", "sqlite"]
   }
 ]

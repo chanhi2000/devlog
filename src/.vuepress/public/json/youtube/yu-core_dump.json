@@ -6,9 +6,6 @@
     "banner": "https://yt3.googleusercontent.com/mor2WDG3NIriXL0kSIRDLd3EclqgjPz8sxm0XpmHJdXQQnhjOs0MIHEADOuzMX4brQmlDujvxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "viJ92zBa5yc",
-      "title": "Why discord switched from Go to Rust?"
-    }
+    { "id": "viJ92zBa5yc", "title": "Why discord switched from Go to Rust?" }
   ]
 }

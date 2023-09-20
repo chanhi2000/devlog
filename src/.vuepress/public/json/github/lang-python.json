@@ -2688,5 +2688,20 @@
     "desc": "Deploy a Production Ready Kubernetes Cluster",
     "officialSite": "",
     "topics": ["ansible", "aws", "bare-metal", "gce", "hacktoberfest", "high-availability", "k8s-sig-cluster-lifecycle", "kubernetes", "kubernetes-cluster", "kubespray"]
+  }, {
+    "repo": "tconbeer/harlequin",
+    "desc": "The DuckDB IDE for Your Terminal.",
+    "officialSite": "https://harlequin.sh",
+    "topics": []
+  }, {
+    "repo": "langchain-ai/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "officialSite": "https://python.langchain.com",
+    "topics": []
+  }, {
+    "repo": "cmu-db/dbdb.io",
+    "desc": "The On-line Database of Databases",
+    "officialSite": "https://dbdb.io",
+    "topics": ["database"]
   }
 ]

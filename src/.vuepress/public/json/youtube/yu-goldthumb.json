@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "goldthumb",
+    "name": "Golden Thumb",
+    "profile": "https://yt3.googleusercontent.com/n3XvtV5A0zLhy3kSgesYP-BLm7Y6iYAOTG5SSbyo2V9hein7h6Fbc2UL6WYfKX3XK4jDimiijA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uNp8jzWW4qQcFLnfyZpoTXbNKjSQTl5E97o35kmC2G4PcntU68sLibZvz6h4FOgWfLtCCl6alIY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "L4YZjzRP6Zo", "title": "AV014: Remove vowels in a string in Swift recursively"   }
+  ]
+}

@@ -219,5 +219,10 @@
     "desc": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
     "officialSite": "https://www.openra.net",
     "topics": ["game", "csharp", "cross-platform", "game-engine", "dotnet", "engine", "strategy-game-engine", "openra", "red-alert", "command-and-conquer", "rts", "hacktoberfest", "real-time-strategy", "tiberian-dawn", "dune-2000"]
+  }, {
+    "repo": "aras-p/UnityGaussianSplatting",
+    "desc": "Toy Gaussian Splatting visualization in Unity",
+    "officialSite": "",
+    "topics": ["gaussian-splatting", "unity"]
   }
 ]

@@ -457,11 +457,11 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
-## 拇指
+## Golden Thumb
 
-<MyYouTubeItems jsonName="yu-zhijunsheng" />
+<MyYouTubeItems jsonName="yu-goldthumb" />
 
-<!-- 拇指 -->
+<!-- Golden Thumb -->
 
 ---
 

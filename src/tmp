@@ -337,7 +337,6 @@
 { "channelId": "mobiletechreview", "channelName": "MobileTechReview", "id": "IyqieYzP7qA", "title": "Intel NUC 9 Pro Review (Quartz Canyon)" },
 { "channelId": "ItsMyNaturalColour", "channelName": "ItsMyNaturalColour", "id": "f98x-YVvr3U", "title": "Synology RackStation RS214 12TB Backup NAS" },
 { "channelId": "WindowsCentral", "channelName": "Windows Central", "id": "GzqIzBn5WLA", "title": "Modernize Windows 10 with these FREE tweaks and tools!" },
-{ "channelId": "nascompares", "channelName": "NASCompares", "id": "g2ZNk66-rOk", "title": "Synology DS920+ NAS - 5 Reasons You Should You Buy It (and 5 Reasons not to)" },
 { "channelId": "Adamant_IT", "channelName": "Adamant IT", "id": "kDQ9dz7MEWU", "title": "Windows 10 Activation Explained - Win 10 Wrangling" },
 { "channelId": "JessaJones", "channelName": "iPad Rehab", "id": "1HnA83f8b2o", "title": "This is how to get the fastest possible dead iPhone data recovery" },
 { "channelId": "JessaJones", "channelName": "iPad Rehab", "id": "FWIhP5RnOYE", "title": "iPhone X Split Board Troubleshooting with iSocket" }
@@ -468,13 +467,6 @@
 
 { "channelId": "yk_roadking", "channelName": "도로왕 김지훈 변호사", "id": "d8LWW8a5QB4", "title": "스쿨존에서 자전거 탄 어린이랑 사고 나면 민식이법이 적용될까요? | 도로왕 김지훈 변호사" },
 // 2023.09.19
-{ "channelId": "ActionRetro", "channelName": "Action Retro", "id": "ipJceL253Fo", "title": "Modern Ubuntu is KILLER on old Intel Macs!" },
-{ "channelId": "SketchUpSchool", "channelName": "SketchUp School", "id": "PU1qWoETzfk", "title": "Watch This Before You Get Started with SketchUp – 7 Essential Tips (2023 Update)" },
-{ "channelId": "nascompares", "channelName": "NASCompares", "id": "C6hf3ddtNCs", "title": "I Built the Jonsbo N2 NAS - Better than Synology / QNAP? (Full Build Tutorial) - 100K Sub Special" },
-{ "channelId": "amantinband", "channelName": "Amichai Mantinband", "id": "jnutb5Z4wyg", "title": "Domain Layer Structure & Skeleton | Clean Architecture & DDD From Scratch Tutorial | Part 13" },
-{ "channelId": "prof.r4q52", "channelName": "Prof. Roque Gimenez", "id": "yCzE0Q1BuOE", "title": "instalar c# en #visualcode con un ejempolo basico xd" },
-{ "channelId": "samselikoff", "channelName": "Sam Selikoff", "id": "Q2CJNB6yvwY", "title": "Highlight any panel in your dashboard" },
-{ "channelId": "unconsciouslydid", "channelName": "무심코", "id": "NZId1IHkbFk", "title": "맥북 한글파일 수정, 당연히 무료! 아이패드까지 [맥북 한컴독스]" },
 { "channelId": "user-so3uf3gz3p", "channelName": "리눅스 읽어주는 남자", "id": "CGo273hb28s", "title": "서버 엔지니어SRE, Devops, Infra 등를 위한 리눅스 네트워크 기본공부방법 exported" },
 { "channelId": "boiledDeveloper", "channelName": "삶은개발", "id": "vRu11eqYnY0", "title": "쌩초보 iOS 앱 개발자 테크트리 | A-Z" },
 { "channelId": "mfreihaendig", "channelName": "Matthias Frank", "id": "tJlkd8JXpUw", "title": "Notion Charts: Get Stunning Charts In Notion (For Free)" },
@@ -630,3 +622,5 @@ https://blog.the-pans.com/notes-on-the-foundationdb-paper
 https://q-transformer.github.io
 https://www.nathanmanousos.com/posts/chonky-menu
 https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1
+https://andydote.co.uk/2023/09/19/tracing-is-better
+https://brunch.co.kr/@jamess/45

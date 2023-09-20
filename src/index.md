@@ -74,7 +74,9 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://zsync.xyz">ZSync</a></li>
       <li><a target="_blank" href="https://hiddentools-eight.vercel.app">HiddenTools</a></li>
       <li><a target="_blank" href="https://keyframes.app">more tools for devs</a></li>
-      <li><a target="_blank" href="https://alistapart.com">a list apart</a></li> 
+      <li><a target="_blank" href="https://alistapart.com">a list apart</a></li>
+      <li><a target="_blank" href="https://app.eraser.io">♟️The Whiteboard for Engineering Teams</a></li>
+      <li><a target="_blank" href="https://diagrams.mingrammer.com">Diagrams- Diagram as Code</a></li>
       <li><a target="_blank" href="https://gpte.ai">Discover the latest tools and trends in AI 🔮</a></li>
     </ul>
   </div>
@@ -84,7 +86,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"
 />
 
-<!-- <GithubInfoGenBox /> -->
+<GithubInfoGenBox />
   
 <DevGithubItems />
 <DevHackerNewsItems />

@@ -2,28 +2,16 @@
   "channel": {
     "id": "CodewithSloba",
     "name": "Code with Sloba",
-    "profile": "https://yt3.googleusercontent.com/6RWnHbXfmEDhH3Y66AIppan5EwFM7WuS5mEthSaHh0kuxw-rwE7uTli4woHkmvSQ3QP3dJ0sn1I=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/6RWnHbXfmEDhH3Y66AIppan5EwFM7WuS5mEthSaHh0kuxw-rwE7uTli4woHkmvSQ3QP3dJ0sn1I=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0-Gu0orVOhzkCfyOZMUYjIUp6RU7m87d_YnWtHKgnLqCtW2eLCcZMGj6URI4q5LiRxTXHqeZLw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "VY6tgKS02ao",
-      "title": "React File and Folder Structure | #32 React Course"
-    }, {
-      "id": "NFJ0g95ObX4",
-      "title": "Building a Fast Portfolio Website with Qwik Framework"
-    }, {
-      "id": "UX5HIrxbRUc",
-      "title": "How to Build a Quiz App using React (for Beginners)"
-    }, {
-      "id": "3yD6Mwx6i0Q",
-      "title": "React portfolio dashboard (with Firebase)"
-    }, {
-      "id": "sMTRaNZ0RYs",
-      "title": "React.js workshop (for beginners) - Building Quiz app"
-    }, {
-      "id": "d25dg0AgkwQ",
-      "title": "Build Web Scraping Website | React, Puppeteer, Firebase"
-    }
+    { "id": "VY6tgKS02ao", "title": "React File and Folder Structure | #32 React Course" },
+    { "id": "NFJ0g95ObX4", "title": "Building a Fast Portfolio Website with Qwik Framework" },
+    { "id": "UX5HIrxbRUc", "title": "How to Build a Quiz App using React (for Beginners)" },
+    { "id": "3yD6Mwx6i0Q", "title": "React portfolio dashboard (with Firebase)" },
+    { "id": "sMTRaNZ0RYs", "title": "React.js workshop (for beginners) - Building Quiz app" },
+    { "id": "d25dg0AgkwQ", "title": "Build Web Scraping Website | React, Puppeteer, Firebase" }
   ]
 }
 

@@ -1,9 +1,9 @@
 {
   "channel": {
-    "id": "Huntabyte",
+    "id": "c",
     "name": "Huntabyte",
-    "profile": "https://yt3.googleusercontent.com/P8StLEerDNTmTaWPySOO2qfW2x-eueJ7PyJg16V3mRQGv0Ynkj6PAJKay-d7kgTmV0CpciHpMHI=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/RPw7Ecl0Q9XylhxVY2w4pxDCga2AIB0iS7hMLA3yaD9iixjDKTsdYi5EtkKBLJR7AImhJHfs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/jC3B-FwL-4GqQKiLzbKt60mcZxm12Kudxx6WF9I8nG7xHeQ87m8BfoHsD2NHmTZ0-ooojbC3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/h5Wmv5I8Q_hnpIOlrK1uB0Ct-lGktG_WmRcfovpV8aPdSMWqLTrIyPiGKurvrKWBgL76BMMc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "san5ValGE5g", "title": "Working on the Date Picker for Melt UI" },

@@ -95,7 +95,7 @@ word='hello' awk 'BEGIN{print ENVIRON["word"]}'
 
 :::
 
-`ENVIRON` is a good way to get around `awk`'s interpretation of escape sequences. This is especially helpful for fixed string matching (see the [index](built-in-functions.md#index) section for examples).
+`ENVIRON` is a good way to get around `awk`'s interpretation of escape sequences. This is especially helpful for fixed string matching (see the [index](09-built-in-functions.md#index) section for examples).
 
 ```sh
 s='hi\nbye'
@@ -175,7 +175,7 @@ The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learn
 
 ### Exercise 1
 
-Use contents of the s variable to display all matching lines from the input file sample.txt. Assume that the s variable doesn't have any regexp metacharacters and construct a solution such that only whole words are matched.
+Use contents of the s variable to display all matching lines from the input file <FontIcon icon="iconfont icon-file"/> `sample.txt`. Assume that the s variable doesn't have any regexp metacharacters and construct a solution such that only whole words are matched.
 
 ::: tabs 
 
@@ -196,7 +196,7 @@ s='do'
 
 ### Exercise 2
 
-Replace all occurrences of o for the input file addr.txt with the literal contents of the s variable. Assume that the s variable has regexp metacharacters.
+Replace all occurrences of `o` for the input file <FontIcon icon="iconfont icon-file"/> `addr.txt` with the literal contents of the s variable. Assume that the s variable has regexp metacharacters.
 
 
 ::: tabs 

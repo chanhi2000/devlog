@@ -39,7 +39,7 @@ tags: ["youtube", "bash", "linux", "macos", "terminal", "alias", "sh", "vim", "n
 
 ## Linux Nomad
 
-<MyYouTubeItems jsonName="yu-Linux Nomad" />
+<MyYouTubeItems jsonName="yu-LinuxNomad" />
 
 <!-- Linux Nomad -->
 

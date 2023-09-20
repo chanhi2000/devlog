@@ -105,7 +105,9 @@ export default {
       id: 'G-XFRP81YMEP',
       debug: true
     }),
-    mediumZoomPlugin({}),
+    mediumZoomPlugin({
+      selector: ':not(.youtube-item) > img'
+    }),
     searchPlugin({
       isSearchable: (page) => page.path !== '/',
       // getExtraFields: (page) => page.frontmatter.tags ?? [],

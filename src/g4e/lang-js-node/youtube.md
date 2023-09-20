@@ -637,7 +637,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ## AAE IdeaPro
 
-<MyYouTubeItems jsonName="yu-channelId" />
+<MyYouTubeItems jsonName="yu-aaeideapro1192" />
 
 <!-- AAE IdeaPro -->
 
