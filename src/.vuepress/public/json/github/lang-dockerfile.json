@@ -3,26 +3,26 @@
     "repo": "linuxserver/docker-bookstack",
     "desc": "A Docker container for the BookStack documentation wiki",
     "officialSite": "",
-    "topics": ["docker", "documentation", "hacktoberfest", "bookstack-container"]    
+    "topics": ["docker", "documentation", "hacktoberfest", "bookstack-container"]
   }, {
     "repo": "linuxserver/docker-mariadb",
     "desc": "",
     "officialSite": "",
-    "topics": ["hacktoberfest"]    
+    "topics": ["hacktoberfest"]
   }, {
     "repo": "linuxserver/docker-kasm",
     "desc": "Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "iv-org/documentation",
     "desc": "The official Invidious documentation",
     "officialSite": "https://docs.invidious.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "justinclift/docker-pgautoupgrade",
     "desc": "PostgreSQL docker container which automatically upgrades to latest PostgreSQL version",
     "officialSite": "https://hub.docker.com/r/pgautoupgrade/pgautoupgrade",
-    "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"]    
+    "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"]
   }
 ]

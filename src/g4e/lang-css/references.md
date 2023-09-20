@@ -11,7 +11,38 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 [[toc]]
 
+
 ---
+
+## Tools
+
+- [flexiple](https://flexiple.com/illustrations)
+- [CTA Button Generator](https://www.clickminded.com/button-generator)
+- [Neumorphism](https://neumorphism.io)
+- [Glassmorphism](http://glassmorphism.com)
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius)
+- [WAIT! Animate](https://waitanimate.wstone.uk)
+- [kodeshot](https://www.kodeshot.net)
+- [Make some waves!](https://getwaves.io)
+- [cssTypeset](http://csstypeset.com)
+- [EnjoyCSS](https://enjoycss.com)
+- [CSSMatic](https://www.cssmatic.com)
+- [Patternify](http://www.patternify.com)
+- [CssButtonGenerator](https://www.bestcssbuttongenerator.com)
+- [Autoprefixer CSS online](https://autoprefixer.github.io)
+- [CSS Gradient](https://cssgradient.io)
+- [Get Waves](https://getwaves.io)
+- [CSS Generator Tool](https://cssgenerator.org)
+- [CSS Generator](https://css3generator.com)
+- [BlobMaker](https://www.blobmaker.app)
+- [cubic-bezier](https://cubic-bezier.com)
+- [Bennette Feely Clippy](https://bennettfeely.com/clippy)
+- [Colorzilla: Gradient Generator](https://www.colorzilla.com/gradient-editor)
+- [TinyPNG](https://tinypng.com)
+- [favicon.ico Generator](https://www.favicon.cc)
+
+---
+
 
 ## Guideline
 
@@ -125,35 +156,6 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 ## CSS in Real Life
 
 - [Reducing Complexity in Front End Development](https://css-irl.info/reducing-complexity-in-front-end-development)
-
----
-
-## Tools
-
-- [flexiple](https://flexiple.com/illustrations)
-- [CTA Button Generator](https://www.clickminded.com/button-generator)
-- [Neumorphism](https://neumorphism.io)
-- [Glassmorphism](http://glassmorphism.com)
-- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius)
-- [WAIT! Animate](https://waitanimate.wstone.uk)
-- [kodeshot](https://www.kodeshot.net)
-- [Make some waves!](https://getwaves.io)
-- [cssTypeset](http://csstypeset.com)
-- [EnjoyCSS](https://enjoycss.com)
-- [CSSMatic](https://www.cssmatic.com)
-- [Patternify](http://www.patternify.com)
-- [CssButtonGenerator](https://www.bestcssbuttongenerator.com)
-- [Autoprefixer CSS online](https://autoprefixer.github.io)
-- [CSS Gradient](https://cssgradient.io)
-- [Get Waves](https://getwaves.io)
-- [CSS Generator Tool](https://cssgenerator.org)
-- [CSS Generator](https://css3generator.com)
-- [BlobMaker](https://www.blobmaker.app)
-- [cubic-bezier](https://cubic-bezier.com)
-- [Bennette Feely Clippy](https://bennettfeely.com/clippy)
-- [Colorzilla: Gradient Generator](https://www.colorzilla.com/gradient-editor)
-- [TinyPNG](https://tinypng.com)
-- [favicon.ico Generator](https://www.favicon.cc)
 
 ---
  

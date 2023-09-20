@@ -3,11 +3,11 @@
     "repo": "nukeykt/Nuked-MD-FPGA",
     "desc": "Mega Drive/Genesis core written in Verilog",
     "officialSite": "",
-    "topics": ["fpga", "emulation", "reverse-engineering", "z80", "verilog", "mega-drive", "genesis", "megadrive", "sega-megadrive", "sega-genesis", "68000", "ym2612", "ym3438", "ym7101", "ym6045", "ym6046"]    
+    "topics": ["fpga", "emulation", "reverse-engineering", "z80", "verilog", "mega-drive", "genesis", "megadrive", "sega-megadrive", "sega-genesis", "68000", "ym2612", "ym3438", "ym7101", "ym6045", "ym6046"]
   }, {
     "repo": "lawrie/fpga_pio",
     "desc": "An attempt to recreate the RP2040 PIO in an FPGA",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }
 ]

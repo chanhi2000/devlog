@@ -32,4 +32,19 @@ color: rgba(22, 25, 35, 0.2)
 
 ---
 
+You've already seen various examples requiring conditional expressions. This chapter will revisit the `if-else` control structure and the ternary operator. Then you will see some examples with explicit loops (recall that `awk` is already looping over input records). Followed by keywords that control loop flow. Most of the syntax is very similar to the `C` language.
+
+::: info 
+
+The [<FontIcon icon="iconfont icon-github"/> example_files](https://github.com/learnbyexample/learn_gnuawk/tree/master/example_files) directory has all the files used in the examples.
+
+:::
+
+---
+
+## `if-else`
+
+---
+
+
 <TagLinks/>

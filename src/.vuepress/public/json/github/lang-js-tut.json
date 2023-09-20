@@ -3,157 +3,157 @@
     "repo": "airbnb/javascript",
     "desc": "JavaScript Style Guide",
     "officialSite": "",
-    "topics": ["javascript", "styleguide", "eslint", "es6", "style-linter", "linting", "style-guide", "es2015", "naming-conventions", "arrow-functions", "es2017", "es2016", "tc39", "es2018"]    
+    "topics": ["javascript", "styleguide", "eslint", "es6", "style-linter", "linting", "style-guide", "es2015", "naming-conventions", "arrow-functions", "es2017", "es2016", "tc39", "es2018"]
   }, {
     "repo": "goldbergyoni/nodebestpractices",
     "desc": "✅ The Node.js best practices list (July 2023)",
     "officialSite": "https://twitter.com/nodepractices",
-    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"]    
+    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"]
   }, {
     "repo": "trekhleb/javascript-algorithms",
     "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Asabeneh/30-Days-Of-JavaScript",
     "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "bradtraversy/50projects50days",
     "desc": "50+ mini web projects using HTML, CSS & JS",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "leegeunhyeok/paper",
     "desc": "🎉 SNS 앱 예제로 배우는 프로그레시브 웹 앱 실습코드",
     "officialSite": "http://www.yes24.com/Product/Goods/91360603",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "techreagan/vue-nodejs-youtube-clone",
     "desc": "This is the frontend (VueJS) of the Youtube clone called VueTube.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ryanmcdermott/clean-code-javascript",
     "desc": "🛁 Clean Code concepts adapted for JavaScript",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "bradtraversy/vanillawebprojects",
     "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Th3Wall/Fakeflix",
     "desc": "Not the usual clone that you can find on the web.",
     "officialSite": "https://fakeflix.th3wall.codes",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/Web-Dev-For-Beginners",
     "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "officialSite": "https://microsoft.github.io/Web-Dev-For-Beginners",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "kentcdodds/react-fundamentals",
     "desc": "Material for my React Fundamentals Workshop",
     "officialSite": "https://epicreact.dev/fundamentals",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "judygab/web-dev-projects",
     "desc": "Projects repo for tutorials for my YouTube Channel",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "john-smilga/react-course-v3",
     "desc": "The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)",
     "officialSite": "https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sumn2u/learn-javascript",
     "desc": "A book that teaches JavaScript",
     "officialSite": "https://javascript.sumankunwar.com.np",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "getify/You-Dont-Know-JS",
     "desc": "A book series on JavaScript. @YDKJS on twitter.",
     "officialSite": "",
-    "topics": ["javascript", "education", "programming", "es6", "async", "book", "book-series", "es2015", "learn-to-code", "training-providers", "closures", "prototypes", "training-materials"]    
+    "topics": ["javascript", "education", "programming", "es6", "async", "book", "book-series", "es2015", "learn-to-code", "training-providers", "closures", "prototypes", "training-materials"]
   }, {
     "repo": "florinpop17/app-ideas",
     "desc": "A Collection of application ideas which can be used to improve your coding skills.",
     "officialSite": "",
-    "topics": ["applications", "coding", "ideas", "hacktoberfest"]    
+    "topics": ["applications", "coding", "ideas", "hacktoberfest"]
   }, {
     "repo": "phuocng/html-dom",
     "desc": "Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.",
     "officialSite": "https://htmldom.dev",
-    "topics": ["javascript", "html", "typescript", "dom", "document-object-model", "dom-manipulation", "dom-api"]    
+    "topics": ["javascript", "html", "typescript", "dom", "document-object-model", "dom-manipulation", "dom-api"]
   }, {
     "repo": "phuocng/1loc",
     "desc": "What's your favorite JavaScript single LOC (line of code)?",
     "officialSite": "https://1loc.dev",
-    "topics": ["javascript", "tips-and-tricks", "javascript-utils", "one-liner", "eleventy", "js-tips", "one-line-code"]    
+    "topics": ["javascript", "tips-and-tricks", "javascript-utils", "one-liner", "eleventy", "js-tips", "one-line-code"]
   }, {
     "repo": "jonasschmedtmann/ultimate-react-course",
     "desc": "Starter files, final projects, and FAQ for my Ultimate React course",
     "officialSite": "",
-    "topics": ["udemy", "starter-code", "react-course"]    
+    "topics": ["udemy", "starter-code", "react-course"]
   }, {
     "repo": "30-seconds/30-seconds-of-code",
     "desc": "Short code snippets for all your development needs",
     "officialSite": "https://30secondsofcode.org",
-    "topics": ["nodejs", "javascript", "css", "python", "git", "html", "education", "snippets", "programming", "reactjs", "es6-javascript", "learn-to-code", "awesome-list", "snippets-collection", "learning-resources"]    
+    "topics": ["nodejs", "javascript", "css", "python", "git", "html", "education", "snippets", "programming", "reactjs", "es6-javascript", "learn-to-code", "awesome-list", "snippets-collection", "learning-resources"]
   }, {
     "repo": "sudheerj/javascript-interview-questions",
     "desc": "List of 1000 JavaScript Interview Questions",
     "officialSite": "",
-    "topics": ["react", "javascript", "vuejs", "angular", "vanilla-javascript", "javascript-applications", "javascript-interview-questions", "core-javascript"]    
+    "topics": ["react", "javascript", "vuejs", "angular", "vanilla-javascript", "javascript-applications", "javascript-interview-questions", "core-javascript"]
   }, {
     "repo": "sohamkamani/javascript-design-patterns-for-humans",
     "desc": "An ultra-simplified explanation of design patterns implemented in javascript",
     "officialSite": "",
-    "topics": ["javascript", "design-patterns", "factory-pattern", "bridge-pattern"]    
+    "topics": ["javascript", "design-patterns", "factory-pattern", "bridge-pattern"]
   }, {
     "repo": "adrianhajdin/project_threejs_ai",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "hiteshchoudhary/apihub",
     "desc": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.",
     "officialSite": "https://freeapi.app",
-    "topics": ["api", "frontend", "backend", "mobile-development", "backend-api"]    
+    "topics": ["api", "frontend", "backend", "mobile-development", "backend-api"]
   }, {
     "repo": "mertuner/InstagramVision",
     "desc": "Mocking instagram app on visionOS",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Asabeneh/30-Days-Of-React",
     "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
     "officialSite": "",
-    "topics": ["react", "redux", "javascript", "css", "html", "challenge", "website", "programming", "html5", "js", "reactjs", "webdevelopment", "react-router-dom", "30dayofjavascript"]    
+    "topics": ["react", "redux", "javascript", "css", "html", "challenge", "website", "programming", "html5", "js", "reactjs", "webdevelopment", "react-router-dom", "30dayofjavascript"]
   }, {
     "repo": "ishtms/learn-nodejs-hard-way",
     "desc": "Master Nodejs and backend development by creating a backend web framework from scratch.",
     "officialSite": "https://github.com/ishtms/learn-nodejs-hard-way",
-    "topics": ["nodejs", "javascript", "api", "learning", "education", "node", "programming", "server", "backend", "book", "learn-to-code", "coding", "learning-exercise", "learn", "learning-by-doing", "training-materials", "programming-fundamentals", "backend-development"]    
+    "topics": ["nodejs", "javascript", "api", "learning", "education", "node", "programming", "server", "backend", "book", "learn-to-code", "coding", "learning-exercise", "learn", "learning-by-doing", "training-materials", "programming-fundamentals", "backend-development"]
   }, {
     "repo": "adrianhajdin/nike_landing_page",
     "desc": "Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.",
     "officialSite": "https://tailwindcsspro.com",
-    "topics": ["nike", "tailwind", "tailwindcss", "nike-website"]    
+    "topics": ["nike", "tailwind", "tailwindcss", "nike-website"]
   }, {
     "repo": "EmNudge/watlings",
     "desc": "Learn WebAssembly by writing small programs!",
     "officialSite": "",
-    "topics": ["learning", "guide", "webassembly", "wasm", "exercises", "wat", "wast"]    
+    "topics": ["learning", "guide", "webassembly", "wasm", "exercises", "wat", "wast"]
   }, {
     "repo": "bradtraversy/traversy-js-challenges",
     "desc": "Challenges & docs from JS Algorithms & Data Structures course",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "wesbos/JavaScript30",
     "desc": "30 Day Vanilla JS Challenge",

@@ -1843,5 +1843,969 @@ try {
 
 ---
 
+## <FontIcon icon="iconfont icon-file"/>`new-branch.ps1`
+
+```card
+title: new-branch.ps1
+desc: Creates a new branch in a Git repository.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-branch.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script creates a new branch in a local Git repository and switches to it.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./new-branch.ps1 [[-newBranch] <String>] [[-repoPath] <String>] [<CommonParameters>]
+
+-newBranch <String>
+    Specifies the new branch name
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-repoPath <String>
+    Specifies the path to the Git repository (current working directory per default)
+    
+    Required?                    false
+    Position?                    2
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./new-branch.ps1 test123 C:\MyRepo
+# ⏳ (1/6) Searching for Git executable...  git version 2.42.0.windows.2
+# ⏳ (2/6) Checking local repository...
+# ⏳ (3/6) Fetching latest updates...
+# ⏳ (4/6) Creating new branch...
+# ⏳ (5/6) Pushing updates...
+# ⏳ (6/6) Updating submodules...
+# ✔️ Created branch 'test123' in repo 📂MyRepo (based on 'main' in 18 sec)
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Creates a new Git branch 
+.DESCRIPTION
+	This PowerShell script creates a new branch in a local Git repository and switches to it.
+.PARAMETER newBranch
+	Specifies the new branch name
+.PARAMETER repoPath
+	Specifies the path to the Git repository (current working directory per default)
+.EXAMPLE
+	PS> ./new-branch.ps1 test123 C:\MyRepo
+	⏳ (1/6) Searching for Git executable...  git version 2.42.0.windows.2
+	⏳ (2/6) Checking local repository...
+	⏳ (3/6) Fetching latest updates...
+	⏳ (4/6) Creating new branch...
+	⏳ (5/6) Pushing updates...
+	⏳ (6/6) Updating submodules...
+	✔️ Created branch 'test123' in repo 📂MyRepo (based on 'main' in 18 sec)
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$newBranch = "", [string]$repoPath = "$PWD")
+
+try {
+	if ($newBranch -eq "") { $newBranch = Read-Host "Enter the new branch name" }
+
+	$stopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "⏳ (1/6) Searching for Git executable...  " -noNewline
+	& git --version
+	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	Write-Host "⏳ (2/6) Checking local repository..."
+	if (-not(Test-Path "$repoPath" -pathType container)) { throw "Can't access directory: $repoPath" }
+	$repoPathName = (Get-Item "$repoPath").Name
+
+	"⏳ (3/6) Fetching latest updates..."
+	& git -C "$repoPath" fetch --all --recurse-submodules --prune --prune-tags --force
+	if ($lastExitCode -ne "0") { throw "'git fetch' failed with exit code $lastExitCode" }
+
+	$currentBranch = (git -C "$repoPath" rev-parse --abbrev-ref HEAD)
+	if ($lastExitCode -ne "0") { throw "'git rev-parse' failed with exit code $lastExitCode" }
+
+	"⏳ (4/6) Creating new branch..."
+	& git -C "$repoPath" checkout -b "$newBranch"
+	if ($lastExitCode -ne "0") { throw "'git checkout -b $newBranch' failed with exit code $lastExitCode" }
+
+	"⏳ (5/6) Pushing updates..."
+	& git -C "$repoPath" push origin "$newBranch"
+	if ($lastExitCode -ne "0") { throw "'git push origin $newBranch' failed with exit code $lastExitCode" }
+
+	"⏳ (6/6) Updating submodules..."
+	& git -C "$repoPath" submodule update --init --recursive
+	if ($lastExitCode -ne "0") { throw "'git submodule update' failed with exit code $lastExitCode" }
+
+	[int]$elapsed = $stopWatch.Elapsed.TotalSeconds
+	"✔️ Created branch '$newBranch' in repo 📂$repoPathName (based on '$currentBranch' in $elapsed sec)"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`new-tag.ps1`
+
+```card
+title: new-tag.ps1
+desc: Creates a new tag in a Git repository.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-tag.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script creates a new tag in a Git repository.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./new-tag.ps1 [[-TagName] <String>] [[-RepoDir] <String>] [<CommonParameters>]
+
+-TagName <String>
+    Specifies the new tag name
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-RepoDir <String>
+    Specifies the path to the Git repository
+    
+    Required?                    false
+    Position?                    2
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./new-tag.ps1 v1.7
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Creates a new tag in a Git repository
+.DESCRIPTION
+	This PowerShell script creates a new tag in a Git repository.
+.PARAMETER TagName
+	Specifies the new tag name
+.PARAMETER RepoDir
+	Specifies the path to the Git repository
+.EXAMPLE
+	PS> ./new-tag.ps1 v1.7
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$TagName = "", [string]$RepoDir = "$PWD")
+
+try {
+	if ($TagName -eq "") { $TagName = read-host "Enter new tag name" }
+
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if (-not(test-path "$RepoDir" -pathType container)) { throw "Can't access directory: $RepoDir" }
+	set-location "$RepoDir"
+
+	$Null = (git --version)
+	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	$Result = (git status)
+	if ($lastExitCode -ne "0") { throw "'git status' failed in $RepoDir" }
+	if ("$Result" -notmatch "nothing to commit, working tree clean") { throw "Repository is NOT clean: $Result" }
+
+	& "$PSScriptRoot/fetch-repo.ps1"
+	if ($lastExitCode -ne "0") { throw "Script 'fetch-repo.ps1' failed" }
+
+	& git tag "$TagName"
+	if ($lastExitCode -ne "0") { throw "Error: 'git tag $TagName' failed!" }
+
+	& git push origin "$TagName"
+	if ($lastExitCode -ne "0") { throw "Error: 'git push origin $TagName' failed!" }
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ created new tag '$TagName' in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`pick-commit.ps1`
+
+```card
+title: pick-commit.ps1
+desc: Cherry-picks a Git commit into multiple branches.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/pick-commit.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+Cherry-picks a Git commit into one or more branches (branch names need to be separated by spaces)
+
+::: warning NOTE 
+
+in case of merge conflicts the script stops immediately!
+
+:::
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./pick-commit.ps1 [[-CommitID] <String>] [[-CommitMessage] <String>] [[-Branches] <String>] [[-RepoDir] <String>] [<CommonParameters>]
+
+-CommitID <String>
+    Specifies the commit ID
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-CommitMessage <String>
+    Specifies the commit message to use
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-Branches <String>
+    Specifies the list of branches, separated by spaces
+    
+    Required?                    false
+    Position?                    3
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-RepoDir <String>
+    Specifies the path to the Git repository
+    
+    Required?                    false
+    Position?                    4
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./pick-commit 93849f889 "Fix typo" "v1 v2 v3"
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Cherry-picks a Git commit into one or more branches
+.DESCRIPTION
+	Cherry-picks a Git commit into one or more branches (branch names need to be separated by spaces)
+	NOTE: in case of merge conflicts the script stops immediately! 
+.PARAMETER CommitID
+	Specifies the commit ID
+.PARAMETER CommitMessage
+	Specifies the commit message to use
+.PARAMETER Branches
+	Specifies the list of branches, separated by spaces
+.PARAMETER RepoDir
+	Specifies the path to the Git repository
+.EXAMPLE
+	PS> ./pick-commit 93849f889 "Fix typo" "v1 v2 v3"
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$CommitID = "", [string]$CommitMessage = "", [string]$Branches = "", [string]$RepoDir = "$PWD")
+
+try {
+	if (-not(Test-Path "$RepoDir" -pathType container)) { throw "Can't access directory: $RepoDir" }
+	Set-Location "$RepoDir"
+
+	if ($CommitID -eq "") { $CommitID = read-host "Enter the Git commit id to cherry-pick" }
+	if ($CommitMessage -eq "") { $CommitMessage = read-host "Enter the commit message to use" }
+	if ($Branches -eq "") { $Branches = read-host "Enter the branches (separated by spaces)" }
+	
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	$BranchArray = $Branches.Split(" ")
+	$NumBranches = $BranchArray.Count
+	foreach($Branch in $BranchArray) {
+
+		"🍒 Switching to branch $Branch ..."
+		& git checkout --recurse-submodules --force $Branch
+		if ($lastExitCode -ne "0") { throw "'git checkout $Branch' failed" }
+
+		"🍒 Updating submodules..."
+		& git submodule update --init --recursive
+		if ($lastExitCode -ne "0") { throw "'git submodule update' failed" }
+
+		"🍒 Cleaning the repository from untracked files..."
+		& git clean -fdx -f
+		if ($lastExitCode -ne "0") { throw "'git clean -fdx -f' failed" }
+			
+		& git submodule foreach --recursive git clean -fdx -f
+		if ($lastExitCode -ne "0") { throw "'git clean -fdx -f' in submodules failed" }
+
+		"🍒 Pulling latest updates..."
+		& git pull --recurse-submodules 
+		if ($lastExitCode -ne "0") { throw "'git pull' failed" }
+
+		"🍒 Checking the status..."
+		$Result = (git status)
+		if ($lastExitCode -ne "0") { throw "'git status' failed" }
+		if ("$Result" -notmatch "nothing to commit, working tree clean") { throw "Branch is NOT clean: $Result" }
+
+		"🍒 Cherry picking..."
+		& git cherry-pick --no-commit "$CommitID"
+		if ($lastExitCode -ne "0") { throw "'git cherry-pick $CommitID' failed" }
+
+		"🍒 Committing..."
+		& git commit -m "$CommitMessage"
+		if ($lastExitCode -ne "0") { throw "'git commit' failed" }
+
+		"🍒 Pushing..."
+		& git push
+		if ($lastExitCode -ne "0") { throw "'git push' failed" }
+	}
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ cherry picked $CommitID into $NumBranches branches in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`pull-repo.ps1`
+
+```card
+title: pull-repo.ps1
+desc: Pulls updates for a Git repository.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/pull-repo.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script pulls the latest updates into a local Git repository (including submodules).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./pull-repo.ps1 [[-RepoDir] <String>] [<CommonParameters>]
+
+-RepoDir <String>
+    Specifies the file path to the local Git repository (default is working directory)
+    
+    Required?                    false
+    Position?                    1
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./pull-repo.ps1 C:\MyRepo
+# ⏳ (1/4) Searching for Git executable...  git version 2.42.0.windows.1
+# ⏳ (2/4) Checking local repository...
+# ⏳ (3/4) Pulling updates...
+# ⏳ (4/4) Updating submodules...
+# ✔️ Pulled updates into repo 📂MyRepo in 14 sec
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Pulls updates into a Git repository
+.DESCRIPTION
+	This PowerShell script pulls the latest updates into a local Git repository (including submodules).
+.PARAMETER RepoDir
+	Specifies the file path to the local Git repository (default is working directory)
+.EXAMPLE
+	PS> ./pull-repo.ps1 C:\MyRepo
+	⏳ (1/4) Searching for Git executable...  git version 2.42.0.windows.1
+	⏳ (2/4) Checking local repository...
+	⏳ (3/4) Pulling updates...
+	⏳ (4/4) Updating submodules...
+	✔️ Pulled updates into repo 📂MyRepo in 14 sec
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$RepoDir = "$PWD")
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "⏳ (1/4) Searching for Git executable...  " -noNewline
+	& git --version
+	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	Write-Host "⏳ (2/4) Checking local repository..."
+	if (-not(Test-Path "$RepoDir" -pathType container)) { throw "Can't access folder: $RepoDir" }
+	$Result = (git -C "$RepoDir" status)
+	if ("$Result" -match "HEAD detached at ") { throw "Currently in detached HEAD state (not on a branch!), so nothing to pull" }
+	$RepoDirName = (Get-Item "$RepoDir").Name
+
+	Write-Host "⏳ (3/4) Pulling updates..."
+	& git -C "$RepoDir" pull --recurse-submodules=yes
+	if ($lastExitCode -ne "0") { throw "'git pull' failed with exit code $lastExitCode" }
+
+	Write-Host "⏳ (4/4) Updating submodules... "
+	& git -C "$RepoDir" submodule update --init --recursive
+	if ($lastExitCode -ne "0") { throw "'git submodule update' failed with exit code $lastExitCode" }
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ Pulled updates into repo 📂$RepoDirName in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`pull-repos.ps1`
+
+```card
+title: pull-repos.ps1
+desc: Pulls updates for all Git repositories in a folder.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/pull-repos.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script pulls updates into all Git repositories in a folder (including submodules).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./pull-repos.ps1 [[-ParentDir] <String>] [<CommonParameters>]
+
+-ParentDir <String>
+    Specifies the path to the parent folder
+    
+    Required?                    false
+    Position?                    1
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./pull-repos C:\MyRepos
+# ⏳ (1) Searching for Git executable...  git version 2.41.0.windows.3
+# ⏳ (2) Checking parent folder...        33 subfolders
+# ⏳ (3/35) Pulling into 📂base256unicode...
+# ...
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Pulls updates into Git repos
+.DESCRIPTION
+	This PowerShell script pulls updates into all Git repositories in a folder (including submodules).
+.PARAMETER ParentDir
+	Specifies the path to the parent folder
+.EXAMPLE
+	PS> ./pull-repos C:\MyRepos
+	⏳ (1) Searching for Git executable...  git version 2.41.0.windows.3
+	⏳ (2) Checking parent folder...        33 subfolders
+	⏳ (3/35) Pulling into 📂base256unicode...
+	...
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$ParentDir = "$PWD")
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "⏳ (1) Searching for Git executable...     " -NoNewline
+	& git --version
+	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	Write-Host "⏳ (2) Checking parent folder...           " -NoNewline
+	if (-not(Test-Path "$ParentDir" -pathType container)) { throw "Can't access folder: $ParentDir" }
+	$Folders = (Get-ChildItem "$ParentDir" -attributes Directory)
+	$NumFolders = $Folders.Count
+	$ParentDirName = (Get-Item "$ParentDir").Name
+	Write-Host "$NumFolders subfolders"
+
+	[int]$Step = 3
+	[int]$Failed = 0
+	foreach ($Folder in $Folders) {
+		$FolderName = (Get-Item "$Folder").Name
+		Write-Host "⏳ ($Step/$($NumFolders + 2)) Pulling into 📂$FolderName...    " -NoNewline
+
+		& git -C "$Folder" pull --recurse-submodules --jobs=4
+		if ($lastExitCode -ne "0") { $Failed++; write-warning "'git pull' in 📂$FolderName failed" }
+
+		& git -C "$Folder" submodule update --init --recursive
+		if ($lastExitCode -ne "0") { throw "'git submodule update' in 📂$Folder failed with exit code $lastExitCode" }
+		$Step++
+	}
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ Pulled updates into $NumFolders repos under 📂$ParentDirName ($Failed failed, took $Elapsed sec)"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`remove-tag.ps1`
+
+```card
+title: remove-tag.ps1
+desc: Removes a tag in a Git repository.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-tag.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script removes a Git tag, either locally, remote, or both.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./remove-tag.ps1 [[-TagName] <String>] [[-Mode] <String>] [[-RepoDir] <String>] [<CommonParameters>]
+
+-TagName <String>
+    Specifies the Git tag name
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-Mode <String>
+    Specifies either locally, remote, or both
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-RepoDir <String>
+    Specifies the path to the Git repository
+    
+    Required?                    false
+    Position?                    3
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./remove-tag v1.7 locally
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Removes a Git tag (locally, remote, or both)
+.DESCRIPTION
+	This PowerShell script removes a Git tag, either locally, remote, or both.
+.PARAMETER TagName
+	Specifies the Git tag name
+.PARAMETER Mode
+	Specifies either locally, remote, or both
+.PARAMETER RepoDir
+	Specifies the path to the Git repository
+.EXAMPLE
+	PS> ./remove-tag v1.7 locally
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$TagName = "", [string]$Mode = "", [string]$RepoDir = "$PWD")
+
+try {
+	if ($TagName -eq "") { $TagName = read-host "Enter new tag name" }
+	if ($Mode -eq "") { $Mode = read-host "Remove the tag locally, remote, or both" }
+
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if (-not(test-path "$RepoDir" -pathType container)) { throw "Can't access directory: $RepoDir" }
+
+	$Null = (git --version)
+	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	if (($Mode -eq "locally") -or ($Mode -eq "both")) {
+		"Removing local tag..."
+		& git -C "$RepoDir" tag --delete $TagName
+		if ($lastExitCode -ne "0") { throw "'git tag --delete' failed with exit code $lastExitCode" }
+	}
+
+	if (($Mode -eq "remote") -or ($Mode -eq "both")) {
+		"Removing remote tag..."
+		& git -C "$RepoDir" push origin :refs/tags/$TagName
+		if ($lastExitCode -ne "0") { throw "'git push origin' failed with exit code $lastExitCode" }
+	}
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ removed tag '$TagName' in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`switch-branch.ps1`
+
+```card
+title: switch-branch.ps1
+desc: Switches the branch in a Git repository.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/switch-branch.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script switches to another branch in a Git repository (including submodules).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./switch-branch.ps1 [[-BranchName] <String>] [[-RepoDir] <String>] [<CommonParameters>]
+
+-BranchName <String>
+    Specifies the branch name
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-RepoDir <String>
+    Specifies the path to the local Git repository
+    
+    Required?                    false
+    Position?                    2
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./switch-branch main C:\MyRepo
+# ⏳ (1/6) Searching for Git executable...   git version 2.42.0.windows.1
+# ⏳ (2/6) Checking local repository...
+# ⏳ (3/6) Fetching updates...
+# ⏳ (4/6) Switching to branch 'main'...
+# ⏳ (5/6) Pulling updates...
+# ⏳ (6/6) Updating submodules...
+# ✔️ Switched repo 📂MyRepo to branch 'main' (took 22 sec)
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Switches the Git branch
+.DESCRIPTION
+	This PowerShell script switches to another branch in a Git repository (including submodules).
+.PARAMETER BranchName
+	Specifies the branch name
+.PARAMETER RepoDir
+	Specifies the path to the local Git repository
+.EXAMPLE
+	PS> ./switch-branch main C:\MyRepo
+	⏳ (1/6) Searching for Git executable...   git version 2.42.0.windows.1
+	⏳ (2/6) Checking local repository...
+	⏳ (3/6) Fetching updates...
+	⏳ (4/6) Switching to branch 'main'...
+	⏳ (5/6) Pulling updates...
+	⏳ (6/6) Updating submodules...
+	✔️ Switched repo 📂MyRepo to branch 'main' (took 22 sec)
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$BranchName = "", [string]$RepoDir = "$PWD")
+
+try {
+	if ($BranchName -eq "") { $BranchName = read-host "Enter name of branch to switch to" }
+	if ($RepoDir -eq "") { $RepoDir = read-host "Enter path to the local Git repository" }
+
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "⏳ (1/6) Searching for Git executable...   " -noNewline
+	& git --version
+	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	Write-Host "⏳ (2/6) Checking local repository..."
+	$RepoDir = Resolve-Path "$RepoDir"
+	if (-not(Test-Path "$RepoDir" -pathType container)) { throw "Can't access directory: $RepoDir" }
+	$Result = (git status)
+	if ($lastExitCode -ne "0") { throw "'git status' in $RepoDir failed with exit code $lastExitCode" }
+	if ("$Result" -notmatch "nothing to commit, working tree clean") { throw "Git repository is NOT clean: $Result" }
+	$RepoDirName = (Get-Item "$RepoDir").Name
+
+	"⏳ (3/6) Fetching updates..."
+	& git -C "$RepoDir" fetch --all --prune --prune-tags --force
+	if ($lastExitCode -ne "0") { throw "'git fetch' failed with exit code $lastExitCode" }
+
+	"⏳ (4/6) Switching to branch '$BranchName'..."
+	& git -C "$RepoDir" checkout --recurse-submodules "$BranchName"
+	if ($lastExitCode -ne "0") { throw "'git checkout $BranchName' failed with exit code $lastExitCode" }
+
+	"⏳ (5/6) Pulling updates..."
+	& git -C "$RepoDir" pull --recurse-submodules
+	if ($lastExitCode -ne "0") { throw "'git pull' failed with exit code $lastExitCode" }
+
+	"⏳ (6/6) Updating submodules..."	
+	& git -C "$RepoDir" submodule update --init --recursive
+	if ($lastExitCode -ne "0") { throw "'git submodule update' failed with exit code $lastExitCode" }
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ Switched repo 📂$RepoDirName to branch '$BranchName' (took $Elapsed sec)"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
+
+## <FontIcon icon="iconfont icon-file"/>`sync-repo.ps1`
+
+```card
+title: sync-repo.ps1
+desc: Synchronizes a Git repository by pull & push.
+link: https://github.com/fleschutz/PowerShell/blob/master/Docs/sync-repo.md
+logo: https://avatars.githubusercontent.com/u/16557787?v=4
+color: rgba(10, 10, 10, 0.2)
+```
+
+This PowerShell script synchronizes a local Git repository by pull and push (including submodules).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./sync-repo.ps1 [[-path] <String>] [<CommonParameters>]
+
+-path <String>
+    Specifies the path to the Git repository
+    
+    Required?                    false
+    Position?                    1
+    Default value                "$PWD"
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./sync-repo.ps1 C:\MyRepo
+# ⏳ (1/4) Searching for Git executable...  git version 2.42.0.windows.1
+# ⏳ (2/4) Checking local repository...     📂C:\MyRepo
+# ⏳ (3/4) Pulling remote updates...        Already up to date.
+# ⏳ (4/4) Pushing local updates...         Everything up-to-date
+# ✔️ Synced repo 📂MyRepo in 5 sec
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Synchronizes a repo 
+.DESCRIPTION
+	This PowerShell script synchronizes a local Git repository by pull and push (including submodules).
+.PARAMETER path
+	Specifies the path to the Git repository
+.EXAMPLE
+	PS> ./sync-repo.ps1 C:\MyRepo
+	⏳ (1/4) Searching for Git executable...  git version 2.42.0.windows.1
+	⏳ (2/4) Checking local repository...     📂C:\MyRepo
+	⏳ (3/4) Pulling remote updates...        Already up to date.
+	⏳ (4/4) Pushing local updates...         Everything up-to-date
+	✔️ Synced repo 📂MyRepo in 5 sec
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$path = "$PWD")
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "⏳ (1/4) Searching for Git executable...  " -noNewline
+ 	& git --version
+ 	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	Write-Host "⏳ (2/4) Checking local repository...     📂$path"
+	if (!(Test-Path "$path" -pathType container)) { throw "Can't access folder: $path" }
+	$pathName = (Get-Item "$path").Name
+
+	Write-Host "⏳ (3/4) Pulling remote updates...        " -noNewline
+	& git -C "$Path" pull --all --recurse-submodules
+	if ($lastExitCode -ne "0") { throw "'git pull --all --recurse-submodes' failed" }
+
+	Write-Host "⏳ (4/4) Pushing local updates...         " -noNewline
+	& git -C "$Path" push
+	if ($lastExitCode -ne "0") { throw "'git push' failed" }
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ Synced repo 📂$pathName in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
+---
 
 <TagLinks />

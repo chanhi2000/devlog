@@ -3,202 +3,202 @@
     "repo": "anggrayudi/SimpleStorage",
     "desc": "💾 Simplify Android Storage Access Framework for file management across API levels",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "PRNDcompany/PersistBottomSheetFragment",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Memrise/plaid",
     "desc": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "google/flexbox-layout",
     "desc": "Flexbox for Android",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "airbnb/epoxy",
     "desc": "Epoxy is an Android library for building complex screens in a RecyclerView",
     "officialSite": "https://goo.gl/eIK82p",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "TeamNewPipe/NewPipe",
     "desc": "A libre lightweight streaming front-end for Android.",
     "officialSite": "https://newpipe.net",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tachiyomiorg/tachiyomi",
     "desc": "Free and open source manga reader for Android. ",
     "officialSite": "https://tachiyomi.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "skylot/jadx",
     "desc": "Dex to Java decompiler ",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "facebook/shimmer-android",
     "desc": "An easy, flexible way to add a shimmering effect to any view in an Android app.",
     "officialSite": "http://facebook.github.io/shimmer-android",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "judemanutd/KaTeXView",
     "desc": "KaTeX View for android",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "MasayukiSuda/Mp4Composer-android",
     "desc": "This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "karma9874/AndroRAT",
     "desc": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "DrKLO/Telegram",
     "desc": "Telegram for Android source",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "google/perfetto",
     "desc": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto)",
     "officialSite": "https://www.perfetto.dev",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "coil-kt/coil",
     "desc": "Image loading for Android backed by Kotlin Coroutines.",
     "officialSite": "https://coil-kt.github.io/coil",
-    "topics": ["android", "kotlin", "images", "coroutines", "okhttp", "image-loader", "kotlin-coroutines", "okio", "androidx"]    
+    "topics": ["android", "kotlin", "images", "coroutines", "okhttp", "image-loader", "kotlin-coroutines", "okio", "androidx"]
   }, {
     "repo": "facebook/fresco",
     "desc": "An Android library for managing images and the memory they use.",
     "officialSite": "https://frescolib.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "hootsuite/nachos",
     "desc": "Material Chips for Android",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "android/architecture-templates",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tiann/KernelSU",
     "desc": "A Kernel based root solution for Android",
     "officialSite": "https://kernelsu.org",
-    "topics": ["android", "kernel", "root", "su", "kernelsu"]    
+    "topics": ["android", "kernel", "root", "su", "kernelsu"]
   }, {
     "repo": "lsrom/webview-tester",
     "desc": "Test your web app in Android web view with visible console logs.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "TeamVanced/VancedMicroG",
     "desc": "MicroG tweaked to work for applications such as Vanced.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "android/nowinandroid",
     "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
     "officialSite": "https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "libre-tube/LibreTube",
     "desc": "An alternative YouTube front end, for Android.",
     "officialSite": "https://libre-tube.github.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tranleduy2000/ncalc",
     "desc": "Power calculator for Android. Solve some problem algebra and calculus.",
     "officialSite": "https://play.google.com/store/apps/details?id=com.duy.calculator.free",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "RocketChat/Rocket.Chat",
     "desc": "The communications platform that puts data protection first.",
     "officialSite": "https://rocket.chat",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Kr328/ClashForAndroid",
     "desc": "A rule-based tunnel for Android.",
     "officialSite": "https://play.google.com/store/apps/details?id=com.github.kr328.clash",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Automattic/pocket-casts-android",
     "desc": "Pocket Casts Android 🎧",
     "officialSite": "https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mastodon/mastodon-android",
     "desc": "Official Android app for Mastodon",
     "officialSite": "https://app.joinmastodon.org/android",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "skydoves/chatgpt-android",
     "desc": "📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "recloudstream/cloudstream",
     "desc": "Android app for streaming and downloading Movies, TV-Series and Anime.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "lukeaschenbrenner/TxtNet-Browser",
     "desc": "An app that lets you browse the web over SMS",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "bufferapp/MultiActionSwipeHelper",
     "desc": "An Android RecyclerView Swipe Helper for handling multiple actions per direction",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "omtodkar/ShimmerRecyclerView",
     "desc": "A custom Shimmer RecyclerView which adopt to list / grid transition automatically and also supports multiple view types while shimmering.",
     "officialSite": "",
-    "topics": ["android", "recyclerview", "shimmer", "shimmerlayout", "shimmer-android", "shimmer-layout", "shimmer-recyclerview", "shimmerrecyclerview"]    
+    "topics": ["android", "recyclerview", "shimmer", "shimmerlayout", "shimmer-android", "shimmer-layout", "shimmer-recyclerview", "shimmerrecyclerview"]
   }, {
     "repo": "Marksss/AndroidAutoSwitcher",
     "desc": "AutoSwitchView, a view animating between two items for Android, supports multiple switching animations or you can customize your own strategy of animations. And its child view can be reused.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nntuyen/mkloader",
     "desc": "Beautiful and smooth custom loading views",
     "officialSite": "",
-    "topics": ["android", "custom", "view", "animation", "loader", "custom-view", "loading", "loading-animation"]    
+    "topics": ["android", "custom", "view", "animation", "loader", "custom-view", "loading", "loading-animation"]
   }, {
     "repo": "httptoolkit/httptoolkit-android",
     "desc": "Automatic Android interception & debugging with HTTP Toolkit, for Android",
     "officialSite": "https://httptoolkit.com",
-    "topics": ["android", "debugging", "http", "android-development", "android-debug", "android-tools"]    
+    "topics": ["android", "debugging", "http", "android-development", "android-debug", "android-tools"]
   }, {
     "repo": "2dust/v2rayNG",
     "desc": "A V2Ray client for Android, support Xray core and v2fly core",
     "officialSite": "https://1.2345345.xyz",
-    "topics": ["android", "proxy", "socks5", "shadowsocks", "vpn", "trojan", "v2ray", "vmess", "xray", "v2fly", "vless", "xtls"]    
+    "topics": ["android", "proxy", "socks5", "shadowsocks", "vpn", "trojan", "v2ray", "vmess", "xray", "v2fly", "vless", "xtls"]
   }, {
     "repo": "agrosner/DBFlow",
     "desc": "A blazing fast, powerful, and very simple ORM android database library that writes database code for you.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sadellie/unitto",
     "desc": "Calculator and unit converter for Android written in Jetpack Compose",
     "officialSite": "https://sadellie.github.io/unitto",
-    "topics": ["android", "kotlin", "calculator", "material-design", "kotlin-android", "jetpack", "product-hunt", "unit-conversion", "unit-converter", "poeditor", "android-app", "kotlin-coroutines", "jetpack-navigation", "jetpack-android", "jetpack-compose", "jetpackcompose", "compose-navigation", "material-you", "material-design-3", "material-you-3"]    
+    "topics": ["android", "kotlin", "calculator", "material-design", "kotlin-android", "jetpack", "product-hunt", "unit-conversion", "unit-converter", "poeditor", "android-app", "kotlin-coroutines", "jetpack-navigation", "jetpack-android", "jetpack-compose", "jetpackcompose", "compose-navigation", "material-you", "material-design-3", "material-you-3"]
   }, {
     "repo": "dessalines/jerboa",
     "desc": "A native android app for Lemmy",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Droppers/TimeRangePicker",
     "desc": "A customizable, easy-to-use, and functional circular time range picker library for Android. Use this library to mimic Apple's iOS or Samsung's bedtime picker.",
@@ -208,7 +208,7 @@
     "repo": "MackHartley/RoundedProgressBar",
     "desc": "A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use 🎉",
     "officialSite": "",
-    "topics": ["android", "progress-bar", "android-library", "animated", "rounded-corners"]    
+    "topics": ["android", "progress-bar", "android-library", "animated", "rounded-corners"]
   }, {
     "repo": "QuickBirdEng/SurveyKit",
     "desc": "Android library to create beautiful surveys (aligned with ResearchKit on iOS)",
@@ -223,26 +223,26 @@
     "repo": "ParkSangGwon/TedImagePicker",
     "desc": "TedImagePicker is simple/beautiful/smart image picker",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "cooklang/cooklang-android",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Docile-Alligator/Infinity-For-Reddit",
     "desc": "A Reddit client for Android",
     "officialSite": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit",
-    "topics": ["android", "java", "reddit", "reddit-client"]    
+    "topics": ["android", "java", "reddit", "reddit-client"]
   }, {
     "repo": "simplex-chat/simplex-chat",
     "desc": "SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!",
     "officialSite": "https://simplex.chat",
-    "topics": ["chat", "security", "haskell", "privacy", "encryption", "protocol", "messaging", "e2ee", "double-ratchet"]    
+    "topics": ["chat", "security", "haskell", "privacy", "encryption", "protocol", "messaging", "e2ee", "double-ratchet"]
   }, {
     "repo": "MoKee/android_packages_apps_WarpShare",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }
 ]

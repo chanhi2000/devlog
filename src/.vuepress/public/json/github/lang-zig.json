@@ -3,16 +3,16 @@
     "repo": "ziglang/zig",
     "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
     "officialSite": "https://ziglang.org",
-    "topics": ["language", "compiler", "zig"]    
+    "topics": ["language", "compiler", "zig"]
   }, {
     "repo": "andrewrk/poop",
     "desc": "Performance Optimizer Observation Platform",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "oven-sh/bun",
     "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
     "officialSite": "https://bun.sh",
-    "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"]    
+    "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"]
   }
 ]

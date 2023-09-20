@@ -60,6 +60,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-pwsh/scripts-for-desktop.md',
         '/g4e/cli-pwsh/scripts-to-convert-files.md',
         '/g4e/cli-pwsh/scripts-for-git.md',
+        '/g4e/cli-pwsh/scripts-for-pwsh.md',
         '/g4e/cli-pwsh/tips.md',
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',
@@ -843,7 +844,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/34.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/35.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/36.md',
-        '/crashcourse/paul-hudson-100-days-of-swiftui/37.md'
+        '/crashcourse/paul-hudson-100-days-of-swiftui/37.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/38.md',
 
       ]
     }, {

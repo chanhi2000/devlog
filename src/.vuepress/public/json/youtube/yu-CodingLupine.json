@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "CodingLupine",
+    "name": "코딩루팡 CodingLupine",
+    "profile": "https://yt3.googleusercontent.com/vkvLZS2gLn8JRxVmFkchK46iM45tWnq6fCtkUvcDED37AvTDjmVX6DRkAF9huwMxI2gdc4WkN88=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j7q8nsWymqi6zyuJPINOkX08YeXrMUxbED8YmoXjOpF9ZSLnRUkQ2Nb-MDtM0Pm17ORB8w87=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "35jSbzRM8NA", "title": "React - 사용자 입력 처리 | 심리상담사 ChatGPT AI 회고록 10편 | #chatgpt  #리액트 #react" },
+    { "id": "049_8QDEWMo", "title": "React - 스타일링 | 심리상담사 ChatGPT AI 회고록 11편 | #chatgpt  #리액트 #react" }        
+  ]
+}

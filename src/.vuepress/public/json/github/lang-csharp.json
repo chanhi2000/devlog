@@ -3,207 +3,207 @@
     "repo": "scottplot/scottplot",
     "desc": "Interactive Plotting Library for .NET",
     "officialSite": "https://scottplot.net",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/PowerToys",
     "desc": "Windows system utilities to maximize productivity",
     "officialSite": "",
-    "topics": ["windows", "color-picker", "desktop", "keyboard-manager", "powertoys", "fancyzones", "microsoft-powertoys", "powerrename"]    
+    "topics": ["windows", "color-picker", "desktop", "keyboard-manager", "powertoys", "fancyzones", "microsoft-powertoys", "powerrename"]
   }, {
     "repo": "valinet/ExplorerPatcher",
     "desc": "This project aims to enhance the working environment on Windows",   
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/calculator",
     "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",   
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "coofcookie/Windows11Upgrade",
     "desc": "Windows 11 Upgrade tool that bypasses Microsoft´s requirements",   
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "dotnet/maui",
     "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",    
     "officialSite": "https://dot.net/maui",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "bitwarden/server",
     "desc": "The core infrastructure backend (API, database, Docker, etc).",    
     "officialSite": "https://bitwarden.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "PRQL/prql",
     "desc": "PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement",
     "officialSite": "https://prql-lang.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "unoplatform/uno",
     "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
     "officialSite": "https://platform.uno"       ,
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Const-me/Whisper",
     "desc": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model",    
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/semantic-kernel",
     "desc": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "officialSite": "https://aka.ms/semantic-kernel",
-    "topics": ["sdk", "ai", "artificial-intelligence", "openai", "llm"]    
+    "topics": ["sdk", "ai", "artificial-intelligence", "openai", "llm"]
   }, {
     "repo": "keijiro/AICommand",
     "desc": "ChatGPT integration with Unity Editor",    
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "files-community/Files",
     "desc": "Building the best file manager experience for Windows",
     "officialSite": "https://files.community",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "keijiro/UnityMLStableDiffusion",
     "desc": "Core ML Stable Diffusion on Unity",    
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "DeSinc/SallyBot",
     "desc": "AI Chatbot coded in Discord.net C#",    
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "optikey/optikey",
     "desc": "OptiKey - Full computer control and speech with your eyes",    
     "officialSite": "http://www.optikey.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mivano/azure-cost-cli",
     "desc": "CLI tool to perform cost analysis on your Azure subscription",    
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "MassTransit/MassTransit",
     "desc": "Distributed Application Framework for .NET",
     "officialSite": "https://masstransit.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "2dust/v2rayN",
     "desc": "A GUI client for Windows, support Xray core and v2fly core and others",
     "officialSite": "https://1.2345345.xyz",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "btcpayserver/btcpayserver",
     "desc": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
     "officialSite": "https://btcpayserver.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "felixse/FluentTerminal",
     "desc": "A Terminal Emulator based on UWP and web technologies.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "shahedc/multiweb",
     "desc": "Multiple projects for debugging sample.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Ryujinx/Ryujinx",
     "desc": "Experimental Nintendo Switch Emulator written in C#",
     "officialSite": "https://www.ryujinx.org",
-    "topics": ["emulator", "csharp", "dotnet", "emulation", "switch", "dotnet-core"]    
+    "topics": ["emulator", "csharp", "dotnet", "emulation", "switch", "dotnet-core"]
   }, {
     "repo": "jellyfin/jellyfin",
     "desc": "The Free Software Media System",
     "officialSite": "https://jellyfin.org",
-    "topics": ["csharp", "dotnet", "hacktoberfest", "jellyfin"]    
+    "topics": ["csharp", "dotnet", "hacktoberfest", "jellyfin"]
   }, {
     "repo": "jamesnet214/leagueoflegends",
     "desc": "League of Legends client demo that made using WPF",
     "officialSite": "",
-    "topics": ["csharp", "dotnet", "wpf"]    
+    "topics": ["csharp", "dotnet", "wpf"]
   }, {
     "repo": "PowerShell/PowerShell",
     "desc": "PowerShell for every system!",
     "officialSite": "https://microsoft.com/PowerShell",
-    "topics": ["windows", "macos", "linux", "shell", "command-line", "powershell", "netcore", "hacktoberfest"]    
+    "topics": ["windows", "macos", "linux", "shell", "command-line", "powershell", "netcore", "hacktoberfest"]
   }, {  
     "repo": "dogu-team/gamium",
     "desc": "Gamium provides the ability to script the behavior of game users",
     "officialSite": "https://gamium.dogutech.io",
-    "topics": ["game", "games", "game-development", "test-automation", "game-tester", "game-testing", "game-test-automation"]    
+    "topics": ["game", "games", "game-development", "test-automation", "game-tester", "game-testing", "game-test-automation"]
   }, {
     "repo": "Kneesnap/onstream-data-recovery",
     "desc": "A repository detailing data recovery of OnStream tapes.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/devhome",
     "desc": "Windows Dev Home Application",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/devhomegithubextension",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Fictiverse/Redream",
     "desc": "Realtime Diffusion, using Automatic1111 Stable Diffusion API",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "git-ecosystem/git-credential-manager",
     "desc": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
     "officialSite": "",
-    "topics": ["github", "git", "gitlab", "authentication", "cross-platform", "bitbucket", "aad", "credential", "azure-devops", "azure-repos"]    
+    "topics": ["github", "git", "gitlab", "authentication", "cross-platform", "bitbucket", "aad", "credential", "azure-devops", "azure-repos"]
   }, {
     "repo": "Jessecar96/SteamDesktopAuthenticator",
     "desc": "Desktop implementation of Steam's mobile authenticator app",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jasontaylordev/CleanArchitecture",
     "desc": "Clean Architecture Solution Template for ASP.NET Core",
     "officialSite": "",
-    "topics": ["template", "angular", "dotnet", "clean-architecture"]    
+    "topics": ["template", "angular", "dotnet", "clean-architecture"]
   }, {
     "repo": "dotnet-architecture/eShopOnContainers",
     "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
     "officialSite": "https://dot.net/architecture",
-    "topics": ["docker", "microservices", "spa", "xamarin", "ddd", "netcore", "ddd-patterns", "windowscontainers"]    
+    "topics": ["docker", "microservices", "spa", "xamarin", "ddd", "netcore", "ddd-patterns", "windowscontainers"]
   }, {
     "repo": "davidfowl/TodoApi",
     "desc": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
     "officialSite": "",
-    "topics": ["jwt", "authentication", "aspnetcore", "rest-api", "cookies", "webassembly", "dotnet-core", "blazor", "opentelemetry"]    
+    "topics": ["jwt", "authentication", "aspnetcore", "rest-api", "cookies", "webassembly", "dotnet-core", "blazor", "opentelemetry"]
   }, {
     "repo": "SebLague/Chess-Challenge",
     "desc": "https://youtu.be/iScy18pVR58",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Uahh/ToastFish",
     "desc": "一个利用摸鱼时间背单词的软件。",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "T0biasCZe/AdbFileManager",
     "desc": "Fast Android <-> Windows file manager using ADB protocol",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "AzureAD/microsoft-authentication-library-for-dotnet",
     "desc": "Microsoft Authentication Library (MSAL) for .NET",
     "officialSite": "https://aka.ms/aaddev",
-    "topics": ["microsoft", "identity", "xamarin", "dotnet", "uwp", "netcore", "azure-active-directory", "wam", "msal", "maui"]    
+    "topics": ["microsoft", "identity", "xamarin", "dotnet", "uwp", "netcore", "azure-active-directory", "wam", "msal", "maui"]
   }, {
     "repo": "LorisYounger/VPet",
     "desc": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
     "officialSite": "",
-    "topics": ["wpf", "desktop-pet"]    
+    "topics": ["wpf", "desktop-pet"]
   }, {
     "repo": "stride3d/stride",
     "desc": "Stride Game Engine (formerly Xenko)",

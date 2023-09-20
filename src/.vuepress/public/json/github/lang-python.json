@@ -2668,5 +2668,25 @@
     "desc": "An open source, non-profit search engine implemented in python",
     "officialSite": "https://mwmbl.org",
     "topics": ["search-engine", "non-profit"]
+  }, {
+    "repo": "NExT-GPT/NExT-GPT",
+    "desc": "Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model",
+    "officialSite": "https://next-gpt.github.io",
+    "topics": ["chatgpt", "foundation-models", "gpt-4", "instruction-tuning", "large-language-models", "llm", "multi-modal-chatgpt", "multimodal", "visual-language-learning"]
+  }, {
+    "repo": "sczhou/ProPainter",
+    "desc": "[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting",
+    "officialSite": "https://shangchenzhou.com/projects/ProPainter",
+    "topics": ["object-removal", "video-completion", "video-inpainting", "video-outpainting", "watermark-removal"]
+  }, {
+    "repo": "ArthurFerreira2/reinette-II-plus-dot-py",
+    "desc": "Apple II emulator in python",
+    "officialSite": "",
+    "topics": ["appleii", "emulator", "python"]
+  }, {
+    "repo": "kubernetes-sigs/kubespray",
+    "desc": "Deploy a Production Ready Kubernetes Cluster",
+    "officialSite": "",
+    "topics": ["ansible", "aws", "bare-metal", "gce", "hacktoberfest", "high-availability", "k8s-sig-cluster-lifecycle", "kubernetes", "kubernetes-cluster", "kubespray"]
   }
 ]

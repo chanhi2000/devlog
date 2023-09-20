@@ -3,21 +3,21 @@
     "repo": "inancgumus/learngo",
     "desc": "❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "marcel-dempers/docker-development-youtube-series",
     "desc": "A Collection of tools, hands-on walkthroughs with source code.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Furkan-Gulsen/turkce-go-egitimi",
     "desc": "Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar.",
     "officialSite": "https://docs.furkangulsen.com/golang-dokumani",
-    "topics": ["go", "golang", "go-documentation", "golang-docs", "golang-docs-turkce", "go-turkce-kaynak", "golang-turkce-kaynak"]    
+    "topics": ["go", "golang", "go-documentation", "golang-docs", "golang-docs-turkce", "go-turkce-kaynak", "golang-turkce-kaynak"]
   }, {
     "repo": "MatthewJamesBoyle/golang-interview-prep",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }
 ]

@@ -3,1467 +3,1467 @@
     "repo": "SadeghHayeri/GreenTunnel",
     "desc": "GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "hahnlee/hwp.js",
     "desc": "Open source hwp viewer and parser library powered by web technology",
     "officialSite": "https://hanlee.io/hwp.js",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "my-school-info/neis-api",
     "desc": "Node.js 나이스 오픈 API 라이브러리 (Typescript 지원)  ",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "strapi/strapi",
     "desc": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
     "officialSite": "https://strapi.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "withastro/astro",
     "desc": "BThe all-in-one web framework designed for speed. ⭐️ Star to support our work!",
     "officialSite": "https://astro.build",
-    "topics": ["blog", "static-site-generator", "components", "node", "browser", "server", "universal", "static", "astro", "hybrid", "islands"]    
+    "topics": ["blog", "static-site-generator", "components", "node", "browser", "server", "universal", "static", "astro", "hybrid", "islands"]
   }, {
     "repo": "odoo/odoo",
     "desc": "Odoo. Open Source Apps To Grow Your Business.",
     "officialSite": "https://www.odoo.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tarutin/hovrly",
     "desc": "Hovrly — best partner for disctributed teams",
     "officialSite": "https://hovrly.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "kelektiv/node-cron",
     "desc": "Cron for NodeJS.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "alibaba/ice",
     "desc": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）",
     "officialSite": "https://ice.work",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "lusaxweb/vuesax-next",
     "desc": "Vuesax v4: framework components for Vuejs",
     "officialSite": "https://vuesax.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Cveinnt/LiveTerm",
     "desc": "💻 Build terminal styled websites in minutes!",
     "officialSite": "https://liveterm.vercel.app",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nkallen/plasticity",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jaredh159/tailwind-react-native-classnames",
     "desc": "simple, expressive API for tailwindcss + react-native",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "louislam/uptime-kuma",
     "desc": "A fancy self-hosted monitoring tool",
     "officialSite": "https://uptime.kuma.pet",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jamealg/KT-companion",
     "desc": "A hiking and backpacking trail companion progressive web app",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "select2/select2",
     "desc": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
     "officialSite": "https://select2.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "thunlp/WantWords",
     "desc": "An open-source online reverse dictionary.",
     "officialSite": "https://wantwords.net",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "DustinBrett/daedalOS",
     "desc": "Desktop environment in the browser.",
     "officialSite": "https://dustinbrett.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "UnblockNeteaseMusic/server",
     "desc": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "solana-labs/solana-pay",
     "desc": "A new standard for decentralized payments.",
     "officialSite": "https://solanapay.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "trpc/trpc",
     "desc": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
     "officialSite": "https://trpc.io",
-    "topics": ["react", "api", "typescript", "nextjs", "next", "prisma"]    
+    "topics": ["react", "api", "typescript", "nextjs", "next", "prisma"]
   }, {
     "repo": "flashbots/simple-arbitrage",
     "desc": "Example arbitrage bot using Flashbots",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "roots/bud",
     "desc": "⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore",
     "officialSite": "https://bud.js.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "remix-run/remix",
     "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
     "officialSite": "https://remix.run",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "iptv-org/iptv",
     "desc": "Collection of publicly available IPTV channels from all over the world",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nolanlawson/fuite",
     "desc": "A tool for finding memory leaks in web apps",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "medusajs/medusa",
     "desc": "The open-source Shopify alternative ⚡️",
     "officialSite": "https://medusajs.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "AsyncBanana/microdiff",
     "desc": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "laurent22/joplin",
     "desc": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
     "officialSite": "https://joplinapp.org",
-    "topics": ["electron", "nodejs", "javascript", "android", "react-native", "dropbox", "synchronisation", "nextcloud", "onedrive", "webdav", "note-taking", "evernote", "web-clipper", "enex-files", "joplin"]    
+    "topics": ["electron", "nodejs", "javascript", "android", "react-native", "dropbox", "synchronisation", "nextcloud", "onedrive", "webdav", "note-taking", "evernote", "web-clipper", "enex-files", "joplin"]
   }, {
     "repo": "marktext/marktext",
     "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
     "officialSite": "https://marktext.app",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "facebook/flipper",
     "desc": "A desktop debugging platform for mobile developers.",
     "officialSite": "https://fbflipper.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "facebook/jest",
     "desc": "Delightful JavaScript Testing.",
     "officialSite": "https://jestjs.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "pulsar-edit/pulsar",
     "desc": "A Community-led Hyper-Hackable Text Editor",
     "officialSite": "https://pulsar-edit.dev",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "DulLabs/bhai-lang",
     "desc": "A toy programming language written in Typescript",
     "officialSite": "https://bhailang.js.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mathjax/MathJax",
     "desc": "Beautiful and accessible math in all browsers",
     "officialSite": "http://www.mathjax.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "vuetifyjs/vuetify",
     "desc": "🐉 Vue Component Framework",
     "officialSite": "https://vuetifyjs.com",
-    "topics": ["javascript", "ui-design", "semantic", "vuejs", "typescript", "ui", "vue", "material", "material-design", "vue-components", "material-components", "ui-kit", "material-theme", "ui-components", "vue-material", "vuetify", "ui-library", "vuetifyjs", "vuejs3"]    
+    "topics": ["javascript", "ui-design", "semantic", "vuejs", "typescript", "ui", "vue", "material", "material-design", "vue-components", "material-components", "ui-kit", "material-theme", "ui-components", "vue-material", "vuetify", "ui-library", "vuetifyjs", "vuejs3"]
   }, {
     "repo": "automerge/automerge",
     "desc": "A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.",
     "officialSite": "http://automerge.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "windowjs/windowjs",
     "desc": "Window.js is an open-source Javascript runtime for desktop graphics programming.",
     "officialSite": "https://windowjs.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "moment/moment",
     "desc": "Parse, validate, manipulate, and display dates in javascript.",
     "officialSite": "http://momentjs.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ciderapp/Cider",
     "desc": "A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀",
     "officialSite": "https://cider.sh",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "actualbudget/actual-server",
     "desc": "Actual's Server",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "actualbudget/actual",
     "desc": "A local-first personal finance app",
     "officialSite": "https://actualbudget.org",
-    "topics": ["hacktoberfest"]    
+    "topics": ["hacktoberfest"]
   }, {
     "repo": "hgoebl/mobile-detect.js",
     "desc": "Device detection (phone, tablet, desktop, mobile grade, os, versions) ",
     "officialSite": "http://hgoebl.github.io/mobile-detect.js",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "semantic-org/semantic-ui",
     "desc": "Semantic is a UI component framework based around useful principles from natural language.",
     "officialSite": "http://www.semantic-ui.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "hoppscotch/hoppscotch",
     "desc": "👽 Open source API development ecosystem - https://hoppscotch.io",
     "officialSite": "https://hoppscotch.io",
-    "topics": ["testing", "api", "graphql", "http", "vuejs", "spa", "tools", "pwa", "rest", "vue", "rest-api", "websocket", "http-client", "api-client", "developer-tools", "api-rest", "testing-tools", "api-testing", "hacktoberfest"]    
+    "topics": ["testing", "api", "graphql", "http", "vuejs", "spa", "tools", "pwa", "rest", "vue", "rest-api", "websocket", "http-client", "api-client", "developer-tools", "api-rest", "testing-tools", "api-testing", "hacktoberfest"]
   }, {
     "repo": "utterance/utterances",
     "desc": "🔮 A lightweight comments widget built on GitHub issues",
     "officialSite": "https://utteranc.es",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "shinework/photoshot",
     "desc": "",
     "officialSite": "https://photoshot.app",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "lensterxyz/lenster",
     "desc": "Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿",
     "officialSite": "https://lenster.xyz",
-    "topics": ["react", "graphql", "social-media", "typescript", "nextjs", "dapp", "ipfs", "blockchain", "polygon", "web3", "hacktoberfest", "tailwindcss", "arweave", "playwright", "turborepo", "wagmi", "lens-protocol"]    
+    "topics": ["react", "graphql", "social-media", "typescript", "nextjs", "dapp", "ipfs", "blockchain", "polygon", "web3", "hacktoberfest", "tailwindcss", "arweave", "playwright", "turborepo", "wagmi", "lens-protocol"]
   }, {
     "repo": "directus/directus",
     "desc": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
     "officialSite": "https://directus.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "home-assistant/frontend",
     "desc": "🍭 Frontend for Home Assistant",
     "officialSite": "https://demo.home-assistant.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "wesbos/pommade",
     "desc": "A menu bar app to check your hair",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "awslabs/aws-icons-for-plantuml",
     "desc": "PlantUML sprites, macros, and other includes for Amazon Web Services services and resources",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "PrismJS/prism",
     "desc": "Lightweight, robust, elegant syntax highlighting.",
     "officialSite": "https://prismjs.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "hmartiro/riffusion-app",
     "desc": "Stable diffusion for real-time music generation",
     "officialSite": "http://riffusion.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "chartjs/Chart.js",
     "desc": "Simple HTML5 Charts using the `<canvas>` tag",
     "officialSite": "https://www.chartjs.org",
-    "topics": ["javascript", "chart", "html5", "canvas", "graph", "hacktoberfest", "html5-charts"]    
+    "topics": ["javascript", "chart", "html5", "canvas", "graph", "hacktoberfest", "html5-charts"]
   }, {
     "repo": "carson-katri/dream-textures",
     "desc": "Stable Diffusion built-in to Blender",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "xiaoxian521/vue-pure-admin",
     "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
     "officialSite": "https://yiming_chang.gitee.io/vue-pure-admin",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "CorwinDev/Discord-Bot",
     "desc": "Discord Bot with over 400 commands and made for large servers",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Infisical/infisical",
     "desc": "♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.",
     "officialSite": "https://infisical.com",
-    "topics": ["react", "nodejs", "cli", "golang", "open-source", "security", "typescript", "nextjs", "secret-management", "secrets", "environment-variables", "end-to-end-encryption"]    
+    "topics": ["react", "nodejs", "cli", "golang", "open-source", "security", "typescript", "nextjs", "secret-management", "secrets", "environment-variables", "end-to-end-encryption"]
   }, {
     "repo": "dariusk/twitter-archiver",
     "desc": "Make your own simple, public, searchable Twitter archive",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "alan2207/bulletproof-react",
     "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "openaudioserver/open-audio-server",
     "desc": "A self-hosted and free music server compatible with web browsers and smartphone apps",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jnsmalm/pixi3d",
     "desc": "The 3D renderer for PixiJS. Seamless integration with 2D applications.",
     "officialSite": "https://pixi3d.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "llacloud/illa-builder",
     "desc": "An open-source low-code Platform for Developers.",
     "officialSite": "https://illacloud.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "TanStack/router",
     "desc": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular",
     "officialSite": "https://tanstack.com/router",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "melonjs/melonJS",
     "desc": "a fresh & lightweight javascript game engine",
     "officialSite": "https://melonjs.org",
-    "topics": ["javascript", "firefox", "gamedev", "webgl", "chrome", "cordova", "typescript", "html5", "es6", "game-engine", "game-development", "melonjs", "html5-canvas", "webaudio", "canvas2d", "web3", "webgl2", "hacktoberfest", "2d-game-engine", "tiled"]    
+    "topics": ["javascript", "firefox", "gamedev", "webgl", "chrome", "cordova", "typescript", "html5", "es6", "game-engine", "game-development", "melonjs", "html5-canvas", "webaudio", "canvas2d", "web3", "webgl2", "hacktoberfest", "2d-game-engine", "tiled"]
   }, {
     "repo": "yaroslav-n/tweetGPT",
     "desc": "TweetGPT is a chrome extension that generates tweets and replies using chatGPT",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nocobase/nocobase",
     "desc": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.",
     "officialSite": "https://www.nocobase.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "open-telemetry/opentelemetry-js",
     "desc": "OpenTelemetry JavaScript Client",
     "officialSite": "https://opentelemetry.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "harbor-school/lighthouse",
     "desc": "Lighthouse is a continuous design system for integrating design with development workflows.",
     "officialSite": "https://lighthouse.harbor.school",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "AmruthPillai/Reactive-Resume",
     "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "officialSite": "https://rxresu.me",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microfeed/microfeed",
     "desc": "a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.",
     "officialSite": "https://www.microfeed.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "TheOfficialFloW/HENlo",
     "desc": "WebKit+Kernel exploit chain for all PS Vita firmwares",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "timqian/chinese-independent-blogs",
     "desc": "中文独立博客列表",
     "officialSite": "https://feeds.pub/cn-indie",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "zlib-searcher/zlib-searcher",
     "desc": "search zlib/libgen index to get ipfs_cid.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "lensapp/lens",
     "desc": "Lens - The way the world runs Kubernetes",
     "officialSite": "https://k8slens.dev",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "MuhammedKalkan/OpenLens",
     "desc": "OpenLens Binary Build Repository",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "appsmithorg/appsmith",
     "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "officialSite": "https://www.appsmith.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "gluon-framework/gluon",
     "desc": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
     "officialSite": "https://gluonjs.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "desktop/desktop",
     "desc": "Focus on what matters instead of fighting with Git.",
     "officialSite": "https://desktop.github.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "coollabsio/coolify",
     "desc": "An open-source & self-hostable Heroku / Netlify alternative.",
     "officialSite": "https://coolify.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "typeorm/typeorm",
     "desc": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
     "officialSite": "http://typeorm.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Nutlope/roomGPT",
     "desc": "Upload a photo of your room to generate your dream room with AI.",
     "officialSite": "https://www.roomgpt.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "midudev/openui.com",
     "desc": "Generador de componentes de UI con IA",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Postcatlab/postcat",
     "desc": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.",
     "officialSite": "https://www.postcat.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Bin-Huang/chatbox",
     "desc": "Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online",
     "officialSite": "https://chatboxai.app",
-    "topics": ["desktop-app", "windows", "macos", "linux", "app", "ai", "ubuntu", "desktop", "openai", "gpt", "copilot", "gpt-4", "chatgpt"]    
+    "topics": ["desktop-app", "windows", "macos", "linux", "app", "ai", "ubuntu", "desktop", "openai", "gpt", "copilot", "gpt-4", "chatgpt"]
   }, {
     "repo": "whoiskatrin/sql-translator",
     "desc": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
     "officialSite": "https://www.sqltranslate.app",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "chathub-dev/chathub",
     "desc": "All-in-one chatbot client",
     "officialSite": "https://chathub.gg",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tangly1024/NotionNext",
     "desc": "一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。",
     "officialSite": "https://tangly1024.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ayaka14732/ChatGPTAPIFree",
     "desc": "A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "cocktailpeanut/dalai",
     "desc": "The simplest way to run LLaMA on your local machine",
     "officialSite": "https://cocktailpeanut.github.io/dalai",
-    "topics": ["ai", "llama", "llm"]    
+    "topics": ["ai", "llama", "llm"]
   }, {
     "repo": "upscayl/upscayl",
     "desc": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
     "officialSite": "https://upscayl.github.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "xenova/transformers.js",
     "desc": "Run 🤗 Transformers in your browser!",
     "officialSite": "https://xenova.github.io/transformers.js",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "josStorer/chatGPTBox",
     "desc": "Integrating ChatGPT into your browser deeply, everything you need is here",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "yuezk/chatgpt-mirror",
     "desc": "A mirror of ChatGPT based on the gpt-3.5-turbo model.",
     "officialSite": "https://fastgpt.app",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "traceloop/jest-opentelemetry",
     "desc": "Easily run integration tests for your backends",
     "officialSite": "https://www.traceloop.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "gorhill/uBlock",
     "desc": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "MarsX-dev/floatui",
     "desc": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
     "officialSite": "https://floatui.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "matter-labs/zksync-web-era-docs",
     "desc": "zkSync Era Documentation",
     "officialSite": "https://era.zksync.io/docs/dev",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "dice2o/BingGPT",
     "desc": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "requarks/wiki",
     "desc": "Wiki.js | A modern and powerful wiki app built on Node.js",
     "officialSite": "https://js.wiki",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "twitter/twemoji",
     "desc": "Emoji for everyone.",
     "officialSite": "https://twemoji.twitter.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "serverless-stack/sst",
     "desc": "💥 SST makes it easy to build full-stack serverless apps.",
     "officialSite": "https://sst.dev",
-    "topics": ["javascript", "python", "golang", "aws", "lambda", "typescript", "csharp", "serverless", "reactjs", "nextjs", "sst", "cdk", "serverless-stack"]    
+    "topics": ["javascript", "python", "golang", "aws", "lambda", "typescript", "csharp", "serverless", "reactjs", "nextjs", "sst", "cdk", "serverless-stack"]
   }, {
     "repo": "nomic-ai/gpt4all-ui",
     "desc": "gpt4all chatbot ui",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "eGovFramework/egovframe-template-simple-react",
     "desc": "표준프레임워크 심플홈페이지 FrontEnd",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "discordjs/discord.js",
     "desc": "A powerful JavaScript library for interacting with the Discord API",
     "officialSite": "https://discord.js.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "digitalocean/nginxconfig.io",
     "desc": "⚙️ NGINX config generator on steroids 💉",
     "officialSite": "https://do.co/nginxconfig",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "thecookingsenpai/autogpt-gui",
     "desc": "A graphical user interface for AutoGPT",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "dzoba/gptrpg",
     "desc": "A demo of an GPT-based agent existing in an RPG-like environment",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "iamadamdev/bypass-paywalls-chrome",
     "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "kiwphi/pop-shoot",
     "desc": "🚀 Synthwave styled space shooter, inspired by the 80s arcades",
     "officialSite": "https://kiwphi.github.io/pop-shoot",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "xcanwin/KeepChatGPT",
     "desc": "这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "responsively-org/responsively-app",
     "desc": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
     "officialSite": "https://responsively.app",
-    "topics": ["electron", "react", "redux", "javascript", "desktop-app", "web-development", "responsive", "developer-tools", "hacktoberfest", "contributions-welcome", "responsive-web-design", "good-first-issue", "opensource-alternative"]    
+    "topics": ["electron", "react", "redux", "javascript", "desktop-app", "web-development", "responsive", "developer-tools", "hacktoberfest", "contributions-welcome", "responsive-web-design", "good-first-issue", "opensource-alternative"]
   }, {
     "repo": "0hq/WebGPT",
     "desc": "Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.",
     "officialSite": "https://kmeans.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "xtekky/chatgpt-clone",
     "desc": "ChatGPT interface with better UI + running on free gpt api's",
     "officialSite": "https://chatbot.sex",
-    "topics": ["language", "ui", "interface", "site", "language-model", "gpt3", "gpt-4", "gpt4", "chatgpt", "chatgpt-api", "chatgpt-clone", "chatgpt-app", "gpt4-api", "gpt-4-api", "gpt4all", "gpt-interface"]    
+    "topics": ["language", "ui", "interface", "site", "language-model", "gpt3", "gpt-4", "gpt4", "chatgpt", "chatgpt-api", "chatgpt-clone", "chatgpt-app", "gpt4-api", "gpt-4-api", "gpt4all", "gpt-interface"]
   }, {
     "repo": "enten/eaglercraft-ashes",
     "desc": "Git bundles of Eaglercraft repositories for archival purposes",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "saeedezzati/superpower-chatgpt",
     "desc": "Superpower ChatGPT Chrome Extension",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "TheRamU/Fay",
     "desc": "Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！",
     "officialSite": "",
-    "topics": ["python", "ai", "ue4", "douyi"]    
+    "topics": ["python", "ai", "ue4", "douyi"]
   }, {
     "repo": "OpenZeppelin/openzeppelin-contracts",
     "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
     "officialSite": "https://openzeppelin.com/contracts",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Renovamen/oh-vue-icons",
     "desc": "A Vue component for importing inline SVG icons from different popular icon packs easily.",
     "officialSite": "https://oh-vue-icons.js.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "GitSquared/edex-ui",
     "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "modal-labs/quillman",
     "desc": "A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.",
     "officialSite": "https://modal.com/docs/guide/llm-voice-chat",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sadmann7/netflx-web",
     "desc": "",
     "officialSite": "https://netflx-web.vercel.app",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Expensify/App",
     "desc": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
     "officialSite": "https://new.expensify.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Lissy93/dashy",
     "desc": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
     "officialSite": "https://dashy.to",
-    "topics": ["nodejs", "docker", "productivity", "awesome", "pwa", "mit", "dashboard", "vue", "organization", "homepage", "self-hosted", "startpage", "hacktoberfest", "homelab", "hacktoberfest2022"]    
+    "topics": ["nodejs", "docker", "productivity", "awesome", "pwa", "mit", "dashboard", "vue", "organization", "homepage", "self-hosted", "startpage", "hacktoberfest", "homelab", "hacktoberfest2022"]
   }, {
     "repo": "bigskysoftware/htmx",
     "desc": "</> htmx - high power tools for HTML",
     "officialSite": "https://htmx.org",
-    "topics": ["javascript", "html", "rest", "hyperscript", "hateoas", "htmx"]    
+    "topics": ["javascript", "html", "rest", "hyperscript", "hateoas", "htmx"]
   }, {
     "repo": "Atri-Labs/atrilabs-engine",
     "desc": "🧘‍♂️ Open-source full-stack web development framework built on top of React & Fast API",
     "officialSite": "https://atrilabs.com",
-    "topics": ["javascript", "reactjs", "python3", "fastapi", "webframeworks"]    
+    "topics": ["javascript", "reactjs", "python3", "fastapi", "webframeworks"]
   }, {
     "repo": "EddieHubCommunity/LinkFree",
     "desc": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "officialSite": "https://linkfree.io",
-    "topics": ["nodejs", "javascript", "css", "html", "reactjs", "nextjs", "hacktoberfest", "tailwind", "linktree"]    
+    "topics": ["nodejs", "javascript", "css", "html", "reactjs", "nextjs", "hacktoberfest", "tailwind", "linktree"]
   }, {
     "repo": "frappe/frappe",
     "desc": "Low code web framework for real world applications, in Python and Javascript",
     "officialSite": "https://frappeframework.com",
-    "topics": ["javascript", "python", "cms", "webhooks", "security", "postgres", "email", "rest-api", "socket-io", "web-framework", "mariadb", "full-stack", "frappe", "erpnext", "hacktoberfest", "multitenant", "low-code"]    
+    "topics": ["javascript", "python", "cms", "webhooks", "security", "postgres", "email", "rest-api", "socket-io", "web-framework", "mariadb", "full-stack", "frappe", "erpnext", "hacktoberfest", "multitenant", "low-code"]
   }, {
     "repo": "pashpashpash/vault-ai",
     "desc": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.",
     "officialSite": "https://vault.pash.city",
-    "topics": ["react", "go", "golang", "machine-learning", "ai", "reactjs", "artificial-intelligence", "openai", "question-answering", "knowledge-base", "generative", "pinecone", "pdf-support", "long-term-memory", "vector-search", "openai-api", "chatgpt", "qdrant-vector-database"]    
+    "topics": ["react", "go", "golang", "machine-learning", "ai", "reactjs", "artificial-intelligence", "openai", "question-answering", "knowledge-base", "generative", "pinecone", "pdf-support", "long-term-memory", "vector-search", "openai-api", "chatgpt", "qdrant-vector-database"]
   }, {
     "repo": "micheleg/dash-to-dock",
     "desc": "A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.",
     "officialSite": "https://micheleg.github.io/dash-to-dock",
-    "topics": ["linux", "gnome", "dock"]    
+    "topics": ["linux", "gnome", "dock"]
   }, {
     "repo": "adrianhajdin/project_next_13_ai_prompt_sharing",
     "desc": "Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.",
     "officialSite": "https://promptopia.vercel.app",
-    "topics": ["nextjs", "nextjs-13", "nextjs13"]    
+    "topics": ["nextjs", "nextjs-13", "nextjs13"]
   }, {
     "repo": "hackclub/sinerider",
     "desc": "💖 A game about love and graphing, built by teenagers. Play it now!",
     "officialSite": "https://sinerider.com",
-    "topics": ["sinerider"]    
+    "topics": ["sinerider"]
   }, {
     "repo": "yashash-pugalia/win11-svelte",
     "desc": "Recreating Windows 11 with Svelte.",
     "officialSite": "https://win11-svelte.vercel.app",
-    "topics": ["javascript", "css", "svelte"]    
+    "topics": ["javascript", "css", "svelte"]
   }, {
     "repo": "alexfoxy/lax.js",
     "desc": "Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.",
     "officialSite": "",
-    "topics": ["css", "parallax", "animation", "effects", "scroll", "transitions"]    
+    "topics": ["css", "parallax", "animation", "effects", "scroll", "transitions"]
   }, {
     "repo": "glyphic-co/textblock",
     "desc": "Continuously responsive typesetting — Demo",
     "officialSite": "https://textblock.io",
-    "topics": ["responsive", "typography", "typesetting", "fluid", "responsive-design", "progressive-enhancement", "typesetting-system"]    
+    "topics": ["responsive", "typography", "typesetting", "fluid", "responsive-design", "progressive-enhancement", "typesetting-system"]
   }, {
     "repo": "asvd/microlight",
     "desc": "highlights code in any programming language",
     "officialSite": "http://asvd.github.io/microlight",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "feimosi/baguetteBox.js",
     "desc": "⚡ Simple and easy to use lightbox script written in pure JavaScript",
     "officialSite": "https://feimosi.github.io/baguetteBox.js",
-    "topics": ["javascript", "gallery", "responsive", "modal", "lightbox", "vanilla-javascript", "lightbox-script", "pure-javascript"]    
+    "topics": ["javascript", "gallery", "responsive", "modal", "lightbox", "vanilla-javascript", "lightbox-script", "pure-javascript"]
   }, {
     "repo": "juliangarnier/anime",
     "desc": "JavaScript animation engine",
     "officialSite": "https://animejs.com",
-    "topics": ["javascript", "css", "svg", "canvas", "anime", "animation", "javascript-library"]    
+    "topics": ["javascript", "css", "svg", "canvas", "anime", "animation", "javascript-library"]
   }, {
     "repo": "julianshapiro/velocity",
     "desc": "Accelerated JavaScript animation.",
     "officialSite": "http://velocityjs.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Popmotion/popmotion",
     "desc": "Simple animation libraries for delightful user interfaces",
     "officialSite": "https://popmotion.io",
-    "topics": ["css", "svg", "tween", "animation", "physics", "motion", "javascript-motion-engine", "popmotion"]    
+    "topics": ["css", "svg", "tween", "animation", "physics", "motion", "javascript-motion-engine", "popmotion"]
   }, {
     "repo": "michalsnik/aos",
     "desc": "Animate on scroll library",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jlmakes/scrollreveal",
     "desc": "Animate elements as they scroll into view.",
     "officialSite": "https://scrollrevealjs.org",
-    "topics": ["javascript", "css", "animation", "scroll", "transition", "reveal", "transform", "scrollreveal"]    
+    "topics": ["javascript", "css", "animation", "scroll", "transition", "reveal", "transform", "scrollreveal"]
   }, {
     "repo": "videojs/video.js",
     "desc": "Video.js - open source HTML5 video player",
     "officialSite": "https://videojs.com",
-    "topics": ["javascript", "html", "player", "video", "html5", "hls", "html5-video", "dash", "videojs", "html5-audio"]    
+    "topics": ["javascript", "html", "player", "video", "html5", "hls", "html5-video", "dash", "videojs", "html5-audio"]
   }, {
     "repo": "sampotts/plyr",
     "desc": "A simple HTML5, YouTube and Vimeo player",
     "officialSite": "https://plyr.io",
-    "topics": ["javascript", "youtube", "vimeo", "html5-video", "plyr"]    
+    "topics": ["javascript", "youtube", "vimeo", "html5-video", "plyr"]
   }, {
     "repo": "jplayer/jPlayer",
     "desc": "jPlayer : HTML5 Audio & Video for jQuery",
     "officialSite": "http://jplayer.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "davatron5000/FitVids.js",
     "desc": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
     "officialSite": "http://fitvidsjs.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "goldfire/howler.js",
     "desc": "Javascript audio library for the modern web.",
     "officialSite": "https://howlerjs.com",
-    "topics": ["audio", "javascript", "playback", "web-audio", "html5-audio", "audio-library", "howler", "volume"]    
+    "topics": ["audio", "javascript", "playback", "web-audio", "html5-audio", "audio-library", "howler", "volume"]
   }, {
     "repo": "wavesurfer-js/wavesurfer.js",
     "desc": "Navigable waveform built on Web Audio and Canvas",
     "officialSite": "https://wavesurfer-js.org",
-    "topics": ["audio", "music", "waveform", "web-audio"]    
+    "topics": ["audio", "music", "waveform", "web-audio"]
   }, {
     "repo": "scottschiller/SoundManager2",
     "desc": "A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.",
     "officialSite": "http://www.schillmania.com/projects/soundmanager2",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "serversideup/amplitudejs",
     "desc": "AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.",
     "officialSite": "https://521dimensions.com/open-source/amplitudejs",
-    "topics": ["javascript", "css", "html", "html5", "web-audio", "html5-audio", "mit-license", "web-audio-library"]    
+    "topics": ["javascript", "css", "html", "html5", "web-audio", "html5-audio", "mit-license", "web-audio-library"]
   }, {
     "repo": "photonstorm/phaser",
     "desc": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
     "officialSite": "https://phaser.io",
-    "topics": ["javascript", "gamedev", "webgl", "canvas", "phaser", "game-development", "phaserjs", "html5-game-development", "game-frameworks", "facebook-instant-games", "phaser-development"]    
+    "topics": ["javascript", "gamedev", "webgl", "canvas", "phaser", "game-development", "phaserjs", "html5-game-development", "game-frameworks", "facebook-instant-games", "phaser-development"]
   }, {
     "repo": "liabru/matter-js",
     "desc": "a 2D rigid body physics engine for the web ▲● ■",
     "officialSite": "",
-    "topics": ["javascript", "web", "canvas", "physics", "physics-engine", "rigid-bodies"]    
+    "topics": ["javascript", "web", "canvas", "physics", "physics-engine", "rigid-bodies"]
   }, {
     "repo": "egret-labs/egret-core",
     "desc": "Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows.",
     "officialSite": "http://www.egret.com",
-    "topics": ["javascript", "webgl", "typescript", "game-engine", "html5-game", "html5-canvas", "egret"]    
+    "topics": ["javascript", "webgl", "typescript", "game-engine", "html5-game", "html5-canvas", "egret"]
   }, {
     "repo": "craftyjs/Crafty",
     "desc": "JavaScript Game Engine",
     "officialSite": "http://craftyjs.com",
-    "topics": ["javascript", "games"]    
+    "topics": ["javascript", "games"]
   }, {
     "repo": "nosir/cleave.js",
     "desc": "Format input text content when you are typing...",
     "officialSite": "http://nosir.github.io/cleave.js",
-    "topics": ["input", "credit-card", "input-mask", "creditcard", "telephone-number"]    
+    "topics": ["input", "credit-card", "input-mask", "creditcard", "telephone-number"]
   }, {
     "repo": "jquery-validation/jquery-validation",
     "desc": "jQuery Validation Plugin library sources",
     "officialSite": "https://jqueryvalidation.org",
-    "topics": ["javascript", "jquery", "jquery-validation", "inline-validation"]    
+    "topics": ["javascript", "jquery", "jquery-validation", "inline-validation"]
   }, {
     "repo": "selectize/selectize.js",
     "desc": "Selectize is the hybrid of a textbox and select box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
     "officialSite": "https://selectize.dev",
-    "topics": ["javascript", "css", "bootstrap", "jquery", "jquery-plugin", "select", "input", "tagging", "hacktoberfest"]    
+    "topics": ["javascript", "css", "bootstrap", "jquery", "jquery-plugin", "select", "input", "tagging", "hacktoberfest"]
   }, {
     "repo": "guillaumepotier/Parsley.js",
     "desc": "Validate your forms, frontend, without writing a single line of javascript",
     "officialSite": "http://parsleyjs.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "amsul/pickadate.js",
     "desc": "The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",
     "officialSite": "http://amsul.ca/pickadate.js",
-    "topics": ["time", "date", "calendar", "picker"]    
+    "topics": ["time", "date", "calendar", "picker"]
   }, {
     "repo": "meteor/meteor",
     "desc": "Meteor, the JavaScript App Platform",
     "officialSite": "https://meteor.com",
-    "topics": ["react", "nodejs", "javascript", "npm", "framework", "mongodb", "meteor", "realtime", "rpc", "reactive-programming", "build-system", "zero-configuration"]    
+    "topics": ["react", "nodejs", "javascript", "npm", "framework", "mongodb", "meteor", "realtime", "rpc", "reactive-programming", "build-system", "zero-configuration"]
   }, {
     "repo": "mrdoob/three.js",
     "desc": "JavaScript 3D Library.",
     "officialSite": "https://threejs.org",
-    "topics": ["javascript", "svg", "webgl", "html5", "canvas", "augmented-reality", "webaudio", "virtual-reality", "webgl2", "3d", "webgpu", "webxr"]    
+    "topics": ["javascript", "svg", "webgl", "html5", "canvas", "augmented-reality", "webaudio", "virtual-reality", "webgl2", "3d", "webgpu", "webxr"]
   }, {
     "repo": "nolimits4web/swiper",
     "desc": "Most modern mobile touch slider with hardware accelerated transitions",
     "officialSite": "https://swiperjs.com",
-    "topics": ["gallery", "mobile", "slider", "touch", "carousel", "swipe", "touch-events", "swiper"]    
+    "topics": ["gallery", "mobile", "slider", "touch", "carousel", "swipe", "touch-events", "swiper"]
   }, {
     "repo": "fabricjs/fabric.js",
     "desc": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
     "officialSite": "http://fabricjs.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "aframevr/aframe",
     "desc": "🅰️ Web framework for building virtual reality experiences.",
     "officialSite": "https://aframe.io",
-    "topics": ["html", "gamedev", "webgl", "threejs", "game-engine", "augmented-reality", "vr", "webvr", "virtualreality", "vive", "oculus", "rift", "game-development", "ecs", "aframe", "virtual-reality", "metaverse", "daydream", "3d", "webxr"]    
+    "topics": ["html", "gamedev", "webgl", "threejs", "game-engine", "augmented-reality", "vr", "webvr", "virtualreality", "vive", "oculus", "rift", "game-development", "ecs", "aframe", "virtual-reality", "metaverse", "daydream", "3d", "webxr"]
   }, {
     "repo": "svg/svgo",
     "desc": "⚙️ Node.js tool for optimizing SVG files",
     "officialSite": "",
-    "topics": ["nodejs", "javascript", "svg", "cli", "optimization", "minification", "svgo"]    
+    "topics": ["nodejs", "javascript", "svg", "cli", "optimization", "minification", "svgo"]
   }, {
     "repo": "hakimel/reveal.js",
     "desc": "The HTML Presentation Framework",
     "officialSite": "https://revealjs.com",
-    "topics": ["slideshow", "slides", "presentations"]    
+    "topics": ["slideshow", "slides", "presentations"]
   }, {
     "repo": "transloadit/uppy",
     "desc": "The next open source file uploader for web browsers 🐶",
     "officialSite": "https://uppy.io",
-    "topics": ["javascript", "open-source", "files", "encoding", "instagram", "modular", "mit", "dropbox", "uploader", "tus", "resumable", "file-uploads", "webbrowser", "file-uploader", "hacktoberfest", "transloadit", "uppy", "pick-files"]    
+    "topics": ["javascript", "open-source", "files", "encoding", "instagram", "modular", "mit", "dropbox", "uploader", "tus", "resumable", "file-uploads", "webbrowser", "file-uploader", "hacktoberfest", "transloadit", "uppy", "pick-files"]
   }, {
     "repo": "impress/impress.js",
     "desc": "It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
     "officialSite": "http://impress.js.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sunner/ChatALL",
     "desc": "Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
     "officialSite": "http://chatall.ai",
-    "topics": ["electron", "desktop-app", "windows", "macos", "linux", "electron-app", "vuejs3", "vuetify3", "chatgpt", "bingchat"]    
+    "topics": ["electron", "desktop-app", "windows", "macos", "linux", "electron-app", "vuejs3", "vuetify3", "chatgpt", "bingchat"]
   }, {
     "repo": "Ryan-yang125/ChatLLM-Web",
     "desc": "🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server.Powered by web llm",
     "officialSite": "https://chat-llm-web.vercel.app",
-    "topics": ["react", "deep-learning", "nextjs", "webgpu", "tvm", "webml", "vicuna", "llm", "chatgpt"]    
+    "topics": ["react", "deep-learning", "nextjs", "webgpu", "tvm", "webml", "vicuna", "llm", "chatgpt"]
   }, {
     "repo": "windmill-labs/windmill",
     "desc": "Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.",
     "officialSite": "https://windmill.dev",
-    "topics": ["python", "open-source", "platform", "typescript", "postgresql", "low-code", "self-hostable"]    
+    "topics": ["python", "open-source", "platform", "typescript", "postgresql", "low-code", "self-hostable"]
   }, {
     "repo": "smol-ai/menubar",
     "desc": "a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.",
     "officialSite": "https://smol.ai",
-    "topics": ["electron", "menubar", "google", "bard", "chatgpt"]    
+    "topics": ["electron", "menubar", "google", "bard", "chatgpt"]
   }, {
     "repo": "dropzone/dropzone",
     "desc": "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
     "officialSite": "http://www.dropzone.dev/js",
-    "topics": ["javascript", "drag-and-drop", "file-upload", "javascript-library", "dropzone"]    
+    "topics": ["javascript", "drag-and-drop", "file-upload", "javascript-library", "dropzone"]
   }, {
     "repo": "dixonandmoe/rellax",
     "desc": "Lightweight, vanilla javascript parallax library",
     "officialSite": "https://dixonandmoe.com/rellax",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "pedroslopez/whatsapp-web.js",
     "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
     "officialSite": "https://wwebjs.dev",
-    "topics": ["api", "bot", "bot-api", "whatsapp", "whatsapp-web", "hacktoberfest", "whatsapp-bot", "whatsapp-api", "whatsapp-web-api"]    
+    "topics": ["api", "bot", "bot-api", "whatsapp", "whatsapp-web", "hacktoberfest", "whatsapp-bot", "whatsapp-api", "whatsapp-web-api"]
   }, {
     "repo": "NaiboWang/EasySpider",
     "desc": "A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务",
     "officialSite": "",
-    "topics": ["visualization", "html", "services", "crawler", "gui", "web", "spider", "frontend", "parameters", "visual", "www", "batch", "batch-script", "batch-processing", "layman", "visulization", "visualprogramming", "code-free", "input-parameters"]    
+    "topics": ["visualization", "html", "services", "crawler", "gui", "web", "spider", "frontend", "parameters", "visual", "www", "batch", "batch-script", "batch-processing", "layman", "visulization", "visualprogramming", "code-free", "input-parameters"]
   }, {
     "repo": "stepan-mitkin/drakonhub",
     "desc": "The source code for DrakonHub.com",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "xanderfrangos/twinkle-tray",
     "desc": "Easily manage the brightness of your monitors in Windows from the system tray",
     "officialSite": "https://twinkletray.com",
-    "topics": ["react", "nodejs", "windows", "reactjs", "windows-10", "brightness", "backlight", "electron-app", "multiple-monitors", "monitors", "brightness-level", "backlight-brightness", "brightness-control", "windows-11", "ddc-ic", "brightness-levels", "brightness-slider"]    
+    "topics": ["react", "nodejs", "windows", "reactjs", "windows-10", "brightness", "backlight", "electron-app", "multiple-monitors", "monitors", "brightness-level", "backlight-brightness", "brightness-control", "windows-11", "ddc-ic", "brightness-levels", "brightness-slider"]
   }, {
     "repo": "studio-freight/lenis",
     "desc": "How smooth scroll should be",
     "officialSite": "https://lenis.studiofreight.com",
-    "topics": ["scroll", "smooth", "smooth-scroll"]    
+    "topics": ["scroll", "smooth", "smooth-scroll"]
   }, {
     "repo": "vanjs-org/van",
     "desc": "🍦VanJS: World's smallest reactive UI framework",
     "officialSite": "https://vanjs.org",
-    "topics": ["dom", "vanilla-javascript", "data-binding", "vanilla-js", "dom-manipulation", "minimalist", "lightweight-framework", "lightweight-javascript-library", "ui-framework", "reactive-ui", "reative", "vanilla-dom-manipulation", "ultra-thin", "grab-n-go", "ultra-light", "vannilajs"]    
+    "topics": ["dom", "vanilla-javascript", "data-binding", "vanilla-js", "dom-manipulation", "minimalist", "lightweight-framework", "lightweight-javascript-library", "ui-framework", "reactive-ui", "reative", "vanilla-dom-manipulation", "ultra-thin", "grab-n-go", "ultra-light", "vannilajs"]
   }, {
     "repo": "chinese-poetry/chinese-poetry",
     "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
     "officialSite": "http://shici.store/",
-    "topics": ["json", "ci", "poetry", "chinese", "tangshi", "chinese-poetry"]    
+    "topics": ["json", "ci", "poetry", "chinese", "tangshi", "chinese-poetry"]
   }, {
     "repo": "jofftiquez/faker-js-ui",
     "desc": "Use Faker.js UI to easiliy generate fake (but realistic) data for testing and development using Faker.js.",
     "officialSite": "https://fakerjsui.com/",
-    "topics": ["javascript", "faker", "fakerjs", "fakerui"]    
+    "topics": ["javascript", "faker", "fakerjs", "fakerui"]
   }, {
     "repo": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "desc": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
     "officialSite": "",
-    "topics": ["art", "plugin", "ai", "photoshop", "ai-art", "stable-diffusion", "automatic1111"]    
+    "topics": ["art", "plugin", "ai", "photoshop", "ai-art", "stable-diffusion", "automatic1111"]
   }, {
     "repo": "httptoolkit/httptoolkit-website",
     "desc": "The main website of HTTP Toolkit: beautiful, cross-platform & open-source tools to debug, test and develop with HTTP(S).",
     "officialSite": "https://httptoolkit.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "httptoolkit/httptoolkit-server",
     "desc": "The backend of HTTP Toolkit",
     "officialSite": "https://httptoolkit.com",
-    "topics": ["http", "tools", "server", "developer-tools", "oclif"]    
+    "topics": ["http", "tools", "server", "developer-tools", "oclif"]
   }, {
     "repo": "sindresorhus/screenfull",
     "desc": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API",
     "officialSite": "https://sindresorhus.com/screenfull",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Leaflet/Leaflet",
     "desc": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
     "officialSite": "https://leafletjs.com",
-    "topics": ["javascript", "maps", "leaflet", "hacktoberfest"]    
+    "topics": ["javascript", "maps", "leaflet", "hacktoberfest"]
   }, {
     "repo": "alvarotrigo/fullPage.js",
     "desc": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
     "officialSite": "http://alvarotrigo.com/fullPage",
-    "topics": ["javascript", "jquery", "slideshow", "slide", "snap", "scrolling", "fullscreen", "swipe", "onepage", "fullpage", "sections", "mousewheel"]    
+    "topics": ["javascript", "jquery", "slideshow", "slide", "snap", "scrolling", "fullscreen", "swipe", "onepage", "fullpage", "sections", "mousewheel"]
   }, {
     "repo": "kenwheeler/slick",
     "desc": "the last carousel you'll ever need",
     "officialSite": "http://kenwheeler.github.io/slick",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "SamurAIGPT/privateGPT",
     "desc": "An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks",
     "officialSite": "https://privategpt.thesamur.ai",
-    "topics": ["chatbot", "openai", "gpt", "gpt4", "chatgpt", "langchain", "privategpt"]    
+    "topics": ["chatbot", "openai", "gpt", "gpt4", "chatgpt", "langchain", "privategpt"]
   }, {
     "repo": "anijs/anijs",
     "desc": "A Library to Raise your Web Design without Coding.",
     "officialSite": "http://anijs.github.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "maxwellito/vivus",
     "desc": "JavaScript library to make drawing animation on SVG",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jakearchibald/svgomg",
     "desc": "Web GUI for SVGO",
     "officialSite": "https://jakearchibald.github.io/svgomg",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "postcss/autoprefixer",
     "desc": "Parse CSS and add vendor prefixes to rules by Can I Use",
     "officialSite": "https://twitter.com/autoprefixer",
-    "topics": ["css", "prefixer", "postcss-plugins"]    
+    "topics": ["css", "prefixer", "postcss-plugins"]
   }, {
     "repo": "bennettfeely/Clippy",
     "desc": "Shape up your website with CSS clip-paths",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "zhao-stanley/chroma-ai",
     "desc": "Write about your current mood, the lyrics of your favorite song, or even a random thought that popped into your head — AI will do the rest.",
     "officialSite": "https://chroma.szhao.dev",
-    "topics": ["nlp", "api", "ai", "nextjs", "artificial-intelligence", "openai", "gradient", "tailwindcss", "vercel", "gpt-3", "openai-api", "chatgpt"]    
+    "topics": ["nlp", "api", "ai", "nextjs", "artificial-intelligence", "openai", "gradient", "tailwindcss", "vercel", "gpt-3", "openai-api", "chatgpt"]
   }, {
     "repo": "TypeCellOS/BlockNote",
     "desc": "A \"Notion-style\" block-based extensible text editor built on top of Prosemirror and Tiptap.",
     "officialSite": "https://www.blocknotejs.org",
-    "topics": ["react", "javascript", "editor", "typescript", "prosemirror", "wysiwyg", "rich-text-editor", "notion", "yjs", "block-based", "tiptap", "notion-editor"]    
+    "topics": ["react", "javascript", "editor", "typescript", "prosemirror", "wysiwyg", "rich-text-editor", "notion", "yjs", "block-based", "tiptap", "notion-editor"]
   }, {
     "repo": "pubkey/broadcast-channel",
     "desc": "📡 BroadcastChannel to send data between different browser-tabs or nodejs-processes 📡 + LeaderElection over the channels https://pubkey.github.io/broadcast-channel/",
     "officialSite": "https://pubkey.github.io/broadcast-channel",
-    "topics": ["polyfill", "ipc", "localstorage", "indexeddb", "broadcast", "crosstab", "leader-election", "communication-channel", "postmessage", "broadcast-channel"]    
+    "topics": ["polyfill", "ipc", "localstorage", "indexeddb", "broadcast", "crosstab", "leader-election", "communication-channel", "postmessage", "broadcast-channel"]
   }, {
     "repo": "bigcapitalhq/bigcapital",
     "desc": "💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses.",
     "officialSite": "https://bigcapital.ly",
-    "topics": ["invoices", "inventory", "accounting", "financial", "expenses", "bills"]    
+    "topics": ["invoices", "inventory", "accounting", "financial", "expenses", "bills"]
   }, {
     "repo": "mifi/lossless-cut",
     "desc": "The swiss army knife of lossless video/audio editing",
     "officialSite": "",
-    "topics": ["editor", "player", "video", "ffmpeg", "video-files", "cut", "lossless", "codec", "video-editor"]    
+    "topics": ["editor", "player", "video", "ffmpeg", "video-files", "cut", "lossless", "codec", "video-editor"]
   }, {
     "repo": "cmdr2/stable-diffusion-ui",
     "desc": "Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
     "officialSite": "https://stable-diffusion-ui.github.io",
-    "topics": ["art", "gui", "stable", "generative-art", "diffusion"]    
+    "topics": ["art", "gui", "stable", "generative-art", "diffusion"]
   }, {
     "repo": "sweetalert2/sweetalert2",
     "desc": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦",
     "officialSite": "https://sweetalert2.github.io",
-    "topics": ["notifications", "react", "angular", "alert", "vue", "modal", "sweetalert", "sweetalert2", "dialog", "prompt", "popup", "accessible", "wai-aria", "toast", "confirm", "confirmation-dialog"]    
+    "topics": ["notifications", "react", "angular", "alert", "vue", "modal", "sweetalert", "sweetalert2", "dialog", "prompt", "popup", "accessible", "wai-aria", "toast", "confirm", "confirmation-dialog"]
   }, {
     "repo": "jmapio/jmap-js",
     "desc": "A full JavaScript implementation of the JMAP data model",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ColonelParrot/jscanify",
     "desc": "Open-source Javascript mobile document scanner.",
     "officialSite": "https://colonelparrot.github.io/jscanify",
-    "topics": ["nodejs", "javascript", "js", "scanner", "document-scanner"]    
+    "topics": ["nodejs", "javascript", "js", "scanner", "document-scanner"]
   }, {
     "repo": "garris/BackstopJS",
     "desc": "Catch CSS curve balls.",
     "officialSite": "https://garris.github.io/BackstopJS",
-    "topics": ["javascript", "screen-capture", "chrome-headless", "backstopjs", "visual-regression-tests"]    
+    "topics": ["javascript", "screen-capture", "chrome-headless", "backstopjs", "visual-regression-tests"]
   }, {
     "repo": "karakanb/devo",
     "desc": "A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.",
     "officialSite": "https://burakkarakan.com/devo",
-    "topics": ["github", "chrome-extension", "productivity", "firefox", "hacker-news", "newtab", "product-hunt", "hackernews", "firefox-extension", "trending-repositories", "producthunt", "hacktoberfest", "designer-news"]    
+    "topics": ["github", "chrome-extension", "productivity", "firefox", "hacker-news", "newtab", "product-hunt", "hackernews", "firefox-extension", "trending-repositories", "producthunt", "hacktoberfest", "designer-news"]
   }, {
     "repo": "satellitecomponent/Neurite",
     "desc": "A fractal mind-mapping tool with ai-integration.",
     "officialSite": "https://satellitecomponent.github.io/Neurite",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sveltejs/kit",
     "desc": "web development, streamlined",
     "officialSite": "https://kit.svelte.dev",
-    "topics": ["svelte"]    
+    "topics": ["svelte"]
   }, {
     "repo": "pot-app/pot-desktop",
     "desc": "🌈一个跨平台的划词翻译软件 | A cross-platform software for text translation.",
     "officialSite": "https://pot.pylogmon.com",
-    "topics": ["translation", "translate", "pot", "tauri", "pot-app"]    
+    "topics": ["translation", "translate", "pot", "tauri", "pot-app"]
   }, {
     "repo": "uidotdev/usehooks",
     "desc": "A collection of modern, server-safe React hooks – from the ui.dev team",
     "officialSite": "https://usehooks.com",
-    "topics": ["react", "blog", "hooks", "gatsby", "astro", "react-hooks", "vercel"]    
+    "topics": ["react", "blog", "hooks", "gatsby", "astro", "react-hooks", "vercel"]
   }, {
     "repo": "saadeghi/daisyui",
     "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️ The most popular, free and open-source Tailwind CSS component library",
     "officialSite": "https://daisyui.com",
-    "topics": ["css", "components", "ui-design", "design-systems", "design-pattern", "component", "postcss", "css-framework", "svelte", "ui-kit", "component-library", "css-components", "ui-pattern", "design-system", "ui-library", "ui-framework", "tailwind", "tailwindcss", "tailwind-css", "daisyui"]    
+    "topics": ["css", "components", "ui-design", "design-systems", "design-pattern", "component", "postcss", "css-framework", "svelte", "ui-kit", "component-library", "css-components", "ui-pattern", "design-system", "ui-library", "ui-framework", "tailwind", "tailwindcss", "tailwind-css", "daisyui"]
   }, {
     "repo": "wenda-LLM/wenda",
     "desc": "闻达：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力",
     "officialSite": "",
-    "topics": ["chatglm-6b", "chatrwkv"]    
+    "topics": ["chatglm-6b", "chatrwkv"]
   }, {
     "repo": "arvida/lorem-filler",
     "desc": "Browser extension to quickly insert Lorem Ipsum text into text fields on webpages. A handy browser tool for developers and designers when doing mockups, testing and prototypes.",
     "officialSite": "https://loremfiller.arvidandersson.se",
-    "topics": ["firefox-addon", "firefox-extension"]    
+    "topics": ["firefox-addon", "firefox-extension"]
   }, {
     "repo": "catchspider2002/svelte-svg-patterns",
     "desc": "Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design",
     "officialSite": "https://pattern.monster",
-    "topics": ["svg", "patterns", "svelte", "sapper", "svelte-js", "svg-patterns", "seamless-patterns"]    
+    "topics": ["svg", "patterns", "svelte", "sapper", "svelte-js", "svg-patterns", "seamless-patterns"]
   }, {
     "repo": "gijsroge/tilt.js",
     "desc": "A tiny 60+fps parallax tilt hover effect for jQuery.",
     "officialSite": "http://gijsroge.github.io/tilt.js",
-    "topics": ["jquery", "parallax", "tilt"]    
+    "topics": ["jquery", "parallax", "tilt"]
   }, {
     "repo": "glidejs/glide",
     "desc": "A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more",
     "officialSite": "https://glidejs.com",
-    "topics": ["javascript", "lightweight", "es6", "slider", "carousel", "dependency-free"]    
+    "topics": ["javascript", "lightweight", "es6", "slider", "carousel", "dependency-free"]
   }, {
     "repo": "robinparisi/tingle",
     "desc": "⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use",
     "officialSite": "https://tingle.robinparisi.com",
-    "topics": ["plugin", "ui", "vanilla", "modal", "popup", "modal-plugin"]    
+    "topics": ["plugin", "ui", "vanilla", "modal", "popup", "modal-plugin"]
   }, {
     "repo": "luisvinicius167/ityped",
     "desc": "Dead simple Javascript animated typing, with no dependencies.",
     "officialSite": "https://ityped.surge.sh",
-    "topics": ["javascript", "letters", "typed", "ityped"]    
+    "topics": ["javascript", "letters", "typed", "ityped"]
   }, {
     "repo": "rishabhp/bideo.js",
     "desc": "Fullscreen HTML5 Background Video for the Web.",
     "officialSite": "https://rishabhp.github.io/bideo.js",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sandstorm-io/sandstorm",
     "desc": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.",
     "officialSite": "https://sandstorm.io",
-    "topics": ["decentralized", "self-hosted", "self-hosting", "seccomp", "capnproto", "sandstorm"]    
+    "topics": ["decentralized", "self-hosted", "self-hosting", "seccomp", "capnproto", "sandstorm"]
   }, {
     "repo": "ciaochaos/qrbtf",
     "desc": "An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com",
     "officialSite": "https://qrbtf.com",
-    "topics": ["generator", "qrcode", "qr-code", "qr-codes", "qr", "qrcode-generator", "art-qr", "art-qr-code", "art-qrcode"]    
+    "topics": ["generator", "qrcode", "qr-code", "qr-codes", "qr", "qrcode-generator", "art-qr", "art-qr-code", "art-qrcode"]
   }, {
     "repo": "9elements/fancy-border-radius",
     "desc": "When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at",
     "officialSite": "https://9elements.github.io/fancy-border-radius",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Mintplex-Labs/anything-llm",
     "desc": "A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.",
     "officialSite": "https://twitter.com/tcarambat",
-    "topics": ["openai", "chatbot-application", "chroma", "vectorization", "chatbot-framework", "pinecone", "gpt3", "openai-api", "llm", "langchain", "chatgpt-bot", "openai-chatgpt", "chatgpt-app", "langchain-python", "langchain-js"]    
+    "topics": ["openai", "chatbot-application", "chroma", "vectorization", "chatbot-framework", "pinecone", "gpt3", "openai-api", "llm", "langchain", "chatgpt-bot", "openai-chatgpt", "chatgpt-app", "langchain-python", "langchain-js"]
   }, {
     "repo": "SillyTavern/SillyTavern",
     "desc": "LLM Frontend for Power Users.",
     "officialSite": "https://sillytavern.app",
-    "topics": ["chat", "ai", "openai", "characters", "llm"]    
+    "topics": ["chat", "ai", "openai", "characters", "llm"]
   }, {
     "repo": "belladoreai/llama-tokenizer-js",
     "desc": "JS tokenizer for LLaMA based LLMs",
     "officialSite": "",
-    "topics": ["javascript", "tokenizer", "llama", "llm"]    
+    "topics": ["javascript", "tokenizer", "llama", "llm"]
   }, {
     "repo": "100xDevs-hkirat/Week-1-assignment",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "738/inko",
     "desc": "🇰🇷영타를 한글로, 한타를 영어로 변환해주는 자바스크립트 오픈소스 라이브러리",
     "officialSite": "https://inko.js.org",
-    "topics": ["korea", "korean", "hangul", "inko"]    
+    "topics": ["korea", "korean", "hangul", "inko"]
   }, {
     "repo": "kirel/detexify",
     "desc": "Latex Symbol Classifier Web Frontend",
     "officialSite": "http://detexify.kirelabs.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "evanw/polywasm",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "rvaidun/befake",
     "desc": "view bereals without posting your own :)",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "NaiboWang/EasySpider",
     "desc": "A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务",
     "officialSite": "",
-    "topics": ["visualization", "html", "crawler", "scraper", "gui", "web", "spider", "frontend", "parameters", "visual", "www", "batch", "data-collection", "batch-script", "batch-processing", "layman", "visulization", "visualprogramming", "code-free", "input-parameters"]    
+    "topics": ["visualization", "html", "crawler", "scraper", "gui", "web", "spider", "frontend", "parameters", "visual", "www", "batch", "data-collection", "batch-script", "batch-processing", "layman", "visulization", "visualprogramming", "code-free", "input-parameters"]
   }, {
     "repo": "vernesong/OpenClash",
     "desc": "A Clash Client For OpenWrt",
     "officialSite": "",
-    "topics": ["openwrt", "shadowsocks", "clash", "v2ray", "luci", "vmess", "snell", "openclash"]    
+    "topics": ["openwrt", "shadowsocks", "clash", "v2ray", "luci", "vmess", "snell", "openclash"]
   }, {
     "repo": "fanmingming/live",
     "desc": "✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕",
     "officialSite": "",
-    "topics": ["radio", "list", "ipv6", "tv", "live", "m3u8", "television", "china", "epg", "iptv", "m3u"]    
+    "topics": ["radio", "list", "ipv6", "tv", "live", "m3u8", "television", "china", "epg", "iptv", "m3u"]
   }, {
     "repo": "ykdojo/kaguya",
     "desc": "A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "iamvucms/x-gram",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sveltejs/svelte",
     "desc": "Cybernetically enhanced web apps",
     "officialSite": "https://svelte.dev",
-    "topics": ["template", "ui", "compiler"]    
+    "topics": ["template", "ui", "compiler"]
   }, {
     "repo": "eslint/eslint",
     "desc": "Find and fix problems in your JavaScript code.",
     "officialSite": "https://eslint.org",
-    "topics": ["javascript", "eslint", "static-code-analysis", "linter", "ecmascript"]    
+    "topics": ["javascript", "eslint", "static-code-analysis", "linter", "ecmascript"]
   }, {
     "repo": "dosyago/BrowserBoxPro",
     "desc": "📷 BrowserBoxPro - The internet. But unrestricted. And secure. Remote browser isolation product, available open-source here and for purchase on our website.",
     "officialSite": "https://dosyago.com",
-    "topics": ["security", "chrome", "privacy", "browser", "embeddable", "proxy", "websockets", "proxy-server", "chrome-headless", "browser-automation", "webrtc-video", "rbi", "puppeteer", "viewfinder", "commercial-licenses", "browserview", "remote-browser", "remote-browser-isolation", "internet-isolation", "cobrowsing"]    
+    "topics": ["security", "chrome", "privacy", "browser", "embeddable", "proxy", "websockets", "proxy-server", "chrome-headless", "browser-automation", "webrtc-video", "rbi", "puppeteer", "viewfinder", "commercial-licenses", "browserview", "remote-browser", "remote-browser-isolation", "internet-isolation", "cobrowsing"]
   }, {
     "repo": "xavi-/node-copy-paste",
     "desc": "A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "github/docs",
     "desc": "The open-source repo for docs.github.com",
     "officialSite": "https://docs.github.com",
-    "topics": ["docs", "hacktoberfest", "works-with-codespaces"]    
+    "topics": ["docs", "hacktoberfest", "works-with-codespaces"]
   }, {
     "repo": "TryGhost/Ghost",
     "desc": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
     "officialSite": "https://ghost.org",
-    "topics": ["nodejs", "javascript", "ember", "cms", "blogging", "journalism", "ghost", "publishing", "web-application", "jamstack", "hacktoberfest", "headless-cms", "creator-economy"]    
+    "topics": ["nodejs", "javascript", "ember", "cms", "blogging", "journalism", "ghost", "publishing", "web-application", "jamstack", "hacktoberfest", "headless-cms", "creator-economy"]
   }, {
     "repo": "windmill-labs/windmill",
     "desc": "Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.",
     "officialSite": "https://www.windmill.dev",
-    "topics": ["python", "open-source", "platform", "typescript", "postgresql", "low-code", "self-hostable"]    
+    "topics": ["python", "open-source", "platform", "typescript", "postgresql", "low-code", "self-hostable"]
   }, {
     "repo": "mengjian-github/copilot-analysis",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "dimdenGD/OldTwitter",
     "desc": "Extension to return old Twitter layout from 2015.",
     "officialSite": "https://chrome.google.com/webstore/detail/old-twitter-layout-2022/jgejdcdoeeabklepnkdbglgccjpdgpmf",
-    "topics": ["chrome-extension", "chrome", "twitter", "firefox-addon", "firefox-extension", "twitter-client", "chromium-extension"]    
+    "topics": ["chrome-extension", "chrome", "twitter", "firefox-addon", "firefox-extension", "twitter-client", "chromium-extension"]
   }, {
     "repo": "prettier/prettier",
     "desc": "Prettier is an opinionated code formatter.",
     "officialSite": "https://prettier.io",
-    "topics": ["javascript", "css", "html", "graphql", "markdown", "flow", "yaml", "less", "json", "formatter", "angular", "typescript", "printer", "vue", "jsx", "scss", "prettier", "ast"]    
+    "topics": ["javascript", "css", "html", "graphql", "markdown", "flow", "yaml", "less", "json", "formatter", "angular", "typescript", "printer", "vue", "jsx", "scss", "prettier", "ast"]
   }, {
     "repo": "threadsjs/threads.js",
     "desc": "A Node.js library for the Threads API",
     "officialSite": "",
-    "topics": ["nodejs", "threads", "threads-api"]    
+    "topics": ["nodejs", "threads", "threads-api"]
   }, {
     "repo": "surprisetalk/blogs.hn",
     "desc": "tiny directory of tech blogs",
     "officialSite": "https://blogs.hn",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "brave/brave-browser",
     "desc": "Next generation Brave browser for Android, Linux, macOS, Windows.",
     "officialSite": "https://www.brave.com",
-    "topics": ["windows", "macos", "linux", "browser", "chromium", "brave"]    
+    "topics": ["windows", "macos", "linux", "browser", "chromium", "brave"]
   }, {
     "repo": "kudoai/chatgpt.js",
     "desc": "🤖 A powerful, open source client-side JavaScript library for ChatGPT",
     "officialSite": "https://chatgpt.js.org",
-    "topics": ["javascript", "nlp", "chat", "bot", "machine-learning", "library", "ai", "js", "frontend", "chatbot", "ml", "artificial-intelligence", "openai", "gpt", "clientside", "conversational-bots", "conversational-ai", "gpt-3", "gpt-4", "chatgpt"]    
+    "topics": ["javascript", "nlp", "chat", "bot", "machine-learning", "library", "ai", "js", "frontend", "chatbot", "ml", "artificial-intelligence", "openai", "gpt", "clientside", "conversational-bots", "conversational-ai", "gpt-3", "gpt-4", "chatgpt"]
   }, {
     "repo": "cypress-io/cypress",
     "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
     "officialSite": "https://cypress.io",
-    "topics": ["testing", "test", "test-suite", "test-runner", "test-automation", "tests", "e2e-tests", "testing-tools", "javascript-tests", "end-to-end-testing", "cypress", "e2e-testing"]    
+    "topics": ["testing", "test", "test-suite", "test-runner", "test-automation", "tests", "e2e-tests", "testing-tools", "javascript-tests", "end-to-end-testing", "cypress", "e2e-testing"]
   }, {
     "repo": "thedevdojo/pines",
     "desc": "The Pines UI library",
     "officialSite": "https://devdojo.com/pines",
-    "topics": ["library", "ui", "tailwindcss", "alpinejs"]    
+    "topics": ["library", "ui", "tailwindcss", "alpinejs"]
   }, {
     "repo": "Kong/insomnia",
     "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
     "officialSite": "https://insomnia.rest",
-    "topics": ["api", "graphql", "curl", "rest-api", "websockets", "grpc", "http-client", "api-client", "electron-app", "api-design"]    
+    "topics": ["api", "graphql", "curl", "rest-api", "websockets", "grpc", "http-client", "api-client", "electron-app", "api-design"]
   }, {
     "repo": "yokoffing/Betterfox",
     "desc": "user.js file to harden Firefox and optimize privacy, security, and speed",
     "officialSite": "",
-    "topics": ["firefox", "security", "tracking", "settings", "privacy", "mozilla", "anti-tracking"]    
+    "topics": ["firefox", "security", "tracking", "settings", "privacy", "mozilla", "anti-tracking"]
   }, {
     "repo": "destinygg/dgg-place",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "cortex-js/cortexjs.io",
     "desc": "Source for the cortexjs.io website",
     "officialSite": "http://cortexjs.io",
-    "topics": ["components", "documentation", "scientific-computing", "cortexjs"]    
+    "topics": ["components", "documentation", "scientific-computing", "cortexjs"]
   }, {
     "repo": "badges/shields",
     "desc": "Concise, consistent, and legible badges in SVG and raster format",
     "officialSite": "https://shields.io",
-    "topics": ["github", "svg", "metadata", "status", "badge", "badge-maker"]    
+    "topics": ["github", "svg", "metadata", "status", "badge", "badge-maker"]
   }, {
     "repo": "simple-icons/simple-icons",
     "desc": "SVG icons for popular brands",
     "officialSite": "https://simpleicons.org",
-    "topics": ["svg", "design", "design-assets", "brand", "icons", "icon-pack", "svg-icons", "brand-colors", "logo", "svg-files", "logos", "branding", "icon-packs", "brands", "svg-images", "brand-assets", "iconset", "branding-assets", "company-brands"]    
+    "topics": ["svg", "design", "design-assets", "brand", "icons", "icon-pack", "svg-icons", "brand-colors", "logo", "svg-files", "logos", "branding", "icon-packs", "brands", "svg-images", "brand-assets", "iconset", "branding-assets", "company-brands"]
   }, {
     "repo": "twbs/icons",
     "desc": "Official open source SVG icon library for Bootstrap.",
     "officialSite": "https://icons.getbootstrap.com",
-    "topics": ["svg", "bootstrap", "font", "icons", "sprite", "woff2", "woff"]    
+    "topics": ["svg", "bootstrap", "font", "icons", "sprite", "woff2", "woff"]
   }, {
     "repo": "maildev/maildev",
     "desc": "📫 SMTP Server + Web Interface for viewing and testing emails during development.",
     "officialSite": "https://maildev.github.io/maildev",
-    "topics": ["nodejs", "testing", "docker", "development", "smtp", "developer-tools", "smtp-server", "mailcatcher", "nodemailer", "maildev"]    
+    "topics": ["nodejs", "testing", "docker", "development", "smtp", "developer-tools", "smtp-server", "mailcatcher", "nodemailer", "maildev"]
   }, {
     "repo": "chromium/permission.site",
     "desc": "A site to test the interaction of web APIs and browser permissions.",
     "officialSite": "https://permission.site",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mprimi/portable-secret",
     "desc": "Better privacy without special software",
     "officialSite": "https://mprimi.github.io/portable-secret",
-    "topics": ["javascript", "security", "cryptography", "privacy", "encryption", "password-manager", "web-cryptography-api", "secrets-management"]    
+    "topics": ["javascript", "security", "cryptography", "privacy", "encryption", "password-manager", "web-cryptography-api", "secrets-management"]
   }, {
     "repo": "ankane/mapkick.js",
     "desc": "Create beautiful, interactive maps with one line of JavaScript",
     "officialSite": "https://chartkick.com/mapkick-js",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "michael/editable-website",
     "desc": "A SvelteKit template for building CMS-free editable websites",
     "officialSite": "https://editable.website",
-    "topics": ["javascript", "sqlite", "svelte", "webdev", "richtexteditor"]    
+    "topics": ["javascript", "sqlite", "svelte", "webdev", "richtexteditor"]
   }, {
     "repo": "FortAwesome/Font-Awesome",
     "desc": "The iconic SVG, font, and CSS toolkit",
     "officialSite": "https://fontawesome.com",
-    "topics": ["css", "font", "fontawesome", "icons", "svg-icons", "webfont", "svg-sprites"]    
+    "topics": ["css", "font", "fontawesome", "icons", "svg-icons", "webfont", "svg-sprites"]
   }, {
     "repo": "thisjam/sd-webui-oldsix-prompt",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "airbnb/lottie-web",
     "desc": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "AutomaApp/automa",
     "desc": "A browser extension for automating your browser by connecting blocks",
     "officialSite": "https://www.automa.site",
-    "topics": ["javascript", "chrome-extension", "workflow", "automation", "vue", "firefox-extension", "browser-extension", "hacktoberfest", "browser-automation"]    
+    "topics": ["javascript", "chrome-extension", "workflow", "automation", "vue", "firefox-extension", "browser-extension", "hacktoberfest", "browser-automation"]
   }, {
     "repo": "mapbox/mapbox-gl-js",
     "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
     "officialSite": "https://docs.mapbox.com/mapbox-gl-js",
-    "topics": ["javascript", "map", "webgl", "mapbox-gl", "vector-tiles", "geojson", "mapbox-gl-js", "openstreetmap", "monorepo", "mapbox"]    
+    "topics": ["javascript", "map", "webgl", "mapbox-gl", "vector-tiles", "geojson", "mapbox-gl-js", "openstreetmap", "monorepo", "mapbox"]
   }, {
     "repo": "extesy/hoverzoom",
     "desc": "Google Chrome extension for zooming images on mouse hover",
     "officialSite": "https://chrome.google.com/webstore/detail/hover-zoom%20/pccckmaobkjjboncdfnnofkonhgpceea",
-    "topics": ["chrome-extension", "productivity", "photos", "zooming", "images", "zoom-images", "hacktoberfest", "hoverzoom"]    
+    "topics": ["chrome-extension", "productivity", "photos", "zooming", "images", "zoom-images", "hacktoberfest", "hoverzoom"]
   }, {
     "repo": "hackclub/putting-the-you-in-cpu",
     "desc": "A technical explainer by @kognise of how your computer runs programs, from start to finish.",
     "officialSite": "https://cpu.land",
-    "topics": ["linux", "cpu", "linux-kernel", "elf"]    
+    "topics": ["linux", "cpu", "linux-kernel", "elf"]
   }, {
     "repo": "MaggieAppleton/digital-gardeners",
     "desc": "Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs",
     "officialSite": "",
-    "topics": ["wiki", "zettelkasten", "digital-garden", "second-brain", "digital-gardening"]    
+    "topics": ["wiki", "zettelkasten", "digital-garden", "second-brain", "digital-gardening"]
   }, {
     "repo": "processing/p5.js",
     "desc": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
     "officialSite": "http://p5js.org",
-    "topics": ["javascript", "art", "processing", "html", "learning", "education", "design", "creative-coding", "graphics", "sound", "p5js"]    
+    "topics": ["javascript", "art", "processing", "html", "learning", "education", "design", "creative-coding", "graphics", "sound", "p5js"]
   }, {
     "repo": "futureofcoding/futureofcoding.org",
     "desc": "",
     "officialSite": "http://futureofcoding.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "aquasecurity/cloudsploit",
     "desc": "Cloud Security Posture Management (CSPM)",
     "officialSite": "https://cloud.aquasec.com/signup",
-    "topics": ["aws", "security", "security-audit", "cloud", "azure", "gcp", "oracle", "oci", "alibaba", "aqua", "cspm"]    
+    "topics": ["aws", "security", "security-audit", "cloud", "azure", "gcp", "oracle", "oci", "alibaba", "aqua", "cspm"]
   }, {
     "repo": "varunshenoy/opendream",
     "desc": "An extensible, easy-to-use, and portable diffusion web UI 👨‍🎨",
     "officialSite": "",
-    "topics": ["ai", "image-generation", "diffusion", "stable-diffusion", "automatic-1111"]    
+    "topics": ["ai", "image-generation", "diffusion", "stable-diffusion", "automatic-1111"]
   }, {
     "repo": "go-shiori/shiori",
     "desc": "Simple bookmark manager built with Go",
     "officialSite": "",
-    "topics": ["go", "golang", "command-line", "web-interface", "hacktoberfest", "bookmark-manager"]    
+    "topics": ["go", "golang", "command-line", "web-interface", "hacktoberfest", "bookmark-manager"]
   }, {
     "repo": "dnakov/little-rat",
     "desc": "🐀 Small chrome extension to monitor other extensions' network calls",
     "officialSite": "",
-    "topics": ["javascript", "chrome-extension", "security-audit", "browser", "chromium"]    
+    "topics": ["javascript", "chrome-extension", "security-audit", "browser", "chromium"]
   }, {
     "repo": "icebob/validator-benchmark",
     "desc": "JS validators benchmark",
     "officialSite": "",
-    "topics": ["javascript", "benchmark", "validation", "validator"]    
+    "topics": ["javascript", "benchmark", "validation", "validator"]
   }, {
     "repo": "google/material-design-lite",
     "desc": "Material Design Components in HTML/CSS/JS",
     "officialSite": "https://getmdl.io",
-    "topics": ["material", "material-design", "material-components", "mdl", "material-design-lite"]    
+    "topics": ["material", "material-design", "material-components", "mdl", "material-design-lite"]
   }, {
     "repo": "opentffoundation/manifesto",
     "desc": "The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.",
     "officialSite": "https://opentf.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "vercel/next.js",
     "desc": "The React Framework",
     "officialSite": "https://nextjs.org",
-    "topics": ["react", "blog", "static-site-generator", "components", "node", "browser", "compiler", "universal", "nextjs", "static", "server-rendering", "hybrid", "ssg", "vercel"]    
+    "topics": ["react", "blog", "static-site-generator", "components", "node", "browser", "compiler", "universal", "nextjs", "static", "server-rendering", "hybrid", "ssg", "vercel"]
   }, {
     "repo": "dimdenGD/OldTweetDeck",
     "desc": "Returns old TweetDeck, for free!",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "schemastore/schemastore",
     "desc": "A collection of JSON schema files including full API",
     "officialSite": "http://schemastore.org",
-    "topics": ["hacktoberfest"]    
+    "topics": ["hacktoberfest"]
   }, {
     "repo": "donno2048/snake",
     "desc": "A minimal snake in assembly",
     "officialSite": "https://donno2048.github.io/snake/",
-    "topics": ["assembly", "snake-game", "dosbox", "smallest"]    
+    "topics": ["assembly", "snake-game", "dosbox", "smallest"]
   }, {
     "repo": "obra/Youtube2Webpage",
     "desc": "I learn much better from text than from video",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sequelize/sequelize",
     "desc": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.",
     "officialSite": "https://sequelize.org",
-    "topics": ["nodejs", "javascript", "mysql", "typescript", "sql", "orm", "sqlite", "postgresql", "sequelize", "mariadb", "transactions", "microsoft-sql-server", "mssql", "oracle-db", "snowflakedb", "feature-rich", "mssql-server", "db2-ibm-i"]    
+    "topics": ["nodejs", "javascript", "mysql", "typescript", "sql", "orm", "sqlite", "postgresql", "sequelize", "mariadb", "transactions", "microsoft-sql-server", "mssql", "oracle-db", "snowflakedb", "feature-rich", "mssql-server", "db2-ibm-i"]
   }, {
     "repo": "plasma-umass/scalene",
     "desc": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals",
     "officialSite": "",
-    "topics": ["python", "cpu", "profiler", "gpu", "performance-analysis", "memory-allocation", "profiling", "cpu-profiling", "memory-consumption", "gpu-programming", "python-profilers", "scalene", "profiles-memory", "performance-cpu"]    
+    "topics": ["python", "cpu", "profiler", "gpu", "performance-analysis", "memory-allocation", "profiling", "cpu-profiling", "memory-consumption", "gpu-programming", "python-profilers", "scalene", "profiles-memory", "performance-cpu"]
   }, {
     "repo": "tjy-gitnub/win12",
     "desc": "Windows 12 网页版，在线体验 点击下面的链接在线体验",
     "officialSite": "https://tjy-gitnub.github.io/win12/desktop.html",
-    "topics": ["css", "html", "js", "windows-12"]    
+    "topics": ["css", "html", "js", "windows-12"]
   }, {
     "repo": "facebook/react",
     "desc": "The library for web and native user interfaces",
     "officialSite": "https://react.dev",
-    "topics": ["react", "javascript", "library", "ui", "frontend", "declarative"]    
+    "topics": ["react", "javascript", "library", "ui", "frontend", "declarative"]
   }, {
     "repo": "safak/next-blog",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "antimatter15/splat",
     "desc": "WebGL 3D Gaussian Splat Viewer",
     "officialSite": "https://antimatter15.com/splat",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "leeoniya/uDSV",
     "desc": "A faster CSV parser in 5KB (min)",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ggbrw/boolr",
     "desc": "A digital logic simulator",
@@ -1476,9 +1476,9 @@
     "topics": []
   }, {
     "repo": "nuejs/nuejs",
-    "desc": "Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte",
+    "desc": "Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte",
     "officialSite": "",
-    "topics": []
+    "tpics": []
   }, {
     "repo": "oblador/hush",
     "desc": "Noiseless Browsing – Content Blocker for Safari",

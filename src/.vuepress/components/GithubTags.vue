@@ -11,7 +11,7 @@
 </template>
   
 <script>
-// import { Badge } from 'vuepress-plugin-components/lib/client/components/Badge'
+// import { Badge } from '../../../node_modules/vuepress-plugin-components/lib/client/components/Badge'
 export default {
   name: "GithubTags",
   // components: { Badge },

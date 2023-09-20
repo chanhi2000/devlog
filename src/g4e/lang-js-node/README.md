@@ -11,4 +11,4 @@ tags: ["js" , "node" , "nodejs"]
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-<ShieldsGroup logos="visualstudiocode,npm,yarn,vite,nodedotjs,javascript,typescript,react,createreactapp,reactrouter,reactquery,vuedotjs,vuetify,svelte"/>
+<ShieldsGroup logos="visualstudiocode,npm,pnpm,bun,yarn,vite,nodedotjs,javascript,typescript,react,createreactapp,reactrouter,reactquery,vuedotjs,vuetify,svelte"/>

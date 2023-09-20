@@ -1413,5 +1413,10 @@
     "desc": "LangChain + Next.js starter template",
     "officialSite": "https://langchain-nextjs-template.vercel.app",
     "topics": []
+  }, {
+    "repo": "symphony-hq/symphony",
+    "desc": "Use GPT-4 to call functions in sequence.",
+    "officialSite": "https://symphony.run",
+    "topics": []
   }
 ]

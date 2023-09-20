@@ -6,9 +6,6 @@
     "banner": "https://yt3.googleusercontent.com/77rgy_K1x5IGkaljPkHRMAHpZg5d1KxqvAp_7euFq0Yh4bvBFRdAOskD4T5g67UWxwFSM2j94g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Ix9WIZpArm0",
-      "title": "GPT-4 Tutorial: How to Chat With Multiple PDF Files (~1000 pages of Tesla's 10-K Annual Reports)"
-    }
+    { "id": "Ix9WIZpArm0", "title": "GPT-4 Tutorial: How to Chat With Multiple PDF Files (~1000 pages of Tesla's 10-K Annual Reports)" }
   ]
 }

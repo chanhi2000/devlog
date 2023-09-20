@@ -3,432 +3,432 @@
     "repo": "google/android-emulator-hypervisor-driver",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nalgeon/sqlean",
     "desc": "The ultimate set of SQLite extensions",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "facebook/zstd",
     "desc": "Zstandard - Fast real-time compression algorithm",
     "officialSite": "http://www.zstd.net",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/checkedc",
     "desc": "Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, a…",
     "officialSite": "https://www.microsoft.com/en-us/research/project/checked-c",
-    "topics": ["microsoft", "c", "programming-language", "llvm", "clang", "system-programming"]    
+    "topics": ["microsoft", "c", "programming-language", "llvm", "clang", "system-programming"]
   }, {
     "repo": "ciniml/WireGuard-ESP32-Arduino",
     "desc": "WireGuard implementation for ESP32 Arduino",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "DarkFlippers/unleashed-firmware",
     "desc": "Flipper Zero Unleashed Firmware",
     "officialSite": "https://t.me/flipperzero_unofficial",
-    "topics": ["flipper", "firmware", "jailbreak", "unleashed", "keeloq", "flipper-plugins", "rolling-codes", "alternative-firmware", "flipperzero", "flipper-zero", "darkflippers"]    
+    "topics": ["flipper", "firmware", "jailbreak", "unleashed", "keeloq", "flipper-plugins", "rolling-codes", "alternative-firmware", "flipperzero", "flipper-zero", "darkflippers"]
   }, {
     "repo": "FFmpeg/FFmpeg",
     "desc": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
     "officialSite": "https://ffmpeg.org",
-    "topics": ["audio", "c", "streaming", "video", "rtsp", "ffmpeg", "mp4", "hls", "multimedia", "rtmp", "webm", "mpeg", "fft", "hevc", "matroska"]    
+    "topics": ["audio", "c", "streaming", "video", "rtsp", "ffmpeg", "mp4", "hls", "multimedia", "rtmp", "webm", "mpeg", "fft", "hevc", "matroska"]
   }, {
     "repo": "Immediate-Mode-UI/Nuklear",
     "desc": "A single-header ANSI C immediate mode cross-platform GUI library",
     "officialSite": "https://immediate-mode-ui.github.io/Nuklear/doc/index.html",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jerryscript-project/jerryscript",
     "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
     "officialSite": "https://jerryscript.net",
-    "topics": ["javascript", "iot", "runtime", "internet-of-things", "javascript-engine", "jerryscript"]    
+    "topics": ["javascript", "iot", "runtime", "internet-of-things", "javascript-engine", "jerryscript"]
   }, {
     "repo": "ggerganov/ggml",
     "desc": "Tensor library for machine learning",
     "officialSite": "",
-    "topics": ["machine-learning", "automatic-differentiation", "tensor-algebra", "large-language-models"]    
+    "topics": ["machine-learning", "automatic-differentiation", "tensor-algebra", "large-language-models"]
   }, {
     "repo": "raysan5/raylib",
     "desc": "A simple and easy-to-use library to enjoy videogames programming",
     "officialSite": "http://www.raylib.com",
-    "topics": ["android", "c", "linux", "raspberry-pi", "iot", "gamedev", "embedded", "programming", "opengl", "game-engine", "graphics", "game-development", "raylib", "webassembly", "wasm", "videogames", "hacktoberfest"]    
+    "topics": ["android", "c", "linux", "raspberry-pi", "iot", "gamedev", "embedded", "programming", "opengl", "game-engine", "graphics", "game-development", "raylib", "webassembly", "wasm", "videogames", "hacktoberfest"]
   }, {
     "repo": "flipperdevices/flipperzero-firmware",
     "desc": "Flipper Zero firmware source code",
     "officialSite": "https://flipperzero.one",
-    "topics": ["flipper", "firmware", "stm32", "rfid", "nfc", "ble", "infrared", "onewire", "armv7m", "subghz", "flipperzero"]    
+    "topics": ["flipper", "firmware", "stm32", "rfid", "nfc", "ble", "infrared", "onewire", "armv7m", "subghz", "flipperzero"]
   }, {
     "repo": "ventoy/Ventoy",
     "desc": "A new bootable USB solution.",
     "officialSite": "https://www.ventoy.net",
-    "topics": ["windows", "linux", "unix", "legacy", "usb", "multiboot", "persistence", "bsd", "uefi", "chromeos", "iso-files", "secure-boot", "unattended", "auto-install", "bootable-usb"]    
+    "topics": ["windows", "linux", "unix", "legacy", "usb", "multiboot", "persistence", "bsd", "uefi", "chromeos", "iso-files", "secure-boot", "unattended", "auto-install", "bootable-usb"]
   }, {
     "repo": "libAudioFlux/audioFlux",
     "desc": "A library for audio and music analysis, feature extraction.",
     "officialSite": "https://audioflux.top",
-    "topics": ["audio", "python", "music", "machine-learning", "deep-learning", "signal-processing", "audio-features", "audio-analysis", "music-information-retrieval", "spectrogram", "mfcc", "pitch", "mir", "spectral-analysis", "music-analysis", "audio-processing", "wavelet-analysis", "wavelet-transform", "time-frequency-analysis"]    
+    "topics": ["audio", "python", "music", "machine-learning", "deep-learning", "signal-processing", "audio-features", "audio-analysis", "music-information-retrieval", "spectrogram", "mfcc", "pitch", "mir", "spectral-analysis", "music-analysis", "audio-processing", "wavelet-analysis", "wavelet-transform", "time-frequency-analysis"]
   }, {
     "repo": "curl/urler",
     "desc": "trurl is a command line tool for URL parsing and manipulation.",
     "officialSite": "",
-    "topics": ["url", "parsing", "manipulation", "command-line-tool"]    
+    "topics": ["url", "parsing", "manipulation", "command-line-tool"]
   }, {
     "repo": "system76/firmware-open",
     "desc": "System76 Open Firmware",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Facico/Chinese-Vicuna",
     "desc": "Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca",
     "officialSite": "https://github.com/Facico/Chinese-Vicuna",
-    "topics": ["chinese", "llama", "alpaca", "vicuna"]    
+    "topics": ["chinese", "llama", "alpaca", "vicuna"]
   }, {
     "repo": "eduard-permyakov/permafrost-engine",
     "desc": "An OpenGL RTS game engine written in C",
     "officialSite": "",
-    "topics": ["python", "c", "opengl", "game-engine", "rts", "game-engine-3d", "rendering-3d-graphics", "rts-engine", "real-time-strategy"]    
+    "topics": ["python", "c", "opengl", "game-engine", "rts", "game-engine-3d", "rendering-3d-graphics", "rts-engine", "real-time-strategy"]
   }, {
     "repo": "davidgiven/wordgrinder",
     "desc": "A word processor which gets the hell out of your way and lets you get some work done.",
     "officialSite": "http://cowlark.com/wordgrinder",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "xiaorouji/openwrt-passwall",
     "desc": "A commonly used proxy toolchain for Openwrt LuCI Application.",
     "officialSite": "",
-    "topics": ["openwrt", "luci-app-passwall"]    
+    "topics": ["openwrt", "luci-app-passwall"]
   }, {
     "repo": "little-brother/sqlite-gui",
     "desc": "Lightweight SQLite editor for Windows",
     "officialSite": "",
-    "topics": ["editor", "windows", "gui", "extension", "sql", "database", "administration", "tool", "manager", "xml", "sqlite", "winapi", "database-management", "sqlite3"]    
+    "topics": ["editor", "windows", "gui", "extension", "sql", "database", "administration", "tool", "manager", "xml", "sqlite", "winapi", "database-management", "sqlite3"]
   }, {
     "repo": "rvs/planD",
     "desc": "Plan9 from Containerspace",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "aolserver/aolserver",
     "desc": "AOLserver is America Online's Open-Source web server. AOLserver is the backbone of the largest and busiest production environments in the world. AOLserver is a multithreaded, Tcl-enabled web server used for large scale, dynamic web sites.",
     "officialSite": "http://aolserver.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "haileys/doslinux",
     "desc": "Run Linux programs on DOS",
     "officialSite": "",
-    "topics": ["linux", "dos", "wsl"]    
+    "topics": ["linux", "dos", "wsl"]
   }, {
     "repo": "aappleby/PicoRVD",
     "desc": "GDB-compatible RISC-V Debugger for CH32V003 that runs on a Raspberry Pi Pico",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "0015/ThatProject",
     "desc": "*That Project's project repository",
     "officialSite": "https://youtube.com/thatproject",
-    "topics": ["mqtt", "esp8266", "gui", "firebase", "tutorial", "camera", "esp32", "flutter", "mcu", "gfx", "espressif", "firebase-database", "firebase-realtime-database", "lvgl", "esp32-cam", "iot-project", "embedded-project"]    
+    "topics": ["mqtt", "esp8266", "gui", "firebase", "tutorial", "camera", "esp32", "flutter", "mcu", "gfx", "espressif", "firebase-database", "firebase-realtime-database", "lvgl", "esp32-cam", "iot-project", "embedded-project"]
   }, {
     "repo": "taviso/123elf",
     "desc": "A native port of Lotus 1-2-3 to Linux.",
     "officialSite": "https://123r3.net",
-    "topics": ["unix", "terminal", "spreadsheet", "retrocomputing", "lotus"]    
+    "topics": ["unix", "terminal", "spreadsheet", "retrocomputing", "lotus"]
   }, {
     "repo": "retrospectmike/MacDock",
     "desc": "Like the macOS Dock... but for System 7",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ajouatom/apilot",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "coolsnowwolf/lede",
     "desc": "Lean's LEDE source",
     "officialSite": "",
-    "topics": ["lua", "lede", "openwrt-package", "openwrt-zh-cn", "openwrt-feed"]    
+    "topics": ["lua", "lede", "openwrt-package", "openwrt-zh-cn", "openwrt-feed"]
   }, {
     "repo": "UberGuidoZ/Flipper",
     "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "toverainc/willow",
     "desc": "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",
     "officialSite": "",
-    "topics": ["home-automation", "alexa", "privacy", "deep-learning", "echo", "esp32", "speech-recognition", "home-assistant", "speech-to-text", "google-home", "esp-idf", "whisper", "esp-adf"]    
+    "topics": ["home-automation", "alexa", "privacy", "deep-learning", "echo", "esp32", "speech-recognition", "home-assistant", "speech-to-text", "google-home", "esp-idf", "whisper", "esp-adf"]
   }, {
     "repo": "torvalds/linux",
     "desc": "Linux kernel source tree",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "facebookincubator/CG-SQL",
     "desc": "CG/SQL is a compiler that converts a SQL Stored Procedure like language into C for SQLite. SQLite has no stored procedures of its own. CG/CQL can also generate other useful artifacts for testing and schema maintenance.",
     "officialSite": "https://cgsql.dev",
-    "topics": ["c", "sql", "sqlite", "c-lang"]    
+    "topics": ["c", "sql", "sqlite", "c-lang"]
   }, {
     "repo": "yhzhang0128/egos-2000",
     "desc": "A minimal operating system (2K LOC) on QEMU and a RISC-V board",
     "officialSite": "",
-    "topics": ["education", "operating-system"]    
+    "topics": ["education", "operating-system"]
   }, {
     "repo": "Klipper3d/klipper", 
     "desc": "Klipper is a 3d-printer firmware",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "libarchive/libarchive",
     "desc": "Multi-format archive and compression library",
     "officialSite": "http://www.libarchive.org",
-    "topics": ["backup", "zip", "tar", "rar", "archiving", "cab", "posix", "zstd", "lzma", "iso9660", "xz", "gz", "bz2", "libarchive", "7zip", "cpio", "xar"]    
+    "topics": ["backup", "zip", "tar", "rar", "archiving", "cab", "posix", "zstd", "lzma", "iso9660", "xz", "gz", "bz2", "libarchive", "7zip", "cpio", "xar"]
   }, {
     "repo": "xorvoid/sectorc",
     "desc": "A C Compiler that fits in the 512 byte boot sector of an x86 machine",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "libuv/libuv",
     "desc": "Cross-platform asynchronous I/O",
     "officialSite": "https://libuv.org",
-    "topics": ["windows", "unix", "networking", "asynchronous", "unicorns", "io", "velociraptors", "deep-io"]    
+    "topics": ["windows", "unix", "networking", "asynchronous", "unicorns", "io", "velociraptors", "deep-io"]
   }, {
     "repo": "lukneu/doom-teletext",
     "desc": "Play DOOM in teletext",
     "officialSite": "",
-    "topics": ["doom", "teletext", "videotext", "teletext-pages"]    
+    "topics": ["doom", "teletext", "videotext", "teletext-pages"]
   }, {
     "repo": "jart/blink",
     "desc": "tiniest x86-64-linux emulator",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "containers/crun",
     "desc": "A fast and lightweight fully featured OCI runtime and C library for running containers",
     "officialSite": "",
-    "topics": ["linux", "iot", "runtime", "containers", "oci", "runc", "iot-cloud", "oci-runtime", "wasm-oci"]    
+    "topics": ["linux", "iot", "runtime", "containers", "oci", "runc", "iot-cloud", "oci-runtime", "wasm-oci"]
   }, {
     "repo": "pbatard/rufus",
     "desc": "The Reliable USB Formatting Utility",
     "officialSite": "https://rufus.ie",
-    "topics": ["c", "windows", "usb", "iso", "persistence", "boot", "md5", "uefi", "sha1", "sha256", "syslinux", "grub", "mbr", "gpt", "secure-boot", "bios", "bootable-drives", "freedos", "grub4dos", "windows-to-go"]    
+    "topics": ["c", "windows", "usb", "iso", "persistence", "boot", "md5", "uefi", "sha1", "sha256", "syslinux", "grub", "mbr", "gpt", "secure-boot", "bios", "bootable-drives", "freedos", "grub4dos", "windows-to-go"]
   }, {
     "repo": "Zirias/poser",
     "desc": "POsix SERvices framework for C",
     "officialSite": "https://zirias.github.io/poser",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mackyle/sqlite",
     "desc": "Unofficial git mirror of SQLite sources (see link for build instructions)",
     "officialSite": "https://repo.or.cz/sqlite.git",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "openSIL/openSIL",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "uTox/uTox",
     "desc": "µTox the lightest and fluffiest Tox client",
     "officialSite": "",
-    "topics": ["android", "c", "light", "windows", "macos", "linux", "fast", "lightweight", "security", "video", "osx", "text", "messenger", "voice", "secure", "private", "encrypted", "tox", "str8c"]    
+    "topics": ["android", "c", "light", "windows", "macos", "linux", "fast", "lightweight", "security", "video", "osx", "text", "messenger", "voice", "secure", "private", "encrypted", "tox", "str8c"]
   }, {
     "repo": "ataradov/usb-sniffer",
     "desc": "Low-cost LS/FS/HS USB sniffer with Wireshark interface",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "acidanthera/OpenCorePkg",
     "desc": "OpenCore bootloader",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "flowdriveai/flowpilot",
     "desc": "flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tinycorelinux/tinyx",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "OpenRC/openrc",
     "desc": "The OpenRC init system",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "systemd/systemd",
     "desc": "The systemd System and Service Manager",
     "officialSite": "https://systemd.io",
-    "topics": ["c", "linux", "services", "system", "systemd", "init"]    
+    "topics": ["c", "linux", "services", "system", "systemd", "init"]
   }, {
     "repo": "universal-ctags/ctags",
     "desc": "A maintained ctags implementation",
     "officialSite": "https://ctags.io",
-    "topics": ["code-navigation", "ctags", "code-analysis", "developer-tools", "code-completion", "code-summarization", "tagjumping", "code-reading"]    
+    "topics": ["code-navigation", "ctags", "code-analysis", "developer-tools", "code-completion", "code-summarization", "tagjumping", "code-reading"]
   }, {
     "repo": "oracle-samples/bpftune",
     "desc": "bpftune uses BPF to auto-tune Linux systems",
     "officialSite": "",
-    "topics": ["linux", "ebpf", "bpf", "auto-tuning"]    
+    "topics": ["linux", "ebpf", "bpf", "auto-tuning"]
   }, {
     "repo": "floooh/sokol",
     "desc": "minimal cross-platform standalone C headers",
     "officialSite": "https://floooh.github.io/sokol-html5",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "CoretechR/OMOTE",
     "desc": "Open Source Remote Using ESP32 and LVGL",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mkirchner/hamt",
     "desc": "A hash array-mapped trie implementation in C",
     "officialSite": "",
-    "topics": ["c", "tutorial", "immutable", "data-structure", "c99", "hash-array-mapped-trie", "datastructure"]    
+    "topics": ["c", "tutorial", "immutable", "data-structure", "c99", "hash-array-mapped-trie", "datastructure"]
   }, {
     "repo": "containers/bubblewrap",
     "desc": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
     "officialSite": "",
-    "topics": ["linux-containers", "user-namespaces"]    
+    "topics": ["linux-containers", "user-namespaces"]
   }, {
     "repo": "netblue30/firejail",
     "desc": "Linux namespaces and seccomp-bpf sandbox",
     "officialSite": "https://firejail.wordpress.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ldpreload/BlackLotus",
     "desc": "BlackLotus UEFI Windows Bootkit",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Genymobile/scrcpy",
     "desc": "Display and control your Android device",
     "officialSite": "",
-    "topics": ["android", "c", "ffmpeg", "sdl2", "screen", "libav", "recording", "mirroring"]    
+    "topics": ["android", "c", "ffmpeg", "sdl2", "screen", "libav", "recording", "mirroring"]
   }, {
     "repo": "orioledb/orioledb",
     "desc": "OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦",
     "officialSite": "",
-    "topics": ["postgres", "sql", "database", "postgresql", "postgresql-extension", "table-access-method", "orioledb"]    
+    "topics": ["postgres", "sql", "database", "postgresql", "postgresql-extension", "table-access-method", "orioledb"]
   }, {
     "repo": "bartobri/no-more-secrets",
     "desc": "A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.",
     "officialSite": "",
-    "topics": ["terminal", "movie", "matrix", "effect", "hacker", "sneakers"]    
+    "topics": ["terminal", "movie", "matrix", "effect", "hacker", "sneakers"]
   }, {
     "repo": "jmorganca/ollama",
     "desc": "Get up and running with Llama 2 and other large language models locally",
     "officialSite": "https://ollama.ai",
-    "topics": ["go", "golang", "llama", "llm", "llms", "llama2"]    
+    "topics": ["go", "golang", "llama", "llm", "llms", "llama2"]
   }, {
     "repo": "tavianator/bfs",
     "desc": "A breadth-first version of the UNIX find command",
     "officialSite": "https://tavianator.com/projects/bfs.html",
-    "topics": ["macos", "linux", "unix", "command-line", "filesystem", "find", "bsd", "directory-tree", "breadth-first-search"]    
+    "topics": ["macos", "linux", "unix", "command-line", "filesystem", "find", "bsd", "directory-tree", "breadth-first-search"]
   }, {
     "repo": "plv8/pljs",
     "desc": "PLJS - Javascript Language Plugin for PostreSQL",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "felix-pb/kfd",
     "desc": "kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "othermod/PSPi-Version-6",
     "desc": "",
     "officialSite": "https://othermod.com/pspi6",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "janet-lang/janet",
     "desc": "A dynamic language and bytecode vm",
     "officialSite": "https://janet-lang.org/",
-    "topics": ["c", "language", "vm", "lisp", "interpreter", "repl", "macros", "functional-language", "imperative-language"]    
+    "topics": ["c", "language", "vm", "lisp", "interpreter", "repl", "macros", "functional-language", "imperative-language"]
   }, {
     "repo": "google/security-research",
     "desc": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
     "officialSite": "https://www.google.com/about/appsecurity",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nebuloss/killer",
     "desc": "kill explorer.exe and dwm.exe dynamically",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Ralim/IronOS",
     "desc": "Open Source Soldering Iron firmware",
     "officialSite": "https://ralim.github.io/IronOS",
-    "topics": ["hex", "flash", "firmware", "temperature", "temperature-control", "pine64", "iron", "ts100", "alternate", "soldering", "soldering-irons", "ts80", "ts80p", "pinecil"]    
+    "topics": ["hex", "flash", "firmware", "temperature", "temperature-control", "pine64", "iron", "ts100", "alternate", "soldering", "soldering-irons", "ts80", "ts80p", "pinecil"]
   }, {
     "repo": "hydradatabase/hydra",
     "desc": "Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.",
     "officialSite": "https://www.hydra.so",
-    "topics": ["postgres", "postgresql", "data-warehouse", "datawarehouse", "postgresql-extension"]    
+    "topics": ["postgres", "postgresql", "data-warehouse", "datawarehouse", "postgresql-extension"]
   }, {
     "repo": "lucavallin/barco",
     "desc": "Linux containers from scratch in C.",
     "officialSite": "https://cavall.in",
-    "topics": ["c", "linux", "containers"]    
+    "topics": ["c", "linux", "containers"]
   }, {
     "repo": "brunodev85/winlator",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "phoboslab/qoa",
     "desc": "Qalculate! library and CLI",
     "officialSite": "https://qalculate.github.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "phoboslab/wipeout-rewrite",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "openzfs/zfs",
     "desc": "OpenZFS on Linux and FreeBSD",
     "officialSite": "https://openzfs.github.io/openzfs-docs",
-    "topics": ["file-system", "openzfs", "system-software"]    
+    "topics": ["file-system", "openzfs", "system-software"]
   }, {
     "repo": "palera1n/palera1n",
     "desc": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "FrenkelS/Doom8088",
     "desc": "Doom for 16-bit DOS computers",
     "officialSite": "",
-    "topics": ["doom", "ms-dos"]    
+    "topics": ["doom", "ms-dos"]
   }, {
     "repo": "ddosify/alaz",
     "desc": "Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring",
     "officialSite": "https://ddosify.com",
-    "topics": ["kubernetes", "monitoring", "metrics", "prometheus", "ebpf", "observability", "ddosify"]    
+    "topics": ["kubernetes", "monitoring", "metrics", "prometheus", "ebpf", "observability", "ddosify"]
   }, {
     "repo": "SEED-EA/O1ShufflingGrouping",
     "desc": "The code to accompany \"Constant Time Stateless Shuffling and Grouping\"",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jqlang/jq",
     "desc": "Command-line JSON processor",
     "officialSite": "https://jqlang.github.io/jq",
-    "topics": ["jq"]    
+    "topics": ["jq"]
   }, {
     "repo": "FelixK15/c_ocoa",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nginx/unit",
     "desc": "NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.",
     "officialSite": "https://unit.nginx.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "codazoda/hub-ctrl.c",
     "desc": "Control USB power on a port by port basis on some USB hubs.",
@@ -449,5 +449,10 @@
     "desc": "Ultrarare's entry for 2023 n64 game jam",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "grafana/beyla",
+    "desc": "eBPF-based autoinstrumentation of HTTP and HTTPS services",
+    "officialSite": "",
+    "topics": ["ebpf", "metrics-gathering", "observability", "traces"]
   }
 ]

@@ -3,376 +3,381 @@
     "repo": "Ayanaminn/N46Whisper",
     "desc": "Whisper based Japanese subtitle generator",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tloen/alpaca-lora",
     "desc": "Instruct-tune LLaMA on consumer hardware",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "deep-diver/Alpaca-LoRA-Serve",
     "desc": "Alpaca-LoRA as Chatbot service",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mymusise/ChatGLM-Tuning",
     "desc": "一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Beomi/KoAlpaca",
     "desc": "KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "showlab/Tune-A-Video",
     "desc": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "LC1332/Chinese-alpaca-lora",
     "desc": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "traghav/auto-redteam",
     "desc": "Redteaming LLMs using other LLMs",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "yuanzhoulvpi2017/zero_nlp",
     "desc": "中文nlp应用(数据、模型、训练、推理) chatglm6b",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "PhoebusSi/Alpaca-CoT",
     "desc": "We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集,并在我们框架下集成进更多的LLM。）",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ai-forever/Kandinsky-2",
     "desc": "Kandinsky 2 — multilingual text2image latent diffusion model",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "facebookresearch/segment-anything",
     "desc": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "IDEA-Research/Grounded-Segment-Anything",
     "desc": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jpmorganchase/python-training",
     "desc": "Python training for business analysts and traders",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "prophesier/diff-svc",
     "desc": "Singing Voice Conversion via diffusion model",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sdatkinson/neural-amp-modeler",
     "desc": "Neural network emulator for guitar amplifiers.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "agiresearch/OpenAGI",
     "desc": "OpenAGI: When LLM Meets Domain Experts",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "kw2828/Dolly-2.0-Series",
     "desc": "Resources for running, fine-tuning, and inferencing Dolly 2.0",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "geekyutao/Inpaint-Anything",
     "desc": "Inpaint anything using Segment Anything and inpainting models.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "suno-ai/bark",
     "desc": "🔊 Text-Prompted Generative Audio Model",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Stability-AI/StableLM",
     "desc": "StableLM: Stability AI Language Models",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "datawhalechina/hugging-llm",
     "desc": "HuggingLLM, Hugging Future.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "lupantech/chameleon-llm",
     "desc": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
     "officialSite": "https://chameleon-llm.github.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "roboflow/notebooks",
     "desc": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
     "officialSite": "https://roboflow.com/models",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API",
     "desc": "Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.",
     "officialSite": "",
-    "topics": ["python", "ai", "reverse-engineering", "openai", "gpt-4", "gpt4", "chatgpt", "chatgpt-api", "chatgpt-free", "gpt-4-api", "autogpt", "free-autogpt", "autogpt-no-paid-api", "democratize-ai", "open-source-gpt", "open-source-auto-gpt"]    
+    "topics": ["python", "ai", "reverse-engineering", "openai", "gpt-4", "gpt4", "chatgpt", "chatgpt-api", "chatgpt-free", "gpt-4-api", "autogpt", "free-autogpt", "autogpt-no-paid-api", "democratize-ai", "open-source-gpt", "open-source-auto-gpt"]
   }, {
     "repo": "datawhalechina/prompt-engineering-for-developers",
     "desc": "吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "google-research/google-research",
     "desc": "Google Research",
     "officialSite": "https://research.google",
-    "topics": ["machine-learning", "research", "ai"]    
+    "topics": ["machine-learning", "research", "ai"]
   }, {
     "repo": "1rgs/jsonformer",
     "desc": "A Bulletproof Way to Generate Structured JSON from Language Models",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Deci-AI/super-gradients",
     "desc": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
     "officialSite": "https://www.supergradients.com",
-    "topics": ["computer-vision", "deep-learning", "neural-network", "pytorch", "imagenet", "image-classification", "object-detection", "transfer-learning", "pretrained-models", "semantic-segmentation", "pretrained-weights"]    
+    "topics": ["computer-vision", "deep-learning", "neural-network", "pytorch", "imagenet", "image-classification", "object-detection", "transfer-learning", "pretrained-models", "semantic-segmentation", "pretrained-weights"]
   }, {
     "repo": "Azure/Azure-Sentinel",
     "desc": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
     "officialSite": "https://azure.microsoft.com/en-us/services/azure-sentinel",
-    "topics": ["cybersecurity", "sample-code"]    
+    "topics": ["cybersecurity", "sample-code"]
   }, {
     "repo": "fastai/nbdev",
     "desc": "Create delightful software with Jupyter Notebooks",
     "officialSite": "https://nbdev.fast.ai",
-    "topics": ["python", "jupyter", "pypi", "documentation-tool", "conda", "developer-tools", "literate-programming", "jupyter-notebooks", "python-modules", "fastai", "documentation-generator", "nbdev"]    
+    "topics": ["python", "jupyter", "pypi", "documentation-tool", "conda", "developer-tools", "literate-programming", "jupyter-notebooks", "python-modules", "fastai", "documentation-generator", "nbdev"]
   }, {
     "repo": "invoke-ai/InvokeAI",
     "desc": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
     "officialSite": "https://invoke-ai.github.io/InvokeAI",
-    "topics": ["windows", "macos", "linux", "artificial-intelligence", "generative-art", "image-generation", "inpainting", "img2img", "ai-art", "outpainting", "txt2img", "latent-diffusion", "stable-diffusion"]    
+    "topics": ["windows", "macos", "linux", "artificial-intelligence", "generative-art", "image-generation", "inpainting", "img2img", "ai-art", "outpainting", "txt2img", "latent-diffusion", "stable-diffusion"]
   }, {
     "repo": "dsdanielpark/Bard-API",
     "desc": "The python package that returns response of Google Bard through API.",
     "officialSite": "https://pypi.org/project/bardapi",
-    "topics": ["nlp", "api", "google", "chatbot", "google-maps-api", "bard", "ai-api", "llm", "google-bard", "google-bard-python", "bard-api", "googlebard", "google-bard-api"]    
+    "topics": ["nlp", "api", "google", "chatbot", "google-maps-api", "bard", "ai-api", "llm", "google-bard", "google-bard-python", "bard-api", "googlebard", "google-bard-api"]
   }, {
     "repo": "microsoft/guidance",
     "desc": "A guidance language for controlling large language models.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "UFund-Me/Qbot",
     "desc": "[🔥updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant",
     "officialSite": "https://github.com/Charmve",
-    "topics": ["machine-learning", "quantitative-finance", "trademarks", "quantization", "funds", "strategies", "quantitative-trading", "pytrade"]    
+    "topics": ["machine-learning", "quantitative-finance", "trademarks", "quantization", "funds", "strategies", "quantitative-trading", "pytrade"]
   }, {
     "repo": "the-full-stack/website",
     "desc": "Source for https://fullstackdeeplearning.com",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "artidoro/qlora",
     "desc": "QLoRA: Efficient Finetuning of Quantized LLMs",
     "officialSite": "https://arxiv.org/abs/2305.14314",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "drboog/ProFusion",
     "desc": "Code for Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "Azure/cognitive-search-vector-pr",
     "desc": "The official documentation and code samples for the Vector search feature (preview) in Azure Cognitive Search.",
     "officialSite": "https://azure.microsoft.com/products/search",
-    "topics": ["azure", "vector", "embeddings", "vector-search", "azurecognitivesearch"]    
+    "topics": ["azure", "vector", "embeddings", "vector-search", "azurecognitivesearch"]
   }, {
     "repo": "GoogleCloudPlatform/generative-ai",
     "desc": "Sample code and notebooks for Generative AI on Google Cloud",
     "officialSite": "https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview",
-    "topics": ["gcp", "google-cloud", "google-cloud-platform", "vertex-ai", "llm", "generative-ai", "palm-api"]    
+    "topics": ["gcp", "google-cloud", "google-cloud-platform", "vertex-ai", "llm", "generative-ai", "palm-api"]
   }, {
     "repo": "FranxYao/chain-of-thought-hub",
     "desc": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ossrs/ffmpeg-webrtc",
     "desc": "Support WebRTC(WHIP) for FFmpeg.",
     "officialSite": "https://ffmpeg.org",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ctlllll/LLM-ToolMaker",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "FurkanGozukara/Stable-Diffusion",
     "desc": "Best Stable Diffusion and AI Tutorials, Guides, News, Tips and Tricks",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "zsylvester/segmenteverygrain",
     "desc": "A SAM-based model for instance segmentation of images of grains",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "camenduru/text-to-video-synthesis-colab",
     "desc": "Text To Video Synthesis Colab",
     "officialSite": "",
-    "topics": ["colab", "colaboratory", "colab-notebook", "text-to-video", "t2v"]    
+    "topics": ["colab", "colaboratory", "colab-notebook", "text-to-video", "t2v"]
   }, {
     "repo": "stefan-jansen/machine-learning-for-trading",
     "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
     "officialSite": "https://ml4trading.io",
-    "topics": ["finance", "data-science", "machine-learning", "deep-learning", "trading", "artificial-intelligence", "trading-strategies", "investment", "synthetic-data", "investment-strategies", "ml4t-workflow", "trading-agent"]    
+    "topics": ["finance", "data-science", "machine-learning", "deep-learning", "trading", "artificial-intelligence", "trading-strategies", "investment", "synthetic-data", "investment-strategies", "ml4t-workflow", "trading-agent"]
   }, {
     "repo": "AI4Finance-Foundation/FinGPT",
     "desc": "Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.",
     "officialSite": "",
-    "topics": ["nlp", "finance", "machine-learning", "reinforcement-learning", "sentiment-analysis", "pytorch", "fintech", "technical-analysis", "robo-advisor", "large-language-models", "prompt-engineering", "chatgpt", "fingpt"]    
+    "topics": ["nlp", "finance", "machine-learning", "reinforcement-learning", "sentiment-analysis", "pytorch", "fintech", "technical-analysis", "robo-advisor", "large-language-models", "prompt-engineering", "chatgpt", "fingpt"]
   }, {
     "repo": "camenduru/MusicGen-colab",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tatsu-lab/alpaca_eval",
     "desc": "A validated automatic evaluator for instruction-following language models. High-quality, cheap, and fast.",
     "officialSite": "https://tatsu-lab.github.io/alpaca_eval",
-    "topics": ["nlp", "deep-learning", "leaderboard", "evaluation", "instruction-following", "foundation-models", "large-language-models", "rlhf"]    
+    "topics": ["nlp", "deep-learning", "leaderboard", "evaluation", "instruction-following", "foundation-models", "large-language-models", "rlhf"]
   }, {
     "repo": "AI4Finance-Foundation/FinNLP",
     "desc": "Democratizing Internet-scale financial data.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "refuel-ai/autolabel",
     "desc": "Label, clean and enrich text datasets with LLMs",
     "officialSite": "https://docs.refuel.ai",
-    "topics": ["python", "data-science", "machine-learning", "huggingface-transformers", "gpt-4", "large-language-models", "llm", "llms", "langchain", "anthropic-claude"]    
+    "topics": ["python", "data-science", "machine-learning", "huggingface-transformers", "gpt-4", "large-language-models", "llm", "llms", "langchain", "anthropic-claude"]
   }, {
     "repo": "cvg/LightGlue",
     "desc": "LightGlue: Local Feature Matching at Light Speed",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ChaoningZhang/MobileSAM",
     "desc": "This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ChaoningZhang/MobileSAM",
     "desc": "This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "imoneoi/openchat",
     "desc": "OpenChat: Less is More for Open-source Models",
     "officialSite": "https://huggingface.co/openchat/openchat",
-    "topics": ["open-source", "transformers", "large-language-models"]    
+    "topics": ["open-source", "transformers", "large-language-models"]
   }, {
     "repo": "unlearning-challenge/starting-kit",
     "desc": "Starting kit for the NeurIPS 2023 unlearning challenge",
     "officialSite": "https://unlearning-challenge.github.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "unlearning-challenge/starting-kit",
     "desc": "Starting kit for the NeurIPS 2023 unlearning challenge",
     "officialSite": "https://unlearning-challenge.github.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "CStanKonrad/long_llama",
     "desc": "LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.",
     "officialSite": "",
-  "topics": []    
+  "topics": []
   }, {
     "repo": "rasbt/scipy2023-deeplearning",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mshumer/gpt-prompt-engineer",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "facebookresearch/llama-recipes",
     "desc": "Examples and recipes for Llama 2 model",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "DjangoPeng/openai-quickstart",
     "desc": "A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "camenduru/text-generation-webui-colab",
     "desc": "A colab gradio web UI for running Large Language Models",
     "officialSite": "",
-    "topics": ["colab", "llama", "gradio", "koala", "llamas", "alpaca", "lama", "colaboratory", "colab-notebook", "vicuna", "llm"]    
+    "topics": ["colab", "llama", "gradio", "koala", "llamas", "alpaca", "lama", "colaboratory", "colab-notebook", "vicuna", "llm"]
   }, {
     "repo": "guochengqian/Magic123",
     "desc": "Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors",
     "officialSite": "https://guochengqian.github.io/project/magic123",
-    "topics": ["3d-generation", "diffusion-models", "image-to-3d"]    
+    "topics": ["3d-generation", "diffusion-models", "image-to-3d"]
   }, {
     "repo": "llSourcell/DoctorGPT",
     "desc": "DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "mshumer/gpt-llm-trainer",
     "desc": "",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "BerriAI/litellm",
     "desc": "lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation",
     "officialSite": "https://docs.litellm.ai/docs",
-    "topics": ["openai", "llm", "langchain", "llmops", "anthropic", "langchain-python"]    
+    "topics": ["openai", "llm", "langchain", "llmops", "anthropic", "langchain-python"]
   }, {
     "repo": "minimaxir/sdxl-experiments",
     "desc": "Jupyter Notebooks for experimenting with Stable Diffusion XL 1.0",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "microsoft/lida",
     "desc": "Automatic Generation of Visualizations and Infographics using Large Language Models",
     "officialSite": "https://microsoft.github.io/lida",
-    "topics": ["visualization", "openai", "datavisualization", "cohere", "openai-api", "llm", "palm2"]    
+    "topics": ["visualization", "openai", "datavisualization", "cohere", "openai-api", "llm", "palm2"]
   }, {
     "repo": "stanfordnlp/dspy",
     "desc": "DSPy: The framework for programming with foundation models",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "guidance-ai/guidance",
     "desc": "A guidance language for controlling large language models.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "tencent-ailab/IP-Adapter",
     "desc": "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ray-project/llm-applications",
     "desc": "A comprehensive guide to building RAG-based LLM applications for production.",
     "officialSite": "",
     "topics": ["machine-learning", "openai", "ray", "serving", "fine-tuning", "anyscale", "llms", "llama2"]
+  }, {
+    "repo": "williamyang1991/Rerender_A_Video",
+    "desc": "Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation",
+    "officialSite": "",
+    "topics": ["video-processing", "diffusion", "controlnet"]
   }
 ]

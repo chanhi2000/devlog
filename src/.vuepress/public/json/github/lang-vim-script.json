@@ -3,16 +3,16 @@
     "repo": "Exafunction/codeium.vim",
     "desc": "Free, ultrafast Copilot alternative for Vim and Neovim",
     "officialSite": "https://www.codeium.com",
-    "topics": ["javascript", "ruby", "python", "vim", "go", "editor", "rust", "golang", "autocomplete", "typescript", "extension", "neovim", "ide", "copilot", "codeium"]    
+    "topics": ["javascript", "ruby", "python", "vim", "go", "editor", "rust", "golang", "autocomplete", "typescript", "extension", "neovim", "ide", "copilot", "codeium"]
   }, {
     "repo": "vim/vim",
     "desc": "The official Vim repository",
     "officialSite": "https://www.vim.org",
-    "topics": ["c", "vim", "cross-platform", "text-editor"]    
+    "topics": ["c", "vim", "cross-platform", "text-editor"]
   }, {
     "repo": "altercation/solarized",
     "desc": "precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",
     "officialSite": "http://ethanschoonover.com/solarized",
-    "topics": []    
+    "topics": []
   } 
 ]

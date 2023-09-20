@@ -157,7 +157,7 @@ Your core SwiftUI skills are strong, so it’s time to push past the basics and 
 
 - ✅[Day 36][day-36] – Project 7, part one
 - ✅[Day 37][day-37] – Project 7, part two
-- [Day 38][day-38] – Project 7, part three
+- ✅[Day 38][day-38] – Project 7, part three
 - [Day 39][day-39] – Project 8, part one
 - [Day 40][day-40] – Project 8, part two
 - [Day 41][day-41] – Project 8, part three
@@ -313,7 +313,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-35]: 35.md
 [day-36]: 36.md
 [day-37]: 37.md
-[day-38]: https://www.hackingwithswift.com/100/swiftui/38
+[day-38]: 38.md
 [day-39]: https://www.hackingwithswift.com/100/swiftui/39
 [day-40]: https://www.hackingwithswift.com/100/swiftui/40
 [day-41]: https://www.hackingwithswift.com/100/swiftui/41

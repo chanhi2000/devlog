@@ -639,6 +639,11 @@
     "desc": "⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.",
     "officialSite": "",
     "topics": ["windows", "macos", "linux", "rust", "concurrency", "tui", "asyncio", "file-manager", "yazi"]
+  }, {
+    "repo": "d4ckard/liz",
+    "desc": "Collaborative Lisp coding on Discord",
+    "officialSite": "",
+    "topics": ["collaborative-coding", "discord-bot", "lisp"]
   }
 ]
 

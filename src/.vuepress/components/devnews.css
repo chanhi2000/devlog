@@ -318,14 +318,9 @@ html.dark .gh-item {
   border-bottom: 1px solid rgba(223,227,232,.17647058823529413)
 }
 
-.gh-item {
-  margin: 0
-}
-
-.gh-item .title {
-  display: inline-block
-}
-
+.gh-item {display:flex;flex-direction:row;justify-content:flex-start;align-items:center;margin: 0;}
+.gh-item .meta-main {min-width:90%;}
+.gh-item .title {display: inline-block;}
 .gh-item .description {
   font-size: 14px;
   color: #586069!important;
@@ -335,6 +330,9 @@ html.dark .gh-item {
   overflow-wrap: break-word;
   display: inline-block
 }
+.gh-item .meta-sub {margin-left:auto;}
+.gh-item .meta-sub > a {height:100%;padding:2rem;}
+.gh-item .meta-sub > a:hover {cursor:pointer;}
 
 
 html.dark .gh-item .description, html.dark .text-grey {

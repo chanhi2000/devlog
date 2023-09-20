@@ -32,7 +32,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [React Security](https://courses.reactsecurity.io)
 - [Kati Frantz's courses](https://katifrantz.com)
 - [Building Web Applications with React](https://www.pluralsight.com/paths/building-web-applications-with-react)
-- [https://www.newline.co/react-from-zero]
+- [React from Zero](https://www.newline.co/react-from-zero)
 - [React JS Notes for Professionals by Goal Kicker](https://goalkicker.com/ReactJSBook)
 - [The React Handbook by FavioCopes](https://reacthandbook.com)
 - [The Road to React by Robin Wieruch](https://roadtoreact.com)
@@ -46,6 +46,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Structure and Interpretation of Computer Programs — JavaScript Edition](https://sourceacademy.org/sicpjs/index)
 - [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide)
 - [Deno by example](https://examples.deno.land)
+
+---
+
+## Tool
+
+- [Symphony: Use GPT-4 to call functions in sequence.](https://www.symphony.run)
 
 ---
 
@@ -490,6 +496,14 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## BGSSM
 
 - [Vue.js: v-on:click을 사용해 해당 요소(element)의 DOM 가져오기](http://yoonbumtae.com/?p=2810)
+
+---
+
+## The Codest
+
+- [Writing documentation has become easy thanks to VuePress](https://thecodest.co/blog/writing-documentation-has-become-easy-thanks-to-vuepress)
+
+---
 
 ## Misc
 

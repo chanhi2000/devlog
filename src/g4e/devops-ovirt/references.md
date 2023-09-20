@@ -55,6 +55,7 @@ tags: ["bash", "sh"]
 - https://github.com/oVirt/ovirt-ansible-cluster-upgrade
 - https://github.com/oVirt/ovirt-ansible-repositories
 - https://github.com/oVirt/ovirt-optimizer
+- https://github.com/oVirt/csi-driver
 
 ### Github (js)
 

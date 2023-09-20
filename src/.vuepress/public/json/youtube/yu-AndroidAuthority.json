@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AndroidAuthority",
+    "name": "Android Authority",
+    "profile": "https://yt3.googleusercontent.com/_Tya4y1GTYtsEzEztJIoeHV8ZQhKZN11GyyUx3VFBNnKa_CfN8csGDhiACHfMB519iCHgDjh8ls=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/41ST6yYyHFs1kcxPxMMbogZoioEPKCowTn4fYv0gLM3BMOnZ8hh1fyjy9R2C5Sc5d4KItjenEA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4BD3y0NYNqk", "title": "How to Build a Basic Android Game in Just 7 Minutes (Unity)" }    
+  ]
+}

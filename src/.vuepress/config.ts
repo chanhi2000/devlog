@@ -42,18 +42,20 @@ const isProd = process.env.NODE_ENV === 'production'
 const CONSTS = {
   __VERSION__: version
 }
+const imgLogoPath = '/images/ico-wind.svg'
+// const imgLogoPath = 'https://avatars.githubusercontent.com/u/6296241?v=4'
 
 export default {
   title: 'Devlog by Chan',
   description: description,
-  
+  head: [['link', { rel: 'icon', href: imgLogoPath }]],
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   theme: defaultTheme({
-    logo: 'https://avatars.githubusercontent.com/u/6296241?v=4',
+    logo: imgLogoPath,
     docsDir: '',
     lastUpdated: true,
     lastUpdatedText: '최근변경일',

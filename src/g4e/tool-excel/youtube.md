@@ -3,7 +3,7 @@ lang: ko-KR
 title: 📺Youtube
 description: 🧩Excel > 📺Youtube
 category: 🧩Excel
-tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
+tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -164,6 +164,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <MyYouTubeItems jsonName="yu-chmyoungsu" />
 
 <!-- chaems -->
+
+---
+
+## 윤자동
+
+<MyYouTubeItems jsonName="yu-yunjadong" />
+
+<!-- 윤자동 -->
 
 ---
 

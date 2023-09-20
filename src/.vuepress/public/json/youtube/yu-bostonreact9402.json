@@ -6,9 +6,6 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "lgurVvQsOTY", 
-      "title": "Painless Testing for React Applications with Cypress"
-    }
+    { "id": "lgurVvQsOTY",  "title": "Painless Testing for React Applications with Cypress" }
   ]
 }

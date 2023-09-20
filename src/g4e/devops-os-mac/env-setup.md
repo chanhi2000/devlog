@@ -35,9 +35,10 @@ Copy and Paste the following to the Terminal Prompt
 # Install taps
 brew tap homebrew/cask-versions;
 brew tap homebrew/cask-fonts;
+brew tap oven-sh/bun; # for macOS and Linux
 
 # Install formula
-brew install bat bat-extras autojump amazon-ecs-cli awscli bison \
+brew install bat bat-extras bun autojump amazon-ecs-cli awscli bison \
     cocoapods ffmpeg fizz flac git \
     mas neofetch nvm openssl pixman \
     python scrcpy starship tmux watchman \

@@ -2,12 +2,10 @@
   "channel": {
     "id": "codejong",
     "name": "코드종",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM_KAMszcW_4Ta60nIFvr0U_v2twTk5m7eCkL4X=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM_KAMszcW_4Ta60nIFvr0U_v2twTk5m7eCkL4X=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kE2DHd-7qLA47p4RdP0V7j-uOdiPxxtjfjRy052UL9imxygTBZNNwkAqfABIWUFR5-KpmqlZDcw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "j0Viy3v97gY",
-      "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행"
-    }
+    { "id": "j0Viy3v97gY", "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행" }
   ]
 }

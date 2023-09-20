@@ -407,7 +407,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-maaslalani]: https://www.youtube.com/@maaslalani
 [yu-fun-of-heuristic]: https://www.youtube.com/@FunOfHeuristic
 [yu-iBoffRCC]: https://www.youtube.com/@iBoffRCC
-[yu-user-rh1qt9zn7h]: https://www.youtube.com/@user-rh1qt9zn7h
 [yu-HackerSploit]: https://www.youtube.com/@HackerSploit
 [yu-master-liu]: https://www.youtube.com/@masterliu1892
 [yu-eBuzz-central]: https://www.youtube.com/@eBuzzCentral

@@ -3,21 +3,21 @@
     "repo": "zachallaun/secd",
     "desc": "A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "logseq/logseq",
     "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
     "officialSite": "https://logseq.com",
-    "topics": ["git", "markdown", "clojure", "graph", "clojurescript", "knowledge-graph", "org-mode", "note-taking", "knowledge-base", "pkm", "local-first"]    
+    "topics": ["git", "markdown", "clojure", "graph", "clojurescript", "knowledge-graph", "org-mode", "note-taking", "knowledge-base", "pkm", "local-first"]
   }, {
     "repo": "tonsky/FiraCode",
     "desc": "Free monospaced font with programming ligatures",
     "officialSite": "",
-    "topics": ["font", "ligatures", "programming-ligatures"]    
+    "topics": ["font", "ligatures", "programming-ligatures"]
   }, {
     "repo": "phronmophobic/treemap-clj",
     "desc": "An alternative to pprint for generically visualizing heterogeneous, hierarchical data",
     "officialSite": "",
-    "topics": ["clojure", "data-visualization", "treemap", "membrane"]    
+    "topics": ["clojure", "data-visualization", "treemap", "membrane"]
   }
 ]

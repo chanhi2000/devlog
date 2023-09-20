@@ -1363,4 +1363,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## 코딩루팡 CodingLupine
+
+<MyYouTubeItems jsonName="yu-CodingLupine" />
+
+<!-- 코딩루팡 CodingLupine -->
+
+---
+
 <TagLinks />

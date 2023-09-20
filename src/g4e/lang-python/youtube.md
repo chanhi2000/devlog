@@ -203,4 +203,12 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## 윤인성
+
+<MyYouTubeItems jsonName="yu-user-rh1qt9zn7h" />
+
+<!-- 윤인성 -->
+
+---
+
 <TagLinks />

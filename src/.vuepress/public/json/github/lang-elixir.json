@@ -3,21 +3,21 @@
     "repo": "AccessOwl/open_owl",
     "desc": "Download user lists including user permissions from various SaaS applications without the need for a public API",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "wojtekmach/mix_install_examples",
     "desc": "A collection of simple Elixir scripts that are using Mix.install/2.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "phoenixframework/phoenix",
     "desc": "Peace of mind from prototype to production",
     "officialSite": "https://www.phoenixframework.org",
-    "topics": ["elixir", "realtime", "web-framework", "api-server", "distributed"]    
+    "topics": ["elixir", "realtime", "web-framework", "api-server", "distributed"]
   }, {
     "repo": "firezone/firezone",
     "desc": "WireGuard®-based VPN server and firewall",
     "officialSite": "https://firezone.dev",
-    "topics": ["security", "cloud", "privacy", "elixir", "phoenix", "networking", "network", "firewall", "self-hosted", "vpn", "rust-lang", "vpn-server", "elixir-lang", "network-security", "wireguard", "virtual-network", "devsecops", "liveview", "wireguard-vpn", "wireguard-ui"]    
+    "topics": ["security", "cloud", "privacy", "elixir", "phoenix", "networking", "network", "firewall", "self-hosted", "vpn", "rust-lang", "vpn-server", "elixir-lang", "network-security", "wireguard", "virtual-network", "devsecops", "liveview", "wireguard-vpn", "wireguard-ui"]
   }
 ]

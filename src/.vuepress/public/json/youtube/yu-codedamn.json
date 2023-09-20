@@ -2,67 +2,29 @@
   "channel": {
     "id": "codedamn",
     "name": "codedamn",
-    "profile": "https://yt3.googleusercontent.com/QQxn6hSdStL-VcuX_etPIbukeFXe0YIRZmGLz0wQ1f5e_OMViLxE2x9ZVpeFeMVJA3B34oy4zA=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/QQxn6hSdStL-VcuX_etPIbukeFXe0YIRZmGLz0wQ1f5e_OMViLxE2x9ZVpeFeMVJA3B34oy4zA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o6ZMzaRN-s0XoHdM8fZMC8mquxlL8MI1LOg8tzwwY67PRB9puPuxGsl2oJGHjHJPPISlSuE5mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "CsL-cYcSEk4",
-      "title": "Do this if you want to master flask"
-    }, {
-      "id": "bEvCS-Eg7dY",
-      "title": "Bye Bye Leetcode 👋🏻"
-    }, {
-      "id": "kn43PR0PWew",
-      "title": "React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners"
-    }, {
-      "id": "xy81B0OYyug",
-      "title": "Shopify JUST Launched a NEW React Framework!"
-    }, {
-      "id": "Hpf2OmYnqhw",
-      "title": "React Typing-Speed Project - Build logical thinking with this free project 🎉"
-    }, {
-      "id": "qG-PLm3APSs",
-      "title": "Advanced Node.js Crash Course | New Year Gift!"
-    }, {
-      "id": "g4g2TlTMXXQ",
-      "title": "Vue.js 3 Crash Course 2020 Part 1 | Learn Vue.js"
-    }, {
-      "id": "ptD4pnt4arw",
-      "title": "#15: Semantic Versioning - Mastering NPM"
-    }, {
-      "id": "wxT_75SoGxQ",
-      "title": "#3: NPM vs Yarn - Mastering NPM"
-    }, {
-      "id": "wS_WhKggQEQ",
-      "title": "#9: Introduction to package.json - Mastering NPM"
-    }, {
-      "id": "qLJwOf2SLew",
-      "title": "#2: Rust Playground and Setup - Rust Tutorials"
-    }, {
-      "id": "Ttf3CEsEwMQ",
-      "title": "Beginner Vanilla Javascript Project Tutorial"
-    }, {
-      "id": "E-x8GxtaLfo",
-      "title": "#10: Fade in/Fade out animations - React Native Animations"
-    }, {
-      "id": "uny0IQyjPnk",
-      "title": "IntelliSense is now on the Web!"
-    }, {
-      "id": "zPSYFyXp6TU",
-      "title": "Docker Tutorial 22: .dockerignore file"
-    }, {
-      "id": "0nXcZMt8MAc",
-      "title": "Learn React Native in one video"
-    }, {
-      "id": "b2kaE0CyFF4",
-      "title": "Lazy Loading Images without JavaScript!"
-    }, {
-      "id": "Uuaue9odUEo",
-      "title": "Chrome DevTools - Everything you need to know"
-    }, {
-      "id": "4Rsr0NRHuBY",
-      "title": "Install New Windows Terminal Today! 😁😎"
-    }
+    { "id": "CsL-cYcSEk4", "title": "Do this if you want to master flask" }, 
+    { "id": "bEvCS-Eg7dY", "title": "Bye Bye Leetcode 👋🏻" }, 
+    { "id": "kn43PR0PWew", "title": "React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners" }, 
+    { "id": "xy81B0OYyug", "title": "Shopify JUST Launched a NEW React Framework!" }, 
+    { "id": "Hpf2OmYnqhw", "title": "React Typing-Speed Project - Build logical thinking with this free project 🎉" }, 
+    { "id": "qG-PLm3APSs", "title": "Advanced Node.js Crash Course | New Year Gift!" }, 
+    { "id": "g4g2TlTMXXQ", "title": "Vue.js 3 Crash Course 2020 Part 1 | Learn Vue.js" }, 
+    { "id": "ptD4pnt4arw", "title": "#15: Semantic Versioning - Mastering NPM" }, 
+    { "id": "wxT_75SoGxQ", "title": "#3: NPM vs Yarn - Mastering NPM" }, 
+    { "id": "wS_WhKggQEQ", "title": "#9: Introduction to package.json - Mastering NPM" }, 
+    { "id": "qLJwOf2SLew", "title": "#2: Rust Playground and Setup - Rust Tutorials" }, 
+    { "id": "Ttf3CEsEwMQ", "title": "Beginner Vanilla Javascript Project Tutorial" }, 
+    { "id": "E-x8GxtaLfo", "title": "#10: Fade in/Fade out animations - React Native Animations" }, 
+    { "id": "uny0IQyjPnk", "title": "IntelliSense is now on the Web!" }, 
+    { "id": "zPSYFyXp6TU", "title": "Docker Tutorial 22: .dockerignore file" }, 
+    { "id": "0nXcZMt8MAc", "title": "Learn React Native in one video" }, 
+    { "id": "b2kaE0CyFF4", "title": "Lazy Loading Images without JavaScript!" }, 
+    { "id": "Uuaue9odUEo", "title": "Chrome DevTools - Everything you need to know" }, 
+    { "id": "4Rsr0NRHuBY", "title": "Install New Windows Terminal Today! 😁😎" }
   ]
 }
 

@@ -3,126 +3,126 @@
     "repo": "backdrop/backdrop",
     "desc": "Backdrop core code repository.",
     "officialSite": "https://backdropcms.org",
-    "topics": ["php", "cms"]    
+    "topics": ["php", "cms"]
   }, {
     "repo": "monicahq/monica",
     "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
     "officialSite": "https://www.monicahq.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "laravel/breeze",
     "desc": "Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.",
     "officialSite": "https://laravel.com/docs/starter-kits#laravel-breeze",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "openai-php/laravel",
     "desc": "⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "ockeghem/badtodo",
     "desc":" ",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "D4RK-R4BB1T/Dark-Web-Archives",
     "desc": "Archives of the criminal side of the internet",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "snipe/snipe-it",
     "desc": "A free open source IT asset/license management system",
     "officialSite": "https://snipeitapp.com",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "nextcloud/server",
     "desc": "☁️ Nextcloud server, a safe home for all your data",
     "officialSite": "https://nextcloud.com",
-    "topics": ["javascript", "open-source", "php", "enterprise", "design", "opensource", "cloud", "ux", "nextcloud", "owncloud", "decentralized", "sharing", "file-sharing", "collaboration", "distributed", "free-software", "usability", "self-hosting", "federation", "hacktoberfest"]    
+    "topics": ["javascript", "open-source", "php", "enterprise", "design", "opensource", "cloud", "ux", "nextcloud", "owncloud", "decentralized", "sharing", "file-sharing", "collaboration", "distributed", "free-software", "usability", "self-hosting", "federation", "hacktoberfest"]
   }, {
     "repo": "kanboard/kanboard",
     "desc": "Kanban project management software",
     "officialSite": "https://kanboard.org/",
-    "topics": ["agile", "self-hosted", "project-management", "kanban", "kanboard"]    
+    "topics": ["agile", "self-hosted", "project-management", "kanban", "kanboard"]
   }, {
     "repo": "gptlink/gptlink",
     "desc": "10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "BookStackApp/BookStack",
     "desc": "A platform to create documentation/wiki content built with PHP & Laravel",
     "officialSite": "https://www.bookstackapp.com",
-    "topics": ["php", "documentation", "laravel", "wiki", "selfhosted", "bookstack"]    
+    "topics": ["php", "documentation", "laravel", "wiki", "selfhosted", "bookstack"]
   }, {
     "repo": "Not-Quite-RARBG/main",
     "desc": "Not Quite RARBG's main website.",
     "officialSite": "http://nq-rarbg.to",
-    "topics": ["torrent", "torrents", "rarbg"]    
+    "topics": ["torrent", "torrents", "rarbg"]
   }, {
     "repo": "sebastianbergmann/phpunit",
     "desc": "The PHP Unit Testing framework.",
     "officialSite": "https://phpunit.de",
-    "topics": ["php", "phpunit", "testing-tools"]    
+    "topics": ["php", "phpunit", "testing-tools"]
   }, {
     "repo": "SemanticMediaWiki/SemanticMediaWiki",
     "desc": "🔗 Semantic MediaWiki turns MediaWiki into a knowledge management platform with query and export capabilities",
     "officialSite": "https://www.semantic-mediawiki.org",
-    "topics": ["emantic", "query", "database", "wiki", "linked-data", "sparql", "rdf", "mediawiki", "collaboration", "semantic-web", "semantic-data", "mediawiki-extension", "semantic-mediawiki", "smw", "knowledge-graph", "lod", "knowledge-management", "result-format", "wiki-database"]    
+    "topics": ["emantic", "query", "database", "wiki", "linked-data", "sparql", "rdf", "mediawiki", "collaboration", "semantic-web", "semantic-data", "mediawiki-extension", "semantic-mediawiki", "smw", "knowledge-graph", "lod", "knowledge-management", "result-format", "wiki-database"]
   }, {
     "repo": "matomo-org/matomo",
     "desc": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!",
     "officialSite": "https://matomo.org",
-    "topics": ["mysql", "php", "security", "website", "marketing", "privacy", "mobile", "log", "analytics", "web-analytics", "piwik", "intranet", "growth", "hacktoberfest", "matomo"]    
+    "topics": ["mysql", "php", "security", "website", "marketing", "privacy", "mobile", "log", "analytics", "web-analytics", "piwik", "intranet", "growth", "hacktoberfest", "matomo"]
   }, {
     "repo": "getgrav/grav",
     "desc": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",
     "officialSite": "https://getgrav.org",
-    "topics": ["markdown", "php", "yaml", "cms", "content", "website", "twig", "symfony", "php7", "doctrine", "flat-file", "website-builder", "grav", "content-management", "website-generation"]    
+    "topics": ["markdown", "php", "yaml", "cms", "content", "website", "twig", "symfony", "php7", "doctrine", "flat-file", "website-builder", "grav", "content-management", "website-generation"]
   }, {
     "repo": "livewire/livewire",
     "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "NativePHP/laravel",
     "desc": "Laravel wrapper for the NativePHP framework",
     "officialSite": "https://nativephp.com",
-    "topics": ["php", "laravel", "nativephp"]    
+    "topics": ["php", "laravel", "nativephp"]
   }, {
     "repo": "getgrav/grav",
     "desc": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",
     "officialSite": "https://getgrav.org",
-    "topics": ["markdown", "php", "yaml", "cms", "content", "website", "twig", "symfony", "php7", "doctrine", "flat-file", "website-builder", "grav", "content-management", "website-generation"]    
+    "topics": ["markdown", "php", "yaml", "cms", "content", "website", "twig", "symfony", "php7", "doctrine", "flat-file", "website-builder", "grav", "content-management", "website-generation"]
   }, {
     "repo": "brendt/stitcher.io",
     "desc": "Source code of stitcher.io",
     "officialSite": "https://stitcher.io",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "benjamincrozat/benjamincrozat.com",
     "desc": "Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 30K monthly visitors.",
     "officialSite": "https://benjamincrozat.com",
-    "topics": ["laravel", "livewire", "tailwind-css", "alpine-js"]    
+    "topics": ["laravel", "livewire", "tailwind-css", "alpine-js"]
   }, {
     "repo": "digininja/DVWA",
     "desc": "Damn Vulnerable Web Application (DVWA)",
     "officialSite": "",
-    "topics": ["training", "php", "security", "hacking", "sql-injection", "infosec", "dvwa"]    
+    "topics": ["training", "php", "security", "hacking", "sql-injection", "infosec", "dvwa"]
   }, {
     "repo": "openchatai/OpenCopilot",
     "desc": "🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.",
     "officialSite": "https://opencopilot.so",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "laravel/framework",
     "desc": "The Laravel Framework.",
     "officialSite": "https://laravel.com",
-    "topics": ["php", "laravel", "framework"]    
+    "topics": ["php", "laravel", "framework"]
   }, {
     "repo": "magento/magento2",
     "desc": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
     "officialSite": "http://www.magento.com",
-    "topics": ["php", "ecommerce", "magento", "magento2", "ecommerce-platform", "hacktoberfest"]    
+    "topics": ["php", "ecommerce", "magento", "magento2", "ecommerce-platform", "hacktoberfest"]
   }
 ]

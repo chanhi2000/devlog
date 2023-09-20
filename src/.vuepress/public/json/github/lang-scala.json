@@ -3,21 +3,21 @@
     "repo": "twitter/the-algorithm",
     "desc": "Source code for Twitter's Recommendation Algorithm",
     "officialSite": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "twitter/finagle",
     "desc": "A fault tolerant, protocol-agnostic RPC system",
     "officialSite": "https://twitter.github.io/finagle",
-    "topics": ["mysql", "java", "redis", "http", "memcached", "distributed-systems", "scala", "http2", "thrift", "rpc", "finagle", "zipkin"]    
+    "topics": ["mysql", "java", "redis", "http", "memcached", "distributed-systems", "scala", "http2", "thrift", "rpc", "finagle", "zipkin"]
   }, {
     "repo": "OpenXiangShan/XiangShan",
     "desc": "Open-source high-performance RISC-V processor",
     "officialSite": "",
-    "topics": ["chisel3", "risc-v", "microarchitecture"]    
+    "topics": ["chisel3", "risc-v", "microarchitecture"]
   }, {
     "repo": "microsoft/SynapseML",
     "desc": "Simple and Distributed Machine Learning",
     "officialSite": "http://aka.ms/spark",
-    "topics": ["microsoft", "http", "opencv", "data-science", "machine-learning", "scala", "big-data", "ai", "spark", "apache-spark", "deep-learning", "azure", "ml", "pyspark", "lightgbm", "cognitive-services", "databricks", "synapse", "model-deployment", "onnx"]    
+    "topics": ["microsoft", "http", "opencv", "data-science", "machine-learning", "scala", "big-data", "ai", "spark", "apache-spark", "deep-learning", "azure", "ml", "pyspark", "lightgbm", "cognitive-services", "databricks", "synapse", "model-deployment", "onnx"]
   }
 ]

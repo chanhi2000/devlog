@@ -63,13 +63,35 @@ export default {
   },
   methods: {
     async fetchData() {
+      const REGEX_GITHUB_BASE_URL = /https:\/\/github.com\//g
+
       this.isLoading = true;
       const res = await fetch("https://devo.ams3.digitaloceanspaces.com/hackernews.json");
       const fetchedItems = await res.json();
       const YCOMBINATOR_URL = 'https://news.ycombinator.com';
       
+      let jsonFullPathsLang = [
+        "awk", "batchfile", "blade", "c", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "gdscript", "go", "haskell", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
+      ].map((e) => `/json/github/lang-${e}.json`);
+
+      let jsonFullPathsLangTut = [
+        "c", "csharp", "dart", "dockerfile", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
+      ].map((e) => `/json/github/lang-${e}-tut.json`);
+
+      let jsonFullPathsOther = [
+        "awesome-list", "tutorial-basic", "tutorial-devops", "career-info", "portfolio", "free-books", "free-images"
+      ].map((e) => `/json/github/${e}.json`)
+      let reposToExclude = [];
+      for await (const path of [...jsonFullPathsLang, ...jsonFullPathsLangTut, ...jsonFullPathsOther]) {
+        const items = await (await fetch(path)).json();
+        reposToExclude.push(...items);
+      }
+      const repoNamesToExclude = reposToExclude.map((e) => `${e.repo}`);
+      const filterHackernewsPredicate = (e) => {
+        return !repoNamesToExclude.includes(e.link.replace(REGEX_GITHUB_BASE_URL, ''))
+      }
       this.isLoading = false;
-      this.items = fetchedItems.map((e) => {
+      this.items = fetchedItems.filter(filterHackernewsPredicate).map((e) => {
         return {
           age: e.age,
           commentCount: e.commentCount,

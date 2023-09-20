@@ -3,16 +3,16 @@
     "repo": "leegeunhyeok/resume",
     "desc": "🍀 Resume template",
     "officialSite": "https://this.geundung.dev",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "sesang06/RESUME",
     "desc": "이력서 (RESUME)",
     "officialSite": "",
-    "topics": ["android", "java", "swift", "client", "ios", "developer"]    
+    "topics": ["android", "java", "swift", "client", "ios", "developer"]
   }, {
     "repo": "priyankarpal/Portfolio",
     "desc": "This is my portfolio website made using ReactJs. You can use the template to create your portfolio like mine.",
     "officialSite": "https://www.priyank.live",
-    "topics": ["portfolio", "reactjs", "vite", "taiwlindcss"]    
+    "topics": ["portfolio", "reactjs", "vite", "taiwlindcss"]
   }
 ]

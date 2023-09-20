@@ -6,22 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/J0Kh-SdTnL_wPyqo1Tp13x0QlqOYQ7o0eWRKIKL3CjBAIK2Yn9ZZuF87zcdY6m3EJ2X8hUfg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "VAReqa6ZMNI",
-      "title": "C++ Multithreading  [Queuing Task Pool]"
-    }, {
-      "id": "gn-iMLeQvFs",
-      "title": "C++ Multithreading  [Task Queue]"
-    }, {
-      "id": "bEJYXVSEyG0",
-      "title": "Nginx and Chill [Vagrant + Nginx] 1"
-    }, {
-      "id": "Dl5Y9BZ957A",
-      "title": "Nginx and Chill [php-fpm] 2"
-    }, {
-      "id": "JednKTu-8hk",
-      "title": "C++ STD Gems [Multithreading Execution Policy]"
-    }
+    { "id": "VAReqa6ZMNI", "title": "C++ Multithreading  [Queuing Task Pool]" }, 
+    { "id": "gn-iMLeQvFs", "title": "C++ Multithreading  [Task Queue]" }, 
+    { "id": "bEJYXVSEyG0", "title": "Nginx and Chill [Vagrant + Nginx] 1" }, 
+    { "id": "Dl5Y9BZ957A", "title": "Nginx and Chill [php-fpm] 2" }, 
+    { "id": "JednKTu-8hk", "title": "C++ STD Gems [Multithreading Execution Policy]" }
   ]
 }
 

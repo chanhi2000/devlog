@@ -3,16 +3,16 @@
     "repo": "bobbyiliev/introduction-to-bash-scripting",
     "desc": "Free Introduction to Bash Scripting eBook",
     "officialSite": "https://ebook.bobby.sh",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "jlevy/the-art-of-command-line",
     "desc": "Master the command line, in one page",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "learnbyexample/learn_gnuawk",
     "desc": "Example based guide to mastering GNU awk",
     "officialSite": "https://learnbyexample.github.io/learn_gnuawk",
-    "topics": ["linux", "command-line", "regex", "awk", "gnu", "exercises", "ebooks", "learn-by-doing", "one-liners"]    
+    "topics": ["linux", "command-line", "regex", "awk", "gnu", "exercises", "ebooks", "learn-by-doing", "one-liners"]
   }
 ]

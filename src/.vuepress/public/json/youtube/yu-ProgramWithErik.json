@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/qwaYLUAbBeIcDmBR0G-k6p2v-fFgTPLxFJFPHAH--LQ16HaXI_GstOzSYcKMGGmDviHcsOEB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-j7XpK2UQ3w", "title": "Build a Next.js 13 Dashboard With Authentication using AWS" },
     { "id": "ytar75ZwOkg", "title": "Auth With Multi-Factor Authentication (MFA) in 60 Seconds #coding #aws #nextjs" },
     { "id": "h7I_W2jo1ME", "title": "How To Create A Nuxt.js Stripe Custom Checkout Page in 30 minutes!" },
     { "id": "JjhPKdKg6lY", "title": "Can I Create a Quiz App Using AWS Amplify Studio with AWS AppSync in 20 minutes?" }, 

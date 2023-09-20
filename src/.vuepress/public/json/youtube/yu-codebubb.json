@@ -2,24 +2,14 @@
   "channel": {
     "id": "codebubb",
     "name": "codebubb",
-    "profile": "https://yt3.googleusercontent.com/0LRveubiPSbBaGJSq05VUCILFdNzLiUiMf9ZiVFceXxlpSqilvEMWCijSC4ToQtpV_OJAEzAIg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/0LRveubiPSbBaGJSq05VUCILFdNzLiUiMf9ZiVFceXxlpSqilvEMWCijSC4ToQtpV_OJAEzAIg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ClTTJIqs3fUuHWmZvpvKlP55a5-PT_kSNjlHx_sANm38-T2o83l8yJuy5zqN-tx3aEGT2q_PT1M=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "A8yfwdET-2E", 
-      "title": "Make a BETTER Random Quote app with JavaScript"
-    }, {
-      "id": "kJPkCGtv3vY", 
-      "title": "This is the PRO way to code a JavaScript Modal"
-    }, {
-      "id": "T66FCDdA1wo", 
-      "title": "Build a Microblog app [Learn React, Tailwind, Express, MongoDb, Joi Validation]"
-    }, {
-      "id": "0XbO9C3-vqM", 
-      "title": "How To Deploy A React App To GitHub Pages"
-    }, {
-      "id": "DAlvbZzrppQ", 
-      "title": "How To Build a Simple Appointment Booking App (Mongo, Express, Angular, Material)"
-    }
+    { "id": "A8yfwdET-2E",  "title": "Make a BETTER Random Quote app with JavaScript" }, 
+    { "id": "kJPkCGtv3vY",  "title": "This is the PRO way to code a JavaScript Modal" }, 
+    { "id": "T66FCDdA1wo",  "title": "Build a Microblog app [Learn React, Tailwind, Express, MongoDb, Joi Validation]" }, 
+    { "id": "0XbO9C3-vqM",  "title": "How To Deploy A React App To GitHub Pages" }, 
+    { "id": "DAlvbZzrppQ",  "title": "How To Build a Simple Appointment Booking App (Mongo, Express, Angular, Material)" }
   ]
 }

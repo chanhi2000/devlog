@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "yunjadong",
+    "name": "윤자동",
+    "profile": "https://yt3.googleusercontent.com/z-BUslX6sF5COeWAZ7wqzAxgsvnCJeuo2_fLvZlPtxdLwyv-YtqQIA0wObHcJr9e7hrnNZbD=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/83bQnkdfKm-4LeQ2R0eiDN1EFoF3OMZ8m_-CytjDK-o7rGqcgLQF2c3a8Kn2hXxZb06CN7BxXg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jTJ6LSqrtlo", "title": "재고관리 프로그램 사지 말고 직접 만들어 쓰세요. EP.11" },
+    { "id": "pvcKY3EB_D0", "title": "[엑셀] 클릭만 하면 하면 내용이 휙휙 바뀌는 엑셀 대시보드 만들기(초딩도 가능) EP.14" }        
+  ]
+}

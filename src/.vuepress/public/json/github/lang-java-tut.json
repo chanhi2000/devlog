@@ -3,37 +3,37 @@
     "repo": "macrozheng/springcloud-learning",
     "desc": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。",
     "officialSite": "https://www.macrozheng.com/cloud/cloud_catalog.html",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "akullpp/awesome-java",
     "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "preslavmihaylov/booknotes",
     "desc": "A collection of my book notes on various computer science books",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "PRNDcompany/android-style-guide",
     "desc": "이 스타일 가이드는 PRND에서 개발되는 모든 안드로이드 프로젝트에 적용하기 위한 목적으로 작성되었습니다.",
     "officialSite": "",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "codefarm0/Learning-Materials-By-Green-Learner",
     "desc": "Topic wise details of all the courses published on youtube channel of Green Learner. Now it will be more easy to link the different videos of each course.",
     "officialSite": "https://youtube.com/greenlearner",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "amigoscode/full-stack-professional",
     "desc": "",
     "officialSite": "https://amigoscode.com/courses/full-stack-professional",
-    "topics": []    
+    "topics": []
   }, {
     "repo": "iluwatar/java-design-patterns",
     "desc": "Design patterns implemented in Java",
     "officialSite": "https://java-design-patterns.com",
-    "topics": ["java", "snippets", "design-patterns", "principles", "awesome-list", "hacktoberfest", "snippets-library", "snippets-collection"]    
+    "topics": ["java", "snippets", "design-patterns", "principles", "awesome-list", "hacktoberfest", "snippets-library", "snippets-collection"]
   }
 ]
 
