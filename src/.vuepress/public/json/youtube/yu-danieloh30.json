@@ -21,7 +21,7 @@
         { "id": "_-H6oXj1k_Q", "title": "Deployment and ReplicaSet - ☸️ Learn by Example 【4】" },
         { "id": "8LF08Wfn3Uw", "title": "Service and Ingress - ☸️ Learn by Example 【3】" },
         { "id": "hImhK5fmT9g", "title": "Namespaces and Pods - ☸️ Learn by Example 【2】" },
-        { "id": "URXmSHc46jw", "title": "Hello Minikube - ☸️ Learn by Example 【1】" }   
+        { "id": "URXmSHc46jw", "title": "Hello Minikube - ☸️ Learn by Example 【1】" }
       ]
     }, {
       "title": "QUARKUS",
@@ -105,7 +105,7 @@
         { "id": "FPNpER9i8mc", "title": "Develop Reactive Messaging with AMQP and Quarkus Dev Service" },
         { "id": "pXwKu_V7kdc", "title": "Simplify NoSQL Database with Quarkus Dev Service for MongoDB" },
         { "id": "GdvXS-w8PoM", "title": "Visualize Data Storage with Quarkus Dev Service for Neo4J" },
-        { "id": "LUSpkxN6l5Q", "title": "Starting Redis container with Quarkus Dev Service" }   
+        { "id": "LUSpkxN6l5Q", "title": "Starting Redis container with Quarkus Dev Service" }
       ]
     }
   ]

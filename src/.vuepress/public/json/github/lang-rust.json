@@ -649,6 +649,11 @@
     "desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
     "officialSite": "https://wezfurlong.org/wezterm",
     "topics": ["rust", "serial", "serial-port", "terminal", "terminal-emulator", "terminal-emulators"]
+  }, {
+    "repo": "matrix-org/matrix-rust-sdk",
+    "desc": "Matrix Client-Server SDK for Rust",
+    "officialSite": "",
+    "topics": ["matrix-org", "rust", "sdk"]
   }
 ]
 

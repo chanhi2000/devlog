@@ -8,7 +8,7 @@
   "videos": [
     { "id": "V5c6cvGDrY8", "title": "How to build operationally efficient payment infrastructure | Spreedly" }, 
     { "id": "3gmF_yXj3q8", "title": "Multi-Region CockroachDB Serverless | Why Regional Tables are useful" }, 
-    { "id": "xvBBQVIGYio", "title": "How to perform zero downtime online schema changes" }    
+    { "id": "xvBBQVIGYio", "title": "How to perform zero downtime online schema changes" }
   ]
 }
 

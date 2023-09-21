@@ -7,6 +7,6 @@
   },
   "videos": [
     { "id": "m9B7RaSmiQ0", "title": "AWS App Mesh Tutorial (EKS | Ingress | Terraform)" },
-    { "id": "1BksUVJ1f5M", "title": "Kubernetes Ingress Explained (2 Types)" }    
+    { "id": "1BksUVJ1f5M", "title": "Kubernetes Ingress Explained (2 Types)" }
   ]
 }

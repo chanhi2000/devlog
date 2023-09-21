@@ -8,6 +8,6 @@
   "videos": [
     { "id": "L1J2NhGU1ak", "title": "LazyColumn | LazyRow | Jetpack Compose Layouts | Android Development | Kotlin" },
     { "id": "NAlYVFj6SNI", "title": "LazyVerticalGrid | LazyHorizontalGrid | Jetpack Compose Layouts | Android Development | Kotlin" },
-    { "id": "43tK1RNSSSw", "title": "LazyStaggeredGrid | Jetpack Compose Layouts | Android Development | Kotlin" }   
+    { "id": "43tK1RNSSSw", "title": "LazyStaggeredGrid | Jetpack Compose Layouts | Android Development | Kotlin" }
   ]
 }

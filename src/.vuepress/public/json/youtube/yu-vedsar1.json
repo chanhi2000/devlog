@@ -7,6 +7,6 @@
   },
   "videos": [
     { "id": "AY-n1l3HGvQ", "title": "Creating An iOS App Using MVVM Design Pattern, JSON Parsing Using Codable Protocol And Closure" },
-    { "id": "2ZzWohRZ2LE", "title": "Creating an iOS App using Protocol Delegate Design Pattern." }    
+    { "id": "2ZzWohRZ2LE", "title": "Creating an iOS App using Protocol Delegate Design Pattern." }
   ]
 }

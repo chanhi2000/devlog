@@ -8,7 +8,7 @@
   "videos": [
     { "id": "zWn0O0xzWMA", "title": "Clean Code Tip: Favor Method Chaining Over Nested Calls" },
     { "id": "6g4ggpOxxCc", "title": "Clean Code Tip: Remove Messy Constructor Calls" },
-    { "id": "q_tH3njpAFc", "title": "Possibility of Discriminated Unions in C#: Functional Programming in .NET" },    
+    { "id": "q_tH3njpAFc", "title": "Possibility of Discriminated Unions in C#: Functional Programming in .NET" }
     { "id": "tq5ztZO45-g", "title": "Visitor Design Pattern Is Giving Way To Pattern Matching Expressions!" }, 
     { "id": "3p93Q6ivbZ4", "title": "Master the Builder Pattern: The King of Creational Design Patterns in C# | ASP.NET Core Tutorial" }, 
     { "id": "fzEFgIreHHM", "title": "Kill Anemic Domain Models with Encapsulation: The Hard Part" }, 

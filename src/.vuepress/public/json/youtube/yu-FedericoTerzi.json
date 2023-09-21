@@ -6,9 +6,6 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "Vb0HOgpphPM",
-      "title": "I lost 2 hours on this crazy CSS issue..."
-    }
+    { "id": "Vb0HOgpphPM", "title": "I lost 2 hours on this crazy CSS issue..." }
   ]
 }

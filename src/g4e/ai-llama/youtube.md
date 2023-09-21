@@ -3,7 +3,7 @@ lang: ko-KR
 title: 📺Youtube
 description: 🦙Llama > 📺Youtube
 category: 🦙Llama
-tags: ["llama" , "llm"]
+tags: ["youtube", "tutorial", "llama" , "llm", "@matthew_berman", "@streamlitofficial", "@inhumanitystudios"]
 ---
 
 # {{ $frontmatter.title }} 관련

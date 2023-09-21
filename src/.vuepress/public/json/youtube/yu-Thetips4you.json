@@ -104,7 +104,7 @@
         { "id": "x2qTvTN8YKI", "title": "Prometheus email alerting | Prometheus alertmanager email configuration" },
         { "id": "6Jr6rntMI3A", "title": "How to configure Prometheus alertmanager to fire slack alert notification | Prometheus tutorial" },
         { "id": "SVIGKcMJ31E", "title": "Monitoring Docker Container Metrics Using cAdvisor Prometheus and Grafana" },
-        { "id": "hfKASyWzOIs", "title": "Setup Prometheus On Kubernetes Using Helm | Kubernetes Monitoring With Prometheus" }   
+        { "id": "hfKASyWzOIs", "title": "Setup Prometheus On Kubernetes Using Helm | Kubernetes Monitoring With Prometheus" }
       ]
     }
   ]

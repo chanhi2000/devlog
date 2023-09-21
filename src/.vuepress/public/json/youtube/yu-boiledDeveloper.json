@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "boiledDeveloper",
+    "name": "삶은개발",
+    "profile": "https://yt3.googleusercontent.com/OYGf_D-_YONk7hnm_ygIYD5TuLWrDvmLKFeFyYMPseANh_mKN1TA0Ug1GwEnpZKfr8EZrekqCvc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "vRu11eqYnY0", "title": "쌩초보 iOS 앱 개발자 테크트리 | A-Z" }    
+  ]
+}

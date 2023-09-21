@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐋Docker > 📺Youtube
-tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "jdk" ,"jdk11", "temurin", "temurin11", "docker", "neofetch"]
+tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "jdk" ,"jdk11", "temurin", "temurin11", "docker", "neofetch", "@MarcelDempers", "@KodeKloud", "@GiuseppeScaramuzzino", "@NetworkChuck", "@DBTechYT", "@EltonStoneman", "@TravisMedia", "@VirtualizationHowto", "@Bitovi", "@AkamaiDeveloper", "@bienadam", "@vdespa", "@DevOpsDirective", "@Coderjourney", "@TechnoTim", "@selfhosted", "@PeladoNerd", "@SpaceinvaderOne", "@showmeyourcode"]
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -3,7 +3,7 @@ lang: ko-KR
 title: 📺Youtube
 description: 🎼OpenAI > 📺Youtube
 category: 🎼OpenAI
-tags: ["openai" , "chatgpt", "chat", "llm"]
+tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy131", "@nomadbird23", "@Aitrepreneur", "@bridoesthings", "@ai-explained-", "@parttimelarry", "@unrealtech", "@embracethered", "@codeteller", "@hunkims", "@RabbitHoleSyndrome", "@ThatProject", "@developerfilip", "@alekSheffy", "@AlexanderFYoung", "@chatwithdata", "@matthew_berman", "@coreyms", "@SantrelMedia", "@daveebbelaar", "@Thuvu5", "@Metarhia", "@TheMorpheusTutorials", "@robmulla", "@hyukppen", "@bbanghyong", "@abantu_AI", "@leftykhim", "@potato_ai", "@iSocialYou", "@AndrejKarpathy", "@TheBrettWay", "@RealVisionFinance", "@dev-ing"]
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -25,7 +25,7 @@
     { "id": "rXMPf03wbKg", "title": "제네릭 타입 명시: 웹 로그 목록 조회" },
     { "id": "rJFb0DhkDsM", "title": "제네릭 타입 명시: 메뉴생성 사이트맵 내용 조회" },
     { "id": "Bm0Vl0VFKk8", "title": "`SmsDAO.selectSmsInfsCnt` 문자메시지 목록 숫자를 조회한다" },
-    { "id": "gT3ND-nBpZ0", "title": "제네릭 타입 명시: 직원경조사관리" },    
+    { "id": "gT3ND-nBpZ0", "title": "제네릭 타입 명시: 직원경조사관리" }
     { "id": "nEzYheaxhG0", "title": "? 를 `AtchmnFileVO` 로 수정" }, 
     { "id": "plpksbmsoVc", "title": "selectDeptSchdulManageAuthorGroupPopup ? 를 EgovMap 으로 수정" }, 
     { "id": "O_Rl1yImRW8", "title": "제네릭 타입 명시-지식맵관리(유형)" }, 

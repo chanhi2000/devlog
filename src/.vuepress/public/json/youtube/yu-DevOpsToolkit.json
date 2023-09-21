@@ -8,7 +8,7 @@
   "videos": [
     { "id": "1iZoEFzlvhM", "title": "Kubernetes? Database Schema? Schema Management with Atlas Operator" },
     { "id": "qKb6loAEPV0", "title": "How to Debug Kubernetes Applications With Ephemeral Containers" },
-    { "id": "3Mmw2PyY9j0", "title": "AI for Kubernetes with ChatGPT and `k8sgpt`" },    
+    { "id": "3Mmw2PyY9j0", "title": "AI for Kubernetes with ChatGPT and `k8sgpt`" }
     { "id": "G-TnrmZtaCw", "title": "Kubernetes-Native Observability Through eBPF And Scripting With Pixie" }, 
     { "id": "kaJu1EaNPvc", "title": "Automate Kubernetes Network Policies With Otterize Intents?" }, 
     { "id": "m6g0aWggdUQ", "title": "Is CUE The Perfect Language For Kubernetes Manifests (Helm Templates Replacement)?" }, 

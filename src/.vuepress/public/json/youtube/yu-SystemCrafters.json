@@ -8,7 +8,7 @@
   "videos": [
     { "id": "HG7pVCa0DVY", "title": "Terminal Velocity: Eshell, vterm, and Eat - System Crafters Live!" },
     { "id": "Teak30_pXHk", "title": "Introduction to Functional Programming with F# - Part 1 [Episode 001]" },
-    { "id": "E-NAM9U5JYE", "title": "Emacs From Scratch #8 - Build Your Own IDE with lsp-mode" }    
+    { "id": "E-NAM9U5JYE", "title": "Emacs From Scratch #8 - Build Your Own IDE with lsp-mode" }
   ]
 }
 

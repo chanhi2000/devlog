@@ -6,7 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/KoY4bTIwjVHMlWRUMHUofB-m4QHyqy-x58bOXtT2s25_k9xkXgVv1kSvJoxKAHxQIAeE30AlgA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "FHUdofuSe2E", "title": "Jetpack Compose Animate State" },    
+    { "id": "FHUdofuSe2E", "title": "Jetpack Compose Animate State" }
     { "id": "WB2iEQuyWNI", "title": "ANDROID NOTIFICATION (Kotlin, channel ID and notification sound)" }, 
     { "id": "ImaDVlnO4RA", "title": "USER AUTHENTICATION IN ANDROID USING RETROFIT AND SLIM FRAMEWORK PT2" }, 
     { "id": "ARJuvp1doF4", "title": "ANDROID NOTIFICATION SCHEDULER" }, 

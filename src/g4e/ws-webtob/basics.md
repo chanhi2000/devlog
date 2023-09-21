@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🏹WebtoB > 🐣Basics
-tags: ["http.m", "webtob", "webserver", "web-server", "reverse-proxy"]
+tags: 
+  - http.m
+  - webtob
+  - webserver
+  - web-server
+  - reverse-proxy
 ---
 
 # {{ $frontmatter.title }} 관련

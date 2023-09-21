@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 📦AWS > 📺Youtube
-tags: ["youtube", "aws", "amazon", "amazon-web-service"]
+tags: ["youtube", "tutorial", "aws", "amazon", "amazon-web-service", "@CloudLearning", "@GoCloudArchitects", "@VercelHQ", "@cloudwithraj", "@be9952", "@seefromfar143", "@TechwithLucy", "@AWSClassroom"]
 ---
 
 # {{ $frontmatter.title }} 관련

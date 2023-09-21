@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🛠️Git > 📺Youtube
-tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "bash"]
+tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "bash", "@glich.stream", "@Github", "@Gitkraken", "@Atlassian", "@TheModernCoder"]
 ---
 
 # {{ $frontmatter.title }} 관련

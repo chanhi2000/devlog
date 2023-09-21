@@ -158,5 +158,11 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 - [Reducing Complexity in Front End Development](https://css-irl.info/reducing-complexity-in-front-end-development)
 
 ---
+
+## Andy Bell
+
+- [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset)
  
+---
+
 <TagLinks />

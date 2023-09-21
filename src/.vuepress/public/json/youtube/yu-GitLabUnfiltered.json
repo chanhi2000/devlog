@@ -37,7 +37,7 @@
     { "id": "ZBcqGmEwORA", "title": "How to set up Security Scan Policies in GitLab" },
     { "id": "IDswzRI-8VQ", "title": "How to setup Compliance Frameworks & Pipelines in GitLab" },
     { "id": "EiFE1QrUQfk", "title": "How to set up Dynamic Application Security Testing (DAST) with GitLab" },
-    { "id": "h__mcXpil_4", "title": "How to set up Container Scanning using GitLab" },    
+    { "id": "h__mcXpil_4", "title": "How to set up Container Scanning using GitLab" }
     { "id": "LpYZdSxHu8Q", "title": "Design concept - Minimum required approvals rule at a group level" },
     { "id": "52bUdcX_yRk", "title": "Branch rules design walkthrough" },
     { "id": "f1zrglV722w", "title": "Integrate Azure Key Vault with GitLab" },

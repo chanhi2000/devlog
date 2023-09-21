@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 📚References
 description: 🦖JEUS > 📚References
-tags: ["java", "jdk", "jdk7", "was", "jeus5", "jeus6"]
+tags: 
+  - java
+  - jdk
+  - jdk7
+  - was
+  - jeus5
+  - jeus6
 ---
 
 # {{ $frontmatter.title }} 관련

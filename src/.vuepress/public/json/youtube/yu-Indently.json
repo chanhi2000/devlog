@@ -8,7 +8,7 @@
   "videos": [
     { "id": "W6b6J1svbj8", "title": "How “lru_cache” Can Make Your Functions Over 100X FASTER In Python" },
     { "id": "CZ6WIUVUsVc", "title": "I Just Saved 2 Lines Of Code With THIS Python Method #code #python #programming" },
-    { "id": "GSZhXVjuLgA", "title": "Why I Explicitly Return “None” In All My Functions (Python)" },    
+    { "id": "GSZhXVjuLgA", "title": "Why I Explicitly Return “None” In All My Functions (Python)" }
     { "id": "nr9uk6zUWGE", "title": "Python Experts Love Using THIS Magic Method" },
     { "id": "QE903dZWfEo", "title": "The EASY Way To Time Your Python Code Performance (ft. `timeit`)" },
     { "id": "P654ObISykA", "title": "Use THIS To Check If Your Code Is Optimized In Python" },
@@ -17,7 +17,7 @@
     { "id": "4zK3F5pfV4o", "title": "Python Devs Will HATE YOU If You Do THIS" }, 
     { "id": "n4SkpAGKqos", "title": "Is THIS Decorator Style NEW In Python? (IIFE)" }, 
     { "id": "IMrxB8Mq5KU", "title": "How To Use Jupyter NoteBook For Data Analysis (Beginner Tutorial 2023)" }, 
-    { "id": "XSkBFFOtQro", "title": "\"TypedDict\" In Python Is Actually AWESOME!" }    
+    { "id": "XSkBFFOtQro", "title": "\"TypedDict\" In Python Is Actually AWESOME!" }
   ]
 }
 

@@ -12,6 +12,7 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
 import { searchPlugin } from '@vuepress/plugin-search';
 import { activeHeaderLinksPlugin } from '@vuepress/plugin-active-header-links';
 import { prismjsPlugin } from '@vuepress/plugin-prismjs';
+import { seoPlugin } from "vuepress-plugin-seo2";
 /* plugins 3rd-party */
 import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { componentsPlugin } from "vuepress-plugin-components";
@@ -20,6 +21,7 @@ import anchorRightPlugin from 'vuepress-plugin-anchor-right';
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 import MdDefinePlugin from 'vuepress-plugin-markdown-define2';
 import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { usePagesPlugin } from 'vuepress-plugin-use-pages'
 
 
 // import { mermaidWrapperPlugin } from 'vuepress-plugin-mermaid-wrapper';
@@ -106,7 +108,7 @@ export default {
       debug: true
     }),
     mediumZoomPlugin({
-      selector: ':not(.youtube-item) > img'
+      selector: ':not(.youtube-item):not(a) > img'
     }),
     searchPlugin({
       isSearchable: (page) => page.path !== '/',
@@ -115,6 +117,8 @@ export default {
     prismjsPlugin({
       preloadLanguages: ['mermaid', 'kotlin', 'java', 'md'],
     }),
+    // seoPlugin({
+    // }),
     copyrightPlugin({
       author: 'Chan Hee Lee',
       license: 'MIT Licensed',
@@ -164,7 +168,9 @@ export default {
     MdDefinePlugin(CONSTS),
     searchProPlugin({
       indexContent: true,
-      
+    }),
+    usePagesPlugin({
+      startsWith: '/'
     }),
   ],
 }

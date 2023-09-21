@@ -3,7 +3,10 @@ lang: ko-KR
 title: 📺Youtube
 description: 📊Power BI > 📺Youtube
 category: 📊Power BI
-tags: ["youtube", "powerbi", "bi"]
+tags: 
+  - youtube
+  - powerbi
+  - bi
 ---
 
 # {{ $frontmatter.title }} 관련

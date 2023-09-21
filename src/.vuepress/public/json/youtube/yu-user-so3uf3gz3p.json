@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-so3uf3gz3p",
+    "name": "리눅스 읽어주는 남자",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTykz4-mMeDbaxVoSVWNOwgKrvpYf90bAHmtQfH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CDpj23-Bz_cRWW3J1q0ozQgwCisyW6AcMzEjIGmCUzmgidl9G3FXqcA8x-yYZuSznpXWA7ntjbk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CGo273hb28s", "title": "서버 엔지니어SRE, Devops, Infra 등를 위한 리눅스 네트워크 기본공부방법 exported" }    
+  ]
+}

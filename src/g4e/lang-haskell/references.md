@@ -48,4 +48,10 @@ meta:
 
 ---
 
+## Joey Hess
+
+- [Haskell webassembly in the browser](https://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser)
+
+---
+
 <TagLinks />

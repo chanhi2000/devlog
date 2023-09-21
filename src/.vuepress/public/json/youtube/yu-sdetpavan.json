@@ -7,7 +7,7 @@
   },
   "videos": [
     { "id": "ePy0Xl-JpRg", "title": "Playwright with Javascript | How To Create and Run Tests | Part 3" },
-    { "id": "jLHIzSH4rGg", "title": "Playwright with Javascript | Hard Assertions vs Soft Assertions | Part 8" },    
+    { "id": "jLHIzSH4rGg", "title": "Playwright with Javascript | Hard Assertions vs Soft Assertions | Part 8" }
     { "id": "ePy0Xl-JpRg", "title": "Playwright with Javascript | How To Create and Run Tests | Part 3" }, 
     { "id": "OM4mr3PKgcQ", "title": "Session 1: API Testing | RestAssured | Introduction | Environment Setup | HTTP Methods" }, 
     { "id": "rHeoPN-enCI", "title": "Session 6: API Testing | Postman | API Chaining" }, 

@@ -8,13 +8,13 @@
   "videos": [
     { "id": "yQFuJJqqWbc", "title": "How to Backup MacOS to Synology NAS using Time Machine (easy)" },
     { "id": "ci5agOkoXuI", "title": "Sync Google Drive / Dropbox to your Synology NAS - Cloud Sync Tutorial" },
-    { "id": "X0qGNgmCIGw", "title": "How to use Docker (Container Manager) to do ANYTHING! on Synology NAS" },    
+    { "id": "X0qGNgmCIGw", "title": "How to use Docker (Container Manager) to do ANYTHING! on Synology NAS" }
     { "id": "o2ck1g3_k3o", "title": "The Complete Guide to Remotely Access Synology NAS - All 5 Options Explained"  }, 
     { "id": "R_EQzBkz4sE", "title": "How to Monitor EVERYTHING in your HomeLab for free - Zabbix Overview" }, 
     { "id": "euR29S6RHLA", "title": "How I host Virtual Machines in my HomeLab - Open Source Xen Orchestra Overview" }, 
     { "id": "T1xW97eyXB8", "title": "COMPLETE BEGINNER’S GUIDE for Synology NAS - 2023 DSM 7.2" }, 
     { "id": "W5kHK3Wq_GE", "title": "New Synology Rack Models Released! - RS2421+ / RS2821RP+" },
-    { "id": "Iwoznebw88o", "title": "Create a VPN Server on RaspberryPi using open VPN! - RaspberryPi Tutorial #05 | 4K TUTORIAL" }    
+    { "id": "Iwoznebw88o", "title": "Create a VPN Server on RaspberryPi using open VPN! - RaspberryPi Tutorial #05 | 4K TUTORIAL" }
   ]
 }
 

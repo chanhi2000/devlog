@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🕶️Github > 📺Youtube
-tags: ["youtube", "tutorial", "github", "github-action", "study"]
+tags: ["youtube", "tutorial", "github", "github-action", "study", "@Github"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -10,6 +10,14 @@ tags: ["youtube", "tutorial", "github", "github-action", "study"]
 > {{ $frontmatter.description }}
 
 [[toc]]
+
+---
+
+## Github
+
+<MyYouTubeItems jsonName="yu-Github" />
+
+<!-- Github -->
 
 ---
 

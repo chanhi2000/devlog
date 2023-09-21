@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "BoostMyTool",
+    "name": "BoostMyTool",
+    "profile": "https://yt3.googleusercontent.com/xKzHj7vNb7d73vhQU5YWdXiOPyTVgv-3kTIECe2_buQfEFjlAlyRcgT011StkeNoTl0t27sT0Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/y7dd6gwWCGHhLAZtBRYETqk0Rn9u24vWkBMtwOJH7l4ayVupWul1tI8ajVmlEUw8uNHYqZc0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W4L33R4mQo0", "title": "How to use Arrays and Objects in JavaScript & ReactJS | Spread Operator & Array-Object Destructuring" }
+  ]
+}

@@ -12,7 +12,7 @@
     { "id": "Ki1J2pxAHdQ", "title": "Cloud Native Live: K8s all the things!" },
     { "id": "7XeTz-pU7fc", "title": "Using the built in SQL database with Spin 1.4" },
     { "id": "XwnqUQfpWsE", "title": "Harness the power of Kubernetes network scanning for improved security posture" },
-    { "id": "mBgQBMhboyU", "title": "Dapr - The ultimate developer API for authoring microservices" },    
+    { "id": "mBgQBMhboyU", "title": "Dapr - The ultimate developer API for authoring microservices" }
     { "id": "FTDMpeqj1B0", "title": "Building a managed database service with Kubernetes Operators" }, 
     { "id": "6VTEOOfIbIk", "title": "Unlocking the Power of  Collaboration and Troubleshooting in Kubernetes with Botkube" }, 
     { "id": "OK9fSBxFN0c", "title": "Why werf for CI/CD in Kubernetes?" }, 

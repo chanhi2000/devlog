@@ -61,6 +61,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-pwsh/scripts-to-convert-files.md',
         '/g4e/cli-pwsh/scripts-for-git.md',
         '/g4e/cli-pwsh/scripts-for-pwsh.md',
+        '/g4e/cli-pwsh/various-pwsh-scripts.md',
         '/g4e/cli-pwsh/tips.md',
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',

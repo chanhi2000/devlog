@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "devajae",
+    "name": "개발아재",
+    "profile": "https://yt3.googleusercontent.com/H13KfiiIq2txVSnnuPl7ukSwLH7FKxNCsje4ImINuqwq5mFA31wVpXY52BVRAly_PC9U5f0q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ZltzhhEh1LU", "title": "[Linux] 3강_File Management -1" }    
+  ]
+}

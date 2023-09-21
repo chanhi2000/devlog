@@ -3,7 +3,11 @@ lang: ko-KR
 title: 📺Youtube
 description: 🆚VSCode > 📺Youtube
 category: 🆚VSCode
-tags: ["education", "youtube", "vscode", "code"]
+tags: 
+  - education
+  - youtube
+  - vscode
+  - code
 ---
 
 # {{ $frontmatter.title }} 관련

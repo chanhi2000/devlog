@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🧙‍♂️Powershell > 📺Youtube
-tags: ["powershell", "windows", "windows-terminal", "multiline"]
+tags: ["youtube", "tutorial", "powershell", "windows", "windows-terminal", "multiline", "@Techthoughts2", "@ShanesCows", "@ServerAcademy"]
 ---
 
 # {{ $frontmatter.title }} 관련

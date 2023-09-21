@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🦕C > 📺Youtube
-tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
+tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "programming", "@nullnull_not_eq_null", "@HanbitMedia93", "@TheCherno", "@TsodingDaily", "@voxelrifts", "@ChiliTomatoNoodle", "@ThinMatrix", "@HongLab", "@cppweekly", "@PaulProgramming", "@ICBANQ", "@cpponsea2834"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -97,6 +97,14 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 
 ---
 
+## AngeTheGreat
+
+<MyYouTubeItems jsonName="yu-angethegreat" />
+
+<!-- AngeTheGreat -->
+
+---
+
 ## cpponsea
 
 <MyYouTubeItems jsonName="yu-cpponsea2834" />
@@ -104,4 +112,5 @@ tags: ["education", "c", "cpp", "c++", "youtube", "programming"]
 <!-- cpponsea -->
 
 ---
+
 <TagLinks />

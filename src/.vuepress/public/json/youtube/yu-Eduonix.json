@@ -2,31 +2,16 @@
   "channel": {
     "id": "Eduonix",
     "name": "Eduonix Learning Solutions",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPm3mD4CidfvBnkXfqDGYPKvdZZCVsUtcGwdXuAGg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPm3mD4CidfvBnkXfqDGYPKvdZZCVsUtcGwdXuAGg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/B75FS5lh-EnXm9TwotL9KXU2fdOileszQHUzPF3890UfFL4Rxg3CJeHpqAO7YjdFY97XyqOV3w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "XhgUClE5uC0",
-      "title": "NGINX tutorial | Learn NGINX Fundamentals | Eduonix"
-    }, {
-      "id": "TtQqhp-wjY4",
-      "title": "Learn Ansible from Scratch | How to use Ansible with Vagrant | Eduonix"
-    }, {
-      "id": "p9_4YHOUr4k",
-      "title": "[JavaScript] | Optimize JS with Webpack (2019) | Eduonix"
-    }, {
-      "id": "Q4Wc9kRdlik",
-      "title": "How to Create Web animation from CSS!  2019 | Eduonix"
-    }, {
-      "id": "Je_J78qx2eY",
-      "title": "Learn To Build Weather App With React | Add Component & API Keys (Part 2/3) | Eduonix"
-    }, {
-      "id": "MEsoLU5u_FA",
-      "title": "Promises in JavaScript | NodeJS File Transferring in Promises (Part 6/6) | Eduonix"
-    }, {
-      "id": "dhaaHKU7Nzk",
-      "title": "ES6: Introduction to Spread Operator | Eduonix"
-    }
+    { "id": "XhgUClE5uC0", "title": "NGINX tutorial | Learn NGINX Fundamentals | Eduonix" }, 
+    { "id": "TtQqhp-wjY4", "title": "Learn Ansible from Scratch | How to use Ansible with Vagrant | Eduonix" }, 
+    { "id": "p9_4YHOUr4k", "title": "[JavaScript] | Optimize JS with Webpack (2019) | Eduonix" }, 
+    { "id": "Q4Wc9kRdlik", "title": "How to Create Web animation from CSS!  2019 | Eduonix" }, 
+    { "id": "Je_J78qx2eY", "title": "Learn To Build Weather App With React | Add Component & API Keys (Part 2/3) | Eduonix" }, 
+    { "id": "MEsoLU5u_FA", "title": "Promises in JavaScript | NodeJS File Transferring in Promises (Part 6/6) | Eduonix" }, 
+    { "id": "dhaaHKU7Nzk", "title": "ES6: Introduction to Spread Operator | Eduonix" }
   ]
 }
-

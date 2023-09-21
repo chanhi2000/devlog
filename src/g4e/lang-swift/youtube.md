@@ -561,6 +561,14 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## 삶은개발
+
+<MyYouTubeItems jsonName="yu-boiledDeveloper" />
+
+<!-- 삶은개발 -->
+
+---
+
 ## Misc
 
 <!-- [Gary Tokman][yu-fgary] -->

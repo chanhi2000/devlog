@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ethanniser",
+    "name": "Ethan Niser",
+    "profile": "https://yt3.googleusercontent.com/U0SPEdf6Zkjzj8UDouhMsg7HGUKvybuvYECxkVndsj5yqTJULfSqyTIWu8xaOPMsQ6Zen-jr0ZQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "cpzowDDJj24", "title": "The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance" }
+  ]
+}

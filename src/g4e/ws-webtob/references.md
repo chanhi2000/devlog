@@ -2,7 +2,11 @@
 lang: ko-KR
 title: 📚References
 description: 🏹WebtoB > 📚References
-tags: ["http.m", "webtob", "webserver", "web-server"]
+tags:
+  - http.m
+  - webtob
+  - webserver
+  - web-server
 ---
 
 # {{ $frontmatter.title }} 관련

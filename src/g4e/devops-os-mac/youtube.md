@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🖥️macOS > 📺Youtube
-tags: ["macos", "settings"]
+tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez", "@codepersist", "@masterliu1892", "@JessiesFlying", "@Mr.Macintosh", "@landingai", "@fotoworkshop_stuttgart", "@AndrewEthanZeng", "@Eevnos", "@iBoffRCC", "@EricParker", "@MacSoundSolutions", "@DicasdoMateus", "@TaoMStudio", "@EposVox", "@ChrisLawley", "@lemirq4828", "@applesupport", "@ThisDoesNotCompute", "@TechNolli", "@ActionRetro"]
 ---
 
 # {{ $frontmatter.title }} 관련

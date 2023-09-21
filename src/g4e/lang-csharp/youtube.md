@@ -270,6 +270,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Coder Foundry
+
+<MyYouTubeItems jsonName="yu-CoderFoundry" />
+
+<!-- Coder Foundry -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

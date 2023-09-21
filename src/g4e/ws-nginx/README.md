@@ -2,7 +2,11 @@
 lang: ko-KR
 title: Intro
 description: 🪂NGINX
-tags: ["nignx", "webserver", "web-server", "reverse-proxy"]
+tags: 
+  - nignx
+  - webserver
+  - web-server
+  - reverse-proxy
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 👽oVirt > 📺Youtube
-tags: ["bash", "sh"]
+tags: ["youtube", "tutorial", "bash", "sh", "ovirt", "vm", "@MindDripMedia", "@storware"]
 ---
 
 # {{ $frontmatter.title }} 관련

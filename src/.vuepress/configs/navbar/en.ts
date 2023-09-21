@@ -1,11 +1,10 @@
 import type { NavbarConfig } from '@vuepress/theme-default'
 
 export const navbarEn: NavbarConfig = [
-  /*{
-    text: '🔖',
-    link: '/tags/README.md'
-  },*/
   {
+    text: '🔖',
+    link: '/tag/README.md'
+  }, {
     text: '🪠', // Projects
     children: [
       {

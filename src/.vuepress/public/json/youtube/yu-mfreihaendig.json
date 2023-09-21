@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "mfreihaendig",
+    "name": "Matthias Frank",
+    "profile": "https://yt3.googleusercontent.com/w6h2QeUjloTSUKVFyjiXFZ7RnVf7Mv_4r7TVvrpVHAs_zDrzETRBvFJgi9fLvVfJ9WIZVxWOqw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7KxqNEbGDn0xVSGuI8bfW_3O62XsBy_oDZcjbzLy7lzfDhCwHcpS-pVxNlKdB2Me64SrzrhX=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tJlkd8JXpUw", "title": "Notion Charts: Get Stunning Charts In Notion (For Free)" },
+    { "id": "7g6eYqyEp0w", "title": "One Trick Notion Experts Use To Build Exceptional Workspaces" }
+  ]
+}

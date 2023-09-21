@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🛡Security > 📺Youtube
-tags: ["devsecops", "security", "os", "windows", "youtube", "_JohnHammond"]
+tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnHammond", "@boanproject", "@HackerSploit", "@LoiLiangYang", "@WolfgangsChannel", "@ippsec", "@pcsecuritychannel", "@Normaltic", "@collinsinfosec", "@CyberTom", "@zSecurity", "@cheonghub"]
 ---
 
 # {{ $frontmatter.title }} 관련

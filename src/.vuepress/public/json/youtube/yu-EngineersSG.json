@@ -2,24 +2,14 @@
   "channel": {
     "id": "EngineersSG",
     "name": "Engineers.SG",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtiOUv4FH4KUIB5iEeWhxSydybMawPciJsg5i0=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtiOUv4FH4KUIB5iEeWhxSydybMawPciJsg5i0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xe8Ejo2eyZq9nVD2oqfEkaxFcsbvzVFVh72aSyF07WXJVQrvE7qTUqG5vwKZlz_T0C8DCWit-C8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "wTuHWdfhVz8",
-      "title": "Fun with Sensors and Browser APIs - Talk.CSS #48"
-    }, {
-      "id": "8opFTK2shAc",
-      "title": "React Knowledgeable"
-    }, {
-      "id": "d1XzfHKOG1k",
-      "title": "RX Java: Reactive extensions for the JVM - NUS Hackers"
-    }, {
-      "id": "W7UkLNZva1o",
-      "title": "Efficient data loading in Elixir using the deferrable pattern - build super fast GraphQL resolvers"
-    }, {
-      "id": "CUis6-LBobA",
-      "title": "Kubernetes Chaos Engineering: Lessons Learned in Networking - Singapore Kubernetes User Group"
-    }
+    { "id": "wTuHWdfhVz8", "title": "Fun with Sensors and Browser APIs - Talk.CSS #48" }, 
+    { "id": "8opFTK2shAc", "title": "React Knowledgeable" }, 
+    { "id": "d1XzfHKOG1k", "title": "RX Java: Reactive extensions for the JVM - NUS Hackers" }, 
+    { "id": "W7UkLNZva1o", "title": "Efficient data loading in Elixir using the deferrable pattern - build super fast GraphQL resolvers" }, 
+    { "id": "CUis6-LBobA", "title": "Kubernetes Chaos Engineering: Lessons Learned in Networking - Singapore Kubernetes User Group" }
   ]
 }

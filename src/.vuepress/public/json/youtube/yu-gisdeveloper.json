@@ -25,7 +25,7 @@
         { "id": "Un67WABYkpc", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 8. 카메라(Camera) by GIS DEVELOPER 22 minutes" },
         { "id": "VSx4jGQT5HI", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 9-1. 그림자(Shadow) by GIS DEVELOPER 29 minutes" },
         { "id": "bLM-fleqfs4", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 9-2. 그림자(Shadow) by GIS DEVELOPER 16 minutes" },
-        { "id": "S7qWQ1li32o", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 10. 3D 모델 / 애니메이션 by GIS DEVELOPER 13 minutes, 3 seconds" }   
+        { "id": "S7qWQ1li32o", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 10. 3D 모델 / 애니메이션 by GIS DEVELOPER 13 minutes, 3 seconds" }
       ]
     }, {
       "title": "Java로 보는 GoF의 디자인 패턴 강좌 (종결)",
@@ -54,7 +54,7 @@
         { "id": "pmKHiAIwhag", "title": "GoF의 Design Pattern - 21. Abstract Factory by GIS DEVELOPER 17 minutes" },
         { "id": "XNwAfxaqWEc", "title": "GoF의 Design Pattern - 22. State by GIS DEVELOPER 19 minutes" },
         { "id": "RVZz_kLWdFM", "title": "GoF의 Design Pattern - 23. Interpreter by GIS DEVELOPER 23 minutes" },
-        { "id": "QC8Q5MWB-mQ", "title": "GoF의 Design Pattern - 24. Visitor by GIS DEVELOPER 13 minutes, 13 seconds" }           
+        { "id": "QC8Q5MWB-mQ", "title": "GoF의 Design Pattern - 24. Visitor by GIS DEVELOPER 13 minutes, 13 seconds" }
       ]
     }
   ]

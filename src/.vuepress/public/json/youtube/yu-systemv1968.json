@@ -6,10 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iBMRAU0bGQc", "title": "자바 시스템 구축하기 - 설계" },
     { "id": "tCm-U0rP86M", "title": "레드햇 9, 네트워크 설정하기" },
     { "id": "NRnCD93NsSo", "title": "Open vSwitch(OVS) 설치와 설정" },
     { "id": "2S15QnrihDs", "title": "KVM 가상환경 구축하기 - Ubuntu 22.04 LTS" },
     { "id": "m0tky1jyP-0", "title": "빌드(Build)를 위한 Jenkins 설치 및 설정하기" },
-    { "id": "oQcMgIVOlWM", "title": "SCM 설정하기" }    
+    { "id": "oQcMgIVOlWM", "title": "SCM 설정하기" }
   ]
 }

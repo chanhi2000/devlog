@@ -282,6 +282,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
 - [I Bet You Don’t Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)
 - [Some Simple and Amazing JavaScript Tricks](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
+- [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
 
 ---
 
@@ -502,6 +503,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## The Codest
 
 - [Writing documentation has become easy thanks to VuePress](https://thecodest.co/blog/writing-documentation-has-become-easy-thanks-to-vuepress)
+
+---
+
+## Marvin Hagemeister
+
+- [Speeding up the JavaScript ecosystem - Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6)
 
 ---
 

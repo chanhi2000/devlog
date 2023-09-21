@@ -2703,5 +2703,15 @@
     "desc": "The On-line Database of Databases",
     "officialSite": "https://dbdb.io",
     "topics": ["database"]
+  }, {
+    "repo": "ProjectUnifree/unifree",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zhudotexe/kani",
+    "desc": "kani (カニ) is a highly hackable microframework for chat-based language models with tool usage/function calling.",
+    "officialSite": "https://kani.readthedocs.io",
+    "topics": ["chatgpt", "framework", "function-calling", "gpt-3", "gpt-4", "large-language-models", "llama", "llama-2", "llms", "microframework", "openai", "tool-use"]
   }
 ]

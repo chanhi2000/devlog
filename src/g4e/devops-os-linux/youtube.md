@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐧Linux > 📺Youtube
-tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "docker", "neofetch"]
+tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "docker", "neofetch", "@linuxleech", "@tmanelshrghk", "@SoftwareToolTime", "@HanbitMedia93", "@christianlempa", "@Talkitonair", "@hnasr", "@fknight", "@DanielPersson", "@LearnLinuxTV", "@sstectutorials", "@davidbombal", "@tutoriaLinux", "@VMwareTanzu", "@BrodieRobertson", "@RobertElderSoftware", "@OfficialPackt", "@MentalOutlaw", "@eBuzzCentral", "@linuxscoop", "@gisafirst1", "@theurbanpenguin", "@JosephDelgadillo", "@gaffclant", "@NixiePixel", "@TheLinuxEXP", "@EposVox", "@SwitchedtoLinux", "@TheLinuxCast", "@LinuxTips", "@ByteofLinux", "@systemv1968", "@Benmin824"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -271,6 +271,22 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-Benmin824" />
 
 <!-- 민병욱-Benmin -->
+
+---
+
+## 개발아재
+
+<MyYouTubeItems jsonName="yu-devajae" />
+
+<!-- 개발아재 -->
+
+---
+
+## 리눅스 읽어주는 남자
+
+<MyYouTubeItems jsonName="yu-user-so3uf3gz3p" />
+
+<!-- 리눅스 읽어주는 남자 -->
 
 ---
 

@@ -784,5 +784,15 @@
     "desc": "High performance JSON decoder in Go",
     "officialSite": "",
     "topics": ["decoder", "go", "golang", "high-performance", "json", "parser"]
+  }, {
+    "repo": "opentofu/opentofu",
+    "desc": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "officialSite": "https://opentofu.org",
+    "topics": []
+  }, {
+    "repo": "usememos/memos",
+    "desc": "A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts",
+    "officialSite": "https://usememos.com",
+    "topics": ["docker", "free", "go", "markdown", "memo", "microblog", "note-taking", "react", "self-hosted", "social-network", "sqlite"]
   }
 ]

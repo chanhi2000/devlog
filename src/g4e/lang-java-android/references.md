@@ -130,4 +130,10 @@ tags: ["references", "android"]
 
 ---
 
+## esper
+
+- [Android 14 adds support for using smartphones as a webcams](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
+
+---
+
 <TagLinks />

@@ -8,6 +8,6 @@
   "videos": [
     { "id": "TlVM8fO02_c", "title": "Streamlit LLM Hackathon" },
     { "id": "vzlQkAzWCeI", "title": "Build Streamlit apps in your browser with GitHub Codespaces" },
-    { "id": "J8TgKxomS2g", "title": "How to build a Llama 2 chatbot" }    
+    { "id": "J8TgKxomS2g", "title": "How to build a Llama 2 chatbot" }
   ]
 }

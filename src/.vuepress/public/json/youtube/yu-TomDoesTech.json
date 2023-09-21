@@ -8,7 +8,7 @@
   "videos": [
     { "id": "cfEqS1A5diM", "title": "Build & Deploy a Realtime App that Scales with Upstash Redis, Next.js & Fastify" },
     { "id": "O9qmf_CvUzs", "title": "Building Large Scale Microservice Applications" },
-    { "id": "78lW9Fp5qY8", "title": "Concurrency is SO Simple in Go" },    
+    { "id": "78lW9Fp5qY8", "title": "Concurrency is SO Simple in Go" }
     { "id": "b6VhN_HHDiQ", "title": "Build a Multi-Tenanted, Role-Based Access Control System" }, 
     { "id": "_LF-IvJsr5Y", "title": "Build & Deploy a Full Stack App to the Edge with Next.js, Neon & Vercel" }, 
     { "id": "6-1N8wIZ1ic", "title": "Event-driven Microservices with Node.js, Kafka & Conduktor" }, 

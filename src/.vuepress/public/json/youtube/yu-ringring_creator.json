@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ringring_creator",
+    "name": "RingRing",
+    "profile": "https://yt3.googleusercontent.com/iP2GgaYyHL28JezWRla1odTPjGvkz7rHVmMcWm-zqaUFN_CfEz3tDOoOvuZTGeY8fqDnFdqMpQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hI-evYYYeqonDFo7ibNwfTM1OkFlD5_A91qpsPYNHZt_fs0-D6USJWUFUNgWNwbhvN2q0YkpCA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KlkUo7OEhOs", "title": "Art coding: processing - glsl shader" }
+  ]
+}

@@ -2,7 +2,11 @@
 lang: ko-KR
 title: Intro
 description: 🏹WebtoB
-tags: ["http.m", "webtob", "webserver", "web-server"]
+tags:
+  - http.m
+  - webtob
+  - webserver
+  - web-server
 ---
 
 # {{ $frontmatter.description }} 관련
