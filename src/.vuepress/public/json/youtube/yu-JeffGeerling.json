@@ -2,19 +2,13 @@
   "channel": {
     "id": "JeffGeerling",
     "name": "Jeff Geerling",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMyX84n9b4LyGTuxCGK9piFZ4yGC4BCtLV68K1Bpg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMyX84n9b4LyGTuxCGK9piFZ4yGC4BCtLV68K1Bpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gjQW4_bjwdIxXvIEiTpnmeDE3om-IiC2KvQO1AcOWuN0cAh0MUS0yWI5amGoIrPcQod16duX=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "5NJ6V8i1Xd8",
-      "title": "Build your OWN VPN! Here's how (and why you should)"
-    }, {
-      "id": "4VkY1vTpCJY",
-      "title": "Better than Netflix: Jellyfin on my NAS"
-    }, {
-      "id": "xNndbfxMCLo",
-      "title": "Raspberry Pi Cluster Ep 2 - Setting up the Cluster"
-    }
+    { "id": "5NJ6V8i1Xd8", "title": "Build your OWN VPN! Here's how (and why you should)" }, 
+    { "id": "4VkY1vTpCJY", "title": "Better than Netflix: Jellyfin on my NAS" }, 
+    { "id": "xNndbfxMCLo", "title": "Raspberry Pi Cluster Ep 2 - Setting up the Cluster" }
   ]
 }
 

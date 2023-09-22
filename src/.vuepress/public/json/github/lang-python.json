@@ -2713,5 +2713,20 @@
     "desc": "kani (カニ) is a highly hackable microframework for chat-based language models with tool usage/function calling.",
     "officialSite": "https://kani.readthedocs.io",
     "topics": ["chatgpt", "framework", "function-calling", "gpt-3", "gpt-4", "large-language-models", "llama", "llama-2", "llms", "microframework", "openai", "tool-use"]
+  }, {
+    "repo": "pallets/flask",
+    "desc": "The Python micro framework for building web applications.",
+    "officialSite": "https://flask.palletsprojects.com",
+    "topics": ["flask", "jinja", "pallets", "python", "web-framework", "werkzeug", "wsgi"]
+  }, {
+    "repo": "python/mypy",
+    "desc": "Optional static typing for Python",
+    "officialSite": "https://www.mypy-lang.org",
+    "topics": ["linter", "python", "typechecker", "types", "typing"]
+  }, {
+    "repo": "InternLM/InternLM",
+    "desc": "InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.",
+    "officialSite": "https://internlm.org",
+    "topics": ["chatbot", "gpt", "language-model"]
   }
 ]

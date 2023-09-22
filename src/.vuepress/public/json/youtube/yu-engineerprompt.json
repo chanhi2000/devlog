@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "engineerprompt",
+    "name": "Prompt Engineering",
+    "profile": "https://yt3.googleusercontent.com/qGZcIHs93S6ydl_7QpU1uHtO_i8nOKyPCk5j7_zEXTpQ5SyY45WsBNfJks0JwV03WsroHG0x=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/65qv-IUJXhEcwd2WLDJ3gXqcAk6fkIceYxvKUII7Gz1rBeHiOt4L2JQwqhvvAYv5wEC1ucsj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "G_prHSKX9d4", "title": "LocalGPT Updates - Tips & Tricks" }    
+  ]
+}

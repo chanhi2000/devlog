@@ -659,6 +659,11 @@
     "desc": "A modern formatting library",
     "officialSite": "https://fmt.dev",
     "topics": ["c-plus-plus", "chrono", "cross-platform", "formatting", "multiplatform", "output", "performance", "printf"]
+  }, {
+    "repo": "InternLM/lmdeploy",
+    "desc": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
+    "officialSite": "",
+    "topics": ["codellama", "cuda-kernels", "deepspeed", "fastertransformer", "internlm", "llama", "llama2", "llm", "llm-inference", "turbomind"]
   }
 ]
 

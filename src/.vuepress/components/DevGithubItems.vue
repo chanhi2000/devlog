@@ -89,7 +89,6 @@
 
 <script>
 import DeLoadingvSpinner from './DeLoadingvSpinner.vue'
-import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
 export default {
   name: "DevGithubItems",
   components: { DeLoadingvSpinner },
@@ -119,7 +118,7 @@ export default {
       for (const [i, e] of fetchedItemsGithub.entries()) {
         const fullName = e.link.replace(REGEX_GITHUB_BASE_URL, '')
         const jsonRes = await this.fetchGithubInfo(fullName);
-        console.log(JSON.stringify(jsonRes))
+        if (__IS_DEBUG__) console.log(JSON.stringify(jsonRes))
         const _hasLanguage = (jsonRes.language != null || jsonRes.language == '');
         const _langColor = fetchedGithubColor[jsonRes.language]?.color ?? '000000';
         let l = (_hasLanguage)  
@@ -150,7 +149,7 @@ export default {
       }
 
       let jsonFullPathsLang = [
-        "awk", "batchfile", "blade", "c", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "gdscript", "go", "haskell", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
+        "android", "awk", "batchfile", "blade", "c", "clojure", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "gdscript", "go", "haskell", "hcl", "java", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "prolog", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
       ].map((e) => `/json/github/lang-${e}.json`);
 
       let jsonFullPathsLangTut = [
@@ -218,16 +217,17 @@ export default {
           .replace(/,\n\s\s\s\s/g, ', ')
           .replace(/\[\n    \"/g, '[\"')
           .replace(/\n  \]/g, ']');
-      console.log(jsonData)
+      if (__IS_DEBUG__) console.log(jsonData)
       await this.copyToClipboard(jsonData)
     },
     async fetchGithubInfo(fullName = '') {
+      if (__IS_DEBUG__) console.log(`fetchGithubInfo ... fullName: ${fullName}`)
       const _fullName = fullName?.replace(/\s/g, '') ?? ''
       if (_fullName == '') {
         console.warn('no fullName FOUND!')
         return
       }
-      console.log('fetchGithubInfo ...');
+      if (__IS_DEBUG__) console.log('fetchGithubInfo ...');
       const apiUrl = 'https://api.github.com/repos'
       try {
         const response = await fetch(`${apiUrl}/${_fullName}`)
@@ -255,7 +255,7 @@ export default {
       } 
     },
     async doRefresh() {
-      console.log('doRefresh DevGithubItems!');
+      if (__IS_DEBUG__) console.log('doRefresh DevGithubItems!');
       await this.fetchData();
     }
   },

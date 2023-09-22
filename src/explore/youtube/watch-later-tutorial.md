@@ -86,7 +86,7 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 
 ## 인프런 inflearn
 
-<MyYouTubeItems jsonName="yu-inflearn9845" />
+<MyYouTubeItems jsonName="yu-inflearn_official" />
 
 <!-- 인프런 inflearn -->
 

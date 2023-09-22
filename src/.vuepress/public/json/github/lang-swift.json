@@ -299,5 +299,10 @@
     "desc": "Elegant HTTP Networking in Swift",
     "officialSite": "",
     "topics": ["alamofire", "carthage", "certificate-pinning", "cocoapods", "httpurlresponse", "networking", "parameter-encoding", "public-key-pinning", "request", "response", "swift", "swift-package-manager", "urlrequest", "urlsession", "xcode"]
+  }, {
+    "repo": "apple/swift-testing",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["software-quality", "swift", "swift-macros", "testing", "unit-testing"]
   }
 ]

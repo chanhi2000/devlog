@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Emilcodelearn",
+    "name": "Emilcoding",
+    "profile": "https://yt3.googleusercontent.com/1u2yQm-GjcgmepRmsBpq4Kk3xMModIP2RZvBBBJM7iYU8TH1uQvwP3msXQEHbfQVUpH_5c4vDw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xUytxRP75KVBac31y2DxMuDUIWUBT3A7Z2j3Vw0-jGtiaJQ6ajIZujJyQvOrsOWixN0Bbu7a_w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hAC_DxPwtA4", "title": "Calculating the Perimeter of a Rectangle in Python Artificial Intelligence Play Coder Coding Example" }    
+  ]
+}

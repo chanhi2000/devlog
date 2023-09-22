@@ -6,13 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/908InPtnp-CXMjeZhasVx0fsmliIKVdPe56F2Kfg6Te4Tv1LLcE4wLUdl1H11q6xTuIteHAhNJk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Yzm4heDMa4Y",
-      "title": "[유료강좌] 모두를 위한 ChatGPT UP! AutoGPT 티저 2"
-    }, {
-      "id": "6B6kao8DBlo",
-      "title": "우리가 찾고 있는 사람 (SE개발자, AI개발자)"
-    }
+    { "id": "Yzm4heDMa4Y", "title": "[유료강좌] 모두를 위한 ChatGPT UP! AutoGPT 티저 2" }, 
+    { "id": "6B6kao8DBlo", "title": "우리가 찾고 있는 사람 (SE개발자, AI개발자)" }
   ]
 }
 

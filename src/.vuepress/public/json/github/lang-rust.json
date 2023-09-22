@@ -654,6 +654,23 @@
     "desc": "Matrix Client-Server SDK for Rust",
     "officialSite": "",
     "topics": ["matrix-org", "rust", "sdk"]
+  }, {
+    "repo": "tikkid/JetbrainKiller",
+    "desc": "A new tool for unlimited 30-day trial of JetBrains series software, supporting the latest version.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "rdaum/moor",
+    "desc": "A rewrite of the classic LambdaMOO server; but in Rust and on a modern tech stack",
+    "officialSite": "",
+    "topics": ["lambdamoo", "moo", "mud"]
+  }, {
+    "repo": "bottlerocket-os/bottlerocket",
+    "desc": "An operating system designed for hosting containers",
+    "officialSite": "https://bottlerocket.dev",
+    "topics": ["containers", "linux", "operating-system", "rust"]
   }
+  
+  
 ]
 

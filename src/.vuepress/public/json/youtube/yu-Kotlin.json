@@ -6,61 +6,24 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "pgmY6XRktd8",
-      "title": "Multiplatform Secrets with Philipp Lackner | ATOM EP 7"
-    }, {
-      "id": "XY4h3pfwaE0",
-      "title": "Creating Kotlin Multiplatform SDK at  @Sentry-monitoring"
-    }, {
-      "id": "Kgf8N6u70ps",
-      "title": "Kotlin/Wasm: Reimagining Frontend Development and More | Talking Kotlin #123"
-    }, {
-      "id": "2PLYlDJPelQ",
-      "title": "Introducing Kotlin Notebook"
-    }, {
-      "id": "pXtTp4Uxuhk",
-      "title": "Spring + Kotlin = Modern + Reactive + Productive by: Josh Long and James Ward"
-    }, {
-      "id": "oIbX7nrSTPQ",
-      "title": "Kotlin goes WebAssembly!"
-    }, {
-      "id": "pgmY6XRktd8", 
-      "title": "Multiplatform Secrets with Philipp Lackner | ATOM EP 7"
-    }, {
-      "id": "ZIr_uuN8FEw",
-      "title": "Modern Compose Architecture with Circuit by Zac Sweers and Kieran Elliott"
-    }, {
-      "id": "-tJvCOfJesk",
-      "title": "Kotlin Multiplatform Mobile for Teams by Kevin Galligan"
-    }, {
-      "id": "USz0vxCQE9Q",
-      "title": "Can't Stop The KMP Train with Josh Shin from Volley (w special guest Suzu the Cat)"
-    }, {
-      "id": "Vq3Mmdl1Tyg",
-      "title": "Synthesising a Database with Kotlin | Talking Kotlin #122"
-    }, {
-      "id": "E9hZITOFCTQ",
-      "title": "Visualizing MIDI sequences with Kotlin and OpenRNDR"
-    }, {
-      "id": "J3hDZ7PTBSk",
-      "title": "Sharing Data Layer Between Android and iOS | Kotlin Multiplatform Mobile Beta"
-    }, {
-      "id": "faVGvVLWMmk",
-      "title": "Quarkus for Kotlin Developers"
-    }, {
-      "id": "GcqFhoUuNNI",
-      "title": "Your First Kotlin Multiplatform Mobile App FROM SCRATCH | Kotlin Tutorial"
-    }, {
-      "id": "MU1SLpwyesY",
-      "title": "From Multiplatform in Production to Madness with Compose: KotlinConf’23 | ATOM #5"
-    }, {
-      "id": "bMJocp969Bo",
-      "title": "The Circuit – Compose-driven Architecture for Kotlin and Android | Talking Kotlin #121"
-    }, {
-      "id": "M3ccMm85YU4",
-      "title": "Hexagonal Architecture inside the Hexagon Toolkit"
-    }
+    { "id": "pgmY6XRktd8", "title": "Multiplatform Secrets with Philipp Lackner | ATOM EP 7" }, 
+    { "id": "XY4h3pfwaE0", "title": "Creating Kotlin Multiplatform SDK at  @Sentry-monitoring" }, 
+    { "id": "Kgf8N6u70ps", "title": "Kotlin/Wasm: Reimagining Frontend Development and More | Talking Kotlin #123" }, 
+    { "id": "2PLYlDJPelQ", "title": "Introducing Kotlin Notebook" }, 
+    { "id": "pXtTp4Uxuhk", "title": "Spring + Kotlin = Modern + Reactive + Productive by: Josh Long and James Ward" }, 
+    { "id": "oIbX7nrSTPQ", "title": "Kotlin goes WebAssembly!" }, 
+    { "id": "pgmY6XRktd8",  "title": "Multiplatform Secrets with Philipp Lackner | ATOM EP 7" }, 
+    { "id": "ZIr_uuN8FEw", "title": "Modern Compose Architecture with Circuit by Zac Sweers and Kieran Elliott" }, 
+    { "id": "-tJvCOfJesk", "title": "Kotlin Multiplatform Mobile for Teams by Kevin Galligan" }, 
+    { "id": "USz0vxCQE9Q", "title": "Can't Stop The KMP Train with Josh Shin from Volley (w special guest Suzu the Cat)" }, 
+    { "id": "Vq3Mmdl1Tyg", "title": "Synthesising a Database with Kotlin | Talking Kotlin #122" }, 
+    { "id": "E9hZITOFCTQ", "title": "Visualizing MIDI sequences with Kotlin and OpenRNDR" }, 
+    { "id": "J3hDZ7PTBSk", "title": "Sharing Data Layer Between Android and iOS | Kotlin Multiplatform Mobile Beta" }, 
+    { "id": "faVGvVLWMmk", "title": "Quarkus for Kotlin Developers" }, 
+    { "id": "GcqFhoUuNNI", "title": "Your First Kotlin Multiplatform Mobile App FROM SCRATCH | Kotlin Tutorial" }, 
+    { "id": "MU1SLpwyesY", "title": "From Multiplatform in Production to Madness with Compose: KotlinConf’23 | ATOM #5" }, 
+    { "id": "bMJocp969Bo", "title": "The Circuit – Compose-driven Architecture for Kotlin and Android | Talking Kotlin #121" }, 
+    { "id": "M3ccMm85YU4", "title": "Hexagonal Architecture inside the Hexagon Toolkit" }
   ]
 }
 

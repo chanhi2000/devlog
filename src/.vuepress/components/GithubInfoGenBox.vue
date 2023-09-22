@@ -22,21 +22,20 @@
             Generate
           </a>
         </p>
-        <pre 
-          class="line-numbers"
-          copy-code-registered="">
-          <code class="language-json"
-            v-html="renderedContent"></code>
-        </pre>
+        <div
+          class="codebox language-json" data-ext="json"
+        >
+<button type="button" class="copy-code-button" aria-label="Copy Codes from code block" data-copied="Copied"><div class="copy-icon"></div></button>
+<pre 
+  class="language-json"
+  copy-code-registered="">
+<code v-html="renderedContent"></code>
+<!-- 무조건 indentation 이런식으로 -->
+</pre>
+        </div>
       </div>
-      <!-- <button type="button" class="search-pro-button" role="search" aria-label="Search">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon search-icon" viewBox="0 0 1024 1024" fill="currentColor" aria-label="search icon">
-          <path d="M192 480a256 256 0 1 1 512 0 256 256 0 0 1-512 0m631.776 362.496-143.2-143.168A318.464 318.464 0 0 0 768 480c0-176.736-143.264-320-320-320S128 303.264 128 480s143.264 320 320 320a318.016 318.016 0 0 0 184.16-58.592l146.336 146.368c12.512 12.48 32.768 12.48 45.28 0 12.48-12.512 12.48-32.768 0-45.28"></path>
-        </svg>
-        <div class="placeholder">Search</div>
-      </button> -->
     </div>
-    <summary><FontIcon icon="iconfont icon-github"/>GithubInfo</summary>
+    <summary><FontIcon icon="iconfont icon-github"/> GithubInfo</summary>
   </details>
 </template>
 
@@ -46,7 +45,6 @@ import * as Prism from 'prismjs'
 import 'prismjs/components/prism-json'
 import 'prismjs/plugins/line-numbers/prism-line-numbers'
 import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
-
 export default {
   name: "GithubInfoGenBox",
   components: { FontIcon },
@@ -58,12 +56,11 @@ export default {
   },
   methods: {
     async fetchData() {
-      console.log('fetchData ...');
+      if (__IS_DEBUG__) console.log('fetchData ...');
       const _repoEndpoint = this.text?.replace(/\s/g, '') ?? ''
-      if (_repoEndpoint == '') {
-        console.warn('no repoEndpoint FOUND!')
-        return
-      }
+      if (_repoEndpoint == '') 
+        throw new Error('no repoEndpoint FOUND!')
+      
       const apiUrl = 'https://api.github.com/repos'
       try {
         const response = await fetch(`${apiUrl}/${_repoEndpoint}`)
@@ -78,20 +75,18 @@ export default {
           .replace(/,\n\s\s\s\s/g, ', ')
           .replace(/\[\n    \"/g, '[\"')
           .replace(/\n  \]/g, ']');
-        console.log(jsonData)
+        if (__IS_DEBUG__) console.log(jsonData)
         await this.renderResponseToCodeSnippet(jsonData)
       } catch (e) {
         console.warn('Error:', e)
-        return
+        await this.renderResponseToCodeSnippet(JSON.stringify({}, null, 2))
       };
     },
     renderResponseToCodeSnippet(json) {
-      console.log(`renderResponseToCodeSnippet ... json: ${json}`)
-      // loadLanguages(['json']);
-      console.log(`load language successfully ...`)
+      if (__IS_DEBUG__) console.log(`renderResponseToCodeSnippet ... json: ${json}`)
       const code = json;
       const html = Prism.highlight(code, Prism.languages['json'], 'json');
-      console.log(html)
+      if (__IS_DEBUG__) console.log(html)
       this.renderedContent = html
     }
   },
@@ -105,6 +100,7 @@ export default {
 .container {width:100%;display:flex;justify-content:center;align-items:center;}
 .container-v-align-center {display:flex !important;flex-direction:row;}
 .container-h-align-center {display:flex !important;flex-direction:column;}
+.codebox {width:auto;min-width:3.5rem;}
 .h-spacing-1 {margin:0 1rem;}
 details.details .action-button {
   display: flex;
@@ -124,8 +120,5 @@ details.details .action-button.primary {
   border-color: var(--c-brand);
 }
 .box.box-input input[type=text] {padding:0 1rem;height:5rem;max-width:10rem;}
-.box.box-input input[type=text]:focus {border-color: }
-.box {
-
-}
+/* .box.box-input input[type=text]:focus {border-color: } */
 </style>

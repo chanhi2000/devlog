@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/yICc3vYIirxKwjiVTqAPJvaQUuyFDS84kCRrM5qGCWrOvx9MuxmwjAYCZ9eQyAI6sA0Lvo10qg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "kIKnDRkJJkY", "title": "이력서 쓰기, 챗 GPT에게 맡긴다면?🤔 #인프런 #shorts" }
+    { "id": "kIKnDRkJJkY", "title": "이력서 쓰기, 챗 GPT에게 맡긴다면?🤔 #인프런 #shorts" },
+    { "id": "KoizAhORc1U", "title": "[강의 리뉴얼] 10주 완성 C++ 코딩테스트｜알고리즘 코딩테스트｜인프런｜개발자 취업" }, 
+    { "id": "KvVU90C1qdc", "title": "IT 기술을 배우고 나눠요│인프런 | 게임 프로그래머 입문 올인원 - 템플릿 분석" }, 
+    { "id": "Mpd10_TRSnE", "title": "IT 기술을 배우고 나눠요│인프런 | 게임 프로그래머 입문 올인원 - 클라/서버 연동" }, 
+    { "id": "JLq31dLiGNs", "title": "IT 기술을 배우고 나눠요│인프런 | 이득우의 언리얼 프로그래밍 - 언리얼 공부" }, 
+    { "id": "S11-HF0eNBc", "title": "IT 기술을 배우고 나눠요│인프런 | 이득우의 언리얼 프로그래밍 - 언리얼 게임제작의 기초" }, 
+    { "id": "K1lKgxeXDrs", "title": "Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 | 인프콘 2022" }, 
+    { "id": "iEGDEdivaGA", "title": "승리하는 제안서 강의소개│인프런 | 미리보기 | 제안서 PM" }, 
+    { "id": "e5lIMEm7UPg", "title": "Sass (SCSS): CSS 가상요소(::before, ::after)를 이용한 링크 애니메이션 (Link Animation), attr(), currentColor" }    
   ]
 }

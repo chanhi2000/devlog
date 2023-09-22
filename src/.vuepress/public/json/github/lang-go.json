@@ -794,5 +794,15 @@
     "desc": "A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts",
     "officialSite": "https://usememos.com",
     "topics": ["docker", "free", "go", "markdown", "memo", "microblog", "note-taking", "react", "self-hosted", "social-network", "sqlite"]
+  }, {
+    "repo": "schollz/croc",
+    "desc": "Easily and securely send things from one computer to another :crocodile: :package:",
+    "officialSite": "https://schollz.com/software/croc6",
+    "topics": ["data-transfer", "file-sharing", "golang", "pake", "peer-to-peer", "tcp", "transfer"]
+  }, {
+    "repo": "harness/gitness",
+    "desc": "Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.",
+    "officialSite": "https://gitness.com",
+    "topics": ["build-automation", "build-pipelines", "ci", "ci-cd", "continuous-delivery", "continuous-integration", "docker", "git", "go", "hacktoberfest", "scm"]
   }
 ]

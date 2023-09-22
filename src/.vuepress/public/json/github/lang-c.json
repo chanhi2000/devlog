@@ -454,5 +454,10 @@
     "desc": "eBPF-based autoinstrumentation of HTTP and HTTPS services",
     "officialSite": "",
     "topics": ["ebpf", "metrics-gathering", "observability", "traces"]
+  }, {
+    "repo": "tidwall/tg",
+    "desc": "Geometry library for C - Fast point-in-polygon",
+    "officialSite": "",
+    "topics": []
   }
 ]

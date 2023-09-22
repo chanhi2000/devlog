@@ -36,7 +36,7 @@ export default {
   name: "TagList",
   setup() {
     const pages = usePages()
-    console.log(pages)
+    if (__IS_DEBUG__) console.log(pages)
     return { pages }
   },
   // data() {

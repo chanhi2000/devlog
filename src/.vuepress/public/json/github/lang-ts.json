@@ -1428,5 +1428,15 @@
     "desc": "local-first semantic code search engine",
     "officialSite": "https://kantord.github.io/SeaGOAT",
     "topics": ["ai", "code-search", "code-search-engine", "embeddings", "grep", "grep-like", "llm", "regular-expression", "ripgrep", "vector-database", "vector-embeddings"]
+  }, {
+    "repo": "rapidpages/rapidpages",
+    "desc": "Generate React and Tailwind components using AI",
+    "officialSite": "https://www.rapidpages.io",
+    "topics": ["ai", "openai", "react", "tailwind", "ui"]
+  }, {
+    "repo": "atomicals/atomicals-js",
+    "desc": "Atomicals CLI and Javascript Library",
+    "officialSite": "https://atomicals.xyz",
+    "topics": []
   }
 ]

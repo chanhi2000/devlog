@@ -54,6 +54,8 @@ copy and paste below
     "update.showReleaseNotes": false,
     "workbench.welcomePage.walkthroughs.openOnInstall": false,
 
+	"rust-analyzer.diagnostics.disabled": ["unresolved-proc-macro"],
+	
 	"clangd.checkUpdates": false,           // Clangd
 	"code-runner.enableAppInsights": false, // Code Runner
 	"docker-explorer.enableTelemetry": false, // Docker

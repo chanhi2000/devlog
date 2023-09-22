@@ -26,7 +26,7 @@ echo "deb https://packages.adoptium.net/artifactory/deb $(awk -F= '/^VERSION_COD
 
 sudo apt-get install curl ffmpeg \ 
   git gpg gnome-terminal gnupg \
-  neofetch nvm openssl \
+  neofetch nvm openssl rustc cargo \
   scrcpy starship scrcpysnapd tmux \
   watchman xz wget zsh;
 

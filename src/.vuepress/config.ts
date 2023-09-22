@@ -1,3 +1,5 @@
+import * as dotenv from 'dotenv' 
+import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 // import { viteBundler } from '@vuepress/bundler-vite'
 import { getDirname, path } from '@vuepress/utils'
@@ -38,8 +40,9 @@ import {
   sidebarEn,
 } from './configs/index.js'
 
-const __dirname = getDirname(import.meta.url);
-const { description, version } = require('../../package.json');
+const __dirname = getDirname(import.meta.url)
+const { description, version } = require('../../package.json')
+dotenv.config()
 const isProd = process.env.NODE_ENV === 'production'
 const CONSTS = {
   __VERSION__: version
@@ -47,7 +50,12 @@ const CONSTS = {
 const imgLogoPath = '/images/ico-wind.svg'
 // const imgLogoPath = 'https://avatars.githubusercontent.com/u/6296241?v=4'
 
-export default {
+export default defineUserConfig({
+  define: {
+     __BLOG_VERSION__: version,
+    __YOUTUBE_API_KEY__: process.env.YOUTUBE_API_KEY,
+    __IS_DEBUG__: process.env.IS_DEBUG ?? false,
+  },
   title: 'Devlog by Chan',
   description: description,
   head: [['link', { rel: 'icon', href: imgLogoPath }]],
@@ -74,7 +82,6 @@ export default {
       lineNumbers: true,
     },
   },
-  
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
@@ -173,4 +180,4 @@ export default {
       startsWith: '/'
     }),
   ],
-}
+})

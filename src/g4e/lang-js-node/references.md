@@ -512,6 +512,18 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## rockyourcode 
+
+- [Use Environment Variables With VuePress 2](https://www.rockyourcode.com/use-environment-variables-with-vuepress-2)
+
+---
+
+## quasilyte blog
+
+- [Generations-based array](https://quasilyte.dev/blog/post/gen-map)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

@@ -3,13 +3,47 @@
     "id": "AkhilSharmaTech",
     "name": "Akhil Sharma",
     "profile": "https://yt3.googleusercontent.com/Jb0ir12105CS1r2WqRNrtgwnDuA20OUXPd-a4QhLUh86oB_LKudIXRuabe1pVLA9ueuQ0p3J3Q=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/GcIphwpLdkasYlrN2xGMTrFli4015EwYlt4ZJAsFVUgvJcXlbeOi-sZPJ7KwNlTrAyuYiHIg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/GcIphwpLdkasYlrN2xGMTrFli4015EwYlt4ZJAsFVUgvJcXlbeOi-sZPJ7KwNlTrAyuYiHIg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "HqAyAV-0gKc", "title": "Authentication Server with Rust (Using Warp + JWT)" },
     { "id": "G897F8Gw1PM", "title": "Substrate Developers' Course - Chapter 1  - Intro" },
     { "id": "ulIkcUlZadw", "title": "Substrate Developer Course - Chapter 7 - Simulating A Network" },
     { "id": "TB66OyHv4ZQ", "title": "RUST + Ethereum Project [ Intermediate ] Deploy Smart Contracts On Ethereum With RUST" }, 
     { "id": "HFKumuj4z28", "title": "RUST + @MongoDB + WARP [ Complete Project ] ( 2 HRS )" } 
+  ],
+  "playlists": [
+    {
+      "title": "50 RUST Projects",
+      "videos": [
+        { "id": "qru3L4BvrOU", "title": "50 Rust Projects - New Playlist Announcement" },
+        { "id": "cSD3HzkvQoI", "title": "Rust Project   Compression with Rust" },
+        { "id": "mXIuTkGCL_0", "title": "Rust Project - Extract Zip File" },
+        { "id": "VQ5cXoAMHQI", "title": "RUST Project - Read CSV File" },
+        { "id": "I21m8_s3yZI", "title": "RUST Project - Read JSON Data" },
+        { "id": "LjuJ-TPoOXA", "title": "RUST Project - Write JSON Data" },
+        { "id": "gADVfB37QVo", "title": "RUST Project - Get Request" },
+        { "id": "dwEy3OiUCHw", "title": "RUST Project - Async + Await" },
+        { "id": "JnIX3Dl6usA", "title": "RUST Project - Making API Calls" },
+        { "id": "qSBefCXaCSc", "title": "RUST Project - Very Basic Authentication" },
+        { "id": "EH2rdJquMik", "title": "RUST Project - Download Images" },
+        { "id": "shVuxMTBkK0", "title": "RUST Project - Extract Links" },
+        { "id": "fd5WttDuHOo", "title": "RUST Project - Actix Web, Rhai Script + Rust" },
+        { "id": "l7Eqe48Jf2U", "title": "6 Web3 / Blockchain Projects That Use RUST" },
+        { "id": "0BNbvuw8thQ", "title": "Custom Blockchain - Substrate - Rust Project #learn-substrate" },
+        { "id": "pXUJj_ajFC0", "title": "Rust Project - Multi-Node Substrate Blockchain" },
+        { "id": "g6-OHQA2r98", "title": "Solana Sample Project | Solana Installation Guide | Rust Project Series" },
+        { "id": "oy2k9KlQOas", "title": "A Custom Function For Solana - Rust Project" },
+        { "id": "PbCBlOKcuOo", "title": "RUST Project - FIREBASE + RUST CRUD" },
+        { "id": "N6rWP84KU_0", "title": "Spotify API - Rust Project" },
+        { "id": "HFKumuj4z28", "title": "RUST + @MongoDB + WARP [ Complete Project ] ( 2 HRS )" },
+        { "id": "FPdqoz8c5y4", "title": "Rust - Ethereum Project [ Basic ] (Transactions, Accounts, Balance)" },
+        { "id": "TB66OyHv4ZQ", "title": "RUST + Ethereum Project [ Intermediate ] Deploy Smart Contracts On Ethereum With RUST" },
+        { "id": "rdJm8SF50YQ", "title": "Chat-GPT With RUST Project" },
+        { "id": "dE_oBUX4emU", "title": "Rust Project - FOUNDRY For Ethereum Smart Contracts" },
+        { "id": "gLN0SVJYC6I", "title": "FOUNDRY + SOLIDITY, Deploy To GOERLI" },
+        { "id": "HqAyAV-0gKc", "title": "Authentication Server with Rust (Using Warp + JWT)" }        
+      ]
+    }
+    
   ]
 }

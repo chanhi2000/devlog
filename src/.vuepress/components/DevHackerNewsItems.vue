@@ -108,7 +108,7 @@ export default {
       });
     },
     async doRefresh() {
-      console.log('doRefresh DevHackerNewsItems!');
+      if (__IS_DEBUG__) console.log('doRefresh DevHackerNewsItems!');
       await this.fetchData();
     }
   },

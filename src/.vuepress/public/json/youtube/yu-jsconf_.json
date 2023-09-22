@@ -6,10 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/82w5wSfuGRtydDZJJQGadN6sJFGnwPoQ5ICZLVWudGBO_qRr6gBLkMdtMr3ZedtnEuAvELNF-Ac=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Om33AjwtQ_Y",
-      "title": "Rebuild React Hooks yourself for Node"
-    }
+    { "id": "Om33AjwtQ_Y", "title": "Rebuild React Hooks yourself for Node" }
   ]
 }
 

@@ -6,16 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/IogOrKDysHdVOihq_1PWAGbsPIVrAOzwahFHoSvkMeunQ0_GOmR0PcbanxT7SMtA_JfTrAipfw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "Fg1QzS5vH2c",
-      "title": "Android File Manager App Creation"
-    }, {
-      "id": "M2-vpCNa9AM",
-      "title": "Build a Calculator App in Android Studio + Grow Your Earning Power as a Mobile Developer in 2019!"
-    }, {
-      "id": "9R7YpnrD3ps",
-      "title": "How to Setup and Code Your Android File Manager Permissions in Android 6.0 or Higher"
-    }
+    { "id": "Fg1QzS5vH2c", "title": "Android File Manager App Creation" }, 
+    { "id": "M2-vpCNa9AM", "title": "Build a Calculator App in Android Studio + Grow Your Earning Power as a Mobile Developer in 2019!" }, 
+    { "id": "9R7YpnrD3ps", "title": "How to Setup and Code Your Android File Manager Permissions in Android 6.0 or Higher" }
   ]
 }
 

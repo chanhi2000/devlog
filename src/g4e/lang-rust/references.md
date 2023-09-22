@@ -14,6 +14,12 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## 한국 러스트 사용자 그룹
+
+- [Rust 설치하기](https://rust-kr.org/pages/install)
+
+--- 
+
 ## Medium
 
 - [Go Fiber vs Rust: Performance comparison for JWT verify and MySQL query](https://medium.com/deno-the-complete-reference/go-fiber-vs-rust-performance-comparison-for-jwt-verify-and-mysql-query-9f5b7129a20)
@@ -96,6 +102,12 @@ tags: ["rust" , "rs", "rust-lang"]
 ## xethub
 
 - [NFS > FUSE: Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
+
+---
+
+## Rust
+
+- [[Rust] `Cargo.toml`을 알아보자](https://baroqcat.tistory.com/entry/Cargotoml%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
 ---
 

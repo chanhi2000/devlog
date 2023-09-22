@@ -41,7 +41,7 @@ brew tap oven-sh/bun; # for macOS and Linux
 brew install bat bat-extras bun autojump amazon-ecs-cli awscli bison \
     cocoapods ffmpeg fizz flac git \
     mas neofetch nvm openssl pixman \
-    python scrcpy starship tmux watchman \
+    python rust scrcpy starship tmux watchman \
     wget xz zsh;
 
 # Install cask(s)

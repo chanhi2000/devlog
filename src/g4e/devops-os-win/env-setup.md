@@ -46,7 +46,7 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir `
     dbeaver googlechrome fiddler windirstat 7zip `
     procexp scrcpy nvm docker-desktop temurin11 temurin11 `
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal `
-    twinkle-tray wiztree
+    twinkle-tray wiztree rust
 ```
 
 or Windows Cmd
@@ -57,7 +57,7 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
     dbeaver googlechrome fiddler windirstat 7zip ^
     procexp scrcpy nvm docker-desktop temurin11 temurin11 ^
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal ^
-    twinkle-tray wiztree
+    twinkle-tray wiztree rust
 ```
 
 ---
