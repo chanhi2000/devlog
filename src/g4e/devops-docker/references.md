@@ -33,6 +33,7 @@ description: 🐋Docker > 📚References
 - [7 Best Tracing Tools for Microservices](https://medium.com/cloud-native-daily/7-best-tracing-tools-for-microservices-27a5e3bc4b9c)
 - [Top 11 Tools for Microservices Backend Development in 2023](https://python.plainenglish.io/top-11-tools-for-microservices-backend-development-in-2023-3d9cdd61ef10)
 - [10 Microservice Patterns Software Engineers Should Know](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)
+- [LUIT Project 14-Installing Apache server inside of an Ubuntu Docker container](https://awstip.com/luit-project-14-installing-apache-server-inside-of-an-ubuntu-docker-container-aa1f250acf08)
 
 ---
 

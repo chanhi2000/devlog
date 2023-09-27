@@ -102,6 +102,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-kotlin/spring.md',
         '/g4e/lang-kotlin/ktx.md',
         '/g4e/lang-kotlin/tips.md',
+        '/g4e/lang-kotlin/news.md',
         '/g4e/lang-kotlin/snippets.md',
         '/g4e/lang-kotlin/references.md',
       ]
@@ -115,6 +116,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/spring.md',
         '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',
+        '/g4e/lang-java/news.md',
         '/g4e/lang-java/references.md',        
         '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
@@ -141,6 +143,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-swift/learn-essential-swift-in-one-hour.md',
         '/g4e/lang-swift/tips.md',
         '/g4e/lang-swift/snippets.md',
+        '/g4e/lang-swift/news.md',
         '/g4e/lang-swift/references.md',
         '/g4e/lang-swift/github.md',
         '/g4e/lang-swift/youtube.md',
@@ -808,6 +811,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/49.md',
         '/crashcourse/paul-hudson-100-days-of-swift/50.md',
         '/crashcourse/paul-hudson-100-days-of-swift/51.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/52.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/53.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -854,6 +859,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/38.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/39.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/40.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/41.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/42.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',

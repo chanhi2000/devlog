@@ -379,5 +379,15 @@
     "desc": "[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation",
     "officialSite": "https://www.mmlab-ntu.com/project/rerender",
     "topics": ["controlnet", "diffusion", "video-processing"]
+  }, {
+    "repo": "huawei-noah/Efficient-Computing",
+    "desc": "Efficient computing methods developed by Huawei Noah's Ark Lab",
+    "officialSite": "",
+    "topics": ["binary-neural-networks", "knowledge-distillation", "model-compression", "pruning", "quantization", "self-supervised"]
+  }, {
+    "repo": "microsoft/autogen",
+    "desc": "Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ",
+    "officialSite": "https://microsoft.github.io/autogen",
+    "topics": ["agent-based-framework", "agent-oriented-programming", "chat", "chat-application", "chatbot", "chatgpt", "gpt", "gpt-35-turbo", "gpt-4", "llm-agent", "llm-framework", "llm-inference", "llmops"]
   }
 ]

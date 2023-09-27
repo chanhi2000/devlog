@@ -117,6 +117,14 @@ tags: ["c", "llvm"]
 
 - [Formatting Text in C++: The Old and The New Ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways)
 
+---
+
+## Fabian Sanglard
+
+- [EXPLORING LINUX COMMAND-LINE SPACE TIME](https://fabiensanglard.net/st/index.html)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

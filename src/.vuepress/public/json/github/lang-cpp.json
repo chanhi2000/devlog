@@ -674,6 +674,41 @@
     "desc": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
     "officialSite": "",
     "topics": ["android", "audio", "oboe"]
-  }  
+  }, {
+    "repo": "valhalla/valhalla",
+    "desc": "Open Source Routing Engine for OpenStreetMap",
+    "officialSite": "https://valhalla.readthedocs.io",
+    "topics": ["astar", "dijkstra", "directions", "isochrones", "multi-modal", "openstreetmap", "routing", "routing-engine", "tiled", "traveling-salesman"]
+  }, {
+    "repo": "microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "officialSite": "",
+    "topics": ["cmd", "command-line", "console", "contributions-welcome", "good-first-issue", "terminal", "windows", "windows-console", "windows-terminal", "wsl"]
+  }, {
+    "repo": "Kautenja/RackNES",
+    "desc": "A Nintendo Entertainment System (NES) emulator module for VCV Rack.",
+    "officialSite": "",
+    "topics": ["nes-emulator", "sampler-engine", "vcv-rack-modules"]
+  }, {
+    "repo": "LibrePCB/LibrePCB",
+    "desc": "A powerful, innovative and intuitive EDA suite for everyone!",
+    "officialSite": "https://librepcb.org",
+    "topics": ["cad", "eda", "electronics", "hacktoberfest", "linux", "macos", "pcb", "qt", "schematic", "unix", "windows"]
+  }, {
+    "repo": "R3nzTheCodeGOD/R3nzSkin",
+    "desc": "Skin changer for League of Legends (LOL)",
+    "officialSite": "",
+    "topics": ["cheat", "cheating", "cpp", "cpp17", "cpp20", "dll", "dll-injection", "game-hacking", "imgui", "internal", "json", "league-of-legends", "league-of-legends-cheat", "lol", "r3nzskin", "reverse-engineering", "skinchanger", "windows"]
+  }, {
+    "repo": "chaitin/SafeLine",
+    "desc": "一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。",
+    "officialSite": "https://waf-ce.chaitin.cn",
+    "topics": ["acl", "captcha", "cc", "docker", "firewall", "http-flood", "modsecurity", "nginx", "security", "security-tools", "sql-injection", "waf", "web-application-firewall", "web-security", "xss"]
+  }, {
+    "repo": "VASTDynamics/Vaporizer2",
+    "desc": "Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin",
+    "officialSite": "https://www.vast-dynamics.com/?q=products",
+    "topics": ["aax", "audio", "audiounit-plugins", "cpp", "daw", "music", "plugin", "sampler", "synthesizer", "vst", "vst3", "vst3-plugin", "wavetable"]
+  }
 ]
 

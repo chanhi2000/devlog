@@ -69,6 +69,12 @@ description: 🐍Python > 📚References
 
 ---
 
+## JAX
+
+- [JAX Quickstart](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+
+---
+
 ## Die wunderbare Welt von Isotopp
 
 - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)

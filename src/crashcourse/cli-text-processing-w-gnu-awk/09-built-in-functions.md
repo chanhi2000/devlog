@@ -940,4 +940,365 @@ Next chapter will cover features related to processing multiple files passed as 
 
 ---
 
+## Exercises
+
+::: info 
+
+The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learnbyexample/learn_gnuawk/tree/master/exercises) directory has all the files used in this section.
+
+Exercises will also include functions and features not discussed in this chapter. Refer to [gawk manual: Functions](https://www.gnu.org/software/gawk/manual/gawk.html#Functions) for details.
+
+:::
+
+### Exercise 1 
+
+For the input file <FontIcon icon="iconfont icon-file"/> `scores.csv`, sort the rows in descending order based on the values in the Physics column. Header should be retained as the first line in the output.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Name,Maths,Physics,Chemistry
+# Ith,100,100,100
+# Cy,97,98,95
+# Lin,78,83,80
+# Er,56,79,92
+# Ort,68,72,66
+# Blue,67,46,99
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 2
+
+For the input file <FontIcon icon="iconfont icon-file"/> `nums3.txt`, calculate the square root of numbers and display the results in two different formats as shown below. First, with four digits after the fractional point and then in the scientific notation, again with four digits after the fractional point. Assume that the input has only a single column of positive numbers.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat nums3.txt 
+# 3.14
+# 4201
+# 777
+# 0323012
+
+awk ##### add your solution here
+# 1.7720
+# 64.8151
+# 27.8747
+# 568.3414
+
+awk ##### add your solution here
+# 1.7720e+00
+# 6.4815e+01
+# 2.7875e+01
+# 5.6834e+02
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 3
+
+For the input file `items.txt`, assume space as the field separator. From the second field, remove the second `:` character and the number that follows. Modify the last field by multiplying it by the number that was deleted from the second field.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat items.txt
+# apple rxg:12:-425 og 6.2
+# fig zwt:3.64:12.89e2 ljg 5
+# banana ysl:42:3.14 vle 45
+
+awk ##### add your solution here
+# apple rxg:12 og -2635
+# fig zwt:3.64 ljg 6445
+# banana ysl:42 vle 141.3
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 4
+
+For the input file `sum.txt`, assume space as the field separator. Replace the second field with the sum of the two numbers embedded in it. The numbers can be positive/negative integers or floating-point numbers but not scientific notation.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat sum.txt
+# f2:z3 kt//-42\\3.14//tw 5y6
+# t5:x7 qr;wq<=>+10{-8764.124}yb u9
+# apple:fig 100:32 9j4
+
+awk ##### add your solution here
+# f2:z3 -38.86 5y6
+# t5:x7 -8754.12 u9
+# apple:fig 132 9j4
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 5
+
+For the given input strings, extract portion of the line starting from the matching location specified by the shell variable s till the end of the line. If there is no match, do not print that line. The contents of s should be matched literally.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+s='(a^b)'
+echo '3*f + (a^b) - 45' | ##### add your solution here
+# (a^b) - 45
+
+s='\&/'
+# should be no output for this input
+echo 'f\&z\&2.14' | ##### add your solution here
+# but this one has a match
+echo 'f\&z\&/2.14' | ##### add your solution here
+# \&/2.14
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 6
+
+Extract all positive integers preceded by `-` and followed by `:` or `;`. Display the matching portions separated by a newline character.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+s='42 apple-5; fig3; x-83, y-20:-34; f12'
+echo "$s" | awk ##### add your solution here
+# 5
+# 20
+# 34
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 7
+
+For the input file <FontIcon icon="iconfont icon-file"/> `scores.csv`, calculate the average score for each row. Those with average greater than or equal to `80` should be saved in <FontIcon icon="iconfont icon-file"/> `pass.csv` and the rest in <FontIcon icon="iconfont icon-file"/> `fail.csv`. The output files should have the names followed by a tab character, and finally the average score (two decimal points).
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+
+cat fail.csv
+# Blue    70.67
+# Er      75.67
+# Ort     68.67
+cat pass.csv
+# Lin     80.33
+# Cy      96.67
+# Ith     100.00
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 8
+
+For the input file <FontIcon icon="iconfont icon-file"/> `files.txt`, replace lines starting with a space with the output of that line executed as a shell command.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+cat files.txt
+# sed -n '2p' addr.txt
+# -----------
+#  wc -w sample.txt
+# ===========
+#  awk '{print $1}' table.txt
+# -----------
+
+awk ##### add your solution here
+# How are you
+# -----------
+# 31 sample.txt
+# ===========
+# brown
+# blue
+# yellow
+# -----------
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 9
+
+For the input file <FontIcon icon="iconfont icon-file"/> `fw.txt`, format the last column in scientific notation with two digits after the decimal point.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# 1.3  rs   90  1.35e-01
+# 3.8           6.00e+00
+# 5.2  ye       8.24e+00
+# 4.2  kt   32  4.51e+01
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 10
+
+For the input file <FontIcon icon="iconfont icon-file"/> `addr.txt`, display all lines containing e or u but not both.
+
+::: info
+
+Hint — [gawk manual: Bit-Manipulation Functions](https://www.gnu.org/software/gawk/manual/gawk.html#Bitwise-Functions).
+
+:::
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Hello World
+# This game is good
+# Today is sunny
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 11
+
+For the input file <FontIcon icon="iconfont icon-file"/> `patterns.txt`, filter lines containing `[5]` at the start of a line. The search term should be matched literally.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# [5]*3
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 12
+
+For the input file <FontIcon icon="iconfont icon-file"/> `table.txt`, uppercase the third field.
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# brown bread MAT hair 42
+# blue cake MUG shirt -7
+# yellow banana WINDOW shoes 3.14
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 13
+
+For the input files <FontIcon icon="iconfont icon-file"/> `patterns.txt` and <FontIcon icon="iconfont icon-file"/> `sum.txt`, match lines containing the literal value stored in the `s` variable. Assume that the `s` variable has regexp metacharacters.
+
+
+::: tabs 
+
+@tab:active Question
+
+```sh
+s='[5]'
+##### add your solution here
+# (9-2)*[5]
+# [5]*3
+
+s='\\'
+##### add your solution here
+# f2:z3 kt//-42\\3.14//tw 5y6
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
 <TagLinks/>

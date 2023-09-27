@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "HMivI2zm7N0", "title": "Meshenger" },
+    { "id": "0jLEWyM6Za8", "title": "The magic behind \"one-click\" deployments" },
+    { "id": "c4wS9n7yilA", "title": "Read and Manipulate Network Traffic on Android with mitmproxy" },
     { "id": "EIE-1VH8tTs", "title": "DON’T PANIC" },
     { "id": "NRXFnVN-xhU", "title": "Energy Consumption of Data Centers" },
     { "id": "0UIpg19KECw", "title": "The Nix Phone and the end of Android" },

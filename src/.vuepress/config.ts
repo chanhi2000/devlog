@@ -52,7 +52,7 @@ const imgLogoPath = '/images/ico-wind.svg'
 
 export default defineUserConfig({
   define: {
-     __BLOG_VERSION__: version,
+     __BLOG_VERSION__: version, // reveal.js에서 같은 변수를 사용함으로 이름이 겹치지 않도록 정의
     __YOUTUBE_API_KEY__: process.env.YOUTUBE_API_KEY,
     __IS_DEBUG__: process.env.IS_DEBUG ?? false,
   },

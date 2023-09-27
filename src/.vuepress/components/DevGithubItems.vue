@@ -100,15 +100,12 @@ export default {
     }
   },
   methods: {
-    async fetchData() {
+    async onFetchData() {
       const GITHUB_BASE_URL = "https://github.com"
       const REGEX_GITHUB_BASE_URL = /https:\/\/github.com\//g
       this.isLoading = true;
-      const res = await fetch("https://devo.ams3.digitaloceanspaces.com/github.json");
-      const fetchedItems = await res.json();
-
-      const resHackerNews = await fetch("https://devo.ams3.digitaloceanspaces.com/hackernews.json");
-      const fetchedItemsHackerNews = await resHackerNews.json();
+      const fetchedItems = await this.fetchGithubData();
+      const fetchedItemsHackerNews = await this.fetchHackernewsData();
       const fetchedItemsGithub = fetchedItemsHackerNews
         .filter((e) => e.link.includes(`${GITHUB_BASE_URL}/`))
 
@@ -118,6 +115,7 @@ export default {
       for (const [i, e] of fetchedItemsGithub.entries()) {
         const fullName = e.link.replace(REGEX_GITHUB_BASE_URL, '')
         const jsonRes = await this.fetchGithubInfo(fullName);
+        if (jsonRes == undefined || jsonRes == null) continue;
         if (__IS_DEBUG__) console.log(JSON.stringify(jsonRes))
         const _hasLanguage = (jsonRes.language != null || jsonRes.language == '');
         const _langColor = fetchedGithubColor[jsonRes.language]?.color ?? '000000';
@@ -174,8 +172,14 @@ export default {
           !repoDescsToExclude.includes(e.repo.description)
       }
       const filterHackernewsPredicate = (e) => {
-        return !repoNamesToExclude.includes(`/${e.repo.link}`.replace(REGEX_GITHUB_BASE_URL, '')) || 
-          !repoDescsToExclude.includes(e.repo.description)
+        return (
+          e != null && e != undefined &&
+          e?.repo?.link != null && e?.repo?.link != undefined &&
+          e?.repo?.description != null && e?.repo?.description != undefined
+        ) && (
+          (!repoNamesToExclude.includes(`/${e?.repo?.link}`.replace(REGEX_GITHUB_BASE_URL, '')) || 
+          !repoDescsToExclude.includes(e?.repo?.description))
+        )
       }
       const _fetchedItemsGithub = fetchedItemsGithub.filter(filterHackernewsPredicate) ?? []
 
@@ -210,6 +214,24 @@ export default {
       }).concat(_fetchedItemsGithub);
       this.hasData = this.items.length != 0;
     },
+    async fetchHackernewsData() {
+      try {
+        const res = await fetch("https://devo.ams3.digitaloceanspaces.com/hackernews.json");
+        return await res.json() ?? [];
+      } catch (e) {
+        console.error(`failed to fetch data`, e);
+        return []
+      }
+    },
+    async fetchGithubData() {
+      try {
+        const res = await fetch("https://devo.ams3.digitaloceanspaces.com/github.json");
+        return await res.json() ?? [];
+      } catch (e) {
+        console.error(`failed to fetch data`, e);
+        return []
+      }
+    },
     async doCopyGithubJson(fullName = '') {
       const repoInfo = await this.fetchGithubInfo(fullName);
       const coreData = await this.renderJson(repoInfo)
@@ -227,6 +249,12 @@ export default {
         console.warn('no fullName FOUND!')
         return
       }
+
+      if (_fullName.split('/').length != 2) {
+        console.warn('invalid fullName ... ${_fullName}')
+        return
+      }
+      
       if (__IS_DEBUG__) console.log('fetchGithubInfo ...');
       const apiUrl = 'https://api.github.com/repos'
       try {
@@ -256,11 +284,11 @@ export default {
     },
     async doRefresh() {
       if (__IS_DEBUG__) console.log('doRefresh DevGithubItems!');
-      await this.fetchData();
+      await this.onFetchData();
     }
   },
   mounted() {
-    this.fetchData()
+    this.onFetchData()
   },
 }
 </script>

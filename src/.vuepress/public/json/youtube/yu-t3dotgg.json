@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/o69213Wa6chjff2xs9ysFDw0UDXKSd0Q2Si5F6dJSDnP1srSfXOLSSbpIkKD6g-pXXWx5TDJGw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FLQVIiaNeSk", "title": "Svelte 5 Surprised Me" },
+    { "id": "LwjlcKcyUkY", "title": "Unity Finally Acknowledged Their Mistakes" },
+    { "id": "wYdnJPYFTIE", "title": "JS Devs Deserve Better" },
+    { "id": "I88z3zX3lMY", "title": "I Stopped Using GitHub (Kind Of)" },
+    { "id": "SDq_v7RQ2NQ", "title": "The State Of HTML" },
     { "id": "KVQMoEFUee8", "title": "The Horror Of Margins In CSS" },
     { "id": "xNG4zXpU1QA", "title": "Vercel's New AI Writes Surprisingly Good Code" },
     { "id": "fY8dCx6fw2c", "title": "Current Trends In CSS" },

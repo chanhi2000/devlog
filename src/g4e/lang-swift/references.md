@@ -223,6 +223,12 @@ tags: ["references", "swift"]
 
 ---
 
+## Swift Rocks
+
+- [How `async`/`await` works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
+
+---
+
 ## Misc
 
 - [`EXC_BAD_ACCESS` - Swizzling With Swift](https://academy.realm.io/posts/sash-zats-swift-swizzling)

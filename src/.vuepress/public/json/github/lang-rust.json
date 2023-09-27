@@ -676,9 +676,19 @@
     "officialSite": ""
   }, {
     "repo": "jaytaph/gosub-browser",
-    "desc": "A html5 tokenizer / parser that hopefully grow up to be a browser",
+    "desc": "A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions",
     "officialSite": "https://gosub.io",
     "topics": ["browser", "html5", "rust"]
+  }, {
+    "repo": "vercel/turbo",
+    "desc": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",
+    "officialSite": "https://turbo.build",
+    "topics": ["build-system", "build-tool", "bundler", "javascript", "monorepo", "turbopack", "typescript", "webpack"]
+  }, {
+    "repo": "redbadger/crux",
+    "desc": "Cross-platform app development in Rust",
+    "officialSite": "https://redbadger.github.io/crux",
+    "topics": ["mobile-development", "rust"]
   }
 ]
 

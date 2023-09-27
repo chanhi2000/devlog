@@ -38,7 +38,7 @@
     "repo": "yangshun/tech-interview-handbook",
     "desc": "💯 Curated coding interview preparation materials for busy software engineers",
     "officialSite": "https://www.techinterviewhandbook.org",
-    "topics": ["algorithm", "algorithms", "interview-practice", "interview-questions", "coding-interviews", "interview-preparation", "system-design", "algorithm-interview", "behavioral-interviews", "algorithm-interview-questions"]
+    "topics": ["algorithm", "algorithm-interview", "algorithm-interview-questions", "algorithms", "behavioral-interviews", "coding-interviews", "interview-practice", "interview-preparation", "interview-questions", "system-design"]
   }, {
     "repo": "pittcsc/Summer2024-Internships",
     "desc": "Collection of Summer 2023 & Summer 2024 tech internships!",

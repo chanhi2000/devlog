@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "MilanJovanovicTech",
+    "name": "Milan Jovanović",
+    "profile": "https://yt3.googleusercontent.com/CPore_9o4NiWfHjOrXjCnUoF0fdvAO3MrTUC9EPErd1HYKzkn4h1Ksh_D7nyDgZO-j2UCDioiA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7z752-NI0b0", "title": "How To Use IHttpContextAccessor In ASP.NET Core #shorts" },
+    { "id": "O7oaxFgNuYo", "title": "Real-Time Notifications Using Blazor and SignalR from scratch" },
+    { "id": "Yl-KxuUJEoM", "title": "Looking For a Mapping Library? Check Out Mapster #shorts" },
+    { "id": "DZPahzFeNNo", "title": "Automatic Dependency Injection Using IServiceInstaller #shorts" },
+    { "id": "rLu7ECc6WU0", "title": "Better EF Core Performance - Turn off Query Tracking #shorts" },
+    { "id": "tQaPDZf3UcQ", "title": ".NET Load Balancer in 3 steps Using YARP #shorts" },
+    { "id": "tLk4pZZtiDY", "title": "Clean Architecture With .NET 6 And CQRS - Project Setup" },
+    { "id": "Ik3Vo8Fr0JM", "title": "Register Minimal APIs Automatically With Carter #shorts" },
+    { "id": "39X5mJz2qug", "title": "Vertical Slice Architecture in 38 seconds #shorts" },
+    { "id": "J13SFclai5A", "title": "Authorization Using Roles and Permissions - Which one wins? #shorts" },
+    { "id": "2gfuiqW2moE", "title": "How to Use the IFeatureManager Service In ASP.NET Core #shorts" },
+    { "id": "Ed351guALwI", "title": "Decorator Pattern with Dependency Injection (without Scrutor) #shorts" },
+    { "id": "mLy6IWpGtAk", "title": "This Awesome Library Makes EF Exceptions Better #shorts" }
+  ]
+}

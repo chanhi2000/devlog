@@ -175,8 +175,8 @@ Now that you have conquered `UICollectionViewController` and `Codable`, it’s t
 
 The next three projects we’ll be making move into the realm of richer user interfaces – you’ll learn about manipulating images using Core Image, animation views, and more.
 
-- [Day 52][day-52] – Project 13, part one
-- [Day 53][day-53] – Project 13, part two
+- [✅Day 52][day-52] – Project 13, part one
+- [✅Day 53][day-53] – Project 13, part two
 - [Day 54][day-54] – Project 13, part three
 - [Day 55][day-55] – Project 14, part one
 - [Day 56][day-56] – Project 14, part two
@@ -341,8 +341,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-49]: 49.md
 [day-50]: 50.md
 [day-51]: 51.md
-[day-52]: https://www.hackingwithswift.com/100/52
-[day-53]: https://www.hackingwithswift.com/100/53
+[day-52]: 52.md
+[day-53]: 53.md
 [day-54]: https://www.hackingwithswift.com/100/54
 [day-55]: https://www.hackingwithswift.com/100/55
 [day-56]: https://www.hackingwithswift.com/100/56

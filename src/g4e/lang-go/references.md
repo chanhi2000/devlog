@@ -16,6 +16,7 @@ tags: ["go", "golang"]
 ## Go
 
 - [WASI support in Go](https://go.dev/blog/wasi)
+- [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 
 ---
 ## Medium
@@ -24,7 +25,7 @@ tags: ["go", "golang"]
 - [Stop Using DTOs in Go, It’s Not Java](https://dsysd-dev.medium.com/stop-using-dtos-in-go-its-not-java-96ef4794481a)
 - [Machine Coding Interview: Efficient Cache Implementation using time-based expiry and eviction](https://dsysd-dev.medium.com/machine-coding-interview-efficient-cache-implementation-using-time-based-expiry-and-eviction-925165a92831)
 - [Message Queue for Publisher/Subscriber (pub/sub) Scenarios with Go Practice](https://medium.com/@lordmoma/message-queue-for-publisher-subscriber-pub-sub-scenarios-with-go-practice-3ecc61b1b12)
-
+- [Parallelism and Concurrency in Go: How It Works in Real Computing Systems. Part 1.](https://medium.com/@ninucium/parallelism-and-concurrency-in-go-how-it-works-in-real-computing-systems-part-1-a680443ad8bd)
 
 ---
 
@@ -93,5 +94,9 @@ tags: ["go", "golang"]
 - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 
 ---
+
+## Vladimir Varankin
+
+- [Compile-time safety for enumerations in Go](https://vladimir.varank.in/notes/2023/09/compile-time-safety-for-enumerations-in-go)
 
 <TagLinks />

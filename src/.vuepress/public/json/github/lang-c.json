@@ -464,5 +464,10 @@
     "desc": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
     "officialSite": "https://qmk.fm",
     "topics": ["atmel-avr", "c", "c-plus-plus", "clueboard", "ergodox-ez", "hacktoberfest", "keyboard-firmware", "keyboard-support", "olkb", "qmk"]
+  }, {
+    "repo": "asdcorp/ohook",
+    "desc": "An universal Office \"activation\" hook with main focus of enabling full functionality of subscription editions",
+    "officialSite": "",
+    "topics": []
   }
 ]

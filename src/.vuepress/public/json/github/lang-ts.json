@@ -1315,9 +1315,9 @@
     "topics": ["vue", "vscode", "visual-studio-code", "hacktoberfest", "vue-tooling"]
   }, {
     "repo": "withastro/astro",
-    "desc": "The all-in-one web framework designed for speed. ⭐️ Star to support our work!",
+    "desc": "The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!",
     "officialSite": "https://astro.build",
-    "topics": ["blog", "static-site-generator", "components", "node", "browser", "server", "universal", "static", "astro", "hybrid", "islands"]
+    "topics": ["astro", "blog", "browser", "components", "hybrid", "islands", "node", "server", "static", "static-site-generator", "universal"]
   }, {
     "repo": "measuredco/puck",
     "desc": "The self-hosted drag and drop editor for React.",
@@ -1448,5 +1448,35 @@
     "desc": "Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi",
     "officialSite": "https://paisa.fyi",
     "topics": ["ledger", "ledger-cli", "personal-finance", "plaintext-accounting", "visualization"]
+  }, {
+    "repo": "lobehub/lobe-chat",
+    "desc": "🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.",
+    "officialSite": "https://chat-preview.lobehub.com",
+    "topics": ["agent", "ai", "azure-openai", "bot", "chat", "chatbot", "chatgpt", "function-calling", "gpt", "gpt-3", "gpt-4", "langchangjs", "lobe-chat", "lobehub", "nextjs", "openai", "typescript", "vercel", "webui"]
+  }, {
+    "repo": "bitwarden/clients",
+    "desc": "Bitwarden client applications (web, browser extension, desktop, and cli)",
+    "officialSite": "https://bitwarden.com",
+    "topics": ["angular", "bitwarden", "browser-extension", "chrome", "cli", "desktop", "electron", "firefox", "javascript", "nodejs", "safari", "typescript", "webextension"]
+  }, {
+    "repo": "illacloud/illa-builder",
+    "desc": "🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.",
+    "officialSite": "https://illacloud.com",
+    "topics": ["app-builder", "developer-tool", "developer-tools", "gui", "hacktoberfest", "hacktoberfest2023", "internal-development", "internal-tool", "internal-tools", "low-code", "low-code-development-platform", "lowcode", "react", "self-hosted", "typescript"]
+  }, {
+    "repo": "amplication/amplication",
+    "desc": "🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.",
+    "officialSite": "https://amplication.com",
+    "topics": ["api", "code-generation", "graphql", "hacktoberfest", "javascript", "low-code", "nestjs", "nodejs", "prisma", "typescript", "web"]
+  }, {
+    "repo": "wojtekmaj/react-pdf",
+    "desc": "Display PDFs in your React app as easily as if they were images.",
+    "officialSite": "https://projects.wojtekmaj.pl/react-pdf",
+    "topics": ["pdf", "pdf-viewer", "react"]
+  }, {
+    "repo": "fill3d/fill",
+    "desc": "Generative fill in 3D.",
+    "officialSite": "https://fill3d.ai",
+    "topics": ["3d-rendering", "fxnai", "generative-ai", "generative-fill"]
   }
 ]

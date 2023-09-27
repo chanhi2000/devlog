@@ -66,7 +66,6 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://news.hada.io">🤓GeekNews</a></li>
       <li><a target="_blank" href="https://remoteok.com">🌐Remote OK</a></li>
       <li><a target="_blank" href="https://newsgpt.web.app">📮NewsGPT</a></li>
-      <li><a target="_blank" href="https://iosdevweekly.com">📱iOSDevWeekly</a></li>
       <li><a target="_blank" href="https://fossfox.com">💼FossFox : work in open-source & get paid for it</a></li>
       <li><a target="_blank" href="https://datatau.net">DataTau</a></li>
       <li><a target="_blank" href="https://blog.bytebytego.com">ByteByteGo</a></li>

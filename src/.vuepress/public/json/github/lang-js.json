@@ -20,11 +20,6 @@
     "officialSite": "https://strapi.io",
     "topics": []
   }, {
-    "repo": "withastro/astro",
-    "desc": "BThe all-in-one web framework designed for speed. ⭐️ Star to support our work!",
-    "officialSite": "https://astro.build",
-    "topics": ["blog", "static-site-generator", "components", "node", "browser", "server", "universal", "static", "astro", "hybrid", "islands"]
-  }, {
     "repo": "odoo/odoo",
     "desc": "Odoo. Open Source Apps To Grow Your Business.",
     "officialSite": "https://www.odoo.com",
@@ -1509,5 +1504,35 @@
     "desc": "Data set of top third party web domains with rich metadata about them",
     "officialSite": "",
     "topics": []
-  }
+  }, {
+    "repo": "anuraghazra/github-readme-stats",
+    "desc": ":zap: Dynamically generated stats for your github readmes",
+    "officialSite": "https://github-readme-stats.vercel.app",
+    "topics": ["dynamic", "hacktoberfest", "profile-readme", "readme-generator", "readme-stats", "serverless"]
+  }, {
+    "repo": "laurentpayot/verticalize",
+    "desc": "A pipe-like function to verticalize your JavaScript code",
+    "officialSite": "",
+    "topics": ["code", "javascript", "light", "lightweight", "operator", "pipe", "pipeline", "promises", "syntax"]
+  }, {
+    "repo": "opentiny/tiny-engine",
+    "desc": "TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台。",
+    "officialSite": "https://opentiny.design/tiny-engine",
+    "topics": ["frontend", "lowcode", "lowcode-engine"]
+  }, {
+    "repo": "axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "officialSite": "https://axios-http.com",
+    "topics": ["hacktoberfest", "http-client", "javascript", "nodejs", "promise"]
+  }, {
+    "repo": "ArchGPT/insomnium",
+    "desc": "Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "localtunnel/localtunnel",
+    "desc": "expose yourself",
+    "officialSite": "https://localtunnel.me",
+    "topics": []
+  }  
 ]

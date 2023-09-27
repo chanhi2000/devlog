@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "masterbot",
+    "name": "마스터봇",
+    "profile": "https://yt3.googleusercontent.com/AtRHh9kzIluSdgSljtEhkXR8wMHLIuacAx8HLNaTBLGNNvu9X6mT0L5PSncpQB4OK55OQy-q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A4OlABCULnVQYFl8VR1N7sRGrpPDGBb967IUhddOn8knd6Ng3NZ5UPFpGEDjiJcRViXjxu8sjA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lN1Dle60u7g", "title": "javplayer 설정 셋팅 최적화 방법" },
+    { "id": "Xwpe0ru262s", "title": "javplayer 추가파일을 통한 딥러닝 설정방법" }        
+  ]
+}

@@ -1387,4 +1387,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Andrew Mead
+
+<MyYouTubeItems jsonName="yu-andrewjosephmead1" />
+
+<!-- Andrew Mead -->
+
+---
+
 <TagLinks />

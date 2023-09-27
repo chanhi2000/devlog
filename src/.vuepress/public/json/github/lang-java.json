@@ -424,6 +424,16 @@
     "desc": "A minimal Java web framework built from scratch",
     "officialSite": "",
     "topics": ["educational-project", "example-project", "experimental", "micro-framework", "tdd"]
+  }, {
+    "repo": "google/bindiff",
+    "desc": "Quickly find differences and similarities in disassembled code",
+    "officialSite": "https://zynamics.com/bindiff.html",
+    "topics": ["bindiff", "binexport", "diffing", "program-analysis", "program-differencing", "reverse-engineering"]
+  }, {
+    "repo": "vespa-engine/vespa",
+    "desc": "The open big data serving engine. https://vespa.ai",
+    "officialSite": "https://vespa.ai",
+    "topics": ["ai", "big-data", "cpp", "java", "machine-learning", "search-engine", "server", "serving", "serving-recommendation", "tensorflow", "vector-search", "vespa"]
   }
 ]
 

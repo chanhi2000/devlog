@@ -78,7 +78,7 @@
     "repo": "getify/You-Dont-Know-JS",
     "desc": "A book series on JavaScript. @YDKJS on twitter.",
     "officialSite": "",
-    "topics": ["javascript", "education", "programming", "es6", "async", "book", "book-series", "es2015", "learn-to-code", "training-providers", "closures", "prototypes", "training-materials"]
+    "topics": ["async", "book", "book-series", "closures", "education", "es2015", "es6", "javascript", "learn-to-code", "programming", "prototypes", "training-materials", "training-providers"]
   }, {
     "repo": "florinpop17/app-ideas",
     "desc": "A Collection of application ideas which can be used to improve your coding skills.",
@@ -159,5 +159,20 @@
     "desc": "30 Day Vanilla JS Challenge",
     "officialSite": "https://javascript30.com",
     "topics": []
+  }, {
+    "repo": "leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "officialSite": "",
+    "topics": ["angular", "concepts", "es6", "es6-javascript", "hacktoberfest", "javascript", "javascript-closures", "javascript-engines", "javascript-programming", "nodejs", "primitive-types", "programming", "react"]
+  }, {
+    "repo": "TheAlgorithms/JavaScript",
+    "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "officialSite": "https://the-algorithms.com/language/javascript",
+    "topics": ["algorithm", "algorithm-challenges", "algorithms", "algorithms-implemented", "cipher", "conversions", "cryptography", "data-structures", "hacktoberfest", "javascript", "mathematics", "search", "sort", "sorting-algorithms"]
+  }, {
+    "repo": "denysdovhan/wtfjs",
+    "desc": "🤪 A list of funny and tricky JavaScript examples",
+    "officialSite": "http://bit.ly/wtfjavascript",
+    "topics": ["book", "handbook", "javascript", "js", "learning", "notes", "specification", "wtf"]
   }
 ]

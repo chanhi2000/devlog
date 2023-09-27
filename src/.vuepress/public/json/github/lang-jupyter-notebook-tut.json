@@ -54,6 +54,11 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "fastai/lm-hackers",
+    "desc": "Hackers' Guide to Language Models",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

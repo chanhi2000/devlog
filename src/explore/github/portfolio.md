@@ -21,7 +21,6 @@ tags: ["portfolio", "github", "hyperlink", "resume"]
 
 ---
 
-
 <TagLinks />
 
 [teemusk]: https://teemusk.com/portfolio

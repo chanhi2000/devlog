@@ -19,6 +19,10 @@ tags: ["sql", "db", "mysql", "shell", "stricky"]
   
 ---
 
+## Hackernoon
+
+- [Using Git Hooks with MySQL](https://hackernoon.com/using-git-hooks-with-mysql)
+
 ## 거북탄 토끼
 
 - [MySQL8.0 desc Index 사용사례](https://qidan3500.tistory.com/1)

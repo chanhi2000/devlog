@@ -346,7 +346,7 @@
     "topics": ["javascript", "learning", "js", "book", "notes", "handbook", "specification", "wtf"]
   }, {
     "repo": "lydiahallie/javascript-questions",
-    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations :sparkles:  ",
     "officialSite": "",
     "topics": []
   }, {
@@ -441,9 +441,9 @@
     "topics": ["docker", "kubernetes", "aws", "devops", "cloud", "azure", "containers", "gcp", "awesome-list", "devops-tools"]
   }, {
     "repo": "EbookFoundation/free-programming-books",
-    "desc": "📚 Freely available programming books",
-    "officialSite": "https://ebookfoundation.github.io/free-programming-books",
-    "topics": ["education", "list", "books", "resource", "hacktoberfest"]
+    "desc": ":books: Freely available programming books",
+    "officialSite": "https://ebookfoundation.github.io/free-programming-books/",
+    "topics": ["books", "education", "hacktoberfest", "list", "resource"]
   }, {
     "repo": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
     "desc": "A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI",
@@ -679,5 +679,20 @@
     "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "saisathvik1/OSCP-Cheatsheet",
+    "desc": "OSCP Cheatsheet by Sai Sathvik",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "521xueweihan/HelloGitHub",
+    "desc": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "officialSite": "https://hellogithub.com",
+    "topics": ["awesome", "github", "hellogithub", "python"]
   }
 ]

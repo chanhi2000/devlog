@@ -155,6 +155,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
 - [[Nestia] SDK and Mockup Simulator generation from Swagger Documents (Swagger to NestJS)](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
 - [Node.js 20.6.0: Say Goodbye to '`dotenv`'](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
+- [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
 
 ---
 
@@ -305,6 +306,10 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Containing multi-site management within a single codebase](https://vercel.com/blog/wunderman-thompson-composable-workflow)
 
 ---
+
+## Cloudflare
+
+- [Encrypted Client Hello - the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello)
 
 ## TwoPi Code
 
@@ -525,6 +530,10 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Generations-based array](https://quasilyte.dev/blog/post/gen-map)
 
 ---
+
+## Blob Games
+
+- [Draggable objects](https://www.redblobgames.com/making-of/draggable)
 
 ## Misc
 

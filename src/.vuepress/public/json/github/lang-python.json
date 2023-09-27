@@ -2504,11 +2504,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "521xueweihan/HelloGitHub",
-    "desc": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-    "topics": ["github", "python", "awesome", "hellogithub"],
-    "officialSite": "https://hellogithub.com"
-  }, {
     "repo": "facebookresearch/nougat",
     "desc": "Implementation of Nougat Neural Optical Understanding for Academic Documents",
     "topics": [],
@@ -2748,5 +2743,65 @@
     "desc": "A highly configurable Linux-based desktop notifier for RSS/Atom feeds.",
     "officialSite": "https://pypi.org/project/dtbell/",
     "topics": []
+  }, {
+    "repo": "QwenLM/Qwen",
+    "desc": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+    "officialSite": "",
+    "topics": ["chinese", "flash-attention", "large-language-models", "llm", "natural-language-processing", "pretrained-models"]
+  }, {
+    "repo": "facebook/prophet",
+    "desc": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+    "officialSite": "https://facebook.github.io/prophet",
+    "topics": ["forecasting", "python", "r"]
+  }, {
+    "repo": "jackmpcollins/magentic",
+    "desc": "Seamlessly integrate LLMs as Python functions",
+    "officialSite": "",
+    "topics": ["agent", "ai", "chatbot", "chatgpt", "gpt", "llm", "magentic", "openai", "openai-api", "prompt", "pydantic"]
+  }, {
+    "repo": "facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "officialSite": "https://detectron2.readthedocs.io/en/latest/",
+    "topics": []
+  }, {
+    "repo": "mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "officialSite": "https://mlflow.org",
+    "topics": ["ai", "apache-spark", "machine-learning", "ml", "mlflow", "model-management"]
+  }, {
+    "repo": "localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+    "officialSite": "https://localstack.cloud",
+    "topics": ["aws", "cloud", "continuous-integration", "developer-tools", "localstack", "python", "testing"]
+  }, {
+    "repo": "facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "officialSite": "https://detectron2.readthedocs.io/en/latest/",
+    "topics": []
+  }, {
+    "repo": "sapientml/sapientml",
+    "desc": "Generative AutoML for Tabular Data",
+    "officialSite": "https://sapientml.io",
+    "topics": ["automated-machine-learning", "automl", "automl-products", "automl-python", "machine-learning", "python"]
+  }, {
+    "repo": "mistralai/mistral-src",
+    "desc": "Reference implementation of Mistral AI 7B v0.1 model.",
+    "officialSite": "https://mistral.ai",
+    "topics": ["llm", "llm-inference", "mistralai"]
+  }, {
+    "repo": "jacklevin74/xenminer",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "python-poetry/poetry",
+    "desc": "Python packaging and dependency management made easy",
+    "officialSite": "https://python-poetry.org",
+    "topics": ["dependency-manager", "package-manager", "packaging", "poetry", "python"]
+  }, {
+    "repo": "streamlit/streamlit",
+    "desc": "Streamlit — A faster way to build and share data apps.",
+    "officialSite": "https://streamlit.io",
+    "topics": ["data-analysis", "data-science", "data-visualization", "deep-learning", "developer-tools", "machine-learning", "python", "streamlit"]
   }
 ]
