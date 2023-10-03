@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "ydot0789",
+    "name": "이기적 영진닷컴",
+    "profile": "https://yt3.googleusercontent.com/kSJCInqVP9v3EQgLZRJgCPp3HDUTKmV4HnQy_Ubu4d3V1GI24DFrzoCrUGHvyRvQcu1nfJfq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ia9z5pzY1_FcrwneiS27kPVLZq2jjRueRnKpZsTsbozr0yOm8Rw08wmr_14n4aKwaZiO47OZ-g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gbdJ60C4lHY", "title": "[정보처리기사 실기 최신문제집] 모의고사 01회" },
+    { "id": "JztfkmVCwHg", "title": "[정보처리기사 실기 최신문제집] 모의고사 02회" },
+    { "id": "J7DN9UqlkcE", "title": "[정보처리기사 실기 최신문제집] 모의고사 03회" },
+    { "id": "aJjg2uBvSL8", "title": "[정보처리기사 실기 최신문제집] 모의고사 04회" },
+    { "id": "ErP7AyZOVkE", "title": "[정보처리기사 실기 최신문제집] 모의고사 05회" },
+    { "id": "7lP_otO273g", "title": "[정보처리기사 실기 최신문제집] 모의고사 07회" },
+    { "id": "vwWWnRAm9-4", "title": "[정보처리기사 실기 최신문제집] 모의고사 08회" },
+    { "id": "v4agxDYkfSg", "title": "[정보처리기사 실기 최신문제집] 모의고사 09회" },
+    { "id": "S3lNe6MwjUA", "title": "[정보처리기사 실기 최신문제집] 모의고사 06회" },
+    { "id": "qbX5P7mF2z8", "title": "[정보처리기사 실기 최신문제집] 모의고사 10회" },
+    { "id": "xpdmPZvJtcQ", "title": "[정보처리기사 실기 최신문제집] 소프트웨어 개발 방법론(샘플)" }        
+  ]
+}

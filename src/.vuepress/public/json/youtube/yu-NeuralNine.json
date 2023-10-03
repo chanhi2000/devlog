@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dlfn1WrZZ2M", "title": "F-Strings Have A Lot of Format Modifiers You Don't Know" },
+    { "id": "UdEtHBlirvo", "title": "Dark Mode in Tkinter Applications Made Simple" },
+    { "id": "xdsg-wqQCxo", "title": "The One Invisible Byte That Can Mess Up All of Your Code" },
+    { "id": "o0UDBlo5tOM", "title": "Handle Cookies in Python Requests" },
     { "id": "nwZLJiZ7-oQ", "title": "Easily Visualize Database Schemas - SQLite, MySQL, PostgreSQL" },
     { "id": "Y5CA79rHEYQ", "title": "Integration Testing For Flask Applications - Python API Testing" },
     { "id": "Qv02PxiK938", "title": "Migrate SQLite Database to MySQL with Python" },
@@ -18,7 +22,7 @@
     { "id": "9y9YYhCuLro", "title": "Financial Stock Assistant Chatbot with ChatGPT in Python" },
     { "id": "dhoKFqhVJu0", "title": "Income Prediction Machine Learning Project in Python" },
     { "id": "GSHFzqqPq5U", "title": "Real-Time Stock Price Tracker in Python" },
-    { "id": "XfJBvgnCeBk", "title": "Why Everyone Should Start Using Vim" }
+    { "id": "XfJBvgnCeBk", "title": "Why Everyone Should Start Using Vim" },
     { "id": "2C1BOPAMGHc", "title": "Dynamic Attribute Handling in Python: `getattr()`, `setattr()`, `hasattr()`, `delattr()`" }, 
     { "id": "BUnb1PKKMBA", "title": "Linux File System Simply Explained" }, 
     { "id": "3wNvKybVyaI", "title": "MongoDB in Python - NoSQL Document Database" }, 

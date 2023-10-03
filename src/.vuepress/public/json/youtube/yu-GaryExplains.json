@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/IV4Z_SXzHYsVA7dmmTgJM8prHKvP36qSV8zN2A8xoXaj6ysBJX2fz9f3nQXgs1Xp0PvxCOMkCg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kuZIzL0K4o4", "title": "Using ZIG as a Drop-In Replacement C Compiler on Windows, Linux, and macOS!" },
     { "id": "idZctq7WIq4", "title": "How to Run a ChatGPT-like AI on Your Raspberry Pi" },
     { "id": "abAkHQhLsSI", "title": "Jetson Orin Nano - 75x Faster Than A Raspberry Pi" }, 
     { "id": "nWzcEUj0OHc", "title": "Build Your Own Supercomputer Using a Jetson Mate" }, 

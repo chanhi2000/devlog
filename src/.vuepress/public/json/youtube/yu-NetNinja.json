@@ -6,11 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/m_WGEq8pBawVi71mEKiFbnOjbkvzyWguNpcAbss54NenWDivjpbbqREAlyoRNONKNBk6QlS87A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yta9xLUGKgM", "title": "Redis Tutorial for Beginners #2 - Making a Redis Database (Redis Cloud)" },
+    { "id": "8sHCdz_tOjk", "title": "Redis Tutorial for Beginners #1 - What is Redis?" },
+    { "id": "yYUWwHtRebg", "title": "Redis Tutorial for Beginners #3 - Basic Commands" },
+    { "id": "yOUPzV1zT6M", "title": "Redis Tutorial for Beginners #4 - Command Options" },
+    { "id": "bwMpEDWAIQU", "title": "Redis Tutorial for Beginners #6 - Lists" },
+    { "id": "JFM-o-csWLs", "title": "Redis Tutorial for Beginners #9 - Using Redis with Next.js" },
     { "id": "wpnN3RIRSxs", "title": "Build a Microservice with Go #1 - Getting Started" },
     { "id": "qCv-q37qjZU", "title": "Build a Microservice with Go #4 - Data Model" },
     { "id": "Br6f1i-QNCY", "title": "Build an Image Gallery with Next.js 13 #7 - Placeholder" },
     { "id": "LT0r3VPK6wY", "title": "Create the perfect bug report in 2 clicks (it's free) #shorts" },
-    { "id": "OSAuAWwnWq8", "title": "Better Drop Caps Styling Using Initial Letter #shorts" }
+    { "id": "OSAuAWwnWq8", "title": "Better Drop Caps Styling Using Initial Letter #shorts" },
     { "id": "C3niYu6VUhk", "title": "Finally, CSS Nesting Without SASS #shorts" },
     { "id": "BHL9rl8P72E", "title": "VS Code Extension Spotlight - Relative Path #shorts" }, 
     { "id": "kVzw_f7TfCE", "title": "React Testing Library Tutorial #9 - Describe Block" }, 

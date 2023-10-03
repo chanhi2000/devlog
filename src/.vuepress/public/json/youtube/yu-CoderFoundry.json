@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/suEBDAcyMiLR56ocW8q3lLXLQ1SZR1-q3n6QJnOsVJehwRUuz5f1fNQ005SBMr26051fCjAg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "by0R12OQyV8", "title": "Mastering .NET 8 Blazor: Web Assembly Render Mode" },
     { "id": "T6KqwUX3oEc", "title": "Mastering .NET 8 Blazor: SignalR Render Mode" }
   ]
 }

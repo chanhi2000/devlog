@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "BoostCon",
+    "name": "CppNow",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYmr0VPJ4G-wQaVO_tIcj6SgTug5uoa_gnIe2Ft=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GhT5KuB6YM8RhstyhjdW3RXMUYAcpcFb9YZGDudGq1blUFyP28dLJvhxeTb9vpNtrbJeYXaH9g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "e-Gl_x1XDiY", "title": "Lightning Talk: Your Favorite Undefined Behavior in C++ - JF Bastien - CppNow 2023" },
+    { "id": "f6AtGR9RCJ0", "title": "Lightning Talk: Searching with C++ - A Fulltext Index Search Algorithm - Hana Dusíková - CppNow 2023" }
+  ]
+}

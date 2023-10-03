@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "DevOpsMadeEasy",
+    "name": "DevOps Made Easy",
+    "profile": "https://yt3.googleusercontent.com/2iSDcvuLiXGw3HhbHA-H8tn3rPK3zGQUuuWufVGgxOz9MgtnuU2g8dT7_kaCa5MYyDqJzYpc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cjpTrPtj_YIjLcPFsI7PAQI31pHCmJReysnm7vltCaCZM75HwDdU1yXTiJq_iaHHYay3RSB0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SdTzwYmsgoU", "title": "Microservices in Python using Flask Framework | Dockerize and Deploy to Kubernetes with Helm" },
+    { "id": "7oCMqQG6S0k", "title": "Install MobaXterm on Windows" },
+    { "id": "2fop7rvHrac", "title": "Install Helm On Windows" },
+    { "id": "SJQFGPlw04E", "title": "Install Kubectl on Windows" },
+    { "id": "VL3D1gIiLzc", "title": "Getting Started with K9s CLI on MAC -  A Terminal Based Kubernetes Dashboard" },
+    { "id": "kCHWXPFx8xU", "title": "Install Minikube on MAC" },
+    { "id": "_q1ysnGuQtM", "title": "Install Docker Desktop on MAC for Apple Silicon" },
+    { "id": "FpP4o3t2SYk", "title": "Crossplane Introduction | Manage Infrastructure using Kubernetes" }
+  ]
+}

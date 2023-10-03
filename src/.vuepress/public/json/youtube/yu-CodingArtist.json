@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LwDo8Ks9XXfuafsfKf3qmqVeVKqFmWNVCTCRZwaTOPv8lAUQP3ZIexeB49ma1TMaNPUjvWxT3A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MauJBsQkSjQ", "title": "Text Similarity Checker | Javascript Project For Beginners" },
+    { "id": "aq3InkyXmn0", "title": "Scoreboard | Javascript Project For Beginners" },
+    { "id": "6Cd8-tHBqSU", "title": "Multiple Dice Roll | Javascript Project" },
     { "id": "-ZvVGAeKCi8", "title": "Anagram Checker | HTML, CSS & Javascript" },
     { "id": "36yBRRKFxDU", "title": "Random Quote Generator With Local Storage, Save To Favourite, Copy To Clipboard Functionality." },
     { "id": "CSbGCw-2_4I", "title": "Credit Card Form | HTML, CSS and Javascript" },

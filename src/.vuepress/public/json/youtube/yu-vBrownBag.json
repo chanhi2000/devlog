@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/hbTX9oxjAHwBsSt_WZCcOieYnb06m367URZ0dImrU_ZxCzbwY9DELo0tjhYzWdVZAT731IBz=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Zo00icrBLnU", "title": "Consuming Web Data in Python with and without an API with Michael Kennedy" },
+    { "id": "PzZEPe216QA", "title": "Fun with Terraform with Kalen Arndt" },
     { "id": "9L_lZK4yXXU", "title": "A Pragmatic Approach to vVols Adoption - Tristan Todd" },
     { "id": "66fL2iyoHHc", "title": "Bridging the Gap Digital Transformation with VMware Cloud on AWS  - Caio Oliveira" },
     { "id": "UhM-R-GojZI", "title": "VMware IT Modern App Platform - Superior Developer Experience  - Mukund Yadav  Jairo Brenes Jimenez" },

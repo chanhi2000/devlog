@@ -6,12 +6,19 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8TtiJ0vrL9Y", "title": "쿠버네티스 초보자를 위한 K8S vs 레거시 인프라  [토크아이티 세미남289, 맨텍솔루션]" },
+    { "id": "63d8UAZFzPE", "title": "최근 대형 IT프로젝트 위기, 무엇이 문제인가[토크아이티 프리미엄 웨비나, 투이컨설팅]" },
+    { "id": "deWkKM6-3UQ", "title": "HCI 가상화로 저녁있는 삶, 서울아산병원 HCI 담당자와 PM이 말한다! [토크아이티 세미남295, 씨티아이앤씨, Nutanix]" },
+    { "id": "15jPSBiB4_M", "title": "우리 회사에 맞는 데이터 분석 플랫폼, 어떻게 준비할까?[토크아이티 프리미엄 웨비나, 아이엠그루]" },
+    { "id": "w0KcswhX2aw", "title": "쿠버네티스 사용자 20인이 얘기하는개발, 운영의 잇점 [토크아이티 세미남290, 맨텍솔루션]" },
+    { "id": "-BcTeb0hmLc", "title": "RPA PM이 얘기하는 실전 RPA 가이드[토크아이티 프리미엄 웨비나, 파워젠]" },
+    { "id": "matSxgX51LM", "title": "Differential Probe를 이용한 PCB 특성화 및 Probe 디임베딩" },
     { "id": "VW9-WpBAcLY", "title": "기업에서 물어보는 쿠버네티스관련 질문 Top 6 feat. 컨테이너, MSA, 데브옵스, 쿠버네티스 [토크아이티 세미남280, SUSE, HPE]" },
     { "id": "E0McHSyZ9Zk", "title": "제조, 금융에서 쿠버네티스 사용 이유 feat. 컨테이너 사용현황 설문결과 [토크아이티 세미남281, SUSE, HPE]" },
     { "id": "YITVlws26eI", "title": "클라우드에 최적화된 백엔드 SW정의 스토리지, CEPH 활용 가이드 [토크아이티 프리미엄웨비나, 대한씨앤아이, Seagate]" },
     { "id": "WItI-Gu0Z90", "title": "간단해진 DB 마이그레이션 동향과 체크포인트 [김명훈대표/디비투이, 고우성의 잇터뷰63, 토크아이티 1" },
     { "id": "gROoX-OSC1w", "title": "랜섬웨어 최후 방어선, 스토리지가 보안을 지켜준다. [토크아이티 세미남270, 넷앱 올플래시 스토리지]" },
-    { "id": "TBaH26Kk7yE", "title": "MZ세대 직장인을 위한 HR시스템의 조건 [토크아이티 세미남275, Workday]" }
+    { "id": "TBaH26Kk7yE", "title": "MZ세대 직장인을 위한 HR시스템의 조건 [토크아이티 세미남275, Workday]" },
     { "id": "RJihWoaJlZc", "title": "클라우드 서비스 PaaS 왜 필요하고,어떻게 활용하는가? 7분 요약 [임종진 부장/알리바바클라우드. 고우성의 잇터뷰46]" }, 
     { "id": "jM7NeDPf0dw", "title": "알기 쉬운 쿠버네티스 개념 뽀개기  [이진현상무/맨텍, 고우성의 잇터뷰50, 토크아이티]" }, 
     { "id": "lE7vs0VWrfU", "title": "노코드 로우코드 앱 개발,배포 이슈와 대안 feat. 티맥스클라우드 aPaaS [토크아이티 세미남263]" }, 

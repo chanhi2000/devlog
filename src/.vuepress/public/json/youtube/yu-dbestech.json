@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "dbestech",
+    "name": "dbestech",
+    "profile": "https://yt3.googleusercontent.com/nGywxQqLkBof4AXRJd7TsXvM7AVYfO0aCSnvJesV2vH-VXUxHIMP_ceZoerxF3MvnHAdImjLzQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "w5IYCoTk4Bs", "title": "React Native E-commerce App With Restful API | Crash Course" },
+    { "id": "rG1XoJfdv0o", "title": "Flutter Clean Architecture | BLoC | TDD  | Part 3" },
+    { "id": "I3wPtFt5q0I", "title": "React Native Tutorial Part 2 | Travel App" },
+    { "id": "x4DydJKVvQk", "title": "Flutter Master Class Travel App | Flutter 3.10.0 for Beginners to Advanced | iOS & Android Cubit" },
+    { "id": "shqT1NrmUfE", "title": "Master Riverpod 2.0 With Rest Api (Play Online Videos List) | Part 5" },
+    { "id": "iyiSWkww9ok", "title": "Riverpod AsyncValue `Update()` method and `CopyWith()`" },
+    { "id": "ii9MLIgiWTA", "title": "Warning about Riverpod ref watch | Must watch" },
+    { "id": "GNhvim4z_yA", "title": "Flutter Provider Clean Architecture | Part 4" },
+    { "id": "xUzoOQ4S2Tg", "title": "Master Flutter State Management" },
+    { "id": "UWp-zmWaLN8", "title": "Flutter Getx Singleton Class" },
+    { "id": "F4xW7i5hPfg", "title": "Nodejs Socket IO Chat APP | Flutter Course" }
+  ]
+}

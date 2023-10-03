@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "u4Oaf1h1tmU", "title": "#25 - `Promise.race()` in JavaScript" },
+    { "id": "gS06cbHKpZ4", "title": "#26 - `Promise.any()` function in JavaScript" },
+    { "id": "RHpHW2XSIfM", "title": "#28 - Make Coffee with Callback Hell Example || Why to avoid this callback hell in Javascript" },
+    { "id": "fliu4E7zy5I", "title": "#27 - Callback Hell or Pyramid of Doom In JavaScript" },
+    { "id": "w5Lap2j5HIo", "title": "#29 - CallBack Hell Vs Promise Chaining in JavaScript" },
+    { "id": "EHwI5QWO_jU", "title": "Practice Web Application for UI Automation for Selenium, Cypress, Playwright, WebDriverIO" },
+    { "id": "cIZGutelrak", "title": "DO I need to run behind Testing and Test Automation Certifications? || Selenium Certification" },
     { "id": "-pkPccwtbLc", "title": "#22 - Promise Chaining in JavaScript" },
     { "id": "xOT0iRwoKH0", "title": "#24 - `Promise.all()` vs `Promise.AllSettled()` in JavaScript" },
     { "id": "Wml9Pt5OCho", "title": "Latest Selenium 4.12.0 with Latest Selenium Manager 0.4.12 || Automated Firefox Binary Management" },

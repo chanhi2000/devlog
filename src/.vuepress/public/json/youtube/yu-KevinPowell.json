@@ -6,12 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/HsOID_2Ri-jtwLjcRyT6c0CqH9hmSJgJDhmlcFPID77EtAZKZSwCjlWOLN9I4vEM1kmzrTszWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "apdD69J4bEc", "title": "Quick guide to CSS focus states" },
+    { "id": "iLmBy-HKIAw", "title": "Create an infinite horizontal scroll animation" },
+    { "id": "sPWlakxKRm8", "title": "Turns out I know less about HTML than I thought! 😅" },
     { "id": "EUJlVYggR1Y", "title": "How to get started with VS Code" },
     { "id": "EC-ocX6lWNs", "title": "Is Tailwind Taking Over CSS? (and some other insights)" },
     { "id": "I9zHX-jSKpA", "title": "A deep dive into CSS color-mix()" },
     { "id": "JdNG_PtuJXM", "title": "Power-up position absolute with this simple technique" },
     { "id": "h2AOXBeVrgI", "title": "Recreating YouTube’s tab animation" },
-    { "id": "TgOWjuOweHQ", "title": "A quick & fun CSS animation effect" }
+    { "id": "TgOWjuOweHQ", "title": "A quick & fun CSS animation effect" },
     { "id": "r1IitKbJRFE", "title": "Two simple layouts that work better with Grid" }, 
     { "id": "LkZPd0oRlMQ", "title": "From Figma to Code / Creating a resume page" }, 
     { "id": "HuI4fDxDM0g", "title": "Why I only use vanilla HTML, CSS, and JS on YouTube" }, 

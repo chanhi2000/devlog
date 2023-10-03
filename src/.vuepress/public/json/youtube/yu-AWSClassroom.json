@@ -6,10 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "xHg4zVPAsHo", "title": "AWS Serverless 로 1분만에 URL Redirection 구현하기 (Cloudformation 템플릿 제공)" },
+    { "id": "_QYQO8ekHtM", "title": "AWS 비용 3억 나오는 사태 막는법 : AWS 계정을 지키는 3가지 필수 설정!" },
     { "id": "Owl6njL7ViQ", "title": "수많은 EC2 인스턴스의 CPU/메모리 시각화해서 확인하기 : CloudWatch Resource Health" },
     { "id": "f9LZWCSgojE", "title": "S3 파일 업로드/다운로드는 이렇게 하세요 : Serverless 아키텍처에서 S3로 파일 업로드/다운로드 총 정리!" },
     { "id": "5HYEUI7dD0U", "title": "내 MySQL/PostgrSQL DB 변경을  스트림으로 받아 처리하는 방법!  Aurora DB Activity Stream" },
-    { "id": "cDzPU5whTCI", "title": "Lambda로 요청 응답을 실시간 스트리밍 하는법? Lambda Response Streaming" }
+    { "id": "cDzPU5whTCI", "title": "Lambda로 요청 응답을 실시간 스트리밍 하는법? Lambda Response Streaming" },
     { "id": "LazOCTfdSeQ", "title": "쉽게 설명하는 AWS 기초 강좌 20: Amazon S3 기초" },
     { "id": "xNr0OGFWLEQ", "title": "세계에서 제일 평균연봉 높은 IT자격증 알려드립니다(feat. 지금 바로 따야하는 이유)" },
     { "id": "_o0GYyKnaI0", "title": "AWS Code* Service 1강: Amazon EC2에 적용하는 CI/CD 파이프라인 Overview" },

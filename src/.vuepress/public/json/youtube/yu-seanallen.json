@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/5exaEZH9hpSVtQBOPPUXh3uJaaBsYe-5tV-rf05rBfMNbBq_I_dqD-pV5SAYrejMLctrPoFHpQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Cdtbr6AZ7Mk", "title": "Xcode Tip - Wirelessly Run an App on Device #iosdeveloper #swift #xcode" },
+    { "id": "X6TfZHuQOWA", "title": "Xcode Tip - GIFs & Videos from Simulator #iosdeveloper #swift #xcode" },
+    { "id": "IwUp2iP0jnI", "title": "Super Power Scroll Views - SwiftUI - iOS 17" },
+    { "id": "mvXFGikltPc", "title": "Intro to SwiftData - Model, Container, Fetch, Create, Update & Delete" },
     { "id": "b1oC7sLIgpI", "title": "SwiftUI Fundamentals | FULL COURSE | Beginner Friendly" },
     { "id": "ZOh08w9Ku9k", "title": "6 Ways to Master iOS Development" },
     { "id": "x-5UgNl7GFU", "title": "Swift Algorithms - Faster, Cleaner Code. (Chunked Example)" },

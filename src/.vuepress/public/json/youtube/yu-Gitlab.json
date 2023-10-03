@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Hn5buzm2epk", "title": "Monthly CI Updates: CI/CD Components Catalog" },
     { "id": "JV9vzKzi8cw", "title": "Portfolio Planning - Portfolio Management" }, 
     { "id": "creDQTCEbZI", "title": "GitLab Issues - Setting up your Organization with GitLab" }, 
     { "id": "dD8c7WNcc6s", "title": "How to Enable GitLab Pages for GitLab CE and EE" }, 

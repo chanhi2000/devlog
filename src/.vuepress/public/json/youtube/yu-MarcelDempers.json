@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Aho1S7PkjbBrlfw_OwY0TBCFAC3tSRM9iijSeZadKDps0jODeQysNwSLILLfLJAIbALkQu_Yqg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "X5W_706-jSY", "title": "Introduction to Flux CD on Kubernetes | GitOps | CICD" },
+    { "id": "FC2JMBYDcJE", "title": "How to replicate PostgreSQL with Docker for beginners" },
     { "id": "d1ZMnV4yM1U", "title": "Python to Kubernetes" }, 
     { "id": "u0qtgUMLua0", "title": "Storing Secrets in GIT | GitOps | Kubernetes" }, 
     { "id": "1zcXudjSVUs", "title": "Understanding KUBECTL - Learning Kubernetes" }, 

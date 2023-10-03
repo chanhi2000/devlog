@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/mHSb8JL6--hAGMFutgdmkWhc1N853V04knbbfDi9THw8jnh68A2578jnc7JrjmYdi0m4WmpJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OUKBP64yZyk", "title": "Bubble Sort Code in Java | DSA" },
+    { "id": "nBUfLL4HgIo", "title": "Selection Sort Theory in Java | DSA" },
+    { "id": "-jCFJKQCWg8", "title": "Selection Sort Code in Java | DSA" },
     { "id": "_743vy8zejw", "title": "Time complexity | Big O Notation" },
     { "id": "KugB64WINas", "title": "Mastering Java And Spring Boot Induction" }, 
     { "id": "zFGh_Jh-Hvs", "title": "Quiz App Using Spring Boot #1 | Microservices Tutorial" }, 

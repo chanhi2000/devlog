@@ -6,10 +6,17 @@
     "banner": ""
   },
   "videos": [
+    { "id": "WmSTFarqqbM", "title": "Kubernetes 컨트롤러 (1)" },
+    { "id": "d4Eup2vc_CY", "title": "02_AWS 계정 생성 및 MFA 인증" },
+    { "id": "6ruINqTck1Q", "title": "03_AWS 관리 콘솔 및 S3 서비스" },
+    { "id": "mMYi4vraqkI", "title": "04_AWS VPC 구성" },
     { "id": "qaNivhHe9LU", "title": "15_Docker Compose (2)" },
     { "id": "xLeo48VlngQ", "title": "01_Kubernetes 실습 환경 구성" },
     { "id": "p4mcDBuBWis", "title": "02_Minikube 설치" },
     { "id": "ynDloNUjJnU", "title": "03_Kubernetes 설치" },
-    { "id": "wOgeDuh_Xxs", "title": "04_Kubernetes 컨테이너 실행하기" }
+    { "id": "wOgeDuh_Xxs", "title": "04_Kubernetes 컨테이너 실행하기" },
+    { "id": "L4eftoH9JiI", "title": "05_Kubernetes 아키텍처" },
+    { "id": "ZcZ7zjkUTFw", "title": "06_Kubernetes 파드 (1)" },
+    { "id": "FXI79ijAgKs", "title": "07_Kubernetes 컨트롤러" }
   ]
 }

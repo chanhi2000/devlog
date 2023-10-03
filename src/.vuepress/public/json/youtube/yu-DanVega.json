@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/YZszOyMVJh2dRmktetnCGJVHMf5QTTvjZFn9GOmsw_SYRhhruhSa37Ah3jN0KDZnURZa4rO1I0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aqc5YB7TISM", "title": "Getting Started with Java 21 - JDK 21 First Look" },
+    { "id": "NOrwxSI_VIg", "title": "Spring Docker Compose Module - Connecting to the Container Database" },
+    { "id": "-H5sud1-K5A", "title": "Test Driven Development (TDD) in Spring" },
     { "id": "JBu5GibEJ4k", "title": "Spring Boot 3.2's Secret Weapon: Auto-Configured JDBC Client for Effortless Database Integration!" },
     { "id": "4OVe0MWgZ4k", "title": "The #1 Spring Boot Starter you should include in every single application" },
     { "id": "cw0TfpcUkao", "title": "Spring Boot & JsonNode: How to use it and when to turn to creating Custom Deserializers" },

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rudqlGRrWYY", "title": "Making Multiplatform Better | Talking Kotlin #125" },
+    { "id": "Mgf_9kxM1BA", "title": "You can do desktop too! by Victor Kropp" },
+    { "id": "5_W5YKPShZ4", "title": "Build an iOS & Android app in 100% Kotlin with Compose Multiplatform" },
+    { "id": "99pqhD_w-os", "title": "The Changing Grain of Kotlin by: Nat Pryce and Duncan McGregor" },
     { "id": "pgmY6XRktd8", "title": "Multiplatform Secrets with Philipp Lackner | ATOM EP 7" }, 
     { "id": "XY4h3pfwaE0", "title": "Creating Kotlin Multiplatform SDK at  @Sentry-monitoring" }, 
     { "id": "Kgf8N6u70ps", "title": "Kotlin/Wasm: Reimagining Frontend Development and More | Talking Kotlin #123" }, 

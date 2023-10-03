@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UdzGh0zt0ts", "title": "PHP 023 [라라벨 03 ]  -  laravel 레이아웃, 스타일 설정하기" },
+    { "id": "rOz9g9aE768", "title": "PHP 025 [라라벨 05 ]  -  laravel 상세페이지, array_search, array_column" },
+    { "id": "4inEcCc7bzg", "title": "웹디자인 기능사 실기(21) - 와이어프레임, 반응형 D1유형" },
+    { "id": "qgAwSlK3xx8", "title": "PHP 027 [라라벨 07 ]  -  laravel 글 생성 함수, 입력폼생성, 값 저장 출력, csrf" },
+    { "id": "kX1R7Sv63iY", "title": "PHP 028 [라라벨 08 ]  -  laravel - 입력 폼 유효성 검사" },
     { "id": "laaS8-K3FZk", "title": "웹디자인 기능사 실기 - 14 CSS 핵심 - flex속성 모두 살펴보기" },
     { "id": "qjBpOlp1als", "title": "웹디자인 기능사 실기 - 13 CSS 핵심 - 포지션 5가지 한번에 정리!" },
     { "id": "n3Wo2IIzHV8", "title": "PHP 022 [라라벨 02 ]  -  라라벨 페이지 주소 축약하기" },

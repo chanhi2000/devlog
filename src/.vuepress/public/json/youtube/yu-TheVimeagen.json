@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RN4aYnR2xI0", "title": "The LAST Bun vs Node Perf Test" },
+    { "id": "z86ToVPx42Y", "title": "HTMX + Go  + Web Components | Exploring Lit Web Components" },
+    { "id": "K-Qbr0IIJBw", "title": "HTMX + GO + Web Components | Endpoints And App" },
     { "id": "_t_uPr5-6N0", "title": "🚨 JSPerf! Building An App For Perf Testing" },
     { "id": "SMBvjmeOotA", "title": "Bun Perf Test 1 -- RESULTS!!!" },
     { "id": "r2-OHj4ZjB0", "title": "Bun vs Node :: JSC or V8?" },
@@ -13,7 +16,7 @@
     { "id": "om4nY7nQyBQ", "title": "Implementing Prim's Algorithm" },
     { "id": "dFNHA1hOisc", "title": "My First HTMX Form" },
     { "id": "RSNIXggchyk", "title": "JS Performance - Writing Rust WS Server For Testing" },
-    { "id": "xoLK9dYrmj8", "title": "Writing Language Server in Rust! Part 3" }
+    { "id": "xoLK9dYrmj8", "title": "Writing Language Server in Rust! Part 3" },
     { "id": "wH3FjE38pz8", "title": "Code Review: Ocaml" },
     { "id": "VE8YqPGgyQM", "title": "Code Review: CPP" },
     { "id": "4TxOD2GmWU4", "title": "Rust Lexer : Finished It!!!!" },

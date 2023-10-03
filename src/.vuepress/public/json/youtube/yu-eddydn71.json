@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/nf8LF5WytA1-bgqBmqXgvc4a-L4XdbSdDWcmv3H78c8MC5ExXwSmsKyKsn_3U030OC0lzxNIlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xcBN2OGghNA", "title": "HTML Tutorial: How to Design a Before-After Image Comparison Slider  #edmtdev #html #javascript #js" },
     { "id": "UKU9WizT7Bw", "title": "Kotlin with Jetpack Compose: Day 2 -  QR Scanner App" },
     { "id": "f7YLwr4oUFE", "title": "Kotlin with Jetpack Compose: Day 3 - Implementing Location Services" },
     { "id": "p3HKX3Mv5D8", "title": "Kotlin with Jetpack Compose: Day 4 - How to Implement a Carousel Slider in Kotlin Jetpack Compose" },
@@ -15,7 +16,7 @@
     { "id": "rqumqtr-Y1M", "title": "Hero Animation in Android like Flutter  #code #edmtdev #flutter #flutteredmtdev #android #shorts" },
     { "id": "7nMVuMnWHJg", "title": "Developing a Coin News Reader using RSS Feeds in Android #android  #edmtdev #rss  #code" },
     { "id": "KZs9OkFuP1I", "title": "Meet AI Assistant for Android Development : Studio Bot #studiobot #android #androidstudio #edmtdev" },
-    { "id": "4zOszPkrwRE", "title": "Create QR Scanner code in Android #edmtdev #asmr #asmrprogramming" }
+    { "id": "4zOszPkrwRE", "title": "Create QR Scanner code in Android #edmtdev #asmr #asmrprogramming" },
     { "id": "KkY4XvwWeyQ", "title": "Building a Network API Fetching App with RxJava and MVVM in Android" },
     { "id": "jLiI481jaJU", "title": "Build Your Own Local Cache for REST API in Android Programming" },
     { "id": "bb8Ig80gJMk", "title": "Attacking Android applications exploiting Firebase Database Realtime" },

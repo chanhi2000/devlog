@@ -630,4 +630,270 @@ Next chapter will discuss use cases where you need to process a file input based
 
 ---
 
+## Exercises
+
+
+::: info
+
+The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learnbyexample/learn_gnuawk/tree/master/exercises) directory has all the files used in this section.
+
+:::
+
+### Exercise 1
+
+For the input file <FontIcon icon="iconfont icon-file"/> `sample.txt`, print lines containing `do` only if the previous line is empty and the line before that contains you.
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Just do-it
+# Much ado about nothing
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 2
+
+For the input file <FontIcon icon="iconfont icon-file"/> `sample.txt`, match lines containing `do` or `not` case insensitively. Each of these terms occur multiple times in the file. The goal is to print only the second occurrences of these terms (independent of each other).
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# No doubt you like it too
+# Much ado about nothing
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 3
+
+For the input file <FontIcon icon="iconfont icon-file"/> `sample.txt`, print the matching lines containing `are` or `bit` as well as `n` lines around the matching lines. The value for `n` is passed to the `awk` command via the `-v` option.
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk -v n=1 ##### add your solution here
+# Good day
+# How are you
+#
+# Today is sunny
+# Not a bit funny
+# No doubt you like it too
+
+# note that the first and last line are empty for this case
+awk -v n=2 ##### add your solution here
+# Good day
+# How are you
+# 
+# Just do-it
+# 
+# Today is sunny
+# Not a bit funny
+# No doubt you like it too
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 4
+
+For the input file <FontIcon icon="iconfont icon-file"/> `broken.txt`, print all lines between the markers `top` and `bottom`. The first `awk` command shown below doesn't work because it is matching till the end of file as the second marker isn't found. Assume that the input file cannot have two `top` markers without a `bottom` marker appearing in between and vice-versa.
+
+::: tabs
+
+@tab:active Question
+
+```sh
+cat broken.txt
+# top
+# 3.14
+# bottom
+# ---
+# top
+# 1234567890
+# bottom
+# top
+# Hi there
+# Have a nice day
+# Good bye
+
+# wrong output
+awk '/bottom/{f=0} f; /top/{f=1}' broken.txt
+# 3.14
+# 1234567890
+# Hi there
+# Have a nice day
+# Good bye
+
+# expected output
+##### add your solution here
+# 3.14
+# 1234567890
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 5
+
+For the input file <FontIcon icon="iconfont icon-file"/> `concat.txt`, extract contents from a line starting with `###` until but not including the next such line. The block to be extracted is indicated by the variable `n` passed via the `-v` option.
+
+::: tabs
+
+@tab:active Question
+
+```sh
+cat concat.txt
+### addr.txt
+# How are you
+# This game is good
+# Today is sunny
+### broken.txt
+# top
+# 1234567890
+# bottom
+### sample.txt
+# Just do-it
+# Believe it
+### mixed_fs.txt
+# pink blue white yellow
+# car,mat,ball,basket
+
+awk -v n=2 ##### add your solution here
+### broken.txt
+# top
+# 1234567890
+# bottom
+
+awk -v n=4 ##### add your solution here
+### mixed_fs.txt
+# pink blue white yellow
+# car,mat,ball,basket
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 6
+
+For the input file <FontIcon icon="iconfont icon-file"/> `ruby.md`, replace all occurrences of `ruby` (irrespective of case) with `Ruby`. But, do not replace any matches between \`\`\`ruby and \`\`\` lines (`ruby` in these markers shouldn't be replaced either). Save the output in <FontIcon icon="iconfont icon-file"/> `out.md`.
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here ruby.md > out.md
+diff -sq out.md expected.md 
+# Files out.md and expected.md are identical
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 7
+
+For the input file <FontIcon icon="iconfont icon-file"/> `lines.txt`, delete the line that comes after a whole line containing `---`. Assume that such lines won't occur consecutively.
+
+::: tabs
+
+@tab:active Question
+
+```sh
+cat lines.txt
+# Go There
+# come on
+# go there
+# ---
+# 2 apples and 5 mangoes
+# come on!
+# ---
+# 2 Apples
+# COME ON
+
+awk ##### add your solution here
+# Go There
+# come on
+# go there
+# ---
+# come on!
+# ---
+# COME ON
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 8
+
+For the input file <FontIcon icon="iconfont icon-file"/> `result.csv`, use `---` to separate entries with the same name in the first column. Assume that the lines with the same first column value will always be next to each other.
+
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Amy,maths,89
+# Amy,physics,75
+# ---
+# Joe,maths,79
+# ---
+# John,chemistry,77
+# John,physics,91
+# ---
+# Moe,maths,81
+# ---
+# Ravi,physics,84
+# Ravi,chemistry,70
+# ---
+# Yui,maths,92
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
 <TagLinks/>

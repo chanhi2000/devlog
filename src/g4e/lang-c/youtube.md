@@ -113,4 +113,12 @@ tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "progra
 
 ---
 
+## CppNow
+
+<MyYouTubeItems jsonName="yu-BoostCon" />
+
+<!-- CppNow -->
+
+---
+
 <TagLinks />

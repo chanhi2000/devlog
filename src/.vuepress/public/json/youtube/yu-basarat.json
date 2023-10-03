@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "i6CsAoSnalQ", "title": "JavaScript nullish operators - coalescing and optional chaining  \/\/ `??` `?.[]()`" },
+    { "id": "MRL2vX5iTWE", "title": "JavaScript Switch Statements // Masterclass patterns and practices" },
     { "id": "Ny_L_fI30PQ", "title": "JavaScript Error Handling // Exception Mastery" },
     { "id": "nFHgUqc1tAU", "title": "JavaScript Arrays // Complete MasterClass" },
     { "id": "q0ZkTVj6gQM", "title": "Getting Setup for JavaScript Development" }, 

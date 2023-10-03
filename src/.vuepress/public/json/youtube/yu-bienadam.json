@@ -6,12 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/nKUwaD9loKqAf9AS7EDp7ruFNYbnZz5by8XSEwWVaAwe1yFXcsoABt6HTQ42tk5oM6NGmWVCd5U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KieRbQ1MNGc", "title": "Do Anonymous Classes Have A Name? #java #shorts #coding #airhacks" },
+    { "id": "IyPUY8LjTIY", "title": "The Turbocharged String.split #java #shorts #coding #airhacks" },    
     { "id": "Blzgz4iRzMU", "title": "How To Get The Hostname for an IP Address #java #shorts #airhacks #coding" },
     { "id": "jNmMUOM5F2A", "title": "How To Validate An IP Address #java #shorts #coding #airhacks" },
     { "id": "S-eciIT6cvU", "title": "A Simple Full-Text Search #java #shorts  #coding #airhacks" },
     { "id": "ClMFf5wrlMY", "title": "Remove New Lines ...with lines() #java #shorts  #coding #airhacks" },
     { "id": "R81CiJxgY2g", "title": "Removing Leading Spaces in Text Blocks #java #shorts #coding #airhacks" },
-    { "id": "ja5-MB6MzwI", "title": "String.formatted vs. System.out.printf #java #shorts #coding #airhacks" }
+    { "id": "ja5-MB6MzwI", "title": "String.formatted vs. System.out.printf #java #shorts #coding #airhacks" },
     { "id": "kEGCCXlG8BI", "title": "Daemon Threads Are More About Angels Than Demons #java #shorts #airhacks" },
     { "id": "BhY_s9EvCkQ", "title": "Integer.parseInt() vs. Integer.valueOf--When To Use What #java #shorts" },
     { "id": "uxQVjoGEP3I", "title": "The Missing parseString #java #shorts" },

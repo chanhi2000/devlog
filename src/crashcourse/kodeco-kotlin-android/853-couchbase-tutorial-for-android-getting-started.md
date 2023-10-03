@@ -134,31 +134,249 @@ Here’s what this code does:
 3. If the database doesn’t exist, the `ZipUtils.unzip` method unzips the zip database file into the <FontIcon icon="iconfont icon-folder"/> __files__ directory; otherwise, nothing further needs to be done.
 4. The database is instantiated using the `getDatabase` method.
 
-
-
 ---
 
 ## Database Listener
+
+Now that the database is initialized, you should verify it is working properly. This is a perfect job for the __Database Listener__, which is a component that provides an HTTP entry point to the database. This component is optional and is often used for the following reasons:
+
+- __Debugging__: In development, it’s much faster to use the HTTP API to inspect the database than to set breakpoints and examine query results.
+- __Peer-to-peer__: Other databases (often running on different devices) can persist data to the listener directly without the need for a server to act as the intermediary. This aspect of Couchbase Mobile isn’t covered in this Couchbase tutorial.
+- __Hybrid development__: Used to access the database from JavaScript frameworks within a WebView.
+The image below illustrates the Couchbase system architecture. Notice that a database can communicate directly with another database with a listener, instead of having to use the server as a middle-man.
+
+![diagrams.002](https://koenig-media.raywenderlich.com/uploads/2016/07/diagrams.002.png)
+
+Back in <FontIcon icon="iconfont icon-file"/> `DataManager.java`, add the following below the existing code in the constructor method:
+
+```java
+View.setCompiler(new JavaScriptViewCompiler());
+Database.setFilterCompiler(new JavaScriptReplicationFilterCompiler());
+
+Credentials credentials = new Credentials(null, null);
+LiteListener liteListener = new LiteListener(manager, 5984, credentials);
+
+Thread thread = new Thread(liteListener);
+thread.start();
+```
+
+Be sure to import the `Credentials` from the `com.couchbase.lite.listener` namespace.
+
+![couchbase tutorial image02](https://koenig-media.raywenderlich.com/uploads/2016/07/image02.png)
+
+This code creates a database listener on port 5984 and starts it on a background thread.
+
+Build and run your app; you should see the same blank screen as before.
+
+To access the database from a browser or a command-line utility such as `curl`, you must enable port forwarding for that port using ADB. From the command line, run the following:
+
+```sh
+adb forward tcp:5984 tcp:5984
+```
+
+Your database is now accessible on __http://localhost:5984/quizzdroid__.
+
+You can also access the database using the following `curl` command:
+
+```sh
+curl -X GET 'http://localhost:5984/quizzdroid'
+# 
+# {
+#   "disk_size":147960,
+#   "db_uuid":"53b66d23-8803-43f3-a4db-a49d51b09efe",
+#   "db_name":"quizzdroid",
+#   "update_seq":6,
+#   "instance_start_time":1468585759670000,
+#   "doc_count":6
+# }
+```
+
+Notice the `doc_count` is `6`, which confirms the prebuilt database was successfully loaded.
+
+Your next task is to display the six questions on the Home Screen.
 
 ---
 
 ## The Home Screen
 
----
+Couchbase Mobile is a schemaless database, which means there are no restrictions on the database schema. This lets you be quite flexible during development because you don’t need to run database migrations every time the schema changes. Nonetheless, the application code must know about the data structures underneath.
 
-## Data Modeling
+### Data Modeling
 
----
+Below is the data model for this application:
 
-## POJO Classes
+![diagrams.003](https://koenig-media.raywenderlich.com/uploads/2016/07/diagrams.003.png)
 
----
+Data records are called documents, and there are two document types: `question` and `answer`. The underlying data format is JSON. You can think of a document as a set of key-value pairs. There is a one-to-many relationship between the question and answer documents.
 
-## Indexing Data
+### POJO Classes
 
----
+In order to manage the Couchbase documents, you will create POJO (Plain Old Java Object) classes to map the Couchbase documents to Java objects.
 
-## Querying and Displaying Data
+Open <FontIcon icon="iconfont icon-folder"/>`model`/<FontIcon icon="iconfont icon-file"/>`Question.java` and add the following instance variables:
+
+```java
+private String _id;
+private String _rev;
+private String text;
+private String tag;
+private String type;
+private List<String> options;
+
+@JsonIgnore
+private String _attachments;
+```
+
+Notice the instance variables are the same as the ones listed in the data model table. These variables represent the keys in the `question` document type. You will use the Jackson library to convert between POJOs and JSON.
+
+All the properties reserved for Couchbase Lite are prepended with `_`, such as `_id`, `_rev`, and `_attachments`. The `_attachments` property is only present if the document contains attachments. You will load attachments through another API method, so it’s marked with the `@JsonIgnore` annotation, telling Jackson to ignore the variable.
+
+Use the Android Studio <kbd>CTRL</kbd>+<kbd>Enter</kbd> shortcut to add getter and setter methods for each instance variable.
+
+![getter-setters](https://koenig-media.raywenderlich.com/uploads/2016/07/getter-setters-1.gif)
+
+With the __Question__ model in the application, you can now write a view to index question documents.
+
+### Indexing Data
+
+The way to query data in Couchbase Lite is by registering a View and then running a __Query__ on it with __QueryOptions__. The first thing to know about Couchbase Views is that they have nothing to do with the user interface views.
+
+A View in Couchbase is a persistent index of documents in a database, which can be queried to find data. The main component of a View is its `map` function. It takes a document’s JSON as input, and emits any number of key-value pairs to be indexed.
+
+First, you will define the view to index the documents of type __question__. The diagram below shows the result of that map function.
+
+![diagrams.005](https://koenig-media.raywenderlich.com/uploads/2016/07/diagrams.005.png)
+
+Remember that a view index is a list of key-value pairs, sorted by key. The view’s logic is written in the native language of the platform you’re developing on.
+
+Add the following static method to <FontIcon icon="iconfont icon-folder"/>`model`/<FontIcon icon="iconfont icon-file"/>`Question.java`:
+
+```java
+public static Query getQuestions(Database database) {
+  // 1
+  View view = database.getView("app/questions");
+  if (view.getMap() == null) {
+    // 2
+    view.setMap(new Mapper() {
+      @Override
+      // 3
+      public void map(Map<String, Object> document, Emitter emitter) {
+        // 4
+        if (document.get("type").equals("question")) {
+          emitter.emit(document.get("_id"), null);
+        }
+      }
+    }, "1");
+  }
+  Query query = view.createQuery();
+  return query;
+}
+```
+
+This method returns a query from a database View. Walking through the code:
+
+1. Request a database view named questions. This will create the view if it doesn’t exist.
+2. If the view does not already have a mapping, create one with a new `Mapper` object. The second parameter to `setMap` is a version number. If your code for the map changes in the future, the version number should be incremented as well.
+3. The `Mapper` object calls `map` for each document in the database.
+4. If the document type equals `question`, then emit the key-value pair for the view.
+
+
+### Querying and Displaying Data
+
+With the view now defined, you are ready to run a `Query` on it. The result of a query is an instance of `QueryEnumerator`, which provides a list of `QueryRow` objects, each one describing a single row from the view’s index.
+
+Add the following code to the end of the `onCreate` method in <FontIcon icon="iconfont icon-file"/>`HomeActivity.java`:
+
+```java
+// 1
+QueryEnumerator questions = null;
+try {
+  questions = Question.getQuestions(manager.database).run();
+} catch (CouchbaseLiteException e) {
+  e.printStackTrace();
+}
+
+// 2
+List<Question> data = new ArrayList<>();
+for (QueryRow question : questions) {
+  Document document = question.getDocument();
+  Question model = ModelHelper.modelForDocument(document, Question.class);
+  data.add(model);
+}
+
+// 3
+final HomeAdapter adapter = new HomeAdapter(data);
+mRecyclerView.setAdapter(adapter);
+```
+
+This code does the following:
+
+1. Runs the query and saves the result in a `questions` variable.
+2. Loops over the query rows and deserializes the `Question` model objects.
+3. Connects the questions to the RecyclerView
+
+Notice the call to `ModelHelper.modelForDocument`. Open <FontIcon icon="iconfont icon-file"/> `ModelHelper.java`, and take a look at `modelForDocument`. It uses the Jackson library to convert the properties in the question `QueryRow` object to the `Question` object.
+
+If you run the app, the screen will still be blank because the Recycler View isn’t drawing the rows. In <FontIcon icon="iconfont icon-folder"/>`adapter`/<FontIcon icon="iconfont icon-file"/>`HomeAdapter.java`, add the following code to `onBindViewHolder`:
+
+```java
+// 1
+Question question = mQuestions.get(position);
+
+// 2
+switch (question.getTag()) {
+  case "science":
+    holder.itemView.setBackgroundColor(Color.parseColor("#EC5766"));
+    break;
+  case "geography":
+    holder.itemView.setBackgroundColor(Color.parseColor("#FFC857"));
+    break;
+  case "android":
+    holder.itemView.setBackgroundColor(Color.parseColor("#63ADF2"));
+    break;
+  case "logic":
+    holder.itemView.setBackgroundColor(Color.parseColor("#86CD82"));
+}
+
+// 3
+holder.mQuestion.setText(question.getText());
+holder.mTag.setText(question.getTag());
+
+// 4
+holder.itemView.setOnClickListener(new View.OnClickListener() {
+  @Override
+  public void onClick(View v) {
+    if (mOnItemClickListener != null) {
+      mOnItemClickListener.OnClick(v, position);
+    }
+  }
+});
+```
+
+This code does the following:
+
+1. Retrieves the `question` object for the requested row position.
+2. Uses the category returned by `getTag` to set the background colors.
+3. Sets the content to display in the TextViews for the question text and category.
+4. Assigns an `onClick` listener to respond when the user taps a question.
+
+::: note Note
+
+Check out the [Recycler View](https://www.raywenderlich.com/126528/android-recyclerview-tutorial) tutorial if you need a refresher on using Recycler Views.
+
+:::
+
+Build and run your app; you should now see six questions on the home screen.
+
+![image03](https://koenig-media.raywenderlich.com/uploads/2016/07/image03.png)
+
+Well done! In the next section, you’ll add a row click handler to open the Question activity.
+
+::: note Note
+
+Run the same query using the Listener. The result has the same questions you see in the app. This lets you examine the details of each question document. The query link is __http://localhost:5984/quizzdroid/_design/app/_view/questions?include_docs=true__
+
+:::
 
 ---
 
