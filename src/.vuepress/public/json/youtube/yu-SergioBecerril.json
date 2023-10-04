@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/0Esl6flOQS-BlZiWf94Pu1tHJ3lEftCvwN_2vgKwGBwLrnZRkpVx1KJVjXDm9je7jY2u-O3V0w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DVWs2yMnYEg", "title": "👨🏻‍💻 Taller de iniciación iOS: Extreme App 👊🏽 | Sesión 1 de 3. Iníciate en el desarrollo de Apps 🔥" },
+    { "id": "0Ul4hxMGEj0", "title": "👨🏻‍💻 Taller básico iOS: Extreme App 👊🏽 | Sesión 2 de 3. Empieza a crear Apps de forma profesional 🔥" },
+    { "id": "p3-osr04GSM", "title": "📅 Aprende a crear una App iOS desde cero | Crea una aplicación de tareas con SwiftUI 🚀 1/4" },
     { "id": "xgmCjPG-HeI", "title": "🚀 Curso práctico iOS | Crea una App de BBDD de películas con MVVM y RxSwift - Xcode13 y Swift 5.5" }
   ]
 }

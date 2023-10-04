@@ -428,7 +428,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-cornell-appdev]: https://www.youtube.com/@CornellAppDev
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
 [yu-tech-gumbo]: https://www.youtube.com/@TechGumbo
-[yu-marie-poulin]: https://www.youtube.com/@MariePoulin
 [yu-go-cloud-architects]: https://www.youtube.com/@GoCloudArchitects
 [yu-seoulian]: https://www.youtube.com/@seoulian
 [yu-giuseppe-scaramuzzino]: https://www.youtube.com/@

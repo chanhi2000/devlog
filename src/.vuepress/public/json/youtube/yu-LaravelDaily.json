@@ -6,7 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "Ez1DzlT2yB8", "title": "Enums in Laravel: Example of &quot;Heavy&quot; Usage" },
+    { "id": "qQPF8wNeNOA", "title": "How we Use Tags and Aliases in LaravelDaily Search" },
+    { "id": "-sn_X-P89u4", "title": "Livewire v3 Kit: 43 Components + NEW Quill Editor" },
+    { "id": "nzD0Uy7VMPE", "title": "NEW Laravel Breeze 1.24 with Livewire SPA" },
+    { "id": "oyPMYC0ISTw", "title": "Genesis: New Laravel Starter Kit from \"The Next Generation\"" },
+    { "id": "Ez1DzlT2yB8", "title": "Enums in Laravel: Example of \"Heavy\" Usage" },
     { "id": "fZxHvDAfD38", "title": "Laravel: Multi-Step Validation with DB Transactions" },
     { "id": "hsgGQINIRzU", "title": "Laravel HasMany: Show Comma-Separated Children - 2 Ways" },
     { "id": "97mT6DflKzk", "title": "Laravel Jetstream: Easily Enable Terms and Policy with Markdown" }, 

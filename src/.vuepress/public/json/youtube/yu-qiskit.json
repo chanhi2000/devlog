@@ -2,17 +2,11 @@
   "channel": {
     "id": "qiskit",
     "name": "Qiskit",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MbxyM1WRigfFosBJ8hj1bX1Fn1Hmc4bmA0LRn47nlKby7am1HHq6JT4--xECIzfRnZVkqh-WraY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "M4EkW4VwhcI",
-      "title": "How to Install Qiskit — Programming on Quantum Computers Season 1 Ep 2"
-    }, {
-      "id": "a1NZC5rqQD8",
-      "title": "Quantum Pong — Programming on Quantum Computers Season 1 Ep 1"
-    }
+    { "id": "M4EkW4VwhcI", "title": "How to Install Qiskit — Programming on Quantum Computers Season 1 Ep 2" }, 
+    { "id": "a1NZC5rqQD8", "title": "Quantum Pong — Programming on Quantum Computers Season 1 Ep 1" }
   ]
 }
-
-

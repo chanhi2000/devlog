@@ -1498,5 +1498,10 @@
     "desc": "✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.",
     "officialSite": "https://trigger.dev",
     "topics": ["automation", "background-jobs", "events", "hacktoberfest", "integrations", "nextjs", "orchestration", "scheduler", "serverless"]
+  }, {
+    "repo": "openstatusHQ/openstatus",
+    "desc": "The open-source monitoring platform",
+    "officialSite": "https://openstatus.dev",
+    "topics": ["clerk", "drizzle-orm", "incident-management", "monitoring", "nextjs", "nextjs13", "observability", "on-call", "open-source", "shadcn-ui", "status-page", "tinybird", "turso"]
   }
 ]

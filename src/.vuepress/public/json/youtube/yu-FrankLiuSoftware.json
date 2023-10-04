@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "bYcMZOqtPcs", "title": "MVC in .NET 8 | Handle Requests with Controllers | Ep 5" },
+    { "id": "P8Xk50RGMiI", "title": "MVC in .NET 8 | Render HTML with Views | Ep 6" },
+    { "id": "rEOzUa2v2VM", "title": "MVC in .NET 8 | Pass Model class to views | Ep 8" },
     { "id": "D5xThA16nmM", "title": "MVC in .NET 8 | Why do we need a framework for web development | Ep 2" },
     { "id": "Ix2VE2xT54E", "title": "MVC in .NET 8 | Understand the MVC Pattern | Ep 3" },
     { "id": "ZAcQFLtwbPI", "title": "MVC in .NET 8 | Add Support for MVC Framework | Ep 4" },

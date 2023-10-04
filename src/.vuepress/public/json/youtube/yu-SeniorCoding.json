@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/7HRrj_MXepIwHax8lZiuicJIO4C-mjtFE25YX9kIPJZgHxezebzfFUFelKGyA7wR8LkcWpZd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "isqpE-E3Y-8", "title": "{자바스크립트}  - 블록 스코프와 콜백 함수의 이해" },
+    { "id": "dzMHHQl3Bms", "title": "{자바스크립트}  - strict mode의 이해" },
     { "id": "vlh-PBKWHdk", "title": "{MeetUp}  - Git Day (git 개념 총정리)" },
     { "id": "xTg3XFNVo7o", "title": "{풀스택실무}  - AWS 프리티어 무료서버 및 DB 사용하기 (EC2 & RDS)" }, 
     { "id": "44i8yJHxOnQ", "title": "{주말특강}  Javascript 상속에서의 prototype과 static 완벽 이해" }, 

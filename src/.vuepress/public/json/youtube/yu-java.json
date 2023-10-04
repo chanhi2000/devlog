@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/NXa3mghamiGzdoI90dcDlEs2pQlB1V1nfHG2ZQtrAcfdNxOFIrPq3j6mJBA_9oQa3v98oB2eG-A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6Zabfxuwsw0", "title": "JFR View Command" },
     { "id": "lnth19Kf-x0", "title": "Project Leyden - Capturing Lightning in a Bottle" },
     { "id": "4mPd2eL0wYQ", "title": "Java 21 API New Features #RoadTo21" },
     { "id": "kSjdZZsHM04", "title": "Java 21 Security Updates #RoadTo21" },

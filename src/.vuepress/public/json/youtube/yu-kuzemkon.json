@@ -2,12 +2,10 @@
   "channel": {
     "id": "kuzemkon",
     "name": "Yurii Kuzemko",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOS70zdYsJd3cElAS5o40-z_-uQUgFa-kc3LcZ7Qw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOS70zdYsJd3cElAS5o40-z_-uQUgFa-kc3LcZ7Qw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kafkbuwBGdp-esyy_E6C0kcqy7QWpwz_bkAHUfDaQCRPqjNCFCjyW84m7_8jna3Jo38YP1NV7vQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "NMmDR0MMnHE",
-      "title": "AWS ECS Fargate Tutorial"
-    }
+    { "id": "NMmDR0MMnHE", "title": "AWS ECS Fargate Tutorial" }
   ]
 }

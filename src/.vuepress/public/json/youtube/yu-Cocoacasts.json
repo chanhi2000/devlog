@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gJOegkb-qGqR_W8V5pIRxj4s9VCJZgSvDgGwer1zZGLoe_5SFeYgO3MtEg5qizu3uvpzNj0JLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "seDhzKyXr0g", "title": "Debugging Apps with Xcode 15: Exploring Xcode's Debugging Tools" },
+    { "id": "wYldJF-8fWA", "title": "Debugging Apps with Xcode 15: Debugging with Breakpoints" },
     { "id": "9r6n9J64wyk", "title": "How to Set Up In-App Purchases with RevenueCat" }, 
     { "id": "t1_MtL9sRro", "title": "Building a Modern Networking Layer in Swift: Creating an API Client" }, 
     { "id": "DtQ_IhSQT5M", "title": "Understanding Swift Memory Management: What Is Automatic Reference Counting (ARC)" }

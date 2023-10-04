@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "statisticsplaybook",
+    "name": "슬기로운통계생활",
+    "profile": "https://yt3.googleusercontent.com/JZafJzrgX6hbcZtAZEjJIcxnPuJwdTOB0ANnu-1FEsEnn02FHCQUfLdKHJUgLnzBwfzYhCe6cg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kahlcuVFRHy3CgrXwN97fVscd3HC8rnCOXa-Us7ifu7utBIGVoDmsF-l85fsuVidr7Np-RLXKUA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QyXbxURq810", "title": "데이터 분석 전문가 ADP 실기 수업소개 (출제 경향 및 공부 방법)" },
+    { "id": "uzr0AcbuNJQ", "title": "옵시디언 표 만들기 플러그인 - Advanced Tables" }
+  ]
+}

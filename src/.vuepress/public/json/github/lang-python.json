@@ -2808,5 +2808,30 @@
     "desc": "Experience macOS just like before",
     "officialSite": "https://dortania.github.io/OpenCore-Legacy-Patcher/",
     "topics": ["big-sur", "macos", "opencore", "patcher"]
+  }, {
+    "repo": "mit-han-lab/streaming-llm",
+    "desc": "Efficient Streaming Language Models with Attention Sinks",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "danielgross/localpilot",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Mayandev/where-is-douban250",
+    "desc": "🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。",
+    "officialSite": "https://mayandev.top/where-is-douban250",
+    "topics": ["bilibili", "douban", "movie"]
+  }, {
+    "repo": "arc53/DocsGPT",
+    "desc": "GPT-powered chat for documentation, chat with your documents",
+    "officialSite": "https://docsgpt.arc53.com",
+    "topics": ["ai", "gpt", "hacktoberfest", "hacktoberfest2023", "natural-language-processing", "python", "react", "web-app"]
+  }, {
+    "repo": "Pennyw0rth/NetExec",
+    "desc": "The Network Execution Tool",
+    "officialSite": "https://netexec.wiki",
+    "topics": ["active-directory", "hacking", "infosec", "pentest", "pentest-tool", "pentest-tools", "pentesting", "python", "python3", "red-team", "security", "security-tools"]
   }
 ]

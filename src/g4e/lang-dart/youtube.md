@@ -119,6 +119,14 @@ tags: ["dart", "flutter"]
 
 ---
 
+## Flutter Mapp
+
+<MyYouTubeItems jsonName="yu-FlutterMapp" />
+
+<!-- Flutter Mapp -->
+
+---
+
 ## Flutter
 
 <MyYouTubeItems jsonName="yu-flutterdev" />

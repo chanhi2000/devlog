@@ -174,5 +174,10 @@
     "desc": "🤪 A list of funny and tricky JavaScript examples",
     "officialSite": "http://bit.ly/wtfjavascript",
     "topics": ["book", "handbook", "javascript", "js", "learning", "notes", "specification", "wtf"]
+  }, {
+    "repo": "ossamamehmood/Hacktoberfest2023",
+    "desc": "Hacktoberfest 2023 OPEN FIRST Pull Request - FREE T-SHIRT🎉",
+    "officialSite": "https://hacktoberfest.com",
+    "topics": ["awesome", "contributions-welcome", "digitalocean", "first-contribution", "first-contributions", "firstcontributions", "firstpullrequest", "freecodecamp", "freetshirt", "gift", "github", "hacktoberfest", "hacktoberfest-accepted", "hacktoberfest2020", "hacktoberfest2023", "newbiefriendly", "opensource", "ossamamehmood", "pull-request", "pull-requests"]
   }
 ]

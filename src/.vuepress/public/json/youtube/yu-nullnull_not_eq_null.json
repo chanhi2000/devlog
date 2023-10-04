@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/VcrjriygyYu8arXpagf9kXTOZzJI73fg9Vhp62YHPFM2lh07_65LKf87kJCKzOHfUYBnEg5l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tLOUe3GYDf8", "title": "콘솔(Console)이란 무엇일까?" },
+    { "id": "h31lUbLhZdA", "title": "독하게 시작하는 C 강의오픈 안내" },
     { "id": "GJwz6CfyrLE", "title": "C/C++ 임베디드 시스템 개발사 면접 질문 2가지에 대한 문의와 주관적 답변" }, 
     { "id": "w4Ljwcubq9g", "title": "보안전문가를 희망하는 고스펙 닌자꼬부기님 진로 관련 상담에 대한 답변" }, 
     { "id": "-DI0mHOB5Qc", "title": "당근마켓 백엔드 개발자 영입정보에 대한  C/C++ 개발자의 추측성 해설" }, 

@@ -20,11 +20,11 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 
 ---
 
-## 노마드버드-AI 파이프라인
+## N잡 학교
 
-<MyYouTubeItems jsonName="yu-nomadbird23" />
+<MyYouTubeItems jsonName="yu-njob_school" />
 
-<!-- 노마드버드-AI 파이프라인 -->
+<!-- N잡 학교 -->
 
 ---
 

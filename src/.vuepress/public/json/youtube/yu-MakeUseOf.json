@@ -2,12 +2,10 @@
   "channel": {
     "id": "MakeUseOf",
     "name": "MakeUseOf",
-    "profile": "https://yt3.googleusercontent.com/JUZj6zJGzOqyRDLQyL-sPnUgsOGkp1F5rXTo6N9dpcJj-JkivNCbCpfpTNKOeiQrtKLKNOJ6zg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/JUZj6zJGzOqyRDLQyL-sPnUgsOGkp1F5rXTo6N9dpcJj-JkivNCbCpfpTNKOeiQrtKLKNOJ6zg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Fcmeq_iCC4Zrg0BWDPiYLDOfq0Rk24JMcX5LjAXCpF8Od3114Oee5NnJBD0fFYlWa3Sei7cI=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "6pGEk2dQnss",
-      "title": "Introduction to Webcam Effects with Processing (Java)"
-    }
+    { "id": "6pGEk2dQnss", "title": "Introduction to Webcam Effects with Processing (Java)" }
   ]
 }

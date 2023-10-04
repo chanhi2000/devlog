@@ -6,19 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/B2f9rVlZLRUaYgdurq4XP_rKGNk-ZoWopPl-_Q417GNGV6ItNmvrWhoh6l_GUSaRmANEskwb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "2-7JpxnrHv8",
-      "title": "Notion for Journaling + Tracking"
-    }, {
-      "id": "BzzGC-tobC4", 
-      "title": "How we manage our online course using Notion - Vancouver Meet up"
-    }, {
-      "id": "u8AN_xGVuQ0", 
-      "title": "Recurring Tasks in Notion: Updated"
-    }, {
-      "id": "rAEAsT35TjY", 
-      "title": "Recurring Tasks with Notion"
-    }
+    { "id": "Fg3jkghMP74", "title": "Notion Formulas 2.0 - Live Chat with Notion's Formula Engineers + Demos!" },
+    { "id": "2-7JpxnrHv8", "title": "Notion for Journaling + Tracking" }, 
+    { "id": "BzzGC-tobC4", "title": "How we manage our online course using Notion - Vancouver Meet up" }, 
+    { "id": "u8AN_xGVuQ0", "title": "Recurring Tasks in Notion: Updated" }, 
+    { "id": "rAEAsT35TjY", "title": "Recurring Tasks with Notion" }
   ]
 }
 

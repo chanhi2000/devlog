@@ -6,11 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/gEUlICP3CaaLmPvgyx3rPY7X7_ForGRKbiM3IL8o707DRmBoI6ILk5jrnC3x2wHNLKefEEU0Dg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "P9erVTnyPbw", "title": "Python Project Tutorial - How to Create a rock Paper Scissors Game Using Tkinter [with source code]" },
+    { "id": "cXasP_zhmb4", "title": "Java Project Tutorial - Make Login and Register and Dashboard Form Using NetBeans And MySQL Database" },
     { "id": "AP526DaMpkU", "title": "Java Project Tutorial - How To Design Analog Clock Form In Java Netbeans" },
     { "id": "hWkqRH2eiS0", "title": "Java Project Tutorial - Make JTable Search and Highlight Cell Step by Step Using NetBeans" },
     { "id": "INtpnoNNsKs", "title": "C# - How To Create Images SlideShow From MySQL Database In C# [with source code]" },
     { "id": "zRECf4uz-DE", "title": "PHP Tutorial - How To Draw Chess Board In PHP [ With Source Code ]" },
-    { "id": "KdVjhiGzNwk", "title": "JAVA - How To Create Images SlideShow From MySQL Database In Java NetBeans [with source code]" }
+    { "id": "KdVjhiGzNwk", "title": "JAVA - How To Create Images SlideShow From MySQL Database In Java NetBeans [with source code]" },
     { "id": "KDxepjqSSgU", "title": "C# - How To Design Form In C# Using Panels [ with source code ]"  }, 
     { "id": "_YiqSFBPkWs", "title": "C# - How to Calculate Percentage In MySQL DataBase Using C# [ with source code ]"  }, 
     { "id": "LWf7NFVwf-I", "title": "JavaScript - Creating a Digital Clock using HTML, CSS, and JavaScript [With Source Code]"  }, 

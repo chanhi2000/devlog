@@ -6,12 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/AQuHeePf5scUCjigJm3vmWJAV6GOtJlkiqt7cimootE0_U7hk9Ym8KZSyH-XdW95opiLZzMimg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "9WrVdluFfpo",
-      "title": "Project Orleans and the distributed database future with Dr. Philip Bernstein | Podcast"
-    }, {
-      "id": "oZQ_c89HFU0",
-      "title": "Installing Microsoft SEAL on Windows"
-    }
+    { "id": "9WrVdluFfpo", "title": "Project Orleans and the distributed database future with Dr. Philip Bernstein | Podcast" }, 
+    { "id": "oZQ_c89HFU0", "title": "Installing Microsoft SEAL on Windows" }
   ]
 }

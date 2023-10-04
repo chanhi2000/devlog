@@ -6,16 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/G4FcQmqd_tgEh987fJ1HOu8YhiQ4w6SZfFoT8h7gXFAIMroPz-e8N3jqmySgz3v4jiOhXZdxrw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "O7fZ2ZvEKoA",
-      "title": "누구나 따라할 수 있는 SwiftUI로 메모 앱 만들기 (Xcode 13 버전)"
-    }, {
-      "id": "5JOBdLE51Ak",
-      "title": "RxSwift 6, MVVM으로 메모 앱 만들기 #4 (Xcode 13)"
-    }, {
-      "id": "UEhgN3QC0Fw",
-      "title": "RxSwift 6, MVVM으로 메모 앱 만들기 #5 (Xcode 13)"
-    }
+    { "id": "O7fZ2ZvEKoA", "title": "누구나 따라할 수 있는 SwiftUI로 메모 앱 만들기 (Xcode 13 버전)" }, 
+    { "id": "5JOBdLE51Ak", "title": "RxSwift 6, MVVM으로 메모 앱 만들기 #4 (Xcode 13)" }, 
+    { "id": "UEhgN3QC0Fw", "title": "RxSwift 6, MVVM으로 메모 앱 만들기 #5 (Xcode 13)" }
   ]
 }
 

@@ -6,9 +6,6 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "rdPysEkrUWo",
-      "title": "RxSwift 4번째 시간(1)"
-    }
+    { "id": "rdPysEkrUWo", "title": "RxSwift 4번째 시간(1)" }
   ]
 }

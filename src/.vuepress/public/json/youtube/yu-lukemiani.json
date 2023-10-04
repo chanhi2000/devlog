@@ -2,16 +2,12 @@
   "channel": {
     "id": "lukemiani",
     "name": "Luke Miani",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOoB3X5MEWJ7x7MQMNdftmwdqAw1z_o-0eQIThW5A=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa6R59MNMqmmTT0HIh8zzuKs2R3SprdIAjgg8Pr7w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hhd5OrZUbVT9w_LoaZnPbdmSwUJ9KSC6jhseEO-HpDBrPxixRs-_HBib6haUwqftaKXLurPW=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "13Ant7h78BA",
-      "title": "Developer Transition Kit: EXCLUSIVE review and teardown!"
-    }, {
-      "id": "rCFstE7xE88",
-      "title": "How well does macOS Catalina run on minimum requirements?"
-    }
+    { "id": "13Ant7h78BA", "title": "Developer Transition Kit: EXCLUSIVE review and teardown!" }, 
+    { "id": "rCFstE7xE88", "title": "How well does macOS Catalina run on minimum requirements?" }
   ]
 }
 

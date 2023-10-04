@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/8DWyCDTkh3XnzeEdKRLZ6-77PGgdODPre3z0vIGHZhufSK21OhSG0RzvAA3nkhKJ0iqLep1d=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bx3U10UHCnU", "title": "Wrap up: our SwiftData project is complete – SwiftData Starter Project 8/8" },
+    { "id": "m1H7Q7EM_6Y", "title": "Working with relationships – SwiftData Starter Project 7/8" },
+    { "id": "VyCLfLbA-s0", "title": "Filtering the results from a SwiftData query – SwiftData Starter Project 6/8" },
+    { "id": "mqLDroFreFE", "title": "Sorting query results – SwiftData Starter Project 5/8" },
+    { "id": "w4BQnVn7H6M", "title": "Creating, editing, and deleting model objects – SwiftData Starter Project 4/8" },
+    { "id": "Saw_sZWa4aQ", "title": "Querying SwiftData objects in SwiftUI – SwiftData Starter Project 3/8" },
+    { "id": "kiFQevfpuKQ", "title": "Defining a data model with SwiftData – SwiftData Starter Project 2/8" },
+    { "id": "FEKCAzPAtpg", "title": "Introduction – SwiftData Starter Project 1/8" },
     { "id": "l7eut-nYIUc", "title": "Level up your SwiftUI – Easy improvements you can apply to any SwiftUI app" },
     { "id": "EDd6Hr_F99o", "title": "A SwiftUI tip everyone needs to know: Automatic Grammar Agreement" },
     { "id": "n8-wTpiuZwE", "title": "Vision Pro from a Developer's Perspective" },

@@ -2,28 +2,15 @@
   "channel": {
     "id": "pluralsight",
     "name": "Pluralsight",
-    "profile": "https://yt3.googleusercontent.com/_u2s6hrHOWFiV-W5Eg3k47L6eooJ86lB-AuHTETyJJZbnp5jK4o0eIBAWx9P2ZQ3OdJGYc3q=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/_u2s6hrHOWFiV-W5Eg3k47L6eooJ86lB-AuHTETyJJZbnp5jK4o0eIBAWx9P2ZQ3OdJGYc3q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WdIWDa38qpK8De9JbKiO_382aFtx9yxKlPflgPlBglEd6W0_KBPvXLS6bHrqlg5S9S1JM8amjA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "IsjbXajoxes",
-      "title": "Let's build a game in JavaScript!"
-    }, {
-      "id": "akrQr15iBt4",
-      "title": "Let's Build a Game in JavaScript"
-    }, {
-      "id": "mw5YuPw6A1c",
-      "title": "Backend development for frontend engineers"
-    }, {
-      "id": "-g2Dat7z2WQ",
-      "title": "Webinar: Angular patterns & best practices with John Papa"
-    }, {
-      "id": "mhFPVhNNI3Y",
-      "title": "Let's Build a Game in JavaScript! All Hands on Tech Live"
-    }, {
-      "id": "5TKeYLW2cq4",
-      "title": "Let's Build a JavaScript Game!"
-    }
+    { "id": "IsjbXajoxes", "title": "Let's build a game in JavaScript!" }, 
+    { "id": "akrQr15iBt4", "title": "Let's Build a Game in JavaScript" }, 
+    { "id": "mw5YuPw6A1c", "title": "Backend development for frontend engineers" }, 
+    { "id": "-g2Dat7z2WQ", "title": "Webinar: Angular patterns & best practices with John Papa" }, 
+    { "id": "mhFPVhNNI3Y", "title": "Let's Build a Game in JavaScript! All Hands on Tech Live" }, 
+    { "id": "5TKeYLW2cq4", "title": "Let's Build a JavaScript Game!" }
   ]
 }
-

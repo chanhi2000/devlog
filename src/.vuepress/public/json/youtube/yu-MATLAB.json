@@ -2,12 +2,10 @@
   "channel": {
     "id": "MATLAB",
     "name": "MATLAB",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMC8gEUGImGlUiowkgfcHmCGHvkNtn2yx94ZZPGjg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMC8gEUGImGlUiowkgfcHmCGHvkNtn2yx94ZZPGjg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DlyyIE4rxZjE6FKw535gUoxBceepVskadZtHylNRWoaaAX8EuQ7xkYAUUa8cjEfpahn0AV2PjA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "XOkn-zxhwc4",
-      "title": "Object-Oriented Programming in MATLAB | Master Class with Loren Shure"
-    }
+    { "id": "XOkn-zxhwc4", "title": "Object-Oriented Programming in MATLAB | Master Class with Loren Shure" }
   ]
 }

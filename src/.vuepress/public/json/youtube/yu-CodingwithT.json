@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DR4Vuu_VSZA", "title": "Create a powerful Flutter Ecommerce App with Firebase in 2023 | Complete UI and Backend" },
+    { "id": "QDhaK7L09qI", "title": "Efficient Folder Structures for Large Flutter Apps | Feature-First vs. Module-First Approach" },
+    { "id": "3StjTeWs-ZQ", "title": "Mastering Flutter: Essential Utilities, Helper Functions, Constants and much more" },
     { "id": "WSJHAsnot54", "title": "Create React native video Player | React Native Video Player" },
     { "id": "n_W99oFIF8w", "title": "Onboarding Screen Android Studio  - Animation in Android Studio - Part 2- Sizzling Bites" }
  ]
