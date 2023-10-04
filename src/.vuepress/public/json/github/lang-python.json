@@ -2803,5 +2803,10 @@
     "desc": "Streamlit — A faster way to build and share data apps.",
     "officialSite": "https://streamlit.io",
     "topics": ["data-analysis", "data-science", "data-visualization", "deep-learning", "developer-tools", "machine-learning", "python", "streamlit"]
+  }, {
+    "repo": "dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "officialSite": "https://dortania.github.io/OpenCore-Legacy-Patcher/",
+    "topics": ["big-sur", "macos", "opencore", "patcher"]
   }
 ]

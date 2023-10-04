@@ -44,6 +44,11 @@
     "desc": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
     "officialSite": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
     "topics": ["algorithms", "competitive-programming", "data-structures", "faang-interview", "faang-preparation", "faang-questions", "google-interview", "interview-preparation", "java", "leetcode", "leetcode-java", "leetcode-solutions", "math"]
+  }, {
+    "repo": "TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "officialSite": "",
+    "topics": ["algorithm", "algorithm-challenges", "algorithms", "algorithms-datastructures", "data-structures", "hacktoberfest", "java", "search", "sort", "sorting-algorithms"]
   }
 ]
 

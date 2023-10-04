@@ -1534,5 +1534,30 @@
     "desc": "expose yourself",
     "officialSite": "https://localtunnel.me",
     "topics": []
-  }  
+  }, {
+    "repo": "ToolJet/ToolJet",
+    "desc": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "officialSite": "https://tooljet.com",
+    "topics": ["docker", "hacktoberfest", "internal-applications", "internal-project", "internal-tool", "internal-tools", "javascript", "kubernetes", "low-code", "low-code-development-platform", "low-code-framework", "nestjs", "no-code", "nodejs", "openai", "reactjs", "self-hosted", "typeorm", "typescript", "web-development-tools"]
+  }, {
+    "repo": "Mazars-Tech/AD_Miner",
+    "desc": "AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jellyfin/jellyfin-web",
+    "desc": "Web Client for Jellyfin",
+    "officialSite": "https://jellyfin.org",
+    "topics": ["hacktoberfest", "jellyfin", "media", "videos"]
+  }, {
+    "repo": "usebruno/bruno",
+    "desc": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+    "officialSite": "https://www.usebruno.com",
+    "topics": ["api-client", "git", "graphql-client", "opensource"]
+  }, {
+    "repo": "fastbootstrap/atlassian-design-for-bootstrap",
+    "desc": "Atlassian Design for Bootstrap 5. Beautifully crafted Bootstrap components ready for your next project.",
+    "officialSite": "https://fastbootstrap.com",
+    "topics": ["atlassian-design", "bootstrap", "bootstrap5", "material-design", "theme-ui", "uikit"]
+  }
 ]

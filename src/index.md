@@ -78,6 +78,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://app.eraser.io">♟️The Whiteboard for Engineering Teams</a></li>
       <li><a target="_blank" href="https://diagrams.mingrammer.com">Diagrams- Diagram as Code</a></li>
       <li><a target="_blank" href="https://gpte.ai">Discover the latest tools and trends in AI 🔮</a></li>
+      <li><a target="_blank" href="https://www.jsongenerator.io">JSON Generator</a></li>
     </ul>
   </div>
 </div>
@@ -91,3 +92,4 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   
 <DevGithubItems />
 <DevHackerNewsItems />
+<!-- <DevGeekNewsItems /> -->

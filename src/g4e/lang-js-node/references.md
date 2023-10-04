@@ -535,6 +535,13 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Draggable objects](https://www.redblobgames.com/making-of/draggable)
 
+---
+
+## Jamie Magee
+
+- [Honey, I shrunk the npm package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package)
+
+---
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

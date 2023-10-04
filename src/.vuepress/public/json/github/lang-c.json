@@ -469,5 +469,10 @@
     "desc": "An universal Office \"activation\" hook with main focus of enabling full functionality of subscription editions",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Flipper-XFW/Xtreme-Firmware",
+    "desc": "The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!",
+    "officialSite": "https://flipper-xtre.me",
+    "topics": ["cfw", "custom-firmware", "flipper", "flipper-firmware", "flipper-zer0", "flipper-zero", "flipper-zero-firmware", "flipperzero"]
   }
 ]

@@ -216,7 +216,7 @@ export default {
     },
     async fetchHackernewsData() {
       try {
-        const res = await fetch("https://devo.ams3.digitaloceanspaces.com/hackernews.json");
+        const res = await fetch("https://devo-platforms.burakkarakan.com/hackernews.json");
         return await res.json() ?? [];
       } catch (e) {
         console.error(`failed to fetch data`, e);
@@ -225,7 +225,7 @@ export default {
     },
     async fetchGithubData() {
       try {
-        const res = await fetch("https://devo.ams3.digitaloceanspaces.com/github.json");
+        const res = await fetch("https://devo-platforms.burakkarakan.com/github.json");
         return await res.json() ?? [];
       } catch (e) {
         console.error(`failed to fetch data`, e);
@@ -251,7 +251,7 @@ export default {
       }
 
       if (_fullName.split('/').length != 2) {
-        console.warn('invalid fullName ... ${_fullName}')
+        console.warn(`invalid fullName ... ${_fullName}`)
         return
       }
       

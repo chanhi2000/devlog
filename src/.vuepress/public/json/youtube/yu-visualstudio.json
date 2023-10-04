@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/LK42VijKwiENd5dKS4cYv4wKCoUzCVP9W2PZ-GEv_FQBa0k64JaoZV9F142MfXvP9M6Xp2bq=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "getKWBWZGto", "title": "Visual Studio Toolbox Live - Building and Using gRPC Services" },
     { "id": "7NjTIBezZl0", "title": "Visual Studio Toolbox Live - C# Productivity in VS Code with C# Dev Kit" },
     { "id": "urI8_beoziE", "title": "10 Time-Saving Tips in Visual Studio 2022 (with Tim Corey)" },
     { "id": "fPurmWtILCw", "title": "Building Power Apps with .NET & Azure API Management - End-to-End" }, 

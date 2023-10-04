@@ -142,6 +142,12 @@ description: 🐋Docker > 📚References
 
 ---
 
+## gpk blog
+
+- [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik)
+
+---
+
 ## Misc
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)

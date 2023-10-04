@@ -160,6 +160,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## ResObscura
+
+- [Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
+
+---
+
 ## Clien
 
 - [[AI] 코드 인터프리터(Code Interpreter) 활용 사례들을 정리해봤습니다.](https://www.clien.net/service/board/lecture/18180121)

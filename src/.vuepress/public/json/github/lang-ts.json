@@ -1121,9 +1121,9 @@
     "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"]
   }, {
     "repo": "novuhq/novu",
-    "desc": "The open-source notification infrastructure with fully functional embedded notification center",
+    "desc": "🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀",
     "officialSite": "https://novu.co",
-    "topics": []
+    "topics": ["communication", "css", "email", "hacktoberfest", "hacktoberfest-accepted", "html", "javascript", "nodejs", "notification-center", "notifications", "push-notifications", "react", "reactjs", "sms", "transactional", "typescript"]
   }, {
     "repo": "kamranahmedse/driver.js",
     "desc": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page",
@@ -1478,5 +1478,25 @@
     "desc": "Generative fill in 3D.",
     "officialSite": "https://fill3d.ai",
     "topics": ["3d-rendering", "fxnai", "generative-ai", "generative-fill"]
+  }, {
+    "repo": "appwrite/appwrite",
+    "desc": "Build like a team of hundreds_",
+    "officialSite": "https://appwrite.io",
+    "topics": ["android", "apple", "appwrite", "baas", "backend", "backend-as-a-service", "docker", "firebase", "flutter", "hacktoberfest", "ios", "javascript", "self-hosted", "selfhosted", "serverless", "swift", "tools", "web"]
+  }, {
+    "repo": "wasp-lang/wasp",
+    "desc": "The fastest way to develop full-stack web apps with React & Node.js.",
+    "officialSite": "https://wasp-lang.dev",
+    "topics": ["compiler", "hacktoberfest", "haskell", "javascript", "node", "prisma", "programming-language", "react", "wasp", "web-app"]
+  }, {
+    "repo": "joschan21/quill",
+    "desc": "Quill - A Modern SaaS-Platform Built With Next.js 13",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "triggerdotdev/trigger.dev",
+    "desc": "✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.",
+    "officialSite": "https://trigger.dev",
+    "topics": ["automation", "background-jobs", "events", "hacktoberfest", "integrations", "nextjs", "orchestration", "scheduler", "serverless"]
   }
 ]

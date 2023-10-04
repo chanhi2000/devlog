@@ -6,11 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/ncjmh1z8Y8eXiUXHsSNQ4U0j3B02_D7TnFoWPjUyahPTmgfnPN7gmcZVlb0swdUM_y5rK8H0DA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "x7Pj9BbdPQ4", "title": "Realtime Java and AI #7" }
+    { "id": "K8ykmHBxUZY", "title": "Cracking the Realtime AI Java code with Deepak Kumar of Doc-E" },
+    { "id": "x7Pj9BbdPQ4", "title": "Realtime Java and AI #7" },
     { "id": "hx6r_BWmta0", "title": "Build an E-commerce Application with NoSQL & React" }, 
     { "id": "bFEwttUD2aE", "title": "Build a Netflix Clone with React and NoSQL Database" }, 
     { "id": "WkdfILAx-4c", "title": "Performance Tuning for Apache Pulsar Kubernetes Deployments" }, 
-    { "id": "_vP6LR_TdtM", "title": "Build the reference Spring Pet Clinic application with Apache Cassandra™" }, 
+    { "id": "_vP6LR_TdtM", "title": "Build the reference Spring Pet Clinic application with Apache Cassandra™" },
     { "id": "GddqfK8JubA", "title": "Cloud-Native Workshop: Apache Cassandra™ meets Kubernetes" }, 
     { "id": "bU5Br6UeTvw", "title": "Build Microservices Apache Cassandra™ with Spring Data" }, 
     { "id": "_FlZXkMwDak", "title": "Building Reactive applications withSpring Framework [APAC]" }, 
@@ -23,6 +24,3 @@
     { "id": "DnzzapctOeQ", "title": "Build a Netflix Clone with GraphQL and React!" }
   ]
 }
-
-
-

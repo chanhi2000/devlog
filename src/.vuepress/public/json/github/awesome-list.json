@@ -441,7 +441,7 @@
     "topics": ["docker", "kubernetes", "aws", "devops", "cloud", "azure", "containers", "gcp", "awesome-list", "devops-tools"]
   }, {
     "repo": "EbookFoundation/free-programming-books",
-    "desc": ":books: Freely available programming books",
+    "desc": "📚 Freely available programming books",
     "officialSite": "https://ebookfoundation.github.io/free-programming-books/",
     "topics": ["books", "education", "hacktoberfest", "list", "resource"]
   }, {

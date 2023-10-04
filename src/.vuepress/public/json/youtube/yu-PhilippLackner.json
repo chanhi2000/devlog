@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EzC-FXeZiIk", "title": "How to Build & Publish An Android Library" },
+    { "id": "XfYlRn_Jy1g", "title": "How to Create a Lazy Column With Categories in Jetpack Compose" },
+    { "id": "kFWmL5opJNk", "title": "How to Build a Custom Gradle Plugin to Share Project Config - Multi-Module Architecture" },
     { "id": "WVhgUGyUnhQ", "title": "THIS New Tool Strongly Speeds Up Your Gradle Builds" },
     { "id": "9r4st6dmyNE", "title": "Swipeable Tab Rows - UX With Material3" },
     { "id": "Bs0oGhZEqpk", "title": "The ONLY Right Way to Document Your Code" },
@@ -26,7 +29,7 @@
     { "id": "vj1ZdUfPlJM", "title": "Resources & Qualifiers - Android Basics 2023" },
     { "id": "YZL-_XJSClc", "title": "Foreground Services - Android Basics 2023" },
     { "id": "XWSzbMnpAgI", "title": "MVI Compose Multiplatform Contacts List App With Photos (iOS & Android) - KMM Tutorial" },
-    { "id": "IVHZpTyVOxU", "title": "Content Providers - Android Basics 2023" }
+    { "id": "IVHZpTyVOxU", "title": "Content Providers - Android Basics 2023" },
     { "id": "FIEnIBq7Ups", "title": "Full Guide to Nested Navigation Graphs in Jetpack Compose" }, 
     { "id": "bhrN7yFG0D4", "title": "How to Build a Home Screen Widget in Jetpack Compose with Glance" }, 
     { "id": "ro3a-GmaLqE", "title": "How to Build a Swipeable Image Slider in Jetpack Compose - Android Studio Tutorial" }, 

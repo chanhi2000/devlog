@@ -34,7 +34,6 @@ color: rgba(22, 25, 35, 0.2)
 
 This chapter focuses on solving problems which depend upon the contents of two or more files. These are usually based on comparing records and fields. Sometimes, record number plays a role too. You'll also learn about the `getline` built-in function.
 
-
 ::: info
 
 The [<FontIcon icon="iconfont icon-github"/> example_files](https://github.com/learnbyexample/learn_gnuawk/tree/master/example_files) directory has all the files used in 
@@ -270,5 +269,280 @@ awk -v OFS='\t' 'NR==FNR{r[$1]=$2; next}
 
 :::
 
+---
+
+## `getline`
+
+As the name indicates, the `getline` function allows you to read a line from a file on demand. This is easiest to use when you need something based on line numbers. The following example shows how you can replace the `m`th line from a file with the `n`th line from another file. There are many syntax variations with `getline`, here the line read is saved in a variable.
+
+::: tabs
+
+@tab:active Case 1
+
+return value handling is not shown here, but should be done ideally
+
+```sh
+awk -v m=3 -v n=2 'BEGIN{while(n-- > 0) getline s < "greeting.txt"}
+                   FNR==m{$0=s} 1' table.txt
+# brown bread mat hair 42
+# blue cake mug shirt -7
+# Have a nice day
+```
+
+:::
+
+Here's an example where two files are processed simultaneously. In this case, the return value of `getline` is also used. It will be `1` if the line was read successfully, `0` if there's no more input to be read as end of file has already been reached and `-1` if something went wrong. The `ERRNO` special variable will have the error details.
+
+::: tabs
+
+@tab:active Case 1
+
+print line from <FontIcon icon="iconfont icon-file"/> `greeting.txt` if the last column of the corresponding line from <FontIcon icon="iconfont icon-file"/> `table.txt` is a positive number
+
+```sh
+awk -v file='table.txt' '(getline line < file)==1{n=split(line, a);
+                         if(a[n]>0) print}' greeting.txt
+# Hi there
+# Good bye
+```
+
+:::
+
+If a file is passed as an argument to the `awk` command that cannot be opened, you get an error. For example:
+
+::: tabs 
+
+@tab:active Case 1
+
+```sh
+awk '{print $2}' xyz.txt
+# awk: fatal: cannot open file 'xyz.txt' for reading: No such file or directory
+```
+
+:::
+
+It is recommended to always check for the return value when using `getline` or perhaps use techniques from the previous sections to avoid `getline` altogether.
+
+::: tabs 
+
+@tab:active Case 1
+
+<FontIcon icon="iconfont icon-file"/> `xyz.txt` doesn't exist, but output doesn't show something went wrong
+
+```sh
+awk '{getline line < "xyz.txt"; print $NF, line}' table.txt
+# 42 
+# -7 
+# 3.14 
+```
+
+@tab Case 2
+
+```sh
+awk -v file='xyz.txt' '{ e=(getline line < file);
+                         if(e<0){print file ": " ERRNO; exit}
+                         print $NF, line }' table.txt
+# xyz.txt: No such file or directory
+```
+
+:::
+
+::: info 
+
+See [gawk manual: getline](https://www.gnu.org/software/gawk/manual/gawk.html#Getline) for details, especially about corner cases and errors. See also [awk.freeshell: getline caveats](http://awk.freeshell.org/AllAboutGetline).
+
+:::
+
+---
+
+## Summary
+
+This chapter discussed a few cases where you need to compare contents between two files. The `NR==FNR` trick is handy for such cases. You also saw a few examples with the `getline` function.
+
+Next chapter will discuss how to handle duplicate contents.
+
+---
+
+## Exercises
+
+
+::: info
+
+The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learnbyexample/learn_gnuawk/tree/master/exercises) directory has all the files used in this section.
+
+:::
+
+### Exercise 1
+
+Use the contents of <FontIcon icon="iconfont icon-file"/> `match_words.txt` file to display matching lines from <FontIcon icon="iconfont icon-file"/> `jumbled.txt` and <FontIcon icon="iconfont icon-file"/> `sample.txt`. The matching criteria is that the second word of lines from these files should match the third word of lines from <FontIcon icon="iconfont icon-file"/> `match_words.txt`.
+
+```sh
+cat match_words.txt
+# %whole(Hello)--{doubt}==ado==
+# just,\joint*,concession<=nice
+```
+
+
+::: tabs
+
+@tab:active Question
+
+'concession' is one of the third words from  <FontIcon icon="iconfont icon-file"/>'`match_words.txt`' and second word from  <FontIcon icon="iconfont icon-file"/> '`jumbled.txt`'
+
+```sh
+awk ##### add your solution here
+# wavering:concession/woof\retailer
+# No doubt you like it too
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 2
+
+Interleave the contents of <FontIcon icon="iconfont icon-file"/> `secrets.txt` with the contents of a file passed via the `-v` option as shown below.
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk -v f='table.txt' ##### add your solution here
+# stag area row tick
+# brown bread mat hair 42
+# ---
+# deaf chi rate tall glad
+# blue cake mug shirt -7
+# ---
+# Bi tac toe - 42
+# yellow banana window shoes 3.14
+# ---
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 3
+
+The file <FontIcon icon="iconfont icon-file"/> `search_terms.txt` contains one search string per line, and these terms have no regexp metacharacters. Construct an `awk` command that reads this file and displays the search terms (matched case insensitively) that were found in every file passed as the arguments after <FontIcon icon="iconfont icon-file"/> `search_terms.txt`. Note that these terms should be matched anywhere in the line (so, don't use word boundaries).
+
+```sh
+cat search_terms.txt
+# hello
+# row
+# you
+# is
+# at
+```
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+##file list## search_terms.txt jumbled.txt mixed_fs.txt secrets.txt table.txt
+# at
+# row
+
+awk ##### add your solution here
+##file list## search_terms.txt addr.txt sample.txt
+# is
+# you
+# hello
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 4
+
+Display lines from <FontIcon icon="iconfont icon-file"/> `scores.csv` by matching the first field based on a list of names from the <FontIcon icon="iconfont icon-file"/> `names.txt` file. Also, change the output field separator to a space character.
+
+```sh
+cat names.txt
+# Lin
+# Cy
+# Ith
+```
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Lin 78 83 80
+# Cy 97 98 95
+# Ith 100 100 100
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+### Exercise 5 
+
+What's the default value of the special variable `SUBSEP`? Where is it commonly used?
+
+### Exercise 6
+
+The <FontIcon icon="iconfont icon-file"/> `result.csv` file has three columns — name, subject and mark. The <FontIcon icon="iconfont icon-file"/> `criteria.txt` file has two columns — name and subject. Match lines from <FontIcon icon="iconfont icon-file"/> `result.csv` based on the two columns from <FontIcon icon="iconfont icon-file"/> `criteria.txt` provided the mark column is greater than 80.
+
+```sh
+cat result.csv
+# Amy,maths,89
+# Amy,physics,75
+# Joe,maths,79
+# John,chemistry,77
+# John,physics,91
+# Moe,maths,81
+# Ravi,physics,84
+# Ravi,chemistry,70
+# Yui,maths,92
+# 
+cat criteria.txt
+# Amy maths
+# John chemistry
+# John physics
+# Ravi chemistry
+# Yui maths
+```
+
+::: tabs
+
+@tab:active Question
+
+```sh
+awk ##### add your solution here
+# Amy,maths,89
+# John,physics,91
+# Yui,maths,92
+```
+
+@tab Solution
+
+```sh
+```
+
+:::
+
+
+---
 
 <TagLinks/>

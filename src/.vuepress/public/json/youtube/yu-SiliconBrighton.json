@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/iiK6gL3x34s6W7Tc_765hXxUm2LzboxDnJY7FdOkQpA5veLkVGtLuP4ce6A2d6tddC68kGbx2w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dQSec8Ms6CU", "title": "Transparent http client testing with http4K and WireMock | Brighton Kotlin" },
     { "id": "oj4W2bpa7jg", "title": "AWS Summit London 2023 Overview | Brighton Cloud & AWS Brighton User Group" },
     { "id": "BKm17pnU7jc", "title": "Apache Pulsar with Kotlin Coroutines and Flows | Brighton Kotlin" },
     { "id": "1odAJjmiABY", "title": "Deploying Serverless Applications at Scale and Speed | Brighton Cloud" }, 

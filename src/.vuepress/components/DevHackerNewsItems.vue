@@ -110,7 +110,7 @@ export default {
     async fetchHackernewsData() {
       this.isLoading = true;
       try {
-        const res = await fetch("https://devo.ams3.digitaloceanspaces.com/hackernews.json");
+        const res = await fetch("https://devo-platforms.burakkarakan.com/hackernews.json");
         this.isLoading = false;
         return await res.json() ?? [];
       } catch (e) {

@@ -461,9 +461,9 @@
     "topics": ["networking", "peer-to-peer", "game-development", "realtime-messaging", "reliable-messages"]
   }, {
     "repo": "vitoplantamura/OnnxStream",
-    "desc": "Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)",
+    "desc": "Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)",
     "officialSite": "",
-    "topics": ["raspberry-pi", "machine-learning", "onnx", "stable-diffusion"]
+    "topics": ["machine-learning", "onnx", "raspberry-pi", "stable-diffusion"]
   }, {
     "repo": "Sunrisepeak/KHistory",
     "desc": "KHistory is an elegant keystrokes detect tools",
@@ -709,6 +709,21 @@
     "desc": "Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin",
     "officialSite": "https://www.vast-dynamics.com/?q=products",
     "topics": ["aax", "audio", "audiounit-plugins", "cpp", "daw", "music", "plugin", "sampler", "synthesizer", "vst", "vst3", "vst3-plugin", "wavetable"]
+  }, {
+    "repo": "TKazer/CS2_External",
+    "desc": "CS2 external cheat.",
+    "officialSite": "",
+    "topics": ["aimbot", "cheat", "cs2", "esp", "external", "imgui"]
+  }, {
+    "repo": "NVIDIA/MatX",
+    "desc": "An efficient C++17 GPU numerical computing library with Python-like syntax",
+    "officialSite": "https://nvidia.github.io/MatX",
+    "topics": ["cuda", "gpgpu", "gpu", "gpu-computing", "hpc"]
+  }, {
+    "repo": "google/graph-mining",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

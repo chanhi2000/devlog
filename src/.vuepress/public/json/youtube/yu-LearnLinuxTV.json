@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/iGdDIcKrLXMkmZifgB-BeKpRhqIsq2FvtxIhuel3M8FUIPIjQrYbFtOAa9BkQs_ntiXWvQn8NA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xOSe3n6vkZ4", "title": "The Linux Crash Course - What are &quot;snap&quot; Packages?" },
     { "id": "oGyJr-iUwt8", "title": "Linux Crash Course - Easy Terminal Commands for Inspecting Hardware" },
     { "id": "-f9rz7joEOA", "title": "Learn tmux (Part 5) - How to Customize tmux and Make It Your Own!" },
     { "id": "E99_vCbGdx0", "title": "Learn tmux (Part 4) - Discover how to manage Sessions within tmux" },

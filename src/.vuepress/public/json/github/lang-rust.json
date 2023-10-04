@@ -689,6 +689,16 @@
     "desc": "Cross-platform app development in Rust",
     "officialSite": "https://redbadger.github.io/crux",
     "topics": ["mobile-development", "rust"]
+  }, {
+    "repo": "orhun/daktilo",
+    "desc": "Turn your keyboard into a typewriter! 📇",
+    "officialSite": "https://daktilo.cli.rs",
+    "topics": ["daktilo", "hacktoberfest", "keyboard", "rust", "sound", "typewriter", "typewriter-animation", "typewriter-effect", "typewriter-effects", "typewriter-mode", "typewriter-sounds"]
+  }, {
+    "repo": "koraa/huniq",
+    "desc": "Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.",
+    "officialSite": "",
+    "topics": ["cli", "rust", "tools"]
   }
 ]
 
