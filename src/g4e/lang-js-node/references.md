@@ -102,6 +102,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## CSS Tricks
+
+- [How to Fetch and Parse RSS Feeds in JavaScript](https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript)
+
+---
+
 ## Astro
 
 - [Astro 2.5](https://astro.build/blog/astro-250/)
@@ -162,6 +168,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [[Nestia] SDK and Mockup Simulator generation from Swagger Documents (Swagger to NestJS)](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
 - [Node.js 20.6.0: Say Goodbye to '`dotenv`'](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 - [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
+- [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
 
 ---
 
@@ -236,6 +243,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 - [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers)
 - [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
+- [How to Use GraphQL](https://www.freecodecamp.org/news/graphql-database-tutorial)
+- [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
 
 ---
 
@@ -252,10 +261,17 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## 맹의 코딩 기록장
+
+- [Axios를 사용하면 왜 CORS 이슈가 생기는걸까?](https://aodtns.tistory.com/121)
+
+---
+
 ## Hackernoon
 
 - [Why JavaScript Developers Should Use the Debugger Instead of Console.log](https://hackernoon.com/why-javascript-developers-should-use-the-debugger-instead-of-consolelog)
 - [Mastering JavaScript Shorthands](https://hackernoon.com/mastering-javascript-shorthand-tips-for-beginners)
+- [I'm Done Typing `npm`: A Zsh Function for JavaScript Package Managers](https://hackernoon.com/im-done-typing-npm-a-zsh-function-for-javascript-package-managers)
 
 ---
 
@@ -292,6 +308,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Some Simple and Amazing JavaScript Tricks](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
 - [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
 - [Why did Machbase Neo switch its front-end framework from Vue.js to React?](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785)
+- [Why Web UI Development Is So Hard?](https://itnext.io/why-web-ui-development-is-so-hard-a88c47f4b3c5)
+- [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
 
 ---
 
@@ -554,6 +572,13 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Honey, I shrunk the npm package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package)
 
 ---
+
+## Market Splash
+
+- [How To Define Return Type Of Function In TypeScript](https://marketsplash.com/tutorials/typescript/how-to-define-return-type-of-function-in-typescript)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

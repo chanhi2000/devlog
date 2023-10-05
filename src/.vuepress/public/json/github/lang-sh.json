@@ -184,5 +184,10 @@
     "desc": "Config files for my GitHub profile.",
     "officialSite": "https://github.com/BEPb",
     "topics": ["config", "github-config"]
+  }, {
+    "repo": "efrecon/pgbackup",
+    "desc": "Dockerized local and offline backing up of PostgresQL with rotation and compression.",
+    "officialSite": "",
+    "topics": []
   }
 ]

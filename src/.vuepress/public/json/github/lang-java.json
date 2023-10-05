@@ -260,7 +260,7 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "apache/incubator-baremaps/",
+    "repo": "apache/incubator-baremaps",
     "desc": "Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.",
     "officialSite": "http://baremaps.apache.org",
     "topics": ["java", "vector-tiles", "openstreetmap", "postgresql", "postgis", "mapbox", "spatial-data", "web-mapping"]
@@ -434,6 +434,21 @@
     "desc": "The open big data serving engine. https://vespa.ai",
     "officialSite": "https://vespa.ai",
     "topics": ["ai", "big-data", "cpp", "java", "machine-learning", "search-engine", "server", "serving", "serving-recommendation", "tensorflow", "vector-search", "vespa"]
+  }, {
+    "repo": "jbellis/jvector",
+    "desc": "JVector: the most advanced embedded vector search engine",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "kestra-io/kestra",
+    "desc": "Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.",
+    "officialSite": "https://kestra.io",
+    "topics": ["data", "data-engineering", "data-integration", "data-orchestration", "data-orchestrator", "data-pipeline", "data-quality", "elt", "etl", "low-code", "orchestration", "pipeline", "reverse-etl", "scheduler", "workflow", "workflow-engine"]
+  }, {
+    "repo": "YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "officialSite": "https://doc.iocoder.cn",
+    "topics": ["flowable", "mybatis-plus", "mysql", "redis", "redisson", "spring-security", "springboot", "vue"]
   }
 ]
 

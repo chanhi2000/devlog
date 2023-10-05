@@ -42,7 +42,7 @@
   }, {
     "repo": "kanboard/kanboard",
     "desc": "Kanban project management software",
-    "officialSite": "https://kanboard.org/",
+    "officialSite": "https://kanboard.org",
     "topics": ["agile", "self-hosted", "project-management", "kanban", "kanboard"]
   }, {
     "repo": "gptlink/gptlink",
@@ -134,5 +134,10 @@
     "desc": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
     "officialSite": "https://filamentphp.com",
     "topics": ["admin", "alpine-js", "builder", "cms", "forms", "laravel", "livewire", "tables", "tailwind-css", "tall-stack"]
+  }, {
+    "repo": "PHP-CS-Fixer/PHP-CS-Fixer",
+    "desc": "A tool to automatically fix PHP Coding Standards issues",
+    "officialSite": "https://cs.symfony.com",
+    "topics": ["code-standards", "code-style", "hacktoberfest", "php", "static-analysis"]
   }
 ]

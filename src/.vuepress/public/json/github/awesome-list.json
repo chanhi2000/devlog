@@ -262,7 +262,7 @@
   }, {
     "repo": "docker/awesome-compose",
     "desc": "Awesome Docker Compose samples",
-    "officialSite": "https://docs.docker.com/compose/",
+    "officialSite": "https://docs.docker.com/compose",
     "topics": []
   }, {
     "repo": "jessfraz/dockerfiles",
@@ -442,7 +442,7 @@
   }, {
     "repo": "EbookFoundation/free-programming-books",
     "desc": "📚 Freely available programming books",
-    "officialSite": "https://ebookfoundation.github.io/free-programming-books/",
+    "officialSite": "https://ebookfoundation.github.io/free-programming-books",
     "topics": ["books", "education", "hacktoberfest", "list", "resource"]
   }, {
     "repo": "hemansnation/God-Level-Data-Science-ML-Full-Stack",

@@ -902,12 +902,12 @@
   }, {
     "repo": "chinese-poetry/chinese-poetry",
     "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
-    "officialSite": "http://shici.store/",
+    "officialSite": "http://shici.store",
     "topics": ["json", "ci", "poetry", "chinese", "tangshi", "chinese-poetry"]
   }, {
     "repo": "jofftiquez/faker-js-ui",
     "desc": "Use Faker.js UI to easiliy generate fake (but realistic) data for testing and development using Faker.js.",
-    "officialSite": "https://fakerjsui.com/",
+    "officialSite": "https://fakerjsui.com",
     "topics": ["javascript", "faker", "fakerjs", "fakerui"]
   }, {
     "repo": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
@@ -1417,7 +1417,7 @@
   }, {
     "repo": "donno2048/snake",
     "desc": "A minimal snake in assembly",
-    "officialSite": "https://donno2048.github.io/snake/",
+    "officialSite": "https://donno2048.github.io/snake",
     "topics": ["assembly", "snake-game", "dosbox", "smallest"]
   }, {
     "repo": "obra/Youtube2Webpage",
@@ -1559,5 +1559,15 @@
     "desc": "Atlassian Design for Bootstrap 5. Beautifully crafted Bootstrap components ready for your next project.",
     "officialSite": "https://fastbootstrap.com",
     "topics": ["atlassian-design", "bootstrap", "bootstrap5", "material-design", "theme-ui", "uikit"]
+  }, {
+    "repo": "gethomepage/homepage",
+    "desc": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "officialSite": "https://gethomepage.dev",
+    "topics": ["docker", "homepage", "nextjs", "node", "react", "self-hosted", "startpage"]
+  }, {
+    "repo": "PanJiaChen/vue-admin-template",
+    "desc": "a vue2.0 minimal admin template",
+    "officialSite": "https://git.io/fAnuM",
+    "topics": ["axios", "element-ui", "javascript", "vue", "vue-admin", "vue-cli", "vue-router", "vuex"]
   }
 ]

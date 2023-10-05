@@ -64,5 +64,10 @@
     "desc": "2023 HVV情报速递~",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet",
+    "officialSite": "https://interviewready.io",
+    "topics": ["cache", "fault-tolerance", "scalability", "system-design"]
   }
 ]

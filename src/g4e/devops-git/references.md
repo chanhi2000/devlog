@@ -24,6 +24,12 @@ description: 🛠️Git > 📚References
 
 ---
 
+## appsmith
+
+- [Understanding Git Rebase](https://community.appsmith.com/content/guide/understanding-git-rebase)
+
+---
+
 ## 인포그랩
 
 - [Git 커밋 메시지 자동화 가이드](https://insight.infograb.net/blog/2023/05/25/git-commit-automation)

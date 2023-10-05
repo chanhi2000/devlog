@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.5.0  2023-10-09][v0.5.0]
+
+- 내용채워넣기
+
+### ADDED
+
+- `axios` 추하하여 별도 API 관리 (DevoApi, GeekNewsApi)
+
+---
+
 ## [v0.4.12  2023-10-06][v0.4.12]
 
 - 내용채워넣기
@@ -856,6 +866,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.5.0]: https://github.com/chanhi2000/devlog/compare/v0.4.12...v0.5.0
 [v0.4.12]: https://github.com/chanhi2000/devlog/compare/v0.4.11...v0.4.12
 [v0.4.11]: https://github.com/chanhi2000/devlog/compare/v0.4.10...v0.4.11
 [v0.4.10]: https://github.com/chanhi2000/devlog/compare/v0.4.9...v0.4.10

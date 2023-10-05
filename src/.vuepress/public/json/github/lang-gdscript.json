@@ -7,7 +7,7 @@
   }, {
     "repo": "godotengine/godot-docs",
     "desc": "Godot Engine official documentation",
-    "officialSite": "https://docs.godotengine.org/",
+    "officialSite": "https://docs.godotengine.org",
     "topics": ["open-source", "gamedev", "documentation", "multi-platform", "docs", "game-engine", "game-development", "godotengine", "godot", "hacktoberfest"]
   }, {
     "repo": "KenneyNL/Starter-Kit-3D-Platformer",

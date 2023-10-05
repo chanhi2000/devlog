@@ -1395,6 +1395,14 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## tapaScript by Tapas Adhikary
+
+<MyYouTubeItems jsonName="yu-tapasadhikary" />
+
+<!-- tapaScript by Tapas Adhikary -->
+
+---
+
 ## Svelte Society
 
 <MyYouTubeItems jsonName="yu-SvelteSociety" />

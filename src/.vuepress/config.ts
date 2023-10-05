@@ -1,7 +1,7 @@
 import * as dotenv from 'dotenv' 
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-// import { viteBundler } from '@vuepress/bundler-vite'
+import { viteBundler } from '@vuepress/bundler-vite'
 import { getDirname, path } from '@vuepress/utils'
 /* plugins V2 */
 import { tocPlugin } from '@vuepress/plugin-toc';
@@ -76,12 +76,25 @@ export default defineUserConfig({
     sidebarDepth: 2,
     navbar: navbarEn,
   }),
-  
+  clientConfigFile: path.resolve(__dirname, './client.ts'),
   markdown: {
     code: {
       lineNumbers: true,
     },
   },
+  bundler: viteBundler({
+    viteOptions: {
+      // build: {
+        // minify: 'esbuild',
+        // target: 'modules'
+      // },
+      server: {
+        proxy: {
+
+        }
+      }
+    }
+  }),
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */

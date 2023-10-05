@@ -40,7 +40,7 @@
   </div>
   <div v-if="hasData"
     class="card-body">
-    <DeLoadingvSpinner v-if="isLoading"/>
+    <DevLoadingvSpinner v-if="isLoading"/>
     <div v-else class="gh-list">
       <div class="gh-item" 
         v-for="(item, i) in items" :key="i">
@@ -88,10 +88,11 @@
 </template>
 
 <script>
-import DeLoadingvSpinner from './DeLoadingvSpinner.vue'
+import DevLoadingvSpinner from './DevLoadingvSpinner.vue'
+import DevoApi from '../js/api/DevoApi'
 export default {
   name: "DevGithubItems",
-  components: { DeLoadingvSpinner },
+  components: { DevLoadingvSpinner },
   data() {
     return {
       isLoading: false,
@@ -101,20 +102,16 @@ export default {
   },
   methods: {
     async onFetchData() {
-      const GITHUB_BASE_URL = "https://github.com"
-      const REGEX_GITHUB_BASE_URL = /https:\/\/github.com\//g
       this.isLoading = true;
-      const fetchedItems = await this.fetchGithubData();
-      const fetchedItemsHackerNews = await this.fetchHackernewsData();
+      const fetchedItems = await DevoApi.fetchGithubRepos(true);
+      const fetchedItemsHackerNews = await DevoApi.fetchHackernews();
       const fetchedItemsGithub = fetchedItemsHackerNews
-        .filter((e) => e.link.includes(`${GITHUB_BASE_URL}/`))
-
-      const resGithubColor = await fetch("/json/github-color.json")
-      const fetchedGithubColor = await resGithubColor.json();
+        .filter((e) => e.link.includes(`${DevoApi.BASEURL_GITHUB}/`))
+      const fetchedGithubColor = await DevoApi.fetchGitubColors();
       
       for (const [i, e] of fetchedItemsGithub.entries()) {
-        const fullName = e.link.replace(REGEX_GITHUB_BASE_URL, '')
-        const jsonRes = await this.fetchGithubInfo(fullName);
+        const fullName = e.link.replace(DevoApi.REGEX_GITHUB_BASEURL, '')
+        const jsonRes = await DevoApi.fetchGithubDetail(fullName);
         if (jsonRes == undefined || jsonRes == null) continue;
         if (__IS_DEBUG__) console.log(JSON.stringify(jsonRes))
         const _hasLanguage = (jsonRes.language != null || jsonRes.language == '');
@@ -145,46 +142,10 @@ export default {
            todayStars: jsonRes.todayStars
         }
       }
-
-      let jsonFullPathsLang = [
-        "android", "awk", "batchfile", "blade", "c", "clojure", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "gdscript", "go", "haskell", "hcl", "java", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "prolog", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
-      ].map((e) => `/json/github/lang-${e}.json`);
-
-      let jsonFullPathsLangTut = [
-        "c", "csharp", "dart", "dockerfile", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
-      ].map((e) => `/json/github/lang-${e}-tut.json`);
-
-      let jsonFullPathsOther = [
-        "awesome-list", "tutorial-basic", "tutorial-devops", "career-info", "portfolio", "free-books", "free-images"
-      ].map((e) => `/json/github/${e}.json`)
-      
-
-      let reposToExclude = [];
-      for await (const path of [...jsonFullPathsLang, ...jsonFullPathsLangTut, ...jsonFullPathsOther]) {
-        const items = await (await fetch(path)).json();
-        reposToExclude.push(...items);
-      }
-      const repoNamesToExclude = reposToExclude.map((e) => `/${e.repo}`);
-      const repoDescsToExclude = reposToExclude.map((e) => e.desc);
-      
-      const filterPredicate = (e) => {
-        return !repoNamesToExclude.includes(e.repo.link) || 
-          !repoDescsToExclude.includes(e.repo.description)
-      }
-      const filterHackernewsPredicate = (e) => {
-        return (
-          e != null && e != undefined &&
-          e?.repo?.link != null && e?.repo?.link != undefined &&
-          e?.repo?.description != null && e?.repo?.description != undefined
-        ) && (
-          (!repoNamesToExclude.includes(`/${e?.repo?.link}`.replace(REGEX_GITHUB_BASE_URL, '')) || 
-          !repoDescsToExclude.includes(e?.repo?.description))
-        )
-      }
-      const _fetchedItemsGithub = fetchedItemsGithub.filter(filterHackernewsPredicate) ?? []
+      const _fetchedItemsGithub = fetchedItemsGithub.filter(DevoApi.filterHackernewsPredicate) ?? []
 
       this.isLoading = false;
-      this.items = fetchedItems.filter(filterPredicate).map((e) => {
+      this.items = fetchedItems.map((e) => {
         let hasLanguage = e.language != null;
         let l = (hasLanguage)  
           ? {
@@ -194,46 +155,28 @@ export default {
         return {
           forks: {
             count: e.forks.count,
-            link: `${GITHUB_BASE_URL}${e.repo.link}/forks`
+            link: `${DevoApi.BASEURL_GITHUB}${e.repo.link}/forks`
           },
           hasLanguage: hasLanguage,
           language: l,
           repo: {
             description: `${e.repo.description}`,
-            link: `${GITHUB_BASE_URL}${e.repo.link}`,
+            link: `${DevoApi.BASEURL_GITHUB}${e.repo.link}`,
             name: e.repo.name,
             owner: e.repo.owner,
           },
           repoFullName: `${e.repo.owner}/${e.repo.name}`,
           stars: {
             count: e.stars.count,
-            link: `${GITHUB_BASE_URL}${e.repo.link}/stargazers`
+            link: `${DevoApi.BASEURL_GITHUB}${e.repo.link}/stargazers`
           },
           todayStars: e.todayStars
         }
       }).concat(_fetchedItemsGithub);
       this.hasData = this.items.length != 0;
     },
-    async fetchHackernewsData() {
-      try {
-        const res = await fetch("https://devo-platforms.burakkarakan.com/hackernews.json");
-        return await res.json() ?? [];
-      } catch (e) {
-        console.error(`failed to fetch data`, e);
-        return []
-      }
-    },
-    async fetchGithubData() {
-      try {
-        const res = await fetch("https://devo-platforms.burakkarakan.com/github.json");
-        return await res.json() ?? [];
-      } catch (e) {
-        console.error(`failed to fetch data`, e);
-        return []
-      }
-    },
     async doCopyGithubJson(fullName = '') {
-      const repoInfo = await this.fetchGithubInfo(fullName);
+      const repoInfo = await DevoApi.fetchGithubDetail(fullName);
       const coreData = await this.renderJson(repoInfo)
       const jsonData = JSON.stringify(coreData, null, 2)
           .replace(/,\n\s\s\s\s/g, ', ')
@@ -241,30 +184,6 @@ export default {
           .replace(/\n  \]/g, ']');
       if (__IS_DEBUG__) console.log(jsonData)
       await this.copyToClipboard(jsonData)
-    },
-    async fetchGithubInfo(fullName = '') {
-      if (__IS_DEBUG__) console.log(`fetchGithubInfo ... fullName: ${fullName}`)
-      const _fullName = fullName?.replace(/\s/g, '') ?? ''
-      if (_fullName == '') {
-        console.warn('no fullName FOUND!')
-        return
-      }
-
-      if (_fullName.split('/').length != 2) {
-        console.warn(`invalid fullName ... ${_fullName}`)
-        return
-      }
-      
-      if (__IS_DEBUG__) console.log('fetchGithubInfo ...');
-      const apiUrl = 'https://api.github.com/repos'
-      try {
-        const response = await fetch(`${apiUrl}/${_fullName}`)
-        const data = await response.json();
-        return data;
-      } catch (e) {
-        console.warn('Error:', e)
-        return
-      }
     },
     async renderJson(data = {}) { 
       return {

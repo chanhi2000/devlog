@@ -347,7 +347,7 @@
   }, {
     "repo": "janet-lang/janet",
     "desc": "A dynamic language and bytecode vm",
-    "officialSite": "https://janet-lang.org/",
+    "officialSite": "https://janet-lang.org",
     "topics": ["c", "language", "vm", "lisp", "interpreter", "repl", "macros", "functional-language", "imperative-language"]
   }, {
     "repo": "google/security-research",
@@ -474,5 +474,20 @@
     "desc": "The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!",
     "officialSite": "https://flipper-xtre.me",
     "topics": ["cfw", "custom-firmware", "flipper", "flipper-firmware", "flipper-zer0", "flipper-zero", "flipper-zero-firmware", "flipperzero"]
+  }, {
+    "repo": "leesh3288/CVE-2023-4911",
+    "desc": "PoC for CVE-2023-4911",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "open-ribbon/open-ribbon",
+    "desc": "vib-ribbon decompilation (PAL version)",
+    "officialSite": "https://discord.gg/n5TPTBvGjE",
+    "topics": ["decompilation", "playstation", "psx", "vib-ribbon", "vibribbon"]
+  }, {
+    "repo": "curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "officialSite": "https://curl.se",
+    "topics": ["c", "client", "curl", "ftp", "gopher", "hacktoberfest", "http", "https", "imaps", "ldap", "libcurl", "library", "mqtt", "pop3", "scp", "sftp", "transfer-data", "transferring-data", "user-agent", "websocket"]
   }
 ]

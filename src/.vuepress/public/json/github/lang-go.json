@@ -829,5 +829,25 @@
     "desc": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
     "officialSite": "https://bitmagnet.io",
     "topics": ["bittorrent", "dht", "prowlarr", "radarr", "selfhosted", "servarr", "sonarr", "torrent", "torrents", "torznab"]
-  }  
+  }, {
+    "repo": "bufbuild/buf",
+    "desc": "A new way of working with Protocol Buffers.",
+    "officialSite": "https://buf.build",
+    "topics": ["buf-cli", "buf-schema-registry", "grpc", "protobuf", "protoc", "protocol-buffers"]
+  }, {
+    "repo": "kubernetes/enhancements",
+    "desc": "Enhancements tracking repo for Kubernetes",
+    "officialSite": "",
+    "topics": ["enhancements", "k8s-sig-architecture", "kubernetes", "kubernetes-releases"]
+  }, {
+    "repo": "kubernetes/enhancements",
+    "desc": "Enhancements tracking repo for Kubernetes",
+    "officialSite": "",
+    "topics": ["enhancements", "k8s-sig-architecture", "kubernetes", "kubernetes-releases"]
+  }, {
+    "repo": "jaegertracing/jaeger",
+    "desc": "CNCF Jaeger, a Distributed Tracing Platform",
+    "officialSite": "https://www.jaegertracing.io",
+    "topics": ["cncf", "distributed-tracing", "hacktoberfest", "jaeger", "observability", "opentelemetry", "tracing"]
+  }
 ]

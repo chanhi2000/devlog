@@ -169,4 +169,14 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales)
 
+---
+
+## Ahmad Shadeed
+
+- [CSS Variables 101](https://ishadeed.com/article/css-vars-101)
+
+<!-- Ahmad Shadeed -->
+
+---
+
 <TagLinks />

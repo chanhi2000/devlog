@@ -29,7 +29,7 @@
     </div>
   </div>
   <div class="card-body">
-    <DeLoadingvSpinner v-if="isLoading"/>
+    <DevLoadingvSpinner v-if="isLoading"/>
     <div v-else class="hn-list">
       <div class="hn-item"
         v-for="(item, i) in items" :key="i">
@@ -51,10 +51,11 @@
 </template>
 
 <script>
-import DeLoadingvSpinner from './DeLoadingvSpinner.vue'
+import DevLoadingvSpinner from './DevLoadingvSpinner.vue'
+import DevoApi from '../js/api/DevoApi'
 export default {
   name: "DevHackerNewsItems",
-  components: { DeLoadingvSpinner },
+  components: { DevLoadingvSpinner },
   data() {
     return {
       isLoading: false,
@@ -63,62 +64,31 @@ export default {
   },
   methods: {
     async onFetchData() {
-      const REGEX_GITHUB_BASE_URL = /https:\/\/github.com\//g
-      const YCOMBINATOR_URL = 'https://news.ycombinator.com';
-      let jsonFullPathsLang = [
-        "awk", "batchfile", "blade", "c", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "gdscript", "go", "haskell", "hcl", "java", "android", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
-      ].map((e) => `/json/github/lang-${e}.json`);
-
-      let jsonFullPathsLangTut = [
-        "c", "csharp", "dart", "dockerfile", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "python", "ruby", "rust", "sh", "swift", "ts"
-      ].map((e) => `/json/github/lang-${e}-tut.json`);
-
-      let jsonFullPathsOther = [
-        "awesome-list", "tutorial-basic", "tutorial-devops", "career-info", "portfolio", "free-books", "free-images"
-      ].map((e) => `/json/github/${e}.json`)
-      
-      let reposToExclude = [];
-      for await (const path of [...jsonFullPathsLang, ...jsonFullPathsLangTut, ...jsonFullPathsOther]) {
-        const items = await (await fetch(path)).json();
-        reposToExclude.push(...items);
-      }
-      const repoNamesToExclude = reposToExclude.map((e) => `${e.repo}`);
+      const repoNamesToExclude = DevoApi.reposToExclude.map((e) => `${e.repo}`);
       const filterHackernewsPredicate = (e) => {
-        return !repoNamesToExclude.includes(e.link.replace(REGEX_GITHUB_BASE_URL, ''))
+        return !repoNamesToExclude.includes(e.link.replace(DevoApi.REGEX_GITHUB_BASEURL, ''))
       }
-      const fetchedItems = await this.fetchHackernewsData()
+      const fetchedItems = await DevoApi.fetchHackernews()
       this.items = fetchedItems.filter(filterHackernewsPredicate).map((e) => {
         return {
           age: e.age,
           commentCount: e.commentCount,
-          link: (e.link.includes('http')) ? e.link : `${YCOMBINATOR_URL}/${e.link}` ,
+          link: (e.link.includes('http')) ? e.link : `${DevoApi.BASEURL_YCOMBINATOR}/${e.link}` ,
           score: e.score,
           siteString: e.siteString,
-          threadLink: `${YCOMBINATOR_URL}/${e.threadLink}`,
+          threadLink: `${DevoApi.BASEURL_YCOMBINATOR}/${e.threadLink}`,
           title: e.title,
           user: {
-            link: `${YCOMBINATOR_URL}/${e.user.link}`,
+            link: `${DevoApi.BASEURL_YCOMBINATOR}/${e.user.link}`,
             name: e.user.name,
           }
         }
       });
     },
     async doRefresh() {
-      if (__IS_DEBUG__) console.log('doRefresh DevHackerNewsItems!');
+      if (__IS_DEBUG__) console.log('doRefresh ...');
       await this.onFetchData();
     },
-    async fetchHackernewsData() {
-      this.isLoading = true;
-      try {
-        const res = await fetch("https://devo-platforms.burakkarakan.com/hackernews.json");
-        this.isLoading = false;
-        return await res.json() ?? [];
-      } catch (e) {
-        console.error(`failed to fetch data`, e);
-        this.isLoading = false;
-        return []
-      }
-    }
   },
   mounted() {
     this.onFetchData()

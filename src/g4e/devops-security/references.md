@@ -20,6 +20,12 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
   
 ---
 
+## FreeCodeCamp
+
+- [13 Types of Cyber Attacks You Should Know in 2023](https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know)
+
+---
+
 ## Medium
 
 - [Binex — TryHackMe Room Simple Writeup | Karthikeyan Nagaraj](https://infosecwriteups.com/binex-970-points-tryhackme-room-simple-writeup-karthikeyan-nagaraj-33a5e71a31bd)

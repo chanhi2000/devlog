@@ -709,6 +709,16 @@
     "desc": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.",
     "officialSite": "https://rerun.io",
     "topics": ["computer-vision", "multimodal", "python", "robotics", "rust", "visualization"]
+  }, {
+    "repo": "ferrocene/ferrocene",
+    "desc": "Source code of Ferrocene, safety-critical Rust toolchain",
+    "officialSite": "https://ferrous-systems.com/ferrocene",
+    "topics": []
+  }, {
+    "repo": "curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "officialSite": "https://curl.se",
+    "topics": ["c", "client", "curl", "ftp", "gopher", "hacktoberfest", "http", "https", "imaps", "ldap", "libcurl", "library", "mqtt", "pop3", "scp", "sftp", "transfer-data", "transferring-data", "user-agent", "websocket"]
   }
 ]
 
