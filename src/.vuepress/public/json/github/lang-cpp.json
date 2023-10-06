@@ -724,6 +724,11 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "WonderInventions/node-webrtc",
+    "desc": "node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M94",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

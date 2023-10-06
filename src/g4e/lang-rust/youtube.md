@@ -214,6 +214,14 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Rust Tutorials
+
+<MyYouTubeItems jsonName="yu-RustTutorials-jp7bh" />
+
+<!-- Rust Tutorials -->
+
+---
+
 ## RustAU
 
 <MyYouTubeItems jsonName="yu-rustau5950" />

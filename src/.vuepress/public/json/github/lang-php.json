@@ -124,5 +124,15 @@
     "desc": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
     "officialSite": "http://www.magento.com",
     "topics": ["php", "ecommerce", "magento", "magento2", "ecommerce-platform", "hacktoberfest"]
+  }, {
+    "repo": "akaunting/akaunting",
+    "desc": "Online Accounting Software",
+    "officialSite": "https://akaunting.com",
+    "topics": ["accounting", "akaunting", "balance", "billing", "bookkeeping", "budget", "crm", "erp", "expenses", "finance", "fintech", "invoices", "invoicing", "laravel", "laravel-application", "money", "payments", "payroll", "php"]
+  }, {
+    "repo": "filamentphp/filament",
+    "desc": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+    "officialSite": "https://filamentphp.com",
+    "topics": ["admin", "alpine-js", "builder", "cms", "forms", "laravel", "livewire", "tables", "tailwind-css", "tall-stack"]
   }
 ]

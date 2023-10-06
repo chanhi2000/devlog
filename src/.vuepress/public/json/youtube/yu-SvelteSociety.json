@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "SvelteSociety",
+    "name": "Svelte Society",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZfPOt9490FQMoKilmbLpYCIAiIw4DC08SVXQJ2=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ERYS_WWb_y_rBcIesvxslBQOifCVfZtk95ler7s4J1w27-qWhOyk4F5S9vh0R0e9OP4kCoXvIA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RVnxF3j3N8U", "title": "Svelte 5: Introducing Runes... with Rich Harris" },
+    { "id": "LnMz7ElNk7Q", "title": "Sirens: Converting Packages to Svelte" }
+  ]
+}

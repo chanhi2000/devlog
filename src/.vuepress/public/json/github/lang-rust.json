@@ -704,6 +704,11 @@
     "desc": "Starcraft 2 Protocol Replay Reader",
     "officialSite": "",
     "topics": ["arrow", "nom", "polars", "sc2replay", "sc2replaystats"]
+  }, {
+    "repo": "rerun-io/rerun",
+    "desc": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.",
+    "officialSite": "https://rerun.io",
+    "topics": ["computer-vision", "multimodal", "python", "robotics", "rust", "visualization"]
   }
 ]
 

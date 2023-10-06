@@ -46,4 +46,10 @@ tags: ["llama" , "llm"]
 
 ---
 
+## replit
+
+- [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
+
+---
+
 <TagLinks/>

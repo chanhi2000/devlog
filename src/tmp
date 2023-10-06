@@ -433,31 +433,23 @@
 // 2023.10.02
 
 { "channelId": "CMDevChannel", "channelName": "CMDev", "id": "SVZB8VTsYFo", "title": "แก้ปัญหา XCode 15 - Error DT TOOLCHAIN DIR" },
-{ "channelId": "koreanki", "channelName": "코리안키Koreanki", "id": "p_7Duae_Slg", "title": "PDF로 공부한다면 반드시 배워야하는 Anki 애드온 | SIAC" },
 { "channelId": "dave-hollingworth", "channelName": "Dave Hollingworth", "id": "bXTspwWR9uY", "title": "PHP in 60 Seconds: The Basics" },
 { "channelId": "CodingEntrepreneurs", "channelName": "CodingEntrepreneurs", "id": "am9dazrQqys", "title": "Auto configure any computer with Ansible." },
-{ "channelId": "SvelteSociety", "channelName": "Svelte Society", "id": "RVnxF3j3N8U", "title": "Svelte 5: Introducing Runes... with Rich Harris" },
 { "channelId": "phd_security", "channelName": "PhD Security", "id": "0fC1JsN8AsM", "title": "Python for Hackers Course | Scripting Bug Bounty & Ethical Hacking" },
 { "channelId": "kishimisu", "channelName": "kishimisu", "id": "f4s1h2YETNY", "title": "An introduction to Shader Art Coding" },
-{ "channelId": "BecodemyOfficial", "channelName": "Becodemy", "id": "kf6yyxMck8Y", "title": "All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1" },
-{ "channelId": "ByteMonk", "channelName": "ByteMonk", "id": "pnj3Jbho5Ck", "title": "How Web Sockets work | System Design Interview Basics" },
 { "channelId": "universaldenker", "channelName": "Universaldenker", "id": "hJD8ywGrXks", "title": "The 4 Maxwell Equations. Get the Deepest Intuition!" },
-{ "channelId": "RustTutorials-jp7bh", "channelName": "Rust Tutorials", "id": "8zIIdXr_mKI", "title": "Jetbrain's Rustrover: a first look" },
 { "channelId": "projectworld8632", "channelName": "project world", "id": "SVRrnPVdbE4", "title": "#1 Get Unique value in laravel #short" },
 { "channelId": "NNAdmin", "channelName": "Nielsen Networking", "id": "wlqUO09J-nw", "title": "Penetration Testing with Nmap: A Comprehensive Tutorial" },
 { "channelId": "NNAdmin", "channelName": "Nielsen Networking", "id": "lTyVksdhddY", "title": "Penetration Testing with Hydra and Kali Linux" },
 { "channelId": "NNAdmin", "channelName": "Nielsen Networking", "id": "_D7sTx93gZ4", "title": "rsync | The most powerful backup tool you're not using" },
 { "channelId": "NNAdmin", "channelName": "Nielsen Networking", "id": "VvsSVQhrzf4", "title": "The Top 10 Linux Command Line Tools You Need to Know" },
 { "channelId": "NNAdmin", "channelName": "Nielsen Networking", "id": "A2wLESuBurc", "title": "Penetration Testing with Nmap: Scanning for UDP Ports" },
-{ "channelId": "BecodemyOfficial", "channelName": "Becodemy", "id": "w1fkGHGZs1Q", "title": "All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 2" },
 { "channelId": "MyCodeSpace1", "channelName": "MyCodeSpace", "id": "knw4WFRK9WM", "title": "Inventory Management System Using C#.Net Part1" },
-{ "channelId": "SvelteSociety", "channelName": "Svelte Society", "id": "LnMz7ElNk7Q", "title": "Sirens: Converting Packages to Svelte" },
 { "channelId": "azamsharp", "channelName": "azamsharp", "id": "i-EzEuIw4tw", "title": "Performing Save and Filter on Enums in SwiftData" },
 { "channelId": "azamsharp", "channelName": "azamsharp", "id": "aHi1o9zbFfo", "title": "Recording - DC iOS: SwiftUI Architecture and Best Practices" },
 { "channelId": "GuyInACube", "channelName": "Guy in a Cube", "id": "ECmhdB5Rdzo", "title": "Using Microsoft Fabric Workspaces (Power BI and more!)" },
 { "channelId": "ritvikmath", "channelName": "ritvikmath", "id": "8TWyNQGW6NI", "title": "Detecting Phrases with Data Science : Natural Language Processing" },
 { "channelId": "DailyCodeBuffer", "channelName": "Daily Code Buffer", "id": "41Ry2ojnJFM", "title": "Spring Boot 3 Integration Testing With TestContainers" },
-{ "channelId": "ChrisTitusTech", "channelName": "Chris Titus Tech", "id": "djPC_hBKl3I", "title": "Github Mistakes and What I Wish I Knew Sooner" },
 { "channelId": "newlec1", "channelName": "뉴렉처", "id": "aJvFN2XtbsM", "title": "뉴렉처  자바 수업  영상 137 - 선택정렬에 대한 문제풀이" },
 { "channelId": "ElijahManor", "channelName": "Elijah Manor", "id": "DYaTzkw3zqQ", "title": "New Native Neovim LSP Inlay Hints (Nightly Build)" },
 { "channelId": "BarneyCodes", "channelName": "Barney Codes", "id": "3mfvZ-mdtZQ", "title": "Introduction to Shaders: Learn the Basics!" },
@@ -470,7 +462,6 @@
 { "channelId": "user-jn1ly6wf9q", "channelName": "웹짱이영환쌤", "id": "ioKF0rtqXXo", "title": "Webjjang Spring ver.2023.09 01-01 Boot 환경과 project 생성(웹짱과 함께하는 스프링부트)" },
 { "channelId": "user-jn1ly6wf9q", "channelName": "웹짱이영환쌤", "id": "paL3CA_r0kU", "title": "Webjjang Spring ver.2023.08 07-01 Tomcat 서버에 배포하기(웹짱과 함께하는 스프링)" },
 { "channelId": "learnpratap", "channelName": "Learn with Pratap", "id": "wwAl62P2Gz8", "title": "Let’s build a TODO App with Bun, HTMX and Pico 2023 | Learn with Pratap" },
-{ "channelId": "LeilaGharani", "channelName": "Leila Gharani", "id": "wBAnCMA98ls", "title": "Don't Use ChatGPT Until You Watch This Video" },
 { "channelId": "yangdongjun", "channelName": "양동준 Yang DongJun", "id": "T-OOwm7hd8U", "title": "돈이 되는 서비스를 위한 자동화 서비스 만들기" },
 { "channelId": "revdancatt", "channelName": "Dan Catt", "id": "z9pHpXIrGWM", "title": "Journaling with AI | Kitty the AI PA, how, why and code (and tweeting)" },
 { "channelId": "jingiru", "channelName": "진기루T", "id": "DGBv1J24gSM", "title": "파이썬 자동화 사례 - MS 문자 시스템에 수신번호 다량 삽입하기 | 문제 해결 | 프로그래밍" },
@@ -510,8 +501,6 @@
 { "channelId": "Huntabyte", "channelName": "Huntabyte", "id": "DgNWssn2vpc", "title": "Don't Sleep on Svelte 5" },
 { "channelId": "unconsciouslydid", "channelName": "무심코", "id": "ePieUNiH3kk", "title": "맥북 키노트 파워포인트로 변환하기 [맥북프로 M1, 키노트파일 피워포인트]" },
 { "channelId": "indydevdan", "channelName": "IndyDevDan", "id": "Ma0jPYj9hyc", "title": "The Javascript Ecosystem Killer: Using Bun, to Learn Bun (with AIDER)" },
-{ "channelId": "RustTutorials-jp7bh", "channelName": "Rust Tutorials", "id": "xHrHDmK4Ess", "title": "Building a Web API in Rust with Actix and Diesel Part 2: The database" },
-{ "channelId": "RustTutorials-jp7bh", "channelName": "Rust Tutorials", "id": "YkeUg-gkv2Q", "title": "Building a Web API in Rust with Actix and Diesel Part 1: Setting up" },
 { "channelId": "csezsw", "channelName": "ezsw", "id": "4RPBqw_x4pc", "title": "Python 다익스트라(Dijkstra)" },
 { "channelId": "margoumix", "channelName": "margoumix", "id": "BXn8K5NkbFI", "title": "Implémenter la sécurité à base de JWT Javascript web token pour e cas d'une application WebAPI Core" },
 { "channelId": "margoumix", "channelName": "margoumix", "id": "goJrtzALvpo", "title": "Implémentation de ASP.NET Core Identity Security à partir de zéro" },
@@ -538,10 +527,8 @@
 { "channelId": "CodingIsFun", "channelName": "Coding Is Fun", "id": "rfVfNTSqx4M", "title": "Replace your VLOOKUP. Use THIS instead!" },
 { "channelId": "GavinLon", "channelName": "Gavin Lon", "id": "rab_1cFQUF4", "title": "C# and Visual Studio Code Beginners Guide" },
 { "channelId": "conaticus", "channelName": "conaticus", "id": "uKP990_pjJo", "title": "I Built a FAST Package Manager (in Rust)" },
-{ "channelId": "ChrisTitusTech", "channelName": "Chris Titus Tech", "id": "ffnIL6hE__w", "title": "Creating a Secure System" },
 { "channelId": "youngcademe", "channelName": "영카데미 ", "id": "YvrJCuz0JJ4", "title": "연봉협상, &quot;나&quot;의 가치 재대로 평가하기" },
 { "channelId": "PhilipStarritt", "channelName": "Philip Starritt", "id": "-ioJQGLWZok", "title": "OpenTelemetry Collector Example - Java Agent with Spring Boot Docker" },
-{ "channelId": "RustTutorials-jp7bh", "channelName": "Rust Tutorials", "id": "b98SYPYNlDQ", "title": "Building a Web API in Rust with Actix and Diesel Part 3: The Web Server" },
 { "channelId": "ThePrimeagen", "channelName": "ThePrimeagen", "id": "FrMRyXtiJkc", "title": "How to Vim in 2023: Tips and Tricks" },
 { "channelId": "PragmaticWorks", "channelName": "Pragmatic Works", "id": "QJw4HkagVWc", "title": "👉Beginning Power BI DAX Functions Tutorial [Full Course]" },
 { "channelId": "Reducible", "channelName": "Reducible", "id": "ngCos392W4w", "title": "5 Simple Steps for Solving Any Recursive Problem" },
@@ -808,3 +795,7 @@ https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
 https://play.vuejs.org/#eNrtV2tv2zYU/SuE1iFyZktpin1xkz2aBUM3bA2WoNgwD6ssXUlsJFEjKVme4f++Q+ph2XGzrsWwLwuQROQ99/I+j8SN83VZenVFztzxTxk1QV5mxETMIhkkLCgiPIiSxUIyVSeMMsqp0Or5omCMhUHBlsRyEfGYU8S0YCsh79mK65SlOs8GPESi1VFEEOlSzX1/tVp5kqJlJpZJkJPyQpH7eXDPi2QmYt+4kATLjHx26i+KRXGhQslLDRu6Kr8w5nheCqnZRlK8ZbEUOTtBMCf2KN/vxd/0hjqI5w87r0rNRaFMClqtv1e5EoAobvR2auY3hCHNENAVlyE0L/Ecu5tmzj4/m7L1nM3Oz7YTC2+hy6yi2z+qQI6xsw7cYS/8NmiEi4Um1CfQZIO/MBWpOa1eiOZy4cyenp0ZbWieMTwvHKb0OiOIlkF4n0hRFdGcfUJEC8cagIldnPUMdaQM6CGCAQZg2MYkIX9qTMc8M9hUZe4Z4vvU/E6w7/eWdwl77KxdCsaHSQo162KCzfXwtOKRTrE6N4uUeJLqfjVy6Pz8vVxCausETxf+KK3O1HlXpTEjBwVIWsNzLYNCYUZyOPDGLgzGfbKxYb4OEKTXbKd76/V28mbhtAa+KgUvNMlIrAovo9gEpXQg9SGgKiGhIkJU/RaGMLSptNv78FzUpvx2kDBU7EvMag2/qMZQTticFVWWDUpaVGFqj/VKaSHQNScZ/Yf7XexhFiiFjU1/ynbXXSoTukv/hf8g1YcD3U7RYyPdyzA+NUl9wxvK7sRtnVwJIaMe7pm6hmZHeW/V4XyW4DOFeYso5gXdmJW7af3dVWfOXi3fmiYEiahUVFlkiG7TYDK3BtuN8c4q5VwPRq+xUO6vJ1UZIdL5zuzJbxMTdq801KWd/jjIFBnDBhFXRWgaDzOMxLtdxTpHeczaHS/UMvue1hMY0JUsWo5lGSFJ1lmYPp6szmKn0Hvi1cZNKG0iUJFNlTfuYTZjMBuBnh7I1pCtt529zrlKSvy/C2RC2kORb9q2vApKOEtdCF2vvoxaZ5DfvfjR1gfRP3DWdPFRXdvt+8r/ODWmsu6RUk57i4whVQ377MAvL2qmPQD5Wh8BrDtA103wfp/tLX0zFYqSIjtECdswJFUJOWeJDJbPjQ62vaGTNqxSJGcKL95QY75FQc/3VJZAWTUcZcwfUN7offg/3f1LdLf35fJhVEaN1QbdBFUGK3Zf25mcs1Haex7bTt/FZBinQAcu5qOjEDz0oc2ZpSS2RcOgVRcaFEk6FZE5pO/tY/z0Phz1QcNofnTK1a7hO6qym8eZ6lC0R1QfSVZ2eocxN1T1+8NMHDo80NW+9hGy+rgcPXkP6hrR156bY/YaMdgBpiewEYmNY9qaP/8xs43nx15yTtlVm8R2xGzqkFdAeIE8MVUGITEXbw+dEiuDhCbmYnP7+tsRCr6d9khz2+EtGodNWSoKIY3HklQJLuU1PptJ8T+xN22/YP3209Wk6dResrqv+Im96HTDPbzFHiv6FFesyyMNPLRQ+6VhbgqXgHpgXJKI5bq9mI2+F0oAAPNCSQgQENv/bl/VEiMFC+1JGce/nwfJ+kDySy/BfunlgZa8uevfGa45BB7e4iAqru5+cCceNwEqcif9aR0VlViioCijRq8UMU9QRVGgji3jObgwljwj2b22Fs5ATAsnyDKx+s7uaVlR15PQSSm8P7L/VjVmb+HcoFoka9xIBhk4Di634uvbH6nB8yDEZFXmsvSI8CdSIquMjy3sBa5icHuEs96+tC8F9Mmdum40oXe6oIyjdpAsfuHg9WwuJ+8KfefuM+9ZN4BbZ/sXzT1PyQ==
 https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/
 https://roadsaudio.com
+https://dotat.at/@/2023-05-26-whence-time.html
+https://store.app
+https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world
+https://webfft.net/cir

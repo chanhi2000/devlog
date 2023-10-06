@@ -116,9 +116,9 @@
     "officialSite": ""
   }, {
     "repo": "m-bain/whisperX",
-    "desc": "WhisperX: Timestamp-Accurate Automatic Speech Recognition.",
-    "topics": [],
-    "officialSite": ""
+    "desc": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+    "officialSite": "",
+    "topics": ["asr", "speech", "speech-recognition", "speech-to-text", "whisper"]
   }, {
     "repo": "openai/point-e",
     "desc": "Point cloud diffusion for 3D model synthesis",
@@ -2833,5 +2833,25 @@
     "desc": "The Network Execution Tool",
     "officialSite": "https://netexec.wiki",
     "topics": ["active-directory", "hacking", "infosec", "pentest", "pentest-tool", "pentest-tools", "pentesting", "python", "python3", "red-team", "security", "security-tools"]
+  }, {
+    "repo": "mouredev/python-web",
+    "desc": "Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.",
+    "officialSite": "https://mouredev.link/pythonweb",
+    "topics": ["chackra-ui", "css", "frontend", "pynecone", "python", "python3", "reflex", "tailwindcss", "tutorial", "web", "website"]
+  }, {
+    "repo": "openai/openai-python",
+    "desc": "The official Python library for the OpenAI API",
+    "officialSite": "https://pypi.org/project/openai",
+    "topics": ["openai", "python"]
+  }, {
+    "repo": "ckan/ckan",
+    "desc": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+    "officialSite": "https://ckan.org/",
+    "topics": ["api", "catalog", "ckan", "ckanext", "data", "open-data", "python"]
+  }, {
+    "repo": "SerCeMan/fontogen",
+    "desc": "Hey, Computer, Make Me a Font",
+    "officialSite": "https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font",
+    "topics": ["ai", "fonts", "ml"]
   }
 ]

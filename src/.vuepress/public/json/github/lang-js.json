@@ -1526,9 +1526,9 @@
     "topics": ["hacktoberfest", "http-client", "javascript", "nodejs", "promise"]
   }, {
     "repo": "ArchGPT/insomnium",
-    "desc": "Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia",
-    "officialSite": "",
-    "topics": []
+    "desc": "Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia",
+    "officialSite": "https://archgpt.dev/insomnium",
+    "topics": ["api-client", "electron", "insomnia", "privacy-preserving"]
   }, {
     "repo": "localtunnel/localtunnel",
     "desc": "expose yourself",

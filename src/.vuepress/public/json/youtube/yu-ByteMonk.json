@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ByteMonk",
+    "name": "ByteMonk",
+    "profile": "https://yt3.googleusercontent.com/ctW4w25aMdp4Llgbr0yr_fUAox-_mAAx2WsEQ9HA0aONImO5kpL6JyKTv2Rtel2S7JkMwCeQ4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yDFX_JcOIer1Nvwt5KZN-miR0mJ0PhKk2Lz-er7bJwcLeYO1PA7JASbmgYpvMi3IabBHNiYYTA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pnj3Jbho5Ck", "title": "How Web Sockets work | System Design Interview Basics" }
+  ]
+}

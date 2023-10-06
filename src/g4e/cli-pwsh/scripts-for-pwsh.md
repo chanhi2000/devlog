@@ -348,7 +348,7 @@ PS> ./list-cheat-sheet.ps1
 "PowerShell Cheat Sheet"
 "======================"
 ""
-@tab "Basic Commands"
+"Basic Commands"
 "
 "         Cmdlet : Commands built into shell written in .NET"
 "      Functions : Commands written in PowerShell language"

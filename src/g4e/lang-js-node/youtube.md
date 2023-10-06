@@ -1395,4 +1395,12 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Svelte Society
+
+<MyYouTubeItems jsonName="yu-SvelteSociety" />
+
+<!-- Svelte Society -->
+
+---
+
 <TagLinks />

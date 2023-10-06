@@ -90,6 +90,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Notion
+
+- [Fluid Simulation 流体シミュレーション](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
+
+---
+
 ## traversymedia
 
 - [MERN Crash Course (Part 2) - React Frontend UI, State Management With Redux Toolkit](https://www.traversymedia.com/blog/mern-crash-course-part-2)
@@ -462,6 +468,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## kciter
 
 - [함수형 자료구조](https://kciter.so/posts/functional-data-structure)
+
+---
+
+## Robin Wieruch
+
+- [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
 
 ---
 
