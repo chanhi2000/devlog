@@ -365,7 +365,6 @@ Next chapter will discuss how to handle duplicate contents.
 
 ## Exercises
 
-
 ::: info
 
 The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learnbyexample/learn_gnuawk/tree/master/exercises) directory has all the files used in this section.

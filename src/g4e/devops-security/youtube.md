@@ -107,11 +107,27 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 
 ---
 
+## Nielsen Networking
+
+<MyYouTubeItems jsonName="yu-NNAdmin" />
+
+<!-- Nielsen Networking -->
+
+---
+
 ## Payette Forward
 
 <MyYouTubeItems jsonName="yu-PayetteForward" />
 
 <!-- Payette Forward -->
+
+---
+
+## PhD Security
+
+<MyYouTubeItems jsonName="yu-phd_security" />
+
+<!-- PhD Security -->
 
 ---
 

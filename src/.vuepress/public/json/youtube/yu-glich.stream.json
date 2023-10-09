@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/dd9U5T2BQ2HkdKk5quYosKxMJ9qPaUPZRhU5zsxOJl7E32q7XofXD1h8QTslbVPWpn4QGOg4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Nn9Bv7_UCn8", "title": "Working on open source tools" },
     { "id": "VJB-TYo9_DY", "title": "Learn git by BUILDING IT From Scratch! (Part 1) Understanding the git internals [Advanced]" }, 
     { "id": "kpSJHtPOSLY", "title": "Building a GitHub CLI extension in Go (Part 5)" }, 
     { "id": "5wA0wwZ8FuU", "title": "Building a GitHub CLI extension in Go (Part 2)" }, 

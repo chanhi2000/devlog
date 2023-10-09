@@ -278,6 +278,22 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Gavin Lon
+
+<MyYouTubeItems jsonName="yu-GavinLon" />
+
+<!-- Gavin Lon -->
+
+---
+
+## CodeGanesh
+
+<MyYouTubeItems jsonName="yu-codeganesh" />
+
+<!-- CodeGanesh -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

@@ -569,6 +569,22 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## AF Swift Tutorials
+
+<MyYouTubeItems jsonName="yu-AFSwiftTutorials" />
+
+<!-- AF Swift Tutorials -->
+
+---
+
+## Paul Solt
+
+<MyYouTubeItems jsonName="yu-PaulSolt" />
+
+<!-- Paul Solt -->
+
+---
+
 ## Misc
 
 <!-- [Gary Tokman][yu-fgary] -->
@@ -579,6 +595,4 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 <TagLinks/>
 
 <!-- Misc -->
-[yu-learn-to-code-w-karoly-nyisztor]: https://www.youtube.com/@SwiftProgrammingTutorials
-[yu-auc-anz]: https://www.youtube.com/@auc_anz
 [yu-fgary]: https://www.youtube.com/@fgary

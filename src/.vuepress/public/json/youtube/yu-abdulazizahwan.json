@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/b0rPQbfhwl924TOkmHLm7MUVUCN1Rq_CvJR9O5pn98Vn3cUaIXI_PImbcCgBvxva-JzjjnQMpsI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BJZhS3DA5QA", "title": "Framer Tutorial - Build SaaS Landing Page Website from Figma to Framer" },
     { "id": "NeUegHLTrD8", "title": "How to Deploy Node.js Next.js Application on a VPS Ubuntu Server using UltaHost | Secure & Cheap" }, 
     { "id": "N9WLxEFloVY", "title": "Flutter UI Tutorial - Real Estate Home Rent App UI Design with Drawer Animation (Figma to Flutter)" }, 
     { "id": "CYlyvOFeJFY", "title": "Designing Modern Courier Delivery App UI Design Using Lottie Animation Library - Android Studio" }, 

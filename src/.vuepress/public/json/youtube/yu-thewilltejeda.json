@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "thewilltejeda",
+    "name": "Will Tejeda",
+    "profile": "https://yt3.googleusercontent.com/sMWpvGYJ5eKxeusA-DqRNd56A5TnWXoO6kQqEnrh01ltyf5S5i_-e7DF-mNr7qg4ngf6qBxkLw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9PtJaEzOYciK-2T2trscBvt8nae8wPaKp1n5jmuuvxqIg0gR5zpgZ_HPefSKX1zAgd_RkKBk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2b0l2qagaF8", "title": "HTMX #2: Rick And Morty Content Library Example With Active Search!" }
+  ]
+}

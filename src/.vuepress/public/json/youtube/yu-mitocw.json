@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "mitocw",
+    "name": "MIT OpenCourseWare",
+    "profile": "https://yt3.googleusercontent.com/CkEvFMW3FNnnPg7D3Pdr0LRPl2blov1rFHm4IUC4jDBtkzo_tFeB6L3icQJZLWOpsY6OkzMsTtU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ociEHVsR3p4kX7ujy1Jmu2xKhEiW0hUr7p4OHBu_pNKO_CiMdsY2NMaSH8CBZLgDKhsj7vn7vTY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wvXDB9dMdEo", "title": "1. Introduction, Financial Terms and Concepts" }
+  ]
+}

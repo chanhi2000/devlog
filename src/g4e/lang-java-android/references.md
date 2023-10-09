@@ -68,6 +68,12 @@ tags: ["references", "android"]
 
 ---
 
+## Google
+
+- [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+
+---
+
 ## Tutorial(s)
 
 - [appGuruz](http://www.theappguruz.com/category/android)

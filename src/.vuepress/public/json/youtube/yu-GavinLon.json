@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "GavinLon",
+    "name": "Gavin Lon",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaDJ4R6sxqj1bQ1uUvEJEnfnDPMJS6w7heJllYq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DFJINhWNmxIoZYzNjwXeDvDLAaFAKRMrPjQmitnweRE2IZbJPL3jJT1_mBTeMI7VqQI4InlYSA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rab_1cFQUF4", "title": "C# and Visual Studio Code Beginners Guide" },
+    { "id": "w471kefKdRc", "title": "Visual Studio Code, .NET 8, Blazor and C# Dev Kit - Create a Basic Application - Beginner Friendly" }
+  ]
+}

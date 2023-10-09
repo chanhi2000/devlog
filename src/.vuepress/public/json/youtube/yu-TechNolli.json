@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/t-701yNNDt5fDRNgAzl5idq-A7PiDSCjhUnjpNFDqTJ1oWzuJFsr4WWJuZdFc0E5DjngFAVQ-6A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HPHWBOrWDAs", "title": "13th Gen Intel Z790 Hackintosh / Opencore Install Guide" },
     { "id": "7uSjxZhJtNo", "title": "$150 Dell Optiplex 7020 Hackintosh Computer using Opencore - with FREE EFI!" },
     { "id": "gu3nGg_PqDI", "title": "HACKINTOSH an ASRock Z490 Phantom Gaming iTX w/THUNDERBOLT 3 OPENCORE 0.6.6 Guide using BIG SUR!" },
     { "id": "vaob-HFNLXM", "title": "Opencore Intel Kaby Lake Chipset USB Bootloader | 2020" },

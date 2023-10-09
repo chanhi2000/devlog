@@ -222,6 +222,22 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 
 ---
 
+## Engineering With Marek
+
+<MyYouTubeItems jsonName="yu-engineeringwithmarek5012" />
+
+<!-- Engineering With Marek -->
+
+---
+
+## GlobalYoung
+
+<MyYouTubeItems jsonName="yu-GlobalYoung7" />
+
+<!-- GlobalYoung -->
+
+---
+
 ## RustAU
 
 <MyYouTubeItems jsonName="yu-rustau5950" />

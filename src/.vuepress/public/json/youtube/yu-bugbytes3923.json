@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "bugbytes3923",
+    "name": "BugBytes",
+    "profile": "https://yt3.googleusercontent.com/vKT4x_gMhGGBWRVT27B_Kv2e10T2K8zbNsbLt5zpZHzuf0mvz2k9QEcD_0AFfoyHsJE-Zw4cnA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sxzld_A3w-McPIbiDog31iFkqoNDtUsD22_flBamY4EGBq9N3gz8mYGBKS2HquFxzouWZJweBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "F9H6vYelYyU", "title": "Golang + HTMX - Creating a Go webserver / HTMX Integration / Template Fragments" },
+    { "id": "QvaScsn6S6E", "title": "Django - Subquery, OuterRef and Exists objects for Database SQL Subqueries" }
+  ]
+}

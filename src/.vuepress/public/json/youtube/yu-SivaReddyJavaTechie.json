@@ -6,12 +6,7 @@
     "banner": ""
   },
   "videos": [
-    {
-      "id": "tZo-iv_wNzA", 
-      "title": "Tips To Improve The Eclipse IDE Performance"
-    }, {
-      "id": "7OGLYH5dRyE", 
-      "title": "Monolithic Application vs. Microservices Architecture"
-    }
+    { "id": "tZo-iv_wNzA",  "title": "Tips To Improve The Eclipse IDE Performance" }, 
+    { "id": "7OGLYH5dRyE",  "title": "Monolithic Application vs. Microservices Architecture" }
   ]
 }

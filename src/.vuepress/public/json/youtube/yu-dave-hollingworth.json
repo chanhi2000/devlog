@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dave-hollingworth",
+    "name": "Dave Hollingworth",
+    "profile": "https://yt3.googleusercontent.com/UCpxH3dZQflgycuLwshfCAhJ5pftM3W33t3jfxsF0yrXV0H7xHjPjBi_udW4p7MDb7mzQCHT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6gdp3fNFKW4K5dpk-t7F77PFEGRwWwWYHa8FNb0a3zGb4HGTzwmfTcKDc29avr5HxMC7vpaUXF0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bXTspwWR9uY", "title": "PHP in 60 Seconds: The Basics" }
+  ]
+}

@@ -183,5 +183,21 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 
 ---
 
+## Coding Is Fun
+
+<MyYouTubeItems jsonName="yu-CodingIsFun" />
+
+<!-- Coding Is Fun -->
+
+---
+
+## EXCEL DOERS
+
+<MyYouTubeItems jsonName="yu-EXCELDOERS" />
+
+<!-- EXCEL DOERS -->
+
+---
+
 <TagLinks />
 

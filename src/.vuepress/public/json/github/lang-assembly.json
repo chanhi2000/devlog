@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "officialSite": "https://vx-underground.org",
+    "topics": ["malware", "malware-detection", "malware-development", "malware-research"]
+  }
+]

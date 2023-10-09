@@ -2,13 +2,11 @@
   "channel": {
     "id": "RahulWagh",
     "name": "Rahul Wagh",
-    "profile": "https://yt3.googleusercontent.com/h2mg08zyrjpJVcdPbdh1IwkTHBFSguIkjIT3DSOrv50qyCQ2pq2UHf17-modwX52ViiNflqv2Kc=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/h2mg08zyrjpJVcdPbdh1IwkTHBFSguIkjIT3DSOrv50qyCQ2pq2UHf17-modwX52ViiNflqv2Kc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZYELmRnrkhB_iYRszPcYMUP4e1bg-maRev57mBREwHi7XnD3nl1pAdhat8mo5JXSfrxvU-xLeQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "peH95b16hNI",
-      "title": "Getting started with Prometheus Grafana and Node exporter - Part 1"
-    }
+    { "id": "peH95b16hNI", "title": "Getting started with Prometheus Grafana and Node exporter - Part 1" }
   ]
 }
 

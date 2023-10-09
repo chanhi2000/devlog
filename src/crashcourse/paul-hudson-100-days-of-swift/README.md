@@ -178,7 +178,7 @@ The next three projects we’ll be making move into the realm of richer user int
 - ✅[Day 52][day-52] – Project 13, part one
 - ✅[Day 53][day-53] – Project 13, part two
 - ✅[Day 54][day-54] – Project 13, part three
-- [Day 55][day-55] – Project 14, part one
+- ✅[Day 55][day-55] – Project 14, part one
 - [Day 56][day-56] – Project 14, part two
 - [Day 57][day-57] – Project 15, part one
 - [Day 58][day-58] – Project 15, part two
@@ -344,7 +344,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-52]: 52.md
 [day-53]: 53.md
 [day-54]: 54.md
-[day-55]: https://www.hackingwithswift.com/100/55
+[day-55]: 55.md
 [day-56]: https://www.hackingwithswift.com/100/56
 [day-57]: https://www.hackingwithswift.com/100/57
 [day-58]: https://www.hackingwithswift.com/100/58

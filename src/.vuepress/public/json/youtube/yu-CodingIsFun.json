@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/IrUqbwOIciMO9i-fM8P1dLqbVDkSGHZCC6334jjYJQvLCNEINrIW_0JSbnYid17CSAojprGf-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rfVfNTSqx4M", "title": "Replace your `VLOOKUP`. Use THIS instead!" },
     { "id": "xCsAbe5MVLc", "title": "I Built an AI App Using Streamlit in 6 Hours" },
     { "id": "Sb0A9i6d320", "title": "Turn An Excel Sheet Into An Interactive Dashboard Using Python (Streamlit)" },
     { "id": "-3otazH5crw", "title": "Excel + ChatGPT Integration: The Ultimate Problem-Solving Duo" },

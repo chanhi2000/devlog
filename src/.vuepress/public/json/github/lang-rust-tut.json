@@ -6,9 +6,9 @@
     "topics": ["rust", "learning", "practice", "study", "examples", "example", "exercise", "exercises"]
   }, {
     "repo": "google/comprehensive-rust",
-    "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+    "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
     "officialSite": "https://google.github.io/comprehensive-rust",
-    "topics": ["rust", "classroom", "course", "guide", "training-materials"]
+    "topics": ["android", "classroom", "course", "google", "guide", "rust", "training", "training-materials"]
   }, {
     "repo": "skyzh/mini-lsm",
     "desc": "A tutorial of building an LSM-Tree storage engine in a week! (WIP)",

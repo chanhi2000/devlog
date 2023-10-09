@@ -175,7 +175,11 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 - [CSS Variables 101](https://ishadeed.com/article/css-vars-101)
 
-<!-- Ahmad Shadeed -->
+---
+
+## Bram.us
+
+- [The Future of CSS: Easy Light-Dark Mode Color Switching with `light-dark()`](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark)
 
 ---
 

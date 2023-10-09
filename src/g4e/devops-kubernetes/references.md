@@ -31,6 +31,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 - [How to deploy your Golang project on Kubernetes](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)
 - [Autoscaling Ingress Controllers In Kubernetes](https://itnext.io/autoscaling-ingress-controllers-in-kubernetes-c64b47088485)
 - [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
+- [Video Streaming at Scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
 
 ---
 

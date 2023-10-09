@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "PaulSolt",
+    "name": "Paul Solt",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ53exvrW7BQdbwJr5l3S_00dARYgym1rDmw-i8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0Wgiy985agMjyJNyVhPA70ic5Tn4Yg-QQZgpWT_N4GIQttqX7bBJPYR5ULR-348ZoTWLSEMI=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8jahYWf8EAE", "title": "Swift TDD Code Kata - Testing Time (Introduction) Lambda School Guest Lecture (1/4)" }
+  ]
+}

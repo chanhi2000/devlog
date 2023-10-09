@@ -37,4 +37,12 @@ tags: ["sql", "db", "mysql", "shell"]
 
 ---
 
+## ORACLE-BASE.com
+
+<MyYouTubeItems jsonName="yu-oracle-base" />
+
+<!-- ORACLE-BASE.com -->
+
+---
+
 <TagLinks />

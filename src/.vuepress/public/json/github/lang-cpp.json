@@ -734,6 +734,11 @@
     "desc": "An Open Source Machine Learning Framework for Everyone",
     "officialSite": "https://tensorflow.org",
     "topics": ["deep-learning", "deep-neural-networks", "distributed", "machine-learning", "ml", "neural-network", "python", "tensorflow"]
+  }, {
+    "repo": "pdf2htmlEX/pdf2htmlEX",
+    "desc": "Convert PDF to HTML without losing text or format.",
+    "officialSite": "https://pdf2htmlEX.github.io/pdf2htmlEX",
+    "topics": ["html", "pdf", "pdf-document-processor", "pdf-viewer"]
   }
 ]
 

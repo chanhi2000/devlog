@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "tech_with_moss",
+    "name": "Tech and Beyond With Moss",
+    "profile": "https://yt3.googleusercontent.com/wDKswB5LHKhhgHGJ3Ub-ILpuEa0FXnGLfwiSvO4EgGFD20xGrHGB98T3YAz6YLtXVWDRqwqo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/locNyLWdq_42elUaL8yRWFi-_xeWHAD4Bj-UFcNQ2mxwLYfUFsWL0qq4U2qaOc78fmDEwMV_=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-CyVpfDQAG0", "title": "GitLab CI/CD | GitLab Runner Introduction | 2022" },
+    { "id": "JY3_cBdjFws", "title": "📊 - Display JUnit 5 Test Metrics in Grafana Using InfluxDB - Part 4" },
+    { "id": "A_2zcu15ukY", "title": "Blue Green Deployment Strategy Explained" }
+  ]
+}

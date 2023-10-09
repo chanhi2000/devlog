@@ -755,9 +755,9 @@
     "officialSite": ""
   }, {
     "repo": "haotian-liu/LLaVA",
-    "desc": "Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.",
-    "topics": [],
-    "officialSite": "https://llava.hliu.cc"
+    "desc": "Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.",
+    "officialSite": "https://llava.hliu.cc",
+    "topics": ["chatbot", "chatgpt", "foundation-models", "gpt-4", "instruction-tuning", "llama", "llama-2", "llama2", "llava", "multi-modality", "multimodal", "vision-language-model", "visual-language-learning"]
   }, {
     "repo": "Vision-CAIR/MiniGPT-4",
     "desc": "",
@@ -2888,5 +2888,15 @@
     "desc": "Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)",
     "officialSite": "",
     "topics": ["baichuan", "chatglm", "dpo", "falcon", "fine-tuning", "flash-attention-2", "internlm", "language-model", "llama", "llama2", "llm", "longlora", "peft", "pre-training", "qlora", "quantization", "qwen", "reinforcement-learning", "rlhf", "transformers"]
+  }, {
+    "repo": "microsoft/ToRA",
+    "desc": "ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools.",
+    "officialSite": "https://microsoft.github.io/ToRA",
+    "topics": ["autonomous-agents", "language-model", "llm", "mathematical-reasoning", "tool-learning"]
+  }, {
+    "repo": "Weixin-Liang/LLM-scientific-feedback",
+    "desc": "Can large language models provide useful feedback on research papers? A large-scale empirical analysis.",
+    "officialSite": "",
+    "topics": []
   }
 ]

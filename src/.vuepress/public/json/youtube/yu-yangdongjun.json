@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/kwazP42mizQvwvPJxjdI4iCY1Z2q_N6496hL8fckp1YG8anSrHeYxZkIfFIztFwW-AEO_ZzxiQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "T-OOwm7hd8U", "title": "돈이 되는 서비스를 위한 자동화 서비스 만들기" },
+    { "id": "SFIufVVI0-A", "title": "Typescript 개발속도를 향상시켜주는 여러 방법" },
+    { "id": "XuYazOOptvw", "title": "제가 느끼는 요즘 비전공자 현실상황" },
     { "id": "re6Einw8CWo", "title": "유튜브 쇼핑 자동화는 코딩으로 하세요" },
     { "id": "D8o79Uyht_M", "title": "AWS에서 배포하는 nextjs (with. AWS Builders Korea Program)" },
     { "id": "PHoybQvOR74", "title": "타입스크립트 any vs unknown #shorts" }

@@ -2,13 +2,11 @@
   "channel": {
     "id": "softwarecraftsmanshipluxem8137",
     "name": "Software Craftsmanship Luxembourg",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMTrzFgqrNWrzyNUQTFfgKKIT261PTIjVECGs4X=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMTrzFgqrNWrzyNUQTFfgKKIT261PTIjVECGs4X=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
   },
   "videos": [
-    {
-      "id": "IZWLnn2fNko",
-      "title": "TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać"
-    }
+    { "id": "IZWLnn2fNko", "title": "TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać" }
   ]
 }
 

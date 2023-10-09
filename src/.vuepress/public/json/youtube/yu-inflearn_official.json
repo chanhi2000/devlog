@@ -16,6 +16,6 @@
     { "id": "S11-HF0eNBc", "title": "IT 기술을 배우고 나눠요│인프런 | 이득우의 언리얼 프로그래밍 - 언리얼 게임제작의 기초" }, 
     { "id": "K1lKgxeXDrs", "title": "Vanilla JS와 함께 지속가능한 프런트엔드 코드 만들기 - 인프런 수강바구니 개선기 | 인프콘 2022" }, 
     { "id": "iEGDEdivaGA", "title": "승리하는 제안서 강의소개│인프런 | 미리보기 | 제안서 PM" }, 
-    { "id": "e5lIMEm7UPg", "title": "Sass (SCSS): CSS 가상요소(::before, ::after)를 이용한 링크 애니메이션 (Link Animation), attr(), currentColor" }    
+    { "id": "e5lIMEm7UPg", "title": "Sass (SCSS): CSS 가상요소(`::before`, `::after`)를 이용한 링크 애니메이션 (Link Animation), `attr()`, currentColor" }
   ]
 }

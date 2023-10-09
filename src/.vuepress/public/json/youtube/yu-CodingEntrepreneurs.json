@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/2l1QxRVzLpg2h1iEYFyXqzXOq8ZI32Uv5IG2ruvskbgwEjZOKVBm-4iO1JDG2eRDnFC5KCLo=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "am9dazrQqys", "title": "Auto configure any computer with Ansible." },
     { "id": "pKb-HctyPPw", "title": "Python Sets are a must know for all Python developers." }, 
     { "id": "cO35qXllVO8", "title": "Skip the Python Shell, use this instead." }, 
     { "id": "jbmo0sG2njk", "title": "Python: A better approach to requirements.txt." }, 

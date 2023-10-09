@@ -397,6 +397,14 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 ---
 
+## 테크도장
+
+<MyYouTubeItems jsonName="yu-테크도장" />
+
+<!-- 테크도장 -->
+
+---
+
 <TagLinks />
 
 [yu-easypub]: https://www.youtube.com/@easypub
@@ -430,8 +438,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-tech-gumbo]: https://www.youtube.com/@TechGumbo
 [yu-go-cloud-architects]: https://www.youtube.com/@GoCloudArchitects
 [yu-seoulian]: https://www.youtube.com/@seoulian
-[yu-giuseppe-scaramuzzino]: https://www.youtube.com/@
-[yu-aaeideapro1192]: https://www.youtube.com/@aaeideapro1192
 [yu-michael-cade]: https://www.youtube.com/@MichaelCade1
 [yu-linedevlog]: https://www.youtube.com/@linedevlog
 [yu-IB9696]: https://www.youtube.com/@IB9696
@@ -463,7 +469,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-android-developers]: https://www.youtube.com/@AndroidDevelopers
 [yu-user-nq5st4fy5n]: https://www.youtube.com/@user-nq5st4fy5n
 [yu-alexandrugutan7587]: https://www.youtube.com/@alexandrugutan7587
-[yu-philip-starritt]: https://www.youtube.com/@PhilipStarritt
 [yu-wizcenter-seoul]: https://www.youtube.com/@WizcenterSeoul
 [yu-murtazas-workshop]: https://www.youtube.com/@murtazasworkshop
 [yu-user-ku2nm2bp1t]: https://www.youtube.com/@user-ku2nm2bp1t
@@ -497,7 +502,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-antoniolg28]: https://www.youtube.com/@antoniolg28
 [yu-user-fm4nl5vr1v]: https://www.youtube.com/@user-fm4nl5vr1v
 [yu-riggaroo]: https://www.youtube.com/@riggaroo
-[yu-the-coding-train]: https://www.youtube.com/@TheCodingTrain
 [yu-varuncbv]: https://www.youtube.com/@varuncbv
 [yu-electronicsrepairschool]: https://www.youtube.com/@electronicsrepairschool
 [yu-user-jb1yn4ve5p]: https://www.youtube.com/@user-jb1yn4ve5p

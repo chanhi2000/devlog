@@ -19,6 +19,7 @@ tags: ["go", "golang"]
 - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 
 ---
+
 ## Medium
 
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)
@@ -44,6 +45,12 @@ tags: ["go", "golang"]
 ## Daniel Lemire
 
 - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
+
+---
+
+## Storj
+
+- [Lensm, A Tool for Viewing Disassembly](https://www.storj.io/blog/lensm)
 
 ---
 

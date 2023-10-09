@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "WesDoyle",
+    "name": "Wes Doyle",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZayo6zT-e89QMNP2gJS0x4v09rTAxyP29KdbMVgA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YRj2lT0bwvgCHCZWsc51vqspVFD0H5cD2BxnEJFIEokNSynoczWq-5_KpaJDYKEp6CCi3MqB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GRPjhAWkG_o", "title": "Building User Auth with Crypto Wallets and Stytch" },
+    { "id": "yXRGoZ2PsEo", "title": "Refactoring Messy to Testable Code in .NET (Part 2)" },
+    { "id": "WPVxXe8CQI4", "title": "Hackathon | Blazor Language-Learning App" },
+    { "id": "a_FLqX3vGR4", "title": "GitHub Forks and Pull Requests | Step by Step" },
+    { "id": "C9QDkwLEQlU", "title": "Full-Stack Vue, .NET, PostgreSQL - Part 02" }
+  ]
+}

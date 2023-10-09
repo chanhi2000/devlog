@@ -1,11 +1,12 @@
 {
   "channel": {
-    "id": "c",
+    "id": "Huntabyte",
     "name": "Huntabyte",
     "profile": "https://yt3.googleusercontent.com/jC3B-FwL-4GqQKiLzbKt60mcZxm12Kudxx6WF9I8nG7xHeQ87m8BfoHsD2NHmTZ0-ooojbC3=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/h5Wmv5I8Q_hnpIOlrK1uB0Ct-lGktG_WmRcfovpV8aPdSMWqLTrIyPiGKurvrKWBgL76BMMc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DgNWssn2vpc", "title": "Don't Sleep on Svelte 5" },
     { "id": "san5ValGE5g", "title": "Working on the Date Picker for Melt UI" },
     { "id": "ugaajUi9xAQ", "title": "Prevent App Abuse with Upstash Redis" },
     { "id": "bfbam0Zf4p0", "title": "The Anti Component Library" }, 

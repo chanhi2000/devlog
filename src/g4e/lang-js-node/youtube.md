@@ -1411,4 +1411,28 @@ tags: ["education", "youtube", "programming", "js", "node"]
 
 ---
 
+## Wes Doyle
+
+<MyYouTubeItems jsonName="yu-WesDoyle" />
+
+<!-- Wes Doyle -->
+
+---
+
+## Will Tejeda
+
+<MyYouTubeItems jsonName="yu-thewilltejeda" />
+
+<!-- Will Tejeda -->
+
+---
+
+## Learn with Pratap
+
+<MyYouTubeItems jsonName="yu-learnpratap" />
+
+<!-- Learn with Pratap -->
+
+---
+
 <TagLinks />

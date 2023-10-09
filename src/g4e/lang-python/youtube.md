@@ -219,4 +219,12 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## ezsw
+
+<MyYouTubeItems jsonName="yu-csezsw" />
+
+<!-- ezsw -->
+
+---
+
 <TagLinks />

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codewithdary",
+    "name": "Code With Dary",
+    "profile": "https://yt3.googleusercontent.com/-WCYFhpqKRyPbs9-ernsouHzls8ZX1rxA5g3pt4eVxgF-qHGZcQyjKmuNxxv91imrhwk-KXdohA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PC_c4rYZsAsg3rBMtj1WaBxL0_vk7nrHiN8PR8GfDxMot5pYa3Z1vhTjZPUQMndXx8s3tZ4btg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VaJ1GO7b6Ig", "title": "Master Laravel Controllers with These 5 Best Practices #laravel #shorts" },
+    { "id": "wGu8lgaK_v8", "title": "How to Become a PRO in FilamentPHP v3 in 4 hours - Complete FilamentPHP Tutorial for Beginners" }
+  ]
+}

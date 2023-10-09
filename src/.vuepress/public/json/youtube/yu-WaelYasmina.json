@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "WaelYasmina",
+    "name": "Wael Yasmina",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbEpBbcHQHXBUavFuNu3QJJNtlOLuYVkZdwx2UM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wGvbWLzufnwftrGQo6_t04YEhZF0i-BbbVepaqQrMD3y2ijxBntn_v9EWRER0Ii8JyCfWvWoqA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xZM8UJqN1eY", "title": "GLSL & Shaders Tutorial - Understanding The Syntax And The Idea Behind The Vertex & Fragment Shaders" }
+  ]
+}

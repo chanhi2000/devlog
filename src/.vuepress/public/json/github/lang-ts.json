@@ -1533,5 +1533,10 @@
     "desc": "Building a modern alternative to Salesforce, powered by the community.",
     "officialSite": "https://twenty.com",
     "topics": ["crm", "crm-system", "customer", "good-first-issue", "graphql", "hacktoberfest", "hacktoberfest2023", "javacript", "marketing", "monorepo", "nestjs", "open-source", "postgresql", "prisma", "react", "reactjs", "sales", "typescript", "web"]
+  }, {
+    "repo": "piyushgarg-dev/review-app",
+    "desc": "Frontend Review Management Application | https://youtu.be/JD3NQsB3TQI",
+    "officialSite": "",
+    "topics": ["hacktoberfest"]
   }
 ]

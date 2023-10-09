@@ -148,6 +148,12 @@ description: 🐋Docker > 📚References
 
 ---
 
+## tailscale
+
+- [Introducing the Tailscale Universal Docker Mod](https://tailscale.dev/blog/docker-mod-tailscale)
+
+---
+
 ## Misc
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)

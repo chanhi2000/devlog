@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "OpenStackKoreaGroup",
+    "name": "OpenStack Korea Group",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaIDyHwu1L35xDPk5AlbmF-PFRd8cy3G4a0rHaR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S4O95-olyJAOU4mR5ilyOMIZJP6Lla5y4K4EYzuxUxHXqdSa018XjGE4Nb9p9axaVYdoEm_G=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dR86iBTSOWA", "title": "Grafana LGTM Stack을 이용한 Observability 환경 구성 / 한종민" }
+  ]
+}

@@ -6,11 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/H8_4Waa8bWh5flJA7Epnpbd7zKo7nbKG9p-dqGOXSjbscK0RmNaxUcB2mOgxK4O8SF9fXAiOcA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hy2FoW70doI", "title": "Testim Beginner Tutorial 1 | Getting Started" },
     { "id": "8rXyQqRtnrk", "title": "2 | Jenkins 2023 |  Home Directory | Step-by-Step for Beginners" },
     { "id": "BRrDGDW-eNQ", "title": "4 | Jenkins 2023 |  Chaining Jobs and creating Pipeline | Step-by-Step for Beginners" },
     { "id": "cy2257Y7I54", "title": "1 | Jenkins 2023 | Getting Started | Step-by-Step for Beginners" },
     { "id": "vyiJrTHXE0M", "title": "6 | Ansible Hello World" },
-    { "id": "y8CiSwDnQSU", "title": "2 |  Interacting With Elements | Selenium Python" }
+    { "id": "y8CiSwDnQSU", "title": "2 |  Interacting With Elements | Selenium Python" },
     { "id": "ylEy4eLdhFs", "title": "GitHub Actions Step by Step DEMO for Beginners" }, 
     { "id": "6g5iz4tS3no", "title": "WebdriverIO How to implement Page Object Model" }, 
     { "id": "m_pbiGwDpgM", "title": "Gatling Beginner Tutorial 2 | Maven, Project, Scripts, Execution & Reporting |" }, 

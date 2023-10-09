@@ -11,7 +11,7 @@
     { "id": "1563qs9bwao", "title": "23 09 19, ken 13029, 14강, 회원 생성" },
     { "id": "WSEvxL4Ajzs", "title": "23 09 19, ken 13029, 15강, 답변 생성" },
     { "id": "YCUGxbuW8PQ", "title": "23 09 19, ken 13029, 16강, 질문 삭제, 수동으로 관련된 답변들을 먼저 제거" },
-    { "id": "CbO6NlaSZvQ", "title": "23 09 19, ken 13029, 17강, answers 필드 추가, @Builder.Default, @OneToMany(mappedBy = &quot;question&quot;)" },
+    { "id": "CbO6NlaSZvQ", "title": "23 09 19, ken 13029, 17강, `answers` 필드 추가, `@Builder.Default`, `@OneToMany(mappedBy = \"question\")`" },
     { "id": "D0dTVHdo8ZI", "title": "23 09 19, ken 13029, 12강, 하나의 객체를 save 후 findById 를 하면 영속성 컨텍스트에 저장된 걸 가져오기에 SELECT 스킵" },
     { "id": "fbtAtwGZ8ig", "title": "23 09 19, ken 13029, 11강, 영속성 컨텍스트는 트랜잭션 당 1개씩 존재한다." },
     { "id": "LzwADyDmyS8", "title": "23 09 19, ken 13029, 10강, 히카리CP라는 DB 커넥션 풀 매니저는 여러개의 DB 커넥션을 미리 만들어 둔다." },

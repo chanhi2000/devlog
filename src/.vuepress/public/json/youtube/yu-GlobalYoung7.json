@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "GlobalYoung7",
+    "name": "GlobalYoung",
+    "profile": "https://yt3.googleusercontent.com/xMpXSFXEHgj1aIDHC_J6T8RNaiH-Kar1SCkkzmQzvPGL4_aqwQdgv4wkmKkKqvm9AzcP4ndC_A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MCtUzPnKSZQ", "title": "한글Rust_078⭐️현대판Tree_Rust로 만든 프로그램Broot #broot #tree" },
+    { "id": "3vsPhUc71Dg", "title": "개고생하면서 배우는 Rust & C 메모리 & String & Assembly 집중 분석 001" },
+    { "id": "hwD-sh5HBok", "title": "개고생하면서 배우는 Rust & C & Assembly 집중 분석 002" },
+    { "id": "HNGF0V58rrY", "title": "개고생하면서 배우는 Zig 집중 분석 002" },
+    { "id": "y7MvwlNB7VE", "title": "개고생하면서 배우는 Kotlin 집중 분석 002(VScode, debugging, helix, lunarVim)" },
+    { "id": "OCyO_l0n_cU", "title": "개고생하면서 배우는 Rust & C & Assembly 집중 분석 003(Rustlings&RustByExample&The_Rust Reference)" }
+  ]
+}

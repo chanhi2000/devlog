@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 📁 Scripts for Files & Folders
-description: 🧙‍♂️Powershell > 📁 Scripts for Files & Folders
+title: 📁Scripts for Files & Folders
+description: 🧙‍♂️Powershell > 📁Scripts for Files & Folders
 tags: ["powershell", "windows", "script", "useful-script"]
 ---
 
@@ -716,6 +716,81 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script changes the working directory to the user's Git repositories folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-repos.ps1 [[-Subpath] <String>] [<CommonParameters>]
+
+-Subpath <String>
+    Specifies an additional relative subpath (optional)
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-repos
+# 📂C:\Users\Markus\source\Repos
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to the user's repos folder
+.DESCRIPTION
+	This PowerShell script changes the working directory to the user's Git repositories folder.
+.PARAMETER Subpath
+	Specifies an additional relative subpath (optional)
+.EXAMPLE
+	PS> ./cd-repos
+	📂C:\Users\Markus\source\Repos
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$Subpath = "")
+
+try {
+	if (Test-Path "$HOME/Repos" -pathType Container) {		# try short name
+		$Path = "$HOME/Repos/$Subpath"
+	} elseif (Test-Path "$HOME/Repositories" -pathType Container) {	# try long name
+		$Path = "$HOME/Repositories/$Subpath"
+	} elseif (Test-Path "$HOME/source/repos" -pathType Container) { # try Visual Studio default
+		$Path = "$HOME/source/repos/$Subpath"
+	} else {
+		throw "The folder for Git repositories in your home directory doesn't exist (yet)."
+	}
+	if (-not(Test-Path "$Path" -pathType Container)) { throw "The path to 📂$Path doesn't exist (yet)." }
+	$Path = Resolve-Path "$Path"
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error: $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-root.ps1`
@@ -727,6 +802,58 @@ link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-root.md
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
+
+This PowerShell script changes the current working directory to the root directory (<FontIcon icon="iconfont icon-folder"/>`C:\` on Windows).
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-root.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-root
+# 📂C:\
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to the root directory 
+.DESCRIPTION
+	This PowerShell script changes the current working directory to the root directory (C:\ on Windows).
+.EXAMPLE
+	PS> ./cd-root
+	📂C:\
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	if ($IsLinux) {	$Path = "/" } else { $Path = "C:\" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
 
 ---
 
@@ -740,6 +867,59 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script changes the working directory to the PowerShell scripts folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-scripts.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-scripts
+# 📂C:\Users\Markus\source\repos\PowerShell\Scripts
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to the PowerShell scripts folder
+.DESCRIPTION
+	This PowerShell script changes the working directory to the PowerShell scripts folder.
+.EXAMPLE
+	PS> ./cd-scripts
+	📂C:\Users\Markus\source\repos\PowerShell\Scripts
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$Path = Resolve-Path "$PSScriptRoot"
+	if (-not(Test-Path "$Path" -pathType container)) { throw "PowerShell scripts folder at 📂$Path doesn't exist (yet)" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-ssh.ps1`
@@ -751,6 +931,59 @@ link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-ssh.md
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
+
+This PowerShell script changes the working directory to the user's SSH folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-ssh.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-ssh
+# 📂C:\Users\Markus\.ssh
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to the user's SSH folder
+.DESCRIPTION
+	This PowerShell script changes the working directory to the user's SSH folder.
+.EXAMPLE
+	PS> ./cd-ssh
+	📂C:\Users\Markus\.ssh
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$Path = Resolve-Path "~/.ssh"
+	if (-not(Test-Path "$Path" -pathType container)) { throw "User's SSH folder at 📂$Path doesn't exist (yet)" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
 
 ---
 
@@ -764,6 +997,59 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script changes the working directory to one directory level up.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-up.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-up
+# 📂C:\Users
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to one level up
+.DESCRIPTION
+	This PowerShell script changes the working directory to one directory level up.
+.EXAMPLE
+	PS> .\cd-up
+	📂C:\Users
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$Path = Resolve-Path ".."
+	if (-not(Test-Path "$Path" -pathType container)) { throw "Folder at 📂$Path doesn't exist (yet)" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-up2.ps1`
@@ -775,6 +1061,59 @@ link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up2.md
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
+
+This PowerShell script changes the working directory to two directory level up.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-up2.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-up2
+# 📂C:\
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to two directory levels up
+.DESCRIPTION
+	This PowerShell script changes the working directory to two directory level up.
+.EXAMPLE
+	PS> ./cd-up2
+	📂C:\
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$Path = Resolve-Path "../.."
+	if (-not(Test-Path "$Path" -pathType container)) { throw "Folder at 📂$Path doesn't exist (yet)" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
 
 ---
 
@@ -788,6 +1127,59 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script changes the working directory to three directory levels up.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-up3.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-up3
+📂C:\
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to three directory levels up
+.DESCRIPTION
+	This PowerShell script changes the working directory to three directory levels up.
+.EXAMPLE
+	PS> ./cd-up3
+	📂C:\
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$Path = Resolve-Path "../../.."
+	if (-not(Test-Path "$Path" -pathType container)) { throw "Folder at 📂$Path doesn't exist (yet)" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-up4.ps1`
@@ -800,6 +1192,59 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script changes the working directory to four directory levels up.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-up4.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-up4
+# 📂C:\
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to four directory levels up
+.DESCRIPTION
+	This PowerShell script changes the working directory to four directory levels up.
+.EXAMPLE
+	PS> ./cd-up4
+	📂C:\
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	$Path = Resolve-Path "../../../.."
+	if (-not(Test-Path "$Path" -pathType container)) { throw "Folder at 📂$Path doesn't exist (yet)" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-videos.ps1`
@@ -811,6 +1256,63 @@ link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-videos.md
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
+
+This PowerShell script changes the working directory to the user's videos folder.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./cd-videos.ps1 [<CommonParameters>]
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./cd-videos
+# 📂C:\Users\Markus\Videos
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Sets the working directory to the user's videos folder
+.DESCRIPTION
+	This PowerShell script changes the working directory to the user's videos folder.
+.EXAMPLE
+	PS> ./cd-videos
+	📂C:\Users\Markus\Videos
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+try {
+	if ($IsLinux) {
+		$Path = Resolve-Path "$HOME/Videos"
+	} else {
+		$Path = [Environment]::GetFolderPath('MyVideos')
+	}
+	if (-not(Test-Path "$Path" -pathType container)) { throw "Videos folder at 📂$Path doesn't exist (yet)" }
+	Set-Location "$Path"
+	"📂$Path"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
 
 ---
 

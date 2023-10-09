@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "geohotarchive",
+    "name": "george hotz archive",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZZAHTMYnXqoZ3oX9qevWf6g6PxsAAw7P_lTXOTWA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Nn4hpY1fEJBjee0fWZ76I2sjzA-PAp4Pi9fcdWxN8hVcE3xEZ_Ge122EI9xIYf2P_V6aOqS32Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AV5JXG8y4fA", "title": "George Hotz | Programming | hand optimizing a resnet 50 in tinygrad | tinygrad.org" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "phd_security",
+    "name": "PhD Security",
+    "profile": "https://yt3.googleusercontent.com/1TEM6wyKF82rwwcPYTQIHD_OeVxH02kYWBpzqc7J3OerSrQZmgMTrtYRVi35arnfh9a3GYDv=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5WO1jHENDpLetSABNMuLEe5gTzQtoBLIpT3_5utPwKGH90WU5JaFpQcbSsDCuZQL7izW4g5Rsqc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0fC1JsN8AsM", "title": "Python for Hackers Course | Scripting Bug Bounty & Ethical Hacking" },
+    { "id": "XWuP5Yf5ILI", "title": "Python for Hackers FULL Course | Bug Bounty & Ethical Hacking" }
+  ]
+}

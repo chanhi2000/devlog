@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "gjrVCY3oPds", "title": "Intro to React - Build a Kanban Board" },
     { "id": "_2O2N0taalM", "title": "Generating Sitemap XML for Static and Dynamic Nuxt Routes - Nuxt Sitemap, Part 1" }, 
     { "id": "M033S_-uHkQ", "title": "Building a Reusable Pagination Component in VueJS" }, 
     { "id": "gGosCQzPCVg", "title": "Using MirageJS to mock a backend API in Vue" }, 

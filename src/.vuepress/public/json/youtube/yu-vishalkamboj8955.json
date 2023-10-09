@@ -6,18 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/9DEju-rwX2dKtijKJDwqmqttFg5LeBcas_LtjSo984xaU8f7TzTwUmbrbKVW-ptdJiJqIa7_EQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "OToRgzgDXiE",
-      "title": "Test Driven Development (Part 2) Mockito Android Unit Test LiveData"
-    }, {
-      "id": "uX6BKcBYcfU",
-      "title": "Kotlin Room Example with Androidx Recyclerview"
-    }, {
-      "id": "wWO0mA-OcZo",
-      "title": "Espresso Recyclerview Test .."
-    }
+    { "id": "OToRgzgDXiE", "title": "Test Driven Development (Part 2) Mockito Android Unit Test LiveData" }, 
+    { "id": "uX6BKcBYcfU", "title": "Kotlin Room Example with Androidx Recyclerview" }, 
+    { "id": "wWO0mA-OcZo", "title": "Espresso Recyclerview Test .." }
   ]
 }
-
-
-

@@ -39,7 +39,7 @@
     { "id": "1Gn3YNGmFrQ", "title": "The Java Streams collect() Terminal Operations (Part 3)" },
     { "id": "W-sBjArbvKs", "title": "The Java Streams collect() Terminal Operations (Part 1)" },
     { "id": "APnQ7tQrp0A", "title": "The Java Streams collect() Terminal Operations (Part 2)" },
-    { "id": "waFLfRKywMQ", "title": "The Java Streams forEach() &amp; forEachOrdered() Terminal Operations" },
+    { "id": "waFLfRKywMQ", "title": "The Java Streams forEach() & `forEachOrdered()` Terminal Operations" },
     { "id": "JdffiF33BRw", "title": "Overview of Java Streams Terminal Operations" },
     { "id": "JF3_kjoIhng", "title": "Refactoring Java Streams with ChatGPT to Enhance Code for Classroom Teaching" },
     { "id": "QYZLm3DCaRc", "title": "Walkthrough of Assignment 3a for CS 253 in the Fall of 2023" },

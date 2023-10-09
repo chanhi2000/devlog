@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/5Pa4QPVbZWV7bsrswHjaJrbT_YXmvnFTpi6QV1RgZXAc4adbT5HH6InHRACk9rSBp8BAEOAQqw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-ioJQGLWZok", "title": "OpenTelemetry Collector Example - Java Agent with Spring Boot Docker" },
     { "id": "_859wl7Smm8", "title": "Spring Boot RESTful Web Service Tutorial - Java REST API" }, 
     { "id": "_T_0VB3AoV4", "title": "Spring Boot GraphQL Tutorial #31 – Spring Security Authorization" }, 
     { "id": "DyNXkznUYaU", "title": "Consume a RESTful Web Service in Java Spring Boot | REST API Client" }, 

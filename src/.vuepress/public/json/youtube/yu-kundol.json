@@ -6,11 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/iMHGMGwmtK06qKBIx5fgsdq7Sn7XOPuj6_jcD_TxVag4eCva3bXiK-KrnuJD_-p9HHGQbq4xd98=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LV-gxtDkiiw", "title": "카카오면접을 합격으로 이끌었던 몇가지의 코드" },
     { "id": "n5TLPPprGMA", "title": "카카오뱅크 IOS 개발자 채용 | 코테X" },
     { "id": "v3myU3II4AA", "title": "견고한 데이터 엔지니어링이란?" },
     { "id": "nYFVOG2lzSk", "title": "개발자는 책 어떻게 쓰나요?" }, 
     { "id": "YahjHM9UNCA", "title": "www.naver.com을 주소창에 치면 무슨 일이 일어날까요?" }, 
-    { "id": "FnatPPpBzoQ", "title": "이 라이브러리가 있는데 이거 왜 쓰셨나요? | 개발자면접 단골질문" },  
+    { "id": "FnatPPpBzoQ", "title": "이 라이브러리가 있는데 이거 왜 쓰셨나요? | 개발자면접 단골질문" },
     { "id": "Qi2LJ_NfzC0", "title": "제대로 이해하는 JSON | 개발자필수지식" }, 
     { "id": "DBXEWJx2mIw", "title": "구현 문제 잘 푸는 팁 | 2023 네이버 코딩테스트 분석" }
   ]

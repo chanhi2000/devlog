@@ -2,12 +2,10 @@
   "channel": {
     "id": "skills_matter",
     "name": "Skills Matter",
-    "profile": "https://yt3.googleusercontent.com/GcgfOvOEWfvCp4GHvrKyZXvuhheErjNgRSc0nGpnQUsk-8vxc3gLN1roAki_Y51IfCaNBycgfg=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/GcgfOvOEWfvCp4GHvrKyZXvuhheErjNgRSc0nGpnQUsk-8vxc3gLN1roAki_Y51IfCaNBycgfg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S_RoA7-V2Tbktl4EcVYw6LRn6KZ6gb09tJb3SH_x6UgEwiOff6uys8epszK3oFDx6JYVqf4P=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id":"OuSiuySr6_Q",
-      "title": "Rust in 2024 (Niko Matsakis)"
-    }
+    { "id":"OuSiuySr6_Q", "title": "Rust in 2024 (Niko Matsakis)" }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "BrooksBuilds",
+    "name": "Brooks Builds",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbUUst2gopkuOFrx9CuI4FUR-ce7zDXNreqoTVg7g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JwM_J-ApkhU", "title": "Stream archive: Finishing Query Params article, recording query params, recording errors \"short\" (20" },
+    { "id": "1ROm6B9GbHw", "title": "Stream archive: Writing article for handling Axum Errors (2023-09-14)" },
+    { "id": "o7xJH7mdsaI", "title": "Stream archive: Handling errors in Axum and state management (2023-09-15)" },
+    { "id": "NdrWyAODoqE", "title": "Stream archive: Axum state, recording a video, and starting a lesson on connecting to Redis and Post" },
+    { "id": "-1ZiYBmQHZA", "title": "Stream archive: Connecting to Redis from Axum (2023-09-21)" },
+    { "id": "xiHwE5sPYx8", "title": "Stream archive: Connecting to Redis in Axum + Rust (2023-09-22)" },
+    { "id": "oT544TARm6Y", "title": "Stream archive: Reviewing Redis in Axum article and recording a video (2023-09-25 evening)" },
+    { "id": "omwDgkFu1Lg", "title": "Stream archive: SQLx Rust (2023-09-27)" },
+    { "id": "-dSTqEySS2U", "title": "Stream archive: Which SQLx Rust function or macro should we use? (2023-09-28)" },
+    { "id": "8xPlf1l_g0c", "title": "Stream archive: Using SQLx Rust to insert into a Postgres Database (2023-09-28 evening)" }
+  ]
+}

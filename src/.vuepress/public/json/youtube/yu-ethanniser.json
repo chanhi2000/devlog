@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "NZpPMlSAez0", "title": "Build a Multi-Tenant B2B App With BUN and HTMX - FULL COURSE" },
     { "id": "cpzowDDJj24", "title": "The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance" }
   ]
 }

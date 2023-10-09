@@ -6,27 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/-IIo0fQaudHhJhJxlRbO0R8WM62cGhN7kxJPeqjttKADE7-Kp5v5RZIDCB16nA6CK3grwcXeMbI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "KD_FnyqH3Lo",
-      "title": "Turn Excel into an App with Copilot Magic"
-    }, {
-      "id": "W8JjF2k0IQA",
-      "title": "Saving Power Apps Data with the Patch Function"
-    }, {
-      "id": "WlWT0lWTGU8",
-      "title": "Validate Inputs, Warn Users, and Disable Buttons in Power Apps"
-    }, {
-      "id": "KD_FnyqH3Lo",
-      "title": "Turn Excel into an App with Copilot Magic"
-    }, {
-      "id": "8Sdx7baJEuU",
-      "title": "PowerApps Component Libraries - Share and reuse across the org"
-    }, {
-      "id": "BPmCW1uXh38",
-      "title": "PowerShell for PowerApps and Flow"
-    }, {
-      "id": "YgWT9mJKEzk",
-      "title": "Introduction to Microsoft Forms - No more Survey Monkey"
-    }
+    { "id": "KD_FnyqH3Lo", "title": "Turn Excel into an App with Copilot Magic" }, 
+    { "id": "W8JjF2k0IQA", "title": "Saving Power Apps Data with the Patch Function" }, 
+    { "id": "WlWT0lWTGU8", "title": "Validate Inputs, Warn Users, and Disable Buttons in Power Apps" }, 
+    { "id": "KD_FnyqH3Lo", "title": "Turn Excel into an App with Copilot Magic" }, 
+    { "id": "8Sdx7baJEuU", "title": "PowerApps Component Libraries - Share and reuse across the org" }, 
+    { "id": "BPmCW1uXh38", "title": "PowerShell for PowerApps and Flow" }, 
+    { "id": "YgWT9mJKEzk", "title": "Introduction to Microsoft Forms - No more Survey Monkey" }
   ]
 }

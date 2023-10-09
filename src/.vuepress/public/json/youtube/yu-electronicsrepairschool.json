@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "electronicsrepairschool",
+    "name": "Electronics Repair School",
+    "profile": "https://yt3.googleusercontent.com/rguS6hvTgH1XaFc16q_DkdoMaJ3qgjfKTThMz5An066lpxEV_GVs4DR2jUeIXQdTyVQQRMDGRA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HYgUjZ8QvTn3l5Z75bI78n_aAxDGgpYQjUhznUeI4gfiFrCwO1YNlslC_LiKom6hlkTkKxEQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OkadkPyGjY4", "title": "How to Reprogram a BIOS - The easy way to rewrite a bios on a Hp laptop" },
+    { "id": "bwqt0HrSdyA", "title": "Do you have bad RAM? Bad ram memory symptom - Let's learn together" },
+    { "id": "uRjvq-Yuz88", "title": "Free Online Electronics Class" },
+    { "id": "h2hI7LEG0ak", "title": "Invalid traffic bug got my second channel - more content creators affected by this bug" }
+  ]
+}

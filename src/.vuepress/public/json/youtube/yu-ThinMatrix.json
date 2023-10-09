@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/a1oUhDjySzaujtGvt1EqwNGkyELbrKTyNOTloe8eWUxXwgjKhmflNDZlHIFtkV1qUGcK9jLh=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MEizUamJTyk", "title": "Technical Devlog: Implementing Audio into my Game Engine" },
     { "id": "TrZyfA02tIY", "title": "Homegrown Devlog - New Compost System!" },
     { "id": "j_H3QHdov-A", "title": "Programming Particle Effects in my Game Engine" }, 
     { "id": "148r0UVQBxU", "title": "Programming Cars for my City-Builder Game" }, 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/0_niFavz4DhmkPH4iAd8zCfCCqoKH4eytZHxE3X020hGECSWYBZM6rPit8ymXqAw0mg91OnDCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6BsyG9HII84", "title": "Is LEARNING WPF still WORTH it in 2023?" },
     { "id": "6gMDGbf9XZ4", "title": "Make an Excel Editor with C#! - Create, Write, and Read Excel files with C# and .NET" },
     { "id": "1hwHQJJvwWY", "title": "Make your APPS FASTER with Asynchronous programming in C# - TASK PARALLEL LIBRARY" }, 
     { "id": "GHNrje08gQM", "title": "Namespace and Assembly in C# - Where is the difference?" }, 

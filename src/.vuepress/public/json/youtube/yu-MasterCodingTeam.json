@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dLvtub8UjHQ", "title": "Learn Basic Java for Android Development - Learn Java from Scratch" },
     { "id": "tdljxEk1H2s", "title": "Android Studio Layout Editor - Learn Android #7" },
     { "id": "_mGR04bi03A", "title": "Creating Emulators in Android - Learn Android with Java #2" },
     { "id": "KncS-2bg1JM", "title": "🚀 Mastering Jetpack Compose Course - Building Dynamic User Interfaces" },

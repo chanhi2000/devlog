@@ -125,6 +125,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## null program
+
+- [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

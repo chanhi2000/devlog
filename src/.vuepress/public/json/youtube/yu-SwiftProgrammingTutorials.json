@@ -6,9 +6,6 @@
     "banner": "https://yt3.googleusercontent.com/Py452YavO53rlAuQ5L_l0c3HUxDcgAEnnrNn5ycLHQjPORBTtnPJ3ggRArVbqwY9-YMlWqwNhA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "LdIib-SrOmk",
-      "title": "Here's How to Construct a Swift Type from a String"
-    }
+    { "id": "LdIib-SrOmk", "title": "Here's How to Construct a Swift Type from a String" }
   ]
 }
