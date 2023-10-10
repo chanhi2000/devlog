@@ -23,5 +23,19 @@
     { "id": "X48VuDVv0do", "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]" }, 
     { "id": "3c-iBn73dDE", "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]" }, 
     { "id": "w-X_EQ2Xva4", "title": "Python Automation with ChatGPT" }
+  ],
+  "playlists": [
+    {
+      "title": "Infrastructure as Code (IaC) Tutorials",
+      "videos": [
+        { "id": "1id6ERvfozo", "title": "What is Ansible | Ansible Playbook explained | Ansible Tutorial for Beginners" },
+        { "id": "l5k1ai_GBDE", "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners" },
+        { "id": "POPP2WTJ8es", "title": "What is Infrastructure as Code? Difference of Infrastructure as Code Tools" },
+        { "id": "m3cKkYXl-8o", "title": "Terraform Tutorial | Terraform Course Overview [2021]" },
+        { "id": "vIjeiDcsR3Q", "title": "Pulumi - IaC in your favorite programming language!" },
+        { "id": "f5EpcWp0THw", "title": "What is GitOps, How GitOps works and Why it's so useful" },
+        { "id": "gxPykhPxRW0", "title": "8 Terraform Best Practices that will improve your TF workflow immediately" }
+      ]
+    }
   ]
 }

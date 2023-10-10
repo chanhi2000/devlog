@@ -8,5 +8,25 @@
   "videos": [
     { "id": "RVnxF3j3N8U", "title": "Svelte 5: Introducing Runes... with Rich Harris" },
     { "id": "LnMz7ElNk7Q", "title": "Sirens: Converting Packages to Svelte" }
+  ],
+  "playlists": [
+    {
+      "title": "Svelte Summit Spring 2023",
+      "videos": [
+        { "id": "0bog8-Ay7CU", "title": "Svelte Summit Spring 2023" },
+        { "id": "QZ2am5q4omE", "title": "Dominik G - svelte inspector update" },
+        { "id": "LHe0TqKC6XA", "title": "EmNudge - Get your keyboard out of your way with Svelte" },
+        { "id": "K95TQ-Yh7Cw", "title": "Geoff Rich - Supercharge your app's animation with View Transitions" },
+        { "id": "nN72awrXsHE", "title": "Andreas Söderlund - Superforms!" },
+        { "id": "KxK9iA1ktlU", "title": "Chris Simmons - Skeleton, a powerful UI toolkit for Svelte + Tailwind" },
+        { "id": "Li-N9qfDxtU", "title": "Conner (Semicognitive) - Intelligent Svelte: Unleashing AI with Reactivity" },
+        { "id": "U3rS-nOiN6k", "title": "Jacob Stordahl - Svelte at Scale: Lessons Learned from 1 Billion Monthly Renders" },
+        { "id": "o7lmd5ts_ko", "title": "Eric Bréhault - Svelte, do you hear me?" },
+        { "id": "-QPP-JXICyk", "title": "Grischa Erbe - Threlte 6" },
+        { "id": "HdkJTOTY-Js", "title": "Rich Harris - SvelteSnaps" },
+        { "id": "Y6IbPfMU1xM", "title": "Ivan Hofer - SvelteKit and i18n: let's finally solve this never ending story" },
+        { "id": "UKZDcDNAHXY", "title": "Paolo Ricciuti, Antonio Sarcevic - Hacking SvelteLab" }
+      ]
+    }
   ]
 }

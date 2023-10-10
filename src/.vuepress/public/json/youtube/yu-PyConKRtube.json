@@ -11,6 +11,23 @@
     { "id": "5FvicDwklaA", "title": "Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021" }, 
     { "id": "oQ50eqDH91A", "title": "[2018. 05] 파이썬 개발환경 구성하기 거의 끝판왕   Docker Compose - 김승호" }, 
     { "id": "b6vHjT1t0ug", "title": "Python을 활용한 작업표준 및 위험성평가 업무개선 사례 공유. 김종배  - PyCon Korea 2021" }
+  ],
+  "playlists": [
+    {
+      "title": "PyCon.KR 2023",
+      "videos": [
+        { "id": "dJlX0i-q4ck", "title": "PyCon KR 2023 몰아보기" },
+        { "id": "boFerSeA4zY", "title": "PyCon KR 2023 Async State Machine 이상훈" },
+        { "id": "P6mT_SQwxt4", "title": "PyCon KR 2023 우리 파이썬이의 꼬꼬마 시절 장혜식" },
+        { "id": "OpeIrYTnVl4", "title": "PyCon KR 2023 파이썬 사용자와 만난 RustPython 정윤원" },
+        { "id": "tPFQmAO42uM", "title": "PyCon KR 2023 Django 컨트리뷰터가 되기까지의 여정 윤준기" },
+        { "id": "HeMXWd6QSGg", "title": "PyCon KR 2023 Django 봄은 다시 온다 정경업" },
+        { "id": "rSv6ua9VkXA", "title": "PyCon KR 2023 Improving Debuggability of Complex Asyncio Applications 김준기" },
+        { "id": "M6YuOk4dAH4", "title": "PyCon KR 2023 로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략 오성우" },
+        { "id": "RgMCqc-VPL4", "title": "PyCon KR 2023 파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법 이태현" },
+        { "id": "VXPZ0omr5UE", "title": "PyCon KR Jupyter Book을 활용해 손쉽게 콘텐츠를 생산하고 공유하자 안성진" }
+      ]
+    }
   ]
 }
 

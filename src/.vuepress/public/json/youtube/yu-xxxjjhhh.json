@@ -7,5 +7,43 @@
   },
   "videos": [
     { "id": "BqTXiqK7qDo", "title": "Spring Boot CKEditor 17 : Create AWS S3 and Create Connection Config" }
+  ],
+  "playlists": [
+    {
+      "title": "레디스 : Redis",
+      "videos": [
+        { "id": "W7F1QW9uZmY", "title": "Redis 1 : Installing Redis Server on AWS EC2 and Easy to Work" },
+        { "id": "NaonbyB8WPE", "title": "Redis 3 : Allow external access and set passwords" },
+        { "id": "-2ceAlM4Cfg", "title": "Redis 3 : Redis basic CRUD commands" },
+        { "id": "T1Bd0pajhcg", "title": "Redis 4 : Redis snapshots, database settings" },
+        { "id": "-KWSbCXIRRQ", "title": "Redis 5 : Redis Python Client Usage" },
+        { "id": "5sjBKsJQmxo", "title": "Redis 6: Data Replication and Cluster Concepts" },
+        { "id": "T0A1M3z-ClE", "title": "Redis 7: AWS ElastiCache Practice" }
+      ]
+    }, {
+      "title": "스프링 부트 CKEditor5",
+      "videos": [
+        { "id": "KDSJFSp4c4I", "title": "Spring Boot + CKEditor5 1: Environment and Version Configuration" },
+        { "id": "WfAyagLOjpE", "title": "Spring Boot + CKEditor5 2: Configuring the IntelliJ Community Edition" },
+        { "id": "63UnAPbNIDw", "title": "Spring Boot + CKEditor5 3: IntelliJ Ultimate Version Configuration" },
+        { "id": "I1x2MFfeVls", "title": "Spring Boot + CKEditor5 4: Controller, View Default Code" },
+        { "id": "yuoICQAKzYQ", "title": "Spring Boot + CKEditor5 5: Create Editor Page Form Tag" },
+        { "id": "i-4qbA8upiY", "title": "Spring Boot + CKEditor5 6: How to add CDN method" },
+        { "id": "BYwLIKxMZS8", "title": "Spring Boot + CKEditor57: How to add a download (local)" },
+        { "id": "-5fC7HHUF6Q", "title": "Spring Boot CKEditor5 8: Writing - DTO - Controller" },
+        { "id": "DG4qwH9bUYA", "title": "Spring Boot CKEditor 9: AWS RDS Spring Boot Connection" },
+        { "id": "81zU_wvBRpc", "title": "Spring Boot CKEditor 10 : Creating a Write Storage Table (Entity, Repository)" },
+        { "id": "lSoMfTgQI1E", "title": "Spring Boot CKEditor 11 : Controller - Service - DB Code Creation" },
+        { "id": "Nf6pwESESzg", "title": "Spring Boot CKEditor 12 : Writing a Glossary Lookup Code" },
+        { "id": "Zy6sdwpwD_A", "title": "Spring Boot CKEditor 13 : Create detailed post query code" },
+        { "id": "-OV1zGW61mA", "title": "Spring Boot CKEditor 14:  Post Deletion Code" },
+        { "id": "M5TTsIsPhE4", "title": "Spring Boot CKEditor 15 : Post Modification Logic Code" },
+        { "id": "9qABD8mf1w8", "title": "Spring boot CKEditor 16 : upload image (Front-end)" },
+        { "id": "BqTXiqK7qDo", "title": "Spring Boot CKEditor 17 : Create AWS S3 and Create Connection Config" },
+        { "id": "IvWPLV4-8bc", "title": "스프링 부트 CKEditor 18 : 이미지 저장 (백엔드)" },
+        { "id": "92RoFOQX4B4", "title": "Spring Boot CKEditor 19 : Explanation of Errors and Plug-ins" },
+        { "id": "6yaY5GbruEk", "title": "CKEditor5 alphabet separation error (consonant/vowel separation after spacing in editor)" }
+      ]
+    }
   ]
 }

@@ -166,4 +166,12 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 
 ---
 
+## [50대 컴쟁이] baseyou21
+
+<MyYouTubeItems jsonName="yu-baseyou21" />
+
+<!-- [50대 컴쟁이] baseyou21 -->
+
+---
+
 <TagLinks />

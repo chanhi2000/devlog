@@ -854,5 +854,30 @@
     "desc": "A cloud-native Go microservices framework with cli tool for productivity.",
     "officialSite": "https://go-zero.dev",
     "topics": ["cloud-native", "code-generation", "framework", "gateway", "go", "go-zero", "goctl", "golang", "gozero", "grpc-gateway", "microservice", "microservice-framework", "microservices", "microservices-architecture", "rest-api", "restful", "restful-api", "rpc", "rpc-framework", "web-framework"]
+  }, {
+    "repo": "pingcap/tidb",
+    "desc": "TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",
+    "officialSite": "https://pingcap.com",
+    "topics": ["cloud-native", "database", "distributed-database", "distributed-transactions", "go", "hacktoberfest", "htap", "mysql", "mysql-compatibility", "scale", "serverless", "sql", "tidb"]
+  }, {
+    "repo": "jackc/pgx",
+    "desc": "PostgreSQL driver and toolkit for Go",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "officialSite": "https://www.consul.io",
+    "topics": ["api-gateway", "consul", "ecs", "kubernetes", "service-discovery", "service-mesh", "vault"]
+  }, {
+    "repo": "kubernetes/ingress-nginx",
+    "desc": "Ingress-NGINX Controller for Kubernetes",
+    "officialSite": "https://kubernetes.github.io/ingress-nginx",
+    "topics": ["ingress-controller", "kubernetes", "nginx"]
+  }, {
+    "repo": "Shopify/toxiproxy",
+    "desc": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+    "officialSite": "https://github.com/shopify/toxiproxy",
+    "topics": ["chaos", "down", "go", "is", "omg", "proxy", "resiliency", "tcp-proxy", "testing"]
   }
 ]

@@ -294,6 +294,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## 까불이코더
+
+<MyYouTubeItems jsonName="yu-kaburi-coder" />
+
+<!-- 까불이코더 -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />
@@ -301,5 +309,6 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 <!-- dotnet -->
 
 ---
+
 
 <TagLinks />

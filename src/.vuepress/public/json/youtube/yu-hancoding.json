@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "hancoding",
+    "name": "한코딩",
+    "profile": "https://yt3.googleusercontent.com/IV4IbGJCKVOwqEVOH6dfO1MbBq1uFewWO-f9BPwszc6AS2kOZevHtzp4FSUffgiLs8DANpCidw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tACZG_fRqUzl1hor8vp6IW26BZPjC14kWNpodrq_uxRhc4M5DC_r8jTxVxaGakqh8aQ1ZNkI=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "title": "스프링 부트 게시판 무작정 따라하기",
+      "videos": [
+        { "id": "frI5CoZe-vE", "title": "[스프링 부트] 게시판 무작정 따라하기 - 소개" },
+        { "id": "M2wxMRt4tx0", "title": "[스프링 부트] 게시판 무작정 따라하기 - 인텔리제이 설치" },
+        { "id": "zOropZAzviQ", "title": "[스프링 부트] 게시판 무작정 따라하기 - MariaDB 설치" },
+        { "id": "6H35XP9kLlk", "title": "[스프링 부트] 게시판 무작정 따라하기 - MySQL Workbench 설치" },
+        { "id": "6CJ6akFElPc", "title": "[스프링 부트] 게시판 무작정 따라하기 - 프로젝트 생성" },
+        { "id": "NRw0mjiv52o", "title": "[스프링 부트] 게시판 무작정 따라하기 - DB에 테이블 생성" },
+        { "id": "b8LfD7xyfVA", "title": "[스프링 부트] 게시판 무작정 따라하기 - 게시글 작성폼 생성" },
+        { "id": "Y7S1xXsKy_w", "title": "[스프링 부트] 게시판 무작정 따라하기 - 글 작성 처리" },
+        { "id": "XytVcdgiVRk", "title": "[스프링 부트] 게시판 무작정 따라하기 - 게시글 리스트" },
+        { "id": "LJKVX20YeLU", "title": "[스프링 부트] 게시판 무작정 따라하기 - 게시글 상세 페이지" },
+        { "id": "55pP-9Npp5U", "title": "[스프링 부트] 게시판 무작정 따라하기 - 게시글 삭제" },
+        { "id": "ODdGp13YatA", "title": "[스프링 부트] 게시판 무작정 따라하기 - 게시글 수정" },
+        { "id": "KyWeRwxwNJE", "title": "[스프링 부트] 게시판 무작정 따라하기 - 메시지 띄우기" },
+        { "id": "qeB2GzrSFAc", "title": "[스프링부트] 게시판 무작정 따라하기 - 파일 업로드" },
+        { "id": "RMYez0VqeVo", "title": "[스프링부트] 게시판 무작정 따라하기 - 페이징 처리 1편" },
+        { "id": "Q_W9jNTBWxo", "title": "[스프링부트] 게시판 무작정 따라하기 - 페이징 처리 2편" },
+        { "id": "OT5jcrtPIQA", "title": "[스프링부트] 게시판 무작정 따라하기 - 검색 기능 1편" },
+        { "id": "ebfG6_AOlAE", "title": "[스프링부트] 게시판 무작정 따라하기 - 검색 기능 2편" }
+      ]
+    }
+  ]
+}

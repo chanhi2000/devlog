@@ -99,5 +99,10 @@
     "desc": "Lightweight yet powerful formatter plugin for Neovim",
     "officialSite": "",
     "topics": ["neovim", "nvim", "neovim-plugin", "nvim-plugin"]
+  }, {
+    "repo": "kepano/flexoki",
+    "desc": "An inky color scheme for prose and code.",
+    "officialSite": "https://stephango.com/flexoki",
+    "topics": ["color-scheme"]
   }
 ]

@@ -618,7 +618,7 @@
     "repo": "Lissy93/dashy",
     "desc": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
     "officialSite": "https://dashy.to",
-    "topics": ["nodejs", "docker", "productivity", "awesome", "pwa", "mit", "dashboard", "vue", "organization", "homepage", "self-hosted", "startpage", "hacktoberfest", "homelab", "hacktoberfest2022"]
+    "topics": ["awesome", "dashboard", "docker", "hacktoberfest", "hacktoberfest2022", "homelab", "homepage", "mit", "nodejs", "organization", "productivity", "pwa", "self-hosted", "startpage", "vue"]
   }, {
     "repo": "bigskysoftware/htmx",
     "desc": "</> htmx - high power tools for HTML",
@@ -1569,5 +1569,10 @@
     "desc": "a vue2.0 minimal admin template",
     "officialSite": "https://git.io/fAnuM",
     "topics": ["axios", "element-ui", "javascript", "vue", "vue-admin", "vue-cli", "vue-router", "vuex"]
-  }
+  }, {
+    "repo": "linhe0x0/vuepress-theme-api",
+    "desc": "📦📝🎨 A api-friendly theme for VuePress.",
+    "officialSite": "https://blog.sqrtthree.com/vuepress-theme-api  ",
+    "topics": ["api-friendly-theme", "vuepress", "vuepress-theme"]
+  }  
 ]

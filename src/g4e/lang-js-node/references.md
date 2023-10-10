@@ -370,6 +370,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Create A Contacts App With React And Supabase](https://blog.openreplay.com/create-a-contacts-app-with-react-and-supabase/)
 - [Lazy Loading In JavaScript](https://blog.openreplay.com/lazy-loading-in-javascript)
 - [Authentication In Next.Js With Clerk](https://blog.openreplay.com/authentication-in-next-js-with-clerk)
+- [Optimize Vue With Web Workers](https://blog.openreplay.com/optimize-vue-with-web-workers)
 
 ---
 

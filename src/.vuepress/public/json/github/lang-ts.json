@@ -1543,5 +1543,10 @@
     "desc": "",
     "officialSite": "https://headshots-starter.vercel.app",
     "topics": []
+  }, {
+    "repo": "youzan/vant",
+    "desc": "A lightweight, customizable Vue UI library for mobile web apps.",
+    "officialSite": "https://vant-ui.github.io/vant",
+    "topics": ["components", "mobile", "ui-kit", "ui-library", "vant", "vue", "vue3"]
   }
 ]

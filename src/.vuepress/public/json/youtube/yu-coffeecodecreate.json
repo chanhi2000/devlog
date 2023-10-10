@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "coffeecodecreate",
+    "name": "Coffee Code Create",
+    "profile": "https://yt3.googleusercontent.com/rVRLGitU60lsND6zixeSjBL-wwD00G4cfjOaiNmA4NmMwab1VyNLMGL-aEvbG6mbdHlZIi1ekjc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/llmN9DvweuQmFZUUQMTiWnSuuDtjCHuhifOYw3Grb6j82ek453Zb3460ieNEgIDwhzBc8d3LKQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    
+  ],
+  "playlists": [
+    {
+      "title": "Build SimCity with Three.js",
+      "videos": [
+        { "id": "DBX4ReeH6R8", "title": "Building a SimCity Clone with Three.js // Scene Setup (Part 1)" },
+        { "id": "EJaoZTgDK2s", "title": "Building a SimCity Clone with Three.js // Camera (Part 2)" },
+        { "id": "cD-4vHTiUyw", "title": "Building a SimCity Clone with Three.js // Update Loop (Part 3)" },
+        { "id": "ar04lVtyfOU", "title": "Building a SimCity Clone with Three.js // Optimizations (Part 4)" },
+        { "id": "tDJFrfgGcgk", "title": "Building a SimCity Clone with Three.js // Raycasting (Part 5)" },
+        { "id": "CaaBZYyUoTo", "title": "Building a SimCity Clone with Three.js // Buildings (Part 6)" },
+        { "id": "JlLcHqevc-c", "title": "Building a SimCity Clone with Three.js // Zones (Part 7)" },
+        { "id": "bs-c8gxdWrM", "title": "Building a SimCity Clone with Three.js // Textures and Shadows (Part 8)" },
+        { "id": "z0TjTDKeGRY", "title": "Building a SimCity Clone with Three.js // Citizens (Part 9)" },
+        { "id": "Ol3pexLM6_k", "title": "Building a SimCity Clone with Three.js // Jobs (Part 10)" },
+        { "id": "NSzAEWii5i4", "title": "Building a SimCity Clone with Three.js // Abandoned Buildings (Part 11)" },
+        { "id": "UxKiybcIimc", "title": "Building a SimCity Clone with Three.js // MAJOR Graphics Update (Part 12)" },
+        { "id": "Bba4C1stiXo", "title": "Building a SimCity Clone with Three.js // Traffic (Part 13)" }
+      ]
+    }
+  ]
+}

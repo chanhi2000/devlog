@@ -106,6 +106,64 @@
         { "id": "SVIGKcMJ31E", "title": "Monitoring Docker Container Metrics Using cAdvisor Prometheus and Grafana" },
         { "id": "hfKASyWzOIs", "title": "Setup Prometheus On Kubernetes Using Helm | Kubernetes Monitoring With Prometheus" }
       ]
+    }, {
+      "title": "Grafana",
+      "videos": [
+        { "id": "NOWoLfpY2kE", "title": "How To Setup Influxdb Telegraf And Grafana Using Docker Compose | Telegraf Influxdb Grafana Tutorial" },
+        { "id": "WnJLSU06j1M", "title": "Easy Grafana Installation on CentOs | Grafana Tutorial" },
+        { "id": "UG_bZzhhnbc", "title": "Simple Beginner Tutorial On Grafana | Grafana On Docker" },
+        { "id": "bWXwKTGTCp4", "title": "Grafana MySQL Tutorial | Configure MySQL Data Source for Grafana Dashboard" },
+        { "id": "ECLIqvayAEs", "title": "How To Setup Prometheus Datasource In Grafana Tutorial | Prometheus Integration With Grafana" },
+        { "id": "rRKDfU4tmJQ", "title": "Grafana Influxdb Tutorial | Grafana Influxdb Docker Compose YAML" },
+        { "id": "4lWCUg-bPWE", "title": "The new Grafana Cloud" },
+        { "id": "SVIGKcMJ31E", "title": "Monitoring Docker Container Metrics Using cAdvisor Prometheus and Grafana" },
+        { "id": "iqpLXUdJ0Ro", "title": "Grafana Loki Promtail | Grafana Loki Setup And Configuration On CentOs" },
+        { "id": "eJtrxj9U_P8", "title": "How To Setup Grafana Loki Promtail On Docker" },
+        { "id": "pnycjg_9M-o", "title": "Promtail Loki Grafana Using Docker Compose | Grafana Loki Demo" },
+        { "id": "xiV4MhL8bOQ", "title": "How To Setup Influxdb Telegraf And Grafana | Telegraf Influxdb Grafana Tutorial" },
+        { "id": "GnWZsHjM5To", "title": "How to Setup a Grafana Dashboard Step-by-Step Using GoogleSheet as Datasource" },
+        { "id": "dk2-_DbWb80", "title": "Setup Prometheus &amp; Grafana Monitoring On Kubernetes Using Helm" }
+      ]
+    }, {
+      "title": "DevOps",
+      "videos": [
+        { "id": "XE_mAhxZpwU", "title": "CICD Pipeline To Deploy To Kubernetes Cluster Using Jenkins | Jenkins Kubernetes Integration" },
+        { "id": "8YyamgWdvFg", "title": "How to Push docker image to Docker Hub using Jenkins Pipeline" },
+        { "id": "M9MOjrxU4S8", "title": "Jenkins Maven Artifactory Integration | How To Integrate Jenkins With Artifactory | Thetips4you" },
+        { "id": "_r-C_FFDLmU", "title": "Jenkins On Kubernetes Tutorial | How to setup Jenkins on kubernetes cluster | Thetips4you" },
+        { "id": "ep05R_FNBtM", "title": "SonarQube Quality Gate Jenkins Pipeline | SonarQube Code Quality Check &  Quality Gate Failed" },
+        { "id": "4AEW-yR_Biw", "title": "SonarQube Integration With Jenkins Pipeline | SonarQube GitHub Integration & Code Coverage Java" },
+        { "id": "oRac6bji5OY", "title": "SonarQube DevOps Tutorial For Beginners | Easy SonarQube PostgreSQL Setup Using Docker Compose" },
+        { "id": "xvf_xlEnLI8", "title": "Artifactory Docker Tutorial | JFrog Artifactory Tutorial For Beginners | Run Artifactory on Docker" },
+        { "id": "UfmRvL42H98", "title": "Static Code Analysis Using PVS-Studio // Static Code Analysis For Java, C++, and C# // Thetips4you" },
+        { "id": "JTgtZXM98GI", "title": "Slack Integration With Jenkins | Configure Jenkins To Receive Notification In Slack | Thetips4you" },
+        { "id": "qdCVimkd9xQ", "title": "Jfrog Artifactory Tutorial | Install Artifactory On Linux Centos & Repository creation, Upload" },
+        { "id": "iPBNEWUocjs", "title": "Matrix & Role Based Authentication In Jenkins | Fix Jenkins Admin Password Forgot | Thetips4you" },
+        { "id": "tbr_PeAGdfo", "title": "DevOps | SonarQube Integration With Jenkins | SonarQube Scanner For Jenkins | Thetips4you" },
+        { "id": "grQ4cAcj81U", "title": "How To Backup Jenkins? | Jenkins Backup Restore Using ThinBackup & Periodic Backup | Thetips4you" },
+        { "id": "ZAfMauwNFuQ", "title": "SonarQube on Docker | Setup SonarQube for Code Coverage, Vulnerabilities scan, Static Code Analysis" },
+        { "id": "uC7vajbnZS4", "title": "MSBuild With Jenkins | Jenkins For C# / .NET Applications | Thetips4you" },
+        { "id": "oUTSBigdfjQ", "title": "Jenkinsfile Pipeline | Write Jenkinsfile to Build Docker Image From Dockerfile" },
+        { "id": "aAWALhp6wSE", "title": "CI CD Pipeline Jenkins | Continuous Integration & Deployment Using Docker" },
+        { "id": "KtJCcqxKXbs", "title": "Jenkins Pipeline As Code | Learn How To Create Jenkins Pipeline Job" },
+        { "id": "ctDJryQU7l4", "title": "Jenkins Pipeline Maven Project |Jenkins Upstream And Downstream Jobs" },
+        { "id": "ZGC-v9tzPQo", "title": "Maven Git Jenkins Tutorial | Jenkins Integration With Maven Project" },
+        { "id": "0wpdJo3oASI", "title": "Maven Compile, Test, Package | Pom.XML | Maven Installation & Build Tutorial" },
+        { "id": "OOVl7IfuEmg", "title": "Send Email Notification from Jenkins For Build Failures | Post Build Actions In Jenkins" },
+        { "id": "pzG_ZQNbZug", "title": "Jenkins Master Slave Tutorial | Jenkins Master Slave Setup Linux using SSH" },
+        { "id": "655a1itG3xg", "title": "Jenkins Master Slave Setup Windows | Jenkins Slave As Windows Service | Distributed Architecture" },
+        { "id": "R3Q1CysjqfE", "title": "Jenkins Gitlab | Jenkins Git Integration | Webhook, Periodic, Poll SCM Build Trigger - Part 2" },
+        { "id": "6XV7wjEjFbc", "title": "Git Tutorial | How To Install GitLab On Centos 7 | Install And Configure GitLab" },
+        { "id": "9mihGYB2pMM", "title": "Jenkins Introduction |  Continuous Integration In DevOps | Create First Job – Part 1" },
+        { "id": "KhzORFVJlqY", "title": "CICD Jenkins | Run Jenkins On Windows using Jenkins.War file" },
+        { "id": "tNyx6XzvRGs", "title": "CICD | Docker Jenkins tutorial | Setup Jenkins Using Docker" },
+        { "id": "N3UyUTI7Bb4", "title": "Jenkins on Raspberry Pi | Jenkins Tutorial For Beginners" },
+        { "id": "27Fj6eOcgXo", "title": "DevOps | Jenkins Tutorial for Beginners | Setup Jenkins Master On Centos 7 | Thetips4you" },
+        { "id": "4t71iv_9t_4", "title": "DevOps Monitoring Tools | Top 5 Free Monitoring Tools for DevOps" },
+        { "id": "P2W3dJUxpR0", "title": "What Is GitOps | How GitOps Works | DevOps vs GitOps" },
+        { "id": "TyWI2zJi7Ik", "title": "DevOps RoadMap 2023 - How To Become A DevOps Engineer" },
+        { "id": "MTm3cb7qiEo", "title": "Jenkins Tutorial for Beginners [FULL COURSE in 3 Hours]" }
+      ]
     }
   ]
 }

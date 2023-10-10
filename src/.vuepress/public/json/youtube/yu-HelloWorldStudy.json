@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "HelloWorldStudy",
+    "name": "HelloWorld",
+    "profile": "https://yt3.googleusercontent.com/ADUYjNHQxMNzZCuXFhvPTgc1XhdgRzGmP2eFqJwHyGVsKvhyUBvidbG5CET-cQsm0U4KMZnWBg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    
+  ],
+  "playlists": [
+    {
+      "title": "log4j2 in spring boot",
+      "videos": [
+        { "id": "FAB3W3B2p3E", "title": "log4j2 in spring boot #1 ( intro )" },
+        { "id": "OtwS14eXmAI", "title": "log4j2 in spring boot #2 ( config )" },
+        { "id": "5dCIUMmJJR0", "title": "log4j2 in spring boot #3 ( config2 )" },
+        { "id": "P1_XsD6CkPU", "title": "log4j2 in spring boot #4 ( appenders )" },
+        { "id": "FVocL7K4TLQ", "title": "log4j2 in spring boot #5 ( RollingFile appender)" },
+        { "id": "dT3chTOq00w", "title": "log4j2 in spring boot #6 ( RollingFile appender2)" },
+        { "id": "Tz7pVmbP42M", "title": "log4j2 in spring boot #7 (RandomAccessFile, immediateFlush)" },
+        { "id": "5ivBCiSg3kU", "title": "log4j2 in spring boot #8 ( PatternLayout )" },
+        { "id": "PM6IKlZsCcw", "title": "log4j2 in spring boot #9 ( Filter )" },
+        { "id": "7TJOxvTeQVY", "title": "log4j2 in spring boot #10 (Async Logger 1)" },
+        { "id": "DdYs8tiarqk", "title": "log4j2 in spring boot #11 ( Async Logger 2)" }
+      ]
+    }
+  ]
+}

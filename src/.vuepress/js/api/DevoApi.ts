@@ -1,28 +1,20 @@
-// src/.vuepress/api/DevoApi
-import axios from 'axios'
-
-// if (import.meta.env.NODE_ENV != 'production')
-
-const BASEURL_DEV = 'http://localhost:8080'
-const BASEURL_PRD = 'https://chanhi2000.github.io'
-const BASEURL_PRD2 = 'https://raw.githubusercontent.com/chanhi2000/devlog/main/src/.vuepress/public'
-
-const IS_DEBUG = !(process.env.NODE_ENV === 'production')
-const BASEURL = !IS_DEBUG ? BASEURL_PRD : BASEURL_DEV
-axios.defaults.baseURL = BASEURL
+// src/.vuepress/js/api/DevoApi
+import Setup from './Setup'
+const axios = Setup.axios
+const IS_DEBUG = Setup.IS_DEBUG
 
 const REGEX_GITHUB_BASEURL = /https:\/\/github.com\//g
 
 const BASEURL_GITHUB = 'https://github.com'
-const BASEURL_GITHUB_OFFICIAL_API = 'https://api.github.com/repos'
+const BASEURL_GITHUB_OFFICIAL_API = 'https://api.github.com'
 const BASEURL_YCOMBINATOR = 'https://news.ycombinator.com'
 
 const URL_DEVO_BASE = 'https://devo-platforms.burakkarakan.com'
 const URL_JSON_DEVO_GITHUB = `${URL_DEVO_BASE}/github.json`
 const URL_JSON_DEVO_HACKERNEWS = `${URL_DEVO_BASE}/hackernews.json`
 
-const PUBLIC_GITHUB_BASEPATH = `${BASEURL}/json/github`
-const URL_JSON_GITHUB_COLOR = `${BASEURL}/json/github-color.json`
+const PUBLIC_GITHUB_BASEPATH = `${Setup.BASEURL}/json/github`
+const URL_JSON_GITHUB_COLOR = `${Setup.BASEURL}/json/github-color.json`
 
 const jsonFullPathsLang = [
   "android", "assembly", "awk", "batchfile", "blade", "c", "clojure", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "gdscript", "go", "haskell", "hcl", "java", "js", "julia", "jupyter-notebook", "kotlin", "lua", "ocaml", "prolog", "php", "pwsh", "python", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "verilog", "vim-script", "zig"
@@ -86,24 +78,24 @@ type GithubDetailResponse = {
   "full_name": string,
   "private": boolean,
   "owner": {
-      "login": string,
-      "id": number,
-      "node_id": string,
-      "avatar_url": string,
-      "gravatar_id": string,
-      "url": string,
-      "html_url": string,
-      "followers_url": string,
-      "following_url": string,
-      "gists_url": string,
-      "starred_url": string,
-      "subscriptions_url": string,
-      "organizations_url": string,
-      "repos_url": string,
-      "events_url": string,
-      "received_events_url": string,
-      "type": string,
-      "site_admin": boolean
+    "login": string,
+    "id": number,
+    "node_id": string,
+    "avatar_url": string,
+    "gravatar_id": string,
+    "url": string,
+    "html_url": string,
+    "followers_url": string,
+    "following_url": string,
+    "gists_url": string,
+    "starred_url": string,
+    "subscriptions_url": string,
+    "organizations_url": string,
+    "repos_url": string,
+    "events_url": string,
+    "received_events_url": string,
+    "type": string,
+    "site_admin": boolean
   },
   "html_url": string,
   "description": string,
@@ -169,16 +161,16 @@ type GithubDetailResponse = {
   "disabled": boolean,
   "open_issues_count": number,
   "license": {
-      "key": string,
-      "name": string,
-      "spdx_id": string,
-      "url": string,
-      "node_id": string
+    "key": string,
+    "name": string,
+    "spdx_id": string,
+    "url": string,
+    "node_id": string
   },
   "allow_forking": boolean,
   "is_template": boolean,
   "web_commit_signoff_required": boolean,
-  "topics": [],
+  "topics": Array<string>,
   "visibility": string,
   "forks": number,
   "open_issues": number,
@@ -236,6 +228,14 @@ function fetchGitubColors(): Promise<Map<String, GithubColor>> {
     .catch((e) => console.error(`failed to fetch data`, e))
 }
 
+const getURLGithubTrending = (date: string) => { 
+  if (IS_DEBUG) console.log(`getURLGithubTrending ... date: ${date}`)
+  // https://api.github.com/search/repositories?sort=stars&order=desc&q=pushed:%3E2023-10-09
+  const _date = encodeURIComponent(`pushed:>${date}`)
+  return `${BASEURL_GITHUB_OFFICIAL_API}/search/repositories?sort=stars&order=desc&q=${_date}`
+}
+
+
 function fetchGithubRepos(shouldFilter = false): Promise<Array<DevoGithubResponse>> {
   if (IS_DEBUG) console.log(`fetchGithubRepos ... shouldFilter:${shouldFilter}`)
   // console.log(`fetchGithubRepos ... shouldFilter:${shouldFilter}`)
@@ -272,7 +272,7 @@ function fetchGithubDetail(fullName = ''): Promise<GithubDetailResponse> | undef
   }
   
   console.log('fetch ...');
-  return axios.get(`${BASEURL_GITHUB_OFFICIAL_API}/${_fullName}`)
+  return axios.get(`${BASEURL_GITHUB_OFFICIAL_API}/repos/${_fullName}`)
     .then((res) => res.data ?? {})
     .then((itemDetail) => itemDetail)
     .catch((e) => {console.warn('Error:', e);return {}});

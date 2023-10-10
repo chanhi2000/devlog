@@ -1894,7 +1894,7 @@ color: rgba(0, 184, 126, 0.2)
 ```card
 title: Couchbase Tutorial for Android - Getting Started
 desc: In this couchbase tutorial, you will learn how to use prebuilt Couchbase Lite databases, model, query, upload and sync data including attachments.
-link: https://www.kodeco.com/853-couchbase-tutorial-for-android-getting-started
+link: 853-couchbase-tutorial-for-android-getting-started.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-networking-android-56e153082b082a0e4dde87ceadfa482ce6812758e8d896a3f0b37732c718bd96.svg
 color: rgba(0, 184, 126, 0.2)
 ```

@@ -229,11 +229,11 @@
     "desc": "OpenRefine is a free, open source power tool for working with messy data and improving it",
     "officialSite": "https://openrefine.org",
     "topics": ["java", "data-science", "reconciliation", "wikidata", "opendata", "journalism", "data-analysis", "data-wrangling", "datamining", "datajournalism", "datacleaning", "datacleansing"]
-  } ,{
+  }, {
     "repo": "apache/doris",
     "desc": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
     "officialSite": "https://doris.apache.org",
-    "topics": ["bigquery", "real-time", "sql", "database", "spark", "hive", "hadoop", "etl", "snowflake", "olap", "query-engine", "redshift", "dbt", "elt", "iceberg", "hudi", "delta-lake", "lakehouse"]
+    "topics": ["bigquery", "database", "dbt", "delta-lake", "elt", "etl", "hadoop", "hive", "hudi", "iceberg", "lakehouse", "olap", "query-engine", "real-time", "redshift", "snowflake", "spark", "sql"]
   } ,{
     "repo": "nickm980/smallville",
     "desc": "Create Generative Agent simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior",

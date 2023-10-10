@@ -92,4 +92,4 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   
 <DevGithubItems />
 <DevHackerNewsItems />
-<!-- <DevGeekNewsItems /> -->
+<DataTauItems />

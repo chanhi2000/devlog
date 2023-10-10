@@ -981,8 +981,8 @@
   }, {
     "repo": "coqui-ai/TTS",
     "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
-    "topics": ["python", "text-to-speech", "deep-learning", "speech", "pytorch", "tts", "speech-synthesis", "vocoder", "voice-synthesis", "tacotron", "voice-cloning", "speaker-encodings", "melgan", "speaker-encoder", "multi-speaker-tts", "glow-tts", "hifigan", "tts-model"],
-    "officialSite": "http://coqui.ai"
+    "officialSite": "http://coqui.ai",
+    "topics": ["deep-learning", "glow-tts", "hifigan", "melgan", "multi-speaker-tts", "python", "pytorch", "speaker-encoder", "speaker-encodings", "speech", "speech-synthesis", "tacotron", "text-to-speech", "tts", "tts-model", "vocoder", "voice-cloning", "voice-conversion", "voice-synthesis"]
   }, {
     "repo": "CVI-SZU/Linly",
     "desc": "Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集",
@@ -2908,5 +2908,15 @@
     "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
     "officialSite": "https://agpt.co",
     "topics": ["ai", "artificial-intelligence", "autonomous-agents", "gpt-4", "openai", "python"]
+  }, {
+    "repo": "open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "officialSite": "https://mmpose.readthedocs.io/en/latest",
+    "topics": ["animal-pose-estimation", "benchmark", "cpm", "crowdpose", "face-keypoint", "freihand", "hand-pose-estimation", "higher-hrnet", "hourglass", "hrnet", "human-pose", "mmpose", "mpii", "mspn", "ochuman", "pose-estimation", "pytorch", "rsn", "rtmpose", "udp"]
+  }, {
+    "repo": "paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "officialSite": "https://docs.paperless-ngx.com",
+    "topics": []
   }
 ]

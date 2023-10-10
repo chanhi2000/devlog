@@ -143,8 +143,8 @@
     "repo": "termux/termux-packages",
     "desc": "A package build system for Termux.",
     "officialSite": "https://termux.dev",
-    "topics": ["android", "linux", "packages", "linux-distribution", "termux"]
-  }, {
+    "topics": ["android", "hacktoberfest", "linux", "linux-distribution", "packages", "termux"]
+  } , {
     "repo": "jjcm/nonio",
     "desc": "",
     "officialSite": "",

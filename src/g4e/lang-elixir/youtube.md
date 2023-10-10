@@ -21,4 +21,12 @@ tags: ["elixir", "exs", "youtube"]
 
 ---
 
+## ElixirConf
+
+<MyYouTubeItems jsonName="yu-ElixirConf" />
+
+<!-- ElixirConf -->
+
+---
+
 <TagLinks />

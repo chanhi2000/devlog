@@ -234,5 +234,15 @@
     "desc": "Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation.",
     "officialSite": "https://abp.io",
     "topics": ["abp", "angular", "architecture", "aspnet", "aspnet-core", "aspnetcore", "blazor", "c-sharp", "csharp", "domain-driven-design", "dotnet-core", "framework", "multi-tenancy", "saas"]
+  }, {
+    "repo": "Jackett/Jackett",
+    "desc": "API Support for your favorite torrent trackers",
+    "officialSite": "",
+    "topics": ["api", "couchpotato", "duckietv", "hacktoberfest", "indexer", "jackett", "lidarr", "medusa", "mylar3", "nefarious", "newznab", "proxy", "radarr", "rss", "rss-proxy", "sickrage", "sonarr", "torrent", "torznab", "trackers"]
+  }, {
+    "repo": "XuanchenLin/NanUI",
+    "desc": "NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.",
+    "officialSite": "https://github.com/Xuanchenlin/NanUI",
+    "topics": ["cef", "cefglue", "chromium", "desktop", "dotnet", "dotnet-core", "formium", "html-window", "nanui", "winforms"]
   }
 ]

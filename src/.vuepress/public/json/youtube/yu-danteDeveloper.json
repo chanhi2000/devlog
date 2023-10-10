@@ -16,5 +16,25 @@
     { "id": "4ey1bjAiQ1U", "title": "타입스크립트 5.2 RC" },
     { "id": "wy09j5g1LbM", "title": "정적 파일 서빙 서버 만들기" },
     { "id": "iXw0cvtfupA", "title": "progressive enhancement" }
+  ],
+  "playlists": [
+    {
+      "title": "단테의 Beyond JS",
+      "videos": [
+        { "id": "A1_8j1qU_yc", "title": "Beyond JS: 러스트 - 변수와 타입" },
+        { "id": "5LC9wAro4hY", "title": "러스트 함수와 control flow" },
+        { "id": "pJ09p8jCeLA", "title": "러스트 스트뤄억트" },
+        { "id": "7PiX81srQGc", "title": "소유...하실래요?" },
+        { "id": "iV0EbD8zj20", "title": "러스트 enum에 대해 알아보자" },
+        { "id": "v9ro0_AjocQ", "title": "러스트 reference borrowing" },
+        { "id": "m4cwg_qLwjA", "title": "러스트 모듈 시스템" },
+        { "id": "JA0k_XHZVEM", "title": "러스트 collection (상)" },
+        { "id": "ihVodyvuou8", "title": "러스트 generic 1" },
+        { "id": "Y4jZLzKKBLQ", "title": "러스트 generic2" },
+        { "id": "vqER_MnWtjo", "title": "러스트 lifetime" },
+        { "id": "ER-rh-FclVw", "title": "러스트 테스트 코드 작성법 1" },
+        { "id": "eaL1Fd2ZnbU", "title": "러스트 테스트 코드 작성법 2" }
+      ]
+    }
   ]
 }

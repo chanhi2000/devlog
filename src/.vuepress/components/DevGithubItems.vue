@@ -189,8 +189,8 @@ export default {
       return {
         repo: data?.full_name ?? _fullName,
         desc: data?.description ?? '',
-        officialSite: data?.homepage ?? '',
-        topics: data?.topics ?? []  
+        topics: data?.topics ?? [],
+        officialSite: data?.homepage ?? ''
       }
     },
     async copyToClipboard(text = '') {

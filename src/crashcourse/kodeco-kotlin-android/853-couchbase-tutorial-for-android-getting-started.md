@@ -41,7 +41,7 @@ Why would you choose Couchbase over the built-in SQLite support or a cloud-based
 
 In this Couchbase tutorial, you’ll develop a crowd-sourcing quiz application called __QuizzDroid__. Your answers will be shared (via Sync Gateway) with all other users. So there is no right or wrong answer — only what other users have answered. :]
 
-![couchbase tutorial demo](https://koenig-media.raywenderlich.com/uploads/2016/07/demo.gif)
+![couchbase tutorial demo](https://koenig-media.raywenderlich.com/uploads/2016/07/demo.gif =240x)
 
 When you’re done, you’ll have learned the following:
 
@@ -70,7 +70,7 @@ Download the [QuizzDroid starter project](https://koenig-media.raywenderlich.com
 
 Build and run your app (some configurations of Android Studio may report build errors on the first attempt; in this case, simply build and run again, and you’ll be error-free). As you can see, the screen is empty:
 
-![couchbase tutorial image01](https://koenig-media.raywenderlich.com/uploads/2016/07/image01.png)
+![couchbase tutorial image01](https://koenig-media.raywenderlich.com/uploads/2016/07/image01.png =240x)
 
 You’re now ready to start bringing the activities to life.
 
@@ -360,7 +360,7 @@ This code does the following:
 3. Sets the content to display in the TextViews for the question text and category.
 4. Assigns an `onClick` listener to respond when the user taps a question.
 
-::: note Note
+::: tip Note
 
 Check out the [Recycler View](https://www.raywenderlich.com/126528/android-recyclerview-tutorial) tutorial if you need a refresher on using Recycler Views.
 
@@ -368,13 +368,13 @@ Check out the [Recycler View](https://www.raywenderlich.com/126528/android-recyc
 
 Build and run your app; you should now see six questions on the home screen.
 
-![image03](https://koenig-media.raywenderlich.com/uploads/2016/07/image03.png)
+![image03](https://koenig-media.raywenderlich.com/uploads/2016/07/image03.png =240x)
 
 Well done! In the next section, you’ll add a row click handler to open the Question activity.
 
 ::: note Note
 
-Run the same query using the Listener. The result has the same questions you see in the app. This lets you examine the details of each question document. The query link is __http://localhost:5984/quizzdroid/_design/app/_view/questions?include_docs=true__
+Run the same query using the Listener. The result has the same questions you see in the app. This lets you examine the details of each question document. The query link is **http://localhost:5984/quizzdroid/_design/app/_view/questions?include_docs=true**
 
 :::
 
@@ -382,10 +382,269 @@ Run the same query using the Listener. The result has the same questions you see
 
 ## Home Activity → Question Activity
 
+Head back to <FontIcon icon="iconfont icon-file"/> `HomeActivity.java` and add the following code to the end of `onCreate`:
+
+```java
+adapter.setOnItemClickListener(new HomeAdapter.OnItemClickListener() {
+  @Override
+  public void OnClick(View view, int position) {
+    Intent intent = new Intent(getApplicationContext(), QuestionActivity.class);
+    Question selected = adapter.getQuestions().get(position);
+    intent.putExtra(EXTRA_INTENT_ID, selected.get_id());
+    startActivity(intent);
+  }
+});
+```
+
+This code assigns an item click listener to the adapter. When you click an item, an Android intent is created containing the document ID of the selected question as an extra, which is then passed along to start the `QuestionActivity`.
+
+Build and run. Click on any row to open the question activity. The Question activity is blank, but the next section will take care of that.
+
+![image04](https://koenig-media.raywenderlich.com/uploads/2016/07/image04.gif =240x)
+
+
 ---
 
 ## The Question Screen
 
+Your first task is to load the full question document from the database and use it to populate the Question activity.
+
+### Loading the Question Data
+
+Open <FontIcon icon="iconfont icon-file"/> `QuestionActivity.java` and paste the following at the end of `onCreate`:
+
+```java
+// 1 
+Intent intent = getIntent();
+String questionId = intent.getStringExtra(HomeActivity.EXTRA_INTENT_ID);
+
+// 2
+DataManager manager = DataManager.getSharedInstance(getApplicationContext());
+Document document = manager.database.getDocument(questionId);
+
+// 3
+mQuestion = ModelHelper.modelForDocument(document, Question.class);
+mTextView.setText(mQuestion.getText());
+```
+
+Here’s what this code does:
+
+1. Retrieves the `questionId` of the selected question from the intent extra.
+2. Uses the `manager` singleton database to load the document with the `questionId`.
+3. Deserializes the document into `question` and sets the text property on the `textView`
+
+Build and run your app, and click on a question to display each question detail:
+
+![image05](https://koenig-media.raywenderlich.com/uploads/2016/07/image05.png)
+
+### Multiple Choice in a GridView
+
+The data modeling diagram lists the `options` property as an array of strings. Those are the possible choices shown to the user.
+
+Add the following method to<FontIcon icon="iconfont icon-file"/> `QuestionActivity.java:`
+
+To display the choices, add the following to the end of onCreate in <FontIcon icon="iconfont icon-file"/> `QuestionActivity.java`:
+
+```java
+mQuestionOptions = (GridView) findViewById(R.id.question_options);
+mQuestionOptions.setChoiceMode(AbsListView.CHOICE_MODE_SINGLE);
+mQuestionOptions.setNumColumns(2);
+mQuestionOptions.setSelector(R.drawable.selector_button);
+
+mQuestionOptions.setAdapter(new QuestionOptionsAdapter(mQuestion.getOptions(), null));
+
+mQuestionOptions.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+  @Override
+  public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+    mSelectedOption = position;
+  }
+});
+```
+
+Here’s what’s happening in this code segment:
+
+In the above code segment, you create a GridView, assign it an adapter populated with `mQuestionOptions` and then set up a click listener to store the user’s choice in `mSelectedOption`.
+
+Build and run. Open any question and click on the possible options:
+
+![image06](https://koenig-media.raywenderlich.com/uploads/2016/07/image06.png =240x)
+
+In the next section you’ll add a Submit button to save your answer to a new document.
+
+### Writing Data
+
+User answers will be stored in the database as Answer documents. First, you’ll create an Answer model class.
+
+Create a new file <FontIcon icon="iconfont icon-folder"/> `model/Answer.java` and add to it the following instance variables:
+
+```java
+private String _id;
+private String _rev;
+private String question_id;
+private String type;
+private String user_answer;
+```
+
+These property names match the ones on the data modeling diagram. Next, add a getter and setter for each instance variable using the <kbd>CTRL</kbd>+<kbd>Enter</kbd> shortcut in Android Studio.
+
+![image06](https://koenig-media.raywenderlich.com/uploads/2016/07/image06-1.gif =240x)
+
+To create Answer instances, add the following constructor in <FontIcon icon="iconfont icon-folder"/> `mode/Answer.java`:
+
+```java
+public Answer(String question_id, String type, String user_answer) {
+  this.question_id = question_id;
+  this.type = type;
+  this.user_answer = user_answer;
+}
+```
+
+To save an answer, you’ll add a button with a click handler. Open <FontIcon icon="iconfont icon-file"/> `activity_question.xml` and add the following Button element below the GridView:
+
+```xml
+<Button
+    android:id="@+id/submit_button"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:onClick="onButtonClicked"
+    android:text="Submit" />
+```
+
+Within <FontIcon icon="iconfont icon-file"/> `activity_question.xml`, create a click handler with the <kbd>Alt</kbd>+<kbd>Enter</kbd> shortcut:
+
+![onclick](https://koenig-media.raywenderlich.com/uploads/2016/07/onclick.gif)
+
+Add the following to the body of `onButtonClicked`.
+
+```java
+  Answer answer = new Answer(mQuestion.get_id(), "answer", 
+      mQuestion.getOptions().get(mSelectedOption));
+  ModelHelper.save(DataManager.getSharedInstance(getApplicationContext()).database, answer);
+```
+
+This instantiates a new answer object and saves it using `ModelHelper.save`.
+
+Build and run, select an answer and tap Submit.
+
+![image07](https://koenig-media.raywenderlich.com/uploads/2016/07/image07.png =240x)
+
+Well done! You can now save answers to the database.
+
+::: tip Note
+
+There’s no visual cue to indicate the answer was saved, but you should see the `doc_count` value increase at http://localhost:5984/quizzdroid
+
+:::
+
+One more feature to add before you dive into synchronization is to display the image. The generic term in Couchbase is Attachment.
+
+### Using Attachments
+
+Add the following code to the end of `onCreate` in <FontIcon icon="iconfont icon-file"/> `QuestionActivity.java`:
+
+```java
+Revision revision = document.getCurrentRevision();
+Attachment attachment = revision.getAttachment("image");
+if (attachment != null) {
+  InputStream is = null;
+  try {
+    is = attachment.getContent();
+  } catch (CouchbaseLiteException e) {
+    e.printStackTrace();
+  }
+  Drawable drawable = Drawable.createFromStream(is, "image");
+  mImageQuestion.setImageDrawable(drawable);
+}
+```
+
+This uses the current document revision to load the attachment named image as an `InputStream`. It then converts the stream into a Drawable and assigns it to the `mImageQuestion` ImageView shown above the question.
+
+![image08](https://koenig-media.raywenderlich.com/uploads/2016/07/image08.png)
+
+::: tip Note
+
+Make sure to import `java.io.InputStream` for the InputStream class, not the `com.couchbase` version.
+
+:::
+
+Build and run your app; select a question and the image will appear:
+
+![image09](https://koenig-media.raywenderlich.com/uploads/2016/07/image09.png =240x)
+
+::: tip Note
+
+This Couchbase tutorial only covers how to read attachments. [Refer to the Couchbase documentation](http://developer.couchbase.com/documentation/mobile/1.2/develop/guides/couchbase-lite/native-api/attachment/index.html) to learn how to save attachments with a write operation.
+
+:::
+
 ---
+
+## Adding Synchronization
+
+### Installing Sync Gateway
+
+### Synchronization
+
+---
+
+## Aggregating Data
+
+---
+
+## Run the Query
+
+### Add a LiveQuery
+
+---
+
+## Simulating Multiple Users
+
+In order to simulate other users answering the questions, you can run the app on a second emulator.
+
+From Android Studio, you can deploy the app on multiple devices simultaneously using the `[Run]` button and <kbd>Shift</kbd> key :
+
+![deploy-multiple-devices](https://koenig-media.raywenderlich.com/uploads/2016/07/deploy-multiple-devices.png)
+
+::: tip Note
+
+The above won’t work in Debug mode, so if you’re having difficulty, be sure to use the `[Run]` command in Android Studio, not `[Debug]`.
+
+:::
+
+If your using the reverse proxy method, you will need to make sure it is enabled for both devices. List the running emulators with the following:
+
+```sh
+adb devices
+# 
+# List of devices attached
+# emulator-5556	device
+# emulator-5554	device
+```
+
+With more than one emulator device, you must specify the device in ADB commands. Enable the reverse proxy for access to Sync Gateway on both devices:
+
+```sh
+adb -s emulator-5554 reverse tcp:4984 tcp:4984
+adb -s emulator-5556 reverse tcp:4984 tcp:4984
+```
+
+Now you can start answering questions on both devices. Notice the answers are updated automatically across emulators due to the live query.
+
+![image11](https://koenig-media.raywenderlich.com/uploads/2016/07/image11-3.gif)
+
+Well done! You’ve built a shareable quiz application that works equally well when it’s offline.
+
+---
+
+## Where to Go From Here?
+
+You can get the full source code for this project as a [downloadable zip](https://koenig-media.raywenderlich.com/uploads/2016/09/quizzdroid-final.zip) or as a [<FontIcon icon="iconfont icon-github"/> repo](https://github.com/jamiltz/quizzdroid) on GitHub.
+
+The [Couchbase Lite Guides](http://developer.couchbase.com/documentation/mobile/1.2/develop/guides/couchbase-lite/native-api/index.html) have detailed explanation for every concept covered in this Couchbase tutorial. Also check out [<FontIcon icon="iconfont icon-github"/> `couchbaselabs/photo-drop`](https://github.com/couchbaselabs/photo-drop), a peer-to-peer photo sharing application and [<FontIcon icon="iconfont icon-github"/> `couchbaselabs/todolite-android`](https://github.com/couchbaselabs/todolite-android), a multi-user todo list application, both built on Couchbase.
+
+If you found this tutorial interesting, you might want to try adding peer-to-peer sync capabilities. Start by replacing the remote URL pointing to a Sync Gateway instance with one from another device on the same local network. The challenge in this case is discovering the IP addresses of peer devices. One solution that works well is to use [NsdManager](https://developer.android.com/reference/android/net/nsd/NsdManager.html), the Android implementation of mDNS.
+
+Feel free to share your feedback, findings and ask any questions in the comments below or in the forums!
+
 
 <TagLinks/>
