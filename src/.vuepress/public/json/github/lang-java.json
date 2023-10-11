@@ -454,6 +454,16 @@
     "desc": ":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
     "officialSite": "https://seata.io",
     "topics": ["at", "branch-transactions", "data-consistency", "distributed-transaction", "dtx", "fescar", "gts", "microservice", "saga", "seata", "tcc", "tcc-transaction", "transaction-manager", "xa"]
+  }, {
+    "repo": "apache/seatunnel",
+    "desc": "SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",
+    "officialSite": "https://seatunnel.apache.org",
+    "topics": ["apache", "batch", "cdc", "change-data-capture", "data-ingestion", "data-integration", "elt", "high-performance", "offline", "real-time", "streaming"]
+  }, {
+    "repo": "kohlschutter/jdk.compiler.standalone",
+    "desc": "Standalone jdk.compiler / JDK javac Compiler Framework + Compiler Tree API",
+    "officialSite": "",
+    "topics": ["compiler", "java", "javac", "jdk"]
   }
 ]
 

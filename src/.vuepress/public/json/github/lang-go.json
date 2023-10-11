@@ -849,5 +849,10 @@
     "desc": "CNCF Jaeger, a Distributed Tracing Platform",
     "officialSite": "https://www.jaegertracing.io",
     "topics": ["cncf", "distributed-tracing", "hacktoberfest", "jaeger", "observability", "opentelemetry", "tracing"]
+  }, {
+    "repo": "zeromicro/go-zero",
+    "desc": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "officialSite": "https://go-zero.dev",
+    "topics": ["cloud-native", "code-generation", "framework", "gateway", "go", "go-zero", "goctl", "golang", "gozero", "grpc-gateway", "microservice", "microservice-framework", "microservices", "microservices-architecture", "rest-api", "restful", "restful-api", "rpc", "rpc-framework", "web-framework"]
   }
 ]

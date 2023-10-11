@@ -49,6 +49,11 @@
     "desc": "All Algorithms implemented in Java",
     "officialSite": "",
     "topics": ["algorithm", "algorithm-challenges", "algorithms", "algorithms-datastructures", "data-structures", "hacktoberfest", "java", "search", "sort", "sorting-algorithms"]
+  }, {
+    "repo": "doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "officialSite": "https://doocs.github.io/advanced-java",
+    "topics": ["advanced-java", "distributed-search-engine", "distributed-systems", "doocs", "dubbo", "elasticsearch", "eureka", "feign", "high-availability", "high-concurrency", "hystrix", "java", "message-queue", "microservices-architecture", "redis", "ribbon", "rpc", "spring-cloud", "springcloud-config", "zookeeper"]
   }
 ]
 

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "xxxjjhhh",
+    "name": "개발자 유미",
+    "profile": "https://yt3.googleusercontent.com/Ut0VEs84KLh62WyPC4QcQTBFo0GAjHUXv9Z1YUYKAVBV0vbgp90HT68ejnZ0NncO1X-gDfcfGQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BqTXiqK7qDo", "title": "Spring Boot CKEditor 17 : Create AWS S3 and Create Connection Config" }
+  ]
+}

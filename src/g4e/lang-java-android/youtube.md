@@ -309,4 +309,12 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 
 ---
 
+## Dev2Devs
+
+<MyYouTubeItems jsonName="yu-Dev2Devs" />
+
+<!-- Dev2Devs -->
+
+---
+
 <TagLinks />

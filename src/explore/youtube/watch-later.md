@@ -439,7 +439,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-go-cloud-architects]: https://www.youtube.com/@GoCloudArchitects
 [yu-seoulian]: https://www.youtube.com/@seoulian
 [yu-michael-cade]: https://www.youtube.com/@MichaelCade1
-[yu-linedevlog]: https://www.youtube.com/@linedevlog
 [yu-IB9696]: https://www.youtube.com/@IB9696
 [yu-simplecooking777]: https://www.youtube.com/@simplecooking777
 [yu-doctor-code]: https://www.youtube.com/@DoctorCode9

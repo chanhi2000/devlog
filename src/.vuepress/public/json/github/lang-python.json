@@ -2898,5 +2898,15 @@
     "desc": "Can large language models provide useful feedback on research papers? A large-scale empirical analysis.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "MetaGLM/FinGLM",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "officialSite": "https://agpt.co",
+    "topics": ["ai", "artificial-intelligence", "autonomous-agents", "gpt-4", "openai", "python"]
   }
 ]

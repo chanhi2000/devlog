@@ -403,15 +403,6 @@
 { "channelId": "yk_roadking", "channelName": "도로왕 김지훈 변호사", "id": "d8LWW8a5QB4", "title": "스쿨존에서 자전거 탄 어린이랑 사고 나면 민식이법이 적용될까요? | 도로왕 김지훈 변호사" },
 // 2023.10.02
 
-{ "channelId": "GuyInACube", "channelName": "Guy in a Cube", "id": "ECmhdB5Rdzo", "title": "Using Microsoft Fabric Workspaces (Power BI and more!)" },
-{ "channelId": "ritvikmath", "channelName": "ritvikmath", "id": "8TWyNQGW6NI", "title": "Detecting Phrases with Data Science : Natural Language Processing" },
-{ "channelId": "BarneyCodes", "channelName": "Barney Codes", "id": "3mfvZ-mdtZQ", "title": "Introduction to Shaders: Learn the Basics!" },
-{ "channelId": "juxtopposed", "channelName": "Juxtopposed", "id": "wIuVvCuiJhU", "title": "world's shortest UI/UX design course" },
-{ "channelId": "jingiru", "channelName": "진기루T", "id": "DGBv1J24gSM", "title": "파이썬 자동화 사례 - MS 문자 시스템에 수신번호 다량 삽입하기 | 문제 해결 | 프로그래밍" },
-{ "channelId": "CFI_Official", "channelName": "Corporate Finance Institute", "id": "kjoldYi7eH0", "title": "Excel Crash Course for Finance Professionals" },
-{ "channelId": "teachmeskills", "channelName": "TeachMeSkills Школа программирования", "id": "fG290-1sljc", "title": "C# vs. JAVA: Сделай Правильный Выбор! / Какой ЯП учить в 2023?" },
-{ "channelId": "linedevlog", "channelName": "라인개발실록", "id": "3sVS3HSrFFo", "title": "QA 엔지니어가 들려주는 QA 트렌드 | 라인개발실록" },
-{ "channelId": "Dev2Devs", "channelName": "Dev2Devs", "id": "BMJ4yxg-0KA", "title": "Каталог версий зависимостей в Android Studio на языке TOML + Kotlin" },
 { "channelId": "prof.r4q52", "channelName": "Prof. Roque Gimenez", "id": "8WljWE32IUM", "title": "clase - 2023 09 22 - c# con visual studio... crudo crudo el video" },
 { "channelId": "callme_donggu", "channelName": "도전남 동구", "id": "RaI8bkIaFGQ", "title": "프론트 독학 29일차 (29/100) | 0923 토요일 저녁 | 프리랜서 개발자 | Code with me (코드윗미)  | 43분 | 자기계발" },
 { "channelId": "indydevdan", "channelName": "IndyDevDan", "id": "Ma0jPYj9hyc", "title": "The Javascript Ecosystem Killer: Using Bun, to Learn Bun (with AIDER)" },
@@ -451,8 +442,6 @@
 { "channelId": "TechTalkAmerica", "channelName": "Tech Talk America", "id": "rc6QHkfNBVc", "title": "Organize Your Documents FAST!!! - Works on Mac, Windows & iPad" },
 { "channelId": "chmtech", "channelName": "CHM Tech", "id": "uP1xn8zFXAw", "title": "This App Makes WINDOWS So Much Better!" },
 { "channelId": "AlexEagleson", "channelName": "Alex Eagleson", "id": "Iu5aZDqZt8E", "title": "How to Build Scalable Architecture for your Next.js Project" },
-{ "channelId": "TechnologicalByte", "channelName": "TechnologicalByte", "id": "RXphQvRXTc8", "title": "Testing out windows copilot" },
-{ "channelId": "xxxjjhhh", "channelName": "개발자 유미", "id": "BqTXiqK7qDo", "title": "Spring Boot CKEditor 17 : Create AWS S3 and Create Connection Config" },
 
 
 https://www.kdnuggets.com/wp-content/uploads/Machine_Learning_with_ChatGPT_Cheat_Sheet_KDnuggets.png

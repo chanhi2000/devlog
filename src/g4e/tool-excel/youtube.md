@@ -199,5 +199,13 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 
 ---
 
+## Corporate Finance Institute
+
+<MyYouTubeItems jsonName="yu-CFI_Official" />
+
+<!-- Corporate Finance Institute -->
+
+---
+
 <TagLinks />
 

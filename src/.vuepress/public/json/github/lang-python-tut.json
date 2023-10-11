@@ -114,5 +114,10 @@
     "desc": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.",
     "officialSite": "https://linkedin.github.io/school-of-sre",
     "topics": ["mysql", "python", "git", "linux", "security", "networking", "hadoop", "nosql", "sre", "system-design"]
+  }, {
+    "repo": "binary-husky/gpt_academic",
+    "desc": "为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。",
+    "officialSite": "https://huggingface.co/spaces/qingxu98/gpt-academic",
+    "topics": ["academic", "chatglm-6b", "chatgpt", "gpt-4", "large-language-models"]
   }
 ]

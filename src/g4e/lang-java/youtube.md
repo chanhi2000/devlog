@@ -676,4 +676,13 @@ meta:
 <!-- Microservices Lab -->
 
 ---
+
+## 개발자 유미
+
+<MyYouTubeItems jsonName="yu-xxxjjhhh" />
+
+<!-- 개발자 유미 -->
+
+---
+
 <TagLinks />
