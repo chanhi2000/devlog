@@ -1491,7 +1491,7 @@ echo '23 154 12 26 34' | awk -v ip="$r" '{gsub(ip, "X")} 1'
 
 ::: info 
 
-See [Using shell variables](using-shell-variables.md#using-shell-variables) chapter for a way to avoid having to escape backslashes.
+See [Using shell variables](07-using-shell-variables.md#using-shell-variables) chapter for a way to avoid having to escape backslashes.
 
 :::
 
@@ -1530,7 +1530,7 @@ echo 'f*(a^b) - 3*(a^b)' |
 
 See [my blog post](https://learnbyexample.github.io/escaping-madness-awk-literal-field-separator/) for more details about escaping metacharacters.
 
-If you need to just match literally instead of substitution, you can use the index function. See the [index](built-in-functions.md#index) section for details.
+If you need to just match literally instead of substitution, you can use the index function. See the [index](09-built-in-functions.md#index) section for details.
 
 :::
 
@@ -1568,6 +1568,10 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '/^den|ly$/' patterns.txt
+# 2 lonely
+# dent
+# lovely
 ```
 
 :::
@@ -1591,6 +1595,11 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'gsub(/\B42\B/, "[&]")' patterns.txt
+# Hi[42]Bye nice1[42]3 bad42
+# eqn2 = pressure*3+42/5-1[42]56
+# cool_[42]a 42fake
+# _[42]_
 ```
 
 :::
@@ -1614,6 +1623,11 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'gsub(/\<s\w*(e\w*t|t\w*e)\w*/, "[&]")' patterns.txt
+# [sets] tests Sauerkraut
+# [site] cite kite bite [store_2]
+# [subtle] sequoia
+# a [set]
 ```
 
 :::
@@ -1640,6 +1654,14 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '/[A-Z]/ && /[ar]\> /{print gensub(/([ar])\> /, "\\1\n", "g")}' patterns.txt
+# par
+# car
+# tar
+# far
+# Cart
+# Not a
+# pip DOWN
 ```
 
 :::
@@ -1660,6 +1682,8 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'gsub(/\*\[5]/, "2")' patterns.txt
+# (9-2)2
 ```
 
 :::
@@ -1684,6 +1708,12 @@ printf 'known\nmood\nknow\npony\ninns\n'
 @tab Answer
 
 ```sh
+printf 'known\nmood\nknow\npony\ninns\n'
+# known
+# mood
+# know
+# pony
+# inns
 ```
 
 :::
@@ -1707,6 +1737,11 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '/^hand([sy]|le)?$/' patterns.txt
+# handle
+# handy
+# hands
+# hand
 ```
 
 :::
@@ -1729,6 +1764,10 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'gsub("42//?5", "8")' patterns.txt
+# eqn3 = r*42-5/3+42///5-83+a
+# eqn1 = a+8-c
+# eqn2 = pressure*3+8-14256
 ```
 
 :::
@@ -1737,13 +1776,18 @@ awk ##### add your solution here
 
 For the given quantifiers, what would be the equivalent form using the `{m,n}` representation?
 
-- `?` is same as
-- `*` is same as
-- `+` is same as
+- `?` is same as 
+  - `{,1}`
+- `*` is same as 
+  - `{0,}`
+- `+` is same as 
+  - `{1,}`
 
 ### Exercise 10
 
 True or False? `(a*|b*)` is same as `(a|b)*`
+
+> False. Because `(a*|b*)` will match only sequences like `a`, `aaa`, `bb`, `bbbbbbbb`. But `(a|b)*` can match a mixed sequence like `ababbba` too.
 
 ### Exercise 11
 
@@ -1774,6 +1818,21 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+# delete from '(' till the next ')'
+awk 'gsub(/\([^)]*)/, "")' patterns.txt
+# a/b + c%d
+# *[5]
+# def factorial
+# 12- *4)
+# Hi there. Nice day
+
+# delete from '(' till the next ')' but not if there is '(' in between
+awk 'gsub(/\([^()]*)/, "")' patterns.txt
+# a/b + c%d
+# *[5]
+# def factorial
+# 12- (e+*4)
+# Hi there. Nice day(a
 ```
 
 :::
@@ -1782,24 +1841,31 @@ awk ##### add your solution here
 
 For the input file <FontIcon icon="iconfont icon-file"/>`anchors.txt`, convert markdown anchors to corresponding hyperlinks as shown below.
 
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat anchors.txt
 # <a name="regular-expressions"></a>Regular Expressions
 ## <a name="subexpression-calls"></a>Subexpression calls
 ## <a name="the-dot-meta-character"></a>The dot meta character
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # [Regular Expressions](#regular-expressions)
 # [Subexpression calls](#subexpression-calls)
+# [The dot meta character](#the-dot-meta-character)
 ```
 
 @tab Answer
 
 ```sh
+awk '{print gensub(/#+ <a name="([^"]+)"><\/a>(.+)/, "[\\2](#\\1)", 1)}' anchors.txt
+# [Regular Expressions](#regular-expressions)
+# [Subexpression calls](#subexpression-calls)
+# [The dot meta character](#the-dot-meta-character)
 ```
 
 :::
@@ -1825,6 +1891,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'tolower($0) ~ /to|he/ && /World|No/' sample.txt
+# Hello World
+# No doubt you like it too
 ```
 
 :::
@@ -1848,6 +1917,11 @@ echo '_;3%,.,=-=,:' | awk ##### add your solution here
 @tab Answer
 
 ```sh
+echo 'lion,ant,road,neon' | awk '{print gensub(/[^,]+/, "42", 3)}'
+# lion,ant,42,neon
+
+echo '_;3%,.,=-=,:' | awk '{print gensub(/[^,]+/, "42", 3)}'
+# _;3%,.,42,:
 ```
 
 :::
@@ -1869,6 +1943,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'BEGIN{r = @/(.*)ar((.*ar){2})/} $0~r{print gensub(r, "\\1X\\2", 1)}' patterns.txt
+# par car tX far Cart
+# pXt cart mart
 ```
 
 :::
@@ -1890,6 +1967,9 @@ echo "$words" | awk ##### add your solution here
 @tab Answer
 
 ```sh
+words='tiger imp goat eagle ant important'
+echo "$words" | awk '{print gensub(/\<(imp|ant|(\w+))\>/, "(\\2)", "g")}'
+# (tiger) () (goat) (eagle) () (important)
 ```
 
 :::
@@ -1914,6 +1994,12 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '/\Bcar|car\B/' patterns.txt
+# scar
+# care
+# a huge discarded pile of books
+# scare
+# part cart mart
 ```
 
 :::
@@ -1921,6 +2007,21 @@ awk ##### add your solution here
 ### Exercise 18
 
 Will the pattern` ^a\w+([0-9]+:fig)?` match the same characters for the input `apple42:banana314` and `apple42:fig100`? If not, why not?
+
+::: details Answer
+
+```sh
+echo 'apple42:banana314' | awk '{sub(/^a\w+([0-9]+:fig)?/, "[&]")} 1'
+# [apple42]:banana314
+
+echo 'apple42:fig100' | awk '{sub(/^a\w+([0-9]+:fig)?/, "[&]")} 1'
+# [apple42:fig]100
+```
+
+For patterns matching from the same starting location, longest match wins in ERE. So, `\w+` will give up characters to allow `([0-9]+:fig)?` to also match in the second case. In other flavors like PCRE, `apple42` will be matched for both the cases.
+
+:::
+
 
 ### Exercise 19
 
@@ -1942,6 +2043,12 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '/^([4u-]|sub|care)/' patterns.txt
+# care
+# 4*5]
+# -handy
+# subtle sequoia
+# unhand
 ```
 
 :::
@@ -1963,6 +2070,9 @@ echo "$ip" | awk ##### add your solution here
 @tab Answer
 
 ```sh
+ip='wow:Good:2_two.five: hi-2 bye kite.777:water.'
+echo "$ip" | awk '{gsub(/([:.]\w*)+/, "")} 1'
+# wow hi-2 bye kite
 ```
 
 :::
@@ -1984,6 +2094,9 @@ echo "$ip" | awk ##### add your solution here
 @tab Answer
 
 ```sh
+ip='wow:Good:2_two.five: hi-2 bye kite.777:water.'
+echo "$ip" | awk '{print gensub(/((\w+)[:.])+/, "\\2", "g")}'
+# five hi-2 bye water
 ```
 
 :::
@@ -2005,6 +2118,9 @@ echo "$s" | awk ##### add your solution here
 @tab Answer
 
 ```sh
+s='guava (apple) berry) apple (mango) (grape'
+echo "$s" | awk '{print gensub(/(^|[^(])\<\w+/, "\\1X", "g")}'
+# X (apple) X) X (mango) (grape
 ```
 
 :::
@@ -2026,6 +2142,9 @@ echo "$ip" | awk ##### add your solution here
 @tab Answer
 
 ```sh
+ip='Poke,on=-=so_good:ink.to/is(vast)ever2-sit'
+echo "$ip" | awk '{print gensub(/(\w+)([:,-])/, "[\\1]\\2", "g")}'
+# [Poke],on=-=[so_good]:ink.to/is(vast)[ever2]-sit
 ```
 
 :::
@@ -2034,10 +2153,6 @@ echo "$ip" | awk ##### add your solution here
 
 The <FontIcon icon="iconfont icon-file"/>`fields.txt` file has fields separated by the `:` character. Delete `:` and the last field if there is a digit character anywhere before the last field.
 
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat fields.txt
 # 42:cat
@@ -2045,7 +2160,13 @@ cat fields.txt
 # we:be:he:0:a:b:bother
 # apple:banana-42:cherry:
 # dragon:unicorn:centaur
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # 42
 # twelve:a2b
@@ -2056,7 +2177,15 @@ awk ##### add your solution here
 
 @tab Answer
 
+> can also use: `awk '/[0-9].*:/{sub(/:[^:]*$/, "")} 1' fields.txt`
+
 ```sh
+awk '{print gensub(/([0-9].*):.*/, "\\1", 1)}' fields.txt
+# 42
+# twelve:a2b
+# we:be:he:0:a:b
+# apple:banana-42:cherry
+# dragon:unicorn:centaur
 ```
 
 :::
@@ -2064,6 +2193,22 @@ awk ##### add your solution here
 ### Exercise 25
 
 Can you use a character other than `/` as the regexp delimiter? If not, are there ways to construct a regexp that do not require the `/` character to be escaped for literal matching?
+
+::: details Answer
+
+A regexp literal can use only the `/` character as the regexp delimiter. You can also pass a string literal for regexp matching, which doesn't require the `/` character to be escaped for literal matching. However, you'll have to use `\\` to represent a single `\` character, which will affect the use of escape sequences like `\<` and `\w`.
+
+```sh
+# using a string literal for regexp matching, no need to escape the / character
+printf '/home/joe/1\n/home/john/1\n' | awk '$0 ~ "/home/joe/"'
+# /home/joe/1
+
+# however, you'll need \\ to represent a single \
+echo '\learn\by\example' | awk '{gsub("\\\\", "/")} 1'
+# /learn/by/example
+```
+
+:::
 
 ### Exercise 26
 
@@ -2084,7 +2229,15 @@ awk ##### add your solution here
 
 @tab Answer
 
+> can also use: `awk 'gsub(/\<(0[xX])?[[:xdigit:]]{4,}\>/, "[&]")' patterns.txt`
+
 ```sh
+
+awk -v IGNORECASE=1 'gsub(/\<(0x)?[0-9a-f]{4,}\>/, "[&]")' patterns.txt
+# "should not match [0XdeadBEEF]"
+# Hi42Bye nice1423 [bad42]
+# took 0xbad 22 [0x0ff1ce]
+# eqn2 = pressure*3+42/5-[14256]
 ```
 
 :::

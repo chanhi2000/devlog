@@ -742,13 +742,18 @@
   }, {
     "repo": "ros-planning/moveit2",
     "desc": ":robot: MoveIt for ROS 2",
-    "officialSite": "https://moveit.ros.org",
+    "officialSite": "https://moveit.ros.org/",
     "topics": []
   }, {
     "repo": "protocolbuffers/protobuf",
     "desc": "Protocol Buffers - Google's data interchange format",
     "officialSite": "http://protobuf.dev",
     "topics": ["marshalling", "protobuf", "protobuf-runtime", "protoc", "protocol-buffers", "protocol-compiler", "rpc", "serialization"]
+  }, {
+    "repo": "microsoft/snmalloc",
+    "desc": "Message passing based allocator",
+    "officialSite": "",
+    "topics": ["allocator", "malloc", "memory-allocator"]
   }
 ]
 

@@ -213,4 +213,340 @@ echo 'hi log_42 12b' | awk '{gsub(/\>/, ":")} 1'
 
 ---
 
+## Relying on the default initial value
+
+Uninitialized variables are useful, but sometimes they don't translate well if you are converting a command from single file input to multiple files. You have to workout which ones would need a reset at the beginning of each file being processed.
+
+::: tabs
+
+@tab:active Case 1
+
+step 1: works for single file
+
+```sh
+awk '{sum += $NF} END{print sum}' table.txt
+# 38.14
+```
+
+@tab Case 2
+
+step 2: prepare code to work for multiple file
+
+```sh
+awk '{sum += $NF} ENDFILE{print FILENAME ":" sum}' table.txt
+# table.txt:38.14
+```
+
+@tab Case 3
+
+step 3: check with multiple file input
+
+> oops, default numerical value '0' for sum works only once
+
+```sh
+awk '{sum += $NF} ENDFILE{print FILENAME ":" sum}' table.txt marks.txt
+# table.txt:38.14
+# marks.txt:530.14
+```
+
+@tab Case 4
+
+step 4: correctly initialize variables
+
+```sh
+awk '{sum += $NF} ENDFILE{print FILENAME ":" sum; sum=0}' table.txt marks.txt
+# table.txt:38.14
+# marks.txt:492
+```
+
+:::
+
+---
+
+## Code in the replacement section
+
+The replacement section in the substitution functions can accept any expression, which are converted to string whenever necessary. What happens if the regexp doesn't match the input string but the expression can change the value of a variable, such as increment/decrement operators? Well, the expression is still executed, which may or may not be what you need.
+
+::: tabs
+
+@tab:active Case 1
+
+no match for the second line, but '`c`' was still modified
+
+```sh
+awk '{sub(/^(br|ye)/, ++c ") &")} 1' table.txt
+# 1) brown bread mat hair 42
+# blue cake mug shirt -7
+# 3) yellow banana window shoes 3.14
+```
+
+@tab Case 2
+
+Check for a match before applying the substitution.
+This may also help to simplify the regexp for substitution or, you could save the regexp in a variable to avoid duplication.
+
+> can also use: `awk '/^(br|ye)/{$0 = ++c ") " $0} 1' table.txt`
+
+```sh
+awk '/^(br|ye)/{sub(/^/, ++c ") ")} 1' table.txt
+# 1) brown bread mat hair 42
+# blue cake mug shirt -7
+# 2) yellow banana window shoes 3.14
+```
+
+:::
+
+Another important point to note is that the expression is executed only once per function call, not for every match.
+
+
+::: tabs
+
+@tab:active Case 1
+
+the first line has two matches but '`c`' is modified only once
+
+```sh
+awk '{gsub(/\<b/, ++c ") &")} 1' table.txt
+# 1) brown 1) bread mat hair 42
+# 2) blue cake mug shirt -7
+# yellow 3) banana window shoes 3.14
+```
+
+:::
+
+## Forcing numeric context
+
+You can use the unary operator `+` to force numeric conversion. A variable might have numeric operations but still not get assigned a number if there's no input to read. So, when printing a variable that should be a number, use unary `+` to ensure it prints 0 instead of an empty string.
+
+::: tabs
+
+@tab:active Case 1
+
+numbers present in the last column, so no issues
+
+```sh
+awk '{sum += $NF} END{print sum}' table.txt
+# 38.14
+```
+
+@tab Case 2
+
+strings in the first column, gets treated as 0
+
+```sh
+awk '{sum += $1} END{print sum}' table.txt
+# 0
+```
+
+@tab Case 3
+
+no input at all, an empty string is printed
+
+```sh
+awk '{sum += $1} END{print sum}' /dev/null
+```
+
+@tab Case 4
+
+forced conversion to number, 0 is printed
+
+```sh
+awk '{sum += $1} END{print +sum}' /dev/null
+# 0
+```
+
+:::
+
+---
+
+## Locale based numbers
+
+The `-N` option (or `--use-lc-numeric`) is useful to work with floating-point numbers based on the current locale.
+
+
+::: tabs
+
+@tab:active Case 1
+
+my locale uses `.` for the decimal point
+
+```sh
+echo '3.14' | awk '{$0++} 1'
+# 4.14
+```
+
+@tab Case 2
+
+```sh
+echo '3,14' | awk '{$0++} 1'
+# 4
+echo '3,14' | LC_NUMERIC=de_DE awk -N '{$0++} 1'
+# 4,14
+```
+
+---
+
+## Forcing string context
+
+Concatenate an empty string to force string comparison.
+
+::: tabs
+
+@tab:active Case 1
+
+- parentheses around the first argument to print used for clarity
+- fields get compared as numbers here
+
+```sh
+echo '5 5.0' | awk '{print ($1==$2 ? "same" : "different"), "number"}'
+# same number
+```
+
+@tab Case 2
+
+fields get compared as strings here
+
+```sh
+echo '5 5.0' | awk '{print ($1""==$2 ? "same" : "different"), "string"}'
+# different string
+```
+
+:::
+
+---
+
+## Negative `NF`
+
+Manipulating `NF` sometimes leads to a negative value. Fortunately, `awk` throws an error instead of failing silently.
+
+
+```sh
+cat varying.txt
+# parrot
+# good cool awesome
+# blue sky
+# 12 34 56 78 90
+```
+
+::: tabs
+
+@tab:active Case 1
+
+delete the last two fields
+
+```sh
+awk '{NF -= 2} 1' varying.txt
+# awk: cmd. line:1: (FILENAME=varying.txt FNR=1) fatal: NF set to negative value
+```
+
+@tab Case 2
+
+add a condition to check the number of fields
+assumes that lines with less than 3 fields shouldn't be modified
+
+```sh
+awk 'NF>2{NF -= 2} 1' varying.txt
+# parrot
+# good
+# blue sky
+# 12 34 56
+```
+
+:::
+
+Here's another example. Goal is to access the third field from the end.
+
+
+::: tabs
+
+@tab:active Case 1
+
+```sh
+awk '{print $(NF-2)}' varying.txt
+# awk: cmd. line:1: (FILENAME=varying.txt FNR=1) fatal: attempt to access field -1
+```
+
+@tab Case 2
+
+print only if there are minimum 3 fields
+
+```sh
+awk 'NF>2{print $(NF-2)}' varying.txt
+# good
+# 56
+```
+
+:::
+
+---
+
+## Faster execution
+
+Changing the locale to ASCII (assuming that the default is not ASCII) can give a significant speed boost. Using `mawk` is another way to speed up the execution, provided you are not using GNU `awk` specific features. There are many feature differences, for example, `mawk` doesn't support the `{}` form of quantifiers (see [unix.stackexchange: How to specify regex quantifiers with `mawk`?](https://unix.stackexchange.com/q/506119/109046) for details). See also [wikipedia: `awk` Versions and implementations](https://en.wikipedia.org/wiki/AWK_programming_language#Versions_and_implementations).
+
+::: tabs
+
+@tab:active Case 1
+
+time shown is the best result from multiple runs
+speed benefit will vary depending on computing resources, input, etc
+<FontIcon icon="iconfont icon-file"/> `words.txt` contains dictionary words, one word per line
+
+```sh
+time awk '/^([a-d][r-z]){3}$/' words.txt > f1
+# real    0m0.029s
+
+time LC_ALL=C awk '/^([a-d][r-z]){3}$/' words.txt > f2
+# real    0m0.017s
+
+time mawk '/^[a-d][r-z][a-d][r-z][a-d][r-z]$/' words.txt > f3
+# real    0m0.009s
+```
+
+@tab Case 2
+
+check that the results are the same
+
+```sh
+diff -s f1 f2
+# Files f1 and f2 are identical
+diff -s f2 f3
+# Files f2 and f3 are identical
+# clean up temporary files
+rm f[123]
+```
+
+:::
+
+Here's another example.
+
+
+::: tabs
+
+@tab:active Case 1
+
+count words containing exactly 3 lowercase '`a`' characters
+
+```sh
+time awk -F'a' 'NF==4{cnt++} END{print +cnt}' words.txt
+# 1019
+# real    0m0.032s
+time LC_ALL=C awk -F'a' 'NF==4{cnt++} END{print +cnt}' words.txt
+# 1019
+# real    0m0.021s
+time mawk -F'a' 'NF==4{cnt++} END{print +cnt}' words.txt
+# 1019
+# real    0m0.014s
+```
+
+:::
+
+::: info 
+
+See also [<FontIcon icon="iconfont icon-github"/> ezrosent/frawk](https://github.com/ezrosent/frawk), an efficient awk-like language implemented in Rust. And [<FontIcon icon="iconfont icon-github"/> koraa/huniq](https://github.com/koraa/huniq), a faster alternative for removing line based duplicates.
+
+:::
+
+---
+
 <TagLinks/>

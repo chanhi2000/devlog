@@ -816,6 +816,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/53.md',
         '/crashcourse/paul-hudson-100-days-of-swift/54.md',
         '/crashcourse/paul-hudson-100-days-of-swift/55.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/56.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -865,6 +866,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/41.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/42.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/43.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/44.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1062,7 +1064,6 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/cli-text-processing-w-gnu-awk/14-awk-scripts.md',
         '/crashcourse/cli-text-processing-w-gnu-awk/15-gotchas-and-tips.md',
         '/crashcourse/cli-text-processing-w-gnu-awk/16-further-reading.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/17-exercise-solutions.md'        
       ]
     }, {
       text: '🐚Mastering Curl - Interactive Text Guide',

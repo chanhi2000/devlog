@@ -755,9 +755,9 @@
     "officialSite": ""
   }, {
     "repo": "haotian-liu/LLaVA",
-    "desc": "Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.",
-    "officialSite": "https://llava.hliu.cc",
-    "topics": ["chatbot", "chatgpt", "foundation-models", "gpt-4", "instruction-tuning", "llama", "llama-2", "llama2", "llava", "multi-modality", "multimodal", "vision-language-model", "visual-language-learning"]
+    "desc": "[NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.",
+    "topics": ["chatbot", "chatgpt", "foundation-models", "gpt-4", "instruction-tuning", "llama", "llama-2", "llama2", "llava", "multi-modality", "multimodal", "vision-language-model", "visual-language-learning"],
+    "officialSite": "https://llava.hliu.cc"
   }, {
     "repo": "Vision-CAIR/MiniGPT-4",
     "desc": "",
@@ -2918,5 +2918,10 @@
     "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
     "officialSite": "https://docs.paperless-ngx.com",
     "topics": []
+  }, {
+    "repo": "traceloop/openllmetry",
+    "desc": "Open-source observability for your LLM application, based on OpenTelemetry",
+    "officialSite": "https://traceloop.com/docs/python-sdk/introduction",
+    "topics": ["datascience", "llmops", "metrics", "ml", "model-monitoring", "monitoring", "observability", "open-telemetry", "opentelemetry"]
   }
 ]

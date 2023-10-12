@@ -52,7 +52,6 @@ color: rgba(22, 25, 35, 0.2)
 14. [awk scripts](14-awk-scripts.md)
 15. [Gotchas and Tips](15-gotchas-and-tips.md)
 16. [Further Reading](16-further-reading.md)
-17. [Exercise Solutions](17-exercise-solutions.md)
 
 ---
 
@@ -94,7 +93,7 @@ The [<FontIcon icon="iconfont icon-github"/> learn_gnuawk repo](https://github.c
 - [tex.stackexchange](https://tex.stackexchange.com) — for help on [pandoc](https://github.com/jgm/pandoc) and tex related questions
 - [/r/commandline/](https://old.reddit.com/r/commandline), [/r/linux4noobs/](https://old.reddit.com/r/linux4noobs), [/r/linuxquestions/](https://old.reddit.com/r/linuxquestions) and [/r/linux/](https://old.reddit.com/r/linux) — helpful forums
 - [canva](https://www.canva.com) — cover image
-- [<FontIcon icon="iconfont icon-github"/> oxipng](https://github.com/shssoichiro/oxipng), [pngquant](https://pngquant.org) and [<FontIcon icon="iconfont icon-github"/> svgcleaner](https://github.com/RazrFalcon/svgcleaner) — optimizing images
+- [<FontIcon icon="iconfont icon-github"/> `shssoichiro/oxipng`](https://github.com/shssoichiro/oxipng), [pngquant](https://pngquant.org) and [<FontIcon icon="iconfont icon-github"/> `RazrFalcon/svgcleaner`](https://github.com/RazrFalcon/svgcleaner) — optimizing images
 - [Warning](https://commons.wikimedia.org/wiki/File:Warning_icon.svg) and [Info](https://commons.wikimedia.org/wiki/File:Info_icon_002.svg) icons by [Amada44](https://commons.wikimedia.org/wiki/User:Amada44) under public domain
 - [arifmahmudrana](https://github.com/arifmahmudrana) for spotting an ambiguous explanation
 - [Pound-Hash](https://github.com/Pound-Hash) for critical feedback

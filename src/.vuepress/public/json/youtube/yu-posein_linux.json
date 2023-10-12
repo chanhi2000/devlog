@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "posein_linux",
+    "name": "SungJae Jung",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbj07ZlkwQRnIb87qRksXKo7pYKawUcv42DyJ14-g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "V8kFL7EBpO8", "title": "Apache HTTP Server 소스 설치" }
+  ]
+}

@@ -879,5 +879,10 @@
     "desc": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
     "officialSite": "https://github.com/shopify/toxiproxy",
     "topics": ["chaos", "down", "go", "is", "omg", "proxy", "resiliency", "tcp-proxy", "testing"]
+  }, {
+    "repo": "anderspitman/obligator",
+    "desc": "Simple and opinionated OpenID Connect server designed for self-hosters",
+    "officialSite": "",
+    "topics": ["oidc", "oidc-server", "openid"]
   }
 ]

@@ -189,5 +189,15 @@
     "desc": "Dockerized local and offline backing up of PostgresQL with rotation and compression.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "declassed-art/armvuan",
+    "desc": "Armbian + Devuan = Armvuan",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "minios-linux/minios-live",
+    "desc": "These scripts build a bootable MiniOS ISO image.",
+    "officialSite": "",
+    "topics": []
   }
 ]

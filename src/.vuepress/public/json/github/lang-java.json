@@ -340,11 +340,6 @@
     "officialSite": "https://bifromq.io",
     "topics": ["mqtt", "iot", "multi-tenant", "serverless", "distributed", "mqtt-broker", "decentralized-cluster"]
   }, {
-    "repo": "alipay/fury",
-    "desc": "A blazing fast multi-language serialization framework powered by jit and zero-copy",
-    "officialSite": "https://furyio.org",
-    "topics": ["javascript", "python", "java", "rust", "fast", "golang", "encoding", "serialization", "compression", "lightning", "cpp", "transfer", "zero-copy", "persistence", "marshalling", "jit", "rpc", "transport", "cross-language", "multiple-language"]
-  }, {
     "repo": "Tencent/Hippy",
     "desc": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
     "officialSite": "https://hippyjs.org",
@@ -425,11 +420,6 @@
     "officialSite": "",
     "topics": ["educational-project", "example-project", "experimental", "micro-framework", "tdd"]
   }, {
-    "repo": "google/bindiff",
-    "desc": "Quickly find differences and similarities in disassembled code",
-    "officialSite": "https://zynamics.com/bindiff.html",
-    "topics": ["bindiff", "binexport", "diffing", "program-analysis", "program-differencing", "reverse-engineering"]
-  }, {
     "repo": "vespa-engine/vespa",
     "desc": "The open big data serving engine. https://vespa.ai",
     "officialSite": "https://vespa.ai",
@@ -464,6 +454,16 @@
     "desc": "Standalone jdk.compiler / JDK javac Compiler Framework + Compiler Tree API",
     "officialSite": "",
     "topics": ["compiler", "java", "javac", "jdk"]
+  }, {
+    "repo": "google/bindiff",
+    "desc": "Quickly find differences and similarities in disassembled code",
+    "officialSite": "https://zynamics.com/bindiff.html",
+    "topics": ["bindiff", "binexport", "diffing", "program-analysis", "program-differencing", "reverse-engineering"]
+  }, {
+    "repo": "alipay/fury",
+    "desc": "A blazing fast multi-language serialization framework powered by jit and zero-copy",
+    "officialSite": "https://furyio.org",
+    "topics": ["compression", "cpp", "cross-language", "encoding", "fast", "golang", "hacktoberfest", "java", "javascript", "jit", "lightning", "marshalling", "multiple-language", "persistence", "python", "rpc", "rust", "serialization", "transfer", "zero-copy"]
   }
 ]
 

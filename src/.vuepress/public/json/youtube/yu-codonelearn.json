@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codonelearn",
+    "name": "Codone",
+    "profile": "https://yt3.googleusercontent.com/RaTSFF7agbuEl-fWXnH4i9jbgDX2tpxSoTXmFFKbQPCrhWC35N6_jOtkT4COcyGrHnNl3Ow9lw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "FqL3HJV-LBI", "title": "#12 Let's Build Orders Page | React | MERN Stack 🚀🚀" },
+    { "id": "JJFBsSRFJTI", "title": "Let's Build Full Stack WhatsApp Clone with ReactJS and Firebase for Beginners ( in 4 hours ) 🚀🚀" }
+  ]
+}

@@ -86,4 +86,17 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ## Sebastien Marie
 
+## TuM'Fatig
+
+- [Using OpenBSD `relayd(8)` as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway)
+
+---
+
+## matklad
+
+- [UNIX Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
+
+---
+
+
 <TagLinks />

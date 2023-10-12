@@ -335,6 +335,9 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Encrypted Client Hello - the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello)
 
+---
+
+## 
 ## TwoPi Code
 
 - [This is Why We Stopped Using React Native](https://www.twopicode.com/articles/this-is-why-we-stopped-using-react-native)
@@ -383,6 +386,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Supabase
 
 - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
+
+---
+
+## Payload
+
+- [Announcing Payload 2.0: Postgres, Live Preview, Lexical RTE, and More](https://payloadcms.com/blog/payload-2-0)
 
 ---
 

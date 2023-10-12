@@ -1,10 +1,3 @@
-{ "channelId": "trifork9941", "channelName": "Trifork", "id": "lnUJzFut7LM", "title": "Trifork Tech Update: The Future of Cyber Protection for Mobile Apps" },
-{ "channelId": "bukae", "channelName": "통구니부캐", "id": "OuJAHSYnVRU", "title": "SSD 수명 늘리기, 성능 향상, 최적화 프로 그램 Abelssoft SSD Fresh Plus 2022 평생 라이선스 [12월 8일 수정]" },
-{ "channelId": "posein_linux", "channelName": "SungJae Jung", "id": "V8kFL7EBpO8", "title": "Apache HTTP Server 소스 설치" },
-{ "channelId": "ActionRetro", "channelName": "Action Retro" "id": "1Ti5tLYxcEg", "title": "I Made a Mastodon Server" },
-{ "channelId": "TanjimTheTechGuy", "channelName": "Tanjim The Tech Guy", "id": "7mHA81Iz4HA", "title": "When You Prefer Windows but Love MacOS Design - THIS HAPPENS" },
-{ "channelId": "NicoKock01", "channelName": "Nico Kock", "id": "YFA85Nki5Sg", "title": "SOAP-UI Test" },
-{ "channelId": "NicoKock01", "channelName": "Nico Kock", "id": "eC8Tp7fRz78", "title": "SImplementing the SOAP Endpoint" },
 { "channelId": "devopsdean7830", "channelName": "DevOps Dean", "id": "wm9AECTm_48", "title": "Openshift Tutorial - Basics & Setup" },
 { "channelId": "MrDevOps", "channelName": "Mr. DevOps", "id": "Yk7k3yEguQA", "title": "Mega Real-time End to End DevOps CI/CD Project | Git | Jenkins | Nexus | SonarQube | HandsOn Lab - I" },
 { "channelId": "ZAINKEEPSCODE", "channelName": "ZAINKEEPSCODE", "id": "gpqoZQ8GNK8", "title": "React Responsive Gym Website Tutorial Using ReactJs | React js Projects for Beginners | Deploy" },
@@ -47,12 +40,10 @@
 { "channelId": "user-zx1rk8qx6q", "channelName": "실용주의 프로그래머", "id": "RWEZITw27Ts", "title": "작정하고 장고 1강 - 무엇을 만들 것인지 : Django로 Pinterest 따라하기!" }
 { "channelId": "Panjno", "channelName": "Panjno", "id": "DNLQsUM4vAE", "title": "🔧 How to CLEAR All Cache in Windows 11 to Improve Performance & Speed Up ANY PC!" },
 { "channelId": "Panjno", "channelName": "Panjno", "id": "X7FObUG1SS8", "title": "🔧 How to CLEAR All Cache in Windows 10 to Improve Performance & Speed Up ANY PC!" }
-{ "channelId": "PradhumanPatel", "channelName": "Pradhuman Patel", "id": "FqL3HJV-LBI", "title": "#12 Let's Build Orders Page | React | MERN Stack 🚀🚀" },
 { "channelId": "UnsureProgrammer", "channelName": "Unsure Programmer", "id": "JiSsS1Xj5uQ", "title": "Flutter Uber 6/6 - Draggable Scrollable Bottom Sheet" },
 { "channelId": "roulzhq", "channelName": "ROULZ", "id": "5LhGMq5wvmk", "title": "Why WebAssembly is the future of Web development" },
 { "channelId": "kunlee", "channelName": "AROMA ART kunlee", "id": "MrUkbFk62co", "title": "구독자 호텔테라피 체험 여행가서 직접 마사지해줘야 상남자 Hotel aromatherapy" },
 { "channelId": "elibroftw", "channelName": "elibro", "id": "BbZmLXBDGnU", "title": "Tauri & ReactJS - Creating Modern Desktop Apps (read desc.)" },
-{ "channelId": "PradhumanPatel", "channelName": "Pradhuman Patel", "id": "JJFBsSRFJTI", "title": "Let's Build Full Stack WhatsApp Clone with ReactJS and Firebase for Beginners ( in 4 hours ) 🚀🚀" },
 { "channelId": "LevelUpTuts", "channelName": "LevelUpTuts", "id": "64VrioBwHG4", "title": "Full Featured Svelte Kit Page Loader - Weekly Svelte" },
 { "channelId": "edutechional", "channelName": "edutechional", "id": "_-7ohZn6L10", "title": "How to Implement an Animated Sliding Pane in React JS" },
 { "channelId": "stagyu", "channelName": "HR Yu", "id": "u9SOYg4jzik", "title": "node js, express server, 공공데이터포털/api 연결 총정리" },
@@ -416,7 +407,6 @@
 { "channelId": "conaticus", "channelName": "conaticus", "id": "uKP990_pjJo", "title": "I Built a FAST Package Manager (in Rust)" },
 { "channelId": "youngcademe", "channelName": "영카데미 ", "id": "YvrJCuz0JJ4", "title": "연봉협상, \"나\"의 가치 재대로 평가하기" },
 { "channelId": "Reducible", "channelName": "Reducible", "id": "ngCos392W4w", "title": "5 Simple Steps for Solving Any Recursive Problem" },
-{ "channelId": "CSCoach", "channelName": "CS Coach", "id": "BEw5EFqCCEI", "title": "Creating Jarvis powered by OpenAI and Python | ChatGPT" },
 { "channelId": "AND_studio", "channelName": "AND (ft.인싸담당자)", "id": "anKPF4CM_BU", "title": "이력서 교육, 훈련, 자격 탭 빠르게 작성할 수 있는 꿀팁 [모르면 후회할 취업꿀팁]" },
 { "channelId": "salimlog", "channelName": "살림로그_살림을 기록하다.", "id": "ozpahMsRHnA", "title": "다이소 추천템 자석 키친타올걸이 120% 활용법" },
 { "channelId": "mr_mux408", "channelName": "Alex Mux", "id": "8uiZC0l4Ajw", "title": "Learn GO Fast: Full Tutorial" },
@@ -429,7 +419,6 @@
 { "channelId": "koreadh", "channelName": "디지털인문학 in Korea", "id": "0zrMo0vJKXg", "title": "[주간DH] [기술] 한국문집총간 XML 파싱 (1)" },
 { "channelId": "user-ku2hz4sq4e", "channelName": "제이오", "id": "M6NVLZx2m5Y", "title": "ESLint 개발 셋팅, 이거 제대로 된건가..?" },
 { "channelId": "TimGabe", "channelName": "Tim Gabe", "id": "88XxC0_zs74", "title": "6 UI Hacks I Wish I Knew As A Beginner" },
-{ "channelId": "salim_nam", "channelName": "살림남 The Life", "id": "3wlxJQbhT54", "title": "쿠팡 전기그릴이 현재 화제인 이유 #살림남" },
 { "channelId": "devbang", "channelName": "개발자방16", "id": "fOZHRzEVObM", "title": "웹개발 도구 꿀팁 1: 빠르게 웹사이트 배경 섹션 디자인 후 SVG, PNG 다운로드" },
 { "channelId": "choicopy7779", "channelName": "최카피", "id": "3ok4Zti85dY", "title": "자기소개 웹사이트 만들고 싶은 사람들 참고하면 좋은 영상" },
 { "channelId": "fiacobelli", "channelName": "Francisco Iacobelli", "id": "IAnrPxvUEf4", "title": "Simple explanation of functions in python" },
@@ -440,8 +429,6 @@
 { "channelId": "vimjoyer", "channelName": "Vimjoyer", "id": "z8y_qRUYEWU", "title": "LF + NIX: Simple Setup for Extreme Productivity" },
 { "channelId": "perfectbase", "channelName": "Ravi - Perfect Base", "id": "Acq9UEA2akU", "title": "Uploading Files With Next.js Just Got Way Easier" },
 { "channelId": "TechTalkAmerica", "channelName": "Tech Talk America", "id": "rc6QHkfNBVc", "title": "Organize Your Documents FAST!!! - Works on Mac, Windows & iPad" },
-{ "channelId": "chmtech", "channelName": "CHM Tech", "id": "uP1xn8zFXAw", "title": "This App Makes WINDOWS So Much Better!" },
-{ "channelId": "AlexEagleson", "channelName": "Alex Eagleson", "id": "Iu5aZDqZt8E", "title": "How to Build Scalable Architecture for your Next.js Project" },
 
 
 https://www.kdnuggets.com/wp-content/uploads/Machine_Learning_with_ChatGPT_Cheat_Sheet_KDnuggets.png
@@ -596,10 +583,18 @@ https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataf
 https://roadsaudio.com
 https://dotat.at/@/2023-05-26-whence-time.html
 https://store.app
-https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world
+https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-worl
 https://webfft.net/cir
 https://ounapuu.ee/posts/2023/10/09/zimaboard
 https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521
 https://juliaearth.github.io/geospatial-data-science-with-julia
 https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023 
 https://www.tradingdigits.io
+https://modern-sql.com/reserved-words-empirical-list
+https://www.desmos.com/3d?lang=ko
+https://bonterms.com
+https://dynomight.substack.com/p/midwit-home
+https://12factor.net
+https://openintro-ims2.netlify.app
+https://httpie.io
+https://insight.infograb.net/blog/2023/09/15/content-copyright-protection

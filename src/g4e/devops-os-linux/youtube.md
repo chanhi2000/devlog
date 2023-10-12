@@ -290,4 +290,13 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 
 ---
 
+## SungJae Jung
+
+<MyYouTubeItems jsonName="yu-posein_linux" />
+
+<!-- SungJae Jung -->
+
+---
+
+
 <TagLinks />

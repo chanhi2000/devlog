@@ -435,7 +435,7 @@ Here’s what this code does:
 
 Build and run your app, and click on a question to display each question detail:
 
-![image05](https://koenig-media.raywenderlich.com/uploads/2016/07/image05.png)
+![image05](https://koenig-media.raywenderlich.com/uploads/2016/07/image05.png =240x)
 
 ### Multiple Choice in a GridView
 
@@ -487,7 +487,7 @@ private String user_answer;
 
 These property names match the ones on the data modeling diagram. Next, add a getter and setter for each instance variable using the <kbd>CTRL</kbd>+<kbd>Enter</kbd> shortcut in Android Studio.
 
-![image06](https://koenig-media.raywenderlich.com/uploads/2016/07/image06-1.gif =240x)
+![image06](https://koenig-media.raywenderlich.com/uploads/2016/07/image06-1.gif)
 
 To create Answer instances, add the following constructor in <FontIcon icon="iconfont icon-folder"/> `mode/Answer.java`:
 
@@ -581,19 +581,240 @@ This Couchbase tutorial only covers how to read attachments. [Refer to the Couch
 
 ## Adding Synchronization
 
+You will use Sync Gateway in what’s known as _walrus_ mode, which is an in-memory, development-only mode. In production, you would install both Couchbase Server and Sync Gateway.
+
 ### Installing Sync Gateway
 
+[Download Sync Gateway community edition](http://www.couchbase.com/nosql-databases/downloads#couchbase-mobile) and unzip the file. The executable is located in the <FontIcon icon="iconfont icon-folder"/> `bin` folder. If you unzipped the file to the Downloads folder, start it with this command:
+
+```sh
+$ ~/Downloads/couchbase-sync-gateway/bin/sync_gateway -dbname="quizzdroid"
+```
+
+You should see `Starting server on localhost:4984` ... in your terminal window.
+
+You can now head to http://localhost:4984 to check that it’s up and running:
+
+![browser](https://koenig-media.raywenderlich.com/uploads/2016/05/browser.png)
+
+Now that the Sync Gateway is running, you’ll add some code to replicate the database to the server.
+
 ### Synchronization
+
+Set up the push and pull replications by adding the following code to the end of the constructor in <FontIcon icon="iconfont icon-file"/>`DataManager.java`.
+
+```java
+// 1
+URL syncGatewayURL = null;
+try {
+  String SYNC_GATEWAY_URL = "http://localhost:4984/quizzdroid";
+  syncGatewayURL = new URL(SYNC_GATEWAY_URL);
+} catch (MalformedURLException e) {
+  e.printStackTrace();
+}
+
+// 2
+mPush = database.createPushReplication(syncGatewayURL);
+mPush.setContinuous(true);
+mPush.start();
+
+// 3
+mPull = database.createPullReplication(syncGatewayURL);
+mPull.setContinuous(true);
+mPull.start();
+```
+
+This code segment does the following:
+
+1. Instantiates a URL pointing to http://localhost:4984/quizzdroid, which is your local Sync Gateway instance.
+2. Starts a [push replication](https://github.com/couchbase/couchbase-lite-ios/wiki/Replication#replication) in continuous mode, which is the operation that will send data from the local database to the server.
+3. Starts a [pull replication](https://github.com/couchbase/couchbase-lite-ios/wiki/Replication#replication) in continuous mode, which is the operation that will retrieve data from the server and save it to the local database.
+
+Before you can build and run, you’ll need to use an ADB command to ensure that QuizzDroid, running on a plugged-in device or emulator, can reach the server over localhost.
+
+With the emulator running, run the following from the command line:
+
+```sh
+adb reverse tcp:4984 tcp:4984
+```
+
+::: tip Note
+
+This command only works on devices running Android 5.0+ (API 21). Instead of setting up the reverse proxy, you can replace localhost in the previous code block with 10.0.2.2 for Android stock emulators, 10.0.3.2 for Genymotion emulators or, if you’re deploying to a device, the local IP address of your development machine.
+
+:::
+
+Build and run your app; you should see a new document appear on the Sync Gateway admin UI (http://localhost:4985/_admin/db/quizzdroid, note the different port number) every time you answer a question.
+
+![Sync Gateway UI](https://koenig-media.raywenderlich.com/uploads/2016/07/Sync-Gateway-UI-480x230.png)
+
+::: tip Note
+
+Using Android Studio’s Instant Run sometimes doesn’t set up the sync correctly; if you don’t see the documents in the Sync Gateway admin, try quitting the app and then build and run again.
+
+:::
+
+So far so good, but what about displaying answers from other users? You’ll do exactly that in the next section.
 
 ---
 
 ## Aggregating Data
 
+Data aggregation is a problem across many applications. Couchbase Lite lets you run those data queries using the full capabilities of map and reduce. To run aggregation queries on the rows emitted by the map function, you can use a reduce function to take several rows and aggregate them together in a single object.
+
+You’ll write a view to query the number of answers for each possible choice. You’ll define a map function which returns the number of answers for each question, group them by their value and count the number of rows in each group.
+
+The requirements for this query are:
+
+- Get all answers that belong to a given question
+- Count the number of answers for each possible choice
+
+With that in mind, you can emit the `question_id` and `user_answer` fields as a compound key with a null value, while using a reduce function to count the number of emitted rows.
+
+Add the following class method to <FontIcon icon="iconfont icon-file"/> `Answer.java`:
+
+```java
+public static Query getAnswersForQuestion(Database database, String questionId) {
+  View view = database.getView("app/answers");
+  if (view.getMap() == null) {
+    view.setMapReduce(new Mapper() {
+      @Override
+      public void map(Map<String, Object> document, Emitter emitter) {
+        if (document.get("type").equals("answer")) {
+          List<Object> keys = new ArrayList<>();
+          keys.add((String) document.get("question_id"));
+          keys.add((String) document.get("user_answer"));
+          emitter.emit(keys, null);
+        }
+      }
+    }, new Reducer() {
+      @Override
+      public Object reduce(List<Object> keys, List<Object> values, boolean rereduce) {
+        return values.size();
+      }
+    }, "1");
+  }
+  Query query = view.createQuery();
+  query.setGroupLevel(2);
+  query.setStartKey(Arrays.asList(questionId));
+  query.setEndKey(Arrays.asList(questionId, new HashMap<String, Object>()));
+  return query;
+}
+```
+
+Grouping is a powerful feature of Couchbase. It’s available on a Query using the numeric `groupLevel` property, which defaults to 0. It takes the entire range of rows from the query and coalesces together adjacent rows with the same key.
+
+Notice that `groupingLevel = 2` coalesces the rows by key. Keys that are arrays are called __compound keys__; a group level of 2 means the query will coalesce rows with the same `question_id` and `user_answer`.
+
+You can read more about `setStartKey()` and `setEndKey()` in the Couchbase [documentation for configuring queries](http://developer.couchbase.com/documentation/mobile/current/develop/guides/couchbase-lite/native-api/query/index.html).
+
 ---
 
 ## Run the Query
 
+Time to run the query and use the results. Add the following method to <FontIcon icon="iconfont icon-file"/>`QuestionActivity.java`:
+
+```java
+private Map<String,Integer> getAnswerCounts(QueryEnumerator answers) {
+
+  Map<String,Integer> answerCounts = new HashMap<String, Integer>();
+
+  for (String option: mQuestion.getOptions()) {
+    answerCounts.put(option, 0);
+  }
+
+  for (QueryRow row : answers) {
+    LazyJsonArray<Object> key = (LazyJsonArray<Object>) row.getKey();
+    String answer = (String) key.get(1);
+    answerCounts.put(answer, (Integer)row.getValue());
+  }
+
+  return answerCounts;
+}
+```
+
+The above method takes a `QueryEnumerator` returned from `getAnswersForQuestion()` and returns a `Map` that stores an answer count for each option. The map object makes it quick and easy to access answer counts for each option.
+
+Add the following code to `onCreate()`, just before the line `mQuestionOptions = (GridView) findViewById(R.id.question_options)`:
+
+```java
+Query answers = Answer.getAnswersForQuestion(manager.database, mQuestion.get_id());
+QueryEnumerator answersQuery = null;
+try {
+  answersQuery = answers.run();
+} catch (CouchbaseLiteException e) {
+  e.printStackTrace();
+}
+```
+
+This code stores a `QueryEnumerator` to be used when calling `getAnswerCounts()` below.
+
+Next, find the call to `mQuestionOptions.setAdapter(new QuestionOptionsAdapter(mQuestion.getOptions(), null));` and replace it with this line:
+
+```java
+mQuestionOptions.setAdapter(new QuestionOptionsAdapter(mQuestion.getOptions(),
+    getAnswerCounts(answersQuery)));
+```
+
+This passes the `Map` returned from `getAnswerCounts()` into the GridView adapter, allowing it to display answer counts.
+
 ### Add a LiveQuery
+
+Next, you’ll add the method to set up a LiveQuery to keep the answer counts updated. A LiveQuery is a great way to keep your interface updated with database changes. It automatically refreshes any time Database changes affect your query.
+
+In <FontIcon icon="iconfont icon-file"/>`QuestionActivity.java`, add the following method:
+
+```java
+private void showAnswers() {
+  DataManager manager = DataManager.getSharedInstance(getApplicationContext());
+  Query answersQuery = Answer.getAnswersForQuestion(manager.database, mQuestion.get_id());
+  LiveQuery liveQuery = answersQuery.toLiveQuery();
+
+  liveQuery.addChangeListener(new LiveQuery.ChangeListener() {
+    @Override
+    public void changed(LiveQuery.ChangeEvent event) {
+      QueryEnumerator result = event.getRows();
+
+      Map<String,Integer> counts = getAnswerCounts(result);
+
+      final QuestionOptionsAdapter adapter =
+          (QuestionOptionsAdapter)mQuestionOptions.getAdapter();
+
+      adapter.setAnswerCounts(counts);
+
+      runOnUiThread(new Runnable() {
+        @Override
+        public void run() {
+          adapter.notifyDataSetChanged();
+        }
+      });
+    }
+  });
+  liveQuery.start();
+}
+```
+
+This code starts by creating a `LiveQuery` from `Answer.getAnswersForQuestion`.
+
+You then add a `ChangeListener` to the `liveQuery` object. The `liveQuery` object calls the `changed` method when required, and passes to it a `ChangeEvent` object.
+
+Next, you use the previously created `getAnswerCounts` to return the map of answer counts, which is passed to the GridView adapter to refresh the counts in the UI.
+
+`Activity.runOnUiThread` updates the GridView on the UI thread.
+
+Add the following line to the end of `onCreate` in <FontIcon icon="iconfont icon-file"/>`QuestionActivity.java`.
+
+```java
+showAnswers();
+```
+
+Build and run your app; open a question and answer it (note that you can answer it more than once).
+
+![image10](https://koenig-media.raywenderlich.com/uploads/2016/07/image10.png =240x)
+
+Great job! You can now see your own answers, but what about those from other users?
+
+By running two instances of the app at the same time, both accessing the same Sync Gateway, you will have real-time visibility into other user’s answers!
 
 ---
 

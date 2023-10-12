@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "NicoKock01",
+    "name": "Nico Kock",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaZ1aPBMKbufuve_XnnHIa2jL_N7YgHlvehvFWYxg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MRjPuFfv-Lr9dl0l4nFQKd74wdPTapQ1Q2VYCTbnWVCY7k9FSM_yQAKGrYi299WSewA0aQDU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YFA85Nki5Sg", "title": "SOAP-UI Test" },
+    { "id": "eC8Tp7fRz78", "title": "SImplementing the SOAP Endpoint" }
+  ]
+}

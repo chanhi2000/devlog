@@ -757,16 +757,18 @@ The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learn
 
 For the input file <FontIcon icon="iconfont icon-file"/>`brackets.txt`, extract only the contents between `()` or `)(` from each input line. Assume that `()` characters will be present only once every line.
 
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat brackets.txt
 # foo blah blah(ice) 123 xyz$ 
 # (almond-pista) choco
 # yo )yoyo( yo
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # ice
 # almond-pista
@@ -776,6 +778,10 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F'[()]' '{print $2}' brackets.txt
+# ice
+# almond-pista
+# yoyo
 ```
 
 :::
@@ -783,10 +789,6 @@ awk ##### add your solution here
 ### Exercise 2
 
 For the input file <FontIcon icon="iconfont icon-file"/>`scores.csv`, extract Name and Physics fields in the format shown below.
-
-::: tabs 
-
-@tab:active Question
 
 ```sh
 cat scores.csv
@@ -797,7 +799,13 @@ cat scores.csv
 # Cy,97,98,95
 # Ort,68,72,66
 # Ith,100,100,100
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # Name:Physics
 # Blue:46
@@ -810,7 +818,17 @@ awk ##### add your solution here
 
 @tab Answer
 
+> can also use: `awk -F, '{print $1 ":" $3}' scores.csv`
+
 ```sh
+awk -F, -v OFS=: '{print $1, $3}' scores.csv
+# Name:Physics
+# Blue:46
+# Lin:83
+# Er:79
+# Cy:98
+# Ort:72
+# Ith:100
 ```
 
 :::
@@ -818,10 +836,6 @@ awk ##### add your solution here
 ### Exercise 3
 
 For the input file <FontIcon icon="iconfont icon-file"/>`scores.csv`, display names of those who've scored above 70 in Maths.
-
-::: tabs 
-
-@tab:active Question
 
 ```sh
 cat scores.csv
@@ -832,7 +846,13 @@ cat scores.csv
 # Cy,97,98,95
 # Ort,68,72,66
 # Ith,100,100,100
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # Lin
 # Cy
@@ -842,6 +862,10 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F, '+$2>70{print $1}' scores.csv
+# Lin
+# Cy
+# Ith
 ```
 
 :::
@@ -866,7 +890,14 @@ echo 'u-no;co%."(do_12:as' | awk ##### add your solution here
 @tab Answer
 
 ```sh
+echo 'hi there' | awk '{print gsub(/\w/, "")}'
+# 7
+
+echo 'u-no;co%."(do_12:as' | awk -F'\\w' '{print NF-1}'
+# 12
 ```
+
+__Note__ that the first solution will print `0` for lines not containing any word character, while the second one will print `-1`. You can use `print NF ? NF-1 : 0` to cover such corner cases.
 
 :::
 
@@ -874,16 +905,17 @@ echo 'u-no;co%."(do_12:as' | awk ##### add your solution here
 
 For the input file <FontIcon icon="iconfont icon-file"/>`quoted.txt`, extract the first and third sequence of characters surrounded by double quotes and display them in the format shown below. Solution shouldn't use substitution functions.
 
+```sh
+cat quoted.txt
+# 1 "grape" and "mango" and "guava"
+# ("a 1""b""c-2""d")
+```
 
 ::: tabs 
 
 @tab:active Question
 
 ```sh
-cat quoted.txt
-# 1 "grape" and "mango" and "guava"
-# ("a 1""b""c-2""d")
-
 awk ##### add your solution here
 # "grape","guava"
 # "a 1","c-2"
@@ -892,6 +924,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -v FPAT='"[^"]+"' -v OFS=, '{print $1, $3}' quoted.txt
+# "grape","guava"
+# "a 1","c-2"
 ```
 
 :::
@@ -900,16 +935,17 @@ awk ##### add your solution here
 
 For the input file <FontIcon icon="iconfont icon-file"/>`varying_fields.txt`, construct a solution to get the output shown below. Solution shouldn't use substitution functions.
 
+```sh
+cat varying_fields.txt
+# hi,bye,there,was,here,to
+# 1,2,3,4,5
+```
 
 ::: tabs 
 
 @tab:active Question
 
 ```sh
-cat varying_fields.txt
-# hi,bye,there,was,here,to
-# 1,2,3,4,5
-
 awk ##### add your solution here
 # hi,bye,to
 # 1,2,5
@@ -918,6 +954,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F, -v OFS=, '{$3=$NF; NF=3} 1' varying_fields.txt
+# hi,bye,to
+# 1,2,5
 ```
 
 :::
@@ -926,18 +965,19 @@ awk ##### add your solution here
 
 Transform the given input file <FontIcon icon="iconfont icon-file"/>`fw.txt` to get the output as shown below. If a field is empty (_i.e._ contains only space characters), replace it with NA.
 
-
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat fw.txt
 # 1.3  rs   90  0.134563
 # 3.8           6
 # 5.2  ye       8.2387
 # 4.2  kt   32  45.1
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # 1.3,rs,0.134563
 # 3.8,NA,6
@@ -948,6 +988,11 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -v FIELDWIDTHS='3 2:2 3:2 2:*' -v OFS=, '$2=="  "{$2="NA"} {print $1, $2, $4}' fw.txt
+1.3,rs,0.134563
+3.8,NA,6
+5.2,ye,8.2387
+4.2,kt,45.1
 ```
 
 :::
@@ -969,7 +1014,13 @@ printf 'restore\ncat one\ncricket' | awk ##### add your solution here
 
 @tab Answer
 
+> can also use: `awk '{print substr($0, 3, 1) substr($0, 5, 1)}'`
+
 ```sh
+printf 'restore\ncat one\ncricket' | awk -F '' -v OFS= '{print $3, $5}'
+# so
+# to
+# ik
 ```
 
 :::
@@ -978,11 +1029,6 @@ printf 'restore\ncat one\ncricket' | awk ##### add your solution here
 
 The <FontIcon icon="iconfont icon-file"/>`fields.txt` file has fields separated by the `:` character. Delete `:` and the last field if there is a digit character anywhere before the last field. Solution shouldn't use substitution functions.
 
-
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat fields.txt
 # 42:cat
@@ -990,7 +1036,13 @@ cat fields.txt
 # we:be:he:0:a:b:bother
 # apple:banana-42:cherry:
 # dragon:unicorn:centaur
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # 42
 # twelve:a2b
@@ -1002,6 +1054,12 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F: -v OFS=: '/[0-9].*:/{NF--} 1' fields.txt
+# 42
+# twelve:a2b
+# we:be:he:0:a:b
+# apple:banana-42:cherry
+# dragon:unicorn:centaur
 ```
 
 :::
@@ -1009,7 +1067,6 @@ awk ##### add your solution here
 ### Exercise 10
 
 Retain only the first three fields for the given sample string that uses `^` as the input field separator. Use `,` as the output field separator.
-
 
 ::: tabs 
 
@@ -1023,6 +1080,8 @@ echo 'sit^eat^very^eerie^near' | awk ##### add your solution here
 @tab Answer
 
 ```sh
+echo 'sit^eat^very^eerie^near' | awk -F'^' -v OFS=, '{NF=3} 1'
+# sit,eat,very
 ```
 
 :::
@@ -1044,6 +1103,9 @@ echo "$s" | awk ##### add your solution here
 @tab Answer
 
 ```sh
+s='applecatfigCaT12345cAtbanana'
+echo "$s" | awk -F'cat' -v IGNORECASE=1 '{$(NF+1)=42} 1'
+# apple fig 12345 banana 42
 ```
 
 :::
@@ -1065,13 +1127,16 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F'[aeiou]' 'NF>6' sample.txt
+# No doubt you like it too
+# Much ado about nothing
 ```
 
 :::
 
 ### Exercise 13
 
-The input file <FontIcon icon="iconfont icon-file"/>`concat.txt` has contents of various files preceded by a line starting with `###`. Replace such sequence of characters with an incrementing integer value (starting with `1)` in the format shown below.
+The input file <FontIcon icon="iconfont icon-file"/>`concat.txt` has contents of various files preceded by a line starting with `###`. Replace such sequence of characters with an incrementing integer value (starting with `1`) in the format shown below.
 
 
 ::: tabs 
@@ -1099,6 +1164,21 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '$1=="###"{$1 = ++c ")"} 1' concat.txt
+# 1) addr.txt
+# How are you
+# This game is good
+# Today is sunny
+# 2) broken.txt
+# top
+# 1234567890
+# bottom
+# 3) sample.txt
+# Just do-it
+# Believe it
+# 4) mixed_fs.txt
+# pink blue white yellow
+# car,mat,ball,basket
 ```
 
 :::

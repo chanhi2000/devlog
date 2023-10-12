@@ -724,6 +724,16 @@
     "desc": "A Rust interface for Linux AF_XDP sockets",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "shuttle-hq/shuttle",
+    "desc": "Build & ship backends without writing any infrastructure files.",
+    "officialSite": "https://shuttle.rs",
+    "topics": ["baas", "deployment", "devops", "framework", "paas", "rust", "web", "web-framework"]
+  }, {
+    "repo": "paradedb/paradedb",
+    "desc": "PostgreSQL for Search",
+    "officialSite": "https://paradedb.com",
+    "topics": ["data", "data-engineering", "elasticsearch", "embeddings", "embeddings-similarity", "faceting", "hybrid-search", "llms", "neuralsearch", "opensearch", "pipeline", "postgres", "postgresql", "reranking", "retrieval-augmented-generation", "sparse-vector", "sparse-vectors", "vector-database", "vector-search", "vectors"]
   }
 ]
 

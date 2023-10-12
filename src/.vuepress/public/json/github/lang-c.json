@@ -489,5 +489,10 @@
     "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
     "officialSite": "https://curl.se",
     "topics": ["c", "client", "curl", "ftp", "gopher", "hacktoberfest", "http", "https", "imaps", "ldap", "libcurl", "library", "mqtt", "pop3", "scp", "sftp", "transfer-data", "transferring-data", "user-agent", "websocket"]
+  }, {
+    "repo": "trholding/llama2.c",
+    "desc": "Llama 2 Everywhere (L2E)",
+    "officialSite": "https://github.com/trholding/llama2.c",
+    "topics": ["accelerate", "ape", "armpl", "blas", "blis", "c", "cblas", "clblast", "cosmopolitan", "linux-kernel", "llama2", "llama2c", "llm", "mkl", "multios", "openacc", "openblas", "openmp", "os", "unikernel"]
   }
 ]

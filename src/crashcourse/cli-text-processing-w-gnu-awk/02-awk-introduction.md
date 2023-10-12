@@ -399,6 +399,9 @@ awk #### add your solution here ####
 @tab Answer
 
 ```sh
+awk '/is/' addr.txt
+# This game is good
+# Today is sunn
 ```
 
 :::
@@ -422,6 +425,10 @@ awk ##### add your solution here ####
 @tab Answer
 
 ```sh
+awk '!/y/{print $1}' addr.txt
+# Hello
+# This
+# 12345
 ```
 
 :::
@@ -443,6 +450,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'NF<3' addr.txt
+# Hello World
+# 12345
 ```
 
 :::
@@ -463,6 +473,8 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '$2 ~ /is/' addr.txt
+# Today is sunny
 ```
 
 :::
@@ -488,6 +500,13 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '{sub(/o/, "0")} 1' addr.txt
+# Hell0 World
+# H0w are you
+# This game is g0od
+# T0day is sunny
+# 12345
+# Y0u are funny
 ```
 
 :::
@@ -508,6 +527,8 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'BEGIN{p = 1} {p *= $NF} END{print p}' table.txt
+# -923.16
 ```
 
 :::
@@ -530,7 +551,13 @@ printf 'last\nappend\nstop\ntail\n' | awk ##### add your solution here
 
 @tab Answer
 
+> can also use: `awk '{$0 = $0 "."} 1'`
 ```sh
+printf 'last\nappend\nstop\ntail\n' | awk '{print $0 "."}'
+# last.
+# append.
+# stop.
+# tail.
 ```
 
 :::
@@ -553,6 +580,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '{gsub(/0xA0/, "0x50"); gsub(/0xFF/, "0x7F")} 1' hex.txt
+# start address: 0x50, func1 address: 0x50
+# end address: 0x7F, func2 address: 0xB0
 ```
 
 :::

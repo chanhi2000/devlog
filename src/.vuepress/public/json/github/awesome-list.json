@@ -158,7 +158,7 @@
     "repo": "mouredev/retos-programacion-2023",
     "desc": "Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.",
     "officialSite": "https://retosdeprogramacion.com/semanales2023",
-    "topics": []
+    "topics": ["challenges", "csharp", "dart", "ejercicios", "ejerciciosresueltos", "go", "java", "javascript", "katas", "kotlin", "logica-de-programacion", "php", "python", "retos", "retos-programacion", "rust", "swift", "typescript"]
   }, {
     "repo": "jahidulislamzim/JavaScriptCodingChallenges",
     "desc": "Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.",
