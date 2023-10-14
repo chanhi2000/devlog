@@ -1,5 +1,5 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "private": true,
   "name": "chanhi2000.github.io",
   "description": "Devlog by Chan",
@@ -17,6 +17,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/bundler-webpack": "^2.0.0-beta.67",
     "@vuepress/client": "2.0.0-beta.62",
     "@vuepress/core": "2.0.0-beta.62",
     "@vuepress/plugin-active-header-links": "2.0.0-beta.62",

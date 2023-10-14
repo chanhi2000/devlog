@@ -98,5 +98,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Brendan Gregg
+
+- [Linux Performance](https://www.brendangregg.com/linuxperf.html)
+
+---
 
 <TagLinks />

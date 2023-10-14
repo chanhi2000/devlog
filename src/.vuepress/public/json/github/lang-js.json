@@ -1574,5 +1574,25 @@
     "desc": "📦📝🎨 A api-friendly theme for VuePress.",
     "officialSite": "https://blog.sqrtthree.com/vuepress-theme-api  ",
     "topics": ["api-friendly-theme", "vuepress", "vuepress-theme"]
-  }  
+  }, {
+    "repo": "homanp/superagent",
+    "desc": "🥷 The open framework for building AI Assistants",
+    "officialSite": "https://docs.superagent.sh",
+    "topics": ["agents", "ai", "assistants", "llm", "orchestration", "provisioning"]
+  }, {
+    "repo": "scalar/scalar",
+    "desc": "Beautiful API references from Swagger/OpenAPI files ✨",
+    "officialSite": "https://docs.scalar.com/swagger-editor",
+    "topics": ["api", "docs", "openapi", "reference", "swagger", "vue"]
+  }, {
+    "repo": "porsager/postgres",
+    "desc": "Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare",
+    "officialSite": "",
+    "topics": ["client", "cockroachdb", "database", "deno", "driver", "nodejs", "postgres", "postgresql"]
+  }, {
+    "repo": "d3vr/yt-siphon",
+    "desc": "Firefox add-on to open YouTube videos in open alternative frontends (e.g: Piped)",
+    "officialSite": "",
+    "topics": []
+  }
 ]

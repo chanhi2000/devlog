@@ -190,6 +190,8 @@ s='do'
 @tab Answer
 
 ```sh
+awk -v s="$s" '$0 ~ "\\<" s "\\>"' sample.txt
+# Just do-it
 ```
 
 :::
@@ -217,6 +219,14 @@ s='\&/'
 @tab Answer
 
 ```sh
+s='\&/'
+s="$s" awk 'BEGIN{gsub(/[\\&]/, "\\\\&", ENVIRON["s"])} {gsub(/o/, ENVIRON["s"])} 1' addr.txt
+# Hell\&/ W\&/rld
+# H\&/w are y\&/u
+# This game is g\&/\&/d
+# T\&/day is sunny
+# 12345
+# Y\&/u are funny
 ```
 
 :::

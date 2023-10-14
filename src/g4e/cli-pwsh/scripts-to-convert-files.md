@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: ♻️ Scripts to Convert Files
-description: 🧙‍♂️Powershell > ♻️ Scripts to Convert Files
+title: ♻️Scripts to Convert Files
+description: 🧙‍♂️Powershell > ♻️Scripts to Convert Files
 tags: ["powershell", "windows", "script", "useful-script"]
 ---
 

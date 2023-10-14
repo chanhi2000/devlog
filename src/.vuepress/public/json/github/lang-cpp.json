@@ -741,7 +741,7 @@
     "topics": ["html", "pdf", "pdf-document-processor", "pdf-viewer"]
   }, {
     "repo": "ros-planning/moveit2",
-    "desc": ":robot: MoveIt for ROS 2",
+    "desc": "🤖 MoveIt for ROS 2",
     "officialSite": "https://moveit.ros.org/",
     "topics": []
   }, {
@@ -754,6 +754,11 @@
     "desc": "Message passing based allocator",
     "officialSite": "",
     "topics": ["allocator", "malloc", "memory-allocator"]
+  }, {
+    "repo": "oceanbase/oceanbase",
+    "desc": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
+    "officialSite": "https://open.oceanbase.com",
+    "topics": ["cloud-database", "cloud-native", "cplusplus", "databases", "distributed-computation", "distributed-databases", "distributed-transactions", "hacktoberfest", "htap", "mysql-compatibility", "mysql-database", "oceanbase", "oltp", "paxos", "scaleable"]
   }
 ]
 

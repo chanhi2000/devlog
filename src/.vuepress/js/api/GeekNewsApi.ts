@@ -32,8 +32,8 @@ app.listen(port, () => {
 const PUBLIC_GITHUB_BASEPATH = '/json/github'
 
 const URL_CORS_BYPASS = Setup.URL_CORS_BYPASS
-const URL_PINTEREST_RSS = `${URL_CORS_BYPASS}/https://www.pinterest.at/hofergrafik1936/hofergrafik-portfolio.rss`
-const URL_GEEKNEWS_RSS = `${URL_CORS_BYPASS}/https://news.hada.io/rss/news`
+const URL_PINTEREST_RSS = `${URL_CORS_BYPASS}https://www.pinterest.at/hofergrafik1936/hofergrafik-portfolio.rss`
+const URL_GEEKNEWS_RSS = `${URL_CORS_BYPASS}https://news.hada.io/rss/news`
 
 function fetchGeekNews() {
   if (IS_DEBUG) console.log('fetchGeekNews... ')

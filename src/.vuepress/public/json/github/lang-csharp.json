@@ -244,5 +244,10 @@
     "desc": "NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.",
     "officialSite": "https://github.com/Xuanchenlin/NanUI",
     "topics": ["cef", "cefglue", "chromium", "desktop", "dotnet", "dotnet-core", "formium", "html-window", "nanui", "winforms"]
+  }, {
+    "repo": "Cysharp/UniTask",
+    "desc": "Provides an efficient allocation free async/await integration for Unity.",
+    "officialSite": "",
+    "topics": ["coroutine", "csharp", "task", "thread", "unity"]
   }
 ]

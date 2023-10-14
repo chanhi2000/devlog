@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "margoumix",
+    "name": "margoumix",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb2IhtdBy_EWVtwiN5JFNVjUSAs6nx9VaLAxOIp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UhoJKI_SRUpI_H8zXSDRDACc4zIi5kC39Lh2AQ0SCDKJrv8fmID0d_YZk5TuUAZGlYAbXRjFs6Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BXn8K5NkbFI", "title": "Implémenter la sécurité à base de JWT Javascript web token pour e cas d'une application WebAPI Core" },
+    { "id": "goJrtzALvpo", "title": "Implémentation de ASP.NET Core Identity Security à partir de zéro" }
+  ]
+}

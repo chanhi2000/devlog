@@ -57,6 +57,7 @@ tags: ["c", "llvm"]
 
 - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr)
 - [Default function arguments are the devil](https://quuxplusone.github.io/blog/2020/04/18/default-function-arguments-are-the-devil)
+- [Escape analysis hates copy elision](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis)
 
 ---
 

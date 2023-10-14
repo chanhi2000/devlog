@@ -6,27 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/b9Czyet3FDFsgYNMsiVLnxvF8wRPUFW-Q2GU8JdZJfjK9xDgR1s6lsSLwDzBIOjZwkyPUGiVMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "4EPGGzeu5Ic",
-      "title": "SwiftUI WebKit: How to create a YouTube video App + saving it in CoreData."
-    }, {
-      "id": "2LMLXPOQwtc",
-      "title": "SwiftUI & UIKit: how to implement UIAlert TextField [UIWindowScene] iOS 15 Xcode 13"
-    }, {
-      "id": "aP9CDmIoJGs",
-      "title": "SwiftUI tutorial: how to create the iPhone 11 call screen iOS 14."
-    }, {
-      "id": "0SZvZxTXNdg",
-      "title": "SwiftUI Saving images and data in the CodeData Xcode"
-    }, {
-      "id": "qjh08OJUX_s",
-      "title": "Swift 5.1 Tutorial : How to implement UIAlertController programmatically( No Storyboard ) Xcode 11.3"
-    }, {
-      "id": "RKXlAprvvls",
-      "title": "Swift 5.1 Tutoríal: Passing Json Data  programmatically to the ViewController  Xcode 11.3"
-    }, {
-      "id": "AkDB3yaninM",
-      "title": "SwiftUI Chats App with CoreData + Generate random Image"
-    }
+    { "id": "4EPGGzeu5Ic", "title": "SwiftUI WebKit: How to create a YouTube video App + saving it in CoreData." }, 
+    { "id": "2LMLXPOQwtc", "title": "SwiftUI & UIKit: how to implement UIAlert TextField [UIWindowScene] iOS 15 Xcode 13" }, 
+    { "id": "aP9CDmIoJGs", "title": "SwiftUI tutorial: how to create the iPhone 11 call screen iOS 14." }, 
+    { "id": "0SZvZxTXNdg", "title": "SwiftUI Saving images and data in the CodeData Xcode" }, 
+    { "id": "qjh08OJUX_s", "title": "Swift 5.1 Tutorial : How to implement UIAlertController programmatically( No Storyboard ) Xcode 11.3" }, 
+    { "id": "RKXlAprvvls", "title": "Swift 5.1 Tutoríal: Passing Json Data  programmatically to the ViewController  Xcode 11.3" }, 
+    { "id": "AkDB3yaninM", "title": "SwiftUI Chats App with CoreData + Generate random Image" }
   ]
 }

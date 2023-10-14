@@ -86,9 +86,9 @@
     "topics": []
   }, {
     "repo": "doocs/leetcode",
-    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "desc": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "officialSite": "https://doocs.github.io/leetcode",
-    "topics": []
+    "topics": ["algorithms", "cpp", "csharp", "golang", "java", "javascript", "leetcode", "python3"]
   }, {
     "repo": "vuepress/awesome-vuepress",
     "desc": "🎉 A curated list of awesome things related to VuePress",
@@ -694,5 +694,10 @@
     "desc": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "officialSite": "https://hellogithub.com",
     "topics": ["awesome", "github", "hellogithub", "python"]
+  }, {
+    "repo": "iamcryptoki/snowden-archive",
+    "desc": "💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.",
+    "officialSite": "",
+    "topics": ["edward-snowden", "nsa", "security", "sidtoday", "snowden", "snowden-archive", "surveillance", "whistleblowing"]
   }
 ]

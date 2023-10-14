@@ -389,5 +389,10 @@
     "desc": "Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ",
     "officialSite": "https://microsoft.github.io/autogen",
     "topics": ["agent-based-framework", "agent-oriented-programming", "chat", "chat-application", "chatbot", "chatgpt", "gpt", "gpt-35-turbo", "gpt-4", "llm-agent", "llm-framework", "llm-inference", "llmops"]
+  }, {
+    "repo": "PWhiddy/PokemonRedExperiments",
+    "desc": "Playing Pokemon Red with Reinforcement Learning",
+    "officialSite": "",
+    "topics": []
   }
 ]

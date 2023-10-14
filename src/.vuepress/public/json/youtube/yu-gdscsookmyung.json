@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "gdscsookmyung",
+    "name": "Google Developer Student Club Sookmyung",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZJ-9fieiIrPiJh8jDDtaUzpH0EDjnibOSIVl_E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "uzch3bilTvo", "title": "객체지향과 스프링에 대한 이해" }
+  ]
+}

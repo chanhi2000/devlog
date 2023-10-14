@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 💻 Scripts for the Desktop
-description: 🧙‍♂️Powershell > 💻 Scripts for the Desktop
+title: 💻Scripts for the Desktop
+description: 🧙‍♂️Powershell > 💻Scripts for the Desktop
 tags: ["powershell", "windows", "script", "useful-script"]
 ---
 

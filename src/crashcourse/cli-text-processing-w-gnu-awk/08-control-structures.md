@@ -320,10 +320,6 @@ The [<FontIcon icon="iconfont icon-github"/> exercises](https://github.com/learn
 
 The input file <FontIcon icon="iconfont icon-file"/> `nums.txt` contains a single column of numbers. Change positive numbers to negative and vice versa. Solution should use the sub function and shouldn't explicitly use the if-else control structure or the ternary operator.
 
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat nums.txt
 # 42
@@ -331,7 +327,13 @@ cat nums.txt
 # 10101
 # -3.14
 # -75
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # -42
 # 2
@@ -342,7 +344,15 @@ awk ##### add your solution here
 
 @tab Answer
 
+> same as: `awk '{$0 ~ /^-/ ? sub(/^-/, "") : sub(/^/, "-")} 1' nums.txt`
+
 ```sh
+awk '!sub(/^-/, ""){sub(/^/, "-")} 1' nums.txt
+# -42
+# 2
+# -10101
+# 3.14
+# 75
 ```
 
 :::
@@ -366,6 +376,10 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -v q='"' -v OFS=, '{for(i=1; i<=NF; i++) if($i !~ /[0-9]/) $i = q $i q} 1' table.txt
+# "brown","bread","mat","hair",42
+# "blue","cake","mug","shirt",-7
+# "yellow","banana","window","shoes",3.14
 ```
 
 :::
@@ -392,7 +406,14 @@ awk ##### add your solution here
 
 @tab Answer
 
+> can also use: `awk '{print gensub(/[^ ]*(.)( |$)/, "\\1", "g")}'`
+> can also use: `awk -v OFS= '{for(i=1; i<=NF; i++) $i = substr($i, length($i))} 1'`
+
 ```sh
+awk -v OFS= '{for(i=1; i<=NF; i++) $i = gensub(/.*(.)/, "\\1", 1, $i)} 1' secrets.txt
+# gawk
+# field
+# ice-2
 ```
 
 :::
@@ -428,9 +449,22 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+sed '/are/q' sample.txt will print till the line containing 'are'
+awk '1; /are/{exit}' sample.txt
+# Hello World
+# 
+# Good day
+# How are you
 ```
 
+`sed '/are/Q' sample.txt` is similar to the '`q`' command,
+but the matching line won't be part of the output
+
 ```sh
+awk '/are/{exit} 1' sample.txt
+# Hello World
+# 
+# Good day
 ```
 
 :::
@@ -463,6 +497,16 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F '' -v OFS= '/e/{gsub(/e/, ""); for(i=1; i<NF; i++)
+                  if($i==$(i+1)){ $i = "{" $i; $(i+1) = $(i+1) "}" }
+                  print; next}
+                  /u/{gsub(/[aiou]/, "[&]")} 1' addr.txt
+# H{ll}o World
+# How ar you
+# This gam is g{oo}d
+# T[o]d[a]y [i]s s[u]nny
+# 12345
+# You ar fu{nn}y
 ```
 
 :::
@@ -485,6 +529,19 @@ awk '/you/{print "found you"; exit} END{print "not found"}' addr.txt
 @tab Answer
 
 ```sh
+awk '/you/{print "found you"; exit} END{print "not found"}' addr.txt
+# found you
+# not found
+```
+
+One way to solve such problems is to use a flag as shown below:
+
+```sh
+awk '/you/{print "found you"; f=1; exit} END{if(!f) print "not found"}' addr.txt
+# found you
+
+awk '/you/{print "found you"; f=1; exit} END{if(!f) print "not found"}' table.txt
+# not found
 ```
 
 :::

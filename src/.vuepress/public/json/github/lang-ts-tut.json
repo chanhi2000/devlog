@@ -49,5 +49,10 @@
     "desc": "TypeScript 教程",
     "officialSite": "https://wangdoc.com/typescript",
     "topics": ["tutorial", "typescript"]
+  }, {
+    "repo": "AntonioErdeljac/notion-clone-tutorial",
+    "desc": "",
+    "officialSite": "https://note-taking-app-rose.vercel.app",
+    "topics": []
   }
 ]

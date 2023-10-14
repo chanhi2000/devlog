@@ -375,7 +375,6 @@
 { "channelId": "MorgonautHackintosh", "channelName": "Morgonaut Hack!ntosh", "id": "3xn9CpRjkf4", "title": "How to Fix iMessage FaceTime iCloud on Hackintosh - Step By Step TUTORIAL 2019" },
 { "channelId": "DevonCrawford", "channelName": "Devon Crawford", "id": "SC7lLm6QAb8", "title": "Platform for Scalable Web Apps | How I built my website with Kubernetes" },
 { "channelId": "ElectronicsComputers", "channelName": "Electronics&Computers", "id": "4ZhA0C2YVw0", "title": "2023 Reset Windows 10 Password without Software or Bootable Media using only Command Line" },
-{ "channelId": "galaxies_dev", "channelName": "Simon Grimm", "id": "FXpwVLiKowc", "title": "How to Fix CORS Issues with Native HTTP Calls" },
 { "channelId": "shadsluiter", "channelName": "Programming w/ Professor Sluiter", "id": "utANrHfAh28", "title": "What are EJBs Enterprise Java Beans?" },
 { "channelId": "DigitalFluency", "channelName": "Digital Fluency", "id": "Yf1FfhMetjs", "title": "Fast HTTP Caching With Angular HTTP Observables" },
 { "channelId": "osjin0", "channelName": "SE JIN - IT LAB", "id": "UROB36Jr3Yo", "title": "노하드 시스템 구축 - 무료 노하드 # 6 초보도 쉽게 윈도우 순간복구 이미지 만들기 VHD" },
@@ -395,40 +394,23 @@
 // 2023.10.02
 
 { "channelId": "prof.r4q52", "channelName": "Prof. Roque Gimenez", "id": "8WljWE32IUM", "title": "clase - 2023 09 22 - c# con visual studio... crudo crudo el video" },
-{ "channelId": "callme_donggu", "channelName": "도전남 동구", "id": "RaI8bkIaFGQ", "title": "프론트 독학 29일차 (29/100) | 0923 토요일 저녁 | 프리랜서 개발자 | Code with me (코드윗미)  | 43분 | 자기계발" },
-{ "channelId": "indydevdan", "channelName": "IndyDevDan", "id": "Ma0jPYj9hyc", "title": "The Javascript Ecosystem Killer: Using Bun, to Learn Bun (with AIDER)" },
-{ "channelId": "margoumix", "channelName": "margoumix", "id": "BXn8K5NkbFI", "title": "Implémenter la sécurité à base de JWT Javascript web token pour e cas d'une application WebAPI Core" },
-{ "channelId": "margoumix", "channelName": "margoumix", "id": "goJrtzALvpo", "title": "Implémentation de ASP.NET Core Identity Security à partir de zéro" },
 { "channelId": "1under", "channelName": "1분미만", "id": "PZDY46gziH8", "title": "같은 지역이면 3개월까진 공짜입니다 (최대한 빨리 신청하세요)" },
 { "channelId": "SIKANDARshaik", "channelName": "Sikandar Shaik", "id": "Fect7KZeT4M", "title": "🚀 Supercharge Your CCNA Skills with Mock Labs! 🚀" },
 { "channelId": "creative781", "channelName": "작가의 방", "id": "KH_P3GKtS1k", "title": "[2022 최고의 플러그인] 할 일(Task, To do) 관리를 자동화 해주는 플러그인" },
-{ "channelId": "eo_studio", "channelName": "EO 이오", "id": "831lS9ToozE", "title": "초기 스타트업들의 성장을 엿볼 수 있는 데모데이 | STAGE ZERO" },
 { "channelId": "thewilltejeda", "channelName": "Will Tejeda", "id": "5HSz9EVEstI", "title": "HTMX #5: Electron Killer!?!? Lightweight Cross-Platform Desktop Apps With HTMX, Flask And PyWebView" },
 { "channelId": "conaticus", "channelName": "conaticus", "id": "uKP990_pjJo", "title": "I Built a FAST Package Manager (in Rust)" },
-{ "channelId": "youngcademe", "channelName": "영카데미 ", "id": "YvrJCuz0JJ4", "title": "연봉협상, \"나\"의 가치 재대로 평가하기" },
-{ "channelId": "Reducible", "channelName": "Reducible", "id": "ngCos392W4w", "title": "5 Simple Steps for Solving Any Recursive Problem" },
 { "channelId": "AND_studio", "channelName": "AND (ft.인싸담당자)", "id": "anKPF4CM_BU", "title": "이력서 교육, 훈련, 자격 탭 빠르게 작성할 수 있는 꿀팁 [모르면 후회할 취업꿀팁]" },
 { "channelId": "salimlog", "channelName": "살림로그_살림을 기록하다.", "id": "ozpahMsRHnA", "title": "다이소 추천템 자석 키친타올걸이 120% 활용법" },
-{ "channelId": "mr_mux408", "channelName": "Alex Mux", "id": "8uiZC0l4Ajw", "title": "Learn GO Fast: Full Tutorial" },
 { "channelId": "siegfried-deploy", "channelName": "Siegfried, deploy!", "id": "kPP_TQFPfU8", "title": "HTMX is awesome and here's why" },
-{ "channelId": "TRUTonyBell", "channelName": "Tony Bell", "id": "v-djL7SPw4c", "title": "Full Financial Accounting Course in One Video (10 Hours)" },
 { "channelId": "theurbanpenguin", "channelName": "theurbanpenguin", "id": "0BrPccQRgUw", "title": "Optimizing Your BASH History File the .bash_history file" },
-{ "channelId": "NickNisi", "channelName": "Nick Nisi", "id": "VMJ1eAj5HgI", "title": "How I use Git Worktrees in my developer workflow" },
 { "channelId": "MadhuKraft", "channelName": "Madhu", "id": "ZpZtxfmCfMg", "title": "Host a Website From Your Computer Using Docker & Nginx in 5 Minutes" },
-{ "channelId": "galaxies_dev", "channelName": "Simon Grimm", "id": "FXnnCrfiNGM", "title": "Deliveroo Food Ordering Clone with React Native (Expo Router, Zustand, Reanimated, Google API)" },
 { "channelId": "koreadh", "channelName": "디지털인문학 in Korea", "id": "0zrMo0vJKXg", "title": "[주간DH] [기술] 한국문집총간 XML 파싱 (1)" },
 { "channelId": "user-ku2hz4sq4e", "channelName": "제이오", "id": "M6NVLZx2m5Y", "title": "ESLint 개발 셋팅, 이거 제대로 된건가..?" },
-{ "channelId": "TimGabe", "channelName": "Tim Gabe", "id": "88XxC0_zs74", "title": "6 UI Hacks I Wish I Knew As A Beginner" },
 { "channelId": "devbang", "channelName": "개발자방16", "id": "fOZHRzEVObM", "title": "웹개발 도구 꿀팁 1: 빠르게 웹사이트 배경 섹션 디자인 후 SVG, PNG 다운로드" },
-{ "channelId": "choicopy7779", "channelName": "최카피", "id": "3ok4Zti85dY", "title": "자기소개 웹사이트 만들고 싶은 사람들 참고하면 좋은 영상" },
-{ "channelId": "fiacobelli", "channelName": "Francisco Iacobelli", "id": "IAnrPxvUEf4", "title": "Simple explanation of functions in python" },
 { "channelId": "Boo_ho", "channelName": "부업하는 호박군", "id": "I4DYhrBWY9I", "title": "따라만 하면 만드는 10분도 안 걸리는 홈페이지 제작 방법 (CHAT GPT + 새로운 방법)" },
-{ "channelId": "gdscsookmyung", "channelName": "Google Developer Student Club Sookmyung", "id": "uzch3bilTvo", "title": "객체지향과 스프링에 대한 이해" },
 { "channelId": "around.hub.studio", "channelName": "어라운드 허브 스튜디오 - Around Hub Studio", "id": "SFVWo0Z5Ppo", "title": "테스트 코드 적용하기 (JUnit, TDD)  [ 스프링 부트 (Spring Boot) ]" },
-{ "channelId": "MadrigalGames", "channelName": "Madrigal", "id": "DdMl4E7xQEY", "title": "A proper look at WebGPU for native games" },
 { "channelId": "vimjoyer", "channelName": "Vimjoyer", "id": "z8y_qRUYEWU", "title": "LF + NIX: Simple Setup for Extreme Productivity" },
 { "channelId": "perfectbase", "channelName": "Ravi - Perfect Base", "id": "Acq9UEA2akU", "title": "Uploading Files With Next.js Just Got Way Easier" },
-{ "channelId": "TechTalkAmerica", "channelName": "Tech Talk America", "id": "rc6QHkfNBVc", "title": "Organize Your Documents FAST!!! - Works on Mac, Windows & iPad" },
 
 
 https://www.kdnuggets.com/wp-content/uploads/Machine_Learning_with_ChatGPT_Cheat_Sheet_KDnuggets.png
@@ -598,3 +580,4 @@ https://12factor.net
 https://openintro-ims2.netlify.app
 https://httpie.io
 https://insight.infograb.net/blog/2023/09/15/content-copyright-protection
+https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong

@@ -653,6 +653,13 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -v RS='\\W+' '/[ai][nt]/' jumbled.txt
+# overcoats
+# furrowing
+# wavering
+# joint
+# intuition
+# titanic
 ```
 
 :::
@@ -660,6 +667,11 @@ awk ##### add your solution here
 ### Exercise 2
 
 Emulate `paste -sd`, with `awk`.
+
+```sh
+paste -sd, addr.txt
+# Hello World,How are you,This game is good,Today is sunny,12345,You are funny
+```
 
 ::: tabs
 
@@ -670,9 +682,6 @@ this command joins all input lines with the '`,`' character
 make sure there's no '`,`' at end of the line and that there's a newline character at the end of the line
 
 ```sh
-paste -sd, addr.txt
-# Hello World,How are you,This game is good,Today is sunny,12345,You are funny
-
 awk ##### add your solution here
 # Hello World,How are you,This game is good,Today is sunny,12345,You are funny
 ```
@@ -680,6 +689,8 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -v ORS= 'NR>1{print ","} 1; END{print "\n"}' addr.txt 
+# Hello World,How are you,This game is good,Today is sunny,12345,You are funny
 ```
 
 :::
@@ -692,14 +703,18 @@ if there's only one line in input, again make sure there's no trailing '`,`'
 
 ```sh 
 printf 'fig' | paste -sd,
-fig
+# fig
 printf 'fig' | awk ##### add your solution here
-fig
+# fig
 ```
 
 @tab Answer
 
 ```sh
+printf 'fig' | paste -sd,
+# fig
+printf 'fig' | awk -v ORS= 'NR>1{print ","} 1; END{print "\n"}'
+# fig
 ```
 
 :::
@@ -726,6 +741,14 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F, -v OFS=, '{$(NF+1) = NR==1 ? "GP" : ($2/2 + ($3+$4)/4)} 1' scores.csv
+# Name,Maths,Physics,Chemistry,GP
+# Blue,67,46,99,69.75
+# Lin,78,83,80,79.75
+# Er,56,79,92,70.75
+# Cy,97,98,95,96.75
+# Ort,68,72,66,68.5
+# Ith,100,100,100,100
 ```
 
 :::
@@ -770,6 +793,12 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F'\n' -v RS= 'NF==2 && /do/{print s $0; s="\n"}' sample.txt
+# Just do-it
+# Believe it
+# 
+# Much ado about nothing
+# He he he
 ```
 
 :::
@@ -800,6 +829,16 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'BEGIN{FS="\n"; OFS=". "; RS=""} {$NF=$NF "."; print s $0; s="\n"}' sample.txt
+# Hello World.
+# 
+# Good day. How are you.
+# 
+# Just do-it. Believe it.
+# 
+# Today is sunny. Not a bit funny. No doubt you like it too.
+# 
+# Much ado about nothing. He he he.
 ```
 
 :::
@@ -833,6 +872,12 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'NF=2; NR==2{FS=OFS=","}' mixed_fs.txt
+# rose lily
+# pink blue
+# car,mat
+# green,brown
+# apple,banana
 ```
 
 :::
@@ -854,6 +899,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'NR!=2' table.txt
+# brown bread mat hair 42
+# yellow banana window shoes 3.14
 ```
 
 :::
@@ -875,6 +923,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk '/air|win/{print NR}' table.txt
+# 1
+# 3
 ```
 
 :::
@@ -891,12 +942,13 @@ For the input file <FontIcon icon="iconfont icon-file"/> `table.txt`, calculate 
 ```sh
 awk ##### add your solution here
 # 45.14
-# 
 ```
 
 @tab Answer
 
 ```sh
+awk 'NR!=2{sum += $NF} END{print sum}' table.txt
+# 45.14
 ```
 
 :::
@@ -922,7 +974,16 @@ seq 15 | awk ##### add your solution here
 
 @tab Answer
 
+> can also use: `seq 15 | awk 'BEGIN{a[2]; a[4]} (NR%5) in a'`
+
 ```sh
+seq 15 | awk 'NR%5 == 2 || NR%5 == 4'
+# 2
+# 4
+# 7
+# 9
+# 12
+# 14
 ```
 
 :::
@@ -950,6 +1011,9 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -F '' -v RS='\\W+' -v ORS= '$0 && $1==$NF{$0 = "{" $0 "}"} {print $0 RT}' odd.txt
+# -{oreo}-not:{a} {_a2_} {roar}<=>took%{22}
+# {RoaR} to {wow}-
 ```
 
 :::
@@ -972,6 +1036,10 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk 'FNR==3{print $2}' addr.txt sample.txt copyright.txt
+# game
+# day
+# bla
 ```
 
 :::
@@ -1004,6 +1072,20 @@ awk ##### add your solution here
 @tab Answer
 
 ```sh
+awk -v RS= '{print s $0; s="\n\n"}' ip.txt
+# hello
+# 
+# 
+# world
+# 
+# 
+# apple
+# banana
+# cherry
+# 
+# 
+# tea coffee
+# chocolate
 ```
 
 :::
@@ -1029,6 +1111,13 @@ echo "$s" | awk ##### add your solution here
 @tab Answer
 
 ```sh
+s='applecatfigCaT12345cAtbananaCATguava:caT:mangocat3'
+echo "$s" | awk -v RS='cat' -v IGNORECASE=1 'NR%2==0{print s $0; s="\n"}'
+# fig
+# 
+# banana
+# 
+# :mango
 ```
 
 :::
@@ -1036,7 +1125,6 @@ echo "$s" | awk ##### add your solution here
 ### Exercise 15
 
 Input has the ASCII NUL character as the record separator. Change it to dot and newline characters as shown below.
-
 
 ::: tabs 
 
@@ -1053,6 +1141,11 @@ printf 'apple\npie\0banana\ncherry\0' | awk ##### add your solution here
 @tab Answer
 
 ```sh
+printf 'apple\npie\0banana\ncherry\0' | awk -v RS='\0' -v ORS='.\n' '1'
+# apple
+# pie.
+# banana
+# cherry.
 ```
 
 :::

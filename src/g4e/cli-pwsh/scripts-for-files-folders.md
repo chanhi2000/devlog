@@ -3677,6 +3677,120 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This script publishes the given files and folders to IPFS.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./publish-to-ipfs.ps1 [[-FilePattern] <String>] [[-HashList] <String>] [[-DF_Hashes] <String>] [<CommonParameters>]
+
+-FilePattern <String>
+    Specifies the file pattern
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-HashList <String>
+    Specifies the path to the resulting hash list
+    
+    Required?                    false
+    Position?                    2
+    Default value                IPFS_hashes.txt
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-DF_Hashes <String>
+    Specifies the path to the resulting digital forensic hashes
+    
+    Required?                    false
+    Position?                    3
+    Default value                file_checksums.xml
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./publish-to-ipfs C:\MyFile.txt
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Publishes files & folders to IPFS
+.DESCRIPTION
+	This script publishes the given files and folders to IPFS.
+.PARAMETER FilePattern
+	Specifies the file pattern
+.PARAMETER HashList
+	Specifies the path to the resulting hash list
+.PARAMETER DF_Hashes
+	Specifies the path to the resulting digital forensic hashes
+.EXAMPLE
+	PS> ./publish-to-ipfs C:\MyFile.txt
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$FilePattern = "", [string]$HashList = "IPFS_hashes.txt", [string]$DF_Hashes = "file_checksums.xml")
+
+try {
+	if ($FilePattern -eq "") { $FilePattern = read-host "Enter file(s)/directories to publish" }
+
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "⏳ (1/3) Searching for IPFS executable..." -NoNewline
+	& ipfs --version
+	if ($lastExitCode -ne "0") { throw "Can't execute 'ipfs' - make sure IPFS is installed and available" }
+
+	if (test-path "$FilePattern" -pathType container) {
+		"⏳ (2/3) Publishing folder $FilePattern/..."
+		& ipfs add -r "$FilePattern" > $HashList
+		[int]$Count = 1
+		""
+		"⏳ (3/3) Calculating digital forensics hashes to $DF_HASHES ..."
+		& nice hashdeep -c md5,sha1,sha256 -r -d -l -j 1 "$FilePattern" > $DF_Hashes
+	} else {
+		$FileList = (get-childItem "$FilePattern")
+		foreach ($File in $FileList) {
+			if (test-path "$FilePattern" -pathType container) {
+				"⏳ (2/3) Publishing folder $File/..."
+				& ipfs add -r "$File" >> $HashList
+			} else {
+				"⏳ (3/3) Publishing file $File..."
+				& ipfs add "$File" >> $HashList
+			}
+		}
+		[int]$Count = $FileList.Count
+	}
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ published $Count file(s)/folder(s) to IPFS in $Elapsed sec"
+	"  NOTE: to publish it to IPNS execute: ipfs name publish <HASH>"
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `remove-empty-dirs.ps1`
@@ -3688,6 +3802,92 @@ link: https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-empty-dirs
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
+
+This PowerShell script removes all empty subfolders within a directory tree.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./remove-empty-dirs.ps1 [[-DirTree] <String>] [<CommonParameters>]
+
+-DirTree <String>
+    Specifies the path to the directory tree
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./remove-empty-dirs C:\Temp
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Removes all empty subfolders within a directory tree
+.DESCRIPTION
+	This PowerShell script removes all empty subfolders within a directory tree.
+.PARAMETER DirTree
+	Specifies the path to the directory tree
+.EXAMPLE
+	PS> ./remove-empty-dirs C:\Temp
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$DirTree = "")
+
+try {
+	if ($DirTree -eq "" ) { $DirTree = read-host "Enter the path to the directory tree" }
+
+	$Folders = @()
+	foreach ($Folder in (Get-ChildItem -path  "$DirTree" -Recurse | Where { $_.PSisContainer })) {
+		$Folders += New-Object PSObject -Property @{
+			Object = $Folder
+			Depth = ($Folder.FullName.Split("\")).Count
+		}
+	}
+	$Folders = $Folders | Sort Depth -Descending
+
+	$Deleted = @()
+	foreach ($Folder in $Folders)
+	{
+		if ($Folder.Object.GetFileSystemInfos().Count -eq 0) {
+			$Deleted += New-Object PSObject -Property @{
+				Folder = $Folder.Object.FullName
+				Deleted = (Get-Date -Format "hh:mm:ss tt")
+				Created = $Folder.Object.CreationTime
+				'Last Modified' = $Folder.Object.LastWriteTime
+				Owner = (Get-Acl $Folder.Object.FullName).Owner
+			}
+			Remove-Item -Path $Folder.Object.FullName -Force
+		}
+	}
+	"✔️  Done."
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
 
 ---
 
@@ -3701,6 +3901,107 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script searches and replaces a pattern in the given files by the replacement.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./replace-in-files.ps1 [[-pattern] <String>] [[-replacement] <String>] [[-files] <String>] [<CommonParameters>]
+
+-pattern <String>
+    Specifies the pattern to look for
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-replacement <String>
+    Specifies the replacement
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-files <String>
+    Specifies the file to scan
+    
+    Required?                    false
+    Position?                    3
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./replace-in-files NSA "No Such Agency" C:\Temp\*.txt
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Search and replace a pattern in the given files by the replacement
+.DESCRIPTION
+	This PowerShell script searches and replaces a pattern in the given files by the replacement.
+.PARAMETER pattern
+	Specifies the pattern to look for
+.PARAMETER replacement
+	Specifies the replacement
+.PARAMETER files
+	Specifies the file to scan
+.EXAMPLE
+	PS> ./replace-in-files NSA "No Such Agency" C:\Temp\*.txt
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$pattern = "", [string]$replacement = "", [string]$files = "")
+
+function ReplaceInFile { param([string]$FilePath, [string]$Pattern, [string]$Replacement)
+
+    [System.IO.File]::WriteAllText($FilePath,
+        ([System.IO.File]::ReadAllText($FilePath) -replace $Pattern, $Replacement)
+    )
+}
+
+try {
+	if ($pattern -eq "" ) { $pattern = read-host "Enter search pattern" }
+	if ($replacement -eq "" ) { $replacement = read-host "Enter replacement" }
+	if ($files -eq "" ) { $files = read-host "Enter files" }
+
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	$fileList = (get-childItem -path "$files" -attributes !Directory)
+	foreach($file in $fileList) {
+		ReplaceInFile $file $pattern $replacement
+	}
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"OK, replaced '$pattern' by '$replacement' in $($fileList.Count) files in $Elapsed sec."
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `search-filename.ps1`
@@ -3712,6 +4013,97 @@ link: https://github.com/fleschutz/PowerShell/blob/master/Docs/search-filename.m
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
+
+This PowerShell script serves as a quick Powershell replacement to the search functionality in Windows
+After you pass in a root folder and a search term, the script will list all files and folders matching that phrase.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./search-filename.ps1 [-path] <Object> [-term] <Object> [<CommonParameters>]
+
+-path <Object>
+    Specifies the path
+    
+    Required?                    true
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-term <Object>
+    Specifies the search term
+    
+    Required?                    true
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./search-filename
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Lists all files and folder names matching a search pattern
+.DESCRIPTION
+	This PowerShell script serves as a quick Powershell replacement to the search functionality in Windows
+	After you pass in a root folder and a search term, the script will list all files and folders matching that phrase.
+.PARAMETER path
+	Specifies the path 
+.PARAMETER term
+	Specifies the search term
+.EXAMPLE
+	PS> ./search-filename
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param(
+[Parameter(Mandatory=$true)]
+$path,
+[Parameter(Mandatory=$true)]
+$term
+)
+# Recursive search function
+Write-Host "Results:"
+function Search-Folder($FilePath, $SearchTerm) {
+    # Get children
+    $children = Get-ChildItem -Path $FilePath
+    # For each child, see if it matches the search term, and if it is a folder, search it too.
+    foreach ($child in $children) {
+        $name = $child.Name
+        if ($name -match $SearchTerm) {
+            Write-Host "$FilePath\$name"
+        }
+        $isdir = Test-Path -Path "$FilePath\$name" -PathType Container
+        if ($isdir) {
+            Search-Folder -FilePath "$FilePath\$name" -SearchTerm $SearchTerm
+        }
+    }
+}
+# Call the search function
+Search-Folder -FilePath $path -SearchTerm $term
+exit 0 # success
+```
+
+:::
 
 ---
 
@@ -3725,6 +4117,93 @@ logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
 
+This PowerShell script searches for a pattern in the given files.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./search-files.ps1 [[-pattern] <String>] [[-files] <String>] [<CommonParameters>]
+
+-pattern <String>
+    Specifies the search pattern
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-files <String>
+    Specifies the files
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> ./search-files UFO C:\Temp\*.txt
+
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Searches for a pattern in files
+.DESCRIPTION
+	This PowerShell script searches for a pattern in the given files.
+.PARAMETER pattern
+	Specifies the search pattern
+.PARAMETER files
+	Specifies the files
+.EXAMPLE
+	PS> ./search-files UFO C:\Temp\*.txt
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$pattern = "", [string]$files = "")
+
+function ListLocations { param([string]$Pattern, [string]$Path)
+	$List = Select-String -Path $Path -Pattern "$Pattern" 
+	foreach ($Item in $List) {
+		New-Object PSObject -Property @{
+			'Path' = "$($Item.Path)"
+			'Line' = "$($Item.LineNumber)"
+			'Text' = "$($Item.Line)"
+		}
+	}
+	write-output "(found $($List.Count) locations with pattern '$pattern')"
+}
+
+try {
+	if ($pattern -eq "" ) { $pattern = read-host "Enter search pattern" }
+	if ($files -eq "" ) { $files = read-host "Enter path to files" }
+
+	ListLocations $pattern $files | format-table -property Path,Line,Text
+	exit 0 # success
+} catch {
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `upload-file.ps1`
@@ -3736,6 +4215,146 @@ link: https://github.com/fleschutz/PowerShell/blob/master/Docs/upload-file.md
 logo: https://avatars.githubusercontent.com/u/16557787?v=4
 color: rgba(10, 10, 10, 0.2)
 ```
+
+This PowerShell script uploads a local file to a FTP server.
+
+::: tabs
+
+@tab:active Parameters
+
+```powershell
+PS> ./upload-file.ps1 [[-File] <String>] [[-URL] <String>] [[-Username] <String>] [[-Password] <String>] [<CommonParameters>]
+
+-File <String>
+    Specifies the path to the local file
+    
+    Required?                    false
+    Position?                    1
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-URL <String>
+    Specifies the FTP server URL
+    
+    Required?                    false
+    Position?                    2
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-Username <String>
+    Specifies the user name
+    
+    Required?                    false
+    Position?                    3
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+-Password <String>
+    Specifies the password
+    
+    Required?                    false
+    Position?                    4
+    Default value                
+    Accept pipeline input?       false
+    Accept wildcard characters?  false
+
+[<CommonParameters>]
+    This script supports the common parameters: Verbose, Debug, ErrorAction, ErrorVariable, WarningAction, 
+    WarningVariable, OutBuffer, PipelineVariable, and OutVariable.
+```
+
+@tab Example
+
+```powershell
+PS> .\upload-file.ps1
+# 
+```
+
+@tab Script Content
+
+```powershell
+<#
+.SYNOPSIS
+	Uploads a local file to a FTP server
+.DESCRIPTION
+	This PowerShell script uploads a local file to a FTP server.
+.PARAMETER File
+	Specifies the path to the local file
+.PARAMETER URL
+	Specifies the FTP server URL
+.PARAMETER Username
+	Specifies the user name
+.PARAMETER Password
+	Specifies the password
+.EXAMPLE
+	PS> .\upload-file.ps1
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+	Author: Markus Fleschutz | License: CC0
+#>
+
+param([string]$File = "", [string]$URL = "", [string]$Username = "", [string]$Password = "")
+
+try {
+	if ($File -eq "") { $File = read-host "Enter local file to upload" }
+	if ($URL -eq "") { $URL = read-host "Enter URL of FTP server" }
+	if ($Username -eq "") { $Username = read-host "Enter username for login" }
+	if ($Password -eq "") { $Password = read-host "Enter password for login" }
+	[bool]$EnableSSL = $true
+	[bool]$UseBinary = $true
+	[bool]$UsePassive = $true
+	[bool]$KeepAlive = $true
+	[bool]$IgnoreCert = $true
+
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	# check local file:
+	$FullPath = Resolve-Path "$File"
+	if (-not(test-path "$FullPath" -pathType leaf)) { throw "Can't access file: $FullPath" }
+	$Filename = (Get-Item $FullPath).Name
+	$FileSize = (Get-Item $FullPath).Length
+	"⏳ Uploading 📄$Filename ($FileSize bytes) to $URL ..."
+
+	# prepare request:
+	$Request = [Net.WebRequest]::Create("$URL/$Filename")
+	$Request.Credentials = New-Object System.Net.NetworkCredential("$Username", "$Password")
+	$Request.Method = [System.Net.WebRequestMethods+Ftp]::UploadFile 
+	$Request.EnableSSL = $EnableSSL
+	$Request.UseBinary = $UseBinary
+	$Request.UsePassive = $UsePassive
+	$Request.KeepAlive = $KeepAlive
+	[System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$IgnoreCert}
+
+	$fileStream = [System.IO.File]::OpenRead("$FullPath")
+	$ftpStream = $Request.GetRequestStream()
+
+	$Buf = New-Object Byte[] 32KB
+	while (($DataRead = $fileStream.Read($Buf, 0, $Buf.Length)) -gt 0)
+	{
+	    $ftpStream.Write($Buf, 0, $DataRead)
+	    $pct = ($fileStream.Position / $fileStream.Length)
+	    Write-Progress -Activity "Uploading" -Status ("{0:P0} complete:" -f $pct) -PercentComplete ($pct * 100)
+	}
+
+	# cleanup:
+	$ftpStream.Dispose()
+	$fileStream.Dispose()
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"✔️ uploaded 📄$Filename to $URL in $Elapsed sec"
+	exit 0 # success
+} catch {
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0]) after $Elapsed sec."
+	exit 1
+}
+```
+
+:::
 
 ---
 

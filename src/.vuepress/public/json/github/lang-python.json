@@ -2923,5 +2923,35 @@
     "desc": "Open-source observability for your LLM application, based on OpenTelemetry",
     "officialSite": "https://traceloop.com/docs/python-sdk/introduction",
     "topics": ["datascience", "llmops", "metrics", "ml", "model-monitoring", "monitoring", "observability", "open-telemetry", "opentelemetry"]
+  }, {
+    "repo": "bcdannyboy/CVE-2023-44487",
+    "desc": "Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "THUDM/CogVLM",
+    "desc": "a state-of-the-art-level open visual language model",
+    "officialSite": "",
+    "topics": ["cross-modality", "language-model", "multi-modal", "pretrained-models", "visual-language-models"]
+  }, {
+    "repo": "stas00/ml-engineering",
+    "desc": "Machine Learning Engineering Guides and Tools",
+    "officialSite": "https://stasosphere.com/machine-learning/",
+    "topics": ["bash", "large-language-models", "llm", "machine-learning", "make", "python", "pytorch", "scalability", "slurm", "transformers"]
+  }, {
+    "repo": "dmunozv04/iSponsorBlockTV",
+    "desc": "SponsorBlock client for Apple TV and (soon) for all YouTube TV clients.",
+    "officialSite": "",
+    "topics": ["appletv", "python", "sponsorblock", "youtube"]
+  }, {
+    "repo": "spdustin/ChatGPT-AutoExpert",
+    "desc": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "facebookresearch/nevergrad",
+    "desc": "A Python toolbox for performing gradient-free optimization",
+    "officialSite": "https://facebookresearch.github.io/nevergrad",
+    "topics": []
   }
 ]

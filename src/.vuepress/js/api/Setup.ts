@@ -9,7 +9,7 @@ const BASEURL_PRD2 = 'https://raw.githubusercontent.com/chanhi2000/devlog/main/s
 
 const BASEURL = !IS_DEBUG ? BASEURL_PRD : BASEURL_DEV
 
-const URL_CORS_BYPASS = 'https://cors-anywhere.herokuapp.com'
+const URL_CORS_BYPASS = IS_DEBUG ? 'https://cors-anywhere.herokuapp.com/' : ''
 axios.defaults.baseURL = BASEURL
 
 const Setup = {

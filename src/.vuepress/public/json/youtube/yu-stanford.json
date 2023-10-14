@@ -6,9 +6,6 @@
     "banner": "https://yt3.googleusercontent.com/zr9LGmV5cyuXDQC6qLV73zGn8GQmyHjSaJ5aU2X0TCj7dvnqWmtg87tFON33pEOxf97xGjgp=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "4GjXq2Sr55Q",
-      "title": "Lecture 2: MVVM and the Swift Type System"
-    }
+    { "id": "4GjXq2Sr55Q", "title": "Lecture 2: MVVM and the Swift Type System" }
   ]
 }

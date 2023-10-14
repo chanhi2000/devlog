@@ -884,5 +884,20 @@
     "desc": "Simple and opinionated OpenID Connect server designed for self-hosters",
     "officialSite": "",
     "topics": ["oidc", "oidc-server", "openid"]
+  }, {
+    "repo": "moby/moby",
+    "desc": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "officialSite": "https://mobyproject.org/",
+    "topics": ["containers", "docker", "go", "golang"]
+  }, {
+    "repo": "kubernetes/autoscaler",
+    "desc": "Autoscaling components for Kubernetes",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "kubernetes/dashboard",
+    "desc": "General-purpose web UI for Kubernetes clusters",
+    "officialSite": "",
+    "topics": []
   }
 ]

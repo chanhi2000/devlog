@@ -734,6 +734,11 @@
     "desc": "PostgreSQL for Search",
     "officialSite": "https://paradedb.com",
     "topics": ["data", "data-engineering", "elasticsearch", "embeddings", "embeddings-similarity", "faceting", "hybrid-search", "llms", "neuralsearch", "opensearch", "pipeline", "postgres", "postgresql", "reranking", "retrieval-augmented-generation", "sparse-vector", "sparse-vectors", "vector-database", "vector-search", "vectors"]
+  }, {
+    "repo": "denoland/deno",
+    "desc": "A modern runtime for JavaScript and TypeScript.",
+    "officialSite": "https://deno.land",
+    "topics": ["deno", "javascript", "rust", "typescript"]
   }
 ]
 

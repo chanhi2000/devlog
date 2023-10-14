@@ -196,6 +196,18 @@ cat copyright.txt.orig
 @tab Answer
 
 ```sh
+awk -i inplace -v inplace::suffix='.orig' '{sub(/copyright: 2018/, "copyright: 2020")} 1' copyright.txt
+
+cat copyright.txt
+# bla bla 2015 bla
+# blah 2018 blah
+# bla bla bla
+# copyright: 2020
+cat copyright.txt.orig
+# bla bla 2015 bla
+# blah 2018 blah
+# bla bla bla
+# copyright: 2018
 ```
 
 :::
@@ -235,6 +247,13 @@ cat nums2.txt
 @tab Answer
 
 ```sh
+awk -i inplace 'FNR==2 || FNR==3' nums1.txt nums2.txt
+cat nums1.txt
+# 4201
+# 777
+cat nums2.txt
+# -2
+# 54316.12
 ```
 
 :::

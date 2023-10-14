@@ -595,6 +595,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## 冴羽的JavaScript博客
+
+- [https://segmentfault.com/a/1190000041416203/en](https://segmentfault.com/a/1190000041416203/en)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

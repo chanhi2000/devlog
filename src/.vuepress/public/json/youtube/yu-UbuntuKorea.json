@@ -2,12 +2,10 @@
   "channel": {
     "id": "UbuntuKorea",
     "name": "Ubuntu Korea",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNOK92EEx2JptE3EBykPNreE_PeBWtrIu99ZONB8Q=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNOK92EEx2JptE3EBykPNreE_PeBWtrIu99ZONB8Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oBKitBOpMQemzMxyKrLAu_DWU1PYDtlQVN_vKYXCOwnzm2mGOy2dBbz9gfFUQqTEM4dCpTyXfg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "N1quwAHXO3Q",
-      "title": "시*로지 부럽지 않은 윈도우 PC로 NAS 만들기 - 강동호 | 2023년도 정기총회"
-    }
+    { "id": "N1quwAHXO3Q", "title": "시*로지 부럽지 않은 윈도우 PC로 NAS 만들기 - 강동호 | 2023년도 정기총회" }
   ]
 }
