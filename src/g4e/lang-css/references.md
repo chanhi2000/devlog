@@ -165,6 +165,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
  
 ---
 
+## Chris Coyier
+
+- [Being Picky about a CSS Reset for Fun & Pleasure](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure)
+
+---
+
 ## Tobias Ahlin 
 
 - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales)

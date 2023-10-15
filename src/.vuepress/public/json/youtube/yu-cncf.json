@@ -58,18 +58,18 @@
     {
       "title": "gRPConf 2023",
       "videos": [
-        { "id": "qR7F_cscqIA", "title": "Keynote: gRPC Opening Keynote - Abhishek Kumar, Google &amp; Arunkumar Jayaraman, Google" },
+        { "id": "qR7F_cscqIA", "title": "Keynote: gRPC Opening Keynote - Abhishek Kumar, Google & Arunkumar Jayaraman, Google" },
         { "id": "vWXODwU--Zw", "title": "Keynote: Looking at the Past to Understand our Future - Jorge Castro, CNCF" },
         { "id": "VuORYD8vRes", "title": "Keynote: Overview of gRPC - Ivy Zhuang, Software Engineer, Google" },
         { "id": "NTf_2bzD7xM", "title": "How Netflix Makes gRPC Easy to Serve, Consume, and Operate - Benjamin Fedorka, Netflix" },
-        { "id": "gZvXAj7WZu8", "title": "Deep Diving Into gRPC Security: A Case Study on API Security... - Dana White &amp; Austin Pearigen" },
-        { "id": "ZbuzwsA_iOc", "title": "Introducing Protobuf Editions - Matt Kulukundis &amp; Mike Kruskal, Google" },
+        { "id": "gZvXAj7WZu8", "title": "Deep Diving Into gRPC Security: A Case Study on API Security... - Dana White & Austin Pearigen" },
+        { "id": "ZbuzwsA_iOc", "title": "Introducing Protobuf Editions - Matt Kulukundis & Mike Kruskal, Google" },
         { "id": "35xfIwrd1RA", "title": "The Security Evolution of gRPC Services in the Mesh - Amim Knabben, VMware" },
         { "id": "SyKQ902ispY", "title": "gRPC Meets Jakarta EE - Ron Sigal, Red Hat" },
-        { "id": "HGY5PqsJDms", "title": "Our Journey Connecting Millions of Containers with gRPC... - Antoine Tollenaere &amp; Sergey Matyukevich" },
+        { "id": "HGY5PqsJDms", "title": "Our Journey Connecting Millions of Containers with gRPC... - Antoine Tollenaere & Sergey Matyukevich" },
         { "id": "BakC-RjiaFg", "title": "What's New in gRPC? - Gina Yeh, Google" },
         { "id": "qKxo25_CQro", "title": "Load Testing gRPC Services in Node.js - Kenny Nguyen, gRPSeek" },
-        { "id": "wrGl-5TXCqM", "title": "What's New in gRPC Security for 2023: Audit Logging and CRL - Andrey Ermolov &amp; Gregory Cooke, Google" },
+        { "id": "wrGl-5TXCqM", "title": "What's New in gRPC Security for 2023: Audit Logging and CRL - Andrey Ermolov & Gregory Cooke, Google" },
         { "id": "NgLEXxk2vL0", "title": "Building and Testing a gRPC API from Scratch: Unleash the Potential with Postman - W. Ian Douglas" },
         { "id": "xQQT8YUvWg8", "title": "Integrating gRPC with the Homa Transport Protocol - John Ousterhout, Stanford University" }
       ]

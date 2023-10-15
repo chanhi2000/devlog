@@ -57,7 +57,7 @@ export default defineUserConfig({
     __YOUTUBE_API_KEY__: process.env.YOUTUBE_API_KEY,
     __IS_DEBUG__: process.env.IS_DEBUG ?? false,
   },
-  title: 'Devlog by Chan',
+  title: 'chanhi2000\'s devlog',
   description: description,
   head: [['link', { rel: 'icon', href: imgLogoPath }]],
   /**

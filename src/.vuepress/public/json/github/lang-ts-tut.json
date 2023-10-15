@@ -54,5 +54,10 @@
     "desc": "",
     "officialSite": "https://note-taking-app-rose.vercel.app",
     "topics": []
+  }, {
+    "repo": "ton-community/tact-challenge",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

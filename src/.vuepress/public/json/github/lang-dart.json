@@ -49,5 +49,10 @@
     "desc": "Home of the Shorebird Tools 🐦",
     "officialSite": "https://shorebird.dev",
     "topics": []
+  }, {
+    "repo": "Sangwan5688/BlackHole",
+    "desc": "A Music Player App made with Flutter",
+    "officialSite": "",
+    "topics": ["android-music-player", "flutter", "flutter-app", "flutter-apps", "flutter-music-player", "fluttermusicapp", "hacktoberfest", "music-app", "music-application", "music-player", "music-player-application", "offline-songs"]
   }
 ]

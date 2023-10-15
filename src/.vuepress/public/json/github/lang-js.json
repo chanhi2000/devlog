@@ -1594,5 +1594,10 @@
     "desc": "Firefox add-on to open YouTube videos in open alternative frontends (e.g: Piped)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "theatre-js/theatre",
+    "desc": "Motion design editor for the web",
+    "officialSite": "https://www.theatrejs.com",
+    "topics": ["animation", "devtools", "generative-art", "motion-design", "r3f", "threejs"]
   }
 ]

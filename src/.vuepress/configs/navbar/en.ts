@@ -121,7 +121,24 @@ export const navbarEn: NavbarConfig = [
     ],
   }, {
     text: '📖', // g42
-    link: '/g4e/README.md',
+    children: [
+      {
+        text: '🌱API - Kakao',
+        link: '/g4e/api-kakao/README.md',
+      }, {
+        text: '🐚Shell',
+        link: '/g4e/cli-shell/README.md',
+      }, {
+        text: '🧢Batchfile (Windows)',
+        link: '/g4e/cli-batchfile/README.md',
+      }, {
+        text: '🧙‍♂️Powershell',
+        link: '/g4e/cli-pwsh/README.md',
+      }, {
+        text: '🗡Vim',
+        link: '/g4e/cli-vim/README.md',
+      }
+    ]
   }, {
     text: '🌐', // explore
     link: '/explore/README.md',

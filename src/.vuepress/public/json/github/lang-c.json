@@ -494,5 +494,10 @@
     "desc": "Llama 2 Everywhere (L2E)",
     "officialSite": "https://github.com/trholding/llama2.c",
     "topics": ["accelerate", "ape", "armpl", "blas", "blis", "c", "cblas", "clblast", "cosmopolitan", "linux-kernel", "llama2", "llama2c", "llm", "mkl", "multios", "openacc", "openblas", "openmp", "os", "unikernel"]
+  }, {
+    "repo": "omnigres/omnigres",
+    "desc": "Postgres as a Platform",
+    "officialSite": "",
+    "topics": []
   }
 ]

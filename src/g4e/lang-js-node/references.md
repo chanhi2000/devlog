@@ -169,6 +169,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Node.js 20.6.0: Say Goodbye to '`dotenv`'](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 - [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
 - [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
+- [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 
 ---
 
@@ -337,7 +338,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
-## 
+## Cloudfour 
+
+- [Stop Lazy Loading Product and Hero Images](https://cloudfour.com/thinks/stop-lazy-loading-product-and-hero-images)
+
+---
+
 ## TwoPi Code
 
 - [This is Why We Stopped Using React Native](https://www.twopicode.com/articles/this-is-why-we-stopped-using-react-native)
@@ -374,6 +380,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Lazy Loading In JavaScript](https://blog.openreplay.com/lazy-loading-in-javascript)
 - [Authentication In Next.Js With Clerk](https://blog.openreplay.com/authentication-in-next-js-with-clerk)
 - [Optimize Vue With Web Workers](https://blog.openreplay.com/optimize-vue-with-web-workers)
+- [Website Heat Maps—A Detailed Guide](https://blog.openreplay.com/website-heat-maps)
 
 ---
 
@@ -574,6 +581,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Blob Games
 
 - [Draggable objects](https://www.redblobgames.com/making-of/draggable)
+
+---
+
+## vitonsky
+
+- [Refusing TypeScript is a signal that you don't care about code quality](https://vitonsky.net/blog/2023/09/08/typescript-and-code-quality)
 
 ---
 

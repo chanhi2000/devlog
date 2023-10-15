@@ -972,6 +972,15 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk -F, 'NR==1{PROCINFO["sorted_in"] = "@ind_num_desc"; print; next}
+        {a[$3]=$0} END{for(k in a) print a[k]}' scores.csv
+# Name,Maths,Physics,Chemistry
+# Ith,100,100,100
+# Cy,97,98,95
+# Lin,78,83,80
+# Er,56,79,92
+# Ort,68,72,66
+# Blue,67,46,99
 ```
 
 :::
@@ -980,17 +989,19 @@ awk ##### add your solution here
 
 For the input file <FontIcon icon="iconfont icon-file"/> `nums3.txt`, calculate the square root of numbers and display the results in two different formats as shown below. First, with four digits after the fractional point and then in the scientific notation, again with four digits after the fractional point. Assume that the input has only a single column of positive numbers.
 
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat nums3.txt 
 # 3.14
 # 4201
 # 777
 # 0323012
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # 1.7720
 # 64.8151
@@ -1007,6 +1018,17 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk '{printf "%.4f\n", sqrt($0)}' nums3.txt
+# 1.7720
+# 64.8151
+# 27.8747
+# 568.3414
+
+awk '{printf "%.4e\n", sqrt($0)}' nums3.txt
+# 1.7720e+00
+# 6.4815e+01
+# 2.7875e+01
+# 5.6834e+02
 ```
 
 :::
@@ -1015,16 +1037,18 @@ awk ##### add your solution here
 
 For the input file `items.txt`, assume space as the field separator. From the second field, remove the second `:` character and the number that follows. Modify the last field by multiplying it by the number that was deleted from the second field.
 
-::: tabs 
-
-@tab:active Question
-
 ```sh
 cat items.txt
 # apple rxg:12:-425 og 6.2
 # fig zwt:3.64:12.89e2 ljg 5
 # banana ysl:42:3.14 vle 45
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # apple rxg:12 og -2635
 # fig zwt:3.64 ljg 6445
@@ -1034,6 +1058,10 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk '{split($2, a, /:/); $2=a[1] ":" a[2]; $NF *= a[3]} 1' items.txt
+# apple rxg:12 og -2635
+# fig zwt:3.64 ljg 6445
+# banana ysl:42 vle 141.3
 ```
 
 :::
@@ -1042,17 +1070,18 @@ awk ##### add your solution here
 
 For the input file `sum.txt`, assume space as the field separator. Replace the second field with the sum of the two numbers embedded in it. The numbers can be positive/negative integers or floating-point numbers but not scientific notation.
 
+```sh
+cat sum.txt
+# f2:z3 kt//-42\\3.14//tw 5y6
+# t5:x7 qr;wq<=>+10{-8764.124}yb u9
+# apple:fig 100:32 9j4
+```
 
 ::: tabs 
 
 @tab:active Question
 
 ```sh
-cat sum.txt
-# f2:z3 kt//-42\\3.14//tw 5y6
-# t5:x7 qr;wq<=>+10{-8764.124}yb u9
-# apple:fig 100:32 9j4
-
 awk ##### add your solution here
 # f2:z3 -38.86 5y6
 # t5:x7 -8754.12 u9
@@ -1062,6 +1091,10 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk '{patsplit($2, a, /-?[0-9]+(\.[0-9]+)?/); $2=a[1] + a[2]} 1' sum.txt
+# f2:z3 -38.86 5y6
+# t5:x7 -8754.12 u9
+# apple:fig 132 9j4
 ```
 
 :::
@@ -1080,9 +1113,7 @@ echo '3*f + (a^b) - 45' | ##### add your solution here
 # (a^b) - 45
 
 s='\&/'
-# should be no output for this input
 echo 'f\&z\&2.14' | ##### add your solution here
-# but this one has a match
 echo 'f\&z\&/2.14' | ##### add your solution here
 # \&/2.14
 ```
@@ -1090,6 +1121,14 @@ echo 'f\&z\&/2.14' | ##### add your solution here
 @tab Solution
 
 ```sh
+s='(a^b)'
+echo '3*f + (a^b) - 45' | s="$s" awk 'n=index($0, ENVIRON["s"]){print substr($0, n)}'
+# (a^b) - 45
+
+s='\&/'
+echo 'f\&z\&2.14' | s="$s" awk 'n=index($0, ENVIRON["s"]){print substr($0, n)}' # should be no output for this input
+echo 'f\&z\&/2.14' | s="$s" awk 'n=index($0, ENVIRON["s"]){print substr($0, n)}' # but this one has a match
+# \&/2.14
 ```
 
 :::
@@ -1112,7 +1151,14 @@ echo "$s" | awk ##### add your solution here
 
 @tab Solution
 
+> can also use: `awk -v RS='-[0-9]+[;:]' 'RT{print substr(RT, 2, length(RT)-2)}'`
+
 ```sh
+echo "$s" | awk '{ while( match($0, /-([0-9]+)[;:]/, m) ){print m[1];
+                $0=substr($0, RSTART+RLENGTH)} }'
+# 5
+# 20
+# 34
 ```
 
 :::
@@ -1141,6 +1187,16 @@ cat pass.csv
 @tab Solution
 
 ```sh
+awk -F, 'NR>1{t = ($2+$3+$4)/3; op = sprintf("%s\t%.2f", $1, t);
+         if(+t>=80) print op > "pass.csv"; else print op > "fail.csv"}' scores.csv
+cat fail.csv
+# Blue    70.67
+# Er      75.67
+# Ort     68.67
+cat pass.csv
+# Lin     80.33
+# Cy      96.67
+# Ith     100.00
 ```
 
 :::
@@ -1148,11 +1204,6 @@ cat pass.csv
 ### Exercise 8
 
 For the input file <FontIcon icon="iconfont icon-file"/> `files.txt`, replace lines starting with a space with the output of that line executed as a shell command.
-
-
-::: tabs 
-
-@tab:active Question
 
 ```sh
 cat files.txt
@@ -1162,7 +1213,13 @@ cat files.txt
 # ===========
 #  awk '{print $1}' table.txt
 # -----------
+```
 
+::: tabs 
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # How are you
 # -----------
@@ -1177,6 +1234,15 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk '/^ /{system($0); next} 1' files.txt
+# How are you
+# -----------
+# 31 sample.txt
+# ===========
+# brown
+# blue
+# yellow
+# -----------
 ```
 
 :::
@@ -1200,6 +1266,11 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk -v FIELDWIDTHS='14 *' '{printf "%s%.2e\n", $1, $2}' fw.txt
+# 1.3  rs   90  1.35e-01
+# 3.8           6.00e+00
+# 5.2  ye       8.24e+00
+# 4.2  kt   32  4.51e+01
 ```
 
 :::
@@ -1227,7 +1298,13 @@ awk ##### add your solution here
 
 @tab Solution
 
+> can also use: `awk '(/e/ && !/u/) || (!/e/ && /u/)'`
+
 ```sh
+awk 'xor(/e/, /u/)' addr.txt
+# Hello World
+# This game is good
+# Today is sunny
 ```
 
 :::
@@ -1248,6 +1325,8 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk 'index($0, "[5]")==1' patterns.txt
+# [5]*3
 ```
 
 :::
@@ -1270,6 +1349,10 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk '{$3 = toupper($3)} 1' table.txt
+# brown bread MAT hair 42
+# blue cake MUG shirt -7
+# yellow banana WINDOW shoes 3.14
 ```
 
 :::
@@ -1297,6 +1380,14 @@ s='\\'
 @tab Solution
 
 ```sh
+s='[5]'
+s="$s" awk 'index($0, ENVIRON["s"])' patterns.txt sum.txt
+# (9-2)*[5]
+# [5]*3
+
+s='\\'
+s="$s" awk 'index($0, ENVIRON["s"])' patterns.txt sum.txt
+# f2:z3 kt//-42\\3.14//tw 5y6
 ```
 
 :::

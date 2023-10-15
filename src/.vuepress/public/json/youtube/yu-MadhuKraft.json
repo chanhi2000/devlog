@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MadhuKraft",
+    "name": "Madhu",
+    "profile": "https://yt3.googleusercontent.com/UpJ5EsRXzNg-81FCtCgcKG4oQ3azesVYDTBPezO3ETrynCTV_DqF-OYDBIWlHRl58IIcZlWO=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8ip7KH_WBCkXLu93D0rUTSRsnTLq_dTzwrekuzwDe45luOwa56-wjgrNYYzWBOjNyKVBiTol_Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZpZtxfmCfMg", "title": "Host a Website From Your Computer Using Docker & Nginx in 5 Minutes" }
+  ]
+}

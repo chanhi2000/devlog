@@ -115,5 +115,10 @@
     "desc": "Open-source Android/Desktop remake of Civ V",
     "officialSite": "",
     "topics": ["4x", "4x-strategy-game", "android", "civ", "civilization", "civilization-v", "game", "itch", "libgdx", "strategy-game"]
-  }  
+  }, {
+    "repo": "elizarov/CoroutinesWorkshop",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }
 ]

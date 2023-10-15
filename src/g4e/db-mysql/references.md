@@ -31,6 +31,12 @@ tags: ["sql", "db", "mysql", "shell", "stricky"]
 
 --- 
 
+## SQLShack
+
+- [MySQL substring uses with examples](https://www.sqlshack.com/mysql-substring-uses-with-examples)
+
+---
+
 ## 거북탄 토끼
 
 - [MySQL8.0 desc Index 사용사례](https://qidan3500.tistory.com/1)

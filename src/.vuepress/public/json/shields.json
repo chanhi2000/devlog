@@ -27,6 +27,7 @@
   { "logo": "cssmodules", "name": "CSS%20Modules", "colorHex": "000000" },
   { "logo": "curl", "name": "curl", "colorHex": "073551" },
   { "logo": "dart", "name": "Dart", "colorHex": "0175C2" },
+  { "logo": "django", "name": "Djanog", "colorHex": "#092E20" },
   { "logo": "docker", "name": "Docker", "colorHex": "2496ED" },
   { "logo": "dotnet", "name": ".Net%20Core", "colorHex": "512BD4" },
   { "logo": "eclipseide", "name": "Eclipse", "colorHex": "2C2255" },

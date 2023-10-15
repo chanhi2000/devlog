@@ -104,5 +104,10 @@
     "desc": "An inky color scheme for prose and code.",
     "officialSite": "https://stephango.com/flexoki",
     "topics": ["color-scheme"]
+  }, {
+    "repo": "mfussenegger/nvim-lint",
+    "desc": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "officialSite": "",
+    "topics": ["hacktoberfest", "linter", "neovim", "neovim-plugin", "syntax-checker"]
   }
 ]

@@ -598,6 +598,15 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-postgres/references.md',
       ]
     }, {
+      text: '🤠Django',
+      collapsible: true,
+      children: [
+        '/g4e/db-django/README.md',
+        '/g4e/db-django/query.md',
+        '/g4e/db-django/github.md',
+        '/g4e/db-django/references.md',        
+      ]
+    }, {
       text: '🪳Cockroach',
       collapsible: true,
       children: [

@@ -759,6 +759,21 @@
     "desc": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
     "officialSite": "https://open.oceanbase.com",
     "topics": ["cloud-database", "cloud-native", "cplusplus", "databases", "distributed-computation", "distributed-databases", "distributed-transactions", "hacktoberfest", "htap", "mysql-compatibility", "mysql-database", "oceanbase", "oltp", "paxos", "scaleable"]
+  }, {
+    "repo": "MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "officialSite": "https://matsuridayo.github.io",
+    "topics": ["linux", "proxy", "qt", "shadowsocks", "sing-box", "trojan", "v2ray", "vless", "vmess", "windows"]
+  }, {
+    "repo": "yuzu-emu/yuzu",
+    "desc": "Nintendo Switch emulator",
+    "officialSite": "https://yuzu-emu.org",
+    "topics": ["c-plus-plus", "cpp", "emulation", "emulator", "switch"]
+  }, {
+    "repo": "OpenEarable/open-earable",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

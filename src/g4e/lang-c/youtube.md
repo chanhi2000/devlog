@@ -113,6 +113,14 @@ tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "progra
 
 ---
 
+## 길벗 IT 전문서(업로드 중단, 구계정)
+
+<MyYouTubeItems jsonName="yu-IT-es6jl" />
+
+<!-- 길벗 IT 전문서(업로드 중단, 구계정) -->
+
+---
+
 ## CppNow
 
 <MyYouTubeItems jsonName="yu-BoostCon" />

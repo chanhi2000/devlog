@@ -259,6 +259,20 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk 'BEGINFILE{print ">" FILENAME "<"} {print $NF} FNR==2{print "----------";
+     nextfile}' table.txt FS=, scores.csv FIELDWIDTHS='14 *' fw.txt
+# >table.txt<
+# 42
+# -7
+# ----------
+# >scores.csv<
+# Chemistry
+# 99
+# ----------
+# >fw.txt<
+# 0.134563
+# 6
+# ----------
 ```
 
 :::
@@ -280,6 +294,10 @@ awk ##### add your solution here sample.txt secrets.txt addr.txt table.txt
 @tab Solution
 
 ```sh
+awk '$3 ~ /fun|at/{print FILENAME; nextfile}' sample.txt secrets.txt addr.txt table.txt
+# secrets.txt
+# addr.txt
+# table.txt
 ```
 
 :::

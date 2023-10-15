@@ -85,6 +85,12 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 
 > [📎link](/crashcourse/paul-hudson-swiftui-by-example/README.md)
 
+
+#### C5. Notion 관련 API 도입 방법 확인
+
+- [Connect your tools to Notion with the API](https://www.notion.so/help/guides/connect-tools-to-notion-api)
+- [Working with databases](https://developers.notion.com/docs/working-with-databases)
+
 #### C10. oVirt (`/g4e/devops-ovirt`) 관련 내용 정리
 
 > [📎link](/g4e/devops-ovirt/README.md)

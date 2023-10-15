@@ -1,7 +1,6 @@
 ---
 home: true
 heroImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
-tagline: Welcome my fellow programmers!
 actions:
   - text: 📖G4E
     link: /g4e/
@@ -63,13 +62,9 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
     <h2>🗞️</h2>
     <ul>
       <!-- <li><a target="_blank" href="https://lemmy.world">🐀Lemmy.World</a></li> -->
-      <li><a target="_blank" href="https://news.hada.io">🤓GeekNews</a></li>
       <li><a target="_blank" href="https://remoteok.com">🌐Remote OK</a></li>
-      <li><a target="_blank" href="https://newsgpt.web.app">📮NewsGPT</a></li>
       <li><a target="_blank" href="https://fossfox.com">💼FossFox : work in open-source & get paid for it</a></li>
       <li><a target="_blank" href="https://datatau.net">DataTau</a></li>
-      <li><a target="_blank" href="https://blog.bytebytego.com">ByteByteGo</a></li>
-      <li><a target="_blank" href="https://insight.infograb.net/blog">InfoGrab - 블로그</a></li>
       <li><a target="_blank" href="https://zsync.xyz">ZSync</a></li>
       <li><a target="_blank" href="https://hiddentools-eight.vercel.app">HiddenTools</a></li>
       <li><a target="_blank" href="https://devtoolstips.org">🧰DevTools Tips</a></li>
@@ -82,6 +77,38 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
     </ul>
   </div>
 </div>
+
+```card
+title: GeekNews
+desc: 개발/기술/스타트업 뉴스 서비스
+link: https://news.hada.io
+logo: https://news.hada.io/logo.png
+color: rgba(56, 59, 64, 0.2)
+```
+
+```card
+title: 머니플뉴스
+desc: AI가 대신 읽어주는 뉴스
+link: https://newsgpt.web.app
+logo: https://newsgpt.web.app/logo192.png
+color: rgba(46, 46, 46, 0.2)
+```
+
+```card
+title: ByteByteGo
+desc: ByteByteGo Newsletter
+link: https://blog.bytebytego.com
+logo: https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png
+color: rgba(140, 234, 216, 0.2)
+```
+
+```card
+title: 🦊인포그랩
+desc: GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
+link: https://insight.infograb.net/blog
+logo: https://insight.infograb.net/img/logo-color.svg
+color: rgba(23, 149, 106, 0.2)
+```
 
 <ShieldsGroup 
   logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"

@@ -2945,13 +2945,33 @@
     "topics": ["appletv", "python", "sponsorblock", "youtube"]
   }, {
     "repo": "spdustin/ChatGPT-AutoExpert",
-    "desc": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). ",
+    "desc": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).",
     "officialSite": "",
     "topics": []
   }, {
     "repo": "facebookresearch/nevergrad",
     "desc": "A Python toolbox for performing gradient-free optimization",
     "officialSite": "https://facebookresearch.github.io/nevergrad",
+    "topics": []
+  }, {
+    "repo": "mindsdb/mindsdb",
+    "desc": "MindsDB connects AI models to datasources.",
+    "officialSite": "https://mindsdb.com",
+    "topics": ["ai", "ai-agents", "artificial-intelligence", "auto-gpt", "chatbot", "database", "forecasting", "gpt", "gpt4all", "hacktoberfest", "huggingface", "langchain", "llm", "machine-learning", "ml", "mongodb", "mysql", "postgres", "semantic-search", "timeseries"]
+  }, {
+    "repo": "pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "officialSite": "https://pi-hole.net",
+    "topics": ["ad-blocker", "blocker", "cloud", "dashboard", "dhcp", "dhcp-server", "dns-server", "dnsmasq", "pi-hole", "raspberry-pi", "shell"]
+  }, {
+    "repo": "jtesta/ssh-audit",
+    "desc": "SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)",
+    "officialSite": "",
+    "topics": ["auditing", "security", "ssh"]
+  }, {
+    "repo": "facebookresearch/xformers",
+    "desc": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
+    "officialSite": "https://facebookresearch.github.io/xformers/",
     "topics": []
   }
 ]

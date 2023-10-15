@@ -4,5 +4,10 @@
     "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "officialSite": "https://vx-underground.org",
     "topics": ["malware", "malware-detection", "malware-development", "malware-research"]
+  }, {
+    "repo": "skiselev/8088_bios",
+    "desc": "BIOS for Intel 8088 based computers",
+    "officialSite": "",
+    "topics": []
   }
 ]

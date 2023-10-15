@@ -280,4 +280,12 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 
 <!-- 오늘도 개발중 -->
 
+## 보안프로젝트[boanproject]
+
+<MyYouTubeItems jsonName="yu-boanproject" />
+
+<!-- 보안프로젝트[boanproject] -->
+
+---
+
 <TagLinks />

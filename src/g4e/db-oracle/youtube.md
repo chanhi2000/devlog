@@ -44,5 +44,13 @@ tags: ["sql", "db", "mysql", "shell"]
 <!-- ORACLE-BASE.com -->
 
 ---
+    
+## SeoulitOnLineCourse TV
+
+<MyYouTubeItems jsonName="yu-seoulit" />
+
+<!-- SeoulitOnLineCourse TV -->
+
+---
 
 <TagLinks />

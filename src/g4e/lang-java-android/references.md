@@ -51,6 +51,7 @@ tags: ["references", "android"]
 - [Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
 - [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
 - [Run your Appium tests using Docker Android & Genymotion Cloud](https://medium.com/genymobile/run-your-appium-tests-using-docker-android-genymotion-cloud-e4817132ccd8)
+- [How Enums Can Impact the Performance of Android Apps](https://betterprogramming.pub/android-how-enums-can-impact-the-performance-f787ef5903dd)
 
 ---
 

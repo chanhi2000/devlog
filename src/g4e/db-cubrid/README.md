@@ -20,7 +20,4 @@ logo: https://dbdb.io/static/core/images/dbdb_io-180x180.png
 color: rgba(38, 75, 99, 0.2)
 ```
 
---- 
-
-
-
+---

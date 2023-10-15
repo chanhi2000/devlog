@@ -117,6 +117,10 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## Snyk
+
+- [How to update cURL](https://snyk.io/blog/how-to-update-curl)
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

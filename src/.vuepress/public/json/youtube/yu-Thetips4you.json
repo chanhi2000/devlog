@@ -122,7 +122,7 @@
         { "id": "pnycjg_9M-o", "title": "Promtail Loki Grafana Using Docker Compose | Grafana Loki Demo" },
         { "id": "xiV4MhL8bOQ", "title": "How To Setup Influxdb Telegraf And Grafana | Telegraf Influxdb Grafana Tutorial" },
         { "id": "GnWZsHjM5To", "title": "How to Setup a Grafana Dashboard Step-by-Step Using GoogleSheet as Datasource" },
-        { "id": "dk2-_DbWb80", "title": "Setup Prometheus &amp; Grafana Monitoring On Kubernetes Using Helm" }
+        { "id": "dk2-_DbWb80", "title": "Setup Prometheus & Grafana Monitoring On Kubernetes Using Helm" }
       ]
     }, {
       "title": "DevOps",
