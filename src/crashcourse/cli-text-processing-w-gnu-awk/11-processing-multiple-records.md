@@ -656,6 +656,9 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk 'p2 ~ /you/ && p1=="" && /do/; {p2=p1; p1=$0}' sample.txt
+# Just do-it
+# Much ado about nothing
 ```
 
 :::
@@ -677,6 +680,9 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk -v IGNORECASE=1 '/do/ && ++d == 2; /not/ && ++n == 2' sample.txt
+# No doubt you like it too
+# Much ado about nothing
 ```
 
 :::
@@ -713,6 +719,26 @@ awk -v n=2 ##### add your solution here
 @tab Solution
 
 ```sh
+awk -v n=1 '/are|bit/{for(i=NR-n; i<NR; i++) if(i>0) print a[i]; c=n+1}
+            c && c--; {a[NR]=$0}' sample.txt
+# Good day
+# How are you
+# 
+# Today is sunny
+# Not a bit funny
+# No doubt you like it too
+
+awk -v n=2 '/are|bit/{for(i=NR-n; i<NR; i++) if(i>0) print a[i]; c=n+1}
+            c && c--; {a[NR]=$0}' sample.txt
+
+# Good day
+# How are you
+# 
+# Just do-it
+# 
+# Today is sunny
+# Not a bit funny
+# No doubt you like it too
 ```
 
 :::
@@ -721,9 +747,6 @@ awk -v n=2 ##### add your solution here
 
 For the input file <FontIcon icon="iconfont icon-file"/> `broken.txt`, print all lines between the markers `top` and `bottom`. The first `awk` command shown below doesn't work because it is matching till the end of file as the second marker isn't found. Assume that the input file cannot have two `top` markers without a `bottom` marker appearing in between and vice-versa.
 
-::: tabs
-
-@tab:active Question
 
 ```sh
 cat broken.txt
@@ -738,7 +761,13 @@ cat broken.txt
 # Hi there
 # Have a nice day
 # Good bye
+```
 
+::: tabs
+
+@tab:active Question
+
+```sh
 # wrong output
 awk '/bottom/{f=0} f; /top/{f=1}' broken.txt
 # 3.14
@@ -756,6 +785,17 @@ awk '/bottom/{f=0} f; /top/{f=1}' broken.txt
 @tab Solution
 
 ```sh
+awk '/bottom/{f=0} f; /top/{f=1}' broken.txt
+# 3.14
+# 1234567890
+# Hi there
+# Have a nice day
+# Good bye
+
+# expected output
+tac broken.txt | awk '/top/{f=0} f; /bottom/{f=1}' | tac
+# 3.14
+# 1234567890
 ```
 
 :::
@@ -763,10 +803,6 @@ awk '/bottom/{f=0} f; /top/{f=1}' broken.txt
 ### Exercise 5
 
 For the input file <FontIcon icon="iconfont icon-file"/> `concat.txt`, extract contents from a line starting with `###` until but not including the next such line. The block to be extracted is indicated by the variable `n` passed via the `-v` option.
-
-::: tabs
-
-@tab:active Question
 
 ```sh
 cat concat.txt
@@ -784,15 +820,21 @@ cat concat.txt
 ### mixed_fs.txt
 # pink blue white yellow
 # car,mat,ball,basket
+```
 
+::: tabs
+
+@tab:active Question
+
+```sh
 awk -v n=2 ##### add your solution here
-### broken.txt
+#### broken.txt
 # top
 # 1234567890
 # bottom
 
 awk -v n=4 ##### add your solution here
-### mixed_fs.txt
+#### mixed_fs.txt
 # pink blue white yellow
 # car,mat,ball,basket
 ```
@@ -800,6 +842,16 @@ awk -v n=4 ##### add your solution here
 @tab Solution
 
 ```sh
+awk -v n=2 '/^### /{c++} c==n' concat.txt
+#### broken.txt
+# top
+# 1234567890
+# bottom
+
+awk -v n=4 '/^### /{c++} c==n' concat.txt
+#### mixed_fs.txt
+# pink blue white yellow
+# car,mat,ball,basket
 ```
 
 :::
@@ -821,6 +873,9 @@ diff -sq out.md expected.md
 @tab Solution
 
 ```sh
+awk -v IGNORECASE=1 '/```ruby/{f=1} !f{gsub(/ruby/, "Ruby")} /```$/{f=0} 1' ruby.md > out.md
+diff -sq out.md expected.md 
+# Files out.md and expected.md are identical
 ```
 
 :::
@@ -828,10 +883,6 @@ diff -sq out.md expected.md
 ### Exercise 7
 
 For the input file <FontIcon icon="iconfont icon-file"/> `lines.txt`, delete the line that comes after a whole line containing `---`. Assume that such lines won't occur consecutively.
-
-::: tabs
-
-@tab:active Question
 
 ```sh
 cat lines.txt
@@ -844,7 +895,13 @@ cat lines.txt
 # ---
 # 2 Apples
 # COME ON
+```
 
+::: tabs
+
+@tab:active Question
+
+```sh
 awk ##### add your solution here
 # Go There
 # come on
@@ -857,7 +914,17 @@ awk ##### add your solution here
 
 @tab Solution
 
+> can also use: `awk '!(n && n--); $0=="---"{n=1}' lines.txt`
+
 ```sh
+awk 'p!="---"; {p=$0}' lines.txt
+# Go There
+# come on
+# go there
+# ---
+# come on!
+# ---
+# COME ON
 ```
 
 :::
@@ -892,6 +959,21 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk -F, 'NR>1 && p!=$1{print "---"} 1; {p=$1}' result.csv
+# Amy,maths,89
+# Amy,physics,75
+# ---
+# Joe,maths,79
+# ---
+# John,chemistry,77
+# John,physics,91
+# ---
+# Moe,maths,81
+# ---
+# Ravi,physics,84
+# Ravi,chemistry,70
+# ---
+# Yui,maths,92
 ```
 
 :::

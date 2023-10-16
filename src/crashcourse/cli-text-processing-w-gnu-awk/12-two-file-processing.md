@@ -386,7 +386,7 @@ cat match_words.txt
 
 @tab:active Question
 
-'concession' is one of the third words from  <FontIcon icon="iconfont icon-file"/>'`match_words.txt`' and second word from  <FontIcon icon="iconfont icon-file"/> '`jumbled.txt`'
+'concession' is one of the third words from <FontIcon icon="iconfont icon-file"/>'`match_words.txt`' and second word from <FontIcon icon="iconfont icon-file"/> '`jumbled.txt`'
 
 ```sh
 awk ##### add your solution here
@@ -396,7 +396,12 @@ awk ##### add your solution here
 
 @tab Solution
 
+'concession' is one of the third words from <FontIcon icon="iconfont icon-file"/>'`match_words.txt`' and second word from <FontIcon icon="iconfont icon-file"/> '`jumbled.txt`'
+
 ```sh
+awk -v FPAT='\\w+' 'NR==FNR{a[$3]; next} $2 in a' match_words.txt jumbled.txt sample.txt
+# wavering:concession/woof\retailer
+# No doubt you like it too
 ```
 
 :::
@@ -425,6 +430,16 @@ awk -v f='table.txt' ##### add your solution here
 @tab Solution
 
 ```sh
+awk -v f='table.txt' '{print; getline < f; print; print "---"}' secrets.txt
+# stag area row tick
+# brown bread mat hair 42
+# ---
+# deaf chi rate tall glad
+# blue cake mug shirt -7
+# ---
+# Bi tac toe - 42
+# yellow banana window shoes 3.14
+# ---
 ```
 
 :::
@@ -462,6 +477,20 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk -v IGNORECASE=1 'NR==FNR{s[$0]; next} {for(k in s) if($0 ~ k) a[k]}
+                     ENDFILE{for(k in a) s[k]++; delete a}
+                     END{for(k in s) if(s[k]==(ARGC-2)) print k}
+                    ' search_terms.txt jumbled.txt mixed_fs.txt secrets.txt table.txt
+# at
+# row
+
+awk -v IGNORECASE=1 'NR==FNR{s[$0]; next} {for(k in s) if($0 ~ k) a[k]}
+                     ENDFILE{for(k in a) s[k]++; delete a}
+                     END{for(k in s) if(s[k]==(ARGC-2)) print k}
+                    ' search_terms.txt addr.txt sample.txt
+# is
+# you
+# hello
 ```
 
 :::
@@ -491,6 +520,10 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk -F, 'NR==FNR{a[$1]; next} $1 in a{$1=$1; print}' names.txt scores.csv
+# Lin 78 83 80
+# Cy 97 98 95
+# Ith 100 100 100
 ```
 
 :::
@@ -514,7 +547,7 @@ cat result.csv
 # Ravi,physics,84
 # Ravi,chemistry,70
 # Yui,maths,92
-# 
+
 cat criteria.txt
 # Amy maths
 # John chemistry
@@ -537,6 +570,10 @@ awk ##### add your solution here
 @tab Solution
 
 ```sh
+awk 'NR==FNR{a[$1,$2]; next} ($1,$2) in a && $3 > 80' criteria.txt FS=, result.csv
+# Amy,maths,89
+# John,physics,91
+# Yui,maths,92
 ```
 
 :::

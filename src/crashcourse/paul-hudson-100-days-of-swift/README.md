@@ -180,7 +180,7 @@ The next three projects we’ll be making move into the realm of richer user int
 - ✅[Day 54][day-54] – Project 13, part three
 - ✅[Day 55][day-55] – Project 14, part one
 - ✅[Day 56][day-56] – Project 14, part two
-- [Day 57][day-57] – Project 15, part one
+- ✅[Day 57][day-57] – Project 15, part one
 - [Day 58][day-58] – Project 15, part two
  
 ### Day 59: Consolidation VI
@@ -346,7 +346,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-54]: 54.md
 [day-55]: 55.md
 [day-56]: 56.md
-[day-57]: https://www.hackingwithswift.com/100/57
+[day-57]: 57.md
 [day-58]: https://www.hackingwithswift.com/100/58
 [day-59]: https://www.hackingwithswift.com/100/59
 [day-60]: https://www.hackingwithswift.com/100/60

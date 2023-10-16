@@ -188,6 +188,14 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 <!-- Action Retro -->
 
 ---
+
+## Morgonaut Hack!ntosh
+
+<MyYouTubeItems jsonName="yu-MorgonautHackintosh" />
+
+<!-- Morgonaut Hack!ntosh -->
+
+---
 ## Misc
 
 ---

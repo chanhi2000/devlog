@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "bgsreview",
+    "name": "방구석 리뷰룸",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa7toYQJrVRO15Mp7N0y6k5IRkz18YRgxyRUPj0QQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/56JMcUthF9rkxwN0cjJsCyG7-BNQd3OKL9QIvq3rxVZysatFGqjGpDsYl7vimH09pf8lKtMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PYj2sM5MKNg", "title": "윈도우, 맥 유저 모두 구입없이 무료로 한글 HWP 사용하는 법" },
+    { "id": "Fbn9AwzSDrs", "title": "천재시네! 아이폰 단축어 고수의 놀라운 활용! 필요한 기능은 직접 만드는 고급 테크닉 전수" }
+  ]
+}

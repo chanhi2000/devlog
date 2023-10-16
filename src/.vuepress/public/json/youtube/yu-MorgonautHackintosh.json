@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "MorgonautHackintosh",
+    "name": "Morgonaut Hack!ntosh",
+    "profile": "https://yt3.googleusercontent.com/G_7bT16jJn-BbVWAyiysdeNS7XfePRivwrN1GLYCgCNh1U7QKQvsAk7cMSqtXmqt5XNoXsdE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/htHtmqO3jlg5T2hR_dz7Qv5LeityC8UQkJtoTKcJhdpq-gbrRBQcQCO1xfZSFEKLr6bghunA7g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9d4gI6_yyY8", "title": "How to Fix Hackintosh WiFi in just 2 minutes" },
+    { "id": "3xn9CpRjkf4", "title": "How to Fix iMessage FaceTime iCloud on Hackintosh - Step By Step TUTORIAL 2019" }
+  ]
+}

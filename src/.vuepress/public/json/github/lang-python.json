@@ -2973,5 +2973,15 @@
     "desc": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
     "officialSite": "https://facebookresearch.github.io/xformers/",
     "topics": []
+  }, {
+    "repo": "Cloud-Architects/cloudiscovery",
+    "desc": "The tool to help you discover resources in the cloud environment",
+    "officialSite": "",
+    "topics": ["aws", "aws-cli", "aws-iot", "aws-monitoring", "aws-services", "devops-tools", "diagrams", "iam-policy", "iot", "python", "vpc"]
+  }, {
+    "repo": "gitpitch/gitpitch",
+    "desc": "Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.",
+    "officialSite": "https://gitpitch.github.io/gitpitch",
+    "topics": ["git", "markdown", "presentation", "presentations", "slideshows"]
   }
 ]

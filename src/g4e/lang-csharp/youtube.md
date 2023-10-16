@@ -261,7 +261,6 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
-
 ## Prof. Roque Gimenez
 
 <MyYouTubeItems jsonName="yu-prof.r4q52" />

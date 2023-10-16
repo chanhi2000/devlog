@@ -288,4 +288,20 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 
 ---
 
+## 부업하는 호박군
+
+<MyYouTubeItems jsonName="yu-Boo_ho" />
+
+<!-- 부업하는 호박군 -->
+
+---
+
+## Tina Huang
+
+<MyYouTubeItems jsonName="yu-TinaHuang1" />
+
+<!-- Tina Huang -->
+
+---
+
 <TagLinks />

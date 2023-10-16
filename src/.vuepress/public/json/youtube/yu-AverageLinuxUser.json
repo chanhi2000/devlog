@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "AverageLinuxUser",
+    "name": "Average Linux User",
+    "profile": "https://yt3.googleusercontent.com/WNCJOLrzF8mWbsdM9dPRFVIrzbTWcExCNZpDv8mxpdOMaaUsF5cCzyENuFL9-IMHYYbPL2Joh84=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gWoWbEZmS9iixMzp7EJDOOG2FQbddYb7bE5wvIb3MUK5mpiswQFcW1VgJKp58t22dB_SvwQeJzo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sVkr8KCwNtc", "title": "Garuda Linux - distro I have always dreamed of" },
+    { "id": "osVZZnTDqKk", "title": "BitNinja Server Security - Tests and Review" },
+    { "id": "K0WJRApcKCA", "title": "The best Static Website commenting systems" }
+  ]
+}

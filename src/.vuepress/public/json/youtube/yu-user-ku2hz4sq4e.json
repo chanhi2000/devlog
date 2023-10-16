@@ -1,11 +1,12 @@
 {
   "channel": {
     "id": "user-ku2hz4sq4e",
-    "name": "발버둥",
-    "profile": "https://yt3.googleusercontent.com/3MnDOoFvX37rBf_WEIw3_0e5PVlC4NVZD5uWn5RttMAuB4thCOf2_BfCgZUfkuEH92Og7HN4=s176-c-k-c0x00ffffff-no-rj",
+    "name": "제이오",
+    "profile": "https://yt3.googleusercontent.com/74IwKArpsvPvV_cB1hN5L4ofLkdSbJiiKj4BlS_ZWS9SsFbLwXMh1RsSlI17XmN-6Z8RS5CTwg=s176-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
+    { "id": "M6NVLZx2m5Y", "title": "ESLint 개발 셋팅, 이거 제대로 된건가..?" },
     { "id": "v4qP9Akx47I", "title": "[Project Deploy] 프로젝트 배포, Docker를 사용하는 이유" }
   ]
 }

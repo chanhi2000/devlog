@@ -71,7 +71,6 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://keyframes.app">more tools for devs</a></li>
       <li><a target="_blank" href="https://alistapart.com">a list apart</a></li>
       <li><a target="_blank" href="https://app.eraser.io">♟️The Whiteboard for Engineering Teams</a></li>
-      <li><a target="_blank" href="https://diagrams.mingrammer.com">Diagrams- Diagram as Code</a></li>
       <li><a target="_blank" href="https://gpte.ai">Discover the latest tools and trends in AI 🔮</a></li>
       <li><a target="_blank" href="https://www.jsongenerator.io">JSON Generator</a></li>
     </ul>
@@ -110,6 +109,22 @@ logo: https://insight.infograb.net/img/logo-color.svg
 color: rgba(23, 149, 106, 0.2)
 ```
 
+```card
+title: Hidden Tools
+desc: ✨ Discover a wide collection of unique tools.
+link: https://hiddentools-eight.vercel.app
+logo: https://hiddentools-eight.vercel.app/favicon.ico
+color: rgba(10, 10, 10, 0.2)
+```
+
+```card
+title: Diagrams - Diagram as Code
+desc: Draw the cloud system architecture in Python code
+link: https://diagrams.mingrammer.com
+logo: https://diagrams.mingrammer.com/img/diagrams.ico
+color: rgba(94, 115, 229, 0.2)
+```
+
 <ShieldsGroup 
   logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"
 />
@@ -120,4 +135,79 @@ color: rgba(23, 149, 106, 0.2)
 <DevGithubItems />
 <DevHackerNewsItems />
 <!-- <DataTauItems /> -->
-<ZSyncItems />
+<!-- <ZSyncItems /> -->
+
+```mermaid
+mindmap
+  root((Fullstack DevOps))
+    iOS
+      B1(Swift)
+      B2(XCode)
+      B3(CocoaPods)
+    Android
+      C1(Java)
+      C2(Kotlin)
+      C3(Intellij Idea)
+      C4(Android Studio)
+      C5(Gradle)
+      C6(SQLite)
+    Spring
+      D1(Java)
+      D2(Kotlin)
+      D3(Intellij Idea)
+      D4(Gradle)
+      D5(Apache Maven)
+      D6(Spring Security)
+      D7(Spring Boot)
+      D8(Swagger)
+    Node.js
+      G1(npm)
+      G2(yarn)
+      G3(React.js)
+      G4(Vue.js)
+      G5(Express.js)
+      G6(GraphQL)
+    WAS / WEB
+      E1(Apache Tomcat)
+      E2(JBoss Wildfly)
+      E3(Apache Web Server)
+      E4(TmaxSoft Jeus)
+      E5(TmaxSoft WebtoB)
+    DBMS
+      F1(DBeaver)
+      F2(Oracle)
+      F3(MySQL)
+      F4(MariaDB)
+      F5(SQLite)
+      F6(PostgreSQL)
+      F7(Tibero)
+    OS
+      H1(Windows)
+      H2(MacOS)
+      H3(Ubuntu)
+      H4(CentOS)
+      H5(Red Hat Enterprise)
+      H6(Alpine Linux)
+    CI / CD
+      I1(Jenkins)
+      I2(Github)
+        I2a(Github Action)
+        I2b(.github)
+      I3(Gitlab)
+        I3a(Gitlab Runner)
+        I3b(.gitlab)
+      I4(Gitea)
+      I5(Verdaccio)
+      I6(Sonatype Nexus)
+      I7(Markdown)
+    Virtualization
+      J1(Docker)
+      J2(Kubernetes)
+      J3(Openshift)
+      J4(Ovirt)
+    API
+      K1(Firebase)
+      K2(Kakao)
+      K3(NCloud)
+      K4(Notion)
+```

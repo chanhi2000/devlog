@@ -298,5 +298,13 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 
 ---
 
+## Average Linux User
+
+<MyYouTubeItems jsonName="yu-AverageLinuxUser" />
+
+<!-- Average Linux User -->
+
+---
+
 
 <TagLinks />

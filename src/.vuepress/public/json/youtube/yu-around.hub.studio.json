@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "around.hub.studio",
+    "name": "어라운드 허브 스튜디오 - Around Hub Studio",
+    "profile": "https://yt3.googleusercontent.com/k2aSShvexjdN4oUKtgMZ_dioYuR8k-595X38VmTSD_SpGzz4GRxZ-yKMU0Q10PBr4FChAo6-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pz7L60DZW8X1KubFhuKe7a_fxNPXAOfsDn1KZ4VK9jETvenZ2OKW_J8L7UGheEZsyqo9682IjfI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SFVWo0Z5Ppo", "title": "테스트 코드 적용하기 (JUnit, TDD)  [ 스프링 부트 (Spring Boot) ]" }
+  ]
+}

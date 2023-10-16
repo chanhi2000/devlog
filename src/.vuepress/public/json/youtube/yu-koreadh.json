@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "koreadh",
+    "name": "디지털인문학 in Korea",
+    "profile": "https://yt3.googleusercontent.com/V7Tv6xgcD1Oxf6UmCfRstUybV4PwVze3gv41-b6r56sSg-LMJs3trIclQcxNSDjRDJigNWCy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XRC2_WZnrZ2KY9aBkb9IZwzb2JaIQdEF9RO63c8n_2UQtbZdzMy7FUkhGL6HkqPndVBjGVeViQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0zrMo0vJKXg", "title": "[주간DH] [기술] 한국문집총간 XML 파싱 (1)" }
+  ]
+}

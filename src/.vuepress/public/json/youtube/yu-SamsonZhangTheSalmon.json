@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SamsonZhangTheSalmon",
+    "name": "Samson Zhang",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbQnHVy7F5OSWPCCTCOuerD3ZFut3SE0Et4ykkvjbM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ewz7a_y1VcUfhSvyB5Umlb4QZmncKQ_tyrIG-g-Mste8fway75ALejMQdk8hCwRpt1nDtBAS-Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "w8yWXqWQYmU", "title": "Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)" }
+  ]
+}

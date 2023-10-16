@@ -899,5 +899,10 @@
     "desc": "General-purpose web UI for Kubernetes clusters",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "blushft/go-diagrams",
+    "desc": "Create beautiful system diagrams with Go",
+    "officialSite": "",
+    "topics": []
   }
 ]

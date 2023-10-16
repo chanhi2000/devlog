@@ -180,7 +180,6 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 <MyYouTubeItems jsonName="yu--sql2949" />
 
 <!-- 디노자유아빠 - SQL쿼리, 엑셀, 데이터 분석 -->
-
 ---
 
 ## Coding Is Fun
@@ -204,6 +203,14 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 <MyYouTubeItems jsonName="yu-CFI_Official" />
 
 <!-- Corporate Finance Institute -->
+
+---
+
+## Excel For Freelancers
+
+<MyYouTubeItems jsonName="yu-ExcelForFreelancers" />
+
+<!-- Excel For Freelancers -->
 
 ---
 
