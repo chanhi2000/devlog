@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6DK6jx2lYd0", "title": "RPA PM이 얘기하는 RPA 고도화 체크포인트  [토크아이티 구해줘DX, 파워젠]" },
+    { "id": "Dg4mOl1CzWE", "title": "AI, DX시대, 차세대 ERP의 본질은? 개발 프랙티스 변화, 오퍼레이션 데이터 자동화 [토크아이티 구해줘 DX, ASPN]" },
+    { "id": "N1Sq4UyP3RM", "title": "Ceph 스토리지 분야별 use-case [토크아이티 구해줘 Data, 대한씨앤아이, Seagate]" },
+    { "id": "1IKbdoZ8sDc", "title": "오픈소스 소프트웨어 최신 동향과 기업 활용도 최적화 방안 [토크아이티 프리미엄 웨비나, 구해줘 IT infra, SUSE, 에스코어]" },
+    { "id": "ljvoIJvJO58", "title": "요즘 hot한 데이터베이스: 벡터DB, 그래프DB, 시계열DB [구해줘 Data@토크아이티, 디비투이]" },
+    { "id": "C61yfvU0i2I", "title": "쿠버네티스가 재해복구(DR) 운영에 유리한 이유와 국내 Case Study[토크아이티 프리미엄 웨비나, 맨텍솔루션]" },
+    { "id": "cdUgs-AmGf8", "title": "RDB(관계형 데이터베이스)의 진화: OLTP+OLAP, New SQL, 데이터 가상화 [구해줘 Data@토크아이티, 디비투이]" },
     { "id": "8TtiJ0vrL9Y", "title": "쿠버네티스 초보자를 위한 K8S vs 레거시 인프라  [토크아이티 세미남289, 맨텍솔루션]" },
     { "id": "63d8UAZFzPE", "title": "최근 대형 IT프로젝트 위기, 무엇이 문제인가[토크아이티 프리미엄 웨비나, 투이컨설팅]" },
     { "id": "deWkKM6-3UQ", "title": "HCI 가상화로 저녁있는 삶, 서울아산병원 HCI 담당자와 PM이 말한다! [토크아이티 세미남295, 씨티아이앤씨, Nutanix]" },

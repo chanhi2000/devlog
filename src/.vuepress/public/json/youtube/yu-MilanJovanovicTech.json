@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "R-XODYF2iBQ", "title": "Refactoring the Domain Layer Structure With Vertical Slices" },
+    { "id": "WtcH_M3hoHs", "title": "How To Add Authentication To Your SignalR Hub #shorts" },
+    { "id": "PqVQFUCTzUM", "title": "The Brand New Way to do Fault Handling in Polly V8" },
+    { "id": "7koOpiebLtc", "title": "The Simplest Vertical Slice You Can Build #shorts" },
     { "id": "7z752-NI0b0", "title": "How To Use IHttpContextAccessor In ASP.NET Core #shorts" },
     { "id": "O7oaxFgNuYo", "title": "Real-Time Notifications Using Blazor and SignalR from scratch" },
     { "id": "Yl-KxuUJEoM", "title": "Looking For a Mapping Library? Check Out Mapster #shorts" },

@@ -296,6 +296,13 @@ come on!
 @tab Solution
 
 ```sh
+awk '!seen[tolower($0)]++' lines.txt
+# Go There
+# come on
+# ---
+# 2 apples and 5 mangoes
+# come on!
+# 2 Apples
 ```
 
 :::
@@ -324,17 +331,24 @@ cat twos.txt
 
 ```sh
 awk ##### add your solution here
-hehe haha
-door floor
-6;8 3-4
-true blue
-hehe bebe
-tru eblue
+# hehe haha
+# door floor
+# 6;8 3-4
+# true blue
+# hehe bebe
+# tru eblue
 ```
 
 @tab Solution
 
 ```sh
+awk '!($1,$2) in seen && !($2,$1) in seen; {seen[$1,$2]}' twos.txt
+# hehe haha
+# door floor
+# 6;8 3-4
+# true blue
+# hehe bebe
+# tru eblue
 ```
 
 :::
@@ -369,6 +383,22 @@ cat dupl.txt
 @tab Solution
 
 ```sh
+awk 'NR==FNR{c[$1,$2]++; next} {if((c[$1,$2] + c[$2,$1]) == 1) print > "uniq.txt";
+     else print > "dupl.txt"}' twos.txt twos.txt
+
+cat uniq.txt 
+# true blue
+# hehe bebe
+# tru eblue
+
+cat dupl.txt 
+# hehe haha
+# door floor
+# haha hehe
+# 6;8 3-4
+# floor door
+# 3-4 6;8
+# haha hehe
 ```
 
 :::

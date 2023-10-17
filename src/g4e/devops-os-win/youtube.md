@@ -139,4 +139,12 @@ tags: ["youtube", "tutorial", "education", "windows", "@MicrosoftResearch", "@Th
 
 ---
 
+## 컴테크
+
+<MyYouTubeItems jsonName="yu-user-ks4vb3cv9p" />
+
+<!-- 컴테크 -->
+
+---
+
 <TagLinks />

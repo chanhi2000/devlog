@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/bPs5uF0FRRzntJdv5p3y5aNphwMROiIvaGdmhgPNKbK-sWHCtdeibmEQpB-JSlF7ohNkoS6uph4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wWMJCY2E0d4", "title": "Sealed Secrets: Safeguarding Your Kubernetes Secrets | Step By Step Tutorial | KodeKloud" },
     { "id": "7qGr_gvid6k", "title": "Unleashing WebAssembly: Surfing the Next Cloud-Native Wave with Live Demos" },
     { "id": "l5sbRf4Jr-I", "title": "What is DevOps? #shorts" },
     { "id": "O52dseg2bJo", "title": "Mastering Grafana Loki: Kubernetes Log Collection & Integration | Part 2" },

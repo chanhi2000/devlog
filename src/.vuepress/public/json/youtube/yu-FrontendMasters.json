@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/_2yJlN6rNRa30qfFamUS-EujV2D73JZHQwgPeCMCPSxmlpiDvcizvOjuG_irlFOVxDh_5ohk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CcLgQaJIyn0", "title": "Miško Hevery: Creator of AngularJS & now Qwik | The Frontend Masters Podcast Ep.4" },
     { "id": "MfVB-CAFzKo", "title": "Practical CSS Layouts by Jen Kramer | Preview" }, 
     { "id": "hcK3N_Y3hzM", "title": "Rust for TypeScript Developers by ThePrimeagen | Preview" }, 
     { "id": "Us2JP01aNFE", "title": "Polyglot Programming: TypeScript, Go, & Rust by ThePrimeagen | Preview" }, 

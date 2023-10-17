@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "12_iKwGIP64", "title": "How to Build a Camera App With CameraX - Taking Photos" },
+    { "id": "eYGQEQnLpnI", "title": "How to Build a Video Recorder With CameraX in Android" },
+    { "id": "ViRfnLAR_Uc", "title": "AI Landmark Recognition With Tensorflow Lite and CameraX on Android" },
+    { "id": "qQVCtkg-O7w", "title": "Image Caching with Coil Compose - Everything You Need to Know" },
     { "id": "EzC-FXeZiIk", "title": "How to Build & Publish An Android Library" },
     { "id": "XfYlRn_Jy1g", "title": "How to Create a Lazy Column With Categories in Jetpack Compose" },
     { "id": "kFWmL5opJNk", "title": "How to Build a Custom Gradle Plugin to Share Project Config - Multi-Module Architecture" },
@@ -20,7 +24,7 @@
     { "id": "2y4XiyJv0pQ", "title": "Buttons - UX With Material3" },
     { "id": "Dlav7VIAQ3E", "title": "Bottom App Bars - UX With Material3" },
     { "id": "BezaAlslYDQ", "title": "Navigation Rail - UX With Material3" },
-    { "id": "aYSarwALlpI", "title": "Navigation Drawer - UX With Material3" }
+    { "id": "aYSarwALlpI", "title": "Navigation Drawer - UX With Material3" },
     { "id": "NhoV78E6yWo", "title": "How to Navigate Back With a Result in Jetpack Compose" },
     { "id": "xtWzpLtCuY0", "title": "How to Share Resources in KMM (Strings, Images, etc.)" },
     { "id": "SJw3Nu_h8kk", "title": "Activities & the Activity Lifecycle - Android Basics 2023" },

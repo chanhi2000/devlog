@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fBzR6DqP5jk", "title": "Spring boot jar build and AWS EC2 deployment" },
+    { "id": "eC62nLMEO9M", "title": "Start a Spring Boot project" },
+    { "id": "EpOZuN3-yrk", "title": "Spring WebFlux R2DBC MySQL database single connection" },
+    { "id": "EpOZuN3-yrk", "title": "Spring WebFlux R2DBC MySQL database single connection" },
+    { "id": "slFndhOlSyA", "title": "스프링 WebFlux R2DBC Config 클래스 (단일 연결)" },
+    { "id": "5KqfP5wtWmU", "title": "Spring WebFlux R2DBC multiple connections (multi DB)" },
     { "id": "BqTXiqK7qDo", "title": "Spring Boot CKEditor 17 : Create AWS S3 and Create Connection Config" }
   ],
   "playlists": [

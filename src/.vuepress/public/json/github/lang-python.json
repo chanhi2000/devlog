@@ -2983,5 +2983,20 @@
     "desc": "Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.",
     "officialSite": "https://gitpitch.github.io/gitpitch",
     "topics": ["git", "markdown", "presentation", "presentations", "slideshows"]
+  }, {
+    "repo": "hustvl/4DGaussians",
+    "desc": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+    "officialSite": "https://guanjunwu.github.io/4dgs",
+    "topics": ["3d", "computer-vision", "dynamic-scene", "gaussian-splatting", "graphics", "neural-network", "neural-rendering", "novel-view-synthesis", "radiance-field"]
+  }, {
+    "repo": "cpacker/MemGPT",
+    "desc": "Teaching LLMs memory management for unbounded context 📚🦙",
+    "officialSite": "https://memgpt.ai",
+    "topics": ["chat", "chatbot", "gpt", "gpt-4", "llm", "llm-agent"]
+  }, {
+    "repo": "NomaDamas/RAGchain",
+    "desc": "Develop advanced RAG workflow powered by LLM, partially compatible with Langchain",
+    "officialSite": "",
+    "topics": []
   }
 ]

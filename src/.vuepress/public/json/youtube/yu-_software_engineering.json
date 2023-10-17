@@ -6,6 +6,19 @@
     "banner": "https://yt3.googleusercontent.com/5Vysh9wfPY1Ux6_mLsLSTykPDQ6jTIjpPgfaB227RO1VBJbahAu6zzgghJALWeJ9dQ07hGR3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qOW0TddZMBk", "title": "Advanced Android Testing in Kotlin to Test Doubles and Dependency Injection part-3" },
+    { "id": "pxqLBNGKi84", "title": "Advanced Android Testing in Kotlin to Test Doubles and Dependency Injection part-2" },
+    { "id": "5r-ChKgFQE4", "title": "Advanced Android Testing in Kotlin to Test Doubles and Dependency Injection part-1" },
+    { "id": "BVve_-jwHZE", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-10" },
+    { "id": "71eTA7bllkA", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-9" },
+    { "id": "72Unu713r24", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-8" },
+    { "id": "mRQwwT_eH8s", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-7" },
+    { "id": "kY7A3LCR6G0", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-6" },
+    { "id": "HbicG-QJf2s", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-5" },
+    { "id": "uOOnQwr-E0k", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-4" },
+    { "id": "upDOG4DKMTc", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-3" },
+    { "id": "YGeEKuZK0b0", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-2" },
+    { "id": "LPw8hlWX9bE", "title": "Advanced Android in Kotlin Testing Coroutines and Jetpack integrations part-1" },
     { "id": "kLE0tjC0nfc", "title": "Advanced Android in KotlinTesting Basics Part-2" },
     { "id": "L79v7BGqMQ8", "title": "Advanced Android in KotlinTesting Basics Part-1" },
     { "id": "uG3PUeKGBz8", "title": "Android App using Unit Testing and UI Testing (JUnit & Espresso)" }

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-KEiLTGAllY", "title": "HTMX + Go + WebComponents :  Out Of Band Updates" },
+    { "id": "rcZSOLAI1lM", "title": "Rust + Htmx + Askama : Is This Better Than GO??" },
+    { "id": "FlYchvaK3TM", "title": "Rust + HTMX + Askama : Finishing The App" },
+    { "id": "Bkd-C_YadPs", "title": "HTMX + Go : Finishing The Tracker App" },
     { "id": "RN4aYnR2xI0", "title": "The LAST Bun vs Node Perf Test" },
     { "id": "z86ToVPx42Y", "title": "HTMX + Go  + Web Components | Exploring Lit Web Components" },
     { "id": "K-Qbr0IIJBw", "title": "HTMX + GO + Web Components | Endpoints And App" },

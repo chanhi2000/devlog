@@ -739,6 +739,26 @@
     "desc": "A modern runtime for JavaScript and TypeScript.",
     "officialSite": "https://deno.land",
     "topics": ["deno", "javascript", "rust", "typescript"]
+  }, {
+    "repo": "huggingface/text-embeddings-inference",
+    "desc": "A blazing fast inference solution for text embeddings models",
+    "officialSite": "https://huggingface.github.io/text-embeddings-inference",
+    "topics": ["ai", "embeddings", "huggingface", "llm", "ml"]
+  }, {
+    "repo": "qarmin/czkawka",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "officialSite": "",
+    "topics": ["cleaner", "duplicates", "gtk-rs", "multiplatform", "rust", "similar-images", "similar-music", "similar-videos"]
+  }, {
+    "repo": "astral-sh/ruff",
+    "desc": "An extremely fast Python linter, written in Rust.",
+    "officialSite": "https://docs.astral.sh/ruff",
+    "topics": ["linter", "pep8", "python", "python3", "ruff", "rust", "rustpython", "static-analysis", "static-code-analysis", "style-guide", "styleguide"]
+  }, {
+    "repo": "fastly/pushpin",
+    "desc": "Proxy server for adding push to your API",
+    "officialSite": "https://pushpin.org",
+    "topics": ["api", "http-streaming", "long-polling", "proxy", "push", "realtime", "server-sent-events", "streaming", "websockets", "zeromq"]
   }
 ]
 

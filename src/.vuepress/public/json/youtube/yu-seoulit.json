@@ -6,7 +6,37 @@
     "banner": "https://yt3.googleusercontent.com/0tsXyJDcWSs8DtStMVI9kGWpxlQTwqPQR4VIhWW8UbnZHnVyDwMxZBw0fPpXz5VBIOrdY787=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    
+    { "id": "a-bmsmGBjM8", "title": "신사임당 78기 5강 JAVA MVC 컴퓨터 소프트웨어 개발의 구조적 패턴" },
+    { "id": "dWdtlGUth-8", "title": "신사임당 78기 2강 JAVA 자바 MVC 모델-뷰-컨트롤러(model-view-controller, MVC)" },
+    { "id": "GbYfXRX3z4Y", "title": "신사임당 77기  38강 JSP  웹프로그래밍  파일업로드" },
+    { "id": "JvCwWsJfpWA", "title": "75기 졸업프로젝트 발표 React, Redux, Saga, OAuth, JWT, 스프링부트 Springboot  JPA Mybatis MSA를 적용한 인사 프로젝트발표" },
+    { "id": "k9gwlZqtU8A", "title": "75기 졸업프로젝트 발표 React, Redux, Saga, OAuth, JWT, 스프링부트 Springboot  JPA Mybatis MSA를 적용한 회계 프로젝트발표" },
+    { "id": "-iUqdyTwAOc", "title": "76기 2차  인사 프로젝트 중간 발표  : 최초로 React  Typescript  Next js 적용" },
+    { "id": "GbYfXRX3z4Y", "title": "신사임당 77기  38강 JSP  웹프로그래밍  파일업로드" },
+    { "id": "bOozhteA4wc", "title": "신사임당 79기 1강 JAVA compile 자바 컴파일" },
+    { "id": "2aloelJDXGg", "title": "율곡선생 챗GPT 활용 1강   챗GPT 개념 및 연혁, 회원가입 그리고 오해와 한계" },
+    { "id": "bxBpCD1Go9E", "title": "신사임당 77기 10강 SPRING 스프링프레임워크 MVC AOP(Aspect Oriented Programming)" },
+    { "id": "1Lkgr50NWs0", "title": "신사임당 77기 11강 SPRING 스프링프레임워크 MVC Exception" },
+    { "id": "PCHq0UNVZ6g", "title": "신사임당 77기 JAVA Generic  자바 제너릭" },
+    { "id": "5V9sCHETuuA", "title": "신사임당 77기 JAVA 자바 Thread 쓰레드 2강" },
+    { "id": "CTrog_ZRJQI", "title": "신사임당 77기 JAVA 자바 Thread 쓰레드 1강" },
+    { "id": "uJ4RHwT_YY8", "title": "율곡선생 78기 27강 oracle 오라클  with 구문 사용하는 이유 및 활용 실습" },
+    { "id": "_bezjfxE2EQ", "title": "율곡선생 76기 3강  Vue Project 구조 및 작동 원리 설명" },
+    { "id": "Azlz5-P29Kw", "title": "율곡선생 76기 2강  Vue CLI 설치, VUE 프로젝트 생성, VUE UI를 사용하여 vue 프로젝트 생" },
+    { "id": "O5AJyoDX6fs", "title": "율곡선생 76기 1강  SPA 프레임워크, Vue js란,vue 장점특징, Component 개념 설명" },
+    { "id": "Y9imUAIVPb4", "title": "신사임당 78기 Java Reflection 자바 리플렉션 3강" },
+    { "id": "JuyGcPPhj6s", "title": "신사임당 78기 Java Reflection 자바 리플렉션 2강" },
+    { "id": "bwwch1yeEjc", "title": "신사임당 78기 Java Reflection 자바 리플렉션 1강" },
+    { "id": "IL_Mdpc8l9M", "title": "율곡선생 77기 3강 DBCP, Hikari, 히카리, Connection Pool, DataSource,Hikari,HikariDataSource HikariConfig" },
+    { "id": "z6rZ1JJU4MQ", "title": "율곡선생 77기 2강 스프링부트 Spring boot 클라이언트요청 처리 과정설명  RequestMappingHandlerMapping" },
+    { "id": "Xpd4MvZJyoE", "title": "율곡선생 77기 1강 스프링부트 Spring boot 클라이언트요청 처리를 위한 준비 과정" },
+    { "id": "X6IIRxXeZDc", "title": "신사임당 78기 Java 입출력 1강" },
+    { "id": "WMyUINDMNa0", "title": "율곡선생 챗GPT 활용 2강    챗gpt 활용을 위한 AI 지시 입력문 - 프롬프트 가이드" },
+    { "id": "ihiSucGQWVo", "title": "율곡선생 76기 7강  Vue js, Virtual DOM 동작 원리와 이해 with 브라우저의 렌더링 과정, HTML DOM" },
+    { "id": "PlTQDx1h8f4", "title": "율곡선생 76기 8강  Vue js, 부모컴포넌트에서 자식 컴포넌트로 pros 데이터 전달 기본하기" },
+    { "id": "Cpd_ifPQ-lc", "title": "율곡선생 76기 6강  Vue, computed, watch 동작방식 설명" },
+    { "id": "AIezh0D4iUo", "title": "율곡선생 76기 5강  Vue, 클래스바인딩, v for, v if, v show,v on" },
+    { "id": "9aTF4Nf_774", "title": "율곡선생 76기 4강  Vue , 지시자, Directive, v html, v model,v bind, 양방향 데이터 바인딩" }
   ],
   "playlists": [
     {

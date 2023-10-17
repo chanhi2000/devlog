@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dknyou",
+    "name": "디케이앤유 / 동국시스템즈 IT 채널",
+    "profile": "https://yt3.googleusercontent.com/DvK6KuyeAI8b1HZ__kb4jjFcCe6JOhJ2GZuDVfm8ct-fzs7nNXL7xx1txZGktpaM1L19GRWi=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "e3UMjCLG5Nc", "title": "IT 인프라 기초 강의 - 스토리지 1편 (블록, 파일, 오브젝트 스토리지)" }
+  ]
+}

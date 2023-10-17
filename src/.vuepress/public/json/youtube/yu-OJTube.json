@@ -6,8 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bA1DLdOXuSy_rwC_MPzPpH6Br0U42fMI4WaQyBzmhGd7v0-KnVwMjhqWqjsmbCPF37VTM0baIw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {"id": "A0fmux6Q2H4", "title": "[임베디드 30강] 흉내낸 쓰레드 크리티컬 문제 해결." },
-    {"id": "TdzCyRviW7w", "title": "[C언어 실시간 강의7] 로직 교육의 마지막 - 반복문." },
-    {"id": "ekRBO06GtvQ", "title": "[임베디드 23강] 1-Wire 통신이 나름 유명했다. 온도센서(2)" }
+    { "id": "zkpE7VYkpmM", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 오리엔테이션" },
+    { "id": "A0fmux6Q2H4", "title": "[임베디드 30강] 흉내낸 쓰레드 크리티컬 문제 해결." },
+    { "id": "TdzCyRviW7w", "title": "[C언어 실시간 강의7] 로직 교육의 마지막 - 반복문." },
+    { "id": "ekRBO06GtvQ", "title": "[임베디드 23강] 1-Wire 통신이 나름 유명했다. 온도센서(2)" }
   ]
 }

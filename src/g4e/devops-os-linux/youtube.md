@@ -306,5 +306,13 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 
 ---
 
+## 디케이앤유 / 동국시스템즈 IT 채널 
+
+<MyYouTubeItems jsonName="yu-dknyou" />
+
+<!-- 디케이앤유 / 동국시스템즈 IT 채널 -->
+
+---
+
 
 <TagLinks />

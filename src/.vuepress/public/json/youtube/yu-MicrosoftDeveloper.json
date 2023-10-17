@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cSZKXxKMITZNPTT09ozaxbbc6o52JRsFbir4RhQgnSsCsGuA22BJcnNB_f64H9xm9Vb5e6HSBrg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lRIkWyoT2nk", "title": "How to migrate to Microsoft SQL with the Database Migration Service Pack for Oracle" },
+    { "id": "0QUgvfuKvWU", "title": "C# Fundamentals for Beginners" },
     { "id": "XQRO_uoGhp4", "title": "Quick API Endpoints Using Data API Builder" },
     { "id": "mPOQ_OsD99A", "title": "Open Source foundation models in Azure Machine Learning & optimization techniques behind the scenes" },
     { "id": "m8ogrogKjXo", "title": "PostgreSQL performance tips you have never seen before | Citus Con: An Event for Postgres 2023" },

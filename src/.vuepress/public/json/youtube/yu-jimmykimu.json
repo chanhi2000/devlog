@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/2q_KMTtTi_KzLgbiz1iiSu7TXAhvLa7QIvlhvs-73plWNI-WcqO2YJhSL75f4muRuABOhqeemAE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0UtY-8AnMDc", "title": "[JS] Media Slider 이미지, 동영상 슬라이더 | JSON 연동" },
+    { "id": "JZPjhB-btBQ", "title": "[시작이반] tailwindcss 기초: 컴파일 설정" },
     { "id": "2akUwth48oM", "title": "자바스크립트 - 비동기, Promise, async/await: 순차적인 실행과 일괄처리, IIFE, Promise.all" },
     { "id": "h9h-nhDKhIA", "title": "자바스크립트: 눈으로 보는 재귀함수 | json 트리 읽기, HTML 요소 생성" },
     { "id": "90BLLgDc5n0", "title": "docker (도커)를 시작하는 분들을 위하여... (feat. Docker on Synology NAS)" },

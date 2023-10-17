@@ -222,6 +222,28 @@ diff -sq out.md toc_expected.md
 @tab Solution
 
 ```sh
+cat toc.awk 
+/^```bash$/ {
+    f = 1
+}
+
+/^```$/ {
+    f = 0
+}
+
+!f && /^#+ / {
+    m = tolower($0)
+    a[m]++ && m = m "-" (a[m]-1)
+    sub(/^#+ /, "", m)
+    gsub(/ /, "-", m)
+
+    /^# / ? sub(/^# /, "* ") : sub(/^## /, "    * ")
+    print gensub(/* (.+)/, "* [\\1](#" m ")", 1)
+}
+
+awk -f toc.awk gawk.md > out.md
+diff -sq out.md toc_expected.md
+# Files out.md and toc_expected.md are identical
 ```
 
 :::
@@ -247,6 +269,27 @@ awk -f same.awk odd.txt
 @tab Solution
 
 ```sh
+cat odd.txt
+# -oreo-not:a _a2_ roar<=>took%22
+# RoaR to wow-
+
+cat same.awk 
+{
+    c = 0
+    n = split($0, a, /\W+/, seps)
+    for (i = 1; i <= n; i++) {
+        len = length(a[i])
+        if (len && substr(a[i], 1, 1) == substr(a[i], len) && c++ < 2) {
+            a[i] = "{" a[i] "}"
+        }
+        printf "%s%s", a[i], seps[i]
+    }
+    print ""
+}
+
+awk -f same.awk odd.txt
+# -{oreo}-not:{a} _a2_ roar<=>took%22
+# {RoaR} to {wow}-
 ```
 
 :::

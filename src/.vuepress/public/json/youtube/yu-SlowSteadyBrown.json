@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SlowSteadyBrown",
+    "name": "브라운 일기장",
+    "profile": "https://yt3.googleusercontent.com/HNKEn4R3BC-0H93QByCRffidFDv_EvgVkqEQRARLsaQ-tquGvMz7fIT1KF2i_p3DWeQeEAW7JVE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/r0KDU1TTVGiiZiEOpX6SxClS81q4fs0T66desheV7fL8t3h1_4oFLcgi_VUCPFXDmq8Haob2tQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZqapB6KVfRs", "title": "[개발일기] 독학 부트캠프 | Day3" }
+  ]
+}

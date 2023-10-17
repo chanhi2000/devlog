@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/3i1kqBVR385q3Doiq570L_8FY-JLr2zCvUwbpEtCKLS9QLGSjf7Y8VHKrL2mTxkigbuckqxc8g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1z_ViBjdnSw", "title": "Thinking on ways to solve RELATIVE COLORS" },
+    { "id": "0qL3OiTJbSc", "title": "How do I center a div?" },
     { "id": "a3-Ga5ciQg8", "title": "Privacy Sandbox: Noise Lab" },
     { "id": "Zu9CdbnS5ps", "title": "Setting up Workspaces" }, 
     { "id": "m6T-Mq1BPXg", "title": "Introducing WebGPU: Unlocking modern GPU access for JavaScript" }, 

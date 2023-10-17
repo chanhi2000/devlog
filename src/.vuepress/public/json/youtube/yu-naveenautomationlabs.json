@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fkeoyreOf-o", "title": "#31 - Fetch API Data with Async-Await in javaScript" },
+    { "id": "UauLIkolPdw", "title": "Selenium with Java vs Python vs vs C# vs Ruby" },
+    { "id": "rxT28QldSzE", "title": "#33 - Destructuring in JavaScript" },
+    { "id": "0OkU6uRn2Vo", "title": "#34 - Template Literals in JavaScript || Backtick Concept" },
+    { "id": "ertEZ7ryhZY", "title": "#36 - Reverse a Number In Javascript" },
+    { "id": "ertEZ7ryhZY", "title": "#36 - Reverse a Number In Javascript" },
     { "id": "u4Oaf1h1tmU", "title": "#25 - `Promise.race()` in JavaScript" },
     { "id": "gS06cbHKpZ4", "title": "#26 - `Promise.any()` function in JavaScript" },
     { "id": "RHpHW2XSIfM", "title": "#28 - Make Coffee with Callback Hell Example || Why to avoid this callback hell in Javascript" },

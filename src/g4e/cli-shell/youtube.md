@@ -141,4 +141,12 @@ tags: ["youtube", "tutorial", "bash", "linux", "macos", "terminal", "sed", "sh",
 
 ---
 
+## warpdotdev
+
+<MyYouTubeItems jsonName="yu-warpdotdev" />
+
+<!-- warpdotdev -->
+
+---
+
 <TagLinks />

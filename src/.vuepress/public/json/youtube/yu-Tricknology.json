@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/1DMq5lMx1DjyaSRKS7BixcaeWHBSswBpGsFDs8RHhuuEhDZCoKSKNvRP3gtV1EcKf0zkYRJVtw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EIbwt6CA1x4", "title": "How to Backup Windows 11 to Synology NAS Drive" },
     { "id": "1mgbWW7HecA", "title": "How to Check WSL Version on Windows 11" },
     { "id": "EJWhIZWKWFQ", "title": "How To Fix File Explorer Crashing or Freezing After Click on Home Tab in Windows 11" },
     { "id": "4MQTn9EI-2k", "title": "How To Connect and Login FTP Server using CMD on Windows 11" },

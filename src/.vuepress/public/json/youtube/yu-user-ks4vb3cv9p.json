@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-ks4vb3cv9p",
+    "name": "컴테크",
+    "profile": "https://yt3.googleusercontent.com/RRnVlj3f-dTdl5dAvLDBU5evlILzHoO1n0rK63kDjXRnKQ1V2p2aohX4G4Hgr37AalYi_WA9MQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/proJk1QbKkWD0PhuSbfEc9SEVBz1YTaXuUMDFe4cVSq0Jed9y2Uq9IH_AaKh2OHfrcIqvyXkaiE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iADR3rHrT7g", "title": "윈도우 11/10 컴퓨터에 Android OS 설치하여 안드로이드 어플 실행 방법 (윈도우 안드로이드 듀얼 부팅)" }
+  ]
+}

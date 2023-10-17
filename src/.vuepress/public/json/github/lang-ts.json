@@ -1553,5 +1553,15 @@
     "desc": "SDK and code generator for the OpenBLE spec",
     "officialSite": "https://openble.org",
     "topics": ["bluetooth", "bluetooth-low-energy", "openble", "swagger", "webbluetooth", "yaml"]
-  }  
+  }, {
+    "repo": "formbricks/formbricks",
+    "desc": "Open Source Surveys & Experience Management Solution",
+    "officialSite": "https://formbricks.com",
+    "topics": ["experience-management", "form", "forms", "hacktoberfest", "nextjs", "open-source", "react", "reactjs", "survey", "survey-analysis", "survey-data", "survey-form", "surveys", "tailwindcss", "turborepo", "typeform", "typescript", "xm"]
+  }, {
+    "repo": "nodejs/nodejs.org",
+    "desc": "The Node.js® Website",
+    "officialSite": "https://nodejs.org",
+    "topics": ["hacktoberfest", "nextjs", "node", "nodejs", "reactjs"]
+  }
 ]

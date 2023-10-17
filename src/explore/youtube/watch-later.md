@@ -413,7 +413,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-dicas-do-mateus]: https://www.youtube.com/@DicasdoMateus
 [yu-user-gn6zi9xy8q]: https://www.youtube.com/@user-gn6zi9xy8q
 [yu-maaslalani]: https://www.youtube.com/@maaslalani
-[yu-fun-of-heuristic]: https://www.youtube.com/@FunOfHeuristic
 [yu-iBoffRCC]: https://www.youtube.com/@iBoffRCC
 [yu-HackerSploit]: https://www.youtube.com/@HackerSploit
 [yu-master-liu]: https://www.youtube.com/@masterliu1892
@@ -492,7 +491,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-gergoooooooooooooooo]: https://www.youtube.com/@gergoooooooooooooooo
 [yu-code-android]: https://www.youtube.com/@CodeAndroid
 [yu-learncodeacademy]: https://www.youtube.com/@learncodeacademy
-[yu-the-linux-experiment]: https://www.youtube.com/@TheLinuxEXP
 [yu-bigmtnstudio]: https://www.youtube.com/@bigmtnstudio
 [yu-user-wo1ft8xx3y]: https://www.youtube.com/@user-wo1ft8xx3y
 [yu-copper-spice]: https://www.youtube.com/@CopperSpice

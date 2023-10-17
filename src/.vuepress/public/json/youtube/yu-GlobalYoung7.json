@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "o5hGP7obqnY", "title": "개고생하면서 배우는 Haskell 집중 분석 001(VSCode, Debugging, helix,LunarVim)" },
+    { "id": "qmq1zUQEThM", "title": "개고생하면서 배우는 Clojure 집중 분석 001(VSCode, Debugging, helix,LunarVim)" },
+    { "id": "7jm7Ul6lbic", "title": "AnnouncingRust_1.73.0_러스트_업데이트소식" },
+    { "id": "xFlHegVG_FQ", "title": "개고생하면서 배우는 Ada집중 분석 001(안전한 언어)VSCode, Debugging" },
+    { "id": "SeMe4NQIctE", "title": "개고생하면서 배우는 Cobol집중 분석 001(Java와 함께)" },
+    { "id": "bS7PDa674A4", "title": "러스트에서 꼭 알아야할 기초Rust_Rustaceans_newbie_master" },
+    { "id": "Azzx3E97xhA", "title": "한글Rust_080⭐️divan_benchmarking tool #benchmark #divan #rustlang #helix" },
     { "id": "MCtUzPnKSZQ", "title": "한글Rust_078⭐️현대판Tree_Rust로 만든 프로그램Broot #broot #tree" },
     { "id": "3vsPhUc71Dg", "title": "개고생하면서 배우는 Rust & C 메모리 & String & Assembly 집중 분석 001" },
     { "id": "hwD-sh5HBok", "title": "개고생하면서 배우는 Rust & C & Assembly 집중 분석 002" },

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "devCJH",
+    "name": "devCJH",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbQNdppDkVo2qseVdFBruKoTUU0TvOS9hpuXfn0Q27WW9aDt2HoxZhuASpsR1GF=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "j7fGwhK63dM", "title": "2023 10 12 자바 2일차 2교시" },
+    { "id": "Iby64AqSK6M", "title": "2023 10 12 리눅스 1일차 2교시" },
+    { "id": "DM8VIe4y0EA", "title": "2023 10 12 리눅스 1일차 1교시" },
+    { "id": "4eUx3a57Hbk", "title": "2023 10 13 웹개발 2일차 4교시" },
+    { "id": "_9JSU0cPgyI", "title": "2023 10 13 웹개발 2일차 2교시" },
+    { "id": "OPBs1bVTp_I", "title": "2023 10 13 웹개발 2일차 1교시" },
+    { "id": "q5M4RUNzyUM", "title": "2023 10 16 자바 4일차 3교시" },
+    { "id": "7XRYuGzdgfo", "title": "2023 10 16 자바 4일차 2교시" },
+    { "id": "HFV6JaGTJSI", "title": "2023 10 16 자바 4일차 1교시" },
+    { "id": "930ZIqzg9X0", "title": "2023 10 16 리눅스 2일차 2교시" },
+    { "id": "tazXTdAB7jg", "title": "2023 10 16 리눅스 2일차 1교시" },
+    { "id": "OYIGX5Xp2rU", "title": "2023 10 16 웹개발 3일차 3 ~ 4교시" },
+    { "id": "04Nn5w1tb4k", "title": "2023 10 16 웹개발 3일차 2교시" }
+  ]
+}

@@ -774,6 +774,16 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "LizardByte/Sunshine",
+    "desc": "Self-hosted game stream host for Moonlight.",
+    "officialSite": "https://app.lizardbyte.dev",
+    "topics": ["cpp", "docker", "game-stream", "game-streaming", "game-streaming-server", "geforce-experience", "moonlight", "python", "remote-desktop", "replicator-release-notifications"]
+  }, {
+    "repo": "CleverRaven/Cataclysm-DDA",
+    "desc": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "officialSite": "http://cataclysmdda.org",
+    "topics": ["c-plus-plus", "cataclysm", "game", "hacktoberfest", "zombies"]
   }
 ]
 

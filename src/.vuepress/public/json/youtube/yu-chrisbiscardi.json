@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DYMVYsNPO1o", "title": "Leptos 0.5: No More Scope!" },
+    { "id": "dZQMoEWe5uY", "title": "Why is the JavaScript ecosystem switching to Rust?" },
     { "id": "XrR4VCKB0cQ", "title": "A Tour of Iced 0.10" },
     { "id": "ie13kswrWu4", "title": "Building WASM web UI with Rust" }, 
     { "id": "OFsJywknqXo", "title": "egui 0.22 + WebGPU #shorts" }, 

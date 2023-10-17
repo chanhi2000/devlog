@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/nYBM4tFv0FucvhrpQPedLqqK-VabAD9T3p0aLzwZchtwSVMKwyXP77Un7hQs1AbiEVEVHARWVss=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VsLCMGuWOsY", "title": "23년 스프링 (25) Bootstrap을 이용하여 메뉴 설정하기" },
+    { "id": "dKsYzLlXBwA", "title": "23년 스프링 (24) Thymeleaf를 이용한 레이아웃 설정" },
+    { "id": "YMAG3Wktxzw", "title": "23년 스프링 (23) ParamDto를 이용한 매개변수 전달" },
+    { "id": "MYdS8hSWr9Y", "title": "23년 스프링 (22) Thymeleaf를 이용한 매개변수 전달" },
+    { "id": "TJfNQpvLtqw", "title": "23년 스프링 (26) 레이아웃이 적용된 시작 페이지 만들기" },
     { "id": "QEH6NY3el34", "title": "23년 스프링 (16) `querydsl` 기초" },
     { "id": "Fu-2lCGxJTs", "title": "23년 스프링 (15) JPQL 기초" },
     { "id": "UjDzY4O_Ag4", "title": "23년 스프링 (14) 쿼리 메소드 사용하기" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Xp4DcqJNLvw", "title": "Simplify Container Orchestration with Nomad and Terraform | A Comprehensive Tutorial" },
+    { "id": "52Ysixmqt5M", "title": "Build your Own ChatGPT Clone with Django and Postgres | Part 1 of 2" },
     { "id": "V3DjC6-sGBA", "title": "Creating Qwik Components and Integrating AI Image Generation | Web Development With AI Ep 6" },
     { "id": "Bx4TXWiyqe4", "title": "How to Set Up an ownCloud Instance with Akamai Block Storage | TechHut Tutorial" },
     { "id": "DpOTSKtpEHI", "title": "Error Handling and Security Management in AI Powered Apps | Web Development With AI Episode 7" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "clem",
+    "name": "channelName",
+    "profile": "imgUrl",
+    "banner": "bannerUrl"
+  },
+  "videos": [
+    
+  ]
+}

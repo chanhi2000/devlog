@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/0L41YEmkyuGmIeFBahinVqWaaHqUWDWiZdxsnjrK8CWVdTr1cF1GnkUfg98InksaiqXDIjWopA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "S8K4m1dMTGU", "title": "Build A SwiftUI Airbnb App" },
+    { "id": "nobQa0E_zeo", "title": "Empty States in SwiftUI – iOS 17" },
+    { "id": "c-gCXq_1EJU", "title": "New SwiftUI Data Flow with Observation – iOS 17" },
     { "id": "BuJU5x_V5Uc", "title": "Swift Predicate Macro Explained (Xcode 15)" },
     { "id": "C8gOU16woQg", "title": "Build BrightSky Weather App (iOS) – Part 1: Project Set Up" },
     { "id": "uuI835YifQ0", "title": "Build BrightSky Weather App (iOS) – Part 4: Weather UI" },

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/Nx7ZPpn-v07AAripnhuVESZiSCJyyN-O2aiLgz-RYvRoMApLh9HW0_Jxp4Ns-5pgnsyyWHcE_W8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "10IGZXiqWVk", "title": "Deploy to Vercel From CLI - Deploy Your App in Minutes" },
+    { "id": "BSUhOdmsnHE", "title": "HTMX Crash Course - It's Not a React Alternative" },
+    { "id": "WeF-ioLHsps", "title": "Netlify Deploy From CLI - Deploy Your App in Minutes" },
     { "id": "BSUhOdmsnHE", "title": "HTMX Crash Course - It's Not a React Alternative" },
     { "id": "NwmATYV-iik", "title": "Express Typescript Mongodb Project From Scratch" },
     { "id": "yQHr4opz_N0", "title": "React Interview Questions and Answers - Dominate Your Next Interview" },

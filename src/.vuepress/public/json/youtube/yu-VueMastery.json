@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/N9rXZqrdzVF9FU8-FCMfHpLeY4NhLtaz8SV8kyRjYgurURjkKngnAKk2t2mDHUq7EUAA9uboRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qiXWFHMFb7A", "title": "Building Desktop Apps with Vue - VueConf US 2023" },
+    { "id": "R0o-mbL9IN8", "title": "Programming an AI-Powered Vue App" },
+    { "id": "3FKQOJCUGFg", "title": "Stop Writing Your Routes - Vue.js Live 2023" },
+    { "id": "vG5njB0Yku8", "title": "DevOps before there was \"devops\" - VueConf US 2023" },
     { "id": "vamAefgWCJc", "title": "Speed up your development flow with Vite - VueConf US 2023" },
     { "id": "k2wi03hw2ek", "title": "Quickly Test your Apps with Vitest" },
     { "id": "Jkb4wmGrPiw",  "title": "SharePoint as a BackEnd framework for Vue" }, 
@@ -13,6 +17,3 @@
     { "id": "MU7K_V6rFjM",  "title": "Test Driven Development in Vue with Cypress by Josh Justice" }
   ]
 }
-
-
-

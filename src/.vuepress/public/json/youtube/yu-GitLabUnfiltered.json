@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "B3HkiWj2G4s", "title": "Demo: Standards Adherence Dashboard" },
+    { "id": "e9zeDqXFljM", "title": "Creating a dev feature flag for development of GitLab" },
+    { "id": "sQ7Nw3o0izc", "title": "Intro to CI/CD - GitLab Webinar" },
+    { "id": "TuWWOJx4TTk", "title": "Duo CLI  - GitLab Chat & Draw" },
+    { "id": "lYHO1-q1DuU", "title": "Design share: Runner usage report" },
+    { "id": "5iK_1l3DlqM", "title": "GitLab 16.6 Kickoff - Verify: Runner SaaS - Building GRIT to support Dedicated runners & CI Steps" },
+    { "id": "Qhp1J0KnL-8", "title": "16 6 Planning - Database" },
+    { "id": "N7hFu4ji8bE", "title": "OIDC L&L with Aboobacker" },
     { "id": "xkTKewptK_s", "title": "Deploying to AWS Elastic Beanstalk with GitLab CI/CD" },
     { "id": "K7k9ltYMMY4", "title": "Teaser: Audit event streaming to AWS S3" },
     { "id": "VL-_hdiTazo", "title": "How to enable secret detection in GitLab   GitLab Application Security Part 2/2" },
