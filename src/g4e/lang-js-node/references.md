@@ -390,6 +390,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Create React App
+
+- [Proxying API Requests in Development](https://create-react-app.dev/docs/proxying-api-requests-in-development)
+
+---
+
 ## Supabase
 
 - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)

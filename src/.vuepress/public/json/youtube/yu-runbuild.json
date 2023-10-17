@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "runbuild",
+    "name": "런빌드",
+    "profile": "https://yt3.googleusercontent.com/_kI31j9ctRymMpUaEgE_eTRL14sYy2KJJKX4D6pURdy8caFkSBFANwYqu7U4BuC5-2GlTtBolQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/l3YGYvTBnq8x8LkB7d3FLN1tk-tnvaWc-16SzWB-LMiMjZZ1k5hLT51us9VGXTmnDpvHb_aunsQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wjxoGHgAmk8", "title": "AI웹앱의 꽃 자바스크립트 작성방법 3가지" },
+    { "id": "8mkvyl8_4lk", "title": "챗GPT 함수로 이런것도 된다구? 업무 자동화 총정리!!" }
+  ]
+}

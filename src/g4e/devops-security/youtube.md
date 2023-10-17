@@ -125,7 +125,7 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 
 ## PhD Security
 
-<MyYouTubeItems jsonName="yu-phd_security" />
+<MyYouTubeItems jsonName="yu-ryan_phdsec" />
 
 <!-- PhD Security -->
 

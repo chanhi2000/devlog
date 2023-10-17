@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/T4k6KqTRG68WJoq2MqLXvIrk6dJtNDgpYnFdROEalblaB5_vhWZV5SBD5wEQBQVX_SN8e46j=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "c8VWxuAtVek", "title": "What is GraphQL?" },
     { "id": "iLyBEEkm5e0", "title": "Containerization Strategy" },
     { "id": "Dbwj-NHnHfw", "title": "What is Kubeflow?" },
     { "id": "Xx588nbshlM", "title": "Podman vs. Docker" },

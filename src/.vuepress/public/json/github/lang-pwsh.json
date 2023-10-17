@@ -34,5 +34,10 @@
     "desc": "Mega collection of 500+ useful cross-platform PowerShell scripts.",
     "officialSite": "",
     "topics": ["automation", "remote-control", "collection", "cross-platform", "command-line", "powershell", "scripts", "tasks", "ps1", "powershell-scripts"]  
+  }, {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "desc": "game of active directory",
+    "officialSite": "",
+    "topics": []
   }
 ]

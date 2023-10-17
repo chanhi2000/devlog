@@ -585,6 +585,15 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 
 ---
 
+## KWDC
+
+<MyYouTubeItems jsonName="yu-KWDC23" />
+
+<!-- KWDC -->
+
+---
+
+
 ## Misc
 
 <!-- [Gary Tokman][yu-fgary] -->
@@ -595,4 +604,3 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 <TagLinks/>
 
 <!-- Misc -->
-[yu-fgary]: https://www.youtube.com/@fgary

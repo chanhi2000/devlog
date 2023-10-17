@@ -499,5 +499,10 @@
     "desc": "Postgres as a Platform",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "lvgl/lvgl",
+    "desc": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",
+    "officialSite": "https://lvgl.io",
+    "topics": ["c", "embedded", "graphics", "gui", "mcu", "microcontroller", "tft"]
   }
 ]

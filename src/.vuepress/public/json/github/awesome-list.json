@@ -699,5 +699,10 @@
     "desc": "💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.",
     "officialSite": "",
     "topics": ["edward-snowden", "nsa", "security", "sidtoday", "snowden", "snowden-archive", "surveillance", "whistleblowing"]
+  }, {
+    "repo": "Orange-Cyberdefense/awesome-industrial-protocols",
+    "desc": "Security-oriented list of resources about industrial network protocols. ",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -59,7 +59,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-pwsh/scripts-manage-computer.md',
         '/g4e/cli-pwsh/scripts-for-desktop.md',
         '/g4e/cli-pwsh/scripts-for-files-folders.md',
-        '/g4e/cli-pwsh/scripts-to-convert-files.md',
+        '/g4e/cli-pwsh/scripts-convert-files.md',
         '/g4e/cli-pwsh/scripts-for-git.md',
         '/g4e/cli-pwsh/scripts-for-pwsh.md',
         '/g4e/cli-pwsh/various-pwsh-scripts.md',
@@ -941,6 +941,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/crashcourse/kodeco-kotlin-android/README.md',
         '/crashcourse/kodeco-kotlin-android/853-couchbase-tutorial-for-android-getting-started.md',
+        '/crashcourse/kodeco-kotlin-android/523-augmented-reality-in-android-with-google-s-face-api.md',
       ]
     }, {
       text: '🕊️Kodeco - Swift',

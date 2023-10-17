@@ -2,12 +2,10 @@
   "channel": {
     "id": "SwiftHeroes",
     "name": "Swift Heroes",
-    "profile": "https://yt3.googleusercontent.com/r7WlkgEW8OtjLfYzKXxjI30tqg-CfMVUA0bcJE4fQGOgEC40xIogSuIRWAxnbI5vnpuXZaM-=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/r7WlkgEW8OtjLfYzKXxjI30tqg-CfMVUA0bcJE4fQGOgEC40xIogSuIRWAxnbI5vnpuXZaM-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5VGDhQz-odBYxLs8VRat_1xCzjYOPdfQAgOG6RJmbSv4Nyif4TW030t8eq3prn9twfBc0V7rpB4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    {
-      "id": "vHbfsZxGgIk",
-      "title": "Swift Heroes Digital 2020 - Getting Started With Combine - Shai Mishali, Gett"
-    }
+    { "id": "vHbfsZxGgIk", "title": "Swift Heroes Digital 2020 - Getting Started With Combine - Shai Mishali, Gett" }
   ]
 }

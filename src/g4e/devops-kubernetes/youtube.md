@@ -148,4 +148,12 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 
 ---
 
+## 조 훈(Hoon Jo)
+
+<MyYouTubeItems jsonName="yu-HoonJo" />
+
+<!-- 조 훈(Hoon Jo) -->
+
+---
+
 <TagLinks />

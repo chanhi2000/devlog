@@ -11,3 +11,14 @@ description: 🐚Shell
 :::
 
 <ShieldsGroup logos="gnubash,gnometerminal,apple,linux"/>
+
+---
+
+## Table of Contents
+
+- [🐣Basics](basics.md)
+- [💡Tips](tips.md)
+- [🩺Troubleshooting](troubleshooting.md)
+- [📚References](references.md)
+- [🕶️Github](github.md)
+- [📺Youtube](youtube.md)

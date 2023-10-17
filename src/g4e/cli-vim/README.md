@@ -11,3 +11,12 @@ description: 🗡Vim
 :::
 
 <ShieldsGroup logos="gnubash,gnometerminal,apple,linux,vim,neovim"/>
+
+---
+
+## Table of Contents
+
+- [🏔NeoVim](neovim.md)
+- [🕶️Github](gitub.md)
+- [📚References](references.md)
+- [📺Youtube](youtube.md)

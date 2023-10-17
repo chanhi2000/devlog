@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "johnnifytech",
+    "name": "Johnny Magrippis",
+    "profile": "https://yt3.googleusercontent.com/PblAK5CbmtDCC6PpjdBDKpMdSQ76z45AlX__9c6zJCBnEvUyWxcRqHHX_AIra34g6EWsBs9f33g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "TKKpVlZRFLc", "title": "Stop using Google Fonts in prod 📈 what to do instead! 📉" }
+  ]
+}

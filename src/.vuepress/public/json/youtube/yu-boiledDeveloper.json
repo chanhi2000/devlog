@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "dLwEGT01S6E", "title": "선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native" },
     { "id": "vRu11eqYnY0", "title": "쌩초보 iOS 앱 개발자 테크트리 | A-Z" }
   ]
 }

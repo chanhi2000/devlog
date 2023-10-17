@@ -21,6 +21,15 @@ tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "b
 
 ---
 
+## 깃미남 - 깃에 미친 남자
+
+<MyYouTubeItems jsonName="yu-user-xf3uf2xd4f" />
+
+<!-- 깃미남 - 깃에 미친 남자 -->
+
+---
+    
+
 ## Github
 
 <MyYouTubeItems jsonName="yu-Github" />

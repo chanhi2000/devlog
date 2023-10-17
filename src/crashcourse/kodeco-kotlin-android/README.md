@@ -1886,7 +1886,7 @@ color: rgba(0, 184, 126, 0.2)
 ```card
 title: Augmented Reality in Android with Google’s Face API
 desc: You’ll build a Snapchat Lens-like app called FaceSpotter which draws cartoony features over faces in a camera feed using augmented reality. 
-link: https://www.kodeco.com/523-augmented-reality-in-android-with-google-s-face-api
+link: 523-augmented-reality-in-android-with-google-s-face-api.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-ar-vr-android-847ca6fdd6f2a12866d7e3b66eb5ecf5420ad5695418a64c57f800b1ad89a4d3.svg
 color: rgba(0, 184, 126, 0.2)
 ```

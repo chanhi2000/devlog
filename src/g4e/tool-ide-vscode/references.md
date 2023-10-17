@@ -59,4 +59,10 @@ tags: ["webdev", "vscode", "productivity", "programming"]
 
 - [Java on Visual Studio Code – May 2023](https://devblogs.microsoft.com/java/java-on-visual-studio-code-may-2023/)
 
+---
+
+## Snyk
+
+- [Top 5 VS Code extensions for security](https://snyk.io/blog/top-5-vs-code-extensions-security)
+
 <TagLinks />

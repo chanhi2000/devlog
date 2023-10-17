@@ -405,14 +405,18 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 ---
 
+## 살림톡
+
+<MyYouTubeItems jsonName="yu-salimtalk" />
+
+<!-- 살림톡 -->
+
+---
+
+
 <TagLinks />
 
-[yu-easypub]: https://www.youtube.com/@easypub
-[yu-vrudon]: https://www.youtube.com/@VRudon
-[yu-extudy]: https://www.youtube.com/@extudy
-[yu-dicas-do-mateus]: https://www.youtube.com/@DicasdoMateus
 [yu-user-gn6zi9xy8q]: https://www.youtube.com/@user-gn6zi9xy8q
-[yu-maaslalani]: https://www.youtube.com/@maaslalani
 [yu-iBoffRCC]: https://www.youtube.com/@iBoffRCC
 [yu-HackerSploit]: https://www.youtube.com/@HackerSploit
 [yu-master-liu]: https://www.youtube.com/@masterliu1892
@@ -432,7 +436,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-jocoding]: https://www.youtube.com/@jocoding
 [yu-codebubb]: https://www.youtube.com/@codebubb
 [yu-systems-w-jt]: https://www.youtube.com/@SystemsWithJT
-[yu-cornell-appdev]: https://www.youtube.com/@CornellAppDev
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
 [yu-tech-gumbo]: https://www.youtube.com/@TechGumbo
 [yu-go-cloud-architects]: https://www.youtube.com/@GoCloudArchitects

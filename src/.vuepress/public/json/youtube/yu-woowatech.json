@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/sRbGB0rMtwOBAtcV9W27xW9QC8yV6irtym_tApvPV_Wl1TCNB7lr1fcnr6DabhC6_dbrVQ2E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tJauBMXEtJA", "title": "[10분 테코톡] 망고의 DeadLock" },
+    { "id": "usEsrsaSSuU", "title": "[10분 테코톡] 모디의 MySQL의 실행 계획" },
+    { "id": "PaGOJ3887Js", "title": "[10분 테코톡] 코비의 Kotlin Coroutine" },
     { "id": "2OKljT1tKA4", "title": "[우아한테크세미나] 행정동을 법정동으로, 배민 지리 체계 프로젝트 살펴보기" },
     { "id": "vgYfAndrpPU", "title": "[우아한테크세미나] 사례별로 알아보는 안전한 S3 보안 가이드" }, 
     { "id": "6nc_0-HWZXU", "title": "[10분 테코톡] 글로의 git - merge and rebase" }, 

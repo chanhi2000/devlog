@@ -301,6 +301,14 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ---
 
+## Gui Ferreira
+
+<MyYouTubeItems jsonName="yu-gui.ferreira" />
+
+<!-- Gui Ferreira -->
+
+---
+
 ## dotnet
 
 <MyYouTubeItems jsonName="yu-dotnet" />

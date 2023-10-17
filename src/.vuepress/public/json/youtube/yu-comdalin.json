@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "comdalin",
+    "name": "컴달인 - 컴퓨터 달인",
+    "profile": "https://yt3.googleusercontent.com/TMuf2jJfko7hayfN3nETeo3qM8zaAKhs9BOXwCiqdBVuR060MLwzPZkgRgUI26RPTkO325k4pBM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "mlUtvBFZWbE", "title": "[개발] Excel 에서 Python 사용하기 - Pandas DataFrame, Series 사용해보기" }
+  ]
+}

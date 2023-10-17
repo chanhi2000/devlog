@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "HoonJo",
+    "name": "조 훈(Hoon Jo)",
+    "profile": "https://yt3.googleusercontent.com/l-q4YHuiSs8VONH-m8bmeTDmrRFzArkNK9GlqMRD76f1UkkjfOxfaUT2WqTScH-RwLyKnEBQ4A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/b2H_qaKfozD2Lj1EGwCDd7KcOdgH--0641pjq3msSKf-hzt3FIhU7CARxiKJpFD9GCT1jvj0og=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VfEVKc1BdrE", "title": "[DEMO] 초보자가 쿠버네티스에서 돌려본 라마 버전2(llama-2-13b) 13B 모델" },
+    { "id": "Op_Os7jVNDg", "title": "Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service)" },
+    { "id": "bU6OEtbdiOI", "title": "[Ansible] 한번의 명령어로 다수의 시스템에 작업하기" }
+  ]
+}

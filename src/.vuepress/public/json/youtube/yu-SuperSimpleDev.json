@@ -2,15 +2,11 @@
   "channel": {
     "id": "SuperSimpleDev",
     "name": "SuperSimpleDev",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOwoeDhHgV6Hi-bzWr8S43mH3TAihwZbXCyruoC=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOwoeDhHgV6Hi-bzWr8S43mH3TAihwZbXCyruoC=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
   },
   "videos": [
-    {
-      "id": "TmcEmsyYKXE",
-      "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 2 Lesson 13"
-    }, {
-      "id": "SBmSRK3feww",
-      "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 1"
-    }
+    { "id": "TmcEmsyYKXE", "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 2 Lesson 13" }, 
+    { "id": "SBmSRK3feww", "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 1" }
   ]
 }

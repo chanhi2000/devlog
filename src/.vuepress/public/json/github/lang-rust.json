@@ -759,6 +759,11 @@
     "desc": "Proxy server for adding push to your API",
     "officialSite": "https://pushpin.org",
     "topics": ["api", "http-streaming", "long-polling", "proxy", "push", "realtime", "server-sent-events", "streaming", "websockets", "zeromq"]
+  }, {
+    "repo": "nokyan/resources",
+    "desc": "Monitor your system resources and processes",
+    "officialSite": "",
+    "topics": ["gnome", "gtk", "libadwaita", "rust", "system-monitor"]
   }
 ]
 

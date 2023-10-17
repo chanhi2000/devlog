@@ -6,7 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/WrjeqBsRqwXzk1yeAOVU_TF_swd9bNgiFrXiE4ezXs0MstT1iOCOsCLJFmyTWJX4riU75PhvpZ4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    
+    { "id": "eWSP4TOZjj4", "title": "WPF로 PC카카오톡 로그인 화면을 만들어봐요! [패키지 설치]" },
+    { "id": "qBEvG0imEp0", "title": "VisualStudio팁!  필드 변수 언더바 자동 생성" },
+    { "id": "j6803tiAjcw", "title": "C# 가비지 컬렉터란? 어떻게 동작할까요?" },
+    { "id": "A8t5ktSAgdA", "title": "C# WPF 팁 - Xaml 안에서 ViewModel속성을 자동완성 되도록 만들기" },
+    { "id": "RXRcSG4KykM", "title": "C# 주소 OPEN API (RESTFUL) 호출 강좌 5 편 (주소기반산업지원서비스 API)" },
+    { "id": "HrgQ4jSuDUM", "title": "C# WPF 기초 강의(Chart-Oxy Plot) MVVM 그래프(차트) 만들기" },
+    { "id": "GtkglhZkFhE", "title": "DesignPattern - Sigleton (싱글톤 패턴) [C#]" },
+    { "id": "8mCzmlGRU4Y", "title": "WPF TreeView - LazyTreeNode(지연로드 트리뷰) 만들기 - 1" },
+    { "id": "faOn65V2xjA", "title": "C# 주소 OPEN API (RESTFUL) 호출 강좌 4 편 (주소기반산업지원서비스 API)" },
+    { "id": "GtkglhZkFhE", "title": "DesignPattern - Sigleton (싱글톤 패턴) [C#]" },
+    { "id": "8mCzmlGRU4Y", "title": "WPF TreeView - LazyTreeNode(지연로드 트리뷰) 만들기 - 1" },
+    { "id": "faOn65V2xjA", "title": "C# 주소 OPEN API (RESTFUL) 호출 강좌 4 편 (주소기반산업지원서비스 API)" },
+    { "id": "Dq8z-tdb5Ig", "title": "C# 꿀팁!  5가지 대방출" },
+    { "id": "3VZYfYRVOjw", "title": "VisualStudio 꿀팁!  화면 분할" }
   ],
   "playlists": [
     {

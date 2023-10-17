@@ -1563,5 +1563,10 @@
     "desc": "The Node.js® Website",
     "officialSite": "https://nodejs.org",
     "topics": ["hacktoberfest", "nextjs", "node", "nodejs", "reactjs"]
+  }, {
+    "repo": "t3-oss/create-t3-app",
+    "desc": "The best way to start a full-stack, typesafe Next.js app ",
+    "officialSite": "https://create.t3.gg",
+    "topics": ["cli", "create-t3-app", "hacktoberfest", "next-auth", "nextjs", "npx", "prisma", "t3", "t3-stack", "tailwindcss", "trpc", "typescript"]
   }
 ]

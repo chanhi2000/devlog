@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/B6XcrOa6Sb77IXUqaEeWeqN_Sowsz9Wq_fTtDobNFIoOqdhbVftBk1wA5Xf4-tfuu5aIs_an=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zPw2z50h-lY", "title": "Bulk Renaming Files in Linux with Vidir" },
+    { "id": "4PqAbmFGg5k", "title": "Renaming Files from the Shell Linux" },
     { "id": "3YBPiRkZPEA", "title": "Build Duke Nukem 3D on Linux" },
     { "id": "tJb5D9l29RM", "title": "Linux Shell Tutorials Compilation from 2018" },
     { "id": "Ef-aEK8bM-0", "title": "Generating Favicons" },

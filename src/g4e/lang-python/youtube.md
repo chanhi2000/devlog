@@ -227,4 +227,12 @@ tags: ["education", "youtube", "programming", "python", "py"]
 
 ---
 
+## 컴달인 - 컴퓨터 달인
+
+<MyYouTubeItems jsonName="yu-comdalin" />
+
+<!-- 컴달인 - 컴퓨터 달인 -->
+
+---
+
 <TagLinks />

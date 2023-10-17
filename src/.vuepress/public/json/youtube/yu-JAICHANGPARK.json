@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "JAICHANGPARK",
+    "name": "Dream Walker",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYJ19PDEwc8jwS1a-am5FR0E7POx2K4eBkQe-xu-Gc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mivr38Rj8BXhe5hs8UxmsKTJOIuBTkNrGpj3vnjoNJ74X1-iZzPkFR-XdkszoD3fL8BeFQaynQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1wuKFRfjhXk", "title": "[Flutter] Flutter Live Coding EP1658 (E - Commerce Mobile Apps UI Part 4)" }
+  ]
+}

@@ -11,3 +11,13 @@ description: 🧢Batchfile (Windows)
 :::
 
 <ShieldsGroup logos="gnometerminal,windowsterminal,windows,powershell"/>
+
+---
+
+## Table of Contents
+
+- [🐣Basics](basics.md)
+- [💡Tips](tips.md)
+- [🔮Snippets](snippets.md)
+- [📚References](references.md)
+- [🕶️Github](github.md)

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/S7UCHdxoZI0y4oXxYuhQpsN12PsDy2wsTYnneom8bcXZsmKNswv1bY9rfakYaZZEV1vXrUJ08wM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "au27CwIFHzs", "title": "Let's create a filter table component in Vue" },
     { "id": "hWFP9DeB7KA", "title": "I built a pizza tracker with Laravel, React, and Inertia" },
     { "id": "kG8RP6Rk0K8", "title": "Deploy Laravel applications fast and cheap" }, 
     { "id": "mQ9qs6Plogw", "title": "Video subtitles and summaries in seconds!" }, 

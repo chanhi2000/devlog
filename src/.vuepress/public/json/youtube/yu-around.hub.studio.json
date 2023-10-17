@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/pz7L60DZW8X1KubFhuKe7a_fxNPXAOfsDn1KZ4VK9jETvenZ2OKW_J8L7UGheEZsyqo9682IjfI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tMSi31D5LLA", "title": "How to set JVM memory in container environment - Practice - [ Docker Basic ]" },
     { "id": "SFVWo0Z5Ppo", "title": "테스트 코드 적용하기 (JUnit, TDD)  [ 스프링 부트 (Spring Boot) ]" }
   ]
 }

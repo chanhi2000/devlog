@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nafpdUZ0-WI", "title": "웹디자인 기능사 실기(25) - 와이어프레임 - D4 유형" },
+    { "id": "k-oJhJbZch8", "title": "웹디자인 기능사 실기(36) - 탭, Tab, 서브메뉴 방식" },
+    { "id": "JJZEK94G7nE", "title": "javascript 89 네이버 지도 API 활용 지도 구현하기 v2023 인포창 지도, 위도 경도 확인하기" },
     { "id": "UdzGh0zt0ts", "title": "PHP 023 [라라벨 03 ]  -  laravel 레이아웃, 스타일 설정하기" },
     { "id": "rOz9g9aE768", "title": "PHP 025 [라라벨 05 ]  -  laravel 상세페이지, array_search, array_column" },
     { "id": "4inEcCc7bzg", "title": "웹디자인 기능사 실기(21) - 와이어프레임, 반응형 D1유형" },

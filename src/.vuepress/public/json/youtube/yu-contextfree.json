@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/eCjAsCs6LHJLq_1pEJ9OeXcSjyn13PJtC95bAdqCT0vcgcs8HhcpuDSlmEF9r2eSt8nO5b4p=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VhCgep06-I8", "title": "Browserless app runtime in Rust - Demo app in Zig - Wasm/WebGPU" },
     { "id": "I-tN3dS2zwA", "title": "4x shorter WebGPU access from Wasm, featuring Nelua, Zig, & Rust" },
     { "id": "2bvltIjqrRg", "title": "Starting my own hobby language (again)" },
     { "id": "8-kazxQBolM",  "title": "Using COBOL to make a video game!" }, 

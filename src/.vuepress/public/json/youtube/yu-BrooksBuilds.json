@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uTbnUb7yx8I", "title": "Stream archive: Recording lesson for SQLx and investigating bulk inserts (2023-09-29)" },
+    { "id": "CL0NMcAkn1s", "title": "Stream archive: Recording SQLx Rust bulk insert with UNNEST (2023-10-03 afternoon)" },
+    { "id": "CL0NMcAkn1s", "title": "Stream archive: Recording SQLx Rust bulk insert with UNNEST (2023-10-03 afternoon)" },
+    { "id": "w_ui6fP-Scs", "title": "Stream archive: Writing article for sqlx rust migrations (2023-10-04)" },
+    { "id": "-UHvZQ4RwHQ", "title": "Stream archive: Exploring how we might seed with SQLx (2023-10-05)" },
+    { "id": "BdA5w9fST-s", "title": "Stream archive: experimenting with how to seed with SQLx Rust (2023-10-04 afternoon)" },
+    { "id": "SlMxGR-8aoQ", "title": "Stream archive: finished sqlx Rust migration article and recording migration video (2023-10-06)" },
+    { "id": "nnz2bawxiFE", "title": "Stream archive: sqlx rust seeding, offline mode, joins (2023-10-06 afternoon)" },
+    { "id": "S1-HL5VQguI", "title": "Stream archive: experimenting with many to many join using sqlx rust (2023-10-09)" },
+    { "id": "LQqxtMD3jRA", "title": "Stream archive: Finishing article for SQLx Rust many to many joins (2023-10-09 afternoon)" },
+    { "id": "VKQOKSXJ7TY", "title": "Stream archive: recording SQLx Rust joins lesson and starting assessment (2023-10-10)" },
     { "id": "JwM_J-ApkhU", "title": "Stream archive: Finishing Query Params article, recording query params, recording errors \"short\" (20" },
     { "id": "1ROm6B9GbHw", "title": "Stream archive: Writing article for handling Axum Errors (2023-09-14)" },
     { "id": "o7xJH7mdsaI", "title": "Stream archive: Handling errors in Axum and state management (2023-09-15)" },

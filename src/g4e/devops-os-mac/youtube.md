@@ -196,8 +196,14 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 <!-- Morgonaut Hack!ntosh -->
 
 ---
-## Misc
+
+## Mz Learning
+
+<MyYouTubeItems jsonName="yu-MzLearning" />
+
+<!-- Mz Learning -->
 
 ---
+
 
 <TagLinks />

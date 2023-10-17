@@ -104,4 +104,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## omgubuntu
+
+- [Resources is a New, Modern System Monitor for Linux](https://www.omgubuntu.co.uk/2023/10/resources-system-monitor-app-for-linux)
+
+---
+
 <TagLinks />

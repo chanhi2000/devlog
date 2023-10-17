@@ -1604,5 +1604,25 @@
     "desc": "",
     "officialSite": "",
     "topics": []
-  }
+  }, {
+    "repo": "FreeTubeApp/FreeTube",
+    "desc": "An Open Source YouTube app for privacy",
+    "officialSite": "https://freetubeapp.io",
+    "topics": ["freetube", "privacy", "subscriptions", "video", "videos", "youtube"]
+  }, {
+    "repo": "TheRealJoelmatic/RemoveAdblockThing",
+    "desc": "Removes The \"Ad blocker are not allowed on Youtube\"",
+    "officialSite": "http://joelmatic.com",
+    "topics": ["tampermonkey", "tampermonkey-userscript"]
+  }, {
+    "repo": "TeamPiped/Piped",
+    "desc": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+    "officialSite": "https://piped.video",
+    "topics": ["activej", "dearrow", "hacktoberfest", "ipfs", "java", "newpipe", "privacy", "sponsorblock", "videos", "vuejs", "youtube"]
+  }, {
+    "repo": "dailydotdev/docs",
+    "desc": "The official product docs of daily.dev",
+    "officialSite": "https://docs.daily.dev",
+    "topics": ["developer-tools", "documentation", "docusaurus", "hacktoberfest", "productivity"]
+  }  
 ]

@@ -24,5 +24,10 @@
     "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:",
     "officialSite": "https://metabase.com",
     "topics": ["analytics", "bi", "business-intelligence", "businessintelligence", "clojure", "dashboard", "data", "data-analysis", "data-visualization", "database", "metabase", "mysql", "postgres", "postgresql", "reporting", "slack", "sql-editor", "visualization"]
+  }, {
+    "repo": "penpot/penpot",
+    "desc": "Penpot - The Open-Source design & prototyping platform",
+    "officialSite": "https://penpot.app",
+    "topics": ["clojure", "clojurescript", "design", "prototyping", "ui", "ux-design", "ux-experience"]
   }
 ]

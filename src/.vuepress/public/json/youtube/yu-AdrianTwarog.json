@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/rBBZmbNZbxnw1bfoOtUrY9Io1u06Qf85K9ic5Z74PKORAUd9qYz3Z2DYawlTxY2ZtOsRGMfn7g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "COuz7r4M-Wg", "title": "I don't need Firebase anymore! I use Appwrite Cloud Functions" },
     { "id": "RcCFDnq-in4", "title": "How I use AI to Automate Business Tasks with ChatGPT OpenAI" },
     { "id": "N4nX_rTwKx4", "title": "How to integrate OpenAI GPT3 with a Databases - Crash Course" }, 
     { "id": "JTxsNm9IdYU", "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners" }, 
