@@ -106,4 +106,12 @@ tags: ["go", "golang"]
 
 - [Compile-time safety for enumerations in Go](https://vladimir.varank.in/notes/2023/09/compile-time-safety-for-enumerations-in-go)
 
+---
+
+## flak
+
+- [banging errors in go](https://flak.tedunangst.com/post/bango)
+
+---
+
 <TagLinks />

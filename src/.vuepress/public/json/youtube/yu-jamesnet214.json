@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "jamesnet214",
+    "name": "jamesnet",
+    "profile": "https://yt3.googleusercontent.com/plwB-Yh1wdUW07wUsk_218WPDVH55_CcKHnc1wIrJU_pV6VejIOU4qSqkSzkV4HglyeWAQogoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "5Pt-IvEogWU", "title": "[S4 EP1]WPF 스터디 13회 라이브 스트리밍 풀영상  _ WPF INSIDE OUT" },
+    { "id": "2PuvhTEcWAQ", "title": "📘 [WPF 실전 가이드] WPF INSIDE OUT 🎥 실습 영상 | WPF 프로그래밍 국내 서적 💻" }
+  ]
+}

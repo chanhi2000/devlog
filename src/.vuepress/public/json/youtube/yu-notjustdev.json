@@ -6,11 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dZbVOQhf2Xk", "title": "Building a React Native app to find the CHEAPEST flights!" },
+    { "id": "MhuWZVF3Ifs", "title": "Building the Netflix AI Recommendation System with Supabase" },
+    { "id": "rqPpmcThcBk", "title": "Bun 1.0: The Future of Javascript Development?" },
     { "id": "C39WQI4hK2o", "title": "Perfecting the Couples Finance Tracker app | notJust Summer Startup" },
     { "id": "K60hYA9NLTw", "title": "Couples Finance Tracker app Build Process | notJust Summer Startup" },
     { "id": "xWuUY53y0g8", "title": "Building the LinkedIn Backend with GraphQL and Stepzen" },
     { "id": "HlgHeI5bo60", "title": "Building an App from Scratch | The notJust Summer Startup" },
-    { "id": "XbKkKXH-dfc", "title": "Building a Responsive UI with React Native | notJust Summer Startup #1" }
+    { "id": "XbKkKXH-dfc", "title": "Building a Responsive UI with React Native | notJust Summer Startup #1" },
     { "id": "iwgp777Mi54", "title": "Building a StackOverflow Clone: React Native Tutorial for Beginners" }, 
     { "id": "qkJq9gfOMLY", "title": "REST vs GraphQL: The killer API you're not using yet" }, 
     { "id": "Z9TffIGhYAE", "title": "Building a Google Forms Clone with React Native: Form Validation with Zod" }, 

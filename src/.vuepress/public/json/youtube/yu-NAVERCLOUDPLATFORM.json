@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/283rdxDBWTdC-86Rb3uvkVATmI94z9bbUpxUmuB6HM0wFVZMVGgQlbNpaxBtdNyGOtMFMJiZ5Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NrzKkxkh9Ks", "title": "[밍글데이] 9월, 디지털 트윈 완성을 위한 Key, ARC eye 키노트 발표 - 네이버랩스 정영호 님" },
+    { "id": "DO_0tCpHiaI", "title": "[밍글데이] 9월, 디지털 트윈 완성을 위한 Key, ARC eye 키노트 발표 - 네이버랩스 박종진 님" },
+    { "id": "-TqwnSalRcY", "title": "[밍글데이] 9월, 디지털 트윈 완성을 위한 Key, ARC eye 키노트 발표 - 네이버클라우드 최미나 님" },
     { "id": "ahIY2q4jpow", "title": "[Solutions Showcase] WEBFRONT KS를 통한 웹API 보안, 안정성 높은 클라우드 운영 환경 만들기" },
     { "id": "fFjnm8_qFIE", "title": "[Brown-Bag 런치세미나] 메타데이터 통합 및 관리를 서버 없이 클라우드 기반으로! Data Catalog 서비스 소개" },
     { "id": "Y1W9SJXm_T0", "title": "[Solutions Showcase] 개발자와 DevOps를 위한 사용 사례 중심의 NGINX Plus API Gateway" }, 

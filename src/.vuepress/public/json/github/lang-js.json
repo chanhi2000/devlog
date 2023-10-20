@@ -1624,5 +1624,20 @@
     "desc": "The official product docs of daily.dev",
     "officialSite": "https://docs.daily.dev",
     "topics": ["developer-tools", "documentation", "docusaurus", "hacktoberfest", "productivity"]
-  }  
+  }, {
+    "repo": "mkkellogg/GaussianSplats3D",
+    "desc": "Three.js-based implementation of the 3D Gaussian splat viewer",
+    "officialSite": "",
+    "topics": ["gaussian-splatting", "three-js", "threejs", "webgl"]
+  }, {
+    "repo": "nodejs/node",
+    "desc": "Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:",
+    "officialSite": "https://nodejs.org",
+    "topics": ["javascript", "js", "linux", "macos", "mit", "node", "nodejs", "runtime", "windows"]
+  }, {
+    "repo": "Dabble-Studio/3d-to-photo",
+    "desc": "3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine",
+    "officialSite": "",
+    "topics": []
+  }
 ]

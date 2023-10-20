@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Her_blTJiPA", "title": "MVC in .NET 8 | Use Static Repository for Data Storage | Ep 12" },
+    { "id": "KnwT4shy3K8", "title": "MVC in .NET 8 | Use Controller-Model-View triangle to implement a page | Ep 13" },
     { "id": "bYcMZOqtPcs", "title": "MVC in .NET 8 | Handle Requests with Controllers | Ep 5" },
     { "id": "P8Xk50RGMiI", "title": "MVC in .NET 8 | Render HTML with Views | Ep 6" },
     { "id": "rEOzUa2v2VM", "title": "MVC in .NET 8 | Pass Model class to views | Ep 8" },

@@ -2998,5 +2998,10 @@
     "desc": "Develop advanced RAG workflow powered by LLM, partially compatible with Langchain",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Planetary-Computers/autotab-starter",
+    "desc": "Boring AI Agents for real world tasks",
+    "officialSite": "https://autotab.com",
+    "topics": ["agent", "ai", "automation", "browser"]
   }
 ]

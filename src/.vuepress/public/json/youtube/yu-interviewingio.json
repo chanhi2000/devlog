@@ -2,9 +2,11 @@
   "channel": {
     "id": "interviewingio",
     "name": "interviewing.io",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMmtD_YviZddZJEQ3ZP4S5tsSOVpsKQ4EK4mLlxHw=s176-c-k-c0x00ffffff-no-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMmtD_YviZddZJEQ3ZP4S5tsSOVpsKQ4EK4mLlxHw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PESRtR6wxlVFTaktX6Nf6sADbzDUFmLDjn6iNXh4dXYVy3nnjhnztmZCQovrGQlN8LbKnQHk=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AfkWaDALUsM", "title": "Banking Ledger: System Design Interview with a senior FAANG Engineer" },
     { "id": "fVOEYvquKBI", "title": "Harmful Content Removal: Machine Learning (System Design) Staff Level Mentorship" },
     { "id": "j8gRw3wI_Jc", "title": "Design Facebook Timeline Service: System Design Interview with a Facebook Engineer" }, 
     { "id": "FVzlY9cm-A0", "title": "Java interview with an Apple engineer: Max contiguous subarray" }, 
@@ -12,5 +14,3 @@
     { "id": "cdCeU8DJvPM", "title": "Missing item list difference: Python interview with an Airbnb engineer" }
   ]
 }
-
-

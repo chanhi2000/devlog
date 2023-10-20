@@ -784,6 +784,11 @@
     "desc": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
     "officialSite": "http://cataclysmdda.org",
     "topics": ["c-plus-plus", "cataclysm", "game", "hacktoberfest", "zombies"]
+  }, {
+    "repo": "Alex313031/thorium",
+    "desc": "Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.",
+    "officialSite": "https://thorium.rocks",
+    "topics": ["aes", "avx", "avx-instructions", "chrome", "chrome-devtools", "chromedriver", "chromium", "chromium-browser", "content-shell", "jpeg-xl", "jpegxl", "jxl", "libjxl", "linux", "thorium", "thorium-browser", "thoriumos", "web-browser", "web-platform", "webbrowser"]
   }
 ]
 

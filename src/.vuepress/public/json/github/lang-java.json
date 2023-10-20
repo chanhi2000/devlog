@@ -464,6 +464,11 @@
     "desc": "A blazing fast multi-language serialization framework powered by jit and zero-copy",
     "officialSite": "https://furyio.org",
     "topics": ["compression", "cpp", "cross-language", "encoding", "fast", "golang", "hacktoberfest", "java", "javascript", "jit", "lightning", "marshalling", "multiple-language", "persistence", "python", "rpc", "rust", "serialization", "transfer", "zero-copy"]
+  }, {
+    "repo": "Azure/azure-sdk-for-java",
+    "desc": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. ",
+    "officialSite": "",
+    "topics": ["azure", "azure-resources", "azure-sdk", "azure-services", "hacktoberfest", "java", "media"]
   }
 ]
 

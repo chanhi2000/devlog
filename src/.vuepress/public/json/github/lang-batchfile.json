@@ -19,5 +19,10 @@
     "desc": "你可以把它称为：联合副驾驶。",
     "officialSite": "https://cocopilot.org",
     "topics": ["copilot"]
+  }, {
+    "repo": "Alex313031/Thorium-Win",
+    "desc": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
+    "officialSite": "https://thorium.rocks",
+    "topics": ["avx", "chrome", "chromedriver", "chromium", "chromium-browser", "content-shell", "thorium", "thorium-browser", "web-browser", "web-platform", "webbrowser", "windows"]
   }
 ]

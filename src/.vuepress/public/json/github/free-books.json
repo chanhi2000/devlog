@@ -74,5 +74,10 @@
     "desc": "📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro-ims.netlify.app.",
     "officialSite": "https://openintro-ims2.netlify.app",
     "topics": ["bootstrap-confidence-intervals", "inference", "modern-statistics", "openintro", "rstats", "simulation", "statistics"]
+  }, {
+    "repo": "ByteByteGoHq/system-design-101",
+    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "officialSite": "https://blog.bytebytego.com",
+    "topics": ["aws", "cloud-computing", "coding-interviews", "computer-science", "interview-questions", "software-architecture", "software-development", "software-engineering", "system-design", "system-design-interview"]
   }
 ]

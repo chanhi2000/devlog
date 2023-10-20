@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "WebsiteLearners",
+    "name": "Website Learners",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYD2DbsCwRIQMxpcYBU3HPt374-5EnPYg_vUUzC=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZDs3OeDYjEq9znzdc1nqREW7X9k3oKeIjGmaHumxEVZ3y82beq5lk9RXlXuzr1ftu-frP_BG=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EsRyyJmO-u8", "title": "How ChatGPT Built My App in Minutes 🤯" }
+  ]
+}

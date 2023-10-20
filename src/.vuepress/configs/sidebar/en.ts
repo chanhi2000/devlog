@@ -886,6 +886,12 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-swiftui-by-example/README.md',
       ]
     }, {
+      text: '🕊️Kodeco - Swift',
+      collapsible: true,
+      children: [
+        '/crashcourse/kodeco-swift/README.md'
+      ]
+    }, {
       text: '🔺Red Hat Container Tools',
       collapsible: true,
       children: [
@@ -936,6 +942,17 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/effective-java/11-serialization.md'
       ]
     }, {
+      text: '☕️Jump to Spring Boot',
+      collapsible: true,
+      children: [
+        '/crashcourse/java-jump-to-spring-boot/README.md',
+        '/crashcourse/java-jump-to-spring-boot/01.md',
+        '/crashcourse/java-jump-to-spring-boot/02.md',
+        '/crashcourse/java-jump-to-spring-boot/03.md',
+        '/crashcourse/java-jump-to-spring-boot/04.md',
+        '/crashcourse/java-jump-to-spring-boot/a.md',
+      ]
+    }, {
       text: '🅺Kodeco - Android & Kotlin',
       collapsible: true,
       children: [
@@ -944,10 +961,22 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-kotlin-android/523-augmented-reality-in-android-with-google-s-face-api.md',
       ]
     }, {
-      text: '🕊️Kodeco - Swift',
+      text: '🐍Finance with Python',
       collapsible: true,
       children: [
-        '/crashcourse/kodeco-swift/README.md'
+        '/crashcourse/py-finance-w-python/README.md',
+        '/crashcourse/py-finance-w-python/01.md',
+        '/crashcourse/py-finance-w-python/02.md',
+        '/crashcourse/py-finance-w-python/03.md',
+        '/crashcourse/py-finance-w-python/04.md',
+        '/crashcourse/py-finance-w-python/05.md',
+        '/crashcourse/py-finance-w-python/06.md',
+        '/crashcourse/py-finance-w-python/07.md',
+        '/crashcourse/py-finance-w-python/08.md',
+        '/crashcourse/py-finance-w-python/09.md', 
+        '/crashcourse/py-finance-w-python/10.md', 
+        '/crashcourse/py-finance-w-python/11.md', 
+        '/crashcourse/py-finance-w-python/12.md', 
       ]
     }, {
       text: '🦊freecodecamp.org - DevOps with GitLab CI',

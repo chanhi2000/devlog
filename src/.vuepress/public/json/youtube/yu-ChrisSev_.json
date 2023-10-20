@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ChrisSev_",
+    "name": "Chris Sev",
+    "profile": "https://yt3.googleusercontent.com/SEwLdPscArxK8emoWrQv72F0zbSLilPfGMSvuO8zV83mHwhr1yypeaup5g2qd7Hh6ZHyaWdrvg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "86old-KflMU", "title": "Using Tailwind CSS Flexbox Classes" },
+    { "id": "4XlufQ8Mygw", "title": "Recreating the Docker Pricing Page with Tailwind" }
+  ]
+}

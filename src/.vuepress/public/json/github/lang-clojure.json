@@ -29,5 +29,10 @@
     "desc": "Penpot - The Open-Source design & prototyping platform",
     "officialSite": "https://penpot.app",
     "topics": ["clojure", "clojurescript", "design", "prototyping", "ui", "ux-design", "ux-experience"]
+  }, {
+    "repo": "imteekay/programming-language-research",
+    "desc": "Programming Language Research, Applied PLT & Compilers",
+    "officialSite": "https://iamtk.co/tags/programming-language-design",
+    "topics": ["compiler", "compiler-design", "plt", "programming-language-theory", "programming-languages-design"]
   }
 ]

@@ -17,6 +17,6 @@ description: 🗡Vim
 ## Table of Contents
 
 - [🏔NeoVim](neovim.md)
-- [🕶️Github](gitub.md)
+- [🕶️Github](github.md)
 - [📚References](references.md)
 - [📺Youtube](youtube.md)

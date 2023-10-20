@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "webdecoded",
+    "name": "webdecoded",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa7gukQX5cToJczaWnzihSJEJcIw3uLmvwRiu6A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/W24nrbMLN3nbCDWSKpdiMM9XS27WOhVwtNPNRduliX1jL33hls7aB8kOMUo-VnkEaJorBg_GSw0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Kb1f5bvF6f4", "title": "NextJs Portfolio Tutorial - Build a Responsive Portfolio Website w/ Advanced Animations (2023)" },
+    { "id": "hYv6BM2fWd8", "title": "React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations" },
+    { "id": "7ZwTf-Z5dco", "title": "NextJs Tutorial - Build a Full-Stack Blog App w/ TypeScript, Tailwind, Neobrutalism-inspired" }
+  ]
+}

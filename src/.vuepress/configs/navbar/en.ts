@@ -92,7 +92,7 @@ export const navbarEn: NavbarConfig = [
           }          
         ]
       }, {
-        text: '☕️Java / 🅺Kotlin',
+        text: '☕️Java / 🅺Kotlin / 🍃Spring',
         children: [
           {
             text: '☕️Java8 in Action',
@@ -103,9 +103,20 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: '🅺Kodeco - Android & Kotlin',
             link: '/crashcourse/kodeco-kotlin-android/README.md'
+          }, {
+            text: '🍃Jump to Spring Boot',
+            link: '/crashcourse/java-jump-to-spring-boot/README.md',
           }
         ]
       }, {
+        text: 'Python',
+        children: [
+          {
+            text: '🐍Finance with Python',
+            link: '/crashcourse/py-finance-w-python/README.md',
+          }
+        ]
+      },{
         text: 'DevOps',
         children: [
           {

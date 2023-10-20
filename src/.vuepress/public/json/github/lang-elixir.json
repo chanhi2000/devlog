@@ -24,5 +24,10 @@
     "desc": "Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.",
     "officialSite": "https://electric-sql.com",
     "topics": ["crdt", "crdts", "elixir", "local-first", "offline", "postgres", "sql", "sqlite"]
+  }, {
+    "repo": "atomvm/ExAtomVM",
+    "desc": "Build Elixir projects for your microcontroller",
+    "officialSite": "",
+    "topics": []
   }
 ]

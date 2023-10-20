@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/9BCeBFuI8LqoAS9rWKmAZIAy4bMn7zFQaa6WqOoezPiyNf_sJ4Dd_Tut0WvwSkFJTff2RXwxG9g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Cs2j-Rjqg94", "title": "Is Docker Still Relevant?" },
+    { "id": "qmpUfWN7hh4", "title": "HTTP Status Codes Explained In 5 Minutes" },
     { "id": "dBmxNsS3BGE", "title": "Top 6 Load Balancing Algorithms Every Developer Should Know" },
     { "id": "JTp0TY_2hXM", "title": "Amazon Prime Video Ditches AWS Serverless, Saves 90%" }, 
     { "id": "4vLxWqE94l4", "title": "Top 6 Most Popular API Architecture Styles" }, 
@@ -18,4 +20,3 @@
     { "id": "TlHvYWVUZyc", "title": "Kubernetes Explained in 6 Minutes | k8s Architecture" }
   ]
 }
-

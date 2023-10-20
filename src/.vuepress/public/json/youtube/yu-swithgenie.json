@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "swithgenie",
+    "name": "스윗지니",
+    "profile": "https://yt3.googleusercontent.com/OovEYltjmDGDpzVL_UjAGuh5Z54DOK5DNt27ydCTFax7lfiQ6Yuy6lxo8Q5j3DSbCIX6jZrMTQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S0noOcOOypAijYzxNGBQrPqOETHyO6p7JHR87yBSZhrLKX6et18RUnK2hYCmaCMoAqy9G2AIIA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Gwn2iDpX9gE", "title": "[톡윗지니] Ep.05 코딩 테스트 어떻게 준비할까" },
+    { "id": "FABOOcwVhKA", "title": "[파이썬 기초 Feat.코딩테스트] 정렬 알아보기" },
+    { "id": "FXYLYOXDkxg", "title": "[톡윗지니] Ep.06 신입 개발자로서 좋은 회사 판단하기" }
+  ]
+}

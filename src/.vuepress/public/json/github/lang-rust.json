@@ -764,6 +764,11 @@
     "desc": "Monitor your system resources and processes",
     "officialSite": "",
     "topics": ["gnome", "gtk", "libadwaita", "rust", "system-monitor"]
+  }, {
+    "repo": "exein-io/pulsar",
+    "desc": "A modular and blazing fast runtime security framework for the IoT, powered by eBPF.",
+    "officialSite": "https://pulsar.sh",
+    "topics": ["ebpf", "kernel", "linux", "rust", "security"]
   }
 ]
 

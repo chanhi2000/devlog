@@ -122,9 +122,9 @@ echo -n 'dop_v1_4321...' | base64
 
 This output is your base-64 encoded access token. Copy this because you’ll be using it next.
 
-Using `nano` or your favorite editor, create and open a new file called <FontIcon icon="iconfont icon-file"/>`lets-encrypt-do-dns.yaml`:
+Using `nano` or your favorite editor, create and open a new file called <FontIcon icon="iconfont icon-yaml"/>`lets-encrypt-do-dns.yaml`:
 
-### <FontIcon icon="iconfont icon-file"/>`tutorial-cluster-config/ltutorial-cluster-config/lets-encrypt-do-dns.yaml`
+### <FontIcon icon="iconfont icon-yaml"/>`tutorial-cluster-config/ltutorial-cluster-config/lets-encrypt-do-dns.yaml`
 
 ```yml
 apiVersion: v1
@@ -147,7 +147,7 @@ kubectl apply -f lets-encrypt-do-dns.yaml
 # secret/lets-encrypt-do-dns created
 ```
 
-Now, create a new file named <FontIcon icon="iconfont icon-file"/>`lets-encrypt-issuer.yaml` to contain cert-manager’s `ClusterIssuer`, which you’ll use to issue your Let’s Encrypt certificates:
+Now, create a new file named <FontIcon icon="iconfont icon-yaml"/>`lets-encrypt-issuer.yaml` to contain cert-manager’s `ClusterIssuer`, which you’ll use to issue your Let’s Encrypt certificates:
 
 ```sh
 nano lets-encrypt-issuer.yaml
@@ -232,7 +232,7 @@ echo -n 'dop_v1_4321...' | base64
 
 This output is your base-64 encoded access token. Copy this because you’ll be using it next.
 
-Using `nano` or your favorite editor, create and open a new file called <FontIcon icon="iconfont icon-file"/>`lets-encrypt-do-dns.yaml`:
+Using `nano` or your favorite editor, create and open a new file called <FontIcon icon="iconfont icon-yaml"/>`lets-encrypt-do-dns.yaml`:
 
 ```sh
 nano lets-encrypt-do-dns.yaml
@@ -240,7 +240,7 @@ nano lets-encrypt-do-dns.yaml
 
 Add the following code to create a Kubernetes `Secret`. Be sure to use your base-64 encoded access token in the `access-token` field:
 
-### <FontIcon icon="iconfont icon-file"/>`tutorial-cluster-config/ltutorial-cluster-config/lets-encrypt-do-dns.yaml`
+### <FontIcon icon="iconfont icon-yaml"/>`tutorial-cluster-config/ltutorial-cluster-config/lets-encrypt-do-dns.yaml`
 
 ```yml
 apiVersion: v1
@@ -263,11 +263,11 @@ kubectl apply -f lets-encrypt-do-dns.yaml
 # secret/lets-encrypt-do-dns created
 ```
 
-Now, create a new file named <FontIcon icon="iconfont icon-file"/>`lets-encrypt-issuer.yaml` to contain cert-manager’s `ClusterIssuer`, which you’ll use to issue your Let’s Encrypt certificates:
+Now, create a new file named <FontIcon icon="iconfont icon-yaml"/>`lets-encrypt-issuer.yaml` to contain cert-manager’s `ClusterIssuer`, which you’ll use to issue your Let’s Encrypt certificates:
 
 Add the following lines, entering your email address in the `spec.acme.email` field (this is the address Let’s Encrypt will associate with the certificates it provides):
 
-### <FontIcon icon="iconfont icon-file"/>`tutorial-cluster-config/lets-encrypt-issuer.yaml`
+### <FontIcon icon="iconfont icon-yaml"/>`tutorial-cluster-config/lets-encrypt-issuer.yaml`
 
 ```yml
 apiVersion: cert-manager.io/v1

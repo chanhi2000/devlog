@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "avlo7ZzEaAc", "title": "Fooled by the Website Carbon Calculator" },
+    { "id": "_mZddN0Up2o", "title": "`qaul` - Resilient Communication during Blackouts & Internet Shutdowns" },
     { "id": "HMivI2zm7N0", "title": "Meshenger" },
     { "id": "0jLEWyM6Za8", "title": "The magic behind \"one-click\" deployments" },
     { "id": "c4wS9n7yilA", "title": "Read and Manipulate Network Traffic on Android with mitmproxy" },

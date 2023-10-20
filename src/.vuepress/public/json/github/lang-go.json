@@ -904,5 +904,25 @@
     "desc": "Create beautiful system diagrams with Go",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "devfullcycle/imersao15",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "trufflesecurity/trufflehog",
+    "desc": "Find and verify credentials",
+    "officialSite": "https://trufflesecurity.com",
+    "topics": ["credentials", "devsecops", "dynamic-analysis", "hacktoberfest", "precommit", "scanning", "secret", "secret-management", "secrets", "security", "security-tools", "trufflehog", "verification"]
+  }, {
+    "repo": "brimdata/zed",
+    "desc": "A novel data lake based on super-structured data",
+    "officialSite": "https://zed.brimdata.io",
+    "topics": []
+  }, {
+    "repo": "brimdata/brimcap",
+    "desc": "Convert pcap files into richly-typed ZNG summary logs (Zeek, Suricata, and more)",
+    "officialSite": "",
+    "topics": ["brim-desktop", "pcap", "suricata", "zeek"]
   }
 ]

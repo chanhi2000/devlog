@@ -1568,5 +1568,35 @@
     "desc": "The best way to start a full-stack, typesafe Next.js app ",
     "officialSite": "https://create.t3.gg",
     "topics": ["cli", "create-t3-app", "hacktoberfest", "next-auth", "nextjs", "npx", "prisma", "t3", "t3-stack", "tailwindcss", "trpc", "typescript"]
+  }, {
+    "repo": "OpenBMB/XAgent",
+    "desc": "An Autonomous LLM Agent for Complex Task Solving",
+    "officialSite": "https://blog.x-agent.net/blog/xagent",
+    "topics": []
+  }, {
+    "repo": "ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "officialSite": "https://ionicframework.com",
+    "topics": ["angular", "capacitor", "framework", "frontend", "ionic", "ios", "javascript", "material-design", "mobile", "pwa", "react", "stencil", "stenciljs", "typescript", "vue", "web", "webcomponents"]
+  }, {
+    "repo": "felipemotarocha/fullstackweek-store",
+    "desc": "",
+    "officialSite": "https://fullstackweek-store.vercel.app",
+    "topics": []
+  }, {
+    "repo": "nextauthjs/next-auth",
+    "desc": "Authentication for the Web.",
+    "officialSite": "https://authjs.dev",
+    "topics": ["auth", "authentication", "csrf", "jwt", "nextauth", "nextjs", "nodejs", "nuxt", "nuxt-auth", "oauth", "oauth2", "oidc", "react", "remix-auth", "solid-auth", "solidjs", "sveltekit", "web"]
+  }, {
+    "repo": "cloudflare/workers-sdk",
+    "desc": "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®",
+    "officialSite": "https://developers.cloudflare.com/workers",
+    "topics": ["cli", "cloudflare", "cloudflare-workers", "javascript", "serverless", "wasm"]
+  }, {
+    "repo": "brimdata/zui",
+    "desc": "Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.",
+    "officialSite": "https://www.brimdata.io/download",
+    "topics": ["csv", "data", "data-analytics", "data-viz", "data-wrangling", "electron-app", "json-inspector", "keyword-search", "super-structured-data", "table-view", "type-system", "zed", "zng", "zq", "zui"]
   }
 ]

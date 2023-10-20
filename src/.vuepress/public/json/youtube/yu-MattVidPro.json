@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "MattVidPro",
+    "name": "MattVidPro AI",
+    "profile": "https://yt3.googleusercontent.com/6hm4uJkBSXV9WuqrXUG8XGZ1qkr06D3aEmuWlduisswqTAUvveXIjA1I1uuZ8MoEA10X-OUf1So=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tGrQGozbvPVb_qeir2A_4q4YQVo8zC1G8glS_LuliDo1CQU3FKnf2SpcS4XIu8WRQVcsrVI3=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UUsBTHulFIc", "title": "GPT-4 Vision Access in ChatGPT! Full Tour & Impressive Results!" },
+    { "id": "k8H5V_0xcNo", "title": "Does DALL-E 3 Have Competition? Open Source GPT-4 Vision & more! | AI NEWS" }    
+  ]
+}

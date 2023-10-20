@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mVRhgze0gGU", "title": "Amazon ECS: ECS Capacity Provider Overview | Amazon Web Services" },
+    { "id": "G3DjBRaWWsw", "title": "Introducing Db2 Warehouse on AWS | Amazon Web Services" },
+    { "id": "odpAJ8QKU3k", "title": "Netezza Performance Server on AWS | Amazon Web Services" },
+    { "id": "8L97KvQqzI8", "title": "IBM watsonx.data on AWS | Amazon Web Services" },
+    { "id": "bRKLmypWIqE", "title": "How a URL Shortener Works and How to Build One | Amazon Web Services" },
     { "id": "COaWyScya6M", "title": "Amazon ECS: Amazon CloudWatch Container Insights | Amazon Web Services" },
     { "id": "E5qjYTxVKvw", "title": "Amazon ECS: CI/CD - AWS CodePipeline | Amazon Web Services" },
     { "id": "OMbob_ef7J4", "title": "Using Active Directory as an identity source for AWS IAM Identity Center | Amazon Web Services" },

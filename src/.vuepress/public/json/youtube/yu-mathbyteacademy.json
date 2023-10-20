@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "mathbyteacademy",
+    "name": "MathByte Academy",
+    "profile": "https://yt3.googleusercontent.com/d-0WMhKLug6f3paDV3QfDB9hmjb7SNZqlYllMXCszd39TnWAWAgnJ6ShKoI0YFY50iOJ6XQiSQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TApmzNskaydDlyhXx1t7j7URhFUzIX5MufCihuJIRTVLym_pHqymT6X1O-b4WyQKx4K14N7d=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4yUXPZGhIX8", "title": "Pydantic: Migrating from V1 to V2" }
+  ]
+}

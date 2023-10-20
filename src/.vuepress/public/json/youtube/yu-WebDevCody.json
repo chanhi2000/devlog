@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kDUUV2IAsYc", "title": "How I implement a credit systems using stripe" },
     { "id": "6UFLk7kuAHU", "title": "What are my thoughts on Bun?" },
     { "id": "mbiHPHT1FQs", "title": "What services might you need when building a SaaS product?" },
     { "id": "yhrW85ITN4g", "title": "What I like to do to solve harder problems" },

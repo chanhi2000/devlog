@@ -6,8 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/2YKoAc8QiPqg0XS8i_LPPEeAd2I4v_Q1cfNSyXdQnFQNRlFq-IWHrMBWG0UWHjcChaZKFD1m1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ipjl49Hgsg8", "title": "Apache POI Tutorial Part1 - How To Read Data From Excel #ApachePOI" },
     { "id": "ePy0Xl-JpRg", "title": "Playwright with Javascript | How To Create and Run Tests | Part 3" },
-    { "id": "jLHIzSH4rGg", "title": "Playwright with Javascript | Hard Assertions vs Soft Assertions | Part 8" }
+    { "id": "jLHIzSH4rGg", "title": "Playwright with Javascript | Hard Assertions vs Soft Assertions | Part 8" },
     { "id": "ePy0Xl-JpRg", "title": "Playwright with Javascript | How To Create and Run Tests | Part 3" }, 
     { "id": "OM4mr3PKgcQ", "title": "Session 1: API Testing | RestAssured | Introduction | Environment Setup | HTTP Methods" }, 
     { "id": "rHeoPN-enCI", "title": "Session 6: API Testing | Postman | API Chaining" }, 
