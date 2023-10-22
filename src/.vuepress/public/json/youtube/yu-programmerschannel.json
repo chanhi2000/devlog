@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "programmerschannel",
+    "name": "programmers",
+    "profile": "https://yt3.googleusercontent.com/kBwdquJ4YdeOtMTmKOuG7av5PbvpSECk-3TJ8RQv0Psj9gzV-mzhAy2goGRBWCs4lK4D6zrG=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/twTeDUMULl9flEd4o7odYNQ5ZvS4SOkznvixW3wvoMaJQWCfgAMpxyf7Qot2ZchT4xXgoUFhkf0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cU4QHW5kbbI", "title": "프로그래머스 데브코스 : 데이터 분석 온라인 라이브 설명회 | 국비 지원 무료 부트캠프" }
+  ]
+}

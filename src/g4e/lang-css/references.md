@@ -63,6 +63,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## DZone 
+
+- [Best 15 CSS Trends To Watch For](https://dzone.com/articles/best-15-css-trends-to-watch-for)
+
+---
+
 ## Google Chrome
 
 - [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
@@ -194,6 +200,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 ## Bram.us
 
 - [The Future of CSS: Easy Light-Dark Mode Color Switching with `light-dark()`](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark)
+
+---
+
+## CSS in Real Life
+
+- [Cool Tools](https://css-irl.info/cool-tools)
 
 ---
 

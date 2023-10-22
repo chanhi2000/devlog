@@ -421,7 +421,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-HackerSploit]: https://www.youtube.com/@HackerSploit
 [yu-master-liu]: https://www.youtube.com/@masterliu1892
 [yu-eBuzz-central]: https://www.youtube.com/@eBuzzCentral
-[yu-lukemiani]: https://www.youtube.com/@lukemiani
 [yu-gbjxc]: https://www.youtube.com/@gbjxc
 [yu-gwigom]: https://www.youtube.com/@gwigom
 [yu-adamMc331]: https://www.youtube.com/@AdamMc331

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/EcHW5S3sGt3ZXqTr37DzLnAkJ2mfATbmJxsxOAqmwwUTeGSYgkPG9DI6S5naZo7MTfqB54Y1G-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2BoVhej0QVI", "title": "Deploy a Web Application Using Elastic Beanstalk (New Version of UI) | AWS Tutorial for Beginners" },
     { "id": "7m_q1ldzw0U", "title": "AWS Project - Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step" },
     { "id": "kdlIZkjxZhA", "title": "Command Line with Blinking Cursor Animation Effect in PowerPoint | Green and Black Computer Console" },
     { "id": "KPnKvvkte6g", "title": "Automatically Start and Stop EC2 Instances with AWS Instance Scheduler" }

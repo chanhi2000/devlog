@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/yJ8Dn0VDBvVLtUM5slfVfKy3R_Vo_TliGJ1N0YQ1LVd-1y2iqfx0UvVk4UJhrYUb81o1IMljsNk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1tkVjBxdGrk", "title": "Gestures in Jetpack Compose" },
     { "id": "kdwofTaEHrs", "title": "Jetpack Compose: Testing" }, 
     { "id": "FWxeDqM_WIU", "title": "Android Code-Along: Kotlin coroutines" }, 
     { "id": "6manrgTPzyA", "title": "Android Coroutines: How to manage async tasks in Kotlin" }, 

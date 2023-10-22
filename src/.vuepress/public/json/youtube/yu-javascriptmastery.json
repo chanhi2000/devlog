@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/kvYtOOlIxxS5m5nZ7d3EVznB86-hmUlCq-0s_TJHt1uS8eehxj-wEV1aU6vQcFtiQoPAqdQ-=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cuzw4vL1z5E", "title": "Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind" },
     { "id": "3WCIyNOrzwM", "title": "Build and Deploy the Official JSM Platform with Next 13| How I Made My Website Load in 0.364 Seconds" },
     { "id": "lh9XVGv6BHs", "title": "Web Scraping Full Course 2023 | Build and Deploy eCommerce Price Tracker" },
     { "id": "O5cmLDVTgAs", "title": "Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB" },

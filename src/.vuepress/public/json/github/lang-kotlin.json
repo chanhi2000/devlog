@@ -120,5 +120,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "konigsoftware/konig-kontext",
+    "desc": "A globally shared, request scoped, context for JVM based gRPC microservices",
+    "officialSite": "",
+    "topics": ["grpc", "grpc-java", "grpc-kotlin", "java", "kotlin", "microservices", "protobuf"]
   }
 ]

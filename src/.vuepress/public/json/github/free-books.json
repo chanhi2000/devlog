@@ -89,5 +89,10 @@
     "desc": "Smart contract audit skills roadmap for beginners, auditors, engineers, etc.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ZachGoldberg/Startup-CTO-Handbook",
+    "desc": "The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams",
+    "officialSite": "https://ctohb.com",
+    "topics": []
   }
 ]

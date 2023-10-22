@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/An4uUTBwPeyV3s8sZsHpCxL_TQnq5srpBG4VZ8JK_-_Y_WZZeGdaTFt_lpr7bjjk6Qesymxw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eJXVEju3XLM", "title": "The TSConfig Cheat Sheet" },
     { "id": "6_JNPmjSevo", "title": "The Biggest JavaScript Divide" },
     { "id": "ZL3z1oBZntk", "title": "TypeScript Performance with Aleksandra Sikora" },
     { "id": "6F9m-938_1s", "title": "String Literals are GREAT" },

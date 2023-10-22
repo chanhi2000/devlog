@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "michael_tunnell",
+    "name": "Michael Tunnell",
+    "profile": "https://yt3.googleusercontent.com/PeDOktXcJOT3eJF0nb-yEV9Iizr4JVlWaX-aTkiRUnz02FcCAGsrgMbXQBggHgBShVNTCHN67N4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VGzSeHWmxGjNbCIpS8CGSUp99E2D1obWoSJnFnSzQV7yH4JKdzGRutzcmVyNEg2FWT7V86oEeUo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "E5qyNr6k2lY", "title": "Ubuntu 23.10, System76, Microsoft's Linux Tutorial, GNOME Removing Xorg & more Linux news" }
+  ]
+}

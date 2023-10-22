@@ -24,5 +24,10 @@
     "desc": "Optimized Solidity snippets.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "officialSite": "https://eips.ethereum.org/",
+    "topics": []
   }
 ]

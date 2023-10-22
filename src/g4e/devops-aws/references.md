@@ -28,6 +28,7 @@ tags: ["aws", "amazon", "amazon-web-service"]
 ## Medium
 
 - [Automate CloudWatch Logs Export to S3 using Lambda and Event Bridge](https://awstip.com/automate-cloudwatch-logs-export-to-s3-using-lambda-and-event-bridge-8748fedadeb9)
+- [Apache Web Server utilizing AWS CentOS Server](https://aws.plainenglish.io/apache-web-server-utilizing-aws-centos-server-bd5538afabd8)
 
 ---
 

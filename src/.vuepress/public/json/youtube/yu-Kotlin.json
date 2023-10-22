@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rDxaMLatIr4", "title": "Service Mesh for Kotlin Developers" },
     { "id": "rudqlGRrWYY", "title": "Making Multiplatform Better | Talking Kotlin #125" },
     { "id": "Mgf_9kxM1BA", "title": "You can do desktop too! by Victor Kropp" },
     { "id": "5_W5YKPShZ4", "title": "Build an iOS & Android app in 100% Kotlin with Compose Multiplatform" },

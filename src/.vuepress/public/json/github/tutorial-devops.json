@@ -49,5 +49,15 @@
     "desc": "OT security monitoring #nsacyber",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ByteByteGoHq/system-design-101",
+    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "officialSite": "https://blog.bytebytego.com",
+    "topics": ["aws", "cloud-computing", "coding-interviews", "computer-science", "interview-questions", "software-architecture", "software-development", "software-engineering", "system-design", "system-design-interview"]
+  }, {
+    "repo": "ByteByteGoHq/ml-bytebytego",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

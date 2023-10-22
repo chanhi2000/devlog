@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/o69213Wa6chjff2xs9ysFDw0UDXKSd0Q2Si5F6dJSDnP1srSfXOLSSbpIkKD6g-pXXWx5TDJGw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5MKw-wOpJR8", "title": "My Tailwind Journey" },
     { "id": "FLQVIiaNeSk", "title": "Svelte 5 Surprised Me" },
     { "id": "LwjlcKcyUkY", "title": "Unity Finally Acknowledged Their Mistakes" },
     { "id": "wYdnJPYFTIE", "title": "JS Devs Deserve Better" },

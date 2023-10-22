@@ -760,9 +760,9 @@
     "officialSite": "https://llava.hliu.cc"
   }, {
     "repo": "Vision-CAIR/MiniGPT-4",
-    "desc": "",
-    "topics": [],
-    "officialSite": "https://minigpt-4.github.io"
+    "desc": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2",
+    "officialSite": "https://minigpt-4.github.io",
+    "topics": []
   }, {
     "repo": "facebookresearch/dinov2",
     "desc": "PyTorch code and models for the DINOv2 self-supervised learning method.",
@@ -3028,5 +3028,40 @@
     "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "officialSite": "",
     "topics": ["ai", "deep-learning", "pytorch", "speech", "text-to-speech", "tts"]
+  }, {
+    "repo": "JonathonLuiten/Dynamic3DGaussians",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "OpenTalker/video-retalking",
+    "desc": "[SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild",
+    "officialSite": "https://opentalker.github.io/video-retalking",
+    "topics": ["lip-synchronization", "siggraph-asia-2022", "talking-head-videos", "video-editing"]
+  }, {
+    "repo": "mipmip/inkscape-cloud-architect",
+    "desc": "Make Inkscape a professional Cloud Visualization Studio for Cloud Architects",
+    "officialSite": "",
+    "topics": ["architect", "aws", "devops", "inkscape"]
+  }, {
+    "repo": "bugen/pypipe",
+    "desc": "Python pipe command line tool",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "EleutherAI/math-lm",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "rupeshs/fastsdcpu",
+    "desc": "Fast stable diffusion on CPU",
+    "officialSite": "",
+    "topics": ["cpu", "diffuser", "diffusion", "fast", "latentconsistencymodels", "lcmdiffusion", "stablediffusion"]
+  }, {
+    "repo": "sqlmapproject/sqlmap",
+    "desc": "Automatic SQL injection and database takeover tool",
+    "officialSite": "http://sqlmap.org",
+    "topics": ["database", "detection", "exploitation", "pentesting", "python", "sql-injection", "sqlmap", "takeover", "vulnerability-scanner"]
   }
 ]

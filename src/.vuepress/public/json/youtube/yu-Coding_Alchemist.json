@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Coding_Alchemist",
+    "name": "코딩 연금술사",
+    "profile": "https://yt3.googleusercontent.com/rgKwVewBQB7wtEAhgbTk7rSfUKHUzwQ9QtQCs-bS9WG8gMmFedgzrAg0nPBV-9r8abbgjosN=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wiUW1jD-OJAOPyjJ8-VTSg5ex08kkgymxuGqI-Q56AmI_rDxL2ZsmVaK6UQqTXWrCr-3NfCq-g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Wleg4KFPUFQ", "title": "[파이썬 응용] 대박!! 선택한 물체를 저세상 정밀도로 추적하는 극비기술 완전 공개 : OpenCV를 활용하여 단 10분만에  객체추적 완벽 구현!! Simple And Easy" },
+    { "id": "QVrMHi3qlio", "title": "[파이썬 응용] 파이썬 기초 문법만으로 영어단어 맞추기 게임 만들기 : 파이썬 고전 게임 만들기 시리즈 1편" }
+  ]
+}

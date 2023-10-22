@@ -19,5 +19,10 @@
     "desc": "Simple and Distributed Machine Learning",
     "officialSite": "http://aka.ms/spark",
     "topics": ["microsoft", "http", "opencv", "data-science", "machine-learning", "scala", "big-data", "ai", "spark", "apache-spark", "deep-learning", "azure", "ml", "pyspark", "lightgbm", "cognitive-services", "databricks", "synapse", "model-deployment", "onnx"]
+  }, {
+    "repo": "lichess-org/lila",
+    "desc": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "officialSite": "https://lichess.org",
+    "topics": ["chess", "free-software", "functional-programming", "game", "lichess", "non-profit", "play-framework", "scala", "type-safe", "typescript"]
   }
 ]

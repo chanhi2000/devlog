@@ -401,9 +401,9 @@
     "topics": ["game", "modding", "discord", "sandbox", "source", "cryengine", "full", "farcry", "modding-games", "farcry1"]
   }, {
     "repo": "official-stockfish/Stockfish",
-    "desc": "UCI chess engine",
-    "officialSite": "http://www.stockfishchess.com",
-    "topics": []
+    "desc": "A free and strong UCI chess engine",
+    "officialSite": "https://stockfishchess.org",
+    "topics": ["chess", "chess-engine", "cpp", "stockfish", "uci"]
   }, {
     "repo": "li-plus/chatglm.cpp",
     "desc": "C++ implementation of ChatGLM-6B & ChatGLM2-6B",
@@ -785,6 +785,16 @@
     "officialSite": "http://cataclysmdda.org",
     "topics": ["c-plus-plus", "cataclysm", "game", "hacktoberfest", "zombies"]
   }, {
+    "repo": "yanfengwu-syser/syserdebugger",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "oceanbase/miniob",
+    "desc": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
+    "officialSite": "https://oceanbase.github.io/miniob",
+    "topics": ["database", "learn-to-database", "mini-database"]
+  }, {
     "repo": "Alex313031/thorium",
     "desc": "Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.",
     "officialSite": "https://thorium.rocks",
@@ -799,5 +809,15 @@
     "desc": "nghttp2 - HTTP/2 C Library and tools",
     "officialSite": "https://nghttp2.org",
     "topics": ["c", "cpp14", "http2", "http3", "quic"]
+  }, {
+    "repo": "o3de/o3de",
+    "desc": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+    "officialSite": "https://o3de.org",
+    "topics": ["3d-graphics", "3d-graphics-engine", "animation", "game-development", "game-engine", "gamedev"]
+  }, {
+    "repo": "Source2ZE/CS2Fixes",
+    "desc": "S2ZE modding experiments",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,11 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/-5pI_7zLun8oyaMPkIe4XFUnO6_IEwfD0ioirlz2rLTVvUCHz-UjR9NmJZgxw_0GmWaFWLgR7w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "l3zIwPgan7M", "title": "TRUTH about RAM vs SSD UPGRADES for MacBook" },
+    { "id": "2YhNwpunMbE", "title": "Apple Silicon and .Net Devs BIGGEST struggle, SOLVED!" },
     { "id": "-WzVsBhxeM8", "title": "Static site deploy as few clicks as possible" },
     { "id": "TsVZJbnnaSs", "title": "LLaMA2 Local install on MacBook" },
-    { "id": "8X6-ucctmKE",  "title": "No more AI FOMO" }, 
-    { "id": "LHjQcJX_7ww",  "title": "King of performance?" }, 
-    { "id": "imGpNsfJ8rM",  "title": "Windows on Mac: you DON’T need a MacBook Pro" }, 
-    { "id": "KiKUN4i1SeU",  "title": "Setting up new M2 Mac Mini for software development" }
+    { "id": "8X6-ucctmKE", "title": "No more AI FOMO" }, 
+    { "id": "LHjQcJX_7ww", "title": "King of performance?" }, 
+    { "id": "imGpNsfJ8rM", "title": "Windows on Mac: you DON’T need a MacBook Pro" }, 
+    { "id": "KiKUN4i1SeU", "title": "Setting up new M2 Mac Mini for software development" }
   ]
 }

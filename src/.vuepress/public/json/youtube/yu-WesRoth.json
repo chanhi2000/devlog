@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "WesRoth",
+    "name": "Wes Roth",
+    "profile": "https://yt3.googleusercontent.com/46zkPPJxrqIxXjHX-bfTOrsYIOYRyG5l5ys9KLsodR9M34aRKSEw0hq9MQVuSDRxnDSm687uGA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rRTAXz6ZnabiOgjUp5vhon3tls3DXC6LOzx12i0ROGhvzE7DELeSDqdQWes1eGO55tBI5pywhg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zdcCD--IieY", "title": "AutoGen - Microsoft steps into the AI AGENTS arena" }
+  ]
+}

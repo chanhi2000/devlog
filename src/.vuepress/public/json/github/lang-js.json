@@ -1649,5 +1649,10 @@
     "desc": "🎉 Generate CSS for your Neumorphism/Soft UI design ",
     "officialSite": "https://neumorphism.io",
     "topics": ["neumorphic-design", "neumorphic-ui", "neumorphism", "soft-ui"]
+  }, {
+    "repo": "thewhiteh4t/seeker",
+    "desc": "Accurately Locate Smartphones using Social Engineering ",
+    "officialSite": "",
+    "topics": ["accuracy", "altitude", "geolocation", "latitude", "longitude", "reconnaissance", "system-information"]
   }
 ]

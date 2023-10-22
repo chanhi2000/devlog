@@ -246,6 +246,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
 - [How to Use GraphQL](https://www.freecodecamp.org/news/graphql-database-tutorial)
 - [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
+-
 
 ---
 
@@ -311,6 +312,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 - [Why did Machbase Neo switch its front-end framework from Vue.js to React?](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785)
 - [Why Web UI Development Is So Hard?](https://itnext.io/why-web-ui-development-is-so-hard-a88c47f4b3c5)
 - [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
+- [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
 
 ---
 
@@ -575,6 +577,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## rockyourcode 
 
 - [Use Environment Variables With VuePress 2](https://www.rockyourcode.com/use-environment-variables-with-vuepress-2)
+
+---
+
+## Rocicorp
+
+- [Ready Player Two](https://rocicorp.dev/blog/ready-player-two)
 
 ---
 

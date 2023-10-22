@@ -939,5 +939,10 @@
     "desc": "OpenFaaS - Serverless Functions Made Simple",
     "officialSite": "https://www.openfaas.com",
     "topics": ["docker", "faas", "functions", "functions-as-a-service", "gitops", "golang", "k8s", "kubernetes", "lambda", "nodejs", "paas", "prometheus", "serverless", "serverless-functions"]
+  }, {
+    "repo": "FalconForceTeam/FalconHound",
+    "desc": "FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.",
+    "officialSite": "",
+    "topics": []
   }
 ]

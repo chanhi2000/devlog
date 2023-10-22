@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/7vvlDtQv0IzlL07HxTQgIxzi4d9-dCWSBE3O4vUoEV1FTE_gDsCNntnBga6SxGEIlVG9LXcufA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gBkYfntaWNw", "title": "Spring Data JPA | Connecting to our Database | Part 2" },
+    { "id": "aVoEKdOOMgk", "title": "Spring Data JPA | Connecting to our Database | Part 1" },
     { "id": "oI8MDaUYQX4", "title": "Spring Boot API 404 to 400" },
     { "id": "AmEhZGjXMqU", "title": "What is Java?" },
     { "id": "k9BKBdJOc7c", "title": "Spring Boot Dependencies" },

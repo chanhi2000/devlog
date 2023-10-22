@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/li4jNhPL-S7ItWDI3rcwVotY0SySEPTcH9fIw3UUR7Oi527VBU4jQ6IBccFq0ollmvxJFNjyvQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ptMFLSAkRj0", "title": "Most Malleable Memory Management Method in C++ - Björn Fahller - C++ on Sea 2023" },
     { "id": "6TrJc06IekE", "title": "Shared Libraries in Windows and Linux - Ofek Shilon - C++ on Sea 2023" },
     { "id": "nFvKpnA5Aj0", "title": "A Smooth Introduction to SYCL for C++20 Afficionados - Joel Falcou - C++ on Sea 2023" },
     { "id": "uYFRnsMD9ks", "title": "New Algorithms in C++23 - Conor Hoekstra - C++ on Sea 2023" },

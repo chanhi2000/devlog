@@ -1603,5 +1603,15 @@
     "desc": "An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "epicweb-dev/full-stack-foundations",
+    "desc": "Learn the foundational skills of building full stack web applications.",
+    "officialSite": "https://epicweb.dev/workshops/full-stack-foundations",
+    "topics": ["epicweb-dev", "kcd-edu", "workshop"]
+  }, {
+    "repo": "lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "officialSite": "https://lyswhut.github.io/lx-music-doc",
+    "topics": ["electron-app", "javascript", "music-player", "vue3"]
   }
 ]

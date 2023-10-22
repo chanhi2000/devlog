@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/mrzchbYB80ADpHRXMDQcT3k-Bbp2vi4Udd_4PbfFxEybRBESAAbuPvw-dg1w1OQNl4mTxDKinQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gDUzaANQ01A", "title": "How to speed up your React Development skills ? Learn How To Build React Apps Quickly ?" },
     { "id": "FKqtiO-0fZU", "title": "Build Node.js Serverless E-commerce App Rest API Project | Shopping API With JWT, MongoDB & Stripe" },
     { "id": "nH47lsxvY9c", "title": "How to Build Node.js Apps with Docker | Dockerize Node.js and Express Apps" },
     { "id": "6CYCD7kE8Qs", "title": "How to Improve Performance of React Apps with Code Splitting" }, 

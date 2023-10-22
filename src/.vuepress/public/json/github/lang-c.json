@@ -509,5 +509,10 @@
     "desc": "Tiny Erlang VM",
     "officialSite": "",
     "topics": ["c", "elixir", "embedded", "erlang", "esp32", "hacktoberfest", "stm32"]
+  }, {
+    "repo": "cockpit-project/cockpit",
+    "desc": "Cockpit is a web-based graphical interface for servers.",
+    "officialSite": "http://www.cockpit-project.org",
+    "topics": ["cockpit", "javascript", "linux-servers"]
   }
 ]

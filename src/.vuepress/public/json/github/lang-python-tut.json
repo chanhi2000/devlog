@@ -124,5 +124,10 @@
     "desc": "Learn Python from DevOps Engineer point of you.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "SepehrRasouli/clean-code-python",
+    "desc": ":bathtub: Clean Code concepts adapted for Python",
+    "officialSite": "",
+    "topics": []
   }
 ]

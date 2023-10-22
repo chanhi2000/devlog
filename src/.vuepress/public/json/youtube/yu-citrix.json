@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/4YFdjUSn40Y2F4e1WptG3l4WPP73XRbwdSI48Vg_PaHMb0FK509MqLfym3V37eY4N58d1LlyDg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "p9MBSOXI0i8", "title": "Enabling Zero Trust Web and SaaS application Access" },
+    { "id": "ciT9pjOcMqE", "title": "Improving Management and Monitoring" },
     { "id": "WJ9J-VxMoX4", "title": "Citrix Features Explained Global App Configuration Service" }, 
     { "id": "iV95BJCJNmY", "title": "Tech Insight - Microsoft Teams Optimization with Citrix" }, 
     { "id": "vrTMj789rVA", "title": "Creating and installing a new SSL certificate in NetScaler" }, 

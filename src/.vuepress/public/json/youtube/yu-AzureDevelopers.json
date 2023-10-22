@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/4rtjrb_IF5E8XCtVgl_Bb5_O1xOyqAhDMXUAUifKwwwqLWp-mBNCppPJUGNs3RzJAJYwFufc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ATenTcgwO7M", "title": "Azure SDK Community Standup - DefaultAzureCredential in Azure SDK for JavaScript/TypeScript" },
     { "id": "o9NnJdxHv1c", "title": "Azure Functions Community Standup - .NET announcements for Azure Functions" },
     { "id": "I_tt3d90KFw", "title": "Reliable Web App Pattern for Java : Performance Efficiency (Part 6)" },
     { "id": "MEcft5M4F4U", "title": "Reliable Web App Pattern for Java : Operational Excellence (Part 5)" },

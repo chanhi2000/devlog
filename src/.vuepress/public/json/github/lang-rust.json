@@ -636,9 +636,9 @@
     "topics": []
   }, {
     "repo": "sxyazi/yazi",
-    "desc": "⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.",
-    "officialSite": "",
-    "topics": ["windows", "macos", "linux", "rust", "concurrency", "tui", "asyncio", "file-manager", "yazi"]
+    "desc": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "officialSite": "https://yazi-rs.github.io",
+    "topics": ["asyncio", "concurrency", "file-manager", "linux", "macos", "rust", "terminal", "tui", "windows", "yazi"]
   }, {
     "repo": "d4ckard/liz",
     "desc": "Collaborative Lisp coding on Discord",
@@ -769,6 +769,11 @@
     "desc": "A modular and blazing fast runtime security framework for the IoT, powered by eBPF.",
     "officialSite": "https://pulsar.sh",
     "topics": ["ebpf", "kernel", "linux", "rust", "security"]
+  }, {
+    "repo": "uutils/coreutils",
+    "desc": "Cross-platform Rust rewrite of the GNU coreutils",
+    "officialSite": "",
+    "topics": ["busybox", "command-line-tool", "coreutils", "cross-platform", "gnu-coreutils", "rust"]
   }
 ]
 
