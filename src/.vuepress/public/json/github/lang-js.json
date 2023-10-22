@@ -1639,5 +1639,10 @@
     "desc": "3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "apexcharts/apexcharts.js",
+    "desc": "📊 Interactive JavaScript Charts built on SVG",
+    "officialSite": "https://apexcharts.com",
+    "topics": ["charts", "data-visualization", "graphs", "interactive", "javascript", "svg", "visualization"]
   }
 ]

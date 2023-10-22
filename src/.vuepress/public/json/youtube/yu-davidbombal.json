@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/V5UpY_6h5w87IpmK8ZqhPOHAqU33ZDZK8CVoWZt7D4ThGyuHzst1GXWuTSnf9yaCI-7urEYXoQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "26MAaX2ldnI", "title": "Top 10 Real World Wireshark Filters you need to know" },
+    { "id": "eBmO7UOYzR4", "title": "How to grab WiFi Passwords with only two commands #shorts" },
+    { "id": "8z-s5KQ9DbI", "title": "Linux for Hackers Tutorial with OTW!" },
     { "id": "F5iiwounbzY", "title": "Flipper Zero Demo: WiFi Marauder, Wireshark and Hashcat!" },
     { "id": "Rl3JdDUxcn4", "title": "Did you know that you can run Python on iPhone and Android for free?#shorts" },
     { "id": "yusJWttsD5o", "title": "SQL Injection Hacking Tutorial (Beginner to Advanced)" },

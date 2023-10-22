@@ -6,9 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/in4dPUMuyvgvMG6mdJXA3-ZPTtlWn2HqCk0FGfdV8fNHIIJ8DhcP0C3Fk1pQZVpkoMO_dLQqkg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "R3fFzYXKn3c", "title": "Detect Hackers & Malware on your Computer (literally for free)" },
+    { "id": "YXoS8wd1DJo", "title": "Create Your Own Dark Web Website" },
+    { "id": "bR6s1UJ4aAs", "title": "3 FREE Resources for Cyber Defenders" },
     { "id": "cwaJznO_g2U", "title": "Trick Hackers with a Fake User" },
     { "id": "PAlQp3ioIIA", "title": "How Hackers & Malware Spoof Processes" },
-    { "id": "2jYorjzHsJ8", "title": "Not All ZIP Files Are Equal" }
+    { "id": "2jYorjzHsJ8", "title": "Not All ZIP Files Are Equal" },
     { "id": "EqGoGwVCVwM", "title": "Rapid Windows Memory Analysis with Volatility 3" }, 
     { "id": "9zEXov_L0os", "title": "Hands-on Ransomware: Exploring Cybercrime" }, 
     { "id": "CIOsemj3kl4", "title": "How To Extract Plaintext Google Chrome Passwords" }, 

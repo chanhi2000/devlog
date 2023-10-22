@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "XnEYjgoPUfw", "title": "실전 활용 가능한 100% AWS Serverless 기반 채팅 아키텍처 소개 및 구현" },
     { "id": "xHg4zVPAsHo", "title": "AWS Serverless 로 1분만에 URL Redirection 구현하기 (Cloudformation 템플릿 제공)" },
     { "id": "_QYQO8ekHtM", "title": "AWS 비용 3억 나오는 사태 막는법 : AWS 계정을 지키는 3가지 필수 설정!" },
     { "id": "Owl6njL7ViQ", "title": "수많은 EC2 인스턴스의 CPU/메모리 시각화해서 확인하기 : CloudWatch Resource Health" },

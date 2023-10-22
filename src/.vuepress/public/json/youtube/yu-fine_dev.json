@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "fine_dev",
+    "name": "파인데브 FINEDEV",
+    "profile": "https://yt3.googleusercontent.com/AjT5qLlkNLbxcB7LCGZAvRcg92SqjagAqepeWmBH-txOCbYV_NFeR7e2DBfqhksQsOlzACLk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ot6Z-2WceXN5BqEr7bMWRm9X8WgiYlO8vDanNr8kDA7W4QBnSbFHCE8hT0fs7fJ4cvcMTboMyQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1fkCZDh8gT0", "title": "코딩을 편하게 하기 위해 꼭 설치해야 할 Visual Studio Code 플러그인 #코딩 #파이썬 #vscode" },
+    { "id": "NNyM_EqV96Q", "title": "파이썬 에센셜 1강 - 출력, 변수, 데이터 타입 | 입문자들을 위한 파이썬 기초 강의" }
+  ]
+}

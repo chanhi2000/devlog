@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "kafa46",
+    "name": "소프트웨어 꼰대 강의",
+    "profile": "https://yt3.googleusercontent.com/LxyfgAzvUqkaV_Q3mxqj16D4eKb-TO1_IYYoNuVLe3ZxJqCJlmSjbdldblIWP0II88w1URDL0A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "I9UCdp9ucQQ", "title": "01  Web Server, Web Application Server 개념 잡기" }
+  ]
+}

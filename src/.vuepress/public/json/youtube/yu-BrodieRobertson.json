@@ -6,17 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/VR5Y_bGQiwU7lCxHaDOZ0qXZ2_HXevTqboFv60gwyHNO2o5h6-i4ZFjqsfZsZ2uYziHsdEag0DM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6WD7HcG6xJY", "title": "Every Linux User Should Install 2 Linux Kernels" },
     { "id": "Q_GLj3sTcrc", "title": "Joining The Linux Kernel Community: For Dummies" },
-    { "id": "iQsLBb15Xrw", "title": "This Github User Is DESTROYING Issue Trackers" }
-    { "id": "SOtLR6qBb90",  "title": "Clipboard: Simple Unified Linux Clipping Tool" }, 
-    { "id": "CfZL7hi-Bd8",  "title": "Installing Linux Software Is More Confusing Than Ever" }, 
-    { "id": "1bO41Qqd-Cs",  "title": "Systemd Introduces Userspace Reboots???" }, 
-    { "id": "vVjrto8HYfk",  "title": "Hide Your Browser In Plain Sight With Chameleon" }, 
-    { "id": "IZGeqeEjZMY",  "title": "Running containers effortlessly on AWS AppRunner" }, 
-    { "id": "toYV1_fPgcg",  "title": "Droidcam: Turns Your Phone Into The Best Webcam" }, 
-    { "id": "fGQvXNlosTc",  "title": "Embrace The Power of GUIs With Yet Another Dialog" }, 
-    { "id": "buPZ3ve4bzE",  "title": "Alacritty's New Vim Mode And Other Awesome Features" }, 
-    { "id": "Ut0LZiYoabo",  "title": "6cord Is An Almost Perfect Terminal Discord Client" }
+    { "id": "iQsLBb15Xrw", "title": "This Github User Is DESTROYING Issue Trackers" },
+    { "id": "SOtLR6qBb90", "title": "Clipboard: Simple Unified Linux Clipping Tool" },
+    { "id": "CfZL7hi-Bd8", "title": "Installing Linux Software Is More Confusing Than Ever" },
+    { "id": "1bO41Qqd-Cs", "title": "Systemd Introduces Userspace Reboots???" },
+    { "id": "vVjrto8HYfk", "title": "Hide Your Browser In Plain Sight With Chameleon" },
+    { "id": "IZGeqeEjZMY", "title": "Running containers effortlessly on AWS AppRunner" },
+    { "id": "toYV1_fPgcg", "title": "Droidcam: Turns Your Phone Into The Best Webcam" },
+    { "id": "fGQvXNlosTc", "title": "Embrace The Power of GUIs With Yet Another Dialog" },
+    { "id": "buPZ3ve4bzE", "title": "Alacritty's New Vim Mode And Other Awesome Features" },
+    { "id": "Ut0LZiYoabo", "title": "6cord Is An Almost Perfect Terminal Discord Client" }
  
   ]
 }

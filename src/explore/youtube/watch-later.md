@@ -442,7 +442,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-seoulian]: https://www.youtube.com/@seoulian
 [yu-michael-cade]: https://www.youtube.com/@MichaelCade1
 [yu-IB9696]: https://www.youtube.com/@IB9696
-[yu-simplecooking777]: https://www.youtube.com/@simplecooking777
 [yu-doctor-code]: https://www.youtube.com/@DoctorCode9
 [yu-rj-code-advance-en]: https://www.youtube.com/@RJCodeAdvanceEN
 [yu-user-fp8lc6ju1n]: https://www.youtube.com/@user-fp8lc6ju1n

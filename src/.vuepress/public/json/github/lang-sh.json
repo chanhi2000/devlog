@@ -204,5 +204,10 @@
     "desc": "A black hole for Internet advertisements",
     "officialSite": "https://pi-hole.net",
     "topics": ["ad-blocker", "blocker", "cloud", "dashboard", "dhcp", "dhcp-server", "dns-server", "dnsmasq", "pi-hole", "raspberry-pi", "shell"]
+  }, {
+    "repo": "thuml/Time-Series-Library",
+    "desc": "A Library for Advanced Deep Time Series Models.",
+    "officialSite": "",
+    "topics": ["deep-learning", "time-series"]
   }
 ]

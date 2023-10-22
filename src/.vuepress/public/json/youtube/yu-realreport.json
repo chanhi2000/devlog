@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "realreport",
+    "name": "RealGrid",
+    "profile": "https://yt3.googleusercontent.com/pRAv_hnsQ2-E3BbAk-AMeJytqx3GZ_GyZfuNRdgoMpZKMSLREqlS-i86pgO2ooJppGYABxa7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/REDH36PoBexaig5c4xQqrjXmG3EPvOd0PB7oCR1YdjUkJMmJd-WuIjN-6mSIMamAq57FxUsBEQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NQxXtsH5eyg", "title": "MVVM 쉽고 확실하게 이해하기" },
+    { "id": "QQmaQ7dwza8", "title": "05. 쇼핑몰 주문관리 구축하기 #2" }
+  ]
+}

@@ -3003,5 +3003,30 @@
     "desc": "Boring AI Agents for real world tasks",
     "officialSite": "https://autotab.com",
     "topics": ["agent", "ai", "automation", "browser"]
+  }, {
+    "repo": "WisdomShell/codeshell",
+    "desc": "A series of code large language models developed by PKU-KCL",
+    "officialSite": "http://se.pku.edu.cn/kcl",
+    "topics": []
+  }, {
+    "repo": "neuralmagic/deepsparse",
+    "desc": "Sparsity-aware deep learning inference runtime for CPUs",
+    "officialSite": "https://neuralmagic.com/deepsparse",
+    "topics": ["computer-vision", "cpus", "deepsparse", "inference", "llm-inference", "machinelearning", "nlp", "object-detection", "onnx", "performance", "pretrained-models", "pruning", "quantization", "sparsification"]
+  }, {
+    "repo": "Planetary-Computers/autotab-starter",
+    "desc": "Build browser agents for real world tasks",
+    "officialSite": "https://autotab.com",
+    "topics": ["agent", "ai", "automation", "browser"]
+  }, {
+    "repo": "imartinez/privateGPT",
+    "desc": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+    "officialSite": "https://docs.privategpt.dev",
+    "topics": []
+  }, {
+    "repo": "babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "officialSite": "",
+    "topics": ["ai", "deep-learning", "pytorch", "speech", "text-to-speech", "tts"]
   }
 ]

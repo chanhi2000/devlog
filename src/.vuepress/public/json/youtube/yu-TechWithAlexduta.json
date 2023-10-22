@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "TechWithAlexduta",
+    "name": "Tech with Alex",
+    "profile": "https://yt3.googleusercontent.com/9DujSunCo3PwE9kImGUMcqT4xYz566IQRgIHloFyV-rMQ4wC367R64HjsUVfw23HZ4jsgBZpSg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JxaGu-CApL5j42vf_CO0zQ6M-uDhBRBTwI6yKVQ8z9ZjclMoaxzRLajdJ9ogVNctepMCH731uA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MypxNib9yCQ", "title": "Generate unit test html report using dotnet test" },
+    { "id": "89YBs9mK9V8", "title": "Run Selenium tests in parallel & Extent Reports parallel execution" }
+  ]
+}

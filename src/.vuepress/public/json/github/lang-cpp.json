@@ -789,6 +789,15 @@
     "desc": "Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.",
     "officialSite": "https://thorium.rocks",
     "topics": ["aes", "avx", "avx-instructions", "chrome", "chrome-devtools", "chromedriver", "chromium", "chromium-browser", "content-shell", "jpeg-xl", "jpegxl", "jxl", "libjxl", "linux", "thorium", "thorium-browser", "thoriumos", "web-browser", "web-platform", "webbrowser"]
+  }, {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "desc": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "officialSite": "https://nvidia.github.io/TensorRT-LLM",
+    "topics": []
+  }, {
+    "repo": "nghttp2/nghttp2",
+    "desc": "nghttp2 - HTTP/2 C Library and tools",
+    "officialSite": "https://nghttp2.org",
+    "topics": ["c", "cpp14", "http2", "http3", "quic"]
   }
 ]
-

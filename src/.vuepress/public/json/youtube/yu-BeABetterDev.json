@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/_DkMv1f8NdP7BCDRa9j7I9RV_ts0eot7ENEFCsh33fCJTy1tlGdRpaRPoxLK6qvZvZLFxyTKCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FDEpdNdFglI", "title": "Intro to AWS - The Most Important Services To Learn" },
+    { "id": "RBbuERSRU1k", "title": "Real Life AWS Serverless Architecture Example" },
     { "id": "Zps5mgQMPnw", "title": "How to Trigger an Event on a Timer with EventBridge Scheduler and Python" },
     { "id": "ZWs6eR_knLc", "title": "New & Useful DynamoDB Console Quality of Life Improvements" }, 
     { "id": "0Zs5s5F_lFc", "title": "Big Data Processing Using Distributed Maps and AWS Step Functions (S3 + Lambda)" }, 

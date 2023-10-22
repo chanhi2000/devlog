@@ -196,4 +196,8 @@ description: 🐍Python > 📚References
 
 ---
 
+## duncan­lock­.net
+
+- [Using AsciiDoc & Asciidoctor for blogging](https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging)
+
 <TagLinks />

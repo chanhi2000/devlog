@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Jims-Garage",
+    "name": "Jim's Garage",
+    "profile": "https://yt3.googleusercontent.com/Aw8fRDEP7QNMQNOKOIQOEw-wtDvCf78bscGICbf8B7tcuWA0mOCGa0ZEb36sA79K-gH5iTI3Qg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-ft2r1hqqfuNdj2X4owgjeh_5O8ijGFpm6eL9ZZqqx4iaDzCBoJcEyZfnZqefZhcKuuNsyfh=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Gft9e1o3Hgg", "title": "It's Making Me REPLACE Docker..." },
+    { "id": "dQMWTULEbS0", "title": "Kubernetes At Home: What Is Kubernetes? - Part 1" },
+    { "id": "6k8BABDXeZI", "title": "The Simplest Kubernetes Deployment? K3S, HA, Loadbalancer! Kubernetes At Home: Part 3" }
+  ]
+}

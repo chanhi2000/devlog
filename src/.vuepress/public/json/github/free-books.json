@@ -79,5 +79,15 @@
     "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
     "officialSite": "https://blog.bytebytego.com",
     "topics": ["aws", "cloud-computing", "coding-interviews", "computer-science", "interview-questions", "software-architecture", "software-development", "software-engineering", "system-design", "system-design-interview"]
+  }, {
+    "repo": "danieldonda/Cybersecurity101",
+    "desc": "Um guia abrangente para iniciantes na área de cibersegurança.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor",
+    "desc": "Smart contract audit skills roadmap for beginners, auditors, engineers, etc.",
+    "officialSite": "",
+    "topics": []
   }
 ]

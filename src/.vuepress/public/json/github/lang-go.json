@@ -924,5 +924,20 @@
     "desc": "Convert pcap files into richly-typed ZNG summary logs (Zeek, Suricata, and more)",
     "officialSite": "",
     "topics": ["brim-desktop", "pcap", "suricata", "zeek"]
+  }, {
+    "repo": "radius-project/radius",
+    "desc": "Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",
+    "officialSite": "https://radapp.io",
+    "topics": []
+  }, {
+    "repo": "hashicorp/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "officialSite": "https://registry.terraform.io/providers/hashicorp/aws",
+    "topics": ["aws", "terraform", "terraform-provider"]
+  }, {
+    "repo": "openfaas/faas",
+    "desc": "OpenFaaS - Serverless Functions Made Simple",
+    "officialSite": "https://www.openfaas.com",
+    "topics": ["docker", "faas", "functions", "functions-as-a-service", "gitops", "golang", "k8s", "kubernetes", "lambda", "nodejs", "paas", "prometheus", "serverless", "serverless-functions"]
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SoftwareDeveloperDiaries",
+    "name": "Software Developer Diaries",
+    "profile": "https://yt3.googleusercontent.com/glWKi6iHBjLpCGdNWl2evZE8W1zVmiiOlUjgFRmGlcirjKCU6YNsnRcuWrGpnv01QKPwsJJOyFY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CemHdBYr2ulVuyFwdPemmZ5rPAQrYsHPYW7vjhJVFyxqauJ5KcDpbMXyO1UTa12X_wRw7lCETA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bP4BeUjNkXc", "title": "How does Caching on the Backend work? (System Design Fundamentals)" }
+  ]
+}

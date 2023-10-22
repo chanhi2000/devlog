@@ -49,4 +49,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Ben Burwell
+
+- [Transactions Are Not Locks](https://www.benburwell.com/posts/transactions-are-not-locks)
+
+---
+
 <TagLinks />
