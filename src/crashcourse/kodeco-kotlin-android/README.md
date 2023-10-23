@@ -1878,7 +1878,7 @@ color: rgba(0, 184, 126, 0.2)
 ```card
 title: ViewPager Tutorial - Getting Started in Kotlin
 desc: In this ViewPager tutorial for Android, you’ll learn how to use a ViewPager to navigate between content pages in Kotlin.
-link: https://www.kodeco.com/324-viewpager-tutorial-getting-started-in-kotlin
+link: 324-viewpager-tutorial-getting-started-in-kotlin.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-user-interface-android-d049bddfca80caac9854127a21a7287890d0ad1cd10fc7d7cb6538dc0d8d76a0.svg
 color: rgba(0, 184, 126, 0.2)
 ```

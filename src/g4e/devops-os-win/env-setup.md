@@ -137,7 +137,7 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
           "style": "diamond",
           "background": "#6272a4",
           "foreground": "#ffffff",
-          "leading_diamond": "\ue0b6",          
+          "leading_diamond": "\ue0b6",    
           "template": "{{ .UserName }} "
         }, {
           "type": "path",
@@ -167,7 +167,7 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
           "style": "powerline",
           "background": "#8be9fd",
           "foreground": "#ffffff",
-          "powerline_symbol": "\ue0b0",          
+          "powerline_symbol": "\ue0b0",
           "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Full }} "
         }, {
           "type": "time",

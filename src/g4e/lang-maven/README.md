@@ -11,3 +11,9 @@ description: 🐦Maven
 :::
 
 <ShieldsGroup logos="apachemaven"/>
+
+---
+
+## Table of Contents
+
+- [🔮Snippets](snippets.md)

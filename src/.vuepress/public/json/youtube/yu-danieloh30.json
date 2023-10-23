@@ -11,7 +11,7 @@
   ],
   "playlists": [
     {
-      "title": "KUBERNETES LEARN BY EXAMPLE",      
+      "title": "KUBERNETES LEARN BY EXAMPLE",
       "videos": [
         { "id": "OJ-ONcr5I6g", "title": "Kubernetes WithOut Kubelet - ☸️ Learn by Example 【11】" },
         { "id": "AxLFXk9fIjQ", "title": "Persistent Volumes - ☸️ Learn by Example 【9】" },

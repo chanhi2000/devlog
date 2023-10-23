@@ -95,33 +95,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 
 ---
 
-## DevOps
-
-- [vulhub/vulhub][vulhub/vulhub]: Pre-Built Vulnerable Environments Based on Docker-Compose
-  - [🌐Official Site](https://vulhub.org)
-- [sickcodes/Docker-OSX][sickcodes/Docker-OSX]: Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-  - [🌐Official Site](https://hub.docker.com/r/sickcodes/docker-osx)
-- [hectorm/docker-qemu-win2000][hectorm/docker-qemu-win2000]: A Docker image for Windows 2000 Advanced Server with SP4.
-  - [🌐Official Site](https://hub.docker.com/r/hectorm/qemu-win2000)
-
----
-
-## CSS/Images
-
-- [google/material-design-icons][google/material-design-icons]: Material Design icons by Google
-  - [🌐Official Site](http://google.github.io/material-design-icons)
-- [Ileriayo/markdown-badges][Ileriayo/markdown-badges]: Badges for your personal developer branding, profile, and projects.
-  - [🌐Official Site](https://ileriayo.github.io/markdown-badges)
-- [n3r4zzurr0/svg-spinners][n3r4zzurr0/svg-spinners]: A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
-- [tailwindlabs/heroicons][tailwindlabs/heroicons]: A set of free MIT-licensed high-quality SVG icons for UI development.
-  - [🌐Official Site](https://heroicons.com)
-- [upptime/upptime][upptime/upptime]: ⬆️ Free uptime monitor and status page powered by GitHub
-  - [🌐Official Site](https://uptime.kuma.pet)
-- [adamgiebl/neumorphism][adamgiebl/neumorphism]: 🎉 Generate CSS for your Neumorphism/Soft UI design <GithubTags tagItems="neumorphism;neumorphic-ui;soft-ui;neumorphic-design" />
-  - [🌐Official Site](https://neumorphism.io)
-
-
-
 <TagLinks />
 
 
@@ -137,10 +110,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 [lawrie/fpga_pio]: https://github.com/lawrie/fpga_pio
 <!-- Pascal -->
 [markmal/freeship-plus-in-lazarus]: https://github.com/markmal/freeship-plus-in-lazarus
-<!-- DevOps -->
-[vulhub/vulhub]: https://github.com/vulhub/vulhub
-[sickcodes/Docker-OSX]: https://github.com/sickcodes/Docker-OSX
-[hectorm/docker-qemu-win2000]: https://github.com/hectorm/docker-qemu-win2000
 <!-- CSS/Images -->
 [simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 [twbs/icons]: https://github.com/twbs/icons

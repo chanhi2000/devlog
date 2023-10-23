@@ -11,3 +11,11 @@ description: 🐘Gradle
 :::
 
 <ShieldsGroup logos="gradle,groovy"/>
+
+---
+
+## Table of Contents
+
+- [🔮Snippets](snippets.md)
+- [🩺Troubleshooting](troubleshooting.md)
+- [📚References](references.md)

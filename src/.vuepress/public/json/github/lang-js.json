@@ -1644,5 +1644,10 @@
     "desc": "📊 Interactive JavaScript Charts built on SVG",
     "officialSite": "https://apexcharts.com",
     "topics": ["charts", "data-visualization", "graphs", "interactive", "javascript", "svg", "visualization"]
+  }, {
+    "repo": "adamgiebl/neumorphism",
+    "desc": "🎉 Generate CSS for your Neumorphism/Soft UI design ",
+    "officialSite": "https://neumorphism.io",
+    "topics": ["neumorphic-design", "neumorphic-ui", "neumorphism", "soft-ui"]
   }
 ]

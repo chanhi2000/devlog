@@ -187,8 +187,8 @@
   }, {
     "repo": "ruffle-rs/ruffle",
     "desc": "A Flash Player emulator written in Rust",
-    "topics": [],
-    "officialSite": "https://ruffle.rs"
+    "officialSite": "https://ruffle.rs",
+    "topics": ["emulator", "flash", "hacktoberfest", "reimplementation", "rust", "swf"]
   }, {
     "repo": "apache/incubator-opendal",
     "desc": "Apache OpenDAL: Access data freely, painlessly, and efficiently.",

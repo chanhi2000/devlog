@@ -96,4 +96,24 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 - [쿠버네티스 서비스(kubernetes services) (2)](https://arisu1000.tistory.com/27839)
 
+---
+
+## SigNoz
+
+- [Maximizing Scalability - Apache Kafka and OpenTelemetry](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry)
+
+---
+
+## 피터의 개발이야기
+
+- [[모니터링] kubernetes, 모든 Pod의 CPU, 메모리 Request, limit 조회](https://peterica.tistory.com/418)
+
+---
+
+## Technekey.com
+
+- [Getting Custom Output From Kubectl With Examples](https://technekey.com/customizing-the-kubectl-output)
+
+---
+
 <TagLinks />

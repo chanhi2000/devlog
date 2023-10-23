@@ -45,6 +45,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## OS/2 Museum
+
+- [From the Annals of Preprocessor Hackery](https://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

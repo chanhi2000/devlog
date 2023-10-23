@@ -11,3 +11,16 @@ description: 🤖Android
 :::
 
 <ShieldsGroup logos="openjdk,android,intellijidea,androidstudio"/>
+
+---
+
+## Table of Contents
+
+- [🐚adb](adb.md)
+- [💡Tips](tips.md)
+- [🩺Troubleshooting](troubleshooting.md)
+- [🅺🔮Kotlin Snippets](snippets-kotiln.md)
+- [✈️🔮Jetpack Compose Snippets](snippets-jetpack-compose.md)
+- [🐘🔮Gradle Snippets](snippets-gradle.md)
+- [📚References](references.md)
+- [📺Youtube](youtube.md)

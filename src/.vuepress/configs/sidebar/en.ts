@@ -35,7 +35,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-shell/basics.md',
         '/g4e/cli-shell/tips.md',
         '/g4e/cli-shell/troubleshooting.md',
-        '/g4e/cli-shell/references.md',        
+        '/g4e/cli-shell/references.md',
         '/g4e/cli-shell/github.md',
         '/g4e/cli-shell/youtube.md',
       ]
@@ -76,7 +76,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-vim/neovim.md',
         '/g4e/cli-vim/github.md',
         '/g4e/cli-vim/references.md',
-        '/g4e/cli-vim/youtube.md',        
+        '/g4e/cli-vim/youtube.md',
       ]
     }, {
       text: '🐘Gradle',
@@ -118,7 +118,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',
         '/g4e/lang-java/news.md',
-        '/g4e/lang-java/references.md',        
+        '/g4e/lang-java/references.md',
         '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
       ]
@@ -379,7 +379,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/devops-docker/README.md',
-        '/g4e/devops-docker/basics.md',        
+        '/g4e/devops-docker/basics.md',
         '/g4e/devops-docker/docker-compose.md',
         '/g4e/devops-docker/favorite-containers.md',
         '/g4e/devops-docker/references.md',
@@ -401,6 +401,13 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/devops-kubernetes/README.md',
         '/g4e/devops-kubernetes/references.md',
         '/g4e/devops-kubernetes/youtube.md',
+      ]
+    }, {
+      text: '⭕Openshift',
+      collapsible: true,
+      children: [
+        '/g4e/devops-openshift/README.md',
+        '/g4e/devops-openshift/references.md',
       ]
     }, {
       text: '📦AWS',
@@ -604,7 +611,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-django/README.md',
         '/g4e/db-django/query.md',
         '/g4e/db-django/github.md',
-        '/g4e/db-django/references.md',        
+        '/g4e/db-django/references.md',
       ]
     }, {
       text: '🪳Cockroach',
@@ -827,6 +834,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/55.md',
         '/crashcourse/paul-hudson-100-days-of-swift/56.md',
         '/crashcourse/paul-hudson-100-days-of-swift/57.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/58.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/59.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -878,6 +887,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/43.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/44.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/45.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/46.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/47.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -959,6 +970,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-kotlin-android/README.md',
         '/crashcourse/kodeco-kotlin-android/853-couchbase-tutorial-for-android-getting-started.md',
         '/crashcourse/kodeco-kotlin-android/523-augmented-reality-in-android-with-google-s-face-api.md',
+        '/crashcourse/kodeco-kotlin-android/324-viewpager-tutorial-getting-started-in-kotlin.md',
       ]
     }, {
       text: '🐍Finance with Python',
@@ -1042,7 +1054,7 @@ export const sidebarEn: SidebarConfig = {
       text: '☸DigitalOcean - Kubernetes',
       collapsible: true,
       children: [
-        '/crashcourse/digitalocean-kubernetes/README.md',        
+        '/crashcourse/digitalocean-kubernetes/README.md',
         '/crashcourse/digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md',
         '/crashcourse/digitalocean-kubernetes/2022/20221118-how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md',
       ]

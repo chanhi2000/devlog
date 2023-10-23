@@ -151,27 +151,27 @@ Now that your SwiftUI skills are starting to solidify, it’s time to review all
 - [Day 35][day-35] – Milestone: Projects 4-6
  
 
-### Days 36-46: Scaling up to bigger apps
+### ✅Days 36-46: Scaling up to bigger apps
 
 Your core SwiftUI skills are strong, so it’s time to push past the basics and start building bigger apps.
 
-- ✅[Day 36][day-36] – Project 7, part one
-- ✅[Day 37][day-37] – Project 7, part two
-- ✅[Day 38][day-38] – Project 7, part three
-- ✅[Day 39][day-39] – Project 8, part one
-- ✅[Day 40][day-40] – Project 8, part two
-- ✅[Day 41][day-41] – Project 8, part three
-- ✅[Day 42][day-42] – Project 8, part four
-- ✅[Day 43][day-43] – Project 9, part one
-- ✅[Day 44][day-44] – Project 9, part two
-- ✅[Day 45][day-45] – Project 9, part three
+- [Day 36][day-36] – Project 7, part one
+- [Day 37][day-37] – Project 7, part two
+- [Day 38][day-38] – Project 7, part three
+- [Day 39][day-39] – Project 8, part one
+- [Day 40][day-40] – Project 8, part two
+- [Day 41][day-41] – Project 8, part three
+- [Day 42][day-42] – Project 8, part four
+- [Day 43][day-43] – Project 9, part one
+- [Day 44][day-44] – Project 9, part two
+- [Day 45][day-45] – Project 9, part three
 - [Day 46][day-46] – Project 9, part four
 
 ### Days 47-48: Consolidation IV
 
 You’ve tackled some heavyweight skills now, so before we move on it’s time to review what has been covered, go into detail on a handful of topics, and face a fresh challenge.
 
-- [Day 47][day-47] – Milestone: Projects 7-9
+- ✅[Day 47][day-47] – Milestone: Projects 7-9
 - [Day 48][day-48] – Expanding your horizons
 
 ### Days 49-59: Focus on data
@@ -321,8 +321,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-43]: 43.md
 [day-44]: 44.md
 [day-45]: 45.md
-[day-46]: https://www.hackingwithswift.com/100/swiftui/46
-[day-47]: https://www.hackingwithswift.com/100/swiftui/47
+[day-46]: 46.md
+[day-47]: 47.md
 [day-48]: https://www.hackingwithswift.com/100/swiftui/48
 [day-49]: https://www.hackingwithswift.com/100/swiftui/49
 [day-50]: https://www.hackingwithswift.com/100/swiftui/50

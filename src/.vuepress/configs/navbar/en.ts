@@ -188,6 +188,12 @@ export const navbarEn: NavbarConfig = [
       }, {
         text: '🤖Android',
         link: '/g4e/lang-java-android/README.md',
+      },  {
+        text: '🕊️Swift',
+        link: '/g4e/lang-swift/README.md',
+      }, {
+        text: '🧶Node.js',
+        link: '/g4e/lang-js-node/README.md',
       }
     ]
   }, {

@@ -171,19 +171,19 @@ Now that you have conquered `UICollectionViewController` and `Codable`, it’s t
 - [Day 50][day-50] – Milestone: Projects 10-12
 - [Day 51][day-51] – Expanding your horizons
  
-### Days 52-58: Images and animation
+### ✅Days 52-58: Images and animation
 
 The next three projects we’ll be making move into the realm of richer user interfaces – you’ll learn about manipulating images using Core Image, animation views, and more.
 
-- ✅[Day 52][day-52] – Project 13, part one
-- ✅[Day 53][day-53] – Project 13, part two
-- ✅[Day 54][day-54] – Project 13, part three
-- ✅[Day 55][day-55] – Project 14, part one
-- ✅[Day 56][day-56] – Project 14, part two
-- ✅[Day 57][day-57] – Project 15, part one
+- [Day 52][day-52] – Project 13, part one
+- [Day 53][day-53] – Project 13, part two
+- [Day 54][day-54] – Project 13, part three
+- [Day 55][day-55] – Project 14, part one
+- [Day 56][day-56] – Project 14, part two
+- [Day 57][day-57] – Project 15, part one
 - [Day 58][day-58] – Project 15, part two
  
-### Day 59: Consolidation VI
+### ✅Day 59: Consolidation VI
 
 We’ve covered some hugely important iOS technologies that you’ll be relying on time and time again, so let’s take a brief pause to recap what you’ve learned.
 
@@ -347,8 +347,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-55]: 55.md
 [day-56]: 56.md
 [day-57]: 57.md
-[day-58]: https://www.hackingwithswift.com/100/58
-[day-59]: https://www.hackingwithswift.com/100/59
+[day-58]: 58.md
+[day-59]: 59.md
 [day-60]: https://www.hackingwithswift.com/100/60
 [day-61]: https://www.hackingwithswift.com/100/61
 [day-62]: https://www.hackingwithswift.com/100/62

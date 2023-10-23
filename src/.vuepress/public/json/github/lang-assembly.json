@@ -9,5 +9,10 @@
     "desc": "BIOS for Intel 8088 based computers",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "sudleyplace/386MAX",
+    "desc": "386MAX Memory Manager for DOS",
+    "officialSite": "",
+    "topics": []
   }
 ]

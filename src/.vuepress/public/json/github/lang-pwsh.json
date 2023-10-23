@@ -11,12 +11,12 @@
     "topics": []    
   }, {
     "repo": "H4de5-7/powershell-obfuscation",
-    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",     
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
     "officialSite": "" ,
     "topics": []    
   }, {
     "repo": "DarkCoderSc/PowerRemoteDesktop",
-    "desc": "Remote Desktop entirely coded in PowerShell.",     
+    "desc": "Remote Desktop entirely coded in PowerShell.",
     "officialSite": "" ,
     "topics": []    
   }, {

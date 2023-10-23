@@ -11,3 +11,18 @@ description: ☕️Java
 :::
 
 <ShieldsGroup logos="openjdk,android,spring,springboot,springsecurity,intellijidea,androidstudio,eclipseide,apachetomcat,eclipseadoptium"/>
+
+---
+
+## Table of Contents
+
+- [🐣Basics](basics.md)
+- [🦴Singleton](singleton.md)
+- [🍃Spring](spring.md)
+- [📡WAS](was.md)
+- [WebService](webservice.md)
+- [🗞️News](news.md)
+- [📚References](references.md)
+- [🕶️Github](github.md)
+- [📺Youtube](youtube.md)
+

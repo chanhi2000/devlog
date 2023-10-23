@@ -399,7 +399,7 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 ## 테크도장
 
-<MyYouTubeItems jsonName="yu-테크도장" />
+<MyYouTubeItems jsonName="yu-techdojang" />
 
 <!-- 테크도장 -->
 

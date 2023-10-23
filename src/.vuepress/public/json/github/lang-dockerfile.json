@@ -24,5 +24,10 @@
     "desc": "PostgreSQL docker container which automatically upgrades to latest PostgreSQL version",
     "officialSite": "https://hub.docker.com/r/pgautoupgrade/pgautoupgrade",
     "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"]
+  }, {
+    "repo": "vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "officialSite": "https://vulhub.org",
+    "topics": ["docker", "docker-compose", "dockerfile", "vulhub", "vulnerability-environment"]
   }
 ]
