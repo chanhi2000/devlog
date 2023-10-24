@@ -1679,5 +1679,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "EddieHubCommunity/BioDrop",
+    "desc": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+    "officialSite": "https://biodrop.io",
+    "topics": ["css", "docker", "hacktoberfest", "html", "javascript", "mongodb", "nextjs", "nodejs", "reactjs", "tailwind"]
+  }, {
+    "repo": "Z-Siqi/Clash-for-Windows_Chinese",
+    "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "officialSite": "",
+    "topics": ["chinese", "clash", "clash-chinese", "shadowsocks", "windows", "zh-cn"]
   }
 ]

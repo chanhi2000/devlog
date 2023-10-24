@@ -28,7 +28,7 @@
     "repo": "TeamNewPipe/NewPipe",
     "desc": "A libre lightweight streaming front-end for Android.",
     "officialSite": "https://newpipe.net",
-    "topics": []
+    "topics": ["4k", "android", "bandcamp", "download-videos", "newpipe", "peertube", "soundcloud", "translation", "video", "watch", "youtube-video"]
   }, {
     "repo": "tachiyomiorg/tachiyomi",
     "desc": "Free and open source manga reader for Android. ",

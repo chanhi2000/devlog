@@ -3154,6 +3154,11 @@
     "officialSite": "https://youtu.be/SJ_TOVjn5zs",
     "topics": []
   }, {
+    "repo": "openNAMU/openNAMU",
+    "desc": "파이썬 기반 위키 엔진 (Python-based wiki engine.)",
+    "officialSite": "http://2du.pythonanywhere.com",
+    "topics": ["namumark", "opennamu", "python", "wiki", "wiki-engine"]
+  }, {
     "repo": "ageitgey/face_recognition",
     "desc": "The world's simplest facial recognition api for Python and the command line",
     "officialSite": "",
@@ -3163,5 +3168,15 @@
     "desc": "🦉 ML Experiments Management with Git",
     "officialSite": "https://dvc.org",
     "topics": ["ai", "collaboration", "data-science", "data-version-control", "developer-tools", "git", "hacktoberfest", "machine-learning", "python", "reproducibility"]
+  }, {
+    "repo": "CycodeLabs/raven",
+    "desc": "RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jianchang512/pyvideotrans",
+    "desc": "Translate the video from one language to another and add dubbing.  将视频从一种语言翻译为另一种语言，并添加配音",
+    "officialSite": "",
+    "topics": ["speech-to-text", "text-to-speech", "video-transition"]
   }
 ]

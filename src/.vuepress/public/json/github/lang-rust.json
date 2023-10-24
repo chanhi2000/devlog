@@ -784,6 +784,16 @@
     "desc": "A geo-distributed KV store for metadata management",
     "officialSite": "https://xline.cloud",
     "topics": ["cloud-native", "distributed-systems", "high-availability"]
+  }, {
+    "repo": "bensadeh/tailspin",
+    "desc": "🌀 A log file highlighter",
+    "officialSite": "",
+    "topics": ["colorizer", "colors", "file", "follow", "highlighter", "less", "log", "log-file", "logfile", "syntax-highlighting", "tail"]
+  }, {
+    "repo": "evilsocket/legba",
+    "desc": "A multiprotocol credentials bruteforcer / password sprayer and enumerator.",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

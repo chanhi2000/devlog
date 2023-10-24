@@ -224,5 +224,10 @@
     "desc": "Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.",
     "officialSite": "https://www.cisa.gov/resources-tools/services/logging-made-easy",
     "topics": ["cybersecurity", "elastic", "elasticsearch", "elk", "elk-stack", "log", "logging", "network-analysis", "security", "security-tools", "zeek"]
+  }, {
+    "repo": "streamdal/streamdal",
+    "desc": "Deployment for Streamdal server",
+    "officialSite": "https://www.streamdal.com",
+    "topics": ["astrojs", "data-contracts", "deno", "docker", "event-driven", "go", "javascript", "message-queues", "nodejs", "observability", "python", "reactjs", "rust", "streaming-data", "tail-f"]
   }
 ]

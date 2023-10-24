@@ -249,5 +249,10 @@
     "desc": "Provides an efficient allocation free async/await integration for Unity.",
     "officialSite": "",
     "topics": ["coroutine", "csharp", "task", "thread", "unity"]
+  }, {
+    "repo": "2dust/clashN",
+    "desc": "A clash client for Windows, support clash core and Clash.Meta core",
+    "officialSite": "https://1.2345345.xyz",
+    "topics": []
   }
 ]

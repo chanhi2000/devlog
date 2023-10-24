@@ -974,5 +974,20 @@
     "desc": "The universal proxy platform",
     "officialSite": "https://sing-box.sagernet.org",
     "topics": []
+  }, {
+    "repo": "keyval-dev/odigos",
+    "desc": "Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF",
+    "officialSite": "https://odigos.io",
+    "topics": ["dotnet", "ebpf", "go", "hacktoberfest", "java", "javascript", "kubernetes", "logs", "metrics", "observability", "opentelemetry", "traces"]
+  }, {
+    "repo": "v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "officialSite": "https://www.v2ray.com/",
+    "topics": ["golang", "http-proxy", "proxy", "shadowsocks", "socks", "socks5", "v2ray", "vmess"]
+  }, {
+    "repo": "Danlock/gogosseract",
+    "desc": "A reimplementation of https://github.com/otiai10/gosseract without CGo, running Tesseract compiled to WASM with Wazero",
+    "officialSite": "",
+    "topics": []
   }
 ]

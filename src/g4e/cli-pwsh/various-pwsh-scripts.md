@@ -868,7 +868,7 @@ PS> ./list-memos.ps1
 try {
 	$Path = "~/Memos.csv"
 	if (Test-Path "$Path" -pathType leaf) {
-		write-progress "Reading $Path ..."
+		Write-Progress "⏳Reading $Path ..."
 		$Table = Import-CSV "$Path"
 		write-progress -completed "Reading $Path"
 
@@ -1147,7 +1147,7 @@ PS> ./list-os-releases.ps1
 #>
 
 try {
-	write-progress "Reading OS_IPFS_hashes.csv ..."
+	Write-Progress "⏳Reading OS_IPFS_hashes.csv ..."
 
 	$PathToRepo = "$PSScriptRoot/.."
 	$PathToCsvFile = "$PathToRepo/Data/os-release.csv"
@@ -1835,7 +1835,7 @@ param([string]$City = "")
 try {
 	if ($City -eq "" ) { $City = Read-Host "Enter the city name" }
 
-	Write-Progress "Reading worldcities.csv..."
+	Write-Progress "⏳Reading worldcities.csv..."
 	$Table = import-csv "$PSScriptRoot/../Data/worldcities.csv"
 
 	$FoundOne = 0
@@ -2038,7 +2038,7 @@ $ErrorActionPreference= "silentlycontinue"
 
 foreach($add in $range) {
 	$ip = "{0}.{1}" -F $network,$add
-	write-progress "Scanning IP $ip" -PercentComplete (($add/$range.Count)*100)
+	Write-Progress "⏳Scanning IP $ip" -PercentComplete (($add/$range.Count)*100)
 	if (Test-Connection -BufferSize 32 -Count 1 -quiet -ComputerName $ip) {
 		$socket = new-object System.Net.Sockets.TcpClient($ip, $port)
 		if ($socket.Connected) {

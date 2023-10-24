@@ -359,5 +359,10 @@
     "desc": "【肘子的Swift笔记】博文中的代码汇总",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "skiptools/skip",
+    "desc": "Skip transpiler for converting SwiftUI iOS apps into Android Kotlin Compose apps",
+    "officialSite": "https://skip.tools",
+    "topics": ["kotlin", "swift"]
   }
 ]

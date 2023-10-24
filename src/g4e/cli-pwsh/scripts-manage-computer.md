@@ -2292,7 +2292,7 @@ PS> ./list-dns-servers.ps1
 #>
 
 function CheckDNSServer { param($Provider, $IPv4Pri, $IPv4Sec)
-	Write-Progress "Measuring latency of $Provider..."
+	Write-Progress "⏳Measuring latency of $Provider..."
 	$SW=[system.diagnostics.stopwatch]::startNew();$null=(nslookup fleschutz.de $IPv4Pri 2>$null);[int]$Lat1=$SW.Elapsed.TotalMilliseconds
 
 	$SW=[system.diagnostics.stopwatch]::startNew();$null=(nslookup fleschutz.de $IPv4Sec 2>$null);[int]$Lat2=$SW.Elapsed.TotalMilliseconds
@@ -2301,7 +2301,7 @@ function CheckDNSServer { param($Provider, $IPv4Pri, $IPv4Sec)
 }
 
 function List-DNS-Servers {
-	Write-Progress "Loading Data/public-dns-servers.csv..."
+	Write-Progress "⏳Loading Data/public-dns-servers.csv..."
       $Table = Import-CSV "$PSScriptRoot/../Data/public-dns-servers.csv"
 	foreach($Row in $Table) {
 		CheckDNSServer $Row.PROVIDER $Row.IPv4_PRI $Row.IPv4_SEC	

@@ -849,5 +849,10 @@
     "desc": "C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs",
     "officialSite": "",
     "topics": ["baichuan", "baichuan2", "chatglm", "chatglm2", "chatglm3", "codegeex2-6b", "internlm", "large-language-models", "nlp"]
+  }, {
+    "repo": "rwengine/openrw",
+    "desc": "OpenRW \"Open ReWrite\" is an un-official open source recreation of the classic Grand Theft Auto III game executable",
+    "officialSite": "http://openrw.org",
+    "topics": ["c-plus-plus", "game-engine", "gta", "gta3", "linux-game", "macosx-game", "multi-platform", "reimplementation", "video-game"]
   }
 ]

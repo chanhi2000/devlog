@@ -189,5 +189,10 @@
     "desc": "Tutorial on how to add authentication and personalization to a VuePress application",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "isno/theByteBook",
+    "desc": "⭐⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue",
+    "officialSite": "https://www.thebyte.com.cn",
+    "topics": ["cloud-native", "container", "devops", "distributed-systems", "finops", "kubernetes", "networking", "paas", "quic", "service-mesh", "sre"]
   }
 ]

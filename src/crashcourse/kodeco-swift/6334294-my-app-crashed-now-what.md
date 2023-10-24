@@ -32,8 +32,23 @@ color: rgba(135, 99, 210, 0.2)
 
 ---
 
+App crashes are a natural part of the development cycle. The challenge is to understand the real reason behind the crash and apply the proper fix, not just hide the crash.
+
+In this tutorial, you’ll look at some crash examples, investigate them, understand why they happened and, finally, fix them once and for all.
+
+Before you get started, it’s valuable to know some details about Swift so you understand more about the errors you face:
+
+- Swift uses __static typing__, meaning the compiler knows the type of a value at compile time.
+- It ensures you initialize variables before using them.
+- It also notifies you of possible `nil` values and makes sure you’re aware of how you use them in your code.
+
+You’ll understand more about these points as you fix the project. Now, it’s time to get busy.
+
+---
 
 ## Getting Started
+
+Download the starter project for this tutorial by using the [<FontIcon icon="iconfont icon-select"/>`[Download Materials]`][download-material] button at the top or bottom of this page. You’ll find a project called `CrashGallery`.
 
 ---
 
@@ -149,7 +164,7 @@ Use `preconditionFailure(_:file:line:)` or `fatalError(_:file:line:)` instead of
 
 ## Where to Go From Here?
 
-Download the finished project for this tutorial by using the __Download Materials__ button at the top or bottom of this page.
+Download the finished project for this tutorial by using the [<FontIcon icon="iconfont icon-select"/>`[Download Materials]`][download-material] button at the top or bottom of this page.
 
 You’ve seen how crashes are a normal part of developing your app. You should even see them as an opportunity to learn more about the framework you’re using.
 
@@ -160,5 +175,7 @@ You can learn more about debugging from the video course, [Beginning iOS Debuggi
 I hope you enjoyed this tutorial! If you have any questions or comments, please join the forum discussion below. :]
 
 ---
+
+[download-material]: https://koenig-media.raywenderlich.com/uploads/2020/01/CrashGallery.zip
 
 <TagLinks />

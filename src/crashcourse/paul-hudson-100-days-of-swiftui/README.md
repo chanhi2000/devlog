@@ -178,8 +178,8 @@ You’ve tackled some heavyweight skills now, so before we move on it’s time t
 
 In these projects we’re going to start looking more carefully at how we can send, retrieve, and store data in our SwiftUI apps.
 
-- [Day 49][day-49] – Project 10, part one
-- [Day 50][day-50] – Project 10, part two
+- ✅[Day 49][day-49] – Project 10, part one
+- ✅[Day 50][day-50] – Project 10, part two
 - [Day 51][day-51] – Project 10, part three
 - [Day 52][day-52] – Project 10, part four
 - [Day 53][day-53] – Project 11, part one
@@ -324,8 +324,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-46]: 46.md
 [day-47]: 47.md
 [day-48]: 48.md
-[day-49]: https://www.hackingwithswift.com/100/swiftui/49
-[day-50]: https://www.hackingwithswift.com/100/swiftui/50
+[day-49]: 49.md
+[day-50]: 50.md
 [day-51]: https://www.hackingwithswift.com/100/swiftui/51
 [day-52]: https://www.hackingwithswift.com/100/swiftui/52
 [day-53]: https://www.hackingwithswift.com/100/swiftui/53

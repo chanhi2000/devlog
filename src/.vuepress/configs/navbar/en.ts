@@ -146,6 +146,9 @@ export const navbarEn: NavbarConfig = [
             text: '☸DigitalOcean - Kubernetes',
             link: '/crashcourse/digitalocean-kubernetes/README.md'
           }, {
+            text: '📦아마존 웹 서비스를 다루는 기술 - 실무에서 필요한 AWS 클라우드의 모든 것!',
+            link: '/crashcourse/devops-art-of-aws/README.md',
+          }, {
             text: '🐧Linux Journey',
             link: '/crashcourse/linux-journey/README.md'
           }

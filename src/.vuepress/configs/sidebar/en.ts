@@ -830,6 +830,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/58.md',
         '/crashcourse/paul-hudson-100-days-of-swift/59.md',
         '/crashcourse/paul-hudson-100-days-of-swift/60.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/61.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/62.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -884,6 +886,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/46.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/47.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/48.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/49.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/50.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -898,6 +902,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-swift/README.md',
         '/crashcourse/kodeco-swift/6398124-swiftui-tutorial-for-ios-creating-charts.md',
         '/crashcourse/kodeco-swift/6334294-my-app-crashed-now-what.md',
+        '/crashcourse/kodeco-swift/6620276-sqlite-with-swift-tutorial-getting-started.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',
@@ -1066,6 +1071,46 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/freecodecamp-rust-by-practice/28-async.md',
         '/crashcourse/freecodecamp-rust-by-practice/29-std.md',
         '/crashcourse/freecodecamp-rust-by-practice/30-fight-compiler.md',
+      ]
+    }, {
+      text: '📦아마존 웹 서비스를 다루는 기술 - 실무에서 필요한 AWS 클라우드의 모든 것!',
+      collapsible: true,
+      children: [
+        '/crashcourse/devops-art-of-aws/README.md',
+        '/crashcourse/devops-art-of-aws/01.md',
+        '/crashcourse/devops-art-of-aws/02.md',
+        '/crashcourse/devops-art-of-aws/03.md',
+        '/crashcourse/devops-art-of-aws/04.md',
+        '/crashcourse/devops-art-of-aws/05.md',
+        '/crashcourse/devops-art-of-aws/06.md',
+        '/crashcourse/devops-art-of-aws/07.md',
+        '/crashcourse/devops-art-of-aws/08.md',
+        '/crashcourse/devops-art-of-aws/09.md',
+        '/crashcourse/devops-art-of-aws/10.md',
+        '/crashcourse/devops-art-of-aws/11.md',
+        '/crashcourse/devops-art-of-aws/12.md',
+        '/crashcourse/devops-art-of-aws/13.md',
+        '/crashcourse/devops-art-of-aws/14.md',
+        '/crashcourse/devops-art-of-aws/15.md',
+        '/crashcourse/devops-art-of-aws/16.md',
+        '/crashcourse/devops-art-of-aws/17.md',
+        '/crashcourse/devops-art-of-aws/18.md',
+        '/crashcourse/devops-art-of-aws/19.md',
+        '/crashcourse/devops-art-of-aws/20.md',
+        '/crashcourse/devops-art-of-aws/21.md',
+        '/crashcourse/devops-art-of-aws/22.md',
+        '/crashcourse/devops-art-of-aws/23.md',
+        '/crashcourse/devops-art-of-aws/24.md',
+        '/crashcourse/devops-art-of-aws/25.md',
+        '/crashcourse/devops-art-of-aws/26.md',
+        '/crashcourse/devops-art-of-aws/27.md',
+        '/crashcourse/devops-art-of-aws/28.md',
+        '/crashcourse/devops-art-of-aws/29.md',
+        '/crashcourse/devops-art-of-aws/30.md',
+        '/crashcourse/devops-art-of-aws/31.md',
+        '/crashcourse/devops-art-of-aws/32.md',
+        '/crashcourse/devops-art-of-aws/33.md',
+        '/crashcourse/devops-art-of-aws/a.md',        
       ]
     }, {
       text: '☸DigitalOcean - Kubernetes',

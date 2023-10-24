@@ -1795,7 +1795,7 @@ color: rgba(135, 99, 210, 0.2)
 ```card
 title: SQLite With Swift Tutorial - Getting Started
 desc: In this SQLite with Swift tutorial, you’ll learn to use a SQLite database with Swift projects by creating tables and inserting, updating and deleting rows.
-link: https://www.kodeco.com/6620276-sqlite-with-swift-tutorial-getting-started
+link: 6620276-sqlite-with-swift-tutorial-getting-started.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-saving-data-persistence-ios-09771a6a821ae79fa6653f51395c14d66cb117d87648bb17bd04f20f9ff48576.svg
 color: rgba(135, 99, 210, 0.2)
 ```

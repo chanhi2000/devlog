@@ -2751,7 +2751,7 @@ try {
 	$StopWatch = [system.diagnostics.stopwatch]::startNew()
 
 	$DirTree = Resolve-Path "$DirTree"
-	Write-Progress "Listing empty subfolders in $DirTree..."
+	Write-Progress "⏳Listing empty subfolders in $DirTree..."
 	[int]$Count = 0
 	Get-ChildItem "$DirTree" -attributes Directory -recurse | Where {$_.GetFileSystemInfos().Count -eq 0} | ForEach-Object {
 		"📂$($_.FullName)"
@@ -2835,7 +2835,7 @@ try {
 	if ($DirTree -eq "" ) { $DirTree = read-host "Enter the path to the directory tree" }
 
 	[int]$Count = 0
-	write-progress "Listing empty files in $DirTree ..."
+	Write-Progress "⏳Listing empty files in $DirTree ..."
 	get-childItem $DirTree -attributes !Directory -recurse | where {$_.Length -eq 0} | foreach-object {
 		write-output $_.FullName
 		$Count++
@@ -3088,7 +3088,7 @@ param([string]$DirTree = "$PWD")
 
 try {
 	$DirTree = resolve-path "$DirTree"
-	write-progress "Listing hidden files in $DirTree ..."
+	Write-Progress "⏳Listing hidden files in $DirTree ..."
 
 	[int]$Count = 0
 	get-childItem "$DirTree" -attributes Hidden -recurse | foreach-object {

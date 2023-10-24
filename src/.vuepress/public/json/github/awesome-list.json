@@ -719,5 +719,10 @@
     "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "officialSite": "",
     "topics": ["awesome", "awesome-list", "bsd", "cheatsheets", "devops", "guidelines", "hacking", "hacks", "howtos", "linux", "lists", "manuals", "one-liners", "pentesters", "resources", "search-engines", "security", "security-researchers", "sysops"]
+  }, {
+    "repo": "rust-unofficial/awesome-rust",
+    "desc": "A curated list of Rust code and resources.",
+    "officialSite": "",
+    "topics": ["awesome", "rust"]
   }
 ]

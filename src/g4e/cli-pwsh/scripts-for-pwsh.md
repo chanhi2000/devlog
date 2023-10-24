@@ -716,7 +716,7 @@ PS> ./list-scripts.ps1 [<CommonParameters>]
 #>
 
 function ListScripts { param([string]$FilePath)
-	Write-Progress "Reading $FilePath..."
+	Write-Progress "⏳Reading $FilePath..."
 	$table = Import-CSV "$FilePath"
 	[int]$No = 1
 	foreach($row in $table) {

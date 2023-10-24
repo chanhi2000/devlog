@@ -1673,5 +1673,25 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "oslabs-beta/Next-Nav",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zzzgydi/clash-verge",
+    "desc": "A Clash GUI based on tauri. Supports Windows, macOS and Linux.",
+    "officialSite": "",
+    "topics": ["clash", "cross-platform", "react", "rust", "tauri"]
+  }, {
+    "repo": "haishanh/yacd",
+    "desc": "Yet Another Clash Dashboard",
+    "officialSite": "http://yacd.haishan.me",
+    "topics": []
+  }, {
+    "repo": "MetaCubeX/metacubexd",
+    "desc": "Clash.Meta Dashboard, The Official One, XD",
+    "officialSite": "",
+    "topics": ["daisyui", "dashboard", "docker", "solidjs"]
   }
 ]
