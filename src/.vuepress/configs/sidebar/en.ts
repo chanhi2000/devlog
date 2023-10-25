@@ -900,7 +900,8 @@ export const sidebarEn: SidebarConfig = {
       text: '🕊️Kodeco - Swift',
       collapsible: true,
       children: [
-        '/crashcourse/kodeco-swift/README.md'
+        '/crashcourse/kodeco-swift/README.md',
+        '/crashcourse/kodeco-swift/6398124-swiftui-tutorial-for-ios-creating-charts.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',

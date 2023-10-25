@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "codewithlari",
+    "name": "code with lari",
+    "profile": "https://yt3.googleusercontent.com/jyF0WXBMAKSsH7gvbZc6viC_nL8nDLvJzrrhG2rRNnZ5S9U72tl-z2dCyJX7f9amplV1KeudpA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ROwcuWtwFPFr9yp4gfray_aPyi0ekSTisFYsluqe-2nca9mS2wuKVie3w_ccQKBpXGezxBlR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7Az9769yZBI", "title": "Build and deploy a full-stack AI-powered Project Management Platform (Next.js 13, Prisma, MongoDB)" }
+  ]
+}

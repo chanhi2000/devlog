@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "co4nohOqBXg", "title": "Webjjang JAVA ver.2023.10 01-03 자바 메모장 개발(웹짱과 함께하는 자바)" },
+    { "id": "DOleWHzyqKo", "title": "Webjjang JAVA ver.2023.10 01-02 자바 환경 설정(웹짱과 함께하는 자바)" },
     { "id": "8jWw9BNI_kQ", "title": "Webjjang Spring ver.2023.09 03-01 Boot Mybatis로 DB 처리(웹짱과 함께하는 스프링부트)" },
     { "id": "aNLwfjweU_0", "title": "Webjjang Spring ver.2023.09 02-02 Boot WebMVC 개발 02(웹짱과 함께하는 스프링부트)" },
     { "id": "0qEQXUTcKMg", "title": "Webjjang Spring ver.2023.09 02-01 Boot WebMVC 개발 01(웹짱과 함께하는 스프링부트)" },

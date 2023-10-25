@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/gMqHtjMQLe3H0tY8SajtN6b2IyDkaeNofqqojsEdSJaiMZsH3SuMJBqEiNB2qXATfVqzfRAZtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UrNaUL3M-rg", "title": "Learn Cross-Site Request Forgery (CSRF) From Scratch + FREE Training" },
     { "id": "HbYdWajOCx4", "title": "SQL Injection Beginner Crash Course" },
     { "id": "hollnezbeus", "title": "Metasploit Payloads GUI - Create Backdoors & Control Hacked Devices Easily" }
   ]

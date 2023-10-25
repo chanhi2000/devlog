@@ -109,6 +109,13 @@ Placeholders with the same ids are connected.
     ],
     "description": "Create ShieldsGroup Vue Component"
   },
+  "VuepressFontIcon": {
+    "prefix": "vfi",
+    "body": [
+      "<FontIcon icon=\"iconfont icon-${1:name}\"/>${0}"
+    ],
+    "description": "Create FontIcon Vue Componenet"
+  },
   "TgKbd": {
      "prefix": "tgkbd",
      "body": [

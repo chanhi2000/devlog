@@ -1811,11 +1811,10 @@ color: rgba(135, 99, 210, 0.2)
 ```card
 title: SwiftUI Tutorial for iOS - Creating Charts
 desc: In this SwiftUI tutorial, you’ll learn how to build a variety of custom charts to effectively model your iOS app data to your users.
-link: https://www.kodeco.com/6398124-swiftui-tutorial-for-ios-creating-charts
+link: 6398124-swiftui-tutorial-for-ios-creating-charts.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-graphics-animation-ios-aa8910743b53047d00e384e34d904fdc65a8ac7913a4a4f685ee9ece500b172c.svg
 color: rgba(135, 99, 210, 0.2)
 ```
-
 
 ---
 

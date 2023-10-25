@@ -3063,5 +3063,35 @@
     "desc": "Automatic SQL injection and database takeover tool",
     "officialSite": "http://sqlmap.org",
     "topics": ["database", "detection", "exploitation", "pentesting", "python", "sql-injection", "sqlmap", "takeover", "vulnerability-scanner"]
+  }, {
+    "repo": "geophile/marcel",
+    "desc": "A modern shell",
+    "officialSite": "https://marceltheshell.org",
+    "topics": ["database", "postgres", "python", "scripting", "shell"]
+  }, {
+    "repo": "THUDM/AgentTuning",
+    "desc": "AgentTuning: Enabling Generalized Agent Abilities for LLMs",
+    "officialSite": "https://thudm.github.io/AgentTuning/",
+    "topics": []
+  }, {
+    "repo": "Em1tSan/NeuroGPT",
+    "desc": "Free ChatGPT 3.5 / ChatGPT 4 / Free OpenAI API",
+    "officialSite": "https://t.me/neurogen_news",
+    "topics": ["chatgpt", "chatgpt-api", "free-chatgpt", "gpt-35-turbo", "gpt-4"]
+  }, {
+    "repo": "xlang-ai/OpenAgents",
+    "desc": "OpenAgents: An Open Platform for Language Agents in the Wild",
+    "officialSite": "https://arxiv.org/abs/2310.10634",
+    "topics": ["agent", "assistant-chat-bots", "code-generation", "executable-langauge-grounding", "gpt", "hacktoberfest", "language-model", "language-model-agent", "llm", "semantic-parsing", "tool-learning", "ui"]
+  }, {
+    "repo": "psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "officialSite": "https://black.readthedocs.io/en/stable/",
+    "topics": ["autopep8", "code", "codeformatter", "formatter", "gofmt", "hacktoberfest", "pre-commit-hook", "python", "yapf"]
+  }, {
+    "repo": "yarnpkg/berry",
+    "desc": "📦🐈 Active development trunk for Yarn ⚒",
+    "officialSite": "https://yarnpkg.com",
+    "topics": ["javascript", "nodejs", "package-manager", "yarn"]
   }
 ]

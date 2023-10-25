@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "PRABEESHRK",
+    "name": "PRABEESH R K",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZgV8ezC3jLd8AeUNxMo9KgDNU24dc0vVK8WkhMqg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9ZQqhe2-FhqfGXK9fF-0WJASutfjh5T6BscmrfmIu5LqAOO7zAUgKqaCtM8NuSQlHrv5tQrSvQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9RwJeocTgJg", "title": "Android WebView - Binding JavaScript code to Android code" },
+    { "id": "i1AjlGywGFU", "title": "Smart way to update Recyclerview using Diffutil" }
+  ]
+}

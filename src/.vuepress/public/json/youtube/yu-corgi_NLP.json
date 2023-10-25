@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "corgi_NLP",
+    "name": "NLP 코기",
+    "profile": "https://yt3.googleusercontent.com/fIw7VbI2Fpn3aRAau-SHnmBSNmujyk6OJVxjO2MS81YlTDU6DtVrOZzAcI0WqMpMhMgwjf2WJDg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XMI02zc1flo", "title": "GPT와 Python의 환상의 콜라보[PAL: Program-aided Language Models] | 꼬꼬엔" }
+  ]
+}

@@ -474,6 +474,16 @@
     "desc": "Experimental Java implementation of post-quantum crypto algorithm Dilithium (including JCE provider)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "protomaps/basemaps",
+    "desc": "Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more",
+    "officialSite": "https://maps.protomaps.com/",
+    "topics": ["cartography", "maplibre", "maps", "openlayers", "openstreetmap", "pmtiles"]
+  }, {
+    "repo": "dbeaver/dbeaver",
+    "desc": "Free universal database tool and SQL client",
+    "officialSite": "https://dbeaver.io",
+    "topics": ["database", "db2", "dbeaver", "erd", "gui", "java", "mysql", "nosql", "oracle", "postgresql", "redshift", "sql", "sqlite", "sqlserver"]
   }
 ]
 

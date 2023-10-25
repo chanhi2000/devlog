@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-gy3ts8hg9t",
+    "name": "재즐보프",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb3S-bIxGo5aVcSXA9D85GRDb6lzrgiuBpZjv_F=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/i96e69uOFtgUgFsN_PjKvNVwDpMkY8fAZcCLkXs_UL6gHHM4jveF81SyApnNCdrf3py7a-_w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nL8HwK-Gfjk", "title": "ELK 초스피드 설치! - 10분만에 Ubuntu 로그들 모니터링하는 방법!" }
+  ]
+}

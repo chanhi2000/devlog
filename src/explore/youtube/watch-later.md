@@ -413,6 +413,13 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 ---
 
+## 살림남 The Life
+
+<MyYouTubeItems jsonName="yu-salim_nam" />
+
+<!-- 살림남 The Life -->
+
+---
 
 <TagLinks />
 

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "FullQueueDeveloper",
+    "name": "Full Queue Developer",
+    "profile": "https://yt3.googleusercontent.com/HX0MS9dOGD-sg8MQtrnb_OFSDaNZX_k24KSJP_Wp1QqY9BOD4jlUgON_xLi-bWDScbX8QpaKYQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1Jn1Mjk0zt97Go0PJCPUmrC6NrLj4kBlRNpFwSaijuSV-d-OvSQCF6wgeLSFYIA46d8BA2CbMPQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uUuDa6ziscA", "title": "Live-coding stream! Server-side Swift for NYC subway app 2023 Oct 1" },
+    { "id": "KHOx1YSaEHU", "title": "Live-coding stream! Swift command line tool SPX, Living the Creative Act at 2pm!" }
+  ]
+}

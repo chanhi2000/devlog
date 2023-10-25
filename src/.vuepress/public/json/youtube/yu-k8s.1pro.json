@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "k8s.1pro",
+    "name": "1pro",
+    "profile": "https://yt3.googleusercontent.com/Z4a9pe1i4E_t8nrTLTiH5mTnvsKZXeS6PfhoRk5SXdIVZdBvUN-Ms0-bFnBBGCeeveQiwWcKJeY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "FuFt2Y9gaNg", "title": "[쿠버네티스 어나더클래스] 컨테이너 한방정리" },
+    { "id": "UNdCGBnHG6A", "title": "[쿠버네티스 어나더클래스] 데브옵스 한방정리" }
+  ]
+}

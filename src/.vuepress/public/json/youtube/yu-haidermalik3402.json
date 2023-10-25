@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "haidermalik3402",
+    "name": "Haider Malik",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaf1zi9Y_yZ2dGekIHRymYKtqFsU0vxsYYhdkeK=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "AFjbQ-NZcQ4", "title": "Next.js 13 Crash Course 2023" },
+    { "id": "rc7GO88pOVM", "title": "Learn Prisma ORM" }
+  ]
+}

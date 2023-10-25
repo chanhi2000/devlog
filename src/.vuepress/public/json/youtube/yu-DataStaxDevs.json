@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ncjmh1z8Y8eXiUXHsSNQ4U0j3B02_D7TnFoWPjUyahPTmgfnPN7gmcZVlb0swdUM_y5rK8H0DA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_3e3Hk31h7k", "title": "How to Train Your LLM Dragon" },
     { "id": "K8ykmHBxUZY", "title": "Cracking the Realtime AI Java code with Deepak Kumar of Doc-E" },
     { "id": "x7Pj9BbdPQ4", "title": "Realtime Java and AI #7" },
     { "id": "hx6r_BWmta0", "title": "Build an E-commerce Application with NoSQL & React" }, 

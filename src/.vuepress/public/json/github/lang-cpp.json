@@ -819,5 +819,10 @@
     "desc": "S2ZE modding experiments",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "nomic-ai/gpt4all",
+    "desc": "gpt4all: open-source LLM chatbots that you can run anywhere",
+    "officialSite": "https://gpt4all.io",
+    "topics": ["llm-inference"]
   }
 ]

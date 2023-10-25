@@ -24,5 +24,10 @@
     "desc": "♞ lichess.org: the forever free, adless and open source chess server ♞",
     "officialSite": "https://lichess.org",
     "topics": ["chess", "free-software", "functional-programming", "game", "lichess", "non-profit", "play-framework", "scala", "type-safe", "typescript"]
+  }, {
+    "repo": "comsec-group/cascade-artifacts",
+    "desc": "Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024)",
+    "officialSite": "",
+    "topics": []
   }
 ]

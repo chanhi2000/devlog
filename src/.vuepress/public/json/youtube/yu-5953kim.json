@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "5953kim",
+    "name": "EXCEL AND VBA",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYLGlnxVYTexMfVXXud8LyuZbucZ0k4yWZcn7yTgA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ndVBX6A95r8QNXWrQoUmFnCH4z4GJKkA3fHo-Wg6PodK2HKIKrsl9zo76SJOQUu27jix8IEHunU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kIDQFfDWEfQ", "title": "[Xlwings] Check된 시트만 Sql함수를 이용하여 통계내기" },
+    { "id": "ulmDCYbtFiE", "title": "[XLWings] SQL함수를 이용하여 Shuffle, N개 뽑아내기 구현" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "EventHandler",
+    "name": "Event Handler",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKad_wPcSyUcETHDIDacb69LY6EzJ7xbwWQzw31QJg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/W6tT4ENzhqXxpExPtuanalPpPoN7CC9sRtshEqTiFMMzv9_hnqC1nILUnQSCP9ybkgK28h5_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0bJALEhe0Is", "title": "EmBitz IDE Tutorial - Create ARM Cortex STM32F103 Project | STLinkV2 | SVD" }
+  ]
+}

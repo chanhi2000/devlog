@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "user-ss5no9xw6e",
+    "name": "이수안컴퓨터연구소",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbviCfeY3khLIu5milm140hMo17fEZpoPF0Pbpa=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KrXOwznWJPljgHTD00XnH0midQlbxbiVrtCDj2sCeoA9OG0w8ELFxnlN48wXCQXxYt15kd2ijg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vgIc4ctNFbc", "title": "MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database" },
+    { "id": "tjgvXn8hmzk", "title": "03 데이터베이스 발전과 종류 - MySQL 제대로 끝내기" },
+    { "id": "pNrxmHpzcYU", "title": "04 데이터 모델링 - MySQL 제대로 끝내기" },
+    { "id": "56xBWyLwaDY", "title": "06 집합 연산자 - MySQL 제대로 끝내기" }
+  ]
+}

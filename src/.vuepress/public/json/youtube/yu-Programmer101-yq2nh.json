@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Programmer101-yq2nh",
+    "name": "Programmer101",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaumovZd9LpWHABPkVtydLFTb3DWQwdbVe4Wplp1IuGTEIGGHwFh9SkeLmhSje0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "MtjXeULIux8", "title": "Write a C++ program to calculate the area of an Equilateral triangle" },
+    { "id": "V8JA17b8XFA", "title": "Write  a C++ program that accepts the user's first and last name and prints them in reverse order" }
+  ]
+}

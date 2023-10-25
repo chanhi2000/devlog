@@ -214,5 +214,13 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 
 ---
 
+## EXCEL AND VBA
+
+<MyYouTubeItems jsonName="yu-5953kim" />
+
+<!-- EXCEL AND VBA -->
+
+---
+
 <TagLinks />
 

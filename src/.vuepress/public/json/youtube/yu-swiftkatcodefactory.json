@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "rs-kiEDWr9I", "title": "Build first AR App in Flutter : ARKit Full course in Flutter | Sphere Object Tap Event - Episode: 2" },
     { "id": "OpO9udqsrVg", "title": "Build first AR App in Flutter : ARKit Full course in Flutter | Create Text in AR Camera Episode: 1" },
     { "id": "fgAPHGdHvVE", "title": "17 Wrap Up and Next Steps - Build a messaging app (Spring Boot + Cassandra)" }, 
     { "id": "UcKdnFAIZPc", "title": "Deep Linking in iOS | Custom URL scheme | Pass Data| Open WebURL/Appstore | Lang-Swift5 | XCode 12.5" }, 

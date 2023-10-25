@@ -1654,5 +1654,10 @@
     "desc": "Accurately Locate Smartphones using Social Engineering ",
     "officialSite": "",
     "topics": ["accuracy", "altitude", "geolocation", "latitude", "longitude", "reconnaissance", "system-information"]
+  }, {
+    "repo": "zacharyvoase/websession",
+    "desc": "Information on WebSession, a proposed protocol for secure session maintenance on the Web",
+    "officialSite": "",
+    "topics": []
   }
 ]

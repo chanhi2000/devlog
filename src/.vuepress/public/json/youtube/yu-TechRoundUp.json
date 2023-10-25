@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "TechRoundUp",
+    "name": "Tech Round Up",
+    "profile": "https://yt3.googleusercontent.com/oFg0PFtufFRx6aWgWpnV2KY2a9Su9NPSyNk9ARcLxB-uE0uBGsF5jJhSieM-48xU-cB6V8Gg6w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zaQjAvjpme1tkc_19i8QRNpT5ewIw6KFUEtLHH_TO69MhZ3hHO7IFnbxyklFnkL-fRdGMQ0Y1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vQaYRYYz4FM", "title": "Building the Perfect Home NAS! - 16TB, 6W TDP, Ultra Quiet & Compact" },
+    { "id": "QhlCPQCARJY", "title": "So Much Performance in such a Small Laptop - Lenovo Slim Pro 9i" }
+  ]
+}

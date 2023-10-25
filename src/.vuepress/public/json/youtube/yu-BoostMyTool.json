@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/y7dd6gwWCGHhLAZtBRYETqk0Rn9u24vWkBMtwOJH7l4ayVupWul1tI8ajVmlEUw8uNHYqZc0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VbWRjZb6i6Y", "title": "Send Emails using Brevo / SendinBlue in ASP.NET Core Web Application and Web API | .NET 7 and C#" },
     { "id": "4jP3TCWubMo", "title": "How to use Forms in React JS | Controlled and Uncontrolled Forms in React JS | Read and Clear Forms" },
     { "id": "KdUX6K0FzbM", "title": "How to read appsettings.json in ASP.NET Core (.NET 7) | Read appsettings.json Parameters" },
     { "id": "W4L33R4mQo0", "title": "How to use Arrays and Objects in JavaScript & ReactJS | Spread Operator & Array-Object Destructuring" }

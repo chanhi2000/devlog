@@ -156,4 +156,20 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 
 ---
 
+## Unus AWS
+
+<MyYouTubeItems jsonName="yu-UnusAWS" />
+
+<!-- Unus AWS -->
+
+---
+
+## DevOps Directive
+
+<MyYouTubeItems jsonName="yu-DevOpsDirective" />
+
+<!-- DevOps Directive -->
+
+---
+
 <TagLinks />

@@ -394,5 +394,10 @@
     "desc": "Playing Pokemon Red with Reinforcement Learning",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "eureka-research/Eureka",
+    "desc": "Official Repository for \"Eureka: Human-Level Reward Design via Coding Large Language Models\"",
+    "officialSite": "https://eureka-research.github.io",
+    "topics": []
   }
 ]

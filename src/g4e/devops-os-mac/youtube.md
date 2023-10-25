@@ -205,5 +205,20 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 
 ---
 
+## Definitive Mac Upgrade Guide
+
+<MyYouTubeItems jsonName="yu-dmug" />
+
+<!-- Definitive Mac Upgrade Guide -->
+
+---
+
+## Bartech TV
+
+<MyYouTubeItems jsonName="yu-BartechTV" />
+
+<!-- Bartech TV -->
+
+---
 
 <TagLinks />

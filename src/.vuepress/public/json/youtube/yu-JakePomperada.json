@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "JakePomperada",
+    "name": "Jake Pomperada",
+    "profile": "https://yt3.googleusercontent.com/x_JWgpLXBVx_Amr5Sv2giSDi4YEfBC4BLI4tP1Yh44GbiUpZayPherXavZ29mgwjfsmZRoSlXG8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XcRATMHecKiBlCNwPtFtD73uqyADSsACqnLSbuq9YfUbEzTfRh2LBbZxJBtMkN8IWALnPrSL1A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "79HjjXfDX_Q", "title": "What is WireShark?" }
+  ]
+}

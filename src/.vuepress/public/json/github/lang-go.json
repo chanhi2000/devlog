@@ -944,5 +944,15 @@
     "desc": "FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "srevinsaju/togomak",
+    "desc": "A declarative pipeline orchestrator with the magic of HCL as a configuration language, inspired from Terraform's architecture.",
+    "officialSite": "https://togomak.srev.in",
+    "topics": ["cicd", "concurrency", "continuous-delivery", "continuous-integration", "go", "golang", "hacktoberfest", "hcl", "orchestration", "terraform"]
+  }, {
+    "repo": "apache/incubator-answer",
+    "desc": "A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.",
+    "officialSite": "https://answer.dev/",
+    "topics": ["community", "forum", "go", "golang", "hacktoberfest", "q-and-a", "question", "react", "typescript"]
   }
 ]

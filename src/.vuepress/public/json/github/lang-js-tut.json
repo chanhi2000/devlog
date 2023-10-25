@@ -179,5 +179,10 @@
     "desc": "Hacktoberfest 2023 OPEN FIRST Pull Request - FREE T-SHIRT🎉",
     "officialSite": "https://hacktoberfest.com",
     "topics": ["awesome", "contributions-welcome", "digitalocean", "first-contribution", "first-contributions", "firstcontributions", "firstpullrequest", "freecodecamp", "freetshirt", "gift", "github", "hacktoberfest", "hacktoberfest-accepted", "hacktoberfest2020", "hacktoberfest2023", "newbiefriendly", "opensource", "ossamamehmood", "pull-request", "pull-requests"]
+  }, {
+    "repo": "ErickWendel/semana-javascript-expert08",
+    "desc": "JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏",
+    "officialSite": "https://bit.ly/semanajsexpert08",
+    "topics": ["demuxer", "javascript", "mp4", "mp4box", "muxer", "video-processing", "video-streaming", "webcodecs", "webm", "webstream", "webworker", "workers"]
   }
 ]

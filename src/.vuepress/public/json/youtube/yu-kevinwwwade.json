@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hfylw3tAcPX9ISvKp1cf32Cwn4HRTGUsL0OoGFN0Thd3ad0qv3EkMcXVD7pudDtcXmkwocjJ2r4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Z9mU-l4MdYI", "title": "Next.js Full Stack w/ Server Actions - Full Walkthrough" },
     { "id": "Xisj0FJSBIs", "title": "Full Stack Build: Node, Postgres, Redis, React, GraphQL/Apollo" }, 
     { "id": "5FJWQdjzJKQ", "title": "Code a screen in Expo (React Native) - Full Stack Build Series" }, 
     { "id": "A1Sp5c97TYU", "title": "Yarn to PNPM - How to Switch" }, 

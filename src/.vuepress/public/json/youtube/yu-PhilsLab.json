@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "PhilsLab",
+    "name": "Phil’s Lab",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYe767j2Y51jjIRyt5MUMTEZVbw_fZ-xt97m4cE1Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ye6nCtlcTbKTvlvUwJqCzUbcezEWE4gc4aPzdZkWbEyOQrHlmTAeg-edr-p1-gFZHNu4Z_Z9SQI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zOByx3Izf5U", "title": "PID Controller Implementation in Software - Phil's Lab #6" },
+    { "id": "1EXXqWweTkI", "title": "How To Read A Datasheet - Phil's Lab #123" }
+  ]
+}
