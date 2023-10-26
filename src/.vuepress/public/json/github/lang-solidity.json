@@ -27,7 +27,7 @@
   }, {
     "repo": "ethereum/EIPs",
     "desc": "The Ethereum Improvement Proposal repository",
-    "officialSite": "https://eips.ethereum.org/",
+    "officialSite": "https://eips.ethereum.org",
     "topics": []
   }
 ]

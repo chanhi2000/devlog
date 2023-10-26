@@ -1329,7 +1329,7 @@
     "officialSite": "https://graphweaver.com",
     "topics": []
   }, {
-    "repo": "partykit/partykit/",
+    "repo": "partykit/partykit",
     "desc": "Everything's better with friends.",
     "officialSite": "https://partykit.io",
     "topics": ["games", "real-time", "multiplayer", "websockets", "collaboration", "yjs", "edge-computing", "backends", "crdts"]
@@ -1621,12 +1621,22 @@
   }, {
     "repo": "AykutSarac/jsoncrack.com",
     "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
-    "officialSite": "https://jsoncrack.com/",
+    "officialSite": "https://jsoncrack.com",
     "topics": ["diagrams", "graph", "json", "nextjs", "productivity", "react", "tool", "visualization"]
   }, {
     "repo": "yarnpkg/berry",
     "desc": "📦🐈 Active development trunk for Yarn ⚒",
     "officialSite": "https://yarnpkg.com",
     "topics": ["javascript", "nodejs", "package-manager", "yarn"]
+  }, {
+    "repo": "pmndrs/react-three-fiber",
+    "desc": "🇨🇭 A React renderer for Three.js",
+    "officialSite": "https://docs.pmnd.rs/react-three-fiber",
+    "topics": ["3d", "animation", "fiber", "react", "renderer", "threejs"]
+  }, {
+    "repo": "AndrewWalsh/openapi-devtools",
+    "desc": "Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website",
+    "officialSite": "https://chrome.google.com/webstore/detail/openapi-devtools/jelghndoknklgabjgaeppjhommkkmdii",
+    "topics": ["api", "chrome", "devtools", "generator", "openapi", "openapi3", "specification"]
   }
 ]

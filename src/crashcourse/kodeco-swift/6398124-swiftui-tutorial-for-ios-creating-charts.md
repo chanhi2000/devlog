@@ -87,7 +87,7 @@ To begin, you’ll add a bar chart to the app which displays the precipitation d
 
 A bar chart provides a bar for each data point. The length of each bar represents a numerical value and can run horizontally or vertically to suit your needs.
 
-Expand the `[Tabs]` group and open <FontIcon icon="iconfont icon-file"/>`PrecipitationTab.swift`. You’ll see a standard SwiftUI `List()` that loops through the integers zero through 11, representing the months of the year, and displays the total precipitation for each month. The included helper functions change the integer to a month name and sum the amounts for each month.
+Expand the `[Tabs]` group and open <FontIcon icon="fas fa-dove"/>`PrecipitationTab.swift`. You’ll see a standard SwiftUI `List()` that loops through the integers zero through 11, representing the months of the year, and displays the total precipitation for each month. The included helper functions change the integer to a month name and sum the amounts for each month.
 
 Right click the empty `[Charts]` group and select `[New File]`. Select `[SwiftUI View]` and click `[Next]`. Name the new view `PrecipitationChart`.
 
@@ -149,7 +149,7 @@ When you run the app make sure you're on the Precipitation tab after selecting a
 
 ## Raising the SwiftUI Bar
 
-SwiftUI contains several shape views, including a `Rectangle` shape that works well for building bar charts. Open <FontIcon icon="iconfont icon-file"/>`PrecipitationChart.swift` and replace `body` with:
+SwiftUI contains several shape views, including a `Rectangle` shape that works well for building bar charts. Open <FontIcon icon="fas fa-dove"/>`PrecipitationChart.swift` and replace `body` with:
 
 ```swift
 // 1

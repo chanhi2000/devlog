@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 📚References
-description: ☕️Java > 📚References
+title: 🗞️News
+description: ☕️Java > 🗞️News
 category: ☕️Java
 tags: ["jdk", "jdk8", "news"]
 ---

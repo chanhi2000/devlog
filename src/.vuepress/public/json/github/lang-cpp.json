@@ -742,7 +742,7 @@
   }, {
     "repo": "ros-planning/moveit2",
     "desc": "🤖 MoveIt for ROS 2",
-    "officialSite": "https://moveit.ros.org/",
+    "officialSite": "https://moveit.ros.org",
     "topics": []
   }, {
     "repo": "protocolbuffers/protobuf",

@@ -139,7 +139,7 @@ export default defineUserConfig({
       components: ["VideoPlayer", "YouTube", "FontIcon", "Badge", "Share", "PDF"],
       componentOptions: {
         fontIcon: {
-          assets: ["iconfont", "fontawesome", "fontawesome-with-brands"]
+          assets: ["iconfont", "fontawesome", "fontawesome-with-brands"],
         }
       },
       rootComponents: {
@@ -153,6 +153,8 @@ export default defineUserConfig({
       tasklist: true,
       codetabs: true,
       card: true,
+      chart: true,
+      echarts: true,
       mermaid: true,
       katex: true,
       footnote: true,

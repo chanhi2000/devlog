@@ -2936,7 +2936,7 @@
   }, {
     "repo": "stas00/ml-engineering",
     "desc": "Machine Learning Engineering Guides and Tools",
-    "officialSite": "https://stasosphere.com/machine-learning/",
+    "officialSite": "https://stasosphere.com/machine-learning",
     "topics": ["bash", "large-language-models", "llm", "machine-learning", "make", "python", "pytorch", "scalability", "slurm", "transformers"]
   }, {
     "repo": "dmunozv04/iSponsorBlockTV",
@@ -2971,7 +2971,7 @@
   }, {
     "repo": "facebookresearch/xformers",
     "desc": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
-    "officialSite": "https://facebookresearch.github.io/xformers/",
+    "officialSite": "https://facebookresearch.github.io/xformers",
     "topics": []
   }, {
     "repo": "Cloud-Architects/cloudiscovery",
@@ -3071,7 +3071,7 @@
   }, {
     "repo": "THUDM/AgentTuning",
     "desc": "AgentTuning: Enabling Generalized Agent Abilities for LLMs",
-    "officialSite": "https://thudm.github.io/AgentTuning/",
+    "officialSite": "https://thudm.github.io/AgentTuning",
     "topics": []
   }, {
     "repo": "Em1tSan/NeuroGPT",
@@ -3086,12 +3086,17 @@
   }, {
     "repo": "psf/black",
     "desc": "The uncompromising Python code formatter",
-    "officialSite": "https://black.readthedocs.io/en/stable/",
+    "officialSite": "https://black.readthedocs.io/en/stable",
     "topics": ["autopep8", "code", "codeformatter", "formatter", "gofmt", "hacktoberfest", "pre-commit-hook", "python", "yapf"]
   }, {
     "repo": "yarnpkg/berry",
     "desc": "📦🐈 Active development trunk for Yarn ⚒",
     "officialSite": "https://yarnpkg.com",
     "topics": ["javascript", "nodejs", "package-manager", "yarn"]
+  }, {
+    "repo": "getmoto/moto",
+    "desc": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+    "officialSite": "http://docs.getmoto.org/en/latest",
+    "topics": ["aws", "boto", "ec2", "s3"]
   }
 ]

@@ -477,7 +477,7 @@
   }, {
     "repo": "protomaps/basemaps",
     "desc": "Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more",
-    "officialSite": "https://maps.protomaps.com/",
+    "officialSite": "https://maps.protomaps.com",
     "topics": ["cartography", "maplibre", "maps", "openlayers", "openstreetmap", "pmtiles"]
   }, {
     "repo": "dbeaver/dbeaver",

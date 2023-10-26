@@ -716,13 +716,6 @@ export const sidebarEn: SidebarConfig = {
         '/explore/youtube/edu-compsci.md',
       ]
     }, {
-      text: '🎓Tutorial',
-      collapsible: true,
-      children: [
-        '/explore/tutorial/README.md',
-        '/explore/tutorial/list.md',
-      ]
-    },{
       text: '🧭Public API',
       collapsible: true,
       children: [
