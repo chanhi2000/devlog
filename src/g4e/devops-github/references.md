@@ -20,6 +20,12 @@ tags: ["sh", "bash", "cli", "github", "github-action", "study"]
 
 ---
 
+## 인포그랩
+
+- [인포그랩의 소중한 자산입니다. 콘텐츠를 복사할 수 없는 점 너른 양해 부탁드립니다.](https://insight.infograb.net/blog/2023/08/29/gitlab-vs-github)
+
+---
+
 ## Dev.to
 
 - [Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)

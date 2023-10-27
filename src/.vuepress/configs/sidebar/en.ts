@@ -965,6 +965,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-kotlin-android/853-couchbase-tutorial-for-android-getting-started.md',
         '/crashcourse/kodeco-kotlin-android/523-augmented-reality-in-android-with-google-s-face-api.md',
         '/crashcourse/kodeco-kotlin-android/324-viewpager-tutorial-getting-started-in-kotlin.md',
+        // 2022
+        '/crashcourse/kodeco-kotlin-android/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md'
       ]
     }, {
       text: '🐍Finance with Python',
@@ -985,6 +987,12 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/py-finance-w-python/12.md', 
       ]
     }, {
+      text: '🐍사장님 몰래 하는 파이썬 업무자동화 (들키면 일 많아짐)',
+      collapsible: true,
+      children: [
+        '/crashcourse/py-rpa-excel/README.md',
+      ]
+    },{
       text: '🦊freecodecamp.org - DevOps with GitLab CI',
       collapsible: true,
       children: [

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5KWWMMAPug0", "title": "EC2 인스턴스에 액세스하려고 하면 &quot;권한 거부 (publickey)&quot; 또는 &quot;인증 실패, 권한 거부&quot; 오류가 발생합니다. 이 문제를 해결하려면 어떻게 해야 합니까?" },
+    { "id": "7XRinQLaKDY", "title": "Scaling AWS Verified Access With AWS Resource Access Manager | Amazon Web Services" },
+    { "id": "sWaeDfhFhHM", "title": "Using S3 for Veeam SOBR | Amazon Web Services" },
+    { "id": "QLROKRRIuuQ", "title": "How to tag resources proactively and automatically at scale? | Amazon Web Services" },
+    { "id": "Raj6EYOyRhU", "title": "Startup to Success: A Decade of AWS Activate featuring Airtasker | Amazon Web Services" },
+    { "id": "Lw-x8K3OvOY", "title": "Data for Executives - Unlock a New Level of Business Offerings | Amazon Web Services" },
+    { "id": "QidwOhfOG9k", "title": "Data for Executives - Creating a Data-Driven Culture | Amazon Web Services" },
     { "id": "mVRhgze0gGU", "title": "Amazon ECS: ECS Capacity Provider Overview | Amazon Web Services" },
     { "id": "G3DjBRaWWsw", "title": "Introducing Db2 Warehouse on AWS | Amazon Web Services" },
     { "id": "odpAJ8QKU3k", "title": "Netezza Performance Server on AWS | Amazon Web Services" },

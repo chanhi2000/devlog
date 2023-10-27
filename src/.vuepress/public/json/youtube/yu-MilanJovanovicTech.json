@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "za40h3_blkE", "title": "How to Write a Validator with `FluentValidation` #shorts" },
+    { "id": "ptl2-4adyCE", "title": "How to Add Caching To Your Repository With the Decorator Pattern" },
     { "id": "R-XODYF2iBQ", "title": "Refactoring the Domain Layer Structure With Vertical Slices" },
     { "id": "WtcH_M3hoHs", "title": "How To Add Authentication To Your SignalR Hub #shorts" },
     { "id": "PqVQFUCTzUM", "title": "The Brand New Way to do Fault Handling in Polly V8" },

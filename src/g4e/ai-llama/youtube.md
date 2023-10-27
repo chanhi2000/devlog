@@ -14,28 +14,8 @@ tags: ["youtube", "tutorial", "llama" , "llm", "@matthew_berman", "@streamlitoff
 
 ---
 
-## Matthew Berman
-
-<MyYouTubeItems jsonName="yu-matthew_berman" />
-
-<!-- Matthew Berman -->
-
----
-
-## Streamlit
-
-<MyYouTubeItems jsonName="yu-streamlitofficial" />
-
-<!-- Streamlit -->
-
----
-
-## inhumanity Studios
-
-<MyYouTubeItems jsonName="yu-inhumanitystudios" />
-
-<!-- inhumanity Studios -->
-
----
+<MyYouTubeItems jsonName="yu-matthew_berman" /><!-- Matthew Berman -->
+<MyYouTubeItems jsonName="yu-streamlitofficial" /><!-- Streamlit -->
+<MyYouTubeItems jsonName="yu-inhumanitystudios" /><!-- inhumanity Studios -->
 
 <TagLinks/>

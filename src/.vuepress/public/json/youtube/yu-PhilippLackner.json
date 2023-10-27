@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1y7wC9_3SSs", "title": "Tech Companies Love This, But I DON'T GET IT" },
+    { "id": "3CjOyoqi_PQ", "title": "How to Implement Pinch Zoom Gestures in Jetpack Compose - Android Studio Tutorial" },
+    { "id": "4_fDefmI3yI", "title": "95% Don't Understand THIS About Coroutines (Main-Safety)" },
     { "id": "12_iKwGIP64", "title": "How to Build a Camera App With CameraX - Taking Photos" },
     { "id": "eYGQEQnLpnI", "title": "How to Build a Video Recorder With CameraX in Android" },
     { "id": "ViRfnLAR_Uc", "title": "AI Landmark Recognition With Tensorflow Lite and CameraX on Android" },

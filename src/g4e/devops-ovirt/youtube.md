@@ -13,20 +13,7 @@ tags: ["youtube", "tutorial", "bash", "sh", "ovirt", "vm", "@MindDripMedia", "@s
 
 ---
 
-## Mind Drip Media
-
-<MyYouTubeItems jsonName="yu-MindDripMedia" />
-
-<!-- Mind Drip Media -->
-
----
-
-## Storware
-
-<MyYouTubeItems jsonName="yu-storware" />
-
-<!-- Storware -->
-
----
+<MyYouTubeItems jsonName="yu-MindDripMedia" /><!-- Mind Drip Media -->
+<MyYouTubeItems jsonName="yu-storware" /><!-- Storware -->
 
 <TagLinks />

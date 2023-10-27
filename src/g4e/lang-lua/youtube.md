@@ -22,44 +22,10 @@ meta:
 
 ---
 
-## TheVimeagen
-
-<MyYouTubeItems jsonName="yu-TheVimeagen" />
-
-<!-- TheVimeagen -->
-
----
-
-## Cretezy
-
-<MyYouTubeItems jsonName="yu-cretezy" />
-
-<!-- Cretezy -->
-
----
-
-## Albin Groen
-
-<MyYouTubeItems jsonName="yu-albingroen1205" />
-
-<!-- Albin Groen -->
-
----
-
-## MAKC
-
-<MyYouTubeItems jsonName="yu-makc" />
-
-<!-- MAKC -->
-
----
-
-## typecraft
-
-<MyYouTubeItems jsonName="yu-typecraft_dev" />
-
-<!-- typecraft -->
-
----
+<MyYouTubeItems jsonName="yu-TheVimeagen" /><!-- TheVimeagen -->
+<MyYouTubeItems jsonName="yu-cretezy" /><!-- Cretezy -->
+<MyYouTubeItems jsonName="yu-albingroen1205" /><!-- Albin Groen -->
+<MyYouTubeItems jsonName="yu-makc" /><!-- MAKC -->
+<MyYouTubeItems jsonName="yu-typecraft_dev" /><!-- typecraft -->
 
 <TagLinks />

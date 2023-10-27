@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h2-mlyRZYMc", "title": "Payment APIs Uncovered: Your Complete Guide for Flutter/React Native | Build API step by step" },
+    { "id": "VsuG1lYSqJg", "title": "Flutter App Building Advanced Concepts | Part 6" },
+    { "id": "noeJXHM0bpY", "title": "Flutter Cubit Clean Architecture" },
     { "id": "jMqwMqI_OU4", "title": "Flutter Nodejs Tutorial | Job App Course Using Firebase" },
     { "id": "TLnOChL8GOI", "title": "Build Beautiful React JS Web App | Booking App | Restful API | Fully Responsive | Part 1" },
     { "id": "BsI8gTtYnu0", "title": "Flutter Set Up Unit Test" },

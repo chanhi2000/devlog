@@ -13,34 +13,9 @@ tags: ["youtube", "tutorial", "gitlab", "gitlab-cli", "sh", "yml", "@GitLabUnfil
 
 ---
 
-## GitLab Unfiltered
-
-<MyYouTubeItems jsonName="yu-GitLabUnfiltered" />
-
----
-
-## Gitlab
-
-<MyYouTubeItems jsonName="yu-Gitlab" />
-
-<!-- Gitlab -->
-
----
-
-## Raaviblog
-
-<MyYouTubeItems jsonName="yu-raaviblog105" />
-
-<!-- Raaviblog -->
-
----
-
-## Ankit Malhotra
-
-<MyYouTubeItems jsonName="yu-seefromfar143" />
-
-<!-- Ankit Malhotra -->
-
----
+<MyYouTubeItems jsonName="yu-GitLabUnfiltered" /><!-- GitLab Unfiltered -->
+<MyYouTubeItems jsonName="yu-Gitlab" /><!-- Gitlab -->
+<MyYouTubeItems jsonName="yu-raaviblog105" /><!-- Raaviblog -->
+<MyYouTubeItems jsonName="yu-seefromfar143" /><!-- Ankit Malhotra -->
 
 <TagLinks />

@@ -19,7 +19,7 @@ description: 🤖Android
 - [🐚adb](adb.md)
 - [💡Tips](tips.md)
 - [🩺Troubleshooting](troubleshooting.md)
-- [🅺🔮Kotlin Snippets](snippets-kotiln.md)
+- [🅺🔮Kotlin Snippets](snippets-kotlin.md)
 - [✈️🔮Jetpack Compose Snippets](snippets-jetpack-compose.md)
 - [🐘🔮Gradle Snippets](snippets-gradle.md)
 - [📚References](references.md)

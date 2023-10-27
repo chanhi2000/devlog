@@ -18,36 +18,9 @@ tags:
 
 ---
 
-## Dev tips by MoHo
-
-<MyYouTubeItems jsonName="yu-dev.channel" />
-
-<!-- Dev tips by MoHo -->
-
----
-
-## DanCanCode
-
-<MyYouTubeItems jsonName="yu-DanCanCode" />
-
-<!-- DanCanCode -->
-
----
-
-## ALOHA CLASS
-
-<MyYouTubeItems jsonName="yu-alohaclass8075" />
-
-<!-- ALOHA CLASS -->
-
----
-
-## Coding in Public
-
-<MyYouTubeItems jsonName="yu-CodinginPublic" />
-
-<!-- Coding in Public -->
-
----
+<MyYouTubeItems jsonName="yu-dev.channel" /><!-- Dev tips by MoHo -->
+<MyYouTubeItems jsonName="yu-DanCanCode" /><!-- DanCanCode -->
+<MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 
 <TagLinks />

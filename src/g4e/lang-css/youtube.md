@@ -13,92 +13,16 @@ tags: ["education", "youtube", "programming", "css"]
 
 ---
 
-## Kevin Powell
-
-<MyYouTubeItems jsonName="yu-KevinPowell" />
-
-<!-- Kevin Powell -->
-
----
-
-## 빔캠프 CSS
-
-<MyYouTubeItems jsonName="yu-veamcamp" />
-
-<!-- 빔캠프 CSS -->
-
----
-
-## Online Tutorials
-
-<MyYouTubeItems jsonName="yu-OnlineTutorialsYT" />
-
-<!-- Online Tutorials -->
-
----
-
-## Extern Code
-
-<MyYouTubeItems jsonName="yu-ExternCode" />
-
-<!-- Extern Code -->
-
----
-
-## Zero To Mastery
-
-<MyYouTubeItems jsonName="yu-ZeroToMastery" />
-
-<!-- Zero To Mastery -->
-
----
-
-## Rock's Easyweb
-
-<MyYouTubeItems jsonName="yu-ezweb" />
-
-<!-- Rock's Easyweb -->
-
----
-
-## 코딩셀러 - Build and Sell
-
-<MyYouTubeItems jsonName="yu-codingSeller" />
-
-<!-- 코딩셀러 - Build and Sell -->
-
----
-
-## garnatti one
-
-<MyYouTubeItems jsonName="yu-garnattione" />
-
-<!-- garnatti one -->
-
----
-
-## Federico Terzi
-
-<MyYouTubeItems jsonName="yu-FedericoTerzi" />
-
-<!-- Federico Terzi -->
-
----
-
-## DarkCode
-
-<MyYouTubeItems jsonName="yu-DarkCodeOnline" />
-
-<!-- DarkCode -->
-
----
-
-## Online Mentor
-
-<MyYouTubeItems jsonName="yu-onlinementor1013" />
-
-<!-- Online Mentor -->
-
----
+<MyYouTubeItems jsonName="yu-KevinPowell" /><!-- Kevin Powell -->
+<MyYouTubeItems jsonName="yu-veamcamp" /><!-- 빔캠프 CSS -->
+<MyYouTubeItems jsonName="yu-OnlineTutorialsYT" /><!-- Online Tutorials -->
+<MyYouTubeItems jsonName="yu-ExternCode" /><!-- Extern Code -->
+<MyYouTubeItems jsonName="yu-ZeroToMastery" /><!-- Zero To Mastery -->
+<MyYouTubeItems jsonName="yu-ezweb" /><!-- Rock's Easyweb -->
+<MyYouTubeItems jsonName="yu-codingSeller" /><!-- 코딩셀러 - Build and Sell -->
+<MyYouTubeItems jsonName="yu-garnattione" /><!-- garnatti one -->
+<MyYouTubeItems jsonName="yu-FedericoTerzi" /><!-- Federico Terzi -->
+<MyYouTubeItems jsonName="yu-DarkCodeOnline" /><!-- DarkCode -->
+<MyYouTubeItems jsonName="yu-onlinementor1013" /><!-- Online Mentor -->
 
 <TagLinks />

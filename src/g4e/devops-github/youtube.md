@@ -13,20 +13,7 @@ tags: ["youtube", "tutorial", "github", "github-action", "study", "@Github"]
 
 ---
 
-## Truffle Security
-
-<MyYouTubeItems jsonName="yu-TruffleSecurity" />
-
-<!-- Truffle Security -->
-
----
-
-## Github
-
-<MyYouTubeItems jsonName="yu-Github" />
-
-<!-- Github -->
-
----
+<MyYouTubeItems jsonName="yu-TruffleSecurity" /><!-- Truffle Security -->
+<MyYouTubeItems jsonName="yu-Github" /><!-- Github -->
 
 <TagLinks />

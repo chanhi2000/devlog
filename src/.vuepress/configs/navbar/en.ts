@@ -109,14 +109,28 @@ export const navbarEn: NavbarConfig = [
           }
         ]
       }, {
-        text: 'Python',
+        text: '🐍Python',
         children: [
           {
             text: '🐍Finance with Python',
             link: '/crashcourse/py-finance-w-python/README.md',
+          }, {
+            text: '🐍사장님 몰래 하는 파이썬 업무자동화 (들키면 일 많아짐)',
+            link: '/crashcourse/py-rpa-excel/README.md',
           }
         ]
-      },{
+      }, {
+        text: '🦀Rust',
+        children: [
+          {
+            text: '🦀freecodecamp.org - Rust by Practice',
+            link: '/crashcourse/rust-by-practice/README.md'          
+          }, {
+            text: '🦀Rust to Assembly',
+            link: '/crashcourse/eventhelix-rust-to-assembly/README.md'
+          }
+        ]
+      }, {
         text: 'DevOps',
         children: [
           {
@@ -142,12 +156,6 @@ export const navbarEn: NavbarConfig = [
           {
             text: '🎨Colt Steele - Mastering CSS Grid',
             link: '/crashcourse/colt-steele-mastering-css-grid/README.md'          
-          }, {
-            text: '🦀freecodecamp.org - Rust by Practice',
-            link: '/crashcourse/rust-by-practice/README.md'          
-          }, {
-            text: '🦀Rust to Assembly',
-            link: '/crashcourse/eventhelix-rust-to-assembly/README.md'
           }, {
             text: '🙆‍♂️DB Server 성능 향상, 분석 및 튜닝 전문가 향상과정',
             link: '/crashcourse/oracle-sql-db-tuning/README.md'

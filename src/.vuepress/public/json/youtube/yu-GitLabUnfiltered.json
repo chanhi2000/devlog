@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "a1ny57Wvkf8", "title": "Integrating 3rd Party Security Scanners with GitLab" },
+    { "id": "9VTGW1pCTC8", "title": "Advanced CI/CD - GitLab Webinar" },
+    { "id": "Re1pwIEsSio", "title": "Local development & debugging of VS Code Extension + Language Server" },
+    { "id": "gvE0gyqo8ag", "title": "VSCode Workflow: Maintainer onboarding session (2023-10-19)" },
+    { "id": "l9T4HBk_Fbk", "title": "Security and Compliance virtual workshop EMEA October 2023" },
+    { "id": "yOqYnWw6gqU", "title": "Step Runner POC Demo in Production" },
     { "id": "B3HkiWj2G4s", "title": "Demo: Standards Adherence Dashboard" },
     { "id": "e9zeDqXFljM", "title": "Creating a dev feature flag for development of GitLab" },
     { "id": "sQ7Nw3o0izc", "title": "Intro to CI/CD - GitLab Webinar" },

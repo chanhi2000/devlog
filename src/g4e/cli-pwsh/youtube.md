@@ -13,28 +13,8 @@ tags: ["youtube", "tutorial", "powershell", "windows", "windows-terminal", "mult
 
 ---
 
-## TechThoughts
-
-<MyYouTubeItems jsonName="yu-Techthoughts2" />
-
-<!-- TechThoughts -->
-
----
-
-## Shane Young
-
-<MyYouTubeItems jsonName="yu-ShanesCows" />
-
-<!-- Shane Young -->
-
----
-
-## Server Academy
-
-<MyYouTubeItems jsonName="yu-ServerAcademy" />
-
-<!-- Server Academy -->
-
----
+<MyYouTubeItems jsonName="yu-Techthoughts2" /><!-- TechThoughts -->
+<MyYouTubeItems jsonName="yu-ShanesCows" /><!-- Shane Young -->
+<MyYouTubeItems jsonName="yu-ServerAcademy" /><!-- Server Academy -->
 
 <TagLinks />

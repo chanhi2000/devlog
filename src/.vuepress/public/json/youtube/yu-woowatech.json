@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/sRbGB0rMtwOBAtcV9W27xW9QC8yV6irtym_tApvPV_Wl1TCNB7lr1fcnr6DabhC6_dbrVQ2E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nQgwlyBrxDs", "title": "[우아한테크세미나] 글 쓰는 우아한 개발자 - 2부 [우아한 타입스크립트  With 리액트]" },
+    { "id": "BQ5rRLwa1fg", "title": "[우아한테크세미나] 글 쓰는 우아한 개발자 - 1부 [요즘 우아한 개발]" },
     { "id": "tJauBMXEtJA", "title": "[10분 테코톡] 망고의 DeadLock" },
     { "id": "usEsrsaSSuU", "title": "[10분 테코톡] 모디의 MySQL의 실행 계획" },
     { "id": "PaGOJ3887Js", "title": "[10분 테코톡] 코비의 Kotlin Coroutine" },

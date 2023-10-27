@@ -13,20 +13,7 @@ tags: ["elixir", "exs", "youtube"]
 
 ---
 
-## Hasgeek TV
-    
-<MyYouTubeItems jsonName="yu-HasGeekTV" />
-
-<!-- Hasgeek TV -->
-
----
-
-## ElixirConf
-
-<MyYouTubeItems jsonName="yu-ElixirConf" />
-
-<!-- ElixirConf -->
-
----
+<MyYouTubeItems jsonName="yu-HasGeekTV" /><!-- Hasgeek TV -->
+<MyYouTubeItems jsonName="yu-ElixirConf" /><!-- ElixirConf -->
 
 <TagLinks />

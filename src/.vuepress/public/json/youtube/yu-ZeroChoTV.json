@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/zbGnT0VkoezJIWaoEyLz0mCzkcD8tBbJB0bXgg-j4zB43-d6unyWDWcMbcKYqTw3n8sn7Nk30ls=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pDuQ5BV1oSs", "title": "제로초의 시그니처 강좌 Next 13 App Router 시작!" },
+    { "id": "Y_vYuy9HFys", "title": "Next13 App Router - X.com 클론코딩 화면 똑같게!" },
+    { "id": "wYfsSe0P9ew", "title": "Next13 App Router - 클론코딩 마지막 라이브!" },
     { "id": "XVXZSpqzCes", "title": "[네이버클론코딩1-11]길어진 css 코드 정리하는 법" }, 
     { "id": "adNgtmE27-o", "title": "[네이버클론코딩1-10]z-index와 display: none을 쓰면 안 될 때(웹접근성)" }, 
     { "id": "HZ0PhDhM-S4", "title": "타입스크립트 교과서 - 모듈시스템 총정리(commonjs, esm, import, export, declare global, declare module, 스크립트 파일)" }, 

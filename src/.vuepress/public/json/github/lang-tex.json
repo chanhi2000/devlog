@@ -29,5 +29,10 @@
     "desc": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "premAI-io/state-of-open-source-ai",
+    "desc": "Clarity in the current fast-paced mess of Open Source innovation",
+    "officialSite": "https://book.premai.io/state-of-open-source-ai",
+    "topics": ["ai", "book", "hacktoberfest", "jupyter-book", "ml", "mlops", "open-source"]
   }
 ]

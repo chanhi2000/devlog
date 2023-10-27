@@ -38,7 +38,8 @@
       v-bind:channelId="channel.id" 
       v-bind:id="v.id"
       v-bind:title="v.title" />
-  </details>
+  </details>  
+  <hr>
 </template>
 
 <script>

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/UuEyyRPS2FgK0jnnPEiI7SPPQeRqIPXjmUKbVYOZNfvVItK6YleY86RcfHXjPB7pQEhbN4ijRQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I3UmeNf80e4", "title": "Writing code without the setup with GitHub Codespaces" },
+    { "id": "D-gkwzExddk", "title": "Fix CORS Errors in minutes with GitHub Copilot Chat" },
     { "id": "VZTSpkpFvgQ", "title": "Open Source Fridays with Jarred Sumner and Bun" },
     { "id": "lV5iW52JSFA", "title": "Create better issues in GitHub Mobile!" },
     { "id": "weEVLt9cP8I", "title": "Make React Faster with Million.js - Open Source Friday" },

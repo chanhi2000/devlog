@@ -13,76 +13,14 @@ tags: ["education", "youtube", "programming", "php", "laravel"]
 
 ---
 
-## The Codeholic
-
-<MyYouTubeItems jsonName="yu-TheCodeholic" />
-
-<!-- The Codeholic -->
-
----
-
-## Laravel Daily
-
-<MyYouTubeItems jsonName="yu-LaravelDaily" />
-
-<!-- Laravel Daily -->
-
----
-
-## Andrew Schmelyun
-
-<MyYouTubeItems jsonName="yu-aschmelyun" />
-
-<!-- Andrew Schmelyun -->
-
----
-
-## Alessandro Castellani
-
-<MyYouTubeItems jsonName="yu-alecaddd" />
-
-<!-- Alessandro Castellani -->
-
----
-
-## Source Code PH
-
-<MyYouTubeItems jsonName="yu-SourceCodePH743" />
-
-<!-- Source Code PH -->
-
----
-
-## PHP Annotated
-
-<MyYouTubeItems jsonName="yu-phpannotated" />
-
-<!-- PHP Annotated -->
-
----
-
-## Andre Madarang
-
-<MyYouTubeItems jsonName="yu-drehimself" />
-
-<!-- Andre Madarang -->
-
----
-
-## Program With Gio
-
-<MyYouTubeItems jsonName="yu-ProgramWithGio" />
-
-<!-- Program With Gio -->
-
----
-
-## Code With Dary
-
-<MyYouTubeItems jsonName="yu-codewithdary" />
-
-<!-- Code With Dary -->
-
----
+<MyYouTubeItems jsonName="yu-TheCodeholic" /><!-- The Codeholic -->
+<MyYouTubeItems jsonName="yu-LaravelDaily" /><!-- Laravel Daily -->
+<MyYouTubeItems jsonName="yu-aschmelyun" /><!-- Andrew Schmelyun -->
+<MyYouTubeItems jsonName="yu-alecaddd" /><!-- Alessandro Castellani -->
+<MyYouTubeItems jsonName="yu-SourceCodePH743" /><!-- Source Code PH -->
+<MyYouTubeItems jsonName="yu-phpannotated" /><!-- PHP Annotated -->
+<MyYouTubeItems jsonName="yu-drehimself" /><!-- Andre Madarang -->
+<MyYouTubeItems jsonName="yu-ProgramWithGio" /><!-- Program With Gio -->
+<MyYouTubeItems jsonName="yu-codewithdary" /><!-- Code With Dary -->
 
 <TagLinks />

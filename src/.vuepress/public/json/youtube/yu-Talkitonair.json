@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "q_376ZadIL4", "title": "멀티 클라우드 환경에서의 IPAM 및 Secret Management 관리 방안[토크아이티 웨비나]" },
+    { "id": "9z83UkeF78A", "title": "쿠버네티스 재해복구 운영 방식: Warm DR vs Hot DR vs Active-Active DR [구해줘 IT infra@토크아이티, 맨텍솔루션]" },
+    { "id": "vS_h36LfuRQ", "title": "제조업이 고민하는 AI 활용 이슈와 대안: 망분리, 보안, 현업 참여, 제조환경 [구해줘 AI@토크아이티, 쿤텍, 데이터이쿠]" },
+    { "id": "Vlm2QRvALgw", "title": "탄소세 대응 실전 가이드 feat. 20개 중소기업 대응사례 [구해줘 Manufacturing@토크아이티, 쿤텍]" },
+    { "id": "2VKwcH9ZTvc", "title": "Nutanix HCI기반 어플리케이션 자동화 및 하이브리드 멀티클라우드 관리[ 구해줘 IT infra@토크아이티 프리미엄 웨비나, 아이웍스]" },
+    { "id": "uE372DTIGpA", "title": "차세대 데이터분석을 위한 데이터 엔지니어링과 DB 모델링 [구해줘 Data 프리미엄 웨비나@토크아이티, 아이엠그루]" },
+    { "id": "EUJ0c2PCJ1o", "title": "디지털전환 프로젝트 성공의 핵심, 현업부서 참여방안 실전 Tips  [구해줘 DX@토크아이티, 투이컨설팅]" },
     { "id": "6DK6jx2lYd0", "title": "RPA PM이 얘기하는 RPA 고도화 체크포인트  [토크아이티 구해줘DX, 파워젠]" },
     { "id": "Dg4mOl1CzWE", "title": "AI, DX시대, 차세대 ERP의 본질은? 개발 프랙티스 변화, 오퍼레이션 데이터 자동화 [토크아이티 구해줘 DX, ASPN]" },
     { "id": "N1Sq4UyP3RM", "title": "Ceph 스토리지 분야별 use-case [토크아이티 구해줘 Data, 대한씨앤아이, Seagate]" },

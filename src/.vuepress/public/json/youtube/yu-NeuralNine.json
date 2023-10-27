@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GDkb5vGfwks", "title": "ChatGPT Understands Images Now: Is AGI Coming?" },
+    { "id": "lpaq_6kU5hg", "title": "Technical Analysis with TradingView in Python" },
+    { "id": "sZl-H6GkHrk", "title": "Custom HTML Filters in Flask Applications" },
     { "id": "9KE-YZ0rLTY", "title": "Custom Format Specifiers for Python Classes" },
     { "id": "JJ9zZ8cyaEk", "title": "Debugging 101: Replace `print()` with icecream `ic()`" },
     { "id": "1FCa7WdTG3k", "title": "Analyze Linux Files Visually with QDirStat" },

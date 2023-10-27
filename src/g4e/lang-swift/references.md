@@ -76,9 +76,13 @@ tags: ["references", "swift"]
 - [How to build an iOS Live Activity](https://medium.com/kinandcartacreated/how-to-build-ios-live-activity-d1b2f238819e)
 - [Create a Swift Package in Xcode](https://stevenpcurtis.medium.com/create-a-swift-package-in-xcode-e7700adf7a7d)
 - [A simple chat app with SwiftUI and WebSockets — or: Swift in the back, Swift in the front!](https://frzi.medium.com/a-simple-chat-app-with-swiftui-and-websockets-or-swift-in-the-back-swift-in-the-front-78b34c3dc912)
-
+- [Simplifying SwiftUI Navigation](https://medium.com/@mahmoudabdelshafi4/simplifying-swiftui-navigation-f510cb58f46f)
 
 ---
+
+## Dev.to
+
+- [Swift: Evolution and backward compatibility. Exploring `@available` and `#available` attributes.](https://dev.to/bsorrentino/swift-evolution-and-backward-compatibility-exploring-available-and-available-attributes-51il)
 
 
 ## Sarunw
@@ -228,6 +232,23 @@ tags: ["references", "swift"]
 - [How `async`/`await` works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
 
 ---
+
+## Swift with Majid
+
+- [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift)
+
+---
+
+## pointfree
+
+- [Being a good citizen in the land of `SwiftSyntax`](https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax)
+
+---
+
+## padraig
+
+- [`SwiftSyntax` Code Generation Notes](https://padraig.org/swift-format/2023/10/17/swift-format-tips)
+
 
 ## Misc
 

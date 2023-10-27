@@ -13,68 +13,13 @@ tags: ["youtube", "tutorial", "aws", "amazon", "amazon-web-service", "@CloudLear
 
 ---
 
-## Cloud Learning
-
-<MyYouTubeItems jsonName="yu-CloudLearning" />
-
-<!-- Cloud Learning -->
-
----
-
-## Go Cloud Architects
-
-<MyYouTubeItems jsonName="yu-GoCloudArchitects" />
-
-<!-- Go Cloud Architects -->
-
----
-
-## Vercel
-
-<MyYouTubeItems jsonName="yu-VercelHQ" />
-
-<!-- Vercel -->
-
----
-
-## Cloud With Raj
-
-<MyYouTubeItems jsonName="yu-cloudwithraj" />
-
-<!-- Cloud With Raj -->
-
----
-
-## KBS
-
-<MyYouTubeItems jsonName="yu-be9952" />
-
-<!-- KBS -->
-
----
-
-## Ankit Malhotra
-
-<MyYouTubeItems jsonName="yu-seefromfar143" />
-
-<!-- Ankit Malhotra -->
-
----
-
-## Tech With Lucy
-
-<MyYouTubeItems jsonName="yu-TechwithLucy" />
-
-<!-- Tech With Lucy -->
-
----
-
-## AWS 강의실
-
-<MyYouTubeItems jsonName="yu-AWSClassroom" />
-
-<!-- AWS 강의실 -->
-
----
+<MyYouTubeItems jsonName="yu-CloudLearning" /><!-- Cloud Learning -->
+<MyYouTubeItems jsonName="yu-GoCloudArchitects" /><!-- Go Cloud Architects -->
+<MyYouTubeItems jsonName="yu-VercelHQ" /><!-- Vercel -->
+<MyYouTubeItems jsonName="yu-cloudwithraj" /><!-- Cloud With Raj -->
+<MyYouTubeItems jsonName="yu-be9952" /><!-- KBS -->
+<MyYouTubeItems jsonName="yu-seefromfar143" /><!-- Ankit Malhotra -->
+<MyYouTubeItems jsonName="yu-TechwithLucy" /><!-- Tech With Lucy -->
+<MyYouTubeItems jsonName="yu-AWSClassroom" /><!-- AWS 강의실 -->
 
 <TagLinks />

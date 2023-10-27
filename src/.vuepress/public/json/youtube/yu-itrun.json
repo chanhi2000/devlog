@@ -6,6 +6,18 @@
     "banner": ""
   },
   "videos": [
+    { "id": "kdclDXfJV5g", "title": "02_정적 경로 및 기본 경로 구성" },
+    { "id": "arOU5LjMuXE", "title": "04_RIPv2 라우팅 프로토콜" },
+    { "id": "651ZSm8f1lk", "title": "05_EIGRP 라우팅 프로토콜" },
+    { "id": "3U4a9CHoBOg", "title": "03_NAT" },
+    { "id": "WHIMONWW1qc", "title": "02_DHCP" },
+    { "id": "BBIz4GX9oek", "title": "01_ACL" },
+    { "id": "8Ju7cpnSrjk", "title": "08_Windows 서버 구축(Email 서버)" },
+    { "id": "3tn96yM0bgk", "title": "08_Windows 서버 구축(FTP 서버)" },
+    { "id": "yaa-HDhBJdA", "title": "08_Windows 서버 구축(Web 서버)" },
+    { "id": "ISYmdirTdjo", "title": "08_Windows 서버 구축(실습 환경 구성)" },
+    { "id": "3b2ZaAlfZuQ", "title": "08_Windows 서버 구축(DHCP 서버)" },
+    { "id": "2y05N2WNs14", "title": "01_스위치 장비 특징" },
     { "id": "uhbgRHoLzlQ", "title": "05_AWS RDS 서비스" },
     { "id": "hfTOmA4cDOg", "title": "02_네트워크 주소 체계 (1)" },
     { "id": "1FlVCvBEQdE", "title": "01_네트워크 구성 요소" },

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/HsOID_2Ri-jtwLjcRyT6c0CqH9hmSJgJDhmlcFPID77EtAZKZSwCjlWOLN9I4vEM1kmzrTszWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kmFr_8U81vU", "title": "A simple approach to layouts when going from design to code" },
+    { "id": "E0UfGiLvvpI", "title": "The border-radius feature most people don’t know about" },
+    { "id": "p3k_IrXLNRc", "title": "The problem with mobile-first CSS" },
+    { "id": "D0lIR1qVJOk", "title": "Do you make this mistake with border-radius? #css" },
+    { "id": "nnZS761ngXE", "title": "Number-only inputs aren't so straight-forward" },
+    { "id": "_2LwjfYc1x8", "title": "Using CSS custom properties like this is a waste" },
     { "id": "eYPyIq5Y3Rk", "title": "Front-end developer takes on a CSS battle" },
     { "id": "bRYwmmLC_Ns", "title": "How to create and style lists with HTML and CSS" },
     { "id": "_2LwjfYc1x8", "title": "Using CSS custom properties like this is a waste" },

@@ -15,307 +15,44 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 
 ## Frank Liu
 
-<MyYouTubeItems jsonName="yu-FrankLiuSoftware" />
-
-<!-- Frank Liu -->
-
----
-
-## IAmTimCorey
-
-<MyYouTubeItems jsonName="yu-IAmTimCorey" />
-
-<!-- IAmTimCorey -->
-
----
-
-## Les Jackson
-
-<MyYouTubeItems jsonName="yu-binarythistle" />
-
-<!-- Les Jackson -->
-
----
-
-## Nick Chapsas
-
-<MyYouTubeItems jsonName="yu-nickchapsas" />
-
-<!-- Nick Chapsas -->
-
----
-
-## Kim Too
-
-<MyYouTubeItems jsonName="yu-KIMTOOFLEX" />
-
-<!-- Kim Too -->
-
----
-
-## PetDander Tutorials
-
-<MyYouTubeItems jsonName="yu-PetDanderTutorials" />
-
-<!-- PetDander Tutorials -->
-
----
-
-## Raw Coding
-
-<MyYouTubeItems jsonName="yu-RawCoding" />
-
-<!-- Raw Coding -->
-
----
-
-## DotNet Core Central
-
-<MyYouTubeItems jsonName="yu-DotNetCoreCentral" />
-
-<!-- DotNet Core Central -->
-
----
-
-## Hassan Habib
-
-<MyYouTubeItems jsonName="yu-HassanHabib" />
-
-<!-- Hassan Habib -->
-
----
-
-## Zoran Horvat
-
-<MyYouTubeItems jsonName="yu-zoran-horvat" />
-
-<!-- Zoran Horvat -->
-
----
-
-## RJ Code Advance EN
-
-<MyYouTubeItems jsonName="yu-RJCodeAdvanceEN" />
-
-<!-- RJ Code Advance EN -->
-
----
-
-## Julio Casal
-
-<MyYouTubeItems jsonName="yu-juliocasal" />
-
-<!-- Julio Casal -->
-
----
-
-## Ervis Trupja
-
-<MyYouTubeItems jsonName="yu-DotNetHow" />
-
-<!-- Ervis Trupja -->
-
----
-
-## Scott Hanselman
-
-<MyYouTubeItems jsonName="yu-shanselman" />
-
-<!-- Scott Hanselman -->
-
----
-
-## Greg Kalapos
-
-<MyYouTubeItems jsonName="yu-gergoooooooooooooooo" />
-
-<!-- Greg Kalapos -->
-
----
-
-## Patrick God
-
-<MyYouTubeItems jsonName="yu-PatrickGod" />
-
-<!-- Patrick God -->
-
----
-
-## Midware Cloud
-
-<MyYouTubeItems jsonName="yu-MidwareCloud" />
-
-<!-- Midware Cloud -->
-
----
-
-## 언제나 휴일- 프로그래머
-
-<MyYouTubeItems jsonName="yu--559" />
-
-<!-- 언제나 휴일- 프로그래머 -->
-
----
-
-## Code With Steve
-
-<MyYouTubeItems jsonName="yu-CodeWithSteve" />
-
-<!-- Code With Steve -->
-
----
-
-## DotVVM
-
-<MyYouTubeItems jsonName="yu-DotVVM" />
-
-<!-- DotVVM -->
-
----
-
-## Fox Learn
-
-<MyYouTubeItems jsonName="yu-foxlearn" />
-
-<!-- Fox Learn -->
-
----
-
-## Intent Architect
-
-<MyYouTubeItems jsonName="yu-IntentArchitect" />
-
-<!-- Intent Architect -->
-
----
-
-## kudvenkat 
-
-<MyYouTubeItems jsonName="yu-Csharp-video-tutorialsBlogspot" />
-
-<!-- kudvenkat -->
-
----
-
-## C# Ui Academy
-
-<MyYouTubeItems jsonName="yu-CUiAcademy" />
-
-<!-- C# Ui Academy -->
-
----
-
-## .NET Interview Preparation videos
-    
-<MyYouTubeItems jsonName="yu-dnfvideo" />
-
-<!-- .NET Interview Preparation videos -->
-
----
-
-## AngelSix
-
-<MyYouTubeItems jsonName="yu-AngelSix" />
-
-<!-- AngelSix -->
-
----
-
-## Curious Drive
-
-<MyYouTubeItems jsonName="yu-CuriousDrive" />
-
-<!-- Curious Drive -->
-
----
-
-## Sameer Saini
-
-<MyYouTubeItems jsonName="yu-SameerSaini" />
-
-<!-- Sameer Saini -->
-
----
-
-## The Code Wolf
-
-<MyYouTubeItems jsonName="yu-alexthecodewolf" />
-
-<!-- The Code Wolf -->
-
----
-
-## DotNetMastery
-
-<MyYouTubeItems jsonName="yu-DotNetMastery" />
-
-<!-- DotNetMastery -->
-
----
-
-## MyCodeSpace
-
-<MyYouTubeItems jsonName="yu-MyCodeSpace1" />
-
-<!-- MyCodeSpace -->
-
----
-
-## Prof. Roque Gimenez
-
-<MyYouTubeItems jsonName="yu-prof.r4q52" />
-
-<!-- Prof. Roque Gimenez -->
-
----
-
-## Coder Foundry
-
-<MyYouTubeItems jsonName="yu-CoderFoundry" />
-
-<!-- Coder Foundry -->
-
----
-
-## Gavin Lon
-
-<MyYouTubeItems jsonName="yu-GavinLon" />
-
-<!-- Gavin Lon -->
-
----
-
-## CodeGanesh
-
-<MyYouTubeItems jsonName="yu-codeganesh" />
-
-<!-- CodeGanesh -->
-
----
-
-## 까불이코더
-
-<MyYouTubeItems jsonName="yu-kaburi-coder" />
-
-<!-- 까불이코더 -->
-
----
-
-## Gui Ferreira
-
-<MyYouTubeItems jsonName="yu-gui.ferreira" />
-
-<!-- Gui Ferreira -->
-
----
-
-## dotnet
-
-<MyYouTubeItems jsonName="yu-dotnet" />
-
-<!-- dotnet -->
-
----
-
+<MyYouTubeItems jsonName="yu-FrankLiuSoftware" /><!-- Frank Liu -->
+<MyYouTubeItems jsonName="yu-IAmTimCorey" /><!-- IAmTimCorey -->
+<MyYouTubeItems jsonName="yu-binarythistle" /><!-- Les Jackson -->
+<MyYouTubeItems jsonName="yu-nickchapsas" /><!-- Nick Chapsas -->
+<MyYouTubeItems jsonName="yu-KIMTOOFLEX" /><!-- Kim Too -->
+<MyYouTubeItems jsonName="yu-PetDanderTutorials" /><!-- PetDander Tutorials -->
+<MyYouTubeItems jsonName="yu-RawCoding" /><!-- Raw Coding -->
+<MyYouTubeItems jsonName="yu-DotNetCoreCentral" /><!-- DotNet Core Central -->
+<MyYouTubeItems jsonName="yu-HassanHabib" /><!-- Hassan Habib -->
+<MyYouTubeItems jsonName="yu-zoran-horvat" /><!-- Zoran Horvat -->
+<MyYouTubeItems jsonName="yu-RJCodeAdvanceEN" /><!-- RJ Code Advance EN -->
+<MyYouTubeItems jsonName="yu-juliocasal" /><!-- Julio Casal -->
+<MyYouTubeItems jsonName="yu-DotNetHow" /><!-- Ervis Trupja -->
+<MyYouTubeItems jsonName="yu-shanselman" /><!-- Scott Hanselman -->
+<MyYouTubeItems jsonName="yu-gergoooooooooooooooo" /><!-- Greg Kalapos -->
+<MyYouTubeItems jsonName="yu-PatrickGod" /><!-- Patrick God -->
+<MyYouTubeItems jsonName="yu-MidwareCloud" /><!-- Midware Cloud -->
+<MyYouTubeItems jsonName="yu--559" /><!-- 언제나 휴일- 프로그래머 -->
+<MyYouTubeItems jsonName="yu-CodeWithSteve" /><!-- Code With Steve -->
+<MyYouTubeItems jsonName="yu-DotVVM" /><!-- DotVVM -->
+<MyYouTubeItems jsonName="yu-foxlearn" /><!-- Fox Learn -->
+<MyYouTubeItems jsonName="yu-IntentArchitect" /><!-- Intent Architect -->
+<MyYouTubeItems jsonName="yu-Csharp-video-tutorialsBlogspot" /><!-- kudvenkat -->
+<MyYouTubeItems jsonName="yu-CUiAcademy" /><!-- C# Ui Academy -->    
+<MyYouTubeItems jsonName="yu-dnfvideo" /><!-- .NET Interview Preparation videos -->
+<MyYouTubeItems jsonName="yu-AngelSix" /><!-- AngelSix -->
+<MyYouTubeItems jsonName="yu-CuriousDrive" /><!-- Curious Drive -->
+<MyYouTubeItems jsonName="yu-SameerSaini" /><!-- Sameer Saini -->
+<MyYouTubeItems jsonName="yu-alexthecodewolf" /><!-- The Code Wolf -->
+<MyYouTubeItems jsonName="yu-DotNetMastery" /><!-- DotNetMastery -->
+<MyYouTubeItems jsonName="yu-MyCodeSpace1" /><!-- MyCodeSpace -->
+<MyYouTubeItems jsonName="yu-prof.r4q52" /><!-- Prof. Roque Gimenez -->
+<MyYouTubeItems jsonName="yu-CoderFoundry" /><!-- Coder Foundry -->
+<MyYouTubeItems jsonName="yu-GavinLon" /><!-- Gavin Lon -->
+<MyYouTubeItems jsonName="yu-codeganesh" /><!-- CodeGanesh -->
+<MyYouTubeItems jsonName="yu-kaburi-coder" /><!-- 까불이코더 -->
+<MyYouTubeItems jsonName="yu-gui.ferreira" /><!-- Gui Ferreira -->
+<MyYouTubeItems jsonName="yu-dotnet" /><!-- dotnet -->
+<MyYouTubeItems jsonName="yu-MilanJovanovicTech" /><!-- Milan Jovanović -->
 
 <TagLinks />

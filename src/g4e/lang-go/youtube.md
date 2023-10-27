@@ -20,18 +20,7 @@ meta:
 
 ---
 
-## Web Dev Cody
+<MyYouTubeItems jsonName="yu-WebDevCody" /><!-- Web Dev Cody -->
+<MyYouTubeItems jsonName="yu-TutorialEdge" /><!-- TutorialEdge -->
 
-<MyYouTubeItems jsonName="yu-WebDevCody" />
-
-<!-- Web Dev Cody -->
-
----
-
-## TutorialEdge
-
-<MyYouTubeItems jsonName="yu-TutorialEdge" />
-
-<!-- TutorialEdge -->
-
----
+<TagLinks/>

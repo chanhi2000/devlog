@@ -13,59 +13,12 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 
 ---
 
-## Continuous Delivery
+<MyYouTubeItems jsonName="yu-ContinuousDelivery" /><!-- Continuous Delivery -->
+<MyYouTubeItems jsonName="yu-Thetips4you" /><!-- Thetips4you -->
+<MyYouTubeItems jsonName="yu-RaghavPal" /><!-- Automation Step by Step -->
+<MyYouTubeItems jsonName="yu-QAShahin" /><!-- QAShahin -->
+<MyYouTubeItems jsonName="yu-JavaHomeCloud" /><!-- Java Home Cloud -->
+<MyYouTubeItems jsonName="yu-gorandev" /><!-- Goran Vasić -->
+<MyYouTubeItems jsonName="yu-DevOpsJourney" /><!-- DevOps Journey -->
 
-<MyYouTubeItems jsonName="yu-ContinuousDelivery" />
-
-<!-- Continuous Delivery -->
-
----
-
-## Thetips4you
-
-<MyYouTubeItems jsonName="yu-Thetips4you" />
-
-<!-- Thetips4you -->
-
----
-
-## Automation Step by Step
-
-<MyYouTubeItems jsonName="yu-RaghavPal" />
-
-<!-- Automation Step by Step -->
-
----
-
-## QAShahin
-
-<MyYouTubeItems jsonName="yu-QAShahin" />
-
-<!-- QAShahin -->
-
----
-
-## Java Home Cloud
-
-<MyYouTubeItems jsonName="yu-JavaHomeCloud" />
-
-<!-- Java Home Cloud -->
-
----    
-
-## Goran Vasić
-
-<MyYouTubeItems jsonName="yu-gorandev" />
-
-<!-- Goran Vasić -->
-
----
-
-## DevOps Journey
-
-<MyYouTubeItems jsonName="yu-DevOpsJourney" />
-
-<!-- DevOps Journey -->
-
----
 <TagLinks />

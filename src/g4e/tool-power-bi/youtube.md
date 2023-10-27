@@ -17,12 +17,6 @@ tags:
 
 ---
 
-## Your Own KPI
-
-<MyYouTubeItems jsonName="yu-yourownkpi" />
-
-<!-- Your Own KPI -->
-
----
+<MyYouTubeItems jsonName="yu-yourownkpi" /><!-- Your Own KPI -->
 
 <TagLinks />

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Watch Later
 description: 📺Youtube > Watch Later
-tags: ["tutorial", "jetbrains", "snazzy-labs"]
+tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@HoneyHome_Tip", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@ayshh", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@9buyrithm", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang", "@salimtalk", "@salim_nam", "@spring_butler"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,414 +13,60 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 
 ---
 
-## Chris Titus Tech
-
-<MyYouTubeItems jsonName="yu-ChrisTitusTech" />
-
-<!-- Chris Titus Tech -->
-
----
-
-## Snazzy Labs
-
-<MyYouTubeItems jsonName="yu-snazzy"/>
-
-<!-- Snazzy Labs -->
-
----
-
-## Luke Miani
-
-<MyYouTubeItems jsonName="yu-lukemiani" />
-
-<!-- Luke Miani -->
-
----
-
-## Novaspirit Tech
-
-<MyYouTubeItems jsonName="yu-NovaspiritTech" />
-
-<!-- Novaspirit Tech -->
-
----
-
-## 통구니TV
-
-<MyYouTubeItems jsonName="yu-tongguni" />
-
-<!-- 통구니TV -->
-
----
-
-## 집구석구석꿀팁, 집꿀 Honey Home Tip
-
-<MyYouTubeItems jsonName="yu-HoneyHome_Tip" />
-
-<!-- 집구석구석꿀팁, 집꿀 Honey Home Tip -->
-
----
-
-## 44BITS
-
-<MyYouTubeItems jsonName="yu-44BITSTV" />
-
-<!-- 44BITS -->
-
----
-
-## 모바일랩
-
-<MyYouTubeItems jsonName="yu-neonchang" />
-
-<!-- 모바일랩 -->
-
----
-
-## Kevin Stratvert
-
-<MyYouTubeItems jsonName="yu-KevinStratvert" />
-
-<!-- Kevin Stratvert -->
-
----
-
-## 서울리안 SEOULiAN
-
-<MyYouTubeItems jsonName="yu-seoulian" />
-
-<!-- 서울리안 SEOULiAN -->
-
----
-
-## Aleksey Konovalov
-
-<MyYouTubeItems jsonName="yu-Aleksey_Konovalov" />
-
-<!-- Aleksey Konovalov -->
-
----
-
-## Aleks Popovic
-
-<MyYouTubeItems jsonName="yu-AleksPopovic" />
-
-<!-- Aleks Popovic -->
- 
----
-
-## Jeff Su
-
-<MyYouTubeItems jsonName="yu-JeffSu" />
-
-<!-- Jeff Su -->
-
----
-
-## The Cyber Mentor
-
-<MyYouTubeItems jsonName="yu-TCMSecurityAcademy" />
-
-<!-- The Cyber Mentor -->
-
----
-
-## Seoul Workshop
-
-<MyYouTubeItems jsonName="yu-SeoulWorkshop" />
-
-<!-- Seoul Workshop -->
-
----
-
-## Execute Automation
-
-<MyYouTubeItems jsonName="yu-ExecuteAutomation" />
-
-<!-- Execute Automation -->
-
----
-
-## Mukesh otwani
-
-<MyYouTubeItems jsonName="yu-Mukeshotwani" />
-
-<!-- Mukesh otwani -->
-
----
-
-## Gary Explains
-
-<MyYouTubeItems jsonName="yu-GaryExplains" />
-
-<!-- Gary Explains -->
-
----
-
-## @시코 - 시니어코딩
-
-<MyYouTubeItems jsonName="yu-SeniorCoding" />
-
-<!-- @시코 - 시니어코딩 -->
-
----
-
-## 박재호
-
-<MyYouTubeItems jsonName="yu-devjaypark" />
-
-<!-- 박재호 -->
-
----
-
-## 두목넷 익스터디
-
-<MyYouTubeItems jsonName="yu-extudy" />
-
-<!-- 두목넷 익스터디 -->
-
----
-
-## 누나IT
-
-<MyYouTubeItems jsonName="yu-nnit" />
-
-<!-- 누나IT -->
-
----
-
-## mediacccde
-
-<MyYouTubeItems jsonName="yu-mediacccde" />
-
-<!-- mediacccde -->
-
----
-
-## SEOUL G-캠프
-
-<MyYouTubeItems jsonName="yu-WizcenterSeoul" />
-
-<!-- SEOUL G-캠프 -->
-
----
-
-## 아영이네 행복주택
-
-<MyYouTubeItems jsonName="yu-ayshh" />
-
-<!-- 아영이네 행복주택 -->
-
----
-
-## 얄팍한 코딩사전
-
-<MyYouTubeItems jsonName="yu-yalco-coding" />
-
-<!-- 얄팍한 코딩사전 -->
-
----
-
-## 콘텐주
-
-<MyYouTubeItems jsonName="yu-ContenJoo" />
-
-<!-- 콘텐주 -->
-
----
-
-## Alex Ziskind
-
-<MyYouTubeItems jsonName="yu-AZisk" />
-
-<!-- Alex Ziskind -->
-
----
-
-## interviewing.io
-
-<MyYouTubeItems jsonName="yu-interviewingio" />
-
-<!-- interviewing.io -->
-
----
-
-## 황금설명서
-
-<MyYouTubeItems jsonName="yu-goldenmanual" />
-
-<!-- 황금설명서 -->
-
----
-
-## 김노무사
-
-<MyYouTubeItems jsonName="yu-TV-bk8fv" />
-
-<!-- 김노무사 -->
-
----
-
-## 삼프로TV_경제의신과함께
-
-<MyYouTubeItems jsonName="yu-3protv" />
-
-<!-- 삼프로TV_경제의신과함께 -->
-
----
-
-## 남중구의 IT강의
-
-<MyYouTubeItems jsonName="yu-NaNyunJae" />
-
-<!-- 남중구의 IT강의 -->
-
----
-
-## 구매리즘
-
-<MyYouTubeItems jsonName="yu-9buyrithm" />
-
-<!-- 구매리즘 -->
-
----
-
-## 1분미만
-
-<MyYouTubeItems jsonName="yu-1under" />
-
-<!-- 1분미만 -->
-
----
-
-## MattKC
-
-<MyYouTubeItems jsonName="yu-MattKC" />
-
-<!-- MattKC -->
-
----
-
-## Anson Alexander
-
-<MyYouTubeItems jsonName="yu-AnsonAlexander" />
-
-<!-- Anson Alexander -->
-
----
-
-## 테크몽 Techmong
-
-<MyYouTubeItems jsonName="yu-techmong" />
-
-<!-- 테크몽 Techmong -->
-
----
-
-## Keybored
-
-<MyYouTubeItems jsonName="yu-Keybored" />
-
-<!-- Keybored -->
-
-----
-
-## 귀곰
-
-<MyYouTubeItems jsonName="yu-gwigom" />
-
-<!-- 귀곰 -->
-
----
-
-## 큰돌의터전
-
-<MyYouTubeItems jsonName="yu-kundol" />
-
-<!-- 큰돌의터전 -->
-
----
-
-## SpaceRex
-
-<MyYouTubeItems jsonName="yu-SpaceRexWill" />
-
-<!-- SpaceRex -->
-
----
-
-## Kevin Fang
-
-<MyYouTubeItems jsonName="yu-kevinfaang" />
-
-<!-- Kevin Fang -->
-
----
-
-## 스터디언
-
-<MyYouTubeItems jsonName="yu-studian365" />
-
-<!-- 스터디언 -->
-
----
-
-## ETA PRIME
-
-<MyYouTubeItems jsonName="yu-ETAPRIME" />
-
-<!-- ETA PRIME -->
-
----
-
-## Budget Nerd
-
-<MyYouTubeItems jsonName="yu-BudgetNerd" />
-
-<!-- Budget Nerd -->
-
----
-
-## Tech Talk America
-
-<MyYouTubeItems jsonName="yu-TechTalkAmerica" />
-
-<!-- Tech Talk America -->
-
----
-
-## TechWiser
-
-<MyYouTubeItems jsonName="yu-techwiser" />
-
-<!-- TechWiser -->
-
----
-
-## 테크도장
-
-<MyYouTubeItems jsonName="yu-techdojang" />
-
-<!-- 테크도장 -->
-
----
-
-## 살림톡
-
-<MyYouTubeItems jsonName="yu-salimtalk" />
-
-<!-- 살림톡 -->
-
----
-
-## 살림남 The Life
-
-<MyYouTubeItems jsonName="yu-salim_nam" />
-
-<!-- 살림남 The Life -->
-
----
-
+<MyYouTubeItems jsonName="yu-ChrisTitusTech" /><!-- Chris Titus Tech -->
+<MyYouTubeItems jsonName="yu-snazzy"/><!-- Snazzy Labs -->
+<MyYouTubeItems jsonName="yu-lukemiani" /><!-- Luke Miani -->
+<MyYouTubeItems jsonName="yu-NovaspiritTech" /> <!-- Novaspirit Tech -->
+<MyYouTubeItems jsonName="yu-tongguni" /><!-- 통구니TV -->
+<MyYouTubeItems jsonName="yu-HoneyHome_Tip" /><!-- 집구석구석꿀팁, 집꿀 Honey Home Tip -->
+<MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
+<MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
+<MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->
+<MyYouTubeItems jsonName="yu-seoulian" /><!-- 서울리안 SEOULiAN -->
+<MyYouTubeItems jsonName="yu-Aleksey_Konovalov" /><!-- Aleksey Konovalov -->
+<MyYouTubeItems jsonName="yu-AleksPopovic" /><!-- Aleks Popovic -->
+<MyYouTubeItems jsonName="yu-JeffSu" /><!-- Jeff Su -->
+<MyYouTubeItems jsonName="yu-TCMSecurityAcademy" /><!-- The Cyber Mentor -->
+<MyYouTubeItems jsonName="yu-SeoulWorkshop" /><!-- Seoul Workshop -->
+<MyYouTubeItems jsonName="yu-ExecuteAutomation" /><!-- Execute Automation -->
+<MyYouTubeItems jsonName="yu-Mukeshotwani" /><!-- Mukesh otwani -->
+<MyYouTubeItems jsonName="yu-GaryExplains" /><!-- Gary Explains -->
+<MyYouTubeItems jsonName="yu-SeniorCoding" /><!-- @시코 - 시니어코딩 -->
+<MyYouTubeItems jsonName="yu-devjaypark" /><!-- 박재호 -->
+<MyYouTubeItems jsonName="yu-extudy" /><!-- 두목넷 익스터디 -->
+<MyYouTubeItems jsonName="yu-nnit" /><!-- 누나IT -->
+<MyYouTubeItems jsonName="yu-mediacccde" /><!-- mediacccde -->
+<MyYouTubeItems jsonName="yu-WizcenterSeoul" /><!-- SEOUL G-캠프 -->
+<MyYouTubeItems jsonName="yu-ayshh" /><!-- 아영이네 행복주택 -->
+<MyYouTubeItems jsonName="yu-yalco-coding" /><!-- 얄팍한 코딩사전 -->
+<MyYouTubeItems jsonName="yu-ContenJoo" /><!-- 콘텐주 -->
+<MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
+<MyYouTubeItems jsonName="yu-interviewingio" /><!-- interviewing.io -->
+<MyYouTubeItems jsonName="yu-goldenmanual" /><!-- 황금설명서 -->
+<MyYouTubeItems jsonName="yu-TV-bk8fv" /><!-- 김노무사 -->
+<MyYouTubeItems jsonName="yu-3protv" /><!-- 삼프로TV_경제의신과함께 -->
+<MyYouTubeItems jsonName="yu-NaNyunJae" /><!-- 남중구의 IT강의 -->
+<MyYouTubeItems jsonName="yu-9buyrithm" /><!-- 구매리즘 -->
+<MyYouTubeItems jsonName="yu-1under" /><!-- 1분미만 -->
+<MyYouTubeItems jsonName="yu-MattKC" /><!-- MattKC -->
+<MyYouTubeItems jsonName="yu-AnsonAlexander" /><!-- Anson Alexander -->
+<MyYouTubeItems jsonName="yu-techmong" /><!-- 테크몽 Techmong -->
+<MyYouTubeItems jsonName="yu-Keybored" /><!-- Keybored -->
+<MyYouTubeItems jsonName="yu-gwigom" /><!-- 귀곰 -->
+<MyYouTubeItems jsonName="yu-kundol" /><!-- 큰돌의터전 -->
+<MyYouTubeItems jsonName="yu-SpaceRexWill" /><!-- SpaceRex -->
+<MyYouTubeItems jsonName="yu-kevinfaang" /><!-- Kevin Fang -->
+<MyYouTubeItems jsonName="yu-studian365" /><!-- 스터디언 -->
+<MyYouTubeItems jsonName="yu-ETAPRIME" /><!-- ETA PRIME -->
+<MyYouTubeItems jsonName="yu-BudgetNerd" /><!-- Budget Nerd -->
+<MyYouTubeItems jsonName="yu-TechTalkAmerica" /><!-- Tech Talk America -->
+<MyYouTubeItems jsonName="yu-techwiser" /><!-- TechWiser -->
+<MyYouTubeItems jsonName="yu-techdojang" /><!-- 테크도장 -->
+<MyYouTubeItems jsonName="yu-salimtalk" /><!-- 살림톡 -->
+<MyYouTubeItems jsonName="yu-salim_nam" /><!-- 살림남 The Life -->
+<MyYouTubeItems jsonName="yu-spring_butler" /><!-- 봄집사 -->
+<MyYouTubeItems jsonName="yu-salimlog" /><!-- 살림로그_살림을 기록하다. -->
+<MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
 <TagLinks />
 
 [yu-user-gn6zi9xy8q]: https://www.youtube.com/@user-gn6zi9xy8q
@@ -453,7 +99,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-user-fp8lc6ju1n]: https://www.youtube.com/@user-fp8lc6ju1n
 [yu-dev_jeongdaeri]: https://www.youtube.com/@dev_jeongdaeri
 [yu-sergey-kargopolov]: https://www.youtube.com/@SergeyKargopolov
-[yu-user-uc2wv8zw3h]: https://www.youtube.com/@user-uc2wv8zw3h
 [yu-sketch-2-react]: https://www.youtube.com/@Sketch2React
 [yu-james-montemagno]: https://www.youtube.com/@JamesMontemagno
 [yu-be9952]: https://www.youtube.com/@be9952
@@ -461,8 +106,6 @@ tags: ["tutorial", "jetbrains", "snazzy-labs"]
 [yu-selfdeveloper4687]: https://www.youtube.com/@selfdeveloper4687
 [yu-creativeclue2772]: https://www.youtube.com/@creativeclue2772
 [yu-gis]: https://www.youtube.com/@gis
-[yu-reso-coder]: https://www.youtube.com/@ResoCoder
-[yu-source-code-pm]: https://www.youtube.com/@SourceCodePHOnce
 [yu-jj362choi]: https://www.youtube.com/@jj362choi
 [yu-tadaspetra]: https://www.youtube.com/@tadaspetra
 [yu-selfhosted]: https://www.youtube.com/@selfhosted

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "life_transformation",
+    "name": "영주닐슨의 Transformation",
+    "profile": "https://yt3.googleusercontent.com/a9pOxSLbItkwF-dbYTO1fo31VO4kfeLYkCPKf8QIEKseLolMn-ssSiABsZqfhQzzv0pmJFkjxg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j3CNhNLQ_ej_CyZz8Lc1Xe2fY2XQAirr_V_npkF3z8uqysLnht3JfD45BBP6pJtU5quJviDTStg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {"id": "UjAvuqTVzlE", "title": "10일 만에 마스터하는 MS SQL 실무_1편" },
+    {"id": "vc_S92sk68k", "title": "5일만에 마스터하는 오라클 SQL 실무 Day4_조인(JOIN)의 다양한 활용" },
+    {"id": "zbhtDku0i14", "title": "5일만에 마스터하는 오라클 SQL 실무 Day3_SQL 문법과 함수 2편 order by" },
+    {"id": "Ei725FKZ6XM", "title": "5일만에 마스터하는 오라클 SQL 실무 Day2_SQL 문법과 함수 1편 without order by" },
+    {"id": "WgYap-AeYmM", "title": "5일만에 마스터하는 오라클 SQL 실무 Day1_데이터베이스 개념 이해와 프로그램 설치하기" }
+  ]
+}

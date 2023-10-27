@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Qmmy6HU26mo", "title": "Ref callbacks in React" },
+    { "id": "NngvFclfdgI", "title": "Setup VSCode like a senior React developer" },
+    { "id": "7CTHhfRmfQI", "title": "Optimise React by relocating state" },
+    { "id": "XXI9BTWWOkE", "title": "You should use enums for views in React" },
+    { "id": "4X0bVy1bQmw", "title": "Extracting hooks for views in React" },
+    { "id": "5yEG6GhoJBs", "title": "Redux - Complete Tutorial (with Redux Toolkit)" },
     { "id": "laf64Ms0yV4", "title": "The correct way to optimise React" },
     { "id": "6FHJz91IYcY", "title": "When not to use `useCallback` in React" },
     { "id": "YgNm3pVnvN0", "title": "Turning bad React code into senior React code" },

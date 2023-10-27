@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "abbiio/iosdk",
+    "desc": "Abbi iOS SDK",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tumblr/TMTumblrSDK",
+    "desc": "Unopinionated and flexible library for easily integrating Tumblr data into your iOS or OS X application.",
+    "officialSite": "http://tumblr.github.com/TMTumblrSDK",
+    "topics": []
+  }, {
+    "repo": "jonreid/OCMockito",
+    "desc": "Mockito for Objective-C: creation, verification and stubbing of mock objects",
+    "officialSite": "",
+    "topics": ["mocking", "mocking-framework", "mockito", "objective-c", "testing", "xctest"]
+  }
+]

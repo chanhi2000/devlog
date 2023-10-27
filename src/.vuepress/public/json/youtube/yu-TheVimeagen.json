@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PKbAjeMgMjw", "title": "Go TEMPL + HTMX | Brief look" },
     { "id": "-KEiLTGAllY", "title": "HTMX + Go + WebComponents :  Out Of Band Updates" },
     { "id": "rcZSOLAI1lM", "title": "Rust + Htmx + Askama : Is This Better Than GO??" },
     { "id": "FlYchvaK3TM", "title": "Rust + HTMX + Askama : Finishing The App" },

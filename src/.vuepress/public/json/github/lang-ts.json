@@ -1638,5 +1638,20 @@
     "desc": "Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website",
     "officialSite": "https://chrome.google.com/webstore/detail/openapi-devtools/jelghndoknklgabjgaeppjhommkkmdii",
     "topics": ["api", "chrome", "devtools", "generator", "openapi", "openapi3", "specification"]
+  }, {
+    "repo": "Vendicated/Vencord",
+    "desc": "The cutest Discord client mod",
+    "officialSite": "https://vencord.dev",
+    "topics": ["discord", "hacktoberfest", "mod", "plugins", "themes", "vendetta", "vendetta-plugins"]
+  }, {
+    "repo": "roadmapsh/next.roadmap.sh",
+    "desc": "Next version of roadmap.sh",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "revertinc/revert",
+    "desc": "Revert makes it incredibly easy to build integrations with any third party API",
+    "officialSite": "https://revert.dev",
+    "topics": ["access-token", "api", "crms", "hacktoberfest", "hubspot", "integration", "integrations", "nodejs", "oauth", "oauth2", "oauth2-proxy", "pipedrive", "refresh-token", "salesforce", "salesforce-api", "typescript", "zendesk", "zoho", "zoho-crm"]
   }
 ]

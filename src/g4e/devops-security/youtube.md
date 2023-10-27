@@ -13,130 +13,21 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 
 ---
 
-## John Hammond
-
-<MyYouTubeItems jsonName="yu-_JohnHammond" />
-
-<!-- John Hammond -->
-
----
-
-## 보안프로젝트[boanproject]
-
-<MyYouTubeItems jsonName="yu-boanproject" />
-
-<!-- 보안프로젝트[boanproject] -->
-
----
-
-## HackerSploit
-
-<MyYouTubeItems jsonName="yu-HackerSploit" />
-
-<!-- HackerSploit -->
-
-## Loi Liang Yang
-
-<MyYouTubeItems jsonName="yu-LoiLiangYang" />
-
-<!-- Loi Liang Yang -->
-
----
-
-## Wolfgang's Channel
-
-<MyYouTubeItems jsonName="yu-WolfgangsChannel" />
-
-<!-- Wolfgang's Channel -->
-
----
-
-## IppSec
-
-<MyYouTubeItems jsonName="yu-ippsec" />
-
-<!-- IppSec -->
-
----
-
-## The PC Security Channel
-
-<MyYouTubeItems jsonName="yu-pcsecuritychannel" />
-
-<!-- The PC Security Channel -->
-
----
-
-## Normaltic Place
-
-<MyYouTubeItems jsonName="yu-Normaltic" />
-
-<!-- Normaltic Place -->
-
----
-
-## Grant Collins
-
-<MyYouTubeItems jsonName="yu-collinsinfosec" />
-
-<!-- Grant Collins -->
-
----
-
-## Cyber Tom
-
-<MyYouTubeItems jsonName="yu-CyberTom" />
-
-<!-- Cyber Tom -->
-
----
-
-## zSecurity
-
-<MyYouTubeItems jsonName="yu-zSecurity" />
-
-<!-- zSecurity -->
-
----
-
-## 청일
-
-<MyYouTubeItems jsonName="yu-cheonghub" />
-
-<!-- 청일 -->
-
----
-
-## Nielsen Networking
-
-<MyYouTubeItems jsonName="yu-NNAdmin" />
-
-<!-- Nielsen Networking -->
-
----
-
-## Payette Forward
-
-<MyYouTubeItems jsonName="yu-PayetteForward" />
-
-<!-- Payette Forward -->
-
----
-
-## PhD Security
-
-<MyYouTubeItems jsonName="yu-ryan_phdsec" />
-
-<!-- PhD Security -->
-
----
-
-## Juhyun Song
-
-<MyYouTubeItems jsonName="yu-juhyun167" />
-
-<!-- Juhyun Song -->
-
----
+<MyYouTubeItems jsonName="yu-_JohnHammond" /><!-- John Hammond -->
+<MyYouTubeItems jsonName="yu-boanproject" /><!-- 보안프로젝트[boanproject] -->
+<MyYouTubeItems jsonName="yu-HackerSploit" /><!-- HackerSploit -->
+<MyYouTubeItems jsonName="yu-LoiLiangYang" /><!-- Loi Liang Yang -->
+<MyYouTubeItems jsonName="yu-WolfgangsChannel" /><!-- Wolfgang's Channel -->
+<MyYouTubeItems jsonName="yu-ippsec" /><!-- IppSec -->
+<MyYouTubeItems jsonName="yu-pcsecuritychannel" /><!-- The PC Security Channel -->
+<MyYouTubeItems jsonName="yu-Normaltic" /><!-- Normaltic Place -->
+<MyYouTubeItems jsonName="yu-collinsinfosec" /><!-- Grant Collins -->
+<MyYouTubeItems jsonName="yu-CyberTom" /><!-- Cyber Tom -->
+<MyYouTubeItems jsonName="yu-zSecurity" /><!-- zSecurity -->
+<MyYouTubeItems jsonName="yu-cheonghub" /><!-- 청일 -->
+<MyYouTubeItems jsonName="yu-NNAdmin" /><!-- Nielsen Networking -->
+<MyYouTubeItems jsonName="yu-PayetteForward" /><!-- Payette Forward -->
+<MyYouTubeItems jsonName="yu-ryan_phdsec" /><!-- PhD Security -->
+<MyYouTubeItems jsonName="yu-juhyun167" /><!-- Juhyun Song -->
 
 <TagLinks />

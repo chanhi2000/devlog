@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/cfwp8fGBFmn9VMB_oQQAMYzXH0D424LhuwesXLzB4gqTg5zhe5K3GbK_mF8GwUZgkQoVlwxgMiM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nYp9Itw0jko", "title": "03 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : Git 연동하기 | 리액트(React) 배우기" },
+    { "id": "j4S3Uw-L3xI", "title": "04 리액트(React.js)로 나만의 유튜브 사이트 만들기 : SCSS 셋팅하기 | 리액트에서 SCSS 사용하기" },
+    { "id": "59lkbssnsPI", "title": "05 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 페이지 만들기 | 프론트엔드 포트폴리오" },
+    { "id": "qO9usAVNj9Y", "title": "07 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 헤더 영역 완성하기 | 리액트 강좌 | 리액트 강의" },
+    { "id": "5B5c7du4uzc", "title": "09 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 컴퍼넌트 비동기 작업 | 유튜브 사이트 만들기" },
+    { "id": "5E6hIddRKqY", "title": "08 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 헤더 영역 데이터 작업 | 유튜브 사이트 만들기" },
     { "id": "WEn4_u7iDSg", "title": "02 리액트로 나만의 유튜브 사이트 만들기 프로젝트 : 라이브러리 설치하기 | 리액트 | React.js" },
     { "id": "MeUed161ewo", "title": "포트폴리오 어떻게 만들어야 할까? - 에이전시 프론트앤드 개발자 취업 #김지현 #나원지"}
   ],

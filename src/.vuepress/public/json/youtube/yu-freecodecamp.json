@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8ARodQ4Wlf4", "title": "A Beginner's Guide to WebSockets" },
+    { "id": "wrHTcjSZQ1Y", "title": "AI SaaS Chat Bot using MERN Stack – Tutorial" },
+    { "id": "H0vhkoXljq0", "title": "Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App" },
+    { "id": "cHYq1MRoyI0", "title": "Pytest Tutorial – How to Test Python Code" },
+    { "id": "LfaMVlDaQ24", "title": "Harvard CS50 (2023) – Full Computer Science University Course" },
+    { "id": "uWkcxasFWzQ", "title": "MySQL Course for Beginners" },
+    { "id": "9Y3yaoi9rUQ", "title": "Algorithmic Trading – Machine Learning & Quant Strategies Course with Python" },
     { "id": "dlK7jec2rXo", "title": "API Security for PCI Compliance (Data Security Standard)" },
     { "id": "-2UjwQzxvBQ", "title": "SvelteKit & TailwindCSS Tutorial – Build & Deploy a Web Portfolio" },
     { "id": "ZtqBQ68cfJc", "title": "The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners" },

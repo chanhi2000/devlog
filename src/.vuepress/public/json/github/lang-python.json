@@ -3098,5 +3098,20 @@
     "desc": "A library that allows you to easily mock out tests based on AWS infrastructure.",
     "officialSite": "http://docs.getmoto.org/en/latest",
     "topics": ["aws", "boto", "ec2", "s3"]
+  }, {
+    "repo": "SUDO-AI-3D/zero123plus",
+    "desc": "Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model.",
+    "officialSite": "",
+    "topics": ["3d", "3d-graphics", "aigc", "diffusers", "diffusion-models", "image-to-3d", "research-project", "text-to-3d"]
+  }, {
+    "repo": "s0md3v/roop",
+    "desc": "one-click face swap",
+    "officialSite": "",
+    "topics": ["ai", "face-swap"]
+  }, {
+    "repo": "AI-Citizen/SolidGPT",
+    "desc": "Chat everything with your code repository, ask repository level code questions, and discuss your requirements. AI Scan and learning your code repository,  provide you code repository level answer🧱 🧱",
+    "officialSite": "",
+    "topics": ["agent", "agentgpt", "agi", "autogpt", "developer-tools", "gpt-4", "llm", "productmanager", "solidgpt"]
   }
 ]

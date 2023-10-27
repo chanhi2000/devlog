@@ -13,28 +13,8 @@ tags: ["test", "testing", "selenium", "youtube", "sdetpavan", "RahulRathore41"]
 
 ---
 
-## SDET- QA Automation Techie
-
-<MyYouTubeItems jsonName="yu-sdetpavan" />
-
-<!-- SDET- QA Automation Techie -->
-
----
-
-## Rahul Rathore
-
-<MyYouTubeItems jsonName="yu-RahulRathore41" />
-
-<!-- Rahul Rathore -->
-
----
-
-## LambdaTest
-
-<MyYouTubeItems jsonName="yu-LambdaTest" />
-
-<!-- LambdaTest -->
-
----
+<MyYouTubeItems jsonName="yu-sdetpavan" /><!-- SDET- QA Automation Techie -->
+<MyYouTubeItems jsonName="yu-RahulRathore41" /><!-- Rahul Rathore -->
+<MyYouTubeItems jsonName="yu-LambdaTest" /><!-- LambdaTest -->
 
 <TagLinks />

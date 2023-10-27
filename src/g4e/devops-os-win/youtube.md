@@ -13,138 +13,22 @@ tags: ["youtube", "tutorial", "education", "windows", "@MicrosoftResearch", "@Th
 
 ---
 
-## Microsoft Research
-
-<MyYouTubeItems jsonName="yu-MicrosoftResearch" />
-
-<!-- Microsoft Research -->
-
----
-
-## ThioJoe
-
-<MyYouTubeItems jsonName="yu-ThioJoe" />
-
----
-
-## NETVN82
-
-<MyYouTubeItems jsonName="yu-NETVN82" />
-
-<!-- NETVN -->
-
----
-
-## Britec09
-
-<MyYouTubeItems jsonName="yu-Britec09" />
-
-<!-- Britec09 -->
-
----
-
-## Nobel Tech
-
-<MyYouTubeItems jsonName="yu-NobelTech" />
-
-<!-- Nobel Tech -->
-
----
-
-## Tricknology
-
-<MyYouTubeItems jsonName="yu-Tricknology" />
-
-<!-- Tricknology -->
-
----
-
-## TroubleChute
-
-<MyYouTubeItems jsonName="yu-TroubleChute" />
-
-<!-- TroubleChute -->
-
----
-
-## Geeks Tutorial
-
-<MyYouTubeItems jsonName="yu-GeeksTutorial" />
-
-<!-- Geeks Tutorial -->
-
----
-
-## Enderman
-
-<MyYouTubeItems jsonName="yu-Endermanch" />
-
-<!-- Enderman -->
-
----
-
-## TechsavvyProductions
-
-<MyYouTubeItems jsonName="yu-TechsavvyProductions" />
-
-<!-- TechsavvyProductions -->
-
----
-
-## Michael MJD
-
-<MyYouTubeItems jsonName="yu-MichaelMJD" />
-
-<!-- Michael MJD -->
-
----
-
-## Battle(non)Sense
-
-<MyYouTubeItems jsonName="yu-BattleNonSense" />
-
-<!-- Battle(non)Sense -->
-
----
-
-## Brett In Tech
-
-<MyYouTubeItems jsonName="yu-BrettInTech" />
-
-<!-- Brett In Tech -->
-
----
-
-## Tech YES City
-
-<MyYouTubeItems jsonName="yu-techyescity" />
-
-<!-- Tech YES City -->
-
----
-
-## Tech Labs
-
-<MyYouTubeItems jsonName="yu-TechLabsOfficial" />
-
-<!-- Tech Labs -->
-
----
-
-## Tanjim The Tech Guy
-
-<MyYouTubeItems jsonName="yu-TanjimTheTechGuy" />
-
-<!-- Tanjim The Tech Guy -->
-
----
-
-## 컴테크
-
-<MyYouTubeItems jsonName="yu-user-ks4vb3cv9p" />
-
-<!-- 컴테크 -->
-
----
+<MyYouTubeItems jsonName="yu-MicrosoftResearch" /><!-- Microsoft Research -->
+<MyYouTubeItems jsonName="yu-ThioJoe" /><!-- ThioJoe -->
+<MyYouTubeItems jsonName="yu-NETVN82" /><!-- NETVN -->
+<MyYouTubeItems jsonName="yu-Britec09" /><!-- Britec09 -->
+<MyYouTubeItems jsonName="yu-NobelTech" /><!-- Nobel Tech -->
+<MyYouTubeItems jsonName="yu-Tricknology" /><!-- Tricknology -->
+<MyYouTubeItems jsonName="yu-TroubleChute" /><!-- TroubleChute -->
+<MyYouTubeItems jsonName="yu-GeeksTutorial" /><!-- Geeks Tutorial -->
+<MyYouTubeItems jsonName="yu-Endermanch" /><!-- Enderman -->
+<MyYouTubeItems jsonName="yu-TechsavvyProductions" /><!-- TechsavvyProductions -->
+<MyYouTubeItems jsonName="yu-MichaelMJD" /><!-- Michael MJD -->
+<MyYouTubeItems jsonName="yu-BattleNonSense" /><!-- Battle(non)Sense -->
+<MyYouTubeItems jsonName="yu-BrettInTech" /><!-- Brett In Tech -->
+<MyYouTubeItems jsonName="yu-techyescity" /><!-- Tech YES City -->
+<MyYouTubeItems jsonName="yu-TechLabsOfficial" /><!-- Tech Labs -->
+<MyYouTubeItems jsonName="yu-TanjimTheTechGuy" /><!-- Tanjim The Tech Guy -->
+<MyYouTubeItems jsonName="yu-user-ks4vb3cv9p" /><!-- 컴테크 -->
 
 <TagLinks />

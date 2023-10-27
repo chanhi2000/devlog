@@ -200,4 +200,10 @@ description: 🐍Python > 📚References
 
 - [Using AsciiDoc & Asciidoctor for blogging](https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging)
 
+---
+
+## Marcus Lewis
+
+- [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
+
 <TagLinks />

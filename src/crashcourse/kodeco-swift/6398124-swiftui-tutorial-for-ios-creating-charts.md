@@ -87,11 +87,11 @@ To begin, you’ll add a bar chart to the app which displays the precipitation d
 
 A bar chart provides a bar for each data point. The length of each bar represents a numerical value and can run horizontally or vertically to suit your needs.
 
-Expand the `[Tabs]` group and open <FontIcon icon="fas fa-dove"/>`PrecipitationTab.swift`. You’ll see a standard SwiftUI `List()` that loops through the integers zero through 11, representing the months of the year, and displays the total precipitation for each month. The included helper functions change the integer to a month name and sum the amounts for each month.
+Expand the <FontIcon icon="iconfont icon-select"/>`[Tabs]` group and open <FontIcon icon="fas fa-dove"/>`PrecipitationTab.swift`. You’ll see a standard SwiftUI `List()` that loops through the integers zero through 11, representing the months of the year, and displays the total precipitation for each month. The included helper functions change the integer to a month name and sum the amounts for each month.
 
-Right click the empty `[Charts]` group and select `[New File]`. Select `[SwiftUI View]` and click `[Next]`. Name the new view `PrecipitationChart`.
+Right click the empty <FontIcon icon="iconfont icon-select"/>`[Charts]` group and select <FontIcon icon="iconfont icon-select"/>`[New File]`. Select <FontIcon icon="iconfont icon-select"/>`[SwiftUI View]` and click <FontIcon icon="iconfont icon-select"/>`[Next]`. Name the new view `PrecipitationChart`.
 
-Ensure the group is set to `Charts` and click `[Create]`. Open the new file. If the Canvas isn’t visible, turn it on by selecting `[Editor] ▸ [Canvas]` from the menu so you can see your progress.
+Ensure the group is set to `Charts` and click <FontIcon icon="iconfont icon-select"/>`[Create]`. Open the new file. If the Canvas isn’t visible, turn it on by selecting <FontIcon icon="iconfont icon-select"/>`[Editor] ▸ [Canvas]` from the menu so you can see your progress.
 
 Add the following code at the top of the `PrecipitationChart` struct:
 
@@ -133,7 +133,7 @@ List(0..<12) { month in
 }
 ```
 
-Open PrecipitationTab.swift and delete the no longer needed sumPrecipitation(_:) and monthAbbreviationFromInt(_:) methods. Inside body, replace the List and enclosure with a call to the new view:
+Open <FontIcon icon="fas fa-dove"/>`PrecipitationTab.swift` and delete the no longer needed `sumPrecipitation(_:)` and `monthAbbreviationFromInt(_:)` methods. Inside body, replace the List and enclosure with a call to the new view:
 
 ```swift
 PrecipitationChart(measurements: station.measurements)
@@ -190,21 +190,308 @@ A month with one inch of rain results in a rectangle 20 points wide and 15 point
 
 ## Adding a drop more detail
 
+Adding a drop more detail
+You've built a good bar chart by taking advantage of the functionality that SwiftUI provides. The outer `HStack` equally spaces the bars of the chart, which helps readability. The height of the bars shows the proportional amounts of rain over the year.
+
+However, the chart doesn't clearly indicate the exact amounts of precipitation. Add the following code after the `Spacer` in `body` to show that data:
+
+```swift
+Text("\(self.sumPrecipitation(month).stringToOneDecimal)")
+  .font(.footnote)
+  .rotationEffect(.degrees(-90))
+  .offset(y: 35)
+  .zIndex(1)
+```
+
+You’ve added a text view to each bar. It displays the total precipitation for that month rounded to one decimal using an extension method on the `Double` type. You can find it in <FontIcon icon="fas fa-dove"/>`DoubleExtension.swift`.
+
+The text view’s font is set to match the month label and rotates the text counterclockwise by 90 degrees so it flows parallel to the bar. The view is then offset by 35 points downward, placing it inside the bar.
+
+SwiftUI renders views in the order they’re read. This means the rainfall amount would normally be behind the bar since it occupies the same space.
+
+Setting the `zIndex` property to something other than the default zero value tells SwiftUI to override that default order. Setting it to one tells SwiftUI to draw the `Text` on top of views with the default `zIndex` including the bar.
+
+![bar-chart-label](https://koenig-media.raywenderlich.com/uploads/2019/11/bar-chart-label-231x500.png =240x)
+
+Build and run the app to test this new text view out. Then go to the __Cherokee, NC__ station and select the precipitation tab to see an interesting little bug. Little rain fell in July of 2018 making the bar too short to contain its text.
+
+![precip-bar-error](https://koenig-media.raywenderlich.com/uploads/2019/11/precip-bar-error-231x500.png =240x)
+
+To fix this bug, you need to add a check to the offset by replacing the offset in the text view with the following:
+
+```swift
+.offset(y: self.sumPrecipitation(month) < 2.4 ? 0 : 35)
+```
+
+If the amount of precipitation for a month is less than 2.4 inches, which would result in a bar 36 points long, the text remains at the top of the bar.
+
+![correctd-cherokee-precip](https://koenig-media.raywenderlich.com/uploads/2019/11/corrected-cherokee-precip-231x500.png =240x)
+
+Beautiful! You've now successfully replaced a list with a bar chart. This chart lets the viewer see all the original list data with a clearer visual guide to the differences in precipitation for each month.
+
+Now that you have a precipitation chart, you're ready to create a horizontal bar chart for snowfall.
+
 ---
 
 ## Building a Horizontal Bar Chart
+
+The Smoky Mountains contain some of the highest elevations in the eastern United States. But, outside of those higher elevations, they receive less snow than you might expect.
+
+The scarcity of snow means a chart grouping by month, as the precipitation chart did, would show bumps at the start and end of the year with nothing in the middle. Instead, you'll graph the snow using a horizontal bar chart that only shows the days of the year receiving snowfall.
+
+Right click the <FontIcon icon="iconfont icon-select"/>`[Charts]` group in Xcode and select <FontIcon icon="iconfont icon-select"/>`[New File]`. Select <FontIcon icon="iconfont icon-select"/>`[SwiftUI View]` and click <FontIcon icon="iconfont icon-select"/>`[Next]`.
+
+Name the new view `SnowfallChart` and ensure the group is set to __Charts__. Click <FontIcon icon="iconfont icon-select  "/>`[Create]` and open the new file.
+
+You need to pass measurements to this view again by adding the following code to the top of the struct:
+
+```swift
+var measurements: [DayInfo]
+```
+
+You'll use Mount LeConte for the preview because it has the most days with snowfall and the largest amounts of snow. Change the preview to:
+
+```swift
+SnowfallChart(measurements: WeatherInformation()!.stations[2].measurements)
+```
+
+Next, change `body` to the following:
+
+```swift
+// 1
+List(measurements.filter { $0.snowfall > 0.0 }) { measurement in
+  HStack {
+    // 2
+    Text("\(measurement.dateString)")
+      .frame(width: 100, alignment: .trailing)
+    // 3
+    Rectangle()
+      .fill(Color.blue)
+      .frame(width: CGFloat(measurement.snowfall * 10.0), height: 5.0)
+    // 4
+    Spacer()
+    Text("\(measurement.snowfall.stringToOneDecimal)\"")
+  }
+}
+```
+
+Here’s a step by step breakdown:
+
+You align the text to the `.trailing` side of the frame next to the start of the bar showing the amount of snowfall.
+
+1. You create a `List` with an entry for each measurement with snowfall.
+2. You start each row with the date the snow fell. By default, a `Text` view sizes to fit the text it contains leaving the rows with varying widths. Applying a constant width ensures the bar begins at the same horizontal position for each row.
+3. You use a blue rectangle for the bar. Since this is a horizontal rather than vertical chart, you give the bar a constant height and set the width based on the amount of snow. Since you have less space horizontally on the view, you use fewer points to represent each inch of snow compared to the previous chart.
+4. After a `Spacer()` that fills the empty space after the bar, you show the amount of snow in inches, again rounding to one-tenth of an inch.
+Back in SnowfallTab.swift replace the `List` and its closure inside of `body` with a call to the new view:
+
+```swift
+SnowfallChart(measurements: station.measurements)
+```
+
+The chart now shows snowfall for the year. Look at December for a particularly impressive snowfall.
+
+![initial-snowfall-chart](https://koenig-media.raywenderlich.com/uploads/2019/11/initial-snowfall-chart-231x500.png =240x)
 
 ---
 
 ## Adding Grid Lines
 
+Because of the large variance in snowfall amounts, you can clarify the chart further by adding grid lines. These are lines placed on a chart or graph at a constant value. This makes it easier for the viewer to gauge the length of the bar.
+
+First, change the code for the `Rectangle()` in `SnowfallChart` to:
+
+```swift
+ZStack {
+  Rectangle()
+    .fill(Color.blue)
+    .frame(width: CGFloat(measurement.snowfall * 10.0), height: 5.0)
+}
+```
+
+The `ZStack` lets you overlay multiple child views in the same space. In this case, you’ll overlay the bar and the grid lines. You'll draw grid lines at one-inch intervals out to the greatest measurement of 16 inches.
+
+Add the following code inside the the `ZStack` after the `Rectangle`:
+
+```swift
+ForEach(0..<17) { mark in
+  Rectangle()
+    .fill(Color.gray)
+    .offset(x: CGFloat(mark) * 10.0)
+    .frame(width: 1.0)
+    .zIndex(1)
+}
+```
+
+Here you draw a rectangle filled in gray for each month of data. The `offset(x:y:)` modifier shifts each line to the right by the appropriate amount, then sets a frame with a width of one, turning the rectangle into a line. You set the `zIndex` of the `Rectangle` again so that it shows on top of the bar.
+
+Notice that by not setting a height for the frame, it expands to the height of the view containing it. If you view the current state, you'll notice something a bit off.
+
+![snowfall-grid-aligned](https://koenig-media.raywenderlich.com/uploads/2019/11/snowfall-grid-aligned-231x500.png =240x)
+
+The grid lines and bars don't always line up correctly. By default, a ZStack aligns its child views in the center, but you can explicitly specify the alignment of the child views with a little modification. Change the line declaring the ZStack to:
+
+```swift
+ZStack(alignment: .leading) {
+```
+
+Now the bar and grid line up as expected.
+
+![fixed-snow-grid](https://koenig-media.raywenderlich.com/uploads/2019/11/fixed-snow-grid-231x500.png =240x)
+
+If you're using many grid lines, you can help the viewer by providing a visual cue at regular intervals. Change the call to `fill(_:style:)` to:
+
+```swift
+.fill(mark % 5 == 0 ? Color.black : Color.gray)
+```
+
+This uses the Swift ternary operator to color every fifth indicator black using the remainder operator.
+
+![snowfall-red-mark](https://koenig-media.raywenderlich.com/uploads/2019/11/snowfall-red-mark-1-231x500.png =240x)
+
+Now that you've gained experience creating a couple of basic charts, you can move on to creating a more complex heat map for temperature data.
+
 ---
 
 ## Creating a Heat Map
 
+Create a new SwiftUI view in the `Charts` group and name the new view `TemperatureChart`. Open <FontIcon icon="fas fa-dove"/>`TemperatureChart.swift` and add a variable for the measurement data at the beginning of the `struct`.
+
+```swift
+var measurements: [DayInfo]
+```
+
+Change the preview to provide the information:
+
+```swift
+TemperatureChart(measurements: WeatherInformation()!.stations[1].measurements)
+```
+
+This chart should convey the high and low temperatures for each station across the year. You'll need to use some helper functions to achieve this visualization. Add the following methods to the struct after the `measurements` variable:
+
+```swift
+func degreeHeight(_ height: CGFloat, range: Int) -> CGFloat {
+  height / CGFloat(range)
+}
+
+func dayWidth(_ width: CGFloat, count: Int) -> CGFloat {
+  width / CGFloat(count)
+}
+```
+
+Instead of using a fixed amount determined by trial and error, this chart adjusts to fit the view. These two functions calculate the points taken by one degree of temperature vertically and the points taken by one day horizontally for the chart. Both functions divide the size of the dimension by the number of elements. The result gives the number of points to use for each element in the view.
+
+With that result, you can determine the point location in the view for a given day and temperature. Add the following two functions after the previous two:
+
+```swift
+func dayOffset(_ date: Date, dWidth: CGFloat) -> CGFloat {
+  CGFloat(Calendar.current.ordinality(of: .day, in: .year, for: date)!) * dWidth
+}
+
+func tempOffset(_ temperature: Double, degreeHeight: CGFloat) -> CGFloat {
+  CGFloat(temperature + 10) * degreeHeight
+}
+```
+
+`dayOffset(_:dWidth:)` calculates the day of the year from the passed in date and then multiples by the `dWidth` parameter. This calculates the horizontal position to plot this measurement in the view.
+
+`tempOffset(_:degreeHeight:)` does a similar calculation to get the point for a given temperature. Since you start the temperature range at -10 degrees, you add ten to the temperature before the multiplication. This shifts the bottom of the range to come out to zero points.
+
+Now change `body` to the following:
+
+```swift
+// 1
+GeometryReader { reader in
+  ForEach(self.measurements) { measurement in
+    // 2
+    Path { p in
+      // 3
+      let dWidth = self.dayWidth(reader.size.width, count: 365)
+      let dHeight = self.degreeHeight(reader.size.height, range: 110)
+      // 4
+      let dOffset = self.dayOffset(measurement.date, dWidth: dWidth)
+      let lowOffset = self.tempOffset(measurement.low, degreeHeight: dHeight)
+      let highOffset = self.tempOffset(measurement.high, degreeHeight: dHeight)
+      // 5
+      p.move(to: CGPoint(x: dOffset, y: reader.size.height - lowOffset))
+      p.addLine(to: CGPoint(x: dOffset, y: reader.size.height - highOffset))
+      // 6
+    }.stroke()
+  }
+}
+```
+
+There's a lot here, but the functions simplify much of the needed calculations. Here's how the code works:
+
+In the previous charts, you used constant sizes to produce something that looked correct. Now you calculate the best values for the chart using these values with the earlier functions.
+
+1. You create the `GeometryReader` to wrap the chart. A `GeometryReader` expands to fill the view containing it. The closure also provides a `GeometryProxy` parameter that contains information about the size of the view.
+2. `Path` provides a way to create a two dimensional shape. Here you'll create a vertical line connecting the low and high temperatures for each day. `Path` also has a bit of a unique feature in SwiftUI in that you can define variables inside it easing the calculation of points for the path.
+3. Here you use the two functions to calculate the size in points of one degree of temperature and one day for the view using the size from the `GeometryReader`. You use a range of 110 because -10 to 100 degrees Fahrenheit covers the range of temperatures found for all locations in the data for this year.
+4. Now you use the functions to determine the vertical point for the date as well as the high and low temperatures.
+5. These lines move the path to the point for the low temperature and add a line to the high temperature. The vertical view coordinates begin at the top of the view and increase downward. As you want points to start at the bottom and go upward, you subtract the vertical position from `reader.size.height` to get the desired location.
+6. `stroke()` tells SwiftUI to outline the path you've created in the current system color.
+
+Open <FontIcon icon="fas fa-dove"/>`TemperatureTab.swift` and replace `body` with this to use your new view:
+
+```swift
+VStack {
+  Text("Temperatures for 2018")
+  TemperatureChart(measurements: station.measurements)
+}.padding()
+```
+
+Build and run the app. Select any location and look at the temperature tab. Notice that the chart adapts to fit the smaller in-app view as well as the larger preview.
+
+![initial-temp-chart](https://koenig-media.raywenderlich.com/uploads/2019/11/initial-temp-chart-231x500.png =240x)
+
+The shape of the chart shows the changes in temperature pretty well but looks a bit bland. Next, you'll make it more interesting by turning the chart into a heat map that uses color to more clearly indicate temperatures.
+
 ---
 
 ## Adding Heat Map Color
+
+A heat map graphically represents values using colors. Weather maps often represent temperatures using a range of colors starting with purple and blue shades for low temperatures and moving toward yellow, orange and red shades for warmer temperatures. Calculating these colors and changes could involve some complicated math, but not here.
+
+In SwiftUI, you represent the transitions of color using a gradient. A linear gradient creates a smooth color transition between two or more colors along a single axis. Add the following in <FontIcon icon="fas fa-dove"/>`TemperatureChart.swift` after `measurements` and before the helper functions:
+
+```swift
+let tempGradient = Gradient(colors: [
+  .purple,
+  Color(red: 0, green: 0, blue: 139.0/255.0),
+  .blue,
+  Color(red: 30.0/255.0, green: 144.0/255.0, blue: 1.0),
+  Color(red: 0, green: 191/255.0, blue: 1.0),
+  Color(red: 135.0/255.0, green: 206.0/255.0, blue: 250.0/255.0),
+  .green,
+  .yellow,
+  .orange,
+  Color(red: 1.0, green: 140.0/255.0, blue: 0.0),
+  .red,
+  Color(red: 139.0/255.0, green: 0.0, blue: 0.0)
+])
+```
+
+This defines a gradient consisting of 12 colors to evenly split a temperature range of 110 degrees by ten-degree increments, from purple for -10 to dark red for 100 degrees.
+
+Now change the `stroke()` at comment six in the body view to:
+
+```swift
+.stroke(LinearGradient(
+  gradient: self.tempGradient,
+  startPoint: UnitPoint(x: 0.0, y: 1.0),
+  endPoint: UnitPoint(x: 0.0, y: 0.0)))
+```
+
+You replace the solid color with a linear gradient using the previously defined gradient colors. The `startPoint` and `endPoint` parameters let you do something almost magical.
+
+Both parameters are `UnitPoints` that define space in a point independent way where 0.0 and 1.0 mark the edges of the view. The zero points for each direction are at the origin: the top left corner of the view.
+
+You set the start point for the gradient to the bottom left corner of the view and the endpoint to the top left corner of the view. Since it's a linear gradient, the gradient varies only vertically. Each color extends horizontally across the entire view at each point.
+
+Applying it to the path means the gradient shows only for the stroked portion: The range between the low and high temperatures.
+
+![temp-color](https://koenig-media.raywenderlich.com/uploads/2019/11/temp-color-231x500.png =240x)
 
 ---
 

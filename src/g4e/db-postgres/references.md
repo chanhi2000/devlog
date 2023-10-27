@@ -55,4 +55,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## citusdata
+
+- [Making PostgreSQL tick: New features in `pg_cron`](https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron)
+
+---
+
 <TagLinks />

@@ -319,5 +319,35 @@
     "desc": "Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.",
     "officialSite": "",
     "topics": ["aperture", "final-cut-pro-7", "final-cut-studio", "iphoto", "itunes", "iwork-09", "logic-pro-9", "macos-big-sur", "macos-catalina", "macos-high-sierra", "macos-mojave", "xcode11"]
+  }, {
+    "repo": "migueldeicaza/SwiftGodot",
+    "desc": "New Godot bindings for Swift",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "yaslab/CSV.swift",
+    "desc": "CSV reading and writing library written in Swift.",
+    "officialSite": "",
+    "topics": ["csv", "reading", "swift", "writing"]
+  }, {
+    "repo": "dabing1022/DBMetaballLoading",
+    "desc": "A metaball loading written in Swift.",
+    "officialSite": "",
+    "topics": ["ios", "loading-animations", "swift", "ui-components"]
+  }, {
+    "repo": "evermeer/AttributedTextView",
+    "desc": "Easiest way to create an attributed UITextView (with support for multiple links and from html)",
+    "officialSite": "",
+    "topics": ["attributedstring", "links", "paragraph-styling", "styling", "swift", "uitextview"]
+  }, {
+    "repo": "imkcat/CatCrypto",
+    "desc": "An easy way for hashing and encryption.",
+    "officialSite": "",
+    "topics": ["argon2", "asymmetric", "crypto", "cryptography", "encryption", "hashing", "ios", "md2", "md4", "md5", "md6", "message-digest", "password-hash", "sha1", "sha2", "sha3", "swift"]
+  }, {
+    "repo": "yonat/MultiSlider",
+    "desc": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.",
+    "officialSite": "",
+    "topics": ["multiple-thumbs", "multislider", "range-picker", "range-slider", "swift", "thumbs", "uislider"]
   }
 ]

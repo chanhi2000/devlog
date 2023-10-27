@@ -80,6 +80,7 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 ## Simon William 
 
 - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers)
+- [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus)
 
 ---
 
