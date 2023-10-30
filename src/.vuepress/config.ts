@@ -136,7 +136,7 @@ export default defineUserConfig({
       license: 'MIT Licensed',
     }),
     componentsPlugin({
-      components: ["VideoPlayer", "YouTube", "FontIcon", "Badge", "Share", "PDF"],
+      components: ["VideoPlayer", "YouTube", "FontIcon", "Badge", "Share", "PDF", "SiteInfo"],
       componentOptions: {
         fontIcon: {
           assets: ["iconfont", "fontawesome", "fontawesome-with-brands"],

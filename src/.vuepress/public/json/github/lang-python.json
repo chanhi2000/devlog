@@ -10,6 +10,11 @@
     "topics": ["api", "lists", "open-source", "list", "development", "public", "resources", "dataset", "free", "software", "apis", "public-api", "public-apis"],
     "officialSite": "http://public-apis.org"
   }, {
+    "repo": "public-apis-dev/public-apis",
+    "desc": "A collaborative list of public APIs for developers",
+    "officialSite": "https://publicapis.dev",
+    "topics": ["apis", "awesome", "awesome-list", "hacktoberfest", "lists", "open-source", "public-api", "public-apis", "resources"]
+  }, {
     "repo": "microsoft/unilm",
     "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "topics": [],
@@ -3133,5 +3138,30 @@
     "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
     "officialSite": "",
     "topics": ["cryptography", "rsa", "rsa-attack"]
+  }, {
+    "repo": "koordinates/kart",
+    "desc": "Distributed version-control for geospatial and tabular data",
+    "officialSite": "https://kartproject.org",
+    "topics": ["data", "data-versioning", "geospatial", "geospatial-data", "gis", "version-control"]
+  }, {
+    "repo": "hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "officialSite": "",
+    "topics": ["filemanager", "ocr", "ocr-python", "paddleocr", "tkinter"]
+  }, {
+    "repo": "AILab-CVC/VideoCrafter",
+    "desc": "VideoCrafter1: Open Diffusion Models for High-Quality Video Generation",
+    "officialSite": "https://youtu.be/SJ_TOVjn5zs",
+    "topics": []
+  }, {
+    "repo": "ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "officialSite": "",
+    "topics": ["face-detection", "face-recognition", "machine-learning", "python"]
+  }, {
+    "repo": "iterative/dvc",
+    "desc": "🦉 ML Experiments Management with Git",
+    "officialSite": "https://dvc.org",
+    "topics": ["ai", "collaboration", "data-science", "data-version-control", "developer-tools", "git", "hacktoberfest", "machine-learning", "python", "reproducibility"]
   }
 ]

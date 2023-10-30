@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "reactproject",
+    "name": "React & Next js Projects with Sahand",
+    "profile": "https://yt3.googleusercontent.com/a7_55-mJjHHm_zWa7Y-gw-aOL8PpsliSMBmyIrc8kCTgUAy7BgE28SsDfbthtZtls9GhTkP_qQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E7BO7aPNrmW1I-RGU6zNu_7mGfUHa9_W32mq4ofVjiKzbbV1Hp3DGYaeBmrwXHmbpXZyPbUdgjs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VAaUy_Moivw", "title": "MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt, redux toolkit)" }
+  ]
+}

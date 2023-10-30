@@ -839,5 +839,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "officialSite": "https://desktop.telegram.org/",
+    "topics": ["messenger", "multi-platform", "telegram", "telegram-desktop", "telegram-solution"]
+  }, {
+    "repo": "li-plus/chatglm.cpp",
+    "desc": "C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs",
+    "officialSite": "",
+    "topics": ["baichuan", "baichuan2", "chatglm", "chatglm2", "chatglm3", "codegeex2-6b", "internlm", "large-language-models", "nlp"]
   }
 ]

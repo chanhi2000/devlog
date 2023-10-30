@@ -1659,5 +1659,25 @@
     "desc": "Information on WebSession, a proposed protocol for secure session maintenance on the Web",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "OpenSignLabs/OpenSign",
+    "desc": "The free & Open Source Alternative to DocuSign",
+    "officialSite": "https://www.opensignlabs.com",
+    "topics": ["hacktoberfest", "hacktoberfest-starter", "hacktoberfest2023", "javasc", "javascript", "javascript-applications", "mongodb", "nodejs", "react", "reactjs"]
+  }, {
+    "repo": "wg-easy/wg-easy",
+    "desc": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+    "officialSite": "https://hub.docker.com/r/weejewel/wg-easy",
+    "topics": []
+  }, {
+    "repo": "electronicwhisper/recursive-drawing",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jeycaarce/flowers",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

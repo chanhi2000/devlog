@@ -29,4 +29,10 @@ tags: ["java", "axelor"]
 
 ---
 
+## 권남
+
+- [Gradle Web(War) Plugin](https://kwonnam.pe.kr/wiki/gradle/web)
+
+---
+
 <TagLinks />

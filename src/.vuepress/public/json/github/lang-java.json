@@ -484,6 +484,16 @@
     "desc": "Free universal database tool and SQL client",
     "officialSite": "https://dbeaver.io",
     "topics": ["database", "db2", "dbeaver", "erd", "gui", "java", "mysql", "nosql", "oracle", "postgresql", "redshift", "sql", "sqlite", "sqlserver"]
+  }, {
+    "repo": "unloggedio/unlogged-sdk",
+    "desc": "Unlogged SDK for recording code execution",
+    "officialSite": "https://unlogged.io",
+    "topics": ["assertions", "automated-testing", "debugging-tool", "java", "junit", "junit5", "mocking", "mockito", "regression-testing", "test-automation"]
+  }, {
+    "repo": "unloggedio/intellij-java-plugin",
+    "desc": "IntelliJ plugin for java language support",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

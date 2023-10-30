@@ -129,5 +129,10 @@
     "desc": ":bathtub: Clean Code concepts adapted for Python",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "yunjey/pytorch-tutorial",
+    "desc": "PyTorch Tutorial for Deep Learning Researchers",
+    "officialSite": "",
+    "topics": ["deep-learning", "neural-networks", "pytorch", "pytorch-tutorial"]
   }
 ]

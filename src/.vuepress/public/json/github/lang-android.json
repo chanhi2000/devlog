@@ -244,5 +244,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "yuliskov/SmartTube",
+    "desc": "SmartTube - an advanced player for set-top boxes and tv running Android OS",
+    "officialSite": "https://www.patreon.com/smarttube",
+    "topics": ["android", "android-tv", "android-tv-box", "java", "kotlin", "retrofit2", "rxjava-android"]
   }
 ]

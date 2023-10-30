@@ -959,5 +959,20 @@
     "desc": "Cross-platform file system notifications for Go.",
     "officialSite": "",
     "topics": ["go", "golang"]
+  }, {
+    "repo": "rsc/unix",
+    "desc": "Old Unix programs running on modern computers.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SidraChain/go-ethereum",
+    "desc": "Forked Golang execution layer implementation of the Ethereum protocol.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SagerNet/sing-box",
+    "desc": "The universal proxy platform",
+    "officialSite": "https://sing-box.sagernet.org",
+    "topics": []
   }
 ]

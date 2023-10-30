@@ -231,7 +231,7 @@ color: rgba(0, 184, 126, 0.2)
 ```card
 title: Kotlin Sequences - Getting Started
 desc: In this Kotlin Sequences tutorial, you’ll learn what a sequence is, its operators and when you should consider using them instead of collections.
-link: https://www.kodeco.com/31290959-kotlin-sequences-getting-started
+link: 31290959-kotlin-sequences-getting-started.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-getting-started-android-e9d686100b123d4ecc7ed664ce28c6efd1b54ce9ca4c85bcfc0cd93036dbe9f8.svg
 color: rgba(0, 184, 126, 0.2)
 ```

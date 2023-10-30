@@ -219,5 +219,10 @@
     "desc": "A Docker image for Windows 2000 Advanced Server with SP4.",
     "officialSite": "https://hub.docker.com/r/hectorm/qemu-win2000",
     "topics": []
+  }, {
+    "repo": "cisagov/LME",
+    "desc": "Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.",
+    "officialSite": "https://www.cisa.gov/resources-tools/services/logging-made-easy",
+    "topics": ["cybersecurity", "elastic", "elasticsearch", "elk", "elk-stack", "log", "logging", "network-analysis", "security", "security-tools", "zeek"]
   }
 ]

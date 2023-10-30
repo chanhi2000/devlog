@@ -29,5 +29,10 @@
     "desc": "The Ethereum Improvement Proposal repository",
     "officialSite": "https://eips.ethereum.org",
     "topics": []
+  }, {
+    "repo": "SidraChain/sidra-contracts",
+    "desc": "Genesis Smart Contracts for Sidra Chain",
+    "officialSite": "",
+    "topics": []
   }
 ]

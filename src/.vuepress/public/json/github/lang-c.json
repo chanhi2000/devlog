@@ -519,5 +519,15 @@
     "desc": "OBS Studio - Free and open source software for live streaming and screen recording",
     "officialSite": "https://obsproject.com",
     "topics": ["c", "c-plus-plus", "directshow", "facebook-live", "ffmpeg", "game-capture", "live-streaming", "screen-capture", "twitch-tv", "video-recording", "youtube-live"]
+  }, {
+    "repo": "witnessmenow/ESP32-Cheap-Yellow-Display",
+    "desc": "Building a community around a cheap ESP32 Display with a touch screen",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "officialSite": "https://tasmota.github.io/docs",
+    "topics": ["arduino", "automation", "esp32", "esp8266", "firmware", "iot", "knx", "mqtt", "ota", "smart-home", "sonoff", "tasmota", "tuya"]
   }
 ]

@@ -969,7 +969,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-kotlin-android/523-augmented-reality-in-android-with-google-s-face-api.md',
         '/crashcourse/kodeco-kotlin-android/324-viewpager-tutorial-getting-started-in-kotlin.md',
         // 2022
-        '/crashcourse/kodeco-kotlin-android/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md'
+        '/crashcourse/kodeco-kotlin-android/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md',
+        '/crashcourse/kodeco-kotlin-android/31290959-kotlin-sequences-getting-started.md',
       ]
     }, {
       text: '🐍Finance with Python',
@@ -994,6 +995,17 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/py-rpa-excel/README.md',
+        '/crashcourse/py-rpa-excel/01.md',
+        '/crashcourse/py-rpa-excel/02a.md',
+        '/crashcourse/py-rpa-excel/02b.md',
+        '/crashcourse/py-rpa-excel/02c.md',
+        '/crashcourse/py-rpa-excel/02d.md',
+        '/crashcourse/py-rpa-excel/02e.md',
+        '/crashcourse/py-rpa-excel/02f.md',
+        '/crashcourse/py-rpa-excel/02g.md',
+        '/crashcourse/py-rpa-excel/02h.md',
+        '/crashcourse/py-rpa-excel/02i.md',
+        '/crashcourse/py-rpa-excel/03.md',
       ]
     },{
       text: '🦊freecodecamp.org - DevOps with GitLab CI',

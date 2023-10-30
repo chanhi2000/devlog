@@ -1668,5 +1668,10 @@
     "desc": "The open-source React.js Autonomous LLM Agent",
     "officialSite": "https://reactagent.io/",
     "topics": ["agent", "gpt-4", "headless", "headlessui", "llm", "react"]
+  }, {
+    "repo": "i-am-alice/2nd-devs",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

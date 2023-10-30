@@ -209,4 +209,10 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## The Daily WTF
+
+- [STYLING WITH CLASSY CSS](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
+
+---
+
 <TagLinks />

@@ -110,5 +110,9 @@ description: 🛠️Git > 📚References
 
 ---
 
+## Julia Evans
+
+- [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology)
+
 
 <TagLinks />

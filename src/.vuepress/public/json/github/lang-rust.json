@@ -779,6 +779,11 @@
     "desc": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
     "officialSite": "https://hyperswitch.io/hacktoberfest",
     "topics": ["beginner-friendly", "featured", "hacktoberfest", "high-performance", "open-source", "orchestration", "payments", "postgresql", "redis", "restful-api", "rust", "sdk", "works-with-react"]
+  }, {
+    "repo": "xline-kv/Xline",
+    "desc": "A geo-distributed KV store for metadata management",
+    "officialSite": "https://xline.cloud",
+    "topics": ["cloud-native", "distributed-systems", "high-availability"]
   }
 ]
 
