@@ -41,5 +41,7 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-caveofprogramming" /><!-- Cave of Programming -->
 <MyYouTubeItems jsonName="yu-csezsw" /><!-- ezsw -->
 <MyYouTubeItems jsonName="yu-comdalin" /><!-- 컴달인 - 컴퓨터 달인 -->
+<MyYouTubeItems jsonName="yu-coddevx4014" /><!-- CodDevX -->
+<MyYouTubeItems jsonName="yu-teddynote" /><!-- 테디노트 TeddyNote -->
 
 <TagLinks />

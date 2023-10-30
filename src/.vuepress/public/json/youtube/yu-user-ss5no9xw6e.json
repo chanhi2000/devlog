@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/KrXOwznWJPljgHTD00XnH0midQlbxbiVrtCDj2sCeoA9OG0w8ELFxnlN48wXCQXxYt15kd2ijg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NuLEyNfUWvE", "title": "09 WHERE 조건 검색 - MySQL 제대로 끝내기" },
+    { "id": "2q9lMYhZOCA", "title": "10 SQL 연산자와 정렬 - MySQL 제대로 끝내기" },
+    { "id": "ksC_MNfxRhY", "title": "12 숫자와 문자열 함수 - MySQL 제대로 끝내기" },
     { "id": "vgIc4ctNFbc", "title": "MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database" },
     { "id": "tjgvXn8hmzk", "title": "03 데이터베이스 발전과 종류 - MySQL 제대로 끝내기" },
     { "id": "pNrxmHpzcYU", "title": "04 데이터 모델링 - MySQL 제대로 끝내기" },

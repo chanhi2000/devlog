@@ -67,20 +67,13 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-spring_butler" /><!-- 봄집사 -->
 <MyYouTubeItems jsonName="yu-salimlog" /><!-- 살림로그_살림을 기록하다. -->
 <MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
+<MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
+<MyYouTubeItems jsonName="yu-9diin" /><!-- 구디사는 개발자 9Diin -->
+
 <TagLinks />
 
 [yu-user-gn6zi9xy8q]: https://www.youtube.com/@user-gn6zi9xy8q
-[yu-iBoffRCC]: https://www.youtube.com/@iBoffRCC
-[yu-HackerSploit]: https://www.youtube.com/@HackerSploit
-[yu-master-liu]: https://www.youtube.com/@masterliu1892
-[yu-eBuzz-central]: https://www.youtube.com/@eBuzzCentral
-[yu-gbjxc]: https://www.youtube.com/@gbjxc
-[yu-gwigom]: https://www.youtube.com/@gwigom
-[yu-adamMc331]: https://www.youtube.com/@AdamMc331
-[yu-3protv]: https://www.youtube.com/@3protv
-[yu-thuvu5]: https://www.youtube.com/@Thuvu5
 [yu-linkedinlearning]: https://www.youtube.com/@linkedinlearning
-[yu-codingsaint]: https://www.youtube.com/@codingsaint
 [yu-senior-mars-tries]: https://www.youtube.com/@SeniorMarsTries
 [yu-developerfilip]: https://www.youtube.com/@developerfilip
 [yu-codingwithmat]: https://www.youtube.com/@codingwithmat

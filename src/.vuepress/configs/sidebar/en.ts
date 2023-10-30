@@ -829,6 +829,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/57.md',
         '/crashcourse/paul-hudson-100-days-of-swift/58.md',
         '/crashcourse/paul-hudson-100-days-of-swift/59.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/60.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -882,6 +883,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/45.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/46.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/47.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/48.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -895,6 +897,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/crashcourse/kodeco-swift/README.md',
         '/crashcourse/kodeco-swift/6398124-swiftui-tutorial-for-ios-creating-charts.md',
+        '/crashcourse/kodeco-swift/6334294-my-app-crashed-now-what.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',

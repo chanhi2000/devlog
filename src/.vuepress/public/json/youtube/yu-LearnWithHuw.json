@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "LearnWithHuw",
+    "name": "Learn With Huw",
+    "profile": "https://yt3.googleusercontent.com/idg-tUXjAcGXDfgv9ZuDfPmbZe4jWAjxVxkG1fROUPyyt3sH_82Dx7LhwTZm-zE8-GivZeE0-g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5W5zpv8wFqrsyxoFwWRKBiOumbBUdzO0Y58D73YVYIdV5cfRbTCBUEXwy2DugOSTCMkaKmf1Vg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "U49B3GSRz_o", "title": "I Wanted To Run DOS Commands in a C# WinForms Program. This is What I Did." }
+  ]
+}

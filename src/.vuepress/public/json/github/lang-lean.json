@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "leanprover/lean4",
+    "desc": "Lean 4 programming language and theorem prover",
+    "officialSite": "https://lean-lang.org",
+    "topics": ["lean", "lean4"]
+  }
+]

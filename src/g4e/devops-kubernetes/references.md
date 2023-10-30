@@ -16,6 +16,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 ## Kubernetes
 
 - [Diagram Guide](https://kubernetes.io/docs/contribute/style/diagram-guide)
+- [Introducing `ingress2gateway`; Simplifying Upgrades to Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway)
 
 ---
 

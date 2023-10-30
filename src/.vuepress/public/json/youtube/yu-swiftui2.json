@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/b9Czyet3FDFsgYNMsiVLnxvF8wRPUFW-Q2GU8JdZJfjK9xDgR1s6lsSLwDzBIOjZwkyPUGiVMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "H6JNiutRQ9M", "title": "SwiftUI & SwiftData & CloudKit:  Set up the models + filtering data by category(part 1)" },
     { "id": "4EPGGzeu5Ic", "title": "SwiftUI WebKit: How to create a YouTube video App + saving it in CoreData." }, 
     { "id": "2LMLXPOQwtc", "title": "SwiftUI & UIKit: how to implement UIAlert TextField [UIWindowScene] iOS 15 Xcode 13" }, 
     { "id": "aP9CDmIoJGs", "title": "SwiftUI tutorial: how to create the iPhone 11 call screen iOS 14." }, 

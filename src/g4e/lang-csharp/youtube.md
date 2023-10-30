@@ -54,5 +54,6 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 <MyYouTubeItems jsonName="yu-gui.ferreira" /><!-- Gui Ferreira -->
 <MyYouTubeItems jsonName="yu-dotnet" /><!-- dotnet -->
 <MyYouTubeItems jsonName="yu-MilanJovanovicTech" /><!-- Milan Jovanović -->
+<MyYouTubeItems jsonName="yu-hamsterbyte" /><!-- hamsterbyte -->
 
 <TagLinks />

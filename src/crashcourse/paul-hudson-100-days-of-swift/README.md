@@ -193,7 +193,7 @@ We’ve covered some hugely important iOS technologies that you’ll be relying 
 
 In the next three projects we’ll be edging a little further away from UIKit as we explore MapKit, Apple’s powerful and flexible mapping framework, then we’ll tackle a skill you’re more than ready for: debugging.
 
-- [Day 60][day-60] – Project 16, part one
+- ✅[Day 60][day-60] – Project 16, part one
 - [Day 61][day-61] – Project 16, part two
 - [Day 62][day-62] – Project 17, part one
 - [Day 63][day-63] – Project 17, part two
@@ -349,7 +349,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-57]: 57.md
 [day-58]: 58.md
 [day-59]: 59.md
-[day-60]: https://www.hackingwithswift.com/100/60
+[day-60]: 60.md
 [day-61]: https://www.hackingwithswift.com/100/61
 [day-62]: https://www.hackingwithswift.com/100/62
 [day-63]: https://www.hackingwithswift.com/100/63

@@ -3113,5 +3113,25 @@
     "desc": "Chat everything with your code repository, ask repository level code questions, and discuss your requirements. AI Scan and learning your code repository,  provide you code repository level answer🧱 🧱",
     "officialSite": "",
     "topics": ["agent", "agentgpt", "agi", "autogpt", "developer-tools", "gpt-4", "llm", "productmanager", "solidgpt"]
+  }, {
+    "repo": "THUDM/ChatGLM3",
+    "desc": "ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "xxlong0/Wonder3D",
+    "desc": "A cross-domain diffusion model for 3D reconstruction from a single image",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "huggingface/alignment-handbook",
+    "desc": "Robust recipes for to align language models with human and AI preferences",
+    "officialSite": "https://huggingface.co/HuggingFaceH4",
+    "topics": ["llm", "rlhf", "transformers"]
+  }, {
+    "repo": "RsaCtfTool/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "officialSite": "",
+    "topics": ["cryptography", "rsa", "rsa-attack"]
   }
 ]

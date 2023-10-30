@@ -39,5 +39,6 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 <MyYouTubeItems jsonName="yu-MzLearning" /><!-- Mz Learning -->
 <MyYouTubeItems jsonName="yu-dmug" /><!-- Definitive Mac Upgrade Guide -->
 <MyYouTubeItems jsonName="yu-BartechTV" /><!-- Bartech TV -->
+<MyYouTubeItems jsonName="yu-TechHut" /><!-- TechHut -->
 
 <TagLinks />

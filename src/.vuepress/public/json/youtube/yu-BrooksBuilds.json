@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VYVwyD_mgj0", "title": "Stream archive: Creating CRUD tests for SQLx Rust assessment (2023-10-12)" },
+    { "id": "Tqp1280r9q0", "title": "Stream archive: exploring using exploration tests (better name needed) (2023-10-17)" },
+    { "id": "c7yBSM0Ixe4", "title": "Stream archive: recording SQLx Rust assessment part 2 (2023-10-16 afternoon)" },
+    { "id": "BUczLRu_2kA", "title": "Stream archive: Fixing bugs in LMS (2023-10-18)" },
+    { "id": "k5Y75C5QnM0", "title": "Stream archive: creating a sqlx rust assessment (2023-10-11)" },
     { "id": "uTbnUb7yx8I", "title": "Stream archive: Recording lesson for SQLx and investigating bulk inserts (2023-09-29)" },
     { "id": "CL0NMcAkn1s", "title": "Stream archive: Recording SQLx Rust bulk insert with UNNEST (2023-10-03 afternoon)" },
     { "id": "CL0NMcAkn1s", "title": "Stream archive: Recording SQLx Rust bulk insert with UNNEST (2023-10-03 afternoon)" },

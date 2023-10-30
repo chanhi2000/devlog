@@ -616,7 +616,7 @@ fn main() {
 
 :::
 
-::: tips
+::: note tips
 
 You can find the solutions [here (<FontIcon icon="iconfont icon-github"/>`sunface/rust-by-practice`)](https://github.com/sunface/rust-by-practice) (under the solutions path), but only use it when you need it
 

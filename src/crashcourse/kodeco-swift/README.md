@@ -1803,7 +1803,7 @@ color: rgba(135, 99, 210, 0.2)
 ```card
 title: My App Crashed, Now What?
 desc: In this tutorial, you’ll learn what makes your app crash and how to fix it when it does. 
-link: https://www.kodeco.com/6334294-my-app-crashed-now-what
+link: 6334294-my-app-crashed-now-what.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-core-concepts-ios-9b6476c1af44d264387282a9dc162550a9aaf8d51f0636206d7079b8820da7be.svg
 color: rgba(135, 99, 210, 0.2)
 ```

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "blogcreator6109",
+    "name": "블로그 크리에이터",
+    "profile": "https://yt3.googleusercontent.com/PuQ9AQh92s8Z0tUoC6jWo_A2VphMhW2W-YUYqpI5zAl5Hzek8-yItpma9wPr5G_B-p_hAJp8giU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "xPokYVoNJEE", "title": "쉽고 빠르게 배우는 vue.js 강의 2-1] Vue js 시작하기" },
+    { "id": "ly8N8ZDeC2k", "title": "Vue.js 강의 - Template refs" },
+    { "id": "OsPiT8w_aG4", "title": "쉽고 빠르게 배우는 vue.js 강의 2-4] 반응성 (Reactivity)" },
+    { "id": "h-d8aGIeiLQ", "title": "쉽고 빠르게 배우는 vue.js 강의 6-1] Notion 사용법" }
+  ]
+}

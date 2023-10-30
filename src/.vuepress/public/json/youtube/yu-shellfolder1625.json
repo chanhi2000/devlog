@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "shellfolder1625",
+    "name": "쉘폴더 ShellFolder",
+    "profile": "https://yt3.googleusercontent.com/FvjJkghsyu4lxbyy4NNp18wS9YO-ZLKRhbsqG6HeDLsCL1JLknkIeFE6JegmS25li6lqT4SA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sJKMnLhzv1WrUbP0XLGi3eEEYpMpKiE3N3Cs7l0cyCdvhFKkakxT_SYISKR-4z4yuf3aP7gLwxc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PACW_Wmafns", "title": "Vue 화면 설정 [Vue Router]" }
+  ]
+}

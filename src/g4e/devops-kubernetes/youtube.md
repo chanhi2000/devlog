@@ -33,5 +33,8 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 <MyYouTubeItems jsonName="yu-HoonJo" /><!-- 조 훈(Hoon Jo) -->
 <MyYouTubeItems jsonName="yu-UnusAWS" /><!-- Unus AWS -->
 <MyYouTubeItems jsonName="yu-DevOpsDirective" /><!-- DevOps Directive -->
+<MyYouTubeItems jsonName="yu-cloudminion8815" /><!-- cloudminion -->
+<MyYouTubeItems jsonName="yu-SurajinCloud" /><!-- Suraj in Cloud -->
+<MyYouTubeItems jsonName="yu-learncloudnative" /><!-- Peter Jausovec -->
 
 <TagLinks />

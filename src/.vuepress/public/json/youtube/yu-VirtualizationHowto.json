@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/J3jQFYAyRWx-G_rHNHIjDPLuCpM-T1kQZkMZDCTdRg4_j0E1SRN9r05CQH1TSNdLkAJgN-kJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bsB2dvpdBYg", "title": "Yacht vs Portainer - Docker Dashboard comparison!" },
     { "id": "BatCdEsJgEo", "title": "Kubernetes Home Lab Storage with Microk8s Rook and Ceph" },
     { "id": "wqtEUFDdZXU", "title": "Netshoot Docker container for Docker compose networking host troubleshooting" },
     { "id": "zxAmqY63eJE", "title": "Best Docker Container Monitoring Tools - Free and open source" }

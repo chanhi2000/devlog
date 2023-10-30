@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/dsJKoz3hgne41o9N9qlVGpD4tZu8VtBYpo3NkPIp0kaaVZzfL3SCVAFXJY_RUkn4srRJ5Krexw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Qi9A6-xoOkA", "title": "The Simplest Tech Stack" },
+    { "id": "MovjVwGa9F4", "title": "Google Replaced Java With THIS!" },
     { "id": "R0tJdNoq74M", "title": "Auth.js is a Lifesaver" },
     { "id": "zAOcN0ZENLU", "title": "The Easiest Way to Manage Your Data" },
     { "id": "I2NzfOOI7xY", "title": "These frameworks broke front-end development" }

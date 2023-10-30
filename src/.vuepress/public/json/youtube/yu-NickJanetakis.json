@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Ix24Hh_SfO4", "title": "Delete Lines That Match a Pattern or the Opposite Pattern Using `sed`" },
     { "id": "kEJzqMfxZVI", "title": "Modifying Shell Arguments with the set Command" },
     { "id": "PCVkRN_3bnY", "title": "Expand Tilde to Home Directory When Reading User Input in Bash" },
     { "id": "fuW8XEySmHU", "title": "Never Underestimate Making Pull Requests to Update Documentation" },

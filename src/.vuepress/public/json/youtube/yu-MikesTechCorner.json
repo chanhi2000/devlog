@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/PTFsJGzsUDC8WTGWYOIZn1lerx8k43bUgjBWJwNR6mlXd6ZrL9kFv7Z6hnAqj9QHX78KU_GIjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kY6laC2nQ2Y", "title": "Java Stream Collectors" },
     { "id": "VIdJe6a-jk4", "title": "Java Stream Reduce Is Underrated" },
     { "id": "MtD7InySoUs", "title": "Java Stream Anymatch is Magic" },
     { "id": "LEr6mOQM5AA", "title": "Aes256 Encryption Use Byte Array" },

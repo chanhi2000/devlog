@@ -514,5 +514,10 @@
     "desc": "Cockpit is a web-based graphical interface for servers.",
     "officialSite": "http://www.cockpit-project.org",
     "topics": ["cockpit", "javascript", "linux-servers"]
+  }, {
+    "repo": "obsproject/obs-studio",
+    "desc": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "officialSite": "https://obsproject.com",
+    "topics": ["c", "c-plus-plus", "directshow", "facebook-live", "ffmpeg", "game-capture", "live-streaming", "screen-capture", "twitch-tv", "video-recording", "youtube-live"]
   }
 ]

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/K0_q3Z6zbDODlhZ2wab2PnH-szBepybsASSPUV7boJ6O0iuzZeAKDh0e9uPziXiOyiYrVLLphA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LRtPJMxd0Z0", "title": "More secure, less work: Go beyond SSO | DevDay at Oktane" },
     { "id": "HrA33YfQyDQ", "title": "How to Cancel, Downgrade, or Change Your Auth0 Subscription - Auth0 Community Response Series" },
     { "id": "HHJXAtR1tSY", "title": "Build a Beautiful CRUD App using Spring Boot and Angular" },
     { "id": "PR6Gw4Ca-sE", "title": "Build a Secure CRUD Application with React, Spring Boot, and Kotlin" }, 

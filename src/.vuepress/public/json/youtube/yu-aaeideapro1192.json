@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/zSYDo6ZdWdS9MK_6wWIYoJ-nYyQCZ62fNvskVk0wUCFuo-t_Cc7EwLDpFC84xs6JtQKFBOY21w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "o6ZUMFfAYBo", "title": "Vuejs 3 - Vuetify 3, How to create an Nike Shoes Shop - Ecommerce website ui design using vuejs" },
     { "id": "Yq9rAafeIw4", "title": "Vue 3 - Vuetify 3 How to create an ecommerce website ui design using vuejs  and carousel" },
     { "id": "lg219gnOC-g", "title": "Vuejs 3 - Vuetify 3 , Create an Flight Dashbord Website Using Chartjs | vue-chart js | Bar | Pie" },
     { "id": "9W2h8HXnnrs", "title": "Vuejs 3 - Quasar  UI Design, ZP App - Game & Root Server, Affiliate - VPS Dashboard,JS - HTML - CSS" }, 

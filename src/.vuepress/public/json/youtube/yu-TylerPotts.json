@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/qSSm-c68IxVgOQq6xjylsR-XXY9LkxWOZDIpbNIAAXJ5AeTWYw04852zM180kUXxJb2SNyLLEg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SFvgJf5cFAQ", "title": "Build a Camera App in Vue JS" },
     { "id": "dx8tyAkLL28", "title": "Build Your Next API in Less Than 7 Minutes with this FREE Tool" }, 
     { "id": "YnnQymvBrY8", "title": "Build a Landing Page using React JS & Tailwind CSS | Newsletter Sign up page" }, 
     { "id": "EfIwxy3Qumc", "title": "Build a Recipe app in VUE using Router & Vuex! (Composition & Options API)" }, 

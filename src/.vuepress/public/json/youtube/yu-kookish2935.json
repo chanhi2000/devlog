@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "rLxqS72QOTQ", "title": "Federated Learning 이론만 공부하지 말고, FedScale 시뮬레이션 코드로 실행하면서 이해합시다." },
     { "id": "-imYJdLJAU4", "title": "스프링부트로 만든 백엔드 서버 처음으로 AWS EC2 에 배포해보기!" }
   ]
 }

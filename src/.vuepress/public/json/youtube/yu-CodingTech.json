@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/TL7jYLx2g5E5EDU79qYIlNd8v3rixDhpHP39TzkAwCvgui4oojemjlmyT0Czwj7T43cfNCKkfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cBWlTLTMwfQ", "title": "DuckDB: The Power of a Data Warehouse in your Python Process || Gábor Szárnyas" },
     { "id": "lqBhJATrsiw", "title": "Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy" },
     { "id": "kuxBOGB_FlM", "title": "Faster than Rust and C++ : the PERFECT Hash Table" },
     { "id": "LZSZ6iunoJQ", "title": "What Can't WebAssembly Do" },

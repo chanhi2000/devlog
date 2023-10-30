@@ -78,3 +78,4 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-okky4271" /><!-- OKKY -->
 <MyYouTubeItems jsonName="yu-Confreaks" /><!-- Confreaks -->
 <MyYouTubeItems jsonName="yu-lgsw" /><!-- Software in LG -->
+<MyYouTubeItems jsonName="yu-HackerOneTV" /><!-- HackerOne -->

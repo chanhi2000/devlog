@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/cjpTrPtj_YIjLcPFsI7PAQI31pHCmJReysnm7vltCaCZM75HwDdU1yXTiJq_iaHHYay3RSB0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UYeyUxpFcsM", "title": "Installing Terraform on Windows" },
     { "id": "RkuBsRqgvuE", "title": "Create Kubernetes v1.28 Cluster  with Kubeadm on AWS using Terraform & Ansible" },
     { "id": "SdTzwYmsgoU", "title": "Microservices in Python using Flask Framework | Dockerize and Deploy to Kubernetes with Helm" },
     { "id": "7oCMqQG6S0k", "title": "Install MobaXterm on Windows" },

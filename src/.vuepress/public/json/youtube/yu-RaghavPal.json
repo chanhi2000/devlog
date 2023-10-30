@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/H8_4Waa8bWh5flJA7Epnpbd7zKo7nbKG9p-dqGOXSjbscK0RmNaxUcB2mOgxK4O8SF9fXAiOcA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lJ-AAFIhgrE", "title": "TestCafe | 2 | Actions - Part 1 | Step-by-Step for Beginners" },
+    { "id": "QROSlPFFB1Y", "title": "TestCafe | 3 | Actions - Part 2 | Step-by-Step for Beginners" },
     { "id": "EEjyLfp6DoQ", "title": "Playwright API Testing Demo for Beginners" },
     { "id": "DdcuYoccBe0", "title": "TestCafe | 1 | Getting Started | Step-by-Step for Beginners" },
     { "id": "hy2FoW70doI", "title": "Testim Beginner Tutorial 1 | Getting Started" },

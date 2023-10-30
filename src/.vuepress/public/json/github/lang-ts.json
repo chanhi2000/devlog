@@ -1653,5 +1653,20 @@
     "desc": "Revert makes it incredibly easy to build integrations with any third party API",
     "officialSite": "https://revert.dev",
     "topics": ["access-token", "api", "crms", "hacktoberfest", "hubspot", "integration", "integrations", "nodejs", "oauth", "oauth2", "oauth2-proxy", "pipedrive", "refresh-token", "salesforce", "salesforce-api", "typescript", "zendesk", "zoho", "zoho-crm"]
+  }, {
+    "repo": "boxyhq/saas-starter-kit",
+    "desc": "🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀",
+    "officialSite": "https://boxyhq.com/blog/enterprise-ready-saas-starter-kit",
+    "topics": ["boilerplate", "boilerplates", "hacktoberfest", "js-boilerplate", "next-auth", "nextjs", "nodejs", "react", "saas", "saas-app", "saas-application", "saas-boilerplate", "saas-kit", "starter-kit", "starter-template", "tailwindcss", "typescript"]
+  }, {
+    "repo": "vercel/next-learn",
+    "desc": "Learn Next.js Starter Code",
+    "officialSite": "https://next-learn-starter.vercel.app/",
+    "topics": []
+  }, {
+    "repo": "eylonmiz/react-agent",
+    "desc": "The open-source React.js Autonomous LLM Agent",
+    "officialSite": "https://reactagent.io/",
+    "topics": ["agent", "gpt-4", "headless", "headlessui", "llm", "react"]
   }
 ]

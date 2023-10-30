@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "comg-dev",
+    "name": "코맹탈출 - 실리콘밸리 개발이야기",
+    "profile": "https://yt3.googleusercontent.com/u8C_FY-1RtycQzHlAt6tBHq7tpfCZtKWDgDGgPlPcQMPQYEOMu5xnHWP2sVzhajzIcTht65J=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GoDLr71gWcfU7ljW1N2d1MNgdtlMLRKCd6MIy2q3AhsDzSAheEqexxkWwxgZOA1NCstha-DEL2Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "T5CNd0Yj3Fs", "title": "스택 자료구조 뿌시기" }
+  ]
+}

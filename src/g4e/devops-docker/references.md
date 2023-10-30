@@ -21,6 +21,7 @@ description: 🐋Docker > 📚References
 ## Stackoverflow
 
 - [How can I change the location of docker images when using Docker Desktop on WSL2 with Windows 10 Home?](https://stackoverflow.com/questions/62441307/how-can-i-change-the-location-of-docker-images-when-using-docker-desktop-on-wsl2)
+- [entrypoint file not found](https://stackoverflow.com/questions/44460825/entrypoint-file-not-found)
 
 
 ---

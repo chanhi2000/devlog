@@ -106,6 +106,7 @@ meta:
 <MyYouTubeItems jsonName="yu-xxxjjhhh" /><!-- 개발자 유미 -->
 <MyYouTubeItems jsonName="yu-hancoding" /><!-- 한코딩 -->
 <MyYouTubeItems jsonName="yu-around.hub.studio" /><!-- 어라운드 허브 스튜디오 - Around Hub Studio -->
-
+<MyYouTubeItems jsonName="yu-SagguUK" /><!-- Saggu -->
+<MyYouTubeItems jsonName="yu-MasterNKS" /><!-- 남궁성의 정석코딩 -->
 
 <TagLinks />

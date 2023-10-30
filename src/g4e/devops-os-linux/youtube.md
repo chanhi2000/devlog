@@ -56,5 +56,6 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 <MyYouTubeItems jsonName="yu-GeeksLesson" /><!-- Geek's Lesson -->
 <MyYouTubeItems jsonName="yu-NullByteWHT" /><!-- Null Byte -->
 <MyYouTubeItems jsonName="yu-user-gy3ts8hg9t" /><!-- 재즐보프 -->
+<MyYouTubeItems jsonName="yu-KeepItTechie" /><!-- KeepItTechie -->
 
 <TagLinks />

@@ -167,11 +167,11 @@ Your core SwiftUI skills are strong, so it’s time to push past the basics and 
 - [Day 45][day-45] – Project 9, part three
 - [Day 46][day-46] – Project 9, part four
 
-### Days 47-48: Consolidation IV
+### ✅Days 47-48: Consolidation IV
 
 You’ve tackled some heavyweight skills now, so before we move on it’s time to review what has been covered, go into detail on a handful of topics, and face a fresh challenge.
 
-- ✅[Day 47][day-47] – Milestone: Projects 7-9
+- [Day 47][day-47] – Milestone: Projects 7-9
 - [Day 48][day-48] – Expanding your horizons
 
 ### Days 49-59: Focus on data
@@ -323,7 +323,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-45]: 45.md
 [day-46]: 46.md
 [day-47]: 47.md
-[day-48]: https://www.hackingwithswift.com/100/swiftui/48
+[day-48]: 48.md
 [day-49]: https://www.hackingwithswift.com/100/swiftui/49
 [day-50]: https://www.hackingwithswift.com/100/swiftui/50
 [day-51]: https://www.hackingwithswift.com/100/swiftui/51

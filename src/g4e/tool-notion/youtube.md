@@ -21,5 +21,8 @@ tags:
 <MyYouTubeItems jsonName="yu-landmarklabs" /><!-- Landmark Labs -->
 <MyYouTubeItems jsonName="yu-seulki" /><!-- 슬기로운 슬기 -->
 <MyYouTubeItems jsonName="yu-mfreihaendig" /><!-- Matthias Frank -->
+<MyYouTubeItems jsonName="yu-wawa_geul" /><!-- 와와글 -->
+<MyYouTubeItems jsonName="yu-0won" /><!-- 노션 연구소 -->
+<FontIcon icon="iconfont icon-yegrina._."/><!-- 예그리나 -->
 
 <TagLinks />

@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "_Bm6MZHLr-Q", "title": "컨테이너&클라우드 환경을 소화할 수 있는 CI/CD 구축 가이드" },
     { "id": "9jSvd61NvJ4", "title": "8/31(목) 락플레이스 RHAAP 웨비나" }
   ]
 }

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uD_ju_cwXK0", "title": "Flutter Custom AppBar Design | Reusable AppBar Flutter 2023" },
+    { "id": "JsPMdnkiav8", "title": "`Gridview` in Flutter with Product Card Design | Flutter `Gridview` 2023" },
+    { "id": "XIHqtsySypw", "title": "Flutter eCommerce App UI Design | Flutter Grid View | Flutter Nested Scroll View" },
     { "id": "_up1K4p1-aY", "title": "Login Page in Flutter tutorial - Flutter Login Page UI 2023" },
     { "id": "TQMMG39qw0c", "title": "Flutter Signup Page Design - Signup Page Flutter 2023" },
     { "id": "b1i1hwWIf0M", "title": "Flutter Email Verification Screen | Flutter Success Screen Design 2023" },

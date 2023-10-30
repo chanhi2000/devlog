@@ -29,5 +29,6 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 <MyYouTubeItems jsonName="yu-PayetteForward" /><!-- Payette Forward -->
 <MyYouTubeItems jsonName="yu-ryan_phdsec" /><!-- PhD Security -->
 <MyYouTubeItems jsonName="yu-juhyun167" /><!-- Juhyun Song -->
+<MyYouTubeItems jsonName="yu-SecurityFWD" /><!-- SecurityFWD -->
 
 <TagLinks />

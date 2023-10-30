@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "kingchobo",
+    "name": "왕초보 홈페이지만들기",
+    "profile": "https://yt3.googleusercontent.com/k3y6bbQ-OmKk6JRJ8yuTXLhcOq0KRBjxpSzFkNpx6vd3IMTrRH0tiTC05v3CdYtD2TTAZLKI6g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hx5fBxrzNho", "title": "42. Laravel 기초, 제트스트림 CRUD, Delete(삭제)하기" },
+    { "id": "lTKs1VWmp_E", "title": "41. Laravel 기초, 제트스트림 CRUD, Sort(정렬)하기" },
+    { "id": "hm_ba0IYhGo", "title": "44. Laravel 기초, 제트스트림 CRUD, Sort 아이콘 넣기" },
+    { "id": "rbbezwPvd5Q", "title": "43. Laravel 기초, 제트스트림 CRUD, 삭제 모달 띄우기" }
+  ]
+}

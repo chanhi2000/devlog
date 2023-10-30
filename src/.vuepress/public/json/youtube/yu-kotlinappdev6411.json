@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "kotlinappdev6411",
+    "name": "Kotlin App Dev",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYXQf6Amh5aRSliNJwzj8GvVNDnWc_bE_Hcx_jK=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/B9sH4AQS8u6dq-xLrLOjfDuhJpApCG9NaKFSV6jhc8um3Fki0mT1WLfDPUr_W6eq4pMMtOTAEQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RstCZe0bQHE", "title": "How To Update aab File On Google Play Console - Update Publish AAB APK On Play Console" }
+  ]
+}

@@ -774,6 +774,11 @@
     "desc": "Cross-platform Rust rewrite of the GNU coreutils",
     "officialSite": "",
     "topics": ["busybox", "command-line-tool", "coreutils", "cross-platform", "gnu-coreutils", "rust"]
+  }, {
+    "repo": "juspay/hyperswitch",
+    "desc": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "officialSite": "https://hyperswitch.io/hacktoberfest",
+    "topics": ["beginner-friendly", "featured", "hacktoberfest", "high-performance", "open-source", "orchestration", "payments", "postgresql", "redis", "restful-api", "rust", "sdk", "works-with-react"]
   }
 ]
 

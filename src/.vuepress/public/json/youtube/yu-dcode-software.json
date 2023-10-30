@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dcode-software",
+    "name": "dcode",
+    "profile": "https://yt3.googleusercontent.com/s5Eex4ZIqBSe2y2k5aidi71WGkfEJORkY-Hn2QDVMJxnkpRB5FdlOiHC9V1yyLuxSaCv5JCVYmM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/87820lQXu6MHYiTwY2dYbk8VWLgcidLabPghdX-7PQkGRK_f88T3JJLKqAxUNY8wOI2V0xJ-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HYeKKMFYK8o", "title": "The Ultimate CSS Crash Course for Absolute Beginners" }
+  ]
+}

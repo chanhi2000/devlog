@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "MahlerLab",
+    "name": "말러랩",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYBK_0Hu6XhoQHsXWGa8N8IdPLZ6lyA34FMXqq5=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZR4c62jHJcHbDWofKk2xGsAY9X3rBMShDtzCcKwIKD0eRnATDWlttWeYxJjQA1BDTHO-pKib=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KeLmEv3Mzvk", "title": "아이의 ChatGPT 활용 지도하기 (2023년 10월)" },
+    { "id": "eWw5c3X__wI", "title": "교수를 위한 ChatGPT 활용법 (2023년 10월)" },
+    { "id": "oEXrFW40UB4", "title": "연구 계획서에 ChatGPT 활용하기 (2023년 10월)" }
+  ]
+}

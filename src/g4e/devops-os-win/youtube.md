@@ -30,5 +30,6 @@ tags: ["youtube", "tutorial", "education", "windows", "@MicrosoftResearch", "@Th
 <MyYouTubeItems jsonName="yu-TechLabsOfficial" /><!-- Tech Labs -->
 <MyYouTubeItems jsonName="yu-TanjimTheTechGuy" /><!-- Tanjim The Tech Guy -->
 <MyYouTubeItems jsonName="yu-user-ks4vb3cv9p" /><!-- 컴테크 -->
+<MyYouTubeItems jsonName="yu-windowsforumkr" /><!-- 윈도우 포럼 -->
 
 <TagLinks />

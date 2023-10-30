@@ -30,5 +30,7 @@ tags: ["dart", "flutter"]
 <MyYouTubeItems jsonName="yu-FlutterMapp" /><!-- Flutter Mapp -->
 <MyYouTubeItems jsonName="yu-JAICHANGPARK" /><!-- Dream Walker -->
 <MyYouTubeItems jsonName="yu-flutterdev" /><!-- Flutter -->
+<MyYouTubeItems jsonName="yu-hyangmama" /><!-- 향마마 허리업 (dev.) -->
+<MyYouTubeItems jsonName="yu-survivalcoding" /><!-- 오준석의 생존코딩 -->
 
 <TagLinks />

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SurajinCloud",
+    "name": "Suraj in Cloud",
+    "profile": "https://yt3.googleusercontent.com/BuEDMuJGun2ZfU-NNX4DYaSU0uvlh8-cwo0rF0iCFmN7HcEiAf7eG6atX7pcd2HG4ZUBBTI2qg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X0ShO1WXt43iZRHFJ-aeLUXr6CLaSnUmGemFPBjdk3C_kJSZhaCbo-OmKXKVNx00igwulnuO=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "P3BTXrIQhKQ", "title": "kubernetes `endpointSlices` Explained !!!" }
+  ]
+}

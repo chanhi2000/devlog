@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bBk0Z5tAV1w", "title": "EMA Cloud Rants: Kubernetes Distributions" },
+    { "id": "yUKUwjKEn94", "title": "8. Private AI & Big Data: AI 비지니스를 위한 Data Science와 Gen AI 데모" },
+    { "id": "PMkCf8_KbP0", "title": "2. Private AI & Big Data: 기업의 Private AI 구축을 위한 Reference Architecture Model" },
+    { "id": "zv5vQyl6E1Y", "title": "4. Private AI & Big Data: VMware Greenplum Recommended Reference Architecture with Samsung SMRC" },
+    { "id": "8nlMeIV_gqA", "title": "1. Private AI & Big Data Keynote: Enable your AI Business 고객의 AI 비즈니스를 가능하게 만드는 VMware solution" },
     { "id": "53dduXB-WMY", "title": "Automate Kubernetes Platform Operations" },
     { "id": "7qz9wZxpUyk", "title": "Dev Deep Dive: Diving into the World of Kubernetes" },
     { "id": "4UgtidPVQVA", "title": "Rapid Microservices Development with Spring Boot" },

@@ -349,5 +349,15 @@
     "desc": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.",
     "officialSite": "",
     "topics": ["multiple-thumbs", "multislider", "range-picker", "range-slider", "swift", "thumbs", "uislider"]
+  }, {
+    "repo": "yaoxp/DemoSwift",
+    "desc": "swift 学习demo",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "fatbobman/BlogCodes",
+    "desc": "【肘子的Swift笔记】博文中的代码汇总",
+    "officialSite": "",
+    "topics": []
   }
 ]

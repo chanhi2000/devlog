@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/TUoJffjK5MU78QMIOfAJJqfT-L4n9WPOo_Ydsde5vbK4ctvL1as-MpgMTARhQbNVVAmbQ55x=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8kmtCVgqM34", "title": "제대로 파는 자바스크립트(JavaScript) - 업데이트판 (가독성UP/추가내용)" },
     { "id": "d7FmIkKEQGI", "title": "03-12. 소스트리로 브랜치 다루기 / 투머치 친절한 깃 & 깃허브" },
     { "id": "5xH6esWrB7I", "title": "03-11. 브랜치 충돌 해결 / 투머치 친절한 깃 & 깃허브" },
     { "id": "H4O0ubQSt-0", "title": "03-10-B. merge & rebase 실습 / 투머치 친절한 깃 & 깃허브" },

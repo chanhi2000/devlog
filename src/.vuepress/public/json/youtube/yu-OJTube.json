@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/bA1DLdOXuSy_rwC_MPzPpH6Br0U42fMI4WaQyBzmhGd7v0-KnVwMjhqWqjsmbCPF37VTM0baIw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "afkwBG39vzk", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 1. 왜 커널 공부를 해야하나" },
+    { "id": "z9QZHvlG2m0", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 2. 커널을 컴파일 해보자구!" },
     { "id": "zkpE7VYkpmM", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 오리엔테이션" },
     { "id": "A0fmux6Q2H4", "title": "[임베디드 30강] 흉내낸 쓰레드 크리티컬 문제 해결." },
     { "id": "TdzCyRviW7w", "title": "[C언어 실시간 강의7] 로직 교육의 마지막 - 반복문." },

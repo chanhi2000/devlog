@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/0DSeePNUmxbTH0UDOmqF4_wQaWu8BIo0UWkR7qgCQLDG4_lr-Zt91TVMZHH3c1EGZA7Xf-Id=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ku_HZdgaOF8", "title": "How To Create REUSABLE App Components In Python (Flet Tutorial)" },
+    { "id": "AFSnMu1A8yI", "title": "99% Of Python Devs Make THIS Stupid Mistake #python #programming #code" },
+    { "id": "jz0xIuIjpgE", "title": "DO NOT Use Normal Classes For THIS In Python #code #programming #python" },
+    { "id": "G82bDEoxJMQ", "title": "COOL Python Tip, Thank Me LATER #code #programming #python" },
     { "id": "IJrvi9A0dzI", "title": "How To Hot Reload Your Python App (Flet Tutorial)" },
     { "id": "hC5rfoIY8nU", "title": "How To Create & Activate A Virtual Environment In Visual Studio Code (Python 3.12)" },
     { "id": "KFZ_fO_HCMA", "title": "Creating A Python App With Keyboard Shortcuts (Flet Tutorial)" },

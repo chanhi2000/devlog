@@ -49,5 +49,6 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-boanproject" /><!-- 보안프로젝트[boanproject] -->
 <MyYouTubeItems jsonName="yu-Boo_ho" /><!-- 부업하는 호박군 -->
 <MyYouTubeItems jsonName="yu-TinaHuang1" /><!-- Tina Huang -->
+<MyYouTubeItems jsonName="yu-MahlerLab" /><!-- 말러랩 -->
 
 <TagLinks />

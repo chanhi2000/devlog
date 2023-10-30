@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/StC9GOxgXbmFL9yXgjzYQneqJ3iQRYKWMSp5a_eTvbq--zwpyaOGJMT1HIWTFp7lRpUXWpEo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iAxUpo0aJSk", "title": "HTML File Uploads in 5 Minutes (Plus Some JavaScript Features)" },
     { "id": "CvJcfGfV7ic", "title": "Million.js - The Virtual DOM Replacement for React" },
     { "id": "8IjZR79hJqk", "title": "Custom Video Player Controls with React" },
     { "id": "vRj84cs6oGs", "title": "SSG vs SSR Explained in 10 Minutes (For Beginners)" },

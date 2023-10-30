@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/1Jn1Mjk0zt97Go0PJCPUmrC6NrLj4kBlRNpFwSaijuSV-d-OvSQCF6wgeLSFYIA46d8BA2CbMPQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "C8U4OKeDGU4", "title": "Live-coding stream! JavaScript, CSS, AstroJS, But first &quot;Living the Creative Act&quot; live recording" },
     { "id": "uUuDa6ziscA", "title": "Live-coding stream! Server-side Swift for NYC subway app 2023 Oct 1" },
     { "id": "KHOx1YSaEHU", "title": "Live-coding stream! Swift command line tool SPX, Living the Creative Act at 2pm!" }
   ]

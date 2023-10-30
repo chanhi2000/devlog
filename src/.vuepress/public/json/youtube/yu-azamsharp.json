@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Q18Zm-VopeLTtRezGw9o2oLPwz4Ig_S-FQReSIYTIgDbzTfX1XSDxxzyoiRu9tHtA9kJ57hylIE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sRDGfb4Y3wY", "title": "Todo App Using Core Data + SwiftUI - #1 Creating TodoItem" },
     { "id": "i-EzEuIw4tw", "title": "Performing Save and Filter on Enums in SwiftData" },
     { "id": "aHi1o9zbFfo", "title": "Recording - DC iOS: SwiftUI Architecture and Best Practices" },
     { "id": "O5Lia6zGuY0", "title": "Getting Started with SwiftUI Maps for iOS 17" },

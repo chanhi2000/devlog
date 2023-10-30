@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/65qv-IUJXhEcwd2WLDJ3gXqcAk6fkIceYxvKUII7Gz1rBeHiOt4L2JQwqhvvAYv5wEC1ucsj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "14VYWXEvcX8", "title": "LM Studio: The Easiest and Best Way to Run Local LLMs" },
     { "id": "ASpageg8nPw", "title": "Mistral-7B with LocalGPT: Chat with YOUR Documents" },
     { "id": "MGr1V4LyGFA", "title": "Ollama: The Easiest Way to RUN LLMs Locally" },
     { "id": "Cu5KQz3c4Zk", "title": "RAG with Llama-Index: Vector Stores" },

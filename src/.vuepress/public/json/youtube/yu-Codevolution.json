@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/RFyvcT19qPmSmKhAJvRY0bHld3w0fa_JalyHOKKpmlCGsEpWXi3ZQKJUB4qmcAB0K4j0vmvme9A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KRHdDGVrItw", "title": "React Native Tutorial - 78 - Drawer Navigation" },
     { "id": "V17bowbR2xs", "title": "React Native Tutorial - 66 - Networking" },
     { "id": "2-sr2e7LYhM", "title": "React Native Tutorial - 69 - Pull to Refresh" },
     { "id": "3UqoguFr4Dw", "title": "React Native Tutorial - 68 - Loading State" },

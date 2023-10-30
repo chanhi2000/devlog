@@ -834,5 +834,10 @@
     "desc": "Dagor Engine and Tools source code from Gaijin Games KFT",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "halpz/re3",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

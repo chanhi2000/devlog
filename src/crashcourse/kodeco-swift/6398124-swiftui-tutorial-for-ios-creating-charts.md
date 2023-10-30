@@ -139,7 +139,7 @@ Open <FontIcon icon="fas fa-dove"/>`PrecipitationTab.swift` and delete the no lo
 PrecipitationChart(measurements: station.measurements)
 ```
 
-::: tips Note
+::: note Note
 
 When you run the app make sure you're on the Precipitation tab after selecting a location to see the results.
 
@@ -497,9 +497,108 @@ Applying it to the path means the gradient shows only for the stroked portion: T
 
 ## Adding Grid Lines and Labels
 
+All that's left now is to make things a little easier on the viewers eyes by adding grid lines, similar to what you did in the bar charts. Add the following helper function after the existing ones in <FontIcon icon="fas fa-dove"/>`TemperatureChart.swift`:
+
+```swift
+func tempLabelOffset(_ line: Int, height: CGFloat) -> CGFloat {
+  height - self.tempOffset(
+    Double(line * 10),
+    degreeHeight: self.degreeHeight(height, range: 110))
+}
+```
+
+This divides the grid into ten-degree blocks and passes in an integer representing the starting temperature divided by ten for that block along with the total height of the view. The function calculates the appropriate vertical offset.
+
+Add the following code to draw the temperature grid lines and labels after the closing bracket of the `ForEach` loop in `body`:
+
+```swift
+// 1
+ForEach(-1..<11) { line in
+  // 2
+  Group {
+    Path { path in
+      let y = self.tempLabelOffset(line, height: reader.size.height)
+      path.move(to: CGPoint(x: 0, y: y))
+      path.addLine(to: CGPoint(x: reader.size.width, y: y))
+      // 4
+    }.stroke(line == 0 ? Color.black : Color.gray)
+    // 5
+    if line >= 0 {
+      Text("\(line * 10)°")
+        .offset(x: 10, y: self.tempLabelOffset(line, height: reader.size.height))
+    }
+  }
+}
+```
+
+Here's a breakdown of the new code:
+
+1. You loop through the range of -1 to 10 representing the temperatures -10 to 100 degrees Fahrenheit.
+2. A `Group` view acts as a bit of glue in SwiftUI that combines its child views but doesn't render an element directly. Here it allows you to use both a `Path` and a `Text()` view inside the loop.
+3. You use the function you just added to calculate the position of the temperature for this line. Then you draw the line horizontally from the left side to the right side of the view at that vertical position.
+4. You draw most of the grid lines in gray. To help the zero degrees line stand out, you show it in black.
+5. For all except the first grid line, you add a text label. Since you're no longer inside the `Path` enclosure, you recalculate the position for the temperature the line represents. You again use the `tempLabelOffset(_:height:)` function to calculate the vertical position.
+
+![temp-grid-lines](https://koenig-media.raywenderlich.com/uploads/2019/11/temp-grid-lines-231x500.png =240x)
+
+With the temperatures done, you need indicators and labels for the months to finish. Add the following two helper functions after the existing ones:
+
+```swift
+func offsetFirstOfMonth(_ month: Int, width: CGFloat) -> CGFloat {
+  let dateFormatter = DateFormatter()
+  dateFormatter.dateFormat = "M/d/yyyy"
+  let foM = dateFormatter.date(from: "\(month)/1/2018")!
+  let dayWidth = self.dayWidth(width, count: 365)
+  return self.dayOffset(foM, dWidth: dayWidth)
+}
+
+func monthAbbreviationFromInt(_ month: Int) -> String {
+  let ma = Calendar.current.shortMonthSymbols
+  return ma[month - 1]
+}
+```
+
+Add the following code to add the month grid lines and labels to the end of `body` after the closing bracket of the previous `ForEach` loop:
+
+```swift
+ForEach(1..<13) { month in
+  Group {
+    Path { path in
+      let dOffset = self.offsetFirstOfMonth(month, width: reader.size.width)
+
+      path.move(to: CGPoint(x: dOffset, y: reader.size.height))
+      path.addLine(to: CGPoint(x: dOffset, y: 0))
+    }.stroke(Color.gray)
+    Text("\(self.monthAbbreviationFromInt(month))")
+      .font(.subheadline)
+      .offset(
+        x: self.offsetFirstOfMonth(month, width: reader.size.width) +
+          5 * self.dayWidth(reader.size.width, count: 365),
+        y: reader.size.height - 25.0)
+  }
+}
+```
+
+There's nothing here you haven't used before. A `Group`, as before, wraps the grid lines and month labels. You then draw a vertical line at the offset that corresponds to the first day of each month.
+
+Then you get the text abbreviation for each month and draw it at the same offset plus a small shift to move the text into the middle of the month. You get the text abbreviation for each month and draw it at the same offset plus a small shift to move the text into the middle of the month.
+
+![final-temp-chart](https://koenig-media.raywenderlich.com/uploads/2019/11/final-temp-chart-231x500.png =240x)
+
+Your chart now gives a good overview of the temperature ranges at each location. The top and bottom of each vertical line combine with the color to clearly show the temperatures at different times of the year. The grid lines and labels help the viewer identify a time of year or temperature range.
+
+
 ---
 
 ## Where to Go From Here
+
+You can download the finished project by clicking the __Download Materials__ button at the top or bottom of this tutorial.
+
+With all UI things, the Apple Human Interface Guidelines are a good starting point if you’d like to learn more. You'll find a brief section on [Charts](https://developer.apple.com/design/human-interface-guidelines/carekit/app-architecture/charts/) in the Human Interface Guidelines. You should also read the guidelines on [Color](https://developer.apple.com/design/human-interface-guidelines/carekit/visual-design/color/) when choosing colors for your charts.
+
+Chapter 13: Drawing and Custom Graphics in [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) is a good introduction to creating SwiftUI graphics. But perhaps I'm biased since I wrote it. :]
+
+If you have any questions or comments, please join the discussion below.
 
 ---
 

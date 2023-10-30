@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/R_4R-mQTEnzxwGyldEG4dU33r9IaqYkV0B6rYDy_3xfqqTbOVAFsn19bUiGPddUUhtrGtd780g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "om_oYZ4vP2Q", "title": "The Wix Studio Crash Course - Build a Website in Record Time" },
     { "id": "VIXBZoeiHi8", "title": "Create a Super Modern Menu Interaction with JavaScript" },
     { "id": "A4g4pGJy5eY", "title": "Motion One - A Lightweight JavaScript Animation Library" },
     { "id": "FshBqLutXqw", "title": "Mastering Scrub Animations with GreenSock" },

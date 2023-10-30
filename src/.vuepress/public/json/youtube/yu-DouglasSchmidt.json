@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Ej-truz7tgpNU-Qqq1WzsIaCGiXvVi71MmkeZB8J9zNSJrCY-0LbyZPnev_DokVSEEYu1TAvpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Z94ubsCVymo", "title": "Automating Java Code Refactoring with ChatGPT 4:  Decoupling Timing Logic from Business Logic" },
+    { "id": "9SPaU4xXe4E", "title": "Java Parallel Streams Internals: Demo'ing Collector Performance (Part 3)" },
     { "id": "QYZLm3DCaRc", "title": "Walkthrough of Assignment 3a for CS 253 in the Fall of 2023" },
     { "id": "nip0HVhFZm4", "title": "Apply Java Streams Spliterators" },
     { "id": "IYfJpXfwLfw", "title": "Understand Java Streams Non-Concurrent Collectors" },

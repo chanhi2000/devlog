@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "KeepItTechie",
+    "name": "KeepItTechie",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa7gp8IOAHtwBK7uG4xF6bENrG8_ce4EUHONFYKQg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dWXT2zMs7EysjsEB2P54TlrhWNnDNweb_9gxR279YYbVufSX-0IOU1FSeC-sl3aFPfUBFXiwvg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HlsTpIPVYY4", "title": "Easy Server Management | Master Cockpit on RHEL / Rocky Linux 9" }
+  ]
+}

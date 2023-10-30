@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Aho1S7PkjbBrlfw_OwY0TBCFAC3tSRM9iijSeZadKDps0jODeQysNwSLILLfLJAIbALkQu_Yqg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RcHGqCBofvw", "title": "Create your own Custom GitHub Actions runner!" },
+    { "id": "iYwE3h0p7Zs", "title": "How to run a basic PostGreSQL in Kubernetes!" },
     { "id": "qqR0c-qcILI", "title": "The COOLEST CLI for Kubernetes! | 2min TECH TIP" },
     { "id": "A6XkHzdPh3A", "title": "What is Infrastructure as Code ?" },
     { "id": "aqiOyXPPadk", "title": "Detect Kubernetes misconfigurations before its too late | Introduction to Datree" },

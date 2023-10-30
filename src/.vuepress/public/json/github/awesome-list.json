@@ -714,5 +714,10 @@
     "desc": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
     "officialSite": "https://doppler.com",
     "topics": ["android-interview-questions", "angularjs-interview-questions", "awesome", "awesome-list", "awesomeness", "interview-practice", "interview-questions", "interviewing", "javascript", "javascript-interview-questions", "list", "python-interview-questions", "rails-interview", "ruby"]
+  }, {
+    "repo": "trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "bsd", "cheatsheets", "devops", "guidelines", "hacking", "hacks", "howtos", "linux", "lists", "manuals", "one-liners", "pentesters", "resources", "search-engines", "security", "security-researchers", "sysops"]
   }
 ]
