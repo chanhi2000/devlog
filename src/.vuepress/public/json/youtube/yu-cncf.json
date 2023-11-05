@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CaK8Mb0Kb9M", "title": "Run PostgreSQL in Warp Speed Using NVMe/TCP in the Cloud - Sagi Volkov, Lightbits" }, 
+    { "id": "PVQwHx0nT-0", "title": "Zero-Touch Fault-Tolerance for Cloud-Native Geo-Distributed Databases- Selvi Kadirvel &amp; Aman Nijawan" }, 
+    { "id": "SsvCrbd7gjQ", "title": "Lightning Talk: Should You Run Your Database on Kubernetes - George Hantzaras, MongoDB" }, 
+    { "id": "jY8N4G-ZOms", "title": "Data Integrity Tests in CI/CD Pipelines Christopher Crow, Portworx &amp; Stephen Atwell, Armory.io" }, 
     { "id": "VPi-VZvJ_d8", "title": "Cloud-native authorization standards" },
     { "id": "YiwMIB6A2tc", "title": "Open Source Project Goldilocks: How to Right Size Kubernetes Across Multiple Clusters & Teams" },
     { "id": "YNjN8S9P8Ic", "title": "Container Live Migration in Kubernetes Production Environment - Yenan Lang and Hua Liu, Tencent" },

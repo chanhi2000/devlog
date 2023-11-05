@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cUc68B9FqXJnFL9T-o74Xuexs5AvGs1PiJxVn9cVyoRFNsAmAzl79aPI5pAcBaXjvobnmn6hew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nKHiplfVx8s", "title": "Optimizing Performance of Vaadin Apps: Removing Bottlenecks for a Seamless User Experience" }, 
+    { "id": "NjpkdUNwLuQ", "title": "Welcome to Vaadin Create 2023: keynote and product vision" }, 
+    { "id": "JrjHHR0-bOc", "title": "Testing Vaadin Applications Made Easy" }, 
+    { "id": "YKUMUETqVcQ", "title": "1-line React data grid with paging, sorting, filtering - Hilla AutoGrid" }, 
     { "id": "yPv7U3Pg8jE", "title": "Live coding a full-stack Spring Boot and React project from scratch 🤓" },
     { "id": "z24gpqmOZ-w", "title": "Vaadin Grid renderers: customize cells and show a details row (Fusion)" }, 
     { "id": "G_aJONwi0qo", "title": "VS Code setup for TypeScript and Java: plugins and settings" }, 

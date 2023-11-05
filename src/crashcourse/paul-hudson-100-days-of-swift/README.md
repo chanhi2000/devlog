@@ -196,7 +196,7 @@ In the next three projects we’ll be edging a little further away from UIKit as
 - ✅[Day 60][day-60] – Project 16, part one
 - ✅[Day 61][day-61] – Project 16, part two
 - ✅[Day 62][day-62] – Project 17, part one
-- [Day 63][day-63] – Project 17, part two
+- ✅[Day 63][day-63] – Project 17, part two
 - [Day 64][day-64] – Project 18, part one
 - [Day 65][day-65] – Project 18, part two
  
@@ -352,7 +352,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-60]: 60.md
 [day-61]: 61.md
 [day-62]: 62.md
-[day-63]: https://www.hackingwithswift.com/100/63
+[day-63]: 63.md
 [day-64]: https://www.hackingwithswift.com/100/64
 [day-65]: https://www.hackingwithswift.com/100/65
 [day-66]: https://www.hackingwithswift.com/100/66

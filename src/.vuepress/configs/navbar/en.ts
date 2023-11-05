@@ -106,6 +106,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: '🍃Jump to Spring Boot',
             link: '/crashcourse/java-jump-to-spring-boot/README.md',
+          }, {
+            text: '☕️Java Web App with Quarkus and JPAStreamer',
+            link: '/crashcourse/java-freecodecamp-quarkus-jpastreamer/README.md',
           }
         ]
       }, {

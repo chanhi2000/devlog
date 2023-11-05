@@ -1699,5 +1699,10 @@
     "desc": "Social networking platform with automated content moderation and context-based authentication system",
     "officialSite": "https://socialecho.netlify.app",
     "topics": ["authentication", "azure-blob-storage", "azure-storage", "bart-large-mnli", "express", "huggingface-transformers", "jwt-authentication", "mern-project", "mern-stack", "mongodb", "mongoose", "nodejs", "react", "redux", "social-media"]
+  }, {
+    "repo": "hiteshchoudhary/chai-backend",
+    "desc": "A video series on chai aur code youtube channel",
+    "officialSite": "",
+    "topics": []
   }
 ]

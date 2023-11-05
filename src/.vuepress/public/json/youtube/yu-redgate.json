@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/hy_ANeUEcU-HjIMUcB5zp1aMRjz9X3XOtPMsilblQbGchSp90Ik1OJjnHT545EcXTvOghp32sh8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FLSLlG1lN5w", "title": "10 PostgreSQL extensions you need to know about | PostgreSQL 101" }, 
+    { "id": "SGvHHedjc1w", "title": "The Journey Towards PostgreSQL - Tips and Lessons  | PostgreSQL 101" }, 
+    { "id": "jtgWQkRFVv0", "title": "Why PostgreSQL in 2023 | PostgreSQL 101" }, 
+    { "id": "2p3MFUi3_Hw", "title": "Comparing SQL Server and PostgreSQL | PostgreSQL 101" }, 
+    { "id": "gOj6oYyyF3U", "title": "Getting started with PostgreSQL for SQL Server Developers | PostgreSQL 101" }, 
+    { "id": "5r8ptfYxA7o", "title": "Flyway Teams and Enterprise (Portuguese) | Redgate" }, 
     { "id": "x94uf4YrcBw", "title": "Using the SQL Change Automation PowerShell cmdlets with GitLab" },
     { "id": "r3Kcais5ZQ0", "title": "Customer Journeys: From SQL Data Generator to Data Masker" },
     { "id": "oDoW1lLWUYg", "title": "PostgreSQL 101 Webinar Comparing SQL Server and PostgreSQL - Q&A Session | Redgate" }

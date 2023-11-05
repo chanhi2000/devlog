@@ -291,9 +291,9 @@
     "officialSite": ""
   }, {
     "repo": "GaiZhenbiao/ChuanhuChatGPT",
-    "desc": "GUI for ChatGPT API",
-    "topics": [],
-    "officialSite": ""
+    "desc": "GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.",
+    "officialSite": "https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT",
+    "topics": ["bilibili", "chatbot", "chatgpt-api"]
   }, {
     "repo": "AUTOMATIC1111/stable-diffusion-webui",
     "desc": "Stable Diffusion web UI",
@@ -3178,5 +3178,30 @@
     "desc": "Translate the video from one language to another and add dubbing.  将视频从一种语言翻译为另一种语言，并添加配音",
     "officialSite": "",
     "topics": ["speech-to-text", "text-to-speech", "video-transition"]
+  }, {
+    "repo": "daveshap/OpenAI_Agent_Swarm",
+    "desc": "HAAS = Hierarchical Autonomous Agent Swarm - \"Resistance is futile!\"",
+    "officialSite": "",
+    "topics": ["agent", "autonomous", "swarm"]
+  }, {
+    "repo": "ishan0102/vimGPT",
+    "desc": "Browse the web with GPT-4V and Vimium",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "netease-youdao/EmotiVoice",
+    "desc": "EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine",
+    "officialSite": "",
+    "topics": ["ai", "deep-learning", "emotion", "emotivoice", "multi-speaker", "prompt", "python", "pytorch", "speech", "speech-synthesis", "style", "text-to-speech", "tts"]
+  }, {
+    "repo": "lyswhut/lx-music-mobile",
+    "desc": "一个基于 React native 开发的音乐软件",
+    "officialSite": "https://lyswhut.github.io/lx-music-doc/",
+    "topics": ["javascript", "music-player", "react-native-app"]
+  }, {
+    "repo": "namin/llm-verified-with-monte-carlo-tree-search",
+    "desc": "LLM verified with Monte Carlo Tree Search",
+    "officialSite": "",
+    "topics": ["ai", "dafny", "llm", "monte-carlo-tree-search"]
   }
 ]

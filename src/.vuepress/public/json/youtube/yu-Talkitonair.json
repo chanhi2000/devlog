@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QrcnoiH1qS8", "title": "AI기반 OCR 발전 동향과 분야별 use-case [구해줘 DX@토크아이티 프리미엄 웨비나, 파워젠]" }, 
+    { "id": "cjrUtRzJJqY", "title": "쿠버네티스는 어떻게 대세가 되었고, 도커는 왜 몰락했나? 쿠버네티스까지 30년 역사 [이진현 상무/맨텍, 고우성의 잇터뷰49, 토크아이티]" }, 
+    { "id": "jM7NeDPf0dw", "title": "알기 쉬운 쿠버네티스 개념 뽀개기  [이진현상무/맨텍, 고우성의 잇터뷰50, 토크아이티]" }, 
+    { "id": "TgsHQGzU_Io", "title": "PWC컨설턴트가 알려주는 SAP ERP 클라우드 도입 및 구축전략: PCE, SaaS, SAP on IaaS" }, 
+    { "id": "Yhi3zKJBNNE", "title": "주목할만한 LLM 기반모델: Llama2 , PaLM2, Falcon, Claude2 [구해줘 AI@토크아이티, 래블업 신정규대표]" }, 
+    { "id": "Si_9hrPmBUw", "title": "IT 운영 시간 30%를 절감하는 애플리케이션 자동화  feat. 뉴타닉스 HCI 셀프서비스 [구해줘 IT infra@토크아이티,  아이웍스]" }, 
+    { "id": "xeouLqE-XRk", "title": "LLM이 바꿀 세상의 변화: 레드오션이 될 LLM, 스마트폰 LLM , AI 엔지니어의 부상,  LLM전쟁터가 될 퍼블릭 클라우드 [구해줘 AI@토킁아이티, 래블업]" }, 
     { "id": "jvkxUfkOE9c", "title": "내 업무에 최적화된 3D프린터 선택 가이드와 최신 기술 동향 [구해줘 Manufacturing@토크아이티 프리미엄 웨비나, 스트라타시스]" },
     { "id": "qifCMwhtr5c", "title": "협동로봇 분야별 적용 가이드: 연마, 용접, 머신텐딩, 적재, Pick&Place [구해줘 Manufacturing@토크아이티 프리미엄 웨비나, 유니버설로봇, 다스코리아]" },
     { "id": "CG7WftCQk9o", "title": "LLM 파인튜닝도 경량화 시대! LoRA (Low-Rank Adaptation of LLM) [구해줘 AI@토크아이티,  래블업]" },

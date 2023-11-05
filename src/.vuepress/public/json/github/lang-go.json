@@ -1004,5 +1004,10 @@
     "desc": "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",
     "officialSite": "",
     "topics": ["gfw", "gui", "juicity", "linux", "shadowsocks", "shadowsocksr", "ssr", "trojan", "tuic", "v2ray"]
+  }, {
+    "repo": "Melkeydev/go-blueprint",
+    "desc": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
+    "officialSite": "",
+    "topics": []
   }
 ]

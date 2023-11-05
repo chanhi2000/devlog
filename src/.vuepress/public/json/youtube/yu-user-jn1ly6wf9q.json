@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "AnoofbxhklA", "title": "Webjjang JAVA ver.2023.10 09-04 무조건 Project  - 글 등록과 수정 &amp; 삭제(웹짱과 함께하는 자바)" }, 
+    { "id": "bMBrYReAdZ8", "title": "Webjjang JAVA ver.2023.10 09-03 무조건 Project  - 리스트 출력과 글보기(웹짱과 함께하는 자바)" }, 
+    { "id": "B5J_HWiCcno", "title": "Webjjang JAVA ver.2023.10 09-02 무조건 Project  - 리스트 개발(웹짱과 함께하는 자바)" }, 
+    { "id": "fS9PbaCRChQ", "title": "Webjjang JAVA ver.2023.10 09-01 무조건 Project  - 분석과 필요 객체 작성(웹짱과 함께하는 자바)" }, 
+    { "id": "03UbrQQHZ_4", "title": "Webjjang JAVA ver.2023.10 08-15 Project - 게시판 글 삭제(웹짱과 함께하는 자바)" }, 
     { "id": "CDRLIh1nXBw", "title": "Webjjang Oracle ver.2023.10 04-06 시퀀스 없이 MAX 함수로 게시판 글번호 운영(웹짱과 함께하는 오라클)" },
     { "id": "kyMnnZaBWsQ", "title": "Webjjang JAVA ver.2023.10 07-04 JDBC - 게시판 리스트 02(웹짱과 함께하는 자바)" },
     { "id": "F5GIykoaWlk", "title": "Webjjang JAVA ver.2023.10 07-03 JDBC - 게시판 리스트 01(웹짱과 함께하는 자바)" },

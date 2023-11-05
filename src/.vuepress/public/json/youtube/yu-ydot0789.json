@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/ia9z5pzY1_FcrwneiS27kPVLZq2jjRueRnKpZsTsbozr0yOm8Rw08wmr_14n4aKwaZiO47OZ-g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Gn8D6-KOkwQ", "title": "[컴활1필기] 데이터베이스 일반-필드 속성 3-유효성 검사/기타 필드 속성/기본키/인덱스" }, 
+    { "id": "oVfrIWFPNIY", "title": "[컴활1필기] 데이터베이스 일반-필드 속성 2-입력 마스크/조회 속성" }, 
+    { "id": "GY5MgNlWXaQ", "title": "[컴활1필기] 데이터베이스 일반-필드 속성 1-속성과 형식" }, 
+    { "id": "DEkrOo1qKTI", "title": "[컴활1필기] 데이터베이스 일반-테이블 수정" }, 
+    { "id": "gK7bvvqcVMg", "title": "[컴활1필기] 데이터베이스 일반- 액세스 사용의 기초" }, 
+    { "id": "cnkyCEMwFFY", "title": "[컴활1필기] 데이터베이스 일반-테이블 생성" }, 
     { "id": "E6wX-mQU1EA", "title": "[컴활1필기] 데이터베이스 일반-데이터베이스의 개념과 용어" },
     { "id": "-NuEKVYr05w", "title": "[컴활2급필기] 스프레드시트 일반-매크로 작성" },
     { "id": "dZ8aYcFIv0E", "title": "[컴활2급필기] 스프레드시트 일반-논리 함수/찾기와 참조 함수/D 함수" },

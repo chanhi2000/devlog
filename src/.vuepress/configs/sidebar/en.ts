@@ -844,6 +844,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/60.md',
         '/crashcourse/paul-hudson-100-days-of-swift/61.md',
         '/crashcourse/paul-hudson-100-days-of-swift/62.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/63.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -900,6 +901,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/48.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/49.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/50.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/51.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -990,6 +992,15 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-kotlin-android/31290959-kotlin-sequences-getting-started.md',
       ]
     }, {
+      text: '☕️Java Web App with Quarkus and JPAStreamer',
+      collapsible: true,
+      children: [
+        '/crashcourse/java-freecodecamp-quarkus-jpastreamer/README.md',
+        '/crashcourse/java-freecodecamp-quarkus-jpastreamer/01.md',
+        '/crashcourse/java-freecodecamp-quarkus-jpastreamer/02.md',
+        '/crashcourse/java-freecodecamp-quarkus-jpastreamer/03.md',
+      ]
+    },{
       text: '🐍Finance with Python',
       collapsible: true,
       children: [

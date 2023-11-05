@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XO_8zf1rHSs", "title": "Vue.js V3 - 핵심 #04 - 반복문, 이벤트, 수식어 사용하기" }, 
+    { "id": "mCrCxjKyWQc", "title": "ETC 65 개발자가 알아야할 개념 훑어보기 5탄, 웹소켓, D3.js, null, undefined, rest api" }, 
+    { "id": "Pgq-a7yPyA8", "title": "Vue.js V3 - 핵심 #05 - 라우팅, reactivity(반응), state 설정, 이벤트 연결" }, 
     { "id": "U3rUEccB6Wk", "title": "ETC 65 개발자가 알아야할 개념 훑어보기 4탄, webpack, SEO, SSR, CSR" },
     { "id": "LdL59i7Bsr8", "title": "웹디자인 기능사 실기(43) - 기출유형 (조은은행) HEADER-전체 드롭다운 메뉴" },
     { "id": "nafpdUZ0-WI", "title": "웹디자인 기능사 실기(25) - 와이어프레임 - D4 유형" },

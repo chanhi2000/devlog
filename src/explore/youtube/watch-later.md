@@ -137,7 +137,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-aarthificial]: https://www.youtube.com/@aarthificial
 [yu-python-simplified]: https://www.youtube.com/@PythonSimplified
 [yu-sonulodha9215]: https://www.youtube.com/@sonulodha9215
-[yu-sungan]: https://www.youtube.com/@sungan
 [yu-unrealtech]: https://www.youtube.com/@unrealtech
 [yu-techmong]: https://www.youtube.com/@techmong
 [yu-codewiththilaks]: https://www.youtube.com/@codewiththilaks

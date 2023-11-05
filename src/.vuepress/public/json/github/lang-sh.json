@@ -229,5 +229,10 @@
     "desc": "Deployment for Streamdal server",
     "officialSite": "https://www.streamdal.com",
     "topics": ["astrojs", "data-contracts", "deno", "docker", "event-driven", "go", "javascript", "message-queues", "nodejs", "observability", "python", "reactjs", "rust", "streaming-data", "tail-f"]
+  }, {
+    "repo": "AsahiLinux/docs",
+    "desc": "Hardware and software docs / wiki",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/OwQuC9VD9O4DFGuX_dbtjesMj1i0b4-HOnw7MhFt1KSfxEXoCrqfwjWAmKzFPwqyi62gqo5KlA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nSf-l-LYZ8A", "title": "W보안넷 : 네트워크 해킹/보안-chap4-4-3 IP주소 추적 traceroute" }, 
+    { "id": "8S34Gx8-qAo", "title": "W보안넷 : 네트워크 해킹/보안-chap4-4-1 IP주소 추적 traceroute" }, 
+    { "id": "xnXzlR_wnr0", "title": "W보안넷 : 네트워크 해킹/보안-chap4-3 IP주소 추적 traceroute" }, 
+    { "id": "0NVyfpduUME", "title": "W보안넷 : 네트워크 해킹/보안-chap5-1 Enumeration:SNMP" }, 
+    { "id": "Tv0vUs3e200", "title": "W보안넷 : 네트워크 해킹/보안-chap5-1 Enumeration:SNMP-2" }, 
+    { "id": "C-GS3XA3TTU", "title": "W보안넷 : 네트워크 해킹/보안-chap5-1 Enumeration:방화벽 Scan" }, 
+    { "id": "MmpkFvtgmGo", "title": "W보안넷 : 네트워크 해킹/보안-chap5-1 Enumeration:Nmap Scan" }, 
+    { "id": "q66LrJ-EDrg", "title": "W보안넷 : 네트워크 해킹/보안-chap5-1 Enumeration:Ping" }, 
     { "id": "tKZXxtOwzRs", "title": "W보안넷 : 네트워크 해킹/보안-chap2-7 네트워크 이해-응용계층" },
     { "id": "4UCCFKRR0QQ", "title": "W보안넷 : 네트워크 해킹/보안-chap2-6 네트워크 이해-Transport Layer" },
     { "id": "IXBq9XYWUq8", "title": "W보안넷 : 네트워크 해킹/보안-chap2-3 네트워크 이해-Network Layer" },

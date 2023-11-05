@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/X4brzU6oq2AQfFtVjZXoEQD4ZSibnyZS97846cL_OVte7l4MueLNNtl1fdSyDCXofgeRwrfNuA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gcLfBnNIPp8", "title": "Amazon EC2 실전 활용 팁 A to Z" }, 
+    { "id": "jbf60YINnx8", "title": "나에게 딱 맞는 AWS 컨테이너 서비스 선택 길라잡이" }, 
+    { "id": "RkB1OtJR1ag", "title": "천만 사용자를 위한 서버리스 기반 클라우드 아키텍처 구성하기" }, 
+    { "id": "LCqlNjprz7w", "title": "Amazon VPC 차근차근 시작하기" }, 
+    { "id": "bxXagzDj0W0", "title": "스타트업이 사랑하는 AWS 컨테이너 서비스" }, 
+    { "id": "IqD_8q0TaC0", "title": "비용 최적화를 통해 AWS 비용 알뜰하게 관리하기" }, 
+    { "id": "KwEWpDV2r2c", "title": "Amazon RDS로 클라우드에서 간편하게 데이터베이스 운영하기" }, 
+    { "id": "91G0JpuF6Sc", "title": "Serverless VS Server-based: 나에게 맞는 아키텍처 찾기" }, 
+    { "id": "4-kh3uIZP4U", "title": "클라우드의 시작: AWS 보안 지원 프로그램 알아보기" }, 
     { "id": "NIqn4SVAmxw", "title": "교보문고 Red Hat OpenShift Service on AWS (ROSA) 사례" },
     { "id": "qNSwLweGWb4", "title": "플로 AWS All-in 전략을 통해 음원서비스의 혁신을 이루다 :: AWS Summit Seoul 2023" },
     { "id": "u3XvG1xSa34", "title": "SK쉴더스: AWS Native Security 서비스를 활용한 경계보안 - 김형주 팀장, SK쉴더스 :: AWS Summit Seoul 2023" },
