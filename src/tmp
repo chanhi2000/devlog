@@ -151,9 +151,6 @@
 { "channelId": "nullistp4065", "channelName": "Null ISTP", "id": "QybOwzWJUxk", "title": "스프링 게시판 만들기 1. HOME [#부트스트랩 #JSP #oracle" },
 { "channelId": "ElectronicArmory", "channelName": "Electronic Armory", "id": "iPTSU-p-qOw", "title": "Android App From Scratch - Part 1 - Kotlin" },
 { "channelId": "cmiscm", "channelName": "Interactive Developer", "id": "TzNQs85fL1w", "title": "SUB) Portfolio Website to Get a Job in New York" },
-{ "channelId": "fereratlus8705", "channelName": "Ferer Atlus", "id": "OaSBEZgk_C0", "title": "Android Studio (Java) Insert and Eject SIM Card Detection Using Telephony Manager and Live Data" },
-{ "channelId": "fereratlus8705", "channelName": "Ferer Atlus", "id": "Ir9EoYJypk0", "title": "Android Studio (Kotlin) Simple Dagger Hilt Data Store MVVM" },
-{ "channelId": "fereratlus8705", "channelName": "Ferer Atlus", "id": "EMqlwjdNKcw", "title": "Android Studio (Kotlin) Simple Dagger Hilt Room Database MVVM" },
 { "channelId": "ScuappysDroneVideos1", "channelName": "Scuappy's Videos", "id": "hgE1ssVAVKI", "title": "[Tutorial] How to Install MacOS Big Sur onto a 2012 MacBook Pro" },
 { "channelId": "FireEyeKorea", "channelName": "FireEye Korea", "id": "-1MoRtr2U_g", "title": "Ryuk 랜섬웨어 활동과 UNC1878공격그룹" },
 { "channelId": "kristijankralj1", "channelName": "Kristijan Kralj", "id": "Y-ekJGd990Q", "title": "[EP 6] Build Onboarding Screen in SwiftUI in 12 Minutes - SwiftUI tutorial for beginners" },
@@ -163,13 +160,9 @@
 { "channelId": "highavailabilitydisasterre2273", "channelName": "High Availability Disaster Recovery Virtual Group", "id": "d5Rmu3fboiQ", "title": "2019.02.12 Inside Kubernetes   An Architectural Deep Dive with Anthony Nocentino" },
 { "channelId": "Bitfumes", "channelName": "Bitfumes", "id": "e-E0UB-YDRk", "title": "Vue 3 Tutorial - Full Course 10 Hours 10 apps" },
 { "channelId": "Bitfumes", "channelName": "Bitfumes", "id": "sgn5jRuZb6o", "title": "Vuejs 2.0 in just 60 min | Vuejs 2018 from scratch to pro" }
-{ "channelId": "TheoriTV", "channelName": "티오리티비 TheoriTV", "id": "XlPqUO_A4VM", "title": "Clop 랜섬웨어 악성코드 분석 (LIVE" },
-{ "channelId": "TheoriTV", "channelName": "티오리티비 TheoriTV", "id": "SLo8hPHlv6Q", "title": "What's on hackers desk? Hackers Desk Tour!" }
 { "channelId": "BrandonYen", "channelName": "Brandon Yen", "id": "khs7kEAELWc", "title": "macOS Big Sur Hackintosh Guide - No macOS Required! (Desktop Only" },
 { "channelId": "yagom", "channelName": "yagom", "id": "Aq6mSYmOzro", "title": "[아궁이 22-1] 악성코드의 종류" },
 { "channelId": "won2know", "channelName": "원노의 원투노", "id": "TmaXXpZI2qs", "title": "[클론코딩으로 배우는 레일즈] 7-0. 히스킨 클론코딩 9.5" },
-{ "channelId": "woosungjjangtv", "channelName": "우성짱TV", "id": "aDxUbxhp4fA", "title": "Keep Network의 ECDSA & Beacon nodes Vultr에 설치하기" },
-{ "channelId": "woosungjjangtv", "channelName": "우성짱TV", "id": "db44T7qFAdE", "title": "Keep Network의 ECDSA & Beacon nodes Digital Ocean에 설치하기" },
 { "channelId": "cybercdh", "channelName": "cybercdh", "id": "WRrzX7cGHaY", "title": "Unlocking Excel 4.0 Macro Malware" },
 { "channelId": "cybercdh", "channelName": "cybercdh", "id": "_XgVwoLkEI8", "title": "HTML Deobfuscation - Analysing HTML Guard Protected Code" }
 { "channelId": "cmiscm", "channelName": "Interactive Developer", "id": "LLfhY4eVwDY", "title": "Creative Coding Tutorial : Moving wave with JavaScript" },
@@ -239,8 +232,6 @@
 { "channelId": "theguystech2813", "channelName": "The Guys Tech", "id": "XRDvRRimBJI", "title": "What is a Server? | Why do I need one? | Small Business" },
 { "channelId": "tmwilliamlin168", "channelName": "William Lin", "id": "dZ_6MS14Mg4", "title": "Solving CSES Problemset [12 Hour Livestream] [150 coding problems]" },
 { "channelId": "EdjeElectronics", "channelName": "Edje Electronics", "id": "aimSGOAUI8Y", "title": "How To Run TensorFlow Lite on Raspberry Pi for Object Detection" },
-{ "channelId": "dbagenesis", "channelName": "DBA Genesis", "id": "cuiAGTjUtXg", "title": "Remote DBA Support Services | #dailyDBA 47" },
-{ "channelId": "dbagenesis", "channelName": "DBA Genesis", "id": "DzRCxzy7fF8", "title": "Slow Running Query Tips | #dailyDBA 27" }
 { "channelId": "noobtoprofessional", "channelName": "Chris Hawkes", "id": "QjgwaCoeGVM", "title": "This Is the Only Way to Truly Learn CSS" },
 { "channelId": "noobtoprofessional", "channelName": "Chris Hawkes", "id": "8I_rdnBLlgg", "title": "This Is How To Master CSS" }
 { "channelId": "xebiafunctional", "channelName": "Xebia Functional (formerly 47 Degrees)", "id": "geV8F59q48E", "title": "Basic optics: lenses, prisms, and traversals in Haskell" },
@@ -259,9 +250,6 @@
 { "channelId": "NearForm", "channelName": "NearForm", "id": "QyQ46hrVieg", "title": "NottsJS May: Node.js Worker Threads - James Snell" },
 { "channelId": "MissingSemester", "channelName": "Missing Semester", "id": "a6Q8Na575qc", "title": "Lecture 3: Editors (vim) (2020)" },
 { "channelId": "guru99com", "channelName": "Guru99", "id": "goaZTAzsLMk", "title": "Software Testing Tutorials for Beginners" },
-{ "channelId": "JamesOliver", "channelName": "James Oliver", "id": "C7CPXeEvKN0", "title": "Expert Level SQL Tutorial" },
-{ "channelId": "TheEasyoung", "channelName": "Minsuk Heo 허민석", "id": "3exMAKtSGBQ", "title": "[텐서플로2 딥러닝] CNN" },
-{ "channelId": "TheEasyoung", "channelName": "Minsuk Heo 허민석", "id": "ei_e7nHS6SE", "title": "[딥러닝] federated learning - 보안 걱정 없는 모바일 딥러닝 학습법 (연합 학습)" }
 { "channelId": "mlgym7474", "channelName": "ML Gym", "id": "xpwEYcmhtKs", "title": "Learn Intermediate SQL in 20 Mins" },
 { "channelId": "AddOhms", "channelName": "AddOhms", "id": "7C-bkFThrR4", "title": "Op-Amp Oops: Mistakes were made, let's talk about them." },
 { "channelId": "RobertBaruch", "channelName": "Robert Baruch", "id": "FMdYuGpPicw", "title": "Reverse engineering a simple CMOS chip" },
@@ -283,7 +271,6 @@
 { "channelId": "tomweiland", "channelName": "Tom Weiland", "id": "uh8XaC0Y5MA", "title": "Connecting Unity Clients to a Dedicated Server | C# Networking Tutorial - Part 1" },
 { "channelId": "iMAT", "channelName": "iMAT", "id": "zBs8PDSoNDU", "title": "Checkn1x - Jailbreak iOS 12/13/14 using Windows PC/Laptop!" },
 { "channelId": "Jousef", "channelName": "Jousef Murad", "id": "NlLy-u61yyk", "title": "Computational Fluid Dynamics (CFD) - A Beginner's Guide" },
-{ "channelId": "TheOrganicChemistryTutor", "channelName": "The Organic Chemistry Tutor", "id": "yfykYXdAUNY", "title": "Voltage Multipliers - Half Wave Voltage Doubler Circuit" },
 { "channelId": "stmicroelectronics", "channelName": "STMicroelectronics", "id": "svbT6e0T5_A", "title": "SensorTile.Box : Basic Mode" },
 { "channelId": "stmicroelectronics", "channelName": "STMicroelectronics", "id": "VfychivKdTs", "title": "TouchGFX 4.12 Release" },
 { "channelId": "stmicroelectronics", "channelName": "STMicroelectronics", "id": "DiFxu4gCtPI", "title": "ST25 NFC Type 5 augmented user experience" },
@@ -330,7 +317,9 @@
 { "channelId": "DevelopIntelligence", "channelName": "DevelopIntelligence", "id": "VOkgaq__Ff8", "title": "Apache Maven Fundamentals (part 1 of 4)" },
 { "channelId": "DatasetGuru", "channelName": "Dataset Guru", "id": "1pHYKdyRvrw", "title": "Full Data Analysis Portfolio Exercise (SQL, Excel, Tableau)" },
 
-// 2023-10-27
+// 2023-11-06
+
+
 
 
 
@@ -532,3 +521,6 @@ https://calculusmadeeasy.org
 https://kimchi-reader.app
 https://ertdfgcvb.xyz/?mode=screensaver
 https://d3s.mff.cuni.cz/teaching/nprg077
+https://ralphammer.com/immanuel-kant-what-can-we-know
+https://english.stackexchange.com/questions/338736/why-is-the-plural-form-of-house-not-hice
+https://gist.github.com/astamicu/eb351ce10451f1a51b71a1287d36880f

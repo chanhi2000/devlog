@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/P_2SlvEHY8VylI_j63FgIBK8EKvJryQ-08B9FQptF_SI09S6JKuVmV7MpeXlkxh9WNmsprO8_A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DFiXJKIF2ss", "title": "How to Set Up Go Development in Visual Studio Code on Windows 11 | VSCode Golang Development Basics" },
+    { "id": "-FBM8ZHVQ9I", "title": "How to Set Up Go Development in Visual Studio Code on Ubuntu 22.04 LTS | Install Golang on Ubuntu" },
     { "id": "aFwrNSfthxU", "title": "How to Install Ngrok on Windows 11 |  Expose your localhost to everyone | NGROK SETUP" },
     { "id": "7pGuwV4rwH0", "title": "Learn Socket Programming in Python | TCP and UDP sockets Client/Server Socket in Python" },
     { "id": "wD3VYrnVaEE", "title": "Kotlin Environment setup for Command Line | Kotlin Environment setup in Windows" },

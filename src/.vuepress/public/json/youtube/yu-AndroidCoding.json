@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/a92looIV5sUoS_FCngwlP2FjiShvFUyPcOU-Ez-op3D5klFGz5iBZzOxeRca5TUFw2nzN-6xFpI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5jiKFBG1Lnw", "title": "How to Retrive Image Url from Firebase in Android Studio | RetriveImageUrl | Android Coding" },
+    { "id": "ZsTJKz8k6_U", "title": "How to Upload Image To Firebase in Android Studio | FirebaseUpload | Android Coding" },
+    { "id": "w_T_jQx-DXY", "title": "How to Create Custom Switch Button in Android Studio | SwitchButton | Android Coding" },
     { "id": "4DD55wbjDYc", "title": "Reverse RecyclerView in Android | ReverseLayout | Android Coding" },
     { "id": "cV4uFfjuvmk", "title": "GetX SnackBar in Flutter | SnackBar | Flutter Coding" },
     { "id": "YBXIUudsapo", "title": "How to Implement Slider Widget in Flutter | SliderWidget | Android Coding" },

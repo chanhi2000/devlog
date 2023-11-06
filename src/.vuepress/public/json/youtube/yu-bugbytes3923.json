@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/sxzld_A3w-McPIbiDog31iFkqoNDtUsD22_flBamY4EGBq9N3gz8mYGBKS2HquFxzouWZJweBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "c0dqnwbiFnI", "title": "HTMX and the View Transitions API" },
+    { "id": "iFE6nhst2r8", "title": "Svelte, REST Framework and django-taggit - Dynamic Tag Filtering" },
     { "id": "_FL95nge_IU", "title": "Svelte & Django 4 - PUT and DELETE requests / Update Existing films / Delete Existing films" },
     { "id": "xBl-qiAFrzg", "title": "Django - select_for_update() function / Locking Database Rows" },
     { "id": "lUFWatT07xI", "title": "Svelte & Django CRUD App 1 - Svelte Introduction / Svelte Routing / Svelte Stores" },

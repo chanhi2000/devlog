@@ -989,5 +989,20 @@
     "desc": "A reimplementation of https://github.com/otiai10/gosseract without CGo, running Tesseract compiled to WASM with Wazero",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Kuingsmile/clash-core",
+    "desc": "backup of clash core",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Ieooo/clash",
+    "desc": "fork from clash",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "v2rayA/v2rayA",
+    "desc": "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",
+    "officialSite": "",
+    "topics": ["gfw", "gui", "juicity", "linux", "shadowsocks", "shadowsocksr", "ssr", "trojan", "tuic", "v2ray"]
   }
 ]

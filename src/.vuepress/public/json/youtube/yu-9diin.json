@@ -6,6 +6,52 @@
     "banner": "https://yt3.googleusercontent.com/WVJZAjZwxJ-225NMqrz8FBuZaDZPOa0jYbF_HXVTcC9SKykGdAVgP1uCOKCL01xELI5uifT3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "3NVYCyKyu6g", "title": "Vue3 TypeScript Tutorial - 7. 퍼블리싱 1️⃣" }
+    
+  ],
+  "playlists": [
+    {
+      "title": "엉망진창 Vue.js", 
+      "videos": [
+        { "id": "fa7ejh_QBYk", "title": "Vue3 TypeScript Tutorial - 10. 더미데이터를 활용한 동적 컴포넌트 만들기 2️⃣" },
+        { "id": "4tphFzqETJQ", "title": "Vue3 TypeScript Tutorial - 9. 더미데이터를 활용한 동적 컴포넌트 만들기 1️⃣" },
+        { "id": "c2oF6oArEiM", "title": "Vue3 TypeScript Tutorial - 8. 퍼블리싱 2️⃣" },
+        { "id": "3NVYCyKyu6g", "title": "Vue3 TypeScript Tutorial - 7. 퍼블리싱 1️⃣" },
+        { "id": "JBCL6bxJYxM", "title": "Vue3 TypeScript Tutorial - 6. Component 동적관리" },
+        { "id": "pZTeBpC8868", "title": "Vue3 TypeScript Tutorial - 5. Composition API에서의 Props 활용" },
+        { "id": "H__UkZfLmrc", "title": "Vue3 TypeScript Tutorial - 4. 레이아웃 구조 잡기" },
+        { "id": "sIDFkCe-WUQ", "title": "Vue3 TypeScript Tutorial - 3. 개발환경 세팅 Full 버전" },
+        { "id": "kfD6lbnAsqQ", "title": "Vue3 TypeScript Tutorial- 2. 타입스크립트로 Vue Router 및 Alias 설정" },
+        { "id": "s2bV-JZ95Mk", "title": "Vue3 TypeScript Tutorial - 1. 개발환경설정" },
+        { "id": "lxQglT0fbno", "title": "Vue.js로 CRUD 기능 구현하기 - Prop 데이터를 통한 버튼 컴포넌트" },
+        { "id": "9gtmf7kHtos", "title": "Vue.js로 CRUD 기능 구현하기 - Git 브랜치 형상관리 방법" },
+        { "id": "jzDTHaE-dOg", "title": "Vue.js로 CRUD 기능 구현하기 - Element UI 및 Vue-Router 설치" },
+        { "id": "Kj28UjrPzrQ", "title": "Vue.js로 CRUD 기능 구현하기 - 프로젝트 환경설정" },
+        { "id": "wv1xZ-ZSj5w", "title": "Vue.js로 CRUD 기능 구현하기  - 프롤로그" },
+        { "id": "YfOGfSd31A0", "title": "Vue3 Full Course - 날씨 웹 만들기 (feat. Vuex)" },
+        { "id": "NLX7IuMFvEU", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 완성 및 마무리" },
+        { "id": "2Fbksm0fEy8", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 카카오맵 api 데이터 Vuex Store에 저장하기" },
+        { "id": "L-PQjSXQajs", "title": "엉망진창 Vue.js 날씨 웹 만들기 - Vuex Store3️⃣" },
+        { "id": "dO3DSI7bP70", "title": "엉망진창 Vue.js 날씨 웹 만들기 - Vuex Store2️⃣" },
+        { "id": "S4sVuL5ORAQ", "title": "엉망진창 Vue.js 날씨 웹 만들기 - Vuex Store1️⃣" },
+        { "id": "A3vmGPdXlyA", "title": "Vuex란 무엇인가?" },
+        { "id": "Lfzqti39GGI", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 자바스크립트 배열 반복문(for-of)" },
+        { "id": "xmpeM4mQWOM", "title": "엉망진창 Vue.js 날씨 웹 만들기 - Composition API 리팩토링2️⃣" },
+        { "id": "zweJDAlYWAM", "title": "엉망진창 Vue.js 날씨 웹 만들기 - Composition API 리팩토링1️⃣" },
+        { "id": "XwMBu6yrlUo", "title": "엉망진창 Vue.js 날씨 웹 만들기 - Composition API란 무엇인가?" },
+        { "id": "Ggnw0cXmyg0", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 날씨 API 데이터바인딩" },
+        { "id": "p6ZwjWxdhj8", "title": "엉망진창 Vue.js 날씨 웹 만들기 - dayjs 플러그인 &amp; api 사용하기" },
+        { "id": "2ztsceD9fNA", "title": "엉망진창 Vue.js 날씨 웹 만들기 - axios로 http 통신하기" },
+        { "id": "EiO9p5ZG_iA", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 카카오맵 api 사용하기" },
+        { "id": "sfw-3h9UudU", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 퍼블리싱4️⃣" },
+        { "id": "KhmyS9WBlOM", "title": "2022 Vue.js 개발가이드 - 下" },
+        { "id": "IQ7EuH3mRck", "title": "2022 Vue.js 개발가이드 - 上" },
+        { "id": "kwMUCHyIwz0", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 퍼블리싱3️⃣" },
+        { "id": "TpllRQw4Z88", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 퍼블리싱2️⃣" },
+        { "id": "PhSF00HKpj0", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 퍼블리싱1️⃣" },
+        { "id": "cSH97mtk7MU", "title": "엉망진창 Vue.js 날씨 웹 만들기 - Vue Router 설정" },
+        { "id": "SAqyt8U3_Fs", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 프로젝트 환경설정" },
+        { "id": "rF0TesQRtAM", "title": "엉망진창 Vue.js 날씨 웹 만들기 - 프롤로그" }
+      ]
+    }    
   ]
 }

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/y7dd6gwWCGHhLAZtBRYETqk0Rn9u24vWkBMtwOJH7l4ayVupWul1tI8ajVmlEUw8uNHYqZc0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "p4rraRyUHT8", "title": "Create a Weather Application using React JS - Bootstrap and Fetch API | Consume API Data in React JS" },
     { "id": "y97U9Ikd7TI", "title": "Create TODO List Application using React JS and Bootstrap | Read and Store Data in the LocalStorage" },
     { "id": "VbWRjZb6i6Y", "title": "Send Emails using Brevo / SendinBlue in ASP.NET Core Web Application and Web API | .NET 7 and C#" },
     { "id": "4jP3TCWubMo", "title": "How to use Forms in React JS | Controlled and Uncontrolled Forms in React JS | Read and Clear Forms" },

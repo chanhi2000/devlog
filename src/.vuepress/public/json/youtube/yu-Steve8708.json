@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-zKnSjYoylZNCnoY26ROf9HRY1Z-p6-igAm_z6lC0-YSF9r5MZ1ZFJi7M1dyF4XOZENGZUrb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gWw-DsSZVrQ", "title": "Make an Animated Menu like Stripe with React, Tailwind, and AI" },
     { "id": "dwoqFo-6T8I", "title": "Top tier debugging as a senior developer" },
     { "id": "BnniZ3crmcs", "title": "the ai is learning how to REALLY program..." }, 
     { "id": "sGdW4Amolq4", "title": "A cure for React useState hell" }, 
@@ -14,6 +15,5 @@
     { "id": "XK0V0E3bA-M", "title": "Deep cloning objects in JavaScript with structuredClone" }, 
     { "id": "Wxlhtubs2FU", "title": "AI + VS Code = 🤯" }, 
     { "id": "nTqDhv447GA", "title": "Introducing AI Shell: convert natural language to shell commands" }
- 
   ]
 }

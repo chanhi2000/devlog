@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "totally-vy3xb",
+    "name": "TOTALLY 개발자",
+    "profile": "https://yt3.googleusercontent.com/lcg3a2PddncT-OHSSxhcL5NL5FI2-iHr-2v9hQw93gK_kwUKSuLsnOEVqzGFgOCv68uUgx2_3Fs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "wrwyFnOvv4Q", "title": "플러터(Flutter) 앱 개발 - 핵심 강좌 14강 (그라데이션 적용하기)" },
+    { "id": "O63NurH5p0Q", "title": "플러터(Flutter) 앱 개발 - 핵심 강좌 4강 (`GestureDetector` 사용하여 터치 감지하기)" },
+    { "id": "luWTQ1tKIHc", "title": "플러터(Flutter) 쇼핑몰 앱 개발 6강 - 제품 결제시작 페이지 UI 구성 3" }
+  ]
+}

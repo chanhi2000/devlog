@@ -79,3 +79,11 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-Confreaks" /><!-- Confreaks -->
 <MyYouTubeItems jsonName="yu-lgsw" /><!-- Software in LG -->
 <MyYouTubeItems jsonName="yu-HackerOneTV" /><!-- HackerOne -->
+<MyYouTubeItems jsonName="yu-coupangreveal1172" /><!-- CoupangReveal -->
+<MyYouTubeItems jsonName="yu-gdgsongdo1690" /><!-- GDGSongDo -->
+<MyYouTubeItems jsonName="yu-conf42" /><!-- Conf42 -->
+<MyYouTubeItems jsonName="yu-LeadDev" /><!-- LeadDev -->
+
+---
+
+<TagLinks />

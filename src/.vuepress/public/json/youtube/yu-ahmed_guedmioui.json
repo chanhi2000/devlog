@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "ahmed_guedmioui",
+    "name": "Ahmed Guedmioui",
+    "profile": "https://yt3.googleusercontent.com/xRf8eC2fGyxJAITehFe8kYNABF7rIx3-FpdAvmk2nGFam2zY0iyJwF87AhL8ygjrc3IJBgyLxg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OdDTHsDJB9M4buzLDb5NgTzEAEsUbqXhXX0BkGzSEETxOAJ3eH2d4SECrJ8ZNjcUxLbIKlLdwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FrLPcAvmJCA", "title": "Material 3: How To Support Dynamic Colors And Themed lcon" },
+    { "id": "Aey3_l-nyV0", "title": "Protect Your API Keys From Attackers In Android Studio" },
+    { "id": "sfjl2hJaAlk", "title": "Pick Photos And Videos From User's Device - Part 2" },
+    { "id": "bhlQq5s0WHw", "title": "How To Create Stars Rating Bar In Jetpack Compose" }
+  ]
+}

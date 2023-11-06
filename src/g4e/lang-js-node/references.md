@@ -15,34 +15,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ## Education
 
-- [Patterns](https://www.patterns.dev/resources)
-  - [React Server Components](https://www.patterns.dev/posts/react-server-components)
 - [140 DevTools Tips](https://devtoolstips.org)
 - [The Programming Expert](https://theprogrammingexpert.com)
 - [My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
-- [React Tutorial](https://react-tutorial.app)
-- [React Training](https://courses.reacttraining.com)
-- [React by ui.dev](https://ui.dev/react)
-  - [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
-- [Learn React for free](https://scrimba.com/learn/learnreact)
-- [React for Beginners](https://reactforbeginners.com)
-- [Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5)
-- [Epic React](https://epicreact.dev)
-- [React, visualized](https://react.gg/visualized)
-- [React Security](https://courses.reactsecurity.io)
 - [Kati Frantz's courses](https://katifrantz.com)
-- [Building Web Applications with React](https://www.pluralsight.com/paths/building-web-applications-with-react)
-- [React from Zero](https://www.newline.co/react-from-zero)
-- [React JS Notes for Professionals by Goal Kicker](https://goalkicker.com/ReactJSBook)
-- [The React Handbook by FavioCopes](https://reacthandbook.com)
-- [The Road to React by Robin Wieruch](https://roadtoreact.com)
-- [Pure React by Dave Ceddia](https://daveceddia.com/pure-react)
-- [React Explained by Zac Gordon](https://www.ostraining.com/books/react)
 - [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev)
 - [Favorite JavaScript utilities in single line of code! No more!](https://1loc.dev)
-- [useHooks - A collection of Server Component safe React Hooks – from the ui.dev team](https://usehooks.com)
-- [React30](https://react30.com)
-- [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 - [Structure and Interpretation of Computer Programs — JavaScript Edition](https://sourceacademy.org/sicpjs/index)
 - [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide)
 - [Deno by example](https://examples.deno.land)
@@ -96,12 +74,6 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
-## traversymedia
-
-- [MERN Crash Course (Part 2) - React Frontend UI, State Management With Redux Toolkit](https://www.traversymedia.com/blog/mern-crash-course-part-2)
-
----
-
 ## CSS Tricks
 
 - [How to Fetch and Parse RSS Feeds in JavaScript](https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript)
@@ -120,27 +92,9 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
-## ReactJS Official
-
-- [main](https://reactjs.org/blog/all.htmls)
-
----
-
-## Scotch.io
-
-- [about React](https://scotch.io/tag/react)
-
----
-
 ## Alligator.io
 
 - [main](https://alligator.io)
-
----
-
-## Smashing Magazine
-
-- [about React](https://www.smashingmagazine.com/category/react)
 
 ---
 

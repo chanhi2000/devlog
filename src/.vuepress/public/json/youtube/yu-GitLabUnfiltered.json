@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KAzpBWLA8c0", "title": "GitLab Flow in Aktion: Wie man einen ChatBot mit GitLab - der DevSecOps Platform entwickelt" },
+    { "id": "WMWoi6for1M", "title": "Git Basics - GitLab Webinar" },
     { "id": "a1ny57Wvkf8", "title": "Integrating 3rd Party Security Scanners with GitLab" },
     { "id": "9VTGW1pCTC8", "title": "Advanced CI/CD - GitLab Webinar" },
     { "id": "Re1pwIEsSio", "title": "Local development & debugging of VS Code Extension + Language Server" },

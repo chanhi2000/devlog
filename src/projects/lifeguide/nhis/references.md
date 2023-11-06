@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🧭Lifeguide > ❤NHIS > 📚References
+title: ❤📚References
+description: 🧭Lifeguide > ❤📚References
 tags: ["nhis", "lifeguide"]
 ---
 

@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "ssap-dba",
+    "name": "쌉DBA",
+    "profile": "https://yt3.googleusercontent.com/TqopPxsZhuqAhJ6T_w6klB-TV65DRllDcNzakR81Z92PRfxa0nE0ZNf8TOEHIUX24UcUVfbJuQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-YGdX6fT3R2paQngKFyRe0VX74f24_JQG-MtHXxPVqAKzKyP7554ARzUpnnvL9aIOv9aap3z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yQLYpB7p3hA", "title": "VirtualBox 에 Oracle Linux 8.7 설치, 외부에서 게스트서버 접속" },
+    { "id": "nEdHN4UXsyM", "title": "CTF, TAF, TAC 비교 차이점 설명" }
+  ],
+  "playlists": [
+    {
+      "title": "초보 DBA 를 위한 이것저것",
+      "videos": [
+        { "id": "79cfNIPu0e4", "title" :"초보 DBA 들을 위한 Oracle DB서버 메모리, 프로세서 구조 설명" },
+        { "id": "MdGhppGpJLY", "title" :"초보 DBA를 위한 Tablespace 공간확장 및 전반에 대한 이해" },
+        { "id": "peiK8sQ5Mjk", "title" :"초보 DBA를 위한 세그먼트와 오브젝트 설명" },
+        { "id": "revEL6hfxAI", "title" :"초보 DBA를 위한 파싱 Parsing, 실행계획 Execution Plan" },
+        { "id": "XMA7IGODoak", "title" :"초보 DBA를 위한 병렬처리 Parallel Processing 설명" },
+        { "id": "2l-LRUh-mNk", "title" :"초보 DBA를 위한 Undo, Redolog, Archive log 설명" },
+        { "id": "EtapBX6XA34", "title" :"초보 DBA를 위한 Optimizer 와 힌트Hint" },
+        { "id": "Xkkd27own_s", "title" :"SQL Developer 를 활용한 long, clob, blob, securefile 타입 조작" },
+        { "id": "0vNScuW1z_o", "title" :"초보 DBA를 위한 멀티테넌트(Multi tenant) 개념 설명" },
+        { "id": "pIjSR_Dbimk", "title" :"ADG vs CDC vs ETL 차이점, 개념 설명" },
+        { "id": "F-ImeE2VVSA", "title" :"초보 DBA를 위한 시퀀스(Sequence) 설명" },
+        { "id": "B_CWqOXz0wc", "title" :"초보 DBA를 위한 디렉토리(Directory) 개념" },
+        { "id": "qSY0tFyBdjw", "title" :"Direct Path Read,Write vs Conventional Path 비교 설명" },
+        { "id": "KhsIth_WZAU", "title" :"대용량 테이블 작업시 Nologging vs Unrecoverable" },
+        { "id": "f0XRVu5lwLo", "title" :"초보 Oracle 개발자를 위한 SQL 기초 실습 (무료 실습도구 Live SQL 이용)" },
+        { "id": "8e5xLrpkQec", "title" :"초보 DBA를 위한 Block, Extent, PCTFREE, PCTUSED 개념" },
+        { "id": "USc14nfUZHo", "title" :"RAC 주요커맨드 crsctl, srvctl 사용법" },
+        { "id": "WRvcxIdVK7M", "title" :"오라클 자바 JDBC 프로그램 실습 #1 (초간단 심플 버전)" },
+        { "id": "W5_RzlPVy58", "title" :"스키마, 권한, 롤, DB Link 설명" }
+      ]
+    }, {
+      "title": "백업/복구 강좌",
+      "videos": [
+        { "id": "1UhRmoTqSfE", "title": "DB 백업, 복구 유틸리티 RMAN 에 대한 개괄적인 설명" },
+        { "id": "FSCCTQwJZ2Q", "title": "RMAN 불완전 복구 (과거 특정 시점으로의 복구) 실습" },
+        { "id": "-qRp6PpdtQs", "title": "Noarchive 모드 DB 에서 RMAN 백업 및 복구 실습" },
+        { "id": "Qbt3jRPYzXM", "title": "RMAN Tablespace 단위 복구 실습 (헉;; 우째 되는게 하나도 없누^^)" },
+        { "id": "UhgUzFlgZXs", "title": "멀티테넌트 PDB RMAN 백업,복구 실습" }
+      ]
+    }
+  ]
+}

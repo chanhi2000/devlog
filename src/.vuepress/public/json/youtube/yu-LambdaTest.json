@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LpxYpLVFuMQSpcovfkIIrBEh59vIUJTyez5FIqtOreKXY7gbnNee5NH2MvQzKGM3t69SaXbQKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0mkUc57rXtc", "title": "LambdaTest-Axosoft Integration | Streamline Bug Tracking and Management  | LambdaTest Integrations🔗" },
+    { "id": "4bmsrm4f7t4", "title": "Playwright Java Tutorial 🎭 | Running Playwright Tests using Jenkins | Part XIII | LambdaTest" },
+    { "id": "WGspIU6nB84", "title": "WebdriverIO Tutorial | How To Use Locators For WebElement Interactions | Part 2 | LambdaTest" },
     { "id": "38Y_4P_hcuI", "title": "Playwright Java Tutorial 🎭 | How to run tests on cloud | Part XII | LambdaTest" },
     { "id": "dfAqzURQwJk", "title": "Contributing to Appium's Open Source Ecosystem-Contributing to Appium's Open Source Ecosyste" },
     { "id": "0yt6v05Qwwg", "title": "How to Perform Unit Testing in Selenium Java | Selenium 4 Tutorial With Java | LambdaTest" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "traap.",
+    "name": "Traap",
+    "profile": "https://yt3.googleusercontent.com/UKqtzKf1yB2uJGKYrkeltu5p3H7CdzM2EKj5o7KeCxVJlSSkW4Ym4stVS5JntPHffK6blyqE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "xpBoiTIiepc", "title": "Barebones LazyVim" }
+  ]
+}

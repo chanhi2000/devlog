@@ -30,5 +30,6 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 <MyYouTubeItems jsonName="yu-ryan_phdsec" /><!-- PhD Security -->
 <MyYouTubeItems jsonName="yu-juhyun167" /><!-- Juhyun Song -->
 <MyYouTubeItems jsonName="yu-SecurityFWD" /><!-- SecurityFWD -->
+<MyYouTubeItems jsonName="yu-wboan" /><!-- W보안넷 : 정보보안 -->
 
 <TagLinks />

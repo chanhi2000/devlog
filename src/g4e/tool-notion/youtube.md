@@ -23,6 +23,7 @@ tags:
 <MyYouTubeItems jsonName="yu-mfreihaendig" /><!-- Matthias Frank -->
 <MyYouTubeItems jsonName="yu-wawa_geul" /><!-- 와와글 -->
 <MyYouTubeItems jsonName="yu-0won" /><!-- 노션 연구소 -->
-<FontIcon icon="iconfont icon-yegrina._."/><!-- 예그리나 -->
+<MyYouTubeItems jsonName="yu-yegrina._." /><!-- 예그리나 -->
+<MyYouTubeItems jsonName="yu-sirealco" /><!-- 시리얼 Sireal -->
 
 <TagLinks />

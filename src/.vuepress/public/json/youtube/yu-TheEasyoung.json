@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "TheEasyoung",
+    "name": "Minsuk Heo 허민석",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ7h1Nts_m7a5bJv5EMcneNPRm7VhxwPmy5TbvTmw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UX0FWFSF9cm7SuzIC3eW3rjLj6P-U_u8P2vr81QfgLNtoOkuVpjg4O8M89-GSVSrT4T8AgyP-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3exMAKtSGBQ", "title": "[텐서플로2 딥러닝] CNN" },
+    { "id": "ei_e7nHS6SE", "title": "[딥러닝] federated learning - 보안 걱정 없는 모바일 딥러닝 학습법 (연합 학습)" }
+  ]
+}

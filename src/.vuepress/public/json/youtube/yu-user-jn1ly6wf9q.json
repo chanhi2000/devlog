@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "CDRLIh1nXBw", "title": "Webjjang Oracle ver.2023.10 04-06 시퀀스 없이 MAX 함수로 게시판 글번호 운영(웹짱과 함께하는 오라클)" },
+    { "id": "kyMnnZaBWsQ", "title": "Webjjang JAVA ver.2023.10 07-04 JDBC - 게시판 리스트 02(웹짱과 함께하는 자바)" },
+    { "id": "F5GIykoaWlk", "title": "Webjjang JAVA ver.2023.10 07-03 JDBC - 게시판 리스트 01(웹짱과 함께하는 자바)" },
+    { "id": "D0F1dmTWZc4", "title": "Webjjang JAVA ver.2023.10 07-05 JDBC - 게시판 글보기(웹짱과 함께하는 자바)" },
+    { "id": "IQnBqqdNxGQ", "title": "Webjjang JAVA ver.2023.10 07-01 프로젝트 만들고 라이브러리 인식시키기 그리고 DB 연결 01(웹짱과 함께하는 자바)" },
+    { "id": "oCKhvYhQg_E", "title": "Webjjang JAVA ver.2023.10 07-02 JDBC - DB 연결 02(웹짱과 함께하는 자바)" },
     { "id": "uOpExfPoJFk", "title": "Webjjang Oracle ver.2023.10 01-03 생성된 계정으로 접속하고 확인하기(웹짱과 함께하는 오라클)" },
     { "id": "co4nohOqBXg", "title": "Webjjang JAVA ver.2023.10 01-03 자바 메모장 개발(웹짱과 함께하는 자바)" },
     { "id": "DOleWHzyqKo", "title": "Webjjang JAVA ver.2023.10 01-02 자바 환경 설정(웹짱과 함께하는 자바)" },

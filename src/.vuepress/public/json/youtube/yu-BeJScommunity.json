@@ -6,6 +6,30 @@
     "banner": "https://yt3.googleusercontent.com/oZpCRmevoBoJAnNhJojMnVYnyaj1ZPFfee7798IEwSzOTlbMqnzncmI_PKLdtXPkvxztV_RxtQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bGzanfKVFeU", "title": "Goodbye, useEffect - David Khourshid" },
     { "id": "Dekv3CBy_b0", "title": "Be Qwik don't ship javascript - Antoine Pairet" }
+  ],
+  "playlists": [
+    {
+      "title": "React Brussels 2023",
+      "videos": [
+        { "id": "a1FXE7-UD7k", "title": "The Mystery of React Renders - Aashima Ahuja" },
+        { "id": "Tjg1JtANM6E", "title": "Dissecting Reactivity  Signals Vs vDOM - Atila Fassina" },
+        { "id": "TBxipPwGvHY", "title": "A Nerdy Guide To The Web Trending Concepts - Daniel Afonso" },
+        { "id": "90LTLe1ZhMg", "title": "Figma To React with AI, Are We There Yet? - Federico Terzi" },
+        { "id": "N48RXySvMxw", "title": "Slashing Performance Bottlenecks and Poor User Experience - Henri Helvetica" },
+        { "id": "z6Y_xbGkVGk", "title": "React Inline Visual Editing  Now’s The Time - Matteo Frana" },
+        { "id": "xhC2E9-2rVM", "title": "Generative Design Systems With React - Nat Alison" },
+        { "id": "3bOlbBdBdCU", "title": "Panel Discussion - Documentation   Why , When, How, and React?" },
+        { "id": "Bw5IV76oOmQ", "title": "AI Powered Web Apps  Learn To Utilize OpenAPI And LangChain To Create Your First AI - Shruti Kapoor" },
+        { "id": "_qfbYB6Hdgg", "title": "Let’s Make A Framework - Tejas Kumar" },
+        { "id": "z2q1Hs_Ok24", "title": "TypeScript Patterns For Better React Components - Glenn Reyes" },
+        { "id": "MOxKoBo_zRU", "title": "Are They Really Using It? Monitoring Digital Experience To Determine Feature Effect - Carly Richmond" },
+        { "id": "hruA58m1TKI", "title": "React Component Profiling - Wouter Van Schandevijl" },
+        { "id": "SjOf_prx1bU", "title": "How Fast Refresh Works In Vite - Arnaud Barré" },
+        { "id": "ksBSvLSiCkg", "title": "An Engineering Leadership Roadmap - Ankita Kulkarni" },
+        { "id": "wMPeobGJAkE", "title": "Remix: Embracing Web Standards To Redefine Modern Web Development - Alexandra Spalato" }
+      ]
+    }    
   ]
 }

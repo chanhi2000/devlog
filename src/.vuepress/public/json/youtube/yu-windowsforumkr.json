@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/f8tL36K51Er0YJuXNUK-T-cMv6xSaCK1JrNFHny2iaX6N8ef-NdnniKFpJpsviXWZfZ2LMEE0g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FO0T9FlG9Ws", "title": "나만의 복원 솔루션 만들기 Clonezilla (UEFI)" },
+    { "id": "7uhJzoRZBIA", "title": "HEVC 코덱 무료 설치 하기" },
+    { "id": "fGJ8Bqm1_Zs", "title": "배치파일로 장치 드라이버 백업 복구하기" },
     { "id": "EfTO90UmhG8", "title": "외장 디스크로 접근시 엑세스 할수 없을때 해결 방법" },
     { "id": "0i-96EZMxMQ", "title": "배치파일을 이용해서 윈도우 자동 설치하기 #2 ( UEFI )" },
     { "id": "jSpN3X2J2NA", "title": "윈도우 설치 디스크로 자동 설치하기 #2" }

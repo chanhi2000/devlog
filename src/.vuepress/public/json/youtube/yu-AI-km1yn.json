@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AI-km1yn",
+    "name": "모두의AI",
+    "profile": "https://yt3.googleusercontent.com/cXq2jXUM8GC7T0yc9T-5ycbPJsq8Dgp0w1m_IYJm_pBs0yiQLy-JbYGydKFVlIgwD9EncW1bCQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "tIU2tw3PMUE", "title": "LLM 챗봇 ,랭체인의 핵심 Retrieval - Document Loaders" }
+  ]
+}

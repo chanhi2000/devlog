@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/fDODmaSe2SU9pDSsrQfoH2BMOYt4OLvYWdhVXC0vHT6rzwdhKoi0nYGMHIKQGIBVxnYnBgjIlA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZTOOlwoX9A8", "title": "[#35] dt: Duct Tape for Unix Pipes" },
     { "id": "l_qY2p0OH9A", "title": "[#32] Ghostty: A New Terminal Emulator Written in Zig - Mitchell Hashimoto" }
   ]
 }

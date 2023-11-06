@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "user-tu5nq1er9t",
+    "name": "구멍가게 코딩단",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZBqay-kv8eir4oqcG2fuQehTmIzYW7AQaMrg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "PLbSfEkrpB8", "title": "스프링부트 bootJar 만들기" },
+    { "id": "rM0eIUDIVi4", "title": "Todo리액트_API서버 연동(6) - 조회이동 등록처리" },
+    { "id": "i5PMnRaeLP0", "title": "Todo리액트_API서버 연동(7) - 모달창 만들" },
+    { "id": "QmxmSc23Pwo", "title": "Todo리액트_API서버 연동(8) - 수정삭제처리" },
+    { "id": "7CKKRDI3QCQ", "title": "부트_상품API서버만들기(2)_썸네일이미지만들기" },
+    { "id": "VkScZbxoX5c", "title": "부트_상품API서버만들기(1)_파일업로드처리" },
+    { "id": "f_AkpaChwOg", "title": "부트_상품API서버만들기(3)_업로드조회/삭제" },
+    { "id": "zetfoe8KHCA", "title": "부트_상품API서버만들기(4)_상품엔티티처리" }
+  ]
+}

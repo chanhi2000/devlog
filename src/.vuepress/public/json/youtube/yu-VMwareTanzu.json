@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1zdwK74vf40", "title": "Create Kubernetes Clusters Using Terraform and VMware Tanzu to Enable Continuous Delivery" },
+    { "id": "KrQe8POEWWM", "title": "How to Manage, Unmanage, and Move Clusters Between Cluster Groups" },
     { "id": "bBk0Z5tAV1w", "title": "EMA Cloud Rants: Kubernetes Distributions" },
     { "id": "yUKUwjKEn94", "title": "8. Private AI & Big Data: AI 비지니스를 위한 Data Science와 Gen AI 데모" },
     { "id": "PMkCf8_KbP0", "title": "2. Private AI & Big Data: 기업의 Private AI 구축을 위한 Reference Architecture Model" },

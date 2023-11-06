@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/8e4JeFEut_R5CHrGHePLnqd444tc4T7kQV6SZ-JkR71ZZRLW1JjWmjyD9QRkOF8E_i9GgyanWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "78IMA8xEBHA", "title": "Create your own Docker Extension" },
+    { "id": "yPuhGtJT55o", "title": "Introducing Docker’s Generative AI and Machine Learning Stack (DockerCon 2023)" },
+    { "id": "-c0-cS0KGsU", "title": "How to Accelerate Secure App Development with Docker" },
+    { "id": "KX0HEszru2c", "title": "What’s in My Container? Docker Scout CLI and CI to the Rescue" },
+    { "id": "4iJ7yw-Oe4I", "title": "Docker Scout: Securing The Complete Software Supply Chain" },
+    { "id": "TrLlpBDiOfw", "title": "Cut Through Vulnerability Noise with Runtime Insights (DockerCon 2023)" },
+    { "id": "PJpIXXdJMl8", "title": "Demystify Secure Software Supply Chain Metadata (DockerCon 2023)" },
     { "id": "Za3KOfPFgqQ", "title": "Navan: Computer Vision AI" },
     { "id": "7eCqwk17nwc", "title": "Building a Petabyte-Scale Vector Store: Powering Future AGI" },
     { "id": "OGcm3rHg630", "title": "WebAssembly and Containers" }, 

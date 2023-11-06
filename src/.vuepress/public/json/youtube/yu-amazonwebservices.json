@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ufx8sO5s4BI", "title": "AWS Network Firewall Suricata HOME_NET variable override | Amazon Web Services" },
+    { "id": "dEpjAJ8O1Sc", "title": "Using AWS IAM action last accessed information | Amazon Web Services" },
+    { "id": "6A3HfcPuo0o", "title": "Indices en DynamoDB: Escogiendo entre GSI y LSI - Amazon DynamoDB Nuggets | Amazon Web Services" },
+    { "id": "Kch-rwEcGYs", "title": "AWS WAF text transformations | Amazon Web Services" },
+    { "id": "IMDQnJnIS1o", "title": "Set up Multi-Cluster Cost Analysis for Amazon EKS | Amazon Web Services" },
     { "id": "5KWWMMAPug0", "title": "EC2 인스턴스에 액세스하려고 하면 &quot;권한 거부 (publickey)&quot; 또는 &quot;인증 실패, 권한 거부&quot; 오류가 발생합니다. 이 문제를 해결하려면 어떻게 해야 합니까?" },
     { "id": "7XRinQLaKDY", "title": "Scaling AWS Verified Access With AWS Resource Access Manager | Amazon Web Services" },
     { "id": "sWaeDfhFhHM", "title": "Using S3 for Veeam SOBR | Amazon Web Services" },

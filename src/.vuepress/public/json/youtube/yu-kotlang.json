@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/13O07KG2UFJC3a5yol27ELNSNz8ddY88-_zeIid6ng2OR8emyDI9tfENIeDWoq_Pnur5W-BmIg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "m6ojXjM08AQ", "title": "StudySmart Android App || #0 Intro || Jetpack Compose || Room || Kotlin" },
     { "id": "L1J2NhGU1ak", "title": "LazyColumn | LazyRow | Jetpack Compose Layouts | Android Development | Kotlin" },
     { "id": "NAlYVFj6SNI", "title": "LazyVerticalGrid | LazyHorizontalGrid | Jetpack Compose Layouts | Android Development | Kotlin" },
     { "id": "43tK1RNSSSw", "title": "LazyStaggeredGrid | Jetpack Compose Layouts | Android Development | Kotlin" }

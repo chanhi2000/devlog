@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/J5e5qfkjWA4X4twhztXSEz_psr2v21zyfJnuKFK_YJNO25o6f3oPjgBDG_SLyJuD0vkPT6mSwg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aniHoyeYb3M", "title": "안 보면 후회할 BeautifulSoup 클래스 정확하게 select 하는 방법" },
     { "id": "FsVwtilhmyg", "title": "크롤링 할 때 차단당하지 않는 비법 총정리" },
     { "id": "ZVHdQyoUJ8w", "title": "openai api function calling 사용법 json 형식으로 응답받기" }
   ]

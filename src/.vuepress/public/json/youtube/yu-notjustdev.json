@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pN6fnKn1emQ", "title": "Building a Video Calling Application with Stream: Full Tutorial" },
+    { "id": "qRSB0aPcf_s", "title": "AWS EKS 101: Deploying Kubernetes to AWS Cloud" },
     { "id": "a5l97pLyfRU", "title": "Building a Facetime Clone with Stream: Step-by-Step Guide" },
     { "id": "dZbVOQhf2Xk", "title": "Building a React Native app to find the CHEAPEST flights!" },
     { "id": "MhuWZVF3Ifs", "title": "Building the Netflix AI Recommendation System with Supabase" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/gzYqW5hmeAoMcpSeBBOqcWUPa8r0Qe-kaHr17UVUmfEaibEzEZrrJuHk10sHB4IiIIm-G-dgLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vCT5rFrERaI", "title": "Training YOLOv8 with KerasCV on Custom Traffic Light Dataset: Object Detection Mastery" },
     { "id": "tzyNRR9bJV8", "title": "Convert Video Lectures to Slides with OpenCV: Frame Differencing & Background Estimation Explained" },
     { "id": "ZxA5qAy2yoI", "title": "Install OpenCV on Windows in 2 minutes (C++)" }
   ]

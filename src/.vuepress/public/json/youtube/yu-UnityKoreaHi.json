@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "UnityKoreaHi",
+    "name": "Unity Korea",
+    "profile": "https://yt3.googleusercontent.com/OH1KrHL1dxcVYFJiCW9Q7TgK46xXLClwOLl4g0zf0Pwr-YDGb656jypR2Nvw_6Gy-qkoqcISSw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wE9-qO86A382BETntfXiELEp_3Z9SiguLKgSwzEgGhWhrBVabY6-MccYg9XLmeX4U-PuJ6vUw6c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "w14yjBlfNeQ", "title": "[유니티 TIPS] 유니티 최적화를 위한 필수 기본기! Batching 방법 소개" }
+  ]
+}

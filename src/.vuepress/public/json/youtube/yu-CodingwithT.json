@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dXEKfSiAOLI", "title": "TabBar in Flutter with Scrolling Categories | Flutter eCommerce App" },
+    { "id": "hNqcJ1HZ8iU", "title": "Flutter Account Settings Screen UI Design | Flutter eCommerce App" },
+    { "id": "Y73J3A5gIYk", "title": "Flutter Profile Screen UI Design | Flutter eCommerce App" },
+    { "id": "gMpmLiZSe8E", "title": "Product Detail Page UI Design | Flutter eCommerce App UI" },
+    { "id": "4B7Zn_c42QM", "title": "Flutter Product Detail Page UI | Product Flutter Design 2023" },
+    { "id": "eqRZxL5vSyE", "title": "Flutter Ratings and Reviews Screen | Flutter eCommerce App UI" },
+    { "id": "YL3MnKYP0MI", "title": "Flutter Addresses Screen | Flutter eCommerce App UI" },
     { "id": "uD_ju_cwXK0", "title": "Flutter Custom AppBar Design | Reusable AppBar Flutter 2023" },
     { "id": "JsPMdnkiav8", "title": "`Gridview` in Flutter with Product Card Design | Flutter `Gridview` 2023" },
     { "id": "XIHqtsySypw", "title": "Flutter eCommerce App UI Design | Flutter Grid View | Flutter Nested Scroll View" },

@@ -22,5 +22,8 @@ meta:
 
 <MyYouTubeItems jsonName="yu-WebDevCody" /><!-- Web Dev Cody -->
 <MyYouTubeItems jsonName="yu-TutorialEdge" /><!-- TutorialEdge -->
+<MyYouTubeItems jsonName="yu-conf42" /><!-- Conf42 -->
+<MyYouTubeItems jsonName="yu-TuckerProgramming" /><!-- Tucker Programming -->
+<MyYouTubeItems jsonName="yu-mr_mux408" /><!-- Alex Mux -->
 
 <TagLinks/>

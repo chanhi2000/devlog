@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Nx7ZPpn-v07AAripnhuVESZiSCJyyN-O2aiLgz-RYvRoMApLh9HW0_Jxp4Ns-5pgnsyyWHcE_W8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dopLE8NTgFk", "title": "React Testing Tutorial With React Testing Library and Vitest React" },
+    { "id": "0y35V0FXNMU", "title": "TRPC Tutorial - The End Of REST and GraphQL?" },
     { "id": "10IGZXiqWVk", "title": "Deploy to Vercel From CLI - Deploy Your App in Minutes" },
     { "id": "BSUhOdmsnHE", "title": "HTMX Crash Course - It's Not a React Alternative" },
     { "id": "WeF-ioLHsps", "title": "Netlify Deploy From CLI - Deploy Your App in Minutes" },

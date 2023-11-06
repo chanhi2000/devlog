@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "JamesOliver",
+    "name": "James Oliver",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbPY4nbpzCv7jBpbdHppT7tlBq6aIFCXOSgLa8v=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tY-dr5njQ6mVRD-kYLZ15fUsddxgP5u9QHM0cgQNCWXWTohNmbbA3pdtdXnpVqWqrS9TXGzQzQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "C7CPXeEvKN0", "title": "Expert Level SQL Tutorial" }
+  ]
+}

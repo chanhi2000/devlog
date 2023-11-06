@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "LeadDev",
+    "name": "LeadDev",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ39R-I0X1GLf3VrBCog08l34CjOqR41X30o1oT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dwT77K2YhX-UaBKr_ESuCYnVYRnKyhS8NfPzTMJW-36FCRSfZybIALahrfsVvBFiSNIPzJ4kKw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_XT3AkDMVoY", "title": "Reducing the burden of incident response on your teams" }
+  ]
+}

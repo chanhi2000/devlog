@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mT8ZkXafuZk", "title": "Structured Logging Using Serilog and Seq in .NET" },
+    { "id": "iGI4D0QIwmI", "title": "EF 8 Raw SQL Queries Are Coming - Are You Excited? #shorts" },
+    { "id": "eWjNLYNS-og", "title": "How To Create Better .NET Applications with Architecture Tests" },
+    { "id": "PoniDOq5zQw", "title": "Func, Predicate, and Expression in C# #shorts" },
     { "id": "za40h3_blkE", "title": "How to Write a Validator with `FluentValidation` #shorts" },
     { "id": "ptl2-4adyCE", "title": "How to Add Caching To Your Repository With the Decorator Pattern" },
     { "id": "R-XODYF2iBQ", "title": "Refactoring the Domain Layer Structure With Vertical Slices" },

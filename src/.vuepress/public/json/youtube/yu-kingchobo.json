@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "R5tO9agvaOs", "title": "47. Laravel 기초, 제트스트림 CRUD, 플래시 메시지 띄우기" },
+    { "id": "1mEtzZAzEzo", "title": "49. Laravel 기초, 라라벨 부트캠프 브리즈 설치하기" },
+    { "id": "1x-KrmwGf4M", "title": "50. Laravel 기초, 라라벨 부트캠프 회원전용페이지, 헬로월드 출력" },
+    { "id": "pxRNR1KCwOY", "title": "53. Laravel 기초, 라라벨 부트캠프 글보여주기" },
+    { "id": "Xa7lm1Oy0fc", "title": "52. Laravel 기초, 라라벨 부트캠프 글등록하기" },
+    { "id": "aQMZbx3sVjI", "title": "54. Laravel 기초, 라라벨 부트캠프 글수정하기" },
     { "id": "hx5fBxrzNho", "title": "42. Laravel 기초, 제트스트림 CRUD, Delete(삭제)하기" },
     { "id": "lTKs1VWmp_E", "title": "41. Laravel 기초, 제트스트림 CRUD, Sort(정렬)하기" },
     { "id": "hm_ba0IYhGo", "title": "44. Laravel 기초, 제트스트림 CRUD, Sort 아이콘 넣기" },

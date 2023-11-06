@@ -1689,5 +1689,15 @@
     "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
     "officialSite": "",
     "topics": ["chinese", "clash", "clash-chinese", "shadowsocks", "windows", "zh-cn"]
+  }, {
+    "repo": "idurar/idurar-erp-crm",
+    "desc": "IDURAR Open Code Source ERP CRM | Node Js React AntD MERN",
+    "officialSite": "https://idurarapp.com/demo/",
+    "topics": ["accounting", "accounting-software", "crm", "crm-platform", "crm-system", "erp", "erp-app", "erp-application", "erp-software", "invoice", "invoice-management", "invoice-software", "invoicing", "invoicing-application", "invoicing-software", "mern-project", "mern-stack", "open-source-crm", "open-source-erp", "react-project"]
+  }, {
+    "repo": "nz-m/SocialEcho",
+    "desc": "Social networking platform with automated content moderation and context-based authentication system",
+    "officialSite": "https://socialecho.netlify.app",
+    "topics": ["authentication", "azure-blob-storage", "azure-storage", "bart-large-mnli", "express", "huggingface-transformers", "jwt-authentication", "mern-project", "mern-stack", "mongodb", "mongoose", "nodejs", "react", "redux", "social-media"]
   }
 ]

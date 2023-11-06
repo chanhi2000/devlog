@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "flutterguys",
+    "name": "Flutter Guys",
+    "profile": "https://yt3.googleusercontent.com/mUu0WZ5A57JwQYCfWiTHhpekWYuYhsoGfU10YmOR1zm5Ox2u_wYb5j9oSvSVIZ_v_xbaeDqkqw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xnjdFM1_X866q4mQnGEUtY9pAosXRDiCL4Wq2kpExxtTB-SaC-Ga138VVtG9Vejx50lwKbBoNA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "D4nhaszNW4o", "title": "Flutter Basics by a REAL Project - 2023" }
+  ]
+}

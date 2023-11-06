@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "jahiddev",
+    "name": "Jahid Anowar",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYRHyJPZjsfu55khZkpLTB_Xzraylfz8mbkK__Kxss=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "bannerUrl"
+  },
+  "videos": [
+    { "id": "PYbYf2JCRD8", "title": "PrimeVue - The Complete UI Library for Vue Ecosystem" },
+    { "id": "1P4ObGatgnU", "title": "Nuxt UI: Form Validation with Zod" }
+  ]
+}

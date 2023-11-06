@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-px3bp7yo5t",
+    "name": "동영상 강의",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaeTUnMoKe4JGtRQe0W3Nw0Sw1IXTS2C7_4gw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "OTie93UA0A0", "title": "redis 기초" }
+  ]
+}

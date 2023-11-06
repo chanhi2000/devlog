@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "mSYGCpIZTNw", "title": "02_VLAN" },
+    { "id": "tZkVMfDm2Y0", "title": "07_AWS CloudFormation" },
+    { "id": "5d0Mwc8Df18", "title": "08_AWS VPC 네트워크" },
+    { "id": "vkJMJSbzYqg", "title": "07_이더체널(Etherchannel)" },
+    { "id": "sOVfSKXeE9w", "title": "06_PVST(Per VLAN Spanning-Tree)" },
+    { "id": "C0BwNLMi18c", "title": "05_STP 컨버전스 단축(IEEE 802.1w RSTP/Portfast)" },
+    { "id": "3JfJIrEzuVc", "title": "04_IEEE 802 d STP(Spanning-Tree Protocol)" },
+    { "id": "6YF9SMkH610", "title": "09_EVE를 이용한 Inter VLAN 구성" },
+    { "id": "DTREvzin_3Y", "title": "참고_EVE-NG 사용하는 방법" },
     { "id": "kdclDXfJV5g", "title": "02_정적 경로 및 기본 경로 구성" },
     { "id": "arOU5LjMuXE", "title": "04_RIPv2 라우팅 프로토콜" },
     { "id": "651ZSm8f1lk", "title": "05_EIGRP 라우팅 프로토콜" },

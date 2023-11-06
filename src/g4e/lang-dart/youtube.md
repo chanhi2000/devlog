@@ -33,5 +33,12 @@ tags: ["dart", "flutter"]
 <MyYouTubeItems jsonName="yu-hyangmama" /><!-- 향마마 허리업 (dev.) -->
 <MyYouTubeItems jsonName="yu-survivalcoding" /><!-- 오준석의 생존코딩 -->
 <MyYouTubeItems jsonName="yu-THE100_" /><!-- Bravo Your Life.THE100_더백 -->
+<MyYouTubeItems jsonName="yu-gdgsongdo1690" /><!-- GDGSongDo -->
+<MyYouTubeItems jsonName="yu-createdbykoko" /><!-- Mitch Koko -->
+<MyYouTubeItems jsonName="yu-totally-vy3xb" /><!-- TOTALLY 개발자 -->
+<MyYouTubeItems jsonName="yu-flutterguys" /><!-- Flutter Guys -->
+<MyYouTubeItems jsonName="yu-FirstBuildKorea" /><!-- FirstBuild Korea -->
+<MyYouTubeItems jsonName="yu-abdulazizahwan" /><!-- Abdul Aziz Ahwan -->
+<MyYouTubeItems jsonName="yu-babakcode" /><!-- Babak Code -->
 
 <TagLinks />

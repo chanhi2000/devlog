@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "bdjQI-OBGk8", "title": "Apache Flume 60 Second Crash Course | Data Science Concepts | GeeksforGeeks" },
     { "id": "YbPnhezNaUE", "title": "Choosing the Right Cloud Provider | AWS vs Azure vs GCP | GeeksforGeeks" },
     { "id": "uCm-AkN34-M", "title": "The DevOps Behind Cricket - CI/CD | Geek Week | Pranjal" },
     { "id": "QP-Jc5dAgyQ", "title": "How to Select the Right Automation Testing Tool | Akhil Jain" },
@@ -15,4 +16,3 @@
     { "id": "8Pv96bvBJL4", "title": "Creating Chatting Application in Android Studio Using Kotlin | GeeksforGeeks"}
   ]
 }
-

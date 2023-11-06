@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "21IqiTIsqmk", "title": "Why I Switched To Linux! And How It's Going..." },
+    { "id": "2ZojEfR6OXk", "title": "Cached Properties Can Massively Speed Up Your Python Code" },
+    { "id": "o3ViNZpTaKE", "title": "JSON Schema Validation in Python: Bring Structure Into JSON" },
     { "id": "GDkb5vGfwks", "title": "ChatGPT Understands Images Now: Is AGI Coming?" },
     { "id": "lpaq_6kU5hg", "title": "Technical Analysis with TradingView in Python" },
     { "id": "sZl-H6GkHrk", "title": "Custom HTML Filters in Flask Applications" },

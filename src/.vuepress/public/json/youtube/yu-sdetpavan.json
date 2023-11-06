@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/2YKoAc8QiPqg0XS8i_LPPEeAd2I4v_Q1cfNSyXdQnFQNRlFq-IWHrMBWG0UWHjcChaZKFD1m1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6rTcEkd9F6s", "title": "Handling PDF Files in Java | PDFBox Library | Creating PDF Files | Part 9" },
+    { "id": "FW6C09m3MtE", "title": "Handling PDF Files in Java | PDFBox Library | Reading Content From PDF File | Part 8" },
+    { "id": "wpXBwk3QSso", "title": "Handling XML Files in Java | DOM Parser Library | Parsing XML Files | Part 10" },
     { "id": "C_vOMUDWV-8", "title": "Handling Text Files in Java | File Operations | Part 2" },
     { "id": "CN76P2rrLoI", "title": "Handling Property Files in Java | Writing & Reading Properties File | Part 3" },
     { "id": "Ag-JPiwp1Oo", "title": "Handling CSV Files in Java | Writing & Reading CSV File | Part 4" },

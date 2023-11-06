@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gNeUPYvwPUw", "title": "231031위클리_러스트Weekly_Rust_collect_rng_iter #rustlang #collect #rng #map #turbofish" },
     { "id": "ULZd3uUTisA", "title": "개고생하면서 배우는 Rust_FullStackDev. 001(Thread-per-core개념이해)In-kernel network stack, CPU affinity" },
     { "id": "M4UupaPkN1s", "title": "개고생하면서 배우는 C# & Rust 분석 001(Rust for C#/.NET Developers)" },
     { "id": "9RrwoLjUQwc", "title": "개고생하면서 배우는 C# & Rust 분석 002(Rust for C#/.NET Developers)" },

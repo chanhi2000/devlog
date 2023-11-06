@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/EdJtBx1NStcFnIHHXUt2ALhQ5RKtCXDIRfW5ArTONOAJm9tbJUA9Op20tOuMkwSH6gV0VOVctw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RZ_K58SleV8", "title": "Building a HTTP Server From Scratch (Day 2)" },
     { "id": "d3gn-SWjnW0", "title": "The Rustiest Video You Will Ever See" },
     { "id": "uKP990_pjJo", "title": "I Built a FAST Package Manager (in Rust)" },
     { "id": "8Oli30hHTmk", "title": "I Made My Own Redis (In Rust)" },

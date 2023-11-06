@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/5W5zpv8wFqrsyxoFwWRKBiOumbBUdzO0Y58D73YVYIdV5cfRbTCBUEXwy2DugOSTCMkaKmf1Vg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mKUKszsOSms", "title": "The Visual Studio Debugger Helped Me Bring an old MS-DOS Command Back From The Dead." },
     { "id": "U49B3GSRz_o", "title": "I Wanted To Run DOS Commands in a C# WinForms Program. This is What I Did." }
   ]
 }

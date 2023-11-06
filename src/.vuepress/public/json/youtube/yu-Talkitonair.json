@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jvkxUfkOE9c", "title": "내 업무에 최적화된 3D프린터 선택 가이드와 최신 기술 동향 [구해줘 Manufacturing@토크아이티 프리미엄 웨비나, 스트라타시스]" },
+    { "id": "qifCMwhtr5c", "title": "협동로봇 분야별 적용 가이드: 연마, 용접, 머신텐딩, 적재, Pick&Place [구해줘 Manufacturing@토크아이티 프리미엄 웨비나, 유니버설로봇, 다스코리아]" },
+    { "id": "CG7WftCQk9o", "title": "LLM 파인튜닝도 경량화 시대! LoRA (Low-Rank Adaptation of LLM) [구해줘 AI@토크아이티,  래블업]" },
+    { "id": "560WORaPRBA", "title": "오브젝트 스토리지 최적활용 가이드 [구해줘 Data@토크아이티 프리미엄 웨비나, 한결피아이에프, Seagate]" },
+    { "id": "Qoby4HFkfN0", "title": "브라우저 보안,  가장 안전하고 편한 인터넷 사용 보장 [토크아이티 웨비나, 멘로시큐리티]" },
+    { "id": "qis4NqFWI8w", "title": "프로젝트 관리 애자일 방법론의 본질, Flexible & Fast [구해줘 DX@토크아이티, 투이컨설팅]" },
+    { "id": "EplB7nhChsE", "title": "DB 마이그레이션 PM이 알려주는 데이터베이스 마이그레이션 A to Z [구해줘 Data@토크아이티 프리미엄 웨비나, 디비투이]" },
+    { "id": "qY85uPwLyzw", "title": "오픈 AI ChatGPT 서비스는  무모한 도전인가 전략적 선점인가?  [구해줘 AI@토크아이티, 래블업]" },
+    { "id": "qER29UG-LXs", "title": "프로젝트 기간 단축을 위한 프로젝트관리 실전 Tips: 요구사항, 테스트정의 현업주관, 프로젝트 가시성, 개발 밸류스트림 [구해줘 DX@토크아이티, 투이컨설팅]" },
     { "id": "q_376ZadIL4", "title": "멀티 클라우드 환경에서의 IPAM 및 Secret Management 관리 방안[토크아이티 웨비나]" },
     { "id": "9z83UkeF78A", "title": "쿠버네티스 재해복구 운영 방식: Warm DR vs Hot DR vs Active-Active DR [구해줘 IT infra@토크아이티, 맨텍솔루션]" },
     { "id": "vS_h36LfuRQ", "title": "제조업이 고민하는 AI 활용 이슈와 대안: 망분리, 보안, 현업 참여, 제조환경 [구해줘 AI@토크아이티, 쿤텍, 데이터이쿠]" },

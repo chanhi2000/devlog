@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/750oHOwufXxMWcT0G2VTQO31pY9pyCYjOKk3cLeXx3YBNnecZvjNAsAFFNdT8f5m28XoUIXnnr4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DWGXnz9NBC0", "title": "What to Run in Kubernetes? The Ultimate Guide" },
+    { "id": "F7qf2jp_Mu8", "title": "Building FaaS Platforms - Ask Me Anything With Mauricio Salatino" },
     { "id": "ZSTQQNu4laY", "title": "Kubernetes Testing Techniques with KUTTL" },
     { "id": "0tBSKRvH3xo", "title": "Detecting Kubernetes Security Threats with Falco" },
     { "id": "1iZoEFzlvhM", "title": "Kubernetes? Database Schema? Schema Management with Atlas Operator" },

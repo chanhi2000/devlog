@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Db6yunOHZ2c", "title": "분산 서버에서 DB 서버" },
     { "id": "09ufiNEWynk", "title": "Redis C# 프로그래밍" },
     { "id": "UYTmI6qbAPc", "title": "실전 Modern C++ - module 3" },
     { "id": "yoP3EXEnb0g", "title": "[책 소개] 윈도우즈 API 정복" }, 

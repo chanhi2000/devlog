@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/kwazP42mizQvwvPJxjdI4iCY1Z2q_N6496hL8fckp1YG8anSrHeYxZkIfFIztFwW-AEO_ZzxiQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "db4Iab2zMB4", "title": "신입 백엔드 개발자 합격 이야기" },
     { "id": "ORAbcPNOoOo", "title": "Nextjs 13 고민 중이신가요?" },
     { "id": "Zo9d19f09q4", "title": "신입 개발자를 준비하는 분들에게 보여줄 영상" },
     { "id": "T-OOwm7hd8U", "title": "돈이 되는 서비스를 위한 자동화 서비스 만들기" },

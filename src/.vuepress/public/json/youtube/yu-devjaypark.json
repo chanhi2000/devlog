@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/cleRTmenHNNgEJzPhqyy1P0evt1AxmctyPUHjywm7ngc-RpIG-WWhcs0MZruiZ9cliAZ0LZL=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h0bvb7y-4cM", "title": "[독서광] 인간 vs. AI 정규표현식 문제 풀이 대결" },
     { "id": "0_7zF_RnDcA", "title": "[독서광] 슬기로운 파이썬 트릭" },
     { "id": "hwSUTp4svg0", "title": "[독서광] Node.js 백엔드 개발자 되기" }, 
     { "id": "1v5uyK_f1Cg", "title": "[개발자 북클럽] (7회) 클린 코드 이제는 파이썬이다" }, 

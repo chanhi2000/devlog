@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/lOB0YSLGhIh7DdbmkvL2nsevjVGo9pSgwhriNSjajZuqSklUgVH1NsA5xPYe6JGDUKQ6SSS7xw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4iIn5VQqyZw", "title": "How Spring JDBC Auto configuration works internally ?🤔 Spring Boot Foundation tutorial | MySQL" },
     { "id": "9grEmpRfK0Y", "title": "Java Interview Prep -  Spring boot and Microservices interview questions for experienced | Live Mock" },
     { "id": "B1uKqtZLes0", "title": "How Spring Boot Auto Configuration works ? | Create Custom Auto configuration  | `@Conditional`" },
     { "id": "KB765AJ8uBU", "title": ".YAML vs .Properties - What will you choose ? Spring Boot properties configuration | Spring boot #4" },

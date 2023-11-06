@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/nYBM4tFv0FucvhrpQPedLqqK-VabAD9T3p0aLzwZchtwSVMKwyXP77Un7hQs1AbiEVEVHARWVss=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "n5emSObrfzI", "title": "23년 스프링 (44) JPA 연관관계 다대일 일대다 양방향 매핑" },
+    { "id": "3NdzU7rprkk", "title": "23년 스프링 (43) JPA 연관관계 다대일 단방향 매핑" },
+    { "id": "r7ZBooCb8cw", "title": "23년 스프링 (42) JPA 연관관계 일대일 매핑" },
+    { "id": "H0iXMIK9Waw", "title": "23년 스프링 (41) 권한별 페이지 접근하기" },
+    { "id": "gEq6qKfRFpg", "title": "23년 스프링 (40) 권한별 메뉴 보이기" },
+    { "id": "D8E6hheYNL8", "title": "23년 스프링 (39) 로그아웃 구현하기" },
     { "id": "lQYriChF6Tw", "title": "23년 스프링 (32) 사용자 등록 페이지 준비하기" },
     { "id": "2GhmJ-agn3M", "title": "23년 스프링 (31) MemberService UnitTest 수행하기" },
     { "id": "18LSBo5sO60", "title": "23년 스프링 (30) MemberRepository와 MemberService 작성하기" },

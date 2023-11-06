@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/WdIWDa38qpK8De9JbKiO_382aFtx9yxKlPflgPlBglEd6W0_KBPvXLS6bHrqlg5S9S1JM8amjA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ElX-W3dEwq0", "title": "How to add GenAI capabilities to your app code using Amazon Bedrock" },
     { "id": "IsjbXajoxes", "title": "Let's build a game in JavaScript!" }, 
     { "id": "akrQr15iBt4", "title": "Let's Build a Game in JavaScript" }, 
     { "id": "mw5YuPw6A1c", "title": "Backend development for frontend engineers" }, 

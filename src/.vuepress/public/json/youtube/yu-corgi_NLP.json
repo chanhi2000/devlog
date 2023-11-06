@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A512OoJLVLw", "title": "ChatGPT에서 Prompt를 압축해서 API비를 줄이자![LLMLingua: Compressing Prompts for Accelerated Inference ....]|꼬꼬엔" },
     { "id": "Hvao-W-DEIw", "title": "LLM끼리 앙상블!?[LLM-BLENDER: Ensembling Large Language Models with Pairwise Ranking and Generati...]|꼬꼬엔" },
     { "id": "XMI02zc1flo", "title": "GPT와 Python의 환상의 콜라보[PAL: Program-aided Language Models] | 꼬꼬엔" }
   ]

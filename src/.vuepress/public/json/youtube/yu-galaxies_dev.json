@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ZkK9dbYp2Fv3HM5-9zLU1t7-Pl5n8V1eW4NC_KHlQ4-4fyWeeBsmcHrzWPJoazq8xL-LAojc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wsZ_mjXk6Hg", "title": "10 Must-Have React Native Components 😎" },
     { "id": "oIEykI5oagI", "title": "How to Present a React Native Bottom Sheet" },
     { "id": "tFnNBhr0WTw", "title": "Build your own AI Shopping App with React Native and Supabase Vector" },
     { "id": "FXpwVLiKowc", "title": "How to Fix CORS Issues with Native HTTP Calls" },

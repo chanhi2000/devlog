@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PUIhO_8VSw4", "title": "Beautiful Flutter App" },
+    { "id": "epPiAXKXLn4", "title": "Flutter Adaptive UI | Screen Util Package | A Must Have Tool for Your App Dev" },
+    { "id": "IDVOCjOPaGc", "title": "React Native Food App" },
+    { "id": "SEcXQDbTGxM", "title": "Flutter `onGenerateRoute` Example" },
+    { "id": "kVdtCSwEXgE", "title": "Flutter Web App Responsiveness We Took to The Next Level" },
     { "id": "h2-mlyRZYMc", "title": "Payment APIs Uncovered: Your Complete Guide for Flutter/React Native | Build API step by step" },
     { "id": "VsuG1lYSqJg", "title": "Flutter App Building Advanced Concepts | Part 6" },
     { "id": "noeJXHM0bpY", "title": "Flutter Cubit Clean Architecture" },

@@ -115,7 +115,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-user-yu8so2ck1z" /><!-- 코딩알려주는누나 -->
 <MyYouTubeItems jsonName="yu-Renewedcart" /><!-- Cat Technologies -->
 <MyYouTubeItems jsonName="yu-Hyperplexed" /><!-- Hyperplexed -->
-<MyYouTubeItems jsonName="yu-ezweb" /><!-- Rock's Easyweb -->
+<MyYouTubeItems jsonName="yu-Ezweb" /><!-- Rock's Easyweb -->
 <MyYouTubeItems jsonName="yu-FunOfHeuristic" /><!-- Fun Of Heuristic -->
 <MyYouTubeItems jsonName="yu-CodeRadiance" /><!-- Code Radiance -->
 <MyYouTubeItems jsonName="yu-kossiecoder" /><!-- 코지 코더 Kossie Coder -->
@@ -200,5 +200,10 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-blogcreator6109" /><!-- 블로그 크리에이터 -->
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 <MyYouTubeItems jsonName="yu-reactproject" /><!-- React & Next js Projects with Sahand -->
+<MyYouTubeItems jsonName="yu-danteDeveloper" /><!-- 단테 -->
+<MyYouTubeItems jsonName="yu-jahiddev" /><!-- Jahid Anowar -->
+<MyYouTubeItems jsonName="yu-jsWithTola" /><!-- Giwa Fauzziyyah -->
+<MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
+<MyYouTubeItems jsonName="yu-Pentacode" /><!-- Pentacode -->
 
 <TagLinks />

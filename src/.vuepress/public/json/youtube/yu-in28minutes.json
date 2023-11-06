@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/gNSPMZqFuw-m7IjWjAs8OD6vk7nOj-71nEKK-7JdTjsfY3XHRJhrSH3PW9eU8YcoMfz0jEU1Yg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "07lY93HmrHw", "title": "Python Tutorial For Beginners - 200 Labs & Exercises" },
+    { "id": "EbB9UKJJH6Y", "title": "Object Oriented Programming - Python" },
+    { "id": "_Jk8Lm25fXQ", "title": "Introduction to Functions in Python" },
     { "id": "nlnDbre1wto", "title": "Serverless Tutorial with AWS Lambda" }, 
     { "id": "ueKwBqobijE", "title": "Deploying Spring Boot Apps to AWS using Elastic Beanstalk - First 10 Steps" }, 
     { "id": "SWXuXhZkNQc", "title": "Java Full Stack Application With React And Spring Boot -  First 10 Steps" }, 

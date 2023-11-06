@@ -64,6 +64,11 @@
     "desc": "12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
     "officialSite": "",
     "topics": ["ai", "azure", "chatgpt", "dall-e", "generative-ai", "generativeai", "gpt", "language-model", "llms", "openai", "prompt-engineering", "semantic-search", "transformers"]
+  }, {
+    "repo": "girafe-ai/ml-course",
+    "desc": "Open Machine Learning course",
+    "officialSite": "",
+    "topics": ["computer-vision", "course", "deep-learning", "machine-learning", "materials", "natural-language-processing", "python", "pytorch", "reinforcement-learning", "seminars"]
   }
 ]
 

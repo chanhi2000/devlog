@@ -1693,5 +1693,15 @@
     "desc": "Clash.Meta Dashboard, The Official One, XD",
     "officialSite": "",
     "topics": ["daisyui", "dashboard", "docker", "solidjs"]
+  }, {
+    "repo": "chronark/highstorm",
+    "desc": "Open Source Event Monitoring",
+    "officialSite": "https://highstorm.app",
+    "topics": []
+  }, {
+    "repo": "joeycumines/ts-chan",
+    "desc": "Concurrency primitives for TypeScript and JavaScript.",
+    "officialSite": "",
+    "topics": []
   }
 ]

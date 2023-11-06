@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/SJeywiPjW_zhFjx_hCrx2E_BA1golW9mXm0E0r3gKouIbg3WFCs7cxbRrDYXRledfDdEhA1m=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VdUsMi-zLms", "title": "How generative AI is revolutionizing data processing" },
     { "id": "tcCtuO04dIE", "title": "Build web apps with Python Django" },
     { "id": "p10qOapgrAM", "title": "How Recommendations AI for Media can boost customer retention" },
     { "id": "G2fqAlgmoPo", "title": "Introduction to Generative AI" },

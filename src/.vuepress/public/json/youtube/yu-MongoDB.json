@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/MNEsC8Wtd1Stf_OQYP-OBqVoveODo09vUT3WrEftmEA65X1zuJ5QOOJnOWAucqgedq-3qA-JWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rLkoiZGhUq0", "title": "Practice with PHP: Office Hours with Hubert Nguyen" },
     { "id": "J3N-m66xeVY", "title": "Getting Started with the MongoDB Kotlin Driver - Tutorial" },
     { "id": "zoMB6mlq46k", "title": "Infrastructure as Code with MongoDB Atlas" },
     { "id": "GdbxKDc9i6Q", "title": "Atlas Stream Processing | Demo" },

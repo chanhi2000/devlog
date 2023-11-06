@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iEuLx3phx6k", "title": "AWS는 AWS가 가장 잘 알려줍니다. 공식 AWS 학습 컨텐츠 1탄 :  AWS 공식 라이브 강의 - AWS Builders Korea Program" },
     { "id": "XnEYjgoPUfw", "title": "실전 활용 가능한 100% AWS Serverless 기반 채팅 아키텍처 소개 및 구현" },
     { "id": "xHg4zVPAsHo", "title": "AWS Serverless 로 1분만에 URL Redirection 구현하기 (Cloudformation 템플릿 제공)" },
     { "id": "_QYQO8ekHtM", "title": "AWS 비용 3억 나오는 사태 막는법 : AWS 계정을 지키는 3가지 필수 설정!" },

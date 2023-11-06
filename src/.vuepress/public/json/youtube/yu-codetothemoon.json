@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/DYYmvnH6HJDOnmEGTEQ2c2bREpeapdj-4HF7L1DWt1G7HOeHgD-gi-P332QirVuCuuQy7KVHwg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jib1wjgIaa4", "title": "this open source project has a bright future" },
     { "id": "4f2JH_sK17o", "title": "The Current State of the Mojo Programming Language" },
     { "id": "uxexM1-iCkg", "title": "The Best Way To Deploy In 2023 (feat. Docker, Rust, and Language Models)" },
     { "id": "uuPeBKdnBOI", "title": "The Dream Programming Language? Lobster" }, 

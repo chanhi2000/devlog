@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/eCsSeAk8N9LhsbNz_kCxRiUyc18mIcX-rdyhiBzxNXn4109j40nUBPII1Db3L1hU2_i1k4hG8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "stNjERZEvkE", "title": "Mastering Flutter: How to Install Flutter SDK on MacBook Pro M2 Pro Apple Silicon" },
+    { "id": "LVIu7qj-0pk", "title": "MacBook Pro M2 Pro 14 inch Setting Up the Apps for Content Creation & Daily Use" },
     { "id": "BJZhS3DA5QA", "title": "Framer Tutorial - Build SaaS Landing Page Website from Figma to Framer" },
     { "id": "NeUegHLTrD8", "title": "How to Deploy Node.js Next.js Application on a VPS Ubuntu Server using UltaHost | Secure & Cheap" }, 
     { "id": "N9WLxEFloVY", "title": "Flutter UI Tutorial - Real Estate Home Rent App UI Design with Drawer Animation (Figma to Flutter)" }, 

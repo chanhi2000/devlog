@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/NISAoyEzukrwJZDgieb-d6xdAUTlI_AVozlf21VHpW6cTQeYfUpHPzhDxMMu9LIGTk1K6Yk0Ml4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dOXpkAmmahw", "title": "StringTs with Guga Guichard | TypeScript Showcase #5" },
     { "id": "nJlgCdsZWqo", "title": "Conway's Game of Life implemented with TypeScript types | TypeScript Showcase Podcast #4" },
     { "id": "cGHCdqnT05Q", "title": "Biome with Ema Stoppa | Let's Code Podcast #2" },
     { "id": "BsM8ELPo3z4", "title": "Flow and TypeScript actually have the same soundness goal (`!!`)" },

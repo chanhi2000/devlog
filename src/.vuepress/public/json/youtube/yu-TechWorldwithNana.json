@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7ugoNeZgrqsBMFE5nk9B2G5O5k2X5m-RWP4MrEEzZ4EX4GOBbHX-k7aEEVLEAQm6U9aLEUTq89M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "s3I1kKKfjtQ", "title": "Consul Service Mesh Tutorial for Beginners [Crash Course]" },
     { "id": "cdb6ernButc", "title": "Complete DevSecOps Bootcamp - Most Extensive Training OUT NOW 🚀" },
     { "id": "ghzsBm8vOms", "title": "What is Platform Engineering and how it fits into DevOps and Cloud world" },
     { "id": "N1-mhvUghb0", "title": "Cloud Engineer vs DevOps Engineer - Differences and Overlaps of tasks and responsibilities" }, 

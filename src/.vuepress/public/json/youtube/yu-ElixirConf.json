@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "owz2QacFuoQ", "title": "ElixirConf 2023 - Wojtek Mach - Req - a batteries-included HTTP client for Elixir" },
+    { "id": "XSwxNgza7hE", "title": "ElixirConf 2023 - AJ Foster - Filling the Gaps in the Ecosystem" },
     { "id": "R1qsFBgCmGQ", "title": "ElixirConf 2023 - Zack Kayzer and Stephanie Lane - Unleashing the Power of DAGs with Pacer Workflow" },
     { "id": "giYbq4HmfGA", "title": "ElixirConf 2023 - José Valim - The foundations of the Elixir type system" },
     { "id": "xBi2Hj22qUU", "title": "ElixirConf 2023 - Brian Cardarella - LiveView Native" },

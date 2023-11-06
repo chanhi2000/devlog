@@ -6,9 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/PwZeNkweF644ls5GWx0ibQWg9bkXZZq0vbmMcq7srYUay8JhpqyKHflAAAxS48wiYayfOluusvI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "G6HV9kXwQQE", "title": "지금 뜨고 있는 C++ 응용 분야 | SLAM 전문가 신동원 박사" },
     { "id": "uDq7woPOZ_A", "title": "[무료] 코테용 C++ 핵심 정리 - 1. 환경 설정 (윈도우, 맥OS, VSCode, Visual Studio Code, XCode, g++, gcc, clang)" },
     { "id": "rsuaWXDT6QA", "title": "[라이브] 1.웹개발자 인공지능으로 몸값 올릴 기회 2.취준생들 코테 자꾸 떨어지는 이유" },
-    { "id": "7tUNhY3D3I0", "title": "🔴 애플 비전 프로 | 앱 개발자, 엄청난 기회가 온다!" }
+    { "id": "7tUNhY3D3I0", "title": "🔴 애플 비전 프로 | 앱 개발자, 엄청난 기회가 온다!" },
     { "id": "4MfTwR3VFt4", "title": "[라이브] 컴퓨터 그래픽스 게임 프로그래밍 입문 총정리! | 그래픽스 새싹코스 파트4 보기 전 훑어보기" },
     { "id": "q48XiWGNctE", "title": "C++ 뼈 때리는 러스트, 파이썬 추월코스 안 보면 손해!" },
     { "id": "15EQ5C2yBFE", "title": "러버덕과 디버깅🐤(Rubber Duck Debugging)" }

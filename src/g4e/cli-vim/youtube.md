@@ -24,5 +24,7 @@ tags: ["youtube", "tutorial", "bash", "linux", "macos", "terminal", "alias", "sh
 <MyYouTubeItems jsonName="yu-joseanmartinez" /><!-- Josean Martinez -->
 <MyYouTubeItems jsonName="yu-vimjoyer" /><!-- Vimjoyer -->
 <MyYouTubeItems jsonName="yu-JakeBox0" /><!-- Jake B -->
+<MyYouTubeItems jsonName="yu-mr_mux408" /><!-- Alex Mux -->
+<MyYouTubeItems jsonName="yu-traap." /><!-- Traap -->
 
 <TagLinks />

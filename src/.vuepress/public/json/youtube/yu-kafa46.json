@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iTxTGBOhzCA", "title": "[Probability]_01.  Random Variables (확률변수)... 이게 뭔가요?" },
+    { "id": "nvHyIScyQxs", "title": "[Probability]_02. Expected Value (기댓값)... 이게 뭔가요?" },
     { "id": "I9UCdp9ucQQ", "title": "01  Web Server, Web Application Server 개념 잡기" }
   ]
 }

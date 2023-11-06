@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ClTTJIqs3fUuHWmZvpvKlP55a5-PT_kSNjlHx_sANm38-T2o83l8yJuy5zqN-tx3aEGT2q_PT1M=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eJXSLCFLJJE", "title": "How to fix the JSON parse error" },
+    { "id": "1sOpZYJmsFU", "title": "How to create a JavaScript random number generator" },
     { "id": "A8yfwdET-2E",  "title": "Make a BETTER Random Quote app with JavaScript" }, 
     { "id": "kJPkCGtv3vY",  "title": "This is the PRO way to code a JavaScript Modal" }, 
     { "id": "T66FCDdA1wo",  "title": "Build a Microblog app [Learn React, Tailwind, Express, MongoDb, Joi Validation]" }, 

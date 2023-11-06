@@ -114,4 +114,10 @@ tags: ["go", "golang"]
 
 ---
 
+## Dave Cheney
+
+- [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+
+---
+
 <TagLinks />

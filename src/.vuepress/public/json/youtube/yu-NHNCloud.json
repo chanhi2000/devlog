@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/ygZ36XNPbuLjrqiOyXkBezudCwYd0kMsJNzLZri7TojHS46CU02VE4nL0jmVJAwb-3osj3nuNA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZUksSDu8C0c", "title": "[NHN FORWARD 2020] Kotlin과 Coroutine으로 만들어 보는 Non-Blocking API" },
+    { "id": "x_XSjsVFxtY", "title": "정보 보호의 기본 개념과 클라우드 보안 적용 방안 교육" },
+    { "id": "UGpxQnxZyKw", "title": "NHN Cloud On 웨비나 21｜쿠버네티스는 이미지 관리부터" },
+    { "id": "9zwHZ6Xi8CA", "title": "Cloud Native 시작하기 - 03.Kubernetes 이해하기 | NHN Cloud 온라인 교육" },
+    { "id": "u62bMbg9quc", "title": "Cloud Native 시작하기 - 04.Kubernetes Hands-on Lab(실습) | NHN Cloud 온라인 교육" },
+    { "id": "fivJy6fYmRo", "title": "Cloud Native 시작하기 - 02.컨테이너 기술| NHN Cloud 온라인 교육" },
+    { "id": "jAaOEiCO-xU", "title": "Cloud Native 시작하기 - 01.Cloud Native 알아보기 | NHN Cloud 온라인 교육" },
     { "id": "etnFe2tBD5I",  "title": "[2019] '깃'깔나는 Git 워크플로 알아보기" }, 
     { "id": "8sKTvf1c2zQ", "title": "[NHN FORWARD 22] Jenkins에서 Jenkins로의 여정" }, 
     { "id": "uk5fRLUsBfk", "title": "[NHN FORWARD 22] 분산 시스템에서 데이터를 전달하는 효율적인 방법" }, 

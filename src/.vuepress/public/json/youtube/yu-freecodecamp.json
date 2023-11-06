@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kNghEbknLs8", "title": "Kotlin & Android Development Course: Build a Quiz Application" },
+    { "id": "ywLxbDV9TBU", "title": "Create and Deploy Websites and IaC by Chatting with AI" },
+    { "id": "KZnQ5R8Kd4I", "title": "Java Web App with Quarkus and JPAStreamer – Tutorial" },
+    { "id": "dX8396ZmSPk", "title": "Web Development with HTML & CSS – Full Course for Beginners" },
     { "id": "8ARodQ4Wlf4", "title": "A Beginner's Guide to WebSockets" },
     { "id": "wrHTcjSZQ1Y", "title": "AI SaaS Chat Bot using MERN Stack – Tutorial" },
     { "id": "H0vhkoXljq0", "title": "Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App" },

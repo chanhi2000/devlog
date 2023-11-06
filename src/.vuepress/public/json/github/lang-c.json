@@ -534,5 +534,10 @@
     "desc": "A minimal programming example for a chat server",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "theori-io/nrsc5",
+    "desc": "NRSC-5 receiver for rtl-sdr",
+    "officialSite": "",
+    "topics": []
   }
 ]

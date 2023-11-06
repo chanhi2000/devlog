@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "sirealco",
+    "name": "시리얼 Sireal",
+    "profile": "https://yt3.googleusercontent.com/IKTBe8g1xk4x3HfIl_WLAcwH4qzMVE97ieW-jWl3lUUNdlznHf8SKcUnkOzCNjl_G6dhXFoSRw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ARcIhIMf0aMapflTyp3ZGbRgHBHqfl8cNflutrjPw0Hif933cay6Wgitg1ovuqAXMmunlQvTa14=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pHnE4HRsmec", "title": "그래프를 첨가한, 노션으로 나만의 습관 관리 템플릿 만들기 - 데일리리포트, 투두리스트, 시간관리법" }
+  ]
+}

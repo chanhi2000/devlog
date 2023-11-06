@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/3M0XEYS8LAxTWq5yTcZ6Bbwl1rQzgwuSNg2nUoyLDmpauX1qpQe_uZCrysIfSc4ukbVJg1cv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ii0CRi1JvAM", "title": "16편 Save and Load model" },
+    { "id": "R0R0oWJRYHc", "title": "15편 Data Sampler Bootstrap" },
+    { "id": "t2YoJINsYwk", "title": "14편 Data Sampler Fixed sample and Over sampling" },
+    { "id": "Q4Ioxdy53Zk", "title": "13편 Data Sampler 사용시 랜덤샘플링 seed 고정방법" },
+    { "id": "LVqBZ9pZyWA", "title": "12편 Data Sampler를 통한 TrainTest split 방법" },
+    { "id": "fgf7QY6CaJM", "title": "11편 Train Test split_Random sampling" },
+    { "id": "rSIBSMYgIrE", "title": "10편 Leave One Out Cross-Validation" },
+    { "id": "1X3SyTMVesc", "title": "09편 Cross validation 실습" },
+    { "id": "Ncs1s6NB7uA", "title": "08편 Cross validation" },
+    { "id": "eT_YIpNvJ-A", "title": "07편 Regression 성능 평가 지표" },
     { "id": "A5IU1onjh4c", "title": "(보충수업) 1.5.  LLM에서 임베딩(embedding) 이란?" },
     { "id": "ybUWZ6LruSo", "title": "러크tv에서 실무에 유용한 색다른 학습을 만나볼까요?" },
     { "id": "8t2ewJtswFA", "title": "4편 Linear Regression Prediction?" },

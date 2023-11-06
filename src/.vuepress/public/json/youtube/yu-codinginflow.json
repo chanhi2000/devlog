@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mkJbEP5GeRA", "title": "Build Your Own AI Chatbot (Next.js 14, ChatGPT, Vector Embeddings, Tailwind, Shadcn UI, TypeScript)" },
+    { "id": "iBv8qGGSqH4", "title": "Generate Open Graph Images With Code in Next.js 14 🔥 #nextjs #nextjs14 #nextjstutorial #webdev" },
     { "id": "sfTVZt3i3EU", "title": "Redirect From 404 Not-Found Page in Next.js (App Router) ⤵️ #netxjs #nextjs13 #nextjstutorial" },
     { "id": "L9dN-PZH9aE", "title": "Toggle Suggestions in Github Copilot 💡 #githubcopilot #vscode #vscodetips #webdevelopment" },
     { "id": "FcxjCPeicvU", "title": "Complete MERN Beginner Course [2023] (TypeScript, Authentication, Deployment...)" },

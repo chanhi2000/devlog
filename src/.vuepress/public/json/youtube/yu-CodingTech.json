@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/TL7jYLx2g5E5EDU79qYIlNd8v3rixDhpHP39TzkAwCvgui4oojemjlmyT0Czwj7T43cfNCKkfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TxZwVHzBy34", "title": "Getting Started with Scripting in Python in Blender 3D" },
+    { "id": "X0jUl4XBOCA", "title": "Python Beginner to Advanced in One Hour" },
+    { "id": "ZgEVIsDS4mA", "title": "Revolutionizing Rigs: Modern widgets for Character Animation" },
+    { "id": "LyGzTPzN3Cs", "title": "Large Language Models from Prototype to Production" },
+    { "id": "b5HHyb1d4Ys", "title": "Evolution of Wasm: Past, Present, Future" },
+    { "id": "BQWi3R6-TfM", "title": "ChatGPT AP:  Function Calling with Python JSON Output Example" },
+    { "id": "vQ_o3AFi7Jc", "title": "Asm Blox: a Game Based on WebAssembly That No One Asked For" },
+    { "id": "cdTEeNQQnKg", "title": "Lightweight Kubernetes Operators with WebAssembly" },
     { "id": "cBWlTLTMwfQ", "title": "DuckDB: The Power of a Data Warehouse in your Python Process || Gábor Szárnyas" },
     { "id": "lqBhJATrsiw", "title": "Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy" },
     { "id": "kuxBOGB_FlM", "title": "Faster than Rust and C++ : the PERFECT Hash Table" },

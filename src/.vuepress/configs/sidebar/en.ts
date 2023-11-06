@@ -164,6 +164,16 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-js-node/youtube.md',
       ]
     }, {
+      text: '⚛React.js',
+      collapsible: true,
+      children: [
+        '/g4e/lang-js-react/README.md',
+        '/g4e/lang-js-react/snippets.md',
+        '/g4e/lang-js-react/references.md',
+        '/g4e/lang-js-react/github.md',
+        '/g4e/lang-js-react/youtube.md',
+      ]
+    }, {
       text: '🧜‍♀️Mermaid.js',
       collapsible: true,
       children: [
@@ -568,6 +578,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-mysql/README.md',
         '/g4e/db-mysql/query.md',
         '/g4e/db-mysql/references.md',
+        '/g4e/db-mysql/youtube.md',
       ]
     }, {
       text: '🙆‍♂️Oracle SQL',
@@ -675,6 +686,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/projects/lifeguide/README.md',
+        '/projects/lifeguide/youtube.md',
         '/projects/lifeguide/nhis/README.md',
         '/projects/lifeguide/nhis/references.md',
         '/projects/lifeguide/travel/README.md',
@@ -902,7 +914,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-swift/README.md',
         '/crashcourse/kodeco-swift/6398124-swiftui-tutorial-for-ios-creating-charts.md',
         '/crashcourse/kodeco-swift/6334294-my-app-crashed-now-what.md',
-        '/crashcourse/kodeco-swift/6620276-sqlite-with-swift-tutorial-getting-started.md',
+        '/crashcourse/kodeco-swift/6620276-sqlite-with-swift-tutorial-getting-started.md'
       ]
     }, {
       text: '🔺Red Hat Container Tools',

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "iamrithmic",
+    "name": "rithmic",
+    "profile": "https://yt3.googleusercontent.com/2RLyZBW--uc6kjVj4cn_3UuSzmxYptQv6vqcfAFxrcySl89tAViE4q6cxPGOg7xQv6tWOjq-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1C7JsH9x4DmmcHxfVGJMhRIeSLmRH41Xnm2oKITHfuACk64NNt_iNA3Myy9sD3Z9VomitfFKcQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UjuLDdnp_VM", "title": "Create a Website Intro with ReactJS + GSAP in 10 Minutes" }
+  ]
+}

@@ -6,10 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/iQx_lCTQix7c8Hq7sFlNZB1_ORXT2a4-lN-c_gDxIo1w4kAah7dJUdRpXH8rupFH7fNKyzj4EZk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RzbBeRSnvRo", "title": "리액트 잘하기 위한 8가지 방법" },
     { "id": "U6mbrjkQuGs", "title": "웹 개발자가 꼭 알아야할 보안 이야기" },
     { "id": "OmrxrHSrS2Y", "title": "이벤트 관리의 기본" },
-    { "id": "ErMvjDMskFA",  "title": "웹 개발 디버깅 꿀팁 시리즈 (디버깅 1편. HTML)" }, 
-    { "id": "toUlXhTZZ8w",  "title": "`if`만 제거했을뿐인데.. 클린코드라니" }, 
-    { "id": "uvyx4429ztg",  "title": "Promise 패턴 (5 분 컷)" }  
+    { "id": "ErMvjDMskFA", "title": "웹 개발 디버깅 꿀팁 시리즈 (디버깅 1편. HTML)" }, 
+    { "id": "toUlXhTZZ8w", "title": "`if`만 제거했을뿐인데.. 클린코드라니" }, 
+    { "id": "uvyx4429ztg", "title": "Promise 패턴 (5 분 컷)" }  
   ]
 }

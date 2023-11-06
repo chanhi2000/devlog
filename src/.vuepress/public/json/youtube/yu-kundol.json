@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/iMHGMGwmtK06qKBIx5fgsdq7Sn7XOPuj6_jcD_TxVag4eCva3bXiK-KrnuJD_-p9HHGQbq4xd98=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bluQwqMgTsw", "title": "MySQL and MongoDB comparision" },
     { "id": "LV-gxtDkiiw", "title": "카카오면접을 합격으로 이끌었던 몇가지의 코드" },
     { "id": "n5TLPPprGMA", "title": "카카오뱅크 IOS 개발자 채용 | 코테X" },
     { "id": "v3myU3II4AA", "title": "견고한 데이터 엔지니어링이란?" },

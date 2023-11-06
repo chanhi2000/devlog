@@ -1,0 +1,67 @@
+{
+  "channel": {
+    "id": "conf42",
+    "name": "Conf42",
+    "profile": "https://yt3.googleusercontent.com/CnnzE5fVfYT2OUXo-nNdMr27Ofw3OMXmsZ8X6FluuVz6XJmxps_yVSTwFhlMOl71uGQnp-NBH8U=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hsefHnvrSnbNvRT-gDvBTd_DjSGLIYir0K89jF6CpItvG_DoAPSsZabtfYhO1hXJdJ6pm_ygjw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jzAOVoBPPBA", "title": "Go from Kubernetes YAML to software engineer with CDK8s | Robert Hoffmann | Conf42 Kube Native 2023" },
+    { "id": "zfDRV1yGh1M", "title": "Observability Ecosystem in Kubernetes | Jhonnatan Gil Chaves | Conf42 Kube Native 2023" },
+    { "id": "u8AaNr4HKWk", "title": "Git Sh*t Done, the GitOps Way | Frederic Harper | Conf42 Kube Native 2023" },
+    { "id": "KCB4wynFdBY", "title": "Simplify Network Services with Ballerina | Anuruddha Liyanarachchi | Conf42 Kube Native 2023" },
+    { "id": "XlSK2vC3cuk", "title": "Who broke the build? Use Kuttl to improve E2E tests | Ram Mohan Rao Chukka | Conf42 Kube Native 2023" },
+    { "id": "oSSLtK6BLHY", "title": "K8s Troubleshooting Demystified: Five Best Practices | Maria Ashby | Conf42 Kube Native 2023" },
+    { "id": "wfBsTbfuU28", "title": "Secure your Microservices with ZeroTrust approach | Jonathan Vila | Conf42 Kube Native 2023" },
+    { "id": "XIboatGV9TY", "title": "M9sweeper, the Open Source Kubernetes Security Platform | Jacob Beasley | Conf42 Kube Native 2023" },
+    { "id": "KsJcjfU5NTc", "title": "Kubernetes for the Virtualization Admin | Julia Furst Morgado | Conf42 Kube Native 2023" },
+    { "id": "WOKrH52xXBs", "title": "Introduction to Ambient Mesh| Abdel Sghiouar | Conf42 Kube Native 2023" },
+    { "id": "4oI1y81R-7g", "title": "Applying DevOps practices in Data and ML Engineering | Antoni Ivanov | Conf42 Kube Native 2023" },
+    { "id": "X6Gnp5syLJE", "title": "Empowering Kubernetes Workloads with GraphQL | Akshay Bhat | Conf42 Kube Native 2023" },
+    { "id": "ZTxBUi5YBX4", "title": "Accessibility Testing 101 | Erissa Duvall | Conf42 Kube Native 2023" }
+  ],
+  "playlists": [
+    {
+      "title": "Conf42 Golang 2023",
+      "videos": [
+        { "id": "NEp8QZKi19s", "title": "Premiere - Conf42 Golang 2023" },
+        { "id": "peSUrYj8bhs", "title": "What I learned creating a CLI with Go | Lais Lima | Conf42 Golang 2023" },
+        { "id": "vBDkhEA-Lfs", "title": "Building CLI apps using Go | Abhisek Pattnaik | Conf42 Golang 2023" },
+        { "id": "w31oh7ulXwI", "title": "Building Scalable Applications with GQLGen &amp; AWS Lambda | Durgaprasad Budhwani | Conf42 Golang 2023" },
+        { "id": "g6l7gbrmObo", "title": "goyek - using Go for automation | Robert Pajak | Conf42 Golang 2023" },
+        { "id": "SJGfZ3RU_3Y", "title": "Swiss Army Knife for SaaS Products Build with Go | Huseyin Babal | Conf42 Golang 2023" },
+        { "id": "R3eqwG8wfeE", "title": "Squeezing a go function | Jesus Espino | Conf42 Golang 2023" },
+        { "id": "mLuqyFSyBaU", "title": "Test Driven Development &amp; Golang | Mohammad Quanit | Conf42 Golang 2023" },
+        { "id": "q1p4K5se3jc", "title": "Heap Optimizations for Go Systems | Nishant Roy | Conf42 Golang 2023" },
+        { "id": "ueeS2C9d93k", "title": "Create distributed database on K8s leveraging a monolithic one | Trista Pan | Conf42 Golang 2023" },
+        { "id": "IfL6J_6el7E", "title": "Go and Redis, better together! | Abhishek Gupta | Conf42 Golang 2023" },
+        { "id": "aRsea6FFAyA", "title": "Transaction Management and Repository Pattern | Ilia Sergunin | Conf42 Golang 2023" },
+        { "id": "wGkaYfcHDfs", "title": "Reinventing Speech-to-Text Transcriptions with Go and Whisper | Pratim Bhosale | Conf42 Golang 2023" },
+        { "id": "58JCFkE8BqQ", "title": "golings - a tool for beginners learning golang | Mauricio Antunes | Conf42 Golang 2023" },
+        { "id": "-ngNReCPRLE", "title": "Build a complex app with TDD | Ivan Pesenti | Conf42 Golang 2023" },
+        { "id": "Qzq52ADcBD8", "title": "Let's Go Build Cloud Native Pulsar Apps with Go | David Kjerrumgaard | Conf42 Golang 2023" },
+        { "id": "kmaaeJSuhHQ", "title": "Art of building secure and scalable Webhooks | Marvin Collins Hosea | Conf42 Golang 2023" },
+        { "id": "xDrvwMK9BmQ", "title": "Memory Management in Go: The good, the bad and the ugly | Liam Conroy Hampton | Conf42 Golang 2023" }
+      ]
+    }, {
+      "title": "Conf42 Rustlang 2023",
+      "videos": [
+        { "id": "Ja41H7RWY7I", "title": "Premiere - Conf42 Rustlang 2023" },
+        { "id": "MgaXliEYVCU", "title": "Learn Rust By Building CLI Tools | Jim Lynch | Conf42 Rustlang 2023" },
+        { "id": "2Wr3n7lnre8", "title": "SBB - Secure Building Blocks | Yashwanth Singh M | Conf42 Rustlang 2023" },
+        { "id": "huKvsVp9xIs", "title": "Rust for Java Programmers - a Personal Perspective | Ovidiu Ionescu | Conf42 Rustlang 2023" },
+        { "id": "2CCPeb71KUY", "title": "Deta.Space and Shuttle.rs | Peter Kehl | Conf42 Rustlang 2023" },
+        { "id": "eOe3sxE_AkI", "title": "LanceDB: A OSS serverless Vector Database in Rust | Lei Xu | Conf42 Rustlang 2023" },
+        { "id": "lhk4cSHtduU", "title": "Rust Code Prototyping using XML | John Rexes Murro | Conf42 Rustlang 2023" },
+        { "id": "4MKQmnfWAzs", "title": "Using Rust for Numerical Applications | Felipe Zapata | Conf42 Rustlang 2023" },
+        { "id": "2keh5BniAes", "title": "Turning smart contracts into indexers with cross-compilation | Michael Birch | Conf42 Rustlang 2023" },
+        { "id": "LekPIu5h3QM", "title": "Nuclear Rust | John Darrington | Conf42 Rustlang 2023" },
+        { "id": "CAnNj-cBGxY", "title": "Why should you use Rust for Serverless workloads? | Roman Boiko | Conf42 Rustlang 2023" },
+        { "id": "BE4hjv5IgvI", "title": "Building Safe and Fast Software for the Future | David Oyinbo | Conf42 Rustlang 2023" },
+        { "id": "-fDIPnG6xJc", "title": "Fall in LOVE with Unit Testing! | Joe Skeen | Conf42 Rustlang 2023" },
+        { "id": "BdD8RcNayps", "title": "A journey of Journey Programming Language written by Tester | Atmaram Naik | Conf42 Rustlang 2023" },
+        { "id": "uXieRNrVqdg", "title": "Handling floating point challenges with rust | Prabhat | Conf42 Rustlang 2023" }
+      ]
+    }
+  ]
+}

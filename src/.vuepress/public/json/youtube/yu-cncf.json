@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VPi-VZvJ_d8", "title": "Cloud-native authorization standards" },
+    { "id": "YiwMIB6A2tc", "title": "Open Source Project Goldilocks: How to Right Size Kubernetes Across Multiple Clusters & Teams" },
     { "id": "YNjN8S9P8Ic", "title": "Container Live Migration in Kubernetes Production Environment - Yenan Lang and Hua Liu, Tencent" },
     { "id": "2Sh0iwQV4dw", "title": "Keynote: Cloud Native Platform Engineering for Huawei Mobile Services at Scale - Kevin Wang, Huawei" },
     { "id": "8MJbJo6-Vro", "title": "Enhance Workload QoS with Pluggable and Customizable Smarter Runtimes - Rougang Han & Kang Zhang" },

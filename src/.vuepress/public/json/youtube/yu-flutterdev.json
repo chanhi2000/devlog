@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/vgLcJl1lFuWCA8xvZETUeX8lGg1lk0kO71qTvQ5fSakyjsCsHUQEz3SQSOKtk-GxxY5_ilNm=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "m-jmCkUajQ8", "title": "Observable Flutter #26: Flocking algorithms" },
+    { "id": "MqjCIITfCIA", "title": "Gap (Package of the Week)" },
+    { "id": "jGoPKX6e39Q", "title": "Observable Flutter: Flame + Shaders" },
     { "id": "mp5N0ENPuOw", "title": "Observable Flutter: `Bonfire`" },
     { "id": "PkPAtfNNJX8", "title": "`fl_chart` (Package of the Week)" },
     { "id": "Qw3IjnhTl5w", "title": "`firebase_auth` (Package of the Week)" },

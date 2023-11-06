@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "cAJ76grsERg", "title": "[인프런] 대세는 쿠버네티스 [Helm편] - 배포 개요" },
     { "id": "qH0j90yom6A", "title": "[쿠버네티스 어나더클래스] 첫 오브젝트 잘 끼우기" },
     { "id": "FuFt2Y9gaNg", "title": "[쿠버네티스 어나더클래스] 컨테이너 한방정리" },
     { "id": "UNdCGBnHG6A", "title": "[쿠버네티스 어나더클래스] 데브옵스 한방정리" }

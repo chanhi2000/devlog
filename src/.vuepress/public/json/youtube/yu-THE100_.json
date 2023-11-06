@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/dOpLgcwLsbfDJ246v7XcaMhOQjfOzt84UQGJ_pLeML51fo2oWlcD5LQhvTw_QetjySiOu2rhVg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "l9vqjXmT5Ic", "title": "[플러터플로우FlutterFlow_완전초급_38편](UI개발)위젯편 : Button 버튼 위젯 씹어먹기" },
+    { "id": "eLxKNeUlWao", "title": "[플러터플로우FlutterFlow_완전초급_40편](UI개발)위젯편 : ListTile 리스트타일 위젯 씹어먹기" },
+    { "id": "YwDoUkR9ErM", "title": "[플러터플로우FlutterFlow_완전초급_39편](UI개발)위젯편 : IconButton 아이콘버튼 위젯 씹어먹기" },
+    { "id": "a3EElu9Iakc", "title": "[블렌더 강좌] 모델링 따라하기 : 농구공 만들기 2강" },
+    { "id": "eXXKOtikGfE", "title": "[플러터플로우FlutterFlow_완전초급_41편](UI개발)위젯편 : VideoPlayer 비디오플레이어 위젯 씹어먹기" },
+    { "id": "Soxn2rN7Ajg", "title": "[플러터플로우FlutterFlow_완전초급_42편](UI개발)위젯편 : Calendar 캘린더 위젯 씹어먹기(1/2)" },
+    { "id": "YbXwh5VRivo", "title": "[플러터플로우FlutterFlow_완전초급_43편](UI개발)위젯편 : Calendar 캘린더 위젯 씹어먹기(2/2)" },
+    { "id": "um7VMjCI078", "title": "[플러터플로우FlutterFlow_완전초급_44편](UI개발)위젯편 : Checkbox 체크박스 위젯 씹어먹기" },
+    { "id": "2mqABO7DGVg", "title": "[블렌더 강좌] 모델링 따라하기 : 게임기(스위치) 만들기 2강" },
+    { "id": "qqlZhICr3-4", "title": "[플러터플로우FlutterFlow_완전초급_45편](UI개발)위젯편 : CheckboxListTile 체크박스 리스트타일 위젯 씹어먹기" },
+    { "id": "4KcAGvWYIyk", "title": "[피그마_초급_25강] Component 실습 V" },
     { "id": "QR3FrZSDGZ8", "title": "[플러터플로우FlutterFlow_완전초급_7편](UI개발)위젯편 : 컨테이너 위젯 씹어먹기(1)" }
   ]
 }

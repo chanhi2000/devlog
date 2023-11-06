@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "y4YMXq8OyBU", "title": "Laravel Migrations: Change Foreign Key - Add cascadeOnDelete()" },
+    { "id": "BpawqU-R4vo", "title": "Eloquent: Disable Observers for One Operation" },
+    { "id": "USZui-BLNnk", "title": "Eloquent Model wasRecentlyCreated: Two Examples" },
     { "id": "dXE0NXmsEas", "title": "[Live-Coding] Vue.js Component to Livewire Component" },
     { "id": "ItD8vHan9CA", "title": "PHP/Laravel Service Classes: Their Best Documentation is..." },
     { "id": "ZnVlsjEz79I", "title": "Laravel: \"Fallback\" Route to Cover \"Any Other Route\"" },

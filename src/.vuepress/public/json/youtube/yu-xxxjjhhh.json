@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ov84EoU0KAE", "title": "스프링 시큐리티 3 : Security Config 인가 작업" },
+    { "id": "qnDdx8XdKwY", "title": "스프링 시큐리티 2 : 프로젝트 생성" },
+    { "id": "y0PXQgrkb90", "title": "스프링 시큐리티 1 : 실습 목표 및 간단한 동작 원리" },
     { "id": "fBzR6DqP5jk", "title": "Spring boot jar build and AWS EC2 deployment" },
     { "id": "eC62nLMEO9M", "title": "Start a Spring Boot project" },
     { "id": "EpOZuN3-yrk", "title": "Spring WebFlux R2DBC MySQL database single connection" },

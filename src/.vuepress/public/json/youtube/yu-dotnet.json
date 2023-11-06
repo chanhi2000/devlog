@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3r7bR5ZEJp4", "title": "On .NET Live - Build your own ChatGPT with .NET and Azure Open AI" },
     { "id": "GGDv_p4LAL8", "title": ".NET Data Community Standup - Size doesn't matter: Smaller features in EF8" },
     { "id": "Qa5227uE3G8", "title": "Burke Learns Blazor - Custom Validation with Blazor Forms" },
     { "id": "M91ztfDpAbw", "title": "On .NET Live - Making e-commerce modern and performant with nopCommerce and .NET" },

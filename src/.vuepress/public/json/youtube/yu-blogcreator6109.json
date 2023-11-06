@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "o7SszQLAvOE", "title": "쉽고 빠르게 배우는 vue.js 강의 6-2] Notion 데이터 불러오기" },
+    { "id": "d9ZlaEilxto", "title": "쉽고 빠르게 배우는 vue.js 강의 7-1] Props" },
+    { "id": "PpE5nFVuZLQ", "title": "쉽고 빠르게 배우는 vue.js 강의 7-2] Emits" },
     { "id": "xPokYVoNJEE", "title": "쉽고 빠르게 배우는 vue.js 강의 2-1] Vue js 시작하기" },
     { "id": "ly8N8ZDeC2k", "title": "Vue.js 강의 - Template refs" },
     { "id": "OsPiT8w_aG4", "title": "쉽고 빠르게 배우는 vue.js 강의 2-4] 반응성 (Reactivity)" },

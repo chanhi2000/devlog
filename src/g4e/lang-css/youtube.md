@@ -18,7 +18,7 @@ tags: ["education", "youtube", "programming", "css"]
 <MyYouTubeItems jsonName="yu-OnlineTutorialsYT" /><!-- Online Tutorials -->
 <MyYouTubeItems jsonName="yu-ExternCode" /><!-- Extern Code -->
 <MyYouTubeItems jsonName="yu-ZeroToMastery" /><!-- Zero To Mastery -->
-<MyYouTubeItems jsonName="yu-ezweb" /><!-- Rock's Easyweb -->
+<MyYouTubeItems jsonName="yu-Ezweb" /><!-- Rock's Easyweb -->
 <MyYouTubeItems jsonName="yu-codingSeller" /><!-- 코딩셀러 - Build and Sell -->
 <MyYouTubeItems jsonName="yu-garnattione" /><!-- garnatti one -->
 <MyYouTubeItems jsonName="yu-FedericoTerzi" /><!-- Federico Terzi -->

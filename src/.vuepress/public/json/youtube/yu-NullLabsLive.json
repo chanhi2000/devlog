@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "NullLabsLive",
+    "name": "Null Labs Live",
+    "profile": "https://yt3.googleusercontent.com/cqeHQx79wKAvlssnpJEyUYIbLksTBMjjWX0nQI09x6YAtNCqng_HaORo9SEMYiBKDqD-L9PAMWU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q84FWO400IM66e8T6PdgtDstw8SWhI_mUHQAwnQV6uK7I1xdsFfA2tYwddSY3vGQn7Xq4VIa1A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fJxGZkA4GE0", "title": "Rust k8s operator?" },
+    { "id": "N2gQqv5ewHo", "title": "rust or go k8s operator? - Eddington work today!" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "bytepancake3157",
+    "name": "Byte Pancake",
+    "profile": "https://yt3.googleusercontent.com/njX9BLXgplkC-wNVYcvl45SVAJD82GXSUg3f6pEiVYRWC9IdxK5-_CT3sQxkPB-FUeRFx5eEDQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "`https://yt3.googleusercontent.com/PASChkTSjZCq2c4yL3XggAtPQDzgq2jS7ORDc8vdGABqqLE8Ge0Gw6r2Hg8YPaIqTp7xFoRwfw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "shPAAtaGHCs", "title": "초보자를 위한 도커 스웜(Docker Swarm): 간편한 컨테이너 관리" },
+    { "id": "vhWUKuBT6pY", "title": "도커 (Docker) 저는 이렇게도 사용해봤습니다." },
+    { "id": "7AgWz8KKskE", "title": "개발자를 위한 9가지 필수 GitHub 저장소| 지금 생산성을 높여 보시는건 어떨까요?" }
+  ]
+}

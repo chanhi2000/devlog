@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/6KvN7bDdsHntrGF8wDcpbY5HyhjgPGnPklLiV1ezPSyfMVBPE2ACEnULz58LUGSDfEe6u-aGJQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "B5Kh0kZ-gA8", "title": "The Worst React Code!" },
     { "id": "J9sfR6HN6BY", "title": "Next.js Projects:  Build a Full-stack App with Next.js, Tailwind, Radix UI, and Prisma" },
     { "id": "SqcY0GlETPk", "title": "React Tutorial for Beginners" }, 
     { "id": "_uQrJ0TkZlc", "title": "Python Tutorial - Python Full Course for Beginners" }, 

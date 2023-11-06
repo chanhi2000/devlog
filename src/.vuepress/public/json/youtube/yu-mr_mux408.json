@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/TK6ZFEzhZ9soL-QiEgHMJzwbBkZrHotXcm-w9-_hD0YIMqVKnOQRoeaiSPuD98lzQBLWYi8Law=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rQPnlvytMYU", "title": "Setup Neovim Fast with Awesome Results" },
     { "id": "8uiZC0l4Ajw", "title": "Learn GO Fast: Full Tutorial" }
   ]
 }

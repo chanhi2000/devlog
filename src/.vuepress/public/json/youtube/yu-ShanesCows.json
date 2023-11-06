@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-IIo0fQaudHhJhJxlRbO0R8WM62cGhN7kxJPeqjttKADE7-Kp5v5RZIDCB16nA6CK3grwcXeMbI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vpjf5mD-COs", "title": "Use the Power Automate v2 Trigger for Power Apps" },
     { "id": "d8hT604YD3Q", "title": "Power Automate Copilot deep dive and the new UI" },
     { "id": "KD_FnyqH3Lo", "title": "Turn Excel into an App with Copilot Magic" }, 
     { "id": "W8JjF2k0IQA", "title": "Saving Power Apps Data with the Patch Function" }, 

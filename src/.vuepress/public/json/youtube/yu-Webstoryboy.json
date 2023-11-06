@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/cfwp8fGBFmn9VMB_oQQAMYzXH0D424LhuwesXLzB4gqTg5zhe5K3GbK_mF8GwUZgkQoVlwxgMiM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BFRV2LXb6HI", "title": "10 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 페이지 SEO 작업 | 리액트 | Node.js" },
+    { "id": "x0y9A9qhgk8", "title": "12 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 추천 영상 작업 | YouTube API | 리액트 사이트" },
+    { "id": "z8h7FoJ4xx0", "title": "13 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 추천 개발자 작업 | 유튜브 사이트 | 리액트 사이트" },
+    { "id": "O0xeh6UOzjw", "title": "14 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 메인 섹션 나머지 콘텐츠 작업 | 프론트앤드 개발자 포폴" },
+    { "id": "7kvEG5Pst5w", "title": "15 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 비디오 컴퍼넌트 통합 작업 | 프론트앤드 개발자 포폴" },
     { "id": "nYp9Itw0jko", "title": "03 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : Git 연동하기 | 리액트(React) 배우기" },
     { "id": "j4S3Uw-L3xI", "title": "04 리액트(React.js)로 나만의 유튜브 사이트 만들기 : SCSS 셋팅하기 | 리액트에서 SCSS 사용하기" },
     { "id": "59lkbssnsPI", "title": "05 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 페이지 만들기 | 프론트엔드 포트폴리오" },

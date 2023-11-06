@@ -143,6 +143,13 @@ tags: ["c", "llvm"]
 
 - [Appending to an std::string character-by-character: how does the capacity grow?](https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/)
 
+---
+
+## Beej
+
+- [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
+
+---
 
 ## Misc.
 

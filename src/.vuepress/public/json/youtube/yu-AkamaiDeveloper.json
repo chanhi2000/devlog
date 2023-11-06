@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3EIr9TfMyUY", "title": "Securing Your Terraform Configuration | Best Practices for Managing Sensitive Data" },
+    { "id": "Bht9wBzyr3o", "title": "How to Effortlessly Sync Cloud Files with Rclone and S3 Storage" },
     { "id": "sF3iY74JpVI", "title": "Creating a Compute Instance with the Linode Terraform Provider | Working With IaC Episode 1" },
     { "id": "Xp4DcqJNLvw", "title": "Simplify Container Orchestration with Nomad and Terraform | A Comprehensive Tutorial" },
     { "id": "52Ysixmqt5M", "title": "Build your Own ChatGPT Clone with Django and Postgres | Part 1 of 2" },

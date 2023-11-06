@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/jQgjRgKrlTCsvPutD-0HOCxBqMXt-GoU_h7pZkk55iOd-ju1qiSuo-SO90yPP83UizA7qR5a=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RO7elSlt6xI", "title": "5 AWESOME DOCKER CONTAINERS for Synology NAS and homelabing" },
     { "id": "9gkSppGRT9w", "title": "Ransomware Protection: The Complete Guide for Synology NAS" },
     { "id": "yQFuJJqqWbc", "title": "How to Backup MacOS to Synology NAS using Time Machine (easy)" },
     { "id": "ci5agOkoXuI", "title": "Sync Google Drive / Dropbox to your Synology NAS - Cloud Sync Tutorial" },

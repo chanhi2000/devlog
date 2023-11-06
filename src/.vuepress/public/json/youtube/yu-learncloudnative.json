@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/fbvy650wx4_QRT8rtU1rn6MSGt_vIrdyVE73lsh6EVmnx_fsnWF1v_NLSDk9NiS8ee4GSnOF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hkgLxhrjfUE", "title": "Top 4 Kubernetes kind scenarios" },
+    { "id": "xfdukgntbqY", "title": "Building a demo for KubeCon 2023" },
     { "id": "q7b23612pSc", "title": "Writing Kubernetes Controllers" },
     { "id": "_sDPCUWkcGg", "title": "Rapid microservices development with Kubernetes and Signadot" }
   ]

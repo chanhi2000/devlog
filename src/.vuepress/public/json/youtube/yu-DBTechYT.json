@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ffSK0QzAAE2CL7MYxZvPGLL2x3wue7v-IhpkLAz2wg_M8zuqhZaQawwiFKVsXEFvh5nfWZXfdQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xqrBpVgsNiI", "title": "Docker Container Security: Scanning for Vulnerabilities with Trivy (Correction in Description)" },
+    { "id": "kHsdriby4PE", "title": "First Look at ZimaOS (Beta) from IceWhale (CasaOS)" },
     { "id": "LYtG7pFewMQ", "title": "The Benefits of Self-Hosting Your Applications at Home" },
     { "id": "hLolJaKVYlI", "title": "Effortless Collaboration: Deploying HedgeDoc with Docker" },
     { "id": "fao6hTldEHI", "title": "Host Your Own Chat Server with VoceChat and Docker" },

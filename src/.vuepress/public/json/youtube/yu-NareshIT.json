@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/mckDAqaGXh1nQIICPGODbFWM44y7IY9tGAT2LYbR_m2XNWCNNkHNdnD-AQDZrV7RFWEPWB73=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tw0UCEePROY", "title": "Introduction to Full Stack Python Developer | by Mr. K V Rao | Naresh IT" },
+    { "id": "PTORISdPQ9Y", "title": "Workshop on Spring Boot Monitoring and Management @ 9:00 AM (IST) By Mr.Srinivas on 29th October." },
     { "id": "VY3LWuDX2l0", "title": "Azure DevOps & Azure Services (App Services Deployment Through Different Ways)" },
     { "id": "f1V9pBzE8oE", "title": "Full Stack Python Training" }, 
     { "id": "_A7yBhW8Fx4", "title": "Logging in Spring Boot Applications | Mr. Nataraj | Naresh IT" },

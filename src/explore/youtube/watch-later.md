@@ -18,7 +18,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-lukemiani" /><!-- Luke Miani -->
 <MyYouTubeItems jsonName="yu-NovaspiritTech" /> <!-- Novaspirit Tech -->
 <MyYouTubeItems jsonName="yu-tongguni" /><!-- 통구니TV -->
-<MyYouTubeItems jsonName="yu-HoneyHome_Tip" /><!-- 집구석구석꿀팁, 집꿀 Honey Home Tip -->
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 <MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->
@@ -37,54 +36,37 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-nnit" /><!-- 누나IT -->
 <MyYouTubeItems jsonName="yu-mediacccde" /><!-- mediacccde -->
 <MyYouTubeItems jsonName="yu-WizcenterSeoul" /><!-- SEOUL G-캠프 -->
-<MyYouTubeItems jsonName="yu-ayshh" /><!-- 아영이네 행복주택 -->
 <MyYouTubeItems jsonName="yu-yalco-coding" /><!-- 얄팍한 코딩사전 -->
 <MyYouTubeItems jsonName="yu-ContenJoo" /><!-- 콘텐주 -->
 <MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
 <MyYouTubeItems jsonName="yu-interviewingio" /><!-- interviewing.io -->
 <MyYouTubeItems jsonName="yu-goldenmanual" /><!-- 황금설명서 -->
 <MyYouTubeItems jsonName="yu-TV-bk8fv" /><!-- 김노무사 -->
-<MyYouTubeItems jsonName="yu-3protv" /><!-- 삼프로TV_경제의신과함께 -->
 <MyYouTubeItems jsonName="yu-NaNyunJae" /><!-- 남중구의 IT강의 -->
-<MyYouTubeItems jsonName="yu-9buyrithm" /><!-- 구매리즘 -->
-<MyYouTubeItems jsonName="yu-1under" /><!-- 1분미만 -->
 <MyYouTubeItems jsonName="yu-MattKC" /><!-- MattKC -->
 <MyYouTubeItems jsonName="yu-AnsonAlexander" /><!-- Anson Alexander -->
 <MyYouTubeItems jsonName="yu-techmong" /><!-- 테크몽 Techmong -->
 <MyYouTubeItems jsonName="yu-Keybored" /><!-- Keybored -->
-<MyYouTubeItems jsonName="yu-gwigom" /><!-- 귀곰 -->
 <MyYouTubeItems jsonName="yu-kundol" /><!-- 큰돌의터전 -->
 <MyYouTubeItems jsonName="yu-SpaceRexWill" /><!-- SpaceRex -->
 <MyYouTubeItems jsonName="yu-kevinfaang" /><!-- Kevin Fang -->
-<MyYouTubeItems jsonName="yu-studian365" /><!-- 스터디언 -->
 <MyYouTubeItems jsonName="yu-ETAPRIME" /><!-- ETA PRIME -->
 <MyYouTubeItems jsonName="yu-BudgetNerd" /><!-- Budget Nerd -->
 <MyYouTubeItems jsonName="yu-TechTalkAmerica" /><!-- Tech Talk America -->
 <MyYouTubeItems jsonName="yu-techwiser" /><!-- TechWiser -->
 <MyYouTubeItems jsonName="yu-techdojang" /><!-- 테크도장 -->
-<MyYouTubeItems jsonName="yu-salimtalk" /><!-- 살림톡 -->
-<MyYouTubeItems jsonName="yu-salim_nam" /><!-- 살림남 The Life -->
-<MyYouTubeItems jsonName="yu-spring_butler" /><!-- 봄집사 -->
-<MyYouTubeItems jsonName="yu-salimlog" /><!-- 살림로그_살림을 기록하다. -->
 <MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
 <MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
 <MyYouTubeItems jsonName="yu-9diin" /><!-- 구디사는 개발자 9Diin -->
+<MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
+<MyYouTubeItems jsonName="yu-TheoriTV" /><!-- 티오리티비 TheoriTV -->
+<MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 
 <TagLinks />
 
-[yu-user-gn6zi9xy8q]: https://www.youtube.com/@user-gn6zi9xy8q
 [yu-linkedinlearning]: https://www.youtube.com/@linkedinlearning
-[yu-senior-mars-tries]: https://www.youtube.com/@SeniorMarsTries
-[yu-developerfilip]: https://www.youtube.com/@developerfilip
-[yu-codingwithmat]: https://www.youtube.com/@codingwithmat
-[yu-codeonthebeach]: https://www.youtube.com/@codeonthebeach
-[yu-jocoding]: https://www.youtube.com/@jocoding
-[yu-codebubb]: https://www.youtube.com/@codebubb
 [yu-systems-w-jt]: https://www.youtube.com/@SystemsWithJT
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
-[yu-tech-gumbo]: https://www.youtube.com/@TechGumbo
-[yu-go-cloud-architects]: https://www.youtube.com/@GoCloudArchitects
-[yu-seoulian]: https://www.youtube.com/@seoulian
 [yu-michael-cade]: https://www.youtube.com/@MichaelCade1
 [yu-IB9696]: https://www.youtube.com/@IB9696
 [yu-doctor-code]: https://www.youtube.com/@DoctorCode9
@@ -108,7 +90,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-leigh-halliday]: https://www.youtube.com/@leighhalliday
 [yu-soja0524]: https://www.youtube.com/@soja0524
 [yu-codingwithusman7]: https://www.youtube.com/@codingwithusman7
-[yu-android-developers]: https://www.youtube.com/@AndroidDevelopers
 [yu-user-nq5st4fy5n]: https://www.youtube.com/@user-nq5st4fy5n
 [yu-alexandrugutan7587]: https://www.youtube.com/@alexandrugutan7587
 [yu-wizcenter-seoul]: https://www.youtube.com/@WizcenterSeoul
@@ -133,7 +114,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-mraible]: https://www.youtube.com/@mraible
 [yu-theswiftdevelopers1301]: https://www.youtube.com/@theswiftdevelopers1301
 [yu-gergoooooooooooooooo]: https://www.youtube.com/@gergoooooooooooooooo
-[yu-code-android]: https://www.youtube.com/@CodeAndroid
 [yu-learncodeacademy]: https://www.youtube.com/@learncodeacademy
 [yu-bigmtnstudio]: https://www.youtube.com/@bigmtnstudio
 [yu-user-wo1ft8xx3y]: https://www.youtube.com/@user-wo1ft8xx3y

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/niWp9bo485G9J1j5R7UPGkdYoaCqRomRdj-Q4oIzvbBjVxZZXCAky8bAMTQXakFksfnqkMtTMeI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "305cmNUs_Rs", "title": "VUE CI/CD" },
+    { "id": "-npO-iEIVMI", "title": "keep-alive" },
+    { "id": "kk6VY45hgas", "title": "`useSyncExternalStore`을 친절하게 알려주는 유튜버가 있다고?" },
+    { "id": "41tFNtwWE3o", "title": "10분만에 리엑트 쿼리 왜쓰는지 이해하기" },
+    { "id": "LN-L875TJkg", "title": "Vuex namespace 사용하여 모듈간 충돌 최소화하기 (Vue2 마지막)" },
+    { "id": "qmFQ14qmR68", "title": "Vuex 사용하여 전역상태 관리하기" },
     { "id": "rwZfRKs84lM", "title": "Vue2를 사용하며 마주하는 사소한 문제들" },
     { "id": "3v5Y9AtzCrs", "title": "Single File Component, project setup" },
     { "id": "UBzELzqcgAk", "title": "debounce 사용할 때 주의해야 하는 점 (Vue2)" },

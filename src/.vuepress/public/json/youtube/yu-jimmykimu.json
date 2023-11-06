@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/2q_KMTtTi_KzLgbiz1iiSu7TXAhvLa7QIvlhvs-73plWNI-WcqO2YJhSL75f4muRuABOhqeemAE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bw7J9eL7csg", "title": "심플 QR 코드 생성기 만들기 / tailwindcss" },
+    { "id": "eA_u3Fk_qLA", "title": "CSS: z-index와 isolation 속성 | Stacking Context" },
     { "id": "0UtY-8AnMDc", "title": "[JS] Media Slider 이미지, 동영상 슬라이더 | JSON 연동" },
     { "id": "JZPjhB-btBQ", "title": "[시작이반] tailwindcss 기초: 컴파일 설정" },
     { "id": "2akUwth48oM", "title": "자바스크립트 - 비동기, Promise, async/await: 순차적인 실행과 일괄처리, IIFE, Promise.all" },
@@ -21,6 +23,3 @@
     { "id": "kG693VyzgRI", "title": "Unity Recipes | Coroutine 코루틴" }
   ]
 }
-
-
-
