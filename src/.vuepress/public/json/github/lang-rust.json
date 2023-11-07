@@ -799,6 +799,11 @@
     "desc": "Fast, collaborative live terminal sharing over the web",
     "officialSite": "https://sshx.io",
     "topics": ["collaborative", "rust", "share", "ssh", "terminal", "tty", "web"]
+  }, {
+    "repo": "qdrant/qdrant",
+    "desc": "Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "officialSite": "https://qdrant.tech",
+    "topics": ["approximate-nearest-neighbor-search", "embeddings-similarity", "hacktoberfest", "hnsw", "image-search", "knn-algorithm", "machine-learning", "matching", "mlops", "nearest-neighbor-search", "neural-network", "neural-search", "recommender-system", "search", "search-engine", "search-engines", "similarity-search", "vector-database", "vector-search", "vector-search-engine"]
   }
 ]
 

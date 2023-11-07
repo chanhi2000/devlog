@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/_pZydqxiDpztopjEnxADuUml4ec_MR5Ls02bGclan0ngkqJQaKnY2jKuXHB23VTswx8BR3YZ9xo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ACactyXyDEg", "title": "Neovim is a Journey" }, 
+    { "id": "0hrhtdlxapA", "title": "System Tweaking and Windows 23H2 Testing" }, 
+    { "id": "dzaVTJyPrQg", "title": "Computer Updates" }, 
+    { "id": "zLkWGLEOiI8", "title": "Debloating Android" }, 
+    { "id": "j13e5DObH4o", "title": "Creating a Lutris Install Script" }, 
     { "id": "_D6rYGQARUw", "title": "WinUtil October Update" },
     { "id": "51zYz4CMGgA", "title": "Why RedHat is BAD" },
     { "id": "_iyDQfoRnbc", "title": "Android Emulation on PC (Broken Right Audio)" },

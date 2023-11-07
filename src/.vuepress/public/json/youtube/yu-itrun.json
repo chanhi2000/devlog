@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "rR_fcU60UIk", "title": "12_EVE를 이용한 HSRP(Router) 실습-1" }, 
+    { "id": "xvrp2SVW7Fs", "title": "14_EVE를 이용한 HSRP(L3 Switch) 실습-3(VLAN 로드 분산)" }, 
+    { "id": "xX5JC-4ccDQ", "title": "13_EVE를 이용한 HSRP(Router) 실습-2(VLAN 로드 분산)" }, 
     { "id": "mSYGCpIZTNw", "title": "02_VLAN" },
     { "id": "tZkVMfDm2Y0", "title": "07_AWS CloudFormation" },
     { "id": "5d0Mwc8Df18", "title": "08_AWS VPC 네트워크" },

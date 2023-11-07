@@ -1009,5 +1009,15 @@
     "desc": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "championswimmer/onepixel_backend",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "kubero-dev/ladder",
+    "desc": "Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+    "officialSite": "",
+    "topics": ["bypass", "cors", "cors-proxy", "paywall", "paywall-blocker", "paywall-bypasser"]
   }
 ]

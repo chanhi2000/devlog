@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "D7dnDaZhaoo", "title": "[개발환경구축] Colab and Github" }, 
+    { "id": "dIY0XtHFIkw", "title": "[mojo] SIMD" }, 
     { "id": "XVEXTTT1Hbk", "title": "[mojo] Parameter and Argument" },
     { "id": "C1xQnbZ-aoQ", "title": "[개발] git 14 - gitlab 서비스 서버 구축하기 (docker 사용)" },
     { "id": "D7dnDaZhaoo", "title": "[개발환경구축] Colab and Github" },

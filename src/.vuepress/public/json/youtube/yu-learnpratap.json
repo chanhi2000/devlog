@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/eOCOT9fdS1UAyqvrMMMdze-mcCviV6kcs3t9EQV6N9bkBj50uNt_fAzeUtEvwvkCLXBjWQB6saM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "M3qklixb7ok", "title": "ToDo App in Flutter - Tutorial for Beginners | Pratap Sharma | Part 1" }, 
+    { "id": "5j1NYNnbxp0", "title": "Flutter Todo App using Hive Database - Tutorial for Beginners | Pratap Sharma" }, 
     { "id": "-LupcI8FOtg", "title": "Course Outline for Building REST APIs with Flask and Python in 2023 : Learn with Pratap" },
     { "id": "wwAl62P2Gz8", "title": "Let’s build a TODO App with Bun, HTMX and Pico 2023 | Learn with Pratap" },
     { "id": "KUqeFP1v0go", "title": "JWT Authentication in Bun: A Comprehensive Guide | Learn with Pratap" }

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/in4dPUMuyvgvMG6mdJXA3-ZPTtlWn2HqCk0FGfdV8fNHIIJ8DhcP0C3Fk1pQZVpkoMO_dLQqkg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4ZFypGpGfAo", "title": "ChatGPT Learns the Rust Programming Language" }, 
+    { "id": "WYuhJzngfVc", "title": "How Hackers Hide From Memory Scanners" }, 
     { "id": "cl94KRdJRxw", "title": "Hacking Websites: NodeJS Server-Side Template Injection" },
     { "id": "i68atPbB8uQ", "title": "this Cybersecurity Platform is FREE" },
     { "id": "sZ22YulJwao", "title": "I Stole a Microsoft 365 Account. Here's How." },

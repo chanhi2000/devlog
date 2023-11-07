@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "9GAt97z8Jc4", "title": "Learn React Hooks: useLayoutEffect - Simply Explained!" }, 
     { "id": "Qmmy6HU26mo", "title": "Ref callbacks in React" },
     { "id": "NngvFclfdgI", "title": "Setup VSCode like a senior React developer" },
     { "id": "7CTHhfRmfQI", "title": "Optimise React by relocating state" },

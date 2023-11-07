@@ -6,7 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-YGdX6fT3R2paQngKFyRe0VX74f24_JQG-MtHXxPVqAKzKyP7554ARzUpnnvL9aIOv9aap3z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "yQLYpB7p3hA", "title": "VirtualBox 에 Oracle Linux 8.7 설치, 외부에서 게스트서버 접속" },
+    { "id": "yQLYpB7p3hA", "title": "VirtualBox 에 Oracle Linux 8.7 설치, 외부에서 게스트서버 접속" }, 
     { "id": "nEdHN4UXsyM", "title": "CTF, TAF, TAC 비교 차이점 설명" }
   ],
   "playlists": [

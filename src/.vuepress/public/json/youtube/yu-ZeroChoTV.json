@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/zbGnT0VkoezJIWaoEyLz0mCzkcD8tBbJB0bXgg-j4zB43-d6unyWDWcMbcKYqTw3n8sn7Nk30ls=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bpgeAGJ7_Ig", "title": "(X.com)트위터 클론 코딩의 장단점" }, 
+    { "id": "yhu-hBl5bIw", "title": "Next 14 강좌가 곧 출시됩니다! (React-Query@5, MSW@2, Next-Auth@5, 서버 액션 포함!!)" }, 
     { "id": "pDuQ5BV1oSs", "title": "제로초의 시그니처 강좌 Next 13 App Router 시작!" },
     { "id": "Y_vYuy9HFys", "title": "Next13 App Router - X.com 클론코딩 화면 똑같게!" },
     { "id": "wYfsSe0P9ew", "title": "Next13 App Router - 클론코딩 마지막 라이브!" },

@@ -128,6 +128,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-java-android/README.md',
         '/g4e/lang-java-android/adb.md',
+        '/g4e/lang-java-android/proguard.md',
         '/g4e/lang-java-android/tips.md',
         '/g4e/lang-java-android/troubleshooting.md',
         '/g4e/lang-java-android/snippets-kotlin.md',

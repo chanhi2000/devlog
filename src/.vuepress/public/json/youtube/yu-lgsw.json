@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/3M0XEYS8LAxTWq5yTcZ6Bbwl1rQzgwuSNg2nUoyLDmpauX1qpQe_uZCrysIfSc4ukbVJg1cv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "V8lVH4-0AzE", "title": "24편 kNN Classification" }, 
+    { "id": "RN5Ph2ZTl08", "title": "23편 kNN Regression" }, 
+    { "id": "uY1wfN_TMLE", "title": "25편 Classification 성능평가 지표" }, 
     { "id": "Ii0CRi1JvAM", "title": "16편 Save and Load model" },
     { "id": "R0R0oWJRYHc", "title": "15편 Data Sampler Bootstrap" },
     { "id": "t2YoJINsYwk", "title": "14편 Data Sampler Fixed sample and Over sampling" },

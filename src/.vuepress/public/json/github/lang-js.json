@@ -1691,9 +1691,9 @@
     "topics": ["chinese", "clash", "clash-chinese", "shadowsocks", "windows", "zh-cn"]
   }, {
     "repo": "idurar/idurar-erp-crm",
-    "desc": "IDURAR Open Code Source ERP CRM | Node Js React AntD MERN",
+    "desc": "IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN",
     "officialSite": "https://idurarapp.com/demo/",
-    "topics": ["accounting", "accounting-software", "crm", "crm-platform", "crm-system", "erp", "erp-app", "erp-application", "erp-software", "invoice", "invoice-management", "invoice-software", "invoicing", "invoicing-application", "invoicing-software", "mern-project", "mern-stack", "open-source-crm", "open-source-erp", "react-project"]
+    "topics": ["accounting", "accounting-softwapre", "crm", "crm-platform", "crm-system", "erp", "erp-app", "erp-application", "erp-software", "invoice", "invoice-management", "invoice-software", "invoicing", "invoicing-application", "invoicing-software", "mern-project", "mern-stack", "open-source-crm", "open-source-erp", "react-project"]
   }, {
     "repo": "nz-m/SocialEcho",
     "desc": "Social networking platform with automated content moderation and context-based authentication system",
@@ -1704,5 +1704,10 @@
     "desc": "A video series on chai aur code youtube channel",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "kennyfrc/cami.js",
+    "desc": "A minimalist & flexible toolkit for interactive islands & state management in hypermedia-driven web applications.",
+    "officialSite": "",
+    "topics": ["lit-html", "reactivity", "state-management", "vanilla-javascript", "vanilla-js", "vanillajs"]
   }
 ]

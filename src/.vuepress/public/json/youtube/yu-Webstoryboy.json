@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/cfwp8fGBFmn9VMB_oQQAMYzXH0D424LhuwesXLzB4gqTg5zhe5K3GbK_mF8GwUZgkQoVlwxgMiM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MD4X56S3h0Q", "title": "16 리액트(React.js)로 나만의 유튜브 사이트 만들기 : Swiper 이미지 슬라이드 작업 | 리액트 프론트앤드" }, 
+    { "id": "bOch_BC8GR0", "title": "17 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 나머지 페이지 작업 | Youtube Site | React Site" }, 
+    { "id": "OSaxhjgHE50", "title": "18 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 검색 및 유튜브 API 설정하기 | Youtube API" }, 
+    { "id": "0dS91ljcOdU", "title": "19 리액트(React.js)로 나만의 유튜브 사이트 만들기 : Rapid API 및 더보기 설정하기" }, 
+    { "id": "3DaT04GrF9I", "title": "20 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 비디오 상세 페이지 만들기 | 유튜브 사이트 만들기" }, 
     { "id": "BFRV2LXb6HI", "title": "10 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 페이지 SEO 작업 | 리액트 | Node.js" },
     { "id": "x0y9A9qhgk8", "title": "12 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 추천 영상 작업 | YouTube API | 리액트 사이트" },
     { "id": "z8h7FoJ4xx0", "title": "13 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 추천 개발자 작업 | 유튜브 사이트 | 리액트 사이트" },

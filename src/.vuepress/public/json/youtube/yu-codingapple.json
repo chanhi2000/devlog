@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "aaendvL3OEU", "title": "10초만에 웹디자인 다 해주는 AI" }, 
     { "id": "ZibkMbbDT5c", "title": "수학포기자들은 코딩하면 큰일남" },
     { "id": "YHswt4VCeJs", "title": "님들이 FPS 게임을 못하는 이유 : Netcode를 몰라서" },
     { "id": "a8uPDppckQk", "title": "Bun 서버가 4배 빠르다는건 진짜인가 (vs Node.js)" },

@@ -280,11 +280,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "imoneoi/openchat",
-    "desc": "OpenChat: Less is More for Open-source Models",
-    "officialSite": "https://huggingface.co/openchat/openchat",
-    "topics": ["open-source", "transformers", "large-language-models"]
-  }, {
     "repo": "unlearning-challenge/starting-kit",
     "desc": "Starting kit for the NeurIPS 2023 unlearning challenge",
     "officialSite": "https://unlearning-challenge.github.io",

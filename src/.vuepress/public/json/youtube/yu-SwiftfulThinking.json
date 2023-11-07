@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/tjorkp81XrPpHKVlDcQTfKSw4-xGjagaGJMXVCvz1-gV2oFrt1fghNsi8MeZah2HrDvD7T0SWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bW7N8ACCc6A", "title": "How to use Popover modifier in SwiftUI | Bootcamp #69" }, 
+    { "id": "7BAW70amSCA", "title": "How to use AnyLayout in SwiftUI | Bootcamp #70" }, 
     { "id": "hiOjTJgl6GU", "title": "How to use Subscripts in Swift | Advanced Learning #32" },
     { "id": "ZmXp6Pd5Elg", "title": "How to use TimelineView in SwiftUI | Advanced Learning #26" },
     { "id": "K91rKH_O8BY", "title": "Create custom Bindings in SwiftUI | Advanced Learning #27" },

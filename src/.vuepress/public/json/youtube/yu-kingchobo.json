@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "8kZDx8MnnxM", "title": "55. Laravel 기초, 라라벨 부트캠프 글삭제하기" }, 
+    { "id": "5kWu-qMIYO8", "title": "124. and 와 &amp;&amp; 연산자는 같을까?" }, 
+    { "id": "zun40BxCzYU", "title": "2. tailwindcss 세팅하기" }, 
+    { "id": "b8o7c88kX60", "title": "3. tailwindcss 글자색, 진하기, 투명도 변경" }, 
     { "id": "R5tO9agvaOs", "title": "47. Laravel 기초, 제트스트림 CRUD, 플래시 메시지 띄우기" },
     { "id": "1mEtzZAzEzo", "title": "49. Laravel 기초, 라라벨 부트캠프 브리즈 설치하기" },
     { "id": "1x-KrmwGf4M", "title": "50. Laravel 기초, 라라벨 부트캠프 회원전용페이지, 헬로월드 출력" },

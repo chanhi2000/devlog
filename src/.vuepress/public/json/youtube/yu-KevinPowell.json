@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/HsOID_2Ri-jtwLjcRyT6c0CqH9hmSJgJDhmlcFPID77EtAZKZSwCjlWOLN9I4vEM1kmzrTszWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "345V2MU3E_w", "title": "A better image reset for your CSS" }, 
+    { "id": "vYAYrnNrZqA", "title": "CSS animation keyframe tips" }, 
+    { "id": "c13gpBrnGEw", "title": "A new approach to container and wrapper classes" }, 
     { "id": "6aHKdahOfCc", "title": "One of the most common CSS issues people run into" },
     { "id": "Qj0Qx8HpNUo", "title": "True parallax with CSS-only is now possible" },
     { "id": "kmFr_8U81vU", "title": "A simple approach to layouts when going from design to code" },

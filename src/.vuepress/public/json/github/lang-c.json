@@ -539,5 +539,20 @@
     "desc": "NRSC-5 receiver for rtl-sdr",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "xmrig/xmrig",
+    "desc": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+    "officialSite": "https://xmrig.com/",
+    "topics": ["argon2", "cpuminer", "cryptocurrency", "cryptonight", "miner", "monero", "randomx", "xmr", "xmrig"]
+  }, {
+    "repo": "lone-lang/lone",
+    "desc": "The standalone Linux Lisp",
+    "officialSite": "",
+    "topics": ["freestanding", "freestanding-application", "freestanding-environments", "linux", "linux-shell", "lisp", "lisp-interpreter", "programming-language", "standalone", "standalone-executables"]
+  }, {
+    "repo": "kekcleader/FreeOberon",
+    "desc": "Cross-platform IDE for development in Oberon programming language made in the classical FreePascal-like pseudo-graphic style.",
+    "officialSite": "",
+    "topics": ["compiler", "console-visualization", "cross-platform", "graphics-programming", "gui-application", "gui-programming", "ide", "libsdl2-dev", "linux", "oberon", "pascal", "programming-language", "retro", "terminal-emulator", "text-editor", "turbo-c", "turbo-pascal", "windows"]
   }
 ]

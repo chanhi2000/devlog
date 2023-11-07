@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/eXhc6XaYdmPLtX7A8XV4eQ9wyAvy9x_QkhaaieRxvFplh3_VayzkyDLS2nhMRF67jScpBxMcGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lGULtrZqk-c", "title": "JPA Auditing for Spring boot and Spring Security" }, 
     { "id": "E03Q77IgU9g", "title": "🚀 Upgrade Spring Security to Spring Boot 3.1 and Crush Deprecations! 🚀" },
     { "id": "kpLpFpQUGv4", "title": "Spring security | Change password" },
     { "id": "ua0cb2LjCW4", "title": "🚀 Deploy Spring boot application to AWS Cloud 🚀" },

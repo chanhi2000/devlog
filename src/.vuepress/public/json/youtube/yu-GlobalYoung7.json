@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tR0JmJ5bwuM", "title": "개고생하면서 배우는 Mojo 분석 002 #mojo" }, 
+    { "id": "yq2ULHsPhTQ", "title": "개고생하면서 배우는 C+분석+ 003 #cpp" }, 
+    { "id": "Ssh9aNI1iiM", "title": "개고생하면서 배우는 C+분석+ 004(Modern C++) #cpp #moderncpp" }, 
     { "id": "gNeUPYvwPUw", "title": "231031위클리_러스트Weekly_Rust_collect_rng_iter #rustlang #collect #rng #map #turbofish" },
     { "id": "ULZd3uUTisA", "title": "개고생하면서 배우는 Rust_FullStackDev. 001(Thread-per-core개념이해)In-kernel network stack, CPU affinity" },
     { "id": "M4UupaPkN1s", "title": "개고생하면서 배우는 C# & Rust 분석 001(Rust for C#/.NET Developers)" },

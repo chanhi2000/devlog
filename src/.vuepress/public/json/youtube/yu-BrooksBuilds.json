@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6bAD3pG-8gE", "title": "Stream archive: Creating a course for Axum + Rust (2023-11-06 morning)" }, 
+    { "id": "0ggR7bC9Bnw", "title": "stream archive: uploading axum course articles to the lms (2023-11-06 afternoon)" }, 
+    { "id": "fvw2YuuPHJo", "title": "Extensions in Axum (api framework in Rust)" }, 
+    { "id": "-XOuyk-NviM", "title": "Stream archive: Search input field with clear button in Yew + Rust (2023-10-27 afternoon)" }, 
+    { "id": "Kk6QLhQmQOQ", "title": "Stream archive: Search input field with clear button in Yew + Rust (2023-10-27 afternoon)" }, 
+    { "id": "wORPlsxWlsg", "title": "Creating a data table in Yew + Rust" }, 
     { "id": "bFH4OWrBmN0", "title": "Stream archive: drag and drop in Yew + Rust (2023-10-24)" },
     { "id": "CnZ4BUYEIk4", "title": "Let's be courageous and learn Leptos" },
     { "id": "RpoIM5N0xLY", "title": "Stream archive: courage time with leptos + rust" },

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "Gan._D",
+    "name": "간디의 더티복싱",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYk3p_IMYhVSFsTLNDGtxH9Ua4ltQuqR5o5MJECT4wOQA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "QtCRL63LFew", "title": "컨테이너 MySql 서버에 계정, DB 생성" }, 
+    { "id": "UpDULnMdYxA", "title": "이미지 빌드" }, 
+    { "id": "x5qCnOC-GsI", "title": "가상 머신 복제" }, 
+    { "id": "E-iAcej_bWg", "title": "Docker Compose 사용" }, 
+    { "id": "Q8A9eYRWzX8", "title": "실습 - mariadb(컨테이너)와 php-fpm(컨테이너) 통신" }, 
+    { "id": "Vip6Psx60Zc", "title": "컨테이너와 컨테이너 간 통신" }, 
+    { "id": "nPMFPOE0kuM", "title": "작업8, 게시물 작성시 작성 날짜와 시간 저장" }, 
+    { "id": "_c2l4qUjyFM", "title": "작업9, 게시물 수정 기능 구현" }, 
+    { "id": "OR2I5nfI_Ts", "title": "작업7, 게시글 삭제 기능 구현" }, 
+    { "id": "SthI00kjy84", "title": "작업6, 게시글 삭제 시도중" }, 
+    { "id": "m3CRJLvzX5w", "title": "작업5, 게시글 상세 페이지 구현(날짜 아직)" }, 
+    { "id": "iBCKvQ_RCXw", "title": "git clone" }
+  ]
+}

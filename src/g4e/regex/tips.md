@@ -52,6 +52,12 @@ tags: ["regex", "regular-expression", "snippet", "tips"]
 [0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f\u200c\u200b]{4}-[0-9a-f]{12}$
 ```
 
+### E-mail
+
+```regex
+^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})${'$'}
+```
+
 ---
 
 <TagLinks />

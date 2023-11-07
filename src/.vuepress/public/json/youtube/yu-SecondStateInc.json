@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "lB2A7S1vexM", "title": "Use WasmEdge to run Llama 2 series of models on your own device" }, 
     { "id": "Lpq-y5I46l8", "title": "WasmEdge Community Meeting #19" }
   ]
 }

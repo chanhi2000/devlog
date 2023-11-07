@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dIFq8Fbmx0w", "title": "스프링 시큐리티 6 : DB 연결" }, 
+    { "id": "B03OoUVgVIA", "title": "스프링 시큐리티 5 : BCrypt 암호화 메소드" }, 
+    { "id": "eEkV0zir9mQ", "title": "스프링 시큐리티 4 : 커스텀 로그인 설정" }, 
+    { "id": "NdRVhOccuOs", "title": "스프링 시큐리티 : 버전별 Security Config 구현 방법" }, 
+    { "id": "U3Jkuy5Hc00", "title": "스프링 시큐리티 8 : DB기반 로그인 검증 로직" }, 
+    { "id": "MebrJCxjc6s", "title": "스프링 시큐리티 : 회원 중복 검증 방법" }, 
+    { "id": "m9lsS36QGCk", "title": "스프링 시큐리티 7 : 회원 가입 로직" }, 
     { "id": "ov84EoU0KAE", "title": "스프링 시큐리티 3 : Security Config 인가 작업" },
     { "id": "qnDdx8XdKwY", "title": "스프링 시큐리티 2 : 프로젝트 생성" },
     { "id": "y0PXQgrkb90", "title": "스프링 시큐리티 1 : 실습 목표 및 간단한 동작 원리" },

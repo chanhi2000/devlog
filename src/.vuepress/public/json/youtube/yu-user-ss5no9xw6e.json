@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/KrXOwznWJPljgHTD00XnH0midQlbxbiVrtCDj2sCeoA9OG0w8ELFxnlN48wXCQXxYt15kd2ijg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rOb6D_06s4o", "title": "16 서브 쿼리 - MySQL 제대로 끝내기" }, 
+    { "id": "HHWNI0quyvg", "title": "17 데이터 삽입, 수정, 삭제 - MySQL 제대로 끝내기" }, 
     { "id": "RshTLbu9EOA", "title": "13 날짜와 집계 함수 - MySQL 제대로 끝내기" },
     { "id": "e4AwQHMy4ws", "title": "14 그룹화와 집합 연산 - MySQL 제대로 끝내기" },
     { "id": "eOjrxInV6SI", "title": "15 조인 연산 - MySQL 제대로 끝내기" },

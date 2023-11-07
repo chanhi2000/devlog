@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h9ksr2ucNck", "title": "Understanding SQL Auto-Incrementing Identity in 10 Minutes or Less" }, 
     { "id": "n7mGEh4_06c", "title": "C# Data Access: Complex Objects with Dapper" },
     { "id": "ek1gIYfIVaQ", "title": "What Are The Steps To Quickly Debugging An Application?" },
     { "id": "Kd76EVRGR2c", "title": "Solution: Back-End Development Challenge in C#" },

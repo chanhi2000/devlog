@@ -3203,5 +3203,35 @@
     "desc": "LLM verified with Monte Carlo Tree Search",
     "officialSite": "",
     "topics": ["ai", "dafny", "llm", "monte-carlo-tree-search"]
+  }, {
+    "repo": "deepseek-ai/DeepSeek-Coder",
+    "desc": "DeepSeek Coder: Let the Code Write Itself",
+    "officialSite": "https://coder.deepseek.com/",
+    "topics": []
+  }, {
+    "repo": "jianchang512/pyvideotrans",
+    "desc": "Translate the video from one language to another and add dubbing.  将视频从一种语言翻译为另一种语言，并添加配音",
+    "officialSite": "",
+    "topics": ["speech-to-text", "text-to-speech", "video-transition"]
+  }, {
+    "repo": "Cicada-Software/cicada",
+    "desc": "A FOSS, cross-platform version of GitHub Actions and Gitlab CI",
+    "officialSite": "https://cicada.sh",
+    "topics": []
+  }, {
+    "repo": "imoneoi/openchat",
+    "desc": "OpenChat: Advancing Open-source Language Models with Imperfect Data",
+    "officialSite": "https://huggingface.co/openchat/openchat",
+    "topics": ["large-language-models", "open-source", "transformers"]
+  }, {
+    "repo": "Jcparkyn/dpoint",
+    "desc": "Open-source digital stylus using camera tracking and inertial measurements",
+    "officialSite": "",
+    "topics": ["6dof", "aruco", "ekf", "stylus"]
+  }, {
+    "repo": "Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist",
+    "desc": "Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.",
+    "officialSite": "",
+    "topics": []
   }
 ]

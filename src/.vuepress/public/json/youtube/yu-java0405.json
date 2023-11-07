@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/nYBM4tFv0FucvhrpQPedLqqK-VabAD9T3p0aLzwZchtwSVMKwyXP77Un7hQs1AbiEVEVHARWVss=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tFy4mLUiW0M", "title": "23년 스프링 (47) Auditing 설정 준비" }, 
+    { "id": "ctJT3wN6Xv8", "title": "23년 스프링 (46) JPA 영속성 전이와 지연로딩" }, 
+    { "id": "IUCM1E3-kHM", "title": "23년 스프링 (45) JPA 연관관계 다대다 매핑" }, 
     { "id": "n5emSObrfzI", "title": "23년 스프링 (44) JPA 연관관계 다대일 일대다 양방향 매핑" },
     { "id": "3NdzU7rprkk", "title": "23년 스프링 (43) JPA 연관관계 다대일 단방향 매핑" },
     { "id": "r7ZBooCb8cw", "title": "23년 스프링 (42) JPA 연관관계 일대일 매핑" },

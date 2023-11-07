@@ -6,6 +6,17 @@
     "banner": ""
   },
   "videos": [
+    { "id": "NlqT1XXEtMc", "title": "2023 11 06 자바 19일차 2 ~ 3교시" }, 
+    { "id": "TDRTkAcYczE", "title": "2023 11 06 리눅스 14일차 2교시" }, 
+    { "id": "BBdlOnP5OPM", "title": "2023 11 07 리눅스 15일차 1 ~ 2교시" }, 
+    { "id": "II6EGh1ZCzU", "title": "2023 11 08 DBMS 1일차 2교시" }, 
+    { "id": "18PwDzQh-8c", "title": "2023 11 08 DBMS 1일차 1교시" }, 
+    { "id": "xwsmuOcjl58", "title": "2023 11 08 웹개발 20일차 1교시" }, 
+    { "id": "AyHN3w_EGmo", "title": "2023 11 09 DBMS 2일차 2교시" }, 
+    { "id": "NK2Hx_NEtVc", "title": "2023 11 09 웹개발 21일차 4교시" }, 
+    { "id": "jMrd2uL4fkw", "title": "2023 11 09 웹개발 21일차 1교시" }, 
+    { "id": "88y3Vk2Qt-E", "title": "2023 11 10 웹개발 22일차 4교시" }, 
+    { "id": "FwMOIUOarog", "title": "2023 11 10 웹개발 22일차 2교시" }, 
     { "id": "p8c8aEHGd5Y", "title": "2023 10 27 웹개발 12일차 2교시" },
     { "id": "xifX-ukved4", "title": "2023 10 30 웹개발 13일차 2교시" },
     { "id": "PDN-bzxqXrE", "title": "2023 11 01 웹개발 15일차 4교시" },

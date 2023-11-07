@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/I0nt1JaT0onKvAVus9FyRpqFy_OJNX9UWYRoFVOvmvhbC_2p6KIAmsm5Hy9gIvm26aYmPd3Z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "F2s-pQO75sE", "title": "[코딩 뇌를 깨우는 파이썬 강의] 17강. 클래스와 객체 지향 프로그래밍 | 박해선 | 한빛미디어" }, 
     { "id": "oxt77koh7G0", "title": "[코딩 뇌를 깨우는 파이썬 강의] 15강. 테스트와 디버깅 | 박해선 | 한빛미디어" },
     { "id": "c97v6s_za4M", "title": "[코딩 뇌를 깨우는 파이썬 강의] 16강_예외와 `assert` | 박해선 | 한빛미디어" },
     { "id": "iWltN0J4tWQ", "title": "[코딩 뇌를 깨우는 파이썬 강의] 03강. 코랩과 깃허브 소개 | 박해선 | 한빛미디어" },

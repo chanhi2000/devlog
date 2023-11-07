@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ypWnP-oLehw", "title": "KMPizza with Lena Stepanova | ATOM Podcast" }, 
     { "id": "m4Cqz2_P9rI", "title": "Kotlin Notebook: Visual, Interactive, Fun | Kotlin Notebook Tutorial" },
     { "id": "rDxaMLatIr4", "title": "Service Mesh for Kotlin Developers" },
     { "id": "rudqlGRrWYY", "title": "Making Multiplatform Better | Talking Kotlin #125" },

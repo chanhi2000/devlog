@@ -854,5 +854,10 @@
     "desc": "OpenRW \"Open ReWrite\" is an un-official open source recreation of the classic Grand Theft Auto III game executable",
     "officialSite": "http://openrw.org",
     "topics": ["c-plus-plus", "game-engine", "gta", "gta3", "linux-game", "macosx-game", "multi-platform", "reimplementation", "video-game"]
+  }, {
+    "repo": "IST-DASLab/QUIK",
+    "desc": "Repository for the QUIK project, enabling the use of 4bit kernels for generative inference",
+    "officialSite": "",
+    "topics": []
   }
 ]

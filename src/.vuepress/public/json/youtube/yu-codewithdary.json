@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/PC_c4rYZsAsg3rBMtj1WaBxL0_vk7nrHiN8PR8GfDxMot5pYa3Z1vhTjZPUQMndXx8s3tZ4btg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_tMQWrVWvGg", "title": "Tinkerwell is AWESOME for Laravel Developers… #laravel #shorts" }, 
+    { "id": "e2BlEcO8hos", "title": "Forms, Validation &amp; Loaders in Livewire Components - Laravel Livewire Crash Course for Beginners" }, 
+    { "id": "GEAX-kdVSpg", "title": "Introduction to Actions in Livewire - Laravel Livewire Crash Course for Beginners" }, 
+    { "id": "ozDxmF4Ec4g", "title": "How to Easily Output Flash Messages in Livewire - Laravel Livewire Crash Course for Beginners" }, 
     { "id": "DPnMRVx7doA", "title": "Introduction to Components in Laravel Livewire - Laravel Livewire Crash Course for Beginners" },
     { "id": "VaJ1GO7b6Ig", "title": "Master Laravel Controllers with These 5 Best Practices #laravel #shorts" },
     { "id": "wGu8lgaK_v8", "title": "How to Become a PRO in FilamentPHP v3 in 4 hours - Complete FilamentPHP Tutorial for Beginners" }

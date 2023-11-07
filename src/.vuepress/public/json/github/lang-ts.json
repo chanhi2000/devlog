@@ -1718,5 +1718,10 @@
     "desc": "一个基于 React native 开发的音乐软件",
     "officialSite": "https://lyswhut.github.io/lx-music-doc/",
     "topics": ["javascript", "music-player", "react-native-app"]
+  }, {
+    "repo": "microsoft/inshellisense",
+    "desc": "IDE style command line auto complete",
+    "officialSite": "",
+    "topics": ["autocomplete", "bash", "cli", "fish", "linux", "macos", "powershell", "pwsh", "terminal", "windows", "zsh"]
   }
 ]

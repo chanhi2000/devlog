@@ -19,5 +19,10 @@
     "desc": "Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.",
     "officialSite": "",
     "topics": ["microservices", "ddd", "clean-code", "architecture", "domain-driven-design", "clean-architecture", "software", "software-engineering", "software-development", "ddd-patterns", "software-architecture", "ddd-architecture", "architecture-decision-records", "software-design", "architecture-guidelines", "architecture-components", "ddd-example", "modular-monolith", "modular-monolith-architecture", "modular-monolith-design"]
+  }, {
+    "repo": "milanm/DotNet-Developer-Roadmap",
+    "desc": "The comprehensive .NET Developer Roadmap by seniority level.",
+    "officialSite": "https://newsletter.techworld-with-milan.com/",
+    "topics": ["asp-net", "asp-net-core", "aspnet", "aspnetcore", "blazor", "csharp", "dotnet", "dotnet-core", "maui", "razor", "roadmap"]
   }
 ]

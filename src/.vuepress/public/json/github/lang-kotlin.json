@@ -150,5 +150,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "deepseek-ai/DeepSeek-Coder",
+    "desc": "DeepSeek Coder: Let the Code Write Itself",
+    "officialSite": "https://coder.deepseek.com/",
+    "topics": []
   }
 ]

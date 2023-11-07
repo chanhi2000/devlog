@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZVcAa2uuksk", "title": "Flutter Shopping Cart Screen | Flutter eCommerce App UI" }, 
+    { "id": "CrHI4kBq7iY", "title": "Flutter Checkout Page | Flutter eCommerce App UI" }, 
+    { "id": "gUeDE9V6mno", "title": "Flutter Order Page | Flutter eCommerce App UI" }, 
+    { "id": "SiSCnjpES3E", "title": "Flutter Sub Categories | Product Card | Horizontal ListView builder Flutter" }, 
+    { "id": "zj0W7vJ56cc", "title": "Flutter All Products Page | Flutter eCommerce App UI" }, 
     { "id": "dXEKfSiAOLI", "title": "TabBar in Flutter with Scrolling Categories | Flutter eCommerce App" },
     { "id": "hNqcJ1HZ8iU", "title": "Flutter Account Settings Screen UI Design | Flutter eCommerce App" },
     { "id": "Y73J3A5gIYk", "title": "Flutter Profile Screen UI Design | Flutter eCommerce App" },
