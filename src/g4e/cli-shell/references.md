@@ -111,6 +111,10 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## MachBase
+
+- [How to make Sensor Data send directly to a Database via MQTT?](https://machbase.com/home/blog/blog10)
+
 ## Chris Siebenmann
 
 - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)

@@ -87,7 +87,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-gorandev]: https://www.youtube.com/@gorandev
 [yu-build-apps-w-paulo]: https://www.youtube.com/@BuildAppsWithPaulo
 [yu-seefromfar143]: https://www.youtube.com/@seefromfar143
-[yu-leigh-halliday]: https://www.youtube.com/@leighhalliday
 [yu-soja0524]: https://www.youtube.com/@soja0524
 [yu-codingwithusman7]: https://www.youtube.com/@codingwithusman7
 [yu-user-nq5st4fy5n]: https://www.youtube.com/@user-nq5st4fy5n

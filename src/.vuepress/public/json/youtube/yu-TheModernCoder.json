@@ -1,11 +1,12 @@
 {
   "channel": {
-    "id": "TheModernCoder",
+    "id": "themoderncoder",
     "name": "The Modern Coder",
     "profile": "https://yt3.googleusercontent.com/xrt_QaSWmA6LAZhQIeSP0GfAJlJ8SJV-vl9Tt4PBJHpEgd45zqib0nkegwLFLGizW1prfu-RUIk=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/tWkUuCaPaEEicIep7t8XCijT03pJQLxo6FIevbScNYr6XDNBO2yEpNTdSpdI-0xe99eZYUMc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Sqsz1-o7nXk", "title": "Resolve Git MERGE CONFLICTS: The Definitive Guide" }, 
     { "id": "66B3OrrVQhg", "title": "5 Git Tips with an Unexpected TWIST" },
     { "id": "zOnwgxiC0OA", "title": "Git MERGE vs REBASE: The Definitive Guide" },
     { "id": "V5KrD7CmO4o", "title": "Learn Git Squash in 3 minutes // explained with live animations!" }, 

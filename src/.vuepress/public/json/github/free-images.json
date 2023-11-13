@@ -29,5 +29,10 @@
     "desc": "⬆️ Free uptime monitor and status page powered by GitHub",
     "officialSite": "https://upptime.js.org",
     "topics": ["incidents-reports", "status", "statuspage", "upptime", "uptime", "uptime-monitor"]
+  }, {
+    "repo": "wanteddev/wanted-sans",
+    "desc": "곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul",
+    "officialSite": "",
+    "topics": ["font", "fonts", "typeface"]
   }
 ]

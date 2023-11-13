@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MakeDataUseful",
+    "name": "Make Data Useful",
+    "profile": "https://yt3.googleusercontent.com/mEbymvSLiZaL_QYFY5-OEGZ0n6xXf19RMXtPuLk9y3kJFk1roizIzQ9s9JAEB_QWkBt30YPp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9xYDQn58La23vJl4x_svJZCzmc7u_3Q8swghUo7Bf7Pl2HJ12kG41GR2cYrQ_SCzS3BPMjKpWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mMgd9kQTJos", "title": "Python lists .append vs. .extend 🐍 Python ⏰ In 1 minute or less" }
+  ]
+}

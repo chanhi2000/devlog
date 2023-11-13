@@ -31,5 +31,6 @@ meta:
 <MyYouTubeItems jsonName="yu-gwigom" /><!-- 귀곰 -->
 <MyYouTubeItems jsonName="yu-studian365" /><!-- 스터디언 -->
 <MyYouTubeItems jsonName="yu-ayshh" /><!-- 아영이네 행복주택 -->
+<MyYouTubeItems jsonName="yu-mediheal_pilates" /><!-- 메디쌤의 필라테스 MEDIHEAL_PILATES -->
 
 <TagLinks />

@@ -1723,5 +1723,20 @@
     "desc": "IDE style command line auto complete",
     "officialSite": "",
     "topics": ["autocomplete", "bash", "cli", "fish", "linux", "macos", "powershell", "pwsh", "terminal", "windows", "zsh"]
+  }, {
+    "repo": "activepieces/activepieces",
+    "desc": "Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative",
+    "officialSite": "https://www.activepieces.com",
+    "topics": ["automation", "automation-tools", "business-automation", "chatbot", "chatbots", "datasources", "enterprise-automation", "hacktoberfest", "integrations", "llm", "low-code", "n8n", "no-code", "self-hosted", "typescript", "workato", "workflow", "workflow-automation", "zapier"]
+  }, {
+    "repo": "nick-keller/react-datasheet-grid",
+    "desc": "An Airtable-like / Excel-like component to create beautiful spreadsheets.",
+    "officialSite": "",
+    "topics": ["excel", "grid", "react", "spreadsheet", "table"]
+  }, {
+    "repo": "joshmarinacci/node-pureimage",
+    "desc": "Pure JS implementation of the HTML Canvas 2D drawing API",
+    "officialSite": "",
+    "topics": ["canvas", "drawing", "javascript", "png"]
   }
 ]

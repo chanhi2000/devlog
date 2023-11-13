@@ -155,5 +155,10 @@
     "desc": "DeepSeek Coder: Let the Code Write Itself",
     "officialSite": "https://coder.deepseek.com/",
     "topics": []
+  }, {
+    "repo": "ianatha/bababasic",
+    "desc": "QuickBASIC 4.5 revival on Android",
+    "officialSite": "https://play.google.com/store/apps/details?id=io.atha.quickbasic",
+    "topics": ["android", "basic", "programming", "quickbasic", "terminal"]
   }
 ]

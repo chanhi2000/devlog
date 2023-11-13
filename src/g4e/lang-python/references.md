@@ -86,6 +86,7 @@ description: 🐍Python > 📚References
 - [속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법 (Speed, Python: Pick Two. How CUDA Graphs Enable Fast Python Code for Deep Learning)](https://discuss.pytorch.kr/t/cuda-speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning/2441)
 - [벡터 유사도 검색이 무엇인가요? (What is Vector Similarity Search?)](https://discuss.pytorch.kr/t/what-is-vector-similarity-search/2475)
 - [[2023/09/04 ~ 09/10] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-09-04-09-10-ml-top-ml-papers-of-the-week/2448)
+- [[2023/11/06 ~ 11/12] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-11-06-11-12-ml-top-ml-papers-of-the-week/2838?utm_source=geeknews)
 
 ## Kobzol's blog
 

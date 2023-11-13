@@ -109,5 +109,10 @@
     "desc": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
     "officialSite": "",
     "topics": ["hacktoberfest", "linter", "neovim", "neovim-plugin", "syntax-checker"]
+  }, {
+    "repo": "josean-dev/dev-environment-files",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

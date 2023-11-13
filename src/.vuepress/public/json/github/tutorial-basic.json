@@ -149,5 +149,10 @@
     "desc": "Explanation to key concepts in ML",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "samuel-lucas6/Cryptography-Guidelines",
+    "desc": "Guidance on implementing cryptography as a developer. ",
+    "officialSite": "https://samuellucas.com/Cryptography-Guidelines/",
+    "topics": ["aead", "aes-gcm", "blake2b", "blake3", "chacha20-poly1305", "crypto", "cryptographic-algorithms", "cryptographic-library", "cryptography", "ed25519", "ed448", "education", "encrypt-then-mac", "gotchas", "hmac", "rsa", "sha2", "sha3", "x25519", "x448"]
   }
 ]

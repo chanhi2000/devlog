@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/bIGu0Wgr1iQ0GRTY4-9AhVm1uJttJX67Pm3usC9B7LbgkuBJidiJEoCuL9TRHdVI3xmCBlkGKg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NYiAEblY0Oo", "title": "How to code a TO DO app in 1 min with Flutter👨🏽‍💻" }, 
+    { "id": "rYdP2LnBGsA", "title": "💰📱 Minimal Ecommerce App • Flutter Tutorial" }, 
     { "id": "HQ_ytw58tC4", "title": "📱 FULL Flutter Beginner Course • Programming Basics / Widgets / Navigation / User Input / UI" },
     { "id": "4fucdtPwTWI", "title": "🔒📱 FULL Flutter Auth Course • Login / Logout / Register / Google Sign In" },
     { "id": "DFJa-jUKXL4", "title": "💜📱tab bar menu • mini code tutorial 👨🏽‍💻 #flutter" }

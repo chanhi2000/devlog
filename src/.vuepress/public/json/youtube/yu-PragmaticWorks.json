@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/DOqV0LGj1wmf6eCAW8JzO6uohemQ8o9Q9v3UVNIpI6IBghJbaf7Ipdghed0QGSVZ4uPpyqz15Cs=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cGBDHghjr28", "title": "Power Automate and Hubspot Integration Series - Making your first Flow Connected to HubSpot (Part 2)" }, 
+    { "id": "tAtcse1_wIc", "title": "SQL Joins - Inner vs. Outer" }, 
     { "id": "FBSwZygO5U0", "title": "Power Automate and Hubspot Integration Series - Creating a Private App (Part 1)" },
     { "id": "fTVhgOuBU4c", "title": "`SUMIFS` in Excel" },
     { "id": "XICsuJQgclY", "title": "Customize Actions on SubGrids in Power Apps Model-Driven Apps" },

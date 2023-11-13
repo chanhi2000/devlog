@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/CDpj23-Bz_cRWW3J1q0ozQgwCisyW6AcMzEjIGmCUzmgidl9G3FXqcA8x-yYZuSznpXWA7ntjbk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_2l2v85gVNE", "title": "리얼리눅스 10월 무료세미나: 초보자를 위한 Git 협업개발 핵심 포인트" }, 
+    { "id": "XBo6BYhlq_A", "title": "리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!" }, 
     { "id": "_2l2v85gVNE", "title": "리얼리눅스 10월 무료세미나: 초보자를 위한 Git 협업개발 핵심 포인트" },
     { "id": "CGo273hb28s", "title": "서버 엔지니어SRE, Devops, Infra 등를 위한 리눅스 네트워크 기본공부방법 exported" }
   ]

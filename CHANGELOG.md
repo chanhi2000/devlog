@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.5.23  2023-11-14][v0.5.23]
+
+- 내용채워넣기
+
+---
+
 ## [v0.5.22  2023-11-13][v0.5.22]
 
 - 내용채워넣기

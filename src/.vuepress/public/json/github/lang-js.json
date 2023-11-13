@@ -1709,5 +1709,10 @@
     "desc": "A minimalist & flexible toolkit for interactive islands & state management in hypermedia-driven web applications.",
     "officialSite": "",
     "topics": ["lit-html", "reactivity", "state-management", "vanilla-javascript", "vanilla-js", "vanillajs"]
+  }, {
+    "repo": "langchain-ai/opengpts",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/LNuW-WX_7pXlUGeVNZbekXyeAbnkQVIQoXZqveB0FtkpVtzJbzWtAJ3GjKkHHn00glZt6M3p-g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "n08Ii86aFMU", "title": "Kubernetes Priority Classes - Best way to guarantee resources to critical applications in production" }, 
+    { "id": "y_dId6drpsw", "title": "Kubernetes Pod Priority Classes - Best way to run critical applications in production" }, 
     { "id": "ih95hxSeJnE", "title": "Why to use kubectl apply in production - kubectl create vs kubectl apply - CKA Training" },
     { "id": "PrvS-C-4K3o", "title": "Change Internal IP Address of Kubernetes Worker - Kubernetes Hack" },
     { "id": "3BjczAl-bd4", "title": "Kubernetes Storage Classes - Using NFS storage class for dynamic allocation of storage to pods." },

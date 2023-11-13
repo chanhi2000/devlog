@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "5VcihCF6ne8", "title": "부트_상품API서버만들기(5)_상품엔티티CRUD" }, 
+    { "id": "8EBRuLoSiPo", "title": "부트_상품API서버만들기(6)_Querydsl과 ElementCollection" }, 
+    { "id": "_dkYyZMA3Xs", "title": "부트_상품API서버만들기(8)_상품등록API완성" }, 
+    { "id": "dvjTgLLM2Js", "title": "부트_상품API서버만들기(7)_서비스계층만들기" }, 
+    { "id": "FNHiVq0bxkc", "title": "부트_상품API서버만들기(9)_상품조회완성" }, 
     { "id": "PLbSfEkrpB8", "title": "스프링부트 bootJar 만들기" },
     { "id": "rM0eIUDIVi4", "title": "Todo리액트_API서버 연동(6) - 조회이동 등록처리" },
     { "id": "i5PMnRaeLP0", "title": "Todo리액트_API서버 연동(7) - 모달창 만들" },

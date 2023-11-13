@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/W9wERgktL_qfOGUtgKedwD_z3J5MlMWcucJXG90FG2tHHDy2u8tMUbRSeJkqoRJlnZe4nlsKOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XgoPKM1_2Xk", "title": "Data Driven Testing in NUnit for Playwright with C# .NET" }, 
+    { "id": "VhQrOTpYTOI", "title": "Automatic Test Data Creation for DDT in Playwright with C# .NET" }, 
     { "id": "PyMpeDttMas", "title": "Run Tests in Parallel on Multiple Machines in Playwright with Sharding⚡️" },
     { "id": "iNYEdQfXieE", "title": "#9 - Working with Looping in Bash" },
     { "id": "ZJNycsJ5LTk", "title": "#10 - Working with Shell Script file (sh) in Bash" },

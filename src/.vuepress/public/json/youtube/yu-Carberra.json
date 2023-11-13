@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/uLOTY6G4KBKAyqaF33pRe7uzAB-C-l-JhMD9E1mtAUUfsoKzkq4D1DV2GAgvS27t8T_Ca7mLMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yolEbo1PEHM", "title": "The Ruff formatter is 130x FASTER than Black" }, 
     { "id": "WGsMydFFPMk", "title": "Creating your first PyPI package" },
     { "id": "RlqMqVPgsls", "title": "Python's SECRET diamond operator" }, 
     { "id": "bcAqceZkZRQ", "title": "Ruff is the FUTURE of Python development" }

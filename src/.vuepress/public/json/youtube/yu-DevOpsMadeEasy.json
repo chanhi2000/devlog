@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cjpTrPtj_YIjLcPFsI7PAQI31pHCmJReysnm7vltCaCZM75HwDdU1yXTiJq_iaHHYay3RSB0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6i1t7JcEOds", "title": "GitLab End to End Pipelines on Kubernetes with Maven, Nexus, SonarQube, Kaniko &amp; Helm" }, 
+    { "id": "zAe4Me43Kbc", "title": "Using GitLab CI, Terraform, and Ansible to Automate Infrastructure Provisioning and Configuration" }, 
     { "id": "OR5-YvrbkR8", "title": "How to Create AWS VPC using Terraform VPC Module" },
     { "id": "kIDiP3Unj7Y", "title": "How to Use Terraform and Jenkins to Automate Infrastructure Setup | Run Terraform Scripts in Pods" },
     { "id": "UYeyUxpFcsM", "title": "Installing Terraform on Windows" },

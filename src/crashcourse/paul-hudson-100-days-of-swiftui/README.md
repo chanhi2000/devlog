@@ -181,7 +181,7 @@ In these projects we’re going to start looking more carefully at how we can se
 - ✅[Day 49][day-49] – Project 10, part one
 - ✅[Day 50][day-50] – Project 10, part two
 - ✅[Day 51][day-51] – Project 10, part three
-- [Day 52][day-52] – Project 10, part four
+- ✅[Day 52][day-52] – Project 10, part four
 - [Day 53][day-53] – Project 11, part one
 - [Day 54][day-54] – Project 11, part two
 - [Day 55][day-55] – Project 11, part three
@@ -327,7 +327,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-49]: 49.md
 [day-50]: 50.md
 [day-51]: 51.md
-[day-52]: https://www.hackingwithswift.com/100/swiftui/52
+[day-52]: 52.md
 [day-53]: https://www.hackingwithswift.com/100/swiftui/53
 [day-54]: https://www.hackingwithswift.com/100/swiftui/54
 [day-55]: https://www.hackingwithswift.com/100/swiftui/55
