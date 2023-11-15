@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/sCOPKk19Jd8ytkomG1MBTulZx7l7o6rTvP6pJhjSOpJ2rv6QqNrJ6_dTw10GEJpUexjThCliKQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_Td-Bh_7wRw", "title": "Configuring Web Application Acceleration" }, 
+    { "id": "A6TC8BU05Tk", "title": "Building an OCI Network for Windows Domains" }, 
+    { "id": "mE75Gr4hWP4", "title": "OCI Private DNS Components" }, 
+    { "id": "OH01pd0bwos", "title": "How to List Files or Objects from a Bucket in OCI" },
     { "id": "DFtZYIOPcuU", "title": "Pull Images with Podman on Oracle Linux" },
     { "id": "amYLnXEDs9w", "title": "How to Add and Configure Secondary VNIC to an OCI Linux Instance" },
     { "id": "QoqMyOoHYQw", "title": "How to Identify and Request for an Increase in Dynamic Limits in OCI" },

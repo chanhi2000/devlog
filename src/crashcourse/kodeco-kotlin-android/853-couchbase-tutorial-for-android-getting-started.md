@@ -39,7 +39,7 @@ Why would you choose Couchbase over the built-in SQLite support or a cloud-based
 - __Built-in synchronization__: If you have ever needed to build your own syncing solution, you know how complicated it can be. Couchbase’s Sync Gateway does all of the hard work for you.
 - __Offline support__: Couchbase lets you develop your app without thinking about a network connection. You simply write to the local database and let Couchbase handle the rest.
 
-In this Couchbase tutorial, you’ll develop a crowd-sourcing quiz application called __QuizzDroid__. Your answers will be shared (via Sync Gateway) with all other users. So there is no right or wrong answer — only what other users have answered. :]
+In this Couchbase tutorial, you’ll develop a crowd-sourcing quiz application called __QuizzDroid__. Your answers will be shared (via Sync Gateway) with all other users. So there is no right or wrong answer — only what other users have answered.
 
 ![couchbase tutorial demo](https://koenig-media.raywenderlich.com/uploads/2016/07/demo.gif =240x)
 

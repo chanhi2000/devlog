@@ -859,5 +859,15 @@
     "desc": "Repository for the QUIK project, enabling the use of 4bit kernels for generative inference",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Brendan-Kirtlan/Video-Encode",
+    "desc": "Encodes a file into a video format to store on a cloud video hosting service",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SoftFever/OrcaSlicer",
+    "desc": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "officialSite": "https://discord.gg/P4VE9UY9gJ",
+    "topics": ["3d-printer", "3d-printing", "makers"]
   }
 ]

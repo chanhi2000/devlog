@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Aviation HOWTO > Airline
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-aviation-howto/02-airline.html
+    content: https://chanhi2000.github.io/crashcourse/linux-aviation-howto/02-airline.html
 ---
 
 # {{ $frontmatter.title }} 관련

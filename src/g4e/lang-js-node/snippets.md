@@ -20,7 +20,7 @@ Paste the entire script to the Chrome DevTool (<kbd>F12</kbd>) Console
 ### `deleteVideoFromWatchLater`
 
 1. move to `/playlist?list=WL`
-2. Paste the code
+2. Paste the code to the console
 
 ```js
 function deleteVideoFromWatchLater() {
@@ -62,6 +62,34 @@ async function deleteWatchLater() {
 
 deleteWatchLater();
 ```
+
+### `findChannelImages`
+
+1. move to any channel `/@<CHANNEL_NAME>`
+2. Paste the code to the console
+
+```js
+const channelId = document.querySelector('.meta-item.ytd-c4-tabbed-header-renderer yt-formatted-string').innerHTML.replace('@', '')
+const channelName = document.querySelector('.ytd-channel-name yt-formatted-string').innerHTML
+const profileImg = document.querySelector('#channel-header-container img').src
+const bannerImg = getComputedStyle(document.querySelector('ytd-c4-tabbed-header-renderer')).getPropertyValue('--yt-channel-banner').replace('url(', '').replace(')', '');
+
+console.log(JSON.stringify(
+  {
+    channel: {
+      id: channelId,
+      name: channelName,
+      profile: profileImg,
+      banner: bannerImg
+    },
+    videos: [
+
+    ]
+  }
+))
+```
+
+### `findChannelProfileImage`
 
 
 

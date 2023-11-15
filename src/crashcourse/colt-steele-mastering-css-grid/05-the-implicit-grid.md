@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🎨Colt Steele - Mastering CSS Grid > 05. The Implicit Grid
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/colt-steele-mastering-css-grid/05-the-implicit-grid.html
+    content: https://chanhi2000.github.io/crashcourse/colt-steele-mastering-css-grid/05-the-implicit-grid.html
 ---
 
 # {{ $frontmatter.title }} 관련

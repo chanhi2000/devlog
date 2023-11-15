@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Journey > GrassHopper > Command Line
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-journey/01-grasshopper/01b-the-shell
+    content: https://chanhi2000.github.io/crashcourse/linux-journey/01-grasshopper/01b-the-shell
 ---
 
 # {{ $frontmatter.title }} 관련

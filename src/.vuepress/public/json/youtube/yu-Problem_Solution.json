@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Problem_Solution",
+    "name": "문제 해결",
+    "profile": "https://yt3.googleusercontent.com/MrYIT8DGfwmDZ_OHTj--P62H29RzzT8cw_zblrjXMSjx7eL45DyoD11VsjlllXkZk2GWWmDC=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UfsPih3FaraOnLl15nq1ReqixzT8E8qI-rKWdwF4u97WbP00nln-RI_7_A4HONqrKlVR_PCP=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BSG70ybx2FI", "title": "게임 맵 최단거리 (DFS vs BFS) - Python3" }
+  ]
+}

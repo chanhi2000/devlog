@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cSZKXxKMITZNPTT09ozaxbbc6o52JRsFbir4RhQgnSsCsGuA22BJcnNB_f64H9xm9Vb5e6HSBrg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mT_NWFnYn0A", "title": "Introducing Radius: A new open-source project for teams building cloud-native apps" }, 
+    { "id": "XV_E4WtqNrE", "title": "What’s new in the Well-Architected Framework" },
     { "id": "nfmjuKzRetU", "title": "Optimizing Your SQL Database Workloads w/ Automatic Tuning on Azure SQL | Data Exposed: MVP Edition" },
     { "id": "Dxz_ANh81Rc", "title": "Cleaning Your Kubernetes Clusters" },
     { "id": "lRIkWyoT2nk", "title": "How to migrate to Microsoft SQL with the Database Migration Service Pack for Oracle" },

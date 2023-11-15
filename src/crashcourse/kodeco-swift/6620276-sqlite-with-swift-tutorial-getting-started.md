@@ -813,17 +813,225 @@ Here, you’ve added a computed property, which simply returns the most recent e
 
 ### Wrapping the Prepare Call
 
+Since you make prepare calls so often, it makes sense to wrap them like the other methods. As you move forward and add functionality to the `SQLiteDatabase` class, you’ll use class extensions.
+
+Add the following extension. This will be useful in your future methods to invoke `sqlite3_prepare_v2()` on SQL statements:
+
+```swift
+extension SQLiteDatabase {
+ func prepareStatement(sql: String) throws -> OpaquePointer? {
+  var statement: OpaquePointer?
+  guard sqlite3_prepare_v2(dbPointer, sql, -1, &statement, nil) 
+      == SQLITE_OK else {
+    throw SQLiteError.Prepare(message: errorMessage)
+  }
+  return statement
+ }
+}
+```
+
+Here, you declare that `prepareStatement(_:)` can throw an error and then use `guard` to throw that error should `sqlite3_prepare_v2()` fail. Just like before, you pass the error message from SQLite to the relevant case of your custom enum.
+
 ### Creating a Contact Struct
+
+Add the following:
+
+```swift
+struct Contact {
+  let id: Int32
+  let name: NSString
+}
+```
+
+In these examples, you’ll use the same `Contact` table as before, so it makes sense to define a proper `struct` to represent a contact. Next, you’ll learn to actually create the table for a `Contact`
 
 ### Wrapping the Table Creation
 
+You’ll knock out the same database tasks as before, but this time you’ll use a “Swift-ier” approach.
+
+To create a table, first, create the following `protocol` for that purpose in your playground:
+
+```swift
+protocol SQLTable {
+  static var createStatement: String { get }
+}
+```
+
+Now, extend `Contact` to conform to this new protocol:
+
+```swift
+extension Contact: SQLTable {
+  static var createStatement: String {
+    return """
+    CREATE TABLE Contact(
+      Id INT PRIMARY KEY NOT NULL,
+      Name CHAR(255)
+    );
+    """
+  }
+}
+```
+
+This code defines `createStatement` and adds a `CREATE TABLE` statement on `Contact` which is useful for keeping the code grouped together.
+
+Now, you’re able to write the following method that accepts types that conform to `SQLTable` to create a table:
+
+```swift
+extension SQLiteDatabase {
+  func createTable(table: SQLTable.Type) throws {
+    // 1
+    let createTableStatement = try prepareStatement(sql: table.createStatement)
+    // 2
+    defer {
+      sqlite3_finalize(createTableStatement)
+    }
+    // 3
+    guard sqlite3_step(createTableStatement) == SQLITE_DONE else {
+      throw SQLiteError.Step(message: errorMessage)
+    }
+    print("\(table) table created.")
+  }
+}
+```
+
+Here’s a breakdown of what’s happening:
+
+1. `prepareStatement()` throws, so you must use `try`. You don’t use a `do-try-catch` block because this method itself throws, so any error from `prepareStatement()` simply passes to the caller of `createTable()`.
+2. With the power of `defer`, you ensure that your statements are always finalized, regardless of how this method exits its scope.
+3. `guard` lets you write a more expressive check for the SQLite status codes.
+
+Give your new method a try by adding the following:
+
+```swift
+do {
+  try db.createTable(table: Contact.self)
+} catch {
+  print(db.errorMessage)
+}
+```
+
+Here, you simply attempt to create the `Contact` and catch an error, if there is one.
+
+Run your playground. The following will appear in your console:
+
+```
+Contact table created.
+```
+
+Fantastic! Isn’t that a much cleaner API to work with?
+
 ### Wrapping Insertions
 
+Moving along, it’s time to insert a row into the `Contact` table. Add the following method in your playground:
+
+```swift
+extension SQLiteDatabase {
+  func insertContact(contact: Contact) throws {
+    let insertSql = "INSERT INTO Contact (Id, Name) VALUES (?, ?);"
+    let insertStatement = try prepareStatement(sql: insertSql)
+    defer {
+      sqlite3_finalize(insertStatement)
+    }
+    let name: NSString = contact.name
+    guard 
+      sqlite3_bind_int(insertStatement, 1, contact.id) == SQLITE_OK  &&
+      sqlite3_bind_text(insertStatement, 2, name.utf8String, -1, nil) 
+        == SQLITE_OK 
+      else {
+        throw SQLiteError.Bind(message: errorMessage)
+    }
+    guard sqlite3_step(insertStatement) == SQLITE_DONE else {
+      throw SQLiteError.Step(message: errorMessage)
+    }
+    print("Successfully inserted row.")
+  }
+}
+```
+
+Now that you’ve got your SQLegs – see what I did there? :] – this code shouldn’t be too surprising. Given a `Contact` instance, you prepare a statement, bind the values, execute and finalize.
+
+Again, using a potent mix of `defer`, `guard` and `throw` allows you to take advantage of modern Swift language features.
+
+Call this new method:
+
+```swift
+do {
+  try db.insertContact(contact: Contact(id: 1, name: "Ray"))
+} catch {
+  print(db.errorMessage)
+}
+```
+
+Run your playground. You’ll see the following in your console:
+
+```
+Successfully inserted row.
+```
+
 ### Wrapping Reads
+
+To wrap up the last section on creating the Swift wrapper, you’ll handle querying the database.
+
+Add the following method, which will query the database:
+
+```swift
+extension SQLiteDatabase {
+  func contact(id: Int32) -> Contact? {
+    let querySql = "SELECT * FROM Contact WHERE Id = ?;"
+    guard let queryStatement = try? prepareStatement(sql: querySql) else {
+      return nil
+    }
+    defer {
+      sqlite3_finalize(queryStatement)
+    }
+    guard sqlite3_bind_int(queryStatement, 1, id) == SQLITE_OK else {
+      return nil
+    }
+    guard sqlite3_step(queryStatement) == SQLITE_ROW else {
+      return nil
+    }
+    let id = sqlite3_column_int(queryStatement, 0)
+    guard let queryResultCol1 = sqlite3_column_text(queryStatement, 1) else {
+      print("Query result is nil.")
+      return nil
+    }
+    let name = String(cString: queryResultCol1) as NSString
+    return Contact(id: id, name: name)
+  }
+}
+```
+
+This method simply takes the ID of a contact and either returns that contact or `nil`, if there isn’t a contact with that ID. Again, these statements should feel somewhat familiar by now.
+
+Write the code to query the first contact:
+
+```swift
+if let first = db.contact(id: 1) {
+  print("\(first.id) \(first.name)")
+}
+```
+
+Run your playground. You’ll see the following output in the console:
+
+```
+1 Ray
+```
+
+By now, you’ve probably identified some calls you could create in a generic fashion and apply to entirely different tables. The point of the above exercise is to show how you can use Swift to wrap low-level C APIs. This is no simple task for SQLite; there are a ton of intricacies to SQLite that this tutorial didn’t cover.
+
+You might be thinking, “Hasn’t someone already created a wrapper for this?” That’s what the final section is all about.
 
 ---
 
 ## Introducing <FontIcon icon="fas fa-dove"/>`SQLite.swift`
+
+[Stephen Celis](https://twitter.com/stephencelis) has graciously written a fully-featured Swift wrapper for SQLite named [<FontIcon icon="fas fa-dove"/>`SQLite.swift`](https://github.com/stephencelis/SQLite.swift). Check it out if you decide that SQLite fits the bill for data storage in your app.
+
+SQLite.swift provides an expressive way to represent tables. This lets you get started with SQLite without worrying about its underlying details and idiosyncrasies.
+
+You may even consider wrapping SQLite.swift itself to create a high-level API for your app’s domain model.
+
+Check out the [README.md for [<FontIcon icon="fas fa-dove"/>`SQLite.swift`](https://github.com/stephencelis/SQLite.swift/blob/master/README.md) and decide for yourself if it has a place in your personal code toolbox.
 
 ---
 

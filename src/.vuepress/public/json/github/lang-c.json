@@ -554,5 +554,10 @@
     "desc": "Cross-platform IDE for development in Oberon programming language made in the classical FreePascal-like pseudo-graphic style.",
     "officialSite": "",
     "topics": ["compiler", "console-visualization", "cross-platform", "graphics-programming", "gui-application", "gui-programming", "ide", "libsdl2-dev", "linux", "oberon", "pascal", "programming-language", "retro", "terminal-emulator", "text-editor", "turbo-c", "turbo-pascal", "windows"]
+  }, {
+    "repo": "eunomia-bpf/bpftime",
+    "desc": "Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins",
+    "officialSite": "https://eunomia.dev/bpftime/",
+    "topics": ["ebpf", "instrumentation", "jit", "llvm", "runtime", "syscall-tracing", "uprobes", "userspace"]
   }
 ]

@@ -45,5 +45,6 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-teddynote" /><!-- 테디노트 TeddyNote -->
 <MyYouTubeItems jsonName="yu-Akbun" /><!-- 악분 일상 -->
 <MyYouTubeItems jsonName="yu-user-zm1tj9mq1f" /><!-- 크래프트맨 멘탈리티 -->
+<MyYouTubeItems jsonName="yu-mathbyteacademy" /><!-- MathByte Academy -->
 
 <TagLinks />

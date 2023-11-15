@@ -29,5 +29,10 @@
     "desc": "visionOS 30 days challenge.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "twostraws/Inferno",
+    "desc": "Metal shaders for SwiftUI.",
+    "officialSite": "",
+    "topics": []
   }
 ]

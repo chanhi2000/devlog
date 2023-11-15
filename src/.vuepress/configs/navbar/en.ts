@@ -131,6 +131,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: '🦀Rust to Assembly',
             link: '/crashcourse/eventhelix-rust-to-assembly/README.md'
+          }, {
+            text: '🦀Wasm by Example',
+            link: '/crashcourse/rust-wasm-by-example/README.md',
           }
         ]
       }, {

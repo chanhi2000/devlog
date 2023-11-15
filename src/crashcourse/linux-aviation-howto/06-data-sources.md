@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Aviation HOWTO > Data Sources
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-aviation-howto/06-data-sources.html
+    content: https://chanhi2000.github.io/crashcourse/linux-aviation-howto/06-data-sources.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -239,5 +239,20 @@
     "desc": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
     "officialSite": "",
     "topics": ["hacktoberfest"]
+  }, {
+    "repo": "netbootxyz/netboot.xyz",
+    "desc": "Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.",
+    "officialSite": "https://netboot.xyz",
+    "topics": ["ansible", "baremetal", "boot", "dhcp", "docker", "hacktoberfest", "install", "installer", "ipxe", "linux", "liveos", "menu", "netboot", "netbootxyz", "operating-systems", "provisioning", "pxe", "pxeboot", "pxelinux", "tftp"]
+  }, {
+    "repo": "poettering/diskomator",
+    "desc": "🦠 NVMe-TCP at your fingertips 🦠",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "LouisShark/chatgpt_system_prompt",
+    "desc": "store all chatgpt's system prompt",
+    "officialSite": "",
+    "topics": []
   }
 ]

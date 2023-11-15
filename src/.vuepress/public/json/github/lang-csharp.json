@@ -254,5 +254,20 @@
     "desc": "A clash client for Windows, support clash core and Clash.Meta core",
     "officialSite": "https://1.2345345.xyz",
     "topics": []
+  }, {
+    "repo": "dotnet/aspire",
+    "desc": ".NET Aspire",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "microsoft/fluentui-blazor",
+    "desc": "Microsoft Fluent UI Blazor components library. For use with .NET 6.0 or higher Blazor applications",
+    "officialSite": "https://www.fluentui-blazor.net",
+    "topics": ["adaptive-ui", "blazor", "component-architecture", "component-library", "components", "csharp", "csharp-library", "design-systems", "development-tools", "fluent", "fluentui", "front-end-framework", "web-components", "web-standards", "webassembly"]
+  }, {
+    "repo": "dotnet/eShop",
+    "desc": "A reference .NET application implementing an eCommerce site",
+    "officialSite": "",
+    "topics": []
   }
 ]

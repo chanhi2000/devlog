@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "YdL2bHJpLBQ", "title": "쉽고 빠르게 배우는 vue.js 강의 7-3] Provide와 Inject" }, 
+    { "id": "SD0tcx1Wmos", "title": "쉽고 빠르게 배우는 vue.js 강의 7-4] Fallthrought Attributes" }, 
+    { "id": "1BOGpBrQ0Gc", "title": "쉽고 빠르게 배우는 vue.js 강의 7-5] Component v-model" },
     { "id": "o7SszQLAvOE", "title": "쉽고 빠르게 배우는 vue.js 강의 6-2] Notion 데이터 불러오기" },
     { "id": "d9ZlaEilxto", "title": "쉽고 빠르게 배우는 vue.js 강의 7-1] Props" },
     { "id": "PpE5nFVuZLQ", "title": "쉽고 빠르게 배우는 vue.js 강의 7-2] Emits" },

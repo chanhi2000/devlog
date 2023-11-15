@@ -72,19 +72,15 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 
 ### C. 노트정리
 
-#### C1. `/crashcourse/cli-text-processing-w-gnu-awk` 정리
-
-> [See README](/crashcourse/cli-text-processing-w-gnu-awk/README.md)
-
-#### C2. `/crashcourse/paul-hudson-100-days-of-swift` 정리
+#### C1. `/crashcourse/paul-hudson-100-days-of-swift` 정리
 
 > [See README](/crashcourse/paul-hudson-100-days-of-swift/README.md)
 
-#### C3. `/crashcourse/paul-hudson-100-days-of-swiftui` 정리
+#### C2. `/crashcourse/paul-hudson-100-days-of-swiftui` 정리
 
 > [See README](/crashcourse/paul-hudson-100-days-of-swiftui/README.md)
 
-#### C4. `/crashcourse/paul-hudson-swiftui-by-example` 정리
+#### C3. `/crashcourse/paul-hudson-swiftui-by-example` 정리
 
 > [See README](/crashcourse/paul-hudson-swiftui-by-example/README.md)
 

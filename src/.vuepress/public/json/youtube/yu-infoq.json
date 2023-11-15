@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/uAtHLRLqaOAT9CclOY9T7Co1WEnGoaLWPSiDlHp2Qsr7An2xeQSfxZWcWyxkcC-P0GTV-hqdfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5RJk-Od8ptE", "title": "Is Your Java Application Slow? Check out These Open-Source Profilers" }, 
     { "id": "iNqD6W_ubvo", "title": "Dark Side of DevOps" },
     { "id": "MjEKuHwrwl8", "title": "Dark Energy, Dark Matter and the Microservices Patterns?!" }, 
     { "id": "izF9RBmScB8", "title": "DevSusOps - Bringing Sustainability Concerns to Development and Operations" }, 

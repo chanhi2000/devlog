@@ -114,5 +114,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "craftzdog/dotfiles-public",
+    "desc": "My personal dotfiles",
+    "officialSite": "",
+    "topics": []
   }
 ]

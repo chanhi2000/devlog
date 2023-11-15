@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/N9rXZqrdzVF9FU8-FCMfHpLeY4NhLtaz8SV8kyRjYgurURjkKngnAKk2t2mDHUq7EUAA9uboRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1MCK930c36s", "title": "Building the Vue 3 VDOM on Stage - Vue.js Live 2023" }, 
+    { "id": "evwYUEEfUv8", "title": "Render when? Render where? Render why? Render what? - VueConf US 2023" },
     { "id": "-TcqT4KsOqA", "title": "Appetite for Components - VueConf US 2023" },
     { "id": "qiXWFHMFb7A", "title": "Building Desktop Apps with Vue - VueConf US 2023" },
     { "id": "R0o-mbL9IN8", "title": "Programming an AI-Powered Vue App" },

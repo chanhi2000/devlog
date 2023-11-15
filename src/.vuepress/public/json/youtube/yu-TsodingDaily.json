@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/bQ8tYTXxD7v9-o3rvg2XzKS23Rdza-Ug7uUUqSF869fq5_aPqVtinn1CMO5H5pqObMnd4xzTus0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Sw12N7-zqkk", "title": "My Viewers DDoSed my Rust App" }, 
+    { "id": "XAGCULPO_DE", "title": "I tried React and it Ruined My Life" },
     { "id": "qmmQAAJzM54", "title": "My Viewers DDoSed my Go App" },
     { "id": "BbIEuNscn_E", "title": "I rewrote My Go App in Rust" },
     { "id": "SRgLA8X5N_4", "title": "Doing UI in C to Piss Off the React devs" },

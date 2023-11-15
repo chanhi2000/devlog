@@ -2326,11 +2326,11 @@
   }, {
     "repo": "lllyasviel/Fooocus",
     "desc": "Focus on prompting and generating",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "chatchat-space/Langchain-Chatchat",
-    "desc": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ",
+    "desc": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
     "officialSite": "",
     "topics": ["chatbot", "chatchat", "chatglm", "chatglm-6b", "chatglm2-6b", "chatgpt", "embedding", "faiss", "fastchat", "gpt", "knowledge-base", "langchain", "langchain-chatchat", "langchain-chatglm", "llama", "llm", "milvus", "pgvector", "streamlit", "text2vec"]
   }, {
@@ -3233,5 +3233,45 @@
     "desc": "Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "disler/multi-agent-postgres-data-analytics",
+    "desc": "The way we interact with our data is changing.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "luosiallen/latent-consistency-model",
+    "desc": "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "google-deepmind/graphcast",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["weather", "weather-forecast"]
+  }, {
+    "repo": "0xsyr0/OSCP",
+    "desc": "OSCP Cheat Sheet",
+    "officialSite": "",
+    "topics": ["cheat-sheet", "oscp", "oscp-guide"]
+  }, {
+    "repo": "protectai/ai-exploits",
+    "desc": "A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "protectai/ai-exploits",
+    "desc": "A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pytorch-labs/segment-anything-fast",
+    "desc": "A batched offline inference oriented version of segment-anything",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "google-deepmind/graphcast",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["weather", "weather-forecast"]
   }
 ]

@@ -59,5 +59,10 @@
     "desc": "a work-in-progress Ruby compiler, written in Ruby and C++",
     "officialSite": "https://natalie-lang.org",
     "topics": ["compiler", "cpp", "language", "ruby"]
+  }, {
+    "repo": "github/scientist",
+    "desc": ":microscope: A Ruby library for carefully refactoring critical paths.",
+    "officialSite": "",
+    "topics": ["refactoring", "ruby", "rubygem", "scientist"]
   }
 ]

@@ -739,5 +739,15 @@
     "desc": "Collection of all the GPTs created by the community",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ashishps1/awesome-system-design-resources",
+    "desc": "This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ai-boost/Awesome-GPTs",
+    "desc": "Curated list of awesome GPTs 👍.",
+    "officialSite": "https://github.com/ai-boost/awesome-gpts",
+    "topics": ["awesome", "awesome-list", "chatgpt", "curated-list", "gpts"]
   }
 ]

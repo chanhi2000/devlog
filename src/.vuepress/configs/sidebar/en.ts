@@ -847,6 +847,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/62.md',
         '/crashcourse/paul-hudson-100-days-of-swift/63.md',
         '/crashcourse/paul-hudson-100-days-of-swift/64.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/65.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -905,6 +906,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/50.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/51.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/52.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/53.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -919,7 +921,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/kodeco-swift/README.md',
         '/crashcourse/kodeco-swift/6398124-swiftui-tutorial-for-ios-creating-charts.md',
         '/crashcourse/kodeco-swift/6334294-my-app-crashed-now-what.md',
-        '/crashcourse/kodeco-swift/6620276-sqlite-with-swift-tutorial-getting-started.md'
+        '/crashcourse/kodeco-swift/6620276-sqlite-with-swift-tutorial-getting-started.md',
+        '/crashcourse/kodeco-swift/6747815-uigesturerecognizer-tutorial-getting-started.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',
@@ -1097,6 +1100,16 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/freecodecamp-rust-by-practice/28-async.md',
         '/crashcourse/freecodecamp-rust-by-practice/29-std.md',
         '/crashcourse/freecodecamp-rust-by-practice/30-fight-compiler.md',
+      ]
+    }, {
+      text: '🦀Wasm by Example',
+      collapsible: true,
+      children: [
+        '/crashcourse/rust-wasm-by-example/README.md',
+        '/crashcourse/rust-wasm-by-example/01-concepts.md',
+        '/crashcourse/rust-wasm-by-example/02-applying-the-concepts.md',
+        '/crashcourse/rust-wasm-by-example/03-ecosystem-tools-and-language-features.md',
+        '/crashcourse/rust-wasm-by-example/04-webassembly-outside-of-the-browser.md',
       ]
     }, {
       text: '📦아마존 웹 서비스를 다루는 기술 - 실무에서 필요한 AWS 클라우드의 모든 것!',

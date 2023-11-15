@@ -94,5 +94,10 @@
     "desc": "The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams",
     "officialSite": "https://ctohb.com",
     "topics": []
+  }, {
+    "repo": "ProfSynapse/Synapse_CoR",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

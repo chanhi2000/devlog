@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🎨Colt Steele - Mastering CSS Grid > 06. Creating Responsive Grids
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/colt-steele-mastering-css-grid/06-creating-responsive-grids.html
+    content: https://chanhi2000.github.io/crashcourse/colt-steele-mastering-css-grid/06-creating-responsive-grids.html
 ---
 
 # {{ $frontmatter.title }} 관련

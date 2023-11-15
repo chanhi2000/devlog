@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/fgne5iN8kECw3Gk8-792W-A-HS5klc8hyw19hMlLlbYO_EvG1M0RhZp38_bEVaPjtgqOpiJDd7w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aVf16cmp5yk", "title": "Spring boot and Angular CRUD Example || Employee Management" }, 
     { "id": "WtiWg4W-tEI", "title": "Angular Setup and Basic Application" },
     { "id": "u85n515cvIQ", "title": "How to write Java Code using ChatGPT" },
     { "id": "yZ79S1tE9Bk", "title": "Java 8 Date Time API" },

@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Journey > Networking Nomad > Network Basics
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-journey/02-networking-nomad
+    content: https://chanhi2000.github.io/crashcourse/linux-journey/02-networking-nomad
 ---
 
 # {{ $frontmatter.title }} 관련

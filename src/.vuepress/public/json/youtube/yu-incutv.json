@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "incutv",
+    "name": "개발자 인큐티비",
+    "profile": "https://yt3.googleusercontent.com/GXwH4viqzORgOWRSC_nR8WM85WAnhPp1C29qU82FN0h0m49DsnN6CvLawq6iDV_-hYMEkiaL-Zc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nIW-MUJSA0HBzg5jJwdp9LaA_3gIPAnaii2n_UGOpu4JjFq7qwNGtFVO6rcy-4dK1jJWEAiwRvk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "a-f0HxYRNiM", "title": "백엔드개발 자바 기술면접 | 개발자 기술 면접 )IT 서비스 탑티어 회사 신입개발자 JAVA 단골 질문1" }
+  ]
+}

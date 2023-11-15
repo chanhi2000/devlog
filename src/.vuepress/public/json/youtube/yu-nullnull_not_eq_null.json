@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/VcrjriygyYu8arXpagf9kXTOZzJI73fg9Vhp62YHPFM2lh07_65LKf87kJCKzOHfUYBnEg5l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hpMMC3JgiHE", "title": "백엔드 개발자 취업을 위한 Java 프로그래밍 입문서 추천" }, 
     { "id": "tLOUe3GYDf8", "title": "콘솔(Console)이란 무엇일까?" },
     { "id": "h31lUbLhZdA", "title": "독하게 시작하는 C 강의오픈 안내" },
     { "id": "GJwz6CfyrLE", "title": "C/C++ 임베디드 시스템 개발사 면접 질문 2가지에 대한 문의와 주관적 답변" }, 

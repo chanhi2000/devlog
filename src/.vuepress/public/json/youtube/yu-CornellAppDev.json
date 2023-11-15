@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/R4mZA4YN8n-5bavMWAif7mAoh4sCv_alAwvxWYnXpZgrz7LlJiKyOZ1NulErQM1hhA-ciCBOxRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3RWk1hah-sg", "title": "Intro to iOS - Widgets (Guest Lecture)" }, 
+    { "id": "JRg2TXP8M5U", "title": "Intro to Backend: Demo 5 - Containerization" }, 
+    { "id": "xSktqceBLTI", "title": "[FA23] Intro to iOS - L11: SwiftUI Part II" },
     { "id": "DKXLf3zebUA", "title": "Intro to iOS - L3: MVC + Navigation + Delegation" },
     { "id": "NrbTwbFjh9k", "title": "Intro to Backend Development: Demo 1 - Routes" },
     { "id": "4dYdWGO56N4", "title": "Intro to Backend Development: Demo 7 - Authentication" }, 

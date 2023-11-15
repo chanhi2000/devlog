@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Jb27koyy_6K1cK7jEPruHKDVTCwpApNgVw2Jq9TWSWtMGnOBgDJMzsvahOz51VStL1jzZc0wcC4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dVVLWZ6cmPM", "title": "Python for Complete Beginners: 0116 Types in Python" }, 
+    { "id": "Bg2Q5sGj7Z8", "title": "Python for Complete Beginners: 0117 Performing Calculations" },
     { "id": "cn7R0fbSaxQ", "title": "Python for Beginners: 0104 Installing Powershell" }
   ]
 }

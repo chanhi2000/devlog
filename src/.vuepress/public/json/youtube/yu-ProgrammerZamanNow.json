@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/IgduIAmIDHD9GU-aTw3tX30EuQ7I3SzzQsBXg16bRJhFzLFyK_seScuVB8tQoU9TK5UytpEltg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9XIufyvBNSI", "title": "Tutorial Golang Standard Library (Bahasa Indonesia)" }, 
     { "id": "ICQ6V8u9sSw", "title": "Tutorial MongoDB Dasar (Bahasa Indonesia)" },
     { "id": "iEeveYoD0SA", "title": "TUTORIAL POSTGRESQL DATABASE (BAHASA INDONESIA)" },
     { "id": "cSM2Tt3OCm4", "title": "TUTORIAL SPRING CONFIG PROPERTIES (BAHASA INDONESIA)" }, 

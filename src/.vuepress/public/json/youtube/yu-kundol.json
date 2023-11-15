@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/iMHGMGwmtK06qKBIx5fgsdq7Sn7XOPuj6_jcD_TxVag4eCva3bXiK-KrnuJD_-p9HHGQbq4xd98=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HbxHATeiPKk", "title": "카카오 인턴십 채용 두둥등장" }, 
+    { "id": "N614irvCACo", "title": "MongoDB의 2D sphere index 의 원리" }, 
+    { "id": "MlvZ2IufTFI", "title": "자바스크립트로 코딩테스트 보기전 봐야할 핵심로직 12가지" }, 
     { "id": "bluQwqMgTsw", "title": "MySQL and MongoDB comparision" },
     { "id": "LV-gxtDkiiw", "title": "카카오면접을 합격으로 이끌었던 몇가지의 코드" },
     { "id": "n5TLPPprGMA", "title": "카카오뱅크 IOS 개발자 채용 | 코테X" },

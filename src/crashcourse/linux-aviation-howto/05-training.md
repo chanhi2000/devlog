@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Aviation HOWTO > Training
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-aviation-howto/05-training.html
+    content: https://chanhi2000.github.io/crashcourse/linux-aviation-howto/05-training.html
 ---
 
 # {{ $frontmatter.title }} 관련

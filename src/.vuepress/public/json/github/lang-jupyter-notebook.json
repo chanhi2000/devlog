@@ -394,5 +394,25 @@
     "desc": "Official Repository for \"Eureka: Human-Level Reward Design via Coding Large Language Models\"",
     "officialSite": "https://eureka-research.github.io",
     "topics": []
+  }, {
+    "repo": "Vaibhavs10/insanely-fast-whisper",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "chenzomi12/DeepLearningSystem",
+    "desc": "Deep Learning System core principles introduction.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "udlbook/udlbook",
+    "desc": "Understanding Deep Learning - Simon J.D. Prince",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "reworkd/tarsier",
+    "desc": "Vision utilities for web interaction agents 👀",
+    "officialSite": "https://reworkd.ai",
+    "topics": ["gpt4v", "llms", "ocr", "playwright", "pypi-package", "python", "selenium", "webscraping"]
   }
 ]

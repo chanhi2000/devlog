@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Journey > GrassHopper > Packages
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-journey/01-grasshopper
+    content: https://chanhi2000.github.io/crashcourse/linux-journey/01-grasshopper
 ---
 
 # {{ $frontmatter.title }} 관련

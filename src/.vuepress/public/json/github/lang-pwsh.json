@@ -39,5 +39,10 @@
     "desc": "game of active directory",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "officialSite": "",
+    "topics": ["dotnet", "dotnet-core"]
   }
 ]

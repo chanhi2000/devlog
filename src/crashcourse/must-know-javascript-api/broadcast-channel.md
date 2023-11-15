@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🧶Must Know JavaScript API > Broadcast Channel API
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/must-know-javascript-api/broadcast-channel
+    content: https://chanhi2000.github.io/crashcourse/must-know-javascript-api/broadcast-channel
 ---
 
 # {{ $frontmatter.title }} 관련

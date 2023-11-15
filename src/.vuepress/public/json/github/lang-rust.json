@@ -806,9 +806,9 @@
     "topics": ["approximate-nearest-neighbor-search", "embeddings-similarity", "hacktoberfest", "hnsw", "image-search", "knn-algorithm", "machine-learning", "matching", "mlops", "nearest-neighbor-search", "neural-network", "neural-search", "recommender-system", "search", "search-engine", "search-engines", "similarity-search", "vector-database", "vector-search", "vector-search-engine"]
   }, {
     "repo": "loro-dev/loro",
-    "desc": "Make your app state synchronized and collaborative effortlessly",
+    "desc": "Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app.",
     "officialSite": "https://loro.dev",
-    "topics": ["collaborative-editing", "crdt", "local-first", "offline-first", "p2p", "rich-text"]
+    "topics": ["collaborative-editing", "crdt", "local-first", "offline-first", "p2p", "privacy-first", "rich-text"]
   }
 ]
 

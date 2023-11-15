@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🧶Must Know JavaScript API > Fetch API
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/must-know-javascript-api/fetch
+    content: https://chanhi2000.github.io/crashcourse/must-know-javascript-api/fetch
 ---
 
 # {{ $frontmatter.title }} 관련

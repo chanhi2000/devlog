@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Xl7mXsL0wwc", "title": "경로찾기 프로젝트 소개 C# WinForm TMAP API 카카오 지도 API" }, 
+    { "id": "xvpq9Ix4_l4", "title": "[경로찾기 프로젝트] 2. 지역 검색 예광탄 - 사용 기술: C# 카카오 개발자 센터 로컬 API" },
     { "id": "loRUjNHGQ10", "title": "파일 수신 서버 구현 [네트워크 프로그래밍 C#]" }, 
     { "id": "N__Bnvg6SJ4", "title": ".NET 리플렉션, 명시적으로 어셈블리 로딩 [실습으로 다지는 C#]" }, 
     { "id": "iDNoNN7k8w4", "title": "TCP 통신 - 에코 서버 및 클라이언트 구현 [네트워크 프로그래밍 C#]" }, 

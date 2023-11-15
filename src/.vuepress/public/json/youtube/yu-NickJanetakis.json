@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wq-a2c7tvbA", "title": "Validate File Types by Reading the First Few Bytes of a File" }, 
+    { "id": "TuaeG_iS71w", "title": "Customize FZF's CTRL + T Binding with FZF_CTRL_T_OPTS to Preview Files" },
     { "id": "I0dvnRcLojY", "title": "Get Video Duration in Seconds Using FFmpeg / FFprobe" },
     { "id": "Ix24Hh_SfO4", "title": "Delete Lines That Match a Pattern or the Opposite Pattern Using `sed`" },
     { "id": "kEJzqMfxZVI", "title": "Modifying Shell Arguments with the set Command" },

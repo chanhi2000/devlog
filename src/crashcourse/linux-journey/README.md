@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: Linux Journey
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-journey
+    content: https://chanhi2000.github.io/crashcourse/linux-journey
 ---
 
 # {{ $frontmatter.title }} 관련

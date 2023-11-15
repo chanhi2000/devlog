@@ -69,6 +69,16 @@
     "desc": "Open Machine Learning course",
     "officialSite": "",
     "topics": ["computer-vision", "course", "deep-learning", "machine-learning", "materials", "natural-language-processing", "python", "pytorch", "reinforcement-learning", "seminars"]
+  }, {
+    "repo": "dotnet/eShop",
+    "desc": "A reference .NET application implementing an eCommerce site",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jerryjliu/create_llama_projects",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

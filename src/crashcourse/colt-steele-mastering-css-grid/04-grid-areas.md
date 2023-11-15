@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🎨Colt Steele - Mastering CSS Grid > 04. Grid Areas
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/colt-steele-mastering-css-grid/04-grid-areas.html
+    content: https://chanhi2000.github.io/crashcourse/colt-steele-mastering-css-grid/04-grid-areas.html
 ---
 
 # {{ $frontmatter.title }} 관련

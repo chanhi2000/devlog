@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/o69213Wa6chjff2xs9ysFDw0UDXKSd0Q2Si5F6dJSDnP1srSfXOLSSbpIkKD6g-pXXWx5TDJGw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fX5T2CGSwns", "title": "This New Angular Release Is Wild" }, 
+    { "id": "_mKUuTwmKSg", "title": "The Coolest Websites I've Ever Seen" }, 
+    { "id": "pat-nuXf5Jw", "title": "The Quest To Kill `dotenv`" },
+    { "id": "mHOfFWjmUqg", "title": "Is Modern Software Getting Worse? Were Things Better Before?" },
     { "id": "0jHFeGowIQ8", "title": "The Truth About React Server Components" },
     { "id": "5MKw-wOpJR8", "title": "My Tailwind Journey" },
     { "id": "FLQVIiaNeSk", "title": "Svelte 5 Surprised Me" },

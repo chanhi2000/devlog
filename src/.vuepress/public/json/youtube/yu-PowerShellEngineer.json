@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "PowerShellEngineer",
+    "name": "PowerShell Engineer",
+    "profile": "https://yt3.googleusercontent.com/CQkSZ_UZQZ_jJ-oXLzcNVPF9qHeUs6RQbvTkDIZoSiTTIJSkCrXddXaRFHLLURN2VRTSMEDQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uvYb4DZpeugp5eDjUdXWhx5M5WR2yclaDAYhdfdta1w8c_R-Qi0fCWM_FNG4X57F9_dOheU2QAQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZOoCaWyifmI", "title": "Learn PowerShell in Less Than 2 Hours" }
+  ]
+}

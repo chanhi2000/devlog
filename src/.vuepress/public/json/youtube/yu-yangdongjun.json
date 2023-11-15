@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/kwazP42mizQvwvPJxjdI4iCY1Z2q_N6496hL8fckp1YG8anSrHeYxZkIfFIztFwW-AEO_ZzxiQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MxHiHITPHrM", "title": "Microsoft 가 C/C++을 버린다?!" }, 
+    { "id": "bfbWX7Fq6Cc", "title": "백엔드 설계 어렵네요 도와주세요" }, 
+    { "id": "M_XW4WEDMTw", "title": "코드에 이런 실수는 그만!" },
+    { "id": "7EYumQz2DZU", "title": "소프트 스킬 잘하는 주니어 개발자?!" },
     { "id": "db4Iab2zMB4", "title": "신입 백엔드 개발자 합격 이야기" },
     { "id": "ORAbcPNOoOo", "title": "Nextjs 13 고민 중이신가요?" },
     { "id": "Zo9d19f09q4", "title": "신입 개발자를 준비하는 분들에게 보여줄 영상" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/lINwRNuidBNAA30U31Ej-eaJwyqFfTAUudct6fClabrwYuYlUbB58rsrIOh27t78E5_Q5JMt5CA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bQtAg7AFFrY", "title": "Build and Deploy Your Own Instagram App With React and Firebase | Full Tutorial" }, 
     { "id": "m1DyH-h7rWU", "title": "This Feature Will Make Your Chat App Shine In Your Resume" },
     { "id": "VVJynV_gpLM", "title": "Sound Notification Tutorial for Chat Applications | ReactJS" },
     { "id": "IBNMA3uwg9M", "title": "How to Implement Account Freezing Functionality in a Social Media App Using React" },

@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "nw_tVBCw0Z8", "title": "[Probability]_06. 샘플링 표현에 대한 이해와 몬테 카를로 근사" }, 
+    { "id": "k6xog4ZNnT0", "title": "[Probability]_07-2. Stochastic 실습 및 분석" },
+    { "id": "LBT41oKsHWg", "title": "[Probability]_07-1. Stochastic Approach (확률적 접근법)" },
+    { "id": "DEQhCJ0nav4", "title": "[Probability]_07-4. Stochastic Gradient Descent에 왜 &quot;Stochastic&quot;라는 단어가 붙은 건가? 미니배치에서 Stochastic 의미는?" },
+    { "id": "7XJ5wA8rBDg", "title": "BERT_03_Democracy in AI, BERT training, Tokenizers" },
+    { "id": "xgYyAs6D44Y", "title": "BERT_02_Self-supervised Learning, ELMO, Shadow of Big Models" },
+    { "id": "iYKN10na_Y0", "title": "BERT_01_Encoder Model, Pre train, Transfer Learning" },
     { "id": "iTxTGBOhzCA", "title": "[Probability]_01.  Random Variables (확률변수)... 이게 뭔가요?" },
     { "id": "nvHyIScyQxs", "title": "[Probability]_02. Expected Value (기댓값)... 이게 뭔가요?" },
     { "id": "I9UCdp9ucQQ", "title": "01  Web Server, Web Application Server 개념 잡기" }

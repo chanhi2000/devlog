@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/wE7WmtbClGirC9reZfYCxIol6vI-Po6W3UOFHgneoo-LidpliL7hViaGRBH0sXsehfrctXwKygs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8IgtHlWE53o", "title": "[BDS 2023] VM과 컨테이너를 통합 관리하는 클라우드 네이티브 HCI 구축방안" }, 
     { "id": "siT_Gn9npQU", "title": "What is Jira seats? How to control your team's Jira Seats?" }, 
     { "id": "49gvijC_J_U", "title": "[웨비나] Miro 기본 교육: 초보자를 위한 가이드" }, 
     { "id": "cXum4ZaMXds", "title": "Jira Align의 모든 것 (1) : Jira Align 기본 구성" }, 

@@ -59,5 +59,10 @@
     "desc": "An open source cross-platform alternative to AirDrop",
     "officialSite": "https://localsend.org",
     "topics": ["file-sharing", "flutter"]
+  }, {
+    "repo": "flutter/games",
+    "desc": "Home of the Flutter Casual Games Toolkit and other Flutter gaming templates",
+    "officialSite": "",
+    "topics": []
   }
 ]

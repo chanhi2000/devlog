@@ -1787,7 +1787,7 @@ color: rgba(135, 99, 210, 0.2)
 ```card
 title: UIGestureRecognizer Tutorial - Getting Started
 desc: In this tutorial, you’ll learn how to configure UIGestureRecognizer objects and how to create custom recognizers in code.
-link: https://www.kodeco.com/6747815-uigesturerecognizer-tutorial-getting-started
+link: 6747815-uigesturerecognizer-tutorial-getting-started.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-user-interface-ios-21d0f43f2b43d30763411dc88f25ae51608b428e8a186f1cd5468dcf58496168.svg
 color: rgba(135, 99, 210, 0.2)
 ```

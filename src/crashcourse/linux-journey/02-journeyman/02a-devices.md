@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Journey > Journeyman > Devices
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-journey/02-Journeyman
+    content: https://chanhi2000.github.io/crashcourse/linux-journey/02-Journeyman
 ---
 
 # {{ $frontmatter.title }} 관련

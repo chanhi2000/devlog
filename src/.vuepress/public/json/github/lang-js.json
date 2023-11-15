@@ -1051,9 +1051,9 @@
     "topics": ["react", "blog", "hooks", "gatsby", "astro", "react-hooks", "vercel"]
   }, {
     "repo": "saadeghi/daisyui",
-    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️ The most popular, free and open-source Tailwind CSS component library",
+    "desc": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
     "officialSite": "https://daisyui.com",
-    "topics": ["css", "components", "ui-design", "design-systems", "design-pattern", "component", "postcss", "css-framework", "svelte", "ui-kit", "component-library", "css-components", "ui-pattern", "design-system", "ui-library", "ui-framework", "tailwind", "tailwindcss", "tailwind-css", "daisyui"]
+    "topics": ["component", "component-library", "components", "css", "css-components", "css-framework", "daisyui", "design-pattern", "design-system", "design-systems", "postcss", "svelte", "tailwind", "tailwind-css", "tailwindcss", "ui-design", "ui-framework", "ui-kit", "ui-library", "ui-pattern"]
   }, {
     "repo": "wenda-LLM/wenda",
     "desc": "闻达：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力",
@@ -1714,5 +1714,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "timsayshey/cringe-clock",
+    "desc": "In your face Desktop Pomodoro App for the Wildly Distractible",
+    "officialSite": "",
+    "topics": ["pomodoro", "pomodoro-timer", "productivity", "productivity-booster", "productivity-tools"]
   }
 ]

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/vgLcJl1lFuWCA8xvZETUeX8lGg1lk0kO71qTvQ5fSakyjsCsHUQEz3SQSOKtk-GxxY5_ilNm=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yO5oQGs2WCk", "title": "Observable Flutter #28: Faking 3D graphics" }, 
     { "id": "m-jmCkUajQ8", "title": "Observable Flutter #26: Flocking algorithms" },
     { "id": "MqjCIITfCIA", "title": "Gap (Package of the Week)" },
     { "id": "jGoPKX6e39Q", "title": "Observable Flutter: Flame + Shaders" },

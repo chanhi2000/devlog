@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "_c2l4qUjyFM", "title": "작업9, 게시물 수정 기능 구현" },
+    { "id": "OR2I5nfI_Ts", "title": "작업7, 게시글 삭제 기능 구현" },
+    { "id": "SthI00kjy84", "title": "작업6, 게시글 삭제 시도중" },
+    { "id": "m3CRJLvzX5w", "title": "작업5, 게시글 상세 페이지 구현(날짜 아직)" },
+    { "id": "iBCKvQ_RCXw", "title": "git clone" },
+    { "id": "HRsDt15Qqh4", "title": "딕셔너리 문제 풀이" },
+    { "id": "jXvwGk2rAPo", "title": "반복문 합 문제 풀이" },
+    { "id": "DWXJ6eraZGo", "title": "함수 문제 풀이" },
+    { "id": "xZNvWi-_aqo", "title": "인스턴스 속성(instance attribute)" },
     { "id": "QtCRL63LFew", "title": "컨테이너 MySql 서버에 계정, DB 생성" }, 
     { "id": "UpDULnMdYxA", "title": "이미지 빌드" }, 
     { "id": "x5qCnOC-GsI", "title": "가상 머신 복제" }, 

@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Aviation HOWTO > Websites and Catalogs
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-aviation-howto/07-websites-and-catalogs.html
+    content: https://chanhi2000.github.io/crashcourse/linux-aviation-howto/07-websites-and-catalogs.html
 ---
 
 # {{ $frontmatter.title }} 관련

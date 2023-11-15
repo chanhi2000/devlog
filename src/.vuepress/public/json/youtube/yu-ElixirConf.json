@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "gtCJ56GxKf0", "title": "ElixirConf 2023 - Jeffery Utter - Scaling Teams with Kafka on the BEAM" }, 
+    { "id": "P44hFAhKPao", "title": "ElixirConf 2023 - Tyler Young - Rebuilding the Plane While It’s Still Flying" },
     { "id": "owz2QacFuoQ", "title": "ElixirConf 2023 - Wojtek Mach - Req - a batteries-included HTTP client for Elixir" },
     { "id": "XSwxNgza7hE", "title": "ElixirConf 2023 - AJ Foster - Filling the Gaps in the Ecosystem" },
     { "id": "R1qsFBgCmGQ", "title": "ElixirConf 2023 - Zack Kayzer and Stephanie Lane - Unleashing the Power of DAGs with Pacer Workflow" },

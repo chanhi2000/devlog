@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/TL7jYLx2g5E5EDU79qYIlNd8v3rixDhpHP39TzkAwCvgui4oojemjlmyT0Czwj7T43cfNCKkfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tctIYQSN7qc", "title": "The Cost Of JavaScript" }, 
+    { "id": "ASdhlvL0obY", "title": "My Journey Across the Spider-Verse: from Hobbyist to Hollywood" }, 
+    { "id": "slSZk38ncw8", "title": "What is a WebAssembly Component (and Why?)" }, 
     { "id": "TxZwVHzBy34", "title": "Getting Started with Scripting in Python in Blender 3D" },
     { "id": "X0jUl4XBOCA", "title": "Python Beginner to Advanced in One Hour" },
     { "id": "ZgEVIsDS4mA", "title": "Revolutionizing Rigs: Modern widgets for Character Animation" },

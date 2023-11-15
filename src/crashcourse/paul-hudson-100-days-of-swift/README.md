@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 100 Days of Swift
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/paul-hudson-100-days-of-swift
+    content: https://chanhi2000.github.io/crashcourse/paul-hudson-100-days-of-swift
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -189,15 +189,15 @@ We’ve covered some hugely important iOS technologies that you’ll be relying 
 
 - [Day 59][day-59] – Milestone: Projects 13-15
  
-### Days 60-65: Maps and bugs
+### ✅Days 60-65: Maps and bugs
 
 In the next three projects we’ll be edging a little further away from UIKit as we explore MapKit, Apple’s powerful and flexible mapping framework, then we’ll tackle a skill you’re more than ready for: debugging.
 
-- ✅[Day 60][day-60] – Project 16, part one
-- ✅[Day 61][day-61] – Project 16, part two
-- ✅[Day 62][day-62] – Project 17, part one
-- ✅[Day 63][day-63] – Project 17, part two
-- ✅[Day 64][day-64] – Project 18, part one
+- [Day 60][day-60] – Project 16, part one
+- [Day 61][day-61] – Project 16, part two
+- [Day 62][day-62] – Project 17, part one
+- [Day 63][day-63] – Project 17, part two
+- [Day 64][day-64] – Project 18, part one
 - [Day 65][day-65] – Project 18, part two
  
 ### Day 66: Consolidation VII
@@ -354,7 +354,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-62]: 62.md
 [day-63]: 63.md
 [day-64]: 64.md
-[day-65]: https://www.hackingwithswift.com/100/65
+[day-65]: 65.md
 [day-66]: https://www.hackingwithswift.com/100/66
 [day-67]: https://www.hackingwithswift.com/100/67
 [day-68]: https://www.hackingwithswift.com/100/68

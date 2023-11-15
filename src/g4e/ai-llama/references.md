@@ -52,4 +52,10 @@ tags: ["llama" , "llm"]
 
 ---
 
+## Second State
+
+- [Fast and Portable Llama2 Inference on the Heterogeneous Edge](https://www.secondstate.io/articles/fast-llm-inference/)
+
+---
+
 <TagLinks/>

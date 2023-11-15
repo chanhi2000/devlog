@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🎨Colt Steele - Mastering CSS Grid > 03. Positioning Elements by Lines
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/colt-steele-mastering-css-grid/01-css-grid-basics.html
+    content: https://chanhi2000.github.io/crashcourse/colt-steele-mastering-css-grid/01-css-grid-basics.html
 ---
 
 # {{ $frontmatter.title }} 관련

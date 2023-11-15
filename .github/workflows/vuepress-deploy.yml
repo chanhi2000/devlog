@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: vuepress-deploy
-        uses: jenkey2011/vuepress-deploy@master
+        uses: chanhi2000/vuepress-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: chanhi2000/chanhi2000.github.io

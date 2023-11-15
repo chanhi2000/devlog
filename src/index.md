@@ -84,6 +84,14 @@ color: rgba(56, 59, 64, 0.2)
 ```
 
 ```card
+title: 비즈니스를 위한 무료 웹 서비스 모음
+dess: 무료로도 유용하게 사용할 수 있는 온라인 웹 서비스들을 총 망라했습니다.
+link: https://kidow.notion.site/0fc89df5906e4b918bd25b059b0f56a6
+logo: https://kidow.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F87c7f48f-35bf-4937-a48b-6d668f1ecb16%2FGroup_117.png?table=block&id=0fc89df5-906e-4b91-8bd2-5b059b0f56a6&spaceId=aa404725-54fb-4102-b842-1b14f9803432&width=250&userId=&cache=v2
+color: rbga(20,20,20,0.2)
+```
+
+```card
 title: 머니플뉴스
 desc: AI가 대신 읽어주는 뉴스
 link: https://newsgpt.web.app

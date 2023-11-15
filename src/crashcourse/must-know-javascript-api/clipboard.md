@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🧶Must Know JavaScript API > Clipboard API
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/must-know-javascript-api/clipboard
+    content: https://chanhi2000.github.io/crashcourse/must-know-javascript-api/clipboard
 ---
 
 # {{ $frontmatter.title }} 관련

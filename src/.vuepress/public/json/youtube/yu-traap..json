@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "DjMg0TV8wqM", "title": "Navigate between TMUX, Neovim, and Vim in any direction with Ctrl-H, Ctrl-J, Ctrl-k, and Ctrl-l." }, 
     { "id": "xpBoiTIiepc", "title": "Barebones LazyVim" }
   ]
 }

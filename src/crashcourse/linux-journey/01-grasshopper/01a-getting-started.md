@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Journey > GrassHopper > Getting Started
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-journey/01-grasshopper/01a-getting-started
+    content: https://chanhi2000.github.io/crashcourse/linux-journey/01-grasshopper/01a-getting-started
 ---
 
 # {{ $frontmatter.title }} 관련

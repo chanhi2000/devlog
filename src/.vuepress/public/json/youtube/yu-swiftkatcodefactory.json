@@ -1,11 +1,12 @@
 {
   "channel": {
     "id": "swiftkatcodefactory",
-    "name": "Swift Kat Code Factory",
+    "name": "Swift 🐈 Code Factory",
     "profile": "https://yt3.googleusercontent.com/u_i1JgZ12wLRw8AZwKV6hYRCp3aV2QyskLUFS5glychqrJ7gqO3kIwXNMk4wDgM5cyxzHScF=s176-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
+    { "id": "yU-70bd5OUY", "title": "Build an AI Image Generation ChatBot with OpenAI | iPhone App with AI GenImage ChatBot, Public APIs" }, 
     { "id": "rs-kiEDWr9I", "title": "Build first AR App in Flutter : ARKit Full course in Flutter | Sphere Object Tap Event - Episode: 2" },
     { "id": "OpO9udqsrVg", "title": "Build first AR App in Flutter : ARKit Full course in Flutter | Create Text in AR Camera Episode: 1" },
     { "id": "fgAPHGdHvVE", "title": "17 Wrap Up and Next Steps - Build a messaging app (Spring Boot + Cassandra)" }, 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/tzHfGYzu6qkZpCd-nn0c58mfvimB7mJoeCyR7Xi4Is8WQqijstRr-dqGEFtbNWtwxuhE1K7P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "biQ8neZXW6Q", "title": "The BEST Way to Build an App" }, 
     { "id": "GNaVZBhbmTI", "title": "Alerts & Lists on visionOS (Lesson 3)" },
     { "id": "rdDviHtzA28", "title": "Intermittent Fasting Tracker with WidgetKit & SwiftData | Episode 2" },
     { "id": "6DZNAXj3eaE", "title": "Introduction to TipKit for iOS 17" },
@@ -17,7 +18,7 @@
     { "id": "Ojz_N8LWc7E", "title": "Custom Radius per Corner with UnEvenRoundedRectangle" },
     { "id": "Dpa1Hcukxbc", "title": "Configurable Widgets with AppIntents" },
     { "id": "ik8J-ZLx9YE", "title": "Build a visionOS App: Project Setup, Simulator & Preview (Lesson 1)" },
-    { "id": "YqPiPT-Lqgk", "title": "Build a Full SwiftData App [Free Course]" }
+    { "id": "YqPiPT-Lqgk", "title": "Build a Full SwiftData App [Free Course]" },
     { "id": "qQTTYt9wnFY", "title": "Stop using Spacer() in SwiftUI" }, 
     { "id": "EjBTkq-wtCE", "title": "Super fast Xcode Downloads (up to 5X FASTER)" }, 
     { "id": "kWEyKdZ4G38", "title": "Why I don't do MVVM anymore" }, 

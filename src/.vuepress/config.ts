@@ -1,8 +1,8 @@
 import * as dotenv from 'dotenv' 
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-import { viteBundler } from '@vuepress/bundler-vite'
-import { webpackBundler } from '@vuepress/bundler-webpack'
+// import { viteBundler } from '@vuepress/bundler-vite'
+// import { webpackBundler } from '@vuepress/bundler-webpack'
 import { getDirname, path } from '@vuepress/utils'
 /* plugins V2 */
 import { tocPlugin } from '@vuepress/plugin-toc';
@@ -15,7 +15,7 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
 import { searchPlugin } from '@vuepress/plugin-search';
 import { activeHeaderLinksPlugin } from '@vuepress/plugin-active-header-links';
 import { prismjsPlugin } from '@vuepress/plugin-prismjs';
-import { seoPlugin } from "vuepress-plugin-seo2";
+// import { seoPlugin } from "vuepress-plugin-seo2";
 /* plugins 3rd-party */
 import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { componentsPlugin } from "vuepress-plugin-components";
@@ -83,10 +83,6 @@ export default defineUserConfig({
       lineNumbers: true,
     },
   },
-  bundler:
-    process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler({
-      
-    }) : viteBundler(),
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */

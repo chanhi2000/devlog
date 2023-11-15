@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: 🐧Linux Journey > Journeyman > Init
   - property: og:url
-    content: https://chanhi2000.github.io/explore/crashcourse/linux-journey/02-journeyman
+    content: https://chanhi2000.github.io/crashcourse/linux-journey/02-journeyman
 ---
 
 # {{ $frontmatter.title }} 관련

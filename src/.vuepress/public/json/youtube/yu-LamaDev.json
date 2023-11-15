@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "cBg6xA5C60s", "title": "Next.js 14 Admin Dashboard Tutorial | Fullstack Next.js 14 Project with Server Actions" }, 
     { "id": "2KWdT4PkXgY", "title": "CSS Tips And Tricks I Wish I Knew Before" },
     { "id": "DpYE5zPDRVQ", "title": "Full-Stack Blog App Tutorial | Next.js MongoDB Blog App Project Full Course" },
     { "id": "aYzT06aQkGI", "title": "Full Stack Restaurant Food Ordering App Tutorial | Next.js 13 Project (Prisma PostgreSQL Stripe)" },

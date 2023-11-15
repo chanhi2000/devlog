@@ -1019,5 +1019,20 @@
     "desc": "Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL",
     "officialSite": "",
     "topics": ["bypass", "cors", "cors-proxy", "paywall", "paywall-blocker", "paywall-bypasser"]
+  }, {
+    "repo": "MerlinKodo/clash-rev",
+    "desc": "Continuation of Clash core project",
+    "officialSite": "https://merlinkodo.github.io/Clash-Rev-Doc",
+    "topics": ["cfw", "clash", "clash-core", "vpn"]
+  }, {
+    "repo": "kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "officialSite": "https://kubernetes.io",
+    "topics": ["cncf", "containers", "go", "kubernetes"]
+  }, {
+    "repo": "everywall/ladder",
+    "desc": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+    "officialSite": "",
+    "topics": ["bypass", "cors", "cors-proxy", "paywall", "paywall-blocker", "paywall-bypasser"]
   }
 ]

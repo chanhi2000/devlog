@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/kpN1c5fYszmE4VhHYuy8jKZSdIHQhlVkC__NFmprp4pd8C_iPYd9mX4Xxt6h9SY6GJ87ScN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iFDwR8qD3_g", "title": "[Pluralsight] Angular State Management Playbook" }, 
     { "id": "jO1ciZVSu04", "title": "70. Protecting Routes with AuthGuards in Angular" },
     { "id": "kn39oKN9dD0", "title": "66. Creating an Auth0 Account" },
     { "id": "ppAaPcoHlW8", "title": "67. Setting up Auth0 in an Angular Application" },

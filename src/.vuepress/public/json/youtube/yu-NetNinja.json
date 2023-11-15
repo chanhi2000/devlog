@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/m_WGEq8pBawVi71mEKiFbnOjbkvzyWguNpcAbss54NenWDivjpbbqREAlyoRNONKNBk6QlS87A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1c2GT38mBOk", "title": "CSS Cascade Layers Tutorial #3 - Layer Priority" }, 
+    { "id": "FdFaDKP4vWg", "title": "TypeScript Crash Course #2 - Installing & Compiling" },
+    { "id": "VGu1vDAWNTg", "title": "TypeScript Crash Course #1 - The Benefits of TypeScript" },
+    { "id": "FGYwsnItyDs", "title": "TypeScript Crash Course #4 - Better Workflow with tsconfig" },
     { "id": "g1nv5mhwjU0", "title": "Redis Tutorial for Beginners #10 - Sorted Sets" },
     { "id": "UsHk44bAXts", "title": "Redis Tutorial for Beginners #11 - Pipelines" },
     { "id": "m7uJQRVlBv0", "title": "Redis Tutorial for Beginners #12 - Redis Stack Introduction" },
@@ -33,5 +37,3 @@
     { "id": "CpC5MTKAuwI", "title": "Deno Tutorial #2 - Files, Fetch & Permissions" }  
   ]
 }
-
-
