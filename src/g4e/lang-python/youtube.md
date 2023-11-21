@@ -48,5 +48,6 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-mathbyteacademy" /><!-- MathByte Academy -->
 <MyYouTubeItems jsonName="yu-GrandmaCan" /><!-- GrandmaCan -我阿嬤都會 -->
 <MyYouTubeItems jsonName="yu-MITCBMM" /><!-- MITCBMM -->
+<MyYouTubeItems jsonName="yu-CodingVillain" /><!-- 코딩빌런 -->
 
 <TagLinks />

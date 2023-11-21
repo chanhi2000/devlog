@@ -11,3 +11,9 @@ description: 🕶️Github
 :::
 
 <ShieldsGroup logos="git,gitlfs,gitignoredotio,github"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/devops-github/" />

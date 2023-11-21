@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "roulzhq",
+    "name": "ROULZ",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKablvcEBcxC54a-lHLHwo6hhP_UnrHqDMVaqvRciQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RaGTBtmETDB6Cdzrd6IZZ4C1kjVQhBmLXbozHWC9NEgDSKk_wc9ZyfkS7A-hmkE2VasdCXhao8c=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5LhGMq5wvmk", "title": "Why WebAssembly is the future of Web development" },
+    { "id": "IrhYbiTPKjM", "title": "How to build your own app! 5 easy steps to get you started" }
+  ]
+}

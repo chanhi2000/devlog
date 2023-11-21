@@ -99,5 +99,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "DataEngineer-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "officialSite": "",
+    "topics": ["apachespark", "awesome", "bigdata", "data", "dataengineering", "sql"]
   }
 ]

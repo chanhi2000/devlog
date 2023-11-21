@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ldwLRO_hLeiQA535Amc27MOedUn8pOZDWHqNqBO9HNQR27LWc_GWBkPO7j2I7ne_cp_RGtLM2A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XhdOUmT2ViA", "title": "This AI-tool is even better than GitHub Copilot?" },
+    { "id": "y2ICZYOU09Q", "title": "How big companies structure their apps (Microservices, Docker, Kubernetes)" },
     { "id": "vwSlYG7hFk0", "title": "Next.js Tutorial - All 12 Concepts You Need to Know" },
     { "id": "0rIak4Tc624", "title": "Deploy your Next.js app to a VPS (EASY!)" },
     { "id": "994mUKJ1Ack", "title": "How to Upload Images in React / Next.js (File Uploads, Filestack)" },

@@ -3298,5 +3298,10 @@
     "desc": "The Inter font family",
     "officialSite": "https://rsms.me/inter/",
     "topics": ["design", "font", "typeface"]
+  }, {
+    "repo": "flowtyone/flowty-realtime-lcm-canvas",
+    "desc": "A realtime sketch to image demo using LCM and the gradio library. ",
+    "officialSite": "",
+    "topics": []
   }
 ]

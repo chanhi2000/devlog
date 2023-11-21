@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HSZ_uaif57o", "title": "Learn LangChain.js - Build LLM apps with JavaScript and OpenAI" },
+    { "id": "k_V5VvYSlS4", "title": "Go Programming Tutorial – 3 Beginner Projects" },
+    { "id": "cE3YzKsQvEM", "title": "Python Power-Up: Leap Year" },
     { "id": "kZdFRXeuCuY", "title": "Become a Great Engineering Manager – Course" },
     { "id": "-LVmKNvflnY", "title": "Master Technical Interviews – Full Course" },
     { "id": "MNm1XhDjX1s", "title": "Next.js Authentication - AuthJS / NextAuth for Role-Based Security" }, 

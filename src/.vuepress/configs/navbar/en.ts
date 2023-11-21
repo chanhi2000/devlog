@@ -43,18 +43,7 @@ export const navbarEn: NavbarConfig = [
         children: [],
       }, {
         text: 'PHYS034',
-        children: [
-          {
-            text: 'Intro',
-            link: '/academics/PHYS034/README.md'
-          }, {
-            text: 'Week 01',
-            link: '/academics/PHYS034/week01/README.md' 
-          }, {
-            text: 'Week 01: Lecture',
-            link: '/academics/PHYS034/week01/lecture.md' 
-          },
-        ],
+        link: '/academics/PHYS034/README.md'
       }
     ],
   }, {

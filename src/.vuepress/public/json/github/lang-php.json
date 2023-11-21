@@ -144,5 +144,10 @@
     "desc": "Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Leantime/leantime",
+    "desc": "Leantime is a strategic project management system for non-project managers.",
+    "officialSite": "https://leantime.io",
+    "topics": ["agile", "asana", "calendar", "clickup", "gantt", "hacktoberfest", "jira", "kanban", "lean", "leantime", "notion", "php", "project-management", "projects", "retrospective", "scrum", "sql", "strategy", "timesheets", "trello"]
   }
 ]

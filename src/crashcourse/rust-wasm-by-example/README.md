@@ -40,10 +40,10 @@ Learn more about Wasm at the [WebAssembly Introduction](https://wasmbyexample.de
 
 ## Table of Contents
 
-- [01 Concepts](01-concepts.md)
-- [02 Applying the Concepts](02-applying-the-concepts.md)
-- [03 Ecosystem tools and Language features](03-ecosystem-tools-and-language-features.md)
-- [04 WebAssembly Outside of the Browser](04-webassembly-outside-of-the-browser.md)
+- [01. Concepts](01-concepts.md)
+- [02. Applying the Concepts](02-applying-the-concepts.md)
+- [03. Ecosystem tools and Language features](03-ecosystem-tools-and-language-features.md)
+- [04. WebAssembly Outside of the Browser](04-webassembly-outside-of-the-browser.md)
 
 ---
 

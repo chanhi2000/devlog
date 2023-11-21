@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/mckDAqaGXh1nQIICPGODbFWM44y7IY9tGAT2LYbR_m2XNWCNNkHNdnD-AQDZrV7RFWEPWB73=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "f1YMvSSBqUY", "title": "Data Science End-to-End Project Discussion with Code | Health Care Domain | Naresh IT" },
+    { "id": "s2OfXgAks2s", "title": "Spring Boot & MicroServices By Mr.Nataraj | Session-1" },
     { "id": "_R1vCa-t5p0", "title": "Understanding Service Models in Cloud Computing with AWS Services | AWS Training | Naresh IT" }, 
     { "id": "tw0UCEePROY", "title": "Introduction to Full Stack Python Developer | by Mr. K V Rao | Naresh IT" },
     { "id": "PTORISdPQ9Y", "title": "Workshop on Spring Boot Monitoring and Management @ 9:00 AM (IST) By Mr.Srinivas on 29th October." },

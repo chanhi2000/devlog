@@ -1798,5 +1798,10 @@
     "desc": "Find, install and publish Kubernetes packages",
     "officialSite": "https://artifacthub.io",
     "topics": ["cncf", "coredns-plugin", "falco", "gatekeeper", "helm", "keda-scalers", "keptn", "krew-index", "kubernetes", "kubewarden", "kyverno", "olm-operators", "open-policy-agent", "tekton", "tinkerbell-actions"]
+  }, {
+    "repo": "joschan21/digitalhippo",
+    "desc": "A Modern Fullstack E-Commerce Marketplace for Digital Products",
+    "officialSite": "",
+    "topics": []
   }
 ]

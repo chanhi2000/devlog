@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Q18Zm-VopeLTtRezGw9o2oLPwz4Ig_S-FQReSIYTIgDbzTfX1XSDxxzyoiRu9tHtA9kJ57hylIE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jY6JrxXZM7A", "title": "Selecting Multiple Tags in SwiftUI - Implement TagsView" },
     { "id": "qR7IjGrnmwQ", "title": "RatingView in SwiftUI Including Partial Rating (Half Stars)" },
     { "id": "b4B6lXY7ZrI", "title": "Creating a Pedometer App with HealthKit, SwiftUI, and Charts | Step-by-Step Tutorial" },
     { "id": "OF7TLbMu1ZQ", "title": "Writing Unit Tests for SwiftData Domain Logic" },

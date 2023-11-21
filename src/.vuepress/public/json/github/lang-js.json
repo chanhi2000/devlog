@@ -1724,5 +1724,10 @@
     "desc": "A neural network that transforms a design mock-up into a static website.",
     "officialSite": "",
     "topics": ["cnn", "cnn-keras", "deep-learning", "encoder-decoder", "floydhub", "jupyter", "jupyter-notebook", "keras", "lstm", "machine-learning", "seq2seq"]
+  }, {
+    "repo": "primefaces/primeng",
+    "desc": "The Most Complete Angular UI Component Library",
+    "officialSite": "https://primeng.org",
+    "topics": ["angular", "charts", "components", "datagrid", "datatable", "mit", "typescript", "ui"]
   }
 ]

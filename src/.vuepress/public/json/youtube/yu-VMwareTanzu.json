@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iyR1OYh4-Vg", "title": "Building Cloud-Ready Applications" },
+    { "id": "fpjr6OyKi7M", "title": "Observability for Modern Spring Applications" },
+    { "id": "MPXMQ3haZr4", "title": "Bootiful Spring Boot 3.x" },
+    { "id": "jhacovLRABI", "title": "What Is Spring?" },
+    { "id": "PbNZEZPGvT8", "title": "Using Spring with OpenAPI" },
+    { "id": "FM6Dy99Dhlk", "title": "Revolutionizing Developer Productivity: The Evolution and Benefits of IDPs" },
     { "id": "rDneUL1Cn_Q", "title": "Bootiful Kubernetes Operators" },
     { "id": "rbnGLj4CS4g", "title": "Spring for Architects" },
     { "id": "coXF0Yx0Mcg", "title": "You Don’t Need Kubernetes to Be Cloud Native" },

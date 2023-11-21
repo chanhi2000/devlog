@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/dwT77K2YhX-UaBKr_ESuCYnVYRnKyhS8NfPzTMJW-36FCRSfZybIALahrfsVvBFiSNIPzJ4kKw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "c5YhGDk0BFw", "title": "Practically engaging with AI" },
+    { "id": "xo_f9O8bMNw", "title": "Avoiding the priority zero trap | LeadDev Broadcasts" },
     { "id": "o9sqIOqrzXs", "title": "Why being laid off can help you be a better manager" }, 
     { "id": "_XT3AkDMVoY", "title": "Reducing the burden of incident response on your teams" }
   ]

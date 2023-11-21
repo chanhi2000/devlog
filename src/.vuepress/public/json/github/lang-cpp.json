@@ -869,5 +869,10 @@
     "desc": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
     "officialSite": "https://discord.gg/P4VE9UY9gJ",
     "topics": ["3d-printer", "3d-printing", "makers"]
+  }, {
+    "repo": "Xacone/BestEdrOfTheMarket",
+    "desc": "Little AV/EDR bypassing lab for training & learning purposes",
+    "officialSite": "",
+    "topics": ["defense-evasion", "edr", "edr-evasion", "edr-testing"]
   }
 ]

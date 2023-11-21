@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/1TWORcscn-5ve4rzNv0Im3dvp_3vOKxqQnyLTrNEyptng53g-unzkLntxVNHWEnwWFQALSZo8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8SN-s4Cmqxg", "title": "TypeScript Advance Extra class | Course Preview #1 | Assignment" },
+    { "id": "zm0-cm5u2ak", "title": "Introduction to Backend, what are HTTP servers | Course Preview #2" },
     { "id": "hfqotwc1gfk", "title": "Launching LIVE Web Development + Devops + System Design Cohort" },
     { "id": "L5SahFO2v1s", "title": "How I CODE For HOURS With NO Breaks" },
     { "id": "fSmLiOMp2qI", "title": "Open source Bootcamp - Complete Docker and Devops Roadmap - Part 1" },
@@ -16,5 +18,3 @@
     { "id": "od4hT9abIMQ", "title": "Complete Full Stack Developer Roadmap! (2023 Edition)" }
   ]
 }
-
-

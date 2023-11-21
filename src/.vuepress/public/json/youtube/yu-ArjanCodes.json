@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/rkdheB1h77FSwF5kahUbGfh-BXlXKWX7KQ9wpuWFwLWAg8OxAd-Mt4ZKYfLCptNlTmLyZfOKVEA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "q6ujWWaRdbA", "title": "Python 3.12 Generic Types Explained" },
     { "id": "Q0aVbqim5pE", "title": "What the Heck Are Monads?!" }, 
     { "id": "xVuqDBCQAYc", "title": "7 Tips To Structure Your Python Data Science Projects" },
     { "id": "o06MyVhYte4", "title": "15 Python Libraries You Should Know About in 2023" },

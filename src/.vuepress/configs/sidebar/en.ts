@@ -329,6 +329,11 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/devops-github/README.md',
+        '/g4e/devops-github/awesome-list.md',
+        '/g4e/devops-github/library.md',
+        '/g4e/devops-github/news.md',
+        '/g4e/devops-github/tutorial.md',
+        '/g4e/devops-github/portfolio.md',
         '/g4e/devops-github/github-action.md',
         '/g4e/devops-github/troubleshooting.md',
         '/g4e/devops-github/references.md',
@@ -708,17 +713,6 @@ export const sidebarEn: SidebarConfig = {
         '/explore/newsletter/data-science.md',
       ]
     }, {
-      text: '🕶️Github',
-      collapsible: true,
-      children: [
-        '/explore/github/README.md',
-        '/explore/github/awesome-list.md',
-        '/explore/github/library.md',
-        '/explore/github/news.md',
-        '/explore/github/tutorial.md',
-        '/explore/github/portfolio.md',
-      ]
-    }, {
       text: '📺Youtube',
       collapsible: true,
       children: [
@@ -770,8 +764,11 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/academics/PHYS034/README.md',
-        '/academics/PHYS034/week01/README.md',
-        '/academics/PHYS034/week01/lecture.md',
+        '/academics/PHYS034/w01.md',
+        '/academics/PHYS034/w02.md',
+        '/academics/PHYS034/w03.md',
+        '/academics/PHYS034/w04.md',
+        '/academics/PHYS034/hw01.md',
       ]
     }
   ], '/crashcourse/' : [
@@ -985,6 +982,11 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/README.md',
         '/crashcourse/java-jump-to-spring-boot/01.md',
         '/crashcourse/java-jump-to-spring-boot/02.md',
+        '/crashcourse/java-jump-to-spring-boot/02A.md',
+        '/crashcourse/java-jump-to-spring-boot/02B.md',
+        '/crashcourse/java-jump-to-spring-boot/02C.md',
+        '/crashcourse/java-jump-to-spring-boot/02D.md',
+        '/crashcourse/java-jump-to-spring-boot/02E.md',
         '/crashcourse/java-jump-to-spring-boot/03.md',
         '/crashcourse/java-jump-to-spring-boot/03A.md',
         '/crashcourse/java-jump-to-spring-boot/03B.md',
@@ -996,6 +998,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/03H.md',
         '/crashcourse/java-jump-to-spring-boot/03I.md',
         '/crashcourse/java-jump-to-spring-boot/03J.md',
+        '/crashcourse/java-jump-to-spring-boot/03K.md',
+        '/crashcourse/java-jump-to-spring-boot/03L.md',
         '/crashcourse/java-jump-to-spring-boot/04.md',
         '/crashcourse/java-jump-to-spring-boot/a.md',
       ]

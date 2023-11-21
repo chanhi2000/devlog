@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/8e4JeFEut_R5CHrGHePLnqd444tc4T7kQV6SZ-JkR71ZZRLW1JjWmjyD9QRkOF8E_i9GgyanWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GEPW008G250", "title": "Node.js Rocks in Docker, 2023 Ed. (DockerCon 2023)" },
     { "id": "D-YiHcubpks", "title": "Unlocking Advanced Docker Desktop Features with Containerd Image Store (DockerCon 2023)" },
     { "id": "78IMA8xEBHA", "title": "Create your own Docker Extension" },
     { "id": "Za3KOfPFgqQ", "title": "Navan: Computer Vision AI" },

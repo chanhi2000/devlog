@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/sxzld_A3w-McPIbiDog31iFkqoNDtUsD22_flBamY4EGBq9N3gz8mYGBKS2HquFxzouWZJweBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "akd7u69k27k", "title": "Django, HTMX and DaisyUI Components - Building a To-Do List App" },
     { "id": "Kd9oyUT5DwI", "title": "django-easy-audit - Tracking User Behaviour / Tracking Changes to Objects" }, 
     { "id": "c0dqnwbiFnI", "title": "HTMX and the View Transitions API" },
     { "id": "iFE6nhst2r8", "title": "Svelte, REST Framework and django-taggit - Dynamic Tag Filtering" },

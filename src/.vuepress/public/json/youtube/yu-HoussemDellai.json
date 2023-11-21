@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gsK0EALjlZGWmWu9Uf-KrVdjUAmK3X9dfVX40UZ0tJ54SzBEh_lVWsSzENyAtmCZDaPOItJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-1pOiG_DHIo", "title": "Why Azure Internal (private) Load Balancer" },
+    { "id": "ob7sDIiyjE0", "title": "Why Azure Load Balancer" },
     { "id": "UyvhVK7egZ0", "title": "Hosting DevOps Runners and Build Agents" },
     { "id": "GTqdkQIdCXY", "title": "KEDA autoscaler for Kubernetes and Container Apps" },
     { "id": "kV-VLz1KxfE", "title": "AKS Landing Zone - part 2" },

@@ -6,6 +6,17 @@
     "banner": ""
   },
   "videos": [
+    { "id": "F7x318GIzrM", "title": "작업12, 테스트데이터 생성 기능 구현" },
+    { "id": "niqj8NdyxpE", "title": "기능 중복 지양 필요성" },
+    { "id": "nri0a8rOlqY", "title": "작업13, 리팩토링, 클래스와 패키지 분리, App 클래스로 비즈니스 로직 이전" },
+    { "id": "TLlXAjybHe4", "title": "작업11, 조회수 기능 구현" },
+    { "id": "BW0jBa9SYYA", "title": "작업14, 특정 게시물 찾는 메서드 구현(중복 제거)" },
+    { "id": "yhI5rri5KR4", "title": "도메인 구매" },
+    { "id": "GENGsFq4iNQ", "title": "서버 생성 - 클라우드 컴퓨팅" },
+    { "id": "xGL0o4k2Gb8", "title": "실습 -이미지 빌드 후 docker hub 업로드" },
+    { "id": "SerIKx5QlNA", "title": "새 환경에서 Docker compose 사용" },
+    { "id": "pzG2emVcBwY", "title": "작업17, Controller 도입 - ArticleController" },
+    { "id": "ApRiIDF9wJg", "title": "작업16, Controller 도입 - MemberController" },
     { "id": "_c2l4qUjyFM", "title": "작업9, 게시물 수정 기능 구현" },
     { "id": "OR2I5nfI_Ts", "title": "작업7, 게시글 삭제 기능 구현" },
     { "id": "SthI00kjy84", "title": "작업6, 게시글 삭제 시도중" },

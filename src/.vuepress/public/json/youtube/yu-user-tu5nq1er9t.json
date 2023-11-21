@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wmvZ_DZYeyk", "title": "부트_JWT처리(4)_로그인 성공/실패 처리" },
+    { "id": "xeAHLScrbEE", "title": "부트_JWT처리(5)_Access/Refresh토큰생성" },
+    { "id": "MkSzBWdrQVA", "title": "부트_JWT처리(6)_JWT문자열체크필터처리" },
+    { "id": "0xtSAUggd4A", "title": "부트_JWT처리(7)_시큐리티연동처리" },
+    { "id": "vo9cVadX1SQ", "title": "부트_JWT처리(8)_Access토큰/Refresh토큰검증" },
     { "id": "jjzL183cdck", "title": "부트_JWT처리(1)_시큐리티 -CSRF,CORS설정" },
     { "id": "4vBcaaKap1E", "title": "부트_JWT처리(2)_엔티티처리" },
     { "id": "FwQSXIg1jXM", "title": "부트_JWT처리(3)_DTO처리" },

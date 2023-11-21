@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "hCwCULgiutA", "title": "02_리눅스 네트워크" },
+    { "id": "YGebqgNhzuk", "title": "01_리눅스 설치" },
     { "id": "rR_fcU60UIk", "title": "12_EVE를 이용한 HSRP(Router) 실습-1" }, 
     { "id": "xvrp2SVW7Fs", "title": "14_EVE를 이용한 HSRP(L3 Switch) 실습-3(VLAN 로드 분산)" }, 
     { "id": "xX5JC-4ccDQ", "title": "13_EVE를 이용한 HSRP(Router) 실습-2(VLAN 로드 분산)" }, 

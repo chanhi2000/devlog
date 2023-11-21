@@ -65,7 +65,6 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
       <li><a target="_blank" href="https://fossfox.com">💼FossFox : work in open-source & get paid for it</a></li>
       <li><a target="_blank" href="https://datatau.net">DataTau</a></li>
       <li><a target="_blank" href="https://zsync.xyz">ZSync</a></li>
-      <li><a target="_blank" href="https://devtoolstips.org">🧰DevTools Tips</a></li>
       <li><a target="_blank" href="https://keyframes.app">more tools for devs</a></li>
       <li><a target="_blank" href="https://alistapart.com">a list apart</a></li>
       <li><a target="_blank" href="https://app.eraser.io">♟️The Whiteboard for Engineering Teams</a></li>
@@ -121,6 +120,14 @@ desc: ✨ Discover a wide collection of unique tools.
 link: https://hiddentools-eight.vercel.app
 logo: https://hiddentools-eight.vercel.app/favicon.ico
 color: rgba(10, 10, 10, 0.2)
+```
+
+```card
+title: DevTools Tips
+desc: The collection of tips useful for web development.
+link: https://devtoolstips.org
+logo: https://devtoolstips.org/assets/logo-small.png
+color: rgba(27, 44, 43, 0.2)
 ```
 
 ```card

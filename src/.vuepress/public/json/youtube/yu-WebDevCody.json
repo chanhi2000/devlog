@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Gly94hp3Eec", "title": "How to make resilient web applications with retries" },
+    { "id": "VQFjyEa8vGE", "title": "Learning Drizzle ORM and working on a next14 project" },
+    { "id": "yXNEqyvA0OY", "title": "I want to learn Drizzle ORM, so I'm starting another next14 project" },
+    { "id": "uVEBP1FcyVQ", "title": "How I would design a reservation system" },
     { "id": "9OgkEVh9MNA", "title": "Is SST even a good choice to deploy Next.js?" }, 
     { "id": "W5dQzTcRwcs", "title": "my application became 2x better overnight" }, 
     { "id": "nZgN2bWH9h8", "title": "This Next.js function simplifies dynamic rendering" },

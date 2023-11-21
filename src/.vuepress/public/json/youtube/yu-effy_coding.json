@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "effy_coding",
+    "name": "에피코딩",
+    "profile": "https://yt3.googleusercontent.com/0lAqxU4cYqeRW_NY-2lZIrb0JyOctBzYBekRAWfjsUeflcdeh3ubB_Q8pWRtkL935Kxpp3xMU7M=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CvcidowtFVBihNdkW03ZPWi-6viZV5bppeVrE7LnjzT9q9nf3c5aJXyyGgmi2OyMzyiMi0tVZg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PxpIstF7NMU", "title": "ChatGPT 보다 코딩 잘 하는 애 나옴 (프론트엔드 한정)" }
+  ]
+}
