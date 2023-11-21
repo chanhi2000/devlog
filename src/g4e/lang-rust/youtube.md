@@ -40,9 +40,10 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <MyYouTubeItems jsonName="yu-TrustyBits" /><!-- Trusty Bits -->
 <MyYouTubeItems jsonName="yu-_noisecode" /><!-- Logan Smith -->
 <MyYouTubeItems jsonName="yu-RustTutorials-jp7bh" /><!-- Rust Tutorials -->
-<MyYouTubeItems jsonName="yu-engineeringwithmarek5012" /><!-- Engineering With Marek -->
+<MyYouTubeItems jsonName="yu-NullLabsLive" /><!-- Null Labs Live -->
 <MyYouTubeItems jsonName="yu-GlobalYoung7" /><!-- GlobalYoung -->
 <MyYouTubeItems jsonName="yu-rustau5950" /><!-- RustAU -->
 <MyYouTubeItems jsonName="yu-conf42" /><!-- Conf42 -->
-
+<MyYouTubeItems jsonName="yu-BrooksBuilds" /><!-- Brooks Builds -->
+    
 <TagLinks />

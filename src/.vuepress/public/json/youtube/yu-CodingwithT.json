@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yEEKtshaTNk", "title": "Flutter Shops/Brands Screen using GridView | Flutter eCommerce App UI" },
     { "id": "ZVcAa2uuksk", "title": "Flutter Shopping Cart Screen | Flutter eCommerce App UI" }, 
     { "id": "CrHI4kBq7iY", "title": "Flutter Checkout Page | Flutter eCommerce App UI" }, 
     { "id": "gUeDE9V6mno", "title": "Flutter Order Page | Flutter eCommerce App UI" }, 

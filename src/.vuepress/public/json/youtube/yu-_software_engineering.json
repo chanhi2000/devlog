@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/5Vysh9wfPY1Ux6_mLsLSTykPDQ6jTIjpPgfaB227RO1VBJbahAu6zzgghJALWeJ9dQ07hGR3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CqzH7GIWy98", "title": "Android Interview Questions part-10 End" },
+    { "id": "Patnu0hciSQ", "title": "Launch Vs Async in Kotlin" },
+    { "id": "uXMQDW-JraU", "title": "Gradle Kotlin DSL" },
+    { "id": "M4aB_366808", "title": "Kotlin Scope Function" },
+    { "id": "gmVcVmApWQ0", "title": "Android Jetpack Security" },
+    { "id": "UsX2Xctk5Qg", "title": "Essential Android Interview Questions part-4" },
+    { "id": "JbaAcfeT-8M", "title": "Essential Android Interview Questions part-3" },
+    { "id": "N8Pah_hZMsg", "title": "Essential Android Interview Questions part-2" },
+    { "id": "g2h1sWJv6MY", "title": "Essential Android Interview Questions part-1" },
     { "id": "-CFaevCtveQ", "title": "Thinking in Compose part-4" }, 
     { "id": "wBWNZ3EcQIU", "title": "Thinking in Compose part-3" }, 
     { "id": "rcoFB7a19oM", "title": "Thinking in Compose part-2" }, 

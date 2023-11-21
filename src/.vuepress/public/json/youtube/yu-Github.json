@@ -1,9 +1,9 @@
 {
   "channel": {
-    "id": "Github",
-    "name": "Github",
+    "id": "GitHub",
+    "name": "GitHub",
     "profile": "https://yt3.googleusercontent.com/TIjqoYX2wtDSGIzj928euK_ehQh4p_EymUlDbh14ZDrJ4quntQbsURWO4yr6bzYpUX7rjIFxyw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/UuEyyRPS2FgK0jnnPEiI7SPPQeRqIPXjmUKbVYOZNfvVItK6YleY86RcfHXjPB7pQEhbN4ijRQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/kxhZu7194sN8tKw75tPvy8kWX_98swsN5xvE-OVVllgLz9bPPcw5R04_U1Z5TOwjPT-xOP0aI9w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "I3UmeNf80e4", "title": "Writing code without the setup with GitHub Codespaces" },

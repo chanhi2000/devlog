@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QENSkO0u9GQ", "title": "How to Deploy a Scalable Django SaaS Application From Scratch" },
+    { "id": "hEv-el6Pm5A", "title": "The Role of Registries in IaC | How To Streamline Your Development Cycle" },
     { "id": "3EIr9TfMyUY", "title": "Securing Your Terraform Configuration | Best Practices for Managing Sensitive Data" },
     { "id": "Bht9wBzyr3o", "title": "How to Effortlessly Sync Cloud Files with Rclone and S3 Storage" },
     { "id": "sF3iY74JpVI", "title": "Creating a Compute Instance with the Linode Terraform Provider | Working With IaC Episode 1" },

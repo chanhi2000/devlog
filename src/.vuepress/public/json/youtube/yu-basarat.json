@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Qoa05nsCy7I", "title": "JavaScript Promises Simplified // Get ready for async await" },
     { "id": "bvjPsRHMuDs", "title": "Tagged Templates // Professional Modern JavaScript MasterClass" }, 
     { "id": "yk4udO2qYBw", "title": "JavaScript Date and Time // MasterClass" },
     { "id": "Cq_106T0URU", "title": "NextResponse does this better than the Web Standard" },

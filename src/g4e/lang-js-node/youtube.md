@@ -173,7 +173,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-wcandillon" /><!-- William Candillon -->
 <MyYouTubeItems jsonName="yu-reactuikit" /><!-- React-Native by Wilhelm (React-UI-Kit) -->
 <MyYouTubeItems jsonName="yu-LearnWebCode" /><!-- LearnWebCode -->
-<MyYouTubeItems jsonName="yu-Webstoryboy" /><!-- Webstoryboy -->
+<MyYouTubeItems jsonName="yu-webstoryboy" /><!-- webstoryboy -->
 <MyYouTubeItems jsonName="yu-rocketseat" /><!-- Rocketseat -->
 <MyYouTubeItems jsonName="yu-huakun" /><!-- Huakun -->
 <MyYouTubeItems jsonName="yu-codingwithjustin7995" /><!-- Justin Brooks -->

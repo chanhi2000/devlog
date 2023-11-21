@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/8e4JeFEut_R5CHrGHePLnqd444tc4T7kQV6SZ-JkR71ZZRLW1JjWmjyD9QRkOF8E_i9GgyanWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "D-YiHcubpks", "title": "Unlocking Advanced Docker Desktop Features with Containerd Image Store (DockerCon 2023)" },
+    { "id": "CkP51msEV7k", "title": "How to Stuff Monolithic Applications Into a Container (DockerCon 2023)" },
+    { "id": "CvSFl4jI8Hg", "title": "Container Images Deep Dive (DockerCon 2023)" },
+    { "id": "kGFc9fGuhDA", "title": "Docker AI/ML Hackathon WINNER ANNOUNCEMENT" },
     { "id": "ZVq7axnyWlc", "title": "Machine Learning Inside the Container (DockerCon 2023)" }, 
     { "id": "CBmzLKNO_M8", "title": "Building the Software Supply Chain on Docker Official Images (DockerCon 2023)" }, 
     { "id": "wRHkH3GYGYg", "title": "Docker Offshore: Smoothing the Waves of Remote-Location MLOps (DockerCon 2023)" }, 

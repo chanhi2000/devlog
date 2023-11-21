@@ -2,8 +2,8 @@
   "channel": {
     "id": "cppweekly",
     "name": "C++ Weekly With Jason Turner",
-    "profile": "https://yt3.googleusercontent.com/dZ31VLJLpQV9SJQq14ZXMdG8gGtOCbrZONv5_5WL3442a-p-hloy4bS5sf1Q1ZECnCEhuMuo=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/Ue0hVcMex1FpD7IppRV2lYDmba-zEQvHnm0iKS56hZfzjqz07szr5Dx2FXth8JAKnozZpmCR4w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/Hb_hQpJGonrMd9kihI-5gj8PBwVZvasJpdpWn9qxmhXo8UjZeJ9sCWN31FShYUUAGGLFofDLjg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hGuK35xxMUot29sl0pBB6v-59COh6a5L518qI2G74tzqtq13OYO5s4uMkgEANqQQ6zVz0A6R=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "tQiOOU9ze9g", "title": "Building a 3d Raycasting Game Engine - Testing and Refinements" }

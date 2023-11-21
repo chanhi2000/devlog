@@ -106,7 +106,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-kossiecoder]: https://www.youtube.com/@kossiecoder
 [yu-user-cj9zo7hb4p]: https://www.youtube.com/@user-cj9zo7hb4p
 [yu-freddingo33]: https://www.youtube.com/@freddingo33
-[yu-chris-tutorial]: https://www.youtube.com/@ChrisTutorialsYT
 [yu-user-bf6fs6jy1p]: https://www.youtube.com/@user-bf6fs6jy1p
 [yu-user-uv5hp3lh4k]: https://www.youtube.com/@user-uv5hp3lh4ks
 [yu-devopskorea4426]: https://www.youtube.com/@devopskorea4426
@@ -133,7 +132,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-coder-journey]: https://www.youtube.com/@Coderjourney
 [yu-user-ls2vk8ic9v]: https://www.youtube.com/@user-ls2vk8ic9v
 [yu-nathaniel-jordon]: https://www.youtube.com/@NathanielJordon
-[yu-aarthificial]: https://www.youtube.com/@aarthificial
 [yu-python-simplified]: https://www.youtube.com/@PythonSimplified
 [yu-sonulodha9215]: https://www.youtube.com/@sonulodha9215
 [yu-techmong]: https://www.youtube.com/@techmong

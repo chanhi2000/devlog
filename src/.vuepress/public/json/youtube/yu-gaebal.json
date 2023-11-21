@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "gaebal",
+    "name": "개발자로 취직하기",
+    "profile": "https://yt3.googleusercontent.com/tObZM7Rw217-KVlltk8TRbfDarKck0LjY7l3ujGpjZHZK8QM4HwGxVLtcjLAwVz5rVV1L3NkHA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/83AIXY5zTzKFbCnBlimQQXYbPygphZWTQPXJls9GqdqaQtFQlUjtgrFeSaPWgmQ0QfmVP8h5JfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "S2JDw9oNNDk", "title": "타겟넘버 DFS 재귀함수- 자바 java 프로그래머스 문제 풀이" }
+  ]
+}

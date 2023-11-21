@@ -200,7 +200,7 @@ In the next three projects we’ll be edging a little further away from UIKit as
 - [Day 64][day-64] – Project 18, part one
 - [Day 65][day-65] – Project 18, part two
  
-### Day 66: Consolidation VII
+### ✅Day 66: Consolidation VII
 
 Although these last few projects should have been nice and easy for you, it’s still worth pausing for a day to review what was learned and try out a fresh challenge.
 
@@ -355,7 +355,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-63]: 63.md
 [day-64]: 64.md
 [day-65]: 65.md
-[day-66]: https://www.hackingwithswift.com/100/66
+[day-66]: 66.md
 [day-67]: https://www.hackingwithswift.com/100/67
 [day-68]: https://www.hackingwithswift.com/100/68
 [day-69]: https://www.hackingwithswift.com/100/69

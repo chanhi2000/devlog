@@ -1,9 +1,9 @@
 {
   "channel": {
     "id": "javascriptmastery",
-    "name": "Javascript Mastery",
+    "name": "JavaScript Mastery",
     "profile": "https://yt3.googleusercontent.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/kvYtOOlIxxS5m5nZ7d3EVznB86-hmUlCq-0s_TJHt1uS8eehxj-wEV1aU6vQcFtiQoPAqdQ-=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/vvedJhV4qQrIomSHjC8OBQj-z2whTlF6jhi4DTgGYXmnaain7W-H-_ApMaH52KEayuvKZ0NECQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "FkowOdMjvYo", "title": "Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js" }, 

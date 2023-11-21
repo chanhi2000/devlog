@@ -13,120 +13,20 @@ tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "progra
 
 ---
 
-## 널널한 개발자 TV
-
-<MyYouTubeItems jsonName="yu-nullnull_not_eq_null" />
-
----
-
-## 한빛미디어
-
-<MyYouTubeItems jsonName="yu-HanbitMedia93" />
-
----
-
-## The Cherno
-
-<MyYouTubeItems jsonName="yu-TheCherno" />
-
-<!-- The Cherno -->
-
----
-
-## Tsoding Daily
-
-<MyYouTubeItems jsonName="yu-TsodingDaily" />
-
-<!-- Tsoding Daily -->
-
----
-
-## VoxelRifts
-
-<MyYouTubeItems jsonName="yu-voxelrifts" />
-
-<!-- VoxelRifts -->
-
----
-
-## ChiliTomatoNoodle
-
-<MyYouTubeItems jsonName="yu-ChiliTomatoNoodle" />
-
-<!-- ChiliTomatoNoodle -->
-
----
-
-## ThinMatrix
-
-<MyYouTubeItems jsonName="yu-ThinMatrix" />
-
-<!-- ThinMatrix -->
-
----
-
-## 홍정모
-
-<MyYouTubeItems jsonName="yu-HongLab" />
-
-<!-- 홍정모 -->
-
----
-
-## C++ Weekly With Jason Turner
-
-<MyYouTubeItems jsonName="yu-cppweekly" />
-
-<!-- C++ Weekly With Jason Turner -->
-
----
-
-## Paul Programming
-
-<MyYouTubeItems jsonName="yu-PaulProgramming"/>
-
-<!-- Paul Programming -->
-
----
-
-## NadoMaker
-
-<MyYouTubeItems jsonName="yu-ICBANQ" />
-
-<!-- NadoMaker -->
-
----
-
-## AngeTheGreat
-
-<MyYouTubeItems jsonName="yu-angethegreat" />
-
-<!-- AngeTheGreat -->
-
----
-
-## cpponsea
-
-<MyYouTubeItems jsonName="yu-cpponsea2834" />
-
-<!-- cpponsea -->
-
----
-
-## 길벗 IT 전문서(업로드 중단, 구계정)
-
-<MyYouTubeItems jsonName="yu-IT-es6jl" />
-
-<!-- 길벗 IT 전문서(업로드 중단, 구계정) -->
-
----
-
-## CppNow
-
-<MyYouTubeItems jsonName="yu-BoostCon" />
-
-<!-- CppNow -->
-
----
+<MyYouTubeItems jsonName="yu-nullnull_not_eq_null" /><!-- 널널한 개발자 TV -->
+<MyYouTubeItems jsonName="yu-HanbitMedia93" /><!-- 한빛미디어 -->
+<MyYouTubeItems jsonName="yu-TheCherno" /><!-- The Cherno -->
+<MyYouTubeItems jsonName="yu-TsodingDaily" /><!-- Tsoding Daily -->
+<MyYouTubeItems jsonName="yu-voxelrifts" /><!-- VoxelRifts -->
+<MyYouTubeItems jsonName="yu-ChiliTomatoNoodle" /><!-- ChiliTomatoNoodle -->
+<MyYouTubeItems jsonName="yu-ThinMatrix" /><!-- ThinMatrix -->
+<MyYouTubeItems jsonName="yu-HongLab" /><!-- 홍정모 -->
+<MyYouTubeItems jsonName="yu-cppweekly" /><!-- C++ Weekly With Jason Turner -->
+<MyYouTubeItems jsonName="yu-PaulProgramming"/><!-- Paul Programming -->
+<MyYouTubeItems jsonName="yu-ICBANQ" /><!-- NadoMaker -->
+<MyYouTubeItems jsonName="yu-angethegreat" /><!-- AngeTheGreat -->
+<MyYouTubeItems jsonName="yu-cpponsea2834" /><!-- cpponsea -->
+<MyYouTubeItems jsonName="yu-IT-es6jl" /><!-- 길벗 IT 전문서(업로드 중단, 구계정) -->
+<MyYouTubeItems jsonName="yu-BoostCon" /><!-- CppNow -->
 
 <TagLinks />

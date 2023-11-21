@@ -3,7 +3,7 @@
     "id": "DroidconItaly",
     "name": "Android Heroes",
     "profile": "https://yt3.googleusercontent.com/qGhucaFEXVWwys8aNHkTSZZ0mNtVmi6xZSy-vdbkxMT-isxmpC4Bua7xXQ3KblFA9oFmiGzPKg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/WnHUBk55Jw6VP9jEB-493BYEEZkxnRSufXysmWrFjc57OZbAQinutQiF5iZxwLL153vJPTAf=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/D_BSPNIrMLxj8RJlHMYdEqZR4O9qwAMzLTOQuQg1q9evqMjiQBBx6LDRuZPuO1M2IupaxzQ9=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "3xLr6Ck0O4w", "title": "Gerard Paligot & Fanny Demey - Accessibility with Compose : Experimentation & Live coding - DC 2022" }, 
@@ -11,7 +11,6 @@
     { "id": "bR33g7XHIvU", "title": "Andrea Cioccarelli - Android App Security Fundamentals - droidcon Italy 2022" }, 
     { "id": "1st3mH8U-QE", "title": "Roberto Orgiu, Android Engineer, The New York Times: An Android Dev start to Kotlin Multiplatform" }, 
     { "id": "TWLkswxjSr0", "title": "Modularizing Android Applications - Marvin Ramin" }
- 
   ]
 }
 

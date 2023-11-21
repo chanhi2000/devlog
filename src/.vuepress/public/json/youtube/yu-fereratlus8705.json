@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/IHXs6nRMMZv-yII4skeZlYgUg4XQ0mnG3F2sRM-5VmiP7ndhu9T0mExNTOwhO7TjricB5HnqEQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JJtvF1Gr1xA", "title": "Android Studio (Kotlin) Customize Navigation Drawer with RecyclerView App" },
+    { "id": "6vD8fQ_pkl4", "title": "Android Studio (Java) Customize Navigation Drawer with RecyclerView App" },
     { "id": "OaSBEZgk_C0", "title": "Android Studio (Java) Insert and Eject SIM Card Detection Using Telephony Manager and Live Data" },
     { "id": "Ir9EoYJypk0", "title": "Android Studio (Kotlin) Simple Dagger Hilt Data Store MVVM" },
     { "id": "EMqlwjdNKcw", "title": "Android Studio (Kotlin) Simple Dagger Hilt Room Database MVVM" }

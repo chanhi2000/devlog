@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "88pl8TuuKz0", "title": "Argument Parsing with argparse in Python" },
+    { "id": "fB_omdV8tww", "title": "Auto-Stop Algorithms with Multiprocessing in Python" },
     { "id": "U18hO1ngZEQ", "title": "Pagination in Flask: Split Your Data Into Pages" }, 
     { "id": "2sehQ5oABqI", "title": "Automatically Schedule Python Scripts with Cron Jobs" }, 
     { "id": "21IqiTIsqmk", "title": "Why I Switched To Linux! And How It's Going..." },

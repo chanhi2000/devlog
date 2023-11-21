@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "VezvaEJSeCc", "title": "EKS 장애 퀴즈 #EKS" },
     { "id": "V22czB-d58Y", "title": "pod의 우선순위와 스케쥴링 우선순위" },
     { "id": "nwANXSXeF3k", "title": "EKS ALB controller 장애 재현" },
     { "id": "71LUdFCtQy8", "title": "프로메테우스 오퍼레이터에서 pod label 메트릭 수집" },

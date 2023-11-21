@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "7pccjoRuV9k", "title": "6. tailwindcss 글자 두께, 글자 밑줄 간격, 알파벳 대소문자 변경" },
+    { "id": "VHViO3HPSEo", "title": "7. tailwindcss Text Overflow" },
+    { "id": "QVJW2E0s8yg", "title": "8. tailwindcss 들여쓰기와 내어쓰기" },
+    { "id": "MdXODDYs-4Y", "title": "9. tailwindcss whitespace" },
     { "id": "8kZDx8MnnxM", "title": "55. Laravel 기초, 라라벨 부트캠프 글삭제하기" }, 
     { "id": "5kWu-qMIYO8", "title": "124. and 와 &amp;&amp; 연산자는 같을까?" }, 
     { "id": "zun40BxCzYU", "title": "2. tailwindcss 세팅하기" }, 

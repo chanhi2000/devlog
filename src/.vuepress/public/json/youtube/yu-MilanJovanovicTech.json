@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gZgT0qoHL8U", "title": "Polly V8 - No More Static API? #shorts" },
+    { "id": "3t00DrCZKTk", "title": "What is the Repository Pattern? #shorts" },
+    { "id": "if2h1SxA9uo", "title": "DDD Domain Service Explained in 17 seconds #shorts" },
+    { "id": "o_KVvUjwxIw", "title": "C# Unit Testing Best Practices for Great Code Coverage" },
     { "id": "jhwkc6By8Yg", "title": "Register Minimal APIs Using This Method #shorts" }, 
     { "id": "HVaGeqe9TPA", "title": "What is a Domain Service in Domain-Driven Design?" }, 
     { "id": "WCCkEe_Hy2Y", "title": "Get Rid of Exceptions in Your Code With the Result Pattern" }, 

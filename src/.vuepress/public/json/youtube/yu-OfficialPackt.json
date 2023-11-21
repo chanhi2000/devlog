@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/LXfjyOF3xN2_9knWUbFZ89uuPHhJoG-tKy8m9NPFJ4oyVBCX4YAkJVGormkVCWdm3D6v9G13=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rvHYX9BNZXU", "title": "Improving CAD Designs with Autodesk Fusion 360 I Kevin Michael Land I Practical Overview I Packt" },
+    { "id": "LRIOWlhYMiI", "title": "Interpretable Machine Learning" },
     { "id": "3Eh9-SgJkVo",  "title": "Automated UI Testing in Android : Integrating with Cucumber | packtpub.com" }, 
     { "id": "5L5pTGOzckU",  "title": "Introducing Microsoft Team Foundation Server 2017 : Introduction to Team Projects | packtpub.com" }, 
     { "id": "1Lth8GtlFkI",  "title": "Continuous Integration & Delivery- Jenkins X & Kubernetes: Adding Apps to Jenkins X | packtpub.com" }, 

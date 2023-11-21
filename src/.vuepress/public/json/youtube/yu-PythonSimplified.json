@@ -2,8 +2,8 @@
   "channel": {
     "id": "PythonSimplified",
     "name": "Python Simplified",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPJf_qttjlcLMxWCt_KjwXwVVYRJgxL9mCHNqH37w=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/t7NdfqyJAAJ016oFpfhP_nqXKJRA5cGNmZk0Arskcov_7CaNC0PsdDo9VCkUFoBxGqp6_sVg7dw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbScl_qQIAc5WXC8rMHCwdURcdjdfv6ze84nRmQkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aLdyFwbXe0DOqJvaKTwNQrha85jmP2cA3lVrKv9rYNpFhuXwrks1Hwyot7E_AELadQfjofUi1w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "NB5LGzmSiCs",  "title": "`If __name__ == \"__main__\"` for Python Developers" }

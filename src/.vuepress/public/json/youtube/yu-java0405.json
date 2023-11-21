@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/nYBM4tFv0FucvhrpQPedLqqK-VabAD9T3p0aLzwZchtwSVMKwyXP77Un7hQs1AbiEVEVHARWVss=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qq0C8TS_0MQ", "title": "23년 스프링 (53) 파일 처리를 위한 설정" },
+    { "id": "6ZG5d96K9Eo", "title": "23년 스프링 (52) 상품 등록 페이지 만들기" },
+    { "id": "-J4NCeqg9oE", "title": "23년 스프링 (51) ModelMapper 사용하기" },
+    { "id": "2HTrvaoNd4Q", "title": "23년 스프링 (50) ItemImgDto 만들기" },
+    { "id": "rHQTfD_xY7s", "title": "23년 스프링 (49) Auditing을 이용한 엔티티 속성 공통화" },
+    { "id": "D0c4t2NSYF4", "title": "23년 스프링 (48) Auditing 설정 클래스 생성하기" },
     { "id": "tFy4mLUiW0M", "title": "23년 스프링 (47) Auditing 설정 준비" }, 
     { "id": "ctJT3wN6Xv8", "title": "23년 스프링 (46) JPA 영속성 전이와 지연로딩" }, 
     { "id": "IUCM1E3-kHM", "title": "23년 스프링 (45) JPA 연관관계 다대다 매핑" }, 

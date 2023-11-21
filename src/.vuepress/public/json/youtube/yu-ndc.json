@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hLl3Q5IQTzj0XvRcZzHns9Yp6ZYs3eFjtXFdvqKRt0eKW_64CJ4FN40YaBPUiJUXpMDuJ7jVWtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "D_1HVHOUMN0", "title": "Making Art with JavaScript and Garbage - Colleen Lavin - Copenhagen DevFest 2023" },
     { "id": "t4-OEhvXwLE", "title": "Working with Vue 3.0 and ASP.NET Minimal API - Rob Conery - Copenhagen DevFest 2023" },
     { "id": "Q4CKscbllYA", "title": "Upgrade any .NET applications with the latest .NET stack. - Olia Gavrysh - Copenhagen DevFest 2023" },
     { "id": "XpJlY99Lycs", "title": "CSS :is(.awesome) - Martine Dowden - Copenhagen DevFest 2023" },

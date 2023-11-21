@@ -1,11 +1,13 @@
 {
   "channel": {
-    "id": "Webstoryboy",
-    "name": "Webstoryboy",
-    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQFMZa09_ixwCOtUSft8HPU5xAdVPM9r2TzvtPzhgQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/cfwp8fGBFmn9VMB_oQQAMYzXH0D424LhuwesXLzB4gqTg5zhe5K3GbK_mF8GwUZgkQoVlwxgMiM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "id": "webstoryboy",
+    "name": "webstoryboy",
+    "profile": "https://yt3.googleusercontent.com/O1pEhceIrP09eG4mcoH-VdwTzrvpSJr3uJacENwzSjmkZx53H0qB_6rpJQaun518sqVQ1kSu_A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5QSeP5MWm5jo3WIphEqk4fQCjQ4iXa_ty__1kzDMIiks_fTyE5beIFI1_g_HJjt2EPwTuNNhZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qV5gRfnPf_I", "title": "22 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 버그 고치기 | Youtube 사이트" },
+    { "id": "b1eQ3MRwfBw", "title": "23 리액트(React.js)로 나만의 유튜브 사이트 만들기 프로젝트 : 빌드 및 배포하기 | Youtube 사이트" },
     { "id": "MD4X56S3h0Q", "title": "16 리액트(React.js)로 나만의 유튜브 사이트 만들기 : Swiper 이미지 슬라이드 작업 | 리액트 프론트앤드" }, 
     { "id": "bOch_BC8GR0", "title": "17 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 나머지 페이지 작업 | Youtube Site | React Site" }, 
     { "id": "OSaxhjgHE50", "title": "18 리액트(React.js)로 나만의 유튜브 사이트 만들기 : 검색 및 유튜브 API 설정하기 | Youtube API" }, 

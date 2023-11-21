@@ -2,8 +2,8 @@
   "channel": {
     "id": "HongLab",
     "name": "홍정모",
-    "profile": "https://yt3.googleusercontent.com/1SOuZaXR4vyjg_PWhRMbMLvQn-2Grzw3dJ8Jq-ho59RLXHhLK_bqtUGWsxxjPEAnx6XOjfB6Zw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/PwZeNkweF644ls5GWx0ibQWg9bkXZZq0vbmMcq7srYUay8JhpqyKHflAAAxS48wiYayfOluusvI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/TjQfiXZR52QKmB2y2aONle6ofLJNaJfM3LxWiXuxoR9PJPDlZcXO2fmNfDObmjB1ksC1Q2VR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NGdVSEeV-lcvXs5Nyl5vqbv3hQMMeiaxGnCLThJVCBgpWeXrttwxFBjsxVc-PJhMvMGOrlUM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "G6HV9kXwQQE", "title": "지금 뜨고 있는 C++ 응용 분야 | SLAM 전문가 신동원 박사" },
@@ -15,5 +15,3 @@
     { "id": "15EQ5C2yBFE", "title": "러버덕과 디버깅🐤(Rubber Duck Debugging)" }
   ]
 }
-
-

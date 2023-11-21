@@ -24,7 +24,6 @@ tags: ["dart", "flutter"]
 <MyYouTubeItems jsonName="yu-tadaspetra" /><!-- Tadas Petra -->
 <MyYouTubeItems jsonName="yu-mhadaily" /><!-- Majid Hajian -->
 <MyYouTubeItems jsonName="yu-TheFlutterWay" /><!-- The Flutter Way -->
-<MyYouTubeItems jsonName="yu-FlutterC0ding" /><!-- Flutter Coding -->
 <MyYouTubeItems jsonName="yu-indianappguy" /><!-- Sanskar Tiwari -->
 <MyYouTubeItems jsonName="yu-dbestech" /><!-- dbestech -->
 <MyYouTubeItems jsonName="yu-FlutterMapp" /><!-- Flutter Mapp -->

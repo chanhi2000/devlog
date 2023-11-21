@@ -1,9 +1,9 @@
 {
   "channel": {
     "id": "ChromeDevs",
-    "name": "Google Chrome Developers",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPg8b1LUBCRuEMQFVXkqz0OcNERWyA0bbEJi_cR3Q=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/3i1kqBVR385q3Doiq570L_8FY-JLr2zCvUwbpEtCKLS9QLGSjf7Y8VHKrL2mTxkigbuckqxc8g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "name": "Chrome for Developers",
+    "profile": "https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8O-pVLfm0enT2HsqodAx5-LBP-Ef0Yi5HMxSWkXY7V4tttWDYFtuGahxLoajQR9gY12cZTGKVuU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "1z_ViBjdnSw", "title": "Thinking on ways to solve RELATIVE COLORS" },

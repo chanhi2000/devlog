@@ -2,10 +2,13 @@
   "channel": {
     "id": "HiteshChoudharydotcom",
     "name": "Hitesh Choudhary",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtYi8hjwWCScQ05ECuFXG7ZKq9-luMYoTek-N12A=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/xGlR3Vz-RYHgwRj50-VEdBksVyjyJhvzQUEVttMCd5iRVdw-OXdFkPBPswF2nG_13QR2UfXnCQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaPBdYd5XqCfgtA93cq_BVWzve4wpGmBf4EcH0XsA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zO8n2TfZoDXozQeKwq7APiVXn4BIZw7Q0-5SCVw4FXY_q2ysjtmVp5WYw1_M3bn9m3WiNarZGg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SwviLVyaRKU", "title": "Building a full stack project with React and Appwrite" },
+    { "id": "4DqAvWonPAg", "title": "Complete react course with 10 projects" },
+    { "id": "vJLW3S_97aQ", "title": "All that you need to know to setup Appwrite web project" },
     { "id": "EeOPyXwJiXk", "title": "14 Context API with local Storage" },
     { "id": "NmSh-YpmDU4", "title": "useEffect, useRef and useCallback with 1 project in Reactjs" },
     { "id": "0B6_GWvT2vs", "title": "Custom hooks in react | currency Project" },

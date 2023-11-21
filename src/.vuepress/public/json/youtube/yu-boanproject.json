@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Jl9RsmRnhu0", "title": "버프스위트 웹 시큐리티아카데미 XSS 취약점 분석 사례 #웹해킹 #burpsuite #hacking" },
+    { "id": "p6tjKhP9b0U", "title": "모의해킹 컨설턴트에서 대기업 보안담당자로 갈 때 PM 경험이 중요!!" },
+    { "id": "cAOQhExeW-4", "title": "카카오페이 구인모집을 통해 모의해킹 보안 담당자 업무 이해 #보안 #잡코리아" },
+    { "id": "zAG0l-h004c", "title": "취업 시장이 추울 때 우리는 어떤 준비를???! 모의해킹 컨설팅 진로" },
+    { "id": "_yz1HZ2M8og", "title": "모의해킹 취업 진로 QA 사례 - 30대 중반 나이때 보안 자격증? 취업준비 등?" },
+    { "id": "ZGANZ5r_XgY", "title": "CriminalIP 파이썬 API를 이용한 좋은 사례 #osint #python" },
     { "id": "ILAWgkYdlVE", "title": "(공개) 버그 헌팅  Kioptrix Level 3 HTTP 서비스 점검갤러리 SQLi 취약점 검증 사례" }, 
     { "id": "HM4Ofd22GuE", "title": "버프스위트 웹 시큐리티아카데미  접근 제어 취약점 사례 5  #hacking #burpsuite" }, 
     { "id": "tpahCM73SAk", "title": "QA. 모의해킹 하셨던 선배들 어디로 가셨나요?" },

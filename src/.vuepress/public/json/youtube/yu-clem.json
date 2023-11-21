@@ -1,11 +1,11 @@
 {
   "channel": {
     "id": "clem",
-    "name": "channelName",
-    "profile": "imgUrl",
-    "banner": "bannerUrl"
+    "name": "Clément Mihailescu",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ-5AFGk01RE477conQcdD2mtyd4paSae6cHOHWUDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ewftOWyAAb8-KpJcuvTLIjFpKwMXuO8xFoUeFj2pSpaPTuu2XSQAcrQXHwUCd-p3oc42vRQHILA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    
+    { "id": "jH9Ln-LoneA", "title": "How We Built AlgoExpert's Front End (building a web application)" }
   ]
 }

@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/p4W_Z3xzummTfqo-3Tn__tS3q3mpQ7WjGUhpoMmLL7IzvqU3p6MPzI125XCI_gS--ZW8ufichoQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZmhocfA1-g8", "title": "[엑셀 2021 기초 강의 1] 이영상으로! 100번 공부 한 것처럼 만들어 드립니다. Excel Tutorial" },
+    { "id": "EMa-elMM7nQ", "title": "엑셀2021 기초 강의 - 엑셀함수총정리 VLOOKUP, LARGE, MOD, INT 함수배우기 Excel Basics Tutorial" },
+    { "id": "mO06EwrWC04", "title": "안드로이드NDK 기초 강의 몰아보기 #3 - 이거 하나면 끝!!! Android NDK Basics tutorial" },
+    { "id": "4UHQdaN9NN4", "title": "[엑셀 2021 기초 강의 2] 이영상으로! 100번 공부 한 것처럼 만들어 드립니다. Excel Tutorial" },
+    { "id": "h5TDJqcysag", "title": "🥠사이킷런머신러닝 기초 강의🧈 몰아보기 #3 - 이거 하나면 끝!!! scikitlearn machinelearning Basics tutorial" },
+    { "id": "CKRFdHGVPX0", "title": "👩LinQ 링큐 강의🥞 몰아보기 #13 - 이거 하나면 끝!!! LinQ Basics tutorial" },
+    { "id": "kkMXWe2gEvE", "title": "[GO Lang 언어 강의 1] 이영상으로! 100번 공부 한 것처럼 만들어 드립니다. GO Lang Basics tutorial" },
+    { "id": "SiB3I9ksfqM", "title": "🧈Nmap 기초 강의🥐 몰아보기 #3 - 이거 하나면 끝!!! Nmap Basics tutorial" },
+    { "id": "wtOi6eBmiso", "title": "엑셀2021 기초 강의 - 엑셀함수총정리 HLOOKUP, ROUNDUP 함수배우기 Excel Basics Tutorial" },
+    { "id": "sxl7IiRRuio", "title": "🎈스칼라 기초 강의🎉 몰아보기 #3 - 이거 하나면 끝!!! Scala Basics tutorial" },
+    { "id": "XLG6xJjFZ_4", "title": "[GO Lang 언어 강의 2] 이영상으로! 100번 공부 한 것처럼 만들어 드립니다. GO Lang Basics tutorial" },
+    { "id": "ZAjR5fUmQTc", "title": "엑셀2021 기초 강의 - 엑셀함수총정리 YEAR, TODAY, VLOOKUP 함수배우기 Excel Basics Tutorial" },
     { "id": "py3W6-vY3TA", "title": "엑셀2021 기초 강의 - 엑셀함수총정리 UPPER, LOWER, PROPER, TRIM, IF, AND, AVERAGE 함수배우기 Excel Basics Tutorial" }, 
     { "id": "c6BReKs3wf0", "title": "🍔안드로이드NDK 기초 강의🥐 몰아보기 #2 - 이거 하나면 끝!!! Android NDK Basics tutorial" }, 
     { "id": "_-f14Ig3zu8", "title": "엑셀2021 기초 강의 - 엑셀함수총정리 RANK, COUNTIF, COUNTBLANK, MAX, LARGE 함수배우기 Excel Basics Tutorial" }, 

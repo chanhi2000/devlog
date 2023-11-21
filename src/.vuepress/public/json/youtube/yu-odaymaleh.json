@@ -1,9 +1,9 @@
 {
   "channel": {
-    "id": "theandroidprogrammer",
-    "name": "The Android Programmer",
+    "id": "odaymaleh",
+    "name": "Oday Maleh",
     "profile": "https://yt3.googleusercontent.com/_eMOBVN-VY5AGKXnMco5kXDCSJcdS3I5DGI_6HiW0B3Bf-DdNj-fmdyss4blYRwHIDFciks8eA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/Dl9iBE5m5C4rF7a_R3r806H_lvhYyomziCuaBlWXqynerHyegDphFCl3OcJkq3nzedNfvfBjIA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/QRZZ05iwkJYPQ2U4zptug5DXHYtY1zv-vqYP1fAcEBWjqvIDEuh-SjXgo_o6HWpxb9m0i73YpA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "ISbLbiPrKr0", "title": "Mobile Developer tries DevOps - Using Terraform Provisioners to Set Up an Apache Web Server on AWS" },

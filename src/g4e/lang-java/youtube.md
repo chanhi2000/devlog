@@ -111,5 +111,6 @@ meta:
 <MyYouTubeItems jsonName="yu-user-tu5nq1er9t" /><!-- 구멍가게 코딩단 -->
 <MyYouTubeItems jsonName="yu-user-io1lo4zs8n" /><!-- 유영준 -->
 <MyYouTubeItems jsonName="yu-HelloWorldStudy" /><!-- HelloWorld -->
+<MyYouTubeItems jsonName="yu-devCJH" /><!-- devCJH -->
 
 <TagLinks />

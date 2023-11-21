@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RgcaqNGBDfU", "title": "What is Detection and Response on AWS? | Amazon Web Services" },
+    { "id": "a2OM2eI_GzQ", "title": "Customizing the AWS WAF CAPTCHA experience using JavaScript API | Amazon Web Services" },
+    { "id": "NCOQcLtxX80", "title": "AWS Content Moderation Snackable Games Overview | Amazon Web Services" },
+    { "id": "2KO9rLNiOMY", "title": "如何解决连接到 Amazon RDS 数据库实例时出现的问题？" },
+    { "id": "v-xyUXPLrSg", "title": "How is my Amazon EBS snapshot bill calculated?" },
     { "id": "ufx8sO5s4BI", "title": "AWS Network Firewall Suricata HOME_NET variable override | Amazon Web Services" },
     { "id": "dEpjAJ8O1Sc", "title": "Using AWS IAM action last accessed information | Amazon Web Services" },
     { "id": "6A3HfcPuo0o", "title": "Indices en DynamoDB: Escogiendo entre GSI y LSI - Amazon DynamoDB Nuggets | Amazon Web Services" },

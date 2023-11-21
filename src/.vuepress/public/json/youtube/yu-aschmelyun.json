@@ -2,8 +2,8 @@
   "channel": {
     "id": "aschmelyun",
     "name": "Andrew Schmelyun",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM0t0lFsyd9VEMlw_OPCFhkyrPqNOrvdtPDLAsD=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/S7UCHdxoZI0y4oXxYuhQpsN12PsDy2wsTYnneom8bcXZsmKNswv1bY9rfakYaZZEV1vXrUJ08wM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbSDJ4ZwqOd1b77Cdbv4R_f-2Becwg565fW2Tnt=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2MyQMZe2BEAcixMF4IZCy9sCq_w9SINKlwS5O5rvCySEstJSKGEpUod7bGx9cD9f62J0W-tm4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "LG6GvFm4meg", "title": "Live Stream - Building a form app with Laravel, Vue, and Inertia.js (Part 2)" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/HsOID_2Ri-jtwLjcRyT6c0CqH9hmSJgJDhmlcFPID77EtAZKZSwCjlWOLN9I4vEM1kmzrTszWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fF_NVrd1s14", "title": "CSS position deep dive" },
+    { "id": "ru3U8MHbFFI", "title": "Use these instead of vh" },
     { "id": "345V2MU3E_w", "title": "A better image reset for your CSS" }, 
     { "id": "vYAYrnNrZqA", "title": "CSS animation keyframe tips" }, 
     { "id": "c13gpBrnGEw", "title": "A new approach to container and wrapper classes" }, 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/u0hA3qiqE5Vh5sAREZVdSa-jKWCuTwSJfErbRSpE9Tk8NBCoTrwh73DtXIzPujWaWwZ7hOitrqs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "E9yuisasgVs", "title": "Looking into Dell R420, what can I use this for?" },
     { "id": "foxEE58FNG0", "title": "Expire objects in an S3 storage (Ceph Rados Gateway)" },
     { "id": "uC1WPxFzISQ", "title": "The Complete Guide to ETCD Cluster Setup" },
     { "id": "89oKFfeXRMQ", "title": "Writing a Notes App in Pure HTML: Harnessing the Power of htmx" },

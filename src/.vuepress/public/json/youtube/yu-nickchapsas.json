@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eqqBzwIIM-4", "title": "&quot;Always Use Any over Count in LINQ&quot; | Code Cop #008" },
     { "id": "aSbZ0y3nPJM", "title": "The Missing Piece of Your .NET Logs" }, 
     { "id": "Gv2uBJzBAms", "title": "Every New Feature Added in C# 12" }, 
     { "id": "_M0IgtGWnvE", "title": "The Easiest Way to Create PDFs in .NET" },
