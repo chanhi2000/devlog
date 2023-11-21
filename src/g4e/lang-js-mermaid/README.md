@@ -14,3 +14,9 @@ tags: ["js" , "mermaid" , "mermaidjs"]
 :::
 
 <ShieldsGroup logos="visualstudiocode,npm,yarn,vite,nodedotjs,javascript,typescript"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-js-mermaid/" />

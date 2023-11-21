@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/dOpLgcwLsbfDJ246v7XcaMhOQjfOzt84UQGJ_pLeML51fo2oWlcD5LQhvTw_QetjySiOu2rhVg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PF_XuxR4svQ", "title": "[플러터플로우FlutterFlow_완전초급_58편](UI개발)위젯편 : RiveAnimation 라이브애니메이션 위젯 씹어먹기" },
+    { "id": "iVKBLn8dwsA", "title": "[플러터플로우FlutterFlow_완전초급_59편](UI개발)위젯편 : HtmlView HTML뷰 위젯 씹어먹기" },
+    { "id": "fQq-CpeZbL4", "title": "[플러터플로우FlutterFlow_완전초급_60편](UI개발)위젯편 : PdfViewer PDF뷰어 위젯 씹어먹기" },
     { "id": "2roXL1XPONs", "title": "[피그마_초급_26강] Component 실습 VI" }, 
     { "id": "AKR9mF_I5ig", "title": "[플러터플로우FlutterFlow_완전초급_48편](UI개발)위젯편 : ToggleIcon 토글아이콘 위젯 씹어먹기" }, 
     { "id": "R5g_bA7jI-A", "title": "[플러터플로우FlutterFlow_완전초급_49편](UI개발)위젯편 : AudioPlayer 오디오플레이어 위젯 씹어먹기" }, 

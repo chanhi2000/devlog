@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/W9wERgktL_qfOGUtgKedwD_z3J5MlMWcucJXG90FG2tHHDy2u8tMUbRSeJkqoRJlnZe4nlsKOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jyxrqFg4QnI", "title": "#3 - Understanding and writing First Selenium Test code in C# .NET" },
+    { "id": "ANHMNIUPNSY", "title": "#1 - Introduction to automation testing with Selenium in C# .NET (.NET 8 and C# 12)" },
+    { "id": "M-0yw9IaNu8", "title": "#2 - Installing Visual Studio 2022 and Selenium in C# .NET" },
     { "id": "XgoPKM1_2Xk", "title": "Data Driven Testing in NUnit for Playwright with C# .NET" }, 
     { "id": "VhQrOTpYTOI", "title": "Automatic Test Data Creation for DDT in Playwright with C# .NET" }, 
     { "id": "PyMpeDttMas", "title": "Run Tests in Parallel on Multiple Machines in Playwright with Sharding⚡️" },

@@ -749,5 +749,10 @@
     "desc": "Curated list of awesome GPTs 👍.",
     "officialSite": "https://github.com/ai-boost/awesome-gpts",
     "topics": ["awesome", "awesome-list", "chatgpt", "curated-list", "gpts"]
+  }, {
+    "repo": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "desc": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.",
+    "officialSite": "",
+    "topics": []
   }
 ]

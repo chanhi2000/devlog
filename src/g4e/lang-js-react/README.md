@@ -17,8 +17,4 @@ tags: ["js" , "node" , "nodejs", "react", "reactjs", "reactnative", "facebook"]
 
 ## Table of Contents
 
-- [🔮Snippets](snippets.md)
-- [📚References](references.md)
-- [🕶️Github](github.md)
-- [📺Youtube](youtube.md)
-
+<ToCLocal basePath="/g4e/lang-js-react/" />

@@ -11,3 +11,9 @@ description: 🦦Go
 :::
 
 <ShieldsGroup logos="go"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-go/" />

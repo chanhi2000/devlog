@@ -11,3 +11,9 @@ description: 🪐Lua
 :::
 
 <ShieldsGroup logos="lua,neovim"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-lua/" />

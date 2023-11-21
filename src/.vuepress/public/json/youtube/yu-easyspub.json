@@ -6,9 +6,30 @@
     "banner": "https://yt3.googleusercontent.com/rniEA2SFFwvD9stOinwu9ifAebPni877LzQZbdCp0vdqNrp_EemICO33diiuK6CxWDDhBQVc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dU-tA9354CI", "title": "06강 노드의 모듈 | Do it! Node.js 프로그래밍 입문" },
     { "id": "P_eRpwR15-o", "title": "[Do it! SQL 입문] 06장 내 맘대로 주식 데이터 분석하기" },
     { "id": "5jIEQm-TJ3s", "title": "[Do it! SQL 입문] 7장 국가 통계 데이터 분석하기" },
     { "id": "kGwOVLiDNus", "title": "09-2강 클래스 | Do it! 모던 자바스크립트 프로그래밍의 정석" }
+  ],
+  "playlists": [
+    {
+      "title": "Do it! Node.js 프로그래밍 입문",
+      "videos": [
+        { "id": "4inLYlZOKAU", "title": "01강 백엔드 기초 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "OLJ3qz6EIhI", "title": "02강 노드 설치와 환경 설정 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "y9KlZ0fJ-8I", "title": "03강 노드 실행 및 패키지 관리 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "YVqMQyhdvwM", "title": "04강 자바스크립트 기초 문법-1 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "Gg4ZO3DlBc0", "title": "05강 자바스크립트 기초 문법-2 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "cbnOhi9ZtWg", "title": "07강 노드의 path모듈 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "cv33E5EXuwI", "title": "08강 노드의 fs 모듈 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "vjr7zsdmAS4", "title": "09강 HTTP 모듈로 서버 만들기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "kiGJLe1z8d8", "title": "10강 라우팅 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "in2nZTzlhBs", "title": "11강 익스프레스 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "O0TGHlIny5A", "title": "12강 익스프레스 라우팅 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "2Gi8mNBKVPo", "title": "13강 라우터 미들웨어 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "WxbD4o4YQEg", "title": "14강 바디파서 미들웨어 | Do it! Node.js 프로그래밍 입문" }
+      ]
+    }
   ]
 }
 

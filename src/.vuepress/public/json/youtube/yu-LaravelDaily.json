@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8pN316xCRyU", "title": "Eloquent Multi-Word Tables: How to Name Fields/Methods?" },
+    { "id": "nLldkBTp9Js", "title": "Laravel Code Review: SQL Queries and Better Naming" },
+    { "id": "skNtXU4dFmk", "title": "Exceptions in Laravel: Spatie Permission Example" },
     { "id": "Mh3dJm525jE", "title": "What Laravel Stack to Choose for Simple E-Shop?" }, 
     { "id": "dhAlru6P0-c", "title": "Creating Laravel Service, Package or Component? Short Tip." },
     { "id": "y4YMXq8OyBU", "title": "Laravel Migrations: Change Foreign Key - Add cascadeOnDelete()" },

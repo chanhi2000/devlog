@@ -11,3 +11,9 @@ description: 🐍Python
 :::
 
 <ShieldsGroup logos="python,pytorch,sympy,numpy,jupyter"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-python/" />

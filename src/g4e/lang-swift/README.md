@@ -12,3 +12,9 @@ category: 🕊️Swift
 :::
 
 <ShieldsGroup logos="swift,xcode,cocoapods"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-swift/" />

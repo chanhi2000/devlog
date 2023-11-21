@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Qy43Aqx_aC7e9W5b1W0oxXMebVPjrSdBo831x4bsN0xFZHdr5MbMFuBtij80wEp9bLMULtqveg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fFHlfbKVi30", "title": "Effective Neovim setup for web development towards 2024" },
     { "id": "IGK6eceWyU4", "title": "How to create Ghibli-style trees with three.js" }, 
     { "id": "rjOuCFrs584", "title": "How I take tech notes as a note app author" }, 
     { "id": "5-aK2_WwrmM", "title": "How to set up PowerShell prompt with Oh My Posh on Windows 11" }, 

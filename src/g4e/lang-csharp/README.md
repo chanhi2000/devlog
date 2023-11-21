@@ -11,3 +11,9 @@ description: ♯CSharp
 :::
 
 <ShieldsGroup logos="csharp,dotnet,visualstudio"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-csharp/" />

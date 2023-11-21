@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Y-ZCSMNwcWc", "title": "Flutter Pass Data Back to Previous Screen GetX | Get.back()" },
+    { "id": "QJRzLNzQ1w4", "title": "Mysql Workbench Export Database" },
+    { "id": "9IxxQduBk3E", "title": "Flutter Pass Function As a Parameter and Receive Value" },
+    { "id": "GRL2pP43LpQ", "title": "Powerful Laravel Admin Panel" },
+    { "id": "nIg2Jn_45zc", "title": "Flutter AppBar & Theme Global Settings" },
+    { "id": "EZyaMa7SGN4", "title": "Flutter JavaScript Channel Communication & Webview" },
+    { "id": "ym9o2E3IOus", "title": "React Native Run on iOS" },
     { "id": "PUIhO_8VSw4", "title": "Beautiful Flutter App" },
     { "id": "epPiAXKXLn4", "title": "Flutter Adaptive UI | Screen Util Package | A Must Have Tool for Your App Dev" },
     { "id": "IDVOCjOPaGc", "title": "React Native Food App" },

@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "00ckO4L3RwA", "title": "기능추가: MemoReprtDAOTest" },
     { "id": "NmOw7g88Fao", "title": "`DeptJobDAO.selectMaxDeptJobBxOrdr` 등록시 부서업무함의 표시순서를 조회한다." },
     { "id": "Ud2kuNby-5M", "title": "`DeptJobDAO.selectDeptJobBxCheck` 부서내 부서업무함명의 건수를 조회한다." },
     { "id": "dscgwJy3OTw", "title": "`DeptJobDAO.deleteDeptJobBx` 부서업무함 정보를 삭제한다." },

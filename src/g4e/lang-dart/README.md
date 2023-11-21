@@ -11,3 +11,9 @@ description: 🔰Dart
 :::
 
 <ShieldsGroup logos="dart,flutter"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-dart/" />

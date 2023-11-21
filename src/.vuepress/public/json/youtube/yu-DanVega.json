@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/YZszOyMVJh2dRmktetnCGJVHMf5QTTvjZFn9GOmsw_SYRhhruhSa37Ah3jN0KDZnURZa4rO1I0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0giBZlNqSLQ", "title": "The new danvega.dev powered by Nuxt / Vue / Tailwind" },
     { "id": "EKoq98KqvrI", "title": "Building an API Gateway in Java with Spring Cloud Gateway" },
     { "id": "rUbjV3VY1DI", "title": "Spring Boot Testing - ** Batteries Included 🔋🔋" },
     { "id": "aqc5YB7TISM", "title": "Getting Started with Java 21 - JDK 21 First Look" },

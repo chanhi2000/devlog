@@ -12,3 +12,9 @@ tags: ["c"]
 :::
 
 <ShieldsGroup logos="c,vscode"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-c/" />

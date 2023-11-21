@@ -1769,14 +1769,34 @@
     "officialSite": "https://picoapps.xyz/free-tools/screenshot-to-code",
     "topics": []
   }, {
-    "repo": "BuilderIO/gpt-crawler",
-    "desc": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
-    "officialSite": "https://www.builder.io/blog/custom-gpt",
-    "topics": []
-  }, {
     "repo": "tldraw/make-real-starter",
     "desc": "Make it real",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "lxfater/inpaint-web",
+    "desc": "A free and open-source inpainting tool powered by webgpu and wasm on the browser.",
+    "officialSite": "https://inpaintweb.lxfater.com/",
+    "topics": ["inpainting", "webgpu"]
+  }, {
+    "repo": "louislam/dockge",
+    "desc": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+    "officialSite": "",
+    "topics": ["docker", "docker-compose", "docker-deployment", "docker-stack", "docker-stack-deploy", "docker-ui", "responsive", "self-hosted", "selfhosted", "single-page-app", "socket-io", "webapp", "websocket"]
+  }, {
+    "repo": "thewh1teagle/mobslide",
+    "desc": "",
+    "officialSite": "https://thewh1teagle.github.io/mobslide.web",
+    "topics": ["modern", "presentation", "productivity"]
+  }, {
+    "repo": "jordansinger/build-it-figma-ai",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "artifacthub/hub",
+    "desc": "Find, install and publish Kubernetes packages",
+    "officialSite": "https://artifacthub.io",
+    "topics": ["cncf", "coredns-plugin", "falco", "gatekeeper", "helm", "keda-scalers", "keptn", "krew-index", "kubernetes", "kubewarden", "kyverno", "olm-operators", "open-policy-agent", "tekton", "tinkerbell-actions"]
   }
 ]

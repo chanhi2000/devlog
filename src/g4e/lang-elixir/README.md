@@ -11,3 +11,10 @@ description: 💧Elixir
 :::
 
 <ShieldsGroup logos="elixir"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-elixir/" />
+

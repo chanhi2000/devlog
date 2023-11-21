@@ -16,6 +16,4 @@ description: 🐘Gradle
 
 ## Table of Contents
 
-- [🔮Snippets](snippets.md)
-- [🩺Troubleshooting](troubleshooting.md)
-- [📚References](references.md)
+<ToCLocal basePath="/g4e/lang-gradle/" />

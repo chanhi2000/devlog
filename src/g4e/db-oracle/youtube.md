@@ -19,5 +19,6 @@ tags: ["sql", "db", "mysql", "shell"]
 <MyYouTubeItems jsonName="yu-oracle-base" /><!-- ORACLE-BASE.com -->    
 <MyYouTubeItems jsonName="yu-seoulit" /><!-- SeoulitOnLineCourse TV -->
 <MyYouTubeItems jsonName="yu-ssap-dba" /><!-- 쌉DBA -->
+<MyYouTubeItems jsonName="yu-IT-sm6mq" /><!-- IT 늦공 김부장 -->
 
 <TagLinks />

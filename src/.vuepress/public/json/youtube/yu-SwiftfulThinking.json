@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/tjorkp81XrPpHKVlDcQTfKSw4-xGjagaGJMXVCvz1-gV2oFrt1fghNsi8MeZah2HrDvD7T0SWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oN3Rqo6V6Uc", "title": "How to use ViewThatFits in SwiftUI | Bootcamp #71" },
+    { "id": "7AaAVuWmlqQ", "title": "How to use Alignment Guides in SwiftUI | Continued Learning #32" },
     { "id": "bW7N8ACCc6A", "title": "How to use Popover modifier in SwiftUI | Bootcamp #69" }, 
     { "id": "7BAW70amSCA", "title": "How to use AnyLayout in SwiftUI | Bootcamp #70" }, 
     { "id": "hiOjTJgl6GU", "title": "How to use Subscripts in Swift | Advanced Learning #32" },

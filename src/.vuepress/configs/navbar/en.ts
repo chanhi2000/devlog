@@ -211,6 +211,27 @@ export const navbarEn: NavbarConfig = [
       }, {
         text: '🧶Node.js',
         link: '/g4e/lang-js-node/README.md',
+      }, {
+        text: '⚛React.js',
+        link: '/g4e/lang-js-react/README.md',
+      }, {
+        text: '🧜‍♀️Mermaid.js',
+        link: '/g4e/lang-js-mermaid/README.md',
+      }, {
+        text: '🐍Python',
+        link: '/g4e/lang-python/README.md',
+      }, {
+        text: '🎨CSS',
+        link: '/g4e/lang-css/README.md',
+      }, {
+        text: '🦀Rust',
+        link: '/g4e/lang-rust/README.md',
+      }, {
+        text: '🪐Lua',
+        link: '/g4e/lang-lua/README.md',
+      }, {
+        text: '♯CSharp',
+        link: '/g4e/lang-csharp/README.md',
       }
     ]
   }, {

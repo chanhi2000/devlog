@@ -38,6 +38,11 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## ServerValut
+
+- [Why does `hostname -i` show two values?](https://serverfault.com/questions/847637/why-does-hostname-i-show-two-values)
+
+
 ## tecmint
 
 - [How to Synchronize Time with Chrony NTP in Linux](https://www.tecmint.com/synchronize-time-with-ntp-in-linux)

@@ -3255,12 +3255,7 @@
     "topics": ["cheat-sheet", "oscp", "oscp-guide"]
   }, {
     "repo": "protectai/ai-exploits",
-    "desc": "A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities ",
-    "officialSite": "",
-    "topics": []
-  }, {
-    "repo": "protectai/ai-exploits",
-    "desc": "A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities ",
+    "desc": "A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities",
     "officialSite": "",
     "topics": []
   }, {
@@ -3273,5 +3268,35 @@
     "desc": "",
     "officialSite": "",
     "topics": ["weather", "weather-forecast"]
+  }, {
+    "repo": "joennlae/halutmatmul",
+    "desc": "Hashed Lookup Table based Matrix Multiplication (halutmatmul) - Stella Nera accelerator",
+    "officialSite": "",
+    "topics": ["approximate-inference", "hardware", "hardware-acceleration", "machine-learning", "maddness", "pytorch"]
+  }, {
+    "repo": "yl4579/StyleTTS2",
+    "desc": "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models",
+    "officialSite": "",
+    "topics": ["adversarial-training", "deep-learning", "diffusion-models", "gan", "latent-diffusion", "latent-diffusion-models", "pytorch", "speaker-adaptation", "speech-synthesis", "text-to-speech", "tts", "wavlm"]
+  }, {
+    "repo": "PKU-YuanGroup/Video-LLaVA",
+    "desc": "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+    "officialSite": "https://arxiv.org/pdf/2311.10122.pdf",
+    "topics": ["instruction-tuning", "large-vision-language-model", "multi-modal"]
+  }, {
+    "repo": "NeumTry/NeumAI",
+    "desc": "Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.",
+    "officialSite": "https://neum.ai",
+    "topics": ["ai", "chatgpt", "data", "data-engineering", "database", "embeddings", "etl", "llm", "llmops", "mlops", "ops", "pipeline", "python", "rag", "retrieval", "vector-database", "vectors"]
+  }, {
+    "repo": "Acly/krita-ai-diffusion",
+    "desc": "Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.",
+    "officialSite": "",
+    "topics": ["generative-ai", "krita-plugin", "stable-diffusion"]
+  }, {
+    "repo": "rsms/inter",
+    "desc": "The Inter font family",
+    "officialSite": "https://rsms.me/inter/",
+    "topics": ["design", "font", "typeface"]
   }
 ]

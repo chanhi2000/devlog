@@ -16,8 +16,4 @@ description: 🧢Batchfile (Windows)
 
 ## Table of Contents
 
-- [🐣Basics](basics.md)
-- [💡Tips](tips.md)
-- [🔮Snippets](snippets.md)
-- [📚References](references.md)
-- [🕶️Github](github.md)
+<ToCLocal basePath="/g4e/cli-batchfile/" />

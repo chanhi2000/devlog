@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Yn70X579PO08-VKiqvXU_ATSSDKfLFV9paBhtvJDguvghUDA6_PGmRzVtxK1_UL8yipARHkh-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_4TPM6clQjM", "title": "When RESTful architecture isn't enough..." },
     { "id": "WQ61RL1GpEE", "title": "I've been using Redis wrong this whole time..." },
     { "id": "CVCBHHFXWNE", "title": "The (almost) perfect Neovim setup for Node.js" },
     { "id": "ruUlK6zRwS8", "title": "Solving one of PostgreSQL's biggest weaknesses." },

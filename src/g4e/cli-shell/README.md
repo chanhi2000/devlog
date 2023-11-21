@@ -16,9 +16,4 @@ description: 🐚Shell
 
 ## Table of Contents
 
-- [🐣Basics](basics.md)
-- [💡Tips](tips.md)
-- [🩺Troubleshooting](troubleshooting.md)
-- [📚References](references.md)
-- [🕶️Github](github.md)
-- [📺Youtube](youtube.md)
+<ToCLocal basePath="/g4e/cli-shell/" />

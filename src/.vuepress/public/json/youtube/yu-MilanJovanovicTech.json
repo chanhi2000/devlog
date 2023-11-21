@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PiNJ2CaC3Cw", "title": "What is the Shared Kernel in Domain-Driven Design?" },
+    { "id": "KghL3FqIUs0", "title": "Cool Thing You Can Do With ASP.NET Core Controllers" },
+    { "id": "3Ec-TS96xCE", "title": "C# Reflection basics: Activator.CreateInstance" },
+    { "id": "dji9QDstOG0", "title": "Switch Expressions in C# are awesome" },
+    { "id": "SL9PRpT5-Yk", "title": "C# 12 Primary Constructors and Dependency Injection" },
+    { "id": "FQ8npyL0cbU", "title": "3 Ways to Find Minimum Element (ranked worst to best)" },
     { "id": "gZgT0qoHL8U", "title": "Polly V8 - No More Static API? #shorts" },
     { "id": "3t00DrCZKTk", "title": "What is the Repository Pattern? #shorts" },
     { "id": "if2h1SxA9uo", "title": "DDD Domain Service Explained in 17 seconds #shorts" },

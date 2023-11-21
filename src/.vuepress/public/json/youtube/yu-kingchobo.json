@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Yr5aOxfgoSE", "title": "10. tailwindcss vertical align" },
+    { "id": "9FLUd9t9itg", "title": "11. tailwindcss border-width 선두께 조정하기" },
+    { "id": "CyT4sPU_hI0", "title": "12. tailwindcss Border Radius 보더를 둥글게 하기" },
+    { "id": "cAwwG-2tQGA", "title": "PHP회원사이트만들기 #92 게시판수정 파일첨부기능개선#4" },
+    { "id": "8tQUI7ZxAnQ", "title": "PHP회원사이트만들기 #91 게시판수정 파일첨부기능개선#3" },
+    { "id": "FmxqW3rHiIU", "title": "PHP회원사이트만들기 #90 게시판수정 파일첨부기능개선#2" },
+    { "id": "nSwyZ3pU4to", "title": "13. tailwindcss outline" },
+    { "id": "pDpeocVFl_8", "title": "PHP회원사이트만들기 #89 게시판수정 파일첨부기능개선#1" },
+    { "id": "kOfKACm8S2c", "title": "14. tailwindcss margin, padding, 마진 병합" },
+    { "id": "c3Z0T3wJ6F8", "title": "PHP회원사이트만들기 #93 게시판수정 파일첨부기능개선#5" },
     { "id": "7pccjoRuV9k", "title": "6. tailwindcss 글자 두께, 글자 밑줄 간격, 알파벳 대소문자 변경" },
     { "id": "VHViO3HPSEo", "title": "7. tailwindcss Text Overflow" },
     { "id": "QVJW2E0s8yg", "title": "8. tailwindcss 들여쓰기와 내어쓰기" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/V9opkZvdcJAT8gzonpRqamZkajmRSAM_bqVcYcn06VxTUHhNiGl0AVi5GQ0EjAxZ-bE00QK3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Cb1m6EacCUk", "title": "자바스크립트 이벤트 위임 vs 온클릭 이벤트 핸들러 활용 차이점 (효율적인 이벤트 적용 방법 설명)" },
     { "id": "fOZHRzEVObM", "title": "웹개발 도구 꿀팁 1: 빠르게 웹사이트 배경 섹션 디자인 후 SVG, PNG 다운로드" }
   ]
 }

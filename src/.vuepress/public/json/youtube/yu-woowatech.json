@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/sRbGB0rMtwOBAtcV9W27xW9QC8yV6irtym_tApvPV_Wl1TCNB7lr1fcnr6DabhC6_dbrVQ2E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oyzWDtMquo4", "title": "[10분 테코톡] 오도의 정렬 알고리즘" },
+    { "id": "Q1jZtN8oMnU", "title": "[10분 테코톡] 우가의 Virtual Thread" },
+    { "id": "LQL8tXPaQCs", "title": "[10분 테코톡] 매튜의 선형 자료구조" },
+    { "id": "QG6_DG5Tapw", "title": "[10분 테코톡] 루쿠의 트리 자료구조" },
+    { "id": "QOWgP2_kGYQ", "title": "[10분 테코톡] 썬샷의 최소 신장 트리와 최단 경로 알고리즘" },
+    { "id": "DfNGidKhY6U", "title": "[10분 테코톡] 조이,엔초의 DNS와 ARP" },
+    { "id": "prniILbdOYA", "title": "[10분 테코톡] 푸우의 Tomcat Thread Pool" },
+    { "id": "atsWCicI5VQ", "title": "[10분 테코톡] 푸만능의 리액트 컴포넌트 설계와 SOLID" },
     { "id": "_NZkyCSXKi8", "title": "배민 플랫폼의 진화 방향은? 송재하 CTO :: 【우아콘 2022】 키노트 DAY2" },
     { "id": "8pxvqKkl9As", "title": "[10분 테코톡] 아커, 윤생의 프론트엔드에서 서버 API mocking" },
     { "id": "nQgwlyBrxDs", "title": "[우아한테크세미나] 글 쓰는 우아한 개발자 - 2부 [우아한 타입스크립트  With 리액트]" },
@@ -20,5 +28,3 @@
     { "id": "bIeqAlmNRrA", "title": "[우아한테크세미나] 190425 TDD 리팩토링 by 자바지기 박재성님" }
   ]
 }
-
-

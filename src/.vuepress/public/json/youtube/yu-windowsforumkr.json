@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/f8tL36K51Er0YJuXNUK-T-cMv6xSaCK1JrNFHny2iaX6N8ef-NdnniKFpJpsviXWZfZ2LMEE0g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dq4xffI9aHU", "title": "윈도우 설치 원격 지원하기 ( UEFI / Legacy )" },
     { "id": "FO0T9FlG9Ws", "title": "나만의 복원 솔루션 만들기 Clonezilla (UEFI)" },
     { "id": "7uhJzoRZBIA", "title": "HEVC 코덱 무료 설치 하기" },
     { "id": "fGJ8Bqm1_Zs", "title": "배치파일로 장치 드라이버 백업 복구하기" },

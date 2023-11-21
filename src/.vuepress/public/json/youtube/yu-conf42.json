@@ -6,22 +6,68 @@
     "banner": "https://yt3.googleusercontent.com/hsefHnvrSnbNvRT-gDvBTd_DjSGLIYir0K89jF6CpItvG_DoAPSsZabtfYhO1hXJdJ6pm_ygjw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "jzAOVoBPPBA", "title": "Go from Kubernetes YAML to software engineer with CDK8s | Robert Hoffmann | Conf42 Kube Native 2023" },
-    { "id": "zfDRV1yGh1M", "title": "Observability Ecosystem in Kubernetes | Jhonnatan Gil Chaves | Conf42 Kube Native 2023" },
-    { "id": "u8AaNr4HKWk", "title": "Git Sh*t Done, the GitOps Way | Frederic Harper | Conf42 Kube Native 2023" },
-    { "id": "KCB4wynFdBY", "title": "Simplify Network Services with Ballerina | Anuruddha Liyanarachchi | Conf42 Kube Native 2023" },
-    { "id": "XlSK2vC3cuk", "title": "Who broke the build? Use Kuttl to improve E2E tests | Ram Mohan Rao Chukka | Conf42 Kube Native 2023" },
-    { "id": "oSSLtK6BLHY", "title": "K8s Troubleshooting Demystified: Five Best Practices | Maria Ashby | Conf42 Kube Native 2023" },
-    { "id": "wfBsTbfuU28", "title": "Secure your Microservices with ZeroTrust approach | Jonathan Vila | Conf42 Kube Native 2023" },
-    { "id": "XIboatGV9TY", "title": "M9sweeper, the Open Source Kubernetes Security Platform | Jacob Beasley | Conf42 Kube Native 2023" },
-    { "id": "KsJcjfU5NTc", "title": "Kubernetes for the Virtualization Admin | Julia Furst Morgado | Conf42 Kube Native 2023" },
-    { "id": "WOKrH52xXBs", "title": "Introduction to Ambient Mesh| Abdel Sghiouar | Conf42 Kube Native 2023" },
-    { "id": "4oI1y81R-7g", "title": "Applying DevOps practices in Data and ML Engineering | Antoni Ivanov | Conf42 Kube Native 2023" },
-    { "id": "X6Gnp5syLJE", "title": "Empowering Kubernetes Workloads with GraphQL | Akshay Bhat | Conf42 Kube Native 2023" },
-    { "id": "ZTxBUi5YBX4", "title": "Accessibility Testing 101 | Erissa Duvall | Conf42 Kube Native 2023" }
+    
   ],
   "playlists": [
     {
+      "title": "Conf42 Incident Management 2023",
+      "videos": [
+        { "id": "q2MuScM0Ru4", "title": "Premiere - Conf42 Incident Management 2023" },
+        { "id": "Cazu31PAxBs", "title": "Atomic Red Team: Closing the Gap with Threat Actors | Chris Haller | Conf42 Incident Management 2023" },
+        { "id": "bAdIoLpL2Ek", "title": "Leveraging SRE and Observability for the World of Building on LLMs] | Christine Yen | Conf42 IM 2023" },
+        { "id": "tNvJcGacdIE", "title": "Pragmatic Automation Strategies | Joshua Arvin Lat & Sophie Soliven | Conf42 IM 2023" },
+        { "id": "uarHZQoGzrM", "title": "Use generative AI to finally fix out-dated runbooks | Anurag Gupta | Conf42 Incident Management 2023" },
+        { "id": "RQejDeQdj60", "title": "IT incident managament training and assessment using generative AI | Mahdi Jelodari | Conf42 IM 2023" },
+        { "id": "9zg5w8AZQj8", "title": "There's No Place Like Production | Paige Cruz | Conf42 Incident Management 2023" },
+        { "id": "aiLClzp2cB4", "title": "Unlocking Insights through Incident Management Reports | Andre Carvalho | Conf42 IM 2023" },
+        { "id": "j5ELYy0GClo", "title": "Creating On-Call Heroes: Strategies for Effective On-Call Practices | Einat Mahat | Conf42 IM 2023" },
+        { "id": "g5Lg5D0f1p4", "title": "Incident Response, for Developers | Tanya Janca | Conf42 Incident Management 2023" },
+        { "id": "V1IIQuBT4_0", "title": "Team Rises From Crisis: Leverage Incidents for Growth & Improvement | Dor Amram | Conf42 IM 2023" }
+      ]
+    }, {
+      "title": "Conf42 Kube Native 2023",
+      "videos": [
+        { "id": "O-k-chlFdO8", "title": "Premiere - Conf42 Kube Native 2023" },
+        { "id": "f4qxdG79QrI", "title": "Scaling Multi-cluster Kubernetes at Teleport Cloud | Stephen Levine | Conf42 Kube Native 2023" },
+        { "id": "ZTxBUi5YBX4", "title": "Accessibility Testing 101 | Erissa Duvall | Conf42 Kube Native 2023" },
+        { "id": "X6Gnp5syLJE", "title": "Empowering Kubernetes Workloads with GraphQL | Akshay Bhat | Conf42 Kube Native 2023" },
+        { "id": "4oI1y81R-7g", "title": "Applying DevOps practices in Data and ML Engineering | Antoni Ivanov | Conf42 Kube Native 2023" },
+        { "id": "WOKrH52xXBs", "title": "Introduction to Ambient Mesh| Abdel Sghiouar | Conf42 Kube Native 2023" },
+        { "id": "KsJcjfU5NTc", "title": "Kubernetes for the Virtualization Admin | Julia Furst Morgado | Conf42 Kube Native 2023" },
+        { "id": "XIboatGV9TY", "title": "M9sweeper, the Open Source Kubernetes Security Platform | Jacob Beasley | Conf42 Kube Native 2023" },
+        { "id": "wfBsTbfuU28", "title": "Secure your Microservices with ZeroTrust approach | Jonathan Vila | Conf42 Kube Native 2023" },
+        { "id": "oSSLtK6BLHY", "title": "K8s Troubleshooting Demystified: Five Best Practices | Maria Ashby | Conf42 Kube Native 2023" },
+        { "id": "XlSK2vC3cuk", "title": "Who broke the build? Use Kuttl to improve E2E tests | Ram Mohan Rao Chukka | Conf42 Kube Native 2023" },
+        { "id": "KCB4wynFdBY", "title": "Simplify Network Services with Ballerina | Anuruddha Liyanarachchi | Conf42 Kube Native 2023" },
+        { "id": "u8AaNr4HKWk", "title": "Git Sh*t Done, the GitOps Way | Frederic Harper | Conf42 Kube Native 2023" },
+        { "id": "zfDRV1yGh1M", "title": "Observability Ecosystem in Kubernetes | Jhonnatan Gil Chaves | Conf42 Kube Native 2023" },
+        { "id": "jzAOVoBPPBA", "title": "Go from Kubernetes YAML to software engineer with CDK8s | Robert Hoffmann | Conf42 Kube Native 2023" },
+        { "id": "onIYaGTZSSI", "title": "Closing the Developer Experience Gap of K8s Development | Edidiong Asikpo | Conf42 Kube Native 2023" },
+        { "id": "FFK3vTiZeaE", "title": "Beyond Traditional DevOps: Dive into Serverless with K8s | Karan Jagtiani | Conf42 Kube Native 2023" },
+        { "id": "yarjb_O7fBw", "title": "Ambient Mesh: new sidecar less & faster Istio for zero trust | Md Azmal | Conf42 Kube Native 2023" },
+        { "id": "C7O_P9p9pTw", "title": "Metrics that Matter - Moving from Easy to Impactful | Joel Tosi | Conf42 Kube Native 2023" },
+        { "id": "wjcWbRczujw", "title": "Building a platform to process £34bn in card transactions | Sandeep Mehta | Conf42 Kube Native 2023" },
+        { "id": "Op4682Q4ibI", "title": "Service Mess to Service Mesh | Rob Richardson | Conf42 Kube Native 2023" },
+        { "id": "0ZqYX5pEFOo", "title": "Cost and Resource Optimization In Kubernetes | Michael Levan | Conf42 Kube Native 2023" }
+      ]
+    }, {
+      "title": "Conf42 Platform Engineering 2023",
+      "videos": [
+        { "id": "8DBTffP4KK8", "title": "Premiere - Conf42 Platform Engineering 2023" }, 
+        { "id": "rDtTWuSqZrs", "title": "APIOps: Harnessing AI for Rapid API Delivery | Rick Spurgeon | Conf42 Platform Engineering 2023" }, 
+        { "id": "9AsrE_iAO7U", "title": "3 Practices for a smooth Platform Engr. adoption | Caio Medeiros | Conf42 Platform Engineering 2023" }, 
+        { "id": "czBslOClK1E", "title": "The Digital Factory | Romano Roth | Conf42 Platform Engineering 2023" }, 
+        { "id": "V4oCsgz2BA8", "title": "Cloud Network Segmentation: pursuit of Zero Trust | Atif Siddiqui | Conf42 Platform Engineering 2023" }, 
+        { "id": "NcFms1dpLQ8", "title": "AWS Networking Simplified: Tour of Key Features | Samuel Baruffi | Conf42 Platform Engineering 2023" }, 
+        { "id": "FsUQor3PbKI", "title": "Building Platform using ChatOps &amp; Github Bots | Spiros Economakis | Conf42 Platform Engineering 2023" }, 
+        { "id": "GHmDqJxT03k", "title": "Building an ecosystem for multiplayer game | Dmitrii Ivashchenko | Conf42 Platform Engineering 2023" }, 
+        { "id": "Y3exQA1iY7k", "title": "Aspects of Microservice Interactions | Oresztesz Margaritisz | Conf42 Platform Engineering 2023" }, 
+        { "id": "FSWAgnhPUWE", "title": "Sidecar-less Service mesh, a dream or a reality? | Rohit Ghumare | Conf42 Platform Engineering 2023" }, 
+        { "id": "otivU4xTjXA", "title": "Optimise your Platform Cost | Vaibhav Chopra | Conf42 Platform Engineering 2023" }, 
+        { "id": "PJDT_GzeWXg", "title": "Observability strategies to not overload teams | Nicolas Takashi | Conf42 Platform Engineering 2023" }, 
+        { "id": "cB03JhntZVc", "title": "Incident Response? Let's do science instead | Ivan Merrill | Conf42 Platform Engineering 2023" }
+      ]
+    }, {
       "title": "Conf42 Golang 2023",
       "videos": [
         { "id": "NEp8QZKi19s", "title": "Premiere - Conf42 Golang 2023" },

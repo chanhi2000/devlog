@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/E3Bbni4t9_C7Dd3o6nrIimaHTExTejChg1aikJB5lqAeUrEa1tzm019zEF1t2HZFNOKJFcYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "K0GmBnOdE34", "title": "PyData Chicago October 2023 Meetup | fuzzydata: A Scalable Workload Generator" },
     { "id": "HfQkY1gv2es", "title": "Jens Nie: Accelerating Python Code" }, 
     { "id": "MsJjzVIVs6M", "title": "Anna-Lena Popkes: An unbiased evaluation of environment management and packaging tools" }, 
     { "id": "N1i_Z-WKaRs", "title": "Antonia Scherz: Unlocking Information - Creating Synthetic Data for Open Access." }, 

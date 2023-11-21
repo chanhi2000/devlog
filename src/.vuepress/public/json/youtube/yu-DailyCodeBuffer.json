@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/wKFAW7k_mBvQR6s7eRK_flYOtRdbxxv7rmApYKUQfW_gEfpw5l49BHf_7xop5dG9UJrOpvZ_NQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tU_37niRh4U", "title": "Apache KAFKA Tutorial | KAFKA Crash Course | Spring Boot" },
     { "id": "Fx0evOOzPBQ", "title": "10 DevOps Tools to Master in 2024!" }, 
     { "id": "0dSsr3mZrKI", "title": "How to toggle Multiple Features in Spring Boot Application" },
     { "id": "41Ry2ojnJFM", "title": "Spring Boot 3 Integration Testing With TestContainers" },

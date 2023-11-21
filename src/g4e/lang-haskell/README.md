@@ -11,3 +11,9 @@ description: 🐑Haskell
 :::
 
 <ShieldsGroup logos="haskell"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-haskell/" />

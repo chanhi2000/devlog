@@ -16,4 +16,4 @@ description: 🐦Maven
 
 ## Table of Contents
 
-- [🔮Snippets](snippets.md)
+<ToCLocal basePath="/g4e/lang-maven/" />

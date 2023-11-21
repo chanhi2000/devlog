@@ -16,13 +16,7 @@ description: 🅺Kotlin
 
 ## Table of Contents
 
-- [🐣Basics](basics.md)
-- [🍃Spring](spring.md)
-- [🧞‍♂️KTX](ktx.md)
-- [💡Tips](tips.md)
-- [🗞️News](news.md)
-- [🔮Snippets](snippets.md)
-- [📚References](references.md)
+<ToCLocal basePath="/g4e/lang-kotlin/" />
 
 ---
 

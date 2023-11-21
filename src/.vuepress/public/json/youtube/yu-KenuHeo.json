@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/R9bkBrgOOjdTzIgLHdqiBplVkeD-bb6o0d8VJ15GoA1emrNGyoZ61LbHTxefpDjZqrqxQ1JJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5tULIr8uWMI", "title": "🚀 Jenkins + Gmail 알림 설정 외 1" },
+    { "id": "w-NuPyyNaNU", "title": "🌱 Spring Boot 3 시작하기" },
+    { "id": "r1dxuXLdW4s", "title": "🚀 Jenkins + GitHub webhook 설정" },
+    { "id": "VEHe-Ua51Z4", "title": "📦 CI/CD with Jenkins" },
+    { "id": "eTUJM7F27Fw", "title": "🔧 VS Code 플러그인 수동설치" },
+    { "id": "CSlCkCHHLCo", "title": "🚀 Jenkins 시작하기" },
+    { "id": "RYcqc162-NE", "title": "🚀 Jenkins + SpotBugs" },
+    { "id": "tJqyrX6tZXs", "title": "🚀 Jenkins + SonarQube" },
+    { "id": "vWbQnrVx5hc", "title": "🚀 Jenkins in EC2 Cloud, +sonarqube, +spring boot" },
+    { "id": "ckwr0drj0zU", "title": "🚀 Jenkins + Spring Boot 배포" },
     { "id": "CxlX8mHD5Wo", "title": "🛡️ 보안 코딩 시작하기" }, 
     { "id": "-bkolEulL5c", "title": "🛡️ WebGoat 시큐어 코딩 예제 시작하기" }, 
     { "id": "7B4cWeaJBVM", "title": "🛡️ SQL Injection 예제" }, 

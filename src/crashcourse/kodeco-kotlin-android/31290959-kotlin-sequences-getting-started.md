@@ -148,9 +148,9 @@ val naturalNumbersSequence = generateSequence(seed = 1) { previousNumber -> prev
 
 The `generateSequence` function takes a `seed` as the first element of the sequence and a lambda to produce the remaining elements, starting from that seed.
 
-Unlike the `Collection` interface, the `Sequence` interface doesn’t bind any of its implementations to a `size` property. In other words, you can create infinite sequences, which is exactly what the code above does. The code starts at one, and goes to infinity and beyond from there, adding one to each generated value.
+Unlike the `Collection` interface, the `Sequence` interface doesn’t bind any of its implementations to a `size` property. In other words, you can create _infinite_ sequences, which is exactly what the code above does. The code starts at one, and goes _to infinity and beyond_ from there, adding one to each generated value.
 
-As you might suspect, you could get in trouble if you try to operate on this sequence. It’s infinite! What if you try to get all its elements? How will you stop?
+As you might suspect, you could get in trouble if you try to operate on this sequence. It’s infinite! What if you try to get _all_ its elements? How will you stop?
 
 One way is to use some kind of stopping mechanism in the generator function itself. In fact, `generateSequence` is programmed to stop generation when it returns `null`. Translating that into code, this is how to create a finite sequence:
 
@@ -178,8 +178,8 @@ Another way of stopping sequence generation is by using some of its __operators_
 
 Sequences have two kinds of operators:
 
-- __Intermediate operators__: Operators used to build the sequence.
-- __Terminal operators__: Operators used to execute the operations the sequence was built with.
+- __Intermediate operators__: Operators used to _build_ the sequence.
+- __Terminal operators__: Operators used to _execute_ the operations the sequence was built with.
 
 You'll learn about intermediate operators first.
 
@@ -243,8 +243,8 @@ Now, delete it! Delete the `map` you just typed. And in its place, start typing 
 
 Unlike `map`, `forEach` doesn't return a `Sequence`. Which makes sense, right? It's a terminal operator, after all. So, long story short, that's how you can distinguish them at a glance:
 
-- Intermediate operators always return a `Sequence`.
-- Terminal operators never return a `Sequence`.
+- Intermediate operators _always_ return a `Sequence`.
+- Terminal operators _never_ return a `Sequence`.
 
 You now know how to build a sequence and output its result. So, now it's time to try it out! Finish that terminal operator you were just writing by printing each element with it. In the end, you should have something like:
 
@@ -294,7 +294,7 @@ You now know how to build and use sequences. But when should you use them instea
 
 This can be quickly answered with one of the most famous sayings in software development: It depends. :]
 
-The long answer is a bit more complex. It always depends on your use case. In fact, to be really sure, you should always measure both implementations to check which one is faster. However, knowing about a few quirks surrounding sequences will also help you make a better-informed decision.
+The long answer is a bit more complex. It _always_ depends on your use case. In fact, to be really sure, you should always measure both implementations to check which one is faster. However, knowing about a few quirks surrounding sequences will also help you make a better-informed decision.
 
 ### Element Operation Order
 
@@ -316,7 +316,7 @@ It might not be wise to run this code in your scratch file. Computers aren't fon
 
 :::
 
-Sequences effectively avoid computing intermediate results, being able to outperform collections in cases like this one. However, it's not all roses and unicorns.
+Sequences effectively avoid computing intermediate results, being able to _outperform_ collections in cases like this one. However, it's not all roses and unicorns.
 
 Each intermediate operation added introduces some overhead. This overhead comes from the fact that each operation involves the creation of a new function object to store the transformation to be executed later. In fact, this overhead can be problematic for datasets that aren't large enough or in cases where you don't need that many operations. This overhead may even outweigh the gains from avoiding intermediate results.
 
@@ -334,13 +334,72 @@ You won't be able to properly check the implementation of `filter` in the scratc
 
 :::
 
-That `FilteringSequence` is a `Sequence` of its own. It wraps the `Sequence` where you call on `filter`. In other words, each intermediate operator creates a new `Sequence` object that decorates the previous `Sequence`. In the end, you're left with at least as many objects as intermediate operators, all wrapped around each other.
+That `FilteringSequence` is a `Sequence` of its own. It wraps the `Sequence` where you call on `filter`. In other words, each intermediate operator creates a new `Sequence` object that _decorates_ the previous `Sequence`. In the end, you're left with at least as many objects as intermediate operators, all wrapped around each other.
 
 To complicate things a bit, not all intermediate operators limit themselves to just decorating the previous sequence. Some of them need to be aware of the sequence's __state__.
 
 ### Stateless and Stateful Operators
 
+Intermediate operators can be:
+
+- __Stateless__: They process each element independently, without needing to know about any other element.
+- __Stateful__: They need information about other elements to process the current element.
+
+The intermediate operators you've seen in this tutorial so far are all stateless. So, what does a stateful operator look like?
+
+In your scratch file, just before the terminal `forEach` operator, add a `sortedDescending()` call, like so:
+
+```kotlin
+val firstHundredEvenNaturalNumbers = naturalNumbersUpToTwoHundredMillion
+  .take(100)
+  .filter { number -> number % 2 == 0 }
+  .sortedDescending() // add this call
+  .forEach { number -> println(number) }
+```
+
+As you can see from the scratch file output, you get the same list of numbers as before, but printed in reverse. For `sortedDescending` to be able to reverse it, it had to process each element while comparing to every other element of the sequence. But how could it do that, since sequences process one element at a time?
+
+The answer is actually quite simple, but it'll betray your confidence in sequences. Check how `sortedDescending` is implemented, and you'll see that it delegates the sorting to a function called `sortedWith`. In turn, if you check the implementation of `sortedWith`, you'll see something like this:
+
+```kotlin
+public fun Sequence.sortedWith(comparator: Comparator): Sequence {
+  return object : Sequence { // 1
+    override fun iterator(): Iterator { // 2
+      val sortedList = this@sortedWith.toMutableList() // 3
+      sortedList.sortWith(comparator) // 4
+      return sortedList.iterator() // 5
+    }
+  }
+}
+```
+
+Here's what the code is doing:
+
+1. It creates and returns an anonymous `object` that implements the `Sequence` interface.
+2. The `object` implements the `iterator()` method of the `Sequence` interface.
+3. The method converts the sequence to a `MutableList`.
+4. It then sorts the list according to the `comparator`.
+5. Finally, it returns the list's `iterator`.
+
+Wait, what?! It converts the _sequence_ to a _collection_. That `toMutableList` is a terminal operator. This intermediate operator effectively calls a terminal operator on the sequence and then outputs a new one in the end.
+
+So, for instance, think what will happen if you call `sortedDescending` on `naturalNumbersUpToTwoHundredMillion` before any other operator: You'll have a `MutableList` with two hundred million elements in memory! You _can_ try it in your scratch file, but be warned that it'll take a while before you get any results.
+
+It takes a while!
+
+Running the code with two hundred million elements in memory.
+While not all stateful operators use a `MutableList` behind the curtain like `sortedDescending`, they all do similar _tricks_ to have the state needed to perform their tasks. That said, these operators can have a huge negative impact on the sequence's performance, so always be mindful of when to use them, as their impact can be strong enough for collections to be a better fit.
+
 ### When to Use Sequences
+
+After all this, you should have a rough idea of the situations where sequences might come in handy. Here's a summary of the factors that might make sequences a better fit than collections:
+
+- Working with large datasets, applying a lot of operations.
+- Using intermediate operators that avoid unnecessary work — like `take`, for instance.
+- Avoiding stateful operators.
+- Avoiding terminal operators that convert the sequence to a collection — like `toList`, for instance.
+
+And again, while these might point you in the right direction, don't forget: You'll never know for sure which one fits best _unless you measure_!
 
 ---
 

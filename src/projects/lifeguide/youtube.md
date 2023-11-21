@@ -34,5 +34,7 @@ meta:
 <MyYouTubeItems jsonName="yu-mediheal_pilates" /><!-- 메디쌤의 필라테스 MEDIHEAL_PILATES -->
 <MyYouTubeItems jsonName="yu-leenageum" /><!-- 이나금TV -->
 <MyYouTubeItems jsonName="yu-2ndlife2" /><!-- 인생2회차 -->
+<MyYouTubeItems jsonName="yu-AliexpressDP" /><!-- 알리직구 -->
+<MyYouTubeItems jsonName="yu-SIMPLEC00KING" /><!-- 자취요리신 simple cooking -->
 
 <TagLinks />

@@ -29,5 +29,10 @@
     "desc": "Build Elixir projects for your microcontroller",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "zoonk/uneebee",
+    "desc": "Platform for creating interactive courses.",
+    "officialSite": "https://app.uneebee.com",
+    "topics": ["education", "elixir", "phoenix"]
   }
 ]

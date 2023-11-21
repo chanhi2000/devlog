@@ -809,6 +809,10 @@
     "desc": "Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app.",
     "officialSite": "https://loro.dev",
     "topics": ["collaborative-editing", "crdt", "local-first", "offline-first", "p2p", "privacy-first", "rich-text"]
+  }, {
+    "repo": "roc-lang/roc",
+    "desc": "A fast, friendly, functional language. Work in progress!",
+    "officialSite": "https://roc-lang.org",
+    "topics": ["functional-language", "functional-programming", "language", "roc-lang"]
   }
 ]
-

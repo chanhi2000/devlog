@@ -849,6 +849,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swift/64.md',
         '/crashcourse/paul-hudson-100-days-of-swift/65.md',
         '/crashcourse/paul-hudson-100-days-of-swift/66.md',
+        '/crashcourse/paul-hudson-100-days-of-swift/67.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -909,6 +910,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/paul-hudson-100-days-of-swiftui/52.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/53.md',
         '/crashcourse/paul-hudson-100-days-of-swiftui/54.md',
+        '/crashcourse/paul-hudson-100-days-of-swiftui/55.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -984,6 +986,16 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/01.md',
         '/crashcourse/java-jump-to-spring-boot/02.md',
         '/crashcourse/java-jump-to-spring-boot/03.md',
+        '/crashcourse/java-jump-to-spring-boot/03A.md',
+        '/crashcourse/java-jump-to-spring-boot/03B.md',
+        '/crashcourse/java-jump-to-spring-boot/03C.md',
+        '/crashcourse/java-jump-to-spring-boot/03D.md',
+        '/crashcourse/java-jump-to-spring-boot/03E.md',
+        '/crashcourse/java-jump-to-spring-boot/03F.md',
+        '/crashcourse/java-jump-to-spring-boot/03G.md',
+        '/crashcourse/java-jump-to-spring-boot/03H.md',
+        '/crashcourse/java-jump-to-spring-boot/03I.md',
+        '/crashcourse/java-jump-to-spring-boot/03J.md',
         '/crashcourse/java-jump-to-spring-boot/04.md',
         '/crashcourse/java-jump-to-spring-boot/a.md',
       ]
@@ -992,6 +1004,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/kodeco-kotlin-android/README.md',
+        '/crashcourse/kodeco-kotlin-android/272-intermediate-recyclerview-tutorial-with-kotlin.md',
         '/crashcourse/kodeco-kotlin-android/853-couchbase-tutorial-for-android-getting-started.md',
         '/crashcourse/kodeco-kotlin-android/523-augmented-reality-in-android-with-google-s-face-api.md',
         '/crashcourse/kodeco-kotlin-android/324-viewpager-tutorial-getting-started-in-kotlin.md',

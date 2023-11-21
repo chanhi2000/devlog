@@ -12,3 +12,9 @@ category: 🦀Rust
 :::
 
 <ShieldsGroup logos="rust"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-rust/" />

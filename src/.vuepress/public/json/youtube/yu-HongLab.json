@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/NGdVSEeV-lcvXs5Nyl5vqbv3hQMMeiaxGnCLThJVCBgpWeXrttwxFBjsxVc-PJhMvMGOrlUM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nfeKVQ4LqGk", "title": "[편집본] 대형 언어 모델(LLM) 특집 | 블랙 프라이데이 세일중(~11/30)" },
     { "id": "G6HV9kXwQQE", "title": "지금 뜨고 있는 C++ 응용 분야 | SLAM 전문가 신동원 박사" },
     { "id": "uDq7woPOZ_A", "title": "[무료] 코테용 C++ 핵심 정리 - 1. 환경 설정 (윈도우, 맥OS, VSCode, Visual Studio Code, XCode, g++, gcc, clang)" },
     { "id": "rsuaWXDT6QA", "title": "[라이브] 1.웹개발자 인공지능으로 몸값 올릴 기회 2.취준생들 코테 자꾸 떨어지는 이유" },

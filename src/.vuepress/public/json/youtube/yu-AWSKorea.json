@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/X4brzU6oq2AQfFtVjZXoEQD4ZSibnyZS97846cL_OVte7l4MueLNNtl1fdSyDCXofgeRwrfNuA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ex1dKvj2HVM", "title": "AWS를 잘 사용하기 위한 7가지 사용 팁" },
+    { "id": "OUZpQ2KZggQ", "title": "Modern Transactional Data Lake" },
+    { "id": "amL-kQOV0Go", "title": "AWS Instance Scheduler로 비용 절감하기" },
+    { "id": "askbeA2vh28", "title": "Amazon Redshift 서버리스로 실시간 데이터 분석해보기" },
+    { "id": "YrtxhVOEork", "title": "Amazon EKS Blueprints로 EKS 클러스터 빠르게 생성하기" },
     { "id": "gcLfBnNIPp8", "title": "Amazon EC2 실전 활용 팁 A to Z" }, 
     { "id": "jbf60YINnx8", "title": "나에게 딱 맞는 AWS 컨테이너 서비스 선택 길라잡이" }, 
     { "id": "RkB1OtJR1ag", "title": "천만 사용자를 위한 서버리스 기반 클라우드 아키텍처 구성하기" }, 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/yQyiKRZh3-P0JP0FpZRY5YFPEnhFgfhZyddh-SM_nJ1O8XZ-ceE-eWDhEN2dehIj6NALP6CKZMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "i5RMLMlAUpY", "title": "Docker for DevOps" },
     { "id": "pV1bBUtuJvs", "title": "Meraki CLI Power Moves" }, 
     { "id": "oYqZSAlTPs4", "title": "Securing the API" },
     { "id": "5cMeyEJOpxM", "title": "Don’t Call Us, We’ll Call You! | Meraki Webhooks" }, 

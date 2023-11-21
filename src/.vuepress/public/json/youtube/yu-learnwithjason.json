@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/JZav5tL14daax3jDES8yDJuU57aPKQYOlaIxHx0SpsL0rhfYOnDD5BUElK3UEGZnkgPkOtrv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0ipZQUsPq9U", "title": "Going Deep on Svelte 5 with Rich Harris" },
+    { "id": "EQIrj3-sykE", "title": "Web dev, career talk, general fun" },
+    { "id": "AJIc4qJ2SlQ", "title": "Live build: landing page with Astro, CSS scroll-driven animation, and scroll snapping" },
+    { "id": "0ipZQUsPq9U", "title": "Going Deep on Svelte 5 with Rich Harris" },
     { "id": "KWHD2cvOscU", "title": "Make the Fetch API type-safe with feTS" },
     { "id": "n5JkIl1e6k4", "title": "Build multiplayer SaaS apps with Liveblocks" },
     { "id": "ZSycK5k2ARg", "title": "Add Full Text Search to Your Couchbase Data" },

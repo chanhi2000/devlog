@@ -12,10 +12,9 @@ description: 🌱API - Kakao
 
 <ShieldsGroup logos="kakao"/>
 
+
 ---
 
 ## Table of Contents
 
-- [🌏로컬](local.md)
-- [🔔푸시알람](push.md)
-- [📚References](references.md)
+<ToCLocal basePath="/g4e/api-kakao/" />

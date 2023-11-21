@@ -50,6 +50,7 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 - [How to Use the Most Essential ChatGPT Plugins](https://pub.towardsai.net/the-most-essential-chatgpt-plugins-1fbf0f40d6e5)
 - [Fine-tuning GPT-3.5-Turbo for Natural Language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
 - [Master the Perfect ChatGPT Prompt Formula](https://medium.com/@eldatero/master-the-perfect-chatgpt-prompt-formula-c776adae8f19)
+- [Connecting Custom GPTs to Slack in 5 minutes (no coding required)](https://snowwhale.medium.com/connecting-custom-gpts-to-slack-in-5-minutes-no-coding-required-17ca39644f5f)
 
 ---
 
@@ -165,6 +166,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 ## ResObscura
 
 - [Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
+
+---
+
+## SlashPage
+
+- [[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)
 
 ---
 

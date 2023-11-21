@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "_wearedevs",
+    "name": "WeAreDevelopers",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbqb_1Kpxw1W9C4XtVrDGhfQra4hJFORb1eAF_YKQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BWsPTbvL34sdCspZE9uQmQzEViviU8yFxDOY36hWsiO-Y6fWOtiHoP3sHuBzLstCFwg4w7XK=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pTaxXLyJPC0", "title": "Coffee with Developers -  Stian Standahl - making ChatGPT talk Norwegian" }
+  ]
+}

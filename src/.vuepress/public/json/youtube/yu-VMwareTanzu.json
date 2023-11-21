@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rDneUL1Cn_Q", "title": "Bootiful Kubernetes Operators" },
+    { "id": "rbnGLj4CS4g", "title": "Spring for Architects" },
+    { "id": "coXF0Yx0Mcg", "title": "You Don’t Need Kubernetes to Be Cloud Native" },
+    { "id": "KA2xqnWfIO4", "title": "VMware Tanzu Greenplum 7: Better Concurrency" },
+    { "id": "LJfkMhXMnbI", "title": "Overview of Mutating Policy in VMware Tanzu Mission Control" },
     { "id": "0hC2sc_XxX0", "title": "Explore Spring AI and Tanzu Application Service" }, 
     { "id": "V8efb9xF1XQ", "title": "VMware Tanzu Greenplum 7: Better Performance" }, 
     { "id": "1zdwK74vf40", "title": "Create Kubernetes Clusters Using Terraform and VMware Tanzu to Enable Continuous Delivery" },

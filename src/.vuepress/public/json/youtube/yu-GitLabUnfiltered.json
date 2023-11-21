@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jt8McsHfRn0", "title": "Reaching Package Metadata buckets over gitlab-package-metada.com" },
+    { "id": "g9HSPV3GKas", "title": "GitLab Flow demo" },
+    { "id": "GWtQXWXSljE", "title": "GitLab 16.7 Kickoff - Verify: Runner SaaS - Improved macOS image release pipeline & CI Steps MVC" },
+    { "id": "K_eOuXN-nXM", "title": "GRIT Beta Prod module release" },
+    { "id": "p2ivXhNxUoY", "title": "Adding Service Ping metric via instrumentation class" },
+    { "id": "frgcSYYDZpU", "title": "Service Account Access Tokens optional expiry date demo" },
+    { "id": "FWzpwYd8gZg", "title": "Security Policies: FCL for Incident #17082 - Prerecording" },
+    { "id": "mk-loZFdFhw", "title": "Race conditions and `with_lock`" },
+    { "id": "Jc1s-52lSK0", "title": "Pre-receive Secret Detection – Pairing Session to Define Gem Interface" },
+    { "id": "C8SIubEstu8", "title": "Security policy custom YAML stages demo" },
+    { "id": "FYl9JOOGem8", "title": "GitLab 16.7 Kickoff - Enablement:Distribution" },
     { "id": "WtQYKOHexkU", "title": "Git LFS deep dive" }, 
     { "id": "StezIm9N5XI", "title": "Security policy custom CI YAML Demo" }, 
     { "id": "_hi3ETbJUnw", "title": "Backend Pairing - Session 1 - 2023-11-08" }, 

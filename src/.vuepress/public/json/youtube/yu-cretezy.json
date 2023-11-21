@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "d2GvyXXlNa0", "title": "Move Ten Times Faster in Neovim With Leap" },
     { "id": "NJDu_53T_4M", "title": "5 Neovim Plugins To Improve Your Productivity" },
     { "id": "GEHPiZ10gOk", "title": "Neovim With AstroNvim | Your New Advanced Development Editor" }
   ]

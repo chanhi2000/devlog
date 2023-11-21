@@ -16,11 +16,4 @@ description: 🤖Android
 
 ## Table of Contents
 
-- [🐚adb](adb.md)
-- [💡Tips](tips.md)
-- [🩺Troubleshooting](troubleshooting.md)
-- [🅺🔮Kotlin Snippets](snippets-kotlin.md)
-- [✈️🔮Jetpack Compose Snippets](snippets-jetpack-compose.md)
-- [🐘🔮Gradle Snippets](snippets-gradle.md)
-- [📚References](references.md)
-- [📺Youtube](youtube.md)
+<ToCLocal basePath="/g4e/lang-java-android/" />

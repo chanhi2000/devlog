@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "tn07dCSFOfQ", "title": "STOCK PRICE PREDICTION using Machine Learning📈 | Machine Learning Projects | GeeksforGeeks" },
+    { "id": "cRYSIR6LaNQ", "title": "Titanic Survival Prediction using Tensorflow | Machine Learning Projects | GeeksforGeeks" },
+    { "id": "xlcNMlyN34g", "title": "Weapon Detection Using Python-OpenCV | Python Projects | GeeksforGeeks" },
+    { "id": "4YGkfAd2iXM", "title": "Twitter Sentiment Analysis (NLP) | Machine Learning Projects | GeeksforGeeks" },
     { "id": "bdjQI-OBGk8", "title": "Apache Flume 60 Second Crash Course | Data Science Concepts | GeeksforGeeks" },
     { "id": "YbPnhezNaUE", "title": "Choosing the Right Cloud Provider | AWS vs Azure vs GCP | GeeksforGeeks" },
     { "id": "uCm-AkN34-M", "title": "The DevOps Behind Cricket - CI/CD | Geek Week | Pranjal" },

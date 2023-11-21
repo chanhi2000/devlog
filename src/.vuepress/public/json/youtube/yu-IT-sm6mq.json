@@ -7,5 +7,50 @@
   },
   "videos": [
     { "id": "PH8-V6ah0XQ", "title": "Servlet - Jsp - MVC - Spring 진화과정에 대한 리뷰 | 웹 개발 입문자에게는 꽤 좋은 내용 | 기존 개발자는  가던길을 멈추고 잠시 되돌아보는 시간을~" }
+  ],
+  "playlists": [
+    {
+      "title": "SpringBoot Web 직접 만들어보기",
+      "videos": [
+        { "id": "xwvT8EspQjU", "title": "#0 Spring boot  오리엔테이션 -  프론트엔드로 웹개발 진행하기 과정을 해보고자 합니다.  | Springboot Web HTML JavaScript | 개발 로드맵" },
+        { "id": "_qTkXNVhmn4", "title": "#1  Spring boot HTML웹 언어의 중심 | HTML 을 작성해보고 웹서버에 대해서도 생각해 봅니다. | Springboot Thymeleaf HTML" },
+        { "id": "bjM3LM-9lJw", "title": "#2 Spring boot DBMS 설치 | DB에 대해 간단히 살펴보고 MariaDB 설치, Table 생성. | Springboot MariaDB" },
+        { "id": "LIDIc443bns", "title": "#3 Spring boot  프로젝트 환경을 만들어 봅니다. by IntelliJ" },
+        { "id": "T38hiEwG6Fw", "title": "#4 Spring boot  MVC 환경 만들기 | MVC  패키지 구조 생성. | Model View Controller" },
+        { "id": "pYxuWtZZ74c", "title": "#5  Spring boot DB연결 Data 처리(Getmapping) | Back-end 에서 빈번한 DB 작업 | Thymeleaf Mybatis SqlMapper" },
+        { "id": "_gqmvkQaAp0", "title": "#6 Spring boot 에서 어떻게 DB에 연결되는지 과정을 살펴봅니다. (아시는 분은 Pass) JDBC Connection" },
+        { "id": "AxskTLjFyoA", "title": "#7 Spring boot Mybatis SqlMapper | DB연결 Data 처리(post) | HTML post 방식, PostMapping" },
+        { "id": "GAiMRuWn8r8", "title": "#8 Spring boot - Mybatis - SqlMapper 등록 수정 삭제 노잼작업 | 재미는 없지만 주로 하는 작업이죠." },
+        { "id": "p2U2y_qCkqU", "title": "#9 Spring boot AJAX 활용 비동기처리 (Front 부분) | 실무에서  중요한 부분으로 웹과 백엔드 모두에 연결되는 개발기술 입니다." },
+        { "id": "yJyzD4jVgvk", "title": "#10 Spring boot AJAX 활용 비동기처리 (BackEnd 부분) | HTML - Ajax:Post , Springboot -JSONObject JSONArray" },
+        { "id": "1UKwBLz0F_8", "title": "#11 웹 화면의 처리 - 자바스크립트의 처리를 한곳에서 처리되도록 html, javascript 를 수정해 줍니다." },
+        { "id": "dF9cOXkskpg", "title": "#12. AJAX 사용의 위험성 경고 (feat 콜백함수) | 동기 비동기의 처리 순서의 중요성 & AJAX 사용 시 꼭 생각해야 하는 것" },
+        { "id": "kjQ3DRbV49E", "title": "#13 이전내용을 기초로 버전2 를 만들기 위한 기초작업을 해봅니다.  패키지 생성 , 타임리프, , Controller Service Dao SqlMapper 추가" },
+        { "id": "QpRl-rojq_Y", "title": "#14 Spring boot YAML 적용 | application.properties - application.yml" },
+        { "id": "EMORCd1pKcI", "title": "#15   Vanilla Js 에서  -  jQuery  적용 | Web Front 만지기" },
+        { "id": "UEkrGjcRj6U", "title": "#16 Spring boot | Map 에서 VO 객체로 변환하기  | Json - Map - Vo - DB 모두 Key : Value 의 형태 |" },
+        { "id": "Iftx8aZMMhE", "title": "#17  웹 화면에서 배열로 넘어온 데이타 처리 (다중처리) | 여러개의 배열값을 받아서 처리. 좀더 실무처럼 ~ | Mybatis Dynamic SqlMapper" },
+        { "id": "rRMsQaHyPPU", "title": "#17  Spring boot 웹 화면에서 배열로 넘어온 데이타 처리 (다중처리) | 어플리케이션 개발 시 DB 처리는 핵심중핵심 | Mybatis Dynamic SqlMapper" },
+        { "id": "E_vL4yP_iZg", "title": "#18. Spring boot DB Transaction (feat 당근마켓) 의 이해  @Transational , auto-commit 이해해보기" }
+      ]
+    }, {
+      "title": "Oracle DBMS | 오라클 (실전)실습",
+      "videos": [
+        { "id": "2zfQhHzOJ-I", "title": "#0. [Oracle] SQL 은 무엇일까요? DBMS 는 어떻게 생겨나게 되었을까요?" },
+        { "id": "2DkIPaUJbZc", "title": "#0.5 [Oracle] | DB 입문하시는 분들을 위한 (feat. 현업에게 엑셀로 DB 설명하기)" },
+        { "id": "V1xq_kwCph0", "title": "#1 Why DBMS & Why Oracle and Oracle 설치, Sql Developer 설치" },
+        { "id": "Kj7HKS7IYo8", "title": "#2 [Oracle] Oracle 실습 Table 구조설명 & Table 생성" },
+        { "id": "H57KyaJOTm0", "title": "#3 Oracle 실습 Table  | 유저계정 100만개 만들기 (feat. PL/SQL, 시퀀스)" },
+        { "id": "QooNh8GGPLY", "title": "#4 [Oracle] Oracle 실습 Table | 상품정보 100만개 만들기 (feat. PL/SQL, 시퀀스)" },
+        { "id": "Y2ZN40NGVp4", "title": "#5 [Oracle] Oracle 실습 Table | 주문정보 100만개 만들기 (feat. PL/SQL, 시퀀스)" },
+        { "id": "yPDfRcAc0yo", "title": "#6 [Oracle] Oracle 주문정보 테이블 검증 및 Update" },
+        { "id": "1Oi5Ui6VowY", "title": "#7 [Oracle] Oracle 실습 | FOREIGN KEY 생성 & Table | ERD 작성" },
+        { "id": "LmaTOOo8Cx8", "title": "#8 [Oracle] Oracle  커서 For Loop & Between 주의사항(날짜사용)" },
+        { "id": "OIZkdii5i-8", "title": "#9 [Oracle] | Merge Into - select , update, insert 를 한방에.." },
+        { "id": "vHx-4JBu27E", "title": "#10. [Oracle] IN vs EXIST | NOT IN vs NOT EXIST - 어떻게 구별해서 사용해야 하는지 공부해 보았습니다." },
+        { "id": "Cm-I81uwrLk", "title": "#11 [Oracle] Drop, Truncate 테이블 | 트리거로 방지하기." },
+        { "id": "Ec1gareDcEQ", "title": "#12 [Oracle] 오라클 DB 마이그레이션 (이관) 하면서 배운것에 대한 이야기" }
+      ]
+    }    
   ]
 }

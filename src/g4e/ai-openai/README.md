@@ -12,3 +12,9 @@ category: 🎼OpenAI
 :::
 
 <ShieldsGroup logos="openai" />
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/ai-openai/" />

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hbTX9oxjAHwBsSt_WZCcOieYnb06m367URZ0dImrU_ZxCzbwY9DELo0tjhYzWdVZAT731IBz=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YveccjG4AFU", "title": "Terraform On A Dime: Building Azure Infrastructure on a Shoestring Budget with Mark Tinderholt" },
     { "id": "SfBszSqDqvM", "title": "Continuous Data Replication (CDR) to Azure VMware Solution With Pure Storage ActiveDR  - Adam Mazou" }, 
     { "id": "hSHSDfrYIs4", "title": "VMware Cloud Director Availability: Build DR and Migration as a service - Girish Manmadkar" }, 
     { "id": "MP_HG8nMK3c", "title": "Accelerating Oracle Workloads with VMware Performance Accelerators - Sudhir Balasubramanian" }, 

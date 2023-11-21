@@ -12,3 +12,9 @@ category: 🦙Llama
 :::
 
 <ShieldsGroup logos="openai"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/ai-llama/" />

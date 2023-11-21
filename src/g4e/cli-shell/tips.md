@@ -29,6 +29,7 @@ usermod -aG sudo <newuser>
 uptime                                  # 운영시간
 
 hostname                                # 호스트명
+hostname -I | sed "s/\s.*$//"           # 호스트의 IP주소 (첫번째만)
 
 uname -a                                # OS 정보
 

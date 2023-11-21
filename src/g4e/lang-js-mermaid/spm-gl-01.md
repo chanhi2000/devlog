@@ -1,6 +1,19 @@
+---
+lang: ko-KR
+title: SPM-GL-01
+description: 🧜‍♀️Mermaid.js > SPM-GL-01
+tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js", "example"]
+---
+
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
+
+[[toc]]
+
+---
 
 ## 절차도
-
 
 ```mermaid
 ---

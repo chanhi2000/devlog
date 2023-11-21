@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bA1DLdOXuSy_rwC_MPzPpH6Br0U42fMI4WaQyBzmhGd7v0-KnVwMjhqWqjsmbCPF37VTM0baIw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0FmuSSj65OE", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 5. 나는 지금 까지 무엇을 한 것인가?" },
+    { "id": "Diy1nxlgoYI", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 4. 커널 디버깅 냄새 맡기" },
+    { "id": "9wdSPVSIYzc", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 4-1. 쌈바 설정 추가 내용" },
     { "id": "zjHJuvf2UIo", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 3. 커널을 컴파일 해보자구-마무리" },
     { "id": "afkwBG39vzk", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 1. 왜 커널 공부를 해야하나" },
     { "id": "z9QZHvlG2m0", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 2. 커널을 컴파일 해보자구!" },

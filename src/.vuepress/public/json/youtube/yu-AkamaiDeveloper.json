@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3r_PBLaZoFQ", "title": "Understanding Linux System Performance | The Top Command" },
+    { "id": "kgfONiMsyWI", "title": "Building a SaaS Checkout Experience with Django and Stripe | SaaS App From Scratch" },
     { "id": "QENSkO0u9GQ", "title": "How to Deploy a Scalable Django SaaS Application From Scratch" },
     { "id": "hEv-el6Pm5A", "title": "The Role of Registries in IaC | How To Streamline Your Development Cycle" },
     { "id": "3EIr9TfMyUY", "title": "Securing Your Terraform Configuration | Best Practices for Managing Sensitive Data" },

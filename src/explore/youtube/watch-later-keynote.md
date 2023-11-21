@@ -83,7 +83,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-gdgsongdo1690" /><!-- GDGSongDo -->
 <MyYouTubeItems jsonName="yu-conf42" /><!-- Conf42 -->
 <MyYouTubeItems jsonName="yu-LeadDev" /><!-- LeadDev -->
-
----
+<MyYouTubeItems jsonName="yu-MetaDevelopers" /><!-- Meta Developers -->
+<MyYouTubeItems jsonName="yu-_wearedevs" /><!-- WeAreDevelopers -->
 
 <TagLinks />

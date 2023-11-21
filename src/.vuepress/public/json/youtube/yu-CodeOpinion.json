@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/MTcKhVE2NDL8DoS5h3M0nbEX7qwFV6aT7EY_o9o0lkgTkxBOkVxQvjcJV6SOJsyudO_gXmeJIFU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Srt_8a5Nam0", "title": "Build a Monolith and Deploy like Microservices? Maybe with Service Weaver" },
     { "id": "HBH6qnj0trU", "title": "Want to build a good API? Here's 5 Tips for API Design." }
   ]
 }

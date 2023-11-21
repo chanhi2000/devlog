@@ -1719,5 +1719,10 @@
     "desc": "In your face Desktop Pomodoro App for the Wildly Distractible",
     "officialSite": "",
     "topics": ["pomodoro", "pomodoro-timer", "productivity", "productivity-booster", "productivity-tools"]
+  }, {
+    "repo": "emilwallner/Screenshot-to-code",
+    "desc": "A neural network that transforms a design mock-up into a static website.",
+    "officialSite": "",
+    "topics": ["cnn", "cnn-keras", "deep-learning", "encoder-decoder", "floydhub", "jupyter", "jupyter-notebook", "keras", "lstm", "machine-learning", "seq2seq"]
   }
 ]
