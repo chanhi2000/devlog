@@ -1803,5 +1803,15 @@
     "desc": "A Modern Fullstack E-Commerce Marketplace for Digital Products",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "angular/angular",
+    "desc": "Deliver web apps with confidence 🚀",
+    "officialSite": "https://angular.dev",
+    "topics": ["angular", "javascript", "pwa", "typescript", "web", "web-framework", "web-performance"]
+  }, {
+    "repo": "apify/crawlee",
+    "desc": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
+    "officialSite": "https://crawlee.dev",
+    "topics": ["apify", "automation", "crawler", "crawling", "headless", "headless-chrome", "javascript", "nodejs", "npm", "playwright", "puppeteer", "scraper", "scraping", "typescript", "web-crawler", "web-crawling", "web-scraping"]
   }
 ]

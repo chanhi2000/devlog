@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/P_2SlvEHY8VylI_j63FgIBK8EKvJryQ-08B9FQptF_SI09S6JKuVmV7MpeXlkxh9WNmsprO8_A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dJ8y-VlMNAo", "title": "How to Install FFMPEG on Mac | Installing FFmpeg on macOS" },
     { "id": "r8JF2lPIXQY", "title": "Kubernetes Crash Course for Absolute Beginners | Kubernetes Tutorial for Beginners" }, 
     { "id": "DFiXJKIF2ss", "title": "How to Set Up Go Development in Visual Studio Code on Windows 11 | VSCode Golang Development Basics" },
     { "id": "-FBM8ZHVQ9I", "title": "How to Set Up Go Development in Visual Studio Code on Ubuntu 22.04 LTS | Install Golang on Ubuntu" },

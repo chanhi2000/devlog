@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/VF1iqOOLEFJm8etnaBqR5byPkbsECa1TyScfrzgyJ3KUCyXT0QXjMhGbxl6w3b1slKvdJS80EEc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kAk5xHICAeQ", "title": "What is Argo CD? / how to install argocd on Kubernetes? #devops #argocd #kubernetes" },
     { "id": "h82ZmJNUt-c", "title": "K9s not K8s" },
     { "id": "A3-2QUV_maA", "title": "Never forget these kubectl commands | Life saver for Kubernetes administrators #kubernetes #devops" },
     { "id": "tJH3FuFV3nU", "title": "DevOps | CI/CD using HashiCorp Tools | Vagrant, Terraform, Packer, Vault, Nomad, Consul, Boundary.." }, 

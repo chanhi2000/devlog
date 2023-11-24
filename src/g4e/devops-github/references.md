@@ -17,6 +17,7 @@ tags: ["sh", "bash", "cli", "github", "github-action", "study"]
 
 - [Building and testing Java with Gradle](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
 - [GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization)
+- [LM Studio](https://github.com/lmstudio-ai)
 
 ---
 

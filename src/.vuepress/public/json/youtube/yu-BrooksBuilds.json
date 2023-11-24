@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7uTv40grLz0", "title": "Stream archive: Extensions in Axum (api framework in Rust) (2023-11-08 morning)" },
+    { "id": "GU9KGw9n970", "title": "Stream archive: Thunderclient and Headers in Axum (2023-11-08 afternoon)" },
+    { "id": "DZgN63N3fc8", "title": "stream archive: creating article for Axum Headers (2023-11-09)" },
+    { "id": "ThYsRkRna3k", "title": "Stream archive: custom typed axum headers are not fun (2023-11-09 afternoon)" },
     { "id": "VlnZDKyWfAg", "title": "Stream archive: Creating a data table in Yew + Rust" },
     { "id": "tMy7XMhSAwU", "title": "Stream archive: Creating a data table in Yew + Rust" },
     { "id": "6bAD3pG-8gE", "title": "Stream archive: Creating a course for Axum + Rust (2023-11-06 morning)" },

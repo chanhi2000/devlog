@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "pIL-_VvtJdI", "title": "주어진 조건에 맞는 보고자를 불러온다. 테스트" },
+    { "id": "Ov0EtpFOa24", "title": "보고자 목록에 대한 전체 건수를 조회한다. 테스트" },
+    { "id": "gCxPF2mhdE8", "title": "주어진 조건에 맞는 직위명을 불러온다. 테스트" },
+    { "id": "5wct98X64jg", "title": "주어진 조건에 따른 메모보고 목록을 불러온다. 테스트" },
     { "id": "00ckO4L3RwA", "title": "기능추가: MemoReprtDAOTest" },
     { "id": "NmOw7g88Fao", "title": "`DeptJobDAO.selectMaxDeptJobBxOrdr` 등록시 부서업무함의 표시순서를 조회한다." },
     { "id": "Ud2kuNby-5M", "title": "`DeptJobDAO.selectDeptJobBxCheck` 부서내 부서업무함명의 건수를 조회한다." },

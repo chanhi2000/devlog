@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Laracastsofficial",
+    "name": "Laracasts",
+    "profile": "https://yt3.googleusercontent.com/A_PM3AtzWtFZlwJugudZVT_bS9HAag2O13uT7kpLIB_FK_9VkfJkOLHQ2HE_jyfiQfJjQxvn0A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8Mn7l1_4wF4GhJlxNfU4ohQBbdqNC1r0XZKnrjb4ph0SLv1Yn-BPIzVqWsE5i-tQrNKkP5zRtAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pv3kNaz9BBg", "title": "Avoid Duplicate Form Submission!" },
+    { "id": "S-HHp8g9bwM", "title": "Reading code is one of the most important skills that developers should learn." },
+    { "id": "NXMqKkbuIHI", "title": "Improve Refactoring for common Code Blocks" },
+    { "id": "dVttuOjew3E", "title": "PHP For Beginners -  Complete Course (2023) [Check Comment for HD version Link]" },
+    { "id": "7xWYd-Id8vo", "title": "It's okay to Refactor The Code When needed" },
+    { "id": "fw5ObX8P6as", "title": "PHP For Beginners -  Complete Laracasts Course" }
+  ]
+}

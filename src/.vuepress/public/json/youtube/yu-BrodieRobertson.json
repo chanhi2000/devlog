@@ -2,8 +2,8 @@
   "channel": {
     "id": "BrodieRobertson",
     "name": "Brodie Robertson",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMj-jRiNFNQS1cz63npNBSc4AIQVLRPnjGgQlL1TA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/VR5Y_bGQiwU7lCxHaDOZ0qXZ2_HXevTqboFv60gwyHNO2o5h6-i4ZFjqsfZsZ2uYziHsdEag0DM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa2kRMZ7BI8kZlk9b_qsxtuZ4avzeopRGrfDQ-3hA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KRlQQfrfzm5lCSu20r8k1F1vY8vh1aPhBCnl-umJc5yd_5-q6eo3P93AeRaTr-vXh34SpQZX=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "8mafQYC7Yds", "title": "The CUBE Returns To KDE Plasma After 2 YEARS" },
@@ -19,7 +19,6 @@
     { "id": "toYV1_fPgcg", "title": "Droidcam: Turns Your Phone Into The Best Webcam" },
     { "id": "fGQvXNlosTc", "title": "Embrace The Power of GUIs With Yet Another Dialog" },
     { "id": "buPZ3ve4bzE", "title": "Alacritty's New Vim Mode And Other Awesome Features" },
-    { "id": "Ut0LZiYoabo", "title": "6cord Is An Almost Perfect Terminal Discord Client" }
- 
+    { "id": "Ut0LZiYoabo", "title": "6cord Is An Almost Perfect Terminal Discord Client" } 
   ]
 }

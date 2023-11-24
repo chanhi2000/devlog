@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.5.28  2023-11-24][v0.5.28]
+
+- 내용채워넣기
+
+---
+
 ## [v0.5.27  2023-11-23][v0.5.27]
 
 - 내용채워넣기
@@ -1024,6 +1030,7 @@ Tips 트리구조 구성
 
 프로젝트 초기구성완료
 
+[v0.5.28]: https://github.com/chanhi2000/devlog/compare/v0.5.27...v0.5.28
 [v0.5.27]: https://github.com/chanhi2000/devlog/compare/v0.5.26...v0.5.27
 [v0.5.26]: https://github.com/chanhi2000/devlog/compare/v0.5.25...v0.5.26
 [v0.5.25]: https://github.com/chanhi2000/devlog/compare/v0.5.24...v0.5.25
@@ -1155,21 +1162,24 @@ Tips 트리구조 구성
 [v0.0.22]: https://github.com/chanhi2000/devlog/compare/v0.0.21...v0.0.22
 [v0.0.21]: https://github.com/chanhi2000/devlog/compare/v0.0.20...v0.0.21
 [v0.0.20]: https://github.com/chanhi2000/devlog/compare/v0.0.19...v0.0.20
-[v0.0.19]: https://github.com/chanhi2000/devlog/compare/v0.0.18...v0.0.19
-[v0.0.18]: https://github.com/chanhi2000/devlog/compare/v0.0.17...v0.0.18
-[v0.0.17]: https://github.com/chanhi2000/devlog/compare/v0.0.16...v0.0.17
-[v0.0.16]: https://github.com/chanhi2000/devlog/compare/v0.0.15...v0.0.16
-[v0.0.15]: https://github.com/chanhi2000/devlog/compare/v0.0.14...v0.0.15
-[v0.0.14]: https://github.com/chanhi2000/devlog/compare/v0.0.13...v0.0.14
-[v0.0.13]: https://github.com/chanhi2000/devlog/compare/v0.0.12...v0.0.13
-[v0.0.12]: https://github.com/chanhi2000/devlog/compare/v0.0.11...v0.0.12
-[v0.0.11]: https://github.com/chanhi2000/devlog/compare/v0.0.10...v0.0.11
-[v0.0.10]: https://github.com/chanhi2000/devlog/compare/v0.0.9...v0.0.10
-[v0.0.9]: https://github.com/chanhi2000/devlog/compare/v0.0.8...v0.0.9
-[v0.0.8]: https://github.com/chanhi2000/devlog/compare/v0.0.7...v0.0.8
-[v0.0.7]: https://github.com/chanhi2000/devlog/compare/v0.0.6...v0.0.7
-[v0.0.6]: https://github.com/chanhi2000/devlog/compare/v0.0.5...v0.0.6
-[v0.0.5]: https://github.com/chanhi2000/devlog/compare/v0.0.4...v0.0.5
-[v0.0.4]: https://github.com/chanhi2000/devlog/compare/v0.0.3...v0.0.4
-[v0.0.3]: https://github.com/chanhi2000/devlog/compare/v0.0.2...v0.0.3
+
+
+
 [v0.0.2]: https://github.com/chanhi2000/devlog/compare/v0.0.1...v0.0.2
+[v0.0.3]: https://github.com/chanhi2000/devlog/compare/v0.0.2...v0.0.3
+[v0.0.4]: https://github.com/chanhi2000/devlog/compare/v0.0.3...v0.0.4
+[v0.0.5]: https://github.com/chanhi2000/devlog/compare/v0.0.4...v0.0.5
+[v0.0.6]: https://github.com/chanhi2000/devlog/compare/v0.0.5...v0.0.6
+[v0.0.7]: https://github.com/chanhi2000/devlog/compare/v0.0.6...v0.0.7
+[v0.0.8]: https://github.com/chanhi2000/devlog/compare/v0.0.7...v0.0.8
+[v0.0.9]: https://github.com/chanhi2000/devlog/compare/v0.0.8...v0.0.9
+[v0.0.10]: https://github.com/chanhi2000/devlog/compare/v0.0.9...v0.0.10
+[v0.0.11]: https://github.com/chanhi2000/devlog/compare/v0.0.10...v0.0.11
+[v0.0.12]: https://github.com/chanhi2000/devlog/compare/v0.0.11...v0.0.12
+[v0.0.13]: https://github.com/chanhi2000/devlog/compare/v0.0.12...v0.0.13
+[v0.0.14]: https://github.com/chanhi2000/devlog/compare/v0.0.13...v0.0.14
+[v0.0.15]: https://github.com/chanhi2000/devlog/compare/v0.0.14...v0.0.15
+[v0.0.16]: https://github.com/chanhi2000/devlog/compare/v0.0.15...v0.0.16
+[v0.0.17]: https://github.com/chanhi2000/devlog/compare/v0.0.16...v0.0.17
+[v0.0.18]: https://github.com/chanhi2000/devlog/compare/v0.0.17...v0.0.18
+[v0.0.19]: https://github.com/chanhi2000/devlog/compare/v0.0.18...v0.0.19

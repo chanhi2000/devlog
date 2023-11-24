@@ -2,8 +2,8 @@
   "channel": {
     "id": "NullLabsLive",
     "name": "Null Labs Live",
-    "profile": "https://yt3.googleusercontent.com/cqeHQx79wKAvlssnpJEyUYIbLksTBMjjWX0nQI09x6YAtNCqng_HaORo9SEMYiBKDqD-L9PAMWU=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/Q84FWO400IM66e8T6PdgtDstw8SWhI_mUHQAwnQV6uK7I1xdsFfA2tYwddSY3vGQn7Xq4VIa1A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/R10KYGbcJxWQnFX-kxvc5JMQidmK7CEiwbcIWiWaGT1Zoq92QBrUkiU3fCJ58soV9I9ZmhNiQn4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XsHGB7-n6zIWeTsZ62kxHp1zTBxzMqq2sV2UrQyKltWEC6rhxveEnziB_17QBRraYF9B2v65ywA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "l2ebK-RPb3U", "title": "Tui UI event loop in rust?" },

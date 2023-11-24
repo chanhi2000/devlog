@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 👽oVirt > 📺Youtube
-tags: ["youtube", "tutorial", "bash", "sh", "ovirt", "vm", "@MindDripMedia", "@storware"]
+tags: ["youtube", "tutorial", "bash", "sh", "ovirt", "vm", "@MindDripMedia", "@Storware"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -14,6 +14,6 @@ tags: ["youtube", "tutorial", "bash", "sh", "ovirt", "vm", "@MindDripMedia", "@s
 ---
 
 <MyYouTubeItems jsonName="yu-MindDripMedia" /><!-- Mind Drip Media -->
-<MyYouTubeItems jsonName="yu-storware" /><!-- Storware -->
+<MyYouTubeItems jsonName="yu-Storware" /><!-- Storware -->
 
 <TagLinks />

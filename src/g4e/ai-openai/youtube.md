@@ -15,8 +15,8 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-aiacademy131" /><!-- 한국인공지능아카데미 -->
 <MyYouTubeItems jsonName="yu-njob_school" /><!-- N잡 학교 -->
 <MyYouTubeItems jsonName="yu-Aitrepreneur" /><!-- Aitrepreneur -->
-<MyYouTubeItems jsonName="yu-bridoesthings" /><!-- bri does things -->
-<MyYouTubeItems jsonName="yu-ai-explained-" /><!-- AI Explained -->
+<MyYouTubeItems jsonName="yu-BriDoesAI" /><!-- Bri Does AI -->
+<MyYouTubeItems jsonName="yu-aiexplained-official" /><!-- AI Explained -->
 <MyYouTubeItems jsonName="yu-parttimelarry" /><!-- Part Time Larry -->
 <MyYouTubeItems jsonName="yu-unrealtech" /><!-- 안될공학 - IT 테크 신기술 -->
 <MyYouTubeItems jsonName="yu-embracethered" /><!-- Embrace The Red -->

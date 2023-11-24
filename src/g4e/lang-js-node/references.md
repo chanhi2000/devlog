@@ -242,7 +242,7 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
-- [Must Know JavaScript API — Page Visibility API](https://javascript.plainenglish.io/must-know-javascript-api-page-visibility-api-9f3e10439842)
+- [Must Know JavaScript API — Page Visibility API](https://javascript.plainenglish.io/js-must-know-javascript-api-page-visibility-api-9f3e10439842)
 - [Memoization in JavaScript](https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8)
 - [Generators in JavaScript Explained](https://javascript.plainenglish.io/generators-in-javascript-explained-6855a307e371)
 - [The Power of Web Performance: How I Increased the Score from 27 to 99](https://code.likeagirl.io/web-performance-from-27-to-99-32441d24a326)

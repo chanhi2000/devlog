@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/EcHW5S3sGt3ZXqTr37DzLnAkJ2mfATbmJxsxOAqmwwUTeGSYgkPG9DI6S5naZo7MTfqB54Y1G-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "32D7NJK9QIk", "title": "Amazon Bedrock Tutorial – Model Access, Playgrounds, APIs and Fine-Tuning | AWS Generative AI" },
     { "id": "zuKu0VFiwas", "title": "AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial" },
     { "id": "NiCZSdWucZE", "title": "Build a Resume/CV on AWS, Step-by-Step Tutorial | AWS Projects to Help You Get Hired" },
     { "id": "_KhrGFV_Npw", "title": "How to Set Up AWS IAM Identity Center and AWS Organizations | AWS Tutorial for Beginners" },

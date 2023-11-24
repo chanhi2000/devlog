@@ -114,7 +114,7 @@ console.log(JSON.stringify(videos[0]))
 copy(JSON.stringify(oPlaylist))
 ```
 
-### `findAllVideosFromWatchLater
+### `findAllVideosFromWatchLater`
 
 1. move to [`/playlist?list=WL`](https://www.youtube.com/playlist?list=WL)
 2. Paste the following code to the console

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/3M0XEYS8LAxTWq5yTcZ6Bbwl1rQzgwuSNg2nUoyLDmpauX1qpQe_uZCrysIfSc4ukbVJg1cv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "C0Mel4iokIY", "title": "28편 SVM으로 Classification 문제 모델링하기" },
+    { "id": "ePYRZrRUK8U", "title": "26편 Random Forest로 Classification 문제 모델링하기" },
+    { "id": "B9OwpcXVDZ4", "title": "27편 Polynomial Classification" },
     { "id": "V8lVH4-0AzE", "title": "24편 kNN Classification" },
     { "id": "RN5Ph2ZTl08", "title": "23편 kNN Regression" },
     { "id": "uY1wfN_TMLE", "title": "25편 Classification 성능평가 지표" },

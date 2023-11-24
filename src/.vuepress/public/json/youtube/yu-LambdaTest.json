@@ -2,8 +2,8 @@
   "channel": {
     "id": "LambdaTest",
     "name": "LambdaTest",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMHlLduwjeSlFKs3_rePszjhd-L8Thk6x3V9ctSoA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/LpxYpLVFuMQSpcovfkIIrBEh59vIUJTyez5FIqtOreKXY7gbnNee5NH2MvQzKGM3t69SaXbQKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaLkxtoDOxKag3mmDPb5_WEW9FNph51aEk79rb5jA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eI7_YH8Dad-4R38OerkPfW119LXkJR2Chs3HsgKfGlQeA4p8N3TSMhlOCfeUtWGbvqBPsA18=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "POE3SRuypYw", "title": "How to Execute Test Cases in JUnit | JUnit 5 Tutorial | Part-II | LambdaTest" },

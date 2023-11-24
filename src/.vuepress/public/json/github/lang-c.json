@@ -559,5 +559,10 @@
     "desc": "Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins",
     "officialSite": "https://eunomia.dev/bpftime/",
     "topics": ["ebpf", "instrumentation", "jit", "llvm", "runtime", "syscall-tracing", "uprobes", "userspace"]
+  }, {
+    "repo": "php/php-src",
+    "desc": "The PHP Interpreter",
+    "officialSite": "https://www.php.net",
+    "topics": []
   }
 ]

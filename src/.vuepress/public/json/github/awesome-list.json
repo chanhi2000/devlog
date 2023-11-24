@@ -759,5 +759,15 @@
     "desc": "All the deals for InfoSec related software/tools this Black Friday",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "MrNeRF/awesome-3D-gaussian-splatting",
+    "desc": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
+    "officialSite": "",
+    "topics": ["3d-gaussian-splatting", "gaussian-splatting", "nerf"]
+  }, {
+    "repo": "mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "officialSite": "",
+    "topics": []
   }
 ]

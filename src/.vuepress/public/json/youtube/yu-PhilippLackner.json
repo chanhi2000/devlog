@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vb-Pt8SdfEE", "title": "How to Migrate an Android Project to Kotlin Multiplatform (KMP)" },
     { "id": "aiUHeiHE5PM", "title": "How I Learnt Everything I Know About Android in 4 Years" }, 
     { "id": "MbIB8J5_zjM", "title": "3 Clean Code Hacks I Bet You Didn't Know (Kotlin & Android)" }, 
     { "id": "VfOQqmCpK7U", "title": "Top 3 Coroutine Cancellation Traps That Lead to Errors In Your Android App (Kotlin)" },

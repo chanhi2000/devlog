@@ -34,8 +34,8 @@ Wanted 프로필 갱신                 :         descB3, 2023-10-30, 1w
 
 section C 노트정리
 cli-text-processing-w-gnu-awk 정리 :active    desC1, 2023-09-20, 10w
-paul-hudson-100-days-of-swift 정리 :active    desC2, 2023-09-20, 30w
-paul-hudson-100-days-of-swiftui 정리 :active  desC3, 2023-09-20, 30w
+swift-100-days-of-swift 정리 :active    desC2, 2023-09-20, 30w
+swift-100-days-of-swiftui 정리 :active  desC3, 2023-09-20, 30w
 paul-hudson-swiftui-by-example 정리 :active   desC4, 2023-09-20, 30w
 pwsh-script 정리                    :done     desC5, 2023-09-20, 4w
 devops-ovirt 정리                   :         desC6, 2023-09-20, 20w
@@ -56,9 +56,9 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 - B. 2023년 Career Developing
   - B1. github profile 변경
 - C. 노트정리
-  - C1. `/crashcourse/linux-journey` 정리
+  - C1. `/crashcourse/devops-linux-journey` 정리
   - C2. `/crashcourse/cli-mastering-curl-interactive-text-guide` 정리
-  - C3. `/crashcourse/freecodecamp-gitlab-ci` 정리
+  - C3. `/crashcourse/devops-freecodcamp-gitlab-ci` 정리
   - C4. `/g4e/lang-pwsh/scripts-*` 정리
   - C5. `/crashcourse/cli-text-processing-w-gnu-awk` 정리
  
@@ -72,13 +72,13 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 
 ### C. 노트정리
 
-#### C1. `/crashcourse/paul-hudson-100-days-of-swift` 정리
+#### C1. `/crashcourse/swift-100-days-of-swift` 정리
 
-> [See README](/crashcourse/paul-hudson-100-days-of-swift/README.md)
+> [See README](/crashcourse/swift-100-days-of-swift/README.md)
 
-#### C2. `/crashcourse/paul-hudson-100-days-of-swiftui` 정리
+#### C2. `/crashcourse/swift-100-days-of-swiftui` 정리
 
-> [See README](/crashcourse/paul-hudson-100-days-of-swiftui/README.md)
+> [See README](/crashcourse/swift-100-days-of-swiftui/README.md)
 
 #### C3. `/crashcourse/paul-hudson-swiftui-by-example` 정리
 

@@ -3303,5 +3303,25 @@
     "desc": "A realtime sketch to image demo using LCM and the gradio library. ",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "run-llama/rags",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "flowtyone/flowty-realtime-lcm-canvas",
+    "desc": "A realtime sketch to image demo using LCM and the gradio library. ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "oobabooga/text-generation-webui",
+    "desc": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "socketteer/loom",
+    "desc": "Multiversal tree writing interface for human-AI collaboration",
+    "officialSite": "",
+    "topics": []
   }
 ]

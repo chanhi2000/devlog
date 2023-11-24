@@ -151,6 +151,10 @@ tags: ["c", "llvm"]
 
 ---
 
+## Evan Jones
+
+- [`setenv` is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

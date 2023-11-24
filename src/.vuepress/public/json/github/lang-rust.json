@@ -814,5 +814,10 @@
     "desc": "A fast, friendly, functional language. Work in progress!",
     "officialSite": "https://roc-lang.org",
     "topics": ["functional-language", "functional-programming", "language", "roc-lang"]
+  }, {
+    "repo": "visioncortex/vtracer",
+    "desc": "Raster to Vector Graphics Converter",
+    "officialSite": "https://www.visioncortex.org/vtracer/",
+    "topics": ["image-procesing", "rust", "svg"]
   }
 ]

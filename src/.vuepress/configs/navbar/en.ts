@@ -68,16 +68,16 @@ export const navbarEn: NavbarConfig = [
         children: [
           {
             text: '🕊️100 Days of Swift',
-            link: '/crashcourse/paul-hudson-100-days-of-swift/README.md'
+            link: '/crashcourse/swift-100-days-of-swift/README.md'
           }, {
             text: '🕊️100 Days of SwiftUI',
-            link: '/crashcourse/paul-hudson-100-days-of-swiftui/README.md'
+            link: '/crashcourse/swift-100-days-of-swiftui/README.md'
           }, {
             text: '🕊️SwiftUI by Example',
-            link: '/crashcourse/paul-hudson-swiftui-by-example/README.md',
+            link: '/crashcourse/swift-swiftui-by-example/README.md',
           }, {
             text: '🕊️Kodeco - Swift',
-            link: '/crashcourse/kodeco-swift/README.md'
+            link: '/crashcourse/swift-kodeco/README.md'
           }          
         ]
       }, {
@@ -88,10 +88,10 @@ export const navbarEn: NavbarConfig = [
             link: '/crashcourse/java-8-in-action/README.md',
           }, {
             text: '☕️Effective Java',
-            link: '/crashcourse/effective-java/README.md',
+            link: '/crashcourse/java-effective-java/README.md',
           }, {
             text: '🅺Kodeco - Android & Kotlin',
-            link: '/crashcourse/kodeco-kotlin-android/README.md'
+            link: '/crashcourse/kotlin-android-kodeco/README.md'
           }, {
             text: '🍃Jump to Spring Boot',
             link: '/crashcourse/java-jump-to-spring-boot/README.md',
@@ -116,13 +116,13 @@ export const navbarEn: NavbarConfig = [
         children: [
           {
             text: '🦀freecodecamp.org - Rust by Practice',
-            link: '/crashcourse/rust-by-practice/README.md'          
+            link: '/crashcourse/rs-freecodecamp-rust-by-practice/README.md'          
           }, {
             text: '🦀Rust to Assembly',
-            link: '/crashcourse/eventhelix-rust-to-assembly/README.md'
+            link: '/crashcourse/rs-eventhelix-rust-to-assembly/README.md'
           }, {
             text: '🦀Wasm by Example',
-            link: '/crashcourse/rust-wasm-by-example/README.md',
+            link: '/crashcourse/rs-wasm-by-example/README.md',
           }
         ]
       }, {
@@ -130,22 +130,22 @@ export const navbarEn: NavbarConfig = [
         children: [
           {
             text: '🔺Red Hat Container Tools',
-            link: '/crashcourse/red-hat-container-tools/README.md',
+            link: '/crashcourse/devops-red-hat-container-tools/README.md',
           }, {
             text: '🔺Containerize Your Application With Buildah And Podman',
-            link: '/crashcourse/red-hat-containerize-your-application-w-buildah-and-podman/README.md',
+            link: '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/README.md',
           }, {
             text: '🦊freecodecamp.org - DevOps with GitLab CI',
-            link: '/crashcourse/freecodecamp-gitlab-ci/README.md'          
+            link: '/crashcourse/devops-freecodcamp-gitlab-ci/README.md'          
           }, {
             text: '☸DigitalOcean - Kubernetes',
-            link: '/crashcourse/digitalocean-kubernetes/README.md'
+            link: '/crashcourse/devops-digitalocean-kubernetes/README.md'
           }, {
             text: '📦아마존 웹 서비스를 다루는 기술 - 실무에서 필요한 AWS 클라우드의 모든 것!',
             link: '/crashcourse/devops-art-of-aws/README.md',
           }, {
             text: '🐧Linux Journey',
-            link: '/crashcourse/linux-journey/README.md'
+            link: '/crashcourse/devops-linux-journey/README.md'
           }
         ]
       }, {
@@ -157,6 +157,9 @@ export const navbarEn: NavbarConfig = [
           }, {
             text: '🙆‍♂️DB Server 성능 향상, 분석 및 튜닝 전문가 향상과정',
             link: '/crashcourse/oracle-sql-db-tuning/README.md'
+          }, {
+            text: '🦙Microsoft - Generative AI for Beginners',
+            link: '/crashcourse/llm-generative-ai-for-beginners/README.md'
           }
         ]
       }
