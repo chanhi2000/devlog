@@ -769,5 +769,30 @@
     "desc": "Black Friday Deals for macOS / iOS Software & Books",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "teslamotors/roadster",
+    "desc": "2008-2012 Roadster Development and Diagnostic Software files",
+    "officialSite": "https://service.tesla.com/roadster",
+    "topics": []
+  }, {
+    "repo": "linexjlin/GPTs",
+    "desc": "leaked prompts of GPTs",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "fffaraz/awesome-cpp",
+    "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+    "officialSite": "http://fffaraz.github.io/awesome-cpp/",
+    "topics": ["awesome", "awesome-list", "c", "c-plus-plus", "cpp", "cpp-library", "cppcon", "libraries", "list", "lists", "programming-tutorial", "resources"]
+  }, {
+    "repo": "arcataroger/awesome-engineering-games",
+    "desc": "A curated list of engineering-related video games rated Very Positive or higher on Steam",
+    "officialSite": "",
+    "topics": ["awesome"]
+  }, {
+    "repo": "sergiomarotco/Network-segmentation-cheat-sheet",
+    "desc": "Best practices for segmentation of the corporate network of any company",
+    "officialSite": "",
+    "topics": ["firewall-segmentation", "firewalling", "network-isolation", "network-security", "network-segmenation", "network-segment", "segmentation-network", "segmetation-benchmarks", "vlan-best-practice", "vlaning"]
   }
 ]

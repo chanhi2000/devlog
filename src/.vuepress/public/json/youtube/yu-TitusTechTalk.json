@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/_pZydqxiDpztopjEnxADuUml4ec_MR5Ls02bGclan0ngkqJQaKnY2jKuXHB23VTswx8BR3YZ9xo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "q5mOZAFGk1I", "title": "SMB Credentials File Setup" },
     { "id": "JpPGpV7QT0o", "title": "Trying SystemD FREE Distros" },
     { "id": "5GEbK3s-V6g", "title": "Making a NON-SystemD OpenRC system" },
     { "id": "ACactyXyDEg", "title": "Neovim is a Journey" }, 

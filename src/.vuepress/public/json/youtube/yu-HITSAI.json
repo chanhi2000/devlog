@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "HITSAI",
+    "name": "HITS",
+    "profile": "https://yt3.googleusercontent.com/jghE2MfkpA1R5hSQFQaU92u9pPNzVjpGGaWNw_9EhyMZvh6aepF8L0qi4HhgSZxMQ2YvSJLrLQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tYyjKk4BU846ulFS5ozSQ1ck1shohkEFzmnNdcKyLqcWXJ2blBr4y0mk3Ej2rJ0uj8VklFWB=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vFkfCvVfF3Y", "title": "3분만에 AI로 신규 분자 구조 50개 만드는 법" }
+  ]
+}

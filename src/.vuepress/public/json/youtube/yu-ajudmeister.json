@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/LBx-PFPevasWu6YfvRtaV6VDKalTt7lpHKixM9JyQ13iv7fPqoB_vgaBzYgqBeEte8xb5K0X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "H7WuQTtN6ac", "title": "Email Verifications & Notifications - Deployment with Django - Part 5" },
     { "id": "CS5fm1nGpNA", "title": "Media Server - Cloudinary - Deployment with Django - Part 4" },
     { "id": "8bHi_VTmGVs", "title": "Web Server - Render.com, PostgreSQL and Github - Deployment with Django - Part 3" }, 
     { "id": "IMmbhnVixvo", "title": "Tailwind CLI and collectstatic - Deploying a Django app - Part 2" },

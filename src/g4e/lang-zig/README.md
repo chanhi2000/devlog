@@ -12,3 +12,9 @@ category: 🏂Zig
 :::
 
 <ShieldsGroup logos="zig"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-zig/" />

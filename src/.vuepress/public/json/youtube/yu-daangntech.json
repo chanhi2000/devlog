@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "daangntech",
+    "name": "당근테크",
+    "profile": "https://yt3.googleusercontent.com/R0BHC2bWTgyOxHXtX2MD04Mm2PSZZ4qA2SHv5TxuXHnBk5WMGyVx42NJ1MZIgGUY1ZJIXf_5nA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rHZolXqESmuPZ9fnKXBAvr5NQo_UWTxc28qqawnoCyc7aXoxmar9F4WkJHWGwSUM_Vl_1OwXcQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "당근 SERVER 밋업 2회",
+      "videos": [
+        { "id": "bvfNGjULzyw", "title": "모놀로틱 레거시 레포 개발자가 디컴프 과정을 겪으면서 느낀 심경의 변화 | 당근 SERVER 밋업 2회" },
+        { "id": "8Noyui-X0JY", "title": "당근페이 금융 거래 통합 테스트 개발 이야기 | 당근 SERVER 밋업 2회" },
+        { "id": "heA_-vpZsWo", "title": "한 달 동안 만든 서비스, 일 년 반 만에 전국 오픈하기 | 당근 SERVER 밋업 2회" },
+        { "id": "eIg_xJQw1GA", "title": "JavaScript 생태계를 이용해서 신사업 제품의 서버 개발하기 | 당근 SERVER 밋업 2회" },
+        { "id": "ThLfHtoEe1I", "title": "서킷브레이커 사용 방식 개선하기 | 당근 SERVER 밋업 2회" },
+        { "id": "jTl9WUHDuBc", "title": "이벤트 소싱을 활용해 확장 가능한 사내 플랫폼 만들기 | 당근 SERVER 밋업 2회" },
+        { "id": "hzWkKb2lAno", "title": "1,800만이 쓰는 서비스 운영하기 | 당근 SERVER 밋업 2회" }
+      ]
+    }, {
+      "title": "당근 2023 INFCON",
+      "videos": [
+        { "id": "KRHTVQ_imvA", "title": "스웨덴어 공부하다 개발자가 됐습니다 | 2023 INFCON" },
+        { "id": "a6sW0HwfvlU", "title": "8년된 레포지토리와 함께 살아가는 2년차 개발자의 이야기 | 2023 INFCON" },
+        { "id": "wuZze0pRCD8", "title": "TypeScript로 실제 세상에 존재하는 타입을 만들기 | 2023 INFCON" },
+        { "id": "9Qcwb5rmemY", "title": "당근마켓 CTO가 말하는 개발 문화와 성장 과정 | 2023 INFCON" }
+      ]
+    }
+  ]
+}

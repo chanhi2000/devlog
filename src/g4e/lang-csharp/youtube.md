@@ -57,5 +57,6 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 <MyYouTubeItems jsonName="yu-hamsterbyte" /><!-- hamsterbyte -->
 <MyYouTubeItems jsonName="yu-oursfarm" /><!-- 아워즈팜X나우캠퍼스 -->
 <MyYouTubeItems jsonName="yu-JavaCampus" /><!-- JavaCampus -->
+<MyYouTubeItems jsonName="yu-SingletonSean" /><!-- SingletonSean -->
 
 <TagLinks />

@@ -23,5 +23,53 @@
     { "id": "aTXlMkiJIH8", "title": "Cypress #10 Stop Disable Auto ReRun Test in Cypress" },
     { "id": "U4swot55-6M", "title": "Cypress #9 Run Test in Headless Mode in Cypress" },
     { "id": "ELyoLDDfBbw", "title": "Cypress #8 Run Test on Chrome, Edge & Firefox Browsers" }
+  ],
+  "playlists": [
+    {
+      "title": "Cypress with JavaScript Tutorial",
+      "videos": [
+        { "id": "oJV5whmzfZI", "title": "Cypress Tutorial Full Course 2023 | Learn Cypress in 5 Hrs" },
+        { "id": "Eilrdx99t60", "title": "Cypress GitHub Repository E2E Testing" },
+        { "id": "mFGZN_o1WD0", "title": "Cypress Full Course Overview E2E Web Testing" },
+        { "id": "ktapPLK2DCI", "title": "Cypress Chapter01 Overview End-to-End Testing" },
+        { "id": "6eaWRdpd-RQ", "title": "Cypress #1 What is Cypress? Advantages & Limitations of Cypress" },
+        { "id": "_Uy3wHaoH-o", "title": "Cypress #2 Cypress Vs Selenium WebDriver" },
+        { "id": "_iXGqe5OVxs", "title": "Cypress #3 Install Nodejs & Visual Studio Code (VS Code)" },
+        { "id": "gRW79a1DlHQ", "title": "Cypress #4 Install Cypress & Scaffold Examples & Test Runner" },
+        { "id": "YFv496gHw1E", "title": "Cypress #5 Folder Structure in Cypress" },
+        { "id": "1aQeNbI07Jk", "title": "Cypress #6 Cypress Studio - Record and Play Test" },
+        { "id": "Yn3NJfdXVOI", "title": "Cypress #7 Write First Cypress Automation Test" },
+        { "id": "ELyoLDDfBbw", "title": "Cypress #8 Run Test on Chrome, Edge & Firefox Browsers" },
+        { "id": "U4swot55-6M", "title": "Cypress #9 Run Test in Headless Mode in Cypress" },
+        { "id": "aTXlMkiJIH8", "title": "Cypress #10 Stop Disable Auto ReRun Test in Cypress" },
+        { "id": "ZzDMINy7Lls", "title": "Cypress #11 Chapter02 Overview End-to-End Testing" },
+        { "id": "IcCzMfSojXg", "title": "Cypress #12 Disable FETCH & XHR logs in Cypress" },
+        { "id": "cSa4VAHawMg", "title": "Cypress #15 Selectors & CSS Selectors in Test Automation" },
+        { "id": "-NTp4pGNSmg", "title": "Cypress #14 Assertions in Cypress Automation Testing" },
+        { "id": "g98jIJvMV3U", "title": "Cypress #13 IntelliSense & Intelligent Code Completion" },
+        { "id": "WIDmjACd3sk", "title": "Cypress #18 Handling DropDown List in Test Automation" },
+        { "id": "QS2dQCl_FyU", "title": "Cypress #17 Run Cypress Test From Visual Studio Code" },
+        { "id": "OYHeClS-I8A", "title": "Cypress #16 Xpath in Cypress Web Automation Testing" },
+        { "id": "bXrHCTmTGsM", "title": "Cypress #19 IFrames in Cypress Automation Testing" },
+        { "id": "dixZ3Q92frs", "title": "Cypress #20 Scroll Down Up in Automation Testing" },
+        { "id": "FtXUl2yHAVQ", "title": "Cypress #21 Chapter03 Overview End-to-End Testing" },
+        { "id": "uupWzXHa_GA", "title": "Cypress #22 Hooks in Cypress Automation Testing" },
+        { "id": "MRmXxdQ3zJA", "title": "Cypress #23 Skip a Test in Cypress Web Automation" },
+        { "id": "jtuqTia8MgM", "title": "Cypress #24 Repeat Test Multiple Times in Web Automation" },
+        { "id": "QmNYZCDmPj4", "title": "Cypress #27 Run Multiple JavaScript Spec Files in Cypress" },
+        { "id": "F1k9GJe7W7c", "title": "Cypress #26 How to Generate HTML Report in Cypress" },
+        { "id": "KWEgtcaBPCk", "title": "Cypress #25 Retry ReRun Test Automatically When a Test Failed" },
+        { "id": "_NSMtRP9IoA", "title": "Cypress #28 Run a Group of Tests in Cypress" },
+        { "id": "o_utxdayuOU", "title": "Cypress #29 Chapter04 Overview End-to-End Testing" },
+        { "id": "pHbKRFP33Ps", "title": "Cypress #30 Data Driven Testing Part01" },
+        { "id": "GvdkgqcQOZ8", "title": "Cypress #31 Data Driven Testing Part02 - Multiple Sets Of Test Data" },
+        { "id": "5rrkqqfwoJU", "title": "Cypress #32 Page Object Model in Cypress" },
+        { "id": "AjUHKBVFhNs", "title": "Cypress #33 Video Recording - Test Execution" },
+        { "id": "kZbuYLalk9U", "title": "Cypress Automation Testing Part01 | Cypress Tutorial | Cypress Testing with JavaScript" },
+        { "id": "qa2zygrqV40", "title": "Cypress Automation Testing Part02 | Cypress Tutorial | Cypress Testing with JavaScript" },
+        { "id": "Df8CXzhG6Vk", "title": "Cypress Automation Testing Part03 | Cypress Tutorial | Cypress Testing with JavaScript" },
+        { "id": "WaJzoZTdiW0", "title": "Cypress Automation Testing Part04 | Cypress Tutorial | Cypress Testing with JavaScript" }
+      ]
+    }
   ]
 }

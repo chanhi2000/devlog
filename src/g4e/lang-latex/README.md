@@ -11,3 +11,9 @@ description: 🦢LaTeX
 :::
 
 <ShieldsGroup logos="latex"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-latex/" />

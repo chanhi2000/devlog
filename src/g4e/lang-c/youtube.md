@@ -28,5 +28,6 @@ tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "progra
 <MyYouTubeItems jsonName="yu-cpponsea2834" /><!-- cpponsea -->
 <MyYouTubeItems jsonName="yu-IT-es6jl" /><!-- 길벗 IT 전문서(업로드 중단, 구계정) -->
 <MyYouTubeItems jsonName="yu-BoostCon" /><!-- CppNow -->
+<MyYouTubeItems jsonName="yu-songmingi1102" /><!-- 송민기 -->
 
 <TagLinks />

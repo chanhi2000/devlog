@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "kskroyaltech",
+    "name": "Ksk Royal",
+    "profile": "https://yt3.googleusercontent.com/N7NKmy56MrliiMjzrB-9Dz51Jmr8TIQox3hffKTsBoPPHPlRakkbhrr15zdDHbeU9rOt24R98w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MxbQq8MgIeKFPWIxRSW5oBCpqn8ZedF82iiWspGDXlfLMxTwe6PXCPwBLl7FuFaUgQUkKSYryw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WuZ2T6D_9yI", "title": "MindBlowing ArchLinux HyprLand Setup // Make Your Linux Desktop Look Modern and Professional" }
+  ]
+}

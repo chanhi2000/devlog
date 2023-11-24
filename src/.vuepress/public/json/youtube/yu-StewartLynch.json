@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/2dUz1znn1GCW4QqA__t-1E14E9QWq2nwBtCxKvFtzV6naeAyOyTq6BgT_Ic7o53CXhVc9XP7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CrWqfCDmPVI", "title": "SwiftData Lightweight Migrations" },
     { "id": "tZq4mvqH9Fg", "title": "SwiftData Containers and Preview Data" }, 
     { "id": "3yWxtjUm0CE", "title": "ContentUnavailableView in iOS 17" },
     { "id": "CS2GLBiRMWE", "title": "Phase Animations in iOS 17" },

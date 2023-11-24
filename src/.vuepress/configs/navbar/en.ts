@@ -136,7 +136,7 @@ export const navbarEn: NavbarConfig = [
             link: '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/README.md',
           }, {
             text: '🦊freecodecamp.org - DevOps with GitLab CI',
-            link: '/crashcourse/devops-freecodcamp-gitlab-ci/README.md'          
+            link: '/crashcourse/devops-freecodecamp-gitlab-ci/README.md'          
           }, {
             text: '☸DigitalOcean - Kubernetes',
             link: '/crashcourse/devops-digitalocean-kubernetes/README.md'
@@ -224,6 +224,33 @@ export const navbarEn: NavbarConfig = [
       }, {
         text: '♯CSharp',
         link: '/g4e/lang-csharp/README.md',
+      }, {
+        text: '🦦Go',
+        link: '/g4e/lang-go/README.md',
+      }, {
+        text: '🔰Dart',
+        link: '/g4e/lang-dart/README.md',
+      }, {
+        text: '⛵php',
+        link: '/g4e/lang-php/README.md',
+      }, {
+        text: '🔻Ruby',
+        link: '/g4e/lang-ruby/README.md',
+      }, {
+        text: '💧Elixir',
+        link: '/g4e/lang-elixir/README.md',
+      }, {
+        text: '🐑Haskell',
+        link: '/g4e/lang-haskell/README.md',
+      }, {
+        text: '🦕C',
+        link: '/g4e/lang-c/README.md',
+      }, {
+        text: '🏂Zig',
+        link: '/g4e/lang-zig/README.md',
+      }, {
+        text: '🦢LaTeX',
+        link: '/g4e/lang-latex/README.md',
       }
     ]
   }, {

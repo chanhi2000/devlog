@@ -25,5 +25,7 @@ tags:
 <MyYouTubeItems jsonName="yu-0won" /><!-- 노션 연구소 -->
 <MyYouTubeItems jsonName="yu-yegrina._." /><!-- 예그리나 -->
 <MyYouTubeItems jsonName="yu-sirealco" /><!-- 시리얼 Sireal -->
+<MyYouTubeItems jsonName="yu-dormi0927" /><!-- 도르미 Dormi -->
+<MyYouTubeItems jsonName="yu-madame_choii" /><!-- 시간기획자 마담초이 -->
 
 <TagLinks />

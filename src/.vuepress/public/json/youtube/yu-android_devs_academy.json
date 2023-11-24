@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "android_devs_academy",
+    "name": "Android Devs Academy",
+    "profile": "https://yt3.googleusercontent.com/4NJNAydpaOs0qysjBnIDTI7na5KMGhTI4mZmHIyWB_Gpw2q_T319pGer6bNffCNe2Npmlwaxag=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kM7TOJeLqNWwapFd-wgXcZDDbzKQIopU5zj6_3Pr6FaEI1oB3mNh9ATGmbCGzcyGXjRypoWUQA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "j88wrM4eRPs", "title": "Lazy Lists In Jetpack Compose - (Lazy Column, Row, Grid)" }
+  ]
+}

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/dy3cphCeA7ZmAx2Rv5QQ3l3F9G-Czt6bRTCDWMuGUVwpE2YuHutXyUtZNwLXizGnQv2e88AE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nFFmdr8gmCk", "title": "How To Install OPNSense on Desktop PC To Make Router + Firewall" },
     { "id": "-hT231RiHMY", "title": "How To Install PROXMOX Server On Raspberry Pi 4" },
     { "id": "agKM-9LSyjs", "title": "How To SSH Into Kali NetHunter Android Phone" },
     { "id": "BM7BglCkrdQ", "title": "How To Install Kali Linux on Windows 11 Hyper-V" }, 

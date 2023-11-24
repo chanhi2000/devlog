@@ -14,5 +14,10 @@
     "desc": "Mockito for Objective-C: creation, verification and stubbing of mock objects",
     "officialSite": "",
     "topics": ["mocking", "mocking-framework", "mockito", "objective-c", "testing", "xctest"]
+  }, {
+    "repo": "darlinghq/darling",
+    "desc": "Darwin/macOS emulation layer for Linux",
+    "officialSite": "http://www.darlinghq.org",
+    "topics": []
   }
 ]

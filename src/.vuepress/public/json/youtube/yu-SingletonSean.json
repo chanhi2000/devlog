@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SingletonSean",
+    "name": "SingletonSean",
+    "profile": "https://yt3.googleusercontent.com/3DsKpKIEM7ezR6gzKqr3klSt-tkQTXviAHlSsIGq8PdcDOQTyXlDAaPLsukGwL1QFvKN653_2EU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5wPor3XepcUSznR2J3bnvbhvTlz3SyKu9v1N0VKt-d344XXxNbpT583W5AZZGYFLi5R09Tnoew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "54ZmhbpjBmg", "title": "Build a WPF MVVM Application - START TO FINISH TUTORIAL" }
+  ]
+}

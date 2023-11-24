@@ -1729,5 +1729,15 @@
     "desc": "The Most Complete Angular UI Component Library",
     "officialSite": "https://primeng.org",
     "topics": ["angular", "charts", "components", "datagrid", "datatable", "mit", "typescript", "ui"]
+  }, {
+    "repo": "bgstaal/multipleWindow3dScene",
+    "desc": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "fanmingming/live",
+    "desc": "✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
+    "officialSite": "https://live.fanmingming.com",
+    "topics": ["china", "epg", "iptv", "ipv6", "list", "live", "m3u", "m3u8", "mp4", "radio", "television", "tv"]
   }
 ]

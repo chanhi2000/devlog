@@ -42,5 +42,6 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 <MyYouTubeItems jsonName="yu-CFI_Official" /><!-- Corporate Finance Institute -->
 <MyYouTubeItems jsonName="yu-ExcelForFreelancers" /><!-- Excel For Freelancers -->
 <MyYouTubeItems jsonName="yu-5953kim" /><!-- EXCEL AND VBA -->
+<MyYouTubeItems jsonName="yu-ssaemae" /><!-- 쌤매 -->
 
 <TagLinks />

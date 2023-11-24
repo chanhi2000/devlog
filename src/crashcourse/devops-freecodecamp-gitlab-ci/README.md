@@ -11,7 +11,7 @@ meta:
   - property: og:description
     content: Intro
   - property: og:url
-    content: https://chanhi2000.github.io/crashcourse/devops-freecodcamp-gitlab-ci
+    content: https://chanhi2000.github.io/crashcourse/devops-freecodecamp-gitlab-ci
 ---
 
 # {{ $frontmatter.title }} 관련

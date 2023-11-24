@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "TheYoctoProject",
+    "name": "Yocto Project",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYkTpWrUyYdm11uUsIOJTaFK6iXJTlTpYSqwJPf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "NmPta5w6P70", "title": "Live Coding with Yocto Project #11: Getting started with C/C++ development." },
+    { "id": "jPbcQEffzJo", "title": "Live Coding with Yocto Project #10: building and customizing containers" }
+  ]
+}

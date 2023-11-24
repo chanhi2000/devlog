@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3Zpk8x4BpHE", "title": "Why Are HTML Elements Unstyled in TailwindCSS? #tailwindcss #webdevelopment #reactjs" },
+    { "id": "1Vid6jcLQ90", "title": "(Fix) EPERM: Operation Not Permitted on Windows (VS Code) #vscode #webdeveloper" },
+    { "id": "UKI6n62upC0", "title": "Tailwind Gradient Text Color 🌈 #tailwindcss #css #csstips #webdevelopment #reactjs" },
     { "id": "ES-wKcz-e5s", "title": "Use This Shorthand for True Boolean Props in React 💡 #reactjs #reactdevelopment #reactjstutorial" }, 
     { "id": "iBv8qGGSqH4", "title": "Generate Open Graph Images With Code in Next.js 14 🔥 #nextjs #nextjs14 #nextjstutorial #webdev" }, 
     { "id": "z16uoAf_0DA", "title": "UsePHP in React 🤯 #reactjs #reactdevelopment #reactjsdeveloper #php #phpdeveloper" }, 

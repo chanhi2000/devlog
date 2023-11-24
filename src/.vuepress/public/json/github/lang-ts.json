@@ -1813,5 +1813,20 @@
     "desc": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
     "officialSite": "https://crawlee.dev",
     "topics": ["apify", "automation", "crawler", "crawling", "headless", "headless-chrome", "javascript", "nodejs", "npm", "playwright", "puppeteer", "scraper", "scraping", "typescript", "web-crawler", "web-crawling", "web-scraping"]
+  }, {
+    "repo": "keiko233/clash-nyanpasu",
+    "desc": "Clash Nyanpasu!",
+    "officialSite": "",
+    "topics": ["clash", "clash-meta", "clash-nyanpasu", "clash-verge", "rust", "tauri"]
+  }, {
+    "repo": "wesbos/hot-tips",
+    "desc": "The code behind my hot tips",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "goniszewski/grimoire",
+    "desc": "Bookmark manager for the wizards 🧙",
+    "officialSite": "https://grimoire.pro",
+    "topics": ["bookmarks", "bookmarks-manager", "pocketbase", "svellte", "sveltekit", "tailwindcss"]
   }
 ]

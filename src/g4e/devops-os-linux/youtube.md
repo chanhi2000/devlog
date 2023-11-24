@@ -59,5 +59,7 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 <MyYouTubeItems jsonName="yu-KeepItTechie" /><!-- KeepItTechie -->
 <MyYouTubeItems jsonName="yu-OJTube" /><!-- [오제이 튜브]OJ Tube -->
 <MyYouTubeItems jsonName="yu-LinuxTex" /><!-- Linux Tex -->
+<MyYouTubeItems jsonName="yu-tabae-learn4274" /><!-- TTABAE-LEARN -->
+<MyYouTubeItems jsonName="yu-ithotgi" /><!-- IT핥기 -->
 
 <TagLinks />

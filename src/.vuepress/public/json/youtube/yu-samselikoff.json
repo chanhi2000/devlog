@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "d0p95C3Kcsg", "title": "Optimistic UI in Remix" },
     { "id": "aj2mulzR9WQ", "title": "Session cookies in Remix" },
     { "id": "5hF0IVQIBN8", "title": "6 New Tailwind Techniques in 8 minutes" },
     { "id": "Q2CJNB6yvwY", "title": "Highlight any panel in your dashboard" } 

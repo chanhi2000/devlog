@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DigitalFluency",
+    "name": "Digital Fluency",
+    "profile": "https://yt3.googleusercontent.com/xXS3sqXvnITHPmj6p8PJwAPU-REgHO95DPoAuc9MEmF7enn6noJCHM8Vj7vD6LPaLKjXvxSYdA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/URZJNxtb9UZ0xf9gfIy9T-BckoioKLNZmnd9ogr6mXnDhBLoNoNHeu1HdgqilGNMEOcRePqG=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Yf1FfhMetjs", "title": "Fast HTTP Caching With Angular HTTP Observables" }
+  ]
+}

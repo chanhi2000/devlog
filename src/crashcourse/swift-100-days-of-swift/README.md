@@ -211,7 +211,7 @@ Although these last few projects should have been nice and easy for you, it’s 
 We’re going to tackle two tough projects back to back, but in doing so you’ll start to really be amazed at the things you can build on iOS – brace yourself!
 
 - ✅[Day 67][day-67] – Project 19, part one
-- [Day 68][day-68] – Project 19, part two
+- ✅[Day 68][day-68] – Project 19, part two
 - [Day 69][day-69] – Project 19, part three
 - [Day 70][day-70] – Project 20, part one
 - [Day 71][day-71] – Project 20, part two
@@ -357,7 +357,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-65]: 65.md
 [day-66]: 66.md
 [day-67]: 67.md
-[day-68]: https://www.hackingwithswift.com/100/68
+[day-68]: 68.md
 [day-69]: https://www.hackingwithswift.com/100/69
 [day-70]: https://www.hackingwithswift.com/100/70
 [day-71]: https://www.hackingwithswift.com/100/71

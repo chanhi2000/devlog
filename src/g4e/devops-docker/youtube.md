@@ -34,6 +34,6 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-showmeyourcode" /><!-- ShowMeYourCode! -->
 <MyYouTubeItems jsonName="yu-baseyou21" /><!-- [50대 컴쟁이] baseyou21 -->
 <MyYouTubeItems jsonName="yu-bytepancake3157" /><!-- Byte Pancake -->
-
+<MyYouTubeItems jsonName="yu-tabae-learn4274" /><!-- TTABAE-LEARN -->
 
 <TagLinks />

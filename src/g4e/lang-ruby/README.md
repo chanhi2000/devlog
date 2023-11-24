@@ -12,3 +12,9 @@ category: 🔻Ruby
 :::
 
 <ShieldsGroup logos="ruby"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/lang-ruby/" />

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "szbITz_PLOM", "title": "The VMware on AWS Update Show - November 2023 Edition | Amazon Web Services" },
     { "id": "RgcaqNGBDfU", "title": "What is Detection and Response on AWS? | Amazon Web Services" },
     { "id": "a2OM2eI_GzQ", "title": "Customizing the AWS WAF CAPTCHA experience using JavaScript API | Amazon Web Services" },
     { "id": "NCOQcLtxX80", "title": "AWS Content Moderation Snackable Games Overview | Amazon Web Services" },

@@ -24,6 +24,7 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 - [Stanford: AI Courses](https://ai.stanford.edu/courses)
 - [DeepLearning.AI](https://www.deeplearning.ai/short-courses)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ---
 

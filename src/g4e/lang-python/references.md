@@ -86,7 +86,8 @@ description: 🐍Python > 📚References
 - [속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법 (Speed, Python: Pick Two. How CUDA Graphs Enable Fast Python Code for Deep Learning)](https://discuss.pytorch.kr/t/cuda-speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning/2441)
 - [벡터 유사도 검색이 무엇인가요? (What is Vector Similarity Search?)](https://discuss.pytorch.kr/t/what-is-vector-similarity-search/2475)
 - [[2023/09/04 ~ 09/10] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-09-04-09-10-ml-top-ml-papers-of-the-week/2448)
-- [[2023/11/06 ~ 11/12] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-11-06-11-12-ml-top-ml-papers-of-the-week/2838?utm_source=geeknews)
+- [[2023/11/06 ~ 11/12] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-11-06-11-12-ml-top-ml-papers-of-the-week/2838)
+- [상용 수준의 LLM 애플리케이션을 위한 개발자 가이드(The Developer’s Guide to Production-Grade LLM Apps)](https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919)
 
 ## Kobzol's blog
 
@@ -206,5 +207,13 @@ description: 🐍Python > 📚References
 ## Marcus Lewis
 
 - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
+
+---
+
+## AB180 엔지니어링 베이스
+
+- [모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기](https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability)
+
+---
 
 <TagLinks />

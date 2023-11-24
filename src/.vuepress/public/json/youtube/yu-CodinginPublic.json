@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/1iRoj5sQ45VNWnNDZXZlZBj3_w0vBlyqsydEhSPIa4FIFWvpnl47yFZ8p2MH0DjScQeAewbHCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I6ynSVZdX04", "title": "Build a Dark Mode without a White Mode Flash!" },
     { "id": "-vw6uG1JSEA", "title": "Never Forget React forwardRef Again" }, 
     { "id": "9i6QdgMuNXI", "title": "Live Code: WebDevDaily Tracking App (HTML, CSS, JavaScript)" }, 
     { "id": "v79VRrfVau8", "title": "New Rust-Based Search Tool" },

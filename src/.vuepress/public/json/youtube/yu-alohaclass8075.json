@@ -71,6 +71,32 @@
     { "id": "ayFdmtCPA4U", "title": "[LIVE] ALOHA 2023-04-17 자바 수업 1일차 - 오후" }, 
     { "id": "3a2KdMTRgKc", "title": "VSCODE C언어 설치 - C C++ in VS Code" }, 
     { "id": "ZNsEVrE9NW0", "title": "VSCODE SPRING BOOT 개발환경 세팅 - Spring Boot Extension in VS Code" } 
+  ],
+  "playlists": [
+    {
+      "title": "ALOHA CLASS - DB [LIVE] V.3",
+      "videos": [
+        { "id": "3cqrEaqvcAI", "title": "[LIVE] ALOHA 2023-05-19 DB 01일차 - 오전" },
+        { "id": "OCFXrY418w0", "title": "[LIVE] ALOHA 2023-05-19 DB 01일차 - 오후" },
+        { "id": "yO6236B-pYs", "title": "[LIVE] ALOHA 2023-05-22 DB 02일차 - 오전" },
+        { "id": "B3aWzEow1x8", "title": "[LIVE] ALOHA 2023-05-22 DB 02일차 - 오후" },
+        { "id": "g0_omuYlna0", "title": "[LIVE] ALOHA 2023-05-23 DB 03일차 - 오전" },
+        { "id": "68Og2Y4X1Yw", "title": "[LIVE] ALOHA 2023-05-23 DB 03일차 - 오후" },
+        { "id": "GLiTAT6dwD8", "title": "[LIVE] ALOHA 2023-05-24 DB 04일차 - 오전" },
+        { "id": "uThJzVJDX48", "title": "[LIVE] ALOHA 2023-05-25 DB 05일차 - 오전" },
+        { "id": "zxc5S6O8DR4", "title": "[LIVE] ALOHA 2023-05-25 DB 05일차 - 오후" },
+        { "id": "erNeWXB0z4c", "title": "[LIVE] ALOHA 2023-05-26 DB 06일차 - 오전" },
+        { "id": "ADFMk-NUgz4", "title": "[LIVE] ALOHA 2023-05-26 DB 06일차 - 오후" },
+        { "id": "CR7SVyogUDU", "title": "[LIVE] ALOHA 2023-05-30 DB 07일차 - 오전" },
+        { "id": "1vKA8TzjA0U", "title": "[LIVE] ALOHA 2023-05-30 DB 07일차 - 오전2" },
+        { "id": "TsK_37OwYBc", "title": "[LIVE] ALOHA 2023-05-31 DB 08일차 - 오전" },
+        { "id": "okQvbFnnPZ0", "title": "[LIVE] ALOHA 2023-05-31 DB 08일차 - 오후" },
+        { "id": "9kS7Xpx4NXs", "title": "[LIVE] ALOHA 2023-06-01 DB 09일차 - 오전" },
+        { "id": "g8wML0dOlgk", "title": "[LIVE] ALOHA 2023-06-01 DB 09일차 - 오후" },
+        { "id": "ppDGN7C6FQA", "title": "[LIVE] ALOHA 2023-06-02 REVIEW 오후" },
+        { "id": "t9A3xm_24L0", "title": "[LIVE] ALOHA 2023-06-02 REVIEW" }
+      ]
+    }
   ]
 }
 

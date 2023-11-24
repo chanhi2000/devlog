@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "MaterialDesign",
+    "name": "Material Design",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb8fS7BDFMWSUJZnuTwMGwakmyOLXxLJ-cfkyPr=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dGwUnYWSqdvuNVEKYWetK7e6RJJhry7mOQyOrV5veTlbQve2JbHeBCFJyHCyQuiJ3bWm0-zmTA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NOfW1-ijKe4", "title": "Building apps with Relay, Figma, and Jetpack Compose" },
+    { "id": "7alO6TQDWQQ", "title": "Converting an existing app screen to Jetpack Compose (Part 1) - Material Live" }
+  ]
+}

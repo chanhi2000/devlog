@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "TechwithNana",
+    "name": "Tech with Nana | Latest Tutorials",
+    "profile": "https://yt3.googleusercontent.com/YgSr6eLhYGmyuM2OkD7qLYfJQG5hRXMyt8JT2Ff6GgjLa5L3PKxqpIaq9vGLeOTpF1EIQfGuEA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eJAO_TWDwQ1OMA05B6qlxGrUterYyVThEyqQR9Cxxmks8gEuZJk6I9nlpcEkHJVQebUn0UuKDw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {
+      "title": "Latest Tutorials | Full Training Course | Free Online Tutorial Videos",
+      "videos": [
+        { "id": "FERW_ohCxTE", "title": "What is GitOps? How GitOps works? | GitOps Tutorial | Tech with Nana" },
+        { "id": "J-_pr9MF8Io", "title": "What is Rest API? Rest API Explained with Examples | Rest API Tutorial for Beginners" },
+        { "id": "xKQfi4FsPto", "title": "What is ChatGPT 🔥🔥 ChatGPT Explained 🚀 Everything You Must Know" },
+        { "id": "xlb81ZKE2jI", "title": "Best Alternatives for ChatGPT 2023 🔥🔥" },
+        { "id": "gqiX7CgeztU", "title": "Dark Side of ChatGPT - Unknown Truth 🔥🔥" },
+        { "id": "V4Cbu4Y8Fc8", "title": "Is ChatGPT dying against other AI? 🔥🔥" },
+        { "id": "KoWtKDJC5qg", "title": "How to Use ChatGPT to Make Money? 🔥🔥" },
+        { "id": "kJwnlkUWK5k", "title": "🔥🔥 Can we Really Make Money using ChatGPT? 🚀🚀" },
+        { "id": "v7Ds_yysQAQ", "title": "Top 10 Best Things about ChatGPT 🔥🔥" },
+        { "id": "MysQ8AjxnwY", "title": "5 Best Ways to Make Money using ChatGPT 🔥🔥" },
+        { "id": "aIVNYF47ik8", "title": "Google Bard vs ChatGPT - A Detailed Comparison 🔥🔥" },
+        { "id": "YO5ilGSB5Fw", "title": "Artificial Intelligence helps Farmers in Real Life 🔥🔥" }
+      ]
+    }
+  ]
+}

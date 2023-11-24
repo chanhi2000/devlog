@@ -7,5 +7,19 @@
   },
   "videos": [
     { "id": "UjuLDdnp_VM", "title": "Create a Website Intro with ReactJS + GSAP in 10 Minutes" }
+  ],
+  "playlists": [
+    {
+      "title": "Intermediate Python",
+      "videos": [
+        { "id": "fPBeM9KeMEE", "title": "Intermediate Python - Object Oriented Programming" },
+        { "id": "WjzgP9gDs08", "title": "Intermediate Python - Unpacking, args + kwargs" },
+        { "id": "PW1QxJm0ne8", "title": "Intermediate Python - Decorators" },
+        { "id": "BWQe-gaiHY8", "title": "Intermediate Python - Generators" },
+        { "id": "KSMiO3CutFU", "title": "Intermediate Python - Lambda Functions & Map, Filter, Reduce" },
+        { "id": "OowebjUN2Vk", "title": "Intermediate Python - Dataclasses" },
+        { "id": "Cb6TvN-_7HA", "title": "Intermediate Python - Class and Static Methods" }
+      ]
+    }
   ]
 }

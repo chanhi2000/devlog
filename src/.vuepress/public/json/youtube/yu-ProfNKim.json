@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "ProfNKim",
+    "name": "국민대학교 김남규 교수",
+    "profile": "https://yt3.googleusercontent.com/nJac-xgzywsQe9DdeKNrdNnX14j3TeNS_ZBv3bCQ5PnkbxbjsaMJxyyGtJg1AR92-Z-WaBzgrw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6WHxmFP44gUvc_bIwLaDb2jQ7fJr0Jkcu0snZoB76m-auJm5-xqucnsxnsQzg_D13ckkXOzzFCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "20_데이터베이스입문",
+      "videos": [
+        { "id": "K4jiTvSIfB4", "title": "DB_Part1_Conceptual Data Modeling" },
+        { "id": "T9UFLT7_MhY", "title": "DB_Part2_Logical Data Modeling" },
+        { "id": "xZ6xgbjXz-0", "title": "DB_Part3_Table" },
+        { "id": "Rso7-SPlynk", "title": "DB-Part4-Query" },
+        { "id": "g5m6EM20JjI", "title": "DB-Part5-Form" },
+        { "id": "tum6OR-sYRM", "title": "DB-Part6-Macro" },
+        { "id": "IVWYV4IPys8", "title": "DB-Part7-Mini Project" },
+        { "id": "BsafHYuidEg", "title": "2022_Term Best_놀이기구 예약 시스템" },
+        { "id": "3DpsTBh6lZs", "title": "2022_Term Best_번개모임 중개 서비스" }
+      ]
+    }, {
+      "title": "10_데이터베이스실무",
+      "videos": [
+        { "id": "u0z_lNd3bjg", "title": "(DB실무) Part0-Precourse-Conceptual Data Modeling" },
+        { "id": "59BFOn9zyCQ", "title": "(DB실무) Part0-Precourse-Logical Data Modeling" },
+        { "id": "NDlKL8u0_-E", "title": "(DB실무) Part1-Environment Setting" },
+        { "id": "TThEOiEbok0", "title": "(DB실무) Part2-데이터 모델링의 이해" },
+        { "id": "iAf9zQjW1NM", "title": "(DB실무) Part3-데이터 모델과 성능" },
+        { "id": "70KY1_DblZQ", "title": "(DB실무) Part4-SQL 기본 및 활용-1.Basic DML" },
+        { "id": "Cv6256AkFU8", "title": "(DB실무) Part4-SQL 기본 및 활용-2.DDL" },
+        { "id": "IFqbznohZSw", "title": "(DB실무) Part4-SQL 기본 및 활용-3.Function" },
+        { "id": "DdoLuLnRbwc", "title": "(DB실무) Part4-SQL 기본 및 활용-4 TCL & DCL" },
+        { "id": "NsQU8xpMKHM", "title": "(DB실무) Part4-SQL 기본 및 활용-5.Join & Set Operation" },
+        { "id": "kP9kIvnSb5U", "title": "(DB실무) Part4-SQL 기본 및 활용-6.Subquery" },
+        { "id": "smMCZAx1zw4", "title": "(DB실무) Part4-SQL 기본 및 활용-7.Multi-Row Function" },
+        { "id": "BenQo-aeKeg", "title": "(DB실무) Part4-SQL 기본 및 활용-8.PL_SQL" },
+        { "id": "wqqvd23mXzM", "title": "(DB실무) Part5-SQL 최적화 기본" },
+        { "id": "Izz_MnvJUFs", "title": "2020_DB실무_북악스터디(대상_DB의 숲)" },
+        { "id": "jSnEQnfFiSQ", "title": "2021_DB실무_북악스터디(대상_DBDB Deep)" },
+        { "id": "cGouj-doITM", "title": "2021_DB실무_북악스터디(대상_SQL 워너비)" }
+      ]
+    }
+  ]
+}
+

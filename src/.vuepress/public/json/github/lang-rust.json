@@ -819,5 +819,20 @@
     "desc": "Raster to Vector Graphics Converter",
     "officialSite": "https://www.visioncortex.org/vtracer/",
     "topics": ["image-procesing", "rust", "svg"]
+  }, {
+    "repo": "BurntSushi/ripgrep",
+    "desc": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "officialSite": "",
+    "topics": ["cli", "command-line", "command-line-tool", "gitignore", "grep", "recursively-search", "regex", "ripgrep", "rust", "search"]
+  }, {
+    "repo": "fish-shell/fish-shell",
+    "desc": "The user-friendly command line shell.",
+    "officialSite": "https://fishshell.com",
+    "topics": ["fish", "shell", "terminal"]
+  }, {
+    "repo": "bitswired/rustgpt",
+    "desc": "RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚",
+    "officialSite": "",
+    "topics": []
   }
 ]

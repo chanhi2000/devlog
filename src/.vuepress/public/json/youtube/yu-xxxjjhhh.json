@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "t-TsjyBmHcQ", "title": "스프링 시큐리티 9 : 세션 사용자 아이디 정보" },
     { "id": "dIFq8Fbmx0w", "title": "스프링 시큐리티 6 : DB 연결" }, 
     { "id": "B03OoUVgVIA", "title": "스프링 시큐리티 5 : BCrypt 암호화 메소드" }, 
     { "id": "eEkV0zir9mQ", "title": "스프링 시큐리티 4 : 커스텀 로그인 설정" }, 

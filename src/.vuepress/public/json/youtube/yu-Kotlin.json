@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bz4cQeaXmsI", "title": "The State of Kotlin Multiplatform" },
     { "id": "1BzdLtgZHcI", "title": "http4k Chronicles | Talking Kotlin #126" },
     { "id": "ahTXElHrV0c", "title": "Headache-Free Reactive Programming With Spring Boot and Kotlin Coroutines" },
     { "id": "ypWnP-oLehw", "title": "KMPizza with Lena Stepanova | ATOM Podcast" }, 

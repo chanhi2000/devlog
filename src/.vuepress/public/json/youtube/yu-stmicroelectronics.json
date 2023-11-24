@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "stmicroelectronics",
+    "name": "STMicroelectronics",
+    "profile": "https://yt3.googleusercontent.com/TU5x7c6XpVksmV-grAjcunyNAaD83HLHv-wS6OVRjDwQc3xzn8SQZNgw3n9U-HxmDe7RNAi41w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iJRVCnGk6kSQJ4Z8MHTj3qSJ4lAm3r1grFFGSTXz2O2zK1QTJ6yabODmQQJAeDWdETnbBoWdkZc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "svbT6e0T5_A", "title": "SensorTile.Box : Basic Mode" },
+    { "id": "VfychivKdTs", "title": "TouchGFX 4.12 Release" },
+    { "id": "DiFxu4gCtPI", "title": "ST25 NFC Type 5 augmented user experience" }
+  ]
+}

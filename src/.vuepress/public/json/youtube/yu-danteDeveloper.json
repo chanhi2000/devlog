@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/niWp9bo485G9J1j5R7UPGkdYoaCqRomRdj-Q4oIzvbBjVxZZXCAky8bAMTQXakFksfnqkMtTMeI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "k396k_vP2L4", "title": "Vue3 Vuex (변환 마무리)" },
     { "id": "9Qj0IVgeW7c", "title": "Vue3 ref computed setup 함수 작성법" },
     { "id": "1ZQdU-NvDOQ", "title": "Props, Vue3에서 사라진 life-cycle 함수들, script setup 태그" },
     { "id": "kk6VY45hgas", "title": "useSyncExternalStore을 친절하게 알려주는 유튜버가 있다고?" }, 

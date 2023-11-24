@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/m_WGEq8pBawVi71mEKiFbnOjbkvzyWguNpcAbss54NenWDivjpbbqREAlyoRNONKNBk6QlS87A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6yqN8ntNci4", "title": "TypeScript Crash Course #8 - Tuples" },
     { "id": "1c2GT38mBOk", "title": "CSS Cascade Layers Tutorial #3 - Layer Priority" }, 
     { "id": "FdFaDKP4vWg", "title": "TypeScript Crash Course #2 - Installing & Compiling" },
     { "id": "VGu1vDAWNTg", "title": "TypeScript Crash Course #1 - The Benefits of TypeScript" },

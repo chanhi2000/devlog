@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "zaQ6jb3_xMY", "title": "MVC in .NET 8 | Use Tag Helpers to create navigation Links | Ep 14" },
+    { "id": "X0FvHfqat6A", "title": "MVC in .NET 8 | Undersatnd the _ViewImports file | Ep 15" },
+    { "id": "8ErUCsPslHw", "title": "MVC in .NET 8 | Understand Model Binding in HttpGet action method | Ep 16" },
     { "id": "Her_blTJiPA", "title": "MVC in .NET 8 | Use Static Repository for Data Storage | Ep 12" },
     { "id": "KnwT4shy3K8", "title": "MVC in .NET 8 | Use Controller-Model-View triangle to implement a page | Ep 13" },
     { "id": "bYcMZOqtPcs", "title": "MVC in .NET 8 | Handle Requests with Controllers | Ep 5" },

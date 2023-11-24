@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/CJ3jXN8bFt7hqwXZky40MPIkiX71MNlHFB84Vb4Ld54b7FNb3JZ-hY-iwMCCEQ3z_MGjRNAKpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "p_BTmw0HRqo", "title": "Declaring a Function: Kotlin vs Swift" },
     { "id": "-7jEFKlzGy0", "title": "Build Kotlin Multi-platform Mobile Apps for iOS and Android - Online Course" },
     { "id": "bJaN7_rj9nE", "title": "Declaring Variables in Kotlin vs Swift" }, 
     { "id": "Oy0oXwv3kSc", "title": "The Ultimate Guide to Android Splash Screen Animations - Splash API" },

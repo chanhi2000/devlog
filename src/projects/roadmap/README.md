@@ -58,7 +58,7 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 - C. 노트정리
   - C1. `/crashcourse/devops-linux-journey` 정리
   - C2. `/crashcourse/cli-mastering-curl-interactive-text-guide` 정리
-  - C3. `/crashcourse/devops-freecodcamp-gitlab-ci` 정리
+  - C3. `/crashcourse/devops-freecodecamp-gitlab-ci` 정리
   - C4. `/g4e/lang-pwsh/scripts-*` 정리
   - C5. `/crashcourse/cli-text-processing-w-gnu-awk` 정리
  

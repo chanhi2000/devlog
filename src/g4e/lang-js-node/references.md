@@ -589,6 +589,11 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Spencer Mortensen
+
+- [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation)
+
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

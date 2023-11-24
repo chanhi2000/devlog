@@ -91,6 +91,14 @@ color: rbga(20,20,20,0.2)
 ```
 
 ```card
+title: 해시넷
+desc: 대한민국 블록체인 및 암호화폐 정보포털
+link: http://wiki.hash.kr
+logo: http://www.hash.kr/images/main/logo_big.png
+color: rbga(20,20,20,0.2)
+```
+
+```card
 title: 머니플뉴스
 desc: AI가 대신 읽어주는 뉴스
 link: https://newsgpt.web.app

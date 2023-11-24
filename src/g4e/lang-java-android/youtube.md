@@ -55,5 +55,6 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 <MyYouTubeItems jsonName="yu-fereratlus8705"/><!-- Ferer Atlus -->
 <MyYouTubeItems jsonName="yu-ahmed_guedmioui" /><!-- Ahmed Guedmioui -->
 <MyYouTubeItems jsonName="yu-DroidKnights" /><!-- DroidKnights -->
-
+<MyYouTubeItems jsonName="yu-android_devs_academy" /><!-- Android Devs Academy -->
+    
 <TagLinks />

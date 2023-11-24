@@ -3305,9 +3305,9 @@
     "topics": []
   }, {
     "repo": "run-llama/rags",
-    "desc": "",
+    "desc": "Build ChatGPT over your data, all with natural language",
     "officialSite": "",
-    "topics": []
+    "topics": ["agent", "chatbot", "chatgpt", "gpts", "llamaindex", "llm", "openai", "rag", "streamlit"]
   }, {
     "repo": "flowtyone/flowty-realtime-lcm-canvas",
     "desc": "A realtime sketch to image demo using LCM and the gradio library. ",
@@ -3323,5 +3323,20 @@
     "desc": "Multiversal tree writing interface for human-AI collaboration",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Frost-group/The-Oracle-of-Zotero",
+    "desc": "LLM Chain querying a scientific Zotero library, with citations",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mystery-o-matic/mystery-o-matic.github.io",
+    "desc": "A daily murder mystery to solve in less than 5 mintes!",
+    "officialSite": "https://mystery-o-matic.com",
+    "topics": ["fuzzing", "html5", "murder-mystery", "telegram-bot"]
+  }, {
+    "repo": "kagisearch/vectordb",
+    "desc": "A minimal Python package for storing and retrieving text using chunking, embeddings, and vector search.",
+    "officialSite": "https://vectordb.com",
+    "topics": ["ai", "artificial-intelligence", "llm", "llms", "machine-learning"]
   }
 ]

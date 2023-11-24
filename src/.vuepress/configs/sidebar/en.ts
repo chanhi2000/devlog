@@ -847,6 +847,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/65.md',
         '/crashcourse/swift-100-days-of-swift/66.md',
         '/crashcourse/swift-100-days-of-swift/67.md',
+        '/crashcourse/swift-100-days-of-swift/68.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -908,6 +909,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/53.md',
         '/crashcourse/swift-100-days-of-swiftui/54.md',
         '/crashcourse/swift-100-days-of-swiftui/55.md',
+        '/crashcourse/swift-100-days-of-swiftui/56.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -987,6 +989,12 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/02C.md',
         '/crashcourse/java-jump-to-spring-boot/02D.md',
         '/crashcourse/java-jump-to-spring-boot/02E.md',
+        '/crashcourse/java-jump-to-spring-boot/02F.md',
+        '/crashcourse/java-jump-to-spring-boot/02G.md',
+        '/crashcourse/java-jump-to-spring-boot/02H.md',
+        '/crashcourse/java-jump-to-spring-boot/02I.md',
+        '/crashcourse/java-jump-to-spring-boot/02J.md',
+        '/crashcourse/java-jump-to-spring-boot/02K.md',
         '/crashcourse/java-jump-to-spring-boot/03.md',
         '/crashcourse/java-jump-to-spring-boot/03A.md',
         '/crashcourse/java-jump-to-spring-boot/03B.md',
@@ -1000,6 +1008,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/03J.md',
         '/crashcourse/java-jump-to-spring-boot/03K.md',
         '/crashcourse/java-jump-to-spring-boot/03L.md',
+        '/crashcourse/java-jump-to-spring-boot/03M.md',
+        '/crashcourse/java-jump-to-spring-boot/03N.md',
         '/crashcourse/java-jump-to-spring-boot/04.md',
         '/crashcourse/java-jump-to-spring-boot/a.md',
       ]
@@ -1063,12 +1073,12 @@ export const sidebarEn: SidebarConfig = {
       text: '🦊freecodecamp.org - DevOps with GitLab CI',
       collapsible: true,
       children: [
-        '/crashcourse/devops-freecodcamp-gitlab-ci/README.md',
-        '/crashcourse/devops-freecodcamp-gitlab-ci/1.md',
-        '/crashcourse/devops-freecodcamp-gitlab-ci/2.md',
-        '/crashcourse/devops-freecodcamp-gitlab-ci/3.md',
-        '/crashcourse/devops-freecodcamp-gitlab-ci/4.md',
-        '/crashcourse/devops-freecodcamp-gitlab-ci/5.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/README.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/1.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/2.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/3.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/4.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/5.md',
       ]
     }, {
       text: '🎨Colt Steele - Mastering CSS Grid',

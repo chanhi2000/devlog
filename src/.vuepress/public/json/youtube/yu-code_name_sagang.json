@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "code_name_sagang",
+    "name": "사강코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbAmfp4eXVqnQMux9ecBa15gWPlK4K1WAyRRgWDAYnNTA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "8bA3UfRHUXM", "title": "프론트, 개념, CSS, inline 요소에는 width, height, padding, margin이 작동하지 않는다" }
+  ]
+}

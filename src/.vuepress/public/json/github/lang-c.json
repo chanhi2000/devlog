@@ -564,5 +564,15 @@
     "desc": "The PHP Interpreter",
     "officialSite": "https://www.php.net",
     "topics": []
+  }, {
+    "repo": "antirez/botlib",
+    "desc": "C Telegram bot framework",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "fontforge/fontforge",
+    "desc": "Free (libre) font editor for Windows, Mac OS X and GNU+Linux",
+    "officialSite": "http://fontforge.github.io/",
+    "topics": []
   }
 ]

@@ -361,9 +361,9 @@
     "topics": []
   }, {
     "repo": "StarRocks/starrocks",
-    "desc": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
+    "desc": "StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  InfoWorld’s 2023 BOSSIE Award for best open source software.",
     "officialSite": "https://starrocks.io",
-    "topics": ["sql", "database", "big-data", "analytics", "data-analytics", "olap", "join", "distributed-database", "realtime-database", "mpp", "iceberg", "real-time-analytics", "datalake", "vectorized", "real-time-updates", "star-schema", "hudi", "delta-lake", "lakehouse", "lakehouse-platform"]
+    "topics": ["analytics", "big-data", "cloudnative", "database", "datalake", "delta-lake", "distributed-database", "hudi", "iceberg", "join", "lakehouse", "lakehouse-platform", "mpp", "olap", "real-time-analytics", "real-time-updates", "realtime-database", "sql", "star-schema", "vectorized"]
   }, {
     "repo": "nextflow-io/nextflow",
     "desc": "A DSL for data-driven computational pipelines",
@@ -499,6 +499,11 @@
     "desc": "SirixDB is an embeddable, temporal, evolutionary database system, which uses an append-only approach to store immutable revisions. It keeps the full history of each resource. Every commit stores a space-efficient snapshot through structural sharing. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach.",
     "officialSite": "https://sirix.io",
     "topics": ["comparison", "coroutines", "diff", "diff-algorithm", "diffing", "hacktoberfest", "hashing", "java", "json", "jsoniq", "keycloak", "kotlin", "snapshot", "ssd", "storage", "temporal-data", "versioning", "vertx", "xml", "xquery"]
+  }, {
+    "repo": "CatVodTVOfficial/TVBoxOSC",
+    "desc": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

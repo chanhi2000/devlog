@@ -41,5 +41,6 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 <MyYouTubeItems jsonName="yu-DevOpsMadeEasy" /><!-- DevOps Made Easy -->
 <MyYouTubeItems jsonName="yu-k8s.1pro" /><!-- 1pro -->
 <MyYouTubeItems jsonName="yu-ktzsystems" /><!-- KTZ Systems -->
+<MyYouTubeItems jsonName="yu-tabae-learn4274" /><!-- TTABAE-LEARN -->
 
 <TagLinks />

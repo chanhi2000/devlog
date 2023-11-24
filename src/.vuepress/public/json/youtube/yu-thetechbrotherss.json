@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "thetechbrotherss",
+    "name": "The Tech Brothers",
+    "profile": "https://yt3.googleusercontent.com/2cAXCgQtfx9jxbtoVRcRBMzyNqSgayLy0AFd5UkeFVkQrjNj5J7C9aQkziS7bnG0c6c4xkNlxA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NjvnLlpS-1GO34_8vPqKdDRdNJSmU59L7NuA7GYRoQhhdbM9Buup8zs6I023DOJQz6y2VNIz=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zLgYRBu4OyE", "title": "Flutter || Node || Freelancing || Debugging || Q&A" }
+  ]
+}

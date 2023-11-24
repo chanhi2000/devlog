@@ -107,12 +107,7 @@ description: 🛠️Git > 📚References
 ## Julia Evans
 
 - [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-)
-
----
-
-## Julia Evans
-
 - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology)
-
+- [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality)
 
 <TagLinks />
