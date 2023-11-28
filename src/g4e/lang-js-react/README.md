@@ -11,7 +11,7 @@ tags: ["js" , "node" , "nodejs", "react", "reactjs", "reactnative", "facebook"]
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-<ShieldsGroup logos="visualstudiocode,npm,pnpm,bun,yarn,nodedotjs,javascript,typescript,react,createreactapp,reactrouter,reactquery"/>
+<ShieldsGroup logos="visualstudiocode,npm,pnpm,bun,yarn,nodedotjs,javascript,typescript,react,createreactapp,reactrouter,reactquery,nextdotjs"/>
 
 ---
 

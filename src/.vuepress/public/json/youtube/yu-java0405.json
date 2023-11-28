@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/nYBM4tFv0FucvhrpQPedLqqK-VabAD9T3p0aLzwZchtwSVMKwyXP77Un7hQs1AbiEVEVHARWVss=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PsIffKxC85A", "title": "23년 스프링 (58) 상품 등록 및 이미지 등록 확인하기" },
+    { "id": "sPPaeV6LWAo", "title": "23년 스프링 (57) ItemForm 저장하기" },
+    { "id": "qUCZ0Xz2Aag", "title": "23년 스프링 (56) ItemImg, Item 저장하기" },
+    { "id": "_B_hg1XkBA8", "title": "23년 스프링 (55) 파일 삭제 하기" },
+    { "id": "UdcZhZCIGzI", "title": "23년 스프링 (54) 파일 저장 하기" },
     { "id": "qq0C8TS_0MQ", "title": "23년 스프링 (53) 파일 처리를 위한 설정" },
     { "id": "6ZG5d96K9Eo", "title": "23년 스프링 (52) 상품 등록 페이지 만들기" },
     { "id": "-J4NCeqg9oE", "title": "23년 스프링 (51) ModelMapper 사용하기" },

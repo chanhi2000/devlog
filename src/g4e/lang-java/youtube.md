@@ -115,5 +115,6 @@ meta:
 <MyYouTubeItems jsonName="yu-user-kp6ez9ty9p" /><!-- 최현웅 -->
 <MyYouTubeItems jsonName="yu-Techtter" /><!-- Techtter -->
 <MyYouTubeItems jsonName="yu-ithotgi" /><!-- IT핥기 -->
+<MyYouTubeItems jsonName="yu-user-ht2jq8bg9b" /><!-- 이숭무 -->
 
 <TagLinks />

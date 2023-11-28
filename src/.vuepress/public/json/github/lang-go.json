@@ -1034,5 +1034,10 @@
     "desc": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
     "officialSite": "",
     "topics": ["bypass", "cors", "cors-proxy", "paywall", "paywall-blocker", "paywall-bypasser"]
+  }, {
+    "repo": "neurocult/agency",
+    "desc": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.",
+    "officialSite": "",
+    "topics": ["agents", "ai", "artificial-general-intelligence", "artificial-intelligence", "artificial-neural-networks", "autonomous-agents", "chatgpt", "generative-ai", "go", "golang", "gpt", "language-models", "llm", "llmops", "machine-learning", "neural-network", "nlp", "openai", "rag", "vector-database"]
   }
 ]

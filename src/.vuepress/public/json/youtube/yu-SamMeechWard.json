@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "SamMeechWard",
+    "name": "Sam Meech-Ward",
+    "profile": "https://yt3.googleusercontent.com/Hh0UJbsr0kqChpQmqcioVc00o15LQHWqnfrXZPTk2aJvtWrLftfNtcbe-HlVrc5G7LoBG42C=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0jdmhVphFVVdu0FB17jiNs1WN2-3Z8zqi5owR0P88GEOliEjMdT881hgLpTq9QnVX5SEWRVg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-JnEuvPmt-Q", "title": "Effortless Auth in Next.js 14: Use Auth.js & Drizzle ORM for Secure Login" },
+    { "id": "t-lhgq7Nfpc", "title": "Next-Level S3 File Management: The Ultimate Guide to Handling Files in Next.js 14" }
+  ]
+}

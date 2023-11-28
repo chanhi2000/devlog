@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/283rdxDBWTdC-86Rb3uvkVATmI94z9bbUpxUmuB6HM0wFVZMVGgQlbNpaxBtdNyGOtMFMJiZ5Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EV2nN5ZHNrs", "title": "[Solutions Showcase] Java 유료화와 성능 고민! Azul로 한 방에 해결하세요." },
     { "id": "WHqev4BHYEI", "title": "[네이버클라우드 금융 컨퍼런스 2023] 생성형 AI 금융권 적용을 위한 제언 (네이버클라우드 한지연 리더)" },
     { "id": "tlEX91LvLC0", "title": "[네이버클라우드 금융 컨퍼런스 2023] CLOVA Studio를 활용한 금융권 특화 LLM 만들기 (네이버클라우드 허창현 리더)" },
     { "id": "4NsRF64b_EQ", "title": "[네이버클라우드 금융 컨퍼런스 2023] 금융권 AI 적용을 위한 보안 컴플라이언스 (금융보안원 박진석 디지털전략본부장)" },

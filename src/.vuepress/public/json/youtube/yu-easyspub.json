@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/rniEA2SFFwvD9stOinwu9ifAebPni877LzQZbdCp0vdqNrp_EemICO33diiuK6CxWDDhBQVc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YSGb-DX32ag", "title": "19 CRUD코드 작성하기 | Do it! Node.js 프로그래밍 입문" },
+    { "id": "rKkE0o7JbvY", "title": "18강 컨트롤러 만들기 | Do it! Node.js 프로그래밍 입문" },
+    { "id": "32-ObOZkRe4", "title": "17강 스키마와 모델 | Do it! Node.js 프로그래밍 입문" },
+    { "id": "jdvxPa0VVHI", "title": "16강 몽고DB 사용하기 | Do it! Node.js 프로그래밍 입문" },
+    { "id": "iFN5zKuvTK4", "title": "15강 몽고DB 설정하기 | Do it! Node.js 프로그래밍 입문" },
     { "id": "dU-tA9354CI", "title": "06강 노드의 모듈 | Do it! Node.js 프로그래밍 입문" },
     { "id": "P_eRpwR15-o", "title": "[Do it! SQL 입문] 06장 내 맘대로 주식 데이터 분석하기" },
     { "id": "5jIEQm-TJ3s", "title": "[Do it! SQL 입문] 7장 국가 통계 데이터 분석하기" },

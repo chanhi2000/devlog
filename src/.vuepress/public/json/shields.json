@@ -71,6 +71,7 @@
   { "logo": "mysql", "name": "MySQL", "colorHex": "4479A1" },
   { "logo": "naver", "name": "Naver", "colorHex": "03C75A" },
   { "logo": "neovim", "name": "Neovim", "colorHex": "57A143" }, 
+  { "logo": "nextdotjs", "name": "Next.js", "colorHex": "000000" }, 
   { "logo": "nginx", "name": "NGINX", "colorHex": "009639" }, 
   { "logo": "nodedotjs", "name": "Node.js", "colorHex": "339933" }, 
   { "logo": "notion", "name": "Notion", "colorHex": "000000" }, 

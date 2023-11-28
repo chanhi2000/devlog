@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ijPph39FY4Q", "title": "ElixirConf 2023 - Razvan Draghici - Managing a massive amount of distributed Elixir nodes" },
+    { "id": "2DlSaszKa_s", "title": "ElixirConf 2023 - Kimberly Erni - Scaling Up Travel with Elixir" },
     { "id": "gtCJ56GxKf0", "title": "ElixirConf 2023 - Jeffery Utter - Scaling Teams with Kafka on the BEAM" }, 
     { "id": "P44hFAhKPao", "title": "ElixirConf 2023 - Tyler Young - Rebuilding the Plane While It’s Still Flying" },
     { "id": "owz2QacFuoQ", "title": "ElixirConf 2023 - Wojtek Mach - Req - a batteries-included HTTP client for Elixir" },

@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "CUb9vZst74c", "title": "04_리눅스 서비스 운영 방식" },
+    { "id": "-7L8KJx0TIY", "title": "03_원격접속&파일 전송" },
+    { "id": "DJ4ImufX4Eo", "title": "06_NFS 서버" },
+    { "id": "kymMaLZW2TA", "title": "05_FTP 서버" },
+    { "id": "Zgil_E8A0NI", "title": "07_SAMBA 서버" },
+    { "id": "IZSkL8oQjFQ", "title": "08_Apache 웹 서버 I" },
     { "id": "hCwCULgiutA", "title": "02_리눅스 네트워크" },
     { "id": "YGebqgNhzuk", "title": "01_리눅스 설치" },
     { "id": "rR_fcU60UIk", "title": "12_EVE를 이용한 HSRP(Router) 실습-1" }, 

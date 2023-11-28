@@ -21,6 +21,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## Stackoverflow
+
+- [How are zlib, gzip and zip related? What do they have in common and how are they different?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
+
+---
+
 ## nixCraft
 
 - [Route 53 Let’s Encrypt wildcard certificate with `acme.sh`](https://www.cyberciti.biz/faq/route-53-lets-encrypt-wildcard-certificate-with-acme-sh/)

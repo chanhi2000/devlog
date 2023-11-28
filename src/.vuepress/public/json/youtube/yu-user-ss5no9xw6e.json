@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/KrXOwznWJPljgHTD00XnH0midQlbxbiVrtCDj2sCeoA9OG0w8ELFxnlN48wXCQXxYt15kd2ijg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JBtdc5J3PEA", "title": "20 인덱스(Index) - MySQL 제대로 끝내기" },
     { "id": "XnoovHMlbok", "title": "19 뷰(View) - MySQL 제대로 끝내기" },
     { "id": "S9ILVHc57gU", "title": "18 테이블 생성, 수정, 삭제 - MySQL 제대로 끝내기" },
     { "id": "rOb6D_06s4o", "title": "16 서브 쿼리 - MySQL 제대로 끝내기" }, 

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KPg0Ehtr1LM", "title": "Procreate Dreams in the Bevy game engine" },
     { "id": "Ciuhriopc00", "title": "Rust Release Train 1.74" },
     { "id": "DYMVYsNPO1o", "title": "Leptos 0.5: No More Scope!" },
     { "id": "dZQMoEWe5uY", "title": "Why is the JavaScript ecosystem switching to Rust?" },
@@ -21,4 +22,3 @@
     { "id": "omUP1nKsV-I", "title": "What technology you focus on matters" } 
   ]
 }
-

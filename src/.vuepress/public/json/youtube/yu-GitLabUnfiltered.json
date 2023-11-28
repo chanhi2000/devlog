@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4YVWBU2U_O4", "title": "BE Pairing - 2023-11-22 -  Contributing to rubocop-rspec" },
     { "id": "jt8McsHfRn0", "title": "Reaching Package Metadata buckets over gitlab-package-metada.com" },
     { "id": "g9HSPV3GKas", "title": "GitLab Flow demo" },
     { "id": "GWtQXWXSljE", "title": "GitLab 16.7 Kickoff - Verify: Runner SaaS - Improved macOS image release pipeline & CI Steps MVC" },

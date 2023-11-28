@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/R9bkBrgOOjdTzIgLHdqiBplVkeD-bb6o0d8VJ15GoA1emrNGyoZ61LbHTxefpDjZqrqxQ1JJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kb9nmCr0vLE", "title": "🔧 쉽게 브랜치 사용하기 @GitLens" },
+    { "id": "056UxxR0oI8", "title": "🔧 VS Code와 Git branch; merge냐, rebase냐, ... 이슈네요." },
+    { "id": "AUKRElkeWUA", "title": "🔧 VS Code + AI = Cursor.sh" },
+    { "id": "AiySUcHT14E", "title": "✏️ 오픈 소스 코드 읽기" },
+    { "id": "zUFm0hdVKB4", "title": "🔧  Conflict 코드 충돌 해결하기" },
+    { "id": "J59zOyJ1XXM", "title": "🧹 클린 코드; 읽기 편한 코드 ✅" },
     { "id": "5tULIr8uWMI", "title": "🚀 Jenkins + Gmail 알림 설정 외 1" },
     { "id": "w-NuPyyNaNU", "title": "🌱 Spring Boot 3 시작하기" },
     { "id": "r1dxuXLdW4s", "title": "🚀 Jenkins + GitHub webhook 설정" },

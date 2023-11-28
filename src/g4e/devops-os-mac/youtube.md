@@ -40,5 +40,6 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 <MyYouTubeItems jsonName="yu-dmug" /><!-- Definitive Mac Upgrade Guide -->
 <MyYouTubeItems jsonName="yu-BartechTV" /><!-- Bartech TV -->
 <MyYouTubeItems jsonName="yu-TechHut" /><!-- TechHut -->
+<MyYouTubeItems jsonName="yu-RetroGameCorps" /><!-- Retro Game Corps -->
 
 <TagLinks />

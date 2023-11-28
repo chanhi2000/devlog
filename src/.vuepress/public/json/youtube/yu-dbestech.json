@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PX1ROW4t560", "title": "Run PHP Website in Terminal" },
+    { "id": "3FqdFQVbHaM", "title": "Delivery Boy App" },
+    { "id": "P-9nf9-eaKU", "title": "Riverpod Clean Architecture (preview)" },
     { "id": "Y-ZCSMNwcWc", "title": "Flutter Pass Data Back to Previous Screen GetX | Get.back()" },
     { "id": "QJRzLNzQ1w4", "title": "Mysql Workbench Export Database" },
     { "id": "9IxxQduBk3E", "title": "Flutter Pass Function As a Parameter and Receive Value" },

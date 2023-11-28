@@ -1779,7 +1779,7 @@ color: rgba(135, 99, 210, 0.2)
 ```card
 title: Protocol-Oriented Programming Tutorial in Swift 5.1 - Getting Started
 desc: In this protocol-oriented programming tutorial, you’ll learn about extensions, default implementations and other techniques to add abstraction to your code. 
-link: https://www.kodeco.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started
+link: 6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-language-ios-c8cae19f3d83ea7062fbae593cd0bb3c096e9788cad03bb69b11c1e042a6bb47.svg
 color: rgba(135, 99, 210, 0.2)
 ```

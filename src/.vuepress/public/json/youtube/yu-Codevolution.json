@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/RFyvcT19qPmSmKhAJvRY0bHld3w0fa_JalyHOKKpmlCGsEpWXi3ZQKJUB4qmcAB0K4j0vmvme9A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7jBHW98vNjw", "title": "Next.js 14 Tutorial - 21 - Navigating Programmatically" },
+    { "id": "7xVWvL-37EE", "title": "Next.js 14 Tutorial - 22 - Templates" },
     { "id": "Tpo5wBuk3po", "title": "Next.js 14 Tutorial - 13 - Route Groups" },
     { "id": "FWlUf4FEQ1M", "title": "Next.js 14 Routing - 15 - Nested Layouts" },
     { "id": "V5GKwuzKQV0", "title": "Next.js 14 Tutorial - 16 - Route Group Layout" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/9xYDQn58La23vJl4x_svJZCzmc7u_3Q8swghUo7Bf7Pl2HJ12kG41GR2cYrQ_SCzS3BPMjKpWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ej7xZ9uO2Xw", "title": "Web scraping in python using browser developer tools to uncover hidden private API #python" },
+    { "id": "S-xWJrP24ac", "title": "Data Analytics Project End to End: Complete Walkthrough Python Code Refactor ChatGPT API Episode 3" },
     { "id": "7-oLHpEEK-c", "title": "Data Analytics Project End to End: Planning, Python API calling, data prep for ChatGPT API Episode 1" },
     { "id": "YA5PBfPGOBA", "title": "Data Analytics Project End to End: Integrating ChatGPT API in Python | Episode 2" },
     { "id": "mMgd9kQTJos", "title": "Python lists `.append` vs. `.extend` 🐍 Python ⏰ In 1 minute or less" }

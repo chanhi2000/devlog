@@ -45,5 +45,6 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <MyYouTubeItems jsonName="yu-rustau5950" /><!-- RustAU -->
 <MyYouTubeItems jsonName="yu-conf42" /><!-- Conf42 -->
 <MyYouTubeItems jsonName="yu-BrooksBuilds" /><!-- Brooks Builds -->
-    
+<MyYouTubeItems jsonName="yu-UtahRust" /><!-- Utah Rust -->
+
 <TagLinks />

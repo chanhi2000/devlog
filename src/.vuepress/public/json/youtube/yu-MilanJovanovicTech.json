@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0Kpo8jx6qxQ", "title": "Use This To Configure Your Database Schemas" },
+    { "id": "85YbMEb1qkQ", "title": "How to Implement the CQRS Pattern in Clean Architecture (from scratch)" },
+    { "id": "sOFXXQdev1U", "title": "C# 12 new feature: Default Lambda Parameters" },
     { "id": "PiNJ2CaC3Cw", "title": "What is the Shared Kernel in Domain-Driven Design?" },
     { "id": "KghL3FqIUs0", "title": "Cool Thing You Can Do With ASP.NET Core Controllers" },
     { "id": "3Ec-TS96xCE", "title": "C# Reflection basics: Activator.CreateInstance" },

@@ -1050,4 +1050,3 @@ I hope you enjoyed this whirlwind introduction to working with SQLite and Swift!
 <TagLinks />
 
 [download-material]: https://koenig-media.raywenderlich.com/uploads/2020/01/SQLite-With-Swift-Getting-Started.zip
-

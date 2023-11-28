@@ -848,6 +848,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/66.md',
         '/crashcourse/swift-100-days-of-swift/67.md',
         '/crashcourse/swift-100-days-of-swift/68.md',
+        '/crashcourse/swift-100-days-of-swift/69.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -926,6 +927,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-kodeco/6334294-my-app-crashed-now-what.md',
         '/crashcourse/swift-kodeco/6620276-sqlite-with-swift-tutorial-getting-started.md',
         '/crashcourse/swift-kodeco/6747815-uigesturerecognizer-tutorial-getting-started.md',
+        `/crashcourse/swift-kodeco/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started.md`
       ]
     }, {
       text: '🔺Red Hat Container Tools',
@@ -995,6 +997,11 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/02I.md',
         '/crashcourse/java-jump-to-spring-boot/02J.md',
         '/crashcourse/java-jump-to-spring-boot/02K.md',
+        '/crashcourse/java-jump-to-spring-boot/02L.md',
+        '/crashcourse/java-jump-to-spring-boot/02M.md',
+        '/crashcourse/java-jump-to-spring-boot/02N.md',
+        '/crashcourse/java-jump-to-spring-boot/02O.md',
+        '/crashcourse/java-jump-to-spring-boot/02P.md',
         '/crashcourse/java-jump-to-spring-boot/03.md',
         '/crashcourse/java-jump-to-spring-boot/03A.md',
         '/crashcourse/java-jump-to-spring-boot/03B.md',
@@ -1010,7 +1017,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/03L.md',
         '/crashcourse/java-jump-to-spring-boot/03M.md',
         '/crashcourse/java-jump-to-spring-boot/03N.md',
+        '/crashcourse/java-jump-to-spring-boot/03O.md',
         '/crashcourse/java-jump-to-spring-boot/04.md',
+        '/crashcourse/java-jump-to-spring-boot/04A.md',
         '/crashcourse/java-jump-to-spring-boot/a.md',
       ]
     }, {

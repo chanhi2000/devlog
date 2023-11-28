@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/yRhrt-VayTn-0MSFHZcfgSUYeGEthYenbjXt3rwjbHGzOs4XxNNYcWWhUQfQiRbCP5tvhqMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4dycfw1h3QY", "title": "Crafting a Jetpack Compose Login Screen: Exploring `Columns`, `Rows`, `TextFields`, and `Buttons`" },
+    { "id": "Dbow4wXCAZY", "title": "Setting Up Material3 Theme & Type-Safe Magic in Your Android App" },
+    { "id": "FruZcDVtl38", "title": "Building UI: TopAppBar, Common TextField, and Toast Function Essentials" },
+    { "id": "OfN_Imqu2bE", "title": "Perfect Code Every Time: Setting Up Spotless Plugin for Ultimate Android Project Formatting!" },
+    { "id": "Q2L2eau4URs", "title": "Building UI: App Modularization, Auth Module, Splash Screen, and Jetpack Compose Navigation" },
+    { "id": "vIpH1jfLZDk", "title": "Setting up Android Project: Gradle Version Catalogs, and Pro Tips for Common Config Across Modules" },
+    { "id": "HDK1h7RUjoU", "title": "The Ultimate Android App Creation Journey: Start Coding, Start Building" },
     { "id": "Mq5PVEmkZlQ",  "title": "Assisted Injection in ViewModel using Hilt" }, 
     { "id": "a7RvjJMAD3w",  "title": "kTor Android Client Tutorial - Performing Simple GET Request" }, 
     { "id": "rWPqjr1ZmQU",  "title": "Kotlin Delegating Properties Tutorial with Example" }, 

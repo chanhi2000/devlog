@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Kmw1pCsAqfM", "title": "[Probability]_08-1. Bayesian theorem_Bayesian vs. Frequentist" },
+    { "id": "7nyj0DvUluI", "title": "[Probability]_08-2-2. Bayes theorem_예제 시뮬레이션(파이썬)" },
+    { "id": "xdMor6957E0", "title": "[Probability]_08-2-1. Bayes theorem_예제 풀이(당구공 굴리기)" },
+    { "id": "YvWqPQhliaI", "title": "[Probability]_08-3. Bayes theorem 딥러닝 적용하여 해석하기" },
     { "id": "nw_tVBCw0Z8", "title": "[Probability]_06. 샘플링 표현에 대한 이해와 몬테 카를로 근사" }, 
     { "id": "k6xog4ZNnT0", "title": "[Probability]_07-2. Stochastic 실습 및 분석" },
     { "id": "LBT41oKsHWg", "title": "[Probability]_07-1. Stochastic Approach (확률적 접근법)" },

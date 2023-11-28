@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "JimBrowning",
+    "name": "Jim Browning",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKas43gTA-EG3YRxeia-9B3EVLFlYLvHzeaKxOtxgA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cAHC-FDfI6xecYy2_f88Tu25k4Gyw7B0miXtwi1X7ixv8tBcGV19gqLHHFJjRolYbau-VWPFKg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6TM45vNI4Qc", "title": "[Tutorial] How to make a stealthy Virtual Machine" }
+  ]
+}

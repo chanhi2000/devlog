@@ -68,11 +68,76 @@ You should see the following in your device or simulator:
 
 ## UIGestureRecognizer Overview
 
+Before you get started, here’s a brief overview of why `UIGestureRecognizers` are so handy and how to use them.
+
+Detecting gestures required a lot more work before `UIGestureRecognizers` were available. If you wanted to detect a swipe, for example, you had to register for notifications — like `touchesBegan`, `touchesMoved` and `touchesEnded` — on every touch in a `UIView`. This created subtle bugs and inconsistencies across apps because each programmer wrote slightly different code to detect those touches.
+
+In iOS 3.0, Apple came to the rescue with `UIGestureRecognizer` classes. These provide a default implementation to detect common gestures like taps, pinches, rotations, swipes, pans and long presses. Using them not only saves a ton of code, but it also makes your apps work properly. Of course, you can still use the old touch notifications if your app requires them.
+
+To use `UIGestureRecognizer`, perform the following steps:
+
+1. __Create a gesture recognizer__: When you create a gesture recognizer, you specify a target and action so the gesture recognizer can send you updates when the gesture starts, changes or ends.
+2. __Add the gesture recognizer to a view__: You associate each gesture recognizer with one, and only one, view. When a touch occurs within the bounds of that view, the gesture recognizer will check if it matches the type of touch it’s looking for. If it finds a match, it notifies the target.
+
+You can perform these two steps programmatically, which you’ll do later in this tutorial. But it’s even easier to do with the storyboard editor, which you’ll use next.
+
 ---
 
 ## Using the UIPanGestureRecognizer
 
+Open <FontIcon icon="iconfont icon-file"/>`Main.storyboard`. Click <FontIcon icon="iconfont icon-select"/>`[+]` button at the top to open the Library.
+
+Inside the __Library__ panel, look for the __pan gesture recognizer__ object and drag it onto the monkey image view. This creates both the pan gesture recognizer and its association with the monkey image view:
+
+![Implementing the pan gesture recognizer](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_02.gif)
+
+You can verify the connection by clicking on the monkey image view, looking at the __Connections inspector__ in <FontIcon icon="iconfont icon-select"/>`[View > Inspectors > Show Connections Inspector]`, and making sure the pan gesture recognizer is in the `gestureRecognizers`‘s __Outlet Collection__.
+
+![Verifying the connection between the monkey and the pan gesture recognizer](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_03-1-650x389.png)
+
+The begin project connected two other gesture recognizers for you: the __Pinch Gesture Recognizer__ and __Rotation Gesture Recognizer__. It also connected the pan, pinch and rotation gesture recognizers to the banana image view.
+
+So why did you associate the `UIGestureRecognizer` with the image view instead of the view itself?
+
+You could connect it to the view if that makes the most sense for your project. But since you tied it to the monkey, you know that any touches are within the bounds of the monkey. If this is what you want, you’re good to go.
+
+If you want to detect touches beyond the bounds of the image, you’ll need to add the gesture recognizer to the view itself. But note that you’ll need to write additional code to check if the user is touching within the bounds of the image itself and to react accordingly.
+
+Now that you’ve created the pan gesture recognizer and associated it with the image view, you have to write the action so something actually happens when the pan occurs.
+
 ### Implementing the Panning Gesture
+
+Open <FontIcon icon="fas fa-dove"/>`ViewController.swift` and add the following method right below `viewDidLoad()`, inside the `ViewController`:
+
+```swift
+@IBAction func handlePan(_ gesture: UIPanGestureRecognizer) {
+  // 1
+  let translation = gesture.translation(in: view)
+
+  // 2
+  guard let gestureView = gesture.view else {
+    return
+  }
+
+  gestureView.center = CGPoint(
+    x: gestureView.center.x + translation.x,
+    y: gestureView.center.y + translation.y
+  )
+
+  // 3
+  gesture.setTranslation(.zero, in: view)
+}
+```
+
+The `UIPanGestureRecognizer` calls this method when it first detects a pan gesture, then continuously as the user continues to pan and one last time when the pan completes — usually when the user’s finger lifts.
+
+Here’s what’s going on in this code:
+
+1. The `UIPanGestureRecognizer` passes itself as an argument to this method. You can retrieve the amount the user’s finger moved by calling `translation(in:)`. You then use that amount to move the center of the monkey the same distance.
+2. Note that instead of hard-coding the monkey image view into this method, you get a reference to the monkey image view by calling `gesture.view`. This makes your code more generic so that you can re-use this same routine for the banana image view later on.
+3. It’s important to set the translation back to zero once you finish. Otherwise, the translation will keep compounding each time and you’ll see your monkey move rapidly off the screen!
+
+Now that this method is complete, you’ll hook it up to the `UIPanGestureRecognizer`.
 
 ### Connecting the Panning Gesture to the Recognizer
 

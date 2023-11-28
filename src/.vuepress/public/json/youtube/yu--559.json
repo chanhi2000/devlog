@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    {"id": "1U7WIYA7HF0", "title": "중심 극한 정리  [파이썬으로 다루는 통계]" },
+    {"id": "17gGbK4ImDI", "title": "[경로찾기 프로젝트] 4. 경로 탐색 - C# 카카오 지역 API + SK TMAP API" },
     { "id": "JLXiMvGD8Bw", "title": "[경로찾기 프로젝트] 3. 지역 검색 및 위치 확인 - C# 카카오 지역 API + 지도 API" },
     { "id": "Xl7mXsL0wwc", "title": "경로찾기 프로젝트 소개 C# WinForm TMAP API 카카오 지도 API" }, 
     { "id": "xvpq9Ix4_l4", "title": "[경로찾기 프로젝트] 2. 지역 검색 예광탄 - 사용 기술: C# 카카오 개발자 센터 로컬 API" },

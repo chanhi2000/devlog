@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/5o87hDgbmQ5PqIdAGIW3KAqCiTzoxz0n-NrtqiV_5fOY84osjoOES9rHiMZitKMVQXt3vvV2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jf_ddGnum_4", "title": "Implementing (part of) a BitTorrent client in Rust" },
     { "id": "r0srf3kfZbs", "title": "Making the (partial) Rust BitTorrent client more reasonable" },
     { "id": "jSTkEPPiULs", "title": "Implementing BitTorrent (live version; part 2)" },
     { "id": "fhEHBQog-Cc", "title": "Implementing BitTorrent (live version; part 1)" },

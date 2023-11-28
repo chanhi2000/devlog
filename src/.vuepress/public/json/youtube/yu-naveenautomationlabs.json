@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GCszRxo8cWk", "title": "Selenium Coding Challenge: Filter Handling - ECommerce Shopping Application" },
+    { "id": "Qb3EZYGnono", "title": "Wait for File Download using FluentWait in Selenium" },
+    { "id": "2z4kDtrM4bc", "title": "Record and Replay in Chrome Browser || Chrome Dev Tools Recorder || No Selenium PLAYWRIGHT CYPRESS" },
+    { "id": "9szTdzImb0c", "title": "Postman vs RestAssured : Detailed Analysis With Examples" },
     { "id": "7c6VO1-wZPo", "title": "#14 - Optional & Default Function Parameters in TypeScript" },
     { "id": "qDNxSTu1lgI", "title": "JavaScript: Print all even numbers between 1 and 50 without using any numerical digits in your code" },
     { "id": "fkeoyreOf-o", "title": "#31 - Fetch API Data with Async-Await in javaScript" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/bA1DLdOXuSy_rwC_MPzPpH6Br0U42fMI4WaQyBzmhGd7v0-KnVwMjhqWqjsmbCPF37VTM0baIw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kiU6cGotYZE", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 6. ftrace 로그 분석 하기!!" },
     { "id": "0FmuSSj65OE", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 5. 나는 지금 까지 무엇을 한 것인가?" },
     { "id": "Diy1nxlgoYI", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 4. 커널 디버깅 냄새 맡기" },
     { "id": "9wdSPVSIYzc", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 4-1. 쌈바 설정 추가 내용" },

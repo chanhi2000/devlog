@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "EWTOy5-e4Ns", "title": "Beginner Blender 4.0 Tutorial - Part 7: Geometry Nodes (Long Sprinkles)" },
+    { "id": "D2rZljDYGdM", "title": "Beginner Blender 4.0 Tutorial - Part 8: Rendering!" },
     { "id": "fsLO1F5x7yM", "title": "Beginner Blender 4.0 Tutorial - Part 5: Shading" },
     { "id": "B0J27sf9N1Y", "title": "Blender 4.0 for Complete Beginners Tutorial - Part 1" }
   ]
