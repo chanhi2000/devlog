@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "_nzr4RtvNKI", "title": "16. tailwindcss 의 table에 대해서 알아보아요" },
+    { "id": "z5-5RW1k3S8", "title": "17. tailwindcss 의 box shadow에 대해서 알아 보아요." },
+    { "id": "JS86RGaUUNw", "title": "19. tailwindcss, 필터, filters" },
+    { "id": "G4kF9h6FR3U", "title": "20. tailwindcss, 종횡비, aspect ratio" },
     { "id": "Yr5aOxfgoSE", "title": "10. tailwindcss vertical align" },
     { "id": "9FLUd9t9itg", "title": "11. tailwindcss border-width 선두께 조정하기" },
     { "id": "CyT4sPU_hI0", "title": "12. tailwindcss Border Radius 보더를 둥글게 하기" },

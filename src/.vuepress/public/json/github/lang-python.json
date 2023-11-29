@@ -3338,5 +3338,15 @@
     "desc": "A minimal Python package for storing and retrieving text using chunking, embeddings, and vector search.",
     "officialSite": "https://vectordb.com",
     "topics": ["ai", "artificial-intelligence", "llm", "llms", "machine-learning"]
+  }, {
+    "repo": "Ma-Lab-Berkeley/CRATE",
+    "desc": "Code for CRATE (Coding RAte reduction TransformEr).",
+    "officialSite": "",
+    "topics": ["compression", "sparsification", "transformer-architecture", "white-box-architecture"]
+  }, {
+    "repo": "epfLLM/meditron",
+    "desc": "Meditron is a suite of open-source medical Large Language Models (LLMs).",
+    "officialSite": "https://huggingface.co/epfl-llm",
+    "topics": []
   }
 ]

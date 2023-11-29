@@ -794,5 +794,10 @@
     "desc": "Best practices for segmentation of the corporate network of any company",
     "officialSite": "",
     "topics": ["firewall-segmentation", "firewalling", "network-isolation", "network-security", "network-segmenation", "network-segment", "segmentation-network", "segmetation-benchmarks", "vlan-best-practice", "vlaning"]
+  }, {
+    "repo": "Ftindy/IPTV-URL",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

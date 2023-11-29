@@ -1,11 +1,13 @@
 {
   "channel": {
     "id": "user-so3uf3gz3p",
-    "name": "리눅스 읽어주는 남자",
+    "name": "[리얼리눅스] 리눅스 읽어주는 남자",
     "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTykz4-mMeDbaxVoSVWNOwgKrvpYf90bAHmtQfH=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/CDpj23-Bz_cRWW3J1q0ozQgwCisyW6AcMzEjIGmCUzmgidl9G3FXqcA8x-yYZuSznpXWA7ntjbk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lLzZfOgZMfI", "title": "리눅스는 무엇인가요?" },
+    { "id": "TuRkspO6_F4", "title": "address aready in use 문제해결방법" },
     { "id": "_2l2v85gVNE", "title": "리얼리눅스 10월 무료세미나: 초보자를 위한 Git 협업개발 핵심 포인트" }, 
     { "id": "XBo6BYhlq_A", "title": "리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!" }, 
     { "id": "_2l2v85gVNE", "title": "리얼리눅스 10월 무료세미나: 초보자를 위한 Git 협업개발 핵심 포인트" },

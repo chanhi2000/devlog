@@ -155,6 +155,9 @@ export const navbarEn: NavbarConfig = [
             text: '🎨Colt Steele - Mastering CSS Grid',
             link: '/crashcourse/colt-steele-mastering-css-grid/README.md'          
           }, {
+            text: '🧶Must Know JavaScript API',
+            link: '/crashcourse/js-must-know-javascript-api/README.md',
+          }, {
             text: '🙆‍♂️DB Server 성능 향상, 분석 및 튜닝 전문가 향상과정',
             link: '/crashcourse/oracle-sql-db-tuning/README.md'
           }, {

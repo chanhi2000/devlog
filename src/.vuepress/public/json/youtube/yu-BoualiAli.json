@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/eXhc6XaYdmPLtX7A8XV4eQ9wyAvy9x_QkhaaieRxvFplh3_VayzkyDLS2nhMRF67jScpBxMcGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "n6pXL9M0ljM", "title": "Spring Security explained with no code" },
+    { "id": "KQDTtvZMS9c", "title": "Apache Kafka Tutorial with Spring Boot Reactive & WebFlux | Kafka Tutorial" },
     { "id": "7T-HnTE6v64", "title": "WebSocket Tutorial with Spring Boot | Build One On One Chat Application" },
     { "id": "1jzGHF8bpn0", "title": "CSV file upload using Spring Boot | persist the data to database | Step by Step tutorial" },
     { "id": "lGULtrZqk-c", "title": "JPA Auditing for Spring boot and Spring Security" }, 

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "aiDotEngineer",
+    "name": "AI Engineer",
+    "profile": "https://yt3.googleusercontent.com/v4FAxyTKfgj0WhY5Z8rMWdE2glw0dFPvirctFg3bJJEZOwrLwnHDF9areF_xOOjsehJG0AC7RQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "TRjq7t2Ms5I", "title": "Building Production-Ready RAG Applications: Jerry Liu" }
+  ]
+}

@@ -279,7 +279,7 @@ This accounts for changes you’ll make later in this article.
 
 The name of the file doesn’t have to be <FontIcon icon="iconfont icon-page"/>`module.md`. Also, in this example, the name of the module used in the first-level heading differs from the actual name.
 
-::
+:::
 
 This is how the module description will look when rendered by Dokka, which you’ll do next.
 
@@ -382,14 +382,317 @@ Go ahead and explore the generated documentation pages. The rest of this article
 
 ## Customizing Dokka
 
+The first thing you’ll customize is the output directory for module-level HTML documentation.
+
+If you remember the gradle tasks from before, `dokkaHtml` is the task responsible for generating HTML documentation for each individual module.
+
+Open the root-level <FontIcon icon="iconfont icon-engine"/>`build.gradle` file and replace `TODO:8` with following:
+
+```gradle
+tasks.named("dokkaHtml") {
+  outputDirectory.set(file("$rootProject.name-$project.name-dokka"))
+}
+```
+
+This updates the task to use a different output directory for each module. So, Dokka will use `notktx-app-dokka`, `notktx-core-dokka` and `notktx-utilities-dokka` for the respective modules.
+`
+But now, calling the `clean` task in gradle won’t delete the documentation directories because they aren’t under the build directory anymore.
+
+To fix that, replace the `TODO:9` line with the snippet shown below:
+
+```gradle
+task cleanDokkaModuleDocs() {
+  subprojects {
+    delete file("$rootProject.name-$project.name-dokka")
+  }
+}
+```
+
+To invoke this task automatically when calling `./gradlew clean`, update the `clean` task to depend on `dokkaHtmlMultiModule`. The task should look like this:
+
+```gradle
+task clean(type: Delete, dependsOn: cleanDokkaModuleDocs) {
+  delete rootProject.buildDir
+}
+```
+
+This adds a gradle task that goes through all the subprojects and deletes the custom documentation directories. Run `./gradlew dokkaHtml dokkaHtmlMultiModule` to generate documentation in the newly defined custom directory structure.
+
+Whenever you want to delete those generated documentation directories, you need to run `./gradlew clean` in the terminal. It will call `cleanDokkaModuleDocs` itself for you.
+
 ### Adding External Documentation
+
+There’s a minor problem in the documentation you generated in the last section. If you open the <FontIcon icon="iconfont icon-java"/>`ImageLoaders.kt` and look at the KDoc comment for `loadImageFromUrl`, you’ll see this snippet:
+
+```kotlin
+* @see Picasso
+```
+
+This should add a link to `Picasso` class in the __See also__ section of `loadImageFromUrl‘s` documentation.
+
+But if you open the multimodule documentation in a browser and click `loadImageFromUrl` in the <FontIcon icon="iconfont icon-folder"/>`utilities` package, you’ll see it doesn’t provide a clickable link. Instead, it shows a text with the package name of Picasso.
+
+![Dokka see also section screenshot](https://koenig-media.raywenderlich.com/uploads/2021/12/Screenshot-2021-12-30-at-11.32.20-PM-650x429.png)
+
+Dokka needs to know the location of JavaDoc of any third-party library for this external linking to work. To do that, open the root-level <FontIcon icon="iconfont icon-engine"/>`build.gradle` and replace `TODO:10` with following snippet:
+
+```gralde
+tasks.named("dokkaHtmlPartial") {
+  dokkaSourceSets {
+    named("main") {
+      externalDocumentationLink {
+        url.set(new URL("https://square.github.io/picasso/2.x/picasso/"))
+      }
+      externalDocumentationLink {
+        url.set(new URL("https://bumptech.github.io/glide/javadocs/4120/"))
+      }
+    }
+  }
+}
+```
+
+One thing to keep in mind is that the external link has to end with a `/`.
+
+Add the external documentation links for dokkaHtml task too by adding the below snippet in `tasks.named("dokkaHtml")`:
+
+```gradle
+dokkaSourceSets {
+  named("main") {
+    externalDocumentationLink {
+      url.set(new URL("https://square.github.io/picasso/2.x/picasso/"))
+    }
+    externalDocumentationLink {
+      url.set(new URL("https://bumptech.github.io/glide/javadocs/4120/"))
+    }
+  }
+}
+```
+
+This adds the links to Picasso’s and Glide’s documentation pages. `loadRoundImageFromUrl` uses Glide to load images.
+
+Run `./gradlew clean dokkaHtmlMultiModule` in the terminal to generate the documentation again. You’ll see that Dokka adds the link to the `Picasso` class in the documentation now. How it works under the hood goes beyond the scope of this article.
+
+![Dokka page with linked third party documentation](https://koenig-media.raywenderlich.com/uploads/2021/12/Screenshot-2021-12-30-at-11.55.30-PM-650x429.png)
+
+Dokka generates the __See also__ section for `@see` block tag. It’s useful for cases when you want to point readers to other functions or classes to get a better understanding of the current one.
+
+Say that you decide to deprecate `loadImageFromUrl` and add a new function, `loadImageFromUrlV2`, that uses `Glide` under the hood to load images instead of `Picasso` to get consistent with `loadRoundImageFromUrl`.
+
+You’ll need to do three things:
+
+1. Add the new function and its documentation describing the library version in which it was added.
+2. Add a deprecation tag for `loadImageFromUrl` and a way to point users to its replacement function.
+3. Update the library version.
+
+Open <FontIcon icon="iconfont icon-java"/>`ImageLoaders.kt` and replace `TODO:11` with the following snippet:
+
+```kotlin
+/**
+ * An extension function on [ImageView] receiver to load an image from some remote url.
+ *
+ * This function uses <b>Glide</b> which is a 3rd party library to handle all the networking and
+ * caching side of things. Glide handles the loading w.r.t. the lifecycle of the view for you.
+ *
+ * <b>Sample Usage</b>
+ *
+ * ```
+ * yourImageView.loadImageFromUrlV2(url = "https://someurl.com/someImage")
+ * ```
+ *
+ * @receiver [ImageView]
+ * @param url Url to load image from
+ * @since v1.0.2
+ * @see Glide
+ */
+fun ImageView.loadImageFromUrlV2(url: String) {
+  Glide.with(this).load(url).centerCrop().into(this)
+}
+```
+
+To deprecate the existing function, you need to add `Deprecated` annotation above its definition. And, to point users to the replacement function, you need to add `@see loadImageFromUrlV2` in the KDoc comment.
+
+After doing the above changes, `loadImageFromUrl` will look something like this:
+
+```kotlin
+/**
+ *
+ * // Truncated code above
+ *
+ * @param url Url to load image from
+ * @see Picasso
+ * @see loadImageFromUrlV2
+ */
+@Deprecated(message = "Moving to Glide", 
+  replaceWith = ReplaceWith("loadImageFromUrlV2"),
+  level = DeprecationLevel.WARNING)
+fun ImageView.loadImageFromUrl(url: String) {
+// Truncated code below
+}
+```
+
+Finally, you need to update the library version. Open <FontIcon icon="iconfont icon-engine"/>`publish.gradle` file and change `LIB_VERSION` variable to `"1.0.2"`.
+
+Run `./gradlew clean dokkaHtmlMultiModule` and you’ll see documentation pages updated to these:
+
+![Dokka `loadImageFromUrl` deprecated function page](https://koenig-media.raywenderlich.com/uploads/2021/12/Screenshot-2021-12-31-at-1.01.59-AM-650x431.png)
+
+![Dokka `loadImageFromUrlV2` function page](https://koenig-media.raywenderlich.com/uploads/2021/12/Screenshot-2021-12-31-at-1.02.14-AM-650x430.png)
 
 ### Customizing Member Visibility
 
+The next thing you’ll do is stop Dokka from showing all the methods and properties of parent classes in `MainActivity`.
+
+Select the `MainActivity` tab in the generated docs, and you’ll see a lot of functions and properties listed there that you didn’t define. Those are from the parent classes and hide the functions and properties you actually care about.
+
+![Dokka docs screenshot](https://koenig-media.raywenderlich.com/uploads/2021/12/Screenshot-2021-12-31-at-1.09.48-AM-650x433.png)
+
+Dokka provides a flag to hide the members of the parent class you didn’t explicitly override.
+
+Open the root-level <FontIcon icon="iconfont icon-engine"/>`build.gradle` file and add `suppressInheritedMembers.set(true`) in both `dokkaHtml` and `dokkaHtmlPartial` tasks. Tasks should look like this:
+
+```gradle
+// Truncated code above
+
+tasks.named("dokkaHtml") {
+  outputDirectory.set(file("$rootProject.name-$project.name-dokka"))
+  suppressInheritedMembers.set(true)
+
+// Truncated code
+}
+
+tasks.named("dokkaHtmlPartial") {
+  suppressInheritedMembers.set(true)
+
+// Truncated code below
+}
+```
+
+Run `./gradlew clean dokkaHtmlMultiModule` to see the changes:
+
+![Generated documentation screenshot](https://koenig-media.raywenderlich.com/uploads/2021/12/Screenshot-2021-12-31-at-1.28.58-AM-650x427.png)
+
+The functions and properties from the parent classes are gone, but the overridden `onCreate` method and other private methods and properties aren’t showing up either.
+
+Dokka hides non public members by default. To show non-public properties and methods, you need to add `includeNonPublic.set(true)` in the __main__ source set in the `dokkaSourceSets` block. It should look like this:
+
+```gradle
+dokkaSourceSets {
+  named("main") {
+    includeNonPublic.set(true)
+    externalDocumentationLink {
+      url.set(new URL("https://square.github.io/picasso/2.x/picasso/"))
+    }
+    externalDocumentationLink {
+      url.set(new URL("https://bumptech.github.io/glide/javadocs/4120/"))
+    }
+  }
+}
+```
+
+If you want any property, method or class to not show up in the documentation, you can use `@suppress` tag. Open <FontIcon icon="iconfont icon-java"/>`MainActivity.kt` and replace `TODO:15` with the snippet below:
+
+```kotlin
+/**
+ * @suppress
+ */
+```
+
+Run `./gradlew clean dokkaHtmlMultiModule` to see the changes:
+
+![Documentation screenshot with non public members](https://koenig-media.raywenderlich.com/uploads/2021/12/Screenshot-2021-12-31-at-1.49.28-AM-650x492.png)
+
+
 ### Customizing Module and Package Pages
+
+Remember the changes you did in the __Documenting Modules and Packages__ section? It’s time to start using those custom <FontIcon icon="iconfont icon-page"/>`module.md` files from each of the modules.
+
+Open the root-level <FontIcon icon="iconfont icon-engine"/>`build.gradle` file and add `includes.from("module.md")` below `includeNonPublic.set(true)` for both the custom tasks. It will look something like this:
+
+```gradle
+// Truncated code above
+
+named("main") {
+  includeNonPublic.set(true)
+  includes.from("module.md")
+
+// Truncated code below
+}
+```
+
+If you try generating the documentation now, the custom markdown for packages will work, but the one for modules won’t. This is because the actual module names and the ones used in <FontIcon icon="iconfont icon-page"/>`module.md` don’t match.
+
+To fix this, you need to customize the module names in the documentation. Open the root-level <FontIcon icon="iconfont icon-engine"/>`build.gradle` and add the following snippet in `tasks.named("dokkaHtml")` and `tasks.named("dokkaHtmlPartial")`:
+
+```gradle
+moduleName.set("$rootProject.name-$project.name")
+```
+
+Run `./gradlew clean dokkaHtmlMultiModule` to see the changes:
+
+![Dokka custom module documentation](https://koenig-media.raywenderlich.com/uploads/2022/01/Screenshot-2022-01-01-at-3.59.35-PM-650x430.png)
+
+![Dokka custom package documentation](https://koenig-media.raywenderlich.com/uploads/2022/01/Screenshot-2022-01-01-at-3.59.54-PM-650x433.png)
+
+Take some time to explore all three module.md files and see how their first-level heading maps to module- and package-level documentation pages.
 
 ### Using Custom Assets
 
+In this section, you’ll add a custom footer message and learn to add and replace custom CSS files.
+
+Open the root-level <FontIcon icon="iconfont icon-engine"/>`build.gradle` file and replace `TODO:18` with the following snippet:
+
+```gradle
+customFooterMessage = "Made with ❤️ at raywenderlich.com"
+customLogoFile = projectDir.toString() + "/logo-style.css"
+````
+
+This defines extra properties for custom footer messages and CSS file paths in the project object.
+
+In the root-level <FontIcon icon="iconfont icon-engine"/>`build.gradle` file, add the following snippet under `dokkaHtml` and `dokkaHtmlPartial` tasks:
+
+```gradle
+pluginsMapConfiguration.set(
+  [
+    "org.jetbrains.dokka.base.DokkaBase": """{
+      "footerMessage": "$customFooterMessage",
+      "customStyleSheets": ["$customLogoFile"]
+     }"""
+  ]
+)
+```
+
+This snippet adds a custom footer message and the path to <FontIcon icon="iconfont icon-css"/>`logo-style.css` in `pluginsMapConfiguration`. Dokka uses it to customize documentation properties.
+
+The CSS file is already added to the project for you. The `customStyleSheets` property in Dokka adds new files or replaces old files if a file with the same name exists.
+
+Dokka also uses <FontIcon icon="iconfont icon-css"/>`logo-style.css` to add a logo in the top left corner. The custom file that you used replaces that logo with another one.
+
+Adding the snippet in those two tasks will customize the pages for standalone module documentation as well as module-level pages in the multimodule documentation.
+
+In case of multimodule projects, the `dokkaHtmlMultiModule` task generates the page that lists all the modules and not the `dokkaHtmlPartial` task.
+
+To customize that page, you need to add the same snippet in the `dokkaHtmlMultiModule` task, too. You’ll add this in the `afterEvaluate` block so that it gets executed after all the definitions in the build script are applied. Replace `TODO:20` with the snippet below:
+
+```gradle
+afterEvaluate {
+  tasks.named("dokkaHtmlMultiModule") {
+    pluginsMapConfiguration.set(
+      [
+        "org.jetbrains.dokka.base.DokkaBase": """{
+          "footerMessage": "$customFooterMessage",
+          "customStyleSheets": ["$customLogoFile"]
+         }"""
+      ]
+    )
+  }
+}
+```
+
+Run `./gradlew clean dokkaHtmlMultiModule` to see the changes:
+
+![Documentation with custom footer and css](https://koenig-media.raywenderlich.com/uploads/2022/01/Screenshot-2022-01-01-at-4.40.13-PM-650x431.png)
+
+Congratulations — you’ve completed this tutorial!
 
 ---
 

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "90DaysOfDevOps",
+    "name": "90DaysOfDevOps",
+    "profile": "https://yt3.googleusercontent.com/zZE1UYrgqUXXy6bpuPCmwHTWf3MuLUHzeRYhF-dkr4fpYboS7Ed4QvIbwu-4YzvM5cOa_HZ_fO8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vE2-ZWkNaJ3SzqOlipHxtvellsiElmlb3pFKqjUqhKDwPKx30T66XvHV_l_jnXzMEi-3qN2P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qOsXEZzqNP8", "title": "DevOps - The real stories - Day6" }
+  ]
+}

@@ -88,7 +88,7 @@ val movies = MovieHelper.getMoviesFromJson("movies.json", this)
 
 Remove the `replaceFragment()` method from the bottom of the class as well.
 
-Now open <FontIcon icon="iconfont icon-file"/>`activity_main.xml` and replace everything inside the `RelativeLayout` with the following:
+Now open <FontIcon icon="iconfont icon-code"/>`activity_main.xml` and replace everything inside the `RelativeLayout` with the following:
 
 ```xml
 <android.support.v4.view.ViewPager
@@ -299,7 +299,7 @@ implementation 'com.android.support:recyclerview-v7:26.1.0'
 
 Tap <FontIcon icon="iconfont icon-select"/>`[Sync Now]` on the yellow pop-up and wait until Android Studio installs the library.
 
-Open <FontIcon icon="iconfont icon-file"/>`activity_main.xml` and paste the following snippet above the `ViewPager`:
+Open <FontIcon icon="iconfont icon-code"/>`activity_main.xml` and paste the following snippet above the `ViewPager`:
 
 ```xml
 <com.nshmura.recyclertablayout.RecyclerTabLayout
@@ -387,7 +387,7 @@ You can implement dot indicators for your pages as seen in many onboarding flows
 
 :::
 
-Feel free to join the forum discussion below if you have any comments or questions! :]
+Feel free to join the forum discussion below if you have any comments or questions!
 
 ---
 

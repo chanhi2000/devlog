@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/8zzluWWLqLlR_3egW_7TgyPSP0ghc9b-kegsQJ6vt9waen64MOY8A9roEBJ9b8k61h7X0AURgg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EBKhxwSqFUs", "title": "Stay backend-only or go full stack?" },
     { "id": "9dhZ7MEtsrs", "title": "Using Environment object -  Microservice configuration with Spring Boot [09]" }, 
     { "id": "-wDUChgvYgU", "title": "Spring Boot + Spring Security + LDAP from scratch - Java Brains" }, 
     { "id": "TNt3GHuayXs", "title": "Spring Boot + Spring Security with JPA authentication and MySQL from scratch - Java Brains" }, 

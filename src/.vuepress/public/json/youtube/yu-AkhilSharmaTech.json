@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/GcIphwpLdkasYlrN2xGMTrFli4015EwYlt4ZJAsFVUgvJcXlbeOi-sZPJ7KwNlTrAyuYiHIg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wPmn1yaDKgQ", "title": "OTPs + Verification with GO #golang #golangtutorial #programming #technology #tech #coding #code" },
     { "id": "YYVoOoy8d2s", "title": "I Built A Password Vault with Rust!" },
     { "id": "qoxNoGOf8fc", "title": "Here's How to Add SQLite to an existing Rust Project" },
     { "id": "0eeMjCKa4GE", "title": "Building A Pastebin clone with Rust" },

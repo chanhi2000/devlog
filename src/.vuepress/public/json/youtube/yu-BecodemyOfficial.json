@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/mqblSvRkyLchLyoA7mpe5wXS1lYhiiM7S790ZDU4oQcs8Z41zYsmZaNaH-CyKM3xMk6THSNpSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UxirFATvWTo", "title": "Food Delivery Web Application using Microservice Architecture with Nest.js,GraphQL,Next.js || part 1" },
     { "id": "mzbOqy5DWzE", "title": "AI Prompt Selling Marketplace with next 13.5,Typescript,Next UI,Prisma,Mongodb || Full Stack Next js" },
     { "id": "kf6yyxMck8Y", "title": "All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1" },
     { "id": "w1fkGHGZs1Q", "title": "All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 2" }

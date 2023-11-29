@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "devtiro",
+    "name": "Devtiro",
+    "profile": "https://yt3.googleusercontent.com/tkv8em4pkZaLiKBNjsXcrzRn0XyYdxvnW-FaEhYBM2EgUE4zkLYvqerqVS-zTQx6KqNVBkGL=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0eNwEgmvRKDsXyjYhwKuMWMNbF1QY-fwAW3vX8nh80CQYPYPDfs-Vl_XtuuTllOccW0ATk-HPQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Nv2DERaMx-4", "title": "The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners" }
+  ]
+}

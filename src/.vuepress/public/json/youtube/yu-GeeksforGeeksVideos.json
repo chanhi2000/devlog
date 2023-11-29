@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "129exLkKeks", "title": "Face Detection using Python and OpenCV with webcam | Python Projects | GeeksforGeeks" },
+    { "id": "pCmsQVHYXK0", "title": "Graph Practice Questions | Learn DSA Cooncepts | GeeksforGeeks" },
     { "id": "tn07dCSFOfQ", "title": "STOCK PRICE PREDICTION using Machine Learning📈 | Machine Learning Projects | GeeksforGeeks" },
     { "id": "cRYSIR6LaNQ", "title": "Titanic Survival Prediction using Tensorflow | Machine Learning Projects | GeeksforGeeks" },
     { "id": "xlcNMlyN34g", "title": "Weapon Detection Using Python-OpenCV | Python Projects | GeeksforGeeks" },

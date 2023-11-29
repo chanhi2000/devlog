@@ -50,4 +50,16 @@ tags: ["aws", "amazon", "amazon-web-service"]
 
 ---
 
+## Jack Vanlightly
+
+- [The Architecture Of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+
+---
+
+## WarpStream
+
+- [S3 Express is All You Need](https://www.warpstream.com/blog/s3-express-is-all-you-need)
+
+---
+
 <TagLinks />

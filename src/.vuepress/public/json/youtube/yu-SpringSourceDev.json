@@ -6,6 +6,7 @@
     "banner": "url(https://yt3.googleusercontent.com/FQS_lysIGW5MmkQB8lBaWVJCWfUnuLUaIgg6nJDp7i6J_om4-iANSAPa527xY8seM8k69EIvBQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)"
   },
   "videos": [
+    { "id": "dMhpDdR6nHw", "title": "Spring Tips: Spring Boot 3.2" },
     { "id": "0Llam5aYkOw", "title": "Spring Office Hours: Episode 57 - Spring Academy" },
     { "id": "8VJ_dSdV3pY", "title": "Spring Tips: Making the Joyful Jump to Java 21" },
     { "id": "lzjgjeWiPL0", "title": "Auto-Remediating Code at Scale with Lossless Semantic Tree and Generative AI" }, 

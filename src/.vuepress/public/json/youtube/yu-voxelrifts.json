@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "lOhtNrYWr_Q", "title": "Why are if statements in shaders heavily discouraged?" },
     { "id": "3IAlJSIjvH0", "title": "Arenas, strings and Scuffed Templates in C" }
   ]
 }

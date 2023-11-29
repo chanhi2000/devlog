@@ -104,5 +104,10 @@
     "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
     "officialSite": "",
     "topics": ["apachespark", "awesome", "bigdata", "data", "dataengineering", "sql"]
+  }, {
+    "repo": "jordan-cutler/path-to-senior-engineer-handbook",
+    "desc": "All the resources you need to get to Senior Engineer and beyond",
+    "officialSite": "",
+    "topics": ["awesome", "career", "career-growth", "path-to-senior", "senior-engineer", "software-developer"]
   }
 ]

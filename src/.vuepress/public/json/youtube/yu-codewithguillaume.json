@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codewithguillaume",
+    "name": "CodewithGuillaume",
+    "profile": "https://yt3.googleusercontent.com/LhtruZhDOP-VHtov-DlZak3JPqKmZFjDUjb9hNar0Ie3PHuXmW4qsOPRfKqyMahU7wrxA4HfYa8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7rZoCcYJe2T_8eBMkMdDfqNZvZCYLmduiINgjARGAGXQ--COzFlR-6H-3RB6dHNcOxQZlRNoHw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "a_qbqpDifXM", "title": "Learn Next.js 14 — Full course for beginners [3 hours] 2023" },
+    { "id": "6JCGMX-jILw", "title": "Webhooks with Resend — Course part 9" }
+  ]
+}

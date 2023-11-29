@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TurbineThree",
+    "name": "TurbineThree",
+    "profile": "https://yt3.googleusercontent.com/GuFYILrPxrT1hR6ES83iK5kp1A7q-fh4KuneQAnyiIhUNDx3b5MIBjLOlHh6cDtkhv1yc4exzw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Pxv3xLpFAkha47ceVutkVPtl7d8thp3-7zz5adc5W9X_a11IHF2cnn3cJuHk5ac4IXklM7RG=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oLxFqpUbaAE", "title": "Use a Drag & Drop Editor to Make Tkinter Python GUI Applications!" }
+  ]
+}

@@ -207,5 +207,9 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-Pentacode" /><!-- Pentacode -->
 <MyYouTubeItems jsonName="yu-galaxies_dev" /><!-- Simon Grimm -->
 <MyYouTubeItems jsonName="yu-bugbytes3923" /><!-- BugBytes -->
+<MyYouTubeItems jsonName="yu-huxnwebdev" /><!-- HuXn WebDev -->
+<MyYouTubeItems jsonName="yu-harkirat1" /><!-- Harkirat Singh -->
+<MyYouTubeItems jsonName="yu-codewithguillaume" /><!-- CodewithGuillaume -->
+<MyYouTubeItems jsonName="yu-JakePomperada" /><!-- Jake Pomperada -->
 
 <TagLinks />

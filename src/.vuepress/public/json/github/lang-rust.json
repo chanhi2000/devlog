@@ -611,9 +611,9 @@
     "officialSite": ""
   }, {
     "repo": "biomejs/biome",
-    "desc": "A toolchain for web projects, aimed to provide functionalities to maintain them.",
-    "topics": ["javascript", "css", "formatter", "typescript", "web", "static-code-analysis", "jsx", "linter"],
-    "officialSite": "https://biomejs.dev"
+    "desc": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "officialSite": "https://biomejs.dev",
+    "topics": ["css", "formatter", "javascript", "json", "jsx", "linter", "static-code-analysis", "typescript", "web"]
   }, {
     "repo": "shadowsocks/shadowsocks-rust",
     "desc": "A Rust port of shadowsocks",

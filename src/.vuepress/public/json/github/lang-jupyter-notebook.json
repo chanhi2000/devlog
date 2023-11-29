@@ -414,5 +414,10 @@
     "desc": "Vision utilities for web interaction agents 👀",
     "officialSite": "https://reworkd.ai",
     "topics": ["gpt4v", "llms", "ocr", "playwright", "pypi-package", "python", "selenium", "webscraping"]
+  }, {
+    "repo": "xetdata/onnx-models",
+    "desc": "A copy of ONNX models, datasets, and code all in one GitHub repository. Follow the README to learn more.",
+    "officialSite": "https://github.com/onnx/models",
+    "topics": []
   }
 ]

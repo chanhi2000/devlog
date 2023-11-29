@@ -579,5 +579,10 @@
     "desc": "An RPG engine made for the Nintendo 64",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "opa334/TrollStore",
+    "desc": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+    "officialSite": "",
+    "topics": []
   }
 ]

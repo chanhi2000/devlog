@@ -499,7 +499,7 @@ public Answer(String question_id, String type, String user_answer) {
 }
 ```
 
-To save an answer, you’ll add a button with a click handler. Open <FontIcon icon="iconfont icon-file"/> `activity_question.xml` and add the following Button element below the GridView:
+To save an answer, you’ll add a button with a click handler. Open <FontIcon icon="iconfont icon-code"/>`activity_question.xml` and add the following Button element below the GridView:
 
 ```xml
 <Button
@@ -510,7 +510,7 @@ To save an answer, you’ll add a button with a click handler. Open <FontIcon ic
     android:text="Submit" />
 ```
 
-Within <FontIcon icon="iconfont icon-file"/> `activity_question.xml`, create a click handler with the <kbd>Alt</kbd>+<kbd>Enter</kbd> shortcut:
+Within <FontIcon icon="iconfont icon-code"/>`activity_question.xml`, create a click handler with the <kbd>Alt</kbd>+<kbd>Enter</kbd> shortcut:
 
 ![onclick](https://koenig-media.raywenderlich.com/uploads/2016/07/onclick.gif)
 

@@ -776,6 +776,39 @@ export const sidebarEn: SidebarConfig = {
       text: 'Intro',
       children: [ '/crashcourse/README.md' ]
     }, {
+      text: '🐚Text Processing with GNU awk',
+      collapsible: true,
+      children: [
+        '/crashcourse/cli-text-processing-w-gnu-awk/README.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/01-installation-and-documentation.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/02-awk-introduction.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/03-regular-expressions.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/04-field-separators.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/05-record-separators.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/06-in-place-file-editing.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/07-using-shell-variables.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/08-control-structures.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/09-built-in-functions.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/10-multiple-file-input.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/11-processing-multiple-records.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/12-two-file-processing.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/13-dealing-with-duplicates.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/14-awk-scripts.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/15-gotchas-and-tips.md',
+        '/crashcourse/cli-text-processing-w-gnu-awk/16-further-reading.md',
+      ]
+    }, {
+      text: '🐚Mastering Curl - Interactive Text Guide',
+      collapsible: true,
+      children: [
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/README.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/01-the-curl-project.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/02-command-line-options.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/03-urls.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/04-curl-basics.md',
+        '/crashcourse/cli-mastering-curl-interactive-text-guide/05-http.md'
+      ]
+    }, {
       text: '🕊️100 Days of Swift',
       collapsible: true,
       children: [
@@ -930,29 +963,6 @@ export const sidebarEn: SidebarConfig = {
         `/crashcourse/swift-kodeco/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started.md`
       ]
     }, {
-      text: '🔺Red Hat Container Tools',
-      collapsible: true,
-      children: [
-        '/crashcourse/devops-red-hat-container-tools/README.md',
-        '/crashcourse/devops-red-hat-container-tools/01.md',
-        '/crashcourse/devops-red-hat-container-tools/02.md',
-        '/crashcourse/devops-red-hat-container-tools/03.md',
-        '/crashcourse/devops-red-hat-container-tools/04.md',
-        '/crashcourse/devops-red-hat-container-tools/05.md',
-        '/crashcourse/devops-red-hat-container-tools/06.md',
-        '/crashcourse/devops-red-hat-container-tools/07.md',
-        '/crashcourse/devops-red-hat-container-tools/08.md'
-      ]
-    }, {
-      text: '🔺Containerize Your Application With Buildah And Podman',
-      collapsible: true,
-      children: [
-        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/README.md',
-        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/01.md',
-        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/02.md',
-        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/03.md'
-      ]
-    }, {
       text: '☕️Java8 in Action',
       collapsible: true,
       children: [
@@ -980,7 +990,20 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-effective-java/11-serialization.md'
       ]
     }, {
-      text: '☕️Jump to Spring Boot',
+      text: '🅺Kodeco - Android & Kotlin',
+      collapsible: true,
+      children: [
+        '/crashcourse/kotlin-android-kodeco/README.md',
+        '/crashcourse/kotlin-android-kodeco/262-dependency-injection-in-android-with-dagger-2-and-kotlin.md',
+        '/crashcourse/kotlin-android-kodeco/272-intermediate-recyclerview-tutorial-with-kotlin.md',
+        '/crashcourse/kotlin-android-kodeco/853-couchbase-tutorial-for-android-getting-started.md',
+        '/crashcourse/kotlin-android-kodeco/523-augmented-reality-in-android-with-google-s-face-api.md',
+        '/crashcourse/kotlin-android-kodeco/324-viewpager-tutorial-getting-started-in-kotlin.md',
+        '/crashcourse/kotlin-android-kodeco/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md',
+        '/crashcourse/kotlin-android-kodeco/31290959-kotlin-sequences-getting-started.md',
+      ]
+    }, {
+      text: '🍃Jump to Spring Boot',
       collapsible: true,
       children: [
         '/crashcourse/java-jump-to-spring-boot/README.md',
@@ -1020,19 +1043,9 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/03O.md',
         '/crashcourse/java-jump-to-spring-boot/04.md',
         '/crashcourse/java-jump-to-spring-boot/04A.md',
+        '/crashcourse/java-jump-to-spring-boot/04B.md',
+        '/crashcourse/java-jump-to-spring-boot/04C.md',
         '/crashcourse/java-jump-to-spring-boot/a.md',
-      ]
-    }, {
-      text: '🅺Kodeco - Android & Kotlin',
-      collapsible: true,
-      children: [
-        '/crashcourse/kotlin-android-kodeco/README.md',
-        '/crashcourse/kotlin-android-kodeco/272-intermediate-recyclerview-tutorial-with-kotlin.md',
-        '/crashcourse/kotlin-android-kodeco/853-couchbase-tutorial-for-android-getting-started.md',
-        '/crashcourse/kotlin-android-kodeco/523-augmented-reality-in-android-with-google-s-face-api.md',
-        '/crashcourse/kotlin-android-kodeco/324-viewpager-tutorial-getting-started-in-kotlin.md',
-        '/crashcourse/kotlin-android-kodeco/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md',
-        '/crashcourse/kotlin-android-kodeco/31290959-kotlin-sequences-getting-started.md',
       ]
     }, {
       text: '☕️Java Web App with Quarkus and JPAStreamer',
@@ -1077,30 +1090,6 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/py-rpa-excel/02h.md',
         '/crashcourse/py-rpa-excel/02i.md',
         '/crashcourse/py-rpa-excel/03.md',
-      ]
-    },{
-      text: '🦊freecodecamp.org - DevOps with GitLab CI',
-      collapsible: true,
-      children: [
-        '/crashcourse/devops-freecodecamp-gitlab-ci/README.md',
-        '/crashcourse/devops-freecodecamp-gitlab-ci/1.md',
-        '/crashcourse/devops-freecodecamp-gitlab-ci/2.md',
-        '/crashcourse/devops-freecodecamp-gitlab-ci/3.md',
-        '/crashcourse/devops-freecodecamp-gitlab-ci/4.md',
-        '/crashcourse/devops-freecodecamp-gitlab-ci/5.md',
-      ]
-    }, {
-      text: '🎨Colt Steele - Mastering CSS Grid',
-      collapsible: true,
-      children: [
-        '/crashcourse/colt-steele-mastering-css-grid/README.md',
-        '/crashcourse/colt-steele-mastering-css-grid/01-css-grid-basics',
-        '/crashcourse/colt-steele-mastering-css-grid/02-units-and-utilities',
-        '/crashcourse/colt-steele-mastering-css-grid/03-positioning-elements-by-lines',
-        '/crashcourse/colt-steele-mastering-css-grid/04-grid-areas',
-        '/crashcourse/colt-steele-mastering-css-grid/05-the-implicit-grid',
-        '/crashcourse/colt-steele-mastering-css-grid/06-creating-responsive-grids',
-        '/crashcourse/colt-steele-mastering-css-grid/07-building-an-example-layout',
       ]
     }, {
       text: '🦀freecodecamp.org - Rust by Practice',
@@ -1149,6 +1138,58 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/rs-wasm-by-example/04-webassembly-outside-of-the-browser.md',
       ]
     }, {
+      text: '🦀Rust to Assembly',
+      collapsible: true,
+      children: [
+        '/crashcourse/rs-eventhelix-rust-to-assembly/README.md',
+        '/crashcourse/rs-eventhelix-rust-to-assembly/rust-enum-and-match-representation-in-assembly.md',
+        '/crashcourse/rs-eventhelix-rust-to-assembly/assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md',
+        '/crashcourse/rs-eventhelix-rust-to-assembly/mapping-arrays-tuples-box-and-option-to-assembly.md',
+        '/crashcourse/rs-eventhelix-rust-to-assembly/rust-to-assembly-vector-iteration.md'
+      ]
+    },  {
+      text: '🔺Red Hat Container Tools',
+      collapsible: true,
+      children: [
+        '/crashcourse/devops-red-hat-container-tools/README.md',
+        '/crashcourse/devops-red-hat-container-tools/01.md',
+        '/crashcourse/devops-red-hat-container-tools/02.md',
+        '/crashcourse/devops-red-hat-container-tools/03.md',
+        '/crashcourse/devops-red-hat-container-tools/04.md',
+        '/crashcourse/devops-red-hat-container-tools/05.md',
+        '/crashcourse/devops-red-hat-container-tools/06.md',
+        '/crashcourse/devops-red-hat-container-tools/07.md',
+        '/crashcourse/devops-red-hat-container-tools/08.md'
+      ]
+    }, {
+      text: '🔺Containerize Your Application With Buildah And Podman',
+      collapsible: true,
+      children: [
+        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/README.md',
+        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/01.md',
+        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/02.md',
+        '/crashcourse/devops-red-hat-containerize-your-application-w-buildah-and-podman/03.md'
+      ]
+    }, {
+      text: '🦊freecodecamp.org - DevOps with GitLab CI',
+      collapsible: true,
+      children: [
+        '/crashcourse/devops-freecodecamp-gitlab-ci/README.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/1.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/2.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/3.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/4.md',
+        '/crashcourse/devops-freecodecamp-gitlab-ci/5.md',
+      ]
+    }, {
+      text: '☸DigitalOcean - Kubernetes',
+      collapsible: true,
+      children: [
+        '/crashcourse/devops-digitalocean-kubernetes/README.md',
+        '/crashcourse/devops-digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-devops-digitalocean-kubernetes.md',
+        '/crashcourse/devops-digitalocean-kubernetes/2022/20221118-how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md',
+      ]
+    }, {
       text: '📦아마존 웹 서비스를 다루는 기술 - 실무에서 필요한 AWS 클라우드의 모든 것!',
       collapsible: true,
       children: [
@@ -1189,14 +1230,6 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/devops-art-of-aws/a.md',        
       ]
     }, {
-      text: '☸DigitalOcean - Kubernetes',
-      collapsible: true,
-      children: [
-        '/crashcourse/devops-digitalocean-kubernetes/README.md',
-        '/crashcourse/devops-digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-devops-digitalocean-kubernetes.md',
-        '/crashcourse/devops-digitalocean-kubernetes/2022/20221118-how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md',
-      ]
-    }, {
       text: '🐧Linux Journey',
       collapsible: true,
       children: [
@@ -1225,47 +1258,17 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/devops-linux-journey/03-networking-nomad/03g-dns.md'
       ]
     }, {
-      text: '🦀Rust to Assembly',
+      text: '🎨Colt Steele - Mastering CSS Grid',
       collapsible: true,
       children: [
-        '/crashcourse/rs-eventhelix-rust-to-assembly/README.md',
-        '/crashcourse/rs-eventhelix-rust-to-assembly/rust-enum-and-match-representation-in-assembly.md',
-        '/crashcourse/rs-eventhelix-rust-to-assembly/assembly-code-generated-when-self-is-passed-by-value-reference-or-as-a-smart-pointer.md',
-        '/crashcourse/rs-eventhelix-rust-to-assembly/mapping-arrays-tuples-box-and-option-to-assembly.md',
-        '/crashcourse/rs-eventhelix-rust-to-assembly/rust-to-assembly-vector-iteration.md'
-      ]
-    }, {
-      text: '🐚Text Processing with GNU awk',
-      collapsible: true,
-      children: [
-        '/crashcourse/cli-text-processing-w-gnu-awk/README.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/01-installation-and-documentation.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/02-awk-introduction.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/03-regular-expressions.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/04-field-separators.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/05-record-separators.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/06-in-place-file-editing.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/07-using-shell-variables.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/08-control-structures.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/09-built-in-functions.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/10-multiple-file-input.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/11-processing-multiple-records.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/12-two-file-processing.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/13-dealing-with-duplicates.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/14-awk-scripts.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/15-gotchas-and-tips.md',
-        '/crashcourse/cli-text-processing-w-gnu-awk/16-further-reading.md',
-      ]
-    }, {
-      text: '🐚Mastering Curl - Interactive Text Guide',
-      collapsible: true,
-      children: [
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/README.md',
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/01-the-curl-project.md',
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/02-command-line-options.md',
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/03-urls.md',
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/04-curl-basics.md',
-        '/crashcourse/cli-mastering-curl-interactive-text-guide/05-http.md'
+        '/crashcourse/colt-steele-mastering-css-grid/README.md',
+        '/crashcourse/colt-steele-mastering-css-grid/01-css-grid-basics',
+        '/crashcourse/colt-steele-mastering-css-grid/02-units-and-utilities',
+        '/crashcourse/colt-steele-mastering-css-grid/03-positioning-elements-by-lines',
+        '/crashcourse/colt-steele-mastering-css-grid/04-grid-areas',
+        '/crashcourse/colt-steele-mastering-css-grid/05-the-implicit-grid',
+        '/crashcourse/colt-steele-mastering-css-grid/06-creating-responsive-grids',
+        '/crashcourse/colt-steele-mastering-css-grid/07-building-an-example-layout',
       ]
     }, {
       text: '🧶Must Know JavaScript API',
@@ -1278,6 +1281,14 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/js-must-know-javascript-api/beacon.md',
         '/crashcourse/js-must-know-javascript-api/clipboard.md',
         '/crashcourse/js-must-know-javascript-api/fetch.md'
+      ]
+    }, {
+      text: '🦙Microsoft - Generative AI for Beginners',
+      collapsible: true,
+      children: [
+        '/crashcourse/llm-generative-ai-for-beginners/README.md',
+        '/crashcourse/llm-generative-ai-for-beginners/00-course-setup.md',
+        '/crashcourse/llm-generative-ai-for-beginners/01-introduction-to-genai.md',
       ]
     }, {
       text: "DB Server 성능 향상 분석 및 튜닝 전문가 향상과정",

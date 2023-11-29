@@ -1739,5 +1739,15 @@
     "desc": "✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
     "officialSite": "https://live.fanmingming.com",
     "topics": ["china", "epg", "iptv", "ipv6", "list", "live", "m3u", "m3u8", "mp4", "radio", "television", "tv"]
+  }, {
+    "repo": "ShinoKana/multipleWindow3dScene",
+    "desc": "based on bgstaal/multipleWindow3dScene",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zennomi/Seg-Mirror",
+    "desc": "Kính chiếu yêuuuu quỷ seg hiện raaa",
+    "officialSite": "https://zennomi.github.io/Seg-Mirror/",
+    "topics": []
   }
 ]

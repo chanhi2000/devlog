@@ -121,7 +121,7 @@ dependencies {
 }
 ```
 
-### `res/xml/preference.xml`
+### <FontIcon icon="iconfont icon-folder"/>`res/xml/`<FontIcon icon="iconfont icon-code"/>`preference.xml`
 
 ```xml
 <PreferenceScreen

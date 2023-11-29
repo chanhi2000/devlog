@@ -22,15 +22,14 @@ meta:
 
 ---
 
-![thumbnail](https://microsoft.github.io/generative-ai-for-beginners/images/repository-thumbnail.png?WT.mc_id=academic-105485-koreyst)
+<SiteInfo
+  name="Generative AI for Beginners - A Course"
+  desc="A 12 Lesson course teaching everything you need to know to start building Generative AI applications"
+  url="https://microsoft.github.io/generative-ai-for-beginners"
+  logo="https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png"
+  repo="https://github.com/microsoft/generative-ai-for-beginners"
+  preview="https://microsoft.github.io/generative-ai-for-beginners/images/repository-thumbnail.png"/>
 
-```card
-title: Generative AI for Beginners - A Course
-desc: A 12 Lesson course teaching everything you need to know to start building Generative AI applications
-link: https://microsoft.github.io/generative-ai-for-beginners
-logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
-color: rgba(255,255,255,0.2)
-```
 
 ---
 
@@ -40,11 +39,11 @@ Learn the fundamentals of building Generative AI applications with our 12-lesson
 
 ## 🌱 Getting Started
 
-To get started, [<FontIcon icon="iconfont icon-github"/>fork this entire repo](https://github.com/microsoft/generative-ai-for-beginners/fork?WT.mc_id=academic-105485-koreyst) to your own GitHub account to be able to change any code and complete the challenges. You can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) to find it easier later.
+To get started, [<FontIcon icon="iconfont icon-github"/>fork this entire repo](https://github.com/microsoft/generative-ai-for-beginners/fork) to your own GitHub account to be able to change any code and complete the challenges. You can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) to find it easier later.
 
 Below are the links to each lesson. Feel free to explore and start at any lesson that interests you the most!
 
-Head to the [Course Setup Page](https://microsoft.github.io/generative-ai-for-beginners/#/00-course-setup/README?wt.mc_id=academic-105485-koreyst) to find the setup guide that works best for you.
+Head to the [Course Setup Page](https://microsoft.github.io/generative-ai-for-beginners/#/00-course-setup/README) to find the setup guide that works best for you.
 
 ---
 
@@ -64,7 +63,7 @@ Head to the [Course Setup Page](https://microsoft.github.io/generative-ai-for-be
 ```card
 title: Course Introduction - How to Take This Course	
 desc: Tech setup and course structure
-link: https://microsoft.github.io/generative-ai-for-beginners/#/00-course-setup/README?wt.mc_id=academic-105485-koreyst
+link: 00-course-setup.md
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -75,7 +74,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Introduction to Generative AI and LLMs
 desc: Generative AI and the current technology landscape
-link: https://microsoft.github.io/generative-ai-for-beginners/#/01-introduction-to-genai/README?wt.mc_id=academic-105485-koreyst
+link: 01-introduction-to-genai.md
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -85,7 +84,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Exploring and comparing different LLMs
 desc: Testing, iterating, and comparing different Large Language Models
-link: https://microsoft.github.io/generative-ai-for-beginners/#/02-exploring-and-comparing-different-llms/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/02-exploring-and-comparing-different-llms/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -95,7 +94,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Using Generative AI Responsibly	
 desc: Understanding the limitations of foundation models and the risks behind AI	
-link: https://microsoft.github.io/generative-ai-for-beginners/#/03-using-generative-ai-responsibly/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/03-using-generative-ai-responsibly/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -105,7 +104,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Understanding Prompt Engineering Fundamentals
 desc: Hands-on application of Prompt Engineering Best Practices	
-link: https://microsoft.github.io/generative-ai-for-beginners/#/04-prompt-engineering-fundamentals/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/04-prompt-engineering-fundamentals/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -115,7 +114,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Creating Advanced Prompts	
 desc: Extend your knowledge of prompt engineering by applying different techniques to your prompts	
-link: https://microsoft.github.io/generative-ai-for-beginners/#/05-advanced-prompts/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/05-advanced-prompts/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -125,7 +124,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Building Text Generation Applications		
 desc: Build a text generation app using Azure OpenAI
-link: https://microsoft.github.io/generative-ai-for-beginners/#/06-text-generation-apps/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/06-text-generation-apps/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -136,7 +135,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Building Chat Applications
 desc: Techniques for efficiently building and integrating chat applications.
-link: https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -146,7 +145,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Building Search Apps Vector Databases
 desc: Semantic vs Keyword search. Learn about text embeddings and how they apply to search
-link: https://microsoft.github.io/generative-ai-for-beginners/#/08-building-search-applications/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/08-building-search-applications/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -156,7 +155,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Building Image Generation Applications
 desc: Image generation and why it's useful in building applications
-link: https://microsoft.github.io/generative-ai-for-beginners/#/09-building-image-applications/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/09-building-image-applications/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -166,7 +165,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Building Low Code AI Applications
 desc: Introduction to Generative AI in Power Platform
-link: https://microsoft.github.io/generative-ai-for-beginners/#/10-building-low-code-ai-applications/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/10-building-low-code-ai-applications/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -176,7 +175,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Integrating External Applications with Function Calling
 desc: What is function calling and its use cases for applications
-link: https://microsoft.github.io/generative-ai-for-beginners/#/11-integrating-with-function-calling/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/11-integrating-with-function-calling/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -186,7 +185,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Designing UX for AI Applications
 desc: Designing AI Applications for Trust and Transparency
-link: https://microsoft.github.io/generative-ai-for-beginners/#/12-designing-ux-for-ai-applications/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/12-designing-ux-for-ai-applications/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -196,7 +195,7 @@ color: rgba(255,255,255,0.2)
 ```card
 title: Continue Your Learning
 desc: Links to continue your learning from each lesson!
-link: https://microsoft.github.io/generative-ai-for-beginners/#/13-continued-learning/README?wt.mc_id=academic-105485-koreyst
+link: https://microsoft.github.io/generative-ai-for-beginners/#/13-continued-learning/README
 logo: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/images/android-chrome-512x512.png
 color: rgba(255,255,255,0.2)
 ```
@@ -209,9 +208,9 @@ color: rgba(255,255,255,0.2)
 
 Our team produces other courses! Check out:
 
-- [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
-- [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
-- [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
-- [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
-- [XR Development for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+- [ML for Beginners](https://aka.ms/ml-beginners)
+- [Data Science for Beginners](https://aka.ms/datascience-beginners)
+- [AI for Beginners](https://aka.ms/ai-beginners)
+- [Web Dev for Beginners](https://aka.ms/webdev-beginners)
+- [IoT for Beginners](https://aka.ms/iot-beginners)
+- [XR Development for Beginners](https://aka.ms/ml-beginners)

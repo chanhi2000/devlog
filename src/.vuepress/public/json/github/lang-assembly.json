@@ -14,5 +14,10 @@
     "desc": "386MAX Memory Manager for DOS",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "IanSeyler/wozmon_x86-64",
+    "desc": "A rewrite of Wozmon in x86-64 for the BareMetal kernel.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -101,7 +101,7 @@ The second brings in the [Android Design Support Library](https://developer.andr
 
 ### Using the Cameras
 
-FaceSpotter specifies that it uses the camera and requests the user’s permission to do so with these lines in <FontIcon icon="iconfont icon-file"/> `AndroidManifest.xml`:
+FaceSpotter specifies that it uses the camera and requests the user’s permission to do so with these lines in <FontIcon icon="iconfont icon-code"/> `AndroidManifest.xml`:
 
 ![Screenshot of the Project pane in Android studio, showing 'AndroidManifest.xml' highlighted.](https://koenig-media.raywenderlich.com/uploads/2017/04/androidmanifest.xml-in-project-pane.jpg)
 

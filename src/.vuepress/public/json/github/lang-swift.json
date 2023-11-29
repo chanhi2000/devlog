@@ -364,5 +364,10 @@
     "desc": "Skip transpiler for converting SwiftUI iOS apps into Android Kotlin Compose apps",
     "officialSite": "https://skip.tools",
     "topics": ["kotlin", "swift"]
+  }, {
+    "repo": "Whisky-App/Whisky",
+    "desc": "A modern Wine wrapper for macOS built with SwiftUI",
+    "officialSite": "https://getwhisky.app",
+    "topics": ["game", "game-porting-toolkit", "mac", "macos", "metal", "swiftui", "wine"]
   }
 ]

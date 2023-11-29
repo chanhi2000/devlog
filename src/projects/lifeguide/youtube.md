@@ -38,5 +38,6 @@ meta:
 <MyYouTubeItems jsonName="yu-SIMPLEC00KING" /><!-- 자취요리신 simple cooking -->
 <MyYouTubeItems jsonName="yu-K-nammae" /><!-- 만원요리 최씨남매 -->
 <MyYouTubeItems jsonName="yu-ceoj" /><!-- 김현주 세무사 -->
+<MyYouTubeItems jsonName="yu-koreanhomecooking" /><!-- 집밥 korean home cooking -->
 
 <TagLinks />
