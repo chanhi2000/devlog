@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7HRrj_MXepIwHax8lZiuicJIO4C-mjtFE25YX9kIPJZgHxezebzfFUFelKGyA7wR8LkcWpZd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Cll_jaL-ZPA", "title": "{TypeScript}  - 유틸리티 타입" },
     { "id": "ibao9XbGfvE", "title": "{자바스크립트}  - 스코프와 렉시컬 스코프" },
     { "id": "isqpE-E3Y-8", "title": "{자바스크립트}  - 블록 스코프와 콜백 함수의 이해" },
     { "id": "dzMHHQl3Bms", "title": "{자바스크립트}  - strict mode의 이해" },

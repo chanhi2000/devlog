@@ -1838,5 +1838,20 @@
     "desc": "Connect, collaborate, and grow with a community of TypeScript developers",
     "officialSite": "https://typehero.dev",
     "topics": ["hacktoberfest", "nextjs", "prisma", "react", "typescript"]
+  }, {
+    "repo": "StanGirard/quivr",
+    "desc": "Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs.",
+    "officialSite": "https://quivr.app",
+    "topics": ["ai", "assistant", "brain", "chat", "embeddings", "function", "gpt", "gpts", "llm", "local", "pdf", "personal", "private", "productivity", "second", "second-brain", "share"]
+  }, {
+    "repo": "bbycroft/llm-viz",
+    "desc": "3D Visualization of an GPT-style LLM",
+    "officialSite": "https://bbycroft.net",
+    "topics": []
+  }, {
+    "repo": "CopilotKit/CopilotKit",
+    "desc": "Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.",
+    "officialSite": "https://copilotkit.ai",
+    "topics": ["ai", "langchain", "llm", "nextjs", "open-source", "react", "reactjs", "ts", "typescript"]
   }
 ]

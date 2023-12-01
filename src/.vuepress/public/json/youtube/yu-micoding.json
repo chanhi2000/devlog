@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/vQbZsH3LkG4eg5JtH7UITwySa60UoQ_B3_0W-7R9uKrmBRhpiY19lzAj2pgzsUHNUUp3FYrfew=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZN1r-rJqZOA", "title": "23 12 03, p 13250, 7강, 날짜 관련 정규식에서 초단위 이후 내용이 없어도 통과 되도록, @RequestBody 도입" },
+    { "id": "ndbK2lGfXIk", "title": "23 12 03, p 13250, 6강, RsData 의 statusCode 가 HttpServletResponse 의 응답코드가 되도록" },
+    { "id": "kUl_Aj2SE20", "title": "23 12 03, p 13250, 5강, RsData 클래스 도입, 모든 API 응답의 기본양식 역할" },
+    { "id": "pxjM9I_7OjQ", "title": "23 12 03, p 13250, 4강, MeResponse 클래스 추가, 테스트케이스에서 jsonPath 사용하여 올바른 json 이 구성되었는지 체크" },
+    { "id": "V63jtPvrDJQ", "title": "23 12 03, p 13250, 3강, GET /api/v1/members/me" },
+    { "id": "83M3mSfuFE8", "title": "23 12 03, p 13250, 1강, 프로젝트 세팅" },
+    { "id": "VTkwmJBiCcM", "title": "23 12 03, p 13250, 2강, 미디엄 클론코딩, 블로그 결제 정산 기능 구현, 스프링부트와 스벨트킷으로 구현" },
     { "id": "RAoJ97hEUas", "title": "23 10 04, ken 13039, 35강, Rq::redirectOrBack 메서드 도입, EmailVerificationController::verify 메서드 리팩토링" },
     { "id": "kd5HGJF_bsM", "title": "23 09 26, ken 13039, 34강, 이메일 발송기록 로깅" },
     { "id": "EnFRWlq86ug", "title": "23 09 26, ken 13039, 33강, 전체적인 리팩토링" },

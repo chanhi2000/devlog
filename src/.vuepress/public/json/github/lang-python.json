@@ -3364,6 +3364,11 @@
     "officialSite": "",
     "topics": []
   }, {
+    "repo": "OthersideAI/self-operating-computer",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
     "repo": "unslothai/unsloth",
     "desc": "5X faster 50% less memory LLM finetuning",
     "officialSite": "https://unsloth.ai/",
@@ -3378,5 +3383,45 @@
     "desc": "Machine Learning Engineering Online Book",
     "officialSite": "https://stasosphere.com/machine-learning/",
     "topics": ["ai", "bash", "large-language-models", "llm", "machine-learning", "machine-learning-engineering", "make", "mlops", "python", "pytorch", "scalability", "slurm", "transformers"]
+  }, {
+    "repo": "521xueweihan/HelloGitHub",
+    "desc": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "officialSite": "https://hellogithub.com",
+    "topics": ["awesome", "github", "hellogithub", "python"]
+  }, {
+    "repo": "NVIDIA/Megatron-LM",
+    "desc": "Ongoing research training transformer models at scale",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "comfyanonymous/ComfyUI",
+    "desc": "The most powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "officialSite": "",
+    "topics": ["stable-diffusion"]
+  }, {
+    "repo": "state-spaces/mamba",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "microsoft/TaskWeaver",
+    "desc": "A code-first agent framework for seamlessly planning and executing data analytics tasks. ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "xaoyaoo/PyWxDump",
+    "desc": "获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。",
+    "officialSite": "",
+    "topics": ["pywxdump", "wechat", "wx", "wxdump", "wxexport"]
+  }, {
+    "repo": "sh-lee-prml/HierSpeechpp",
+    "desc": "The official implementation of HierSpeech++",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "VikParuchuri/marker",
+    "desc": "Convert PDF to markdown quickly with high accuracy",
+    "officialSite": "",
+    "topics": []
   }
 ]

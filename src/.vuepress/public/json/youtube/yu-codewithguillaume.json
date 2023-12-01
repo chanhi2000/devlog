@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7rZoCcYJe2T_8eBMkMdDfqNZvZCYLmduiINgjARGAGXQ--COzFlR-6H-3RB6dHNcOxQZlRNoHw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Squkxl3zhD4", "title": "Gmail clone with Resend — Course part 10" },
     { "id": "a_qbqpDifXM", "title": "Learn Next.js 14 — Full course for beginners [3 hours] 2023" },
     { "id": "6JCGMX-jILw", "title": "Webhooks with Resend — Course part 9" }
   ]

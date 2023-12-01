@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/kM7TOJeLqNWwapFd-wgXcZDDbzKQIopU5zj6_3Pr6FaEI1oB3mNh9ATGmbCGzcyGXjRypoWUQA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I338rqAVFaE", "title": "Dagger Hilt Android Tutorial - Dependency Injection" },
+    { "id": "z3upO8AFLO4", "title": "Build A Clean Architecture Movies App -  Part 1" },
     { "id": "8IhNq0ng-wk", "title": "Retrofit Android Tutorial - Make API Calls" },
     { "id": "7m8Wm2yyDYA", "title": "Navigation In Jetpack Compose - Android" },
     { "id": "j88wrM4eRPs", "title": "Lazy Lists In Jetpack Compose - (Lazy Column, Row, Grid)" }

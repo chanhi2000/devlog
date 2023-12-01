@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "crGGvgV8ejQ", "title": "Simplify Rust Code with Easy Elegance: Unleashing the Power of Fluent Interfaces" },
     { "id": "8zIIdXr_mKI", "title": "Jetbrain's Rustrover: a first look" },
     { "id": "xHrHDmK4Ess", "title": "Building a Web API in Rust with Actix and Diesel Part 2: The database" },
     { "id": "YkeUg-gkv2Q", "title": "Building a Web API in Rust with Actix and Diesel Part 1: Setting up" },

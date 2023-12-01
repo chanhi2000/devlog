@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AlsGeekLab",
+    "name": "Al's Geek Lab",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYjIajHIxpbC0JrekGNaGcTyy4D87L-XmA4BYrB=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2eqjhiHaxMHhBplYtt3hgljz1bqZkfLLiIoEQAiAcQGDQYAQe1lNWEiCfeNca6YFoaFOV-yq0g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YUxaLP6bI00", "title": "Microsoft's forgotten UNIX operating system - Whatever happened to Xenix?" }
+  ]
+}

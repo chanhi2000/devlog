@@ -41,5 +41,7 @@ meta:
 <MyYouTubeItems jsonName="yu-koreanhomecooking" /><!-- 집밥 korean home cooking -->
 <MyYouTubeItems jsonName="yu-sun_nomusarang" /><!-- SUN노무사랑 -->
 <MyYouTubeItems jsonName="yu-benjaminkeep" /><!-- Benjamin Keep, PhD, JD -->
+<MyYouTubeItems jsonName="yu-5bok_house" /><!-- 오복하우스 -->
+<MyYouTubeItems jsonName="yu-cook5162" /><!-- 이 남자의 cook -->
 
 <TagLinks />

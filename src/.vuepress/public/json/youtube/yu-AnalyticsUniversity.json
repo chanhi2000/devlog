@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "AnalyticsUniversity",
+    "name": "Analytics University",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY2SXq5vvTEynpElL_6eUutZFRy41p_-OEgdO8aoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "qFiG7tAGwys", "title": "EXPLORING NETFLIX'S STOCK PRICE DATA USING PYTHON (EDA ON TIME SERIES DATA)" },
+    { "id": "pjBoGUPBnVQ", "title": "Kernel Density Estimation in Python" },
+    { "id": "i_CT3nHICjU", "title": "BASEL Accord | Financial Risk Management | Regulatory Capital |  Banking" }
+  ]
+}

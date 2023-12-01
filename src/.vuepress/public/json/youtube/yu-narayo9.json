@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "narayo9",
+    "name": "김찬욱",
+    "profile": "https://yt3.googleusercontent.com/B3gGbiZsV8H7yRaKMTkYlxOBb0mXsZjGM_kDFyXpFW35Rrj0t5c3VPm7UYRtFl7E3_jxYBpdMac=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "k5JtkbH0-1Y", "title": "블로그 API 만들기 (Django REST Framework) / 2023-03 서울대학교 웹/앱 개발 동아리 와플스튜디오 Django 세미나" }
+  ]
+}

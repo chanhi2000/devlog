@@ -419,5 +419,10 @@
     "desc": "A copy of ONNX models, datasets, and code all in one GitHub repository. Follow the README to learn more.",
     "officialSite": "https://github.com/onnx/models",
     "topics": []
+  }, {
+    "repo": "modularml/mojo",
+    "desc": "The Mojo Programming Language",
+    "officialSite": "https://docs.modular.com/mojo",
+    "topics": ["ai", "language", "machine-learning", "modular", "mojo", "programming-language"]
   }
 ]

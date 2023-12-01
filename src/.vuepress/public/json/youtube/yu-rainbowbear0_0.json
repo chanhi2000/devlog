@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "rainbowbear0_0",
+    "name": "무지개곰",
+    "profile": "https://yt3.googleusercontent.com/7qe-U2iedzw3uFPL4xooYdsUd5bvksCArnDdEsaZv7Zq0oZn2R2gxi8HWGnAIoe1UHqu4EkXCA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "9GEHLHrt2qA", "title": "[Kubernetes] 애플리케이션 스케일링(길벗 리뷰어)" }
+  ]
+}

@@ -320,14 +320,5 @@ public class FooBar {
 
 ---
 
-## Log4j (1,2)
-
-### Favorite Layout Pattern(s)
-
-1. `%d{yyyy-MM-dd HH:mm:ss} %-5p : $c.%M(%F:$L) %-80m %n`
-2. `%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n`
-3. `%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n`
-
----
 
 <TagLinks />

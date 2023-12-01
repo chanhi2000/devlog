@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "BzlPrVB_DwA", "title": "Full Course - Learn ASP.NET Core MVC in .NET 8 | CRUD Operations | EntityFramework Core" },
     { "id": "Zv24RaMg4qk", "title": "MVC in .NET 8 | Handle HttpPost request | Ep 18" },
     { "id": "_ugUrqsm0dY", "title": "MVC in .NET 8 | Use Hidden field to store Id in the form | Ep 19" },
     { "id": "7s3ymGdE-wQ", "title": "MVC in .NET 8 | Form Validation with DataAnnotation | Ep 20" },

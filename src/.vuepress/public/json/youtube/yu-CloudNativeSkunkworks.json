@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CloudNativeSkunkworks",
+    "name": "Cloud Native Skunkworks",
+    "profile": "https://yt3.googleusercontent.com/XLpJY2WbYeWIXcZyKmhV2T12D5RLLOO--8C9PlSJxxDJsdV2FBDthIFsBYfhefo3pAA9tydGcA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/b-OaqLjznVLBbOGv-zQzXvNVpALPjUny09hwLr-lurJ36SY77YZT5DiBN9c6MOIvwNTqyXlirQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uhEbvpSpXZQ", "title": "What is Charmed Kubernetes?" }
+  ]
+}

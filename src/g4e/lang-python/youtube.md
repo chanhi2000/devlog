@@ -54,5 +54,7 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-TurbineThree" /><!-- TurbineThree -->
 <MyYouTubeItems jsonName="yu-basensei8699" /><!-- BA Sensei -->
 <MyYouTubeItems jsonName="yu-RaihansCodeShow" /><!-- Raihan'sCodeShow -->
+<MyYouTubeItems jsonName="yu-ImcommIT" /><!-- 임커밋 -->
+<MyYouTubeItems jsonName="yu-realpython" /><!-- Real Python -->
 
 <TagLinks />

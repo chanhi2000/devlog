@@ -109,5 +109,10 @@
     "desc": "All the resources you need to get to Senior Engineer and beyond",
     "officialSite": "",
     "topics": ["awesome", "career", "career-growth", "path-to-senior", "senior-engineer", "software-developer"]
+  }, {
+    "repo": "federico-busato/Modern-CPP-Programming",
+    "desc": "Modern C++ Programming Course (C++11/14/17/20)",
+    "officialSite": "",
+    "topics": ["arithmetic", "arithmetic-types", "c-plus-plus", "code-quality", "compilers", "conversion", "course", "cpp", "cpp-course", "cpp11", "cpp14", "cpp17", "cpp20", "debugging", "object-oriented-programming", "optimization", "pointer", "programming", "template"]
   }
 ]

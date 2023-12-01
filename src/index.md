@@ -146,6 +146,14 @@ logo: https://diagrams.mingrammer.com/img/diagrams.ico
 color: rgba(94, 115, 229, 0.2)
 ```
 
+```card
+title: Onsites.fyi
+desc: Learn from hundreds of real tech interview experiences!
+link: https://www.onsites.fyi
+logo: https://www.onsites.fyi/favicon.ico
+color: rgba(190, 242, 100, 0.2)
+```
+
 <ShieldsGroup 
   logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"
 />

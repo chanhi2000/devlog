@@ -26,6 +26,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## tldp
+
+- [Linux Filesystem Hierarchy](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+
+---
+
 ## makelinux 
 
 - [interactive kernel map](https://makelinux.github.io/kernel/map)

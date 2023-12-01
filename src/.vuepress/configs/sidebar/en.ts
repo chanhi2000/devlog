@@ -101,6 +101,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/README.md',
         '/g4e/lang-java/basics.md',
         '/g4e/lang-java/singleton.md',
+        '/g4e/lang-java/log4j.md',
         '/g4e/lang-java/spring.md',
         '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',

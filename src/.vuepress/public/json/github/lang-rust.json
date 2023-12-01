@@ -849,5 +849,20 @@
     "desc": "Educational blog posts for Rust beginners",
     "officialSite": "",
     "topics": ["blog", "blogging", "rust", "rust-lang"]
+  }, {
+    "repo": "01mf02/jaq",
+    "desc": "A jq clone focussed on correctness, speed, and simplicity",
+    "officialSite": "",
+    "topics": ["jq", "json", "query", "rust"]
+  }, {
+    "repo": "pwnwriter/hysp",
+    "desc": "📦 An independent package manager that every hacker deserves. ",
+    "officialSite": "https://crates.io/crates/hysp",
+    "topics": ["hacktoberfest", "hactoberfest", "linux", "nix-package-manager", "nix-pm", "package-manager", "pwnwriter", "rustlang", "unix"]
+  }, {
+    "repo": "AmrDeveloper/GQL",
+    "desc": " Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions",
+    "officialSite": "https://amrdeveloper.github.io/GQL/",
+    "topics": ["database", "engine", "git", "gitql", "gql", "interpreter", "rust", "sql"]
   }
 ]

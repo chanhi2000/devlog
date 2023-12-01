@@ -117,9 +117,17 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Xuanwo
+
+- [Rust std fs slower than Python!? No, it's hardware!](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
+
+---
+
 ## Carlos Galdino
 
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
+
+---
 
 ## Rust
 

@@ -13,7 +13,9 @@ tags: ["kotlin", "companion-object", "logger", "slf4j", "log4j", "lombok"]
 
 ---
 
-## Slf4j loggers in 3 ways
+## 🅺Kotlin
+
+### Slf4j loggers in 3 ways
 
 If you use [SLF4J](https://slf4j.org) (and possibly Logback) for logging, you are probably familiar with the following code:
 
@@ -23,12 +25,14 @@ val logger = LoggerFactory.getLogger(MyClass::class.java)
 
 We like short code, and we like DRY. So here are 3 other ways of getting a logger, to avoid repeating the tedious `LoggerFactory` stuff:
 
-### 1. Factory function
+#### 1. Factory function
 
 - Function definition is easy to understand, but usage requires the class name.
 - Gives the correct logger class name in companions.
 
-#### Code
+::: details Usages
+
+@tab:active Code
 
 ```kotlin
 inline fun <reified T> logger(): Logger {
@@ -36,7 +40,7 @@ inline fun <reified T> logger(): Logger {
 }
 ```
 
-::: details Usage
+@tab Usage 1
 
 ```kotlin
 class LogWithFactoryFunction {
@@ -46,7 +50,11 @@ class LogWithFactoryFunction {
         logger.info("Hey from a factory function!")
     }
 }
+```
 
+@tab Usage 2
+
+```kotlin
 class LogWithCompanionFactoryFunction {
     companion object {
         val logger = logger<LogWithFactoryFunction>()
@@ -58,11 +66,7 @@ class LogWithCompanionFactoryFunction {
 }
 ```
 
-:::
-
-Alternatively, you can help kotlin figure out T to avoid passing it in. However, this would cause `Companion` to show up again:
-
-::: details Usage
+@tab Usage 3
 
 ```kotlin
 class LogWithFactoryFunction {
@@ -74,7 +78,10 @@ class LogWithFactoryFunction {
 }
 ```
 
-Or even shorter, creating it as an extension function:
+Alternatively, you can help kotlin figure out `T` to avoid passing it in. However, this would cause `Companion` to show up again:
+
+
+@tab Usage 4
 
 ```kotlin
 class LogWithFactoryFunction {
@@ -86,32 +93,33 @@ class LogWithFactoryFunction {
 }
 ```
 
+Or even shorter, creating it as an extension function
+
 :::
 
-### 2. Companion with inheritance
+#### 2. Companion with inheritance
 
 - No visible `logger` property in your code; it's available through the companion object
 - Logger gets `$Companion` in the logger name
 - Interface version asks for a logger each time, causing slf4j to check its initialization state
 
-#### Code
+::: details Usages
+ 
+@tab:active Code
 
 ```kotlin
 abstract class Log {
     val logger: Logger = LoggerFactory.getLogger(this.javaClass)
 }
-```
 
-or
-
-```kotlin
+// or
 interface Log {
     fun logger() = LoggerFactory.getLogger(this.javaClass)
 }
 ```
 
-::: details Usage
- 
+@tab Usage 1
+
 ```kotlin
 class LogWithCompanion {
     companion object : Log() {}
@@ -122,7 +130,7 @@ class LogWithCompanion {
 }
 ```
 
-or
+@tab Usage 2
 
 ```kotlin
 class LogWithInterfaceCompanion {
@@ -136,12 +144,14 @@ class LogWithInterfaceCompanion {
 
 :::
 
-### 3. Delegate property
+#### 3. Delegate property
 
 - Harder to understand delegate source code
 - Logger gets `$Companion` in the logger name if placed in a companion
 
-#### Code:
+::: details Usage
+
+@tab:active Code
 
 ```kotlin
 import org.slf4j.Logger
@@ -167,7 +177,7 @@ class LoggerDelegate : ReadOnlyProperty<Any?, Logger> {
 }
 ```
 
-::: details Usage
+@tab Usage 1
 
 ```kotlin
 class LogWithDelegate {
@@ -181,7 +191,7 @@ class LogWithDelegate {
 
 :::
 
-### 😎4. Bonus
+#### 😎4. Bonus
 
 If you have access to the `KClass`, this is an easy way to get rid of `$Companion`:
 

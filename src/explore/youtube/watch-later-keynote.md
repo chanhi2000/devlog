@@ -88,5 +88,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-daangntech" /><!-- 당근테크 -->
 <MyYouTubeItems jsonName="yu-programmerschannel" /><!-- programmers -->
 <MyYouTubeItems jsonName="yu-ExpertZone" /><!-- Microsoft ExpertZone North America -->
+<MyYouTubeItems jsonName="yu-lgcnstube" /><!-- LG CNS -->
 
 <TagLinks />

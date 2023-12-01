@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ooPgP4XXOAAZImkPsyW0tICGI_EpP7IpoQq9Da29HiP5u3_I3u7tvydcqL5mbqe9MD0dB00XwOE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "s6DMa3Jqmsk", "title": "Interactive Widgets - Intents - iOS 17 - SwiftUI - WWDC 2023" },
     { "id": "lyuo59840qs", "title": "SwiftUI: Infinite Looping ScrollView - iOS 17 - Xcode 15" },
     { "id": "UETjgKWWB1I", "title": "SwiftUI Shine Effect - Custom View Modifier - iOS 17 - Xcode 15" },
     { "id": "K8VnH2eEnK4", "title": "Swipe Actions For ScrollView - No Gestures! - iOS 17 Scroll APIs - Xcode 15" },

@@ -809,5 +809,10 @@
     "desc": "Collection of Summer 2024 tech internships!",
     "officialSite": "https://swelist.com/",
     "topics": ["internships", "interview-preparation", "jobs", "university"]
+  }, {    
+    "repo": "atomone-hub/genesis",
+    "desc": "declaration of genesis",
+    "officialSite": "",
+    "topics": []
   }
 ]

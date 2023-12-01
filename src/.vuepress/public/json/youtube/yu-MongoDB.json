@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/MNEsC8Wtd1Stf_OQYP-OBqVoveODo09vUT3WrEftmEA65X1zuJ5QOOJnOWAucqgedq-3qA-JWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "X9QqA0alA8Q", "title": "Testing & Packaging a Python Library: Coding with Mark" },
+    { "id": "Jv4gDdlVdc8", "title": "Learning with Luce - Getting started with Ruby on Rails and Atlas" },
     { "id": "ZVY-MQM02Zw", "title": "Unified Data Architecture with Executive Solutions Architect Matt Kalan" },
     { "id": "0SjuYcdGEgQ", "title": "Sync your iOS SwiftUI App with MongoDB Atlas using Atlas Device Sync | Part 2" },
     { "id": "XrJG994YxD8", "title": "Mastering Indexing for Perfect Query Matches" }, 

@@ -1,0 +1,63 @@
+---
+lang: ko-KR
+title: 🖨Log4j
+description:  ☕️Java > 🖨Log4j
+tags: ["git" , "github" , "java" , "kotlin" , "android"]
+meta:
+  - name: 🖨Log4j
+    content: ☕️Java > 🖨Log4j
+  - property: og:title
+    content: 🖨Log4j
+  - property: og:description
+    content: ☕️Java > 🖨Log4j
+  - property: og:url
+    content: https://chanhi2000.github.io/g4e/lang-java/log4j.html
+---
+
+# {{ $frontmatter.title }} 관련
+
+> {{ $frontmatter.description }}
+
+[[toc]]
+
+---
+
+## 예제: <FontIcon icon="iconfont icon-file"/>`log4j2.properties` 
+
+::: details 예제
+
+@tab:active 기본
+
+```properties
+status=warn
+name=DemoLog
+
+appenders = stdout
+
+# 콘솔 출력 설정
+appender.stdout.type                     = Console
+appender.stdout.name                     = STDOUT
+appender.stdout.layout.type              = PatternLayout
+appender.stdout.layout.pattern           = [%t] %-5p : %c.%M(%F:%L) %-80m %n
+appender.stdout.filter.threshold.type    = ThresholdFilter
+appender.stdout.filter.threshold.level   = debug
+
+rootLogger.level                         = debug
+rootLogger.appenderRef.stdout.additivity = false
+rootLogger.appenderRef.stdout.ref        = STDOUT
+```
+
+:::
+
+---
+
+## Layout Pattern(s)
+
+- `%d{yyyy-MM-dd HH:mm:ss} %-5p : $c.%M(%F:$L) %-80m %n`
+- `[%t] %-5p : %c.%M(%F:%L) %-80m %n`
+- `%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n`
+- `%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n`
+
+---
+
+<TagLinks />

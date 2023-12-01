@@ -25,5 +25,6 @@ tags: ["education", "youtube", "programming", "php", "laravel"]
 <MyYouTubeItems jsonName="yu-kingchobo" /><!-- 왕초보 홈페이지만들기 -->
 <MyYouTubeItems jsonName="yu-Laracastsofficial" /><!-- Laracasts -->
 <MyYouTubeItems jsonName="yu-izicode" /><!-- izicode -->
+<MyYouTubeItems jsonName="yu-dave-hollingworth" /><!-- Dave Hollingworth -->
 
 <TagLinks />

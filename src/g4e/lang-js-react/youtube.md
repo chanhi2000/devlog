@@ -27,5 +27,8 @@ meta:
 <MyYouTubeItems jsonName="yu-notjustdev" /><!-- notJust․dev -->
 <MyYouTubeItems jsonName="yu-SamMeechWard" /><!-- Sam Meech-Ward -->
 <MyYouTubeItems jsonName="yu-thedevenvironment" /><!-- The Dev Environment -->
+<MyYouTubeItems jsonName="yu-WhiteSponge" /><!-- WhiteSponge -->
+<MyYouTubeItems jsonName="yu-CodingCafe1" /><!-- 코딩카페1 -->
+<MyYouTubeItems jsonName="yu-codewithkliton" /><!-- Code with Kliton -->
 
 <TagLinks />

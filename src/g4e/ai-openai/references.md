@@ -170,9 +170,11 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
-## SlashPage
+## 해봄
 
 - [[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)
+- [Google, GPT-4를 능가하는 모델 Gemini 발표](https://slashpage.com/haebom/1n8pw9x2z7ge6mg7yrqv)
+- [인공지능을 사용하는 인간을 위한 안내서](https://slashpage.com/haebom/hitchhiker)
 
 ---
 

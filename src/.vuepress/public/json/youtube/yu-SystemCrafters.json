@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/wZPQXRO4qeti6imMlGRbxBY9WDMgxT7_9ZZ0ihqJjflYS08qkHmaj3wBujeI2xsxlJFinxhRd8o=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_LjXJoERB2o", "title": "Host Your Own Forgejo, Part 2 - System Crafters Live!" },
     { "id": "HG7pVCa0DVY", "title": "Terminal Velocity: Eshell, vterm, and Eat - System Crafters Live!" },
     { "id": "Teak30_pXHk", "title": "Introduction to Functional Programming with F# - Part 1 [Episode 001]" },
     { "id": "E-NAM9U5JYE", "title": "Emacs From Scratch #8 - Build Your Own IDE with lsp-mode" }

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "schezokim",
+    "name": "Austin Kim",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaHC6qrR60lgxivQzfn4HThd8qRF2zuKr3KsK-v=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cCAeKZfe8Yz9kR8UFXjWQBK7OocEhtsCL8g6m7e_J8eg6iJug9NW4TdAYDsVK1-M9fWgJAZ9zw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CD2Fe8seeoA", "title": "[8회 한국 리눅스 커널 개발자 모임] 1. 커널 리포트(v5.19~v6.4)" },
+    { "id": "JIOnqDu6cvE", "title": "[ENG] Good material to learn Linux BSP: Crash dump Analysis" }    
+  ]
+}

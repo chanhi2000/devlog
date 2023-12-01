@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "FauziyyahZak1",
+    "name": "FauziyyahZak",
+    "profile": "https://yt3.googleusercontent.com/jIPrbxgWYfJ5Kcls6ugV7VsDBHQn7rG56j2ee7aulmaubzilcp0jMqpxqMuUeiW4C8TjvMMV=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "UGflo4lUOPg", "title": "ALX-AWS Challenge Lab 4 - Creating a Dynamic Website for the Cafe." },
+    { "id": "0T-bIodu5a4", "title": "ALX-AWS Challenge Lab 5 - Migrating a Database to Amazon RDS" },
+    { "id": "cLECzBeO-HU", "title": "ALX-AWS Challenge Lab 6 - Creating a VPC Networking Environment for the Cafe" },
+    { "id": "Gn2crJX3nlw", "title": "ALX-AWS - Module 7 Guided Lab - Creating a VPC Peering Connection" },
+    { "id": "90KfEp3plxQ", "title": "ALX-AWS Module 8 – Challenge Lab: Controlling AWS Account Access by Using IAM" }
+  ]
+}

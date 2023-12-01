@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/NfXI1ruUrRXCQfkNI7fPnRxxNbo-6OJmfl9GbEx8CnUojvyRtZ5az52GFOEGSZ4ZHtemfFzB11M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XJgQvdvSSPg", "title": "\"Networking\" as a Software Developer | @charmcli" },
     { "id": "78FjNkrPn5Y", "title": "Replicate My Tmux Setup in Less Than 5 Minutes [Beginner Friendly!]" }, 
     { "id": "ZvhzrltuA9U", "title": "Replicate my neovim setup in less than 5 minutes [beginner friendly!]" }, 
     { "id": "GfQjJBtO-8Y", "title": "My CLI Pomodoro is Better Than Yours" }, 

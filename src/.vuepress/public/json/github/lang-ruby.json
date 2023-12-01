@@ -64,5 +64,10 @@
     "desc": ":microscope: A Ruby library for carefully refactoring critical paths.",
     "officialSite": "",
     "topics": ["refactoring", "ruby", "rubygem", "scientist"]
+  }, {
+    "repo": "fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "officialSite": "https://fastlane.tools",
+    "topics": ["android", "apps", "automation", "deployment", "fastlane", "hacktoberfest", "hacktoberfest2021", "ios", "mobile", "ruby", "screenshots"]
   }
 ]
