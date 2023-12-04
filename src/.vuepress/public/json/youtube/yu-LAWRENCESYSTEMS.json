@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/zxeh6xgShj-D5EhmdS23h4MzK7qCmY9Z_5J25Bg9RFsuI1UENvJqUnP2QKXmDgapUAbaFMnc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "e_R0nJ_2vpk", "title": "Is The Ace Magic S1 A Good Homelab Mini PC and Cyber Monday Deal?" },
+    { "id": "oFjbK_2xHgs", "title": "Rsync Setup on TrueNAS Scale for Synology NAS Hyper Backup" },
     { "id": "5dytu5YW0LY", "title": "Blumira: The SIEM and XDR Security Tool for IT & MSP Teams" },
     { "id": "TCMivAkDBtw", "title": "UniFi: How to Securely Configure Switch Port VLAN Traffic Restrictions and Avoid VLAN Hopping" },
     { "id": "vuvCXf9wQYs", "title": "Self Hosted S3 Object Storage On FreeNAS / TrueNAS With Minio" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-INdgWh-SQw", "title": "Vue.js V3 - 핵심 #10 - form 입력 바인딩, v-model, input의 차이점" },
     { "id": "SXG-YdhD8Dg", "title": "Vue.js V3 - 핵심 #08 - 리스트 렌더링 v-for, 객체, 배열 목록 출력, computed와 methods 함수 비교" },
     { "id": "Ip2vrY0EtsM", "title": "Vue.js V3 - 핵심 #07 - 조건부 렌더링, v-if, v-else, v-else-if, v-show" },
     { "id": "WJz9BaN1jCg", "title": "Vue.js V3 - 핵심 #09 - 이벤트 핸들링의 모든것 - 인라인, 함수, 객체 접근, 수식어, 입력키 등" },

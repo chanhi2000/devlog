@@ -22,6 +22,10 @@ description: 🛠️Git > 📚References
 
 - [Parsing more than 10TB of GitHub Logs with Trickest and Extracting Public Details of all GitHub Users & Repositories](https://trickest.com/blog/parsing-github-logs-with-trickest)
 
+## freecodcamp
+
+- [How to Write Commit Messages that Project Maintainers Will Appreciate](https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like)
+
 ---
 
 ## appsmith

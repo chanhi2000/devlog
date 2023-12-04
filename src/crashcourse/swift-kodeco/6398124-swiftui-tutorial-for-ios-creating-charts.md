@@ -587,7 +587,6 @@ Then you get the text abbreviation for each month and draw it at the same offset
 
 Your chart now gives a good overview of the temperature ranges at each location. The top and bottom of each vertical line combine with the color to clearly show the temperatures at different times of the year. The grid lines and labels help the viewer identify a time of year or temperature range.
 
-
 ---
 
 ## Where to Go From Here

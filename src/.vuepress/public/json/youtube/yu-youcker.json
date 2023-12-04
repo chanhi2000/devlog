@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "youcker",
+    "name": "Joe Nice",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbv3-83Bc_vIg8C7T-wjleGtbYIxV5VcTVPvmmDjA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j3t-LIJpbRjMlykB00J9e1HV5NP4mwfxwxnyXOMIW23wX02kwrF-Z4M9dM397AM0vfEWp-sNO4c=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Nz-vWYM-2Gw", "title": "Linux And Windows Kernel Comparison" }
+  ]
+}

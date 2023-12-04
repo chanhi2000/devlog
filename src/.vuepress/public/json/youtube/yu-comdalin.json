@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "GEcSutX6kmE", "title": "[pinecone] Data management" },
     { "id": "cRNEaRMrYOI", "title": "[pinecone] Vector 데이터베이스 시작하기" },
     { "id": "D7dnDaZhaoo", "title": "[개발환경구축] Colab and Github" }, 
     { "id": "dIY0XtHFIkw", "title": "[mojo] SIMD" }, 

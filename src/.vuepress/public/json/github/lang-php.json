@@ -154,5 +154,10 @@
     "desc": "A PHP client library for accessing Google APIs",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "laravel/pulse",
+    "desc": "Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.",
+    "officialSite": "https://pulse.laravel.com/",
+    "topics": ["insights", "laravel", "monitoring", "performance"]
   }
 ]

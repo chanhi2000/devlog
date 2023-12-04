@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hGuK35xxMUot29sl0pBB6v-59COh6a5L518qI2G74tzqtq13OYO5s4uMkgEANqQQ6zVz0A6R=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6SaUwqw4ueE", "title": "C++ Weekly - Ep 404 - How (and Why) To Write Code That Avoids `std::move`" },
     { "id": "tQiOOU9ze9g", "title": "Building a 3d Raycasting Game Engine - Testing and Refinements" }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "stacksmashing",
+    "name": "stacksmashing",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZUxXpNSqScW6Ve_8McXGAh4l1rbQtF8a0wD5ZDpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fyYGwQcsjCIGleEESJihmSiCU7_VxOHmr8O_NgEXpTMLaT3iOzPuX3V5nduWvHGJrWFGJLLs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Sv8yu12y5zM", "title": "Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra" },
+    { "id": "Q90uZS3taG0", "title": "Reversing WannaCry Part 2 - Diving into the malware with #Ghidra" },
+    { "id": "fTGTnrgjuGA", "title": "Ghidra quickstart & tutorial: Solving a simple crackme" }
+  ]
+}

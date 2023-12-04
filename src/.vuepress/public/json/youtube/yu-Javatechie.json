@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/MFHFeloW3xAxIUKf0_aDKFFXxWwI_arzKqk_2hXO4R2GmjRR0pc_CkhH6T5z3mmuJ2OiPgR2Z4E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "N1kFMqF7dlU", "title": "Build & Host An Application in Minutes Using ChatGPT | JavaTechie" },
     { "id": "R_gejlOXR7g", "title": "Spring Boot | Exploring Asynchronous 🚀 Calls with @Async Annotation | JavaTechie" },
     { "id": "FFfJeb8Ec6Y", "title": "Core Java Interview Questions & Answers | Top FAQs Explained! | @Javatechie" },
     { "id": "Ni-6REJVXrc", "title": "Exploring Spring Boot 3.2 🚀 New JDBC Client | Latest Features Explained ! @Javatechie" },

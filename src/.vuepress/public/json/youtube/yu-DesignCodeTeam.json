@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/DOrWB5SLcOtJZy_IIr9glzNA48eNKdNYpRB2uFO7JtsbxwC1dmPaK0ynVNmTVWTnCid1m-YzSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ixSDNrOM3-I", "title": "Create 3D UI Interactions for Websites with Spline - Free course" },
     { "id": "pZcwsjY81hA", "title": "UI Design Livestream: Team Components, Dos and Donts, Design Tips" },
     { "id": "AtoweRknIKA", "title": "UI Design Livestream: Design System, Variables, Breakpoints and Framer Deployment" }, 
     { "id": "8eyJ5RYEquI", "title": "Design an app for visionOS in Figma" },

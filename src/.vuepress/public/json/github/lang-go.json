@@ -1044,5 +1044,15 @@
     "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
     "officialSite": "https://grpc-ecosystem.github.io/grpc-gateway/",
     "topics": ["go", "grpc", "grpc-gateway", "openapi", "rest-api", "restful-api", "swagger"]
+  }, {
+    "repo": "tomnomnom/gron",
+    "desc": "Make JSON greppable!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "albertito/chasquid",
+    "desc": "SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror]",
+    "officialSite": "https://blitiri.com.ar/p/chasquid/",
+    "topics": ["email-security", "go", "go-application", "golang", "mail", "mailserver", "mta", "server", "smtp"]
   }
 ]

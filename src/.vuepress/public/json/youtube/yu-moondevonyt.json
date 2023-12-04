@@ -6,14 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/sZwGrhLwRB_MgmOtVOhBVKjelEcDdsXs47ZQvTJrIc3NwUIqHw4WKoi7-x6_Mk2Jfw9cy5s8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OGcPVyDyoJA", "title": "How to Build a Trading Bot" },
+    { "id": "0tzTgn4WuXU", "title": "Stochastic Oscillator Divergence Trading Bot (RESULTS)" },
     { "id": "ts7G4Md0oYA", "title": "How to build a Trading bot from HOME" },
     { "id": "RU0YYSju_t4", "title": "OpenAI Taught me C# in 100 mins & 19 seconds" },
     { "id": "Q88M6eO655w", "title": "Chat GPT taught me C# in 68 minutes" },
     { "id": "OY6-LhAK3bA", "title": "10 Python Input Tricks They NEVER Taught You!" },
     { "id": "yBAOgQTe0vQ", "title": "The Trader's Secret: Effective Stop-Loss Strategies for Success" },
     { "id": "Zwqn6r-XpZ8", "title": "my bot reads the tape for me" },
-    { "id": "xv_vyAbxuog", "title": "How to use Web Socket Data for Algo Trading (Hyperliquid Exchange) pt  1" }
-    { "id": "Zwqn6r-XpZ8", "title": "my bot reads the tape for me" }, 
+    { "id": "xv_vyAbxuog", "title": "How to use Web Socket Data for Algo Trading (Hyperliquid Exchange) pt  1" },
     { "id": "KMPXEmdSkag", "title": "learn something while we're in bear market" }, 
     { "id": "QrQN8LgixOs", "title": "I put all of my code in the bootcamp for you" }, 
     { "id": "Ey6o1DG_79A", "title": "stop trying to predict the price" }, 

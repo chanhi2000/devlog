@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "tHDhJ4OAtdA", "title": "ChatGPT + Prompt Engineering" },
+    { "id": "Q6J-w3gnDug", "title": "Serverless로 서버 빠르게 배포하기" },
     { "id": "uzch3bilTvo", "title": "객체지향과 스프링에 대한 이해" }
   ]
 }

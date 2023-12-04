@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ndVBX6A95r8QNXWrQoUmFnCH4z4GJKkA3fHo-Wg6PodK2HKIKrsl9zo76SJOQUu27jix8IEHunU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MReGAlCAIw8", "title": "[구글스프레드시트] MakeArray함수를 이용하여 특정 열별/행별 다양한 작업하기" },
+    { "id": "L2c1bxjKVx0", "title": "[구글스프레드시트] 수식만으로 Excel365 PivotBy 함수 구현" },
     { "id": "OYVPT-0Xd-k", "title": "[구글스프레드시트] 대/소문자를 구분하여 합계/수량 구하기" }, 
     { "id": "Ws7ZLuQeEEk", "title": "[구글스프레드시트] ByCol, Reduce를 이용하여 병합 풀기" },
     { "id": "zB7mrrPNy10", "title": "[구글스프레드시트] filter 함수 + UDF를 이용한 색깔별 데이타 필터링" },

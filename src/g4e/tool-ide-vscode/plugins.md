@@ -320,14 +320,6 @@ color: rgba(255, 255, 255, 0.2)
 ```
 
 ```card
-title: Quokka.js (`wallabyjs.quokka-vscode`)
-desc: JavaScript and TypeScript playground in your editor.
-link: https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode
-logo: https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/quokka-vscode/1.0.519/1671492622793/Microsoft.VisualStudio.Services.Icons.Default
-color: rgba(255, 255, 255, 0.2)
-```
-
-```card
 title: REST Client (`humao.rest-client`)
 desc: REST Client for Visual Studio Code
 link: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
@@ -434,7 +426,7 @@ code --install-extension syler.sass-indented; #Sass
 code --install-extension vscjava.vscode-spring-initializr; #Spring Initializer Java Support
 code --install-extension wayou.vscode-todo-highlight; # TODO Highlight
 code --install-extension Gruntfuggly.todo-tree # Todo Tree
-code --install-extension wallabyjs.quokka-vscode; # Quokka.js
+# code --install-extension wallabyjs.quokka-vscode; # Quokka.js
 code --install-extension humao.rest-client; # REST Client
 code --install-extension SimonSiefke.svg-preview; # Svg Preview
 code --install-extension mikestead.dotenv # DotENV
@@ -484,7 +476,7 @@ code --install-extension syler.sass-indented && REM Sass
 code --install-extension vscjava.vscode-spring-initializr && REM Spring Initializer Java Support
 code --install-extension wayou.vscode-todo-highlight && REM TODO Highlight
 code --install-extension Gruntfuggly.todo-tree && REM Todo Tree
-code --install-extension wallabyjs.quokka-vscode && REM Quokka.js
+REM code --install-extension wallabyjs.quokka-vscode && REM Quokka.js
 code --install-extension humao.rest-client && REM REST Client
 code --install-extension SimonSiefke.svg-preview && REM Svg Preview
 code --install-extension mikestead.dotenv && REM DotENV

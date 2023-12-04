@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/XsHGB7-n6zIWeTsZ62kxHp1zTBxzMqq2sV2UrQyKltWEC6rhxveEnziB_17QBRraYF9B2v65ywA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "L7P_9aLuSBs", "title": "chill stream - vim practice." },
+    { "id": "IHuPtKZ6M8Q", "title": "chill stream - vim practice." },
+    { "id": "3fgvDpc1Wjo", "title": "trying deployKF (kubeflow)" },
     { "id": "l2ebK-RPb3U", "title": "Tui UI event loop in rust?" },
     { "id": "6rqsNm5E6Jw", "title": "Null News: Chaos at OpenAI, New CPU vulnerability and MORE!" },
     { "id": "r69pAYwDvcE", "title": "Rust Valgrind & Miri" },

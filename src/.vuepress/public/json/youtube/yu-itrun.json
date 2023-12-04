@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "X7m1uuhg2qU", "title": "09_Apache 웹 서버 II" },
+    { "id": "E7sdE-DSVIY", "title": "10_DNS 서버" },
+    { "id": "bvcwMhMqbmY", "title": "12_iptables 방화벽" },
+    { "id": "Fr2JQhxQ5bg", "title": "11_Email 서버" },
+    { "id": "aqQtmrvRpUg", "title": "13_Firewalld 방화벽" },
+    { "id": "JTgV9tAlDrM", "title": "15_NTP 서버" },
+    { "id": "JHo0qAAQNew", "title": "14_DHCP 서버" },
     { "id": "CUb9vZst74c", "title": "04_리눅스 서비스 운영 방식" },
     { "id": "-7L8KJx0TIY", "title": "03_원격접속&파일 전송" },
     { "id": "DJ4ImufX4Eo", "title": "06_NFS 서버" },

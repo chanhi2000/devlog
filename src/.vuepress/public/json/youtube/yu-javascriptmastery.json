@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/vvedJhV4qQrIomSHjC8OBQj-z2whTlF6jhi4DTgGYXmnaain7W-H-_ApMaH52KEayuvKZ0NECQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FKZAXFjxlJI", "title": "Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations" },
+    { "id": "3JUsg-WsU9o", "title": "Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard & CMS in 2024 | Next 14, Stripe" },
     { "id": "FkowOdMjvYo", "title": "Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js" }, 
     { "id": "_W3R2VwRyF4", "title": "Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query" },
     { "id": "cuzw4vL1z5E", "title": "Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind" },

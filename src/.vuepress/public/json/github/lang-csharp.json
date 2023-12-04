@@ -269,5 +269,10 @@
     "desc": "A reference .NET application implementing an eCommerce site",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "elvirbrk/NoteHighlight2016",
+    "desc": "Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)",
+    "officialSite": "",
+    "topics": ["addin", "code-snippets", "onenote", "onenote-addin", "syntax-highlighting"]
   }
 ]

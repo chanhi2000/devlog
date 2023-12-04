@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/xI0r1L-nShmWEAgLE5ZDWm0YZXSXhJ1na8Q43k0DwTEWj2CrjKAMwZDgga7S4Ombtj_dzlRD8vo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QnHUtt_f9LM", "title": "AWS CodeBuild and CodeDeploy HandsOn Exercise" },
     { "id": "le2PSjdRys0", "title": "Kubernetes Basics" },
     { "id": "Z24OOGcYsgQ", "title": "The Power of AWS CloudFront: How Amazon Prime Video Delivers High-Quality Streaming" },
     { "id": "wyad99QMKtc", "title": "Kubernetes: How to deploy a Simple Game App into Amazon EKS in 10 minutes" }

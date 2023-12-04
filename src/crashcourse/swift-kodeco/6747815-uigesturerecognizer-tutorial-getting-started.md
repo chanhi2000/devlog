@@ -141,23 +141,179 @@ Now that this method is complete, you’ll hook it up to the `UIPanGestureRecogn
 
 ### Connecting the Panning Gesture to the Recognizer
 
+In the __document outline__ for <FontIcon icon="iconfont icon-file"/>`Main.storyboard`, control-drag from the monkey’s __pan gesture recognizer__ to the __view controller__. Select `handlePan`: from the pop-up.
+
+![Connecting the `handlePan` method to `UIPanGestureRecognizer`](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_04.gif)
+
+At this point your __Connections inspector__ for the __pan gesture recognizer__ should look like this:
+
+![Current state of Connections Inspector](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_05.png)
+
+Build and run and try to drag the monkey. It doesn’t work?! This is because Xcode disables touches by default on views that normally don’t accept touches — like image views.
+
 ### Letting the Image Views Accept Touches
+
+Fix this by selecting both image views, opening the __Attributes inspector__ and checking __User Interaction Enabled__.
+
+![Selecting the User Interaction Enabled checkbox](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_06.png)
+
+Build and run again. This time, you can drag the monkey around the screen!
+
+![Dragging the monkey around the screen](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_07-1.gif)
+
+Notice that you still can’t drag the banana because you need to connect its own __pan gesture recognizer__ to `handlePan(_:)`. You’ll do that now.
+
+1. Control-drag from the banana __pan gesture recognizer__ to the __view controller__ and select `handlePan`:.
+2. Double-check to make sure you’ve checked __User Interaction Enabled__ on the banana as well.
+
+Build and run. You can now drag both image views across the screen. It’s pretty easy to implement such a cool and fun effect, eh?
+
+![Dragging both images](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_08.gif)
 
 ---
 
 ## Adding Deceleration to the Images
 
+Apple apps and controls typically have a bit of deceleration before an animation finishes. You see this when scrolling a web view, for example. You’ll often want to use this type of behavior in your apps.
+
+There are many ways of doing this. The approach you’ll use for this tutorial produces a nice effect without much effort. Here’s what you’ll do:
+
+1. Detect when the gesture ends.
+2. Calculate the speed of the touch.
+3. Animate the object moving to a final destination based on the touch speed.
+
+And here’s how you’ll accomplish those goals:
+
+- __To detect when the gesture ends__: Multiple calls to the gesture recognizer’s callback occur as the gesture recognizer’s state changes. Examples of those states are: `began`, `changed` or `ended`. You can find the current state of a gesture recognizer by looking at its `state` property.
+- __To detect the touch velocity__: Some gesture recognizers return additional information. For example, `UIPanGestureRecognizer` has a handy method called `velocity(in:)` that returns, you guessed it, the velocity!
+
+::: note Note
+
+You can view a full list of the methods for each gesture recognizer in [the API guide](https://developer.apple.com/documentation/uikit/uipangesturerecognizer).
+
+:::
+
 ### Easing Out Your Animations
+
+Start by adding the following to the bottom of `handlePan(_:)` in <FontIcon icon="fas fa-dove"/>`ViewController.swift`:
+
+```swift
+guard gesture.state == .ended else {
+  return
+}
+
+// 1
+let velocity = gesture.velocity(in: view)
+let magnitude = sqrt((velocity.x * velocity.x) + (velocity.y * velocity.y))
+let slideMultiplier = magnitude / 200
+
+// 2
+let slideFactor = 0.1 * slideMultiplier
+// 3
+var finalPoint = CGPoint(
+  x: gestureView.center.x + (velocity.x * slideFactor),
+  y: gestureView.center.y + (velocity.y * slideFactor)
+)
+
+// 4
+finalPoint.x = min(max(finalPoint.x, 0), view.bounds.width)
+finalPoint.y = min(max(finalPoint.y, 0), view.bounds.height)
+
+// 5
+UIView.animate(
+  withDuration: Double(slideFactor * 2),
+  delay: 0,
+  // 6
+  options: .curveEaseOut,
+  animations: {
+    gestureView.center = finalPoint
+})
+```
+
+This simple deceleration equation uses the following strategy:
+
+1. Calculates the length of the velocity vector (_i.e._ the magnitude).
+2. Decreases the speed if the length is `< 200`. Otherwise, it increases it.
+3. Calculates a final point based on the velocity and the slideFactor.
+4. Makes sure the final point is within the view’s bounds
+5. Animates the view to the final resting place.
+6. Uses the __ease out__ animation option to slow the movement over time.
+
+Build and run to try it out. You should now have some basic but nice deceleration! Feel free to play around with it and improve it. If you come up with a better implementation, please share it in the forum discussion at the end of this article.
+
+![Dragging animations with deceleration](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_09.gif)
 
 ---
 
 ## Pinch and Rotation Gestures
 
+Your app is coming along great so far, but it would be even cooler if you could scale and rotate the image views by using pinch and rotation gestures as well!
+
+The begin project gives you a great start. It created `handlePinch(_:)` and `handleRotate(_:)` for you. It also connected those methods to the monkey image view and the banana image view. Now, you’ll complete the implementation.
+
 ### Implementing the Pinch and Rotation Gestures
+
+Open <FontIcon icon="fas fa-dove"/>`ViewController.swift`. Add the following to `handlePinch(_:)`:
+
+```swift
+guard let gestureView = gesture.view else {
+  return
+}
+
+gestureView.transform = gestureView.transform.scaledBy(
+  x: gesture.scale,
+  y: gesture.scale
+)
+gesture.scale = 1
+```
+
+Next add the following to `handleRotate(_:)`:
+
+```swift
+guard let gestureView = gesture.view else {
+  return
+}
+
+gestureView.transform = gestureView.transform.rotated(
+  by: gesture.rotation
+)
+gesture.rotation = 0
+```
+
+Just like you got the translation from the `UIPanGestureRecognizer`, you get the scale and rotation from the `UIPinchGestureRecognizer` and `UIRotationGestureRecognizer`.
+
+Every view has a transform applied to it, which gives information on the rotation, scale and translation that the view should have. Apple has many built-in methods to make working with a transform easier. These include `CGAffineTransform.scaledBy(x:y:)` to scale a given transform and `CGAffineTransform.rotated(by:)` to rotate a given transform.
+
+Here, you use these methods to update the view’s transform based on the user’s gestures.
+
+Again, since you’re updating the view each time the gesture updates, it’s very important to set the scale and rotation back to the default state so you don’t have craziness going on.
+
+Now, hook these methods up in the storyboard editor. Open <FontIcon icon="iconfont icon-file"/>`Main.storyboard` and perform the following steps:
+
+1. As you did previously, connect the two pinch gesture recognizers to the view controller’s `handlePinch:`.
+2. Connect the two rotation gesture recognizers to the view controller’s `handleRotate:`.
+
+Your view controller connections should now look like this:
+
+![View controller with connections](https://koenig-media.raywenderlich.com/uploads/2017/07/Screen-Shot-2017-07-27-at-4.30.25-PM.png)
+
+Build and run on a device, if possible, because pinches and rotations are hard to do on the simulator.
+
+If you are running on the simulator, hold down the <kbd>Option</kbd> key and drag to simulate two fingers. Then hold down <kbd>Shift</kbd> and <kbd>Option</kbd> at the same time to move the simulated fingers together to a different position.
+
+You can now scale and rotate the monkey and the banana!
+
+Monkey and banana respond to pinch and rotate gestures
 
 ---
 
 ## Simultaneous Gesture Recognizers
+
+You may notice that if you put one finger on the monkey and one on the banana, you can drag them around at the same time. Kinda cool, eh?
+
+However, you’ll notice that if you try to drag the monkey around and in the middle of dragging, bring down a second finger to pinch to zoom, it doesn’t work. By default, once one gesture recognizer on a view “claims” the gesture, other gesture recognizers can’t take over.
+
+However, you can change this by overriding a method in the `UIGestureRecognizer` delegate.
 
 ### Allowing Two Gestures to Happen at Once
 

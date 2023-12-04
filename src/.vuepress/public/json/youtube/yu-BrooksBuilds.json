@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YEiNeUh9vyk", "title": "Stream archive: Multiple routers in Axum (2023-11-13 afternoon)" },
+    { "id": "x2_BfzY5p4k", "title": "Stream archive: recording video for multiple routers in Axum (2023-11-14 morning)" },
+    { "id": "4d-jdipZGUs", "title": "Stream archive: Axum Middleware and how dot notation works (2023-11-14 afternoon)" },
+    { "id": "dgn-64OmJ1I", "title": "Stream archive: Axum middleware (2023-11-15 morning)" },
     { "id": "7uTv40grLz0", "title": "Stream archive: Extensions in Axum (api framework in Rust) (2023-11-08 morning)" },
     { "id": "GU9KGw9n970", "title": "Stream archive: Thunderclient and Headers in Axum (2023-11-08 afternoon)" },
     { "id": "DZgN63N3fc8", "title": "stream archive: creating article for Axum Headers (2023-11-09)" },

@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Y_g9_b01KqA", "title": "코드 품질을 200% 개선시켜줄 3가지 액션 아이템 (easy version)" },
+    { "id": "3iG1LfXt9hc", "title": "짱쉬운 스위프트 기초 | 30분만에 뽀개기" },
     { "id": "ZzyGzzsPpyQ", "title": "스타트업 이직 할 때 꼭 필요한 3가지 기준 (feat. 딜라이트룸)" },
     { "id": "ZODvz6nHZZU", "title": "iOS 개발자로 Flutter 솔직히 이야기 해보면요.." },
     { "id": "dLwEGT01S6E", "title": "선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/j3ZBFVH1SJlcJsu9sCpkXWSKp8Ct_dtA_xVQieOVnwkfH88Xmm_OmPRXSrF7C8C_CCiCdagr=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ipYQpxAyunc", "title": "JS At The Speed Of C" },
+    { "id": "utN1VhPZZSw", "title": "The Post-AWS Future" },
     { "id": "fX5T2CGSwns", "title": "This New Angular Release Is Wild" }, 
     { "id": "_mKUuTwmKSg", "title": "The Coolest Websites I've Ever Seen" }, 
     { "id": "pat-nuXf5Jw", "title": "The Quest To Kill `dotenv`" },

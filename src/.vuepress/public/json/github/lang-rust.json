@@ -834,5 +834,15 @@
     "desc": "RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ChristopherBiscardi/advent-of-code",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mattwparas/steel",
+    "desc": "An embedded scheme interpreter in Rust",
+    "officialSite": "",
+    "topics": ["contracts", "programming-language", "racket", "rust", "scripting-language", "transducers"]
   }
 ]

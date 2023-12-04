@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/v85KdMsj8uySn8SOAc5uyZiAWtSyc14SrjOl_SRhV8-eyr3jmu2FQHcBUuTjLdDxpRJAtjttyw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GXW0OpU3TqE", "title": "Your First ML App with Decision Trees - Machine Learning for Beginners Tutorial" },
     { "id": "-BZdQmHV4MQ",  "title": "iOS 13 Swift Tutorial: SwiftUI and Core Data - Build a To-Do List App" }, 
     { "id": "RysM_XPNMTw",  "title": "iOS 13 Swift Tutorial: Combine Framework - A Practical Introduction with UIKit" }, 
     { "id": "Xetrbmnszjc",  "title": "iOS 13 Swift Tutorial: Build a Complex UI with SwiftUI from Start to Finish" }, 

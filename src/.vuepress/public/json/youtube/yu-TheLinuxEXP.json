@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Lc1dH-nj6nvU63AH85SPgoLd2oba4zA41zNbZSWg81PN_zl1mgC_eiL3DbJJPb7b_nS7FarUTYE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Fv3tQbOkz-E", "title": "What is systemd, and why its getting so much hate online?" },
     { "id": "ikBPnYwnUMU", "title": "Snaps vs Flatpaks vs Appimages vs Packages: benchmarks, missing features & differences" },
     { "id": "P8accXNcwjs", "title": "OPEN SOURCE alternatives to the MOST POPULAR productivity apps!" },
     { "id": "9HuExVD56Bo", "title": "Flatpak vs Snaps vs Appimage vs Packages - Linux packaging formats compared" }, 

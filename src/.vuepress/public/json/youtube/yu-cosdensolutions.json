@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "TahUv8LH-zA", "title": "The simple way to handle requests in React" },
+    { "id": "p75aqqjjxwM", "title": "Draw your components in React" },
     { "id": "aGQxBsbuYcM", "title": "The bubble of React" },
     { "id": "9GAt97z8Jc4", "title": "Learn React Hooks: useLayoutEffect - Simply Explained!" }, 
     { "id": "Qmmy6HU26mo", "title": "Ref callbacks in React" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/tyEQx70Zul6vdm6s4c0MfN3_Xdjl4KpQYxaRIPduCAcJ_sTQCvczoc-uwEw2CGfWfSS_OV1aGoM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "y7wMTwJN7rA", "title": "AutoGen with Ollama/LiteLLM - Each Agent With Its OWN LOCAL MODEL (Tutorial)" },
+    { "id": "UKRti40U8IA", "title": "ChatGPT Takes FULL CONTROL Of My Computer..." },
     { "id": "POSOmtJCOeI", "title": "DeepSeek Coder AI 🐍 The Best Coding Model I've Tested? (Open-Source)" },
     { "id": "F0lO8d15_GY", "title": "No Code AI Builder - RAG, Automations, Multi-model, and more" },
     { "id": "SQEr--XLBD8", "title": "OpenAI SHIPS! 🚀 GPT4 Turbo, Agents, Multi-Modal, 128k Context Size, and more! (Dev Day Breakdown)" }, 

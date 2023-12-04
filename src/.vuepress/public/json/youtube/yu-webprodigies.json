@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "webprodigies",
+    "name": "Web Prodigies",
+    "profile": "https://yt3.googleusercontent.com/OHHbAdLYxh-6QBbaaI0OWzSEeGu02Kw8Scx1EI9LYHb_yyehTlPxzGYl2ADiItynMvB7j6ZY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZToXrGiyUvBh3AflsKZpGK385XLWdYfodS_B_Pm_yb6cORs0L_QnGX8_9GnJNplzIWm10lNS2qM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "A3l6YYkXzzg", "title": "SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets" }
+  ]
+}

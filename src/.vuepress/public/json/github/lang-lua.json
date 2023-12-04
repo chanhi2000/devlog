@@ -119,5 +119,10 @@
     "desc": "My personal dotfiles",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ThePrimeagen/harpoon",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "sqlp6559",
+    "name": "김강민SQLP",
+    "profile": "https://yt3.googleusercontent.com/vkk7mrZQkYuwKdcsmCXnnPLAxFNpK--P0Rp0WNEV-qdZtBkCrSdxKcQLt6sgtNh5S1AqoMdz6m4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "PC3ypt_VGWI", "title": "SQLD 최종 정리강의 1편 - SELECT문장 ~ 트랜잭션 관리 언어(TCL)" }
+  ]
+}

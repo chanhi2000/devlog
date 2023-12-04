@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "jeonggunlee",
+    "name": "Jeong-Gun Lee",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa9uANa5GDm3tNu8zWr-FF6pOqVtbDga14erg3F2w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "HwPktJ9ZlrU", "title": "[2023 한림대학교 컴퓨터구조] 13주차 실습 제어회로 설계 01" },
+    { "id": "fdA9cTbP0nU", "title": "14주차   입출력 장치를 제어하는 설계" }
+  ]
+}

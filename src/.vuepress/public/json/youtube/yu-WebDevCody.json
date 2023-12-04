@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wEsPL50Uiyo", "title": "This is why understanding database concurrency control is important" },
+    { "id": "wnxO4AT2N4o", "title": "Applying clean architecture to my Next.js project" },
+    { "id": "g7n6B9skiTY", "title": "How using Strapi with Next14 will help you move fast" },
+    { "id": "5vwBBPsqRQo", "title": "How to infinitely scale a multiplayer game server" },
+    { "id": "ontOH7PV3gY", "title": "My favorite way to learn typescript" },
     { "id": "Gly94hp3Eec", "title": "How to make resilient web applications with retries" },
     { "id": "VQFjyEa8vGE", "title": "Learning Drizzle ORM and working on a next14 project" },
     { "id": "yXNEqyvA0OY", "title": "I want to learn Drizzle ORM, so I'm starting another next14 project" },

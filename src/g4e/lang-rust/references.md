@@ -113,9 +113,13 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ## prefix.dev
 
-- [](https://prefix.dev/blog/introducing_rip)
+- [Introducing rip - the fast & barebones pip implementation](https://prefix.dev/blog/introducing_rip)
 
 ---
+
+## Carlos Galdino
+
+- [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 
 ## Rust
 

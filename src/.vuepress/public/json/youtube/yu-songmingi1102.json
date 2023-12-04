@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/GbELxPNJsC1F5GUls5trLdMtBpw5lzjwLEgUO53ARZoA5cnyCfb4NB4J_J8D3hFiEXJUEJAe0A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QawhwdyLMto", "title": "SongJob 포트폴리오(1)" },
+    { "id": "5QerTMPXTDI", "title": "SongJob Portfolio(2)" },
     { "id": "nicp1hWxRDI", "title": "C언어로 GC 만들기(1)" }
   ]
 }

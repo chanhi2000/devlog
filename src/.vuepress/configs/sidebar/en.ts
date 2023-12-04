@@ -882,6 +882,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/67.md',
         '/crashcourse/swift-100-days-of-swift/68.md',
         '/crashcourse/swift-100-days-of-swift/69.md',
+        '/crashcourse/swift-100-days-of-swift/70.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -944,6 +945,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/54.md',
         '/crashcourse/swift-100-days-of-swiftui/55.md',
         '/crashcourse/swift-100-days-of-swiftui/56.md',
+        '/crashcourse/swift-100-days-of-swiftui/57.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1045,6 +1047,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/04A.md',
         '/crashcourse/java-jump-to-spring-boot/04B.md',
         '/crashcourse/java-jump-to-spring-boot/04C.md',
+        '/crashcourse/java-jump-to-spring-boot/04D.md',
+        '/crashcourse/java-jump-to-spring-boot/04E.md',
         '/crashcourse/java-jump-to-spring-boot/a.md',
       ]
     }, {

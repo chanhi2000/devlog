@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/2q_KMTtTi_KzLgbiz1iiSu7TXAhvLa7QIvlhvs-73plWNI-WcqO2YJhSL75f4muRuABOhqeemAE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GlTBEUuzmBw", "title": "tailwindcss 플러그인 만들어보기 | tailwindcss writing plugin" },
     { "id": "kKhNAP_WRi8", "title": "Three.js와 GSAP (ScrollTrigger)를 연동한 애니메이션" },
     { "id": "vcpAW3_s26c", "title": "CSS: 간단하게 다크모드 추가 적용하기 | filter 이용" }, 
     { "id": "bw7J9eL7csg", "title": "심플 QR 코드 생성기 만들기 / tailwindcss" },

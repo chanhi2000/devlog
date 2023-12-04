@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "oOOxRUYT-Yg", "title": "ngrok를 이용해 빠르게 내 애플리케이션 임시 배포하기" },
     { "id": "ynlOYKe9aEM", "title": "스프링 시큐리티 인증 말고 내가 구현한 로그인을 계속 사용할 수도 있음" }, 
     { "id": "35shiAwQSeU", "title": "스프링 시큐리티 적용하고 필터 체인 커스터마이징하기" }, 
     { "id": "dYGCgzwJZJ4", "title": "3차 필수미션  토스트 에디터 적용" }, 

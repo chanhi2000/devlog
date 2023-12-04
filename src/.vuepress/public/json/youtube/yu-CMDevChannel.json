@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/rbczYyzb74-0_4a0KccBkCQ1F--QOEv9Rr9mx-J6qtD7lQRmMF67gCqwYnBkUWkO5Crf7y8h=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jIzwys5LMbQ", "title": "FVM   Flutter Version Management" },
+    { "id": "-6l4tMpEQBg", "title": "สอน Dot NET8 Setup and Migration" },
     { "id": "SVZB8VTsYFo", "title": "แก้ปัญหา XCode 15 - Error DT TOOLCHAIN DIR" },
     { "id": "ykwAI_8Pkvw", "title": "การ Scale Docker Compose ด้วย Nginx Reverse Proxy พร้อมทำ Load Balancer" },
     { "id": "SrT2xk9UIj8", "title": "Auto Format on Save for XCode (So Happy)" }, 

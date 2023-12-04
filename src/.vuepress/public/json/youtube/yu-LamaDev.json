@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "6BRZ-yHjYwo", "title": "Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial" },
     { "id": "cBg6xA5C60s", "title": "Next.js 14 Admin Dashboard Tutorial | Fullstack Next.js 14 Project with Server Actions" }, 
     { "id": "2KWdT4PkXgY", "title": "CSS Tips And Tricks I Wish I Knew Before" },
     { "id": "DpYE5zPDRVQ", "title": "Full-Stack Blog App Tutorial | Next.js MongoDB Blog App Project Full Course" },

@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "uH6EZFGKg7Y", "title": "Gateway Server를 사용하는 이유" },
     { "id": "Db6yunOHZ2c", "title": "분산 서버에서 DB 서버" },
     { "id": "09ufiNEWynk", "title": "Redis C# 프로그래밍" },
     { "id": "UYTmI6qbAPc", "title": "실전 Modern C++ - module 3" },

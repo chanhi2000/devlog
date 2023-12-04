@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "AI_opener",
+    "name": "AI opener",
+    "profile": "https://yt3.googleusercontent.com/N8c3OhjPzgAhAtMD0rQ19ornwwZVrnp16TDvU-8X6fnPkvgUyZj4pCoSFhwqLXsbRYKF4rKBkQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/i9FnjbkrMMJq2uc0-1HBUJkmBo-OC5WE-xKW4vqhfWDq3wQpemWTEF60ggHy9_t_9pXckHb8yg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "c7rTj4fLawk", "title": "일상의 웹툰을 간단히 제작해보자! 😜 Comicai" },
+    { "id": "OZ7j1101jhg", "title": "[ComfyUI Session 4] Add Lora (easy, only for real newbies)" },
+    { "id": "VErrdV85vTg", "title": "[ComfyUI Session 5] Make her Face Pretty (Real Beginners Series, Easy)" }
+  ]
+}

@@ -1828,5 +1828,15 @@
     "desc": "Bookmark manager for the wizards 🧙",
     "officialSite": "https://grimoire.pro",
     "topics": ["bookmarks", "bookmarks-manager", "pocketbase", "svellte", "sveltekit", "tailwindcss"]
+  }, {
+    "repo": "samuelcolvin/FastUI",
+    "desc": "Build better UIs faster.",
+    "officialSite": "https://fastui-demo.onrender.com",
+    "topics": ["fastapi", "pydantic", "python", "react"]
+  }, {
+    "repo": "typehero/typehero",
+    "desc": "Connect, collaborate, and grow with a community of TypeScript developers",
+    "officialSite": "https://typehero.dev",
+    "topics": ["hacktoberfest", "nextjs", "prisma", "react", "typescript"]
   }
 ]

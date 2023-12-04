@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Zv24RaMg4qk", "title": "MVC in .NET 8 | Handle HttpPost request | Ep 18" },
+    { "id": "_ugUrqsm0dY", "title": "MVC in .NET 8 | Use Hidden field to store Id in the form | Ep 19" },
+    { "id": "7s3ymGdE-wQ", "title": "MVC in .NET 8 | Form Validation with DataAnnotation | Ep 20" },
+    { "id": "t7d9sHOFfD4", "title": "What You Need to Know About Blazor in .NET 8 | VS Template Tutorial" },
     { "id": "zaQ6jb3_xMY", "title": "MVC in .NET 8 | Use Tag Helpers to create navigation Links | Ep 14" },
     { "id": "X0FvHfqat6A", "title": "MVC in .NET 8 | Undersatnd the _ViewImports file | Ep 15" },
     { "id": "8ErUCsPslHw", "title": "MVC in .NET 8 | Understand Model Binding in HttpGet action method | Ep 16" },

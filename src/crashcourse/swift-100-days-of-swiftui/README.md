@@ -187,7 +187,7 @@ In these projects we’re going to start looking more carefully at how we can se
 - ✅[Day 55][day-55] – Project 11, part three
 - ✅[Day 56][day-56] – Project 11, part four
 - ✅[Day 57][day-57] – Project 12, part one
-- [Day 58][day-58] – Project 12, part two
+- ✅[Day 58][day-58] – Project 12, part two
 - [Day 59][day-59] – Project 12, part three
 
 ### Days 60-61: Consolidation V
@@ -333,7 +333,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-55]: 55.md
 [day-56]: 56.md
 [day-57]: 57.md
-[day-58]: https://www.hackingwithswift.com/100/swiftui/58
+[day-58]: 58.md
 [day-59]: https://www.hackingwithswift.com/100/swiftui/59
 [day-60]: https://www.hackingwithswift.com/100/swiftui/60
 [day-61]: https://www.hackingwithswift.com/100/swiftui/61

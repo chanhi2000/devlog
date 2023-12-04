@@ -25,5 +25,7 @@ tags: ["education", "youtube", "programming", "css"]
 <MyYouTubeItems jsonName="yu-DarkCodeOnline" /><!-- DarkCode -->
 <MyYouTubeItems jsonName="yu-onlinementor1013" /><!-- Online Mentor -->
 <MyYouTubeItems jsonName="yu-dcode-software" /><!-- dcode -->
+<MyYouTubeItems jsonName="yu-hknudesign" /><!-- hknudesign -->
+<MyYouTubeItems jsonName="yu-realchrishawkes" /><!-- Chris Hawkes -->
 
 <TagLinks />

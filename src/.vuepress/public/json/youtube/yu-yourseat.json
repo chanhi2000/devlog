@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "yourseat",
+    "name": "너의자리",
+    "profile": "https://yt3.googleusercontent.com/uZG_AjS33qQHLeOJGBhvahMQoks-dWqngiSMbRahKcZBrT9T7tlYHTnmbq7weiY5O4LVPXO2=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BzjbyJwBxN2_h07a_d8NiVInqk3AssIBrBIU-uRcGZzI6J4-QbhX_1SU-wU7vrqBesD70mGM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LX0nPcrvXNI", "title": "[회사생활] 난 분명히 일이 많거든? 근데 왜 인정을 못받지" }
+  ]
+}

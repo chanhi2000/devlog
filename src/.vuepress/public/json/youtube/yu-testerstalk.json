@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/853UAmWv_ZT6GAyl6npW8X5b8TCyJCog84c3svxxeaX0xyTDRtqbzFV_G2wojrx2BW4_vLxO1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WaJzoZTdiW0", "title": "Cypress Automation Testing Part04 | Cypress Tutorial | Cypress Testing with JavaScript" },
+    { "id": "-5oMfsVbgOI", "title": "Data Driven Testing in Rest Assured Using Excel JSON and CSV File" },
     { "id": "AjUHKBVFhNs", "title": "Cypress #33 Video Recording - Test Execution" },
     { "id": "QmNYZCDmPj4", "title": "Cypress #27 Run Multiple JavaScript Spec Files in Cypress" }, 
     { "id": "5rrkqqfwoJU", "title": "Cypress #32 Page Object Model in Cypress" }, 

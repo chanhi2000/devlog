@@ -52,5 +52,7 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-MakeDataUseful" /><!-- Make Data Useful -->
 <MyYouTubeItems jsonName="yu-lachone_" /><!-- Luke Hardy -->
 <MyYouTubeItems jsonName="yu-TurbineThree" /><!-- TurbineThree -->
+<MyYouTubeItems jsonName="yu-basensei8699" /><!-- BA Sensei -->
+<MyYouTubeItems jsonName="yu-RaihansCodeShow" /><!-- Raihan'sCodeShow -->
 
 <TagLinks />

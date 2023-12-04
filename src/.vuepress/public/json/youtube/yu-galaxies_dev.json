@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ZkK9dbYp2Fv3HM5-9zLU1t7-Pl5n8V1eW4NC_KHlQ4-4fyWeeBsmcHrzWPJoazq8xL-LAojc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "r9t0mnG1ZJ0", "title": "Use this Expo Router trick for Platform specific code (iOS, Android & web)" },
     { "id": "r_Smo78tv8Y", "title": "Building Universal React Native Apps (Expo Router, Tamagui, Tanstack Query)" },
     { "id": "8adaX330FdI", "title": "Build a Live Meeting React Native App with Stream Video Call & Chat Integration" },
     { "id": "iWzUZiVoiR0", "title": "Airbnb Clone with React Native (Expo Router, Authentication, Reanimated, Clerk)" }, 

@@ -584,5 +584,20 @@
     "desc": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
     "officialSite": "",
     "topics": []
-  }
+  }, {
+    "repo": "facebookresearch/seamless_communication",
+    "desc": "Foundational Models for State-of-the-Art Speech and Text Translation",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "aws/s2n-tls",
+    "desc": "An implementation of the TLS/SSL protocols",
+    "officialSite": "https://aws.github.io/s2n-tls/doxygen/s2n_8h.html",
+    "topics": ["c", "c99", "crypto", "cryptography", "encryption", "s2n", "ssl", "tls"]
+  }, {
+    "repo": "ArdenButterfield/Maim",
+    "desc": "Audio plugin for custom MP3 distortion and digital glitches",
+    "officialSite": "",
+    "topics": []
+  }  
 ]

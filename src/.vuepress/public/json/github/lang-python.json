@@ -261,9 +261,9 @@
     "officialSite": ""
   }, {
     "repo": "comfyanonymous/ComfyUI",
-    "desc": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
-    "topics": [],
-    "officialSite": ""
+    "desc": "The most powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "officialSite": "",
+    "topics": ["stable-diffusion"]
   }, {
     "repo": "pynecone-io/pynecone",
     "desc": "🕸 Web apps in pure Python 🐍",
@@ -3348,5 +3348,30 @@
     "desc": "Meditron is a suite of open-source medical Large Language Models (LLMs).",
     "officialSite": "https://huggingface.co/epfl-llm",
     "topics": []
+  }, {
+    "repo": "LC044/WeChatMsg",
+    "desc": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
+    "officialSite": "",
+    "topics": ["chatgpt", "llms", "pyqt", "wechat"]
+  }, {
+    "repo": "pytorch-labs/gpt-fast",
+    "desc": "Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "cubiq/ComfyUI_IPAdapter_plus",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "unslothai/unsloth",
+    "desc": "5X faster 50% less memory LLM finetuning",
+    "officialSite": "https://unsloth.ai/",
+    "topics": ["ai", "finetuning", "llm"]
+  }, {
+    "repo": "OthersideAI/self-operating-computer",
+    "desc": "A framework to enable multimodal models to operate a computer.",
+    "officialSite": "",
+    "topics": ["automation", "openai", "pyautogui"]
   }
 ]

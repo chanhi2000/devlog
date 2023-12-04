@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "realchrishawkes",
+    "name": "Chris Hawkes",
+    "profile": "https://yt3.googleusercontent.com/oQ06yo6-qMJTe4xZqKouJTgCR7mhlooqKVixOcSTUpAWLu9Lmsm-hke2Y1vYKcOC45RKy2n-UE8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LzmkguCvEaBRZ7PeLvmii-BtATgpRBzvKEbReMCQkR9caxBGGnx5vHjoBYbIiGJMM6SP751L=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QjgwaCoeGVM", "title": "This Is the Only Way to Truly Learn CSS" },
+    { "id": "8I_rdnBLlgg", "title": "This Is How To Master CSS" }
+  ]
+}

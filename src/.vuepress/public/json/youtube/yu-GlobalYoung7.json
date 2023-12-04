@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6AFS3GFTOH4", "title": "개고생하면서 배우는 Kotlin 집중 분석 003_Divided&Conquer(helix, Android Studio Debugging)" },
+    { "id": "4d88jn16qxk", "title": "개고생하면서 배우는 Kotlin 집중 분석 004_Divided&Conquer02(helix, Android Studio Debugging)" },
     { "id": "Lg_7f2gXnzU", "title": "개고생하면서 배우는 C+분석+ 007(Modern C++) Type_inference #moderncpp" },
     { "id": "LS096rNUOYE", "title": "한글Rust_081⭐️Rust 컴파일 속도 향상 시키기ver.1.76nightly버젼 이용" },
     { "id": "H-WKbMobTz8", "title": "개고생하면서 배우는 C+분석+ 005(Modern C++) Divided&Conquer Constants_constexpr #moderncpp" },

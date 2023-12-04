@@ -1749,5 +1749,10 @@
     "desc": "Kính chiếu yêuuuu quỷ seg hiện raaa",
     "officialSite": "https://zennomi.github.io/Seg-Mirror/",
     "topics": []
+  }, {
+    "repo": "good-lly/lowstorage",
+    "desc": "Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾 ",
+    "officialSite": "",
+    "topics": ["bucket", "cloudflare", "cloudflare-r2", "cloudflare-r2-api", "cloudflare-worker", "cloudflare-workers", "database", "edge-computing", "javascript", "json", "r2", "r2bucket", "serverless", "serverless-functions", "storage"]
   }
 ]

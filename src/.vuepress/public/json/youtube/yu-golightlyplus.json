@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "golightlyplus",
+    "name": "GolightlyPlus",
+    "profile": "https://yt3.googleusercontent.com/VVYPT5wBmEiSYg-AJlTHj3-06jrITKC6PBLGsis0mtK2QjVDSkhmnLxRmKynae88xDBEaBpn4AQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bpKS6OgD6afxWxIWmbiiCd6hK4-IZ8RE-OKC4mEIqMBFBX6LwgZKXdoJw2GM6FM8DN7n6iYX17E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NkOYBkSUgrk", "title": "Crafting a Tale and Visuals in Minutes: From Plotline to Story and Image Generation" },
+    { "id": "v-MHdl8_EQ4", "title": "Speech to text using Python and the OpenAI library" }
+  ]
+}

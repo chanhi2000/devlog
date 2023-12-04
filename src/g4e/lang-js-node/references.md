@@ -593,6 +593,19 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation)
 
+---
+
+## Read the Tea Leaves
+
+- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+
+---
+
+## Scott Logic
+
+- [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+
+---
 
 ## Misc
 

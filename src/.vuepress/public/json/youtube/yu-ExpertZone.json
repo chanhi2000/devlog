@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ExpertZone",
+    "name": "Microsoft ExpertZone North America",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKavG3Sn327odFlugIFR5s44oQ9-l_0pZ5oQpzHbsQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/igm0_t3rVihDSmWiUt8fAuDRZGa1CBwd-Xje-WBNAmSbp2xTkjxYxwtxXFqzIBNuaiP5mOB9CE0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SgjjXC8uPic", "title": "Introduction to Copilot" }
+  ]
+}

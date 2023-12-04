@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hsrfLtu_cVk", "title": ".NET 8 Adds Shuffle to Random for Arrays and Spans" },
     { "id": "mT70wtkE7DI", "title": ".NET 8 and C# 12 Launch - What is New, What is Improved, and What is Supported" },
     { "id": "walv3nLTJ5g", "title": "Intro to Blazor in .NET 8 - SSR, Stream Rendering, Auto, and more..." },
     { "id": "h9ksr2ucNck", "title": "Understanding SQL Auto-Incrementing Identity in 10 Minutes or Less" }, 

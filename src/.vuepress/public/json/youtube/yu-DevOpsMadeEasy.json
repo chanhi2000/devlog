@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cjpTrPtj_YIjLcPFsI7PAQI31pHCmJReysnm7vltCaCZM75HwDdU1yXTiJq_iaHHYay3RSB0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7h0qVfdwkLk", "title": "Nexus Series: 01 - Introduction to Sonatype Nexus Repository 3" },
+    { "id": "z_Q0Pl93BOA", "title": "How to pass HashiCorp Terraform Associate Exam" },
     { "id": "kqHaL8QqH2w", "title": "Introduction to GitHub Actions" },
     { "id": "6i1t7JcEOds", "title": "GitLab End to End Pipelines on Kubernetes with Maven, Nexus, SonarQube, Kaniko &amp; Helm" }, 
     { "id": "zAe4Me43Kbc", "title": "Using GitLab CI, Terraform, and Ansible to Automate Infrastructure Provisioning and Configuration" }, 

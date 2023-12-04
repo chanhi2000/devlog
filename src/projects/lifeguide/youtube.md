@@ -39,5 +39,6 @@ meta:
 <MyYouTubeItems jsonName="yu-K-nammae" /><!-- 만원요리 최씨남매 -->
 <MyYouTubeItems jsonName="yu-ceoj" /><!-- 김현주 세무사 -->
 <MyYouTubeItems jsonName="yu-koreanhomecooking" /><!-- 집밥 korean home cooking -->
+<MyYouTubeItems jsonName="yu-sun_nomusarang" /><!-- SUN노무사랑 -->
 
 <TagLinks />

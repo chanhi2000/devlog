@@ -34,5 +34,10 @@
     "desc": "Metal shaders for SwiftUI.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "apple/swift-aoc-starter-example",
+    "desc": "Swift starter project for solving Advent of Code challenges.",
+    "officialSite": "https://adventofcode.com",
+    "topics": ["advent-of-code", "advent-of-code-2023", "advent-of-code-2023-swift", "swift"]
   }
 ]

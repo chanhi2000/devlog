@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/in4dPUMuyvgvMG6mdJXA3-ZPTtlWn2HqCk0FGfdV8fNHIIJ8DhcP0C3Fk1pQZVpkoMO_dLQqkg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8KgSXirtCYk", "title": "Ethical Hacking: What is \"Ethical?\"" },
+    { "id": "_kUx_IVcEOU", "title": "Capture the Flag: Hacking Yet Another Markup Language" },
+    { "id": "3bN0L3iNGw4", "title": "MOVEit Transfer Exploitation (my API presentation recording)" },
     { "id": "cuWGWnvnN0Y", "title": "The MOVEit Hack In Retrospect" },
     { "id": "yq2rq50IMSQ", "title": "Website Vulnerabilities to Fully Hacked Server" },
     { "id": "gmnlCdtV7Xk", "title": "Testing Your Cybersecurity Defenses" },

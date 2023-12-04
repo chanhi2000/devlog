@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/VGzSeHWmxGjNbCIpS8CGSUp99E2D1obWoSJnFnSzQV7yH4JKdzGRutzcmVyNEg2FWT7V86oEeUo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EzJpm9YCL4c", "title": "Inkscape, LTS Kernels, EndeavourOS, Firefox 120, Steam Sale & more Linux news" },
     { "id": "uErL83xFw5M", "title": "Blender 4, OBS 30, Red Hat, AlmaLinux, €1Million to GNOME & more Linux news" },
     { "id": "E5qyNr6k2lY", "title": "Ubuntu 23.10, System76, Microsoft's Linux Tutorial, GNOME Removing Xorg & more Linux news" }
   ]

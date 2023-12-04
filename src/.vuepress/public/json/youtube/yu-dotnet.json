@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zENu82HwwGI", "title": "Hack Together .NET: The Great .NET 8 Hack - Generative AI for the .NET Developer" },
+    { "id": "l0U8fozFV2o", "title": "On .NET Live - Beyond Clicks: Unleashing the Power of Microsoft Semantic Kernel" },
+    { "id": "OLCnfudwNSc", "title": "Burke Learns Blazor - Drag and Drop and DOM events!" },
     { "id": "SZ5XMUm-Hd8", "title": "We are not just a .NET Community, we run our community on .NET | .NET Conf 2023" },
     { "id": "T-EwN9UqRwE", "title": "Vertical Slice Architecture: How Does it Compare to Clean Architecture | .NET Conf 2023" },
     { "id": "lBFlNjRbMsk", "title": "Spatial Data with Entity Framework Core and .NET MAUI | .NET Conf 2023" },
