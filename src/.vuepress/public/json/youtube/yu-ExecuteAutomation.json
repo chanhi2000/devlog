@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/W9wERgktL_qfOGUtgKedwD_z3J5MlMWcucJXG90FG2tHHDy2u8tMUbRSeJkqoRJlnZe4nlsKOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nGVfKkfOehA", "title": "#7 - Working with Locators in Selenium with C# .NET (Part 3)" },
+    { "id": "uIuhAcLd8Ro", "title": "#8 - Interacting with DropDown and MultiSelect Option using Selenium in C# .NET" },
     { "id": "FAqdnedpqaA", "title": "#4 - Understanding and exploring Selenium code In-Depth in C# .NET" },
     { "id": "ajYIX1Y4u30", "title": "#5 - Understanding and working with Locators in Selenium with C# .NET" },
     { "id": "Sh1EzLrHJnU", "title": "#1 - How to Access Private Members from a Class in C# .NET ( C# .NET Quiz )" },

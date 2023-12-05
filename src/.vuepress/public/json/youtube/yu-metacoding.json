@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Pl6J-GF5yUHDGpE_hT8wPMuySiioISn7ss6NeZJQIw8OPj3Xwm59-Nmp9Kr09PRVy_khJo4Dpqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "u_-5Q8HjKFo", "title": "도커 입문 33강   도커컴포즈 React와 SpringDB포함을 Nginx로 연결하기마지막강" },
     { "id": "1LdHzvlrFW8", "title": "도커 입문 31강 - 도커컴포즈 React와 SpringDB포함 직접연결하기" },
     { "id": "1pBgurJmlbE", "title": "도커 입문 32강 - 도커컴포즈 React와 SpringDB포함을 Nginx로 연결하는 개념잡기" },
     { "id": "JjAIa30QnLo", "title": "도커 입문 26강   도커컴포즈 Spring 앱 실행시켜보기" },

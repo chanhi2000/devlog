@@ -317,25 +317,314 @@ However, you can change this by overriding a method in the `UIGestureRecognizer`
 
 ### Allowing Two Gestures to Happen at Once
 
+Open <FontIcon icon="fas fa-dove"/>`ViewController.swift`. Below the `ViewController`, create a `ViewController` class extension and conform it to `UIGestureRecognizerDelegate`:
+
+```swift
+extension ViewController: UIGestureRecognizerDelegate {
+}
+```
+
+Then, implement one of the delegate’s optional methods:
+
+```swift
+func gestureRecognizer(
+  _ gestureRecognizer: UIGestureRecognizer,
+  shouldRecognizeSimultaneouslyWith otherGestureRecognizer: UIGestureRecognizer
+) -> Bool {
+  return true
+}
+```
+
+This method tells the gesture recognizer whether it’s OK to recognize a gesture if another recognizer has already detected a gesture. The default implementation always returns `false`, but you’ve switched it to always return `true`.
+
+Next, open <FontIcon icon="iconfont icon-file"/>`Main.storyboard` and connect each gesture recognizer’s delegate outlet to the view controller. You’ll connect six gesture recognizers in total.
+
+![Connecting the delegate outlets](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_11.gif)
+
+Build and run again. Now, you can drag the monkey, pinch to scale it and continue dragging afterward! You can even scale and rotate at the same time in a natural way. This makes for a much nicer experience for the user.
+
 ---
 
 ## Programmatic UIGestureRecognizers
 
+So far, you’ve created gesture recognizers with the storyboard editor, but what if you wanted to do things programmatically?
+
+Well, why not try it out? You’ll do so by adding a tap gesture recognizer to play a sound effect when you tap either of the image views.
+
+To play a sound, you’ll need to access `AVFoundation`. At the top of <FontIcon icon="fas fa-dove"/>`ViewController.swift`, add:
+
+```swift
+import AVFoundation
+```
+
+Add the following changes to <FontIcon icon="fas fa-dove"/>`ViewController.swift`, just before `viewDidLoad()`:
+
+```swift
+private var chompPlayer: AVAudioPlayer?
+
+func createPlayer(from filename: String) -> AVAudioPlayer? {
+  guard let url = Bundle.main.url(
+    forResource: filename,
+    withExtension: "caf"
+    ) else {
+      return nil
+  }
+  var player = AVAudioPlayer()
+
+  do {
+    try player = AVAudioPlayer(contentsOf: url)
+    player.prepareToPlay()
+  } catch {
+    print("Error loading \(url.absoluteString): \(error)")
+  }
+
+  return player
+}
+```
+
+Add the following code at the end of `viewDidLoad()`:
+
+```swift
+// 1
+let imageViews = view.subviews.filter {
+  $0 is UIImageView
+}
+
+// 2
+for imageView in imageViews {
+  // 3
+  let tapGesture = UITapGestureRecognizer(
+    target: self,
+    action: #selector(handleTap)
+  )
+
+  // 4
+  tapGesture.delegate = self
+  imageView.addGestureRecognizer(tapGesture)
+
+  // TODO: Add a custom gesture recognizer too
+}
+
+chompPlayer = createPlayer(from: "chomp")
+```
+
+The begin project contains `handleTap(_:)`. Add the following inside of this method:
+
+```swift
+chompPlayer?.play()
+```
+
+The audio playing code is outside the scope of this tutorial, but if you want to learn more check out our [AVFoundation Course](https://www.kodeco.com/3879-beginning-audio-with-avfoundation/lessons/1). The important part is in `viewDidLoad()`:
+
+1. Create an array of image views — in this case, the monkey and banana.
+2. Cycle through the array.
+3. Create a `UITapGestureRecognizer` for each image view, specifying the callback. This is an alternate way of adding gesture recognizers. Previously, you added the recognizers to the storyboard.
+4. Set the delegate of the recognizer programmatically and add the recognizer to the image view.
+
+That’s it! Build and run. You can now tap the image views for a sound effect!
+
 ---
 
-## Setting UIGestureRecognizer Dependencies
+## Setting `UIGestureRecognizer` Dependencies
+
+Everything works pretty well, except for one minor annoyance. Dragging an object very slightly causes it to both pan and play the sound effect. You really want the sound effect to play only when you tap an object, not when you pan it.
+
+To solve this, you could remove or modify the delegate callback to behave differently when a touch and pinch coincide. But there’s another approach you can use with gesture recognizers: setting dependencies.
+
+You can call a method called `require(toFail:)` on a gesture recognizer. Can you guess what it does?
+
+Open <FontIcon icon="iconfont icon-file"/>`Main.storyboard` and another editor on the right by clicking the button on the top-right of the storyboard panel.
+
+On the left of the new panel that just opened, click the button with four squares. Finally, select the third item from the list, __Automatic__, which will ensure that <FontIcon icon="fas fa-dove"/>`ViewController.swift` shows there.
+
+![Setting up your editor](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_13-1.gif)
+
+Now <kbd>Control</kbd>-drag from the monkey pan gesture recognizer to below the class declaration and connect it to an outlet named `monkeyPan`. Repeat this for the banana pan gesture recognizer, but name the outlet `bananaPan`.
+
+Make sure you add the correct names to the recognizers to prevent mixing them up! You can check this in the __Connections inspector__.
+
+![Checking the names in the Connections Inspector](https://koenig-media.raywenderlich.com/uploads/2019/11/monkey_pinch_12.gif)
+
+Next, add these two lines to `viewDidLoad()`, right before the __TODO__:
+
+```swift
+tapGesture.require(toFail: monkeyPan)
+tapGesture.require(toFail: bananaPan)
+```
+
+Now, the app will only call the tap gesture recognizer if it doesn’t detect a pan. Pretty cool, eh?
 
 ---
 
-## Creating Custom UIGestureRecognizers
+## Creating Custom `UIGestureRecognizers`
+
+At this point, you know pretty much everything you need to know to use the built-in gesture recognizers in your apps. But what if you want to detect some kind of gesture that the built-in recognizers don’t support?
+
+Well, you can always write your own! For example, what if you wanted to detect a “tickle” when the user rapidly moves the object left and right several times? Ready to do this?
 
 ---
 
 ## “Tickling” the Monkey
 
+Create a new file via <FontIcon icon="iconfont icon-select"/>`[File ▸ New ▸ File…]` and pick the <FontIcon icon="iconfont icon-select"/>`[iOS ▸ Source ▸ Swift File]` template. Name the file `TickleGestureRecognizer`.
+
+Then replace the `import` statement in <FontIcon icon="fas fa-dove"/>`TickleGestureRecognizer.swift` with the following:
+
+```swift
+import UIKit
+
+class TickleGestureRecognizer: UIGestureRecognizer {
+  // 1
+  private let requiredTickles = 2
+  private let distanceForTickleGesture: CGFloat = 25
+
+  // 2
+  enum TickleDirection {
+    case unknown
+    case left
+    case right
+  }
+
+  // 3
+  private var tickleCount = 0
+  private var tickleStartLocation: CGPoint = .zero
+  private var latestDirection: TickleDirection = .unknown
+}
+```
+
+Here’s what you just declared, step-by-step:
+
+- `tickleCount`: How many times the user switches the direction of the gesture, while moving a minimum number of points. Once the user changes gesture direction three times, you count it as a tickle gesture.
+- `tickleStartLocation`: The point where the user started moving in this tickle. You’ll update this each time the user switches direction, while moving a minimum number of points.
+- `latestDirection` : The latest direction the finger moved, which starts as unknown. After the user moves a minimum amount, you’ll check whether the gesture went left or right and update this appropriately.
+
+1. The constants that define what the gesture will need. Note that you infer `requiredTickles` as an `Int`, but you need to specify `distanceForTickleGesture` as a `CGFloat`. If you don’t, then the app will infer it as an Int, which causes difficulties when calculating with `CGPoints` later.
+2. The possible tickle directions.
+3. Three properties to keep track of this gesture, which are:
+
+Of course, these properties are specific to the gesture you’re detecting here. You’ll create your own if you’re making a recognizer for a different type of gesture.
+
 ### Managing the Gesture’s State
 
+One of the things that you’ll change is the state of the gesture. When a tickle completes, you’ll change the `state` of the gesture to `ended`.
+
+Switch to <FontIcon icon="fas fa-dove"/>`TickleGestureRecognizer.swift` and add the following methods to the class:
+
+```swift
+override func reset() {
+  tickleCount = 0
+  latestDirection = .unknown
+  tickleStartLocation = .zero
+
+  if state == .possible {
+    state = .failed
+  }
+}
+
+override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent) {
+  guard let touch = touches.first else {
+    return
+  }
+
+  tickleStartLocation = touch.location(in: view)
+}
+
+override func touchesMoved(_ touches: Set<UITouch>, with event: UIEvent) {
+  guard let touch = touches.first else {
+    return
+  }
+
+  let tickleLocation = touch.location(in: view)
+
+  let horizontalDifference = tickleLocation.x - tickleStartLocation.x
+
+  if abs(horizontalDifference) < distanceForTickleGesture {
+    return
+  }
+
+  let direction: TickleDirection
+
+  if horizontalDifference < 0 {
+    direction = .left
+  } else {
+    direction = .right
+  }
+
+  if latestDirection == .unknown ||
+    (latestDirection == .left && direction == .right) ||
+    (latestDirection == .right && direction == .left) {
+
+    tickleStartLocation = tickleLocation
+    latestDirection = direction
+    tickleCount += 1
+
+    if state == .possible && tickleCount > requiredTickles {
+      state = .ended
+    }
+  }
+}
+
+override func touchesEnded(_ touches: Set<UITouch>, with event: UIEvent) {
+  reset()
+}
+
+override func touchesCancelled(_ touches: Set<UITouch>, with event: UIEvent) {
+  reset()
+}
+```
+
+There’s a lot of code here and you don’t need to know the specifics for this tutorial.
+
+To give you a general idea of how it works, you’re overriding the `UIGestureRecognizer`‘s `reset()`, `touchesBegan(_:with:)`, `touchesMoved(_:with:)`, `touchesEnded(_:with:)` and `touchesCancelled(_:with:)` methods. And you’re writing custom code to look at the touches and detect the gesture.
+
+Once you’ve found the gesture, you’ll want to send updates to the callback method. You do this by changing the `state` property of the gesture recognizer.
+
+Once the gesture begins, you’ll usually set the state to `.began`. After that, you’ll send any updates with `.changed` and finalize it with `.ended`.
+
+For this simple gesture recognizer, once the user has tickled the object, that’s it. You’ll just mark it as `.ended`.
+
+OK, now to use this new recognizer!
+
 ### Implementing Your Custom Recognizer
+
+Open <FontIcon icon="fas fa-dove"/>`ViewController.swift` and make the following changes.
+
+Add the following code to the top of the class, right after `chompPlayer`:
+
+```swift
+private var laughPlayer: AVAudioPlayer?
+```
+
+In `viewDidLoad()`, add the gesture recognizer to the image view by replacing the __TODO__:
+
+```swift
+let tickleGesture = TickleGestureRecognizer(
+  target: self,
+  action: #selector(handleTickle)
+)
+tickleGesture.delegate = self
+imageView.addGestureRecognizer(tickleGesture)
+```
+
+At end of `viewDidLoad()` add:
+
+```swift
+laughPlayer = createPlayer(from: "laugh")
+```
+
+Finally, create a new method at the end of the class to handle your tickle gesture:
+
+```swift
+@objc func handleTickle(_ gesture: TickleGestureRecognizer) {
+  laughPlayer?.play()
+}
+```
+
+Using this custom gesture recognizer is as simple as using the built-in ones!
+
+Build and run. “Hehe, that tickles!”
+
+![Testing the tickle gesture recognizer](https://koenig-media.raywenderlich.com/uploads/2019/12/Bildschirmvideo-aufnehmen-2019-12-28-um-10.51.33.gif)
 
 ---
 

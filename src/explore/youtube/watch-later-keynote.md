@@ -30,7 +30,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-vaadinofficial" /><!-- vaadinofficial  -->
 <MyYouTubeItems jsonName="yu-virtualJUG" /><!-- v JUG -->
 <MyYouTubeItems jsonName="yu-IBMTechnology" /><!-- IBM Technology -->
-<MyYouTubeItems jsonName="yu-DockerIo" /><!-- Docker -->
+<MyYouTubeItems jsonName="yu-DockerInc" /><!-- Docker -->
 <MyYouTubeItems jsonName="yu-MongoDB" /><!-- MongoDB -->
 <MyYouTubeItems jsonName="yu-Redisinc" /><!-- Redis -->
 <MyYouTubeItems jsonName="yu-strvcom" /><!-- STRV -->

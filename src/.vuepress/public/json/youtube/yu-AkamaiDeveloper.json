@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3redTP2Zkeg", "title": "Linux Hardware Commands | How To Inspect Hardware on A Linux Instance" },
+    { "id": "NDYhGH586w4", "title": "Building a Lightweight and Scalable Online Forum with Flask and SQL Alchemy | Full Project Tutorial" },
     { "id": "DpXm8mJRuC8", "title": "Apache Airflow Platform Deployment | Enterprise-Grade Workflow Monitoring" },
     { "id": "axSr3yR2Ddc", "title": "CI/CD SaaS App Deployment | SaaS App From Scratch Conclusion" },
     { "id": "3r_PBLaZoFQ", "title": "Understanding Linux System Performance | The Top Command" },

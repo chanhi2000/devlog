@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ERYS_WWb_y_rBcIesvxslBQOifCVfZtk95ler7s4J1w27-qWhOyk4F5S9vh0R0e9OP4kCoXvIA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NK7TMyrzFBQ", "title": "Melting UIs with Thomas G. Lopes" },
     { "id": "9lK6VvBEtL0", "title": "This Week in Svelte (2023 Nov 17) - SvelteKit 1.27.6, Svelte 4.2.5, new Svelte 5 features!" },
     { "id": "8HaAagG6V-Q", "title": "Building a SvelteKit Adapter for WinterJS" },
     { "id": "RVnxF3j3N8U", "title": "Svelte 5: Introducing Runes... with Rich Harris" },

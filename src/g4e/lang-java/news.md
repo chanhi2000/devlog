@@ -17,6 +17,7 @@ tags: ["jdk", "jdk8", "news"]
 ## Favorite(s)
 
 - [Awesome Java Weekly](https://java.libhunt.com)
+- [Awesome Kotlin Weekly](https://kotlin.libhunt.com)
 - [Awesome Android Weekly](https://android.libhunt.com)
 
 ---

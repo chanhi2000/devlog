@@ -3373,5 +3373,10 @@
     "desc": "A framework to enable multimodal models to operate a computer.",
     "officialSite": "",
     "topics": ["automation", "openai", "pyautogui"]
+  }, {
+    "repo": "stas00/ml-engineering",
+    "desc": "Machine Learning Engineering Online Book",
+    "officialSite": "https://stasosphere.com/machine-learning/",
+    "topics": ["ai", "bash", "large-language-models", "llm", "machine-learning", "machine-learning-engineering", "make", "mlops", "python", "pytorch", "scalability", "slurm", "transformers"]
   }
 ]

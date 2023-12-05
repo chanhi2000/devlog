@@ -10,7 +10,7 @@ description: ☕️Java
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-<ShieldsGroup logos="openjdk,android,spring,springboot,springsecurity,intellijidea,androidstudio,eclipseide,apachetomcat,eclipseadoptium"/>
+<ShieldsGroup logos="openjdk,kotlin,android,spring,springboot,springsecurity,intellijidea,androidstudio,eclipseide,apachetomcat,eclipseadoptium"/>
 
 ---
 

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "code",
+    "name": "Visual Studio Code",
+    "profile": "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eYpPUd7c4Wcja_-QaeVjecQicbpqfMktL0LDxPu8eKsm8BvL_WlCEimRDo3eP350ch8aWUOw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bVmczgfeR5Y", "title": "Working with Multiple Dev Containers in VS Code" }
+  ]
+}

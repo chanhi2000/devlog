@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/y7dd6gwWCGHhLAZtBRYETqk0Rn9u24vWkBMtwOJH7l4ayVupWul1tI8ajVmlEUw8uNHYqZc0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KSiq0xZllVc", "title": "Create Your First React Application using Visual Studio Code" },
+    { "id": "7jOI9sh08nA", "title": "Create Your First ASP.NET Web Application using Visual Studio Code | ASP.NET using VSCode and .NET 8" },
+    { "id": "UpP0BNWOaTs", "title": "[FIXED] XAMPP Tomcat error: Tomcat Started/Stopped with errors | Make sure Java JDK or JRE installed" },
     { "id": "bcnRjnvHv1I", "title": "Create Login Form using Bootstrap, HTML and CSS | Transparent Login Form with Background Image" },
     { "id": "p4rraRyUHT8", "title": "Create a Weather Application using React JS - Bootstrap and Fetch API | Consume API Data in React JS" },
     { "id": "y97U9Ikd7TI", "title": "Create TODO List Application using React JS and Bootstrap | Read and Store Data in the LocalStorage" },

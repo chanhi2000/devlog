@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/sxzld_A3w-McPIbiDog31iFkqoNDtUsD22_flBamY4EGBq9N3gz8mYGBKS2HquFxzouWZJweBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "S85MOayADz8", "title": "Django Content Types framework / ContentType model" },
+    { "id": "Wt4_7ZAE8dI", "title": "Generic Foreign Keys in Django / GenericForeignKey / GenericRelation" },
     { "id": "q6E3xoKIBnY", "title": "FastAPI #2 - Path Parameters / Data Validation with Type-Hints & Enums" },
     { "id": "akd7u69k27k", "title": "Django, HTMX and DaisyUI Components - Building a To-Do List App" },
     { "id": "Kd9oyUT5DwI", "title": "django-easy-audit - Tracking User Behaviour / Tracking Changes to Objects" }, 

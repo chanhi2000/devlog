@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ascourter",
+    "name": "Andrew Courter",
+    "profile": "https://yt3.googleusercontent.com/k3_h7Rh452iZ-_6Q_0mveSlqAGyE_3gbM827szy2LOv9aj5F76rWNaL-Y4eWdX859tjgkzObhIg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DP7ui1pEKdveaT_8xoOdzG0zDXAXHF44VAaJXCGLDuQNEiGtALCBmgi6jBD7x4GEuXcgGINRnuk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZLzVG98i-64", "title": "Sed - Replace text using your CLI" },
+    { "id": "qN6BuJpsFbQ", "title": "Autocommands in Neovim" }
+  ]
+}

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hfLltUhJHKYO6Yoe4hHW3AD9vNmOOftNht1N1Wo1a_VDaldrRD08Z0TYyIAbmPXVXq3ggnci=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QleeV_ipB7w", "title": "Java 다익스트라(Dijkstra)" },
     { "id": "K6ZpR22qF1M", "title": "카카오 코딩 테스트 - 길 찾기 게임 (Python 풀이)" },
     { "id": "2iMJclnfQfU", "title": "카카오 코딩 테스트 - 합승 택시 요금 (Python 풀이)" },
     { "id": "HFnyxCQe_2g", "title": "카카오 코딩 테스트 - 문자열 압축 (Java 풀이)" },

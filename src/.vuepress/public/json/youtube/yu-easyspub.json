@@ -7,11 +7,6 @@
   },
   "videos": [
     { "id": "YSGb-DX32ag", "title": "19 CRUD코드 작성하기 | Do it! Node.js 프로그래밍 입문" },
-    { "id": "rKkE0o7JbvY", "title": "18강 컨트롤러 만들기 | Do it! Node.js 프로그래밍 입문" },
-    { "id": "32-ObOZkRe4", "title": "17강 스키마와 모델 | Do it! Node.js 프로그래밍 입문" },
-    { "id": "jdvxPa0VVHI", "title": "16강 몽고DB 사용하기 | Do it! Node.js 프로그래밍 입문" },
-    { "id": "iFN5zKuvTK4", "title": "15강 몽고DB 설정하기 | Do it! Node.js 프로그래밍 입문" },
-    { "id": "dU-tA9354CI", "title": "06강 노드의 모듈 | Do it! Node.js 프로그래밍 입문" },
     { "id": "P_eRpwR15-o", "title": "[Do it! SQL 입문] 06장 내 맘대로 주식 데이터 분석하기" },
     { "id": "5jIEQm-TJ3s", "title": "[Do it! SQL 입문] 7장 국가 통계 데이터 분석하기" },
     { "id": "kGwOVLiDNus", "title": "09-2강 클래스 | Do it! 모던 자바스크립트 프로그래밍의 정석" }
@@ -25,6 +20,7 @@
         { "id": "y9KlZ0fJ-8I", "title": "03강 노드 실행 및 패키지 관리 | Do it! Node.js 프로그래밍 입문" },
         { "id": "YVqMQyhdvwM", "title": "04강 자바스크립트 기초 문법-1 | Do it! Node.js 프로그래밍 입문" },
         { "id": "Gg4ZO3DlBc0", "title": "05강 자바스크립트 기초 문법-2 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "dU-tA9354CI", "title": "06강 노드의 모듈 | Do it! Node.js 프로그래밍 입문" },
         { "id": "cbnOhi9ZtWg", "title": "07강 노드의 path모듈 | Do it! Node.js 프로그래밍 입문" },
         { "id": "cv33E5EXuwI", "title": "08강 노드의 fs 모듈 | Do it! Node.js 프로그래밍 입문" },
         { "id": "vjr7zsdmAS4", "title": "09강 HTTP 모듈로 서버 만들기 | Do it! Node.js 프로그래밍 입문" },
@@ -32,7 +28,18 @@
         { "id": "in2nZTzlhBs", "title": "11강 익스프레스 | Do it! Node.js 프로그래밍 입문" },
         { "id": "O0TGHlIny5A", "title": "12강 익스프레스 라우팅 | Do it! Node.js 프로그래밍 입문" },
         { "id": "2Gi8mNBKVPo", "title": "13강 라우터 미들웨어 | Do it! Node.js 프로그래밍 입문" },
-        { "id": "WxbD4o4YQEg", "title": "14강 바디파서 미들웨어 | Do it! Node.js 프로그래밍 입문" }
+        { "id": "WxbD4o4YQEg", "title": "14강 바디파서 미들웨어 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "iFN5zKuvTK4", "title": "15강 몽고DB 설정하기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "jdvxPa0VVHI", "title": "16강 몽고DB 사용하기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "32-ObOZkRe4", "title": "17강 스키마와 모델 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "rKkE0o7JbvY", "title": "18강 컨트롤러 만들기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "HAO-QrgBvPA", "title": "20강 EJS 엔진 사용법 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "dh_SAQqJu_c", "title": "21강 전체 연락처 표시하기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "1KXqQFGm7g0", "title": "22강 연락처 추가하기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "k9LERgdbyg4", "title": "23강 연락처 수정 · 삭제하기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "awLFFPrJ7bo", "title": "24강 로그인 처리하기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "xXRxPjxtQeY", "title": "25강 관리자 등록하기 | Do it! Node.js 프로그래밍 입문" },
+        { "id": "GvIc_CN0qHA", "title": "26강 사용자 인증하기 | Do it! Node.js 프로그래밍 입문" }
       ]
     }
   ]

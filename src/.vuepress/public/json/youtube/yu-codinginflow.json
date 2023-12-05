@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7RHSrFbLeNA", "title": "How to Resize Images With Sharp (Node.js/Next.js) #nodejs #nodejstutorial #nextjs #nextjstutorial" },
+    { "id": "d9olvU5bbQ4", "title": "Next.js: How to Set Up Vercel Cron Jobs 🕰️ #nextjs #nextjs14 #vercel #nextjstutorial" },
+    { "id": "hHcl2S9XwN8", "title": "React.js Tip: Use Fragments to Render Multiple Sibling Elements #reactjs #reactdevelopment #react" },
     { "id": "1ulURaCBeiQ", "title": "Next.js Redirect Without Flashing Page (Next.js 14, App Router) #nextjs #nextjstutorial" },
     { "id": "hAjI_YKBho4", "title": "Image Hover Zoom Effect in TailwindCSS (E-Commerce Style) #tailwindcss #webdevelopment #reactjs" },
     { "id": "3Zpk8x4BpHE", "title": "Why Are HTML Elements Unstyled in TailwindCSS? #tailwindcss #webdevelopment #reactjs" },

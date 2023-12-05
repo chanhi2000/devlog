@@ -95,19 +95,6 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-maven/snippets.md',
       ]
     }, {
-      text: '🅺Kotlin',
-      collapsible: true,
-      children: [
-        '/g4e/lang-kotlin/README.md',
-        '/g4e/lang-kotlin/basics.md',
-        '/g4e/lang-kotlin/spring.md',
-        '/g4e/lang-kotlin/ktx.md',
-        '/g4e/lang-kotlin/tips.md',
-        '/g4e/lang-kotlin/news.md',
-        '/g4e/lang-kotlin/snippets.md',
-        '/g4e/lang-kotlin/references.md',
-      ]
-    }, {
       text: '☕️Java',
       collapsible: true,
       children: [
@@ -118,6 +105,8 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',
         '/g4e/lang-java/news.md',
+        '/g4e/lang-java/tips.md',
+        '/g4e/lang-java/snippets.md',
         '/g4e/lang-java/references.md',
         '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
@@ -883,6 +872,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/68.md',
         '/crashcourse/swift-100-days-of-swift/69.md',
         '/crashcourse/swift-100-days-of-swift/70.md',
+        '/crashcourse/swift-100-days-of-swift/71.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -946,6 +936,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/55.md',
         '/crashcourse/swift-100-days-of-swiftui/56.md',
         '/crashcourse/swift-100-days-of-swiftui/57.md',
+        '/crashcourse/swift-100-days-of-swiftui/58.md',
+        '/crashcourse/swift-100-days-of-swiftui/59.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -962,7 +954,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-kodeco/6334294-my-app-crashed-now-what.md',
         '/crashcourse/swift-kodeco/6620276-sqlite-with-swift-tutorial-getting-started.md',
         '/crashcourse/swift-kodeco/6747815-uigesturerecognizer-tutorial-getting-started.md',
-        `/crashcourse/swift-kodeco/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started.md`
+        '/crashcourse/swift-kodeco/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started.md',
+        '/crashcourse/swift-kodeco/7076593-cocoapods-tutorial-for-swift-getting-started',
       ]
     }, {
       text: '☕️Java8 in Action',
@@ -1049,6 +1042,13 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/java-jump-to-spring-boot/04C.md',
         '/crashcourse/java-jump-to-spring-boot/04D.md',
         '/crashcourse/java-jump-to-spring-boot/04E.md',
+        '/crashcourse/java-jump-to-spring-boot/04F.md',
+        '/crashcourse/java-jump-to-spring-boot/04G.md',
+        '/crashcourse/java-jump-to-spring-boot/04H.md',
+        '/crashcourse/java-jump-to-spring-boot/04I.md',
+        '/crashcourse/java-jump-to-spring-boot/04J.md',
+        '/crashcourse/java-jump-to-spring-boot/04K.md',
+        '/crashcourse/java-jump-to-spring-boot/04L.md',
         '/crashcourse/java-jump-to-spring-boot/a.md',
       ]
     }, {

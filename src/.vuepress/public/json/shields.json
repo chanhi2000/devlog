@@ -59,6 +59,7 @@
   { "logo": "jupyter", "name": "Jupyter%20Notebook", "colorHex": "F37626" },
   { "logo": "jquery", "name": "jQuery", "colorHex": "0769AD" },
   { "logo": "kakao", "name": "Kakao", "colorHex": "FFCD00" },
+  { "logo": "kotlin", "name": "Kotlin", "colorHex": "7F52FF" },
   { "logo": "kubernetes", "name": "Kubernetes", "colorHex": "326CE5" },
   { "logo": "laravel", "name": "Laravel", "colorHex": "FF2D20" },
   { "logo": "latex", "name": "LaTeX", "colorHex": "008080" },

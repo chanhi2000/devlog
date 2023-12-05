@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/4cfS36Ere2G2viZ1eUeJIny-Q-QZ6op3UnM3r0HkThZzZFLyzj69gWgfwoAAd6lNt6c43GLxVw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AP61_ETd2GE", "title": "Setting Up NAS Server On Proxmox" },
+    { "id": "XAa_qpNmzZs", "title": "iGPU Transcoding In Proxmox with Jellyfin Media Center!" },
     { "id": "kukoa_7BTig", "title": "I Wont Be Using XCP-NG And Here Is Why" },
     { "id": "xD9Xyt2mdSI", "title": "5 Things I Would Do On Fresh Install Of ProxMox" },
     { "id": "xV9rDrza-Yg", "title": "Command Not Found" },

@@ -844,5 +844,10 @@
     "desc": "An embedded scheme interpreter in Rust",
     "officialSite": "",
     "topics": ["contracts", "programming-language", "racket", "rust", "scripting-language", "transducers"]
+  }, {
+    "repo": "pretzelhammer/rust-blog",
+    "desc": "Educational blog posts for Rust beginners",
+    "officialSite": "",
+    "topics": ["blog", "blogging", "rust", "rust-lang"]
   }
 ]

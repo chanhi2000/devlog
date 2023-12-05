@@ -174,20 +174,20 @@ You’ve tackled some heavyweight skills now, so before we move on it’s time t
 - [Day 47][day-47] – Milestone: Projects 7-9
 - [Day 48][day-48] – Expanding your horizons
 
-### Days 49-59: Focus on data
+### ✅Days 49-59: Focus on data
 
 In these projects we’re going to start looking more carefully at how we can send, retrieve, and store data in our SwiftUI apps.
 
-- ✅[Day 49][day-49] – Project 10, part one
-- ✅[Day 50][day-50] – Project 10, part two
-- ✅[Day 51][day-51] – Project 10, part three
-- ✅[Day 52][day-52] – Project 10, part four
-- ✅[Day 53][day-53] – Project 11, part one
-- ✅[Day 54][day-54] – Project 11, part two
-- ✅[Day 55][day-55] – Project 11, part three
-- ✅[Day 56][day-56] – Project 11, part four
-- ✅[Day 57][day-57] – Project 12, part one
-- ✅[Day 58][day-58] – Project 12, part two
+- [Day 49][day-49] – Project 10, part one
+- [Day 50][day-50] – Project 10, part two
+- [Day 51][day-51] – Project 10, part three
+- [Day 52][day-52] – Project 10, part four
+- [Day 53][day-53] – Project 11, part one
+- [Day 54][day-54] – Project 11, part two
+- [Day 55][day-55] – Project 11, part three
+- [Day 56][day-56] – Project 11, part four
+- [Day 57][day-57] – Project 12, part one
+- [Day 58][day-58] – Project 12, part two
 - [Day 59][day-59] – Project 12, part three
 
 ### Days 60-61: Consolidation V
@@ -334,7 +334,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-56]: 56.md
 [day-57]: 57.md
 [day-58]: 58.md
-[day-59]: https://www.hackingwithswift.com/100/swiftui/59
+[day-59]: 59.md
 [day-60]: https://www.hackingwithswift.com/100/swiftui/60
 [day-61]: https://www.hackingwithswift.com/100/swiftui/61
 [day-62]: https://www.hackingwithswift.com/100/swiftui/62

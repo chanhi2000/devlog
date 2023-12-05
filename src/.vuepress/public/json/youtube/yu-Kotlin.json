@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "apiVJfLvUBE", "title": "Coil Goes Multiplatform with Colin White | Talking Kotlin #127" },
+    { "id": "IGuVIRZzVTk", "title": "Build Apps for iOS, Android, and Desktop With Compose Multiplatform" },
+    { "id": "eFzy1BRtHps", "title": "iOS Development With Kotlin Multiplatform: Tips and Tricks" },
+    { "id": "CCr6yWMkiZU", "title": "Advent of Code 2023 in Kotlin Day 2" },
     { "id": "zE2LIAUisRI", "title": "Getting Started With KMP: Build Apps for iOS and Android With Shared Logic and Native UIs" },
     { "id": "bz4cQeaXmsI", "title": "The State of Kotlin Multiplatform" },
     { "id": "1BzdLtgZHcI", "title": "http4k Chronicles | Talking Kotlin #126" },

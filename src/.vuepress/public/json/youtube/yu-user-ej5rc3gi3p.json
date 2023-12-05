@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "RrB7m8moZ-M", "title": "메모보고 목록에 대한 전체 건수를 조회한다. 테스트" },
+    { "id": "4miFULOHBOk", "title": "메뉴 조회(멀티건) 테스트" },
+    { "id": "WA9glkYWe48", "title": "메뉴 조회(멀티건) rootContext" },
+    { "id": "303cLBF4jSE", "title": "[기능추가][DAO단위테스트] 메모할일정보 MemoTodoDAO" },
     { "id": "5wct98X64jg", "title": "주어진 조건에 따른 메모보고 목록을 불러온다. 테스트" },
     { "id": "khgPJ_nw5uw", "title": "주어진 조건에 맞는 메모보고를 불러온다. 테스트" },
     { "id": "FlMT0Su5Ag0", "title": "메모보고 정보의 보고자 조회일시를 수정한다. 테스트" },

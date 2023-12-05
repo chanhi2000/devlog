@@ -874,5 +874,10 @@
     "desc": "Little AV/EDR bypassing lab for training & learning purposes",
     "officialSite": "",
     "topics": ["defense-evasion", "edr", "edr-evasion", "edr-testing"]
+  }, {
+    "repo": "KienTTran/ABMGPU",
+    "desc": "Agent Based Model on GPU using CUDA 12.2.1 and OpenGL 4.5 (CUDA OpenGL interop) on Windows/Linux",
+    "officialSite": "",
+    "topics": []
   }
 ]

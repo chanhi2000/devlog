@@ -1054,5 +1054,15 @@
     "desc": "SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror]",
     "officialSite": "https://blitiri.com.ar/p/chasquid/",
     "topics": ["email-security", "go", "go-application", "golang", "mail", "mailserver", "mta", "server", "smtp"]
+  }, {
+    "repo": "go-gost/gost",
+    "desc": "GO Simple Tunnel - a simple tunnel written in golang",
+    "officialSite": "https://gost.run",
+    "topics": ["dns", "dtls", "go", "golang", "grpc", "http", "http2", "http3", "https", "icmp-tunnel", "kcp", "quic", "reverse-proxy", "shadowsocks", "socks4a", "socks5", "ssh", "tunnel", "tuntap", "websocket"]
+  }, {
+    "repo": "anfragment/zen",
+    "desc": "Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux",
+    "officialSite": "",
+    "topics": ["adblock", "gui", "linux", "macos", "privacy", "windows"]
   }
 ]

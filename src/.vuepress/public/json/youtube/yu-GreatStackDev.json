@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/0QSVtVUVjRPWKNSYRY3i7vwd0pe5HhKv8VQjrLOCFBSXglbsMbgx86Nz6k9NnfJrXYM9jQAVcQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VMZ7lcSdVnY", "title": "How To Make A Quiz App In React JS | Build Quiz App Using HTML, CSS and React JS" },
     { "id": "aKByHmd6unc", "title": "How To Make Website Using React JS | Website Header Design In React JS" },
     { "id": "waCkrUIlSTo", "title": "Create News App Using React JS And Bootstrap | Learn Bootstrap In React JS Tutorial" },
     { "id": "gbAdFfSdtQ4", "title": "React JS Tutorial For Beginners With React JS Project Step By Step Tutorial 2023" },

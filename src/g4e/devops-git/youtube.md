@@ -20,5 +20,7 @@ tags: ["youtube", "git", "git-cli", "http", "credentials", "git-credentials", "b
 <MyYouTubeItems jsonName="yu-Atlassian" /><!-- Atlassian -->
 <MyYouTubeItems jsonName="yu-themoderncoder" /><!-- The Modern Coder -->
 <MyYouTubeItems jsonName="yu-anthonywritescode" /><!-- anthonywritescode -->
+<MyYouTubeItems jsonName="yu-floatinglittleleavesofcode6473" /><!-- Floating Little Leaves of Code -->
+<MyYouTubeItems jsonName="yu-ChaelCodes" /><!-- ChaelCodes -->
 
 <TagLinks />

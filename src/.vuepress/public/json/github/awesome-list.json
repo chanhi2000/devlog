@@ -804,5 +804,10 @@
     "desc": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
     "officialSite": "https://doppler.com",
     "topics": ["android-interview-questions", "angularjs-interview-questions", "awesome", "awesome-list", "awesomeness", "interview-practice", "interview-questions", "interviewing", "javascript", "javascript-interview-questions", "list", "python-interview-questions", "rails-interview", "ruby"]
+  }, {
+    "repo": "SimplifyJobs/Summer2024-Internships",
+    "desc": "Collection of Summer 2024 tech internships!",
+    "officialSite": "https://swelist.com/",
+    "topics": ["internships", "interview-preparation", "jobs", "university"]
   }
 ]

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PxxZcTBYi34", "title": "How To Use Both EF Core and Dapper For CQRS Queries" },
+    { "id": "f7aKQkdsHf8", "title": "3 Ways to Find Maximum Element with LINQ" },
+    { "id": "jncrUGb03Ac", "title": "ASP.NET Core 8 new feature: IExceptionHandler" },
+    { "id": "N7CAsND5mPo", "title": "NEW: Collection Expressions in C# 12" },
+    { "id": "fmQJTgTdUYw", "title": "Clean Architecture: Application Core Project Setup with DDD, CQRS" },
     { "id": "0Kpo8jx6qxQ", "title": "Use This To Configure Your Database Schemas" },
     { "id": "85YbMEb1qkQ", "title": "How to Implement the CQRS Pattern in Clean Architecture (from scratch)" },
     { "id": "sOFXXQdev1U", "title": "C# 12 new feature: Default Lambda Parameters" },

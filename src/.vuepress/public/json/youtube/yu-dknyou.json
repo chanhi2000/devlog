@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "4nkUaV8dDbI", "title": "IT 인프라 기초강의 - 네트워크 3편 (라우터, IP)" },
     { "id": "vAbyt4zW7-c", "title": "IT 인프라 기초강의 - 네트워크 2편 (UTP/광 케이블, 스위치)" },
     { "id": "e3UMjCLG5Nc", "title": "IT 인프라 기초 강의 - 스토리지 1편 (블록, 파일, 오브젝트 스토리지)" }
   ]

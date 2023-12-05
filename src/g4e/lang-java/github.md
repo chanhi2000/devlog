@@ -22,7 +22,7 @@ meta:
 
 ---
 
-## Java
+## ☕️Java
 
 <MyGithubItems jsonName="lang-java" />
 
@@ -32,7 +32,7 @@ meta:
 
 ---
 
-## Kotlin
+## 🅺Kotlin
 
 <MyGithubItems jsonName="lang-kotiln" />
 

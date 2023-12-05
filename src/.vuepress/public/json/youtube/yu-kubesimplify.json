@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "kubesimplify",
+    "name": "Kubesimplify",
+    "profile": "https://yt3.googleusercontent.com/C0yjKK1QiycRrClxj22F-nOsXCqolSKuUz178S2WysroQ-7VKtcoTsWuRl4OUn8lo-02-nlazQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p453_K2bg707VFD9LM4RoMvsfwArj0Y-ejFKExtQiWHkzDvTGuOkzuov94KsdoGryORZSQYH5w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PN3VqbZqmD8", "title": "Kubernetes 101 workshop - complete hands-on" },
+    { "id": "Pys6fyQxDTE", "title": "Kubernetes Certifications | AMA Session w/Saiyam Pathak" }
+  ]
+}

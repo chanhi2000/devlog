@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "b7Uvq4IM0DA", "title": "21. tailwindcss, 컨테이너, container" },
+    { "id": "ARO5CKPG7pg", "title": "22. tailwindcss, 컬럼, columns" },
+    { "id": "mDyr2kF-IdI", "title": "23. tailwindcss, 디스플레이 display" },
+    { "id": "cXqI1w2zjkw", "title": "24. tailwindcss, 플렉스 flex #1" },
+    { "id": "rzaXc1vRsgo", "title": "25. tailwindcss, 플렉스 flex #2" },
     { "id": "_nzr4RtvNKI", "title": "16. tailwindcss 의 table에 대해서 알아보아요" },
     { "id": "z5-5RW1k3S8", "title": "17. tailwindcss 의 box shadow에 대해서 알아 보아요." },
     { "id": "JS86RGaUUNw", "title": "19. tailwindcss, 필터, filters" },

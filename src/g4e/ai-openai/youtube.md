@@ -53,5 +53,6 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-HITSAI" /><!-- HITS -->
 <MyYouTubeItems jsonName="yu-aiDotEngineer" /><!-- AI Engineer -->
 <MyYouTubeItems jsonName="yu-engineerprompt" /><!-- Prompt Engineering -->
+<MyYouTubeItems jsonName="yu-ConnerArdman" /><!-- Conner Ardman -->
 
 <TagLinks />

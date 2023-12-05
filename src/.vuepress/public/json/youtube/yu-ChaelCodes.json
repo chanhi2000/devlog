@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ChaelCodes",
+    "name": "ChaelCodes",
+    "profile": "https://yt3.googleusercontent.com/Lz-9tzVdjK4DiB8BZfjyEecKLgVBICcDmIu3OHzyTWXKkxvK-0nYMsgY9w26EDn1rLwP9HJ0R3Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3lCs7rBODtBwbJcbX9zoEfys6V0fE3j_ybtDXiKHn3rmtp4wZlJbjC6M6ePdk7jw_kLYqkihmz0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "u3NG1966zso", "title": "Stop Using git add ." }
+  ]
+}

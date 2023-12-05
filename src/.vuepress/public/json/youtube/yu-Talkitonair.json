@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Fs9ZHDrXOeI", "title": "오브젝트 스토리지 검토시,  5가지 체크포인트  [구해줘 Data@토크아이티, 한결피아이에프 정승진팀장]" },
+    { "id": "RosptA95L-o", "title": "컨테이너 보안을 위한 쿠버네티스 네이티브 DevSecOps  [구해줘 IT infra@토크아이티, 수세 뉴벡터, 오픈소스컨설팅]" },
+    { "id": "XSj-iiYfN1o", "title": "ERP PM의 생생한 현장 VOC 와 Lessons & Learned (feat. SAP S/4HANA PCE) [ 구해줘 DX@토크아이티 프리미엄 웨비나, ASPN]" },
+    { "id": "ugSTMdBfNeQ", "title": "새로운 프로젝트 관리 기준은? 납기, 스펙이 아닌 밸류를 맞추어라!  [구해줘 DX@토크아이티, 투이컨설팅 신창섭 상무]" },
     { "id": "7K4Hw1HPVng", "title": "OCR, AI, 스마트폰이 만드는 실시간 공정 디지털화 [구해줘 DX@토크아이티, 파워젠 이창섭부장]" },
     { "id": "QE2JVXCEo70", "title": "SD-WAN과 제로 트러스트 보안 10분 요약  [ 구해줘 IT infta@토크아이티, HPE Aruba Networking]" },
     { "id": "qRdm7t54afw", "title": "클라우드에서 온프레미스로 갈때, 가상화와 HCI 통합관리 방안 [구해줘 IT infra@토크아이티, 아이웍스 이병옥부장, Nutanix]" },

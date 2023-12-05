@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/HZzqk9eqBjLin6-aiUgeAYlcrRyI10rgrhZJXy5-R03bn8xQ5y3ORLE7eSMoRFKYPvUImKGD0OI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "U55ex_ga7_k", "title": "개발자 중 누가 살아 남을까? 생존을 위해 반드시 생각해야 할 점" },
     { "id": "58cSkcu5Mbc", "title": "프론트엔드,백엔드,클라우드 개발 공부 로드맵 말씀드립니다. ( 유데미 추천 강의 9개 포함 )" },
     { "id": "_IYrX_1QyXU", "title": "도커 쿠버네티스 이 정도는 알아야 해요! 개념만 살짝 듣고 가시죠~!" }, 
     { "id": "YSudWlx0o9I", "title": "이 영상만 보셔도 서버 클라우드 IT 인프라 흐름이 보입니다. 클라우드 서버 서버리스 serverless" },

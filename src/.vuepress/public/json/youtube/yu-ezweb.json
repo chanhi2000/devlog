@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fr3EcIu6Sb0", "title": "Vue.js V3 - 핵심 #11 - 생명주기, option과 composition 차이" },
+    { "id": "FZqTrBbGDwE", "title": "웹디자인 기능사 실기(47) - 기출유형 3 (WD 중공업)  로고, 영역별 CSS, Script" },
+    { "id": "eQ9Ix2gGVEM", "title": "Vue.js V3 - 핵심 #12 - 감시자, 비동기 데이터 연동" },
+    { "id": "p5SNTYCqi7g", "title": "Vue.js V3 - 핵심 #13 - 템플릿 참조, ref" },
+    { "id": "lvEu80Sk0x8", "title": "웹디자인 기능사 실기(49) - 기출유형 D1 반응형, 영역별 html, header, menu, slide, tab, footer" },
+    { "id": "bIsxCE19rjE", "title": "Vue.js V3 - 핵심 #15 - 동적컴포넌트 활용 탭 구현하기" },
+    { "id": "Ki3Wa4MWDYk", "title": "Vue.js V3 - 핵심 #14 - 컴포넌트 기초, 분리, 값 전달" },
+    { "id": "wSGa2rVVG_k", "title": "웹디자인 기능사 실기(50) - 기출유형 D1 반응형, 영역별 CSS, header, menu, slide, tab, footer" },
     { "id": "-INdgWh-SQw", "title": "Vue.js V3 - 핵심 #10 - form 입력 바인딩, v-model, input의 차이점" },
     { "id": "SXG-YdhD8Dg", "title": "Vue.js V3 - 핵심 #08 - 리스트 렌더링 v-for, 객체, 배열 목록 출력, computed와 methods 함수 비교" },
     { "id": "Ip2vrY0EtsM", "title": "Vue.js V3 - 핵심 #07 - 조건부 렌더링, v-if, v-else, v-else-if, v-show" },

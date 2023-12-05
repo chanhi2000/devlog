@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ymHMTno7hBg", "title": "웹 개발 워크북_5_1 부트 프로젝트 생성과 부트3.2 Querydsl설정" },
+    { "id": "U8-noaHxDRw", "title": "웹 개발 워크북_8_1 시큐리티 설정" },
+    { "id": "R4zjXTCGekY", "title": "웹 개발 워크북 6장 Swagger대신OpenAPI" },
+    { "id": "07-arWcaaL4", "title": "웹 개발 워크북 8장_커스텀로그인/Remember-me처리" },
     { "id": "ypTCCimv_rg", "title": "웹 개발 워크북_1_3_3_URI설계" },
     { "id": "0l3ciGhU0tE", "title": "웹 개발 워크북_1_3_1_MVC소개" },
     { "id": "D6rz-k-hwyo", "title": "웹 개발 워크북_1_3_2_PRG패턴" },

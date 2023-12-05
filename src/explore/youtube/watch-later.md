@@ -132,7 +132,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-coder-journey]: https://www.youtube.com/@Coderjourney
 [yu-user-ls2vk8ic9v]: https://www.youtube.com/@user-ls2vk8ic9v
 [yu-nathaniel-jordon]: https://www.youtube.com/@NathanielJordon
-[yu-python-simplified]: https://www.youtube.com/@PythonSimplified
 [yu-sonulodha9215]: https://www.youtube.com/@sonulodha9215
 [yu-techmong]: https://www.youtube.com/@techmong
 [yu-codewiththilaks]: https://www.youtube.com/@codewiththilaks

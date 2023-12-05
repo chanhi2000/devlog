@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/dy3cphCeA7ZmAx2Rv5QQ3l3F9G-Czt6bRTCDWMuGUVwpE2YuHutXyUtZNwLXizGnQv2e88AE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GCFwlrodSas", "title": "HTTP Headers Explained Using a Letter Sending Analogy | HTTP Headers Unveiled" },
     { "id": "TUnqhhFZdtw", "title": "JMS Simplified: The Alice and Bob Mailbox Analogy | Java Message Service Tutorial" },
     { "id": "z5dlU8vUltc", "title": "HTTP Methods Explained for Beginners | HTTP methods (GET, POST, DELETE, and PUT)" },
     { "id": "g_wUWq9F_gg", "title": "JMS Explained for Beginners: The Messenger Analogy | Java Message Service (JMS)" },

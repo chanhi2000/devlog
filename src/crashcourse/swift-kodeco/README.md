@@ -1771,7 +1771,7 @@ color: rgba(135, 99, 210, 0.2)
 ```card
 title: CocoaPods Tutorial for Swift - Getting Started
 desc: Use this CocoaPods Tutorial for Swift to learn how to install and manage third-party library dependencies in your Swift projects. 
-link: https://www.kodeco.com/7076593-cocoapods-tutorial-for-swift-getting-started
+link: 7076593-cocoapods-tutorial-for-swift-getting-started.md
 logo: https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-tools-libraries-ios-332bbe814d9611fbedd98b00454084a66e0f64042270ac273c27145f80902377.svg
 color: rgba(135, 99, 210, 0.2)
 ```

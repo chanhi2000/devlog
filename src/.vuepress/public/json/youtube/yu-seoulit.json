@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/0tsXyJDcWSs8DtStMVI9kGWpxlQTwqPQR4VIhWW8UbnZHnVyDwMxZBw0fPpXz5VBIOrdY787=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Mxl8D2ibRUw", "title": "신사임당 78기 35강 HTML&Javascript  jquery라이브러리 소개하기" },
+    { "id": "5uVAI8Uucwk", "title": "신사임당 78기 32강 HTML&Javascript  객체-브라우저 객체 모델(BOM)" },
+    { "id": "0UKid8uNke8", "title": "신사임당 78기 34강 HTML&Javascript  jquery라이브러리 소개하기" },
+    { "id": "9qjyhnquicE", "title": "신사임당 78기 33강 HTML&Javascript  객체-브라우저 객체 모델(BOM)" },
+    { "id": "7OF-6ifJ4Pg", "title": "율곡선생 77기 16강 스프링시큐리티 OAuth2 용어  및 개념정의" },
+    { "id": "pKAwNA5c_zs", "title": "신사임당 78기 25강 JAVA 웹프로그램(JSP) MVC" },
+    { "id": "MUcvlNOOk5A", "title": "신사임당 78기 26강 JAVA 웹프로그램(JSP) MVC" },
+    { "id": "46Rb4NfC0dY", "title": "신사임당 78기 24강 JAVA 웹프로그램 JSP MVC" },
+    { "id": "Y6_VvzVkEII", "title": "신사임당 79기 37강 JAVA 람다식(lambda expression)" },
+    { "id": "2zMXkfQ88PA", "title": "신사임당 79기 38강 JAVA  내부로컬클래스" },
+    { "id": "2pVq0COJYus", "title": "율곡선생 77기 19강 스프링시큐리티 OAuth2 Social 인증  설정, 스프링부트 자동 설정, Social 인증 Custome 하기" },
+    { "id": "ugoR6z0Oqsc", "title": "율곡선생 77기 18강 스프링시큐리티 OAuth2 Social 인증  구글 페이스북 App 등록" },
     { "id": "X_LLJ82VPRM", "title": "#신사임당 78기  19강 JAVA 웹프로그램 AJAX(Asynchronous Javascript And XML)  XMLHttpRequest객체" },
     { "id": "ltU6cLCut44", "title": "신사임당 79기 26강 JAVA 상속관계시 생성자 호출 this super this() super()" },
     { "id": "D-FIBkH_Uyg", "title": "신사임당 79기 24강 JAVA 접근제어자 Access Modifier" },

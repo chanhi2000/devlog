@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DatasetGuru",
+    "name": "Dataset Guru",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaPv6g3BNxI3ojffYAPWeiqPEW2LtljTqVpVKfm790P4v62ku4dcA8hyCXydP5j=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/K8lt9iYzheO7z3Lm7Jz2dniT39KCmeSAWuozjd9xj83GVd3JgDqOuwRcmWM3_Q-gkdzdCuBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1pHYKdyRvrw", "title": "Full Data Analysis Portfolio Exercise (SQL, Excel, Tableau)" }
+  ]
+}

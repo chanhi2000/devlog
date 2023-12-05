@@ -212,5 +212,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-codewithguillaume" /><!-- CodewithGuillaume -->
 <MyYouTubeItems jsonName="yu-JakePomperada" /><!-- Jake Pomperada -->
 <MyYouTubeItems jsonName="yu-webprodigies" /><!-- Web Prodigies -->
+<MyYouTubeItems jsonName="yu-codeching" /><!-- Codeching -->
+<MyYouTubeItems jsonName="yu-codewithlari" /><!-- code with lari -->
 
 <TagLinks />

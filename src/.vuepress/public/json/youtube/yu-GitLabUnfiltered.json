@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/LmV-G7nWo7biB2qwauWSbbKCDA0uTnSjPvmwo2izQ4Kn34MBpXGiE3QT5UsCqbkASimHYDsu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dDqLFdjobXE", "title": "GitHub OAuth for Project Imports" },
+    { "id": "UVwWxoGat-I", "title": "Internal API requests and replication lag" },
+    { "id": "3Tyad8o8E_A", "title": "Getting Started with DevOps Metrics - GitLab Webinar" },
+    { "id": "OfvL8BeWO9o", "title": "2023-11-28 - New diffs architecture blueprint weekly" },
+    { "id": "v5eAdbncZ_Y", "title": "UX Showcase Designing Cross Group Experiences" },
+    { "id": "LXSt_MvTIf4", "title": "Building Git Session 4" },
+    { "id": "dGCPrIAuBmE", "title": "Refactoring a CI template to CI component" },
+    { "id": "Kp-ff6obakQ", "title": "CI/CD catalog - building content" },
+    { "id": "r8aCU8FuV4Y", "title": "2023-12-01 Scalability Team Demo" },
+    { "id": "3IUya_0g65g", "title": "Data Team: dbt full refresh gudeline" },
     { "id": "4YVWBU2U_O4", "title": "BE Pairing - 2023-11-22 -  Contributing to rubocop-rspec" },
     { "id": "jt8McsHfRn0", "title": "Reaching Package Metadata buckets over gitlab-package-metada.com" },
     { "id": "g9HSPV3GKas", "title": "GitLab Flow demo" },

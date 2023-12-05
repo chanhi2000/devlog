@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/eXhc6XaYdmPLtX7A8XV4eQ9wyAvy9x_QkhaaieRxvFplh3_VayzkyDLS2nhMRF67jScpBxMcGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wQIITb0dWYs", "title": "Apache Kafka & Spring Boot Reactive | Installation & Setup #3" },
+    { "id": "uFCcr2hdN_E", "title": "Apache Kafka & Spring Boot Reactive |  Kafka  Real World Application #9" },
+    { "id": "qevsDxrU_RE", "title": "Apache Kafka & Spring Boot Reactive | Create Kafka topic #5" },
+    { "id": "m5XOiupqJno", "title": "Apache Kafka & Spring Boot Reactive | Kafka Consumer #7" },
+    { "id": "d1wu1zdN1H4", "title": "Apache Kafka & Spring Boot Reactive | Kafka Architecture #2" },
+    { "id": "FIZssfv7Fas", "title": "Apache Kafka & Spring Boot Reactive | Create and configure project #4" },
+    { "id": "Ak-AlA8rTPw", "title": "Apache Kafka & Spring Boot Reactive | Kafka JSON Serialisation & Deserialisation #8" },
+    { "id": "53AnTl7nbwk", "title": "Apache Kafka & Spring Boot Reactive | Kafka Overview #1" },
+    { "id": "am0cDvDZc1Y", "title": "Apache Kafka & Spring Boot Reactive | Kafka Producer #6" },
     { "id": "n6pXL9M0ljM", "title": "Spring Security explained with no code" },
     { "id": "KQDTtvZMS9c", "title": "Apache Kafka Tutorial with Spring Boot Reactive & WebFlux | Kafka Tutorial" },
     { "id": "7T-HnTE6v64", "title": "WebSocket Tutorial with Spring Boot | Build One On One Chat Application" },

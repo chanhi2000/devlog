@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "a8qXewrzBQU", "title": "What Kind of Data Protection Do You Need for Kubernetes?" },
+    { "id": "Zsp_cQMdOic", "title": "VMware & Postgres" },
+    { "id": "GbRnFct8E04", "title": "Benefits of Data Protection with VMware Tanzu Mission Control" },
+    { "id": "KIWQTolF-3g", "title": "⚡️ Enlightning - Cilium Networking, Security and Observability" },
     { "id": "iyR1OYh4-Vg", "title": "Building Cloud-Ready Applications" },
     { "id": "fpjr6OyKi7M", "title": "Observability for Modern Spring Applications" },
     { "id": "MPXMQ3haZr4", "title": "Bootiful Spring Boot 3.x" },

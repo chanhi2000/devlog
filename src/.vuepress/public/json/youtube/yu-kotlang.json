@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/13O07KG2UFJC3a5yol27ELNSNz8ddY88-_zeIid6ng2OR8emyDI9tfENIeDWoq_Pnur5W-BmIg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WSClX2zIu1A", "title": "#android #kotlin #coding #jetpackcompose" },
+    { "id": "qDpaWH2oTY0", "title": "#android #kotlin #coding #jetpackcompose" },
     { "id": "uj1kAVmU4eg", "title": "StudySmart Android App || #1 Project Setup || Jetpack Compose || Room || Kotlin" }, 
     { "id": "uHn4wF5W84o", "title": "StudySmart Android App || #2 Dashboard Screen Design P1 || Jetpack Compose || Room || Kotlin" }, 
     { "id": "9poUjxm8xdk", "title": "StudySmart Android App || #3 Dashboard Screen Design P2 || Jetpack Compose || Room || Kotlin" }, 

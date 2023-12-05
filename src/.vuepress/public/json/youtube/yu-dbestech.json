@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Bc8SGd69gMs", "title": "Flutter MongoDB and Connection String" },
+    { "id": "rilu89-ydUA", "title": "BLoC Clean Architecture Part 6" },
+    { "id": "lunbjz1V_y8", "title": "Postman Upload Collection As An Agent | Flutter App" },
+    { "id": "CB_sZ7SeDGM", "title": "Free SSL or HTTPS for Your App | Proxy" },
     { "id": "PX1ROW4t560", "title": "Run PHP Website in Terminal" },
     { "id": "3FqdFQVbHaM", "title": "Delivery Boy App" },
     { "id": "P-9nf9-eaKU", "title": "Riverpod Clean Architecture (preview)" },

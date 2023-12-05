@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/0jdmhVphFVVdu0FB17jiNs1WN2-3Z8zqi5owR0P88GEOliEjMdT881hgLpTq9QnVX5SEWRVg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "M2DM0HedNcY", "title": "Stream GPT" },
+    { "id": "9FLVgV6sR3A", "title": "Next.js Is Confusing - Is This Server or Client Code?" },
+    { "id": "4ZhtoOFKFP8", "title": "Turso and Drizzle: Fast and Easy Data Persistence for an AI Next.js App" },
+    { "id": "SOE07gzHt1w", "title": "try catch is confusing #programming #javascript" },
+    { "id": "5MR_nMbiEa8", "title": "Use a TypeSafe ORM" },
+    { "id": "zO6CHvTErxE", "title": "Map reduce? #javascript #programming"  },
     { "id": "-JnEuvPmt-Q", "title": "Effortless Auth in Next.js 14: Use Auth.js & Drizzle ORM for Secure Login" },
     { "id": "t-lhgq7Nfpc", "title": "Next-Level S3 File Management: The Ultimate Guide to Handling Files in Next.js 14" }
   ]

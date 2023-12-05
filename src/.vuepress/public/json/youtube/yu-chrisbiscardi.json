@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HMh2XYp82x4", "title": "Should you participate in Advent of Code this year?" },
+    { "id": "xoq9S-IDcOE", "title": "Comparing Divan and Criterion" },
+    { "id": "J6oIxoSyt88", "title": "Day 02 - Advent of Code 2023" },
     { "id": "KPg0Ehtr1LM", "title": "Procreate Dreams in the Bevy game engine" },
     { "id": "Ciuhriopc00", "title": "Rust Release Train 1.74" },
     { "id": "DYMVYsNPO1o", "title": "Leptos 0.5: No More Scope!" },

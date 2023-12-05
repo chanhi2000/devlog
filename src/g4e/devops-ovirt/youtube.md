@@ -15,5 +15,7 @@ tags: ["youtube", "tutorial", "bash", "sh", "ovirt", "vm", "@MindDripMedia", "@S
 
 <MyYouTubeItems jsonName="yu-MindDripMedia" /><!-- Mind Drip Media -->
 <MyYouTubeItems jsonName="yu-Storware" /><!-- Storware -->
+<MyYouTubeItems jsonName="yu-theg-techshow2178" /><!-- The G-Tech Show -->
+<MyYouTubeItems jsonName="yu-openvirtualizationprofessi5323" /><!-- Open Virtualization Professionals -->
 
 <TagLinks />

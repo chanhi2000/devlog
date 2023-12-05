@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DevConfs",
+    "name": "DevConf",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbwH8PMwE0oLuMm5AiUpr2tQl886X7YLpxa9c1yJQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9V0yAPmO9hiP4753dieql-v1HToI98NolLHhHG7xUW6nrtuv22thbS94Mc6Uv14PzwhmuHlB=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5aue5uaYPBA", "title": "Advanced Network management with oVirt and OVN - DevConf.CZ 2020" }
+  ]
+}

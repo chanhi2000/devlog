@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "45w0tV80GqU", "title": "ElixirConf 2023 - Petrus Janse van Rensburg - ex_cldr - Personalized Apps for a Global Audience" },
+    { "id": "Qz0ZnOMaePo", "title": "ElixirConf 2023 - Tim Gremore - Replacing React: How Liveview solved our performance problems" },
+    { "id": "lyXIp7akK8A", "title": "ElixirConf 2023 - Lightning Talks" },
     { "id": "ijPph39FY4Q", "title": "ElixirConf 2023 - Razvan Draghici - Managing a massive amount of distributed Elixir nodes" },
     { "id": "2DlSaszKa_s", "title": "ElixirConf 2023 - Kimberly Erni - Scaling Up Travel with Elixir" },
     { "id": "gtCJ56GxKf0", "title": "ElixirConf 2023 - Jeffery Utter - Scaling Teams with Kafka on the BEAM" }, 

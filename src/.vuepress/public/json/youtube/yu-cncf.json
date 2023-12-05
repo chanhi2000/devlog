@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0raGKsu_UPI", "title": "Zero-Touch Fault-Tolerance for Cloud-Native Geo-Distributed Databa... Selvi Kadirvel & Aman Nijhawan" },
+    { "id": "06bKlSmVwIg", "title": "CNCF Live Webinar: Overcoming the GPU shortage with virtual Kubelets & distributed cloud" },
+    { "id": "b1675UWMLas", "title": "Bringing Cloud Native WASM to the mainstream with WASM Working Group - Shivay Lamba & Kevin Hoffman" },
+    { "id": "1y1m9Vz93Yo", "title": "A Wind of Change for Threat Detection - Melissa Kilby, Apple" },
+    { "id": "QTAijBeS5ys", "title": "Minikube Project Update - Medya Ghazizadeh, Google" },
+    { "id": "wy43lUbDjAk", "title": "CNL: Cloud native application threat modeling & adversary emulation" },
+    { "id": "UywjoZO6iFg", "title": "Building Choreography Sagas in Kalix" },
+    { "id": "z2J09Q-OLfk", "title": "How to consume CNCF KubeArmor from AWS Marketplace?" },
+    { "id": "5ZT--gyxVlg", "title": "Introducing Kubescape 3.0" },
+    { "id": "etX_bDwFuqU", "title": "Thinking like a threat actor in your Kubernetes environments" },
     { "id": "Z_KYK9etioU", "title": "Building a Self Service DBaaS for Your Internal Developer Platform - George Hantzaras & Dan Mckean" },
     { "id": "-mZBFsiQ538", "title": "Cloud Native Data on K8s: The Good, Bad, and the Unknown - Michael Cade, Kasten by Veeam" },
     { "id": "SO2Rp1BW3nQ", "title": "How to Build Modern DBaaS Using CNCF Ecosystem Technologies - Kamal Gupta & Alok Nikhil, Omnistrate" },

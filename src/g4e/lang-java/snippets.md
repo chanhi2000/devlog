@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
 title: 🔮Snippets
-description: 🅺Kotlin > 🔮Snippets
-tags: ["kotlin", "companion-object", "date"]
+description: ☕️Java > 🔮Snippets
+tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs","kotlin", "companion-object"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,7 +13,9 @@ tags: ["kotlin", "companion-object", "date"]
 
 ---
 
-## Date
+## 🅺Kotlin
+
+### Date
 
 ```kotlin
 private const val TIME_STAMP_FORMAT = "EEEE. MMM d, yyyy - hh:mm:ss a"
@@ -54,9 +56,7 @@ println("2020-09-20".getDateUnixTime())
 // 1600549200000
 ```
 
----
-
-## String
+### String
 
 ```kotlin
 /**
@@ -78,11 +78,40 @@ fun String.isPasswordStrong(): Boolean {
     )
     return passwordREGEX.matcher(this).matches()
 }
-
-/*
 ```
 
+### Retrofit
 
-
-
-<TagLinks />
+```kotlin
+suspend fun <T> Repository.safeApiCall(
+    dispatcher: CoroutineDispatcher,
+    apiCall: suspend () -> T
+): ApiResult<T> {
+    return withContext(dispatcher) {
+        try {
+            withTimeout(NETWORK_TIMEOUT) {
+                delay(NETWORK_DELAY)
+                Success(apiCall.invoke())
+            }
+        } catch (t: Throwable) {
+            when(t) {
+                is TimeoutCancellationException -> {
+                    val code = 408
+                    GenericError(code, NETWORK_ERROR_TIMEOUT)
+                }
+                is IOException -> {
+                    NetworkError
+                }
+                is HttpException -> {
+                    val code = t.code()
+                    val errorResponse = convertErrorBody(t)
+                    GenericError(code, errorResponse)
+                }
+                else -> {
+                    GenericError(null, UNKNOWN_ERROR)
+                }
+            }
+        }
+    }
+}
+```

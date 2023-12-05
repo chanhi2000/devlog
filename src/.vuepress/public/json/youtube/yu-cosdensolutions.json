@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Z20nUdAUGmM", "title": "Learn Expo Router - Complete Tutorial" },
+    { "id": "9XbhH3Xbg5g", "title": "The problem with useEffect" },
+    { "id": "DsWpcJNqGJI", "title": "Defining functions in useEffect" },
     { "id": "TahUv8LH-zA", "title": "The simple way to handle requests in React" },
     { "id": "p75aqqjjxwM", "title": "Draw your components in React" },
     { "id": "aGQxBsbuYcM", "title": "The bubble of React" },

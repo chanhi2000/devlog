@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "J4P6fnrRF_4", "title": "Help Find and Remove Hard Coded Passwords and Secrets in a Project" },
     { "id": "wq-a2c7tvbA", "title": "Validate File Types by Reading the First Few Bytes of a File" }, 
     { "id": "TuaeG_iS71w", "title": "Customize FZF's CTRL + T Binding with FZF_CTRL_T_OPTS to Preview Files" },
     { "id": "I0dvnRcLojY", "title": "Get Video Duration in Seconds Using FFmpeg / FFprobe" },

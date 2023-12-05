@@ -31,6 +31,6 @@ tags: ["youtube", "tutorial", "bash", "linux", "macos", "terminal", "sed", "sh",
 <MyYouTubeItems jsonName="yu-EngineerMan" /><!-- Engineer Man -->
 <MyYouTubeItems jsonName="yu-warpdotdev" /><!-- warpdotdev -->
 <MyYouTubeItems jsonName="yu-theradlectures" /><!-- The Rad Lectures -->
-
+<MyYouTubeItems jsonName="yu-ascourter" /><!-- Andrew Courter -->
     
 <TagLinks />

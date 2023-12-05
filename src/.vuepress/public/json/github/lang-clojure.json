@@ -34,5 +34,10 @@
     "desc": "Programming Language Research, Applied PLT & Compilers",
     "officialSite": "https://iamtk.co/tags/programming-language-design",
     "topics": ["compiler", "compiler-design", "plt", "programming-language-theory", "programming-languages-design"]
+  }, {
+    "repo": "jepsen-io/maelstrom",
+    "desc": "A workbench for writing toy implementations of distributed systems.",
+    "officialSite": "",
+    "topics": ["distributed-systems", "jepsen", "testing"]
   }
 ]
