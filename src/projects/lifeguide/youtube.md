@@ -43,5 +43,7 @@ meta:
 <MyYouTubeItems jsonName="yu-benjaminkeep" /><!-- Benjamin Keep, PhD, JD -->
 <MyYouTubeItems jsonName="yu-5bok_house" /><!-- 오복하우스 -->
 <MyYouTubeItems jsonName="yu-cook5162" /><!-- 이 남자의 cook -->
+<MyYouTubeItems jsonName="yu-chefkenlee" /><!-- ChefKenLee -->
+<MyYouTubeItems jsonName="yu-LastBushSurvival" /><!-- LastBush Survival -->
 
 <TagLinks />

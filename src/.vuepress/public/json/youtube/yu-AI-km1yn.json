@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "xYNYNKJVa4E", "title": "Streamlit으로 RAG 시스템 구축하기" },
     { "id": "tIU2tw3PMUE", "title": "LLM 챗봇 ,랭체인의 핵심 Retrieval - Document Loaders" }
   ]
 }

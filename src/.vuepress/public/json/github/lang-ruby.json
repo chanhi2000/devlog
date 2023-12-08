@@ -69,5 +69,10 @@
     "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "officialSite": "https://fastlane.tools",
     "topics": ["android", "apps", "automation", "deployment", "fastlane", "hacktoberfest", "hacktoberfest2021", "ios", "mobile", "ruby", "screenshots"]
+  }, {
+    "repo": "ubyonjets/jets",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

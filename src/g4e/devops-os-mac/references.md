@@ -125,10 +125,17 @@ tags: ["macos", "settings"]
 
 ---
 
+## Prevent Default
+
+- [Reviving decade-old Macs with antiX and MX Linux](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
 ---
+
 
 <TagLinks />

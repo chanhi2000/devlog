@@ -424,5 +424,15 @@
     "desc": "The Mojo Programming Language",
     "officialSite": "https://docs.modular.com/mojo",
     "topics": ["ai", "language", "machine-learning", "modular", "mojo", "programming-language"]
+  }, {
+    "repo": "PRIS-CV/DemoFusion",
+    "desc": "Let us democratise high-resolution generation! (arXiv 2023)",
+    "officialSite": "https://ruoyidu.github.io/demofusion/demofusion.html",
+    "topics": ["aigc", "high-resolution", "low-resource", "stable-diffusion"]
+  }, {
+    "repo": "yformer/EfficientSAM",
+    "desc": "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything",
+    "officialSite": "",
+    "topics": []
   }
 ]

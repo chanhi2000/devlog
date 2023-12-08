@@ -39,6 +39,12 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Supabase
+
+- [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
+
+---
+
 ## hashrust
 
 - [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust)

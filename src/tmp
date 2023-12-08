@@ -14,7 +14,6 @@
 { "channelId": "Gael9A", "channelName": "Gambler", "id": "IGeHjCEIuzU", "title": "How To Install macOS Monterey On Unsuported 2009 MacBook" },
 { "channelId": "user-zx1rk8qx6q", "channelName": "실용주의 프로그래머", "id": "rxDOdNAaRMo", "title": "작정하고 장고! Django REST Framework 3강 -  What is REST?" },
 { "channelId": "user-zx1rk8qx6q", "channelName": "실용주의 프로그래머", "id": "RWEZITw27Ts", "title": "작정하고 장고 1강 - 무엇을 만들 것인지 : Django로 Pinterest 따라하기!" }
-{ "channelId": "Panjno", "channelName": "Panjno", "id": "DNLQsUM4vAE", "title": "🔧 How to CLEAR All Cache in Windows 11 to Improve Performance & Speed Up ANY PC!" }
 { "channelId": "UnsureProgrammer", "channelName": "Unsure Programmer", "id": "JiSsS1Xj5uQ", "title": "Flutter Uber 6/6 - Draggable Scrollable Bottom Sheet" },
 { "channelId": "kunlee", "channelName": "AROMA ART kunlee", "id": "MrUkbFk62co", "title": "구독자 호텔테라피 체험 여행가서 직접 마사지해줘야 상남자 Hotel aromatherapy" },
 { "channelId": "elibroftw", "channelName": "elibro", "id": "BbZmLXBDGnU", "title": "Tauri & ReactJS - Creating Modern Desktop Apps (read desc.)" },
@@ -168,8 +167,6 @@
 { "channelId": "Takacsmark", "channelName": "takacsmark", "id": "6Er8MAvTWlI", "title": "Dockerfile Tutorial by Example - ( Part I - Basics )" },
 { "channelId": "Takacsmark", "channelName": "takacsmark", "id": "Vyp5_F42NGs", "title": "Getting started with docker, the step by step tutorial [ with examples ]" },
 { "channelId": "TheEarthIsSquare", "channelName": "The Earth Is Square", "id": "ZqgiuPt5QZo", "title": "Vue 3 Tutorial for Beginners - FULL COURSE in 3 Hours" },
-{ "channelId": "TheNoviceLearner", "channelName": "The Novice Learner", "id": "xiRoTStZg_g", "title": "Browser Autopwn: Exploitation Tool in Kali Linux | Ethical Hacking | FREE Tutorial #Hacking" },
-{ "channelId": "TheNoviceLearner", "channelName": "The Novice Learner", "id": "4m8LwzKrkGA", "title": "Master Kali Linux Commands | Important Linux Commands For Beginners | Ethical Hacking #Kali_Linux" }
 { "channelId": "xpressengine7822", "channelName": "XpressEngine", "id": "mECbDs9nPnM", "title": "XECon2015 :: [1-5] 김훈민 - 서버 운영자가 꼭 알아야 할 Docker" },
 { "channelId": "WanjohiKibui", "channelName": "Wanjohi Kibui", "id": "n2wfjDxFp5g", "title": "GeoDjango Tutorial Series 2: Intro" },
 { "channelId": "DataCouncil", "channelName": "Data Council", "id": "G2ljqxRxqW0", "title": "DC_THURS : Apache Arrow w/ Wes McKinney" },
@@ -264,38 +261,6 @@
 { "channelId": "DevelopIntelligence", "channelName": "DevelopIntelligence", "id": "VOkgaq__Ff8", "title": "Apache Maven Fundamentals (part 1 of 4)" },
 
 // 2023-12-04
-
-{ "channelId": "veritasium", "channelName": "Veritasium", "id": "FUHkTs-Ipfg", "title": "The SAT Question Everyone Got Wrong" },
-{ "channelId": "codeteller", "channelName": "코드깎는노인", "id": "mawQN4OL-Ko", "title": "맥북 없이 코딩을 한다고?" },
-{ "channelId": "huxnwebdev", "channelName": "HuXn WebDev", "id": "N2GWXuj_IWg", "title": "Mastering Go: A Comprehensive Guide to Golang Programming" },
-{ "channelId": "seanallen", "channelName": "Sean Allen", "id": "1HOcrAnlpgE", "title": "Swift Date Components & Calculations Tutorial" },
-{ "channelId": "elliotarledge", "channelName": "Elliotcodes", "id": "tvpH8p3Crno", "title": "How to Build a Raspberry Pi Security System (Python Edition)" },
-{ "channelId": "abdulazizahwan", "channelName": "Abdul Aziz Ahwan", "id": "5byhpw-iPqA", "title": "How to Create Eye Catching Screen Recording Auto Pan & Zoom Effects | FocuSee Review Windows & MacOS" },
-{ "channelId": "xxxjjhhh", "channelName": "개발자 유미", "id": "GbTOoJ0Y5eA", "title": "스프링 시큐리티 12 : InMemory 방식 유저 정보 저장" },
-{ "channelId": "ControllersTech", "channelName": "ControllersTech", "id": "WJIzwxiXmOM", "title": "W25Q FLASH Memory || Part 8 || How to create an External Loader" },
-{ "channelId": "baseyou21", "channelName": "[50대 컴쟁이] baseyou21", "id": "j1I7g3GRIvs", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#5(멀티 인증서셋팅2)" },
-{ "channelId": "nossi-dev", "channelName": "개발남노씨", "id": "mcydZ8aXcXM", "title": "2024 카카오 인턴십 코딩테스트 대비 TIP" },
-{ "channelId": "abdulazizahwan", "channelName": "Abdul Aziz Ahwan", "id": "wN67aeuDSVc", "title": "[ LIVE ] Flutter UI Tutorial - Scooter Rent App UI Design (Figma to Flutter) | PART 1" },
-{ "channelId": "xxxjjhhh", "channelName": "개발자 유미", "id": "7gEqj2_pcto", "title": "스프링 시큐리티 13 : http basic 방식 로그인" },
-{ "channelId": "fereratlus8705", "channelName": "Ferer Atlus", "id": "UgW00WK8kV4", "title": "Visual Studio Code (Flutter - Dart) Customize Get X Navigation Drawer" },
-{ "channelId": "windowsforumkr", "channelName": "윈도우 포럼", "id": "v7tKQWqjyaY", "title": "IRST 드라이버 설치 소프트웨어에서 드라이버 추출하기" },
-{ "channelId": "PowerShellEngineer", "channelName": "PowerShell Engineer", "id": "S2ak1yPl4pU", "title": "किसी स्क्रिप्ट को दैनिक रूप से स्वचालित रूप से चलाने का तरीका" },
-{ "channelId": "linuxscoop", "channelName": "LinuxScoop", "id": "3DEZ5A8qo8g", "title": "Video Tutorial  - Ubuntu 22.04 Customizations - Version 3.0" },
-{ "channelId": "AlexanderFYoung", "channelName": "Dr Alex Young", "id": "syMAlDpjRjQ", "title": "STOP Using Apple Notes Wrong!" },
-{ "channelId": "chefkenlee", "channelName": "ChefKenLee", "id": "7EVKyOgLnaY", "title": "Flawless Chicken Butchery" },
-{ "channelId": "smartereveryday", "channelName": "SmarterEveryDay", "id": "OoJsPvmFixU", "title": "I Was SCARED To Say This To NASA... (But I said it anyway) - Smarter Every Day 293" },
-{ "channelId": "one-day", "channelName": "낮에", "id": "di2yCm5PuXE", "title": "애플 아이패드 7세대 CPU 조지는데 뭐냐 이거... 뭐냐니까?.. | 해낮달낮" },
-{ "channelId": "jahiddev", "channelName": "Jahid Anowar", "id": "iZ4KswQtOoQ", "title": "Exploring the Nuxt Ecosystem: Nitro, H3, ofetch..." },
-{ "channelId": "Panjno", "channelName": "Panjno", "id": "yuUqJXuxdio", "title": "🔧 How to CLEAR All Cache in Windows 11 to Improve Performance & Speed Up ANY PC! (2024)" },
-{ "channelId": "YannicKilcher", "channelName": "Yannic Kilcher", "id": "KwpeuqT69fw", "title": "Scalable Extraction of Training Data from (Production) Language Models (Paper Explained)" },
-{ "channelId": "nascompares", "channelName": "NASCompares", "id": "j8nohN2hzKw", "title": "Best 4-Bay NAS of 2023/2024" },
-{ "channelId": "Jelvix", "channelName": "Jelvix | TECH IN 5 MINUTES", "id": "JjsT-i-ZEBc", "title": "gRPC vs REST - KEY differences and performance TEST" },
-{ "channelId": "StewartLynch", "channelName": "Stewart Lynch", "id": "lHdBkXp3j74", "title": "Swift Data Many to Many relationships" },
-{ "channelId": "chiragkachhadiya", "channelName": "Chirag Kachhadiya", "id": "dvaanTc24KY", "title": "Android Carousel Image Slider With Material Design 3 | Android Studio Tutorial" },
-{ "channelId": "one-day", "channelName": "낮에", "id": "-3XE4R_FnjQ", "title": "전원이 안 켜지면 버튼 옆에 칩을 확인.. | 삼성 갤럭시 노트 5 | 해낮달낮" },
-{ "channelId": "LastBushSurvival", "channelName": "LastBush Survival", "id": "pRayStoEjn4", "title": "How To Make Fire With a Battery and a Cable #survival #bushcraft #outdoors #camping" },
-{ "channelId": "AI-km1yn", "channelName": "모두의AI", "id": "xYNYNKJVa4E", "title": "Streamlit으로 RAG 시스템 구축하기" },
-
 
 https://www.kdnuggets.com/wp-content/uploads/Machine_Learning_with_ChatGPT_Cheat_Sheet_KDnuggets.png
 https://itnext.io/sql-performance-tuning-72e9ebf67549
@@ -530,3 +495,6 @@ https://imois.in/games/travle/
 https://blog.postman.com/api-protocols-in-2023
 https://bbycroft.net/llm
 https://html-lang.org
+https://codesandbox.io/p/devbox/lottiefiles-dotlottie-web-basic-example-tcy3rv?file=%2Findex.html%3A17%2C8
+https://daniel.do/article/making-noisy-svgs
+https://docs.rubyonjets.com/

@@ -126,6 +126,14 @@ export const navbarEn: NavbarConfig = [
           }
         ]
       }, {
+        text: '🔻Ruby',
+        children: [
+          {
+            text: '🔻Jets - Learning Content',
+            link: '/crashcourse/ruby-rubyonjets-learning-content/README.md',
+          }
+        ]
+      }, {
         text: 'DevOps',
         children: [
           {

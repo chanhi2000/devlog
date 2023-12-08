@@ -194,7 +194,7 @@ In these projects we’re going to start looking more carefully at how we can se
 
 You’ve learned about data, data, and some more data, so it’s time to pause and reflect on what was covered before tackling another new challenge.
 
-- [Day 60][day-60] – Milestone: Projects 10-12
+- ✅[Day 60][day-60] – Milestone: Projects 10-12
 - [Day 61][day-61] – Time for Core Data
 
 ### Days 62-76: Views and view controllers
@@ -335,7 +335,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-57]: 57.md
 [day-58]: 58.md
 [day-59]: 59.md
-[day-60]: https://www.hackingwithswift.com/100/swiftui/60
+[day-60]: 60.md
 [day-61]: https://www.hackingwithswift.com/100/swiftui/61
 [day-62]: https://www.hackingwithswift.com/100/swiftui/62
 [day-63]: https://www.hackingwithswift.com/100/swiftui/63

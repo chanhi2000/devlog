@@ -3423,5 +3423,45 @@
     "desc": "Convert PDF to markdown quickly with high accuracy",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ml-explore/mlx-examples",
+    "desc": "Examples in the MLX framework",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SuperDuperDB/superduperdb",
+    "desc": "🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data. ",
+    "officialSite": "https://superduperdb.com",
+    "topics": ["ai", "data", "data-structures", "database", "long-term-memory", "machine-learning", "ml", "mlops", "mongodb", "python", "pytorch", "scikit-learn", "sklearn", "torch", "transformers", "vector-search"]
+  }, {
+    "repo": "magic-research/magic-animate",
+    "desc": "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model",
+    "officialSite": "https://showlab.github.io/magicanimate/",
+    "topics": []
+  }, {
+    "repo": "JJTech0130/pypush",
+    "desc": "Cross-platform iMessage POC",
+    "officialSite": "https://discord.gg/BVvNukmfTC",
+    "topics": ["imessage", "proof-of-concept", "reverse-engineering"]
+  }, {
+    "repo": "huggingface/optimum-nvidia",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "google/style-aligned",
+    "desc": "Official code for \"Style Aligned Image Generation via Shared Attention\"",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "DropbaseHQ/dropbase",
+    "desc": "Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.",
+    "officialSite": "https://www.dropbase.io/",
+    "topics": []
+  }, {
+    "repo": "kellyjonbrazil/jc",
+    "desc": "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.",
+    "officialSite": "",
+    "topics": ["bash", "bash-scripting", "cli", "command-line", "command-line-interface", "command-line-tool", "convert", "json", "linux", "parsers", "python", "python-library", "scripting", "serialize", "shell-scripting", "yaml"]
   }
 ]

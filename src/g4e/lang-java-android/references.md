@@ -121,7 +121,7 @@ tags: ["references", "android"]
 
 ## Be OK
 
-- [\[Android\] Retrofit](https://sg-choi.tistory.com/517)
+- [[Android] Retrofit](https://sg-choi.tistory.com/517)
 
 ---
 

@@ -889,5 +889,20 @@
     "desc": "MLX: An array framework for Apple silicon",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "officialSite": "https://discord.gg/4CWS9zD",
+    "topics": ["bdd", "cpp", "cpp14", "framework", "no-dependencies", "tdd", "test-framework", "testing"]
+  }, {
+    "repo": "pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "officialSite": "https://pybind11.readthedocs.io/",
+    "topics": ["bindings", "python"]
+  }, {
+    "repo": "thorvg/thorvg",
+    "desc": "ThorVG is a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. It provides user-friendly APIs, has no dependencies, and maintains a super compact size.",
+    "officialSite": "https://www.thorvg.org",
+    "topics": ["animation", "drawing-library", "graphics", "image", "jpeg", "lottie", "motion-graphics", "opengl", "path-drawing", "png", "rendering-engine", "shapes", "svg", "tvg", "vector-graphics-engine", "webgpu", "webp"]
   }
 ]

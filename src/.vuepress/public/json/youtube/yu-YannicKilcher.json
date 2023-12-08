@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/V5tY3i1gSQKSYLNtanocpUq7AKWV5nTQS_3Rttel7eOpqOWuK-0zYPyhbXRlJbXR2MCBAnrX=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KwpeuqT69fw", "title": "Scalable Extraction of Training Data from (Production) Language Models (Paper Explained)" },
     { "id": "409tNlaByds", "title": "Efficient Streaming Language Models with Attention Sinks (Paper Explained)" }
   ]
 }

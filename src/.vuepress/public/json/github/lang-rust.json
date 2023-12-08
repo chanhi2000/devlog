@@ -864,5 +864,10 @@
     "desc": " Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions",
     "officialSite": "https://amrdeveloper.github.io/GQL/",
     "topics": ["database", "engine", "git", "gitql", "gql", "interpreter", "rust", "sql"]
+  }, {
+    "repo": "kata-containers/kata-containers",
+    "desc": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "officialSite": "",
+    "topics": ["acrn", "containers", "cri", "cri-o", "docker", "firecracker", "k8s", "kubernetes", "kvm", "oci", "qemu", "security", "virtual-machine", "virtualization"]
   }
 ]

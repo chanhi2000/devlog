@@ -369,5 +369,10 @@
     "desc": "A modern Wine wrapper for macOS built with SwiftUI",
     "officialSite": "https://getwhisky.app",
     "topics": ["game", "game-porting-toolkit", "mac", "macos", "metal", "swiftui", "wine"]
+  }, {
+    "repo": "ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "officialSite": "",
+    "topics": ["functional", "ios", "observer", "reactive", "reactivex", "rxswift", "swift", "unidirectional"]
   }
 ]

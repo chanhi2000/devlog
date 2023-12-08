@@ -874,6 +874,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/69.md',
         '/crashcourse/swift-100-days-of-swift/70.md',
         '/crashcourse/swift-100-days-of-swift/71.md',
+        '/crashcourse/swift-100-days-of-swift/72.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -939,6 +940,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/57.md',
         '/crashcourse/swift-100-days-of-swiftui/58.md',
         '/crashcourse/swift-100-days-of-swiftui/59.md',
+        '/crashcourse/swift-100-days-of-swiftui/60.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1152,7 +1154,13 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/rs-eventhelix-rust-to-assembly/mapping-arrays-tuples-box-and-option-to-assembly.md',
         '/crashcourse/rs-eventhelix-rust-to-assembly/rust-to-assembly-vector-iteration.md'
       ]
-    },  {
+    }, {
+      text: '🔻Jets - Learning Content',
+      collapsible: true,
+      children: [
+        '/crashcourse/ruby-rubyonjets-learning-content/README.md',
+      ]
+    }, {
       text: '🔺Red Hat Container Tools',
       collapsible: true,
       children: [
