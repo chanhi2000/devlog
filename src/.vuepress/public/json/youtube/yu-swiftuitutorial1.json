@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/f05GS1-4H5VmCYw6a9KyuzdQdyJJV11McNB6X86oq0okED07xuLP6KzylWjTxOtQmmKgbNxfLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BTVYvcz7wIY", "title": "How to Convert a React Native Animation to Another Form Using GitHub Copilot" },
+    { "id": "Wwcy9rtyj6w", "title": "Using GitHub Copilot: How to Convert SwiftUI Animation To React Native" },
+    { "id": "IdsYVF5bYT0", "title": "SwiftUI: Understanding Animation Completion Criteria" },
+    { "id": "dijOYUYVf5E", "title": "GitHub Copilot: Translate SwiftUI Animations To React Native" },
     { "id": "ynCUsEwVJbo", "title": "visionOS: Create the AirPodsMax 3D Rotation Animation With SwiftUI" },
     { "id": "ZSQh_Zl6V_c", "title": "SwiftUI: Using Phase Animator, Dispatch Queue, Old and New Springs" }, 
     { "id": "QBjHC9UGC2o", "title": "visionOS: How To Specify Initial Window Size and Add Hover Effect to Views" },

@@ -214,5 +214,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-codeching" /><!-- Codeching -->
 <MyYouTubeItems jsonName="yu-codewithlari" /><!-- code with lari -->
 <MyYouTubeItems jsonName="yu-testerstalk" /><!-- Testers Talk -->
+<MyYouTubeItems jsonName="yu-AcademyNet.net1" /><!-- AcademyNet -->
 
 <TagLinks />

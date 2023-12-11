@@ -1858,5 +1858,10 @@
     "desc": "A Chrome extension helps you group your tabs with AI.",
     "officialSite": "",
     "topics": ["chrome-extension", "tabs-management"]
+  }, {
+    "repo": "HuolalaTech/page-spy-web",
+    "desc": "Debug remotely and easily like chrome devtools.",
+    "officialSite": "https://huolalatech.github.io/page-spy-web/",
+    "topics": []
   }
 ]

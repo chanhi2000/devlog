@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "u-6x3mUF60A", "title": "On .NET Live - Azure Functions with .NET" },
+    { "id": "hdZgsRBIoes", "title": "Customizing your labels with FormattedText | .NET MAUI Minutes" },
     { "id": "zENu82HwwGI", "title": "Hack Together .NET: The Great .NET 8 Hack - Generative AI for the .NET Developer" },
     { "id": "l0U8fozFV2o", "title": "On .NET Live - Beyond Clicks: Unleashing the Power of Microsoft Semantic Kernel" },
     { "id": "OLCnfudwNSc", "title": "Burke Learns Blazor - Drag and Drop and DOM events!" },

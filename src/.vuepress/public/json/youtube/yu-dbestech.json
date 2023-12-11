@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SoMjSomc60E", "title": "React native Multi Vendor App Part 2" },
+    { "id": "IpyZvUE4sAE", "title": "GetX Force Update UI" },
     { "id": "Bc8SGd69gMs", "title": "Flutter MongoDB and Connection String" },
     { "id": "rilu89-ydUA", "title": "BLoC Clean Architecture Part 6" },
     { "id": "lunbjz1V_y8", "title": "Postman Upload Collection As An Agent | Flutter App" },

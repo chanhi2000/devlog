@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/6fo8y5vKJwL9YCCFVaDqSAAmeAS4WhGmgxIm2vz46nCP2AitTdJe6jDtXitNdab7SAqBsbyvSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "L41pz_VCmgg", "title": "Move to Managed MongoDB: Why you need to migrate ASAP" },
     { "id": "0KB0PQ8qzks", "title": "What's New In Open Source Developer Tools?" },
     { "id": "t17hy8Dxp-0", "title": "Introducing Premium General Purpose Droplets" },
     { "id": "aHzEBvEv13E", "title": "Upgrade to Premium General Purpose Droplets" },

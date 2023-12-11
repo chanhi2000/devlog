@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cSZKXxKMITZNPTT09ozaxbbc6o52JRsFbir4RhQgnSsCsGuA22BJcnNB_f64H9xm9Vb5e6HSBrg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WC61Ei1ofxk", "title": "Armchair Architects: LLMs and Architects (Part 2)" },
+    { "id": "OwcurqmszFI", "title": "Azure Optimization Skill building" },
+    { "id": "ZSvo_Mh_K0Q", "title": "Securing Your Multicloud Databases with Microsoft Defender for Cloud | Data Exposed" },
+    { "id": "qXU5wM6SX-k", "title": "Develop your AI coding skills (part two)" },
     { "id": "w1C4JZzFGD0", "title": "Integrating OpenAI into your Azure Landing Zone" },
     { "id": "3HAASFDDUKs", "title": "Automated backups, PITR, and Availability Groups with Arc-enabled SQL Server | Data Exposed" },
     { "id": "GajQheItwDc", "title": "Armchair Architects: LLMs and Architects (Part 1)" },

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/hI-evYYYeqonDFo7ibNwfTM1OkFlD5_A91qpsPYNHZt_fs0-D6USJWUFUNgWNwbhvN2q0YkpCA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pTeOhV3d1oM", "title": "Introduction Learning Kotlin Multiplatform For Android Engineer" },
+    { "id": "fpI-6hCl0mE", "title": "Steps To Learn Kotlin Multiplatform" },
+    { "id": "g976gcRPNiM", "title": "GLSL Lesson Multidimensional Step Function" },
     { "id": "1yfBkSAMIB0", "title": "Art coding: 3D Spiral Sand" },
     { "id": "j2sXeP1I-Rw", "title": "Art coding generate 3d spiral 3" },
     { "id": "KlkUo7OEhOs", "title": "Art coding: processing - glsl shader" }

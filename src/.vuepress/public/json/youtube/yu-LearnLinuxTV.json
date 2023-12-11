@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/iGdDIcKrLXMkmZifgB-BeKpRhqIsq2FvtxIhuel3M8FUIPIjQrYbFtOAa9BkQs_ntiXWvQn8NA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AvGv2PmBwqA", "title": "Your Linux Career: 10 Tips to Make Learning Easier" },
     { "id": "IG2wTCacEtQ", "title": "What's the deal with Flatpak? (Linux Crash Course Series)" },
     { "id": "Wpoqi59Fj8Q", "title": "Enterprise Linux Security Episode 77 - Security News Sync" }, 
     { "id": "U5-oNbNEJYI", "title": "Kasm Workspaces Simplified: The Essential Guide for New Users" },

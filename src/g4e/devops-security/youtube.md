@@ -34,4 +34,6 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 <MyYouTubeItems jsonName="yu-MoreSecurity" /><!-- 삼평동연구소 -->
 <MyYouTubeItems jsonName="yu-TheNoviceLearner" /><!-- The Novice Learner -->
 <MyYouTubeItems jsonName="yu-securerandom5420" /><!-- SecureRandom -->
+<MyYouTubeItems jsonName="yu-UnixGuy" /><!-- UnixGuy | Cyber Security Career -->
+
 <TagLinks />

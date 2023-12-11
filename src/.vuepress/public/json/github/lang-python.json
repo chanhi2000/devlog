@@ -3518,5 +3518,20 @@
     "desc": "LLMCompiler: An LLM Compiler for Parallel Function Calling",
     "officialSite": "https://arxiv.org/abs/2312.04511",
     "topics": ["efficient-inference", "function-calling", "large-language-models", "llama", "llama2", "llm", "llm-agent", "llm-agents", "llm-framework", "llms", "natural-language-processing", "nlp", "parallel-function-call", "transformer"]
+  }, {
+    "repo": "bricks-cloud/BricksLLM",
+    "desc": "Simplifying LLM ops in production",
+    "officialSite": "https://www.trybricks.ai/",
+    "topics": ["golang", "llm", "openai"]
+  }, {
+    "repo": "llmware-ai/llmware",
+    "desc": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+    "officialSite": "https://pypi.org/project/llmware/",
+    "topics": ["ai", "bert", "embedding-vectors", "embeddings", "faiss", "generative-ai", "information-retrieval", "large-language-models", "machine-learning", "milvus", "nlp", "parsing", "python", "pytorch", "question-answering", "rag", "retrieval-augmented-generation", "semantic-search", "transformers"]
+  }, {
+    "repo": "llmware-ai/llmware",
+    "desc": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+    "officialSite": "https://pypi.org/project/llmware/",
+    "topics": ["ai", "bert", "embedding-vectors", "embeddings", "faiss", "generative-ai", "information-retrieval", "large-language-models", "machine-learning", "milvus", "nlp", "parsing", "python", "pytorch", "question-answering", "rag", "retrieval-augmented-generation", "semantic-search", "transformers"]
   }
 ]

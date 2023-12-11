@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "bubhub10",
+    "name": "bub hub",
+    "profile": "https://yt3.googleusercontent.com/KVC44khtGFGWr2aJSXD1IJkmtIqPFqmgSP3XPqP_iTTEpiD24LnQB5dC9K3JQk3D05fVpfJSkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_Z7JvNc9rqNw4NJwOMQiiP4zxi4aHa1dciSHeYdbAo5e6UCgBKZIAww3xBBftjScK5HgM9Aw4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "i_vH_MiAd98", "title": "This ISN'T Windows 11? - Wubuntu Windows 11 Clone" },
+    { "id": "o6OnJeHaR0M", "title": "Tiny11 2311 - Installation and Overview" }
+  ]
+}

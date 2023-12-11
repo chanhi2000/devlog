@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A358yxRc9JA", "title": "Login with Email and Password Firebase Flutter | Flutter Login Remember Me using Local Storage" },
+    { "id": "oUYiCbOETls", "title": "Google Sign in Flutter Firebase | Google Authentication using Firebase" },
+    { "id": "awwxYgHF_kU", "title": "Flutter Forgot Password with firebase | Reset Password in flutter" },
+    { "id": "RtGVKSLZnW0", "title": "Flutter Firestore CRUD Operations (Create Read Update & Delete)" },
     { "id": "8TIFDZq97Q8", "title": "Flutter Firebase Email Password Authentication | Store Data In Firebase Firestore | Form Validation" },
     { "id": "Lvy75rlDaxg", "title": "The Essential Guide to Flutter Email Verification with Firebase" },
     { "id": "ZH9cTTF2c60", "title": "Master Firebase, Flutter Firebase Tutorial | Flutter eCommerce App with Firebase" },

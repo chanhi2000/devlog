@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "L_uhgy-Mrg4", "title": "웹 개발 워크북 8_3 카카오 로그인 동의항목" },
+    { "id": "DeEwHSGqISU", "title": "웹 개발 워크북 8_2 회원 데이터 처리" },
     { "id": "ymHMTno7hBg", "title": "웹 개발 워크북_5_1 부트 프로젝트 생성과 부트3.2 Querydsl설정" },
     { "id": "U8-noaHxDRw", "title": "웹 개발 워크북_8_1 시큐리티 설정" },
     { "id": "R4zjXTCGekY", "title": "웹 개발 워크북 6장 Swagger대신OpenAPI" },

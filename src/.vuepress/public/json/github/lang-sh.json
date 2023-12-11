@@ -264,5 +264,10 @@
     "desc": "// Aesthetic, dynamic and minimal dots for Arch hyprland",
     "officialSite": "",
     "topics": ["arch", "archlinux", "dolphin", "dotfiles", "dots", "hypr", "hyprdots", "hyprland", "installer", "kitty", "linux", "modular", "neofetch", "rice", "rofi", "shell", "swww", "theme-switcher", "waybar", "zsh"]
+  }, {
+    "repo": "berwynhoyt/wordstar-keys",
+    "desc": "Implement wordstar cursor control keys in linux using xkb",
+    "officialSite": "",
+    "topics": ["wordstar", "xkb"]
   }
 ]

@@ -159,5 +159,10 @@
     "desc": "Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.",
     "officialSite": "https://pulse.laravel.com/",
     "topics": ["insights", "laravel", "monitoring", "performance"]
+  }, {
+    "repo": "pandora-next/deploy",
+    "desc": "Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!",
+    "officialSite": "https://chat.oaifree.com",
+    "topics": ["chatgpt", "openai", "pandora"]
   }
 ]
