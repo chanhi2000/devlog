@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/DKu3blYCDVczjLvvr4sRNetij6DlCpkubLIcahtnxkInjThPUvSQh2mpmh0OY_W-9dVqiVf9pQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1mwguqeEz8c", "title": "Clustering Sentence Embeddings with transformers.js and umap-js" },
     { "id": "46WOuOrMwTQ", "title": "Workflow: Terminal, Shell, Node.js, VSCode" },
     { "id": "4JzDttgdILQ", "title": "Creative Coding for Beginners - Full Course!" },
     { "id": "pI2gvl9sdtE", "title": "How to Make a Processing (Java) Library Part 1" }, 

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/W9wERgktL_qfOGUtgKedwD_z3J5MlMWcucJXG90FG2tHHDy2u8tMUbRSeJkqoRJlnZe4nlsKOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6HqYoSVuIWQ", "title": "#9 - Writing Custom Methods for Selenium UI Actions in Selenium with C# .NET" },
+    { "id": "z3JsuQsEQ9Y", "title": "#10 - Writing Custom Methods for Selenium custom controls in C# .NET" },
+    { "id": "lc-RWjiIRdM", "title": "#11 - Writing Page Object Model code for Selenium with C# .NET" },
+    { "id": "NSji9nQMido", "title": "#11(b) - Writing Page Object Model code for Selenium with C# .NET (Part 2)" },
     { "id": "nGVfKkfOehA", "title": "#7 - Working with Locators in Selenium with C# .NET (Part 3)" },
     { "id": "uIuhAcLd8Ro", "title": "#8 - Interacting with DropDown and MultiSelect Option using Selenium in C# .NET" },
     { "id": "FAqdnedpqaA", "title": "#4 - Understanding and exploring Selenium code In-Depth in C# .NET" },

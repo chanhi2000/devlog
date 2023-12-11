@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "WPWRrqaUiBA", "title": "27. tailwindcss 공식플러그인 사용법 Official plugins" },
+    { "id": "pt7-3PQXZC0", "title": "28. tailwindcss 무료 컴포넌트 (free components) 활용법 알아보기" },
+    { "id": "-4ramCQ26lo", "title": "29. tailwindcss Flowbite  600개가 넘는 무료 UI components 사용" },
+    { "id": "Q6D9nt-Q6Ag", "title": "125. 환율 api를 활용하여 환율구하기 currencylayer api" },
+    { "id": "j9LzLEsgEVo", "title": "126. CAPTCHA #캡차1,  소개 및 구글리캡차 키발급" },
+    { "id": "-M_JQIZaeSM", "title": "127. CAPTCHA #캡차2,  호스트변조, 스크립트파일 삽입" },
     { "id": "b7Uvq4IM0DA", "title": "21. tailwindcss, 컨테이너, container" },
     { "id": "ARO5CKPG7pg", "title": "22. tailwindcss, 컬럼, columns" },
     { "id": "mDyr2kF-IdI", "title": "23. tailwindcss, 디스플레이 display" },

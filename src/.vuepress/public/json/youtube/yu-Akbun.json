@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "WjkfXgNJsig", "title": "karpenter로 EKS노드를 오토 스케일링" },
     { "id": "VezvaEJSeCc", "title": "EKS 장애 퀴즈 #EKS" },
     { "id": "V22czB-d58Y", "title": "pod의 우선순위와 스케쥴링 우선순위" },
     { "id": "nwANXSXeF3k", "title": "EKS ALB controller 장애 재현" },

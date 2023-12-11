@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/sCOPKk19Jd8ytkomG1MBTulZx7l7o6rTvP6pJhjSOpJ2rv6QqNrJ6_dTw10GEJpUexjThCliKQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4VnzFg3WRAM", "title": "How to Troubleshoot an OCI VPN BGP Session Drop" },
+    { "id": "BUcXwWs8DlI", "title": "Detach Boot Volume from an OCI Instance" },
     { "id": "-erHv01F0cU", "title": "Oracle Utilities Cloud Services 23C - Improved Batch Submission" },
     { "id": "KmgRVeVJCAQ", "title": "Oracle Utilities 23C Work and Asset Cloud Service - Add a Construction Activity from a Template" },
     { "id": "QECKtwlONL8", "title": "How to Check the Running Compute Capacity Report using CLI in OCI" },

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "S9WYY9vNQm4", "title": "Day 2   Advent Of Code" },
+    { "id": "PIQFp5RxLng", "title": "Speed Run: Advent Of Code Day 4 Part 1" },
+    { "id": "K-BjHmx5ROM", "title": "SpeedRun | Advent Of Code Day 4 Part 2 | JavaScript" },
+    { "id": "WuzCvl8l7Sw", "title": "Speedrun Advent Of Code Day 6 Part 1" },
+    { "id": "LuYOIzd5lKg", "title": "Speedrun Advent Of Code | Day 5 Part 2" },
+    { "id": "K0NfPohjARI", "title": "Advent of Code Day 7 AOC OCaml" },
     { "id": "PKbAjeMgMjw", "title": "Go TEMPL + HTMX | Brief look" },
     { "id": "-KEiLTGAllY", "title": "HTMX + Go + WebComponents :  Out Of Band Updates" },
     { "id": "rcZSOLAI1lM", "title": "Rust + Htmx + Askama : Is This Better Than GO??" },

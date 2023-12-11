@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1mY6X69Mi24", "title": "프로젝트 비수기 기간, 모의해킹 컨설턴트는 무엇을 할까? KPI 목표" },
+    { "id": "Ev4IZnphTkg", "title": "파이썬 크롤링 - 보안 뉴스 전체 제목과 데이터 가져오기 #파이썬자동화" },
+    { "id": "o6IoHTkhg08", "title": "보안 진로 QA - 보안 업무에 대한 질문, 카페 질문 답변" },
     { "id": "D1ujacrCaRM", "title": "버프스위트 웹 시큐리티아카데미 HTTP Host header attacks 사례" },
     { "id": "CBJD9o41WZM", "title": "파이썬 Streamlit 수료증 자동 발급 서비스 사례 #파이썬자동화 #python" },
     { "id": "Hk5PMEPUh1M", "title": "파이썬 splinter 활용한 웹 화면 자동 스크린샷" },

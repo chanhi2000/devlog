@@ -274,5 +274,10 @@
     "desc": "Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)",
     "officialSite": "",
     "topics": ["addin", "code-snippets", "onenote", "onenote-addin", "syntax-highlighting"]
+  }, {
+    "repo": "kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "officialSite": "",
+    "topics": ["architecture", "clean-architecture", "clean-code", "cqrs", "ddd", "ddd-architecture", "ddd-cqrs", "ddd-example", "design-patterns", "design-systems", "domain-driven-design", "dotnet", "dotnetcore", "entity-framework-core", "event-sourcing", "modularity", "monolith", "rest", "rest-api", "software-architecture"]
   }
 ]

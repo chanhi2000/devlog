@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "vzNRLY_hLlM", "title": "[Probability]_09.  Maximum Likelihood Estimation (MLE) 완벽히 파헤치기 (deep dive)!" },
+    { "id": "H342QehYSqo", "title": "[Probability]_10. Maximum A Posterior (MAP) 완벽히 파헤치기 (deep dive)!" },
+    { "id": "126JfX_kJTU", "title": "[Probability]_11.  Bayesian Neural Networks 깊은 이해 (Bayesian Inference)" },
+    { "id": "Si2QxZEz8Po", "title": "[선형대수]_01. 딥러닝에서의 선형대수! 오리엔테이션 (동기부여)" },
+    { "id": "eC5Hj5TQhhI", "title": "[DB 연동] 아마존 클라우드(EC2)에 설치된 MySQL과 HeidiSQL 연동" },
     { "id": "Kmw1pCsAqfM", "title": "[Probability]_08-1. Bayesian theorem_Bayesian vs. Frequentist" },
     { "id": "7nyj0DvUluI", "title": "[Probability]_08-2-2. Bayes theorem_예제 시뮬레이션(파이썬)" },
     { "id": "xdMor6957E0", "title": "[Probability]_08-2-1. Bayes theorem_예제 풀이(당구공 굴리기)" },

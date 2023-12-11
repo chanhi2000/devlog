@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Q18Zm-VopeLTtRezGw9o2oLPwz4Ig_S-FQReSIYTIgDbzTfX1XSDxxzyoiRu9tHtA9kJ57hylIE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "x1QDIFZz-ho", "title": "Free SwiftData Mini Course" },
+    { "id": "48Qpb_1wc_E", "title": "SwiftData | Building a Todo List App | Filtering | Part 2" },
+    { "id": "tLaXywfjKw0", "title": "Saving Binary Data (Images) Using SwiftData" },
+    { "id": "8MVo1p34ljA", "title": "Load SwiftUI View as UITableView Cell" },
     { "id": "_xV_-ESX_kU", "title": "FREE COURSE - UIKit and SwiftUI Integration Essentials: 1 Hour Course" },
     { "id": "4WQskqNHxhQ", "title": "Combine - Publishers and Subscribers Lifecycles and Error Handling" },
     { "id": "FmHygIkH8s0", "title": "Structuring SwiftUI iOS Apps for TabView Navigation" },

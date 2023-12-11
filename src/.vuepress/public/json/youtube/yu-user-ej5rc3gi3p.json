@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ZBTFFVyVb6Q", "title": "주어진 조건에 맞는 메모할일 목록을 불러온다. 테스트" },
+    { "id": "M-lTusJlcCQ", "title": "주어진 조건에 맞는 메모할일 목록을 불러온다. 테스트. 조건 추가." },
+    { "id": "CZwaz74KEvE", "title": "메모할일 목록 중 오늘의 할일을 조회한다. 테스트" },
+    { "id": "h05KpJgXQR8", "title": "주어진 조건에 맞는 메모할일을 불러온다. 테스트" },
+    { "id": "TRaxL1pblv8", "title": "debug, assert 리팩토링" },
+    { "id": "yMhLKb-A2ak", "title": "메모할일 정보를 수정한다. 테스트" },
+    { "id": "WGxxRKTOt2c", "title": "interface GodCoreCmmDAO 추가" },
+    { "id": "TUCbNcMgLso", "title": "[기능추가][테스트] 자바 파서 정리" },
+    { "id": "MvNBWxmQTLw", "title": "메모할일 정보를 삭제한다. 테스트" },
     { "id": "RrB7m8moZ-M", "title": "메모보고 목록에 대한 전체 건수를 조회한다. 테스트" },
     { "id": "4miFULOHBOk", "title": "메뉴 조회(멀티건) 테스트" },
     { "id": "WA9glkYWe48", "title": "메뉴 조회(멀티건) rootContext" },

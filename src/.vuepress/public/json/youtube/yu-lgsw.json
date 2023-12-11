@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/3M0XEYS8LAxTWq5yTcZ6Bbwl1rQzgwuSNg2nUoyLDmpauX1qpQe_uZCrysIfSc4ukbVJg1cv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "v-qW4DMHGuA", "title": "2. Scaled dot-product attention - (3/3)" },
+    { "id": "91hBMOj3cQA", "title": "34편 Unsupervised learning PCA" },
+    { "id": "aSaAV9YsBcQ", "title": "33편 Unsupervised learning Correlations" },
+    { "id": "lzxjH36clqU", "title": "EP03. 알쓸개잡 - Web의 Network 이야기" },
     { "id": "ktesyGEEGBQ", "title": "31편 Neural Network으로 Classification 문제 모델링하기" },
     { "id": "fiX6LR2FcAo", "title": "30편 Naive Bayes Classification" },
     { "id": "1NcE63DyiNg", "title": "32편 분류모델링을 위한 confusion matrix와 ROC analysis" },

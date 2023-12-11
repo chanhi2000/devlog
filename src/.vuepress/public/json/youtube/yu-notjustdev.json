@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Y_IaioaI2w0", "title": "Animate Splash Screens in React Native using Lottie | DEVember Day 4" },
+    { "id": "ijBG81t0tAo", "title": "How To Build the AIRBNB map with React Native and Expo | DEVember Day 5" },
+    { "id": "H2Xr_id5JuE", "title": "Tinder Swipe Animation in React Native and Expo | DEVember Day 6" },
+    { "id": "Z0fTSK_UeNk", "title": "Building a Weather App with React Native | DEVember Day 8" },
+    { "id": "1UmepETPGJI", "title": "Build the iOS Voice Memos app in React Native | DEVember Day 7" },
+    { "id": "BGtVw_EEKZ8", "title": "Authentication in React Native using AWS Amplify V6 | DEVember Day 9" },
+    { "id": "cDz9Wt8xM5c", "title": "React Native Biometrics: Fingerprint and FaceID | DEVember Day 10" },
     { "id": "b5WB0ImJ6oo", "title": "How To Build an Animated Onboarding Flow in React Native | DEVember Day 2" },
     { "id": "bIQII7gTXDE", "title": "How to Set up a React Native and Expo Environment | DEVember Day 1" },
     { "id": "XKKh9jZ8QD4", "title": "How To Render Markdown in React Native | #DEVember Day 3" },

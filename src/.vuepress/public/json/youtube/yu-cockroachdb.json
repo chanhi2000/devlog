@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/6RRkZnDgobEWsvxpuXT3Z9dZBqL5s-M065EVcQ5LyWy2wyx7dhjF2-qQmZ0NEkKAq7gRyZsm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mCfrYreyDXs", "title": "Mastering Multi-Cloud with Erol Kavas | Big Ideas In App Architecture" },
     { "id": "02XpcMkReWw", "title": "DoorDash’s Journey from Aurora Postgres to CockroachDB | RoachFest 2023" },
     { "id": "ZQV-aviBF1U", "title": "How Fortinet migrated FortiSASE from self-deployed to CockroachDB dedicated | RoachFest 2023" },
     { "id": "SbbzxYtcgKc", "title": "Reliability and scalability in a data-driven world with Fivetran’s VP of Platform Engineering" },

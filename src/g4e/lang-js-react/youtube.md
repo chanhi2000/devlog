@@ -30,5 +30,8 @@ meta:
 <MyYouTubeItems jsonName="yu-WhiteSponge" /><!-- WhiteSponge -->
 <MyYouTubeItems jsonName="yu-CodingCafe1" /><!-- 코딩카페1 -->
 <MyYouTubeItems jsonName="yu-codewithkliton" /><!-- Code with Kliton -->
+<MyYouTubeItems jsonName="yu-ZAINKEEPSCODE" /><!-- ZAINKEEPSCODE -->
+<MyYouTubeItems jsonName="yu-leerob" /><!-- Lee Robinson -->
+<MyYouTubeItems jsonName="yu-JavaGuides" /><!-- Java Guides -->
 
 <TagLinks />

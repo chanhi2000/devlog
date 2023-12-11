@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nweWG-8cL9w", "title": "웹디자인 기능사 실기(54) - 기출유형 D4 반응형, 영역별 CSS, header, menu, slide, footer" },
+    { "id": "HPrwLWVGtaU", "title": "웹디자인 기능사 실기(55) - 기출유형 D4 반응형, 영역별 Script, header, menu, slide, footer" },
+    { "id": "y03Z2vRAd18", "title": "웹디자인 기능사 실기(52) - 기출유형 D4 반응형 - HTML, 와이어프레임" },
+    { "id": "S5kY23VHqO4", "title": "웹디자인 기능사 실기(53) - 기출유형 D4 반응형, 영역별 html, header, menu, slide, footer" },
+    { "id": "qqMZigpaM2U", "title": "react-54 [ 리엑트 to do List 01 ] - 프로젝트 생성, 부트스트랩 설치, 입력 폼 생성" },
+    { "id": "rELt5vgTX40", "title": "react-57 [ 리엑트 to do List #04 ] - 할일 삭제, 로컬 스토리지" },
+    { "id": "jHxcSgAGNGM", "title": "react-56 [ 리엑트 to do List #03 ] - 체크항목 스타일 변경하기" },
+    { "id": "5BOV6M4L1sk", "title": "react-59 [ 리엑트 to do List #06 ] - 수정내용 반영하기" },
+    { "id": "y-CZL_PWnzE", "title": "react-58 [ 리엑트 to do List #05 ] - 할일 수정, 수정모드 변환" },
     { "id": "fr3EcIu6Sb0", "title": "Vue.js V3 - 핵심 #11 - 생명주기, option과 composition 차이" },
     { "id": "FZqTrBbGDwE", "title": "웹디자인 기능사 실기(47) - 기출유형 3 (WD 중공업)  로고, 영역별 CSS, Script" },
     { "id": "eQ9Ix2gGVEM", "title": "Vue.js V3 - 핵심 #12 - 감시자, 비동기 데이터 연동" },

@@ -904,5 +904,15 @@
     "desc": "ThorVG is a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. It provides user-friendly APIs, has no dependencies, and maintains a super compact size.",
     "officialSite": "https://www.thorvg.org",
     "topics": ["animation", "drawing-library", "graphics", "image", "jpeg", "lottie", "motion-graphics", "opengl", "path-drawing", "png", "rendering-engine", "shapes", "svg", "tvg", "vector-graphics-engine", "webgpu", "webp"]
+  }, {
+    "repo": "jmpoep/vmprotect-3.5.1",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "asset-group/5ghoul-5g-nr-attacks",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "xEIwkZlc7I4", "title": "Creating an ANALOG CLOCK with HTML, CSS & JavaScript | Frontend Development Projects | GeeksforGeeks" },
+    { "id": "b6iw6dLQ7AU", "title": "Implementing Simple and Custom ALERT DIALOG BOX in Flutter Apps | Flutter Projects | GeeksforGeeks" },
+    { "id": "W2S8NnlJtgk", "title": "Build Your Own GUI CALENDAR with Tkinter in Python | Python Projects | GeeksforGeeks" },
     { "id": "tZl1_AcC7Dw", "title": "Create AI DESKTOP VIRTUAL ASSISTANT using Python and Tkinter | Python Projects | GeeksforGeeks" },
     { "id": "hm5JfFhiXL8", "title": "Create a QR CODE SCANNER and GENERATOR Application using Flutter | Flutter Projects | GeeksforGeeks" },
     { "id": "CeupjFXlFiQ", "title": "How to Create LANGUAGE TRANSLATOR Application in Flutter | Flutter Projects | GeeksforGeeks" },

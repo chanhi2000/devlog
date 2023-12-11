@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/XcRATMHecKiBlCNwPtFtD73uqyADSsACqnLSbuq9YfUbEzTfRh2LBbZxJBtMkN8IWALnPrSL1A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-EOiYMGC1_Y", "title": "Hello World Using a Function in C++" },
+    { "id": "bHKY9XIwAjA", "title": "What is Scala?" },
+    { "id": "NLzbTBv-a6k", "title": "What is Abstraction in Object-Oriented Programming?" },
     { "id": "ByYHOPRtNmw", "title": "Benefits of Android Operating System" },
     { "id": "G5elZYha0LI", "title": "Applications of Node.JS" }, 
     { "id": "urp4nvJN2d0", "title": "Multiply Two Numbers Using Classes in C++" },

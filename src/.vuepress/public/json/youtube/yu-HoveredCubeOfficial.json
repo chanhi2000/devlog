@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "HoveredCubeOfficial",
+    "name": "Hovered Cube",
+    "profile": "https://yt3.googleusercontent.com/YxT8M34ee5GggurOQcfb2AoFra-zpoi5_z7FngXnmxjtMUosD4b3J-bnKYoktdlXjYDADyQn-Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sewyTI2njLFNNkRl5wAFYvGJvkWJfr_GcXkR_7miYyaAXAHlo7D8GIpmMtaxq_KAx9J-i9jkjX8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kGihh-8MI4U", "title": "Top VS Code Extensions 2023 😮 | MIND BLOWING VS Code Extensions." },
+    { "id": "40wu_YRutEQ", "title": "How to Code a ROCK PAPER SCISSORS Game in Python | python tutorial for beginners" }
+  ]
+}

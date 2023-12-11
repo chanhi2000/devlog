@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ZePsd0ctNjbAyIutChwfAfkpuakvLkt6k6JsOARR1ZJnB4Bsll3vCzPDmJMWIddeyzv7MB8eTA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6s8z_IDX-rc", "title": "New Lectures on Advanced DSP and Adaptive Filtering (from Prof. David Anderson of Georgia Tech)" },
+    { "id": "sIDD_GeF7eo", "title": "BJTs are VOLTAGE-Controlled Current Sources!" },
     { "id": "_gEhAWrYNZM", "title": "They Mislead You About MOSFETs" }
   ]
 }

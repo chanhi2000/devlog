@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/eXhc6XaYdmPLtX7A8XV4eQ9wyAvy9x_QkhaaieRxvFplh3_VayzkyDLS2nhMRF67jScpBxMcGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wVMQxfWJ5d4", "title": "Spring batch tutorial | Step by Step Guide | #1 Introduction to Spring Batch" },
+    { "id": "kF3NKwLjNag", "title": "Spring batch tutorial | Step by Step Guide | #3 Step and Job Configuration" },
+    { "id": "ds8FwUsyFd8", "title": "Spring batch tutorial | Step by Step Guide | #2 Item Reader - Item Processor - Item Write" },
+    { "id": "iBCDJtb6u7A", "title": "Spring batch tutorial | Step by Step Guide | #4 Optimise Batch processing with Task Executor" },
+    { "id": "VQE0FDq5nUk", "title": "Spring batch tutorial | Step by Step Guide | #0 Introduction" },
     { "id": "wQIITb0dWYs", "title": "Apache Kafka & Spring Boot Reactive | Installation & Setup #3" },
     { "id": "uFCcr2hdN_E", "title": "Apache Kafka & Spring Boot Reactive |  Kafka  Real World Application #9" },
     { "id": "qevsDxrU_RE", "title": "Apache Kafka & Spring Boot Reactive | Create Kafka topic #5" },

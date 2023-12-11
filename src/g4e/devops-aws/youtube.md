@@ -27,5 +27,7 @@ tags: ["youtube", "tutorial", "aws", "amazon", "amazon-web-service", "@CloudLear
 <MyYouTubeItems jsonName="yu-TinyTechnicalTutorials" /><!-- Tiny Technical Tutorials -->
 <MyYouTubeItems jsonName="yu-SurajinCloud" /><!-- Suraj in Cloud" -->
 <MyYouTubeItems jsonName="yu-FauziyyahZak1" /><!-- FauziyyahZak -->
+<MyYouTubeItems jsonName="yu-awsdevopsniche11" /><!-- awsdevopsniche11 -->
+<MyYouTubeItems jsonName="yu-AWSwithChetan" /><!-- AWS with Chetan -->
 
 <TagLinks />

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BCQK4STfzn4", "title": "A guide to using Next 14 (server actions, RSC, useFormState, useFormStatus)" },
+    { "id": "ySo4-G6Ycfw", "title": "Why you should version your api endpoints" },
+    { "id": "Dupp4PeXAlM", "title": "This is why webhooks are important" },
+    { "id": "dkGvHxoga8I", "title": "I'll try to answer any Next.js / React question you might have" },
     { "id": "wEsPL50Uiyo", "title": "This is why understanding database concurrency control is important" },
     { "id": "wnxO4AT2N4o", "title": "Applying clean architecture to my Next.js project" },
     { "id": "g7n6B9skiTY", "title": "How using Strapi with Next14 will help you move fast" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "securerandom5420",
+    "name": "SecureRandom",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSO-BBO6a5QNM-fPgduhLk6z4Z_8ygbjbk6ZkV3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TnWF2_x1LVmzWmSJu1eH1Rbzi2ObJzmj0mK67UdDf0aXQp5tlYa3m4inBhx10bLW5QJz6SWn=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wQcSql62zRo", "title": "How to Add SSL Encryption to Web Apps Using the Nginx Reverse Proxy" }
+  ]
+}

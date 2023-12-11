@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CodeWisTechnologies",
+    "name": "CodeWis Technologies",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKadr5EnwAAe7WGTep_n1hG6IW_MN-ALNo41MuYf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A0L1rf5tTCvqvSHEgLNZ28YML_-Ex5jG9UgZoNQcTMxFsqiVyu9l9l7V24j3CHRTL3Kw7H-t=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lVucm5JaxmU", "title": "Setting up apache axis web service client application maven spring boot" }
+  ]
+}

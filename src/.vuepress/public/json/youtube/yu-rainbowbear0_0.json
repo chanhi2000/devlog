@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "QEDo1zJSdEE", "title": "[개발일기] OAuth를 활용한 로그인 공부 (조언 환영)" },
+    { "id": "OHOYZHkE23M", "title": "[개발일기] 프로필 페이지 구상 (조언 환영)" },
+    { "id": "-YJDfv4nuj8", "title": "[개발일기] 프로필 페이지 1차 기록 (조언 환영)" },
+    { "id": "_oqbeRngzps", "title": "[개발일기] 로그인 로그아웃 구현 (조언 환영)" },
+    { "id": "kvipiTlr5Lk", "title": "[개발일기] Backend 코드 리팩토링 (조언 환영)" },
     { "id": "9GEHLHrt2qA", "title": "[Kubernetes] 애플리케이션 스케일링(길벗 리뷰어)" }
   ]
 }

@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "88-925XqZS8", "title": "2023 12 04 웹개발 비밀번호 암호화, 아이디와 비밀번호 찾기(이메일전송)" },
+    { "id": "jCML0VaOrPg", "title": "2023 12 04 DBMS 15일차 1 ~ 2교시" },
+    { "id": "HBBJyEQVYZI", "title": "2023 12 06 웹개발 테마적용, 파일 업로드, 파일 불러오기" },
+    { "id": "1K_JqYQGbxg", "title": "2023 12 06 웹개발 21일차 3교시" },
+    { "id": "JAJE2J6nxY8", "title": "2023 12 06 웹개발 21일차 1 ~ 2교시" },
+    { "id": "W5sL48sgUzw", "title": "2023 12 08 웹개발 23일차 3교시" },
+    { "id": "eWDRZQlfUj4", "title": "2023 12 08 웹개발 23일차 2교시" },
+    { "id": "bb3fQ6UMhAQ", "title": "2023 12 08 웹개발 23일차 1교시" },
+    { "id": "0chUTNQHGLU", "title": "2023 12 07 웹개발 22일차 2 ~ 3교시" },
     { "id": "BUK08aHACnc", "title": "2023 11 28 웹개발 15일차 1 ~ 3교시" },
     { "id": "L2u84S-6J8A", "title": "2023 11 28 DBMS 12일차 2교시" },
     { "id": "qOoyxqMYAWY", "title": "2023 11 28 DBMS 12일차 1교시" },

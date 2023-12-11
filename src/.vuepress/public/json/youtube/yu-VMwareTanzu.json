@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5eqor9_VzK8", "title": "Main Challenges When Managing Kubernetes Environments and Data Protection" },
     { "id": "a8qXewrzBQU", "title": "What Kind of Data Protection Do You Need for Kubernetes?" },
     { "id": "Zsp_cQMdOic", "title": "VMware & Postgres" },
     { "id": "GbRnFct8E04", "title": "Benefits of Data Protection with VMware Tanzu Mission Control" },

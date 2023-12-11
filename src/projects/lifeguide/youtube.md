@@ -45,5 +45,6 @@ meta:
 <MyYouTubeItems jsonName="yu-cook5162" /><!-- 이 남자의 cook -->
 <MyYouTubeItems jsonName="yu-chefkenlee" /><!-- ChefKenLee -->
 <MyYouTubeItems jsonName="yu-LastBushSurvival" /><!-- LastBush Survival -->
+<MyYouTubeItems jsonName="yu-reviewwhale90" /><!-- 리뷰하는고래 -->
 
 <TagLinks />

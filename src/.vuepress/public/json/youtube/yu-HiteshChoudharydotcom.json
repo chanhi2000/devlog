@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/zO8n2TfZoDXozQeKwq7APiVXn4BIZw7Q0-5SCVw4FXY_q2ysjtmVp5WYw1_M3bn9m3WiNarZGg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "e7llTS5U0dM", "title": "Parsing HTML in react components" },
+    { "id": "DGgeeY15X4k", "title": "React hook form and TinyMCE editor in react" },
+    { "id": "TtVMerlZtrE", "title": "Debugging the mega project" },
+    { "id": "tZqdubin95M", "title": "Learn to create production components" },
+    { "id": "ZG0_q4i8ADs", "title": "Debugging for protected routes" },
+    { "id": "FVsnolBvRBc", "title": "Setting up redux store and protecing pages in react" },
+    { "id": "zWF7O7aHQW4", "title": "Build a full stack project with React and Appwrite" },
     { "id": "4qoqhxlYI5w", "title": "Appwrite Databases, Query and Storage   All that you need" },
     { "id": "SwviLVyaRKU", "title": "Building a full stack project with React and Appwrite" },
     { "id": "4DqAvWonPAg", "title": "Complete react course with 10 projects" },

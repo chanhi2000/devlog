@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/hZX7_HJ83tC-kgzQOmtzrG49bJzHEZFOHoIM_gbrxviK0tROVkvg1KZFywzXK1uU00oH2Oh80A8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "q4b6L2sS7o8", "title": "Jira GitLab Integration - How to see Git commits, merge requests, and more in Jira." },
+    { "id": "yhisa9QSNO0", "title": "Jira GitHub Integration - How to see Git commits, pull requests, and more in Jira." },
+    { "id": "Y5o11Z1G0Gw", "title": "Git Merge Conflicts: Explained! 🔀 #shortsvideo #shorts" },
     { "id": "2tmWvRxj9Ls", "title": "How to Share App Manager Permissions in Git Integration for Jira" },
     { "id": "q_zsFRYNDnY", "title": "Stacked Pull Requests | GitKon 2022 Rewind | Tomas Reimers, Graphite" },
     { "id": "BnYk4XmoLTc", "title": "GitKraken Client 9.8 Release: Focus View Makeover" },

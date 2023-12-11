@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Devops-By-Mamu",
+    "name": "Devops-by-mamu",
+    "profile": "https://yt3.googleusercontent.com/OdEXgDfbRE-46qy29zBu2R5N0BKaxl1trtUji5iDwLhcz6t8R286HKK74NFc6YcpGggNITWW9bs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mi_FKfAg8vE9mziVHr6dfx-oPK_9A2t-KEJZIqVXkBaIT6UhhOv8zTpe7BxvYLnIEpeDyqLv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z_3hCO2kymg", "title": "Ansible Playbook explained | Ansible  Beginners to Expert in telugu | Pratical with real time" },
+    { "id": "dvA5vUkSPVI", "title": "Kubernetes statefulset & configmap & PVC & PV Kubernetes only practicals #PART-2" },
+    { "id": "yH26kOcPStA", "title": "Kubernetes only practicals  PART-1 | Ultimate Kubernetes #k8s #kubernetestutorialforbeginnersExpert" },
+    { "id": "VLTZAmOUb3Y", "title": "Kubernetes in telugu, Kubernetes zero to hero," }
+  ]
+}

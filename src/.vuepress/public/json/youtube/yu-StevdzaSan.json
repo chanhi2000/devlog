@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/CJ3jXN8bFt7hqwXZky40MPIkiX71MNlHFB84Vb4Ld54b7FNb3JZ-hY-iwMCCEQ3z_MGjRNAKpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uv5rEvwVFYg", "title": "Getting Started with Sharing UI between iOS and Android - Compose Multiplatform" },
     { "id": "e_lioXeZV8o", "title": "Full Guide to Shared Element Transition Animation in Android with Jetpack Compose" },
     { "id": "nYCE6I6DvSk", "title": "Step-by-Step Android In-App Purchase Integration with RevenueCat" },
     { "id": "p_BTmw0HRqo", "title": "Declaring a Function: Kotlin vs Swift" },

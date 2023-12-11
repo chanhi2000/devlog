@@ -743,6 +743,13 @@ export const sidebarEn: SidebarConfig = {
       text: 'Intro',
       children: [ '/academics/README.md' ],
     }, {
+      text: 'General',
+      collapsible: true,
+      children: [
+        '/academics/general/README.md',
+        '/academics/general/youtube.md',
+      ]
+    }, {
       text: 'MATH011',
       collapsible: true,
       children: [

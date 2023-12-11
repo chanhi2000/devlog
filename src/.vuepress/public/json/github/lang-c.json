@@ -599,5 +599,10 @@
     "desc": "Audio plugin for custom MP3 distortion and digital glitches",
     "officialSite": "",
     "topics": []
-  }  
+  }, {
+    "repo": "gspu/Coherent",
+    "desc": "Coherent OS",
+    "officialSite": "http://www.nesssoftware.com/home/mwc/source.php",
+    "topics": ["bsd-3-clause", "os", "unix"]
+  }
 ]

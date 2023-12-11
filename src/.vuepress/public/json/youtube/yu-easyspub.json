@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/rniEA2SFFwvD9stOinwu9ifAebPni877LzQZbdCp0vdqNrp_EemICO33diiuK6CxWDDhBQVc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qQsAcREB77M", "title": "31장 블로그 앱 만들기 - CRUD | Do it! Node.js 프로그래밍 입문" },
+    { "id": "MuDOqtHNhJ4", "title": "30장 블로그 앱 만들기 - 관리자 로그인 | Do it! Node.js 프로그래밍 입문" },
+    { "id": "GouerZvPC94", "title": "27장 블로그 앱 만들기 - 레이아웃 | Do it! Node.js 프로그래밍 입문" },
+    { "id": "OWForc3-ESA", "title": "28장 블로그 앱 만들기 - 첫 화면 | Do it! Node.js 프로그래밍 입문" },
+    { "id": "k-_kMOjEh2E", "title": "29장 블로그 앱 만들기 - 관리자 페이지 | Do it! Node.js 프로그래밍 입문" },
     { "id": "YSGb-DX32ag", "title": "19 CRUD코드 작성하기 | Do it! Node.js 프로그래밍 입문" },
     { "id": "P_eRpwR15-o", "title": "[Do it! SQL 입문] 06장 내 맘대로 주식 데이터 분석하기" },
     { "id": "5jIEQm-TJ3s", "title": "[Do it! SQL 입문] 7장 국가 통계 데이터 분석하기" },

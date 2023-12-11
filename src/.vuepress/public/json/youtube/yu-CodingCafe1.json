@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/7S-dqLIQ6-00GX4v-ae3jXPNRphp-j6aqdQGwrQIhRjD9Y5umONijN1sIYwK6YYI2CpbSZ9N=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_RKE7jtDAK0", "title": "깃허브 실무 - nuxt3 앱 인스톨, 무비앱 PJ 새로 시작하기" },
+    { "id": "pMk88uyP2m4", "title": "Vue 라이프 사이클" },
+    { "id": "4sWSe7wCEPc", "title": "vue2와 vue3의 차이" },
     { "id": "WV9WATJoq4M", "title": "module" },
     { "id": "GffBciNNm_4", "title": "react scss" },
     { "id": "qKtvb0VApnc", "title": "vue-install-props" }

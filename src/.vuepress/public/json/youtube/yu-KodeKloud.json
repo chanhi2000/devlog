@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bPs5uF0FRRzntJdv5p3y5aNphwMROiIvaGdmhgPNKbK-sWHCtdeibmEQpB-JSlF7ohNkoS6uph4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uRh-uIpMNa0", "title": "WebAssembly Explained - A WASM Tutorial from Basics to Kubernetes Deployment | KodeKloud" },
+    { "id": "RUoejLILgyA", "title": "How to Create AKS Cluster in Azure | AKS Cluster Creation & App Deployment (Demo)" },
+    { "id": "7Y-WMwTWk4Q", "title": "The Ultimate Kubernetes Administrator Learning Path by KodeKloud! #shorts" },
     { "id": "RzzqT7KUtiM", "title": "What are Microservices? | Monolith vs Microservices | KodeKloud" },
     { "id": "Vx6VwdhDCEc", "title": "Prompt Engineering in Generative AI: Types & Techniques | KodeKloud" },
     { "id": "hgUGblYj-JQ", "title": "Master Jenkins Pipelines | Step by Step Tutorial for Beginners | KodeKloud" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ZYELmRnrkhB_iYRszPcYMUP4e1bg-maRev57mBREwHi7XnD3nl1pAdhat8mo5JXSfrxvU-xLeQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DQk8HOVlumI", "title": "Complete Helm Chart Tutorial: From Beginner to Expert Guide" },
     { "id": "peH95b16hNI", "title": "Getting started with Prometheus Grafana and Node exporter - Part 1" }
   ]
 }

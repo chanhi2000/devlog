@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/cESZ9qnZaMe9-o1jCD2QQVPgeHUdndTurh2UUSe3WGD5drCH7KrEIrtbrJyqLA_BhoYgAPTAaA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KI7mbm-BxqA", "title": "Prettier/ESLint to Biome: The Lightning-Fast Rust-Based Tool!" },
     { "id": "t_h_A6RkM7A", "title": "React Clean Code: Advanced Examples of SOLID Principles" },
     { "id": "3BN-YHcJfOY", "title": "Most Frequent React Interview Questions" },
     { "id": "nNtELewCaD4", "title": "HTMX - What they don't want you to know!" },

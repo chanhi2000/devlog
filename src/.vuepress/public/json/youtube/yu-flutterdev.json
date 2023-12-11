@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/vgLcJl1lFuWCA8xvZETUeX8lGg1lk0kO71qTvQ5fSakyjsCsHUQEz3SQSOKtk-GxxY5_ilNm=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ww_Z6hpo3jc", "title": "Observable Flutter #30: Optimizing a game loop" },
     { "id": "BfREhtybQI8", "title": "Observable Flutter #29: Game development" },
     { "id": "ipaVjs-_3iQ", "title": "When to use the Flutter Beta Channel" },
     { "id": "yO5oQGs2WCk", "title": "Observable Flutter #28: Faking 3D graphics" }, 

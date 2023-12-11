@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ldwLRO_hLeiQA535Amc27MOedUn8pOZDWHqNqBO9HNQR27LWc_GWBkPO7j2I7ne_cp_RGtLM2A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Z-v6MxJGPS4", "title": "Next.js 14 Authentication (Kinde Auth, Server Actions, Roles & Permissions)" },
     { "id": "sUKptmUVIBM", "title": "Fresh React Portfolio Website (Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)" },
     { "id": "XhdOUmT2ViA", "title": "This AI-tool is even better than GitHub Copilot?" },
     { "id": "y2ICZYOU09Q", "title": "How big companies structure their apps (Microservices, Docker, Kubernetes)" },

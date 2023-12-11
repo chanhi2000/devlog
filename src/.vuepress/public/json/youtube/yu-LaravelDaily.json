@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rByzMZwADbA", "title": "Laravel Migrations: Two \"Tricks\" from Laravel Pulse" },
+    { "id": "GKWQV97Wo9I", "title": "Logic in Blade Files and Code Co-Location: Pulse Example" },
+    { "id": "PPyrA_MCQBM", "title": "PHP Array Destructuring: Example from Laravel Pulse" },
+    { "id": "Wz-nZIVcIik", "title": "Laravel Methods Accepting Multiple Types: Pulse Example" },
+    { "id": "l36uqi9NARI", "title": "Laravel \"Eternal\" Artisan Command: \"pulse:check\" Example" },
     { "id": "g2C96eGkMYk", "title": "Eloquent Query Builder Macros: Define Your Custom Methods" },
     { "id": "PRhhqukK9uw", "title": "NEW in Laravel 10.33: Number Formatting Class" },
     { "id": "D4_a2LCz97k", "title": "NEW in Laravel 10.33: Missing Translations Handler" },

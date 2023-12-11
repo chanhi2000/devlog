@@ -7,6 +7,7 @@
   },
   "videos": [
     { "id": "xRM5jjd2fCc", "title": "SFNode Meetup: Unit Testing Javascript with reflection and GPT-4 with Arvind Naidu" },
+    { "id": "mAqxh3L_sP4", "title": "SFNode Meetup: Automated Testing of Electron Apps using WebdriverIO with Christian Bromann" },
     { "id": "Oz9Tjd-GZyQ", "title": "SFNode Meetup: Tinylibs with Mohammad Bagher" },
     { "id": "hmecIgC4Ffk", "title": "SFNode Meetup: Ramping Up With Modulo.js on JAMStack with Michael Bethencourt" },
     { "id": "EdTZkmTRcRY", "title": "SFNode Meetup: How I use node.js to automate workspaces with Lorenze Jay" },

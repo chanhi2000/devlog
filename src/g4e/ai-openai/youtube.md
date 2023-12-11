@@ -1,4 +1,4 @@
-
+---
 lang: ko-KR
 title: 📺Youtube
 description: 🎼OpenAI > 📺Youtube
@@ -54,5 +54,6 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-aiDotEngineer" /><!-- AI Engineer -->
 <MyYouTubeItems jsonName="yu-engineerprompt" /><!-- Prompt Engineering -->
 <MyYouTubeItems jsonName="yu-ConnerArdman" /><!-- Conner Ardman -->
+<MyYouTubeItems jsonName="yu-unconv" /><!-- Unconventional Coding -->
 
 <TagLinks />

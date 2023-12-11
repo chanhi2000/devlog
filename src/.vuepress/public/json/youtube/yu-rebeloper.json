@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/xbTZrAfxA0BkHW3VmOFRtI5oKj4GH4rtVkJAeeeWg1VU-fwcGFOsSHI6ZssvsCReSA47dz8o=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LpTaK-ryYtk", "title": "I made an App UI with ChatGPT..." },
     { "id": "T4lWtKa9lc8", "title": "GitHub Copilot in Xcode: The FUTURE of Coding" },
     { "id": "4mYM702WtE0", "title": "ChatGPT in Xcode: The Ultimate Developer's Toolkit" },
     { "id": "B7HBMYEEZtc", "title": "Master Keychain Access Like a Pro using SwiftUI Property Wrappers" }, 

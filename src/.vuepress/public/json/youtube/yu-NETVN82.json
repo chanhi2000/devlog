@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/FUkRXrDaQmKgjE09IpW8jnH-8uLGFUv7Yw9TAvBcequYTY-BaDFhF-_l7CvwcsPjOB7m3j6_jw8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1HGZIAvNxc0", "title": "Create a Ping tool right on Windows Home Screen" },
+    { "id": "gW9dcLUO9Zs", "title": "How to Install and Configure Proxy Server on Windows 11" },
     { "id": "_DPexLKpE5o", "title": "Surf the Web Faster with Proxy on Windows 11" },
     { "id": "5Xj2cAojN1o", "title": "Making Windows To Go bootable with Ventoy" },
     { "id": "Xtv6DmQOt8Y", "title": "How to continuously scan Wi-Fi signals" },

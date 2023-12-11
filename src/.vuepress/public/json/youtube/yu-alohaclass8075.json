@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/JAOdwMIQw77zEUEwlsbP3YUodhPGKN1Q-QElKqNR8lEC5Gsvg8D7NSyr1xmN-f1CEZgGHE_a=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WlczGewn8WU", "title": "React x Spring Boot  게시판 앱 4 - STYLE" },
+    { "id": "1H7oEyNdkEk", "title": "React x Spring Boot  게시판 앱 5 - FILE 파일업로드 2" },
+    { "id": "r-ILTQRf1rw", "title": "React x Spring Boot  게시판 앱 5 - FILE 파일업로드" },
+    { "id": "lLgAwTIw1G4", "title": "React x Spring Boot  게시판 앱 4 - STYLE 2" },
     { "id": "nwT1OYVL6h0", "title": "Hook - To Do List #React #프론트엔드 #개발" },
     { "id": "v5E_XmnDyT0", "title": "Props  #React #프론트엔드 #개발" },
     { "id": "93h9avtBtUo", "title": "State  #React #프론트엔드 #개발" },

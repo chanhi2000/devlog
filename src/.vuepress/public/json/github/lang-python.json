@@ -3463,5 +3463,60 @@
     "desc": "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.",
     "officialSite": "",
     "topics": ["bash", "bash-scripting", "cli", "command-line", "command-line-interface", "command-line-tool", "convert", "json", "linux", "parsers", "python", "python-library", "scripting", "serialize", "shell-scripting", "yaml"]
+  }, {
+    "repo": "Flode-Labs/vid2densepose",
+    "desc": "Convert your videos to densepose and use it on MagicAnimate",
+    "officialSite": "",
+    "topics": ["densepose", "magic-animate"]
+  }, {
+    "repo": "01-ai/Yi",
+    "desc": "A series of large language models trained from scratch by developers @01-ai",
+    "officialSite": "https://01.ai",
+    "topics": ["large-language-models"]
+  }, {
+    "repo": "facebookresearch/Pearl",
+    "desc": "A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta. ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "officialSite": "http://ytdl-org.github.io/youtube-dl/",
+    "topics": []
+  }, {
+    "repo": "simulatrex/simulatrex",
+    "desc": "Simulatrex.ai",
+    "officialSite": "",
+    "topics": ["chatgpt", "gabm", "generative-agent-based-modeling", "generative-ai", "gpt-4", "llama2", "pypi", "python", "simaas", "simulations"]
+  }, {
+    "repo": "luciddreamer-cvlab/LucidDreamer",
+    "desc": "Official code for the paper \"LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes\".",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mapup/MapUp-Data-Assessment-F",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "linyiLYi/voice-assistant",
+    "desc": "一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "MichaelYuhe/ai-group-tabs",
+    "desc": "A Chrome extension helps you group your tabs with AI.",
+    "officialSite": "",
+    "topics": ["chrome", "chrome-extension", "react", "tabs-management"]
+  }, {
+    "repo": "zhyever/PatchFusion",
+    "desc": "An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation",
+    "officialSite": "https://zhyever.github.io/patchfusion/",
+    "topics": ["depth-estimation", "high-resolution"]
+  }, {
+    "repo": "SqueezeAILab/LLMCompiler",
+    "desc": "LLMCompiler: An LLM Compiler for Parallel Function Calling",
+    "officialSite": "https://arxiv.org/abs/2312.04511",
+    "topics": ["efficient-inference", "function-calling", "large-language-models", "llama", "llama2", "llm", "llm-agent", "llm-agents", "llm-framework", "llms", "natural-language-processing", "nlp", "parallel-function-call", "transformer"]
   }
 ]

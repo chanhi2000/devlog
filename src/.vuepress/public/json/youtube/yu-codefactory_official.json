@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/pEant9eo9yQIvvb04TKBhkqq0OswUb2-Knc0ojXRJ1hHtFZcNxZkbkYN3tBZ4RopvvJQhNZnPA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CedR_QZnUBM", "title": "[2023년 12월 최신] Flutter Windows 환경설정" },
+    { "id": "DDCqlDrWsXU", "title": "[2023년 12월 최신] Flutter MacOS 환경설정" },
     { "id": "gvVt11Aeais", "title": "2023 11 05 개발자 상담소" },
     { "id": "3wiwksu9ZZs", "title": "2023 08 13 개발자 상담소" },
     { "id": "5W72UHb-9iI", "title": "Client Side Rendering vs Server Side Rendering 모르면 일단 누르세요~" }, 

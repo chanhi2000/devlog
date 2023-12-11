@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "mycodeschool",
+    "name": "mycodeschool",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQPqkLl4z59YaNMJ6vKhROyUT6DK70dMd5zvQZn=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BqF1fF3xLpsVV3uc0MPKV5Z9AOSoWz09nhDXlMJNNvoYhCrAERh9UkrPxYjywekcKS_llyqdqQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_8-ht2AKyH4", "title": "Pointers and dynamic memory - stack vs heap" }
+  ]
+}

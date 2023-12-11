@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I0nCFMDkPNo", "title": "Advent of Code 2023 in Kotlin Day 4" },
+    { "id": "gLuXUlc6CnE", "title": "Advent of Code 2023 in Kotlin Day 5 | Using Kotlin Notebook" },
+    { "id": "CfgzkNtSb9U", "title": "Advent of Code 2023 in Kotlin Day 6" },
+    { "id": "RSq35eSpsII", "title": "Advent of Code 2023 in Kotlin Day 8" },
+    { "id": "fVKXGHqmFv0", "title": "Advent of Code 2023 in Kotlin Day 7" },
+    { "id": "wMjKUxW7g3o", "title": "Advent of Code 2023 in Kotlin Day 9" },
+    { "id": "TEeoM0hE9yY", "title": "Advent of Code 2023 in Kotlin Day 10" },
     { "id": "apiVJfLvUBE", "title": "Coil Goes Multiplatform with Colin White | Talking Kotlin #127" },
     { "id": "IGuVIRZzVTk", "title": "Build Apps for iOS, Android, and Desktop With Compose Multiplatform" },
     { "id": "eFzy1BRtHps", "title": "iOS Development With Kotlin Multiplatform: Tips and Tricks" },

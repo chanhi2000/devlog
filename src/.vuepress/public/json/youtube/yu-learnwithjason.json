@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/JZav5tL14daax3jDES8yDJuU57aPKQYOlaIxHx0SpsL0rhfYOnDD5BUElK3UEGZnkgPkOtrv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WAE_ZZZ1HOU", "title": "Can you actually own your identity and content on the web? (with Rizél Scarlett)" },
     { "id": "akFMdt9tBFo", "title": "Building a DB-powered JavaScript app + Q&A" },
     { "id": "C5DHnG8W0ts", "title": "Let’s Learn HTMX!" },
     { "id": "lEEoUa_mfHc", "title": "Add user management to a Next.js site with React server components, server actions, and AuthKit" },

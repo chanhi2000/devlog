@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/nKUwaD9loKqAf9AS7EDp7ruFNYbnZz5by8XSEwWVaAwe1yFXcsoABt6HTQ42tk5oM6NGmWVCd5U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_O2q_61y4qg", "title": "117th airhacks.tv: \"Lambda Monoliths, Hypermedia Systems,JTE and SnapStart\" #airhacks #live #java" },
+    { "id": "OhnuDTeawxI", "title": "java.lang.System.Logger 👉 How To Change the Log Level On-The-Fly #java #shorts #coding #airhacks" },
+    { "id": "LoXSYrqy8zc", "title": "A Yes/No Blocking \"Dialog\" in the Console #java #shorts #coding #airhacks" },
+    { "id": "XawuWg5rdOk", "title": "System.Logger and Lazy Logging #java #shorts #coding #airhacks" },
+    { "id": "EsoNAPT2D_M", "title": "Ya!vaConf: Cloudy Patterns for Enterprise Java #conference #java #serverless #airhacks" },
     { "id": "hEg8ViTvUz4", "title": "Why Collections.singletonList is not a Singleton List #java #shorts #coding #airhacks" },
     { "id": "O9AuHfX2QIg", "title": "Close (Sometimes) Your Stream #java #shorts #coding #airhacks" },
     { "id": "j5y6ZouZcJU", "title": "Creating and Viewing a Java Flight Recorder (JFR) Event #java  #coding #airhacks" },

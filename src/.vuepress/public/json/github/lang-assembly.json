@@ -19,5 +19,10 @@
     "desc": "A rewrite of Wozmon in x86-64 for the BareMetal kernel.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "bluewaysw/pcgeos",
+    "desc": "#FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/fcCgvRHuv5nq0kcMERI8SkPFSaKk7_OR4e2ipR-33P-yDjojNv0owVlLtxBwnl5SsNWlNlfb=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yDNdE5xmWiU", "title": "I Reviewed Your Beginner React Code" },
     { "id": "06g6YJ6JCJU", "title": "Build a Complete Digital Marketplace with Next.js 14, React, tRPC, Tailwind | Full Course 2023" },
     { "id": "ucX2zXAZ1I0", "title": "Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course 2023" },
     { "id": "cjKOXcbd7bo", "title": "This Is The Weirdest JavaScript Operator" },

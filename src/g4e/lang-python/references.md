@@ -216,4 +216,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Oren Eini
+
+- [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
+
+---
+
 <TagLinks />

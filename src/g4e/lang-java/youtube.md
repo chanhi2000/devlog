@@ -119,5 +119,7 @@ meta:
 <MyYouTubeItems jsonName="yu-devtiro" /><!-- Devtiro -->
 <MyYouTubeItems jsonName="yu-SpringIOConference" /><!-- Spring I/O -->
 <MyYouTubeItems jsonName="yu-SpringSourceDev" /><!-- SpringDeveloper -->
+<MyYouTubeItems jsonName="yu-CodeWisTechnologies" /><!-- CodeWis Technologies -->
+<MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 하찮은오후 -->
 
 <TagLinks />

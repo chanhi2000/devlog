@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "PrimeNewtons",
+    "name": "Prime Newtons",
+    "profile": "https://yt3.googleusercontent.com/5Q-ZCF0mlwMcWMe_3TmK2Pi6bddynhBtXSl5PqpjVO8Bn4JKzV_-QDPdA5GvPzZzFoys7w3FfQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CGF6SrDcBmx4VySIIl-Kkk4WMwtuCLd6IBSrjK3hCBdge0siYom0AgIsasNVnGY1vNu8DdWliQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uFuW1mhNsb8", "title": "Functional Equation" },
+    { "id": "1kw0e_fJM3s", "title": "Mathematical induction with inequality" },
+    { "id": "otSZn-JXdzY", "title": "Some radical limits of trig" }
+  ]
+}

@@ -1853,5 +1853,10 @@
     "desc": "Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.",
     "officialSite": "https://copilotkit.ai",
     "topics": ["ai", "langchain", "llm", "nextjs", "open-source", "react", "reactjs", "ts", "typescript"]
+  }, {
+    "repo": "MichaelYuhe/ai-group-tabs",
+    "desc": "A Chrome extension helps you group your tabs with AI.",
+    "officialSite": "",
+    "topics": ["chrome-extension", "tabs-management"]
   }
 ]

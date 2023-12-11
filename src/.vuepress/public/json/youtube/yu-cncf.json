@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BfoqHNNhLSM", "title": "Protect your stateful Kubernetes workloads with Kanister" },
+    { "id": "4YGddKvxbr0", "title": "Cloud Native Live: Open source policy at scale" },
+    { "id": "g3OqblgRPng", "title": "Scaling with confidence - a deep dive into autoscaling in Kubernetes" },
+    { "id": "MWPNMOVkm2Y", "title": "The next evolution of WebAssembly - the component model" },
+    { "id": "I2kki5pAqQ4", "title": "Getting started with LitmusChaos 3.0 - Chaos engineering made smarter" },
+    { "id": "P8ZMONHbKoM", "title": "Reduce security alert fatigue – focus on what matters" },
+    { "id": "GAbMUEDP0fM", "title": "Falco and Atomic Red Team: Real-time threat detection in cloud native systems" },
+    { "id": "Ctyw54Gs81I", "title": "eBPF-based Kubernetes Security" },
+    { "id": "-K8R1OVXPy0", "title": "Automating your source of truth - GitOps and Terraform" },
+    { "id": "wUcli6OXR6s", "title": "Infratructure provisioning for 5G telco orchestrators" },
     { "id": "0raGKsu_UPI", "title": "Zero-Touch Fault-Tolerance for Cloud-Native Geo-Distributed Databa... Selvi Kadirvel & Aman Nijhawan" },
     { "id": "06bKlSmVwIg", "title": "CNCF Live Webinar: Overcoming the GPU shortage with virtual Kubelets & distributed cloud" },
     { "id": "b1675UWMLas", "title": "Bringing Cloud Native WASM to the mainstream with WASM Working Group - Shivay Lamba & Kevin Hoffman" },

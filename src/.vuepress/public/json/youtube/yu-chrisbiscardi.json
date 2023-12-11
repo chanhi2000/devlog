@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KqxRlsmGGa0", "title": "Day 04 - Advent of Code" },
+    { "id": "Au2DTgwrAcs", "title": "Day 06 - Advent of Code 2023" },
+    { "id": "vmTGN_0Crns", "title": "Choosing a Bevy Starter and CI to itch.io" },
+    { "id": "embH_LiFh5k", "title": "Day 08 - Advent of Code" },
+    { "id": "OcOx5NNUez0", "title": "Day 09 - Advent of Code Refactor" },
+    { "id": "_-QXvb8GJlg", "title": "Day 10 - Advent of Code" },
     { "id": "HMh2XYp82x4", "title": "Should you participate in Advent of Code this year?" },
     { "id": "xoq9S-IDcOE", "title": "Comparing Divan and Criterion" },
     { "id": "J6oIxoSyt88", "title": "Day 02 - Advent of Code 2023" },

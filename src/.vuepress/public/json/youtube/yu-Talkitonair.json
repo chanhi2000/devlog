@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-fyuzQx7tbw", "title": "기업용 LLM IBM 왓슨X 플랫폼: 왓슨.AI, 왓슨x.Data  [구해줘 AI@토크아이티, 퀀텀에이아이 최성집대표]" },
+    { "id": "bWmL6GRurh0", "title": "Goodbye CentOS! 이제는 RHEL로 마이그레이션 할 시간[토크아이티 웨비나]" },
+    { "id": "iGsGa-2fgQw", "title": "클라우드와 AI가 변화시키는 보안 동향과 SOC 변화 [구해줘 Security@토크아이티 프리미엄 웨비나, 팔로알토네트웍스]" },
+    { "id": "XzaGYzpi8aA", "title": "백업 고민 중소기업을 위한 백업 구독제 서비스: 랜섬웨어 대응, 가성비, 전문인력 지원 [구해줘 Data@토크아이티, 더품 푸미]" },
+    { "id": "yq2RhMXN-ho", "title": "제로 트러스트에 대한 현실적인 질문에, 컨설턴트가 얘기하다! [구해줘 Security@토크아이티 프리미엄 웨비나, 테이텀 시큐리티, 투이컨설팅]" },
+    { "id": "YgOBWdlERoI", "title": "복잡한 쿠버네티스 쉽게 쓸 수 없을까? 멀티클러스터 배포, 복잡한 Ci/CD, 오픈소스 업데이트 [구해줘 IT infra@토크아이티, 맨텍솔루션 이진현상무]" },
+    { "id": "QANZIXVXOkU", "title": "애자일 IT인프라를 위한 클라우드 네이티브, 오픈소스, 자동화&AI [구해줘 IT infra@토크아이티 프리미엄 웨비나, 뉴타닉스, 한국레드햇, EDB]" },
+    { "id": "SK5zj6h9Fnc", "title": "기업 AI 활용을 위한 시티즌 데이터 사이언티스트 어떻게 도와줘야 되는가? feat.데이터이쿠 AI플랫폼 [구해줘 AI@토크아이티,  데이터이쿠 김태홍이사, 쿤텍]" },
     { "id": "Fs9ZHDrXOeI", "title": "오브젝트 스토리지 검토시,  5가지 체크포인트  [구해줘 Data@토크아이티, 한결피아이에프 정승진팀장]" },
     { "id": "RosptA95L-o", "title": "컨테이너 보안을 위한 쿠버네티스 네이티브 DevSecOps  [구해줘 IT infra@토크아이티, 수세 뉴벡터, 오픈소스컨설팅]" },
     { "id": "XSj-iiYfN1o", "title": "ERP PM의 생생한 현장 VOC 와 Lessons & Learned (feat. SAP S/4HANA PCE) [ 구해줘 DX@토크아이티 프리미엄 웨비나, ASPN]" },

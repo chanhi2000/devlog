@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/9TRTsP4huIr2Rr7pagsEqf0Dl1ba38-4uEjfwGqDfKVrzFCBIBgWvco9y4g8lvllNzQHHtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dSTyFMFJUoc", "title": "Episode #431 - Hotkeys" },
     { "id": "5AkIe_qP8v4", "title": "Episode #422 - Embedding Stripe Checkout" },
     { "id": "g7z2ZPzT3Bc", "title": "Episode #417 - System Tests" },
     { "id": "Rz0mqghtweU", "title": "Episode #413 - PDF Reader" }

@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "PisA-OPisUY", "title": "Refactoring a React component - Design Patterns" },
+    { "id": "RWz23UKXdAk", "title": "Building an event calendar – React Challenge" },
     { "id": "Z20nUdAUGmM", "title": "Learn Expo Router - Complete Tutorial" },
     { "id": "9XbhH3Xbg5g", "title": "The problem with useEffect" },
     { "id": "DsWpcJNqGJI", "title": "Defining functions in useEffect" },

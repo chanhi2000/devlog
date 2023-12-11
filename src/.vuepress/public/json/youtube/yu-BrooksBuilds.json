@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "v3V8zxv6t7U", "title": "Stream archive: Planning projects until Axum 1.0 (2023-11-29 morning)" },
+    { "id": "iK-E43dQPuI", "title": "stream archive: Axum 0.7 x/twitter clone (2023-11-30)" },
+    { "id": "f6CPlzeRR24", "title": "Two SQL queries in one with UNION" },
+    { "id": "fvnUp9nZSYQ", "title": "Rusty Mad Pod Race Bronze league CodinGame" },
+    { "id": "mynsX7J1KyQ", "title": "Stream archive: sqlx migration and axum custom extractor (2023-12-1)" },
+    { "id": "7kHGDAMxick", "title": "Stream archive: X/Twitter Clone in Axum + Rust (2023-12-4)" },
     { "id": "8oNokONumB8", "title": "Stream archive: Axum middleware (2023-11-16 morning)" },
     { "id": "hao5je0b988", "title": "Stream archive: Finishing Axum Middleware article (2023-11-16 afternoon)" },
     { "id": "v3V8zxv6t7U", "title": "Stream archive: Planning projects until Axum 1.0 (2023-11-29 morning)" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/m_WGEq8pBawVi71mEKiFbnOjbkvzyWguNpcAbss54NenWDivjpbbqREAlyoRNONKNBk6QlS87A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bsoR7xI5C9g", "title": "Python Crash Course #3 - Methods & Functions" },
+    { "id": "Mg6B3RsMd54", "title": "Python Crash Course #5 - Control Flow" },
     { "id": "_u23NOHC6WU", "title": "TypeScript Crash Course #12 - Type Guards" },
     { "id": "4Eeq6RaMEhQ", "title": "CSS Tip - Using the Optional Pseudo Class #shorts" },
     { "id": "Ryg5EZi-rqE", "title": "Python Crash Course #2 - Python Basics" },

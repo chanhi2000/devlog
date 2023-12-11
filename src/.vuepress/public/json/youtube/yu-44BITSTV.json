@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/3nyxB4hDoEsxIusJ_PO-levqaXEzNhT3jHEh21gs2oA1u5lHsz-W-Lj99dN-MW_EnKA_l0LzXb8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gwWbn1EL7Ps", "title": "OpenAI DevDay 요약" },
     { "id": "0_ZsDUTqRIs", "title": "193화 Cloudflare 장애와 포스트 모텀 w/ 박미정(레이첼) 님" },
     { "id": "xJ6ueKUTARM", "title": "Next.js 13 이게 최선인가요? w/ 하조은" },
     { "id": "WDbP4N92zYE", "title": "RetroTech 만든 썰, 집에서만 현대카드 앱이 먹통?!" },

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HQ9lhS9U6u0", "title": "001_개고생하면서 배우는 C++front" },
+    { "id": "dwDujZlAnAE", "title": "001개고생하면서 배우는 Rust_Basic(LunarVim, Helix, Zellij)" },
+    { "id": "FkdqwepcVgA", "title": "009개고생하면서 배우는 C++ 분석(Modern C++)03.Basic_Concepts_II_Integral Data _Floating-point and Arithmetic" },
+    { "id": "BqBt2DbVOCA", "title": "010개고생하면서 배우는 C++ 분석(Modern C++)04.Basic_Concepts_III_Enum_Struct_Control_Flow" },
     { "id": "Jv9Dd06KxU0", "title": "개고생하면서 배우는 Rust_GUI_001_Are we GUI Yet?(egui, helix)" },
     { "id": "S8IwwWKxxHg", "title": "개고생하면서 배우는 C+분석+ 008(Modern C++)02.Basic_Concepts_I_최근에 나온 좋은 Modern_C++교재 소개" },
     { "id": "u37QEpTMJ40", "title": "개고생하면서 배우는 Rust_GUI_002_Are we GUI Yet?(egui, helix, Zellij)" },

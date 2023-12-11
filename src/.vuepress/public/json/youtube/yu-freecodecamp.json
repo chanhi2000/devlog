@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-dJPoLm_gtE", "title": "MLOps Course – Build Machine Learning Production Grade Projects" },
+    { "id": "uyhzCBEGaBY", "title": "Beginner JavaScript Project – Snake Game Tutorial" },
     { "id": "I_ShMaNw0Rc", "title": "Advanced Music Production with FL Studio – Tutorial" },
     { "id": "0CSyIBHQy9g", "title": "API Documentation Best Practices – Full Course" },
     { "id": "RMScMwY2B6Q", "title": "Build and Deploy an Instagram Clone with React and Firebase – Tutorial" },

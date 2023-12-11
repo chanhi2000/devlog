@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/AK8K7ZLYoxPuaLI6kagJkRe88IsDtsb9xKDD8qrwLppP2YCNTcgF_LGGimclPVAIwZb3Pn-vTew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uG7NLX9M82M", "title": "쿠버네티스 (Kubernetes) 객체 Workload [실습] 맛보기" },
+    { "id": "kfNUFnEnNIM", "title": "쿠버네티스 (Kubernetes) 객체 Workload [이론] 맛보기" },
+    { "id": "WQH0E0SvmQU", "title": "백엔드 개발자를 위한 Kubernetes (쿠버네티스) ㅣ 강의 오리엔테이션 미리보기" },
+    { "id": "TwiE-qHVJrk", "title": "[컴퓨터 공학] MySQL을 활용한 데이터베이스 거시적으로 보기 (feat. NoSQL까지)" },
+    { "id": "fKyX2aKhqTk", "title": "모놀리식 아키텍처 vs 마이크로 프론트엔드 아키텍처, 어떤 점이 다를까?" },
+    { "id": "vHWHk03K56Y", "title": "성능 최적화를 위한 명목코드 제거 - 느려지는 원인 '파악부터 개선까지!'" },
+    { "id": "7fPHXKQJLdY", "title": "[LIVE] 누구나 한시간이면 가능한 AI로 만드는 마케팅전략101 : 가상의 브랜드도 OK" },
     { "id": "dRLh0RX3kS8", "title": "N사 ios 음성 메모 앱 실제 기능까지 100% 구현해보기" },
     { "id": "__-s_vI6fnk", "title": "SwiftUI Animation 활용해보는 법" },
     { "id": "-Nu8gZh01ik", "title": "`getStaticProps`, `getServersideProps`로 데이터 가져오기 공공데이터 실습" },

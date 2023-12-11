@@ -39,7 +39,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-jherr" /><!-- Jack Herrington -->
 <MyYouTubeItems jsonName="yu-brianmmdev" /><!-- Brian Morrison -->
 <MyYouTubeItems jsonName="yu-CodewithSloba" /><!-- Code with Sloba -->
-<MyYouTubeItems jsonName="yu-leerob" /><!-- Lee Robinson -->
 <MyYouTubeItems jsonName="yu-codefactory_official" /><!-- 코드팩토리 -->
 <MyYouTubeItems jsonName="yu-ZeroChoTV" /><!-- ZeroCho TV -->
 <MyYouTubeItems jsonName="yu-leighhalliday" /><!-- Leigh Halliday -->
@@ -214,5 +213,6 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-webprodigies" /><!-- Web Prodigies -->
 <MyYouTubeItems jsonName="yu-codeching" /><!-- Codeching -->
 <MyYouTubeItems jsonName="yu-codewithlari" /><!-- code with lari -->
+<MyYouTubeItems jsonName="yu-testerstalk" /><!-- Testers Talk -->
 
 <TagLinks />

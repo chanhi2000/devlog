@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xjjmkg9J7Gg", "title": "Mandelbrot Set Visualization in Python" },
+    { "id": "AyrrZ4PCyws", "title": "Graph Coloring Algorithm in Python" },
+    { "id": "6ZKxcMKX4Mk", "title": "Advanced Python Dictionaries with Benedict" },
+    { "id": "sXzezIK0d7c", "title": "shutil: The Ultimate Python File Management Toolkit" },
     { "id": "hOE4KPToIuY", "title": "Color Schemes For Tkinter Python Applications" },
     { "id": "xtdS7flpaoA", "title": "Transfer Complex Python Objects via Sockets" },
     { "id": "k4bLhDolLf0", "title": "Obfuscate Python Code For Code Privacy" },

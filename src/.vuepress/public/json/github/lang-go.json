@@ -1069,5 +1069,25 @@
     "desc": "Random fake data generator written in go",
     "officialSite": "",
     "topics": ["data", "fake", "generator", "go", "golang", "random", "seed"]
+  }, {
+    "repo": "dunglas/frankenphp",
+    "desc": "The modern PHP app server",
+    "officialSite": "https://frankenphp.dev",
+    "topics": ["caddy", "frankenphp", "go", "hacktoberfest", "php", "sapi", "worker"]
+  }, {
+    "repo": "candiddev/rot",
+    "desc": "Future proof secrets management",
+    "officialSite": "https://rotx.dev/",
+    "topics": ["crypto", "secrets"]
+  }, {
+    "repo": "maxpert/marmot",
+    "desc": "A distributed SQLite replicator built on top of NATS",
+    "officialSite": "https://maxpert.github.io/marmot/",
+    "topics": ["database", "distributed", "nats-streaming", "raft-consensus-algorithm", "replication", "sqlite3"]
+  }, {
+    "repo": "a-h/templ",
+    "desc": "A language for writing HTML user interfaces in Go.",
+    "officialSite": "",
+    "topics": ["go", "hacktoberfest", "html-elements", "htmx", "ide-support", "language-server", "lsp", "server-side-rendering", "templating-languages"]
   }
 ]

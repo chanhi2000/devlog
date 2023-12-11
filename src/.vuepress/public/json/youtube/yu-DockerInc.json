@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/8e4JeFEut_R5CHrGHePLnqd444tc4T7kQV6SZ-JkR71ZZRLW1JjWmjyD9QRkOF8E_i9GgyanWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dLlxAzKVZNg", "title": "Debugging Innovation with Docker (DockerCon 2023)" },
+    { "id": "fIdfjyl_dfE", "title": "Docker Extensions: From 0 to 1 Million Installs (DockerCon 2023)" },
+    { "id": "4V-wZwxsEuY", "title": "The Matrix Reloaded Docker-ized and Multi-Platform Ready (DockerCon 2023)" },
+    { "id": "mDgrn4uuMo4", "title": "New Developments in Docker Compose (DockerCon 2023)" },
+    { "id": "ytOt4nyrBE8", "title": "The Impact of AI on Cloud-Native Engineering (DockerCon 2023)" },
+    { "id": "W5DmfuoH0LA", "title": "Supply Chain Security in the Enterprise (DockerCon 2023)" },
     { "id": "DvwRsraTphc", "title": "Getting Started with Wasm, Docker, and Kubernetes #docker #kubernetes #wasm" },
     { "id": "VOyyGX1MOU0", "title": "Docker Compose to the Rescue for Complex Projects (DockerCon 2023)" },
     { "id": "u1q8AyNMxd4", "title": "Deciding Between Volumes, Bind Mounts, and Compose Watch (DockerCon 2023)" },
