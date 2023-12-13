@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uOEDM0c9BNI", "title": "The New Global Error Handling in ASP.NET Core 8" },
+    { "id": "ez8bnUPTXwg", "title": "This C# Operator Will Simplify Your Code" },
     { "id": "PxxZcTBYi34", "title": "How To Use Both EF Core and Dapper For CQRS Queries" },
     { "id": "f7aKQkdsHf8", "title": "3 Ways to Find Maximum Element with LINQ" },
     { "id": "jncrUGb03Ac", "title": "ASP.NET Core 8 new feature: IExceptionHandler" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/9DKy95AxTFOd98MqP1P6JzG1JayMWonpB3UkQLu5noWEcyy0hdMJr94auTgNrHY8APrxdSRQKd0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2BPDwDoiw3E", "title": "Prompt Engineering for Beginners - Tutorial 11 - Image Variation" },
     { "id": "He4V-qn188k", "title": "Prompt Engineering for Beginners - Tutorial 9 - Scoring" },
     { "id": "jnXoWCJIlUQ", "title": "Prompt Engineering for Beginners - Tutorial 8 - Prompt Templates" },
     { "id": "mzliUdPTKxc", "title": "Prompt Engineering for Beginners - Tutorial 4 - Creating a Code Review Assistant" },

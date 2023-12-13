@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/B6XcrOa6Sb77IXUqaEeWeqN_Sowsz9Wq_fTtDobNFIoOqdhbVftBk1wA5Xf4-tfuu5aIs_an=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EtJETFQat0o", "title": "Boot Linux Completely in RAM" },
     { "id": "nkef9epfC3Y", "title": "Storing Special Stings" },
     { "id": "e917llZXIIg", "title": "Quick Search with apt on Linux" },
     { "id": "0wJ-dCC0Nc4", "title": "How to Archive Folders in Linux a tar and gzip tutorial" }, 

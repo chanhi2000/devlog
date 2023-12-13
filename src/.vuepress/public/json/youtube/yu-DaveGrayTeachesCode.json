@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/95FNZ18TlquKtEiM3re0tEmzvF_UmaHeNbc7_eUxi4ll1XrICq_dT2pp5ihUiI-vJRXlAAhPuAw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hQTtioSw4Zo", "title": "Nest.js REST API with CORS, Rate Limits, Server Logs, & Exception Filters" },
     { "id": "dGwe9MeZ9XU", "title": "🔥 VS Code Tweak You Might Like 👀" },
     { "id": "6He5Gyuuvxk", "title": "Nest.js REST API with Prisma ORM, Neon Postgres" },
     { "id": "kf2m_as89gI", "title": "What is ISR in Next.js? 🤔" },

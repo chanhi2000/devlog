@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "qDrNDbCWss4", "title": "Text to Speech in iOS Apps | AVSpeechSynthesizer | Convert string to voice | AVKit | Swift5 _2023-24" },
     { "id": "y10znzF133Y", "title": "ARKit Full Short course in Flutter | Face Detection in ARCamera | Detect Eye motion wt/Box,Chapter:4" },
     { "id": "13DEa5RGO8k", "title": "ARKit Full Short course in Flutter | Render Custom Object in AR Camera |ARKitReferenceNode-Chapter:3" },
     { "id": "yU-70bd5OUY", "title": "Build an AI Image Generation ChatBot with OpenAI | iPhone App with AI GenImage ChatBot, Public APIs" }, 

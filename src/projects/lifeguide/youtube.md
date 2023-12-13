@@ -47,5 +47,15 @@ meta:
 <MyYouTubeItems jsonName="yu-LastBushSurvival" /><!-- LastBush Survival -->
 <MyYouTubeItems jsonName="yu-reviewwhale90" /><!-- 리뷰하는고래 -->
 <MyYouTubeItems jsonName="yu-09-play" /><!-- 공구야놀자! -->
+<MyYouTubeItems jsonName="yu-IMCHEF00" /> <!-- 임성근 임짱TV -->
+<MyYouTubeItems jsonName="yu-1mincook" /><!-- 1분요리 뚝딱이형 -->
+<MyYouTubeItems jsonName="yu-Peace.O.K" /><!-- 피스오케이Peace O.K. -->
+<MyYouTubeItems jsonName="yu-Runaway_son" /><!-- 집나간아들 Runaway Son -->
+<MyYouTubeItems jsonName="yu-kimseoul638" /><!-- 킴서울 KIM SEOUL -->
+<MyYouTubeItems jsonName="yu-one_stretching" />  <!-- 강하나 스트레칭_stretching -->
+<MyYouTubeItems jsonName="yu-kime_kitchen" /><!-- 키메키친 Kime_kitchen -->
+<MyYouTubeItems jsonName="yu-reviewyanolza" /><!-- 리뷰야놀자 -->
+<MyYouTubeItems jsonName="yu-MrAjae" /><!-- Mr.아재 -->
+<MyYouTubeItems jsonName="yu-KUKITV" /><!-- 쿠키건강TV / KUKI HEALTH TV -->
 
 <TagLinks />

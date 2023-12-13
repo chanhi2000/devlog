@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Nn4hpY1fEJBjee0fWZ76I2sjzA-PAp4Pi9fcdWxN8hVcE3xEZ_Ge122EI9xIYf2P_V6aOqS32Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "S2n5BFGcCv0", "title": "comma ai | Human-Machine Cooperation in openpilot | Driver Monitoring | Weixing Zhang COMMA_CON talk" },
+    { "id": "H40QRJFzThQ", "title": "George Hotz | Programming | Mistral mixtral on a tinybox | AMD P2P multi-GPU mixtral-8x7b-32kseqlen" },
     { "id": "V03jwsBwmV0", "title": "comma ai | Navigate on openpilot | Mitchell Goff | COMMA_CON talks | ML Engineer | HQ version" },
     { "id": "AV5JXG8y4fA", "title": "George Hotz | Programming | hand optimizing a resnet 50 in tinygrad | tinygrad.org" }
   ]

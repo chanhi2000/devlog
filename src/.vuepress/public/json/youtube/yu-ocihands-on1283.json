@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "ocihands-on1283",
+    "name": "OCI Hands-on",
+    "profile": "https://yt3.googleusercontent.com/bmxpOUKANt2Cx0UCX3FirFU5knM-jyr-h_2Q1bAA01ydOdPHjTETLEjSEi-8YxNSnem1Et7bsQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QGexky0-GLUFRPC46O8zRiLlpOq2bc_Fye6jlDex95aK01jilP9kBzD0PlKoiaDxhsJ3d6JsORs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+  ],
+  "playlists": [
+    {
+      "title": "Storage Service",
+      "videos": [
+        { "id": "9yXqDUUIBkk", "title": "OCI Stroage Gateway + Cloud Sync 를 활용한 NAS 스토리지 백업하기 (오브젝트 스토리지 활용)" },
+        { "id": "5Yx9RY1ak8U", "title": "s3fs + OCI Object Storage를 활용한 리눅스 마운트" },
+        { "id": "2giCG2hR0ek", "title": "[OCI Hands-on] Rclone + OCI Object Storage를 활용한 파일 자동 백업 (윈도우)" },
+        { "id": "qRCMojE5yGU", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 무료프로그램 1탄 RCLONE" },
+        { "id": "VJScoBV7uPs", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 무료프로그램 2탄 S3 Browser , CloudBerry Browser" },
+        { "id": "YAJPqYpq7RM", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 유료프로그램 2탄 CloudBerry Drive" },
+        { "id": "pAdhOzFwFFA", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 유료프로그램 1탄 RaiDriver" },
+        { "id": "Cz9Gj3TDFO4", "title": "[OCI Hands-on] OCI-Storage Gateway 설치 구성" }
+      ]
+    }, {
+      "title": "Kubernetes (OKE)",
+      "videos": [
+        { "id": "5HXsc63M1ts", "title": "[OCI hands-on] OCI 관리형 Kubernetes (OKE) 환경 생성 방법" }
+      ]
+    }
+  ]
+}

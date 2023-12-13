@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "oAwlk0j5RUM", "title": "WebGPU :: Javascript at the speed of Light" },
     { "id": "oKbCaj1J6EI", "title": "Three.js Shaders (GLSL) Crash Course For Absolute Beginners" },
     { "id": "L8O6cLr4GgU", "title": "My Productivity System as a Software Engineer ( Vim, VsCode, Planning, ... )" }
   ]

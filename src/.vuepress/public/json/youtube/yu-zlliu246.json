@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "zlliu246",
+    "name": "Liu Zuo Lin",
+    "profile": "https://yt3.googleusercontent.com/qpZRmFspDJ_YYgP2E-b4YyIJ0tZy1FX6IiAxSwDCPs9GoEokjl3mMuxpjZASDC_KQkuAWjiZQg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Z4WupQQdMsQ", "title": "7 Things I Recently Knew About Python Classes & Object-Oriented Programming in Python" },
+    { "id": "Yfc_a8-2oGQ", "title": "6 Things I Never Knew About Python LOOPS Until Recent Years" }
+  ]
+}

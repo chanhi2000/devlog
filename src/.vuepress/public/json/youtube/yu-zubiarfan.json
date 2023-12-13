@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "gN0knvL-EHY", "title": "Rust Algorithm Challenges | Part 1" },
+    { "id": "4NPut7uFE78", "title": "Rust Algorithm Challenges | Part 2" },
     { "id": "_EREi8kJ8z8", "title": "🦀 Full Rust Beginner's Course - Part 1" }
   ]
 }

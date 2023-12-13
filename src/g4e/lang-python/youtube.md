@@ -58,5 +58,7 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-realpython" /><!-- Real Python -->
 <MyYouTubeItems jsonName="yu-elliotarledge" /><!-- Elliotcodes -->
 <MyYouTubeItems jsonName="yu-pseudocode.2573" /><!-- Pseudocode. -->
+<MyYouTubeItems jsonName="yu-pyconza" /><!-- PyCon South Africa -->
+<MyYouTubeItems jsonName="yu-zlliu246" /><!-- Liu Zuo Lin -->
 
 <TagLinks />

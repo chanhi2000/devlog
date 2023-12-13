@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "r6qEIAmTBdY", "title": "mutableStateOf() VS. mutableIntStateOf() - Auto-Boxing Explained" },
+    { "id": "0n8asCc_Hxo", "title": "When Should You Use a 3rd Party Library?" },
+    { "id": "fp1-YSmdzh8", "title": "Full Guide to Multiple Back Stacks in Jetpack Compose - Android Studio Tutorial" },
     { "id": "ySt16uOgpC4", "title": "Clean Architecture in 20 Seconds" },
     { "id": "g4XSWQ7QT8g", "title": "Shared Navigation on Kotlin Multiplatform with Decompose (KMP)" },
     { "id": "PXnVry_emns", "title": "Is it okay to use runBlocking?" },

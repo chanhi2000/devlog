@@ -6,8 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-YGdX6fT3R2paQngKFyRe0VX74f24_JQG-MtHXxPVqAKzKyP7554ARzUpnnvL9aIOv9aap3z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "yQLYpB7p3hA", "title": "VirtualBox 에 Oracle Linux 8.7 설치, 외부에서 게스트서버 접속" }, 
-    { "id": "nEdHN4UXsyM", "title": "CTF, TAF, TAC 비교 차이점 설명" }
+    { "id": "yQLYpB7p3hA", "title": "VirtualBox 에 Oracle Linux 8.7 설치, 외부에서 게스트서버 접속" }
   ],
   "playlists": [
     {
@@ -41,6 +40,66 @@
         { "id": "-qRp6PpdtQs", "title": "Noarchive 모드 DB 에서 RMAN 백업 및 복구 실습" },
         { "id": "Qbt3jRPYzXM", "title": "RMAN Tablespace 단위 복구 실습 (헉;; 우째 되는게 하나도 없누^^)" },
         { "id": "UhgUzFlgZXs", "title": "멀티테넌트 PDB RMAN 백업,복구 실습" }
+      ]
+    }, {
+      "title": "오라클 RAC 강좌",
+      "videos": [
+        { "id": "2JoXfMy_WE0", "title": "1  Oracle RAC 구조 설명, ip체계, crs 로그 등" },
+        { "id": "q0F510JLS_Y", "title": "2  Oracle RAC 인터커넥트, Split Brain 설명" },
+        { "id": "dornIE_FcCA", "title": "3  Oracle RAC ASM 스토리지 asmcmd" },
+        { "id": "qHc08K4jD8U", "title": "4  Oracle RAC 캐시퓨전, gc 이벤트 설명" },
+        { "id": "wqlB72idJWM", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 1 (버츄얼박스에 Oracle Linux 8 설치)" },
+        { "id": "BHa5iMSYvNs", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 2 (ASM 공유스토리지 생성)" },
+        { "id": "Z09XJ_CmwPA", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 3 (Grid Infrastructure 설치)" },
+        { "id": "EXMs4M03aTM", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 4 (RAC SW설치 및 DB 생성)" },
+        { "id": "7VjC4x7KEJw", "title": "Oracle RAC 구성 점검 항목 설명" },
+        { "id": "9DvTAtGGwIg", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 1 (버츄얼박스에 Oracle Linux 7 설치)" },
+        { "id": "8W7ZF3WBbfI", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 2 (ASM 공유스토리지 생성)" },
+        { "id": "2T3XxG50pLs", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 3 (Grid Infrastructure 설치)" },
+        { "id": "hXAnwSyb5WM", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 4 (RAC DB SW설치 및 DB 생성)" },
+        { "id": "H3xy_1o_WRg", "title": "오라클 클러스터 파일시스템 ACFS 생성 방법" },
+        { "id": "USc14nfUZHo", "title": "RAC 주요커맨드 crsctl, srvctl 사용법" },
+        { "id": "C_e-c2xlzLA", "title": "Oracle RAC 서비스IP 중에 vip의 용도는" },
+        { "id": "nEdHN4UXsyM", "title": "CTF, TAF, TAC 비교 차이점 설명" }
+      ]
+    }, {
+      "title": "프로그래밍, IT",
+      "videos": [
+        { "id": "TN8RN-YK_D0", "title": "오라클 자바 JDBC 프로그램 실습 #2 (UCP 커넥션풀 사용)" },
+        { "id": "WRvcxIdVK7M", "title": "오라클 자바 JDBC 프로그램 실습 #1 (초간단 심플 버전)" },
+        { "id": "L22YWlWOpNY", "title": "넷빈즈 자바팁   JLabel Gif 이미지 겹쳐서 보이는 방법" },
+        { "id": "CWcVk050cK0", "title": "VirtualBox 에 Oracle Linux 7.9 설치, 외부에서 게스트서버 접속" },
+        { "id": "kxiZTZZY0A8", "title": "우분투 Linux Server 에 Oracle Database 19c, 21c 설치하는 방법" },
+        { "id": "yhmPr44y31E", "title": "우분투 Linux Server Gnome 데스크탑 GUI 설치, VB 게스트확장 설치" },
+        { "id": "zI6dHqrNRKs", "title": "VirtualBox 에 Ubuntu Linux Server 22.04 설치, 외부에서 게스트서버 접속" },
+        { "id": "l61EySpySJU", "title": "Oracle Linux 부팅시 초기 커널선택화면 변경방법 grubby" },
+        { "id": "NLZyxE9g8As", "title": "넷빈즈 자바로 MS Access DB 접속하는 간단 샘플 프로그램" },
+        { "id": "z6O1snex7f8", "title": "넷빈즈 자바팁   탭기능Tabbed Pane 사용하는 방법" },
+        { "id": "hFwdWUtBMMI", "title": "넷빈즈 자바팁   윈도우즈JFrame 아이콘 이미지 바꾸기 팁" },
+        { "id": "klPsnlk3Tp0", "title": "넷빈즈 자바 프로그램 만들기   아날로그 시계 간단예제" },
+        { "id": "L8lZ_42UKsE", "title": "파워포인트 시작시 초기화면 없애는 방법" },
+        { "id": "fVRXmNve-cs", "title": "Windows10 에서 ssh, scp, sftp, telnet 이용하기" },
+        { "id": "nAimPR5NJhk", "title": "Java Swing, FX 프로그램, Python, Visual Basic 장단점 비교" },
+        { "id": "8Bn3OWDnuGE", "title": "넷빈즈 자바 프로그램 만들기   Bouncing Ball 간단예제" },
+        { "id": "a8DVAvBWlKk", "title": "넷빈즈 자바 프로그램 만들기   Oracle Tablespace 여유공간 체크" },
+        { "id": "M0y4s1jprFs", "title": "윈도우즈10 공간확보 팁, 쓰레기 파일 삭제" },
+        { "id": "AUTi7GLpGFE", "title": "넷빈즈 자바로 Oracle DB 접속하는 간단 프로그램1" },
+        { "id": "HLlPeFxplmA", "title": "윈도우즈에서 bash, tail, vi, df, find 커맨드 등을 이용할 수 있는 Git bash" },
+        { "id": "LLvNpi5AxeI", "title": "Windows10 사용자계정(로그인계정) 이름 변경하는 방법" },
+        { "id": "2RL_8iY8VG0", "title": "VirtualBox 에 윈도우즈10 설치, 랜섬웨어 방지" }
+      ]
+    }, {
+      "title": "Java Swing (넷빈즈) 프로그램 강좌",
+      "videos": [
+        { "id": "AUTi7GLpGFE", "title": "넷빈즈 자바로 Oracle DB 접속하는 간단 프로그램1" },
+        { "id": "a8DVAvBWlKk", "title": "넷빈즈 자바 프로그램 만들기   Oracle Tablespace 여유공간 체크" },
+        { "id": "8Bn3OWDnuGE", "title": "넷빈즈 자바 프로그램 만들기   Bouncing Ball 간단예제" },
+        { "id": "nAimPR5NJhk", "title": "Java Swing, FX 프로그램, Python, Visual Basic 장단점 비교" },
+        { "id": "klPsnlk3Tp0", "title": "넷빈즈 자바 프로그램 만들기   아날로그 시계 간단예제" },
+        { "id": "hFwdWUtBMMI", "title": "넷빈즈 자바팁   윈도우즈JFrame 아이콘 이미지 바꾸기 팁" },
+        { "id": "z6O1snex7f8", "title": "넷빈즈 자바팁   탭기능Tabbed Pane 사용하는 방법" },
+        { "id": "NLZyxE9g8As", "title": "넷빈즈 자바로 MS Access DB 접속하는 간단 샘플 프로그램" },
+        { "id": "L22YWlWOpNY", "title": "넷빈즈 자바팁   JLabel Gif 이미지 겹쳐서 보이는 방법" }
       ]
     }
   ]

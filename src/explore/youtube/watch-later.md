@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Watch Later
 description: 📺Youtube > Watch Later
-tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@HoneyHome_Tip", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@ayshh", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@9buyrithm", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang", "@salimtalk", "@salim_nam"]
+tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@HoneyHome_Tip", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@ayshh", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@9buyrithm", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -61,6 +61,7 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
 <MyYouTubeItems jsonName="yu-TheoriTV" /><!-- 티오리티비 TheoriTV -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
+<MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 
 <TagLinks />
 
@@ -92,7 +93,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-user-nq5st4fy5n]: https://www.youtube.com/@user-nq5st4fy5n
 [yu-alexandrugutan7587]: https://www.youtube.com/@alexandrugutan7587
 [yu-wizcenter-seoul]: https://www.youtube.com/@WizcenterSeoul
-[yu-murtazas-workshop]: https://www.youtube.com/@murtazasworkshop
 [yu-user-ku2nm2bp1t]: https://www.youtube.com/@user-ku2nm2bp1t
 [yu-siva-reddy]: https://www.youtube.com/@SivaReddyJavaTechie
 [yu-na-nyun-jae]: https://www.youtube.com/@NaNyunJae

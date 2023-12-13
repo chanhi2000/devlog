@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I8yUpHfqZPY", "title": "회원관리솔루션 [웹,앱,WCF,MSSQL] - 1. 솔루션 소개 및 테이블 생성 및 저장 프로시저 만들기" },
     { "id": "QvjA-0WaCB0", "title": "t분포 [파이썬으로 다루는 통계]" },
     { "id": "nYuDSQ1dfBE", "title": "[경로찾기 프로젝트] 5. 경로 찾기 Final - C# 카카오 지역 API, 로컬 API + SK TMAP API" },
     { "id": "1U7WIYA7HF0", "title": "중심 극한 정리  [파이썬으로 다루는 통계]" },

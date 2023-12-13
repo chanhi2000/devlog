@@ -14,5 +14,6 @@ tags: ["ruby", "youtube", "programming"]
 ---
 
 <MyYouTubeItems jsonName="yu-DriftingRuby" /><!-- Drifting Ruby  -->
+<MyYouTubeItems jsonName="yu-codeops-show" /><!-- CodeOps Show -->
 
 <TagLinks />

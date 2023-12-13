@@ -121,5 +121,6 @@ meta:
 <MyYouTubeItems jsonName="yu-SpringSourceDev" /><!-- SpringDeveloper -->
 <MyYouTubeItems jsonName="yu-CodeWisTechnologies" /><!-- CodeWis Technologies -->
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 하찮은오후 -->
+<MyYouTubeItems jsonName="yu-ssap-dba" /><!-- 쌉DBA -->
 
 <TagLinks />

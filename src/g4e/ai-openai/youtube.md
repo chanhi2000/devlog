@@ -55,5 +55,6 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-engineerprompt" /><!-- Prompt Engineering -->
 <MyYouTubeItems jsonName="yu-ConnerArdman" /><!-- Conner Ardman -->
 <MyYouTubeItems jsonName="yu-unconv" /><!-- Unconventional Coding -->
+<MyYouTubeItems jsonName="yu-AI-km1yn" /><!-- 모두의AI -->
 
 <TagLinks />

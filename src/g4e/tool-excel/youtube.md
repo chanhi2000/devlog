@@ -44,5 +44,6 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx"]
 <MyYouTubeItems jsonName="yu-5953kim" /><!-- EXCEL AND VBA -->
 <MyYouTubeItems jsonName="yu-ssaemae" /><!-- 쌤매 -->
 <MyYouTubeItems jsonName="yu-DatasetGuru" /><!-- Dataset Guru -->
+<MyYouTubeItems jsonName="yu-vertex42" /><!-- Vertex42 -->
 
 <TagLinks />

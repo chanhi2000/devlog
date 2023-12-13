@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/SIw6Tay4jTyB2K6R-KoKZgQf3GQyQdl-ss06Ti-KCERihI8Pfg2JmIC0jxsDSKonuv9vPuBPWQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EfIYJKw8AkA", "title": "Harnessing the Power of AI Assistant in IntelliJ IDEA" },
     { "id": "moi49_V_4g0", "title": "IntelliJ IDEA: Explore project structure with the Dependency Matrix" },
     { "id": "ui-bm4MwGp0", "title": "Apache Maven: Collaborative Mastery" },
     { "id": "d_XmNicqC2I", "title": "Java 21: Focus on Virtual Threads and Pattern Matching" },
@@ -33,4 +34,3 @@
     { "id": "z2Bt971k1EE", "title": "OAuth for Java Developers" }  
   ]
 }
-

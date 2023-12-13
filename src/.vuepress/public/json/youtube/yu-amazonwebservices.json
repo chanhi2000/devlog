@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8gansONMH_0", "title": "Back to Basics: Getting a Grip on EBS Backed EC2s" },
+    { "id": "1N9twFTrtD4", "title": "Back to Basics: Handling Communications Between Applications" },
     { "id": "Z-lXuWSsDLU", "title": "如何解决使用 SSH 连接到 Amazon EC2 Linux 实例时出现的问题？" },
     { "id": "2JW6_2CEvcc", "title": "Optimize Storage Costs for Rarely-accessed Files with Amazon EFS Archive | Amazon Web Services" },
     { "id": "__Gj4E4TDKw", "title": "Introduction to Trusted Identity Propagation with IAM Identity Center | Amazon Web Services" },

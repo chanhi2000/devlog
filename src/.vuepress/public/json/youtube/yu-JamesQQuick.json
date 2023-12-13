@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/StC9GOxgXbmFL9yXgjzYQneqJ3iQRYKWMSp5a_eTvbq--zwpyaOGJMT1HIWTFp7lRpUXWpEo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PZn0fEjOM2s", "title": "Global Search in Next.js in 60 Seconds #nextjs14" },
     { "id": "i8yxx6V9UdM", "title": "How to Upload Files in Node.js Using Express and Multer" },
     { "id": "jIjTypQYM8w", "title": "My Problem with Next.js Server Actions" },
     { "id": "zPK-kGYprnE", "title": "20+ AMAZING VS Code Tips I Wish I Knew Earlier" },

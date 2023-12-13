@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/pyzOIA2GhtJ4hE-z5K9whw5IKtPCD06quvhlu021c7Iy-WzkvzAp3P4nwMCqWBXnATa1MqQPyQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GFyUHBfMAT8", "title": "[chatGPT]쇼츠 영상 자동 생성 오픈소스 튜토리얼" },
     { "id": "PCyw_JO5zQ4", "title": "앤스로픽의 게임체인저, 클로드 2.1: 어떻게 GPT-4를 능가하나?" },
     { "id": "jqunCFTAsWQ", "title": "시맨틱 검색을 코딩 없이 쉽게 txtai로 만듭니다." },
     { "id": "GLmMKl3OSD8", "title": "gradient(그래디언트)와 Llama 2 모델로 파인튜닝하기: 가격, 장점 및 튜토리얼" }

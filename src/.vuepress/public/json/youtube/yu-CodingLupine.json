@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/j7q8nsWymqi6zyuJPINOkX08YeXrMUxbED8YmoXjOpF9ZSLnRUkQ2Nb-MDtM0Pm17ORB8w87=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KNfNopXVYyc", "title": "MSA 환경, 대기업에서 카프카 kafka 쓰는이유 | 스터디 리뷰 kafka ep1" },
     { "id": "-KMpVO3XZNM", "title": "대규모 트래픽 처리를 위한 스케일 확장성 SW 아키텍처 패턴 | 스터디 리뷰 ep2" },
     { "id": "orD41TmMwUE", "title": "[스터디 리뷰] SW 아키텍처 패턴 - 공부이유" },
     { "id": "2ESQqZ_Ec6k", "title": "개발자 취업에서 성공할 프로젝트 유형 2편 - 프론트" },

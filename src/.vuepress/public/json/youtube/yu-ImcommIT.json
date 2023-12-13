@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "JST1ZumvUQM", "title": "Attention과 Transformer 차이?" },
     { "id": "S5_9lYB4sAE", "title": "O(N²)도 맞긴 한데.. 더 빠르게는요?" }
   ]
 }

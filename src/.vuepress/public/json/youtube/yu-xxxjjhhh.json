@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RPLodGi1uSo", "title": "셀레늄 13 : iframe 변경" },
+    { "id": "WtT4t7QM2aw", "title": "셀레늄 12 : 특정 문자열 찾기" },
+    { "id": "UpwJOImeYcA", "title": "Resilience4J 1 : MSA 장애 대응 방법" },
     { "id": "GbTOoJ0Y5eA", "title": "스프링 시큐리티 12 : InMemory 방식 유저 정보 저장" },
     { "id": "7gEqj2_pcto", "title": "스프링 시큐리티 13 : http basic 방식 로그인" },
     { "id": "SsdDnI3bHcI", "title": "스프링 시큐리티 10 : 세션 설정 (소멸, 중복 로그인, 고정 보호)" },

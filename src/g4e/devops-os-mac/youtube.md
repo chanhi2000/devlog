@@ -42,5 +42,6 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 <MyYouTubeItems jsonName="yu-TechHut" /><!-- TechHut -->
 <MyYouTubeItems jsonName="yu-RetroGameCorps" /><!-- Retro Game Corps -->
 <MyYouTubeItems jsonName="yu-macvince" /><!-- MacVince -->
+<MyYouTubeItems jsonName="yu-ProperHonestTech" /><!-- Proper Honest Tech -->
 
 <TagLinks />

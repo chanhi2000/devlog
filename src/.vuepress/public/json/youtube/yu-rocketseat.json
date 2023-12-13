@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Wa8TAeikEPnAN6keyurzRiQCs07wqkpIBijsE4oCYDBQHILKyt2y0A1uWaTfR73u7PP54JL8Lg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ugDAPN3rhIE", "title": "Desmistificando Big-O Notation com Daniel Costa!" },
     { "id": "EpXYPB1rv4w", "title": "Como sair do ZERO em JAVA em 1h - com @kipperdev" }, 
     { "id": "hdex1hj1dmk", "title": "Server Components no React em 5 minutos!" }, 
     { "id": "2hwSlMKvULI", "title": "Masterclass | Nova formação de Java | Ao vivo" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "bit-by-bit",
+    "name": "Bit by Bit - 코딩으로 이뤄가는 아메리칸 드림",
+    "profile": "https://yt3.googleusercontent.com/MET1SF12f05DA8X-uV_7ttrrbzvyWYAFhLVRt1MMw64hsqxWy8FXa9u543nIdXvyWtZ7f0d6Ow=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5btsY9hpNrVD7BqZQyIk4ihgypyxt1UHSnKQywv7AI-966LDO8lpcsKQxWJ9LIZVy5nL1Y_V=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tt4Jo3ffDzE", "title": "성공적인 개발자들이 사용하는 지식을 씹어 먹는 한 가지 방법" }
+  ]
+}

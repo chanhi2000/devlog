@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/T4k6KqTRG68WJoq2MqLXvIrk6dJtNDgpYnFdROEalblaB5_vhWZV5SBD5wEQBQVX_SN8e46j=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "swPBNKKPK0E", "title": "Get Hands-on Experience with Generative AI - watsonx AI Prompt Lab" },
+    { "id": "AINoTKMZSGI", "title": "Putting AI to Work for Application Modernization" },
     { "id": "vxtq_pJp7_A", "title": "Containers vs Pods" }, 
     { "id": "KUYCksB7e0g", "title": "Got Sensitive Cloud Data? Data Security Posture Management Helps Protect It" },
     { "id": "n1IrNe5MmZg", "title": "Backstage.io - An Open Source Portal for Taming Developer Chaos" },

@@ -21,28 +21,8 @@
         { "id": "ijcNKDEfz58", "title": "쉽고 빠르게 배우는 vue.js 강의 2-3] 데이터 바인딩 (Data Binding)" },
         { "id": "OsPiT8w_aG4", "title": "쉽고 빠르게 배우는 vue.js 강의 2-4] 반응성 (Reactivity)" },
         { "id": "1K4FP6veNu4", "title": "쉽고 빠르게 배우는 vue.js 강의 3-1] v-bind" },
-        { "id": "p2pp5Z34_po", "title": "쉽고 빠르게 배우는 vue.js 강의 3-2] v-for" },
-        { "id": "RitmmmjbckQ", "title": "쉽고 빠르게 배우는 vue.js 강의 3-3] v-if와 v-show" },
-        { "id": "HyJSKccwPZY", "title": "쉽고 빠르게 배우는 vue.js 강의 3-4] v-on" },
-        { "id": "ThFkMqcMJ4U", "title": "쉽고 빠르게 배우는 vue.js 강의 3-5] v-model" },
-        { "id": "zZod8UdOhrk", "title": "쉽고 빠르게 배우는 vue.js 강의 4-1] ref vs reactive" },
-        { "id": "UHBbpZpDqgY", "title": "쉽고 빠르게 배우는 vue.js 강의 4-2] computed" },
-        { "id": "0vvx5BHsGgk", "title": "쉽고 빠르게 배우는 vue.js 강의 4-3] Watcher" },
-        { "id": "zg3cwYCEVbM", "title": "쉽고 빠르게 배우는 vue.js 강의 5-1] Single File Components" },
-        { "id": "4WfcNsH-EDs", "title": "쉽고 빠르게 배우는 vue.js 강의 5-2] Vue 프로젝트 생성" },
-        { "id": "OOkQkFu6r2Y", "title": "쉽고 빠르게 배우는 vue.js 강의 5-3] script setup, style scoped" },
-        { "id": "ipr8wusPIvU", "title": "쉽고 빠르게 배우는 vue.js 강의 5-4] Life Cycle Hook" },
-        { "id": "FQscfVLScmM", "title": "쉽고 빠르게 배우는 vue.js 강의 5-5] Template refs" },
-        { "id": "Jnut_hDXuVU", "title": "쉽고 빠르게 배우는 vue.js 강의 5-6] 비동기 컴포넌트" },
-        { "id": "h-d8aGIeiLQ", "title": "쉽고 빠르게 배우는 vue.js 강의 6-1] Notion 사용법" },
-        { "id": "o7SszQLAvOE", "title": "쉽고 빠르게 배우는 vue.js 강의 6-2] Notion 데이터 불러오기" },
-        { "id": "d9ZlaEilxto", "title": "쉽고 빠르게 배우는 vue.js 강의 7-1] Props" },
-        { "id": "PpE5nFVuZLQ", "title": "쉽고 빠르게 배우는 vue.js 강의 7-2] Emits" },
-        { "id": "YdL2bHJpLBQ", "title": "쉽고 빠르게 배우는 vue.js 강의 7-3] Provide와 Inject" },
-        { "id": "SD0tcx1Wmos", "title": "쉽고 빠르게 배우는 vue.js 강의 7-4] Fallthrought Attributes" },
-        { "id": "1BOGpBrQ0Gc", "title": "쉽고 빠르게 배우는 vue.js 강의 7-5] Component v-model" },
-        { "id": "tkJymTadz4U", "title": "쉽고 빠르게 배우는 vue.js 강의 7-6] slots" }
+        { "id": "p2pp5Z34_po", "title": "쉽고 빠르게 배우는 vue.js 강의 3-2] v-for" }
       ]
-    }    
+    }
   ] 
 }

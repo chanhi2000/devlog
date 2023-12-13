@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/_2yJlN6rNRa30qfFamUS-EujV2D73JZHQwgPeCMCPSxmlpiDvcizvOjuG_irlFOVxDh_5ohk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "P1HaQUuhmpc", "title": "TypeScript 5+ Fundamentals, v4 with Mike North | Preview" },
     { "id": "s0yMLhScHF8", "title": "Erik Reinert - From Tech Support to Backend Dev and Beyond | The Frontend Masters Podcast Ep.5" }, 
     { "id": "CcLgQaJIyn0", "title": "Miško Hevery: Creator of AngularJS & now Qwik | The Frontend Masters Podcast Ep.4" },
     { "id": "MfVB-CAFzKo", "title": "Practical CSS Layouts by Jen Kramer | Preview" }, 

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Unrealscience",
+    "name": "안될과학 Unrealscience",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQfGySdD9MJa0z1AghDZ1sniKKstSJu3nV55xON=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X1OFoD8Kobw3D2jrkxDI5kg8i0eFvgyNPXqHPW2F6xFGCmaXaPtnsdGkSnEu8jE38Of2-PFm7QU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "E_dEpQq-Crs", "title": "데이터는 어떻게 관리할까? DBMS의 역사와 오픈소스DBMS [안될과학-긴급과학 X 인젠트]" }
+  ]
+}

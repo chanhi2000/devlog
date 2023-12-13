@@ -27,7 +27,6 @@
     { "id": "ynV_DX_TNgM", "title": "TestProject Tutorial 16 | API - Introduction & Demo" }, 
     { "id": "bGqS0f4Utn4", "title": "Jenkins Beginner Tutorial 8 - Jenkins integration with GIT (SCM)" }, 
     { "id": "BKefIqoUD3w", "title": "Selenium Cucumber Java BDD Framework 6 - Page Object Model | Step by Step" }, 
-    { "id": "TnGeFFoz16U", "title": "AccelQ Beginner Tutorial 10 | SOAP API Testing" }, 
     { "id": "KDztFuXqnwo", "title": "Selenium Cucumber Java BDD Framework 3 - First Selenium Test | Mac | Step by Step | Raghav Pal" }, 
     { "id": "vgHp37LY_PY", "title": "TestProject Tutorial 11 |  How to generate Java Code | How to run Tests from Java project" }, 
     { "id": "J5l2fepRelk", "title": "Postman Beginners Crash Course - Part 1 | Postman Introduction, GUI, Request creation" }, 
@@ -38,6 +37,23 @@
     { "id": "ylEy4eLdhFs", "title": "GitHub Actions Step by Step DEMO for Beginners" }, 
     { "id": "1Fy3jU-XGm4", "title": "Katalon Studio | How to use Smart XPath Plugin" }, 
     { "id": "Ops94dNqZ-0", "title": "3 | Ansible Hands-On Demo Project | Step by Step for Beginners" }
+  ],
+  "playlists": [
+    {
+      "title": "AccelQ Beginner Tutorials",
+      "videos": [
+        { "id": "aqmTgMdvXg8", "title": "AccelQ Beginner Tutorials 1 | What is AccelQ | Automation with DevOps" },
+        { "id": "on3su--zQ4I", "title": "AccelQ Beginner Tutorials 2 | How to create Context in AccelQ" },
+        { "id": "cV1oj8fC9rk", "title": "AccelQ Beginner Tutorials 3 | How to create Action in AccelQ" },
+        { "id": "e9Zqy8JBMuA", "title": "AccelQ Beginner Tutorials 4 | How to create a Scenario in AccelQ" },
+        { "id": "o4q7tmdDNiw", "title": "AccelQ Beginner Tutorials 5 | Parameterization | Data Driven testing in AccelQ" },
+        { "id": "3m81G7KZoGk", "title": "AccelQ Beginner Tutorials 6 | Real-world examples Parameterization | How to parameterize date field" },
+        { "id": "wTXS5ET0PV0", "title": "AccelQ Beginner Tutorials 7 | Elements Identification in AccelQ" },
+        { "id": "jFoBWtUbrs0", "title": "AccelQ Beginner Tutorial 8 | How to test REST API" },
+        { "id": "nkl5oqvFHMo", "title": "AccelQ Beginner Tutorial 9 | How to create Local REST API for Testing" },
+        { "id": "TnGeFFoz16U", "title": "AccelQ Beginner Tutorial 10 | SOAP API Testing" }
+      ]
+    }
   ]
 }
  

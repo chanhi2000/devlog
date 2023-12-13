@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "with-neighbors",
+    "name": "이웃팔촌",
+    "profile": "https://yt3.googleusercontent.com/M-gxGx7O9_zv0yABMBcfjKZUg-d2PRG9Q5m2bn-SL6mfsu5LvzcPy3ovNWgB15FEF_nihemROQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4lLLNuwQWHI", "title": "[node.js 6-1(3)] fetch 사용방법" }
+  ]
+}

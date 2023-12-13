@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "2x6OO17Gkjo", "title": "프론트, 개념, 자바스크립트 기초, 변수" },
     { "id": "8bA3UfRHUXM", "title": "프론트, 개념, CSS, inline 요소에는 width, height, padding, margin이 작동하지 않는다" }
   ]
 }
