@@ -165,6 +165,16 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-js-react/youtube.md',
       ]
     }, {
+      text: '🌲Vue.js',
+      collapsible: true,
+      children: [
+        '/g4e/lang-js-vue/README.md',
+        '/g4e/lang-js-vue/snippets.md',
+        '/g4e/lang-js-vue/references.md',
+        '/g4e/lang-js-vue/github.md',
+        '/g4e/lang-js-vue/youtube.md',
+      ]
+    }, {
       text: '🧜‍♀️Mermaid.js',
       collapsible: true,
       children: [
@@ -885,6 +895,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/72.md',
         '/crashcourse/swift-100-days-of-swift/73.md',
         '/crashcourse/swift-100-days-of-swift/74.md',
+        '/crashcourse/swift-100-days-of-swift/75.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -953,6 +964,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/60.md',
         '/crashcourse/swift-100-days-of-swiftui/61.md',
         '/crashcourse/swift-100-days-of-swiftui/62.md',
+        '/crashcourse/swift-100-days-of-swiftui/63.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1175,6 +1187,11 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/ruby-rubyonjets-learning-content/20190205-api-gateway-jets-introductory-series-part-2.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20190206-cloudwatch-event-rule-jets-introductory-series-part-3.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20190211-hello-world-examples-jets-introductory-series-part-4',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180907-jets-tutorial-crud-app-introduction-part-1.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180908-jets-tutorial-deploy-to-aws-lambda-part-2.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180909-jets-tutorial-debugging-logs-part-3.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180910-jets-tutorial-background-jobs-part-4.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180911-jets-tutorial-iam-policies-part-5.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',

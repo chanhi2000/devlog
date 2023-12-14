@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "XCVp9MOmevo", "title": "JavaScript Variables and Scopes Explained | Let vs Const vs Var | javascript concept(part 1)" },
     { "id": "luPAHZ9gS28", "title": "Javascript #includes  method" }
   ]
 }

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BRaltelZt6U", "title": "Build your own course assistant with AI" },
+    { "id": "v84VOudElNI", "title": "Minimal API +SPA, a perfect match" },
+    { "id": "AYjDz_SyaFA", "title": "Building intelligent applications with Blazor and Open AI Service" },
+    { "id": "lFmFJZIgOvw", "title": "Get started building mobile & desktop apps with .NET" },
+    { "id": "gdQjX2qcoNU", "title": "Games in Godot! Let's make a classic paddle game with C#!" },
+    { "id": "jBdi-hpEGng", "title": "Using .NET for game development" },
+    { "id": "5ChGYf10z1M", "title": "Coding a drone using .NET and Chat GPT AI and flying it in mixed reality" },
     { "id": "u-6x3mUF60A", "title": "On .NET Live - Azure Functions with .NET" },
     { "id": "hdZgsRBIoes", "title": "Customizing your labels with FormattedText | .NET MAUI Minutes" },
     { "id": "zENu82HwwGI", "title": "Hack Together .NET: The Great .NET 8 Hack - Generative AI for the .NET Developer" },

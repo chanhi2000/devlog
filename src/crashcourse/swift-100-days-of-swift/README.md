@@ -218,7 +218,7 @@ We’re going to tackle two tough projects back to back, but in doing so you’l
 - [Day 72][day-72] – Project 21, part one
 - [Day 73][day-73] – Project 21, part two
 
-### Day 74: Consolidation VIII
+### ✅Day 74: Consolidation VIII
 
 After two tough projects and yet another important technique, it’s time to hit the brakes for a day and double check everything is sinking in.
 
@@ -228,7 +228,7 @@ After two tough projects and yet another important technique, it’s time to hit
 
 These next three projects will start to show you just how much you’re now able to build with iOS – your skills are really starting to flourish!
 
-- [Day 75][day-75] – Project 22, part one
+- ✅[Day 75][day-75] – Project 22, part one
 - [Day 76][day-76] – Project 22, part two
 - [Day 77][day-77] – Project 23, part one
 - [Day 78][day-78] – Project 23, part two
@@ -364,7 +364,7 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-72]: 72.md
 [day-73]: 73.md
 [day-74]: 74.md
-[day-75]: https://www.hackingwithswift.com/100/75
+[day-75]: 75.md
 [day-76]: https://www.hackingwithswift.com/100/76
 [day-77]: https://www.hackingwithswift.com/100/77
 [day-78]: https://www.hackingwithswift.com/100/78

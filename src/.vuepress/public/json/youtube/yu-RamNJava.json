@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/dy3cphCeA7ZmAx2Rv5QQ3l3F9G-Czt6bRTCDWMuGUVwpE2YuHutXyUtZNwLXizGnQv2e88AE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xVn2qRmVyqQ", "title": "HTTP Requests Explained: Pizza Shop Ordering Analogy for Beginners | How HTTP Requests Work" },
+    { "id": "ITPpTckZmSE", "title": "Understanding HTTP Response: A Simple Explanation for Beginners | How HTTP Response Works" },
     { "id": "Cc_6mYt-lZU", "title": "Simplified Explanation of HTTP Requests for Beginners | How HTTP Requests Work" },
     { "id": "8MTgrHsurM4", "title": "Demystifying HTTP Requests: Library and Restaurant Analogies | How HTTP Requests Work" },
     { "id": "GCFwlrodSas", "title": "HTTP Headers Explained Using a Letter Sending Analogy | HTTP Headers Unveiled" },

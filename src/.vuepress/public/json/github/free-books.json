@@ -119,5 +119,10 @@
     "desc": "The Standard Webhooks specification",
     "officialSite": "https://www.standardwebhooks.com/",
     "topics": ["api", "asyncapi", "callbacks", "http", "json", "openapi", "specification", "standard", "standard-webhooks", "webhook", "webhooks"]
+  }, {
+    "repo": "krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

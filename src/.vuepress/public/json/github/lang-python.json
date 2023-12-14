@@ -3548,5 +3548,20 @@
     "desc": "✨ Declarative CRUD Endpoints & Tests with Django Ninja.",
     "officialSite": "https://django-ninja-crud.readme.io",
     "topics": ["django", "django-ninja", "django-ninja-crud", "python"]
+  }, {
+    "repo": "microsoft/promptbase",
+    "desc": "All things prompt engineering",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "cg123/mergekit",
+    "desc": "Tools for merging pretrained large language models.",
+    "officialSite": "",
+    "topics": ["llama", "llm", "model-merging"]
+  }, {
+    "repo": "facundoolano/feedi",
+    "desc": "A personal news aggregator and Mastodon client",
+    "officialSite": "",
+    "topics": []
   }
 ]

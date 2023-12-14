@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "S5J7QD278PU", "title": "[node.js 6-1(5)] Rest 응용" },
+    { "id": "5xCg9fQ0Wjs", "title": "[node.js 6-2(1)] 파일 업로드" },
     { "id": "4lLLNuwQWHI", "title": "[node.js 6-1(3)] fetch 사용방법" }
   ]
 }

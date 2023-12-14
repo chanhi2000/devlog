@@ -17,7 +17,12 @@ tags: ["java", "baeldung"]
 
 ### Youtube
 
-@[youtube](https://youtu.be/LtSmfGuHe3o)
+<YouTube id="LtSmfGuHe3o"/>
+
+### Stackoverflow
+
+- [Can JPA be persuaded to convert between eg UUIDs and Strings?](https://stackoverflow.com/questions/8446378/can-jpa-be-persuaded-to-convert-between-eg-uuids-and-strings)
+- [Spring JPA repoistory findBy IN List - allow null](https://stackoverflow.com/questions/28898132/spring-jpa-repoistory-findby-in-list-allow-null)
 
 ### 우아한 기술블로그
 
@@ -84,11 +89,19 @@ tags: ["java", "baeldung"]
 
 ### velog
 
-### `@jj362`
+#### `@jj362`
 
 - [스프링 Security 를 유닛테스트 하라! - Episode1, 2](https://velog.io/@jj362/Spring-Security-%EB%A5%BC-%EC%9C%A0%EB%8B%9B%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0)
 - [스프링 Security를 유닛테스트 하라! - Episode 4 게시판](https://velog.io/@jj362/%EC%8A%A4%ED%94%84%EB%A7%81-Security%EB%A5%BC-%EC%9C%A0%EB%8B%9B%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%9D%BC-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%AA%A8%EB%93%88%ED%8E%B8)
 - [스프링 Security를 유닛테스트하라! - 토큰을 공유하는 애플리케이션 서버들](https://velog.io/@jj362/%EC%8A%A4%ED%94%84%EB%A7%81-Security%EB%A5%BC-%EC%9C%A0%EB%8B%9B%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%9D%BC-%ED%86%A0%ED%81%B0%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B2%84%EB%93%A4)
+
+#### `@lehdqlsl`
+
+- [SpringBoot JPA Multiple Databases 설정](https://velog.io/@lehdqlsl/SpringBoot-JPA-Multiple-Databases-%EC%84%A4%EC%A0%95)
+
+#### `@jwpark06`
+
+- [SpringBoot에 JDBC로 Postgresql 연동하기](https://velog.io/@jwpark06/SpringBoot%EC%97%90-JDBC%EB%A1%9C-Postgresql-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
 ### Douglas Schmidt
 
@@ -132,6 +145,34 @@ tags: ["java", "baeldung"]
 - [Fuzz Testing Is the Best Thing To Happen to Our Application Tests](https://questdb.io/blog/fuzz-testing-questdb)
 - [Concurrent Data Structure Design Walkthrough](https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough)
 
+### 프뚜
+
+- [[Spring] Spring boot에서 PostgreSQL 연동하기](https://ssjeong.tistory.com/entry/Spring-Spring-boot%EC%97%90%EC%84%9C-PostgreSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+
+### 즐겁게 살고 싶은 개발자
+
+- [Spring JPA  Multiple Databases 설정](https://2dongdong.tistory.com/33)
+
+### 밥줄과 취미 사이 ːː 못 먹어도 고!
+
+- [`log4j-slf4j-impl` cannot be present with `log4j-to-slf4j` 에러](https://dejavuhyo.github.io/posts/log4j-to-slf4j-error)
+
+### Herojoon
+
+- [Spring Boot에서 JPA 사용하기](https://herojoon-dev.tistory.com/135)
+
+### 내 세상
+
+- [[Java] 현재 시간을 yyyyMMddHHmmss String으로 추출하는 코드](https://sga8.tistory.com/199)
+
+### JH Blog
+
+- [JPA 에서 UUID 삽질기록](https://jehuipark.github.io/java/my-sql-binary-reference)
+
+### mokhs
+
+- [JPA UUID varchar로 저장하기](https://rnokhs.tistory.com/entry/JPA-UUID-varchar%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+
 ### Misc
 
 - [Task (2) - taskAffinity](https://parkho79.tistory.com/42)
@@ -144,6 +185,7 @@ tags: ["java", "baeldung"]
 - [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
 - [AXIS Apache XML WebService](https://blog.naver.com/nova750/70003702622)
 
+
 ---
 
 ## 🅺Kotlin
@@ -153,6 +195,10 @@ tags: ["java", "baeldung"]
 - [<FontIcon icon="iconfont icon-link"/> Android Table of Elements](https://www.androidelements.com)
 - [<FontIcon icon="iconfont icon-link"/> Kotlin Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf)
 <PDF url="https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf"/>
+
+### Stackoverflow
+
+- [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
 
 ### Leo3418
 
@@ -172,5 +218,19 @@ tags: ["java", "baeldung"]
 ### kotlinworld
 
 - [[Gradle] Custom Task 만들고 Task Chaining 하기](https://kotlinworld.com/322)
+
+### 울이
+
+- [스프링부트 멀티모듈 구성하기(1) - 프로젝트 구조만들기](https://www.wool-dev.com/backend-engineering/spring/springboot-multi-module-gradle/starter)
+
+### Continuous Growth
+
+- [Kotlin val property and nullable columns in JPA](https://kapentaz.github.io/jpa/kotlin/Kotlin-val-property-and-nullable-columns-in-JPA)
+
+### 작은 새의 날개짓
+
+- [JPA, Not Null 처리하는 방법 - Default 적용](https://mollangpiu.tistory.com/376)
+
+---
 
 <TagLinks />

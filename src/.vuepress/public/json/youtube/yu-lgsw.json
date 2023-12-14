@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/3M0XEYS8LAxTWq5yTcZ6Bbwl1rQzgwuSNg2nUoyLDmpauX1qpQe_uZCrysIfSc4ukbVJg1cv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "crxzI1lRGFM", "title": "OpenGLES2 0ProgrammingGuide Ep01" },
+    { "id": "0G66CNWuZnQ", "title": "38편 Unsupervised learning Hierarchical Clustering" },
+    { "id": "rCi3-KhwbNI", "title": "39편 Unsupervised learning Louvain Clustering" },
+    { "id": "KCxAnUcR9HE", "title": "37편 Unsupervised learning DBSCAN" },
     { "id": "v-qW4DMHGuA", "title": "2. Scaled dot-product attention - (3/3)" },
     { "id": "91hBMOj3cQA", "title": "34편 Unsupervised learning PCA" },
     { "id": "aSaAV9YsBcQ", "title": "33편 Unsupervised learning Correlations" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WbH-XZjCq8k", "title": "Find Most Important Features For Machine Learning in Python" },
     { "id": "xjjmkg9J7Gg", "title": "Mandelbrot Set Visualization in Python" },
     { "id": "AyrrZ4PCyws", "title": "Graph Coloring Algorithm in Python" },
     { "id": "6ZKxcMKX4Mk", "title": "Advanced Python Dictionaries with Benedict" },

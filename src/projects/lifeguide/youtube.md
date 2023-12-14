@@ -57,5 +57,6 @@ meta:
 <MyYouTubeItems jsonName="yu-reviewyanolza" /><!-- 리뷰야놀자 -->
 <MyYouTubeItems jsonName="yu-MrAjae" /><!-- Mr.아재 -->
 <MyYouTubeItems jsonName="yu-KUKITV" /><!-- 쿠키건강TV / KUKI HEALTH TV -->
+<MyYouTubeItems jsonName="yu-dakipost" /><!-- 다키포스트 DAKIPOST -->
 
 <TagLinks />

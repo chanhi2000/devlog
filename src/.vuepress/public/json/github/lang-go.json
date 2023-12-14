@@ -1099,5 +1099,10 @@
     "desc": "DNS library in Go",
     "officialSite": "https://miek.nl/2014/august/16/go-dns-package",
     "topics": ["dns", "dns-library", "dnssec", "go"]
+  }, {
+    "repo": "nikolaydubina/go-recipes",
+    "desc": "🦩 Tools for Go projects",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "benchmarking", "code-generation", "code-visualization", "command-line-tool", "compilers", "data-visualization", "developer-tools", "documentation", "go", "golang", "profiling", "static-analysis", "tests", "visualization"]
   }
 ]

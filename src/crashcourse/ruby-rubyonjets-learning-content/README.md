@@ -77,41 +77,41 @@ color: rgba(255,245,101,0.2)
 ```card
 title: Intro CRUD App Part 1
 desc: ...
-link: https://blog.boltops.com/2018/09/07/jets-tutorial-crud-app-introduction-part-1
+link: 20180907-jets-tutorial-crud-app-introduction-part-1.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_708/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-1-crud-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(0,0,0,0.2)
 ```
 
 ```card
 title: Deploy to AWS Lambda Part 2
 desc: ...
-link: https://blog.boltops.com/2018/09/08/jets-tutorial-deploy-to-aws-lambda-part-2
+link: 20180908-jets-tutorial-deploy-to-aws-lambda-part-2.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_600/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-2-aws-lambda-deploy-v2.png
-color: rgba(220,30,34,0.2)
+color: rgba(37,39,54,0.2)
 ```
 
 ```card
 title: Debugging Logs Part 3
 desc: ...
-link: https://blog.boltops.com/2018/09/09/jets-tutorial-debugging-logs-part-3
+link: 20180909-jets-tutorial-debugging-logs-part-3.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_637/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-3-debugging-v3.png
-color: rgba(220,30,34,0.2)
+color: rgba(32,32,40,0.2)
 ```
 
 ```card
 title: Background Jobs Part 4
 desc: ...
-link: https://blog.boltops.com/2018/09/10/jets-tutorial-background-jobs-part-4
+link: 20180910-jets-tutorial-background-jobs-part-4.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_531/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-4-jobs-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(0,1,35,0.2)
 ```
 
 ```card
 title: IAM Policies Part 5
 desc: ...
-link: https://blog.boltops.com/2018/09/11/jets-tutorial-iam-policies-part-5
+link: 20180911-jets-tutorial-iam-policies-part-5.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_655/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-5-iam-policies-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(32,11,15,0.2)
 ```
 
 ```card

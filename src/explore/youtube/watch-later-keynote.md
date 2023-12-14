@@ -91,5 +91,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-lgcnstube" /><!-- LG CNS -->
 <MyYouTubeItems jsonName="yu-gdscsookmyung" /><!-- Google Developer Student Club Sookmyung -->
 <MyYouTubeItems jsonName="yu-xebiafunctional" /><!-- Xebia Functional (formerly 47 Degrees) -->
+<MyYouTubeItems jsonName="yu-gdgosijek5328" /><!-- GDG Osijek -->
 
 <TagLinks />

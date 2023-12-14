@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KKEvKyh9--0", "title": "Stream archive: Getting on post - Axum + Rust X/Twitter clone (2023-12-05)" },
+    { "id": "f6CPlzeRR24", "title": "Two SQL queries in one with UNION" },
+    { "id": "Alb7Gm8x7tw", "title": "stream archive: Mad Pod Race gold league with Rust CodinGame (2023-12-13)" },
     { "id": "v3V8zxv6t7U", "title": "Stream archive: Planning projects until Axum 1.0 (2023-11-29 morning)" },
     { "id": "iK-E43dQPuI", "title": "stream archive: Axum 0.7 x/twitter clone (2023-11-30)" },
     { "id": "f6CPlzeRR24", "title": "Two SQL queries in one with UNION" },

@@ -6,12 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/knZWtmFBCHXLGNhlaXU7NgZLLKWLE_8BBn-oATMTR0LuBnayGCAp9-zcuDPO3QT8S15ch54DEN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gEzACyQyKa4", "title": "Coding과 세컨드브레인의 CODE 그리고 SI개발" },
     { "id": "36NE97mx7Z0", "title": "The Factory 프로젝트에 jdk 21, springboot 3.2를 적용하였습니다." },
     { "id": "kfDduuLCVdM", "title": "jdk21과 함께해요. jdk 8 이후의 문법 변경사항을 싹 훑어 보았습니다." },
     { "id": "Pqe8dfeH7AY", "title": "notion vs obsidian" },
-    { "id": "RfdGs_DqF40", "title": "JPA, 느림에 대하여" },
-    { "id": "NYfAuvV2ghw", "title": "스프링부트 : 시스템 환경변수 읽기" },
-    { "id": "pLfUiXbVOh8", "title": "스프링부트 : QueryDSL" }
+    { "id": "RfdGs_DqF40", "title": "JPA, 느림에 대하여" }
   ],
   "playlists": [
     {

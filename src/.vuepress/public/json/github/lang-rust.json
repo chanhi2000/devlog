@@ -849,7 +849,7 @@
     "desc": "Educational blog posts for Rust beginners",
     "officialSite": "",
     "topics": ["blog", "blogging", "rust", "rust-lang"]
-  }, {
+}, {
     "repo": "01mf02/jaq",
     "desc": "A jq clone focussed on correctness, speed, and simplicity",
     "officialSite": "",
@@ -879,5 +879,15 @@
     "desc": "Build self-bootstrapped Python applications",
     "officialSite": "https://ofek.dev/pyapp/",
     "topics": ["application", "cli", "packaging", "python", "rust"]
+  }, {
+    "repo": "nishuzumi/pow-erc20",
+    "desc": "A minter for PowerERC20 by rust",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "fujiapple852/trippy",
+    "desc": "A network diagnostic tool ",
+    "officialSite": "https://trippy.cli.rs",
+    "topics": ["cli", "command-line-interface", "command-line-tool", "dns", "freebsd", "icmp", "linux", "macos", "mtr", "netbsd", "network", "networking", "ping", "rust", "rustlang", "tool", "traceroute", "tui", "tui-rs", "windows"]
   }
 ]

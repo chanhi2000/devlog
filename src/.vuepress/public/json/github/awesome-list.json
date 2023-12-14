@@ -824,5 +824,10 @@
     "desc": "2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dreamoving/dreamoving-project",
+    "desc": "Official implementation of DreaMoving",
+    "officialSite": "",
+    "topics": []
   }
 ]

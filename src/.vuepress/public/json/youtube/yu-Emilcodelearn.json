@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/xUytxRP75KVBac31y2DxMuDUIWUBT3A7Z2j3Vw0-jGtiaJQ6ajIZujJyQvOrsOWixN0Bbu7a_w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "m2Vq_citA8o", "title": "Python String `rstrip()` Operation Explained | Learn Python Programming Python Artificial Intelligence" },
+    { "id": "eZKfvlV6Uz8", "title": "Python String `expandtabs()` Operation Explained: Validating and Understanding Artificial Intelligence" },
+    { "id": "bipkR497fM8", "title": "Python String `splitlines()` Operation: Validation and Usage Tutorial Artificial Intelligence Code Fit" },
     { "id": "3Ag-x4XxyoY", "title": "Python String Count Operation Explained: Understanding 'Excellent'.count('l') Example Coding Advance" },
     { "id": "el1x85fSjO8", "title": "Understanding Python String Encoding: Exploring 'utf-8' Encoding with Practical Examples Code Coding" },
     { "id": "7o3IIkvbzVs", "title": "Python String `rfind()` Operation Explained: Understanding 'Artificial Intelligence' Example Coder Fit" },

@@ -136,6 +136,14 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 - [How to update cURL](https://snyk.io/blog/how-to-update-curl)
 
+---
+
+## Dash for macOS
+
+- [oh-my-zsh Git Cheatsheet](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

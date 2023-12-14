@@ -1779,5 +1779,10 @@
     "desc": "Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "WordPress/gutenberg",
+    "desc": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "officialSite": "https://wordpress.org/gutenberg/",
+    "topics": ["gutenberg", "wordpress", "wordpress-plugin"]
   }
 ]

@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "3jzjRcKHudE", "title": "Webjjang JSP ver.2023.12 10-02 MVC - web.xml 설정과 main 처리 & 404 처리(웹짱과 함께하는 JSP & Servlet)" },
+    { "id": "5xpzeWuIobA", "title": "Webjjang JSP ver.2023.12 10-01 MVC - DispatcherServlet 클래스(웹짱과 함께하는 JSP & Servlet)" },
+    { "id": "LWONOVXMW44", "title": "Webjjang JSP ver.2023.12 01-04 Servlet-intit(),doGet(),doPost(),service()테스트(웹짱과 함께하는 JSP & Servlet)" },
+    { "id": "h0QuX7zPmPQ", "title": "Webjjang JSP ver.2023.12 01-03 Servlet - intit(), doGet(),  doPost() 메서드 이해(웹짱과 함께하는 JSP & Servlet)" },
+    { "id": "j3rit1EIFQ0", "title": "Webjjang JSP ver.2023.12 01-02 Servlet - url 매핑과 doGet(), doPost() 메서드(웹짱과 함께하는 JSP&Servlet)" },
+    { "id": "xgWrro-BQd8", "title": "Webjjang JSP ver.2023.12 01-01 Servlet - project 생성과 서버 생성(웹짱과 함께하는 JSP&Servlet)" },
     { "id": "Wh-ofV2An2M", "title": "Webjjang Web ver.2023.11 04-07 JS - 입력된 데이터의 유효성 검사와 나누는 숫자 0 처리(웹짱과 함께하는 웹)" },
     { "id": "ktWTBg7iI2c", "title": "Webjjang Web ver.2023.11 04-06 JS - input 객체의 입력 데이터와 add() 함수를 이용한 덧셈(웹짱과 함께하는 웹)" },
     { "id": "I50ffJFshjs", "title": "Webjjang Web ver.2023.11 04-05 JS - in과 of를 이용한 foreach(웹짱과 함께하는 웹)" },

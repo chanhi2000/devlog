@@ -6,14 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "r6qEIAmTBdY", "title": "mutableStateOf() VS. mutableIntStateOf() - Auto-Boxing Explained" },
+    { "id": "JAGLOaWztBc", "title": "Should You Use a Navigation Library in Jetpack Compose?" },
+    { "id": "r6qEIAmTBdY", "title": "`mutableStateOf()` VS. `mutableIntStateOf()` - Auto-Boxing Explained" },
     { "id": "0n8asCc_Hxo", "title": "When Should You Use a 3rd Party Library?" },
     { "id": "fp1-YSmdzh8", "title": "Full Guide to Multiple Back Stacks in Jetpack Compose - Android Studio Tutorial" },
     { "id": "ySt16uOgpC4", "title": "Clean Architecture in 20 Seconds" },
     { "id": "g4XSWQ7QT8g", "title": "Shared Navigation on Kotlin Multiplatform with Decompose (KMP)" },
-    { "id": "PXnVry_emns", "title": "Is it okay to use runBlocking?" },
+    { "id": "PXnVry_emns", "title": "Is it okay to use `runBlocking`?" },
     { "id": "VfOQqmCpK7U", "title": "Top 3 Coroutine Cancellation Traps That Lead to Errors In Your Android App (Kotlin)" },
-    { "id": "nXXvWXgXEYs", "title": "compileSdk VS. targetSdk VS. minSdk - THIS Is the Difference" },
+    { "id": "nXXvWXgXEYs", "title": "`compileSdk` VS. `targetSdk` VS. minSdk - THIS Is the Difference" },
     { "id": "vb-Pt8SdfEE", "title": "How to Migrate an Android Project to Kotlin Multiplatform (KMP)" },
     { "id": "aiUHeiHE5PM", "title": "How I Learnt Everything I Know About Android in 4 Years" }, 
     { "id": "MbIB8J5_zjM", "title": "3 Clean Code Hacks I Bet You Didn't Know (Kotlin & Android)" }, 

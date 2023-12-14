@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/JAOdwMIQw77zEUEwlsbP3YUodhPGKN1Q-QElKqNR8lEC5Gsvg8D7NSyr1xmN-f1CEZgGHE_a=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gcAqKaBS6gs", "title": "JWT x SPRING BOOT 토큰 생성 및 해석 2" },
+    { "id": "ILWwnL0kvTk", "title": "JWT x SPRING BOOT 토큰 생성 및 해석" },
+    { "id": "khniEN0PYXo", "title": "JWT" },
     { "id": "WlczGewn8WU", "title": "React x Spring Boot  게시판 앱 4 - STYLE" },
     { "id": "1H7oEyNdkEk", "title": "React x Spring Boot  게시판 앱 5 - FILE 파일업로드 2" },
     { "id": "r-ILTQRf1rw", "title": "React x Spring Boot  게시판 앱 5 - FILE 파일업로드" },

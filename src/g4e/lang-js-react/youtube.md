@@ -36,5 +36,6 @@ meta:
 <MyYouTubeItems jsonName="yu-elibroftw" /><!-- elibro -->
 <MyYouTubeItems jsonName="yu-edutechional" /><!-- edutechional -->
 <MyYouTubeItems jsonName="yu-webtechtalks" /><!-- Web Tech Talks -->
+<MyYouTubeItems jsonName="yu-DipeshMalvia" /><!-- Dipesh Malvia -->
 
 <TagLinks />

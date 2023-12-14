@@ -89,5 +89,7 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 <MyYouTubeItems jsonName="yu-KWDC23" /><!-- KWDC -->
 <MyYouTubeItems jsonName="yu-allen_ios" /><!-- iOS개발자 앨런 -->
 <MyYouTubeItems jsonName="yu-EduardoRosasOsorno" /><!-- Eduardo Rosas -->
+<MyYouTubeItems jsonName="yu-1TheSwiftGuy" /><!-- The Swift Guy -->
+<MyYouTubeItems jsonName="yu-yagom" /><!-- yagom -->
 
 <TagLinks/>

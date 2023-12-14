@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "zir2_TqzJik", "title": "문제 풀이" },
+    { "id": "fj5Sk8XHdYE", "title": "조건문(if) 문제 풀이" },
+    { "id": "LaZQcNLRcAw", "title": "조건문(if)" },
+    { "id": "caeSshf52Xo", "title": "변수 문제 풀이" },
+    { "id": "2bzH7Q98a9g", "title": "제 - 문장에서 특정 문장의 위치를 반환하는 함수를 만들어주세요.(`get_index_of_str`)" },
+    { "id": "ha_3FDOl9pE", "title": "문제 - `str_part_equals` 함수를 구현해주세요." },
+    { "id": "47Dc4mn9ies", "title": "문제 - `ends_with` 함수를 구현해주세요." },
+    { "id": "0upYlA-2aMs", "title": "문제 - `str_equals` 함수를 구현해주세요." },
+    { "id": "4E5nUmgx4mk", "title": "문제 - `starts_with` 함수를 구현해주세요." },
+    { "id": "g8d26V4fxtE", "title": "문제 - 문장에서 특정 부분만 잘라서 출력하는 함수를 만들어주세요.(`print_sub_str`)" },
     { "id": "DrTygsygTzU", "title": "다중포인터" },
     { "id": "v0YdPwscyPs", "title": "배열 복습" },
     { "id": "yuOMUNqwC5k", "title": "배열 문제 풀이" },

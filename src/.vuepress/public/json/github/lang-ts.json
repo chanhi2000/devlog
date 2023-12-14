@@ -1868,5 +1868,15 @@
     "desc": "Build customized Admin Panel for your App and Website. Supports multi-person collaboration. Significantly reduce development time",
     "officialSite": "https://illacloud.com",
     "topics": ["app-builder", "developer-tool", "developer-tools", "gui", "hacktoberfest", "internal-development", "internal-tool", "internal-tools", "low-code", "low-code-development-platform", "lowcode", "react", "self-hosted", "typescript"]
+  }, {
+    "repo": "gregsadetsky/sagittarius",
+    "desc": "A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real",
+    "officialSite": "http://sagittarius.greg.technology/",
+    "topics": []
+  }, {
+    "repo": "bbsimonbb/octopus-turbo",
+    "desc": "Turbo repo with octopus-state-graph and samples",
+    "officialSite": "",
+    "topics": []
   }
 ]

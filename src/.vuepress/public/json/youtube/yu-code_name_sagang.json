@@ -6,6 +6,18 @@
     "banner": ""
   },
   "videos": [
+    { "id": "LOBSLY5GduQ", "title": "[프론트, 개념, 자바스크립트 기초, 변수 정리" },
+    { "id": "papbSAZDozM", "title": "프론트, 문제, 조건문 문제풀이" },
+    { "id": "7-c_-D13RDk", "title": "프론트, 개념, 자바스크립트 조건문" },
+    { "id": "MIWHTFroUr4", "title": "프론트, 문제, 구구단 2~9단을 출력해주세요, 이중 반복문" },
+    { "id": "gTRo4uiX8f4", "title": "프론트, 문제, 1부터 3까지 출력을 10번 반복, 이중 반복문" },
+    { "id": "JbjdK2ASv-k", "title": "프론트, 개념, 이중 반복문 개념" },
+    { "id": "1rooGWbPv7I", "title": "프론트, 문제, 1부터 100까지의 합" },
+    { "id": "CIoHHAZjsUQ", "title": "프론트, 문제, 구구단 8단, while" },
+    { "id": "1HdU0f8i5zM", "title": "프론트, 문제, 1부터 100까지의 출력" },
+    { "id": "a-zeJvBrYHk", "title": "프론트, 개념, 반복문 while" },
+    { "id": "dtIMCVD_sew", "title": "프론트, 문제, 반복문 문제 풀이" },
+    { "id": "_ERITOxF2GM", "title": "프론트, 개념, 반복문 전 준비단계" },
     { "id": "2x6OO17Gkjo", "title": "프론트, 개념, 자바스크립트 기초, 변수" },
     { "id": "8bA3UfRHUXM", "title": "프론트, 개념, CSS, inline 요소에는 width, height, padding, margin이 작동하지 않는다" }
   ]

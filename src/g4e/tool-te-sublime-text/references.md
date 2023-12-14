@@ -29,6 +29,12 @@ tags:
 
 ---
 
+## Sublime Text
+
+- [Installing Packages From The Command Line](https://forum.sublimetext.com/t/installing-packages-from-the-command-line/64029/4)
+
+---
+
 ## Misc.
 
 - [Sublime Text 기본 템플릿 사용하기](https://appia.tistory.com/722)

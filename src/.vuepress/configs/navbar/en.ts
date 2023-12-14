@@ -68,10 +68,10 @@ export const navbarEn: NavbarConfig = [
         children: [
           {
             text: '🕊️100 Days of Swift',
-            link: '/crashcourse/swift-100-days-of-swift/74.md'
+            link: '/crashcourse/swift-100-days-of-swift/75.md'
           }, {
             text: '🕊️100 Days of SwiftUI',
-            link: '/crashcourse/swift-100-days-of-swiftui/62.md'
+            link: '/crashcourse/swift-100-days-of-swiftui/63.md'
           }, {
             text: '🕊️SwiftUI by Example',
             link: '/crashcourse/swift-swiftui-by-example/README.md',
@@ -217,6 +217,9 @@ export const navbarEn: NavbarConfig = [
       }, {
         text: '⚛React.js',
         link: '/g4e/lang-js-react/README.md',
+      }, {
+        text: '🌲Vue.js',
+        link: '/g4e/lang-js-vue/README.md',
       }, {
         text: '🧜‍♀️Mermaid.js',
         link: '/g4e/lang-js-mermaid/README.md',

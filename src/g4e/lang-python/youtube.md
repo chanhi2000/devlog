@@ -60,6 +60,7 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-pseudocode.2573" /><!-- Pseudocode. -->
 <MyYouTubeItems jsonName="yu-pyconza" /><!-- PyCon South Africa -->
 <MyYouTubeItems jsonName="yu-zlliu246" /><!-- Liu Zuo Lin -->
-<MyYouTubeItems jsonName="yu-\ComputerSciencecompsci112358" /><!-- Computer Science -->
+<MyYouTubeItems jsonName="yu-ComputerSciencecompsci112358" /><!-- Computer Science -->
+<MyYouTubeItems jsonName="yu-boanproject" /><!-- 보안프로젝트[boanproject] -->
 
 <TagLinks />

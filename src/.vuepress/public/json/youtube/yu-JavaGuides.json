@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/-uXe4fUjwNo2i-VAS2e59CwYReSd2vt1WOm142CLOiTZpUyVWpb46xkdE1HLH_HFhYRLvRqA9w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "w7XYmWw9FDA", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 10 - Build Update Employee REST API (PUT REST API)" },
+    { "id": "kPToNQC0Fz8", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 11 - Build Delete Employee  REST API" },
+    { "id": "SauEhnjTqV4", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 12 - Create and Set up  React App" },
+    { "id": "RD2GJD16otE", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 13 - Understanding  React App Project Structure" },
+    { "id": "6d61V56kG_k", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 14 - Adding Bootstrap in React Using NPM" },
     { "id": "dP4goCkKxlw", "title": "[NEW] ReactJS + Spring Boot 3 CRUD Full Stack App - 1 - Project Overview and Architecture" },
     { "id": "jzX-qqfVq1M", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 2 - Create & Setup Spring Boot App in IntelliJ IDEA" },
     { "id": "s0D1AvtvN4w", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 5 - Create EmployeeRepository" },
