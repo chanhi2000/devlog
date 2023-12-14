@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "TheCodingLab",
+    "name": "The Coding Lab",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZmp7rfwc-Gh5t8pjYNBMgKrfkONNdVPMfup6xzUA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TtvfKBK5yJ0j5tjHsrzvqM9os_ayG_1-54jBUkk2ZT9VJhcWf6qYBAf-YxGeqvP_P8RNPiP5Xg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "L25o8HBavJA", "title": "Public and Protected routes in React | Private routes in React with beginner level demo" },
+    { "id": "IJXcKfZeG2U", "title": "HTML Form with validations || Form using HTML, CSS, JavaScript || Signup form" }
+  ]
+}

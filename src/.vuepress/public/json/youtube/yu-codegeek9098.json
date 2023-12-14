@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "codegeek9098",
+    "name": "Code Geek",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZOth83fO93u-cy8XR5i09C9F0Fo5Aa_11OIivx=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PbCTvq5j_dwvocOQ2ypiqEB8RTk2lBKsaeuHfSJLtSCPZLjzK36sApfpAg-7YjvlZ28O5RPk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dljmV9YoLEs", "title": "Stranger Danger: Your NodeJS Attack Surface Just Got Bigger" }
+  ]
+}

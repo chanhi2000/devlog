@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "techteachersandstudents",
+    "name": "Technology for Teachers and Students",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbT6YrVC2Uci6_3O3_8tJqLBHZEUFR3XvAbs-UqRQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NaCyl9FLSZnL8pX2PSskpJA6CnBflD9FZIdbEm8ZPHUCgcTmd5HbmG0C0Iw0CY_S0tTmfrPZ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qMQ0UB6WyKQ", "title": "Using Checkboxes in Excel - Part 1" }
+  ]
+}

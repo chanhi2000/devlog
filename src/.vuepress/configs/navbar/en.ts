@@ -68,10 +68,10 @@ export const navbarEn: NavbarConfig = [
         children: [
           {
             text: '🕊️100 Days of Swift',
-            link: '/crashcourse/swift-100-days-of-swift/README.md'
+            link: '/crashcourse/swift-100-days-of-swift/74.md'
           }, {
             text: '🕊️100 Days of SwiftUI',
-            link: '/crashcourse/swift-100-days-of-swiftui/README.md'
+            link: '/crashcourse/swift-100-days-of-swiftui/62.md'
           }, {
             text: '🕊️SwiftUI by Example',
             link: '/crashcourse/swift-swiftui-by-example/README.md',

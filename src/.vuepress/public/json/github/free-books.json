@@ -114,5 +114,10 @@
     "desc": "Modern C++ Programming Course (C++11/14/17/20)",
     "officialSite": "",
     "topics": ["arithmetic", "arithmetic-types", "c-plus-plus", "code-quality", "compilers", "conversion", "course", "cpp", "cpp-course", "cpp11", "cpp14", "cpp17", "cpp20", "debugging", "object-oriented-programming", "optimization", "pointer", "programming", "template"]
+  }, {
+    "repo": "standard-webhooks/standard-webhooks",
+    "desc": "The Standard Webhooks specification",
+    "officialSite": "https://www.standardwebhooks.com/",
+    "topics": ["api", "asyncapi", "callbacks", "http", "json", "openapi", "specification", "standard", "standard-webhooks", "webhook", "webhooks"]
   }
 ]

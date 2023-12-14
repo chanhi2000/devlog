@@ -914,5 +914,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "lean-dojo/LeanCopilot",
+    "desc": "LLMs as Copilots for Theorem Proving in Lean",
+    "officialSite": "https://leandojo.org",
+    "topics": ["lean", "lean4", "llm-inference", "machine-learning", "theorem-proving"]
   }
 ]

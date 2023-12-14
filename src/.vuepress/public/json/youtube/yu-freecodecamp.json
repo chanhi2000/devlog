@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JEBDfGqrAUA", "title": "Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search" },
+    { "id": "5iHejdqYIa8", "title": "Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial" },
+    { "id": "IPiUDhwnZxA", "title": "JavaScript Testing with Jest – Crash Course" },
     { "id": "-dJPoLm_gtE", "title": "MLOps Course – Build Machine Learning Production Grade Projects" },
     { "id": "uyhzCBEGaBY", "title": "Beginner JavaScript Project – Snake Game Tutorial" },
     { "id": "I_ShMaNw0Rc", "title": "Advanced Music Production with FL Studio – Tutorial" },

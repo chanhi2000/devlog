@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "tomweiland",
+    "name": "Tom Weiland",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQYZYTdVLyq44fyBu0VPq-NfXgHvsgS3cp-9H_eoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MdQgSsoX6eSMoJpw6hsEL_a19N0sR8K-3bnGxE7_er2wtvEq2ap77XMQd2iHFO8McQaPtnjq=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uh8XaC0Y5MA", "title": "Connecting Unity Clients to a Dedicated Server | C# Networking Tutorial - Part 1" }
+  ]
+}

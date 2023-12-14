@@ -190,18 +190,18 @@ In these projects we’re going to start looking more carefully at how we can se
 - [Day 58][day-58] – Project 12, part two
 - [Day 59][day-59] – Project 12, part three
 
-### Days 60-61: Consolidation V
+### ✅Days 60-61: Consolidation V
 
 You’ve learned about data, data, and some more data, so it’s time to pause and reflect on what was covered before tackling another new challenge.
 
-- ✅[Day 60][day-60] – Milestone: Projects 10-12
+- [Day 60][day-60] – Milestone: Projects 10-12
 - [Day 61][day-61] – Time for Core Data
 
 ### Days 62-76: Views and view controllers
 
 In these projects the difficulty starts to ramp up as we look at how you integrate code from frameworks outside of SwiftUI, including UIKit and MapKit.
 
-- [Day 62][day-62] – Project 13, part one
+- ✅[Day 62][day-62] – Project 13, part one
 - [Day 63][day-63] – Project 13, part two
 - [Day 64][day-64] – Project 13, part three
 - [Day 65][day-65] – Project 13, part four
@@ -336,8 +336,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-58]: 58.md
 [day-59]: 59.md
 [day-60]: 60.md
-[day-61]: https://www.hackingwithswift.com/100/swiftui/61
-[day-62]: https://www.hackingwithswift.com/100/swiftui/62
+[day-61]: 61.md
+[day-62]: 62.md
 [day-63]: https://www.hackingwithswift.com/100/swiftui/63
 [day-64]: https://www.hackingwithswift.com/100/swiftui/64
 [day-65]: https://www.hackingwithswift.com/100/swiftui/65

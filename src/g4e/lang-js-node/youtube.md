@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🧶Node.js > 📺Youtube
-tags: ["education", "youtube", "programming", "js", "node"]
+tags: ["education", "youtube", "programming", "js", "node", "@AlgoJS", "@bawad", "@SonnySangha", "@CleverProgrammer", "@CodingNepal", "@LamaDev", "@JamesQQuick", "@kevinwwwade", "@codinginflow", "@WebDevSimplified", "@codingapple", "@laithacademy", "@javascriptmastery", "@ProgramWithErik", "@Fireship", "@beyondfireship", "@DaveGrayTeachesCode", "@WesBos", "@nomadcoders", "@CodingArtist", "@Codevolution", "@codedamn", "@TylerPotts", "@jherr", "@brianmmdev", "@CodewithSloba", "@codefactory_official", "@ZeroChoTV", "@leighhalliday", "@MonsterlessonsAcademy", "@VicodeMedia", "@dongbinna", "@MinjunKim", "@academind", "@KaizenCodes", "@JustinJackson", "@pluralsight", "@CodingTutorials360", "@developedbyed", "@AdrianTwarog", "@AdamWathan", "@ReactWithMasoud", "@CodingAddict", "@basarat", "@MichiganTypeScript", "@codewithantonio", "@GreatStackDev", "@CodingGarden", "@HiteshChoudharydotcom", "@pnk", "@Tricknology", "@codeSTACKr", "@TraversyMedia", "@learncodeacademy", "@codingthesmartway", "@drehimself", "@AsmrProg", "@Gatsbyjs", "@ApolloGraphQL", "@VueConfToronto", "@IonicFramework", "@RedStapler_channel", "@dotconferences", "@jsconf_", "@DailyTuition", "@DipeshMalvia", "@EdRohDev", "@garnattione", "@zachgoll", "@briandesign", "@Eduonix", "@jeffrey_codes", "@DesignCourse", "@AniaKubow", "@PedroTechnologies", "@CodeBucks", "@Huntabyte", "@aaeideapro1192", "@ChromeDevs", "@dream-coding", "@awesomekling", "@t3dotgg", "@FrontendMasters", "@joshtriedcoding", "@thegreat-programmers", "@NetNinja", "@notjustdev", "@CognitiveSurge", "@frongt", "@KentCDodds-vids", "@awesome-coding", "@envatotuts", "@codewithryan", "@SuperSimpleDev", "@CodinginPublic", "@sstur", "@CodingPhase", "@Remix-Run", "@user-yu8so2ck1z", "@Renewedcart", "@Hyperplexed", "@Ezweb", "@FunOfHeuristic", "@CodeRadiance", "@kossiecoder", "@user-sq7il2ir1e", "@codewiththilaks", "@ui5cn", "@codejong", "@Skillthrive", "@WillKwan", "@Sweetdev", "@NorfolkDevelopers", "@codewithbubb", "@VueMastery", "@headwayio", "@creativeclue2772", "@FaztTech", "@GISdonwell", "@ColtSteeleCode", "@JoshuaMorony", "@adam_la_morre", "@codingangma", "@codewithbro6907", "@TheCodingTrain", "@CodingwithBasir", "@Sketch2React", "@deno_land", "@developerfilip", "@feconfkorea", "@arahansame9320", "@SakuraDev", "@aarthificial", "@mafiacodes", "@veryacademy", "@ScreenCastsDev", "@DigitalOcean", "@jj362choi", "@alexandrugutan7587", "@TimErmilov", "@LearnProgrammingTogether", "@gis", "@danielbark", "@dannytwlc3666", "@bostonreact9402", "@mraible", "@WebDevMatics", "@Letsboot", "@QiroLab", "@TonyAlicea", "@jejucodingcamp", "@javascriptisrael", "@MaxProgramming", "@CoderOne", "@hswolff", "@user-sg2tt4sk4o", "@wcandillon", "@reactuikit", "@LearnWebCode", "@webstoryboy", "@rocketseat", "@huakun", "@codingwithjustin7995", "@SyncfusionInc", "@ChrisCourses", "@ByteGrad", "@codingmoon", "@gisdeveloper", "@CodingLupine", "@ethanniser", "@BoostMyTool", "@andrewjosephmead1", "@tapasadhikary", "@SvelteSociety", "@WesDoyle", "@thewilltejeda", "@learnpratap", "@coffeecodecreate", "@codonelearn", "@perfectbase", "@NerdCademyDev", "@ColorCodeio", "@ClarityCoders", "@blogcreator6109", "@shellfolder1625", "@reactproject", "@danteDeveloper", "@jahiddev", "@jsWithTola", "@iamrithmic", "@Pentacode", "@galaxies_dev", "@bugbytes3923", "@huxnwebdev", "@harkirat1", "@codewithguillaume", "@JakePomperada", "@webprodigies", "@codeching", "@codewithlari", "@testerstalk", "@AcademyNet.net1", "@with-neighbors", "@codegeek9098"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -126,7 +126,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-WillKwan" /><!-- Will Kwan -->
 <MyYouTubeItems jsonName="yu-Sweetdev" /><!-- Sweetdev -->
 <MyYouTubeItems jsonName="yu-NorfolkDevelopers" /><!-- NorfolkDevelopers -->
-<MyYouTubeItems jsonName="yu-codebubb" /><!-- codebubb -->
+<MyYouTubeItems jsonName="yu-codewithbubb" /><!-- codewithbubb -->
 <MyYouTubeItems jsonName="yu-VueMastery" /><!-- Vue Mastery -->
 <MyYouTubeItems jsonName="yu-headwayio" /><!-- Headway -->
 <MyYouTubeItems jsonName="yu-creativeclue2772" /><!-- Creative Clue -->
@@ -216,5 +216,7 @@ tags: ["education", "youtube", "programming", "js", "node"]
 <MyYouTubeItems jsonName="yu-testerstalk" /><!-- Testers Talk -->
 <MyYouTubeItems jsonName="yu-AcademyNet.net1" /><!-- AcademyNet -->
 <MyYouTubeItems jsonName="yu-with-neighbors" />    <!-- 이웃팔촌 -->
+<MyYouTubeItems jsonName="yu-codegeek9098" /><!-- Code Geek -->
+<MyYouTubeItems jsonName="yu-slowcoding" /><!-- Slow Coding -->
 
 <TagLinks />

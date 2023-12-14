@@ -1,9 +1,9 @@
 {
   "channel": {
-    "id": "codebubb",
-    "name": "codebubb",
+    "id": "codewithbubb",
+    "name": "codewithbubb",
     "profile": "https://yt3.googleusercontent.com/0LRveubiPSbBaGJSq05VUCILFdNzLiUiMf9ZiVFceXxlpSqilvEMWCijSC4ToQtpV_OJAEzAIg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/ClTTJIqs3fUuHWmZvpvKlP55a5-PT_kSNjlHx_sANm38-T2o83l8yJuy5zqN-tx3aEGT2q_PT1M=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/UUS3sKc6KiBvkFmJtjuVwfcgUl7FPWGkVHjqpC2D7SdS6aqExzg-maoSDY8pN0jo-y4WzEPqEw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "oUfyC1SSLnU", "title": "My complete beginner’s guide to using JavaScript with the DOM" },

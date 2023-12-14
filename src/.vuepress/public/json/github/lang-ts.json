@@ -1450,9 +1450,9 @@
     "topics": ["ledger", "ledger-cli", "personal-finance", "plaintext-accounting", "visualization"]
   }, {
     "repo": "lobehub/lobe-chat",
-    "desc": "🤖 Lobe Chat - an open-source, vision supported, extensible, high-performance chat client. It supports one-click free deployment of your private ChatGPT/LLM web application.",
+    "desc": "🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.",
     "officialSite": "https://chat-preview.lobehub.com",
-    "topics": ["agent", "ai", "azure-openai", "chat", "chatbot", "chatgpt", "dalle-3", "function-calling", "gpt", "gpt-4", "gpt-4-vision", "langchangjs", "lobe-chat", "lobehub", "nextjs", "openai"]
+    "topics": ["agent", "ai", "azure-openai", "chat", "chatbot", "chatgpt", "dalle-3", "function-calling", "gpt", "gpt-4", "gpt-4-vision", "langchangjs", "lobe-chat", "lobehub", "nextjs", "openai", "stt", "tts"]
   }, {
     "repo": "bitwarden/clients",
     "desc": "Bitwarden client applications (web, browser extension, desktop, and cli)",
@@ -1863,5 +1863,10 @@
     "desc": "Debug remotely and easily like chrome devtools.",
     "officialSite": "https://huolalatech.github.io/page-spy-web/",
     "topics": []
+  }, {
+    "repo": "illacloud/illa-builder",
+    "desc": "Build customized Admin Panel for your App and Website. Supports multi-person collaboration. Significantly reduce development time",
+    "officialSite": "https://illacloud.com",
+    "topics": ["app-builder", "developer-tool", "developer-tools", "gui", "hacktoberfest", "internal-development", "internal-tool", "internal-tools", "low-code", "low-code-development-platform", "lowcode", "react", "self-hosted", "typescript"]
   }
 ]

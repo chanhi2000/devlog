@@ -33,5 +33,8 @@ meta:
 <MyYouTubeItems jsonName="yu-ZAINKEEPSCODE" /><!-- ZAINKEEPSCODE -->
 <MyYouTubeItems jsonName="yu-leerob" /><!-- Lee Robinson -->
 <MyYouTubeItems jsonName="yu-JavaGuides" /><!-- Java Guides -->
+<MyYouTubeItems jsonName="yu-elibroftw" /><!-- elibro -->
+<MyYouTubeItems jsonName="yu-edutechional" /><!-- edutechional -->
+<MyYouTubeItems jsonName="yu-webtechtalks" /><!-- Web Tech Talks -->
 
 <TagLinks />

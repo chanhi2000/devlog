@@ -175,6 +175,7 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 - [[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)
 - [Google, GPT-4를 능가하는 모델 Gemini 발표](https://slashpage.com/haebom/1n8pw9x2z7ge6mg7yrqv)
 - [인공지능을 사용하는 인간을 위한 안내서](https://slashpage.com/haebom/hitchhiker)
+- [AI Assistant의 사용화, 앞으로 프로그래머는 어떻게 성장할까?](https://www.haebom.dev/z7vgjr4m1y84gmdwpy86)
 
 ---
 
@@ -187,6 +188,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 ## Nova Spivack
 
 - [Nova Mode: The Ultimate ChatGPT Custom Instruction](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)
+
+---
+
+## PlugBear
+
+- [기사를 요약하는 슬랙 봇 만들기 (노코드, 5분 소요)](https://plugbear.io/posts/ko/how-to-build-article-summary-bot)
 
 ---
 

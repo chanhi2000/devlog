@@ -814,5 +814,15 @@
     "desc": "declaration of genesis",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": ":link: Some useful websites for programmers.",
+    "officialSite": "",
+    "topics": ["books", "cs", "hacktoberfest", "links", "programmer", "sites"]
+  }, {
+    "repo": "wy876/POC",
+    "desc": "2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp",
+    "officialSite": "",
+    "topics": []
   }
 ]

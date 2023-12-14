@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "HappyCoders",
+    "name": "HappyCoders",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZJOwv6nLWRxduUF0t_dhMCwIRzXTpXayNF1r7J=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xglasWLvTS67b0oRXgVSUF25NHMfhsRwPgSWQ1oeDTv9Xmd9xFKKZMm97ZcHQkS6PH2BrRCLsA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vP4_Jm9jTSM", "title": "Ansible-Tutorial: Setup von User-Accounts, SSH und Firewall (Live Coding" },
+    { "id": "yY-ePJa-1IE", "title": "Ansible-Tutorial: Setup eines Root-Servers (Live Coding" }
+  ]
+}

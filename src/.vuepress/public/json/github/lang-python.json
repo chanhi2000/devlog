@@ -3533,5 +3533,20 @@
     "desc": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
     "officialSite": "https://pypi.org/project/llmware/",
     "topics": ["ai", "bert", "embedding-vectors", "embeddings", "faiss", "generative-ai", "information-retrieval", "large-language-models", "machine-learning", "milvus", "nlp", "parsing", "python", "pytorch", "question-answering", "rag", "retrieval-augmented-generation", "semantic-search", "transformers"]
+  }, {
+    "repo": "open-compass/MixtralKit",
+    "desc": "A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI",
+    "officialSite": "",
+    "topics": ["llm", "mistral", "moe"]
+  }, {
+    "repo": "guoqincode/AnimateAnyone-unofficial",
+    "desc": "Unofficial Implementation of Animate Anyone",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hbakri/django-ninja-crud",
+    "desc": "✨ Declarative CRUD Endpoints & Tests with Django Ninja.",
+    "officialSite": "https://django-ninja-crud.readme.io",
+    "topics": ["django", "django-ninja", "django-ninja-crud", "python"]
   }
 ]

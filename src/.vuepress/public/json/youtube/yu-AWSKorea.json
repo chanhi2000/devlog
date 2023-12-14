@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/X4brzU6oq2AQfFtVjZXoEQD4ZSibnyZS97846cL_OVte7l4MueLNNtl1fdSyDCXofgeRwrfNuA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vsqXv3YpEHQ", "title": "Git Secrets를 사용하여 자격 증명 안전하게 보호하기" },
+    { "id": "0yBB1Y0IVEQ", "title": "Amazon MSK Replicator로 리전 간 MSK 클러스터 실시간 복제하기" },
+    { "id": "WzVER475EgA", "title": "AWS Client VPN으로 리소스에 안전하게 접근하기" },
+    { "id": "IWApsNFJrvE", "title": "AWS 공식 커뮤니티 re:Post 알아보기" },
     { "id": "ex1dKvj2HVM", "title": "AWS를 잘 사용하기 위한 7가지 사용 팁" },
     { "id": "OUZpQ2KZggQ", "title": "Modern Transactional Data Lake" },
     { "id": "amL-kQOV0Go", "title": "AWS Instance Scheduler로 비용 절감하기" },

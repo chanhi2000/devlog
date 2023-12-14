@@ -206,16 +206,16 @@ Although these last few projects should have been nice and easy for you, it’s 
 
 - [Day 66][day-66] – Milestone: Projects 16-18
 
-### Days 67-73: Leveling up
+### ✅Days 67-73: Leveling up
 
 We’re going to tackle two tough projects back to back, but in doing so you’ll start to really be amazed at the things you can build on iOS – brace yourself!
 
-- ✅[Day 67][day-67] – Project 19, part one
-- ✅[Day 68][day-68] – Project 19, part two
-- ✅[Day 69][day-69] – Project 19, part three
-- ✅[Day 70][day-70] – Project 20, part one
-- ✅[Day 71][day-71] – Project 20, part two
-- ✅[Day 72][day-72] – Project 21, part one
+- [Day 67][day-67] – Project 19, part one
+- [Day 68][day-68] – Project 19, part two
+- [Day 69][day-69] – Project 19, part three
+- [Day 70][day-70] – Project 20, part one
+- [Day 71][day-71] – Project 20, part two
+- [Day 72][day-72] – Project 21, part one
 - [Day 73][day-73] – Project 21, part two
 
 ### Day 74: Consolidation VIII
@@ -362,8 +362,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-70]: 70.md
 [day-71]: 71.md
 [day-72]: 72.md
-[day-73]: https://www.hackingwithswift.com/100/73
-[day-74]: https://www.hackingwithswift.com/100/74
+[day-73]: 73.md
+[day-74]: 74.md
 [day-75]: https://www.hackingwithswift.com/100/75
 [day-76]: https://www.hackingwithswift.com/100/76
 [day-77]: https://www.hackingwithswift.com/100/77

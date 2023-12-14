@@ -1774,5 +1774,10 @@
     "desc": "Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.",
     "officialSite": "https://useanything.com",
     "topics": ["chatgpt-app", "chroma", "document-chat", "langchain", "langchain-app", "llama", "llm", "llm-inference", "lmstudio", "local-ai", "localai", "mistral-7b", "ollama-gui", "openai-chatgpt", "pinecone", "privategpt", "privategpt4linux", "rag", "retrieval-augmented-generation", "vector-database"]
+  }, {
+    "repo": "elfvingralf/macOSpilot-ai-assistant",
+    "desc": "Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.",
+    "officialSite": "",
+    "topics": []
   }
 ]

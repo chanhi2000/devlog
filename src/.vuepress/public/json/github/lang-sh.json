@@ -269,5 +269,10 @@
     "desc": "Implement wordstar cursor control keys in linux using xkb",
     "officialSite": "",
     "topics": ["wordstar", "xkb"]
+  }, {
+    "repo": "paulredmond/dotfiles",
+    "desc": "My dotfiles",
+    "officialSite": "",
+    "topics": []
   }
 ]

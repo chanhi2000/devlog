@@ -2,8 +2,8 @@
   "channel": {
     "id": "rocketseat",
     "name": "Rocketseat",
-    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZrGqrhoi-8bgGjHGvB9LPlACOM7v_LS1SwaoIQyA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/Wa8TAeikEPnAN6keyurzRiQCs07wqkpIBijsE4oCYDBQHILKyt2y0A1uWaTfR73u7PP54JL8Lg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/6m9Q-yad3FXuGLlAkfcWmkaThNPwT2TGRyfpELFzFZb5BqBYwo_XV_ia_c-k6m6JwAx7m_4B=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/z6e4goZdbhZNhSjHOyx4VWxb1qvVBDfZndlwQuPNHm_E6kt5mLHyVavp9Le9VvIUGUQjhza2qA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "ugDAPN3rhIE", "title": "Desmistificando Big-O Notation com Daniel Costa!" },
@@ -18,3 +18,4 @@
     { "id": "8dkwk6d8vdY", "title": "Autenticação local com BIOMETRIA no React Native" }
   ]
 }
+

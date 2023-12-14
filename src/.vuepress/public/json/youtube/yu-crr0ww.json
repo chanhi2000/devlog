@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "crr0ww",
+    "name": "crow",
+    "profile": "https://yt3.googleusercontent.com/tMOXecWvSUT5EUxUJRfwkV93-Ot9HATM6NNvhIjVNze7pppKPRJXTwt6kg6ltrqQQdFpapyYxA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JWixO53aWTsBGu-Gs5b_khPGzm8HBtyftu_nki2Zrn7aOcpTnoTlKqeWCvaLNwW1Rov15m5ceg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+  ],
+  "playlists": [
+    {
+      "title": "Malware Development",
+      "videos": [
+        { "id": "aNEqC-U5tHM", "title": "Malware Development: Processes, Threads, and Handles" },
+        { "id": "A6EKDAKBXPs", "title": "Malware Development II: Process Injection" },
+        { "id": "P1PHRcmPM7c", "title": "Malware Development III: Native API" },
+        { "id": "lcJdlzKS_5o", "title": "Malware's LAST Stand: SELF-DELETION" }
+      ]
+    }, {
+      "title": "Cryptography",
+      "videos": [
+        { "id": "ri0stsS2R-Y", "title": "How This Algorithm PROTECTS YOU" }
+      ]
+    }
+  ]
+}

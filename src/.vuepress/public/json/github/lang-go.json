@@ -1089,5 +1089,15 @@
     "desc": "A language for writing HTML user interfaces in Go.",
     "officialSite": "",
     "topics": ["go", "hacktoberfest", "html-elements", "htmx", "ide-support", "language-server", "lsp", "server-side-rendering", "templating-languages"]
+  }, {
+    "repo": "googleapis/google-cloud-go",
+    "desc": "Google Cloud Client Libraries for Go.",
+    "officialSite": "https://cloud.google.com/go/docs/reference",
+    "topics": ["cloud-bigquery", "cloud-datastore", "cloud-pubsub", "cloud-storage", "go", "golang", "google-cloud"]
+  }, {
+    "repo": "miekg/dns",
+    "desc": "DNS library in Go",
+    "officialSite": "https://miek.nl/2014/august/16/go-dns-package",
+    "topics": ["dns", "dns-library", "dnssec", "go"]
   }
 ]

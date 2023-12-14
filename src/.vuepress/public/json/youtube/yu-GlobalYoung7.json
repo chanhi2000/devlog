@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_dgi6vOnCO0", "title": "002개고생하면서 배우는 Rust_Basic(LunarVim, Helix, VSCode Zellij)" },
+    { "id": "9242_WM3bss", "title": "003개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(2D구현하기)(LunarVim, Helix, VSCode Zellij)" },
     { "id": "HQ9lhS9U6u0", "title": "001_개고생하면서 배우는 C++front" },
     { "id": "dwDujZlAnAE", "title": "001개고생하면서 배우는 Rust_Basic(LunarVim, Helix, Zellij)" },
     { "id": "FkdqwepcVgA", "title": "009개고생하면서 배우는 C++ 분석(Modern C++)03.Basic_Concepts_II_Integral Data _Floating-point and Arithmetic" },

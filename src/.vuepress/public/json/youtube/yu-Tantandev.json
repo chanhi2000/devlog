@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Tantandev",
+    "name": "Tantan",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZeZPwdxw6JBaxwpeaqmpOevSC56VxPVs5FgEVCbw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gG9lJgXwvPEFze0ykebNPqgeNdIqg97xPz-qAawsrWEmq-t9s0nFZekcnivQ3XcG5OXp7tZ5Ig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jkHqrkcEHRc", "title": "Rust multi-threading code review" }
+  ]
+}

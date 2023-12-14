@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "xebiafunctional",
+    "name": "Xebia Functional (formerly 47 Degrees)",
+    "profile": "https://yt3.googleusercontent.com/Mi8GuogIwe7BkQZeEkWA_qshZP9s0n_RCcHvyRstwHzz0q14dtaKxtEY0iOS-JGqny8wNX9Rvm0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6cLcleyMiE6jEx-cjBn_Jxo_4co0vtG3KIWVX-SKfYujrPFfRQ6MWR2mCoY1phOvGFzgbXDiAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "geV8F59q48E", "title": "Basic optics: lenses, prisms, and traversals in Haskell" },
+    { "id": "lK80dPcsNUg", "title": "Type Proofs and FP for the Kotlin Type System" }
+  ]
+}

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/kwazP42mizQvwvPJxjdI4iCY1Z2q_N6496hL8fckp1YG8anSrHeYxZkIfFIztFwW-AEO_ZzxiQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vu717sGKUts", "title": "기업선택에 고민이 많으신가요?" },
+    { "id": "mcQhuOh9VGw", "title": "개발자 불황 주니어 개발자분들에게 드리고 싶은 이야기" },
     { "id": "rFHyiOhr3ZQ", "title": "간단한 주식 알림용 백엔드 아키텍처 이야기" },
     { "id": "iDq9J1XPm8s", "title": "Google AI 가 드디어 OpenAI 를 뛰어넘다?!" },
     { "id": "rx3r_KswE9Q", "title": "크롤링에서 끝내지 말자" },

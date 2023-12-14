@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "KevinShroff",
+    "name": "Kevin Shroff",
+    "profile": "https://yt3.googleusercontent.com/L7nmLJaKvAZV_0EaKhRRkWhr8_b-Hbb4SnF1O6np1M0-CxqhXlBvyXwMcz5_kX6yGGbw0Krk_0o=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "h22MJD8C1r8", "title": "XPS 15 9570 Hackintosh - Full Installation Guide + Dual Boot" },
+    { "id": "g1-oq4Vr41U", "title": "BIG SUR with TOUCH! | XPS 15 9570 Hackintosh" },
+    { "id": "C7mR6tLvbpc", "title": "XPS 15 9570 Hackintosh! | The Touch MacBook Pro" }
+  ]
+}

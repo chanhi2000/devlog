@@ -609,5 +609,15 @@
     "desc": "Comparing 6502 multiply routines",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "rochus-keller/CspChan",
+    "desc": "A pure C89 implementation of Go channels, including blocking and non-blocking selects. ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jordansissel/xdotool",
+    "desc": "fake keyboard/mouse input, window management, and more ",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -33,5 +33,6 @@ tags: ["youtube", "tutorial", "education", "windows", "@MicrosoftResearch", "@Th
 <MyYouTubeItems jsonName="yu-windowsforumkr" /><!-- 윈도우 포럼 -->
 <MyYouTubeItems jsonName="yu-prydev" /><!-- Prydev -->
 <MyYouTubeItems jsonName="yu-bubhub10" /><!-- bub hub -->
+<MyYouTubeItems jsonName="yu-Adamant_IT" /><!-- Adamant IT -->
 
 <TagLinks />

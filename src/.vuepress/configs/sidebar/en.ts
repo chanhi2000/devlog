@@ -619,6 +619,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-django/query.md',
         '/g4e/db-django/github.md',
         '/g4e/db-django/references.md',
+        '/g4e/db-django/youtube.md',        
       ]
     }, {
       text: '🪳Cockroach',
@@ -882,6 +883,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/70.md',
         '/crashcourse/swift-100-days-of-swift/71.md',
         '/crashcourse/swift-100-days-of-swift/72.md',
+        '/crashcourse/swift-100-days-of-swift/73.md',
+        '/crashcourse/swift-100-days-of-swift/74.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -948,6 +951,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/58.md',
         '/crashcourse/swift-100-days-of-swiftui/59.md',
         '/crashcourse/swift-100-days-of-swiftui/60.md',
+        '/crashcourse/swift-100-days-of-swiftui/61.md',
+        '/crashcourse/swift-100-days-of-swiftui/62.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1166,6 +1171,10 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/ruby-rubyonjets-learning-content/README.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20190204-aws-lambda-function-jets-introductory-series-part-1.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20190205-api-gateway-jets-introductory-series-part-2.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20190206-cloudwatch-event-rule-jets-introductory-series-part-3.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20190211-hello-world-examples-jets-introductory-series-part-4',
       ]
     }, {
       text: '🔺Red Hat Container Tools',

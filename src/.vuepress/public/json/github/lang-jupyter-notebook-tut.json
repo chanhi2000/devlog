@@ -84,6 +84,11 @@
     "desc": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
     "officialSite": "https://mlabonne.github.io/blog/",
     "topics": ["course", "large-language-models", "llm", "machine-learning", "roadmap"]
+  }, {
+    "repo": "amitsangani/Llama-2",
+    "desc": "All the projects related to Llama",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

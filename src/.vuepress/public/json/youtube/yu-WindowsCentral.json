@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "WindowsCentral",
+    "name": "Windows Central",
+    "profile": "https://yt3.googleusercontent.com/Mf0hS8tZOqBt7bgHJgEcvQ7_J9p0-dtj5xqG2J1_AHgrlMILqt6OOOHkjr3kemKSgPJWCrhyyQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v1-dPMX91nEGedfPjoVEwSKVpEi5tw9_n5qc4O2c_-q-w-gL4dCRSpliY0D-z5k7eHqVH1dIiw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GzqIzBn5WLA", "title": "Modernize Windows 10 with these FREE tweaks and tools!" }
+  ]
+}
