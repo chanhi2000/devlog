@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/R9bkBrgOOjdTzIgLHdqiBplVkeD-bb6o0d8VJ15GoA1emrNGyoZ61LbHTxefpDjZqrqxQ1JJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_jHGu-v67iI", "title": "✅ SVN 사용자를 위한 Git" },
+    { "id": "1WabiEGb7lM", "title": "💬 채팅 Code부터 서버배포까지; WebSocket + Tomcat + nginx" },
+    { "id": "FN4icoP6Nis", "title": "☕️ 자바와 자바스크립트; indo, indonesia" },
+    { "id": "jXRkXIcyqt8", "title": "📸 QR Code 로그인; Time-based One Time Password" },
+    { "id": "Lk6GXPjAW6M", "title": "😓 브라우저가 가벼운 게 절!대! 아닙니다" },
+    { "id": "mpV_P4rrrB4", "title": "⏳ 모던 웹을 위한 12가지 원소#2; 12-factor" },
+    { "id": "YjBsoUCJDhA", "title": "⏳ 모던 웹을 위한 12가지 원소;12 factors" },
     { "id": "y7e4CJe9lcQ", "title": "📦 클래스 다이어그램 ☕️ java, PlantUML" },
     { "id": "O73n0txAGuw", "title": "🪟 aws EC2에서  윈도우 임대하기; World Best Client OS" },
     { "id": "BVhQJVEe1ho", "title": "🪟 전자정부 표준프레임워크 시작하기" },

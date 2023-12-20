@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/CDpj23-Bz_cRWW3J1q0ozQgwCisyW6AcMzEjIGmCUzmgidl9G3FXqcA8x-yYZuSznpXWA7ntjbk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9kSLql0pRK0", "title": "리눅스유치원파트1미리보기" },
+    { "id": "GdTJnLWsjc0", "title": "리눅스유치원파트2미리보기" },
+    { "id": "27S0HNPvPBQ", "title": "리눅스시스템부하와 Load Average" },
     { "id": "VOtuhb_y93Q", "title": "리눅스 메모리 사용량 확인 방법 -시스템 전체" },
     { "id": "TpCtPxEGgtk", "title": "리눅스 메모리사용량확인방법 프로세스별" },
     { "id": "cTYrhnydurY", "title": "리눅스파일찾기,파일속문자열찾기" },

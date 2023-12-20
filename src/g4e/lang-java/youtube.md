@@ -123,5 +123,7 @@ meta:
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 하찮은오후 -->
 <MyYouTubeItems jsonName="yu-ssap-dba" /><!-- 쌉DBA -->
 <MyYouTubeItems jsonName="yu-VickingDev" /><!-- VickingDev -->
+<MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
+<MyYouTubeItems jsonName="yu-TheTestingAcademy" /><!-- The Testing Academy -->
 
 <TagLinks />

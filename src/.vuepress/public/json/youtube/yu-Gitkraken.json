@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/hZX7_HJ83tC-kgzQOmtzrG49bJzHEZFOHoIM_gbrxviK0tROVkvg1KZFywzXK1uU00oH2Oh80A8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AziEW5sjEvk", "title": "Changelog Breakdown | GitKraken CLI v1.21: Cloud Patches & Focus View" },
+    { "id": "LBlijN29gb8", "title": "GitKraken Client Tutorial: How to use the Git GUI" },
+    { "id": "sXVTUAJsmLE", "title": "Sharing #code through the #CLI 🌥️ #shorts" },
+    { "id": "_6LR2K6kbM4", "title": "👩🏻‍💻 How was #GitHub #Copilot tested amongst developers? 👨🏽‍💻" },
+    { "id": "yXuTT6gjf7E", "title": "Ever wondered how to seamlessly connect #Jira issues to #developer activity? 🤔 #shorts" },
     { "id": "q4b6L2sS7o8", "title": "Jira GitLab Integration - How to see Git commits, merge requests, and more in Jira." },
     { "id": "yhisa9QSNO0", "title": "Jira GitHub Integration - How to see Git commits, pull requests, and more in Jira." },
     { "id": "Y5o11Z1G0Gw", "title": "Git Merge Conflicts: Explained! 🔀 #shortsvideo #shorts" },

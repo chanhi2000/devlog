@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "1zBaKtw8xKY", "title": "CI/CD with GitHubActions" },
     { "id": "cD4_REpXO9o", "title": "노션과 아이디어, 그리고 활용의 방법 - 1" },
     { "id": "tHDhJ4OAtdA", "title": "ChatGPT + Prompt Engineering" },
     { "id": "Q6J-w3gnDug", "title": "Serverless로 서버 빠르게 배포하기" },

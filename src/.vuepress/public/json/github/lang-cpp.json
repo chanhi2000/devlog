@@ -870,8 +870,7 @@
     "officialSite": "https://discord.gg/P4VE9UY9gJ",
     "topics": ["3d-printer", "3d-printing", "makers"]
   }, {
-    "repo": "Xacone/BestEdrOfTheMarket",
-    "desc": "Little AV/EDR bypassing lab for training & learning purposes",
+    "repo": "Xacone/BestEdrOfTheMarket","desc": "Little AV/EDR bypassing lab for training & learning purposes",
     "officialSite": "",
     "topics": ["defense-evasion", "edr", "edr-evasion", "edr-testing"]
   }, {
@@ -919,5 +918,15 @@
     "desc": "LLMs as Copilots for Theorem Proving in Lean",
     "officialSite": "https://leandojo.org",
     "topics": ["lean", "lean4", "llm-inference", "machine-learning", "theorem-proving"]
+  }, {
+    "repo": "RayTracing/raytracing.github.io",
+    "desc": "Main Web Site (Online Books)",
+    "officialSite": "https://raytracing.github.io/",
+    "topics": ["book", "graphics-rendering", "markdeep", "ray-tracing", "raytracing"]
+  }, {
+    "repo": "tlack/atree",
+    "desc": "Stevan Apter-style trees in C++17",
+    "officialSite": "",
+    "topics": ["apl", "data-structures", "kdb", "tree", "vector"]
   }
 ]

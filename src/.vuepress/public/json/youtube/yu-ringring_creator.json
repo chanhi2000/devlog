@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/hI-evYYYeqonDFo7ibNwfTM1OkFlD5_A91qpsPYNHZt_fs0-D6USJWUFUNgWNwbhvN2q0YkpCA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1ZMac6taiGg", "title": "Kotlin Multiplatform Learning: Module structure of the official tutorial for the Native UI version" },
+    { "id": "3DVWar-RnUQ", "title": "Kotlin Multiplatform Learning: Native UI Tutorial Source Set" },
+    { "id": "VaWz99QCvpk", "title": "Kotlin Multiplatform Learning Native UI Tutorial Expect and Actual Mechanism" },
     { "id": "pTeOhV3d1oM", "title": "Introduction Learning Kotlin Multiplatform For Android Engineer" },
     { "id": "fpI-6hCl0mE", "title": "Steps To Learn Kotlin Multiplatform" },
     { "id": "g976gcRPNiM", "title": "GLSL Lesson Multidimensional Step Function" },

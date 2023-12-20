@@ -1,3 +1,4 @@
+
 [
   {
     "repo": "OpenBapul/hml-equation-parser",
@@ -3552,7 +3553,7 @@
     "repo": "microsoft/promptbase",
     "desc": "All things prompt engineering",
     "officialSite": "",
-    "topics": []
+  "topics": []
   }, {
     "repo": "cg123/mergekit",
     "desc": "Tools for merging pretrained large language models.",
@@ -3563,5 +3564,35 @@
     "desc": "A personal news aggregator and Mastodon client",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "damo-vilab/AnyDoor",
+    "desc": "Official implementations for paper: Anydoor: zero-shot object-level image customization",
+    "officialSite": "https://damo-vilab.github.io/AnyDoor-Page/",
+    "topics": ["image-composition", "image-customization", "image-editing", "image-generation"]
+  }, {
+    "repo": "damo-vilab/i2vgen-xl",
+    "desc": "Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models",
+    "officialSite": "https://i2vgen-xl.github.io",
+    "topics": ["diffusion-models", "video-synthesis"]
+  }, {
+    "repo": "openai/weak-to-strong",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "open-mmlab/Amphion",
+    "desc": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+    "officialSite": "https://openhlt.github.io/amphion/",
+    "topics": ["audio-generation", "audio-synthesis", "audioldm", "audit", "fastspeech2", "hifi-gan", "music-generation", "naturalspeech2", "singing-voice-conversion", "speech-synthesis", "text-to-audio", "text-to-speech", "vall-e", "vits", "voice-conversion"]
+  }, {
+    "repo": "microsoft/LLMLingua",
+    "desc": "To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.",
+    "officialSite": "https://llmlingua.com/",
+    "topics": []
+  }, {
+    "repo": "TuneNN/TuneNN",
+    "desc": "A transformer-based network model for pitch detection",
+    "officialSite": "https://aifasttune.com",
+    "topics": ["audio", "machine-learning", "music", "pitch-detection", "pitch-estimation"]
   }
 ]

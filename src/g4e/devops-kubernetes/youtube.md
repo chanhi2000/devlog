@@ -46,5 +46,7 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 <MyYouTubeItems jsonName="yu-rainbowbear0_0" /><!-- 무지개곰 -->
 <MyYouTubeItems jsonName="yu-DevonCrawford" /><!-- Devon Crawford -->
 <MyYouTubeItems jsonName="yu-kodedge" /><!-- kodEdge -->
+<MyYouTubeItems jsonName="yu-lansunstudio" /><!-- IAN STUDIO {랜선 스튜디오} -->
+<MyYouTubeItems jsonName="yu-AzurenaPratica" /><!-- Azure na Prática -->
 
 <TagLinks />

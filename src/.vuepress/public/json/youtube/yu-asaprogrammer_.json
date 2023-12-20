@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/lINwRNuidBNAA30U31Ej-eaJwyqFfTAUudct6fClabrwYuYlUbB58rsrIOh27t78E5_Q5JMt5CA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jr-XVRX163I", "title": "How to make Flappy Bird game in JavaScript - Step by step tutorial" },
+    { "id": "f6SA72WQXpM", "title": "Custom hooks are fun. Just admit it.  #coding #reactjs" },
     { "id": "bQtAg7AFFrY", "title": "Build and Deploy Your Own Instagram App With React and Firebase | Full Tutorial" }, 
     { "id": "m1DyH-h7rWU", "title": "This Feature Will Make Your Chat App Shine In Your Resume" },
     { "id": "VVJynV_gpLM", "title": "Sound Notification Tutorial for Chat Applications | ReactJS" },

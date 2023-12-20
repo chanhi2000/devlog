@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/87820lQXu6MHYiTwY2dYbk8VWLgcidLabPghdX-7PQkGRK_f88T3JJLKqAxUNY8wOI2V0xJ-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pSsPP1UhQzU", "title": "How to Create Reusable Buttons — HTML, CSS & JavaScript Tutorial" },
+    { "id": "82EGTEqxiNA", "title": "How to Sync Local or Session Storage Across Tabs — JavaScript Tutorial" },
+    { "id": "0v8oMKWP07w", "title": "How to Auto Refresh Parts of Your Website with JavaScript" },
+    { "id": "y4TUJxKW0Cg", "title": "How to Make Selecting Elements Easier — JavaScript Tutorial" },
+    { "id": "7XlCpYa-snU", "title": "How to Build a Search Bar with Web Components — JavaScript Tutorial" },
+    { "id": "bcnpCFIEvHk", "title": "How to Build Icon Buttons with Web Components — JavaScript Tutorial" },
+    { "id": "d14vAVDCxEg", "title": "The Best Way to Include JavaScript Files in Your HTML — Modules & Defer Tutorial" },
     { "id": "mWWMq11wIW4", "title": "How to Change CSS Styles with JavaScript — Tutorial" },
     { "id": "mGLdIOvd-8w", "title": "The Best Way to Use Regex? — Named Capture Groups in JavaScript" },
     { "id": "jYREZLloxGA", "title": "VS Code Hidden Gems: Regex Match Preview + More!" }, 

@@ -144,6 +144,13 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## Justine
+
+- [Bash One-Liners for LLMs](https://justine.lol/oneliners)
+  - [jart/rename-pictures.sh](https://gist.github.com/jart/bd2f603aefe6ac8004e6b709223881c0)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

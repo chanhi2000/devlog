@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/pEant9eo9yQIvvb04TKBhkqq0OswUb2-Knc0ojXRJ1hHtFZcNxZkbkYN3tBZ4RopvvJQhNZnPA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8g9FH2fIOo0", "title": "2023 12 11 개발자 상담소" },
+    { "id": "5cBXY5MPGH8", "title": "2023 12 18 개발자 상담소" },
     { "id": "CedR_QZnUBM", "title": "[2023년 12월 최신] Flutter Windows 환경설정" },
     { "id": "DDCqlDrWsXU", "title": "[2023년 12월 최신] Flutter MacOS 환경설정" },
     { "id": "gvVt11Aeais", "title": "2023 11 05 개발자 상담소" },

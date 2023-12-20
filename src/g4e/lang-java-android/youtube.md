@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🤖Android > 📺Youtube
-tags: ["education", "youtube", "programming", "jdk", "java", "android"]
+tags: ["education", "youtube", "programming", "jdk", "java", "android", "@PhilippLackner", "@StevdzaSan", "@codingwithmitch", "@SimplifiedCoding", "@DouglasSchmidt", "@DelaroyStudios", "@wiseAss", "@tutorialsEU", "@MasterCodingTeam", "@JerryBanfield", "@AwsRh", "@eddydn71", "@vishalkamboj8955", "@DanielMalone", "@CodingwithT", "@sarimLife", "@odaymaleh", "@DroidconItaly", "@soja0524", "@BuildAppsWithPaulo", "@adamMc331", "@chiragkachhadiya", "@smartherd", "@antoniolg28", "@user-nl2vv9cj8d", "@mafiacodes", "@riggaroo", "@androidprocoder", "@howl_coding", "@AndroidCoding", "@genericapps", "@handstandtech", "@android-ios-tutorial", "@_software_engineering", "@kotlang", "@CharfaouiYounes", "@user-st5nc9ie7x", "@Dev2Devs", "@PRABEESHRK", "@fereratlus8705","@ahmed_guedmioui", "@DroidKnights", "@android_devs_academy", "@AndroidPolice", "@gdgosijek5328", "@LearningWorldz", "@ssaurel", "@destoffe", "@getteched"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -59,5 +59,8 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android"]
 <MyYouTubeItems jsonName="yu-AndroidPolice" /><!-- Android Police -->
 <MyYouTubeItems jsonName="yu-gdgosijek5328" /><!-- GDG Osijek -->
 <MyYouTubeItems jsonName="yu-LearningWorldz" /><!-- LearningWorldz -->
+<MyYouTubeItems jsonName="yu-ssaurel" /><!-- Sylvain Saurel -->
+<MyYouTubeItems jsonName="yu-destoffe" /><!-- Destoffe -->
+<MyYouTubeItems jsonName="yu-getteched" /><!-- GetTeched -->
 
 <TagLinks />

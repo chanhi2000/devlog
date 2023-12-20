@@ -829,5 +829,15 @@
     "desc": "Official implementation of DreaMoving",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ActiveVisionLab/Awesome-LLM-3D",
+    "desc": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "bleedline/aimoneyhunter",
+    "desc": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。",
+    "officialSite": "",
+    "topics": []
   }
 ]

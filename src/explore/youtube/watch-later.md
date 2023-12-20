@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Watch Later
 description: 📺Youtube > Watch Later
-tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@HoneyHome_Tip", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@ayshh", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@9buyrithm", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
+tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@HoneyHome_Tip", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@ayshh", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,7 +57,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-techdojang" /><!-- 테크도장 -->
 <MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
 <MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
-<MyYouTubeItems jsonName="yu-9diin" /><!-- 구디사는 개발자 9Diin -->
 <MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
 <MyYouTubeItems jsonName="yu-TheoriTV" /><!-- 티오리티비 TheoriTV -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
@@ -79,7 +78,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-james-montemagno]: https://www.youtube.com/@JamesMontemagno
 [yu-be9952]: https://www.youtube.com/@be9952
 [yu-swiftwithyash]: https://www.youtube.com/@swiftwithyash
-[yu-selfdeveloper4687]: https://www.youtube.com/@selfdeveloper4687
 [yu-creativeclue2772]: https://www.youtube.com/@creativeclue2772
 [yu-gis]: https://www.youtube.com/@gis
 [yu-jj362choi]: https://www.youtube.com/@jj362choi
@@ -102,7 +100,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-kossiecoder]: https://www.youtube.com/@kossiecoder
 [yu-feconfkorea]: https://www.youtube.com/@feconfkorea
 [yu-hallden]: https://www.youtube.com/@Hallden_
-[yu-gdgjohannesburg8669]: https://www.youtube.com/@gdgjohannesburg8669
 [yu-kossiecoder]: https://www.youtube.com/@kossiecoder
 [yu-user-cj9zo7hb4p]: https://www.youtube.com/@user-cj9zo7hb4p
 [yu-freddingo33]: https://www.youtube.com/@freddingo33

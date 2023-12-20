@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/IHXs6nRMMZv-yII4skeZlYgUg4XQ0mnG3F2sRM-5VmiP7ndhu9T0mExNTOwhO7TjricB5HnqEQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "76uqZ0wIJQ8", "title": "Android Studio (Java) Simple MVVM, NFC Reader" },
+    { "id": "kpPU1lGBusw", "title": "Android Studio (Kotlin) Simple MVVM Retrofit with Jetpack Compose" },
+    { "id": "tTHQD9BTSoM", "title": "Android Studio (Kotlin) Customize Navigation Drawer with Jetpack Compose" },
     { "id": "UgW00WK8kV4", "title": "Visual Studio Code (Flutter - Dart) Customize Get X Navigation Drawer" },
     { "id": "JJtvF1Gr1xA", "title": "Android Studio (Kotlin) Customize Navigation Drawer with RecyclerView App" },
     { "id": "6vD8fQ_pkl4", "title": "Android Studio (Java) Customize Navigation Drawer with RecyclerView App" },

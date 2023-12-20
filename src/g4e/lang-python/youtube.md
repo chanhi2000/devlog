@@ -62,5 +62,7 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-zlliu246" /><!-- Liu Zuo Lin -->
 <MyYouTubeItems jsonName="yu-ComputerSciencecompsci112358" /><!-- Computer Science -->
 <MyYouTubeItems jsonName="yu-boanproject" /><!-- 보안프로젝트[boanproject] -->
+<MyYouTubeItems jsonName="yu-pixegami" /><!-- pixegami -->
+<MyYouTubeItems jsonName="yu-Socratica" /><!-- Socratica -->
 
 <TagLinks />

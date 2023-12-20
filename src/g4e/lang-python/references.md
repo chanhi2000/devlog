@@ -222,4 +222,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Python Speed
+
+- [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
+
+
+
 <TagLinks />

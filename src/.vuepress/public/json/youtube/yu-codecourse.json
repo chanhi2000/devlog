@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codecourse",
+    "name": "Codecourse",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRQ6jhKAIO8BgOfYNZXEyQafrWuLt9gHpcJCtmQVw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ZkhgRtbkM8U", "title": "Infinite Scroll with Vue" },
+    { "id": "It2by1dL50I", "title": "Laravel Sanctum (Airlock) SPA Authentication" }
+  ]
+}

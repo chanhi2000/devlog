@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/lOB0YSLGhIh7DdbmkvL2nsevjVGo9pSgwhriNSjajZuqSklUgVH1NsA5xPYe6JGDUKQ6SSS7xw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0RbL5Ps2V-w", "title": "Spring Security Master Class - Configure HttpSecurity | User Authentication & Authorization #4" },
     { "id": "lRyIUCzrSew", "title": "[NEW] Spring Security Basics -  User | UserDetails | UserDetailsManager #springsecurity | Ep - 2" },
     { "id": "tHfUhfDvBmY", "title": "Master Spring Security Basics - II | Step by Step tutorial for beginners | Episode - 3" },
     { "id": "f0Qsst3hwpQ", "title": "[NEW] Spring Security - Securing Web apps | Episode 1" },

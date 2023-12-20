@@ -134,5 +134,10 @@
     "desc": "PyTorch Tutorial for Deep Learning Researchers",
     "officialSite": "",
     "topics": ["deep-learning", "neural-networks", "pytorch", "pytorch-tutorial"]
+  }, {
+    "repo": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+    "desc": "A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.",
+    "officialSite": "",
+    "topics": []
   }
 ]

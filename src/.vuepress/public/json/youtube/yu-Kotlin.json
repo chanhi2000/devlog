@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cmTA3RSqGK0", "title": "Advent of Code 2023 in Kotlin Day 11" },
+    { "id": "wYOR4NHWPoc", "title": "Advent of Code 2023 in Kotlin Day 12" },
+    { "id": "t3FUWfJWrjU", "title": "Kotlin and WebAssembly: Unleashing Cross-Platform Power" },
+    { "id": "a32Otwx7c0w", "title": "Network-Resilient Applications with Store5 | Talking Kotlin #128" },
+    { "id": "a32Otwx7c0w", "title": "Network-Resilient Applications with Store5 | Talking Kotlin #128" },
     { "id": "I0nCFMDkPNo", "title": "Advent of Code 2023 in Kotlin Day 4" },
     { "id": "gLuXUlc6CnE", "title": "Advent of Code 2023 in Kotlin Day 5 | Using Kotlin Notebook" },
     { "id": "CfgzkNtSb9U", "title": "Advent of Code 2023 in Kotlin Day 6" },

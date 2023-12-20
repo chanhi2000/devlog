@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5L2BUuSdZBI", "title": "Don't Make This Common Domain Events Mistake" },
+    { "id": "LOEYZRE72wE", "title": "How to Implement Blazing Fast Query Caching with MediatR" },
+    { "id": "bnTxWV99qdE", "title": "How To Make Your Application Queries Reusable" },
+    { "id": "6LFQ7Ztmw28", "title": "The Fastest Way To Build an API Gateway in .NET" },
     { "id": "uOEDM0c9BNI", "title": "The New Global Error Handling in ASP.NET Core 8" },
     { "id": "ez8bnUPTXwg", "title": "This C# Operator Will Simplify Your Code" },
     { "id": "PxxZcTBYi34", "title": "How To Use Both EF Core and Dapper For CQRS Queries" },

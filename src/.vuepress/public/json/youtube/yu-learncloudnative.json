@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/fbvy650wx4_QRT8rtU1rn6MSGt_vIrdyVE73lsh6EVmnx_fsnWF1v_NLSDk9NiS8ee4GSnOF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kI1kpDrVw5I", "title": "Cilium Week (Session 1): Architecture and Installation" },
+    { "id": "KsGN_3IfRfs", "title": "Building Ask the PDF\" with LangChain, OpenAI and Mistral AI" },
+    { "id": "eNx2wqSB7rY", "title": "Cilium Week (Session 3): BGP, Service mesh & Cluster mesh" },
+    { "id": "lUxI_7iWPXo", "title": "Cilium Week (Session 2): Network policy and observability" },
+    { "id": "kI1kpDrVw5I", "title": "Cilium Week (Session 1): Architecture and Installation" },
     { "id": "U7Rog6JSmAE", "title": "Exploring LangChain 🦜🔗" },
     { "id": "ATokeLxv1rA", "title": "What's new in Istio 1.20" },
     { "id": "hkgLxhrjfUE", "title": "Top 4 Kubernetes kind scenarios" },

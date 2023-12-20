@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gzYqW5hmeAoMcpSeBBOqcWUPa8r0Qe-kaHr17UVUmfEaibEzEZrrJuHk10sHB4IiIIm-G-dgLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5ilvmXjtkX8", "title": "Blob Detection in OpenCV & Python: A Comprehensive Guide" },
+    { "id": "FKIn_UIsXy4", "title": "Contour Detection using OpenCV: A Comprehensive Guide" },
     { "id": "bHR88Ug7K8Q", "title": "Fine-Tuning BERT using Hugging Face Transformers" },
     { "id": "w4TW5j0Wt1c", "title": "YOLO-NAS Pose: A Leap in Pose Estimation Technology" }, 
     { "id": "73gPZXxUHO8", "title": "YOLOv8 Model Comparison & Fusion: Global Wheat Data Challenge | KerasCV" },

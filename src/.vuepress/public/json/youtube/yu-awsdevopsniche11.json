@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "q4Rgh5sdnYs", "title": "How to Setup SonarQube with PostGRE SQL Database #aws #ec2 #sonarqube #postgresql #postgres" },
+    { "id": "0_zauwxvdtU", "title": "How to launch multiple EC2 in AWS using Terraform #AWS #EC2 #terraform #automation #hashicorp" },
     { "id": "3yIDT5w2nCg", "title": "Install Prometheus and Grafana using HELM #kubernetes #prometheus #grafana" },
     { "id": "gg-v6-nfXSU", "title": "AWS VPC Lab Demo - Part 2 #aws #vpc #ec2" },
     { "id": "-6BR9fhVZu0", "title": "AWS VPC Lab Demo - Part 1 #aws #vpc #ec2" },

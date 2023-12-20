@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AssortRockGameAcademy",
+    "name": "어소트락 게임아카데미",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ2jnsUF2cCi8UPoWyeRLF7KXNe1Erey7u30Nvy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/d1YQ7WcrJ11xQC_BOsHW7PMCZX_GgRi-bmLgCgZaFsdeliNmWQ8NmJi4Tm0Oh_URh103ZjOGQyM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PFc4g8mxOiI", "title": "C/C++ 강의 Prologue. C++ 공부이유와 공부법" }
+  ]
+}

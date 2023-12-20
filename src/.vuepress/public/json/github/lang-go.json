@@ -1104,5 +1104,10 @@
     "desc": "🦩 Tools for Go projects",
     "officialSite": "",
     "topics": ["awesome", "awesome-list", "benchmarking", "code-generation", "code-visualization", "command-line-tool", "compilers", "data-visualization", "developer-tools", "documentation", "go", "golang", "profiling", "static-analysis", "tests", "visualization"]
+  }, {
+    "repo": "bytebase/bytebase",
+    "desc": "World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.",
+    "officialSite": "https://www.bytebase.com",
+    "topics": ["cicd", "clickhouse", "devops", "github", "gitlab", "hacktoberfest", "iac", "mongodb", "mysql", "oracle", "postgres", "postgresql", "schema-changes", "schema-migrations", "snowflake", "spanner", "sql", "sql-client", "sqlserver", "tidb"]
   }
 ]

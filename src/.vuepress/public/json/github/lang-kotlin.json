@@ -160,5 +160,10 @@
     "desc": "QuickBASIC 4.5 revival on Android",
     "officialSite": "https://play.google.com/store/apps/details?id=io.atha.quickbasic",
     "topics": ["android", "basic", "programming", "quickbasic", "terminal"]
+  }, {
+    "repo": "gkd-kit/gkd",
+    "desc": "基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP",
+    "officialSite": "",
+    "topics": ["accessibility", "android", "compose", "kotlin", "kotlin-multiplatform"]
   }
 ]

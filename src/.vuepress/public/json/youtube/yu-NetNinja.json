@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/m_WGEq8pBawVi71mEKiFbnOjbkvzyWguNpcAbss54NenWDivjpbbqREAlyoRNONKNBk6QlS87A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_6YVDU0ny58", "title": "Python Crash Course #6 - More on Functions" },
+    { "id": "xWIoTLWpDJ8", "title": "Python Crash Course #7 - Tools" },
+    { "id": "OHT0wGUz5GI", "title": "Python Crash Course #8 - Classes" },
+    { "id": "JutaZ2JxIi4", "title": "CSS Tip - Using the 'has' Pseudo Class #shorts" },
     { "id": "bsoR7xI5C9g", "title": "Python Crash Course #3 - Methods & Functions" },
     { "id": "Mg6B3RsMd54", "title": "Python Crash Course #5 - Control Flow" },
     { "id": "_u23NOHC6WU", "title": "TypeScript Crash Course #12 - Type Guards" },

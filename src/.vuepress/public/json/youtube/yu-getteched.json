@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "getteched",
+    "name": "GetTeched",
+    "profile": "https://yt3.googleusercontent.com/w1i1Hvh-HYlePnBcIvYEsbN1_XJ-Exyue5DIjTJU4HddyRzYXVwNi0MRUpGv2DapLCddHsM4s94=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BY-jRFRTYj_MeA-YHPms-9Cm7uDpfOZnl_ugmHoCkUG0sCBiAJ74BjHlhh3VhUYi2uGC3ymK=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Vq1DWD2PLMM", "title": "How to add fancy animation on Splash screen with Lottie(Easy steps)" }
+  ]
+}

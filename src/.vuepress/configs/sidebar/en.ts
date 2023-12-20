@@ -896,6 +896,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/73.md',
         '/crashcourse/swift-100-days-of-swift/74.md',
         '/crashcourse/swift-100-days-of-swift/75.md',
+        '/crashcourse/swift-100-days-of-swift/76.md',
+        '/crashcourse/swift-100-days-of-swift/77.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -965,6 +967,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/61.md',
         '/crashcourse/swift-100-days-of-swiftui/62.md',
         '/crashcourse/swift-100-days-of-swiftui/63.md',
+        '/crashcourse/swift-100-days-of-swiftui/64.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1016,6 +1019,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/kotlin-android-kodeco/README.md',
+        '/crashcourse/kotlin-android-kodeco/254-getting-started-with-android-wear-with-kotlin.md',
         '/crashcourse/kotlin-android-kodeco/262-dependency-injection-in-android-with-dagger-2-and-kotlin.md',
         '/crashcourse/kotlin-android-kodeco/272-intermediate-recyclerview-tutorial-with-kotlin.md',
         '/crashcourse/kotlin-android-kodeco/853-couchbase-tutorial-for-android-getting-started.md',
@@ -1192,6 +1196,10 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/ruby-rubyonjets-learning-content/20180909-jets-tutorial-debugging-logs-part-3.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20180910-jets-tutorial-background-jobs-part-4.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20180911-jets-tutorial-iam-policies-part-5.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180912-jets-tutorial-function-properties-part-6.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180913-jets-tutorial-extra-environments-part-7.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180926-jets-tutorial-different-environments-part-8.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180927-jets-tutorial-polymorphic-support-part-9.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',
@@ -1232,7 +1240,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/crashcourse/devops-digitalocean-kubernetes/README.md',
-        '/crashcourse/devops-digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-devops-digitalocean-kubernetes.md',
+        '/crashcourse/devops-digitalocean-kubernetes/2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md',
         '/crashcourse/devops-digitalocean-kubernetes/2022/20221118-how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md',
       ]
     }, {

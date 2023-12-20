@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/8Mn7l1_4wF4GhJlxNfU4ohQBbdqNC1r0XZKnrjb4ph0SLv1Yn-BPIzVqWsE5i-tQrNKkP5zRtAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4weNt2Qya2A", "title": "Luke Downing's Larabits - Laravel Pulse First Look" },
+    { "id": "oyMd6Du0ZDc", "title": "Build a Forum With Laravel, Ep 03 - Defining Our Data" },
     { "id": "pv3kNaz9BBg", "title": "Avoid Duplicate Form Submission!" },
     { "id": "S-HHp8g9bwM", "title": "Reading code is one of the most important skills that developers should learn." },
     { "id": "NXMqKkbuIHI", "title": "Improve Refactoring for common Code Blocks" },

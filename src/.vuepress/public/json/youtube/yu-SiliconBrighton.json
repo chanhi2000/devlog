@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/iiK6gL3x34s6W7Tc_765hXxUm2LzboxDnJY7FdOkQpA5veLkVGtLuP4ce6A2d6tddC68kGbx2w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fpXf1K_E_bY", "title": "Transparent http client testing with http4K and WireMock | Brighton Kotlin" },
+    { "id": "R8pdSrK039k", "title": "Puck: the visual editor for React | ASYNC" },
+    { "id": "Ye0O2vgi6PU", "title": "What is TDD and why should I care? | PHP Sussex" },
+    { "id": "7yGUGnWsfvo", "title": "Building Low Code Serverless Applications | AWS Brighton User Group" },
+    { "id": "4w5yoPwzFN4", "title": "Diversity in the Cloud | Brighton Cloud" },
+    { "id": "DmFIgl7jpqs", "title": "Tech X Hospitality | Marketing Matters" },
     { "id": "hTn8hh5Og-Q", "title": "WTF is Serverless? |Brighton Cloud" },
     { "id": "ST7ZXn6Yd2o", "title": "Brighton Kotlin Nov Meetup" },
     { "id": "8SKfwQ2snM8", "title": "Product Unleashed Nov Meetup" },

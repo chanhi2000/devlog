@@ -889,5 +889,20 @@
     "desc": "A network diagnostic tool ",
     "officialSite": "https://trippy.cli.rs",
     "topics": ["cli", "command-line-interface", "command-line-tool", "dns", "freebsd", "icmp", "linux", "macos", "mtr", "netbsd", "network", "networking", "ping", "rust", "rustlang", "tool", "traceroute", "tui", "tui-rs", "windows"]
+  }, {
+    "repo": "anoma/namada",
+    "desc": "Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",
+    "officialSite": "https://namada.net",
+    "topics": ["blockchain", "privacy", "rust", "zkp"]
+  }, {
+    "repo": "ratatui-org/ratatui",
+    "desc": "Rust library that's all about cooking up terminal user interfaces (TUIs)",
+    "officialSite": "https://ratatui.rs",
+    "topics": ["cli", "gui", "ratatui", "rust", "terminal", "terminal-user-interface", "tui", "widgets"]
+  }, {
+    "repo": "oxc-project/oxc",
+    "desc": "⚓ A collection of JavaScript tools written in Rust.",
+    "officialSite": "https://oxc-project.github.io",
+    "topics": ["compiler", "javascript", "linter", "minifier", "parser", "rust", "typescript"]
   }
 ]

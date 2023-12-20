@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/i9FnjbkrMMJq2uc0-1HBUJkmBo-OC5WE-xKW4vqhfWDq3wQpemWTEF60ggHy9_t_9pXckHb8yg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bv4uQ8vnU0I", "title": "VoxBox, 다양한 음성 변환 고민을 날려줄 AI 종합 툴 등장 (TTS, STT)" },
     { "id": "aVFW1gkIxY8", "title": "The magic of SDXL Turbo meets IP adapter and becomes more powerful" },
     { "id": "c7rTj4fLawk", "title": "일상의 웹툰을 간단히 제작해보자! 😜 Comicai" },
     { "id": "OZ7j1101jhg", "title": "[ComfyUI Session 4] Add Lora (easy, only for real newbies)" },

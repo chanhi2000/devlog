@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ScUSzzYyaDsVVjCsBNnZAJS82j78cmL3oGLPS-v-i2kYhBNuHTJs1UIm6lGKk-APU5obTBFBIik=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0b8HHK6Zs-E", "title": "node_modules 대청소" },
+    { "id": "3xZykxAgZL4", "title": "리액트 서버 작업에 지쳤다면 - RTK Query" },
     { "id": "T4QSK3Un4rU", "title": "Redux의 쉬운 대안 - 페북이 만든 Recoil" },
     { "id": "vl88Q2CDcTQ", "title": "개발자 도구 - 005 - Performance 탭 - 앱이 느려졌다면" },
     { "id": "mvHjQ2xJ5n0", "title": "파이썬으로 1분만에 웹앱 만들기 - 데이터 엔지니어에게 특히 유용" },

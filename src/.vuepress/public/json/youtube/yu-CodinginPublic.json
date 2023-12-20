@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/1iRoj5sQ45VNWnNDZXZlZBj3_w0vBlyqsydEhSPIa4FIFWvpnl47yFZ8p2MH0DjScQeAewbHCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YwHJMlvZRCc", "title": "React Dialogs (the right way)" },
+    { "id": "pAuTfg-3zv4", "title": "Live Code: Astro Site Rebuild (real coffee website!)" },
     { "id": "HyDwVN1AFwY", "title": "(FINALLY!) Email for Developers" },
     { "id": "I6ynSVZdX04", "title": "Build a Dark Mode without a White Mode Flash!" },
     { "id": "-vw6uG1JSEA", "title": "Never Forget React forwardRef Again" }, 

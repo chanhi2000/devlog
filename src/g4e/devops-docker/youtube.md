@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐋Docker > 📺Youtube
-tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "jdk" ,"jdk11", "temurin", "temurin11", "docker", "neofetch", "@MarcelDempers", "@KodeKloud", "@GiuseppeScaramuzzino", "@NetworkChuck", "@DBTechYT", "@EltonStoneman", "@TravisMedia", "@VirtualizationHowto", "@Bitovi", "@AkamaiDeveloper", "@bienadam", "@vdespa", "@DevOpsDirective", "@Coderjourney", "@TechnoTim", "@selfhosted", "@PeladoNerd", "@SpaceinvaderOne", "@showmeyourcode", "@baseyou21", "@bytepancake3157", "@tabae-learn4274", "@yamepro-develop", "@Techdox", "@Mauricetpayne"]
+tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "jdk" ,"jdk11", "temurin", "temurin11", "docker", "neofetch", "@MarcelDempers", "@KodeKloud", "@GiuseppeScaramuzzino", "@NetworkChuck", "@DBTechYT", "@EltonStoneman", "@TravisMedia", "@VirtualizationHowto", "@Bitovi", "@AkamaiDeveloper", "@bienadam", "@vdespa", "@DevOpsDirective", "@Coderjourney", "@TechnoTim", "@selfhosted", "@PeladoNerd", "@SpaceinvaderOne", "@showmeyourcode", "@baseyou21", "@bytepancake3157", "@tabae-learn4274", "@yamepro-develop", "@Techdox", "@Mauricetpayne", "@OneMarcFifty", "@takacsmark", "@dotslashrun"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -39,5 +39,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-Techdox" /><!-- Techdox -->
 <MyYouTubeItems jsonName="yu-Mauricetpayne" /><!-- MoToots -->
 <MyYouTubeItems jsonName="yu-OneMarcFifty" /><!-- OneMarcFifty -->
+<MyYouTubeItems jsonName="yu-takacsmark" /><!-- takacsmark -->
+<MyYouTubeItems jsonName="yu-dotslashrun" /><!-- dotslashrun -->
 
 <TagLinks />

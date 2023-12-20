@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vi0YKp5GE3U", "title": "generators, function*, yield, yield* // Professional Modern JavaScript" },
+    { "id": "1bep9hyMyvM", "title": "prototype and __proto__ // Professional JavaScript MasterClass" },
     { "id": "KiObdY77oyQ", "title": "Iterator, Iterable and IterableIterator // Professional JavaScript MasterClass" },
     { "id": "RL7kSOPkGXo", "title": "JavaScript Symbols MasterClass // The Missing Guide" },
     { "id": "IB5TgH8ICNc", "title": "Async Await MasterClass // The JavaScript Promised Land" },

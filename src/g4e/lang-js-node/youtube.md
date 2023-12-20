@@ -220,5 +220,6 @@ tags: ["education", "youtube", "programming", "js", "node", "@AlgoJS", "@bawad",
 <MyYouTubeItems jsonName="yu-code_name_sagang" /><!-- 사강코딩 -->
 <MyYouTubeItems jsonName="yu-SoftwareDaily" /><!-- Software Daily -->
 <MyYouTubeItems jsonName="yu-UiBrainsTechnologies" /><!-- UiBrains Technologies -->
+<MyYouTubeItems jsonName="yu-fullstacktalks" /><!-- Full Stack Talks -->
 
 <TagLinks />

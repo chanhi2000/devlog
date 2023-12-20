@@ -619,5 +619,10 @@
     "desc": "fake keyboard/mouse input, window management, and more ",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "cboxdoerfer/fsearch",
+    "desc": "A fast file search utility for Unix-like systems based on GTK3",
+    "officialSite": "",
+    "topics": ["file-search", "search-engine"]
   }
 ]

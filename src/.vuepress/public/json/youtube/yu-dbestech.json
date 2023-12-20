@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nYzOukQ6S2k", "title": "Flutter Advanced E commerce Riverpod | Nodejs | Mongodb | Clean Architecture" },
+    { "id": "g4t2mG4b7ss", "title": "Flutter 3 Most Debated Packages" },
+    { "id": "7RWS6NpCvhA", "title": "What's the correct folder structure for large scale app building?" },
+    { "id": "9YQ_5rxqEHc", "title": "Unhandled Exception: [core/duplicate-app] A Firebase App named \"[DEFAULT]\" already exists" },
+    { "id": "z3ZhZAlyQpc", "title": "Clean Architecture #flutter #cleanarchitecture #flutterfolderstructure #flutterdev #fluttercleancode" },
     { "id": "SoMjSomc60E", "title": "React native Multi Vendor App Part 2" },
     { "id": "IpyZvUE4sAE", "title": "GetX Force Update UI" },
     { "id": "Bc8SGd69gMs", "title": "Flutter MongoDB and Connection String" },

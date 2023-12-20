@@ -34,5 +34,10 @@
     "desc": "Genesis Smart Contracts for Sidra Chain",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Project-DARC/DARC",
+    "desc": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+    "officialSite": "https://darc.app",
+    "topics": []
   }
 ]

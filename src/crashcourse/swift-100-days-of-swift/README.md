@@ -229,8 +229,8 @@ After two tough projects and yet another important technique, it’s time to hit
 These next three projects will start to show you just how much you’re now able to build with iOS – your skills are really starting to flourish!
 
 - ✅[Day 75][day-75] – Project 22, part one
-- [Day 76][day-76] – Project 22, part two
-- [Day 77][day-77] – Project 23, part one
+- ✅[Day 76][day-76] – Project 22, part two
+- ✅[Day 77][day-77] – Project 23, part one
 - [Day 78][day-78] – Project 23, part two
 - [Day 79][day-79] – Project 23, part three
 - [Day 80][day-80] – Project 24, part one
@@ -365,8 +365,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-73]: 73.md
 [day-74]: 74.md
 [day-75]: 75.md
-[day-76]: https://www.hackingwithswift.com/100/76
-[day-77]: https://www.hackingwithswift.com/100/77
+[day-76]: 76.md
+[day-77]: 77.md
 [day-78]: https://www.hackingwithswift.com/100/78
 [day-79]: https://www.hackingwithswift.com/100/79
 [day-80]: https://www.hackingwithswift.com/100/80

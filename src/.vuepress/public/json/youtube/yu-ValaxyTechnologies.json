@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ValaxyTechnologies",
+    "name": "Valaxy Technologies",
+    "profile": "https://yt3.googleusercontent.com/ZHvElHJoFt72VYPamyrE4xpA2oJ5Id4jgru-Aui13rOo-A7CcjgpyOo_KV8t2lG7zpGwnrj-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0Qqu0iMMUfqlPOxQxHdeMk10gqP50TQzlfbZV3G_BmzO7WneklX7bIDpw9nYWFpxYd2-88kFZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BeYUQaFS-vg", "title": "How to write your first Ansible playbook | Write Simple Ansible Playbook | Learn Ansible Basics" }
+  ]
+}

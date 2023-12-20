@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2F1kUsPloOc", "title": "실시간 데이터 동기화(CDC, 변경 데이터 캡처) 금융/통신 구축 Lesson & Learn [구해줘 Data@토크아이티 프리미엄 웨비나, 디비투이]" },
+    { "id": "anddx0BuEmc", "title": "ERP 프로젝트 실패하는 3가지 이유: 준비 안된 Go Live  , PI 대표성 부족, IT Driven  [구해줘 DX@토크아이티, ASPN 백성현 부사장]" },
+    { "id": "BjQMp3NsCHA", "title": "오픈 API 기반 금융 서비스 연계 및 활용 [토크아이티 웨비나, 유앤아워스, 브로드컴]" },
+    { "id": "1bRswg9RPuo", "title": "3D 프린팅의 요리사, 적층제조 애플리케이션 엔지니어를 위한 실전 Tips [구해줘 Manufacturing@토크아이티 프리미엄 웨비나, 스트라타시스]" },
+    { "id": "MQuOAkdUxXs", "title": "AI로 변화되는 보안관제, 보안운영센터(SOC), 위협탐지에서 위협헌팅으로! [구해줘 Security@토크아이티, 팔로알토네트웍스 장성민 상무]" },
+    { "id": "Xhw71ZPHkF8", "title": "클라우드 네이티브가 만드는 변화:플랫폼 엔지니어, 시스템 엔지니어, DBA  [구해줘 IT infra@토크이아티, 뉴타닉스, 레드햇, EDB]" },
+    { "id": "-gnDr9TZew4", "title": "대용량 데이터 저장의 합리적인 방안, 초고밀도 HDD 스토리지 [구해줘 Data@토크아이티 프리미엄 웨비나, Seagate]" },
+    { "id": "K6YT6JjKLko", "title": "백업 솔루션 발전 역사:VTL, DB 어플라이언스, 중복제거, 백업 어플라이언스, VM백업 [구해줘 Data@토크아이티, Seagate 김정균 이사]" },
+    { "id": "1bRswg9RPuo", "title": "3D 프린팅의 요리사, 적층제조 애플리케이션 엔지니어를 위한 실전 Tips [구해줘 Manufacturing@토크아이티 프리미엄 웨비나, 스트라타시스]" },
     { "id": "-fyuzQx7tbw", "title": "기업용 LLM IBM 왓슨X 플랫폼: 왓슨.AI, 왓슨x.Data  [구해줘 AI@토크아이티, 퀀텀에이아이 최성집대표]" },
     { "id": "bWmL6GRurh0", "title": "Goodbye CentOS! 이제는 RHEL로 마이그레이션 할 시간[토크아이티 웨비나]" },
     { "id": "iGsGa-2fgQw", "title": "클라우드와 AI가 변화시키는 보안 동향과 SOC 변화 [구해줘 Security@토크아이티 프리미엄 웨비나, 팔로알토네트웍스]" },

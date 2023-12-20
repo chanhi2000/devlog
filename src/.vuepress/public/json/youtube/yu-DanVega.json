@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/YZszOyMVJh2dRmktetnCGJVHMf5QTTvjZFn9GOmsw_SYRhhruhSa37Ah3jN0KDZnURZa4rO1I0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZKYFGuukhT4", "title": "Multiple JDBC Clients - How to configure multiple DataSources in Spring" },
     { "id": "w1Nzqm7MnZI", "title": "Building a new application with Spring Boot 3.2" },
     { "id": "sVXUx_Y4hRU", "title": "Introduction to Project CRaC: Enhancing Runtime Efficiency in Java & Spring Development" },
     { "id": "THavIYnlwck", "title": "Significant Scalability Benefits in Spring Boot 3.2 using Virtual Threads" },

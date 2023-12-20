@@ -117,33 +117,33 @@ color: rgba(32,11,15,0.2)
 ```card
 title: Function Properties Part 6
 desc: ...
-link: https://blog.boltops.com/2018/09/12/jets-tutorial-function-properties-part-6
+link: 20180912-jets-tutorial-function-properties-part-6.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_620/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-6-function-properties-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(20,27,106,0.2)
 ```
 
 ```card
 title: Extra Environments Part 7
 desc: ...
-link: https://blog.boltops.com/2018/09/13/jets-tutorial-extra-environments-part-7
+link: 20180913-jets-tutorial-extra-environments-part-7.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_677/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-7-extra-environments-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(192,86,86,0.2)
 ```
 
 ```card
 title: Different Environments Part 8
 desc: ...
-link: https://blog.boltops.com/2018/09/26/jets-tutorial-different-environments-part-8
+link: 20180926-jets-tutorial-different-environments-part-8.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_780/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-8-different-environments-v2.png
-color: rgba(220,30,34,0.2)
+color: rgba(13,31,56,0.2)
 ```
 
 ```card
 title: Polymorphic Support Part 9
 desc: ...
-link: https://blog.boltops.com/2018/09/27/jets-tutorial-polymorphic-support-part-9
+link: 20180927-jets-tutorial-polymorphic-support-part-9.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_584/https://blog.boltops.com/img/posts/2018/09/jets-tutorial-part-9-polymorphic-support-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(26,14,21,0.2)
 ```
 
 ```card

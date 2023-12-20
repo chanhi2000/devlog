@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/RFyvcT19qPmSmKhAJvRY0bHld3w0fa_JalyHOKKpmlCGsEpWXi3ZQKJUB4qmcAB0K4j0vmvme9A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PrxdiJrrrWs", "title": "Next.js 14 Tutorial - 23 - Loading UI" },
+    { "id": "UcnCZ0lXZbo", "title": "Next.js 14 Tutorial - 24 - Error Handling" },
+    { "id": "YG98I2Bj7qw", "title": "Next.js 14 Tutorial - 26 - Handling Errors in Nested Routes" },
+    { "id": "8I5-OTNOni0", "title": "Next.js 14 Tutorial - 28 - Parallel Routes" },
     { "id": "7jBHW98vNjw", "title": "Next.js 14 Tutorial - 21 - Navigating Programmatically" },
     { "id": "7xVWvL-37EE", "title": "Next.js 14 Tutorial - 22 - Templates" },
     { "id": "Tpo5wBuk3po", "title": "Next.js 14 Tutorial - 13 - Route Groups" },

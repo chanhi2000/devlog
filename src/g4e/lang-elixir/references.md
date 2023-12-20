@@ -31,4 +31,11 @@ tags: ["elixir", "exs"]
 
 ---
 
+## ohyecloudy's pnotes
+
+- [빈 리스트에 대한 all? 함수의 리턴 값은? - 공허참(vacuous truth)](http://ohyecloudy.com/pnotes/archives/vacuous-truth/)
+
+---
+
+
 <TagLinks />

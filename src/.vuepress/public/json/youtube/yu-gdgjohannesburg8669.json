@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "gdgjohannesburg8669",
+    "name": "GDG Johannesburg",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSyksO6E4x_RJdpxeR_Xby2USsNy3wDbx7Zaec4sw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qz8dLrnbNMteAbUsAFRZXlQPy-XU8-C5mzJrrFPG_D8gUmhZ5We8O9Dr9g-prNPlG9Vogb2DNw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xBXESZbzK0Y", "title": "Firebase Festival with GDG Pretoria: Evening #1: Overview & Google Analytics" }
+  ]
+}

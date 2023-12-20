@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/dWXT2zMs7EysjsEB2P54TlrhWNnDNweb_9gxR279YYbVufSX-0IOU1FSeC-sl3aFPfUBFXiwvg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "op5izbTHdkQ", "title": "Easy Linux VM Setup in Microsoft Azure: Beginner's Guide" },
     { "id": "yMlOmBdBwoQ", "title": "Easy Kali Linux in Docker Setup: Penetration Testing Simplified!" },
     { "id": "B1Y3pRmJ0GQ", "title": "Master phpMyAdmin on Rocky Linux 9: A Step-by-Step Tutorial" },
     { "id": "HlsTpIPVYY4", "title": "Easy Server Management | Master Cockpit on RHEL / Rocky Linux 9" }

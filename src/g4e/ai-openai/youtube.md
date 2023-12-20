@@ -58,5 +58,7 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-AI-km1yn" /><!-- 모두의AI -->
 <MyYouTubeItems jsonName="yu-WesRoth" /><!-- Wes Roth -->
 <MyYouTubeItems jsonName="yu-runbuild" /><!-- 런빌드 -->
+<MyYouTubeItems jsonName="yu-ritvikmath" /><!-- ritvikmath -->
+<MyYouTubeItems jsonName="yu-vprasadmdmph" /><!-- Vinay Prasad MD MPH -->
 
 <TagLinks />

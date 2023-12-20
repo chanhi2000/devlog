@@ -6,9 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/uAtHLRLqaOAT9CclOY9T7Co1WEnGoaLWPSiDlHp2Qsr7An2xeQSfxZWcWyxkcC-P0GTV-hqdfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ldAeZtTKqgE", "title": "Security Checks Simplified: How to Implement Best Practices with Ease" },
     { "id": "_booBjCB7rU", "title": "Tales of Kafka @Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages" },
     { "id": "hoE1ySO8YR4", "title": "Strategy & Principles to Scale and Evolve MLOps @DoorDash" },
-     { "id": "wtOMn-RdRxU", "title": "From Monorepo Mess to Monorepo Bliss: Avoiding Common Mistakes" },
+    { "id": "wtOMn-RdRxU", "title": "From Monorepo Mess to Monorepo Bliss: Avoiding Common Mistakes" },
     { "id": "D563l11sXyk", "title": "How Application-First Cloud Services are Changing the Game" },
     { "id": "lj5NjKHuFlo", "title": "Using ChatGPT to Search Enterprise Data with Pamela Fox" },
     { "id": "5RJk-Od8ptE", "title": "Is Your Java Application Slow? Check out These Open-Source Profilers" }, 

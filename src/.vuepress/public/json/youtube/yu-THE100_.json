@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/dOpLgcwLsbfDJ246v7XcaMhOQjfOzt84UQGJ_pLeML51fo2oWlcD5LQhvTw_QetjySiOu2rhVg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gEUB6M-e0sY", "title": "[플러터플로우FlutterFlow_중급_7편](Firebase-Auth) Email&Password Auth 이메일&비밀번호 회원가입 / 로그인 / 로그아웃 기능 한번에 개발하기" },
+    { "id": "SLcQCviWvUI", "title": "[플러터플로우FlutterFlow_중급_8편](Firebase-Authentication) Password Reset 패스워드 비밀번호 리셋 기능 개발하기" },
+    { "id": "DWmic46rRi0", "title": "[플러터플로우FlutterFlow_중급_12편](Firebase-Authentication) Phone Sign in 휴대전화번호 로그인 개발하기" },
+    { "id": "nsGgwh_m9Ok", "title": "버블로 첫 프로젝트 시작하기: 인터페이스 기초 | 버블 기초 과정 #2" },
+    { "id": "6rRZSyoNZsA", "title": "[플러터플로우FlutterFlow_중급_11편](Firebase-Authentication) Google Sign in 구글 간편 로그인 개발하기" },
+    { "id": "mrqeA7lsGck", "title": "버블 소개 및 플랫폼 개요 | 버블 기초 과정 #1" },
+    { "id": "gGWz7k9BieE", "title": "[플러터플로우FlutterFlow_중급_10편](Firebase-Authentication) Java JDK 설정법" },
+    { "id": "1VYHg-6mXiY", "title": "[플러터플로우FlutterFlow_중급_9편](Firebase-Authentication) SHA-1 Key 이해와 발급 및 설정하기" },
+    { "id": "W71GEgJIRLs", "title": "[플러터플로우FlutterFlow_완전초급_76편](UI개발) 위젯편 : TextField 텍스트필드 위젯 씹어먹기(3)" },
+    { "id": "5EgEH8r4Zic", "title": "[플러터플로우FlutterFlow_완전초급_75편](UI개발) 위젯편 : TextField 텍스트필드 위젯 씹어먹기(2)" },
     { "id": "K-SIGYOkQj4", "title": "[플러터플로우FlutterFlow_중급_4편](Action-Navigation) Close Dialog 오버레이 위젯 닫기(끝기)" },
     { "id": "NPW0KET-nP8", "title": "[플러터플로우FlutterFlow_완전초급_70편](설정)App Assets : Splash screen, Launcher icon 스플래쉬 화면과 런처아이콘(앱아이콘) 세팅하기" },
     { "id": "dVBLMAvnFWI", "title": "[블렌더 강좌] 모델링 따라하기 : 쿠션 의자 만들기 3강" },

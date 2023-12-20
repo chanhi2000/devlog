@@ -28,7 +28,7 @@ meta:
 
 ## 2022
 
-- [How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes](2022/20221216-how-to-run-serverless-workloads-with-knative-on-devops-digitalocean-kubernetes.md)
+- [How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes](2022/20221216-how-to-run-serverless-workloads-with-knative-on-digitalocean-kubernetes.md)
 - [How To Secure Your Site in Kubernetes with cert-manager, Traefik, and Let’s Encrypt](2022/20221118-how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md)
 
 ```card

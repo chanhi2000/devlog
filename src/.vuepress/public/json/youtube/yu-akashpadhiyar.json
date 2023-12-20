@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "akashpadhiyar",
+    "name": "Akash Padhiyar",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRYuX96si8eDU8QJT4pAMLjLso6ly4UCR1fbXgs4WY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lT01TkYLtR7wrXvqrMkEMxcHZWJt6TiJ7xzN0VZlhdQ764n33n8e4G0CzzpUD6A-Dee-HXFZAQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EhKt0ucXs-g", "title": "React Website Development - Routing & Html Theme" }
+  ]
+}

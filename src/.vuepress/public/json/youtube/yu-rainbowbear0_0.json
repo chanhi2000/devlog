@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "G3FrgzPIFzo", "title": "[개발일기] DB에 대한 피드백 생각과 조치 (조언 환영)" },
+    { "id": "3L28KJLAqdY", "title": "[개발일기] 관리자 페이지 구현 - 미들웨어, bcrypto (조언 환영)" },
+    { "id": "fQuk6Xw5SxI", "title": "[개발일기] 관리자 페이지 구상 (조언 환영)" },
     { "id": "QEDo1zJSdEE", "title": "[개발일기] OAuth를 활용한 로그인 공부 (조언 환영)" },
     { "id": "OHOYZHkE23M", "title": "[개발일기] 프로필 페이지 구상 (조언 환영)" },
     { "id": "-YJDfv4nuj8", "title": "[개발일기] 프로필 페이지 1차 기록 (조언 환영)" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "video_class",
+    "name": "VIDEOCLASS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSz_fybt5aD04_UZBNX6J-NqpJIKlJrYTqzX-vO1w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hMPStgE1zcdFi8uxqiktCKy0otoZLdiXw2JBmFkzGoW0AfwoCN7CN27WKrO3p1yhUqbEhAObbwk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JmsRi5Nz6mA", "title": "Windows' essential function that's as good as Mac's (File explorer tab)" }
+  ]
+}

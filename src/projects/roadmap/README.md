@@ -80,9 +80,9 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 
 > [See README](/crashcourse/swift-100-days-of-swiftui/README.md)
 
-#### C3. `/crashcourse/paul-hudson-swiftui-by-example` 정리
+#### C3. `/crashcourse/swift-swiftui-by-example` 정리
 
-> [See README](/crashcourse/paul-hudson-swiftui-by-example/README.md)
+> [See README](/crashcourse/swift-swiftui-by-example/README.md)
 
 
 #### C5. Notion 관련 API 도입 방법 확인

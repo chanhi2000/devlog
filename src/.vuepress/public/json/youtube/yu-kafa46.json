@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Si2QxZEz8Po", "title": "[선형대수]_01. 딥러닝에서의 선형대수! 오리엔테이션 (동기부여)" },
+    { "id": "ToWPEh1neCY", "title": "[선형대수]_02. Matrix(행렬) 역사, 표현법, 행렬의 종류" },
+    { "id": "rfeEx1saFVE", "title": "[선형대수]_04. Determinant(행렬식), Inverse Matrix(역행렬) 깊게 이해하기" },
     { "id": "vzNRLY_hLlM", "title": "[Probability]_09.  Maximum Likelihood Estimation (MLE) 완벽히 파헤치기 (deep dive)!" },
     { "id": "H342QehYSqo", "title": "[Probability]_10. Maximum A Posterior (MAP) 완벽히 파헤치기 (deep dive)!" },
     { "id": "126JfX_kJTU", "title": "[Probability]_11.  Bayesian Neural Networks 깊은 이해 (Bayesian Inference)" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "simpletechsolutions-tech",
+    "name": "Simple tech solutions",
+    "profile": "https://yt3.googleusercontent.com/5ngLBhtjVCYDi9POkVW4YzXLVh4QaEu8_66qnw_7FOD6HSm5KVF20Gvzc1bZGPCGlOjIRMQUHQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/de6002Qj83YEJ6AlZ8O3LOb_rkJTwopjp7-xYTbkG3O5MINMX8HMEwqhPa_QqVo_fG5tEZXJ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BKcw-qp9E7k", "title": "Attempting to fix a bricked TP Link Archer VR2800 Router" }
+  ]
+}

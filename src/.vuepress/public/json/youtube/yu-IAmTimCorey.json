@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DjeJyyIdWi8", "title": "How To Upgrade a Production App to .NET 8" },
+    { "id": "usxLzTiRu6A", "title": "Collection Expressions in .NET 8" },
     { "id": "y3--fmLLmQA", "title": "Primary Constructors in .NET 8" },
     { "id": "beXH4ezBUi0", "title": "Why Is Microsoft Retiring Visual Studio for Mac?" },
     { "id": "hsrfLtu_cVk", "title": ".NET 8 Adds Shuffle to Random for Arrays and Spans" },

@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Qjns70kKhZY", "title": "128. CAPTCHA #캡차3,  구글 리캡차 백엔드처리" },
+    { "id": "hCwYUl229NE", "title": "129. 날씨API 활용하기 #1 (openweathermap.org)" },
+    { "id": "VAVLcXTZSI8", "title": "130. 날씨API 활용하기 #2 (openweathermap.org)" },
+    { "id": "dSnWinhztzM", "title": "VSCode 에서 SSH를 이용하여 원격지 파일 바로 수정하기" },
+    { "id": "4bAI1iYyKzg", "title": "1. Quickstart 카운터프로그램 (Livewire3)" },
+    { "id": "blVCyOCYssc", "title": "2. Install, 에셋 주입 등 (Livewire3)" },
+    { "id": "1a7E8WfLELs", "title": "네이버 Naver 에 사이트 등록하기" },
+    { "id": "eYpeIKqjqds", "title": "구글 Google 에 사이트 등록하기" },
     { "id": "WPWRrqaUiBA", "title": "27. tailwindcss 공식플러그인 사용법 Official plugins" },
     { "id": "pt7-3PQXZC0", "title": "28. tailwindcss 무료 컴포넌트 (free components) 활용법 알아보기" },
     { "id": "-4ramCQ26lo", "title": "29. tailwindcss Flowbite  600개가 넘는 무료 UI components 사용" },
