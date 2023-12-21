@@ -1893,5 +1893,10 @@
     "desc": "Browse type documentation for JS libraries",
     "officialSite": "https://tsdocs.dev",
     "topics": ["api-ref", "documentation", "typescript"]
+  }, {
+    "repo": "quack-ai/companion",
+    "desc": "IDE extension for contribution assistance",
+    "officialSite": "https://docs.quackai.com",
+    "topics": ["code-assistant", "contribution", "developer-tools", "guidelines", "maintainers", "vscode-extension"]
   }
 ]

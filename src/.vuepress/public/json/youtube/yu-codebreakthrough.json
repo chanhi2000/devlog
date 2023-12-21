@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/7b-DCZA5aeStNuLK2lyOX_MwmFNpXOfzgHR_u01s17CKA8NwNhvijTgpvCi3BvEQB8Xrja3h=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jAm7xrRxEUE", "title": "Rust Programming Introduction - Beginner Crash Course (1 Hour!)" },
+    { "id": "baSUNLu_jQ4", "title": "# is called a pound sign" },
+    { "id": "XCUOvO1sqIE", "title": "Learn Rust programming - Standard Library, Enums, Traits, Arrays, Vectors, HashMaps" },
+    { "id": "bffL82VoO7A", "title": "do this instead of inheritance" },
     { "id": "-lgtb-YSUWE", "title": "Elixir Programming Introduction - Complete Tutorial!" },
     { "id": "9xaN44PNxps", "title": "Phoenix Framework REST API Crash Course - Introduction + Full Elixir API Tutorial" },
     { "id": "Af3s3KsxStY", "title": "Object Oriented Programming in Java - All-in-One Tutorial Series!" },

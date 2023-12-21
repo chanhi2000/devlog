@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ThePolyglotDeveloper",
+    "name": "The Polyglot Developer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSUYOLlgtPDZVZmCkQMtxLOX_ng6JvbQF8zgo4S=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/30ZKoyHbUvUz-KQ_nF6muh8gV7mDXWMXEgUeRL4hVnSe8fYqwDwbSLUFAh0D8uYmOF3uYscR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gujxXf52R_Q", "title": "Cross Platform Desktop Apps with Electron" },
+    { "id": "3Tc6f3nhCxo", "title": "Configuring Visual Studio Code For C++ Projects" },
+    { "id": "bYZlQMWR8HM", "title": "Consume RESTful API Endpoints Within A Golang Application" }
+  ]
+}

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/2jR4D64iFEth8bCxaFsKHcOYwtjwJz7f1ety8NKLGkQFnOOL2mDpucuWELVz0a8_Rp-DMbouSJ4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "F5sj_PFzzx0", "title": "Retrofit Android Tutorial for Beginners with Kotlin" },
     { "id": "fkw1-nYSnhE", "title": "Let's build an AudioConverter to learn Coroutines" }
   ]
 }

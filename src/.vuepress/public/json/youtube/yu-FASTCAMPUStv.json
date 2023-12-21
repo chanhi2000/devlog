@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/AK8K7ZLYoxPuaLI6kagJkRe88IsDtsb9xKDD8qrwLppP2YCNTcgF_LGGimclPVAIwZb3Pn-vTew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bcogZHj_sHs", "title": "[코딩스텝원] 코딩을 5주만에 배울 수 있다고? 현직 개발자가 추천하는 코딩 강의" },
+    { "id": "vhpKNoITY_Q", "title": "[부트캠프] 프론트엔드와 백엔드는 어떻게 협업하나요?" },
+    { "id": "_t_IGnjW5e4", "title": "[부트캠프] 기업 문제를 내가 해결? 실제 기업의 직원이 된 것 같았어요" },
     { "id": "uG7NLX9M82M", "title": "쿠버네티스 (Kubernetes) 객체 Workload [실습] 맛보기" },
     { "id": "kfNUFnEnNIM", "title": "쿠버네티스 (Kubernetes) 객체 Workload [이론] 맛보기" },
     { "id": "WQH0E0SvmQU", "title": "백엔드 개발자를 위한 Kubernetes (쿠버네티스) ㅣ 강의 오리엔테이션 미리보기" },

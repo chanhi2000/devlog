@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SSWTV",
+    "name": "SSW TV | Videos for developers, by developers",
+    "profile": "https://yt3.googleusercontent.com/e5enJPc8qLh6Nlr4RWBuN0D7Jn44bpm5xppZviC-O76uKaaml3zS7DDCOkFbnA9LgayN5WAtdJc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MVkfvzeXiewHujLtKWp8dQ-UImTj4TTEjxx3f96ZyRm8hMgAdQs0hggPYfLBK8Iay6ynPHeA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Oeh2IJw7Zig", "title": "Blazor Web Apps - Goodbye JavaScript! I'm in love with C#" }
+  ]
+}

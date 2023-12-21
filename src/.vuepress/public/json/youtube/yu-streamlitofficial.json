@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/yywUQ_ZU1Bna8IN8qnh_lHDMek4qjrEBHE3NI8SWwsvNO6H2JDw-nNnKTh9isz-PoZ8OmmSLWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZwOnB_uRdX0", "title": "Generating SQL Queries Using AI Agents" },
+    { "id": "58LClFx3WOY", "title": "Vectors and databases and retrieval, oh my!" },
+    { "id": "PLKkudXYCNI", "title": "Demystifying RAG apps with LlamaIndex!" },
+    { "id": "asFqpMDSPdM", "title": "Crafting a Dashboard App in Python using Streamlit" },
     { "id": "YeKybAP_LYc", "title": "Introducing the State of LLM Apps 2023 Report" },
     { "id": "WHTWO0IMh4w", "title": "Accelerating to Product-Market Fit with Streamlit" },
     { "id": "4rXfdzEVSsY", "title": "Evaluating Prompts, LLMs, and Vector Databases" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/KoZi7PprCZK_aa0SS2emknKldVhLnxFFMuqWFrOP9yVJ7--5dPDoR0WEA38NDGl3qyCZV-WH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WnzQU-T3ZB0", "title": "Power Query - Unstack Rows to Columns" },
+    { "id": "JTKW7f62eb0", "title": "Power Query - Unstack Uneven Rows to Columns🍔" },
     { "id": "bg5Fo9D8rL8", "title": "Power Query - Connecting and returning data from ChatGPT 🤖📞" },
     { "id": "DDa8S2lc61w", "title": "Python - Making ChatGPT API Call 📞🤖" },
     { "id": "0sWOK5EAN5Y", "title": "PowerBI & DAX - Lost Customers (Absolute) 🕵️‍♂️👥❌" },

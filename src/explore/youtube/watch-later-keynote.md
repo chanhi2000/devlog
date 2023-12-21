@@ -94,5 +94,7 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-gdgosijek5328" /><!-- GDG Osijek -->
 <MyYouTubeItems jsonName="yu-OpenProjectCommunity" /><!-- OpenProject | Open Source Project Management -->
 <MyYouTubeItems jsonName="yu-gdgjohannesburg8669" /><!-- GDG Johannesburg -->
+<MyYouTubeItems jsonName="yu-FireEyeKorea" /><!-- FireEye Korea -->
+<MyYouTubeItems jsonName="yu-DEFCONConference" /><!-- DEFCONConference -->
 
 <TagLinks />

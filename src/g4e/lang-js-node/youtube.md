@@ -221,5 +221,7 @@ tags: ["education", "youtube", "programming", "js", "node", "@AlgoJS", "@bawad",
 <MyYouTubeItems jsonName="yu-SoftwareDaily" /><!-- Software Daily -->
 <MyYouTubeItems jsonName="yu-UiBrainsTechnologies" /><!-- UiBrains Technologies -->
 <MyYouTubeItems jsonName="yu-fullstacktalks" /><!-- Full Stack Talks -->
+<MyYouTubeItems jsonName="yu-FullQueueDeveloper" /><!-- Full Queue Developer -->
+<MyYouTubeItems jsonName="yu-DavidWhitneycouk" /><!-- David Whitney -->
 
 <TagLinks />

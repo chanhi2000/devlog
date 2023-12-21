@@ -47,5 +47,6 @@ tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx", "@easy_
 <MyYouTubeItems jsonName="yu-vertex42" /><!-- Vertex42 -->
 <MyYouTubeItems jsonName="yu-techteachersandstudents" /><!-- Technology for Teachers and Students -->
 <MyYouTubeItems jsonName="yu-cybercdh" /><!-- cybercdh -->
+<MyYouTubeItems jsonName="yu-PragmaticWorks" /><!-- Pragmatic Works -->
 
 <TagLinks />

@@ -898,6 +898,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/75.md',
         '/crashcourse/swift-100-days-of-swift/76.md',
         '/crashcourse/swift-100-days-of-swift/77.md',
+        '/crashcourse/swift-100-days-of-swift/78.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -968,6 +969,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/62.md',
         '/crashcourse/swift-100-days-of-swiftui/63.md',
         '/crashcourse/swift-100-days-of-swiftui/64.md',
+        '/crashcourse/swift-100-days-of-swiftui/65.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1200,6 +1202,10 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/ruby-rubyonjets-learning-content/20180913-jets-tutorial-extra-environments-part-7.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20180926-jets-tutorial-different-environments-part-8.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20180927-jets-tutorial-polymorphic-support-part-9.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20181112-jets-tutorial-jets-delete.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20180818-introducing-jets-a-ruby-serverless-framework.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20181212-official-aws-ruby-support-for-jets-serverless-framework.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20190113-build-an-api-service-with-jets-ruby-serverless-framework.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',

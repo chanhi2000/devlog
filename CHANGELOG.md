@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+
+---
+
+## [v0.5.42  2023-12-21][v0.5.42]
+
+- 내용채워넣기
+
 ---
 
 ## [v0.5.41  2023-12-20][v0.5.41]
@@ -1275,3 +1282,4 @@ Tips 트리구조 구성
 [v0.5.39]: https://github.com/chanhi2000/devlog/compare/v0.5.38...v0.5.39
 [v0.5.40]: https://github.com/chanhi2000/devlog/compare/v0.5.39...v0.5.40
 [v0.5.41]: https://github.com/chanhi2000/devlog/compare/v0.5.40...v0.5.41
+[v0.5.42]: https://github.com/chanhi2000/devlog/compare/v0.5.41...v0.5.42

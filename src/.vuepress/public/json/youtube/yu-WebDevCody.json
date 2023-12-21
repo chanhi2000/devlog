@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ib0pUey_RjA", "title": "Here's what I know about DynamoDB" },
+    { "id": "aljVv9nRuM0", "title": "My favorite way to practice tailwind" },
+    { "id": "CDZg3maL9q0", "title": "This is the weirdest pitfall about Next.js server actions" },
     { "id": "BCQK4STfzn4", "title": "A guide to using Next 14 (server actions, RSC, useFormState, useFormStatus)" },
     { "id": "ySo4-G6Ycfw", "title": "Why you should version your api endpoints" },
     { "id": "Dupp4PeXAlM", "title": "This is why webhooks are important" },

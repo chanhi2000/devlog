@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DeveloperVoices",
+    "name": "Developer Voices",
+    "profile": "https://yt3.googleusercontent.com/zaOXgUbVrS-dppHiZ2drFzEFLAu7-KwzjflXfuG618AuqufK1IFehnfYzOPGmds3zyliG2UxuTQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kOU7SXN7IIUUwK2GIjosSbzCUBbV4mT3vKDdVlwWG5eEerc98KAl90DxV5RbmnnLjxc0IVRj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Nhb6qA1FF38", "title": "If Kafka has a UX problem, does UNIX have the answer?  (with Luca Pette)" }
+  ]
+}

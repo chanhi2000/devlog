@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/suEBDAcyMiLR56ocW8q3lLXLQ1SZR1-q3n6QJnOsVJehwRUuz5f1fNQ005SBMr26051fCjAg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "shNw2a-Ma5U", "title": "Coding Challenge: Clock Hands (Complete Blazor Web App Solution)" },
     { "id": "lCB9hdfJbSg", "title": ".NET 8 Release Showcase + CF Announcements" },
     { "id": "5NDIqqw7HrE", "title": ".NET 8 LIVE Coding - Building Blazor Movie" },
     { "id": "3vAWLYf76a4", "title": "Why A Portfolio Is The Most Essential Tool In Getting A Web Developer Job" },

@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "xAT47gcoMNs", "title": "The problem with `useEffect`" },
+    { "id": "_ngCLZ5Iz-0", "title": "Zustand - Complete Tutorial" },
+    { "id": "z697isTqXbQ", "title": "Impossible states in React" },
+    { "id": "AVoEBEDviqE", "title": "I can't believe I wrote this React code" },
     { "id": "PisA-OPisUY", "title": "Refactoring a React component - Design Patterns" },
     { "id": "RWz23UKXdAk", "title": "Building an event calendar – React Challenge" },
     { "id": "Z20nUdAUGmM", "title": "Learn Expo Router - Complete Tutorial" },

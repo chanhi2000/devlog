@@ -64,6 +64,12 @@ description: 🐋Docker > 📚References
 
 ---
 
+## panoptica
+
+- [7 Ways to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
+
+---
+
 ## 강남언니
 
 - [Docker Compose 로 local 개발 환경 쉽게 관리하기](https://blog.gangnamunni.com/post/docker-compose-for-local-env)

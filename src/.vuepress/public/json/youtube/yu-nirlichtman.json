@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/12NqD7utK2pTos8vt_b6aITBE7gtnE_U5z3VsjiznrsfUXNWHoXqOIfy_CqCxzAAJbkCA-Bv4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xFHpEyLfPEI", "title": "Making Simple Clipboard Viewer in C on Windows" },
+    { "id": "yO3duGVj-C8", "title": "Making Simple Windows DLL in C" },
+    { "id": "aSkW8HgQbSk", "title": "Making Minimalist Hex Editor in C on Linux" },
     { "id": "VtrQGpUqwqs", "title": "Making Minimalist HTTPS Client in C on Linux" },
     { "id": "ynTuLwKQPMo", "title": "3 Awesome Tips to Locate Man Pages" },
     { "id": "oLP78oy6xU0", "title": "3 Cool Vim Tips to Save Time" },

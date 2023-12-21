@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dipeshiem",
+    "name": "Dipesh Garg",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSTRfMCELtaALCBcUiqti3195T319E4TvNQ2sEy6w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wrzc6CHxhiOoJdWgKpmHwkce36hKoZpNjIN0XaiqmPXBSZnU-imCIiksvk_fH4hoa3QMeXeF3Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eLzSblbJRVI", "title": "Micro-service part 5  Circuit Breaker" }
+  ]
+}

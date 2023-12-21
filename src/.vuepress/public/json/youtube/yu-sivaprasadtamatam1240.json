@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/dLK9Xv_WEs0fOpH-5qNhLvBfeXrYGrRCkgjm15MDvfVawsFDdaZiXI2oyYCsPbYPWuVN6DU-3Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jejmKu-wD2k", "title": "6.Maximum Product Subarray" },
+    { "id": "SEEeRrmaVzA", "title": "8.Search in Rotated Sorted Array" },
     { "id": "Mma3F75ASvk", "title": "3. Contains Duplicate" },
     { "id": "CbSgibCCvm8", "title": "Combining SOLID Principles & Building hands on Project using Golang" },
     { "id": "kznvS5BILz4", "title": "Go DSA   Course Overview" },

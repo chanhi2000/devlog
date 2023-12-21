@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "5rNU6wasucA", "title": "Writing Functions in Python For Absolute Beginners (Python From Zero To One - Part 10)" },
+    { "id": "p_bOt40Q4_s", "title": "5 Things I Never Knew About EXCEPTIONS in Python (Until Recently)" },
+    { "id": "nuI5-N1J9FY", "title": "8 Useful Built-in Python Functions For Beginners (Python Zero To One - Part 11)" },
+    { "id": "Uz4CxNvrprM", "title": "6 Things I Never Knew About IMPORTS in Python Until Recently" },
     { "id": "Z4WupQQdMsQ", "title": "7 Things I Recently Knew About Python Classes & Object-Oriented Programming in Python" },
     { "id": "Yfc_a8-2oGQ", "title": "6 Things I Never Knew About Python LOOPS Until Recent Years" }
   ]

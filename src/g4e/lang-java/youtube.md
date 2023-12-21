@@ -125,5 +125,8 @@ meta:
 <MyYouTubeItems jsonName="yu-VickingDev" /><!-- VickingDev -->
 <MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
 <MyYouTubeItems jsonName="yu-TheTestingAcademy" /><!-- The Testing Academy -->
+<MyYouTubeItems jsonName="yu-puneethkumarnarasimhaiah5092" /><!-- Puneeth Kumar Narasimhaiah -->
+<MyYouTubeItems jsonName="yu-shadsluiter" /><!-- Programming w/ Professor Sluiter -->
+<MyYouTubeItems jsonName="yu-DeveloperVoices" /><!-- Developer Voices -->
 
 <TagLinks />

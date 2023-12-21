@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/JZav5tL14daax3jDES8yDJuU57aPKQYOlaIxHx0SpsL0rhfYOnDD5BUElK3UEGZnkgPkOtrv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6k5riCvX1Rk", "title": "Can I build a multiplayer real-time app in under 3 hours?" },
+    { "id": "zR8dUhLPK80", "title": "4 Web Devs, 1 App Idea (Cassidy Williams, David Khourshid, Shaundai Person)" },
     { "id": "WAE_ZZZ1HOU", "title": "Can you actually own your identity and content on the web? (with Rizél Scarlett)" },
     { "id": "akFMdt9tBFo", "title": "Building a DB-powered JavaScript app + Q&A" },
     { "id": "C5DHnG8W0ts", "title": "Let’s Learn HTMX!" },

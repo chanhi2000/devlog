@@ -904,5 +904,10 @@
     "desc": "⚓ A collection of JavaScript tools written in Rust.",
     "officialSite": "https://oxc-project.github.io",
     "topics": ["compiler", "javascript", "linter", "minifier", "parser", "rust", "typescript"]
+  }, {
+    "repo": "libp2p/rust-libp2p",
+    "desc": "The Rust Implementation of the libp2p networking stack. ",
+    "officialSite": "https://libp2p.io",
+    "topics": ["decentralization", "libp2p", "networking", "peer-to-peer", "rust"]
   }
 ]

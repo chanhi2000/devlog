@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/BWsPTbvL34sdCspZE9uQmQzEViviU8yFxDOY36hWsiO-Y6fWOtiHoP3sHuBzLstCFwg4w7XK=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FU5Orct5_OY", "title": "WeAreDevelopers LIVE - Python Day" },
+    { "id": "ALn5F9h7pg8", "title": "Tech Recruiting Academy - Recruiting in 2024: An Outlook" },
     { "id": "pTaxXLyJPC0", "title": "Coffee with Developers -  Stian Standahl - making ChatGPT talk Norwegian" }
   ]
 }

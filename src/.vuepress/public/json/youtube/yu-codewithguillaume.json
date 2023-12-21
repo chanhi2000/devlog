@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/7rZoCcYJe2T_8eBMkMdDfqNZvZCYLmduiINgjARGAGXQ--COzFlR-6H-3RB6dHNcOxQZlRNoHw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HtM1ZAnivI4", "title": "Auth Client with Nextjs 14 & @Supabase — Course part 2" },
+    { "id": "CReXlKzndj4", "title": "Magic Link with Nextjs 14 & @Supabase — Course part 4" },
+    { "id": "fibEwGpJ9qI", "title": "Auth SSR with Nextjs 14 & @Supabase — Course part 3" },
     { "id": "P88-oZT64aE", "title": "Learn Resend — Full Course 4K for beginners [2 hours] 2023" },
     { "id": "HNXKB2Yn5O0", "title": "Building a Full-Stack Web App with Next.js 14, @resendlabs & @Supabase — 1080p [4 hours] 2023" },
     { "id": "iXz82niZ3OA", "title": "Get started with Nextjs 14 & @Supabase — Course part 1" },

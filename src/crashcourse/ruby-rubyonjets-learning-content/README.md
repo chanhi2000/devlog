@@ -149,31 +149,31 @@ color: rgba(26,14,21,0.2)
 ```card
 title: Jets Delete Tutorial
 desc: ...
-link: https://blog.boltops.com/2018/11/12/jets-tutorial-jets-delete
+link: 20181112-jets-tutorial-jets-delete.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_746/https://blog.boltops.com/img/posts/2018/11/jets-delete-v2.png
-color: rgba(220,30,34,0.2)
+color: rgba(240,130,26,0.2)
 ```
 
 ```card
 title: Build an API with the Jets Ruby Serverless Framework
 desc: ...
-link: https://blog.boltops.com/2019/01/13/build-an-api-service-with-jets-ruby-serverless-framework
+link: 20190113-build-an-api-service-with-jets-ruby-serverless-framework.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_590/https://blog.boltops.com/img/posts/2019/01/build-an-api-v2.png
-color: rgba(220,30,34,0.2)
+color: rgba(54,70,153,0.2)
 ```
 
 ```card
 title: Official AWS Ruby Support for Jets
 desc: ...
-link: https://blog.boltops.com/2018/12/12/official-aws-ruby-support-for-jets-serverless-framework
+link: 20181212-official-aws-ruby-support-for-jets-serverless-framework.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_604/https://blog.boltops.com/img/posts/2018/12/official-ruby-support-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(34,18,53,0.2)
 ```
 
 ```card
 title: Introducing Jets - A Ruby Serverless Framework
 desc: ...
-link: https://blog.boltops.com/2018/08/18/introducing-jets-a-ruby-serverless-framework
+link: 20180818-introducing-jets-a-ruby-serverless-framework.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_800/https://blog.boltops.com/img/posts/2018/08/introducing-jets-v5.png
 color: rgba(220,30,34,0.2)
 ```

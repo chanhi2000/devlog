@@ -62,5 +62,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android", "@Philip
 <MyYouTubeItems jsonName="yu-ssaurel" /><!-- Sylvain Saurel -->
 <MyYouTubeItems jsonName="yu-destoffe" /><!-- Destoffe -->
 <MyYouTubeItems jsonName="yu-getteched" /><!-- GetTeched -->
+<MyYouTubeItems jsonName="yu-tareksabry5231" /><!-- Tarek Sabry -->
+<MyYouTubeItems jsonName="yu-danieltalkscode" /><!-- Daniel Talks Code -->
 
 <TagLinks />

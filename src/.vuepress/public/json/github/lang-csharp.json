@@ -284,5 +284,10 @@
     "desc": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.",
     "officialSite": "https://avaloniaui.net",
     "topics": ["android", "app-framework", "avalonia", "avaloniaui", "browser", "c-sharp", "cross-platform", "csharp", "desktop", "dotnet", "gui", "ios", "linux", "macos", "mobile", "mvvm", "wasm", "windows", "xamarin", "xaml"]
+  }, {
+    "repo": "ihm-tswow/Links-Awakening-DX-HD",
+    "desc": "Unaffiliated fork off https://linksawakeningdxhd.itch.io/links-awakening-dx-hd",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/MNEsC8Wtd1Stf_OQYP-OBqVoveODo09vUT3WrEftmEA65X1zuJ5QOOJnOWAucqgedq-3qA-JWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TJVLkVUUzGk", "title": "Code With Mark - Subsets & Joins Part 2!" },
+    { "id": "ghJUEhbnCFE", "title": "Getting Started with the new MongoDB Provider for EF Core" },
+    { "id": "TJVLkVUUzGk", "title": "Code With Mark - Subsets & Joins Part 2!" },
     { "id": "e9eQurARe1M", "title": "The Index: Semantic Search, IoT, and Microsoft Semantic Kernel" },
     { "id": "fLSrQ-dC-Ds", "title": "Unified Observability: MongoDB & Grafana Cloud Integration" },
     { "id": "X9QqA0alA8Q", "title": "Testing & Packaging a Python Library: Coding with Mark" },

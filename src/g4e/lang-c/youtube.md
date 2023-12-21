@@ -32,5 +32,7 @@ tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "progra
 <MyYouTubeItems jsonName="yu-user-ej8bq1gs7f" /><!-- 쉽게 배우는 프로그래밍 -->
 <MyYouTubeItems jsonName="yu-AssortRockGameAcademy" /><!-- 어소트락 게임아카데미 -->
 <MyYouTubeItems jsonName="yu-javidx9" /><!-- javidx9 -->
+<MyYouTubeItems jsonName="yu-ThePolyglotDeveloper" /><!-- The Polyglot Developer -->
+<MyYouTubeItems jsonName="yu-nirlichtman" /><!-- Nir Lichtman -->
 
 <TagLinks />

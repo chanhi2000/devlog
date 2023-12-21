@@ -3594,5 +3594,30 @@
     "desc": "A transformer-based network model for pitch detection",
     "officialSite": "https://aifasttune.com",
     "topics": ["audio", "machine-learning", "music", "pitch-detection", "pitch-estimation"]
+  }, {
+    "repo": "gpt-engineer-org/gpt-engineer",
+    "desc": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+    "officialSite": "",
+    "topics": ["ai", "autonomous-agent", "codebase-generation", "coding-assistant", "gpt-4", "openai", "python"]
+  }, {
+    "repo": "bytedance/ImageDream",
+    "desc": "The code releasing for https://image-dream.github.io/",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Ucas-HaoranWei/Vary",
+    "desc": "Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "officialSite": "https://www.ansible.com/",
+    "topics": ["ansible", "hacktoberfest", "python"]
+  }, {
+    "repo": "johnma2006/mamba-minimal",
+    "desc": "Simple, minimal implementation of Mamba in one file of PyTorch.",
+    "officialSite": "",
+    "topics": []
   }
 ]

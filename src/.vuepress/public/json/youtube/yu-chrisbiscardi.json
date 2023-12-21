@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Th-ToYeCHQw", "title": "Day 11 - Advent of Code" },
+    { "id": "pEufMUIivdU", "title": "Day 17 - Advent of Code" },
+    { "id": "q7fVDaDvP7Y", "title": "Day 16 - Advent of Code" },
+    { "id": "4jLvsB3E6I8", "title": "Day 14 - Advent of Code" },
     { "id": "KqxRlsmGGa0", "title": "Day 04 - Advent of Code" },
     { "id": "Au2DTgwrAcs", "title": "Day 06 - Advent of Code 2023" },
     { "id": "vmTGN_0Crns", "title": "Choosing a Bevy Starter and CI to itch.io" },

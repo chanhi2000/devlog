@@ -374,5 +374,10 @@
     "desc": "Reactive Programming in Swift",
     "officialSite": "",
     "topics": ["functional", "ios", "observer", "reactive", "reactivex", "rxswift", "swift", "unidirectional"]
+  }, {
+    "repo": "kickingvegas/Captee",
+    "desc": "Captee is a macOS app that enables the sharing of links and content to Emacs Org Mode and Markdown-supporting tools.",
+    "officialSite": "",
+    "topics": []
   }
 ]

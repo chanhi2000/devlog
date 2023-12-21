@@ -928,5 +928,15 @@
     "desc": "Stevan Apter-style trees in C++17",
     "officialSite": "",
     "topics": ["apl", "data-structures", "kdb", "tree", "vector"]
+  }, {
+    "repo": "Nukem9/dlssg-to-fsr3",
+    "desc": "Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Librum-Reader/Librum",
+    "desc": "The Librum client application",
+    "officialSite": "https://librumreader.com",
+    "topics": ["cmake", "cpp", "ebook-reader", "ebooks", "library-management", "linux", "qml", "qt", "qt6", "reader"]
   }
 ]
