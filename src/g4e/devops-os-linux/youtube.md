@@ -67,5 +67,6 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 <MyYouTubeItems jsonName="yu-kskroyaltech" /><!-- Ksk Royal -->
 <MyYouTubeItems jsonName="yu-Doriandotslash" /><!-- DorianDotSlash -->
 <MyYouTubeItems jsonName="yu-eflinux" /><!-- EF - Linux Made Simple -->
+<MyYouTubeItems jsonName="yu-tech_craft" /><!-- Tech Craft -->
 
 <TagLinks />

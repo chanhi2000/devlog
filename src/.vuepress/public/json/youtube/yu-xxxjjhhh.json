@@ -6,36 +6,52 @@
     "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fBzR6DqP5jk", "title": "Spring boot jar build and AWS EC2 deployment" },
     { "id": "RPLodGi1uSo", "title": "셀레늄 13 : iframe 변경" },
     { "id": "WtT4t7QM2aw", "title": "셀레늄 12 : 특정 문자열 찾기" },
-    { "id": "UpwJOImeYcA", "title": "Resilience4J 1 : MSA 장애 대응 방법" },
-    { "id": "GbTOoJ0Y5eA", "title": "스프링 시큐리티 12 : InMemory 방식 유저 정보 저장" },
-    { "id": "7gEqj2_pcto", "title": "스프링 시큐리티 13 : http basic 방식 로그인" },
-    { "id": "SsdDnI3bHcI", "title": "스프링 시큐리티 10 : 세션 설정 (소멸, 중복 로그인, 고정 보호)" },
-    { "id": "l8xjecnAzMw", "title": "스프링 시큐리티 11 : csrf enable 설정 방법" },
     { "id": "zWwRovX6Ey0", "title": "How to Shut Down AWS RDS (Avoid Backup Charges)" },
     { "id": "LJmKaPLuIiw", "title": "MS Edge 기반 셀레늄 크롤링 환경 구성" },
-    { "id": "t-TsjyBmHcQ", "title": "스프링 시큐리티 9 : 세션 사용자 아이디 정보" },
-    { "id": "dIFq8Fbmx0w", "title": "스프링 시큐리티 6 : DB 연결" }, 
-    { "id": "B03OoUVgVIA", "title": "스프링 시큐리티 5 : BCrypt 암호화 메소드" }, 
-    { "id": "eEkV0zir9mQ", "title": "스프링 시큐리티 4 : 커스텀 로그인 설정" }, 
-    { "id": "NdRVhOccuOs", "title": "스프링 시큐리티 : 버전별 Security Config 구현 방법" }, 
-    { "id": "U3Jkuy5Hc00", "title": "스프링 시큐리티 8 : DB기반 로그인 검증 로직" }, 
-    { "id": "MebrJCxjc6s", "title": "스프링 시큐리티 : 회원 중복 검증 방법" }, 
-    { "id": "m9lsS36QGCk", "title": "스프링 시큐리티 7 : 회원 가입 로직" }, 
-    { "id": "ov84EoU0KAE", "title": "스프링 시큐리티 3 : Security Config 인가 작업" },
-    { "id": "qnDdx8XdKwY", "title": "스프링 시큐리티 2 : 프로젝트 생성" },
-    { "id": "y0PXQgrkb90", "title": "스프링 시큐리티 1 : 실습 목표 및 간단한 동작 원리" },
     { "id": "fBzR6DqP5jk", "title": "Spring boot jar build and AWS EC2 deployment" },
     { "id": "eC62nLMEO9M", "title": "Start a Spring Boot project" },
     { "id": "EpOZuN3-yrk", "title": "Spring WebFlux R2DBC MySQL database single connection" },
     { "id": "EpOZuN3-yrk", "title": "Spring WebFlux R2DBC MySQL database single connection" },
     { "id": "slFndhOlSyA", "title": "스프링 WebFlux R2DBC Config 클래스 (단일 연결)" },
-    { "id": "5KqfP5wtWmU", "title": "Spring WebFlux R2DBC multiple connections (multi DB)" },
-    { "id": "BqTXiqK7qDo", "title": "Spring Boot CKEditor 17 : Create AWS S3 and Create Connection Config" }
+    { "id": "5KqfP5wtWmU", "title": "Spring WebFlux R2DBC multiple connections (multi DB)" }
   ],
   "playlists": [
     {
+      "title": "Resilience4J",
+      "videos": [
+        { "id": "UpwJOImeYcA", "title": "Resilience4J 1 : MSA 장애 대응 방법" },
+        { "id": "EL2XEh6l_Rc", "title": "Resilience4J 2 : 제공 모듈 역할 및 동작" },
+        { "id": "f7-t8o9NbFI", "title": "Resilience4J 3 : 프로젝트 시작 의존성 추가" },
+        { "id": "mN8RtsKAaBI", "title": "Resilience4J 4 : 호출용 API 서버" },
+        { "id": "vfDXRZqrzSs", "title": "Resilience4J 5 : 슬라이딩 윈도우 기법" },
+        { "id": "U28Q3kDwcg4", "title": "Resilience4J 6 : 서킷 브레이커 구현 실습" },
+        { "id": "klfx8Xq-cq4", "title": "Resilience4J 7 : retry 재시도 구현 실습" },
+        { "id": "11VlEZcvZ-g", "title": "Resilience4J 8 : bulk head 구현 실습" },
+        { "id": "mQb6exPfnHk", "title": "Resilience4J 9 : actuator 서킷 상태 체크" }
+      ]
+    }, {
+      "title": "스프링 시큐리티",
+      "videos": [
+        { "id": "y0PXQgrkb90", "title": "스프링 시큐리티 1 : 실습 목표 및 간단한 동작 원리" },
+        { "id": "qnDdx8XdKwY", "title": "스프링 시큐리티 2 : 프로젝트 생성" },
+        { "id": "ov84EoU0KAE", "title": "스프링 시큐리티 3 : Security Config 인가 작업" },
+        { "id": "NdRVhOccuOs", "title": "스프링 시큐리티 : 버전별 Security Config 구현 방법" },
+        { "id": "eEkV0zir9mQ", "title": "스프링 시큐리티 4 : 커스텀 로그인 설정" },
+        { "id": "B03OoUVgVIA", "title": "스프링 시큐리티 5 : BCrypt 암호화 메소드" },
+        { "id": "dIFq8Fbmx0w", "title": "스프링 시큐리티 6 : DB 연결" },
+        { "id": "m9lsS36QGCk", "title": "스프링 시큐리티 7 : 회원 가입 로직" },
+        { "id": "MebrJCxjc6s", "title": "스프링 시큐리티 : 회원 중복 검증 방법" },
+        { "id": "U3Jkuy5Hc00", "title": "스프링 시큐리티 8 : DB기반 로그인 검증 로직" },
+        { "id": "t-TsjyBmHcQ", "title": "스프링 시큐리티 9 : 세션 사용자 아이디 정보" },
+        { "id": "SsdDnI3bHcI", "title": "스프링 시큐리티 10 : 세션 설정 (소멸, 중복 로그인, 고정 보호)" },
+        { "id": "l8xjecnAzMw", "title": "스프링 시큐리티 11 : csrf enable 설정 방법" },
+        { "id": "GbTOoJ0Y5eA", "title": "스프링 시큐리티 12 : InMemory 방식 유저 정보 저장" },
+        { "id": "7gEqj2_pcto", "title": "스프링 시큐리티 13 : http basic 방식 로그인" }
+      ]
+    }, {
       "title": "레디스 : Redis",
       "videos": [
         { "id": "W7F1QW9uZmY", "title": "Redis 1 : Installing Redis Server on AWS EC2 and Easy to Work" },

@@ -74,5 +74,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "basecamp/solid_queue",
+    "desc": "Database-backed Active Job backend",
+    "officialSite": "",
+    "topics": []
   }
 ]

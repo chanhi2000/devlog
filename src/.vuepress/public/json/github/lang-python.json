@@ -3619,5 +3619,10 @@
     "desc": "Simple, minimal implementation of Mamba in one file of PyTorch.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "JoeanAmier/XHS-Downloader",
+    "desc": "免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具",
+    "officialSite": "",
+    "topics": ["aiohttp", "css", "exe", "json", "linux", "macos", "pyinstaller", "python", "textual", "tui", "windows", "xhs"]
   }
 ]

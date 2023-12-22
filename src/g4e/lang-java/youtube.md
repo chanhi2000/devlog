@@ -128,5 +128,8 @@ meta:
 <MyYouTubeItems jsonName="yu-puneethkumarnarasimhaiah5092" /><!-- Puneeth Kumar Narasimhaiah -->
 <MyYouTubeItems jsonName="yu-shadsluiter" /><!-- Programming w/ Professor Sluiter -->
 <MyYouTubeItems jsonName="yu-DeveloperVoices" /><!-- Developer Voices -->
+<MyYouTubeItems jsonName="yu-nullistp4065" /><!-- 뇽꾸 -->
+<MyYouTubeItems jsonName="yu-KyounRrock" /><!-- Kyeongrok Kim -->
+<MyYouTubeItems jsonName="yu-IT-sm6mq" /><!-- IT 늦공 김부장 -->
 
 <TagLinks />

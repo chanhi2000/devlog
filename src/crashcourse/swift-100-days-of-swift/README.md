@@ -232,8 +232,8 @@ These next three projects will start to show you just how much you’re now able
 - ✅[Day 76][day-76] – Project 22, part two
 - ✅[Day 77][day-77] – Project 23, part one
 - ✅[Day 78][day-78] – Project 23, part two
-- [Day 79][day-79] – Project 23, part three
-- [Day 80][day-80] – Project 24, part one
+- ✅[Day 79][day-79] – Project 23, part three
+- ✅[Day 80][day-80] – Project 24, part one
 - [Day 81][day-81] – Project 24, part two
 
 ### Day 82: Consolidation IX
@@ -368,8 +368,8 @@ It’s time to see how much you remember from across the entire curriculum. Are 
 [day-76]: 76.md
 [day-77]: 77.md
 [day-78]: 78.md
-[day-79]: https://www.hackingwithswift.com/100/79
-[day-80]: https://www.hackingwithswift.com/100/80
+[day-79]: 79.md
+[day-80]: 80.md
 [day-81]: https://www.hackingwithswift.com/100/81
 [day-82]: https://www.hackingwithswift.com/100/82
 [day-83]: https://www.hackingwithswift.com/100/83

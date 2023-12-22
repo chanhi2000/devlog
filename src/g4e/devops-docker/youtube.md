@@ -42,5 +42,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-takacsmark" /><!-- takacsmark -->
 <MyYouTubeItems jsonName="yu-dotslashrun" /><!-- dotslashrun -->
 <MyYouTubeItems jsonName="yu-Jims-Garage" /><!-- Jim's Garage -->
+<MyYouTubeItems jsonName="yu-KyounRrock" /><!-- Kyeongrok Kim -->
+<MyYouTubeItems jsonName="yu-anthonygg_" /><!-- Anthony GG -->
 
 <TagLinks />

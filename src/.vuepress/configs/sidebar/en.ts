@@ -899,6 +899,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swift/76.md',
         '/crashcourse/swift-100-days-of-swift/77.md',
         '/crashcourse/swift-100-days-of-swift/78.md',
+        '/crashcourse/swift-100-days-of-swift/79.md',
+        '/crashcourse/swift-100-days-of-swift/80.md',
       ]
     }, {
       text: '🕊️100 Days of SwiftUI',
@@ -970,6 +972,7 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/swift-100-days-of-swiftui/63.md',
         '/crashcourse/swift-100-days-of-swiftui/64.md',
         '/crashcourse/swift-100-days-of-swiftui/65.md',
+        '/crashcourse/swift-100-days-of-swiftui/66.md',
       ]
     }, {
       text: '🕊️SwiftUI by Example',
@@ -1206,6 +1209,8 @@ export const sidebarEn: SidebarConfig = {
         '/crashcourse/ruby-rubyonjets-learning-content/20180818-introducing-jets-a-ruby-serverless-framework.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20181212-official-aws-ruby-support-for-jets-serverless-framework.md',
         '/crashcourse/ruby-rubyonjets-learning-content/20190113-build-an-api-service-with-jets-ruby-serverless-framework.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20190114-serverless-slack-commands-with-ruby.md',
+        '/crashcourse/ruby-rubyonjets-learning-content/20181221-jets-afterburner-serverless-rails-on-aws-lambda-in-5-minutes.md',
       ]
     }, {
       text: '🔺Red Hat Container Tools',

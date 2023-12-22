@@ -1109,5 +1109,10 @@
     "desc": "World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.",
     "officialSite": "https://www.bytebase.com",
     "topics": ["cicd", "clickhouse", "devops", "github", "gitlab", "hacktoberfest", "iac", "mongodb", "mysql", "oracle", "postgres", "postgresql", "schema-changes", "schema-migrations", "snowflake", "spanner", "sql", "sql-client", "sqlserver", "tidb"]
+  }, {
+    "repo": "RUB-NDS/Terrapin-Scanner",
+    "desc": "This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper \"Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation\".",
+    "officialSite": "https://terrapin-attack.com",
+    "topics": ["attack", "cryptography", "ssh", "vulnerability", "vulnerability-scanner"]
   }
 ]

@@ -938,5 +938,10 @@
     "desc": "The Librum client application",
     "officialSite": "https://librumreader.com",
     "topics": ["cmake", "cpp", "ebook-reader", "ebooks", "library-management", "linux", "qml", "qt", "qt6", "reader"]
+  }, {
+    "repo": "Anttwo/SuGaR",
+    "desc": "Official implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+    "officialSite": "",
+    "topics": []
   }
 ]

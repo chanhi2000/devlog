@@ -34,5 +34,7 @@ tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "progra
 <MyYouTubeItems jsonName="yu-javidx9" /><!-- javidx9 -->
 <MyYouTubeItems jsonName="yu-ThePolyglotDeveloper" /><!-- The Polyglot Developer -->
 <MyYouTubeItems jsonName="yu-nirlichtman" /><!-- Nir Lichtman -->
+<MyYouTubeItems jsonName="yu-KodySimpson" /><!-- Kody Simpson -->
+<MyYouTubeItems jsonName="yu-DaveChurchill" /><!-- Dave Churchill -->
 
 <TagLinks />

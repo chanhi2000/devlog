@@ -35,6 +35,34 @@
     { "id": "fUsKNjGO4Is", "title": "Spring Core: Why Constructor Based Dependency Injection is Recommended?" }, 
     { "id": "hxZuLn_DHoM", "title": "Spring Boot RabbitMQ Tutorial - #13 - Configure RabbitMQ for JSON Message Communication" }, 
     { "id": "JrkHCGDZB3w", "title": "Spring & Spring Boot Annotations Series - #10  - `@PropertySource` and `@PropertySources` Annotations" }
+  ],
+  "playlists": [
+    {
+      "title": "Spring & Spring Boot Annotations",
+      "videos": [
+        { "id": "ewI4Coe9vJ0", "title": "Spring & Spring Boot Annotations Series - #1 - @Component Annotation" },
+        { "id": "g9yRS9hL4Rw", "title": "Spring & Spring Boot Annotations Series - #2 - @Autowired Annotation" },
+        { "id": "-3XtYZJZnxs", "title": "Spring & Spring Boot Annotations Series - #3 - @Qualifier Annotation" },
+        { "id": "ocecnF10d-k", "title": "Spring & Spring Boot Annotations Series - #4 - @Primary Annotation" },
+        { "id": "hYky8HEaTCk", "title": "Spring & Spring Boot Annotations Series - #5 - @Bean Annotation | @Configuration | Java Config" },
+        { "id": "MsNLjPKfNh8", "title": "Spring & Spring Boot Annotations Series - #6 - @Controller, @Service and @Repository Annotations" },
+        { "id": "ODCzp948cgo", "title": "Spring & Spring Boot Annotations Series - #7 - @Lazy Annotation" },
+        { "id": "N_pEHBIoBsc", "title": "Spring & Spring Boot Annotations Series - #8 - @Scope Annotation | Singleton and Prototype Scopes" },
+        { "id": "dtMWOnl_Dl4", "title": "Spring & Spring Boot Annotations Series - #9 - @Value Annotation" },
+        { "id": "JrkHCGDZB3w", "title": "Spring & Spring Boot Annotations Series - #10  - @PropertySource and @PropertySources Annotations" },
+        { "id": "gUZIzSLIbS8", "title": "Spring Core Annotations Tutorial in 1 Hour | Frequently Asked Spring Core Annotations in Interviews" },
+        { "id": "_SzpggQZNlQ", "title": "Spring & Spring Boot Annotations Series - #11 - @Controller and @ResponseBody Annotations" },
+        { "id": "aAOUolUYj4A", "title": "Spring & Spring Boot Annotations Series - #12 - @RestController Annotation" },
+        { "id": "2j-LZw9o464", "title": "Spring & Spring Boot Annotations Series - #13 - @RequestMapping Annotation" },
+        { "id": "Q2gbGOBsBpU", "title": "Spring & Spring Boot Annotations Series - #14 - @GetMapping Annotation" },
+        { "id": "ZBCSF3Uik0g", "title": "Spring & Spring Boot Annotations Series - #15 - @PostMapping and @RequestBody Annotations" },
+        { "id": "xJN3qmLkUew", "title": "Spring & Spring Boot Annotations Series - #16 - @PutMapping Annotation" },
+        { "id": "pCxPb9WVdA8", "title": "Spring & Spring Boot Annotations Series - #17 - @DeleteMapping Annotation" },
+        { "id": "PoBIwtRhwHo", "title": "Spring & Spring Boot Annotations Series - #18 - @PathVariable Annotation" },
+        { "id": "nf87YZ4mCQs", "title": "Spring & Spring Boot Annotations Series - #19 - @RequestParam Annotation" },
+        { "id": "kZKZHiksACM", "title": "Spring Boot Tutorial for Beginners #9 - @SpringBootApplication Annotation" }
+      ]
+    }
   ]
 }
 

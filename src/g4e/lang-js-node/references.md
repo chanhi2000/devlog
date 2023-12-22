@@ -215,8 +215,15 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 - [Rapid Mock API creation with ChatGPT and json-server](https://www.builder.io/blog/mock-api-data-with-chatgpt)
 - [A Visual Guide to the new App Router in Next.js 13](https://www.builder.io/blog/next-13-app-router)
+- [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 
 ---
+
+## Wasmer
+
+- [Introducing the new Wasmer JS SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
+
+
 
 ## 맹의 코딩 기록장
 
@@ -610,6 +617,8 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Robb Knight.
 
 - [Please, Expose your RSS](https://rknight.me/please-expose-your-rss)
+
+---
 
 ## Misc
 

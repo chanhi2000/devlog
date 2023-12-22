@@ -25,4 +25,10 @@ tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "med
 
 ---
 
+## EFF
+
+- [How To Turn Off Google’s “Privacy Sandbox” Ad Tracking—and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
+
+---
+
 <TagLinks />

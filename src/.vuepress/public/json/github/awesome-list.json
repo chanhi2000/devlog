@@ -844,5 +844,10 @@
     "desc": "不止于 CSS",
     "officialSite": "",
     "topics": ["css", "css3"]
+  }, {
+    "repo": "pingcap/awesome-database-learning",
+    "desc": "A list of learning materials to understand databases internals",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "blogs", "books", "course", "database", "papers"]
   }
 ]

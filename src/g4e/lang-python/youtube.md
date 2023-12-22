@@ -64,5 +64,6 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-boanproject" /><!-- 보안프로젝트[boanproject] -->
 <MyYouTubeItems jsonName="yu-pixegami" /><!-- pixegami -->
 <MyYouTubeItems jsonName="yu-Socratica" /><!-- Socratica -->
+<MyYouTubeItems jsonName="yu-doumcode" /><!-- 도움코드 쉬운예 DoumCode 데이터홍교수 -->
 
 <TagLinks />

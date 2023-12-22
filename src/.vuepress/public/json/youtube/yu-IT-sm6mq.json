@@ -10,6 +10,26 @@
   ],
   "playlists": [
     {
+      "title": "[Spring Boot + Mybatis + Jsp]  간단예제 만들기",
+      "videos": [
+        { "id": "89XVAt5V43c", "title": "[Spring Boot + Mybatis + Jsp] #1.Tool Story - 개발툴에 대한 이야기 입니다. STS , Intellij  | 내장Was, 외장Was 에 대하여" },
+        { "id": "Ib0SI0HkRUk", "title": "[Spring Boot + Mybatis + Jsp] #2.Project 만들기 - 프로젝트를 만들고, 몇 가지 설정을 하면서 그 과정을 배워갑니다." },
+        { "id": "n0rfvWVD4cA", "title": "[Spring Boot + Mybatis + Jsp] #3 Html 틀 작성 | 이번 시간은 앞으로 공부할 내용을 위해 HTML 로 틀을 만드는 작업을 해보았습니다." },
+        { "id": "lpjg7G6wnEg", "title": "[Spring Boot + Mybatis + Jsp] #4 컨트롤러 - 뷰(View) 만들기 | RequestMapping & GetMapping & PostMapping" },
+        { "id": "iAruurM0nv4", "title": "[Spring Boot + Mybatis + Jsp] #5 Header & Footer 헤더 푸터 공통부분 적용하기 | sping.mvc.view.prefix & suffix" },
+        { "id": "BNNBjUn3Zms", "title": "[Spring Boot + Mybatis + Jsp] #6 OracleConnection 환경설정 |  디펜던시, application 설정, DB 구조" },
+        { "id": "w_VsGfjvrv0", "title": "[Spring Boot + Mybatis + Jsp] #7 [Mybatis] Service - Dao - Mapper | Mybatis 프레임웍을 통해 DB(오라클) 연동을 구현." },
+        { "id": "d-UVhC2H2HU", "title": "[Spring Boot + Mybatis + Jsp] #8 Controller 에 객체를 담아서  View 에 전달 | request & model 사용" },
+        { "id": "VJSj_AsnomE", "title": "[Spring Boot + Mybatis + Jsp] #9 [Mybatis] Vo객체사용하기 | 데이타 전달을 위해 Vo 객체를 사용해 봅니다." },
+        { "id": "ipVdu9ueTCE", "title": "[Spring Boot + Mybatis + Jsp] #10 Lombok적용 | 이번 진행중인 프로젝트에 Lombok 을 추가해 보았습니다." },
+        { "id": "fsr6Hjgqdpc", "title": "[Spring Boot + Mybatis + Jsp] #11.  Resultmap & UnderscoreToCamel | 실제 실무에서 자주 사용되는 내용 프로젝트에 적용해봅니다" },
+        { "id": "OQV1nSRmblw", "title": "[Spring Boot + Mybatis + Jsp] #12  YAML파일설정 | application.properties - application.yml 환경설정파일 변환" },
+        { "id": "plGXzt8MmjU", "title": "[Spring Boot + Mybatis + Jsp]  #13 logback-spring , @Slf4j , log.info | 개발에 필요한 로그 환경을 설정해 봅니다." },
+        { "id": "KfFdX92Mmv4", "title": "[Spring Boot + Mybatis + Jsp] #14 CRUD | Mybatis - Select , Insert , Update, Delete 간단한 사용법 구현하기" },
+        { "id": "wsI2Xf3AMW8", "title": "[Spring Boot + Mybatis + Jsp] #15 Mybatis CRUD - 회원정보/가입 | Select , Insert , Update, Delete" },
+        { "id": "uqfY8v-fzQc", "title": "[Spring Boot + Mybatis + Jsp] #20 과정을 마치며" }
+      ]
+    }, {
       "title": "SpringBoot Web 직접 만들어보기",
       "videos": [
         { "id": "xwvT8EspQjU", "title": "#0 Spring boot  오리엔테이션 -  프론트엔드로 웹개발 진행하기 과정을 해보고자 합니다.  | Springboot Web HTML JavaScript | 개발 로드맵" },

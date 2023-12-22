@@ -1804,5 +1804,15 @@
     "desc": "Wireflow - user flow chart real-time collaborative tool",
     "officialSite": "https://wireflow.co",
     "topics": ["collaboration", "flowchart", "hacktoberfest", "javascript"]
+  }, {
+    "repo": "tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "officialSite": "https://tailwindcss.com/",
+    "topics": ["css", "css-framework", "functional-css", "postcss", "responsive", "tailwindcss", "utility-classes"]
+  }, {
+    "repo": "moddio/moddio2",
+    "desc": "HTML5 multiplayer game engine",
+    "officialSite": "https://www.modd.io/",
+    "topics": ["game-engine", "html5-game", "io", "iogames", "multiplayer-browser-game", "multiplayer-game-engine", "multiplayer-game-server", "multiplayer-online-game", "nodejs", "websocket"]
   }
 ]

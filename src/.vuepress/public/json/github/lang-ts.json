@@ -1898,5 +1898,25 @@
     "desc": "IDE extension for contribution assistance",
     "officialSite": "https://docs.quackai.com",
     "topics": ["code-assistant", "contribution", "developer-tools", "guidelines", "maintainers", "vscode-extension"]
+  }, {
+    "repo": "babaohuang/GeminiProChat",
+    "desc": "Minimal web UI for GeminiPro.",
+    "officialSite": "https://geminiprochat.com",
+    "topics": ["astro", "gemini", "gemini-api", "gemini-client", "gemini-pro", "gemini-server", "google", "google-api"]
+  }, {
+    "repo": "openchatai/OpenCopilot",
+    "desc": "🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick",
+    "officialSite": "https://cloud.opencopilot.so",
+    "topics": ["ai-copilot", "copilot", "llm", "sidekick"]
+  }, {
+    "repo": "dream-num/univer",
+    "desc": "Univer is a set of enterprise document and data collaboration solutions, including spreadsheets, documents, and slides. The highly extensible design allows developers to customize personalized functions based on Univer.",
+    "officialSite": "https://univer.work",
+    "topics": ["canvas", "chart", "data-table", "doc", "excel", "formula", "office", "slide", "sparkline", "spreadsheet", "typescript", "univer", "web-based", "xlsx"]
+  }, {
+    "repo": "solidjs/solid-start",
+    "desc": "SolidStart, the Solid app framework",
+    "officialSite": "https://start.solidjs.com",
+    "topics": ["file-system-routing", "meta-framework", "sdk", "solid-js", "spa", "ssr"]
   }
 ]

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "icurfer",
+    "name": "icurfer",
+    "profile": "https://yt3.googleusercontent.com/4lECkGOU1Eniur2rPDo2Q21NK0hNT1IW36ASz4Ij3cEGRz6drmLe4rCiLbfOelqyCVXAEcRbNg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "UjHCF0yDpjE", "title": "소규모 웹서비스 환경 구축 해보기_4 | MariaDB 설치 및 외부 접속 설정" },
+    { "id": "FN9nVcDE6ko", "title": "소규모 웹서비스 환경 구축 해보기_5 | 워드프레스 연동" },
+    { "id": "pOEl7YanVek", "title": "소규모 웹서비스 환경 구축 해보기_6 | 외부 공개를 위한 네트워크 설정 설명" }
+  ]
+}

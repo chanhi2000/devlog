@@ -96,5 +96,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-gdgjohannesburg8669" /><!-- GDG Johannesburg -->
 <MyYouTubeItems jsonName="yu-FireEyeKorea" /><!-- FireEye Korea -->
 <MyYouTubeItems jsonName="yu-DEFCONConference" /><!-- DEFCONConference -->
+<MyYouTubeItems jsonName="yu-user-zj8mp6sv6s" /><!-- 블록체인포럼-김기흥 -->
 
 <TagLinks />

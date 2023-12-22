@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "doumcode",
+    "name": "도움코드 쉬운예 DoumCode 데이터홍교수",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQdLw3NanA-TXjN5tZdGv96vmPQ7hMI1LdZ0BFP0w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yVQg3gidZnxJ4g8Odh5XBf_kwzc38purDMHAWOIg1hKNeCeygrodkZ06r5KImpfwuxBGk0W8mQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uF-iCe57LBI", "title": "머신러닝 응용 3강] 주피터노트북에 아나콘다 가상환경 커널 kernel 등록/해제하기" }
+  ]
+}

@@ -175,13 +175,13 @@ title: Introducing Jets - A Ruby Serverless Framework
 desc: ...
 link: 20180818-introducing-jets-a-ruby-serverless-framework.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_800/https://blog.boltops.com/img/posts/2018/08/introducing-jets-v5.png
-color: rgba(220,30,34,0.2)
+color: rgba(20,27,106,0.2)
 ```
 
 ```card
 title: Build an API with Jets
 desc: ...
-link: https://blog.boltops.com/2019/01/13/build-an-api-service-with-jets-ruby-serverless-framework
+link: 20190113-build-an-api-service-with-jets-ruby-serverless-framework.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_590/https://blog.boltops.com/img/posts/2019/01/build-an-api-v2.png
 color: rgba(220,30,34,0.2)
 ```
@@ -189,17 +189,17 @@ color: rgba(220,30,34,0.2)
 ```card
 title: Serverless Slack Commands - Fun with AWS Image Recognition
 desc: ...
-link: https://blog.boltops.com/2019/01/14/serverless-slack-commands-with-ruby
+link: 20190114-serverless-slack-commands-with-ruby.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_586/https://blog.boltops.com/img/posts/2019/01/slack-command-title-image-v6.png
-color: rgba(220,30,34,0.2)
+color: rgba(221,34,114,0.2)
 ```
 
 ```card
 title: Rails Support - Jets Afterburner
 desc: ...
-link: https://blog.boltops.com/2018/12/21/jets-afterburner-serverless-rails-on-aws-lambda-in-5-minutes
+link: 20181221-jets-afterburner-serverless-rails-on-aws-lambda-in-5-minutes.md
 logo: https://res.cloudinary.com/boltops/image/fetch/c_limit,f_auto,q_auto,w_470/https://blog.boltops.com/img/posts/2018/12/jets-afterburner-v1.png
-color: rgba(220,30,34,0.2)
+color: rgba(250,113,21,0.2)
 ```
 
 ```card

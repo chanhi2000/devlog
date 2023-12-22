@@ -56,9 +56,9 @@
     "topics": ["android-music-player", "flutter", "flutter-app", "flutter-apps", "flutter-music-player", "fluttermusicapp", "hacktoberfest", "music-app", "music-application", "music-player", "music-player-application", "offline-songs"]
   }, {
     "repo": "localsend/localsend",
-    "desc": "An open source cross-platform alternative to AirDrop",
+    "desc": "An open-source cross-platform alternative to AirDrop",
     "officialSite": "https://localsend.org",
-    "topics": ["file-sharing", "flutter"]
+    "topics": ["dart", "file-sharing", "flutter", "flutter-apps"]
   }, {
     "repo": "flutter/games",
     "desc": "Home of the Flutter Casual Games Toolkit and other Flutter gaming templates",
