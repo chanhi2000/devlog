@@ -629,5 +629,15 @@
     "desc": "High-speed Large Language Model Serving on PCs with Consumer-grade GPUs",
     "officialSite": "",
     "topics": ["falcon", "large-language-models", "llama", "llm", "llm-inference", "local-inference"]
+  }, {
+    "repo": "proh14/ptext",
+    "desc": "A nano like text editor built with pure C",
+    "officialSite": "",
+    "topics": ["bsd-2-license", "c", "kilo", "terminal", "text-editor", "tui"]
+  }, {
+    "repo": "vnmakarov/mir",
+    "desc": "A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR",
+    "officialSite": "",
+    "topics": ["aarch64", "apple", "c", "compiler", "intermediate-representation", "interpreter", "jit-compiler", "linux", "m1", "macos", "ppc64", "s390x", "x86-64"]
   }
 ]

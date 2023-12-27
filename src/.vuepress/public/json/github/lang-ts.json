@@ -1918,5 +1918,10 @@
     "desc": "SolidStart, the Solid app framework",
     "officialSite": "https://start.solidjs.com",
     "topics": ["file-system-routing", "meta-framework", "sdk", "solid-js", "spa", "ssr"]
+  }, {
+    "repo": "Innei/Shiro",
+    "desc": "📜 A minimalist personal website embodying the purity of paper and freshness of snow.",
+    "officialSite": "https://innei.in",
+    "topics": []
   }
 ]

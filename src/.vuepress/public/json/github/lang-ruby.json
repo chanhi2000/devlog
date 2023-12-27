@@ -79,5 +79,10 @@
     "desc": "Database-backed Active Job backend",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "kilimchoi/engineering-blogs",
+    "desc": "A curated list of engineering blogs",
+    "officialSite": "",
+    "topics": ["engineering-blogs", "lists", "programming-blogs", "software-development", "tech"]
   }
 ]

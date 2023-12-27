@@ -34,6 +34,12 @@ description: 🛠️Git > 📚References
 
 ---
 
+## baecher
+
+- [Reproducible `git bundles`](https://baecher.dev/stdout/reproducible-git-bundles)
+
+---
+
 ## 인포그랩
 
 - [Git 커밋 메시지 자동화 가이드](https://insight.infograb.net/blog/2023/05/25/git-commit-automation)

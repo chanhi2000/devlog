@@ -1814,5 +1814,15 @@
     "desc": "HTML5 multiplayer game engine",
     "officialSite": "https://www.modd.io/",
     "topics": ["game-engine", "html5-game", "io", "iogames", "multiplayer-browser-game", "multiplayer-game-engine", "multiplayer-game-server", "multiplayer-online-game", "nodejs", "websocket"]
+  }, {
+    "repo": "heyman/heynote",
+    "desc": "A dedicated scratchpad for developers",
+    "officialSite": "https://heynote.com",
+    "topics": ["developer-tools", "editor", "note-taking", "notes", "notes-app", "productivity-tools", "scratchpad"]
+  }, {
+    "repo": "be5invis/Iosevka",
+    "desc": "Versatile typeface for code, from code.",
+    "officialSite": "http://be5invis.github.io/Iosevka",
+    "topics": ["font", "iosevka", "ligatures", "monospace-font", "opentype-features", "programming-font", "programming-ligatures", "typeface"]
   }
 ]

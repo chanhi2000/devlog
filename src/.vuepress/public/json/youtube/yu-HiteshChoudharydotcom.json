@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/zO8n2TfZoDXozQeKwq7APiVXn4BIZw7Q0-5SCVw4FXY_q2ysjtmVp5WYw1_M3bn9m3WiNarZGg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "O5LY7SgZ3Ig", "title": "Group sum and more |  MongoDB aggregation" },
+    { "id": "Y8FsB2wryjQ", "title": "How to optimize and monitor APIs in production" },
+    { "id": "D6Tpjf_VtnE", "title": "Grouping in mongodb" },
+    { "id": "SUZKhBvxW5c", "title": "Learn Mongodb aggregation Pipelines | setup" },
     { "id": "e7llTS5U0dM", "title": "Parsing HTML in react components" },
     { "id": "DGgeeY15X4k", "title": "React hook form and TinyMCE editor in react" },
     { "id": "TtVMerlZtrE", "title": "Debugging the mega project" },

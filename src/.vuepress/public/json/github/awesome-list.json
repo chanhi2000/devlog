@@ -849,5 +849,25 @@
     "desc": "A list of learning materials to understand databases internals",
     "officialSite": "",
     "topics": ["awesome", "awesome-list", "blogs", "books", "course", "database", "papers"]
+  }, {
+    "repo": "JShollaj/awesome-llm-interpretability",
+    "desc": "A curated list of Large Language Model (LLM) Interpretability resources.",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list"]
+  }, {
+    "repo": "Coder-World04/Complete-System-Design",
+    "desc": "This repository contains everything you need to become proficient in System Design",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "elifgazioglu/doyouwannagooutwithme",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "minimaxir/hacker-news-undocumented",
+    "desc": "Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.",
+    "officialSite": "",
+    "topics": []
   }
 ]

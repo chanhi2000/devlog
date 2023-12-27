@@ -20,5 +20,6 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 <MyYouTubeItems jsonName="yu-JavaHomeCloud" /><!-- Java Home Cloud -->
 <MyYouTubeItems jsonName="yu-gorandev" /><!-- Goran Vasić -->
 <MyYouTubeItems jsonName="yu-DevOpsJourney" /><!-- DevOps Journey -->
+<MyYouTubeItems jsonName="yu-MrDevOps" /><!-- Mr. DevOps -->
 
 <TagLinks />

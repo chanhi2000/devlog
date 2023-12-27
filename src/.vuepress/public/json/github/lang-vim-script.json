@@ -14,5 +14,10 @@
     "desc": "precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",
     "officialSite": "http://ethanschoonover.com/solarized",
     "topics": []
-  } 
+  }, {
+    "repo": "csdvrx/CuteVim",
+    "desc": "Sensible defaults for Vim",
+    "officialSite": "",
+    "topics": []
+  }
 ]

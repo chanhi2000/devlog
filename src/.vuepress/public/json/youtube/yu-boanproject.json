@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zml2HniF67A", "title": "통합 로그 ELK 8.11 - Elastic Search와 Kibana 설치 과정" },
+    { "id": "pURQctPBgkA", "title": "보안 진로 - 잡코리아 구인 사례 EY 한영회계법인" },
     { "id": "O7P8vmbZQgQ", "title": "파이썬 Streamlit 가짜 데이터 생성기 자동화 with mogodb ##파이썬자동화 #python" },
     { "id": "LJocZnQ8blA", "title": "(공개-면접대비) 모의해킹 취업 면접 기회가 왔을 때, 준비한 프로젝트 보고서가 없다면??" },
     { "id": "1mY6X69Mi24", "title": "프로젝트 비수기 기간, 모의해킹 컨설턴트는 무엇을 할까? KPI 목표" },

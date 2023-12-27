@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+---
+
+## [v0.6.0  2023-12-27][v0.6.0]
+
+- 내용채워넣기
+
+### DELETED
+
+`/crashcourse/` 엔드포인트 이동 (`chanhi2000/crashcourse`)
 
 ---
 
@@ -1290,3 +1299,4 @@ Tips 트리구조 구성
 [v0.5.41]: https://github.com/chanhi2000/devlog/compare/v0.5.40...v0.5.41
 [v0.5.42]: https://github.com/chanhi2000/devlog/compare/v0.5.41...v0.5.42
 [v0.5.43]: https://github.com/chanhi2000/devlog/compare/v0.5.42...v0.5.43
+[v0.6.0]: https://github.com/chanhi2000/devlog/compare/v0.5.43...v0.6.0

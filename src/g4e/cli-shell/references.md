@@ -151,6 +151,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## Vincent Bernat
+
+- [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

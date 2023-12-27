@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/abR7ZvZeJXTSVx8ZZu6wPx6N4qvpPDxGEBDtAl2TFh30ff6pL3JoHiqMA3cJeIyMuWmn6qQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "G6X6CnxBDI4", "title": "🔴 Let’s build Disney+ 2.0 with NEXT.JS 14! (Microsoft Azure, Caching, OpenAI, Shadcn, Tailwind, TS)" },
     { "id": "SnJ6EmCWA_Y", "title": "🔴 Let’s build Booking.com 2.0 with NEXT.JS 14! (Scrape Data w/ Oxylabs, React, Shadcn, Tailwind, TS)" },
     { "id": "FdEY-ZnEikg", "title": "🔴 Let’s build Dropbox with NEXT.JS 14! (React, Clerk, Shadcn, Firebase, Drag/Drop, CRUD, TypeScript)" },
     { "id": "OOUsvDOKlGs", "title": "🔴 Let’s build a Complete SaaS with NEXT.JS 13! (Stripe Payments, Shadcn, Firebase, TS, NextAuth)" },

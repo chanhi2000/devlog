@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/65qv-IUJXhEcwd2WLDJ3gXqcAk6fkIceYxvKUII7Gz1rBeHiOt4L2JQwqhvvAYv5wEC1ucsj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7h8ZHSkAkas", "title": "GEMINI Pro with LangChain | Chat, MultiModal and Chat with your Documents" },
+    { "id": "64Ldwi9YU4I", "title": "Getting Started with Gemini Pro API on Google AI Studio" },
     { "id": "6_FKm9NWznY", "title": "Apple Join the AI Race with MLX" },
     { "id": "ofJLbfyYOms", "title": "NEW \"Orca-2\" 🐳 Official Release - 13B Better than 70B Models" },
     { "id": "J3Ko5DuqJoU", "title": "Build Customer-Facing AI ChatBots with this No Code Tool" },
