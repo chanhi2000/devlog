@@ -8,6 +8,9 @@ actions:
   - text: 🌐Explore
     link: /explore/
     type: secondary
+  - text: 🥁Crashcourse
+    link: https://chanhi2000.github.io/crashcourse
+    type: primary
 # features:
 #- title: anecdotal
 #  details: 개발에서 직접 경험하고 해결한 내용 공유
@@ -80,6 +83,14 @@ desc: 개발/기술/스타트업 뉴스 서비스
 link: https://news.hada.io
 logo: https://news.hada.io/logo.png
 color: rgba(56, 59, 64, 0.2)
+```
+
+```card
+title: AI News - TILNOTE
+desc: GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다.
+link: https://tilnote.io/news
+logo: https://tilnote.io/favicon-32x32.png
+color: rgba(255, 255, 255, 0.2)
 ```
 
 ```card

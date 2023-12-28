@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/T4k6KqTRG68WJoq2MqLXvIrk6dJtNDgpYnFdROEalblaB5_vhWZV5SBD5wEQBQVX_SN8e46j=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CiSaY2xl9V4", "title": "Ten Everyday Machine Learning Use Cases" },
+    { "id": "Nzq6fEr9SJ4", "title": "Ansible vs. Python" },
+    { "id": "7a2s3_wkiWo", "title": "Large Language Models: How Large is Large Enough?" },
+    { "id": "7gMg98Hf3uM", "title": "What Makes Large Language Models Expensive?" },
     { "id": "swPBNKKPK0E", "title": "Get Hands-on Experience with Generative AI - watsonx AI Prompt Lab" },
     { "id": "AINoTKMZSGI", "title": "Putting AI to Work for Application Modernization" },
     { "id": "vxtq_pJp7_A", "title": "Containers vs Pods" }, 

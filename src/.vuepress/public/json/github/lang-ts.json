@@ -1923,5 +1923,25 @@
     "desc": "📜 A minimalist personal website embodying the purity of paper and freshness of snow.",
     "officialSite": "https://innei.in",
     "topics": []
+  }, {
+    "repo": "movie-web/movie-web",
+    "desc": "A small web app for watching movies and shows easily",
+    "officialSite": "https://movie-web.app",
+    "topics": []
+  }, {
+    "repo": "matt8707/ha-fusion",
+    "desc": "A modern, easy-to-use and performant custom Home Assistant dashboard",
+    "officialSite": "",
+    "topics": ["dashboard", "home-assistant"]
+  }, {
+    "repo": "streetwriters/notesnook",
+    "desc": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+    "officialSite": "https://notesnook.com/",
+    "topics": ["asp-net-core", "dotnet-core", "electron", "foss", "hacktoberfest", "note-managment", "note-taking", "note-taking-app", "notebook", "notes", "notes-app", "open-source", "opensource", "privacy", "productivity", "react", "react-native", "reactjs", "self-hosted"]
+  }, {
+    "repo": "danny-avila/LibreChat",
+    "desc": "Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+    "officialSite": "https://docs.librechat.ai/",
+    "topics": ["ai", "anthropic", "api", "azure", "bing", "chatgpt", "chatgpt-clone", "claude", "clone", "dall-e-3", "dall-e3", "gemini", "google", "gpt-4-vision", "langchain", "librechat", "openai", "plugins", "search", "vision"]
   }
 ]

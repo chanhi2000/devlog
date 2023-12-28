@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "user-lu1tr6kr5f",
+    "name": "나는 황쌤이다",
+    "profile": "https://yt3.googleusercontent.com/6KLk6zo5Hc8JyGX985oz9DvzSLXG_wNWaB10arjkHsktlquRE8W6BMD8ZMaue16nlmxzaipv3JE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "0rTrzz20a84", "title": "27_spring ui설정" },
+    { "id": "OTcnExkB34A", "title": "28_spring simple bbs dao 설정" },
+    { "id": "xMrrNYh5ONo", "title": "26_포토게시판 마무리" },
+    { "id": "yyNzapXAtyQ", "title": "22_model1_포토게시판" },
+    { "id": "6TrTPcol8p8", "title": "33_spring crud 복습" },
+    { "id": "kIUMNoHKVSI", "title": "32_spring_mvc crud복습" },
+    { "id": "zCIyYfC_9mk", "title": "30_spring" },
+    { "id": "KjTb093Dvrg", "title": "31_spring mvc crud 복습" },
+    { "id": "oRFQ1hPWEYs", "title": "29_spring 회원가입 반복" }
+  ]
+}

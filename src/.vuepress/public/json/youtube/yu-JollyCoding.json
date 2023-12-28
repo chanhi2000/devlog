@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "JollyCoding",
+    "name": "Jolly Coding",
+    "profile": "https://yt3.googleusercontent.com/aYqfFHet61Es7XTU8jZOPOA1OCkQAUykQJLP7f-WJO6RsrP8uvIL2R691R1wYTV--Y4_d0GP=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "6bpNnI_UN5g", "title": "What are React Server Components?" },
+    { "id": "GyRXwqeBcBw", "title": "Advent of TypeScript #typescript" },
+    { "id": "E6QO7Yl98O8", "title": "The BEST UI Library Just Got Better!" },
+    { "id": "HlDueLwkts0", "title": "TypeScript React Challenge - Typing Prop Components #typescript #reactjs" }
+  ]
+}

@@ -1824,5 +1824,10 @@
     "desc": "Versatile typeface for code, from code.",
     "officialSite": "http://be5invis.github.io/Iosevka",
     "topics": ["font", "iosevka", "ligatures", "monospace-font", "opentype-features", "programming-font", "programming-ligatures", "typeface"]
+  }, {
+    "repo": "Hypfer/Valetudo",
+    "desc": "Cloud replacement for vacuum robots enabling local-only operation",
+    "officialSite": "https://valetudo.cloud",
+    "topics": ["cloud-free", "dreame", "roborock", "robot-vacuum", "smarthome", "valetudo", "xiaomi"]
   }
 ]

@@ -514,5 +514,10 @@
     "desc": "locally hosted web application that allows you to perform various operations on PDF files",
     "officialSite": "",
     "topics": ["docker", "java", "pdf", "pdf-converter", "pdf-manipulation", "pdf-merger", "pdf-ocr", "pdf-tools", "pdf-web-apps", "pdfmerger"]
+  }, {
+    "repo": "aklivity/zilla",
+    "desc": "🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.",
+    "officialSite": "https://docs.aklivity.io/zilla",
+    "topics": ["api-gateway", "asyncapi", "event-driven-architecture", "event-stream-proxy", "event-streaming", "grpc", "iot", "kafka", "kafka-proxy", "mqtt", "openapi", "proxy", "rest", "server-sent-events", "streaming-api"]
   }
 ]

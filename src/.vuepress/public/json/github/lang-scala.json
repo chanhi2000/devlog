@@ -29,5 +29,10 @@
     "desc": "Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "chipsalliance/chisel",
+    "desc": "Chisel: A Modern Hardware Design Language",
+    "officialSite": "https://www.chisel-lang.org/",
+    "topics": ["chip-generator", "chisel", "chisel3", "firrtl", "rtl", "scala", "verilog"]
   }
 ]

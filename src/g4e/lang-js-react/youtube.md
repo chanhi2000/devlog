@@ -41,5 +41,7 @@ meta:
 <MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 <MyYouTubeItems jsonName="yu-the_full_stack_junkie" /><!-- The Full Stack Junkie -->
 <MyYouTubeItems jsonName="yu-cosdensolutions" /><!-- Cosden Solutions -->
+<MyYouTubeItems jsonName="yu-tharo382" /><!-- Tharo -->
+<MyYouTubeItems jsonName="yu-JollyCoding" /><!-- Jolly Coding -->
 
 <TagLinks />

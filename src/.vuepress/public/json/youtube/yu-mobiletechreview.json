@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "mobiletechreview",
+    "name": "MobileTechReview",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRDO5OuDPeoOV5MXL7sOR17tzNYA4AtMtVUxd-Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4INCT5Tzog_-hMcpwc5Ta2A1_3CaVQkmaQWsLFSO1zITfAAO-UNxoAuwlEZ15ZXZn8WK_kLp4A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "IyqieYzP7qA", "title": "Intel NUC 9 Pro Review (Quartz Canyon)" }
+  ]
+}

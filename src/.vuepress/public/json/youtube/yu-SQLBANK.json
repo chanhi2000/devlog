@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "SQLBANK",
+    "name": "SQL뱅크",
+    "profile": "https://yt3.googleusercontent.com/fLmro04TWIGci4XjfHOQ8_mHV-_kUoLA9EWrbxAsaX2wLbnKbbZA-xKXqYC3-dhL5A-VMbLmqg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eODuAX5NCDXI4_YIffbxxak_vNx6FiIBFWSCq10ehvrFzkega1NDgH4aXbipUpOEGThtc4iG=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_ciRAqOyjzA", "title": "대한민국 17개 대도시와 한반도 지리적 분류를 통해 알아보는 JOIN 예제" },
+    { "id": "bO4K1gjFrSw", "title": "SQL 한 문장으로 달력 만들기" }
+  ]
+}

@@ -379,5 +379,10 @@
     "desc": "Captee is a macOS app that enables the sharing of links and content to Emacs Org Mode and Markdown-supporting tools.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "jasonjmcghee/rem",
+    "desc": "An open source approach to locally record everything you view on your Apple Silicon computer.",
+    "officialSite": "",
+    "topics": ["local", "memory", "search"]
   }
 ]

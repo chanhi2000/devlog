@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/-uXe4fUjwNo2i-VAS2e59CwYReSd2vt1WOm142CLOiTZpUyVWpb46xkdE1HLH_HFhYRLvRqA9w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MMmK9fBHEv0", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 24 - Connect React App to Get Employee REST API" },
+    { "id": "54tUcy3kIwA", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 23 - Adding Update Button, Title and Route" },
+    { "id": "FrJs9rcTsTo", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 22 - Add Employee Form Validation in React App" },
+    { "id": "mqF_Zmlk-_w", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 20 - Add Employee Form Handling in React App" },
+    { "id": "HPBdqz_sPXA", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 21 - Connect React App to Add Employee REST API" },
+    { "id": "wSoI0_WVfUs", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 19 - Create React EmployeeComponent & Add Route" },
+    { "id": "P3V3nWzJk0g", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 17 - Adding Header and Footer to React App" },
+    { "id": "EPOd-AH6iuw", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 18 - Configure Routing in a React App" },
+    { "id": "9_UqvMkyIuI", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 16 - Connect React App to Get All Employees REST API" },
+    { "id": "N0RxiwsuQnA", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 15 - Create React Component to Display Employee Data" },
+    { "id": "JuT3ktsyYkw", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 26 - Implement Delete Employee Feature in React App" },
+    { "id": "k8whvEtAphE", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 25 - Connect React App to Update Employee REST API" },
     { "id": "w7XYmWw9FDA", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 10 - Build Update Employee REST API (PUT REST API)" },
     { "id": "kPToNQC0Fz8", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 11 - Build Delete Employee  REST API" },
     { "id": "SauEhnjTqV4", "title": "[NEW] React + Spring Boot CRUD Full Stack App - 12 - Create and Set up  React App" },

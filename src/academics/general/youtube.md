@@ -20,5 +20,6 @@ tags: ["youtube", "tutorial"]
 <MyYouTubeItems jsonName="yu-RelearnMath" /><!-- RTeach -->
 <MyYouTubeItems jsonName="yu-kafa46" /><!-- 소프트웨어 꼰대 강의 -->
 <MyYouTubeItems jsonName="yu-ray_math" /> <!-- Ray 수학 -->
+<MyYouTubeItems jsonName="yu-Eigensteve" /><!-- Steve Brunton -->
 
 <TagLinks />

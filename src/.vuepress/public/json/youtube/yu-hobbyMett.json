@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/knZWtmFBCHXLGNhlaXU7NgZLLKWLE_8BBn-oATMTR0LuBnayGCAp9-zcuDPO3QT8S15ch54DEN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0RyECSrkyOg", "title": "클린아키텍처를 위한 데이터 객체를 record로 표현하였습니다." },
+    { "id": "qmzTj9otImU", "title": "docker compose support를 이용하면 개발할때 DB설정 안해도 됩니다." },
+    { "id": "MX6SPD-x3rI", "title": "댓글 : 이벤트스토밍" },
+    { "id": "HHEMtz1Oj4Y", "title": "가상스레드(virtual thread)는 정말 빠를까" },
+    { "id": "RKxQWQJftAg", "title": "JdbcClient와 record를 결합하면 시너지가 커집니다." },
     { "id": "gEzACyQyKa4", "title": "Coding과 세컨드브레인의 CODE 그리고 SI개발" },
     { "id": "36NE97mx7Z0", "title": "The Factory 프로젝트에 jdk 21, springboot 3.2를 적용하였습니다." },
     { "id": "kfDduuLCVdM", "title": "jdk21과 함께해요. jdk 8 이후의 문법 변경사항을 싹 훑어 보았습니다." },

@@ -639,5 +639,10 @@
     "desc": "A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR",
     "officialSite": "",
     "topics": ["aarch64", "apple", "c", "compiler", "intermediate-representation", "interpreter", "jit-compiler", "linux", "m1", "macos", "ppc64", "s390x", "x86-64"]
+  }, {
+    "repo": "hrvach/deskhop",
+    "desc": "Fast Desktop Switching Device",
+    "officialSite": "",
+    "topics": []
   }
 ]

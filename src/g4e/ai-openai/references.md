@@ -197,6 +197,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Max Woolf
+
+- [Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
+
+---
+
 ## Clien
 
 - [[AI] 코드 인터프리터(Code Interpreter) 활용 사례들을 정리해봤습니다.](https://www.clien.net/service/board/lecture/18180121)

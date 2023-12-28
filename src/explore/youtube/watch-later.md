@@ -106,7 +106,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-user-bf6fs6jy1p]: https://www.youtube.com/@user-bf6fs6jy1p
 [yu-user-uv5hp3lh4k]: https://www.youtube.com/@user-uv5hp3lh4ks
 [yu-devopskorea4426]: https://www.youtube.com/@devopskorea4426
-[yu-mraible]: https://www.youtube.com/@mraible
 [yu-theswiftdevelopers1301]: https://www.youtube.com/@theswiftdevelopers1301
 [yu-gergoooooooooooooooo]: https://www.youtube.com/@gergoooooooooooooooo
 [yu-learncodeacademy]: https://www.youtube.com/@learncodeacademy

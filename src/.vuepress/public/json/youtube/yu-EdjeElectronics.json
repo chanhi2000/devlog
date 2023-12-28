@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "EdjeElectronics",
+    "name": "Edje Electronics",
+    "profile": "https://yt3.googleusercontent.com/uq4rekPHSvQQ7Wsvhxuj8sgSM38HyyDgwCP1mOkf3pXNyyFmMN--B4QvMXKb8rkrcd_Ju8ih=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZxKFCdI7Potp_fF4_Smtpp3kM1wGgOUmHApZwHrscgPjsOVCdS8cY9BBHOOX73_1U91hclyi0A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aimSGOAUI8Y", "title": "How To Run TensorFlow Lite on Raspberry Pi for Object Detection" }
+  ]
+}

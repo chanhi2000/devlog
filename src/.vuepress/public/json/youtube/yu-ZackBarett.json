@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ZackBarett",
+    "name": "Zack Barett",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSjLa0Nk0_mrJX3wUqHR_Bej-s_BcCQhKp3KpES_8A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GX24Zbv9bQiZ9-bZnfmRiis092VarOiAd1RAT9WqEUdd68prqXiYunwKH_r-ZnQKKlysT2pF=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ixIGlEpvWXY", "title": "Create an AWESOME looking Lovelace Dashboard with no YAML Files in 2020! - Home Assistant - How to" }
+  ]
+}

@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Lb61y1_oSDM", "title": "12. 할일관리프로그램 #7 에러패치 (Livewire3)" },
+    { "id": "2aqBR8jf9EA", "title": "11. 할일관리프로그램 #6 수정 (Livewire3)" },
+    { "id": "KxQs8k-I5WE", "title": "10. 할일관리프로그램 #5 검색,삭제,처리한일 마킹 (Livewire3)" },
+    { "id": "7RazFxlfb68", "title": "9. 할일관리프로그램 #4 목록과 페이지네이션 (Livewire3)" },
+    { "id": "mug3XXNs-A4", "title": "8. 할일관리프로그램 #3 등록 (Livewire3)" },
+    { "id": "RJodsNubUJM", "title": "7. 할일관리프로그램 #2 addbox 분리 (Livewire3)" },
+    { "id": "nhYva6VLQE0", "title": "6. 할일관리프로그램, 프로젝트세팅#1 (Livewire3)" },
+    { "id": "-XqC4p6dHns", "title": "5. 플래시메시지, 페이지네이션 (Livewire3)" },
+    { "id": "3eXMw74m3LU", "title": "4. 폼검사, 등록처리 (Livewire3)" },
     { "id": "Qjns70kKhZY", "title": "128. CAPTCHA #캡차3,  구글 리캡차 백엔드처리" },
     { "id": "hCwYUl229NE", "title": "129. 날씨API 활용하기 #1 (openweathermap.org)" },
     { "id": "VAVLcXTZSI8", "title": "130. 날씨API 활용하기 #2 (openweathermap.org)" },

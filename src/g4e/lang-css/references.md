@@ -215,4 +215,10 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Bejamas Discovery
+
+- [Three modern CSS properties your website must have](https://bejamas.io/blog/modern-css-properties-your-website-must-have/)
+
+---
+
 <TagLinks />

@@ -44,5 +44,10 @@
     "desc": "Home repository for .NET Core",
     "officialSite": "",
     "topics": ["dotnet", "dotnet-core"]
+  }, {
+    "repo": "cloudevents/sdk-powershell",
+    "desc": "PowerShell 7.0 SDK for CloudEvents",
+    "officialSite": "",
+    "topics": []
   }
 ]

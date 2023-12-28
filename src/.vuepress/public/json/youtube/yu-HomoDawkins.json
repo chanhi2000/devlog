@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "HomoDawkins",
+    "name": "IQ95 The Homo Dawkins",
+    "profile": "https://yt3.googleusercontent.com/FJ3Ly6fSSi4wkQdutetNPdlEdq6xfX3BV8BJ-oSDMQz2h7XsPPFbx8eM9mxz4oc9qzwLK9a21Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KlBXEQGrx99lGpfyBnu2eKtSm2TkO0tyh7VpXciE9kWl6Gvdeq2UxdzqYPRZo-AkUvkLvulm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uWsAmashcg0", "title": "04- C++ allocator, create_container, create_cache_aligned_container, cast_ref, smart_forward" },
+    { "id": "kajwaG-5gFc", "title": "033-Matrix Tuple Replace 알고리듬 3, is_in_sequence, seq_find_index, mark_in_sequence" },
+    { "id": "WCACGteEY2o", "title": "032-Matrix 22, C++ move semantic, tuple_replace 알고리듬 2" },
+    { "id": "z3COboAHtUI", "title": "031-Matrix 21,  tuple_replace 알고리듬 1, functional programming으로 할 수 있는 것" },
+    { "id": "YkAR4hmHQ5s", "title": "030-Matrix 20, 그라디언트 및 라플라스 연산자 구현, Gradient and Laplacian Operators" },
+    { "id": "uJ5ZhOpSedg", "title": "028-Matrix 18, 합성합수와 Jacobian Matrix, C++ Composite Function and Functional Programming" }
+  ]
+}

@@ -948,5 +948,10 @@
     "desc": "The Z3 Theorem Prover",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "PlutoLang/Pluto",
+    "desc": "A superset of Lua 5.4 — with unique features, optimizations, and improvements.",
+    "officialSite": "https://pluto-lang.org",
+    "topics": ["dialect", "language", "lua", "pluto", "plutolang", "programming-language", "superset"]
   }
 ]

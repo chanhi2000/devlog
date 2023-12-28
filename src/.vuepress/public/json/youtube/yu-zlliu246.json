@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "S-9p4Xn7Tf4", "title": "A Deeper Dive Into range() In For Loops (Python From Zero To One - Part 13)" },
+    { "id": "WQNiyGkQyI8", "title": "For Loops in Python For Absolute Beginners (Python From Zero To One - Part 12)" },
+    { "id": "A9OLwTrRkEU", "title": "9 Things I Never Knew About Strings in Python (Until Recently)" },
+    { "id": "sFE0atDIAJM", "title": "5 Easy Conditional/Function Python Practice Questions (Python From Zero To One - Checkpoint 2)" },
+    { "id": "fIs3qsPKoz8", "title": "7 Things I Never Knew About Dictionaries In Python Until Recently" },
     { "id": "5rNU6wasucA", "title": "Writing Functions in Python For Absolute Beginners (Python From Zero To One - Part 10)" },
     { "id": "p_bOt40Q4_s", "title": "5 Things I Never Knew About EXCEPTIONS in Python (Until Recently)" },
     { "id": "nuI5-N1J9FY", "title": "8 Useful Built-in Python Functions For Beginners (Python Zero To One - Part 11)" },

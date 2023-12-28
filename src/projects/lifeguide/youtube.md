@@ -60,5 +60,8 @@ meta:
 <MyYouTubeItems jsonName="yu-dakipost" /><!-- 다키포스트 DAKIPOST -->
 <MyYouTubeItems jsonName="yu-hkglobalmarket" /><!-- 한경 글로벌마켓 -->
 <MyYouTubeItems jsonName="yu-Hwangbujang" /><!-- 공구왕황부장 -->
+<MyYouTubeItems jsonName="yu-yesunglabor" /><!-- 노무법인 예성 -->
+<MyYouTubeItems jsonName="yu-BetterLife" /><!-- 더나은삶TV -->
+<MyYouTubeItems jsonName="yu-b-log3651" />  <!-- 베이로그 B-Log -->
 
 <TagLinks />

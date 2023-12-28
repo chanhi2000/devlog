@@ -25,5 +25,8 @@ meta:
 <MyYouTubeItems jsonName="yu-Bitfumes" /><!-- Bitfumes -->
 <MyYouTubeItems jsonName="yu-9diin" /><!-- 구디사는 개발자 9Diin -->
 <MyYouTubeItems jsonName="yu-MultiValue1" /><!-- MultiValue -->
+<MyYouTubeItems jsonName="yu-MakeAppswithDanny" /><!-- Make Apps with Danny -->
+<MyYouTubeItems jsonName="yu-paulhalliday" /><!-- Paul Halliday -->
+<MyYouTubeItems jsonName="yu-Webnoob" /><!-- Webnoob -->
 
 <TagLinks />
