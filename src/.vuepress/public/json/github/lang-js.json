@@ -1829,5 +1829,15 @@
     "desc": "Cloud replacement for vacuum robots enabling local-only operation",
     "officialSite": "https://valetudo.cloud",
     "topics": ["cloud-free", "dreame", "roborock", "robot-vacuum", "smarthome", "valetudo", "xiaomi"]
+  }, {
+    "repo": "nodejs/undici",
+    "desc": "An HTTP/1.1 client, written from scratch for Node.js",
+    "officialSite": "https://nodejs.github.io/undici",
+    "topics": ["client", "http", "nodejs"]
+  }, {
+    "repo": "cristianzsh/forensictools",
+    "desc": "Collection of forensic tools",
+    "officialSite": "https://cristian.sh/projects/forensictools.html",
+    "topics": ["binary-analysis", "dfir", "forensic-examinations", "forensics", "forensics-tools", "incident-response", "toolkit", "tools"]
   }
 ]

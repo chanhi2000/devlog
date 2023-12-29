@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DDuan",
+    "name": "Daniel Duan",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRxThnfLQKrpvbWLwXBHEu2x-yqI1P_Mjm6-UD5Qw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TUvEjsFqGNRb3j10t41PjNBqImBm0veuNzt9RnD-DC8H4Ida4peKMY6plotgzlM2wKcf9zjYhQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yEYtwmI7bDg", "title": "\"Hello, World!\" In WebAssembly" }
+  ]
+}

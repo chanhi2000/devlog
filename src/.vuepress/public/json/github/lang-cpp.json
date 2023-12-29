@@ -953,5 +953,10 @@
     "desc": "A superset of Lua 5.4 — with unique features, optimizations, and improvements.",
     "officialSite": "https://pluto-lang.org",
     "topics": ["dialect", "language", "lua", "pluto", "plutolang", "programming-language", "superset"]
+  }, {
+    "repo": "hunar4321/particle-life",
+    "desc": "A simple program to simulate artificial life using attraction/reuplsion forces between many particles",
+    "officialSite": "",
+    "topics": ["cellular-automata", "cpp", "educational", "game-of-life", "generative-art", "javascript", "particle-life", "particles", "simulation"]
   }
 ]

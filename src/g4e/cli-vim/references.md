@@ -19,4 +19,11 @@ tags: ["bash", "linux", "macos", "terminal", "vim", "neovim"]
 
 ---
 
+## vimhelp
+
+- [uganda copying copyright license](https://vimhelp.org/uganda.txt.html)
+
+---
+
+
 <TagLinks />

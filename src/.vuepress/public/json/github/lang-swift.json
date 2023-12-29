@@ -384,5 +384,10 @@
     "desc": "An open source approach to locally record everything you view on your Apple Silicon computer.",
     "officialSite": "",
     "topics": ["local", "memory", "search"]
+  }, {
+    "repo": "jasonjmcghee/rem",
+    "desc": "An open source approach to locally record and enable searching everything you view on your Apple Silicon.",
+    "officialSite": "",
+    "topics": ["local", "macos", "memory", "search", "swift", "swiftui"]
   }
 ]

@@ -26,6 +26,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## lwn
+
+- [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
+
+---
+
 ## tldp
 
 - [Linux Filesystem Hierarchy](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)

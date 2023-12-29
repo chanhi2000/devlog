@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/XsHGB7-n6zIWeTsZ62kxHp1zTBxzMqq2sV2UrQyKltWEC6rhxveEnziB_17QBRraYF9B2v65ywA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dOiPzIt3TIU", "title": "Null News: Software, Tech, Opensource (one day late)" },
+    { "id": "xen0JBBzuZ4", "title": "Making raft lite in rust!" },
+    { "id": "ln_38tAJf44", "title": "Day 2 - Rusty Raft" },
+    { "id": "ZWyUaZvuJI8", "title": "Null News - Figma is free? SSH is broekn? join to learn more." },
+    { "id": "tz71q0-mgvE", "title": "Marek writes C????" },
+    { "id": "4h6jm85LVpM", "title": "Rusty Rafting, so fun you can't belive it's not a game." },
     { "id": "xKNJWdcUU5M", "title": "Byond CAP - Distributed systems" },
     { "id": "L7P_9aLuSBs", "title": "chill stream - vim practice." },
     { "id": "IHuPtKZ6M8Q", "title": "chill stream - vim practice." },

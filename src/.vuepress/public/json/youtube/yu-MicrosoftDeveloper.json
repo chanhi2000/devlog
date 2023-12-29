@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/cSZKXxKMITZNPTT09ozaxbbc6o52JRsFbir4RhQgnSsCsGuA22BJcnNB_f64H9xm9Vb5e6HSBrg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ECFNyVUJ8dY", "title": "Elevate your document management with Azure AI Document Intelligence" },
+    { "id": "E9EafnsThEU", "title": "Azure SQL DB High Availability & Disaster Recovery overview | Data Exposed" },
+    { "id": "MdPTekwIAFE", "title": "What's in Windows Terminal 1.19 Preview" },
     { "id": "qJmGW0BiqhA", "title": "Armchair Architects: LLMs & Vector Databases (Part 1)" },
     { "id": "JUIs063K6zU", "title": "Advanced Azure OpenAI solutions with TTS Avatar" },
     { "id": "BgcmVHXnlgU", "title": "Now, Static Web Apps Automatically Host the Data API Builder" },

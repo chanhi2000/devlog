@@ -711,7 +711,7 @@
     "topics": ["argo", "argo-events", "argo-rollouts", "argo-workflows", "argocd", "awesome", "awesome-list", "awesome-lists", "cloud-native", "cncf", "continuous-delivery", "devops", "gitops", "infrastructure-as-code", "kubernetes", "machine-learning", "mlops", "workflow-engine", "workflow-management", "workflow-orchestration"]
   }, {
     "repo": "DopplerHQ/awesome-interview-questions",
-    "desc": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
     "officialSite": "https://doppler.com",
     "topics": ["android-interview-questions", "angularjs-interview-questions", "awesome", "awesome-list", "awesomeness", "interview-practice", "interview-questions", "interviewing", "javascript", "javascript-interview-questions", "list", "python-interview-questions", "rails-interview", "ruby"]
   }, {

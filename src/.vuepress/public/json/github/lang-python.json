@@ -3664,5 +3664,25 @@
     "desc": "Package manager for CAD files and modelling framework for mechanical systems",
     "officialSite": "",
     "topics": ["build123d", "cad", "cadquery", "mechanical-design", "mechanical-engineering"]
+  }, {
+    "repo": "xinghaochen/TinySAM",
+    "desc": "Official PyTorch implementation of \"TinySAM: Pushing the Envelope for Efficient Segment Anything Model\"",
+    "officialSite": "",
+    "topics": ["efficient-sam", "sam", "segment-anything", "tinysam"]
+  }, {
+    "repo": "alibaba-damo-academy/FunASR",
+    "desc": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.",
+    "officialSite": "https://alibaba-damo-academy.github.io/FunASR/en/index.html",
+    "topics": ["audio-visual-speech-recognition", "conformer", "dfsmn", "paraformer", "pretrained-model", "punctuation", "pytorch", "rnnt", "scama", "speaker-diarization", "speech-recognition", "voice-activity-detection", "whisper"]
+  }, {
+    "repo": "mouredev/roadmap-retos-programacion",
+    "desc": "Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
+    "officialSite": "https://retosdeprogramacion.com",
+    "topics": ["c-plus-plus", "c-sharp", "dart", "ejercicios", "go", "java", "javascript", "katas", "kotlin", "logica-de-programacion", "php", "python", "retos", "retos-programacion", "roadmap", "ruby", "rust", "ruta-de-estudio", "swift", "typescript"]
+  }, {
+    "repo": "baaivision/Emu",
+    "desc": "Emu Series: Generative Multimodal Models from BAAI",
+    "officialSite": "https://baaivision.github.io/emu2/",
+    "topics": ["foundation-models", "generative-pretraining-in-multimodality", "in-context-learning", "instruct-tuning", "multimodal-generalist", "multimodal-pretraining"]
   }
 ]

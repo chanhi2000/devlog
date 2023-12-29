@@ -914,5 +914,10 @@
     "desc": "language-agnostic program reducer. ",
     "officialSite": "",
     "topics": ["clang", "compiler-bugs", "crash", "developer-tools", "gcc", "miscompilation", "program-reduction"]
+  }, {
+    "repo": "jqnatividad/qsv",
+    "desc": "CSVs sliced, diced & analyzed.",
+    "officialSite": "",
+    "topics": ["ckan", "cli", "csv", "data-engineering", "data-wrangling", "datapackage", "excel", "geocode", "luau", "opendata", "parquet", "polars", "postgresql", "rust", "snappy", "sql", "sqlite", "tsv"]
   }
 ]

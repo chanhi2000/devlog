@@ -17,7 +17,13 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 - [bluecapesecurity/PWF](https://github.com/bluecapesecurity/PWF)
   - [PracticalWindowsForensics-cheat-sheet.pdf](https://github.com/bluecapesecurity/PWF/blob/main/Resources/PracticalWindowsForensics-cheat-sheet.pdf)
-  
+
+---
+
+## Useful Site(s)
+
+- [forensictools](https://cristian.sh/projects/forensictools.html)
+
 ---
 
 ## FreeCodeCamp

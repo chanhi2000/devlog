@@ -1,0 +1,56 @@
+{
+  "channel": {
+    "id": "danleeman",
+    "name": "Dan Leeman",
+    "profile": "https://yt3.googleusercontent.com/-lE1Vv6y3Z68cZHy4h1Y_Ga5cIny8etkppHfQ_M8i_wrpF9fDs5TfmwZNKHwHo7bCRx5XZiBdQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q_86fUMuAq8-f-2hdhhycWnqC-22gHP5VTgePBBJf1PgcgQ3zURKYECf_Ym8Ohw5HNxMJ2tJfYM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "Airtable Tutorials",
+      "videos": [
+        { "id": "BX61XKNYvIY", "title": "What is Airtable? And Is It For Me?" },
+        { "id": "1iz_LybXWto", "title": "Airtable Tutorial for Beginners [2023]" },
+        { "id": "1EptKpdl5_U", "title": "How To Build An Amazing Airtable CRM" },
+        { "id": "B74HpJcQFC4", "title": "Learn the Airtable API + New Updates for 2023" },
+        { "id": "0lZ94GseVyU", "title": "Airtable Pricing - Finding The Best Airtable Plan For You" },
+        { "id": "7jSlG9Q33Rw", "title": "The Complete Airtable Forms Tutorial (Beginner to Advanced)" },
+        { "id": "PfWEXsgXMyk", "title": "Building Airtable Formulas With AI?" },
+        { "id": "TTvyMWu9BKw", "title": "Top 10 Airtable Alternatives" },
+        { "id": "vzaFsZOAFrg", "title": "Airtable Integrations With Google Sheets and Forms" },
+        { "id": "7ZRbqMdgk_0", "title": "Airtable Review For 2023 | Everything You Need To Know" },
+        { "id": "99g14DU9C9g", "title": "Copy & Paste from Airtable to SmartSuite" },
+        { "id": "Un6OZsPz69A", "title": "Jump-Start Your Project with Airtable Templates" },
+        { "id": "2JSLEegK6dU", "title": "Airtable Automations To Update Records" },
+        { "id": "Ujd88TADDvY", "title": "Airtable Project Management Automation with Templates" },
+        { "id": "xk9SpC22dp8", "title": "Add Custom Fields to Airtable Project Template" },
+        { "id": "tWUhJIHqF8k", "title": "Using the Airtable Gantt View for Project Management" },
+        { "id": "WektO_GlOrA", "title": "Airtable has List Views! (A real solution for subtasks?)" },
+        { "id": "kp2UNbMsvi0", "title": "New Feature: Airtable Repeating Groups (Loops!) in Automations" },
+        { "id": "KplXVIUcaGU", "title": "Time Tracking in Airtable Interfaces | Client Showcase" },
+        { "id": "aVs5ua1dcQo", "title": "Airtable's New Features... Will you get access?" },
+        { "id": "ltYgvHs3Mvs", "title": "Progress Bars Come to Airtable!" },
+        { "id": "AWp08b_dggM", "title": "New Airtable Slack buttons to automate your approvals" },
+        { "id": "yTeDkgrB3YA", "title": "Use Airtable lookups in 3 powerful ways" },
+        { "id": "PQgp1m0943w", "title": "Airtable find records by linked record" },
+        { "id": "1IpLFSBDWs4", "title": "Airtable Pricing Changes 💰 Winners & Losers" },
+        { "id": "oTFHsjBgnKg", "title": "New Airtable Number Formatting" },
+        { "id": "r_r22xBW0AY", "title": "Guide to Building Airtable Interfaces" },
+        { "id": "C_ilZsO9PB0", "title": "Save important emails to Airtable with Bardeen" },
+        { "id": "UyDTeFCIdBc", "title": "Airtable Project Management Tutorial" },
+        { "id": "nk0OKXKMOk8", "title": "Airtable vs. SmartSuite: No Code Database Showdown" }
+      ]
+    }, {
+      "title": "Noloco Tutorials",
+      "videos": [
+        { "id": "b8MawO82NP4", "title": "Need advanced permissions? 🔒 Check out Noloco" },
+        { "id": "m-2wMQGYTR4", "title": "Get started with Noloco + SmartSuite" },
+        { "id": "rpJoea9F0KE", "title": "Noloco Review - Great for internal apps" },
+        { "id": "xO5-UeCpHio", "title": "Noloco Forms - Easy to use logic" }
+      ]
+    }
+  ]
+}

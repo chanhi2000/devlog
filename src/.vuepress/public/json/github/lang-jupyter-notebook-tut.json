@@ -89,6 +89,11 @@
     "desc": "All the projects related to Llama",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "iusztinpaul/hands-on-llms",
+    "desc": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+    "officialSite": "",
+    "topics": ["3-pipeline-design", "aws", "beam", "bytewax", "cicd", "comet-ml", "docker", "fine-tuning", "generative-ai", "huggingface", "langchain", "llmops", "llms", "mlops", "qdrant", "qlora", "streaming", "transformers"]
   }
 ]
 

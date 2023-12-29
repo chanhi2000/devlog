@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Errichto",
+    "name": "Errichto Algorithms",
+    "profile": "https://yt3.googleusercontent.com/LFiy0mdLB444rDFuClMDhv86pzjDgoLFLhlciT1wQPMMwAjdcD0JacPODMk4Y7cLl9EzFS3rXA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WGXFjHx_XtMq8v2997Q0W7VG2-D-bOHcdRXdlTa6gLUfYkyIRRcjnclVEwOtoUrio2nUCtgt=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ePZEkbbf3fc", "title": "Linux setup for Competitive Programming (with Geany)" }
+  ]
+}

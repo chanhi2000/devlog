@@ -155,10 +155,19 @@ tags: ["c", "llvm"]
 
 - [`setenv` is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 
+---
+
+## Blabbin'
+
+- [4 billion `if` statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)
 
 ---
+
 
 <TagLinks />

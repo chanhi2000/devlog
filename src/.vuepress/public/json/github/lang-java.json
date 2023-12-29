@@ -519,5 +519,10 @@
     "desc": "🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.",
     "officialSite": "https://docs.aklivity.io/zilla",
     "topics": ["api-gateway", "asyncapi", "event-driven-architecture", "event-stream-proxy", "event-streaming", "grpc", "iot", "kafka", "kafka-proxy", "mqtt", "openapi", "proxy", "rest", "server-sent-events", "streaming-api"]
+  }, {
+    "repo": "apache/hudi",
+    "desc": "Upserts, Deletes And Incremental Processing on Big Data.",
+    "officialSite": "https://hudi.apache.org/",
+    "topics": ["apacheflink", "apachehudi", "apachespark", "bigdata", "data-integration", "datalake", "hudi", "incremental-processing", "stream-processing"]
   }
 ]

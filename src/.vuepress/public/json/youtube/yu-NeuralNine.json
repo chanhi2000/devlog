@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PmIcyuPfbfk", "title": "Massive Python Speed-Up: Caching Across Sessions" },
+    { "id": "s2sSsSH2clE", "title": "Structural Pattern Matching in Python: Not Your Average Switch-Case" },
+    { "id": "GboDfGzkRsQ", "title": "Simple OCR in Python with easyocr" },
+    { "id": "SR5aBhk1GgY", "title": "Virtual Displays in Python For Server Deployment" },
+    { "id": "O1D82XmPz5A", "title": "Run R Code in Python with rpy2" },
+    { "id": "1EBhUDAlrYU", "title": "Google Cloud Vision API For Image Annotation in Python" },
+    { "id": "i-Uaz4H8S54", "title": "Run Your Own LLM Locally: LLaMa, Mistral & More" },
     { "id": "WbH-XZjCq8k", "title": "Find Most Important Features For Machine Learning in Python" },
     { "id": "xjjmkg9J7Gg", "title": "Mandelbrot Set Visualization in Python" },
     { "id": "AyrrZ4PCyws", "title": "Graph Coloring Algorithm in Python" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cxqKN_KJAjJqKakzIfBnH4EGqZoj7UkTY6bsnSbr5LhhuD_4SZFZoX_xI3Wz5EJT_j--jRpPcg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5oUOc6vDRtc", "title": "Rust: Haskell, but more imperative" },
+    { "id": "1zNiN3QvOoQ", "title": "Video moved - see desc. or pinned comment for link" },
     { "id": "Sa5bYF5a-Ng", "title": "Standard library type bounds in Rust" },
     { "id": "5QFDQRkbllo", "title": "Rust Does Interfaces BETTER!" }
   ]

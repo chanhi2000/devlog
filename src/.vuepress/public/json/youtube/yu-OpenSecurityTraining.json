@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "OpenSecurityTraining",
+    "name": "OpenSecurityTraining2",
+    "profile": "https://yt3.googleusercontent.com/SXcaVQ_-PaxsDQwPmu2AUVC_sVTNLbheQSczTNHf_dc9vNjBcfd12gtz9AAsVciKsqanPR4Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "HV-Ptx0NusI", "title": "Arch4031 04  Running coreboot In QEMU 04 Practice7 QEMU Monitor" },
+    { "id": "ZwLlKJBJ87A", "title": "Arch4031 04  Running coreboot In QEMU 05 More QEMU Features" },
+    { "id": "pdR-gIzTSGs", "title": "Arch4031 04  Running coreboot In Qemu 06 CBMEM" },
+    { "id": "bTCWD5A-MiI", "title": "Arch4031 04 Running coreboot In Qemu 07 Practice9 CBMEM Usage" },
+    { "id": "gEAy-Am99SM", "title": "Arch4031 04 Running coreboot In QEMU 08 Debugging Using GDB" },
+    { "id": "fNzcSj-4q64", "title": "Arch4031 04  Running coreboot In Qemu 02 Practice5 Run coreboot in QEMU" },
+    { "id": "er0Uxhn2K4g", "title": "Arch4031 04  Running coreboot In Qemu 03 Practice6 QEMU Debug Console" },
+    { "id": "-f9DqM937TE", "title": "Arch4031 03  coreboot Building 07 Makefile Kconfig Connection" },
+    { "id": "i68l0H11sSE", "title": "Arch4031 03  coreboot Building 08 Toolchain" }
+  ]
+}

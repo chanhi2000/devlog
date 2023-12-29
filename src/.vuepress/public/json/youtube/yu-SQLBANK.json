@@ -6,7 +6,74 @@
     "banner": "https://yt3.googleusercontent.com/eODuAX5NCDXI4_YIffbxxak_vNx6FiIBFWSCq10ehvrFzkega1NDgH4aXbipUpOEGThtc4iG=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "_ciRAqOyjzA", "title": "대한민국 17개 대도시와 한반도 지리적 분류를 통해 알아보는 JOIN 예제" },
-    { "id": "bO4K1gjFrSw", "title": "SQL 한 문장으로 달력 만들기" }
+  ],
+  "playlists": [
+    {
+      "title": "MariaDB 클라이언트 개발, HeidiSQL",
+      "videos": [
+        { "id": "AQ50T4Fa1PY", "title": "MariaDB 설치와 접속테스트" },
+        { "id": "OK4f8sWgz9g", "title": "MariaDB 클라이언트 개발, HeidiSQL (1) 접속세션 및 테이블 생성하기" },
+        { "id": "hGMQqTODmgY", "title": "MariaDB 클라이언트 개발, HeidiSQL (2) 쿼리창과 결과탭" }
+      ]
+    }, {
+      "title": "MariaDB 클라이언트 개발, HeidiSQL Part II",
+      "videos": [
+        { "id": "k5wDR3QZfng", "title": "`CURTIME()`,`CURDATE()`,`NOW()`,`SYSDATE()`" },
+        { "id": "de72M6_PV-Q", "title": "`UTC_TIMESTAMP`, `CONVERT_TZ()`, `GET_FORMAT()`" },
+        { "id": "-oGGCC-lsK8", "title": "`DATE_FORMAT()`, `STR_TO_DATE()`" },
+        { "id": "VgUAhMxwNak", "title": "여러가지 시간 타입들 (MariaDB)" },
+        { "id": "0sIvoEC_U8M", "title": "`ADDDATE()`,`DATE_ADD()`,`SUBDATE()`,`DATE_SUB()`,`DATEDIFF()`" },
+        { "id": "x7s2q1UDC2s", "title": "`DAYOFYEAR`,`DAYOFWEEK`,`DAY`,`DAYOFMONTH`,`FROM_DAYS`" },
+        { "id": "FnhFaAWXcDU", "title": "`YEAR`,`QUATER`,`MONTHNAME`,HOUR,`MINUTE`,`SECOND`,`WEEK`" },
+        { "id": "1A4t6V79YXw", "title": "`LAST_DAY`,`YEARWEEK`,`WEEKOFYEAR`,`WEEKDAY`" },
+        { "id": "gEgz4WFH0ZQ", "title": "`MAKETIME`,`MAKEDATE`,`UNIX_TIMESTAMP`,`FROM_UNIXTIME`" },
+        { "id": "32fZT7AuaHo", "title": "`FORMAT`,`FIELD`,`ELT`,`CONVERT`" },
+        { "id": "BmM7CoY9gKU", "title": "`CAST`,`QUOTE`,`UPPER`,`LOWER`" },
+        { "id": "GbSO2PivesQ", "title": "`MID`,`LEFT`,`RIGHT`,`LPAD`,`RPAD`,`TRIM`,`LTRIM`,`RTRIM`" }
+      ]
+    }, {
+      "title": "SQL Querybook",
+      "videos": [
+        { "id": "oSS_g_uVH5A", "title": "`WITH cte AS` 문, 임시 테이블 만들기" },
+        { "id": "y6tlx415Lf0", "title": "`WHERE`절 없이 JOIN하면 어떻게 되요?" },
+        { "id": "x-fatv0cd6c", "title": "재귀호출로 임시 테이블 만들기 1/2, `WITH RECURSIVE AS` 문" },
+        { "id": "VXrNZ5zJesU", "title": "재귀호출로 임시 테이블 만들기 2/2, `WITH RECURSIVE AS` 문" },
+        { "id": "coRu_8eAVd4", "title": "더미 테이블로 구구단 만들기" },
+        { "id": "BSsQuAhTtDg", "title": "주어진 범위 안에서 랜덤 숫자 생성하기" },
+        { "id": "Caz1Q9RqDCE", "title": "Sequence table  시퀀스 테이블이란?" },
+        { "id": "rqgk4CHgPjc", "title": "다양한 일자들과 기간 만들기 1" },
+        { "id": "z0-1lgi22cE", "title": "연속된 년월일자 구하기 FROM~TO" },
+        { "id": "EG3798A7dQY", "title": "쉼표로 구분된 데이터를 N개행으로 나열하기" },
+        { "id": "T9SpfTF_oNY", "title": "`SUBSTRING`과 `REPLACE`를 활용한 데이터 마스킹" },
+        { "id": "xA5-mb7oR2U", "title": "정규식 함수 REGEXP_REPLACE()를 활용한 데이터 마스킹" },
+        { "id": "geltqjhVwQc", "title": "행 데이터를 열로 변경하는 방법을 공부합니다." },
+        { "id": "OJJTMoQ0Xx8", "title": "캐릭터셋 `utf8mb4`, 컬레이션 `general_ci`, `unicode_ci` 등" },
+        { "id": "d9q-SyGEDEU", "title": "`CHAR_LENGTH`와 `LENGTH`, `LENGTHB`의 차이점" },
+        { "id": "26SScIdcI3g", "title": "`REGEXP`에 대하여, 정규식을 활용한 비밀번호 제약조건 생성" },
+        { "id": "Q-qYU7jlJxE", "title": "유/무선 및 070/080/15xx번호 형식에 맞게 조회하기" },
+        { "id": "AsmuT7AwDHo", "title": "SQL로 주민등록번호 검증하기" },
+        { "id": "DEGXVM4TKGA", "title": "출생년도에 따른 연령대와 실적,그래프로 그려보기" },
+        { "id": "e6RRb4EIuKk", "title": "사용자가 지정한 값들 중 임의 값을 반환하는 함수" },
+        { "id": "qtx1yZxDQVM", "title": "로또610 모든 경우의 수 테이블 만들기" },
+        { "id": "-2KpHCZF8J4", "title": "MariaDB에서의 `ROW_NUMBER()`, `ROWNUM()`" },
+        { "id": "GaGpZL5Rvt0", "title": "`ROW_COUNT()` 함수에 대하여" },
+        { "id": "ljDrcJERHJA", "title": "SQL로 매기는 순위" },
+        { "id": "zV7mysj9xxg", "title": "kofic KOBIS 제공 데이터를 활용해 기초 데이터 테이블 만들기" },
+        { "id": "p8sYmk6Hug8", "title": "가라 데이터 쿼리로 만들기" },
+        { "id": "e2rp1y5BbNM", "title": "NULL SAFE EQUAL OPERATOR" },
+        { "id": "6hNG7wNaCiE", "title": "숫자(범위),문자,시간값 임의로 N건 만들기" },
+        { "id": "NDnq1SARm0w", "title": "시간표에서 시간축 값 구하기" },
+        { "id": "xHYXfg0WWc8", "title": "유효 근무일수 구하기 (누적일수 포함)" },
+        { "id": "dKZCuZ4Hphg", "title": "시:분:초 단위 만들기 ~ 10/15/60분" },
+        { "id": "8Fbv7S0uAN4", "title": "행사 일정표 고정시간 단위로 나누어 보기" },
+        { "id": "fMG_AzdRMvA", "title": "PK 컬럼을 뒤늦게 추가하는 경우" },
+        { "id": "QDUyl8zJVUE", "title": "이번주 월요일, 지난주 월요일2주 전 월요일, 3주 전 월요일... 들은 며칠?" },
+        { "id": "hrw8GR039kU", "title": "`WHERE` 절을 깜빡하고 UPDATE를 수행했을 때" },
+        { "id": "rAGko0umUpw", "title": "테이블을 만드는 몇 가지 또다른 방법들" },
+        { "id": "bO4K1gjFrSw", "title": "SQL 한 문장으로 달력 만들기" },
+        { "id": "cB51_fFiWrU", "title": "발생할 수 있는 7가지 경우의 조인에 대해" },
+        { "id": "_ciRAqOyjzA", "title": "대한민국 17개 대도시와 한반도 지리적 분류를 통해 알아보는 `JOIN` 예제" }
+      ]
+    }
   ]
 }

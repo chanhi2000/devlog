@@ -336,9 +336,9 @@
     "topics": ["react", "javascript", "blog", "syntax-highlighting", "markdown", "docs", "code", "scrollytelling", "mdx"]
   }, {
     "repo": "nuxt/nuxt",
-    "desc": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "desc": "The Intuitive Vue Framework.",
     "officialSite": "https://nuxt.com",
-    "topics": ["static-site-generator", "node", "vue", "universal", "ssr", "nuxt", "full-stack", "server-rendering", "csr", "hybrid", "ssg"]
+    "topics": ["csr", "full-stack", "hacktoberfest", "hybrid", "node", "nuxt", "server-rendering", "ssg", "ssr", "static-site-generator", "universal", "vue"]
   }, {
     "repo": "formbricks/formbricks",
     "desc": "Open Source Experience Management Solution",
@@ -1943,5 +1943,30 @@
     "desc": "Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
     "officialSite": "https://docs.librechat.ai/",
     "topics": ["ai", "anthropic", "api", "azure", "bing", "chatgpt", "chatgpt-clone", "claude", "clone", "dall-e-3", "dall-e3", "gemini", "google", "gpt-4-vision", "langchain", "librechat", "openai", "plugins", "search", "vision"]
+  }, {
+    "repo": "BartoszJarocki/cv",
+    "desc": "Print-friendly, minimalist CV page",
+    "officialSite": "https://cv.jarocki.me",
+    "topics": ["nextjs", "react", "shadcn-ui", "tailwindcss"]
+  }, {
+    "repo": "shadcn-ui/ui",
+    "desc": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+    "officialSite": "https://ui.shadcn.com",
+    "topics": ["components", "nextjs", "radix-ui", "react", "tailwindcss", "ui"]
+  }, {
+    "repo": "d3george/slash-admin",
+    "desc": "A modern react admin. It is based on react 18, vite and TypeScript. It's fast !",
+    "officialSite": "https://admin.slashspaces.com/",
+    "topics": ["admin", "admin-dashboard", "admin-panel", "admin-template", "ant-design", "antd", "framer-motion", "react", "react-markdown", "react-query", "react-router-v6", "styled-components", "tailwindcss", "ts", "vite", "zustand"]
+  }, {
+    "repo": "unocss/unocss",
+    "desc": "The instant on-demand atomic CSS engine.",
+    "officialSite": "https://unocss.dev",
+    "topics": ["atomic-css", "engine", "vite-plugin", "windicss"]
+  }, {
+    "repo": "ant-design/ant-design-web3",
+    "desc": "🥳 A React components collection for Web3!",
+    "officialSite": "https://web3.ant.design",
+    "topics": []
   }
 ]

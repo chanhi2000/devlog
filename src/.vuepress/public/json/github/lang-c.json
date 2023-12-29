@@ -644,5 +644,20 @@
     "desc": "Fast Desktop Switching Device",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "atc1441/ATCmiBand8fw",
+    "desc": "A custom firmware for the Xiaomi Mi Band 8",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "cosmos72/twin",
+    "desc": "Text mode window environment. A \"retro\" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "kristapsdz/bchs",
+    "desc": "source code for BCHS website",
+    "officialSite": "https://learnbchs.org",
+    "topics": ["bchs", "bsd", "c", "sqlite"]
   }
 ]

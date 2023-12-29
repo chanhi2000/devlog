@@ -135,6 +135,12 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Ben Visness
+
+- [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
+
+---
+
 ## Rust
 
 - [[Rust] `Cargo.toml`을 알아보자](https://baroqcat.tistory.com/entry/Cargotoml%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
