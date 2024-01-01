@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/4GGioJM3dHpXna12vZKJTt1pbjck0ByUzC7AIX3pmUDGa2rhmOQS08J73PVriIOm4Am0aKuruiY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SvokI7z2uPU", "title": "I put Windows Phone on a MacBook!" },
+    { "id": "n3TQx_eOuy4", "title": "Windows Phone Startup Options!" },
     { "id": "AA3ugrN8Ivs", "title": "Emulating iOS 1 on a Mac!" },
     { "id": "B9uJxvdVFBE", "title" : "How to install Asahi Linux on M1 Mac!" }, 
     { "id": "FoFvMCy9xNI", "title" : "Windows 365 Virtualized! (Hyper-V)" }, 

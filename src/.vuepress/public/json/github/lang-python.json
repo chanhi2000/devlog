@@ -3684,5 +3684,15 @@
     "desc": "Emu Series: Generative Multimodal Models from BAAI",
     "officialSite": "https://baaivision.github.io/emu2/",
     "topics": ["foundation-models", "generative-pretraining-in-multimodality", "in-context-learning", "instruct-tuning", "multimodal-generalist", "multimodal-pretraining"]
+  }, {
+    "repo": "joaomdmoura/crewAI",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "neuml/txtai",
+    "desc": "💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
+    "officialSite": "https://neuml.github.io/txtai",
+    "topics": ["embeddings", "information-retrieval", "language-model", "large-language-models", "llm", "machine-learning", "neural-search", "nlp", "python", "rag", "retrieval-augmented-generation", "search", "search-engine", "semantic-search", "sentence-embeddings", "transformers", "txtai", "vector-database", "vector-search", "vector-search-engine"]
   }
 ]

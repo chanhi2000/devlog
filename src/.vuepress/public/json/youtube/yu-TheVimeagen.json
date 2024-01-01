@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PlcGalFWb78", "title": "NeoVim Harpoon 2 Open Source Work" },
+    { "id": "6PuXPxhf-Js", "title": "Building UI Window In NeoVim - Vim APM #1" },
+    { "id": "24nPvhiZITI", "title": "Vim-APM - Such A Cool Algorithm -- Part 3" },
+    { "id": "-aGWJWnZpcM", "title": "VIM APM - Finishing UI and Starting Motions Tracking" },
     { "id": "S9WYY9vNQm4", "title": "Day 2   Advent Of Code" },
     { "id": "PIQFp5RxLng", "title": "Speed Run: Advent Of Code Day 4 Part 1" },
     { "id": "K-BjHmx5ROM", "title": "SpeedRun | Advent Of Code Day 4 Part 2 | JavaScript" },

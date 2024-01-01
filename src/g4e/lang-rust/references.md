@@ -87,6 +87,12 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## OpenReplay
+
+- [How To Publish WebAssembly Packages For Npm](https://blog.openreplay.com/publishing-webassembly-packages-for-npm)
+
+---
+
 ## TigerBeetle
 
 - [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting)

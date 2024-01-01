@@ -62,4 +62,10 @@ tags: ["aws", "amazon", "amazon-web-service"]
 
 ---
 
+## The burning monk
+
+- [Direct Access for Frontend Apps to AWS Services: Secure and Cost-Effective](https://theburningmonk.com/2023/12/direct-access-for-frontend-apps-to-aws-services)
+
+---
+
 <TagLinks />

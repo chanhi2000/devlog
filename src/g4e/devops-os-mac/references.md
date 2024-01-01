@@ -27,6 +27,12 @@ tags: ["macos", "settings"]
 
 ---
 
+## 기억보단 기록을
+
+- [[IntelliJ] Mac에서 IntelliJ <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
+
+---
+
 ## Clien
 
 - [맥프로 5.1 RX580 부팅화면 성공기](https://www.clien.net/service/board/lecture/18057128)
@@ -35,7 +41,7 @@ tags: ["macos", "settings"]
 - [VMware Fusion을 이용하여 Mac Arm CPU에서 Windows 11 ARM 설치하기](https://www.clien.net/service/board/lecture/18102257)
 - [Mac Arm CPU에서 WMware - Win11 ARM(가상) 활용방법(파일공유, 외부장치 연결 등)](https://www.clien.net/service/board/lecture/18105821)
 - [macOS 라이브 텍스트를 커멘드라인으로 사용 하기 9](https://www.clien.net/service/board/lecture/18203350)
-\
+
 ---
 
 ## Environment Setup

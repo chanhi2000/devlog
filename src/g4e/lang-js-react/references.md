@@ -117,8 +117,9 @@ meta:
 - [[Nestia] SDK and Mockup Simulator generation from Swagger Documents (Swagger to NestJS)](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
 - [Node.js 20.6.0: Say Goodbye to '`dotenv`'](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 - [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
-- [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
+- [`@sumankalia` Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
+- [`@miracool` How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 
 ---
 
@@ -263,6 +264,7 @@ meta:
 - [Why Web UI Development Is So Hard?](https://itnext.io/why-web-ui-development-is-so-hard-a88c47f4b3c5)
 - [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
 - [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
+- [A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
 
 ---
 

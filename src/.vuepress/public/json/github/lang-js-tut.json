@@ -204,5 +204,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Universidade-Livre/rinha-de-algoritmos",
+    "desc": "Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!",
+    "officialSite": "",
+    "topics": ["algorithms", "algorithms-and-data-structures", "approximation-algorithms", "np-complete", "np-hard", "probabilistic-algorithms"]
+  }, {
+    "repo": "safak/next14-tutorial",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

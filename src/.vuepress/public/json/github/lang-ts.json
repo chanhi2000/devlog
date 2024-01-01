@@ -1968,5 +1968,15 @@
     "desc": "🥳 A React components collection for Web3!",
     "officialSite": "https://web3.ant.design",
     "topics": []
+  }, {
+    "repo": "elie222/inbox-zero",
+    "desc": "Open source email management tools to reach inbox zero fast.",
+    "officialSite": "https://www.getinboxzero.com",
+    "topics": ["ai", "email", "nextjs", "openai", "prisma", "productivity", "shadcn-ui", "tailwind", "turborepo", "typescript", "upstash"]
+  }, {
+    "repo": "casibase/casibase",
+    "desc": "⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com",
+    "officialSite": "https://casibase.org",
+    "topics": ["ai", "aigc", "casibase", "chatbot", "chatgpt", "claude", "database", "go", "golang", "gpt", "huggingface", "javascript", "knowledge-base", "knowledgebase", "langchain", "llm", "openai", "react", "vector", "vector-database"]
   }
 ]

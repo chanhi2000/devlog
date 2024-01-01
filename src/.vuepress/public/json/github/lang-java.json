@@ -524,5 +524,10 @@
     "desc": "Upserts, Deletes And Incremental Processing on Big Data.",
     "officialSite": "https://hudi.apache.org/",
     "topics": ["apacheflink", "apachehudi", "apachespark", "bigdata", "data-integration", "datalake", "hudi", "incremental-processing", "stream-processing"]
+  }, {
+    "repo": "Stirling-Tools/Stirling-PDF",
+    "desc": "locally hosted web application that allows you to perform various operations on PDF files",
+    "officialSite": "",
+    "topics": ["docker", "java", "pdf", "pdf-converter", "pdf-manipulation", "pdf-merger", "pdf-ocr", "pdf-tools", "pdf-web-apps", "pdfmerger"]
   }
 ]

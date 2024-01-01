@@ -34,6 +34,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 - [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
 - [Video Streaming at Scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
 - [Securing Kubernetes Applications with CrowdSec Intrusion Detection System](https://itnext.io/securing-kubernetes-applications-with-crowdsec-intrusion-detection-system-8eb2f93d3c9f)
+- [Running GPU-Accelerated LLM Workloads on EKS](https://medium.com/prodigy-engineering/running-gpu-accelerated-llm-workloads-on-eks-9928c07d30ea)
 
 ---
 

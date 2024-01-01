@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/yRhrt-VayTn-0MSFHZcfgSUYeGEthYenbjXt3rwjbHGzOs4XxNNYcWWhUQfQiRbCP5tvhqMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ezhXbgMhiOA", "title": "Advanced Kotlin Networking Techniques: Inline Functions, HttpClient, and Beyond" },
+    { "id": "nWsA3r1nxNY", "title": "Mastering Network Calls in Kotlin: Building a Powerful HttpClient with Builder Pattern" },
+    { "id": "ezhXbgMhiOA", "title": "Advanced Kotlin Networking Techniques: Inline Functions, HttpClient, and Beyond" },
     { "id": "d2378VL6Q80", "title": "RESTful API Setup Made Easy: Cloning a kTor Project for Android" },
     { "id": "4dycfw1h3QY", "title": "Crafting a Jetpack Compose Login Screen: Exploring `Columns`, `Rows`, `TextFields`, and `Buttons`" },
     { "id": "Dbow4wXCAZY", "title": "Setting Up Material3 Theme & Type-Safe Magic in Your Android App" },

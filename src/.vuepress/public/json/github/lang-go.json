@@ -1119,5 +1119,15 @@
     "desc": "Build terminal forms and prompts 🤷🏻‍♀️",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "linhx/tbmk",
+    "desc": "A commands bookmark for terminal 🔖",
+    "officialSite": "",
+    "topics": ["go", "golang", "terminal", "terminal-bookmark"]
+  }, {
+    "repo": "helixml/helix",
+    "desc": "Create your own AI by fine-tuning open source models",
+    "officialSite": "https://tryhelix.ai",
+    "topics": []
   }
 ]

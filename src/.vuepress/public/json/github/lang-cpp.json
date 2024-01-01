@@ -958,5 +958,10 @@
     "desc": "A simple program to simulate artificial life using attraction/reuplsion forces between many particles",
     "officialSite": "",
     "topics": ["cellular-automata", "cpp", "educational", "game-of-life", "generative-art", "javascript", "particle-life", "particles", "simulation"]
+  }, {
+    "repo": "Genivia/ugrep",
+    "desc": "Ugrep 4.4: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search, hexdumps, searches nested archives (zip, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more",
+    "officialSite": "https://ugrep.com",
+    "topics": ["code-search", "file-search", "fuzzy-search", "grep", "grep-search", "grepping", "hexdump", "indexing", "interactive", "recursively-search", "regex", "ripgrep", "search", "shell-utilities", "silver-searcher", "tar", "text-search", "tui", "unicode", "zip"]
   }
 ]

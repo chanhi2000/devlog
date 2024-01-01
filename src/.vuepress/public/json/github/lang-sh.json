@@ -274,5 +274,15 @@
     "desc": "My dotfiles",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "anasfik/flutter-spy",
+    "desc": "Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.",
+    "officialSite": "",
+    "topics": ["bugbounty", "flutter", "osint", "recon", "reconnaissance", "reverse-engineering", "security-tools"]
+  }, {
+    "repo": "ublue-os/bazzite",
+    "desc": "Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.",
+    "officialSite": "https://bazzite.gg",
+    "topics": ["desktop", "fedora-kinoite", "fedora-linux", "fedora-silverblue", "gaming", "htpc", "oci-image", "operating-system", "ostree", "steam", "steam-deck", "valve"]
   }
 ]

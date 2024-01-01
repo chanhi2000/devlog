@@ -64,5 +64,10 @@
     "desc": "Home of the Flutter Casual Games Toolkit and other Flutter gaming templates",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "KRTirtho/spotube",
+    "desc": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+    "officialSite": "https://spotube.krtirtho.dev/",
+    "topics": ["android", "android-client", "android-music-player", "desktop-client", "fdroid", "flutter", "flutter-desktop", "linux", "macos", "music", "music-player", "spotify", "windows", "youtube"]
   }
 ]

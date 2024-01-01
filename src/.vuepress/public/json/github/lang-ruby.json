@@ -84,5 +84,10 @@
     "desc": "A curated list of engineering blogs",
     "officialSite": "",
     "topics": ["engineering-blogs", "lists", "programming-blogs", "software-development", "tech"]
+  }, {
+    "repo": "rails/rubocop-rails-omakase",
+    "desc": "Omakase Ruby styling for Rails",
+    "officialSite": "",
+    "topics": []
   }
 ]

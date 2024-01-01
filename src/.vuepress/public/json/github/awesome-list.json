@@ -869,5 +869,20 @@
     "desc": "Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "successfulstudy/promptoftheyear",
+    "desc": "In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐",
+    "officialSite": "https://flowgpt.com",
+    "topics": ["chatgpt", "prompts", "prompts-template"]
+  }, {
+    "repo": "krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "officialSite": "https://git.io/macx",
+    "topics": ["apple", "awesome", "awesome-list", "awesome-lists", "list", "mac", "mac-osx", "macos", "macosx", "software"]
   }
 ]
