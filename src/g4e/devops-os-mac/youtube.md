@@ -47,5 +47,8 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 <MyYouTubeItems jsonName="yu-Gael9A" /><!-- MacToLive -->
 <MyYouTubeItems jsonName="yu-raccoony_" /><!-- 라꾸니의 담기Raccoony's DAMGI -->
 <MyYouTubeItems jsonName="yu-DailyTekk" /><!-- DailyTekk -->
+<MyYouTubeItems jsonName="yu-iketsj" /><!-- iketsj -->
+<MyYouTubeItems jsonName="yu-Tips2Fix" /><!-- Tips 2 Fix -->
+<MyYouTubeItems jsonName="yu-austinmedz98" /><!-- Austin Medz -->
 
 <TagLinks />

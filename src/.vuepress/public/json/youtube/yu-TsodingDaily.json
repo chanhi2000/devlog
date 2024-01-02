@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bQ8tYTXxD7v9-o3rvg2XzKS23Rdza-Ug7uUUqSF869fq5_aPqVtinn1CMO5H5pqObMnd4xzTus0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "F4NM1N2D5-Q", "title": "This is Better than C for Binary Files" },
+    { "id": "iKbylgzysHw", "title": "Virtual DOM for Your Terminal" },
+    { "id": "mLUhSPD4F2k", "title": "Better Way to Build C" },
     { "id": "oyyV59dCyrA", "title": "Web is in The Past - Native UI in C is Back" },
     { "id": "LQ2rX5B0DUA", "title": "Forbidden Rust" },
     { "id": "vc5UPu76XOw", "title": "Unreasonably Easy Console Apps in Rust" },

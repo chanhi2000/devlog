@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/W9wERgktL_qfOGUtgKedwD_z3J5MlMWcucJXG90FG2tHHDy2u8tMUbRSeJkqoRJlnZe4nlsKOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ACPK2LGDtTQ", "title": "#14 - Using Selenium IDE and AI with ChatGPT to write ZERO code including POM ⚡️🦾" },
+    { "id": "VSbQiYs_FG4", "title": "#13 - Writing Extension methods in Selenium C# for Custom methods" },
+    { "id": "1qU6fIDht-s", "title": "All new Inbuilt CI/CD Integration of Postman with GitHub and GitHub Actions 🔥" },
+    { "id": "Yn0h2dcpRpc", "title": "#10 - Building EDA_Inventory consumer to consume message from RabbitMq Message Broker" },
     { "id": "-IHQU14zOyY", "title": "#12 - Extending Custom Methods with IWebElement in Page Object Model" },
     { "id": "0E3DDXf5UNc", "title": "#9 - Building Background Service to listen for events from Message broker in C# .NET" },
     { "id": "6HqYoSVuIWQ", "title": "#9 - Writing Custom Methods for Selenium UI Actions in Selenium with C# .NET" },

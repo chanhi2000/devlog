@@ -135,13 +135,18 @@ tags: ["references", "android"]
 
 - [Swing VPN app is a DDOS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites)
 
-<!-- Greek geek -->
 
 ---
 
 ## esper
 
 - [Android 14 adds support for using smartphones as a webcams](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
+
+---
+
+## Fabien Sanglard
+
+- [WHY ANDROID DEVELOPERS NO LONGER NEED WINDOWS USB DRIVERS](https://fabiensanglard.net/android_windows_driver/index.html)
 
 ---
 

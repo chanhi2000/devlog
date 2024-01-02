@@ -105,7 +105,7 @@ export default {
       this.isLoading = true;
       const fetchedItems = await DevoApi.fetchGithubRepos(true);
       const fetchedItemsHackerNews = await DevoApi.fetchHackernews();
-      const fetchedItemsGithub = fetchedItemsHackerNews
+    const fetchedItemsGithub = fetchedItemsHackerNews
         .filter((e) => e.link.includes(`${DevoApi.BASEURL_GITHUB}/`))
       const fetchedGithubColor = await DevoApi.fetchGitubColors();
       

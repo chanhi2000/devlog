@@ -1129,5 +1129,15 @@
     "desc": "Create your own AI by fine-tuning open source models",
     "officialSite": "https://tryhelix.ai",
     "topics": []
+  }, {
+    "repo": "adaptive-scale/dbchaos",
+    "desc": "Stress-test your database with pre-defined queries. Validate slow and expensive queries that breaks your database.",
+    "officialSite": "https://adaptive.live",
+    "topics": ["chaos", "database"]
+  }, {
+    "repo": "benbjohnson/litestream",
+    "desc": "Streaming replication for SQLite.",
+    "officialSite": "https://litestream.io",
+    "topics": ["replication", "s3", "sqlite"]
   }
 ]

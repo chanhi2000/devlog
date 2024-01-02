@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Devefy",
+    "name": "Devefy",
+    "profile": "https://yt3.googleusercontent.com/cf1xlBMUHGX0l64rbUrWVzMcWnuDA-RMQ1W4IPO5Qmtf0Jpgblq5XDRJ9KrqlcmumwILWKZw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S43fGm3roFuEbtYcZrYy5XkhWtUZCM0LQazgNzJrz6ue7giRbVRWP1kKZZY5BQBbFPyKgp7WDg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l1ooQqAsYPM", "title": "Minimalistic Music Player Widget - Speed Code" }
+  ]
+}

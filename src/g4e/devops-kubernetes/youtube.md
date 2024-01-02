@@ -51,5 +51,6 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 <MyYouTubeItems jsonName="yu-KyounRrock" /><!-- Kyeongrok Kim -->
 <MyYouTubeItems jsonName="yu-devopsdean7830" /><!-- DevOps Dean -->
 <MyYouTubeItems jsonName="yu-TV-uj9rv" /><!-- 쿠버네티스 TV -->
+<MyYouTubeItems jsonName="yu-cloudchamp" /><!-- Cloud Champ -->
 
 <TagLinks />

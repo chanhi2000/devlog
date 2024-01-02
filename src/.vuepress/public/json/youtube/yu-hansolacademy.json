@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "hansolacademy",
+    "name": "한솔아카데미",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRdtl4E_FeFQDj_8nHFVxnpj6LhPWFKqok6rz_0Ow=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kW5L88GMPzj7UmZhCfeeJeq3Q24eDwVVfP0XvBN6vC3A5a6-C8aEHxFgD6exjbbHks1FhefDwYs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FsGyclr_r5k", "title": "2024년 전기 CBT 이렇게 바뀐다!🔥합격전략특강🔥 #전기자기학 | 전기기사필기 전기산업기사필기" },
+    { "id": "rMKH-KeiWOw", "title": "2024년 전기 CBT 전망은?🔥합격전략특강🔥 #전력공학 | 전기기사필기 전기산업기사필기" },
+    { "id": "5RDQ-7ESpQc", "title": "2024년 전기 CBT 어떻게 공부해야 하는가?🔥합격전략특강🔥 #전기기기 | 전기기사필기 전기산업기사필기" }
+  ]
+}

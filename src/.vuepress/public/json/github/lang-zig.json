@@ -14,5 +14,10 @@
     "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
     "officialSite": "https://bun.sh",
     "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"]
+  }, {
+    "repo": "zigcc/zig-cookbook",
+    "desc": "Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.",
+    "officialSite": "https://zigcc.github.io/zig-cookbook/",
+    "topics": ["zig", "ziglang"]
   }
 ]

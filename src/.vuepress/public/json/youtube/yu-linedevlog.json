@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/OGMmgjQtWPxL9nuJA18Hr7gnG6EjN5w_azKZpiJ3Uf4hDH2bcFdZYOV6wTRALFZrC6icSh5_jvc=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YDotOWOpgNE", "title": "잘 키운 오픈소스, 열 고양이 안 부럽다고요? 공개SW 페스티벌 2023 방문기" },
     { "id": "bZKbrioqTCw", "title": "Flutter 개발에 Android, iOS 지식이 필요한가요? | 라인개발실록" },
     { "id": "tlwNJ9yHyx4", "title": "일본 1위 배달앱, Flutter로 만듭니다 | 라인개발실록" },
     { "id": "bcNSWcCaijc", "title": "알람이 울면 빠르게 일어나 대응해요⚡️ DBA 온콜 | LINE DEV Vlog" },

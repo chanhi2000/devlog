@@ -37,5 +37,6 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 <MyYouTubeItems jsonName="yu-UnixGuy" /><!-- UnixGuy | Cyber Security Career -->
 <MyYouTubeItems jsonName="yu-crr0ww" /><!-- crow -->
 <MyYouTubeItems jsonName="yu-DARPAtv" /><!-- DARPAtv -->
+<MyYouTubeItems jsonName="yu-InsideCloudAndSecurity" /><!-- Inside Cloud and Security -->
 
 <TagLinks />

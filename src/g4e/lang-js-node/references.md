@@ -614,9 +614,15 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
-## Robb Knight.
+## Robb Knight
 
 - [Please, Expose your RSS](https://rknight.me/please-expose-your-rss)
+
+---
+
+## Patrick Dubroy
+
+- [Getting things done (in small increments)](https://dubroy.com/blog/getting-things-done-in-small-increments/)
 
 ---
 

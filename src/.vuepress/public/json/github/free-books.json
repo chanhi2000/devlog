@@ -129,5 +129,10 @@
     "desc": "Community designed ERCF v2",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ossu/bioinformatics",
+    "desc": ":microscope: Path to a free self-taught education in Bioinformatics!",
+    "officialSite": "",
+    "topics": []
   }
 ]

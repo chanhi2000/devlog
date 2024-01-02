@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "JNationConf",
+    "name": "JNation",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQrREpEG6qJ7G7_gQ24BtZz8OZ4KO0jI4kbPPb-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/U4ZSDOgfaUkoHeebzRT37zOM7YLadV4wjPezcGHXFHD9WcvRsoWRRapps6VAbesVV7rwuUD8e-s=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oQNpMSyge84", "title": "Surviving Dependency Hell with Maven by Robert Scholte and Ray Tsang" }
+  ]
+}

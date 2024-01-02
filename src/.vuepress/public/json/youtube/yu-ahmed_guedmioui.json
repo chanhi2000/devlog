@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/OdDTHsDJB9M4buzLDb5NgTzEAEsUbqXhXX0BkGzSEETxOAJ3eH2d4SECrJ8ZNjcUxLbIKlLdwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0X4HUL7BEO4", "title": "Kotlin Coroutines - How To Launch A Coroutine (Part 2)" },
+    { "id": "koeOGwpBxXw", "title": "Kotlin Coroutines - What Are Coroutines? (Part 1)" },
+    { "id": "28hIgbtrab4", "title": "Kotlin Coroutines - Changing Coroutines Thread (Part 4)" },
+    { "id": "31-EUmOtEMg", "title": "Kotlin Coroutines - Suspend Function (Part 3)" },
     { "id": "5pjdE2wnJ0s", "title": "Full Room Database Tutorial - Build Notes App With Room DB" }, 
     { "id": "pCy93IdWr9s", "title": "Build Banking App UI With Jetpack Compose 📱" },
     { "id": "qVok2DC7-N8", "title": "Android ViewModel & Configuration Changes Explained - MVVM Component." },

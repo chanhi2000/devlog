@@ -659,5 +659,10 @@
     "desc": "source code for BCHS website",
     "officialSite": "https://learnbchs.org",
     "topics": ["bchs", "bsd", "c", "sqlite"]
+  }, {
+    "repo": "webui-dev/webui",
+    "desc": "Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.",
+    "officialSite": "https://webui.me",
+    "topics": ["browser", "cpp", "gui", "javascript", "typescript", "web", "webapp", "webui"]
   }
 ]

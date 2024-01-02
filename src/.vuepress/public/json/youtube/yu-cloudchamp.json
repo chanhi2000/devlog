@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "cloudchamp",
+    "name": "Cloud Champ",
+    "profile": "https://yt3.googleusercontent.com/V4nPnlqpKqH_IRDMcxJK6grZGBHORPoTPh4NiuidtBTz7bNduN99vBIwt5Cei5r0f4aeyj4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HRBgAcsz-w2EJHATAAHVecgaI874LHD4dLEdzWK3IeViMyoXZdqtt8L_g6mqw_FRa-9-gTwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pTmIoKUeU-A", "title": "Kubernetes Live Project: Deploy Cloud Native Voting Application on EKS" },
+    { "id": "O2AC23B3ksc", "title": "You NEED to learn GOLANG because Every Company is using it!" },
+    { "id": "g8X5AoqCJHc", "title": "DevSecOps Pipeline Project: Deploy Netflix Clone on Kubernetes" },
+    { "id": "bjrlo9LwMJY", "title": "You MUST know this BEFORE learning Kubernetes | Prerequisites for Kubernetes" },
+    { "id": "al9R-yfP4UA", "title": "Kubernetes Explained - What is Kubernetes and How it works?" },
+    { "id": "wS277TdV3f8", "title": "Important Kubernetes kubectl Command with Examples in 20 minutes!" },
+    { "id": "P77GhVfvuKQ", "title": "DevOps ROADMAP 2024: How to learn and Become DevOps Engineer (With Resources)" }
+  ]
+}

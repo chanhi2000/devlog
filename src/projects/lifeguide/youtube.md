@@ -63,5 +63,6 @@ meta:
 <MyYouTubeItems jsonName="yu-yesunglabor" /><!-- 노무법인 예성 -->
 <MyYouTubeItems jsonName="yu-BetterLife" /><!-- 더나은삶TV -->
 <MyYouTubeItems jsonName="yu-b-log3651" />  <!-- 베이로그 B-Log -->
+<!-- <MyYouTubeItems jsonName="yu-TV-lu4tv" /> 맥스큐TV  -->
 
 <TagLinks />

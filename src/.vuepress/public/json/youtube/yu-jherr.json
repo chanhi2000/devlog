@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/jZlcSjAybNwxoX0ao-ywQO-j5XF2QWPNI9tMjLTNB0I2xIwm2dIJaASPWOq2GlDVWc1Z-Ichaw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "D1pipriqlAM", "title": "How To Debug Broken APIs" },
     { "id": "KtTR8Seld98", "title": "Stream Your Components From NextJS Server Actions" },
     { "id": "6ZDiGtg1jN4", "title": "StyleX: Meta's Solution To CSS At Scale" },
     { "id": "DttZuqAiuR0", "title": "Visual Copilot Converts Figma Mocks to React Fast and Accurate" },

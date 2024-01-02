@@ -14,6 +14,12 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## EBooks
+
+- [Calculating Logarithms By Hand](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
+
+---
+
 ## Andrew Chan
 
 - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
@@ -31,5 +37,7 @@ tags: ["youtube", "tutorial"]
 - [The Technological Innovations that Produced the Shale Revolution](https://www.construction-physics.com/p/the-technological-innovations-that)
 
 ---
+
+
 
 <TagLinks />

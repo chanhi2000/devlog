@@ -3694,5 +3694,25 @@
     "desc": "💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
     "officialSite": "https://neuml.github.io/txtai",
     "topics": ["embeddings", "information-retrieval", "language-model", "large-language-models", "llm", "machine-learning", "neural-search", "nlp", "python", "rag", "retrieval-augmented-generation", "search", "search-engine", "semantic-search", "sentence-embeddings", "transformers", "txtai", "vector-database", "vector-search", "vector-search-engine"]
+  }, {
+    "repo": "dvmazur/mixtral-offloading",
+    "desc": "Run Mixtral-8x7B models in Colab or consumer desktops",
+    "officialSite": "",
+    "topics": ["colab-notebook", "deep-learning", "google-colab", "language-model", "llm", "mixture-of-experts", "offloading", "pytorch", "quantization"]
+  }, {
+    "repo": "tyxsspa/AnyText",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "cmang/durdraw",
+    "desc": "Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes",
+    "officialSite": "http://durdraw.org",
+    "topics": ["animation", "ansi", "ansi-art", "art", "ascii", "ascii-art", "ascii-graphics", "bbs", "cp437", "drawing", "editor", "linux", "ncurses", "terminal", "text-editor", "textmode", "tui", "unicode", "unicode-art", "xterm-256color"]
+  }, {
+    "repo": "standardebooks/tools",
+    "desc": "The Standard Ebooks toolset for producing our ebook files.",
+    "officialSite": "",
+    "topics": ["ebook", "epub", "epub3", "python"]
   }
 ]

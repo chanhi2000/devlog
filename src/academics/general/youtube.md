@@ -21,5 +21,7 @@ tags: ["youtube", "tutorial"]
 <MyYouTubeItems jsonName="yu-kafa46" /><!-- 소프트웨어 꼰대 강의 -->
 <MyYouTubeItems jsonName="yu-ray_math" /> <!-- Ray 수학 -->
 <MyYouTubeItems jsonName="yu-Eigensteve" /><!-- Steve Brunton -->
+<MyYouTubeItems jsonName="yu-lsy_math" /><!-- 이상엽Math -->
+<MyYouTubeItems jsonName="yu-bizchoi" /><!-- 최대표TV -->
 
 <TagLinks />

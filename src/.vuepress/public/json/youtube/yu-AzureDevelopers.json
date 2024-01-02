@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/4rtjrb_IF5E8XCtVgl_Bb5_O1xOyqAhDMXUAUifKwwwqLWp-mBNCppPJUGNs3RzJAJYwFufc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "llHohyadtLA", "title": "Azure Logic Apps Standard - Local Development News" },
+    { "id": "IswF6PF4HpI", "title": "What's new on Service Bus" },
+    { "id": "CwaQ26g-Bxg", "title": "A new Azure Integration Services Unified Experience" },
+    { "id": "uckVTuS36H0", "title": "Searching Enterprise data with Azure OpenAI & Azure Search in JavaScript" },
+    { "id": "iFdjaT1rFng", "title": "Build Reliable Copilots with Azure Integration Services and Microsoft's Copilot Stack" },
     { "id": "N9Sp7iPjIDs", "title": "Author API Management policies using Microsoft Copilot for Azure" },
     { "id": "r6E24LRzOko", "title": "Build AI chat applications with Azure Static Web Apps | Azure Static Web Apps Community Standup" },
     { "id": "ILdr9Tnq6_o", "title": "Azure SDK Community Standup - Translate and Transcribe with Azure OpenAI" }, 

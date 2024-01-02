@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "WjDD2-IQBcA", "title": "[node.js 6-3(2)] 페이징 준비 단계 ( 추가,  상세 내용,  조회수 증가 )" },
+    { "id": "rkQwMC9QVLk", "title": "[node.js 6-3(1)] 페이징 준비 단계 ( 모든 목록 확인 )" },
+    { "id": "mavyfI3PTt8", "title": "[node.js 6-2(3)] 파일 삭제, 수정 및 static 설정" },
+    { "id": "7912WoQD8s4", "title": "[node.js 6-4(3)] 답변 출력" },
+    { "id": "NMNAijInrvA", "title": "[node.js 6-4(1)] 답변 테이블 생성 및 답변 틀 만들기" },
     { "id": "S5J7QD278PU", "title": "[node.js 6-1(5)] Rest 응용" },
     { "id": "5xCg9fQ0Wjs", "title": "[node.js 6-2(1)] 파일 업로드" },
     { "id": "4lLLNuwQWHI", "title": "[node.js 6-1(3)] fetch 사용방법" }

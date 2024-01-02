@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/h5Wmv5I8Q_hnpIOlrK1uB0Ct-lGktG_WmRcfovpV8aPdSMWqLTrIyPiGKurvrKWBgL76BMMc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EyDV5XLfagg", "title": "An easy mistake to make with SvelteKit" },
+    { "id": "B19DEGEclfk", "title": "I already love SvelteKit v2" },
+    { "id": "vpTtsXBYqeo", "title": "🎄 Advent of Svelte 5 (Days 11+)" },
+    { "id": "xlrstbUpyZI", "title": "🎄 Advent of Svelte 5 (Days 8-10)" },
+    { "id": "r9Dkw1yqG68", "title": "🎄 Advent of Svelte 5 (Day 7)" },
+    { "id": "BmVKp_KKzTI", "title": "🎄 Advent of Svelte 5 (Days 3-6)" },
     { "id": "DgNWssn2vpc", "title": "Don't Sleep on Svelte 5" },
     { "id": "san5ValGE5g", "title": "Working on the Date Picker for Melt UI" },
     { "id": "ugaajUi9xAQ", "title": "Prevent App Abuse with Upstash Redis" },

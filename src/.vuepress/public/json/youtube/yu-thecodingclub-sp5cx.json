@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "thecodingclub-sp5cx",
+    "name": "더코딩클럽",
+    "profile": "https://yt3.googleusercontent.com/1Vs23ModkumMIRHbyylCHL26UBQ3eqcY_Atk4w6G6kiqBVhVVIvO9E3Kalr1_v3yUJeIA1w5TTA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "HOZQe3hrNN4", "title": "알아두면 언젠가 쓸모있는 javascript 주의사항 2가지" },
+    { "id": "ApoRhAR76Eo", "title": "개발자 취업 완전이진트리 전략 -마지막편-" },
+    { "id": "pduyJ3iXAv0", "title": "개발자 취업 완전이진트리 전략 -2편-" }
+  ]
+}

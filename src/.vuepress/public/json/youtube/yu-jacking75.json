@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "g49BA8I9aQ8", "title": "C++ POCO 라이브러리 02. Poco.Net을 이용한 네트워크 프로그래밍 소개" },
+    { "id": "U6VgV_vTa8w", "title": "C++ POCO 라이브러리 03. TCP Echo Server/Client" },
     { "id": "GFU1HxxVKx0", "title": "C++ POCO 라이브러리 01 - 소개와 사용" },
     { "id": "uH6EZFGKg7Y", "title": "Gateway Server를 사용하는 이유" },
     { "id": "Db6yunOHZ2c", "title": "분산 서버에서 DB 서버" },

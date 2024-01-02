@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/-YGdX6fT3R2paQngKFyRe0VX74f24_JQG-MtHXxPVqAKzKyP7554ARzUpnnvL9aIOv9aap3z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ctASA9suLV4", "title": "Oracle Hang 장애시 DBA들이 반드시 해야하는 Systemstate Dump" },
+    { "id": "S7eWjty0lXg", "title": "(팁) 버츄얼박스 네트워크이 갑자기 안되는 경우의 팁" },
+    { "id": "mHi1T2OVBUM", "title": "Oracle Patchset, RU, RUR 차이점과 다운로드 받는 방법" },
+    { "id": "0vJ_8eLOzOc", "title": "Oracle Database RU 패치하는 방법 실습" },
     { "id": "yQLYpB7p3hA", "title": "VirtualBox 에 Oracle Linux 8.7 설치, 외부에서 게스트서버 접속" }
   ],
   "playlists": [

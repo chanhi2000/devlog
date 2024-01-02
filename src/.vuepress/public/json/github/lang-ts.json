@@ -1978,5 +1978,15 @@
     "desc": "⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com",
     "officialSite": "https://casibase.org",
     "topics": ["ai", "aigc", "casibase", "chatbot", "chatgpt", "claude", "database", "go", "golang", "gpt", "huggingface", "javascript", "knowledge-base", "knowledgebase", "langchain", "llm", "openai", "react", "vector", "vector-database"]
+  }, {
+    "repo": "janhq/jan",
+    "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "officialSite": "https://jan.ai/",
+    "topics": ["electron", "gpt", "llama2", "llamacpp", "localai", "self-hosted"]
+  }, {
+    "repo": "iorate/ublacklist",
+    "desc": "Blocks specific sites from appearing in Google search results",
+    "officialSite": "https://iorate.github.io/ublacklist/",
+    "topics": ["blocker", "chrome-extension", "firefox-extension", "google-search"]
   }
 ]

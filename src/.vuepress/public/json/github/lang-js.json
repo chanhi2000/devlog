@@ -1839,5 +1839,10 @@
     "desc": "Collection of forensic tools",
     "officialSite": "https://cristian.sh/projects/forensictools.html",
     "topics": ["binary-analysis", "dfir", "forensic-examinations", "forensics", "forensics-tools", "incident-response", "toolkit", "tools"]
+  }, {
+    "repo": "html5-ninja/page-replica",
+    "desc": "Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost",
+    "officialSite": "",
+    "topics": ["frontend", "prerendering", "seo-optimization", "ssr"]
   }
 ]

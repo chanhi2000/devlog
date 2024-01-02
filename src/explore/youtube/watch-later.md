@@ -91,7 +91,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-user-nq5st4fy5n]: https://www.youtube.com/@user-nq5st4fy5n
 [yu-alexandrugutan7587]: https://www.youtube.com/@alexandrugutan7587
 [yu-wizcenter-seoul]: https://www.youtube.com/@WizcenterSeoul
-[yu-user-ku2nm2bp1t]: https://www.youtube.com/@user-ku2nm2bp1t
 [yu-siva-reddy]: https://www.youtube.com/@SivaReddyJavaTechie
 [yu-na-nyun-jae]: https://www.youtube.com/@NaNyunJae
 [yu-code-w-steve]: https://www.youtube.com/@CodeWithSteve
