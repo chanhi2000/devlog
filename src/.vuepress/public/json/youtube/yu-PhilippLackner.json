@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KmnEsiQdd0M", "title": "Do You Have to Learn Clean Architecture as a Beginner? - Android Development" },
+    { "id": "i7PJwg0lrU0", "title": "I've Built an Android App With Google's New AI Gemini" },
+    { "id": "s8h7GJTZa4E", "title": "Top 3 Hacks to Remove `LazyColumn` Lag in Jetpack Compose - Android Studio Tutorial" },
+    { "id": "_FtKhWvHiTg", "title": "Performance Optimization with `@Stable` and `@Immutable` in Jetpack Compose" },
     { "id": "JAGLOaWztBc", "title": "Should You Use a Navigation Library in Jetpack Compose?" },
     { "id": "r6qEIAmTBdY", "title": "`mutableStateOf()` VS. `mutableIntStateOf()` - Auto-Boxing Explained" },
     { "id": "0n8asCc_Hxo", "title": "When Should You Use a 3rd Party Library?" },

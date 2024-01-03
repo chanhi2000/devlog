@@ -226,6 +226,12 @@ description: 🐍Python > 📚References
 
 - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 
+---
 
+## the greg technology 
+
+- [how do you ocr on a mac using the cli or just python for free](https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html)
+
+---
 
 <TagLinks />

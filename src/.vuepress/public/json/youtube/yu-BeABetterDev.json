@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/_DkMv1f8NdP7BCDRa9j7I9RV_ts0eot7ENEFCsh33fCJTy1tlGdRpaRPoxLK6qvZvZLFxyTKCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uMssqm_Cf9U", "title": "AWS Caching Solutions Introduction" },
     { "id": "RlG0xaSlxpc", "title": "How To Resume a Step Function From a Failed State **NEW FEATURE**" },
     { "id": "QXh2WF1EJvs", "title": "AWS Step Functions Introduction - What is it and Why is it Useful?" },
     { "id": "LTH9m4HkeYY", "title": "How I Would Learn AWS Today (after 10 years of cloud experience)" },

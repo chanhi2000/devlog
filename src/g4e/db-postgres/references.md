@@ -61,4 +61,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## JONATHAN KATZ
+
+- [THOUGHTS ON POSTGRESQL IN 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
+
+---
+
 <TagLinks />

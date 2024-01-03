@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/GRwNGIYpPHiKc1Hiwz7NABkQ9wMjcWAWso-N0KIZdEtRdLugsdbaEewni5EDivhqxxgOxpL9uQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "shPK8IWgU6c", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#5(2차도메인셋팅)" },
+    { "id": "qxVf5qLUBjs", "title": "시놀로지NAS서버 Shorts Tip#3(phpmyadmin 오류해결법)#nas#synology#website#docker#dockercontainer#시놀로지#wordpress" },
     { "id": "j1I7g3GRIvs", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#5(멀티 인증서셋팅2)" },
     { "id": "joLrJd6OWLE", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#3" }, 
     { "id": "WlgK3OkZPKI", "title": "시놀로지NAS 메일서버 셋팅하기#1(이렇게하면 끝)-개요 및 구성" }

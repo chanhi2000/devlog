@@ -13,6 +13,12 @@ tags: ["sql", "db", "mysql", "shell", "stricky"]
 
 ---
 
+## Github Blog
+
+- [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
+
+---
+
 ## PlanetScale
 
 - [Pagination in MySQL](https://planetscale.com/blog/mysql-pagination)
@@ -60,5 +66,7 @@ tags: ["sql", "db", "mysql", "shell", "stricky"]
 - [mysql 백업 shell script crontab](https://stricky.tistory.com/304)
 - [index 의 중요성과 이해](https://stricky.tistory.com/310)
 - [MySQL 기본 select SQL 예제](https://stricky.tistory.com/328)
+
+---
 
 <TagLinks />

@@ -134,5 +134,6 @@ meta:
 <MyYouTubeItems jsonName="yu-BusinessAndTech" /><!-- Craig Piercy -->
 <MyYouTubeItems jsonName="yu-surendranvelath4355" /><!-- Surendran Velath -->
 <MyYouTubeItems jsonName="yu-davidford6890" /><!-- David Ford -->
+<MyYouTubeItems jsonName="yu-yhdev" /><!-- 김영한 -->
 
 <TagLinks />

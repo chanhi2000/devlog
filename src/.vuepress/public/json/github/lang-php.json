@@ -164,5 +164,10 @@
     "desc": "Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!",
     "officialSite": "https://chat.oaifree.com",
     "topics": ["chatgpt", "openai", "pandora"]
+  }, {
+    "repo": "firefly-iii/firefly-iii",
+    "desc": "Firefly III: a personal finances manager",
+    "officialSite": "https://firefly-iii.org/",
+    "topics": ["accounting", "budget", "budgeting", "budgets", "cash-flow", "cashflow", "credit-card", "docker", "expenses", "finance", "finances", "financial", "linux", "money", "paycheck", "personal-finance", "php", "php7"]
   }
 ]

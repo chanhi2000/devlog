@@ -664,5 +664,15 @@
     "desc": "Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.",
     "officialSite": "https://webui.me",
     "topics": ["browser", "cpp", "gui", "javascript", "typescript", "web", "webapp", "webui"]
+  }, {
+    "repo": "darktable-org/darktable",
+    "desc": "darktable is an open source photography workflow application and raw developer",
+    "officialSite": "https://www.darktable.org",
+    "topics": []
+  }, {
+    "repo": "antirez/neural-redis",
+    "desc": "Neural networks module for Redis",
+    "officialSite": "",
+    "topics": []
   }
 ]

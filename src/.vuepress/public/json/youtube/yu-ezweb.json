@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tCqYT3VCvUs", "title": "[js 108] 웹 개발 초급자를 위한 헤더 고정 애니메이션 with 자바스크립트" },
+    { "id": "os0geTSOaLE", "title": "[js 107] Javascript Countdown animation 자바스크립트 카운트다운 애니메이션" },
+    { "id": "42V5P5ZBvic", "title": "[js 106] Javascript Modal - 바닐라 자바스크립트 모달, css animation" },
     { "id": "pReyigN9ZhQ", "title": "react-60 [ 리엑트 to do List #07 ] - 초기값 수정 및 프로젝트 완료" },
     { "id": "MgZuX8nJslQ", "title": "CSS3 - 128 [Loading Animation]  순수 CSS 로딩 애니메이션, keyframes, fit-content, background-clip" },
     { "id": "sXdzKiOqwfw", "title": "순수 CSS 로딩 애니메이션 #cssanimation #loadinganimation" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/AkFbWpidry0bFjIop0oa6Ct65P6xWu9o93GamfbYSVSF-I_xUuoUTOnpKez77NLKhqNJ6kkzqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "V6iOFfi8VwY", "title": "Use the Azurite emulator for Azure Storage local development" },
+    { "id": "siM7X-Zsb3M", "title": "Add a .gitignore file to your .NET apps the fast way!" },
     { "id": "OdpqciXDKjY", "title": "Learn Azure OpenAI - Chat and Code with Your Own Data!" },
     { "id": "EVqA2jTQt_A", "title": "Blazor File Uploads in .NET 8.0 Part 2: WebAssembly" },
     { "id": "a5-iQ5IGtT0", "title": "Blazor File Uploads Series Part 1: Server-Side Rendering" },

@@ -153,5 +153,10 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Stefan Abi-Karam
+
+- [A Simulated Annealing FPGA Placer in Rust](https://stefanabikaram.com/writing/fpga-sa-placer/)
+
+---
 
 <TagLinks />

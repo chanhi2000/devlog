@@ -1844,5 +1844,15 @@
     "desc": "Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost",
     "officialSite": "",
     "topics": ["frontend", "prerendering", "seo-optimization", "ssr"]
+  }, {
+    "repo": "UdaraJay/Pile",
+    "desc": "Desktop app for digital journaling. ",
+    "officialSite": "https://udara.io/pile",
+    "topics": ["desktop-app", "journaling"]
+  }, {
+    "repo": "Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "officialSite": "https://www.zigbee2mqtt.io",
+    "topics": []
   }
 ]

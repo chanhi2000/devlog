@@ -968,5 +968,15 @@
     "desc": "a graphical C/C++ runtime editor",
     "officialSite": "",
     "topics": ["c", "cpp", "debug-tool"]
+  }, {
+    "repo": "thelastoutpostworkshop/gpio_viewer",
+    "desc": "GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards",
+    "officialSite": "",
+    "topics": ["arduino-library", "esp32", "gpio", "gpio-pins", "gpioviewer"]
+  }, {
+    "repo": "dillo-browser/dillo",
+    "desc": "Dillo, a multi-platform graphical web browser",
+    "officialSite": "https://dillo-browser.github.io/",
+    "topics": ["browser", "dillo", "fltk"]
   }
 ]

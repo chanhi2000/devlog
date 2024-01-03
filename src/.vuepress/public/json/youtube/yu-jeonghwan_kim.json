@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "jeonghwan_kim",
+    "name": "김정환",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZR46cpokaSZGkuquTR5-Yz--2-RrZDSTMWsY5ymk6E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "zA_YAuwPrcA", "title": "서버 자원을 보호하기 위한 서버와 브라우져 간의 약속, CORS" }
+  ]
+}

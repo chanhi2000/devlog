@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/2m8NGC9xQaV3oOJ6YdNYRJbwAT6BVX-fHr_AO4zhOWwy4u1p4tFO9X1AHeceiPBYbuL5Qunr=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UbCHOYaT_10", "title": "Vue vs Svelte | What if they went to court?" },
+    { "id": "sBOar5Xh7k0", "title": "LARAVEL vs YII: PHP framework comparison  #programming #coding #tech" },
+    { "id": "LRjs2fc6r-o", "title": "Node.js vs Golang COMPARISON" },
     { "id": "JjsT-i-ZEBc", "title": "gRPC vs REST - KEY differences and performance TEST" },
     { "id": "pSZTV-n8wPo", "title": "Best AI productivity tools we actually use!" },
     { "id": "GKR0rsr05YY", "title": "WebRTC vs WebSocket! Which one rules the web? | Jelvix" },

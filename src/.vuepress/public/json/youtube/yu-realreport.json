@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/REDH36PoBexaig5c4xQqrjXmG3EPvOd0PB7oCR1YdjUkJMmJd-WuIjN-6mSIMamAq57FxUsBEQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dymihe2djfA", "title": "동적설계 3 - 상태도" },
     { "id": "s44xYsNuvKs", "title": "동적설계 2 - 시퀀스 다이어그램" },
     { "id": "R-TIrzVXuPY", "title": "초보 개발자를 위한 디버깅 비법" }, 
     { "id": "NQxXtsH5eyg", "title": "MVVM 쉽고 확실하게 이해하기" },

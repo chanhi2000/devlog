@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "GNMUplat",
+    "name": "GNMU 네트워크마케팅대학",
+    "profile": "https://yt3.googleusercontent.com/BpJOk_0xJLYQUWkzYqh2TWqQ3FamuWLiYVrQ40YG7GcCaogo6WfD6K2x4WBrjHCo5FKKlNoDQQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4Kx6SKOPNDK0S1o8IOKYus68GaZD4L6PuIpnnujtRzGeDV8pYdhQPMAeXxura_OGQM8on01O=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ckCjN8zf71w", "title": "[네트워크 5.0 PP School] 1강. 네트워크마케팅 패러다임의 변화" },
+    { "id": "ewbEKuy-Teg", "title": "[김샘의 컨셉잡기] 네트워크 5.0시대에 맞는 인재상과 프로모터의 역량" },
+    { "id": "CAye-05DH3U", "title": "셀프리더로 육성시키는 리더십- 슈퍼리더십" },
+    { "id": "1sIn-ylKSXk", "title": "성공적으로 팀을 이끄는데 필요한 팀리더십 - 김샘의 LDT리더십" }
+  ]
+}

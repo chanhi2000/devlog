@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "rsaorg",
+    "name": "RSA",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSbpZ5wT5lv2sHA4ziLpudVCFlzR3mbPqejT9BKMA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TzZ3ZmJaNTqJkPfo3_FKvT1AiFnFx2BwabaOIzu3pCGzIwY1nhwGH7IFaavJiS5CX3uODvk0Tw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "k4MhC5tcEv0", "title": "Antifragile - Nassim Nicholas Taleb" }
+  ]
+}

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/X4brzU6oq2AQfFtVjZXoEQD4ZSibnyZS97846cL_OVte7l4MueLNNtl1fdSyDCXofgeRwrfNuA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MFvZLdmc778", "title": "복잡하고 어려운 세무업무는 안녕, 내 업무에만 온전히 집중할 수 있도록 ‘자비스앤빌런즈’ – AWS 고객사례" },
     { "id": "vsqXv3YpEHQ", "title": "Git Secrets를 사용하여 자격 증명 안전하게 보호하기" },
     { "id": "0yBB1Y0IVEQ", "title": "Amazon MSK Replicator로 리전 간 MSK 클러스터 실시간 복제하기" },
     { "id": "WzVER475EgA", "title": "AWS Client VPN으로 리소스에 안전하게 접근하기" },
