@@ -48,7 +48,6 @@ meta:
 <MyYouTubeItems jsonName="yu-GainJavaKnowledge" /><!-- Gain Java Knowledge -->
 <MyYouTubeItems jsonName="yu-infybuzz" /><!-- Infybuzz -->
 <MyYouTubeItems jsonName="yu-java" /><!-- Java -->
-<MyYouTubeItems jsonName="yu-user-uc2wv8zw3h" /><!-- 전자정부 표준프레임워크 센터 -->
 <MyYouTubeItems jsonName="yu-namoosori" /><!-- 나무소리 -->
 <MyYouTubeItems jsonName="yu-metacoding" /><!-- 메타코딩 -->
 <MyYouTubeItems jsonName="yu-DataStaxDevs" /><!-- DataStax Developers -->

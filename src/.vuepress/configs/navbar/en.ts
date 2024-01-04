@@ -77,6 +77,9 @@ export const navbarEn: NavbarConfig = [
         text: '☕️Java',
         link: '/g4e/lang-java/README.md',
       }, {
+        text: '🍃Spring',
+        link: '/g4e/lang-java-spring/README.md',
+      }, {
         text: '🤖Android',
         link: '/g4e/lang-java-android/README.md',
       },  {

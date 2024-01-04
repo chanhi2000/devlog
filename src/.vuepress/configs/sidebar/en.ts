@@ -102,8 +102,6 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/basics.md',
         '/g4e/lang-java/singleton.md',
         '/g4e/lang-java/log4j.md',
-        '/g4e/lang-java/spring.md',
-        '/g4e/lang-java/was.md',
         '/g4e/lang-java/webservice.md',
         '/g4e/lang-java/news.md',
         '/g4e/lang-java/tips.md',
@@ -111,6 +109,17 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/lang-java/references.md',
         '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
+      ]
+    }, {
+      text: '🍃Spring',
+      collapsible: true,
+      children: [
+        '/g4e/lang-java-spring/README.md',
+        '/g4e/lang-java-spring/snippets-gradle.md',
+        '/g4e/lang-java-spring/was.md',
+        '/g4e/lang-java-spring/references.md',
+        '/g4e/lang-java-spring/github.md',
+        '/g4e/lang-java-spring/youtube.md',
       ]
     }, {
       text: '🤖Android',

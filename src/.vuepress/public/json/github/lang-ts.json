@@ -1195,9 +1195,9 @@
     "topics": []
   }, {
     "repo": "labring/FastGPT",
-    "desc": "A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships.",
-    "officialSite": "https://fastgpt.run",
-    "topics": ["react", "nextjs", "openai", "gpt3", "gpt4", "chatgpt", "gpt35", "gpt3-turbo"]
+    "desc": "FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!",
+    "officialSite": "https://fastgpt.in",
+    "topics": ["gpt", "gpt-35-turbo", "gpt-4", "gpt35", "llm", "nextjs", "openai", "rag", "react"]
   }, {
     "repo": "liyupi/sql-mother",
     "desc": "免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~",

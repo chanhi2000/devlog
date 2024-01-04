@@ -6,6 +6,18 @@
     "banner": ""
   },
   "videos": [
+    { "id": "BOd3hLunN6I", "title": "Big-O notation 및 algorithm" },
+    { "id": "N8oJTkK_Hgc", "title": "문제 - 몇 명의 사람의 이름과 나이를 받을지 입력 받고 입력한 수 만큼 이름과 나이를 입력한 후 저장해주세요.(구조체 사용 금지)" },
+    { "id": "AmFyxvsTVH0", "title": "문제 - 몇 명의 사람의 이름과 나이를 받을지 입력 받고 입력한 수 만큼 이름과 나이를 입력한 후 저장해주세요.(구조체 사용 가능)" },
+    { "id": "25n2Kib4LxY", "title": "문제 - 몇 명의 사람의 이름과 나이를 받을지 입력 받고 입력한 수 만큼 이름과 나이를 입력한 후 저장해주세요.(사람 수 제한 없는 버전)" },
+    { "id": "FvbD4vUXpgc", "title": "run time, compile time, dynamic / static allocation" },
+    { "id": "radpSPZD9GA", "title": "숙제 - 1차원 배열에 문장 10개를 입력해주세요" },
+    { "id": "N1AWpxt9SjA", "title": "정적 할당 동적 할당 문제 풀이" },
+    { "id": "15S8Pcf2f98", "title": "평균 구하기" },
+    { "id": "1-I00caXh1k", "title": "직사각형 별 찍기" },
+    { "id": "xDknB2pfVas", "title": "콜라츠 추측" },
+    { "id": "pAfgRbXUSbs", "title": "약수의 합" },
+    { "id": "vDJKyk6_wN0", "title": "두 정수 사이의 합" },
     { "id": "Ca8pdxK114w", "title": "매개변수(parameter)" },
     { "id": "J3ow8QVlfAQ", "title": "구조체(structure type)" },
     { "id": "mMlgCed0cW0", "title": "리스트 문제 풀이1" },

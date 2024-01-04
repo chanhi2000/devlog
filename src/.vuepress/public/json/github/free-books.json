@@ -134,5 +134,10 @@
     "desc": ":microscope: Path to a free self-taught education in Bioinformatics!",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "xiaolai/everyone-can-use-english",
+    "desc": "人人都能用英语",
+    "officialSite": "",
+    "topics": []
   }
 ]

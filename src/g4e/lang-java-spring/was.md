@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
 title: 📡WAS
-description: ☕️Java > 📡WAS
-tags: ["java", "jdk", "was", "web-app-server", "backend", "java", "tomcat", "jboss", "jndi"]
+description: 🍃Spring > 📡WAS
+tags: ["java", "jdk", "was", "web-app-server", "backend", "spring", "springboot", "tomcat", "jboss", "jndi"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,11 +12,13 @@ tags: ["java", "jdk", "was", "web-app-server", "backend", "java", "tomcat", "jbo
 [[toc]]
 
 ---
+
 ## Tomcat
 
 ### JNDI 설정
 
 ---
+
 ## JBoss
 
 ### JNDI 설정

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/uAtHLRLqaOAT9CclOY9T7Co1WEnGoaLWPSiDlHp2Qsr7An2xeQSfxZWcWyxkcC-P0GTV-hqdfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yr7KgUqdDWE", "title": "InfoQ Java Trends Report 2023 - Discussing Insights with Mike Redlich" },
+    { "id": "x6WX_JE96bU", "title": "Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective Data Pipelines" },
+    { "id": "iyH8GPXzBpk", "title": "Back to Basics: Scalable, Portable ML in Pure SQL" },
     { "id": "ldAeZtTKqgE", "title": "Security Checks Simplified: How to Implement Best Practices with Ease" },
     { "id": "_booBjCB7rU", "title": "Tales of Kafka @Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages" },
     { "id": "hoE1ySO8YR4", "title": "Strategy & Principles to Scale and Evolve MLOps @DoorDash" },

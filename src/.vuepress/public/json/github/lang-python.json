@@ -3734,5 +3734,35 @@
     "desc": "香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新",
     "officialSite": "",
     "topics": ["aiyueshuxiang", "ipa", "iptv", "reader", "shuyuan", "trollstore", "tts", "xiangsegige", "yuanyuedu", "yuedu"]
+  }, {
+    "repo": "ali-vilab/dreamtalk",
+    "desc": "Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models",
+    "officialSite": "https://dreamtalk-project.github.io/",
+    "topics": ["audio-visual-learning", "face-animation", "talking-head", "video-generation"]
+  }, {
+    "repo": "embedchain/embedchain",
+    "desc": "The Open Source RAG framework",
+    "officialSite": "https://docs.embedchain.ai",
+    "topics": ["ai", "chatbots", "chatgpt", "hacktoberfest", "hacktoberfest-accepted", "llm", "python"]
+  }, {
+    "repo": "Frrrrrrrrank/auto_job__find__chatgpt__rpa",
+    "desc": "This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zju3dv/EasyVolcap",
+    "desc": "EasyVolcap: Accelerating Neural Volumetric Video Research",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "facebookresearch/audio2photoreal",
+    "desc": "Code and dataset for photorealistic Codec Avatars driven from audio",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pypy/pypy",
+    "desc": "PyPy is a very fast and compliant implementation of the Python language.",
+    "officialSite": "",
+    "topics": []
   }
 ]

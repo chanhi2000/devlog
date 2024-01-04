@@ -980,7 +980,7 @@
     "topics": ["browser", "dillo", "fltk"]
   }, {
     "repo": "praydog/UEVR",
-    "desc": "Universal Unreal Engine VR Mod (4/5)",
+    "desc": "Universal Unreal Engine VR Mod (4.8 - 5.3)",
     "officialSite": "http://uevr.io",
     "topics": ["cmkr", "cpp", "modding", "unreal", "unreal-engine", "virtual-reality"]
   }, {
@@ -988,5 +988,10 @@
     "desc": "Container to WASM converter",
     "officialSite": "https://ktock.github.io/container2wasm-demo/",
     "topics": ["containers", "docker", "wasm", "webassembly"]
+  }, {
+    "repo": "electronicarts/CnC_Remastered_Collection",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

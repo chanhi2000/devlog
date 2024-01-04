@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/bHwXkMgcO46GLMLDpYhELTvq4ksJuRga68qBerLnJVj_LZwEWohMhTuW01tGftDphhWkv5iC5Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vRrSFf3r12Q", "title": "SQL강좌:12-3. 인덱스 생성과 관리 - 인덱스 생성" },
+    { "id": "2aB-bn_rWbc", "title": "SQL강좌:12-2. 인덱스 생성과 관리 - 인덱스 종류" },
+    { "id": "XHX9KDzHxxU", "title": "SQL강좌:12-1. 인덱스 생성과 관리 - 인덱스(Index) 소개" },
+    { "id": "1FvqolyED7Y", "title": "SQL강좌:11-7. 관계형 데이터베이스 이해 - 데이터베이스 물리적 설계" },
+    { "id": "ebzQU1VEALI", "title": "SQL강좌:11-6. 관계형 데이터베이스 이해 - 데이터베이스 논리적 설계" },
+    { "id": "NcWWrlA6YJc", "title": "SQL강좌:12-4. 인덱스 생성과 관리 - 클러스터형 인덱스" },
+    { "id": "Ct8s-fwPIoQ", "title": "SQL강좌:12-5. 인덱스 생성과 관리 - 비클러스터형 인덱스" },
+    { "id": "aSLQQfOZznY", "title": "SQL강좌:12-6. 인덱스 생성과 관리 - 클러스터형 vs 비클러스터형 인덱스" }
   ],
   "playlists": [
     {

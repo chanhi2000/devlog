@@ -19,5 +19,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "pion/example-webrtc-applications",
+    "desc": "Examples of WebRTC applications that are large, or use 3rd party libraries",
+    "officialSite": "https://pion.ly/",
+    "topics": ["go", "golang", "pion"]
   }
 ]

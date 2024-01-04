@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "redraccooncorp",
+    "name": "레드라쿤 Red Raccoon",
+    "profile": "https://yt3.googleusercontent.com/SBscfvDQozrkSxYAoNJeNp-HwdoktF3P6xCpO6Z-phe-pXEJMxSY4tg7UgeLmGKP86cNyh8thQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oLPKU9voOeZ4eiDF0fNnKB33MIWqIjMy5WnzVeZya3g6ddyZ9_UUXU2jFIox2SAEMyfwnHJVgpQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0krvg52zowg", "title": "해외 해커들의 이력서 EP #6 예고" },
+    { "id": "W6ah0irQztw", "title": "해커가 되는 법? 그루트 6월 24일 라이브중" },
+    { "id": "0fMC7BC_zb8", "title": "레드라쿤 BHPT 호스트 기반 모의해킹 강의 소개 및 Q&A 라이브" },
+    { "id": "S8xEGv6PJ7A", "title": "사이버 보안은 블루오션?" },
+    { "id": "yK_-4IJwdq8", "title": "해커들이 트위터를 못 버리는 이유" },
+    { "id": "qVFqq8DQRNI", "title": "레드팀의 입장에서 본 파워쉘의 탄생과 몰락" }
+  ]
+}
