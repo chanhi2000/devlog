@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/CJ3jXN8bFt7hqwXZky40MPIkiX71MNlHFB84Vb4Ld54b7FNb3JZ-hY-iwMCCEQ3z_MGjRNAKpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zS4oOXsZuHQ", "title": "Watch Ads, Earn Coins and Redeem Rewards! - Available on Play Store" },
+    { "id": "NgqFxq8TsQU", "title": "Working with Enums in Swift" },
+    { "id": "2K3to2puVDM", "title": "TabRow with Horizontal Pager in 4 Minutes - Jetpack Compose" },
     { "id": "uv5rEvwVFYg", "title": "Getting Started with Sharing UI between iOS and Android - Compose Multiplatform" },
     { "id": "e_lioXeZV8o", "title": "Full Guide to Shared Element Transition Animation in Android with Jetpack Compose" },
     { "id": "nYCE6I6DvSk", "title": "Step-by-Step Android In-App Purchase Integration with RevenueCat" },

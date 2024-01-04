@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "VeritasTechnologies",
+    "name": "Veritas Technologies ",
+    "profile": "https://yt3.googleusercontent.com/dhCdnNuzethw6650gm7N54W9ieoEaVzhDXnW2KEzqNIAko3UiXGe_bmgUKbX6uuOzU1FkXUnxHA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P2UUePAwzRtfo1CU1ubqWhxToThCjsA7fIpfPkK1jSKp4NQVfpwab6HwKCILpWyeMJQGaF-JRsA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LCydAAU977I", "title": "NetBackup-powered appliances" }
+  ]
+}

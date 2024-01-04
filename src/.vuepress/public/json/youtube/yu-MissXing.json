@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MissXing",
+    "name": "Miss Xing",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTPaDkdn8Pf0VK6r9Ful4fP8-3IvQSxuZgefq-MUA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "f_-8y9NCylc", "title": "Spring Boot Project with JSP" }
+  ]
+}

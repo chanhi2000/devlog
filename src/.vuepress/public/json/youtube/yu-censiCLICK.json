@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "censiCLICK",
+    "name": "censiCLICK",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTBJo-iOp2gma5Q6xcbrAGfKkJCAiLv4gc2dSI_fg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6bSnUeuXMpI5d-4Vcl3wjCFbj43welTP6hFeFQZEYhLpuDabzE__8dcSPvMaK1pq6dMD2BkvRA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uUCwCukSboY", "title": "My Top 5 Self-hosted Apps for Raspberry Pi" }
+  ]
+}

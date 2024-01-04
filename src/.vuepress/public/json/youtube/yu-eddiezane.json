@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "eddiezane",
+    "name": "Eddie Zaneski",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTuU7l7EqVtxqATTitNepa7pLpQbRmZJGnjseMnVTM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4WWW2ZLEg74", "title": "Setting up Prometheus and Grafana for monitoring your servers" }
+  ]
+}

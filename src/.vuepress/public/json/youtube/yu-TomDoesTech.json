@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/P-awJyTRhvagO7ehYEoFFazDGsmxeiw1DoVkgDKVP5itd3PMv85aDpjaTA86y86rrDTZNiHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xC_8bT4hG2Y", "title": "Stop Returning Top-Level Arrays" },
     { "id": "O6HVbb628FY", "title": "Does Go have a 'this' keyword?" },
     { "id": "6trIWf8GwVE", "title": "Node.JS Watch Mode" },
     { "id": "cfEqS1A5diM", "title": "Build & Deploy a Realtime App that Scales with Upstash Redis, Next.js & Fastify" },

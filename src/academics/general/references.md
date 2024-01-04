@@ -38,6 +38,10 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## hackerllama
 
+- [The Random Transformer](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
+
+---
 
 <TagLinks />

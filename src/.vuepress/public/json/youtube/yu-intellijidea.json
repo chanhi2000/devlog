@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/SIw6Tay4jTyB2K6R-KoKZgQf3GQyQdl-ss06Ti-KCERihI8Pfg2JmIC0jxsDSKonuv9vPuBPWQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eLKsm0OpwN8", "title": "Enhance Code Safety: Unveiling IntelliJ IDEA’s New Exploitable Path Feature" },
+    { "id": "1uAU6XyJfcU", "title": "IntelliJ IDEA 2023.3 – Out of the box Kubernetes Development" },
     { "id": "EfIYJKw8AkA", "title": "Harnessing the Power of AI Assistant in IntelliJ IDEA" },
     { "id": "moi49_V_4g0", "title": "IntelliJ IDEA: Explore project structure with the Dependency Matrix" },
     { "id": "ui-bm4MwGp0", "title": "Apache Maven: Collaborative Mastery" },

@@ -978,5 +978,15 @@
     "desc": "Dillo, a multi-platform graphical web browser",
     "officialSite": "https://dillo-browser.github.io/",
     "topics": ["browser", "dillo", "fltk"]
+  }, {
+    "repo": "praydog/UEVR",
+    "desc": "Universal Unreal Engine VR Mod (4/5)",
+    "officialSite": "http://uevr.io",
+    "topics": ["cmkr", "cpp", "modding", "unreal", "unreal-engine", "virtual-reality"]
+  }, {
+    "repo": "ktock/container2wasm",
+    "desc": "Container to WASM converter",
+    "officialSite": "https://ktock.github.io/container2wasm-demo/",
+    "topics": ["containers", "docker", "wasm", "webassembly"]
   }
 ]

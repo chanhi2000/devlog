@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "NetworkShield",
+    "name": "Network Shield",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSpjnFQeCGQTtZOUUBOedIeS66LSy6u5YEdUtc3Ew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zJCHHPI08tZzvaj7Uk8WgyWg-l2urFhT21tUdywK8hBDDA8Gs2rdkBaiiNW-WraW9MaUUH7t=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "J5tnGOYh69w", "title": "Lecture 22: LoadBalancer Between two VPC | AWS" }
+  ]
+}

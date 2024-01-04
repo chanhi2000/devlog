@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/yp437yr6uai4v7EemDR0GecgU8h9rzcCBl8Y4RObcz4Z6c700fHTlE-CZrXVofcX-yKnLMDMtw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VP-uzo9tB14", "title": "Control Your Photos: Easy Immich Setup via Docker Compose" },
+    { "id": "uT9Q5WdBGos", "title": "Transform Your Document Chaos with Paperless: A Self-Hosting Guide with Docker" },
+    { "id": "yrscZ-kGc_Y", "title": "Effortless Server Monitoring: Install Grafana, Prometheus & Node Exporter with Docker!" },
     { "id": "uT9Q5WdBGos", "title": "Transform Your Document Chaos with Paperless: A Self-Hosting Guide with Docker" },
     { "id": "ephiayS50jM", "title": "Simplify Docker Compose Management with Dockge!" }
   ]

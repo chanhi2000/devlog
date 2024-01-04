@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FV1xrPdYkgU", "title": "Next.js: How to Add Metadata to Client Component Pages 💡 #nextjs #nextjstutorial #nextjs14 #webdev" },
+    { "id": "SkjudyuWwJA", "title": "Ask GitHub Copilot About VS Code Features 💡#githubcopilot #vscode #vscodetips #vscodeextensions" },
+    { "id": "Kdnu1MS5UOg", "title": "OpenAI Assistants API vs Chat Completion API - What’s the Difference? #openai #developer #coding" },
+    { "id": "mgw9sVYfp3s", "title": "Easy List Dividers in Tailwind CSS #tailwindcss #tailwind #tailwindcsstips #webdevelopment #reactjs" },
+    { "id": "3fy096broac", "title": "Session Storage vs Local Storage (Web APIs) #javascript #webdevelopment #reactjs #javascriptdev" },
+    { "id": "6y8Gnte6glM", "title": "Double Bang (!!) Operator in JavaScript Explained 💡 #javascript #javascriptlearning javascriptdev" },
+    { "id": "R3KP--Wp_z0", "title": "Add a Title/Placeholder to HTML Select Tag 💡 #webdev #webdevelopment #html #webdeveloper" },
     { "id": "wTGVHLyV09M", "title": "SEO in Next.js 14 - The Ultimate Guide (Metadata, Sitemap, Robots, Google Search Console, Caching)" },
     { "id": "7wPzdvGW6Uc", "title": "Style Radio Buttons Like Normal Buttons (Tailwind CSS) 🔥 #tailwindcss #webdevelopment #css #csstips" },
     { "id": "7RHSrFbLeNA", "title": "How to Resize Images With Sharp (Node.js/Next.js) #nodejs #nodejstutorial #nextjs #nextjstutorial" },

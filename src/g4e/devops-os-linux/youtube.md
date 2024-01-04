@@ -70,5 +70,7 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 <MyYouTubeItems jsonName="yu-tech_craft" /><!-- Tech Craft -->
 <MyYouTubeItems jsonName="yu-Errichto" /><!-- Errichto Algorithms -->
 <MyYouTubeItems jsonName="yu-eduittutorials" /><!-- edu it tutorials -->
+<MyYouTubeItems jsonName="yu-RibaLinux" /><!-- Riba Linux -->
+<MyYouTubeItems jsonName="yu-thiagoleite9489" /><!-- Thiago Leite -->
 
 <TagLinks />

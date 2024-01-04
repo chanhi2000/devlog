@@ -884,5 +884,15 @@
     "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
     "officialSite": "https://git.io/macx",
     "topics": ["apple", "awesome", "awesome-list", "awesome-lists", "list", "mac", "mac-osx", "macos", "macosx", "software"]
+  }, {
+    "repo": "chiteroman/Reprogram-TEE-on-Qualcomm-devices",
+    "desc": "Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "HACKE-RC/awesome-reversing",
+    "desc": "A collection of resources to learn Reverse Engineering from start!",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/z6e4goZdbhZNhSjHOyx4VWxb1qvVBDfZndlwQuPNHm_E6kt5mLHyVavp9Le9VvIUGUQjhza2qA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "alQoDOKDOHo", "title": "Meu primeiro projeto com BUN" },
+    { "id": "wrbKoQt3_dE", "title": "BiomeJS - O sucessor do ESLint (100x mais rápido?)" },
+    { "id": "odJhCQlYsOU", "title": "Essa é a MELHOR forma de enviar e-mails com React (Resend)" },
+    { "id": "YshFiSXY0bM", "title": "Meu primeiro app com Drizzle ORM (melhor que Prisma?)" },
     { "id": "ugDAPN3rhIE", "title": "Desmistificando Big-O Notation com Daniel Costa!" },
     { "id": "EpXYPB1rv4w", "title": "Como sair do ZERO em JAVA em 1h - com @kipperdev" }, 
     { "id": "hdex1hj1dmk", "title": "Server Components no React em 5 minutos!" }, 

@@ -529,5 +529,10 @@
     "desc": "locally hosted web application that allows you to perform various operations on PDF files",
     "officialSite": "",
     "topics": ["docker", "java", "pdf", "pdf-converter", "pdf-manipulation", "pdf-merger", "pdf-ocr", "pdf-tools", "pdf-web-apps", "pdfmerger"]
+  }, {
+    "repo": "gunnarmorling/1brc",
+    "desc": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+    "officialSite": "",
+    "topics": []
   }
 ]

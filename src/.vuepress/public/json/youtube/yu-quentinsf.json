@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "quentinsf",
+    "name": "Quentin Stafford-Fraser",
+    "profile": "https://yt3.googleusercontent.com/JG9mn9GK5cnJV02pg0dskMZhQ9TFvcUC4YUQGsjgx5T2_alZ-hAWa7PS0TaRu8SFA5Ac0CdNdVE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "HJ9bECmuwKo", "title": "Nginx and Docker" }
+  ]
+}

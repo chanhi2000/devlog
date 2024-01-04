@@ -68,5 +68,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android", "@Philip
 <MyYouTubeItems jsonName="yu-AndroidGeekCo" /><!-- Android Geek -->
 <MyYouTubeItems jsonName="yu-AndroidBroadcast" /><!-- Android Broadcast. Все об Андроид разработке -->
 <MyYouTubeItems jsonName="yu-shanezzarwritingapps7980" /><!-- ShanezzarWritingApps -->
+<MyYouTubeItems jsonName="yu-codeutility6860" /><!-- Code Utility -->
+<MyYouTubeItems jsonName="yu-joeparysacademy5810" /><!-- Joe Parys Academy -->
 
 <TagLinks />

@@ -674,5 +674,10 @@
     "desc": "Neural networks module for Redis",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "rodarima/libwa",
+    "desc": "WhatsApp C library",
+    "officialSite": "",
+    "topics": []
   }
 ]

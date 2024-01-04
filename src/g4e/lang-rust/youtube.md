@@ -26,7 +26,7 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <MyYouTubeItems jsonName="yu-skills_matter" /><!-- Skills Matter -->
 <MyYouTubeItems jsonName="yu-contextfree" /><!-- Context Free -->
 <MyYouTubeItems jsonName="yu-SystemsWithJT" /><!-- Systems with JT -->
-<MyYouTubeItems jsonName="yu-tokyorustmeetup" /><!-- Tokyo Rust Meetup -->
+<MyYouTubeItems jsonName="yu-tokyo-rust-org" /><!-- Tokyo Rust Meetup -->
 <MyYouTubeItems jsonName="yu-dreamsofcode" /><!-- Dreams of Code -->
 <MyYouTubeItems jsonName="yu-Codurance" /><!-- Codurance -->
 <MyYouTubeItems jsonName="yu-LowLevelLearning" /><!-- Low Level Learning -->

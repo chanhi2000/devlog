@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "X5-aHcpsmF0", "title": "01개고생하면서 배우는 Rust_Small projects001(간단한 채팅 프로그램 만들기Simple Multi Chat)" },
+    { "id": "cnZnsytlR7A", "title": "004개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(3D구현하기)(LunarVim, Helix, VSCode, Zellij)" },
+    { "id": "qWJuxJkzl6U", "title": "005개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(3D구현하기part2)(LunarVim, Helix, VSCode, Zellij)" },
+    { "id": "9242_WM3bss", "title": "003개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(2D구현하기)(LunarVim, Helix, VSCode Zellij)" },
+    { "id": "dWFmnM7CFzI", "title": "231226_Part2_Weekly Rust_Debugging_FireDBG디버깅_러스트_최신_트렌드" },
+    { "id": "fd2ql-0Tp0c", "title": "231226_part1_Weekly Rust_Debugging_FireDBG디버깅_러스트_최신_트렌드" },
+    { "id": "9PZM7hHdgc4", "title": "007개고생하면서 배우는 Rust_Basic_4. Understanding Ownership" },
+    { "id": "LM9cJV34SJ4", "title": "006개고생하면서 배우는 Rust_Basic_3. Common Programming Concepts" },
+    { "id": "ChOApzrFIh0", "title": "01개고생하면서 배우는 Kali Linux(C언어, LLVM설치 세팅)" },
+    { "id": "Sh73NzLRGdU", "title": "01개고생하면서 배우는 Go고언어(Go Tutorial)" },
+    { "id": "VcaTvhDUubg", "title": "01개고생하면서 배우는 Silq양자코딩(Quantum Coding)" },
     { "id": "_dgi6vOnCO0", "title": "002개고생하면서 배우는 Rust_Basic(LunarVim, Helix, VSCode Zellij)" },
     { "id": "9242_WM3bss", "title": "003개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(2D구현하기)(LunarVim, Helix, VSCode Zellij)" },
     { "id": "HQ9lhS9U6u0", "title": "001_개고생하면서 배우는 C++front" },

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/nRl98Oi0L-0Erghccz4KdKLrFE5p0ASg1q-ZOkU6FymQPLSf8qrMVB9byidQAlYY6-lvefXEZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BFauI30hOOc", "title": "Beginner Machine Learning tutorial  (TryHackMe Advent of Cyber Day 14)" },
     { "id": "cqJ2nAHKpog", "title": "Which one is better? (Cyber Analyst vs. Ethical Hacker)" }
   ]
 }

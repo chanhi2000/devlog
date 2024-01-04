@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RYzMd1m0KxE", "title": "\"Method Does Not Exist\": What To Do? How to Debug?" },
+    { "id": "7XZRnYfj4oI", "title": "Laravel and OpenAI API: Practical Example of Calling ChatGPT" },
+    { "id": "mLiPHTqnZZE", "title": "My New Project: Python & Machine Learning DAILY" },
     { "id": "wH5-edYjVCI", "title": "Laravel Pulse DB Queries: Indexing, JSON, Collections" },
     { "id": "OEtkUxQg5xA", "title": "Livewire and Blade Components: Laravel Pulse Project Structure" },
     { "id": "rByzMZwADbA", "title": "Laravel Migrations: Two \"Tricks\" from Laravel Pulse" },

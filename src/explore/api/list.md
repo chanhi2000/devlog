@@ -117,7 +117,7 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 - [eloquentjavascript][eloquentjavascript]: This is a book about JavaScript, programming, and the wonders of the digital.
 - [byte-of-vim][byte-of-vim]: A Byte of Vim v0.51
 - [inventwithpython][inventwithpython]: Hacking Secret Ciphers with Python
-- [kakaobrain][kakaobrain]: 카카오브레인
+- [kakaobrain](https://kakaobrain.com): 카카오브레인
 - [fonts-material-icons][fonts-material-icons]: Google Fonts (Material Icons)
 - [thenounproject][thenounproject]: Icons and Photos For Everything
 - [fonts-earlyaccess][fonts-earlyaccess]: Google Fonts (Early Access)
@@ -211,7 +211,6 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 [eloquentjavascript]: https://eloquentjavascript.net
 [byte-of-vim]: https://vim.swaroopch.com/byte-of-vim.pdf
 [inventwithpython]: https://inventwithpython.com/hacking/chapters
-[kakaobrain]: https://kakaobrain.com
 [fonts-material-icons]: https://fonts.google.com/icons?selected=Material+Icons
 [thenounproject]: https://thenounproject.com
 [fonts-earlyaccess]: https://fonts.google.com/earlyaccess

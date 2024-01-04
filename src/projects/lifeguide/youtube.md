@@ -64,5 +64,14 @@ meta:
 <MyYouTubeItems jsonName="yu-BetterLife" /><!-- 더나은삶TV -->
 <MyYouTubeItems jsonName="yu-b-log3651" />  <!-- 베이로그 B-Log -->
 <!-- <MyYouTubeItems jsonName="yu-TV-lu4tv" /> 맥스큐TV  -->
+<MyYouTubeItems jsonName="yu-user-yj8id3uk7n" /><!-- 데일리뷰 -->
+<MyYouTubeItems jsonName="yu-user-ry4kn1dg5d" /><!-- 린생 -->
+<MyYouTubeItems jsonName="yu-DBOKEY" /><!-- 드보키 DBOKEY -->
+<MyYouTubeItems jsonName="yu-Respect_Invest" /><!-- 리스펙 투자플랜 -->
+<MyYouTubeItems jsonName="yu-DataSquirrel" /><!-- 데이터다람쥐 -->
+<MyYouTubeItems jsonName="yu-user-wl8dq7rl8q" /><!-- Foreign futures chart trader -->
+<MyYouTubeItems jsonName="yu-bigdata_leecho" /><!-- 강서대학교 빅데이터경영학과 이상철 교수 -->
+
 
 <TagLinks />
+

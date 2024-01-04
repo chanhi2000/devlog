@@ -6,9 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/_ch1C4DykiOQ9ytEa2vBY4Jrosri64xaImmF5e-jLddZGKMuBB33sA6cSYffg1NHi4mCCpvw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "JYQgBpu0-8w", "title": "@Binding 프로퍼티 래퍼 기초" },
+    { "id": "wgTGTgiWTuE", "title": "`ObservableObject` 기초, `StateObject`와 `ObservedObject`" },
+    { "id": "JYQgBpu0-8w", "title": "`@Binding` 프로퍼티 래퍼 기초" },
     { "id": "4F84CPBNMrk", "title": "뷰에 구멍뚫기" },
-    { "id": "YH4n3aolIQQ", "title": "@State 프로퍼티 래퍼 기초" },
+    { "id": "YH4n3aolIQQ", "title": "`@State` 프로퍼티 래퍼 기초" },
     { "id": "gs5Iw9TwTeU", "title": "Hang과 Hitches, TCA 얘기 조금" },
     { "id": "VXt9fR01ut8", "title": "[SwiftUI] 프로퍼티 래퍼 전부 써보기" },
     { "id": "yqNRphYcEIA", "title": "Throws Do Try Catch 에러" }

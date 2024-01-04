@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/C-3jr3nU2LiG6dSdDXYNrpo2JckIO8zR20cu4ReuZhtRVfkoIUsGXGL4sNaYpt2KbNRMYzDXv8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ddVb31yITsc", "title": "3 Time-saving Vim Tricks For Scripts In Linux" },
+    { "id": "oPjcYmUk7Lo", "title": "Rocky Linux Apparel" },
+    { "id": "XXDvEMRK54w", "title": "Simple Linux Tricks to format Terraform Output Using tr" },
     { "id": "b_f0-8CqYKU", "title": "Adding An Ubuntu Machine To Join An Active Directory Domain" },
     { "id": "0BrPccQRgUw", "title": "Optimizing Your BASH History File the .bash_history file" },
     { "id": "GithEl15Wg4", "title": "How To Use Sed In Linux: A Practical Guide" },

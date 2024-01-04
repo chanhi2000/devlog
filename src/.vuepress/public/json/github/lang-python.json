@@ -3716,7 +3716,7 @@
     "topics": ["ebook", "epub", "epub3", "python"]
   }, {
     "repo": "myshell-ai/OpenVoice",
-    "desc": "Instant voice cloning by MyShell. Join our Discord community https://discord.gg/myshell and select the Developer role upon joining to gain exclusive access to our developer-only channel! Don't miss out on valuable discussions and collaboration opportunities.",
+    "desc": "Instant voice cloning by MyShell.",
     "officialSite": "https://research.myshell.ai/open-voice",
     "topics": ["text-to-speech", "tts", "voice-clone", "zero-shot-tts"]
   }, {
@@ -3724,5 +3724,15 @@
     "desc": "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "hiroi-sora/Umi-OCR",
+    "desc": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/粘贴/批量导入图片，段落排版/排除水印，扫描/生成二维码。内置多国语言库。",
+    "officialSite": "",
+    "topics": ["ocr", "ocr-python", "paddleocr"]
+  }, {
+    "repo": "shidahuilang/shuyuan",
+    "desc": "香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新",
+    "officialSite": "",
+    "topics": ["aiyueshuxiang", "ipa", "iptv", "reader", "shuyuan", "trollstore", "tts", "xiangsegige", "yuanyuedu", "yuedu"]
   }
 ]

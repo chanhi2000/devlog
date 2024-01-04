@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/8PIT7olkpQgEJFD10EkVlpvn_DRXtLsce_PSV70v7Gz2CxzLihyoM1J1Qd6nQg4_Gg1lRbat0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8AThUuVJ-2Q", "title": "String Slicing and Concatenation Practice: Python Basics Exercises" },
+    { "id": "rwql5rWoFoI", "title": "PyCoder's Weekly 2023 Wrap Up | Real Python Podcast #184" },
+    { "id": "J6mVoLXXXs8", "title": "Files and Filenames Practice: Python Basics Exercises" },
     { "id": "eBsqiMyTU7E", "title": "Finding the Current Time in Python" },
     { "id": "lN8EKFMkDfI", "title": "Exploring Code Reviews in Python and Automating the Process | Real Python Podcast #183" },
     { "id": "OraYXEr0Irg", "title": "Introduction to Jinja Templating" }

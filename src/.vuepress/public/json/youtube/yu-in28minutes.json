@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/gNSPMZqFuw-m7IjWjAs8OD6vk7nOj-71nEKK-7JdTjsfY3XHRJhrSH3PW9eU8YcoMfz0jEU1Yg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Bp5O-Z7rUFU", "title": "Fastest Java Microservices Roadmap - with Spring Boot, Spring Cloud, Docker and Kubernetes" },
     { "id": "Ba8t0iBQvRQ", "title": "Fastest Java Full Stack Roadmap (2024) with Spring Boot, React and AWS" },
     { "id": "ceIDBBlh38U", "title": "Exploring Inheritance in Python" }, 
     { "id": "Y3a5P846F3Y", "title": "Introduction to List Data Structure in Python" },

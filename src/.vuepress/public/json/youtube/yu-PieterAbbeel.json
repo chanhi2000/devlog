@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "PieterAbbeel",
+    "name": "Pieter Abbeel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQY_e57ux5Vm4ImF_cxlPmnlep0P5m48x-TeMFp2w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "xWPViQ6LI-Q", "title": "Lecture 1 Introduction -- CS287-FA19 Advanced Robotics at UC Berkeley" }
+  ]
+}

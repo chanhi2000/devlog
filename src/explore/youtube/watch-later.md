@@ -117,7 +117,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-user-fm4nl5vr1v]: https://www.youtube.com/@user-fm4nl5vr1v
 [yu-riggaroo]: https://www.youtube.com/@riggaroo
 [yu-varuncbv]: https://www.youtube.com/@varuncbv
-[yu-electronicsrepairschool]: https://www.youtube.com/@electronicsrepairschool
 [yu-user-jb1yn4ve5p]: https://www.youtube.com/@user-jb1yn4ve5p
 [yu-cat-technology]: https://www.youtube.com/@Renewedcart
 [yu-make-use-of]: https://www.youtube.com/@MakeUseOf

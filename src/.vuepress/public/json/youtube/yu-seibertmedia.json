@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "seibertmedia",
+    "name": "SEIBERTMEDIA",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRZYdsaQq1gxBISUYKMT5AxGXFAmqmn7fgBhQeF_Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XhGDBRqgXdg2usWtip_EEWTXUbn6vt9OB24D5JCZDsRCf5ii23_V8pYeBgFJcrARreRrdilq2Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nndpoRxDy9s", "title": "Kotlin Multiplatform: Von allen Seiten betrachtet  - TechTalk" }
+  ]
+}

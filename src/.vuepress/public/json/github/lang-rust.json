@@ -929,5 +929,10 @@
     "desc": "A high-performance no-code GraphQL backend",
     "officialSite": "https://tailcall.run",
     "topics": ["api-gateway", "backend-for-frontend", "battle-tested", "cloud-native", "edge", "extendable", "governance", "graphql", "hacktoberfest", "io-efficiency", "microservices", "open-source", "orchestration", "performance", "protocol-agnostic", "proxy", "resiliency", "runtime-tuning", "seamless-devx", "security"]
+  }, {
+    "repo": "adam-mcdaniel/sage",
+    "desc": "A programming language that's wise beyond its bytes!🌱🌿🪴",
+    "officialSite": "https://adam-mcdaniel.net/sage",
+    "topics": ["algebraic-data-types", "c", "compiler", "frontend", "mobile", "pattern-matching", "polymorphism", "portable", "rust", "structural-typing", "turing-tarpit", "wasm", "web", "x86-64"]
   }
 ]

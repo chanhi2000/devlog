@@ -101,5 +101,6 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-JNationConf" /><!-- JNation -->
 <MyYouTubeItems jsonName="yu-rsaorg" /><!-- RSA -->
 <MyYouTubeItems jsonName="yu-GNMUplat" /><!-- GNMU 네트워크마케팅대학 -->
+<MyYouTubeItems jsonName="yu-kakaobrain" /><!-- kakaobrain -->
 
 <TagLinks />

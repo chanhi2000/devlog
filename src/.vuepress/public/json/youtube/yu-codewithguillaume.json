@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/7rZoCcYJe2T_8eBMkMdDfqNZvZCYLmduiINgjARGAGXQ--COzFlR-6H-3RB6dHNcOxQZlRNoHw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mpXkCv1-b9A", "title": "Hooks with Nextjs 14 & @Supabase — Course part 7" },
+    { "id": "fpSVfK7ius8", "title": "Sessions with Nextjs 14 & @Supabase — Course part 6" },
+    { "id": "7FemRsuDdGg", "title": "Reset password with Nextjs 14 & @Supabase — Course part 5" },
+    { "id": "CReXlKzndj4", "title": "Magic Link with Nextjs 14 & @Supabase — Course part 4" },
+    { "id": "Ogyw45eGIDw", "title": "Realtime with Nextjs 14 & @Supabase — Course part 8" },
+    { "id": "x8SBxJkVUaA", "title": "Upvote App with Nextjs 14 & @Supabase — Course part 9" },
     { "id": "HtM1ZAnivI4", "title": "Auth Client with Nextjs 14 & @Supabase — Course part 2" },
     { "id": "CReXlKzndj4", "title": "Magic Link with Nextjs 14 & @Supabase — Course part 4" },
     { "id": "fibEwGpJ9qI", "title": "Auth SSR with Nextjs 14 & @Supabase — Course part 3" },

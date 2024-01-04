@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/jA-NN6cmV087rtnih9zEZLNUeobVVqpoR1xZjiW5n11obuVD1ELTHQfQsRtfrkfoG6u-b8YbpQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ddlHDgvOb4s", "title": "GIS 정보 이용 계획" },
     { "id": "mwQ5O-wQbtc", "title": "UnrealEngine GIS 정보 이용해보기" },
     { "id": "BrZuEBygIQo", "title": "CodingTest Visualizing Burger" },
     { "id": "HcKo7FbFCz4", "title": "Cuteguys 개발일지 16일차 인벤토리, 핫바 시스템 최적화-1" },

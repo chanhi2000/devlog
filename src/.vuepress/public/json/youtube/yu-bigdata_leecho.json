@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "bigdata_leecho",
+    "name": "강서대학교 빅데이터경영학과 이상철 교수",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRghC9woDqAwZxvYVmnCz07kkErZhBYnTIMalGhpA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3DNHw_cINpc", "title": "02_01.텍스트마이닝이란" }
+  ]
+}

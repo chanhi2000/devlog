@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/xnFag7pveZKka94nV4Qn62kPrqwwIOuTs4k6RDpZwzxW_QCqyJoxCLB9wHnBAYaEP3SlUBGHbA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sG6FMjG9bCY", "title": "Building FFAAS In Go. Fast Function As A Service." },
+    { "id": "4BS4LVRHu7U", "title": "Region Based Distributed Service Scheduling In Golang" },
+    { "id": "sG6FMjG9bCY", "title": "Building FFAAS In Go. Fast Function As A Service." },
+    { "id": "l21xCPJmgjw", "title": "Coding Instant WASM Rollbacks In Go" },
+    { "id": "N0ZJt5VtvVE", "title": "I'm Starting To Like This Configuration Pattern In Go" },
     { "id": "wttTTFVrQiw", "title": "How To Setup A Golang + Templ Project Structure" },
     { "id": "u8bJ4vepap4", "title": "Advent Of Code But With C, VIM, And NO Linters" },
     { "id": "vDltQssc8s4", "title": "The Golang Slice Hack You Did NOT Know" },

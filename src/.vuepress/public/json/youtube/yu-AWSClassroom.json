@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "7Q6IMpiV0cc", "title": "(Community Day 2023 발표 다시듣기)Amazon EventBridge를 Event Driven 아키텍처에서 활용하는 3가지 방법!" },
+    { "id": "LNf2V_ttk7c", "title": "AWS 아키텍처 구성에 꼭 필요한 서비스 :  SSM Parameter Store 정리" },
     { "id": "Nm0yE36jc9A", "title": "(라이브) 본격 \"AWS  교과서\" 추첨 방송" },
     { "id": "iX6X0rNmgzY", "title": "AWS 처음 접하신다고요? 이 순서로 공부해보세요" }, 
     { "id": "iEuLx3phx6k", "title": "AWS는 AWS가 가장 잘 알려줍니다. 공식 AWS 학습 컨텐츠 1탄 :  AWS 공식 라이브 강의 - AWS Builders Korea Program" },
