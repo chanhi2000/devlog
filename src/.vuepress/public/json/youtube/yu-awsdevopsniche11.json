@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wEJH1lis50Q", "title": "How to create a compliance rule in AWS Config #aws #ec2 #config" },
+    { "id": "xZPd29pJ0j0", "title": "Trainings offered from awsdevopsniche11 #aws #devops" },
     { "id": "q4Rgh5sdnYs", "title": "How to Setup SonarQube with PostGRE SQL Database #aws #ec2 #sonarqube #postgresql #postgres" },
     { "id": "0_zauwxvdtU", "title": "How to launch multiple EC2 in AWS using Terraform #AWS #EC2 #terraform #automation #hashicorp" },
     { "id": "3yIDT5w2nCg", "title": "Install Prometheus and Grafana using HELM #kubernetes #prometheus #grafana" },

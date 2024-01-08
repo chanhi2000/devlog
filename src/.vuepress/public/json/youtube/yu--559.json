@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "L3O0m0x8nQM", "title": "[MFC, MSSQL, DLL] 상품 관리 프로그램" },
+    { "id": "cyHKjZvr3LU", "title": "테트리스 시작부터 끝까지 [C++, WinAPI]" },
+    { "id": "NXQlayxUd4I", "title": "[C++] 윈도우즈 사용자 계정 목록 열거하기 - NetUserEnum 함수" },
+    { "id": "FC8DRvkcz4M", "title": "연속 균일 분포   [파이썬으로 다루는 통계]" },
     { "id": "I2L4mnXz8TQ", "title": "[MFC 실습] 도서 관리 프로그램 - 4개의 대화상자(메인, 추가, 자세히, 변경 )의 상호 작용과 단일체 패턴의 도서 관리자" },
     { "id": "DrHVMA8vP38", "title": "웹&앱 회원 계정 관리 [ASP NET + 안드로이드 + MSSQL + WCF 서비스]" },
     { "id": "I8yUpHfqZPY", "title": "회원관리솔루션 [웹,앱,WCF,MSSQL] - 1. 솔루션 소개 및 테이블 생성 및 저장 프로시저 만들기" },

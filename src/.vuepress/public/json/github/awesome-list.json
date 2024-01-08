@@ -894,5 +894,20 @@
     "desc": "A collection of resources to learn Reverse Engineering from start!",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ProgrammingHero1/portfolio-resources",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "aaamoon/copilot-gpt4-service",
+    "desc": "Convert Github Copilot to ChatGPT, free to use the GPT-4 model",
+    "officialSite": "",
+    "topics": ["chatgpt", "copilot", "gpt4", "openai"]
+  }, {
+    "repo": "bleedline/Awesome-gptlike-shellsite",
+    "desc": "深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.",
+    "officialSite": "",
+    "topics": []
   }
 ]

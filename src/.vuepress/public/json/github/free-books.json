@@ -139,5 +139,10 @@
     "desc": "人人都能用英语",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "awslabs/amazon-kinesis-video-streams-webrtc-sdk-c",
+    "desc": "Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.",
+    "officialSite": "https://awslabs.github.io/amazon-kinesis-video-streams-webrtc-sdk-c/group__PublicMemberFunctions.html",
+    "topics": ["kinesis-video-streams", "webrtc", "webrtc-sdk"]
   }
 ]

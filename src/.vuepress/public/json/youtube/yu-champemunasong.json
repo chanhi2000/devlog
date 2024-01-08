@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/CkRN5o47Ux9DMBOO5ePLVQ0hBqZ98znNNU4a7Wig4BRYBqmZA6kQm_0P-xZx_fw7_x16V-bukg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pASu-72HWtg", "title": "Discord.py 2.3.2로 디코 봇 만들기" },
+    { "id": "2iABD4oucJI", "title": "Aicé 상용구 프로그램 사용법" },
     { "id": "llOI9-vQu5Q", "title": "G1 BOJ 문제풀이 방송 2023. 10. 20" }
   ]
 }

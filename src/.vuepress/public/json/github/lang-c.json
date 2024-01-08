@@ -684,5 +684,10 @@
     "desc": "the origins of J",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "sysprog21/shecc",
+    "desc": "A self-hosting and educational C optimizing compiler",
+    "officialSite": "",
+    "topics": ["arm", "armv7", "c", "compiler", "compiler-optimization", "cross-compiler", "elf", "linux", "qemu", "risc-v", "riscv", "rv32i", "rv32im", "self-hosting"]
   }
 ]

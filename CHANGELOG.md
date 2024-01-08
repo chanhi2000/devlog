@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.6.8  2024-01-08][v0.6.8]
+
+- 내용채워넣기
+
+---
+
 ## [v0.6.7  2024-01-05][v0.6.7]
 
 - 내용채워넣기
@@ -1346,3 +1352,4 @@ Tips 트리구조 구성
 [v0.6.5]: https://github.com/chanhi2000/devlog/compare/v0.6.4...v0.6.5
 [v0.6.6]: https://github.com/chanhi2000/devlog/compare/v0.6.5...v0.6.6
 [v0.6.7]: https://github.com/chanhi2000/devlog/compare/v0.6.6...v0.6.7
+[v0.6.8]: https://github.com/chanhi2000/devlog/compare/v0.6.7...v0.6.8

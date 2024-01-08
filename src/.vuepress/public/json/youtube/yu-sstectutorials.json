@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/dy3cphCeA7ZmAx2Rv5QQ3l3F9G-Czt6bRTCDWMuGUVwpE2YuHutXyUtZNwLXizGnQv2e88AE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zzdqYafM9uM", "title": "How To install Davinci Resolve 18 on MacOS" },
+    { "id": "HDzLn2i_U_E", "title": "How To Install Homebrew on MacOS" },
+    { "id": "H-OSriRiHY8", "title": "How To Install VirtualBox In MacOS" },
     { "id": "nteyk8M2Q2M", "title": "How To Setup Ubuntu Server In PROXMOX VE" },
     { "id": "nFFmdr8gmCk", "title": "How To Install OPNSense on Desktop PC To Make Router + Firewall" },
     { "id": "-hT231RiHMY", "title": "How To Install PROXMOX Server On Raspberry Pi 4" },

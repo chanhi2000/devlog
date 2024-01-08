@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "lZZ19fLWjfI", "title": "동영상 AI 1년 후 근황 (퀄리티 뭐임?)" },
+    { "id": "HpiyWggNgyU", "title": "if문 하나 까먹었다고 개인정보 90만개 털린 사건" },
+    { "id": "Lx-lK0cUczQ", "title": "(백엔드 개발 특)" },
     { "id": "YDCCauu4lIk", "title": "CSS로 만든 카드 홀로그램 효과 ㄷㄷ" },
     { "id": "_tUDZdlehAk", "title": "흙수저들의 GPT" },
     { "id": "th7n1rmlO4I", "title": "코딩 책 한 권만 읽으면 이렇게 됩니다" },

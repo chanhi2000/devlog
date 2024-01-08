@@ -3686,9 +3686,9 @@
     "topics": ["foundation-models", "generative-pretraining-in-multimodality", "in-context-learning", "instruct-tuning", "multimodal-generalist", "multimodal-pretraining"]
   }, {
     "repo": "joaomdmoura/crewAI",
-    "desc": "",
-    "officialSite": "",
-    "topics": []
+    "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "officialSite": "https://crewai.io",
+    "topics": ["agents", "ai", "ai-agents", "llms"]
   }, {
     "repo": "neuml/txtai",
     "desc": "💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
@@ -3764,5 +3764,15 @@
     "desc": "PyPy is a very fast and compliant implementation of the Python language.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "MarkFzp/act-plus-plus",
+    "desc": "Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN",
+    "officialSite": "https://mobile-aloha.github.io/",
+    "topics": []
+  }, {
+    "repo": "fishaudio/Bert-VITS2",
+    "desc": "vits2 backbone with multilingual-bert",
+    "officialSite": "",
+    "topics": ["bert", "bert-vits", "bert-vits2", "tts", "vits", "vits2"]
   }
 ]

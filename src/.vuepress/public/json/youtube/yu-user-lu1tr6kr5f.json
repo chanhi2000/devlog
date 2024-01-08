@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ijQLW5r9XSk", "title": "35 spring shop-2" },
+    { "id": "xXTv03P9CMI", "title": "34 spring login1" },
+    { "id": "e9wDJ_R3vXE", "title": "38_ncs 통합구현1" },
+    { "id": "wFpa0agkMN4", "title": "36_spring crud spring boot" },
+    { "id": "0smE2tHSpFQ", "title": "37_ncs 화면구현" },
+    { "id": "tUy7Ltu4cCA", "title": "39 ncs, spring ref" },
     { "id": "0rTrzz20a84", "title": "27_spring ui설정" },
     { "id": "OTcnExkB34A", "title": "28_spring simple bbs dao 설정" },
     { "id": "xMrrNYh5ONo", "title": "26_포토게시판 마무리" },

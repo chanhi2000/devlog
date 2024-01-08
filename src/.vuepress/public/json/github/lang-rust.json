@@ -934,5 +934,15 @@
     "desc": "A programming language that's wise beyond its bytes!🌱🌿🪴",
     "officialSite": "https://adam-mcdaniel.net/sage",
     "topics": ["algebraic-data-types", "c", "compiler", "frontend", "mobile", "pattern-matching", "polymorphism", "portable", "rust", "structural-typing", "turing-tarpit", "wasm", "web", "x86-64"]
+  }, {
+    "repo": "llenotre/maestro",
+    "desc": "Unix-like kernel written in Rust",
+    "officialSite": "https://blog.lenot.re",
+    "topics": ["kernel", "rust", "unix"]
+  }, {
+    "repo": "extrawurst/gitui",
+    "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "officialSite": "",
+    "topics": ["async", "bash", "command-line-interface", "command-line-tool", "git", "hacktoberfest", "rust", "terminal", "tui"]
   }
 ]

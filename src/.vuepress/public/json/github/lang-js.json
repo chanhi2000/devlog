@@ -1859,5 +1859,10 @@
     "desc": "Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. 👉 Desktop app beta: https://mintplexlabs.typeform.com/to/sFgD2TIb",
     "officialSite": "https://useanything.com",
     "topics": ["chatgpt-app", "chroma", "document-chat", "langchain", "langchain-app", "llama", "lmstudio", "local-ai", "localai", "mistral-7b", "ollama", "ollama-app", "ollama-gui", "openai-chatgpt", "pinecone", "privategpt", "rag", "retrieval-augmented-generation", "vector-database"]
+  }, {
+    "repo": "lassebomh/htmx-playground",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["htmx", "playground", "sandbox", "svelte"]
   }
 ]

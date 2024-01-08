@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/QCKf2IDEmLfajQ_kBce8FWhr9YghnMNAG925zq6fBGuYFaIEUqWkHCPuHzwsnf8MeYB29bzJBQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Z3Krx7utyKs", "title": "Android ☀️ Weather 🌧️ App Development |  Tutorial 1 | Project Setup | Android Studio 🚀" },
+    { "id": "_1xgAFbIF04", "title": "Android ☀️ Weather 🌧️ App Development |  Tutorial 2 | Location Layout Setup | Android Studio 🚀" },
+    { "id": "GVyLMUYiQLM", "title": "Android ☀️ Weather 🌧️ App Development |  Tutorial 3 | Location Permission | Android Studio 🚀" },
+    { "id": "qBe0-_JZuL0", "title": "Android ☀️ Weather 🌧️ App Development |  Tutorial 4 | Get Current Location | Android Studio 🚀" },
+    { "id": "aKY1g0pG9BU", "title": "Android ☀️ Weather 🌧️ App Development |  Tutorial 5 | Save Location | Android Studio 🚀" },
     { "id": "dvaanTc24KY", "title": "Android Carousel Image Slider With Material Design 3 | Android Studio Tutorial" },
     { "id": "ClloX3XnHFQ", "title": "Jetpack Compose: TextField | Step-by-Step Guide | Android Tutorial" },
     { "id": "ZotJ6eZ3TE8", "title": "Creating a Stunning Security Dashboard with Jetpack Compose | Android UI Design Tutorial" },

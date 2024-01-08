@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "MKzejgqrW6Q", "title": "[선형대수]_05. 벡터 소개 (역사, 정의 및 표현법, 종류, 기저, Norm)" },
+    { "id": "VophYxpve0k", "title": "[선형대수]_07. 벡터의 곱셈 (내적, Cosine Similarity, Cross곱)" },
+    { "id": "HTXay7LuSlY", "title": "[선형대수]_09. 벡터의 선형결합(Linear Combination) 및 생성(Span) 좀 더 깊게 이해하기" },
+    { "id": "6EjSnqXGwHQ", "title": "[선형대수]_08. 벡터 공간 (vector space) 및  부분 공간 (vector subspace)" },
+    { "id": "unImvUEv9nM", "title": "[선형대수]_11. 행렬을 이용한 선형변환(Linear Transformation)" },
+    { "id": "dlFRj45ckXE", "title": "[선형대수]_10. 선형변환(Linear Transformation), 벡터와 행렬의 만남" },
     { "id": "Si2QxZEz8Po", "title": "[선형대수]_01. 딥러닝에서의 선형대수! 오리엔테이션 (동기부여)" },
     { "id": "ToWPEh1neCY", "title": "[선형대수]_02. Matrix(행렬) 역사, 표현법, 행렬의 종류" },
     { "id": "rfeEx1saFVE", "title": "[선형대수]_04. Determinant(행렬식), Inverse Matrix(역행렬) 깊게 이해하기" },

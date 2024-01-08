@@ -389,5 +389,10 @@
     "desc": "An open source approach to locally record and enable searching everything you view on your Apple Silicon.",
     "officialSite": "",
     "topics": ["local", "macos", "memory", "search", "swift", "swiftui"]
+  }, {
+    "repo": "stephencelis/SQLite.swift",
+    "desc": "A type-safe, Swift-language layer over SQLite3.",
+    "officialSite": "",
+    "topics": ["sqlite", "swift"]
   }
 ]

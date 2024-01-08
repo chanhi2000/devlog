@@ -122,4 +122,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## buredoranna
+
+- [What does `ext4` look like?](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
+
+---
+
 <TagLinks />

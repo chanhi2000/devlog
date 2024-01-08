@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/xKmjRuZ8hHeaAEZeXzZ3qvIi1A3ZxRsFMVYuI_nnSjERpH3OyWIMYOgXrUWmF5FAPfE5sBpB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xE_CcqLUO9U", "title": "[Python 알고리즘 베이직 100] #9. 수학은 내가 1등" },
+    { "id": "QkWTY7UfpD0", "title": "[Python 알고리즘 베이직 100] #7. 업무 우선순위" },
+    { "id": "0dp9URpkl04", "title": "[Python 알고리즘 베이직 100] #5. 1의 갯수 반환" },
+    { "id": "YybKEELjkew", "title": "[Python 알고리즘 베이직 100] #4. 크리스마스 쿠키" },
+    { "id": "_upw_qKVEhM", "title": "[Python 알고리즘 베이직 100] #3. 조건 덧셈" },
+    { "id": "IXIuG2VAgm0", "title": "[Python 알고리즘 베이직 100] #2. 곱하기" },
+    { "id": "gOLywKKg0ws", "title": "[Python 알고리즘 베이직 100] #1. 더하기" },
+    { "id": "MYSYA-9qyoc", "title": "[Python 알고리즘 베이직 100] #12. 우편 번호 정렬" },
+    { "id": "P4BsHpZBFoE", "title": "[Python 알고리즘 베이직 100] #11. 평균 점수 카운팅" },
+    { "id": "pJjlRAnSWoU", "title": "[Python 알고리즘 베이직 100] #10. 게임 밸런스 조절" },
     { "id": "YoUtkkdDnDg", "title": "나만의 ChatGPT 만들기 | GPT Create | GPT에게 최신 데이터 학습시키기" },
     { "id": "DHnILM-tquI", "title": "GitHub으로 협업하기 2편 - mermaid로 WBS 작성, branch 전략에 고려할 점, fork와 PR" },
     { "id": "6sBNPvxjyt0", "title": "GitHub으로 협업하기 1편 - 깃헙 프로젝트 생성, 이슈 생성, 충돌 해결까지" },

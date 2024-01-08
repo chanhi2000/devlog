@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/x6xDgdEelwkj_hM9EIzeKD2yYqwZ-ufPkl1DhL_TWm_00k0vwTvr_YLcekinXDKBTMj7OHgRCpI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mpJK15HKsWU", "title": "stream archive: X/Twitter clone with Yew + Rust - replying to a post (2023-12-18)" },
+    { "id": "eXeltDhfVDc", "title": "Building my own Git in Rust - reading tree objects part 2" },
+    { "id": "LkQsbS9YXF8", "title": "stream archive: Learning evolutionary coding in Rust (2023-12-18)" },
+    { "id": "8zOz20U4QMg", "title": "Building my own Git in Rust - reading tree objects" },
+    { "id": "liRZK1qGtVk", "title": "Learning evolutionary code with Rust and GGEZ" },
+    { "id": "BjAYZWRxNXI", "title": "stream archive: editing top level posts in the x/twitter clone (yew + rust) (2023-12-19)" },
+    { "id": "gNZvSrvnPl0", "title": "Building my own Git in Rust with CodeCrafters - ls-tree and write-tree" },
+    { "id": "sE8GxXPYb1M", "title": "learning evolutionary coding with Rust and GGEZ part 3" },
     { "id": "LkQsbS9YXF8", "title": "stream archive: Learning evolutionary coding in Rust (2023-12-18)" },
     { "id": "mpJK15HKsWU", "title": "stream archive: X/Twitter clone with Yew + Rust - replying to a post (2023-12-18)" },
     { "id": "1xDExzgZl8c", "title": "stream archive: CodinGame Mad Pod Race bronze league with Rust (2023-12-07)" },

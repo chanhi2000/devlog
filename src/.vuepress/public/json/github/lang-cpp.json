@@ -993,5 +993,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "janhq/nitro",
+    "desc": "A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API",
+    "officialSite": "https://nitro.jan.ai/",
+    "topics": ["accelerated", "ai", "cuda", "gguf", "inference-engine", "llama", "llama2", "llamacpp", "llm", "llms", "openai-api", "stable-diffusion", "tensorrt-llm"]
+  }, {
+    "repo": "wpilibsuite/allwpilib",
+    "desc": "Official Repository of WPILibJ and WPILibC",
+    "officialSite": "https://wpilib.org/",
+    "topics": ["cscore", "hal", "ntcore", "roborio", "wpilibc", "wpilibj"]
   }
 ]

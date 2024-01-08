@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/WqVfhl_ie7eMUyA1Li-vipm5YXNOTA7g1m_Y0teN5y4Y6qsMxsXAsLV48z8-k0kmTPlYSL89-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "C-UOmVfzBbw", "title": "The inject function in Angular is not just a toy" },
+    { "id": "o6novBbaHis", "title": "Things are getting serious with AnalogJS (Angular SSG)" },
+    { "id": "ZFXdkwymw38", "title": "A \"simplified\" approach to Angular components?" },
     { "id": "oGKoh64NWc0", "title": "This taught me so much about advanced TypeScript" },
     { "id": "W2fPpXJbUzg", "title": "Why does building an Angular app with INJECTION TOKENS feel so good?!" },
     { "id": "ol671CJnNjY", "title": "Make advanced Signals + RxJS state management easier WITH this new API" },

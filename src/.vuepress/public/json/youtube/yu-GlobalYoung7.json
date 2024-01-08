@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fQswi-_VJAA", "title": "001개고생하면서 배우는 Swift스위프트_Basic(LinuxOS)" },
+    { "id": "N7-LcTR6xlk", "title": "231230_Rust_1_75_Release업데이트 최신소식 정리" },
+    { "id": "z9t3Iddv1BY", "title": "008개고생하면서 배우는 Rust_Basic_6. Enums and Pattern Matching" },
+    { "id": "hRJVtIvJRms", "title": "002개고생하면서 배우는 Swift스위프트_Basic_macOS가상환경세팅(LinuxOS)" },
     { "id": "X5-aHcpsmF0", "title": "01개고생하면서 배우는 Rust_Small projects001(간단한 채팅 프로그램 만들기Simple Multi Chat)" },
     { "id": "cnZnsytlR7A", "title": "004개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(3D구현하기)(LunarVim, Helix, VSCode, Zellij)" },
     { "id": "qWJuxJkzl6U", "title": "005개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(3D구현하기part2)(LunarVim, Helix, VSCode, Zellij)" },

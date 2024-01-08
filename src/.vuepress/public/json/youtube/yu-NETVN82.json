@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/FUkRXrDaQmKgjE09IpW8jnH-8uLGFUv7Yw9TAvBcequYTY-BaDFhF-_l7CvwcsPjOB7m3j6_jw8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ihoj-kQgiT4", "title": "OpenWRT : Share Internet from iPhone to Router" },
+    { "id": "Y3sXN-2r8mU", "title": "How to install and configure ManageEngine OpManager network monitoring" },
+    { "id": "zMQk87szvBs", "title": "Turn on your PC from anywhere | OpenWRT" },
+    { "id": "ltyNDRuaEo4", "title": "How to set up Tenda Nova Mesh" },
+    { "id": "G5ZmnV2Hfjg", "title": "How to Install macOS on a VirtualBox VM | AMD CPU" },
+    { "id": "7akDu9qd70w", "title": "Red-Node : How to create ping monitoring tool on Windows" },
     { "id": "1HGZIAvNxc0", "title": "Create a Ping tool right on Windows Home Screen" },
     { "id": "gW9dcLUO9Zs", "title": "How to Install and Configure Proxy Server on Windows 11" },
     { "id": "_DPexLKpE5o", "title": "Surf the Web Faster with Proxy on Windows 11" },

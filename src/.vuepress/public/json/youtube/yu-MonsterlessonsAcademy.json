@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Nx7ZPpn-v07AAripnhuVESZiSCJyyN-O2aiLgz-RYvRoMApLh9HW0_Jxp4Ns-5pgnsyyWHcE_W8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FvnqFG3IVhQ", "title": "Lazy Loading Images Angular - Increase Performance Without Libraries" },
+    { "id": "tK0twQfFtNU", "title": "Stylex Facebook - Is It a CSS Solution" },
+    { "id": "UuyeFq9aRF4", "title": "Global NG Angular CLI vs NPX NG Angular CLI #angular" },
+    { "id": "3R05wQXAdkY", "title": "React Node JS File Upload - Do It Right From the Start" },
     { "id": "eRGXIkpm0yY", "title": "NestJS Authentication JWT MongoDB - Do It Right" },
     { "id": "R8a8ituFkls", "title": "Angular Authentication and Authorization - The Correct Way" },
     { "id": "LobZv3i6BXk", "title": "React Hook Form Crash Course - Speed Up Writing React Form" },

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/lX3eJ7DoCc--8Vt4sA2ng0ogrpYGK5P9A2tjFUaarAwW9lLzfzKLhsXO99fYK3ICp_25OzgnKA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RsEyPMEeElA", "title": "언리얼엔진4 C++ 강좌 13 [쥐를잡자 찍찍찍-06] moveNext로 게임진행하다 내 순서가 되면 잡았다 놓쳤다 선택하기" },
+    { "id": "PFiPzeiz5qc", "title": "언리얼엔진4 C++ 강좌 14 [쥐를잡자 찍찍찍-07] 잡았다 놓쳤다 선택하면 이벤트 발생시키기" },
+    { "id": "3D91Jl7Pl-k", "title": "언리얼엔진4 C++ 강좌 15 [쥐를잡자 찍찍찍-08] 완성하기" },
     { "id": "3kEmCaLacPg", "title": "언리얼엔진4 C++ 강좌 10 [쥐를잡자 찍찍찍-03] 타이머 사용법" }
   ],
   "playlists": [

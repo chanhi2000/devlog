@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kEUltbzfxPc", "title": "EDB (기업용 PostgreSQL) vs 오라클DB  [구해줘 Data@토크아이티, EDB 김동수 이사]" },
+    { "id": "TruyJ6v4wUA", "title": "보안 컨설턴트가 얘기하는 제로트러스트, 무엇이고 어떻게 준비하는가?  [구해줘 Security@토크아이티, 테이텀 시큐리티 장현호 리드, 투이컨설팅 정관복 이사]" },
+    { "id": "RWB_hyTiibY", "title": "RPA 포탈 왜 필요하고 어떻게 사용하고 있나?[구해줘 DX@토크아이티 프리미엄 웨비나, 파워젠]" },
+    { "id": "te0frWTkh-A", "title": "CDC(변경데이터캡처)는 왜 나왔고, 무엇을 체크해야 되는가? 10분 요약 [구해줘 Data@토크아이티, 디비투이 김명훈대표]" },
+    { "id": "ckbGttKLJP8", "title": "디지털 트윈으로 반도체 스마트 제조/운영 환경 업그레이드 [ 구해줘 Manufacturing@토크아이티 프리미엄 웨비나, 이안 조규민 상무]" },
+    { "id": "cLGEjqRZXa4", "title": "CentOS, RHEL, CentOS 스트림 팩트 체크 [구해줘 IT infra@토크아이티, 코오롱베니트]" },
+    { "id": "ywDliFVWAVM", "title": "오픈 API 서비스를 위한 APIM: 인증, 인가, 과금, 매핑 [구해줘 IT infra@토크아이티, 유앤아워스, 브로드컴]" },
+    { "id": "O9mi-gqIGio", "title": "미래 유망직업 탐구, 3D프린터 애플리케이션 엔지니어 [구해줘 Manufacturing@토크아이티, 스트라타시스 고유성 부장]" },
+    { "id": "0x12NaaIoNs", "title": "금융 업무 LLM 적용 6가지 usecase [구해줘 AI@토크아이티, 퀀텀에이아이 최성집 대표]" },
+    { "id": "ozqrcybLqEg", "title": "테스트 자동화의 진화: CI/CD + Continuous Testing, 모델기반 자동화, AI기반 [구해줘 IT infra@토크아이티, 트리센티스 서보희 지사장]" },
     { "id": "2F1kUsPloOc", "title": "실시간 데이터 동기화(CDC, 변경 데이터 캡처) 금융/통신 구축 Lesson & Learn [구해줘 Data@토크아이티 프리미엄 웨비나, 디비투이]" },
     { "id": "anddx0BuEmc", "title": "ERP 프로젝트 실패하는 3가지 이유: 준비 안된 Go Live  , PI 대표성 부족, IT Driven  [구해줘 DX@토크아이티, ASPN 백성현 부사장]" },
     { "id": "BjQMp3NsCHA", "title": "오픈 API 기반 금융 서비스 연계 및 활용 [토크아이티 웨비나, 유앤아워스, 브로드컴]" },
