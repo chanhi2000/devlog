@@ -1149,5 +1149,10 @@
     "desc": "Convert Github Copilot to ChatGPT, free to use the GPT-4 model",
     "officialSite": "",
     "topics": ["chatgpt", "copilot", "gpt4", "openai"]
+  }, {
+    "repo": "makew0rld/merkdir",
+    "desc": "Create Merkle trees from your directories.",
+    "officialSite": "",
+    "topics": []
   }
 ]

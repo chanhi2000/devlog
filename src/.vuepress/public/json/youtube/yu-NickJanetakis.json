@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "2xJyBRSE4g0", "title": "Automate Suspending Kubernetes Cron Jobs with find and sed" },
+    { "id": "1XgqXMNFE-0", "title": "Docker Tip #96: See How Long a Container Ran For" },
     { "id": "U5cYKqo6WX8", "title": "Getting Celery to Work with Python 3.12 and Flask 3.0" },
     { "id": "J4P6fnrRF_4", "title": "Help Find and Remove Hard Coded Passwords and Secrets in a Project" },
     { "id": "wq-a2c7tvbA", "title": "Validate File Types by Reading the First Few Bytes of a File" }, 

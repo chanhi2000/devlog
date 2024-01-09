@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/NjvnLlpS-1GO34_8vPqKdDRdNJSmU59L7NuA7GYRoQhhdbM9Buup8zs6I023DOJQz6y2VNIz=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JA1KAQBDLXY", "title": "How to connect Setup Flutter Firebase CLI on Window || Flutter Firebase CLI tutorials in Hindi" },
+    { "id": "mEsMmjECxkU", "title": "Part-9 How to upload Flutter Code to Github || Github Tutorials For Beginners In Hindi/Urdu" },
+    { "id": "7_sU1A236NQ", "title": "How to install setup configure Flutter Firebase CLI on MAC || Install Firebase CLI for Mac" },
+    { "id": "kFgiRPsK6ho", "title": "CI/CD in Flutter using Github Actions || Automate flutter build and release using Github Actions" },
     { "id": "zLgYRBu4OyE", "title": "Flutter || Node || Freelancing || Debugging || Q&A" }
   ]
 }

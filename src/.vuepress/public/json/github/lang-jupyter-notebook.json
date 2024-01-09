@@ -439,5 +439,10 @@
     "desc": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation",
     "officialSite": "https://mobile-aloha.github.io/",
     "topics": []
+  }, {
+    "repo": "benman1/generative_ai_with_langchain",
+    "desc": "Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.",
+    "officialSite": "https://amzn.to/3D5ZhGu",
+    "topics": ["chatgpt", "gpt", "huggingface", "langchain", "llms", "openai"]
   }
 ]

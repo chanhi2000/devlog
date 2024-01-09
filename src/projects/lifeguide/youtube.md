@@ -72,6 +72,7 @@ meta:
 <MyYouTubeItems jsonName="yu-user-wl8dq7rl8q" /><!-- Foreign futures chart trader -->
 <MyYouTubeItems jsonName="yu-bigdata_leecho" /><!-- 강서대학교 빅데이터경영학과 이상철 교수 -->
 <MyYouTubeItems jsonName="yu-ssapcook" /><!-- 쌉쿡 -->
+<MyYouTubeItems jsonName="yu-lodongbokeo" /><!-- 로동복어 -->
 
 <TagLinks />
 

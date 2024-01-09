@@ -6,7 +6,9 @@
     "banner": ""
   },
   "videos": [
-    
+    { "id": "85iAoSBqfKQ", "title": "[Algorithm] dynamic programming #5 - 격자에서의 경로 - Part 1" },
+    { "id": "nkXGo_PoOGU", "title": "[Algorithm] dynamic programming #5 - 격자에서의 경로 - Part 2" },
+    { "id": "XohwMF1lgT4", "title": "[Algorithm] dynamic programming #5 - 격자에서의 경로 - 번외 문제(Part 3)" }
   ],
   "playlists": [
     {

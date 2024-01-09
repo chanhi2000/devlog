@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "mr.jeffastor9617",
+    "name": "Mr. Jeff Astor",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSc9k_2Fns-Mrh7Itr4KkFhuavrv6l2WsDuwkmqKA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "leD2RSJ-AfY", "title": "React & Firebase Part 4 - Getting data from Firestore" }
+  ]
+}

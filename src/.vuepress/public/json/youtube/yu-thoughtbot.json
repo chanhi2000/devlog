@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "thoughtbot",
+    "name": "thoughtbot",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQLUdI6baR2cDcoLO_ehgUtol6_MG9VFI2d3-TvEQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S69HxPn_grNWnKx0kuI9C_I3aJY5l0QwJYMTssqPFF4sc5t2GA4Gg5_ea0WAS6MvpsNbrorT=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XA2WjJbmmoM", "title": "How to Do 90% of What Plugins Do (With Just Vim)" }
+  ]
+}

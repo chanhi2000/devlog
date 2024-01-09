@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "testhivemanchester5873",
+    "name": "Test Hive Manchester",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRIjqBBsQMHItdYwhxFqCcb0ey5XWN1eo2xK32I=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "mhmCr05XWcE", "title": "Running your Cucumber Tests in a Docker Container" }
+  ]
+}

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/6r37uvmD2t76rc90wM9ipbAwlLSPjjNMq-J4xunHUv0gbTm9nZBJM0vUBWFwTIQsbyJnGajm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3P8ciB3m_LI", "title": "How to Create a Loan Calculator in C# using PMT Function" },
+    { "id": "W63DbafMG-A", "title": "How to Create a Loan Calculator with PMT Function in Excel VBA" },
+    { "id": "u9YsuspS1jk", "title": "How to Create a Loan Calculator using PMT Function in  MS Access" },
     { "id": "x0-0X14yDDg", "title": "How to Convert a PDF File into a Word Document File in Python" },
     { "id": "4EFEa27YCME", "title": "How to Create a Masking in Adobe Animate" },
     { "id": "vOYrQ64q29k", "title": "How to Create a Simple Tic Tac Toe Game in Python" },

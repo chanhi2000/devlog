@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "helpingtesters533",
+    "name": "HelpingTesters",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRXkxdjZ58MsdVBxqYlMfIPrzvDPtO1am94EWN4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bFKZIG0u6I77zlOSW5XusVNX4dI09osK5qm-lTjBNixgt_WrddXv6kIDAGyQp_uQJWJBzF6b6A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SeGBXdw9zWs", "title": "Selenium WebDriver Handling Popup | Window" }
+  ]
+}

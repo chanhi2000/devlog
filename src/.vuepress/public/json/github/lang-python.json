@@ -3774,5 +3774,10 @@
     "desc": "vits2 backbone with multilingual-bert",
     "officialSite": "",
     "topics": ["bert", "bert-vits", "bert-vits2", "tts", "vits", "vits2"]
+  }, {
+    "repo": "KillianLucas/open-interpreter",
+    "desc": "A natural language interface for computers",
+    "officialSite": "http://openinterpreter.com/",
+    "topics": ["chatgpt", "gpt-4", "interpreter", "javascript", "nodejs", "python"]
   }
 ]

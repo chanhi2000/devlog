@@ -44,5 +44,7 @@ meta:
 <MyYouTubeItems jsonName="yu-tharo382" /><!-- Tharo -->
 <MyYouTubeItems jsonName="yu-JollyCoding" /><!-- Jolly Coding -->
 <MyYouTubeItems jsonName="yu-sangammukherjee3009" /><!-- Sangam Mukherjee -->
+<MyYouTubeItems jsonName="yu-mr.jeffastor9617" /><!-- Mr. Jeff Astor -->
+<MyYouTubeItems jsonName="yu-LearnEDU" /><!-- LearnEDU -->
 
 <TagLinks />

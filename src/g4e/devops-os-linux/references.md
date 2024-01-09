@@ -128,4 +128,10 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## rsadowski
+
+- [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde)
+
+---
+
 <TagLinks />

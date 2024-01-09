@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vQgxq1xaWwY", "title": "Fetch And Display All Brands & Brand-Specific Products Using Future Builder | Flutter Firebase" },
+    { "id": "Ujj-efLh-yw", "title": "Flutter Fetch and Display Products Dynamically | Sort All Products | FutureBuilder" },
+    { "id": "R1rajZdZmus", "title": "Product Details Page Flutter | Images List | Dynamic Product Variations | Firebase Firestore" },
+    { "id": "RcMPHBQsF54", "title": "Fetch Category-Specific Brands and their Products Using Future Builder | Flutter Firebase" },
+    { "id": "Y2j3zDIyomg", "title": "Everything You Need To Know About Flutter Favorite using local storage and firebase" },
     { "id": "-NQWNy-5i2E", "title": "Flutter Upload Images To Firebase Storage | Display Images From Storage" },
     { "id": "B-Zycy24Vno", "title": "Flutter Fetch Products from Firebase and Display Data on Grid" },
     { "id": "ggSmEcAyiPE", "title": "Flutter Fetch Image from Firebase Storage Database and Redirect Seamlessly" },

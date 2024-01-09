@@ -51,5 +51,7 @@ tags: ["youtube", "tutorial", "macos", "settings", "@macmost", "@joseanmartinez"
 <MyYouTubeItems jsonName="yu-Tips2Fix" /><!-- Tips 2 Fix -->
 <MyYouTubeItems jsonName="yu-austinmedz98" /><!-- Austin Medz -->
 <MyYouTubeItems jsonName="yu-RamonFerreira" /><!-- Ramon Ferreira -->
+<MyYouTubeItems jsonName="yu-ScuappysDroneVideos1" /><!-- Scuappy's Videos -->
+<MyYouTubeItems jsonName="yu-BrandonYen" /><!-- Brandon Yen -->
 
 <TagLinks />

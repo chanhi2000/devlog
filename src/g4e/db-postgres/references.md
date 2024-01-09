@@ -67,4 +67,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Crunchydata
+
+- [An Overview of Distributed PostgreSQL Architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
+
+---
+
 <TagLinks />

@@ -944,5 +944,15 @@
     "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
     "officialSite": "",
     "topics": ["async", "bash", "command-line-interface", "command-line-tool", "git", "hacktoberfest", "rust", "terminal", "tui"]
+  },{
+    "repo": "pola-rs/polars",
+    "desc": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "officialSite": "https://docs.pola.rs",
+    "topics": ["arrow", "dataframe", "dataframe-library", "dataframes", "out-of-core", "polars", "python", "rust"]
+  }, {
+    "repo": "quickwit-oss/quickwit",
+    "desc": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+    "officialSite": "https://quickwit.io",
+    "topics": ["big-data", "cloud-native", "cloud-storage", "distributed-tracing", "log-management", "logs", "open-source", "rust", "search-engine", "tantivy"]
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "RinconingenierilEsp",
+    "name": "Rincón Ingenieril",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSdB8cvT8c4wQQrq8m5-ZTMgwd9YADTpsfuBapeaQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QbFCGRx-feRwPOKl13mhNPYfidclaylE2I40ldBucDZtnB7NBAKvpSxfJEd5zwO1g3cDznjouOQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wqIK58cYI_8", "title": "FPGA Hola mundo!!" }
+  ]
+}

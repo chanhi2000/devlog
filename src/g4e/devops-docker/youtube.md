@@ -50,5 +50,8 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubun
 <MyYouTubeItems jsonName="yu-quentinsf" /><!-- Quentin Stafford-Fraser -->
 <MyYouTubeItems jsonName="yu-eddiezane" /><!-- Eddie Zaneski -->
 <MyYouTubeItems jsonName="yu-djismgaming2116" /><!-- djismGAMING -->
+<MyYouTubeItems jsonName="yu-DerickBailey" /><!-- River Lynn Bailey -->
+<MyYouTubeItems jsonName="yu-testhivemanchester5873" /><!-- Test Hive Manchester -->
+<MyYouTubeItems jsonName="yu-SeekerLabs" /><!-- Seeker Labs -->
 
 <TagLinks />

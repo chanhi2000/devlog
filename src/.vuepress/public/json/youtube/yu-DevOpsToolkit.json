@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/750oHOwufXxMWcT0G2VTQO31pY9pyCYjOKk3cLeXx3YBNnecZvjNAsAFFNdT8f5m28XoUIXnnr4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KNwpG51Whzg", "title": "KubeBlocks: Cloud-Native Data Infrastructure for Kubernetes" },
+    { "id": "ETlbtBEsC-Y", "title": "Notary Project: Ensuring Trustworthy Container (Docker) Images" },
+    { "id": "uZ8xI26sno8", "title": "WASM vs Docker Containers vs Kubernetes vs Serverless: The Battle for Cloud Native Supremacy" },
     { "id": "uj6Gan10Wig", "title": "Acorn: Build and Deploy Cloud-Native Applications More Easily and Efficiently" },
     { "id": "oosQ3z_9UEM", "title": "Dagger: The Missing Ingredient for Your Disastrous CI/CD Pipeline" },
     { "id": "UGysOX84v2c", "title": "OpenFunction: The Best Way to Run Serverless Functions on Kubernetes?" },

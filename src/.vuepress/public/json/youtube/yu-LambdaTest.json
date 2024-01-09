@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/eI7_YH8Dad-4R38OerkPfW119LXkJR2Chs3HsgKfGlQeA4p8N3TSMhlOCfeUtWGbvqBPsA18=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5_j1ubQvnkc", "title": "How To Use Cypress Viewport For Responsive Testing | Cypress Advanced Tutorial | LambdaTest" },
+    { "id": "ehNEvCQSI38", "title": "Revolutionizing Testing with Test Automation as a Service (TaaS) | XP Series Webinar |  LambdaTest" },
+    { "id": "YEolwL0YNWs", "title": "How to Execute JUnit 5 Test Scripts | JUnit 5 Tutorial | Part-III | LambdaTest" },
+    { "id": "MOuzZJJ6cLI", "title": "Learn Playwright Java in 5 Hours⏰ | Complete Playwright Java Tutorial | LambdaTest" },
     { "id": "dZSqYVQwRBs", "title": "WebdriverIO Tutorial | Using waitUntil Command | Part IV | LambdaTest" },
     { "id": "ZurBm9DvuFI", "title": "LambdaTest-Zenkit Integration🔗 | Streamline debugging and improve project management efficiency" },
     { "id": "woZlE55XTvg", "title": "What is Shift Left Testing? | LambdaTest" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "highavailabilitydisasterre2273",
+    "name": "High Availability Disaster Recovery Virtual Group",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ2Y_76x-SUf33OCh3UZ_sdMlSnbToepGNcAVYi=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f0i_ZIKdY7dGQ9ClD7F-0AOFQ3LAvCLHxg0E0WXAkPrAtKJN3Gv5cTTZULmgWtDH_38OMS6fbg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d5Rmu3fboiQ", "title": "2019.02.12 Inside Kubernetes   An Architectural Deep Dive with Anthony Nocentino" }
+  ]
+}

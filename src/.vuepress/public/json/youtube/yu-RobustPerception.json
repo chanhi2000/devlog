@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "RobustPerception",
+    "name": "Robust Perception",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTeszMVk4V44XBqX065P0aHRcnhTCvo6lZXBT4y=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "WUkNnY65htQ", "title": "Monitoring a Machine with Prometheus: A Brief Introduction" }
+  ]
+}

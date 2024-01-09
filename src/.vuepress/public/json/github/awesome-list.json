@@ -165,11 +165,6 @@
     "officialSite": "https://jahidulislamzim.netlify.app",
     "topics": []
   }, {
-    "repo": "DataTalksClub/data-engineering-zoomcamp",
-    "desc": "Free Data Engineering course!",
-    "officialSite": "",
-    "topics": []
-  }, {
     "repo": "ddotta/awesome-polars",
     "desc": "A curated list of Polars talks, tools, examples & articles. Contributions welcome !",
     "officialSite": "https://ddotta.github.io/awesome-polars",
@@ -516,9 +511,9 @@
     "topics": []
   }, {
     "repo": "ossu/computer-science",
-    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "desc": ":mortar_board: Path to a free self-taught education in Computer Science!",
     "officialSite": "",
-    "topics": ["computer-science", "curriculum", "courses", "awesome-list"]
+    "topics": ["awesome-list", "computer-science", "courses", "curriculum"]
   }, {
     "repo": "eugeneyan/open-llms",
     "desc": "📋 A list of open LLMs available for commercial use.",
@@ -667,7 +662,7 @@
   }, {
     "repo": "swisskyrepo/PayloadsAllTheThings",
     "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-    "officialSite": "https://swisskyrepo.github.io/PayloadsAllTheThings",
+    "officialSite": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
     "topics": ["bounty", "bugbounty", "bypass", "cheatsheet", "enumeration", "hacking", "hacktoberfest", "methodology", "payload", "payloads", "penetration-testing", "pentest", "privilege-escalation", "redteam", "security", "vulnerability", "web-application"]
   }, {
     "repo": "WooooDyy/LLM-Agent-Paper-List",

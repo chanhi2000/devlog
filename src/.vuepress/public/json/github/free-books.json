@@ -144,5 +144,10 @@
     "desc": "Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.",
     "officialSite": "https://awslabs.github.io/amazon-kinesis-video-streams-webrtc-sdk-c/group__PublicMemberFunctions.html",
     "topics": ["kinesis-video-streams", "webrtc", "webrtc-sdk"]
+  }, {
+    "repo": "lanceliao/china-holiday-calender",
+    "desc": "中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "v9AnZ5dE9yc", "title": "From Riverpod to BLoC" },
+    { "id": "SHj3AbgAWCk", "title": "Flutter Multi Vendor Food App | Client App | Restaurant App | Delivery Boy App" },
+    { "id": "NHlVuQpy8B4", "title": "Flutter Multi Vendor App With Backend | Part 1" },
     { "id": "nYzOukQ6S2k", "title": "Flutter Advanced E commerce Riverpod | Nodejs | Mongodb | Clean Architecture" },
     { "id": "g4t2mG4b7ss", "title": "Flutter 3 Most Debated Packages" },
     { "id": "7RWS6NpCvhA", "title": "What's the correct folder structure for large scale app building?" },

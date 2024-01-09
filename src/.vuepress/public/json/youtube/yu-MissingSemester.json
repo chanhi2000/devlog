@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MissingSemester",
+    "name": "Missing Semester",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTo83Chi26OqG2xYasMrMmoAoYPKDzVb-ttO_5r=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "a6Q8Na575qc", "title": "Lecture 3: Editors (vim) (2020)" }
+  ]
+}

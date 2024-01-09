@@ -94,6 +94,14 @@ color: rgba(255, 255, 255, 0.2)
 ```
 
 ```card
+title: Auto Wiki
+desc: View high-quality, automatically generated documentation for any public GitHub repository.
+link: https://wiki.mutable.ai
+logo: https://app.mutable.ai/favicon.png
+color: rgba(255,255,255,0.2)
+```
+
+```card
 title: 비즈니스를 위한 무료 웹 서비스 모음
 dess: 무료로도 유용하게 사용할 수 있는 온라인 웹 서비스들을 총 망라했습니다.
 link: https://kidow.notion.site/0fc89df5906e4b918bd25b059b0f56a6

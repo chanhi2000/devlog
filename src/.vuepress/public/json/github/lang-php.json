@@ -169,5 +169,10 @@
     "desc": "Firefly III: a personal finances manager",
     "officialSite": "https://firefly-iii.org/",
     "topics": ["accounting", "budget", "budgeting", "budgets", "cash-flow", "cashflow", "credit-card", "docker", "expenses", "finance", "finances", "financial", "linux", "money", "paycheck", "personal-finance", "php", "php7"]
+  }, {
+    "repo": "simjanos-dev/LinguaCafe",
+    "desc": "LinguaCafe is a self-hosted software that helps language learners read foreign languages.",
+    "officialSite": "https://simjanos-dev.github.io/LinguaCafeHome/",
+    "topics": ["language-learning", "self-hosted"]
   }
 ]

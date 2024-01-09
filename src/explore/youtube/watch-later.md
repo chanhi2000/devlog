@@ -99,9 +99,7 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-feconfkorea]: https://www.youtube.com/@feconfkorea
 [yu-hallden]: https://www.youtube.com/@Hallden_
 [yu-kossiecoder]: https://www.youtube.com/@kossiecoder
-[yu-user-cj9zo7hb4p]: https://www.youtube.com/@user-cj9zo7hb4p
 [yu-freddingo33]: https://www.youtube.com/@freddingo33
-[yu-user-bf6fs6jy1p]: https://www.youtube.com/@user-bf6fs6jy1p
 [yu-user-uv5hp3lh4k]: https://www.youtube.com/@user-uv5hp3lh4ks
 [yu-devopskorea4426]: https://www.youtube.com/@devopskorea4426
 [yu-theswiftdevelopers1301]: https://www.youtube.com/@theswiftdevelopers1301

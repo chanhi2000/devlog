@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/85geaMgV4tCv3Am0BVH09i6-JgFZMkwOIyk3XeUwc5SJu6NU6CKkCZpKU7SBqaMgQbF618YH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8aG410nmjtQ", "title": "First Look at .NET Aspire - Distributed Applications in .NET 8" },
+    { "id": "wPmh_ZtFQ5k", "title": "This C# Operator Can Help You Write Better Code" },
+    { "id": "TpBb_vJ6eOw", "title": "How to Reduce Nesting in Your Code With Zero Effort" },
+    { "id": "z3piPJ7x4WU", "title": "How to Structure a Modular Monolith Project in .NET" },
+    { "id": "Fl0MSWtHIOo", "title": "How to Build an Outbox with EF Core Interceptors" },
+    { "id": "N-tBDTMqhq4", "title": "This EF Core Feature Gives You a FREE Perf Boost" },
+    { "id": "faaEnBFTzA8", "title": "The 2 Built-In Cache Types in ASP.NET Core - How to choose?" },
+    { "id": "lcCZuwI3XPI", "title": "Use This to Monitor Your Application Logs" },
+    { "id": "aA7abnW_Q1s", "title": "5 Awesome Refactoring Tips To Clean Up Your Code" },
     { "id": "5L2BUuSdZBI", "title": "Don't Make This Common Domain Events Mistake" },
     { "id": "LOEYZRE72wE", "title": "How to Implement Blazing Fast Query Caching with MediatR" },
     { "id": "bnTxWV99qdE", "title": "How To Make Your Application Queries Reusable" },

@@ -28,5 +28,7 @@ tags: ["youtube", "tutorial", "bash", "linux", "macos", "terminal", "alias", "sh
 <MyYouTubeItems jsonName="yu-traap." /><!-- Traap -->
 <MyYouTubeItems jsonName="yu-TechWithNich" /><!-- Tech With Nich -->
 <MyYouTubeItems jsonName="yu-tech_craft" /><!-- Tech Craft -->
+<MyYouTubeItems jsonName="yu-MissingSemester" /><!-- Missing Semester -->
+<MyYouTubeItems jsonName="yu-thoughtbot" /><!-- thoughtbot -->
 
 <TagLinks />

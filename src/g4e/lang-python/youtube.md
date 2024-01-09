@@ -66,5 +66,6 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-Socratica" /><!-- Socratica -->
 <MyYouTubeItems jsonName="yu-doumcode" /><!-- 도움코드 쉬운예 DoumCode 데이터홍교수 -->
 <MyYouTubeItems jsonName="yu-_wy_choi" /><!-- 최원영 -->
+<MyYouTubeItems jsonName="yu-MargaritKyurkchyan" /><!-- Margarit Kyurkchyan -->
 
 <TagLinks />

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/12NqD7utK2pTos8vt_b6aITBE7gtnE_U5z3VsjiznrsfUXNWHoXqOIfy_CqCxzAAJbkCA-Bv4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vHZdI4BwAHk", "title": "What Actually Causes Not Responding on Windows" },
+    { "id": "A9bPqlgbUvg", "title": "The Importance of Error Handling in C" },
+    { "id": "6stTRIOsm2E", "title": "Making Minimalist HTTPS Server in C on Linux" },
+    { "id": "Kn6D7sH7Fts", "title": "Adding Simple System Call in Linux Kernel" },
     { "id": "xFHpEyLfPEI", "title": "Making Simple Clipboard Viewer in C on Windows" },
     { "id": "yO3duGVj-C8", "title": "Making Simple Windows DLL in C" },
     { "id": "aSkW8HgQbSk", "title": "Making Minimalist Hex Editor in C on Linux" },

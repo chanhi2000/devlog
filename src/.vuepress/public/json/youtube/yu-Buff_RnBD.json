@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Buff_RnBD",
+    "name": "버프",
+    "profile": "https://yt3.googleusercontent.com/buNttch62_yE1J_JCHAnqzdDW0WwRD0kWO5LxlvupKpefUOoY2fC0Y22-FagUce4cChSIi1DXQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "C8ffOh1Hzxg", "title": "에어테이블 데이터베이스 사례 - 직접 가계부 만들기" },
+    { "id": "vGQm7R6X_zY", "title": "나만의 GPTs 만들기: 보고서 작성부터 문서 분석까지" },
+    { "id": "zaXfJnDFnSg", "title": "네이버 뉴스 크롤링 (노코드로 10분 완성) - 네이버 API, 챗GPT, 구글 코랩" },
+    { "id": "dbFafqZQVo8", "title": "에어테이블 데이터베이스 사례 - 미팅 스케쥴러 만들기(base 복제 가능)" },
+    { "id": "pzpxvlIpLTc", "title": "에어테이블 자동화 - 미팅 스케쥴러 이메일 자동화(base 복제 가능)" },
+    { "id": "NeaHUXDfvB4", "title": "에어테이블 자동화 - 페이스북 포스팅 자동화(base 복제 가능)" },
+    { "id": "zaXfJnDFnSg", "title": "네이버 뉴스 크롤링 (노코드로 10분 완성) - 네이버 API, 챗GPT, 구글 코랩" },
+    { "id": "v5bLlzAymAI", "title": "에어테이블 나혼자 자동화 - 글&이미지 생성부터 페이스북 업로드까지" }
+  ]
+}

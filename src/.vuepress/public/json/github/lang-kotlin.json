@@ -170,5 +170,10 @@
     "desc": "Source extensions for the Tachiyomi app.",
     "officialSite": "https://tachiyomi.org/extensions/",
     "topics": ["android", "kotlin", "manga"]
+  }, {
+    "repo": "tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "officialSite": "https://tachiyomi.org/",
+    "topics": ["android", "kotlin", "manga"]
   }
 ]

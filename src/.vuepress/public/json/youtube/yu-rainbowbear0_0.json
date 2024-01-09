@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "w4ehEtymVXE", "title": "[개발일기] 로그인 리팩토링 (조언 환영)" },
+    { "id": "rLFAD0hQ4_0", "title": "[아키텍처] 설계 원칙 SOLID (조언 환영)" },
+    { "id": "EsBMcsRGdYY", "title": "[아키텍처] 프로그래밍 패러다임 (조언 환영)" },
+    { "id": "8AfpPChRkSY", "title": "[개발일기] 아키텍처 설계 공부 결정 (조언 환영)" },
+    { "id": "gBthEuSVTyQ", "title": "[개발일기] 로그인, 로그아웃 요청은 GET? POST? (조언 환영)" },
+    { "id": "vhnsc0smGEI", "title": "[개발일기] 프로필 수정 페이지 구상 (조언 환영)" },
     { "id": "G3FrgzPIFzo", "title": "[개발일기] DB에 대한 피드백 생각과 조치 (조언 환영)" },
     { "id": "3L28KJLAqdY", "title": "[개발일기] 관리자 페이지 구현 - 미들웨어, bcrypto (조언 환영)" },
     { "id": "fQuk6Xw5SxI", "title": "[개발일기] 관리자 페이지 구상 (조언 환영)" },

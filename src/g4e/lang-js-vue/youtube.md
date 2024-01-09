@@ -29,5 +29,8 @@ meta:
 <MyYouTubeItems jsonName="yu-paulhalliday" /><!-- Paul Halliday -->
 <MyYouTubeItems jsonName="yu-Webnoob" /><!-- Webnoob -->
 <MyYouTubeItems jsonName="yu-user-gn2mw4lm4m" /><!-- 데브리 -->
+<MyYouTubeItems jsonName="yu-TheEarthIsSquare" /><!-- The Earth Is Square -->
+<MyYouTubeItems jsonName="yu-WatchandLearnTutorials" /><!-- Watch and Learn -->
+<MyYouTubeItems jsonName="yu-edwardwardell-yerburgh378" /><!-- Edward Wardell-Yerburgh -->
 
 <TagLinks />

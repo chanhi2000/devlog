@@ -139,5 +139,10 @@
     "desc": "A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ethen8181/machine-learning",
+    "desc": ":earth_americas: machine learning tutorials (mainly in Python3) ",
+    "officialSite": "",
+    "topics": ["data-science", "deep-learning", "jupyter-notebook", "machine-learning", "python", "python3"]
   }
 ]

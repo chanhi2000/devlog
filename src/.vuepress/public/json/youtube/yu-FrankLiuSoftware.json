@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "1DKC_hIrEt8", "title": "3. Install MS SQL Server and SSMS | SQL for Beginners | SQL Tutorial" },
+    { "id": "1CQzKbmNgBE", "title": "2. DBMS, Databases, and Tables | SQL for Beginners | SQL Tutorial" },
+    { "id": "Aqys0km9Nf4", "title": "4. Use SSMS to Connect to SQL Servers | SQL for Beginners | SQL Tutorial" },
     { "id": "BzlPrVB_DwA", "title": "Full Course - Learn ASP.NET Core MVC in .NET 8 | CRUD Operations | EntityFramework Core" },
     { "id": "Zv24RaMg4qk", "title": "MVC in .NET 8 | Handle HttpPost request | Ep 18" },
     { "id": "_ugUrqsm0dY", "title": "MVC in .NET 8 | Use Hidden field to store Id in the form | Ep 19" },

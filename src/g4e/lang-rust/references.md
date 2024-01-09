@@ -159,4 +159,10 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Enosuchblog
+
+- [totally_safe_transmute, line-by-line](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
+
+---
+
 <TagLinks />

@@ -995,7 +995,7 @@
     "topics": []
   }, {
     "repo": "janhq/nitro",
-    "desc": "A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API",
+    "desc": "A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API",
     "officialSite": "https://nitro.jan.ai/",
     "topics": ["accelerated", "ai", "cuda", "gguf", "inference-engine", "llama", "llama2", "llamacpp", "llm", "llms", "openai-api", "stable-diffusion", "tensorrt-llm"]
   }, {
@@ -1003,5 +1003,15 @@
     "desc": "Official Repository of WPILibJ and WPILibC",
     "officialSite": "https://wpilib.org/",
     "topics": ["cscore", "hal", "ntcore", "roborio", "wpilibc", "wpilibj"]
+  }, {
+    "repo": "tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "officialSite": "https://tachiyomi.org/",
+    "topics": ["android", "kotlin", "manga"]
+  }, {
+    "repo": "facebookresearch/habitat-sim",
+    "desc": "A flexible, high-performance 3D simulator for Embodied AI research.",
+    "officialSite": "https://aihabitat.org/",
+    "topics": ["ai", "computer-vision", "cplusplus", "robotics", "sim2real", "simulator"]
   }
 ]

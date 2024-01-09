@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LCaOD2sQ8AlgLbT2CDc7OFHToMy796FUdU7efuJ8Bdj29dn_hXSE8iTG3CvHyPXftiWigIlwtg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0TsLKDLdxSw", "title": "내 정확한 버전 알아내는 법(npm ls, npm outdated, npm audit, ERESOLVE 등등...)" },
+    { "id": "nG4ksZ_sLUE", "title": "에러 해결의 기초: 스택 트레이스(stack trace)" },
+    { "id": "OHje6N9YdZs", "title": "언제부터 에러가 났는지 모를 때(git commit 습관의 중요성)" },
     { "id": "RdbVLzAfB44", "title": "모던 자바스크립트 Deep Dive 효율적으로 읽는 법(필독 목차, 안 봐도 되는 목차 정리)" },
     { "id": "5WW3GMwNp0M", "title": "리액트1시간압축강좌 4편(라이프사이클의 시작이자 끝 useEffect)" },
     { "id": "bpgeAGJ7_Ig", "title": "(X.com)트위터 클론 코딩의 장단점" }, 

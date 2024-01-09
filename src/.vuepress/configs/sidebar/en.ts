@@ -93,6 +93,8 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/g4e/lang-maven/README.md',
         '/g4e/lang-maven/snippets.md',
+        '/g4e/lang-maven/references.md',
+        '/g4e/lang-maven/youtube.md',
       ]
     }, {
       text: '☕️Java',

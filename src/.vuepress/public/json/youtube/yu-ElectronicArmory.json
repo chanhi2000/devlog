@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ElectronicArmory",
+    "name": "Electronic Armory",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRPGzUC64o4F_olJPOa3dNxBJyr8CpJZABUgU8f=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LhpsgFI8xHkx8vcMDp7_OzcWZDU9H_lRaU-BzyX4ujG7Qa4jbzxKngW941KUVx_Jei11qbfp=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iPTSU-p-qOw", "title": "Android App From Scratch - Part 1 - Kotlin" }
+  ]
+}
