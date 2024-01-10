@@ -394,5 +394,10 @@
     "desc": "A type-safe, Swift-language layer over SQLite3.",
     "officialSite": "",
     "topics": ["sqlite", "swift"]
+  }, {
+    "repo": "mrousavy/react-native-vision-camera",
+    "desc": "📸 A powerful, high-performance React Native Camera library.",
+    "officialSite": "https://react-native-vision-camera.com",
+    "topics": ["ai", "android", "barcode", "camera", "hacktoberfest", "instagram", "ios", "javascript", "jsi", "library", "qr-code", "qrcode", "react", "react-native", "react-native-camera", "scanner", "snapchat", "typescript", "vision", "worklet"]
   }
 ]

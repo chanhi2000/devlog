@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RHO8HhBY0W8", "title": "This is why testing is hard" },
+    { "id": "cPWSVcbd6Po", "title": "Writing e2e tests isn’t hard, so do it" },
+    { "id": "V58X3FSrLWE", "title": "How I manage my time to publish so much content" },
+    { "id": "MSpDAuDPqNw", "title": "This is the real purpose for react context" },
+    { "id": "ZPh2Hapjd64", "title": "This is why you'll need polling in your web applications" },
     { "id": "ib0pUey_RjA", "title": "Here's what I know about DynamoDB" },
     { "id": "aljVv9nRuM0", "title": "My favorite way to practice tailwind" },
     { "id": "CDZg3maL9q0", "title": "This is the weirdest pitfall about Next.js server actions" },

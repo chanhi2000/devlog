@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "JgGJvpRuyAg", "title": "python 실습 | 1. code-server를 이용한 개발환경 구축" },
+    { "id": "QhFlj9No0mk", "title": "mariaDB | 2_mariaDB TLS/SSL구성" },
+    { "id": "xph5wAIXStE", "title": "python 실습 | 2. github설정 및 code-server 자동설치" },
     { "id": "UjHCF0yDpjE", "title": "소규모 웹서비스 환경 구축 해보기_4 | MariaDB 설치 및 외부 접속 설정" },
     { "id": "FN9nVcDE6ko", "title": "소규모 웹서비스 환경 구축 해보기_5 | 워드프레스 연동" },
     { "id": "pOEl7YanVek", "title": "소규모 웹서비스 환경 구축 해보기_6 | 외부 공개를 위한 네트워크 설정 설명" }

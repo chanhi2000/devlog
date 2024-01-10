@@ -626,6 +626,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Ben Barger
+
+- [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

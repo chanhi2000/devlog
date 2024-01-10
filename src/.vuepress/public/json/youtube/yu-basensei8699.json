@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/KoZi7PprCZK_aa0SS2emknKldVhLnxFFMuqWFrOP9yVJ7--5dPDoR0WEA38NDGl3qyCZV-WH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QBhG8m-zio0", "title": "Power Query - Dynamically Promote Double Headers 🚀📊" },
+    { "id": "1mJaN1t9mwk", "title": "Power Query - Previous Row Hack" },
     { "id": "WnzQU-T3ZB0", "title": "Power Query - Unstack Rows to Columns" },
     { "id": "JTKW7f62eb0", "title": "Power Query - Unstack Uneven Rows to Columns🍔" },
     { "id": "bg5Fo9D8rL8", "title": "Power Query - Connecting and returning data from ChatGPT 🤖📞" },

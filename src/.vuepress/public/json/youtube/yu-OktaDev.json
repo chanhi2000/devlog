@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/K0_q3Z6zbDODlhZ2wab2PnH-szBepybsASSPUV7boJ6O0iuzZeAKDh0e9uPziXiOyiYrVLLphA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sFG6kwoVqJs", "title": "Identity and Security Meetup - December 2023 (Online)" },
+    { "id": "snYB89GGtug", "title": "Mapping SAML Attributes - Auth0 Community Response Series" },
     { "id": "nWXzM9OQNmw", "title": "The Best of Oktane for Developers Webinar" },
     { "id": "X-mUSY3Ejro", "title": "Setting up Azure AD as SAML enterprise connection -- Auth0 Community Response Series" },
     { "id": "OoiCEq0W0R4", "title": "Fine Grained Authorization, Open Source and Topaz with Omri Gazitt - Authorization in Software S2 E6" },

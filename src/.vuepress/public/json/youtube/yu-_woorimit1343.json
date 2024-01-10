@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "_woorimit1343",
+    "name": "우리밋_woorimIT",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSymNDyBNR4BYmEcIwd7OYitzAx9vJoUZBg13Zskw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hVpuiwsFW-1ylrGTY15_Eepo0L5mw6lWtiXqBO9Lw0Guc1rirH5kEpJr-rySipptoRkVifLoqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LRWZa8qJdAU", "title": "취업 못한 당신이 놓친 8가지" },
+    { "id": "O1GzLLCGmuc", "title": "UI 싹 바뀐 AWS..? 대체 얼마나 | EC2에 서버 배포 ㄱ쉬워짐 | 인스턴스 가상 컴퓨터 띄우기" }
+  ]
+}

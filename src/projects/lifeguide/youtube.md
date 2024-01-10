@@ -73,6 +73,10 @@ meta:
 <MyYouTubeItems jsonName="yu-bigdata_leecho" /><!-- 강서대학교 빅데이터경영학과 이상철 교수 -->
 <MyYouTubeItems jsonName="yu-ssapcook" /><!-- 쌉쿡 -->
 <MyYouTubeItems jsonName="yu-lodongbokeo" /><!-- 로동복어 -->
+<MyYouTubeItems jsonName="yu-someandcook" /><!-- 썸앤쿡 -->
+<MyYouTubeItems jsonName="yu-ITs_okay_vv" /><!-- IT's okay 잇츠 오케이 -->
+<MyYouTubeItems jsonName="yu-yt_macho" /><!-- MACHO MAN(마초맨) -->
+<MyYouTubeItems jsonName="yu-OMG_electronics" /><!-- 오목교 전자상가 -->
 
 <TagLinks />
 

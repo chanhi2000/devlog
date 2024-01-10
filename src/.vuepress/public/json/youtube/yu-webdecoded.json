@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/W24nrbMLN3nbCDWSKpdiMM9XS27WOhVwtNPNRduliX1jL33hls7aB8kOMUo-VnkEaJorBg_GSw0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-cV51fGc5lg", "title": "STOP using Passwords: How to use Magic Link for Auth in NextJS Instead" },
+    { "id": "SgucQjxPs4s", "title": "Fetch vs Axios: Which one is Better for your Next React Project #reactjs" },
     { "id": "t7AOq4m-J0k", "title": "I Built Git(in JavaScript)" },
     { "id": "xkXgqoTyye4", "title": "Deploy Your Next.js App Like a Pro: A Guide to Self-Hosting your Next App" },
     { "id": "Kb1f5bvF6f4", "title": "NextJs Portfolio Tutorial - Build a Responsive Portfolio Website w/ Advanced Animations (2023)" },

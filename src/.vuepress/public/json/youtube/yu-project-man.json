@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "project-man",
+    "name": "프로젝트 박스",
+    "profile": "https://yt3.googleusercontent.com/kg2I43P9ZweXYB39J8PURH5102o2X37sxppU_L6Vkl9I5pIxWfK85PUFkYtoY35PsuwSOUfxyaE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "8IGgeaLlYW8", "title": "40분만에 끝내는 서버 이론+실습. AWS, Nginx, Node.js, Mysql" }
+  ]
+}

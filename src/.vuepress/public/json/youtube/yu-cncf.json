@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tl8w72tehZ0", "title": "Multi-Stage Deployment Pipelines the GitOps Way - Jesse Suen & Kent Rancourt, Akuity" },
+    { "id": "qBOAVgK6Vj0", "title": "Dynamic 5G Core Infrastructure with FluxCD Terraform Controller - David Blaisonneau, Orange" },
+    { "id": "k4L5_zKorZ8", "title": "Empowering Developer Productivity: A Deep Dive Into ArgoCD and Botkube Integration - Maria Ashby" },
     { "id": "7xE1VsWp2fA", "title": "AKS + Spin Integration" },
     { "id": "fkaYSULPnN4", "title": "CNCF TOC Meeting 2023-12-12" },
     { "id": "tKYF2pOZAcI", "title": "SECURITY HUB: The Quest for CNCF Ecosystem Security - Eddie Knight, Sonatype" },

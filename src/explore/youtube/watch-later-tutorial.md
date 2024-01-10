@@ -48,7 +48,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <MyYouTubeItems jsonName="yu-strager_" /><!-- strager -->
 <MyYouTubeItems jsonName="yu-kodejun" /><!-- KodeJUN -->
 <MyYouTubeItems jsonName="yu-Virbox" /><!-- Virbox -->
-<MyYouTubeItems jsonName="yu-learnwithjason" /><!-- Learn With Jason -->
 <MyYouTubeItems jsonName="yu-linkedinlearning" /><!-- LinkedIn Learning -->
 <MyYouTubeItems jsonName="yu-nullnull_not_eq_null" /><!-- 널널한 개발자 TV -->
 <MyYouTubeItems jsonName="yu-jinujawad" /><!-- jinu jawad m --> 

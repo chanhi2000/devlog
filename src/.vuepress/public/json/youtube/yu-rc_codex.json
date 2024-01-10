@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "rc_codex",
+    "name": "rccodex",
+    "profile": "https://yt3.googleusercontent.com/4qJhZjwEBMMBSn9l85UIzd9Uf4P28NWzhniPP4GVVTI9Q8UXkv3a5BAQsEK6PD8MKgBDw2WNfw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/I6-F2QFGbGocMWgsu666-Vlvf_Qa4DKn1hbmEdxdR6otIOAoLVkYYoosPP1G02K9XoanRqJ5Vw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aLW-AgrmAgM", "title": "How to create Navbar? Navbar kese bnaye html css se #rccodex #coder" }
+  ]
+}

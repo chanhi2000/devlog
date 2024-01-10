@@ -67,5 +67,8 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-doumcode" /><!-- 도움코드 쉬운예 DoumCode 데이터홍교수 -->
 <MyYouTubeItems jsonName="yu-_wy_choi" /><!-- 최원영 -->
 <MyYouTubeItems jsonName="yu-MargaritKyurkchyan" /><!-- Margarit Kyurkchyan -->
+<MyYouTubeItems jsonName="yu-allmdev" /><!-- allmnet의 Python 개발 채널 -->
+<MyYouTubeItems jsonName="yu-icurfer" /><!-- icurfer -->
+<MyYouTubeItems jsonName="yu-Tech2etc" /><!-- Tech2 etc -->
 
 <TagLinks />

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/DOqV0LGj1wmf6eCAW8JzO6uohemQ8o9Q9v3UVNIpI6IBghJbaf7Ipdghed0QGSVZ4uPpyqz15Cs=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-MFpKx5QdrY", "title": "Inserting Dynamic Tables (Repeating Sections) into Word Templates from Power Automate!" },
+    { "id": "cp3NqFoa1WM", "title": "How to Create a Pop Up in a Model Driven App with the 'Confirm' PowerFX function!" },
+    { "id": "sbxnDqRxTPQ", "title": "The NEW Outlook Activity in Fabric Data Factory Pipelines" },
     { "id": "yKqJc5VLVx0", "title": "`COUNTIFS` Explained: Boost Your Excel Skills Now!" },
     { "id": "hvFLAXFORF8", "title": "How to Search and Filter with Canvas Apps" },
     { "id": "EHS_fyZlw1E", "title": "Project Desktop vs. Project Online vs. Project for the Web" },

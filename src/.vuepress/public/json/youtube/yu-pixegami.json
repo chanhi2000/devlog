@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7yFzWdOH5bJOh8eN4X9RU06i8iX9bH221STvFU1IMe5Q_S8-rCJ5heOtVR5AyhDoyqXeKZDd4GM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LQ5xtsp7gYo", "title": "Create a Custom AI Assistant + API in 10 Mins" },
     { "id": "9B9CdKANjnM", "title": "Python Dataclasses: Here's 7 Ways It Will Improve Your Code" },
     { "id": "D0D4Pa22iG0", "title": "Streamlit: The Fastest Way To Build Python Apps?" },
     { "id": "tcqEUSNCn8I", "title": "RAG + Langchain Python Project: Easy AI/Chat For Your Docs" }

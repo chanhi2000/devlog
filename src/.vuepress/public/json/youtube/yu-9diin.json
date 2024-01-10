@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/WVJZAjZwxJ-225NMqrz8FBuZaDZPOa0jYbF_HXVTcC9SKykGdAVgP1uCOKCL01xELI5uifT3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YKXJvduQHRE", "title": "[New 2024] Vue3 Tutorial - LifeCycle 실습 2️⃣  (feat. beforeMount & mounted)" },
+    { "id": "DCOiRys7q4Q", "title": "[New 2024] Vue3 Tutorial - LifeCycle 실습 1️⃣ (feat. beforeCreate & created)" },
+    { "id": "VG3OS99kIq4", "title": "[New 2024] Vue3 Tutorial - 핵심문법 1️⃣ (UserInterface편)" },
+    { "id": "g6TdmPEfXYU", "title": "[New 2024] Vue3 Tutorial - 선언적 렌더링 & 클래스와 스타일바인딩 실습" },
     { "id": "gkEULQdqn-Y", "title": "[New 2024] Vue3 Tutorial - LifeCycle 이론 2️⃣" },
     { "id": "wCyF_bU9X0I", "title": "[New 2024] Vue3 Tutorial - 개요 및 교육과정 소개" },
     { "id": "RwzcAbNHQY8", "title": "[New 2024] Vue3 Tutorial - Vue.js 개발스타일 (feat. 옵션API vs 컴포지션API)" },

@@ -20,9 +20,6 @@ meta:
 
 ---
 
-<MyYouTubeItems jsonName="yu-amigoscode" /><!-- Amigoscode -->
-<MyYouTubeItems jsonName="yu-Javatechie" /><!-- Java Techie -->
-<MyYouTubeItems jsonName="yu-TechPrimers" /><!-- Tech Primers -->
 <MyYouTubeItems jsonName="yu-MikesTechCorner" /><!-- Mike Møller Nielsen -->
 <MyYouTubeItems jsonName="yu-KeepToo" /><!-- KeepToo -->
 <MyYouTubeItems jsonName="yu-naveenautomationlabs" /><!-- Naveen AutomationLabs -->
@@ -109,7 +106,6 @@ meta:
 <MyYouTubeItems jsonName="yu-MasterNKS" /><!-- 남궁성의 정석코딩 -->
 <MyYouTubeItems jsonName="yu-user-tu5nq1er9t" /><!-- 구멍가게 코딩단 -->
 <MyYouTubeItems jsonName="yu-user-io1lo4zs8n" /><!-- 유영준 -->
-<MyYouTubeItems jsonName="yu-HelloWorldStudy" /><!-- HelloWorld -->
 <MyYouTubeItems jsonName="yu-devCJH" /><!-- devCJH -->
 <MyYouTubeItems jsonName="yu-user-kp6ez9ty9p" /><!-- 최현웅 -->
 <MyYouTubeItems jsonName="yu-Techtter" /><!-- Techtter -->
@@ -135,5 +131,6 @@ meta:
 <MyYouTubeItems jsonName="yu-davidford6890" /><!-- David Ford -->
 <MyYouTubeItems jsonName="yu-yhdev" /><!-- 김영한 -->
 <MyYouTubeItems jsonName="yu-seibertmedia" /><!-- SEIBERTMEDIA -->
+<MyYouTubeItems jsonName="yu-cloudtech5260" /><!-- CloudTech -->
 
 <TagLinks />

@@ -238,4 +238,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Toby Baloney
+
+- [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+
+---
+
 <TagLinks />

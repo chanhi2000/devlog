@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "b9HJmUEseL8", "title": "1시간만에 끝내는 spring boot REST API #5 (@GetMapping)" },
+    { "id": "8ZztuMZuqdU", "title": "1시간만에 끝내는 spring boot REST API #6 (@PostMapping)" },
+    { "id": "eKc2ILXYBMo", "title": "1시간만에 끝내는 spring boot REST API #7 (@Service)" },
+    { "id": "ws2FIv1pnfo", "title": "1시간만에 끝내는 spring boot REST API #8 (h2 DB config)" },
+    { "id": "dANb0Q0h5pg", "title": "1시간만에 끝내는 spring boot REST API #9 (mybatis)" },
+    { "id": "DFa-KjNyDRU", "title": "1시간만에 끝내는 spring boot REST API #10 (JPA)" },
+    { "id": "7ZklXpCvu0g", "title": "1시간만에 끝내는 spring boot REST API #11 (service summary)" },
+    { "id": "jWqarTxZK_g", "title": "1시간만에 끝내는 spring boot REST API #12 (summary)" },
     { "id": "B2Q-P2z4F-Y", "title": "1시간만에 끝내는 spring boot REST API #4 (lombok)" },
     { "id": "7mcOn5bDWsc", "title": "1시간만에 끝내는 spring boot REST API #3 (swagger)" },
     { "id": "oXKTHpjhdHQ", "title": "migration springboot 2.x to 3.x ( filter, interceptor, mybatis, jpa, swagger )" }, 

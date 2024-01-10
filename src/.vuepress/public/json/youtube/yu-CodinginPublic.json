@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/1iRoj5sQ45VNWnNDZXZlZBj3_w0vBlyqsydEhSPIa4FIFWvpnl47yFZ8p2MH0DjScQeAewbHCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Zxw_g7VKkc4", "title": "Live Code: Frontend Mentor FAQ Accordion" },
+    { "id": "BZbNKyEf2Ro", "title": "Live Code: How to work with data in a real project (travel blog!)" },
+    { "id": "AKfkfoY6r24", "title": "Full-Page Snap Sections in CSS" },
     { "id": "YwHJMlvZRCc", "title": "React Dialogs (the right way)" },
     { "id": "pAuTfg-3zv4", "title": "Live Code: Astro Site Rebuild (real coffee website!)" },
     { "id": "HyDwVN1AFwY", "title": "(FINALLY!) Email for Developers" },

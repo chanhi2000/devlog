@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Watch Later
 description: 📺Youtube > Watch Later
-tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@HoneyHome_Tip", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@ayshh", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
+tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@HoneyHome_Tip", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
 ---
 
 # {{ $frontmatter.title }} 관련

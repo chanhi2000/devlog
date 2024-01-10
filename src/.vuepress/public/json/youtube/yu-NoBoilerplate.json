@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Scg4nJh1PoRYi3ssv9SdoapYmo54RsxH2R3iFF2asnfy-dRYPrcpp4EdbYBNpnYlKlaS9heRLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bq9O99TgFv4", "title": "The Unreasonable Effectiveness of Linux Workstations" },
     { "id": "WgV6M1LyfNY", "title": "The Unreasonable Effectiveness Of Plain Text" },
     { "id": "v6RxJsk8otY", "title": "What Rust Discovered" },
     { "id": "dFkGNe4oaKk", "title": "Oxidise Your Life" }, 

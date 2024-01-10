@@ -14,5 +14,10 @@
     "desc": "Haskell Diagrams for Penrose Kite and Dart non-periodic tilings",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ambulancja/mariposa",
+    "desc": "A toy programming language with time travel",
+    "officialSite": "",
+    "topics": []
   }
 ]

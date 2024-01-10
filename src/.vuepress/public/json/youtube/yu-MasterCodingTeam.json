@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3Y3kClydwJk", "title": "Creating Hello World App in Android Studio - Learn Android from Zero #3" },
+    { "id": "D3Mg4fugixQ", "title": "Android Emulators [Android Virtual Devices] - Learn Android from Zero #2" },
+    { "id": "kwXKot5nKrw", "title": "Android Studio User Interface - Learn Android from Zero #4" },
+    { "id": "iks6w5iVfdo", "title": "Android Studio Code Editor - Learn Android from Zero #5" },
+    { "id": "KYS_Ob019pI", "title": "Android Studio Layout Editor - Learn Android from Zero #6" },
     { "id": "dLvtub8UjHQ", "title": "Learn Basic Java for Android Development - Learn Java from Scratch" },
     { "id": "tdljxEk1H2s", "title": "Android Studio Layout Editor - Learn Android #7" },
     { "id": "_mGR04bi03A", "title": "Creating Emulators in Android - Learn Android with Java #2" },

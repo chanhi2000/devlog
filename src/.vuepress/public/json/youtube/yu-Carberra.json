@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/uLOTY6G4KBKAyqaF33pRe7uzAB-C-l-JhMD9E1mtAUUfsoKzkq4D1DV2GAgvS27t8T_Ca7mLMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "P7poM21tmss", "title": "My AWFUL old code (Xmas special 2023)" },
     { "id": "Z3xZnhBQUzE", "title": "SPEED UP Python with caching" },
     { "id": "ukCTOb1e1PQ", "title": "Function overloading in Python (via dispatch)" },
     { "id": "Dm47ehLyPKo", "title": "Itertools' new batched function is AWESOME" },

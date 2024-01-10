@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/LBx-PFPevasWu6YfvRtaV6VDKalTt7lpHKixM9JyQ13iv7fPqoB_vgaBzYgqBeEte8xb5K0X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6ayk9SvHid4", "title": "Automatic Tests & Github Actions - Deployment with Django - Part 9" },
     { "id": "vhGT9DKu5jk", "title": "Clone Repo & Merge Conflict - Deployment with Django - Part 8" },
     { "id": "PWys7BPUWtE", "title": "Feature Toggle for CI/CD - Deployment with Django - Part 7" },
     { "id": "s_M9DnqHOlE", "title": "CI/CD pipeline & Cron Job - Deployment with Django - Part 6" },

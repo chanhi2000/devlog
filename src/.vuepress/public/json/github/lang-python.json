@@ -2686,7 +2686,7 @@
     "topics": ["ansible", "aws", "bare-metal", "gce", "hacktoberfest", "high-availability", "k8s-sig-cluster-lifecycle", "kubernetes", "kubernetes-cluster", "kubespray"]
   }, {
     "repo": "tconbeer/harlequin",
-    "desc": "The DuckDB IDE for Your Terminal.",
+    "desc": "The SQL IDE for Your Terminal.",
     "officialSite": "https://harlequin.sh",
     "topics": []
   }, {

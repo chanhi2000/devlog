@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/5Vysh9wfPY1Ux6_mLsLSTykPDQ6jTIjpPgfaB227RO1VBJbahAu6zzgghJALWeJ9dQ07hGR3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Yv0kUhNUpVM", "title": "What is `Intent.FLAG_ACTIVITY_NEW_TASK`  `Intent.FLAG_ACTIVITY_CLEAR_TASK`" },
     { "id": "y2Ai2yuTytk", "title": "`usesCleartextTraffic` شرح" },
     { "id": "V-x64KKAzbw", "title": "`allowBackup` شرح" },
     { "id": "jfiw81kyyTQ", "title": "Top 50 Android Interview Q & A  part-10" },

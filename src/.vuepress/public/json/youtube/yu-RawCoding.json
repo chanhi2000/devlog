@@ -6,9 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/OZ2fN7s5SUidsOvnpMKIAzOsrEqp0CYbU4cYS3cWdf87xk2YwZPRGCQ64SHT2EjbJRNiBT-e=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "v_W4Kb9DPes", "title": ".NET Developer tries Laravel PHP" },
+    { "id": "kUY4Z7YLTMU", "title": "Escape Tutorial Hell - a Demonstration" },
     { "id": "Wv9Eh1tey1U",  "title": "Docker Explained | ASP.NET Core Example" }, 
-    { "id": "il9gl8MH17s",  "title": "C# Async/Await/Task Explained (Deep Dive)" }
- 
+    { "id": "il9gl8MH17s",  "title": "C# Async/Await/Task Explained (Deep Dive)" } 
   ]
 }
 

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/sRbGB0rMtwOBAtcV9W27xW9QC8yV6irtym_tApvPV_Wl1TCNB7lr1fcnr6DabhC6_dbrVQ2E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yNDPlgHDWyo", "title": "인사할 시간도 없습니다. QA의 시간을 아껴줄 테스트 자동화 도입기 #우아콘2023 #우아한형제들" },
+    { "id": "ZF0nTCOeb14", "title": "우아한집 자동화 아들 #우아콘2023 #우아한형제들" },
+    { "id": "JH07ABaRPWo", "title": "ElastiCache 운영을 위한 우아한 가이드: 초고속 메모리 분석 툴 개발기와 레디스 운영 노하우 소개 #우아콘2023 #우아한형제들" },
+    { "id": "WCwPSVu8mH8", "title": "[우아한테크세미나] 1부: 대규모 트랜잭션을 처리하는 배민 주문시스템 규모에 따른 진화, 2부: 프론트엔드 개발의 미래, Module Federation의 적용" },
     { "id": "oyzWDtMquo4", "title": "[10분 테코톡] 오도의 정렬 알고리즘" },
     { "id": "Q1jZtN8oMnU", "title": "[10분 테코톡] 우가의 Virtual Thread" },
     { "id": "LQL8tXPaQCs", "title": "[10분 테코톡] 매튜의 선형 자료구조" },

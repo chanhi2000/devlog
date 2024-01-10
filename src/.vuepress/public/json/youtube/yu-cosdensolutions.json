@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "b__iJhc_Ads", "title": "Use AI to visualise React components" },
+    { "id": "VAYq2sXjj9g", "title": "I can't believe I wrote this! - Code Review" },
     { "id": "xAT47gcoMNs", "title": "The problem with `useEffect`" },
     { "id": "_ngCLZ5Iz-0", "title": "Zustand - Complete Tutorial" },
     { "id": "z697isTqXbQ", "title": "Impossible states in React" },

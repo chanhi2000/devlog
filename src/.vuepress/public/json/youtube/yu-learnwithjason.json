@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/JZav5tL14daax3jDES8yDJuU57aPKQYOlaIxHx0SpsL0rhfYOnDD5BUElK3UEGZnkgPkOtrv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "g0A4SH_IFP8", "title": "Angular is so back! with Mark Techson" },
+    { "id": "tmoQxA5wou0", "title": "How to use coding AI assistants effectively with Ado Kukic" },
+    { "id": "FrPA180AP6Q", "title": "What's new in Redux Toolkit 2.0? with Mark Erikson" },
+    { "id": "YI35QH7On4k", "title": "Defer and other reasons to try Angular again with Jessica Janiuk" },
+    { "id": "lZAbfJPOzwc", "title": "Learn With Jason Live, LIVE! The CSS-stravaganza! with Adam Argyle" },
+    { "id": "W-j2HH1GdjU", "title": "Qwik + Astro perf on perf on perf with Steve Sewell" },
     { "id": "6k5riCvX1Rk", "title": "Can I build a multiplayer real-time app in under 3 hours?" },
     { "id": "zR8dUhLPK80", "title": "4 Web Devs, 1 App Idea (Cassidy Williams, David Khourshid, Shaundai Person)" },
     { "id": "WAE_ZZZ1HOU", "title": "Can you actually own your identity and content on the web? (with Rizél Scarlett)" },

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/87820lQXu6MHYiTwY2dYbk8VWLgcidLabPghdX-7PQkGRK_f88T3JJLKqAxUNY8wOI2V0xJ-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PvIr26Ld9Rk", "title": "What Exactly Are Nodes In The JavaScript DOM?" },
+    { "id": "nYusxRidh2w", "title": "How to Add CSS to Your Web Components — JavaScript Tutorial" },
+    { "id": "20o8oWc9LOE", "title": "5 Chrome Dev Tools Every Web Developer Should Know" },
+    { "id": "ggtL1rxpx8c", "title": "How to Create a Styled Table with Web Components — JavaScript Tutorial" },
     { "id": "pSsPP1UhQzU", "title": "How to Create Reusable Buttons — HTML, CSS & JavaScript Tutorial" },
     { "id": "82EGTEqxiNA", "title": "How to Sync Local or Session Storage Across Tabs — JavaScript Tutorial" },
     { "id": "0v8oMKWP07w", "title": "How to Auto Refresh Parts of Your Website with JavaScript" },

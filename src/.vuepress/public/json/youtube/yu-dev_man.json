@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gYC7S6g9r3ETUp_ElnERHZCWBDBHqTShqHOLcTaWKpkhCHj3y9WCDrdnV73T8CzOR8keMEaQEA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QogXLq7Kc6I", "title": "플러터 프로젝트에서 퀄리티를 높힐 수 있는 초간단 위젯 10종" },
+    { "id": "4fJ-t5BDXQY", "title": "5일만에 만든 플러터 스네이크 게임! 제작 로그" },
     { "id": "6lCpBoPmDqw", "title": "Flutter로 사용자 경험을 높이는 애니메이션 효과 만들기" },
     { "id": "eXD99aDW7P8", "title": "플러터로 주식 백테스팅 앱 만들기! 7일 도전기 | Flutter 개발자의 퀀트 투자" }, 
     { "id": "GBVBLKESogU", "title": "[Flutter hooks] flutter_hooks 이게 뭐야? 뭐가 좋은거야?" },

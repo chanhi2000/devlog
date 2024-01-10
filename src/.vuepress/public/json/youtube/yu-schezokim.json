@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/cCAeKZfe8Yz9kR8UFXjWQBK7OocEhtsCL8g6m7e_J8eg6iJug9NW4TdAYDsVK1-M9fWgJAZ9zw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-yKuKaJ0TeU", "title": "[Armv7 익셉션] Armv7 익셉션(Exception)의 종류" },
+    { "id": "eGyEDdEP6dg", "title": "[Armv7 익셉션] Armv7-익셉션의 실행 흐름" },
+    { "id": "Th6mbUN_Lwo", "title": "[Armv7 익셉션]: 메모리 어보트 타입 익셉션(Exception)의 실행 흐름" },
+    { "id": "XnUfJLbu4hc", "title": "[리눅스 커널] crash utility:  크래시 덤프 분석 - 'log -m' 커널 로그 분석하기" },
+    { "id": "HBJzJJ250bM", "title": "[Arm 프로세서] Armv8: 익셉션의 종류와 분류 체계" },
     { "id": "CD2Fe8seeoA", "title": "[8회 한국 리눅스 커널 개발자 모임] 1. 커널 리포트(v5.19~v6.4)" },
     { "id": "JIOnqDu6cvE", "title": "[ENG] Good material to learn Linux BSP: Crash dump Analysis" }    
   ]

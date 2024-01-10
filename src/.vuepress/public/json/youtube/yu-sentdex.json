@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/AdsQ7Y_LmNBm5e_hTmyOT9bu562Dy2ZWE9M7dAomKAplyJZ1n8F1fFH_puhtnI2xnGcBcdeL=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_GQfj3jhXVM", "title": "Open Source AI Inference API w/ Together" },
     { "id": "kkTNg_UOCNE", "title": "Building an Open Assistant API" }
   ]
 }

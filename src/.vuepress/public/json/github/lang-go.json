@@ -1154,5 +1154,15 @@
     "desc": "Create Merkle trees from your directories.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "nsqio/nsq",
+    "desc": "A realtime distributed messaging platform",
+    "officialSite": "https://nsq.io",
+    "topics": ["distributed-systems", "go", "message-queue", "messaging", "nsq", "queue"]
+  }, {
+    "repo": "deepflowio/deepflow",
+    "desc": "Application Observability using eBPF",
+    "officialSite": "https://deepflow.io",
+    "topics": ["apm", "cloud-native", "distributed-tracing", "k8s", "kubernetes", "monitoring", "opentelemetry", "prometheus", "skywalking", "tracing", "wasm"]
   }
 ]

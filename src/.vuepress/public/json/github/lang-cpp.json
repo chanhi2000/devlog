@@ -1013,5 +1013,20 @@
     "desc": "A flexible, high-performance 3D simulator for Embodied AI research.",
     "officialSite": "https://aihabitat.org/",
     "topics": ["ai", "computer-vision", "cplusplus", "robotics", "sim2real", "simulator"]
+  }, {
+    "repo": "yuzu-emu/yuzu-android",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "linkdd/aitoolkit",
+    "desc": "Give a brain to your game's NPCs",
+    "officialSite": "https://linkdd.github.io/aitoolkit/",
+    "topics": ["ai", "behavior-tree", "cpp", "cpp23", "finite-state-machine", "gamedev", "gamedev-library", "goal-oriented-action-planning", "utility-ai"]
+  }, {
+    "repo": "gscept/nebula",
+    "desc": "Nebula is an open-source and free-to-use modern C++ game engine.",
+    "officialSite": "http://nebulatrifid.org/",
+    "topics": ["classless-api", "data-oriented-architecture", "game-engine", "game-engine-3d", "linux", "multithreading", "performance", "vulkan", "vulkan-game-engine", "windows"]
   }
 ]

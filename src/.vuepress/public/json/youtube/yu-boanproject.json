@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "flMgnpDatok", "title": "도커 컨테이너 환경 취약한 웹 서비스 설치 과정 파일 업로드 권한 부여" },
+    { "id": "EZiw4mhCG1Y", "title": "버프스위트 웹 시큐리티아카데미 clickjacking 공격 사례 실습" },
+    { "id": "EYQhGE5P0Sw", "title": "네이버 클라우드 학습하고 강의하며 발생한 비용 내역 #네이버클라우드 #cloud" },
+    { "id": "R-s34MM9h2M", "title": "IT 진로 - 국비 교육 과정을 들으면서 어떻게 복습하면 좋을까??!!" },
     { "id": "zml2HniF67A", "title": "통합 로그 ELK 8.11 - Elastic Search와 Kibana 설치 과정" },
     { "id": "pURQctPBgkA", "title": "보안 진로 - 잡코리아 구인 사례 EY 한영회계법인" },
     { "id": "O7P8vmbZQgQ", "title": "파이썬 Streamlit 가짜 데이터 생성기 자동화 with mogodb ##파이썬자동화 #python" },

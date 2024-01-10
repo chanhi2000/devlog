@@ -954,5 +954,15 @@
     "desc": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
     "officialSite": "https://quickwit.io",
     "topics": ["big-data", "cloud-native", "cloud-storage", "distributed-tracing", "log-management", "logs", "open-source", "rust", "search-engine", "tantivy"]
+  }, {
+    "repo": "rwf2/Rocket",
+    "desc": "A web framework for Rust.",
+    "officialSite": "https://rocket.rs",
+    "topics": ["framework", "rocket", "rust", "web", "web-development", "web-framework"]
+  }, {
+    "repo": "atuinsh/atuin",
+    "desc": "✨ Magical shell history",
+    "officialSite": "https://atuin.sh",
+    "topics": ["bash", "fish", "history", "rust", "shell", "zsh"]
   }
 ]

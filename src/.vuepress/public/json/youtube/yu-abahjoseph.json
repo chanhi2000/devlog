@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "onwfi9n8lxE", "title": "Golang Tutorial: Slices of Pointers vs Slices of Values Which is better?" },
+    { "id": "5gFcb_kGGHQ", "title": "Master Protocol Buffers in just 30 minutes! (Golang Tutorial)" },
+    { "id": "v2u5dQxdZPA", "title": "Master Testable Code In Golang (3 Pro Strategies)" },
     { "id": "j1CXoOQXbco", "title": "Golang Tutorial: Build A Beautiful CLI Todo App With Support for Piping" }
   ],
   "playlists": [

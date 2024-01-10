@@ -40,5 +40,6 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 <MyYouTubeItems jsonName="yu-InsideCloudAndSecurity" /><!-- Inside Cloud and Security -->
 <MyYouTubeItems jsonName="yu-FireEyeKorea" /><!-- FireEye Korea -->
 <MyYouTubeItems jsonName="yu-davidrupprecht7694" /><!-- David Rupprecht -->
+<MyYouTubeItems jsonName="yu-NicoKnowsTech" /><!-- Nico Knows Tech -->
 
 <TagLinks />

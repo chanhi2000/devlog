@@ -1988,5 +1988,10 @@
     "desc": "Blocks specific sites from appearing in Google search results",
     "officialSite": "https://iorate.github.io/ublacklist/",
     "topics": ["blocker", "chrome-extension", "firefox-extension", "google-search"]
+  }, {
+    "repo": "alibaba/lowcode-engine",
+    "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "officialSite": "https://lowcode-engine.cn",
+    "topics": ["alibaba", "low-code", "lowcode"]
   }
 ]
