@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cJk7WK4_iRZKQ4N5gWD06RoYbDg4V47eeEYrrwqWWpvKhsuux1XUuT-II_wk1K6LInYxmJsF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ICcCjGjsWTk", "title": "Supercharge your NextJS project with MDX" },
+    { "id": "j-wA6TKtT0Q", "title": "NextJS Server and Client Composition Patterns" },
+    { "id": "l18kJbSN2z8", "title": "Maintainer Productivity: Manage your GitHub Notifications like a PRO" },
+    { "id": "pV_OMNd1fkU", "title": "Contributing to Open Source the right way" },
     { "id": "dZXOlmNsd7o", "title": "NextJS to Mobile and Desktop App (PWA)" },
     { "id": "sanTIgySz9Y", "title": "Javascript, NextJS, React, HTML, CSS, Tailwind... CODING" },
     { "id": "njYz-QWmTBY", "title": "Customising your GitHub Feed" },

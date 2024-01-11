@@ -1028,5 +1028,15 @@
     "desc": "Nebula is an open-source and free-to-use modern C++ game engine.",
     "officialSite": "http://nebulatrifid.org/",
     "topics": ["classless-api", "data-oriented-architecture", "game-engine", "game-engine-3d", "linux", "multithreading", "performance", "vulkan", "vulkan-game-engine", "windows"]
+  }, {
+    "repo": "kroma-network/tachyon",
+    "desc": "Modular ZK(Zero Knowledge) backend accelerated by GPU",
+    "officialSite": "",
+    "topics": ["blockchain", "c-plus-plus", "cpp17", "cryptocurrency", "cryptography", "cuda", "kroma", "tachyon", "zero-knowledge", "zk"]
+  }, {
+    "repo": "helio-fm/helio-sequencer",
+    "desc": "One music sequencer for all major platforms, desktop and mobile",
+    "officialSite": "https://helio.fm",
+    "topics": ["audio-applications", "composition", "cross-platform", "microtonal", "midi", "music-composition", "music-sequencer", "music-tools", "sequencer", "vst"]
   }
 ]

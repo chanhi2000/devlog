@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/OdDTHsDJB9M4buzLDb5NgTzEAEsUbqXhXX0BkGzSEETxOAJ3eH2d4SECrJ8ZNjcUxLbIKlLdwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "akYKsGl1eTE", "title": "Kotlin Coroutines - `runBlocking` (Part 6)" },
+    { "id": "_U456QDx69Q", "title": "Kotlin Coroutines - Job & Cancelling (Part 7)" },
+    { "id": "nJGVAPrdYZc", "title": "Kotlin Coroutines - Async & Await (Last Part)" },
+    { "id": "wurR2PCNgxE", "title": "Kotlin Flows Tutorial - What is a Flow? #1" },
+    { "id": "AVyr39zzMaQ", "title": "Kotlin Flows Tutorial - Writing Flow Examples #2" },
+    { "id": "A8QisDjwnMw", "title": "Kotlin Flows Tutorial - CollectLatest #4" },
     { "id": "0X4HUL7BEO4", "title": "Kotlin Coroutines - How To Launch A Coroutine (Part 2)" },
     { "id": "koeOGwpBxXw", "title": "Kotlin Coroutines - What Are Coroutines? (Part 1)" },
     { "id": "28hIgbtrab4", "title": "Kotlin Coroutines - Changing Coroutines Thread (Part 4)" },

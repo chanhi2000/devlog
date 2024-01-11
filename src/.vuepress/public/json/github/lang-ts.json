@@ -21,8 +21,8 @@
     "topics": []
   }, {
     "repo": "mckaywrigley/chatbot-ui",
-    "desc": "A ChatGPT clone for running locally in your browser.",
-    "officialSite": "https://www.chatbotui.com",
+    "desc": "The open-source AI chat app for everyone.",
+    "officialSite": "https://chatbotui.com",
     "topics": []
   }, {
     "repo": "logspace-ai/langflow",
@@ -1993,5 +1993,20 @@
     "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "officialSite": "https://lowcode-engine.cn",
     "topics": ["alibaba", "low-code", "lowcode"]
-  }
+  }, {
+    "repo": "chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "officialSite": "https://chakra-ui.com",
+    "topics": ["a11y", "accessible", "chakra-ui", "dark-mode", "react", "react-components", "reactjs", "ui-components", "ui-library", "uikit", "wai-aria"]
+  }, {
+    "repo": "rauchg/next-ai-news",
+    "desc": "",
+    "officialSite": "https://next-ai-news.vercel.app",
+    "topics": []
+  }, {
+    "repo": "shoelace-style/shoelace",
+    "desc": "A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾",
+    "officialSite": "https://shoelace.style",
+    "topics": ["css", "designsystem", "hacktoberfest", "html", "javascript", "ui", "ux", "webcomponents"]
+  } 
 ]

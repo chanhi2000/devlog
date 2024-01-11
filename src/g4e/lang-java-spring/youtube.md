@@ -25,5 +25,7 @@ meta:
 <MyYouTubeItems jsonName="yu-TechPrimers" /><!-- Tech Primers -->
 <MyYouTubeItems jsonName="yu-HelloWorldStudy" /><!-- HelloWorld -->
 <MyYouTubeItems jsonName="yu-user-uc2wv8zw3h" /><!-- 전자정부 표준프레임워크 센터 -->
+<MyYouTubeItems jsonName="yu-smbdevops" /><!-- SMB DevOps -->
+<MyYouTubeItems jsonName="yu-SpringSourceDev" /><!-- SpringDeveloper -->
 
 <TagLinks />

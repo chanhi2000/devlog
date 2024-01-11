@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/4cfS36Ere2G2viZ1eUeJIny-Q-QZ6op3UnM3r0HkThZzZFLyzj69gWgfwoAAd6lNt6c43GLxVw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rwqPA4qi0H8", "title": "Installing Private GPT to interact with your own documents!!" },
+    { "id": "4Xr5qvyeu5E", "title": "Migrating Some Arm64 Dockers Containers to Another AMD64 Server" },
+    { "id": "B56A9SziLYU", "title": "Android 14 on Raspberry Pi 5 And it's GOOD!!!" },
+    { "id": "ZS1Hs42UCes", "title": "Zorin OS 17 The Long Awaited Update" },
     { "id": "C5lL-Eq4XuY", "title": "Checking out Nextcloud HUB 7.0 Latest Update!" },
     { "id": "zFhxSXzy1_8", "title": "Building Proxmox LXC Container from Scratch - FlareSolverr" },
     { "id": "0HxEPcS93KY", "title": "Real-time Generative AI #tech #ai #sdxl" },

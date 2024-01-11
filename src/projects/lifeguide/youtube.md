@@ -77,6 +77,7 @@ meta:
 <MyYouTubeItems jsonName="yu-ITs_okay_vv" /><!-- IT's okay 잇츠 오케이 -->
 <MyYouTubeItems jsonName="yu-yt_macho" /><!-- MACHO MAN(마초맨) -->
 <MyYouTubeItems jsonName="yu-OMG_electronics" /><!-- 오목교 전자상가 -->
+<MyYouTubeItems jsonName="yu-yourseat" /><!-- 너의자리 -->
+<MyYouTubeItems jsonName="yu-cucd_official" /><!-- 차업차득 -->
 
 <TagLinks />
-

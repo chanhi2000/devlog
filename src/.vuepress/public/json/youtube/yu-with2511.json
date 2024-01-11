@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/HZzqk9eqBjLin6-aiUgeAYlcrRyI10rgrhZJXy5-R03bn8xQ5y3ORLE7eSMoRFKYPvUImKGD0OI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0k_pOeVozMA", "title": "[이벤트마감] 마지막 부분에 이벤트 있어요. 쿠버네티스 어디까지 해야 할까? 클라우드 엔지니어 vs 백앤드 개발자" },
+    { "id": "wRP3e0rk34M", "title": "1강. 백앤드 개발 공부 함께 해요! 점프 투 더스프링 도서로 합니다!" },
+    { "id": "V3PpmHVG5UU", "title": "2강. 백앤드 개발 - 웹프로그램 / DB 저장 / Junit 《Do it! 점프 투 스프링 부트 3》도서로 공부 함께 해요!" },
+    { "id": "io2SVp64fq0", "title": "3시간만에 전문가들과 함께 무료로 학습하는 방법 🔥 (feat. AWS Builders Online)" },
     { "id": "IocNlhtl2k8", "title": "☆ 쉬움주의) 당신의 인생을 바꿀 가상머신과 컨테이너 차이 그리고 도커 쿠버네티스 까지" },
     { "id": "SIe_0G1zbj0", "title": "MSA는 서비스를 작게 쪼갠다고 끝이 아닙니다..." },
     { "id": "U55ex_ga7_k", "title": "개발자 중 누가 살아 남을까? 생존을 위해 반드시 생각해야 할 점" },

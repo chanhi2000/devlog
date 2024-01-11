@@ -212,9 +212,9 @@
     "officialSite": "https://ray.io"
   }, {
     "repo": "Azure/azure-sdk-for-python",
-    "desc": "This repository is for active development of the Azure SDK for Python.",
-    "topics": [],
-    "officialSite": "https://docs.microsoft.com/python/azure"
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "officialSite": "",
+    "topics": ["azure", "azure-sdk", "hacktoberfest", "python"]
   }, {
     "repo": "AnTi-anti/damai_ticket",
     "desc": "大麦网抢票脚本",
@@ -374,11 +374,6 @@
     "desc": "The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.",
     "topics": ["chatgpt", "chatgpt-plugins"],
     "officialSite": ""
-  }, {
-    "repo": "mckaywrigley/chatbot-ui",
-    "desc": "An open-source ChatGPT UI.",
-    "topics": [],
-    "officialSite": "https://www.chatbotui.com"
   }, {
     "repo": "databrickslabs/dolly",
     "desc": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",

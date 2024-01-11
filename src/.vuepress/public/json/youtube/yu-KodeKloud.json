@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/bPs5uF0FRRzntJdv5p3y5aNphwMROiIvaGdmhgPNKbK-sWHCtdeibmEQpB-JSlF7ohNkoS6uph4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9IdnbvLaGrQ", "title": "Exclusive Interview with Kunal Kushwaha, Founder of \"WeMakeDevs\" | KubeCon 2023 | KodeKloud" },
+    { "id": "K2plzc4vJvw", "title": "Mastering Arrays in Bash Scripting" },
+    { "id": "Cu8rbNPbALw", "title": "No-Code and Low-Code Tools in Software Development | DevOps | KodeKloud" },
     { "id": "RODxr1zlPrc", "title": "Interview with Bret Fisher - KubeCon 2023, Chicago" },
     { "id": "9KsOCK0-Sio", "title": "Containerizing ASP.NET Application | Docker Tutorial for Beginners | KodeKloud" },
     { "id": "nr4H3I_tZ0Q", "title": "OpenShift Elements Map 👇" },

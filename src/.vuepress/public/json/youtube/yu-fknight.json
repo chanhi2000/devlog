@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/AqxtaCQJVqERHpcnvpyeeIMPj_wp-lJzRyGoi-7bYVL50YDJ4_X5aMbGvzgjQrxzqyBQuUlmyEY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "S1nJPemTgzk", "title": "How Software Engineers SHOULD Write Code" },
     { "id": "UmeDkmGL62Y", "title": "The Dev Platform is ALMOST Done!! - Dev Startup Day 11" },
     { "id": "s2JSKp95Zaw", "title": "Dev Startup Day 12 - Merry Christmas!" },
     { "id": "c6vjFQBlxvY", "title": "The Making of VIM: The Most Beloved Text Editor of All Time" },
@@ -22,4 +23,3 @@
     { "id": "jArtVVbYGKk",  "title": "These AI TOOLS will help you CODE BETTER" } 
   ]
 }
-

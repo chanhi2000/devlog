@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "nodejs-foundation",
+    "name": "node.js",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRrvgVbjNagUFTr0wEnpkbdWrSSjpEo6pzC06shkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GqU5CPeaWqRzvLX2leGli4Ll7TClqQPnECNok_dfHpAYxklAnB49epsAu7zbd6_xmCETkQcmqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WTwi31mH8ec", "title": "2023-12-21 - Security Team meeting" }
+  ]
+}

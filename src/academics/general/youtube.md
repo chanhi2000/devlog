@@ -25,5 +25,6 @@ tags: ["youtube", "tutorial"]
 <MyYouTubeItems jsonName="yu-bizchoi" /><!-- 최대표TV -->
 <MyYouTubeItems jsonName="yu-PieterAbbeel" /><!-- Pieter Abbeel -->
 <MyYouTubeItems jsonName="yu-TheOrganicChemistryTutor" /><!-- The Organic Chemistry Tutor -->
+<MyYouTubeItems jsonName="yu-Domotro" /><!-- Domotro from Combo Class -->
 
 <TagLinks />

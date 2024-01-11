@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "CulF4YQt6zA", "title": "i wrote my own memory allocator to prove a point" },
+    { "id": "kdgq-OwsOs8", "title": "why does this array access work? (arrays in C are WEIRD)" },
     { "id": "-bJa4VEeQ2M", "title": "We Made Up. (Coding in a Random Language Every Day - Day 4)" },
     { "id": "RLrv32bsdN4", "title": "Lua's Arrays are Wrong and YOU KNOW IT. (Coding in a Random Language Every Day - Day 5)" },
     { "id": "G8S5u9ux_dY", "title": "C Programmer Learns Haskell and DOESN'T Cry? (Coding in a Random Language Every Day - Day 9)" },

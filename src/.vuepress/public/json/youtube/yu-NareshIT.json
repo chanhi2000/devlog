@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/mckDAqaGXh1nQIICPGODbFWM44y7IY9tGAT2LYbR_m2XNWCNNkHNdnD-AQDZrV7RFWEPWB73=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MnyCz2LDhXA", "title": "Azure Data Engineer with Data Factory | Naresh IT" },
+    { "id": "aEpBcJivmlI", "title": "Difference Between Stack and Heap Memory in Java | Mr. Kishan | Naresh IT" },
+    { "id": "8JfPm6TrNrU", "title": "Value Equal to Index Value in Python | Pyhton Coding Challenges | NareshIT" },
     { "id": "pIc67eMJJew", "title": "AWS Tutorial For Beginners |  AWS Cloud Sandbox | AWS Training | NareshIT" },
     { "id": "PTe5oaW83K8", "title": "Workshop on Power BI @ 9:00 AM (IST) By Mr.Vijay Rama Raju on 10th December." },
     { "id": "Y7PCTa0uZ9M", "title": "AWS Technical Essentials | Mr. Phani Krishna | Naresh IT" },

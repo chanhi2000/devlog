@@ -47,5 +47,6 @@ meta:
 <MyYouTubeItems jsonName="yu-mr.jeffastor9617" /><!-- Mr. Jeff Astor -->
 <MyYouTubeItems jsonName="yu-LearnEDU" /><!-- LearnEDU -->
 <MyYouTubeItems jsonName="yu-webdecoded" /><!-- webdecoded -->
+<MyYouTubeItems jsonName="yu-CodingLupine" /><!-- 코딩루팡 CodingLupine -->
 
 <TagLinks />

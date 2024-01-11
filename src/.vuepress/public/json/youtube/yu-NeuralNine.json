@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/yTobEswgs7QZ965j8Y7eY1apuSSraKqBexkja0yIvIvMmKbKh7YrEdNUoSqOye4rgqfu1DKcZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_3_wHKO_b-k", "title": "Ranger: The Linux File Manager For Vim Lovers" },
+    { "id": "xouh_K4WCNU", "title": "GUI Applications For All Platforms with Flet in Python" },
+    { "id": "pVGujarYk9w", "title": "Garbage Collection in Python: Speed Up Your Code" },
+    { "id": "y6TAIXHkO-A", "title": "ChatGPT Getting Worse: What You Can Do About It" },
+    { "id": "Hj09tFCdjSw", "title": "Build Android Apps with Flet in Python (APKs)" },
+    { "id": "3PdmLQIZpwE", "title": "Memory Profiling in Python" },
+    { "id": "RtnzfYezHjo", "title": "What are __slots__ in Python? Optimize Your Code!" },
     { "id": "PmIcyuPfbfk", "title": "Massive Python Speed-Up: Caching Across Sessions" },
     { "id": "s2sSsSH2clE", "title": "Structural Pattern Matching in Python: Not Your Average Switch-Case" },
     { "id": "GboDfGzkRsQ", "title": "Simple OCR in Python with easyocr" },

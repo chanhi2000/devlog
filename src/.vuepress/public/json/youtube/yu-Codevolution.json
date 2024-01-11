@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/RFyvcT19qPmSmKhAJvRY0bHld3w0fa_JalyHOKKpmlCGsEpWXi3ZQKJUB4qmcAB0K4j0vmvme9A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7HrOjvKIfRs", "title": "Next.js 14 Tutorial - 30 - Conditional Routes" },
+    { "id": "FKtw0dEb9wA", "title": "How to Master React in 2024 - React Roadmap" },
+    { "id": "25yY2RVRq_M", "title": "Next.js 14 Tutorial - 33 - Route Handlers" },
+    { "id": "b3ue9WL5fk8", "title": "Next.js 14 Tutorial - 34 - Handling GET Request" },
+    { "id": "pzPS7Fn-8tE", "title": "Next.js 14 Tutorial - 35 - Handling POST Request" },
+    { "id": "TGbC8F0gjC8", "title": "Next.js 14 Tutorial - 36 - Dynamic Route Handlers" },
     { "id": "PrxdiJrrrWs", "title": "Next.js 14 Tutorial - 23 - Loading UI" },
     { "id": "UcnCZ0lXZbo", "title": "Next.js 14 Tutorial - 24 - Error Handling" },
     { "id": "YG98I2Bj7qw", "title": "Next.js 14 Tutorial - 26 - Handling Errors in Nested Routes" },

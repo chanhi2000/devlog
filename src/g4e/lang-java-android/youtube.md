@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🤖Android > 📺Youtube
-tags: ["education", "youtube", "programming", "jdk", "java", "android", "@PhilippLackner", "@StevdzaSan", "@codingwithmitch", "@SimplifiedCoding", "@DouglasSchmidt", "@DelaroyStudios", "@wiseAss", "@tutorialsEU", "@MasterCodingTeam", "@JerryBanfield", "@AwsRh", "@eddydn71", "@vishalkamboj8955", "@DanielMalone", "@CodingwithT", "@sarimLife", "@odaymaleh", "@DroidconItaly", "@soja0524", "@BuildAppsWithPaulo", "@adamMc331", "@chiragkachhadiya", "@smartherd", "@antoniolg28", "@user-nl2vv9cj8d", "@mafiacodes", "@riggaroo", "@androidprocoder", "@howl_coding", "@AndroidCoding", "@genericapps", "@handstandtech", "@android-ios-tutorial", "@_software_engineering", "@kotlang", "@CharfaouiYounes", "@user-st5nc9ie7x", "@Dev2Devs", "@PRABEESHRK", "@fereratlus8705","@ahmed_guedmioui", "@DroidKnights", "@android_devs_academy", "@AndroidPolice", "@gdgosijek5328", "@LearningWorldz", "@ssaurel", "@destoffe", "@getteched"]
+tags: ["education", "youtube", "programming", "jdk", "java", "android", "@PhilippLackner", "@StevdzaSan", "@codingwithmitch", "@SimplifiedCoding", "@DouglasSchmidt", "@DelaroyStudios", "@wiseAss", "@tutorialsEU", "@MasterCodingTeam", "@JerryBanfield", "@AwsRh", "@eddydn71", "@vishalkamboj8955", "@DanielMalone", "@CodingwithT", "@sarimLife", "@odaymaleh", "@DroidconItaly", "@soja0524", "@BuildAppsWithPaulo", "@adamMc331", "@chiragkachhadiya", "@smartherd", "@antoniolg28", "@user-nl2vv9cj8d", "@mafiacodes", "@riggaroo", "@androidprocoder", "@howl_coding", "@AndroidCoding", "@genericapps", "@handstandtech", "@android-ios-tutorial", "@_software_engineering", "@kotlang", "@CharfaouiYounes", "@user-st5nc9ie7x", "@Dev2Devs", "@PRABEESHRK", "@FererAtlus","@ahmed_guedmioui", "@DroidKnights", "@android_devs_academy", "@AndroidPolice", "@gdgosijek5328", "@LearningWorldz", "@ssaurel", "@destoffe", "@getteched"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -52,7 +52,7 @@ tags: ["education", "youtube", "programming", "jdk", "java", "android", "@Philip
 <MyYouTubeItems jsonName="yu-user-st5nc9ie7x" /><!-- 슬기로운코딩생활 -->
 <MyYouTubeItems jsonName="yu-Dev2Devs" /><!-- Dev2Devs -->
 <MyYouTubeItems jsonName="yu-PRABEESHRK" /><!-- PRABEESH R K -->
-<MyYouTubeItems jsonName="yu-fereratlus8705"/><!-- Ferer Atlus -->
+<MyYouTubeItems jsonName="yu-FererAtlus"/><!-- Ferer Atlus -->
 <MyYouTubeItems jsonName="yu-ahmed_guedmioui" /><!-- Ahmed Guedmioui -->
 <MyYouTubeItems jsonName="yu-DroidKnights" /><!-- DroidKnights -->
 <MyYouTubeItems jsonName="yu-android_devs_academy" /><!-- Android Devs Academy -->

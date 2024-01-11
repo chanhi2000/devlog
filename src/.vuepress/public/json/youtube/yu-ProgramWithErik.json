@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/qwaYLUAbBeIcDmBR0G-k6p2v-fFgTPLxFJFPHAH--LQ16HaXI_GstOzSYcKMGGmDviHcsOEB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wcSMnICY-_8", "title": "How To Create A Full Stack Typesafe App With No Knowledge! Using AWS Gen2 and Next.js 14!" },
+    { "id": "xLFb8CP7osM", "title": "Is Vue 3.4 Update Worth Upgrading For? A look into the new updates for Vue." },
+    { "id": "MOeL0cKy7-Q", "title": "Add A Github Login To Your App The CORRECT Way: Everything You Need To Know" },
+    { "id": "fmQ6hUvTcRE", "title": "This Vue Tailwind Component Library Might Be The Best I've Seen..." },
     { "id": "3v3Mhql630g", "title": "How To Host Your Next.js 14 SSR Website using AWS Amplify Hosting! (Multiple Subdomains too)" },
     { "id": "IDMBVMRoJR8", "title": "Nuxt Server Components Explained (With New Updates!)!" }, 
     { "id": "SDbWc_i8n-0", "title": "My Favorite And Fastest Way To Deploy Next.js/Vue.js Apps (Super Easy!)" },

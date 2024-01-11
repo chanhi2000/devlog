@@ -175,5 +175,10 @@
     "desc": "Free and open source manga reader for Android.",
     "officialSite": "https://tachiyomi.org/",
     "topics": ["android", "kotlin", "manga"]
+  }, {
+    "repo": "ThePBone/tachiyomi-extensions-revived",
+    "desc": "Revival of removed source extensions for the Tachiyomi app.",
+    "officialSite": "",
+    "topics": ["manga", "mangadex", "tachiyomi", "tachiyomi-extensions"]
   }
 ]

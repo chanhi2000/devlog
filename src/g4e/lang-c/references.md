@@ -163,6 +163,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## sillycross
+
+- [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

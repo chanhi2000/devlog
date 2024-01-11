@@ -134,4 +134,8 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 ---
 
+## Graham King
+
+- [`epoll`: The API that powers the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet)
+
 <TagLinks />
