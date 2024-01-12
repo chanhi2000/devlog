@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "7USjwMtq03k", "title": "50분간 코딩 시식 【 내일은 파이썬 】" },
+    { "id": "SCIJ0curMGA", "title": "몰라도 문제는 없지만" },
+    { "id": "15gzcdmSnE4", "title": "내 깃허브에 한 번쯤 쓰면 고수같음" },
     { "id": "6s69XY025MU", "title": "Attention/Transformer 시각화로 설명" },
     { "id": "5dm7GVsZJLw", "title": "' 분명히 함정이긴 한데.. '" },
     { "id": "JST1ZumvUQM", "title": "Attention과 Transformer 차이?" },

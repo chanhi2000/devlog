@@ -79,5 +79,8 @@ meta:
 <MyYouTubeItems jsonName="yu-OMG_electronics" /><!-- 오목교 전자상가 -->
 <MyYouTubeItems jsonName="yu-yourseat" /><!-- 너의자리 -->
 <MyYouTubeItems jsonName="yu-cucd_official" /><!-- 차업차득 -->
+<MyYouTubeItems jsonName="yu-yk_roadking" /><!-- 도로왕 김지훈 변호사 -->
+<MyYouTubeItems jsonName="yu-user-sz5tm2cp7v" /><!-- 경제인회계인 -->
+<MyYouTubeItems jsonName="yu-SMGI" /><!-- 사물궁이 잡학지식 -->
 
 <TagLinks />

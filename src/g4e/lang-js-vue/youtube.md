@@ -32,5 +32,6 @@ meta:
 <MyYouTubeItems jsonName="yu-TheEarthIsSquare" /><!-- The Earth Is Square -->
 <MyYouTubeItems jsonName="yu-WatchandLearnTutorials" /><!-- Watch and Learn -->
 <MyYouTubeItems jsonName="yu-edwardwardell-yerburgh378" /><!-- Edward Wardell-Yerburgh -->
+<MyYouTubeItems jsonName="yu-VueMastery" /><!-- Vue Mastery -->
 
 <TagLinks />

@@ -2,10 +2,16 @@
   "channel": {
     "id": "alohaclass8075",
     "name": "ALOHA CLASS",
-    "profile": "https://yt3.googleusercontent.com/ZqxQ4vK8WUa2P_-QMicW8c5VehlAwXsS2bsqfcTIK7mXc-_gLqYbKaEwD5haUkKROyBdPGn-AA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/JAOdwMIQw77zEUEwlsbP3YUodhPGKN1Q-QElKqNR8lEC5Gsvg8D7NSyr1xmN-f1CEZgGHE_a=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/TYROh4BHP0ZrZ6RaONrymxs6vHzIzs2rdY5uVbQ6hRD03bn04OjwuskTkoObJHnptx0jp3Tm=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iQgW2TDzd2Mjric9FO46VRbknftDm1XO7b9MpQVTNMDdh8h1rjTFlbQL9g3LpZmfTX0lzRwL1w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ho2pNTwbcII", "title": "Flutter - 레이아웃 위젯" },
+    { "id": "HbqAIsVnHkI", "title": "Flutter - 기본위젯" },
+    { "id": "DujEGdlmYNw", "title": "Flutter - Widget & State" },
+    { "id": "iK4uFxv-J3A", "title": "Flutter - 입력 위젯" },
+    { "id": "GntVIXTgV1o", "title": "Flutter - 네비게이션 위젯" },
+    { "id": "sk7oSuea3JI", "title": "Flutter 플러터 개발환경 설치 - How to develop Flutter apps in Visual Studio Code" },
     { "id": "ffnR3e1J3ig", "title": "React x JWT x Spring Security 1 - 라이브러리 - [로그인 & 회원가입]" },
     { "id": "RuET5y-sfIk", "title": "React x JWT x Spring Security 2 - context, 로그인,회원가입 UI - [로그인 & 회원가입]" },
     { "id": "Un0kbPAR1PM", "title": "React x JWT x Spring Security 3 - axios - [로그인 & 회원가입]" },

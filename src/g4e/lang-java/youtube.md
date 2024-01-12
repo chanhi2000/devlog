@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: ☕️Java > 📺Youtube
-tags: ["java", "jdk", "youtube"]
+tags: ["java", "jdk", "youtube", "@MikesTechCorner", "@KeepToo", "@naveenautomationlabs", "@BoualiAli", "@java0405", "@freeleckor", "@KenuHeo", "@JavaGuides", "@RamNJava", "@user-jn1ly6wf9q", "@ResoCoder", "@discospiff", "@DailyCodeBuffer", "@DanVega", "@codefarm0", "@user-ej5rc3gi3p", "@tookootek", "@keesun.b", "@ntigo", "@javajigi", "@tobyspring", "@rabisankarpodder7839", "@GainJavaKnowledge", "@infybuzz", "@java", "@namoosori", "@metacoding", "@DataStaxDevs", "@javaforengineersYT", "@HelloCodepur", "@SeleniumExpress", "@in28minutes", "@priyatalkstech6534", "@aptkode", "@fosdemtalks", "@GenuineCoder", "@alexlorenlee", "@1BestCsharpblog", "@RomanianCoder", "@szLynAs", "@DefogTech", "@omerjava", "@SergeyKargopolov", "@SiliconBrighton", "@trustinlee", "@PhilipStarritt", "@juglodz", "@MVPJava", "@codingsaint", "@SumeetMaharjan", "@oracledevs", "@varuncbv", "@thenishkhandk", "@CodeJava", "@DevLanding", "@KT-cq2ph", "@arahansame9320", "@amilacjay", "@ProgrammerZamanNow", "@jj362choi", "@KotlinHyderabad", "@gamefromscratch", "@GiuseppeScaramuzzino", "@JavaInUse", "@ProgrammingTechie", "@Touchlab", "@atl.academy", "@springcampkr", "@WhizdomTrainings01", "@SivaReddyJavaTechie", "@patrickwashingtondc", "@javasoul4367", "@NareshIT", "@icttrainer6889", "@newlec1", "@sangmessi727", "@loianegroner", "@microserviceslab5515", "@xxxjjhhh", "@hancoding", "@around.hub.studio", "@SagguUK", "@MasterNKS", "@user-tu5nq1er9t", "@user-io1lo4zs8n", "@devCJH", "@user-kp6ez9ty9p", "@Techtter", "@ithotgi", "@user-ht2jq8bg9b", "@devtiro", "@SpringIOConference", "@CodeWisTechnologies", "@hobbyMett", "@ssap-dba", "@VickingDev", "@ringring_creator", "@TheTestingAcademy", "@puneethkumarnarasimhaiah5092", "@shadsluiter", "@DeveloperVoices", "@nullistp4065", "@KyounRrock", "@IT-sm6mq", "@BusinessAndTech", "@surendranvelath4355", "@davidford6890", "@yhdev", "@seibertmedia", "@cloudtech5260"]
 meta:
   - property: og:title
     content: 📺Youtube
@@ -55,7 +55,6 @@ meta:
 <MyYouTubeItems jsonName="yu-priyatalkstech6534" /><!-- Priya Talks Tech -->
 <MyYouTubeItems jsonName="yu-aptkode" /><!-- aptkode -->
 <MyYouTubeItems jsonName="yu-fosdemtalks" /><!-- FOSDEM -->
-<MyYouTubeItems jsonName="yu-Java.Brains" /><!-- Java Brains -->
 <MyYouTubeItems jsonName="yu-GenuineCoder" /><!-- Genuine Coder -->
 <MyYouTubeItems jsonName="yu-alexlorenlee" /><!-- Alex Lee -->
 <MyYouTubeItems jsonName="yu-1BestCsharpblog" /><!-- 1BestCsharp blog -->

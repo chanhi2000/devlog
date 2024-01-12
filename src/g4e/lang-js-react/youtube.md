@@ -48,5 +48,7 @@ meta:
 <MyYouTubeItems jsonName="yu-LearnEDU" /><!-- LearnEDU -->
 <MyYouTubeItems jsonName="yu-webdecoded" /><!-- webdecoded -->
 <MyYouTubeItems jsonName="yu-CodingLupine" /><!-- 코딩루팡 CodingLupine -->
+<MyYouTubeItems jsonName="yu-CodeRadiance" /><!-- Code Radiance -->
+<MyYouTubeItems jsonName="yu-IndianCoders" /><!-- Indian Coders -->
 
 <TagLinks />

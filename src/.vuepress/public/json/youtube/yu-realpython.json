@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/8PIT7olkpQgEJFD10EkVlpvn_DRXtLsce_PSV70v7Gz2CxzLihyoM1J1Qd6nQg4_Gg1lRbat0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DwKUeba10u8", "title": "2023 Real Python Tutorial & Video Course Wrap-Up  | Real Python Podcast #185" },
+    { "id": "00fMyoSLKek", "title": "Using urllib to Make a HTTP Request With Python" },
+    { "id": "QNT8UCCiv7I", "title": "Exploring Python in Excel | Real Python Podcast #186" },
     { "id": "8AThUuVJ-2Q", "title": "String Slicing and Concatenation Practice: Python Basics Exercises" },
     { "id": "rwql5rWoFoI", "title": "PyCoder's Weekly 2023 Wrap Up | Real Python Podcast #184" },
     { "id": "J6mVoLXXXs8", "title": "Files and Filenames Practice: Python Basics Exercises" },

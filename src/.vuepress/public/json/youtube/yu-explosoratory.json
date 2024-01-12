@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "BQ7iXKLqgHQ", "title": "[ FLUTTER  10분 ] 카카오 Login 연동하기 (ios , 안드로이드 테스트)" },
+    { "id": "HZnuhshghuA", "title": "[ FLUTTER  10분 ] 카카오 Login 파이어베이스 연동하기 (openID사용)" },
     { "id": "Q7s0ZPtpUrk", "title": "[ FLUTTER  5분 ]플러터 아이콘 설정" },
     { "id": "2r7f5u5gOtA", "title": "[ FLUTTER  설명 ] 안드로이드 구글 플레이 콘솔 분석" },
     { "id": "gu8dvIFC0aQ", "title": "[ FLUTTER  10분 ] 앱출시하기 안드로이드 (3/3)" }

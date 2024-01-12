@@ -694,5 +694,25 @@
     "desc": "A Mode 7 library for Playdate.",
     "officialSite": "",
     "topics": ["mode7", "playdate"]
+  }, {
+    "repo": "mineek/Serotonin",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "lizongying/my-tv",
+    "desc": "安卓电视直播软件，内置直播源",
+    "officialSite": "",
+    "topics": ["my-tv", "mytv", "tv"]
+  }, {
+    "repo": "u-boot/u-boot",
+    "desc": "\"Das U-Boot\" Source Tree",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "warmcat/libwebsockets",
+    "desc": "canonical libwebsockets.org networking library",
+    "officialSite": "https://libwebsockets.org",
+    "topics": ["c", "c-library", "client-server", "embeddable", "freertos", "http2", "libev", "libevent", "libuv", "libwebsockets", "lightweight", "lws", "portable-library", "sshd", "websockets"]
   }
 ]

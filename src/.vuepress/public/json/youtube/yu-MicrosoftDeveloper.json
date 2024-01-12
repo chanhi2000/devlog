@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/cSZKXxKMITZNPTT09ozaxbbc6o52JRsFbir4RhQgnSsCsGuA22BJcnNB_f64H9xm9Vb5e6HSBrg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wziVilUnDqM", "title": "A new way for automatic updates with SQL Server on Azure VM | Data Exposed" },
+    { "id": "UvIF4lZuBQk", "title": "Armchair Architects: LLMs & Vector Databases (Part 2)" },
+    { "id": "voFjY-bb4J0", "title": "What's new in security for Azure SQL and SQL Server | Data Exposed" },
+    { "id": "J7rSIu1br9M", "title": "Power Platform CLI Exposed: Authentication" },
+    { "id": "-w7J7jXg-CA", "title": "Mr. Maeda's Cozy AI Kitchen: Secure Insights with Tracy Reinhold" },
+    { "id": "f98NDqKQRbs", "title": "Get your app & APIs on Kubernetes fast with Draft" },
     { "id": "ECFNyVUJ8dY", "title": "Elevate your document management with Azure AI Document Intelligence" },
     { "id": "E9EafnsThEU", "title": "Azure SQL DB High Availability & Disaster Recovery overview | Data Exposed" },
     { "id": "MdPTekwIAFE", "title": "What's in Windows Terminal 1.19 Preview" },

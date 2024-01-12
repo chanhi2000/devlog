@@ -180,5 +180,15 @@
     "desc": "Revival of removed source extensions for the Tachiyomi app.",
     "officialSite": "",
     "topics": ["manga", "mangadex", "tachiyomi", "tachiyomi-extensions"]
+  }, {
+    "repo": "keiyoushi/extensions-source",
+    "desc": "Source code of the extensions for the Tachiyomi app.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "keiyoushi/extensions",
+    "desc": "Source extensions for the Tachiyomi app.",
+    "officialSite": "https://keiyoushi.github.io/extensions/",
+    "topics": []
   }
 ]

@@ -68,11 +68,15 @@ deleteWatchLater();
 1. move to any channel `/@<CHANNEL_NAME>`
 2. Paste the code to the console
 
+
+
+
 ```js
-const channelId = document.querySelector('.meta-item.ytd-c4-tabbed-header-renderer yt-formatted-string').innerHTML.replace('@', '')
-const channelName = document.querySelector('.ytd-channel-name yt-formatted-string').innerHTML
-const profileImg = document.querySelector('#channel-header-container img').src
-const bannerImg = getComputedStyle(document.querySelector('ytd-c4-tabbed-header-renderer')).getPropertyValue('--yt-channel-banner').replace('url(', '').replace(')', '');
+const channelId = document.querySelector('span.yt-core-attributed-string.yt-content-metadata-view-model-wiz__metadata-text.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string--link-inherit-color').innerHTML.replace('@', '')
+const channelNameTag = document.querySelector('h1 span.yt-core-attributed-string.yt-core-attributed-string--white-space-pre-wrap').innerHTML
+const channelName = (channelNameTag.match(/^(.*?)<span/g) == null) ? channelNameTag : channelNameTag.match(/^(.*?)<span/g)[0].replace('<span', '')
+const profileImg = document.querySelector('img.yt-spec-avatar-shape__image.yt-core-image.yt-core-image--loaded').src
+const bannerImg = document.querySelector('yt-image-banner-view-model .yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded')?.src ?? '';
 
 const o = {
   channel: {

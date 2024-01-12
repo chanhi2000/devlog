@@ -2,8 +2,8 @@
   "channel": {
     "id": "runbuild",
     "name": "런빌드",
-    "profile": "https://yt3.googleusercontent.com/_kI31j9ctRymMpUaEgE_eTRL14sYy2KJJKX4D6pURdy8caFkSBFANwYqu7U4BuC5-2GlTtBolQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/l3YGYvTBnq8x8LkB7d3FLN1tk-tnvaWc-16SzWB-LMiMjZZ1k5hLT51us9VGXTmnDpvHb_aunsQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/7Wr6jqPpO96JPddP5IYKrqPNAIUqKBF_suXbrIHYT-ycFE6pcsf4YqSTtNtviViL4ZnO2I1HRA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YkNo71RpLCwbmtYTsP1olfL13eAbyqqT7mxe1OV4NB63YCs9Rb6CYKj6_ZgonN49LMi9HYcrk6U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "rTT2UNA69-Q", "title": "챗GPT+구글 제미나이(Gemini) 콜라보로 웹앱 제작 방법 - Google Gemini basics and how to use it to create web apps" },

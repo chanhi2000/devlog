@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/S-p3mv0ByaIIwWXygnf8EIwz-1UBcj4eeUkUt7DX7BEblXph8mW8aIsdnZBxR4d38TpNFu49mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lL_60Dh9bdg", "title": "Use gradients in your UI | .NET MAUI Minutes" },
+    { "id": "4pqHLyhnuUY", "title": "Welcome to System.Text.Json - How to read & write .NET objects as JSON" },
+    { "id": "ZyLkKI2Ait4", "title": "Reading Invalid JSON with System.Text.Json" },
+    { "id": "oYgGdF1pd6E", "title": "Burke Learns Blazor - Handling personal lists for logged in users" },
+    { "id": "bCNX46WLbZk", "title": "ASP.NET Community Standup - Tooling for modernizing .NET applications" },
+    { "id": "sC2yYhEblcQ", "title": "Intro to Visual Studio Code | .NET MAUI Minutes" },
+    { "id": "pOeT1otTi4M", "title": "On .NET Live - Effortless .NET updates with GitHub actions" },
+    { "id": "YqnRliCeoaQ", "title": "Handling Missing Members when Reading .NET Objects" },
+    { "id": "YfIM-gfJe4c", "title": ".NET Data Community Standup - Database concurrency and EF Core" },
+    { "id": "bS0DaXeskhM", "title": "Languages & Runtime Community Standup - Everyday C#: The subset of C# to learn first" },
+    { "id": "Gwegwm1tXmI", "title": "Customizing property names & values when reading .NET objects as JSON" },
     { "id": "PopAfba9QXk", "title": "Burke Learns Blazor - OpenGraph and maybe My Links page!" },
     { "id": "UY4Br23k1jQ", "title": "Burke Learns Blazor - Global HTTP Handling" },
     { "id": "BRaltelZt6U", "title": "Build your own course assistant with AI" },

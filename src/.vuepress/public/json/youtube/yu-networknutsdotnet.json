@@ -3,9 +3,10 @@
     "id": "networknutsdotnet",
     "name": "networknutsdotnet",
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO_gVJ6o_SdSg3i-17i2o2W0sFEocKeJPgDMr5pmQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/LNuW-WX_7pXlUGeVNZbekXyeAbnkQVIQoXZqveB0FtkpVtzJbzWtAJ3GjKkHHn00glZt6M3p-g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/pHXDa82R6O1ni_s7gslBsU6qjZtoQJczJckFdRfd_1OgCIV0CcouWMaRi5vBbh8o7JP9Svdj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DA6zQBlBs7Q", "title": "Validate Kubernetes YAML-Check kubernetes yaml & solve compliance issues with Polaris" },
     { "id": "n08Ii86aFMU", "title": "Kubernetes Priority Classes - Best way to guarantee resources to critical applications in production" }, 
     { "id": "y_dId6drpsw", "title": "Kubernetes Pod Priority Classes - Best way to run critical applications in production" }, 
     { "id": "ih95hxSeJnE", "title": "Why to use kubectl apply in production - kubectl create vs kubectl apply - CKA Training" },
@@ -20,4 +21,3 @@
     { "id": "1PWr6az9sM0", "title": "Docker Monitoring using CAdvisor" } 
   ]
 }
-

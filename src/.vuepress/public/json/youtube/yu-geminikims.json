@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "geminikims",
+    "name": "제미니의 개발실무",
+    "profile": "https://yt3.googleusercontent.com/n0zZcCqWxbak2jIlc_BynDzm3m71-_VuMmByRX6QCW3mf0OKKTAsU6MNvwswgcw8zjm47hNS2xc=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XTOcuqXgXGWFG9ukRxdPkFRK0-QcYaPQ1XnKe7nKdkO6y_9OKdpo0_-XxyGRk1fzUqrJfsnY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Zs4VYXudYIQ", "title": "레이어간 객체 변환 + 중요한 객체를 더 고민하자" },
+    { "id": "vgNHW_nb2mg", "title": "JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD" },
+    { "id": "4VWtTFUvS-o", "title": "JPA 연관 관계 전략!" },
+    { "id": "DcVsriwkqZM", "title": "백엔드 서버 로그 분산 추적!" },
+    { "id": "7oW3fnsMHPs", "title": "여러 도메인의 패키지 위치 + Package 와 Import 응집 느껴보기" },
+    { "id": "7oW3fnsMHPs", "title": "여러 도메인의 패키지 위치 + Package 와 Import 응집 느껴보기" },
+    { "id": "vgNHW_nb2mg", "title": "JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD" },
+    { "id": "YyWL4C2ogkE", "title": "패키지 이동으로 코드 느끼기!" },
+    { "id": "x1dTl0mrIgk", "title": "동료를 위한 PR & 커밋" },
+    { "id": "YdFYskYoQ-g", "title": "소프트웨어의 성장 과정" },
+    { "id": "Kx5vE4OVxSw", "title": "BoostAPI 의 Provider 알아보기 + 인증 분리/격리하기" }
+  ]
+}

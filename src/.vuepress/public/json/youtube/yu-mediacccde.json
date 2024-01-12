@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "AgC9OiFrIPk", "title": "37C3 - Back in the Driver's Seat: Recovering Critical Data from Tesla Autopilot Using Voltage Glitch" },
+    { "id": "mMZ-pbfjhLI", "title": "37C3 -  Hacking Neural Networks (deu)" },
+    { "id": "dIxJlxWlrhQ", "title": "37C3 -  Fortbildung Cyber-Astrologie & KI-Karma" },
     { "id": "avlo7ZzEaAc", "title": "Fooled by the Website Carbon Calculator" },
     { "id": "_mZddN0Up2o", "title": "`qaul` - Resilient Communication during Blackouts & Internet Shutdowns" },
     { "id": "HMivI2zm7N0", "title": "Meshenger" },

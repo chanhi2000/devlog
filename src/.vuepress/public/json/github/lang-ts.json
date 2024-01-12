@@ -2008,5 +2008,10 @@
     "desc": "A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾",
     "officialSite": "https://shoelace.style",
     "topics": ["css", "designsystem", "hacktoberfest", "html", "javascript", "ui", "ux", "webcomponents"]
-  } 
+  }, {
+    "repo": "Portkey-AI/gateway",
+    "desc": "A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.",
+    "officialSite": "https://portkey.ai/features/ai-gateway",
+    "topics": ["ai-gateway", "gateway", "generative-ai", "langchain", "llama-index", "llmops", "llms", "openai", "prompt-engineering", "router"]
+  }
 ]

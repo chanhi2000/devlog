@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/kwazP42mizQvwvPJxjdI4iCY1Z2q_N6496hL8fckp1YG8anSrHeYxZkIfFIztFwW-AEO_ZzxiQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MUO9VuhkiGk", "title": "언제가는 유명해질 프론트엔드 기술" },
+    { "id": "6T5fzTdG61k", "title": "프론트엔드 우대사항에 많이 보이는 Figma WHY?" },
+    { "id": "4h58OXv0CNg", "title": "요즘 핫한 UI 라이브러리" },
+    { "id": "m50bBNTnWSw", "title": "MySQL + Javascript ?????????" },
     { "id": "5u6LMequw0k", "title": "Tailwind 대체자?" },
     { "id": "ghuBV4f3UrI", "title": "드디어 나왔다 타입스크립트 이 기능!" },
     { "id": "vu717sGKUts", "title": "기업선택에 고민이 많으신가요?" },

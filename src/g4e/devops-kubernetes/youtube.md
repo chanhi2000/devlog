@@ -54,5 +54,6 @@ tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", 
 <MyYouTubeItems jsonName="yu-cloudchamp" /><!-- Cloud Champ -->
 <MyYouTubeItems jsonName="yu-highavailabilitydisasterre2273" /><!-- High Availability Disaster Recovery Virtual Group -->
 <MyYouTubeItems jsonName="yu-RobustPerception" /><!-- Robust Perception -->
+<MyYouTubeItems jsonName="yu-Bogdan_Stashchuk" /><!-- Bogdan Stashchuk -->
 
 <TagLinks />

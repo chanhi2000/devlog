@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/knZWtmFBCHXLGNhlaXU7NgZLLKWLE_8BBn-oATMTR0LuBnayGCAp9-zcuDPO3QT8S15ch54DEN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4rbkef88Z3w", "title": "RestClient를 시용해서 fluent하게 호출해봅시다" },
+    { "id": "ndiN3UXTozo", "title": "자 이제 DDD에게 작별인사를 해야될 때 인것 같습니다." },
+    { "id": "YDUE_V72O_4", "title": "Nest.js 저도 할 줄 알아요" },
+    { "id": "3qGkg0to0F4", "title": "Back Office에서 사용하는 Admin UI의 특성을 살펴봐요" },
     { "id": "0RyECSrkyOg", "title": "클린아키텍처를 위한 데이터 객체를 record로 표현하였습니다." },
     { "id": "qmzTj9otImU", "title": "docker compose support를 이용하면 개발할때 DB설정 안해도 됩니다." },
     { "id": "MX6SPD-x3rI", "title": "댓글 : 이벤트스토밍" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/13O07KG2UFJC3a5yol27ELNSNz8ddY88-_zeIid6ng2OR8emyDI9tfENIeDWoq_Pnur5W-BmIg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "D73-3nDtVBs", "title": "Exploring Animations in Jetpack Compose || Android || Kotlin" },
+    { "id": "YJZ-XqLbvwE", "title": "animate*AsState || Exploring Animations in Jetpack Compose || Android || Kotlin" },
     { "id": "K3PbisJtj-s", "title": "Snake Game Android App || Jetpack Compose || Canvas || #kotlin" },
     { "id": "0H4oW_PECGw", "title": "ROOM || #database || #android || #jetpackcompose || #kotlin || #sqlite" },
     { "id": "WSClX2zIu1A", "title": "#android #kotlin #coding #jetpackcompose" },

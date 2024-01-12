@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/nmteFIkACCgd-cGAHfbXe_iHlCbPEHg0DgeDy1JpvAkqv_NZQqZFIbvg-sgzlnGJIM3kvPQBQg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tE3uKdPd6tQ", "title": "CRUD Angular + Spring | 62: Migração para Standalone Components" },
+    { "id": "4onmPIRH1KM", "title": "CRUD Angular + Spring | 63: Novo Control Flow do Angular" },
+    { "id": "9MSa6KEEoN4", "title": "CRUD Angular + Spring | 64: Dicas de Estudos e Conclusão" },
     { "id": "XrGifTawp8Y", "title": "Estrutura de Dados com Java | Lista Encadeada | 09: Remover Elemento do Final da Lista" },
     { "id": "qwVfi1GUIXY", "title": "Estrutura de Dados com Java | Lista Encadeada | 10: Remover Elemento de qualquer posição" },
     { "id": "9rF_3CnSDoM", "title": "Estrutura de Dados com Java | Lista Encadeada | 07: Adicionar Elemento em qualquer posição da lista" },
@@ -18,5 +21,3 @@
     { "id": "RmmWVf7ZMzk", "title": "Sencha Open Tooling: Criando Applicações ExtJS com NPM" }
   ]
 }
-
-

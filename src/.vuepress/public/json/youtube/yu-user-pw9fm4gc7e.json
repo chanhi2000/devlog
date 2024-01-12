@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "user-pw9fm4gc7e",
+    "name": "코드없는 프로그래밍",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZREd6UVLRMOtCOwdWi85xI58kSiP6ruHowFFj5y=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/M30vSdRMXlcWgL4AooXvXsc_5BV7JMJr700DVlSzcY19KWecZodDlZxoujxOeleG4y5Z91kCLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GkBom4oqJag", "title": "의존성 주입, Dependency Injection" },
+    { "id": "34gBoeY62zE", "title": "딥러닝,  RNN. introduction" },
+    { "id": "kdSPHfAiAzI", "title": "딥러닝 RNN  구현, implementation" },
+    { "id": "J-6CqgtBX3g", "title": "RNN 딥러닝, classification" },
+    { "id": "MQsVDtBR924", "title": "딥러닝 RNN 기반 생성모델" }
+  ]
+}

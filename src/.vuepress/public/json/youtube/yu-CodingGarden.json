@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/NzV6mYZEMVUqiIieMb1cAqVohsXOpiMByt-M2bbhjJlvbLbBRZ4cQ1PmU-tM9msiTpA1NQtveg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Pvl95geT1Xw", "title": "Trying htmx | Try Day Friday Highlight" },
+    { "id": "O6QTHW05KB8", "title": "Setting up a Monorepo with nx | Maintenance Monday | Refactoring Twitch Emote Parser" },
+    { "id": "o00cHNIki5Y", "title": "Learning to Hack with Hack the Box Starting Point" },
+    { "id": "o00cHNIki5Y", "title": "Learning to Hack with Hack the Box Starting Point" },
+    { "id": "RLy-KJSyK4w", "title": "JavaScript Dev Learns Rust | Building a CLI tool with Rust and clap" },
+    { "id": "240QqnfskC4", "title": "What is XSS? | Web Security Wednesday" },
     { "id": "NtzpDJhDpfA", "title": "Working on listd | SvelteKit Full Stack App Build | Homepage actions | Video Page Styles | Day 25" },
     { "id": "utiEuIotBuw", "title": "Working on listd | SvelteKit App Build | Clickable Timestamps | YouTube Embed API | Day 26" },
     { "id": "mz0mvvOAsN4", "title": "Working on listd | SvelteKit App | Trying to setup test watching | Updating Homepage Styles | Day 24" },
@@ -25,6 +31,3 @@
     { "id": "lRE03MBZnuY", "title": "Vue.js: State Management, Component Hierarchy, Props and Vuex" }
   ]
 }
-
-
-

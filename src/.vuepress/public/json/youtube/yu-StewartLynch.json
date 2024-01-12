@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/2dUz1znn1GCW4QqA__t-1E14E9QWq2nwBtCxKvFtzV6naeAyOyTq6BgT_Ic7o53CXhVc9XP7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "58zVtGTHOFw", "title": "Dynamic Application Warning Alerts" },
+    { "id": "opFyA4EabWc", "title": "Git Introduction and Initialization" },
     { "id": "H5zvrFJMhuE", "title": "SwiftData   CloudKit" },
     { "id": "0hZxtIXmotw", "title": "SwiftData Storing Images and Bug Fixes" },
     { "id": "kbgNL7VrQPo", "title": "App Localizations" },

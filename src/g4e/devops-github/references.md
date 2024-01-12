@@ -45,4 +45,10 @@ tags: ["sh", "bash", "cli", "github", "github-action", "study"]
 
 ---
 
+## Alex Ellis' Blog
+
+- [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
+
+---
+
 <TagLinks />

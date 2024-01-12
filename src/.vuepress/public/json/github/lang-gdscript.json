@@ -24,5 +24,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "popcar2/GodotOS",
+    "desc": "An Operating System Interface made in Godot!",
+    "officialSite": "",
+    "topics": ["application", "godot-engine", "godot4", "interface"]
   }
 ]

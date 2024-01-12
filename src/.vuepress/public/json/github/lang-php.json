@@ -174,5 +174,10 @@
     "desc": "LinguaCafe is a self-hosted software that helps language learners read foreign languages.",
     "officialSite": "https://simjanos-dev.github.io/LinguaCafeHome/",
     "topics": ["language-learning", "self-hosted"]
+  }, {
+    "repo": "wallabag/wallabag",
+    "desc": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+    "officialSite": "https://wallabag.org",
+    "topics": ["hacktoberfest", "php", "read-it-later", "self-hosted", "symfony", "symfony-application", "wallabag"]
   }
 ]

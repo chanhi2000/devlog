@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/g7yzlWQ0s0eqcnU4f7u3tJ-78lgdabvm3q_XYnU5ij6KGewlMUyKT5SvPNTrG1djtP0_HV9_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1MTyCvS05V4", "title": "Next Auth V5 - Advanced Guide (2024)" },
     { "id": "a02JAryRPVU", "title": "Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL | Full Course 2023 | Part 1/2" },
     { "id": "nav55-4ISg4", "title": "Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL | Full Course 2023 | Part 2/2" },
     { "id": "pRybm9lXW2c", "title": "Fullstack Trello Clone: Next.js 14,  Server Actions, React, Prisma, Stripe, Tailwind, MySQL" },

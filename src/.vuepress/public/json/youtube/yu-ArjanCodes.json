@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/rkdheB1h77FSwF5kahUbGfh-BXlXKWX7KQ9wpuWFwLWAg8OxAd-Mt4ZKYfLCptNlTmLyZfOKVEA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MoqtsYLGCC4", "title": "An Introduction to Coding In Rust for Pythonistas" },
     { "id": "OPyoXx0yA0I", "title": "Requests vs Httpx vs Aiohttp | Which One to Pick?" },
     { "id": "WIxSLex_yI8", "title": "Can You Use the Meta Quest 3 for Coding?" },
     { "id": "5OzLrbk82zY", "title": "Deep Dive Into the State Design Pattern in Python" },

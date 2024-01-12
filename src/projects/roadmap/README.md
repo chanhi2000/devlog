@@ -74,11 +74,11 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 
 #### C1. `/crashcourse/swift-100-days-of-swift` 정리
 
-> [See README](/crashcourse/swift-100-days-of-swift/README.md)
+> [See README](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swift)
 
 #### C2. `/crashcourse/swift-100-days-of-swiftui` 정리
 
-> [See README](/crashcourse/swift-100-days-of-swiftui/README.md)
+> [See README](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swiftui)
 
 #### C3. `/crashcourse/swift-swiftui-by-example` 정리
 

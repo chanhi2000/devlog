@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "HF4twC0xf54", "title": "왜 fetch 함수는 프라미스를 두 번 사용할까?  | 자바스크립트 fetch 사용법" },
+    { "id": "aYNrHsf36Ww", "title": "HTTP 진행율은 어떻게 계산할수 있나요? | 자바스크립트 fetch 사용법" },
     { "id": "zA_YAuwPrcA", "title": "서버 자원을 보호하기 위한 서버와 브라우져 간의 약속, CORS" }
   ]
 }

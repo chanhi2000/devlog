@@ -3774,5 +3774,15 @@
     "desc": "A natural language interface for computers",
     "officialSite": "http://openinterpreter.com/",
     "topics": ["chatgpt", "gpt-4", "interpreter", "javascript", "nodejs", "python"]
+  }, {
+    "repo": "ProjectNUWA/DragNUWA",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "eschluntz/PytorchBridge",
+    "desc": "Designing bridge trusses with Pytorch autograd",
+    "officialSite": "",
+    "topics": []
   }
 ]

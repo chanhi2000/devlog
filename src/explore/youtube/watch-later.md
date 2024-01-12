@@ -62,15 +62,12 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 <MyYouTubeItems jsonName="yu-codingshrimp" /><!-- 코딩새우 -->
+<MyYouTubeItems jsonName="yu-masterbot" /><!-- 마스터봇 -->
 
 <TagLinks />
 
 [yu-linkedinlearning]: https://www.youtube.com/@linkedinlearning
-[yu-systems-w-jt]: https://www.youtube.com/@SystemsWithJT
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
-[yu-michael-cade]: https://www.youtube.com/@MichaelCade1
-[yu-IB9696]: https://www.youtube.com/@IB9696
-[yu-doctor-code]: https://www.youtube.com/@DoctorCode9
 [yu-rj-code-advance-en]: https://www.youtube.com/@RJCodeAdvanceEN
 [yu-user-fp8lc6ju1n]: https://www.youtube.com/@user-fp8lc6ju1n
 [yu-dev_jeongdaeri]: https://www.youtube.com/@dev_jeongdaeri
@@ -91,7 +88,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-user-nq5st4fy5n]: https://www.youtube.com/@user-nq5st4fy5n
 [yu-alexandrugutan7587]: https://www.youtube.com/@alexandrugutan7587
 [yu-wizcenter-seoul]: https://www.youtube.com/@WizcenterSeoul
-[yu-siva-reddy]: https://www.youtube.com/@SivaReddyJavaTechie
 [yu-na-nyun-jae]: https://www.youtube.com/@NaNyunJae
 [yu-code-w-steve]: https://www.youtube.com/@CodeWithSteve
 [yu-boston-react]: https://www.youtube.com/@bostonreact9402

@@ -27,5 +27,7 @@ meta:
 <MyYouTubeItems jsonName="yu-user-uc2wv8zw3h" /><!-- 전자정부 표준프레임워크 센터 -->
 <MyYouTubeItems jsonName="yu-smbdevops" /><!-- SMB DevOps -->
 <MyYouTubeItems jsonName="yu-SpringSourceDev" /><!-- SpringDeveloper -->
+<MyYouTubeItems jsonName="yu-Java.Brains" /><!-- Java Brains -->
+<MyYouTubeItems jsonName="yu-geminikims" /><!-- 제미니의 개발실무 -->
 
 <TagLinks />

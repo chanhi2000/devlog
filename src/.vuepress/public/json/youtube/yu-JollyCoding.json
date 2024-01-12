@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "20QbmIAiw2c", "title": "These TypeScript Tricks are POWERFUL" },
+    { "id": "mXziH-hQARs", "title": "STOP using useState - URL Search Params" },
+    { "id": "1VKEn4ZVcnk", "title": "Adobe's New Component Library, and Mine..." },
     { "id": "6bpNnI_UN5g", "title": "What are React Server Components?" },
     { "id": "GyRXwqeBcBw", "title": "Advent of TypeScript #typescript" },
     { "id": "E6QO7Yl98O8", "title": "The BEST UI Library Just Got Better!" },

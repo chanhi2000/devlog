@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "GarethPronovost",
+    "name": "GAP Consulting",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQNnd-G9r7XZ1F6sa23UtWH9VRdwIMzHUMuqKB6wg=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tKn_9knd2PZXq6wHqyqEX4kdRfV2Ekhbb_7DYthjRjxSoVKY3r-s04MAMAkumY98c81T4zLd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4YOs7m20zms", "title": "Learn how to use Airtable Automations in 60 seconds!" },
+    { "id": "XN8W7z9oARE", "title": "Airtable vs SmartSuite: 5 Reasons Airtable Dominates 💪" },
+    { "id": "4AjIIDaKkvI", "title": "🚨 New SmartSuite Feature: Gantt Chart 🚨" }
+  ]
+}

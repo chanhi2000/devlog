@@ -73,4 +73,16 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Airbyte
+
+- [A Guide to Logical Replication and CDC in PostgreSQL](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
+
+---
+
+## pganalyze
+
+- [Waiting for Postgres 17: Incremental base backups](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
+
+---
+
 <TagLinks />

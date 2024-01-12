@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rU_k6DISJI8", "title": "💻 Android Enters the AI Era, New JetBrains IDE & More - Philipp's Android News January 2024" },
+    { "id": "rLs-iUWtumE", "title": "Top 3 Secret Jetpack Compose Modifiers I Bet You Didn't Know" },
+    { "id": "D7ve1vJsqQ0", "title": "APIs in a nutshell" },
+    { "id": "rO0Re5X2GkE", "title": "The #1 Thing Android Developers Ignore When Testing Their App" },
+    { "id": "5fncGe_L1wk", "title": "Version Control in a Nutshell" },
+    { "id": "1iBcMHe29r0", "title": "The FASTEST Local Search - Introduction to AppSearch on Android" },
     { "id": "KmnEsiQdd0M", "title": "Do You Have to Learn Clean Architecture as a Beginner? - Android Development" },
     { "id": "i7PJwg0lrU0", "title": "I've Built an Android App With Google's New AI Gemini" },
     { "id": "s8h7GJTZa4E", "title": "Top 3 Hacks to Remove `LazyColumn` Lag in Jetpack Compose - Android Studio Tutorial" },

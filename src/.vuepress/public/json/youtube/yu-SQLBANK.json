@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/eODuAX5NCDXI4_YIffbxxak_vNx6FiIBFWSCq10ehvrFzkega1NDgH4aXbipUpOEGThtc4iG=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Jz9_Qm3FR4w", "title": "Talend API Tester로 일별 박스오피스 긁어오기" },
+    { "id": "yEInKgS7E4w", "title": "출발역 Json data▶▶정차역 CSV, Excel▶▶도착역 ERD&Tables" },
+    { "id": "jZRqPS2DZeI", "title": "JSON 데이터 파일을 Table로 변환하기 I" },
+    { "id": "BNKLg6hPpQ0", "title": "JSON 데이터 파일을 Table로 변환하기 II" },
+    { "id": "C892b7TSdvY", "title": "SQL만 사용해서 TABLE을 JSON으로 변환하기" }
   ],
   "playlists": [
     {

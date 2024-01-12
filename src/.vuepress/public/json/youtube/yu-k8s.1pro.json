@@ -2,8 +2,8 @@
   "channel": {
     "id": "k8s.1pro",
     "name": "1pro",
-    "profile": "https://yt3.googleusercontent.com/Z4a9pe1i4E_t8nrTLTiH5mTnvsKZXeS6PfhoRk5SXdIVZdBvUN-Ms0-bFnBBGCeeveQiwWcKJeY=s176-c-k-c0x00ffffff-no-rj",
-    "banner": ""
+    "profile": "https://yt3.googleusercontent.com/dukSm99-H3AeAscyejFk_KX4O3UDlkV-r95xsyDlqSgIJeyIMNGl7vcgDQ_tf4Cn6CInxSEpnA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1_EmJV2-mGM1OApZaWF_iGRQF_x7drzwrVpFun0YlHP3QwlvxwWXCWrUZwLhF6ymX4XSGBt3Goc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "cAJ76grsERg", "title": "[인프런] 대세는 쿠버네티스 [Helm편] - 배포 개요" },

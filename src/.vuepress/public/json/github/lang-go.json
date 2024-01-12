@@ -1146,7 +1146,7 @@
     "topics": ["community", "forum", "go", "golang", "hacktoberfest", "q-and-a", "question", "react", "typescript"]
   }, {
     "repo": "aaamoon/copilot-gpt4-service",
-    "desc": "Convert Github Copilot to ChatGPT, free to use the GPT-4 model",
+    "desc": "Convert Github Copilot to ChatGPT",
     "officialSite": "",
     "topics": ["chatgpt", "copilot", "gpt4", "openai"]
   }, {

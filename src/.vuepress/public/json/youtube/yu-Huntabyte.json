@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/h5Wmv5I8Q_hnpIOlrK1uB0Ct-lGktG_WmRcfovpV8aPdSMWqLTrIyPiGKurvrKWBgL76BMMc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LOOWFSRs5Bs", "title": "Let's Refactor svelte-sonner" },
+    { "id": "UhfWNINXn9g", "title": "Let's Refactor svelte-sonner" },
+    { "id": "2Cc_LC4rRqw", "title": "Porting Vaul to Svelte" },
+    { "id": "HQ9cjV7rVnM", "title": "Porting Vaul to Svelte" },
+    { "id": "LrzTcTboglc", "title": "Porting Vaul to Svelte" },
     { "id": "EyDV5XLfagg", "title": "An easy mistake to make with SvelteKit" },
     { "id": "B19DEGEclfk", "title": "I already love SvelteKit v2" },
     { "id": "vpTtsXBYqeo", "title": "🎄 Advent of Svelte 5 (Days 11+)" },

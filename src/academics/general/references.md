@@ -44,4 +44,10 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## Jonathan Warden's Blog
+
+- [Understanding Bridge-Based Ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
+
+---
+
 <TagLinks />

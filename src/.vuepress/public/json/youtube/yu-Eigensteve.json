@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/5MSB6WLem-_rt8-IiE1MBSw1NZnVtlNRZIIsv-6FX8q0486b5-zv3CNqAkRD8gDgvIlQDoiGEg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wvODQqb3D_8", "title": "Supervised & Unsupervised Machine Learning" },
+    { "id": "_56bfCu02ZE", "title": "A Neural Network Primer" },
     { "id": "MB6XGQWLV04", "title": "Fourier Series: Part 1" }
   ]
 }

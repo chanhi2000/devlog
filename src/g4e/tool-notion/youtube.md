@@ -15,6 +15,7 @@ tags:
 
 ---
 
+<MyYouTubeItems jsonName="yu-Notion" /><!-- Notion -->
 <MyYouTubeItems jsonName="yu-MariePoulin" /><!-- Marie Poulin -->
 <MyYouTubeItems jsonName="yu-RhettCoots" /><!-- Rhett Coots -->
 <MyYouTubeItems jsonName="yu-ThomasFrankExplains" /><!-- Thomas Frank Explains -->
@@ -29,5 +30,7 @@ tags:
 <MyYouTubeItems jsonName="yu-madame_choii" /><!-- 시간기획자 마담초이 -->
 <MyYouTubeItems jsonName="yu-DemetriPanici" /><!-- Demetri Panici - Productivity Coach -->
 <MyYouTubeItems jsonName="yu-warm_hearted_t" /><!-- 따뜻한 보건티 -->
+<MyYouTubeItems jsonName="yu-marcusstone6273" /><!-- Marcus Stone -->
+<MyYouTubeItems jsonName="yu-Bardeenai" /><!-- Bardeen -->
 
 <TagLinks />

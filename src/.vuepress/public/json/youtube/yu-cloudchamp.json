@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/HRBgAcsz-w2EJHATAAHVecgaI874LHD4dLEdzWK3IeViMyoXZdqtt8L_g6mqw_FRa-9-gTwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "o_7jlMBHFFA", "title": "REAL CKA Exam Questions to Practice and Pass the Certified Kubernetes Administrator Cert!" },
     { "id": "pTmIoKUeU-A", "title": "Kubernetes Live Project: Deploy Cloud Native Voting Application on EKS" },
     { "id": "O2AC23B3ksc", "title": "You NEED to learn GOLANG because Every Company is using it!" },
     { "id": "g8X5AoqCJHc", "title": "DevSecOps Pipeline Project: Deploy Netflix Clone on Kubernetes" },
