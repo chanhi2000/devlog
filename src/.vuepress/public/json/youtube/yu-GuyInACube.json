@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/3AfskTu89xkDj02bZK3Sp5aNcG9WMu4eiQ-pXKPni3o2lLmtaf4tRHyHeqEij0zhuFxYuvxVJA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tQrr7RPSvsQ", "title": "Thinking about your DAX Queries like a SQL Query in Power BI" },
+    { "id": "NBxdctrTlkY", "title": "9 hidden gems about On-Object Editing in Power BI" },
     { "id": "jouBo0AzbvQ", "title": "Exploring Custom Spark Pools in Microsoft Fabric Lakehouses" },
     { "id": "GFENAFw1co4", "title": "Create a measure from a filtered visual in Power BI? Of Course, you can!" },
     { "id": "K2WdIdfpIic", "title": "Let's look at using some PySpark in your first Microsoft Fabric Notebook" },

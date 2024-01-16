@@ -62,6 +62,8 @@ tags: ["java", "baeldung"]
 ### Medium
 
 - [5 Important Microservices Design Patterns](https://medium.com/javarevisited/5-important-microservices-design-patterns-c4d636b0051)
+- [How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+
 
 ### Ted Park
 
@@ -188,6 +190,8 @@ tags: ["java", "baeldung"]
 ### cmhteixeira
 
 - [Async File IO](https://cmhteixeira.com/concurrency/asyncfileio.html)
+
+
 
 ---
 

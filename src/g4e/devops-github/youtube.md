@@ -15,5 +15,6 @@ tags: ["youtube", "tutorial", "github", "github-action", "study", "@Github"]
 
 <MyYouTubeItems jsonName="yu-TruffleSecurity" /><!-- Truffle Security -->
 <MyYouTubeItems jsonName="yu-Github" /><!-- Github -->
+<MyYouTubeItems jsonName="yu-codingpiece" /><!-- 코딩한조각 -->
 
 <TagLinks />

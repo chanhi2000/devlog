@@ -141,7 +141,8 @@ tags: ["c", "llvm"]
 
 ## Daniel Lemire
 
-- [Appending to an std::string character-by-character: how does the capacity grow?](https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/)
+- [Appending to an `std::string` character-by-character: how does the capacity grow?](https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/)
+- [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth)
 
 ---
 

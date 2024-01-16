@@ -70,5 +70,6 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-allmdev" /><!-- allmnet의 Python 개발 채널 -->
 <MyYouTubeItems jsonName="yu-icurfer" /><!-- icurfer -->
 <MyYouTubeItems jsonName="yu-Tech2etc" /><!-- Tech2 etc -->
+<MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
 
 <TagLinks />

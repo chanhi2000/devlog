@@ -29,5 +29,10 @@ meta:
 <MyYouTubeItems jsonName="yu-SpringSourceDev" /><!-- SpringDeveloper -->
 <MyYouTubeItems jsonName="yu-Java.Brains" /><!-- Java Brains -->
 <MyYouTubeItems jsonName="yu-geminikims" /><!-- 제미니의 개발실무 -->
+<MyYouTubeItems jsonName="yu-Glabay" /><!-- Glabay -->
+<MyYouTubeItems jsonName="yu-user-kp6ez9ty9p" /><!-- 최현웅 -->
+<MyYouTubeItems jsonName="yu-BoualiAli" /><!-- Bouali Ali -->
+<MyYouTubeItems jsonName="yu-developer_jango" /><!-- 개발자 장고 -->
+
 
 <TagLinks />

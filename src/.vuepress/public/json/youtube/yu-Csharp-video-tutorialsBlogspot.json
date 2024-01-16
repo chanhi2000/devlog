@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cLeRiq17ue28QJpfoNL9fIh2fdfI_85Va-fPHCpiGp_g5HumZSMj_nFy8PIj3K7QLhHNl-cVIOM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UMPwtOvUjd0", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 3" },
+    { "id": "Zg-jBr4SHNc", "title": "MAUI - Syncfusion : Data Visualization : Circular Charts" },
     { "id": "3wEcn9Uh4BY", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 1" },
     { "id": "eCK7l3AfkZI", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 2" },
     { "id": "YBPvBAdY7b4", "title": "MAUI - Syncfusion : Slider, Range Slider and Range Selector Controls" },

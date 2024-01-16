@@ -219,6 +219,7 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 ## Bejamas Discovery
 
 - [Three modern CSS properties your website must have](https://bejamas.io/blog/modern-css-properties-your-website-must-have/)
+- [Learn CSS `:has()` selector by examples: 5 top use cases](https://bejamas.io/blog/learn-css-has-selector-by-examples-top-use-cases)
 
 ---
 

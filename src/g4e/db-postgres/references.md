@@ -19,6 +19,12 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Medium
+
+- [How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+
+---
+
 ## Become Mastermind
 
 - [Understanding database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)

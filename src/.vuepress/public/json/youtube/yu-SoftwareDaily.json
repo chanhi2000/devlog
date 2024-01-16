@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/10eTZWYwhQzV7TebhiiF0c8nOv1e7k5ikKulpmcqqrKKSmSeqUo53GouzkD4gh3E7uhReD-kC5Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vefXMkbCIcs", "title": "Pinecone Vector Database with Marek Galovic" },
     { "id": "VMEt386fh3E", "title": "GitHub Copilot with Joseph Katsioloudes" },
     { "id": "h3Vq_LbWlnY", "title": "Deno with Luca Casonato" },
     { "id": "XFBxSI7Up4Q", "title": "Open Source Contribution with Brian Douglas" },

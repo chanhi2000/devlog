@@ -26,5 +26,6 @@ tags: ["youtube", "tutorial"]
 <MyYouTubeItems jsonName="yu-PieterAbbeel" /><!-- Pieter Abbeel -->
 <MyYouTubeItems jsonName="yu-TheOrganicChemistryTutor" /><!-- The Organic Chemistry Tutor -->
 <MyYouTubeItems jsonName="yu-Domotro" /><!-- Domotro from Combo Class -->
+<MyYouTubeItems jsonName="yu-selpain" /><!-- 셀파컴퓨터회계학원 -->
 
 <TagLinks />

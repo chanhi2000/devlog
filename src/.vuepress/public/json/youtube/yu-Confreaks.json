@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/kN4tRTiUMXbANHKPGnzb-CKjbKzoYwHZWwwlLulGvP-l_QVL3dKBYaai7lgohJc2-8GpdouQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cIKYxSLCyX0", "title": "RubyConf 2023 - The Second Oldest Bug by Jeremy Evans" },
     { "id": "taaVciVdNQg", "title": "Licensing and Distributing a Paid CLI With Ruby, Rails, and SwiftUI by Moncef Belyamani" },
     { "id": "wdVNBVxLou8", "title": "Who Wants to be a Ruby Engineer? by Drew Bragg" },
     { "id": "tqG23aWuPa4", "title": "Let’s Extract a Class: The Single Responsibility Principle and Design Patterns by Jon Evans" },

@@ -102,6 +102,14 @@ color: rgba(255,255,255,0.2)
 ```
 
 ```card
+title: Next AI News
+desc: A full-stack replica of HN using Next.js and AI generated content. (https://github.com/rauchg/next-ai-news)
+link: https://next-ai-news.vercel.app
+logo: https://next-ai-news.vercel.app/favicon.ico
+color: rgba(255, 153, 102, 0.2)
+```
+
+```card
 title: 비즈니스를 위한 무료 웹 서비스 모음
 dess: 무료로도 유용하게 사용할 수 있는 온라인 웹 서비스들을 총 망라했습니다.
 link: https://kidow.notion.site/0fc89df5906e4b918bd25b059b0f56a6
@@ -171,6 +179,14 @@ desc: Learn from hundreds of real tech interview experiences!
 link: https://www.onsites.fyi
 logo: https://www.onsites.fyi/favicon.ico
 color: rgba(190, 242, 100, 0.2)
+```
+
+```card
+title: HackerStartup
+desc: Useful SaaS Kits & starter templates for developers to build your next project faster
+link: https://hackerstartup.com/
+logo: https://hackerstartup.com/favicon.ico
+color: rgba(79,29,173,0.2)
 ```
 
 <ShieldsGroup 

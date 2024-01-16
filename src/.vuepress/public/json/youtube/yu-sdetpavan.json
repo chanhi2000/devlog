@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/eyICDvp0yioa1jRUdYMt28GzzwJ8lco6Yz5neP6OXkuBJFhuR9FlfHodzhiHixeL7lO2Ip0p4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8a8wjKKZhSI", "title": "Selenium with Java | Introduction to Automation & Selenium | 2024 New Series | Full Crash Course" },
+    { "id": "OCwXj8jEFYw", "title": "Session 2- Working with Java Variables and Data Types | Java & Selenium | 2024 New series" },
+    { "id": "-Xi7bzi6IcU", "title": "Session 4- Working with Java Conditional Statements | Java & Selenium | 2024 New series" },
     { "id": "6rTcEkd9F6s", "title": "Handling PDF Files in Java | PDFBox Library | Creating PDF Files | Part 9" },
     { "id": "FW6C09m3MtE", "title": "Handling PDF Files in Java | PDFBox Library | Reading Content From PDF File | Part 8" },
     { "id": "wpXBwk3QSso", "title": "Handling XML Files in Java | DOM Parser Library | Parsing XML Files | Part 10" },

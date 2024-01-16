@@ -3784,5 +3784,15 @@
     "desc": "Designing bridge trusses with Pytorch autograd",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "MooreThreads/Moore-AnimateAnyone",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "VikParuchuri/surya",
+    "desc": "Accurate line-level text detection and recognition (OCR) in any language",
+    "officialSite": "",
+    "topics": ["ai", "computer"]
   }
 ]

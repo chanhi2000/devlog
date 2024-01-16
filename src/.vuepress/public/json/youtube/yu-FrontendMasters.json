@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/_2yJlN6rNRa30qfFamUS-EujV2D73JZHQwgPeCMCPSxmlpiDvcizvOjuG_irlFOVxDh_5ohk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YD7hhT9-Cro", "title": "TailwindCSS with Steve Kinney | Preview" },
+    { "id": "cN7qzhx3aFY", "title": "Vite with Steve Kinney | Preview" },
     { "id": "97uPBhwEjLw", "title": "Intermediate TypeScript, v2 with Mike North | Preview" },
     { "id": "5z21XsopiuI", "title": "Mike North - From TI-83 to Tech Lead at Stripe | The Frontend Masters Podcast Ep.7" },
     { "id": "HWwC_V2rtIg", "title": "2023 Recap, TypeScript Path Revamp, & Plans for 2024! | Frontend Masters Year-End Hangout" },

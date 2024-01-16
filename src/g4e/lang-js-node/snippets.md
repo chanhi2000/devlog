@@ -68,15 +68,15 @@ deleteWatchLater();
 1. move to any channel `/@<CHANNEL_NAME>`
 2. Paste the code to the console
 
-
-
-
 ```js
-const channelId = document.querySelector('span.yt-core-attributed-string.yt-content-metadata-view-model-wiz__metadata-text.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string--link-inherit-color').innerHTML.replace('@', '')
-const channelNameTag = document.querySelector('h1 span.yt-core-attributed-string.yt-core-attributed-string--white-space-pre-wrap').innerHTML
+const channelId = document.querySelector('#channel-handle.ytd-c4-tabbed-header-renderer').innerHTML.replace('@', '')
+const channelNameTag = document.querySelector('#text.ytd-channel-name').innerHTML
 const channelName = (channelNameTag.match(/^(.*?)<span/g) == null) ? channelNameTag : channelNameTag.match(/^(.*?)<span/g)[0].replace('<span', '')
-const profileImg = document.querySelector('img.yt-spec-avatar-shape__image.yt-core-image.yt-core-image--loaded').src
-const bannerImg = document.querySelector('yt-image-banner-view-model .yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded')?.src ?? '';
+const profileImg = document.querySelector('#img.yt-img-shadow').src
+// const bannerImg = document.querySelector('yt-image-banner-view-model .yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded')?.src ?? '';
+const bannerImgTag = document.querySelector('.page-header-banner-image.ytd-c4-tabbed-header-renderer');
+const bannerImg = (bannerImgTag == null || bannerImgTag == undefined) ? '' : window.getComputedStyle(bannerImgTag).getPropertyValue('--yt-channel-banner').replace('url(', '').replace(')', '');
+
 
 const o = {
   channel: {

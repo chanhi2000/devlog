@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "Glabay",
+    "name": "Glabay",
+    "profile": "https://yt3.googleusercontent.com/lwEP0o8MOI6gJbQJICBESCtEOng_vmS2oJqDjsVJK_ijhdoRpfHBFPY5WtQWSdUraAQxapiG=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Pk4UaQ60O1L-scnw43PinAVL5_pu8L7EPJK-u29gGchezO8l4ebvTNKQBWxAfeQJsCO-gSJmOQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LNn3Qo58G_0", "title": "Building a Dynamic Portfolio Website with Java, Spring Boot, and Thymeleaf!" },
+    { "id": "Ta954qG-QZo", "title": "Pt 9: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "v7AQwJXMLGM", "title": "Pt 10: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "w-6hl0U5d6M", "title": "Pt 11: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "icxRZ_EZ1iM", "title": "Pt 12: Breaking Monoliths: From Monolithic to Microservices!" }
+  ]
+}

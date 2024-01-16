@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/1C7JsH9x4DmmcHxfVGJMhRIeSLmRH41Xnm2oKITHfuACk64NNt_iNA3Myy9sD3Z9VomitfFKcQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "31y7-k3ZG0g", "title": "Framer Motion (React) - The Basics" },
     { "id": "UjuLDdnp_VM", "title": "Create a Website Intro with ReactJS + GSAP in 10 Minutes" }
   ],
   "playlists": [

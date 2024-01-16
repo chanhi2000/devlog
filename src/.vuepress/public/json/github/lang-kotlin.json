@@ -181,14 +181,24 @@
     "officialSite": "",
     "topics": ["manga", "mangadex", "tachiyomi", "tachiyomi-extensions"]
   }, {
+    "repo": "keiyoushi/extensions",
+    "desc": "Source extensions for the Tachiyomi app.",
+    "officialSite": "https://keiyoushi.github.io/extensions/",
+    "topics": []
+  }, { 
     "repo": "keiyoushi/extensions-source",
     "desc": "Source code of the extensions for the Tachiyomi app.",
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "keiyoushi/extensions",
+    "repo": "tachiyomiorg/extensions",
     "desc": "Source extensions for the Tachiyomi app.",
-    "officialSite": "https://keiyoushi.github.io/extensions/",
-    "topics": []
+    "officialSite": "https://tachiyomi.org/extensions/",
+    "topics": ["android", "kotlin", "manga", "self-hosted"]
+  }, {
+    "repo": "zhanghai/MaterialFiles",
+    "desc": "Material Design file manager for Android",
+    "officialSite": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
+    "topics": ["android", "android-application", "file-manager", "kotlin", "kotlin-android", "material-design"]
   }
 ]

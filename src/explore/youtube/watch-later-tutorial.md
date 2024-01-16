@@ -36,7 +36,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <MyYouTubeItems jsonName="yu-CodAffection" /><!-- CodAffection -->
 <MyYouTubeItems jsonName="yu-BroCodez" /><!-- Bro Code -->
 <MyYouTubeItems jsonName="yu-KodecoDev" /><!-- Kodeco -->
-<MyYouTubeItems jsonName="yu-codebreakthrough" /><!-- Caleb Curry -->
 <MyYouTubeItems jsonName="yu-OktaDev" /><!-- OktaDev -->
 <MyYouTubeItems jsonName="yu-JeffGeerling" /><!-- Jeff Geerling -->
 <MyYouTubeItems jsonName="yu-mcodeM" /><!-- 메타코드M -->

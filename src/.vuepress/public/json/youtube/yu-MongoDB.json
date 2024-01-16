@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/MNEsC8Wtd1Stf_OQYP-OBqVoveODo09vUT3WrEftmEA65X1zuJ5QOOJnOWAucqgedq-3qA-JWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h4SCBDqu6uo", "title": "Java Meets MongoDB: CSFLE tutorial" },
+    { "id": "PJOZIR8OWcM", "title": "Adventures in IoT 5: Me and the Devil Bluez - Part 3" },
+    { "id": "ZvwUzcMvKiI", "title": "Semantic Search Made Easy With LangChain and MongoDB" },
+    { "id": "Xk-rGR87yQw", "title": "Revolutionizing App Development: Exploring DronaHQ and MongoDB" },
     { "id": "TJVLkVUUzGk", "title": "Code With Mark - Subsets & Joins Part 2!" },
     { "id": "ghJUEhbnCFE", "title": "Getting Started with the new MongoDB Provider for EF Core" },
     { "id": "TJVLkVUUzGk", "title": "Code With Mark - Subsets & Joins Part 2!" },

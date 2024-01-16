@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/7b-DCZA5aeStNuLK2lyOX_MwmFNpXOfzgHR_u01s17CKA8NwNhvijTgpvCi3BvEQB8Xrja3h=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MW7nWpwbJSs", "title": "Rust References and Ownership Complete Introduction" },
+    { "id": "dqhJU772ckM", "title": "WebAssembly Introduction - Getting Started with Wasm" },
+    { "id": "8YLX04E0veQ", "title": "understand mutable references (&mut) in the rust programming language" },
+    { "id": "8Xyn8R9eKB8", "title": "SQLite Introduction - Beginners Guide to SQL and Databases" },
     { "id": "jAm7xrRxEUE", "title": "Rust Programming Introduction - Beginner Crash Course (1 Hour!)" },
     { "id": "baSUNLu_jQ4", "title": "# is called a pound sign" },
     { "id": "XCUOvO1sqIE", "title": "Learn Rust programming - Standard Library, Enums, Traits, Arrays, Vectors, HashMaps" },

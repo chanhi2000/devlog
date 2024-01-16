@@ -103,8 +103,23 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 ---
 
+## JOHN STAWINSKI IV
+
+- [PLAYING WITH FIRE – HOW WE EXECUTED A CRITICAL SUPPLY CHAIN ATTACK ON PYTORCH](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
+
+---
+
+## Grepular
+
+- [Skiff.com Email's Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
+
+---
+
 ## Misc
 
 - [0xNews - GRUB2 부트로더 BootLoader 에서 취약점 발견](https://project-openlab.blogspot.com/2020/07/0xnews-grub2-bootloader.html)
+
+
+---
 
 <TagLinks />

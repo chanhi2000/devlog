@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/hy_ANeUEcU-HjIMUcB5zp1aMRjz9X3XOtPMsilblQbGchSp90Ik1OJjnHT545EcXTvOghp32sh8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wlDJRoYrNSg", "title": "Datenbank Monitoring - News & Updates | Redgate" },
+    { "id": "aO4dYNpDjQ4", "title": "Introduction to Multi-Version Concurrency Control and Vacuum | PostgreSQL 101" },
+    { "id": "4C3omclRxxc", "title": "Database monitoring and optimization | PostgreSQL 101" },
     { "id": "FLSLlG1lN5w", "title": "10 PostgreSQL extensions you need to know about | PostgreSQL 101" }, 
     { "id": "SGvHHedjc1w", "title": "The Journey Towards PostgreSQL - Tips and Lessons  | PostgreSQL 101" }, 
     { "id": "jtgWQkRFVv0", "title": "Why PostgreSQL in 2023 | PostgreSQL 101" }, 

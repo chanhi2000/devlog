@@ -50,5 +50,6 @@ meta:
 <MyYouTubeItems jsonName="yu-CodingLupine" /><!-- 코딩루팡 CodingLupine -->
 <MyYouTubeItems jsonName="yu-CodeRadiance" /><!-- Code Radiance -->
 <MyYouTubeItems jsonName="yu-IndianCoders" /><!-- Indian Coders -->
+<MyYouTubeItems jsonName="yu-weekendcode" /><!-- Weekend Code -->
 
 <TagLinks />

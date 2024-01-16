@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-IIo0fQaudHhJhJxlRbO0R8WM62cGhN7kxJPeqjttKADE7-Kp5v5RZIDCB16nA6CK3grwcXeMbI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wpZbYPvPO68", "title": "Power Apps Select Multiple Items in A Gallery" },
     { "id": "cjcDH7_v6cE", "title": "Power Apps Upload File v2 to SharePoint Document Library" },
     { "id": "jc2DquMS7qM", "title": "Better Performance with Less Effort! Use Power Apps Named Formulas" },
     { "id": "0SZuRKPjOks", "title": "Stop just building Canvas Apps! The Power Platform has so many tools you can use" },

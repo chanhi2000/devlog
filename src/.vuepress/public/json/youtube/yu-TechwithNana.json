@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/eJAO_TWDwQ1OMA05B6qlxGrUterYyVThEyqQR9Cxxmks8gEuZJk6I9nlpcEkHJVQebUn0UuKDw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Hou8IyNVF7A", "title": "What is the Role of the Author in Docker Hub?" },
+    { "id": "9ZswrUEDHlk", "title": "Is Docker Hub Network Storage? Docker Hub Basics" },
+    { "id": "6hoWIqhCo9Y", "title": "Docker Hub vs GitHub Differences: Understanding the Basics" }
+  ],
+  "playlists": [
     {
       "title": "Latest Tutorials | Full Training Course | Free Online Tutorial Videos",
       "videos": [

@@ -179,5 +179,10 @@
     "desc": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
     "officialSite": "https://wallabag.org",
     "topics": ["hacktoberfest", "php", "read-it-later", "self-hosted", "symfony", "symfony-application", "wallabag"]
+  }, {
+    "repo": "nextcloud/all-in-one",
+    "desc": "The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+    "officialSite": "https://hub.docker.com/r/nextcloud/all-in-one",
+    "topics": ["backup", "docker", "nextcloud", "restore"]
   }
 ]

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/L768wRh4C9YEDL4q7JPD-0bQfT6gUChrGAivVfP_tVuq-y3Hf1K_sTI1PM11XH7lnMuqNh86dg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tzQmA5cbiMk", "title": "How to Learn Software Testing in 2024 (.NET)" },
+    { "id": "zFdMjI2x0Ds", "title": "How to use CancellationToken in ASP.NET C# API" },
     { "id": "18VMi6MgCSQ", "title": "How to Dynamically Subscribe to Kafka Topics in .NET" },
     { "id": "Jq_JU4NnTH0", "title": "I Handled All Exceptions in 5 min! 💙 .NET 8" },
     { "id": "n1QYEzuRhkI", "title": "Why We ALL Use xUnit over NUnit or MSTest?" },

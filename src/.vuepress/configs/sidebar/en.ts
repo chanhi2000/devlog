@@ -631,6 +631,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-postgres/README.md',
         '/g4e/db-postgres/query.md',
         '/g4e/db-postgres/references.md',
+        '/g4e/db-postgres/youtube.md',
       ]
     }, {
       text: '🤠Django',
@@ -640,7 +641,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/db-django/query.md',
         '/g4e/db-django/github.md',
         '/g4e/db-django/references.md',
-        '/g4e/db-django/youtube.md',        
+        '/g4e/db-django/youtube.md',      
       ]
     }, {
       text: '🪳Cockroach',

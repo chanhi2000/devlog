@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/e_wvMIJ3UE9tM0uYL73OYuqVRfTEc-6XLaizO9CY61yNDuECbW-T1jyYBUWQ_bUGphi3DRndVA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sISJ9RcIRb4", "title": "Blender Controls in Godot - Godot's Best New Feature!" },
+    { "id": "PNsJsfUJjms", "title": "IronSource Founders GONE From Unity!!!" },
+    { "id": "G3XFKZ01f-k", "title": "Steam Makes MASSIVE Change To AI Policy" },
     { "id": "-AIf8j4DMEY", "title": "Godot + Google + The Forge == Better Vulkan!" },
     { "id": "RbpmZXJlaAI", "title": "Visual Studio Code Gets A Huge Upgrade" },
     { "id": "RHO42FIkJtQ", "title": "miniGDX -- New Kotlin Game Engine" }

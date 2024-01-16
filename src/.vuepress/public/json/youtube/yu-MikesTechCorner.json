@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/PTFsJGzsUDC8WTGWYOIZn1lerx8k43bUgjBWJwNR6mlXd6ZrL9kFv7Z6hnAqj9QHX78KU_GIjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lz--EL6QLRA", "title": "Happy New Year 2024" },
+    { "id": "rpcbZzb6ckQ", "title": "Kanban Vs Scrum" },
     { "id": "Js5jhLvoB38", "title": "Fastapi Swagger Redocly And Pydantic" },
     { "id": "V-u3BZnrX4M", "title": "Yolo You Only Look Once" },
     { "id": "fBjCi8WOjLM", "title": "Java Stream `DuplicatekeyException`" },

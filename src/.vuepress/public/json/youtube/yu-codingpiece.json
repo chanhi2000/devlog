@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codingpiece",
+    "name": "코딩한조각",
+    "profile": "https://yt3.googleusercontent.com/E2CbK9p0oOzRgOIDqX5y3wPI3y2N4u1DqK4OUVmwXZrn99YcjNYZNNxYopQ5Yl9d6LCwI8QWkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "zWo8aXcJzN8", "title": "자바한조각 (12) - 접근제어자도 어려우셨죠?" },
+    { "id": "PeTR9IfK3bc", "title": "깃헙한조각 - 깃헙 코드리뷰 한 판 정리" }
+  ]
+}

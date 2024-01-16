@@ -714,5 +714,10 @@
     "desc": "canonical libwebsockets.org networking library",
     "officialSite": "https://libwebsockets.org",
     "topics": ["c", "c-library", "client-server", "embeddable", "freertos", "http2", "libev", "libevent", "libuv", "libwebsockets", "lightweight", "lws", "portable-library", "sshd", "websockets"]
+  }, {
+    "repo": "EpicGames/raddebugger",
+    "desc": "A native, user-mode, multi-process, graphical debugger.",
+    "officialSite": "",
+    "topics": []
   }
 ]

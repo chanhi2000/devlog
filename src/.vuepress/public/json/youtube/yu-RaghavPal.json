@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/H8_4Waa8bWh5flJA7Epnpbd7zKo7nbKG9p-dqGOXSjbscK0RmNaxUcB2mOgxK4O8SF9fXAiOcA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-ecG6B_jNW8", "title": "HOW TO SWITCH JAVA VERSION and SET JAVA_HOME PATH ON MAC OS M1 M2" },
     { "id": "SW5MAG4YFJE", "title": "TestCafe | 4 | VS Code Extensions" },
     { "id": "LsOZ40VCzP8", "title": "#AskRaghav | 4 Scenario based interview Ques | Performance Testing" },
     { "id": "cftENRkyk40", "title": "#AskRaghav | 4 Scenario based Selenium Interview Ques" },

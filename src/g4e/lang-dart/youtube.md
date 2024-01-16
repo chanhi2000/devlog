@@ -43,5 +43,6 @@ tags: ["dart", "flutter"]
 <MyYouTubeItems jsonName="yu-user-tv8fr9in3d" /><!-- 도그풋 -->
 <MyYouTubeItems jsonName="yu-UnsureProgrammer" /><!-- Unsure Programmer -->
 <MyYouTubeItems jsonName="yu-explosoratory" /><!-- 설명하는개발자 -->
+<MyYouTubeItems jsonName="yu-NetNinja" /><!-- The Net Ninja -->
 
 <TagLinks />

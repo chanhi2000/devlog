@@ -50,4 +50,16 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## orlp.net
+
+- [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
+
+---
+
+## ACS
+
+- [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
+
+---
+
 <TagLinks />

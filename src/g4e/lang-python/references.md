@@ -244,4 +244,14 @@ description: 🐍Python > 📚References
 
 ---
 
+## Quentin Santos
+
+- [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
+
+---
+
+## Terence Eden's Blog
+
+- [Compressing Text into Images](https://shkspr.mobi/blog/2024/01/compressing-text-into-images/)
+
 <TagLinks />

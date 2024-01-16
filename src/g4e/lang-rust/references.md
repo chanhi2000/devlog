@@ -171,4 +171,10 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Abubalay
+
+- [A universal lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
+
+---
+
 <TagLinks />

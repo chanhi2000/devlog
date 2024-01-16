@@ -225,5 +225,6 @@ tags: ["education", "youtube", "programming", "js", "node", "@AlgoJS", "@bawad",
 <MyYouTubeItems jsonName="yu-learnwithjason" /><!-- Learn With Jason -->
 <MyYouTubeItems jsonName="yu-Huntabyte" /><!-- Huntabyte -->
 <MyYouTubeItems jsonName="yu-jeonghwan_kim" /><!-- 김정환 -->
+<MyYouTubeItems jsonName="yu-mattpocockuk" /><!-- Matt Pocock -->
 
 <TagLinks />

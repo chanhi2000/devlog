@@ -69,6 +69,17 @@ tags: ["llama" , "llm"]
 
 - [Bash One-Liners for LLMs](https://justine.lol/oneliners)
   - [jart/rename-pictures.sh](https://gist.github.com/jart/bd2f603aefe6ac8004e6b709223881c0)
+
+---
+
+## moomou
+
+- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/)
+
+---
+
+
+
 ---
 
 <TagLinks/>

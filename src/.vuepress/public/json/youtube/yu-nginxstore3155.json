@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "nginxstore3155",
+    "name": "NGINX STORE",
+    "profile": "https://yt3.googleusercontent.com/gEhyz9dCdYD7rWJlqCexQjCJmuw9cW9yvq0GJgaTkXFDI6Uy72grOLQMokAP2KVAlm0to5Ug4w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "1WfdUtMxTLE", "title": "NGINX로 Reverse Proxy 및 로드 밸런싱 이해하기" },
+    { "id": "-e7ZuT9pj5s", "title": "웹 트래픽을 가장 많이 처리하는 NGINX 쉽게 이해하기" }
+  ]
+}

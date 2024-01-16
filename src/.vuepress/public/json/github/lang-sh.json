@@ -289,5 +289,10 @@
     "desc": "Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.",
     "officialSite": "https://bazzite.gg",
     "topics": ["desktop", "fedora-kinoite", "fedora-linux", "fedora-silverblue", "gaming", "htpc", "oci-image", "operating-system", "ostree", "steam", "steam-deck", "valve"]
+  }, {
+    "repo": "SebastianMuskalla/ModelessVim",
+    "desc": "Configuration files to turn vim into a modeless editor.",
+    "officialSite": "",
+    "topics": []
   }
 ]

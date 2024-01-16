@@ -62,7 +62,7 @@ meta:
 <MyYouTubeItems jsonName="yu-Hwangbujang" /><!-- 공구왕황부장 -->
 <MyYouTubeItems jsonName="yu-yesunglabor" /><!-- 노무법인 예성 -->
 <MyYouTubeItems jsonName="yu-BetterLife" /><!-- 더나은삶TV -->
-<MyYouTubeItems jsonName="yu-b-log3651" />  <!-- 베이로그 B-Log -->
+<MyYouTubeItems jsonName="yu-b-log3651" />  <!-- 베이로그 B-Log --> 
 <!-- <MyYouTubeItems jsonName="yu-TV-lu4tv" /> 맥스큐TV  -->
 <MyYouTubeItems jsonName="yu-user-yj8id3uk7n" /><!-- 데일리뷰 -->
 <MyYouTubeItems jsonName="yu-user-ry4kn1dg5d" /><!-- 린생 -->
@@ -82,5 +82,6 @@ meta:
 <MyYouTubeItems jsonName="yu-yk_roadking" /><!-- 도로왕 김지훈 변호사 -->
 <MyYouTubeItems jsonName="yu-user-sz5tm2cp7v" /><!-- 경제인회계인 -->
 <MyYouTubeItems jsonName="yu-SMGI" /><!-- 사물궁이 잡학지식 -->
+<MyYouTubeItems jsonName="yu-_johncook8725" /><!-- 아하부장_JOHNCOOK -->
 
 <TagLinks />

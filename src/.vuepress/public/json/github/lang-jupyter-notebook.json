@@ -444,5 +444,15 @@
     "desc": "Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.",
     "officialSite": "https://amzn.to/3D5ZhGu",
     "topics": ["chatgpt", "gpt", "huggingface", "langchain", "llms", "openai"]
+  }, {
+    "repo": "vanna-ai/vanna",
+    "desc": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+    "officialSite": "https://vanna.ai/docs/",
+    "topics": ["agent", "ai", "data-visualization", "database", "llm", "rag", "sql", "text-to-sql"]
+  }, {
+    "repo": "open-spaced-repetition/fsrs4anki",
+    "desc": "A modern Anki custom scheduling based on free spaced repetition scheduler algorithm",
+    "officialSite": "https://github.com/open-spaced-repetition/fsrs4anki/wiki",
+    "topics": ["anki", "anki-addon", "deep-learning", "fsrs", "machine-learning", "memory", "optimal-control", "reinforcement-learning", "spaced-repetition", "spaced-repetition-algorithm", "srs"]
   }
 ]

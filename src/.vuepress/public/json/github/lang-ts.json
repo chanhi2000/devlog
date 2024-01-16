@@ -2013,5 +2013,30 @@
     "desc": "A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.",
     "officialSite": "https://portkey.ai/features/ai-gateway",
     "topics": ["ai-gateway", "gateway", "generative-ai", "langchain", "llama-index", "llmops", "llms", "openai", "prompt-engineering", "router"]
+  }, {
+    "repo": "marimo-team/marimo",
+    "desc": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.",
+    "officialSite": "https://marimo.io",
+    "topics": ["artificial-intelligence", "data-science", "data-visualization", "developer-tools", "machine-learning", "notebooks", "pipeline", "python", "reactive", "web-app"]
+  }, {
+    "repo": "maybe-finance/maybe",
+    "desc": "Personal finance and wealth management app",
+    "officialSite": "https://maybe.co",
+    "topics": ["finance", "nextjs", "nodejs", "personal-finance", "postgresql", "react", "typescript"]
+  }, {
+    "repo": "penxio/penx",
+    "desc": "A structured note-taking app for personal use.",
+    "officialSite": "https://penx.io",
+    "topics": ["note-taking", "outliner"]
+  }, {
+    "repo": "aspen-cloud/triplit",
+    "desc": "A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).",
+    "officialSite": "https://triplit.dev",
+    "topics": ["bun", "cloudflare-workers", "crdt", "database", "deno", "durable-objects", "firebase", "firestore", "fullstack", "indexeddb", "leveldb", "multiplayer", "nextjs", "pwa", "react", "rxdb", "sqlite", "supabase", "websockets"]
+  }, {
+    "repo": "gronxb/webview-bridge",
+    "desc": "Fully Type-Safe Integration for React Native WebView and Web",
+    "officialSite": "https://gronxb.github.io/webview-bridge/",
+    "topics": ["react-native", "react-native-webview", "react-native-webview-bridge"]
   }
 ]

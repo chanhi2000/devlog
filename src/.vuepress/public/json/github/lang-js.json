@@ -1864,5 +1864,15 @@
     "desc": "",
     "officialSite": "",
     "topics": ["htmx", "playground", "sandbox", "svelte"]
+  }, {
+    "repo": "tachiyomiorg/website",
+    "desc": "Official website for the Tachiyomi app.",
+    "officialSite": "https://tachiyomi.org",
+    "topics": ["static-site", "vitepress"]
+  }, {
+    "repo": "ludios/expand-everything",
+    "desc": "A userscript to click \"show more\" links to expand all the text on a page, without slowing things down too much",
+    "officialSite": "",
+    "topics": ["annoyance", "chromium", "javascript", "userscript", "web"]
   }
 ]

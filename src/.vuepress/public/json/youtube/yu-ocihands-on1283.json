@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/QGexky0-GLUFRPC46O8zRiLlpOq2bc_Fye6jlDex95aK01jilP9kBzD0PlKoiaDxhsJ3d6JsORs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aQsaYh-5OF8", "title": "[Feb,2024 Developer Meetup] #1 VCN 만들기" },
+    { "id": "LJ1n8JwXCjg", "title": "[Feb,2024 Developer Meetup] #2 OCI 방화벽 개방" },
+    { "id": "FzxicurpkFo", "title": "[Feb,2024 Developer Meetup] #3 Redis 배포하기" },
+    { "id": "21PXImZoPP4", "title": "[OCI Hands-on] 클라우드 DB에서 민감데이터 마스킹하기 / DBCS Data Redaction (Dynamic Data Masking)" },
+    { "id": "66UFNeB6Bg8", "title": "[Feb,2024 Developer Meetup] #4 MySQL 배포하기" },
+    { "id": "IYbUQm5eyps", "title": "[Feb,2024 Developer Meetup] #5 Cloud VM접속 심화과정" },
+    { "id": "0klq36PwxU8", "title": "[Feb,2024 Developer Meetup] #5 VM 배포하기" },
+    { "id": "Sx7fZ87twmc", "title": "[Feb,2024 Developer Meetup] #7 마크서버 구성하기" },
+    { "id": "fkCuCePZPhc", "title": "[Feb,2024 Developer Meetup] #6 사전작업 진행" },
     { "id": "ZK4SlclnJcU", "title": "[OCI Hands-On] GoldenGate for Big Data" }
   ],
   "playlists": [

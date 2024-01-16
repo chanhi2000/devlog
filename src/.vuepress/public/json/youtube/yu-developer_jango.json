@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "developer_jango",
+    "name": "개발자 장고",
+    "profile": "https://yt3.googleusercontent.com/K-Ptlvp__5Px6Eqrk52tQkkfNt8dT6PsUK9AVU4uKhr_3cIRxskxh3JhUQxugEMXckoNQk2lKA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "VHZ2i4cuwb8", "title": "개발자 전공 면접 - 6. 스프링" }
+  ]
+}
