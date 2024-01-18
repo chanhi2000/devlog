@@ -19,5 +19,10 @@
     "desc": "Darwin/macOS emulation layer for Linux",
     "officialSite": "http://www.darlinghq.org",
     "topics": []
+  }, {
+    "repo": "roothide/Bootstrap",
+    "desc": "A full featured bootstrap for ios14.0~17.0 (A8~A17,M1+M2)",
+    "officialSite": "",
+    "topics": []
   }
 ]

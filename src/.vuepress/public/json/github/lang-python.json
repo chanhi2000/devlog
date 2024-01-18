@@ -1726,9 +1726,9 @@
     "officialSite": "https://infinigen.org"
   }, {
     "repo": "bentoml/OpenLLM",
-    "desc": "An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.",
-    "topics": ["machine-learning", "ai", "deployment", "falcon", "developer-tools", "easy-to-use", "dolly", "fine-tuning", "t5-model", "llm", "model-inference", "lmops", "llmops", "chatglm", "stablelm"],
-    "officialSite": "https://bentoml.com"
+    "desc": "Operating LLMs in production",
+    "officialSite": "https://bentoml.com",
+    "topics": ["ai", "bentoml", "falcon", "fine-tuning", "llama", "llama2", "llm", "llm-inference", "llm-ops", "llm-serving", "llmops", "mistral", "ml", "mlops", "model-inference", "mpt", "open-source-llm", "openllm", "stablelm", "vicuna"]
   }, {
     "repo": "settinger/selectric_typeballs",
     "desc": "How to make your own Selectric Typeballs",
@@ -1906,9 +1906,9 @@
     "officialSite": ""
   }, {
     "repo": "InternLM/InternLM",
-    "desc": "InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.",
-    "topics": [],
-    "officialSite": ""
+    "desc": "InternLM has open-sourced 7 and 20 billion parameter base models and chat models.",
+    "officialSite": "https://internlm.intern-ai.org.cn/",
+    "topics": ["chatbot", "gpt", "large-language-model"]
   }, {
     "repo": "ohyicong/decrypt-chrome-passwords",
     "desc": "",
@@ -3401,9 +3401,9 @@
     "topics": []
   }, {
     "repo": "microsoft/TaskWeaver",
-    "desc": "A code-first agent framework for seamlessly planning and executing data analytics tasks. ",
-    "officialSite": "",
-    "topics": []
+    "desc": "A code-first agent framework for seamlessly planning and executing data analytics tasks.",
+    "officialSite": "https://microsoft.github.io/TaskWeaver/",
+    "topics": ["agent", "code-generation", "copilot", "llm", "orchestrator", "planning", "plugin"]
   }, {
     "repo": "xaoyaoo/PyWxDump",
     "desc": "获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。",
@@ -3794,5 +3794,30 @@
     "desc": "Accurate line-level text detection and recognition (OCR) in any language",
     "officialSite": "",
     "topics": ["ai", "computer"]
+  }, {
+    "repo": "skfolio/skfolio",
+    "desc": "Python library for portfolio optimization built on top of scikit-learn",
+    "officialSite": "https://skfolio.org",
+    "topics": ["asset-allocation", "asset-management", "convex-optimization", "cvar-optimization", "cvxpy", "efficient-frontier", "hierarchical-clustering", "machine-learning", "portfolio", "portfolio-optimization", "quantitative-finance", "quantitative-investment", "risk-parity", "scikit-learn", "trading-strategies"]
+  }, {
+    "repo": "marcnewlin/hi_my_name_is_keyboard",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "friuns2/Leaked-GPTs",
+    "desc": "Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription. https://gptcall.net",
+    "officialSite": "https://gptcall.net",
+    "topics": ["ai", "awesome", "awesome-list", "gpts"]
+  }, {
+    "repo": "netease-youdao/QAnything",
+    "desc": "Question and Answer based on Anything.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "RVC-Boss/GPT-SoVITS",
+    "desc": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+    "officialSite": "",
+    "topics": ["text-to-speech", "tts", "vits", "voice-clone", "voice-cloneai", "voice-cloning"]
   }
 ]

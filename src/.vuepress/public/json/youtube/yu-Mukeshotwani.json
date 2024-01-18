@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Z9BcqOh-yc6CGwOJM2btL6Uira8ZFw5O_O36F7kB0mDXsKPN0ko5nowPT64FPRvWQvLApTq9fw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KwqqTKi3ti8", "title": "How To Fix `java.lang.NoSuchMethodError` In TestNG" },
     { "id": "jrQGzkVpZFs", "title": "Automation Testing Q&A Session - Ask me anything" },
     { "id": "jrQGzkVpZFs", "title": "Automation Testing Q&A Session - Ask me anything" },
     { "id": "cD3MNb9f--w", "title": "Web Automation Testing Using Selenium On Cloud" },

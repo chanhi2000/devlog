@@ -78,7 +78,9 @@ tags: ["llama" , "llm"]
 
 ---
 
+## Trail of Bits
 
+- [LeftoverLocals: Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory)
 
 ---
 

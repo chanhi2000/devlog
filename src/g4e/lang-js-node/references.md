@@ -632,6 +632,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Igor Roztropiński
+
+- [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

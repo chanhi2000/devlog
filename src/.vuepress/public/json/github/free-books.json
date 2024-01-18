@@ -159,5 +159,10 @@
     "desc": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "justjavac/free-programming-books-zh_CN",
+    "desc": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+    "officialSite": "http://weibo.com/justjavac",
+    "topics": ["android", "angular", "books", "free", "ios", "javascript", "kotlin", "pdf", "programming", "python", "react", "react-native", "swift", "vue"]
   }
 ]

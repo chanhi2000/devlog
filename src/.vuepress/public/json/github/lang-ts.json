@@ -2038,5 +2038,10 @@
     "desc": "Fully Type-Safe Integration for React Native WebView and Web",
     "officialSite": "https://gronxb.github.io/webview-bridge/",
     "topics": ["react-native", "react-native-webview", "react-native-webview-bridge"]
+  }, {
+    "repo": "react-native-webview/react-native-webview",
+    "desc": "React Native Cross-Platform WebView",
+    "officialSite": "https://github.com/react-native-community/discussions-and-proposals/pull/3",
+    "topics": []
   }
 ]

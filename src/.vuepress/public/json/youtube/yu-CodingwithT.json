@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/KWSQD3AAGiRKx8W98-xDDINM0t5bT9zsLaTrMP2HqFJuVvuaXlatH5XmG0pmlKzBpmepeJuRzA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "B0jLJ51NuxM", "title": "Fetch Sub Categories and their Products from Firestore | Flutter Firebase Tutorial 2024" },
+    { "id": "aQe5qptzmNQ", "title": "Flutter Firebase CRUD | Addresses in eCommerce App Flutter 2024" },
     { "id": "vQgxq1xaWwY", "title": "Fetch And Display All Brands & Brand-Specific Products Using Future Builder | Flutter Firebase" },
     { "id": "Ujj-efLh-yw", "title": "Flutter Fetch and Display Products Dynamically | Sort All Products | FutureBuilder" },
     { "id": "R1rajZdZmus", "title": "Product Details Page Flutter | Images List | Dynamic Product Variations | Firebase Firestore" },

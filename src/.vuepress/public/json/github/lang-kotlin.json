@@ -200,5 +200,10 @@
     "desc": "Material Design file manager for Android",
     "officialSite": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
     "topics": ["android", "android-application", "file-manager", "kotlin", "kotlin-android", "material-design"]
+  }, {
+    "repo": "mihonapp/mihon",
+    "desc": "Free and open source manga reader for Android",
+    "officialSite": "",
+    "topics": []
   }
 ]

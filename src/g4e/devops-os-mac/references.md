@@ -13,6 +13,12 @@ tags: ["macos", "settings"]
 
 ---
 
+## MacRumors
+
+- [U.S. Developers Can Now Offer Non-App Store Purchasing Option, But Apple Will Still Collect Commissions](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
+
+---
+
 ## Cyberhost
 
 - [Diving into a hidden macOS tool - `networkQuality`](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)

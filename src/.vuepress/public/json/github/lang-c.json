@@ -719,5 +719,10 @@
     "desc": "A native, user-mode, multi-process, graphical debugger.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "kparc/ksimple",
+    "desc": "bare minimum atw-style interpreter for learning purposes",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -1874,5 +1874,15 @@
     "desc": "A userscript to click \"show more\" links to expand all the text on a page, without slowing things down too much",
     "officialSite": "",
     "topics": ["annoyance", "chromium", "javascript", "userscript", "web"]
+  }, {
+    "repo": "Dooy/chatgpt-web-midjourney-proxy",
+    "desc": "chatgpt web, midjourney, gpts,tts, whisper 一套ui全搞定",
+    "officialSite": "https://vercel.ddaiai.com",
+    "topics": ["chatgpt-ui", "chatgpt-web", "gpts", "gpts-ui", "gptstore", "midjourney", "midjourney-api", "midjourney-ui", "whisper-ui"]
+  }, {
+    "repo": "max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "officialSite": "https://max-everyday.com/2018/03/tixcraft-bot/",
+    "topics": ["maxbot", "python", "selenium"]
   }
 ]

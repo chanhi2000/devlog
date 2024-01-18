@@ -919,5 +919,15 @@
     "desc": "湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]",
     "officialSite": "https://github.com/Meroser/IPTV",
     "topics": ["iptv", "iptv-m3u"]
+  }, {
+    "repo": "KAIST-VICLab/FMA-Net",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "officialSite": "",
+    "topics": ["azure", "cloud", "openapi", "rest", "swagger"]
   }
 ]

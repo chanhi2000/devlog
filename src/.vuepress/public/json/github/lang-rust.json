@@ -964,5 +964,10 @@
     "desc": "✨ Magical shell history",
     "officialSite": "https://atuin.sh",
     "topics": ["bash", "fish", "history", "rust", "shell", "zsh"]
+  }, {
+    "repo": "aabiji/muse",
+    "desc": "A cli background music player.",
+    "officialSite": "",
+    "topics": []
   }
 ]

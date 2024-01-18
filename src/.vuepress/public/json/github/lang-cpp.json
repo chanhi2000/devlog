@@ -1053,5 +1053,10 @@
     "desc": "Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.",
     "officialSite": "https://stellarium.org",
     "topics": ["astronomy", "c", "c-plus-plus", "planetarium", "qt5", "qt6", "science", "sky", "stars", "stellarium", "universe"]
+  }, {
+    "repo": "microsoft/STL",
+    "desc": "MSVC's implementation of the C++ Standard Library.",
+    "officialSite": "",
+    "topics": []
   }
 ]

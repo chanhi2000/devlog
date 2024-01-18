@@ -544,5 +544,10 @@
     "desc": "Apache Flink",
     "officialSite": "",
     "topics": ["big-data", "flink", "java", "python", "scala", "sql"]
+  }, {
+    "repo": "spring-projects/spring-ai",
+    "desc": "An Application Framework for AI Engineering",
+    "officialSite": "https://docs.spring.io/spring-ai/reference/",
+    "topics": ["artificial-intelligence", "java"]
   }
 ]

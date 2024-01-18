@@ -89,5 +89,10 @@
     "desc": "Omakase Ruby styling for Rails",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "rails/rails",
+    "desc": "Ruby on Rails",
+    "officialSite": "https://rubyonrails.org",
+    "topics": ["activejob", "activerecord", "framework", "html", "mvc", "rails", "ruby"]
   }
 ]

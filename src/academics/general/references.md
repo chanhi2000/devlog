@@ -62,4 +62,10 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## manifest ai
+
+- [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
+
+---
+
 <TagLinks />

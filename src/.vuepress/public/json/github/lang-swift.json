@@ -399,5 +399,10 @@
     "desc": "📸 A powerful, high-performance React Native Camera library.",
     "officialSite": "https://react-native-vision-camera.com",
     "topics": ["ai", "android", "barcode", "camera", "hacktoberfest", "instagram", "ios", "javascript", "jsi", "library", "qr-code", "qrcode", "react", "react-native", "react-native-camera", "scanner", "snapchat", "typescript", "vision", "worklet"]
+  }, {
+    "repo": "timfraedrich/OutRun",
+    "desc": "OutRun is an open-source, privacy oriented, outdoor fitness tracker.",
+    "officialSite": "https://outrun.tadris.de",
+    "topics": ["fitness", "ios", "swift"]
   }
 ]

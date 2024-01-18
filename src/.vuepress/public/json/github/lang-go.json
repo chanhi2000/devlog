@@ -1164,5 +1164,15 @@
     "desc": "Application Observability using eBPF",
     "officialSite": "https://deepflow.io",
     "topics": ["apm", "cloud-native", "distributed-tracing", "k8s", "kubernetes", "monitoring", "opentelemetry", "prometheus", "skywalking", "tracing", "wasm"]
+  }, {
+    "repo": "tellerops/teller",
+    "desc": "Cloud native secrets management for developers - never leave your command line for secrets.",
+    "officialSite": "https://tlr.dev",
+    "topics": ["aws", "conjur", "cyberark", "gce", "go", "golang", "hashicorp", "heroku", "secret-management", "secrets", "vault"]
+  }, {
+    "repo": "kedacore/keda",
+    "desc": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "officialSite": "https://keda.sh",
+    "topics": ["autoscaling", "event-driven", "hacktoberfest", "keda", "kubernetes", "serverless"]
   }
 ]

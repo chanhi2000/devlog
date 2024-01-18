@@ -454,5 +454,15 @@
     "desc": "A modern Anki custom scheduling based on free spaced repetition scheduler algorithm",
     "officialSite": "https://github.com/open-spaced-repetition/fsrs4anki/wiki",
     "topics": ["anki", "anki-addon", "deep-learning", "fsrs", "machine-learning", "memory", "optimal-control", "reinforcement-learning", "spaced-repetition", "spaced-repetition-algorithm", "srs"]
+  }, {
+    "repo": "TencentARC/PhotoMaker",
+    "desc": "PhotoMaker",
+    "officialSite": "https://photo-maker.github.io/",
+    "topics": []
+  }, {
+    "repo": "collabora/WhisperSpeech",
+    "desc": "An Open Source text-to-speech system built by inverting Whisper.",
+    "officialSite": "https://collabora.github.io/WhisperSpeech/",
+    "topics": ["pytorch", "speech-synthesis", "tts"]
   }
 ]
