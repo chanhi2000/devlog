@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/UTaC_duYBkEn63P-BACKQX2eogvUgLj8_pkI9aFw45wt3CaY4H3fbMgqoHXiaUUSNWaSz7UBkg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QaPbcayEicw", "title": "Scaling Kubernetes-based Event-driven Workloads with Keda & Karpenter • Roland Barcia • GOTO 2023" },
+    { "id": "mWfvi346puM", "title": "Introducing Kids to Code Through Hardware Using C++ • Sara Chipps • YOW! 2017" },
     { "id": "BNTt2aLB1tg", "title": "Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023" },
     { "id": "8kqw3JYFL18", "title": "Developer Productivity with Spotify Backstage in 5 Minutes • Lee Mills • GOTO 2023" },
     { "id": "7XzVScKvs5Y", "title": "Functional Programming in Spring with Arrow, Lenses & Effects • Jacob Bass • YOW! 2019" },

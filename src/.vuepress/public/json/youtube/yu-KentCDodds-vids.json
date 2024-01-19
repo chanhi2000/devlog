@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/3eTgCpcxxbtLDyfJfCselmzJczBsPIOXBTiKIhBWEMtd8EMk37PG8q5GDShRkCMKXc3QyN8etw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "weqaVbNvC5s", "title": "Generating CSS with Remix Resource Routes" },
+    { "id": "oUhugpBGpIk", "title": "Remix Flat Routes vs Remix v2 Router" },
+    { "id": "FDyPXYFNDLM", "title": "Toasts in Remix" },
     { "id": "URKySjEq5rk", "title": "KCD Office Hours 2023-12-14" },
     { "id": "WI-DLmxtvJo", "title": "Migrating EpicWeb.dev's Workshop App to Nx" },
     { "id": "zSdsng4vJkw", "title": "Upgrading Epic React's Bookshelf App" },

@@ -71,5 +71,6 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-icurfer" /><!-- icurfer -->
 <MyYouTubeItems jsonName="yu-Tech2etc" /><!-- Tech2 etc -->
 <MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
+<MyYouTubeItems jsonName="yu-code_name_sagang" /><!-- 사강코딩 -->
 
 <TagLinks />

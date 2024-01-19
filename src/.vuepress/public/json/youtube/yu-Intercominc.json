@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Intercominc",
+    "name": "Intercom",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ23z8kicNLLsKFNhvfi6s0vGBKmUMa6LW6h7CF0g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X2L--JXZWGVpwPqx8pLU34Few1NJN2Z7yIlLORKZq4-XAf-etg_W-Qny8uvjLVbQQNi2OpFXPw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oa61Pn_mWXk", "title": "Synthesia CEO Victor Riparbelli on how generative AI is transforming video" },
+    { "id": "OpXJANfwwIA", "title": "CX leader Camille Acey on the evolving dynamics in customer service" }
+  ]
+}

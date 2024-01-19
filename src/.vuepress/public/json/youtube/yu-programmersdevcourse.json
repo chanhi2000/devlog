@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "programmersdevcourse",
+    "name": "프로그래머스 데브코스",
+    "profile": "https://yt3.googleusercontent.com/-59SPUbTVwOhmGrubN3yBfbfLVnIDEh28np-KZdT0HRTRWo5LOHUcM4CvkYoJfQ-rZdApxTP4Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qLoMFwH7uSKEConDQDhGdHtut3dFzW0i2nACdMRTVs4SezhmYJf2vCBEsLMBZ9E2JWasJDtn=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tFC6_6oeyv8", "title": "김주웅 - 자바 8과 자바 17의 차이 | 백엔드 데브코스 4기 | 20230628" },
+    { "id": "VmWscKw6eSw", "title": "김범석  - String 그리고 Constant Pool | 백엔드 데브코스 4기 | 20230614" },
+    { "id": "s9Cm3TxwdZI", "title": "고예성 - 동적 바인딩과 정적 바인딩 | 백엔드 데브코스 4기 | 20230614" },
+    { "id": "5nAUcCBCKuU", "title": "문종운 - 익명클래스와 람다 | 백엔드 데브코스 4기 | 20230614" },
+    { "id": "m_b5PLwYtsY", "title": "홍창기 - XSS(Cross-Site-Scripting) Attack｜프론트엔드 데브코스 4기 딥다이브｜20230828" },
+    { "id": "WuP-FygaIdM", "title": "김유진 - 방황과 마주하기까지의 여정｜프론트엔드 데브코스 4기 딥다이브｜20230920" },
+    { "id": "uzbwNUMPBNg", "title": "홍창기 - Promise to async / await｜프론트엔드 데브코스 4기 딥다이브｜20230727" },
+    { "id": "PXuE5MhJMiE", "title": "남궁호수 - 실행 컨텍스트와 다양한 상황에서의 this｜프론트엔드 데브코스 4기 딥다이브｜20230731" },
+    { "id": "J7S7R2aM6Bo", "title": "이종길 - 불변성｜프론트엔드 데브코스 4기 딥다이브｜20230616" },
+    { "id": "57CtedBA7Kk", "title": "이정욱 - Three.js｜프론트엔드 데브코스 4기 딥다이브｜20230831" },
+    { "id": "6OMkqhfKVF0", "title": "이범진 - 다이나믹 프로그래밍 접근법｜프론트엔드 데브코스 4기 딥다이브｜20230630" },
+    { "id": "3fd2FiTPkgA", "title": "이상훈 - 프로토타입｜프론트엔드 데브코스 4기 딥다이브｜20230726" },
+    { "id": "ZEI0QrIIW8U", "title": "프로그래머스 데브코스 미리보기: 타입스크립트로 함께하는 웹 풀 사이클 개발(React, Node.js) (with CLOVA Dubbing)" }
+  ]
+}

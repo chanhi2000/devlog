@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/qPhhDgXqW5kdhwyFyxujtVuH4HP8P-gAI_wKSGIUV8T3u_pT-TRwFkNBJ6It8VYnVmJEJNSZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eL6K5zmaby8", "title": "New in Laravel 10.35: Blade `@use` Directive" },
+    { "id": "tULL_vGrzI0", "title": "New in Laravel 10.35: Number Abbreviate Method" },
+    { "id": "fiVFiEnY_Pk", "title": "New in Laravel 10.38: `@session` Blade Directive" },
+    { "id": "px2F_m6pDCM", "title": "3 Eloquent Tips: Raw SQL, Latest and Condition Brackets" },
+    { "id": "hur-PdfaogE", "title": "Laravel: Two Routes - Resource or Single Get Routes?" },
+    { "id": "sPsXx8E0fVU", "title": "Laravel/Carbon: Users with Birthday in Upcoming 7 Days" },
+    { "id": "0rLs5sOKFYM", "title": "Laravel 11 Skeleton: What We Know So Far" },
+    { "id": "ehbHx8XkNpk", "title": "Extract Receipt Data: Laravel, Livewire and OpenAI GPT-4-Vision" },
     { "id": "RYzMd1m0KxE", "title": "\"Method Does Not Exist\": What To Do? How to Debug?" },
     { "id": "7XZRnYfj4oI", "title": "Laravel and OpenAI API: Practical Example of Calling ChatGPT" },
     { "id": "mLiPHTqnZZE", "title": "My New Project: Python & Machine Learning DAILY" },

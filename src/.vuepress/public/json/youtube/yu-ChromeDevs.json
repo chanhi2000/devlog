@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/8O-pVLfm0enT2HsqodAx5-LBP-Ef0Yi5HMxSWkXY7V4tttWDYFtuGahxLoajQR9gY12cZTGKVuU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jrMCjyUY4Ts", "title": "What are Private State Tokens?" },
+    { "id": "ZZtNA1GZ9zQ", "title": "Progressive Web Apps in multi origin sites" },
     { "id": "rGqr2gc6Vow", "title": "What is Storage Access API?" },
     { "id": "hCbSRNE4WUI", "title": "Thinking on ways to solve COMPARE components" },
     { "id": "Ylr7A059sDg", "title": "Privacy Sandbox: Preparing for the end of 3rd-party cookies" },

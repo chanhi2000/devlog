@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/zxyAaqSUdqDSbBu8EOEIf94pMER-tq6wTwqnSnsdgQWV5UxYXAp7zy_OxG_PQeetDR6tPZZR9Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_XeK_-rdAGg", "title": "악성코드 정적 분석 도구 SRE 활용 사례 #malware #악성코드" },
+    { "id": "8w6JDoug1VU", "title": "공격코드를 빠르고 효율적으로 cve-maker 오픈 도구 소개 #kali #exploit" },
+    { "id": "uVPfsdmGvC0", "title": "ngrok을 이용하여 칼리리눅스 웹 서버를 외부에 공유하기 #web #ngrok" },
+    { "id": "VnUjq7AqyE8", "title": "파이썬플라스크 - mongodb에 form 데이터 저장 및 불러오기" },
+    { "id": "-HWbQLO4zX8", "title": "Criminal IP API 요청 결과를 MongoDB 에 저장하는 방법 #osint #hacker" },
+    { "id": "pvBCrGdvZw8", "title": "Criminal IP 활용 - IP 리스트 검색 결과들을 MongoDB에 저장 #criminalip #osint" },
+    { "id": "05Bvb44iCAg", "title": "파이썬 streamlit 활용한 Criminal IP 정보 조회 서비스 #python #osint" },
     { "id": "flMgnpDatok", "title": "도커 컨테이너 환경 취약한 웹 서비스 설치 과정 파일 업로드 권한 부여" },
     { "id": "EZiw4mhCG1Y", "title": "버프스위트 웹 시큐리티아카데미 clickjacking 공격 사례 실습" },
     { "id": "EYQhGE5P0Sw", "title": "네이버 클라우드 학습하고 강의하며 발생한 비용 내역 #네이버클라우드 #cloud" },

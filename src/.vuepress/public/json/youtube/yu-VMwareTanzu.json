@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8BrEeC6PiiY", "title": "⚡️ Enlightning - Be a Security Hero with Kubescape as Your Sidekick" },
+    { "id": "2ylmZCARzsc", "title": "⚡️ Enlightning - What Is Access Policy Orchestration? What Is Hexa?" },
+    { "id": "fqapvuIL6Qs", "title": "⚡️ Enlightning - Keycloak: The Open Source IAM for Modern Applications" },
+    { "id": "D_VxGmOWHDM", "title": "Why do companies still use old versions of Java and Spring?" },
     { "id": "SaHnNw_aWQk", "title": "What is \"waste\" in software development, with Steve Pereira - Tanzu Talk" },
     { "id": "8BrEeC6PiiY", "title": "⚡️ Enlightning - Be a Security Hero with Kubescape as Your Sidekick" },
     { "id": "99YWNJa7SfE", "title": "⚡️Enlightning - What Is Dex?" },

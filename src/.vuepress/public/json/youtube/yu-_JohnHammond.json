@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/in4dPUMuyvgvMG6mdJXA3-ZPTtlWn2HqCk0FGfdV8fNHIIJ8DhcP0C3Fk1pQZVpkoMO_dLQqkg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "channelId": "HoussemDellai", "channelName": "Houssem Dellai", "id": "LuP1X6awyWs", "title": "Secure network access to Container Apps" },
+    { "channelId": "EquitableEquations", "channelName": "Equitable Equations", "id": "D-ArAu3XFWc", "title": "Understanding the structure of R functions" },
+    { "channelId": "GitHub", "channelName": "GitHub", "id": "Hpx4Zlu8ujk", "title": "How to use GitHub for end-to-end development" },
     { "id": "kUYtY49XZfE", "title": "Learn to Hack AWS & Kubernetes Clusters (for free)" },
     { "id": "NIceKjhZhrI", "title": "How To Hack APIs with Python" },
     { "id": "g4RaCFXUqhQ", "title": "Writing Custom Malware: Import Address Table Hooking" },

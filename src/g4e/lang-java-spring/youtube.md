@@ -33,6 +33,9 @@ meta:
 <MyYouTubeItems jsonName="yu-user-kp6ez9ty9p" /><!-- 최현웅 -->
 <MyYouTubeItems jsonName="yu-BoualiAli" /><!-- Bouali Ali -->
 <MyYouTubeItems jsonName="yu-developer_jango" /><!-- 개발자 장고 -->
-
+<MyYouTubeItems jsonName="yu-seoulit" /><!-- SeoulitOnLineCourse TV -->
+<MyYouTubeItems jsonName="yu-user-lu1tr6kr5f" /><!-- 나는 황쌤이다 -->
+<MyYouTubeItems jsonName="yu-user-jn1ly6wf9q" /><!-- 웹짱이영환쌤 -->
+<MyYouTubeItems jsonName="yu-user-ej5rc3gi3p" /><!-- 이백행 -->
 
 <TagLinks />

@@ -103,5 +103,5 @@ tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp
 <MyYouTubeItems jsonName="yu-GNMUplat" /><!-- GNMU 네트워크마케팅대학 -->
 <MyYouTubeItems jsonName="yu-kakaobrain" /><!-- kakaobrain -->
 <MyYouTubeItems jsonName="yu-VoxxedDaysLuxembourg" /><!-- Voxxed Days Luxembourg -->
-
+<MyYouTubeItems jsonName="yu-programmersdevcourse" /><!-- 프로그래머스 데브코스 -->
 <TagLinks />

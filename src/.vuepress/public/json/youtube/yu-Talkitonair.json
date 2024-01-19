@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/m0Dg_TMEAyS_W1Z2c2v3c65E0Xx2zFaP8jq3uX4JTwU2w4dKyIAkjJNiiHYJRAxrGaL6kz4v=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ozqrcybLqEg", "title": "테스트 자동화의 진화: CI/CD + Continuous Testing, 모델기반 자동화, AI기반 [ 세미남366@토크아이티, 트리센티스 서보희 지사장]" },
+    { "id": "9IRdShzq-h0", "title": "RPA 포털 사용하는 3가지 이유: 이기종 RPA 관리, RPA ROI 분석, 현업 참여 촉진 [세미남368@토크아이티, 파워젠 이창섭부장]" },
+    { "id": "gbnwr76Ks_4", "title": "ERP PM의 조건, When & How 에서 Why & What 으로! [ 세미남345@토크아이티, ASPN 백성현 부사장]" },
+    { "id": "Zlz5CkFJzYc", "title": "데이터 엔지니어를 위한 CDC vs ETL vs ELT  개념 요약 [ 세미남355@토크아이티, 디비투이 김명훈 대표]" },
+    { "id": "uttuZnJXXnk", "title": "차세대 방화벽의 조건: 제로트러스트, 하이브리드 클라우드 [세미남348@토크아이티, 팔로알토네트웍스 김범수 이사]" },
+    { "id": "Tprkp5A-XZ0", "title": "3D프린터가 만드는 제조혁신: 맞춤형 생산, 분산 제조  [세미남360@토크아이티, 스트라타시스 고유성 부장]" },
+    { "id": "b6NwUPDvOAE", "title": "반도체공장 디지털트윈 어디에 어떻게 적용하는가?  배관 설계,시공 , 가상 센서,  FAB 물류로봇 자율운영 , 프라이빗 LLM [토크아이티 세미남367, 이안 조규민 상무]" },
+    { "id": "N_rriEHcO8o", "title": "SSD vs HDD vs Tape  [세미남362@토크아이티, 씨게이트 김정균 이사]" },
+    { "id": "7x3NMeJEcMs", "title": "96코어 AMD CPU내장 HP Z6 G5A 고성능 워크스테이션 심층분석 [토크아이티 웨비나]" },
+    { "id": "yxOvWxcYvcc", "title": "클라우드 보안 CSPM vs CNAPP vs CWPP  [세미남350@토크아이티, 팔로알토네트웍스 김수영 이사]" },
+    { "id": "YiljBBtkgmY", "title": "데이터 분석의 여정: 집합, 통계, 확률, AI 자동화 [세미남370@토크아이티, 아이엠그루 신창호 대표]" },
     { "id": "kEUltbzfxPc", "title": "EDB (기업용 PostgreSQL) vs 오라클DB  [구해줘 Data@토크아이티, EDB 김동수 이사]" },
     { "id": "TruyJ6v4wUA", "title": "보안 컨설턴트가 얘기하는 제로트러스트, 무엇이고 어떻게 준비하는가?  [구해줘 Security@토크아이티, 테이텀 시큐리티 장현호 리드, 투이컨설팅 정관복 이사]" },
     { "id": "RWB_hyTiibY", "title": "RPA 포탈 왜 필요하고 어떻게 사용하고 있나?[구해줘 DX@토크아이티 프리미엄 웨비나, 파워젠]" },

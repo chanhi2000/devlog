@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/3gSKtGMbSfzcfYzxdFbhlC4jS9dQMI9fMgbu_e3sHfrVOFO-qRM5jjl6KWWiZG8GN7PPeljFiA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jxt9wUPGzSw", "title": "Cleaning Out Journal Files" },
+    { "id": "FBGbENrLEJA", "title": "BcacheFS - \"The COW filesystem for Linux that won't eat your data\"" },
     { "id": "85d-HcCZURU", "title": "Three Container Systems for Linux" },
     { "id": "T3Jscy0tbTA", "title": "FreeBSD 14.0" },
     { "id": "-j4jEC1RUwc", "title": "Bare Metal vs Virtual Machines 2.0" },

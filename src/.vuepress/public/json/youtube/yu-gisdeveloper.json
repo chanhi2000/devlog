@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/EVs-Tc52zuZ1ubvo9u-BAG7fbHbo2EXpJEYF4AEkMXlVKE21mLwjITjlzAz0YdSnJWQ6LV3R=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fbzUsNSp1ns", "title": "프론트엔드 개발 방법의 정석 PART-1" },
+    { "id": "r6SjPCeuafo", "title": "프론트엔드 개발 방법의 정석 PART-2" },
+    { "id": "OGRx1zAnjyY", "title": "프론트엔드 개발 방법의 정석 PART-3" },
     { "id": "_GB-rN_bjO0", "title": "(오프라인교육) 3D 가상환경 멀티플레이어 인터렉티브 웹 개발" }
   ],
   "playlists": [

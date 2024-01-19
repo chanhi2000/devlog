@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/JWXdU83-8DQkweKSPADldBsMWzA9-ntWBVIQ_ujE4IJP8o6so3LvNBgOdyRW0hq1mifLhjMc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qYXtMZUgBQw", "title": "What’s New in Two with Redis - November Edition" },
+    { "id": "NDAzTvjpyS4", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
+    { "id": "R1IXYnoSd5U", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
     { "id": "CED3muZJaL0", "title": "Monolithic to Microservices: Apna’s Journey with Redis Enterprise" },
     { "id": "CegTSglMUks", "title": "Introducing Polygon Search in Redis Stack 7.2" },
     { "id": "KUfufrwpBkM", "title": "Redis Stack Workshop: Redis Stack OM Library for Node.js" }, 

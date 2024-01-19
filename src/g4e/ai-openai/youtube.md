@@ -65,5 +65,6 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-nangman002" /><!-- 낭만공돌이 - IT와 비즈니스 이야기 -->
 <MyYouTubeItems jsonName="yu-YannicKilcher" /><!-- Yannic Kilcher -->
 <MyYouTubeItems jsonName="yu-sentdex" /><!-- sentdex -->
+<MyYouTubeItems jsonName="yu-diplwapl" /><!-- 디플와플 -->
 
 <TagLinks />

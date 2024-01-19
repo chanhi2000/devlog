@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/pz7L60DZW8X1KubFhuKe7a_fxNPXAOfsDn1KZ4VK9jETvenZ2OKW_J8L7UGheEZsyqo9682IjfI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_jZ5ignWnnQ", "title": "레포지토리 최신화하기 (트러블슈팅) [ 플러터 기초 (Flutter Basic) ]" },
+    { "id": "UaYedzyi95I", "title": "StatelessWidget과 StatefulWidget -실습편- [ 플러터 기초 (Flutter Basic) ]" },
     { "id": "ga--l9KfD0c", "title": "03 UI 구성하기 [ 토이 프로젝트 (Toy Project) ]" },
     { "id": "gs6Oe5QgnxA", "title": "02 초읽기 앱 프로젝트 생성하기 [ 토이 프로젝트 (Toy Project) ]" },
     { "id": "GW_tQobbLJc", "title": "01 초읽기 앱 기획 및 Figma UI 디자인하기 [ 토이 프로젝트 (Toy Project) ]" },

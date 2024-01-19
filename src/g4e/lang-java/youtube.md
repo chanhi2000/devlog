@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: ☕️Java > 📺Youtube
-tags: ["java", "jdk", "youtube", "@MikesTechCorner", "@KeepToo", "@naveenautomationlabs", "@java0405", "@freeleckor", "@KenuHeo", "@JavaGuides", "@RamNJava", "@user-jn1ly6wf9q", "@ResoCoder", "@discospiff", "@DailyCodeBuffer", "@DanVega", "@codefarm0", "@user-ej5rc3gi3p", "@tookootek", "@keesun.b", "@ntigo", "@javajigi", "@tobyspring", "@rabisankarpodder7839", "@GainJavaKnowledge", "@infybuzz", "@java", "@namoosori", "@metacoding", "@DataStaxDevs", "@javaforengineersYT", "@HelloCodepur", "@SeleniumExpress", "@in28minutes", "@priyatalkstech6534", "@aptkode", "@fosdemtalks", "@GenuineCoder", "@alexlorenlee", "@1BestCsharpblog", "@RomanianCoder", "@szLynAs", "@DefogTech", "@omerjava", "@SergeyKargopolov", "@SiliconBrighton", "@trustinlee", "@PhilipStarritt", "@juglodz", "@MVPJava", "@codingsaint", "@SumeetMaharjan", "@oracledevs", "@varuncbv", "@thenishkhandk", "@CodeJava", "@DevLanding", "@KT-cq2ph", "@arahansame9320", "@amilacjay", "@ProgrammerZamanNow", "@jj362choi", "@KotlinHyderabad", "@gamefromscratch", "@GiuseppeScaramuzzino", "@JavaInUse", "@ProgrammingTechie", "@Touchlab", "@atl.academy", "@springcampkr", "@WhizdomTrainings01", "@SivaReddyJavaTechie", "@patrickwashingtondc", "@javasoul4367", "@NareshIT", "@icttrainer6889", "@newlec1", "@sangmessi727", "@loianegroner", "@microserviceslab5515", "@xxxjjhhh", "@hancoding", "@around.hub.studio", "@SagguUK", "@MasterNKS", "@user-tu5nq1er9t", "@user-io1lo4zs8n", "@devCJH", "@Techtter", "@ithotgi", "@user-ht2jq8bg9b", "@devtiro", "@SpringIOConference", "@CodeWisTechnologies", "@hobbyMett", "@ssap-dba", "@VickingDev", "@ringring_creator", "@TheTestingAcademy", "@puneethkumarnarasimhaiah5092", "@shadsluiter", "@DeveloperVoices", "@nullistp4065", "@KyounRrock", "@IT-sm6mq", "@BusinessAndTech", "@surendranvelath4355", "@davidford6890", "@yhdev", "@seibertmedia", "@cloudtech5260"]
+tags: ["java", "jdk", "youtube", "@MikesTechCorner", "@KeepToo", "@naveenautomationlabs", "@java0405", "@freeleckor", "@KenuHeo", "@JavaGuides", "@RamNJava", "@ResoCoder", "@discospiff", "@DailyCodeBuffer", "@DanVega", "@codefarm0", "@tookootek", "@keesun.b", "@ntigo", "@javajigi", "@tobyspring", "@rabisankarpodder7839", "@GainJavaKnowledge", "@infybuzz", "@java", "@namoosori", "@metacoding", "@DataStaxDevs", "@javaforengineersYT", "@HelloCodepur", "@SeleniumExpress", "@in28minutes", "@priyatalkstech6534", "@aptkode", "@fosdemtalks", "@GenuineCoder", "@alexlorenlee", "@1BestCsharpblog", "@RomanianCoder", "@szLynAs", "@DefogTech", "@omerjava", "@SergeyKargopolov", "@SiliconBrighton", "@trustinlee", "@PhilipStarritt", "@juglodz", "@MVPJava", "@codingsaint", "@SumeetMaharjan", "@oracledevs", "@varuncbv", "@thenishkhandk", "@CodeJava", "@DevLanding", "@KT-cq2ph", "@arahansame9320", "@amilacjay", "@ProgrammerZamanNow", "@jj362choi", "@KotlinHyderabad", "@gamefromscratch", "@GiuseppeScaramuzzino", "@JavaInUse", "@ProgrammingTechie", "@Touchlab", "@atl.academy", "@springcampkr", "@WhizdomTrainings01", "@SivaReddyJavaTechie", "@patrickwashingtondc", "@javasoul4367", "@NareshIT", "@icttrainer6889", "@newlec1", "@sangmessi727", "@loianegroner", "@microserviceslab5515", "@xxxjjhhh", "@hancoding", "@around.hub.studio", "@SagguUK", "@MasterNKS", "@user-tu5nq1er9t", "@user-io1lo4zs8n", "@devCJH", "@Techtter", "@ithotgi", "@user-ht2jq8bg9b", "@devtiro", "@SpringIOConference", "@CodeWisTechnologies", "@hobbyMett", "@ssap-dba", "@VickingDev", "@ringring_creator", "@TheTestingAcademy", "@puneethkumarnarasimhaiah5092", "@shadsluiter", "@DeveloperVoices", "@nullistp4065", "@KyounRrock", "@IT-sm6mq", "@BusinessAndTech", "@surendranvelath4355", "@davidford6890", "@yhdev", "@seibertmedia", "@cloudtech5260"]
 meta:
   - property: og:title
     content: 📺Youtube
@@ -28,13 +28,11 @@ meta:
 <MyYouTubeItems jsonName="yu-KenuHeo" /><!-- Kenu Heo -->
 <MyYouTubeItems jsonName="yu-JavaGuides" /><!-- Java Guides -->
 <MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->
-<MyYouTubeItems jsonName="yu-user-jn1ly6wf9q" /><!-- 웹짱이영환쌤 -->
 <MyYouTubeItems jsonName="yu-ResoCoder" /><!-- Reso Coder -->
 <MyYouTubeItems jsonName="yu-discospiff" /><!-- Brandan Jones -->
 <MyYouTubeItems jsonName="yu-DailyCodeBuffer" /><!-- Daily Code Buffer -->
 <MyYouTubeItems jsonName="yu-DanVega" /><!-- Dan Vega -->
 <MyYouTubeItems jsonName="yu-codefarm0" /><!-- Codefarm -->
-<MyYouTubeItems jsonName="yu-user-ej5rc3gi3p" /><!-- 이백행 -->
 <MyYouTubeItems jsonName="yu-tookootek" /><!-- tookootek -->
 <MyYouTubeItems jsonName="yu-keesun.b" /><!-- 백기선 -->
 <MyYouTubeItems jsonName="yu-ntigo" /><!-- 김대협 -->
@@ -128,5 +126,6 @@ meta:
 <MyYouTubeItems jsonName="yu-yhdev" /><!-- 김영한 -->
 <MyYouTubeItems jsonName="yu-seibertmedia" /><!-- SEIBERTMEDIA -->
 <MyYouTubeItems jsonName="yu-cloudtech5260" /><!-- CloudTech -->
+<MyYouTubeItems jsonName="yu-goobar" /><!-- goobar -->
 
 <TagLinks />

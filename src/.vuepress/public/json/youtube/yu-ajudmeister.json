@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LBx-PFPevasWu6YfvRtaV6VDKalTt7lpHKixM9JyQ13iv7fPqoB_vgaBzYgqBeEte8xb5K0X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CziC1s5MULw", "title": "Maintenance Page with Django Middleware - Deployment with Django - Part 10" },
+    { "id": "MfMok3ZAWjU", "title": "Domains, Allowed Hosts and CSRF - Deployment with Django - Part 11" },
+    { "id": "6KNO-RBimNo", "title": "Nested Replies with Django and Htmx" },
     { "id": "6ayk9SvHid4", "title": "Automatic Tests & Github Actions - Deployment with Django - Part 9" },
     { "id": "vhGT9DKu5jk", "title": "Clone Repo & Merge Conflict - Deployment with Django - Part 8" },
     { "id": "PWys7BPUWtE", "title": "Feature Toggle for CI/CD - Deployment with Django - Part 7" },

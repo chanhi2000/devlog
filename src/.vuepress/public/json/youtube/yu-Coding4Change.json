@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/bHwXkMgcO46GLMLDpYhELTvq4ksJuRga68qBerLnJVj_LZwEWohMhTuW01tGftDphhWkv5iC5Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5GWF-jx3uso", "title": "SQL강좌:12-7. 인덱스 생성과 관리 - 인덱스 옵션" },
+    { "id": "S_iiCNmjWKk", "title": "SQL강좌:12-8. 인덱스 생성과 관리 - 인덱스 재구성/재구축" },
+    { "id": "4ZddodJOJ9Q", "title": "SQL강좌:12-9. 인덱스 생성과 관리 - DTA(데이터베이스 엔진 튜닝 관리자)" },
+    { "id": "WwileF2BXMU", "title": "SQL강좌:13-1. 백업과 복원 - 백업과 복원 이해" },
+    { "id": "CvVxQKA-pW0", "title": "SQL강좌:13-2. 백업과 복원 - 백업과 복원 전략" },
+    { "id": "HBvrJJSg3BQ", "title": "SQL강좌:13-3. 백업과 복원 - 백업과 복원 전략 실행" },
+    { "id": "oCtCuinDkkA", "title": "SQL강좌:13-4. 백업과 복원 - 유지 관리 계획 수립" },
+    { "id": "ommczM_fWek", "title": "SQL강좌:13-5. 백업과 복원 - 로그 전달, Always On 고가용성과 재해 복구 구현" },
+    { "id": "I9F1PodjVgc", "title": "SQL강좌:14-1. 트랜잭션과 잠금처리 - 트랜잭션 이해" },
+    { "id": "czlYQpTNtzA", "title": "SQL강좌:14-2. 트랜잭션과 잠금처리 - 트랜잭션 종류" },
     { "id": "vRrSFf3r12Q", "title": "SQL강좌:12-3. 인덱스 생성과 관리 - 인덱스 생성" },
     { "id": "2aB-bn_rWbc", "title": "SQL강좌:12-2. 인덱스 생성과 관리 - 인덱스 종류" },
     { "id": "XHX9KDzHxxU", "title": "SQL강좌:12-1. 인덱스 생성과 관리 - 인덱스(Index) 소개" },

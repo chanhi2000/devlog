@@ -73,5 +73,8 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 <MyYouTubeItems jsonName="yu-RibaLinux" /><!-- Riba Linux -->
 <MyYouTubeItems jsonName="yu-thiagoleite9489" /><!-- Thiago Leite -->
 <MyYouTubeItems jsonName="yu-theepistolatory" /><!-- Georgios Magklaras -->
+<MyYouTubeItems jsonName="yu-schezokim" /><!-- Austin Kim -->
+<MyYouTubeItems jsonName="yu-CyberGizmo" /><!-- DJ Ware -->
+<MyYouTubeItems jsonName="yu-HarveysVE" /><!-- Harvey’s Virtual Environment -->
 
 <TagLinks />

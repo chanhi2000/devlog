@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/0L41YEmkyuGmIeFBahinVqWaaHqUWDWiZdxsnjrK8CWVdTr1cF1GnkUfg98InksaiqXDIjWopA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Lb7OShyNSdM", "title": "Background Tasks in iOS (Swift & Xcode) – Beginners" },
+    { "id": "AEuLtzPRakU", "title": "Date Timezones in Xcode 15 and Swift – iOS Development" },
     { "id": "2YpNPUhGo44", "title": "Introduction to SwiftData – iOS Development" },
     { "id": "S8K4m1dMTGU", "title": "Build A SwiftUI Airbnb App" },
     { "id": "nobQa0E_zeo", "title": "Empty States in SwiftUI – iOS 17" },

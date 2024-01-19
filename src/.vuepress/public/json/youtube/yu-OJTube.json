@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/bA1DLdOXuSy_rwC_MPzPpH6Br0U42fMI4WaQyBzmhGd7v0-KnVwMjhqWqjsmbCPF37VTM0baIw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zyG9rd78cpU", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ]  11. 프로세스는 어떻게 삶을 마감하는가?" },
+    { "id": "G18t_qBmheE", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ]  12. 태스크의 모든 정보는 여기에 있다!" },
+    { "id": "n6Cw40q4jJk", "title": "내가 다니는 회사는 성공할 회사일까?" },
+    { "id": "DdrXPs3VC3A", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ]  13. 아키텍처마다 다른 thread_info 구조체" },
     { "id": "Z24gYNX_PDc", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ] 9. 찬란한 프로세스의 삶" },
     { "id": "RWtYJfg672A", "title": "[한국에서 제일 쉬운 리눅스 커널 강의 ]  10. 프로세스는 어떻게 태어나는가?" },
     { "id": "PeIzx4E5bkU", "title": "솔직하게 말해봅시다." },

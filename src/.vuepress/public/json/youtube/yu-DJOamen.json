@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/6r37uvmD2t76rc90wM9ipbAwlLSPjjNMq-J4xunHUv0gbTm9nZBJM0vUBWFwTIQsbyJnGajm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OvHqFHydg9I", "title": "How to Create a Loan Calculator with PMT Function in Visual Basic.Net" },
+    { "id": "iqHnWacwlho", "title": "How to Create a Loan Calculator Management System with PMT Function in C#" },
+    { "id": "4KzPKiQoUTQ", "title": "How to Create a Loan Calculator using PMT Function in Visual C++" },
     { "id": "3P8ciB3m_LI", "title": "How to Create a Loan Calculator in C# using PMT Function" },
     { "id": "W63DbafMG-A", "title": "How to Create a Loan Calculator with PMT Function in Excel VBA" },
     { "id": "u9YsuspS1jk", "title": "How to Create a Loan Calculator using PMT Function in  MS Access" },
@@ -24,4 +27,3 @@
     { "id": "3oHZVmqslgE", "title": "How to Create a C++ Stock Management System using Microsoft Access in C++ Builder - Full Tutorial" }  
   ]
 }
-

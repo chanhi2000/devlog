@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/DOqV0LGj1wmf6eCAW8JzO6uohemQ8o9Q9v3UVNIpI6IBghJbaf7Ipdghed0QGSVZ4uPpyqz15Cs=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JVf1Ln0Enfo", "title": "Pivot Table Basics" },
+    { "id": "eFqP5x9pYeU", "title": "Learn with the Nerds Preview: Excel Beginner to Pro" },
+    { "id": "q7w33bMBe20", "title": "Which Microsoft Project Plan is Right For You?" },
+    { "id": "wIJQ8F8Yvc0", "title": "Leveraging Custom Labels in Power BI" },
+    { "id": "dxKK3rbubvo", "title": "Microsoft Excel Tutorial 📊 Beginner to Pro 2024 Edition [Full Course] ⚡" },
+    { "id": "bs3AodvuTmE", "title": "LWTN Excel Beginner to Pro Epilogue" },
+    { "id": "5HsFR78cl0I", "title": "Universal Design in Power BI: Fonts" },
+    { "id": "STt1WsIGT7Q", "title": "CertXP Launch Party!" },
+    { "id": "YmzTy8w7LcM", "title": "Using formatDateTime in Power Automate - New vs. Classic Designer" },
     { "id": "-MFpKx5QdrY", "title": "Inserting Dynamic Tables (Repeating Sections) into Word Templates from Power Automate!" },
     { "id": "cp3NqFoa1WM", "title": "How to Create a Pop Up in a Model Driven App with the 'Confirm' PowerFX function!" },
     { "id": "sbxnDqRxTPQ", "title": "The NEW Outlook Activity in Fabric Data Factory Pipelines" },

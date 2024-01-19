@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hVpuiwsFW-1ylrGTY15_Eepo0L5mw6lWtiXqBO9Lw0Guc1rirH5kEpJr-rySipptoRkVifLoqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_BEwumVzjuA", "title": "개발자가 되고나니 안좋은 점 | 현실적인 개발자 단점" },
     { "id": "LRWZa8qJdAU", "title": "취업 못한 당신이 놓친 8가지" },
     { "id": "O1GzLLCGmuc", "title": "UI 싹 바뀐 AWS..? 대체 얼마나 | EC2에 서버 배포 ㄱ쉬워짐 | 인스턴스 가상 컴퓨터 띄우기" }
   ]

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/sxzld_A3w-McPIbiDog31iFkqoNDtUsD22_flBamY4EGBq9N3gz8mYGBKS2HquFxzouWZJweBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4lItzpcZTk4", "title": "Hyperscript - Interactively Searching Web Content!" },
     { "id": "zq0_g3BKltE", "title": "FastAPI - Request Body and POST requests | Pydantic pre-validators" },
     { "id": "wD7VB17fLK4", "title": "HTMX-ify a Django list page!" },
     { "id": "Y0g8iujY-GA", "title": "Enums in Python & Pydantic | Python 3.11 StrEnum | Case-Insensitive enum with _missing_() method" },

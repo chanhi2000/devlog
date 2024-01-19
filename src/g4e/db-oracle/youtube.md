@@ -21,5 +21,6 @@ tags: ["sql", "db", "mysql", "shell"]
 <MyYouTubeItems jsonName="yu-ssap-dba" /><!-- 쌉DBA -->
 <MyYouTubeItems jsonName="yu-IT-sm6mq" /><!-- IT 늦공 김부장 -->
 <MyYouTubeItems jsonName="yu-glide_ilab" /><!-- 라이프사이클 재무에 대한 모든 것_글라이드 -->
+<MyYouTubeItems jsonName="yu-Coding4Change" /><!-- Coding4Change-NPO코딩캠프 -->
 
 <TagLinks />

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/paEFSTn2khwNrBkbz9hYLsu7dQw4VxTFDyBdMI_HlLbWXxRUEisebPzK5Zma87QUos1_8HHJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "w8mdhD3dxDo", "title": "Getting Started with Model Builder in ArcGIS Pro" },
+    { "id": "SeVNWyFJI5A", "title": "How to Create Random Points in ArcGIS Pro" },
+    { "id": "nbLwYT9Iwkc", "title": "ArcGIS Utility Network: How to Create a Named Trace Configuration" },
     { "id": "dPHyNCbQ4PI", "title": "Configure a Network Dataset using ArcGIS Pro" },
     { "id": "1gxGBIsiWsw", "title": "Prepare Data for Network Analysis in ArcGIS Pro" },
     { "id": "yPHML3ZXc3Q", "title": "How to Deploy an ArcGIS Solution in 4 Minutes" },

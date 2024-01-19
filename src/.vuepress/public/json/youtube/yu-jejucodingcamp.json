@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/xKmjRuZ8hHeaAEZeXzZ3qvIi1A3ZxRsFMVYuI_nnSjERpH3OyWIMYOgXrUWmF5FAPfE5sBpB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wlbtgFn-n3M", "title": "[Python 알고리즘 베이직 100] #14. 도서관 책 코드별 정렬" },
+    { "id": "ESfMLjKHoiY", "title": "[Python 알고리즘 베이직 100] #13. 도서관 책 연도별 정렬" },
+    { "id": "c1_s1_VfI_Y", "title": "[Python 알고리즘 베이직 100] #16. 뮤라의 휴가 입력" },
+    { "id": "64RrRU0bHgM", "title": "[Python 알고리즘 베이직 100] #15. 위니브 회의 시간표 정렬" },
+    { "id": "uzdzEfxlDmg", "title": "[Python 알고리즘 베이직 100] #18. 주간 최고 온도 기록 분석" },
+    { "id": "zq26glnqUUg", "title": "[Python 알고리즘 베이직 100] #17. 라이캣 CEO의 최근 일정 3개" },
+    { "id": "M2KkfXtaKEY", "title": "[Python 알고리즘 베이직 100] #20. 타입 확인" },
+    { "id": "osOAXUieP4w", "title": "[Python 알고리즘 베이직 100] #19. 데이터 타입 확인" },
     { "id": "xE_CcqLUO9U", "title": "[Python 알고리즘 베이직 100] #9. 수학은 내가 1등" },
     { "id": "QkWTY7UfpD0", "title": "[Python 알고리즘 베이직 100] #7. 업무 우선순위" },
     { "id": "0dp9URpkl04", "title": "[Python 알고리즘 베이직 100] #5. 1의 갯수 반환" },

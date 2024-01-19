@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/eYpPUd7c4Wcja_-QaeVjecQicbpqfMktL0LDxPu8eKsm8BvL_WlCEimRDo3eP350ch8aWUOw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oC69vlWofJQ", "title": "Installing MinGW to build C++ Code on Windows" },
+    { "id": "qeEcV6u1kV4", "title": "Getting Started with C++ in 5 minutes" },
+    { "id": "EHpFewLrEZo", "title": "🔴 Creating VS Code extensions for Python-based tools" },
+    { "id": "9p_ceWPbl0Q", "title": "🔴 Creating VS Code extensions for Python-based tools | Part 2" },
+    { "id": "9p_ceWPbl0Q", "title": "🔴 Creating VS Code extensions for Python-based tools | Part 2" },
+    { "id": "0Oc2aAR17BU", "title": "Python Pulse - 🔴 Testing your Flask app with Playwright" },
     { "id": "EHpFewLrEZo", "title": "🔴 Creating VS Code extensions for Python-based tools" },
     { "id": "ec_bUSxhC6k", "title": "#copilot #knows" },
     { "id": "A-yd8BqVGwA", "title": "🔴 Release Party v1.85 | Floating editor windows, JS debugger, and Copilot Updates" },

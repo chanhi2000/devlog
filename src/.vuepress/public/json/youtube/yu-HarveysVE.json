@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "HarveysVE",
+    "name": "Harvey’s Virtual Environment",
+    "profile": "https://yt3.googleusercontent.com/H1Shs_lC06KotqyzEUKkfTK_pZDx8XflIhqyfaUAbA32pRx4jJR8o79js8j4dP1FLGVgCzqT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pgmE4DwLjeVpu8UNukTPMubwk_Mmb4TilFr8aSSPg8lZIpthR7-ZtZXuoNm5_uWFMU2WmISEbA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "i41EnpeXF1w", "title": "Windows Server 2022 One Click Install Proxmox Template" }
+  ]
+}

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/dOpLgcwLsbfDJ246v7XcaMhOQjfOzt84UQGJ_pLeML51fo2oWlcD5LQhvTw_QetjySiOu2rhVg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "f8aij0xcdE0", "title": "[플러터플로우FlutterFlow_완전초급_82편](UI개발) 위젯편 : CreditCardForm 신용카드 폼 위젯 씹어먹기" },
+    { "id": "3sloFLZpb5g", "title": "[플러터플로우FlutterFlow_중급_23편](Firebase) Firestore create SubCollection 서브컬렉션으로 간단한 채팅앱 만들기(1/2)" },
+    { "id": "nTuW3FSZr18", "title": "[플러터플로우FlutterFlow_중급_24편](Firebase) Firestore create SubCollection 서브컬렉션으로 간단한 채팅앱 만들기(2/2)" },
+    { "id": "RYQmAqQx4Fk", "title": "[플러터플로우FlutterFlow_중급_25편](Firebase) Firestore Rules 데이터베이스 접근권한 설정하기" },
+    { "id": "yfKeHzLF4mg", "title": "[플러터플로우FlutterFlow_완전초급_83편](UI개발) 위젯편 : Widget Animations 위젯 애니메이션 효과" },
+    { "id": "lsLnJAeRy3g", "title": "[플러터플로우FlutterFlow_중급_26편](Firebase) Firestore Content Manager 쉽게 데이터 생성하기" },
+    { "id": "WOOObSF0-xA", "title": "[플러터플로우FlutterFlow_완전초급_84편](UI개발) 위젯편 : Signature 서명 위젯" },
     { "id": "rnms1nsLAKY", "title": "[플러터플로우FlutterFlow_완전초급_80편](설정)Custom Font & Icon 커스텀 글꼴과 아이콘 세팅하기" },
     { "id": "LFTNshfrq8U", "title": "🚀 버블로 쉽게 만드는 사용자 인증 시스템: 초보 개발자를 위한 가이드 | 버블 기초 과정 #6" },
     { "id": "lARo-9ePqyE", "title": "[플러터플로우FlutterFlow_완전초급_79편](UI개발) 위젯편 : Form validation 폼 유효성 검사 위젯 씹어먹기" },

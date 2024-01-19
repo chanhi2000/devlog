@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/8Mn7l1_4wF4GhJlxNfU4ohQBbdqNC1r0XZKnrjb4ph0SLv1Yn-BPIzVqWsE5i-tQrNKkP5zRtAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vmE12J3hiqg", "title": "Fun With OpenAI and Laravel, Ep 03 -  Chat with AI From the Command Line" },
+    { "id": "qGV1lxbpd44", "title": "Luke Downing's Larabits - Exploring PHP's Spaceship Operator" },
+    { "id": "rYMvh9Yq18Y", "title": "Modular Laravel, Ep 01 - Introduction" },
     { "id": "4weNt2Qya2A", "title": "Luke Downing's Larabits - Laravel Pulse First Look" },
     { "id": "oyMd6Du0ZDc", "title": "Build a Forum With Laravel, Ep 03 - Defining Our Data" },
     { "id": "pv3kNaz9BBg", "title": "Avoid Duplicate Form Submission!" },

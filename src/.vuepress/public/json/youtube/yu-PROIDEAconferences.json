@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/wBtgSuoYHGirMAIjpF5KXyExyALGlHokDf_5B_DkkFEFefAL2n8qlxM9wiDrL7VSL2xwKmsfiw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BvqzAS5LHeg", "title": "PLNOG31 - Jeśli nie BGP to co? (Tomasz Mikołajek)" },
+    { "id": "Eti5MvTxO4Y", "title": "José Domingos: DevOps for Large Language Models: Optimising Operations... | DOD Warsaw 2023" },
+    { "id": "EidKsM--1xI", "title": "DevOpsDays Kraków 2023 - Level up your Infrastructure Skills with your own Compute...(Kerim Satirli)" },
     { "id": "Gl1i55ScTvA", "title": "Jannik Clausen: Schema-as-Code: Developer platforms and database schema changes | DOD Warsaw 2023" },
     { "id": "ttRvahKaQZw", "title": "Marcin Chrost: IntelliJ debugger - tips & tricks | CodeFrenzy 2023" }
   ]

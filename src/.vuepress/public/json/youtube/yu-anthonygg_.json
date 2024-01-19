@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/xnFag7pveZKka94nV4Qn62kPrqwwIOuTs4k6RDpZwzxW_QCqyJoxCLB9wHnBAYaEP3SlUBGHbA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mJ5AnOTjtI4", "title": "Adding JavaScript Support To Run. What Is Run?" },
+    { "id": "WGRHqVRrdY8", "title": "Low Level Problems In Go" },
+    { "id": "g3_VHSETXRE", "title": "Coding Distributed WASM Runtimes For Raptor In Go" },
+    { "id": "p3-gBJ8s20w", "title": "Testing Raptor HTTP API Handlers in Go" },
+    { "id": "g3_VHSETXRE", "title": "Coding Distributed WASM Runtimes For Raptor In Go" },
+    { "id": "i1Vf47HfnPs", "title": "Live Dev Levenue.com Go + HTMX + Templ" },
+    { "id": "iu_5ALwn5OE", "title": "Go Web Development With HTMX And Templ" },
     { "id": "sG6FMjG9bCY", "title": "Building FFAAS In Go. Fast Function As A Service." },
     { "id": "4BS4LVRHu7U", "title": "Region Based Distributed Service Scheduling In Golang" },
     { "id": "sG6FMjG9bCY", "title": "Building FFAAS In Go. Fast Function As A Service." },

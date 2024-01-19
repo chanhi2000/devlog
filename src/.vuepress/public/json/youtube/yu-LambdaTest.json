@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/eI7_YH8Dad-4R38OerkPfW119LXkJR2Chs3HsgKfGlQeA4p8N3TSMhlOCfeUtWGbvqBPsA18=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A_VCjb5Bksk", "title": "How Codemagic Mitigates Challenging Mobile App Testing Environments | XP Series Webinar | LambdaTest" },
+    { "id": "dv1Dy7Ioc4E", "title": "LambdaTest-New Relic Integration🔗| Gain Deeper Testing Insights |  LambdaTest Integrations" },
+    { "id": "wxxQmEmAmKw", "title": "What are Progressive Web Apps?  | LambdaTest" },
+    { "id": "jv8E8G8AyZw", "title": "GitHub vs Git Flow Explained | LambdaTest" },
     { "id": "5_j1ubQvnkc", "title": "How To Use Cypress Viewport For Responsive Testing | Cypress Advanced Tutorial | LambdaTest" },
     { "id": "ehNEvCQSI38", "title": "Revolutionizing Testing with Test Automation as a Service (TaaS) | XP Series Webinar |  LambdaTest" },
     { "id": "YEolwL0YNWs", "title": "How to Execute JUnit 5 Test Scripts | JUnit 5 Tutorial | Part-III | LambdaTest" },

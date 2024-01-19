@@ -83,5 +83,6 @@ meta:
 <MyYouTubeItems jsonName="yu-user-sz5tm2cp7v" /><!-- 경제인회계인 -->
 <MyYouTubeItems jsonName="yu-SMGI" /><!-- 사물궁이 잡학지식 -->
 <MyYouTubeItems jsonName="yu-_johncook8725" /><!-- 아하부장_JOHNCOOK -->
+<MyYouTubeItems jsonName="yu-user-uy7db8fw7x" /><!-- 나음힐링센터 방태환원장 -->
 
 <TagLinks />

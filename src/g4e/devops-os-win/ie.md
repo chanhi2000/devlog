@@ -13,6 +13,18 @@ tags: ["ie" ,"Internet Explorer", "win", "Windows", "Browser"]
 
 ---
 
+## ie를 강제로 실행
+
+__Microsoft Edge를 실행시키지 않고__ ie를 부르는 방법
+
+- `ie.vbs`라는 Visual Basic Script 파일을 만들고 난 후 <FontIcon icon="iconfont icon-folder"/>`C:\Windows`에 저장해 준다
+
+```vbscript
+CreateObject("InternetExplorer.Application").Visible=True
+```
+
+---
+
 ## IE창 닫기 관련
 
 ::: warning 🤷‍♂️메세지

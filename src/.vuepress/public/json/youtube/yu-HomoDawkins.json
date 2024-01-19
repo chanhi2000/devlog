@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/KlBXEQGrx99lGpfyBnu2eKtSm2TkO0tyh7VpXciE9kWl6Gvdeq2UxdzqYPRZo-AkUvkLvulm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "r5O-RCKtABM", "title": "037- C++와 Python을 직접 비교해 보세요, 함수로 된 행렬, 선형 연립 방정식, cnm::variables, nan already defined" },
+    { "id": "XJJQGA5uu0A", "title": "038-Matrix 28,  부정 선형 연립 방정식, 합성함수 완성, 수식 작성법" },
+    { "id": "UkwRVyMliX4", "title": "041-Matrix 31, 선형 방정식 풀기, solve_eqn, Jacobian, Vector, 수식  대입, C++ Library Extensions" },
+    { "id": "Al1_NoODu7k", "title": "043- C++로 고급 수식 풀기, prms, solve_eqn" },
     { "id": "Wc5XGBd2638", "title": "034-Matrix 24,  기존 C++ 프로그래밍 방식과 새로운 방식 비교, tuple_replace 활용" },
     { "id": "0bgQvYMXUcQ", "title": "035- Matrix 25, 원통 좌표계 부피 적분, 합성함수 compose(), variables(), 로피탈 정리, 분수식의 약분" },
     { "id": "AHdAWMoxjOQ", "title": "036- Matrix 26,  C++ functional programming, 합성함수 compose() 및 variables()  사용법" },

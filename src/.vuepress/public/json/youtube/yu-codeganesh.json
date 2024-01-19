@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/DSZ6E0YJlKje6hMY3nmzWL1pp19bAa0TMf_c4rCf_JvOgnS-Vg0t10gNkRrQ8C8KqLwGbuWf9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oGxBa3yI3Hk", "title": "Blazor CRUD Operations | How to Read Data Using Entity Framework Core in Blazor | .NET 8 Tutorial" },
+    { "id": "q7PzjmJuwd8", "title": "Blazor CRUD Operations | How to Update Data Using Entity Framework Core in Blazor | .NET 8 Tutorial" },
+    { "id": "710IJj1NTJo", "title": "Blazor CRUD Operations | Create Reusable Form Component for Add and Update actions | .NET 8 Tutorial" },
+    { "id": "29P1NuYYQuM", "title": "Blazor CRUD Operations | How to Delete Data Using Entity Framework Core in a Blazor Web App | .NET 8" },
+    { "id": "KUrodtxHJMs", "title": "Blazor CRUD Jumpstart with Entity Framework Core in  .NET 8 - A Mini Course" },
     { "id": "LGjDjz0qUEI", "title": "How to Create a Database Using Entity Framework Core in a Blazor Web App in  .NET 8" },
     { "id": "b00KRPwCtGQ", "title": "Blazor CRUD Operations | How to Save Data Using Entity Framework Core in Blazor | .NET 8 Tutorial" },
     {  "id": "6oIKc84yt-8", "title": "Blazor Streaming Rendering | New Feature | .NET 8" },
