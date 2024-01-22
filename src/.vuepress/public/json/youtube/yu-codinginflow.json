@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/U3IuOxHGzaNrAJjoBzmSBV5QcK_tz8Y2PWKQ57uD9emqc_me3qcdNJpujmOq-OnNZmCuw3lHYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "C-82XlcE1cQ", "title": "Get Base URL From URL String in JavaScript (Origin) 💡 #javascript #javascriptlearning #webdev" },
+    { "id": "9Ab1f0MaZc8", "title": "Zod: Convert Values With Coerce (Numbers, Booleans, ...) #webdevelopment #reactjs #nextjs #webdev" },
+    { "id": "XD5FpbVpWzk", "title": "Learn Next.js 14 Server Actions With This One Project (UseFormStatus, UseFormState, Error Handling)" },
+    { "id": "cUL3PNkpoGs", "title": "Prisma Rename Tables, Collections, Columns, Fields With @@Map and @Map 💡 #nextjs #nextjstutorial" },
+    { "id": "Z7ZV2MqPzNg", "title": "(Fix) PrismaClientInitializationError: Prisma has detected that this project was built on Vercel" },
+    { "id": "9XdwVahUKzo", "title": "UseFormState Explained (React) #reactjs #reactdeveloper #reactdevelopment #nextjs #nextjstutorial" },
+    { "id": "6G8tebMv3Yk", "title": "Avoid Fetch Waterfalls in React Server Components (Next.js 14) #nextjs #nextjs14 #reactjs #webdev" },
     { "id": "FV1xrPdYkgU", "title": "Next.js: How to Add Metadata to Client Component Pages 💡 #nextjs #nextjstutorial #nextjs14 #webdev" },
     { "id": "SkjudyuWwJA", "title": "Ask GitHub Copilot About VS Code Features 💡#githubcopilot #vscode #vscodetips #vscodeextensions" },
     { "id": "Kdnu1MS5UOg", "title": "OpenAI Assistants API vs Chat Completion API - What’s the Difference? #openai #developer #coding" },

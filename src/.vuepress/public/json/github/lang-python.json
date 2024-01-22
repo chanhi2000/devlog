@@ -1770,11 +1770,6 @@
     "topics": ["python", "data-science", "machine-learning", "statistics", "data-analysis"],
     "officialSite": "https://scikit-learn.org"
   }, {
-    "repo": "refinedev/refine",
-    "desc": "Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!",
-    "topics": ["react", "javascript", "graphql", "crud", "admin", "typescript", "reactjs", "nextjs", "headless", "admin-dashboard", "admin-ui", "react-framework", "antd", "airtable", "frontend-framework", "ant-design", "low-code", "nestjs", "react-hooks", "low-code-framework"],
-    "officialSite": "https://refine.dev"
-  }, {
     "repo": "CASIA-IVA-Lab/FastSAM",
     "desc": "Fast Segment Anything",
     "topics": [],
@@ -3819,5 +3814,45 @@
     "desc": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
     "officialSite": "",
     "topics": ["text-to-speech", "tts", "vits", "voice-clone", "voice-cloneai", "voice-cloning"]
+  }, {
+    "repo": "Codium-ai/AlphaCodium",
+    "desc": "Official implementation for the paper: \"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering\"\"",
+    "officialSite": "https://www.codium.ai",
+    "topics": ["broader-impacts", "code-generation", "flow-engineering", "paper-implementations", "state-of-the-art"]
+  }, {
+    "repo": "Andre0512/hon",
+    "desc": "Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.",
+    "officialSite": "",
+    "topics": ["candy", "haier", "haier-hon", "home-assistant", "home-assistant-integration", "homeassistant", "hoover", "python"]
+  }, {
+    "repo": "VRSEN/agency-swarm",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "sgl-project/sglang",
+    "desc": "SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hustvl/Vim",
+    "desc": "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+    "officialSite": "",
+    "topics": ["backend", "chatgpt", "chatgpt-api", "fastapi", "frontend", "gpt-3", "gpt-4", "mongodb", "openai", "openai-api", "python", "python3", "reflex", "tutorial"]
+  }, {
+    "repo": "midudev/porfolio.dev",
+    "desc": "Ejemplo de porfolio para programadores y desarrolladores",
+    "officialSite": "https://porfolio.dev",
+    "topics": ["porfolio", "portfolio"]
+  }, {
+    "repo": "gnuboard/g6",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

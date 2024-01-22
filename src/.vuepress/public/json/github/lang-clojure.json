@@ -39,5 +39,10 @@
     "desc": "A workbench for writing toy implementations of distributed systems.",
     "officialSite": "",
     "topics": ["distributed-systems", "jepsen", "testing"]
+  }, {
+    "repo": "jonase/learndatalogtoday",
+    "desc": "Interactive Datalog Tutorial",
+    "officialSite": "",
+    "topics": []
   }
 ]

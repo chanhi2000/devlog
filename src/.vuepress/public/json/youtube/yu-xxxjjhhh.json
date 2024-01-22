@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/CFyZnlzkwGqJS_a-NbNAE7Ikp162SGj2DDRDwYEy7c7zDM7ogzEYoO-YXcGoeAZjhXTumPHA0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RnuSJBttJUo", "title": "스프링 시큐리티 14 : Role Hierarchy (계층 권한)" },
+    { "id": "ulb4eNSqCPs", "title": "스프링 OAuth2 클라이언트 세션 1 : 실습 목표 및 간단 동작 원리" },
+    { "id": "qIG-GNorXG4", "title": "스프링 시큐리티 JWT 14 : JWT의 목표" },
     { "id": "ZTaZOCqTez4", "title": "스프링 시큐리티 JWT 2 : 프로젝트 생성 및 JWT 의존성 추가" },
     { "id": "NPRh2v7PTZg", "title": "스프링 시큐리티 JWT 1 : 실습 목표 및 간단한 동작 원리" },
     { "id": "mQb6exPfnHk", "title": "Resilience4J 9 : actuator 서킷 상태 체크" },

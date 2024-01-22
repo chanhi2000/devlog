@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/1iRoj5sQ45VNWnNDZXZlZBj3_w0vBlyqsydEhSPIa4FIFWvpnl47yFZ8p2MH0DjScQeAewbHCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sZ7_d94U7Zw", "title": "Rendering in AstroJS #shorts #astrojs" },
+    { "id": "IhJq9J_CWA8", "title": "Live Design: Course Project Design" },
+    { "id": "U0P7Kn3GFMQ", "title": "Import Aliases in 4 minutes!" },
+    { "id": "JSRLy6Tcj9E", "title": "Live Code: Astro Portfolio Site" },
     { "id": "Zxw_g7VKkc4", "title": "Live Code: Frontend Mentor FAQ Accordion" },
     { "id": "BZbNKyEf2Ro", "title": "Live Code: How to work with data in a real project (travel blog!)" },
     { "id": "AKfkfoY6r24", "title": "Full-Page Snap Sections in CSS" },

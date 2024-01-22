@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/WWnasGO4mm3lGJu4qX-4_bda8ccjHmXqHcWAPsPPFEEU4llmwh87x9ZQXGMaZVzSPoA2DBv_CA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NrQOAqoy8NY", "title": "[인포그랩] GitLab 16.7 Release Note 코드 추천부터 GitLab 페이지 업데이트 외" },
+    { "id": "4sdEqxpTXvQ", "title": "인포그랩 - GitLab 밋업으로 알아보는 VSM 기반 DevSecOps 자동화와 슬랙봇 자동화 이야기" },
+    { "id": "EAJdFisWmfc", "title": ": 인포그랩" },
     { "id": "mudLe5F8Fe4", "title": "[인포그랩]﻿ GitLab 16.5 Release 컴플라이언스 표준 준수 보고서/Merge Request 타깃 브랜치 규칙/이슈 스레드 해결하기/GitLab 한글영상" },
     { "id": "Xhb5T8sggUk", "title": "[인포그랩]﻿ GitLab 16.4 Release 커스텀 역할 생성/ 비공개 워크스페이스 만들기/로컬 클러스터 액세스/GitLab 한글영상" },
     { "id": "vpyIfIjmsPA", "title": "[인포그랩] GitLab 16.3 업데이트 / Value Stream 대시보드의 새로운 메트릭! SSH 워크스페이스 연결과 VS Code에서 보안 검사 결과 확인까지!" },

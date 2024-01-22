@@ -164,5 +164,10 @@
     "desc": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
     "officialSite": "http://weibo.com/justjavac",
     "topics": ["android", "angular", "books", "free", "ios", "javascript", "kotlin", "pdf", "programming", "python", "react", "react-native", "swift", "vue"]
+  }, {
+    "repo": "byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English which might benefit you a lot 🎉. 离谱的英语学习指南/英语学习教程。",
+    "officialSite": "https://byoungd.github.io/English-level-up-tips/",
+    "topics": ["chinese", "english-learning", "tutorial"]
   }
 ]

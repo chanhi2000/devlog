@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/SBC3vZZZjtrbCceg4IMEv_GBAgw0NlS1VRb8N_s50g27IdG51z1sIMQ3m4h1SIarWmHDO2xe=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gqugm0U5Ss4", "title": "Dockerfile - 4 Mulit-Stage Dockerfile" },
+    { "id": "uFlYdvKfnZQ", "title": "이미지를 더 이쁘게 만들어 주는 확장 AfterDetailer [StableDiffusionWebUI]" },
+    { "id": "xZmeBxZGUTk", "title": "Docker Compose 학습 전 개요" },
+    { "id": "ztf5DsPBM5I", "title": "이미지 비율 도우미와 인터페이스 테마 확장 [스테이블 디퓨전 웹 유아이]" },
     { "id": "7kOy9XV0sD0", "title": "Dockerfile - 3 VOLUME, USER, EXPOSE 명령어" },
     { "id": "fr-HgLoyTus", "title": "스테이블 디퓨전 ComfyUI 설치 방법" },
     { "id": "DnsuKizzy8Q", "title": "Dockerfile - 2, CMD와 ENTRYPOINT 명령" },

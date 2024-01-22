@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/GqU5CPeaWqRzvLX2leGli4Ll7TClqQPnECNok_dfHpAYxklAnB49epsAu7zbd6_xmCETkQcmqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0g6fJw11KrI", "title": "2024-01-04 - Security Team meeting" },
+    { "id": "Y9gp8Yr_L4Q", "title": "2024-001-12-Node.js Node-API Team meeting" },
     { "id": "WTwi31mH8ec", "title": "2023-12-21 - Security Team meeting" }
   ]
 }

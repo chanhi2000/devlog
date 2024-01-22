@@ -1884,5 +1884,20 @@
     "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
     "officialSite": "https://max-everyday.com/2018/03/tixcraft-bot/",
     "topics": ["maxbot", "python", "selenium"]
+  }, {
+    "repo": "midudev/porfolio.dev",
+    "desc": "Ejemplo de porfolio para programadores y desarrolladores",
+    "officialSite": "https://porfolio.dev",
+    "topics": ["porfolio", "portfolio"]
+  },{
+    "repo": "mipmip/home-manager-option-search",
+    "desc": "home manager option search interface",
+    "officialSite": "https://mipmip.github.io/home-manager-option-search",
+    "topics": ["dotfiles", "home-manager", "nix", "nixos"]
+  }, {
+    "repo": "williamtroup/Heat.js",
+    "desc": "🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends.",
+    "officialSite": "https://www.william-troup.com/heat-js",
+    "topics": ["activity", "css", "date", "generator", "heat", "heatmap", "html", "javascript", "map", "visualization"]
   }
 ]

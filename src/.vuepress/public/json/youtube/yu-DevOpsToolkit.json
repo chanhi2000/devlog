@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/750oHOwufXxMWcT0G2VTQO31pY9pyCYjOKk3cLeXx3YBNnecZvjNAsAFFNdT8f5m28XoUIXnnr4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RAPaS91AY1Q", "title": "The Adventure  Continues Towards Security (You Choose! Ch. 3, Ep. 0)" },
+    { "id": "NjFy8IfoKco", "title": "Admission Controllers - Feat. Kyverno, OPA, Kubewarden, Cloud Custodian, and VAP (Ch. 3, Ep. 1)" },
+    { "id": "ZSNX10soFPw", "title": "Runtime Policies - Feat. KubeArmor and Falco (You Choose!, Ch. 3, Ep. 2)" },
+    { "id": "KbKQu3AqhBY", "title": "Govern Kubernetes with Kubewarden and WASM Admission Controllers" },
+    { "id": "ZSNX10soFPw", "title": "Runtime Policies - Feat. KubeArmor and Falco (You Choose!, Ch. 3, Ep. 2)" },
     { "id": "KNwpG51Whzg", "title": "KubeBlocks: Cloud-Native Data Infrastructure for Kubernetes" },
     { "id": "ETlbtBEsC-Y", "title": "Notary Project: Ensuring Trustworthy Container (Docker) Images" },
     { "id": "uZ8xI26sno8", "title": "WASM vs Docker Containers vs Kubernetes vs Serverless: The Battle for Cloud Native Supremacy" },

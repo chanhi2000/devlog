@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/1I1cQ3hqSOre4VyWcwdR3koa26IWJSimxwjripH8GyL8W6c_PSis8_J7dtO0PgFIbka_zVMWZYE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DTPdhVdg3fc", "title": "Data Contracts: The Next Frontier | Data Council & Soda" },
     { "id": "G2ljqxRxqW0", "title": "DC_THURS : Apache Arrow w/ Wes McKinney" },
     { "id": "w8om6f9yDz0", "title": "View from Apache Flink on Evolution &; Outlooks for the Modern Stateful Stream Processor | Ververica" }
   ]

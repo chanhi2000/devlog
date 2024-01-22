@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I9HCNVEvnCY", "title": "Q: 이미지 인식을 위해 컨볼루션 신경망(CNN)을 구현하는 방법을 설명하세요. CNN의 주요 레이어는 무엇이며 이미지 처리에 어떻게 기여하나요? |꼬꼬면" },
+    { "id": "ZCzizNSKMaQ", "title": "어떻게 AI 논문을 읽어야 할까요?[How to Read a Paper?]|꼬꼬엔" },
     { "id": "IiLepUfSBCM", "title": "Q: 트랜스포머 모델의 Self-Attention은 LSTM 기반의 `seq2seq`와 같은 이전 모델에서 사용했던 Attention과 어떻게 다릅니까?|꼬꼬기" },
     { "id": "B4z5qKtqiTE", "title": "Q: '트랜스포머 모델과 NLP에서 트랜스포머가 갖는 의미에 대해서 설명하세요.'|꼬리에 꼬리를 무는 NLP 기술 면접" },
     { "id": "3RgyjH6FSxw", "title": "ChatGPT에서 긴 프롬프트를 더 좋게 압축해보자[LongLLMLingua: ACCELERATING AND ENHANCING LLMS IN LONG CONTEXT ...]|꼬꼬엔" },

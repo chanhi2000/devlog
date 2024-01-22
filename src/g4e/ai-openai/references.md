@@ -203,6 +203,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## iter.ca
+
+- [GPT-3.5 crashes when it thinks about `useRalativeImagePath` too much](https://iter.ca/post/gpt-crash/)
+
+---
+
 ## Clien
 
 - [[AI] 코드 인터프리터(Code Interpreter) 활용 사례들을 정리해봤습니다.](https://www.clien.net/service/board/lecture/18180121)

@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "C3_2lE3c3yI", "title": "18_SQL Injection(AJAX/JSON/jQuery)" },
+    { "id": "EtOqzsxpYE4", "title": "17_'sqlmap' 도구를 이용한 SQL 인젝션" },
+    { "id": "1AzLWdyj7Ko", "title": "16_SQL Injection(POST/Select)" },
     { "id": "nKn47fJpONg", "title": "10_어셈블리어(IDIV)" },
     { "id": "1h96orKDhVI", "title": "10_어셈블리어(JE)" },
     { "id": "NavDPOYAdxI", "title": "10_어셈블리어(JNE)" },

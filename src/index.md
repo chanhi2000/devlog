@@ -134,6 +134,14 @@ color: rgba(46, 46, 46, 0.2)
 ```
 
 ```card
+title: Crescendo
+desc: 소규모 스터디 플랫폼
+link: https://www.crescendo-study.site/
+logo: https://www.crescendo-study.site/svg/logo_symbol.svg
+color: rgb(127,68,170,0.2)
+```
+
+```card
 title: ByteByteGo
 desc: ByteByteGo Newsletter
 link: https://blog.bytebytego.com
@@ -188,6 +196,8 @@ link: https://hackerstartup.com/
 logo: https://hackerstartup.com/favicon.ico
 color: rgba(79,29,173,0.2)
 ```
+
+
 
 <ShieldsGroup 
   logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"

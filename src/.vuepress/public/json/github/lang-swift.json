@@ -404,5 +404,10 @@
     "desc": "OutRun is an open-source, privacy oriented, outdoor fitness tracker.",
     "officialSite": "https://outrun.tadris.de",
     "topics": ["fitness", "ios", "swift"]
+  }, {
+    "repo": "sindresorhus/Plash",
+    "desc": "💦 Make any website your Mac desktop wallpaper",
+    "officialSite": "https://sindresorhus.com/plash",
+    "topics": ["active-desktop", "app", "desktop-wallpaper", "dynamic-wallpaper", "macos", "macos-app", "plash", "swift", "swiftui", "wallpaper"]
   }
 ]

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/95FNZ18TlquKtEiM3re0tEmzvF_UmaHeNbc7_eUxi4ll1XrICq_dT2pp5ihUiI-vJRXlAAhPuAw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qcJZN1pvG6A", "title": "Python Django Introduction and Beginners Tutorial" },
+    { "id": "ZNrlc6TPcrU", "title": "Python Django App & Templates tutorial" },
     { "id": "7zqI4qMDdg8", "title": "Next.js Dark Mode with No Flicker + Tailwind CSS" },
     { "id": "j-A67bRKJ_c", "title": "Next.js Auth in Under 60 Seconds 🏁" },
     { "id": "Qqnup7Ed7s0", "title": "Open Source Software - Get Started by Contributing to My Project" },

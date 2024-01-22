@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/rNnvn26N-_lwJJ4PFL5Y4-YIfXEI7nvE3kQO4XkqX49pGffhvZSiVIIS8vRKs1guAJ5ueQOd=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pIp6h8ZfV3s", "title": "Mesa Digital Twins, Python, & OSS with Jacqueline Kazil" },
+    { "id": "ZY_l9PZNN6w", "title": "AI Powered Prompt Engineering: A How To Guide w/ Suzanne Guzman" },
     { "id": "AhRmrzBi1bM", "title": "The Do's and Don'ts of Cloud Migrations: Azure, IaC, DevOps, Terraform, Pipelines w/ Sai Gunaranjan" },
     { "id": "ErJ8KpYd5B8", "title": "AWS Serverless Hero Luciano Mammino at re:Invent" },
     { "id": "YveccjG4AFU", "title": "Terraform On A Dime: Building Azure Infrastructure on a Shoestring Budget with Mark Tinderholt" },

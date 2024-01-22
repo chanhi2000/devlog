@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/bIGu0Wgr1iQ0GRTY4-9AhVm1uJttJX67Pm3usC9B7LbgkuBJidiJEoCuL9TRHdVI3xmCBlkGKg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TLaWibjFArw", "title": "👊🏽📱 Minimal Habit Tracker • Flutter x Isar Tutorial" },
+    { "id": "Zr4j6W7nmpg", "title": "🎧📱 Minimal Music Player • Flutter Tutorial" },
     { "id": "NuSb0wq9K-I", "title": "✏️📱 Minimal Notes App • Flutter x Isar Tutorial" },
     { "id": "5xU5WH2kEc0", "title": "💬📱 Minimal Chat App • Flutter x Firebase Tutorial" },
     { "id": "HatGaO4DXwM", "title": "📱 Top 18 Essential Flutter Widgets" },

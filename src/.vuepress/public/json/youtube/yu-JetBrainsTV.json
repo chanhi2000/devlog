@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/Dxs-3mannZFTz3_uYfaTZ0NZLJG1jnekpuzaLl7Ms5CoPjrirRyO9m3KPE561YdBHQqe4R0b1Fk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-YYosWp77yM", "title": "Idiomatic Go Enums Explained, with GoLand" },
+    { "id": "QVrcHv-Tm4k", "title": "Mastering OData: An In-Depth Developer's Guide" },
+    { "id": "v6_sydJT8XM", "title": "C++: Building Better With Jonathan Müller and Dmitry Kozhevnikov" },
     { "id": "vtg8nJtOTvU", "title": "⚡️ SQLite databases: the easy way? 👀 #tip #shorts  #jetbrains #sql #coding #developer" },
     { "id": "EvMGzPJLEMY", "title": "Automated Go test generation and execution with GoLand" },
     { "id": "RrlMOunfdHs", "title": "Bridging the Gap Between Design and Development" },

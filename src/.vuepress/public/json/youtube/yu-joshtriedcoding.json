@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/fcCgvRHuv5nq0kcMERI8SkPFSaKk7_OR4e2ipR-33P-yDjojNv0owVlLtxBwnl5SsNWlNlfb=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SFn5e3vQglE", "title": "This Data Fetching Combo is OP" },
+    { "id": "3_WFZTIxDW4", "title": "LocalStorage was a mistake..." },
+    { "id": "D691YmP3VJM", "title": "Adobe's UI Library is Finally Out" },
     { "id": "vpAXHtPK8nA", "title": "The Truth About Facebook's \"Tailwind Killer\"" },
     { "id": "TsYeBS6v4r8", "title": "This TypeScript Trick Blew my Mind" },
     { "id": "zlX0lrX2oLA", "title": "My Favorite UI Library Keeps Getting Better" },

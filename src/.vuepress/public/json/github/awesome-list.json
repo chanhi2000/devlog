@@ -929,5 +929,15 @@
     "desc": "The source for REST API specifications for Microsoft Azure.",
     "officialSite": "",
     "topics": ["azure", "cloud", "openapi", "rest", "swagger"]
+  }, {
+    "repo": "gregorojstersek/resources-to-become-a-great-engineering-leader",
+    "desc": "List of books, blogs, newsletters and people!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "AkechiShiro/slides-talks",
+    "desc": "My own cybersecurity research talks/slides ",
+    "officialSite": "",
+    "topics": ["arm", "cybersecurity", "cybersecurity-education", "hardware", "iot", "security", "slides", "soc", "spi", "talks", "uart"]
   }
 ]

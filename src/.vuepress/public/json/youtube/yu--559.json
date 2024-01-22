@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uFgNyL-MjRM", "title": "[C#] Windows 사용자 계정 목록 열거하기 - NetUserEnumd 함수 Dllimport" },
+    { "id": "S6n2SjPp3Kk", "title": "포아송(POISSON)분포  [파이썬으로 다루는 통계]" },
     { "id": "L3O0m0x8nQM", "title": "[MFC, MSSQL, DLL] 상품 관리 프로그램" },
     { "id": "cyHKjZvr3LU", "title": "테트리스 시작부터 끝까지 [C++, WinAPI]" },
     { "id": "NXQlayxUd4I", "title": "[C++] 윈도우즈 사용자 계정 목록 열거하기 - NetUserEnum 함수" },

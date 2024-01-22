@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "1littlecoder",
+    "name": "1littlecoder",
+    "profile": "https://yt3.googleusercontent.com/D_Dpnuna8qt3cd1ifuY82ycojqOVbD5D8kKUq_m2fx1NCgXjokmz29sVSmCh7ZJaNSQrGcHHmw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JI45kGuIGujVydCa8tbyWh2wvXh9kRWHRl0vsmR3o9VMn8S5uTIg6veUurdhiFRC6uxpcC6JQg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "K3Sk-y24ZAQ", "title": "This is beyond MODEL MERGING!!!" },
+    { "id": "Pvn4szm2UnQ", "title": "The GPT Store!!!" },
+    { "id": "tZD3-uO0RJ0", "title": "Mamba with Mixture of Experts (MoE-Mamba)!!!" },
+    { "id": "CdFUh0pmqNI", "title": "ok! this is scary!!! (LLM Sleeper Agents)" },
+    { "id": "cBdZcXw44zs", "title": "Detect Texts from Documents (even SCANNED)!!!" }
+  ]
+}

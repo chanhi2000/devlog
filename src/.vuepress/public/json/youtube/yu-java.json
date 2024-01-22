@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/NXa3mghamiGzdoI90dcDlEs2pQlB1V1nfHG2ZQtrAcfdNxOFIrPq3j6mJBA_9oQa3v98oB2eG-A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iEWHbGuzLlo", "title": "How can you use flatMap to filter a stream? - Cracking the Java Coding Interview  #java" },
+    { "id": "If57aZtRlpI", "title": "The Panama Effect - Inside Java Podcast 32" },
     { "id": "f4U8_lawPo4", "title": "What is Iterable? - Cracking the Java Coding Interview #codinginterview #java" },
     { "id": "mz8qio7f5lQ", "title": "What are the four fundamental functional interfaces in Java? - Cracking the Java Coding Interview" },
     { "id": "-p7hu6S12q0", "title": "Looking up Default Locale in Java 21" },

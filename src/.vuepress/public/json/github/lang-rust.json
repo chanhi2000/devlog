@@ -969,5 +969,10 @@
     "desc": "A cli background music player.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "rustdesk/rustdesk",
+    "desc": "An open-source remote desktop, and alternative to TeamViewer.",
+    "officialSite": "https://rustdesk.com",
+    "topics": ["anydesk", "dart", "flutter", "flutter-apps", "flutter-desktop", "flutter-examples", "flutter-mobile", "flutter-ui", "flutter-web", "hacktoberfest", "linux", "p2p", "rdp", "remote-control", "remote-desktop", "rust", "rust-lang", "teamviewer", "vnc", "wayland"]
   }
 ]

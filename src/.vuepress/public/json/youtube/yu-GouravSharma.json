@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "GouravSharma",
+    "name": "Gaurav Sharma",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRnXZyRMG8ACm4y4G1xpIeD7yJZyLwnECds7g_JSA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZLv8NFRl9HmbN83EHoxpDViPz3c9CKgUUrPAdR6ysVI_dTyq-HUG2U63LM_nPEFMfKjK028D=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DKlSaceTHRc", "title": "AWS Tutorials - 120 -  Route53 - Latency Based Routing Policy in Action - AWS  (in Hindi)" },
+    { "id": "4hFS0wIQzL8", "title": "AWS Tutorials - 121 -  Route53 - Failover Routing Policy in Action - AWS  (in Hindi)" },
+    { "id": "Dwwd2YHr2Qs", "title": "AWS Tutorials - 122 -  Route53 - Multivalue Answer Routing Policy in Action - AWS  (in Hindi)" },
+    { "id": "vOO9aTF1-Dg", "title": "AWS Tutorials - 123 -  Route53 - IP Based Routing Policy in Action - AWS  (in Hindi)" },
+    { "id": "mv4nOW2UBJw", "title": "AWS Tutorials - 124 -  Route53 - Cleanup - AWS  (in Hindi)" },
+    { "id": "U5ixJmjJNxM", "title": "AWS Tutorials - 125 -  Route53 - Traffic Policy - AWS  (in Hindi)" }
+  ]
+}

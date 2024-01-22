@@ -1174,5 +1174,10 @@
     "desc": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
     "officialSite": "https://keda.sh",
     "topics": ["autoscaling", "event-driven", "hacktoberfest", "keda", "kubernetes", "serverless"]
+  }, {
+    "repo": "codesoap/pfuzz",
+    "desc": "a web fuzzer using the httpipe format",
+    "officialSite": "",
+    "topics": []
   }
 ]

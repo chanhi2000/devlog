@@ -2043,5 +2043,30 @@
     "desc": "React Native Cross-Platform WebView",
     "officialSite": "https://github.com/react-native-community/discussions-and-proposals/pull/3",
     "topics": []
+  }, {
+    "repo": "refinedev/refine",
+    "desc": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+    "officialSite": "https://refine.dev",
+    "topics": ["admin", "admin-ui", "ant-design", "crud", "developer-tools", "frontend-framework", "good-first-issue", "graphql", "hacktoberfest", "headless", "internal-tools", "javascript", "low-code", "nestjs", "nextjs", "open-source-project", "react", "react-framework", "react-hooks", "typescript"]
+  }, {
+    "repo": "sst/demo-ai-app",
+    "desc": "Sample AI movies app built with ❍ Ion",
+    "officialSite": "https://movies.sst.dev",
+    "topics": ["ai", "ion", "sst"]
+  }, {
+    "repo": "dineug/erd-editor",
+    "desc": "Entity-Relationship Diagram Editor",
+    "officialSite": "https://erd-editor.io",
+    "topics": ["database", "db", "diagram", "draw", "editor", "entity", "erd", "relationship", "sql", "vscode", "vuerd"]
+  }, {
+    "repo": "schedule-x/schedule-x",
+    "desc": "Material design event calendar and date picker",
+    "officialSite": "https://schedule-x.dev",
+    "topics": ["calendar", "date-picker", "javascript", "react", "vue"]
+  }, {
+    "repo": "srikanth235/privy",
+    "desc": "Your private coding assistant",
+    "officialSite": "",
+    "topics": []
   }
 ]

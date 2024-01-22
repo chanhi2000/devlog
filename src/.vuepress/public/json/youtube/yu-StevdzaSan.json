@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/CJ3jXN8bFt7hqwXZky40MPIkiX71MNlHFB84Vb4Ld54b7FNb3JZ-hY-iwMCCEQ3z_MGjRNAKpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ciAqQPThXn0", "title": "Build a Complete One-Page Website with Kotlin and Compose HTML in less than 30 Minutes!" },
+    { "id": "irXOVQbB-Ik", "title": "Building a website with Kotlin and Compose HTML (Kobweb) 🔥 Tomorrow a Full Tutorial ✅️" },
     { "id": "zS4oOXsZuHQ", "title": "Watch Ads, Earn Coins and Redeem Rewards! - Available on Play Store" },
     { "id": "NgqFxq8TsQU", "title": "Working with Enums in Swift" },
     { "id": "2K3to2puVDM", "title": "TabRow with Horizontal Pager in 4 Minutes - Jetpack Compose" },

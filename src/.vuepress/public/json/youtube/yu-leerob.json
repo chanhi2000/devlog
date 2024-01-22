@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/WGdqBq0Vm7pxPziyyCTQx3HohL89SMVmWBDVrIVNtSs_8CW6iee6MJ1kPRAThGEMN7l6R2z3=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8DyzsSWNcDE", "title": "React Server Components: the Good, the Bad, and the Ugly" },
+    { "id": "erVWz4DmPAc", "title": "How I'm Writing CSS in 2024" },
     { "id": "h2BcitZPMn4", "title": "Introduction to Next.js and React" },
     { "id": "mpcE5rxgLxM", "title": "Building an email client with the Next.js App Router & Postgres" },
     { "id": "6jM_0wDOw4g", "title": "Are React client components bad?" },

@@ -94,5 +94,10 @@
     "desc": "Ruby on Rails",
     "officialSite": "https://rubyonrails.org",
     "topics": ["activejob", "activerecord", "framework", "html", "mvc", "rails", "ruby"]
+  }, {
+    "repo": "state-machines/state_machines",
+    "desc": "Adds support for creating state machines for attributes on any Ruby class",
+    "officialSite": "https://github.com/state-machines/state_machines",
+    "topics": ["ruby", "state-machine"]
   }
 ]

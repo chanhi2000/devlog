@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/kxhZu7194sN8tKw75tPvy8kWX_98swsN5xvE-OVVllgLz9bPPcw5R04_U1Z5TOwjPT-xOP0aI9w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Io5UFJlEJKc", "title": "Securely deploy to AWS with GitHub Actions and OIDC" },
+    { "id": "R2rk1mCoHs0", "title": "Game Off Winners, Copilot Chat Goes GA, OpenAI's GPT Store, Rabbit AI Assistant and more" },
+    { "id": "R5s9AFXGhK0", "title": "Open Source Friday with Fastify: Maximizing Efficiency, Minimizing Cost" },
     { "id": "2GdAVhA_tlE", "title": "Transforming Developer Experience - Live Chat with with Evan Scheessele" },
     { "id": "4FkmQkwthyI", "title": "Cybersecurity advocacy into action with GitHub Advanced Security" },
     { "id": "a2DDYMEPwbE", "title": "Copilot Chat in Visual Studio Code | GitHub Universe" },

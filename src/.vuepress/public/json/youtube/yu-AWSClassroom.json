@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Ah0jXNfllAk", "title": "AWS입문자 강의(3): AWS 실습 시작 전 필수! AWS 과금 없이 사용해보는 방법 - AWS 프리티어!" },
+    { "id": "rH0jL9U1R1U", "title": "성장하고 싶으면 질문은 제대로 해야합니다." },
+    { "id": "E0j5wKIakEo", "title": "AWS가 직접 라이브로 준비한 입문자 강의 소개합니다 : AWS Builders 온라인 시리즈!" },
+    { "id": "EClNGtagyb0", "title": "AWS Serverless 실전 아키텍처 : Full Serverless AI 이미지 분석 앱 아키텍처" },
     { "id": "7Q6IMpiV0cc", "title": "(Community Day 2023 발표 다시듣기)Amazon EventBridge를 Event Driven 아키텍처에서 활용하는 3가지 방법!" },
     { "id": "LNf2V_ttk7c", "title": "AWS 아키텍처 구성에 꼭 필요한 서비스 :  SSM Parameter Store 정리" },
     { "id": "Nm0yE36jc9A", "title": "(라이브) 본격 \"AWS  교과서\" 추첨 방송" },
