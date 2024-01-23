@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/yDFX_JcOIer1Nvwt5KZN-miR0mJ0PhKk2Lz-er7bJwcLeYO1PA7JASbmgYpvMi3IabBHNiYYTA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KmOOoE3XO_o", "title": "AWS Glue | ETL vs ELT | Ft Snowflake" },
     { "id": "pnj3Jbho5Ck", "title": "How Web Sockets work | System Design Interview Basics" }
   ]
 }

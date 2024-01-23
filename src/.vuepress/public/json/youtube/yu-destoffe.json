@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "inrGyNJbZaI", "title": "Swipe Between Composables - HorizontalPager Android Jetpack Compose Tutorial" },
     { "id": "KcUAtkdTecg", "title": "ROOM Database #1 - Insert and Read Data (Android Tutorial)" }
   ]
 }

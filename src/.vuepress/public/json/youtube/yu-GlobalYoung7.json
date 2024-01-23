@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TkXZnW64Z6c", "title": "002개고생하면서 배우는 Rust_FullStack_WASM_WebAssembly" },
+    { "id": "OUWlhGkdzos", "title": "001개고생하면서 배우는 Rust_FullStack_WASM_WebAssembly" },
+    { "id": "nJx0_WxrThQ", "title": "009개고생하면서 배우는 Rust_Basic_Rust_By_Example_part1_Tabby_AI_Coding Assistant" },
+    { "id": "zZXjaF0-iwc", "title": "011개고생하면서 배우는 Rust_Basic_MS_Tutorial_Option_ErrorHandle_part1_Tabby_AI_Coding Assistant" },
+    { "id": "sDibbmVtWJ0", "title": "003개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part1(Tabby)" },
+    { "id": "AfQo7kGvZ0k", "title": "004개고생하면서 배우는 Rust_DB_FullStack_(redis, surrealdb)" },
     { "id": "fQswi-_VJAA", "title": "001개고생하면서 배우는 Swift스위프트_Basic(LinuxOS)" },
     { "id": "N7-LcTR6xlk", "title": "231230_Rust_1_75_Release업데이트 최신소식 정리" },
     { "id": "z9t3Iddv1BY", "title": "008개고생하면서 배우는 Rust_Basic_6. Enums and Pattern Matching" },

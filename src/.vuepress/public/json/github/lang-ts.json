@@ -2068,5 +2068,10 @@
     "desc": "Your private coding assistant",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "n8n-io/n8n",
+    "desc": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+    "officialSite": "https://n8n.io",
+    "topics": ["apis", "automated", "automation", "cli", "data-flow", "development", "docker", "iaas", "integration-framework", "integrations", "ipaas", "low-code", "low-code-development-platform", "low-code-platform", "n8n", "node", "self-hosted", "typescript", "workflow", "workflow-automation"]
   }
 ]

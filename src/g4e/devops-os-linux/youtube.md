@@ -76,5 +76,6 @@ tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-
 <MyYouTubeItems jsonName="yu-schezokim" /><!-- Austin Kim -->
 <MyYouTubeItems jsonName="yu-CyberGizmo" /><!-- DJ Ware -->
 <MyYouTubeItems jsonName="yu-HarveysVE" /><!-- Harvey’s Virtual Environment -->
+<MyYouTubeItems jsonName="yu-deeplinux2248" /><!-- Deep Linux -->
 
 <TagLinks />

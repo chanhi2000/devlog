@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/5dQVlxRd4hIKRUKDrLn79K1YVs8m-uQunEIeZEvWF8tuQw9PrtmOIkw2K7KLo6juiNJtFTuMSA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Xl40yelD4PU", "title": "AWS Certified Data Engineer Complete Course | AWS Certified Data Engineer" },
+    { "id": "bfC2dYnE_o0", "title": "How to Create AWS VPC | Amazon Virtual Private Cloud Tutorial" },
     { "id": "odSkoPnxO5s", "title": "AWS Data Lake Tutorial | Data Lake Architecture in AWS" },
     { "id": "wS33uH6r2R4", "title": "All About S3 Bucket | Amazon S3 Bucket Tutorial | AWS S3 Bucket Tutorial" },
     { "id": "P-hEXiHWDRA", "title": "Amazon DynamoDB Vs Amazon RDS | Which is Better?" },

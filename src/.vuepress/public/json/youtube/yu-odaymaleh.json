@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/QRZZ05iwkJYPQ2U4zptug5DXHYtY1zv-vqYP1fAcEBWjqvIDEuh-SjXgo_o6HWpxb9m0i73YpA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fuB-2nXNee0", "title": "Solving Android Interview Challenge - 10 Years Experience" },
+    { "id": "EYjX6e5HXN0", "title": "How to Get Hired as Android Developer with Zero Work Experience" },
+    { "id": "g_ImaIO0M4Q", "title": "Just chatting - Stealing code from Now In Android" },
     { "id": "zUdpVc5vTQE", "title": "Practical Guide to Jetpack Compose Navigation -  NavArgs + Top  + Bottom App Bar" },
     { "id": "ISbLbiPrKr0", "title": "Mobile Developer tries DevOps - Using Terraform Provisioners to Set Up an Apache Web Server on AWS" },
     { "id": "HoUvMPtUiO8", "title": "Compose Multiplatform iOS  @android Android - Fetch Image Results with ViewModel" },

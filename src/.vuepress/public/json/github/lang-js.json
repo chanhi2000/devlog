@@ -1899,5 +1899,10 @@
     "desc": "🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends.",
     "officialSite": "https://www.william-troup.com/heat-js",
     "topics": ["activity", "css", "date", "generator", "heat", "heatmap", "html", "javascript", "map", "visualization"]
+  }, {
+    "repo": "LiteLoaderQQNT/LiteLoaderQQNT",
+    "desc": "QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源",
+    "officialSite": "https://liteloaderqqnt.github.io/",
+    "topics": ["javascript", "liteloaderqqnt", "loader", "qq", "qqnt"]
   }
 ]

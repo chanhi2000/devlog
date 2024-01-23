@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BOiVcvJZ2vs", "title": "Android Studio Project Structure - Learn Android from Zero #7" },
+    { "id": "GxcBv12lxp8", "title": "View & View Group in Android - Learn Android from Zero #8" },
+    { "id": "dsfiD8exvkg", "title": "Views Attributes - Learn Android from Zero #9" },
+    { "id": "e0ybX48Awew", "title": "TextView in Android - Learn Android from Zero #10" },
     { "id": "3Y3kClydwJk", "title": "Creating Hello World App in Android Studio - Learn Android from Zero #3" },
     { "id": "D3Mg4fugixQ", "title": "Android Emulators [Android Virtual Devices] - Learn Android from Zero #2" },
     { "id": "kwXKot5nKrw", "title": "Android Studio User Interface - Learn Android from Zero #4" },

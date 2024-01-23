@@ -36,5 +36,6 @@ tags: ["youtube", "tutorial", "aws", "amazon", "amazon-web-service", "@CloudLear
 <MyYouTubeItems jsonName="yu-project-man" /><!-- 프로젝트 박스 -->
 <MyYouTubeItems jsonName="yu-smbdevops" /><!-- SMB DevOps -->
 <MyYouTubeItems jsonName="yu-GouravSharma" /><!-- Gaurav Sharma -->
+<MyYouTubeItems jsonName="yu-ByteMonk" /><!-- ByteMonk -->
 
 <TagLinks />

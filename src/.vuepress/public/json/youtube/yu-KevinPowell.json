@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/HsOID_2Ri-jtwLjcRyT6c0CqH9hmSJgJDhmlcFPID77EtAZKZSwCjlWOLN9I4vEM1kmzrTszWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SkML640BcoA", "title": "Create a clean, modern navigation with HTML & CSS" },
+    { "id": "x4u1yp3Msao", "title": "A practical guide to responsive web design" },
     { "id": "d10GaL6F-lA", "title": "Can I copy this text reveal scroll effect with CSS-only?" },
     { "id": "aKFB5Bjk6KM", "title": "Flexbox or Grid challenge // which would you use to solve these?" },
     { "id": "9CAZ0ssjrxk", "title": "Overlap elements without using position in CSS" },

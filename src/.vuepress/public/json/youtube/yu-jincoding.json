@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "jincoding",
+    "name": "찐코딩 Jin Coding",
+    "profile": "https://yt3.googleusercontent.com/8gMz8Q5JKuF0V5XoLlDibn7ufN2D1OIJbLP2Q2kvY8BEvB9TixVXCuMKJ12_4SD6ppZ5_9rIV_c=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ST_oHhyLv1kDG-lBoKF95L0rOd3rsJ3r0Xze-eyZddxkN-OrRDAZ_tfBB8nQNP-RDPVoYX24=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "evnwXz9rMcM", "title": "Maximize Your Creativity: Unleashing the Power of GPT for Revolutionary Brainstorming!" },
+    { "id": "Am9ZbGYDt84", "title": "GPT 스토어가 출시 됐어요! 과연 수익화가 가능할까요?" },
+    { "id": "5LuJHe26y8M", "title": "야 너두 GPT 스토어에 올릴 수 있어. 초보자도 따라하는 GPTs 만들기 튜토리얼" }
+  ]
+}

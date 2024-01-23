@@ -294,5 +294,15 @@
     "desc": "Configuration files to turn vim into a modeless editor.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "thijsvanloef/palworld-server-docker",
+    "desc": "A Docker Container to easily run a Palworld dedicated server.",
+    "officialSite": "https://hub.docker.com/r/thijsvanloef/palworld-server-docker",
+    "topics": ["dedicated-gameservers", "dedicated-server", "docker", "palworld", "palworld-dedicated-server"]
+  }, {
+    "repo": "jammsen/docker-palworld-dedicated-server",
+    "desc": "Docker container to easily provision and manage Palworld Forest Dedicated Server",
+    "officialSite": "https://hub.docker.com/r/jammsen/palworld-dedicated-server",
+    "topics": []
   }
 ]

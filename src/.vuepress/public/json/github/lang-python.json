@@ -3854,5 +3854,25 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "majacinka/crewai-experiments",
+    "desc": "Experiments with local as well as models available through an api",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jonbarron/camp_zipnerf",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Avaiga/taipy",
+    "desc": "Turns Data and AI algorithms into production-ready web applications in no time.",
+    "officialSite": "https://www.taipy.io",
+    "topics": ["automation", "data-engineering", "data-ops", "data-visualization", "datascience", "developer-tools", "hacktoberfest", "hacktoberfest2023", "mlops", "orchestration", "pipeline", "pipelines", "python", "taipy-core", "taipy-gui", "workflow"]
+  }, {
+    "repo": "LiheYoung/Depth-Anything",
+    "desc": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
+    "officialSite": "https://depth-anything.github.io",
+    "topics": ["depth-estimation", "image-synthesis", "metric-depth-estimation", "monocular-depth-estimation"]
   }
 ]
