@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/PC_c4rYZsAsg3rBMtj1WaBxL0_vk7nrHiN8PR8GfDxMot5pYa3Z1vhTjZPUQMndXx8s3tZ4btg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eWIRI9DaoxA", "title": "How to Easily Create Custom Laravel Nova Fields - Advanced Laravel Nova Tutorial" },
+    { "id": "mKOcGi4wE0Q", "title": "How to Make Dependent Select Options Based By Another Select Option in FIlamentPHP" },
     { "id": "psBeUDtwgnM", "title": "2 Methods on How to Use Controller Middlewares in Laravel #laravel #shorts" },
     { "id": "64U2crNKVBk", "title": "PestPHP Files & Folder Structure Explained in 60 Seconds #laravel #shorts" },
     { "id": "PzPo5Ky2mRc", "title": "Laravel Livewire v3 Course for Beginners - Laravel Livewire v3 Crash Course for Beginners" },

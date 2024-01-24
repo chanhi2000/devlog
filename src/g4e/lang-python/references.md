@@ -254,4 +254,12 @@ description: 🐍Python > 📚References
 
 - [Compressing Text into Images](https://shkspr.mobi/blog/2024/01/compressing-text-into-images/)
 
+---
+
+## Max Bernstein
+
+- [`scrapscript.py`](https://bernsteinbear.com/blog/scrapscript/)
+
+---
+
 <TagLinks />

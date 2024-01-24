@@ -1184,5 +1184,10 @@
     "desc": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "docker/compose",
+    "desc": "Define and run multi-container applications with Docker",
+    "officialSite": "https://docs.docker.com/compose/",
+    "topics": ["docker", "docker-compose", "go", "golang", "orchestration"]
   }
 ]

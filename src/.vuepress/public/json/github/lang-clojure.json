@@ -44,5 +44,10 @@
     "desc": "Interactive Datalog Tutorial",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "xtdb/xtdb",
+    "desc": "The bitemporal database for regulated data. Developed by @juxt",
+    "officialSite": "https://xtdb.com",
+    "topics": ["bitemporal", "database", "datalog", "document-database", "immutable-store", "sql", "temporal", "xtdb"]
   }
 ]

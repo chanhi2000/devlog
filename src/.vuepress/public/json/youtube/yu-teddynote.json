@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Qfg6cJu-0hF72hWqycaSMrnVYdIx2rmLOEs7Sbw9_2lFWLjOD-WIOnNyRi9iLBi88MaCG2pPsxw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "03r7sloAyOY", "title": "파이썬 Decorator! 알면 인생이 편해지는 기능!" },
+    { "id": "2q1XlbFVzf8", "title": "LangChain Agent 를 활용하여 #chatgpt  를 #업무자동화 에 적용하는 방법🔥🔥" },
+    { "id": "sSZ-IVpz7EU", "title": "초간단 파일공유 서비스(직접 만들어봄! 무료!!)" },
+    { "id": "aECwQqBWfJM", "title": "🔥Private #chatgpt 🔥 나만의 ChatGPT 만들기 (HuggingFace Open LLM 활용)" },
     { "id": "RxSz9GBaCvo", "title": "#OpenAI Whisper 로 영상 자막생성 자동화🔥🔥" },
     { "id": "LQS3y7Tckhc", "title": "[GPTs로 꿀빨기] PPT 제작 자동화" },
     { "id": "BymPIgdd8PY", "title": "1분만에 자동으로 PPT 생성하는 방법 #gpts #ppt #자동화 #chatgpt" },

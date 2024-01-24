@@ -1,5 +1,6 @@
 // src/.vuepress/js/api/DevoApi
 import Setup from './Setup'
+
 const axios = Setup.axios
 const IS_DEBUG = Setup.IS_DEBUG
 
@@ -283,6 +284,10 @@ function fetchGithubDetail(fullName = ''): Promise<GithubDetailResponse> | undef
     .catch((e) => {console.warn('Error:', e);return {}});
 }
 
+function openAll(links2Open: []) {
+  console.log('openAll ...')
+}
+
 const DevoApi = {
   BASEURL_GITHUB,
   BASEURL_YCOMBINATOR,
@@ -293,6 +298,7 @@ const DevoApi = {
   fetchGitubColors,
   fetchGithubRepos,
   fetchHackernews,
-  fetchGithubDetail
+  fetchGithubDetail,
+  openAll,
 }
 export default DevoApi

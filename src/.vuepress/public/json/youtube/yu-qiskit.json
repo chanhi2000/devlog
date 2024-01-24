@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/MbxyM1WRigfFosBJ8hj1bX1Fn1Hmc4bmA0LRn47nlKby7am1HHq6JT4--xECIzfRnZVkqh-WraY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hyL7tJzwUBU", "title": "Realization and Characterization of Topological Phases on Quantum Processors" },
+    { "id": "455pmYaZXKw", "title": "Phase Kickback with Qiskit" },
+    { "id": "ArisYJQwOSY", "title": "Efficient classical shadow tomography with number conservation with Anushya Chandran" },
+    { "id": "hyL7tJzwUBU", "title": "Realization and Characterization of Topological Phases on Quantum Processors" },
     { "id": "jcC1Ck45Ykw", "title": "Back to the Future on a Quantum Computer: Demystifying Time Loops | Paradoxes Ep. 09" },
     { "id": "AXXgE5zzIVQ", "title": "Quantum Simulation with Ultracold Atoms in Optical Lattices | Qiskit Quantum Seminar IMMANUEL BLOCH" },
     { "id": "9MOIBcYf9wk", "title": "How to sample a Bell State using Qiskit" },

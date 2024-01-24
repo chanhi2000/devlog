@@ -724,5 +724,25 @@
     "desc": "bare minimum atw-style interpreter for learning purposes",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ashvardanian/SimSIMD",
+    "desc": "Vector Similarity Functions 3x-200x Faster than SciPy and NumPy — for Python, JavaScript, and C 11, supporting f64, f32, f16, i8, and binary vectors using SIMD for both x86 AVX2 & AVX-512 and Arm NEON & SVE 📐",
+    "officialSite": "https://ashvardanian.com/posts/simsimd-faster-scipy/",
+    "topics": ["arm", "arm-neon", "arm-sve", "assembly", "avx2", "avx512", "distance-calculation", "distance-measures", "information-retrieval", "metrics", "neon", "numpy", "python", "scipy", "simd", "simd-instructions", "similarity-measures", "similarity-search", "vector-search"]
+  }, {
+    "repo": "madler/zlib",
+    "desc": "A massively spiffy yet delicately unobtrusive compression library.",
+    "officialSite": "http://zlib.net/",
+    "topics": []
+  }, {
+    "repo": "flame/blis",
+    "desc": "BLAS-like Library Instantiation Software Framework",
+    "officialSite": "",
+    "topics": ["blas", "blas-libraries", "blis", "high-performance", "high-performance-computing", "hpc", "linear-algebra", "linear-algebra-library", "matrix", "matrix-calculations", "matrix-functions", "matrix-library", "matrix-multiplication", "optimization"]
+  }, {
+    "repo": "billziss-gh/imap",
+    "desc": "Integer Map Data Structure",
+    "officialSite": "",
+    "topics": []
   }
 ]

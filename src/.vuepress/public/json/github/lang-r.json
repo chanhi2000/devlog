@@ -1,13 +1,13 @@
 [
   {
-    "repo": "cxli233/FriendsDontLetFriends",
-    "desc": "Friends don't let friends make certain types of data visualization - What are they and why are they bad. ",
-    "officialSite": "",
-    "topics": ["data-visualization", "r"]
-  }, {
     "repo": "rmcelreath/stat_rethinking_2024",
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "cxli233/FriendsDontLetFriends",
+    "desc": "Friends don't let friends make certain types of data visualization - What are they and why are they bad.",
+    "officialSite": "",
+    "topics": ["data-visualization", "r"]
   }
 ]

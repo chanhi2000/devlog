@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/yywUQ_ZU1Bna8IN8qnh_lHDMek4qjrEBHE3NI8SWwsvNO6H2JDw-nNnKTh9isz-PoZ8OmmSLWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "T_ZmJecsqCs", "title": "Optimize Streamlit App Workflows with GitLab" },
     { "id": "ZwOnB_uRdX0", "title": "Generating SQL Queries Using AI Agents" },
     { "id": "58LClFx3WOY", "title": "Vectors and databases and retrieval, oh my!" },
     { "id": "PLKkudXYCNI", "title": "Demystifying RAG apps with LlamaIndex!" },

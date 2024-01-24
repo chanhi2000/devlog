@@ -638,6 +638,18 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## SaaS Hammer
+
+- [Lightweight Javascript Framework Review (For Django Developers)](https://saashammer.com/blog/lightweight-javascript-framework-review-for-django-developers/)
+
+---
+
+## FrontendMasters
+
+- [`console.delight`](https://frontendmasters.com/blog/console-delight/)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

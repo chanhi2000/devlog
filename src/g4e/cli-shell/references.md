@@ -157,6 +157,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## 류세
+
+- [터미널 색 구성 '과학적'으로 조리하기](https://c.innori.com/155)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

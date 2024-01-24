@@ -38,4 +38,13 @@ meta:
 
 ---
 
+## 비탐인
+
+- [Spring Test 수행 중 나는 XML parsing 오류 하나.  소프트웨어 개발](https://blog.naver.com/anabaral/130041099653)
+>
+> Spring 에서 설정 파일 읽어들일 때 이런 에러를 만날 때가 있다.
+> `javax.xml.parsers.ParserConfigurationException`: Unable to validate using XSD: Your JAXP provider [org.apache.crimson.jaxp.DocumentBuilderFactoryImpl@131f71a] does not support XML Schema. Are you running on Java 1.4 or below with Apache Crimson? Upgrade to Apache Xerces (or Java 1.5) for full XSD support.
+
+---
+
 <TagLinks />

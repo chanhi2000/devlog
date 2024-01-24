@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Gtz5_21lHxM", "title": "[파이썬] unittest, 그리고 coverage" },
     { "id": "51k4ZKvFyJQ", "title": "[pinecone] Filtering with Metadata" },
     { "id": "GEcSutX6kmE", "title": "[pinecone] Data management" },
     { "id": "cRNEaRMrYOI", "title": "[pinecone] Vector 데이터베이스 시작하기" },

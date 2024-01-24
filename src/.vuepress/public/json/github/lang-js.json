@@ -1904,5 +1904,20 @@
     "desc": "QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源",
     "officialSite": "https://liteloaderqqnt.github.io/",
     "topics": ["javascript", "liteloaderqqnt", "loader", "qq", "qqnt"]
+  }, {
+    "repo": "Corgea/retriever",
+    "desc": "Secure secret sharing through the browser using web crypto. No server required!",
+    "officialSite": "https://retriever.corgea.io",
+    "topics": ["javascript", "secret-sharing", "security"]
+  }, {
+    "repo": "dabateam/funding-simulator",
+    "desc": "Startup Funding Simulator",
+    "officialSite": "https://fundingsimulator.com",
+    "topics": ["funding", "investment", "safes", "simulator", "startup"]
+  }, {
+    "repo": "cheeriojs/cheerio",
+    "desc": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
+    "officialSite": "https://cheerio.js.org",
+    "topics": ["cheerio", "dom", "hacktoberfest", "html", "htmlparser", "htmlparser2", "jquery", "parser", "scraper", "selector"]
   }
 ]

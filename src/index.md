@@ -208,7 +208,7 @@ color: rgba(79,29,173,0.2)
   
 <DevGithubItems />
 <DevHackerNewsItems />
-<!-- <DataTauItems /> -->
+<DataTauItems />
 <!-- <ZSyncItems /> -->
 
 ```mermaid

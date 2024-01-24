@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/q9Vx3-YvO8ZzLsHWeuacnsotv9BbzbFunyVBN87yGEfhdSNLhCkEcyl2G4vyEiR7K8iZEad3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nEUwDsnH8k0", "title": "LLMs and licensing | Biju Nair" },
+    { "id": "VJjZbWUIGNM", "title": "The secret ingredient: how good datasets shape state-of-the-art AI models" },
     { "id": "cheVchzMYCw", "title": "Use Cases and Risks of ML in Capital Markets | Exploring applications of AI/ML in Fintech" },
     { "id": "rJW6aP6cTyY", "title": "Faster, Better, Cheaper - Together | Reflections on craft and science of managing software projects" },
     { "id": "8T8HOiJJG8o", "title": "Building highly scalable systems with resilience | Harsh Mittal" },

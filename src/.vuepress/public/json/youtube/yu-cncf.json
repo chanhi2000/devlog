@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/bi31p_sXAVH8uxOA4HVV1hrLAQwmsAtS2xnRSyZDwvkv0Orpu_pUHfwB98b8MZpgm1sU8N4s-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MfoVC6ZJjw4", "title": "Istio Ambient - Inside a contributor's journey" },
+    { "id": "R3MeYdmXEjw", "title": "Cloud Native Glossary: Turkish Localization Meeting - 2024-01-10" },
+    { "id": "RG9k5YiMrd0", "title": "Platform Engineering from Minimum Viable Platform to scale" },
+    { "id": "sDI6h51s8KA", "title": "Loki at Scale - Navigating High-Volume Logging Challenges" },
+    { "id": "G1QVXZiMGw4", "title": "Beyond Kubernetes with Linkerd 2.15 and SPIFFE" },
+    { "id": "qLK2Kd4L1Jg", "title": "Cloud Native Live: Securing the secrets manager with KubeArmor" },
+    { "id": "y7Ele1nvAns", "title": "Kubernetes in Sign Language: An introduction" },
     { "id": "tl8w72tehZ0", "title": "Multi-Stage Deployment Pipelines the GitOps Way - Jesse Suen & Kent Rancourt, Akuity" },
     { "id": "qBOAVgK6Vj0", "title": "Dynamic 5G Core Infrastructure with FluxCD Terraform Controller - David Blaisonneau, Orange" },
     { "id": "k4L5_zKorZ8", "title": "Empowering Developer Productivity: A Deep Dive Into ArgoCD and Botkube Integration - Maria Ashby" },

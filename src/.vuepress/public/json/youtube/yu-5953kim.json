@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/ndVBX6A95r8QNXWrQoUmFnCH4z4GJKkA3fHo-Wg6PodK2HKIKrsl9zo76SJOQUu27jix8IEHunU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "w16aa_4bJrc", "title": "[구글스프레드시트]  Filtering  속도 비교  Filter vs Reduce vs Query" },
+    { "id": "YINyASy2PbE", "title": "[구글스프레드시트] Let함수 사용 vs Let함수 미사용_ 성능 비교" },
+    { "id": "DdZHnYejzzw", "title": "[Excel365] GroupBy, PivotBy에서 Lambda를 사용할수 있다고!" },
+    { "id": "K0BhoGK3suQ", "title": "[Excel365] 원본 Filtering 후  PivotBy/groupBy 구현( filter_array 옵션 )" },
+    { "id": "8bCCoM9hY64", "title": "셀 드블클릭시 달력 보이기  #gas #google_apps_script #vba #달력 #날짜 #calendar #double_click" },
+    { "id": "QoDYZyL3aPQ", "title": "[excel365/구글스프레드시트 공통] 값으로 붙여넣기 단축키 #gas #google_apps_script #vba #단축키 #값으로붙여넣기" },
+    { "id": "-WI01UkiJCc", "title": "[Excel365] PivotBy에서 다중 필드, 계산된 필드 구현( multiful fields, calculated fields)" },
+    { "id": "KUfb_0w23zk", "title": "[Excel365] Shuffle / N개 뽑기 #Shuffle #Extract_N_Count #gas #google_apps_script #vba #Excel365" },
+    { "id": "QsGvIAmIRcI", "title": "수식으로 기수(Ordinal Number) 만들기  #gas #google_apps_script #vba #OrdinalNumber #구글스프레드시트" },
     { "id": "qnxBFF6NHIE", "title": "[구글스프레드시트] Query_숫자 열에 빈셀이&nbsp;많을 때&nbsp; 그 값을 &nbsp;0으로 처리하여 연산하는 방법" },
     { "id": "pu891FhIZYQ", "title": "[구글스프레드시트] excel 365의 sortBy함수 구현" },
     { "id": "PygmulckwDk", "title": "[구글스프레드시트] Reduce, Query함수를 이용하여 Group별 N개 데이타 뽑아오기" },

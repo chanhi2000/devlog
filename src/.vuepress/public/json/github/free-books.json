@@ -169,5 +169,15 @@
     "desc": "An advanced guide to learn English which might benefit you a lot 🎉. 离谱的英语学习指南/英语学习教程。",
     "officialSite": "https://byoungd.github.io/English-level-up-tips/",
     "topics": ["chinese", "english-learning", "tutorial"]
+  }, {
+    "repo": "Dicklesworthstone/introduction_to_temporal_logic",
+    "desc": "An introduction to temporal logic and how it can be used to analyze concurrency",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "iam-veeramalla/Azure-zero-to-hero",
+    "desc": "Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -974,5 +974,10 @@
     "desc": "An open-source remote desktop, and alternative to TeamViewer.",
     "officialSite": "https://rustdesk.com",
     "topics": ["anydesk", "dart", "flutter", "flutter-apps", "flutter-desktop", "flutter-examples", "flutter-mobile", "flutter-ui", "flutter-web", "hacktoberfest", "linux", "p2p", "rdp", "remote-control", "remote-desktop", "rust", "rust-lang", "teamviewer", "vnc", "wayland"]
+  }, {
+    "repo": "zed-industries/zed",
+    "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "officialSite": "https://zed.dev",
+    "topics": ["gpui", "text-editor", "zed"]
   }
 ]

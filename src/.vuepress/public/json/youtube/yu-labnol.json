@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "labnol",
+    "name": "Digital Inspiration",
+    "profile": "https://yt3.googleusercontent.com/EoVtRNfYkvtJvF5wS0wP4qY3xE8TDLSbRKiWba-lw2jLfOyFFBzGwVAeldOrgTn4WqGClpyqBQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GAWRYxWZlzzbRNVhzLNDbad-KwR7J5y1vV-AdhZA2HLCynl4asgXmLABQQVcseEUgaJJF5n8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FvZ2tM0m7AY", "title": "Google Form Notifications - Automate Email Alerts based on Form Answers" }
+  ]
+}

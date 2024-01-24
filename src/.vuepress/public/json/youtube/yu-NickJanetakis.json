@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wKE7dpe8czs", "title": "Troubleshooting Steps for When a Vim Plugin Is Not Working" },
+    { "id": "l9DhnM0Q_ms", "title": "Difference between Double Ampersand and Semicolon in a Shell Script" },
     { "id": "2xJyBRSE4g0", "title": "Automate Suspending Kubernetes Cron Jobs with find and sed" },
     { "id": "1XgqXMNFE-0", "title": "Docker Tip #96: See How Long a Container Ran For" },
     { "id": "U5cYKqo6WX8", "title": "Getting Celery to Work with Python 3.12 and Flask 3.0" },

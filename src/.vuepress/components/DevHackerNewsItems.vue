@@ -7,13 +7,15 @@
     <div class="card-title-text">
       <div data-v-3564cb40="" class="round-borders wrapper">
         <div data-v-3564cb40="" class="select-title-wrapper">
-          <span data-v-3564cb40="" class="select-title"> Hacker News</span>
+        <span data-v-3564cb40="" class="select-title"> Hacker News</span>
         </div>
       </div>
     </div>
     <div class="pull-right external-icons">
       <div class="title-icon external-icon" style="color: rgba(254, 101, 1, 0.7);">
-        <a href="https://news.ycombinator.com">
+        <a 
+          @click="openAll"
+        >
           <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-external-link-alt fa-w-16">
             <path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z" class=""></path>
           </svg>
@@ -53,8 +55,9 @@
 <script>
 import DevLoadingvSpinner from './DevLoadingvSpinner.vue'
 import DevoApi from '../js/api/DevoApi'
+
 export default {
-  name: "DevHackerNewsItems",
+  name: "DevHackerNewsItems", 
   components: { DevLoadingvSpinner },
   data() {
     return {
@@ -65,11 +68,13 @@ export default {
   methods: {
     async onFetchData() {
       if (__IS_DEBUG__) console.log('onFetchData ... ')
+      this.isLoading = true
       // const repoNamesToExclude = DevoApi.reposToExclude.map((e) => `${e.repo}`);
       const filterHackernewsPredicate = (e) => {
         return !e.link.match(DevoApi.REGEX_GITHUB_BASEURL)
       }
       const fetchedItems = await DevoApi.fetchHackernews()
+      this.isLoading = false
       this.items = fetchedItems.filter(filterHackernewsPredicate).map((e) => {
         return {
           age: e.age,
@@ -89,6 +94,26 @@ export default {
     async doRefresh() {
       if (__IS_DEBUG__) console.log('doRefresh ...');
       await this.onFetchData();
+    },
+    async openAll() {
+      console.log('openAll ...');
+      const links2Open = this.items.map((e) => e.link)
+      const json = JSON.stringify(links2Open, null, 2)
+      console.log(json)
+      await this.copyToClipboard(json)
+      let i=0
+      let int = setInterval(() => {
+        window.open(links2Open[i], "_blank")
+        if (i++ >= links2Open.length) clearInterval(int)
+      }, 4000)
+    },
+    async copyToClipboard(text = '') {
+      try {
+        await navigator.clipboard.writeText(text);
+      } catch (e) {
+        console.warn('Error:', e)
+        return
+      } 
     },
   },
   mounted() {

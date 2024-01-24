@@ -19,5 +19,10 @@
     "desc": "✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.",
     "officialSite": "https://leerob.io",
     "topics": ["blog", "mdx", "nextjs", "planetscale", "portfolio", "react", "tailwindcss", "vercel"]
+  }, {
+    "repo": "anonystick/anonystick",
+    "desc": "FullStack",
+    "officialSite": "https://anonystick.com",
+    "topics": ["aws", "elasticsearch", "mongodb", "mysql", "nodejs", "rabbitmq", "redis"]
   }
 ]

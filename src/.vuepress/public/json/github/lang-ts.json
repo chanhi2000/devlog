@@ -1840,9 +1840,9 @@
     "topics": ["hacktoberfest", "nextjs", "prisma", "react", "typescript"]
   }, {
     "repo": "StanGirard/quivr",
-    "desc": "Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs.",
+    "desc": "Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
     "officialSite": "https://quivr.app",
-    "topics": ["ai", "assistant", "brain", "chat", "embeddings", "function", "gpt", "gpts", "llm", "local", "pdf", "personal", "private", "productivity", "second", "second-brain", "share"]
+    "topics": ["ai", "api", "chatbot", "chatgpt", "database", "docker", "frontend", "html", "javascript", "llm", "openai", "postgresql", "privacy", "rag", "react", "rest-api", "security", "typescript", "vector", "ycombinator"]
   }, {
     "repo": "bbycroft/llm-viz",
     "desc": "3D Visualization of an GPT-style LLM",
@@ -2073,5 +2073,10 @@
     "desc": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
     "officialSite": "https://n8n.io",
     "topics": ["apis", "automated", "automation", "cli", "data-flow", "development", "docker", "iaas", "integration-framework", "integrations", "ipaas", "low-code", "low-code-development-platform", "low-code-platform", "n8n", "node", "self-hosted", "typescript", "workflow", "workflow-automation"]
+  }, {
+    "repo": "microsoft/typespec",
+    "desc": "",
+    "officialSite": "https://microsoft.github.io/typespec/",
+    "topics": ["openapi3"]
   }
 ]

@@ -71,18 +71,16 @@
         const fetchedItems = await DataTauApi.fetchDataTau()
         this.items = fetchedItems.map((e) => {
           return {
-            // age: e.age,
-            // commentCount: e.commentCount,
+            age: e.age,
             link: e.description,
-            // score: e.score,
-            siteString: e.description.replace(/https:\/\/|https:\/\/www./g, '')
-              .replace(/\/.*/g, ''),
-            threadLink: e.guid,
+            score: e.score,
+            siteString: e.siteString,
+            threadLink: e.threadLink,
             title: e.title,
-            // user: {
-            //   link: `${YCOMBINATOR_URL}/${e.user.link}`,
-            //   name: e.user.name,
-            // }
+            user: {
+               link: e.user.link,
+               name: e.user.name,
+            }
           }
         });
       },

@@ -1058,5 +1058,10 @@
     "desc": "MSVC's implementation of the C++ Standard Library.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "zydeco/macemu",
+    "desc": "Experiments with BasiliskII on iOS and macOS",
+    "officialSite": "",
+    "topics": ["emulator", "ios", "m68k", "macintosh"]
   }
 ]

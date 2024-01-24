@@ -24,5 +24,10 @@
     "desc": "A full featured bootstrap for ios14.0~17.0 (A8~A17,M1+M2)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "zydeco/minivmac4ios",
+    "desc": "Mini vMac for iOS",
+    "officialSite": "https://namedfork.net/minivmac",
+    "topics": ["emulator", "ios", "m68k", "macintosh", "mini-vmac"]
   }
 ]

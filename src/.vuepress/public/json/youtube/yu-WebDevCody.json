@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/k9xnEabqN3WKB3R5ZuFRgiU_XZEqVEMLNAN9gWMuMELNXz-ahTb0Yms3GpBU_zatCvk4n58qHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "C8OhOU-4l74", "title": "This reminded myself of why I dislike Next.js" },
+    { "id": "1LiefrXnxFw", "title": "This aws lambda issue was impossible to debug" },
+    { "id": "6vcBBYIjfUk", "title": "Let's build something simple with Next.js" },
+    { "id": "nVKReCDBNpE", "title": "How to Setup a Professional Pay-Per-Use API" },
+    { "id": "51Mzx0c6Z30", "title": "Why I'm switching from Postgres to a real-time database" },
+    { "id": "zQEzjsE4c50", "title": "Why I’ll never deploy to a VM again" },
+    { "id": "A0Rx2m9DzEE", "title": "My Favorite UI Library Always Pulls Through" },
     { "id": "RHO8HhBY0W8", "title": "This is why testing is hard" },
     { "id": "cPWSVcbd6Po", "title": "Writing e2e tests isn’t hard, so do it" },
     { "id": "V58X3FSrLWE", "title": "How I manage my time to publish so much content" },

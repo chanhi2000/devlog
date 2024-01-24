@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/V5tY3i1gSQKSYLNtanocpUq7AKWV5nTQS_3Rttel7eOpqOWuK-0zYPyhbXRlJbXR2MCBAnrX=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hW3OVWfndLw", "title": "LLaMA Pro: Progressive LLaMA with Block Expansion (Paper Explained)" },
+    { "id": "mwO6v4BlgZQ", "title": "Mixtral of Experts (Paper Explained)" },
+    { "id": "ZNK4nfgNQpM", "title": "AlphaGeometry: Solving olympiad geometry without human demonstrations (Paper Explained)" },
     { "id": "9dSkvxS2EB0", "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained)" },
     { "id": "bXYLyDhcyWY", "title": "Another Hit Piece on Open-Source AI" },
     { "id": "zut38E-BHH0", "title": "Did Google fake their Gemini Video?" },

@@ -2931,9 +2931,9 @@
     "topics": ["cross-modality", "language-model", "multi-modal", "pretrained-models", "visual-language-models"]
   }, {
     "repo": "stas00/ml-engineering",
-    "desc": "Machine Learning Engineering Guides and Tools",
-    "officialSite": "https://stasosphere.com/machine-learning",
-    "topics": ["bash", "large-language-models", "llm", "machine-learning", "make", "python", "pytorch", "scalability", "slurm", "transformers"]
+    "desc": "Machine Learning Engineering Open Book",
+    "officialSite": "https://stasosphere.com/machine-learning/",
+    "topics": ["ai", "bash", "large-language-models", "llm", "machine-learning", "machine-learning-engineering", "make", "mlops", "python", "pytorch", "scalability", "slurm", "transformers"]
   }, {
     "repo": "dmunozv04/iSponsorBlockTV",
     "desc": "SponsorBlock client for Apple TV and (soon) for all YouTube TV clients.",
@@ -3369,11 +3369,6 @@
     "desc": "A framework to enable multimodal models to operate a computer.",
     "officialSite": "",
     "topics": ["automation", "openai", "pyautogui"]
-  }, {
-    "repo": "stas00/ml-engineering",
-    "desc": "Machine Learning Engineering Online Book",
-    "officialSite": "https://stasosphere.com/machine-learning/",
-    "topics": ["ai", "bash", "large-language-models", "llm", "machine-learning", "machine-learning-engineering", "make", "mlops", "python", "pytorch", "scalability", "slurm", "transformers"]
   }, {
     "repo": "521xueweihan/HelloGitHub",
     "desc": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
@@ -3874,5 +3869,35 @@
     "desc": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
     "officialSite": "https://depth-anything.github.io",
     "topics": ["depth-estimation", "image-synthesis", "metric-depth-estimation", "monocular-depth-estimation"]
+  }, {
+    "repo": "InstantID/InstantID",
+    "desc": "InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥",
+    "officialSite": "https://instantid.github.io/",
+    "topics": []
+  }, {
+    "repo": "lucidrains/self-rewarding-lm-pytorch",
+    "desc": "Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI",
+    "officialSite": "",
+    "topics": ["artificial-intelligence", "beyond-human-data", "deep-learning", "self-rewarding", "transformers"]
+  }, {
+    "repo": "gabrielchua/RAGxplorer",
+    "desc": "Open-source tool to visualise your RAG documents 🔮",
+    "officialSite": "https://discuss.streamlit.io/t/ragxplorer-explore-your-rag-documents-gpt-4-chromadb-sentence-transformers/59371",
+    "topics": ["interactive", "llm", "python", "rag", "streamlit", "visualization"]
+  }, {
+    "repo": "nlmatics/nlm-ingestor",
+    "desc": "This repo provides the server side code for llmsherpa API to connect. It includes parsers for varioius file formats.",
+    "officialSite": "https://www.nlmatics.com",
+    "topics": []
+  }, {
+    "repo": "xNul/palworld-host-save-fix",
+    "desc": "Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.",
+    "officialSite": "",
+    "topics": ["bugfix", "co-op", "dedicated-server", "multiplayer", "palworld", "palworld-dedicated-server", "steam"]
+  }, {
+    "repo": "OrionStarAI/Orion",
+    "desc": "Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Orion-14B 系列模型包括一个具有140亿参数的多语言基座大模型以及一系列相关的衍生模型，包括对话模型，长文本模型，量化模型，RAG微调模型，Agent微调模型等。",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -304,5 +304,10 @@
     "desc": "A Swiss Army knife for developers.",
     "officialSite": "https://devtoys.app/",
     "topics": ["csharp", "developer-tools", "fluent", "fluent-design", "mica", "syntax-highlighting", "uwp", "windows", "windows-10", "windows-11", "winui", "xaml"]
+  }, {
+    "repo": "Tichau/FileConverter",
+    "desc": "File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.",
+    "officialSite": "http://www.file-converter.org",
+    "topics": []
   }
 ]

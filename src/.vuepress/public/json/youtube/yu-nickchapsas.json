@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UMeKxBcNBE0", "title": "Await Async Might Change Completely in .NET 9" },
+    { "id": "cTdaRX0vQuk", "title": "\"Stop Using Singletons in .NET!\" | Code Cop #009" },
+    { "id": "iHIh5WoIvks", "title": "Building the Smallest C# Game That Doesn’t Need .NET" },
+    { "id": "5omutyj6N0Q", "title": "C# Is Programming Language of the Year!" },
     { "id": "8kDugxr3Hdg", "title": "Measure Your Application’s Performance in .NET" },
     { "id": "4KHFrbJHCHc", "title": "This is Best Way To Create CLI Apps in .NET" },
     { "id": "gJcPqdbKF90", "title": "NativeAOT in .NET 8 Has One Big Problem" },

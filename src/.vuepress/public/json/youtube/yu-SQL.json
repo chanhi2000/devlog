@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "SQL",
+    "name": "SQL전문가 정미나",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQouauy0THZAA_9MTmbNGQBKlqM5puA4P0bUsFskg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EipvSvtez9SUdqCxRqoMo5hYjbwVbi6oXZlF-7-ooVrCikJLziusIWWeT3byVy0l7Tz4MFDof4U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5nJ6aa4PnCg", "title": "[독자요청] 유선배 SQLD 과외노트 2과목 Level Up Test (P78)" },
+    { "id": "q00pJaaI04I", "title": "[독자요청] 유선배 SQLD 과외노트 2과목 Level Up Test (P116)" }
+  ]
+}

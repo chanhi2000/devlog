@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/65qv-IUJXhEcwd2WLDJ3gXqcAk6fkIceYxvKUII7Gz1rBeHiOt4L2JQwqhvvAYv5wEC1ucsj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Weprd1wKoQ4", "title": "TinyLlama: The Era of Small Language Models is Here" },
+    { "id": "OVqe6GTrDFM", "title": "Fine-Tune Your Own TinyLlama on Custom Dataset" },
+    { "id": "Ey2Wt1heba4", "title": "OpenAI GPT Store is here 🔥🔥 But Vulnerable to Prompt Injection 💀💀" },
+    { "id": "B8s-FyN4UeE", "title": "CrewAI - Your Own Team of Autonomous Agents" },
+    { "id": "KIvl-VY8H0Y", "title": "AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents" },
+    { "id": "ob45YmYD2KI", "title": "AutoGen Studio with 100% Local LLMs (LM Studio)" },
+    { "id": "ut8qStGS7YM", "title": "7 Custom GPTs to Try for Productivity and Fun" },
     { "id": "RzSDdosu_y8", "title": "Fine-tune Mixtral 8x7B (MoE) on Custom Data - Step by Step Guide" },
     { "id": "wFMco_h_Sy0", "title": "Mixtral MoE on Apple Silicon is Here, thanks to MLX" },
     { "id": "Zo3CTapKJ4I", "title": "Run Mixtral 8x7B MoE in Google Colab" },

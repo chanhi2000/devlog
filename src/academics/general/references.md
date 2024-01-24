@@ -18,6 +18,7 @@ tags: ["youtube", "tutorial"]
 
 - [Calculating Logarithms By Hand](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
 - [On the dimensionality of spacetime](https://space.mit.edu/home/tegmark/dimensions.pdf)
+- [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
 
 ---
 
@@ -66,6 +67,12 @@ tags: ["youtube", "tutorial"]
 ## manifest ai
 
 - [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
+
+---
+
+## Abacus: Mystery of the bead 
+
+- [The Bead Unbaffled - Totton Heffelfinger & Gary Flom](http://totton.idirect.com/abacus/pages.htm)
 
 ---
 

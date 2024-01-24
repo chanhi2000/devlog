@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "24Q5If6fTIo", "title": "10_1.Regression" },
+    { "id": "BnwJNq5Pq6k", "title": "경영통계 with Jamovi 강의 설명" },
+    { "id": "MaVkLJaSzCI", "title": "Ch01_1.통계학의 이해(통계학이란_여론조사,오차범위 1_2)" },
     { "id": "3DNHw_cINpc", "title": "02_01.텍스트마이닝이란" }
   ]
 }
