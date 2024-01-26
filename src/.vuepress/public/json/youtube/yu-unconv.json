@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Nypn3yolcdBtwhfG0rhp8vU98hL_1xN0QbSl-myEPr-anxFUq1nO8ceLK25Utdzfiu_cXDWj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HXF7lX-qo3A", "title": "AI YouTube Short Generator Part 3: Overlaying Transcript On The Video" },
     { "id": "VeQR17k7fiU", "title": "GPT-4 Vision API + Puppeteer = Easy Web Scraping" },
     { "id": "M0kNE6PR7-k", "title": "Creating YouTube Shorts with AI (GPT-4 + ElevenLabs + DALL-E 3)" },
     { "id": "PMLg6Rr8fcU", "title": "GPT-4 Vision Browsing Part 2: Following links with Puppeteer" }

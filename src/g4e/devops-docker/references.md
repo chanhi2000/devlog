@@ -165,6 +165,12 @@ description: 🐋Docker > 📚References
 
 ---
 
+## susam pal
+
+- [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
+
+---
+
 ## Misc
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)

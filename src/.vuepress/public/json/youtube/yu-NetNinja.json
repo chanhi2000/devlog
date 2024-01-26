@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/m_WGEq8pBawVi71mEKiFbnOjbkvzyWguNpcAbss54NenWDivjpbbqREAlyoRNONKNBk6QlS87A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OjX0lOCn-8Q", "title": "Dart Crash Course #5 - Lists & Sets" },
+    { "id": "5udl_LBpAHk", "title": "Dart Crash Course #6 - Control Flow" },
+    { "id": "792ek6Y9940", "title": "Dart Crash Course #7 - Maps" },
+    { "id": "R5wAK_kgqjo", "title": "Dart Crash Course #8 - Classes" },
+    { "id": "Q6_8yBYv86Q", "title": "CSS Tip - Using the 'only-of-type' pseudo class #shorts" },
+    { "id": "Od7UP8FyYu8", "title": "Dart Crash Course #9 - Method Overriding" },
+    { "id": "8MywaeBqFmI", "title": "Dart Crash Course #10 - Generics" },
+    { "id": "i5qLpkfa8NQ", "title": "Dart Crash Course #11 - Async, Await & Futures" },
     { "id": "ribJ-EMduM8", "title": "Net Ninja Content Roadmap - 2024" },
     { "id": "NStlixg1RNw", "title": "Dart Crash Course #2 - Dart Basics" },
     { "id": "QGqMJzywasg", "title": "Dart Crash Course #1 - What is Dart?" },

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Nx7ZPpn-v07AAripnhuVESZiSCJyyN-O2aiLgz-RYvRoMApLh9HW0_Jxp4Ns-5pgnsyyWHcE_W8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IophVqi_SEc", "title": "React Multi Language App - I18next Tutorial" },
+    { "id": "OG9PsCnfIR8", "title": "Refactoring a Junior React Code - Write Less Code and Better" },
+    { "id": "_sWZWqjlgQM", "title": "Redux Toolkit Authentication - Do It Right" },
+    { "id": "2kXczWBGCJ8", "title": "NgRx Signal Store - Is it an NgRx replacement?" },
     { "id": "FvnqFG3IVhQ", "title": "Lazy Loading Images Angular - Increase Performance Without Libraries" },
     { "id": "tK0twQfFtNU", "title": "Stylex Facebook - Is It a CSS Solution" },
     { "id": "UuyeFq9aRF4", "title": "Global NG Angular CLI vs NPX NG Angular CLI #angular" },

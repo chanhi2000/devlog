@@ -262,4 +262,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Trail of Bits
+
+- [We build X.509 chains so you don’t have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
+
+---
+
 <TagLinks />

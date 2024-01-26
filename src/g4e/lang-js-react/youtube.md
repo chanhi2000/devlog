@@ -52,6 +52,7 @@ meta:
 <MyYouTubeItems jsonName="yu-IndianCoders" /><!-- Indian Coders -->
 <MyYouTubeItems jsonName="yu-weekendcode" /><!-- Weekend Code -->
 <MyYouTubeItems jsonName="yu-briandesign" /><!-- Brian Design -->
-
+<MyYouTubeItems jsonName="yu-galaxies_dev" /><!-- Simon Grimm -->
+<MyYouTubeItems jsonName="yu-MonsterlessonsAcademy" /><!-- Monsterlessons Academy -->
 
 <TagLinks />

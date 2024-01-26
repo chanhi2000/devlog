@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/iUUnz9vrWo_c2ht-sMllYHp-3YVGEonYQgPLT5n3yPs-M35uF_c9auyaMDYnmhRgXvNOXlh4_Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pAIWyK7ZGtw", "title": "Kunal Kushwaha (@CivoCloud) \"Tools to increase Kubernetes developer productivity\" Code Europe 2023" },
     { "id": "Gl8vucNqtZQ", "title": "Practical tips for JavaScript optimisation - lecture by Jakub Sowiński - Code Europe Spring 2017" }
   ]
 }

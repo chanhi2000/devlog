@@ -1063,5 +1063,15 @@
     "desc": "Experiments with BasiliskII on iOS and macOS",
     "officialSite": "",
     "topics": ["emulator", "ios", "m68k", "macintosh"]
+  }, {
+    "repo": "google/glog",
+    "desc": "C++ implementation of the Google logging module",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "idaholab/moose",
+    "desc": "Multiphysics Object Oriented Simulation Environment",
+    "officialSite": "https://www.mooseframework.org",
+    "topics": ["amr", "fem", "finite-elements", "finite-volumes", "multiphysics", "object-oriented", "parallel", "simulation"]
   }
 ]

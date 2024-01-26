@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/ZkK9dbYp2Fv3HM5-9zLU1t7-Pl5n8V1eW4NC_KHlQ4-4fyWeeBsmcHrzWPJoazq8xL-LAojc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Xwk4rcB6qVQ", "title": "THE React Native Tech Stack for 2024 😎" },
+    { "id": "OT5hQbvGRW8", "title": "Better than React Native Stylesheet 💪" },
+    { "id": "LIMyd5FoKyc", "title": "The Worlds Best Apps use React Native" },
     { "id": "EsKFEiJivOE", "title": "I reviewed your apps... Here's what I found! | React Native Apps" },
     { "id": "tbrJJkSYQ04", "title": "Building Modern Angular 17 Apps with Ionic and Standalone Components" },
     { "id": "6taIy38ymr0", "title": "Learn how to use Expo and React Native with @CodingCatDev" },

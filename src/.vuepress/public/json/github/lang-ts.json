@@ -2078,5 +2078,10 @@
     "desc": "",
     "officialSite": "https://microsoft.github.io/typespec/",
     "topics": ["openapi3"]
+  }, {
+    "repo": "andrewnguonly/Lumos",
+    "desc": "A RAG LLM co-pilot for browsing the web, powered by local LLMs",
+    "officialSite": "",
+    "topics": []
   }
 ]

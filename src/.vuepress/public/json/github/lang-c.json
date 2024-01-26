@@ -744,5 +744,10 @@
     "desc": "Integer Map Data Structure",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "rhboot/shim",
+    "desc": "UEFI shim loader",
+    "officialSite": "",
+    "topics": []
   }
 ]

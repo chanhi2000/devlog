@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Nn4hpY1fEJBjee0fWZ76I2sjzA-PAp4Pi9fcdWxN8hVcE3xEZ_Ge122EI9xIYf2P_V6aOqS32Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8U8kK3SpLTU", "title": "George Hotz | Programming | Decision Transformer Reinforcement Learning (RL) | LunarLander | Part 1" },
+    { "id": "-tZkb0vgaDk", "title": "George Hotz | Programming | RL is dumb and doesn't work | Reinforcement Learning LunarLander Part 2" },
+    { "id": "Ul5-NKOP8RQ", "title": "George Hotz | Researching | RL is dumb and doesn't work (theory) | Reinforcement Learning | Part 3" },
+    { "id": "X4J_GUhp9jI", "title": "George Hotz | Researching | multiGPU with HIP (or maybe without HIP) | HSA | HIP Graph | Part 1" },
     { "id": "ogOmQ86y0es", "title": "George Hotz | Programming | OpenCL on a Galaxy Z Fold 5 | Android | IOCTL | GPU | arm64 | part 1" },
     { "id": "S2n5BFGcCv0", "title": "comma ai | Human-Machine Cooperation in openpilot | Driver Monitoring | Weixing Zhang COMMA_CON talk" },
     { "id": "H40QRJFzThQ", "title": "George Hotz | Programming | Mistral mixtral on a tinybox | AMD P2P multi-GPU mixtral-8x7b-32kseqlen" },

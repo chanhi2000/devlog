@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/D8fhq001Aiaw3GF7roX6tesMz2f9YegrpzuVxDUirXHrczb3HWt1I7THi5z2TJJs5mZ4g578jJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2Cp9ECsQZ_Y", "title": "Tailwind CSS Mouse-Tracking Glow Effect with JavaScript" },
+    { "id": "XzXKZduCvII", "title": "How to use Bun with Ruby on Rails" },
+    { "id": "imU_9_C4UcQ", "title": "Digging into Solid Queue and Rails" },    
     { "id": "7phZqghhho0", "title": "Re-create Airbnb's Home Page with Tailwind CSS" },
     { "id": "wURcezOECD0", "title": "Digging into Turbo 8's Morphing Feature in Ruby on Rails" }
   ]

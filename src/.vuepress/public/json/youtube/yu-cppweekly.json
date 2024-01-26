@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/hGuK35xxMUot29sl0pBB6v-59COh6a5L518qI2G74tzqtq13OYO5s4uMkgEANqQQ6zVz0A6R=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "E0QhZ6tNoRg", "title": "C++ Weekly - Ep 410 -  What Are Padding and Alignment? (And Why You Might Care)" },
+    { "id": "uE0h79vB-rw", "title": "C++ Weekly - Ep 411 - Intro to C++ Exceptions" },
+    { "id": "3cgDMAVHdoc", "title": "CS101++ - What are Functions and Procedures?" },
+    { "id": "Frl8XKhvA4Q", "title": "C++ Weekly - Ep 412 - Possible Uses of C++23's [[assume]] Attribute" },
     { "id": "A5haG_UCbRI", "title": "C++ Weekly - Ep 407 - C++98 Code Restoration" },
     { "id": "h3F0Fw0R7ME", "title": "C++ Weekly - Ep 405 - Dogbolt: The Decompiler Explorer" },
     { "id": "6SaUwqw4ueE", "title": "C++ Weekly - Ep 404 - How (and Why) To Write Code That Avoids `std::move`" },

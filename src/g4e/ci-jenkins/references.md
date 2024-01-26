@@ -18,6 +18,14 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 - [Automated CI/CD with Jenkins](https://medium.com/avmconsulting-blog/automated-ci-cd-with-jenkins-39b21c7c8035)
 - [CI/CD with Dockers and Jenkins](https://medium.com/avmconsulting-blog/ci-cd-with-dockers-and-jenkins-70b6f801f9f7)
 
+---
+
+## susam pal
+
+- [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
+
+---
+
 ## Misc
 
 - [Clear Jenkins build history ( clear build yesterday )](https://superuser.com/questions/1418885/clear-jenkins-build-history-clear-build-yesterday)

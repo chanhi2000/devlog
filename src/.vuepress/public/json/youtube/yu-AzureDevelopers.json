@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/4rtjrb_IF5E8XCtVgl_Bb5_O1xOyqAhDMXUAUifKwwwqLWp-mBNCppPJUGNs3RzJAJYwFufc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Z8_A8qqEtbI", "title": "Azure App Service Community Standup - Migrating your JBOSS EAP apps to App Service" },
+    { "id": "7gclscn92Ig", "title": "Migrating Java Tomcat Applications to Azure App Service" },
+    { "id": "FXZeKX8A_Gw", "title": "Azure Container Apps Community Standup - Cloud-native apps with .NET Aspire" },
     { "id": "llHohyadtLA", "title": "Azure Logic Apps Standard - Local Development News" },
     { "id": "IswF6PF4HpI", "title": "What's new on Service Bus" },
     { "id": "CwaQ26g-Bxg", "title": "A new Azure Integration Services Unified Experience" },

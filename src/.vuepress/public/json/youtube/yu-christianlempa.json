@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/a4dSkp9F7UvxRWb0Dc81cSfsTuXGlCv59O9ljd5AE-RLzHGZJ5Np_0V9Ign0S_1PbjnD5jW5oA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HEklvsr7q54", "title": "This Docker Compose UI is amazing! //Dockge Tutorial" },
+    { "id": "nnT4FtcYQwY", "title": "HomeLab Talk, Community Q&A //part 1" },
+    { "id": "7-qo6tTPdTM", "title": "Is it time to switch from Docker to Podman?" },
     { "id": "zR0Zbw8giVI", "title": "ZimaCube, 45 Drives, Docker, and other Homelab stuff" },
     { "id": "Wts0CfUK5MQ", "title": "Reacting to your HomeLabs //part 2" },
     { "id": "aveS28fDt8Q", "title": "I just made my Homelab Open Source!" },

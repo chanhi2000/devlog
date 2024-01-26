@@ -549,5 +549,10 @@
     "desc": "An Application Framework for AI Engineering",
     "officialSite": "https://docs.spring.io/spring-ai/reference/",
     "topics": ["artificial-intelligence", "java"]
+  }, {
+    "repo": "NativeVision/viro",
+    "desc": "ViroReact: The AR and VR library for React Native 📳💙💛🤍💚",
+    "officialSite": "",
+    "topics": ["android", "blacklivesmatter", "ios", "nowar", "viro-community", "viroreact"]
   }
 ]

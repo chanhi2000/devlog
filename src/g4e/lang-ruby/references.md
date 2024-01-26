@@ -36,4 +36,10 @@ tags: ["ruby", "programming"]
 
 ---
 
+## RoRvsWild
+
+- [Ruby on Rails load testing habits](https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits)
+
+---
+
 <TagLinks />

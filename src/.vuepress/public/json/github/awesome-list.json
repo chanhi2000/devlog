@@ -939,5 +939,10 @@
     "desc": "My own cybersecurity research talks/slides ",
     "officialSite": "",
     "topics": ["arm", "cybersecurity", "cybersecurity-education", "hardware", "iot", "security", "slides", "soc", "spi", "talks", "uart"]
+  }, {
+    "repo": "ashishps1/awesome-behavioral-interviews",
+    "desc": "This repository contains tips and resources to prepare for behavioral interviews.",
+    "officialSite": "https://twitter.com/ashishps_1",
+    "topics": ["behavioral-interviews", "interview-preparation", "interviews", "software-engineering"]
   }
 ]

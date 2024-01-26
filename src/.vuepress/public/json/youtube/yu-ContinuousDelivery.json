@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/TQsRBMJG1YKlUXO0njg_E3mNZI5CMsMoYecMVoBN4tFWzrpGMwnbvV0HRraryj_Akd44ynlt=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I2G3OftfsfA", "title": "The Difference Between Developers & Software Engineers" },
     { "id": "wM0sCAQtEAI", "title": "Scale Is The Enemy Of Software Engineering" },
     { "id": "-UqYC_vNfFM", "title": "How I Produced Some Of The World's BEST API Design | Kelsey Hightower" },
     { "id": "Ty5Tj4Jag_A",  "title": "Is KUBERNETES Overly Complex? | Kelsey Hightower & Dave Farley Debate The Open-Source System" }, 
@@ -15,5 +16,3 @@
     { "id": "_gs3MjJBEfs",  "title": "From Legacy Code To STATE OF THE ART DEVELOPMENT" } 
   ]
 }
-
-
