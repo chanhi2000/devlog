@@ -126,5 +126,6 @@ meta:
 <MyYouTubeItems jsonName="yu-seibertmedia" /><!-- SEIBERTMEDIA -->
 <MyYouTubeItems jsonName="yu-cloudtech5260" /><!-- CloudTech -->
 <MyYouTubeItems jsonName="yu-goobar" /><!-- goobar -->
+<MyYouTubeItems jsonName="yu-TheKiranAcademy" /><!-- The Kiran Academy - Java By Kiran -->
 
 <TagLinks />

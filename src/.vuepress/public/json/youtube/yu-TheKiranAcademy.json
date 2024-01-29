@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "TheKiranAcademy",
+    "name": "The Kiran Academy - Java By Kiran",
+    "profile": "https://yt3.googleusercontent.com/7ojfXxplBRRJ-ZASwYnV2lNC8PZNLyA1cVBOrInnVgefvVzTGSEp84mersDerXvo5OmL7mZKVio=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0qyXsmzXNVkrV_TFw_zE-ODjhR2mnAD4foJjBHhPtZTdItFyeiln1CEGQeumV1OZcWhnVWUBX3A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-GA_uKtnVK8", "title": "What is a Garbage Collection? | Java Interview Question | #shorts #kiransir #java #freshers" },
+    { "id": "5ua3GO0ixyo", "title": "What is Servlet in Java? | Java Interview Questions | #shorts #kiransir #freshers #javaprogramming" }
+  ]
+}

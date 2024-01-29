@@ -111,9 +111,9 @@
     "topics": ["awesome", "career", "career-growth", "path-to-senior", "senior-engineer", "software-developer"]
   }, {
     "repo": "federico-busato/Modern-CPP-Programming",
-    "desc": "Modern C++ Programming Course (C++11/14/17/20)",
+    "desc": "Modern C++ Programming Course (C++11/14/17/20/23)",
     "officialSite": "",
-    "topics": ["arithmetic", "arithmetic-types", "c-plus-plus", "code-quality", "compilers", "conversion", "course", "cpp", "cpp-course", "cpp11", "cpp14", "cpp17", "cpp20", "debugging", "object-oriented-programming", "optimization", "pointer", "programming", "template"]
+    "topics": ["arithmetic", "arithmetic-types", "c-plus-plus", "code-quality", "compilers", "course", "cpp", "cpp-course", "cpp11", "cpp14", "cpp17", "cpp20", "cpp23", "debugging", "object-oriented-programming", "optimization", "programming", "template"]
   }, {
     "repo": "standard-webhooks/standard-webhooks",
     "desc": "The Standard Webhooks specification",

@@ -1919,5 +1919,10 @@
     "desc": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
     "officialSite": "https://cheerio.js.org",
     "topics": ["cheerio", "dom", "hacktoberfest", "html", "htmlparser", "htmlparser2", "jquery", "parser", "scraper", "selector"]
+  }, {
+    "repo": "goenning/google-indexing-script",
+    "desc": "Script to get your site indexed on Google in less than 48 hours",
+    "officialSite": "https://seogets.com/blog/google-indexing-script",
+    "topics": ["google", "indexing", "seo"]
   }
 ]

@@ -2083,5 +2083,20 @@
     "desc": "A RAG LLM co-pilot for browsing the web, powered by local LLMs",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "leptonai/search_with_lepton",
+    "desc": "Building a quick conversation-based search demo with Lepton AI.",
+    "officialSite": "https://search.lepton.run",
+    "topics": ["ai", "ai-applications", "leptonai", "llm"]
+  }, {
+    "repo": "farcasterxyz/fc-polls",
+    "desc": "",
+    "officialSite": "https://fc-polls.vercel.app",
+    "topics": []
+  }, {
+    "repo": "joone/loz",
+    "desc": "LOZ is a CLI tool that utilizes Large Language Models (LLMs), specifically code-lamma and GPT-3.5, to automatically generate GIT commit messages based on code changes",
+    "officialSite": "",
+    "topics": ["chatgpt", "cli", "git", "llm", "ollama", "openai-api", "typescript"]
   }
 ]

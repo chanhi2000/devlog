@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "EC55-5YqYZo", "title": "논문 리뷰: Retrieval Augmented Generation for Knowledge Intensive NLP Tasks" },
+    { "id": "DQ3ty_MyEEQ", "title": "논문 리뷰:  Self supervised Graph Disentangled Networks for Review based Recommendation" },
+    { "id": "OZygT4IUNv4", "title": "논문 리뷰: Collaborative-Aware Graph Convolutional Network for Recommender System" },
     { "id": "8IGgeaLlYW8", "title": "40분만에 끝내는 서버 이론+실습. AWS, Nginx, Node.js, Mysql" }
   ]
 }

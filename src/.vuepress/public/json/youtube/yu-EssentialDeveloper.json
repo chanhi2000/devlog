@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/CK9MV0mIjkorzS3vIZSSdAN2E2XzwNnWQ5q07Kb7Pp0lbSxMD884vM8tFU_RDoHaIKP_pRi4cek=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nIcpIYWnX9Y", "title": "How to avoid burnout & get a Senior iOS Dev job in a great team | iOS Lead Essentials Podcast #062" },
     { "id": "n9ObNkPP5GY", "title": "Fixing iOS 17+ breaking changes: UIRefreshControl, viewIsAppearing & testability | iOS Dev Mentoring" },
     { "id": "Eo3WkbUV-fU", "title": "How to create a Generic Networking Layer in iOS apps (Refresh Tokens, Combine, Async/Await, SwiftUI)" },
     { "id": "KSuM2BpMxxU", "title": "Learn how to refine your requirements like senior iOS devs | ED Clips" }, 
@@ -20,4 +21,3 @@
     { "id": "E0_3uTdCVew", "title": "Decomposing Swift code into modules – Intro to modular design" } 
   ]
 }
-

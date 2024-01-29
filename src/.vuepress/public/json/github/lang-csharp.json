@@ -299,7 +299,7 @@
     "desc": "一键自动化 下载、安装、激活 Office 的利器。",
     "officialSite": "E-Mail: liukaiyuan@sjtu.edu.cn",
     "topics": ["access", "email", "excel", "kms", "lync", "microsoft", "msoffice", "office", "office-free", "office365", "onedrive", "onenote", "outlook", "ppt", "project", "publisher", "skype", "teams", "visio", "word"]
-  },{
+  }, {
     "repo": "veler/DevToys",
     "desc": "A Swiss Army knife for developers.",
     "officialSite": "https://devtoys.app/",
@@ -309,5 +309,15 @@
     "desc": "File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.",
     "officialSite": "http://www.file-converter.org",
     "topics": []
+  }, {
+    "repo": "FalconForceTeam/SOAPHound",
+    "desc": "SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "rajko-horvat/OpenCiv1",
+    "desc": "Open source rewrite of the original Civilization Game designed by Sid Meier and Bruce Shelley in year 1991",
+    "officialSite": "",
+    "topics": ["4x", "4x-strategy-game", "civilization", "civilization-games", "game", "remake", "remake-games", "retro", "retro-game", "retrogaming", "sid-meier-civilization"]
   }
 ]

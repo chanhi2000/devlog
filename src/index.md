@@ -197,7 +197,13 @@ logo: https://hackerstartup.com/favicon.ico
 color: rgba(79,29,173,0.2)
 ```
 
-
+```card
+title: 크리포트
+desc: 크리포트 - 주식 종목 증권 리포트 (https://kreportanalytics.tistory.com/20)
+link: https://www.kreportanalytics.com
+logo: https://www.kreportanalytics.com/favicon.ico
+color: rgb(80,198,158,0.2)
+```
 
 <ShieldsGroup 
   logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"

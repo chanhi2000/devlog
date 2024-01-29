@@ -35,10 +35,10 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "revanced/revanced-patches",
+    "repo": "ReVanced/revanced-patches",
     "desc": "🧩 Patches for ReVanced",
     "officialSite": "https://revanced.app",
-    "topics": ["patches", "revanced"]
+    "topics": ["android", "dalvik", "kotlin", "patches", "revanced", "reverse-engineering"]
   }, {
     "repo": "cashapp/turbine",
     "desc": "A small testing library for kotlinx.coroutines Flow",

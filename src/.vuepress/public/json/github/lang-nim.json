@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "zedeus/nitter",
+    "desc": "Alternative Twitter front-end",
+    "officialSite": "https://nitter.net",
+    "topics": ["nim", "privacy", "self-hosted", "twitter"]
+  }
+]

@@ -217,4 +217,11 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## RWKV Open Source Development Blog
+
+- [🦅 Eagle 7B : Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages (RWKV-v5)](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
+
+---
+
 <TagLinks />
+

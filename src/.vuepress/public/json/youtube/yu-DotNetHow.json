@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/kpN1c5fYszmE4VhHYuy8jKZSdIHQhlVkC__NFmprp4pd8C_iPYd9mX4Xxt6h9SY6GJ87ScN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lmT-kyvsnak", "title": "Securing ASP.NET Applications" },
+    { "id": "9Bq-bDaIbQM", "title": "03. Setting up Development Environment" },
     { "id": "-QWpREhe6X0", "title": "41. ActorsService Configuration with EntityBaseRepository" },
     { "id": "5e-fZgXE4A0", "title": "44. Adding New Producer to Database" },
     { "id": "e3_byUQsngc", "title": "71. Handling Unauthorized Access in Angular: Redirecting to a 401 Page" },

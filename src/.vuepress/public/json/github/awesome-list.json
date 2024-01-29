@@ -944,5 +944,10 @@
     "desc": "This repository contains tips and resources to prepare for behavioral interviews.",
     "officialSite": "https://twitter.com/ashishps_1",
     "topics": ["behavioral-interviews", "interview-preparation", "interviews", "software-engineering"]
+  }, {
+    "repo": "Ayushparikh-code/Web-dev-mini-projects",
+    "desc": "The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!",
+    "officialSite": "",
+    "topics": ["css", "hacktoberfest", "hacktoberfest-accepted", "html", "html-css-javascript", "javascript", "miniprojects", "projects-list", "webdev", "webdeveloper", "webdevelopment", "webdevelopmentprojects", "webdevprojects"]
   }
 ]

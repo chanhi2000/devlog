@@ -749,5 +749,15 @@
     "desc": "UEFI shim loader",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "sudo-project/sudo",
+    "desc": "Utility to execute a command as another user",
+    "officialSite": "https://www.sudo.ws",
+    "topics": []
+  }, {
+    "repo": "KaisenAmin/c_std",
+    "desc": "Implementation of C++ standard libraries in C",
+    "officialSite": "",
+    "topics": []
   }
 ]

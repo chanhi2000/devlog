@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "renerebe",
+    "name": "Bits inside by René Rebe",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZThd1Ps--Re8sBAi7Chx5fFgnpkqbr9iSYDiNjsKA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1WPSI-jl9eXk8eHXfsGeSTve-iRdguUQCalGbRpX3wmkl2-hJSmXuJEUNvh-zO2Boj8tcxLQiw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jLCrjGRTZ0I", "title": "LIVE: Developing State-of-the-Art T2 Linux on highest-end Sgi O2, R12K@400MHz  MIPS64 makes me happy" },
+    { "id": "zjCOjxBm-d8", "title": "Imagine you create a Linux Distribution and everyone is USING IT WRONG!" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Level1Techs",
+    "name": "Level1Techs",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZR148iNloLXaJMB2vo2QqehsS95jJI-BYOOr8aD=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4D2HySdedD-ui0A036MInuYh4VuqnLP6jpID6PIlthihQs_DL8Rwq2pThbdl3Ax28lQLgopA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vQ3DNwqvljs", "title": "First Look at Cooler Master's NCore 100 Max" },
+    { "id": "GW4WyuGKsho", "title": "A Power over Ethernet Mini PC? Thinlabs Makes it Happen!" }
+  ]
+}

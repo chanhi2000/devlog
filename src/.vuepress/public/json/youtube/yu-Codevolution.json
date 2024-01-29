@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/RFyvcT19qPmSmKhAJvRY0bHld3w0fa_JalyHOKKpmlCGsEpWXi3ZQKJUB4qmcAB0K4j0vmvme9A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bDbBh7lEamE", "title": "Next.js 14 Tutorial - 37 - Handling PATCH Request" },
+    { "id": "x3KCt1Oc278", "title": "Next.js 14 Tutorial - 38 - Handling DELETE Request" },
+    { "id": "fuxSl-K0oI0", "title": "Next.js 14 Tutorial - 39 - URL Query Parameters" },
+    { "id": "54eKbXPrvuo", "title": "Next.js 14 Tutorial - 40 - Redirects in Route Handlers" },
+    { "id": "pxHbFrahyLY", "title": "Next.js 14 Tutorial - 41 - Headers in Route Handlers" },
+    { "id": "1qd3_OGL5Ko", "title": "Next.js 14 Tutorial - 42 - Cookies in Route Handlers" },
+    { "id": "5_cJFYZSiDM", "title": "Next.js 14 Tutorial - 43 - Caching in Route Handlers" },
+    { "id": "xrvul-JrKFI", "title": "Next.js 14 Tutorial - 44 - Middleware" },
+    { "id": "eZH2uRflRag", "title": "Create Linear's Staggered Text Animation with React and Tailwind CSS" },
     { "id": "7HrOjvKIfRs", "title": "Next.js 14 Tutorial - 30 - Conditional Routes" },
     { "id": "FKtw0dEb9wA", "title": "How to Master React in 2024 - React Roadmap" },
     { "id": "25yY2RVRq_M", "title": "Next.js 14 Tutorial - 33 - Route Handlers" },

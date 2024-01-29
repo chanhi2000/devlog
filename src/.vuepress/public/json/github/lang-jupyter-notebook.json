@@ -464,5 +464,10 @@
     "desc": "An Open Source text-to-speech system built by inverting Whisper.",
     "officialSite": "https://collabora.github.io/WhisperSpeech/",
     "topics": ["pytorch", "speech-synthesis", "tts"]
+  }, {
+    "repo": "rasbt/LLMs-from-scratch",
+    "desc": "Implementing a ChatGPT-like LLM from scratch, step by step",
+    "officialSite": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
+    "topics": ["chatgpt", "gpt", "large-language-models", "llm", "python", "pytorch"]
   }
 ]

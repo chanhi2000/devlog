@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/StC9GOxgXbmFL9yXgjzYQneqJ3iQRYKWMSp5a_eTvbq--zwpyaOGJMT1HIWTFp7lRpUXWpEo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oDlagfQ6HGs", "title": "ESSENTIAL JavaScript Extensions for VS Code in 2024" },
+    { "id": "E3rg4KmktJE", "title": "This IMMEDIATELY Changes How We Debug Fullstack Applications!" },
+    { "id": "D5ArCEjV0gU", "title": "Access Localhost ANYWHERE With This New Astro Integration" },
+    { "id": "GECrR6vJfBI", "title": "How to Choose a Tech Stack in 2024" },
     { "id": "w8ZAc7QDp3A", "title": "Creating a Headless Blog Just Got So Much EASIER!" },
     { "id": "Ef6Pe6Ya8SE", "title": "STOP Using JavaScript For These 5 Things!" },
     { "id": "SPmaY8CiTkU", "title": "This Ridiculous Bug Cost Me Thousands of Dollars!!" },

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ai-foundations",
+    "name": "AI Foundations",
+    "profile": "https://yt3.googleusercontent.com/zon5GRo4VRiUK7BzmookHExvSZti903DjaeN9oNRMOcTYQvIM_ca0qJQFHu1m9924lvdBg16Rw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X1Q5bvjgKHpxTy0jSKgkJ8Bw3U3uDY77KBzEeiOsyb7niW4p3RVQRXx8xqzib-bXAu4qESu9qCI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Al6Xn9IClX4", "title": "ChatGPT Update: How to Earn Money with GPT Store! (Full Guide)" },
+    { "id": "wXsckodao7I", "title": "Mind-maps and Flowcharts in ChatGPT! (Insane Results)" },
+    { "id": "SVA-OBl44m4", "title": "GPT Store: How to Create GPTs that SELL! (Prompts Included)" },
+    { "id": "5RMOIhd-aho", "title": "10 Secrets for BETTER ChatGPT Outputs! (Important)" },
+    { "id": "DLpz6V_4SpA", "title": "ChatGPT Data Analysis for Beginners in 2024! (Full Guide)" },
+    { "id": "vpWHsCTD_Yw", "title": "10 Prompt Engineering Tips for ChatGPT in 2024! (Become a PRO!)" }
+  ]
+}

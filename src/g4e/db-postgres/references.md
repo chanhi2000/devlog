@@ -91,4 +91,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## 채널톡
+
+- [`@Transactional`의 해로움](https://channel.io/ko/blog/bad-transactional)
+
+---
+
 <TagLinks />

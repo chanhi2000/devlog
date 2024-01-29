@@ -80,7 +80,7 @@ const profileImg = document.querySelector('.yt-spec-avatar-shape__image.yt-core-
 // const bannerImg = document.querySelector('yt-image-banner-view-model .yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded')?.src ?? '';
 // const bannerImgTag = document.querySelector('.page-header-banner-image.ytd-c4-tabbed-header-renderer');
 // const bannerImg = (bannerImgTag == null || bannerImgTag == undefined) ? '' : window.getComputedStyle(bannerImgTag).getPropertyValue('--yt-channel-banner').replace('url(', '').replace(')', '');
-const bannerImg = document.querySelector('#page-header-banner-sizer yt-image-banner-view-model img').src
+const bannerImg = document.querySelector('#page-header-banner-sizer yt-image-banner-view-model img')?.src
 
 
 

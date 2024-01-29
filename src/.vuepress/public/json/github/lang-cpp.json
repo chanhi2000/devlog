@@ -1073,5 +1073,15 @@
     "desc": "Multiphysics Object Oriented Simulation Environment",
     "officialSite": "https://www.mooseframework.org",
     "topics": ["amr", "fem", "finite-elements", "finite-volumes", "multiphysics", "object-oriented", "parallel", "simulation"]
+  }, {
+    "repo": "swordbluesword/PalWorld-NetCrack",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "BayernMuller/vibra",
+    "desc": "🎵 C++ Cross Platform Shazam Client that creates a fingerprint from a music file to retrieve song information",
+    "officialSite": "",
+    "topics": ["cli", "cpp", "cross-platform", "music-fingerprinting", "music-recognition", "open-source", "shazam"]
   }
 ]

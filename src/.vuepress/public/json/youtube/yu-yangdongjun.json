@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/kwazP42mizQvwvPJxjdI4iCY1Z2q_N6496hL8fckp1YG8anSrHeYxZkIfFIztFwW-AEO_ZzxiQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kGZTDENOR1M", "title": "AWS가 직접 가르쳐주는 백엔드 우대사항 with AWS Builders" },
+    { "id": "YWQW3IBxzzg", "title": "2024 프론트엔드 신입 취업 전망 및 요구 사항" },
+    { "id": "1mdm6MPHH9U", "title": "경력 개발자 회사 그만두고 준비할까?" },
+    { "id": "Hqa7v7Yx7-M", "title": "신입 Java 백엔드 SI SM 두개를 붙었다 어디를 갈까?" },
     { "id": "MUO9VuhkiGk", "title": "언제가는 유명해질 프론트엔드 기술" },
     { "id": "6T5fzTdG61k", "title": "프론트엔드 우대사항에 많이 보이는 Figma WHY?" },
     { "id": "4h58OXv0CNg", "title": "요즘 핫한 UI 라이브러리" },

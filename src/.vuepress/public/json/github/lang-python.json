@@ -3924,5 +3924,45 @@
     "desc": "Unofficial implementation of InstantID for ComfyUI",
     "officialSite": "",
     "topics": ["comfyui", "stable-diffusion"]
+  }, {
+    "repo": "cheahjs/palworld-save-tools",
+    "desc": "Tools for converting PalWorld .sav files to JSON and back",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Ucas-HaoranWei/Vary-toy",
+    "desc": "Official code implementation of Vary-toy (Small Language Model Meets with Reinforced Vision Vocabulary)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tohojo/flent",
+    "desc": "The FLExible Network Tester.",
+    "officialSite": "https://flent.org",
+    "topics": []
+  }, {
+    "repo": "bclavie/RAGatouille",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "nicknochnack/MLTradingBot",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "EternalWraith/PalEdit",
+    "desc": "A simple tool for Editing and Generating Pals within PalWorld Saves",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "TaskingAI/TaskingAI",
+    "desc": "The open source platform for AI-native application development.",
+    "officialSite": "https://www.tasking.ai",
+    "topics": ["agent", "ai", "ai-native", "function-call", "generative-ai", "gpt", "langchain", "llm", "rag", "retrieval-augmented-generation", "vector"]
+  }, {
+    "repo": "collabora/WhisperFusion",
+    "desc": "WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.",
+    "officialSite": "",
+    "topics": []
   }
 ]

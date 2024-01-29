@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ulwU8LTmwys", "title": "Deploy Docker on Akamai Connected Cloud WITH SSL Certification | Reverse Proxy SSL Setup" },
+    { "id": "rXLhjnRmqxE", "title": "How to Train Your Own Custom AI Bot | Use Custom Data with ChatGPT" },
+    { "id": "qMSZ91NXhiw", "title": "Open Project | Open Source Project Management for Large Scale Organizations" },
+    { "id": "nJhyTT7xx_I", "title": "Distributed Database Computing | Apache Cassandra Running in Multiple Data Centers" },
     { "id": "N4YCgiZzGLI", "title": "How Terraform Modules Are Useful for Multi-Cloud Environments" },
     { "id": "smHBxvS8tz8", "title": "Developing with Superinsight DB | Unstructured Data Handling with Machine Learning" },
     { "id": "dvXJmiQY2Xk", "title": "3 Ways to Improve App Architecture | Streamline AI Powered Apps with Caching Strategies and The Edge" },

@@ -32,5 +32,6 @@ tags:
 <MyYouTubeItems jsonName="yu-warm_hearted_t" /><!-- 따뜻한 보건티 -->
 <MyYouTubeItems jsonName="yu-marcusstone6273" /><!-- Marcus Stone -->
 <MyYouTubeItems jsonName="yu-Bardeenai" /><!-- Bardeen -->
+<MyYouTubeItems jsonName="yu-Ginseng_Youngman" /><!-- 홍청이의 방방곡곡 -->
 
 <TagLinks />

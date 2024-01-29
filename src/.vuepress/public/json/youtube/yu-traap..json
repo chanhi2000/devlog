@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "4crDKASq9Nc", "title": "Paste or Drag-n-Drop Images to your Neovim documents." },
     { "id": "mBXi5lklqt8", "title": "LSP-ZERO.NVIM ... Almost ZERO effort." },
     { "id": "xyJX55Zf99k", "title": "nvims has moved to https://github.com/Traap/nvim" },
     { "id": "W2DBgkAJRUI", "title": "clipboard-image.nvim : A single solution across Arch / Ubuntu, Windows 10 / 11, and WSL2 +" },

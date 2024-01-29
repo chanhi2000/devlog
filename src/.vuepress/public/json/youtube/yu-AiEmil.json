@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/xUytxRP75KVBac31y2DxMuDUIWUBT3A7Z2j3Vw0-jGtiaJQ6ajIZujJyQvOrsOWixN0Bbu7a_w=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TxozdAG4-ss", "title": "Hands-On Tutorial Building a Linear Regression Model from Scratch with Python Example Code Fit Coder" },
     { "id": "vZhs5XRC0sE", "title": "Python String Index Operation Explained Evaluating and Validating Artificial Intelligence Code Coder" },
     { "id": "sUJyKCOH8OA", "title": "Understanding Python String istitle() Operation with Example Artificial Intelligence Code Coding Fit" },
     { "id": "vu7gUeVUE9k", "title": "Text Generation with Transformers: A Python Tutorial Artificial Intelligence Coding Machine Learning" }

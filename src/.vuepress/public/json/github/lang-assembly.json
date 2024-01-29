@@ -24,5 +24,10 @@
     "desc": "#FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "wkjagt/apple2_pendulum_clock",
+    "desc": "Apple 2 full screen clock driven by the pendulum of my wall clock",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -19,5 +19,10 @@
     "desc": "Master Terraform in 7 days using this Zero to Hero course.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Rapha-Borges/oke-free",
+    "desc": "Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre",
+    "officialSite": "",
+    "topics": ["kubernetes", "mesdokubernetes", "oke", "terraform"]
   }
 ]

@@ -69,5 +69,6 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-1littlecoder" /><!-- 1littlecoder -->
 <MyYouTubeItems jsonName="yu-corgi_NLP" /><!-- NLP 코기 -->
 <MyYouTubeItems jsonName="yu-jincoding" /><!-- 찐코딩 Jin Coding -->
+<MyYouTubeItems jsonName="yu-ai-foundations" /><!-- AI Foundations -->
 
 <TagLinks />
