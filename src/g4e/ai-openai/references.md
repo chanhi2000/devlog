@@ -223,5 +223,17 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Google Research
+
+- [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
+
+---
+
+## interviewing.io
+
+- [How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment.](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
+
+---
+
 <TagLinks />
 

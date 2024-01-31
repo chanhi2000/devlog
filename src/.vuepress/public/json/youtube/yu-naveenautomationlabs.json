@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_TAg4hpdlDU", "title": "#1 - Playwright with TypeScript - Setup & Installation | First Script" },
+    { "id": "ZGK6wY1Hv9k", "title": "#2 - Time Travel Debugging - UI Mode Feature In Playwright - Typescript" },
+    { "id": "72xCWQNe7UI", "title": "#3 - Playwright - Test Runner Installation & Dependency Setup || tsConfig.json || package.json" },
+    { "id": "pDaZAk1hjZ8", "title": "#4 - Login Page Script With Playwright- TypeScript ||How To Launch Chrome, Chromium, Firefox, WebKit" },
+    { "id": "0mfLHPLZ7_k", "title": "#5 - BrowserContext in Playwright || Handle Two different user sessions with BrowserContext" },
     { "id": "GCszRxo8cWk", "title": "Selenium Coding Challenge: Filter Handling - ECommerce Shopping Application" },
     { "id": "Qb3EZYGnono", "title": "Wait for File Download using FluentWait in Selenium" },
     { "id": "2z4kDtrM4bc", "title": "Record and Replay in Chrome Browser || Chrome Dev Tools Recorder || No Selenium PLAYWRIGHT CYPRESS" },

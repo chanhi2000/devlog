@@ -12,6 +12,12 @@ description: 🐍Python > 📚References
 
 ---
 
+## Gitlab
+
+- [`cpaperma/nondet`: Non deterministic python](https://gitlab.inria.fr/cpaperma/nondet)
+
+---
+
 ## FreeCodeCamp
 
 - [How to Parse a String in Python – Parsing Strings Explained](https://www.freecodecamp.org/news/how-to-parse-a-string-in-python)

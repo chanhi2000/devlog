@@ -764,5 +764,15 @@
     "desc": "我的电视 电视直播软件，安装即可使用",
     "officialSite": "https://lyrics.run/my-tv.html",
     "topics": ["my-tv", "mytv", "tv"]
+  }, {
+    "repo": "chrismaltby/gb-studio",
+    "desc": "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system",
+    "officialSite": "https://www.gbstudio.dev",
+    "topics": []
+  }, {
+    "repo": "dgllghr/stanchion",
+    "desc": "A SQLite extension that brings column-oriented tables to SQLite",
+    "officialSite": "",
+    "topics": ["column-oriented", "column-store", "embedded", "olap", "sqlite", "sqlite-extension", "sqlite3"]
   }
 ]

@@ -419,5 +419,10 @@
     "desc": "Cast Mac windows to visionOS",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "AugustDev/enchanted",
+    "desc": "Enchanted is iOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.",
+    "officialSite": "",
+    "topics": ["ios", "large-language-model", "llama", "llama2", "llm", "mistral", "ollama", "ollama-app", "swift"]
   }
 ]

@@ -949,5 +949,10 @@
     "desc": "The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!",
     "officialSite": "",
     "topics": ["css", "hacktoberfest", "hacktoberfest-accepted", "html", "html-css-javascript", "javascript", "miniprojects", "projects-list", "webdev", "webdeveloper", "webdevelopment", "webdevelopmentprojects", "webdevprojects"]
+  }, {
+    "repo": "xlucn/oh-my-foss-android",
+    "desc": "个人收集的实用、良心开源安卓软件",
+    "officialSite": "",
+    "topics": ["android", "apps", "awesome", "f-droid", "foss", "open-source", "opensource"]
   }
 ]

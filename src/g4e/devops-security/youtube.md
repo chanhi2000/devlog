@@ -2,7 +2,7 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🛡Security > 📺Youtube
-tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnHammond", "@boanproject", "@HackerSploit", "@LoiLiangYang", "@WolfgangsChannel", "@ippsec", "@pcsecuritychannel", "@Normaltic", "@collinsinfosec", "@CyberTom", "@zSecurity", "@cheonghub"]
+tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnHammond", "@boanproject", "@HackerSploit", "@LoiLiangYang", "@WolfgangsChannel", "@ippsec", "@pcsecuritychannel", "@Normaltic", "@collinsinfosec", "@CyberTom", "@zSecurity", "@cheonghub", "@NNAdmin", "@PayetteForward", "@ryan_phdsec", "@juhyun167", "@SecurityFWD", "@wboan", "@MoreSecurity", "@TheNoviceLearner", "@securerandom5420", "@UnixGuy", "@crr0ww", "@DARPAtv", "@InsideCloudAndSecurity", "@FireEyeKorea", "@davidrupprecht7694", "@NicoKnowsTech", "@redraccooncorp"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,5 +41,6 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 <MyYouTubeItems jsonName="yu-FireEyeKorea" /><!-- FireEye Korea -->
 <MyYouTubeItems jsonName="yu-davidrupprecht7694" /><!-- David Rupprecht -->
 <MyYouTubeItems jsonName="yu-NicoKnowsTech" /><!-- Nico Knows Tech -->
+<MyYouTubeItems jsonName="yu-redraccooncorp" /><!-- 레드라쿤 Red Raccoon -->
 
 <TagLinks />

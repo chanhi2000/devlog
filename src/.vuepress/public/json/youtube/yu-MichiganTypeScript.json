@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/NISAoyEzukrwJZDgieb-d6xdAUTlI_AVozlf21VHpW6cTQeYfUpHPzhDxMMu9LIGTk1K6Yk0Ml4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "93RA21QfqIo", "title": "assertUnreachable techniques with Ryan from the TypeScript team" },
+    { "id": "ljSZU4nptOY", "title": "Glide Data Grid with Jason Smith | TypeScript Showcase #9" },
     { "id": "seFvyHvvxHU", "title": "what are named imports?" },
     { "id": "lJDgpxRw5WA", "title": "effection with Charles Lowell - TypeScript Showcase #7" },
     { "id": "9I4JPZnNv7c", "title": "Redux, RTK-Query, Reselect with Lenz Weber-Tronic and Mark Erikson | TypeScript Showcase #6" },

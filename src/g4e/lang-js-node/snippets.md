@@ -83,7 +83,6 @@ const profileImg = document.querySelector('.yt-spec-avatar-shape__image.yt-core-
 const bannerImg = document.querySelector('#page-header-banner-sizer yt-image-banner-view-model img')?.src
 
 
-
 const o = {
   channel: {
     id: channelId,

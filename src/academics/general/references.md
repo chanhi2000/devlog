@@ -82,4 +82,10 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## Tony Finch
+
+- [2024-01-29 – Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
+
+---
+
 <TagLinks />

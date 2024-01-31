@@ -319,5 +319,10 @@
     "desc": "Open source rewrite of the original Civilization Game designed by Sid Meier and Bruce Shelley in year 1991",
     "officialSite": "",
     "topics": ["4x", "4x-strategy-game", "civilization", "civilization-games", "game", "remake", "remake-games", "retro", "retro-game", "retrogaming", "sid-meier-civilization"]
+  }, {
+    "repo": "ExOK/Celeste64",
+    "desc": "A game made by the Celeste developers in a week(ish, closer to 2)",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/rkdheB1h77FSwF5kahUbGfh-BXlXKWX7KQ9wpuWFwLWAg8OxAd-Mt4ZKYfLCptNlTmLyZfOKVEA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XlnmN4BfCxw", "title": "4 Tips for Building a Production-Ready FastAPI Backend" },
+    { "id": "9ymRLDfnDKg", "title": "Deep Dive Into the Repository Design Pattern in Python" },
     { "id": "MoqtsYLGCC4", "title": "An Introduction to Coding In Rust for Pythonistas" },
     { "id": "OPyoXx0yA0I", "title": "Requests vs Httpx vs Aiohttp | Which One to Pick?" },
     { "id": "WIxSLex_yI8", "title": "Can You Use the Meta Quest 3 for Coding?" },

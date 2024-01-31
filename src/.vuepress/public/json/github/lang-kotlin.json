@@ -205,5 +205,10 @@
     "desc": "Free and open source manga reader for Android",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "msasikanth/twine",
+    "desc": "Twine: A multiplatform RSS reader built using Kotlin and Compose",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "kotlin-multiplatform"]
   }
 ]

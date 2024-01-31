@@ -756,9 +756,9 @@
     "officialSite": ""
   }, {
     "repo": "haotian-liu/LLaVA",
-    "desc": "[NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.",
-    "topics": ["chatbot", "chatgpt", "foundation-models", "gpt-4", "instruction-tuning", "llama", "llama-2", "llama2", "llava", "multi-modality", "multimodal", "vision-language-model", "visual-language-learning"],
-    "officialSite": "https://llava.hliu.cc"
+    "desc": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+    "officialSite": "https://llava.hliu.cc",
+    "topics": ["chatbot", "chatgpt", "foundation-models", "gpt-4", "instruction-tuning", "llama", "llama-2", "llama2", "llava", "multi-modality", "multimodal", "vision-language-model", "visual-language-learning"]
   }, {
     "repo": "Vision-CAIR/MiniGPT-4",
     "desc": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2",
@@ -3977,6 +3977,51 @@
   }, {
     "repo": "danielmiessler/fabric",
     "desc": "fabric is an open-source framework for augmenting humans using AI.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "FlagOpen/FlagEmbedding",
+    "desc": "Dense Retrieval and Retrieval-augmented LLMs",
+    "officialSite": "",
+    "topics": ["embeddings", "information-retrieval", "llm", "retrieval-augmented-generation", "sentence-embeddings", "text-semantic-similarity"]
+  }, {
+    "repo": "PKU-YuanGroup/MoE-LLaVA",
+    "desc": "Mixture-of-Experts for Large Vision-Language Models",
+    "officialSite": "https://arxiv.org/abs/2401.15947",
+    "topics": ["large-vision-language-model", "mixture-of-experts", "moe", "multi-modal"]
+  }, {
+    "repo": "Fanghua-Yu/SUPIR",
+    "desc": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+    "officialSite": "http://supir.xpixel.group/",
+    "topics": ["deep-learning", "diffusion-models", "llava", "pytorch", "pytorch-lightning", "restoration", "sdxl", "stable-diffusion", "super-resolution"]
+  }, {
+    "repo": "deepseek-ai/DeepSeek-Coder",
+    "desc": "DeepSeek Coder: Let the Code Write Itself",
+    "officialSite": "https://coder.deepseek.com/",
+    "topics": []
+  }, {
+    "repo": "LLaVA-VL/LLaVA-Plus-Codebase",
+    "desc": "LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills",
+    "officialSite": "https://llava-vl.github.io/llava-plus/",
+    "topics": ["agent", "large-language-models", "large-multimodal-models", "multimodal-large-language-models", "tool-use"]
+  }, {
+    "repo": "dkogan/gnuplotlib",
+    "desc": "gnuplot for numpy",
+    "officialSite": "",
+    "topics": ["gnuplot", "gnuplot-graphs", "numpy", "numpy-library", "plot"]
+  }, {
+    "repo": "mkjt2/lockbox",
+    "desc": "Lockbox is a forward proxy for making third party API calls.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "open-compass/opencompass",
+    "desc": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+    "officialSite": "https://opencompass.org.cn/",
+    "topics": ["benchmark", "chatgpt", "evaluation", "large-language-model", "llama2", "llm", "openai"]
+  }, {
+    "repo": "wanteddev/wanted_jira_bolt",
+    "desc": "슬랙 스레드에 이모지를 달면 스레드 전체를 요약하여 Jira 티켓을 생성합니다!",
     "officialSite": "",
     "topics": []
   }

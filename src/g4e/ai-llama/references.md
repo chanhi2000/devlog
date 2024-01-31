@@ -14,6 +14,12 @@ tags: ["llama" , "llm"]
 
 ---
 
+## pdf(s)
+
+- [OLMo : Accelerating the Science of Language Models](https://allenai.org/olmo/olmo-paper.pdf)
+
+---
+
 ## Replicate
 
 - [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
@@ -81,6 +87,12 @@ tags: ["llama" , "llm"]
 ## Trail of Bits
 
 - [LeftoverLocals: Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory)
+
+---
+
+## 2MB codes
+
+- [`cmb/ollama-bot`: This is a rudimentary IRC bot that communicates with a local instance of ollama.](https://2mb.codes/~cmb/ollama-bot/)
 
 ---
 

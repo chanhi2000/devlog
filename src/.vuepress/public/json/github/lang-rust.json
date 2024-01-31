@@ -416,9 +416,9 @@
     "officialSite": "https://terhech.de/ebou"
   }, {
     "repo": "slint-ui/slint",
-    "desc": "Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.",
-    "topics": ["javascript", "language", "rust", "gui", "ui", "web", "cpp", "webassembly", "wasm", "declarative-ui", "embedded-devices", "webapplication", "lsp-server"],
-    "officialSite": "https://slint.dev"
+    "desc": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+    "officialSite": "https://slint.dev",
+    "topics": ["cpp", "declarative-ui", "desktop", "embedded-devices", "gui", "javascript", "language", "lsp-server", "native", "qml-alternative", "rust", "rust-lang", "toolkit", "ui", "user-interface", "wasm", "webassembly", "widgets"]
   }, {
     "repo": "zellij-org/zellij",
     "desc": "A terminal workspace with batteries included",
@@ -999,5 +999,20 @@
     "desc": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
     "officialSite": "https://fuellabs.github.io/sway",
     "topics": ["compiler", "fuel", "language", "sway"]
+  }, {
+    "repo": "opensourcecheemsburgers/RustyTube",
+    "desc": "A rusty Youtube client.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "skyzh/mini-lsm",
+    "desc": "A tutorial of building an LSM-Tree storage engine in a week!",
+    "officialSite": "https://skyzh.github.io/mini-lsm/",
+    "topics": ["database", "key-value-store", "kv-store", "lsm-tree", "rust", "storage", "tutorial"]
+  }, {
+    "repo": "tembo-io/tembo",
+    "desc": "Postgres for everything",
+    "officialSite": "",
+    "topics": []
   }
 ]

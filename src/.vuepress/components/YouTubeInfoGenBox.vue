@@ -41,6 +41,7 @@
 <script>
 import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
 import * as Prism from 'prismjs'
+import axios from 'axios'
 import 'prismjs/components/prism-json'
 import 'prismjs/plugins/line-numbers/prism-line-numbers'
 import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
@@ -58,14 +59,11 @@ export default {
       const channelId = this.text?.replace(/\s/g, '') ?? ''
       if (__IS_DEBUG__) console.log('fetchData ...');
 
-      try {
-        const apiKey = __YOUTUBE_API_KEY__ ?? ''; // Replace with your YouTube Data API key
-        if (apiKey === '')
-          throw new Error('NO API KEY FOUND!')
-        
-        const response 
-          = await fetch(`https://www.googleapis.com/youtube/v3/search?&channelId=${channelId}&part=snippet,id&order=date&maxResults=20&key=${apiKey}`)
-          // = await fetch(`https://www.googleapis.com/youtube/v3/channels?part=snippet&id=${channelId}&key=${apiKey}`);
+      try {        
+        const response = await axios({
+            method: "get",
+            url: `https://www.youtube.com/@${channelId}`
+        })
 
         if (!response.ok) {
           const err = await response.json();

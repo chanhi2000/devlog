@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/oLPKU9voOeZ4eiDF0fNnKB33MIWqIjMy5WnzVeZya3g6ddyZ9_UUXU2jFIox2SAEMyfwnHJVgpQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Zyo2clOUrIM", "title": "풀영상 - 3시간만 투자해서 모의해킹 시작하기 (TryHackMe 모의해킹 기초방 풀영상)" },
+    { "id": "EvQBI1vFf8w", "title": "풀영상 - 1시간만 투자해서 오신트 기술 배워보기 (TryHackMe 오신트 기초방 풀영상)" },
+    { "id": "IPm-maI2bio", "title": "2시간만 투자해서 해킹 피싱 인프라 C2 구축하기 (TryHackMe 레드팀 인프라방 풀영상)" },
+    { "id": "3EeiChkIoEg", "title": "액티브 디렉토리 홈 랩 - 네트워크 해킹 준비 - 1" },
+    { "id": "pdc2XUoSyb4", "title": "AD 홈 랩 2 - 도메인 컨트롤러 (네트워크 해킹 준비)" },
     { "id": "0krvg52zowg", "title": "해외 해커들의 이력서 EP #6 예고" },
     { "id": "W6ah0irQztw", "title": "해커가 되는 법? 그루트 6월 24일 라이브중" },
     { "id": "0fMC7BC_zb8", "title": "레드라쿤 BHPT 호스트 기반 모의해킹 강의 소개 및 Q&A 라이브" },

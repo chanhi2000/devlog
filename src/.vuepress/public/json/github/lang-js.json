@@ -1924,5 +1924,10 @@
     "desc": "Script to get your site indexed on Google in less than 48 hours",
     "officialSite": "https://seogets.com/blog/google-indexing-script",
     "topics": ["google", "indexing", "seo"]
+  },{
+    "repo": "gchq/CyberChef",
+    "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "officialSite": "https://gchq.github.io/CyberChef",
+    "topics": ["compression", "data-analysis", "data-manipulation", "encoding", "encryption", "hashing", "parsing"]
   }
 ]

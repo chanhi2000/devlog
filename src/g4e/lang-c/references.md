@@ -176,6 +176,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## nixcademy
+
+- [Separation of Concerns in Cross-Compilation](https://nixcademy.com/2024/01/30/cross-compilation-with-nix/)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

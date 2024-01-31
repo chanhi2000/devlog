@@ -1189,5 +1189,10 @@
     "desc": "Define and run multi-container applications with Docker",
     "officialSite": "https://docs.docker.com/compose/",
     "topics": ["docker", "docker-compose", "go", "golang", "orchestration"]
+  }, {
+    "repo": "deanxv/coze-discord-proxy",
+    "desc": "代理discord-bot，api调用coze-bot",
+    "officialSite": "",
+    "topics": []
   }
 ]

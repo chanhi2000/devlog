@@ -2100,7 +2100,7 @@
     "topics": ["chatgpt", "cli", "git", "llm", "ollama", "openai-api", "typescript"]
   }, {
     "repo": "puppeteer/puppeteer",
-    "desc": "Node.js API for Chrome ",
+    "desc": "Node.js API for Chrome",
     "officialSite": "https://pptr.dev",
     "topics": ["automation", "chrome", "chromium", "developer-tools", "headless-chrome", "node-module", "testing", "web"]
   }, {
@@ -2108,5 +2108,35 @@
     "desc": "A free, open-source SaaS app template with superpowers. Production-ready. Community-driven.",
     "officialSite": "https://opensaas.sh",
     "topics": ["boilerplate", "full-stack", "nodejs", "open-source", "prisma", "react", "saas", "saas-boilerplate"]
+  }, {
+    "repo": "projectstorm/dynamouse",
+    "desc": "macOS multi-mouse & multi-external display assignment for complex screen and peripheral workstations.",
+    "officialSite": "",
+    "topics": ["external-display", "macos", "mouse-pointer", "system", "tray-application", "utility"]
+  }, {
+    "repo": "nrwl/nx",
+    "desc": "Smart Monorepos · Fast CI",
+    "officialSite": "https://nx.dev",
+    "topics": ["angular", "build", "build-system", "build-tool", "building-tool", "cli", "cypress", "hacktoberfest", "javascript", "monorepo", "nextjs", "nodejs", "nx", "nx-workspaces", "react", "storybook", "typescript"]
+  }, {
+    "repo": "all-in-aigc/aicover",
+    "desc": "ai cover generator",
+    "officialSite": "https://aicover.design",
+    "topics": ["ai", "aicover", "dalle-3"]
+  }, {
+    "repo": "kando-menu/kando",
+    "desc": "🥧 The Cross-Platform Pie Menu.",
+    "officialSite": "https://ko-fi.com/post/Introducing-Ken-Do-L3L7L0FQ2",
+    "topics": ["cross-platform", "electron", "gestures", "linux", "macos", "marking-menu", "pie-menu", "ux-design", "windows"]
+  }, {
+    "repo": "webprodigies/plura-production",
+    "desc": "",
+    "officialSite": "https://plura-production.vercel.app",
+    "topics": []
+  }, {
+    "repo": "subzerocloud/showcase",
+    "desc": "REST api for your database (PostgreSQL/Sqlite/ClickHouse/MySQL).",
+    "officialSite": "",
+    "topics": ["clickhouse", "cloudflare", "cloudflare-worker", "d1", "deno", "mysql", "nodejs", "planetscale", "postgresql", "rest-api", "rust", "sqlite", "typescript"]
   }
 ]

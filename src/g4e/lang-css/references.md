@@ -177,6 +177,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 ## Andy Bell
 
 - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset)
+
+--- 
+
+## Modern CSS Solutions
+
+- [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades)
  
 ---
 

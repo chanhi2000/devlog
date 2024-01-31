@@ -101,9 +101,7 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-theswiftdevelopers1301]: https://www.youtube.com/@theswiftdevelopers1301
 [yu-gergoooooooooooooooo]: https://www.youtube.com/@gergoooooooooooooooo
 [yu-learncodeacademy]: https://www.youtube.com/@learncodeacademy
-[yu-bigmtnstudio]: https://www.youtube.com/@bigmtnstudio
 [yu-user-wo1ft8xx3y]: https://www.youtube.com/@user-wo1ft8xx3y
-[yu-copper-spice]: https://www.youtube.com/@CopperSpice
 [yu-learnby-bhanu]: https://www.youtube.com/@learnbybhanu
 [yu-edvin-syse]: https://www.youtube.com/@MrEdvinsyse
 [yu-antoniolg28]: https://www.youtube.com/@antoniolg28

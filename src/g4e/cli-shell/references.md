@@ -163,6 +163,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## niplav
+
+- [Pipe Rings](https://niplav.site/pipe_rings.html)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)
