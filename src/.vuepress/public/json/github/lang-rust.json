@@ -994,5 +994,10 @@
     "desc": "Helios: Or, a Vision in a Dream. A Fragment.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "FuelLabs/sway",
+    "desc": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+    "officialSite": "https://fuellabs.github.io/sway",
+    "topics": ["compiler", "fuel", "language", "sway"]
   }
 ]

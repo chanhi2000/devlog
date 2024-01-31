@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/7crZC7itvPfqzLNcq3qgAedObDYtBb9pI-hGq1MfCxchxGk6lz_3VbQmLprx08YvEi94wYlLvA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UzoWLSZ-scQ", "title": "Rust's most wanted feature just arrived!" },
+    { "id": "EYCBm0xAWow", "title": "5 things I wish I knew before learning Rust" },
     { "id": "ZSN_NaHSfhE", "title": "AWS now officially supports Rust!" },
     { "id": "usJDUSrcwqI", "title": "The Rust Survival Guide" }, 
     { "id": "t6eaP2AjdyA", "title": "Rust YouTubers Tier List" },

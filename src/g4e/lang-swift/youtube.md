@@ -74,7 +74,7 @@ tags: ["education", "youtube", "ios", "swift", "viper"]
 <MyYouTubeItems jsonName="yu-dev_jeongdaeri" /><!-- 개발하는 정대리 -->
 <MyYouTubeItems jsonName="yu-Sketch2React" /><!-- Sketch2React -->
 <MyYouTubeItems jsonName="yu-minicgil4036" /><!-- 미닉길 Minic GIL -->
-<MyYouTubeItems jsonName="yu-SwiftProgrammingTutorials" /><!-- Learn to Code with Karoly Nyisztor -->
+<MyYouTubeItems jsonName="yu-LearnWithKarl" /><!-- Learn to Code with Karl -->
 <MyYouTubeItems jsonName="yu-auc_anz" /><!-- AUC_ANZ -->
 <MyYouTubeItems jsonName="yu-swiftwithyash" /><!-- Swift with Yash -->
 <MyYouTubeItems jsonName="yu-DavidChoiProgrammer" /><!-- David Choi -->

@@ -78,7 +78,8 @@ copy and paste below
 	"material-icon-theme.showWelcomeMessage": false, // Material Icon Theme
 	"pros.showWelcomeOnStartup": false,              // PROS
 	"vsicons.dontShowNewVersionMessage": true,       // VSCode Icons	
-}
+	
+	"marp.markdown.toggleMarpPreview": true, // Marp
 ```
 
 ---

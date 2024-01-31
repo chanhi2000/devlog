@@ -2098,5 +2098,15 @@
     "desc": "LOZ is a CLI tool that utilizes Large Language Models (LLMs), specifically code-lamma and GPT-3.5, to automatically generate GIT commit messages based on code changes",
     "officialSite": "",
     "topics": ["chatgpt", "cli", "git", "llm", "ollama", "openai-api", "typescript"]
+  }, {
+    "repo": "puppeteer/puppeteer",
+    "desc": "Node.js API for Chrome ",
+    "officialSite": "https://pptr.dev",
+    "topics": ["automation", "chrome", "chromium", "developer-tools", "headless-chrome", "node-module", "testing", "web"]
+  }, {
+    "repo": "wasp-lang/open-saas",
+    "desc": "A free, open-source SaaS app template with superpowers. Production-ready. Community-driven.",
+    "officialSite": "https://opensaas.sh",
+    "topics": ["boilerplate", "full-stack", "nodejs", "open-source", "prisma", "react", "saas", "saas-boilerplate"]
   }
 ]

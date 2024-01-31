@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/Q18Zm-VopeLTtRezGw9o2oLPwz4Ig_S-FQReSIYTIgDbzTfX1XSDxxzyoiRu9tHtA9kJ57hylIE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EWbRHTJ949k", "title": "Managing Loading States in SwiftUI" },
+    { "id": "7oOWnDBqdlA", "title": "Live Stream - SwiftData: Beginner Friendly Introduction" },
+    { "id": "6TDeFVmi3uc", "title": "SwiftData - Limitations, Bugs and Weird Behavior" },
+    { "id": "UGRJfSVp78g", "title": "Dynamic Predicates in SwiftData" },
+    { "id": "3rP4JLy36z4", "title": "Debugging SwiftData" },
+    { "id": "raQHNpC9iEw", "title": "Vapor and MongoDB - Getting Started" },
+    { "id": "tysyD5sITBI", "title": "Beginner's Guide to Consuming JSON API in SwiftUI Apps" },
+    { "id": "932LdhYEqyY", "title": "Vapor Fundamentals - Beginning Server Side Swift" },
+    { "id": "Hqd9CH7UNNw", "title": "Live Stream - SwiftData: Beginner Friendly Introduction | Part 2 | Domain Logic and Testing" },
     { "id": "LZxrD35L8f8", "title": "Free Courses on AzamSharp Teachable School" },
     { "id": "JSA1zUyFjOI", "title": "Async/Await | Complete Course | Part 11 | Actors" },
     { "id": "cbSqr5uc-4M", "title": "Async/Await | Complete Course | Part 10 | Concurrent Programming: Problems & Solutions" },

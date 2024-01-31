@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/knZWtmFBCHXLGNhlaXU7NgZLLKWLE_8BBn-oATMTR0LuBnayGCAp9-zcuDPO3QT8S15ch54DEN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cIZDQQYKwNY", "title": "Nest.js에서 데코레이터가 동작하는 원리를 알아봅시다." },
+    { "id": "uDmhEgh-OsE", "title": "백엔드 older 개발자의 스타일시트 도전기(응원바랍니다)" },
+    { "id": "cvv5kJUDf0A", "title": "[오후의 Backlog] 1회 백로그의 시작, spring 3 변경점, 인공지능, 개발공정, 못했던 이야기" },
+    { "id": "74ZNIyoyRVQ", "title": "기업환경 애플리케이션을 구축할 때 고려해야 할 아키텍처 구성요소를 알아봅시다." },
+    { "id": "aSq3RLmKVMQ", "title": "소스 리파지토리는 하나로 관리합시다. 여러 개는 귀찮아." },
+    { "id": "R_ZpKrQefVY", "title": "Vuetify 3 utility classes" },
+    { "id": "iUpN3zEzWz0", "title": "NestJS 와 React 결합하기" },
     { "id": "4rbkef88Z3w", "title": "RestClient를 시용해서 fluent하게 호출해봅시다" },
     { "id": "ndiN3UXTozo", "title": "자 이제 DDD에게 작별인사를 해야될 때 인것 같습니다." },
     { "id": "YDUE_V72O_4", "title": "Nest.js 저도 할 줄 알아요" },

@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/bU6xrhxLn2pwlcLjO-7Us9KKD-DDqetpSADAt8LRihQNRDTtPRFcBif_PwQKqEWyO-dvIH9YTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zgrL6CVeraA", "title": "[js 113] [이미지 갤러리] image Gallery with Javascript p2 #lightbox #gallery" },
+    { "id": "aQTV5uBDY3I", "title": "[js 114] [이미지 갤러리] image Gallery with Javascript p3 #javascript #gallery 키보드로 작동하는 갤러리" },
+    { "id": "zzSFo13o6nE", "title": "[js 116] [weather App] open weather map API 활용 simple 날씨 정보 앱 #openweathermap" },
+    { "id": "kpFwWRNCiyk", "title": "[js 117] [weather App p2] open weather map API 활용 simple 날씨 정보 앱 #openweathermap" },
+    { "id": "whhccVxSoWM", "title": "CSS3 - 129 [form style] focus-visible로 웹접근성 고려하기" },
+    { "id": "d1jquQ7UlOk", "title": "[js 118]  단계별 완성 폼 form 구현하기 P1 - 폼 HTML 구조 작성하기 #웹접근성 #SEO" },
+    { "id": "I6IWDpyrOPc", "title": "[js 119] 단계별 완성 폼 form 구현하기 P2 - 폼 CSS #포커스#focus" },
+    { "id": "3adzaOMsfKM", "title": "[js 120] 단계별 완성 폼 form 구현하기 P3 - 입력확인, 스텝 업데이트 함수 완성" },
     { "id": "iADAmXSHZ_0", "title": "[js 109] 가로 스크롤 타임라인 연혁 구현하기 with Javascript 1/3" },
     { "id": "kdMPgjcoWD8", "title": "[js 110] [나만의 스크롤바 스타일] 가로 스크롤 타임라인 연혁 구현하기 with Javascript 2/3" },
     { "id": "rlRgpNZM9p0", "title": "[js 111] [요소의 높이 구하기] 가로 스크롤 타임라인 연혁 구현하기 with Javascript 3/3" },

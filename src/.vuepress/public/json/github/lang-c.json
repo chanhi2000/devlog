@@ -759,5 +759,10 @@
     "desc": "Implementation of C++ standard libraries in C",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "lizongying/my-tv",
+    "desc": "我的电视 电视直播软件，安装即可使用",
+    "officialSite": "https://lyrics.run/my-tv.html",
+    "topics": ["my-tv", "mytv", "tv"]
   }
 ]

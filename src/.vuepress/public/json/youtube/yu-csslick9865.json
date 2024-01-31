@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "vnN-7f4Fj9Y", "title": "CSS 다크모드 기능" },
+    { "id": "M85ex5LigSE", "title": "드디어 postman을 visual studio code에서 사용가능!!" },
     { "id": "n-ImqbvfjJk", "title": "Scroll Animation" }
   ]
 }

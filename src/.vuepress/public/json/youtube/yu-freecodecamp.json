@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/YENZNQNejlcYytisl7SbdB76TRQa_qs3felodPY9EPvY1l7ZXdbZV4jtSfBITDPE54_1nK5osg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h_mk2Uci9o0", "title": "How to Add Email to Your Apps – Tutorial" },
+    { "id": "9t9Mp0BGnyI", "title": "NGINX Tutorial for Beginners" },
+    { "id": "PHsC_t0j1dU", "title": "Data Engineering Course for Beginners" },
+    { "id": "DjutoyfCl2c", "title": "UIs with Python – Use PyQt5 to Create a Music Player" },
+    { "id": "H9KefzbryEw", "title": "Python Data Analysis and Visualization Course – Astronomical Data" },
+    { "id": "6nz8GXjxiHg", "title": "How to Get a Developer Job – Even in This Economy [Full Course]" },
+    { "id": "qHPonmSX4Ms", "title": "OpenAI Assistants API – Course for Beginners" },
+    { "id": "Zr6fnhvJKlw", "title": "Event Driven Architecture on AWS – Course for Beginners" },
+    { "id": "lzelnAI914A", "title": "Passkey Authentication with Express.js and Docker – Web Authentication API Tutorial" },
+    { "id": "DNPF0oPcMDs", "title": "Beau Carnes: Running the Largest Tutorial Channel – freeCodeCamp.org Podcast" },
+    { "id": "x0AnCE9SE4A", "title": "LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2" },
     { "id": "kiCH27qsNL8", "title": "Full Stack Tutorial – Hotel Management Site w/ Next.js, React, Sanity.io, Tailwind, Stripe" },
     { "id": "Bvwq_S0n2pk", "title": "Full Stack React Developer Course with Appwrite" },
     { "id": "VhM2ByShhzE", "title": "Memcached Tutorial for Beginners" },

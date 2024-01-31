@@ -3964,5 +3964,20 @@
     "desc": "WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "h4x0r-dz/CVE-2024-23897",
+    "desc": "CVE-2024-23897",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "InkboxSoftware/excelCPU",
+    "desc": "16-bit CPU for Excel, and related files",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "danielmiessler/fabric",
+    "desc": "fabric is an open-source framework for augmenting humans using AI.",
+    "officialSite": "",
+    "topics": []
   }
 ]

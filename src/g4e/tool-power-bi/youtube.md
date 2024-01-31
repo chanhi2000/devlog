@@ -18,5 +18,6 @@ tags:
 ---
 
 <MyYouTubeItems jsonName="yu-yourownkpi" /><!-- Your Own KPI -->
+<MyYouTubeItems jsonName="yu-GuyInACube" /><!-- Guy in a Cube -->
 
 <TagLinks />

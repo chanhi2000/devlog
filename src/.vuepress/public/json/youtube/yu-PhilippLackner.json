@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/6Yp0QysBVWNHLcZNT5rGH4dbyiP1TI4F00opfpdZG8wQlq6IlfVpn4WPOf8TW-hG1NOJpWKxMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JfCivo5qJkI", "title": "The Top 3 State Management Mistakes On Android" },
+    { "id": "4_iXTQfu5KU", "title": "JVM in a Nutshell" },
+    { "id": "CQc-QDTmCoQ", "title": "App Performance Analysis with the Android Studio Profiler" },
+    { "id": "q6TL2RyysV4", "title": "How to Implement Firebase Push Notifications on Android (FCM + Backend)" },
+    { "id": "k_2Dr41dgYs", "title": "Focus on THIS as a Native Android Developer" },
     { "id": "rU_k6DISJI8", "title": "💻 Android Enters the AI Era, New JetBrains IDE & More - Philipp's Android News January 2024" },
     { "id": "rLs-iUWtumE", "title": "Top 3 Secret Jetpack Compose Modifiers I Bet You Didn't Know" },
     { "id": "D7ve1vJsqQ0", "title": "APIs in a nutshell" },

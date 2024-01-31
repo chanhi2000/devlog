@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/vE2-ZWkNaJ3SzqOlipHxtvellsiElmlb3pFKqjUqhKDwPKx30T66XvHV_l_jnXzMEi-3qN2P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cWUUJYKvbAk", "title": "Day 11 - Crafting & Validating Our Disaster Recovery Plan" },
+    { "id": "y9rOAzuV-F8", "title": "Day 12 - Know your data: The Stats behind the Alerts" },
+    { "id": "MpGKEBmWZFQ", "title": "Day 13 - Architecting for Versatility" },
+    { "id": "QMF973vpxyg", "title": "Day 21 - Azure ARM now got Bicep" },
+    { "id": "3YhLr5sxxcU", "title": "Day 16 - Smarter, Better, Faster, Stronger - Testing at Scale" },
+    { "id": "1wKi6FH8eg0", "title": "Day 18 - Platform Engineering Is Not About Tech" },
+    { "id": "fjWh3BH4LbU", "title": "Day 19 - Building Efficient and Secure Docker Images with Multi-Stage Builds" },
+    { "id": "-et6kHmK5MQ", "title": "Day 22 - Test in Production with Kubernetes and Telepresence" },
+    { "id": "j3_917pmK_c", "title": "Day 25  - Kube-Nation: Exploring the Land of Kubernetes" },
+    { "id": "ZBaQ71CI_lI", "title": "Day 26 - Advanced Code Coverage with Jenkins and API Mocking" },
+    { "id": "MqsIpGEbt4w", "title": "Day 29 - A Practical introduction to OpenTelemetry tracing" },
     { "id": "MhqXN269S04", "title": "Day 3 - High-performing engineering teams and the Holy Grail" },
     { "id": "00znexeYqtI", "title": "Day 10 - Is Kubernetes Too Complicated?" },
     { "id": "qOsXEZzqNP8", "title": "DevOps - The real stories - Day6" }

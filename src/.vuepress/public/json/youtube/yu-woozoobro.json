@@ -2,8 +2,8 @@
   "channel": {
     "id": "woozoobro",
     "name": "woozoobro",
-    "profile": "https://yt3.googleusercontent.com/PDiOopOLFDN46hUj48ytp1atN_t3XenCgysOX91IbUVbRrKq60lAbILUwfKQAaygYn9knQFbXA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/_ch1C4DykiOQ9ytEa2vBY4Jrosri64xaImmF5e-jLddZGKMuBB33sA6cSYffg1NHi4mCCpvw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/v2g9lIq6-JVgLvrD4DF6zkZu2uCBUiCgX9Y2nW_cyEtamrLGViWoQcaf3N8vNR3Wc4imBoVT2Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MdRcoHMNZ93IGMb5o3CGQm29h6A_-f6jEE_HsW8MVnDMTAYYC1oust5eiBqlr1tZw8iGtHzCa0Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "wgTGTgiWTuE", "title": "`ObservableObject` 기초, `StateObject`와 `ObservedObject`" },

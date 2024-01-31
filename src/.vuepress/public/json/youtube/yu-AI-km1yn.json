@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "J2AsmUODBak", "title": "실전! RAG 고급 기법 - Retriever (1)" },
+    { "id": "ehP4vphl_Us", "title": "실전! RAG 고급 기법 - Retriever (2)" },
     { "id": "04jCXo5kzZE", "title": "오픈소스 LLM으로 RAG 시스템 만들기" },
     { "id": "-M_RdMMZSQw", "title": "LLM으로  NLP 분석을 더욱 쉽게, Scikit-LLM" },
     { "id": "n32PCsd4DNw", "title": "AI로 생산성 올려보자! 논문 AI 툴 -SCISPACE" },

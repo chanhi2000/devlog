@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/vgLcJl1lFuWCA8xvZETUeX8lGg1lk0kO71qTvQ5fSakyjsCsHUQEz3SQSOKtk-GxxY5_ilNm=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CJ73P28dr14", "title": "Observable Flutter #33: Fighting zombies" },
+    { "id": "giV9AbM2gd8", "title": "DropdownMenu (Widget of the Week)" },
+    { "id": "aLvlqD4QS7Y", "title": "Patterns #DecodingFlutter" },
     { "id": "AKOCcbVxgJM", "title": "Animate a #Flutter widget across screens" },
     { "id": "j7mWmOiLIkI", "title": "Observable Flutter #31: Accessibility" },
     { "id": "vka33yBz5e4", "title": "UI tests #DecodingFlutter" },

@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "hdt5SC6d7Ww", "title": "프로젝트 A to Z" },
     { "id": "1zBaKtw8xKY", "title": "CI/CD with GitHubActions" },
     { "id": "cD4_REpXO9o", "title": "노션과 아이디어, 그리고 활용의 방법 - 1" },
     { "id": "tHDhJ4OAtdA", "title": "ChatGPT + Prompt Engineering" },

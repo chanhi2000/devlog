@@ -1083,5 +1083,10 @@
     "desc": "🎵 C++ Cross Platform Shazam Client that creates a fingerprint from a music file to retrieve song information",
     "officialSite": "",
     "topics": ["cli", "cpp", "cross-platform", "music-fingerprinting", "music-recognition", "open-source", "shazam"]
+  }, {
+    "repo": "timeplus-io/proton",
+    "desc": "A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse.",
+    "officialSite": "https://timeplus.com",
+    "topics": ["analytics", "clickhouse", "confluent", "cpp", "flink-alternative", "high-performance", "kakfa", "ksqldb-alternative", "redpanda", "simd", "single-binary", "sql", "stream-processing", "streaming-sql", "udf"]
   }
 ]

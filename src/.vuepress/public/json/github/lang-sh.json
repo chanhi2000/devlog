@@ -304,5 +304,10 @@
     "desc": "Docker container to easily provision and manage Palworld Forest Dedicated Server",
     "officialSite": "https://hub.docker.com/r/jammsen/palworld-dedicated-server",
     "topics": []
+  }, {
+    "repo": "quickemu-project/quickemu",
+    "desc": "Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
+    "officialSite": "https://www.youtube.com/watch?v=AOTYWEgw0hI",
+    "topics": ["9p", "efi", "hackintosh", "hacktoberfest", "kvm", "linux", "macos", "qemu", "spice", "tpm", "virgl", "virglrenderer", "virtio", "virtualization", "windows"]
   }
 ]

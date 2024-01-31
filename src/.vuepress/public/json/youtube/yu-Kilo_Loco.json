@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/Rf-k9xOshESs4Uva3MyZusc0_LJTPNhEao7ULM55rCI3xnXm292Fxl1BXh4XujbGzLDjWZf_Wg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sUnzsfbx1ZQ", "title": "Paywall UI - Devlog-000" },
+    { "id": "xkviXRdnjy8", "title": "In-App Purchases - Devlog-001" },
+    { "id": "rZKpDIL8YYA", "title": "SwiftUI Sucks | Devlog-002" },
+    { "id": "HJBrCBJB71Y", "title": "Apple Vision Pro for Business" },
+    { "id": "3MC0TqKbGS8", "title": "Offline Search Engine with SimilaritySearchKit" },
     { "id": "8buuKon6ZdQ", "title": "Navigation Basics for SwiftUI on macOS" }, 
     { "id": "71yVIi7BxpI", "title": "Let's Make a Goal Setting App" }, 
     { "id": "nVQubqKrqoc", "title": "Up and Running with the AWS Swift SDK" }, 

@@ -170,6 +170,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Hey There Buddo!
+
+- [The C Bounded Model Checker: Criminally Underused](https://www.philipzucker.com/cbmc_tut/)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

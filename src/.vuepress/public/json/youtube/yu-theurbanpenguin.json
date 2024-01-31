@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/C-3jr3nU2LiG6dSdDXYNrpo2JckIO8zR20cu4ReuZhtRVfkoIUsGXGL4sNaYpt2KbNRMYzDXv8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A21igrrrdrE", "title": "Using Ansible to Implement Firewalld Firewalls in Ubuntu and Rocky Linux" },
+    { "id": "m_fIwnZcYUE", "title": "Scripting APT Updates using Bash Shell Scripts" },
+    { "id": "n0xkt0wFSFg", "title": "Learn French Conversation with ChatGPT" },
+    { "id": "AZOAlfF_yF0", "title": "Automount Filesystems in Linux with Systemd (Rocky Linux 9.3 Tutorial)" },
     { "id": "VoUk0RfL8zQ", "title": "Using `vim` in Linux to Elevate with sudo" },
     { "id": "Sn7l3oOvCWM", "title": "Creating Date-based Directories Using The Linux Date Command In Bash Scripting" },
     { "id": "ddVb31yITsc", "title": "3 Time-saving Vim Tricks For Scripts In Linux" },

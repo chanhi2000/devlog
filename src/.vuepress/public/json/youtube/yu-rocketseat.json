@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/z6e4goZdbhZNhSjHOyx4VWxb1qvVBDfZndlwQuPNHm_E6kt5mLHyVavp9Le9VvIUGUQjhza2qA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TW3KoPkuWEA", "title": "Meu VSCode minimalista (extensões, temas e config)" },
+    { "id": "xo38Vy5QAF0", "title": "Refatorando app React (novos componentes shadcnui)" },
+    { "id": "IN1zI7C8ER4", "title": "Criei um app desktop com Tauri (melhor que Electron?!)" },
+    { "id": "d21EWSFty6M", "title": "Construindo back-end de app de upload/download de arquivos" },
+    { "id": "n6u1eTrHxfs", "title": "Lendo e validando variáveis ambiente no JavaScript" },
+    { "id": "DA39qCGt6RE", "title": "A melhor forma de criar formulários no React (hook form + zod)" },
+    { "id": "YJmcyvrJf20", "title": "Você não deveria usar estados do React pra TUDO! (URL State)" },
+    { "id": "GnxCqTl-0Ww", "title": "Recriei o dashboard do iFood com React (app fullstack)" },
+    { "id": "er_QPBldsXE", "title": "Criando UI no React na velocidade da luz! (shadcn/ui)" },
     { "id": "alQoDOKDOHo", "title": "Meu primeiro projeto com BUN" },
     { "id": "wrbKoQt3_dE", "title": "BiomeJS - O sucessor do ESLint (100x mais rápido?)" },
     { "id": "odJhCQlYsOU", "title": "Essa é a MELHOR forma de enviar e-mails com React (Resend)" },
@@ -22,4 +31,3 @@
     { "id": "8dkwk6d8vdY", "title": "Autenticação local com BIOMETRIA no React Native" }
   ]
 }
-

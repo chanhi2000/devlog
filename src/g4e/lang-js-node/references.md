@@ -650,6 +650,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Kravchyk's
+
+- [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

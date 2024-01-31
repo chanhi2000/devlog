@@ -2,10 +2,12 @@
   "channel": {
     "id": "typecraft_dev",
     "name": "typecraft",
-    "profile": "https://yt3.googleusercontent.com/_yK69YDY4_PZynzjHtFo8URo1oFC7cjrMADCeaKvuEbLXYHK8EAmAKEvjc2BE0QOffIlRtFufQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/s-78iN0gTGbiZLvCEJnfNPrwoi4jKaJ38-ClV6ngM0RgI3Y44mgDQfUB9HjwzZp--Mva7uWiOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/_yK69YDY4_PZynzjHtFo8URo1oFC7cjrMADCeaKvuEbLXYHK8EAmAKEvjc2BE0QOffIlRtFufQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/s-78iN0gTGbiZLvCEJnfNPrwoi4jKaJ38-ClV6ngM0RgI3Y44mgDQfUB9HjwzZp--Mva7uWiOQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oYzZxi3SSnM", "title": "How to configure Debuggers in Neovim | FREE COURSE // EP 6" },
+    { "id": "TLNdwvIFoCg", "title": "I'm never using Git the same way again" },
     { "id": "4zyZ3sw_ulc", "title": "A BEAUTIFUL neovim config with Lazy | FREE COURSE // EP 2" },
     { "id": "SxuwQJ0JHMU", "title": "null-ls is BACK BABY -- linting and formatting | FREE COURSE // EP 4" },
     { "id": "S-xzYgTLVJE", "title": "LSP in Neovim. Thanks to BILL GATES?! | FREE COURSE // EP 3" },

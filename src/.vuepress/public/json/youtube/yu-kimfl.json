@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/J5e5qfkjWA4X4twhztXSEz_psr2v21zyfJnuKFK_YJNO25o6f3oPjgBDG_SLyJuD0vkPT6mSwg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "H-w3u2Mx9Uo", "title": "Launching the OpenAI GPT Store" },
+    { "id": "nk6HStwv8OI", "title": "웹 크롤링과 챗GPT를 활용한 완벽 자동화 - 얼리버드" },
+    { "id": "diyrrU9ij1s", "title": "내 말을 그대로 듣지 않는 챗GPT" },
+    { "id": "hcTF6qIfBNM", "title": "티스토리 Open API 종료 소식" },
+    { "id": "hj1QGS32FDM", "title": "웹 크롤링과 챗GPT를 활용한 완벽 자동화 비법과 수익화 노하우" },
     { "id": "cHXM1ROyJ00", "title": "나의 프로그래밍 공부방법" },
     { "id": "5a_Fo_olczo", "title": "파이썬 텔레그램 API 네이버 뉴스 크롤링 결과 전송 챗봇 만들기" },
     { "id": "XzO58yCPQ5E", "title": "이미지를 이해하고 답변해주는 GPT-4 비전 API 기초 사용법" },

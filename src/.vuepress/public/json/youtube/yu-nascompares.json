@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/AHmMf1tsxLUT8tr3D-vBm6YqCcBYIHCKchtL4HIV4f9vcCVQI0YUlv1CLI0AmYLbo9KElo-A-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DsVExOTQVKI", "title": "QNAP TVS-h874T4 8K, 4K and 1080p PLEX TESTS" },
+    { "id": "Dya5sow-cdc", "title": "Proxmox + TrueNAS Scale + PfSense Mini PC Build - A Beginners Setup Guide" },
+    { "id": "qW6xY0RVQew", "title": "Terramaster F4-424 PRO NAS Review" },
+    { "id": "ad7VnIRX28w", "title": "Build Your Own NAS vs Turnkey NAS - Which Should You Buy in 2024?" },
+    { "id": "lOCCnokrZ4A", "title": "Terramaster F4-424 Pro PLEX Tests - 8K, 4K and 1080p" },
     { "id": "4sWsjZQGZCY", "title": "The Terramaster F4-424 Pro, F4-424 and F2-424 NAS Revealed" },
     { "id": "5Hkqi_tZZSM", "title": "Is Buying Cheap Used Media Worth It? (Featuring EaseUS Data Recovery Wizard)" },
     { "id": "i2aOrxelntM", "title": "QNAP Thunderbolt NAS Editing Guide - An Idiots Guide" },

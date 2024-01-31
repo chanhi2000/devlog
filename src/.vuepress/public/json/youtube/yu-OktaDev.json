@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/K0_q3Z6zbDODlhZ2wab2PnH-szBepybsASSPUV7boJ6O0iuzZeAKDh0e9uPziXiOyiYrVLLphA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "m-lhymNdPBc", "title": "Java Microservices with Spring Boot and Spring Cloud" },
+    { "id": "M-rqcjGAHuY", "title": "How to Request an MFA Reset - Auth0 Community Response Series" },
+    { "id": "EpK6h1eQUWE", "title": "How does machine to machine authorization work? And, how to use it (M2M)" },
+    { "id": "0pnSVdVn_NM", "title": "Building a CRUD app with Spring Boot and Angular!" },
     { "id": "sFG6kwoVqJs", "title": "Identity and Security Meetup - December 2023 (Online)" },
     { "id": "snYB89GGtug", "title": "Mapping SAML Attributes - Auth0 Community Response Series" },
     { "id": "nWXzM9OQNmw", "title": "The Best of Oktane for Developers Webinar" },
@@ -27,6 +31,3 @@
     { "id": "1aha4yrT2l0", "title": "How to Protect an API in FastAPI with Auth0 by Okta" }
   ]
 }
-
-
-

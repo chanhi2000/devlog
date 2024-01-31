@@ -97,4 +97,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Brane Dump
+
+- [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
+
+---
+
 <TagLinks />

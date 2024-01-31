@@ -269,4 +269,16 @@ description: 🐍Python > 📚References
 
 ---
 
+## Python⇒Speed
+
+- [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
+
+---
+
+## Colab
+
+- [red-green-balls-in-urn-problem.ipynb](https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_)
+
+---
+
 <TagLinks />
