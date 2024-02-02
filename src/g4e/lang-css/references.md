@@ -229,6 +229,12 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## Vincent De Oliveira
+
+- [Deep dive CSS: font metrics, `line-height` and `vertical-align`](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+
+---
+
 ## Bejamas Discovery
 
 - [Three modern CSS properties your website must have](https://bejamas.io/blog/modern-css-properties-your-website-must-have/)

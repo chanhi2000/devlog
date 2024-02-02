@@ -1229,5 +1229,10 @@
     "desc": "A shell parser, formatter, and interpreter with bash support; includes shfmt",
     "officialSite": "https://pkg.go.dev/mvdan.cc/sh/v3",
     "topics": ["bash", "beautify", "formatter", "go", "interpreter", "mksh", "parser", "posix", "shell", "shfmt"]
+  }, {
+    "repo": "gptscript-ai/gptscript",
+    "desc": "Natural Language Programming ",
+    "officialSite": "https://gptscript.ai",
+    "topics": []
   }
 ]

@@ -25,5 +25,28 @@ tags: ["bash", "linux", "macos", "terminal", "vim", "neovim"]
 
 ---
 
+## Luca Pette
+
+- [Getting started with Vim](https://lucapette.me/writing/getting-started-with-vim/)
+
+---
+
+## A WEST MONROE COMPANY
+
+- [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/vim-text-objects-the-definitive-guide)
+
+---
+
+## Josh Davis
+
+- [Vim Tab Madness. Buffers vs Tabs](https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs)
+
+---
+
+## Yann Esposito
+
+- [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+
+---
 
 <TagLinks />

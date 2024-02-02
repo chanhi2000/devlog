@@ -252,7 +252,39 @@ title: JSONGenerator
 desc: Create Random JSON Data<
 link: https://www.jsongenerator.io
 logo: https://www.jsongenerator.io/favicon.ico
-color: rgb(51,118,205,0.2)
+color: rgba(51,118,205,0.2)
+```
+
+```card
+title: SVG Artista
+desc: SVG Artista - SVG Drawing Animation Generator
+link: https://svgartista.net
+logo: https://svgartista.net/images/app-icon/safari-pinned-tab.svg
+color: rgba(41,40,41,0.2)
+```
+
+```card
+title: Freehand
+desc: Freehand – The all-in-one collaborative workspace<br/>Unlock your team’s full potential – ideate, plan, execute, and track projects with Freehand
+link: https://www.invisionapp.com
+logo: https://marketing.invisionapp-cdn.com/www.invisionapp.com/global-assets/search/invision-search-logo.png
+color: rgba(73,10,164,0.2) 
+```
+
+```card
+title: Free Favicon Maker
+desc: Free Favicon Maker — Create SVG & PNG favicon in seconds!
+link: https://formito.com/tools/favicon
+logo: 
+color: rgba(123,111,224,0.2)
+```
+
+```card
+title: Saaze 
+desc: An all-inclusive, flat-file CMS for simple websites and blogs
+link: https://saaze.dev
+logo: https://saaze.dev/assets/favicon.png
+color: rgba(42,38,87,0.2)
 ```
 
 @tab Curated 

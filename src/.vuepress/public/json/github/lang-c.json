@@ -779,5 +779,10 @@
     "desc": "VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.",
     "officialSite": "",
     "topics": ["kvm", "virtualbox", "virtualization"]
+  }, {
+    "repo": "jcs/progman",
+    "desc": "progman.exe^H^H^H^H",
+    "officialSite": "https://jcs.org",
+    "topics": []
   }
 ]

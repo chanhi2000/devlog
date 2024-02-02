@@ -1064,5 +1064,15 @@
     "desc": "CUDA on AMD GPUs",
     "officialSite": "",
     "topics": ["amd-gpu", "amdgpu", "cuda", "rust"]
+  }, {
+    "repo": "succinctlabs/sp1",
+    "desc": "A performant, 100% open-source, contributor-friendly zkVM.",
+    "officialSite": "https://succinctlabs.github.io/sp1",
+    "topics": ["blockchain", "contributor-friendly", "ethereum", "modular", "rust", "zero-knowledge"]
+  }, {
+    "repo": "ajeetdsouza/zoxide",
+    "desc": "A smarter cd command. Supports all major shells.",
+    "officialSite": "",
+    "topics": ["autojump", "bash", "cli", "command-line", "command-line-tool", "elvish", "fasd", "fish", "fish-shell", "fzf", "hacktoberfest", "jump", "nushell", "powershell", "rust", "shell", "xonsh", "xontrib", "z", "zsh"]
   }
 ]

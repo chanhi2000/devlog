@@ -4139,5 +4139,25 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "kijai/ComfyUI-DiffusersStableCascade",
+    "desc": "Simple inference with StableCascade using diffusers in ComfyUI",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "microsoft/UFO",
+    "desc": "A UI-Focused Agent for Windows OS Interaction.",
+    "officialSite": "",
+    "topics": ["agent", "automation", "copilot", "gui", "llm", "windows"]
+  }, {
+    "repo": "LargeWorldModel/LWM",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "markmoxon/archimedes-lander",
+    "desc": "Fully documented and annotated source code for Lander on the Acorn Archimedes",
+    "officialSite": "https://lander.bbcelite.com",
+    "topics": ["acorn", "acornsoft", "archimedes", "arm", "retrocomputing", "retrogaming", "risc-os", "riscos"]
   }
 ]
