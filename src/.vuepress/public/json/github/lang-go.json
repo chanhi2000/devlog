@@ -1194,5 +1194,15 @@
     "desc": "代理discord-bot，api调用coze-bot",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "seaweedfs/seaweedfs",
+    "desc": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "officialSite": "",
+    "topics": ["blob-storage", "cloud-drive", "distributed-file-system", "distributed-storage", "distributed-systems", "erasure-coding", "fuse", "hadoop-hdfs", "hdfs", "kubernetes", "object-storage", "posix", "replication", "s3", "s3-storage", "seaweedfs", "tiered-file-system"]
+  }, {
+    "repo": "usememos/memos",
+    "desc": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+    "officialSite": "https://usememos.com",
+    "topics": ["docker", "free", "go", "markdown", "memo", "microblog", "note-taking", "react", "self-hosted", "social-network", "sqlite"]
   }
 ]

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/f9W_eqqo2SW7V7q9CWS80QEPg2jgF28QgVUVgI37nmCUK7x3FP_n55qNEPPeHxq8QjW13DMX4EU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4_qu1F9BXow", "title": "Design file-sharing system like Google Drive / Dropbox  (System design interview with EM)" },
+    { "id": "8dG0qzNAVXI", "title": "System Design Interviews: 10 Key Principles (with ex-Google EM)" },
     { "id": "NHqdG-aZxOk", "title": "Google system design interview: Design TikTok (with ex-Google EM)" }
   ]
 }

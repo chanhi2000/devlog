@@ -287,4 +287,16 @@ description: 🐍Python > 📚References
 
 ---
 
+## sizeof.life
+
+- [Solving the darknet riddle](https://sizeof.life/posts/darknet-riddle)
+
+---
+
+## Guilherme's Blog
+
+- [Introduction to Thompson Sampling: the Bernoulli bandit](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
+
+---
+
 <TagLinks />

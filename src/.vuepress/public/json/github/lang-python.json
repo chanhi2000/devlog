@@ -4024,5 +4024,40 @@
     "desc": "슬랙 스레드에 이모지를 달면 스레드 전체를 요약하여 Jira 티켓을 생성합니다!",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "allenai/OLMo",
+    "desc": "Modeling, training, eval, and inference code for OLMo",
+    "officialSite": "https://allenai.org/olmo",
+    "topics": []
+  }, {
+    "repo": "OpenBMB/MiniCPM",
+    "desc": "MiniCPM-2B: An end-side LLM outperforms Llama2-13B.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "AbanteAI/rawdog",
+    "desc": "Generate and auto-execute Python scripts in the cli",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "nomic-ai/contrastors",
+    "desc": "Train Models Contrastively in Pytorch",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "corkami/collisions",
+    "desc": "Hash collisions and exploitations",
+    "officialSite": "",
+    "topics": ["collisions", "exploitation", "hash", "md5", "scripts", "sha1"]
+  }, {
+    "repo": "dvcoolarun/web2pdf",
+    "desc": "🔄 CLI to convert Webpages to PDFs 🚀 ",
+    "officialSite": "",
+    "topics": ["automation", "cli", "printing", "python"]
+  }, {
+    "repo": "narfindustries/http-garden",
+    "desc": "Differential testing and fuzzing of HTTP servers and proxies",
+    "officialSite": "",
+    "topics": ["differential-testing", "http"]
   }
 ]

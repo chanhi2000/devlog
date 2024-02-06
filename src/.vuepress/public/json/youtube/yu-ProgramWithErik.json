@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/qwaYLUAbBeIcDmBR0G-k6p2v-fFgTPLxFJFPHAH--LQ16HaXI_GstOzSYcKMGGmDviHcsOEB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CIGBujoNMS0", "title": "This Tailwind UI Component Library Really Surprised Me!" },
+    { "id": "Z9Qi0SSO86s", "title": "A Better Way To Organize Components In Vue" },
+    { "id": "hz3V6VyJxKE", "title": "The Future Of Tailwind UI Component Frameworks? A look at shadcn/ui." },
+    { "id": "Gzste7H0_bk", "title": "3 Must Know Tips For Nuxt.js Developers" },
+    { "id": "kStOVAy02zk", "title": "These Vite Mistakes With TypeScript Are Bad (React, Vue, Astro)" },
+    { "id": "zBhAtGt8FDk", "title": "This Vue 3 Component Pattern is Fire 🔥🔥🔥 (and you should use it!)" },
+    { "id": "tIjhucyax_0", "title": "Can I Combine Two Vue Apps Into One Repo And Host Them?" },
     { "id": "wcSMnICY-_8", "title": "How To Create A Full Stack Typesafe App With No Knowledge! Using AWS Gen2 and Next.js 14!" },
     { "id": "xLFb8CP7osM", "title": "Is Vue 3.4 Update Worth Upgrading For? A look into the new updates for Vue." },
     { "id": "MOeL0cKy7-Q", "title": "Add A Github Login To Your App The CORRECT Way: Everything You Need To Know" },

@@ -954,5 +954,10 @@
     "desc": "个人收集的实用、良心开源安卓软件",
     "officialSite": "",
     "topics": ["android", "apps", "awesome", "f-droid", "foss", "open-source", "opensource"]
+  }, {
+    "repo": "karnotxyz/avail-campaign-listing",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

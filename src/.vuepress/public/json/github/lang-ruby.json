@@ -99,5 +99,10 @@
     "desc": "Adds support for creating state machines for attributes on any Ruby class",
     "officialSite": "https://github.com/state-machines/state_machines",
     "topics": ["ruby", "state-machine"]
+  }, {
+    "repo": "maybe-finance/maybe",
+    "desc": "The OS for your personal finances",
+    "officialSite": "https://maybe.co",
+    "topics": ["finance", "hotwire", "personal-finance", "postgresql", "ruby", "ruby-on-rails", "stimulusjs", "turbo"]
   }
 ]

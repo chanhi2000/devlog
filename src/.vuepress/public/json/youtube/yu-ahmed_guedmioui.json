@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/OdDTHsDJB9M4buzLDb5NgTzEAEsUbqXhXX0BkGzSEETxOAJ3eH2d4SECrJ8ZNjcUxLbIKlLdwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_55C6Vzr7aw", "title": "Kotlin Flows Tutorial - State Flow #5" },
+    { "id": "2Etx4LDbMqY", "title": "Kotlin Flows Tutorial - Shared Flow - Channels (Last Part)" },
+    { "id": "Xp0wRyO0a9g", "title": "Build an AI Chat App With Gemini (Android Tutorial)" },
+    { "id": "NpCSzl74ciY", "title": "Exo Player In Jetpack Compose - Play all type of videos" },
+    { "id": "IAngiNvtJAY", "title": "Jetpack Compose - Introduction & First Compose App - #1" },
+    { "id": "sqjoKGzV2MM", "title": "Jetpack Compose - Column, Row, Box & Sizing #2" },
     { "id": "akYKsGl1eTE", "title": "Kotlin Coroutines - `runBlocking` (Part 6)" },
     { "id": "_U456QDx69Q", "title": "Kotlin Coroutines - Job & Cancelling (Part 7)" },
     { "id": "nJGVAPrdYZc", "title": "Kotlin Coroutines - Async & Await (Last Part)" },

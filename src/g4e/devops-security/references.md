@@ -119,11 +119,13 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 - [I looked through attacks in my access logs. Here's what I found](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 
+
 ---
 
 ## Misc
 
 - [0xNews - GRUB2 부트로더 BootLoader 에서 취약점 발견](https://project-openlab.blogspot.com/2020/07/0xnews-grub2-bootloader.html)
+
 
 
 ---

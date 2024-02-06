@@ -9,5 +9,10 @@
     "desc": "An attempt to recreate the RP2040 PIO in an FPGA",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "The-OpenROAD-Project/OpenROAD",
+    "desc": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+    "officialSite": "https://theopenroadproject.org/",
+    "topics": ["cpp", "def", "eda", "gdsii", "lef", "opendb-database", "openroad", "rtl", "tcl", "timing-analysis", "verilog"]
   }
 ]

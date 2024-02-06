@@ -559,5 +559,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ReactiveX/RxJava",
+    "desc": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+    "officialSite": "",
+    "topics": ["flow", "java", "reactive-streams", "rxjava"]
+  }, {
+    "repo": "apple/pkl",
+    "desc": "A configuration as code language with rich validation and tooling.",
+    "officialSite": "https://pkl-lang.org",
+    "topics": []
   }
 ]

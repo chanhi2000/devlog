@@ -96,4 +96,10 @@ tags: ["llama" , "llm"]
 
 ---
 
+## Shyam's Blog
+
+- [Beyond Self-Attention: How a Small Language Model Predicts the Next Token](https://shyam.blog/posts/beyond-self-attention/)
+
+---
+
 <TagLinks/>

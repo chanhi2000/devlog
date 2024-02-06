@@ -73,5 +73,6 @@ tags: ["education", "youtube", "programming", "python", "py"]
 <MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
 <MyYouTubeItems jsonName="yu-code_name_sagang" /><!-- 사강코딩 -->
 <MyYouTubeItems jsonName="yu-AiEmil" /><!-- AiEmil -->
+<MyYouTubeItems jsonName="yu-error_by_night_" /><!-- Error By Night -->
 
 <TagLinks />

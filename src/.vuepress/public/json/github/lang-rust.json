@@ -1014,5 +1014,25 @@
     "desc": "Postgres for everything",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "enso-org/enso",
+    "desc": "Hybrid visual and textual functional programming.",
+    "officialSite": "https://enso.org",
+    "topics": ["compiler", "enso", "functional", "graalvm", "hybrid", "interpreter", "jit", "language", "polyglot", "rts", "textual", "visual"]
+  }, {
+    "repo": "martinvonz/jj",
+    "desc": "A Git-compatible VCS that is both simple and powerful",
+    "officialSite": "https://martinvonz.github.io/jj/",
+    "topics": ["cli", "git", "mercurial", "vcs"]
+  }, {
+    "repo": "kneasle/sapling",
+    "desc": "A highly experimental vi-inspired editor where you edit code, not text.",
+    "officialSite": "",
+    "topics": ["code-editor", "editor", "experimental", "rust", "structured-editing", "text-editor", "vim"]
+  }, {
+    "repo": "StractOrg/stract",
+    "desc": "web search done right",
+    "officialSite": "https://stract.com",
+    "topics": ["rust", "search", "search-engine", "web"]
   }
 ]

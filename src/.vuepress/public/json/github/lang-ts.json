@@ -1460,9 +1460,9 @@
     "topics": ["angular", "bitwarden", "browser-extension", "chrome", "cli", "desktop", "electron", "firefox", "javascript", "nodejs", "safari", "typescript", "webextension"]
   }, {
     "repo": "illacloud/illa-builder",
-    "desc": "🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.",
+    "desc": "Create AI-Driven Apps like Assembling Blocks",
     "officialSite": "https://illacloud.com",
-    "topics": ["app-builder", "developer-tool", "developer-tools", "gui", "hacktoberfest", "hacktoberfest2023", "internal-development", "internal-tool", "internal-tools", "low-code", "low-code-development-platform", "lowcode", "react", "self-hosted", "typescript"]
+    "topics": ["aiagent", "app-builder", "developer-tool", "developer-tools", "gui", "hacktoberfest", "internal-development", "internal-tool", "internal-tools", "low-code", "low-code-development-platform", "lowcode", "react", "self-hosted", "typescript"]
   }, {
     "repo": "amplication/amplication",
     "desc": "🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.",
@@ -2138,5 +2138,30 @@
     "desc": "REST api for your database (PostgreSQL/Sqlite/ClickHouse/MySQL).",
     "officialSite": "",
     "topics": ["clickhouse", "cloudflare", "cloudflare-worker", "d1", "deno", "mysql", "nodejs", "planetscale", "postgresql", "rest-api", "rust", "sqlite", "typescript"]
+  }, {
+    "repo": "adrianhajdin/figma_clone",
+    "desc": "Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript",
+    "officialSite": "https://jsmastery.pro",
+    "topics": ["figma", "liveblocks", "nextjs14"]
+  }, {
+    "repo": "felipemotarocha/fullstackweek-barber",
+    "desc": "",
+    "officialSite": "https://fullstackweek-barber.vercel.app",
+    "topics": []
+  }, {
+    "repo": "devfullcycle/imersao17",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "desc": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+    "officialSite": "https://clash-verge-rev.github.io",
+    "topics": ["clash", "clash-meta", "clash-verge", "linux", "mac", "mihomo", "tauri-app", "windows"]
+  }, {
+    "repo": "adrianhajdin/figma_clone",
+    "desc": "Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript",
+    "officialSite": "https://jsmastery.pro",
+    "topics": ["figma", "liveblocks", "nextjs14"]
   }
 ]

@@ -309,5 +309,10 @@
     "desc": "Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
     "officialSite": "https://www.youtube.com/watch?v=AOTYWEgw0hI",
     "topics": ["9p", "efi", "hackintosh", "hacktoberfest", "kvm", "linux", "macos", "qemu", "spice", "tpm", "virgl", "virglrenderer", "virtio", "virtualization", "windows"]
+  }, {
+    "repo": "mack-a/v2ray-agent",
+    "desc": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+    "officialSite": "https://www.v2ray-agent.com",
+    "topics": ["cloudflare", "grpc-cloudflare", "hysteria2", "nginx", "reality", "reality-grpc", "reality-xtls-rprx-vision", "shell", "sing-box", "trojan", "trojan-grpc", "tuic-v5", "v2ray", "vless", "vmess", "websockettlscdn-cloudflare-ip", "xray", "xray-core", "xray-install", "xtls-rprx-vision"]
   }
 ]

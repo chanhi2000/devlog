@@ -55,5 +55,5 @@ meta:
 <MyYouTubeItems jsonName="yu-galaxies_dev" /><!-- Simon Grimm -->
 <MyYouTubeItems jsonName="yu-MonsterlessonsAcademy" /><!-- Monsterlessons Academy -->
 <MyYouTubeItems jsonName="yu-zachgoll" /><!-- Zach Gollwitzer -->
-
+<MyYouTubeItems jsonName="yu-worlddev" /><!-- 저세상개발자 -->
 <TagLinks />

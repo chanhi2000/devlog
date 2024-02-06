@@ -143,6 +143,7 @@ tags: ["c", "llvm"]
 
 - [Appending to an `std::string` character-by-character: how does the capacity grow?](https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/)
 - [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth)
+- [How fast is rolling Karp-Rabin hashing?](https://lemire.me/blog/2024/02/04/how-fast-is-rolling-karp-rabin-hashing/)
 
 ---
 
@@ -179,6 +180,12 @@ tags: ["c", "llvm"]
 ## nixcademy
 
 - [Separation of Concerns in Cross-Compilation](https://nixcademy.com/2024/01/30/cross-compilation-with-nix/)
+
+---
+
+## corsix
+
+- [`__VA_OPT__` Minutiae](https://www.corsix.org/content/va-opt-minutiae)
 
 ---
 
