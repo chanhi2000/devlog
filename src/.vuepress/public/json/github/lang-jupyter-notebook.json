@@ -474,5 +474,10 @@
     "desc": "A series of top performing Text to SQL LLMs",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "thu-vu92/local-llms-analyse-finance",
+    "desc": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -34,5 +34,10 @@
     "desc": "Chisel: A Modern Hardware Design Language",
     "officialSite": "https://www.chisel-lang.org/",
     "topics": ["chip-generator", "chisel", "chisel3", "firrtl", "rtl", "scala", "verilog"]
+  }, {
+    "repo": "zanfranceschi/rinha-de-backend-2024-q1",
+    "desc": "Repositório da 2ª edição da Rinha de Backend",
+    "officialSite": "https://twitter.com/rinhadebackend",
+    "topics": []
   }
 ]

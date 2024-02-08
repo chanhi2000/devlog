@@ -1204,5 +1204,15 @@
     "desc": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
     "officialSite": "https://usememos.com",
     "topics": ["docker", "free", "go", "markdown", "memo", "microblog", "note-taking", "react", "self-hosted", "social-network", "sqlite"]
+  }, {
+    "repo": "divyam234/teldrive",
+    "desc": "Telegram Drive Storage",
+    "officialSite": "",
+    "topics": ["drive", "golang", "rclone", "teldrive", "teledrive", "telegram", "telegram-bot", "telegramdrive"]
+  }, {
+    "repo": "apernet/OpenGFW",
+    "desc": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",
+    "officialSite": "",
+    "topics": []
   }
 ]

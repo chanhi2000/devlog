@@ -103,4 +103,10 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## ParadeDB
+
+- [`pg_analytics`: Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
+
+---
+
 <TagLinks />

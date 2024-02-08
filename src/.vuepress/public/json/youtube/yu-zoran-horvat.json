@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/7hXDpEkamoTXN_3CMBzuPPRag1XJsi9fCPyfCtmEM9hyMo4DeHt9jmG5GF3FffBvbjQELtw5Rg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mdqNyfCxrv4", "title": "Here is How Fast is LINQ, Spans, and Everything" },
+    { "id": "KFx9XHpoYV4", "title": "The Ultimate Guide to C# Records" },
+    { "id": "Wyp7XaFYRBs", "title": "Let C# Tuples Become Your Best Friends" },
+    { "id": "hW-7lkuD-Cc", "title": "Learn To Love DDD-Style Strongly Typed IDs" },
+    { "id": "E4YSxUFHM-4", "title": "Avoid This Common Mistake in DDD Modeling" },
     { "id": "mGnpFGIRCjA", "title": "17 Pieces of C# Syntax That Make Your Code Short" },
     { "id": "oD99AyEzyEU", "title": "This Is the Place for LINQ in a Modern .NET Design" },
     { "id": "4evWM-HVWmA", "title": "Will All My Classes Look Like Records Now?" },

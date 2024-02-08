@@ -2,8 +2,8 @@
   "channel": {
     "id": "TylerPotts",
     "name": "Tyler Potts",
-    "profile": "https://yt3.googleusercontent.com/IM5sZ1Iqx6OrQIxIjabHv3KnBd928RqUHytXdScgJTjnv-AowRfRWxpg3WuDzargQy5EiSeadEw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/qSSm-c68IxVgOQq6xjylsR-XXY9LkxWOZDIpbNIAAXJ5AeTWYw04852zM180kUXxJb2SNyLLEg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ejNJkKmc_DGG50Lx-Lk4VQtMwn2w8weTT2POFnCEoNjKLaTuU5kHH2snZrIYgX2MF49EE1KQjQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9TDwAIY46eNLHJcLG73zHFZL_5dBQjabqgXau48LpkKMnuYsQV4lv-wiUbUzr-wzHVHdrouBNqY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "j-zjFom9Z7M", "title": "Build a Todo App with Vue JS and Vueform" },

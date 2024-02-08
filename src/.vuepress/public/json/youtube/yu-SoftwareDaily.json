@@ -1,9 +1,9 @@
 {
   "channel": {
     "id": "SoftwareDaily",
-    "name": "Software Daily",
-    "profile": "https://yt3.googleusercontent.com/WB-uQho20icsc0IDXdkXTuilbmiNgHZPKtI3UZVXchpDK4U_xbOz12DiofHm8uaMF-Tb2Ov5XA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/10eTZWYwhQzV7TebhiiF0c8nOv1e7k5ikKulpmcqqrKKSmSeqUo53GouzkD4gh3E7uhReD-kC5Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "name": "Software Engineering Daily",
+    "profile": "https://yt3.googleusercontent.com/0jkO_ye_kUjG-vnXMoZLG-g71ugTDOmsEknDNJzkdGFeY3C3_3PvdiSa0qpHEXuW6n4-GsHYIA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0t-I4m8giX3HMKGofGRsEBXUyhMC3tOw7lmfNw3uIFU16QK2T3isUNJiOrTiNDCOO5Lbr0nuYM0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "vefXMkbCIcs", "title": "Pinecone Vector Database with Marek Galovic" },

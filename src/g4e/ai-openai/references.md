@@ -229,9 +229,21 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## Google Cloud
+
+- [No GPU? No problem. localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
+
+---
+
 ## interviewing.io
 
 - [How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment.](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
+
+---
+
+## HelixML
+
+- [How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
 
 ---
 

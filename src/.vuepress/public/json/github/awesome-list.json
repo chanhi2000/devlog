@@ -959,5 +959,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Awesome-Windows/Awesome",
+    "desc": ":computer: 🎉 An awesome & curated list of best applications and tools for Windows.",
+    "officialSite": "",
+    "topics": ["awesome", "microsoft", "windows", "windows-10"]
   }
 ]

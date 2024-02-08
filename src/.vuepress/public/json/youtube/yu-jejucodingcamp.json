@@ -2,8 +2,8 @@
   "channel": {
     "id": "jejucodingcamp",
     "name": "제주코딩베이스캠프",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMsT128Wj7gbebnvqiMIZvtoysuAJJ2eKQedTNjZsU=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/xKmjRuZ8hHeaAEZeXzZ3qvIi1A3ZxRsFMVYuI_nnSjERpH3OyWIMYOgXrUWmF5FAPfE5sBpB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/3hz56HjIGViMbtdu-JbuGw1Vu_FUZRlPD01AAlS29D8PAilecyFxTBdJScVGXxm3_AuuM_10=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1BZRbzAm66GtM7P5Vm0tyEFFGXRjeuUJkBhY1jjOYc1D2ztciBB8QrwgFvH7ukZ9scBhkuwO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "wlbtgFn-n3M", "title": "[Python 알고리즘 베이직 100] #14. 도서관 책 코드별 정렬" },

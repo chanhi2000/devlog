@@ -324,5 +324,10 @@
     "desc": "A game made by the Celeste developers in a week(ish, closer to 2)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "microsoft/AdaptiveCards",
+    "desc": "A new way for developers to exchange card content in a common and consistent way.",
+    "officialSite": "https://adaptivecards.io",
+    "topics": ["adaptive", "adaptive-cards", "adaptivecards", "android", "bot-framework", "bots", "cards", "ios", "timeline", "uwp", "windows", "windows-uwp", "wpf", "xamarin", "xaml"]
   }
 ]

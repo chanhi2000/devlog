@@ -2,8 +2,8 @@
   "channel": {
     "id": "notjustdev",
     "name": "notJust․dev",
-    "profile": "https://yt3.googleusercontent.com/Tr9LSWwMBLv3rnJKAMjef-jhFPjz-JNUl8JR31DvQnYdp2eufTNl9K1Z_rFZarrtCDDqpix90MI=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/Tr9LSWwMBLv3rnJKAMjef-jhFPjz-JNUl8JR31DvQnYdp2eufTNl9K1Z_rFZarrtCDDqpix90MI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "8ZgSt3VJ5Mc", "title": "Instagram Stories in React Native with Reanimated | DEVember Day 18" },

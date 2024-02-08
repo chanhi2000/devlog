@@ -23,7 +23,6 @@ tags: ["education", "youtube", "programming", "rust", "rs", "rust-lang"]
 <MyYouTubeItems jsonName="yu-mahdimirzadeh" /><!-- Mahdi Mirzadeh -->
 <MyYouTubeItems jsonName="yu-yishn" /><!-- yishn -->
 <MyYouTubeItems jsonName="yu-jamesquigley1713" /><!-- James Quigley -->
-<MyYouTubeItems jsonName="yu-skills_matter" /><!-- Skills Matter -->
 <MyYouTubeItems jsonName="yu-contextfree" /><!-- Context Free -->
 <MyYouTubeItems jsonName="yu-SystemsWithJT" /><!-- Systems with JT -->
 <MyYouTubeItems jsonName="yu-tokyo-rust-org" /><!-- Tokyo Rust Meetup -->

@@ -786,9 +786,9 @@
     "topics": ["react", "python", "flask", "data-science", "bi", "analytics", "superset", "apache", "data-visualization", "data-engineering", "business-intelligence", "data-viz", "data-analytics", "data-analysis", "sql-editor", "asf", "business-analytics", "apache-superset"]
   }, {
     "repo": "mui/mui-x",
-    "desc": "MUI X: Build data-rich applications using a growing list of advanced React components.",
-    "officialSite": "https://mui.com/x",
-    "topics": ["react", "data-grid", "time-picker", "data-table", "date-picker", "date-range-picker"]
+    "desc": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
+    "officialSite": "https://mui.com/x/",
+    "topics": ["charts", "data-grid", "data-table", "date-picker", "date-range-picker", "hacktoberfest", "react", "time-picker"]
   }, {
     "repo": "pilcrowOnPaper/lucia",
     "desc": "Authentication, simple and clean",
@@ -2159,9 +2159,19 @@
     "officialSite": "https://clash-verge-rev.github.io",
     "topics": ["clash", "clash-meta", "clash-verge", "linux", "mac", "mihomo", "tauri-app", "windows"]
   }, {
-    "repo": "adrianhajdin/figma_clone",
-    "desc": "Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript",
-    "officialSite": "https://jsmastery.pro",
-    "topics": ["figma", "liveblocks", "nextjs14"]
+    "repo": "backstage/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "officialSite": "https://backstage.io",
+    "topics": ["backstage", "cncf", "developer-experience", "developer-portal", "dx", "hacktoberfest", "infrastructure", "microservices", "service-catalog"]
+  }, {
+    "repo": "devidw/tabgod",
+    "desc": "execute any javascript from any browser tab on any browser tabs",
+    "officialSite": "",
+    "topics": ["browser-extension", "chrome-devtools-extension", "chrome-extension", "devtool", "devtools", "devtools-extension", "extension-chrome", "tabs-management"]
+  }, {
+    "repo": "maybe-finance/maybe-archive",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

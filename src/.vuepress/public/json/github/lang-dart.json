@@ -79,5 +79,10 @@
     "desc": "Experiments with upcoming Dart macros",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "reqable/re-editor",
+    "desc": "Re-Editor is a powerful lightweight text and code editor widget.",
+    "officialSite": "https://pub.dev/packages/re_editor",
+    "topics": ["code-editor", "flutter", "syntax-highlighting", "text-editor"]
   }
 ]

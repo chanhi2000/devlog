@@ -2,8 +2,8 @@
   "channel": {
     "id": "weekendcode",
     "name": "Weekend Code",
-    "profile": "https://yt3.googleusercontent.com/RxMceOwSgGCn-ETv_BhXjpnzvYeIfAQg_cc37gBRHu7iHPfMzUmVg_68wo2vFcn5BW40etOM4w=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/fT8S5AJnntQXd0CX3ahVOpv5JImvWc9fo0ztu2vzrg4fj2hjXiDUkcQm6rQ5Wc5yOL16db0mQA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/RxMceOwSgGCn-ETv_BhXjpnzvYeIfAQg_cc37gBRHu7iHPfMzUmVg_68wo2vFcn5BW40etOM4w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fT8S5AJnntQXd0CX3ahVOpv5JImvWc9fo0ztu2vzrg4fj2hjXiDUkcQm6rQ5Wc5yOL16db0mQA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "TM-aeh8FN44", "title": "React `useState` 완전 정복! | 9개의 예시로 `useState` 박살내기" },

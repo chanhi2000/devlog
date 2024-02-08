@@ -2,8 +2,8 @@
   "channel": {
     "id": "CodeRadiance",
     "name": "Code Radiance",
-    "profile": "https://yt3.googleusercontent.com/2v3rH25v-3fbqNvoZ-Svpvor81RXYkBVht9xyR3yA3nOS-8y617yPiDugNwq-EbCWpnl7Q_tjQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/sWLgKXt3fuJugock3aFoySC-qKhGHtBpz0Zooh5lnpS6wLaIm_OWefZK3jyZwjNz57TxNsO1=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/7c4ILgwKhWp6bhdC205Nxcphb4CMkIkDke5p6oE-gMmy8kEooHf7LTf4VlxYMRow4vO79KhrWac=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sWLgKXt3fuJugock3aFoySC-qKhGHtBpz0Zooh5lnpS6wLaIm_OWefZK3jyZwjNz57TxNsO1=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "A-epPYILd14", "title": "Beware of Async in useEffect: What You're Probably Doing Wrong!" },

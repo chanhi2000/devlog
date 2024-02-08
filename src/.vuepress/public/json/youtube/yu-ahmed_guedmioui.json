@@ -2,10 +2,11 @@
   "channel": {
     "id": "ahmed_guedmioui",
     "name": "Ahmed Guedmioui",
-    "profile": "https://yt3.googleusercontent.com/xRf8eC2fGyxJAITehFe8kYNABF7rIx3-FpdAvmk2nGFam2zY0iyJwF87AhL8ygjrc3IJBgyLxg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/OdDTHsDJB9M4buzLDb5NgTzEAEsUbqXhXX0BkGzSEETxOAJ3eH2d4SECrJ8ZNjcUxLbIKlLdwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/oFts-Jpe59lpyjWzicAKzd5EwjFBSyKOieQMFvZYOJFAzo5a3K3v8yiyAvKgvVO7tN7g4gGNpn4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pfx3FySE0cNcMV841FU9J1B8H9y1iO3vv1tEf7egC0eShTjmD3F6n39dKLFE-G8fcnRkJn8ZtA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0CI87FSC2R0", "title": "Jetpack Compose - Modifier #3" },
     { "id": "_55C6Vzr7aw", "title": "Kotlin Flows Tutorial - State Flow #5" },
     { "id": "2Etx4LDbMqY", "title": "Kotlin Flows Tutorial - Shared Flow - Channels (Last Part)" },
     { "id": "Xp0wRyO0a9g", "title": "Build an AI Chat App With Gemini (Android Tutorial)" },

@@ -4059,5 +4059,20 @@
     "desc": "Differential testing and fuzzing of HTTP servers and proxies",
     "officialSite": "",
     "topics": ["differential-testing", "http"]
+  }, {
+    "repo": "FujiwaraChoki/MoneyPrinter",
+    "desc": "Automate Creation of YouTube Shorts using MoviePy.",
+    "officialSite": "",
+    "topics": ["automation", "chatgpt", "moviepy", "python"]
+  }, {
+    "repo": "atopile/atopile",
+    "desc": "A tool to create electronic circuit boards with code. Find our docs here: https://atopile.io/getting-started/",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "X-PLUG/MobileAgent",
+    "desc": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
+    "officialSite": "",
+    "topics": ["agent", "gpt4v", "mllm", "mobile-agents", "multimodal", "multimodal-agent", "multimodal-large-language-models"]
   }
 ]

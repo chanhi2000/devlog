@@ -2,8 +2,8 @@
   "channel": {
     "id": "9diin",
     "name": "구디사는 개발자 9Diin",
-    "profile": "https://yt3.googleusercontent.com/DVWyyijLcH5VCKlFsHUsPAQmbPTAB_ZNuUuKxM1w6RXOEDxJXohkKLEIUzxI02I8YPNpTB_L4Gk=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/WVJZAjZwxJ-225NMqrz8FBuZaDZPOa0jYbF_HXVTcC9SKykGdAVgP1uCOKCL01xELI5uifT3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/DVWyyijLcH5VCKlFsHUsPAQmbPTAB_ZNuUuKxM1w6RXOEDxJXohkKLEIUzxI02I8YPNpTB_L4Gk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WVJZAjZwxJ-225NMqrz8FBuZaDZPOa0jYbF_HXVTcC9SKykGdAVgP1uCOKCL01xELI5uifT3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "tO-2-84uKUQ", "title": "[New 2024] Vue3 Tutorial - 조건부 렌더링 v-if / v-else-if / v-else" },

@@ -299,4 +299,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Alex Molas
+
+- [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
+
+---
+
 <TagLinks />

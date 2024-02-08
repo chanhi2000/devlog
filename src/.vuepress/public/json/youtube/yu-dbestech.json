@@ -2,8 +2,8 @@
   "channel": {
     "id": "dbestech",
     "name": "dbestech",
-    "profile": "https://yt3.googleusercontent.com/nGywxQqLkBof4AXRJd7TsXvM7AVYfO0aCSnvJesV2vH-VXUxHIMP_ceZoerxF3MvnHAdImjLzQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/cmdtgoFw7J8zdEMVF-T28sSG6j7PqT5iHaWZ-x-gdbNYvZabdYs7ghF0hbKFnslbmYJOT4fw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/nGywxQqLkBof4AXRJd7TsXvM7AVYfO0aCSnvJesV2vH-VXUxHIMP_ceZoerxF3MvnHAdImjLzQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/odeiQRIFsqqxe1ra3bTiAUxexuHzM4DJ7rHt-T8BOhVvMqDwtGUskvGy8OMNYxl1Cc5fsDPAB-c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "KfVf67MtqiY", "title": "Flutter Production Ready E-commerce App With BLoC Clean Architecture" },

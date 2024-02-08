@@ -2,8 +2,8 @@
   "channel": {
     "id": "worlddev",
     "name": "저세상개발자",
-    "profile": "https://yt3.googleusercontent.com/Cj8byX2zKHNKHvPh0GyVDh41O2oQojHXsC5Q9jS5bcAafdJVS5JACpmzYSV8KWA4--_deEbFPA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/6H_FNIDXNtsSV69ZQfX6fdhvdM3Jm3H40wNw4_4dIs8auURijpscGepIQUz5JEMcV1_U2Km2MVI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/Cj8byX2zKHNKHvPh0GyVDh41O2oQojHXsC5Q9jS5bcAafdJVS5JACpmzYSV8KWA4--_deEbFPA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6H_FNIDXNtsSV69ZQfX6fdhvdM3Jm3H40wNw4_4dIs8auURijpscGepIQUz5JEMcV1_U2Km2MVI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "2_RDSLdscbE", "title": "배워야 한다고 유난 심한 Go 언어 살펴보기" },

@@ -226,9 +226,9 @@
     "officialSite": ""
   }, {
     "repo": "mitsuhiko/rye",
-    "desc": "an experimental alternative to `poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…`",
-    "topics": [],
-    "officialSite": ""
+    "desc": "a Hassle-Free Python Experience",
+    "officialSite": "https://rye-up.com",
+    "topics": ["package-manager", "packaging", "python"]
   }, {
     "repo": "memorysafety/sudo-rs",
     "desc": "A memory safe implementation of sudo and su.",
@@ -1034,5 +1034,15 @@
     "desc": "web search done right",
     "officialSite": "https://stract.com",
     "topics": ["rust", "search", "search-engine", "web"]
+  }, {
+    "repo": "igor-petruk/scriptisto",
+    "desc": "A language-agnostic \"shebang interpreter\" that enables you to write scripts in compiled languages.",
+    "officialSite": "",
+    "topics": ["linux", "rust", "scripting", "unix"]
+  }, {
+    "repo": "asciinema/asciinema",
+    "desc": "Terminal session recorder 📹",
+    "officialSite": "https://asciinema.org",
+    "topics": ["asciicast", "cli", "recorder", "recording", "terminal", "terminal-recording"]
   }
 ]

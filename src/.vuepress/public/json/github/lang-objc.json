@@ -29,5 +29,10 @@
     "desc": "Mini vMac for iOS",
     "officialSite": "https://namedfork.net/minivmac",
     "topics": ["emulator", "ios", "m68k", "macintosh", "mini-vmac"]
+  }, {
+    "repo": "aleixsr/HP-Pavilion-Aero-13-Hackintosh",
+    "desc": "OpenCore EFI for HP Pavilion Aero 13 - be0006ns Laptop",
+    "officialSite": "",
+    "topics": []
   }
 ]
