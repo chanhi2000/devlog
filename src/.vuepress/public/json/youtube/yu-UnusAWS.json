@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/xI0r1L-nShmWEAgLE5ZDWm0YZXSXhJ1na8Q43k0DwTEWj2CrjKAMwZDgga7S4Ombtj_dzlRD8vo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dNYGxEhMFHA", "title": "How to setup AWS CLI and configure your credentials on an EC2." },
+    { "id": "Lj996FHJy0w", "title": "S3 DeleteMarker - How it works" },
+    { "id": "c-qn2TroMXo", "title": "AWS Glue Data Catalog Creation for a JSON file - Hands on practice" },
+    { "id": "q9cgA5nl2xg", "title": "Implement CI/CD Pipeline with Jenkins" },
+    { "id": "9lUHp8ypEb0", "title": "Jenkinsfile - CICD Pipeline as code - Basic Handson Exercise" },
     { "id": "SqiZycUq8qA", "title": "How to prepare for AWS Data Analytics Certification in 3 Weeks" },
     { "id": "zaJ2r8p3Mko", "title": "How to set up AWS CodePipeline for a simple Continuous Deployment (CD) use case" },
     { "id": "QnHUtt_f9LM", "title": "AWS CodeBuild and CodeDeploy HandsOn Exercise" },

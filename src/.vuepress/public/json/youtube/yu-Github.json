@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/kxhZu7194sN8tKw75tPvy8kWX_98swsN5xvE-OVVllgLz9bPPcw5R04_U1Z5TOwjPT-xOP0aI9w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Hpx4Zlu8ujk", "title": "How to use GitHub for end-to-end development" },    
+    { "id": "Swf4IbGy-3c", "title": "Open Source Friday with Maybe: Personal finance and wealth management app" },
+    { "id": "pAQAdKk_WBs", "title": "How can more secure code be shipped efficiently?" },
+    { "id": "nD5vshctIoM", "title": "Open Source Friday: Chocolatey Unwrapped with Gary Ewan Park" },
+    { "id": "6Lx6xtG6oDk", "title": "Learn to scale your monorepo for open source contribution" },
+    { "id": "_YkwDnstjVs", "title": "GitHub’s GraphQL API to effectively track the health of projects and communities" },
+    { "id": "_Zg_Sslbx38", "title": "Event in Spanish: Open. Source Viernes con Snowflake" },
+    { "id": "AF0xIgiQqmY", "title": "How to code more securely with AI" },
+    { "id": "GPLUGJsVx0s", "title": "Helping GitHub Copilot help you with prompt crafting" },
     { "id": "Io5UFJlEJKc", "title": "Securely deploy to AWS with GitHub Actions and OIDC" },
     { "id": "R2rk1mCoHs0", "title": "Game Off Winners, Copilot Chat Goes GA, OpenAI's GPT Store, Rabbit AI Assistant and more" },
     { "id": "R5s9AFXGhK0", "title": "Open Source Friday with Fastify: Maximizing Efficiency, Minimizing Cost" },

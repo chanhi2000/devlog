@@ -57,5 +57,6 @@ meta:
 <MyYouTubeItems jsonName="yu-zachgoll" /><!-- Full Stack Zach -->
 <MyYouTubeItems jsonName="yu-worlddev" /><!-- 저세상개발자 -->
 <MyYouTubeItems jsonName="yu-codeching" /><!-- Codeching -->
+<MyYouTubeItems jsonName="yu-tubeguruji" /><!-- TubeGuruji -->
 
 <TagLinks />

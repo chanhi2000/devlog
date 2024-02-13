@@ -37,5 +37,11 @@ tags: ["elixir", "exs"]
 
 ---
 
+## Michal @arathunku
+
+- [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
+
+---
+
 
 <TagLinks />

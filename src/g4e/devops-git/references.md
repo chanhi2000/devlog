@@ -22,7 +22,17 @@ description: 🛠️Git > 📚References
 
 - [Parsing more than 10TB of GitHub Logs with Trickest and Extracting Public Details of all GitHub Users & Repositories](https://trickest.com/blog/parsing-github-logs-with-trickest)
 
-## freecodcamp
+---
+
+## GitButler
+
+- [Git Tips 1: Oldies but Goodies](https://blog.gitbutler.com/git-tips-1-theres-a-git-config-for-that/)
+- [Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/)
+- [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
+
+---
+
+## freecodcamp.org
 
 - [How to Write Commit Messages that Project Maintainers Will Appreciate](https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like)
 

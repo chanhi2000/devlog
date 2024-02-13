@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/gsK0EALjlZGWmWu9Uf-KrVdjUAmK3X9dfVX40UZ0tJ54SzBEh_lVWsSzENyAtmCZDaPOItJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LuP1X6awyWs", "title": "Secure network access to Container Apps" },
+    { "id": "Fr4Wv0KQaXk", "title": "Introduction to Azure API Management" },
+    { "id": "pANC3uA4OvY", "title": "Custom Azure RBAC role for AKS" },
+    { "id": "wGvahAHcNFc", "title": "Introduction to Azure Firewall" },
+    { "id": "s4Kw6KCo63g", "title": "Choosing better VMs for your AKS cluster" },
+    { "id": "koAul2mlSTQ", "title": "Properly manage egress traffic with NAT Gateway" },
+    { "id": "rzGbxwYfLnI", "title": "Get your own IP in Azure" },
     { "id": "-1pOiG_DHIo", "title": "Why Azure Internal (private) Load Balancer" },
     { "id": "ob7sDIiyjE0", "title": "Why Azure Load Balancer" },
     { "id": "UyvhVK7egZ0", "title": "Hosting DevOps Runners and Build Agents" },

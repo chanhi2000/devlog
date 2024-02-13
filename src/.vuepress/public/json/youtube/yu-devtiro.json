@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/0eNwEgmvRKDsXyjYhwKuMWMNbF1QY-fwAW3vX8nh80CQYPYPDfs-Vl_XtuuTllOccW0ATk-HPQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qE7ar1XMaYI", "title": "Java OUT, Kotlin In: How to Migrate Your Spring Boot Projects" },
     { "id": "Nv2DERaMx-4", "title": "The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners" }
   ]
 }

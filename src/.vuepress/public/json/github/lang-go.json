@@ -1214,5 +1214,10 @@
     "desc": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "AdguardTeam/AdGuardHome",
+    "desc": "Network-wide ads & trackers blocking DNS server",
+    "officialSite": "https://adguard.com/adguard-home.html",
+    "topics": ["adblock", "adguard", "dns", "dns-over-https", "dns-over-quic", "dns-over-tls", "dnscrypt", "golang", "open-source", "privacy"]
   }
 ]

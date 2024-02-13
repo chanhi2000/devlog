@@ -40,5 +40,6 @@ meta:
 <MyYouTubeItems jsonName="yu-xxxjjhhh" /><!-- 개발자 유미 -->
 <MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
 <MyYouTubeItems jsonName="yu-tobyspring" /><!-- Toby Lee -->
+<MyYouTubeItems jsonName="yu-devtiro" /><!-- Devtiro -->
 
 <TagLinks />

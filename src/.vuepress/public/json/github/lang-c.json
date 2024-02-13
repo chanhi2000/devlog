@@ -774,5 +774,10 @@
     "desc": "A SQLite extension that brings column-oriented tables to SQLite",
     "officialSite": "",
     "topics": ["column-oriented", "column-store", "embedded", "olap", "sqlite", "sqlite-extension", "sqlite3"]
+  }, {
+    "repo": "cyberus-technology/virtualbox-kvm",
+    "desc": "VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.",
+    "officialSite": "",
+    "topics": ["kvm", "virtualbox", "virtualization"]
   }
 ]

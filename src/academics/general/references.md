@@ -22,6 +22,14 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## StackExchange
+
+### Physics
+
+- [Can tin foil hats block anything?](https://physics.stackexchange.com/questions/208516/can-tin-foil-hats-block-anything)
+
+---
+
 ## Andrew Chan
 
 - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
@@ -85,6 +93,24 @@ tags: ["youtube", "tutorial"]
 ## Tony Finch
 
 - [2024-01-29 – Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
+
+---
+
+## The Kalman Filter
+
+- [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
+
+---
+
+## srush
+
+- [The Annotated S4](https://srush.github.io/annotated-s4/)
+
+---
+
+## Bill Wadge
+
+- [The Rise and Fall of GOFAI](https://billwadge.com/2024/02/12/the-rise-and-fall-of-gofai/)
 
 ---
 

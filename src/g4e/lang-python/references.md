@@ -305,4 +305,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Eric Chiang
+
+- [Analyzing Spotify stream history](https://ericchiang.github.io/post/spotify/)
+
+---
+
 <TagLinks />

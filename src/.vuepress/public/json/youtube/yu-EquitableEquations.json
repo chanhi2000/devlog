@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "D-ArAu3XFWc", "title": "Understanding the structure of R functions" },
+    { "id": "eU_68QcZOi4", "title": "LaTeX for R users" },
     { "id": "a-kpc7WISEA", "title": "The gamma function" },
     { "id": "yZ0bV2Afkjc", "title": "Learn R in 39 minutes" }
   ]

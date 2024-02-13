@@ -4074,5 +4074,40 @@
     "desc": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
     "officialSite": "",
     "topics": ["agent", "gpt4v", "mllm", "mobile-agents", "multimodal", "multimodal-agent", "multimodal-large-language-models"]
+  }, {
+    "repo": "uclaml/SPIN",
+    "desc": "The official implementation of Self-Play Fine-Tuning (SPIN)",
+    "officialSite": "https://uclaml.github.io/SPIN/",
+    "topics": ["deep-learning", "fine-tuning", "large-language-models", "self-play"]
+  }, {
+    "repo": "magicbear/palworld-server-toolkit",
+    "desc": "PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "phidatahq/phidata",
+    "desc": "Build AI Assistants using function calling",
+    "officialSite": "https://docs.phidata.com",
+    "topics": ["ai", "aws", "data-engineering", "developer-tools", "docker", "gpt-4", "llm", "llmops", "python"]
+  }, {
+    "repo": "ncbi/GeneGPT",
+    "desc": "Code and data for GeneGPT.",
+    "officialSite": "https://arxiv.org/abs/2304.09667",
+    "topics": []
+  }, {
+    "repo": "mkjt2/lockbox",
+    "desc": "Lockbox is a forward proxy for making third party API calls.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "metavoiceio/metavoice-src",
+    "desc": "Foundational model for human-like, expressive TTS",
+    "officialSite": "https://themetavoice.xyz/",
+    "topics": []
+  }, {
+    "repo": "dofuuz/dimidium",
+    "desc": "A terminal color scheme crafted with science",
+    "officialSite": "",
+    "topics": ["terminal-themes"]
   }
 ]

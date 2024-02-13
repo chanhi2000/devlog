@@ -19,6 +19,12 @@ tags: ["sql", "db", "postgres"]
 
 ---
 
+## Github
+
+- [cpursley/postgresql_is_enough.md](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+
+---
+
 ## Medium
 
 - [How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)

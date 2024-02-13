@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/EcHW5S3sGt3ZXqTr37DzLnAkJ2mfATbmJxsxOAqmwwUTeGSYgkPG9DI6S5naZo7MTfqB54Y1G-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "x7YjX2_zGsk", "title": "10 AWS Cloud Projects to Build Your Skills and Resume/CV | AWS Tutorials" },
+    { "id": "vDtXk6QlRpo", "title": "AWS Beginners - 5 Tips You MUST Know | Cloud Computing for Beginners" },
+    { "id": "-t148tYgnJU", "title": "Amazon/AWS EC2 Pricing Simply Explained | On-Demand, Spot, Reserved, Savings Plans" },
     { "id": "Yxl7e88cTAQ", "title": "Basics of Amazon CloudWatch and CloudWatch Metrics | AWS Tutorials for Beginners" },
     { "id": "biYVW1TMYAU", "title": "AWS Project - Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial" },
     { "id": "32D7NJK9QIk", "title": "Amazon Bedrock Tutorial – Model Access, Playgrounds, APIs and Fine-Tuning | AWS Generative AI" },

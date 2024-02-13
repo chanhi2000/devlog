@@ -6,7 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/JSdkju0xGn2kCtoJII1WsWuERVZz0G693Cd8wiHBdjgqRlpZoycPFWSVAJNVYT6s71Tq4jb5CMk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    
+    { "id": "a8Z0hcnb7d0", "title": "[알잘딱깔센 프롬프트 엔지니어링] 강의 소개" },
+    { "id": "OFrlx6Yfyd8", "title": "[알잘딱깔센 프롬프트 엔지니어링] 1. AWS 인프라 아키텍처 확인 및 Profile 생성" },
+    { "id": "80f3Um3SPvc", "title": "[알잘딱깔센 프롬프트 엔지니어링] 2. Cloud9으로 통합 개발 환경 만들기" },
+    { "id": "jmBnDXCs6k0", "title": "[알잘딱깔센 프롬프트 엔지니어링] 3. AWS 네트워크 인프라 구성하기" },
+    { "id": "T3cGAV-A64E", "title": "[알잘딱깔센 프롬프트 엔지니어링] 4. AWS 서비스 인프라 구성하기" },
+    { "id": "c7ReVtrouLk", "title": "[알잘딱깔센 프롬프트 엔지니어링] 5. 실무에 적용하는 생성형 AI 확장 프로그램" }
   ],
   "playlists": [
     {

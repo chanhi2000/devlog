@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "IC9lFyR-UQQ", "title": "python 실습 | 3. python 가상화 설정 및 django 시작하기" },
+    { "id": "j6jU3RuOYF4", "title": "우분투 리눅스 입문 | 0. 오리엔테이션 및 가상머신 생성 VirtualBox 7.0" },
+    { "id": "E8tjqAknkLY", "title": "우분투 리눅스 입문 | 1. MobaXterm, vi 에디터, apache2 설치" },
+    { "id": "5WMxTRRceac", "title": "워드프레스 환경 구축 하기(도메인, 인증서 포함), docker를 이용한 직접 구축 방식." },
+    { "id": "QZhlxnr0F9s", "title": "소규모 웹서비스 환경 구축 해보기_7 | 도메인 및 인증서 구매" },
+    { "id": "ZlYit660fVk", "title": "시놀로지를 이용한 rsync 설정(with nfs), 서버 데이터 백업" },
     { "id": "JgGJvpRuyAg", "title": "python 실습 | 1. code-server를 이용한 개발환경 구축" },
     { "id": "QhFlj9No0mk", "title": "mariaDB | 2_mariaDB TLS/SSL구성" },
     { "id": "xph5wAIXStE", "title": "python 실습 | 2. github설정 및 code-server 자동설치" },

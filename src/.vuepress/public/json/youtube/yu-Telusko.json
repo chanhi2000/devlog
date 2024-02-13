@@ -6,7 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/mHSb8JL6--hAGMFutgdmkWhc1N853V04knbbfDi9THw8jnh68A2578jnc7JrjmYdi0m4WmpJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "Nc9NmS5kEjU", "title": "Spring Boot JDBC using JdbcTemplate" },
+    { "id": "4XTsAAHW_Tc", "title": "Complete Java, Spring, and Microservices course" },
+    { "id": "vVgatzEqNVg", "title": "Spring Framework 5 and Spring Boot" },
+    { "id": "0G3_Fxztpzw", "title": "New Announcement Complete Java Dev Course batch 2" },
+    { "id": "Jl9OKQ92SJU", "title": "Spring Framework and Microservices Full Course" },
+    { "id": "y4WS8OvIapU", "title": "Spring Framework 5 (IoC) - Dependency Injection" },
+    { "id": "8Xed2Fhd9FU", "title": "Spring Web MVC using Spring Boot" },
+    { "id": "wo5Lj6OUlRc", "title": "Spring ORM using Hibernate" },
+    { "id": "TWnl0SpcAac", "title": "Industry Ready Java Spring Microservices Developer Live Course" },
+    { "id": "Nc9NmS5kEjU", "title": "Spring Boot JDBC using `JdbcTemplate`" },
     { "id": "CScxy0294SE", "title": "#2 Python Tutorial for Beginners | Python Installation | PyCharm" },
     { "id": "xWLxhF3b5P8", "title": "Data Structures and Algorithms using Java" }, 
     { "id": "laPmEW913_k", "title": "JUnit 5 Tutorial by Hyder Abbas" }, 

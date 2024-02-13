@@ -43,6 +43,13 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 
 ---
 
+## StackExchange
+
+### UX
+
+- [Should a toggle button show its current state or the state to which it will change?](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
+
+---
 
 ## Guideline
 

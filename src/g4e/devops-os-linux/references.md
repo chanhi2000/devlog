@@ -138,4 +138,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 
 - [`epoll`: The API that powers the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet)
 
+---
+
+## sgarzare's blog
+
+- [`vDPA`: support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
+
+---
+
 <TagLinks />

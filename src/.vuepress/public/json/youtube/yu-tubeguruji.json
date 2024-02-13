@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "tubeguruji",
+    "name": "TubeGuruji",
+    "profile": "https://yt3.googleusercontent.com/36zPj3LivPiJRnMdn-WMQmLy--w0JZcvURjlgdL9OEufKx8_aDJTkRaHDscu2MJR0b93ZcR_eg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LtM9aKdQGsx4SyoAvnBSOxxoTXlqgUUr9iQJveGRmrzMIdjONEToRJ6mT6ysmKog9AaKast3IGY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Zs-W12TpAeM", "title": "React Native Full Stack App | React Native Project | Full Tutorial | Expo, HyGraph" },
+    { "id": "_GyIjVgIwtk", "title": "NextJs 14 Full Stack Project | React.Js, TailwindCss, GraphQl | Full Tutorial | Video Course" },
+    { "id": "1MqozxAvmsc", "title": "React Native Full Stack Tutorial | React Native Project |Video Course Learning | Expo , HyGraph" },
+    { "id": "VOFJ1wBJcUo", "title": "Build a Full-Stack Marketplace App with React Native: Expo, Firebase, Tailwind CSS & Formik" }
+  ]
+}

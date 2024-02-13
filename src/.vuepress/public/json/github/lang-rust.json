@@ -1044,5 +1044,10 @@
     "desc": "Terminal session recorder 📹",
     "officialSite": "https://asciinema.org",
     "topics": ["asciicast", "cli", "recorder", "recording", "terminal", "terminal-recording"]
+  }, {
+    "repo": "AleoHQ/leo",
+    "desc": "🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
+    "officialSite": "https://leo-lang.org/",
+    "topics": ["compiler", "leo", "programming-language", "zero-knowledge", "zksnarks"]
   }
 ]

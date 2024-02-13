@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/f05GS1-4H5VmCYw6a9KyuzdQdyJJV11McNB6X86oq0okED07xuLP6KzylWjTxOtQmmKgbNxfLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AGrCyfJnVd0", "title": "Create Beautiful Animations With SwiftUI: Incoming Call" },
+    { "id": "5G53q03VfUk", "title": "SwiftUI: Create an Animated Highlighting Effect with Hue Rotation and Variable Color" },
+    { "id": "DvERp4lD1rM", "title": "visionOS: Adding Glass Effect Behind SwiftUI Views" },
+    { "id": "o5ZQva-Dato", "title": "visionOS & SwiftUI: How To Create a Timer With a Single Line of Code" },
+    { "id": "fDt1xq3xDoM", "title": "Create a SwiftUI Drawing App" },
+    { "id": "fEomkfH1WeY", "title": "SwiftUI, iOS, visionOS: Create a Play/Pause Button Animation/Transition" },
     { "id": "fPgw3HQd6tE", "title": "SwiftUI: Four Ways To Draw Rectangular Shapes" },
     { "id": "H35ZkByxGzk", "title": "SwiftUI: How to Draw Circular Shapes" },
     { "id": "BTVYvcz7wIY", "title": "How to Convert a React Native Animation to Another Form Using GitHub Copilot" },

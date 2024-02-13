@@ -49,5 +49,10 @@
     "desc": "PowerShell 7.0 SDK for CloudEvents",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "microsoft/sudo",
+    "desc": "It's sudo, for Windows",
+    "officialSite": "",
+    "topics": ["sudo", "windows", "windows-11"]
   }
 ]

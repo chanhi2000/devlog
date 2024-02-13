@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/nf8LF5WytA1-bgqBmqXgvc4a-L4XdbSdDWcmv3H78c8MC5ExXwSmsKyKsn_3U030OC0lzxNIlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JV-x_yTTTXs", "title": "Quiz App Development with Flutter: A Comprehensive Tutorial" },
     { "id": "xcBN2OGghNA", "title": "HTML Tutorial: How to Design a Before-After Image Comparison Slider  #edmtdev #html #javascript #js" },
     { "id": "UKU9WizT7Bw", "title": "Kotlin with Jetpack Compose: Day 2 -  QR Scanner App" },
     { "id": "f7YLwr4oUFE", "title": "Kotlin with Jetpack Compose: Day 3 - Implementing Location Services" },
