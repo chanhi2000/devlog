@@ -39,5 +39,10 @@
     "desc": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
     "officialSite": "https://darc.app",
     "topics": []
+  }, {
+    "repo": "Vectorized/dn404",
+    "desc": "Implementation of a co-joined ERC20 and ERC721 pair.",
+    "officialSite": "",
+    "topics": []
   }
 ]

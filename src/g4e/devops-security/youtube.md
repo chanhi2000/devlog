@@ -42,5 +42,6 @@ tags: ["youtube", "tutorial", "devsecops", "security", "os", "windows", "@_JohnH
 <MyYouTubeItems jsonName="yu-davidrupprecht7694" /><!-- David Rupprecht -->
 <MyYouTubeItems jsonName="yu-NicoKnowsTech" /><!-- Nico Knows Tech -->
 <MyYouTubeItems jsonName="yu-redraccooncorp" /><!-- 레드라쿤 Red Raccoon -->
+<MyYouTubeItems jsonName="yu-networkexploit2521" /><!-- NetworkExploit -->
 
 <TagLinks />

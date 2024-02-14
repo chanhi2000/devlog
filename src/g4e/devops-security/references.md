@@ -119,6 +119,11 @@ tags: ["devsecops", "security", "os", "windows", "youtube"]
 
 - [I looked through attacks in my access logs. Here's what I found](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 
+---
+
+## The Register
+
+- [Just one bad packet can bring down a vulnerable DNS server thanks to DNSSEC](https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/)
 
 ---
 

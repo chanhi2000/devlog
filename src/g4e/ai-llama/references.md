@@ -102,4 +102,16 @@ tags: ["llama" , "llm"]
 
 ---
 
+## Gradient Descent into Madness
+
+- [LLM from scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
+
+---
+
+## Hamel
+
+- [Fuck You, Show Me The Prompt.](https://hamel.dev/blog/posts/prompt/)
+
+---
+
 <TagLinks/>

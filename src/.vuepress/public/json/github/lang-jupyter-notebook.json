@@ -479,5 +479,15 @@
     "desc": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ashishpatel26/LLM-Finetuning",
+    "desc": "LLM Finetuning with peft",
+    "officialSite": "",
+    "topics": ["falcon", "fine-tuning", "huggingface", "llama", "llama2", "llm", "llms", "lora", "peft", "pytorch", "text-generation"]
+  }, {
+    "repo": "Stability-AI/StableCascade",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/1p_F6MA_A8QqQlG5wgQ4-F8SCijBlpIZ8DQZ4tUZezFAOgH6yIOzyhGMEdqrvHpJPX7qect0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DTmlhHu8tHA", "title": "The ULTIMATE Clean Architecture Project Template for .NET" },
+    { "id": "eUW2CYAT1Nk", "title": "Clean Architecture vs Domain-Driven Design - Understand The Difference" },
+    { "id": "Edj07MdcnLw", "title": "Why Developers Are OBSESSED With Obsidian" },
+    { "id": "7-P6Mxl5elg", "title": "Every Single LINQ Extension Method With Examples | .NET & C# Essentials" },
     { "id": "jnutb5Z4wyg", "title": "Domain Layer Structure & Skeleton | Clean Architecture & DDD From Scratch Tutorial | Part 13" }
   ]
 }

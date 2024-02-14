@@ -1088,5 +1088,25 @@
     "desc": "A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse.",
     "officialSite": "https://timeplus.com",
     "topics": ["analytics", "clickhouse", "confluent", "cpp", "flink-alternative", "high-performance", "kakfa", "ksqldb-alternative", "redpanda", "simd", "single-binary", "sql", "stream-processing", "streaming-sql", "udf"]
+  }, {
+    "repo": "mamedev/mame",
+    "desc": "MAME",
+    "officialSite": "https://www.mamedev.org/",
+    "topics": []
+  }, {
+    "repo": "willem-pennings/balancing-cube",
+    "desc": "A cube that balances itself in a corner or edge using reaction wheels",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "google/mediapipe",
+    "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "officialSite": "https://mediapipe.dev",
+    "topics": ["android", "audio-processing", "c-plus-plus", "calculator", "computer-vision", "deep-learning", "framework", "graph-based", "graph-framework", "inference", "machine-learning", "mediapipe", "mobile-development", "perception", "pipeline-framework", "stream-processing", "video-processing"]
+  }, {
+    "repo": "openai/triton",
+    "desc": "Development repository for the Triton language and compiler",
+    "officialSite": "https://triton-lang.org/",
+    "topics": []
   }
 ]

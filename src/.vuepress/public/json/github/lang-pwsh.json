@@ -41,8 +41,8 @@
     "topics": []
   }, {
     "repo": "dotnet/core",
-    "desc": "Home repository for .NET Core",
-    "officialSite": "",
+    "desc": ".NET news, announcements, release notes, and more!",
+    "officialSite": "https://dot.net",
     "topics": ["dotnet", "dotnet-core"]
   }, {
     "repo": "cloudevents/sdk-powershell",

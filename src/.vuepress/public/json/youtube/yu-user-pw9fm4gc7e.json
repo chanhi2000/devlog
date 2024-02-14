@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/M30vSdRMXlcWgL4AooXvXsc_5BV7JMJr700DVlSzcY19KWecZodDlZxoujxOeleG4y5Z91kCLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nbkkz_5GnLo", "title": "딥러닝, RNN 번역, 총정리" },
     { "id": "GkBom4oqJag", "title": "의존성 주입, Dependency Injection" },
     { "id": "34gBoeY62zE", "title": "딥러닝,  RNN. introduction" },
     { "id": "kdSPHfAiAzI", "title": "딥러닝 RNN  구현, implementation" },

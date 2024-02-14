@@ -54,4 +54,10 @@ meta:
 
 ---
 
+## Dmitrii Kovanikov
+
+- [Using a 50-years old technique for solving modern issues](https://chshersh.com/cps)
+
+---
+
 <TagLinks />

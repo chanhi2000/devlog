@@ -329,5 +329,10 @@
     "desc": "A new way for developers to exchange card content in a common and consistent way.",
     "officialSite": "https://adaptivecards.io",
     "topics": ["adaptive", "adaptive-cards", "adaptivecards", "android", "bot-framework", "bots", "cards", "ios", "timeline", "uwp", "windows", "windows-uwp", "wpf", "xamarin", "xaml"]
+  }, {
+    "repo": "ppy/osu",
+    "desc": "rhythm is just a *click* away!",
+    "officialSite": "https://osu.ppy.sh",
+    "topics": ["beatmap-parser", "game", "hacktoberfest", "osu", "rhythm"]
   }
 ]

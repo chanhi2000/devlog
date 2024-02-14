@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "SPARTAIT",
+    "name": "스파르타 IT연구소",
+    "profile": "https://yt3.googleusercontent.com/6iFQvdYoXzKMLT7iDmVQ48GQeIkSI8zeDNgMPjEwyBErQ7L3pFoKMHhDx0cRYZ_PQFga7jCyTA=s120-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    { "id": "dKKRwe8DPw8", "title": "평생 써먹는 코딩 공부 순서, 코딩 고수는 보지 마세요!" },
+    { "id": "ZsIHTruQ79Q", "title": "역사 선생님이 개발자가 되어보니 주변 사람에게 추천하지 않는 이유" },
+    { "id": "1jlqB_-AoXA", "title": "이력서와 포트폴리오에서 무조건 거르는 신입개발자 특징" }
+  ]
+}

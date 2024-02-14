@@ -1939,5 +1939,15 @@
     "desc": "Object-Oriented HTML. project",
     "officialSite": "https://webqit.io/tooling/oohtml",
     "topics": ["chtml", "contract-scripts", "html-imports", "html-include", "html-partials", "observer-api", "oohtml", "scoped-css", "scoped-html", "scoped-js", "subscript"]
+  }, {
+    "repo": "Lunakepio/Mario-Kart-3.js",
+    "desc": "",
+    "officialSite": "https://mario-kart-3-js.vercel.app",
+    "topics": []
+  }, {
+    "repo": "mattwright324/youtube-metadata",
+    "desc": "A quick way to gather all the metadata about a video, playlist, or channel from the YouTube API.",
+    "officialSite": "https://mattw.io/youtube-metadata/",
+    "topics": ["javascript", "osint", "osint-tool", "website", "youtube", "youtube-api-v3", "youtube-data", "youtube-data-analysis", "youtube-data-scraping", "youtube-metadata"]
   }
 ]

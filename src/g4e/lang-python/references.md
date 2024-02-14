@@ -281,7 +281,15 @@ description: 🐍Python > 📚References
 
 ---
 
-## Colab
+## Google
+
+### Google Open Source
+
+- [https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+
+---
+
+### Colab
 
 - [red-green-balls-in-urn-problem.ipynb](https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_)
 

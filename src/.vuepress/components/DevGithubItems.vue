@@ -132,7 +132,7 @@ export default {
              description: jsonRes.description,
              link: jsonRes.html_url,
              name: jsonRes.name,
-             owner: jsonRes.owner.login,
+             owner: jsonRes.owner?.login ?? '',  
            },
            repoFullName: jsonRes.full_name,
            stars: {

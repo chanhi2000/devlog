@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/QGexky0-GLUFRPC46O8zRiLlpOq2bc_Fye6jlDex95aK01jilP9kBzD0PlKoiaDxhsJ3d6JsORs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "09SHd5yH-wo", "title": "[Feb,2024 Developer Meetup] 세션1-9 : 최종 구동 테스트 진행" },
+    { "id": "CHIBQb8CJYY", "title": "[Feb,2024 Developer Meetup] 세션1-8 멀티서버 데이터 동기화" },
+    { "id": "dQuPF4MLKLU", "title": "[Feb,2024 Developer Meetup] 세션2-2 : 모니터링 프로그램용 추가 VM 배포" },
+    { "id": "CWg8U-q36Zk", "title": "[Feb,2024 Developer Meetup] 세션2-1 : 모니터링 프로그램용 추가 방화벽 개방" },
+    { "id": "xS32e5aS5bw", "title": "[Feb,2024 Developer Meetup] 세션2-4 : Grafana 설치하기" },
+    { "id": "FnQczz4Ytr0", "title": "[Feb,2024 Developer Meetup] 세션2-3 : Prometheus DB 설치하기" },
+    { "id": "sEJ8KwtupF0", "title": "[Feb,2024 Developer Meetup] 세션2-5 : 모니터링 최종" },
     { "id": "aQsaYh-5OF8", "title": "[Feb,2024 Developer Meetup] #1 VCN 만들기" },
     { "id": "LJ1n8JwXCjg", "title": "[Feb,2024 Developer Meetup] #2 OCI 방화벽 개방" },
     { "id": "FzxicurpkFo", "title": "[Feb,2024 Developer Meetup] #3 Redis 배포하기" },

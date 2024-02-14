@@ -662,6 +662,12 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 
 ---
 
+## Observable
+
+- [Announcing: Observable Framework](https://observablehq.com/blog/observable-2-0)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)

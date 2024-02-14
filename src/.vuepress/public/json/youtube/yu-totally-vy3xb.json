@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "1FZfEbKHiy8", "title": "플러터(Flutter) 쇼핑몰 앱 개발 13강 - 로직 구성5 (Firestore의 제품 데이터를 장바구니, 결제시작 페이지에 가져오기)" },
+    { "id": "gGLF5fjYlec", "title": "플러터(Flutter) 쇼핑몰 앱 개발 14강 - 로직 구성6 (Firestore에 주문 데이터 삽입하기)" },
     { "id": "IeVYosFIsxQ", "title": "플러터(Flutter) 쇼핑몰 앱 개발 11강 - 로직 구성3 (파이어베이스 연동)" },
     { "id": "MJkDiJY27sE", "title": "플러터(Flutter) 쇼핑몰 앱 개발 12강 - 로직 구성4 (Firestore 제품 데이터 연동)" },
     { "id": "teM1eH4PdCw", "title": "플러터(Flutter) 쇼핑몰 앱 개발 9강 - 로직 구성1 (제품을 장바구니에 추가하기)" },

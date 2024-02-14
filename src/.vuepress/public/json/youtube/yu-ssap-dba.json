@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-YGdX6fT3R2paQngKFyRe0VX74f24_JQG-MtHXxPVqAKzKyP7554ARzUpnnvL9aIOv9aap3z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1WsL2dHlJbM", "title": "Oracle 23c 신기능 -  Ubiquitous Search Index 소개" },
     { "id": "ctASA9suLV4", "title": "Oracle Hang 장애시 DBA들이 반드시 해야하는 Systemstate Dump" },
     { "id": "S7eWjty0lXg", "title": "(팁) 버츄얼박스 네트워크이 갑자기 안되는 경우의 팁" },
     { "id": "mHi1T2OVBUM", "title": "Oracle Patchset, RU, RUR 차이점과 다운로드 받는 방법" },

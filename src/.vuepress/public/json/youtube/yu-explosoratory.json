@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "mPgqLvUVino", "title": "[ FLUTTER  10분 ] 구글 애드몹 광고 넣기" },
+    { "id": "zS3qdBvt1l4", "title": "[ FLUTTER  10분 ] 구글 애드몹 광고 넣기 2" },
     { "id": "BQ7iXKLqgHQ", "title": "[ FLUTTER  10분 ] 카카오 Login 연동하기 (ios , 안드로이드 테스트)" },
     { "id": "HZnuhshghuA", "title": "[ FLUTTER  10분 ] 카카오 Login 파이어베이스 연동하기 (openID사용)" },
     { "id": "Q7s0ZPtpUrk", "title": "[ FLUTTER  5분 ]플러터 아이콘 설정" },

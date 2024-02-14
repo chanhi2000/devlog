@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/yRhrt-VayTn-0MSFHZcfgSUYeGEthYenbjXt3rwjbHGzOs4XxNNYcWWhUQfQiRbCP5tvhqMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Nj8ClKMIPmI", "title": "Building AuthRepository and LoginUseCase for Android Authentication" },
+    { "id": "yGZpSr-_xfk", "title": "Android Login API Implementation with KTOR HTTP Client and Kotlin Coroutines" },
+    { "id": "w0wgNpXm-Bc", "title": "Proto DataStore Android: Mastering User Session Handling in Your App!" },
+    { "id": "XHWehRFDJPg", "title": "Retrofit vs Ktor: Decoding the Kotlin Networking Dilemma #Kotlin #Networking #RetrofitVsKtor #Shorts" },
     { "id": "ezhXbgMhiOA", "title": "Advanced Kotlin Networking Techniques: Inline Functions, HttpClient, and Beyond" },
     { "id": "nWsA3r1nxNY", "title": "Mastering Network Calls in Kotlin: Building a Powerful HttpClient with Builder Pattern" },
     { "id": "ezhXbgMhiOA", "title": "Advanced Kotlin Networking Techniques: Inline Functions, HttpClient, and Beyond" },

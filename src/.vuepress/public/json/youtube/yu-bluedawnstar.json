@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "RHGfn52cHHw", "title": "[String] String searching #1 -  prefix function & KMP (재녹음)" },
+    { "id": "wZVwU8-yfg0", "title": "[개발 팁] 주석 토클링, 들어 봤나요?" },
+    { "id": "egqYGMOm_48", "title": "[String] String searching #2 - Rabin-Karp algorithm" },
     { "id": "85iAoSBqfKQ", "title": "[Algorithm] dynamic programming #5 - 격자에서의 경로 - Part 1" },
     { "id": "nkXGo_PoOGU", "title": "[Algorithm] dynamic programming #5 - 격자에서의 경로 - Part 2" },
     { "id": "XohwMF1lgT4", "title": "[Algorithm] dynamic programming #5 - 격자에서의 경로 - 번외 문제(Part 3)" }

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Watch Later
 description: 📺Youtube > Watch Later
-tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@Aleksey_Konovalov", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
+tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -22,7 +22,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 <MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->
 <MyYouTubeItems jsonName="yu-seoulian" /><!-- 서울리안 SEOULiAN -->
-<MyYouTubeItems jsonName="yu-Aleksey_Konovalov" /><!-- Aleksey Konovalov -->
 <MyYouTubeItems jsonName="yu-AleksPopovic" /><!-- Aleks Popovic -->
 <MyYouTubeItems jsonName="yu-JeffSu" /><!-- Jeff Su -->
 <MyYouTubeItems jsonName="yu-TCMSecurityAcademy" /><!-- The Cyber Mentor -->
@@ -61,7 +60,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 <MyYouTubeItems jsonName="yu-codingshrimp" /><!-- 코딩새우 -->
-<MyYouTubeItems jsonName="yu-masterbot" /><!-- 마스터봇 -->
 
 <TagLinks />
 

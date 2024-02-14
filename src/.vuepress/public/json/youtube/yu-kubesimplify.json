@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/p453_K2bg707VFD9LM4RoMvsfwArj0Y-ejFKExtQiWHkzDvTGuOkzuov94KsdoGryORZSQYH5w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eYekV2Do0YU", "title": "The Complete WebAssembly Course - From BEGINNER to ADVANCED!" },
+    { "id": "uAtzPRehBl4", "title": "Glasskube  - New package manager for Kubernetes?" },
     { "id": "yoMlS-VVbNc", "title": "Kubernetes 1.29 - Mandala" },
     { "id": "yifrTO7gDPM", "title": "Simplify Add-On Management in K8s with Sveltos | Kubesimplify Webinar" },
     { "id": "PN3VqbZqmD8", "title": "Kubernetes 101 workshop - complete hands-on" },

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/-ft2r1hqqfuNdj2X4owgjeh_5O8ijGFpm6eL9ZZqqx4iaDzCBoJcEyZfnZqefZhcKuuNsyfh=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Y3nm519xHfw", "title": "Unbound in Docker with PiHole - Regain Your Privacy - Cybersecurity at Home" },
+    { "id": "Yw8QMrTHCw4", "title": "SMB Server In Docker with ZFS! Simple, Cheap, and Efficient!" },
+    { "id": "IA070wtt2iU", "title": "Manage Docker & Kubernetes Remotely with VS Code!" },
+    { "id": "22jjh5SPiEM", "title": "Linux on Windows The EASY Way - WSL2 & VS Code" },
+    { "id": "ZGWn6xREdDE", "title": "Automate Homelab Deployment With Terraform & Proxmox" },
+    { "id": "DMPetY4mX-c", "title": "NAS Shares On LXC - Unprivileged - Jellyfin Example" },
     { "id": "D_7oiZLGQTs", "title": "Ultimate Budget NAS / Homelab - Parts Guide" },
     { "id": "rmDqeH896gc", "title": "The Perfect Beginner's Homelab? Build & Power Efficiency - Only 40W!" },
     { "id": "-qm-m4q8hIU", "title": "Virtualise TrueNAS to Save Space & Power! SMB & NFS Guide with HBA!" },

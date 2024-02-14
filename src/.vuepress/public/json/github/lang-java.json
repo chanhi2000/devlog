@@ -579,5 +579,10 @@
     "desc": "Conductor is a microservices orchestration engine.",
     "officialSite": "https://conductor-oss.org",
     "topics": ["distributed-systems", "grpc", "java", "javascript", "microservice-orchestration", "orchestration-engine", "orchestrator", "reactjs", "spring-boot", "workflow-automation", "workflow-engine", "workflow-management", "workflows"]
+  }, {
+    "repo": "oddfar/campus-imaotai",
+    "desc": "i茅台app自动预约，每日自动预约，支持docker一键部署",
+    "officialSite": "https://oddfar.github.io/campus-doc/campus-imaotai",
+    "topics": []
   }
 ]

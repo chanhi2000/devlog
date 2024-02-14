@@ -177,4 +177,16 @@ tags: ["rust" , "rs", "rust-lang"]
 
 ---
 
+## Astral
+
+- [`uv`: Python packaging in Rust](https://astral.sh/blog/uv)
+
+---
+
+## Corsix.org
+
+- [Linux/ELF `.eh_frame` from the bottom up](https://www.corsix.org/content/elf-eh-frame)
+
+---
+
 <TagLinks />

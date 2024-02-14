@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/eXhc6XaYdmPLtX7A8XV4eQ9wyAvy9x_QkhaaieRxvFplh3_VayzkyDLS2nhMRF67jScpBxMcGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mcl_nibV39s", "title": "The ULTIMATE Guide for Spring Data JPA & Hibernate | 5 Hours Tutorial" },
+    { "id": "X48mMxEMYps", "title": "The full guide to Batch processing with Spring boot |&nbsp;Full guide" },
     { "id": "uGZQdD9IpQc", "title": "Software Testing with Spring boot and Mockito Framework" },
     { "id": "6r-MpAWVw6c", "title": "The ULTIMATE Spring Boot course |&nbsp;8 HOURS Course" },
     { "id": "wVMQxfWJ5d4", "title": "Spring batch tutorial | Step by Step Guide | #1 Introduction to Spring Batch" },

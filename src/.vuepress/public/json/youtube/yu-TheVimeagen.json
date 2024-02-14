@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aGMIGUqKa64", "title": "Vim APM - Go Packet Parsing" },
+    { "id": "PtkjIdcIRTM", "title": "Vim APM - Timings On The Network Algorithm" },
+    { "id": "eWQ1BTZe6dI", "title": "VIM APM - The Better Calculator" },
+    { "id": "nyV0JW7HaWw", "title": "Vim APM - Making The Plugin Prod Ready" },
+    { "id": "VMonYfJlrc0", "title": "Learning Golang Context!! Never Looked At It!" },
+    { "id": "WPgKmgfodUU", "title": "Golang Wish And Bubbletea at the same time" },
+    { "id": "tPhyJHly7CU", "title": "SQLx vs SQLc" },
     { "id": "9ulyIlMAUUE", "title": "Vim APM : Creating The Motion Tree and CRUSHING BUG" },
     { "id": "nf04kgY1ua4", "title": "Harpoon - Open Source Work 2" },
     { "id": "88Oy0h3zxW0", "title": "Vim APM - ASMR - Jade - Completed The Motion Tree AND Timings" },

@@ -1877,8 +1877,8 @@
   }, {
     "repo": "ArchiveBox/ArchiveBox",
     "desc": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
-    "topics": ["python", "rss", "backups", "firefox", "pinboard", "youtube-dl", "chromium", "self-hosted", "wget", "pocket", "browser-bookmarks", "warc", "web-archiving", "wayback-machine", "digipres", "singlefile", "headless-browser", "bookmark-archiver", "internet-archiving", "archivebox"],
-    "officialSite": "https://archivebox.io"
+    "officialSite": "https://archivebox.io",
+    "topics": ["archivebox", "backups", "bookmark-archiver", "browser-bookmarks", "chromium", "digipres", "firefox", "headless-browser", "internet-archiving", "pinboard", "pocket", "python", "rss", "self-hosted", "singlefile", "warc", "wayback-machine", "web-archiving", "wget", "youtube-dl"]
   }, {
     "repo": "0xpayne/gpt-migrate",
     "desc": "Easily migrate your codebase from one framework or language to another.",
@@ -3515,11 +3515,6 @@
     "officialSite": "https://pypi.org/project/llmware/",
     "topics": ["ai", "bert", "embedding-vectors", "embeddings", "faiss", "generative-ai", "information-retrieval", "large-language-models", "machine-learning", "milvus", "nlp", "parsing", "python", "pytorch", "question-answering", "rag", "retrieval-augmented-generation", "semantic-search", "transformers"]
   }, {
-    "repo": "llmware-ai/llmware",
-    "desc": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
-    "officialSite": "https://pypi.org/project/llmware/",
-    "topics": ["ai", "bert", "embedding-vectors", "embeddings", "faiss", "generative-ai", "information-retrieval", "large-language-models", "machine-learning", "milvus", "nlp", "parsing", "python", "pytorch", "question-answering", "rag", "retrieval-augmented-generation", "semantic-search", "transformers"]
-  }, {
     "repo": "open-compass/MixtralKit",
     "desc": "A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI",
     "officialSite": "",
@@ -3781,9 +3776,9 @@
     "topics": []
   }, {
     "repo": "VikParuchuri/surya",
-    "desc": "Accurate line-level text detection and recognition (OCR) in any language",
+    "desc": "OCR and line detection in 90+ languages",
     "officialSite": "",
-    "topics": ["ai", "computer"]
+    "topics": []
   }, {
     "repo": "skfolio/skfolio",
     "desc": "Python library for portfolio optimization built on top of scikit-learn",
@@ -4109,5 +4104,40 @@
     "desc": "A terminal color scheme crafted with science",
     "officialSite": "",
     "topics": ["terminal-themes"]
+  }, {
+    "repo": "biopython/biopython",
+    "desc": "Official git repository for Biopython (originally converted from CVS)",
+    "officialSite": "http://biopython.org/",
+    "topics": ["bioinformatics", "biopython", "dna", "genomics", "phylogenetics", "protein", "protein-structure", "python", "sequence-alignment"]
+  }, {
+    "repo": "rentruewang/bocoel",
+    "desc": "Bayesian Optimization as a Coverage Tool for Evaluating LLMs. 10 times faster and accurate evaluation (benchmarking) with just a few lines of modular code.",
+    "officialSite": "https://rentruewang.github.io/bocoel/",
+    "topics": []
+  }, {
+    "repo": "dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "officialSite": "https://getdbt.com",
+    "topics": ["analytics", "business-intelligence", "data-modeling", "dbt-viewpoint", "elt", "pypa", "slack"]
+  }, {
+    "repo": "R-O-C-K-E-T/Factorio-SAT",
+    "desc": "Enhancing the Factorio experience with SAT solvers",
+    "officialSite": "",
+    "topics": ["factorio", "python", "sat"]
+  }, {
+    "repo": "NVIDIA/trt-llm-rag-windows",
+    "desc": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "time-series-foundation-models/lag-llama",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zekun-li/generate_synthetic_historical_maps",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

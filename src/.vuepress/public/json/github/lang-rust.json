@@ -1044,10 +1044,25 @@
     "desc": "Terminal session recorder 📹",
     "officialSite": "https://asciinema.org",
     "topics": ["asciicast", "cli", "recorder", "recording", "terminal", "terminal-recording"]
-  }, {
+}, {
     "repo": "AleoHQ/leo",
     "desc": "🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
     "officialSite": "https://leo-lang.org/",
     "topics": ["compiler", "leo", "programming-language", "zero-knowledge", "zksnarks"]
+  }, {
+    "repo": "nushell/nushell",
+    "desc": "A new type of shell",
+    "officialSite": "https://www.nushell.sh/",
+    "topics": ["rust", "shell"]
+  }, {
+    "repo": "sidju/hired",
+    "desc": "A modern take on 'ed'",
+    "officialSite": "",
+    "topics": ["ed", "editor", "highlighting", "rust", "syntax-highlighting"]
+  }, {
+    "repo": "vosen/ZLUDA",
+    "desc": "CUDA on AMD GPUs",
+    "officialSite": "",
+    "topics": ["amd-gpu", "amdgpu", "cuda", "rust"]
   }
 ]

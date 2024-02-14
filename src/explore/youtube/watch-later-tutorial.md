@@ -39,7 +39,6 @@ tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
 <MyYouTubeItems jsonName="yu-OktaDev" /><!-- OktaDev -->
 <MyYouTubeItems jsonName="yu-JeffGeerling" /><!-- Jeff Geerling -->
 <MyYouTubeItems jsonName="yu-mcodeM" /><!-- 메타코드M -->
-<MyYouTubeItems jsonName="yu-BeABetterDev" /><!-- Be A Better Dev -->
 <MyYouTubeItems jsonName="yu-thenewboston" /><!-- thenewboston -->
 <MyYouTubeItems jsonName="yu-abdulazizahwan" /><!-- Abdul Aziz Ahwan -->
 <MyYouTubeItems jsonName="yu-coder2j" /><!-- coder2j -->

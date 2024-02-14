@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "X7EcJcgbJTs", "title": "CSS Isolation in Blazor Applications in 10 Minutes or Less" },
+    { "id": "UPkOH4Vv4BM", "title": "What Are The Differences Between Full-Time and Contracting?" },
+    { "id": "Ld5D6B2Ntjg", "title": "How To Create Generics in C#, Including New Features" },
+    { "id": "m9TXYMsyz_s", "title": "What Are Some Work Routine Best Practices?" },
+    { "id": "NGWhwmYhUck", "title": "How To Use Variables in CSS without SASS or LESS in 10 Minutes or Less" },
+    { "id": "C4qzrFeYHgs", "title": "How IDisposable and Using Statements Work Together in C#" },
+    { "id": "NTl8cgyyLOg", "title": "How Do I Delegate Work Safely and Effectively?" },
+    { "id": "4xxode-i1nI", "title": "Implementing IFormattable To Create Customizable ToString Options in C#" },
     { "id": "YErrKU1dq0g", "title": "The Path to C# in 2024" },
     { "id": "N7vhJ7O56iM", "title": "Periodic Timer in C# Including .NET 8 Updates" },
     { "id": "Vxy9pssyCWI", "title": "Command Line Arguments in C# Applications in 10 Minutes or Less" },

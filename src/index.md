@@ -76,6 +76,14 @@ color: rgba(56, 59, 64, 0.2)
 ```
 
 ```card
+title: 요즘IT
+desc: 요즘 사람들의 IT 매거진, 요즘IT
+link: https://yozm.wishket.com/magazine/list/develop/
+logo: https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg
+color: rgba(84,7,224,0.2)
+```
+
+```card
 title: AI News - TILNOTE
 desc: GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다.
 link: https://tilnote.io/news
@@ -172,6 +180,14 @@ color: rbga(20,20,20,0.2)
 ```
 
 @tab Careers & Networking
+
+```card
+title: 위시켓
+desc: IT 프로젝트 고민은 이제 끝. 검증된 11만 프리랜서와 1만 개발회사가 여러분을 기다리고 있습니다. 2시간 내 견적을 받고 최적의 전문가 매칭을 경험해 보세요.
+link: https://www.wishket.com/project/
+logo: https://www.wishket.com/static/renewal/img/global/gnb_wishket.svg
+color: rgba(54,154,194,0.2)
+```
 
 ```card
 title: Remote OK

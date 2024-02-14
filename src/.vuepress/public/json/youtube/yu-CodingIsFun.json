@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/IrUqbwOIciMO9i-fM8P1dLqbVDkSGHZCC6334jjYJQvLCNEINrIW_0JSbnYid17CSAojprGf-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "taeOIEsBeHo", "title": "Streamlit Meets No-Code: Automate with Ease using Zapier, Make, Pabbly Connect…" },
+    { "id": "0G8bjcY4lBM", "title": "Run Python Scripts Daily Online in Just 5 Minutes: Easy Guide" },
+    { "id": "a8KFaqsq6oE", "title": "Make Your Streamlit Apps Look Amazing with Shadcn" },
     { "id": "wxg2eCAG5Yc", "title": "The Best Python Project No-one Talks About" },
     { "id": "Jkct0NXMuFQ", "title": "Build & Deploy a Website in 7 Minutes using Python" },
     { "id": "rfVfNTSqx4M", "title": "Replace your `VLOOKUP`. Use THIS instead!" },

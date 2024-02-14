@@ -14,6 +14,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 
 ---
 
+## OpenAI
+
+- [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+
+---
+
 ## GPT
 
 - [AWS Docs GPT: AI-powered Search & Chat for AWS Documentation](https://www.awsdocsgpt.com)
@@ -244,6 +250,12 @@ tags: ["openai" , "chatgpt", "chat", "llm"]
 ## HelixML
 
 - [How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
+
+---
+
+## Hello.Stranger
+
+[단 한 줄로 노출되는 ChatGPT의 '시스템 프롬프트'](https://maily.so/blackcon/posts/87fe5a59)
 
 ---
 

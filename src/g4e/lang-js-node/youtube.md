@@ -223,5 +223,6 @@ description: 🧶Node.js > 📺Youtube
 <MyYouTubeItems jsonName="yu-mattpocockuk" /><!-- Matt Pocock -->
 <MyYouTubeItems jsonName="yu-ajudmeister" /><!-- Andreas Jud -->
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 하찮은오후 -->
+<MyYouTubeItems jsonName="yu-eddiejaoude" /><!-- Eddie Jaoude -->
 
 <TagLinks />

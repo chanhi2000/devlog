@@ -143,6 +143,12 @@ tags: ["macos", "settings"]
 
 ---
 
+## 512 Pixels
+
+- [Every Default macOS Wallpaper – in Glorious 6K Resolution](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

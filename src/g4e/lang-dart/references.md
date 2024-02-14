@@ -33,9 +33,15 @@ tags: ["dart", "flutter"]
 
 ---
 
-## freecodecamp.ort
+## freecodecamp.org
 
-- [Learn Networking in Flutter By Building a Simple App](https://www.freecodecamp.org/news/learn-networking-in-flutter)
+- [Learn Networking in Flutter By Building a Simple App](https://www.freecodecamp.org/news/learn-networking-in-flutter)[text](https://theonetechnologies.com/blog/post/building-responsive-ui-in-flutter-tips-and-best-practices)
+
+---
+
+## The One Technologies
+
+- [Building Responsive UIs in Flutter: Tips and Best Practices](https://theonetechnologies.com/blog/post/building-responsive-ui-in-flutter-tips-and-best-practices)
 
 ---
 

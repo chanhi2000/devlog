@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/7S-dqLIQ6-00GX4v-ae3jXPNRphp-j6aqdQGwrQIhRjD9Y5umONijN1sIYwK6YYI2CpbSZ9N=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fRnwpnuszNM", "title": "vue3 - reactive" },
+    { "id": "3IRI4QRjBxM", "title": "vue3 - reactive" },
+    { "id": "3FNarBnOuPE", "title": "vue-router" },
+    { "id": "YJx9Qpkie6o", "title": "EC Site 만들기 (뷰3)" },
+    { "id": "PKhTd90bXuk", "title": "8. DOM" },
+    { "id": "zl2WRhrwQIM", "title": "7. kuku" },
+    { "id": "uvqts3kFS08", "title": "10. News App" },
+    { "id": "JCPPg_5orYQ", "title": "9. Movie App" },
     { "id": "iQrl4Baiw8s", "title": "Vue3와 Nuxt3의 Prettier 설정" },
     { "id": "nvX430j8o8Y", "title": "Vue3 Todo앱 만들기" },
     { "id": "2ALGkIhyTAI", "title": "Vue3와 Nuxt3의ESLint 설정" },

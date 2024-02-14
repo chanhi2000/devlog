@@ -971,7 +971,7 @@
     "topics": []
   }, {
     "repo": "anderspitman/awesome-tunneling",
-    "desc": "List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.",
+    "desc": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
     "officialSite": "",
     "topics": ["ngrok", "ngrok-alternative", "self-hosted", "ssh", "tunnel-proxy", "tunneling"]
   }

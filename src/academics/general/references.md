@@ -114,4 +114,10 @@ tags: ["youtube", "tutorial"]
 
 ---
 
+## Quanta Magazine
+
+- [Inside the Proton, the ‘Most Complicated Thing You Could Possibly Imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+
+---
+
 <TagLinks />

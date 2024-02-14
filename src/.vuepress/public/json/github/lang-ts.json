@@ -2198,5 +2198,65 @@
     "desc": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
     "officialSite": "https://gitbutler.com",
     "topics": ["git", "github", "tauri"]
+  }, {
+    "repo": "Pandora-Labs-Org/erc404",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "continuedev/continue",
+    "desc": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+    "officialSite": "https://continue.dev/docs",
+    "topics": ["ai", "chatgpt", "copilot", "developer-tools", "intellij", "jetbrains", "llm", "open-source", "openai", "pycharm", "software-development", "visual-studio-code", "vscode"]
+  }, {
+    "repo": "BCG-X-Official/agentkit",
+    "desc": "Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain",
+    "officialSite": "https://agentkit.infra.x.bcg.com/",
+    "topics": ["fastapi", "full-stack", "genai", "genai-chatbot", "genai-poc", "langchain", "langchain-python", "nextjs", "openai", "react", "starter", "starter-kit", "template", "vercel"]
+  }, {
+    "repo": "adamcohenhillel/ADeus",
+    "desc": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+    "officialSite": "https://docs.adeus.ai/",
+    "topics": ["ai", "open", "open-source-ai", "wear", "wearable", "wearable-devices"]
+  }, {
+    "repo": "Lissy93/personal-security-checklist",
+    "desc": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+    "officialSite": "https://digital-defense.io",
+    "topics": ["awesome", "awesome-list", "censorship", "checklist", "cybersecurity", "defense", "hacktoberfest", "open-source", "privacy", "protection", "security", "security-tools", "surveillance"]
+  }, {
+    "repo": "storybookjs/storybook",
+    "desc": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+    "officialSite": "https://storybook.js.org",
+    "topics": ["angular", "components", "design-systems", "documentation", "ember", "html", "javascript", "react", "react-native", "storybook", "styleguide", "svelte", "testing", "typescript", "ui", "ui-components", "vue", "web-components", "webpack"]
+  }, {
+    "repo": "webdriverio/webdriverio",
+    "desc": "Next-gen browser and mobile automation test framework for Node.js",
+    "officialSite": "http://webdriver.io",
+    "topics": ["automation", "cucumber", "devtools", "jasmine", "javascript", "mocha", "node", "performance", "performance-test", "test", "webdriver", "webdriverio"]
+  }, {
+    "repo": "saurabhnemade/will-you-be-my-valentine",
+    "desc": "A simple application to impress your loved ones on valentines day!!",
+    "officialSite": "https://saurabhnemade.github.io/will-you-be-my-valentine/",
+    "topics": ["ask", "funny", "girlfriend", "love", "valentine", "valentine-day", "valentines-day"]
+  }, {
+    "repo": "reorproject/reor",
+  "desc": "AI note-taking app that runs models locally.",
+    "officialSite": "https://reorproject.org",
+    "topics": ["ai", "evernote", "lancedb", "llama", "llamacpp", "local-first", "markdown", "note-taking", "obsidian", "pkm", "rag", "second-brain", "vector-database"]
+  }, {
+    "repo": "traceloop/openllmetry-js",
+    "desc": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry",
+    "officialSite": "https://www.traceloop.com/openllmetry",
+    "topics": ["datascience", "generative-ai", "javascript", "llmops", "metrics", "ml", "model-monitoring", "monitoring", "nextjs", "observability", "open-source", "opentelemetry", "opentelemetry-javascript", "typescript"]
+  }, {
+    "repo": "Nutlope/notesGPT",
+    "desc": "Record voice notes & transcribe, summarize, and get tasks",
+    "officialSite": "https://usenotesgpt.com",
+    "topics": []
+  }, {
+    "repo": "alireza0/s-ui",
+    "desc": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "officialSite": "",
+    "topics": ["hysteria", "hysteria2", "naive-proxy", "shadowsocks", "shadowtls", "sing-box", "trojan", "tuic", "vless", "vmess"]
   }
 ]

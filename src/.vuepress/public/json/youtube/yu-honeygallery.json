@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "honeygallery",
+    "name": "꿀갤러리",
+    "profile": "https://yt3.googleusercontent.com/qLB1g0MMJoqfiS3mp2utLbKwwG46ArbIAqwBCKT5yg3D6Rsnk0gKFAH8UbpBDSVs6rZtpgRS=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sNsW7cXuaPSICoBb2bupDZ0uHtfXL_DsXYy6_RmnJnZRAxwRYun5uqcwyyZEAQ_VjzUK2tDH2w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dKopgRYJMr8", "title": "반대로하면 좋은 생활꿀팁 3가지" },
+    { "id": "Uc7roa6wSX0", "title": "운전면허 문제집 사지마세요!" }
+  ]
+}

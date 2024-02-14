@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/c3c8tRqMTf640F5eoVLPPOBaOzZP0vpd8FENF4h71bZphDPK58jcmBGkJ-I6GFGoaXWBg4mq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "r2zuL9MW6wc", "title": "Kubernetes Explained in 15 Minutes | Hands On (2024 Edition)" },
+    { "id": "FryJt0Tbt9Q", "title": "Every Developer NEEDS To Know 12-Factor App Principles" },
+    { "id": "B_HR2R3xsnQ", "title": "5 Signs of an Inexperienced Self-Taught Developer (and how to fix)" },
+    { "id": "Satj3v9twEc", "title": "Microsoft Adopts Rust AGAIN For This Major App?" },
+    { "id": "qYXnTZGbPu8", "title": "State of Kubernetes Jobs 2024 | Surprising Findings!" },
     { "id": "npsv_-SKZVA", "title": "DITCH Your VPN, and Adopt THIS Zero-Trust Solution" },
     { "id": "mWWsg2eKxRY", "title": "I’ve Changed My Thinking On Self-Taught Development (...a bit)" },
     { "id": "7aFgeUG9TK4", "title": "you need to build a RUST desktop app!!" },

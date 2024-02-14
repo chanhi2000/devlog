@@ -34,5 +34,10 @@
     "desc": "OpenCore EFI for HP Pavilion Aero 13 - be0006ns Laptop",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "parkle-project/Sparkle",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/6RX7RpVKk6xJk59iJTAAEds6mbc3rwkocQPVCWwGEZ_StvrFL9cB9mxstgy3q5QzZMBhf2b7Dec=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5Yw_PBd-S5A", "title": "Securing Spring Boot Applications With SSL #ssl #springboot #microservices #codefarm" },
+    { "id": "ID7AGJH8Uj0", "title": "Calling REST Services with WebClient | Microservices Communication #springboot #microservices" },
+    { "id": "ibGsmKAAlLU", "title": "WebClient Exception Handling/ Retry /Timeout / Filter / Logging & Debugging #webclient #springboot" },
+    { "id": "pRoJkJ5YbB4", "title": "Getting Started with System Design | System Design Series | Codefarm" },
+    { "id": "H6ml8R3Yf0I", "title": "Different ways to send messages using KafkaTemplate | Kafka Chapter - 2 | #kafka #springboot" },
+    { "id": "DA_JqtEP1aQ", "title": "Spring Boot Autocomplete Support in .properties/.yaml file in IntelliJ IDE | IntelliJ Tips & Tricks" },
+    { "id": "SjquUOrkrNU", "title": "Spring Boot Server Port Quiz #springboot #serverport #quiztime" },
     { "id": "eTBqqtGGRx8", "title": "WebClient in Spring Boot #springboot #codefarm #webclient" },
     { "id": "14jVFPseQKI", "title": "Advanced Kafka Configuration for Specific Usecase || Chapter 1 || Day 10" }, 
     { "id": "z5MyLwf5nVc", "title": "Writing Java Producer Client for Kafka || Chapter 1 || Day 9" }, 

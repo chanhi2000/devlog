@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/cLeRiq17ue28QJpfoNL9fIh2fdfI_85Va-fPHCpiGp_g5HumZSMj_nFy8PIj3K7QLhHNl-cVIOM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h9isIpC4Dls", "title": "MAUI - Syncfusion : Data Visualization : Radial and Funnel Chart" },
+    { "id": "aWRAq2TggYw", "title": "MAUI - Syncfusion : Data Visualization : Pyramid and Radial Guage Charts" },
+    { "id": "SWNQ9ZpTeeg", "title": "MAUI - Syncfusion : Data Visualization : Radial Gauge Charts 2 - Pointers and Annotations" },
+    { "id": "HTFjhYKHnSk", "title": "MAUI - Syncfusion : Data Visualization : Radial Gauge 3 : Working clock sample" },
+    { "id": "F4yS6lFGVz0", "title": "MAUI - Syncfusion : Data Visualization : Linear Gauge Control" },
     { "id": "UMPwtOvUjd0", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 3" },
     { "id": "Zg-jBr4SHNc", "title": "MAUI - Syncfusion : Data Visualization : Circular Charts" },
     { "id": "3wEcn9Uh4BY", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 1" },

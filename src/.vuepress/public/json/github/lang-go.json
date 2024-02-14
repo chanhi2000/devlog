@@ -261,9 +261,9 @@
     "topics": []
   }, {
     "repo": "k8sgpt-ai/k8sgpt",
-    "desc": "Giving Kubernetes SRE superpowers to everyone",
+    "desc": "Giving Kubernetes Superpowers to everyone",
     "officialSite": "http://k8sgpt.ai",
-    "topics": ["kubernetes", "devops", "tooling", "openai", "sre"]
+    "topics": ["ai", "devops", "kubernetes", "llama", "openai", "sre", "tooling"]
   }, {
     "repo": "moul/quicssh",
     "desc": "SSH over QUIC",
@@ -1219,5 +1219,15 @@
     "desc": "Network-wide ads & trackers blocking DNS server",
     "officialSite": "https://adguard.com/adguard-home.html",
     "topics": ["adblock", "adguard", "dns", "dns-over-https", "dns-over-quic", "dns-over-tls", "dnscrypt", "golang", "open-source", "privacy"]
+  }, {
+    "repo": "hyperledger/fabric",
+    "desc": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+    "officialSite": "https://wiki.hyperledger.org/display/fabric",
+    "topics": ["blockchain", "confidentiality", "consensus", "distributed-ledger", "fabric", "hyperledger"]
+  }, {
+    "repo": "mvdan/sh",
+    "desc": "A shell parser, formatter, and interpreter with bash support; includes shfmt",
+    "officialSite": "https://pkg.go.dev/mvdan.cc/sh/v3",
+    "topics": ["bash", "beautify", "formatter", "go", "interpreter", "mksh", "parser", "posix", "shell", "shfmt"]
   }
 ]
