@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "cc_xmawJ8Kg", "title": "React Hook Form - Complete Tutorial (with Zod)" },
+    { "id": "3RvGXNcR1YE", "title": "Sequence Diagrams for React applications" },
+    { "id": "tLPi3SPqUSE", "title": "Single Responsibility Principle in React (Design Patterns)" },
+    { "id": "eFPvXGZETiY", "title": "Custom Protected Route Component in React" },
+    { "id": "oTIJunBa6MA", "title": "React Router - Complete Tutorial" },
+    { "id": "EH2I1g0Sehc", "title": "How to correctly style your React components" },
+    { "id": "CMFCO8DHeww", "title": "Why Did They Do This?! (Code Review)" },
+    { "id": "FsX4FIrocyQ", "title": "Interesting bug in React" },
+    { "id": "cnoM8scJZ98", "title": "Converting JSX to TSX in React" },
+    { "id": "I2Bgi0Qcdvc", "title": "Custom Hooks in React (Design Patterns)" },
     { "id": "b__iJhc_Ads", "title": "Use AI to visualise React components" },
     { "id": "VAYq2sXjj9g", "title": "I can't believe I wrote this! - Code Review" },
     { "id": "xAT47gcoMNs", "title": "The problem with `useEffect`" },

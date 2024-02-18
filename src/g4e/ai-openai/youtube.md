@@ -74,5 +74,8 @@ tags: ["youtube", "tutorial", "openai" , "chatgpt", "chat", "llm", "@aiacademy13
 <MyYouTubeItems jsonName="yu-aiadvantage" /><!-- The AI Advantage -->
 <MyYouTubeItems jsonName="yu-eddie_the_traveler" /><!-- 에디의 개발 여행기 -->
 <MyYouTubeItems jsonName="yu-toshvelaga" /><!-- Tosh Velaga -->
+<MyYouTubeItems jsonName="yu-Buff_RnBD" /><!-- 버프 -->
+<MyYouTubeItems jsonName="yu-DavidOndrej" /> <!-- David Ondrej -->
+<MyYouTubeItems jsonName="yu-mreflow" /><!-- Matt Wolfe -->
 
 <TagLinks />

@@ -6,6 +6,21 @@
     "banner": "https://yt3.googleusercontent.com/gNwc653OryxEg5Fq9VF-1pXzXzjRdfeiO3tmdG87tcPyurCXMo8U0ZRy8HdLnEkLvIRywJa_Sg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Oe19eDSLaJo", "title": "Locofy Lightning | Tagging [Doc]" },
+    { "id": "vmwxAUNh2Zs", "title": "Locofy Lightning | Working with Responsiveness [Doc]" },
+    { "id": "CWjDTaLGY9s", "title": "Locofy Lightning | Actions for Enhanced User Experience [Doc]" },
+    { "id": "h17WFIpu5AA", "title": "Locofy Lightning| Better Layer Names for Easier Readability [Doc]" },
+    { "id": "4m4TuCiv1WA", "title": "Locofy Lightning | Code Components for Better Code Quality [Doc]" },
+    { "id": "gZ2gFKushZo", "title": "Locofy Lightning | Design Optimiser [Doc]" },
+    { "id": "WyWkf_5472o", "title": "Introducing Locofy Lightning - Design to Code in 1-click, powered by LocoAI" },
+    { "id": "FCEFRjKyQGo", "title": "Locofy Lightning | Building a Real Estate Landing Page with Locofy.ai [Full-Build]" },
+    { "id": "rjBlAYLfgt8", "title": "Locofy Lightning | Adding Lotties to your projects [Tips & Tricks]" },
+    { "id": "DiNhsHKxihg", "title": "Locofy Lightning | Adding pre-built animations in Locofy.ai [Tips & Tricks]" },
+    { "id": "hXbST2tyfto", "title": "Locofy Lightning | Adding Google Maps [Tips & Tricks]" },
+    { "id": "F-LWFqsi_CU", "title": "Locofy Lightning | Adding Scroll View [Tips & Tricks]" },
+    { "id": "WxkJgTBFxtA", "title": "Locofy Lightning | Create or Edit Components & Props [Tips & Tricks]" },
+    { "id": "xqmcCMAYwf4", "title": "Locofy Lightning | Tagging an input [Tips & Tricks]" },
+    { "id": "woZ13lCJWCw", "title": "Locofy Lightning | Tagging your links [Tips & Tricks]" },
     { "id": "uOry3YYrZvo", "title": "Locofy.ai v7.7.0: Support for Figma variables & Vuetify" }
   ]
 }

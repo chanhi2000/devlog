@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/wcxSHA01k4atHxJe4UrxzjnSMmHbgIOBLNVP1KR_fNFxH4sQBmG3oi0srFWjLh0lwIPK404AJQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "a9ardBW9GwU", "title": "CSS Animated Ring Portal like Marvel's DS | Doctor Strange's Portal Effect using CSS variable(--x)" },
+    { "id": "ObQM1XPu7wY", "title": "Vertical Navbar with Paper Fold Effects In HTML CSS & JS | CSS Fold Effect Navigation Bar" },
+    { "id": "WZSfckOgJXE", "title": "CSS GEARS! Type Loader Animation | How to Create Loader spinner in HTML & CSS" },
     { "id": "1u-ol271d7Q", "title": "2 Types of Border Animations on HOVER! | Quick CSS - Animated Border Cards" },
     { "id": "onHw1cTvpfc", "title": "Create Responsive Footer Section using HTML  And CSS" }
   ]

@@ -29,5 +29,6 @@ tags: ["youtube", "tutorial"]
 <MyYouTubeItems jsonName="yu-selpain" /><!-- 셀파컴퓨터회계학원 -->
 <MyYouTubeItems jsonName="yu-onlineMathsTV" /><!-- OnlineMaths TV -->
 <MyYouTubeItems jsonName="yu-EPASSKOREA" /><!-- EPASSKOREA -->
+<MyYouTubeItems jsonName="yu-AndyMath" /><!-- Andy Math -->
 
 <TagLinks />

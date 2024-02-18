@@ -319,4 +319,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Adasm Obeng
+
+- [`wddbfs` – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
+
+---
+
 <TagLinks />

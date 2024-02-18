@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/7rZoCcYJe2T_8eBMkMdDfqNZvZCYLmduiINgjARGAGXQ--COzFlR-6H-3RB6dHNcOxQZlRNoHw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Cg_mG8Y2zSc", "title": "Pull Requests with Git & @GitHub  — Course part 5" },
+    { "id": "NFD2tcjUJ8E", "title": "Revert a commit with Git & @GitHub  — Course part 7" },
+    { "id": "RFr39nQbB_4", "title": "Conflicts with Git & @GitHub  — Course part 8" },
+    { "id": "IXeQqshzrFI", "title": "Issues with Git & @GitHub  — Course part 9" },
+    { "id": "YCQQh6cq1tA", "title": "Learn Git & @GitHub — Full course for beginners [2024]" },
+    { "id": "jdLsQEZ_H4o", "title": "Get Started with NextJS 14 & @shadcn UI — Course part 1" },
+    { "id": "ydPpcR85UCg", "title": "Sidebar with NextJS 14 & @shadcn UI — Course part 2" },
+    { "id": "mju7e6Cf6Nk", "title": "Sidebar menu with NextJS 14 & @shadcn UI — Course part 3" },
+    { "id": "6aoi2j_izP8", "title": "Commandbar with NextJS 14 & @shadcn UI — Course part 4" },
+    { "id": "bdcg9DtTR0k", "title": "Menu dropdown with NextJS 14 & @shadcn UI — Course part 5" },
+    { "id": "eIRqGui1vQc", "title": "Charts with NextJS 14 & @shadcn UI — Course part 6" },
     { "id": "mpXkCv1-b9A", "title": "Hooks with Nextjs 14 & @Supabase — Course part 7" },
     { "id": "fpSVfK7ius8", "title": "Sessions with Nextjs 14 & @Supabase — Course part 6" },
     { "id": "7FemRsuDdGg", "title": "Reset password with Nextjs 14 & @Supabase — Course part 5" },

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "mreflow",
+    "name": "Matt Wolfe",
+    "profile": "https://yt3.googleusercontent.com/po8MdRNWZmm3xxFL8Iup_FPFXgzzsi_fAzSiGC3RVq0_pYsBV0Oe9jGj37t0yostfFYF3Qe04w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WNfC11k4gSaAVkXgvdXdFQVDtvdmpijv6Xcm_iaGfQmQ5Q_jYdF_0cH3YpmPozElfsghJHXr=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l7fSX2ss1gA", "title": "15 Custom GPTS That Will Change How You Work!" },
+    { "id": "u5I41tUm5RQ", "title": "AI Images With YOUR Face! (New FREE & Easy Method)" },
+    { "id": "EsISZ3KWY44", "title": "This Will Change How You Use ChatGPT Forever!" },
+    { "id": "PSB_QQTp0GU", "title": "AI News: GPT-4-Level Open Source, New Image Models, Neuralink (And More)" },
+    { "id": "yr_OAkGIG7k", "title": "Gemini Ultra is Here! (Google's \"ChatGPT Killer\")" },
+    { "id": "d5W5tRaImJA", "title": "Microsoft Copilot Pro (An HONEST Review)" },
+    { "id": "UgM-z2q3Xe0", "title": "How To Make Professional Logos with AI (For Free)" },
+    { "id": "ne7_PDthIYA", "title": "The Most Insane Week of AI News So Far This Year!" }
+  ]
+}

@@ -88,5 +88,13 @@ meta:
 <MyYouTubeItems jsonName="yu-honeygallery" /><!-- 꿀갤러리 -->
 <MyYouTubeItems jsonName="yu-Infpreview" /><!-- 인프피리뷰 -->
 <MyYouTubeItems jsonName="yu-SPARTAIT" /><!-- 스파르타 IT연구소 -->
+<MyYouTubeItems jsonName="yu-KOOZAKitchen" /><!-- 쿠자의주방 KOOZA-Kitchen -->
+<MyYouTubeItems jsonName="yu-user-kz3ny3gu8x" /><!-- 인간심지호 -->
+<MyYouTubeItems jsonName="yu-bbocute_main" /><!-- 뽀큐트 -->
+<MyYouTubeItems jsonName="yu-KkukTV" /><!-- 꾹TV(Kkuk TV) -->
+<MyYouTubeItems jsonName="yu-korea.decoration" /><!-- 생각하는 개미도배 -->
+<MyYouTubeItems jsonName="yu-lifetips3695" /><!-- 생활속꿀팁 -->
+<MyYouTubeItems jsonName="yu-pltechkorea" /><!-- 피엘테크 -->
+<MyYouTubeItems jsonName="yu-rala" /><!-- 랄라의살림기록 -->
 
 <TagLinks />

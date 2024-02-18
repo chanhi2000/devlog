@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "uTqnOi0hnPU", "title": "Self host Mixtral-8x7B MoE LLM on Mac+cross devices, 2MB AI inference app fully portable" },
+    { "id": "ryyzJLYzkN0", "title": "Self-host StableLM-2-Zephyr-1.6B. Portable across GPUs CPUs OSes" },
+    { "id": "-bCTkwvMzw8", "title": "Mewz Introduction – Saza & AiNozaki  #wasm #wasi #webassembly" },
     { "id": "W0lxK2w0qCU", "title": "Easy Setup! Self-host Mixtral-8x7B across devices with a 2M inference app" },
     { "id": "aMYQ95XRr94", "title": "WasmEdge Community Meeting #26 Run Mixtral on Mac demo; WasmEdge LLM support; Wasm@LangChain" },
     { "id": "NJ89T5mO25Y", "title": "Run dolphin-2.2-yi-34b on IoT Devices (Also works as a Private OpenAI API Server)" },

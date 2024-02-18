@@ -1949,5 +1949,10 @@
     "desc": "A quick way to gather all the metadata about a video, playlist, or channel from the YouTube API.",
     "officialSite": "https://mattw.io/youtube-metadata/",
     "topics": ["javascript", "osint", "osint-tool", "website", "youtube", "youtube-api-v3", "youtube-data", "youtube-data-analysis", "youtube-data-scraping", "youtube-metadata"]
+  }, {
+    "repo": "zed-industries/extensions",
+    "desc": "Extensions for the Zed editor",
+    "officialSite": "",
+    "topics": []
   }
 ]

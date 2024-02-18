@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/LzVrUGfbic7LOYhPOY9tqkFfpkHLijJ3MRvex6mkR_YGy33PPyf9TOfsrLH7coK5aR0TUUhA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uNPB8jKcxuk", "title": "WikiChat: Build a real-time RAG app on Wikipedia with LangChain.js, Vercel, and Astra DB" },
+    { "id": "q2AxKzjM9vg", "title": "DataStax Astra DB Vector Experience" },
     { "id": "_3g1_cOZPCc", "title": "Build Production Gen AI Chat with Vertex ai, LangChain and Astra DB Vector Search" },
     { "id": "rtnzovShrJc", "title": "An Introduction to using LangChain with Astra DB" },
     { "id": "nKFmU_c0aIA", "title": "Introducing the Astra Assistants API" },

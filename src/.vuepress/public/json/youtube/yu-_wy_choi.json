@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/D9wKnDRiUVzXE5dQXLW3la3mrvjdG53BydaY9tnOQgc40h8Gg_zzNrfMRvLe7yHRxdOdwEE_jQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9S7m7kNRNzw", "title": "1강_증권사에서 사물함 열쇠 받아오기(API)" },
+    { "id": "hFdpuKbptxw", "title": "2강_투자 자동화 계속 하실거라면, 정말 조심하셔야 합니다(보안 데이터)" },
     { "id": "0ZTBiwCyMCs", "title": "[파이썬_3시간] GPT가 적는 코드를 이해할 수 있는 코딩 강의_'세상이 바뀌었는데 왜 코딩은 그대로야?'" },
     { "id": "ENX6VSCad0Y", "title": "1강_세상이 바뀌었는데 왜 코딩은 그대로야? [GPT 파이썬 무료강의]" },
     { "id": "O1cXpOhpUTc", "title": "2강_당신의 파이썬 공부가 잘못된 이유 [GPT 파이썬 무료강의]" },

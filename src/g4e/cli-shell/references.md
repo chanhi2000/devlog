@@ -27,6 +27,12 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 
 ---
 
+## suckless
+
+- [`sent`: Simple plaintext presentation tool.](https://tools.suckless.org/sent/)
+
+---
+
 ## nixCraft
 
 - [Route 53 Let’s Encrypt wildcard certificate with `acme.sh`](https://www.cyberciti.biz/faq/route-53-lets-encrypt-wildcard-certificate-with-acme-sh/)

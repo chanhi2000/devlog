@@ -780,6 +780,15 @@ export const sidebarEn: SidebarConfig = {
         '/academics/MATH011/lect01.md',
       ]
     }, {
+      text: 'COEN020',
+      collapsible: true,
+      children: [
+        '/academics/COEN020/README.md',
+        '/academics/COEN020/read01a.md',
+        '/academics/COEN020/read01b.md',
+        '/academics/COEN020/read01c.md',
+      ]
+    }, {
       text: 'PHYS034',
       collapsible: true,
       children: [

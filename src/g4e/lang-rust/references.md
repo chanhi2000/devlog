@@ -162,6 +162,7 @@ tags: ["rust" , "rs", "rust-lang"]
 ## Graham King
 
 - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
+- [A very small Rust binary indeed](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
 
 ---
 

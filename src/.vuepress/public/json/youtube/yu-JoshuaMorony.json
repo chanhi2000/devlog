@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/WqVfhl_ie7eMUyA1Li-vipm5YXNOTA7g1m_Y0teN5y4Y6qsMxsXAsLV48z8-k0kmTPlYSL89-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HWe5qaXKsLY", "title": "Why signal INPUTS in Angular are such a big deal" },
+    { "id": "Sv3LXGWKw6Q", "title": "Should this be the future of Angular applications?" },
+    { "id": "cxoew5rmwFM", "title": "SIGNALS can make Angular \"REACTIVE\" forms more reactive" },
+    { "id": "H6fQB9hMUCU", "title": "Watch this BEFORE updating to signal inputs in Angular" },
+    { "id": "6CGtwF_5kzY", "title": "A cautionary tale about ChatGPT for advanced developers" },
     { "id": "C-UOmVfzBbw", "title": "The inject function in Angular is not just a toy" },
     { "id": "o6novBbaHis", "title": "Things are getting serious with AnalogJS (Angular SSG)" },
     { "id": "ZFXdkwymw38", "title": "A \"simplified\" approach to Angular components?" },

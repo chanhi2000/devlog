@@ -1,11 +1,12 @@
 {
   "channel": {
     "id": "user-ht2jq8bg9b",
-    "name": "이숭무",
+    "name": "이숭무 샘",
     "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb1scBgqU398tRcOCTdkX9xe2OLPFtVYdR9V2JOOTPtIA=s176-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
+    { "id": "oQRIPJTfOhA", "title": "spring_boot와 mongdb를 이용한 게시판 CRUD" },
     { "id": "BOt0NVm0V3Y", "title": "[JSP 모델2] 18강. 쇼핑몰 만들기  -  구매 목록에서 결제하기 , 결제 취소, 상품상세보기에서 바로구매" },
     { "id": "7j1abOJGflQ", "title": "[JSP 모델2] 21강. 쇼핑몰 만들기 - 제품 상세 설명를 클릭하면 제품정보가, 리뷰를 클릭하면 리뷰정보가, 상품문의..." },
     { "id": "h8DBfvKXxR4", "title": "[JSP 모델2] 20강. 쇼핑몰 만들기 - 사용자가 구매확정하고 후기 작성 수정하기" },

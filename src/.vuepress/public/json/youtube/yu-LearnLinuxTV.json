@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/iGdDIcKrLXMkmZifgB-BeKpRhqIsq2FvtxIhuel3M8FUIPIjQrYbFtOAa9BkQs_ntiXWvQn8NA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Mk9xeDoo7CU", "title": "Netdata's Awesome New Feature: Systemd Journal Support Explained!" },
+    { "id": "2RHhabUiRjk", "title": "What's New in ThinLinc? A Discussion with Pierre Ossman from Cendio" },
+    { "id": "FxeriGuJKTM", "title": "How to Install Arch Linux: A Comprehensive Step-by-Step Guide" },
+    { "id": "jNo4GnM84Xc", "title": "Enterprise Linux Security Episode 82 - In the name of the Law" },
     { "id": "ysUwmjrXG2M", "title": "Understanding Variables on the Linux Command-Line" },
     { "id": "VjZKvkZQm1U", "title": "Linux Process Tuning Made Easy: Understanding nice and renice" },
     { "id": "AvGv2PmBwqA", "title": "Your Linux Career: 10 Tips to Make Learning Easier" },

@@ -99,6 +99,11 @@
     "desc": "Free Data Engineering course!",
     "officialSite": "",
     "topics": ["data-engineering", "dbt", "docker", "kafka", "prefect", "spark"]
+  }, {
+    "repo": "dair-ai/ML-YouTube-Courses",
+    "desc": "📺 Discover the latest machine learning / AI courses on YouTube.",
+    "officialSite": "",
+    "topics": ["ai", "data-science", "deep-learning", "machine-learning", "natural-language-processing", "nlp"]
   }
 ]
 

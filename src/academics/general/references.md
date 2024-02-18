@@ -28,6 +28,10 @@ tags: ["youtube", "tutorial"]
 
 - [Can tin foil hats block anything?](https://physics.stackexchange.com/questions/208516/can-tin-foil-hats-block-anything)
 
+### Statistics
+
+- [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
+
 ---
 
 ## Andrew Chan

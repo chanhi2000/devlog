@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/pHXDa82R6O1ni_s7gslBsU6qjZtoQJczJckFdRfd_1OgCIV0CcouWMaRi5vBbh8o7JP9Svdj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-TaQ7_NHJgc", "title": "Kubernetes Cluster - Join Workers into the Cluster - Kubernetes Training" },
+    { "id": "ojLnASJv41M", "title": "Kubernetes Cluster - Bootstrap cluster - Initialize Kubernetes Control Plane - Kubernetes Training" },
+    { "id": "4Fi94KhsDB8", "title": "Kubernetes Cluster Setup - Installing Packages on Kubernetes Manager - CKA Training - Kubernetes" },
+    { "id": "KC9ePHlnc7U", "title": "Kubernetes Cluster - Checking proxy for apt (package manager) access" },
+    { "id": "IA7HZM1B57I", "title": "Kubernetes Cluster - Checking Network Connectivity" },
+    { "id": "cDeOO-cu_f4", "title": "Configuring Squid for Kubernetes Cluster" },
+    { "id": "DwLr-zmBq1A", "title": "Installing Squid Server for Kubernetes Cluster Access to Internet" },
+    { "id": "ThbhNnxaaOY", "title": "Kubernetes Cluster Setup: Different Approaches - How to setup kubernetes cluster in production" },
     { "id": "DA6zQBlBs7Q", "title": "Validate Kubernetes YAML-Check kubernetes yaml & solve compliance issues with Polaris" },
     { "id": "n08Ii86aFMU", "title": "Kubernetes Priority Classes - Best way to guarantee resources to critical applications in production" }, 
     { "id": "y_dId6drpsw", "title": "Kubernetes Pod Priority Classes - Best way to run critical applications in production" }, 

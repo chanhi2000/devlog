@@ -104,5 +104,10 @@
     "desc": "The OS for your personal finances",
     "officialSite": "https://maybe.co",
     "topics": ["finance", "hotwire", "personal-finance", "postgresql", "ruby", "ruby-on-rails", "stimulusjs", "turbo"]
+  }, {
+    "repo": "julienbourdeau/debugbar",
+    "desc": "",
+    "officialSite": "https://debugbar.dev",
+    "topics": ["development", "devtools", "rails", "ruby", "ruby-on-rails", "tooling"]
   }
 ]

@@ -40,7 +40,21 @@ export const navbarEn: NavbarConfig = [
         ]
       }, {
         text: 'COEN020',
-        children: [],
+        children: [
+          {
+            text: 'Intro',
+            link: '/academics/COEN020/README.md'
+          }, {
+            text: 'Read 01a',
+            link: '/academics/COEN020/read01a.md'
+          }, {
+            text: 'Read 01b',
+            link: '/academics/COEN020/read01b.md'
+          }, {
+            text: 'Read 01c',
+            link: '/academics/COEN020/read01c.md'
+          }
+        ],
       }, {
         text: 'PHYS034',
         link: '/academics/PHYS034/README.md'

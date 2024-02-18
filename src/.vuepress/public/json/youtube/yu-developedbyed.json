@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/71AwzsBmWpjQR8PPhb8e8I0eF0qEgRAZDZuDkxXzUyGA8mQ-ZubpXQ0le1jquOFbuPe9-XgIkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UKupfEuUc1M", "title": "Next.js 14 - Server Actions TUTORIAL | Type Safety, Error Handling, Pending States" },
+    { "id": "3ocq83df9m0", "title": "This Animation Tool Will Change Web Development" },
+    { "id": "9kjc6SWxBIA", "title": "Why I Still Use React Query with Next 14" },
+    { "id": "98v05b-u2OE", "title": "Why I Pick ShadCN and Tailwind for all my projects" },
+    { "id": "uvSMh0lQAQY", "title": "This Magnetic Nav Link Animation Is Sick!! | Nextjs 14, Framer Motion Tutorial" },
+    { "id": "S7Fxc2XVIFA", "title": "Nextjs 14 Rate Limiting Tutorial | Upstash Drizzle Server Actions" },
     { "id": "3ocq83df9m0", "title": "This Animation Tool Will Change Web Development" },
     { "id": "wQMB-_VbWu4", "title": "Build A 3D Interactive React Website in 15 Minutes" },
     { "id": "i7lU6v_RejM", "title": "A Guide To ARIA and HTML" },

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "AndyMath",
+    "name": "Andy Math",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQZyR_5yDkBkEr-6NUWUQe8VL6GQz0QJ9zc4wq0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RiUcQAv7aV57EoOgxcPVfybTREWCD_AiPeRyZD2CXdc4eu0Hc2R5k0idNJmX7oy35pWJzjDi=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-HF7ov8In6Y", "title": "Solve for x" },
+    { "id": "MUNQh0oY2hw", "title": "Fun Geometrical Puzzle" },
+    { "id": "XswsrgTQAWI", "title": "Cubic Formula Part 2" },
+    { "id": "AGAVAKk6DRg", "title": "Cubic Formula Part 1" },
+    { "id": "qOOnBTaHG_Q", "title": "2 Circles 1 Square" },
+    { "id": "mMvqnLT3WQs", "title": "Some Nice Math" },
+    { "id": "BBLwSSVaXWo", "title": "Why can you move the exponent in logarithms?" },
+    { "id": "dBNyK4EYZ6A", "title": "Exponential Drop the Base" },
+    { "id": "ZYdVSDH3DYA", "title": "Bridge Optimization Question" },
+    { "id": "dxmm__4p-I8", "title": "Surprise Ending to this Puzzle" },
+    { "id": "Sa0XGdtBAog", "title": "Cheating with Technology" },
+    { "id": "aHC2ItjGJuE", "title": "Would Quadratic Formula Work?" }
+  ]
+}

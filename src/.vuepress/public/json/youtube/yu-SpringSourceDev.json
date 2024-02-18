@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/FQS_lysIGW5MmkQB8lBaWVJCWfUnuLUaIgg6nJDp7i6J_om4-iANSAPa527xY8seM8k69EIvBQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rt_cUtb8LnQ", "title": "Spring Tips: DataSources" },
+    { "id": "FWJ3IzQp0fk", "title": "Spring Tips: CQRS and Axon Framework" },
+    { "id": "nd5JzDIEI6A", "title": "Spring Office Hours S3E4 - Common Spring Developer Mistakes" },
+    { "id": "aNKDoiOUo9M", "title": "Spring Tips: Spring AI" },
+    { "id": "C1ujgyu4NWA", "title": "Spring Office Hours: S3E5 - Distributed Applications with Spring Cloud" },
+    { "id": "mOLfjfPm8u8", "title": "Spring Tips: Spring Boot Testjars" },
+    { "id": "FK3ZnxfNHkQ", "title": "Spring Office Hours: S3E6 - Spring Boot Testing with Phillip Riecks" },
+    { "id": "FK3ZnxfNHkQ", "title": "Spring Office Hours: S3E6 - Spring Boot Testing with Phillip Riecks" },
+    { "id": "Yh8t04NG_K4", "title": "Spring Tips: The Spring Authorization Server" },
     { "id": "2I7oDw3MqF4", "title": "Migrate your Spring Apps with Ease with OpenRewrite" },
     { "id": "5YdjBWSGtbE", "title": "Spring Tips: Spring's Application Event Subsystem" },
     { "id": "lpJRW45v5qQ", "title": "Spring Office Hours: S3E2 - Developer Advocates" },

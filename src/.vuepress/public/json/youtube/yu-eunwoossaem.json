@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "eunwoossaem",
+    "name": "은우쌤",
+    "profile": "https://yt3.googleusercontent.com/VFs5_cmw0ToWM14f04asjO83KlAcfoFpFijes5PT5yMLyiX678ow23cvo2ne3Q9YweNRVtNS=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uZyFsaD5w1IPLr6il62E-tAETs2vsyZ7fuRm0HrfwKJSrJzMHcIkIUQpMmz6Vu-j41krEQHycg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cCz-hzW8IX8", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석(이진수 변환 프로그램)" },
+    { "id": "QwJh5SEv7vg", "title": "[정보처리기사 실기] C언어 코딩 예상문제 분석 (문자열 포인터 출력)" },
+    { "id": "mWV4CCRs1qc", "title": "[정보처리기사 실기] C언어 코딩 예상문제 분석(함수 호출과 반환)" },
+    { "id": "oTMn1U8X7TA", "title": "[정보처리기사 실기] C언어 코딩 예상문제 분석(포인터 연산)" },
+    { "id": "FomXCPJrFzg", "title": "[정보처리기사 실기] C언어 코딩 예상문제 분석 (구조체와 포인터)" },
+    { "id": "P07hmXhKy6M", "title": "[정보처리기사 실기] 자바 코딩 예상문제 (다형성을 구현한 함수 호출)" },
+    { "id": "7DebQ3NKPRk", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석 (배열을 이용한 값 누적)" },
+    { "id": "9xWyt2Mox5Q", "title": "[정보처리기사 실기] 자바 코딩 예상문제 (다형성과 함수 호출)" },
+    { "id": "t8MEAAtpYqI", "title": "[정보처리기사 실기] C언어 코딩 예상문제 (함수를 이용한 지수 구하기)" },
+    { "id": "hymRmqUpPFg", "title": "[정보처리기사 실기] 자바 코딩 예상문제 (메서드를 이용한 계산)" },
+    { "id": "AzkQxRmNlcM", "title": "[정보처리기사 실기] C언어 코딩 예상문제  분석 (구조체, for와 while 반복문)" },
+    { "id": "FI9yqcwtW3g", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석(2차원 배열의 출력)" },
+    { "id": "ZED903GthUc", "title": "[정보처리기사 실기] C언어 코딩 예상문제 (버블정렬)" },
+    { "id": "0wJOmgoM9Hg", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석(다형성과 재귀함수)" },
+    { "id": "0AaLOdfj0dg", "title": "[정보처리기사 실기] C언어 코딩 예상문제 분석 (배열 첨자의 연산)" },
+    { "id": "1cIrlK5w_eY", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석 (짝수의 합 구하기)" },
+    { "id": "7CAdb-0p0k4", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석 (다형성을 구현한 함수 호출)" },
+    { "id": "T6dgvKASTLY", "title": "[정보처리기사 실기] 파이썬 코딩 예상문제 분석(객체와 문자열 연산)" },
+    { "id": "Wy2ptGUTX0U", "title": "[정보처리기사 실기] C언어 코딩 예상문제 분석 (함수를 이용한 지수 구하기)" },
+    { "id": "xBuC5DZy0QM", "title": "[정보처리기사 실기] C언어 코딩 예상문제 (포인터 기준 배열 접근)" },
+    { "id": "FT_i1E_ain4", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석(다차원 배열의 출력)" },
+    { "id": "NC-HqNnZiNQ", "title": "[정보처리기사 필기] 4과목 파이썬 예상문제 (클래스와 메서드)" },
+    { "id": "pdI0vfUo6Hc", "title": "[정보처리기사 실기] 자바 코딩 예상문제 (배열과 if-else if 조건문)" },
+    { "id": "bvynmOR9wMU", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석 (메서드를 이용한 계산)" },
+    { "id": "BmLZQ6xDjOY", "title": "[정보처리기사 실기] 자바 코딩 예상문제 분석(반복문을 이용한 곱셈 연산)" },
+    { "id": "rj4k3cD9Krg", "title": "[정보처리기사 실기] 자바 코딩 예상문제 (예외 처리)" },
+    { "id": "YnJTkYXVwCg", "title": "[정보처리기사 실기] C언어 코딩 예상문제 분석(버블정렬)" },
+    { "id": "ugtCnrQoaYg", "title": "[정보처리기사 필기] 4과목 자바 예상문제 (삼항연산자)" },
+    { "id": "O4jH52Sj5ig", "title": "[정보처리기사 실기] C언어 코딩 예상문제 (배열과 포인터, 문자열 함수)" }
+  ]
+}

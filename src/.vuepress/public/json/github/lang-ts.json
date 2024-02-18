@@ -2258,5 +2258,20 @@
     "desc": "An advanced Web Panel • Built for SagerNet/Sing-Box",
     "officialSite": "",
     "topics": ["hysteria", "hysteria2", "naive-proxy", "shadowsocks", "shadowtls", "sing-box", "trojan", "tuic", "vless", "vmess"]
+  }, {
+    "repo": "adrianhajdin/ai_saas_app",
+    "desc": "Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.",
+    "officialSite": "https://jsmastery.pro",
+    "topics": ["clerk", "cloudinary", "next14", "nextjs", "saas"]
+  }, {
+    "repo": "nicoalbanese/kirimase",
+    "desc": "Build full-stack Next.js apps, incredibly fast",
+    "officialSite": "https://kirimase.dev",
+    "topics": ["authjs", "clerk", "cli", "drizzle", "drizzleorm", "lucia-auth", "nextauth", "nextjs", "nextjs13", "prisma", "rails", "resend", "shadcn", "shadcn-ui"]
+  }, {
+    "repo": "raidendotai/openv0",
+    "desc": "AI generated UI components",
+    "officialSite": "",
+    "topics": ["ai", "generative", "javascript", "react", "tailwind", "typescript", "ui"]
   }
 ]

@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/_2yJlN6rNRa30qfFamUS-EujV2D73JZHQwgPeCMCPSxmlpiDvcizvOjuG_irlFOVxDh_5ohk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_GcQYrZKM5Q", "title": "Jem Young - Senior Developer to Engineering Manager at Netflix | The Frontend Masters Podcast Ep.8" },
+    { "id": "d_45NhWGht0", "title": "Engineering Management Fundamentals with Jem Young | Preview" },
+    { "id": "dWxcw2R0gZs", "title": "Blazingly Fast JavaScript with ThePrimeagen | Preview" },
+    { "id": "DsP9bH7HHh4", "title": "The Last Algorithms Course You'll Want (Part 2) with ThePrimeagen | Preview" },
+    { "id": "JgektttRj8Q", "title": "Mark Techson - From Chicago to the Angular Team @ Google | The Frontend Masters Podcast Ep.10" },
+    { "id": "nZTTGQD7FN0", "title": "Angular 17+ Fundamentals with Mark Techson | Preview" },
+    { "id": "83ogcfT6oqk", "title": "Anjana Vakil - Philosophy, Humanity and Computer Science | The Frontend Masters Podcast Ep.11" },
+    { "id": "ddmpHDvqELM", "title": "Vanilla JavaScript Projects with Anjana Vakil | Preview" },
     { "id": "YD7hhT9-Cro", "title": "TailwindCSS with Steve Kinney | Preview" },
     { "id": "cN7qzhx3aFY", "title": "Vite with Steve Kinney | Preview" },
     { "id": "97uPBhwEjLw", "title": "Intermediate TypeScript, v2 with Mike North | Preview" },

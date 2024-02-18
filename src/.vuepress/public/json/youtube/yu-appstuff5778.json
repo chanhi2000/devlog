@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "v8pgexLeEEA", "title": "🔴 Enums in Swift| Intermediate & Advanced Fundamentals" },
+    { "id": "1GN7Yayqk_8", "title": "🔴 NEW COURSE | Intermediate & Advanced Fundamentals with Swift" },
+    { "id": "rqNOO77Um2M", "title": "🔴 Protocols in Swift | Intermediate & Advanced Fundamentals" },
+    { "id": "5T6ft6B5ZtA", "title": "🔴 Building A Professional Side Menu with SwiftUI" },
+    { "id": "lsGGz5XWWLk", "title": "🔴 S.O.L.I.D Architecture With Swift  From an Ex-Meta Engineer" },
+    { "id": "8DXK4CXEV_E", "title": "Should you go with SwiftUI or UIKit for you next app?" },
+    { "id": "QgALDMbcd6s", "title": "🔴 Building A  Passcode Lock Screen with SwiftUI" },
     { "id": "r-JSmVPP-1Y", "title": "🔴 Stacks in SwiftUI | Module 4 | App Developer Bootcamp" },
     { "id": "jod5w98K5FI", "title": "🔴 Images in SwiftUI | Module 3 | App Developer Bootcamp" },
     { "id": "NEQCEl0Rhl0", "title": "🔴 Shapes in SwiftUI | Module 2 | App Developer Bootcamp" },

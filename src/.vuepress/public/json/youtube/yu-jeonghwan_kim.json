@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ocuA9Dc5_2U", "title": "HTTP 클라이언트 자바스크립트 라이브러리 비교 (XHR 기반). SuperAgent, Axios" },
+    { "id": "2Mmh6cETKZQ", "title": "Fetch 기반 HTTP 클라이언트 자바스크립트 라이브러리 비교. Ky, Wretch" },
+    { "id": "I4ERQ986_M0", "title": "시간 기반 캐싱을 위한 헤더. Last-Modified, If-Modified-Since" },
+    { "id": "0Oqv7q91Mb0", "title": "내용 기반 캐싱을 위한 헤더. ETag, If-None-Match" },
     { "id": "HF4twC0xf54", "title": "왜 fetch 함수는 프라미스를 두 번 사용할까?  | 자바스크립트 fetch 사용법" },
     { "id": "aYNrHsf36Ww", "title": "HTTP 진행율은 어떻게 계산할수 있나요? | 자바스크립트 fetch 사용법" },
     { "id": "zA_YAuwPrcA", "title": "서버 자원을 보호하기 위한 서버와 브라우져 간의 약속, CORS" }

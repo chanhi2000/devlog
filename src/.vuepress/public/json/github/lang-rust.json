@@ -1074,5 +1074,10 @@
     "desc": "A smarter cd command. Supports all major shells.",
     "officialSite": "",
     "topics": ["autojump", "bash", "cli", "command-line", "command-line-tool", "elvish", "fasd", "fish", "fish-shell", "fzf", "hacktoberfest", "jump", "nushell", "powershell", "rust", "shell", "xonsh", "xontrib", "z", "zsh"]
+  }, {
+    "repo": "astral-sh/uv",
+    "desc": "An extremely fast Python package installer and resolver, written in Rust.",
+    "officialSite": "https://astral.sh/",
+    "topics": []
   }
 ]

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/PTFsJGzsUDC8WTGWYOIZn1lerx8k43bUgjBWJwNR6mlXd6ZrL9kFv7Z6hnAqj9QHX78KU_GIjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4eHmMFZ-oJQ", "title": "F2 Is Your Friend" },
+    { "id": "yeso0-huT-E", "title": "Managing Developers is easy" },
+    { "id": "b77iu7OCdXs", "title": "Google Jam board For Scrum Retrospective" },
+    { "id": "9xa_lkciq_w", "title": "Optionals Bad And Good Practice" },
+    { "id": "l1r-UztjoO0", "title": "Optionals And Jpa Entities And Mapstruct" },
     { "id": "lz--EL6QLRA", "title": "Happy New Year 2024" },
     { "id": "rpcbZzb6ckQ", "title": "Kanban Vs Scrum" },
     { "id": "Js5jhLvoB38", "title": "Fastapi Swagger Redocly And Pydantic" },

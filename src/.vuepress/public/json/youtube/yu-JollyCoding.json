@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "hxpH3HyaeM4", "title": "I WISH I used this component earlier... Responsive CSS Helper" },
+    { "id": "rVKJGr4VjmA", "title": "Copy & Paste React Hook Libraries" },
+    { "id": "uhEkgWt-pUM", "title": "Code Cleanup Made Easy...  Remove JavaScript Exports, Files & Dependencies" },
+    { "id": "L8EANtBKuyc", "title": "10 Open-Source NextJS Projects to Learn From" },
     { "id": "20QbmIAiw2c", "title": "These TypeScript Tricks are POWERFUL" },
     { "id": "mXziH-hQARs", "title": "STOP using useState - URL Search Params" },
     { "id": "1VKEn4ZVcnk", "title": "Adobe's New Component Library, and Mine..." },

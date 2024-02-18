@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/0t-I4m8giX3HMKGofGRsEBXUyhMC3tOw7lmfNw3uIFU16QK2T3isUNJiOrTiNDCOO5Lbr0nuYM0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tUwCvHMwx7Y", "title": "Jetbrains AI with Jodie Burchell" },
+    { "id": "h0jPyyHmC58", "title": "Netflix UIs at Scale with Shaundai Person" },
+    { "id": "KJgCkKAmDE8", "title": "Blender with Sybren Stüvel" },
+    { "id": "OVNH8Y2EKo8", "title": "Vercel AI with Lee Robinson" },
+    { "id": "1dElVCIPo6k", "title": "Building a Data Lake with Adam Ferrari" },
+    { "id": "69-OLVTt3xk", "title": "The Godot Game Engine with Emilio Coppola" },
+    { "id": "HfM1A4dNBfI", "title": "NVIDIA and the Future of 3D Development with Aaron Luk" },
     { "id": "vefXMkbCIcs", "title": "Pinecone Vector Database with Marek Galovic" },
     { "id": "VMEt386fh3E", "title": "GitHub Copilot with Joseph Katsioloudes" },
     { "id": "h3Vq_LbWlnY", "title": "Deno with Luca Casonato" },

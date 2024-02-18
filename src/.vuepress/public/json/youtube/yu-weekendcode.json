@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/fT8S5AJnntQXd0CX3ahVOpv5JImvWc9fo0ztu2vzrg4fj2hjXiDUkcQm6rQ5Wc5yOL16db0mQA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MEfwwKjShFY", "title": "ChatGPT와 파이썬으로 로또 복권 번호나 찾아볼까 (로또, API, 번호 찾기)" },
+    { "id": "lirNDkMF8h4", "title": "Expo SDK 50 | React Native로 앱을 만들기 위한 최고의 환경" },
     { "id": "TM-aeh8FN44", "title": "React `useState` 완전 정복! | 9개의 예시로 `useState` 박살내기" },
     { "id": "2e4h1ALAaJM", "title": "개발에 유용한 사이트 | shell, git, 리눅스 명령어 옵션 확인하기" },
     { "id": "wagC4vT_ZkQ", "title": "2023년 2회 | 정보처리기사 실기 코드문제 해설" }

@@ -18,5 +18,6 @@ tags: ["youtube", "tutorial", "llama" , "llm", "@matthew_berman", "@streamlitoff
 <MyYouTubeItems jsonName="yu-streamlitofficial" /><!-- Streamlit -->
 <MyYouTubeItems jsonName="yu-inhumanitystudios" /><!-- inhumanity Studios -->
 <MyYouTubeItems jsonName="yu-user-bv8if5qg9l" /><!-- 빅데이터 혁신융합대학 -->
+<MyYouTubeItems jsonName="yu-SecondStateInc" /><!-- Second State -->
 
 <TagLinks/>

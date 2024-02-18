@@ -1231,8 +1231,13 @@
     "topics": ["bash", "beautify", "formatter", "go", "interpreter", "mksh", "parser", "posix", "shell", "shfmt"]
   }, {
     "repo": "gptscript-ai/gptscript",
-    "desc": "Natural Language Programming ",
+    "desc": "Natural Language Programming",
     "officialSite": "https://gptscript.ai",
     "topics": []
+  }, {
+    "repo": "bitmagnet-io/bitmagnet",
+    "desc": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
+    "officialSite": "https://bitmagnet.io/",
+    "topics": ["bittorrent", "dht", "prowlarr", "radarr", "selfhosted", "servarr", "sonarr", "torrent", "torrents", "torznab"]
   }
 ]

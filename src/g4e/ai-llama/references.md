@@ -114,4 +114,10 @@ tags: ["llama" , "llm"]
 
 ---
 
+## Ahead of AI
+
+- [Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
+
+---
+
 <TagLinks/>

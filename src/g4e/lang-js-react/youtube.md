@@ -58,5 +58,7 @@ meta:
 <MyYouTubeItems jsonName="yu-worlddev" /><!-- 저세상개발자 -->
 <MyYouTubeItems jsonName="yu-codeching" /><!-- Codeching -->
 <MyYouTubeItems jsonName="yu-tubeguruji" /><!-- TubeGuruji -->
+<MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
+<MyYouTubeItems jsonName="yu-BroCodez" /><!-- Bro Code -->
 
 <TagLinks />

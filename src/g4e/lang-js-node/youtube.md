@@ -193,7 +193,6 @@ description: 🧶Node.js > 📺Youtube
 <MyYouTubeItems jsonName="yu-danteDeveloper" /><!-- 단테 -->
 <MyYouTubeItems jsonName="yu-jahiddev" /><!-- Jahid Anowar -->
 <MyYouTubeItems jsonName="yu-jsWithTola" /><!-- Giwa Fauzziyyah -->
-<MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
 <MyYouTubeItems jsonName="yu-Pentacode" /><!-- Pentacode -->
 <MyYouTubeItems jsonName="yu-bugbytes3923" /><!-- BugBytes -->
 <MyYouTubeItems jsonName="yu-huxnwebdev" /><!-- HuXn WebDev -->

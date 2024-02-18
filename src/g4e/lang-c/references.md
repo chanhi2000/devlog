@@ -13,6 +13,12 @@ tags: ["c", "llvm"]
 
 ---
 
+## Github
+
+- [`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
+
+---
+
 ## Medium
 
 - [C pointers guide in 2023](https://levelup.gitconnected.com/c-pointers-guide-in-2023-82d5ef8afb98)

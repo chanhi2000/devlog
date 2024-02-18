@@ -4159,5 +4159,20 @@
     "desc": "Fully documented and annotated source code for Lander on the Acorn Archimedes",
     "officialSite": "https://lander.bbcelite.com",
     "topics": ["acorn", "acornsoft", "archimedes", "arm", "retrocomputing", "retrogaming", "risc-os", "riscos"]
+  }, {
+    "repo": "lexifdev/checkdnskr",
+    "desc": "한국의 주요 DNS서버들은 어떤 값을 반환해주고 있는지 보여주는 사이트입니다.",
+    "officialSite": "https://checkdnskr.appspot.com/",
+    "topics": []
+  }, {
+    "repo": "google/magika",
+    "desc": "Detect file content types with deep learning",
+    "officialSite": "https://google.github.io/magika/",
+    "topics": ["deep-learning", "filetype", "keras-classification-models", "keras-models", "mime-types"]
+  }, {
+    "repo": "facebookresearch/DiT",
+    "desc": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -19,6 +19,12 @@ tags: ["aws", "amazon", "amazon-web-service"]
 
 ---
 
+## 요즘IT
+
+- [AWS Personalize 활용한 개인화 추천 서비스 론칭기](https://yozm.wishket.com/magazine/detail/2443/)
+
+---
+
 ## GPT
 
 - [AWS Docs GPT: AI-powered Search & Chat for AWS Documentation](https://www.awsdocsgpt.com)

@@ -179,6 +179,23 @@ logo: http://www.hash.kr/images/main/logo_big.png
 color: rbga(20,20,20,0.2)
 ```
 
+```card
+title: SoEn:소프트웨어 공학 연구소
+desc: 프로그래머와 예비 개발자의 학습 및 놀이 동아리
+link: http://www.soen.kr
+logo: http://www.soen.kr/data/soen.png
+color: rgba(255,255,241,0.2)
+```
+
+```card
+title: FONT CLUB 
+desc: 뉴스 / 트렌드
+link: http://www.fontclub.co.kr/?cat=1
+logo: http://www.fontclub.co.kr/wp-content/uploads/2018/02/xfc_apple.png.pagespeed.ic.MLXkUuhNER.webp
+color: rgba(93,203,200,0.2)
+
+```
+
 @tab Careers & Networking
 
 ```card
@@ -285,6 +302,52 @@ desc: An all-inclusive, flat-file CMS for simple websites and blogs
 link: https://saaze.dev
 logo: https://saaze.dev/assets/favicon.png
 color: rgba(42,38,87,0.2)
+```
+
+```card
+title: Download youtube subtitles, download SRT YouTube for free.
+desc: Download subtitles is a free web application that can download subtitles directly from Youtube
+link: https://downloadyoutubesubtitle.com/
+logo: https://downloadyoutubesubtitle.com/favicon.ico
+color: rgba(250,245,255,0.2)
+```
+
+```card
+title: YT Pics
+desc: Download pictures from Youtube videos
+link: https://www.ytpics.com/
+logo: https://www.ytpics.com/images/image-download.svg
+color: rgba(17,17,17,0.2)
+```
+
+```card
+title: v0.dev
+desc: Generate UI with simple text prompts. Copy, paste, ship.
+link: https://v0.dev/
+logo: https://v0.dev/icon-19iptc.svg?94ebf4f1268986e0
+color: rgba(24,24,27,0.2)
+```
+
+```card
+title: TechIcons
+desc: Download, copy and paste tech icons in SVG and PNG format for your projects.
+link: https://techicons.dev/
+logo: https://techicons.dev/tech-icons-logo.svg
+color: rgba(48,131,220,0.2)
+```
+
+```card
+title: 스팸 전화번호 데이터베이스
+desc: 사용자가 만드는 스팸 전화번호 데이터베이스
+link: https://www.missed-call.com
+color: rgba(148,10,18,0.2)
+```
+
+```card
+title: 대출이자 계산기
+desc: 대출이자 계산기, 대출이자 자동계산기, 원리금균등상환 계산기, 원금균등상환 계산기, 원금만기일시상환 계산기, 대출금리계산기, 대출이자 계산방법, 대출이자율 계산기, 주택담보대출이자계산, 은행대출이자 계산, 대출이자 계산법
+link: http://calc.funstory.biz/
+color: rgba(40,164,229,0.2)
 ```
 
 @tab Curated 

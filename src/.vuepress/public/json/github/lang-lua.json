@@ -129,5 +129,10 @@
     "desc": "Soho vibes for Neovim",
     "officialSite": "",
     "topics": ["editor", "lua", "neovim", "neovim-theme", "nvim", "rose-pine", "soho-vibes", "theme", "vim", "vim-theme"]
+  }, {
+    "repo": "CorsixTH/CorsixTH",
+    "desc": "Open source clone of Theme Hospital",
+    "officialSite": "",
+    "topics": ["game", "opensource", "remake", "strategy-game", "theme-hospital"]
   }
 ]

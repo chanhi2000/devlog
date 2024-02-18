@@ -1108,5 +1108,10 @@
     "desc": "Development repository for the Triton language and compiler",
     "officialSite": "https://triton-lang.org/",
     "topics": []
+  }, {
+    "repo": "ros-perception/image_pipeline",
+    "desc": "An image processing pipeline for ROS.",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "image-processing", "python", "ros"]
   }
 ]

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Yn70X579PO08-VKiqvXU_ATSSDKfLFV9paBhtvJDguvghUDA6_PGmRzVtxK1_UL8yipARHkh-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zfNqp85g5JM", "title": "Using docker in unusual ways" },
+    { "id": "kYAe7qDGOJw", "title": "8 ways JavaScript is just... different." },
+    { "id": "Smc-6qfZ2JU", "title": "One of the most common mistakes in Go is about to be fixed" },
+    { "id": "HXdBwGRjv_4", "title": "Go 1.22 is bringing about a new future for the language." },
     { "id": "HEhhWL1oUTM", "title": "I never thought I'd use Socket.io ever again" },
     { "id": "sGjAe6y299g", "title": "Never write another loop again" },
     { "id": "_4TPM6clQjM", "title": "When RESTful architecture isn't enough..." },

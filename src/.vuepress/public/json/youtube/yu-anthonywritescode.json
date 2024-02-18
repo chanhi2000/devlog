@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/4VLrNUhwQRXPocHZ58l8ha1S-TTTIUHwKK1ZPoeZWkOUZopAaDz0HsS6M7AY5DFp1RHFkbYbkw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Hgw_RlCaIds", "title": "ONE TERABYTE of RAM saved with a single line of code (advanced) anthony explains #566" },
+    { "id": "bw5AHdZA7e4", "title": "using memray to debug (and fix) a memory leak in krb5! (advanced) anthony explains #567" },
+    { "id": "XzW4-KEB664", "title": "my thoughts on ruff" },
     { "id": "Wn3bJUzvy5I", "title": "git: inline diffs with `--word-diff`! (intermediate) anthony explains #565" },
     { "id": "vbDziNApQ3s", "title": "I imported my pokemon collection to sqlite using cv!" },
     { "id": "nsSj7snqODM", "title": "git: `--first-parent` (intermediate) anthony explains #558" },
