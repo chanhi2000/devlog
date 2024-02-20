@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7hSBctH7wyRr7GCCNXtIdAg5IYWyJnYGnIcQRRMbid1zQ0Bpi4EQGn02YGnP_MC9V6mk0w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wWd2Vejpuxg", "title": "Deploy Static Site to AWS" },
     { "id": "yiug2C_BIsc", "title": "Introduction to Web Accessibility" },
     { "id": "EhBt4jYca3w", "title": "Learn StackStorm" }, 
     { "id": "X3F7cFnKMQc", "title": "Agile Program Management with Jira" },

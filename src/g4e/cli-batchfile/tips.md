@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 💡Tips
 description: 🧢Batchfile > 💡Tips
-tags: ["batch", "bat", "windows", "windows-terminal", "net"]
+category:
+  - 🧢Batchfile 
+  - 💡Tips
+tag: 
+  - batch
+  - bat
+  - windows
+  - windows-terminal
+  - net
+  - slmgr
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,4 +52,7 @@ tags: ["batch", "bat", "windows", "windows-terminal", "net"]
 | `cipher /w:d:` | 하드 디스크 정보 제거 |
 |||
 | `wusa /uninstall /KB:4535996 /norestart` | 윈도우 업데이트 제거 (관리자 권한) |
+
+---
+
 <TagLinks />

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🪐Lua
 description: 🪐Lua
+category:
+  - 🪐Lua
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🪐Lua
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-lua/" />
+
+---
+
+<TagLinks />

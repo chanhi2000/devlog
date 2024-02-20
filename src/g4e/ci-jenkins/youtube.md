@@ -2,7 +2,24 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🤵🏻‍♂️Jenkins > 📺Youtube
-tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", "@ContinuousDelivery", "@Thetips4you", "@RaghavPal", "@QAShahin", "@JavaHomeCloud", "@gorandev", "@DevOpsJourney"] 
+category:
+  - 🤵🏻‍♂️Jenkins
+  - 📺Youtube
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "win"
+  - "Windows"
+  - "win10"
+  - "msc"
+  - "eventvwr.msc"
+  - "@ContinuousDelivery"
+  - "@Thetips4you"
+  - "@RaghavPal"
+  - "@QAShahin"
+  - "@JavaHomeCloud"
+  - "@gorandev"
+  - "@DevOpsJourney"
 ---
 
 # {{ $frontmatter.title }} 관련

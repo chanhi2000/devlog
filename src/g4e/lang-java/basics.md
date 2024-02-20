@@ -2,7 +2,23 @@
 lang: ko-KR
 title: 🐣Basics
 description: ☕️Java > 🐣Basics
-tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs", "kotlin", "kdoc", "companion-object", "lombok", "log4j", "log4j2"]
+category:
+  - ☕️Java
+  - 🐣Basics
+tag: 
+  - java
+  - jdk
+  - jdk7
+  - jdk8
+  - singleton
+  - enum
+  - javadocs
+  - kotlin
+  - kdoc
+  - companion-object
+  - lombok
+  - log4j
+  - log4j2
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -319,6 +335,5 @@ public class FooBar {
 ```
 
 ---
-
 
 <TagLinks />

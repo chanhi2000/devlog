@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 📊Power BI
 description: 📊Power BI
+category:
+  - 📊Power BI
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 📊Power BI
 :::
 
 <ShieldsGroup logos="powerbi"/>
+
+---
+
+<TagLinks />

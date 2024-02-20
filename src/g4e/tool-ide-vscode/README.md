@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🆚VSCode
 description: 🆚VSCode
+category:
+  - 🆚VSCode
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🆚VSCode
 :::
 
 <ShieldsGroup logos="visualstudiocode,vscodium,npm,yarn,vite,html5.nodedotjs,javascript,typescript,react,creatreactapp,reactrouter,reactquery,vuedotjs,vuetify,svelte"/>
+
+---
+
+<TagLinks />

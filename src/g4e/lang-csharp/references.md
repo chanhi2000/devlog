@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: ♯CSharp > 📚References
-tags: ["csharp", "dotnet", "dotnetcore", "nuget"]
+category:
+  - ♯CSharp
+  - 📚References
+tag:
+  - csharp
+  - dotnet
+  - dotnetcore
+  - nuget
 ---
 
 # {{ $frontmatter.title }} 관련

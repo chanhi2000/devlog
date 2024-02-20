@@ -2,16 +2,24 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🦢LaTeX > 🕶️Github
-tags: ["git" , "github" , "tex", "latex"]
-meta:
-  - name: 🕶️Github
-    content: 🦢LaTeX > 🕶️Github
-  - property: og:title
-    content: 🕶️Github
-  - property: og:description
-    content: 🦢LaTeX > 🕶️Github
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-latex/github.html
+category:
+  - 🦢LaTeX
+  - 🕶️Github
+tag: 
+  - tex
+  - latex
+  - mathjax
+  - katex
+  - git
+  - github
+head:
+  - - meta:
+    - property: og:title
+      content: 🦢LaTeX > 🕶️Github
+    - property: og:description
+      content: 🦢LaTeX > 🕶️Github
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-latex/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

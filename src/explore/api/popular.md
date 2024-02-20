@@ -2,7 +2,14 @@
 lang: ko-KR
 title: Popular
 description: 🧭API > Popular
-tags: ["blog", "devlog", "hyperlink"]
+category: 
+  - 🧭API
+  - Popular
+tag: 
+  - blog
+  - devlog
+  - hyperlink
+
 ---
 
 # {{ $frontmatter.title }} 관련

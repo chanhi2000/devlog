@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 🪳Cockroach > 📚References
-tags: ["sql", "db", "cockroachdb", "duckdb"]
+category:
+  - 🪳Cockroach
+  - 📚References
+tag: 
+  - sql
+  - db
+  - cockroachdb
+  - duckdb
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -17,6 +24,6 @@ tags: ["sql", "db", "cockroachdb", "duckdb"]
 
 - [Using DuckDB With CockroachDB](https://dzone.com/articles/using-duckdb-with-cockroachdb)
 
-
+---
 
 <TagLinks />

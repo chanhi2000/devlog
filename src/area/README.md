@@ -1,8 +1,15 @@
 ---
 lang: ko-KR
-title: Intro
-description: Area
-tags: ["schedule", "gantt", "markdown", "mermaidjs", "todo"]
+title: 🌟Area
+description: 🌟Area
+category:
+  - 🌟Area
+tag: 
+  - schedule
+  - gantt
+  - markdown
+  - mermaidjs
+  - todo
 ---
 
 # {{ $frontmatter.title }} 관련

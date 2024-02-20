@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🔍Query
 description: 🙆‍♂️Oracle SQL > 🔍Query
-tags: ["sql", "oracle", "pssql", "ddl", "dml", "sql-privilege"]
+category:
+  - 🙆‍♂️Oracle SQL 
+  - 🔍Query
+tag: 
+  - sql
+  - oracle
+  - pssql
+  - ddl
+  - dml
+  - sql-privilege
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,5 +51,7 @@ WHEN NOT MATCHED THEN INSERT (
 
 - [Oracle / PLSQL: `CREATE TABLESPACE` statement](https://www.techonthenet.com/oracle/tablespaces/create_tablespace.php)
 - [How to Grant All Privileges to a User in Oracle](https://www.oracletutorial.com/oracle-administration/oracle-grant-all-privileges-to-a-user)
+
+---
 
 <TagLinks />

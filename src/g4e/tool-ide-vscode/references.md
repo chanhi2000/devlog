@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 🆚VSCode > 📚References
-tags: ["webdev", "vscode", "productivity", "programming"]
+category:
+  - 🆚VSCode
+  - 📚References
+tag: 
+  - webdev
+  - vscode
+  - productivity
+  - programming
 ---
 
 # {{ $frontmatter.title }} 관련

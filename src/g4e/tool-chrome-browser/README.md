@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🌈Chrome Browser
 description: 🌈Chrome Browser
+category:
+  - 🌈Chrome Browser
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🌈Chrome Browser
 :::
 
 <ShieldsGroup logos="google,googlechrome"/>
+
+---
+
+<TagLinks />

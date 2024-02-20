@@ -2,7 +2,17 @@
 lang: ko-KR
 title: 🩺Troubleshooting
 description: 🐘Gradle > 🩺Troubleshooting
-tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "insecure-protocols", "https"]
+category: 
+  - 🐘Gradle
+  - 🩺Troubleshooting
+tag: 
+  - gradle
+  - groovy
+  - idea
+  - intellij-idea
+  - intellij
+  - insecure-protocols
+  - https
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -15,7 +25,7 @@ tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "insecure-protoc
 
 사용한 Gradle 버전: `7.2`
 
-```gradle
+```groovy
 repositories {
     maven {
         url repo.ons
@@ -31,7 +41,7 @@ Using insecure protocols with respositories, without explicit opt-in, is unsuppo
 
 아래와 같이 처리 `allowInsecureProtocol true` 플래그 추가하여 처리
 
-```gradle
+```groovy
 repositories {
     maven {
         url repo.ons

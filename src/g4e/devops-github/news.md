@@ -2,7 +2,17 @@
 lang: ko-KR
 title: 🗞️News
 description: 🕶️Github > 🗞️News
-tags: ["github", "news", "hiring", "korea", "job", "android", "ios"]
+category: 
+  - 🕶️Github 
+  - 🗞️News
+tag: 
+  - github
+  - news
+  - hiring
+  - korea
+  - job
+  - android
+  - ios
 ---
 
 # {{ $frontmatter.title }} 관련

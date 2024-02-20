@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🧙‍♂️Powershell > 📚References
-tags: ["powershell", "windows", "windows-terminal", "multiline"]
+category:
+  - 🧙‍♂️Powershell
+  - 📚References
+tag: 
+  - powershell
+  - pwsh
+  - windows
+  - windows-terminal
+  - multiline
 ---
 
 # {{ $frontmatter.title }} 관련

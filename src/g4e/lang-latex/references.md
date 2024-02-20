@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🦢LaTeX > 📚References
-tags: ["references", "android"]
+category:
+  - 🦢LaTeX
+  - 📚References
+tag: 
+  - tex
+  - latex
+  - mathjax
+  - katex
+  - reference
 ---
 
 # {{ $frontmatter.title }} 관련

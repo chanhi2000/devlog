@@ -2,7 +2,13 @@
 lang: ko-KR
 title: ⚡Template
 description: ⚡Template
-tags: ["markdown", "bash", "cli", "md"]
+category: 
+  - ⚡Template
+tag: 
+  - markdown
+  - bash
+  - cli
+  - md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,3 +63,7 @@ tags: ["markdown", "bash", "cli", "md"]
 ```md
 
 ```
+
+---
+
+<TagLinks />

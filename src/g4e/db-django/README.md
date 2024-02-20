@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🤠Django
 description: 🤠Django
+category:
+  - 🤠Django
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +20,7 @@ description: 🤠Django
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/db-cubrid/" />
+
+---
+
+<TagLinks />

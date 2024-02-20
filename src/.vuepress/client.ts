@@ -3,7 +3,7 @@
  *
  * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
  */
-import { defineClientConfig } from '@vuepress/client'
+import { defineClientConfig } from "vuepress/client"
 import { onMounted } from 'vue'
 import express from 'express'
 

@@ -1,17 +1,27 @@
 ---
 lang: ko-KR
 title: 🕶️Github
-description:  ☕️Java > 🕶️Github
-tags: ["git" , "github" , "java" , "kotlin" , "android"]
-meta:
-  - name: 🕶️Github
-    content: Java and Kotlin Libraries from Github
-  - property: og:title
-    content: 🕶️Github
-  - property: og:description
-    content: ☕️Java > 🕶️Github
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-java/github.html
+description: ☕️Java > 🕶️Github
+category: 
+  - ☕️Java 
+  - 🕶️Github
+tag: 
+  - git
+  - github
+  - java
+  - jdk
+  - kotlin
+  - android
+head:
+  - - meta:
+    - property: og:title
+      content: ☕️Java > 🕶️Github
+    - property: og:description
+      content: ☕️Java > 🕶️Github
+    - property: og:type
+      content: article  
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-java/github.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -40,7 +50,6 @@ meta:
 
 <MyGithubItems jsonName="lang-kotiln-tut" />
 
-
 ---
 
 ## Android
@@ -50,7 +59,6 @@ meta:
 ### Tutorial
 
 <MyGithubItems jsonName="lang-android-tut" />
-
 
 ---
 

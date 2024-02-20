@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 👩‍💻Exam
 description: Career > 👩‍💻Exam
-tags: ["career", "exam", "resource", "cbt"]
+category: 
+  - Career
+  - 👩‍💻Exam
+tag: 
+  - career
+  - exam
+  - resource
+  - cbt
 ---
 
 # {{ $frontmatter.title }} 관련

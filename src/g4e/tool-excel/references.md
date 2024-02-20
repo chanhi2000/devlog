@@ -2,8 +2,17 @@
 lang: ko-KR
 title: 📚References
 description: 🧩Excel > 📚References
-category: 🧩Excel
-tags: ["education", "iexceller",  "ms", "excel", "ms-excel", "xls", "xlsx"]
+category: 
+  - 🧩Excel
+  - 📚References
+tag: 
+  - education
+  - iexceller
+  - ms
+  - excel
+  - ms-excel
+  - xls
+  - xlsx
 ---
 
 # {{ $frontmatter.title }} 관련

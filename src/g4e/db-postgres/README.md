@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦏PostgreSQL
 description: 🦏PostgreSQL
+category:
+  - 🦏PostgreSQL
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,12 +13,18 @@ description: 🦏PostgreSQL
 :::
 
 
-```card
-title: PostgreSQL
-desc: PostgreSQL - Databse of Databases
-link: https://dbdb.io/db/postgresql
-logo: https://dbdb.io/static/core/images/dbdb_io-180x180.png
-color: rgba(38, 75, 99, 0.2)
+```component VPCard
+{
+  "title": "PostgreSQL",
+  "desc": "PostgreSQL - Databse of Databases",
+  "link": "https://dbdb.io/db/postgresql",
+  "logo": "https://dbdb.io/static/core/images/dbdb_io-180x180.png",
+  "background": "rgba(38, 75, 99, 0.2)"
+}
 ```
 
 <ShieldsGroup logos="postgresql"/>
+
+---
+
+<TagLinks />

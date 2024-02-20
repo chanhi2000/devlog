@@ -1,8 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧩Excel
 description: 🧩Excel
-category: 🧩Excel
+category: 
+  - 🧩Excel
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,3 +13,7 @@ category: 🧩Excel
 :::
 
 <ShieldsGroup logos="microsoftexcel"/>
+
+---
+
+<TagLinks />

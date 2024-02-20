@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🦢LaTeX > 📺Youtube
-tags: ["references", "android"]
+category:
+  - 🦢LaTeX
+  - 📺Youtube
+tags:
+  - latex
+  - youtube
+  - "@DrTrefor"
 ---
 
 # {{ $frontmatter.title }} 관련

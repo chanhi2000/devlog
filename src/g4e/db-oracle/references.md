@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 🙆‍♂️Oracle SQL > 📚References
-tags: ["sql", "db", "mysql", "shell"]
+category:
+  - 🙆‍♂️Oracle SQL 
+  - 📚References
+tag: 
+  - sql
+  - db
+  - mysql
+  - shell  
 ---
 
 # {{ $frontmatter.title }} 관련

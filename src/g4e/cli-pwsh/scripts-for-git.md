@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📝Scripts for Git
 description: 🧙‍♂️Powershell > 📝Scripts for Git
-tags: ["powershell", "windows", "script", "useful-script"]
+category:
+  - 🧙‍♂️Powershell
+  - 📝Scripts for Git
+tag:
+  - powershell
+  - pwsh
+  - windows
+  - script
+  - useful-script
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -15,12 +23,14 @@ tags: ["powershell", "windows", "script", "useful-script"]
 
 ## <FontIcon icon="iconfont icon-file"/>`build-repo.ps1`
 
-```card
-title: build-repo.ps1
-desc: Builds a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/build-repo.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "build-repo.ps1",
+  "desc": "Builds a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/build-repo.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script builds a repository by supporting: cmake, configure, autogen, Imakefile, and Makefile.
@@ -200,12 +210,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`build-repos.ps1`
 
-```card
-title: build-repos.ps1
-desc: Builds all Git repositories in a folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/build-repos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "build-repos.ps1",
+  "desc": "Builds all Git repositories in a folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/build-repos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script builds all Git repositories in a folder.
@@ -290,12 +302,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-repo.ps1`
 
-```card
-title: check-repo.ps1
-desc: Checks a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-repo.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-repo.ps1",
+  "desc": "Checks a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-repo.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script verifies the integrity of a local Git repository.
@@ -425,12 +439,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`clean-repo.ps1`
 
-```card
-title: clean-repo.ps1
-desc: Cleans a Git repository from untracked files.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/clean-repo.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "clean-repo.ps1",
+  "desc": "Cleans a Git repository from untracked files.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/clean-repo.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script deletes all untracked files and folders in a local Git repository (including submodules).
@@ -539,12 +555,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`clean-repos.ps1`
 
-```card
-title: clean-repos.ps1
-desc: Cleans all Git repositories in a folder from untracked files.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/clean-repos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "clean-repos.ps1",
+  "desc": "Cleans all Git repositories in a folder from untracked files.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/clean-repos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script cleans all Git repositories in a folder from untracked files (including submodules).
@@ -639,12 +657,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`clone-repos.ps1`
 
-```card
-title: clone-repos.ps1
-desc: Clones well-known Git repositories.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/clone-repos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "clone-repos.ps1",
+  "desc": "Clones well-known Git repositories.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/clone-repos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script clones popular Git repositories into a target directory.
@@ -766,12 +786,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`configure-git.ps1`
 
-```card
-title: configure-git.ps1
-desc: Sets up the Git user configuration.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/configure-git.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "configure-git.ps1",
+  "desc": "Sets up the Git user configuration.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/configure-git.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script configures the user settings for Git.
@@ -907,12 +929,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`fetch-repo.ps1`
 
-```card
-title: fetch-repo.ps1
-desc: Fetches updates for a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/fetch-repo.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "fetch-repo.ps1",
+  "desc": "Fetches updates for a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/fetch-repo.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script fetches the latest updates into a local Git repository (including submodules).
@@ -1004,12 +1028,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`fetch-repos.ps1`
 
-```card
-title: fetch-repos.ps1
-desc: Fetches updates for all Git repositories in a folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/fetch-repos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "fetch-repos.ps1",
+  "desc": "Fetches updates for all Git repositories in a folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/fetch-repos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script fetches updates into all Git repositories in a folder (including submodules).
@@ -1109,12 +1135,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-branches.ps1`
 
-```card
-title: list-branches.ps1
-desc: Lists all branches in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-branches.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-branches.ps1",
+  "desc": "Lists all branches in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-branches.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all branches in a Git repository.
@@ -1224,12 +1252,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-commits.ps1`
 
-```card
-title: list-commits.ps1
-desc: Lists all commits in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-commits.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-commits.ps1",
+  "desc": "Lists all commits in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-commits.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 
@@ -1354,12 +1384,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-latest-tag.ps1`
 
-```card
-title: list-latest-tag.ps1
-desc: Lists the latest tag on the current branch in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-latest.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-latest-tag.ps1",
+  "desc": "Lists the latest tag on the current branch in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-latest.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the latest tag on the current branch in a Git repository.
@@ -1437,12 +1469,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-latest-tags.ps1`
 
-```card
-title: list-latest-tags.ps1
-desc: Lists the latests tags in all Git repositories under a directory.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-latest.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-latest-tags.ps1",
+  "desc": "Lists the latests tags in all Git repositories under a directory.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-latest.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the latest tags in all Git repositories in the specified folder.
@@ -1530,12 +1564,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-repos.ps1`
 
-```card
-title: list-repos.ps1
-desc: Lists the Git repositories in a folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-repos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-repos.ps1",
+  "desc": "Lists the Git repositories in a folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-repos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists details of all Git repositories in a folder.
@@ -1641,12 +1677,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-submodules.ps1`
 
-```card
-title: list-submodules.ps1
-desc: Lists the submodules in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-submodules.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-submodules.ps1",
+  "desc": "Lists the submodules in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-submodules.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the submodules in the given Git repository.
@@ -1730,12 +1768,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-tags.ps1`
 
-```card
-title: list-tags.ps1
-desc: Lists all tags in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-tags.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-tags.ps1",
+  "desc": "Lists all tags in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-tags.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script fetches all tags of a Git repository and lists it.
@@ -1845,12 +1885,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`new-branch.ps1`
 
-```card
-title: new-branch.ps1
-desc: Creates a new branch in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-branch.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "new-branch.ps1",
+  "desc": "Creates a new branch in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/new-branch.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script creates a new branch in a local Git repository and switches to it.
@@ -1975,12 +2017,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`new-tag.ps1`
 
-```card
-title: new-tag.ps1
-desc: Creates a new tag in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-tag.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "new-tag.ps1",
+  "desc": "Creates a new tag in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/new-tag.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script creates a new tag in a Git repository.
@@ -2083,12 +2127,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`pick-commit.ps1`
 
-```card
-title: pick-commit.ps1
-desc: Cherry-picks a Git commit into multiple branches.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/pick-commit.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "pick-commit.ps1",
+  "desc": "Cherry-picks a Git commit into multiple branches.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/pick-commit.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 Cherry-picks a Git commit into one or more branches (branch names need to be separated by spaces)
@@ -2246,12 +2292,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`pull-repo.ps1`
 
-```card
-title: pull-repo.ps1
-desc: Pulls updates for a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/pull-repo.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "pull-repo.ps1",
+  "desc": "Pulls updates for a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/pull-repo.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script pulls the latest updates into a local Git repository (including submodules).
@@ -2350,12 +2398,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`pull-repos.ps1`
 
-```card
-title: pull-repos.ps1
-desc: Pulls updates for all Git repositories in a folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/pull-repos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "pull-repos.ps1",
+  "desc": "Pulls updates for all Git repositories in a folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/pull-repos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script pulls updates into all Git repositories in a folder (including submodules).
@@ -2458,12 +2508,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`remove-tag.ps1`
 
-```card
-title: remove-tag.ps1
-desc: Removes a tag in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-tag.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "remove-tag.ps1",
+  "desc": "Removes a tag in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-tag.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script removes a Git tag, either locally, remote, or both.
@@ -2576,12 +2628,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`switch-branch.ps1`
 
-```card
-title: switch-branch.ps1
-desc: Switches the branch in a Git repository.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/switch-branch.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "switch-branch.ps1",
+  "desc": "Switches the branch in a Git repository.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/switch-branch.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script switches to another branch in a Git repository (including submodules).
@@ -2708,12 +2762,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`sync-repo.ps1`
 
-```card
-title: sync-repo.ps1
-desc: Synchronizes a Git repository by pull & push.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/sync-repo.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "sync-repo.ps1",
+  "desc": "Synchronizes a Git repository by pull & push.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/sync-repo.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script synchronizes a local Git repository by pull and push (including submodules).

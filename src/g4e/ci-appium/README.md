@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🍐Appium
 description: 🍐Appium
+category:
+  - 🍐Appium
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -17,3 +19,7 @@ description: 🍐Appium
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/ci-appium/" />
+
+---
+
+<TagLinks />

@@ -2,7 +2,15 @@
 lang: ko-KR
 title: ⚙️Scripts to Manage Computers
 description: 🧙‍♂️Powershell > ⚙️Scripts to Manage Computers
-tags: ["powershell", "windows", "script", "useful-script"]
+category:
+  - 🧙‍♂️Powershell
+  - ⚙️Scripts to Manage Computers
+tag: 
+  - powershell
+  - pwsh
+  - windows
+  - script
+  - useful-script
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -15,12 +23,14 @@ tags: ["powershell", "windows", "script", "useful-script"]
 
 ## <FontIcon icon="iconfont icon-file"/>`add-firewall-rules.ps1`
 
-```card
-title: add-firewall-rules.ps1
-desc: Adds firewall rules for executables, needs admin rights.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/add-firewall-rules.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "add-firewall-rules.ps1",
+  "desc": "Adds firewall rules for executables, needs admin rights.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/add-firewall-rules.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script adds firewall rules for the given executable. Administrator rights are required.
@@ -129,12 +139,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-cpu.ps1`
 
-```card
-title: check-cpu.ps1
-desc: Checks the CPU temperature
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-cpu.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-cpu.ps1",
+  "desc": "Checks the CPU temperature",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-cpu.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 Checks the CPU temperature
@@ -242,12 +254,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-dns.ps1`
 
-```card
-title: check-cpu.ps1
-desc: Checks the CPU temperature
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-cpu.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-cpu.ps1",
+  "desc": "Checks the CPU temperature",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-cpu.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script measures and prints the DNS resolution speed by using 200 popular domains.
@@ -320,12 +334,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-drive-space.ps1`
 
-```card
-title: check-drive-space.ps1
-desc: Checks a drive for free space left.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-drive-space.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-drive-space.ps1",
+  "desc": "Checks a drive for free space left.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-drive-space.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks a drive for free space left (20 GB by default).
@@ -415,12 +431,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-file-system.ps1`
 
-```card
-title: check-file-system.ps1
-desc: Checks the file system of a drive (needs admin rights).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-file-system.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-file-system.ps1",
+  "desc": "Checks the file system of a drive (needs admin rights).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-file-system.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks the file system of a drive. It needs admin rights.
@@ -494,12 +512,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-health.ps1`
 
-```card
-title: check-health.ps1
-desc: Checks the system health.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-health.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-health.ps1",
+  "desc": "Checks the system health.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-health.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script queries the system health of the local computer (hardware, software, and network) and prints it.
@@ -556,12 +576,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`check-ping.ps1`
 
-```card
-title: check-ping.ps1
-desc: Checks the ping latency to the internet. 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-ping.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-ping.ps1",
+  "desc": "Checks the ping latency to the internet. ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-ping.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script measures the ping roundtrip times from the local computer to 10 Internet servers.
@@ -649,12 +671,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-swap-space.ps1`
 
-```card
-title: check-swap-space.ps1
-desc: Checks the swap space for free space left.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-swap-space.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-swap-space.ps1",
+  "desc": "Checks the swap space for free space left.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-swap-space.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script queries the status of the swap space and prints it.
@@ -762,12 +786,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-windows-system-files.ps1`
 
-```card
-title: check-windows-system-files.ps1
-desc: Checks the validity of the Windows system files (needs admin rights).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-windows-system-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-windows-system-files.ps1",
+  "desc": "Checks the validity of the Windows system files (needs admin rights).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-windows-system-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks the validity of the Windows system files. It requires admin rights.
@@ -826,12 +852,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`enable-crash-dumps.ps1`
 
-```card
-title: enable-crash-dumps.ps1
-desc: Enables the writing of crash dumps.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/enable-crash-dumps.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "enable-crash-dumps.ps1",
+  "desc": "Enables the writing of crash dumps.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/enable-crash-dumps.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script enables the writing of crash dumps.
@@ -1160,12 +1188,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`hibernate.ps1`
 
-```card
-title: hibernate.ps1
-desc: Hibernates the local computer immediately.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/hibernate.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "hibernate.ps1",
+  "desc": "Hibernates the local computer immediately.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/hibernate.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script hibernates the local computer immediately.
@@ -1223,12 +1253,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-github-cli.ps1`	
 
-```card
-title: install-github-cli.ps1
-desc: Installs GitHub CLI. 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-github-cli.ps1",
+  "desc": "Installs GitHub CLI. ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ::: tabs
@@ -1285,12 +1317,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-chrome-browser.ps1`
 
-```card
-title: install-chrome-browser.ps1
-desc: Installs the Google Chrome browser
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-chrome-browser.ps1",
+  "desc": "Installs the Google Chrome browser",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script installs the latest Google Chrome Web browser.
@@ -1351,12 +1385,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-knot-resolver.ps1`
 
-```card
-title: install-knot-resolver.ps1
-desc: Installs the Knot Resolver (needs admin rights). 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-knot-resolver.ps1",
+  "desc": "Installs the Knot Resolver (needs admin rights). ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script installs Knot Resolver. Knot Resolver is a DNS resolver daemon. It needs admin rights.
@@ -1428,12 +1464,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-ssh-client.ps1`
 
-```card
-title: install-ssh-client.ps1
-desc: Installs a SSH client (needs admin rights).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-ssh-client.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-ssh-client.ps1",
+  "desc": "Installs a SSH client (needs admin rights).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-ssh-client.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script installs a SSH client (needs admin rights).
@@ -1497,12 +1535,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-ssh-server.ps1`
 
-```card
-title: install-ssh-server.ps1
-desc: Installs a SSH server (needs admin rights).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-ssh-server.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-ssh-server.ps1",
+  "desc": "Installs a SSH server (needs admin rights).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-ssh-server.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script installs a SSH server (needs admin rights).
@@ -1580,12 +1620,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-signal-cli.ps1`
 
-```card
-title: install-signal-cli.ps1
-desc: Installs signal-cli from github.com/AsamK/signal-cli.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-signal-cli.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-signal-cli.ps1",
+  "desc": "Installs signal-cli from github.com/AsamK/signal-cli.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-signal-cli.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script installs `signal-cli` from [<FontIcon icon="iconfont icon-github"/>AsamK/signal-cli](https://github.com/AsamK/signal-cli).
@@ -1676,12 +1718,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-updates.ps1`
 
-```card
-title: install-updates.ps1
-desc: Installs updates (need admin rights).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-updates.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-updates.ps1",
+  "desc": "Installs updates (need admin rights).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-updates.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script installs software updates for the local machine (needs admin rights).
@@ -1755,12 +1799,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`install-wsl.ps1`
 
-```card
-title: install-wsl.ps1
-desc: Installs Windows Subsystem for Linux (WSL), needs admin rights.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-wsl.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "install-wsl.ps1",
+  "desc": "Installs Windows Subsystem for Linux (WSL), needs admin rights.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-wsl.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script installs Windows Subsystem for Linux. It needs admin rights.
@@ -1834,12 +1880,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-apps.ps1`
 
-```card
-title: list-apps.ps1
-desc: Lists the installed applications.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-installed-apps.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-apps.ps1",
+  "desc": "Lists the installed applications.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-installed-apps.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the installed apps (from Windows Store or snaps).
@@ -1896,12 +1944,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-cli-tools.ps1`
 
-```card
-title: list-cli-tools.ps1
-desc: Lists installed command-line interface (CLI) tools.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-cli-tools.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-cli-tools.ps1",
+  "desc": "Lists installed command-line interface (CLI) tools.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-cli-tools.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 Lists installed command-line interface (CLI) tools.
@@ -2241,12 +2291,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-dns-servers.ps1`
 
-```card
-title: list-dns-servers.ps1
-desc: Lists public DNS servers.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-dns-servers.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-dns-servers.ps1",
+  "desc": "Lists public DNS servers.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-dns-servers.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 Lists public DNS servers.
@@ -2324,12 +2376,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-drives.ps1`
 
-```card
-title: list-drives.ps1
-desc: Lists all drives.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-drives.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-drives.ps1",
+  "desc": "Lists all drives.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-drives.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all local drives as a table.
@@ -2388,12 +2442,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-network-shares.ps1`
 
-```card
-title: list-network-shares.ps1
-desc: Lists all network shares of the local computer.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-drives.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-network-shares.ps1",
+  "desc": "Lists all network shares of the local computer.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-drives.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 This PowerShell script lists all network shares of the local computer.
 
@@ -2454,12 +2510,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-installed-software.ps1`
 
-```card
-title: list-installed-software.ps1
-desc: Lists the installed software.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-installed-software.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-installed-software.ps1",
+  "desc": "Lists the installed software.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-installed-software.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the installed software (except Windows Store apps).
@@ -2523,12 +2581,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-printers.ps1`
 
-```card
-title: list-printers.ps1
-desc: Lists all printer known to the computer.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-printers.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-printers.ps1",
+  "desc": "Lists all printer known to the computer.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-printers.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all printers known to the local computer.
@@ -2588,12 +2648,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-print-jobs.ps1`
 
-```card
-title: list-print-jobs.ps1
-desc: Lists all jobs of all printers.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-print-jobs.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-print-jobs.ps1",
+  "desc": "Lists all jobs of all printers.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-print-jobs.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all print jobs of all printer devices.
@@ -2679,12 +2741,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-processes.ps1`
 
-```card
-title: list-processes.ps1
-desc: Lists the local computer processes.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-processes.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-processes.ps1",
+  "desc": "Lists the local computer processes.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-processes.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all local computer processes.
@@ -2748,12 +2812,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-services.ps1`
 
-```card
-title: list-services.ps1
-desc: Lists the services on the local computer.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-services.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-services.ps1",
+  "desc": "Lists the services on the local computer.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-services.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all services installed on the local computer.
@@ -2817,12 +2883,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-system-info.ps1`
 
-```card
-title: list-system-info.ps1
-desc: Lists system information on the local computer.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-system-info.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-system-info.ps1",
+  "desc": "Lists system information on the local computer.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-system-info.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists system information of the local computer.
@@ -2966,12 +3034,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`list-tasks.ps1`
 
-```card
-title: list-tasks.ps1
-desc: Lists all Windows scheduler tasks.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-tasks.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-tasks.ps1",
+  "desc": "Lists all Windows scheduler tasks.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-tasks.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ::: tabs
@@ -3032,12 +3102,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-timezone.ps1`
 
-```card
-title: list-timezone.ps1
-desc: Lists the current time zone details.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-timezone.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-timezone.ps1",
+  "desc": "Lists the current time zone details.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-timezone.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the details of the current time zone.
@@ -3100,12 +3172,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-timezones.ps1`
 
-```card
-title: list-timezones.ps1
-desc: Lists all time zones available.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-processes.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-timezones.ps1",
+  "desc": "Lists all time zones available.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-processes.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all available time zones.
@@ -3171,12 +3245,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-user-groups.ps1`
 
-```card
-title: list-user-groups.ps1
-desc: Lists the user groups on the local computer.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-user-groups.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-user-groups.ps1",
+  "desc": "Lists the user groups on the local computer.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-user-groups.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the user groups of the local computer.
@@ -3240,12 +3316,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`poweroff.ps1`
 
-```card
-title: poweroff.ps1
-desc: Halts the local computer (needs admin rights).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/poweroff.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "poweroff.ps1",
+  "desc": "Halts the local computer (needs admin rights).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/poweroff.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script halts the local computer immediately (needs admin rights).
@@ -3306,12 +3384,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`query-smart-data.ps1`
 
-```card
-title: query-smart-data.ps1
-desc: Queries the S.M.A.R.T. data of your HDD/SSD's.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/query-smart-data.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "query-smart-data.ps1",
+  "desc": "Queries the S.M.A.R.T. data of your HDD/SSD's.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/query-smart-data.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 Queries the S.M.A.R.T. data of your HDD/SSD's and saves it to the current/given directory.
@@ -3421,12 +3501,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`reboot.ps1`
 
-```card
-title: reboot.ps1
-desc: Reboots the local computer (needs admin rights).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/reboot.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "reboot.ps1",
+  "desc": "Reboots the local computer (needs admin rights).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/reboot.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script reboots the local computer immediately (needs admin rights).
@@ -3487,12 +3569,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`remove-print-jobs.ps1`
 
-```card
-title: remove-print-jobs.ps1
-desc: Removes all jobs from all printers.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-print-jobs.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "remove-print-jobs.ps1",
+  "desc": "Removes all jobs from all printers.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-print-jobs.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script removes all print jobs from all printer devices.
@@ -3560,12 +3644,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`restart-network-adapters.ps1`
 
-```card
-title: restart-network-adapters.ps1
-desc: Restarts all local network adapters.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/restart-network-adapters.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "restart-network-adapters.ps1",
+  "desc": "Restarts all local network adapters.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/restart-network-adapters.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script restarts all local network adapters (needs admin rights).
@@ -3628,12 +3714,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`upgrade-ubuntu.ps1`
 
-```card
-title: upgrade-ubuntu.ps1
-desc: Upgrades Ubuntu Linux to the latest (LTS) release.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/upgrade-ubuntu.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "upgrade-ubuntu.ps1",
+  "desc": "Upgrades Ubuntu Linux to the latest (LTS) release.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/upgrade-ubuntu.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script upgrades Ubuntu Linux to the latest (LTS) release.
@@ -3722,12 +3810,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`wakeup.ps1`
 
-```card
-title: wakeup.ps1
-desc: Wakes up a computer using Wake-on-LAN.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/wakeup.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "wakeup.ps1",
+  "desc": "Wakes up a computer using Wake-on-LAN.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/wakeup.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script sends a magic UDP packet twice to a computer to wake him up (requires Wake-On-LAN).
@@ -3834,6 +3924,5 @@ try {
 :::
 
 ---
-
 
 <TagLinks/>

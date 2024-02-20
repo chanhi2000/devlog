@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🐚Shell > 📚References
-tags: ["bash", "linux", "macos", "terminal", "alias"]
+category: 
+  - 🐚Shell
+  - 📚References
+tag: 
+  - bash
+  - linux
+  - macos
+  - terminal
+  - alias
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -182,5 +190,7 @@ tags: ["bash", "linux", "macos", "terminal", "alias"]
 - [Awesome Command-Line tools to boost your productivity](https://dev.to/tasinishmam/awesome-command-line-tools-to-boost-your-productivity-22n8)
 - [오라클 클라우드 Ubuntu 20.04 인스턴스 기본 설정하기](https://www.wsgvet.com/cloud/6)
 - [오라클 클라우드 인스턴스 생성 및 SSH 접속하기](https://www.wsgvet.com/cloud/5)
+
+---
 
 <TagLinks />

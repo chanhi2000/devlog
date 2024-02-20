@@ -1,12 +1,12 @@
 <!-- .vuepress/components/TagLinks -->
 <template>
   <div class="tags">
-    <router-link
+    <!-- <router-link
       v-for="tag in $page.frontmatter.tags" :key="tag"
         :to="{ path: `/tag/#${tag}` }"
       >
       #{{ tag }} 
-    </router-link>
+    </router-link> -->
 
     <Profile />
   </div>

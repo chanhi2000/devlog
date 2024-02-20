@@ -1,8 +1,17 @@
 ---
 lang: ko-KR
-title: 🔎SQL > Tibero
+title: Tibero
 description: 🔎SQL > Tibero
-tags: ["sql", "tibero", "tibero6", "ddl", "dml", "sql-privilege"]
+category:
+  - 🔎SQL
+  - Tibero
+tag: 
+  - sql
+  - tibero
+  - tibero6
+  - ddl
+  - dml
+  - sql-privilege
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,5 +55,6 @@ WHEN NOT MATCHED THEN INSERT (
 - [TIBERO 6 설치(ORACLE DB-LINK, JAVA 모듈 적용)](https://gampol.tistory.com/entry/Tibero-6-%EC%84%A4%EC%B9%98Oracle-DBLink-Java-%EB%AA%A8%EB%93%88-%EC%A0%81%EC%9A%A9)
 - [Tibero SQL 튜닝](https://augustines.tistory.com/149)
 
+---
 
 <TagLinks />

@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🆚VSCode > 🔮Snippets
-tags: ["vscode", "visual-studio-code", "ide", "snippets"] 
+category:
+  - 🆚VSCode
+  - 🔮Snippets
+tag: 
+  - vscode
+  - visual-studio-code
+  - ide
+  - snippets
 ---
 
 # {{ $frontmatter.title }} 관련

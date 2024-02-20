@@ -2,7 +2,17 @@
 lang: ko-KR
 title: 📺Youtube
 description: ♯CSharp > 📺Youtube
-tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
+category:
+  - ♯CSharp
+  - 📺Youtube
+tag: 
+  - csharp
+  - dotnet
+  - dotnetcore
+  - nuget
+  - blazor
+  - aspdotnet
+  - asp
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,8 +22,6 @@ tags: ["csharp", "dotnet", "dotnetcore", "nuget", "blazor", "aspdotnet", "asp"]
 [[toc]]
 
 ---
-
-## Frank Liu
 
 <MyYouTubeItems jsonName="yu-FrankLiuSoftware" /><!-- Frank Liu -->
 <MyYouTubeItems jsonName="yu-IAmTimCorey" /><!-- IAmTimCorey -->

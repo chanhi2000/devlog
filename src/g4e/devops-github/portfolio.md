@@ -2,7 +2,14 @@
 lang: ko-KR
 title: Portfolio
 description: 🕶️Github > Portfolio
-tags: ["portfolio", "github", "hyperlink", "resume"]
+category:
+  - 🕶️Github 
+  - Portfolio
+tag: 
+  - portfolio
+  - github
+  - hyperlink
+  - resume
 ---
 
 # {{ $frontmatter.title }} 관련

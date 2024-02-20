@@ -2,14 +2,23 @@
 lang: ko-KR
 title: 📚References
 description: 🍃Spring > 📚References
-tags: ["java", "jdk", "spring", "springboot", "baeldung"]
-meta:
-  - property: og:title
-    content: 📺Youtube
-  - property: og:description
-    content: 🍃Spring > 📚References
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-java-spring/references.html
+category: 
+  - 🍃Spring 
+  - 📚References
+tag: 
+  - java
+  - jdk
+  - spring
+  - springboot
+  - baeldung
+head:
+  - - meta:
+    - property: og:title
+      content: 🍃Spring > 📚References
+    - property: og:description
+      content: 🍃Spring > 📚References
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-java-spring/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

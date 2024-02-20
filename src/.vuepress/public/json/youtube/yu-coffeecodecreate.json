@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/2qU7rJoGslA5GZoo5afArRQdSgzRu8kug4EYe8jUNMS3YEOv13w7P_loO5GwOWpFeQH-hlaMxA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "izG8DIgM33U", "title": "BURN ALL THE CODE! // SimCity Three.js Project Update" },
+    { "id": "FPWhrz5r3JE", "title": "15. POWER PLANTS // Creating a SimCity Game with JavaScript & Three.js" },
     { "id": "p4Fk2uUnIHc", "title": "Add an Interactive Animated 3D Avatar to Your Portfolio // Three.js + Mixamo + Blender" }
   ],
   "playlists": [

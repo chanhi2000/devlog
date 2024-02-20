@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 💡Tips
 description: 🤖Android > 💡Tips
-tags: ["references", "android"]
+category:
+  - 🤖Android 
+  - 💡Tips
+tag: 
+  - references
+  - android
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -109,13 +114,13 @@ class MyForeroundService: Service() {
 
 ## Preferences
 
-![preferences-example-result][preferences-example-result]
+![preferences-example-result](/images/lang-android/preferences-example-result.jpg)
 
 ::: details Preferences 
 
 ### `app/build.gradle`
 
-```gradle
+```groovy
 dependencies {
     implementation 'androidx.preference:preference:1.1.1'
 }
@@ -203,7 +208,7 @@ fun crossfade(
 
 ### `build.gradle`
 
-```gradle
+```groovy
 dependencies {
     implementation "com.squareup:seismic:1.0.2"
 }
@@ -266,5 +271,4 @@ ValueAnimator.ofInt(0, 100).apply {
 
 <TagLinks />
 
-[preferences-example-result]: /images/lang-android/preferences-example-result.jpg
 [crossfade-animation]: /videos/lang-android/crossfade-animation.mp4

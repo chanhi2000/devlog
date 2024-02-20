@@ -1,14 +1,17 @@
-import type { NavbarConfig } from '@vuepress/theme-default'
+import { navbar } from "vuepress-theme-hope";
 
-export const navbarEn: NavbarConfig = [
+export const navbarEn = navbar([
+  /* 
   {
-    text: '🔖',
+    text: '🔖', // Tags
     link: '/tag/README.md'
-  }, {
-    text: '🪠', // Projects
+  }, 
+  */
+  {
+    text: '🏭', // Projects
     children: [
       {
-        text: 'Intro',
+        text: '🏭Projects',
         link: '/projects/README.md'
       }, {
         text: '🏁My Roadmap',
@@ -25,43 +28,18 @@ export const navbarEn: NavbarConfig = [
     text: '🎓', // academics
     children: [
       {
-        text: 'Intro',
-        link: '/academics/README.md'
-      }, {
         text: 'MATH011',
-        children: [
-          {
-            text: 'Intro',
-            link: '/academics/MATH011/README.md'
-          }, {
-            text: 'Lecture 1',
-            link: '/academics/MATH011/lect01.md'
-          }
-        ]
+        link: '/academics/MATH011/README.md'
       }, {
         text: 'COEN020',
-        children: [
-          {
-            text: 'Intro',
-            link: '/academics/COEN020/README.md'
-          }, {
-            text: 'Read 01a',
-            link: '/academics/COEN020/read01a.md'
-          }, {
-            text: 'Read 01b',
-            link: '/academics/COEN020/read01b.md'
-          }, {
-            text: 'Read 01c',
-            link: '/academics/COEN020/read01c.md'
-          }
-        ],
+        link: '/academics/COEN020/README.md'
       }, {
         text: 'PHYS034',
         link: '/academics/PHYS034/README.md'
       }
     ],
   }, {
-    text: '📖', // g42
+    text: '📖', // g4e
     children: [
       {
         text: '🌱API - Kakao',
@@ -174,4 +152,4 @@ export const navbarEn: NavbarConfig = [
 //     }
 //   ]
 // }, 
-];
+])

@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🗞️Newsletter
 description: 🗞️Newsletter
 ---
 
@@ -11,3 +11,7 @@ description: 🗞️Newsletter
 :::
 
 <ShieldsGroup logos="git,gitlfs,gitignoredotio,github,awesomelists"/>
+
+---
+
+<TagLinks />

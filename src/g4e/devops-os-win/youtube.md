@@ -2,7 +2,29 @@
 lang: ko-KR
 title: 📺Youtube
 description: 👓Windows > 📺Youtube
-tags: ["youtube", "tutorial", "education", "windows", "@MicrosoftResearch", "@ThioJoe", "@NETVN82", "@Britec09", "@NobelTech", "@Tricknology", "@TroubleChute", "@GeeksTutorial", "@Endermanch", "@TechsavvyProductions", "@MichaelMJD", "@BattleNonSense", "@BrettInTech", "@techyescity", "@TechLabsOfficial"]
+category:
+  - 👓Windows
+  - 📺Youtube
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "education"
+  - "windows"
+  - "@MicrosoftResearch"
+  - "@ThioJoe"
+  - "@NETVN82"
+  - "@Britec09"
+  - "@NobelTech"
+  - "@Tricknology"
+  - "@TroubleChute"
+  - "@GeeksTutorial"
+  - "@Endermanch"
+  - "@TechsavvyProductions"
+  - "@MichaelMJD"
+  - "@BattleNonSense"
+  - "@BrettInTech"
+  - "@techyescity"
+  - "@TechLabsOfficial"
 ---
 
 # {{ $frontmatter.title }} 관련

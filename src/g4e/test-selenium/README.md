@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧐Selenium
 description: 🧐Selenium
-category: selenium
-tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"] 
+category: 
+  - 🧐Selenium
+tag: 
+  - selenium
+  - automation
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐍Python > 📺Youtube
-tags: ["education", "youtube", "programming", "python", "py"]
+category:
+  - 🐍Python
+  - 📺Youtube
+tag: 
+  - education
+  - youtube
+  - programming
+  - python
+  - py
 ---
 
 # {{ $frontmatter.title }} 관련

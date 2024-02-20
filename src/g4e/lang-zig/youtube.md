@@ -2,8 +2,12 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🏂Zig > 📺Youtube
-category: 🏂Zig
-tags: ["youtube", "zig"]
+category: 
+  - 🏂Zig
+  - 📺Youtube
+tag: 
+  - youtube
+  - zig
 ---
 
 # {{ $frontmatter.title }} 관련

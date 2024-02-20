@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 📡WAS
 description: 🍃Spring > 📡WAS
-tags: ["java", "jdk", "was", "web-app-server", "backend", "spring", "springboot", "tomcat", "jboss", "jndi"]
+category:
+  - 🍃Spring 
+  - 📡WAS
+tag:
+  - java
+  - jdk
+  - was
+  - web-app-server
+  - backend
+  - spring
+  - springboot
+  - tomcat
+  - jboss
+  - jndi
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -23,5 +36,6 @@ tags: ["java", "jdk", "was", "web-app-server", "backend", "spring", "springboot"
 
 ### JNDI 설정
 
+---
 
 <TagLinks />

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: ⭕Openshift
 description: ⭕Openshift
+category: 
+  - ⭕Openshift
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,3 +15,7 @@ description: ⭕Openshift
 {{ $frontmatter.title }} 관련 정리내용
 
 <ShieldsGroup logos="docker,kubernetes,redhatopenshift"/>
+
+---
+
+<TagLinks />

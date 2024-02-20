@@ -2,8 +2,14 @@
 lang: ko-KR
 title: 🗞️News
 description: ☕️Java > 🗞️News
-category: ☕️Java
-tags: ["jdk", "jdk8", "news"]
+category: 
+  - ☕️Java
+  - 🗞️News
+tag: 
+  - java
+  - jdk
+  - jdk8
+  - news
 ---
 
 # {{ $frontmatter.title }} 관련

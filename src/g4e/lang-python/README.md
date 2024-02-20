@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🐍Python
 description: 🐍Python
+category:
+  - 🐍Python
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🐍Python
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-python/" />
+
+---
+
+<TagLinks />

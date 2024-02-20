@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🧶Node.js > 🔮Snippets
-tags: ["js", "javascript", "nodejs", "node", "react", "reatjs"]
+category:
+  - 🧶Node.js
+  - 🔮Snippets
+tag: 
+  - js
+  - node
+  - nodejs
+  - snippets
 ---
 
 # {{ $frontmatter.title }} 관련

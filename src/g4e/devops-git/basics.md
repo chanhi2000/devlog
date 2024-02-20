@@ -2,7 +2,30 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🛠️Git > 🐣Basics
-tags: ["git", "git-cli", "bash", "terminal", "windows-terminal", "tortoisegit", "git-remote", "git-branch", "git-fetch", "git-pull", "git-push", "git-checkout", "git-reset", "git-merge", "git-rebase", "git-status", "git-add", "git-commit", "git-log", "git-stash"]
+category:
+  - 🛠️Git 
+  - 🐣Basics
+tag: 
+  - git
+  - git-cli
+  - bash
+  - terminal
+  - windows-terminal
+  - tortoisegit
+  - git-remote
+  - git-branch
+  - git-fetch
+  - git-pull
+  - git-push
+  - git-checkout
+  - git-reset
+  - git-merge
+  - git-rebase
+  - git-status
+  - git-add
+  - git-commit
+  - git-log
+  - git-stash
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -73,6 +96,7 @@ tags: ["git", "git-cli", "bash", "terminal", "windows-terminal", "tortoisegit", 
 
 
 ---
+
 ## TortoiseGit
 
 | 명령어 | 설명 |

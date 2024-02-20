@@ -2,11 +2,13 @@
 lang: ko-KR
 title: 📚References
 description: ⌨Sublime Text > 📚References
-category: ⌨Sublime Text
-tags: 
-  - "js" 
-  - "chrome"
-  - "chrome-browser"
+category: 
+  - ⌨Sublime Text
+  - 📚References
+tag: 
+  - text-editor
+  - sublimetext
+  - subl
 ---
 
 # {{ $frontmatter.title }} 관련

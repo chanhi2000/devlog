@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 🌏로컬
 description: 🌱API - Kakao > 🌏로컬
-tags: ["kakao", "api", "references", "developer"]
+category:
+  - 🌱API - Kakao
+  - 🌏로컬
+tag: 
+  - kakao
+  - api
+  - references
+  - developer
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,12 +20,14 @@ tags: ["kakao", "api", "references", "developer"]
 
 ---
 
-```card
-title: kakao developers - 로컬
-desc: 이 문서는 로컬(Local) API 구현 방법을 소개합니다.
-link: https://developers.kakao.com/docs/latest/ko/local/dev-guide
-logo: https://developers.kakao.com/docs/static/image/ko/pc/local.png
-color: rgba(3, 22, 108, 0.2)
+```component VPCard
+{
+  "title": "kakao developers - 로컬",
+  "desc": "이 문서는 로컬(Local) API 구현 방법을 소개합니다.",
+  "link": "https://developers.kakao.com/docs/latest/ko/local/dev-guide",
+  "logo": "https://developers.kakao.com/docs/static/image/ko/pc/local.png",
+  "background": "rgba(3, 22, 108, 0.2)"
+}
 ```
 
 ---

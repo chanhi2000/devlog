@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🦕C > 🕶️Github
-tags: ["c", "cpp", "github", "git"]
+category:
+  - 🦕C
+  - 🕶️Github
+tag: 
+  - c
+  - cpp
+  - c++
+  - git
+  - github
 ---
 
 # {{ $frontmatter.title }} 관련

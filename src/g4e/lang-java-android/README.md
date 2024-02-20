@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🤖Android
 description: 🤖Android
+category:
+  - 🤖Android
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🤖Android
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-java-android/" />
+
+---
+
+<TagLinks />

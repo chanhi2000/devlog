@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🅽Notion
 description: 🅽Notion
+category:
+  - 🅽Notion
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🅽Notion
 :::
 
 <ShieldsGroup logos="notion"/>
+
+---
+
+<TagLinks />

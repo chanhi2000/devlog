@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 🌍Internet Explorer
 description: 👓Windows > 🌍Internet Explorer
-tags: ["ie" ,"Internet Explorer", "win", "Windows", "Browser"]
+category:
+  - 👓Windows
+  - 🌍Internet Explorer
+tag: 
+  - ie 
+  - internet-explorer
+  - win
+  - windows
+  - browser
 ---
 
 # {{ $frontmatter.title }} 관련

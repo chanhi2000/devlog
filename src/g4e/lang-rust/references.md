@@ -2,8 +2,13 @@
 lang: ko-KR
 title: 📚References
 description: 🦀Rust > 📚References
-category: 🦀Rust
-tags: ["rust" , "rs", "rust-lang"]
+category: 
+  - 🦀Rust
+  - 📚References
+tag: 
+  - rust
+  - rs
+  - rust-lang
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -11,6 +16,12 @@ tags: ["rust" , "rs", "rust-lang"]
 > {{ $frontmatter.description }}
 
 [[toc]]
+
+---
+
+## 
+
+- [Just One Single History](https://josh-project.github.io/josh/intro.html)
 
 ---
 

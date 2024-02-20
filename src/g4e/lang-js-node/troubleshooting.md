@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🩺Troubleshooting
 description: 🧶Node.js > 🩺Troubleshooting
-tags: ["js", "javascript", "nodejs", "node", "package-json", "dependencies"]
+category:
+  - 🧶Node.js
+  - 🩺Troubleshooting
+tag: 
+  - js
+  - node
+  - nodejs
+  - troubleshooting
+  - package-json
+  - dependencies
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -28,7 +37,7 @@ tags: ["js", "javascript", "nodejs", "node", "package-json", "dependencies"]
 
 문제파일 위치
 
-```
+```sh
 └── 프로젝트 경로/
     ├── 📁node_modules/
     │   └── 📁vuepress-plugin-mermaid-next/

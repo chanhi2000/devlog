@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🔰Dart > 📺Youtube
-tags: ["dart", "flutter"]
+category:
+  - 🔰Dart
+  - 📺Youtube
+tag: 
+  - dart
+  - flutter
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -10,7 +15,6 @@ tags: ["dart", "flutter"]
 > {{ $frontmatter.description }}
 
 [[toc]]
-
 
 ---
 

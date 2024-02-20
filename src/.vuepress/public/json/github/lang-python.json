@@ -262,9 +262,9 @@
     "officialSite": ""
   }, {
     "repo": "comfyanonymous/ComfyUI",
-    "desc": "The most powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "desc": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
     "officialSite": "",
-    "topics": ["stable-diffusion"]
+    "topics": ["pytorch", "stable-diffusion"]
   }, {
     "repo": "pynecone-io/pynecone",
     "desc": "🕸 Web apps in pure Python 🐍",
@@ -881,9 +881,9 @@
     "officialSite": ""
   }, {
     "repo": "zhayujie/chatgpt-on-wechat",
-    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网",
-    "topics": ["python3", "openai", "wechat", "chatgpt"],
-    "officialSite": ""
+    "desc": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "officialSite": "https://docs.link-ai.tech/cow",
+    "topics": ["ai", "chatglm-4", "chatgpt", "dingtalk", "feishu-bot", "gemini", "glm", "gpt-4", "linkai", "llm", "openai", "python3", "qwen", "rag", "wechat", "wechat-bot", "wenxinyiyan", "xunfei-spark"]
   }, {
     "repo": "Josh-XT/Agent-LLM",
     "desc": "An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.",
@@ -2521,9 +2521,9 @@
     "officialSite": "https://zhuanlan.zhihu.com/yangyangfuture"
   }, {
     "repo": "binary-husky/gpt_academic",
-    "desc": "为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。",
-    "topics": ["academic", "gpt-4", "large-language-models", "chatgpt", "chatglm-6b"],
-    "officialSite": "https://qingxu98-gpt-academic.hf.space"
+    "desc": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+    "officialSite": "https://github.com/binary-husky/gpt_academic/wiki/online",
+    "topics": ["academic", "chatglm-6b", "chatgpt", "gpt-4", "large-language-models"]
   }, {
     "repo": "woodruffw/shaq",
     "desc": "A CLI client for Shazam",
@@ -3380,11 +3380,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "comfyanonymous/ComfyUI",
-    "desc": "The most powerful and modular stable diffusion GUI with a graph/nodes interface.",
-    "officialSite": "",
-    "topics": ["stable-diffusion"]
-  }, {
     "repo": "state-spaces/mamba",
     "desc": "",
     "officialSite": "",
@@ -4174,5 +4169,35 @@
     "desc": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "karpathy/minbpe",
+    "desc": "Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "facebookresearch/jepa",
+    "desc": "PyTorch code and models for V-JEPA self-supervised learning from video.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "lllyasviel/stable-diffusion-webui-forge",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "XboxDev/endgame-exploit",
+    "desc": "A modern dashboard exploit for the original Microsoft Xbox.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "desc": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hyperdiv/hyperdiv",
+    "desc": "Build reactive web UIs in Python",
+    "officialSite": "https://hyperdiv.io",
+    "topics": ["framework", "python", "reactive", "ui", "web"]
   }
 ]

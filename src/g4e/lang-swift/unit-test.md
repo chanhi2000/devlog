@@ -3,7 +3,10 @@ lang: ko-KR
 title: 🔎Unit Test
 description: 🕊️Swift > 🔎Unit Test
 category: 🕊️Swift
-tags: ["ios", "swift", "xctest"]
+tag:
+  - ios
+  - swift
+  - xctest
 ---
 
 # {{ $frontmatter.title }} 관련

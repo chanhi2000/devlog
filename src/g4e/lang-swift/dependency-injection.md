@@ -2,8 +2,14 @@
 lang: ko-KR
 title: 💉Dependency Injection
 description: 🕊️Swift > 💉Dependency Injection
-category: 🕊️Swift
-tags: ["ios", "swift", "di", "dependency"]
+category: 
+  - 🕊️Swift
+  - 💉Dependency Injection
+tag: 
+  - ios
+  - swift
+  - di
+  - dependency
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 🐋Docker
 description: 🧊Cubrid > 🐋Docker
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
+category:
+  - 🧊Cubrid
+  - 🐋Docker
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - yml
+  - yaml
+  - docker-container
+  - vm
+  - docker-compose
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,9 +25,6 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 [[toc]]
 
 ---
-
-## Image
-
 
 ## Docker Compose
 
@@ -30,5 +40,6 @@ services:
   
 ```
 
+---
 
 <TagLinks />

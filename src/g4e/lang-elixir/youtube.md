@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 📺Youtube
 description: 💧Elixir > 📺Youtube
-tags: ["elixir", "exs", "youtube"]
+category:
+  - 💧Elixir
+  - 📺Youtube
+tag: 
+  - elixir
+  - exs
+  - youtube
 ---
 
 # {{ $frontmatter.title }} 관련

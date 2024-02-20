@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🐘Gradle
 description: 🐘Gradle
+category:
+  - 🐘Gradle
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🐘Gradle
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-gradle/" />
+
+---
+
+<TagLinks />

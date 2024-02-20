@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 🧶Node.js > 📚References
-tags: ["js", "javascript", "nodejs", "node", "fly.io"]
+category:
+  - 🧶Node.js
+  - 📚References
+tag: 
+  - js
+  - nodejs
+  - node
+  - fly.io
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -665,6 +672,18 @@ tags: ["js", "javascript", "nodejs", "node", "fly.io"]
 ## Observable
 
 - [Announcing: Observable Framework](https://observablehq.com/blog/observable-2-0)
+
+---
+
+## OpenStatus
+
+- [Monitoring latency: Cloudflare Workers vs Fly vs Koyeb vs Railway vs Render](https://www.openstatus.dev/blog/monitoring-latency-cf-workers-fly-koyeb-raylway-render)
+
+---
+
+## William Edmisten
+
+- [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
 
 ---
 

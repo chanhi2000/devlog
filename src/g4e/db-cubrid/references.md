@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 📚References
 description: 🧊Cubrid > 📚References
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "cubrid", "docker-compose"]
+category:
+  - 🧊Cubrid
+  - 📚References
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - yml
+  - yaml
+  - docker-container
+  - cubrid
+  - docker-compose
 ---
 
 # {{ $frontmatter.title }} 관련

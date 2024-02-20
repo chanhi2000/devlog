@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Intro
+title: Devlog
 description: Devlog
 ---
 
@@ -11,3 +11,5 @@ description: Devlog
 :::
 
 ---
+
+<TagLink />

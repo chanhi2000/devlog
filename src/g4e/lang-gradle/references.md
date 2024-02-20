@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🐘Gradle > 📚References
-tags: ["java", "axelor"]
+category:
+  - 🐘Gradle 
+  - 📚References
+tag: 
+  - java
+  - axelor
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2,7 +2,18 @@
 lang: ko-KR
 title: 😎Awesome List
 description: 🕶️Github > 😎Awesome List
-tags: ["awesome-list", "github", "roadmap", "ebook", "swift", "ios", "beginner", "guide"]
+category:
+  - 🕶️Github 
+  - 😎Awesome List
+tag: 
+  - awesome-list
+  - github
+  - roadmap
+  - ebook
+  - swift
+  - ios
+  - beginner
+  - guide
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🔎SQL
 description: 🔎SQL
+category:
+  - 🔎SQL
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,5 @@ description: 🔎SQL
 :::
 
 ---
+
+<TagLinks />

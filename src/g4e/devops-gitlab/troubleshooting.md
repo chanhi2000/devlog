@@ -2,7 +2,18 @@
 lang: ko-KR
 title: 🩺Troubleshooting 
 description: 🦊Gitlab > 🩺Troubleshooting 
-tags: ["troubleshooting", "gitlab", "gitlab-cli", "sh", "yml", "gitlab"]
+category:
+  - 🦊Gitlab
+  -  🩺Troubleshooting
+tag: 
+  - troubleshooting
+  - git
+  - gitlab
+  - gitlab-ci
+  - gitlab-cli
+  - sh
+  - yml
+  - gitlab
 ---
 
 # {{ $frontmatter.title }} 관련

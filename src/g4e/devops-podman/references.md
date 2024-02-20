@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🍄Podman > 📚References
-tags: ["podman", "docker"] 
+category:
+  - 🍄Podman
+  - 📚References
+tag: 
+  - podman
+  - docker
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -16,7 +21,6 @@ tags: ["podman", "docker"]
 ## Phoenix NAP
 
 - [Podman Tutorial - Basics for Beginners](https://phoenixnap.com/kb/podman-tutorial)
-
 
 ---
 
@@ -35,5 +39,7 @@ tags: ["podman", "docker"]
 ## GodNR
 
 - [Podman, Buildah, Skopeo를 활용하여 Docker CLI 대체하기](https://waspro.tistory.com/679)
+
+---
 
 <TagLinks />

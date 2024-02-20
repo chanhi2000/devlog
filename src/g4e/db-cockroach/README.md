@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🪳Cockroach
 description: 🪳Cockroach
+category:
+  - 🪳Cockroach
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🪳Cockroach
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/db-cockroach/" />
+
+---
+
+<TagLinks />

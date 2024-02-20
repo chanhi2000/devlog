@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🐧Linux > 📚References
-tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"] 
+category:
+  - 🐧Linux
+  - 📚References 
+tag: 
+  - win
+  - Windows
+  - win10
+  - msc
+  - eventvwr.msc
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -143,6 +151,12 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 ## sgarzare's blog
 
 - [`vDPA`: support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
+
+---
+
+## Alan Pope
+
+- [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 
 ---
 

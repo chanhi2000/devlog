@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 📚References
 description: 📦AWS > 📚References
-tags: ["aws", "amazon", "amazon-web-service"]
+category: 
+  - 📦AWS
+  - 📚References
+tag: 
+  - aws
+  - amazon
+  - amazon-web-service
 ---
 
 # {{ $frontmatter.title }} 관련

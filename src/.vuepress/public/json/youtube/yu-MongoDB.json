@@ -2,8 +2,8 @@
   "channel": {
     "id": "MongoDB",
     "name": "MongoDB",
-    "profile": "https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/MNEsC8Wtd1Stf_OQYP-OBqVoveODo09vUT3WrEftmEA65X1zuJ5QOOJnOWAucqgedq-3qA-JWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JN3iJatV1B1FOsPyPsK5nMn1fRPejRbIeiZu3l6WyNBmnRTMwrcGQqmoldalGaP5zOoo3jc_xB4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "XIWwdmnFndU", "title": "The Index: Atlas Search Query Analytics, Semantic Search, & CSFLE" },

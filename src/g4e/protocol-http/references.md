@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🌤️HTTP > 📚References
-tags: ["education", "references", "medium", "https", "csrf"]
+category:
+  - 🌤️HTTP 
+  - 📚References
+tag: 
+  - education
+  - references
+  - medium
+  - https
+  - csrf
 ---
 
 # {{ $frontmatter.title }} 관련

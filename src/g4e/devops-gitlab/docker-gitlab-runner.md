@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 💪GitLab Runner
 description: 🦊Gitlab > 💪GitLab Runner
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
+category:
+  - 🦊Gitlab
+  - 💪GitLab Runner
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - yml
+  - yaml
+  - docker-container
+  - vm
+  - docker-compose
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -85,11 +98,8 @@ PANIC: Failed to register the runner.
 
 도커 간 network 구성이 되어 있지 않아 GitLab을 접근할 수 없음.
 
-> [🚢Docker Compose][toDockerCompose] 페이지에서 `docker-compose-gitlab.yml` 을 참고
+> [🚢Docker Compose](docker-compose.md) 페이지에서 `docker-compose-gitlab.yml` 을 참고
 
 ---
 
 <TagLinks />
-
-
-[toDockerCompose]: docker-compose.md

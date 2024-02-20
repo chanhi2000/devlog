@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 🚀Github Action
 description: 🕶️Github > 🚀Github Action
-tags: ["github", "github-action"]
+category:
+  - 🕶️Github
+  - 🚀Github Action
+tag: 
+  - github
+  - github-action
+  - cicd
+  - ci
+  - cd
 ---
 
 # {{ $frontmatter.title }} 관련

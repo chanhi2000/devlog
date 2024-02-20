@@ -2,16 +2,25 @@
 lang: ko-KR
 title: 🖨Log4j
 description:  ☕️Java > 🖨Log4j
-tags: ["git" , "github" , "java" , "kotlin" , "android"]
-meta:
-  - name: 🖨Log4j
-    content: ☕️Java > 🖨Log4j
-  - property: og:title
-    content: 🖨Log4j
-  - property: og:description
-    content: ☕️Java > 🖨Log4j
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-java/log4j.html
+category:
+  - ☕️Java 
+  - 🖨Log4j
+tag: 
+  - java
+  - jdk
+  - kotlin
+  - log4j
+  - log4j2
+head:
+  - - meta:
+    - property: og:title
+      content: ☕️Java > 🖨Log4j
+    - property: og:description
+      content: ☕️Java > 🖨Log4j
+    - property: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-java/log4j.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🧙‍♂️Powershell > 🐣Basics
-tags: ["powershell", "windows", "windows-terminal", "multiline"]
+category:
+  - 🧙‍♂️Powershell 
+  - 🐣Basics
+tag: 
+  - powershell
+  - pwsh
+  - windows
+  - windows-terminal
+  - multiline
 ---
 
 # {{ $frontmatter.title }} 관련

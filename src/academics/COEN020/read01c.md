@@ -126,9 +126,7 @@ The IEEE (Institute of Electrical and Electronics Engineers) has produced a stan
 
 Because many of our users may have occasion to transfer unformatted or "binary" data between an IEEE machine and the Cray or the VAX/VMS, it is worth noting the details of this format for comparison with the Cray and VAX representations. The differences in the formats also affect the accuracy of floating point computations.
 
-### SUMMARY
-
-#### Single Precision
+### Single Precision
 
 The IEEE single precision floating point standard representation requires a 32 bit word, which may be represented as numbered from 0 to 31, left to right. The first bit is the sign bit, S, the next eight bits are the exponent bits, '`E`', and the final 23 bits are the fraction 'F':
 
@@ -142,7 +140,7 @@ The value V represented by the word may be determined as follows:
 - If `E` is 255 and `F` is nonzero, then `V=NaN` (i.e. "Not a number")
 - If `E` is 255 and `F` is zero and `S is 1, then `V` is -infinity.
 - If `E` is 255 and `F` is zero and `S` is 0, then `V` is infinity.
-- If $$0<E<255$$ then `V=(-1)**S * 2 ** (E-127) * (1.F)` where "`1.F`" is intended to represent the binary number created by prefixing `F` with an implicit leading 1 and a binary point.
+- If $0<E<255$ then `V=(-1)**S * 2 ** (E-127) * (1.F)` where "`1.F`" is intended to represent the binary number created by prefixing `F` with an implicit leading 1 and a binary point.
 - If `E` is 0 and `F` is nonzero, then `V=(-1)**S * 2 ** (-126) * (0.F)` These are "unnormalized" values.
 - If `E` is 0 and `F` is zero and `S` is 1, then `V` is -0
 - If `E` is 0 and `F` is zero and `S` is 0, then `V` is 0
@@ -169,7 +167,7 @@ In particular,
 									   = 2**(-149) (Smallest positive value)
 ```
 
-#### Double Precision
+### Double Precision
 
 The IEEE double precision floating point standard representation requires a 64 bit word, which may be represented as numbered from 0 to 63, left to right. The first bit is the sign bit, `S`, the next eleven bits are the exponent bits, '`E`', and the final 52 bits are the fraction '`F`':
 
@@ -183,7 +181,7 @@ The value `V` represented by the word may be determined as follows:
 - If `E` is 2047 and `F` is nonzero, then `V=NaN` ("Not a number")
 - If `E` is 2047 and `F` is zero and `S` is 1, then `V` is -Infinity
 - If `E` is 2047 and `F` is zero and `S` is 0, then `V` is Infinity
-- If $$0<E<2047$$ then `V=(-1)**S * 2 ** (E-1023) * (1.F)` where "`1.F`" is intended to represent the binary number created by prefixing `F` with an implicit leading 1 and a binary point.
+- If $0<E<2047$ then `V=(-1)**S * 2 ** (E-1023) * (1.F)` where "`1.F`" is intended to represent the binary number created by prefixing `F` with an implicit leading 1 and a binary point.
 - If `E` is 0 and `F` is nonzero, then `V=(-1)**S * 2 ** (-1022) * (0.F)` These are "unnormalized" values.
 - If `E` is 0 and `F` is zero and `S` is 1, then `V` is -0
 - If `E` is 0 and `F` is zero and `S` is 0, then `V` is 0
@@ -198,7 +196,7 @@ The value `V` represented by the word may be determined as follows:
 
 > Functions that execute an unpredictable number of iterations are frowned upon in real-time systems.
 
-Ask any math-smart programmer how to find a square root of a number, and five will get you ten, he'll tell you about Newton's method, which is an iterative approach. The general idea is this: given a number a for which we want to find the square root, we begin with an estimate $$x_0$$ for that root. We then refine the estimate using the formula:
+Ask any math-smart programmer how to find a square root of a number, and five will get you ten, he'll tell you about Newton's method, which is an iterative approach. The general idea is this: given a number a for which we want to find the square root, we begin with an estimate $x_0$ for that root. We then refine the estimate using the formula:
 
 $$
 x=\frac{1}{2}\left(x_0+\frac{a}{x_0}\right)\tag{1}
@@ -208,15 +206,16 @@ This method does work, and works very well. With any kind of reasonable initial 
 
 Even with the best estimates, however, we can't predict in advance how many iterations the method will take to converge to suitable accuracy. In general, functions that execute an unpredictable number of iterations are frowned upon in real-time systems, for the obvious reason that they make the total time per task unpredictable, and introduce jitter, not to mention potential disaster in the form of task overruns, into the system.
 
-If you're using integer arithmetic, there's yet another problem: the method fails to converge! Try it for $$a=15$$ and you'll find that $$x$$ oscillates between three and four. Only one of these numbers (the three) can possibly be correct, but tell that to Dr. Newton.
+If you're using integer arithmetic, there's yet another problem: the method fails to converge! Try it for $a=15$ and you'll find that $x$ oscillates between three and four. Only one of these numbers (the three) can possibly be correct, but tell that to Dr. Newton.
 
 I suppose we could fix the method up easily enough, by refusing to allow a solution whose square is greater than a, but there's another possibility: a closed-form solution that can't oscillate. You and I both know that such algorithms exist—we all learned one in high school. And unless you're very weird, you promptly forgot it just as I did. As a sort of dessert to our recent smorgasbord of algorithms for integer arithmetic, this month I'm offering a discussion of the closed-form solutions for the square root.
 
 ### Begin at the Beginning
+
 When I'm starting on a new algorithm, I sometimes find it's both fun and instructional to begin by trying to see just how simple-minded an algorithm I can write. I think I do this just to prove to myself that the problem can at least be solved. From there, anything else is mere refinement.
 
 
-For the case of integer square roots, let's be specific about what we want: we want the largest integer $$x$$ whose square is less than $$a$$. Well, I certainly know one way to find such an integer: an exhaustive search. We'll start with $$x=1$$, keep incrementing it until it's too big, then back off by one. __Listing 1__ shows the simplest square root finder you will ever see. Note carefully the way the loop test is written. The "`<=`" sign is used, rather than simply "`<`", to guarantee that we always exit the loop with `x` too large.
+For the case of integer square roots, let's be specific about what we want: we want the largest integer $x$ whose square is less than $a$. Well, I certainly know one way to find such an integer: an exhaustive search. We'll start with $x=1$, keep incrementing it until it's too big, then back off by one. __Listing 1__ shows the simplest square root finder you will ever see. Note carefully the way the loop test is written. The "`<=`" sign is used, rather than simply "`<`", to guarantee that we always exit the loop with `x` too large.
 
 #### Listing 1: The Simplest square root.
 
@@ -237,7 +236,7 @@ $$
 (n+1)^2=n^2+2n+1\tag{2}
 $$
 
-If we already have the square of $$n$$, which we do, we can get the square of the next larger number by adding $$2n+1$$. Now, does this expression look familiar? It should; it's the expression for the sequence of odd numbers. We can see this relationship graphically by considering the difference between the first few squares, as illustrated in __Table 1__.
+If we already have the square of $n$, which we do, we can get the square of the next larger number by adding $2n+1$. Now, does this expression look familiar? It should; it's the expression for the sequence of odd numbers. We can see this relationship graphically by considering the difference between the first few squares, as illustrated in __Table 1__.
 
 #### Table 1: Squares and differences.
 
@@ -324,13 +323,14 @@ Only Gap wasn't really adding, he was subtracting--from the number whose root he
 
 This next part of the algorithm is critically important, both for the Friden solution and for our computerized ones. It's the notion of shifting, in a manner similar to that used in long division.
 
-Somewhere in the dim recesses of your memory, you have a vague recollection of "pointing off by two" to begin the computation of a square root by hand. That's because squaring a one-digit number (from zero through nine) produces a two-digit result (zero through 81). Consider, for a moment, a two-digit decimal number, where the two digits are $$p$$ and $$q$$. We can write this number as:
+Somewhere in the dim recesses of your memory, you have a vague recollection of "pointing off by two" to begin the computation of a square root by hand. That's because squaring a one-digit number (from zero through nine) produces a two-digit result (zero through 81). Consider, for a moment, a two-digit decimal number, where the two digits are  $p$ and $q$. We can write this number as:
 
 $$
 x=10p+q\tag{4}
 $$
 
 Squaring gives:
+
 $$
 \begin{align*}
 x^2&=(10p+q)^2\\
@@ -339,12 +339,15 @@ x^2&=(10p+q)^2\\
 $$
 
 To make the example more concrete, let:
+
 $$
 \begin{matrix}
 p=9;&q=5;
 \end{matrix}\tag{6}
 $$
-so $$x=95$$. and
+
+so $x=95$. and
+
 $$
 \begin{align*}
 x^2&=100(81)+20(45)+25\\
@@ -352,10 +355,11 @@ x^2&=100(81)+20(45)+25\\
 \end{align*}\tag{8}
 $$
 
-From this example, it's easy to convince oneself that the $$p^2$$ and the $$q^2$$ terms don't interact; the latter term can never be as large as 100, so it can never affect the
-value of the higher two digits—it fits neatly into the space reserved by the trailing two zeros of $$100p^2$$.
+From this example, it's easy to convince oneself that the $p^2$ and the $q^2$ terms don't interact; the latter term can never be as large as 100, so it can never affect the
+value of the higher two digits—it fits neatly into the space reserved by the trailing two zeros of $100p^2$.
 
-The middle term, $$900$$ in our example, is a little more worrisome. It clearly overlaps into the high half of the result, and changes the values of the two high digits. However, a little reflection will convince you that the value of $$q$$ can never influence the result we get for $$p$$. The worst-case condition occurs when $$q=9$$. Even for this case, however, the sum can never be as large as the square of the next larger $$p$$. In mathematical terms,
+The middle term, $900$ in our example, is a little more worrisome. It clearly overlaps into the high half of the result, and changes the values of the two high digits. However, a little reflection will convince you that the value of $q$ can never influence the result we get for $p$. The worst-case condition occurs when $q=9$. Even for this case, however, the sum can never be as large as the square of the next larger $p$. In mathematical terms,
+
 $$
 10p+9<10(p+1)\tag{9}
 $$
@@ -406,6 +410,7 @@ The implication of __Equation 9__ is profound: it means that we can solve for ea
 | | | | | 29394 |
 
 As you can see from the table, we're still subtracting numbers in pairs, each one larger than the other. Note, however, that we don't ignore the higher-order digits, as we would in long division. Each of our subtracted numbers includes all the digits previously found, and we're working our way up through the last digit, starting with the zero. This process turned out to be just the right approach for the Friden calculator, which had sticky digits and thus remembered the leftmost digits already found. The nicest part of the whole approach, from the point of view of utility, was that after the last digit was found, the numbers left stuck in the keyboard did, in fact, represent the square root--in this case:
+
 $$
 \sqrt{1234567890}=35136+\text{fractional part}\tag{10}
 $$
@@ -419,11 +424,13 @@ Finally, note that, unlike the case of division, the number we're subtracting ge
 From a practical point of view, however, the result is the sound of a thrashing calculator whose decibels, not to mention the complexity of the sound, are rising at an alarming rate, roughly comparable to the sound of a Yugo being seriously overrevved. Imagine the sound of a pondful of hoarse frogs, as one after the other chimes in to harmonize with the rest. The first time you hear it, it seems a toss-up which will arrive first, the solution or the demise of a calculating engine. However, despite the alarming noise, I never saw a Friden fail or give an incorrect result.
 
 ### The High-School Algorithm
+
 As I mentioned earlier, you and I both know that a method exists for the pencil-and- paper computation of the square root—we all learned the method, and promptly forgot it, in high school.
 
 As fascinating as the Friden algorithm might be, and as valuable from a historical point of view, it has little if any value using any other calculator, one that lacks the sticky, matrix-like keyboard of the Friden. Nevertheless, it is the basis for the "high school" algorithm and gives us enough insight into the process so that, with any luck, you will be able to remember it this time.
 
 Let's go back to __Equations 4__ and __5__, which I'll repeat here for convenience:
+
 $$
 \begin{align*}
 x&=10p+q\tag{4}\\
@@ -432,7 +439,8 @@ x^2&=100p^2+20pq+q^2\tag{5}
 $$
 
 
-We'll assume that we've already managed to find $$p$$, by some method or another. We're now looking for the next digit, $$q$$. Rewriting __Equation 5__ gives:
+We'll assume that we've already managed to find $p$, by some method or another. We're now looking for the next digit, $q$. Rewriting __Equation 5__ gives:
+
 $$
 \begin{align*}
 20pq+q^2&=x^2-100p^2\\
@@ -442,22 +450,23 @@ q&=\frac{x^2-100p^2}{20p+q}
 $$
 
 
-This formula gives us a rule for finding $$q$$. Notice that the numerator of the right-hand side is the original number, less the square of $$p$$, shifted left so that the two line up. In short, the numerator is the remainder after we've subtracted our initial guess for the root. To get the denominator, we must double our guess $$p$$, shift it left one place, and add $$q$$.
+This formula gives us a rule for finding $q$. Notice that the numerator of the right-hand side is the original number, less the square of $p$, shifted left so that the two line up. In short, the numerator is the remainder after we've subtracted our initial guess for the root. To get the denominator, we must double our guess $p$, shift it left one place, and add $q$.
 
 At this point, if you've been paying attention, you're asking, "How can I add q until I know what it is?" The answer, of course, is that you can't. This makes the square root algorithm a bit of a trial-and-error process, just like the division algorithm (hardly a surprise, there). In division, as we've learned so laboriously over the last few months, we look at the first couple of digits of the dividend and divisor, and use them to guess at the next digit of the quotient. We can't be sure that it's correct, however, until we've multiplied it by the entire divisor, and verified that we get a small, positive remainder.
 
-In the same way, in the square root process, we assume a value for $$q$$, based on a divisor of $$20p$$. Then we must substitute the new value of $$q$$, and make sure the division still works.
+In the same way, in the square root process, we assume a value for $q$, based on a divisor of $20p$. Then we must substitute the new value of $q$, and make sure the division still works.
 
 It seems complicated, but it's actually no more complicated than division, and in some ways it's a bit easier.
 
-When I first wrote down __Equation 4__, I was assuming that $$p$$ and $$q$$ were single digits. However, you'll note that there's nothing in the math that requires that. We can now let $$p$$ be all the digits of the root that we've found so far, and $$q$$ the one we're seeking next. In division, the trial quotient digit must be tested at each step, and often adjusted. The same is true in the square root algorithm. However, in the latter, the larger $$p$$ is, the less influence $$q$$ will have on the square, and the less likely we are to have to backtrack and reduce $$q$$. Therefore, although we must still always check to be sure, there's actually less backtracking in the square root. The only thing that makes the algorithm seem harder is the fact that the root, and therefore the differences, are getting larger as we go along, just as we saw in __Table 3__.
+When I first wrote down __Equation 4__, I was assuming that $p$ and $q$ were single digits. However, you'll note that there's nothing in the math that requires that. We can now let $p$ be all the digits of the root that we've found so far, and $q$ the one we're seeking next. In division, the trial quotient digit must be tested at each step, and often adjusted. The same is true in the square root algorithm. However, in the latter, the larger $p$ is, the less influence $q$ will have on the square, and the less likely we are to have to backtrack and reduce $q$. Therefore, although we must still always check to be sure, there's actually less backtracking in the square root. The only thing that makes the algorithm seem harder is the fact that the root, and therefore the differences, are getting larger as we go along, just as we saw in __Table 3__.
 
 Enough talk; let's see an example. We'll use the same input value we used before. Our first step is to point it off by twos:
+
 $$
 12\phantom{2}34\phantom{2}56\phantom{2}78\phantom{2}90
 $$
 
-Next, we write down the first digit of the root. We don't need a fancy algorithm for this. The first piece of the argument is only two digits long, and its root can only be one of nine numbers. Even a mathophobe should be able to figure out, by inspection, which of the nine it is. In this case, we see that four gives a square of $$16$$, which is too large. So the first digit must be three. Write it down above the input value. Now square it, and subtract it to get the remainder:
+Next, we write down the first digit of the root. We don't need a fancy algorithm for this. The first piece of the argument is only two digits long, and its root can only be one of nine numbers. Even a mathophobe should be able to figure out, by inspection, which of the nine it is. In this case, we see that four gives a square of $16$, which is too large. So the first digit must be three. Write it down above the input value. Now square it, and subtract it to get the remainder:
 
 $$
 \require{enclose}
@@ -469,9 +478,9 @@ $$
 \end{array}
 $$
 
-As you can see, we've "brought down" the next digits, just as we do in division. The only difference is, we bring them down by twos, so our next dividend is $$334$$. This is the top half of the division in __Equation 11__.
+As you can see, we've "brought down" the next digits, just as we do in division. The only difference is, we bring them down by twos, so our next dividend is $334$. This is the top half of the division in __Equation 11__.
 
-Now, here comes the tricky part: Remember that the bottom half is not $$10p+q$$, but $$20p+q$$. Before we look for $$q$$, we must double the current root, then tack on a new zero (bet that's the part you forgot!). At this point, the process looks like this:
+Now, here comes the tricky part: Remember that the bottom half is not $10p+q$, but $20p+q$. Before we look for $q$, we must double the current root, then tack on a new zero (bet that's the part you forgot!). At this point, the process looks like this:
 
 $$
 \require{enclose}
@@ -481,13 +490,13 @@ $$
 \end{array}
 $$
 
-Our division is, then, $$\tfrac{334}{60}$$, which yields five and some change. Before we write down the new digit, five, however, we must make sure that the division still works when we stick the five into the divisor. So we now have:
+Our division is, then, $\tfrac{334}{60}$, which yields five and some change. Before we write down the new digit, five, however, we must make sure that the division still works when we stick the five into the divisor. So we now have:
 
 $$
 \frac{335}{65}
 $$
 
-which still gives us a five. We're okay, and don't need to backtrack. Write this next digit down, so our trial root is now $$35$$. Please note: it's very, very important for you to see that the trial root and the thing we divide with are not the same, because of that factor of two. The last digit is the same, but the rest of the divisor is double that of the root. At this point, our process looks like this:
+which still gives us a five. We're okay, and don't need to backtrack. Write this next digit down, so our trial root is now $35$. Please note: it's very, very important for you to see that the trial root and the thing we divide with are not the same, because of that factor of two. The last digit is the same, but the rest of the divisor is double that of the root. At this point, our process looks like this:
 $$
 \require{enclose}
 \begin{array}{l}
@@ -498,9 +507,10 @@ $$
 
 Now, you're probably thinking, what next? How do I subtract to get the new remainder?
 
-We can't just square $$35$$ and subtract it, because we've already subtracted the square of three.
+We can't just square $35$ and subtract it, because we've already subtracted the square of three.
 
 Again, Equation 5 provides our answer. We have:
+
 $$
 x^2=100p^2+20pq+q^2
 $$
@@ -510,12 +520,13 @@ $$
 q(20p+1)=x^2-100p^2
 $$
 
-We've also already performed the subtraction on the right--that's how we got the remainder to divide with, to find $$q$$. Now that we've found it, we must complete the subtraction by subtracting out the left-hand side. That is, the remainder we now must obtain is:
+We've also already performed the subtraction on the right--that's how we got the remainder to divide with, to find $q$. Now that we've found it, we must complete the subtraction by subtracting out the left-hand side. That is, the remainder we now must obtain is:
 $$
 \rm{rem}=x^2-100p^2-q(20p+q)\tag{12}
 $$
 
-In this example, $$q$$ is five, and $$20p+q$$ is $$65$$, so we subtract $$325$$. Note that this step is identical to division. After the subtraction, our process looks like this:
+In this example, $q$ is five, and $20p+q$ is $65$, so we subtract $325$. Note that this step is identical to division. After the subtraction, our process looks like this:
+
 $$
 \require{enclose}
 \begin{array}{l}

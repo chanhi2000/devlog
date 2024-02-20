@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐬MySQL > 📺Youtube
-tags: ["sql", "db", "mysql", "shell", "youtube"]
+category:
+  - 🐬MySQL 
+  - 📺Youtube
+tag: 
+  - sql
+  - db
+  - mysql
+  - shell
+  - youtube
 ---
 
 # {{ $frontmatter.title }} 관련

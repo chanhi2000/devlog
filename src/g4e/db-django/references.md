@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🤠Django > 📚References
-tags: ["django"]
+category:
+  - 🤠Django
+  - 📚References
+tag:
+  - django
+---
 ---
 
 # {{ $frontmatter.title }} 관련

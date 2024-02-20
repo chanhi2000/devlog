@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Intro
+title: COEN020
 description: COEN020
 ---
 

@@ -2,7 +2,18 @@
 lang: ko-KR
 title: 🐘🔮Gradle Snippets
 description: 🍃Spring > 🐘🔮Gradle Snippets
-tags: ["gradle", "groovy", "spring", "springboot", "idea", "intellij-idea", "intellij", "plugin-android"]
+category:
+  - 🍃Spring
+  - 🐘🔮Gradle Snippets
+tag: 
+  - gradle
+  - groovy
+  - spring
+  - springboot
+  - idea
+  - intellij-idea
+  - intellij
+  - plugin-android
 ---
 
 # {{ $frontmatter.title }} 관련

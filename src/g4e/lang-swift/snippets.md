@@ -2,8 +2,12 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🕊️Swift > 🔮Snippets
-category: 🕊️Swift
-tags: ["references", "swift"]
+category: 
+  - 🕊️Swift
+  - 🔮Snippets
+tag: 
+  - references
+  - swift
 ---
 
 # {{ $frontmatter.title }} 관련

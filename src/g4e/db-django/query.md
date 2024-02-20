@@ -2,7 +2,11 @@
 lang: ko-KR
 title: 🔍Query
 description: 🤠Django > 🔍Query
-tags: ["django"]
+category:
+  - 🤠Django
+  - 🔍Query
+tag:
+  - django
 ---
 
 # {{ $frontmatter.title }} 관련

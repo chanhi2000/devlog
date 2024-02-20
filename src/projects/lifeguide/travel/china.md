@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 🇨🇳China
 description: 🧭Lifeguide > ✈️Travel > 🇨🇳China
-tags: ["travel", "lifeguide"]
+category:
+  - 🧭Lifeguide
+  - ✈️Travel
+  - 🇨🇳China
+tag: 
+  - travel
+  - lifeguide
 ---
 
 # {{ $frontmatter.description }} 관련

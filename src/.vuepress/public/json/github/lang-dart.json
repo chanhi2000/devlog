@@ -31,9 +31,9 @@
     "topics": ["dart", "uwp", "flutter", "fluent-design", "fluent-ui", "flutter-favorite"]
   }, {
     "repo": "GopeedLab/gopeed",
-    "desc": "High speed downloader that supports all platforms.",
-    "officialSite": "",
-    "topics": ["android", "windows", "macos", "golang", "http", "ios", "torrent", "downloader", "debian", "bittorrent", "cross-platform", "ubuntu", "https", "flutter"]
+    "desc": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+    "officialSite": "https://gopeed.com",
+    "topics": ["android", "bittorrent", "cross-platform", "debian", "downloader", "flutter", "golang", "http", "https", "ios", "macos", "magnet", "torrent", "ubuntu", "windows"]
   }, {
     "repo": "AppFlowy-IO/AppFlowy",
     "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",

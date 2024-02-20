@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧭Public APIs
 description: 🧭Public APIs
 ---
 

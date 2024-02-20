@@ -1,8 +1,14 @@
 ---
 lang: ko-KR
-title: Intro
+title: 📝Markdown
 description: 📝Markdown
-tags: ["markdown", "md", "git" , "github"]
+category:
+  - 📝Markdown
+tag: 
+  - markdown
+  - md
+  - git
+  - github
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,3 +18,7 @@ tags: ["markdown", "md", "git" , "github"]
 :::
 
 <ShieldsGroup logos="markdown"/>
+
+---
+
+<TagLinks />

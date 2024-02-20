@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦢LaTeX
 description: 🦢LaTeX
+category:
+  - 🦢LaTeX
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🦢LaTeX
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-latex/" />
+
+---
+
+<TagLinks />

@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🧢Batchfile > 🐣Basics
-tags: ["batch", "bat", "windows", "windows-terminal", "multiline", "DOSKEY"]
+category: 
+  - 🧢Batchfile 
+  - 🐣Basics
+tag: 
+  - batch
+  - bat
+  - windows
+  - windows-terminal
+  - multiline
+  - DOSKEY
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -32,6 +41,6 @@ wsdl2java.bat -u -t -ss -sd -g -b ^
 DOSKEY scrcpyDefault=scrcpy -m 1024 --always-on-top
 ```
 
-
+---
 
 <TagLinks />

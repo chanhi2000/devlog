@@ -2,7 +2,23 @@
 lang: ko-KR
 title: 📚References
 description: 🌈Chrome Browser > 📚References
-tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws", "git-flow", "chrome-extensions"]
+category: 
+  - 🌈Chrome Browser
+  - 📚References
+tag: 
+  - devlog
+  - notion
+  - nhn
+  - naver
+  - naver-d2
+  - woowahan
+  - toast
+  - medium
+  - dev-to
+  - velog
+  - aws
+  - git-flow
+  - chrome-extensions
 ---
 
 # {{ $frontmatter.title }} 관련

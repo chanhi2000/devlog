@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 👽oVirt > 📚References
-tags: ["bash", "sh"]
+category:
+  - 👽oVirt
+  - 📚References
+tag: 
+  - bash
+  - sh
+  - ovirt
+  - vm
 ---
 
 # {{ $frontmatter.title }} 관련

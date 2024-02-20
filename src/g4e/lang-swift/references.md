@@ -2,8 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🕊️Swift > 📚References
-category: 🕊️Swift
-tags: ["references", "swift"]
+category: 
+  - 🕊️Swift
+  - 📚References
+tag: 
+  - swift
+  - references
 ---
 
 # {{ $frontmatter.title }} 관련

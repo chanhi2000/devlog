@@ -2,7 +2,19 @@
 lang: ko-KR
 title: Library
 description: 🕶️Github > Library
-tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "csharp" , "php" , "bash"]
+category:
+  - 🕶️Github
+  - Library
+tag: 
+  - git 
+  - github 
+  - multiplatform 
+  - javascript 
+  - nodejs 
+  - go 
+  - csharp 
+  - php 
+  - bash
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -111,7 +123,6 @@ tags: ["git" , "github" , "multiplatform" , "javascript" , "nodejs" , "go" , "cs
 <!-- Pascal -->
 [markmal/freeship-plus-in-lazarus]: https://github.com/markmal/freeship-plus-in-lazarus
 <!-- CSS/Images -->
-[simple-icons/simple-icons]: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 [twbs/icons]: https://github.com/twbs/icons
 [google/material-design-icons]: https://github.com/google/material-design-icons
 [Ileriayo/markdown-badges]: https://github.com/Ileriayo/markdown-badges

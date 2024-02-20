@@ -2,7 +2,15 @@
 lang: ko-KR
 title: Watch Later (Tutorial)
 description: 📺Youtube > Watch Later (Tutorial)
-tags: ["tutorial", "jetbrains", "freecodecamp", "youtube", "theprimeagen"]
+category: 
+  - 📺Youtube 
+  - Watch Later (Tutorial)
+tag:
+  - tutorial
+  - jetbrains
+  - freecodecamp
+  - youtube
+  - theprimeagen
 ---
 
 # {{ $frontmatter.title }} 관련

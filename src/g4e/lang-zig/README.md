@@ -1,8 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🏂Zig
 description: 🏂Zig
-category: 🏂Zig
+category: 
+  - 🏂Zig
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +19,7 @@ category: 🏂Zig
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-zig/" />
+
+---
+
+<TagLinks />

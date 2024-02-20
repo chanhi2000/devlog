@@ -2,7 +2,17 @@
 lang: ko-KR
 title: ✈️🔮Jetpack Compose Snippets
 description: 🤖Android > ✈️🔮Jetpack Compose Snippets
-tags: ["kt", "kts", "android", "android-studio", "idea", "intellij-idea", "intellij"]
+category: 
+  - 🤖Android 
+  - ✈️🔮Jetpack Compose Snippets
+tag: 
+  - kt
+  - kts
+  - android
+  - android-studio
+  - idea
+  - intellij-idea
+  - intellij
 ---
 
 # {{ $frontmatter.title }} 관련

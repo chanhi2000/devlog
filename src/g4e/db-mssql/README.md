@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🎡Microsoft SQL Server
 description: 🎡Microsoft SQL Server
+category:
+  - 🎡Microsoft SQL Server
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🎡Microsoft SQL Server
 :::
 
 <ShieldsGroup logos="microsoftsqlserver"/>
+
+---
+
+<TagLinks />

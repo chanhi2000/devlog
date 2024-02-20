@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🐋Docker > 🐣Basics
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "docker-hub", "docker-image", "docker-container", "vm", "basics"]
+category:
+  - 🐋Docker 
+  - 🐣Basics
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - docker-hub
+  - docker-image
+  - docker-container
+  - vm
+  - basics
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,6 +25,7 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "docker-hub", "docker-im
 [[toc]]
 
 ---
+
 ## 기본 명령어
 
 ### Image & Container관린
@@ -76,5 +90,7 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "docker-hub", "docker-im
 | `docker network inspect <NETWORK>` | Show information on one or more networks |
 | `docker network connect <NETWORK> <CONTAINER>` | Connects a container to a network |
 | `docker network disconnect <NETWORK> <CONTAINER>` | Disconnect a container from a network |
+
+---
 
 <TagLinks />

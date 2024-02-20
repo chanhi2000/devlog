@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🦉Altibase > 📚References
-tags: ["sql", "altibase"]
+category:
+  - 🦉Altibase
+  - 📚References
+tag: 
+  - sql
+  - altibase
 ---
 
 # {{ $frontmatter.title }} 관련

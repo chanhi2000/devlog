@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: ☕️Java > 📚References
-tags: ["java", "baeldung"]
+category:
+  - ☕️Java
+  - 📚References
+tag: 
+  - java
+  - baeldung
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -14,10 +19,6 @@ tags: ["java", "baeldung"]
 ---
 
 ## ☕️Java
-
-### Youtube
-
-<YouTube id="LtSmfGuHe3o"/>
 
 ### Stackoverflow
 

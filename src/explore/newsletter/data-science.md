@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 🔬Data Science
 description: 🗞️Newsletter > 🔬Data Science
-tags: ["reddit" , "data-science", "science"]
+category: 
+  - 🗞️Newsletter
+  - 🔬Data Science
+tag: 
+  - reddit
+  - data-science
+  - science
 ---
 
 # {{ $frontmatter.title }} 관련

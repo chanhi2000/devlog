@@ -2,8 +2,8 @@
   "channel": {
     "id": "intellijidea",
     "name": "IntelliJ IDEA by JetBrains",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPfM9pZU9Yz6LTG4GB9sy3DSfiJWHWxq_sKjofcsg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/SIw6Tay4jTyB2K6R-KoKZgQf3GQyQdl-ss06Ti-KCERihI8Pfg2JmIC0jxsDSKonuv9vPuBPWQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/YA5KbknFCloKo2zyePrhCgFc5riADGOKFjHdHfDmbZ6pwZlaaOOidu7rcduisGk8v7Ig8fxhNw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wF_e4Wc-g1eMhPS1vWje3oXdp7TMrcfKLwwXIkxawBYedXo957xFNQD0auWQkcOE621cTHse-us=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "Ewb5nYRVlTA", "title": "The State of IntelliJ Scala Plugin" },

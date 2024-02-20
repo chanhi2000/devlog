@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 🚢Docker Compose
 description: 🦊GitLab > 🚢Docker Compose
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
+category:
+  - 🦊GitLab
+  - 🚢Docker Compose
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - yml
+  - yaml
+  - docker-container
+  - vm
+  - docker-compose
 ---
 
 # {{ $frontmatter.title }} 관련

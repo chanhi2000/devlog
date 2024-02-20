@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 🐘🔮Gradle Snippets
 description: 🤖Android > 🐘🔮Gradle Snippets
-tags: ["gradle", "groovy", "android", "android-studio", "idea", "intellij-idea", "intellij", "apk", "signed-config", "plugin-android"]
+category:
+  - 🤖Android 
+  - 🐘🔮Gradle Snippets
+tag: 
+  - gradle
+  - groovy
+  - android
+  - android-studio
+  - idea
+  - intellij-idea
+  - intellij
+  - apk
+  - signed-config
+  - plugin-android
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -39,7 +52,7 @@ SIGNED_KEY_PASSWORD=<Key 비번>
 
 ### A3. `build.gradle`
 
-```gradle
+```groovy
 buildscript {
     repositories {
         jcenter()
@@ -52,7 +65,7 @@ buildscript {
 }
 ```
 
-```gradle
+```groovy
 plugins {
     id('com.android.applications')
     id('kotlin-android')
@@ -80,11 +93,12 @@ android {
 
 실행 시
 
-```shell
+```sh
 gradlew assembleRelease -b ./<최종 Android모듈>/build.gradle --stacktrace
 ```
 
 ---
+
 ## B. `*.apk` 최종 아티팩트 명 지정
 
 | title | description |
@@ -92,7 +106,7 @@ gradlew assembleRelease -b ./<최종 Android모듈>/build.gradle --stacktrace
 | 목적 | Signing처리 된 Android APK 생성 (`keystore.properties` 파일 구성 필요) |
 | 적업대상 `gradle` 파일 | `./<최종 Android모듈>/build.gradle` |
 
-```gradle
+```groovy
 android {
     // ...[생략]...
 

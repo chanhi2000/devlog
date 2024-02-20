@@ -2,7 +2,56 @@
 lang: ko-KR
 title: Watch Later
 description: 📺Youtube > Watch Later
-tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech", "@tongguni", "@44BITSTV", "@neonchang", "@KevinStratvert", "@seoulian", "@AleksPopovic", "@JeffSu", "@TCMSecurityAcademy", "@SeoulWorkshop", "@ExecuteAutomation", "@Mukeshotwani", "@GaryExplains", "@SeniorCoding", "@devjaypark", "@extudy", "@nnit", "@mediacccde", "@WizcenterSeoul", "@yalco-coding", "@ContenJoo", "@AZisk", "@interviewingio", "@goldenmanual", "@TV-bk8fv", "@3protv", "@NaNyunJae", "@1under", "@MattKC", "@AnsonAlexander", "@techmong", "@Keybored", "@gwigom", "@kundol", "@SpaceRexWill", "@kevinfaang", "@studian365", "@ETAPRIME", "@BudgetNerd", "@TechTalkAmerica", "@techwiser", "@techdojang"]
+category:
+  - 📺Youtube
+  - Watch Later
+tags:
+  - "tutorial"
+  - "youtube"
+  - "@ChrisTitusTech"
+  - "@lukemiani"
+  - "@NovaspiritTech"
+  - "@tongguni"
+  - "@44BITSTV"
+  - "@neonchang"
+  - "@KevinStratvert"
+  - "@seoulian"
+  - "@AleksPopovic"
+  - "@JeffSu"
+  - "@TCMSecurityAcademy"
+  - "@SeoulWorkshop"
+  - "@ExecuteAutomation"
+  - "@Mukeshotwani"
+  - "@GaryExplains"
+  - "@SeniorCoding"
+  - "@devjaypark"
+  - "@extudy"
+  - "@nnit"
+  - "@mediacccde"
+  - "@WizcenterSeoul"
+  - "@yalco-coding"
+  - "@ContenJoo"
+  - "@AZisk"
+  - "@interviewingio"
+  - "@goldenmanual"
+  - "@TV-bk8fv"
+  - "@3protv"
+  - "@NaNyunJae"
+  - "@1under"
+  - "@MattKC"
+  - "@AnsonAlexander"
+  - "@techmong"
+  - "@Keybored"
+  - "@gwigom"
+  - "@kundol"
+  - "@SpaceRexWill"
+  - "@kevinfaang"
+  - "@studian365"
+  - "@ETAPRIME"
+  - "@BudgetNerd"
+  - "@TechTalkAmerica"
+  - "@techwiser"
+  - "@techdojang"
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -73,7 +122,6 @@ tags: ["tutorial", "youtube", "@ChrisTitusTech", "@lukemiani", "@NovaspiritTech"
 [yu-be9952]: https://www.youtube.com/@be9952
 [yu-swiftwithyash]: https://www.youtube.com/@swiftwithyash
 [yu-creativeclue2772]: https://www.youtube.com/@creativeclue2772
-[yu-gis]: https://www.youtube.com/@gis
 [yu-jj362choi]: https://www.youtube.com/@jj362choi
 [yu-tadaspetra]: https://www.youtube.com/@tadaspetra
 [yu-selfhosted]: https://www.youtube.com/@selfhosted

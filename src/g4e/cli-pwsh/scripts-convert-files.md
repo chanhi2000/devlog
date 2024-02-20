@@ -2,7 +2,15 @@
 lang: ko-KR
 title: ♻️Scripts to Convert Files
 description: 🧙‍♂️Powershell > ♻️Scripts to Convert Files
-tags: ["powershell", "windows", "script", "useful-script"]
+category:
+  - 🧙‍♂️Powershell
+  - ♻️Scripts to Convert Files
+tag:
+  - powershell
+  - pwsh
+  - windows
+  - script
+  - useful-script
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -15,12 +23,14 @@ tags: ["powershell", "windows", "script", "useful-script"]
 
 ## <FontIcon icon="iconfont icon-file"/>`convert-csv2txt.ps1`
 
-```card
-title: convert-csv2txt.ps1
-desc: Converts a .CSV file to a text file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-csv2txt.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "convert-csv2txt.ps1",
+  "desc": "Converts a .CSV file to a text file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-csv2txt.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script converts a `.CSV` file into a text file and prints it.
@@ -94,12 +104,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`convert-mysql2csv.ps1`
 
-```card
-title: convert-mysql2csv.ps1
-desc: Converts a MySQL database table to a .CSV file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-mysql2csv.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "convert-mysql2csv.ps1",
+  "desc": "Converts a MySQL database table to a .CSV file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-mysql2csv.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10,10,10,0.2)"
+}
 ```
 
 This PowerShell script converts a MySQL database table to a `.CSV` file.
@@ -220,12 +232,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`convert-ps2bat.ps1`
 
-```card
-title: convert-ps2bat.ps1
-desc: Converts a PowerShell script to a Batch script.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-ps2bat.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "convert-ps2bat.ps1",
+  "desc": "Converts a PowerShell script to a Batch script.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-ps2bat.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10,10,0.2)"
+}
 ```
 
 This PowerShell script converts one or more PowerShell scripts to .bat batch files.
@@ -316,12 +330,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`convert-ps2md.ps1`
 
-```card
-title: convert-ps2md.ps1
-desc: Converts the comment-based help of a PowerShell script to Markdown.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-ps2md.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "convert-ps2md.ps1",
+  "desc": "Converts the comment-based help of a PowerShell script to Markdown.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-ps2md.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script converts the comment-based help of a PowerShell script to Markdown.
@@ -508,12 +524,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`convert-sql2csv.ps1`
 
-```card
-title: convert-sql2csv.ps1
-desc: Converts a SQL database table to a .CSV file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-sql2csv.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "convert-sql2csv.ps1",
+  "desc": "Converts a SQL database table to a .CSV file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-sql2csv.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script converts a SQL database table to a `.CSV` file.
@@ -635,12 +653,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`convert-txt2wav.ps1`
 
-```card
-title: convert-txt2wav.ps1
-desc: Converts text to a .WAV audio file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-txt2wav.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "convert-txt2wav.ps1",
+  "desc": "Converts text to a .WAV audio file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/convert-txt2wav.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script converts text to a `.WAV` audio file.
@@ -726,12 +746,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`export-to-manuals.ps1`
 
-```card
-title: export-to-manuals.ps1
-desc: Exports all scripts as manuals.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/export-to-manuals.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "export-to-manuals.ps1",
+  "desc": "Exports all scripts as manuals.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/export-to-manuals.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script exports the comment based help of all PowerShell scripts as manuals.

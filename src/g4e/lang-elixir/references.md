@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 💧Elixir > 📚References
-tags: ["elixir", "exs"]
+category:
+  - 💧Elixir
+  - 📚References
+tag: 
+  - elixir
+  - exs
 ---
 
 # {{ $frontmatter.title }} 관련

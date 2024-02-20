@@ -2,8 +2,8 @@
   "channel": {
     "id": "IBMTechnology",
     "name": "IBM Technology",
-    "profile": "https://yt3.googleusercontent.com/HHjrQZrBhfkuwgOkjzUJoWr1pteqnTro55ww253giS7A77VgkFeSZEWu0WFFUkzY2lf3vjzwhw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/T4k6KqTRG68WJoq2MqLXvIrk6dJtNDgpYnFdROEalblaB5_vhWZV5SBD5wEQBQVX_SN8e46j=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/HHjrQZrBhfkuwgOkjzUJoWr1pteqnTro55ww253giS7A77VgkFeSZEWu0WFFUkzY2lf3vjzwhw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1CMERkpE8B5CzDv7PZoSHj9rZ9GspzwFlMmqyjAYQpnPAqjWsjRv_EgXp6IJ1gimRcUxbrTQnA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "MiCK6_jZigo", "title": "Data Service Strategy for Stateful Containers" },

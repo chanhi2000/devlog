@@ -1,8 +1,13 @@
 ---
 lang: ko-KR
-title: Intro
-description: 🧭Lifeguide
-tags: ["nhis", "lifeguide"]
+title: 🧭Lifeguide
+description: 🏭Project > 🧭Lifeguide
+category: 
+  - 🏭Project
+  - 🧭Lifeguide
+tag: 
+  - nhis
+  - lifeguide
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,3 +17,5 @@ tags: ["nhis", "lifeguide"]
 :::
 
 ---
+
+<TagLinks />

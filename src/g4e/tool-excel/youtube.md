@@ -2,8 +2,47 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🧩Excel > 📺Youtube
-category: 🧩Excel
-tags: ["education", "youtube", "ms", "excel", "ms-excel", "xls", "xlsx", "@easy_sheets", "@oppadu", "@gongysd", "@excelisfun", "@LeilaGharani", "@MyOnlineTrainingHub", "@chandoo_", "@ShanesCows", "@KenjiExplains", "@Computergaga", "@IB9696", "@PKAnExcelExpert", "@profbillbyrne", "@AccessAnalytic", "@RabiGurungXybernetics", "@trumpexcel", "@engine_excel_", "@codymbaldwin", "@chmyoungsu", "@yunjadong", "@-sql2949", "@CodingIsFun", "@EXCELDOERS", "@CFI_Official", "@ExcelForFreelancers", "@5953kim", "@ssaemae", "@DatasetGuru", "@vertex42", "@techteachersandstudents"]
+category: 
+  - 🧩Excel
+  - 📺Youtube
+tag:
+  - "education"
+  - "youtube"
+  - "ms"
+  - "excel"
+  - "ms-excel"
+  - "xls"
+  - "xlsx"
+  - "@easy_sheets"
+  - "@oppadu"
+  - "@gongysd"
+  - "@excelisfun"
+  - "@LeilaGharani"
+  - "@MyOnlineTrainingHub"
+  - "@chandoo_"
+  - "@ShanesCows"
+  - "@KenjiExplains"
+  - "@Computergaga"
+  - "@IB9696"
+  - "@PKAnExcelExpert"
+  - "@profbillbyrne"
+  - "@AccessAnalytic"
+  - "@RabiGurungXybernetics"
+  - "@trumpexcel"
+  - "@engine_excel_"
+  - "@codymbaldwin"
+  - "@chmyoungsu"
+  - "@yunjadong"
+  - "@-sql2949"
+  - "@CodingIsFun"
+  - "@EXCELDOERS"
+  - "@CFI_Official"
+  - "@ExcelForFreelancers"
+  - "@5953kim"
+  - "@ssaemae"
+  - "@DatasetGuru"
+  - "@vertex42"
+  - "@techteachersandstudents"
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2,16 +2,22 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐑Haskell > 📺Youtube
-tags: ["haskell"]
-meta:
-  - name: 📺Youtube
-    content: 🐑Haskell > 📺Youtube
-  - property: og:title
-    content: 📺Youtube
-  - property: og:description
-    content: 🐑Haskell > 📺Youtube
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-haskell/youtube.html
+category:
+  - 🐑Haskell
+  - 📺Youtube
+tag:
+  - haskell
+  - youtube
+head:  
+  - - meta:
+    - property: og:title
+      content: 🐑Haskell > 📺Youtube
+    - property: og:description
+      content: 🐑Haskell > 📺Youtube
+    - property: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-haskell/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

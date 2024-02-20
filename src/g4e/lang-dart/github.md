@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🔰Dart > 🕶️Github
-tags: ["dart", "flutter"]
+category:
+  - 🔰Dart 
+  - 🕶️Github
+tag: 
+  - dart
+  - flutter
 ---
 
 # {{ $frontmatter.title }} 관련

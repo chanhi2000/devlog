@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 📚References
 description: 🕶️Github > 📚References
-tags: ["sh", "bash", "cli", "github", "github-action", "study"]
+category:
+  - 🕶️Github
+  - 📚References
+tag: 
+  - sh
+  - bash
+  - cli
+  - github
+  - github-action
+  - study
 ---
 
 # {{ $frontmatter.title }} 관련

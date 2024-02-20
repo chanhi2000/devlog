@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🙆‍♂️Oracle SQL > 📺Youtube
-tags: ["sql", "db", "mysql", "shell"]
+category:
+  - 🙆‍♂️Oracle SQL 
+  - 📺Youtube
+tag: 
+  - sql
+  - db
+  - mysql
+  - shell
 ---
 
 # {{ $frontmatter.title }} 관련

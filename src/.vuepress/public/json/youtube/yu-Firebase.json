@@ -2,8 +2,8 @@
   "channel": {
     "id": "Firebase",
     "name": "Firebase",
-    "profile": "https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/JacH3YPCJVTlCjpPvS21uUA7p_akAj-YD0JuSgDf91ywvlNTWKPCX7I_2iSXZ4jgRIP6M4M878c=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XGdTbxFW7yH9tWfn_dPBTCh06Y3ATreL6yAetOPxMsA7G4-5Egu5E_FyCWGTTC3kuoBAO0-S-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "7IkUgCLr5oA", "title": "Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - Firecasts" }, 

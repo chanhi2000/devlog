@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 💡Tips
 description: 🆚VSCode > 💡Tips
-tags: ["vscode", "visual-studio-code", "hotkeys", "keyboard", "keymap"] 
+category:
+  - 🆚VSCode 
+  - 💡Tips
+tag: 
+  - vscode
+  - visual-studio-code
+  - hotkeys
+  - keyboard
+  - keymap
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -17,8 +25,7 @@ tags: ["vscode", "visual-studio-code", "hotkeys", "keyboard", "keymap"]
 
 | title | description | 
 | :---: | :--- |
-| Select a Language | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>M</kbd> | 
-
+| Select a Language | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>M</kbd> |
 
 ---
 

@@ -2,7 +2,9 @@
 lang: ko-KR
 title: 📚References
 description: 🅽Notion > 📚References
-tags: 
+  - 🅽Notion
+  - 📚References
+tag: 
   - notion
   - productivity
 ---

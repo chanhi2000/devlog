@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 💡Tips
 description: 🥋Regex > 💡Tips
-tags: ["regex", "regular-expression", "snippet", "tips"]
+category:
+  - 🥋Regex
+  - 💡Tips
+tag:
+  - regex
+  - regular-expression
+  - snippet
+  - tips
 ---
 
 # {{ $frontmatter.title }} 관련

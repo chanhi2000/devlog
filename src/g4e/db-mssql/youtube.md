@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🎡Microsoft SQL Server > 📺Youtube
-tags: ["youtube", "tutorial", "db", "mssql", "microsoft"]
+category: 
+  - 🎡Microsoft SQL Server
+  - 📺Youtube
+tag:
+  - youtube
+  - tutorial
+  - db
+  - mssql
+  - microsoft
 ---
 
 # {{ $frontmatter.title }} 관련

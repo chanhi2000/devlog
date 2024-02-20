@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🛒Various Powershell Scripts
 description: 🧙‍♂️Powershell > 🛒Various Powershell Scripts
-tags: ["powershell", "windows", "script", "useful-script", "mysql"]
+category:
+  - 🧙‍♂️Powershell
+  - 🛒Various Powershell Scripts
+tag: 
+  - powershell
+  - pwsh
+  - windows
+  - script
+  - useful-script
+  - mysql
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -15,12 +24,14 @@ tags: ["powershell", "windows", "script", "useful-script", "mysql"]
 
 ## <FontIcon icon="iconfont icon-file"/>`add-memo.ps1`
 
-```card
-title: add-memo.ps1
-desc: Adds the given memo text to $HOME/Memos.csv.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/add-memo.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "add-memo.ps1",
+  "desc": "Adds the given memo text to $HOME/Memos.csv.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/add-memo.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script saves the given memo text to Memos.csv in your home folder.
@@ -101,12 +112,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-ipv4-address.ps1`
 
-```card
-title: check-ipv4-address.ps1
-desc: Checks the given IPv4 address for validity.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-ipv4-address.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-ipv4-address.ps1",
+  "desc": "Checks the given IPv4 address for validity.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-ipv4-address.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks the given IPv4 address for validity.
@@ -192,12 +205,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-ipv6-address.ps1`
 
-```card
-title: check-ipv6-address.ps1
-desc: Checks the given IPv6 address for validity.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-ipv6-address.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-ipv6-address.ps1",
+  "desc": "Checks the given IPv6 address for validity.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-ipv6-address.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks the given IPv6 address for validity
@@ -297,12 +312,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-mac-address.ps1`
 
-```card
-title: check-mac-address.ps1
-desc: Checks the given MAC address for validity.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-mac-address.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-mac-address.ps1",
+  "desc": "Checks the given MAC address for validity.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-mac-address.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 
@@ -396,12 +413,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`check-subnet-mask.ps1`
 
-```card
-title: check-subnet-mask.ps1
-desc: Checks the given subnet mask for validity.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-subnet-mask.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-subnet-mask.ps1",
+  "desc": "Checks the given subnet mask for validity.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-subnet-mask.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks the given subnet mask for validity.
@@ -487,12 +506,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`display-time.ps1`
 
-```card
-title: display-time.ps1
-desc: Displays the current time for 10 seconds by default.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/display-time.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "display-time.ps1",
+  "desc": "Displays the current time for 10 seconds by default.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/display-time.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script displays the current time (for 10 seconds by default)
@@ -567,12 +588,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-environment-variables.ps1`
 
-```card
-title: list-environment-variables.ps1
-desc: Lists all environment variables.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-environment-variables.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-environment-variables.ps1",
+  "desc": "Lists all environment variables.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-environment-variables.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all environment variables.
@@ -638,12 +661,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-emojis.ps1`
 
-```card
-title: list-emojis.ps1
-desc: Lists the emojis of Unicode 13.0.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-emojis.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-emojis.ps1",
+  "desc": "Lists the emojis of Unicode 13.0.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-emojis.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the emojis of Unicode 13.0 sorted by category.
@@ -717,12 +742,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`list-exchange-rates.ps1`
 
-```card
-title: list-exchange-rates.ps1
-desc: Lists the current exchange rates for the given currency.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-exchange-rates.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-exchange-rates.ps1",
+  "desc": "Lists the current exchange rates for the given currency.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-exchange-rates.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the current exchange rates for the given currency (USD per default).
@@ -819,12 +846,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-memos.ps1`
 
-```card
-title: list-memos.ps1
-desc: Lists the memos at $HOME/Memos.csv.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-memos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-memos.ps1",
+  "desc": "Lists the memos at $HOME/Memos.csv.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-memos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all memo entries in Memos.csv in your home folder.
@@ -897,12 +926,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-mysql-tables.ps1`
 
-```card
-title: list-mysql-tables.ps1
-desc: Lists the MySQL server tables.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-mysql-tables.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-mysql-tables.ps1",
+  "desc": "Lists the MySQL server tables.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-mysql-tables.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all tables of the given MySQL database.
@@ -994,12 +1025,14 @@ $result | Export-Csv $csvfilepath -NoTypeInformation
 
 ## <FontIcon icon="iconfont icon-file"/>`list-news.ps1`
 
-```card
-title: list-news.ps1
-desc: Lists the latest news.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-news.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-news.ps1",
+  "desc": "Lists the latest news.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-news.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the latest news by using RSS (Really Simple Syndication) feeds.
@@ -1101,12 +1134,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-os-releases.ps1`
 
-```card
-title: list-os-releases.ps1
-desc: Lists operating system releases and download URL.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-os-releases.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-os-releases.ps1",
+  "desc": "Lists operating system releases and download URL.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-os-releases.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists OS releases and download URL.
@@ -1174,12 +1209,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-os-updates.ps1`
 
-```card
-title: list-os-updates.ps1
-desc: Lists operating system updates.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-os-updates.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-os-updates.ps1",
+  "desc": "Lists operating system updates.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-os-updates.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the latest updates for operating systems.
@@ -1270,12 +1307,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-passwords.ps1`
 
-```card
-title: list-passwords.ps1
-desc: Prints a list of random passwords.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-passwords.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-passwords.ps1",
+  "desc": "Prints a list of random passwords.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-passwords.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists random passwords.
@@ -1388,12 +1427,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-pins.ps1`
 
-```card
-title: list-pins.ps1
-desc: Prints a list of random PIN's.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-pins.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-pins.ps1",
+  "desc": "Prints a list of random PIN's.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-pins.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists random PIN's.
@@ -1495,12 +1536,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-sql-tables.ps1`
 
-```card
-title: list-sql-tables.ps1
-desc: Lists the SQL server tables.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-sql-tables.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-sql-tables.ps1",
+  "desc": "Lists the SQL server tables.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-sql-tables.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all tables in a SQL server database and exports the list as CSV.
@@ -1599,12 +1642,14 @@ $result | Export-Csv $csvfilepath -NoTypeInformation
 
 ## <FontIcon icon="iconfont icon-file"/>`list-weather.ps1`
 
-```card
-title: list-weather.ps1
-desc: Lists the hourly weather.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-weather.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-weather.ps1",
+  "desc": "Lists the hourly weather.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-weather.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the hourly weather report in a nice table.
@@ -1774,12 +1819,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`locate-city.ps1`
 
-```card
-title: locate-city.ps1
-desc: Prints the geographic location of the given city.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/locate-city.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "locate-city.ps1",
+  "desc": "Prints the geographic location of the given city.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/locate-city.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script prints the geographic location of the given city.
@@ -1868,12 +1915,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`locate-ipaddress.ps1`
 
-```card
-title: locate-ipaddress.ps1
-desc: Prints the geographic location of the given IP address.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/locate-ipaddress.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "locate-ipaddress.ps1",
+  "desc": "Prints the geographic location of the given IP address.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/locate-ipaddress.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ::: tabs
@@ -1926,12 +1975,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`moon.ps1`
 
-```card
-title: moon.ps1
-desc: Prints the current moon phase.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/moon.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "moon.ps1",
+  "desc": "Prints the current moon phase.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/moon.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script prints the current moon phase.
@@ -1986,12 +2037,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`scan-ports.ps1`
 
-```card
-title: scan-ports.ps1
-desc: Scans the network for open/closed ports.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/scan-ports.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "scan-ports.ps1",
+  "desc": "Scans the network for open/closed ports.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/scan-ports.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script scans the network for open or closed ports.
@@ -2058,12 +2111,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`send-tcp.ps1`
 
-```card
-title: send-tcp.ps1
-desc: Sends a TCP message to the given IP address and port.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/send-tcp.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "send-tcp.ps1",
+  "desc": "Sends a TCP message to the given IP address and port.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/send-tcp.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script sends a TCP message to the given IP address and port.
@@ -2169,12 +2224,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`send-udp.ps1`
 
-```card
-title: send-udp.ps1
-desc: Sends a UDP datagram message to the given IP address and port.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/send-udp.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "send-udp.ps1",
+  "desc": "Sends a UDP datagram message to the given IP address and port.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/send-udp.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script sends a UDP datagram message to an IP address and port.
@@ -2278,12 +2335,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`set-timer.ps1`
 
-```card
-title: set-timer.ps1
-desc: Sets a timer for a countdown.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/set-timer.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "set-timer.ps1",
+  "desc": "Sets a timer for a countdown.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/set-timer.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script sets a timer for a countdown.
@@ -2359,12 +2418,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`simulate-presence.ps1`
 
-```card
-title: simulate-presence.ps1
-desc: Simulates the human presence against burglars.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/simulate-presence.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "simulate-presence.ps1",
+  "desc": "Simulates the human presence against burglars.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/simulate-presence.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script simulates the human presence against burglars. It switches a Shelly1 device on and off.
@@ -2440,12 +2501,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`start-ipfs-server.ps1`
 
-```card
-title: start-ipfs-server.ps1
-desc: Starts a local IPFS server.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/start-ipfs-server.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "start-ipfs-server.ps1",
+  "desc": "Starts a local IPFS server.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/start-ipfs-server.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script starts a local IPFS server as a daemon process.
@@ -2537,12 +2600,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`translate-file.ps1`
 
-```card
-title: translate-file.ps1
-desc: Translates the given text file into other languages.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/translate-file.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "translate-file.ps1",
+  "desc": "Translates the given text file into other languages.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/translate-file.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script translates the given text file into another language and writes the output on the console.
@@ -2652,12 +2717,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`translate-files.ps1`
 
-```card
-title: translate-files.ps1
-desc: Translates the given text files into any supported language.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/translate-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "translate-files.ps1",
+  "desc": "Translates the given text files into any supported language.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/translate-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script translates text files into multiple languages.
@@ -2764,12 +2831,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`translate-text.ps1`
 
-```card
-title: translate-text.ps1
-desc: Translates the given text in English into other languages.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/translate-text.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "translate-text.ps1",
+  "desc": "Translates the given text in English into other languages.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/translate-text.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script translates text into other languages.
@@ -2875,12 +2944,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`weather.ps1`
 
-```card
-title: weather.ps1
-desc: Prints the current weather forecast.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/weather.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "weather.ps1",
+  "desc": "Prints the current weather forecast.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/weather.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the current weather forecast.
@@ -2948,12 +3019,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`weather-report.ps1`
 
-```card
-title: weather-report.ps1
-desc: Prints the local weather report.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/weather-report.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "weather-report.ps1",
+  "desc": "Prints the local weather report.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/weather-report.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the local weather report.

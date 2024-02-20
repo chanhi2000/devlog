@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🐘Gradle > 🔮Snippets
-tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "war", "plugin-war", "plugin-java", "executable-jar", "jar"]
+category:
+  - 🐘Gradle
+  - 🔮Snippets
+tag: 
+  - gradle
+  - groovy
+  - idea
+  - intellij-idea
+  - intellij
+  - war
+  - plugin-war
+  - plugin-java
+  - executable-jar
+  - jar
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -21,7 +34,7 @@ tags: ["gradle", "groovy", "idea", "intellij-idea", "intellij", "war", "plugin-w
 | 적업대상 `gradle` 파일 | `./settings.gradle` |
 
 
-```gradle
+```groovy
 rootProject.name = "onnaramobile"
 
 include ":ws-BmsSifSchViewService"
@@ -41,7 +54,7 @@ project(":ws-BmsSifSchViewService").name = "BmsSifSchViewService"
 | 적업대상 `gradle` 파일 | `./<모듈>/build.gradle` |
 
 
-```gradle
+```groovy
 task fatJar(type: Jar) {
     exclude "META-INF/*.SF", "META-INF/*.DSA", "META-INF/*.MF"
     manifest {
@@ -58,7 +71,7 @@ tasks.compileJava.dependsOn clean
 
 실행 시
 
-```shell
+```sh
 gradlew <모듈명>:fatJar
 ```
 
@@ -75,7 +88,7 @@ gradlew <모듈명>:fatJar
 
 @tab:active Groovy
 
-```gradle
+```groovy
 task openBrowser {
     description = "open browser to the running application"
     doLast {
@@ -121,7 +134,7 @@ task("openBrowser") {
 
 @tab:active Groovy
 
-```gradle
+```groovy
 task exploreOutput {
     description = "find artifact(s) in the project directory"
     doLast {
@@ -163,7 +176,7 @@ tasks.war { finalizedBy(tasks.named("exploreOutput")) }
 
 @tab:active Groovy
 
-```gradle
+```groovy
 plugins {
     id "java"
     id "war"
@@ -229,18 +242,18 @@ tasks.war {
 
 실행 시
 
-```shell
+```sh
 gradlew <war으로 묶어 줄 모듈>:war
 ```
 
 ## `java` Plugin 
 
 | title | description |
-| ---: | :---------- |
+| :---: | :---- |
 | 목적 | Java로 컴파일 시 구성해야 할 항목 정의 |
 | 적업대상 `gradle` 파일 | `./<모듈>/build.gradle` |
 
-```gradle
+```groovy
 compileJava {
     sourceCompatibility = JavaVersion.VERSION_1_7
     targetCompatibility = JavaVersion.VERSION_1_7

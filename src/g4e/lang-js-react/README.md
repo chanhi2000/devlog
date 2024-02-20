@@ -1,8 +1,18 @@
 ---
 lang: ko-KR
-title: Intro
+title: ⚛React.js
 description: ⚛React.js
-tags: ["js" , "node" , "nodejs", "react", "reactjs", "reactnative", "facebook"]
+category:
+  - ⚛React.js
+tag: 
+  - js
+  - node
+  - nodejs
+  - react
+  - reactjs
+  - reactnative
+  - facebook
+  - meta
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +28,7 @@ tags: ["js" , "node" , "nodejs", "react", "reactjs", "reactnative", "facebook"]
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-js-react/" />
+
+---
+
+<TagLinks />

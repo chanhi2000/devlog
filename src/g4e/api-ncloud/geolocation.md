@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 🌏GeoLocation
 description: 🐸API - NCloud > 🌏GeoLocation
-tags: ["ncloud", "api", "geolocation"]
+category:
+  - 🐸API - NCloud
+  - 🌏GeoLocation
+tag: 
+  - ncloud
+  - api
+  - geolocation
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,12 +19,14 @@ tags: ["ncloud", "api", "geolocation"]
 
 ---
 
-```card
-title: geoLocation
-desc: 이 문서는 로컬(Local) API 구현 방법을 소개합니다.
-link: https://api.ncloud-docs.com/docs/ai-application-service-geolocation-geolocation
-logo: https://cdn.document360.io/6998976f-9d95-4df8-b847-d375892b92c2/Images/Documentation/ncp-apidocs-logo-ko-v2.svg?sv=2019-07-07&sig=%2BBwzSOKM3ncVlbtsmgsw34maSoGIcbZywuZAkWLgoAw%3D&spr=https%2Chttp&st=2023-07-25T01%3A42%3A59Z&se=2023-07-25T01%3A52%3A59Z&srt=o&ss=b&sp=r
-color: rgba(2, 219, 106, 0.2)
+```component VPCard
+{
+  "title": "geoLocation",
+  "desc": "이 문서는 로컬(Local) API 구현 방법을 소개합니다.",
+  "link": "https://api.ncloud-docs.com/docs/ai-application-service-geolocation-geolocation",
+  "logo": "https://cdn.document360.io/6998976f-9d95-4df8-b847-d375892b92c2/Images/Documentation/ncp-apidocs-logo-ko-v2.svg?sv=2019-07-07&sig=%2BBwzSOKM3ncVlbtsmgsw34maSoGIcbZywuZAkWLgoAw%3D&spr=https%2Chttp&st=2023-07-25T01%3A42%3A59Z&se=2023-07-25T01%3A52%3A59Z&srt=o&ss=b&sp=r",
+  "background": "rgba(2, 219, 106, 0.2)"
+}
 ```
 
 ---

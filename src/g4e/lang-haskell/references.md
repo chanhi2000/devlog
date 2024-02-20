@@ -2,16 +2,21 @@
 lang: ko-KR
 title: 📚References
 description: 🐑Haskell > 📚References
-tags: ["haskell"]
-meta:
-  - name: 📚References
-    content: 🐑Haskell > 📚References
-  - property: og:title
-    content: 📚References
-  - property: og:description
-    content: 🐑Haskell > 📚References
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-haskell/references.html
+category: 
+  - 🐑Haskell
+  - 📚References
+tag: 
+  - haskell
+head:
+  - - meta:
+    - property: og:title
+      content: 📚References
+    - property: og:description
+      content: 🐑Haskell > 📚References
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-haskell/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

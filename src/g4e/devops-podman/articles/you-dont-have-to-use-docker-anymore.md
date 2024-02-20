@@ -1,8 +1,16 @@
 ---
 lang: ko-KR
 title: You Don’t Have to Use Docker Anymore 
-description: Docker is not the only containerization tool out there and there might just be better alternatives…
-tags: ["opinion", "towardsdatascience", "martin-heinz", "docker", "devops", "podman"]
+description: 🍄Podman > You Don’t Have to Use Docker Anymore
+category: 
+  - 🍄Podman
+tag: 
+  - opinion
+  - towardsdatascience
+  - martin-heinz
+  - docker
+  - devops
+  - podman
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,12 +21,14 @@ tags: ["opinion", "towardsdatascience", "martin-heinz", "docker", "devops", "pod
 
 ---
 
-```card
-title: You Don’t Have to Use Docker Anymore
-desc: Docker is not the only containerization tool out there and there might just be better alternatives…
-link: https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833
-logo: https://miro.medium.com/v2/resize:fill:96:96/2*p3sIQ1Ga2bfAbZYzoCcACw.jpeg
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "You Don’t Have to Use Docker Anymore",
+  "desc": "Docker is not the only containerization tool out there and there might just be better alternatives…",
+  "link": "https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833",
+  "logo": "https://miro.medium.com/v2/resize:fill:96:96/2*p3sIQ1Ga2bfAbZYzoCcACw.jpeg",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ---
@@ -165,3 +175,7 @@ This article wasn’t meant to persuade you to completely ditch Docker, rather i
 - [Comparing Next-Generation Container Image Building Tools](https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Comparing-Next-Generation-Container-Image-Building-Tools-OSS-Akihiro-Suda.pdf)
 - [A Comprehensive Container Runtime Comparison](https://www.capitalone.com/tech/cloud/container-runtime)
 - [Building containers without Docker](https://blog.alexellis.io/building-containers-without-docker)
+
+---
+
+<TagLinks />

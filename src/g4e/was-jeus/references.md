@@ -2,7 +2,10 @@
 lang: ko-KR
 title: 📚References
 description: 🦖JEUS > 📚References
-tags: 
+category:
+  - 🦖JEUS
+  - 📚References
+tag: 
   - java
   - jdk
   - jdk7

@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 🌱API - Kakao > 📚References
-tags: ["kakao", "api", "references", "developer"]
+category:
+  - 🌱API - Kakao
+  - 📚References
+tag: 
+  - kakao
+  - api
+  - references
+  - developer
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,12 +20,14 @@ tags: ["kakao", "api", "references", "developer"]
 
 ---
 
-```card
-title: kakao developers - 유용한 참고정보
-desc: 이 문서는 REST API 요청 시 필요한 URL 정보와 REST API 요청 및 응답 규격 정보와 API 목록을 제공합니다.
-link: https://developers.kakao.com/docs/latest/ko/reference/rest-api-reference
-logo: https://developers.kakao.com/docs/static/image/ko/pc/reference.png
-color: rgba(3, 22, 108, 0.2)
+```component VPCard
+{
+  "title": "kakao developers - 유용한 참고정보",
+  "desc": "이 문서는 REST API 요청 시 필요한 URL 정보와 REST API 요청 및 응답 규격 정보와 API 목록을 제공합니다.",
+  "link": "https://developers.kakao.com/docs/latest/ko/reference/rest-api-reference",
+  "logo": "https://developers.kakao.com/docs/static/image/ko/pc/reference.png",
+  "background": "rgba(3,22,108,0.2)"
+}
 ```
 
 ---

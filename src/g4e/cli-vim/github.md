@@ -2,7 +2,18 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🗡Vim > 🕶️Github
-tags: ["bash", "linux", "macos", "terminal", "alias", "sh", "vim", "neovim"]
+category:
+  - 🗡Vim
+  - 🕶️Github
+tag: 
+  - bash
+  - linux
+  - macos
+  - terminal
+  - alias
+  - sh
+  - vim
+  - neovim
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -16,8 +27,6 @@ tags: ["bash", "linux", "macos", "terminal", "alias", "sh", "vim", "neovim"]
 ## Vim Script
 
 <MyGithubItems jsonName="lang-vim-script" />
-
-<!-- Vim Script -->
 
 ---
 

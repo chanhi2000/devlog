@@ -2,7 +2,17 @@
 lang: ko-KR
 title: 🏖️Sandbox
 description: 🧶Node.js > 🏖️Sandbox
-tags: ["js", "javascript", "nodejs", "node", "sandbox", "demo", "google", "codepen"]
+category:
+  - 🧶Node.js
+  - 🏖️Sandbox
+tag: 
+  - js
+  - node
+  - nodejs
+  - sandbox
+  - demo
+  - google
+  - codepee
 ---
 
 # {{ $frontmatter.title }} 관련

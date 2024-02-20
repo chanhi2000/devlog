@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🧢Batchfile > 📚References
-tags: ["bash", "linux", "macos", "terminal", "alias"]
+category: 
+  - 🧢Batchfile 
+  - 📚References
+tag: 
+  - bash
+  - linux
+  - macos
+  - terminal
+  - alias
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -32,7 +32,7 @@ export default {
               return {
                 link: e.path,
                 // link: e.path.replace('.html', '.md'),
-                name: e.meta.title
+                name: e.meta.t
               }
             });
       console.log(`${_items}`)

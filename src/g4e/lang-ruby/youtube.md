@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🔻Ruby > 📺Youtube
-tags: ["ruby", "youtube", "programming"]
+category:
+  - 🔻Ruby
+  - 📺Youtube
+tag: 
+  - ruby
+  - rb
+  - youtube
+  - programming
 ---
 
 # {{ $frontmatter.title }} 관련

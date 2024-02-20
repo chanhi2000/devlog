@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🔍Query
 description: 🦉Altibase > 🔍Query
-tags: ["sql", "altibase", "altibase7", "ddl", "dml", "sql-privilege"]
+category:
+  - 🦉Altibase 
+  - 🔍Query
+tag: 
+  - sql
+  - altibase
+  - altibase7
+  - ddl
+  - dml
+  - sql-privilege
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -71,7 +80,7 @@ INSERT INTO :테이블명 (
 
 #### B1-i. 실행중인 쿼리 조회
 
-```shell
+```sh
 watch -n 1 cubrid translist \
     -p <접근 비밀번호> <테이블스페이스명>@<IP주소> \
     --sort-key=7 --reverse
@@ -79,7 +88,7 @@ watch -n 1 cubrid translist \
 
 #### B1-ii. 실행중인 쿼리 중지
 
-```shell
+```sh
 cubrid killtran \
     -p <접근 비밀번호> \
     -i <액티브번호> <테이블스페이스명>@<IP주소>

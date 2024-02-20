@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦦Go
 description: 🦦Go
+category:
+  - 🦦Go
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🦦Go
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-go/" />
+
+---
+
+<TagLinks />

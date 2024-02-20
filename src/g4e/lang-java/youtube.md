@@ -2,14 +2,122 @@
 lang: ko-KR
 title: 📺Youtube
 description: ☕️Java > 📺Youtube
-tags: ["java", "jdk", "youtube", "@MikesTechCorner", "@KeepToo", "@naveenautomationlabs", "@java0405", "@freeleckor", "@KenuHeo", "@JavaGuides", "@RamNJava", "@ResoCoder", "@discospiff", "@DailyCodeBuffer", "@DanVega", "@tookootek", "@keesun.b", "@ntigo", "@javajigi", "@rabisankarpodder7839", "@GainJavaKnowledge", "@infybuzz", "@java", "@namoosori", "@metacoding", "@DataStaxDevs", "@javaforengineersYT", "@HelloCodepur", "@SeleniumExpress", "@in28minutes", "@priyatalkstech6534", "@aptkode", "@fosdemtalks", "@GenuineCoder", "@alexlorenlee", "@1BestCsharpblog", "@RomanianCoder", "@szLynAs", "@DefogTech", "@omerjava", "@SergeyKargopolov", "@SiliconBrighton", "@trustinlee", "@PhilipStarritt", "@juglodz", "@MVPJava", "@codingsaint", "@SumeetMaharjan", "@oracledevs", "@varuncbv", "@thenishkhandk", "@CodeJava", "@DevLanding", "@KT-cq2ph", "@arahansame9320", "@amilacjay", "@ProgrammerZamanNow", "@jj362choi", "@KotlinHyderabad", "@gamefromscratch", "@GiuseppeScaramuzzino", "@JavaInUse", "@ProgrammingTechie", "@Touchlab", "@atl.academy", "@springcampkr", "@WhizdomTrainings01", "@SivaReddyJavaTechie", "@patrickwashingtondc", "@javasoul4367", "@NareshIT", "@icttrainer6889", "@newlec1", "@sangmessi727", "@loianegroner", "@microserviceslab5515", "@hancoding", "@around.hub.studio", "@SagguUK", "@MasterNKS", "@user-tu5nq1er9t", "@user-io1lo4zs8n", "@devCJH", "@Techtter", "@ithotgi", "@user-ht2jq8bg9b", "@SpringIOConference", "@CodeWisTechnologies", "@hobbyMett", "@ssap-dba", "@VickingDev", "@ringring_creator", "@TheTestingAcademy", "@puneethkumarnarasimhaiah5092", "@shadsluiter", "@DeveloperVoices", "@nullistp4065", "@KyounRrock", "@IT-sm6mq", "@BusinessAndTech", "@surendranvelath4355", "@davidford6890", "@yhdev", "@seibertmedia", "@cloudtech5260"]
-meta:
-  - property: og:title
-    content: 📺Youtube
-  - property: og:description
-    content: ☕️Java > 📺Youtube
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-java/youtube.html
+category:
+  - ☕️Java 
+  - 📺Youtube
+tag: 
+  - "java"
+  - "jdk"
+  - "youtube"
+  - "@MikesTechCorner"
+  - "@KeepToo"
+  - "@naveenautomationlabs"
+  - "@java0405"
+  - "@freeleckor"
+  - "@JavaGuides"
+  - "@RamNJava"
+  - "@ResoCoder"
+  - "@discospiff"
+  - "@DailyCodeBuffer"
+  - "@DanVega"
+  - "@tookootek"
+  - "@keesun.b"
+  - "@ntigo"
+  - "@javajigi"
+  - "@rabisankarpodder7839"
+  - "@GainJavaKnowledge"
+  - "@infybuzz"
+  - "@java"
+  - "@namoosori"
+  - "@metacoding"
+  - "@DataStaxDevs"
+  - "@javaforengineersYT"
+  - "@HelloCodepur"
+  - "@SeleniumExpress"
+  - "@in28minutes"
+  - "@priyatalkstech6534"
+  - "@aptkode"
+  - "@fosdemtalks"
+  - "@GenuineCoder"
+  - "@alexlorenlee"
+  - "@1BestCsharpblog"
+  - "@RomanianCoder"
+  - "@szLynAs"
+  - "@DefogTech"
+  - "@omerjava"
+  - "@SergeyKargopolov"
+  - "@SiliconBrighton"
+  - "@trustinlee"
+  - "@PhilipStarritt"
+  - "@juglodz"
+  - "@MVPJava"
+  - "@codingsaint"
+  - "@SumeetMaharjan"
+  - "@oracledevs"
+  - "@varuncbv"
+  - "@thenishkhandk"
+  - "@CodeJava"
+  - "@DevLanding"
+  - "@KT-cq2ph"
+  - "@arahansame9320"
+  - "@amilacjay"
+  - "@ProgrammerZamanNow"
+  - "@jj362choi"
+  - "@KotlinHyderabad"
+  - "@gamefromscratch"
+  - "@GiuseppeScaramuzzino"
+  - "@JavaInUse"
+  - "@ProgrammingTechie"
+  - "@Touchlab"
+  - "@atl.academy"
+  - "@springcampkr"
+  - "@WhizdomTrainings01"
+  - "@SivaReddyJavaTechie"
+  - "@patrickwashingtondc"
+  - "@javasoul4367"
+  - "@NareshIT"
+  - "@icttrainer6889"
+  - "@newlec1"
+  - "@sangmessi727"
+  - "@loianegroner"
+  - "@microserviceslab5515"
+  - "@hancoding"
+  - "@around.hub.studio"
+  - "@SagguUK"
+  - "@MasterNKS"
+  - "@user-tu5nq1er9t"
+  - "@user-io1lo4zs8n"
+  - "@devCJH"
+  - "@Techtter"
+  - "@ithotgi"
+  - "@user-ht2jq8bg9b"
+  - "@SpringIOConference"
+  - "@CodeWisTechnologies"
+  - "@hobbyMett"
+  - "@ssap-dba"
+  - "@VickingDev"
+  - "@ringring_creator"
+  - "@TheTestingAcademy"
+  - "@puneethkumarnarasimhaiah5092"
+  - "@shadsluiter"
+  - "@DeveloperVoices"
+  - "@nullistp4065"
+  - "@KyounRrock"
+  - "@IT-sm6mq"
+  - "@BusinessAndTech"
+  - "@surendranvelath4355"
+  - "@davidford6890"
+  - "@yhdev"
+  - "@seibertmedia"
+  - "@cloudtech5260"
+head:
+  - - meta:
+    - property: og:title
+      content: ☕️Java > 📺Youtube
+    - property: og:description
+      content: ☕️Java > 📺Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-java/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -25,7 +133,6 @@ meta:
 <MyYouTubeItems jsonName="yu-naveenautomationlabs" /><!-- Naveen AutomationLabs -->
 <MyYouTubeItems jsonName="yu-java0405" /><!-- 김기태의 JAVA를 자바 -->
 <MyYouTubeItems jsonName="yu-freeleckor" /><!-- 프리렉 -->
-<MyYouTubeItems jsonName="yu-KenuHeo" /><!-- Kenu Heo -->
 <MyYouTubeItems jsonName="yu-JavaGuides" /><!-- Java Guides -->
 <MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->
 <MyYouTubeItems jsonName="yu-ResoCoder" /><!-- Reso Coder -->

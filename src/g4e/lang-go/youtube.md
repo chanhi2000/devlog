@@ -2,14 +2,23 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🦦Go > 📺Youtube
-tags: ["java", "jdk", "youtube", "yt"]
-meta:
-  - property: og:title
-    content: 📺Youtube
-  - property: og:description
-    content: 🦦Go > 📺Youtube
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-go/youtube.html
+category:
+  - 🦦Go 
+  - 📺Youtube
+tag: 
+  - go
+  - youtube
+  - yt
+head:
+  - - meta:
+    - property: og:title
+      content: 🦦Go > 📺Youtube
+    - property: og:description
+      content: 🦦Go > 📺Youtube
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-go/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

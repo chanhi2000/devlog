@@ -1,8 +1,15 @@
 ---
 lang: ko-KR
 title: 💡Tips
-description: Vim > 💡Tips
-tags: ["vim", "cli", "vi", "text-editor"]
+description: 🗡Vim > 💡Tips
+category: 
+  - 🗡Vim
+  - 💡Tips 
+tag: 
+  - vim
+  - cli
+  - vi
+  - text-editor
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,10 +19,13 @@ tags: ["vim", "cli", "vi", "text-editor"]
 [[toc]]
 
 ---
+
 ## 💡Tips
 
 | 명령어 | 설명 |
 | :--- | :--- |
 | `:%y+` | Copy all the lines to clipboard |
+
+---
 
 <TagLinks />

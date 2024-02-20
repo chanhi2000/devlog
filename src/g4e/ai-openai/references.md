@@ -2,8 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 🎼OpenAI > 📚References
-category: 🎼OpenAI
-tags: ["openai" , "chatgpt", "chat", "llm"]
+category: 
+  - 🎼OpenAI 
+  - 📚References
+tag:
+  - openai
+  - chatgpt
+  - chat
+  - llm
 ---
 
 # {{ $frontmatter.title }} 관련

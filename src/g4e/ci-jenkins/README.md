@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🤵🏻‍♂️Jenkins
 description: 🤵🏻‍♂️Jenkins
+category:
+  - 🤵🏻‍♂️Jenkins
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -17,3 +19,7 @@ description: 🤵🏻‍♂️Jenkins
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/ci-jenkins/" />
+
+---
+
+<TagLinks />

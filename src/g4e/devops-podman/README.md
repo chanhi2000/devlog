@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🍄Podman
 description: 🍄Podman
+category:
+  - 🍄Podman
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🍄Podman
 :::
 
 <ShieldsGroup logos="podman"/>
+
+---
+
+<TagLinks />

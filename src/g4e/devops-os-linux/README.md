@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🐧Linux
 description: 🐧Linux
+category:
+  - 🐧Linux
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🐧Linux
 :::
 
 <ShieldsGroup logos="apple,appstore,windows,windowsterminal,ubuntu"/>
+
+---
+
+<TagLinks />

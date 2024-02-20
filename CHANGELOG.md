@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.7.0  2024-02-20][v0.7.0]
+
+- Theme Hope 적용
+- 내용채워넣기
+
+---
+
 ## [v0.6.28  2024-02-19][v0.6.28]
 
 - 내용채워넣기

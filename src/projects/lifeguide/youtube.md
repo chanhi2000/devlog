@@ -2,14 +2,21 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🧭Lifeguide > 📺Youtube
-tags: ["lifeguide", "youtube", "yt"]
-meta:
-  - property: og:title
-    content: 📺Youtube
-  - property: og:description
-    content: 🧭Lifeguide > 📺Youtube
-  - property: og:url
-    content: https://chanhi2000.github.io/projects/lifeguide/youtube.html
+category: 
+  - 🧭Lifeguide
+  - 📺Youtube
+tag: 
+  - lifeguide
+  - youtube
+  - yt
+head:
+  - - meta:
+    - property: og:title
+      content: 🧭Lifeguide > 📺Youtube
+    - property: og:description
+      content: 🧭Lifeguide > 📺Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/projects/lifeguide/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

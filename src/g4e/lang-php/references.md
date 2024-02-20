@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: ⛵php > 📚References
-tags: ["education", "youtube", "programming", "php", "laravel"]
+category: 
+  - ⛵php
+  - 📚References
+tag: 
+  - education
+  - youtube
+  - programming
+  - php
+  - laravel
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -23,6 +31,12 @@ tags: ["education", "youtube", "programming", "php", "laravel"]
 ## Fly.io
 
 - [Full Stack Laravel](https://fly.io/laravel-bytes/full-stack-laravel)
+
+---
+
+### Dans Blog
+
+- [My PHP Problems](https://www.dantleech.com/blog/2024/02/18/my-php-problems/)
 
 ---
 

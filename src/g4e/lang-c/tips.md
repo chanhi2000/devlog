@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 💡Tips
 description: 🦕C > 💡Tips
-tags: ["c", "process", "forking"]
+category: 
+  - 🦕C
+  - 💡Tips
+tag: 
+  - c
+  - cpp
+  - c++
+  - process
+  - forking
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -59,6 +67,6 @@ There are few parts to the function
 - Second argument: `args` is a char array where the first element is the pogram name (_e.g._ `ls`). The subsequent elements are arguments to the program.
 A `NULL` (null pointer) is used to indicate the end of elements in the array.
 
-
+---
 
 <TagLinks />

@@ -1079,5 +1079,25 @@
     "desc": "An extremely fast Python package installer and resolver, written in Rust.",
     "officialSite": "https://astral.sh/",
     "topics": []
+  }, {
+    "repo": "scroll-tech/scroll-prover",
+    "desc": "Scroll's zkEVM rust crates",
+    "officialSite": "https://scroll.io",
+    "topics": []
+  }, {
+    "repo": "kaspermarstal/plprql",
+    "desc": "Use PRQL in PostgreSQL",
+    "officialSite": "https://prql-lang.org/",
+    "topics": ["pgrx", "postgresql", "prql", "sql"]
+  }, {
+    "repo": "Speykious/cve-rs",
+    "desc": "Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "josh-project/josh",
+    "desc": "Just One Single History",
+    "officialSite": "https://josh-project.github.io/josh/",
+    "topics": ["git", "monorepo", "scm", "workflow"]
   }
 ]

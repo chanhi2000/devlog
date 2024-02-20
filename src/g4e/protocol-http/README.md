@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🌤️HTTP
 description: 🌤️HTTP
+category:
+  - 🌤️HTTP
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🌤️HTTP
 :::
 
 <ShieldsGroup logos="curl"/>
+
+---
+
+<TagLinks />

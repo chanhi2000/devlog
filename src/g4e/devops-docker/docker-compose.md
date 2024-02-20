@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 🚢Docker Compose
 description: 🐋Docker > 🚢Docker Compose
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
+category:
+  - 🐋Docker 
+  - 🚢Docker Compose
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - yml
+  - yaml
+  - docker-container
+  - vm
+  - docker-compose
 ---
 
 # {{ $frontmatter.title }} 관련

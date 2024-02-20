@@ -2,7 +2,22 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🐦Maven > 🔮Snippets
-tags: ["maven", "apache-maven", "snippets", "jdk", "jdk8", "jdk11", "mvn", "idea", "intellij-idea", "intellij", "ide", "eclipse"]
+category:
+  - 🐦Maven
+  - 🔮Snippets
+tag: 
+  - maven
+  - apache-maven
+  - snippets
+  - jdk
+  - jdk8
+  - jdk11
+  - mvn
+  - idea
+  - intellij-idea
+  - intellij
+  - ide
+  - eclipse
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,5 +27,7 @@ tags: ["maven", "apache-maven", "snippets", "jdk", "jdk8", "jdk11", "mvn", "idea
 ---
 
 ## Maven
+
+---
 
 <TagLinks />

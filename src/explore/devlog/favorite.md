@@ -2,7 +2,14 @@
 lang: ko-KR
 title: Favorite
 description: Devlog > Favorite
-tags: ["favorite", "devlog", "github", "tistory"]
+category: 
+  - Devlog
+  - Favorite
+tag: 
+  - favorite
+  - devlog
+  - github
+  - tistory
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,17 +1,26 @@
 ---
 lang: ko-KR
 title: 🦴Singleton
-description:  ☕️Java > 🦴Singleton
-tags: ["git" , "github" , "java" , "kotlin" , "android"]
-meta:
-  - name: 🦴Singleton
-    content: Java and Kotlin Libraries from Github
-  - property: og:title
-    content: 🦴Singleton
-  - property: og:description
-    content: ☕️Java > 🦴Singleton
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-java/github.html
+description: ☕️Java > 🦴Singleton
+category:
+  - ☕️Java
+  - 🦴Singleton
+tag: 
+  - git
+  - github
+  - java
+  - kotlin
+  - android
+head:  
+  - - meta:
+    - property: og:title
+      content: ☕️Java > 🦴Singleton
+    - property: og:description
+      content: ☕️Java > 🦴Singleton
+    - property: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-java/github.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -213,3 +222,6 @@ _(토비 스프링)_ 서버에서 클래스 로더를 어떻게 구성하고 있
 
 _(토비 스프링)_ Singleton 은 사용하는 클라이언트가 정해져 있지 않다. Singleton 의 스태틱 메서드를 이용해 언제든지 Singleton 에 쉽게 접근할 수 있기 때문에 애플리케이션 어디서든지 사용될 수 있고, 그러다 보면 자연스럽게 전역 상태로 사용되기 쉽다. 아무 객체나 자유롭게 접근하고 수정하고 공유할 수 있는 전역 상태를 갖는 것은 객체지향 프로그래밍에서는 권장되지 않는 프로그래밍 모델이다.
 
+---
+
+<TagLinks />

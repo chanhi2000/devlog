@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📺Youtube
 description: ⛵php > 📺Youtube
-tags: ["education", "youtube", "programming", "php", "laravel"]
+category:
+  - ⛵php
+  - 📺Youtube
+tag:
+  - education
+  - youtube
+  - programming
+  - php
+  - laravel
 ---
 
 # {{ $frontmatter.title }} 관련

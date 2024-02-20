@@ -2,8 +2,12 @@
 lang: ko-KR
 title: 🚄Learn essential Swift in one hour
 description: 🕊️Swift > 🚄Learn essential Swift in one hour
-category: 🕊️Swift
-tags: ["references", "swift"]
+category: 
+  - 🕊️Swift
+  - 🚄Learn essential Swift in one hour
+tag: 
+  - references
+  - swift
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -14,12 +18,14 @@ tags: ["references", "swift"]
 
 ---
 
-```card
-title: HACKING WITH SWIFT
-desc: 🚄Learn essential Swift in one hour
-link: https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour
-logo: https://www.hackingwithswift.com/favicon-96x96.png
-color: rgba(174, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "HACKING WITH SWIFT",
+  "desc": "🚄Learn essential Swift in one hour",
+  "link": "https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour",
+  "logo": "https://www.hackingwithswift.com/favicon-96x96.png",
+  "background": "rgba(174, 10, 10, 0.2)"
+}
 ```
 
 ---
@@ -32,7 +38,9 @@ We’re going to move fast because this is designed to be a primer – if you fi
 
 Let’s get to it!
 
-<YouTube id="n5X_V81OYnQ" />
+<VidStack 
+  src="youtube/n5X_V81OYnQ" 
+  title="Learn the Essentials of Swift in one hour"/>
 
 ---
 

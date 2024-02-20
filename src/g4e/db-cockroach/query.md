@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🔍Query
 description: 🪳Cockroach > 🔍Query
-tags: ["sql", "db", "cockroachdb", "ddl", "dml", "sql-privilege"]
+category:
+  -  🪳Cockroach
+  - 🔍Query
+tag: 
+  - sql
+  - db
+  - cockroachdb
+  - ddl
+  - dml
+  - sql-privilege
 ---
 
 # {{ $frontmatter.title }} 관련

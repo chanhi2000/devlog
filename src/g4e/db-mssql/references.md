@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🎡Microsoft SQL Server > 📚References
-tags: ["sql", "db", "mssql", "shell", "stricky"]
+category:
+  - 🎡Microsoft SQL Server
+  - 📚References
+tag: 
+  - sql
+  - db
+  - mssql
+  - shell
+  - stricky
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,8 +1,17 @@
 ---
 lang: ko-KR
 title: Resources
-description: 🧭 API > Resources
-tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gitignore", "hyperlink"]
+description: 🧭API > Resources
+tag:
+  - image
+  - color
+  - resource
+  - community
+  - git
+  - bootstrap
+  - api
+  - gitignore
+  - hyperlink
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -153,7 +162,6 @@ tags: ["image", "color", "resource", "community", "git", "bootstrap", "api", "gi
 
 <!-- APIs -->
 [github-opensource-guide]: https://opensource.guide
-[gitignore]: https://www.toptal.com/developers/gitignore
 [mobbin]: https://mobbin.com/browse/ios/apps
 [small-devtools]: https://smalldev.tools
 [Bootstrap-Icons]: https://icons.getbootstrap.com

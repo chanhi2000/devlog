@@ -2,16 +2,24 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🧶Node.js > 🕶️Github
-tags: ["git" , "github" , "javascript" , "nodejs" , "js", "typescript", "ts"]
-meta:
-  - name: 🧶Node.js > 🕶️Github
-    content: Javascript Libraries from Github
-  - property: og:title
-    content: 🕶️Github
-  - property: og:description
-    content: 🧶Node.js > 🕶️Github
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-js-node/github.html
+category:
+  - 🧶Node.js
+  - 🕶️Github
+tag: 
+  - js
+  - node
+  - nodejs
+  - ts
+  - git
+  - github
+head:
+  - - meta:
+    - property: og:title
+      content: 🧶Node.js > 🕶️Github
+    - property: og:description
+      content: 🧶Node.js > 🕶️Github
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

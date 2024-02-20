@@ -1,8 +1,15 @@
 ---
 lang: ko-KR
-title: CLI
-description: 👽oVirt > CLI
-tags: ["bash", "sh"]
+title: ▶CLI
+description: 👽oVirt > ▶CLI
+category:
+  - 👽oVirt
+  - ▶CLI
+tag: 
+  - bash
+  - sh
+  - ovirt
+  - cli
 ---
 
 # {{ $frontmatter.title }} 관련

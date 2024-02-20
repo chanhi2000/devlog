@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🖥️macOS > 📚References
-tags: ["macos", "settings"]
+category:
+  - 🖥️macOS
+  - 📚References
+tag: 
+  - macos
+  - settings
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -154,6 +159,5 @@ tags: ["macos", "settings"]
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
 ---
-
 
 <TagLinks />

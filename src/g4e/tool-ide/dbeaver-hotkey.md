@@ -1,8 +1,15 @@
 ---
 lang: ko-KR
-title: DBeaver > Hotkey 
+title: Hotkey 
 description: DBeaver > Hotkey
-tags: ["dbeaver", "dbeaver-ce", "hotkey", "ide"]
+category:
+  - DBeaver
+  - Hotkey
+tag: 
+  - dbeaver
+  - dbeaver-ce
+  - hotkey
+  - ide
 ---
 
 # {{ $frontmatter.title }} 관련

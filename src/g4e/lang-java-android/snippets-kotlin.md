@@ -2,7 +2,17 @@
 lang: ko-KR
 title: 🅺🔮Kotlin Snippets
 description: 🤖Android > 🅺🔮Kotlin Snippets
-tags: ["kt", "kts", "android", "android-studio", "idea", "intellij-idea", "intellij"]
+category:
+  - 🤖Android 
+  - 🅺🔮Kotlin Snippets
+tag: 
+  - kt
+  - kts
+  - android
+  - android-studio
+  - idea
+  - intellij-idea
+  - intellij
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -156,5 +166,6 @@ val sortedWeightsDesc
 
 :::
 
+---
 
 <TagLinks />

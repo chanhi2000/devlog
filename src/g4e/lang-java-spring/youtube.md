@@ -2,14 +2,23 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🍃Spring > 📺Youtube
-tags: ["java", "jdk", "spring", "springboot", "youtube"]
-meta:
-  - property: og:title
-    content: 📺Youtube
-  - property: og:description
-    content: 🍃Spring > 📺Youtube
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-java-spring/youtube.html
+category: 
+  - 🍃Spring
+  - 📺Youtube
+tag: 
+  - java
+  - jdk
+  - spring
+  - springboot
+  - youtube
+head:
+  - - meta:
+    - property: og:title
+      content: 🍃Spring > 📺Youtube
+    - property: og:description
+      content: 🍃Spring > 📺Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-java-spring/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,6 +51,6 @@ meta:
 <MyYouTubeItems jsonName="yu-tobyspring" /><!-- Toby Lee -->
 <MyYouTubeItems jsonName="yu-devtiro" /><!-- Devtiro -->
 <MyYouTubeItems jsonName="yu-codefarm0" /><!-- Codefarm -->
-
+<MyYouTubeItems jsonName="yu-KenuHeo" /><!-- Kenu Heo -->
 
 <TagLinks />

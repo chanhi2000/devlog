@@ -2,8 +2,8 @@
   "channel": {
     "id": "infoq",
     "name": "InfoQ",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOh_4X4_K1wpzJgi_nkSP14827Nu9hywEgFdBNjLw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/uAtHLRLqaOAT9CclOY9T7Co1WEnGoaLWPSiDlHp2Qsr7An2xeQSfxZWcWyxkcC-P0GTV-hqdfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQtSdVGn4MQCrOX4RB0Xdgcm80aWGVkUrkFzdCuUg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RqmkiNd-NF7fWJJTKJC07I7I03BWmfmZiJrBAYKcRACGXj4DcEuR5autu5oY-Z-r57AZAKwu3Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "D7qDt-I_q6I", "title": "Wasm: What is Universal Compute Good For?" },

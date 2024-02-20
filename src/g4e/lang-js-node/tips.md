@@ -2,8 +2,15 @@
 lang: ko-KR
 title: 💡Tips
 description: 🧶Node.js > 💡Tips
-category: 🧶Node.js
-tags: ["snippets", "js"]
+category:
+  - 🧶Node.js
+  - 💡Tips
+tag: 
+  - js
+  - node
+  - nodejs
+  - tips
+  - snippets
 ---
 
 # {{ $frontmatter.title }} 관련

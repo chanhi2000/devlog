@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🍐Appium > 📚References
-tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"] 
+category: 
+  - 🍐Appium
+  - 📚References
+tag:
+  - win
+  - Windows
+  - win10
+  - msc
+  - eventvwr.msc
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -16,5 +24,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 ## Tutorial(s)
 
 - [Getting started with appium](https://riptutorial.com/appium)
+
+---
 
 <TagLinks />

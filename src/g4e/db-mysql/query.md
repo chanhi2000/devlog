@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🔍Query
 description: 🐬MySQL > 🔍Query
-tags: ["sql", "mysql", "mysql5", "ddl", "dml", "sql-privilege"]
+category:
+  - 🐬MySQL
+  - 🔍Query
+tag:
+  - sql
+  - mysql
+  - mysql5
+  - ddl
+  - dml
+  - sql-privilege
 ---
 
 # {{ $frontmatter.title }} 관련

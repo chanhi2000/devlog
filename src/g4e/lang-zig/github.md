@@ -2,8 +2,13 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🏂Zig > 🕶️Github
-category: 🏂Zig
-tags: ["git" , "github", "zig"]
+category: 
+  - 🏂Zig
+  - 🕶️Github
+tag:
+  - git
+  - github
+  - zig
 ---
 
 # {{ $frontmatter.title }} 관련

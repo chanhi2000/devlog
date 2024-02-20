@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 💡Tips
 description: 🎨CSS > 💡Tips
-tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
+category:
+  - 🎨CSS
+  - 💡Tips
+tag: 
+  - css
+  - scss
+  - sass
+  - oruga
+  - css-animation
+  - dark-mode
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,10 +69,6 @@ p {
   filter: drop-shadow(2px 4px 8px #585858)
 }
 ```
-
----
-
-
 
 ---
 

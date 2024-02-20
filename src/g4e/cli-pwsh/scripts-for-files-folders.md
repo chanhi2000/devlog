@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📁Scripts for Files & Folders
 description: 🧙‍♂️Powershell > 📁Scripts for Files & Folders
-tags: ["powershell", "windows", "script", "useful-script"]
+category: 
+  - 🧙‍♂️Powershell
+  - 📁Scripts for Files & Folders
+tag:
+  - powershell
+  - windows
+  - script
+  - useful-script
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -15,12 +22,14 @@ tags: ["powershell", "windows", "script", "useful-script"]
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-autostart.ps1`
 
-```card
-title: cd-autostart.ps1
-desc: Set the working directory to the user's autostart folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-autostart.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-autostart.ps1",
+  "desc": "Set the working directory to the user's autostart folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-autostart.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's autostart folder.
@@ -82,12 +91,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-desktop.ps1`
 
-```card
-title: cd-desktop.ps1
-desc: Set the working directory to the user's desktop folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-desktop.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-desktop.ps1",
+  "desc": "Set the working directory to the user's desktop folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-desktop.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's desktop folder.
@@ -153,12 +164,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-docs.ps1`
 
-```card
-title: cd-docs.ps1
-desc: Set the working directory to the user's documents folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-docs.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-docs.ps1",
+  "desc": "Set the working directory to the user's documents folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-docs.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the documents folder.
@@ -224,12 +237,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-downloads.ps1`
 
-```card
-title: cd-downloads.ps1
-desc: Set the working directory to the user's downloads folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-downloads.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-downloads.ps1",
+  "desc": "Set the working directory to the user's downloads folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-downloads.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's downloads folder.
@@ -295,12 +310,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-dropbox.ps1`
 
-```card
-title: cd-dropbox.ps1
-desc: Set the working directory to the user's Dropbox folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-dropbox.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-dropbox.ps1",
+  "desc": "Set the working directory to the user's Dropbox folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-dropbox.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's Dropbox folder.
@@ -362,12 +379,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-home.ps1`
 
-```card
-title: cd-home.ps1
-desc: Set the working directory to the user's home folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-home.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-home.ps1",
+  "desc": "Set the working directory to the user's home folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-home.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's home directory.
@@ -429,12 +448,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-music.ps1`
 
-```card
-title: cd-music.ps1
-desc: Set the working directory to the user's music folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-music.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-music.ps1",
+  "desc": "Set the working directory to the user's music folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-music.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's music folder.
@@ -500,12 +521,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-onedrive.ps1`
 
-```card
-title: cd-onedrive.ps1
-desc: Set the working directory to the user's OneDrive folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-onedrive.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-onedrive.ps1",
+  "desc": "Set the working directory to the user's OneDrive folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-onedrive.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's OneDrive folder.
@@ -567,12 +590,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-pics.ps1`
 
-```card
-title: cd-pics.ps1
-desc: Set the working directory to the user's pictures folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-pics.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-pics.ps1",
+  "desc": "Set the working directory to the user's pictures folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-pics.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's pictures folder.
@@ -636,12 +661,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-recycle-bin.ps1`
 
-```card
-title: cd-recycle-bin.ps1
-desc: Set the working directory to the user's recycle bin folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-recycle-bin.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-recycle-bin.ps1",
+  "desc": "Set the working directory to the user's recycle bin folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-recycle-bin.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ::: tabs
@@ -708,12 +735,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-repos.ps1`
 
-```card
-title: cd-repos.ps1
-desc: Change the working directory to the user's Git repositories folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-repos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-repos.ps1",
+  "desc": "Change the working directory to the user's Git repositories folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-repos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's Git repositories folder.
@@ -795,12 +824,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-root.ps1`
 
-```card
-title: cd-root.ps1
-desc: Set the working directory to the root directory.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-root.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-root.ps1",
+  "desc": "Set the working directory to the root directory.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-root.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the current working directory to the root directory (<FontIcon icon="iconfont icon-folder"/>`C:\` on Windows).
@@ -859,12 +890,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-scripts.ps1`
 
-```card
-title: cd-scripts.ps1
-desc: Set the working directory to the PowerShell Scripts folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-scripts.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-scripts.ps1",
+  "desc": "Set the working directory to the PowerShell Scripts folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-scripts.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the PowerShell scripts folder.
@@ -924,12 +957,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-ssh.ps1`
 
-```card
-title: cd-ssh.ps1
-desc: Set the working directory to the user's SSH folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-ssh.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-ssh.ps1",
+  "desc": "Set the working directory to the user's SSH folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-ssh.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's SSH folder.
@@ -989,12 +1024,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-up.ps1`
 
-```card
-title: cd-up.ps1
-desc: Set the working directory to one directory level up.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-up.ps1",
+  "desc": "Set the working directory to one directory level up.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to one directory level up.
@@ -1054,12 +1091,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-up2.ps1`
 
-```card
-title: cd-up2.ps1
-desc: Set the working directory to two directory levels up.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up2.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-up2.ps1",
+  "desc": "Set the working directory to two directory levels up.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up2.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to two directory level up.
@@ -1119,12 +1158,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-up3.ps1`
 
-```card
-title: cd-up3.ps1
-desc: Set the working directory to three directory levels up.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up3.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-up3.ps1",
+  "desc": "Set the working directory to three directory levels up.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up3.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to three directory levels up.
@@ -1184,12 +1225,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-up4.ps1`
 
-```card
-title: cd-up4.ps1
-desc: Set the working directory to four directory levels up.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up4.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-up4.ps1",
+  "desc": "Set the working directory to four directory levels up.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-up4.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to four directory levels up.
@@ -1249,12 +1292,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `cd-videos.ps1`
 
-```card
-title: cd-videos.ps1
-desc: Set the working directory to the user's videos folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-videos.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "cd-videos.ps1",
+  "desc": "Set the working directory to the user's videos folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/cd-videos.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script changes the working directory to the user's videos folder.
@@ -1318,12 +1363,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `check-symlinks.ps1`
 
-```card
-title: check-symlinks.ps1
-desc: Checks every symlink in a directory tree.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-symlinks.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-symlinks.ps1",
+  "desc": "Checks every symlink in a directory tree.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-symlinks.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks every symbolic link in a folder (including subfolders).
@@ -1426,12 +1473,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `check-xml-file.ps1`
 
-```card
-title: check-xml-file.ps1
-desc: Checks the given XML file for validity.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/check-xml-file.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "check-xml-file.ps1",
+  "desc": "Checks the given XML file for validity.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-xml-file.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script checks the given XML file for validity.
@@ -1522,12 +1571,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `clear-recycle-bin.ps1`
 
-```card
-title: clear-recycle-bin.ps1
-desc: Removes the content of the recycle bin folder (can not be undo!).
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/clear-recycle-bin.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "clear-recycle-bin.ps1",
+  "desc": "Removes the content of the recycle bin folder (can not be undo!).",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/clear-recycle-bin.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script removes the content of the recycle bin folder permanently.
@@ -1588,12 +1639,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `copy-photos-sorted.ps1`
 
-```card
-title: copy-photos-sorted.ps1
-desc: Copy image files sorted by year and month.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/copy-photos-sorted.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "copy-photos-sorted.ps1",
+  "desc": "Copy image files sorted by year and month.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/copy-photos-sorted.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ::: tabs
@@ -1715,12 +1768,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `decrypt-file.ps1`
 
-```card
-title: decrypt-file.ps1
-desc: Decrypts the given file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/decrypt-file.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "decrypt-file.ps1",
+  "desc": "Decrypts the given file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/decrypt-file.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script decrypts a file using the given password and AES encryption.
@@ -1920,12 +1975,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `download-dir.ps1`
 
-```card
-title: download-dir.ps1
-desc: Downloads a directory tree from the given URL.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/download-dir.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "download-dir.ps1",
+  "desc": "Downloads a directory tree from the given URL.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/download-dir.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script downloads a folder (including subfolders) from the given URL.
@@ -2005,12 +2062,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `download-file.ps1`
 
-```card
-title: download-file.ps1
-desc: Downloads a file from the given URL.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/download-file.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "download-file.ps1",
+  "desc": "Downloads a file from the given URL.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/download-file.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script downloads a file from the given URL
@@ -2090,12 +2149,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `edit.ps1`
 
-```card
-title: edit.ps1
-desc: Edits the given file with the built-in text editor.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/edit.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "edit.ps1",
+  "desc": "Edits the given file with the built-in text editor.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/edit.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script opens a text editor to edit the given file.
@@ -2170,12 +2231,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `encrypt-file.ps1`
 
-```card
-title: encrypt-file.ps1
-desc: Encrypts the given file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/encrypt-file.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "encrypt-file.ps1",
+  "desc": "Encrypts the given file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/encrypt-file.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script encrypts a file using the given password and AES encryption.
@@ -2360,12 +2423,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `get-md5.ps1`
 
-```card
-title: get-md5.ps1
-desc: Prints the MD5 checksum of the given file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/get-md5.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "get-md5.ps1",
+  "desc": "Prints the MD5 checksum of the given file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/get-md5.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script calculates and prints the MD5 checksum of the given file.
@@ -2440,12 +2505,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `get-sha1.ps1`
 
-```card
-title: get-sha1.ps1
-desc: Prints the SHA1 checksum of the given file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/get-sha1.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "get-sha1.ps1",
+  "desc": "Prints the SHA1 checksum of the given file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/get-sha1.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script calculates and prints the SHA1 checksum of the given file.
@@ -2520,12 +2587,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `get-sha256.ps1`
 
-```card
-title: get-sha256.ps1
-desc: Prints the SHA256 checksum of the given file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/get-sha256.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "get-sha256.ps1",
+  "desc": "Prints the SHA256 checksum of the given file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/get-sha256.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script calculates and prints the SHA256 checksum of the given file.
@@ -2600,12 +2669,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `inspect-exe.ps1`
 
-```card
-title: inspect-exe.ps1
-desc: Prints basic information of the given executable file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/inspect-exe.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "inspect-exe.ps1",
+  "desc": "Prints basic information of the given executable file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/inspect-exe.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script prints basic information of an executable file.
@@ -2677,24 +2748,28 @@ try {
 
 ## ❌<FontIcon icon="iconfont icon-file"/> `list-dir-tree.ps1`
 
-```card
-title: list-dir-tree.ps1
-desc: Lists the directory tree content.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-dir-tree.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-dir-tree.ps1",
+  "desc": "Lists the directory tree content.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-dir-tree.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ---
 
 ## <FontIcon icon="iconfont icon-file"/> `list-empty-dirs.ps1`
 
-```card
-title: list-empty-dirs.ps1
-desc: Lists empty subfolders within the given directory tree.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-empty-dirs.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-empty-dirs.ps1",
+  "desc": "Lists empty subfolders within the given directory tree.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-empty-dirs.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script scans and lists all empty subfolders within the given directory tree.
@@ -2773,12 +2848,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `list-empty-files.ps1`
 
-```card
-title: list-empty-files.ps1
-desc: Lists empty files within the given directory tree.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-empty-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-empty-files.ps1",
+  "desc": "Lists empty files within the given directory tree.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-empty-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script scans and lists all empty files within the given directory tree.
@@ -2855,12 +2932,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `list-files.ps1`
 
-```card
-title: list-files.ps1
-desc: Lists all files in the given folder and also in every subfolder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-files.ps1",
+  "desc": "Lists all files in the given folder and also in every subfolder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists all files within the given directory tree.
@@ -2930,12 +3009,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `list-folder.ps1`
 
-```card
-title: list-folder.ps1
-desc: Lists the folder content.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-folder.ps1",
+  "desc": "Lists the folder content.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the content of a directory (alphabetically formatted in columns).
@@ -3028,12 +3109,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `list-hidden-files.ps1`
 
-```card
-title: list-hidden-files.ps1
-desc: Lists hidden files within the given directory tree.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-hidden-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-hidden-files.ps1",
+  "desc": "Lists hidden files within the given directory tree.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-hidden-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script scans and lists all hidden files in a directory tree.
@@ -3109,12 +3192,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `list-recycle-bin.ps1`
 
-```card
-title: list-recycle-bin.ps1
-desc: Lists the content of the recycle bin folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-recycle-bin.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-recycle-bin.ps1",
+  "desc": "Lists the content of the recycle bin folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-recycle-bin.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the content of the recycle bin folder.
@@ -3170,12 +3255,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `list-unused-files.ps1`
 
-```card
-title: list-unused-files.ps1
-desc: Lists unused files in a directory tree.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-unused-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-unused-files.ps1",
+  "desc": "Lists unused files in a directory tree.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-unused-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script scans and lists files in a folder with last access time older than number of days.
@@ -3259,12 +3346,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `list-workdir.ps1`
 
-```card
-title: list-workdir.ps1
-desc: Lists the current working directory.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-workdir.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-workdir.ps1",
+  "desc": "Lists the current working directory.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-workdir.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the path to current working directory (but not the content itself).
@@ -3322,12 +3411,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `make-install.ps1`
 
-```card
-title: make-install.ps1
-desc: Installs built executables and libs to the installation directory.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/make-install.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "make-install.ps1",
+  "desc": "Installs built executables and libs to the installation directory.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/make-install.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script copies newer EXE's + DLL's from the build directory to the installation directory.
@@ -3393,12 +3484,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `new-shortcut.ps1`
 
-```card
-title: new-shortcut.ps1
-desc: Creates a new shortcut file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-shortcut.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "new-shortcut.ps1",
+  "desc": "Creates a new shortcut file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/new-shortcut.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script creates a new shortcut file.
@@ -3500,12 +3593,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `new-symlink.ps1`
 
-```card
-title: new-symlink.ps1
-desc: Creates a new symbolic link file.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-symlink.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "new-symlink.ps1",
+  "desc": "Creates a new symbolic link file.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/new-symlink.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script creates a new symbolic link file.
@@ -3589,12 +3684,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `new-zipfile.ps1`
 
-```card
-title: new-zipfile.ps1
-desc: Creates a new .zip file from a directory.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-zipfile.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "new-zipfile.ps1",
+  "desc": "Creates a new .zip file from a directory.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/new-zipfile.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script creates a new .ZIP file from a folder (including subfolders).
@@ -3669,12 +3766,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `publish-to-ipfs.ps1`
 
-```card
-title: publish-to-ipfs.ps1
-desc: Publishes the given files or directory to IPFS.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/publish-to-ipfs.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "publish-to-ipfs.ps1",
+  "desc": "Publishes the given files or directory to IPFS.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/publish-to-ipfs.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script publishes the given files and folders to IPFS.
@@ -3795,12 +3894,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `remove-empty-dirs.ps1`
 
-```card
-title: remove-empty-dirs.ps1
-desc: Removes empty subfolders within the given directory tree.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-empty-dirs.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "remove-empty-dirs.ps1",
+  "desc": "Removes empty subfolders within the given directory tree.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/remove-empty-dirs.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script removes all empty subfolders within a directory tree.
@@ -3893,12 +3994,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `replace-in-files.ps1`
 
-```card
-title: replace-in-files.ps1
-desc: Search and replace a pattern in the given files by the replacement.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/replace-in-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "replace-in-files.ps1",
+  "desc": "Search and replace a pattern in the given files by the replacement.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/replace-in-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script searches and replaces a pattern in the given files by the replacement.
@@ -4006,12 +4109,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `search-filename.ps1`
 
-```card
-title: search-filename.ps1
-desc: Searches the directory tree for filenames by given pattern.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/search-filename.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "search-filename.ps1",
+  "desc": "Searches the directory tree for filenames by given pattern.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/search-filename.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script serves as a quick Powershell replacement to the search functionality in Windows
@@ -4109,12 +4214,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/> `search-files.ps1`
 
-```card
-title: search-files.ps1
-desc: Searches the given pattern in the given files.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/search-files.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "search-files.ps1",
+  "desc": "Searches the given pattern in the given files.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/search-files.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script searches for a pattern in the given files.
@@ -4208,12 +4315,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/> `upload-file.ps1`
 
-```card
-title: upload-file.ps1
-desc: Uploads the local file to the given FTP server.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/upload-file.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "upload-file.ps1",
+  "desc": "Uploads the local file to the given FTP server.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/upload-file.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script uploads a local file to a FTP server.

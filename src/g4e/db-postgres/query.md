@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🔎Query
 description: 🦏PostgreSQL > 🔎Query
-tags: ["sql", "postgres", "postgresql", "ddl", "dml", "sql-privilege"]
+category:
+  - 🦏PostgreSQL 
+  - 🔎Query
+tag: 
+  - sql
+  - postgres
+  - postgresql
+  - ddl
+  - dml
+  - sql-privilege
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,5 +57,7 @@ systemctl reload rh-postgresql<버전>-postgresql
 
 - [WNine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 - [PostgreSQL의 슬로우 쿼리에 대처하기](https://hyperconnect.github.io/2020/08/31/improve-slow-query.html)
+
+---
 
 <TagLinks />

@@ -1954,5 +1954,15 @@
     "desc": "Extensions for the Zed editor",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Kalabasa/htmz",
+    "desc": "html with targeted manipulation zones",
+    "officialSite": "http://leanrada.com/htmz/",
+    "topics": []
+  }, {
+    "repo": "mut-ex/gligen-gui",
+    "desc": "An intuitive GUI for GLIGEN that uses ComfyUI in the backend",
+    "officialSite": "",
+    "topics": []
   }
 ]

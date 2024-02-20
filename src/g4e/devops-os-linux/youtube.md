@@ -2,7 +2,57 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐧Linux > 📺Youtube
-tags: ["youtube", "tutorial", "sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "starship", "ubuntu", "debian", "pacman", "docker", "neofetch", "@linuxleech", "@tmanelshrghk", "@SoftwareToolTime", "@HanbitMedia93", "@christianlempa", "@Talkitonair", "@hnasr", "@fknight", "@DanielPersson", "@LearnLinuxTV", "@sstectutorials", "@davidbombal", "@tutoriaLinux", "@VMwareTanzu", "@BrodieRobertson", "@RobertElderSoftware", "@OfficialPackt", "@MentalOutlaw", "@eBuzzCentral", "@linuxscoop", "@gisafirst1", "@theurbanpenguin", "@JosephDelgadillo", "@gaffclant", "@NixiePixel", "@TheLinuxEXP", "@EposVox", "@SwitchedtoLinux", "@TheLinuxCast", "@LinuxTips", "@ByteofLinux", "@systemv1968", "@Benmin824"]
+category:
+  - 🐧Linux
+  - 📺Youtube 
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "sh"
+  - "bash"
+  - "zsh"
+  - "oh-my-zsh"
+  - "ohmyzsh"
+  - "apt-get"
+  - "starship"
+  - "ubuntu"
+  - "debian"
+  - "pacman"
+  - "docker"
+  - "neofetch"
+  - "@linuxleech"
+  - "@tmanelshrghk"
+  - "@SoftwareToolTime"
+  - "@HanbitMedia93"
+  - "@christianlempa"
+  - "@Talkitonair"
+  - "@hnasr"
+  - "@fknight"
+  - "@DanielPersson"
+  - "@LearnLinuxTV"
+  - "@sstectutorials"
+  - "@davidbombal"
+  - "@tutoriaLinux"
+  - "@VMwareTanzu"
+  - "@BrodieRobertson"
+  - "@RobertElderSoftware"
+  - "@OfficialPackt"
+  - "@MentalOutlaw"
+  - "@eBuzzCentral"
+  - "@linuxscoop"
+  - "@gisafirst1"
+  - "@theurbanpenguin"
+  - "@JosephDelgadillo"
+  - "@gaffclant"
+  - "@NixiePixel"
+  - "@TheLinuxEXP"
+  - "@EposVox"
+  - "@SwitchedtoLinux"
+  - "@TheLinuxCast"
+  - "@LinuxTips"
+  - "@ByteofLinux"
+  - "@systemv1968"
+  - "@Benmin824"
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 💡Tips
 description: 💧Elixir > 💡Tips
-tags: ["elixir", "exs"]
+category:
+  - 💧Elixir
+  - 💡Tips
+tag: 
+  - elixir
+  - exs
 ---
 
 # {{ $frontmatter.title }} 관련

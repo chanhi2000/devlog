@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 💡Tips
 description: 👓Windows > 💡Tips
-tags: ["bat" ,"pwsh", "regedit"]
+category:
+  - 👓Windows 
+  - 💡Tips
+tag: 
+  - bat 
+  - pwsh
+  - regedit
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -183,5 +189,6 @@ RENAME <구 이름> <바꿀 이름> && REM 폴더명 변경
 - `regedit` 실행 후 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\<찾은 SID값>` 경로이동
 - `ProfileImagePath` 값을 바꾼 이름으로 지정
 
+---
 
  <TagLinks />

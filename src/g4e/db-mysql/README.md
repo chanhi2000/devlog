@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🐬MySQL
 description: 🐬MySQL
+category:
+  - 🐬MySQL
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🐬MySQL
 :::
 
 <ShieldsGroup logos="mysql"/>
+
+---
+
+<TagLinks />

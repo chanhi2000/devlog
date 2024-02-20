@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
-description: IDE (Integrated Development Environment)
+title: IDE
+description: IDE
+category:
+  - IDE
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: IDE (Integrated Development Environment)
 :::
 
 <ShieldsGroup logos="jetbrains,intellijidea,androidstudio,vim,neovim"/>
+
+---
+
+<TagLinks />

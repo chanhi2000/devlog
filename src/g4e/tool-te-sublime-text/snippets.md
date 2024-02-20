@@ -2,8 +2,10 @@
 lang: ko-KR
 title: 🔮Snippets
 description: ⌨Sublime Text > 🔮Snippets
-category: ⌨Sublime Text
-tags: 
+category: 
+  - ⌨Sublime Text
+  - 🔮Snippets
+tag: 
   - js
   - chrome
   - chrome-browser

@@ -2,8 +2,8 @@
   "channel": {
     "id": "esri_arcgis",
     "name": "ArcGIS",
-    "profile": "https://yt3.googleusercontent.com/MStpBGBuwpJyzfFFS6wT8HsVQszAmttXc4Q6WdpfoT6H7djhhetGeEUiC8F2hYadYpmJ8LYcNw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/paEFSTn2khwNrBkbz9hYLsu7dQw4VxTFDyBdMI_HlLbWXxRUEisebPzK5Zma87QUos1_8HHJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/hIBqeGlKL8VPI3l1LohkccnShOCGqi2hhxraAfEg0a_L-vtJppDeKUfXr91q9CidgiYskbcHDA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/L0aN4M8ckWFKPyFCyKQYXFb41CZ9PZAuHlN6PlEvCTrQ12WhA2SFNYXXpNiTt4BmaG8Tky-M=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "w8mdhD3dxDo", "title": "Getting Started with Model Builder in ArcGIS Pro" },

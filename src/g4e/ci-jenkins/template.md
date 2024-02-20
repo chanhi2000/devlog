@@ -2,7 +2,14 @@
 lang: ko-KR
 title: ⚡Template
 description: 🤵🏻‍♂️Jenkins > ⚡Template
-tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
+category:
+  - 🤵🏻‍♂️Jenkins
+  - ⚡Template
+tag: 
+  - jenkins
+  - cicd
+  - ci
+  - cd
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -14,5 +21,7 @@ tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
 ---
 
 ## 탬플릿
+
+---
 
 <TagLinks />

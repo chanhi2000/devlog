@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
-description: 📚Nexus Repository
+title: 🕋Nexus Repository
+description: 🕋Nexus Repository
+category:
+  - 🕋Nexus Repository
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,5 @@ description: 📚Nexus Repository
 :::
 
 ---
+
+<TagLinks />

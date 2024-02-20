@@ -2,7 +2,27 @@
 lang: ko-KR
 title: 🧰Environment Setup
 description: 🐧Linux > 🧰Environment Setup
-tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "apt-get", "snapd", "starship", "ubuntu", "debian", "pacman", "jdk" ,"jdk11", "temurin", "temurin11", "docker", "neofetch"]
+category:
+  - 🐧Linux 
+  - 🧰Environment Setup
+tag: 
+  - sh
+  - bash
+  - zsh
+  - oh-my-zsh
+  - ohmyzsh
+  - apt-get
+  - snapd
+  - starship
+  - ubuntu
+  - debian
+  - pacman
+  - jdk 
+  - jdk11
+  - temurin
+  - temurin11
+  - docker
+  - neofetch
 ---
 
 # {{ $frontmatter.title }} 관련

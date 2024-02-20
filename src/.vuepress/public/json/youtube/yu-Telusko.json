@@ -2,8 +2,8 @@
   "channel": {
     "id": "Telusko",
     "name": "Telusko",
-    "profile": "https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/mHSb8JL6--hAGMFutgdmkWhc1N853V04knbbfDi9THw8jnh68A2578jnc7JrjmYdi0m4WmpJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tbGd2GglIheDdACs4qzHXp1EYhupDf1M8wYq1AGmy4fDsAxo8l-igds9atXHS-VOYt7UquZ4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "4XTsAAHW_Tc", "title": "Complete Java, Spring, and Microservices course" },

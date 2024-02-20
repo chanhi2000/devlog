@@ -1,8 +1,16 @@
 ---
 lang: ko-KR
 title: 💡Tips
-description: 💡Tips
-tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
+description: 🕋Nexus Repository > 💡Tips
+category:
+  - 🕋Nexus Repository
+  - 💡Tips
+tag: 
+  - "nexus"
+  - "sonatype-nexus"
+  - "docker"
+  - "http"
+  - "maven"
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,6 +20,7 @@ tags: ["nexus", "sonatype-nexus", "docker", "http", "maven"]
 [[toc]]
 
 ---
+
 ## Artifacts
 
 ### ⤵️Download

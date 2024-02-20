@@ -2,7 +2,34 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🐚Shell > 📺Youtube
-tags: ["youtube", "tutorial", "bash", "linux", "macos", "terminal", "sed", "sh", "@gotbletu", "@bashbunni", "@NickJanetakis", "@DistroTube", "@DigitalMetal", "@EzeeLinux", "@Steve8708", "@ElijahManor", "@branvandermeer", "@BryanLunduke", "@OldTechBloke", "@rwbnetsec", "@typecraft_dev", "@LukeSmithxyz", "@K0P", "@EngineerMan"]
+category: 
+  - 🐚Shell
+  - 📺Youtube
+tag:
+  - "youtube"
+  - "tutorial"
+  - "bash"
+  - "linux"
+  - "macos"
+  - "terminal"
+  - "sed"
+  - "sh"
+  - "@gotbletu"
+  - "@bashbunni"
+  - "@NickJanetakis"
+  - "@DistroTube"
+  - "@DigitalMetal"
+  - "@EzeeLinux"
+  - "@Steve8708"
+  - "@ElijahManor"
+  - "@branvandermeer"
+  - "@BryanLunduke"
+  - "@OldTechBloke"
+  - "@rwbnetsec"
+  - "@typecraft_dev"
+  - "@LukeSmithxyz"
+  - "@K0P"
+  - "@EngineerMan"
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: ⌨Sublime Text
 description: ⌨Sublime Text
+category:
+  - ⌨Sublime Text
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: ⌨Sublime Text
 :::
 
 <ShieldsGroup logos="sublimetext"/>
+
+---
+
+<TagLinks />

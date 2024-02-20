@@ -2,8 +2,12 @@
 lang: ko-KR
 title: 💡Tips
 description: 🏂Zig > 💡Tips
-category: 🏂Zig
-tags: ["tips", "zig"]
+category: 
+  - 🏂Zig
+  - 💡Tips
+tag: 
+  - tips
+  - zig
 ---
 
 # {{ $frontmatter.title }} 관련

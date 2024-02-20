@@ -2,8 +2,13 @@
 lang: ko-KR
 title: 🍷API
 description: 🌤️HTTP > 🍷API
-category: 🌤️HTTP
-tags: ["references", "swift"]
+category: 
+  - 🌤️HTTP
+  - 🍷API
+tag: 
+  - references
+  - api
+  - js
 ---
 
 # {{ $frontmatter.title }} 관련

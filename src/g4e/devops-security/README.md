@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🛡Security
 description: 🛡Security
+category:
+  - 🛡Security
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🛡Security
 :::
 
 <ShieldsGroup logos="windows,windowsterminal,gnubash,gnometerminal"/>
+
+---
+
+<TagLinks />

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🎨CSS
 description: 🎨CSS
+category:
+  - 🎨CSS
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🎨CSS
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-css/" />
+
+---
+
+<TagLinks />

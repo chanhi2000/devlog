@@ -15,16 +15,17 @@
     </div>
   </div>
 
-  <YouTube v-bind:id="vId"
+  <VidStack v-bind:src="vId"
+    v-bind:title="vTitle"
     v-if="showEmbed"
   />
 </template>
 
 <script>
-import YouTube from '../../../node_modules/vuepress-plugin-components/lib/client/components/YouTube'
+import VidStack from '../../../node_modules/vuepress-plugin-components/lib/client/components/VidStack'
 export default {
   name: "YoutubeItem",
-  components: { YouTube },
+  components: { VidStack },
   props: {
     id: {
       type: String,
@@ -66,7 +67,7 @@ export default {
         console.warn(`unable to render ... `);
         return;
       }
-      this.vId = id
+      this.vId = `youtube/${id}`
       this.vTitle = title
       this.vChannelId = channelId
       this.vChannelName = channelName

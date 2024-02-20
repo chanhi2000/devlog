@@ -1,8 +1,10 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦖JEUS
 description: 🦖JEUS
-tags: 
+cagtegory:
+  - 🦖JEUS
+tag: 
   - java
   - jdk
   - jdk7
@@ -18,3 +20,5 @@ tags:
 :::
 
 ---
+
+<TagLinks />

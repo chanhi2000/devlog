@@ -2,7 +2,22 @@
 lang: ko-KR
 title: 🧰Environment Setup
 description: 🧛‍♀️Dracula > 🧰Environment Setup
-tags: ["sh", "bash", "zsh", "dracula", "dracula-theme", "draculatheme", "terminal", "windows-terminal", "zsh", "vscode", "visual-studio-code", "sublime-text"]
+category:
+  - 🧛‍♀️Dracula
+  - 🧰Environment Setup
+tag: 
+  - sh
+  - bash
+  - zsh
+  - dracula
+  - dracula-theme
+  - draculatheme
+  - terminal
+  - windows-terminal
+  - zsh
+  - vscode
+  - visual-studio-code
+  - sublime-text
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -17,11 +32,11 @@ tags: ["sh", "bash", "zsh", "dracula", "dracula-theme", "draculatheme", "termina
 
 ::: info Terminal.app
 
-[![Termainal](https://draculatheme.com/static/icons/used/pack-1/035-cauldron.svg =x150)](https://draculatheme.com/terminal)
+[![Termainal](https://draculatheme.com/icons/used/pack-1/035-cauldron.svg =x150)](https://draculatheme.com/terminal)
 
 Copy and Paste the following to the Terminal Prompt
 
-```shell
+```sh
 git clone https://github.com/dracula/terminal-app.git
 ```
 
@@ -39,17 +54,17 @@ git clone https://github.com/dracula/terminal-app.git
 
 ::: info zsh
 
-[![zsh](https://draculatheme.com/static/icons/used/pack-1/034-eye.svg =x150)](https://draculatheme.com/zsh)
+[![zsh](https://draculatheme.com/icons/used/pack-1/034-eye.svg =x150)](https://draculatheme.com/zsh)
 
 Copy and Paste the following to the Terminal Prompt
 
-```shell
+```sh
 git clone https://github.com/dracula/zsh.git
 ```
 
 And creating a symbolic link to `oh-my-zsh`'s theme folder:
 
-```shell
+```sh
 ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
 ```
 
@@ -61,7 +76,7 @@ ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
 
 ::: info Oh My Posh
 
-[![Oh My Posh](https://draculatheme.com/static/icons/used/pack-7/046-zombie.svg =x150)](https://draculatheme.com/oh-my-posh)
+[![Oh My Posh](https://draculatheme.com/icons/used/pack-7/046-zombie.svg =x150)](https://draculatheme.com/oh-my-posh)
 
 <h3>Installation</h3>
 
@@ -84,7 +99,7 @@ Nerd Fonts are required for the Dracula theme. To display all icons, the use of 
 
 ::: info Visual Studio Code
 
-[![Visual Studio Code](https://draculatheme.com/static/icons/used/pack-1/048-frankenstein.svg =x150)](https://draculatheme.com/visual-studio-code)
+[![Visual Studio Code](https://draculatheme.com/icons/used/pack-1/048-frankenstein.svg =x150)](https://draculatheme.com/visual-studio-code)
 
 1. Go to _View_ -> _Command Palette_ or press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Then enter `Install Extension`
@@ -99,7 +114,7 @@ Nerd Fonts are required for the Dracula theme. To display all icons, the use of 
 
 ::: info Sublime Text
 
-[![Sublime Text](https://draculatheme.com/static/icons/used/pack-1/044-spider-web.svg =x150)](https://draculatheme.com/sublime)
+[![Sublime Text](https://draculatheme.com/icons/used/pack-1/044-spider-web.svg =x150)](https://draculatheme.com/sublime)
 
 If you are using `Package Control`, you can easily install Dracula Theme via the `Package Control: Install Package` menu item. The Dracula Theme package is listed as `Dracula Color Scheme` in the packages list.
 
@@ -111,7 +126,7 @@ If you are using `Package Control`, you can easily install Dracula Theme via the
 
 ::: info Jetbrains
 
-[![Jetbrains](https://draculatheme.com/static/icons/used/pack-1/046-zombie.svg =x150)](https://draculatheme.com/jetbrains)
+[![Jetbrains](https://draculatheme.com/icons/used/pack-1/046-zombie.svg =x150)](https://draculatheme.com/jetbrains)
 
 | No. | Step | Image |
 | :---: | :---- | :---: |
@@ -127,7 +142,7 @@ If you are using `Package Control`, you can easily install Dracula Theme via the
 
 ::: info vim
 
-[![Vim](https://draculatheme.com/static/icons/used/pack-1/040-zombie-1.svg =x150)](https://draculatheme.com/vim)
+[![Vim](https://draculatheme.com/icons/used/pack-1/040-zombie-1.svg =x150)](https://draculatheme.com/vim)
 
 :::
 
@@ -137,7 +152,7 @@ If you are using `Package Control`, you can easily install Dracula Theme via the
 
 ::: info XCode
 
-[![XCode](https://draculatheme.com/static/icons/used/pack-3/048-unicorn.svg =x150)](https://draculatheme.com/xcode)
+[![XCode](https://draculatheme.com/icons/used/pack-3/048-unicorn.svg =x150)](https://draculatheme.com/xcode)
 
 Create the custom themes folder
  
@@ -159,7 +174,7 @@ mv ./dracula-xcode/Dracula.xccolortheme ~/Library/Developer/Xcode/UserData/FontA
 
 ::: info Windows Terminal
 
-[![Windows Termianl](https://draculatheme.com/static/icons/used/pack-3/047-tube.svg =x150)](https://draculatheme.com/windows-terminal)
+[![Windows Termianl](https://draculatheme.com/icons/used/pack-3/047-tube.svg =x150)](https://draculatheme.com/windows-terminal)
 
 ```sh
 git clone https://github.com/dracula/windows-terminal dracula-win-terminal
@@ -217,7 +232,7 @@ Once the color scheme has been defined, it's time to enable it. Find the profile
 
 ::: info Powershell
 
-[![Powershell](https://draculatheme.com/static/icons/used/pack-5/046-magic%20trick.svg =x150)](https://draculatheme.com/powershell)
+[![Powershell](https://draculatheme.com/icons/used/pack-5/046-magic%20trick.svg =x150)](https://draculatheme.com/powershell)
 
 1. Install the prerequisites:
   - PSReadLine 2.0 or later. It's installed by default in Windows 10, but you'll most likely `need to upgrade it`. You can verify your PSReadLine version by running 
@@ -249,7 +264,7 @@ Set-ItemProperty -Path $key -Name '000' -Value '<트루타입폰트이름>' # Se
 
 ::: info Youtube
 
-[![Youtube](https://draculatheme.com/static/icons/used/pack-9/005-dracula.svg =x150)](https://draculatheme.com/youtube)
+[![Youtube](https://draculatheme.com/icons/used/pack-9/005-dracula.svg =x150)](https://draculatheme.com/youtube)
 
 Install using browser extesion
 
@@ -272,7 +287,7 @@ Once installed, it will replace the default theme for Dracula!
 
 ::: info StackOverflow
 
-[![StackOverflow](https://draculatheme.com/static/icons/used/pack-5/026-candlestick.svg =x150)](https://draculatheme.com/stackoverflow)
+[![StackOverflow](https://draculatheme.com/icons/used/pack-5/026-candlestick.svg =x150)](https://draculatheme.com/stackoverflow)
 
 > ⚠️ NOTE: You need to have dark mode enabled in stackoverflow settings (Click on your `avatar` -> Click `Settings` -> Set Theme to Dark - [screenshot])
 
@@ -298,7 +313,7 @@ For more information about configuration and settings please see [DOCUMENTATION.
 
 ::: info Github Pages
 
-[![Github Pages](https://draculatheme.com/static/icons/used/pack-1/037-candies.svg =x150)](https://draculatheme.com/github-pages)
+[![Github Pages](https://draculatheme.com/icons/used/pack-1/037-candies.svg =x150)](https://draculatheme.com/github-pages)
 
 Clone the following repositories
 
@@ -308,14 +323,9 @@ git clone https://github.com/dracula/gh-pages.git
 
 :::
 
-
-
 ---
 
-
-
 <TagLinks />
-
 
 [jetbrains-01]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-plugin-install.png
 [jetbrains-02]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-appearance.png

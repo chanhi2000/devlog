@@ -1,8 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦀Rust
 description: 🦀Rust
-category: 🦀Rust
+category: 
+  - 🦀Rust
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +19,7 @@ category: 🦀Rust
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-rust/" />
+
+---
+
+<TagLinks />

@@ -2,8 +2,13 @@
 lang: ko-KR
 title: 🔌Plugins
 description: 🌈Chrome Browser > 🔌Plugins
-category: 🌈Chrome Browser
-tags: ["js" , "chrome", "chrome-browser"]
+category:
+  - 🌈Chrome Browser
+  - 🔌Plugins
+tag: 
+  - js
+  - chrome
+  - chrome-browser
 ---
 
 # {{ $frontmatter.title }} 관련

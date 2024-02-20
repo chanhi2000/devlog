@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦄Solidity
 description: 🦄Solidity
+category:
+  - 🦄Solidity
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🦄Solidity
 :::
 
 <ShieldsGroup logos="solidity"/>
+
+---
+
+<TagLinks />

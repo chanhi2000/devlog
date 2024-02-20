@@ -3,7 +3,9 @@ lang: ko-KR
 title: 📚References
 description: 🧮General > 📚References
 category: Mathematics & Science
-tags: ["youtube", "tutorial"]
+tag: 
+  - youtube
+  - tutorial
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -121,6 +123,12 @@ tags: ["youtube", "tutorial"]
 ## Quanta Magazine
 
 - [Inside the Proton, the ‘Most Complicated Thing You Could Possibly Imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+
+---
+
+## Azimuth
+
+- [Well Temperaments (Part 5)](https://johncarlosbaez.wordpress.com/2024/02/19/well-temperaments-part-5/)
 
 ---
 

@@ -2,7 +2,10 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🏹WebtoB > 🐣Basics
-tags: 
+category:
+  - 🏹WebtoB
+  - 🐣Basics
+tag: 
   - http.m
   - webtob
   - webserver

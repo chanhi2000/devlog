@@ -2,7 +2,18 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🧐Selenium > 📺Youtube
-tags: ["test", "testing", "selenium", "youtube", "sdetpavan", "RahulRathore41"] 
+category:
+  - 🧐Selenium
+  - 📺Youtube
+tag: 
+  - "test"
+  - "testing"
+  - "selenium"
+  - "youtube"
+  - "@sdetpavan"
+  - "@RahulRathore41"
+  - "@LambdaTest"
+  - "@rameshkudikala83"
 ---
 
 # {{ $frontmatter.title }} 관련

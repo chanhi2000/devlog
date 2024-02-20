@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🦏PostgreSQL > 📺Youtube
-tags: ["sql", "db", "postgres"]
+category:
+  - 🦏PostgreSQL 
+  - 📺Youtube
+tag: 
+  - sql
+  - db
+  - postgres
 ---
 
 # {{ $frontmatter.title }} 관련

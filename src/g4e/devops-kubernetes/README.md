@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: ☸️Kubernetes
 description: ☸️Kubernetes
+category:
+  - ☸️Kubernetes
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,3 +15,7 @@ description: ☸️Kubernetes
 {{ $frontmatter.title }} 관련 정리내용
 
 <ShieldsGroup logos="docker,kubernetes"/>
+
+---
+
+<TagLink />

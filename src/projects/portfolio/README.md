@@ -1,8 +1,15 @@
 ---
 lang: ko-KR
-title: Intro
-description: 🏰Portfolio
-tags: ["notion", "portfolio", "site", "project"]
+title: 🏰Portfolio
+description: 🏭Project > 🏰Portfolio
+category: 
+  - 🏭Project
+  - 🏰Portfolio
+tag:
+  - notion
+  - portfolio
+  - site
+  - project
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,3 +19,5 @@ tags: ["notion", "portfolio", "site", "project"]
 :::
 
 ---
+
+<TagLinks />

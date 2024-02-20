@@ -2,8 +2,12 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🔰Dart > 🔮Snippets
-category: 🔰Dart
-tags: ["references", "dart"]
+category:
+  - 🔰Dart
+  - 🔮Snippets
+tag: 
+  - dart
+  - flutter
 ---
 
 # {{ $frontmatter.title }} 관련

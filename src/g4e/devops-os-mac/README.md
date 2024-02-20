@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🖥️macOS
 description: 🖥️macOS
+category:
+  - 🖥️macOS
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🖥️macOS
 :::
 
 <ShieldsGroup logos="apple,appstore,homebrew"/>
+
+---
+
+<TagLinks />

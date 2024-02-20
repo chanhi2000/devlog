@@ -2,16 +2,26 @@
 lang: ko-KR
 title: 📚References
 description: ⚛React.js > 📚References
-tags: ["js" , "node" , "nodejs", "react", "reactjs", "reactnative", "facebook"]
-meta:
-  - name: ⚛React.js > 📚References
-    content: Javascript Libraries from Github
-  - property: og:title
-    content: 📚References
-  - property: og:description
-    content: ⚛React.js > 📚References
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-js-react/references.html
+category:
+  - ⚛React.js
+  - 📚References
+tag: 
+  - js
+  - node
+  - nodejs
+  - react
+  - reactjs
+  - reactnative
+  - facebook
+  - meta
+head:
+  - - meta:
+    - property: og:title
+      content: ⚛React.js > 📚References
+    - property: og:description
+      content: ⚛React.js > 📚References
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-react/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

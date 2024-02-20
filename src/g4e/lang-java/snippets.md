@@ -2,7 +2,19 @@
 lang: ko-KR
 title: 🔮Snippets
 description: ☕️Java > 🔮Snippets
-tags: ["java", "jdk", "jdk7", "jdk8", "singleton", "enum", "javadocs","kotlin", "companion-object"]
+category:
+  - ☕️Java
+  - 🔮Snippets
+tag: 
+  - java
+  - jdk
+  - jdk7
+  - jdk8
+  - singleton
+  - enum
+  - javadocs
+  - kotlin
+  - companion-object
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -115,3 +127,7 @@ suspend fun <T> Repository.safeApiCall(
     }
 }
 ```
+
+---
+
+<TagLinks />

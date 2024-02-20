@@ -2,11 +2,13 @@
 lang: ko-KR
 title: 🔌Plugins
 description: ⌨Sublime Text > 🔌Plugins
-category: ⌨Sublime Text
-tags: 
-  - "js" 
-  - "chrome"
-  - "chrome-browser"
+category: 
+  - ⌨Sublime Text
+  - 🔌Plugins
+tag: 
+  - text-editor
+  - sublimetext
+  - subl
 ---
 
 # {{ $frontmatter.title }} 관련

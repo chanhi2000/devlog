@@ -2,7 +2,14 @@
 lang: ko-KR
 title: ⚙settings.json
 description: 🆚VSCode > ⚙settings.json
-tags: ["webdev", "vscode", "productivity", "programming"]
+category: 
+  - 🆚VSCode
+  - ⚙settings.json
+tag: 
+  - webdev
+  - vscode
+  - productivity
+  - programming
 ---
 
 # {{ $frontmatter.title }} 관련

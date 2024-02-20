@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🔰Dart > 📚References
-tags: ["dart", "flutter"]
+category:
+  - 🔰Dart
+  - 📚References
+tag: 
+  - dart
+  - flutter
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 🩺Troubleshooting
 description: 🤖Android > 🩺Troubleshooting
-tags: ["java", "android", "troubleshooting"]
+category:
+  - 🤖Android 
+  - 🩺Troubleshooting
+tag: 
+  - java
+  - android
+  - troubleshooting
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,6 +18,5 @@ tags: ["java", "android", "troubleshooting"]
 [[toc]]
 
 ---
-
 
 <TagLinks />

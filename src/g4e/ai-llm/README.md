@@ -1,8 +1,11 @@
 ---
 lang: ko-KR
-title: Intro
-description: 🦙Llama
-category: 🦙Llama
+title: 🦙Llm
+description: 🦙Llm
+category: 
+  - 🦙Llm
+tag: 
+  - llm
 ---
 
 # {{ $frontmatter.description }} 관련

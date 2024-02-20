@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🗡Vim
 description: 🗡Vim
+categroy:
+  - 🗡Vim
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🗡Vim
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/cli-vim/" />
+
+---
+
+<TagLinks />

@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 👓Windows > 📚References
-tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"] 
+category:
+  - 👓Windows
+  - 📚References
+tag: 
+  - win
+  - Windows
+  - win10
+  - msc
+  - eventvwr.msc
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -56,5 +64,7 @@ tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"]
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217
 - https://www.gooper.com/ss/tnt_lang/4213
 - https://pgr21.co.kr/qna/27717?page=36&select_arrange=hit
+
+---
 
 <TagLinks />

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🐑Haskell
 description: 🐑Haskell
+category:
+  - 🐑Haskell
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🐑Haskell
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-haskell/" />
+
+---
+
+<TagLinks />

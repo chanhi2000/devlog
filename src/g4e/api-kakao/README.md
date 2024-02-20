@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🌱API - Kakao
 description: 🌱API - Kakao
+category:
+  - 🌱API - Kakao
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,9 +14,12 @@ description: 🌱API - Kakao
 
 <ShieldsGroup logos="kakao"/>
 
-
 ---
 
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/api-kakao/" />
+
+---
+
+<TagLinks />

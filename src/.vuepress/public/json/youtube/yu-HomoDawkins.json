@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/KlBXEQGrx99lGpfyBnu2eKtSm2TkO0tyh7VpXciE9kWl6Gvdeq2UxdzqYPRZo-AkUvkLvulm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yc8LV2CGt5M", "title": "044 - 비선형 방정식 풀기, Solving Nonlinear Equations, 수식의 계수 결정 coef" },
+    { "id": "cZ8Bx7NPpcg", "title": "075- Generalized Summation, MPIR/GMP on Windows, Green's Theorem Examples" },
+    { "id": "aqfCj_Pws7w", "title": "077- 적분, Integration" },
+    { "id": "6PcojUlfjg0", "title": "078- 소수와 정수의 소인수분해, Prime Numbers and Integer Factorization" },
+    { "id": "nPxjejav-nA", "title": "079- Rational Numbers, nCr, nPr, factorial!" },
     { "id": "r5O-RCKtABM", "title": "037- C++와 Python을 직접 비교해 보세요, 함수로 된 행렬, 선형 연립 방정식, cnm::variables, nan already defined" },
     { "id": "XJJQGA5uu0A", "title": "038-Matrix 28,  부정 선형 연립 방정식, 합성함수 완성, 수식 작성법" },
     { "id": "UkwRVyMliX4", "title": "041-Matrix 31, 선형 방정식 풀기, solve_eqn, Jacobian, Vector, 수식  대입, C++ Library Extensions" },

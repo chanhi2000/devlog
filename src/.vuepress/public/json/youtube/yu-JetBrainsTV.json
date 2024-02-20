@@ -2,8 +2,8 @@
   "channel": {
     "id": "JetBrainsTV",
     "name": "JetBrains",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPIvZ8aj8rN0Z_o_qzj1aJr5QKckXwvXuk6UQPZtg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/Dxs-3mannZFTz3_uYfaTZ0NZLJG1jnekpuzaLl7Ms5CoPjrirRyO9m3KPE561YdBHQqe4R0b1Fk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/CXjy9GFFhr02cuDbx2Me0muDPIjp7xbNxBAvYJNG97EWPeo7cbh3xUmhJQS9ecH3UECvS8UrvA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iwXjS04FuZpdVULzd3Ko0Ezkqr7iolMGetVHRC6YvgVLCe_uIikyux0IpFQKoW073CBSYD3fh8I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "-YYosWp77yM", "title": "Idiomatic Go Enums Explained, with GoLand" },

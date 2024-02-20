@@ -2,7 +2,27 @@
 lang: ko-KR
 title: 🧰Environment Setup
 description: 👓Windows > 🧰Environment Setup
-tags: ["bat", "pwsh", "win-run", "oh-my-pwsh", "chocolatey", "windows-terminal", "cmd", "powershell", "ps1", "scoop", "pacman", "jdk", "jdk7", "temurin", "temurin11", "docker", "neofetch"]
+category:
+  - 👓Windows
+  - 🧰Environment Setup
+tag: 
+  - bat
+  - pwsh
+  - win-run
+  - oh-my-pwsh
+  - chocolatey
+  - windows-terminal
+  - cmd
+  - powershell
+  - ps1
+  - scoop
+  - pacman
+  - jdk
+  - jdk7
+  - temurin
+  - temurin11
+  - docker
+  - neofetch
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -230,5 +250,7 @@ oh-my-posh --init --shell pwsh --config "$env:UserProfile\.oh-my-posh\schema.jso
 Import-Module Terminal-Icons
 neofetch
 ```
+
+---
 
 <TagLinks />

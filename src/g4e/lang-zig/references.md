@@ -2,8 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🏂Zig > 📚References
-category: 🏂Zig
-tags: ["references", "zig"]
+category: 
+  - 🏂Zig
+  - 📚References
+tag: 
+  - references
+  - zig
 ---
 
 # {{ $frontmatter.title }} 관련

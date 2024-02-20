@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 💻Scripts for the Desktop
 description: 🧙‍♂️Powershell > 💻Scripts for the Desktop
-tags: ["powershell", "windows", "script", "useful-script"]
+category:
+  - 🧙‍♂️Powershell
+  - 💻Scripts for the Desktop
+tag: 
+  - powershell
+  - pwsh
+  - windows
+  - script
+  - useful-script
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -15,12 +23,14 @@ tags: ["powershell", "windows", "script", "useful-script"]
 
 ## <FontIcon icon="iconfont icon-file"/>`close-calculator.ps1`
 
-```card
-title: close-calculator.ps1
-desc: Closes the calculator application.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-cortana.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-calculator.ps1",
+  "desc": "Closes the calculator application.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-cortana.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the calculator application gracefully.
@@ -69,12 +79,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-cortana.ps1`
 
-```card
-title: close-cortana.ps1
-desc: Closes Cortana.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-cortana.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-cortana.ps1",
+  "desc": "Closes Cortana.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-cortana.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes Microsoft's Cortana application gracefully.
@@ -123,12 +135,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-chrome.ps1`	
 
-```card
-title: close-chrome.ps1
-desc: Closes the Chrome browser.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-chrome.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-chrome.ps1",
+  "desc": "Closes the Chrome browser.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-chrome.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Google Chrome Web browser gracefully.
@@ -177,12 +191,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-program.ps1`
 
-```card
-title: close-program.ps1
-desc: Closes the given program gracefully.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-program.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-program.ps1",
+  "desc": "Closes the given program gracefully.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-program.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes a program's processes gracefully.
@@ -302,12 +318,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`close-edge.ps1`
 
-```card
-title: close-edge.ps1
-desc: Closes the Edge browser.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-edge.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-edge.ps1",
+  "desc": "Closes the Edge browser.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-edge.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Microsoft Edge Web browser gracefully.
@@ -361,12 +379,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-file-explorer.ps1`
 
-```card
-title: close-file-explorer.ps1
-desc: Closes Microsoft File Explorer.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-file-explorer.ps1",
+  "desc": "Closes Microsoft File Explorer.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/install-github-cli.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Microsoft File Explorer application gracefully.
@@ -417,12 +437,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-firefox.ps1`
 
-```card
-title: close-firefox.ps1
-desc: Closes the Firefox browser.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-firefox.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-firefox.ps1",
+  "desc": "Closes the Firefox browser.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-firefox.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Mozilla Firefox Web browser gracefully.
@@ -472,12 +494,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-microsoft-store.ps1`
 
-```card
-title: close-microsoft-store.ps1
-desc: Closes the Microsoft Store app.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-microsoft-store.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-microsoft-store.ps1",
+  "desc": "Closes the Microsoft Store app.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-microsoft-store.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Microsoft Store application gracefully.
@@ -531,12 +555,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-netflix.ps1`
 
-```card
-title: close-netflix.ps1
-desc: Closes the Netflix app.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-netflix.ps1",
+  "desc": "Closes the Netflix app.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Netflix application gracefully.
@@ -586,12 +612,14 @@ exit 0 # success
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`close-onedrive.ps1`
 
-```card
-title: close-onedrive.ps1
-desc: Closes Microsoft OneDrive.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-onedrive.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-onedrive.ps1",
+  "desc": "Closes Microsoft OneDrive.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-onedrive.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script closes Microsoft's OneDrive folder gracefully.
@@ -627,12 +655,14 @@ PS> ./close-onedrive
 
 ## <FontIcon icon="iconfont icon-file"/>`close-serenade.ps1`
 
-```card
-title: close-serenade.ps1
-desc: Closes the Serenade application.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-serenade.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-serenade.ps1",
+  "desc": "Closes the Serenade application.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-serenade.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Serenade.ai application gracefully.
@@ -682,12 +712,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-snipping-tool.ps1`
 
-```card
-title: close-snipping-tool.ps1
-desc: Closes the Snipping Tool application.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-snipping-tool.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-snipping-tool.ps1",
+  "desc": "Closes the Snipping Tool application.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-snipping-tool.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Snipping Tool application gracefully.
@@ -737,12 +769,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-spotify.ps1`
 
-```card
-title: close-spotify.ps1
-desc: Closes Spotify.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-spotify.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-spotify.ps1",
+  "desc": "Closes Spotify.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-spotify.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Spotify application gracefully.
@@ -792,12 +826,14 @@ exit 0 # success
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`close-system-settings.ps1`
 
-```card
-title: close-system-settings.ps1
-desc: Closes the System Settings window.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-system-settings.ps1",
+  "desc": "Closes the System Settings window.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script closes the System Settings window gracefully.
@@ -833,12 +869,14 @@ PS> ./close-system-settings
 
 ## <FontIcon icon="iconfont icon-file"/>`close-task-manager.ps1`
 
-```card
-title: close-task-manager.ps1
-desc: Closes the Task Manager. 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-task-manager.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-task-manager.ps1",
+  "desc": "Closes the Task Manager. ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-task-manager.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Task Manager application gracefully.
@@ -888,12 +926,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-thunderbird.ps1`
 
-```card
-title: close-thunderbird.ps1
-desc: Closes Mozilla Thunderbird. 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-thunderbird.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-thunderbird.ps1",
+  "desc": "Closes Mozilla Thunderbird. ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-thunderbird.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Mozilla Thunderbird email application gracefully.
@@ -947,12 +987,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-vlc.ps1`
 
-```card
-title: close-vlc.ps1
-desc: Closes the VLC media player application. 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-vlc.ps1",
+  "desc": "Closes the VLC media player application. ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the VLC media player application gracefully.
@@ -1003,12 +1045,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`close-windows-terminal.ps1`
 
-```card
-title: close-windows-terminal.ps1
-desc: Closes the Windows Terminal application. 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "close-windows-terminal.ps1",
+  "desc": "Closes the Windows Terminal application. ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script closes the Windows Terminal application gracefully.
@@ -1059,12 +1103,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`enable-god-mode.ps1`
 
-```card
-title: enable-god-mode.ps1
-desc: Enables the god mode (adds a new icon to the desktop). 
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "enable-god-mode.ps1",
+  "desc": "Enables the god mode (adds a new icon to the desktop). ",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script enables the god mode in Windows. It adds a new icon to the desktop.
@@ -1127,12 +1173,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`list-clipboard.ps1`
 
-```card
-title: list-clipboard.ps1
-desc: Lists the contents of the clipboard.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/list-clipboard.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "list-clipboard.ps1",
+  "desc": "Lists the contents of the clipboard.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/list-clipboard.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script lists the contents of the clipboard.
@@ -1189,12 +1237,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`new-email.ps1`
 
-```card
-title: new-email.ps1
-desc: Starts the default email client to write a new email.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/new-email.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "new-email.ps1",
+  "desc": "Starts the default email client to write a new email.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/new-email.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script opens the default email client to write a new email.
@@ -1263,12 +1313,14 @@ try {
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-amazon-website.ps1`
 
-```card
-title: open-amazon-website.ps1
-desc: Opens Amazon's website.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-amazon-website.ps1",
+  "desc": "Opens Amazon's website.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/close-netflix.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Web browser with the Amazon website.
@@ -1304,12 +1356,14 @@ PS> ./open-amazon-website
 
 ## <FontIcon icon="iconfont icon-file"/>`open-default-browser.ps1`
 
-```card
-title: open-default-browser.ps1
-desc: Launches the default Web browser.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-default-browser.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-default-browser.ps1",
+  "desc": "Launches the default Web browser.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-default-browser.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the default Web browser, optional with a given URL.
@@ -1377,12 +1431,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-calculator.ps1`
 
-```card
-title: open-calculator.ps1
-desc: Starts the calculator program.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-calculator.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-calculator.ps1",
+  "desc": "Starts the calculator program.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-calculator.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the calculator application.
@@ -1437,12 +1493,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-c-drive.ps1`
 
-```card
-title: open-c-drive.ps1
-desc: Opens the C drive folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-c-drive.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-c-drive.ps1",
+  "desc": "Opens the C drive folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-c-drive.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the File Explorer with the `C:` drive folder.
@@ -1493,12 +1551,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-downloads-folders.ps1`
 
-```card
-title: open-downloads-folders.ps1
-desc: Opens the user's downloads folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-downloads-folders.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-downloads-folders.ps1",
+  "desc": "Opens the user's downloads folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-downloads-folders.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the File Explorer showing the user's downloads folder.
@@ -1561,12 +1621,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-dropbox-folder.ps1`
 
-```card
-title: open-dropbox-folder.ps1
-desc: Opens the user's Dropbox folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-dropbox-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-dropbox-folder.ps1",
+  "desc": "Opens the user's Dropbox folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-dropbox-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the File Explorer with the user's Dropbox folder.
@@ -1626,12 +1688,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-edge.ps1`
 
-```card
-title: open-edge.ps1
-desc: Launches the Edge browser.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-edge.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-edge.ps1",
+  "desc": "Launches the Edge browser.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-edge.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Microsoft Edge Web browser.
@@ -1682,12 +1746,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-email-client.ps1`
 
-```card
-title: open-email-client.ps1
-desc: Starts the default email client.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-email-client.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-email-client.ps1",
+  "desc": "Starts the default email client.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-email-client.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the default email client.
@@ -1743,12 +1809,14 @@ try {
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-facebook-website.ps1`
 
-```card
-title: open-facebook-website.ps1
-desc: Opens Facebook's website.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-facebook-website.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-facebook-website.ps1",
+  "desc": "Opens Facebook's website.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-facebook-website.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Web browser with the Facebook website.
@@ -1786,12 +1854,14 @@ PS> ./open-facebook-website
 
 ## <FontIcon icon="iconfont icon-file"/>`open-file-explorer.ps1`	
 
-```card
-title: open-file-explorer.ps1
-desc: Opens the File Explorer.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-file-explorer.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-file-explorer.ps1",
+  "desc": "Opens the File Explorer.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-file-explorer.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 This PowerShell script launches the File Explorer.
 
@@ -1864,12 +1934,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-firefox.ps1`	
 
-```card
-title: open-firefox.ps1
-desc: Launches the Firefox browser.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-firefox.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-firefox.ps1",
+  "desc": "Launches the Firefox browser.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-firefox.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Mozilla Firefox Web browser.
@@ -1945,12 +2017,14 @@ try {
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-fritz-box.ps1`	
 
-```card
-title: open-fritz-box.ps1
-desc: Opens FRITZ!Box's web interface.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-fritz-box.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-fritz-box.ps1",
+  "desc": "Opens FRITZ!Box's web interface.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-fritz-box.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Web browser with FRITZ!Box's Web interface.
@@ -1986,12 +2060,14 @@ PS> ./open-fritz-box
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-github.ps1`	
 
-```card
-title: open-github.ps1
-desc: Opens GitHub's website.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-github.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-github.ps1",
+  "desc": "Opens GitHub's website.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-github.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Web browser with the GitHub website.
@@ -2027,12 +2103,14 @@ PS> ./open-github
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-contacts.ps1`	
 
-```card
-title: open-google-contacts.ps1
-desc: Opens Google Contacts.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-contacts.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-contacts.ps1",
+  "desc": "Opens Google Contacts.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-contacts.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google Contacts website.
@@ -2083,12 +2161,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-earth.ps1`	
 
-```card
-title: open-google-earth.ps1
-desc: Opens Google Earth.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-earth.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-earth.ps1",
+  "desc": "Opens Google Earth.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-earth.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google Earth website.
@@ -2140,12 +2220,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-mail.ps1`	
 
-```card
-title: open-google-mail.ps1
-desc: Opens Google Mail.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-mail.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-mail.ps1",
+  "desc": "Opens Google Mail.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-mail.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google Mail website.
@@ -2196,12 +2278,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-maps.ps1`	
 
-```card
-title: open-google-maps.ps1
-desc: Opens Google Maps.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-maps.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-maps.ps1",
+  "desc": "Opens Google Maps.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-maps.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google Maps website.
@@ -2252,12 +2336,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-news.ps1`	
 
-```card
-title: open-google-news.ps1
-desc: Opens Google News.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-news.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-news.ps1",
+  "desc": "Opens Google News.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-news.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google News website.
@@ -2308,12 +2394,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-play.ps1`
 
-```card
-title: open-google-play.ps1
-desc: Opens Google Play. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-play.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-play.ps1",
+  "desc": "Opens Google Play. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-play.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google Play website.
@@ -2363,12 +2451,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-search.ps1`
 
-```card
-title: open-google-search.ps1
-desc: Opens Google Search. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-search.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-search.ps1",
+  "desc": "Opens Google Search. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-search.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google Search website.
@@ -2418,12 +2508,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-google-translate.ps1`
 
-```card
-title: open-google-translate.ps1
-desc: Opens Google Translate. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-translate.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-google-translate.ps1",
+  "desc": "Opens Google Translate. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-google-translate.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script launches the Web browser with the Google Translate website.
@@ -2473,12 +2565,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-home-folder.ps1`
 
-```card
-title: open-home-folder.ps1
-desc: Opens the user's home folder. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-home-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-home-folder.ps1",
+  "desc": "Opens the user's home folder. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-home-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the File Explorer with the user's home folder.
@@ -2538,12 +2632,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-music-folder.ps1`
 
-```card
-title: open-music-folder.ps1
-desc: Opens the user's music folder. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-music-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-music-folder.ps1",
+  "desc": "Opens the user's music folder. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-music-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the File Explorer with the user's music folder.
@@ -2603,12 +2699,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-netflix.ps1`
 
-```card
-title: open-netflix.ps1
-desc: Starts the Netflix app. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-netflix.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-netflix.ps1",
+  "desc": "Starts the Netflix app. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-netflix.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Netflix application.
@@ -2658,12 +2756,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-microsoft-store.ps1`
 
-```card
-title: open-microsoft-store.ps1
-desc: Launches the Microsoft Store app. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-microsoft-store.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-microsoft-store.ps1",
+  "desc": "Launches the Microsoft Store app. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-microsoft-store.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Microsoft Store application.
@@ -2714,12 +2814,14 @@ exit 0 # success
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-notepad.ps1`
 
-```card
-title: open-notepad.ps1
-desc: Starts the Notepad app. Read more...
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-notepad.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)```
+```component VPCard
+{
+  "title": "open-notepad.ps1",
+  "desc": "Starts the Notepad app. Read more...",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-notepad.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)```"
+}
 ```
 
 This script launches the Notepad application.
@@ -2755,12 +2857,14 @@ PS> ./open-notepad
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-onedrive-folder.ps1`
 
-```card
-title: open-onedrive-folder.ps1
-desc: Opens the user's OneDrive folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-onedrive-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-onedrive-folder.ps1",
+  "desc": "Opens the user's OneDrive folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-onedrive-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches Microsoft OneDrive with the user's OneDrive folder.
@@ -2795,12 +2899,14 @@ PS> ./open-onedrive
 
 ## <FontIcon icon="iconfont icon-file"/>`open-pictures-folder.ps1`
 
-```card
-title: open-pictures-folder.ps1
-desc: Opens the user's pictures folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-pictures-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-pictures-folder.ps1",
+  "desc": "Opens the user's pictures folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-pictures-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the File Explorer with the user's pictures folder.
@@ -2860,12 +2966,14 @@ try {
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-recycle-bin.ps1`
 
-```card
-title: open-recycle-bin.ps1
-desc: Opens the user's recycle bin folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-recycle-bin.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-recycle-bin.ps1",
+  "desc": "Opens the user's recycle bin folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-recycle-bin.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the File Explorer with the user's recycle bin folder.
@@ -2900,12 +3008,14 @@ PS> ./open-recycle-bin
 
 ## <FontIcon icon="iconfont icon-file"/>`open-repos-folder.ps1`
 
-```card
-title: open-repos-folder.ps1
-desc: Opens the user's Git repositories folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-repos-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-repos-folder.ps1",
+  "desc": "Opens the user's Git repositories folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-repos-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the File Explorer with the user's Git repositories folder.
@@ -2965,12 +3075,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-snipping-tool.ps1`
 
-```card
-title: open-snipping-tool.ps1
-desc: Starts the Snipping Tool.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-snipping-tool.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-snipping-tool.ps1",
+  "desc": "Starts the Snipping Tool.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-snipping-tool.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Snipping Tool application.
@@ -3021,12 +3133,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-speed-test.ps1`
 
-```card
-title: open-speed-test.ps1
-desc: Opens Cloudflare's speed test.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-speed-test.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-speed-test.ps1",
+  "desc": "Opens Cloudflare's speed test.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-speed-test.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Web browser with Cloudflare's speed test website.
@@ -3077,12 +3191,14 @@ exit 0 # success
 
 ## <FontIcon icon="iconfont icon-file"/>`open-spotify.ps1`
 
-```card
-title: open-spotify.ps1
-desc: Opens Spotify.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-spotify.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-spotify.ps1",
+  "desc": "Opens Spotify.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-spotify.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Spotify application.
@@ -3131,12 +3247,14 @@ exit 0 # success
 ---
 ## ❌<FontIcon icon="iconfont icon-file"/> `open-system-settings.ps1`
 
-```card
-title: open-system-settings.ps1
-desc: Opens the system settings of Windows.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-system-settings.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-system-settings.ps1",
+  "desc": "Opens the system settings of Windows.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-system-settings.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Windows system settings application.
@@ -3173,12 +3291,14 @@ PS> ./open-system-settings
 
 ## <FontIcon icon="iconfont icon-file"/>`open-task-manager.ps1`
 
-```card
-title: open-task-manager.ps1
-desc: Starts the Task Manager.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-task-manager.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-task-manager.ps1",
+  "desc": "Starts the Task Manager.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-task-manager.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Windows Task Manager application.
@@ -3233,12 +3353,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`open-videos-folder.ps1`
 
-```card
-title: open-videos-folder.ps1
-desc: Opens the user's videos folder.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-videos-folder.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-videos-folder.ps1",
+  "desc": "Opens the user's videos folder.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-videos-folder.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Windows Terminal application.
@@ -3288,12 +3410,14 @@ exit 0 # success
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-windows-terminal.ps1`
 
-```card
-title: open-windows-terminal.ps1
-desc: Launches Windows Terminal.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-windows-terminal.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-windows-terminal.ps1",
+  "desc": "Launches Windows Terminal.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-windows-terminal.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 ## open-wikipedia-website.ps1 - Opens the Wikipedia website
@@ -3330,12 +3454,14 @@ PS> ./open-wikipedia-website.ps1
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-wikipedia-website.ps1`
 
-```card
-title: open-wikipedia-website.ps1
-desc: Opens Wikipedia's website.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-wikipedia-website.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-wikipedia-website.ps1",
+  "desc": "Opens Wikipedia's website.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-wikipedia-website.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This script launches the Web browser with the YouTube website.
@@ -3370,12 +3496,14 @@ PS> ./open-youtube-website
 
 ## ❌<FontIcon icon="iconfont icon-file"/>`open-youtube-website.ps1`
 
-```card
-title: open-youtube-website.ps1
-desc: Opens YouTube's website.
-link: https://github.com/fleschutz/PowerShell/blob/master/Docs/open-youtube-website.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "open-youtube-website.ps1",
+  "desc": "Opens YouTube's website.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/open-youtube-website.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 @tab Script Content
@@ -3389,12 +3517,14 @@ color: rgba(10, 10, 10, 0.2)
 
 ## `remind-me.ps1`
 
-```card
-title: remind-me.ps1
-desc: Creates a scheduled task that will display a popup message.
-link: https://github.com/fleschutz/PowerShell/blob/master/remind-me.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "remind-me.ps1",
+  "desc": "Creates a scheduled task that will display a popup message.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/remind-me.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script creates a scheduled task that will display a popup message.
@@ -3479,12 +3609,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`save-screenshot.ps1`
 
-```card
-title: save-screenshot.ps1
-desc: Saves a single screenshot.
-link: https://github.com/fleschutz/PowerShell/master/Docs/save-screenshot.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "save-screenshot.ps1",
+  "desc": "Saves a single screenshot.",
+  "link": "https://github.com/fleschutz/PowerShell/master/Docs/save-screenshot.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script takes a single screenshot and saves it into a target folder (default is the user's screenshots folder).
@@ -3584,12 +3716,14 @@ try {
 
 ## <FontIcon icon="iconfont icon-file"/>`set-wallpaper.ps1`
 
-```card
-title: set-wallpaper.ps1
-desc: Sets the given image as wallpaper.
-link: https://github.com/fleschutz/PowerShell/blob/master/set-wallpaper.md
-logo: https://avatars.githubusercontent.com/u/16557787?v=4
-color: rgba(10, 10, 10, 0.2)
+```component VPCard
+{
+  "title": "set-wallpaper.ps1",
+  "desc": "Sets the given image as wallpaper.",
+  "link": "https://github.com/fleschutz/PowerShell/blob/master/set-wallpaper.md",
+  "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
 ```
 
 This PowerShell script sets the given image file as desktop wallpaper (.JPG or .PNG supported)

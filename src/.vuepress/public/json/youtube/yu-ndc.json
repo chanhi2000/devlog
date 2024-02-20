@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/hLl3Q5IQTzj0XvRcZzHns9Yp6ZYs3eFjtXFdvqKRt0eKW_64CJ4FN40YaBPUiJUXpMDuJ7jVWtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IZyXOYNXbPk", "title": "PAR: Securing the OAuth and OpenID Connect Front-Channel - Dominick Baier - NDC Security 2024" },
+    { "id": "gN5-e9_EK0I", "title": "Software Development in Challenging Times - Richard Campbell - NDC Porto 2023" },
+    { "id": "5BnXCbVYGKg", "title": "Commercializing Open Source - Victoria Melnikova - NDC Porto 2023" },
+    { "id": "zuAw2FEd5lI", "title": "React Server Components: A New Way to Build Fast and Interactive Web Apps - Aurora Lid Walberg" },
+    { "id": "u8wupOxY_T8", "title": "Connect remotely like a pro! Hack VPNs, avoid firewalls, connect even when your machine is down" },
+    { "id": "_UN50hNZlx4", "title": "Autonomous microservices don't share data. Period. - Dennis van der Stelt - NDC Porto 2023" },
     { "id": "IsU8JVbV6Qw", "title": "User testing in production: how to run a public beta - Eli Holderness - NDC Porto 2023" },
     { "id": "_Mb0gQmTtB8", "title": "My Worst Code Was My Best Code - Liam Westley - NDC Porto 2023" },
     { "id": "HRWI1LULNsM", "title": "Performance tricks I learned from contributing to the Azure .NET SDK - Daniel Marbach - NDC Porto" },

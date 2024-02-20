@@ -1,8 +1,13 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧶Node.js
 description: 🧶Node.js
-tags: ["js" , "node" , "nodejs"]
+category:
+  - 🧶Node.js 
+tag: 
+  - js
+  - node
+  - nodejs
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +23,7 @@ tags: ["js" , "node" , "nodejs"]
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-js-node/" />
+
+---
+
+<TagLinks />

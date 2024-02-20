@@ -2,7 +2,17 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🕶️Github > 📺Youtube
-tags: ["youtube", "tutorial", "github", "github-action", "study", "@Github"]
+category:
+  - 🕶️Github 
+  - 📺Youtube
+tag: 
+  - youtube
+  - tutorial
+  - git
+  - github
+  - github-action
+  - study
+  - "@Github"
 ---
 
 # {{ $frontmatter.title }} 관련

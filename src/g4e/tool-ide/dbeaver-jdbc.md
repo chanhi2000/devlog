@@ -1,8 +1,19 @@
 ---
 lang: ko-KR
-title: DBeaver > JDBC 
+title: JDBC 
 description: DBeaver > JDBC
-tags: ["dbeaver", "dbeaver-ce", "ide", "jdbc", "db-tibero", "db-cubrid", "cubrid", "tibero"]
+category: 
+  - DBeaver
+  - JDBC
+tag:
+  - dbeaver
+  - dbeaver-ce
+  - ide
+  - jdbc
+  - db-tibero
+  - db-cubrid
+  - cubrid
+  - tibero
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -12,6 +23,7 @@ tags: ["dbeaver", "dbeaver-ce", "ide", "jdbc", "db-tibero", "db-cubrid", "cubrid
 [[toc]]
 
 ---
+
 ## JDBC Properties 구성
 
 ### Tibero 

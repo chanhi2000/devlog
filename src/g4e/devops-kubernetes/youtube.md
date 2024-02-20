@@ -2,7 +2,34 @@
 lang: ko-KR
 title: 📺Youtube
 description: ☸️Kubernetes > 📺Youtube
-tags: ["youtube", "tutorial", "win", "Windows", "win10", "msc", "eventvwr.msc", "@DevOpsToolkit", "@TechWorldwithNana", "@HoussemDellai", "@danieloh30", "@networknutsdotnet", "@cbtnuggets", "@vBrownBag", "@ByteByteGo", "@AbhishekVeeramalla", "@eddiejaoude", "@kubucation", "@devopskorea4426", "@alexandrugutan7587", "@MichaelCade1", "@AntonPutra", "@itrun", "@kubetm8737"] 
+category:
+  - ☸️Kubernetes
+  - 📺Youtube
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "win"
+  - "Windows"
+  - "win10"
+  - "msc"
+  - "eventvwr.msc"
+  - "@DevOpsToolkit"
+  - "@TechWorldwithNana"
+  - "@HoussemDellai"
+  - "@danieloh30"
+  - "@networknutsdotnet"
+  - "@cbtnuggets"
+  - "@vBrownBag"
+  - "@ByteByteGo"
+  - "@AbhishekVeeramalla"
+  - "@eddiejaoude"
+  - "@kubucation"
+  - "@devopskorea4426"
+  - "@alexandrugutan7587"
+  - "@MichaelCade1"
+  - "@AntonPutra"
+  - "@itrun"
+  - "@kubetm8737"
 ---
 
 # {{ $frontmatter.title }} 관련

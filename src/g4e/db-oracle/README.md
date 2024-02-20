@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🙆‍♂️Oracle SQL
 description: 🙆‍♂️Oracle SQL
+category:
+  - 🙆‍♂️Oracle SQL
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🙆‍♂️Oracle SQL
 :::
 
 <ShieldsGroup logos="oracle"/>
+
+---
+
+<TagLinks />

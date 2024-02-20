@@ -2,7 +2,12 @@
 lang: ko-KR
 title: ✈️Travel
 description: 🧭Lifeguide > ✈️Travel
-tags: ["travel", "lifeguide"]
+category:
+  - 🧭Lifeguide
+  - ✈️Travel
+tag: 
+  - travel
+  - lifeguide
 ---
 
 # {{ $frontmatter.description }} 관련

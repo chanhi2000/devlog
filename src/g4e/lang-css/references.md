@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 📚References
 description: 🎨CSS > 📚References
-tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
+category:
+  - 🎨CSS
+  - 📚References
+tag: 
+  - css
+  - scss
+  - sass
+  - oruga
+  - css-animation
+  - dark-mode
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -10,7 +19,6 @@ tags: ["css", "scss", "sass", "oruga", "css-animation", "dark-mode"]
 > {{ $frontmatter.description }}
 
 [[toc]]
-
 
 ---
 

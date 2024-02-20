@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 👓Windows
 description: 👓Windows
+category:
+  - 👓Windows
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 👓Windows
 :::
 
 <ShieldsGroup logos="windows,windowsterminal,chocolatey"/>
+
+---
+
+<TagLinks />

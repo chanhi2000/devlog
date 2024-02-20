@@ -1,8 +1,16 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🌲Vue.js
 description: 🌲Vue.js
-tags: ["js" , "node" , "nodejs", "vue", "vuejs", "vuetify"]
+category:
+  - 🌲Vue.js
+tag: 
+  - js
+  - node
+  - nodejs
+  - vue
+  - vuejs
+  - vuetify
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +26,7 @@ tags: ["js" , "node" , "nodejs", "vue", "vuejs", "vuetify"]
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-js-vue/" />
+
+---
+
+<TagLinks />

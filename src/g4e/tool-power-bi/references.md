@@ -2,8 +2,10 @@
 lang: ko-KR
 title: 📚References
 description: 📊Power BI > 📚References
-category: 📊Power BI
-tags: 
+category: 
+  - 📊Power BI
+  - 📚References
+tag: 
   - education
   - powerbi
   - bi

@@ -2,7 +2,30 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🦕C > 📺Youtube
-tags: ["youtube", "tutorial", "education", "c", "cpp", "c++", "youtube", "programming", "@nullnull_not_eq_null", "@HanbitMedia93", "@TheCherno", "@TsodingDaily", "@voxelrifts", "@ChiliTomatoNoodle", "@ThinMatrix", "@HongLab", "@cppweekly", "@PaulProgramming", "@ICBANQ", "@cpponsea2834"]
+category:
+  - 🦕C
+  - 📺Youtube
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "education"
+  - "c"
+  - "cpp"
+  - "c++"
+  - "youtube"
+  - "programming"
+  - "@nullnull_not_eq_null"
+  - "@HanbitMedia93"
+  - "@TheCherno"
+  - "@TsodingDaily"
+  - "@voxelrifts"
+  - "@ChiliTomatoNoodle"
+  - "@ThinMatrix"
+  - "@HongLab"
+  - "@cppweekly"
+  - "@PaulProgramming"
+  - "@ICBANQ"
+  - "@cpponsea2834"
 ---
 
 # {{ $frontmatter.title }} 관련

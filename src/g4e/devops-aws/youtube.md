@@ -2,7 +2,23 @@
 lang: ko-KR
 title: 📺Youtube
 description: 📦AWS > 📺Youtube
-tags: ["youtube", "tutorial", "aws", "amazon", "amazon-web-service", "@CloudLearning", "@GoCloudArchitects", "@VercelHQ", "@cloudwithraj", "@be9952", "@seefromfar143", "@TechwithLucy", "@AWSClassroom"]
+category:
+  - 📦AWS
+  - 📺Youtube
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "aws"
+  - "amazon"
+  - "amazon-web-service"
+  - "@CloudLearning"
+  - "@GoCloudArchitects"
+  - "@VercelHQ"
+  - "@cloudwithraj"
+  - "@be9952"
+  - "@seefromfar143"
+  - "@TechwithLucy"
+  - "@AWSClassroom"
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -40,6 +56,6 @@ tags: ["youtube", "tutorial", "aws", "amazon", "amazon-web-service", "@CloudLear
 <MyYouTubeItems jsonName="yu-kodedge" /><!-- kodEdge -->
 <MyYouTubeItems jsonName="yu-ttabae-learn4274" /><!-- TTABAE-LEARN -->
 <MyYouTubeItems jsonName="yu-BeABetterDev" /><!-- Be A Better Dev -->
-
+<MyYouTubeItems jsonName="yu-Bitovi" /><!-- Bitovi -->
 
 <TagLinks />

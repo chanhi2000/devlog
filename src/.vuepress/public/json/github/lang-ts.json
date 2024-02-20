@@ -1450,9 +1450,9 @@
     "topics": ["ledger", "ledger-cli", "personal-finance", "plaintext-accounting", "visualization"]
   }, {
     "repo": "lobehub/lobe-chat",
-    "desc": "🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.",
+    "desc": "🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.",
     "officialSite": "https://chat-preview.lobehub.com",
-    "topics": ["agent", "ai", "azure-openai", "chat", "chatbot", "chatgpt", "dalle-3", "function-calling", "gpt", "gpt-4", "gpt-4-vision", "langchangjs", "lobe-chat", "lobehub", "nextjs", "openai", "stt", "tts"]
+    "topics": ["ai", "azure-openai", "chat", "chatglm", "chatgpt", "claude", "dalle-3", "function-calling", "gemini", "gpt", "gpt-4", "gpt-4-vision", "llama2", "nextjs", "openai", "tts"]
   }, {
     "repo": "bitwarden/clients",
     "desc": "Bitwarden client applications (web, browser extension, desktop, and cli)",
@@ -2273,5 +2273,10 @@
     "desc": "AI generated UI components",
     "officialSite": "",
     "topics": ["ai", "generative", "javascript", "react", "tailwind", "typescript", "ui"]
+  }, {
+    "repo": "ChatGPTNextWeb/ChatGPT-Next-Web",
+    "desc": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+    "officialSite": "https://app.nextchat.dev/",
+    "topics": ["chatgpt", "cross-platform", "desktop", "fe", "gemini", "gemini-pro", "gemini-server", "gemini-ultra", "nextjs", "react", "tauri", "tauri-app", "vercel", "webui"]
   }
 ]

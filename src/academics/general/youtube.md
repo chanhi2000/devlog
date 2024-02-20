@@ -3,7 +3,9 @@ lang: ko-KR
 title: 📺Youtube
 description: 🧮General > 📺Youtube
 category: Mathematics & Science
-tags: ["youtube", "tutorial"]
+tag: 
+ - youtube
+ - tutorial
 ---
 
 # {{ $frontmatter.title }} 관련

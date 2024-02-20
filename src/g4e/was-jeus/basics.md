@@ -2,7 +2,10 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🦖JEUS > 🐣Basics
-tags: 
+category:
+  - 🦖JEUS
+  - 🐣Basics
+tag: 
   - java
   - jdk
   - jdk7

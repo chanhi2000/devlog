@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: ♯CSharp
 description: ♯CSharp
+category:
+  - ♯CSharp
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: ♯CSharp
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-csharp/" />
+
+---
+
+<TagLinks />

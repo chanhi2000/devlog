@@ -2,7 +2,23 @@
 lang: ko-KR
 title: List
 description: List > Devlogs
-tags: ["devlog", "notion", "nhn", "naver", "naver-d2", "woowahan", "toast", "medium", "dev-to", "velog", "aws", "git-flow", "chrome-extensions"]
+category: 
+  - List
+  - Devlogs
+tag: 
+  - devlog
+  - notion
+  - nhn
+  - naver
+  - naver-d2
+  - woowahan
+  - toast
+  - medium
+  - dev-to
+  - velog
+  - aws
+  - git-flow
+  - chrome-extensions
 ---
 
 # {{ $frontmatter.title }} 관련

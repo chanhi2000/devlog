@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🐦Maven
 description: 🐦Maven
+category:
+  - 🐦Maven
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🐦Maven
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-maven/" />
+
+---
+
+<TagLinks />

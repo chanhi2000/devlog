@@ -1,8 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🔻Ruby
 description: 🔻Ruby
-category: 🔻Ruby
+category: 
+  - 🔻Ruby
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +19,7 @@ category: 🔻Ruby
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-ruby/" />
+
+---
+
+<TagLinks />

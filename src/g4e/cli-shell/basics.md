@@ -2,7 +2,17 @@
 lang: ko-KR
 title: 🐣Basics
 description: 🐚Shell > 🐣Basics
-tags: ["bash", "linux", "macos", "terminal", "alias", "tail", "multiline"]
+category:
+  - 🐚Shell
+  - 🐣Basics
+tag: 
+  - bash
+  - linux
+  - macos
+  - terminal
+  - alias
+  - tail
+  - multiline
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -397,7 +407,7 @@ echo $?
 
 `\` 을 붙여 커맨드 입력
 
-```shell
+```sh
 wsdl2java.sh -u -t -ss -sd -g -b \
     -o ./BmsSifDctToProcessMobService \
     -uri http://onnara.saas.gcloud.go.kr/bms/service/BmsSifDctToProcessMobService?wsdl
@@ -409,7 +419,7 @@ wsdl2java.sh -u -t -ss -sd -g -b \
 
 ### Basics
 
-```shell
+```sh
 alias ls='ls -l'
 ```
 
@@ -486,21 +496,23 @@ check_running() {
 
 커멘드 뒤에 `&` 추가
 
-```shell
+```sh
 tail -f /var/log/messages &
 ```
 
 결과창에 `[1] 614`이 나온다면
 
-```shell
+```sh
 fg 1
 ```
 
 를 입력하여 다시 foreground로 복귀
 
+---
+
 ## Quickly jump to frequently-used directories
 
-```shell
+```sh
 CDPATH=’.:~:/usr/local/apache/htdocs:/disk1/backups’
 export CDPATH
 ```
@@ -513,7 +525,7 @@ export CDPATH
 
 숫자계산
 
-```shell
+```sh
 echo $((16/2))
 ```
 

@@ -21,7 +21,7 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: chanhi2000/chanhi2000.github.io
           TARGET_BRANCH: master
-          BUILD_SCRIPT: yarn && yarn build
+          BUILD_SCRIPT: npm i && npm run build
           BUILD_DIR: src/.vuepress/dist
           CNAME: https://chanhi2000.github.io
 

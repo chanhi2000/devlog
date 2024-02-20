@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 📦AWS
 description: 📦AWS
+category:
+  - 📦AWS
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 📦AWS
 :::
 
 <ShieldsGroup logos="amazon,amazonaws,amazonec2,amazonecs,amazoneks,amazons3"/>
+
+---
+
+<TagLinks />

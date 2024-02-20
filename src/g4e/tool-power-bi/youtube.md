@@ -2,8 +2,10 @@
 lang: ko-KR
 title: 📺Youtube
 description: 📊Power BI > 📺Youtube
-category: 📊Power BI
-tags: 
+category: 
+  - 📊Power BI
+  - 📺Youtube
+tag: 
   - youtube
   - powerbi
   - bi

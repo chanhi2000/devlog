@@ -2,8 +2,8 @@
   "channel": {
     "id": "amazonwebservices",
     "name": "Amazon Web Services",
-    "profile": "https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/8N9bQTfKmrLk-qA5dhchMDP_Cpe9uj-2dYZBo-v5PVLLYf3_zJmJnz6aT_XNxQ_rsbKMAmNleg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wfQPcqMxaXw8naC1XnsyKlTRZFJMuMT5GxdFaS2OX7Sgu5q_HHm-JSgMVoVvuC8WViQ5oJoYqns=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "QqqZgmVsxlM", "title": "Neptune Database and Neptune Analytics: Which one is for me? | Amazon Web Services" },

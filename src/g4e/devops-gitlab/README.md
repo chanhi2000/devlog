@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦊Gitlab
 description: 🦊Gitlab
+category:
+  - 🦊Gitlab
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,7 @@ description: 🦊Gitlab
 :::
 
 <ShieldsGroup logos="git,gitlfs,gitignoredotio,gitlab"/>
+
+---
+
+<TagLinks />

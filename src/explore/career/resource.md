@@ -2,7 +2,19 @@
 lang: ko-KR
 title: Resource
 description: Career > Resource
-tags: ["career", "hiring", "resource", "salary", "interview", "computer-science", "면접", "questions", "tech"]
+category: 
+  - Career
+  - Resource
+tag: 
+  - career
+  - hiring
+  - resource
+  - salary
+  - interview
+  - computer-science
+  - 면접
+  - questions
+  - tech
 ---
 
 # {{ $frontmatter.title }} 관련

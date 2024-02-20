@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧮General
 description: 🧮General
 ---
 
@@ -11,3 +11,5 @@ description: 🧮General
 :::
 
 ---
+
+<TagLinks />

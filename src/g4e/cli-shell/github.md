@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🐚Shell > 🕶️Github
-tags: ["bash", "linux", "macos", "terminal", "alias", "sh"]
+category:
+  - 🐚Shell
+  - 🕶️Github
+tag: 
+  - bash
+  - linux
+  - macos
+  - terminal
+  - alias
+  - sh
 ---
 
 # {{ $frontmatter.title }} 관련

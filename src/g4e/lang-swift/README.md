@@ -1,8 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🕊️Swift
 description: 🕊️Swift
-category: 🕊️Swift
+category: 
+  - 🕊️Swift
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +19,7 @@ category: 🕊️Swift
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-swift/" />
+
+---
+
+<TagLinks />

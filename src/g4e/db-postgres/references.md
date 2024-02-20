@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 📚References
 description: 🦏PostgreSQL > 📚References
-tags: ["sql", "db", "postgres"]
+category:
+  - 🦏PostgreSQL 
+  - 📚References
+tag: 
+  - sql
+  - db
+  - postgres
 ---
 
 # {{ $frontmatter.title }} 관련

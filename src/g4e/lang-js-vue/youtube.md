@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🌲Vue.js > 📺Youtube
-tags: ["js" , "node" , "nodejs", "vue", "vuejs"]
+category:
+  - 🌲Vue.js
+  - 📺Youtube
+tag: 
+  - js
+  - node
+  - nodejs
+  - vue
+  - vuejs
+  - youtube
 meta:
   - name: 🌲Vue.js > 📺Youtube
     content: Javascript Libraries from Github

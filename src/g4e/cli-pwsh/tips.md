@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 💡Tips
 description: 🧙‍♂️Powershell > 💡Tips
-tags: ["powershell", "pwsh", "ps1", "windows-terminal"]
+category:
+  - 🧙‍♂️Powershell
+  - 💡Tips
+tag: 
+  - powershell
+  - pwsh
+  - ps1
+  - windows-terminal
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -171,3 +178,7 @@ format-table -autosize
 $Failures = gwmi -Class Win32_ReliabilityRecords;
 $Failures | ? message -match 'failure'  | Select -ExpandProperty message 
 ```
+
+---
+
+<TagLinks />

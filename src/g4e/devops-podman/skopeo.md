@@ -1,8 +1,21 @@
 ---
 lang: ko-KR
 title: 🔭Skopeo 
-description: 🐋Docker > 🔭Skopeo 
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
+description: 🍄Podman > 🔭Skopeo 
+category:
+  - 🍄Podman
+  - 🔭Skopeo
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - yml
+  - yaml
+  - docker-container
+  - vm
+  - docker-compose
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -13,3 +26,4 @@ tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-c
 
 ---
 
+<TagLinks />

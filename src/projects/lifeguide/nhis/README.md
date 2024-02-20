@@ -2,7 +2,12 @@
 lang: ko-KR
 title: ❤NHIS
 description: 🧭Lifeguide > ❤NHIS
-tags: ["nhis", "lifeguide"]
+category:
+  - 🧭Lifeguide
+  - ❤NHIS
+tag: 
+  - nhis
+  - lifeguide
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,3 +17,5 @@ tags: ["nhis", "lifeguide"]
 :::
 
 ---
+
+<TagLinks />

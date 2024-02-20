@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🥋Regex
 description: 🥋Regex
+category:
+  - 🥋Regex
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -10,3 +12,6 @@ description: 🥋Regex
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
+---
+
+<TagLinks />

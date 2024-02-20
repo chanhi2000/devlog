@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🤠Django > 📺Youtube
-tags: ["youtube", "tutorial", "django"]
+category:
+  - 🤠Django
+  - 📺Youtube
+tag: 
+  - youtube
+  - tutorial
+  - django
 ---
 
 # {{ $frontmatter.title }} 관련

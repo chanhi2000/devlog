@@ -2,7 +2,21 @@
 lang: ko-KR
 title: 📺Youtube
 description: 👽oVirt > 📺Youtube
-tags: ["youtube", "tutorial", "bash", "sh", "ovirt", "vm", "@MindDripMedia", "@Storware"]
+category:
+  - 👽oVirt
+  - 📺Youtube
+tag:
+  - "youtube"
+  - "tutorial"
+  - "bash"
+  - "sh"
+  - "ovirt"
+  - "vm"
+  - "@MindDripMedia"
+  - "@Storware"
+  - "@theg"
+  - "@openvirtualizationprofessi5323"
+  - "@JasonBrooks0"
 ---
 
 # {{ $frontmatter.title }} 관련

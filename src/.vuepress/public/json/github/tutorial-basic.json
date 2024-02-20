@@ -66,9 +66,9 @@
     "topics": ["python", "mathematics", "programmer"]
   }, {
     "repo": "krahets/hello-algo",
-    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。", 
+    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
     "officialSite": "https://hello-algo.com",
-    "topics": ["algorithm", "data-structure", "algorithms", "leetcode", "algo", "data-structures", "dsa", "mkdocs-material", "data-structures-and-algorithms"]
+    "topics": ["algo", "algorithm", "algorithms", "book", "data-structure", "data-structures", "data-structures-and-algorithms", "dsa", "education", "leetcode", "programming"]
   }, {
     "repo": "pr0gr4m/Newbie-Guideline",
     "desc": "컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서", 

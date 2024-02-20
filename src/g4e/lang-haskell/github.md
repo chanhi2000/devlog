@@ -2,16 +2,23 @@
 lang: ko-KR
 title: 🕶️Github
 description:  🐑Haskell > 🕶️Github
-tags: ["git" , "github" , "haskell"]
-meta:
-  - name: 🕶️Github
-    content: 🐑Haskell > 🕶️Github
-  - property: og:title
-    content: 🕶️Github
-  - property: og:description
-    content: 🐑Haskell > 🕶️Github
-  - property: og:url
-    content: https://chanhi2000.github.io/g4e/lang-haskell/github.html
+category: 
+  - 🐑Haskell
+  - 🕶️Github
+tag: 
+  - git
+  - github
+  - haskell
+head:
+  - - meta:
+    - property: og:title
+      content: 🐑Haskell > 🕶️Github
+    - property: og:description
+      content: 🐑Haskell > 🕶️Github
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-haskell/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

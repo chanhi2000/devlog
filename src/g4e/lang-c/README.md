@@ -1,8 +1,13 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦕C
 description: 🦕C
-tags: ["c"]
+category: 
+  - 🦕C
+tag: 
+  - c
+  - cpp
+  - c++
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +23,7 @@ tags: ["c"]
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-c/" />
+
+---
+
+<TagLinks />

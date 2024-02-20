@@ -2,7 +2,16 @@
 lang: ko-KR
 title: SPM-GL-01
 description: 🧜‍♀️Mermaid.js > SPM-GL-01
-tags: ["js", "javascript", "mermaid", "mermaidjs", "mermaid-js", "example"]
+category:
+  - 🧜‍♀️Mermaid.js
+  - SPM-GL-01
+tag: 
+  - js
+  - node
+  - nodejs
+  - mermaid
+  - mermaidjs
+  - example
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -89,6 +98,8 @@ sequenceDiagram
   A->>B: 산출물제출
   B->>A: 산출물 QC승인
   A->>C: 기능개선 내역공유
-  
-
 ```
+
+---
+
+<TagLinks />

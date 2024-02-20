@@ -974,5 +974,10 @@
     "desc": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
     "officialSite": "",
     "topics": ["ngrok", "ngrok-alternative", "self-hosted", "ssh", "tunnel-proxy", "tunneling"]
+  }, {
+    "repo": "chartjs/awesome",
+    "desc": "A curated list of awesome Chart.js resources and libraries",
+    "officialSite": "",
+    "topics": ["awesome", "chartjs", "charts", "integrations", "plugins", "resources"]
   }
 ]

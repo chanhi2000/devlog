@@ -2,7 +2,21 @@
 lang: ko-KR
 title: 📺Youtube 
 description: 🦊Gitlab > 📺Youtube 
-tags: ["youtube", "tutorial", "gitlab", "gitlab-cli", "sh", "yml", "@GitLabUnfiltered", "@Gitlab", "@raaviblog105", "@seefromfar143"]
+category:
+  - 🦊Gitlab
+  - 📺Youtube 
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "git"
+  - "gitlab"
+  - "gitlab-cli"
+  - "sh"
+  - "yml"
+  - "@GitLabUnfiltered"
+  - "@Gitlab"
+  - "@raaviblog105"
+  - "@seefromfar143"
 ---
 
 # {{ $frontmatter.title }} 관련

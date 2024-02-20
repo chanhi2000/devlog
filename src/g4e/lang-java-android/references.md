@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 📚References
 description: 🤖Android > 📚References
-tags: ["references", "android"]
+category:
+  - 🤖Android 
+  - 📚References
+tag: 
+  - references
+  - android
 ---
 
 # {{ $frontmatter.title }} 관련

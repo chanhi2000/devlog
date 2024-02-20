@@ -2,7 +2,27 @@
 lang: ko-KR
 title: 🧰Environment Setup
 description: 🖥️macOS > 🧰Environment Setup
-tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "homebrew", "pacman", "starship", "dracula", "dracula-theme", "draculatheme", "jdk", "jdk11", "temurin", "temurin11", "docker", "neofetch"]
+category:
+  - 🖥️macOS
+  - 🧰Environment Setup
+tag: 
+  - sh
+  - bash
+  - zsh
+  - oh-my-zsh
+  - ohmyzsh
+  - homebrew
+  - pacman
+  - starship
+  - dracula
+  - dracula-theme
+  - draculatheme
+  - jdk
+  - jdk11
+  - temurin
+  - temurin11
+  - docker
+  - neofetch
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -23,7 +43,7 @@ tags: ["sh", "bash", "zsh", "oh-my-zsh", "ohmyzsh", "homebrew", "pacman", "stars
 
 Copy and Paste the following to the Terminal Prompt
 
-```shell
+```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
@@ -31,7 +51,7 @@ Copy and Paste the following to the Terminal Prompt
 
 Copy and Paste the following to the Terminal Prompt
 
-```shell
+```sh
 # Install taps
 brew tap homebrew/cask-versions;
 brew tap homebrew/cask-fonts;
@@ -76,7 +96,7 @@ Install the following(s)
 
 ### B3. Use `mas` to install
 
-```shell
+```sh
 # 497799835: XCode
 # 1604176982: One Thing
 # 885120167: Particulars
@@ -104,7 +124,7 @@ mas install 497799835 \
 
 Copy and Paste the following to the Terminal Prompt
 
-```shell
+```sh
 # Install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)";
 ## zsh-autosuggestion plugin
@@ -121,7 +141,7 @@ mkdir -p ~/.config && touch ~/.config/starship.toml;
 
 #### C3-i. `~/.zshrc`
 
-```shell
+```sh
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/nvm:$PATH
 
@@ -275,7 +295,7 @@ discharging_symbol = "💦"
 
 ### Configure
 
-```shell
+```sh
 ### Disable Animation ###
 ## Disable animations when opening and closing windows.
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false;
@@ -343,5 +363,7 @@ killall dock;
 defaults write com.apple.screencapture location ~/../Shared/Screenshots;
 killall SystemUIServer;
 ```
+
+---
 
 <TagLinks />

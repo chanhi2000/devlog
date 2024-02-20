@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: ☕️Java
 description: ☕️Java
+category:
+  - ☕️Java
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: ☕️Java
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-java/" />
+
+---
+
+<TagLinks />

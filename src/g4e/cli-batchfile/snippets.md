@@ -2,7 +2,16 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🧢Batchfile > 🔮Snippets
-tags: ["batch", "bat", "windows", "windows-terminal", "multiline", "DOSKEY"]
+category:
+  - 🧢Batchfile 
+  - 🔮Snippets
+tag: 
+  - batch
+  - bat
+  - windows
+  - windows-terminal
+  - multiline
+  - DOSKEY
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🏹WebtoB
 description: 🏹WebtoB
+category:
+  - 🏹WebtoB
 tags:
   - http.m
   - webtob
@@ -16,3 +18,5 @@ tags:
 :::
 
 ---
+
+<TagLinks />

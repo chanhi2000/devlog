@@ -2,8 +2,14 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🦄Solidity > 📺Youtube
-category: 🦄Solidity
-tags: ["education", "youtube", "solidity" , "sol"]
+category: 
+  - 🦄Solidity
+  - 📺Youtube
+tag: 
+  - education
+  - youtube
+  - solidity
+  - sol
 ---
 
 # {{ $frontmatter.title }} 관련

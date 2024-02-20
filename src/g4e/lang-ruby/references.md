@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📚References
 description: 🔻Ruby > 📚References
-tags: ["ruby", "programming"]
+category:
+  - 🔻Ruby
+  - 📚References
+tag: 
+  - ruby
+  - rb
+  - youtube
+  - programming
 ---
 
 # {{ $frontmatter.title }} 관련

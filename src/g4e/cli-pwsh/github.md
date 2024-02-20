@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🧙‍♂️Powershell > 🕶️Github
-tags: ["powershell", "windows", "windows-terminal", "multiline"]
+category:
+  - 🧙‍♂️Powershell
+  - 🕶️Github
+tag: 
+  - powershell
+  - pwsh
+  - windows
+  - windows-terminal
+  - multiline
 ---
 
 # {{ $frontmatter.title }} 관련

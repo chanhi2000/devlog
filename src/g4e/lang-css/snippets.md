@@ -2,8 +2,14 @@
 lang: ko-KR
 title: 🔮Snippets
 description: 🎨CSS > 🔮Snippets
-category: 🎨CSS
-tags: ["snippets", "css"]
+category: 
+  - 🎨CSS 
+  - 🔮Snippets
+tag: 
+  - css
+  - scss
+  - sass
+  - snippets
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -582,5 +588,6 @@ sidebar.addEventListener('touchend', e => {
 
 :::
 
+---
 
 <TagLinks />

@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🎨CSS > 📺Youtube
-tags: ["education", "youtube", "programming", "css"]
+category:
+  - 🎨CSS
+  - 📺Youtube
+tag: 
+  - education
+  - youtube
+  - programming
+  - css
 ---
 
 # {{ $frontmatter.title }} 관련

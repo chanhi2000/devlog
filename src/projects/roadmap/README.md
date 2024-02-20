@@ -1,8 +1,16 @@
 ---
 lang: ko-KR
-title: Intro
-description: 🏁My Roadmap
-tags: ["schedule", "gantt", "markdown", "mermaidjs", "todo"]
+title: 🏁My Roadmap
+description: 🏭Project > 🏁My Roadmap
+category: 
+  - 🏭Project
+  - 🏁My Roadmap
+tag: 
+  - schedule
+  - gantt
+  - markdown
+  - mermaidjs
+  - todo
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -72,17 +80,17 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 
 ### C. 노트정리
 
-#### C1. `/crashcourse/swift-100-days-of-swift` 정리
+#### C1. `/crashcourse/swift/100-days-of-swift` 정리
 
 > [See README](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swift)
 
-#### C2. `/crashcourse/swift-100-days-of-swiftui` 정리
+#### C2. `/crashcourse/swift/100-days-of-swiftui` 정리
 
 > [See README](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swiftui)
 
-#### C3. `/crashcourse/swift-swiftui-by-example` 정리
+#### C3. `/crashcourse/swift/swiftui-by-example` 정리
 
-> [See README](/crashcourse/swift-swiftui-by-example/README.md)
+> [See README](https://chanhi2000.github.io/crashcourse/swift/swiftui-by-example)
 
 
 #### C5. Notion 관련 API 도입 방법 확인
@@ -99,7 +107,7 @@ P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 
 
 #### Z1. 피부양자 등록
 
-- [ ] 피부양자 등록 조건 찾기
+- [x] 피부양자 등록 조건 찾기
 
 #### Z2. P.A.R.A 구조로 프로젝트 트리 변경
 

@@ -2,7 +2,13 @@
 lang: ko-KR
 title: 💡Tips
 description: 🖥️macOS > 💡Tips
-tags: ["sh", "bash", "zsh"]
+category:
+  - 🖥️macOS
+  - 💡Tips
+tag: 
+  - sh
+  - bash
+  - zsh
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -10,6 +16,7 @@ tags: ["sh", "bash", "zsh"]
 [[toc]]
 
 ---
+
 ## How to disable opening an app automatically at login in Mac
 
 ::: info Guide
@@ -37,10 +44,8 @@ defaults write com.apple.Finder AppleShowAllFiles true;
 killall Finder;
 ```
 
-
 :::
 
-
-
+---
 
 <TagLinks />

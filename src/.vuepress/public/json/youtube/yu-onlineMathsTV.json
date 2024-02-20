@@ -2,10 +2,20 @@
   "channel": {
     "id": "onlineMathsTV",
     "name": "OnlineMaths TV",
-    "profile": "https://yt3.googleusercontent.com/cuZmmS6KDQ5BruoRWIFRVPTFAMsgziPkjBoc58U0uoj_UObuxjh-VxLwcjtAgMkJP30bgDB6vw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/-SL-gCY4uaQskjWiB5k7woGTQslva0aBFTGkZuqVq5Fhx_8sXsnrn5XqWDmUSA8iLcjRyNok9JU=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/cuZmmS6KDQ5BruoRWIFRVPTFAMsgziPkjBoc58U0uoj_UObuxjh-VxLwcjtAgMkJP30bgDB6vw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7adMNeyKdxsjcSVG4MqdpkTUa6ykWEZr0zilz3eA0pyouGX_BveiQ1g7FTGhuBhozwNo_1sH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TtLFroxUy6o", "title": "Nice Math Problem | Nice Math Olympiad Problem And And Its Solution" },
+    { "id": "3WPbXkvhB_0", "title": "How To Simplify Radicals Without Calculator | How To Solve Radicals Without Calculator ✍️✍️" },
+    { "id": "sGs4iSdKIew", "title": "Mathematical Olympiad | Singapore Math Olympiad Question." },
+    { "id": "lDVo1N5Ai0M", "title": "Math Olympiad Algebra | Steps To Solving Math Olympiad Algebra Collaborating With @PKMath1234" },
+    { "id": "Ea2CR3dQGhY", "title": "Solving Logarithm Equation In Few Steps | Solving Simple Equations Without Stress." },
+    { "id": "mJsoIOVi-yE", "title": "A Nice Algebra Math Problem | How To Solve Simple Algebraic Math Problem With Your Eyes Open." },
+    { "id": "A_P3WCvzGKg", "title": "The Product Log Law | How To Apply The Product Log Law In Solving Exponential Math Problems." },
+    { "id": "Pk3D2Jw535M", "title": "Simple Algebra For Beginners | Beginners' Drive In Exponential Math Questions" },
+    { "id": "7B_7x-Sy0rg", "title": "Math Genius, Can You Prove This? | How To Show That 3=sqrt((((1+2sqrt(((1+3sqrt((1+4(1+..." },
+    { "id": "oVlJ4CdtGvo", "title": "U.S Math Olympiad Problem Only Math Geniuses Can Solve | Class 12 Algebra Problem." },
     { "id": "P5qer_VDMLA", "title": "Radical Equation With Cube Roots Having Two Variables." },
     { "id": "dSJgIO-hBfA", "title": "Solving A Nice Simultaneous Equation Using This Easy Trick" },
     { "id": "OgBhZRIbwjU", "title": "Solving Algebraic Expressions | Solving A Class 9 Algebraic Problem In Few Steps." },

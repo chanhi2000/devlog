@@ -1,39 +1,24 @@
 import * as dotenv from 'dotenv' 
 import { defineUserConfig } from 'vuepress'
-import { defaultTheme } from '@vuepress/theme-default'
-// import { viteBundler } from '@vuepress/bundler-vite'
-// import { webpackBundler } from '@vuepress/bundler-webpack'
-import { getDirname, path } from '@vuepress/utils'
+import { hopeTheme } from 'vuepress-theme-hope'
+import { viteBundler } from '@vuepress/bundler-vite'
+import { getDirname, path } from 'vuepress/utils'
+
 /* plugins V2 */
-import { tocPlugin } from '@vuepress/plugin-toc';
-import { nprogressPlugin } from '@vuepress/plugin-nprogress';
-import { containerPlugin } from '@vuepress/plugin-container';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
-import { gitPlugin } from '@vuepress/plugin-git';
+// import { gitPlugin } from '@vuepress/plugin-git';
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
-import { searchPlugin } from '@vuepress/plugin-search';
-import { activeHeaderLinksPlugin } from '@vuepress/plugin-active-header-links';
-import { prismjsPlugin } from '@vuepress/plugin-prismjs';
-// import { seoPlugin } from "vuepress-plugin-seo2";
+
 /* plugins 3rd-party */
-import { copyrightPlugin } from "vuepress-plugin-copyright2";
-import { componentsPlugin } from "vuepress-plugin-components";
-import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
-import anchorRightPlugin from 'vuepress-plugin-anchor-right';
-import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+// import { copyrightPlugin } from "vuepress-plugin-copyright2";
+// import { componentsPlugin } from "vuepress-plugin-components";
+// import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+// import anchorRightPlugin from 'vuepress-plugin-anchor-right';
+// import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+// import { searchProPlugin } from "vuepress-plugin-search-pro";
 import MdDefinePlugin from 'vuepress-plugin-markdown-define2';
-import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { usePagesPlugin } from 'vuepress-plugin-use-pages'
-
-
-// import { mermaidWrapperPlugin } from 'vuepress-plugin-mermaid-wrapper';
-// import { mermaidPlugin } from "@renovamen/vuepress-plugin-mermaid";
-// import { katexPlugin } from "@renovamen/vuepress-plugin-katex";
-/* markdownExtended plugins 3rd-party */
-// import markdownItTaskListsPlugin from 'markdown-it-task-lists'; // markdown 체크리스트 
-// import markdownITKatexxPlugin from 'markdown-it-katexx'; // markdown katex 변환 
-// import markdownItVideoPlugin from '@centerforopenscience/markdown-it-video'; // markdown에 @[youtube](유튜브URL) 형태로 박으면 동영상이 나온다
 
 import {
   // head,
@@ -60,22 +45,103 @@ export default defineUserConfig({
   title: 'chanhi2000\'s devlog',
   description: description,
   head: [['link', { rel: 'icon', href: imgLogoPath }]],
+  locales: {
+    '/': {
+      lang: "en-US"      
+    }
+  },
+  bundler: viteBundler({}),
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
-  theme: defaultTheme({
+  theme: hopeTheme({
+    fullscreen: true,
+    // pure: true,
     logo: imgLogoPath,
     docsDir: '',
     lastUpdated: true,
-    lastUpdatedText: '최근변경일',
-    backToHome: '홈으로 이동',
-    // footer: 'MIT Licensed | Copyright © 2022-present <a href="https://github.com/chanhi2000">Chan Hee Lee</a>',
+    footer: 'MIT Licensed | Copyright © 2022-present <a href="https://github.com/chanhi2000">Chan Hee Lee</a>',
+    displayFooter: true,
     // footerHtml: true,
-    sidebar: sidebarEn,
-    sidebarDepth: 2,
-    navbar: navbarEn,
+    locales: {
+      "/": {
+        navbar: navbarEn,
+        sidebar: sidebarEn,
+      },
+    },
+    plugins: {
+      components: {
+        components: [
+          "VidStack", "FontIcon", "Badge", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
+        ],
+        componentOptions: {
+          fontIcon: {
+            assets: ["iconfont", "fontawesome", "fontawesome-with-brands"],
+          }
+        },
+        rootComponents: {
+          // backToTop: false,
+        }
+      },
+      copyright: {
+        author: 'Chan Hee Lee',
+        license: 'MIT Licensed',
+      },
+      mdEnhance: {
+        mark: true,
+        tabs: true,
+        demo: true,
+        hint: true,
+        tasklist: true,
+        codetabs: true,
+        component: true,
+        chart: true,
+        echarts: true,
+        mermaid: true,
+        katex: true,
+        footnote: true,
+        attrs: true,
+        figure:true,
+        flowchart: true,
+        imgLazyload: true,
+        imgSize: true,
+        revealJs: {
+          plugins: ["highlight", "math", "search", "notes", "zoom"],
+        },
+        sub: true,
+        sup: true,
+        vPre: true,
+        vuePlayground: true,
+        kotlinPlayground: true,
+      },
+      copyCode: {
+        locales: {
+          "/": {
+            // Override copy button label text
+            copy: "Copy Codes from code block",
+          }
+        }
+      },
+      nprogress: true,
+      git: {
+        updatedTime: true,
+      },
+      search: {
+        isSearchable: (page) => page.path !== '/',
+      },
+      searchPro: {
+        indexContent: true,
+      },
+      prismjs: {
+        light: "material-light",
+        dark: "dracula"
+      }, 
+      // backToTop: true,
+    },
+    breadcrumbIcon: true,
+
   }),
   clientConfigFile: path.resolve(__dirname, './client.ts'),
   markdown: {
@@ -87,29 +153,18 @@ export default defineUserConfig({
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
+    /*
     activeHeaderLinksPlugin({}),
     tocPlugin({}),
-    nprogressPlugin(),
-    // backToTopPlugin(),
     containerPlugin({
       type: 'tip',
-      locales: {
-        '/': {
-          defaultInfo: 'TIP',
-        },
-        '/zh/': {
-          defaultInfo: '提示',
-        },
-        '/kr/': {
-          defaultInfo: '팁',
-        }
-      }
-    }),
-    registerComponentsPlugin({
-      componentsDir: path.resolve(__dirname, './components'),
     }),
     gitPlugin({
       updatedTime: true,
+    }),
+    */
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
     }),
     googleAnalyticsPlugin({
       id: 'G-XFRP81YMEP',
@@ -118,29 +173,19 @@ export default defineUserConfig({
     mediumZoomPlugin({
       selector: ':not(.youtube-item):not(a) > img'
     }),
+    /*
+    prismjsPlugin({
+      preloadLanguages: ['mermaid', 'kotlin', 'java', 'md'],
+    }),
     searchPlugin({
       isSearchable: (page) => page.path !== '/',
       // getExtraFields: (page) => page.frontmatter.tags ?? [],
     }),
-    prismjsPlugin({
-      preloadLanguages: ['mermaid', 'kotlin', 'java', 'md'],
+    seoPlugin({
     }),
-    // seoPlugin({
-    // }),
     copyrightPlugin({
-      author: 'Chan Hee Lee',
-      license: 'MIT Licensed',
-    }),
-    componentsPlugin({
-      components: ["VideoPlayer", "YouTube", "FontIcon", "Badge", "Share", "PDF", "SiteInfo"],
-      componentOptions: {
-        fontIcon: {
-          assets: ["iconfont", "fontawesome", "fontawesome-with-brands"],
-        }
-      },
-      rootComponents: {
-        backToTop: true,
-      }
+       author: 'Chan Hee Lee',
+       license: 'MIT Licensed',
     }),
     mdEnhancePlugin({
       mark: true,
@@ -148,7 +193,7 @@ export default defineUserConfig({
       demo: true,
       tasklist: true,
       codetabs: true,
-      card: true,
+      component: true,
       chart: true,
       echarts: true,
       mermaid: true,
@@ -160,13 +205,12 @@ export default defineUserConfig({
       flowchart: true,
       imgLazyload: true,
       imgSize: true,
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
+      revealJs: {
+         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
       sub: true,
       sup: true,
     }),
-    anchorRightPlugin(),
     copyCodePlugin({
       locales: {
         "/": {
@@ -175,10 +219,11 @@ export default defineUserConfig({
         }
       }
     }),
-    MdDefinePlugin(CONSTS),
     searchProPlugin({
       indexContent: true,
     }),
+    */
+    MdDefinePlugin(CONSTS),
     usePagesPlugin({
       startsWith: '/'
     }),

@@ -2,7 +2,29 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🗡Vim > 📺Youtube
-tags: ["youtube", "tutorial", "bash", "linux", "macos", "terminal", "alias", "sh", "vim", "neovim", "@TheVimeagen", "@dreamsofcode", "@SeniorMarsTries", "@LinuxNomad", "@anthonygg_", "@maaslalani", "@teej_dv", "@cretezy", "@joseanmartinez"]
+category:
+  - 🗡Vim
+  - 📺Youtube
+tag: 
+  - "youtube"
+  - "tutorial"
+  - "bash"
+  - "linux"
+  - "macos"
+  - "terminal"
+  - "alias"
+  - "sh"
+  - "vim"
+  - "neovim"
+  - "@TheVimeagen"
+  - "@dreamsofcode"
+  - "@SeniorMarsTries"
+  - "@LinuxNomad"
+  - "@anthonygg_"
+  - "@maaslalani"
+  - "@teej_dv"
+  - "@cretezy"
+  - "@joseanmartinez"
 ---
 
 # {{ $frontmatter.title }} 관련

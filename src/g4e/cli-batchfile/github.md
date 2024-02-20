@@ -2,7 +2,14 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🧢Batchfile > 🕶️Github
-tags: ["batch", "bat", "windows", "windows-terminal"]
+category:
+  - 🧢Batchfile
+  - 🕶️Github
+tag: 
+  - batch
+  - bat
+  - windows
+  - windows-terminal
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,8 +1,15 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧜‍♀️Mermaid.js
 description: 🧜‍♀️Mermaid.js
-tags: ["js" , "mermaid" , "mermaidjs"]
+category:
+  - 🧜‍♀️Mermaid.js
+tag: 
+  - js
+  - node
+  - nodejs
+  - mermaid
+  - mermaidjs
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -20,3 +27,7 @@ tags: ["js" , "mermaid" , "mermaidjs"]
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-js-mermaid/" />
+
+---
+
+<TagLinks />

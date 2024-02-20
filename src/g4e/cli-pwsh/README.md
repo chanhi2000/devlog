@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧙‍♂️Powershell
 description: 🧙‍♂️Powershell
+category:
+  - 🧙‍♂️Powershell
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🧙‍♂️Powershell
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/cli-pwsh/" />
+
+---
+
+<TagLinks />

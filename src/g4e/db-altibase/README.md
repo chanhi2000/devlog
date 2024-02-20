@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🦉Altibase
 description: 🦉Altibase
+category:
+  - 🦉Altibase
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,12 +14,14 @@ description: 🦉Altibase
 
 :::
 
-```card
-title: Altibase
-desc: Altibase - Databse of Databases
-link: https://dbdb.io/db/altibase
-logo: https://dbdb.io/static/core/images/dbdb_io-180x180.png
-color: rgba(38, 75, 99, 0.2)
+```component VPCard
+{
+  "title": "Altibase",
+  "desc": "Altibase - Databse of Databases",
+  "link": "https://dbdb.io/db/altibase",
+  "logo": "https://dbdb.io/static/core/images/dbdb_io-180x180.png",
+  "background": "rgba(38, 75, 99, 0.2)"
+}
 ```
 
 ---
@@ -26,5 +30,7 @@ color: rgba(38, 75, 99, 0.2)
 
 <ToCLocal basePath="/g4e/db-altibase/" />
 
+---
 
+<TagLinks />
 

@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: 🐬MySQL > 📚References
-tags: ["sql", "db", "mysql", "shell", "stricky"]
+category:
+  - 🐬MySQL
+  - 📚References
+tag: 
+  - sql
+  - db
+  - mysql
+  - shell
+  - stricky
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🎸Static-Site-Publisho
 description: 🎸Static-Site-Publish
+category: 
+  - 🎸Static-Site-Publish
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -11,3 +13,5 @@ description: 🎸Static-Site-Publish
 :::
 
 ---
+
+<TagLinks />

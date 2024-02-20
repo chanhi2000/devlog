@@ -2,7 +2,12 @@
 lang: ko-KR
 title: 🐚adb
 description: 🤖Android > 🐚adb
-tags: ["references", "android"]
+category: 
+  - 🤖Android 
+  - 🐚adb 
+tag: 
+  - adb
+  - android
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -504,5 +509,7 @@ Controlling Log Output Format
 
 -v option을 사용해서 출력되는 log의 f
 -->
+
+---
 
 <TagLinks />

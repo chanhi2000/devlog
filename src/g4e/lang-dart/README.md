@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🔰Dart
 description: 🔰Dart
+category:
+  - 🔰Dart
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,3 +19,7 @@ description: 🔰Dart
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/lang-dart/" />
+
+---
+
+<TagLinks />

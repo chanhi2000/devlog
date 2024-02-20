@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🦙Llama > 📚References
-category: 🦙Llama
-tags: ["llama" , "llm"]
+description: 🦙Llm > 📚References
+category: 
+  - 🦙Llm
+  - 📚References
+tag: 
+  - llm
+  - llama
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -17,6 +21,12 @@ tags: ["llama" , "llm"]
 ## pdf(s)
 
 - [OLMo : Accelerating the Science of Language Models](https://allenai.org/olmo/olmo-paper.pdf)
+
+---
+
+## Medium
+
+- [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 
 ---
 

@@ -2,8 +2,13 @@
 lang: ko-KR
 title: 🗞️News
 description: 🕊️Swift > 🗞️News
-category: 🕊️Swift
-tags: ["references", "swift", "news"]
+category: 
+  - 🕊️Swift
+  - 🗞️News
+tag: 
+  - swift
+  - news
+  - references
 ---
 
 # {{ $frontmatter.title }} 관련

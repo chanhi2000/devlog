@@ -2,7 +2,11 @@
 lang: ko-KR
 title: 🕶️Github
 description: 🤠Django > 🕶️Github
-tags: ["django"]
+category:
+  - 🤠Django 
+  - 🕶️Github
+tag: 
+  - django
 ---
 
 # {{ $frontmatter.title }} 관련

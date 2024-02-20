@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 💧Elixir
 description: 💧Elixir
+category:
+  - 💧Elixir
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +20,6 @@ description: 💧Elixir
 
 <ToCLocal basePath="/g4e/lang-elixir/" />
 
+---
+
+<TagLinks />

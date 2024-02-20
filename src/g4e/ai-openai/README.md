@@ -1,8 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🎼OpenAI
 description: 🎼OpenAI
-category: 🎼OpenAI
+category: 
+  - 🎼OpenAI
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +19,7 @@ category: 🎼OpenAI
 ## Table of Contents
 
 <ToCLocal basePath="/g4e/ai-openai/" />
+
+---
+
+<TagLinks />

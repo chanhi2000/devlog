@@ -1,9 +1,9 @@
-import type { SidebarConfig } from '@vuepress/theme-default'
+import { sidebar } from 'vuepress-theme-hope'
 
-export const sidebarEn: SidebarConfig = {
+export const sidebarEn = sidebar({
   '/g4e/': [
     {
-      text: 'Intro',
+      text: '📖G4E',
       children: [ '/g4e/README.md' ],
     },
     //region: api
@@ -40,7 +40,7 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/cli-shell/youtube.md',
       ]
     }, {
-      text: '🧢Batchfile (Windows)',
+      text: '🧢Batchfile',
       collapsible: true,
       children: [
         '/g4e/cli-batchfile/README.md',
@@ -73,6 +73,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/g4e/cli-vim/README.md',
+        '/g4e/cli-vim/tips.md',
         '/g4e/cli-vim/neovim.md',
         '/g4e/cli-vim/github.md',
         '/g4e/cli-vim/references.md',
@@ -525,7 +526,6 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/tool-ide/README.md',
         '/g4e/tool-ide/idea-plugins.md',
         '/g4e/tool-ide/idea-troubleshooting.md',
-        '/g4e/tool-ide/vim-tips.md',
         '/g4e/tool-ide/dbeaver-hotkey.md',
         '/g4e/tool-ide/dbeaver-jdbc.md',
         '/g4e/tool-ide/dbeaver-qtmplt.md',
@@ -563,11 +563,12 @@ export const sidebarEn: SidebarConfig = {
         '/g4e/ai-openai/youtube.md',
       ]
     }, {
-      text: '🦙Llama',
+      text: '🦙Llm',
       collapsible: true,
       children: [
-        '/g4e/ai-llama/README.md',
-        '/g4e/ai-llama/references.md',
+        '/g4e/ai-llm/README.md',
+        '/g4e/ai-llm/references.md',
+        '/g4e/ai-llm/youtube.md',
       ]
     }, {
       text: '🦖JEUS',
@@ -689,7 +690,7 @@ export const sidebarEn: SidebarConfig = {
   ],
   '/projects/': [
     {
-      text: 'Intro',
+      text: '🏭Project',
       children: [ '/projects/README.md' ],
     }, {
       text: '🏁My Roadmap',
@@ -787,6 +788,7 @@ export const sidebarEn: SidebarConfig = {
         '/academics/COEN020/read01a.md',
         '/academics/COEN020/read01b.md',
         '/academics/COEN020/read01c.md',
+        '/academics/COEN020/read01d.md',
       ]
     }, {
       text: 'PHYS034',
@@ -801,4 +803,4 @@ export const sidebarEn: SidebarConfig = {
       ]
     }
   ],
-}
+})

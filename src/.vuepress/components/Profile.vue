@@ -143,7 +143,7 @@
   .mail-box:hover {
     cursor: pointer;
   }
-  html.dark .profile__name span { color: var(--c-text-lighter); }
-  html.dark .profile__desc { color: var(--c-text-quote); }
-  html.dark a { color: var(--c-text-accent); }
+  html[data-theme=dark] .profile__name span { color: var(--c-text-lighter); }
+  html[data-theme=dark] .profile__desc { color: var(--c-text-quote); }
+  html[data-theme=dark] a { color: var(--c-text-accent); }
   </style>

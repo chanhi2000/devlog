@@ -2,7 +2,20 @@
 lang: ko-KR
 title: 📍Favorite Container(s)
 description: 🐋Docker > 📍Favorite Container(s)
-tags: ["sh", "bash", "cli", "docker", "docker-desktop", "yml", "yaml", "docker-container", "vm", "docker-compose"]
+category:
+  - 🐋Docker 
+  - 📍Favorite Container(s)
+tag: 
+  - sh
+  - bash
+  - cli
+  - docker
+  - docker-desktop
+  - yml
+  - yaml
+  - docker-container
+  - vm
+  - docker-compose
 ---
 
 # {{ $frontmatter.title }} 관련

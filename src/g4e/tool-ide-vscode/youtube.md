@@ -2,8 +2,10 @@
 lang: ko-KR
 title: 📺Youtube
 description: 🆚VSCode > 📺Youtube
-category: 🆚VSCode
-tags: 
+category: 
+  - 🆚VSCode
+  - 📺Youtube
+tag: 
   - education
   - youtube
   - vscode

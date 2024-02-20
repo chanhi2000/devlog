@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🧑‍🎓Academics
 description: 🧑‍🎓Academics
 ---
 
@@ -11,3 +11,5 @@ description: 🧑‍🎓Academics
 :::
 
 ---
+
+<TagLinks />

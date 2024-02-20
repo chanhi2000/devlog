@@ -2,7 +2,15 @@
 lang: ko-KR
 title: 📚References
 description: ☸️Kubernetes > 📚References
-tags: ["win", "Windows", "win10", "msc", "eventvwr.msc"] 
+category:
+  - ☸️Kubernetes
+  - 📚References
+tag: 
+  - win
+  - Windows
+  - win10
+  - msc
+  - eventvwr.msc
 ---
 
 # {{ $frontmatter.title }} 관련

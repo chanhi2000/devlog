@@ -1,8 +1,16 @@
 ---
 lang: ko-KR
 title: Cordova
-description: 🧶Node.js > Cordova
-tags: ["js", "javascript", "nodejs", "node", "cordova", "hybrid"]
+description: 🧶Node.js > 🤖Cordova
+category:
+  - 🧶Node.js
+  - 🤖Cordova
+tag: 
+  - js
+  - node
+  - nodejs
+  - cordova
+  - hybrid
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,7 +1,9 @@
 ---
 lang: ko-KR
-title: Intro
-description: 🧢Batchfile (Windows)
+title: 🧢Batchfile
+description: 🧢Batchfile
+category:
+  - 🧢Batchfile
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -2,7 +2,12 @@
 lang: ko-KR
 title: ❤📚References
 description: 🧭Lifeguide > ❤📚References
-tags: ["nhis", "lifeguide"]
+category:
+  - 🧭Lifeguide
+  - ❤📚References
+tag: 
+  - nhis
+  - lifeguide
 ---
 
 # {{ $frontmatter.description }} 관련

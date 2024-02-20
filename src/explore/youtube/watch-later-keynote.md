@@ -2,7 +2,17 @@
 lang: ko-KR
 title: Watch Later (Keynote)
 description: 📺Youtube > Watch Later (Keynote)
-tags: ["keynotes", "codingtech", "youtube", "kavsoft", "swift", "java", "philipp-lackner"]
+category: 
+  - 📺Youtube
+  - Watch Later (Keynote)
+tag: 
+  - keynotes
+  - codingtech
+  - youtube
+  - kavsoft
+  - swift
+  - java
+  - philipp-lackner
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,8 +1,10 @@
 ---
 lang: ko-KR
-title: Intro
+title: 🪂NGINX
 description: 🪂NGINX
-tags: 
+category: 
+  - 🪂NGINX
+tag: 
   - nignx
   - webserver
   - web-server
@@ -16,3 +18,7 @@ tags:
 :::
 
 <ShieldsGroup logos="nginx"/>
+
+---
+
+<TagLinks />
