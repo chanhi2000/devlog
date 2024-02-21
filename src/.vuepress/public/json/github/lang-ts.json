@@ -1450,9 +1450,9 @@
     "topics": ["ledger", "ledger-cli", "personal-finance", "plaintext-accounting", "visualization"]
   }, {
     "repo": "lobehub/lobe-chat",
-    "desc": "🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.",
+    "desc": "🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.",
     "officialSite": "https://chat-preview.lobehub.com",
-    "topics": ["ai", "azure-openai", "chat", "chatglm", "chatgpt", "claude", "dalle-3", "function-calling", "gemini", "gpt", "gpt-4", "gpt-4-vision", "llama2", "nextjs", "openai", "tts"]
+    "topics": ["ai", "azure-openai", "chat", "chatglm", "chatgpt", "claude", "dalle-3", "function-calling", "gemini", "gpt", "gpt-4", "gpt-4-vision", "llama2", "nextjs", "ollama", "openai", "tts"]
   }, {
     "repo": "bitwarden/clients",
     "desc": "Bitwarden client applications (web, browser extension, desktop, and cli)",
@@ -1839,7 +1839,7 @@
     "officialSite": "https://typehero.dev",
     "topics": ["hacktoberfest", "nextjs", "prisma", "react", "typescript"]
   }, {
-    "repo": "StanGirard/quivr",
+    "repo": "QuivrHQ/quivr",
     "desc": "Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
     "officialSite": "https://quivr.app",
     "topics": ["ai", "api", "chatbot", "chatgpt", "database", "docker", "frontend", "html", "javascript", "llm", "openai", "postgresql", "privacy", "rag", "react", "rest-api", "security", "typescript", "vector", "ycombinator"]

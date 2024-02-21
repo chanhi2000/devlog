@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/REDH36PoBexaig5c4xQqrjXmG3EPvOd0PB7oCR1YdjUkJMmJd-WuIjN-6mSIMamAq57FxUsBEQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MgqCYM7m5-c", "title": "RealChart 기본 교육 1차" },
+    { "id": "ZuCa5I50cLg", "title": "재귀호출 쉽고 확실하게 이해하기" },
+    { "id": "c5Bm8mI5Mys", "title": "RealChart 심화교육 1차" },
+    { "id": "n8YighNZfXU", "title": "포인터 쉽고 확실하게 이해하기" },
+    { "id": "TArQUvG8-wM", "title": "1. RealChart 시작하기" },
+    { "id": "JQnUoF1cgcE", "title": "2. Pie 차트 그리기" },
     { "id": "dymihe2djfA", "title": "동적설계 3 - 상태도" },
     { "id": "s44xYsNuvKs", "title": "동적설계 2 - 시퀀스 다이어그램" },
     { "id": "R-TIrzVXuPY", "title": "초보 개발자를 위한 디버깅 비법" }, 

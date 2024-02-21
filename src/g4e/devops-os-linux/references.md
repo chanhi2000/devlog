@@ -158,6 +158,11 @@ tag:
 
 - [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 
+
+## Pádraig Brady
+
+- [How the GNU coreutils are tested](https://www.pixelbeat.org/docs/coreutils-testing.html)
+
 ---
 
 <TagLinks />

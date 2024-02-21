@@ -183,6 +183,12 @@ tag:
 
 ---
 
+## Two Wrongs
+
+- [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

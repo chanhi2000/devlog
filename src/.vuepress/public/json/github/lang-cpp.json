@@ -1113,5 +1113,10 @@
     "desc": "An image processing pipeline for ROS.",
     "officialSite": "",
     "topics": ["c-plus-plus", "image-processing", "python", "ros"]
+  }, {
+    "repo": "jankae/LibreVNA",
+    "desc": "100kHz to 6GHz 2 port USB based VNA",
+    "officialSite": "",
+    "topics": ["rf", "vna"]
   }
 ]

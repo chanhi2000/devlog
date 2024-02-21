@@ -261,7 +261,13 @@ tag:
 
 ## Hello.Stranger
 
-[단 한 줄로 노출되는 ChatGPT의 '시스템 프롬프트'](https://maily.so/blackcon/posts/87fe5a59)
+- [단 한 줄로 노출되는 ChatGPT의 '시스템 프롬프트'](https://maily.so/blackcon/posts/87fe5a59)
+
+---
+
+## Elad Blog
+
+- [Things I Don't Know About AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
 
 ---
 

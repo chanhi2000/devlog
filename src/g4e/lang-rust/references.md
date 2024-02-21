@@ -201,4 +201,8 @@ tag:
 
 ---
 
+## Ante
+
+- [ALGEBRAIC EFFECTS, OWNERSHIP, AND BORROWING](https://antelang.org/blog/effects_ownership_and_borrowing/)
+
 <TagLinks />

@@ -192,7 +192,9 @@ tag:
 
 - [Async File IO](https://cmhteixeira.com/concurrency/asyncfileio.html)
 
+### Laurence Tratt
 
+- [Parsing: The Solved Problem That Isn't](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
 
 ---
 

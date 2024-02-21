@@ -24,6 +24,12 @@ tag:
 
 ---
 
+## Johns Hopkins Poker Course
+
+- [Johns Hopkins Poker Course](https://hopkinspokercourse.com/)
+
+---
+
 ## StackExchange
 
 ### Physics

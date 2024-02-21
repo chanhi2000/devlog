@@ -979,5 +979,10 @@
     "desc": "A curated list of awesome Chart.js resources and libraries",
     "officialSite": "",
     "topics": ["awesome", "chartjs", "charts", "integrations", "plugins", "resources"]
+  }, {
+    "repo": "charlax/professional-programming",
+    "desc": "A collection of learning resources for curious software engineers",
+    "officialSite": "",
+    "topics": ["architecture", "computer-science", "concepts", "documentation", "engineer", "learning", "lessons-learned", "professional", "programmer", "programming-language", "read-articles", "scalability", "software-engineering"]
   }
 ]

@@ -1240,10 +1240,10 @@
     "topics": ["python", "bot", "ai", "openai", "chatbots", "gpt", "llm", "ai-functions"],
     "officialSite": "https://askmarvin.ai"
   }, {
-    "repo": "StanGirard/quivr",
-    "desc": "🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...",
-    "topics": ["audio", "chat", "pdf", "csv", "ai", "models", "personal", "embeddings", "assistant", "private", "gpt", "generative", "brain", "second", "second-brain", "llm", "chatgpt", "gpt4all", "vectorstore", "privategpt"],
-    "officialSite": "https://quivr.app"
+    "repo": "QuivrHQ/quivr",
+    "desc": "Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+    "officialSite": "https://quivr.app",
+    "topics": ["ai", "api", "chatbot", "chatgpt", "database", "docker", "frontend", "html", "javascript", "llm", "openai", "postgresql", "privacy", "rag", "react", "rest-api", "security", "typescript", "vector", "ycombinator"]
   }, {
     "repo": "eth-sri/lmql",
     "desc": "A query language for programming (large) language models.",
@@ -4199,5 +4199,25 @@
     "desc": "Build reactive web UIs in Python",
     "officialSite": "https://hyperdiv.io",
     "topics": ["framework", "python", "reactive", "ui", "web"]
+  }, {
+    "repo": "FujiwaraChoki/MoneyPrinterV2",
+    "desc": "Automate the process of making money online.",
+    "officialSite": "",
+    "topics": ["automation", "cli", "json", "money", "outreach", "python", "twitter", "youtube"]
+  }, {
+    "repo": "karpathy/minbpe",
+    "desc": "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "GaussianObject/GaussianObject",
+    "desc": "Code for \"GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting\"",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "MDK8888/GPTFast",
+    "desc": "Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.",
+    "officialSite": "",
+    "topics": []
   }
 ]

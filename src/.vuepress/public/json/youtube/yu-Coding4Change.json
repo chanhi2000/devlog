@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/bHwXkMgcO46GLMLDpYhELTvq4ksJuRga68qBerLnJVj_LZwEWohMhTuW01tGftDphhWkv5iC5Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "810SEccXAAg", "title": "SQL강좌:14-3. 트랜잭션과 잠금처리 - 트랜잭션과 체크포인트" },
+    { "id": "06bqqpYjAGk", "title": "SQL강좌:14-4. 트랜잭션과 잠금처리 - 잠금(Lock)과 블로킹" },
+    { "id": "ayHKKfydgnk", "title": "SQL강좌:14-5. 트랜잭션과 잠금처리 - 잠금과 트랜잭션 격리 수준" },
+    { "id": "7w2fuGizdJI", "title": "SQL강좌:14-6. 트랜잭션과 잠금처리 - 잠금 관리" },
+    { "id": "OO2Hgr74vbg", "title": "SQL강좌:14-7. 트랜잭션과 잠금처리 - 교착상태(데드락-DeadLock) 관리" },
     { "id": "5GWF-jx3uso", "title": "SQL강좌:12-7. 인덱스 생성과 관리 - 인덱스 옵션" },
     { "id": "S_iiCNmjWKk", "title": "SQL강좌:12-8. 인덱스 생성과 관리 - 인덱스 재구성/재구축" },
     { "id": "4ZddodJOJ9Q", "title": "SQL강좌:12-9. 인덱스 생성과 관리 - DTA(데이터베이스 엔진 튜닝 관리자)" },

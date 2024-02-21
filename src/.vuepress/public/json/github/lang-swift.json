@@ -429,5 +429,10 @@
     "desc": "Swift native on-device speech recognition with Whisper for iOS and macOS",
     "officialSite": "https://takeargmax.com/blog/whisperkit",
     "topics": ["inference", "ios", "pretrained-models", "speech-recognition", "swift", "transformers", "whisper"]
+  }, {
+    "repo": "andersrex/notesollama",
+    "desc": "Use Ollama to talk to local LLMs in Apple Notes",
+    "officialSite": "https://smallest.app/notesollama",
+    "topics": []
   }
 ]

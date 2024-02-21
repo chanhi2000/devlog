@@ -1099,5 +1099,20 @@
     "desc": "Just One Single History",
     "officialSite": "https://josh-project.github.io/josh/",
     "topics": ["git", "monorepo", "scm", "workflow"]
+  }, {
+    "repo": "tw93/Pake",
+    "desc": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "officialSite": "",
+    "topics": ["chatgpt", "gpt-4", "high-performance", "linux-desktop", "mac", "mac-desktop", "music", "no-electron", "open", "openai", "poe", "productivity", "programming", "rust", "tauri", "twitter", "webview", "windows-desktop", "youtube"]
+  }, {
+    "repo": "readysettech/readyset",
+    "desc": "Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.",
+    "officialSite": "https://readyset.io",
+    "topics": ["backend", "cache", "caching", "caching-proxy", "databases", "mysql", "mysql-database", "postgres", "postgresql", "postgresql-database", "rust", "rust-lang", "sql", "streaming-data"]
+  }, {
+    "repo": "jfecher/ante",
+    "desc": "A safe, easy systems language",
+    "officialSite": "http://antelang.org",
+    "topics": ["ante", "compiler", "language", "llvm", "refinement-types", "systems-language"]
   }
 ]

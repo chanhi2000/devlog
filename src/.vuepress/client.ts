@@ -5,7 +5,6 @@
  */
 import { defineClientConfig } from "vuepress/client"
 import { onMounted } from 'vue'
-import express from 'express'
 
 
 export default defineClientConfig({

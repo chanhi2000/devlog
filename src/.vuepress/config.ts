@@ -6,7 +6,6 @@ import { getDirname, path } from 'vuepress/utils'
 
 /* plugins V2 */
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
-// import { gitPlugin } from '@vuepress/plugin-git';
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
 
@@ -42,7 +41,7 @@ export default defineUserConfig({
     __YOUTUBE_API_KEY__: process.env.YOUTUBE_API_KEY,
     __IS_DEBUG__: process.env.IS_DEBUG ?? false,
   },
-  title: 'chanhi2000\'s devlog',
+  title: 'chanhi2000',
   description: description,
   head: [['link', { rel: 'icon', href: imgLogoPath }]],
   locales: {
@@ -58,7 +57,6 @@ export default defineUserConfig({
    */
   theme: hopeTheme({
     fullscreen: true,
-    // pure: true,
     logo: imgLogoPath,
     docsDir: '',
     lastUpdated: true,
@@ -71,6 +69,7 @@ export default defineUserConfig({
         sidebar: sidebarEn,
       },
     },
+    breadcrumbIcon: true,
     plugins: {
       components: {
         components: [
@@ -139,9 +138,7 @@ export default defineUserConfig({
         dark: "dracula"
       }, 
       // backToTop: true,
-    },
-    breadcrumbIcon: true,
-
+    }
   }),
   clientConfigFile: path.resolve(__dirname, './client.ts'),
   markdown: {
@@ -153,16 +150,6 @@ export default defineUserConfig({
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
-    /*
-    activeHeaderLinksPlugin({}),
-    tocPlugin({}),
-    containerPlugin({
-      type: 'tip',
-    }),
-    gitPlugin({
-      updatedTime: true,
-    }),
-    */
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
     }),
@@ -173,56 +160,6 @@ export default defineUserConfig({
     mediumZoomPlugin({
       selector: ':not(.youtube-item):not(a) > img'
     }),
-    /*
-    prismjsPlugin({
-      preloadLanguages: ['mermaid', 'kotlin', 'java', 'md'],
-    }),
-    searchPlugin({
-      isSearchable: (page) => page.path !== '/',
-      // getExtraFields: (page) => page.frontmatter.tags ?? [],
-    }),
-    seoPlugin({
-    }),
-    copyrightPlugin({
-       author: 'Chan Hee Lee',
-       license: 'MIT Licensed',
-    }),
-    mdEnhancePlugin({
-      mark: true,
-      tabs: true,
-      demo: true,
-      tasklist: true,
-      codetabs: true,
-      component: true,
-      chart: true,
-      echarts: true,
-      mermaid: true,
-      katex: true,
-      footnote: true,
-      attrs: true,
-      container: true,
-      figure:true,
-      flowchart: true,
-      imgLazyload: true,
-      imgSize: true,
-      revealJs: {
-         plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
-      sub: true,
-      sup: true,
-    }),
-    copyCodePlugin({
-      locales: {
-        "/": {
-          // Override copy button label text
-          copy: "Copy Codes from code block",
-        }
-      }
-    }),
-    searchProPlugin({
-      indexContent: true,
-    }),
-    */
     MdDefinePlugin(CONSTS),
     usePagesPlugin({
       startsWith: '/'

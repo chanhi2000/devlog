@@ -179,5 +179,10 @@
     "desc": "Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Dicklesworthstone/hoeffdings_d_explainer",
+    "desc": "A Detailed Introduction to My Favorite Statistical Measure, Hoeffding's D",
+    "officialSite": "",
+    "topics": []
   }
 ]

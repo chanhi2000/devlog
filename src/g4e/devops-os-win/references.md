@@ -59,6 +59,12 @@ tag:
 
 ---
 
+## Licenturion
+
+- [Inside Windows Product Activation](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

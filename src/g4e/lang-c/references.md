@@ -201,6 +201,12 @@ tag:
 
 ---
 
+## Chris Barrick
+
+- [Encoding tic-tac-toe in 15 bits](https://cbarrick.dev/posts/2024/02/19/tic-tac-toe)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)
