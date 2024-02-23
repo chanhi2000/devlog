@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "jaeohlee5719",
+    "name": "Jaeoh Lee",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTcPYjCihNqMSUc1WXd84FJjjDTcGO3eB2NMQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "qH62aqVUN8s", "title": "국제 아트 아카데미(정보처리 기사 대비) c    언어 구조체" },
+    { "id": "JKZHeXe-GDw", "title": "국제 아카데미 정보처리기사 c언어 포인터  2" },
+    { "id": "ueZZBAUS5OU", "title": "화곡 이젠 아카데미 , 클래스 ,getter, setter, 메서드 상속" },
+    { "id": "Z8NmawCbhjU", "title": "강서 화곡 이젠 아카데미  배열 ,for , list , 객체" },
+    { "id": "b9vt11FlQEc", "title": "강서 화곡 이젠 아카데미, 객체 배열" }
+  ]
+}

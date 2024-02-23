@@ -165,4 +165,16 @@ tag:
 
 ---
 
+## Andrey Konovalov
+
+- [🤫 Unlocking secret ThinkPad functionality for emulating USB devices](https://xairy.io/articles/thinkpad-xdci)
+
+---
+
+## MaskRay
+
+- [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
+
+---
+
 <TagLinks />

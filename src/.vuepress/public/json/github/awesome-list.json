@@ -984,5 +984,20 @@
     "desc": "A collection of learning resources for curious software engineers",
     "officialSite": "",
     "topics": ["architecture", "computer-science", "concepts", "documentation", "engineer", "learning", "lessons-learned", "professional", "programmer", "programming-language", "read-articles", "scalability", "software-engineering"]
+  }, {
+    "repo": "systemdesign42/system-design",
+    "desc": "Building the best system design resource in the internet",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "weijunext/indie-hacker-tools",
+    "desc": "收录独立开发者出海技术栈和工具",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "charlax/engineering-management",
+    "desc": "A collection of inspiring resources related to engineering management and tech leadership",
+    "officialSite": "",
+    "topics": ["article", "bias", "culture", "decisions", "employee-handbook", "engineering-management", "leader", "management"]
   }
 ]

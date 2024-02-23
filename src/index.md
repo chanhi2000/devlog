@@ -229,6 +229,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 }
 ```
 
+```component VPCard
+{
+  "title": "KLDP",
+  "desc": "Open Source, Geek, IT...",
+  "link": "https://kldp.org/",
+  "logo": "https://kldp.org/files/bluemarine_logo.png",
+  "background": "rgba(36,36,36,0.2)",
+}
+```
+
 @tab Careers & Networking
 
 ```component VPCard

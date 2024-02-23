@@ -1239,5 +1239,10 @@
     "desc": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
     "officialSite": "https://bitmagnet.io/",
     "topics": ["bittorrent", "dht", "prowlarr", "radarr", "selfhosted", "servarr", "sonarr", "torrent", "torrents", "torznab"]
+  }, {
+    "repo": "ory/kratos",
+    "desc": "Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",
+    "officialSite": "https://www.ory.sh/kratos/?utm_source=github&utm_medium=banner&utm_campaign=kratos",
+    "topics": ["hacktoberfest", "identity", "identity-management", "login", "profile-management", "registration", "user", "user-management", "user-profile", "user-profiles", "users"]
   }
 ]

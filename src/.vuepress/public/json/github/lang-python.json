@@ -4219,5 +4219,15 @@
     "desc": "Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "levihsu/OOTDiffusion",
+    "desc": "Official implementation of OOTDiffusion",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "vvbbnn00/WARP-Clash-API",
+    "desc": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+    "officialSite": "",
+    "topics": ["clash", "cloudflare", "docker", "docker-compose", "flask", "shadowrocket", "warp", "warp-plus"]
   }
 ]

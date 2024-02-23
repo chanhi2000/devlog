@@ -138,4 +138,8 @@ tag:
 
 ---
 
+## falstad
+
+- [Math, Physics, and Engineering Applets](https://falstad.com/mathphysics.html)
+
 <TagLinks />

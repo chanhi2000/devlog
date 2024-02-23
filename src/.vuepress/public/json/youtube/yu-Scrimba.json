@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/1-4XurcrfGySCcRZrY8r3Uh_iwlwIssrdMdXyIlimCiAZNObH6voe2jYZzEtwwSmFpnfeaw9KQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I6oPSY-0cZw", "title": "Framework for Navigating Today's Job Market, with Career Coach Adam Broda" },
+    { "id": "4zZm9tOoCa0", "title": "Everybody's Doing Their Best... Even Tech Recruiters (and This Is How to Get Their Attention)" },
+    { "id": "nD1V18VBNcw", "title": "The State of React (and Should You Still Learn It in 2024), with Dev Agrawal" },
     { "id": "L9JCLG6bUjA", "title": "Demystifying AI: What Are Foundation Models (and How to Use Them), with Tom Chant" },
     { "id": "Y0tc4DTS0e8", "title": "JavaScriptmas PrizeFest" },
     { "id": "wS9Pq2zss68", "title": "What Is Retrieval-Augmented Generation and How to Make AI Work for You, with Guil Hernandez" },

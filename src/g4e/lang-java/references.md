@@ -147,6 +147,7 @@ tag:
 
 - [Fuzz Testing Is the Best Thing To Happen to Our Application Tests](https://questdb.io/blog/fuzz-testing-questdb)
 - [Concurrent Data Structure Design Walkthrough](https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough)
+- [The Billion Row Challenge (1BRC) - Step-by-step from 71s to 1.7s](https://questdb.io/blog/billion-row-challenge-step-by-step/)
 
 ### 프뚜
 

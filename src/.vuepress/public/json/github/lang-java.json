@@ -584,5 +584,10 @@
     "desc": "i茅台app自动预约，每日自动预约，支持docker一键部署",
     "officialSite": "https://oddfar.github.io/campus-doc/campus-imaotai",
     "topics": []
+  }, {
+    "repo": "camunda/camunda-bpm-platform",
+    "desc": "Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.",
+    "officialSite": "https://camunda.com/",
+    "topics": ["bpm", "bpmn", "camunda-bpm-platform", "camunda-engine", "cmmn", "dmn", "java", "process-engine", "workflow"]
   }
 ]

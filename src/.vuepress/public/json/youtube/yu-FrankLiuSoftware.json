@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Ozymxud6x9Y", "title": "10. Data Types date, time, datetime | SQL for Beginners" },
+    { "id": "Ywyji4EzC4E", "title": "11. Column Constraints NOT NULL  | SQL for Beginners" },
+    { "id": "tdrjpFSxfB8", "title": "12. Column Constraints UNIQUE | SQL for Beginners" },
+    { "id": "_X-gj0_y_RE", "title": "13. Column Constraints CHECK | SQL for Beginners" },
+    { "id": "5Ek-1ABWZnM", "title": "14. Column Constraints PRIMARY KEY & Identity column| SQL for Beginners | SQL Tutorial" },
+    { "id": "ToLuKcRlgFQ", "title": "15. Modify existing tables | SQL for Beginners | SQL Tutorial" },
+    { "id": "voTZUMw23pg", "title": "SQL Tutorial for Beginners with SQL Server | Full Course | 2024" },
     { "id": "ywTm4T-zFQ0", "title": "6. Create & Delete Database | SQL for Beginners" },
     { "id": "a8yifLDQsQA", "title": "7. Create Table & USE database | SQL for Beginners" },
     { "id": "G18A1t8TBE4", "title": "8. Data Types Char, Varchar, NChar, NVarchar | SQL for Beginners" },

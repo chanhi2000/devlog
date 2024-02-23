@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/odeiQRIFsqqxe1ra3bTiAUxexuHzM4DJ7rHt-T8BOhVvMqDwtGUskvGy8OMNYxl1Cc5fsDPAB-c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-gXdB8ngo-I", "title": "Getx, BLoC, Riverpod and Backend" },
+    { "id": "lDcDlweP-n8", "title": "Upcoming Riverpod E-commerce Clean Architecture Course" },
+    { "id": "yY5Pd6ZIu8Y", "title": "An insightful discussion with Flutter BLoC creator Felix" },
+    { "id": "JvqR6UqMeaI", "title": "A Discussion With Felix (Bloc creator) | A life Saver of Flutter Community" },
+    { "id": "hsyhulNf5i8", "title": "Riverpod and Cubit Head to Head Comparison" },
+    { "id": "qjIRj0U3WWE", "title": "Flutter Service Locator and Dependency Injection" },
+    { "id": "lPUES5Fawk4", "title": "Flutter clean architecture Q & A" },
+    { "id": "G2klGUIldgQ", "title": "Flutter Multi Vendor Food App | Part 3" },
+    { "id": "8NiL0VTHBfk", "title": "Advanced Software Engineering Course | Flutter | Nodejs | Dart | Clean Architecture | Part 1" },
+    { "id": "wLTO3O2So6I", "title": "GetX   Riverpod   BLoC which one to choose" },
+    { "id": "tc6hstlMJJk", "title": "Flutter A System Design Course" },
     { "id": "KfVf67MtqiY", "title": "Flutter Production Ready E-commerce App With BLoC Clean Architecture" },
     { "id": "ZabKUhs-82s", "title": "Flutter Multi Vendor App CustomAppBar" },
     { "id": "KbnWsTXPbk4", "title": "React Native Multi Vendor Part 3" },

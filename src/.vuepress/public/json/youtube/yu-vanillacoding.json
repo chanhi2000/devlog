@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "vanillacoding",
+    "name": "바닐라코딩",
+    "profile": "https://yt3.googleusercontent.com/47tcqsKkIVwRlJtn5bkra7oFi2kr4R81st6dzStl_pLAV0xrhNfOcmK16yCo1mAaQ7fLaO-p=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XjDQlzF__E-Z4ZxRleT8aWs4FWW6Uexr5nAel4MXuAX0CwiQZYEr3wljhEXYmNn-lb3RnmaWxg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6MoEPR1zJIk", "title": "대기업에서 문서작업하던 문과생들이 개발 배워서 PDF 문서 웹 에디터를 만들었다! 📋 | 바닐라코딩 부트캠프 14기 TEAM Thinking in Human 의 Noted" },
+    { "id": "pLsJN5pYusk", "title": "개발자 신입이 Next.js로 Vercel을 따라 만들다가 Headless CMS도 만들었다! 🤪 | 바닐라코딩 부트캠프 13기 우수수료생의 Jaam Toast" },
+    { "id": "jczi5dA1LLg", "title": "국회 비서관 출신 문과생이 자바스크립트 엔진 시각화했습니다 💫 | 바닐라코딩 부트캠프 14기 TEAM Code Blue 의 Heap Tracker" },
+    { "id": "FAiiB56Kczs", "title": "🕺🏻🕺🏻 코딩 4개월 만에 만든 흥겨운 오투잼! | 바닐라코딩 부트캠프" },
+    { "id": "mFMScKifrl0", "title": "🎯[한정공개] 부트캠프 수강생이 리액트 렌더링 내부 로직을 파헤친 결과 | 바닐라코딩 부트캠프" },
+    { "id": "2CIAJUHO8mg", "title": "💎[놀람주의] 인셉션 보신 분들 꼭 보세요. 진짜 신기한 3D 웹 프로젝트 👀 | 바닐라코딩 부트캠프" },
+    { "id": "r_383F8gY-o", "title": "자바스크립트로 나만의 iOS 게임을 만들다 🐷 | 바닐라코딩 부트캠프 13기 이정진의 Pigs can fly!" },
+    { "id": "Tql8BFjclvg", "title": "Tensorflow를 활용해 제스쳐를 학습하는 머신러닝 웹 그림판 🎨 | 바닐라코딩 부트캠프 14기 강현준의 Motion Draw" },
+    { "id": "Lc9OmBfY2iI", "title": "👩🏻‍🏫[인기] 평생직장 교사 그만두고, 2주만에 암벽등반 물리엔진까지 직접 구현했다고?! | 바닐라코딩 부트캠프" },
+    { "id": "q2_Wa-n9fr4", "title": "📽️ 웹으로 구현한 영상 에디터 최적화 작업 후기 feat. 선형보간법 💫 | 바닐라코딩 부트캠프" },
+    { "id": "zt7CDfHvcS8", "title": "개발 관련 참고 자료는 언제, 어떻게 활용해야 하쥬? 😫 | 페어 프로그래밍" },
+    { "id": "tS36y6-bBiw", "title": "자바스크립트 React Native로 나만의 AI 앱 서비스 구축하기 🤖 | 바닐라코딩 부트캠프" }
+  ]
+}

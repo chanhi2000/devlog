@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/NjvnLlpS-1GO34_8vPqKdDRdNJSmU59L7NuA7GYRoQhhdbM9Buup8zs6I023DOJQz6y2VNIz=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vBnOFld0jFw", "title": "#9 Flutter Bloc Favourite App | Flutter Bloc State Management Complete Course 2024" },
+    { "id": "qo0gsC8CkrU", "title": "Flutter || Bloc || Jobs || Internships" },
+    { "id": "u1xtSA1By_E", "title": "#10 Flutter Get API using Bloc || Flutter Bloc State Management Complete Course 2024" },
+    { "id": "dKvY8Epe-o4", "title": "#11 Flutter Filter API List using Bloc || Flutter Bloc State Management Complete Course 2024" },
+    { "id": "V8zPDFLYzt8", "title": "Flutter Create Shopping Cart in 5 minutes || Flutter Persistent Shopping Cart Package" },
     { "id": "kFgiRPsK6ho", "title": "CI/CD in Flutter using Github Actions || Automate flutter build and release using Github Actions" },
     { "id": "4oGJ10-gzTg", "title": "How to create Professional Github README Profile in Hindi/Urdu" },
     { "id": "gbkatO3QvKk", "title": "Flutter Bloc Roadmap || Flutter Bloc State Management Complete Course 2024" },

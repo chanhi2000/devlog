@@ -314,5 +314,10 @@
     "desc": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
     "officialSite": "https://www.v2ray-agent.com",
     "topics": ["cloudflare", "grpc-cloudflare", "hysteria2", "nginx", "reality", "reality-grpc", "reality-xtls-rprx-vision", "shell", "sing-box", "trojan", "trojan-grpc", "tuic-v5", "v2ray", "vless", "vmess", "websockettlscdn-cloudflare-ip", "xray", "xray-core", "xray-install", "xtls-rprx-vision"]
+  }, {
+    "repo": "bluesky-social/pds",
+    "desc": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
+    "officialSite": "",
+    "topics": ["atproto", "bluesky", "self-hosted"]
   }
 ]

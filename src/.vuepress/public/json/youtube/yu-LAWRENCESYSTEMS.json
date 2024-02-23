@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/zxeh6xgShj-D5EhmdS23h4MzK7qCmY9Z_5J25Bg9RFsuI1UENvJqUnP2QKXmDgapUAbaFMnc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_-S02GSUWps", "title": "Client Project: Hashcat Testing With an AMD Epyc Supermicro Nvidia GPU Server Using Proxmox" },
+    { "id": "a3LbQow7i4Q", "title": "Step-by-Step Guide: Sending Windows Event Logs to Graylog With NXLOG" },
+    { "id": "1ZOhviksEEY", "title": "Understanding Sysmon & Threat Hunting with A Cybersecurity Specialist & Incident Detection Engineer" },
+    { "id": "sEpMp6SG_g8", "title": "Choosing the Best Hosting for Your UniFi Controller: Hostifi, UniFi, or CloudKey?" },
+    { "id": "gsN_CJJDy_o", "title": "Data Center Tour & Technical Deep Dive into the Power, Data and Cooling Infrastructure!" },
+    { "id": "RZK3i6hD3VE", "title": "The Future of TrueNAS..." },
+    { "id": "8GiN76HNuss", "title": "TrueNAS Scale Or TrueNAS Core In 2024?" },
+    { "id": "H5PJ_tHQlZk", "title": "XCP-ng Networking Explained: From Interface Setup to VLANs and SDN" },
+    { "id": "FB-hJztxG84", "title": "VLOG Thursday 370: My Forum Updates, XCP-NG & Xen Orchestra Updates, Home Lab, Tech Talk Live Q&A" },
     { "id": "fuS7tSOxcSo", "title": "How to Easily Build The Full Version of Xen Orchestra From Source with XenOrchestraInstallerUpdater" },
     { "id": "LP4dIl8Y_Xw", "title": "Quick & Easy 5-Minute UniFi Self Hosted Debian 12 Controller Setup & Update Script" },
     { "id": "r1AigmvUuUk", "title": "VLOG Thursday 365: Codemash 2024, My Story, Tech Talk, and Live Q&A" },

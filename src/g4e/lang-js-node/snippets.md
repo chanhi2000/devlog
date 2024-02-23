@@ -78,16 +78,16 @@ deleteWatchLater();
 
 ```js
 // const channelId = document.querySelector('#channel-handle.ytd-c4-tabbed-header-renderer').innerHTML.replace('@', '')
-const channelId = document.querySelector('span.yt-core-attributed-string.yt-content-metadata-view-model-wiz__metadata-text').innerHTML.replace('@', '')
+const channelId = document.querySelector('yt-formatted-string#channel-handle').innerHTML.replace('@', '')
 // const channelNameTag = document.querySelector('#text.ytd-channel-name').innerHTML
-const channelNameTag = document.querySelector('h1.dynamic-text-view-model-wiz__h1 > span.yt-core-attributed-string').innerHTML
+const channelNameTag = document.querySelector('yt-formatted-string.ytd-channel-name').innerHTML
 const channelName = (channelNameTag.match(/^(.*?)<span/g) == null) ? channelNameTag : channelNameTag.match(/^(.*?)<span/g)[0].replace('<span', '')
 // const profileImg = document.querySelector('#img.yt-img-shadow').src
-const profileImg = document.querySelector('.yt-spec-avatar-shape__image.yt-core-image').src
+const profileImg = document.querySelector('#avatar img.yt-img-shadow').src
 // const bannerImg = document.querySelector('yt-image-banner-view-model .yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded')?.src ?? '';
-// const bannerImgTag = document.querySelector('.page-header-banner-image.ytd-c4-tabbed-header-renderer');
-// const bannerImg = (bannerImgTag == null || bannerImgTag == undefined) ? '' : window.getComputedStyle(bannerImgTag).getPropertyValue('--yt-channel-banner').replace('url(', '').replace(')', '');
-const bannerImg = document.querySelector('#page-header-banner-sizer yt-image-banner-view-model img')?.src
+const bannerImgTag = document.querySelector('.page-header-banner-image.ytd-c4-tabbed-header-renderer');
+const bannerImg = (bannerImgTag == null || bannerImgTag == undefined) ? '' : window.getComputedStyle(bannerImgTag).getPropertyValue('--yt-channel-banner').replace('url(', '').replace(')', '');
+// const bannerImg = document.querySelector('.page-header-banner-image yt-image-banner-view-model img')?.src
 
 
 const o = {
