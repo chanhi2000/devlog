@@ -1244,5 +1244,10 @@
     "desc": "Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",
     "officialSite": "https://www.ory.sh/kratos/?utm_source=github&utm_medium=banner&utm_campaign=kratos",
     "topics": ["hacktoberfest", "identity", "identity-management", "login", "profile-management", "registration", "user", "user-management", "user-profile", "user-profiles", "users"]
+  }, {
+    "repo": "ollama/ollama",
+    "desc": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+    "officialSite": "https://ollama.com",
+    "topics": ["go", "golang", "llama", "llama2", "llm", "llms", "mistral", "ollama"]
   }
 ]

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ycUdmPzJ_Xoxq2iNyruiKxdg9bswk3txdlYpKC082dylUc6qdDwSE-1LOtkPvHhghunL0bReqXQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DP4qaHOvhJI", "title": "Launch a decision tree with a Zendesk macro" },
     { "id": "9MpOkH7y-WA", "title": "Create custom decision trees with PixieBrix" },
     { "id": "KLccVM1NHcQ", "title": "Create your own notices and browser alerts with PixieBrix" }
   ]

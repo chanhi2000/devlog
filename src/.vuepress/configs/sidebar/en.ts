@@ -789,6 +789,9 @@ export const sidebarEn = sidebar({
         '/academics/COEN020/read01b.md',
         '/academics/COEN020/read01c.md',
         '/academics/COEN020/read01d.md',
+        '/academics/COEN020/lect02.md',
+        '/academics/COEN020/ex01.md',
+        '/academics/COEN020/hw.md',
       ]
     }, {
       text: 'PHYS034',

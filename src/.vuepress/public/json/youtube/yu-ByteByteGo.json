@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/9BCeBFuI8LqoAS9rWKmAZIAy4bMn7zFQaa6WqOoezPiyNf_sJ4Dd_Tut0WvwSkFJTff2RXwxG9g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bbmWOjuFmgA", "title": "Linux File System Explained!" },
+    { "id": "UN1kW5AHid4", "title": "How Disney Hotstar Captures One Billion Emojis!" },
+    { "id": "dnFPWJ5nPvo", "title": "What’s Behind Kubernetes? #javascript #python #web #coding #programming" },
+    { "id": "_gQaygjm_hg", "title": "Good APIs Vs Bad APIs: 7 Tips for API Design" },
+    { "id": "jCd6XfWLZsg", "title": "Top 6 Tools to Turn Code into Beautiful Diagrams" },
     { "id": "I5c7fBgvkNY", "title": "Everything You NEED to Know About Client Architecture Patterns" },
     { "id": "7kJAJREtAlo", "title": "Latency vs Throughput. Know the difference? #javascript #python #web #coding #programming" },
     { "id": "Bc6oyURRIxQ", "title": "Kafka Basics #javascript #python #web #coding #programming" },

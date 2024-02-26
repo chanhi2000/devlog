@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/HsOID_2Ri-jtwLjcRyT6c0CqH9hmSJgJDhmlcFPID77EtAZKZSwCjlWOLN9I4vEM1kmzrTszWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nn3vYS_msc0", "title": "Modern CSS, the state of the web, Safari's progress, and more! With Jen Simmons" },
+    { "id": "x3MTfp3HDLc", "title": "Most people have no idea you can style underlines like this" },
+    { "id": "OtqZKLdDNXY", "title": "Unfamiliar CSS patterns that improve on the classics" },
+    { "id": "2rlWBZ17Wes", "title": "Learn how to use Media queries & Container queries" },
+    { "id": "LEkFckg7sfw", "title": "Use this instead of media queries or container queries" },
+    { "id": "FD3aC_Ke8uk", "title": "Is this a good idea?" },
+    { "id": "3T-RETzcqpU", "title": "Can I recreate this tucked-corner photo effect with CSS?" },
+    { "id": "6syHgywgGTA", "title": "Taking on a CSS Battle Live" },
+    { "id": "oiai47goI6A", "title": "The background values no one knows about" },
+    { "id": "SOIRyQEv2p8", "title": "These two CSS features make colors a breeze" },
     { "id": "SkML640BcoA", "title": "Create a clean, modern navigation with HTML & CSS" },
     { "id": "x4u1yp3Msao", "title": "A practical guide to responsive web design" },
     { "id": "d10GaL6F-lA", "title": "Can I copy this text reveal scroll effect with CSS-only?" },

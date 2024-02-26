@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/YZszOyMVJh2dRmktetnCGJVHMf5QTTvjZFn9GOmsw_SYRhhruhSa37Ah3jN0KDZnURZa4rO1I0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5jRwAWjMoZU", "title": "Building Full-Stack Applications in Java with Vaadin" },
+    { "id": "9M0NggD6Mbw", "title": "Spring Boot Rest Client - How to change the underlying HTTP Client" },
+    { "id": "jhhi03AIin4", "title": "Spring Boot Rest Client - How to test HTTP calls using @RestClientTest" },
+    { "id": "CtjAwi6XByg", "title": "Spring Boot Rest Client Test Annotation" },
+    { "id": "nedhXAU8U4s", "title": "Spring Boot Rest Client Interceptors" },
+    { "id": "MAw5Ku1OVFA", "title": "Calling aJava REST API using JDK Http Client" },
+    { "id": "RiG9YORZOfc", "title": "Spring Boot Configuration Properties: Working with Lists & Maps" },
+    { "id": "9m1bC57oWrc", "title": "How to create your own custom Spring Boot Starter" },
     { "id": "ZKYFGuukhT4", "title": "Multiple JDBC Clients - How to configure multiple DataSources in Spring" },
     { "id": "w1Nzqm7MnZI", "title": "Building a new application with Spring Boot 3.2" },
     { "id": "sVXUx_Y4hRU", "title": "Introduction to Project CRaC: Enhancing Runtime Efficiency in Java & Spring Development" },

@@ -6,6 +6,18 @@
     "banner": ""
   },
   "videos": [
+    { "id": "JpluUTVyfNo", "title": "Selenium WebDriver - Java | Handling iFrames | 08" },
+    { "id": "Vpbj5u2P7M8", "title": "Selenium WebDriver - Java | Handling Tooltips | 09" },
+    { "id": "y9Ht_sBI_l0", "title": "Selenium WebDriver - Java | Actions | Handling Drag And Drop | 10" },
+    { "id": "3AKnnnR_aUs", "title": "Selenium WebDriver - Java | Actions | Handling Menus & Sub Menus | 11" },
+    { "id": "7XF1bFLHutA", "title": "Selenium WebDriver - Java | Actions | Handling ContextClick & DoubleClick | 12" },
+    { "id": "tjOtP2ZBPws", "title": "Building Websites | Medical Store | ChatGPT" },
+    { "id": "4Ckdyyu2oeQ", "title": "Building Websites | Library Store | ChatGPT" },
+    { "id": "txANaw-EBuE", "title": "Building Websites | Login Page| BlackBox.ai" },
+    { "id": "jf7SsiVK-wU", "title": "Building Websites | ChequeBook Request Page | BlackBox.ai" },
+    { "id": "qql2DM2hZVQ", "title": "Building Websites | Register Page| BlackBox.ai" },
+    { "id": "AQ8nejmgLTg", "title": "Building Websites | Calc | BlackBox.ai" },
+    { "id": "Z1ivi6aWuHw", "title": "How to take XPath so easy - SelectorsHub" },
     { "id": "dh7I2kBzhb8", "title": "Selenium WebDriver +Java  | Coding | Challenges" },
     { "id": "OpFxobFFIu0", "title": "Selenium WebDriver - Java | Browser Commands" },
     { "id": "dHyKxuNRKTc", "title": "Selenium WebDriver - Java |  Maximize Browser and Close" },

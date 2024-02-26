@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/wZPQXRO4qeti6imMlGRbxBY9WDMgxT7_9ZZ0ihqJjflYS08qkHmaj3wBujeI2xsxlJFinxhRd8o=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "L4Aa3oWaaTE", "title": "Exploring the Guile Scheme Ecosystem - System Crafters Live!" },
+    { "id": "hQXmLbNIbWA", "title": "Writing Manuals with Texinfo in Emacs - System Crafters Live!" },
+    { "id": "xzm5xiQKJB8", "title": "Craftable Terminal Sessions with Zellij - System Crafters Live!" },
+    { "id": "0wKgTMdWyHc", "title": "Writing an IRC Bot with Guile Scheme - System Crafters Live!" },
+    { "id": "I6cDYLjjZKQ", "title": "Hype Skeptic: Testing Hyprland - System Crafters Live!" },
     { "id": "kU7IgC7-Ics", "title": "Lisp-Flavored Lua with Fennel - System Crafters Live!" },
     { "id": "3eXK9YZ0NjU", "title": "5 Reasons to Learn Scheme in 2024" },
     { "id": "pqrFAsO0KA4", "title": "Comparing Emacs Workspace Packages - System Crafters Live!" },
@@ -17,5 +22,3 @@
     { "id": "E-NAM9U5JYE", "title": "Emacs From Scratch #8 - Build Your Own IDE with lsp-mode" }
   ]
 }
-
-

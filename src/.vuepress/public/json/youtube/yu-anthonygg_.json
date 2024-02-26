@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/xnFag7pveZKka94nV4Qn62kPrqwwIOuTs4k6RDpZwzxW_QCqyJoxCLB9wHnBAYaEP3SlUBGHbA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iu_5ALwn5OE", "title": "Go Web Development With HTMX And Templ" },
+    { "id": "pd1fUEKb13U", "title": "Junior Developer Coding in Go + HTMX + Templ - DAY 7305" },
+    { "id": "j_eNlh1ycnc", "title": "Building Onboarding Forms With Go And HTMX" },
+    { "id": "zDN9D_840cc", "title": "Another Amazing Use Case For The FOP Pattern In Go" },
+    { "id": "jeh5Ymfwh9Q", "title": "Golang + HTMX Is The Most Productive Stack And This Is Why" },
+    { "id": "6Pj-Vlhp31Y", "title": "HOT Reloading The Browser With Templ, Tailwind, And Golang" },
     { "id": "mJ5AnOTjtI4", "title": "Adding JavaScript Support To Run. What Is Run?" },
     { "id": "WGRHqVRrdY8", "title": "Low Level Problems In Go" },
     { "id": "g3_VHSETXRE", "title": "Coding Distributed WASM Runtimes For Raptor In Go" },

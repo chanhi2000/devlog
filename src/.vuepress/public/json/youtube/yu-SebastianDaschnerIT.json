@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/ZQcq71wilh6QLITxyGFB7fOuKVKi2ELVj6Pz_mHiGbsUn-Yw8eRAV8ie-RzHEpDCoZ47vKRx=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ewpk5kGfbko", "title": "Effective Developer Workflows With Quarkus" },
+    { "id": "kp0kfcgMT_U", "title": "Why I'm Using a Tiling Window Manager" },
+    { "id": "ktGq4ks1f74", "title": "How To Become Better At The Keyboard" },
     { "id": "HsXGMN1Xups", "title": "Quarkus Panache Active Record vs. Repository Pattern" }, 
     { "id": "dFZjr3DYdA0",  "title": "Helpful Command Line Scripts and Automation in My Setup" }, 
     { "id": "HcxLzrv_BCY",  "title": "How to Use Java Records With Quarkus" }, 
@@ -21,5 +24,3 @@
     { "id": "xw_PYkZggKI",  "title": "Configuring plain Java using MicroProfile Config" } 
   ]
 }
-
-

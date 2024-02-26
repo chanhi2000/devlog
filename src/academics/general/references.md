@@ -142,4 +142,12 @@ tag:
 
 - [Math, Physics, and Engineering Applets](https://falstad.com/mathphysics.html)
 
+---
+
+## Key Material 
+
+- [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
+
+---
+
 <TagLinks />

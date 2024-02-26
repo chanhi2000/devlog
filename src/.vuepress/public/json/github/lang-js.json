@@ -1974,5 +1974,20 @@
     "desc": "A user-friendly CMS for static site generators.",
     "officialSite": "https://pagescms.org",
     "topics": ["11ty", "astro", "cms", "docusaurus", "eleventy", "gatsby", "hugo", "jekyll", "nextjs", "ssg", "static-site", "static-site-generator", "vitepress", "vue", "vuejs", "vuejs3", "vuepress"]
+  }, {
+    "repo": "facebook/react-strict-dom",
+    "desc": "React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mozilla/readability",
+    "desc": "A standalone version of the readability lib",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "MattCozendey/doom-console-log",
+    "desc": "🕹️ DOOM rendered via console.log() in a web browser.",
+    "officialSite": "https://mattcozendey.github.io/",
+    "topics": ["browser", "doom", "log"]
   }
 ]

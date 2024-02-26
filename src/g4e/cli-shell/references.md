@@ -189,6 +189,12 @@ tag:
 
 ---
 
+## Jan-Piet Mens
+
+- [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

@@ -19,7 +19,6 @@ tag:
   - "@ResoCoder"
   - "@discospiff"
   - "@DailyCodeBuffer"
-  - "@DanVega"
   - "@tookootek"
   - "@keesun.b"
   - "@ntigo"
@@ -138,7 +137,6 @@ head:
 <MyYouTubeItems jsonName="yu-ResoCoder" /><!-- Reso Coder -->
 <MyYouTubeItems jsonName="yu-discospiff" /><!-- Brandan Jones -->
 <MyYouTubeItems jsonName="yu-DailyCodeBuffer" /><!-- Daily Code Buffer -->
-<MyYouTubeItems jsonName="yu-DanVega" /><!-- Dan Vega -->
 <MyYouTubeItems jsonName="yu-tookootek" /><!-- tookootek -->
 <MyYouTubeItems jsonName="yu-keesun.b" /><!-- 백기선 -->
 <MyYouTubeItems jsonName="yu-ntigo" /><!-- 김대협 -->

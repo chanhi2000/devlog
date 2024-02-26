@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/y7dd6gwWCGHhLAZtBRYETqk0Rn9u24vWkBMtwOJH7l4ayVupWul1tI8ajVmlEUw8uNHYqZc0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "epBYdlHe8Rs", "title": "Create RESTful Web API with CRUD Operations using Spring Boot and MySQL | Create Read Update Delete" },
+    { "id": "7zfby5D5hSM", "title": "[FIXED] SyntaxError: Cannot use import statement outside a module" },
+    { "id": "1eTFJ__VQKc", "title": "Web API with CRUD Operations using Node JS, Express and MySQL | RESTful Web API | Postman + XAMPP" },
+    { "id": "T-e554Zt3n4", "title": "Create ASP.NET Core Web Application With SQL Server Database Connection and CRUD Operations" },
+    { "id": "sceitmw57aQ", "title": "Build ASP.NET Core Web Application using Visual Studio Code and .NET 8 | Install C# Extensions" },
+    { "id": "G3tfbB-VGKg", "title": "Create ASP.NET Web Application with Entity Framework and SQL Server using Visual Studio Code 2024" },
     { "id": "AOV0stL45iE", "title": "[FIXED] Error creating bean with name 'entityManagerFactory' defined in class path resource due to" },
     { "id": "6zfIxgaVkQI", "title": "CRUD Operations using Spring Boot + Spring MVC + MySQL + Thymeleaf | Create, Read, Update and Delete" },
     { "id": "KSiq0xZllVc", "title": "Create Your First React Application using Visual Studio Code" },

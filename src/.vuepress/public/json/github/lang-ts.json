@@ -2278,5 +2278,25 @@
     "desc": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
     "officialSite": "https://app.nextchat.dev/",
     "topics": ["chatgpt", "cross-platform", "desktop", "fe", "gemini", "gemini-pro", "gemini-server", "gemini-ultra", "nextjs", "react", "tauri", "tauri-app", "vercel", "webui"]
+  }, {
+    "repo": "SoraWebui/SoraWebui",
+    "desc": "SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.",
+    "officialSite": "https://sorawebui.com/",
+    "topics": ["openai", "sora", "webui"]
+  }, {
+    "repo": "laurent22/joplin",
+    "desc": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+    "officialSite": "https://joplinapp.org",
+    "topics": ["android", "dropbox", "electron", "enex-files", "evernote", "javascript", "joplin", "nextcloud", "nodejs", "note-taking", "onedrive", "react-native", "synchronisation", "web-clipper", "webdav"]
+  }, {
+    "repo": "radix-vue/radix-vue",
+    "desc": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+    "officialSite": "https://radix-vue.com",
+    "topics": ["accessibility", "accessible", "component-library", "design-system", "headless", "nuxt", "primitives", "radix-ui", "ui", "ui-components", "ui-kit", "vue", "vue-component-library", "vue-components", "vue-radix"]
+  }, {
+    "repo": "functional-ui/functional-ui-kit",
+    "desc": "Precise Figma & React components. Packed with best practices, unified prop names & consistent design and code.",
+    "officialSite": "https://functional-ui-kit.com",
+    "topics": ["design-system", "figma", "front-end", "front-end-development", "frontend", "react", "react-components", "storybook", "ui-components", "ui-design", "ui-library", "uikit", "ux-design", "ux-ui"]
   }
 ]

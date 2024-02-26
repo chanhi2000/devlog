@@ -2,6 +2,16 @@
 lang: ko-KR 
 title: Read 01c
 description: COEN020 > Read 01c
+category: 
+  - SCU
+  - COEN020
+  - Computer Engineering
+tag: 
+  - "coen"
+  - "coen020"
+  - "scu"
+  - "cpp"
+  - "c"
 ---
 
 # {{ $frontmatter.title }} 관련

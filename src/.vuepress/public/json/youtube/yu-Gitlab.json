@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "WyrhkpO5WkI", "title": "Implementing Custom Roles and Granular Security Permissions with GitLab" },
+    { "id": "jvZ3eqWMeSY", "title": "Introduction to the Principle of Least Privilege with GitLab" },
+    { "id": "eyr5YnkWq_I", "title": "GitLab Continuous Integration Overview (v2)(HD)" },
+    { "id": "timMbl5SP-w", "title": "Tutorial: Integrating a custom security scanner with GitLab" },
     { "id": "ZPN-OQCxs18", "title": "Dashboard  de Segurança - Testes Avançados de Segurança (HD) - (Portuguese-Brazil)" },
     { "id": "m2DAxYIez4s", "title": "GitLab Epics - Configurando sua organização com GitLab (HD) - (Portuguese-Brazil)" },
     { "id": "Db0tUg92IHo", "title": "DORA metrics - Análise do usuário (HD) - (Portuguese-Brazil)" },

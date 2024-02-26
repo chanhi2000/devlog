@@ -143,4 +143,10 @@ tag:
 
 ---
 
+## aspiring.dev
+
+- [Building a Fly.io-like Scheduler Part 2: Resource Requirements and Multi-Region](https://www.aspiring.dev/fly-io-scheduler-part-2/)
+
+---
+
 <TagLinks />

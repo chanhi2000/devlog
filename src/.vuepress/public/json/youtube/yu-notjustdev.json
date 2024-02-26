@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3cD5UFWsNOA", "title": "Building the Ultimate Workout Tracker with React Native & MongoDB" },
+    { "id": "7MbFDnR_6HM", "title": "Building a Full Stack Workout Tracker with React Native & MongoDB" },
+    { "id": "i5UqNMZUUKM", "title": "In-app Subscriptions & Paywalls with RevenueCat in React Native" },
+    { "id": "EhRTGyyK644", "title": "Unboxing Expo SDK 50 and Expo Router V3" },
+    { "id": "i4jKoTlSqvI", "title": "Infinite Scroll in React Native: Pagination with FlatList" },
+    { "id": "Z1UkQuwY4bk", "title": "Let's Build a STOCKS Price Tracker with React Native (step-by-step tutorial)" },
+    { "id": "rIYzLhkG9TA", "title": "React Native Full 8 Hours Course (Expo, Expo Router, Supabase)" },
+    { "id": "UYQSVH6B1k4", "title": "Build and Deploy a GraphQL API using NodeJS (tutorial for beginners)" },
+    { "id": "9F4aICEisVI", "title": "Build Flappy Bird with React Native: Skia & Reanimated Tutorial" },
     { "id": "8ZgSt3VJ5Mc", "title": "Instagram Stories in React Native with Reanimated | DEVember Day 18" },
     { "id": "fvtxgwa5NJA", "title": "Global State Management with Zustand in React Native | DEVember Day 17" },
     { "id": "gBslnnhsEq0", "title": "Mastering React Context for State Management in React Native | DEVember Day 16" },

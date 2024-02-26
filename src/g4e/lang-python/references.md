@@ -325,4 +325,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## astrid dot tech
+
+- [Abusing Conda's Turing-Complete YAML Comments](https://astrid.tech/2024/02/24/0/conda-recipe-selector-abuse/)
+
+---
+
 <TagLinks />

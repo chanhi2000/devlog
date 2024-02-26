@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/bQ8tYTXxD7v9-o3rvg2XzKS23Rdza-Ug7uUUqSF869fq5_aPqVtinn1CMO5H5pqObMnd4xzTus0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mbFY3Rwv7XM", "title": "I made JIT Compiler for Brainf*ck lol" },
+    { "id": "p60L-TOecik", "title": "GameDev in Assembly?!" },
+    { "id": "GvWCpsZcaBE", "title": "Easy Annoying Popups in C" },
+    { "id": "H_cnrhVYsK0", "title": "Easy Web Games in C" },
+    { "id": "i4Tam03E-Oc", "title": "Rewriting Raylib from C to JavaScript" },
+    { "id": "Bafo3hhheHU", "title": "Unreasonable Effectiveness of Abstractions" },
+    { "id": "2E3E_Rh3mvw", "title": "Hare Programming Language" },
+    { "id": "JTjNoejn4iA", "title": "Is this the Future of Programming Languages?" },
     { "id": "K7hWqxC_7Mw", "title": "Ridiculously Easy 3D in C" },
     { "id": "ZN4Nk4zHksU", "title": "You don't need DOM" },
     { "id": "9n39SbRPXKQ", "title": "Zip works Better than AI" },

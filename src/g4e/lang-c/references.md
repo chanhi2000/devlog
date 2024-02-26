@@ -207,6 +207,12 @@ tag:
 
 ---
 
+## Chiark
+
+- [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

@@ -319,5 +319,10 @@
     "desc": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
     "officialSite": "",
     "topics": ["atproto", "bluesky", "self-hosted"]
+  }, {
+    "repo": "MegaManSec/SSH-Snake",
+    "desc": "SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.",
+    "officialSite": "https://megamansec.github.io/SSH-Snake/",
+    "topics": ["bash", "cybersecurity", "exploitation", "exploitation-tool", "hacking", "hacking-tools", "pentesting", "post-exploitation", "redteam", "scanner", "security", "security-tools", "shell", "ssh", "ssh-hacking", "vulnerability-scanner", "worm"]
   }
 ]

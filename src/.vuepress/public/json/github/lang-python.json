@@ -4229,5 +4229,40 @@
     "desc": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
     "officialSite": "",
     "topics": ["clash", "cloudflare", "docker", "docker-compose", "flask", "shadowrocket", "warp", "warp-plus"]
+  }, {
+    "repo": "WongKinYiu/yolov9",
+    "desc": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+    "officialSite": "",
+    "topics": ["yolov9"]
+  }, {
+    "repo": "Azure/PyRIT",
+    "desc": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+    "officialSite": "",
+    "topics": ["ai-red-team", "generative-ai", "red-team-tools", "responsible-ai"]
+  }, {
+    "repo": "google/gemma_pytorch",
+    "desc": "The official PyTorch implementation of Google's Gemma models",
+    "officialSite": "https://ai.google.dev/gemma",
+    "topics": ["gemma", "google", "pytorch"]
+  }, {
+    "repo": "soufianetahiri/Anxun-isoon",
+    "desc": "I-SOON/Anxun leak related stuff",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "altair-viz/altair",
+    "desc": "Declarative statistical visualization library for Python",
+    "officialSite": "https://altair-viz.github.io/",
+    "topics": []
+  }, {
+    "repo": "ronibandini/reggaetonBeGone",
+    "desc": "detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)",
+    "officialSite": "https://bandini.medium.com/reggaeton-be-gone-6fa55f46a9d7",
+    "topics": ["bluetooth", "ddos", "machine-learning", "music", "python", "reggaeton"]
+  }, {
+    "repo": "epogrebnyak/justpath",
+    "desc": "Inspect and refine PATH environment variable on both Windows and Linux.",
+    "officialSite": "",
+    "topics": ["command-line", "environment-variables", "environments", "filesystem", "path", "python"]
   }
 ]

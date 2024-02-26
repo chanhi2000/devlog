@@ -52,5 +52,8 @@ head:
 <MyYouTubeItems jsonName="yu-devtiro" /><!-- Devtiro -->
 <MyYouTubeItems jsonName="yu-codefarm0" /><!-- Codefarm -->
 <MyYouTubeItems jsonName="yu-KenuHeo" /><!-- Kenu Heo -->
+<MyYouTubeItems jsonName="yu-HanbitMedia93" /><!-- 한빛미디어 -->
+<MyYouTubeItems jsonName="yu-DanVega" /><!-- Dan Vega -->
+<MyYouTubeItems jsonName="yu-codewithsudarshan" /> <!-- Sudarshan Shah -->
 
 <TagLinks />

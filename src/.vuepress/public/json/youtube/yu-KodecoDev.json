@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/kmAWDPAyp4zc_PHBILKm5C3yiKoRdloAsEgc-6i-HPoKKjAJD0Ni62QUwhSTPlAYbWHlGmDCAQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ciQ7Pm97z_g", "title": "Putting AI to Use in Software Development: Kodeco Podcast Episode 3, S2" },
+    { "id": "A-0E6nTXhUg", "title": "Android Fundamentals by Tutorials Trailer: Learn to Program in Android" },
     { "id": "B0YnIOER8MI", "title": "Incorporate GeoJSON into Your Swift / iOS Map - raywednerlich.com" }, 
     { "id": "ENUxsCeMz8I", "title": "Saving Data in Android with Jennifer Bailey - raywenderlich.com Season 10 Podcast" }, 
     { "id": "EKCRGHDtrcA", "title": "Gabriel Peal - MvRx (Mavericks), Android Jetpack Navigation - Ray Wenderlich Podcast - S9, E12" }, 

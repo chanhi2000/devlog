@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eOTQt66y4L0", "title": "지수분포 [파이썬으로 다루는 통계]" },
+    { "id": "JPNLJHXyGVs", "title": "[C++] Windows 그룹 목록 열거하기 - NetLocalGroupEnum 함수" },
+    { "id": "1MlDAfTNctg", "title": "키보드 후킹 라이브러리 및 앱 만들기 [C++]" },
+    { "id": "bMBm7wbZGhE", "title": "3. 그리기 WM_PAINT [Windows API]" },
+    { "id": "zZbfQn3P8Lk", "title": "이항분포  [파이썬으로 다루는 통계]" },
+    { "id": "bJ6WBXfcn5A", "title": "[C#] Windows 그룹 목록 열거하기 - NetLocalGroupEnum 함수 Dllimport" },
     { "id": "uFgNyL-MjRM", "title": "[C#] Windows 사용자 계정 목록 열거하기 - NetUserEnumd 함수 Dllimport" },
     { "id": "S6n2SjPp3Kk", "title": "포아송(POISSON)분포  [파이썬으로 다루는 통계]" },
     { "id": "L3O0m0x8nQM", "title": "[MFC, MSSQL, DLL] 상품 관리 프로그램" },
