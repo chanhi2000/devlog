@@ -1133,6 +1133,10 @@
     "desc": "SQL powered operating system instrumentation, monitoring, and analytics.",
     "officialSite": "https://osquery.io",
     "topics": ["hacktoberfest", "intrusion-detection", "monitoring", "security", "sql"]
+  }, {
+    "repo": "SuperTux/supertux",
+    "desc": "SuperTux source code",
+    "officialSite": "https://supertux.org",
+    "topics": ["c-plus-plus", "game", "games", "hacktoberfest", "opengl", "sdl", "sdl2", "supertux"]
   }
-  
 ]

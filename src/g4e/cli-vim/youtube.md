@@ -53,5 +53,6 @@ tag:
 <MyYouTubeItems jsonName="yu-MissingSemester" /><!-- Missing Semester -->
 <MyYouTubeItems jsonName="yu-thoughtbot" /><!-- thoughtbot -->
 <MyYouTubeItems jsonName="yu-theurbanpenguin" /><!-- theurbanpenguin -->
+<MyYouTubeItems jsonName="yu-MentalOutlaw" /><!-- Mental Outlaw -->
 
 <TagLinks />

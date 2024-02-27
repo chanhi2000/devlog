@@ -1,11 +1,15 @@
 {
   "channel": {
-    "id": "DannyHatcher",
-    "name": "Danny Hatcher",
+    "id": "DannyHatcherTech",
+    "name": "Danny Hatcher Tech",
     "profile": "https://yt3.googleusercontent.com/NbtWEwMTWtKbwNdIbdEPXiyfgpqjxnyo-bRGtIx4wpzVTZ7FWeFhCGrsuryIib8Dk5dxxJbBjF0=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/djzvKj7bJNpkt2QDpmqcU5x6nbCMVvVkru5d0HjWa0wQ_EyIwidCN9lgyhwm9MABkipjRvc15Jc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zEYp0BJL7MU", "title": "How I research and write in Obsidian" },
+    { "id": "rOaRLsgAa3E", "title": "Talking with @aliabdaal about research" },
+    { "id": "YnTPlBFDMPA", "title": "That don't look right" },
+    { "id": "aMS42HwCSVc", "title": "Why Notion Calendar is disappointing" },
     { "id": "jNUqCbtsyck", "title": "Research planning for 2024" },
     { "id": "db7oPb7076Y", "title": "I tried Obsidian WITHOUT community plugins" },
     { "id": "dfbT9_kww4U", "title": "Building my 'second brain' in Obsidian" },

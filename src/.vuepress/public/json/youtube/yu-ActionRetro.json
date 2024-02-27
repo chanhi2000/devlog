@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/aUq0sZ-dvzxQUH8c5TkJXTraT4kD8tsTDJESR7bhByKt5aiHrAllQIEwUqHjIfSYM1AG3mCriQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FbHdcIOH27o", "title": "Debian Runs on Literally Anything" },
+    { "id": "mBR_S8XOxgs", "title": "When Apple Made an OS for its Enemies" },
+    { "id": "sXMczdoRmdo", "title": "I Turned a 90’s Industrial PC into a Laptop" },
     { "id": "k0bbD5XXauY", "title": "Hacking the Infamous i-Opener" },
     { "id": "l1-slCZ41FI", "title": "3 Gigs of RAM vs 64 (OpenCore Legacy!)" },
     { "id": "1Ti5tLYxcEg", "title": "I Made a Mastodon Server" },

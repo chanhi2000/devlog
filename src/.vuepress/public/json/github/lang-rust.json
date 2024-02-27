@@ -1114,5 +1114,15 @@
     "desc": "A safe, easy systems language",
     "officialSite": "http://antelang.org",
     "topics": ["ante", "compiler", "language", "llvm", "refinement-types", "systems-language"]
+  }, {
+    "repo": "calyxir/calyx",
+    "desc": "Intermediate Language (IL) for Hardware Accelerator Generators",
+    "officialSite": "https://calyxir.org",
+    "topics": ["compiler", "fpga-programming", "high-level-synthesis", "intermediate-language", "open-source-hardware"]
+  }, {
+    "repo": "FuelLabs/fuels-rs",
+    "desc": "Fuel Network Rust SDK",
+    "officialSite": "https://fuellabs.github.io/fuels-rs",
+    "topics": []
   }
 ]

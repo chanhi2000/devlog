@@ -103,5 +103,6 @@ head:
 <MyYouTubeItems jsonName="yu-lifetips3695" /><!-- 생활속꿀팁 -->
 <MyYouTubeItems jsonName="yu-pltechkorea" /><!-- 피엘테크 -->
 <MyYouTubeItems jsonName="yu-rala" /><!-- 랄라의살림기록 -->
+<MyYouTubeItems jsonName="yu-TheMoneyGPS" /><!-- The Money GPS -->
 
 <TagLinks />

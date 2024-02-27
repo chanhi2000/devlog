@@ -784,5 +784,10 @@
     "desc": "progman.exe^H^H^H^H",
     "officialSite": "https://jcs.org",
     "topics": []
+  }, {
+    "repo": "glfw/glfw",
+    "desc": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+    "officialSite": "https://www.glfw.org",
+    "topics": ["c", "linux", "macos", "opengl", "opengl-es", "unix", "vulkan", "windows"]
   }
 ]

@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/ooPgP4XXOAAZImkPsyW0tICGI_EpP7IpoQq9Da29HiP5u3_I3u7tvydcqL5mbqe9MD0dB00XwOE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DA2EMt38iLg", "title": "Floating Tab Bar for macOS | Xcode 15" },
+    { "id": "m7t1GnXFARY", "title": "SwiftUI Dock Progress Bar for macOS | Xcode 15" },
+    { "id": "_YJPnTQ8R1A", "title": "SwiftUI Share Sheet Extension | iOS 17 | Xcode 15" },
+    { "id": "EBvGmM9YQto", "title": "SwiftUI Minimal Todo List With SwiftData & Interactive Widgets | iOS 17 | Xcode 15" },
+    { "id": "d0y_f9kCSDk", "title": "SwiftUI: Universal Hero Effect | iOS 16 & iOS 17 | Xcode" },
+    { "id": "r1uxDHcGSaA", "title": "SwiftUI: Stretchy Slider Like in iOS 17 | Xcode 15" },
+    { "id": "k5yyZ8R2Dig", "title": "Pop to Root View When TabView Item is Pressed - Xcode 15" },
+    { "id": "L2_JRCG6LQo", "title": "Advance Map Interaction | Draggable Annotation | MapKit | iOS 17 | Xcode 15" },
+    { "id": "CA6GOKDiK0M", "title": "Apple Maps Bottom Sheet | iOS 17 & 16 | SwiftU | Xcode 15" },
     { "id": "1rc7jjCyNO4", "title": "Customized Animated Paywalls - RevenueCat - Xcode 15" },
     { "id": "Fg1VQsF1RQw", "title": "SwiftUI Custom File Extensions | Import & Export | Xcode 15" },
     { "id": "SeovmdV4_cw", "title": "SwiftUI CoverFlow - iOS 17 - Xcode 15" },

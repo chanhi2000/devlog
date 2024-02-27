@@ -4264,5 +4264,35 @@
     "desc": "Inspect and refine PATH environment variable on both Windows and Linux.",
     "officialSite": "",
     "topics": ["command-line", "environment-variables", "environments", "filesystem", "path", "python"]
+  }, {
+    "repo": "OpenCodeInterpreter/OpenCodeInterpreter",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SciPhi-AI/R2R",
+    "desc": "A framework for rapid development and deployment of production-ready RAG systems",
+    "officialSite": "https://docs.sciphi.ai",
+    "topics": ["artificial-intelligence", "large-language-models", "retrieval", "retrieval-augmented-generation", "search"]
+  }, {
+    "repo": "allmonday/pydantic-resolve",
+    "desc": "a hierarchical solution for data fetching and processing",
+    "officialSite": "",
+    "topics": ["bff", "dataloader", "fullstack", "hier", "hierarchical", "pydantic"]
+  }, {
+    "repo": "Eladlev/AutoPrompt",
+    "desc": "A framework for prompt tuning using Intent-based Prompt Calibration",
+    "officialSite": "",
+    "topics": ["prompt-engineering", "prompt-tuning", "synthetic-dataset-generation"]
+  }, {
+    "repo": "sdv-dev/SDV",
+    "desc": "Synthetic data generation for tabular data",
+    "officialSite": "https://docs.sdv.dev/sdv",
+    "topics": ["data-generation", "deep-learning", "gan", "gans", "generative-adversarial-network", "generative-ai", "generative-model", "generativeai", "machine-learning", "multi-table", "relational-datasets", "sdv", "synthetic-data", "synthetic-data-generation", "time-series"]
+  }, {
+    "repo": "bruin-data/ingestr",
+    "desc": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+    "officialSite": "https://bruin-data.github.io/ingestr/",
+    "topics": ["bigquery", "copy-database", "data-ingestion", "data-integration", "data-pipeline", "duckdb", "ingestion-pipeline", "mssql", "postgresql", "snowflake"]
   }
 ]

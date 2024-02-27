@@ -57,5 +57,6 @@ tag:
 <MyYouTubeItems jsonName="yu-ttabae-learn4274" /><!-- TTABAE-LEARN -->
 <MyYouTubeItems jsonName="yu-BeABetterDev" /><!-- Be A Better Dev -->
 <MyYouTubeItems jsonName="yu-Bitovi" /><!-- Bitovi -->
+<MyYouTubeItems jsonName="yu-vBrownBag" /><!-- vBrownBag -->
 
 <TagLinks />

@@ -6,9 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/WWnasGO4mm3lGJu4qX-4_bda8ccjHmXqHcWAPsPPFEEU4llmwh87x9ZQXGMaZVzSPoA2DBv_CA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Oabha_iSnNY", "title": "[인포그랩] GitLab 16.8 Release Note GCP Secret Manager 지원부터 보안 강화를 위한 GitLab 관리자 2FA 적용 외" },
+    { "id": "I8n1qSLOeCc", "title": "인포그랩 인포레터 36호 - GitLab 16.8 릴리즈, GitLab 보안 업데이트, 2024 DevOps 트렌드" },
+    { "id": "evPbGBy1hX8", "title": "인포그랩 DevOps 로그 - GitLab에서 배우는 원격 디자인 스프린트 쉽게 하는 방법" },
+    { "id": "S29Wkbp-vAU", "title": "[인포그랩] GitLab 16.9 Release Note - Duo Chat 베타 Premium 고객 제공/ MR 변경 사항 요청/ CICD 변수 사용자 인터페이스 개선 외" },
     { "id": "NrQOAqoy8NY", "title": "[인포그랩] GitLab 16.7 Release Note 코드 추천부터 GitLab 페이지 업데이트 외" },
     { "id": "4sdEqxpTXvQ", "title": "인포그랩 - GitLab 밋업으로 알아보는 VSM 기반 DevSecOps 자동화와 슬랙봇 자동화 이야기" },
-    { "id": "EAJdFisWmfc", "title": ": 인포그랩" },
+    { "id": "EAJdFisWmfc", "title": "인포그랩 DevOps 로그 AI 시대 엔터프라이즈 규모의 보안과 컴플라이언스 정책관리" },
     { "id": "mudLe5F8Fe4", "title": "[인포그랩]﻿ GitLab 16.5 Release 컴플라이언스 표준 준수 보고서/Merge Request 타깃 브랜치 규칙/이슈 스레드 해결하기/GitLab 한글영상" },
     { "id": "Xhb5T8sggUk", "title": "[인포그랩]﻿ GitLab 16.4 Release 커스텀 역할 생성/ 비공개 워크스페이스 만들기/로컬 클러스터 액세스/GitLab 한글영상" },
     { "id": "vpyIfIjmsPA", "title": "[인포그랩] GitLab 16.3 업데이트 / Value Stream 대시보드의 새로운 메트릭! SSH 워크스페이스 연결과 VS Code에서 보안 검사 결과 확인까지!" },

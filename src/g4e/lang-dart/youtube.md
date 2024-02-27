@@ -49,5 +49,6 @@ tag:
 <MyYouTubeItems jsonName="yu-explosoratory" /><!-- 설명하는개발자 -->
 <MyYouTubeItems jsonName="yu-NetNinja" /><!-- The Net Ninja -->
 <MyYouTubeItems jsonName="yu-CodingwithT" /><!-- Coding With Tea -->
+<MyYouTubeItems jsonName="yu-DavidSerranoIO" /><!-- David Serrano -->
 
 <TagLinks />

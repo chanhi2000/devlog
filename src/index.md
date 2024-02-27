@@ -291,6 +291,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 }
 ```
 
+```component VPCard
+{
+  "title": "About Ideas Now",
+  "desc": "Find people to talk to or collaborate with by searching across the /about, /ideas and /now pages of 7511 personal websites.",
+  "link": "https://aboutideasnow.com/",
+  "logo": "https://aboutideasnow.com/favicon.png",
+  "background": "rgba(242,220,178,0.2)"
+}
+```
+
 @tab Tools
 
 ```component VPCard

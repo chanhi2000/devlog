@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hGcIm7LG1mFnz2WGFgynqrIwJG6wvaXh3EytAipeD82SFf50BtMTTRX77CtRDYF2cGvnP0rUyw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fgIpf0I_Ol8", "title": "The JAVA HOME Environment variable is not defines correctly" },
     { "id": "mMl2r9XOvcQ", "title": "Unit Testing LeapYear and NonLeaYear check it out!" },
     { "id": "ed-4yhWduOA", "title": "Unit Testing for Computing E" },
     { "id": "KcBv2yXlty8", "title": "Gradle: Task 'run' not found in root project" },

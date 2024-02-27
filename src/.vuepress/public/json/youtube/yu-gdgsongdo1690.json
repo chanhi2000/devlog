@@ -6,7 +6,12 @@
     "banner": ""
   },
   "videos": [
-
+    { "id": "rKLD_CS2qtE", "title": "MLMeetup 23 허훈 : Autonomous Agent in Production" },
+    { "id": "M8j7Z8EMW9c", "title": "MLMeetup 23 이태호 강화학습의 새로운 트랜드 생성모델" },
+    { "id": "4DsbqdSgDMU", "title": "MLMeetup 23 박정환   멀티모달 101" },
+    { "id": "N6p0ZEZwtPQ", "title": "MLMeetup 23 이영빈 - JAX를 더 쉽게 사용 할 수 있는 방법 Keras Core" },
+    { "id": "OdHWwRzokDM", "title": "MLMeetup 23\"  박선우 당신은 좋은 리더인가요? 좋은답을 얻기위한 프롬프트 디자인 기술" },
+    { "id": "htzUzlfwrug", "title": "MLMeetup 23 조상현  Vision AI 학습 데이터 라벨링 비용 20배 절약 방법" }
   ],
   "playlists": [
     {

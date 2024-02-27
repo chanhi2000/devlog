@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/rNnvn26N-_lwJJ4PFL5Y4-YIfXEI7nvE3kQO4XkqX49pGffhvZSiVIIS8vRKs1guAJ5ueQOd=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RPtvMLm_8Ew", "title": "AWS CodeCatalyst, Q, & the AI Takeover of Developer Tools with AWS Hero Johannes Koch!" },
+    { "id": "zG2outSenlg", "title": "AI Powered Prompt Engineering: A How to Guide with Suzanne Guzman" },
+    { "id": "cU5pQbFE3LU", "title": "State of AWS Survey 2024 with AWS Hero Pete Sankauskas" },
+    { "id": "zbnFJUJZNp0", "title": "Livestream - Developer Career Coaching & Level-up Projects with Bob Belderbos!" },
+    { "id": "ulonYuYtkNA", "title": "LIVE: Real-World AI Automation with Lambda & Bedrock with Ken Collins" },
+    { "id": "IjTuiP9LtXM", "title": "Real World AI Automation with Lambda & Bedrock presented by AWS Hero Ken Collins" },
     { "id": "pIp6h8ZfV3s", "title": "Mesa Digital Twins, Python, & OSS with Jacqueline Kazil" },
     { "id": "ZY_l9PZNN6w", "title": "AI Powered Prompt Engineering: A How To Guide w/ Suzanne Guzman" },
     { "id": "AhRmrzBi1bM", "title": "The Do's and Don'ts of Cloud Migrations: Azure, IaC, DevOps, Terraform, Pipelines w/ Sai Gunaranjan" },

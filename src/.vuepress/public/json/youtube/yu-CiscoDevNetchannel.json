@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/yQyiKRZh3-P0JP0FpZRY5YFPEnhFgfhZyddh-SM_nJ1O8XZ-ceE-eWDhEN2dehIj6NALP6CKZMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "guGxaRcozvM", "title": "User Login and Logout" },
+    { "id": "6gs0SJumlzI", "title": "DevOps for Network Engineers - part deux" },
+    { "id": "pL1hxVLQWlk", "title": "Homelab for Success with Proxmox and CasaOS" },
+    { "id": "w4YChy2SGMg", "title": "Incident Response with Cisco XDR Automation Rules" },
+    { "id": "83vBAxs9oaw", "title": "Intro to RedHat Ansible Automation Platform" },
+    { "id": "5f1q3iXLUuk", "title": "DevOps Insights with AppDynamics" },
     { "id": "8lnss4xnpwY", "title": "Templates & Data Passing" },
     { "id": "D9dC_FNefTw", "title": "Meraki MV PPE Detection with Machine Learning" },
     { "id": "J2VwISDmP7I", "title": "DevOps for Network Engineers" },

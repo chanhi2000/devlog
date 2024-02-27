@@ -1989,5 +1989,15 @@
     "desc": "🕹️ DOOM rendered via console.log() in a web browser.",
     "officialSite": "https://mattcozendey.github.io/",
     "topics": ["browser", "doom", "log"]
+  }, {
+    "repo": "MHSanaei/3x-ui",
+    "desc": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+    "officialSite": "https://t.me/panel3xui",
+    "topics": ["fail2ban", "http", "reality", "shadowsocks", "shadowsocks2022", "socks5", "trojan", "utls", "vless", "vmess", "wireguard", "xtls", "xtls-rprx-vision", "xtls-rprx-vision-udp443"]
+  }, {
+    "repo": "piercefreeman/mountaineer",
+    "desc": "Mountaineer is a batteries-included web framework for Python and React.",
+    "officialSite": "",
+    "topics": []
   }
 ]

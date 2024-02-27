@@ -109,5 +109,10 @@
     "desc": "",
     "officialSite": "https://debugbar.dev",
     "topics": ["development", "devtools", "rails", "ruby", "ruby-on-rails", "tooling"]
+  }, {
+    "repo": "ankane/blazer",
+    "desc": "Business intelligence made simple",
+    "officialSite": "",
+    "topics": ["business-intelligence", "charts", "sql"]
   }
 ]

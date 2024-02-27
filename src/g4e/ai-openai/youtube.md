@@ -119,5 +119,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Buff_RnBD" /><!-- 버프 -->
 <MyYouTubeItems jsonName="yu-DavidOndrej" /> <!-- David Ondrej -->
 <MyYouTubeItems jsonName="yu-mreflow" /><!-- Matt Wolfe -->
+<MyYouTubeItems jsonName="yu-newlearningTV" /><!-- NewLearning 뉴러닝 -->
 
 <TagLinks />

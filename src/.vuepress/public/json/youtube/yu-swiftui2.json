@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/b9Czyet3FDFsgYNMsiVLnxvF8wRPUFW-Q2GU8JdZJfjK9xDgR1s6lsSLwDzBIOjZwkyPUGiVMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "43g607SzRXI", "title": "SwiftUI + SwiftData: How to Save [ Videos + Images] on the SwiftData Database with SwiftUI - Xcode15" },
+    { "id": "vOnt00HBfX0", "title": "SwiftUI & SwiftData: Creating a Shopping 🛍️ App with SwiftUI & SwiftData - Xcode15 - iOS 17" },
     { "id": "JEWMA22fmAg", "title": "SwiftUI: Associating the [Dictionary] with the [Tuple] to collect multiple data of different types." },
     { "id": "H6JNiutRQ9M", "title": "SwiftUI & SwiftData & CloudKit:  Set up the models + filtering data by category(part 1)" },
     { "id": "4EPGGzeu5Ic", "title": "SwiftUI WebKit: How to create a YouTube video App + saving it in CoreData." }, 

@@ -589,5 +589,10 @@
     "desc": "Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.",
     "officialSite": "https://camunda.com/",
     "topics": ["bpm", "bpmn", "camunda-bpm-platform", "camunda-engine", "cmmn", "dmn", "java", "process-engine", "workflow"]
+  }, {
+    "repo": "testcontainers/testcontainers-java",
+    "desc": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "officialSite": "https://testcontainers.org",
+    "topics": ["docker", "docker-compose", "hacktoberfest", "java", "junit", "jvm", "test-automation", "testing"]
   }
 ]

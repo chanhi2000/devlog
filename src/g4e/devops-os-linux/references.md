@@ -177,4 +177,10 @@ tag:
 
 ---
 
+## FABIEN SANGLARD'S WEBSITE
+
+- [LET'S COMPILE LIKE IT'S 1992](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
+
+---
+
 <TagLinks />

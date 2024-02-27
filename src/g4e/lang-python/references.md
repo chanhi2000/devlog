@@ -331,4 +331,16 @@ description: 🐍Python > 📚References
 
 ---
 
+## cat /dev/brain
+
+- [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
+
+---
+
+## pulsar17
+
+- [Getting help [in Python] 🧙](https://pulsar17.me/2024/02/ongettinghelp)
+
+---
+
 <TagLinks />

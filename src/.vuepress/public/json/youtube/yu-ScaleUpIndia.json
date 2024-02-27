@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ScaleUpIndia",
+    "name": "ScaleUp India",
+    "profile": "https://yt3.googleusercontent.com/_PBEJTUt-Nl_03D2qUYWYelG-pzWUHJsW1d9tWBKXqeV5WQ3Cg5OfyF3wyAYGTO5DSIy0VUI7Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZJrllM6YjiQRKsCME_SIYfNW5hbmat4xQRoDlmNdlqycNeD5SXe1JVgiEGjRvqd9vazkCZ8LwNk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gKNf1BFedeM", "title": "Eager Loading vs Lazy Loading | Hibernate in Java | Hibernate #12 | #java #hibernate" },
+    { "id": "Tln7KyQ7-O0", "title": "Switching Careers to IT in 2024? This is NOT What They Told You About Getting Hired" },
+    { "id": "BwdhC63pAgY", "title": "Many-to-Many Mapping | Hibernate in Java | Hibernate #14 | #java #hibernate" },
+    { "id": "enRzzORD6vo", "title": "Single Table Inheritance | Hibernate in Java | Hibernate #15 | #java #hibernate" },
+    { "id": "CnSv9oY12wo", "title": "Joined Inheritance | Hibernate in Java | Hibernate #16 | #java #hibernate" },
+    { "id": "UmNfHcS_yHQ", "title": "Table Per Class Inheritance | Hibernate in Java | Hibernate #17 | #java #hibernate" }
+  ]
+}

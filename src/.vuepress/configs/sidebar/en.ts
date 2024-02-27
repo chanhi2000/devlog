@@ -621,6 +621,7 @@ export const sidebarEn = sidebar({
       collapsible: true,
       children: [
         '/g4e/db-cubrid/README.md',
+        '/g4e/db-cubrid/cli.md',
         '/g4e/db-cubrid/query.md',
         '/g4e/db-cubrid/docker.md',
         '/g4e/db-cubrid/references.md',

@@ -80,4 +80,10 @@ tag:
 
 ---
 
+## Tracebit
+
+- [How to find the AWS Account ID of any S3 Bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
+
+---
+
 <TagLinks />

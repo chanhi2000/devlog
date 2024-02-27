@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/GcIphwpLdkasYlrN2xGMTrFli4015EwYlt4ZJAsFVUgvJcXlbeOi-sZPJ7KwNlTrAyuYiHIg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BPLpzpgp79A", "title": "Build A Text Search Engine with GO" },
+    { "id": "s3yslNpY4y4", "title": "Rate Limiting With GO #golang #programming #coding #development" },
+    { "id": "8EBsOZPGZn8", "title": "Connect RUST and SQLITE #rust #programming #coding #database #rustlang #sqlite" },
+    { "id": "SzEBpNB_Z1E", "title": "The Best Way to Connect Rust with MongoDB #rust #rustlang #mongodb #rusttutorial #programming" },
+    { "id": "vDzPQAP0tQM", "title": "Google Colab Complete Walkaround - Building AI Apps on the cloud #colab #colaboratory #python #ai" },
+    { "id": "L6ks_ljtM9Q", "title": "Trying out a Tiny-Scale LLM and building something (Dolly 3B)" },
+    { "id": "tLgm4PWotBM", "title": "A really cool LLM - Zephyr 7b Beta" },
+    { "id": "uGbHCRTEDyk", "title": "Build A Background Removal App with Streamlit - Full Stack Project #python #streamlit #programming" },
+    { "id": "BUpJN72fMes", "title": "Building A Job Summarizer #streamlit #langchain #openai #chatgpt #gpt4 #python #programming" },
     { "id": "k0Ki_bhS5S8", "title": "FullStack RUST Project - Blogging website using Actix Web 3, Tera #rust #rustlang #programming  #dev" },
     { "id": "wPmn1yaDKgQ", "title": "OTPs + Verification with GO #golang #golangtutorial #programming #technology #tech #coding #code" },
     { "id": "YYVoOoy8d2s", "title": "I Built A Password Vault with Rust!" },

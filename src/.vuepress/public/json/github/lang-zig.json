@@ -19,5 +19,10 @@
     "desc": "Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.",
     "officialSite": "https://zigcc.github.io/zig-cookbook/",
     "topics": ["zig", "ziglang"]
+  }, {
+    "repo": "tigerbeetle/tigerbeetle",
+    "desc": "The distributed financial transactions database designed for mission critical safety and performance.",
+    "officialSite": "https://tigerbeetle.com",
+    "topics": []
   }
 ]

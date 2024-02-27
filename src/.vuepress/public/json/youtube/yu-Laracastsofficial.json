@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/8Mn7l1_4wF4GhJlxNfU4ohQBbdqNC1r0XZKnrjb4ph0SLv1Yn-BPIzVqWsE5i-tQrNKkP5zRtAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QmHjVLa6bF8", "title": "Modular Laravel, Ep 03 - Setting Up Service Providers" },
+    { "id": "76oUujP7-yE", "title": "Set Alias for PHP Artisan command to save some time!" },
+    { "id": "51DcRlyoD7s", "title": "Using OpenAI API in PHP Projects" },
+    { "id": "eS5rxzVIpMI", "title": "Jeremy McPeak's Larabits - How to Recycle Laravel" },
+    { "id": "KbosIkj-X2U", "title": "Laracasts Podcast, Episode 147 -  Find Your Fit" },
+    { "id": "PzZQXa9VjmQ", "title": "What's New in Vue 3.4" },
+    { "id": "sWKNwAvBe_Y", "title": "CSS-Only Radial Progress Bars Using Conic Gradients" },
+    { "id": "GYXsDZ8xKv8", "title": "Here's Why You Should Attend Laracon" },
     { "id": "vmE12J3hiqg", "title": "Fun With OpenAI and Laravel, Ep 03 -  Chat with AI From the Command Line" },
     { "id": "qGV1lxbpd44", "title": "Luke Downing's Larabits - Exploring PHP's Spaceship Operator" },
     { "id": "rYMvh9Yq18Y", "title": "Modular Laravel, Ep 01 - Introduction" },

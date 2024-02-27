@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/NiKxd72T-t6VnKdokB84uT8dDn_bE5QNxIMuzd4pFHBsNuu2OMfqiN_wgtuNzjUQOA5zOlyO=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6a3Dz8gwjdg", "title": "Build and Deploy a React Admin Dashboard With Real time Data, Charts, Events, Kanban, CRM, and More" },
+    { "id": "oKIThIihv60", "title": "Build and Deploy a Figma Clone with Real Time Collaboration" },
+    { "id": "cuzw4vL1z5E", "title": "Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS" },
+    { "id": "Ahwoks_dawU", "title": "Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe" },
     { "id": "GFgJkfScVNU", "title": "Docker Tutorial for Beginners | Dockerize Any App in 2024" },
     { "id": "zgGhzuBZOQg", "title": "Build and Deploy a Full Stack Next 14 MERN Events App with Stripe, Typescript, Tailwind" },
     { "id": "FKZAXFjxlJI", "title": "Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations" },

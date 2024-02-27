@@ -956,9 +956,9 @@
     "topics": ["react", "javascript", "python", "typescript", "analytics", "feature-flags", "ab-testing", "experiments", "session-replay"]
   }, {
     "repo": "toeverything/AFFiNE",
-    "desc": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "officialSite": "https://affine.pro",
-    "topics": ["electron", "editor", "markdown", "rust", "app", "wiki", "notes", "table", "rust-language", "workspace", "whiteboard", "tableview", "rust-lang", "crdt", "knowledge-base", "notion", "miro", "notion-alternative"]
+    "topics": ["app", "crdt", "editor", "electron", "knowledge-base", "markdown", "miro", "notes", "notion", "notion-alternative", "rust", "rust-lang", "rust-language", "table", "tableview", "whiteboard", "wiki", "workspace"]
   }, {
     "repo": "aeharding/wefwef",
     "desc": "wefwef — a mobile-first Lemmy web client",
@@ -2298,5 +2298,20 @@
     "desc": "Precise Figma & React components. Packed with best practices, unified prop names & consistent design and code.",
     "officialSite": "https://functional-ui-kit.com",
     "topics": ["design-system", "figma", "front-end", "front-end-development", "frontend", "react", "react-components", "storybook", "ui-components", "ui-design", "ui-library", "uikit", "ux-design", "ux-ui"]
+  }, {
+    "repo": "huntabyte/shadcn-svelte",
+    "desc": "shadcn/ui, but for Svelte. ✨",
+    "officialSite": "https://shadcn-svelte.com",
+    "topics": []
+  }, {
+    "repo": "electric-sql/pglite",
+    "desc": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
+    "officialSite": "https://electric-sql.com",
+    "topics": []
+  }, {
+    "repo": "angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "officialSite": "https://material.angular.io",
+    "topics": ["angular", "angular-components", "material", "material-design"]
   }
 ]

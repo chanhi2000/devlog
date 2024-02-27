@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/W9wERgktL_qfOGUtgKedwD_z3J5MlMWcucJXG90FG2tHHDy2u8tMUbRSeJkqoRJlnZe4nlsKOQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Y9V7s98W3I8", "title": "#1 - Basics of Asynchronous Programming in C# .NET for Playwright testing" },
+    { "id": "kQvmZ5WeJMg", "title": "#2 - Writing Non-Blocking Async code for HttpClient in C# .NET" },
+    { "id": "TRPVNIyUPcc", "title": "#18 - Data Driven Testing with external data source using JSON and NUnit for Selenium" },
+    { "id": "mhQC58DEAMw", "title": "#3 - Run synchronous code asynchronously using Task for Playwright in C# .NET" },
+    { "id": "xCgpsx0Dgms", "title": "#3 - Chaining Task with Task Continuation for Playwright in C# .NET" },
+    { "id": "aikFS89Bt3E", "title": "Selenium with C# .NET For Beginners Course Introduction" },
+    { "id": "aikFS89Bt3E", "title": "Selenium with C# .NET For Beginners Course Introduction" },
+    { "id": "cnJ7POHNRTg", "title": "API Testing with RestSharp in C# .NET - Getting started⚡️" },
     { "id": "KPxTUIKeyNE", "title": "Top 5 Software Testing Trends of 2024 ⚡️" },
     { "id": "t2mFEnV-QiA", "title": "#15 - Understanding NUnit to write effective Selenium C# Tests⚡️" },
     { "id": "QLRcGkvieVw", "title": "#16 - Working with NUnit TestFixture, TestCase, Category and running in command line" },

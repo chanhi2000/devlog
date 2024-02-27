@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/aLdyFwbXe0DOqJvaKTwNQrha85jmP2cA3lVrKv9rYNpFhuXwrks1Hwyot7E_AELadQfjofUi1w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CK698jyL_R8", "title": "Long Time No Stream - Let's Catch-up!" },
+    { "id": "GfT8RDRW5vM", "title": "Robotic Stream with Kevin McAleer" },
     { "id": "9KsJRyZJ0vo", "title": "Much Faster Pandas with cuDF GPU Processing - CPU vs GPU Speed Benchmarks" },
     { "id": "-l7YocEQtA0", "title": "Learn Docker Quickly - Machine Learning Project for Absolute Beginners" },
     { "id": "la0-g3hywAE", "title": "Docker Quick Guide TOMORROW! 🐳🐳🐳 100% Beginner Friendly ML Containers Simplified! 🤖 #ML #ai #python" },

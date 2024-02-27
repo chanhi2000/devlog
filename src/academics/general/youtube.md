@@ -32,5 +32,6 @@ tag:
 <MyYouTubeItems jsonName="yu-onlineMathsTV" /><!-- OnlineMaths TV -->
 <MyYouTubeItems jsonName="yu-EPASSKOREA" /><!-- EPASSKOREA -->
 <MyYouTubeItems jsonName="yu-AndyMath" /><!-- Andy Math -->
+<MyYouTubeItems jsonName="yu-YaleCourses" /><!-- YaleCourses -->
 
 <TagLinks />

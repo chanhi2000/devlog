@@ -75,7 +75,6 @@ tag:
   - "@patrickwashingtondc"
   - "@javasoul4367"
   - "@NareshIT"
-  - "@icttrainer6889"
   - "@newlec1"
   - "@sangmessi727"
   - "@loianegroner"
@@ -193,7 +192,6 @@ head:
 <MyYouTubeItems jsonName="yu-patrickwashingtondc" /><!-- Patrick WashingtonDC -->
 <MyYouTubeItems jsonName="yu-javasoul4367" /><!-- JavaSoul -->
 <MyYouTubeItems jsonName="yu-NareshIT" /><!-- Naresh i Technologies -->
-<MyYouTubeItems jsonName="yu-icttrainer6889" /><!-- ICT Trainer -->
 <MyYouTubeItems jsonName="yu-newlec1" /><!-- 뉴렉처 -->
 <MyYouTubeItems jsonName="yu-sangmessi727" /><!-- Sangmessi -->
 <MyYouTubeItems jsonName="yu-loianegroner" /><!-- Loiane Groner -->

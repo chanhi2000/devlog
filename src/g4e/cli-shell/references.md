@@ -195,6 +195,18 @@ tag:
 
 ---
 
+## voussoir
+
+- [Notes on paper](https://voussoir.net/writing/notes_on_paper)
+
+---
+
+## browserless
+
+- [Announcing the /unblock API from Browserless, a new approach to dodging bot detectors](https://www.browserless.io/blog/2024/02/26/unblock-api/)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

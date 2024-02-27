@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/fbvy650wx4_QRT8rtU1rn6MSGt_vIrdyVE73lsh6EVmnx_fsnWF1v_NLSDk9NiS8ee4GSnOF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hC0GKJaFstw", "title": "Exploring MetaGPT" },
+    { "id": "X-irXixeo1Y", "title": "Deploy and run Embedchain apps on Kubernetes" },
+    { "id": "q2sG9cRJh-w", "title": "Deploy and run Embedchain apps on Kubernetes (Part 2)" },
+    { "id": "JE2L3_vpmWo", "title": "Exploring LlamaIndex" },
+    { "id": "x1ZE-8c7Ou8", "title": "Exploring Rubra" },
+    { "id": "x1ZE-8c7Ou8", "title": "Exploring Rubra and gptscript" },
     { "id": "Pw_7_r63q_U", "title": "Exploring Embedchain" },
     { "id": "902RQMRCu1s", "title": "LangChain: Retrieval (RAG) and Loaders" },
     { "id": "LDpo-aSaEl0", "title": "Ambient mesh with CNI?" },

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "marketplaceAPM",
+    "name": "Marketplace APM",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nnjtKzn0KB4OBJledym2I8XVfO_Ro9-GnSmwwJew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cJPtQw-ltfV10q-3sy-np9dqCcKkIWPf8xF1UuNqvNFtSBxphTJdS5KF7dbL_7LXlFEJ1Rt0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GAEQIUQmZ_I", "title": "The AI Doctor Will See You Now | Bytes: Week in Review | Marketplace Tech" },
+    { "id": "ZKjLDombsX4", "title": "Netflix Breaks Up With Its Cheapest Ad-Free Subscription | Bytes: Week in Review | Marketplace Tech" },
+    { "id": "rWnAyculs18", "title": "A Robocall Crackdown | Bytes: Week in Review | Marketplace Tech" }
+  ]
+}
