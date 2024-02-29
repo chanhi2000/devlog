@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/W24nrbMLN3nbCDWSKpdiMM9XS27WOhVwtNPNRduliX1jL33hls7aB8kOMUo-VnkEaJorBg_GSw0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qDRQ2EaWsNM", "title": "Authentication with Next Auth V5 and NextJS 14 [EASY] - API Routes, Server & Client Components" },
+    { "id": "Kb1f5bvF6f4", "title": "NextJs Portfolio Tutorial - Build a Responsive Portfolio Website w/ Advanced Animations (2023)" },
+    { "id": "zzWypOl4JkY", "title": "Fullstack AI Form Builder Tutorial with Next JS, TypeScript, Drizzle ORM, React, OpenAI, Stripe" },
+    { "id": "2ss1FcM0st8", "title": "Must-Have VS Code Extensions for React Developers (2024)" },
     { "id": "-cV51fGc5lg", "title": "STOP using Passwords: How to use Magic Link for Auth in NextJS Instead" },
     { "id": "SgucQjxPs4s", "title": "Fetch vs Axios: Which one is Better for your Next React Project #reactjs" },
     { "id": "t7AOq4m-J0k", "title": "I Built Git(in JavaScript)" },

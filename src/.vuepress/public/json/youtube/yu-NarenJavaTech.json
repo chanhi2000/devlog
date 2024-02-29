@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "NarenJavaTech",
+    "name": "Naren Java Help Line",
+    "profile": "https://yt3.googleusercontent.com/FhZt8-nbdRzZtksvBpm7Ws3b33ic_Zl6Aj3Qil-pKkTvWe5X-0loAudxPJMEzs42vK8czjnXGr8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wRqAPkxuASjBn3hZ68O6mwTWTRHQYZfosZRXtc4rrYZvCpPrlmA7gC7x_Yyq-wJgrhJkt1QkHw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Zy7Twt5pJBA", "title": "String program #2- Reverse A String In Java using Java8 Stream API  |  using Lambda expr by Naren" },
+    { "id": "Ak5Q1h9qPlo", "title": "Producer Consumer Problem | By Naren" },
+    { "id": "_fG2oZE6NFA", "title": "Thread Life Cycle in Java | Life cycle of a thread in Multithreading | by Naren" },
+    { "id": "JGRNa-0IRyc", "title": "Process Vs Thread | difference between Process and Thread in multithreading | by Naren" },
+    { "id": "oly1vAaw4oQ", "title": "MultiThreading in Java with Java8- Lambda Expression | How to create Thread in 2 ways | By Naren" },
+    { "id": "4j4dTayIYSE", "title": "No of ways to create Spring Boot application by Naren" },
+    { "id": "-_IXJZKjA_Y", "title": "How to install STS IDE on Windows & Create a Spring Boot Project | Spring Boot + STS IDE | By Naren" }
+  ]
+}

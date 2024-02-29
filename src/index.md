@@ -445,9 +445,19 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 {
   "title": "gitignore.io",
   "desc": "자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요",
-  "logo": "https://www.toptal.com/img/toptal-logo-wordmark.svg",
   "link": "https://www.toptal.com/developers/gitignore",
+  "logo": "https://www.toptal.com/img/toptal-logo-wordmark.svg",
   "background": "rgba(32,78,207,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SQL Workbench",
+  "desc": "SQL Workbench - Rapid prototyping SQL Queries & Data Visualizations",
+  "link": "https://sql-workbench.com/",
+  "logo": "https://sql-workbench.com/icon.png",
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -511,6 +521,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   "link": "https://wiki.mutable.ai",
   "logo": "https://app.mutable.ai/favicon.png",
   "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Globe Explorer",
+  "desc": "Finding everything humans know about ...",
+  "link": "https://explorer.globe.engineer",
+  "logo": "https://explorer.globe.engineer/favicon.png",
+  "background": "rgba(3,105,161,0.2)"
 }
 ```
 

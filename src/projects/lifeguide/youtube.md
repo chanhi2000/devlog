@@ -104,5 +104,6 @@ head:
 <MyYouTubeItems jsonName="yu-pltechkorea" /><!-- 피엘테크 -->
 <MyYouTubeItems jsonName="yu-rala" /><!-- 랄라의살림기록 -->
 <MyYouTubeItems jsonName="yu-TheMoneyGPS" /><!-- The Money GPS -->
+<MyYouTubeItems jsonName="yu-sam_simple_restaurant" /><!-- 삼플식당(Sam Simple Restaurant) -->
 
 <TagLinks />

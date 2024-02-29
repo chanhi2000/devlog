@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/6r37uvmD2t76rc90wM9ipbAwlLSPjjNMq-J4xunHUv0gbTm9nZBJM0vUBWFwTIQsbyJnGajm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cgZcNk-iK3w", "title": "How to Create a Gantt Chart in Python" },
+    { "id": "v41xeKYnIbc", "title": "How to Create a Lottery Number Generator using Tkinter in Python" },
     { "id": "OvHqFHydg9I", "title": "How to Create a Loan Calculator with PMT Function in Visual Basic.Net" },
     { "id": "iqHnWacwlho", "title": "How to Create a Loan Calculator Management System with PMT Function in C#" },
     { "id": "4KzPKiQoUTQ", "title": "How to Create a Loan Calculator using PMT Function in Visual C++" },

@@ -351,9 +351,9 @@
     "topics": ["electron", "mock", "api", "application", "rest", "server", "rest-api", "mock-server", "swagger", "desktop", "openapi", "mocking", "prototyping", "mocking-utility", "mock-data", "openapi3", "mock-api", "mocking-server"]
   }, {
     "repo": "pure-admin/vue-pure-admin",
-    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "desc": "🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
     "officialSite": "https://yiming_chang.gitee.io/vue-pure-admin/#/login",
-    "topics": ["admin", "typescript", "vue3", "vite", "element-plus"]
+    "topics": ["admin", "element-plus", "esm", "pinia", "tailwindcss", "typescript", "vite", "vue3"]
   }, {
     "repo": "AprilNEA/ChatGPT-Admin-Web",
     "desc": "带有用户管理和后台管理系统的 ChatGPT WebUI",
@@ -1076,9 +1076,9 @@
     "topics": ["nodejs", "javascript", "docker", "kubernetes", "npm", "registry", "node", "yarn", "docker-image", "hacktoberfest", "private-npm", "pnpm", "verdaccio", "yarnpkg", "npm-registry", "heml", "registry-proxy", "sponsor"]
   }, {
     "repo": "Lissy93/web-check",
-    "desc": "🌐 All-in-one OSINT tool for analysing any website",
+    "desc": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
     "officialSite": "https://web-check.xyz",
-    "topics": ["security", "privacy", "osint", "sysadmin", "security-tools"]
+    "topics": ["osint", "privacy", "security", "security-tools", "sysadmin"]
   }, {
     "repo": "ant-design/ant-design",
     "desc": "An enterprise-class UI design language and React UI library",
@@ -2313,5 +2313,10 @@
     "desc": "Component infrastructure and Material Design components for Angular",
     "officialSite": "https://material.angular.io",
     "topics": ["angular", "angular-components", "material", "material-design"]
+  }, {
+    "repo": "pmndrs/uikit",
+    "desc": "📱 user interfaces for react-three-fiber",
+    "officialSite": "",
+    "topics": []
   }
 ]

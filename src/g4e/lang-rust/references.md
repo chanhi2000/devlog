@@ -205,4 +205,12 @@ tag:
 
 - [ALGEBRAIC EFFECTS, OWNERSHIP, AND BORROWING](https://antelang.org/blog/effects_ownership_and_borrowing/)
 
+---
+
+## Floneum
+
+- [Kalosm v0.2.0 Tasks, Evaluation, Prompt Auto-Tuning, Regex Validation, Surreal Database Integration, RAG improvements, Performance Improvements, and More!](https://floneum.com/blog/kalosm_0_2)
+
+---
+
 <TagLinks />

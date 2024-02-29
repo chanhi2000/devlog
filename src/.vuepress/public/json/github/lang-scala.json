@@ -39,5 +39,10 @@
     "desc": "Repositório da 2ª edição da Rinha de Backend",
     "officialSite": "https://twitter.com/rinhadebackend",
     "topics": []
+  }, {
+    "repo": "Vyxal/Vyxal",
+    "desc": "A code-golfing language experience that has aspects of traditional programming languages - terse, elegant, readable.",
+    "officialSite": "https://vyxal.github.io/",
+    "topics": ["array-language", "arrays", "code-golf", "conciseness", "esolang", "esoteric-language", "esoteric-programming-language", "experience", "fractional-bytes", "golfing", "golfing-language", "powered-by-copilot", "programming-language", "python", "readability", "stack-based", "stack-based-language", "vyxal"]
   }
 ]

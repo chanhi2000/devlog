@@ -1249,5 +1249,10 @@
     "desc": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
     "officialSite": "https://ollama.com",
     "topics": ["go", "golang", "llama", "llama2", "llm", "llms", "mistral", "ollama"]
+  }, {
+    "repo": "runreveal/pql",
+    "desc": "Pipelined Query Language",
+    "officialSite": "https://pql.dev",
+    "topics": ["clickhouse", "detection-engineering", "go", "golang", "query-language", "siem", "sql"]
   }
 ]

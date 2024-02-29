@@ -4294,5 +4294,10 @@
     "desc": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
     "officialSite": "https://bruin-data.github.io/ingestr/",
     "topics": ["bigquery", "copy-database", "data-ingestion", "data-integration", "data-pipeline", "duckdb", "ingestion-pipeline", "mssql", "postgresql", "snowflake"]
+  }, {
+    "repo": "myshell-ai/MeloTTS",
+    "desc": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+    "officialSite": "",
+    "topics": ["chinese", "english", "french", "japanese", "korean", "multilingual", "spanish", "text-to-speech", "tts"]
   }
 ]

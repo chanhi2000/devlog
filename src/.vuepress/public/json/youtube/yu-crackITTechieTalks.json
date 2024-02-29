@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "crackITTechieTalks",
+    "name": "crackIT",
+    "profile": "https://yt3.googleusercontent.com/OfvfuF0HCF5vqlsqSVY8HyeZKRrDk_pHSTP6RdZSzCqF9x60fHi4SjVV_IJey1QJHzaUeBvnFw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "gfvi7o_x9Sc", "title": "How to connect multiple databases in one Springboot application?" },
+    { "id": "UM4DZdU0VPQ", "title": "What is JWT? JSON Web Token Explained !!!" },
+    { "id": "uED0m8oQTl0", "title": "Working with FeignClient | @EnableFeignClient | @FeignClient | Microservices Communication" },
+    { "id": "OoxpcIKI-gw", "title": "JWT Interview Questions - Frequently asked !! | With Code | CrackIT" },
+    { "id": "15cwfcsD3eE", "title": "Java Developer Interview | Spring boot | DB | JMS | Spring framework | Java8 | Mock Interview" },
+    { "id": "Txb0YlEVLds", "title": "Hibernate N+1 Problem Solution | FAQ - Hibernate Interview Questions" },
+    { "id": "GbM74ydcZc0", "title": "Common Spring Mistakes you should avoid" },
+    { "id": "tinUVV_pImM", "title": "Asynchronous Programming | @Async | @EnableAsync | Multithreading | Spring framework" }
+  ]
+}

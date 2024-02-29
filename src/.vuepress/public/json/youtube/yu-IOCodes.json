@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "IOCodes",
+    "name": "IOCODES",
+    "profile": "https://yt3.googleusercontent.com/f7aUcaEod9zM0JPIDPtVanDG_NR7IXKu4BZSjNTjkhoLCPi2OotJZY2cbewPn9UNmD8wuSoRxQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4UnBUCUkgTBu1SFl39fo2BdMHRQ4S95tvXSrHNVcTDEQLYcgZ0eKg7B0GPLOnfS6ch8aev3VUw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d-iLjxICiVw", "title": "A Complete Tutorial on how to Build a Spring Boot Book API Project With Spring Data Rest" }
+  ]
+}

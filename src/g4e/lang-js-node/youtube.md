@@ -21,7 +21,6 @@ description: 🧶Node.js > 📺Youtube
 <MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
 <MyYouTubeItems jsonName="yu-JamesQQuick" /><!-- James Q Quick -->
 <MyYouTubeItems jsonName="yu-kevinwwwade" /><!-- Kevin Wade -->
-<MyYouTubeItems jsonName="yu-codinginflow" /><!-- Coding in Flow -->
 <MyYouTubeItems jsonName="yu-WebDevSimplified" /><!-- Web Dev Simplified -->
 <MyYouTubeItems jsonName="yu-codingapple" /><!-- 코딩애플 -->
 <MyYouTubeItems jsonName="yu-laithacademy" /><!-- Laith Academy -->

@@ -24,5 +24,10 @@
     "desc": "The distributed financial transactions database designed for mission critical safety and performance.",
     "officialSite": "https://tigerbeetle.com",
     "topics": []
+  }, {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "desc": "Unified abstraction layer and HAL for several microcontrollers",
+    "officialSite": "",
+    "topics": ["embedded", "hal", "zig", "zig-package", "ziglang"]
   }
 ]

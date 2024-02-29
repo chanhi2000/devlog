@@ -999,5 +999,15 @@
     "desc": "A collection of inspiring resources related to engineering management and tech leadership",
     "officialSite": "",
     "topics": ["article", "bias", "culture", "decisions", "employee-handbook", "engineering-management", "leader", "management"]
+  }, {
+    "repo": "krishnaik06/Data-Science-Projects-For-Resumes",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。",
+    "officialSite": "https://v2cross.com",
+    "topics": ["clash", "client", "fanqiang", "fq", "free-servers", "freefq", "google", "shadowrocket", "shadowshare", "shadowsocks", "socket", "ss", "tizi", "trojan", "v2ray", "vless", "vmess", "xtls"]
   }
 ]

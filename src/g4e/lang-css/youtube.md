@@ -37,5 +37,6 @@ tag:
 <MyYouTubeItems jsonName="yu-WebKitCoding" /><!-- WebKitCoding -->
 <MyYouTubeItems jsonName="yu-devbang" /><!-- 개발자방16 -->
 <MyYouTubeItems jsonName="yu-AcademyNet.net1" /><!-- AcademyNet -->
+<MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
 
 <TagLinks />

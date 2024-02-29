@@ -130,5 +130,6 @@ tag:
 <MyYouTubeItems jsonName="yu-kingchobo" /><!-- 왕초보 홈페이지만들기 -->
 <MyYouTubeItems jsonName="yu-Jims-Garage" /><!-- Jim's Garage -->
 <MyYouTubeItems jsonName="yu-wboan" /><!-- W보안넷 : 정보보안 -->
+<MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
 
 <TagLinks />
